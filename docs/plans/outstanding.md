@@ -1,174 +1,104 @@
 # NegaraKu.md — Outstanding Tasks
 
 Living tracker of open work toward the mission **"let the world know about Malaysia."**
-Update this file as tasks move; check items off when done. Owner tags: **[you]** = user
-action (accounts, credentials, approvals — Claude can't do these), **[me]** = Claude.
+Owner tags: **[you]** = user action (accounts, credentials, approvals — Claude can't
+do these), **[me]** = Claude.
 
-_Last updated: 2026-09-29._
+_Last updated: 2026-10-20._
+
+The product is mature: **13 languages live** (~1,080 articles each), full analytics
+stack, AI-friendly infra, Facebook auto-posting. The frontier now is **distribution**
+(off-site reach) and **content-quality cleanup** — not more features.
 
 ---
 
-## 📊 Analytics redesign — OUTSTANDING (2026-10-04)
-Goal: redesign the /analytics page around the three VISITOR types in the Visitors box —
-**Readers** (humans), **Search** (search crawlers: Googlebot/Bingbot/…), **AI** (LLM crawlers:
-ClaudeBot/GPTBot/PerplexityBot/…). Buckets are set by User-Agent in `worker/src/classify.js`.
+## 🔝 Top of mind
+1. **Distribution** — LinkedIn is closest (built, waiting on ~3 credential steps from you).
+2. **Content-quality cleanup** — GSC broken links + verification backlog (both [me], no blockers).
+3. **GA4** — just went live; data accrues over the next day or two, then the panel fills.
 
-**Dimensions we already capture** (per page-view, logged by `worker/src/index.js` → Analytics Engine):
-- **Shared by all 3 buckets:** article/path · language (locale) · country · region · city · device · browser · OS · bot name (the specific engine/crawler — meaningful for Search & AI) · hit count · time-trend.
-- **Readers only (richest):** referral **channel** + **source** (direct/search/ai/social/referral — how they arrived) · **engagement** (dwell seconds, scroll %) · **click-throughs** (internal "what they open next" + outbound links). Cookieless beacon at `/_a/e`.
-- **Search extra feed:** Google Search Console (`analytics/gsc.json`) — query · page · country · device · clicks/impressions/CTR/position.
-- **AI extra:** which AI crawler, by path/locale/geo (no query data — AI crawlers don't send one).
-- **Cross-check feed:** Cloudflare GraphQL zone analytics — country/device/browser/os/path/status/cache (24–72h retention only).
+---
 
-**[me] Redesign — ✅ PHASE 1 (structure) DONE 2026-10-04 (commit c2acc3ac):** /analytics reorganized
-from a flat scroll into zones by visitor type — sticky jump-nav (Overview · Readers · Search · AI ·
-Social) with scroll-spy, zone headers, sections regrouped via CSS flex `order`+nth-of-type (no DOM
-move, nothing display:none'd so charts never break). Verified live all 5 zones. **✅ PHASE 2 DONE 2026-10-04 (commit 67c66ee9):** each zone's lead panel is now one consistent
-metric×dimension explorer (shared widget, pre-rendered views toggled by a tiny controller) —
-Search: Impressions/Clicks/CTR × Query/Pillar (impressions first-class, the user ask); AI: Fetches ×
-Crawler/Pillar/Article; Readers: Visits × Channel/Source. Verified live. **✅ Readers metrics DONE 2026-10-04 (commit 8958b7f0):** Content-performance explorer — Visits /
-Dwell / Scroll × Pillar / Category / Article (sample-weighted; article rows link). Visits has real
-data now; Dwell/Scroll are wired and populate once the engagement beacon accrues ("0 measured visits"
-currently). **Geo/device dims — DEFERRED (data, not UI):** reader cube is empty (not accrued) and the
-Overview Traffic Explorer already exposes reader country/device/browser/os (AE source) — lights up when
-the cube fills. **FB reach/impressions — BLOCKED by Meta:** those insights metrics are deprecated at our
-API tier (see `scripts/pull-facebook-insights.mjs`); Social tracks reactions/comments/shares instead.
-Revisit only if Meta access changes.
+## 📈 Google Analytics 4 — LIVE 2026-10-20
+Consent-gated client-side GA4 (`G-PLSR4CV12C`) + 13-language opt-in banner + the
+`/analytics` dashboard panel (fed from the GA4 Data API via the `gsc-reader` service
+account, reusing `GSC_SA_KEY`). Policies rewritten to disclose it. See `docs/GA4-SETUP.md`.
+- [x] Everything built, pushed, live; consent banner dismiss-bug fixed; duplicate GA account trashed.
+- [ ] **[you/auto]** Once ~24–48h of consented data accrues, run **Actions → "Archive Google Analytics"** (or wait for the Monday schedule) → panel fills on next deploy.
+- [ ] **[you, optional]** Use a dedicated `GA_SA_KEY` instead of reusing `GSC_SA_KEY` (decouples lifecycles). Fine as-is.
 
-**Model it as METRICS × DIMENSIONS** (user ask 2026-10-04 — "include impression"):
-- **Metrics (what we count):** visits · **impressions** · clicks · CTR · position · dwell · scroll · reach.
-- **Dimensions (how we slice):** country/region/city · device/browser/OS · path/article · language · referral channel+source · bot/engine · GSC query.
-- **IMPRESSIONS are real only where the source provides one** — include them honestly, don't fabricate:
-  - **Search = yes, headline metric** (GSC: impressions + clicks + CTR + position; already in `analytics/gsc.json`).
-  - **Readers = no impression** (we only see a human on arrival) → visits + engagement + click-through.
-  - **AI = no true impression** (nothing reports AI citations) → crawler **fetches** per bot/article as the reach proxy; don't label it "impressions".
-  - **Social/FB (if folded in) = yes** — FB insights give post impressions/reach (facebook-insights workflow).
+---
 
-## 🔤 Language switcher redesign — ✅ DONE 2026-10-04 (commit 5e3253b7, pushed/live)
-Replaced the flat 2-letter row with ONE native `<details>` dropdown at every width (Header.astro):
-desktop summary = globe + current language's native name; narrow = globe + code; dropdown lists every
-language in its own script with a code badge, current highlighted, capped-height + scrollable (scales
-to 13+). Pure HTML/CSS, each option a real `<a href hreflang>` (no-JS, keeps SEO). Verified live
-desktop + 380px.
+## 🚀 Distribution push — the main open frontier (ON HOLD, resume anytime)
 
-## 🌐 Distribution push — ON HOLD (2026-09-18, "come back later")
+**Why it matters (AI-citation diagnosis):** the site ranks on long-tail but sits ~position
+12 on head terms, so AI answer-engines never pull it into their candidate set. On-page GEO
+is already best-in-class; the gap is **off-page** (third-party citations, backlinks, domain age).
 
-### ⭐ AI-citation diagnosis (2026-09-29) — "why doesn't Claude.ai cite us for business entities?"
-Diagnosed from real GSC data (`analytics/gsc.json`, →2026-09-25): the site **is** indexed and
-ranking — **58,873 impressions, 520 clicks, avg position 12.5** (page ~2); `business` alone 4,614
-impr. It wins **long-tail/specific** queries (ranks 6–9) but loses **broad head terms** ("business
-entities in Malaysia"), where established firms (Acclime, ASEAN Briefing, Foundingbird) sit 1–10.
-AI answer-engines only pull **top-ranked** results into their candidate set, so at position 12+ we
-never enter it. **Not an indexing / content / on-page problem** — on-page GEO is already best-in-class
-(rich JSON-LD, per-locale llms.txt, `max-snippet:-1`). The gap is **off-page**:
-1. **[you] Third-party citations** — the Wikipedia Phase 2b playbook (COI-careful, sparse). Biggest lever, highest risk.
-2. **Domain authority + time** — site is months old; backlinks (LinkedIn/IG posts, genuine community citations) + age lift head-term ranking. Compounds; no shortcut.
-3. **[me] Head-term consolidation** — make `knowledge/business/business-structures-malaysia.md` a dense hub internally linking every entity-type article (Sdn Bhd, LLP, Labuan, sole-prop, the `vs` pages). The only purely-internal lever.
-- **[me] increment:** expand the HF dataset from ms/en/zh/ta → +ja/ko/th/vi/id.
-- **Decision:** parked here; finish Indonesian Phase 2 first, then do #3 (option b). See memory [[negaraku-distribution-channels]].
-
-
-The 4 discovery modes and where we stand:
-
-| Mode | Have | Gap |
-|---|---|---|
-| Search (pull) | SEO ✓ | answer engines, Wikipedia |
-| AI (machine) | llms.txt, MCP, **HF dataset ✓** | (broad training-data presence) |
-| Social (push) | Facebook ✓ | Instagram, LinkedIn, every other network |
-| Reference / owned | Share button | Wikipedia, newsletter, syndication |
-
-### LinkedIn — Page done, engine built, **paused mid-setup**
-- [ ] **[you]** Verify business email on the Community Management API request (the step we stopped at)
+### LinkedIn — Page + engine built, paused mid-setup (closest to done)
+- [ ] **[you]** Verify business email on the Community Management API request
 - [ ] **[you]** Mint OAuth token as org admin, scope `w_organization_social` (~60-day; refresh 365-day)
 - [ ] **[you]** Add repo secret `LINKEDIN_ACCESS_TOKEN`
-- [ ] **[me]** Uncomment the `schedule:` in `.github/workflows/linkedin-backlog.yml` to go live
-- [x] Page fully set up (logo, 6:1 banner, About, specialties, location, EN/MS/ZH localization)
-- [x] Poster engine built + dry-run-verified (en/ms/zh, business-pillar-first, rotated into one feed)
-- [x] Developer app "NegaraKu.md Poster" (Client ID `86s3wnpy5m90dt`, id 263840707) created + Company-verified
+- [ ] **[me]** Uncomment `schedule:` in `.github/workflows/linkedin-backlog.yml` to go live
+- [x] Page set up (logo, 6:1 banner, About, specialties, location, EN/MS/ZH); poster engine built + dry-run-verified; dev app Company-verified
 
-### Instagram — flagship done, expand
-- [ ] **[you]** Create `@negaraku.md.en` / `.zh` / `.ta` accounts (signup)
-- [ ] **[me]** Wire each (Professional → Business → category → photo+bio → Business Suite → Page connect → system-user tasks)
-- [ ] **[you]** `instagram_content_publish` App Review on the Poster app (per-app, covers all 4)
-- [ ] **[me]** Build the IG branch of the poster engine (2-step Content Publishing API; link-in-bio)
-- [x] Flagship `@negaraku.md` (ms) provisioned + wired
-- [x] Branded per-language emails (Cloudflare Email Routing catch-all → brand Gmail)
+### Instagram — flagship `@negaraku.md` (ms) live, expand
+- [ ] **[you]** Create `@negaraku.md.en` / `.zh` / `.ta` accounts
+- [ ] **[you]** `instagram_content_publish` App Review on the Poster app (covers all)
+- [ ] **[me]** Wire each account + build the IG branch of the poster engine (2-step Content Publishing API; link-in-bio)
 
-### Wikipedia
-- [x] **Phase 2b playbook WRITTEN** — `docs/plans/wikipedia-coi-playbook.md` (COI rules, disclosure, Talk-page edit-request workflow, §3 acceptable-source test, templates, tracker). Lowest-priority/highest-risk channel; do sparingly or skip.
-- [x] **COI disclosure published** 2026-09-21 — `User:Ai.negaraku.md` states the NegaraKu.md/1company affiliation + the Talk-page-only workflow (via edit API).
-- [ ] **[you]** Execute (optional, sparingly): propose only §3-passing citations via Talk-page `{{request edit}}`. Claude drafts/assesses on request; never posts to article space.
-- [x] Wikidata QID sweep (~343 articles) + own item Q141449495
+### Internal SEO levers — purely [me], no blockers
+- [ ] Head-term consolidation: make `knowledge/business/business-structures-malaysia.md` a dense hub internally linking every entity-type article (Sdn Bhd, LLP, Labuan, sole-prop, the `vs` pages)
+- [ ] Expand the Hugging Face dataset to all 13 live languages (currently narrower)
+
+### Wikipedia — playbook + COI disclosure done; execution optional
+- [ ] **[you, sparingly]** Propose only §3-passing citations via Talk-page `{{request edit}}` (`docs/plans/wikipedia-coi-playbook.md`). Highest-risk, lowest-priority. Claude drafts/assesses; never posts to article space.
+- [x] COI disclosure published (`User:Ai.negaraku.md`); Wikidata QID sweep (~343 articles) + own item Q141449495
 
 ### Not started (Tier 2–3)
-- [ ] Email newsletter (owned audience, algorithm-independent)
+- [ ] Email newsletter (owned, algorithm-independent audience)
 - [ ] Syndication — Google News Publisher, Flipboard, Pinterest
 - [ ] X/Twitter + Telegram broadcast (extend the poster engine)
-- [ ] Short-form video (TikTok / YouTube Shorts / Reels) — needs text→video pipeline
+- [ ] Short-form video (TikTok / YouTube Shorts / Reels) — needs a text→video pipeline
 - [ ] Embeddable widgets (compliance calendar / knowledge graph / fact-of-the-day)
 
 ---
 
-## 🌏 Japanese (`ja`) — ✅ FULLY LAUNCHED 2026-09-20
-- [x] Phases 0–2 (foundation, fonts, `/ja` routes, chrome)
-- [x] **Phase 3** — full corpus: all **1,094** masters translated to `.ja.md`
-- [x] **Phase 4** — open launch: `ja` in LOCALES, indexed, sitemap, switcher/hreflang; all 1,094 **published** (890 non-sensitive + 204 sensitive signed off by reviewer `ashton-tan`); deploy green; verified live Japanese on real pages
-- [x] Post-launch chrome gaps closed (subcategory TOPICS labels, language-availability badge, FAQ count, dashboard FB panel — see [[negaraku-language-launch-checklist]])
-- [x] **Facebook** activated (in LANGS + LANG_POLICY; first ja post live; auto-posts 1/day; Page website = `negaraku.md/ja`)
+## 🧹 Content quality & integrity — [me], no blockers
+- [ ] **GSC "Not found (404)"** — ~75 broken *relative* links in ~18 source articles (the real ones, not scanner probes, which are robots-blocked). Plan: `docs/plans/gsc-404-action-plan.md`. `check-internal-links` misses these.
+- [ ] **`verificationNeeded` backlog** — clear remaining unconfirmed-claim items pillar by pillar (taxation tranche done, 20 cleared; reusable multi-agent sweep method exists).
+- [ ] **[you/ashton-tan]** Optional human review of the ~196 sensitive articles per language (published AI-assisted under reviewer `ashton-tan`) — most relevant for the newest languages (Arabic especially).
 
-## 🇰🇷 Korean (`ko`) — ✅ FULLY LAUNCHED 2026-09-26 (plan: `docs/plans/korean-launch.md`)
-- [x] **Phases 0–4 DONE + PUSHED/DEPLOYED** — 1073/1073 translated, corrective field-pass (562 files → 0 untranslated), currency normalized to 억/조/만, published (877 non-sensitive + 196 sensitive reviewer `ashton-tan`), `ko` in LOCALES/sitemap/switcher/hreflang (indexed, 0 noindex), 21 /ko redirects, FB activated (Page `1308994995630346`). Build green, health --strict 0, dashboard 1073/1073 + languages:6. Post-launch polish: /ta,/ja,/ko homepage titles + ja/ko milestones + 5 한다체→합니다체 files.
-- [ ] **[you]** update the KO Facebook Page website field → `https://negaraku.md/ko` (Page settings — the only remaining Korean item)
+---
 
-## 🌐 Next languages — COMMITTED SEQUENCE (agreed 2026-09-26; MULTI-AGENT path, NO API)
-Ranked by net-new reach (audiences that can't read the site today) × Malaysia-inbound × ÷ effort. `id` ranked below the truly-distinct languages because ms already gives Indonesians ~80% comprehension (though the site's tax/law/admin register — cukai/pajak, kerajaan/pemerintah, syarikat/perusahaan — diverges most). Each ≈ one Korean-scale multi-agent effort; follow [[negaraku-language-launch-checklist]] (esp. KOREAN RUN lessons: full field-list up front, non-recursive agents ≤10 concurrent, deterministic currency script, publish flip + sensitive reviewer, homepage title + count-copy in Phase 1).
-- [ ] **7. Thai (`th`) — DO NEXT** — top tourist/border-trade source, zero current access; new font, no RTL
-- [ ] **8. Vietnamese (`vi`)** — rising tourism/business/workers; Latin script (low font cost), no RTL
-- [ ] **9. Indonesian (`id`)** — cheapest (near-ms); huge adjacent SEO market + Indonesian workers/tourists in MY
-- [ ] **10. Arabic (`ar`)** — Gulf/halal/high-spend tourists; first **RTL** (build bidi infra once). Pull forward if Gulf/halal becomes strategic
-- [ ] **11. Hindi (`hi`)** — North-Indian tourists/workers/investors; Devanagari
-- [ ] **12. Spanish (`es`)** — biggest global-reach language; Latin, cheap
-- [ ] **13. French (`fr`)** — Europe/Africa/Canada; Latin, cheap
-- [ ] _Beyond: migrant-worker tranche (Bengali, Nepali, Burmese, Tagalog) if serving in-Malaysia workers becomes the priority_
+## 📣 Social / Facebook
+- [ ] **[you]** FB **comment-mode** — blocked by Meta App Review / Advanced Access (caption-mode is live and working).
+- [ ] **[me, when wanted]** **Arabic Facebook layer** — deliberately excluded from the Arabic launch: FB Page + `facebook.mjs` wiring + FB covers + campaign measure-card burst for `/ar`.
+- [ ] **[you]** Set each FB Page's **website field** to its locale (e.g. `negaraku.md/ko`) where still pointing at the root.
 
-## 📊 Analytics redesign — IN PROGRESS (plan: `docs/plans/analytics-redesign.md`)
-Split `/dashboard` (content health) from a new `/analytics` (filterable growth trends: channel · SEO · AI · visitor · category · language). Data reality: only SEO has trend history; visitors/channels/AI/engagement/social are snapshot-only.
-- [x] **Phase 1a — data foundation**: daily time-series capture (`analytics-store.mjs` series + `accumulate-analytics.mjs` daily fold + `--seed-series` backfill + `build-analytics.mjs` → `public/api/analytics-series.json`); worker locale fix pending. Fail-safe; fold logic unit-tested. *(local, held for push)*
-- [x] **Seed done** 2026-09-20 — ran `Accumulate Visitors snapshot` with `seed_series = true`; backfilled **38 days** of daily trend data (commit 3686fb8f). Accumulates permanently from here (outlives AE's 90d).
-- [x] **Phase 1b split** — new `/analytics` route (5 locales) + AnalyticsView; moved the 6 analytics panels out of DashboardView (now content-only + cross-link); nav + `nav.analytics` i18n; **worker `ta`/`ja` locale fix**. Build green, dev-verified. *(commit 3c3a02aa, local)*
-- [x] **Phase 1b charts** — `/analytics` "Trends over time": time-range filter (30d/90d/All) + daily multi-line chart (visitors/AI/search crawlers) + traffic-by-channel bars for the selected range + monthly SEO chart (accruing until ≥2 months). Inline SVG, no chart lib; `getAnalyticsSeries()` getter; verified in dev with the 38-day seeded data. *(local, held for push)*
-- [x] **Phase 2 (part 1)** — visitors-by-**language** trend chart (byLang daily) + **most-read articles** panel (both verified with seeded data) + **FB byMonth merge-forward** capture (social trend accrues forward once FB insights run). *(local, held for push)*
-- [x] **Phase 2 (part 2)** — per-bot AI daily series (`aiByBot`) + "AI crawlers by bot over time" chart (re-seedable → lights up after a fresh `seed_series` run); GSC `byMonth` × category/lang enrichment via a fail-safe `date×page` query (unblocks SEO-by-category/language trends; accrues from the next GSC run + backfills 16mo). Capture unit-tested; build green. *(local, held for push)*
-- [x] Re-ran `seed_series` — per-bot AI series backfilled (28/38 days), "AI crawlers by bot" chart live (deploy 35553309155).
+---
 
-## 🧮 Analytics pivot / Traffic explorer — Cloudflare-style, IN PROGRESS
-User pointed at Cloudflare's Domain Dashboard ("i expect this type… even can configure") — filterable, configurable multi-panel traffic view. Decision: **both sources, unified** on /analytics; headline = **Visitors · Impressions · Clicks**. See [[negaraku-cf-graphql-analytics]].
-- [x] **Stage 1 — edge capture**: worker/src/device.js + index.js write blob7-12 (country, region, city, device, browser, os). **Worker DEPLOYED 2026-09-21** (`wrangler deploy`, Version 31f3d420) — dimensions now recording, accrue forward (no backfill).
-- [x] **Stage 2 — CF Traffic explorer (Cloudflare-style, configurable + filterable)** *(local, held for push)*:
-  - `scripts/pull-cf-traffic.mjs` — build-time pull of CF GraphQL `httpRequestsAdaptiveGroups` → `public/api/cf-traffic.json` (compact cube country×device×browser×os + paths/status/cache/proto + `visits`; html-only; fail-safe; keeps a local seed when no creds). Wired into predev/prebuild + deploy.yml + `npm run pull:cf`.
-  - AE curated cube: `queryReaderCube`/`queryReaderPaths` → `public/api/reader-cube.json` (human readers by country×device×browser×os, 90-day).
-  - `AnalyticsView.astro` "Traffic explorer": source toggle (Cloudflare all-traffic ↔ curated Readers) · global filter bar (click any bar/legend → filter chip; recomputes every panel) · configurable panels (⋯ → dimension · measure · view-as bars/donut · Duplicate · Remove) · + Add panel · localized (Intl.DisplayNames country names) · localStorage-sticky. Verified live with real seeded CF data (US 82%, Device donut 93/7, MY-filter → Edge top).
-- [x] **[you]** `CF_ZONE_ID` secret set + `CF_API_TOKEN` token (`negaraku-analytics-read`, owned by ai.negaraku.md login) extended with **Zone → Analytics → Read** (All zones). **LIVE 2026-09-21** — both sources populated: CF 229 cube rows (9,954 req/5,655 visits/24h), curated Readers 104 rows already accruing. See [[negaraku-cf-graphql-analytics]] for the two-login gotcha.
-- [x] **Stage 3 — pivot UI (baked)** "Explore — pivot" (Group by Pillar/Category/Article × Measure × Channel). *(shipped)*
-- [x] **[me]** **Stage 4 — live query Worker (contributor-only)** *(local, held for push + worker deploy)*:
-  - `worker/src/query.js` + `/_a/q` route in index.js: whitelisted AE SQL group-by (dims country/region/city/device/browser/os/locale/channel/source/bot/path × bucket readers/search/ai/all × 1–90d), gated by an `/api/auth/me` subrequest (contributors only, fail-closed), filter values escaped, caps + ~5-min edge cache. `CF_ACCOUNT_ID` var in wrangler.toml.
-  - `AnalyticsView.astro` "Live query" panel (hidden unless `<html data-contributor>`): dim chips (max 3) × audience × range → POST /_a/q → bars. Verified in dev (renders for contributors, max-3 enforced, graceful off-worker failure).
-- [x] **Stage 4 ACTIVATED + LIVE + verified 2026-09-21** — worker deployed (AUTH service binding gate + `AE_API_TOKEN` secret set), `/_a/q` returns real AE data end-to-end (US/MY/SG by country, device×browser, etc.). Naming aligned (humans = "Readers"/"Pembaca" matching the article Visitors box; CF panels keep "Requests"/"Visits"); live-query hides pre-capture "(none)" rows. See [[negaraku-cf-graphql-analytics]] for the two-login + service-binding + masked-paste gotchas.
-- [x] **[me]** Stage 4 polish DONE 2026-10-04 (commit 3859cc6d): hide-blanks toggle (default on, matches live query), saved-view presets (Save/load/Reset via localStorage tx.views.v1), per-panel CSV export (full breakdown). "Second filter row" was already covered by the accumulating filter-chip control.
-- [x] **[me]** Custom date-range on trend charts DONE 2026-10-05 (commit e0dc33b8): From/To picker beside 30d/90d/All on Trends-over-time (Readers/AI/Search, by-channel/-language/-bot). Shared `filterDays()` for presets + {from,to}; inputs clamped to data's real first/last day, prefilled to last-30d; <2-day window shows a localized guard, not a broken chart. Only our own AE panels (CF Traffic Explorer stays at its native 24-72h window — free-plan retention). Note: AE history is young (~from 2026-08-15), so a custom range ≈ presets until more accrues.
+## 🎨 Redesign backlog
+- [ ] **[you direction → me]** **Compliance calendar** — a further redesign was flagged (currently a deadline calculator + eligibility checker).
 
-## 🛠 Other standing project items
-- [ ] **Facebook comment-mode** — blocked by App Review / Advanced Access (parked; caption-mode is live)
-- [ ] **Compliance calendar** — planned further redesign
-- [x] **FB fetch-timeout hardening** DONE 2026-10-04 — every Graph/FB network call now goes through `gfetch()` in `scripts/lib/facebook.mjs` (AbortController timeout, default 20s; retries 429/5xx/timeout/network with exp-backoff+jitter; returns the final 429/5xx so callers still log the Graph error). Wired in both posters + the insights puller; both posters' main loops now isolate each target so one hard failure can't abort the other languages. Tunable via `FB_FETCH_TIMEOUT_MS` / `FB_FETCH_RETRIES`.
-- [ ] Optional: switch ms IG flagship login email to `ig-ms@negaraku.md`
-- [x] Minor ja/ta residuals — **ACCEPTED, won't-fix** (cosmetic, non-indexed/internal): OG-card pillar/sensitivity labels render EN on `/ja` & `/ta` cards (`build-og.mjs` L helper); `llms.ts` INTRO is ms/en/zh only; `intros.ts` CATEGORY_INTRO export is unwired dead code
+---
+
+## 🔧 Minor / optional
+- [ ] **[you]** Switch ms IG flagship login email to `ig-ms@negaraku.md`
+- [x] ja/ta OG-card/llms cosmetic residuals — **won't-fix** (non-indexed/internal)
+- [x] Arabic bidi arrow/viz micro-pass — done (commit c6bc3154)
 
 ---
 
 ## ✅ Recently completed (for context)
-- **Japanese fully launched + published + on Facebook** (2026-09-20)
-- Hugging Face dataset **LIVE** (`negaraku-md/negaraku-md`; now includes `ja`)
-- Wikidata QID sweep + NegaraKu.md's own item Q141449495
-- LinkedIn Company Page fully set up (EN/MS/ZH localization + 6:1 banner); engine + banner pushed to `main` (inert until token)
-- Instagram flagship `@negaraku.md` provisioned
+- **All 13 languages LIVE** — ms/en/zh/ta/ja/ko/th/vi/id + **ar** (10th, first RTL, 2026-10-13) + **hi/es/fr**. Per-language launch checklist followed; sensitive articles reviewed by `ashton-tan`; most on Facebook.
+- **Google Analytics 4** — consent-gated, 13-lang banner, `/analytics` panel, policies rewritten (2026-10-20).
+- **Analytics redesign** — `/analytics` split from `/dashboard`; visitor-type zones; metric×dimension explorers; daily trend series (survives AE retention); custom date ranges.
+- **Cloudflare-style Traffic Explorer** + contributor-only Live-query worker (`/_a/q`) + edge geo/device capture.
+- **Language switcher redesign** (native `<details>` dropdown, scales to 13+).
+- **Render-blocking CSS** (critical-CSS on landing pages) + **font optimization** (self-hosted + metric-fallbacks + OG-card fonts).
+- **GSC 404 triage** — robots scanner-probe block + ~73 redirects + favicon + worker `/ms/*` & `/.md` catch-all redirects.
+- **6 content-gap master articles** + 72 translations, published.
+- **/workspace** contributor home route + Reader/Contributor two-view system + GitHub OAuth gate.
+- **Hugging Face dataset** live; **Wikidata** QID sweep; **LinkedIn** Page + engine (inert until token); **Instagram** flagship provisioned.
+- **FB fetch-timeout hardening**; per-language demand-ranked FB queue; event-campaign subsystem.
