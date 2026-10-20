@@ -98,6 +98,10 @@ const ariaLabel = L('Pilihan kuki', 'Cookie choices', 'Cookie 选择', 'கு�
       border-radius: 14px;
       box-shadow: var(--shadow-soft);
     }
+    /* The `hidden` attribute must win over `display:flex` above — an author
+       `display` rule beats the UA `[hidden]{display:none}`, so without this the
+       banner can never dismiss (Accept/Decline fire but it stays on screen). */
+    .nk-consent[hidden] { display: none !important; }
     .nkc-msg {
       margin: 0;
       flex: 1 1 18rem;
