@@ -133,8 +133,9 @@ applies even to a dormant company.
 
 ## What's next
 
-If neither option fits, the full structure comparison covers LLP, partnership,
-Berhad, foreign branch and Labuan company on the same axes. If tax is the
-deciding factor, the dedicated tax comparison works the numbers through with
-worked examples. Once you have decided, the EzBiz guide covers business
-registration and the incorporation guide covers the Sdn Bhd route.
+If neither option fits, [the full business-structures comparison](/en/business/business-structures-malaysia)
+covers LLP, partnership, Berhad, foreign branch and Labuan company on the same
+axes. If tax is the deciding factor, the dedicated tax comparison works the
+numbers through with worked examples. Once you have decided, the [EzBiz guide](/en/business/register-enterprise-ezbiz)
+covers business registration and the [incorporation guide](/en/business/register-sdn-bhd)
+covers the Sdn Bhd route.

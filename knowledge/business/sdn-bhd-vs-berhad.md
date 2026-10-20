@@ -164,6 +164,8 @@ conversion issues.
 
 ## What's next
 
+Weighing more than these two? See [all seven Malaysian business structures compared in one table](/en/business/business-structures-malaysia).
+
 If you are approaching fifty names, re-count under s.42(3) — you may have more
 headroom than you think — then check that your constitution still restricts
 transfers.

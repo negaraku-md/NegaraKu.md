@@ -297,6 +297,8 @@ applicants **are encouraged to incorporate a subsidiary** under the Companies Ac
 
 ## What's next
 
+Weighing more than these two? See [all seven Malaysian business structures compared in one table](/en/business/business-structures-malaysia).
+
 Run three checks in order. Does the Thirteenth Schedule already cover what you do?
 If not, model tax residence with a Malaysian adviser before choosing a form. Then
 ask whether your group is prepared to put head-office audited accounts on a public

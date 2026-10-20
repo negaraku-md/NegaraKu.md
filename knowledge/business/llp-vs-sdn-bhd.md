@@ -275,6 +275,8 @@ Practical consequences:
 
 ## What's next
 
+Weighing more than these two? See [all seven Malaysian business structures compared in one table](/en/business/business-structures-malaysia).
+
 If you are a solo operator or a two-person services business with no outside
 capital in view, price both: an LLP at RM500 to register and RM200 a year with no
 audit and no secretary, against a Sdn Bhd with a secretary's retainer and possibly

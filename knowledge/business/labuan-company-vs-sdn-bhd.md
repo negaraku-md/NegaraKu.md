@@ -503,6 +503,8 @@ Labuan entity is a label, the structure is fragile.
 
 ## What's next
 
+Weighing more than these two? See [all seven Malaysian business structures compared in one table](/en/business/business-structures-malaysia).
+
 Work through four questions in order, and stop at the first no.
 
 1. **Where will the work actually be done?** If the answer is not Labuan or outside
