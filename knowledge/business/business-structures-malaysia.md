@@ -37,14 +37,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-20
+    change: "Wired the body as a topic hub — inline internal links across the decision path and 'What's next', plus an 'Each structure in depth' section linking every entity-type and comparison guide."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-20
 sources:
   - title: "Companies Regulations 2017 (P.U.(A) 37), Schedule of Fees item 32"
     url: "https://www.ssm.com.my/Pages/Services/Registration-of-Business-(ROB)/table-of-fees/lampiran_2-table_of_feese.pdf"
@@ -170,15 +174,15 @@ every contract, licence and lease reassigned individually.
    conventional partnership immediately. Their cost advantage is measured in tens
    of ringgit a year; the downside is your house.
 2. **Will you ever raise outside capital, grant equity to staff, or sell the
-   business?** If yes, you need shares. That means a Sdn Bhd.
+   business?** If yes, you need shares. That means a [Sdn Bhd](/en/business/what-is-sdn-bhd).
 3. **Are you a chartered accountant, an advocate and solicitor, or a company
-   secretary in practice?** Your only limited-liability route is an LLP, under s.8
+   secretary in practice?** Your only limited-liability route is an [LLP](/en/business/register-llp-malaysia), under s.8
    and the First Schedule of the LLP Act 2012.
 4. **Is the operating business genuinely outside Malaysia, or genuinely in
-   Labuan?** Only then is a Labuan company worth evaluating.
-5. **Is this a foreign group entering Malaysia?** Compare branch against subsidiary
+   Labuan?** Only then is a [Labuan company](/en/business/labuan-company-vs-sdn-bhd) worth evaluating.
+5. **Is this a foreign group entering Malaysia?** Compare [branch against subsidiary](/en/business/branch-vs-subsidiary-malaysia)
    on tax residence and ring-fencing before doing anything else.
-6. **Otherwise, incorporate a Sdn Bhd.** It is the default for a reason.
+6. **Otherwise, [incorporate a Sdn Bhd](/en/business/register-sdn-bhd).** It is the default for a reason.
 
 ## Common mistakes
 
@@ -193,14 +197,31 @@ every contract, licence and lease reassigned individually.
 - **Never revisiting the choice.** The right structure at RM50,000 of revenue is
   often the wrong one at RM5 million.
 
+## Each structure in depth
+
+Once you have narrowed the field, read the dedicated guide:
+
+- **Sole proprietorship / enterprise** — [register an enterprise on EzBiz](/en/business/register-enterprise-ezbiz), and [close a sole proprietorship or partnership](/en/business/close-sole-proprietorship-partnership) when you wind one down.
+- **Conventional partnership** — [how a Malaysian partnership works](/en/business/partnership-malaysia): liability, the twenty-partner cap and dissolution.
+- **LLP** — [register an LLP through MyLLP](/en/business/register-llp-malaysia), the limited-liability route for professional firms and small partnerships.
+- **Sdn Bhd** — [what a Sdn Bhd is](/en/business/what-is-sdn-bhd), then [how to register one](/en/business/register-sdn-bhd); it is the default private company.
+- **Berhad** — weigh it against the private company in [Sdn Bhd vs Berhad](/en/business/sdn-bhd-vs-berhad).
+- **Foreign branch** — [register a foreign branch](/en/business/register-foreign-branch-malaysia), or settle [branch vs subsidiary](/en/business/branch-vs-subsidiary-malaysia) first.
+- **Labuan company** — test any offshore pitch against [Labuan company vs Sdn Bhd](/en/business/labuan-company-vs-sdn-bhd).
+- **Company limited by guarantee** — [a CLG](/en/business/company-limited-by-guarantee-malaysia) for non-profits and associations.
+- **Holding structure** — [a holding company](/en/business/holding-company-malaysia) to sit above several of these.
+- **Sabah & Sarawak** — registration runs under state ordinances, not the Registration of Businesses Act 1956: [Sabah](/en/business/register-business-sabah) · [Sarawak](/en/business/register-business-sarawak).
+
 ## What's next
 
-Read the head-to-head that matches your shortlist rather than all seven pages: the
-sole proprietorship against the Sdn Bhd if you are starting alone, the LLP against
-the Sdn Bhd if you are a professional firm or a small partnership, the Sdn Bhd
-against the Berhad if you are approaching fifty shareholders or planning a raise,
-the branch against the subsidiary if you are a foreign group, and Labuan against
-the Sdn Bhd if someone has pitched you an offshore structure.
+Read the head-to-head that matches your shortlist rather than all seven pages:
+[sole proprietorship vs Sdn Bhd](/en/business/sole-prop-vs-sdn-bhd) if you are
+starting alone, [LLP vs Sdn Bhd](/en/business/llp-vs-sdn-bhd) if you are a
+professional firm or a small partnership, [Sdn Bhd vs Berhad](/en/business/sdn-bhd-vs-berhad)
+if you are approaching fifty shareholders or planning a raise, [branch vs
+subsidiary](/en/business/branch-vs-subsidiary-malaysia) if you are a foreign group,
+and [Labuan company vs Sdn Bhd](/en/business/labuan-company-vs-sdn-bhd) if someone
+has pitched you an offshore structure.
 
 ---
 
