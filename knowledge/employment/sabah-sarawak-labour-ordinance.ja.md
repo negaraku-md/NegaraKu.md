@@ -43,7 +43,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 
 status: "published"
 aiAssisted: true

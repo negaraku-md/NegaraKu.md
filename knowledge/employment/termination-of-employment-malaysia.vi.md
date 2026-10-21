@@ -81,7 +81,7 @@ obligations:
     consequence: "Các kiến nghị nộp quá hạn không thể được thụ lý"
 
 lang: "vi"
-sourceContentHash: "d80998453b1bb373"
+sourceContentHash: "d66fc7d8bb44d5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

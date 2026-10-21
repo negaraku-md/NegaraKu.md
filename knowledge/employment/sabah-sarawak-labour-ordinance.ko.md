@@ -41,7 +41,7 @@ verificationNeeded:
   - "사바 대체 제1부칙의 예외 목록을 관보 게재 Act A1753 본문과 조항별로 대조하여 확인할 것"
 
 lang: "ko"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

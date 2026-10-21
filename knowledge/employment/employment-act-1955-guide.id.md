@@ -66,7 +66,7 @@ obligations:
     consequence: "Pelanggaran di bawah s.91"
 
 lang: "id"
-sourceContentHash: "61d3ae24699dff11"
+sourceContentHash: "dcc00bf389e1b1c4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

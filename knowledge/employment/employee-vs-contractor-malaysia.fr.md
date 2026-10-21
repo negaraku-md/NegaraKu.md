@@ -42,7 +42,7 @@ verificationNeeded:
   - "Confirmer la décision de principe malaisienne de référence sur les tests de contrôle et d'intégration par rapport à la jurisprudence publiée"
 
 lang: "fr"
-sourceContentHash: "8132a0298fe4934d"
+sourceContentHash: "8d89264bfe29b9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

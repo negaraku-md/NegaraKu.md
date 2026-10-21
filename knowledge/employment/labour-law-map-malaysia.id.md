@@ -28,7 +28,7 @@ verificationNeeded:
   - "Pastikan nomor Akta 612, 732, 789, 800, 840 dan 872 terhadap lom.agc.gov.my setelah PDF tersebut tersedia — ia kini dikonfirmasi dari situs lembaga dan bukan repositori LOM"
 
 lang: "id"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,22 @@ pekerja di Sabah bukanlah persetujuan sama sekali.
 
 Setiap URL di bawah telah diperiksa. Di mana alamat yang biasa disebut tidak dapat diakses,
 hal itu dinyatakan, karena itulah yang memboroskan sepanjang petang.
+
+## Panduan mana yang Anda butuhkan
+
+Tabel-tabel di bawah memetakan setiap statuta ke regulator dan portalnya. Jika sebaliknya
+Anda ingin panduan dalam bahasa sederhana untuk suatu kewajiban tertentu, mulailah di sini.
+
+| Jika pertanyaan Anda adalah | Baca |
+| --- | --- |
+| Apakah Employment Act mencakup pekerja ini? | [Siapa yang dicakup Employment Act](/id/employment/employment-act-coverage) |
+| Saya butuh Akta itu sendiri, Bagian demi Bagian | [Panduan Employment Act 1955](/id/employment/employment-act-1955-guide) |
+| Pekerja saya bekerja di Sabah atau Sarawak | [Ordonansi Buruh Sabah dan Sarawak](/id/employment/sabah-sarawak-labour-ordinance) |
+| Cuti, waktu kerja dan gaji apa yang harus saya berikan? | [Hak cuti](/id/employment/leave-entitlements-malaysia), [waktu kerja dan lembur](/id/employment/working-hours-overtime-malaysia), dan [upah minimum](/id/employment/minimum-wage-malaysia) |
+| Bagaimana saya mengakhiri hubungan kerja tanpa tuntutan? | [Mengakhiri hubungan kerja](/id/employment/termination-of-employment-malaysia), dan [pemecatan tidak adil berdasarkan s.20](/id/employment/unfair-dismissal-malaysia) |
+| Apa yang harus saya daftarkan dan bayar untuk setiap perekrutan? | [Kalender kepatuhan penggajian](/id/employment/payroll-compliance-malaysia), dimulai dengan [EPF, SOCSO dan EIS](/id/employment/epf-socso-guide) |
+| Saya merekrut warga negara asing | [Merekrut pekerja asing](/id/employment/hiring-foreign-workers-malaysia), lalu [Employment Pass](/id/employment/employment-pass-malaysia) |
+| Apakah ini pekerja atau kontraktor independen? | [Pekerja, pekerja gig atau kontraktor](/id/employment/employee-vs-contractor-malaysia) |
 
 ## Standar buruh
 
@@ -179,4 +195,6 @@ Sematkan kolom portal pada kalender kepatuhan Anda, bukan kolom statuta — stat
 memberitahu Anda apa yang perlu diselesaikan, portal adalah tempat tenggat itu
 sebenarnya dipenuhi. Kemudian baca [panduan Akta Pekerjaan](/id/employment/employment-act-1955-guide)
 untuk Semenanjung, dan [halaman Sabah dan Sarawak](/id/employment/sabah-sarawak-labour-ordinance)
-jika ada staf Anda yang berada di seberang laut.
+jika ada staf Anda yang berada di seberang laut. Untuk sisi keuangan dari setiap perekrutan — EPF,
+SOCSO, EIS, PCB dan tenggat pengajuannya — bekerjalah dari [kalender kepatuhan penggajian](/id/employment/payroll-compliance-malaysia);
+jika Anda mendatangkan talenta dari luar negeri, mulailah dengan [merekrut pekerja asing](/id/employment/hiring-foreign-workers-malaysia).

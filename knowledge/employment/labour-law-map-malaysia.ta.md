@@ -28,7 +28,7 @@ verificationNeeded:
   - "அந்த PDF-கள் வழங்கப்பட்டவுடன் Act எண்கள் 612, 732, 789, 800, 840 மற்றும் 872-ஐ lom.agc.gov.my-க்கு எதிராக உறுதிப்படுத்தவும் — அவை தற்போது LOM களஞ்சியத்திற்குப் பதிலாக நிறுவன தளங்களிலிருந்து உறுதிப்படுத்தப்பட்டுள்ளன"
 
 lang: "ta"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -79,6 +79,23 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 resolve ஆகாத இடத்தில், அது குறிப்பிடப்பட்டுள்ளது, ஏனெனில் அவைதான் ஒரு பிற்பகலை
 வீணாக்குபவை.
 
+## உங்களுக்கு எந்த வழிகாட்டி தேவை
+
+கீழே உள்ள அட்டவணைகள் ஒவ்வொரு சட்டத்தையும் அதன் ஒழுங்குமுறையாளருக்கும் போர்டலுக்கும்
+வரைபடமாக்குகின்றன. அதற்குப் பதிலாக ஒரு குறிப்பிட்ட கடமைக்கான எளிய மொழி வழிகாட்டி
+உங்களுக்குத் தேவைப்பட்டால், இங்கிருந்து தொடங்குங்கள்.
+
+| உங்கள் கேள்வி இதுவெனில் | படிக்கவும் |
+| --- | --- |
+| Employment Act இந்த ஊழியரை ஆளுகிறதா? | [Employment Act யாரை உள்ளடக்குகிறது](/ta/employment/employment-act-coverage) |
+| எனக்கு Act-ஐயே, பகுதி பகுதியாக வேண்டும் | [Employment Act 1955 வழிகாட்டி](/ta/employment/employment-act-1955-guide) |
+| என் ஊழியர் Sabah அல்லது Sarawak-இல் வேலை செய்கிறார் | [Sabah மற்றும் Sarawak தொழிலாளர் கட்டளைகள்](/ta/employment/sabah-sarawak-labour-ordinance) |
+| நான் எந்த விடுப்பு, நேரம் மற்றும் ஊதியம் செலுத்த வேண்டும்? | [விடுப்பு உரிமைகள்](/ta/employment/leave-entitlements-malaysia), [வேலை நேரம் மற்றும் மிகைநேரம்](/ta/employment/working-hours-overtime-malaysia), மற்றும் [குறைந்தபட்ச ஊதியம்](/ta/employment/minimum-wage-malaysia) |
+| உரிமைகோரல் இல்லாமல் வேலையை எப்படி முடிப்பது? | [வேலையை முடித்தல்](/ta/employment/termination-of-employment-malaysia), மற்றும் [s.20-இன் கீழ் நியாயமற்ற பணிநீக்கம்](/ta/employment/unfair-dismissal-malaysia) |
+| ஒவ்வொரு பணியமர்த்தலுக்கும் நான் எதைப் பதிவு செய்து செலுத்த வேண்டும்? | [ஊதியப் பட்டியல் இணக்க நாட்காட்டி](/ta/employment/payroll-compliance-malaysia), [EPF, SOCSO மற்றும் EIS](/ta/employment/epf-socso-guide)-இலிருந்து தொடங்கி |
+| நான் ஒரு வெளிநாட்டவரைப் பணியமர்த்துகிறேன் | [வெளிநாட்டுத் தொழிலாளர்களைப் பணியமர்த்துதல்](/ta/employment/hiring-foreign-workers-malaysia), பிறகு [Employment Pass](/ta/employment/employment-pass-malaysia) |
+| இது ஒரு ஊழியரா அல்லது சுயாதீன ஒப்பந்ததாரரா? | [ஊழியர், கிக் தொழிலாளர் அல்லது ஒப்பந்ததாரர்](/ta/employment/employee-vs-contractor-malaysia) |
+
 ## தொழிலாளர் தரநிலைகள்
 
 | சட்டம் | Act | நிர்வகிக்கும் நிறுவனம் | போர்டல் | எதை ஆளுகிறது |
@@ -109,7 +126,7 @@ resolve ஆகாத இடத்தில், அது குறிப்ப�
 
 | சட்டம் | Act | நிர்வகிக்கும் நிறுவனம் | போர்டல் | எதை ஆளுகிறது |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | தொழில் பாதுகாப்பு மற்றும் சுகாதாரத் திணைக்களம் (Department of Occupational Safety and Health, DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | முதலாளியின் பாதுகாப்புக் கடமைகள், OSH ஒருங்கிணைப்பாளர்கள், விபத்து அறிவிப்பு |
+| [Occupational Safety and Health Act 1994](/ta/law/occupational-safety-and-health-act) | 514 | தொழில் பாதுகாப்பு மற்றும் சுகாதாரத் திணைக்களம் (Department of Occupational Safety and Health, DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | முதலாளியின் பாதுகாப்புக் கடமைகள், OSH ஒருங்கிணைப்பாளர்கள், விபத்து அறிவிப்பு |
 
 கவனிக்க: `www.dosh.gov.my` resolve ஆகாது — apex டொமைனைப் பயன்படுத்தவும்.
 
@@ -185,4 +202,8 @@ Housing, Accommodations and Amenities Act 1990* ஆகும்.
 உண்மையில் நிறைவேற்றப்படும் இடம். பிறகு தீபகற்பத்திற்கான [Employment Act
 வழிகாட்டி](/ta/employment/employment-act-1955-guide)-ஐயும், உங்கள் பணியாளர்களில் யாரேனும்
 கடலுக்கு அப்பால் இருந்தால் [Sabah மற்றும் Sarawak
-பக்கம்](/ta/employment/sabah-sarawak-labour-ordinance)-ஐயும் படியுங்கள்.
+பக்கம்](/ta/employment/sabah-sarawak-labour-ordinance)-ஐயும் படியுங்கள். ஒவ்வொரு
+பணியமர்த்தலின் பண விவகாரத்திற்கு — EPF, SOCSO, EIS, PCB மற்றும் தாக்கல் காலக்கெடுக்கள் —
+[ஊதியப் பட்டியல் இணக்க நாட்காட்டியி](/ta/employment/payroll-compliance-malaysia)லிருந்து
+வேலை செய்யுங்கள்; வெளிநாட்டிலிருந்து திறமையாளர்களை அழைத்து வருகிறீர்கள் எனில்,
+[வெளிநாட்டுத் தொழிலாளர்களைப் பணியமர்த்துதல்](/ta/employment/hiring-foreign-workers-malaysia)-இலிருந்து தொடங்குங்கள்.

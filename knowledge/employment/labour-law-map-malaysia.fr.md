@@ -28,7 +28,7 @@ verificationNeeded:
   - "Confirm Act numbers 612, 732, 789, 800, 840 and 872 against lom.agc.gov.my once those PDFs are served — they are currently confirmed from agency sites rather than the LOM repository"
 
 lang: "fr"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,23 @@ JTKSM pour un salarié du Sabah n'est pas une approbation du tout.
 Chaque URL ci-dessous a été vérifiée. Là où une adresse couramment citée ne
 résout pas, cela est signalé, car ce sont celles qui font perdre un après-midi.
 
+## Quel guide vous faut-il
+
+Les tableaux ci-dessous relient chaque loi à son régulateur et à son portail. Si
+vous cherchez plutôt le guide en langage clair d'une obligation particulière,
+commencez ici.
+
+| Si votre question est | À lire |
+| --- | --- |
+| L'Employment Act couvre-t-il seulement ce travailleur ? | [Qui l'Employment Act couvre](/fr/employment/employment-act-coverage) |
+| J'ai besoin de la loi elle-même, Partie par Partie | [Le guide de l'Employment Act 1955](/fr/employment/employment-act-1955-guide) |
+| Mon salarié travaille au Sabah ou au Sarawak | [Les ordonnances du travail du Sabah et du Sarawak](/fr/employment/sabah-sarawak-labour-ordinance) |
+| Quels congés, horaires et salaires dois-je ? | [Droits aux congés](/fr/employment/leave-entitlements-malaysia), [horaires de travail et heures supplémentaires](/fr/employment/working-hours-overtime-malaysia), et [salaire minimum](/fr/employment/minimum-wage-malaysia) |
+| Comment mettre fin à l'emploi sans réclamation ? | [Mettre fin à l'emploi](/fr/employment/termination-of-employment-malaysia), et [licenciement abusif au titre de l'art. 20](/fr/employment/unfair-dismissal-malaysia) |
+| Que dois-je enregistrer et payer pour chaque embauche ? | [Le calendrier de conformité de la paie](/fr/employment/payroll-compliance-malaysia), à commencer par [EPF, SOCSO et EIS](/fr/employment/epf-socso-guide) |
+| J'embauche un ressortissant étranger | [Embaucher des travailleurs étrangers](/fr/employment/hiring-foreign-workers-malaysia), puis [l'Employment Pass](/fr/employment/employment-pass-malaysia) |
+| Est-ce un salarié ou un entrepreneur indépendant ? | [Salarié, travailleur gig ou entrepreneur](/fr/employment/employee-vs-contractor-malaysia) |
+
 ## Normes du travail
 
 | Loi | Act | Autorité | Portail | Régit |
@@ -108,7 +125,7 @@ malaisiens.
 
 | Loi | Act | Autorité | Portail | Régit |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my` ; APIS, `apis.dosh.gov.my` | Obligations de sécurité de l'employeur, coordinateurs SST, notification des accidents |
+| [Occupational Safety and Health Act 1994](/fr/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my` ; APIS, `apis.dosh.gov.my` | Obligations de sécurité de l'employeur, coordinateurs SST, notification des accidents |
 
 Notez que `www.dosh.gov.my` ne résout pas : utilisez le domaine racine.
 
@@ -183,4 +200,7 @@ n'apparaît pas dans la loi.
 la loi : la loi vous dit ce qui est dû, le portail est l'endroit où le délai est
 réellement respecté. Lisez ensuite le [guide de l'Employment Act](/fr/employment/employment-act-1955-guide)
 pour la péninsule, et la [page du Sabah et du Sarawak](/fr/employment/sabah-sarawak-labour-ordinance)
-si une partie de vos effectifs se trouve de l'autre côté de la mer.
+si une partie de vos effectifs se trouve de l'autre côté de la mer. Pour le volet
+financier de chaque embauche — EPF, SOCSO, EIS, PCB et les délais de dépôt —
+appuyez-vous sur le [calendrier de conformité de la paie](/fr/employment/payroll-compliance-malaysia) ;
+si vous faites venir des talents de l'étranger, commencez par [embaucher des travailleurs étrangers](/fr/employment/hiring-foreign-workers-malaysia).

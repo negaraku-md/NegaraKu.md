@@ -59,7 +59,7 @@ obligations:
     consequence: "Là tội danh theo Employment Act 1955"
 
 lang: "vi"
-sourceContentHash: "6a64b8221b81d34f"
+sourceContentHash: "874dea06578740cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

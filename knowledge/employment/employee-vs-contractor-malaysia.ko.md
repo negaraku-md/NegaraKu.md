@@ -42,7 +42,7 @@ verificationNeeded:
   - "통제 및 통합 기준에 관한 말레이시아 주요 상소심 판례를 보고된 판결과 대조하여 확인할 것"
 
 lang: "ko"
-sourceContentHash: "8132a0298fe4934d"
+sourceContentHash: "8d89264bfe29b9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -24,7 +24,7 @@ appliesTo: "นายจ้าง ผู้ดูแลด้านทรัพ�
 verificationNeeded: []
 
 lang: "th"
-sourceContentHash: "93eabace2772ea86"
+sourceContentHash: "694bcdea48a05320"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -41,7 +41,7 @@ verificationNeeded:
   - "Verifikasi daftar pengecualian First Schedule gantian Sabah seksyen demi seksyen terhadap teks Act A1753 yang diwartakan"
 
 lang: "id"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

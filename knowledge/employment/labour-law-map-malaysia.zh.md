@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,22 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 以下每一个网址都经过核查。凡是常被引用却无法解析的地址，都会注明，因为那些正是
 会浪费你一个下午的地址。
 
+## 你需要哪一份指南
+
+下文的表格把每一部法令对应到它的监管机构与门户网站。如果你想要的是针对某一项
+具体义务的通俗语言指南，就从这里开始。
+
+| 如果你的问题是 | 阅读 |
+| --- | --- |
+| 雇佣法令到底涵不涵盖这名工作者？ | [雇佣法令涵盖哪些人](/zh/employment/employment-act-coverage) |
+| 我需要法令本身，逐个部分查阅 | [Employment Act 1955 指南](/zh/employment/employment-act-1955-guide) |
+| 我的雇员在沙巴或砂拉越工作 | [沙巴与砂拉越劳工法令](/zh/employment/sabah-sarawak-labour-ordinance) |
+| 我该给付哪些假期、工时与薪金？ | [假期福利](/zh/employment/leave-entitlements-malaysia)、[工时与加班](/zh/employment/working-hours-overtime-malaysia)，以及[最低薪金](/zh/employment/minimum-wage-malaysia) |
+| 我该如何结束雇佣而不招致申索？ | [终止雇佣](/zh/employment/termination-of-employment-malaysia)，以及[第 20 条下的不当解雇](/zh/employment/unfair-dismissal-malaysia) |
+| 每聘用一人我必须登记并缴付什么？ | [薪资合规日历](/zh/employment/payroll-compliance-malaysia)，从 [EPF、SOCSO 与 EIS](/zh/employment/epf-socso-guide) 开始 |
+| 我正在聘用一名外国人 | [聘用外籍员工](/zh/employment/hiring-foreign-workers-malaysia)，然后是[就业准证](/zh/employment/employment-pass-malaysia) |
+| 这是雇员还是独立承包商？ | [雇员、零工工作者还是承包商](/zh/employment/employee-vs-contractor-malaysia) |
+
 ## 劳工标准
 
 | 法令 | Act | 当局 | 门户网站 | 管辖范围 |
@@ -106,7 +122,7 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 
 | 法令 | Act | 当局 | 门户网站 | 管辖范围 |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | 职业安全与卫生局（DOSH／JKKP）——`dosh.gov.my` | MyKKP，`mykkp.dosh.gov.my`；APIS，`apis.dosh.gov.my` | 雇主安全责任、职安卫协调员、事故通报 |
+| [Occupational Safety and Health Act 1994](/zh/law/occupational-safety-and-health-act) | 514 | 职业安全与卫生局（DOSH／JKKP）——`dosh.gov.my` | MyKKP，`mykkp.dosh.gov.my`；APIS，`apis.dosh.gov.my` | 雇主安全责任、职安卫协调员、事故通报 |
 
 请留意 `www.dosh.gov.my` 无法解析——请用顶层域名。
 
@@ -166,3 +182,6 @@ Accommodations and Amenities Act 1990*。
 把门户网站那一栏、而不是法令那一栏，钉在你的合规日历上——法令告诉你欠了什么，
 门户才是期限真正被满足的地方。然后为半岛读一读[Employment Act 指南](/zh/employment/employment-act-1955-guide)，
 若你的人手有任何一部分在海的另一边，就读[沙巴与砂拉越页面](/zh/employment/sabah-sarawak-labour-ordinance)。
+至于每次聘用在钱财方面的事——EPF、SOCSO、EIS、PCB 以及各项申报期限——就依据
+[薪资合规日历](/zh/employment/payroll-compliance-malaysia)来办；若你要从海外引进人才，
+请先从[聘用外籍员工](/zh/employment/hiring-foreign-workers-malaysia)开始。

@@ -28,7 +28,7 @@ verificationNeeded:
   - "ยืนยันหมายเลข Act 612, 732, 789, 800, 840 และ 872 กับ lom.agc.gov.my เมื่อ PDF เหล่านั้นให้บริการ — ปัจจุบันยืนยันจากเว็บของหน่วยงานมากกว่าคลัง LOM"
 
 lang: "th"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,21 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 
 ทุก URL ด้านล่างได้รับการตรวจสอบ เมื่อที่อยู่ที่มักถูกอ้างเข้าไม่ได้ จะมีการระบุไว้ เพราะนั่นคือที่อยู่ที่ทำให้เสียเวลาไปทั้งบ่าย
 
+## คู่มือที่คุณต้องการ
+
+ตารางด้านล่างจับคู่กฎหมายแต่ละฉบับกับหน่วยงานกำกับและพอร์ทัลของมัน แต่หากคุณต้องการคู่มือภาษาเข้าใจง่ายสำหรับหน้าที่ใดหน้าที่หนึ่งโดยเฉพาะ ให้เริ่มที่นี่
+
+| หากคำถามของคุณคือ | อ่าน |
+| --- | --- |
+| พระราชบัญญัติการจ้างงานครอบคลุมลูกจ้างคนนี้หรือไม่ | [ใครที่พระราชบัญญัติการจ้างงานครอบคลุม](/th/employment/employment-act-coverage) |
+| ฉันต้องการตัวพระราชบัญญัติเอง เป็นส่วน ๆ | [คู่มือพระราชบัญญัติการจ้างงาน 1955](/th/employment/employment-act-1955-guide) |
+| ลูกจ้างของฉันทำงานในซาบาห์หรือซาราวัก | [ข้อบัญญัติแรงงานซาบาห์และซาราวัก](/th/employment/sabah-sarawak-labour-ordinance) |
+| ฉันต้องให้วันลา ชั่วโมง และค่าจ้างเท่าใด | [สิทธิการลา](/th/employment/leave-entitlements-malaysia), [ชั่วโมงทำงานและค่าล่วงเวลา](/th/employment/working-hours-overtime-malaysia), และ[ค่าจ้างขั้นต่ำ](/th/employment/minimum-wage-malaysia) |
+| ฉันจะเลิกจ้างอย่างไรโดยไม่เกิดคำร้อง | [การเลิกจ้าง](/th/employment/termination-of-employment-malaysia), และ[การเลิกจ้างที่ไม่เป็นธรรมตามมาตรา 20](/th/employment/unfair-dismissal-malaysia) |
+| ฉันต้องจดทะเบียนและจ่ายอะไรบ้างสำหรับการจ้างแต่ละครั้ง | [ปฏิทินการปฏิบัติตามกฎบัญชีเงินเดือน](/th/employment/payroll-compliance-malaysia), เริ่มจาก [EPF, SOCSO และ EIS](/th/employment/epf-socso-guide) |
+| ฉันกำลังจ้างชาวต่างชาติ | [การจ้างแรงงานต่างชาติ](/th/employment/hiring-foreign-workers-malaysia), จากนั้น[Employment Pass](/th/employment/employment-pass-malaysia) |
+| นี่คือลูกจ้างหรือผู้รับจ้างอิสระ | [ลูกจ้าง แรงงานกิ๊ก หรือผู้รับจ้าง](/th/employment/employee-vs-contractor-malaysia) |
+
 ## มาตรฐานแรงงาน
 
 | กฎหมาย | Act | หน่วยงาน | พอร์ทัล | กำกับ |
@@ -99,7 +114,7 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 
 | กฎหมาย | Act | หน่วยงาน | พอร์ทัล | กำกับ |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | กรมความปลอดภัยและอาชีวอนามัย (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | หน้าที่ความปลอดภัยของนายจ้าง ผู้ประสานงาน OSH การแจ้งอุบัติเหตุ |
+| [Occupational Safety and Health Act 1994](/th/law/occupational-safety-and-health-act) | 514 | กรมความปลอดภัยและอาชีวอนามัย (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | หน้าที่ความปลอดภัยของนายจ้าง ผู้ประสานงาน OSH การแจ้งอุบัติเหตุ |
 
 พึงสังเกต `www.dosh.gov.my` เข้าไม่ได้ — ใช้โดเมนหลัก
 
@@ -146,4 +161,4 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 
 ## ขั้นตอนต่อไป
 
-ปักคอลัมน์พอร์ทัลไว้ในปฏิทินการปฏิบัติตามกฎ ไม่ใช่คอลัมน์กฎหมาย — กฎหมายบอกคุณว่าสิ่งใดเป็นหนี้ พอร์ทัลคือที่ที่กำหนดเวลาถูกทำให้บรรลุจริง จากนั้นอ่าน[คู่มือพระราชบัญญัติการจ้างงาน](/th/employment/employment-act-1955-guide)สำหรับคาบสมุทร และ[หน้าซาบาห์และซาราวัก](/th/employment/sabah-sarawak-labour-ordinance)หากจำนวนพนักงานของคุณส่วนใดอยู่ข้ามทะเล
+ปักคอลัมน์พอร์ทัลไว้ในปฏิทินการปฏิบัติตามกฎ ไม่ใช่คอลัมน์กฎหมาย — กฎหมายบอกคุณว่าสิ่งใดเป็นหนี้ พอร์ทัลคือที่ที่กำหนดเวลาถูกทำให้บรรลุจริง จากนั้นอ่าน[คู่มือพระราชบัญญัติการจ้างงาน](/th/employment/employment-act-1955-guide)สำหรับคาบสมุทร และ[หน้าซาบาห์และซาราวัก](/th/employment/sabah-sarawak-labour-ordinance)หากจำนวนพนักงานของคุณส่วนใดอยู่ข้ามทะเล สำหรับด้านการเงินของการจ้างทุกครั้ง — EPF, SOCSO, EIS, PCB และกำหนดเวลาการยื่น — ให้ทำงานจาก[ปฏิทินการปฏิบัติตามกฎบัญชีเงินเดือน](/th/employment/payroll-compliance-malaysia) และหากคุณกำลังนำบุคลากรจากต่างประเทศเข้ามา ให้เริ่มที่[การจ้างแรงงานต่างชาติ](/th/employment/hiring-foreign-workers-malaysia)

@@ -81,7 +81,7 @@ obligations:
     consequence: "Representasi yang diajukan melewati batas waktu tidak dapat diterima"
 
 lang: "id"
-sourceContentHash: "d80998453b1bb373"
+sourceContentHash: "d66fc7d8bb44d5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

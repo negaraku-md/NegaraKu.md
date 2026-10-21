@@ -28,7 +28,7 @@ verificationNeeded:
   - "Cần xác nhận các số đạo luật 612, 732, 789, 800, 840 và 872 đối chiếu với lom.agc.gov.my một khi các tệp PDF đó được cung cấp — chúng hiện được xác nhận từ các trang cơ quan chứ không phải từ kho LOM"
 
 lang: "vi"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,22 @@ Sabah hoàn toàn không phải là một phê duyệt.
 
 Mọi URL dưới đây đã được kiểm tra. Nơi một địa chỉ thường được trích dẫn không truy cập được, điều đó
 được ghi chú, vì đó là những địa chỉ làm lãng phí cả một buổi chiều.
+
+## Bạn cần hướng dẫn nào
+
+Các bảng bên dưới ánh xạ mỗi đạo luật tới cơ quan quản lý và cổng thông tin của nó. Nếu
+thay vào đó bạn muốn hướng dẫn bằng ngôn ngữ dễ hiểu về một nghĩa vụ cụ thể, hãy bắt đầu từ đây.
+
+| Nếu câu hỏi của bạn là | Hãy đọc |
+| --- | --- |
+| Employment Act có bao gồm người lao động này không? | [Những ai được Employment Act bao gồm](/vi/employment/employment-act-coverage) |
+| Tôi cần chính Đạo luật, theo từng Phần | [Hướng dẫn Employment Act 1955](/vi/employment/employment-act-1955-guide) |
+| Nhân viên của tôi làm việc ở Sabah hoặc Sarawak | [Các Pháp lệnh Lao động Sabah và Sarawak](/vi/employment/sabah-sarawak-labour-ordinance) |
+| Tôi phải trả những khoản nghỉ phép, giờ giấc và lương nào? | [Quyền lợi nghỉ phép](/vi/employment/leave-entitlements-malaysia), [giờ làm việc và làm thêm giờ](/vi/employment/working-hours-overtime-malaysia), và [lương tối thiểu](/vi/employment/minimum-wage-malaysia) |
+| Làm sao để chấm dứt việc làm mà không bị khiếu nại? | [Chấm dứt việc làm](/vi/employment/termination-of-employment-malaysia), và [sa thải không công bằng theo s.20](/vi/employment/unfair-dismissal-malaysia) |
+| Tôi phải đăng ký và đóng gì cho mỗi lần tuyển dụng? | [Lịch tuân thủ bảng lương](/vi/employment/payroll-compliance-malaysia), bắt đầu với [EPF, SOCSO và EIS](/vi/employment/epf-socso-guide) |
+| Tôi đang tuyển dụng một người nước ngoài | [Tuyển dụng lao động nước ngoài](/vi/employment/hiring-foreign-workers-malaysia), rồi đến [Employment Pass](/vi/employment/employment-pass-malaysia) |
+| Đây là nhân viên hay nhà thầu độc lập? | [Nhân viên, lao động gig hay nhà thầu](/vi/employment/employee-vs-contractor-malaysia) |
 
 ## Tiêu chuẩn lao động
 
@@ -175,4 +191,6 @@ Hãy ghim cột cổng thông tin vào lịch tuân thủ của bạn, không ph
 cho bạn biết điều gì phải làm, cổng thông tin là nơi thời hạn thực sự được đáp ứng. Rồi hãy đọc
 [hướng dẫn Employment Act](/vi/employment/employment-act-1955-guide) cho bán đảo, và
 [trang Sabah và Sarawak](/vi/employment/sabah-sarawak-labour-ordinance) nếu bất kỳ phần quân số nào của bạn nằm
-bên kia biển.
+bên kia biển. Về mặt tiền bạc của mỗi lần tuyển dụng — EPF, SOCSO, EIS, PCB và các
+thời hạn nộp hồ sơ — hãy làm việc theo [lịch tuân thủ bảng lương](/vi/employment/payroll-compliance-malaysia);
+nếu bạn đang đưa nhân tài từ nước ngoài về, hãy bắt đầu với [tuyển dụng lao động nước ngoài](/vi/employment/hiring-foreign-workers-malaysia).

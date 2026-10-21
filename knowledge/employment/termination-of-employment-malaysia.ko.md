@@ -81,7 +81,7 @@ obligations:
     consequence: "기한을 넘겨 제기된 진정은 수리될 수 없음"
 
 lang: "ko"
-sourceContentHash: "d80998453b1bb373"
+sourceContentHash: "d66fc7d8bb44d5cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

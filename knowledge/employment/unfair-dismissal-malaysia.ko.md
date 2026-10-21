@@ -59,7 +59,7 @@ obligations:
     consequence: "판정이 확정되어 집행 가능하게 됨"
 
 lang: "ko"
-sourceContentHash: "673d411271b17256"
+sourceContentHash: "b76d7f93bf74166e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -41,7 +41,7 @@ verificationNeeded:
   - "Confirm the Sabah replacement First Schedule carve-out list section by section against the gazetted Act A1753 text"
 
 lang: "es"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

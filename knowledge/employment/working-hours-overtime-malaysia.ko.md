@@ -51,7 +51,7 @@ obligations:
     consequence: "제59(4)조에 따른 범죄"
 
 lang: "ko"
-sourceContentHash: "46ae2aa3c5adc6b5"
+sourceContentHash: "66e6c6c0b4c901d4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

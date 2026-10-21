@@ -42,7 +42,7 @@ verificationNeeded:
   - "கட்டுப்பாடு மற்றும் ஒருங்கிணைப்புச் சோதனைகள் குறித்த முன்னணி மலேசிய மேல்முறையீட்டு அதிகாரத்தை அறிக்கையிடப்பட்ட தீர்ப்புகளுடன் உறுதிப்படுத்தவும்"
 
 lang: "ta"
-sourceContentHash: "8132a0298fe4934d"
+sourceContentHash: "8d89264bfe29b9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

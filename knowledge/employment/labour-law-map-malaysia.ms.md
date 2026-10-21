@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,23 @@ pekerja di Sabah bukanlah kelulusan sama sekali.
 
 Setiap URL di bawah telah disemak. Di mana alamat yang biasa disebut tidak dapat diakses,
 perkara itu dinyatakan, kerana itulah yang membazirkan sepanjang petang.
+
+## Panduan mana yang anda perlukan
+
+Jadual-jadual di bawah memetakan setiap statut kepada pengawal selia dan portalnya.
+Jika sebaliknya anda mahukan panduan bahasa mudah untuk sesuatu kewajipan tertentu,
+mulakan di sini.
+
+| Jika soalan anda ialah | Baca |
+| --- | --- |
+| Adakah Akta Pekerjaan sebenarnya meliputi pekerja ini? | [Siapa yang diliputi Akta Pekerjaan](/employment/employment-act-coverage) |
+| Saya perlukan Akta itu sendiri, Bahagian demi Bahagian | [Panduan Akta Pekerjaan 1955](/employment/employment-act-1955-guide) |
+| Pekerja saya bekerja di Sabah atau Sarawak | [Ordinan Buruh Sabah dan Sarawak](/employment/sabah-sarawak-labour-ordinance) |
+| Apakah cuti, waktu kerja dan gaji yang perlu saya beri? | [Kelayakan cuti](/employment/leave-entitlements-malaysia), [waktu kerja dan kerja lebih masa](/employment/working-hours-overtime-malaysia), dan [gaji minimum](/employment/minimum-wage-malaysia) |
+| Bagaimana saya menamatkan pekerjaan tanpa tuntutan? | [Menamatkan pekerjaan](/employment/termination-of-employment-malaysia), dan [pemecatan tidak adil di bawah s.20](/employment/unfair-dismissal-malaysia) |
+| Apakah yang mesti saya daftar dan bayar bagi setiap pengambilan? | [Kalendar pematuhan penggajian](/employment/payroll-compliance-malaysia), bermula dengan [KWSP, PERKESO dan SIP](/employment/epf-socso-guide) |
+| Saya sedang mengambil warga asing | [Mengambil pekerja asing](/employment/hiring-foreign-workers-malaysia), kemudian [Pas Penggajian](/employment/employment-pass-malaysia) |
+| Adakah ini pekerja atau kontraktor bebas? | [Pekerja, pekerja gig atau kontraktor](/employment/employee-vs-contractor-malaysia) |
 
 ## Standard buruh
 
@@ -179,4 +196,7 @@ Sematkan lajur portal pada kalendar pematuhan anda, bukan lajur statut — statu
 memberitahu anda apa yang perlu dilangsaikan, portal pula tempat tarikh akhir itu
 sebenarnya dipenuhi. Kemudian baca [panduan Akta Pekerjaan](/employment/employment-act-1955-guide)
 untuk Semenanjung, dan [halaman Sabah dan Sarawak](/employment/sabah-sarawak-labour-ordinance)
-jika mana-mana kakitangan anda berada di seberang laut.
+jika mana-mana kakitangan anda berada di seberang laut. Untuk sisi kewangan setiap
+pengambilan — KWSP, PERKESO, SIP, PCB dan tarikh akhir pemfailan — bekerja daripada
+[kalendar pematuhan penggajian](/employment/payroll-compliance-malaysia); jika anda
+membawa masuk bakat dari luar negara, mulakan dengan [mengambil pekerja asing](/employment/hiring-foreign-workers-malaysia).

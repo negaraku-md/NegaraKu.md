@@ -24,7 +24,7 @@ appliesTo: "أصحاب العمل، وموظفو الموارد البشرية،
 verificationNeeded: []
 
 lang: "ar"
-sourceContentHash: "93eabace2772ea86"
+sourceContentHash: "694bcdea48a05320"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

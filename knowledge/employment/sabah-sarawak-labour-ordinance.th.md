@@ -41,7 +41,7 @@ verificationNeeded:
   - "ยืนยันรายการข้อยกเว้นตารางที่หนึ่งฉบับแทนที่ของซาบาห์ทีละมาตราเทียบกับตัวบท Act A1753 ที่ประกาศในราชกิจจานุเบกษา"
 
 lang: "th"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

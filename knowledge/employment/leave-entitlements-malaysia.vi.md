@@ -42,7 +42,7 @@ verificationNeeded:
   - "Cần xác nhận các bậc nghỉ phép năm, nghỉ ốm và nghỉ nằm viện tương đương theo các Pháp lệnh Lao động Sabah và Sarawak như đã sửa đổi năm 2025"
 
 lang: "vi"
-sourceContentHash: "4780eb76db51665d"
+sourceContentHash: "f94ad4c8be6ac29e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

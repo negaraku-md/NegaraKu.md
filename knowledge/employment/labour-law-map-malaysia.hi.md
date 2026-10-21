@@ -28,7 +28,7 @@ verificationNeeded:
   - "Act संख्या 612, 732, 789, 800, 840 और 872 की lom.agc.gov.my के विरुद्ध पुष्टि करें जब वे PDF उपलब्ध हों — वे वर्तमान में LOM भंडार के बजाय एजेंसी साइटों से पुष्ट हैं"
 
 lang: "hi"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,21 @@ keywords: ["मलेशिया श्रम कानून सूची", "�
 
 नीचे दिया गया हर URL जाँचा गया। जहाँ कोई आमतौर पर उद्धृत पता काम नहीं करता, वहाँ यह नोट किया गया है, क्योंकि वही एक दोपहर बर्बाद करते हैं।
 
+## आपको कौन-सी गाइड चाहिए
+
+नीचे दी गई तालिकाएँ हर क़ानून को उसके नियामक और पोर्टल से जोड़ती हैं। यदि इसके बजाय आप किसी विशेष कर्तव्य की सरल-भाषा गाइड चाहते हैं, तो यहाँ से शुरू करें।
+
+| यदि आपका सवाल है | पढ़ें |
+| --- | --- |
+| क्या Employment Act इस कर्मचारी को कवर भी करता है? | [Employment Act किसे कवर करता है](/hi/employment/employment-act-coverage) |
+| मुझे Act स्वयं चाहिए, Part दर Part | [Employment Act 1955 गाइड](/hi/employment/employment-act-1955-guide) |
+| मेरा कर्मचारी सबा या सारावाक में काम करता है | [सबा और सारावाक श्रम अध्यादेश](/hi/employment/sabah-sarawak-labour-ordinance) |
+| मुझे कौन-सी छुट्टी, घंटे और वेतन देने हैं? | [छुट्टी के अधिकार](/hi/employment/leave-entitlements-malaysia), [काम के घंटे और ओवरटाइम](/hi/employment/working-hours-overtime-malaysia), और [न्यूनतम वेतन](/hi/employment/minimum-wage-malaysia) |
+| बिना दावे के रोज़गार कैसे समाप्त करूँ? | [रोज़गार समाप्त करना](/hi/employment/termination-of-employment-malaysia), और [धारा 20 के तहत अनुचित बर्खास्तगी](/hi/employment/unfair-dismissal-malaysia) |
+| हर भर्ती के लिए मुझे क्या पंजीकृत करना और भुगतान करना है? | [पेरोल अनुपालन कैलेंडर](/hi/employment/payroll-compliance-malaysia), [EPF, SOCSO और EIS](/hi/employment/epf-socso-guide) से शुरू करके |
+| मैं किसी विदेशी नागरिक को भर्ती कर रहा हूँ | [विदेशी श्रमिकों की भर्ती](/hi/employment/hiring-foreign-workers-malaysia), फिर [Employment Pass](/hi/employment/employment-pass-malaysia) |
+| क्या यह कर्मचारी है या स्वतंत्र ठेकेदार? | [कर्मचारी, गिग श्रमिक या ठेकेदार](/hi/employment/employee-vs-contractor-malaysia) |
+
 ## श्रम मानक
 
 | क़ानून | Act | प्राधिकरण | पोर्टल | किसे नियंत्रित करता है |
@@ -99,7 +114,7 @@ keywords: ["मलेशिया श्रम कानून सूची", "�
 
 | क़ानून | Act | प्राधिकरण | पोर्टल | किसे नियंत्रित करता है |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | व्यावसायिक सुरक्षा और स्वास्थ्य विभाग (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | नियोक्ता सुरक्षा कर्तव्य, OSH समन्वयक, दुर्घटना अधिसूचना |
+| [Occupational Safety and Health Act 1994](/hi/law/occupational-safety-and-health-act) | 514 | व्यावसायिक सुरक्षा और स्वास्थ्य विभाग (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | नियोक्ता सुरक्षा कर्तव्य, OSH समन्वयक, दुर्घटना अधिसूचना |
 
 ध्यान दें `www.dosh.gov.my` काम नहीं करता — शीर्ष डोमेन का उपयोग करें।
 
@@ -146,4 +161,4 @@ keywords: ["मलेशिया श्रम कानून सूची", "�
 
 ## आगे क्या
 
-अपने अनुपालन कैलेंडर में क़ानून स्तंभ नहीं, बल्कि पोर्टल स्तंभ पिन करें — क़ानून आपको बताता है कि क्या देय है, पोर्टल वह जगह है जहाँ समय-सीमा वास्तव में पूरी होती है। फिर प्रायद्वीप के लिए [Employment Act गाइड](/employment/employment-act-1955-guide) पढ़ें, और [सबा और सारावाक पृष्ठ](/employment/sabah-sarawak-labour-ordinance) यदि आपके कर्मचारियों में से कोई समुद्र पार बैठा है।
+अपने अनुपालन कैलेंडर में क़ानून स्तंभ नहीं, बल्कि पोर्टल स्तंभ पिन करें — क़ानून आपको बताता है कि क्या देय है, पोर्टल वह जगह है जहाँ समय-सीमा वास्तव में पूरी होती है। फिर प्रायद्वीप के लिए [Employment Act गाइड](/hi/employment/employment-act-1955-guide) पढ़ें, और [सबा और सारावाक पृष्ठ](/hi/employment/sabah-sarawak-labour-ordinance) यदि आपके कर्मचारियों में से कोई समुद्र पार बैठा है। हर भर्ती के पैसे वाले पक्ष के लिए — EPF, SOCSO, EIS, PCB और दाख़िल करने की समय-सीमाएँ — [पेरोल अनुपालन कैलेंडर](/hi/employment/payroll-compliance-malaysia) से काम करें; यदि आप विदेश से प्रतिभा ला रहे हैं, तो [विदेशी श्रमिकों की भर्ती](/hi/employment/hiring-foreign-workers-malaysia) से शुरू करें।

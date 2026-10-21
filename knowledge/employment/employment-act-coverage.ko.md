@@ -23,7 +23,7 @@ appliesTo: "근로자가 초과근무 수당, 휴게일 수당 또는 고용 종
 
 verificationNeeded: []
 lang: "ko"
-sourceContentHash: "e20a9bba2377fd31"
+sourceContentHash: "50ac1a90ff89e35c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

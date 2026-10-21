@@ -59,7 +59,7 @@ obligations:
     consequence: "Phán quyết đứng vững và trở nên có thể thi hành"
 
 lang: "vi"
-sourceContentHash: "673d411271b17256"
+sourceContentHash: "b76d7f93bf74166e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

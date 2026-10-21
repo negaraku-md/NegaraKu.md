@@ -41,7 +41,7 @@ verificationNeeded:
   - "सबाह की प्रतिस्थापित पहली अनुसूची की अपवाद-सूची की राजपत्रित अधिनियम A1753 के पाठ के विरुद्ध धारा-दर-धारा पुष्टि करें"
 
 lang: "hi"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

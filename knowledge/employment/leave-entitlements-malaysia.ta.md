@@ -42,7 +42,7 @@ verificationNeeded:
   - "2025 இல் திருத்தப்பட்ட Sabah மற்றும் Sarawak Labour Ordinances இன் கீழ் இணையான ஆண்டு, நோய் மற்றும் மருத்துவமனை விடுப்பு அடுக்குகளை உறுதிப்படுத்தவும்"
 
 lang: "ta"
-sourceContentHash: "4780eb76db51665d"
+sourceContentHash: "f94ad4c8be6ac29e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

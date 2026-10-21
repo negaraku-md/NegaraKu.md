@@ -59,7 +59,7 @@ obligations:
     consequence: "คำชี้ขาดคงอยู่และมีผลบังคับได้"
 
 lang: "th"
-sourceContentHash: "673d411271b17256"
+sourceContentHash: "b76d7f93bf74166e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

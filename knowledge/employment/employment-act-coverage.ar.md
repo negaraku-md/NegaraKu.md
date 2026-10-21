@@ -23,7 +23,7 @@ appliesTo: "أصحاب العمل الذين يقرّرون ما إذا كان �
 
 verificationNeeded: []
 lang: "ar"
-sourceContentHash: "e20a9bba2377fd31"
+sourceContentHash: "50ac1a90ff89e35c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -61,7 +61,7 @@ obligations:
     consequence: "이의신청 창구가 닫혀 이의신청을 제출할 수 없음"
 
 lang: "ko"
-sourceContentHash: "10fdb6251948c8f0"
+sourceContentHash: "77a6b4ed6f63308d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

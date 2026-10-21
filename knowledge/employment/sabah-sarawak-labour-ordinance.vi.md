@@ -41,7 +41,7 @@ verificationNeeded:
   - "Cần xác nhận danh sách loại trừ của Phụ lục Thứ Nhất thay thế của Sabah theo từng mục đối chiếu với văn bản Act A1753 đã đăng công báo"
 
 lang: "vi"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

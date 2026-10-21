@@ -66,7 +66,7 @@ obligations:
     consequence: "제91조에 따른 범죄"
 
 lang: "ko"
-sourceContentHash: "61d3ae24699dff11"
+sourceContentHash: "dcc00bf389e1b1c4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

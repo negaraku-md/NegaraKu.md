@@ -24,7 +24,7 @@ appliesTo: "적합한 법정 기여 안내를 찾는 고용주, 인사 및 급�
 verificationNeeded: []
 
 lang: "ko"
-sourceContentHash: "93eabace2772ea86"
+sourceContentHash: "694bcdea48a05320"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

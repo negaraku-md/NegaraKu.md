@@ -30,7 +30,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,22 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 以下のURLはすべて確認済みである。よく引用されるにもかかわらず解決しないアドレスに
 ついてはその旨を記載している。そうしたアドレスこそが午後の時間を無駄にするからだ。
 
+## どのガイドが必要か
+
+以下の表は、各法令をその規制当局とポータルに対応付けている。これに対し、特定の
+義務についてのわかりやすいガイドを求めているなら、ここから始めるとよい。
+
+| あなたの疑問が | 読むべきもの |
+| --- | --- |
+| そもそも雇用法はこの労働者に適用されるのか？ | [雇用法の適用対象](/ja/employment/employment-act-coverage) |
+| 法そのものを、Partごとに知りたい | [1955年雇用法ガイド](/ja/employment/employment-act-1955-guide) |
+| 従業員がサバ州またはサラワク州で働いている | [サバ・サラワク労働条例](/ja/employment/sabah-sarawak-labour-ordinance) |
+| どの休暇・労働時間・賃金を与える義務があるか？ | [休暇の権利](/ja/employment/leave-entitlements-malaysia)、[労働時間と残業](/ja/employment/working-hours-overtime-malaysia)、そして[最低賃金](/ja/employment/minimum-wage-malaysia) |
+| 請求を招かずに雇用を終了するには？ | [雇用の終了](/ja/employment/termination-of-employment-malaysia)、そして[s.20に基づく不当解雇](/ja/employment/unfair-dismissal-malaysia) |
+| 雇用のたびに何を登録し、支払うべきか？ | [給与コンプライアンスカレンダー](/ja/employment/payroll-compliance-malaysia)、まずは[EPF、SOCSO、EIS](/ja/employment/epf-socso-guide)から |
+| 外国人を雇用しようとしている | [外国人労働者の雇用](/ja/employment/hiring-foreign-workers-malaysia)、次に[就労ビザ（Employment Pass）](/ja/employment/employment-pass-malaysia) |
+| これは従業員か、それとも独立請負人か？ | [従業員、ギグワーカー、または請負人](/ja/employment/employee-vs-contractor-malaysia) |
+
 ## 労働基準
 
 | 法令 | Act | 当局 | ポータル | 管轄範囲 |
@@ -106,7 +122,7 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 
 | 法令 | Act | 当局 | ポータル | 管轄範囲 |
 | --- | --- | --- | --- | --- |
-| [1994年労働安全衛生法（OSHA 1994、Act 514）](/law/occupational-safety-and-health-act) | 514 | 労働安全衛生局（DOSH／JKKP）——`dosh.gov.my` | MyKKP、`mykkp.dosh.gov.my`；APIS、`apis.dosh.gov.my` | 雇用主の安全義務、労働安全衛生担当者（OSHコーディネーター）、事故報告 |
+| [1994年労働安全衛生法（OSHA 1994、Act 514）](/ja/law/occupational-safety-and-health-act) | 514 | 労働安全衛生局（DOSH／JKKP）——`dosh.gov.my` | MyKKP、`mykkp.dosh.gov.my`；APIS、`apis.dosh.gov.my` | 雇用主の安全義務、労働安全衛生担当者（OSHコーディネーター）、事故報告 |
 
 注意：`www.dosh.gov.my`は解決しない——アペックスドメインを使用すること。
 
@@ -179,3 +195,7 @@ of Housing, Accommodations and Amenities Act 1990*である。
 次に、半島部については[雇用法ガイド](/ja/employment/employment-act-1955-guide)を、
 従業員の一部が海の向こうにいるなら
 [サバ・サラワクのページ](/ja/employment/sabah-sarawak-labour-ordinance)を読むこと。
+雇用ごとの金銭面——EPF、SOCSO、EIS、PCB、そして申請期限——については、
+[給与コンプライアンスカレンダー](/ja/employment/payroll-compliance-malaysia)を
+手がかりに進めること。海外から人材を招くなら、
+[外国人労働者の雇用](/ja/employment/hiring-foreign-workers-malaysia)から始めるとよい。

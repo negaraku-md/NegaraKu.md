@@ -42,7 +42,7 @@ verificationNeeded:
   - "التحقق من شرائح الإجازة السنوية والمرضية والاستشفاء المكافئة بموجب مرسومَي العمل في صباح وساراواك بصيغتهما المعدَّلة في 2025"
 
 lang: "ar"
-sourceContentHash: "4780eb76db51665d"
+sourceContentHash: "f94ad4c8be6ac29e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

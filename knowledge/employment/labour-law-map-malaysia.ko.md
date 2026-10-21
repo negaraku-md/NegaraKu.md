@@ -28,7 +28,7 @@ verificationNeeded:
   - "법률 번호 612, 732, 789, 800, 840, 872를 해당 PDF가 제공되는 대로 lom.agc.gov.my와 대조하여 확인할 것 — 현재는 LOM 저장소가 아니라 기관 사이트에서 확인됨"
 
 lang: "ko"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,22 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 아래의 모든 URL은 확인되었습니다. 흔히 인용되는 주소가 연결되지 않는 경우 그 점을
 표시했는데, 그것들이 바로 오후 한나절을 낭비하게 만드는 것들이기 때문입니다.
 
+## 어떤 가이드가 필요한가
+
+아래의 표들은 각 법령을 그 규제기관과 포털에 대응시킵니다. 대신 특정 의무에
+대한 평이한 설명 가이드를 원한다면, 여기서 시작하십시오.
+
+| 질문이 이렇다면 | 읽을 것 |
+| --- | --- |
+| 고용법이 이 근로자를 애초에 적용 대상으로 하는가? | [고용법이 적용되는 대상](/ko/employment/employment-act-coverage) |
+| 법 자체를 Part별로 보고 싶다 | [고용법 1955 안내](/ko/employment/employment-act-1955-guide) |
+| 내 직원이 사바나 사라왁에서 일한다 | [사바 및 사라왁 노동 조례](/ko/employment/sabah-sarawak-labour-ordinance) |
+| 어떤 휴가, 근로시간, 임금을 지급해야 하는가? | [휴가 권리](/ko/employment/leave-entitlements-malaysia), [근로시간 및 초과근무](/ko/employment/working-hours-overtime-malaysia), [최저임금](/ko/employment/minimum-wage-malaysia) |
+| 분쟁 없이 고용을 종료하려면? | [고용 종료](/ko/employment/termination-of-employment-malaysia), [제20조에 따른 부당해고](/ko/employment/unfair-dismissal-malaysia) |
+| 채용할 때마다 무엇을 등록하고 납부해야 하는가? | [급여 준법 달력](/ko/employment/payroll-compliance-malaysia), 먼저 [EPF, SOCSO, EIS](/ko/employment/epf-socso-guide)부터 |
+| 외국인을 채용하려 한다 | [외국인 근로자 채용](/ko/employment/hiring-foreign-workers-malaysia), 그다음 [취업 비자(Employment Pass)](/ko/employment/employment-pass-malaysia) |
+| 이 사람은 직원인가, 독립 계약자인가? | [직원, 긱 근로자 또는 계약자](/ko/employment/employee-vs-contractor-malaysia) |
+
 ## 노동 기준
 
 | 법령 | Act | 당국 | 포털 | 규율 대상 |
@@ -106,7 +122,7 @@ keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jp
 
 | 법령 | Act | 당국 | 포털 | 규율 대상 |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | 고용주 안전 의무, OSH 코디네이터, 사고 통지 |
+| [Occupational Safety and Health Act 1994](/ko/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | 고용주 안전 의무, OSH 코디네이터, 사고 통지 |
 
 `www.dosh.gov.my`는 연결되지 않으니 최상위 도메인을 사용하십시오.
 
@@ -172,5 +188,9 @@ Housing, Accommodations and Amenities Act 1990*입니다.
 
 법령 열이 아니라 포털 열을 규정 준수 달력에 고정하십시오 — 법령은 무엇이 요구되는지
 알려주고, 포털은 마감일이 실제로 이행되는 곳입니다. 그런 다음 반도에 대해서는
-[고용법 안내](/en/employment/employment-act-1955-guide)를, 인력 중 일부가 바다 건너에
-있다면 [사바 및 사라왁 페이지](/en/employment/sabah-sarawak-labour-ordinance)를 읽으십시오.
+[고용법 안내](/ko/employment/employment-act-1955-guide)를, 인력 중 일부가 바다 건너에
+있다면 [사바 및 사라왁 페이지](/ko/employment/sabah-sarawak-labour-ordinance)를 읽으십시오.
+채용하는 모든 직원의 금전적 측면 — EPF, SOCSO, EIS, PCB 및 신고 마감일 — 에 대해서는
+[급여 준법 달력](/ko/employment/payroll-compliance-malaysia)에서 시작하십시오. 해외에서
+인재를 데려오는 경우에는 [외국인 근로자 채용](/ko/employment/hiring-foreign-workers-malaysia)부터
+시작하십시오.

@@ -28,7 +28,7 @@ verificationNeeded:
   - "Confirm Act numbers 612, 732, 789, 800, 840 and 872 against lom.agc.gov.my once those PDFs are served — they are currently confirmed from agency sites rather than the LOM repository"
 
 lang: "es"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -78,6 +78,22 @@ de Sabah no es ninguna aprobación.
 Se comprobó cada URL de abajo. Donde una dirección citada habitualmente no
 resuelve, se indica, porque esas son las que hacen perder una tarde.
 
+## Qué guía necesita
+
+Las tablas de más abajo relacionan cada ley con su regulador y su portal. Si en
+cambio quiere la guía en lenguaje sencillo sobre un deber concreto, empiece aquí.
+
+| Si su pregunta es | Lea |
+| --- | --- |
+| ¿La Employment Act siquiera cubre a este trabajador? | [A quién cubre la Employment Act](/es/employment/employment-act-coverage) |
+| Necesito la propia ley, Parte por Parte | [La guía de la Employment Act 1955](/es/employment/employment-act-1955-guide) |
+| Mi empleado trabaja en Sabah o Sarawak | [Las Ordenanzas Laborales de Sabah y Sarawak](/es/employment/sabah-sarawak-labour-ordinance) |
+| ¿Qué licencias, horas y salarios debo? | [Derechos de licencia](/es/employment/leave-entitlements-malaysia), [horas de trabajo y horas extra](/es/employment/working-hours-overtime-malaysia) y [salario mínimo](/es/employment/minimum-wage-malaysia) |
+| ¿Cómo termino el empleo sin una reclamación? | [Terminación del empleo](/es/employment/termination-of-employment-malaysia) y [despido injustificado conforme al art. 20](/es/employment/unfair-dismissal-malaysia) |
+| ¿Qué debo registrar y pagar por cada contratación? | [El calendario de cumplimiento de nóminas](/es/employment/payroll-compliance-malaysia), empezando por [EPF, SOCSO y EIS](/es/employment/epf-socso-guide) |
+| Voy a contratar a un extranjero | [Contratación de trabajadores extranjeros](/es/employment/hiring-foreign-workers-malaysia) y luego [el Employment Pass](/es/employment/employment-pass-malaysia) |
+| ¿Es este un empleado o un contratista independiente? | [Empleado, trabajador gig o contratista](/es/employment/employee-vs-contractor-malaysia) |
+
 ## Normas laborales
 
 | Ley | Act | Autoridad | Portal | Regula |
@@ -107,7 +123,7 @@ Es la referencia rota que más se repite en los textos de RR. HH. malasios.
 
 | Ley | Act | Autoridad | Portal | Regula |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Deberes de seguridad del empleador, coordinadores de SST, notificación de accidentes |
+| [Occupational Safety and Health Act 1994](/es/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Deberes de seguridad del empleador, coordinadores de SST, notificación de accidentes |
 
 Tenga en cuenta que `www.dosh.gov.my` no resuelve: use el dominio raíz.
 
@@ -179,6 +195,9 @@ en la ley.
 
 Fije en su calendario de cumplimiento la columna del portal, no la de la ley: la ley
 le dice qué se debe, el portal es donde el plazo se cumple de verdad. Luego lea la
-[guía de la Employment Act](/en/employment/employment-act-1955-guide) para la
-península, y la [página de Sabah y Sarawak](/en/employment/sabah-sarawak-labour-ordinance)
-si parte de su plantilla se encuentra al otro lado del mar.
+[guía de la Employment Act](/es/employment/employment-act-1955-guide) para la
+península, y la [página de Sabah y Sarawak](/es/employment/sabah-sarawak-labour-ordinance)
+si parte de su plantilla se encuentra al otro lado del mar. Para la parte
+económica de cada contratación —EPF, SOCSO, EIS, PCB y los plazos de
+presentación— trabaje a partir del [calendario de cumplimiento de nóminas](/es/employment/payroll-compliance-malaysia);
+si va a traer talento del extranjero, empiece por [la contratación de trabajadores extranjeros](/es/employment/hiring-foreign-workers-malaysia).

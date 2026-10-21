@@ -23,7 +23,7 @@ appliesTo: "Empleadores que deciden si un empleado tiene derecho a horas extra, 
 
 verificationNeeded: []
 lang: "es"
-sourceContentHash: "e20a9bba2377fd31"
+sourceContentHash: "50ac1a90ff89e35c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

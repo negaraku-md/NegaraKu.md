@@ -42,7 +42,7 @@ verificationNeeded:
   - "2025년에 개정된 사바 및 사라왁 노동법령에 따른 연차·병가·입원 휴가의 상응 구간을 확인할 것"
 
 lang: "ko"
-sourceContentHash: "4780eb76db51665d"
+sourceContentHash: "f94ad4c8be6ac29e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

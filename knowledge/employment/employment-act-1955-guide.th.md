@@ -66,7 +66,7 @@ obligations:
     consequence: "เป็นความผิดภายใต้มาตรา 91"
 
 lang: "th"
-sourceContentHash: "61d3ae24699dff11"
+sourceContentHash: "dcc00bf389e1b1c4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

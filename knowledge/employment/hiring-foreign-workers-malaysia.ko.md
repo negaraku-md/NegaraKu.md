@@ -77,7 +77,7 @@ obligations:
     consequence: "고용법 1955에 따른 범죄"
 
 lang: "ko"
-sourceContentHash: "558d661d33577f5e"
+sourceContentHash: "ce146b0133a35665"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -41,7 +41,7 @@ verificationNeeded:
   - "التحقق من قائمة استثناءات الجدول الأول البديل لصباح مادةً مادةً مقابل نصّ القانون A1753 المنشور في الجريدة الرسمية"
 
 lang: "ar"
-sourceContentHash: "41215d4a374adf7b"
+sourceContentHash: "4e3eaacc22e01e4c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

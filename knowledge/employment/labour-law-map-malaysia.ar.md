@@ -28,7 +28,7 @@ verificationNeeded:
   - "التحقق من أرقام القوانين 612 و732 و789 و800 و840 و872 مقابل lom.agc.gov.my عند إتاحة ملفات PDF تلك — فهي مؤكَّدة حالياً من مواقع الجهات بدلاً من مستودع LOM"
 
 lang: "ar"
-sourceContentHash: "debce12c53f16ed5"
+sourceContentHash: "4f0931b2ccdabfab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,22 @@ keywords: ["قائمة قوانين العمل في ماليزيا", "تشريع
 جرى التحقق من كل رابط أدناه. وحيثما كان عنوان شائع الاستشهاد لا يعمل، أُشير إلى ذلك،
 لأن تلك هي العناوين التي تُهدر فترة بعد الظهر.
 
+## أي دليل تحتاج
+
+تربط الجداول أدناه كل تشريع بجهته المنظِّمة وبوابته. أما إذا كنت تريد بدلاً من ذلك
+الدليل بلغة واضحة لواجب معيّن، فابدأ من هنا.
+
+| إذا كان سؤالك | اقرأ |
+| --- | --- |
+| هل يشمل قانون العمل هذا العامل أصلاً؟ | [مَن يشمله قانون العمل](/ar/employment/employment-act-coverage) |
+| أحتاج القانون نفسه، جزءاً جزءاً | [دليل قانون العمل لسنة 1955](/ar/employment/employment-act-1955-guide) |
+| موظفي يعمل في صباح أو ساراواك | [قانونا العمل في صباح وساراواك](/ar/employment/sabah-sarawak-labour-ordinance) |
+| ما الإجازات والساعات والأجور المستحقة عليّ؟ | [استحقاقات الإجازات](/ar/employment/leave-entitlements-malaysia)، و[ساعات العمل والعمل الإضافي](/ar/employment/working-hours-overtime-malaysia)، و[الحد الأدنى للأجور](/ar/employment/minimum-wage-malaysia) |
+| كيف أنهي التوظيف دون دعوى؟ | [إنهاء التوظيف](/ar/employment/termination-of-employment-malaysia)، و[الفصل التعسفي بموجب المادة 20](/ar/employment/unfair-dismissal-malaysia) |
+| ما الذي يجب تسجيله ودفعه عن كل توظيف؟ | [تقويم الامتثال لكشوف الرواتب](/ar/employment/payroll-compliance-malaysia)، بدءاً من [EPF وSOCSO وEIS](/ar/employment/epf-socso-guide) |
+| أنا بصدد توظيف مواطن أجنبي | [توظيف العمال الأجانب](/ar/employment/hiring-foreign-workers-malaysia)، ثم [تصريح العمل (Employment Pass)](/ar/employment/employment-pass-malaysia) |
+| هل هذا موظف أم متعاقد مستقل؟ | [موظف أم عامل مؤقت أم متعاقد](/ar/employment/employee-vs-contractor-malaysia) |
+
 ## معايير العمل
 
 | التشريع | القانون | الجهة | البوابة | ما ينظّمه |
@@ -105,7 +121,7 @@ keywords: ["قائمة قوانين العمل في ماليزيا", "تشريع
 
 | التشريع | القانون | الجهة | البوابة | ما ينظّمه |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | دائرة السلامة والصحة المهنية (DOSH / JKKP) — `dosh.gov.my` | MyKKP، `mykkp.dosh.gov.my`؛ APIS، `apis.dosh.gov.my` | واجبات السلامة على صاحب العمل، منسّقو السلامة والصحة المهنية، الإبلاغ عن الحوادث |
+| [Occupational Safety and Health Act 1994](/ar/law/occupational-safety-and-health-act) | 514 | دائرة السلامة والصحة المهنية (DOSH / JKKP) — `dosh.gov.my` | MyKKP، `mykkp.dosh.gov.my`؛ APIS، `apis.dosh.gov.my` | واجبات السلامة على صاحب العمل، منسّقو السلامة والصحة المهنية، الإبلاغ عن الحوادث |
 
 ملاحظة: `www.dosh.gov.my` لا يعمل — استخدم النطاق الجذر.
 
@@ -171,6 +187,10 @@ Accommodations and Amenities Act 1990*.
 
 ثبّت عمود البوابة في تقويم الامتثال لديك، لا عمود التشريع — فالتشريع يخبرك بما هو
 مستحق، والبوابة هي المكان الذي يُستوفى فيه الموعد النهائي فعلاً. ثم اقرأ
-[دليل قانون العمل](/employment/employment-act-1955-guide) لشبه الجزيرة،
-و[صفحة صباح وساراواك](/employment/sabah-sarawak-labour-ordinance) إن كان أيٌّ من
-موظفيك موجوداً عبر البحر.
+[دليل قانون العمل](/ar/employment/employment-act-1955-guide) لشبه الجزيرة،
+و[صفحة صباح وساراواك](/ar/employment/sabah-sarawak-labour-ordinance) إن كان أيٌّ من
+موظفيك موجوداً عبر البحر. وفيما يخص الجانب المالي لكل توظيف — EPF وSOCSO وEIS وPCB
+والمواعيد النهائية للتقديم — اعمل انطلاقاً من
+[تقويم الامتثال لكشوف الرواتب](/ar/employment/payroll-compliance-malaysia)؛
+وإن كنت تستقدم كفاءات من الخارج، فابدأ من
+[توظيف العمال الأجانب](/ar/employment/hiring-foreign-workers-malaysia).

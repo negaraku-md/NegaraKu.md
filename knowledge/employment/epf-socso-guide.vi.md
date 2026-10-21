@@ -24,7 +24,7 @@ appliesTo: "Người sử dụng lao động, quản trị viên nhân sự và 
 verificationNeeded: []
 
 lang: "vi"
-sourceContentHash: "93eabace2772ea86"
+sourceContentHash: "694bcdea48a05320"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -24,7 +24,7 @@ appliesTo: "Employeurs, gestionnaires RH et de paie à la recherche du bon guide
 verificationNeeded: []
 
 lang: "fr"
-sourceContentHash: "93eabace2772ea86"
+sourceContentHash: "694bcdea48a05320"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

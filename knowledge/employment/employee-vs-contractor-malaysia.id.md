@@ -42,7 +42,7 @@ verificationNeeded:
   - "Pastikan otoritas banding Malaysia terkemuka mengenai ujian kendali dan integrasi terhadap putusan yang dilaporkan"
 
 lang: "id"
-sourceContentHash: "8132a0298fe4934d"
+sourceContentHash: "8d89264bfe29b9c8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
