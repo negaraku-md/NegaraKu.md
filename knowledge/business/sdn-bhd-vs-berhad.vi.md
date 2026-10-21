@@ -25,7 +25,7 @@ appliesTo: "Các nhà sáng lập đang tiến gần năm mươi cổ đông, c�
 
 verificationNeeded: []
 lang: "vi"
-sourceContentHash: "8917207c150f9f81"
+sourceContentHash: "66016f1cbe1fbc7b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

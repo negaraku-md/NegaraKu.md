@@ -58,7 +58,7 @@ obligations:
     consequence: "يُعدّ جميع الشركاء مسؤولي امتثال إذا لم يُعيَّن أحد"
 
 lang: "ar"
-sourceContentHash: "018f4b09e139ab24"
+sourceContentHash: "4960d05f42863f4e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

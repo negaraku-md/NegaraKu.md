@@ -71,7 +71,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "27686b67b4875d34"
+sourceContentHash: "f32ada680879f794"
 
 status: "published"
 aiAssisted: true

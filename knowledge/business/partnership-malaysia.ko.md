@@ -27,7 +27,7 @@ verificationNeeded:
   - "사업등록법(Registration of Businesses Act 1956)이 아니라 주 조례에 따라 등록하는 사바(Sabah)와 사라왁(Sarawak)의 조합에 대한 현행 ROB 등록 입장을 확인하십시오"
 
 lang: "ko"
-sourceContentHash: "14836fcc799b68f3"
+sourceContentHash: "1edb0562dd2bf86f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

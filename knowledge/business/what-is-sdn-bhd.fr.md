@@ -24,7 +24,7 @@ appliesTo: "Toute personne qui choisit une structure d'entreprise, ou qui cherch
 verificationNeeded: []
 
 lang: "fr"
-sourceContentHash: "152f7dfdb9b1a474"
+sourceContentHash: "897b0cbf9ad6963b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

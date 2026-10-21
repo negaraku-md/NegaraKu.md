@@ -37,7 +37,7 @@ faq:
     a: "등록사무소는 말레이시아에 있어야 하며 서류를 송달하고 기록을 열람할 수 있는 장소여야 합니다 (s.46). 많은 회사가 대신 회사 비서의 사무소를 사용합니다."
 
 lang: "ko"
-sourceContentHash: "0220f937a06b83b7"
+sourceContentHash: "d07a22a154d6e1be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

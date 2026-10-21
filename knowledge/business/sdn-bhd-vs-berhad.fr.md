@@ -25,7 +25,7 @@ appliesTo: "Fondateurs approchant les cinquante actionnaires, sociétés planifi
 
 verificationNeeded: []
 lang: "fr"
-sourceContentHash: "8917207c150f9f81"
+sourceContentHash: "66016f1cbe1fbc7b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

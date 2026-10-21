@@ -24,7 +24,7 @@ appliesTo: "Siapa saja yang memilih struktur bisnis, atau mencoba memahami sebua
 verificationNeeded: []
 
 lang: "id"
-sourceContentHash: "152f7dfdb9b1a474"
+sourceContentHash: "897b0cbf9ad6963b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

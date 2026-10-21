@@ -29,7 +29,7 @@ faq:
     a: "Một CLBG mới có thể nộp đơn khi thành lập nhưng phải huy động một quỹ tiền mặt RM1 triệu trong vòng sáu tháng. Một CLBG hiện có phải đã được thành lập ít nhất hai năm và cho thấy RM1 triệu tiền mặt trong ngân hàng trong báo cáo tài chính mới nhất của nó."
 
 lang: "vi"
-sourceContentHash: "9a66cfe119dbc531"
+sourceContentHash: "c5c4b2bf6325903b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

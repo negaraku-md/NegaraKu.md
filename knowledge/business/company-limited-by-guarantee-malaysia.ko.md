@@ -29,7 +29,7 @@ faq:
     a: "신설 CLBG는 설립 시 신청할 수 있으나 6개월 이내에 RM100만의 현금 기금을 조성해야 합니다. 기존 CLBG는 설립된 지 최소 2년이 되어야 하며 최신 재무제표에 은행 예치 현금 RM100만을 보여주어야 합니다."
 
 lang: "ko"
-sourceContentHash: "9a66cfe119dbc531"
+sourceContentHash: "c5c4b2bf6325903b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

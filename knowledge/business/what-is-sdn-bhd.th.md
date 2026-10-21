@@ -24,7 +24,7 @@ appliesTo: "ผู้ใดที่กำลังเลือกโครง�
 verificationNeeded: []
 
 lang: "th"
-sourceContentHash: "152f7dfdb9b1a474"
+sourceContentHash: "897b0cbf9ad6963b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

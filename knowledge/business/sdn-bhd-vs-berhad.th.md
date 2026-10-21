@@ -25,7 +25,7 @@ appliesTo: "ผู้ก่อตั้งที่กำลังเข้า�
 
 verificationNeeded: []
 lang: "th"
-sourceContentHash: "8917207c150f9f81"
+sourceContentHash: "66016f1cbe1fbc7b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -25,7 +25,7 @@ appliesTo: "المؤسسون المقتربون من خمسين مساهمًا،
 
 verificationNeeded: []
 lang: "ar"
-sourceContentHash: "8917207c150f9f81"
+sourceContentHash: "66016f1cbe1fbc7b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -69,7 +69,7 @@ obligations:
     statute: "Limited Liability Partnerships Act 2012"
 
 lang: "ko"
-sourceContentHash: "27686b67b4875d34"
+sourceContentHash: "f32ada680879f794"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

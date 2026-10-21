@@ -27,7 +27,7 @@ verificationNeeded:
   - "Confirmer la position actuelle d'enregistrement ROB pour les sociétés de personnes au Sabah et au Sarawak, qui s'enregistrent au titre d'ordonnances étatiques plutôt que de la Registration of Businesses Act 1956"
 
 lang: "fr"
-sourceContentHash: "14836fcc799b68f3"
+sourceContentHash: "1edb0562dd2bf86f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

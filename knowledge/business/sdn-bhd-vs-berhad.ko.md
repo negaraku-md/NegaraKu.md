@@ -25,7 +25,7 @@ appliesTo: "주주 50명에 근접한 창업자, 기업공개(IPO)나 공모를 
 
 verificationNeeded: []
 lang: "ko"
-sourceContentHash: "8917207c150f9f81"
+sourceContentHash: "66016f1cbe1fbc7b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

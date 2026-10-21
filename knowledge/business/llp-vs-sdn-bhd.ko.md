@@ -58,7 +58,7 @@ obligations:
     consequence: "선임되지 않으면 모든 파트너가 준법감시인으로 간주됩니다"
 
 lang: "ko"
-sourceContentHash: "018f4b09e139ab24"
+sourceContentHash: "4960d05f42863f4e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

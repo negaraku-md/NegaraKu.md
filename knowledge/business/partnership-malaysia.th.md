@@ -27,7 +27,7 @@ verificationNeeded:
   - "ยืนยันสถานะการจดทะเบียน ROB ปัจจุบันสำหรับห้างหุ้นส่วนในซาบาห์และซาราวัก ซึ่งจดทะเบียนภายใต้กฎหมายลำดับรองของรัฐแทนที่จะเป็นพระราชบัญญัติการจดทะเบียนธุรกิจ ปี 1956 (Registration of Businesses Act 1956)"
 
 lang: "th"
-sourceContentHash: "14836fcc799b68f3"
+sourceContentHash: "1edb0562dd2bf86f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

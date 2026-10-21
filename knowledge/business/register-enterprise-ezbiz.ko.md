@@ -68,7 +68,7 @@ obligations:
     consequence: "RM2,000의 벌금 또는 최대 6개월의 징역 또는 둘 다 (s.12(2))"
 
 lang: "ko"
-sourceContentHash: "b0eaf47ac1dcf35a"
+sourceContentHash: "5de487574f8c273e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

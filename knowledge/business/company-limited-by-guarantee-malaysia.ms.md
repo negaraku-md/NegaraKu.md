@@ -29,7 +29,7 @@ faq:
     a: "CLBG baharu boleh memohon semasa pemerbadanan tetapi mesti mengumpul dana tunai RM1 juta dalam tempoh enam bulan. CLBG sedia ada mesti telah diperbadankan sekurang-kurangnya dua tahun dan menunjukkan RM1 juta tunai di dalam bank dalam penyata kewangan terkininya."
 
 lang: "ms"
-sourceContentHash: "9a66cfe119dbc531"
+sourceContentHash: "c5c4b2bf6325903b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

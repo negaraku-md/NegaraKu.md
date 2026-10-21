@@ -68,7 +68,7 @@ obligations:
     consequence: "Phạt tiền RM2,000 hoặc phạt tù đến 6 tháng hoặc cả hai (s.12(2))"
 
 lang: "vi"
-sourceContentHash: "b0eaf47ac1dcf35a"
+sourceContentHash: "5de487574f8c273e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "एक नई CLBG निगमन पर आवेदन कर सकती है पर उसे छह महीनों के भीतर RM1 मिलियन का नक़द कोष जुटाना होगा। एक मौजूदा CLBG को कम से कम दो वर्ष पहले निगमित हुआ होना चाहिए और अपने नवीनतम वित्तीय विवरणों में बैंक में RM1 मिलियन नक़द दिखाना चाहिए।"
 
 lang: "hi"
-sourceContentHash: "9a66cfe119dbc531"
+sourceContentHash: "c5c4b2bf6325903b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

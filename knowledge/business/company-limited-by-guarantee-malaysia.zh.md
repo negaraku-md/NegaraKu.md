@@ -29,7 +29,7 @@ faq:
     a: "新成立的 CLBG 可在注册成立时申请，但必须在六个月内筹得100万令吉现金基金。现有的 CLBG 则必须已注册成立至少两年，并在最新财务报表中显示银行内有100万令吉现金。"
 
 lang: "zh"
-sourceContentHash: "9a66cfe119dbc531"
+sourceContentHash: "c5c4b2bf6325903b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -37,7 +37,7 @@ faq:
     a: "Trụ sở đã đăng ký phải ở Malaysia và là một nơi mà tài liệu có thể được tống đạt và hồ sơ có thể được kiểm tra (s.46). Nhiều công ty dùng văn phòng của thư ký công ty của họ thay vào đó."
 
 lang: "vi"
-sourceContentHash: "0220f937a06b83b7"
+sourceContentHash: "d07a22a154d6e1be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -37,7 +37,7 @@ faq:
     a: "Kantor terdaftar wajib berada di Malaysia dan menjadi tempat dokumen dapat disampaikan dan rekaman dapat diperiksa (Pasal 46). Banyak perusahaan justru menggunakan kantor sekretaris perusahaan mereka."
 
 lang: "id"
-sourceContentHash: "0220f937a06b83b7"
+sourceContentHash: "d07a22a154d6e1be"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

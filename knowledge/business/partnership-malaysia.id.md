@@ -27,7 +27,7 @@ verificationNeeded:
   - "Konfirmasikan posisi pendaftaran ROB saat ini bagi persekutuan di Sabah dan Sarawak, yang mendaftar di bawah ordonansi negara bagian dan bukan Registration of Businesses Act 1956"
 
 lang: "id"
-sourceContentHash: "14836fcc799b68f3"
+sourceContentHash: "1edb0562dd2bf86f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

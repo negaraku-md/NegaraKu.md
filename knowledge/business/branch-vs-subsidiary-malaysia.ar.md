@@ -67,7 +67,7 @@ obligations:
     statute: "Companies Act 2016, s.563(5)"
 
 lang: "ar"
-sourceContentHash: "6e88bec841335f1b"
+sourceContentHash: "b59d885e2462dfe2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

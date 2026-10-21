@@ -58,7 +58,7 @@ obligations:
     consequence: "Todos los socios se consideran responsables de cumplimiento si no se nombra ninguno"
 
 lang: "es"
-sourceContentHash: "018f4b09e139ab24"
+sourceContentHash: "4960d05f42863f4e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

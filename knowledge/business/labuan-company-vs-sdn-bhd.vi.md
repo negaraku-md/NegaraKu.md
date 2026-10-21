@@ -73,7 +73,7 @@ obligations:
     statute: "Labuan Companies Act 1990, s.110(2)"
 
 lang: "vi"
-sourceContentHash: "7fc53d9768ad1b70"
+sourceContentHash: "36395870d4c2e696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

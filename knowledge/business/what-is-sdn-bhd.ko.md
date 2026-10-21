@@ -24,7 +24,7 @@ appliesTo: "사업 형태를 선택하는 분, 또는 거래 상대인 말레이
 verificationNeeded: []
 
 lang: "ko"
-sourceContentHash: "152f7dfdb9b1a474"
+sourceContentHash: "897b0cbf9ad6963b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

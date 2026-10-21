@@ -27,7 +27,7 @@ verificationNeeded:
   - "التأكد من وضع التسجيل الحالي لدى سجل الأعمال (ROB) للشراكات في صباح وساراواك، التي تُسجَّل بموجب مراسيم الولايات وليس بموجب قانون تسجيل الأعمال لسنة 1956 (Registration of Businesses Act 1956)"
 
 lang: "ar"
-sourceContentHash: "14836fcc799b68f3"
+sourceContentHash: "1edb0562dd2bf86f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
