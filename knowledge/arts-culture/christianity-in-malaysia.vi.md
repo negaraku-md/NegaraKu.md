@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "Theo điều tra dân số năm 2020, tín đồ Kitô giáo chiếm 9,1% dân số Malaysia — khoảng 2,94 triệu người — khiến Kitô giáo trở thành tôn giáo lớn thứ ba sau Hồi giáo và Phật giáo. Khoảng hai phần ba tín đồ Kitô giáo Malaysia sống ở Sabah và Sarawak, và Sarawak là bang nơi Kitô giáo là tôn giáo đơn lẻ lớn nhất (khoảng một nửa dân số của bang). Khoảng một nửa tín đồ Kitô giáo Malaysia theo Công giáo và khoảng 40% theo Tin Lành (trong đó có Anh giáo, Giám Lý, Baptist, Trưởng Lão, Luther và Sidang Injil Borneo). Công giáo đến cùng người Bồ Đào Nha ở Melaka thế kỷ 16; các giáo hội Tin Lành phát triển qua các phái bộ truyền giáo thời Anh và các giáo đoàn người Hoa nhập cư, cũng như qua các phái bộ truyền giáo Borneo giữa các cộng đồng bản địa. Tự do tôn giáo được bảo đảm theo Điều 11 của Hiến pháp Liên bang, trong khi Điều 11(4) cho phép luật bang kiểm soát việc truyền bá giáo lý tôn giáo trong cộng đồng người Hồi giáo."
+answer: "Theo điều tra dân số năm 2020, tín đồ Kitô giáo chiếm 9,1% dân số Malaysia — khoảng 2,94 triệu người — khiến Kitô giáo trở thành tôn giáo lớn thứ ba sau Hồi giáo và Phật giáo. Hơn hai phần ba (khoảng 70%) tín đồ Kitô giáo Malaysia sống ở Sabah và Sarawak, và Sarawak là bang nơi Kitô giáo là tôn giáo đơn lẻ lớn nhất (khoảng một nửa dân số của bang). Khoảng một nửa tín đồ Kitô giáo Malaysia theo Công giáo và khoảng 40% theo Tin Lành (trong đó có Anh giáo, Giám Lý, Baptist, Trưởng Lão, Luther và Sidang Injil Borneo). Công giáo đến cùng người Bồ Đào Nha ở Melaka thế kỷ 16; các giáo hội Tin Lành phát triển qua các phái bộ truyền giáo thời Anh và các giáo đoàn người Hoa nhập cư, cũng như qua các phái bộ truyền giáo Borneo giữa các cộng đồng bản địa. Tự do tôn giáo được bảo đảm theo Điều 11 của Hiến pháp Liên bang, trong khi Điều 11(4) cho phép luật bang kiểm soát việc truyền bá giáo lý tôn giáo trong cộng đồng người Hồi giáo."
 keyTakeaways:
   - "Theo điều tra dân số 2020, tín đồ Kitô giáo chiếm 9,1% dân số (khoảng 2,94 triệu) — tôn giáo lớn thứ ba sau Hồi giáo (63,5%) và Phật giáo (18,7%)"
-  - "Khoảng hai phần ba tín đồ Kitô giáo Malaysia ở Sabah và Sarawak; Sarawak là bang nơi Kitô giáo là tôn giáo đơn lẻ lớn nhất (khoảng một nửa dân số)"
+  - "Hơn hai phần ba (khoảng 70%) tín đồ Kitô giáo Malaysia ở Sabah và Sarawak; Sarawak là bang nơi Kitô giáo là tôn giáo đơn lẻ lớn nhất (khoảng một nửa dân số)"
   - "Xét theo cộng đồng, phần lớn tín đồ Kitô giáo Malaysia là người Bumiputera (khoảng 59%), với các nhóm thiểu số người Hoa (khoảng 27%) và người Ấn (khoảng 4%) — phản ánh các giáo hội bản địa Borneo và các giáo đoàn người nhập cư ở bán đảo"
   - "Khoảng một nửa theo Công giáo và khoảng 40% theo Tin Lành — trong số các giáo hội lớn hơn có Anh giáo, Giám Lý, Baptist, Trưởng Lão, Luther và Sidang Injil Borneo (SIB)"
   - "Liên đoàn Kitô giáo Malaysia (Christian Federation of Malaysia, CFM), thành lập năm 1985, hợp nhất Hội đồng Giám mục Công giáo, Hội đồng các Giáo hội Malaysia và Hiệp hội Kitô hữu Tin Lành Toàn quốc, và cho biết họ đại diện cho hơn 95% số giáo hội"
@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn tìm hiểu về Kitô giáo tại Malaysia — nhân khẩu học, nơi tập trung, các hệ phái, lịch sử truyền giáo và khung pháp lý."
 
 verificationNeeded:
-  - "Tỷ lệ tín đồ Kitô giáo chính xác ở Sarawak (điều tra dân số ~50,1% so với các ước tính khác) và cơ cấu sắc tộc của tín đồ Kitô giáo năm 2020 cần được xác nhận với bản công bố của DOSM trước khi xuất bản"
-  - "Ngày thành lập/đăng ký của CFM (thành lập 1985, đăng ký 1986) và các con số đại diện của tổ chức này một phần do tự báo cáo — hãy xác nhận với CFM và các nguồn gốc"
-  - "Lập trường pháp lý về việc người không theo Hồi giáo sử dụng từ 'Allah' đã là đề tài kiện tụng và khác nhau tùy khu vực pháp lý; hãy xem đây là một vấn đề pháp lý đang diễn biến và xác nhận lập trường hiện hành khi rà soát"
+  - "Con số 'hơn 95% số giáo hội' của CFM là mô tả do chính CFM tự đưa ra (theo cfmsia.org), không được kiểm toán độc lập — được trình bày đúng như vậy"
+  - "Lập trường pháp lý về từ 'Allah' được xác nhận đến năm 2023 (phán quyết Jill Ireland năm 2021 vẫn còn hiệu lực, kháng cáo của liên bang đã được rút, án lệ Herald trước đó thì khác) nhưng vẫn đang diễn biến — hãy kiểm tra lại khi xuất bản"
 
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0470654052853fe"
+sourceContentHash: "198b32c117f346a7"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -54,6 +53,10 @@ sources:
   - title: "Giới thiệu về CFM (About CFM)"
     url: "https://cfmsia.org/about-cfm/"
     publisher: "Liên đoàn Kitô giáo Malaysia (CFM)"
+  - title: "Chính phủ rút kháng cáo về phán quyết 'Allah' (Govt withdraws appeal on 'Allah' ruling)"
+    url: "https://www.freemalaysiatoday.com/category/nation/2023/05/15/govt-withdraws-appeal-on-allah-ruling/"
+    publisher: "Free Malaysia Today"
+    date: "2023-05-15"
 
 entity: "Christianity in Malaysia"
 relations:
@@ -77,8 +80,8 @@ phía đông, về Borneo, nhiều hơn là về bán đảo.
 
 Tại Điều tra Dân số và Nhà ở năm 2020, tín đồ Kitô giáo chiếm **9,1%** dân số —
 khoảng **2,94 triệu người** — đứng sau Hồi giáo (63,5%) và Phật giáo (18,7%).
-Nhưng con số toàn quốc che giấu một sự phân bố địa lý rõ rệt: khoảng **hai phần
-ba** tín đồ Kitô giáo Malaysia sống ở **Sabah và Sarawak**, và Sarawak là bang
+Nhưng con số toàn quốc che giấu một sự phân bố địa lý rõ rệt: **hơn hai phần
+ba (khoảng 70%)** tín đồ Kitô giáo Malaysia sống ở **Sabah và Sarawak**, và Sarawak là bang
 nơi Kitô giáo là **tôn giáo đơn lẻ lớn nhất**, chiếm khoảng một nửa dân số.
 
 Xét theo cộng đồng, phần lớn tín đồ Kitô giáo Malaysia là **người Bumiputera**
@@ -135,7 +138,12 @@ khoản định hình đặc biệt đến thực hành Kitô giáo: **Điều 1
 bang kiểm soát hoặc hạn chế việc **truyền bá** giáo lý tôn giáo trong cộng đồng
 người Hồi giáo. Ngoài ra, việc người không theo Hồi giáo sử dụng từ **"Allah"** đã
 là đề tài kiện tụng kéo dài và khác nhau tùy khu vực pháp lý — một câu hỏi pháp lý
-đang diễn biến chứ chưa ngã ngũ. Về cách Điều 3 và Điều 11 gắn kết với nhau, xem
+đang diễn biến chứ chưa ngã ngũ. Trong vụ Jill Ireland, Tòa án Cấp cao đã công nhận
+quyền của một người không theo Hồi giáo được dùng từ này cho mục đích tôn giáo cá
+nhân (năm 2021), và chính phủ liên bang đã rút kháng cáo vào năm 2023; vụ kiện trước
+đó liên quan đến tuần báo Công giáo *Herald* lại đưa đến một kết cục khác, nên lập
+trường vẫn tùy từng vụ việc và khu vực pháp lý chứ chưa phải một quy tắc chung áp
+dụng trên toàn quốc. Về cách Điều 3 và Điều 11 gắn kết với nhau, xem
 [Điều 3 và tôn giáo](/vi/law/article-3-religion).
 
 ## Những hiểu lầm phổ biến

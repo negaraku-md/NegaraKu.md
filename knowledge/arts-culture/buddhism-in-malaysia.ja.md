@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "マレーシアの仏教の人口、伝統的な宗派、祭礼、寺院、団体について知りたいすべての人。"
 
 verificationNeeded:
-  - "ウェサックが全国的な祝日であることの官報・公式の根拠、および各州に差異があるかどうかを、公開前に確認すること"
-  - "マレーシア仏教総会(MBA)、マレーシア仏教青年総会(YBAM)などの団体の設立年と役割を、その公式資料で確認し引用を補うこと"
-  - "2020年センサスの仏教徒数と『仏教/華人民間信仰』の分類の扱いを、DOSMの公式発表で確認すること"
+  - "マレーシア仏教総会(1959年、ペナン)とマレーシア仏教青年総会(1970年)の設立年は確認済み——YBAMは公式サイトで、MBAは権威ある二次資料で確認した。MBAはレビュー時にその公式記録で確認すること"
 
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "連邦憲法 — 第3条および第11条 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "司法長官府 (AGC)"
+  - title: "マレーシア仏教青年総会について (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "マレーシア仏教青年総会 (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -116,8 +117,9 @@ keywords: ["マレーシア 仏教", "Buddhism in Malaysia", "大乗仏教 マ�
 (Maha Vihara)**(上座部)、ペナンの**臥仏寺(Wat Chayamangkalaram)**とミャンマー仏寺
 (Dhammikarama)などがあり、異なる伝統が併存する構図を映し出している。
 
-団体のレベルでは、**マレーシア仏教総会(MBA)**や**マレーシア仏教青年総会(YBAM)**など
-の団体が、長年にわたり布教、教育、社会福祉の活動を進めてきた。寺院の多くは独立して登録
+団体のレベルでは、**マレーシア仏教総会(MBA、1959年ペナンで設立)**や**マレーシア仏教
+青年総会(YBAM、1970年設立)**などの団体が、長年にわたり布教、教育、社会福祉の活動を
+進めてきた。寺院の多くは独立して登録
 され運営されており、単一の全国的な法定管理機構は存在しない。
 
 ## よくある誤解

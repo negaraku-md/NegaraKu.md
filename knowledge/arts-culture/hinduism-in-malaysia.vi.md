@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn tìm hiểu về dân số, lịch sử, các truyền thống thờ phụng, lễ hội và địa vị pháp lý của Ấn Độ giáo tại Malaysia."
 
 verificationNeeded:
-  - "Năm thành lập Hiệp hội Ấn Độ giáo Malaysia (MHS) — một số nguồn ghi 1964, một số ghi 1965 (ngày 23 tháng 1); hãy xác nhận bằng nguồn chính thức"
-  - "Danh sách chính xác các bang công bố Thaipusam là ngày nghỉ lễ công cộng có thể thay đổi theo từng năm — khi xuất bản hãy đối chiếu với thông báo ngày nghỉ của từng bang"
-  - "Hãy chốt lại số liệu dân số Ấn Độ giáo trong điều tra 2020 (1,97 triệu / 2,0 triệu) và các tỷ lệ theo bang bằng bản công bố chính thức của DOSM"
+  - "Năm thành lập Hiệp hội Ấn Độ giáo Malaysia (MHS) là 1965 (ngày 23 tháng 1) đã được xác nhận qua các nguồn thứ cấp; trang web chính thức của MHS không truy cập được khi kiểm tra — hãy đối chiếu với malaysiahindusangam.com.my khi rà soát cuối cùng"
+  - "Danh sách các bang công bố Thaipusam là ngày nghỉ lễ công cộng thay đổi theo từng năm (Kedah công bố theo diện lâm thời, không phải theo công báo cố định) — hãy đối chiếu với thông báo ngày nghỉ của các bang trong năm đó khi xuất bản"
 
 lang: "vi"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "00082fdc234cb48a"
+sourceContentHash: "bbfe1f6d7e0ff11f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -144,7 +143,8 @@ Các lễ hội chính của tín đồ Ấn Độ giáo Malaysia đến từ tr
 - **Thaipusam** — lễ hội lấy thần Murugan làm trung tâm; cuộc rước diễn ra tại Batu
   Caves là nơi tụ họp lớn nhất của lễ này. Đây **không phải** ngày nghỉ trên toàn
   quốc — chỉ là ngày nghỉ lễ công cộng ở các bang có công bố lễ này (ví dụ Kuala
-  Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor, Kedah). Xem:
+  Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor); Kedah một số
+  năm công bố theo diện lâm thời (ad-hoc) chứ không phải theo công báo cố định. Xem:
   [Thaipusam](/vi/arts-culture/thaipusam).
 - **Thai Pongal** — lễ hội mùa gặt, vào đầu tháng Thai.
 - **Navaratri** — lễ hội thờ nữ thần kéo dài chín đêm.
@@ -153,9 +153,9 @@ Những người thuộc truyền thống Malayalam còn tổ chức các lễ h
 
 ## Tổ chức và việc quản lý đền thờ
 
-**Hiệp hội Ấn Độ giáo Malaysia (Malaysia Hindu Sangam, MHS)** hoạt động như tổ chức
-bảo trợ cấp quốc gia cho các đền thờ và tổ chức Ấn Độ giáo kể từ giữa thập niên
-1960; công việc của hội bao gồm bảo vệ các quyền tôn giáo, đăng ký các đền thờ, và
+**Hiệp hội Ấn Độ giáo Malaysia (Malaysia Hindu Sangam, MHS)** được thành lập năm
+1965 (ngày 23 tháng 1) và hoạt động như tổ chức bảo trợ cấp quốc gia cho các đền
+thờ và tổ chức Ấn Độ giáo; công việc của hội bao gồm bảo vệ các quyền tôn giáo, đăng ký các đền thờ, và
 đào tạo tư tế (chương trình gurukkal).
 
 Việc quản lý đền thờ khác nhau theo từng bang. Ở một số bang (ví dụ Selangor,

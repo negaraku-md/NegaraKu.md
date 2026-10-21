@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "Pada sensus 2020, umat Kristen mencakup 9,1% penduduk Malaysia — sekitar 2,94 juta orang — menjadikan Kekristenan agama terbesar ketiga setelah Islam dan Buddha. Kira-kira dua pertiga umat Kristen Malaysia tinggal di Sabah dan Sarawak, dan Sarawak adalah negeri di mana Kekristenan merupakan agama tunggal terbesar (sekitar separuh penduduk negeri itu). Sekitar separuh umat Kristen Malaysia adalah Katolik dan sekitar 40% Protestan (termasuk Anglikan, Metodis, Baptis, Presbiterian, Lutheran, dan Sidang Injil Borneo). Katolik tiba bersama orang Portugis di Melaka pada abad ke-16; gereja-gereja Protestan tumbuh melalui misi era Inggris dan jemaat imigran Tionghoa, serta melalui misi Borneo di antara masyarakat pribumi. Kebebasan beragama dijamin berdasarkan Perkara 11 Perlembagaan Persekutuan, sementara Perkara 11(4) membenarkan undang-undang negeri mengatur penyebaran ajaran agama di kalangan umat Islam."
+answer: "Pada sensus 2020, umat Kristen mencakup 9,1% penduduk Malaysia — sekitar 2,94 juta orang — menjadikan Kekristenan agama terbesar ketiga setelah Islam dan Buddha. Lebih dari dua pertiga (sekitar 70%) umat Kristen Malaysia tinggal di Sabah dan Sarawak, dan Sarawak adalah negeri di mana Kekristenan merupakan agama tunggal terbesar (sekitar separuh penduduk negeri itu). Sekitar separuh umat Kristen Malaysia adalah Katolik dan sekitar 40% Protestan (termasuk Anglikan, Metodis, Baptis, Presbiterian, Lutheran, dan Sidang Injil Borneo). Katolik tiba bersama orang Portugis di Melaka pada abad ke-16; gereja-gereja Protestan tumbuh melalui misi era Inggris dan jemaat imigran Tionghoa, serta melalui misi Borneo di antara masyarakat pribumi. Kebebasan beragama dijamin berdasarkan Perkara 11 Perlembagaan Persekutuan, sementara Perkara 11(4) membenarkan undang-undang negeri mengatur penyebaran ajaran agama di kalangan umat Islam."
 keyTakeaways:
   - "Pada sensus 2020 umat Kristen mencakup 9,1% penduduk (sekitar 2,94 juta) — agama terbesar ketiga setelah Islam (63,5%) dan Buddha (18,7%)"
-  - "Kira-kira dua pertiga umat Kristen Malaysia berada di Sabah dan Sarawak; Sarawak adalah negeri di mana Kekristenan merupakan agama tunggal terbesar (sekitar separuh penduduk)"
+  - "Lebih dari dua pertiga (sekitar 70%) umat Kristen Malaysia berada di Sabah dan Sarawak; Sarawak adalah negeri di mana Kekristenan merupakan agama tunggal terbesar (sekitar separuh penduduk)"
   - "Berdasarkan komunitas, umat Kristen Malaysia mayoritas Bumiputera (sekitar 59%), dengan minoritas Tionghoa (sekitar 27%) dan India (sekitar 4%) — mencerminkan gereja pribumi Borneo dan jemaat imigran di semenanjung"
   - "Sekitar separuh adalah Katolik dan sekitar 40% Protestan — Anglikan, Metodis, Baptis, Presbiterian, Lutheran, dan Sidang Injil Borneo (SIB) termasuk gereja-gereja yang lebih besar"
   - "Christian Federation of Malaysia (CFM), dibentuk pada 1985, menyatukan Catholic Bishops' Conference, Council of Churches of Malaysia, dan National Evangelical Christian Fellowship, serta menyatakan mewakili lebih dari 95% gereja"
@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami Kekristenan di Malaysia — demografinya, di mana ia terkonsentrasi, denominasinya, sejarah misi, dan kerangka hukumnya."
 
 verificationNeeded:
-  - "Proporsi umat Kristen Sarawak yang tepat (sensus ~50,1% vs. perkiraan lain) dan rincian etnis umat Kristen pada 2020 perlu dikonfirmasi dengan rilis DOSM sebelum diterbitkan"
-  - "Tanggal pendirian/pendaftaran CFM (dibentuk 1985, didaftarkan 1986) dan angka keterwakilannya sebagian bersifat laporan sendiri — konfirmasikan dengan CFM dan sumber primer"
-  - "Posisi hukum atas penggunaan kata 'Allah' oleh non-Muslim telah menjadi pokok litigasi dan berbeda menurut yurisdiksi; perlakukan sebagai persoalan hukum yang terus berkembang dan konfirmasikan posisi terkini saat tinjauan"
+  - "Angka 'lebih dari 95% gereja' dari CFM adalah deskripsi CFM tentang dirinya sendiri (menurut cfmsia.org), bukan hasil audit independen — disajikan sebagaimana adanya"
+  - "Posisi hukum atas kata 'Allah' terkonfirmasi hingga 2023 (putusan Jill Ireland 2021 tetap berlaku, banding persekutuan ditarik, preseden Herald sebelumnya berbeda) tetapi masih terus berkembang — mohon diperiksa ulang saat penerbitan"
 
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0470654052853fe"
+sourceContentHash: "198b32c117f346a7"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -54,6 +53,10 @@ sources:
   - title: "Tentang CFM (About CFM)"
     url: "https://cfmsia.org/about-cfm/"
     publisher: "Christian Federation of Malaysia (CFM)"
+  - title: "Pemerintah tarik banding atas putusan 'Allah' (Govt withdraws appeal on 'Allah' ruling)"
+    url: "https://www.freemalaysiatoday.com/category/nation/2023/05/15/govt-withdraws-appeal-on-allah-ruling/"
+    publisher: "Free Malaysia Today"
+    date: "2023-05-15"
 
 entity: "Christianity in Malaysia"
 relations:
@@ -77,8 +80,8 @@ berarti lebih banyak menoleh ke timur, ke Borneo, ketimbang ke semenanjung.
 
 Pada Sensus Penduduk dan Perumahan 2020, umat Kristen mencakup **9,1%**
 penduduk — sekitar **2,94 juta orang** — di belakang Islam (63,5%) dan Buddha
-(18,7%). Namun angka nasional itu menyembunyikan geografi yang tajam: kira-kira
-**dua pertiga** umat Kristen Malaysia tinggal di **Sabah dan Sarawak**, dan
+(18,7%). Namun angka nasional itu menyembunyikan geografi yang tajam:
+**lebih dari dua pertiga (sekitar 70%)** umat Kristen Malaysia tinggal di **Sabah dan Sarawak**, dan
 Sarawak adalah negeri di mana Kekristenan merupakan **agama tunggal terbesar**,
 sekitar separuh penduduk.
 
@@ -137,7 +140,12 @@ undang-undang negeri mengatur atau membatasi **penyebaran** ajaran agama di
 kalangan umat Islam. Secara terpisah, penggunaan kata **"Allah"** oleh
 non-Muslim telah menjadi pokok litigasi yang berlangsung lama dan berbeda menurut
 yurisdiksi — sebuah persoalan hukum yang terus berkembang, bukan yang sudah
-tuntas. Untuk bagaimana Perkara 3 dan 11 saling berkaitan, lihat
+tuntas. Dalam kasus Jill Ireland, Mahkamah Tinggi menegakkan hak seorang
+non-Muslim untuk menggunakan kata itu bagi keperluan keagamaan pribadi (2021), dan
+pemerintah persekutuan menarik bandingnya pada 2023; litigasi sebelumnya atas
+mingguan Katolik *Herald* berakhir dengan hasil yang berbeda, sehingga posisinya
+tetap bergantung pada kasus dan yurisdiksi, bukan aturan nasional yang menyeluruh.
+Untuk bagaimana Perkara 3 dan 11 saling berkaitan, lihat
 [Perkara 3 dan agama](/id/law/article-3-religion).
 
 ## Kesalahpahaman umum

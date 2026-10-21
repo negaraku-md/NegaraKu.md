@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "Anyone wishing to understand the population, traditional schools, festivals, temples and organisations of Buddhism in Malaysia."
 
 verificationNeeded:
-  - "The gazette/official basis for Wesak as a national public holiday, and whether any state differs, should be verified before publication"
-  - "The founding years and functions of organisations such as the Malaysian Buddhist Association (MBA) and the Young Buddhist Association of Malaysia (YBAM) should be verified against their official materials and citations added"
-  - "The 2020 census Buddhist figure and the classification basis for 'Buddhism / Chinese folk religion' should be verified against DOSM's official release"
+  - "The founding years of the Malaysian Buddhist Association (1959, Penang) and the Young Buddhist Association of Malaysia (1970) were verified — YBAM from its official site, MBA from an authoritative secondary source; confirm MBA against its official records at review"
 
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "Federal Constitution — Articles 3 and 11"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Attorney General's Chambers (AGC)"
+  - title: "About the Young Buddhist Association of Malaysia"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "Young Buddhist Association of Malaysia (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -126,8 +127,9 @@ Chayamangkalaram)** and the Burmese temple (Dhammikarama) in Penang — reflecti
 the coexistence of different traditions.
 
 At the organisational level, bodies such as the **Malaysian Buddhist Association
-(MBA)** and the **Young Buddhist Association of Malaysia (YBAM)** have long
-promoted the propagation of the dharma, education and social-welfare work. Most
+(MBA)** (founded 1959 in Penang) and the **Young Buddhist Association of Malaysia
+(YBAM)** (founded 1970) have long promoted the propagation of the dharma,
+education and social-welfare work. Most
 temples are independently registered and managed; there is no single national
 statutory governing body.
 

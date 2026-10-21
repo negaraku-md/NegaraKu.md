@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "Pada banci 2020, penganut Kristian merangkumi 9.1% penduduk Malaysia — kira-kira 2.94 juta orang — menjadikan agama Kristian agama ketiga terbesar selepas Islam dan Buddha. Kira-kira dua pertiga penganut Kristian Malaysia tinggal di Sabah dan Sarawak, dan Sarawak ialah negeri yang menjadikan agama Kristian sebagai agama tunggal terbesar (kira-kira separuh penduduk negeri itu). Kira-kira separuh daripada penganut Kristian Malaysia beragama Katolik dan kira-kira 40% beragama Protestan (antaranya Anglican, Methodist, Baptist, Presbyterian, Lutheran dan Sidang Injil Borneo). Agama Katolik tiba bersama orang Portugis di Melaka pada abad ke-16; gereja Protestan berkembang menerusi mubaligh zaman British dan jemaah pendatang Cina, serta menerusi mubaligh Borneo dalam kalangan masyarakat peribumi. Kebebasan beragama dijamin di bawah Perkara 11 Perlembagaan Persekutuan, manakala Perkara 11(4) membenarkan undang-undang negeri mengawal penyebaran doktrin agama dalam kalangan orang Islam."
+answer: "Pada banci 2020, penganut Kristian merangkumi 9.1% penduduk Malaysia — kira-kira 2.94 juta orang — menjadikan agama Kristian agama ketiga terbesar selepas Islam dan Buddha. Lebih dua pertiga (kira-kira 70%) penganut Kristian Malaysia tinggal di Sabah dan Sarawak, dan Sarawak ialah negeri yang menjadikan agama Kristian sebagai agama tunggal terbesar (kira-kira separuh penduduk negeri itu). Kira-kira separuh daripada penganut Kristian Malaysia beragama Katolik dan kira-kira 40% beragama Protestan (antaranya Anglican, Methodist, Baptist, Presbyterian, Lutheran dan Sidang Injil Borneo). Agama Katolik tiba bersama orang Portugis di Melaka pada abad ke-16; gereja Protestan berkembang menerusi mubaligh zaman British dan jemaah pendatang Cina, serta menerusi mubaligh Borneo dalam kalangan masyarakat peribumi. Kebebasan beragama dijamin di bawah Perkara 11 Perlembagaan Persekutuan, manakala Perkara 11(4) membenarkan undang-undang negeri mengawal penyebaran doktrin agama dalam kalangan orang Islam."
 keyTakeaways:
   - "Pada banci 2020, penganut Kristian merangkumi 9.1% penduduk (kira-kira 2.94 juta) — agama ketiga terbesar selepas Islam (63.5%) dan Buddha (18.7%)"
-  - "Kira-kira dua pertiga penganut Kristian Malaysia berada di Sabah dan Sarawak; Sarawak ialah negeri yang menjadikan agama Kristian sebagai agama tunggal terbesar (kira-kira separuh penduduk)"
+  - "Lebih dua pertiga (kira-kira 70%) penganut Kristian Malaysia berada di Sabah dan Sarawak; Sarawak ialah negeri yang menjadikan agama Kristian sebagai agama tunggal terbesar (kira-kira separuh penduduk)"
   - "Mengikut masyarakat, penganut Kristian Malaysia majoritinya Bumiputera (kira-kira 59%), dengan minoriti Cina (kira-kira 27%) dan India (kira-kira 4%) — mencerminkan gereja peribumi Borneo dan jemaah pendatang di semenanjung"
   - "Kira-kira separuh beragama Katolik dan kira-kira 40% Protestan — antara gereja yang lebih besar ialah Anglican, Methodist, Baptist, Presbyterian, Lutheran dan Sidang Injil Borneo (SIB)"
   - "Persekutuan Kristian Malaysia (CFM), yang ditubuhkan pada 1985, menyatukan Persidangan Para Uskup Katolik, Majlis Gereja-Gereja Malaysia dan Persekutuan Kristian Evangelikal Kebangsaan, dan menyatakan bahawa ia mewakili lebih 95% gereja"
@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Sesiapa sahaja yang ingin memahami agama Kristian di Malaysia — demografinya, di mana ia tertumpu, denominasinya, sejarah mubaligh dan rangka kerja undang-undangnya."
 
 verificationNeeded:
-  - "Peratusan tepat penganut Kristian di Sarawak (banci ~50.1% berbanding anggaran lain) serta pecahan etnik penganut Kristian 2020 hendaklah disahkan dengan penerbitan DOSM sebelum penerbitan"
-  - "Tarikh penubuhan/pendaftaran CFM (ditubuhkan 1985, didaftarkan 1986) dan angka perwakilannya sebahagiannya dilaporkan sendiri — sahkan dengan CFM dan sumber primer"
-  - "Kedudukan undang-undang berkenaan penggunaan perkataan 'Allah' oleh bukan Islam telah menjadi subjek litigasi dan berbeza mengikut bidang kuasa; anggap ia sebagai perkara undang-undang yang masih berkembang dan sahkan kedudukan semasa ketika semakan"
+  - "Angka lebih 95% gereja oleh CFM ialah keterangan diri CFM sendiri (menurut cfmsia.org), bukan diaudit secara bebas — dinyatakan sedemikian"
+  - "Kedudukan undang-undang berkenaan perkataan «Allah» disahkan sehingga 2023 (keputusan Jill Ireland 2021 kekal, rayuan persekutuan ditarik balik, duluan Herald terdahulu berbeza) tetapi masih berkembang — semak semula semasa penerbitan"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0470654052853fe"
+sourceContentHash: "198b32c117f346a7"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -54,6 +53,10 @@ sources:
   - title: "Mengenai CFM (About CFM)"
     url: "https://cfmsia.org/about-cfm/"
     publisher: "Persekutuan Kristian Malaysia (CFM)"
+  - title: "Kerajaan tarik balik rayuan terhadap keputusan «Allah» (Govt withdraws appeal on 'Allah' ruling)"
+    url: "https://www.freemalaysiatoday.com/category/nation/2023/05/15/govt-withdraws-appeal-on-allah-ruling/"
+    publisher: "Free Malaysia Today"
+    date: "2023-05-15"
 
 entity: "Christianity in Malaysia"
 relations:
@@ -78,8 +81,8 @@ bermakna memandang ke timur, ke Borneo, lebih daripada ke semenanjung.
 Pada Banci Penduduk dan Perumahan 2020, penganut Kristian merangkumi **9.1%**
 penduduk — kira-kira **2.94 juta orang** — di belakang Islam (63.5%) dan Buddha
 (18.7%). Namun angka kebangsaan ini menyembunyikan geografi yang ketara:
-kira-kira **dua pertiga** penganut Kristian Malaysia tinggal di **Sabah dan
-Sarawak**, dan Sarawak ialah negeri yang menjadikan agama Kristian sebagai
+**lebih dua pertiga (kira-kira 70%)** penganut Kristian Malaysia tinggal di
+**Sabah dan Sarawak**, dan Sarawak ialah negeri yang menjadikan agama Kristian sebagai
 **agama tunggal terbesar**, iaitu kira-kira separuh penduduk.
 
 Mengikut masyarakat, penganut Kristian Malaysia **majoritinya Bumiputera**
@@ -137,7 +140,12 @@ undang-undang negeri mengawal atau menyekat **penyebaran** doktrin agama dalam
 kalangan orang Islam. Secara berasingan, penggunaan perkataan **"Allah"** oleh
 bukan Islam telah menjadi subjek litigasi yang berlarutan dan berbeza mengikut
 bidang kuasa — satu persoalan undang-undang yang masih berkembang dan belum
-muktamad. Untuk cara Perkara 3 dan 11 bersesuaian, lihat
+muktamad. Dalam kes Jill Ireland, Mahkamah Tinggi menegakkan hak seorang bukan
+Islam untuk menggunakan perkataan itu bagi kegunaan keagamaan peribadi (2021),
+dan kerajaan persekutuan menarik balik rayuannya pada 2023; litigasi terdahulu
+berkenaan mingguan Katolik *Herald* mencapai keputusan yang berbeza, lalu
+kedudukannya kekal bergantung pada kes dan bidang kuasa, bukannya satu peraturan
+kebangsaan yang menyeluruh. Untuk cara Perkara 3 dan 11 bersesuaian, lihat
 [Perkara 3 dan agama](/law/article-3-religion).
 
 ## Salah faham lazim

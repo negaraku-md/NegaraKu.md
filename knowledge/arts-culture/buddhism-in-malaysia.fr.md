@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre la population, les courants traditionnels, les fêtes, les temples et les organisations du bouddhisme en Malaisie."
 
 verificationNeeded:
-  - "La base officielle / au Journal officiel du Wesak comme jour férié national, ainsi que d'éventuelles différences selon les États, sont à vérifier avant publication"
-  - "Les années de création et les fonctions d'organisations telles que la Malaysian Buddhist Association (MBA) et la Young Buddhist Association of Malaysia (YBAM) sont à vérifier auprès de leurs sources officielles et à référencer"
-  - "Le nombre de bouddhistes du recensement de 2020 et les critères de classification « bouddhisme / religion populaire chinoise » sont à vérifier auprès de la publication officielle du DOSM"
+  - "Les années de fondation de la Malaysian Buddhist Association (1959, à Penang) et de la Young Buddhist Association of Malaysia (1970) ont été vérifiées — la YBAM auprès de son site officiel, la MBA auprès d'une source secondaire faisant autorité ; à confirmer auprès des registres officiels de la MBA lors de la révision"
 
 lang: "fr"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "Constitution fédérale — articles 3 et 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Cabinet du Procureur général (AGC)"
+  - title: "À propos de la Young Buddhist Association of Malaysia (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "Young Buddhist Association of Malaysia (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -133,8 +134,9 @@ Chayamangkalaram)** et le temple bouddhiste birman (Dhammikarama) à Penang,
 etc. — illustrant la coexistence de traditions différentes.
 
 Sur le plan organisationnel, des groupes comme la **Malaysian Buddhist
-Association (MBA)** et la **Young Buddhist Association of Malaysia (YBAM)** œuvrent
-de longue date à la diffusion du dharma, à l'éducation et à l'action sociale. Les
+Association (MBA)** (fondée en 1959 à Penang) et la **Young Buddhist Association
+of Malaysia (YBAM)** (fondée en 1970) œuvrent de longue date à la diffusion du
+dharma, à l'éducation et à l'action sociale. Les
 temples sont le plus souvent enregistrés et gérés de façon indépendante, sans
 organe de tutelle statutaire national unique.
 

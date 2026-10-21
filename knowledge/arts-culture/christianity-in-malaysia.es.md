@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "Según el censo de 2020, los cristianos representaban el 9,1 % de la población de Malasia —unos 2,94 millones de personas—, lo que hace del cristianismo la tercera religión después del islam y el budismo. Aproximadamente dos tercios de los cristianos malasios viven en Sabah y Sarawak, y Sarawak es el estado donde el cristianismo es la mayor religión individual (alrededor de la mitad de la población del estado). Cerca de la mitad de los cristianos malasios son católicos y alrededor del 40 % protestantes (anglicanos, metodistas, bautistas, presbiterianos, luteranos y la Sidang Injil Borneo, entre otros). El catolicismo llegó con los portugueses a la Melaka del siglo XVI; las iglesias protestantes crecieron a través de las misiones de la época británica y de las congregaciones de inmigrantes chinos, así como de las misiones de Borneo entre las comunidades indígenas. La libertad religiosa está garantizada por el artículo 11 de la Constitución Federal, mientras que el artículo 11(4) permite que la ley estatal controle la propagación de doctrinas religiosas entre los musulmanes."
+answer: "Según el censo de 2020, los cristianos representaban el 9,1 % de la población de Malasia —unos 2,94 millones de personas—, lo que hace del cristianismo la tercera religión después del islam y el budismo. Más de dos tercios (en torno al 70 %) de los cristianos malasios viven en Sabah y Sarawak, y Sarawak es el estado donde el cristianismo es la mayor religión individual (alrededor de la mitad de la población del estado). Cerca de la mitad de los cristianos malasios son católicos y alrededor del 40 % protestantes (anglicanos, metodistas, bautistas, presbiterianos, luteranos y la Sidang Injil Borneo, entre otros). El catolicismo llegó con los portugueses a la Melaka del siglo XVI; las iglesias protestantes crecieron a través de las misiones de la época británica y de las congregaciones de inmigrantes chinos, así como de las misiones de Borneo entre las comunidades indígenas. La libertad religiosa está garantizada por el artículo 11 de la Constitución Federal, mientras que el artículo 11(4) permite que la ley estatal controle la propagación de doctrinas religiosas entre los musulmanes."
 keyTakeaways:
   - "En el censo de 2020 los cristianos eran el 9,1 % de la población (unos 2,94 millones), la tercera religión después del islam (63,5 %) y el budismo (18,7 %)"
-  - "Aproximadamente dos tercios de los cristianos malasios están en Sabah y Sarawak; Sarawak es el estado donde el cristianismo es la mayor religión individual (alrededor de la mitad de la población)"
+  - "Más de dos tercios (en torno al 70 %) de los cristianos malasios están en Sabah y Sarawak; Sarawak es el estado donde el cristianismo es la mayor religión individual (alrededor de la mitad de la población)"
   - "Por comunidad, los cristianos malasios son mayoritariamente bumiputera (alrededor del 59 %), con minorías china (alrededor del 27 %) e india (alrededor del 4 %), lo que refleja las iglesias indígenas de Borneo y las congregaciones de inmigrantes de la península"
   - "Cerca de la mitad son católicos y alrededor del 40 % protestantes: anglicanos, metodistas, bautistas, presbiterianos, luteranos y la Sidang Injil Borneo (SIB), entre las iglesias más grandes"
   - "La Federación Cristiana de Malasia (CFM), constituida en 1985, une a la Conferencia Episcopal Católica, el Consejo de Iglesias de Malasia y la Comunión Cristiana Evangélica Nacional, y afirma representar a más del 95 % de las iglesias"
@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera comprender el cristianismo en Malasia: su demografía, dónde se concentra, sus confesiones, su historia misionera y su marco jurídico."
 
 verificationNeeded:
-  - "La proporción exacta de cristianos en Sarawak (censo ~50,1 % frente a otras estimaciones) y el desglose étnico de los cristianos en 2020 deben confirmarse con la publicación del DOSM antes de publicar"
-  - "Las fechas de fundación/registro de la CFM (constituida en 1985, registrada en 1986) y sus cifras de representación son en parte autodeclaradas; confírmense con la CFM y con fuentes primarias"
-  - "La posición jurídica sobre el uso de la palabra «Allah» por parte de los no musulmanes ha sido objeto de litigios y varía según la jurisdicción; trátese como una cuestión jurídica en evolución y confírmese la situación vigente en el momento de la revisión"
+  - "La cifra de la CFM de «más del 95 % de las iglesias» es una autodescripción de la propia CFM (según cfmsia.org), no auditada de forma independiente; se presenta como tal"
+  - "La posición jurídica sobre «Allah» está confirmada hasta 2023 (el fallo de Jill Ireland de 2021 se mantiene, el recurso federal fue retirado y el precedente anterior del Herald difiere), pero sigue evolucionando; revísese en el momento de publicar"
 
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0470654052853fe"
+sourceContentHash: "198b32c117f346a7"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -54,6 +53,10 @@ sources:
   - title: "Acerca de la CFM (About CFM)"
     url: "https://cfmsia.org/about-cfm/"
     publisher: "Federación Cristiana de Malasia (CFM)"
+  - title: "El gobierno retira el recurso sobre el fallo de «Allah» (Govt withdraws appeal on 'Allah' ruling)"
+    url: "https://www.freemalaysiatoday.com/category/nation/2023/05/15/govt-withdraws-appeal-on-allah-ruling/"
+    publisher: "Free Malaysia Today"
+    date: "2023-05-15"
 
 entity: "Christianity in Malaysia"
 relations:
@@ -79,8 +82,8 @@ hacia el este, hacia Borneo, más que hacia la península.
 En el Censo de Población y Vivienda de 2020, los cristianos eran el **9,1 %** de
 la población —unos **2,94 millones de personas**—, por detrás del islam (63,5 %) y
 el budismo (18,7 %). Pero la cifra nacional oculta una geografía muy marcada:
-aproximadamente **dos tercios** de los cristianos malasios viven en **Sabah y
-Sarawak**, y Sarawak es el estado donde el cristianismo es la **mayor religión
+más de **dos tercios** (en torno al **70 %**) de los cristianos malasios viven en
+**Sabah y Sarawak**, y Sarawak es el estado donde el cristianismo es la **mayor religión
 individual**, con alrededor de la mitad de la población.
 
 Por comunidad, los cristianos malasios son **mayoritariamente bumiputera**
@@ -139,7 +142,12 @@ Federal. Una cláusula moldea en particular la práctica cristiana: el **artícu
 doctrinas religiosas entre los musulmanes. Por separado, el uso de la palabra
 **«Allah»** por parte de los no musulmanes ha sido objeto de un litigio
 prolongado y varía según la jurisdicción: una cuestión jurídica en evolución más
-que zanjada. Sobre cómo encajan los artículos 3 y 11, véase
+que zanjada. En el caso de Jill Ireland, el Tribunal Superior reconoció el derecho
+de una persona no musulmana a usar la palabra con fines religiosos personales
+(2021), y el gobierno federal retiró su recurso en 2023; un litigio anterior sobre
+el semanario católico *Herald* había tenido un desenlace distinto, de modo que la
+situación sigue dependiendo del caso y de la jurisdicción, y no constituye una
+norma nacional general. Sobre cómo encajan los artículos 3 y 11, véase
 [el artículo 3 y la religión](/es/law/article-3-religion).
 
 ## Ideas erróneas frecuentes

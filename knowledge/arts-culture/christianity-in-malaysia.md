@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "At the 2020 census, Christians were 9.1% of Malaysia's population — about 2.94 million people — making Christianity the third-largest religion after Islam and Buddhism. Roughly two-thirds of Malaysian Christians live in Sabah and Sarawak, and Sarawak is the state where Christianity is the largest single religion (about half the state's population). About half of Malaysian Christians are Catholic and about 40% are Protestant (Anglican, Methodist, Baptist, Presbyterian, Lutheran and Sidang Injil Borneo among them). Catholicism arrived with the Portuguese in 16th-century Melaka; Protestant churches grew through British-era missions and Chinese immigrant congregations, and through the Borneo missions among indigenous communities. Religious freedom is guaranteed under Article 11 of the Federal Constitution, while Article 11(4) allows state law to control the propagation of religious doctrine among Muslims."
+answer: "At the 2020 census, Christians were 9.1% of Malaysia's population — about 2.94 million people — making Christianity the third-largest religion after Islam and Buddhism. More than two-thirds of Malaysian Christians (about 70%) live in Sabah and Sarawak, and Sarawak is the state where Christianity is the largest single religion (about half the state's population). About half of Malaysian Christians are Catholic and about 40% are Protestant (Anglican, Methodist, Baptist, Presbyterian, Lutheran and Sidang Injil Borneo among them). Catholicism arrived with the Portuguese in 16th-century Melaka; Protestant churches grew through British-era missions and Chinese immigrant congregations, and through the Borneo missions among indigenous communities. Religious freedom is guaranteed under Article 11 of the Federal Constitution, while Article 11(4) allows state law to control the propagation of religious doctrine among Muslims."
 keyTakeaways:
   - "At the 2020 census Christians were 9.1% of the population (about 2.94 million) — the third-largest religion after Islam (63.5%) and Buddhism (18.7%)"
-  - "Roughly two-thirds of Malaysian Christians are in Sabah and Sarawak; Sarawak is the state where Christianity is the largest single religion (about half the population)"
+  - "More than two-thirds (about 70%) of Malaysian Christians are in Sabah and Sarawak; Sarawak is the state where Christianity is the largest single religion (about half the population)"
   - "By community, Malaysian Christians are majority Bumiputera (about 59%), with Chinese (about 27%) and Indian (about 4%) minorities — reflecting the Borneo indigenous churches and peninsular immigrant congregations"
   - "About half are Catholic and about 40% Protestant — Anglican, Methodist, Baptist, Presbyterian, Lutheran and Sidang Injil Borneo (SIB) among the larger churches"
   - "The Christian Federation of Malaysia (CFM), formed in 1985, unites the Catholic Bishops' Conference, the Council of Churches of Malaysia and the National Evangelical Christian Fellowship, and says it represents over 95% of churches"
@@ -23,9 +23,8 @@ keyTakeaways:
 appliesTo: "Anyone wanting to understand Christianity in Malaysia — its demographics, where it is concentrated, its denominations, mission history and legal framework."
 
 verificationNeeded:
-  - "Sarawak's exact Christian share (census ~50.1% vs other estimates) and the 2020 ethnic breakdown of Christians should be confirmed against the DOSM release before publication"
-  - "The CFM founding/registration dates (formed 1985, registered 1986) and its representation figures are partly self-reported — confirm against CFM and primary sources"
-  - "The legal position on the word 'Allah' for non-Muslim use has been the subject of litigation and differs by jurisdiction; treat as an evolving legal matter and confirm the current position at review"
+  - "CFM's 'more than 95% of churches' figure is CFM's own self-description (per cfmsia.org), not an independently audited statistic — presented as such in the text"
+  - "The 'Allah' legal position is confirmed to 2023 (the 2021 Jill Ireland ruling stands, the federal appeal was withdrawn, and the earlier Herald precedent differs) but remains an evolving matter — recheck the current position at publication"
 
 lang: "en"
 masterLanguage: "en"
@@ -54,6 +53,10 @@ sources:
   - title: "About CFM"
     url: "https://cfmsia.org/about-cfm/"
     publisher: "Christian Federation of Malaysia (CFM)"
+  - title: "Govt withdraws appeal on 'Allah' ruling"
+    url: "https://www.freemalaysiatoday.com/category/nation/2023/05/15/govt-withdraws-appeal-on-allah-ruling/"
+    publisher: "Free Malaysia Today"
+    date: "2023-05-15"
 
 entity: "Christianity in Malaysia"
 relations:
@@ -77,10 +80,10 @@ means looking east, to Borneo, more than to the peninsula.
 
 At the 2020 Population and Housing Census, Christians were **9.1%** of the
 population — about **2.94 million people** — behind Islam (63.5%) and Buddhism
-(18.7%). But the national figure hides a sharp geography: roughly **two-thirds**
-of Malaysian Christians live in **Sabah and Sarawak**, and Sarawak is the state
-where Christianity is the **largest single religion**, at around half the
-population.
+(18.7%). But the national figure hides a sharp geography: **more than two-thirds**
+of Malaysian Christians (about 70%) live in **Sabah and Sarawak**, and Sarawak is
+the state where Christianity is the **largest single religion**, at around half
+the population.
 
 By community, Malaysian Christians are **majority Bumiputera** (about 59%) —
 reflecting the indigenous churches of Borneo among the Kadazan-Dusun, Iban,
@@ -136,8 +139,13 @@ One clause shapes Christian practice in particular: **Article 11(4)** allows
 state law to control or restrict the **propagation** of religious doctrine among
 Muslims. Separately, the use of the word **"Allah"** by non-Muslims has been the
 subject of long-running litigation and differs by jurisdiction — an evolving
-legal question rather than a settled one. For how Articles 3 and 11 fit
-together, see [Article 3 and religion](/en/law/article-3-religion).
+legal question rather than a settled one. In the Jill Ireland case the High
+Court upheld a non-Muslim's right to use the word for personal religious use
+(2021), and the federal government withdrew its appeal in 2023; earlier
+litigation over the Catholic weekly *Herald* had reached a different outcome, so
+the position remains case- and jurisdiction-dependent rather than a blanket
+national rule. For how Articles 3 and 11 fit together, see
+[Article 3 and religion](/en/law/article-3-religion).
 
 ## Common misconceptions
 

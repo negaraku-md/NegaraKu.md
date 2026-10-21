@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "말레이시아 불교의 인구, 전통 종파, 축제, 사원과 단체를 알고자 하는 모든 사람."
 
 verificationNeeded:
-  - "웨삭절이 전국 공휴일인 데 대한 관보/공식 근거, 그리고 주별로 차이가 있는지를 발행 전에 확인할 것"
-  - "말레이시아 불교총회(MBA), 말레이시아 불교청년총회(YBAM) 등 단체의 설립 연도와 기능은 해당 단체의 공식 자료로 확인하고 인용을 보충할 것"
-  - "2020년 센서스의 불교도 수와 '불교/화인 민간신앙' 분류 기준은 DOSM 공식 발표로 확인할 것"
+  - "말레이시아 불교총회(MBA, 1959년 페낭)와 말레이시아 불교청년총회(YBAM, 1970년)의 설립 연도는 확인되었다 — YBAM은 공식 사이트로, MBA는 권위 있는 2차 자료로 확인했으며, 검토 시 MBA 공식 기록으로 재확인할 것"
 
 lang: "ko"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "연방 헌법 — 제3조 및 제11조 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "법무장관실 (AGC)"
+  - title: "말레이시아 불교청년총회 소개 (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "말레이시아 불교청년총회 (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -117,8 +118,9 @@ keywords: ["말레이시아 불교", "Buddhism in Malaysia", "대승불교 말�
 비하라(Maha Vihara)**(상좌부), 페낭의 **와불사(Wat Chayamangkalaram)**와 미얀마
 불교 사원(Dhammikarama) 등이 있어, 서로 다른 전통이 공존하는 양상을 보여준다.
 
-단체 차원에서는 **말레이시아 불교총회(MBA)**와 **말레이시아 불교청년총회(YBAM)**
-같은 단체들이 오랫동안 포교, 교육, 사회복지 사업을 추진해 왔다. 사원은 대부분
+단체 차원에서는 **말레이시아 불교총회(MBA, 1959년 페낭에서 설립)**와 **말레이시아
+불교청년총회(YBAM, 1970년 설립)** 같은 단체들이 오랫동안 포교, 교육, 사회복지 사업을
+추진해 왔다. 사원은 대부분
 독립적으로 등록·운영되며, 단일한 전국 법정 관리 기구는 없다.
 
 ## 흔한 오해

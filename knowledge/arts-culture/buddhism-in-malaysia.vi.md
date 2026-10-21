@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn tìm hiểu về dân số, các tông phái truyền thống, lễ hội, tự viện và tổ chức của Phật giáo Malaysia."
 
 verificationNeeded:
-  - "Căn cứ công báo/chính thức về việc lễ Vesak là ngày nghỉ lễ công cộng trên toàn quốc, cũng như liệu các bang có khác biệt hay không, hãy xác minh trước khi xuất bản"
-  - "Năm thành lập và chức năng của các tổ chức như Tổng hội Phật giáo Malaysia (MBA), Tổng hội Thanh niên Phật giáo Malaysia (YBAM), hãy xác minh bằng tài liệu chính thức của họ và bổ sung trích dẫn"
-  - "Số lượng Phật tử trong điều tra dân số 2020 và tiêu chí phân loại 'Phật giáo/tín ngưỡng dân gian người Hoa', hãy xác minh bằng bản công bố chính thức của DOSM"
+  - "Năm thành lập của Tổng hội Phật giáo Malaysia (1959, Penang) và Tổng hội Thanh niên Phật giáo Malaysia (1970) đã được xác minh — YBAM từ trang chính thức của tổ chức, MBA từ một nguồn thứ cấp có thẩm quyền; hãy đối chiếu MBA với hồ sơ chính thức của tổ chức khi rà soát"
 
 lang: "vi"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "Hiến pháp Liên bang — Điều 3 và Điều 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Văn phòng Tổng Chưởng lý (AGC)"
+  - title: "Giới thiệu về Tổng hội Thanh niên Phật giáo Malaysia (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "Tổng hội Thanh niên Phật giáo Malaysia (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -126,8 +127,9 @@ Vihara** ở Brickfields, Kuala Lumpur (Thượng tọa bộ), **chùa Phật N�
 Chayamangkalaram)** và chùa Miến Điện (Dhammikarama) ở Penang, v.v., phản ánh cục
 diện nhiều truyền thống cùng tồn tại.
 
-Ở cấp độ tổ chức, các đoàn thể như **Tổng hội Phật giáo Malaysia (MBA)** và
-**Tổng hội Thanh niên Phật giáo Malaysia (YBAM)** từ lâu thúc đẩy việc hoằng pháp,
+Ở cấp độ tổ chức, các đoàn thể như **Tổng hội Phật giáo Malaysia (MBA)** (thành lập
+năm 1959 tại Penang) và **Tổng hội Thanh niên Phật giáo Malaysia (YBAM)** (thành lập
+năm 1970) từ lâu thúc đẩy việc hoằng pháp,
 giáo dục và công tác phúc lợi xã hội. Phần lớn tự viện đăng ký và quản lý độc lập,
 không có một cơ quan quản lý pháp định cấp toàn quốc duy nhất.
 

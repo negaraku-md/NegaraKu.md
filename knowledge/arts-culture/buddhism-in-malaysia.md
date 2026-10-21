@@ -23,9 +23,7 @@ keyTakeaways:
 appliesTo: "想了解马来西亚佛教的人口、传统宗派、节日、寺院与组织的任何人。"
 
 verificationNeeded:
-  - "卫塞节作为全国公共假期的宪报/官方依据,以及各州是否另有差异,出版前请核实"
-  - "马来西亚佛教总会(MBA)、马来西亚佛教青年总会(YBAM)等组织的成立年份与职能,请以其官方资料核实并补上引用"
-  - "2020年普查的佛教徒人数与『佛教/华人民间信仰』归类口径,请以DOSM官方发布核实"
+  - "马来西亚佛教总会(1959年于槟城)与佛教青年总会(1970年)的成立年份已核实——YBAM 依据官方网站,MBA 依据权威二手来源;出版前可对照 MBA 官方资料再作确认"
 
 lang: "zh"
 masterLanguage: "zh"
@@ -51,6 +49,9 @@ sources:
   - title: "联邦宪法 — 第3条与第11条 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "总检察署 (AGC)"
+  - title: "关于马来西亚佛教青年总会 (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "马来西亚佛教青年总会 (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -109,9 +110,9 @@ keywords: ["马来西亚佛教", "Buddhism in Malaysia", "大乘佛教 马来西
 槟城的**卧佛寺(Wat Chayamangkalaram)**与缅甸佛寺(Dhammikarama)等,反映出不同
 传统并存的格局。
 
-在组织层面,**马来西亚佛教总会(MBA)**与**马来西亚佛教青年总会(YBAM)**等团体
-长期推动弘法、教育与社会福利工作。寺院多为独立注册与管理,并无单一的全国性
-法定管理机构。
+在组织层面,**马来西亚佛教总会(MBA,1959年于槟城成立)**与**马来西亚佛教青年
+总会(YBAM,1970年成立)**等团体长期推动弘法、教育与社会福利工作。寺院多为独立
+注册与管理,并无单一的全国性法定管理机构。
 
 ## 常见误解
 

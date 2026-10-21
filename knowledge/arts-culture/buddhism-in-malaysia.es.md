@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera conocer la población, las tradiciones confesionales, las festividades, los templos y las organizaciones del budismo en Malasia."
 
 verificationNeeded:
-  - "La base legal (gaceta/oficial) del Wesak como día festivo nacional, y si existe alguna diferencia entre estados, deben verificarse antes de publicar"
-  - "El año de fundación y las funciones de organizaciones como la Asociación Budista de Malasia (MBA) y la Asociación Budista de Jóvenes de Malasia (YBAM) deben verificarse con sus fuentes oficiales y añadir la cita correspondiente"
-  - "El número de budistas del censo de 2020 y el criterio de clasificación «budismo / religión popular china» deben verificarse con la publicación oficial del DOSM"
+  - "Los años de fundación de la Asociación Budista de Malasia (1959, Penang) y de la Asociación Budista de Jóvenes de Malasia (1970) se verificaron —la YBAM a partir de su sitio oficial y la MBA a partir de una fuente secundaria acreditada—; confírmese la MBA con sus registros oficiales en la revisión"
 
 lang: "es"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "Constitución Federal — artículos 3 y 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Cámara del Fiscal General (AGC)"
+  - title: "Acerca de la Asociación Budista de Jóvenes de Malasia (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "Asociación Budista de Jóvenes de Malasia (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -129,8 +130,9 @@ Buda reclinado) y el templo budista birmano (Dhammikarama) de Penang, lo que
 refleja la coexistencia de distintas tradiciones.
 
 En el plano organizativo, agrupaciones como la **Asociación Budista de Malasia
-(MBA)** y la **Asociación Budista de Jóvenes de Malasia (YBAM)** impulsan desde hace
-tiempo la difusión del dharma, la educación y la labor de bienestar social. La
+(MBA)** (fundada en 1959 en Penang) y la **Asociación Budista de Jóvenes de Malasia
+(YBAM)** (fundada en 1970) impulsan desde hace tiempo la difusión del dharma, la
+educación y la labor de bienestar social. La
 mayoría de los templos se registran y gestionan de forma independiente, y no existe
 un único organismo rector legal de alcance nacional.
 

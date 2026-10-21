@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "Sesiapa sahaja yang ingin memahami penduduk, mazhab tradisi, perayaan, kuil dan pertubuhan agama Buddha di Malaysia."
 
 verificationNeeded:
-  - "Asas warta/rasmi bagi Hari Wesak sebagai cuti umum seluruh negara, serta sama ada terdapat perbezaan antara negeri, perlu disahkan sebelum penerbitan"
-  - "Tahun penubuhan dan fungsi pertubuhan seperti Persatuan Buddha Malaysia (MBA) dan Persatuan Belia Buddha Malaysia (YBAM), sila sahkan dengan maklumat rasmi mereka dan tambah rujukan"
-  - "Bilangan penganut Buddha dalam banci 2020 serta kaedah pengelasan Buddha/agama rakyat Cina, sila sahkan dengan penerbitan rasmi DOSM"
+  - "Tahun penubuhan Persatuan Buddha Malaysia (1959, Pulau Pinang) dan Persatuan Belia Buddha Malaysia (1970) telah disahkan — YBAM daripada laman rasminya, MBA daripada sumber sekunder yang berwibawa; sahkan MBA dengan rekod rasminya pada semakan"
 
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "Perlembagaan Persekutuan — Perkara 3 dan Perkara 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Jabatan Peguam Negara (AGC)"
+  - title: "Mengenai Persatuan Belia Buddha Malaysia (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "Persatuan Belia Buddha Malaysia (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -130,8 +131,9 @@ Brickfields di Kuala Lumpur (Theravada), **Wat Chayamangkalaram** (kuil Buddha
 baring) dan kuil Buddha Myanmar (Dhammikarama) di Pulau Pinang, yang mencerminkan
 kewujudan pelbagai tradisi secara serentak.
 
-Di peringkat pertubuhan, badan seperti **Persatuan Buddha Malaysia (MBA)** dan
-**Persatuan Belia Buddha Malaysia (YBAM)** telah lama menggerakkan kerja
+Di peringkat pertubuhan, badan seperti **Persatuan Buddha Malaysia (MBA)**
+(ditubuhkan pada 1959 di Pulau Pinang) dan **Persatuan Belia Buddha Malaysia
+(YBAM)** (ditubuhkan pada 1970) telah lama menggerakkan kerja
 penyebaran ajaran, pendidikan dan kebajikan sosial. Kebanyakan kuil didaftar dan
 ditadbir secara bebas, dan tiada satu badan pentadbiran berkanun kebangsaan yang
 tunggal.

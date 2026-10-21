@@ -12,9 +12,9 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "Chinese folk religion and Taoism are widespread practices in Malaysia's Chinese community, but Malaysia's census does not list them as a separate category — many practitioners register as Buddhists, so they are mostly subsumed within the '18.7% Buddhist' figure. These beliefs are highly syncretic: one person may worship the Buddha, pray to Taoist and folk deities and venerate their ancestors all at once, with no clear dividing line. Common deities include Tua Pek Kong, Mazu (the Heavenly Empress), Guanyin, the Jade Emperor and Guan Gong; major festivals include Chinese New Year, the Nine Emperor Gods Festival, the Hungry Ghost Festival and Qingming. Temples are called tokong in Malay. Religious freedom is guaranteed under Article 11 of the Federal Constitution."
+answer: "Chinese folk religion and Taoism are widespread practices in Malaysia's Chinese community; Malaysia's census does include a category for Confucianism, Taoism and other traditional Chinese religion, but it records a negligible number (folded into 'other religions', about 0.9%) — because most practitioners report themselves as Buddhist, they are largely absorbed into the 18.7% Buddhist figure, so there is no separate official count reflecting their true numbers. These beliefs are highly syncretic: one person may worship the Buddha, pray to Taoist and folk deities and venerate their ancestors all at once, with no clear dividing line. Common deities include Tua Pek Kong, Mazu (the Heavenly Empress), Guanyin, the Jade Emperor and Guan Gong; major festivals include Chinese New Year, the Nine Emperor Gods Festival, the Hungry Ghost Festival and Qingming. Temples are called tokong in Malay. Religious freedom is guaranteed under Article 11 of the Federal Constitution."
 keyTakeaways:
-  - "Malaysia's census does not list 'Taoism / Chinese folk religion' separately; its practitioners are mostly counted within Buddhism (18.7%), so there is no separate official figure"
+  - "Malaysia's census does include a category for Confucianism, Taoism and other traditional Chinese religion, but it records a negligible number (folded into 'other religions', about 0.9%); because most practitioners report themselves as Buddhist, they are largely absorbed into the 18.7% Buddhist figure, so there is no separate official count reflecting their true numbers"
   - "It is a highly syncretic belief: Buddhism, Taoism, Confucian thought and ancestor veneration often run in parallel within the same family or individual"
   - "Common deities include Tua Pek Kong, Mazu / the Heavenly Empress, Guanyin, the Jade Emperor and Guan Gong; Tua Pek Kong is regarded as a deity with local character, the oldest temple being at Tanjung Tokong in Penang"
   - "Major festivals include Chinese New Year, the Nine Emperor Gods Festival, the Hungry Ghost Festival (Yulan), Qingming and the Mid-Autumn Festival"
@@ -22,14 +22,13 @@ keyTakeaways:
 appliesTo: "Anyone wishing to understand Chinese folk religion and Taoism in Malaysia — their statistical treatment, syncretic character, deities, festivals and temples."
 
 verificationNeeded:
-  - "Titles such as 'oldest' or 'largest' for particular deities' temples (e.g. Cheng Hoon Teng, the Tua Pek Kong temple at Tanjung Tokong) should be verified against official or authoritative sources before being asserted"
-  - "The full name, founding year and functions of the Federation of Taoist Associations Malaysia should be verified against its official materials and citations added"
-  - "Whether festivals such as the Nine Emperor Gods Festival are a public holiday in any state should be verified before publication"
+  - "The 'oldest' labels for Cheng Hoon Teng and the Tanjung Tokong Tua Pek Kong temple are genuinely contested (founding dates unsettled); the text already hedges them with 'reputedly / said to be the oldest'"
+  - "FTAM's founding year (around 1994) currently rests on a single scholarly source — confirm against FTAM's official records or the Registry of Societies at publication"
 
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "a2fc9e3e4b34ddd4"
+sourceContentHash: "064f8073d8ee230f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -50,6 +49,9 @@ sources:
   - title: "Federal Constitution — Articles 3 and 11"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Attorney General's Chambers (AGC)"
+  - title: "Federation of Taoist Associations Malaysia (FTAM)"
+    url: "https://dao.jic.io/en/knowledge/global"
+    publisher: "Global Daoism Archive"
 
 entity: "Chinese folk religion and Taoism in Malaysia"
 relations:
@@ -70,11 +72,12 @@ statistically. To understand it, one must begin with a statistical blank.
 
 ## A statistical blank
 
-Malaysia's census does **not** list a separate category for "Taoism" or "Chinese
-folk religion." Many Chinese who, in daily life, pray to deities and venerate
-their ancestors will register themselves as **Buddhists** in the census. The
-practitioners of Chinese folk religion and Taoism are therefore mostly subsumed
-within the "18.7% Buddhist" figure, with no separate official count.
+Malaysia's census **does** include a category for Confucianism, Taoism and other
+traditional Chinese religion — but it records a **negligible number**, folded into
+"other religions" (about 0.9%). Because most practitioners instead report
+themselves as **Buddhists**, they are largely absorbed into the "18.7% Buddhist"
+figure. The result is that there is **no separate official count** reflecting the
+true numbers of Chinese folk religion and Taoism.
 
 This is also why, in discussing Malaysian Chinese belief, Buddhism and folk
 religion are often hard to separate cleanly. For the three main traditions of
@@ -123,8 +126,8 @@ Malaysian Chinese temples enshrine many deities; common ones include:
 Temples are called **tokong** in Malay. Well-known ones include **Cheng Hoon
 Teng** in Malacca and the **Thean Hou Temple** in Kuala Lumpur, reflecting the
 religious life of early Chinese immigrants. At the organisational level, bodies
-such as the **Federation of Taoist Associations Malaysia** represent Taoist
-organisations, promoting liaison and standard-setting work; most temples, however,
+such as the **Federation of Taoist Associations Malaysia (FTAM; established around
+1994)** represent Taoist organisations, promoting liaison and standard-setting work; most temples, however,
 remain independently registered and managed.
 
 ## Common misconceptions

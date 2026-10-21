@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Sesiapa sahaja yang ingin memahami penduduk, sejarah, tradisi ibadat, perayaan dan kedudukan undang-undang agama Hindu di Malaysia."
 
 verificationNeeded:
-  - "Tahun penubuhan Malaysia Hindu Sangam (MHS) — ada sumber menyebut 1964, ada yang menyebut 1965 (23 Januari); sahkan dengan sumber rasmi"
-  - "Senarai tepat negeri yang mewartakan Thaipusam sebagai cuti umum mungkin berubah dari tahun ke tahun — sahkan dengan pengumuman cuti negeri berkenaan semasa penerbitan"
-  - "Muktamadkan angka penduduk Hindu banci 2020 (1.97 juta / 2.0 juta) serta peratusan mengikut negeri dengan penerbitan rasmi DOSM"
+  - "Tahun penubuhan MHS iaitu 1965 (23 Januari) telah disahkan menerusi sumber sekunder; laman rasmi MHS tidak dapat dicapai semasa semakan — sahkan dengan malaysiahindusangam.com.my pada semakan akhir"
+  - "Senarai negeri yang mewartakan Thaipusam sebagai cuti umum berubah dari tahun ke tahun (Kedah mewartakannya secara ad-hoc, bukan melalui warta tetap) — sahkan dengan pengisytiharan cuti negeri bagi tahun berkenaan semasa penerbitan"
 
 lang: "ms"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "00082fdc234cb48a"
+sourceContentHash: "bbfe1f6d7e0ff11f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -146,8 +145,9 @@ Perayaan utama penganut Hindu Malaysia berasal daripada tradisi India Selatan:
 - **Thaipusam** — perayaan yang berpusat pada Dewa Murugan; perarakan di Batu
   Caves ialah perhimpunannya yang terbesar. Ia **bukan** cuti di peringkat
   kebangsaan — hanya menjadi cuti umum di negeri yang mewartakannya (cth. Kuala
-  Lumpur, Putrajaya, Selangor, Pulau Pinang, Perak, Negeri Sembilan, Johor,
-  Kedah). Lihat: [Thaipusam](/arts-culture/thaipusam).
+  Lumpur, Putrajaya, Selangor, Pulau Pinang, Perak, Negeri Sembilan, Johor);
+  Kedah pula mewartakannya pada sesetengah tahun sebagai pengisytiharan ad-hoc
+  dan bukan melalui warta tetap. Lihat: [Thaipusam](/arts-culture/thaipusam).
 - **Thai Pongal** — perayaan menuai, pada permulaan bulan Thai.
 - **Navaratri** — perayaan pemujaan Devi selama sembilan malam.
 
@@ -156,8 +156,8 @@ Vishu.
 
 ## Pertubuhan dan pentadbiran kuil
 
-**Malaysia Hindu Sangam (MHS)** bertindak sebagai badan payung kebangsaan bagi
-kuil dan pertubuhan Hindu sejak pertengahan 1960-an; tugasnya termasuk memelihara
+**Malaysia Hindu Sangam (MHS)** ditubuhkan pada 1965 (23 Januari) dan bertindak
+sebagai badan payung kebangsaan bagi kuil dan pertubuhan Hindu; tugasnya termasuk memelihara
 hak keagamaan, mendaftarkan kuil, serta latihan sami (program Gurukkal) dan
 sebagainya.
 

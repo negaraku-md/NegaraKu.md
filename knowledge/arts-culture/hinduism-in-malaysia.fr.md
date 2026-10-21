@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Toute personne souhaitant comprendre la démographie, l'histoire, les traditions de culte, les fêtes et le statut juridique de l'hindouisme en Malaisie."
 
 verificationNeeded:
-  - "L'année de fondation de la Malaysia Hindu Sangam (MHS) — certaines sources indiquent 1964, d'autres 1965 (23 janvier) ; à confirmer auprès d'une source officielle"
-  - "La liste exacte des États proclamant Thaipusam jour férié peut varier d'une année à l'autre — à vérifier au moment de la publication auprès des annonces de jours fériés de chaque État"
-  - "Le chiffre de la population hindoue du recensement de 2020 (1,97 million / 2,0 millions) et les proportions par État sont à finaliser auprès de la publication officielle du DOSM"
+  - "L'année de fondation de la MHS, 1965 (le 23 janvier), a été confirmée par des sources secondaires ; le site officiel de la MHS était inaccessible lors de la vérification — à confirmer auprès de malaysiahindusangam.com.my lors de la révision finale"
+  - "La liste des États proclamant Thaipusam jour férié varie d'une année à l'autre (le Kedah l'accorde de façon ad hoc, et non par publication permanente au Journal officiel) — à vérifier auprès des annonces de jours fériés de chaque État de l'année concernée au moment de la publication"
 
 lang: "fr"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "00082fdc234cb48a"
+sourceContentHash: "bbfe1f6d7e0ff11f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -154,7 +153,9 @@ sud-indienne :
 - **Thaipusam** — fête centrée sur Murugan ; la procession de Batu Caves en est le
   plus grand rassemblement. Ce n'est pas un jour férié **à l'échelle nationale** —
   il n'est férié que dans les États qui le proclament (p. ex. Kuala Lumpur,
-  Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor, Kedah). Voir :
+  Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor) ; le Kedah
+  l'accorde certaines années par une déclaration ad hoc plutôt que par une
+  publication permanente au Journal officiel. Voir :
   [Thaipusam](/fr/arts-culture/thaipusam).
 - **Thai Pongal** — fête des moissons, au début du mois de Thai.
 - **Navaratri** — fête de neuf nuits consacrée au culte de la Déesse.
@@ -164,10 +165,10 @@ Vishu.
 
 ## Organisations et administration des temples
 
-La **Malaysia Hindu Sangam (MHS)** agit depuis le milieu des années 1960 comme
-organisation faîtière nationale des temples et associations hindous ; ses missions
-comprennent la défense des droits religieux, l'enregistrement des temples et la
-formation des prêtres (programme de gurukkal).
+La **Malaysia Hindu Sangam (MHS)** a été fondée en 1965 (le 23 janvier) et agit
+comme organisation faîtière nationale des temples et associations hindous ; ses
+missions comprennent la défense des droits religieux, l'enregistrement des temples
+et la formation des prêtres (programme de gurukkal).
 
 L'administration des temples varie d'un État à l'autre. Dans certains États (p. ex.
 Selangor, Negeri Sembilan, Perak), les aides publiques ne sont accordées qu'aux

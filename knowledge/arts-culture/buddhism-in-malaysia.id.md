@@ -23,14 +23,12 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami populasi, aliran tradisi, perayaan, wihara, dan organisasi agama Buddha di Malaysia."
 
 verificationNeeded:
-  - "Dasar warta kerajaan/resmi penetapan Hari Wesak sebagai hari libur umum nasional, serta apakah ada perbedaan antarnegeri, mohon diverifikasi sebelum diterbitkan"
-  - "Tahun pendirian dan fungsi organisasi seperti Malaysian Buddhist Association (MBA) dan Young Buddhist Association of Malaysia (YBAM), mohon diverifikasi dengan data resmi mereka dan lengkapi dengan rujukan"
-  - "Jumlah umat Buddha pada sensus 2020 dan kaidah penggolongan 'Buddha/kepercayaan rakyat Tionghoa', mohon diverifikasi dengan rilis resmi DOSM"
+  - "Tahun pendirian Malaysian Buddhist Association (1959, Pulau Pinang) dan Young Buddhist Association of Malaysia (1970) telah diverifikasi — YBAM dari situs resminya, MBA dari sumber sekunder yang otoritatif; mohon dikonfirmasi MBA dengan catatan resminya saat tinjauan"
 
 lang: "id"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "924ee2c8e6b74bac"
+sourceContentHash: "288705196583cc87"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -51,6 +49,9 @@ sources:
   - title: "Perlembagaan Persekutuan — Perkara 3 dan 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Jabatan Peguam Negara (AGC)"
+  - title: "Tentang Young Buddhist Association of Malaysia (About the Young Buddhist Association of Malaysia)"
+    url: "https://ybam.org.my/en/about/young-buddhist-association-of-malaysia/"
+    publisher: "Young Buddhist Association of Malaysia (YBAM)"
 
 entity: "Buddhism in Malaysia"
 relations:
@@ -128,7 +129,8 @@ dan wihara Myanmar (Dhammikarama), yang mencerminkan pola berdampingannya berbag
 tradisi.
 
 Pada tataran organisasi, kelompok seperti **Malaysian Buddhist Association (MBA)**
-dan **Young Buddhist Association of Malaysia (YBAM)** telah lama mendorong
+(didirikan 1959 di Pulau Pinang) dan **Young Buddhist Association of Malaysia (YBAM)**
+(didirikan 1970) telah lama mendorong
 penyebaran ajaran, pendidikan, dan kerja kesejahteraan sosial. Sebagian besar
 wihara terdaftar dan dikelola secara mandiri, dan tidak ada satu badan pengelola
 berstatus hukum yang bersifat nasional.

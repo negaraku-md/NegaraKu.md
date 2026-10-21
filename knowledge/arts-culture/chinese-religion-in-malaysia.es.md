@@ -12,9 +12,9 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "La religión popular china y el taoísmo son prácticas muy extendidas en la comunidad china de Malasia, pero el censo de Malasia no les asigna una categoría propia: muchos practicantes se registran en el censo como budistas, por lo que quedan en su mayoría implícitos dentro de la cifra del «budismo 18,7 %». Se trata de creencias muy sincréticas: una misma persona puede rendir culto al Buda, a deidades taoístas y populares y a los antepasados a la vez, sin fronteras nítidas. Entre las deidades frecuentes están Tua Pek Kong, Mazu (Tian Hou), Guanyin, el Emperador de Jade y Guan Gong; entre las festividades importantes, el Año Nuevo Lunar, la Fiesta de los Nueve Dioses Emperadores, el Festival de los Fantasmas y el Qingming. Los templos se denominan tokong en malayo. La libertad religiosa está garantizada por el artículo 11 de la Constitución Federal."
+answer: "La religión popular china y el taoísmo son prácticas muy extendidas en la comunidad china de Malasia. El censo de Malasia sí incluye una categoría para el confucianismo, el taoísmo y otras religiones tradicionales chinas, pero en ella registra un número insignificante (englobado en «otras religiones», en torno al 0,9 %); como la mayoría de los practicantes se declaran budistas, quedan en gran medida absorbidos dentro de la cifra del budismo (18,7 %), de modo que no existe un recuento oficial independiente que refleje su número real. Se trata de creencias muy sincréticas: una misma persona puede rendir culto al Buda, a deidades taoístas y populares y a los antepasados a la vez, sin fronteras nítidas. Entre las deidades frecuentes están Tua Pek Kong, Mazu (Tian Hou), Guanyin, el Emperador de Jade y Guan Gong; entre las festividades importantes, el Año Nuevo Lunar, la Fiesta de los Nueve Dioses Emperadores, el Festival de los Fantasmas y el Qingming. Los templos se denominan tokong en malayo. La libertad religiosa está garantizada por el artículo 11 de la Constitución Federal."
 keyTakeaways:
-  - "El censo de Malasia no incluye una categoría propia para «taoísmo / religión popular china»; sus practicantes se clasifican en su mayoría dentro del budismo (18,7 %), por lo que no existe una cifra oficial independiente"
+  - "El censo de Malasia sí incluye una categoría para el confucianismo, el taoísmo y otras religiones tradicionales chinas, pero en ella registra un número insignificante (en torno al 0,9 %, englobado en «otras religiones»); como la mayoría de los practicantes se declaran budistas, quedan absorbidos dentro de la cifra del budismo (18,7 %), por lo que no existe un recuento oficial independiente que refleje su número real"
   - "Es una creencia muy sincrética: budismo, taoísmo, confucianismo y culto a los antepasados suelen coexistir en una misma familia o persona"
   - "Entre las deidades frecuentes están Tua Pek Kong, Mazu/Tian Hou, Guanyin, el Emperador de Jade y Guan Gong; a Tua Pek Kong se le considera una deidad de carácter local, y su templo más antiguo está en Tanjung Tokong, Penang"
   - "Entre las festividades importantes están el Año Nuevo Lunar, la Fiesta de los Nueve Dioses Emperadores, el Festival de los Fantasmas (Yulan), el Qingming y el Festival del Medio Otoño"
@@ -22,14 +22,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera conocer la religión popular china y el taoísmo en Malasia: su criterio estadístico, su carácter sincrético, sus deidades, sus festividades y sus templos."
 
 verificationNeeded:
-  - "Los títulos de «más antiguo» o «más grande» de los distintos templos (como el Cheng Hoon Teng o el templo Tua Pek Kong de Tanjung Tokong) deben verificarse con fuentes oficiales o acreditadas antes de afirmarlos"
-  - "El nombre completo, el año de fundación y las funciones de la Federación Taoísta de Malasia deben verificarse con sus fuentes oficiales y añadir la cita correspondiente"
-  - "Si la Fiesta de los Nueve Dioses Emperadores u otras festividades son día festivo en algún estado debe verificarse antes de publicar"
+  - "Los títulos de «más antiguo» del Cheng Hoon Teng y del templo Tua Pek Kong de Tanjung Tokong son genuinamente discutidos (sus fechas de fundación no están resueltas); el texto ya los matiza con «se dice que es el más antiguo»"
+  - "El año de fundación de la FTAM (hacia 1994) se apoya por ahora en una única fuente académica; confírmese con los registros oficiales de la FTAM o con el Registro de Sociedades en el momento de publicar"
 
 lang: "es"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "a2fc9e3e4b34ddd4"
+sourceContentHash: "064f8073d8ee230f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -50,6 +49,9 @@ sources:
   - title: "Constitución Federal — artículos 3 y 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Cámara del Fiscal General (AGC)"
+  - title: "Federación de Asociaciones Taoístas de Malasia (Federation of Taoist Associations Malaysia, FTAM)"
+    url: "https://dao.jic.io/en/knowledge/global"
+    publisher: "Global Daoism Archive"
 
 entity: "Chinese folk religion and Taoism in Malaysia"
 relations:
@@ -71,12 +73,14 @@ las estadísticas. Para entenderla hay que partir de un vacío estadístico.
 
 ## Un vacío estadístico
 
-El censo de Malasia **no** incluye una categoría propia para el «taoísmo» ni para
-la «religión popular china». Muchos chinos que en su día a día rinden culto a las
-deidades y a los antepasados se registran en el censo como **budistas**. Por eso,
-los practicantes de la religión popular china y del taoísmo quedan en su mayoría
-implícitos dentro de la cifra del «budismo 18,7 %», sin una cifra oficial
-independiente.
+El censo de Malasia **sí** incluye una categoría para el confucianismo, el taoísmo
+y otras religiones tradicionales chinas, pero en ella registra un número
+**insignificante** (en torno al **0,9 %**, englobado dentro de «otras religiones»).
+La razón es que la mayoría de los chinos que en su día a día rinden culto a las
+deidades y a los antepasados se declaran en el censo como **budistas**. Así, los
+practicantes de la religión popular china y del taoísmo quedan en gran medida
+absorbidos dentro de la cifra del «budismo 18,7 %», de modo que no existe un
+recuento oficial independiente que refleje su número real.
 
 Esta es también la razón por la que, al hablar de la fe de los chinos de Malasia,
 budismo y religión popular resultan a menudo inseparables. Sobre las tres grandes
@@ -129,8 +133,9 @@ están:
 Los templos se denominan **tokong** en malayo. Entre los conocidos están el **Cheng
 Hoon Teng** de Melaka y el **templo Thean Hou** de Kuala Lumpur, que reflejan la
 vida religiosa de los primeros inmigrantes chinos. En el plano organizativo,
-agrupaciones como la **Federación Taoísta de Malasia** representan a las
-organizaciones taoístas e impulsan la labor de coordinación y normalización; no
+agrupaciones como la **Federación Taoísta de Malasia (FTAM; establecida hacia
+1994)** representan a las organizaciones taoístas e impulsan la labor de
+coordinación y normalización; no
 obstante, la mayoría de los templos siguen registrándose y gestionándose de forma
 independiente.
 

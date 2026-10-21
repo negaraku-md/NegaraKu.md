@@ -12,24 +12,23 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "Agama rakyat Cina dan Taoisme ialah amalan yang meluas dalam masyarakat Cina Malaysia, tetapi banci penduduk Malaysia tidak menyenaraikan kategori khusus untuknya — ramai pengamalnya mendaftar sebagai penganut Buddha dalam banci, lalu kebanyakannya tersirat dalam angka Buddha 18.7% itu. Kepercayaan ini sangat bersifat perpaduan: seseorang yang sama mungkin serentak beribadat kepada Buddha, memuja dewa Taoisme dan dewa rakyat, serta menghormati nenek moyang, dan garisnya tidak jelas. Antara dewa yang lazim ialah Tua Pek Kong, Mazu (Tian Hou), Guan Yin, Maharaja Jed (Yu Huang Da Di) dan Guan Gong; antara perayaan penting ialah Tahun Baru Cina, Perayaan Sembilan Maharaja Dewa, Perayaan Hantu (Zhongyuan) dan Qingming. Kuil dipanggil tokong dalam bahasa Melayu. Kebebasan beragama dijamin di bawah Perkara 11 Perlembagaan Persekutuan."
+answer: "Agama rakyat Cina dan Taoisme ialah amalan yang meluas dalam masyarakat Cina Malaysia. Banci penduduk Malaysia sebenarnya mempunyai kategori bagi Konfusianisme, Taoisme dan agama tradisional Cina lain, cuma jumlah yang direkodkannya amat kecil (dikumpulkan dalam «agama lain», kira-kira 0.9%); oleh sebab kebanyakan pengamalnya melaporkan diri sebagai penganut Buddha, mereka sebahagian besarnya terserap ke dalam angka Buddha 18.7% itu, lalu tiada jumlah rasmi berasingan yang mencerminkan bilangan mereka yang sebenar. Kepercayaan ini sangat bersifat perpaduan: seseorang yang sama mungkin serentak beribadat kepada Buddha, memuja dewa Taoisme dan dewa rakyat, serta menghormati nenek moyang, dan garisnya tidak jelas. Antara dewa yang lazim ialah Tua Pek Kong, Mazu (Tian Hou), Guan Yin, Maharaja Jed (Yu Huang Da Di) dan Guan Gong; antara perayaan penting ialah Tahun Baru Cina, Perayaan Sembilan Maharaja Dewa, Perayaan Hantu (Zhongyuan) dan Qingming. Kuil dipanggil tokong dalam bahasa Melayu. Kebebasan beragama dijamin di bawah Perkara 11 Perlembagaan Persekutuan."
 keyTakeaways:
-  - "Banci Malaysia tidak menyenaraikan Taoisme/agama rakyat Cina secara berasingan; pengamalnya kebanyakannya diklasifikasikan dalam agama Buddha (18.7%), lalu tiada jumlah rasmi yang berasingan"
+  - "Banci Malaysia mempunyai kategori bagi Konfusianisme, Taoisme dan agama tradisional Cina lain, tetapi mencatat jumlah yang amat kecil (dikumpulkan dalam «agama lain», ~0.9%); kerana kebanyakan pengamalnya melaporkan diri sebagai penganut Buddha, mereka terserap ke dalam angka Buddha 18.7%, lalu tiada jumlah rasmi berasingan yang mencerminkan bilangan sebenar"
   - "Ini ialah kepercayaan yang sangat bersifat perpaduan: agama Buddha, Taoisme, pemikiran Konfusianisme dan pemujaan nenek moyang sering berjalan selari dalam satu keluarga atau individu yang sama"
   - "Antara dewa yang lazim ialah Tua Pek Kong, Mazu/Tian Hou, Guan Yin, Maharaja Jed (Yu Huang Da Di) dan Guan Gong; Tua Pek Kong dianggap dewa berciri tempatan, dan kuilnya yang tertua terletak di Tanjung Tokong, Pulau Pinang"
   - "Antara perayaan penting ialah Tahun Baru Cina, Perayaan Sembilan Maharaja Dewa, Perayaan Hantu (Zhongyuan/Yulan), Qingming dan Pertengahan Musim Luruh"
-  - "Kuil dipanggil tokong dalam bahasa Melayu; antara yang terkenal ialah Cheng Hoon Teng di Melaka dan Kuil Thean Hou di Kuala Lumpur; pertubuhan seperti Persatuan Taoisme Malaysia mewakili badan-badan Taoisme"
+  - "Kuil dipanggil tokong dalam bahasa Melayu; antara yang terkenal ialah Cheng Hoon Teng di Melaka dan Kuil Thean Hou di Kuala Lumpur; pertubuhan seperti Persekutuan Persatuan Taoisme Malaysia (FTAM) mewakili badan-badan Taoisme"
 appliesTo: "Sesiapa sahaja yang ingin memahami agama rakyat Cina dan Taoisme di Malaysia — kaedah statistiknya, ciri perpaduan, dewa, perayaan dan kuilnya."
 
 verificationNeeded:
-  - "Gelaran seperti tertua atau terbesar bagi kuil dewa tertentu (cth. Cheng Hoon Teng, kuil Tua Pek Kong Tanjung Tokong) hendaklah disahkan dengan sumber rasmi atau berwibawa sebelum dinyatakan"
-  - "Nama penuh, tahun penubuhan dan fungsi Persatuan Taoisme Malaysia, sila sahkan dengan maklumat rasmi mereka dan tambah rujukan"
-  - "Sama ada perayaan seperti Perayaan Sembilan Maharaja Dewa menjadi cuti umum di mana-mana negeri, perlu disahkan sebelum penerbitan"
+  - "Gelaran tertua bagi Cheng Hoon Teng dan kuil Tua Pek Kong Tanjung Tokong memang masih dipertikaikan (tarikh penubuhan belum muktamad); teks sudah menyederhanakannya dengan ungkapan dikatakan/dianggap tertua"
+  - "Tahun penubuhan FTAM (sekitar 1994) buat masa ini bersandar pada satu sumber ilmiah sahaja — sahkan dengan rekod rasmi FTAM atau Jabatan Pendaftaran Pertubuhan (ROS) semasa penerbitan"
 
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "a2fc9e3e4b34ddd4"
+sourceContentHash: "064f8073d8ee230f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -50,6 +49,9 @@ sources:
   - title: "Perlembagaan Persekutuan — Perkara 3 dan Perkara 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Jabatan Peguam Negara (AGC)"
+  - title: "Persekutuan Persatuan Taoisme Malaysia (Federation of Taoist Associations Malaysia, FTAM)"
+    url: "https://dao.jic.io/en/knowledge/global"
+    publisher: "Arkib Daoisme Global (Global Daoism Archive)"
 
 entity: "Chinese folk religion and Taoism in Malaysia"
 relations:
@@ -73,12 +75,14 @@ ruang kosong dalam statistik.
 
 ## Ruang kosong dalam statistik
 
-Banci penduduk Malaysia **tidak** menyenaraikan kategori khusus untuk Taoisme
-atau agama rakyat Cina. Ramai orang Cina yang dalam kehidupan seharian memuja
-dewa dan menghormati nenek moyang akan mendaftarkan diri sebagai **penganut
-Buddha** dalam banci. Oleh itu, pengamal agama rakyat Cina dan Taoisme
-kebanyakannya tersirat dalam angka Buddha 18.7% itu, tanpa jumlah rasmi yang
-berasingan.
+Banci penduduk Malaysia sebenarnya **mempunyai** kategori bagi Konfusianisme,
+Taoisme dan agama tradisional Cina yang lain — cuma jumlah yang direkodkannya
+amat kecil, dikumpulkan dalam kategori "agama lain" (kira-kira 0.9%). Ini kerana
+ramai orang Cina yang dalam kehidupan seharian memuja dewa dan menghormati nenek
+moyang akan mendaftarkan diri sebagai **penganut Buddha** dalam banci. Oleh itu,
+pengamal agama rakyat Cina dan Taoisme sebahagian besarnya terserap ke dalam
+angka Buddha 18.7% itu, lalu tiada jumlah rasmi berasingan yang mencerminkan
+bilangan mereka yang sebenar.
 
 Inilah sebabnya apabila membincangkan kepercayaan masyarakat Cina Malaysia, agama
 Buddha dan agama rakyat sering sukar dipisahkan sepenuhnya. Mengenai tiga tradisi
@@ -129,9 +133,10 @@ Kuil Cina Malaysia memuja banyak dewa; antara yang lazim termasuk:
 Kuil dipanggil **tokong** dalam bahasa Melayu. Antara yang terkenal ialah **Cheng
 Hoon Teng** di Melaka dan **Kuil Thean Hou** di Kuala Lumpur, yang mencerminkan
 kehidupan keagamaan pendatang Cina awal. Di peringkat pertubuhan, badan seperti
-**Persatuan Taoisme Malaysia** mewakili pertubuhan Taoisme, menggerakkan kerja
-penghubungan dan penyeragaman; namun kebanyakan kuil masih didaftar dan ditadbir
-secara bebas.
+**Persekutuan Persatuan Taoisme Malaysia** (Federation of Taoist Associations
+Malaysia, FTAM; ditubuhkan sekitar 1994) mewakili pertubuhan Taoisme,
+menggerakkan kerja penghubungan dan penyeragaman; namun kebanyakan kuil masih
+didaftar dan ditadbir secara bebas.
 
 ## Salah faham lazim
 

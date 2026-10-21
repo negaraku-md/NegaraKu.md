@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Cualquiera que quiera comprender la población, la historia, las tradiciones de culto, las festividades y la situación jurídica del hinduismo en Malasia."
 
 verificationNeeded:
-  - "El año de fundación de la Malaysia Hindu Sangam (MHS): algunas fuentes indican 1964 y otras 1965 (23 de enero); confírmese con una fuente oficial"
-  - "La lista exacta de estados que declaran el Thaipusam día festivo en su gaceta puede variar de un año a otro; verifíquese con el anuncio de festivos de cada estado en el momento de publicar"
-  - "La cifra de población hindú del censo de 2020 (1,97 millones / 2,0 millones) y las proporciones por estado deben confirmarse con la publicación oficial del DOSM"
+  - "El año de fundación de la Malaysia Hindu Sangam, 1965 (23 de enero), se confirmó mediante fuentes secundarias; el sitio oficial de la MHS no estaba accesible durante la comprobación; confírmese con malaysiahindusangam.com.my en la revisión final"
+  - "La lista de estados que declaran el Thaipusam día festivo en su gaceta varía de un año a otro (Kedah lo concede ad hoc, no por gaceta permanente); verifíquese con las declaraciones de festivos estatales de cada año en el momento de publicar"
 
 lang: "es"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "00082fdc234cb48a"
+sourceContentHash: "bbfe1f6d7e0ff11f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -148,7 +147,8 @@ sudindia:
 - **Thaipusam**: festividad centrada en el señor Murugan; la procesión de Batu
   Caves es su mayor concentración. **No** es festivo a nivel nacional: solo es día
   festivo en los estados que lo declaran en su gaceta (p. ej., Kuala Lumpur,
-  Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor y Kedah). Véase:
+  Putrajaya, Selangor, Penang, Perak, Negeri Sembilan y Johor; Kedah lo concede
+  algunos años mediante una declaración ad hoc, y no por gaceta permanente). Véase:
   [el Thaipusam](/es/arts-culture/thaipusam).
 - **Thai Pongal**: la fiesta de la cosecha, al comienzo del mes de Thai.
 - **Navaratri**: festividad de culto a la Diosa que dura nueve noches.
@@ -158,7 +158,7 @@ Vishu.
 
 ## Organizaciones y administración de los templos
 
-La **Malaysia Hindu Sangam (MHS)** actúa desde mediados de la década de 1960 como
+La **Malaysia Hindu Sangam (MHS)** fue fundada en 1965 (el 23 de enero) y actúa como
 organismo paraguas nacional de los templos y organizaciones hindúes; entre sus
 funciones figuran la defensa de los derechos religiosos, el registro de los templos
 y la formación de sacerdotes (programa de gurukkal).

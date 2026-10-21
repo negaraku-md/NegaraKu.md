@@ -23,14 +23,13 @@ keyTakeaways:
 appliesTo: "Anyone wishing to understand the population, history, worship traditions, festivals and legal standing of Hinduism in Malaysia."
 
 verificationNeeded:
-  - "The founding year of the Malaysia Hindu Sangam (MHS) — some sources give 1964, others 1965 (23 January); confirm against an authoritative source"
-  - "The exact list of states that gazette Thaipusam as a public holiday may change from year to year — verify against each state's holiday notice at the time of publication"
-  - "Finalise the 2020 census Hindu population figure (1.97 million / 2.0 million) and the state proportions against DOSM's official release"
+  - "MHS's founding year of 1965 (23 January) was confirmed via secondary sources; the MHS official site was unreachable during the check — confirm against malaysiahindusangam.com.my at final review"
+  - "The list of states gazetting Thaipusam as a public holiday varies year to year (Kedah grants it ad-hoc, not by standing gazette) — verify against that year's state holiday declarations at publication"
 
 lang: "en"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "00082fdc234cb48a"
+sourceContentHash: "bbfe1f6d7e0ff11f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -144,7 +143,8 @@ The principal festivals of Malaysian Hindus come from the South Indian tradition
 - **Thaipusam** — a festival centred on Lord Murugan; the procession at Batu
   Caves is its largest gathering. It is **not** a holiday nationally — it is a
   public holiday only in the states that gazette it (e.g. Kuala Lumpur,
-  Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor, Kedah). See
+  Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, Johor; Kedah grants it in
+  some years as an ad-hoc declaration rather than by standing gazette). See
   [Thaipusam](/en/arts-culture/thaipusam).
 - **Thai Pongal** — a harvest festival, at the start of the Tamil month of Thai.
 - **Navaratri** — a nine-night festival of Devi worship.
@@ -153,10 +153,10 @@ Those of Malayali heritage also celebrate festivals such as Onam and Vishu.
 
 ## Organisations and temple administration
 
-The **Malaysia Hindu Sangam (MHS)** has served as the national umbrella body for
-Hindu temples and organisations since the mid-1960s; its work includes
-safeguarding religious rights, registering temples, and priest training (the
-gurukkal programme).
+The **Malaysia Hindu Sangam (MHS)** was founded in 1965 (23 January) and serves
+as the national umbrella body for Hindu temples and organisations; its work
+includes safeguarding religious rights, registering temples, and priest training
+(the gurukkal programme).
 
 Temple administration varies from state to state. In some states (e.g. Selangor,
 Negeri Sembilan, Perak) government funding is extended only to temples

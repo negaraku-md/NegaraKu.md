@@ -12,9 +12,9 @@ mode: "narrative"
 contentType: "guide"
 sensitivity: "religion"
 
-answer: "Kepercayaan rakyat Tionghoa dan Taoisme merupakan praktik yang luas di kalangan masyarakat Tionghoa Malaysia, tetapi sensus penduduk Malaysia tidak menyediakan kategori tersendiri bagi keduanya — banyak penganutnya dalam sensus terdaftar sebagai umat Buddha, sehingga sebagian besar tersirat di dalam angka 'Buddha 18,7%'. Kepercayaan semacam ini sangat sinkretis: satu orang bisa sekaligus bersembahyang kepada Buddha, memuja dewa Taoisme dan dewa rakyat, serta memuja leluhur, dengan garis pembatas yang tidak tegas. Dewa yang umum antara lain Tua Pek Kong, Mazu (Tian Hou), Guan Yin, Kaisar Giok, dan Guan Gong; perayaan penting mencakup Tahun Baru Imlek, Festival Sembilan Dewa Kaisar, Festival Hantu, dan Qingming. Kuil dalam bahasa Melayu disebut tokong. Kebebasan beragama dijamin oleh Perkara 11 Perlembagaan Persekutuan."
+answer: "Kepercayaan rakyat Tionghoa dan Taoisme merupakan praktik yang luas di kalangan masyarakat Tionghoa Malaysia, tetapi sensus penduduk Malaysia sebenarnya memiliki kategori untuk Konfusianisme, Taoisme, dan agama tradisional Tionghoa lainnya, hanya saja jumlah yang tercatat sangat kecil (digolongkan ke dalam 'agama lain', sekitar 0,9%); karena sebagian besar penganutnya mendaftarkan diri sebagai umat Buddha, mereka sebagian besar terserap ke dalam angka Buddha 18,7%, sehingga tidak ada jumlah resmi tersendiri yang mencerminkan jumlah mereka yang sebenarnya. Kepercayaan semacam ini sangat sinkretis: satu orang bisa sekaligus bersembahyang kepada Buddha, memuja dewa Taoisme dan dewa rakyat, serta memuja leluhur, dengan garis pembatas yang tidak tegas. Dewa yang umum antara lain Tua Pek Kong, Mazu (Tian Hou), Guan Yin, Kaisar Giok, dan Guan Gong; perayaan penting mencakup Tahun Baru Imlek, Festival Sembilan Dewa Kaisar, Festival Hantu, dan Qingming. Kuil dalam bahasa Melayu disebut tokong. Kebebasan beragama dijamin oleh Perkara 11 Perlembagaan Persekutuan."
 keyTakeaways:
-  - "Sensus Malaysia tidak menyediakan kategori tersendiri untuk 'Taoisme/kepercayaan rakyat Tionghoa', dan penganutnya banyak digolongkan ke dalam Buddha (18,7%), sehingga tidak ada jumlah resmi tersendiri"
+  - "Sensus Malaysia memang memiliki kategori untuk Konfusianisme, Taoisme, dan agama tradisional Tionghoa lainnya, tetapi jumlah yang tercatat sangat kecil (masuk ke 'agama lain', sekitar 0,9%); karena sebagian besar penganutnya mendaftarkan diri sebagai umat Buddha, mereka sebagian besar terserap ke dalam angka Buddha 18,7%, sehingga tidak ada jumlah resmi tersendiri yang mencerminkan jumlah mereka yang sebenarnya"
   - "Ini adalah kepercayaan yang sangat sinkretis: agama Buddha, Taoisme, pemikiran Konfusianisme, dan pemujaan leluhur sering berjalan sejajar dalam satu keluarga atau satu individu"
   - "Dewa yang umum antara lain Tua Pek Kong, Mazu/Tian Hou, Guan Yin, Kaisar Giok, dan Guan Gong; Tua Pek Kong dipandang sebagai dewa bercorak lokal, dengan kuil tertua di Tanjung Tokong, Pulau Pinang"
   - "Perayaan penting mencakup Tahun Baru Imlek, Festival Sembilan Dewa Kaisar, Festival Hantu (Yu Lan), Qingming, dan Pertengahan Musim Gugur"
@@ -22,14 +22,13 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami kepercayaan rakyat Tionghoa dan Taoisme di Malaysia — kaidah statistiknya, ciri perpaduannya, dewa-dewanya, perayaannya, dan kuilnya."
 
 verificationNeeded:
-  - "Sebutan seperti 'tertua' atau 'terbesar' pada kuil dewa tertentu (misalnya Cheng Hoon Teng, kuil Tua Pek Kong Tanjung Tokong) mohon diverifikasi dengan sumber resmi atau otoritatif sebelum ditegaskan"
-  - "Nama lengkap, tahun pendirian, dan fungsi Federation of Taoist Associations Malaysia, mohon diverifikasi dengan data resmi mereka dan lengkapi dengan rujukan"
-  - "Apakah perayaan seperti Festival Sembilan Dewa Kaisar merupakan hari libur umum di negeri mana pun, mohon diverifikasi sebelum diterbitkan"
+  - "Sebutan 'tertua' untuk Cheng Hoon Teng dan kuil Tua Pek Kong Tanjung Tokong memang masih diperdebatkan (tahun pendirian belum pasti); teks sudah berhati-hati dengan ungkapan 'konon / disebut-sebut tertua'"
+  - "Tahun pendirian FTAM (sekitar 1994) saat ini hanya bersandar pada satu sumber ilmiah — mohon dikonfirmasi dengan catatan resmi FTAM atau Pendaftar Pertubuhan (Registry of Societies) saat penerbitan"
 
 lang: "id"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "a2fc9e3e4b34ddd4"
+sourceContentHash: "064f8073d8ee230f"
 status: "in-review"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -50,6 +49,9 @@ sources:
   - title: "Perlembagaan Persekutuan — Perkara 3 dan 11 (Federal Constitution, Articles 3 & 11)"
     url: "https://lom.agc.gov.my/federal-constitution.php"
     publisher: "Jabatan Peguam Negara (AGC)"
+  - title: "Federation of Taoist Associations Malaysia (FTAM)"
+    url: "https://dao.jic.io/en/knowledge/global"
+    publisher: "Arsip Taoisme Global (Global Daoism Archive)"
 
 entity: "Chinese folk religion and Taoism in Malaysia"
 relations:
@@ -72,11 +74,13 @@ statistik.
 
 ## Kekosongan statistik
 
-Sensus penduduk Malaysia **tidak** menyediakan kategori tersendiri bagi "Taoisme"
-atau "kepercayaan rakyat Tionghoa". Banyak orang Tionghoa yang dalam keseharian
-memuja dewa dan memuja leluhur, dalam sensus mendaftarkan diri sebagai **umat
-Buddha**. Karena itu, penganut kepercayaan rakyat Tionghoa dan Taoisme sebagian
-besar tersirat di dalam angka "Buddha 18,7%", tanpa jumlah resmi tersendiri.
+Sensus penduduk Malaysia **memang** memiliki kategori untuk Konfusianisme, Taoisme,
+dan agama tradisional Tionghoa lainnya — tetapi jumlah yang tercatat sangat kecil,
+digolongkan ke dalam "agama lain" (sekitar 0,9%). Karena sebagian besar penganutnya,
+yang dalam keseharian memuja dewa dan memuja leluhur, dalam sensus mendaftarkan diri
+sebagai **umat Buddha**, mereka sebagian besar terserap ke dalam angka "Buddha 18,7%".
+Dengan demikian tidak ada jumlah resmi tersendiri yang mencerminkan jumlah mereka
+yang sebenarnya.
 
 Inilah pula sebabnya, ketika membahas kepercayaan orang Tionghoa Malaysia, agama
 Buddha dan kepercayaan rakyat sering sulit dipisahkan secara tegas. Mengenai tiga
@@ -126,8 +130,9 @@ Kuil Tionghoa Malaysia memuja banyak dewa, yang umum antara lain:
 Kuil dalam bahasa Melayu disebut **tokong**. Yang terkenal antara lain **Cheng
 Hoon Teng** di Melaka dan **Thean Hou** di Kuala Lumpur, yang mencerminkan
 kehidupan keagamaan para imigran Tionghoa pada masa awal. Pada tataran organisasi,
-kelompok seperti **Federation of Taoist Associations Malaysia** mewakili organisasi
-Taoisme dan mendorong kerja penghubungan serta pembakuan; tetapi sebagian besar
+kelompok seperti **Federation of Taoist Associations Malaysia (FTAM; didirikan sekitar
+1994)** mewakili organisasi Taoisme dan mendorong kerja penghubungan serta pembakuan;
+tetapi sebagian besar
 kuil tetap terdaftar dan dikelola secara mandiri.
 
 ## Kesalahpahaman umum
