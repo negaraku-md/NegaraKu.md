@@ -29,7 +29,7 @@ verificationNeeded:
   - "Xác nhận vị thế đăng ký cho các doanh nghiệp ở Sabah và Sarawak, vốn vận hành theo các đạo luật của bang chứ không phải Registration of Businesses Act 1956"
 
 lang: "vi"
-sourceContentHash: "aecfbddfa9393cec"
+sourceContentHash: "5f70ec49ba15b458"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -172,16 +172,16 @@ theo tài sản, với mọi hợp đồng, giấy phép và hợp đồng thuê
    nghiệp cá thể và hợp danh thông thường ngay lập tức. Lợi thế chi phí của chúng được đo
    bằng vài chục ringgit một năm; nhược điểm là ngôi nhà của bạn.
 2. **Bạn có bao giờ huy động vốn bên ngoài, trao cổ phần cho nhân viên, hoặc bán doanh
-   nghiệp không?** Nếu có, bạn cần cổ phần. Điều đó có nghĩa là một Sdn Bhd.
+   nghiệp không?** Nếu có, bạn cần cổ phần. Điều đó có nghĩa là một [Sdn Bhd](/vi/business/what-is-sdn-bhd).
 3. **Bạn có phải là một kế toán viên hành nghề, một luật sư biện hộ và luật sư tư vấn,
    hoặc một thư ký công ty đang hành nghề không?** Lối duy nhất đến trách nhiệm hữu hạn
-   của bạn là một LLP, theo mục 8 và Phụ lục thứ nhất của LLP Act 2012.
+   của bạn là một [LLP](/vi/business/register-llp-malaysia), theo mục 8 và Phụ lục thứ nhất của LLP Act 2012.
 4. **Doanh nghiệp hoạt động có thực sự nằm ngoài Malaysia, hoặc thực sự ở Labuan không?**
-   Chỉ khi đó một công ty Labuan mới đáng được đánh giá.
-5. **Đây có phải là một tập đoàn nước ngoài đang vào Malaysia không?** So sánh chi nhánh
-   với công ty con về nơi cư trú thuế và việc khoanh vùng trách nhiệm trước khi làm bất
+   Chỉ khi đó một [công ty Labuan](/vi/business/labuan-company-vs-sdn-bhd) mới đáng được đánh giá.
+5. **Đây có phải là một tập đoàn nước ngoài đang vào Malaysia không?** So sánh [chi nhánh
+   với công ty con](/vi/business/branch-vs-subsidiary-malaysia) về nơi cư trú thuế và việc khoanh vùng trách nhiệm trước khi làm bất
    cứ điều gì khác.
-6. **Nếu không, hãy thành lập một Sdn Bhd.** Nó là mặc định vì một lý do.
+6. **Nếu không, hãy [thành lập một Sdn Bhd](/vi/business/register-sdn-bhd).** Nó là mặc định vì một lý do.
 
 ## Những sai lầm phổ biến
 
@@ -196,13 +196,28 @@ theo tài sản, với mọi hợp đồng, giấy phép và hợp đồng thuê
 - **Không bao giờ xem xét lại lựa chọn.** Cơ cấu đúng ở mức doanh thu RM50,000 thường là
   cơ cấu sai ở mức RM5 triệu.
 
+## Mỗi cơ cấu chi tiết
+
+Sau khi bạn đã thu hẹp phạm vi lựa chọn, hãy đọc hướng dẫn chuyên sâu:
+
+- **Doanh nghiệp cá thể** — [đăng ký một doanh nghiệp trên EzBiz](/vi/business/register-enterprise-ezbiz), và [đóng một doanh nghiệp cá thể hoặc hợp danh](/vi/business/close-sole-proprietorship-partnership) khi bạn kết thúc nó.
+- **Hợp danh thông thường** — [một hợp danh Malaysia hoạt động như thế nào](/vi/business/partnership-malaysia): trách nhiệm pháp lý, trần hai mươi thành viên và việc giải thể.
+- **LLP** — [đăng ký một LLP qua MyLLP](/vi/business/register-llp-malaysia), lối đến trách nhiệm hữu hạn cho các công ty chuyên môn và các hợp danh nhỏ.
+- **Sdn Bhd** — [Sdn Bhd là gì](/vi/business/what-is-sdn-bhd), rồi [cách đăng ký một công ty](/vi/business/register-sdn-bhd); nó là công ty tư nhân mặc định.
+- **Berhad** — cân nhắc nó so với công ty tư nhân trong [Sdn Bhd đối lại Berhad](/vi/business/sdn-bhd-vs-berhad).
+- **Chi nhánh nước ngoài** — [đăng ký một chi nhánh nước ngoài](/vi/business/register-foreign-branch-malaysia), hoặc giải quyết [chi nhánh đối lại công ty con](/vi/business/branch-vs-subsidiary-malaysia) trước.
+- **Công ty Labuan** — kiểm nghiệm mọi lời chào mời ở nước ngoài với [công ty Labuan đối lại Sdn Bhd](/vi/business/labuan-company-vs-sdn-bhd).
+- **Công ty trách nhiệm hữu hạn theo bảo lãnh** — [một CLG](/vi/business/company-limited-by-guarantee-malaysia) cho các tổ chức phi lợi nhuận và các hiệp hội.
+- **Cơ cấu nắm giữ** — [một công ty nắm giữ (holding)](/vi/business/holding-company-malaysia) để đứng trên nhiều cơ cấu trong số này.
+- **Sabah & Sarawak** — việc đăng ký diễn ra theo các đạo luật của bang, không phải Registration of Businesses Act 1956: [Sabah](/vi/business/register-business-sabah) · [Sarawak](/vi/business/register-business-sarawak).
+
 ## Đọc tiếp
 
 Hãy đọc bài so sánh trực tiếp phù hợp với danh sách rút gọn của bạn thay vì cả bảy trang:
-doanh nghiệp cá thể đối lại Sdn Bhd nếu bạn đang khởi nghiệp một mình, LLP đối lại Sdn
-Bhd nếu bạn là một công ty chuyên môn hoặc một hợp danh nhỏ, Sdn Bhd đối lại Berhad nếu
-bạn đang tiến gần năm mươi cổ đông hoặc lập kế hoạch một đợt huy động vốn, chi nhánh đối
-lại công ty con nếu bạn là một tập đoàn nước ngoài, và Labuan đối lại Sdn Bhd nếu ai đó
+[doanh nghiệp cá thể đối lại Sdn Bhd](/vi/business/sole-prop-vs-sdn-bhd) nếu bạn đang khởi nghiệp một mình, [LLP đối lại Sdn
+Bhd](/vi/business/llp-vs-sdn-bhd) nếu bạn là một công ty chuyên môn hoặc một hợp danh nhỏ, [Sdn Bhd đối lại Berhad](/vi/business/sdn-bhd-vs-berhad) nếu
+bạn đang tiến gần năm mươi cổ đông hoặc lập kế hoạch một đợt huy động vốn, [chi nhánh đối
+lại công ty con](/vi/business/branch-vs-subsidiary-malaysia) nếu bạn là một tập đoàn nước ngoài, và [Labuan đối lại Sdn Bhd](/vi/business/labuan-company-vs-sdn-bhd) nếu ai đó
 đã chào mời bạn một cơ cấu ở nước ngoài.
 
 ---

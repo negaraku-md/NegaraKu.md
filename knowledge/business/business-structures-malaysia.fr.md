@@ -29,7 +29,7 @@ verificationNeeded:
   - "Confirm the registration position for businesses in Sabah and Sarawak, which operate under state ordinances rather than the Registration of Businesses Act 1956"
 
 lang: "fr"
-sourceContentHash: "aecfbddfa9393cec"
+sourceContentHash: "5f70ec49ba15b458"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,16 +173,20 @@ chaque contrat, licence et bail étant réattribué individuellement.
    l'entreprise individuelle et la société de personnes conventionnelle. Leur avantage de
    coût se mesure en dizaines de ringgit par an ; le revers est votre maison.
 2. **Lèverez-vous un jour des capitaux externes, accorderez-vous du capital au personnel ou
-   vendrez-vous l'entreprise ?** Si oui, vous avez besoin d'actions. Cela signifie une Sdn
-   Bhd.
+   vendrez-vous l'entreprise ?** Si oui, vous avez besoin d'actions. Cela signifie une [Sdn
+   Bhd](/fr/business/what-is-sdn-bhd).
 3. **Êtes-vous comptable agréé, avocat et conseil (advocate and solicitor), ou secrétaire
-   de société en exercice ?** Votre seule voie de responsabilité limitée est une LLP, au
-   titre de la s.8 et du Premier Annexe de la LLP Act 2012.
+   de société en exercice ?** Votre seule voie de responsabilité limitée est une
+   [LLP](/fr/business/register-llp-malaysia), au titre de la s.8 et du Premier Annexe de la
+   LLP Act 2012.
 4. **L'activité opérationnelle est-elle véritablement hors de Malaisie, ou véritablement à
-   Labuan ?** Ce n'est qu'alors qu'une société de Labuan vaut la peine d'être évaluée.
-5. **Est-ce un groupe étranger entrant en Malaisie ?** Comparez la succursale à la filiale
-   sur la résidence fiscale et le cantonnement de la responsabilité avant toute autre chose.
-6. **Sinon, constituez une Sdn Bhd.** C'est l'option par défaut pour une raison.
+   Labuan ?** Ce n'est qu'alors qu'une [société de Labuan](/fr/business/labuan-company-vs-sdn-bhd)
+   vaut la peine d'être évaluée.
+5. **Est-ce un groupe étranger entrant en Malaisie ?** Comparez la [succursale à la
+   filiale](/fr/business/branch-vs-subsidiary-malaysia) sur la résidence fiscale et le
+   cantonnement de la responsabilité avant toute autre chose.
+6. **Sinon, [constituez une Sdn Bhd](/fr/business/register-sdn-bhd).** C'est l'option par
+   défaut pour une raison.
 
 ## Erreurs courantes
 
@@ -198,14 +202,31 @@ chaque contrat, licence et bail étant réattribué individuellement.
 - **Ne jamais réexaminer le choix.** La bonne structure avec RM50,000 de revenus est souvent
   la mauvaise avec RM5 millions.
 
+## Chaque structure en détail
+
+Une fois le champ réduit, lisez le guide dédié :
+
+- **Entreprise individuelle / enterprise** — [enregistrer une enterprise sur EzBiz](/fr/business/register-enterprise-ezbiz), et [fermer une entreprise individuelle ou une société de personnes](/fr/business/close-sole-proprietorship-partnership) lorsque vous la liquidez.
+- **Société de personnes conventionnelle** — [comment fonctionne une société de personnes malaisienne](/fr/business/partnership-malaysia) : responsabilité, plafond de vingt associés et dissolution.
+- **LLP** — [enregistrer une LLP via MyLLP](/fr/business/register-llp-malaysia), la voie à responsabilité limitée pour les cabinets professionnels et les petites sociétés de personnes.
+- **Sdn Bhd** — [ce qu'est une Sdn Bhd](/fr/business/what-is-sdn-bhd), puis [comment en enregistrer une](/fr/business/register-sdn-bhd) ; c'est la société privée par défaut.
+- **Berhad** — pesez-la face à la société privée dans [Sdn Bhd vs Berhad](/fr/business/sdn-bhd-vs-berhad).
+- **Succursale étrangère** — [enregistrer une succursale étrangère](/fr/business/register-foreign-branch-malaysia), ou tranchez d'abord [succursale vs filiale](/fr/business/branch-vs-subsidiary-malaysia).
+- **Société de Labuan** — confrontez toute offre extraterritoriale à [société de Labuan vs Sdn Bhd](/fr/business/labuan-company-vs-sdn-bhd).
+- **Société à responsabilité par garantie** — [une CLG](/fr/business/company-limited-by-guarantee-malaysia) pour les organisations à but non lucratif et les associations.
+- **Structure de holding** — [une société de holding](/fr/business/holding-company-malaysia) pour coiffer plusieurs de ces structures.
+- **Sabah et Sarawak** — l'enregistrement relève des ordonnances d'État, non de la Registration of Businesses Act 1956 : [Sabah](/fr/business/register-business-sabah) · [Sarawak](/fr/business/register-business-sarawak).
+
 ## Et ensuite
 
 Lisez le face-à-face qui correspond à votre liste restreinte plutôt que les sept pages :
-l'entreprise individuelle face à la Sdn Bhd si vous démarrez seul, la LLP face à la Sdn Bhd
-si vous êtes un cabinet professionnel ou une petite société de personnes, la Sdn Bhd face à
-la Berhad si vous approchez des cinquante actionnaires ou prévoyez une levée, la succursale
-face à la filiale si vous êtes un groupe étranger, et Labuan face à la Sdn Bhd si quelqu'un
-vous a proposé une structure extraterritoriale.
+[l'entreprise individuelle face à la Sdn Bhd](/fr/business/sole-prop-vs-sdn-bhd) si vous
+démarrez seul, [la LLP face à la Sdn Bhd](/fr/business/llp-vs-sdn-bhd) si vous êtes un
+cabinet professionnel ou une petite société de personnes, [la Sdn Bhd face à la
+Berhad](/fr/business/sdn-bhd-vs-berhad) si vous approchez des cinquante actionnaires ou
+prévoyez une levée, [la succursale face à la filiale](/fr/business/branch-vs-subsidiary-malaysia)
+si vous êtes un groupe étranger, et [Labuan face à la Sdn Bhd](/fr/business/labuan-company-vs-sdn-bhd)
+si quelqu'un vous a proposé une structure extraterritoriale.
 
 ---
 

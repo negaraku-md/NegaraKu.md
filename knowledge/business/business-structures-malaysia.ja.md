@@ -31,7 +31,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aecfbddfa9393cec"
+sourceContentHash: "5f70ec49ba15b458"
 
 status: "published"
 aiAssisted: true
@@ -151,11 +151,11 @@ keywords:
 ## 簡潔な判断の道筋
 
 1. **何らかの実質的な責任リスクがあるか？** それならEnterpriseと伝統的パートナーシップを直ちに除外する。両者のコスト優位は年間数十リンギット単位でしかないが、下振れリスクはあなたの家そのものである。
-2. **将来、外部資本を調達したり、従業員に株式を付与したり、事業を売却したりする予定はあるか？** あるなら株式が必要であり、それはSdn Bhdを意味する。
-3. **あなたは勅許会計士、弁護士（advocate and solicitor）、または開業中の会社秘書役か？** あなたの唯一の有限責任の道はLLPであり、根拠はLLP Act 2012のs.8とFirst Schedule（第一附表）である。
-4. **事業の実態がマレーシア国外に、あるいは真にラブアンにあるか？** その場合に限り、ラブアン会社を検討する価値がある。
-5. **これは、マレーシアに進出しようとする外国グループの話か？** 他の何をする前にも、税務上の居住地とリスク遮断（ring-fencing）の観点から、支店と子会社を比較せよ。
-6. **それ以外であれば、Sdn Bhdを設立せよ。** それが既定の選択肢であるのには理由がある。
+2. **将来、外部資本を調達したり、従業員に株式を付与したり、事業を売却したりする予定はあるか？** あるなら株式が必要であり、それは[Sdn Bhd](/ja/business/what-is-sdn-bhd)を意味する。
+3. **あなたは勅許会計士、弁護士（advocate and solicitor）、または開業中の会社秘書役か？** あなたの唯一の有限責任の道は[LLP](/ja/business/register-llp-malaysia)であり、根拠はLLP Act 2012のs.8とFirst Schedule（第一附表）である。
+4. **事業の実態がマレーシア国外に、あるいは真にラブアンにあるか？** その場合に限り、[ラブアン会社](/ja/business/labuan-company-vs-sdn-bhd)を検討する価値がある。
+5. **これは、マレーシアに進出しようとする外国グループの話か？** 他の何をする前にも、税務上の居住地とリスク遮断（ring-fencing）の観点から、[支店と子会社](/ja/business/branch-vs-subsidiary-malaysia)を比較せよ。
+6. **それ以外であれば、[Sdn Bhdを設立せよ](/ja/business/register-sdn-bhd)。** それが既定の選択肢であるのには理由がある。
 
 ## よくある誤り
 
@@ -166,13 +166,28 @@ keywords:
 - **必要なライセンスがラブアン事業体に利用可能かどうかを確認する前に、ラブアンを選んでしまうこと。**
 - **一度選んだ構造を見直さないこと。** 売上高RM50,000の時点で正しかった構造は、RM500万の時点ではしばしば間違った構造になる。
 
+## 各構造を深く知る
+
+候補を絞り込んだら、その構造の専用ガイドを読むとよい。
+
+- **個人事業／エンタープライズ** — [EzBizでエンタープライズを登録する](/ja/business/register-enterprise-ezbiz)、そして事業を畳む際には[個人事業またはパートナーシップを閉鎖する](/ja/business/close-sole-proprietorship-partnership)。
+- **伝統的パートナーシップ** — [マレーシアのパートナーシップの仕組み](/ja/business/partnership-malaysia)：責任、二十名の組合員上限、そして解散。
+- **LLP** — [MyLLPを通じてLLPを登録する](/ja/business/register-llp-malaysia)。専門職の事務所や小規模なパートナーシップ向けの有限責任の選択肢である。
+- **Sdn Bhd** — [Sdn Bhdとは何か](/ja/business/what-is-sdn-bhd)、次に[その登録方法](/ja/business/register-sdn-bhd)。既定の非公開会社である。
+- **Berhad** — 非公開会社との比較は[Sdn Bhd対Berhad](/ja/business/sdn-bhd-vs-berhad)で検討する。
+- **外国支店** — [外国支店を登録する](/ja/business/register-foreign-branch-malaysia)、あるいはまず[支店対子会社](/ja/business/branch-vs-subsidiary-malaysia)を決める。
+- **ラブアン会社** — オフショアの提案はすべて[ラブアン会社対Sdn Bhd](/ja/business/labuan-company-vs-sdn-bhd)に照らして検証する。
+- **保証有限責任会社** — 非営利団体や協会向けの[CLG](/ja/business/company-limited-by-guarantee-malaysia)。
+- **持株構造** — これらのいくつかの上に置く[持株会社](/ja/business/holding-company-malaysia)。
+- **サバ州・サラワク州** — 登録は1956年商号登録法ではなく州条例のもとで運用される：[サバ州](/ja/business/register-business-sabah) · [サラワク州](/ja/business/register-business-sarawak)。
+
 ## 次のステップ
 
 七ページすべてではなく、自分の候補に合った一騎打ちを読むとよい。一人で始めるなら
-個人事業とSdn Bhdの対決を、専門職の事務所または小さなパートナーシップならLLPと
-Sdn Bhdの対決を、五十名の株主に近づいているか増資を計画しているならSdn Bhdと
-Berhadの対決を、外国グループであれば支店と子会社の対決を、そして誰かにオフショア
-構造を持ちかけられたならラブアンとSdn Bhdの対決を、それぞれ読んでほしい。
+[個人事業とSdn Bhdの対決](/ja/business/sole-prop-vs-sdn-bhd)を、専門職の事務所または小さなパートナーシップなら[LLPと
+Sdn Bhdの対決](/ja/business/llp-vs-sdn-bhd)を、五十名の株主に近づいているか増資を計画しているなら[Sdn Bhdと
+Berhadの対決](/ja/business/sdn-bhd-vs-berhad)を、外国グループであれば[支店と子会社の対決](/ja/business/branch-vs-subsidiary-malaysia)を、そして誰かにオフショア
+構造を持ちかけられたなら[ラブアンとSdn Bhdの対決](/ja/business/labuan-company-vs-sdn-bhd)を、それぞれ読んでほしい。
 
 ---
 

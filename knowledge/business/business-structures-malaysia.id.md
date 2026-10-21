@@ -29,7 +29,7 @@ verificationNeeded:
   - "Verifikasi posisi pendaftaran bagi usaha di Sabah dan Sarawak, yang beroperasi di bawah ordinan negara bagian dan bukan Registration of Businesses Act 1956"
 
 lang: "id"
-sourceContentHash: "aecfbddfa9393cec"
+sourceContentHash: "5f70ec49ba15b458"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -178,18 +178,19 @@ terpisah satu per satu.
    dalam puluhan ringgit setahun; risikonya justru rumah Anda.
 2. **Apakah Anda akan menghimpun modal luar, memberikan ekuitas kepada staf,
    atau menjual usaha suatu saat?** Jika ya, Anda memerlukan saham. Ini berarti
-   Sdn Bhd.
+   [Sdn Bhd](/id/business/what-is-sdn-bhd).
 3. **Apakah Anda seorang akuntan bersertifikat, advokat dan pengacara, atau
    sekretaris perusahaan yang menjalankan praktik?** Satu-satunya jalur
-   liabilitas terbatas Anda adalah LLP, di bawah s.8 dan First Schedule Akta LLP
-   2012.
+   liabilitas terbatas Anda adalah [LLP](/id/business/register-llp-malaysia), di
+   bawah s.8 dan First Schedule Akta LLP 2012.
 4. **Apakah usaha operasional itu benar-benar di luar Malaysia, atau benar-benar
-   di Labuan?** Hanya dalam keadaan itu perusahaan Labuan layak dinilai.
-5. **Apakah ini kelompok asing yang memasuki Malaysia?** Bandingkan cabang
-   dengan anak perusahaan (subsidiary) dari segi residensi pajak dan
-   ring-fencing sebelum melakukan apa pun lagi.
-6. **Jika tidak, dirikan Sdn Bhd.** Ia menjadi pilihan default atas alasan yang
-   masuk akal.
+   di Labuan?** Hanya dalam keadaan itu [perusahaan
+   Labuan](/id/business/labuan-company-vs-sdn-bhd) layak dinilai.
+5. **Apakah ini kelompok asing yang memasuki Malaysia?** Bandingkan [cabang
+   dengan anak perusahaan (subsidiary)](/id/business/branch-vs-subsidiary-malaysia)
+   dari segi residensi pajak dan ring-fencing sebelum melakukan apa pun lagi.
+6. **Jika tidak, [dirikan Sdn Bhd](/id/business/register-sdn-bhd).** Ia menjadi
+   pilihan default atas alasan yang masuk akal.
 
 ## Kesalahan umum
 
@@ -206,15 +207,52 @@ terpisah satu per satu.
 - **Tidak pernah menilai ulang pilihan itu.** Struktur yang benar pada
   pendapatan RM50,000 sering menjadi struktur yang salah pada RM5 juta.
 
+## Setiap struktur secara mendalam
+
+Setelah Anda mempersempit pilihan, bacalah panduan khususnya:
+
+- **Kepemilikan tunggal / enterprise** — [daftarkan enterprise di
+  EzBiz](/id/business/register-enterprise-ezbiz), dan [tutup kepemilikan tunggal
+  atau kemitraan](/id/business/close-sole-proprietorship-partnership) ketika Anda
+  menghentikannya.
+- **Kemitraan konvensional** — [cara kerja kemitraan
+  Malaysia](/id/business/partnership-malaysia): liabilitas, batas dua puluh mitra,
+  dan pembubaran.
+- **LLP** — [daftarkan LLP melalui MyLLP](/id/business/register-llp-malaysia),
+  jalur liabilitas terbatas untuk firma profesional dan kemitraan kecil.
+- **Sdn Bhd** — [apa itu Sdn Bhd](/id/business/what-is-sdn-bhd), lalu [cara
+  mendaftarkannya](/id/business/register-sdn-bhd); inilah perusahaan tertutup
+  default.
+- **Berhad** — timbang terhadap perusahaan tertutup dalam [Sdn Bhd vs
+  Berhad](/id/business/sdn-bhd-vs-berhad).
+- **Cabang asing** — [daftarkan cabang
+  asing](/id/business/register-foreign-branch-malaysia), atau selesaikan lebih
+  dahulu [cabang vs anak
+  perusahaan](/id/business/branch-vs-subsidiary-malaysia).
+- **Perusahaan Labuan** — uji setiap tawaran lepas pantai terhadap [perusahaan
+  Labuan vs Sdn Bhd](/id/business/labuan-company-vs-sdn-bhd).
+- **Perusahaan terbatas berdasarkan jaminan** — [sebuah
+  CLG](/id/business/company-limited-by-guarantee-malaysia) untuk organisasi
+  nirlaba dan asosiasi.
+- **Struktur induk** — [sebuah perusahaan
+  induk](/id/business/holding-company-malaysia) untuk berada di atas beberapa
+  struktur ini.
+- **Sabah & Sarawak** — pendaftaran berjalan di bawah ordinan negara bagian,
+  bukan Registration of Businesses Act 1956: [Sabah](/id/business/register-business-sabah)
+  · [Sarawak](/id/business/register-business-sarawak).
+
 ## Apa berikutnya
 
 Baca perbandingan berhadapan yang sesuai dengan daftar pendek Anda, alih-alih
-membaca ketujuh halaman: kepemilikan tunggal versus Sdn Bhd jika Anda memulai
-usaha sendirian, LLP versus Sdn Bhd jika Anda sebuah firma profesional atau
-kemitraan kecil, Sdn Bhd versus Berhad jika Anda mendekati lima puluh pemegang
-saham atau merencanakan untuk menghimpun modal, cabang versus anak perusahaan
-jika Anda sebuah kelompok asing, dan Labuan versus Sdn Bhd jika seseorang telah
-menawarkan Anda struktur lepas pantai (offshore).
+membaca ketujuh halaman: [kepemilikan tunggal versus Sdn
+Bhd](/id/business/sole-prop-vs-sdn-bhd) jika Anda memulai usaha sendirian, [LLP
+versus Sdn Bhd](/id/business/llp-vs-sdn-bhd) jika Anda sebuah firma profesional
+atau kemitraan kecil, [Sdn Bhd versus Berhad](/id/business/sdn-bhd-vs-berhad)
+jika Anda mendekati lima puluh pemegang saham atau merencanakan untuk menghimpun
+modal, [cabang versus anak perusahaan](/id/business/branch-vs-subsidiary-malaysia)
+jika Anda sebuah kelompok asing, dan [Labuan versus Sdn
+Bhd](/id/business/labuan-company-vs-sdn-bhd) jika seseorang telah menawarkan Anda
+struktur lepas pantai (offshore).
 
 ---
 

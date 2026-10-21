@@ -29,7 +29,7 @@ verificationNeeded:
   - "Confirm the registration position for businesses in Sabah and Sarawak, which operate under state ordinances rather than the Registration of Businesses Act 1956"
 
 lang: "es"
-sourceContentHash: "aecfbddfa9393cec"
+sourceContentHash: "5f70ec49ba15b458"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -173,15 +173,15 @@ cada contrato, licencia y arrendamiento reasignado individualmente.
    la empresa individual y la sociedad colectiva convencional. Su ventaja de costo se mide en
    decenas de ringgit al año; el reverso es su casa.
 2. **¿Alguna vez captará capital externo, otorgará capital al personal o venderá el
-   negocio?** Si es así, necesita acciones. Eso significa una Sdn Bhd.
+   negocio?** Si es así, necesita acciones. Eso significa una [Sdn Bhd](/es/business/what-is-sdn-bhd).
 3. **¿Es usted contable colegiado, abogado y procurador (advocate and solicitor), o
    secretario de sociedades en ejercicio?** Su única vía de responsabilidad limitada es una
-   LLP, al amparo de la s.8 y del Primer Anexo de la LLP Act 2012.
+   [LLP](/es/business/register-llp-malaysia), al amparo de la s.8 y del Primer Anexo de la LLP Act 2012.
 4. **¿El negocio operativo está genuinamente fuera de Malasia, o genuinamente en Labuan?**
-   Solo entonces merece la pena evaluar una sociedad de Labuan.
-5. **¿Es un grupo extranjero que entra en Malasia?** Compare la sucursal con la filial en
+   Solo entonces merece la pena evaluar una [sociedad de Labuan](/es/business/labuan-company-vs-sdn-bhd).
+5. **¿Es un grupo extranjero que entra en Malasia?** Compare la [sucursal con la filial](/es/business/branch-vs-subsidiary-malaysia) en
    residencia fiscal y acotación de responsabilidad antes de hacer cualquier otra cosa.
-6. **De lo contrario, constituya una Sdn Bhd.** Es la opción por defecto por una razón.
+6. **De lo contrario, [constituya una Sdn Bhd](/es/business/register-sdn-bhd).** Es la opción por defecto por una razón.
 
 ## Errores comunes
 
@@ -196,13 +196,28 @@ cada contrato, licencia y arrendamiento reasignado individualmente.
 - **No revisar nunca la elección.** La estructura correcta con RM50,000 de ingresos suele ser
   la equivocada con RM5 millones.
 
+## Cada estructura en detalle
+
+Una vez que haya acotado el campo, lea la guía dedicada:
+
+- **Empresa individual / enterprise** — [registre una enterprise en EzBiz](/es/business/register-enterprise-ezbiz), y [cierre una empresa individual o sociedad colectiva](/es/business/close-sole-proprietorship-partnership) cuando la liquide.
+- **Sociedad colectiva convencional** — [cómo funciona una sociedad colectiva malasia](/es/business/partnership-malaysia): responsabilidad, el techo de veinte socios y la disolución.
+- **LLP** — [registre una LLP a través de MyLLP](/es/business/register-llp-malaysia), la vía de responsabilidad limitada para firmas profesionales y pequeñas sociedades colectivas.
+- **Sdn Bhd** — [qué es una Sdn Bhd](/es/business/what-is-sdn-bhd), y luego [cómo registrar una](/es/business/register-sdn-bhd); es la sociedad privada por defecto.
+- **Berhad** — contrástela con la sociedad privada en [Sdn Bhd frente a Berhad](/es/business/sdn-bhd-vs-berhad).
+- **Sucursal extranjera** — [registre una sucursal extranjera](/es/business/register-foreign-branch-malaysia), o resuelva primero [sucursal frente a filial](/es/business/branch-vs-subsidiary-malaysia).
+- **Sociedad de Labuan** — contraste cualquier propuesta extraterritorial con [sociedad de Labuan frente a Sdn Bhd](/es/business/labuan-company-vs-sdn-bhd).
+- **Sociedad limitada por garantía** — [una CLG](/es/business/company-limited-by-guarantee-malaysia) para organizaciones sin ánimo de lucro y asociaciones.
+- **Estructura de holding** — [una sociedad holding](/es/business/holding-company-malaysia) para situarse por encima de varias de estas.
+- **Sabah y Sarawak** — el registro se rige por ordenanzas estatales, no por la Registration of Businesses Act 1956: [Sabah](/es/business/register-business-sabah) · [Sarawak](/es/business/register-business-sarawak).
+
 ## Qué sigue
 
 Lea el enfrentamiento directo que coincida con su lista corta en lugar de las siete páginas:
-la empresa individual frente a la Sdn Bhd si empieza en solitario, la LLP frente a la Sdn
-Bhd si es una firma profesional o una pequeña sociedad colectiva, la Sdn Bhd frente a la
-Berhad si se acerca a los cincuenta accionistas o planea una ronda de captación, la sucursal
-frente a la filial si es un grupo extranjero, y Labuan frente a la Sdn Bhd si alguien le ha
+la [empresa individual frente a la Sdn Bhd](/es/business/sole-prop-vs-sdn-bhd) si empieza en solitario, la [LLP frente a la Sdn
+Bhd](/es/business/llp-vs-sdn-bhd) si es una firma profesional o una pequeña sociedad colectiva, la [Sdn Bhd frente a la
+Berhad](/es/business/sdn-bhd-vs-berhad) si se acerca a los cincuenta accionistas o planea una ronda de captación, la [sucursal
+frente a la filial](/es/business/branch-vs-subsidiary-malaysia) si es un grupo extranjero, y [Labuan frente a la Sdn Bhd](/es/business/labuan-company-vs-sdn-bhd) si alguien le ha
 propuesto una estructura extraterritorial.
 
 ---

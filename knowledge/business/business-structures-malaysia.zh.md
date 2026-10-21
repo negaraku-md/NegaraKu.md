@@ -31,7 +31,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "aecfbddfa9393cec"
+sourceContentHash: "5f70ec49ba15b458"
 
 status: "published"
 aiAssisted: true
@@ -164,13 +164,13 @@ Act 2012 s.69(5)。Sdn Bhd 可以依 SSM 的 Practice Directive 10/2024 符合�
 1. **有任何实质的责任风险吗？** 那就立刻淘汰 enterprise 与传统合伙。它们的成本优势
    以每年几十令吉计；下行风险是你的房子。
 2. **你将来会向外筹资、向员工授予股权，或者把生意卖掉吗？** 若会，你需要股份。那就
-   意味着 Sdn Bhd。
-3. **你是特许会计师、执业律师，还是执业公司秘书？** 你唯一的有限责任路径是 LLP，
+   意味着 [Sdn Bhd](/zh/business/what-is-sdn-bhd)。
+3. **你是特许会计师、执业律师，还是执业公司秘书？** 你唯一的有限责任路径是 [LLP](/zh/business/register-llp-malaysia)，
    依据是 LLP Act 2012 s.8 与其 First Schedule（第一附表）。
-4. **营运业务是真的在马来西亚境外，或者真的在纳闽吗？** 只有那样，纳闽公司才值得评估。
+4. **营运业务是真的在马来西亚境外，或者真的在纳闽吗？** 只有那样，[纳闽公司](/zh/business/labuan-company-vs-sdn-bhd)才值得评估。
 5. **这是一个外国集团进军马来西亚吗？** 在做任何其他事之前，先就税务居民身份与风险
-   隔离，把分行与子公司拿来比较。
-6. **否则，就注册成立一家 Sdn Bhd。** 它成为预设选项是有原因的。
+   隔离，把[分行与子公司](/zh/business/branch-vs-subsidiary-malaysia)拿来比较。
+6. **否则，就[注册成立一家 Sdn Bhd](/zh/business/register-sdn-bhd)。** 它成为预设选项是有原因的。
 
 ## 常见错误
 
@@ -183,12 +183,27 @@ Act 2012 s.69(5)。Sdn Bhd 可以依 SSM 的 Practice Directive 10/2024 符合�
 - **从不回头检讨当初的选择。** 在营业额 RM50,000 时正确的结构，在 RM5 million 时
   往往就是错的。
 
+## 每一种结构的深入了解
+
+一旦你缩小了范围，就去读专属的指南：
+
+- **独资经营／enterprise** — [在 EzBiz 上注册 enterprise](/zh/business/register-enterprise-ezbiz)，并在你结束经营时[结束独资经营或合伙](/zh/business/close-sole-proprietorship-partnership)。
+- **传统合伙** — [马来西亚合伙如何运作](/zh/business/partnership-malaysia)：责任、二十名合伙人的上限与解散。
+- **LLP** — [通过 MyLLP 注册 LLP](/zh/business/register-llp-malaysia)，专为专业事务所与小型合伙而设的有限责任路径。
+- **Sdn Bhd** — [什么是 Sdn Bhd](/zh/business/what-is-sdn-bhd)，然后[如何注册成立一家](/zh/business/register-sdn-bhd)；它是预设的私人公司。
+- **Berhad** — 在 [Sdn Bhd 对 Berhad](/zh/business/sdn-bhd-vs-berhad) 中把它和私人公司权衡一番。
+- **外国公司分行** — [注册外国公司分行](/zh/business/register-foreign-branch-malaysia)，或先理清[分行对子公司](/zh/business/branch-vs-subsidiary-malaysia)。
+- **纳闽公司** — 用 [纳闽公司对 Sdn Bhd](/zh/business/labuan-company-vs-sdn-bhd) 检验任何离岸提案。
+- **担保有限公司** — [担保有限公司（CLG）](/zh/business/company-limited-by-guarantee-malaysia)，适用于非营利组织与社团。
+- **控股架构** — [控股公司](/zh/business/holding-company-malaysia)，用以统驭上述数种结构。
+- **Sabah 与 Sarawak** — 注册依据州法令，而非 Registration of Businesses Act 1956：[Sabah](/zh/business/register-business-sabah) · [Sarawak](/zh/business/register-business-sarawak)。
+
 ## 下一步
 
-去读与你的候选名单相符的那一场对决，而不是七页全读：如果你打算单干，读独资经营对
-Sdn Bhd；如果你是专业事务所或小型合伙，读 LLP 对 Sdn Bhd；如果你正逼近五十名股东
-或计划筹资，读 Sdn Bhd 对 Berhad；如果你是外国集团，读分行对子公司；而如果有人向你
-兜售离岸架构，就读纳闽对 Sdn Bhd。
+去读与你的候选名单相符的那一场对决，而不是七页全读：如果你打算单干，读[独资经营对
+Sdn Bhd](/zh/business/sole-prop-vs-sdn-bhd)；如果你是专业事务所或小型合伙，读 [LLP 对 Sdn Bhd](/zh/business/llp-vs-sdn-bhd)；如果你正逼近五十名股东
+或计划筹资，读 [Sdn Bhd 对 Berhad](/zh/business/sdn-bhd-vs-berhad)；如果你是外国集团，读[分行对子公司](/zh/business/branch-vs-subsidiary-malaysia)；而如果有人向你
+兜售离岸架构，就读[纳闽对 Sdn Bhd](/zh/business/labuan-company-vs-sdn-bhd)。
 
 ---
 

@@ -29,7 +29,7 @@ verificationNeeded:
   - "사업등록법(Registration of Businesses Act 1956)이 아니라 주 조례에 따라 운영되는 사바와 사라왁의 사업 등록 상황을 확인해야 합니다"
 
 lang: "ko"
-sourceContentHash: "aecfbddfa9393cec"
+sourceContentHash: "5f70ec49ba15b458"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -169,15 +169,15 @@ s.42(3)은 공동 보유자를 1인으로 계산하고 주주가 될 당시 직�
    배제하십시오. 그 비용상의 이점은 연간 수십 링깃 수준이며, 그 단점은 여러분의
    집입니다.
 2. **언젠가 외부 자본을 조달하거나, 직원에게 지분을 부여하거나, 사업을 매각할
-   것인가?** 그렇다면 주식이 필요합니다. 그것은 Sdn Bhd를 의미합니다.
+   것인가?** 그렇다면 주식이 필요합니다. 그것은 [Sdn Bhd](/ko/business/what-is-sdn-bhd)를 의미합니다.
 3. **여러분은 공인회계사, 변호사(advocate and solicitor), 또는 개업 회사
    비서인가?** 여러분의 유일한 유한 책임 경로는 LLP법 2012 s.8과 제1부칙에 따른
-   LLP입니다.
+   [LLP](/ko/business/register-llp-malaysia)입니다.
 4. **영업 사업이 진정으로 말레이시아 밖에 있거나, 진정으로 라부안에 있는가?** 그런
-   경우에만 라부안 회사를 평가할 가치가 있습니다.
+   경우에만 [라부안 회사](/ko/business/labuan-company-vs-sdn-bhd)를 평가할 가치가 있습니다.
 5. **이것이 말레이시아에 진입하는 외국 그룹인가?** 무엇을 하기 전에 조세 거주지와
-   위험 격리(ring-fencing) 측면에서 지점과 자회사를 비교하십시오.
-6. **그 밖의 경우에는 Sdn Bhd를 설립하십시오.** 그것이 기본값인 데에는 이유가
+   위험 격리(ring-fencing) 측면에서 [지점과 자회사](/ko/business/branch-vs-subsidiary-malaysia)를 비교하십시오.
+6. **그 밖의 경우에는 [Sdn Bhd를 설립](/ko/business/register-sdn-bhd)하십시오.** 그것이 기본값인 데에는 이유가
    있습니다.
 
 ## 흔한 실수
@@ -194,12 +194,27 @@ s.42(3)은 공동 보유자를 1인으로 계산하고 주주가 될 당시 직�
 - **선택을 결코 재검토하지 않기.** 매출 RM50,000일 때 옳은 구조가 RM5백만일 때는
   흔히 잘못된 구조입니다.
 
+## 구조별 심층 안내
+
+후보군을 좁혔다면, 해당 구조의 전용 안내서를 읽으십시오:
+
+- **개인 사업체 / 엔터프라이즈** — [EzBiz에서 엔터프라이즈 등록하기](/ko/business/register-enterprise-ezbiz), 그리고 사업을 정리할 때 [개인 사업체 또는 조합 폐업하기](/ko/business/close-sole-proprietorship-partnership).
+- **일반 조합** — [말레이시아 조합의 작동 방식](/ko/business/partnership-malaysia): 책임, 20인 조합원 상한, 그리고 해산.
+- **LLP** — 전문직 사무소와 소규모 조합을 위한 유한 책임 경로인 [MyLLP를 통한 LLP 등록하기](/ko/business/register-llp-malaysia).
+- **Sdn Bhd** — [Sdn Bhd란 무엇인가](/ko/business/what-is-sdn-bhd), 그리고 [등록하는 방법](/ko/business/register-sdn-bhd); 기본값인 비공개 회사입니다.
+- **Berhad** — [Sdn Bhd 대 Berhad](/ko/business/sdn-bhd-vs-berhad)에서 비공개 회사와 비교해 보십시오.
+- **외국 지점** — [외국 지점 등록하기](/ko/business/register-foreign-branch-malaysia), 또는 먼저 [지점 대 자회사](/ko/business/branch-vs-subsidiary-malaysia)를 정리하십시오.
+- **라부안 회사** — 모든 역외 제안을 [라부안 회사 대 Sdn Bhd](/ko/business/labuan-company-vs-sdn-bhd)에 비추어 검증하십시오.
+- **보증유한회사(CLG)** — 비영리 단체와 협회를 위한 [CLG](/ko/business/company-limited-by-guarantee-malaysia).
+- **지주 구조** — 위 여러 구조의 상위에 둘 [지주회사](/ko/business/holding-company-malaysia).
+- **사바 및 사라왁** — 등록은 사업등록법 1956이 아니라 주 조례에 따라 이루어집니다: [사바](/ko/business/register-business-sabah) · [사라왁](/ko/business/register-business-sarawak).
+
 ## 다음 단계
 
 일곱 페이지를 모두 읽기보다는 여러분의 후보군에 맞는 일대일 비교를 읽으십시오.
-혼자 시작한다면 개인 사업체 대 Sdn Bhd, 전문직 사무소나 소규모 조합이라면 LLP 대
-Sdn Bhd, 주주 50인에 다가가거나 자본 조달을 계획한다면 Sdn Bhd 대 Berhad, 외국
-그룹이라면 지점 대 자회사, 누군가가 역외 구조를 제안했다면 라부안 대 Sdn Bhd.
+혼자 시작한다면 [개인 사업체 대 Sdn Bhd](/ko/business/sole-prop-vs-sdn-bhd), 전문직 사무소나 소규모 조합이라면 [LLP 대
+Sdn Bhd](/ko/business/llp-vs-sdn-bhd), 주주 50인에 다가가거나 자본 조달을 계획한다면 [Sdn Bhd 대 Berhad](/ko/business/sdn-bhd-vs-berhad), 외국
+그룹이라면 [지점 대 자회사](/ko/business/branch-vs-subsidiary-malaysia), 누군가가 역외 구조를 제안했다면 [라부안 대 Sdn Bhd](/ko/business/labuan-company-vs-sdn-bhd).
 
 ---
 
