@@ -33,7 +33,7 @@ faq:
     a: "Non. La taxe sur les services s'applique aux services de location ou de crédit-bail fournis à partir du 1er juillet 2025. La location afférente à une période antérieure à cette date n'est pas imposable, quel que soit le moment où elle est facturée ou payée. Le gouvernement a également annoncé qu'aucune poursuite ni pénalité ne serait imposée jusqu'au 31 décembre 2025 aux entreprises prenant des mesures pour se conformer, accordant une période de grâce pour s'enregistrer et ajuster les systèmes."
 
 lang: "fr"
-sourceContentHash: "58ee2a784ad7e751"
+sourceContentHash: "ae8701a505975ba0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

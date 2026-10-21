@@ -26,7 +26,7 @@ verificationNeeded:
   - "Keringanan intra-kelompok bagi jasa profesional dan batas persentase apa pun atas jasa yang disediakan kepada pihak yang tidak terkait belum dipastikan — jangan mengandalkan angka yang sering disebut"
 
 lang: "id"
-sourceContentHash: "fdaf544799e718b4"
+sourceContentHash: "725cdd0f019572ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

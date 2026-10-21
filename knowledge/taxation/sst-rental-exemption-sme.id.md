@@ -33,7 +33,7 @@ faq:
     a: "Tidak. Pajak jasa berlaku untuk jasa penyewaan atau sewa guna usaha yang diberikan mulai 1 Juli 2025 dan seterusnya. Penyewaan yang berkaitan dengan periode sebelum tanggal tersebut tidak dikenai pajak, tanpa memandang kapan ia difaktur atau dibayar. Pemerintah juga mengumumkan bahwa tidak ada penuntutan atau penalti akan dikenakan sampai 31 Desember 2025 bagi usaha yang mengambil langkah untuk mematuhi, memberikan masa tenggang untuk mendaftar dan menyesuaikan sistem."
 
 lang: "id"
-sourceContentHash: "58ee2a784ad7e751"
+sourceContentHash: "ae8701a505975ba0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

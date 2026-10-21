@@ -39,7 +39,7 @@ obligations:
     consequence: "โทษปรับ 10% เพิ่มเป็น 25% ที่ 60 วันและ 40% ที่ 90 วัน บวกการฟ้องร้อง"
 
 lang: "th"
-sourceContentHash: "07b54b26f9327d7f"
+sourceContentHash: "4709bc9ffa6de97e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

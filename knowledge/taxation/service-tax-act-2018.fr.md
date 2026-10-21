@@ -28,7 +28,7 @@ faq:
   - q: "Qu'est-ce qui a changé le 1er juillet 2025 ?"
     a: "Le champ de la taxe sur les services a été étendu pour couvrir de nouveaux services, notamment le crédit-bail ou la location, la construction, les services financiers, la santé privée et l'éducation. Les services financiers basés sur des commissions sont taxés à 8% ; la construction, la santé privée (non-citoyens uniquement) et l'éducation sont taxées à 6%. La location ou le crédit-bail a été taxé à 8% à compter du 1er juillet 2025 mais a été réduit à 6% à compter du 1er janvier 2026. L'extension proposée aux services de beauté a été retirée avant le 1er juillet 2025. Aucune poursuite ni pénalité ne s'est appliquée aux entreprises prenant des mesures pour se conformer jusqu'au 31 décembre 2025."
 lang: "fr"
-sourceContentHash: "1a8e884731ffdc96"
+sourceContentHash: "b51010c8b6f32741"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

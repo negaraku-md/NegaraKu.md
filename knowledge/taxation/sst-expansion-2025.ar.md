@@ -56,7 +56,7 @@ obligations:
     consequence: "غرامة تأخّر متصاعدة في الدفع وملاحقة قضائية"
 
 lang: "ar"
-sourceContentHash: "d706192580f6eecf"
+sourceContentHash: "a3f89718dc20f95c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

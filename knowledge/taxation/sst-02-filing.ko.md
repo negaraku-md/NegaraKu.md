@@ -39,7 +39,7 @@ obligations:
     consequence: "10%에서 60일에 25%, 90일에 40%로 올라가는 가산세와 함께 기소"
 
 lang: "ko"
-sourceContentHash: "07b54b26f9327d7f"
+sourceContentHash: "4709bc9ffa6de97e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

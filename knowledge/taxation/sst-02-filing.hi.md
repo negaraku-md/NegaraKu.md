@@ -39,7 +39,7 @@ obligations:
     consequence: "10% का दंड, 60 दिनों पर 25% और 90 दिनों पर 40% तक बढ़ता हुआ, साथ ही अभियोजन"
 
 lang: "hi"
-sourceContentHash: "07b54b26f9327d7f"
+sourceContentHash: "4709bc9ffa6de97e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

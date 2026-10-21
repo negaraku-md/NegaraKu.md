@@ -34,7 +34,7 @@ obligations:
     consequence: "Khoản phạt lên đến RM50,000 hoặc ba năm tù theo s.26A(2), cộng với chế tài nộp trễ 10%, 25% rồi 40% theo s.26A(3)"
 
 lang: "vi"
-sourceContentHash: "08a2fb22e81e604e"
+sourceContentHash: "b4df272d36ba97ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -26,7 +26,7 @@ verificationNeeded:
   - "ยังไม่ได้ยืนยันการบรรเทาภายในกลุ่มสำหรับบริการวิชาชีพและขีดจำกัดเปอร์เซ็นต์ใด ๆ ของบริการที่ให้แก่ฝ่ายที่ไม่เกี่ยวข้อง — อย่าพึ่งพาตัวเลขที่อ้างกันทั่วไป"
 
 lang: "th"
-sourceContentHash: "fdaf544799e718b4"
+sourceContentHash: "725cdd0f019572ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

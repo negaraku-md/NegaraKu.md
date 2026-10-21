@@ -53,7 +53,7 @@ obligations:
     consequence: "โทษปรับ 10% เพิ่มเป็น 25% และ 40% และค่าปรับสูงสุด RM50,000 หรือจำคุกสามปี"
 
 lang: "th"
-sourceContentHash: "3746823d8f4516ea"
+sourceContentHash: "f56f54647cceaee8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

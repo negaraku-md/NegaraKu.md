@@ -28,7 +28,7 @@ faq:
   - q: "Điều gì đã thay đổi vào ngày 1 tháng 7 năm 2025?"
     a: "Phạm vi thuế dịch vụ được mở rộng để bao phủ các dịch vụ mới bao gồm cho thuê, xây dựng, dịch vụ tài chính, chăm sóc sức khỏe tư nhân và giáo dục. Các dịch vụ tài chính dựa trên phí bị đánh thuế ở 8%; xây dựng, chăm sóc sức khỏe tư nhân (chỉ người không phải công dân) và giáo dục bị đánh thuế ở 6%. Cho thuê bị đánh thuế ở 8% từ ngày 1 tháng 7 năm 2025 nhưng được giảm xuống 6% từ ngày 1 tháng 1 năm 2026. Việc mở rộng được đề xuất sang dịch vụ làm đẹp đã bị rút trước ngày 1 tháng 7 năm 2025. Không có truy tố hay chế tài nào áp cho các doanh nghiệp đang thực hiện các bước để tuân thủ đến 31 tháng 12 năm 2025."
 lang: "vi"
-sourceContentHash: "1a8e884731ffdc96"
+sourceContentHash: "b51010c8b6f32741"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

@@ -34,7 +34,7 @@ obligations:
     consequence: "غرامة تصل إلى RM50,000 أو السجن ثلاث سنوات بموجب s.26A(2)، إضافةً إلى غرامة التأخر في السداد 10% ثم 25% ثم 40% بموجب s.26A(3)"
 
 lang: "ar"
-sourceContentHash: "08a2fb22e81e604e"
+sourceContentHash: "b4df272d36ba97ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

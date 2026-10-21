@@ -26,7 +26,7 @@ verificationNeeded:
   - "لم يُسترجَع النص الكامل لـP.U.(A) 125/2026؛ وقد تأكّد عنوانه ونفاذه في 1 يناير 2026 من بوابة التشريعات التابعة لمكتب النائب العام (AGC) ومن الإعفاء المقابل البالغ 2% في سياسة ضريبة الخدمات رقم 2/2025 (التعديل رقم 3)"
 
 lang: "ar"
-sourceContentHash: "a8607ba4409fa9bf"
+sourceContentHash: "efabafee1422fbc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -56,7 +56,7 @@ obligations:
     consequence: "Penalti pembayaran terlambat yang meningkat dan penuntutan"
 
 lang: "id"
-sourceContentHash: "d706192580f6eecf"
+sourceContentHash: "a3f89718dc20f95c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

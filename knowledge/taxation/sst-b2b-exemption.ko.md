@@ -26,7 +26,7 @@ verificationNeeded:
   - "전문 서비스에 대한 그룹 내 감면과, 무관계 당사자에게 제공되는 서비스에 대한 비율 제한은 검증되지 않았음 — 흔히 인용되는 수치에 의존하지 말 것"
 
 lang: "ko"
-sourceContentHash: "fdaf544799e718b4"
+sourceContentHash: "725cdd0f019572ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

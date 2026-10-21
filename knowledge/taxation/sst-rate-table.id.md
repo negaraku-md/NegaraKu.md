@@ -26,7 +26,7 @@ verificationNeeded:
   - "Teks penuh P.U.(A) 125/2026 tidak diperoleh; judulnya dan keberlakuan 1 Januari 2026 dipastikan dari portal perundangan AGC dan pengecualian 2% yang sepadan dalam Service Tax Policy No. 2/2025 (Amendment No. 3)"
 
 lang: "id"
-sourceContentHash: "a8607ba4409fa9bf"
+sourceContentHash: "efabafee1422fbc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

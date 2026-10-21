@@ -34,7 +34,7 @@ obligations:
     consequence: "제26A(2)조에 따라 최대 RM50,000의 벌금 또는 3년의 징역, 그리고 제26A(3)조에 따라 10%, 25%, 이어 40%의 납부 지연 벌금"
 
 lang: "ko"
-sourceContentHash: "08a2fb22e81e604e"
+sourceContentHash: "b4df272d36ba97ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

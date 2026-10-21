@@ -34,7 +34,7 @@ obligations:
     consequence: "Denda hingga RM50,000 atau penjara tiga tahun di bawah s.26A(2), ditambah penalti keterlambatan bayar 10%, 25% lalu 40% di bawah s.26A(3)"
 
 lang: "id"
-sourceContentHash: "08a2fb22e81e604e"
+sourceContentHash: "b4df272d36ba97ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -33,7 +33,7 @@ faq:
     a: "No. El impuesto sobre servicios se aplica a los servicios de arrendamiento o leasing prestados a partir del 1 de julio de 2025. El arrendamiento relativo a un periodo anterior a esa fecha no es gravable, con independencia de cuándo se facture o se pague. El gobierno también anunció que no se impondrían procesos ni sanciones hasta el 31 de diciembre de 2025 a las empresas que tomaran medidas para cumplir, otorgando un periodo de gracia para registrarse y ajustar los sistemas."
 
 lang: "es"
-sourceContentHash: "58ee2a784ad7e751"
+sourceContentHash: "ae8701a505975ba0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

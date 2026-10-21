@@ -28,7 +28,7 @@ faq:
   - q: "Apa yang berubah pada 1 Juli 2025?"
     a: "Cakupan pajak jasa diperluas untuk mencakup jasa baru termasuk sewa guna usaha atau penyewaan, konstruksi, jasa keuangan, layanan kesehatan swasta, dan pendidikan. Jasa keuangan berbasis biaya dikenai pajak pada 8%; konstruksi, layanan kesehatan swasta (bukan warga negara saja), dan pendidikan dikenai pajak pada 6%. Penyewaan atau sewa guna usaha dikenai pajak pada 8% mulai 1 Juli 2025 tetapi dikurangi menjadi 6% mulai 1 Januari 2026. Usulan perluasan ke jasa kecantikan telah ditarik kembali sebelum 1 Juli 2025. Tidak ada penuntutan atau penalti dikenakan atas usaha yang mengambil langkah untuk mematuhi sampai 31 Desember 2025."
 lang: "id"
-sourceContentHash: "1a8e884731ffdc96"
+sourceContentHash: "b51010c8b6f32741"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

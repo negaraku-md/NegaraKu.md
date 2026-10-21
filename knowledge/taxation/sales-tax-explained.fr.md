@@ -53,7 +53,7 @@ obligations:
     consequence: "Penalty of 10%, rising to 25% and 40%, and a fine up to RM50,000 or three years imprisonment"
 
 lang: "fr"
-sourceContentHash: "3746823d8f4516ea"
+sourceContentHash: "f56f54647cceaee8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

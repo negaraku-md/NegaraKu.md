@@ -34,7 +34,7 @@ obligations:
     consequence: "s.26A(2) के तहत RM50,000 तक जुर्माना या तीन वर्ष का कारावास, साथ ही s.26A(3) के तहत 10%, 25% फिर 40% का विलंब-भुगतान दंड"
 
 lang: "hi"
-sourceContentHash: "08a2fb22e81e604e"
+sourceContentHash: "b4df272d36ba97ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

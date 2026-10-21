@@ -26,7 +26,7 @@ verificationNeeded:
   - "لم يجرِ التحقّق من الإعفاء داخل المجموعة للخدمات المهنية ولا من أيّ حدٍّ نسبي على الخدمات المقدَّمة لأطراف غير مرتبطة — لا تعتمد على الرقم الشائع تداوله"
 
 lang: "ar"
-sourceContentHash: "fdaf544799e718b4"
+sourceContentHash: "725cdd0f019572ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

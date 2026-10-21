@@ -53,7 +53,7 @@ obligations:
     consequence: "10%에서 25%, 40%로 올라가는 가산세와, 최대 RM50,000의 벌금 또는 3년 이하의 징역"
 
 lang: "ko"
-sourceContentHash: "3746823d8f4516ea"
+sourceContentHash: "f56f54647cceaee8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

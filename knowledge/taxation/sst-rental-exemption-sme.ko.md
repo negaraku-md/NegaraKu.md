@@ -33,7 +33,7 @@ faq:
     a: "아닙니다. 서비스세는 2025년 7월 1일 이후 제공된 임대 또는 리스 서비스에 적용됩니다. 그 날짜 이전 기간에 관한 임대료는 송장 발행 시점이나 지급 시점과 무관하게 과세되지 않습니다. 정부는 또한 준수를 위해 조치를 취하는 사업체에 대해 2025년 12월 31일까지 기소나 가산세를 부과하지 않겠다고 발표하여, 등록하고 시스템을 조정할 유예 기간을 주었습니다."
 
 lang: "ko"
-sourceContentHash: "58ee2a784ad7e751"
+sourceContentHash: "ae8701a505975ba0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

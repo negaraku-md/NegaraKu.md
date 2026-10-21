@@ -41,7 +41,7 @@ obligations:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "07b54b26f9327d7f"
+sourceContentHash: "4709bc9ffa6de97e"
 
 status: "published"
 aiAssisted: true

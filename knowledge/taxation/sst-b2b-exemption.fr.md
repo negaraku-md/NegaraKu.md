@@ -26,7 +26,7 @@ verificationNeeded:
   - "Intra-group relief for professional services and any percentage limit on services provided to unconnected parties was not verified — do not rely on the commonly quoted figure"
 
 lang: "fr"
-sourceContentHash: "fdaf544799e718b4"
+sourceContentHash: "725cdd0f019572ba"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -60,7 +60,7 @@ obligations:
     statute: "Service Tax Act 2018, First Schedule"
 
 lang: "ta"
-sourceContentHash: "7320d2549d294308"
+sourceContentHash: "cff6143d9061735b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -56,7 +56,7 @@ obligations:
     consequence: "점증하는 지연 납부 가산세와 기소"
 
 lang: "ko"
-sourceContentHash: "d706192580f6eecf"
+sourceContentHash: "a3f89718dc20f95c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

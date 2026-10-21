@@ -26,7 +26,7 @@ verificationNeeded:
   - "P.U.(A) 125/2026의 전체 본문은 입수하지 못했으며, 그 제목과 2026년 1월 1일 발효는 법무장관실(AGC) 입법 포털과 서비스세 정책 제2/2025호(개정 제3호)의 해당 2% 면제로부터 확인함"
 
 lang: "ko"
-sourceContentHash: "a8607ba4409fa9bf"
+sourceContentHash: "efabafee1422fbc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
