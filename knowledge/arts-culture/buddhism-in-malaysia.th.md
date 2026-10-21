@@ -54,6 +54,7 @@ sources:
     publisher: "ยุวพุทธิกสมาคมแห่งมาเลเซีย (YBAM)"
 
 entity: "Buddhism in Malaysia"
+wikidata: "Q4984224"
 relations:
   - { rel: "related-to", to: "wesak" }
   - { rel: "related-to", to: "chinese-religion-in-malaysia" }

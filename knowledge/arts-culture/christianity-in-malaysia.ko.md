@@ -59,6 +59,7 @@ sources:
     date: "2023-05-15"
 
 entity: "Christianity in Malaysia"
+wikidata: "Q5110544"
 relations:
   - { rel: "related-to", to: "article-3-religion" }
   - { rel: "related-to", to: "christmas-malaysia" }

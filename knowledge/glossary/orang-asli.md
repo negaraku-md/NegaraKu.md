@@ -78,6 +78,7 @@ sources:
     publisher: "Pejabat Peguam Negara (AGC)"
 
 entity: "Orang Asli"
+wikidata: "Q254387"
 relations:
   - { rel: "administered-by", to: "jakoa" }
   - { rel: "explained-in", to: "aboriginal-peoples-act-1954" }

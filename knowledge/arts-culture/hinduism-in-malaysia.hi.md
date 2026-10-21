@@ -55,6 +55,7 @@ sources:
     publisher: "मलेशिया हिंदू संगम (MHS)"
 
 entity: "Hinduism in Malaysia"
+wikidata: "Q2344682"
 relations:
   - { rel: "related-to", to: "tamil-in-malaysia" }
   - { rel: "related-to", to: "deepavali" }
