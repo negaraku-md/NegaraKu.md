@@ -171,6 +171,26 @@ the country and what pass you hold — worth starting on once the first three
 items are settled, not left until your existing licence's recognition period
 is about to run out.
 
+## Which guide you need
+
+Once you know which family your pass falls into, go deep on the specific route —
+and on the errands that follow once you have landed.
+
+| If your situation is | Read |
+| --- | --- |
+| Checking whether you even need a visa to enter | [Who needs a visa to enter Malaysia](/en/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| Hired by a Malaysian employer | [The Employment Pass](/en/settling-in/employment-pass) |
+| Sent on temporary assignment by an overseas employer | [The Professional Visit Pass](/en/settling-in/professional-visit-pass) |
+| Bringing a spouse or children | [Dependant and long-term social visit passes](/en/settling-in/dependant-social-visit-passes) |
+| Coming to study | [The Student Pass](/en/settling-in/student-pass) |
+| Working remotely as a digital nomad | [DE Rantau, the digital nomad pass](/en/settling-in/de-rantau-nomad-pass) |
+| Retiring or relocating on your own funds | [MM2H long-stay visa](/en/settling-in/mm2h-long-stay-visa), or the [Premium Visa Programme (PVIP)](/en/settling-in/premium-visa-programme-pvip) |
+| Aiming for permanent residency or citizenship | [Permanent residency (MyPR)](/en/settling-in/permanent-residency-malaysia), then [citizenship by registration](/en/settling-in/malaysian-citizenship-by-registration) |
+| Sorting your MyKad and identity documents | [MyKad, MyPR and MyKAS](/en/settling-in/mykad-and-identity-documents) |
+| Shipping your home — belongings, car, pets | [Shipping belongings and your car](/en/settling-in/shipping-belongings-and-car), and [bringing pets](/en/settling-in/bringing-pets-into-malaysia) |
+| Fixing an overstay or a blacklist entry | [Overstaying a pass: compounds and the blacklist](/en/settling-in/immigration-overstay-and-blacklist) |
+| Leaving Malaysia for good | [Tax clearance before you leave](/en/settling-in/leaving-malaysia-tax-clearance) |
+
 ## Common mistakes
 
 - **Booking the move before confirming pass eligibility.** The pass — not the
@@ -200,3 +220,9 @@ and [Mobile SIM Plans](/en/money-daily-life/mobile-sim-plans). If you'll be
 driving, see [Driving Licence for Foreigners](/en/transport/driving-licence-foreigners).
 And for the identity document you'll eventually hold if you become a
 permanent resident, see [MyKad](/en/glossary/mykad).
+
+Before you book anything, confirm whether your nationality needs a visa to enter
+at all — [who needs a visa to enter Malaysia](/en/settling-in/malaysia-entry-visa-requirements-by-nationality)
+sets out the visa-exempt, eVisa and eNTRI routes. And if a pass ever lapses while
+you are here, [overstaying a pass](/en/settling-in/immigration-overstay-and-blacklist)
+explains the compounds, the blacklist, and how to get off it.

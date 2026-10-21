@@ -130,3 +130,5 @@ For a pass this short, that 30-day clock arrives fast. A twelve-month secondment
 ## What's next
 
 If the arrangement is actually going to make the Malaysian company the employer, the right pass is the [Employment Pass](/en/settling-in/employment-pass), not a PVP stretched past its purpose. For a side-by-side of every route a foreign national can use to work in Malaysia — including the Employment Pass categories, the DE Rantau Nomad Pass and the Residence Pass-Talent — see [Malaysian Work Passes Compared](/en/employment/work-passes-malaysia). And for the department that administers all of them, see [Jabatan Imigresen Malaysia](/en/government/imigresen).
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

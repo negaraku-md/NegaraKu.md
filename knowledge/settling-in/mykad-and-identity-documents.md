@@ -181,3 +181,5 @@ Sosial Jangka Panjang](/settling-in/dependant-social-visit-passes). Dan bagi
 ibu bapa yang baru mendaftarkan kelahiran anak, langkah seterusnya —
 pendaftaran MyKid dan kemudian MyKad — dihuraikan dalam [Daftar Kelahiran
 Anak](/settling-in/registering-a-birth).
+
+Baru berpindah ke Malaysia? [Berpindah ke Malaysia: langkah pertama](/settling-in/moving-to-malaysia-first-steps) menyusun keseluruhan proses perpindahan — pas yang perlu, cara masuk, dan urusan pentadbiran minggu pertama — mengikut turutan yang mengelakkan jalan buntu.

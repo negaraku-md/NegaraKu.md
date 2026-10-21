@@ -147,3 +147,5 @@ Halaman ini tidak mengambil sebarang pendirian mengenai isu ini; ia hanya mencat
 - Rujuk teks rasmi **Perlembagaan Persekutuan** (cetakan semula Jabatan Peguam Negara) untuk perkataan sebenar Perkara 15, 15A, 16, 16A, 18 dan 26.
 - Kerana permohonan bersifat budi bicara dan tertakluk kepada keadaan individu, ramai pemohon merujuk peguam atau pertubuhan sokongan keluarga sebelum menyerahkan permohonan.
 - Draf ini ialah rangka undang-undang am dan menunggu semakan manusia; ia tidak menggantikan nasihat guaman atau maklumat rasmi daripada JPN.
+
+Baru berpindah ke Malaysia? [Berpindah ke Malaysia: langkah pertama](/settling-in/moving-to-malaysia-first-steps) menyusun keseluruhan proses perpindahan — pas yang perlu, cara masuk, dan urusan pentadbiran minggu pertama — mengikut turutan yang mengelakkan jalan buntu.

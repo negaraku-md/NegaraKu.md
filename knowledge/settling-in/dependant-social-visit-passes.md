@@ -98,3 +98,5 @@ For family sponsored off an Employment Pass, both the Dependant Pass and the LTS
 ## What's next
 
 For the sponsoring pass these both attach to, see [Malaysian Work Passes Compared](/en/employment/work-passes-malaysia) and [Employment Pass](/en/employment/employment-pass-malaysia). For the agency that issues and administers all of them, see [Jabatan Imigresen Malaysia](/en/government/imigresen). And for what a Dependant Pass unlocks once a family member is settled, see [Opening a Bank Account in Malaysia](/en/money-daily-life/opening-bank-account).
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

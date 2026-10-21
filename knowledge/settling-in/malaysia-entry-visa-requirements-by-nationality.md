@@ -164,3 +164,5 @@ Two cautions. First, the MDAC does not replace a visa: if your nationality needs
 - **Submit the MDAC** within the three-day window before departure, on the official portal only.
 - **If you need an eVisa,** apply on the [MYVISA portal](https://malaysiavisa.imi.gov.my/) at least two weeks ahead and keep the approval to show on arrival.
 - **Coming to work or study?** Neither a visa waiver, an eVisa nor eNTRI covers employment or study — arrange the correct employment pass or student pass before you travel.
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

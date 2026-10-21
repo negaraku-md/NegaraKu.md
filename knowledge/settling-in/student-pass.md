@@ -163,3 +163,5 @@ What isn't a single published figure is your total first-year cost. EMGS process
 ## What's next
 
 Once your Student Pass is endorsed and your i-Kad is in hand, the next practical steps are usually [opening a Malaysian bank account](/en/money-daily-life/opening-bank-account) and, if you'll be driving, sorting out a [driving licence as a foreigner](/en/transport/driving-licence-foreigners). For the agency behind the Student Pass endorsement itself, see [Jabatan Imigresen Malaysia](/en/government/imigresen).
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

@@ -112,3 +112,5 @@ Immediate family can come along: a spouse or common-law partner, children under 
 ## What's next
 
 Check that your passport has more than 14 months of validity, gather your income documents in English, and start the online application at mdec.my/derantau. Confirm current fees and rules against the official MDEC FAQ before you pay, since figures and requirements are updated periodically.
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

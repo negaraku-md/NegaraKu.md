@@ -203,3 +203,5 @@ For the immigration authority that ultimately approves and stamps the pass, see
 business in Malaysia is part of the plan, read
 [Visas for Business Owners](/en/business/malaysia-business-visa-comparison) before
 assuming MM2H covers it.
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

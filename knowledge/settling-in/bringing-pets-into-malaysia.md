@@ -110,3 +110,5 @@ Cats face no breed restriction beyond the general conditions above. Dogs do:
 Confirm your pet's origin country against DVS's current scheduled-country list, register in MAQIS's SPEED system early, and book quarantine space well before you need the e-Permit — the two are linked, and neither moves fast if the other is missing. If your dog falls into a restricted breed, start the Director-General approval process first, since it has to be cleared before the import permit application even opens.
 
 If you're relocating the whole household on an Employment Pass, sort out [dependants' passes](/en/settling-in/dependant-social-visit-passes) on the same timeline — pet quarantine dates and family pass approvals rarely land in the same week by accident.
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

@@ -166,3 +166,5 @@ The realistic takeaway: prevention is dramatically cheaper than cure. Alongside 
 - Read the related [Employment Pass](/en/settling-in/employment-pass/), [dependant and social visit passes](/en/settling-in/dependant-social-visit-passes/), and [Student Pass](/en/settling-in/student-pass/) guides to keep the underlying pass valid in the first place.
 
 *This is an AI-assisted draft for general information, not legal advice. Compound amounts, programmes, and enforcement practice change; confirm current figures with the Immigration Department of Malaysia before acting.*
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

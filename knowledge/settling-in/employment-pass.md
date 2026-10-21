@@ -154,3 +154,5 @@ None of this is something you, as the prospective employee, can start yourself. 
 If you're waiting on an offer to convert into a pass, ask your employer two direct questions early: is the company already ESD-registered and activated, and which category is the application being filed under. Both determine your realistic timeline far more than any single processing-day figure.
 
 For the current salary bands and category durations that decide which of the three tiers your offer falls into, see [the Employment Pass salary policy](/en/employment/employment-pass-malaysia). If you're comparing the Employment Pass against shorter-term options like the Professional Visit Pass, see [Malaysia's work passes compared](/en/employment/work-passes-malaysia).
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

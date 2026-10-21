@@ -115,3 +115,5 @@ These are submitted electronically, not over a JPJ counter — registration data
 ## What's next
 
 If you're relocating, treat these as two entirely separate projects on two different timelines: get quotes from a licensed international mover for the household shipment (Form K1 and inventory ready well before the container leaves), and — only if bringing your specific car really matters to you — check your Individual AP category with MITI before you commit to shipping the vehicle at all. For most expatriates, buying a car locally after arrival turns out simpler than clearing this path; once you have one, [driving in Malaysia as a foreigner](/en/transport/driving-licence-foreigners) and [dependant and social visit passes](/en/settling-in/dependant-social-visit-passes) cover the other pieces of settling in that tend to land in the same few weeks.
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.

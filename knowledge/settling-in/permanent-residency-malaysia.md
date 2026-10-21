@@ -167,3 +167,5 @@ The Entry Permit fee is modest — the Immigration Department's Entry Permit pag
 - **Separate the statuses in your planning.** If your goal is eventual citizenship, PR is the base you build from; MM2H is not, however long you hold it.
 
 *This is an AI-assisted draft compiled from official Immigration Department and Ministry of Home Affairs pages and reputable reporting. Immigration rules change and are applied at the department's discretion — verify current requirements with Jabatan Imigresen Malaysia before acting.*
+
+New to the country? [Moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) sequences the whole relocation — which pass to get, how to enter, and the first-week admin — in the order that avoids dead ends.
