@@ -1,7 +1,10 @@
 # negaraku.md
 
 An open-source, AI-friendly knowledge base about **Malaysia** — curated, cited Markdown that
-both people and large language models can read.
+both people and large language models can read, in **13 languages**.
+
+🌐 **Live site: [negaraku.md](https://negaraku.md)**  ·  🤗 **Open dataset: [huggingface.co/datasets/negaraku-md/negaraku-md](https://huggingface.co/datasets/negaraku-md/negaraku-md)**  ·  📊 **Wikidata: [Q141449495](https://www.wikidata.org/wiki/Q141449495)**
+
 Sponsored by [1company.com](https://www.1company.com). Styled with the 1company brand system
 (dark canvas + gold accent, Montserrat/Lato).
 
@@ -9,7 +12,9 @@ Sponsored by [1company.com](https://www.1company.com). Styled with the 1company 
   frontmatter), organised by category.
 - **Site** is built with [Astro](https://astro.build), deployed to GitHub Pages at
   `https://negaraku.md`.
-- **Languages**: Bahasa Malaysia (`ms`, default), English (`en`), Chinese (`zh`).
+- **Languages**: 13 — Bahasa Malaysia (`ms`, default), English (`en`), Chinese (`zh`),
+  Tamil (`ta`), Japanese (`ja`), Korean (`ko`), Thai (`th`), Vietnamese (`vi`),
+  Indonesian (`id`), Arabic (`ar`, RTL), Hindi (`hi`), Spanish (`es`), French (`fr`).
 
 ## Features
 
