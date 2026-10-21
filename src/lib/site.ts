@@ -17,7 +17,7 @@ export const CONTACT_FORM_ENDPOINT = '';
     defaults analytics_storage to 'denied' until then). See GoogleAnalytics.astro
     + ConsentBanner.astro. Keep the Privacy/Cookie policies (LegalView.astro) in
     sync with whatever this does. */
-export const GA_MEASUREMENT_ID = 'G-PLSR4CV12C';
+export const GA_MEASUREMENT_ID = 'G-KKQ57H11FV';
 
 /** The production host GA4 is allowed to run on (bare hostname, no scheme). */
 export const GA_HOST = 'negaraku.md';

@@ -20,7 +20,7 @@ stack, AI-friendly infra, Facebook auto-posting. The frontier now is **distribut
 ---
 
 ## 📈 Google Analytics 4 — LIVE 2026-10-20
-Consent-gated client-side GA4 (`G-PLSR4CV12C`) + 13-language opt-in banner + the
+Consent-gated client-side GA4 (`G-KKQ57H11FV`) + 13-language opt-in banner + the
 `/analytics` dashboard panel (fed from the GA4 Data API via the `gsc-reader` service
 account, reusing `GSC_SA_KEY`). Policies rewritten to disclose it. See `docs/GA4-SETUP.md`.
 - [x] Everything built, pushed, live; consent banner dismiss-bug fixed; duplicate GA account trashed.

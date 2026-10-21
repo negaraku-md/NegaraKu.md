@@ -4,7 +4,7 @@ NegaraKu.md runs **standard client-side GA4** (`gtag.js`, `_ga` cookies), but wi
 so it never fires without consent and never off production, and so it also feeds a
 panel on the on-site `/analytics` dashboard.
 
-- **Measurement ID:** `G-PLSR4CV12C` (public; in `src/lib/site.ts` as `GA_MEASUREMENT_ID`)
+- **Measurement ID:** `G-KKQ57H11FV` (public; in `src/lib/site.ts` as `GA_MEASUREMENT_ID`) — property `559513299`, account `NegaraKu.md`. (Was `G-PLSR4CV12C`, a stale ID pointing at no live property — fixed 2026-10-21.)
 - **GA account / property:** `412428755` / **`559513299`** (the numeric property id — the Data API uses `properties/559513299`, *not* the `G-` id)
 - **Property:** NegaraKu.md · Malaysia · Ringgit · web stream `NegaraKu.md Web` → `https://negaraku.md`
 
