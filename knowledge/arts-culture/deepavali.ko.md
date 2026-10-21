@@ -30,7 +30,7 @@ faq:
     a: "이 등불 — 흔히 디야(diya)라 불리는 작은 흙 또는 금속 등불 — 은 「빛의 축제」의 시각적 핵심입니다. 여러 줄의 등불을 문간과 창가에 밝히며, 이는 「한 줄의 빛」이라는 축제 이름의 뜻을 되울립니다."
 
 lang: "ko"
-sourceContentHash: "6b34554bb6701b65"
+sourceContentHash: "a70960b15c7e2517"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

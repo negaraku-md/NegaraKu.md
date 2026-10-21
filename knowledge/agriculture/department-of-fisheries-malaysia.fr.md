@@ -27,7 +27,7 @@ faq:
   - q: "Quelle loi le DOF administre-t-il ?"
     a: "Son statut principal est la loi sur la pêche de 1985 (Act 317), qui couvre la conservation, la gestion et le développement de la pêche et des pêcheries dans les eaux malaisiennes, y compris les licences, l'aquaculture, les mammifères aquatiques et les tortues."
 lang: "fr"
-sourceContentHash: "28c9963369f18b79"
+sourceContentHash: "8e62e7e42b18280c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

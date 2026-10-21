@@ -36,7 +36,7 @@ faq:
     a: "Non. L'article 2 exclut expressément la faune sauvage relevant de la Liste II de la neuvième annexe de la Constitution fédérale et de la Loi sur la pêche de 1985 (Fisheries Act 1985), de sorte que les espèces marines et la plupart des espèces halieutiques sont régies par d'autres textes."
 
 lang: "fr"
-sourceContentHash: "657883a3e9a64208"
+sourceContentHash: "b4c596ce48f3755c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

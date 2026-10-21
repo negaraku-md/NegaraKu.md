@@ -29,7 +29,7 @@ faq:
     a: "บ่อยครั้งไม่ได้ รีสอร์ตฝั่งตะวันออกและผู้ประกอบการเรือหลายรายระงับบริการโดยสมัครใจตั้งแต่ประมาณเดือนตุลาคมถึงกุมภาพันธ์เนื่องจากทะเลปั่นป่วนจากลมมรสุมตะวันออกเฉียงเหนือ"
 
 lang: "th"
-sourceContentHash: "baf74efaaf475bb1"
+sourceContentHash: "ea7ce50e8b808f2f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

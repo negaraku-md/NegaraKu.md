@@ -98,7 +98,7 @@ moving.
 | Situation | Number | Who answers |
 | --- | --- | --- |
 | Life-threatening emergency — police, fire, ambulance, civil defence, maritime | **999** (or **112** from any mobile, even with no credit or SIM) | MERS 999 call centre, Civil Defence Force |
-| You've just sent money to a scammer, or think you have | **997** | National Scam Response Centre — PDRM, Bank Negara Malaysia and MCMC working the case together |
+| You've just sent money to a scammer, or think you have | **997** | [National Scam Response Centre](/en/public-safety/national-scam-response-centre-nsrc) — PDRM, Bank Negara Malaysia and MCMC working the case together |
 | Phishing link, hacked account, suspicious SMS | **1-300-88-2999** (Cyber999) | MyCERT, CyberSecurity Malaysia |
 | Scam calls, spam SMS, spoofed telco numbers | **1800-188-030** | MCMC Consumer Care Centre |
 | Domestic abuse, child welfare, family crisis | **15999** (Talian Kasih, 24/7) | Ministry of Women, Family and Community Development |

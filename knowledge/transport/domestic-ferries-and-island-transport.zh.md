@@ -29,7 +29,7 @@ faq:
     a: "通常不能。许多东海岸度假村和船运营运商大约从10月到2月自愿暂停服务，因为东北季候风带来汹涌的海面。"
 
 lang: "zh"
-sourceContentHash: "baf74efaaf475bb1"
+sourceContentHash: "ea7ce50e8b808f2f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

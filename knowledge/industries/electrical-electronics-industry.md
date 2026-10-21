@@ -110,7 +110,7 @@ The Malaysian Investment Development Authority (MIDA), the federal agency that p
 
 | Segment | What it covers | Typical products |
 | --- | --- | --- |
-| Electronic components | The building blocks that go inside larger devices | Semiconductors (integrated circuits), passive components, connectors, printed circuit boards, LEDs |
+| Electronic components | The building blocks that go inside larger devices | [Semiconductors](/en/industries/semiconductor-industry) (integrated circuits), passive components, connectors, printed circuit boards, LEDs |
 | Industrial electronics | Electronics for machinery, business and infrastructure | Telecoms equipment, control systems, medical devices, computers, storage |
 | Consumer electronics | Finished goods for households | Televisions, audio equipment, cameras, home appliances |
 | Electrical products | Products that generate, distribute or use electricity | Wiring and cables, lighting, solar modules, home electrical appliances |

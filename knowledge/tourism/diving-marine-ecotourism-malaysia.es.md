@@ -31,7 +31,7 @@ faq:
     a: "Depende de la ubicación. Los parques marinos de la Malasia Peninsular y Labuan son federales, gestionados por el Departamento de Pesca de Malasia bajo la Ley de Pesca de 1985. Los parques de Sabah, incluida Sipadan, son gestionados por el organismo estatal Sabah Parks bajo una ley estatal aparte."
 
 lang: "es"
-sourceContentHash: "4a736d507026f7b4"
+sourceContentHash: "c84ad1c115fc50b3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

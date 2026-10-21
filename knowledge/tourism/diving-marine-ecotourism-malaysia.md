@@ -77,7 +77,7 @@ The clearest water in Malaysia is also the hardest to reach: to drop into Sipada
 
 There is no single "national dive authority." Jurisdiction is divided by geography.
 
-Marine parks in **Peninsular Malaysia and Labuan** are federal, managed by the **Department of Fisheries Malaysia (DOF)** under the **Fisheries Act 1985**. DOF gazettes the waters around 49 islands as marine parks, spread across five states and the federal territory of Labuan, with a protected zone running two nautical miles seaward from the lowest sea level (one nautical mile for some islands in Terengganu and Labuan).
+Marine parks in **Peninsular Malaysia and Labuan** are federal, managed by the **Department of Fisheries Malaysia (DOF)** under the **[Fisheries Act 1985](/en/law/fisheries-act-1985)**. DOF gazettes the waters around 49 islands as marine parks, spread across five states and the federal territory of Labuan, with a protected zone running two nautical miles seaward from the lowest sea level (one nautical mile for some islands in Terengganu and Labuan).
 
 **Sabah** is different. Its islands — including Sipadan and the reefs around Semporna — fall under the state agency **Sabah Parks**, which sets its own permits and rules. For a diver this distinction is not academic: the fee you pay, the permit you need, and who you must book through all depend on which side of the map you are on.
 

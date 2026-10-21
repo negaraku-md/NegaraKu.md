@@ -92,7 +92,7 @@ On the old rubber estates of Malaya, some of the earliest classrooms were sheds 
 
 That estate schoolroom is where the Tamil language enters the story of modern Malaysian schooling. More than a century later, Tamil is still taught as a medium of instruction in a network of government-supported primary schools, and its right to be used, taught and learned sits inside the country's constitutional framework.
 
-This article describes three things plainly: who speaks Tamil in Malaysia, how the Tamil-medium school system is organised, and where the language stands in law. It reports what the figures and the provisions say, without evaluating policy.
+This article describes three things plainly: who speaks Tamil in Malaysia, how the Tamil-medium [school system](/en/education/malaysian-school-system) is organised, and where the language stands in law. It reports what the figures and the provisions say, without evaluating policy.
 
 ## The community
 

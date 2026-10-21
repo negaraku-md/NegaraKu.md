@@ -37,7 +37,7 @@ faq:
     a: "एक Touch 'n Go कार्ड। यह Rapid KL की LRT, MRT, मोनोरेल, BRT और बसों में काम करता है। Rapid KL बसें नक़दी-रहित हैं, इसलिए बसों के लिए एक कार्ड (या ऐप) प्रभावी रूप से आवश्यक है।"
 
 lang: "hi"
-sourceContentHash: "df3f033b8e40fec3"
+sourceContentHash: "e428ae7cb3d3f8cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

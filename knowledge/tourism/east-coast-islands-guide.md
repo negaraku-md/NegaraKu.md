@@ -78,7 +78,7 @@ Perhentian, Redang, Kapas and Tioman are the four beach islands most travellers 
 
 ## What makes these islands "marine parks," and why does it matter to you?
 
-The protected zone is not just the beach. Malaysia's marine parks extend **generally two nautical miles from the lowest sea level** around each gazetted island — with a **one-nautical-mile** boundary for certain Terengganu islands — and they are managed by the **Department of Fisheries Malaysia** under the **Fisheries Act 1985 (Amended 1993)**. Nationwide, **49 islands** are gazetted as marine parks.
+The protected zone is not just the beach. Malaysia's marine parks extend **generally two nautical miles from the lowest sea level** around each gazetted island — with a **one-nautical-mile** boundary for certain Terengganu islands — and they are managed by the **Department of Fisheries Malaysia** under the **[Fisheries Act 1985](/en/law/fisheries-act-1985) (Amended 1993)**. Nationwide, **49 islands** are gazetted as marine parks.
 
 On the east coast, Terengganu's marine parks cover four archipelagos — **Pulau Redang, Pulau Perhentian, Pulau Kapas and Pulau Tenggol** — while Pahang's **Tioman** marine park is a cluster of **nine islands**: Pulau Tioman, Pulau Tulai, Pulau Labas, Pulau Sepoi, Pulau Seri Buat, Pulau Tokong Bahara, Pulau Gut, Pulau Cebeh and Pulau Sembilang.
 
@@ -134,7 +134,7 @@ Operators also enforce additional in-water restrictions — such as limits on hi
 
 ## Why does almost everything close in the monsoon?
 
-The east coast faces the South China Sea, and from roughly **November to February** the **northeast monsoon** drives turbulent seas and heavy rain across Terengganu and Pahang. Sea crossings become unsafe and small-boat transfers unreliable.
+The east coast faces the South China Sea, and from roughly **November to February** the **[northeast monsoon](/en/environment/northeast-monsoon)** drives turbulent seas and heavy rain across Terengganu and Pahang. Sea crossings become unsafe and small-boat transfers unreliable.
 
 There is no blanket government order to shut down. Instead, operators close voluntarily. Terengganu's state tourism office has said that hotels, resorts and guesthouses on the state's recreational islands — Redang, Perhentian, Kapas and Gemia among them — **suspend operations from October to February** for the monsoon, citing tourist safety in uncertain weather and turbulent seas, and using the downtime for repairs and maintenance.
 

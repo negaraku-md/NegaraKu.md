@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่อาศัยอยู่ในหรือมาเยือนมาเลเซียที่ต้องการทราบว่าจะโทรหมายเลขใดสำหรับเหตุฉุกเฉินจริงเทียบกับการหลอกลวงทางการเงิน และวิธีสังเกตรูปแบบการหลอกลวงที่พบบ่อยที่สุดก่อนที่เงินจะเปลี่ยนมือ"
 
 lang: "th"
-sourceContentHash: "9fc1856c9ea17a12"
+sourceContentHash: "53fc1cdfd4b558fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

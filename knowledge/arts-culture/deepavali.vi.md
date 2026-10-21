@@ -30,7 +30,7 @@ faq:
     a: "Những ngọn đèn — đèn nhỏ bằng đất sét hoặc kim loại thường gọi là diya — là trọng tâm thị giác của một «lễ hội ánh sáng». Từng hàng đèn được thắp lên ở ngưỡng cửa và cửa sổ, hô ứng với ý nghĩa của tên lễ hội, «một hàng đèn»."
 
 lang: "vi"
-sourceContentHash: "6b34554bb6701b65"
+sourceContentHash: "a70960b15c7e2517"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

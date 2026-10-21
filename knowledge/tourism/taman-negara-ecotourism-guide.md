@@ -162,7 +162,7 @@ Taman Negara rewards a range of ambitions, from a gentle half-day to a week-long
 
 ## When should you go?
 
-Taman Negara is open all year, but the weather shapes the experience. The northeast monsoon, broadly **November to January**, brings heavy rain that can swell rivers, disrupt boats and turn trails to mud. Outside that window, conditions are generally drier and more comfortable for walking.
+Taman Negara is open all year, but the weather shapes the experience. The [northeast monsoon](/en/environment/northeast-monsoon), broadly **November to January**, brings heavy rain that can swell rivers, disrupt boats and turn trails to mud. Outside that window, conditions are generally drier and more comfortable for walking.
 
 Use this simple framework to decide:
 

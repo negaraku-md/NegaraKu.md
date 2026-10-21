@@ -23,7 +23,7 @@ appliesTo: "உண்மையான அவசரநிலைக்கும் 
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9fc1856c9ea17a12"
+sourceContentHash: "53fc1cdfd4b558fd"
 
 status: "published"
 aiAssisted: true

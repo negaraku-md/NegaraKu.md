@@ -215,7 +215,7 @@ Malaysia's islands are a highlight, and most are reached by **ferry or speedboat
 - **Tioman** (east coast): reached by catamaran/ferry from the mainland jetties at **Mersing** and **Tanjung Gemok** (the latter is tide-independent and generally more reliable), plus limited flights.
 - **Perhentian Islands** (east coast): reached by speedboat from the **Kuala Besut** jetty.
 
-Two cautions for island trips: **east-coast islands largely close down during the northeast monsoon** (roughly November to February), when boats stop and resorts shut; and ferry timetables shift seasonally and with the weather, so **confirm the day's schedule directly with the operator** and build in buffer time before a connecting flight.
+Two cautions for island trips: **east-coast islands largely close down during the [northeast monsoon](/en/environment/northeast-monsoon)** (roughly November to February), when boats stop and resorts shut; and ferry timetables shift seasonally and with the weather, so **confirm the day's schedule directly with the operator** and build in buffer time before a connecting flight.
 
 ## Which mode should I choose? A quick decision guide
 

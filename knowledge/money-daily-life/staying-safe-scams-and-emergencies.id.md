@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang tinggal di atau mengunjungi Malaysia yang ingin tahu nomor mana yang perlu dihubungi untuk keadaan darurat sebenarnya dibanding penipuan keuangan, dan cara mengenali pola penipuan yang paling umum sebelum uang berpindah tangan."
 
 lang: "id"
-sourceContentHash: "9fc1856c9ea17a12"
+sourceContentHash: "53fc1cdfd4b558fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

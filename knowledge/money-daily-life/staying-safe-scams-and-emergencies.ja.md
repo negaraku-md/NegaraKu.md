@@ -23,7 +23,7 @@ appliesTo: "マレーシアに住んでいる、あるいは訪れる人で、�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9fc1856c9ea17a12"
+sourceContentHash: "53fc1cdfd4b558fd"
 
 status: "published"
 aiAssisted: true

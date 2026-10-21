@@ -32,7 +32,7 @@ seoTitle: "말레이시아의 타밀어: 화자, SJKT 학교, 헌법적 지위"
 socialTitle: "말레이시아에서 타밀어는 어떻게 쓰이고, 가르쳐지고, 보호받는가"
 
 lang: "ko"
-sourceContentHash: "c45b4b0470d4ef3d"
+sourceContentHash: "1bdf48a0219ea1f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

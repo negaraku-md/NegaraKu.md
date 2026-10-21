@@ -27,7 +27,7 @@ faq:
   - q: "ما القانون الذي تديره DOF؟"
     a: "تشريعها الرئيسي هو قانون مصايد الأسماك لسنة 1985 (Act 317)، الذي يشمل حفظ وإدارة وتنمية الصيد والمصايد في المياه الماليزية، بما في ذلك الترخيص والاستزراع المائي والثدييات المائية والسلاحف."
 lang: "ar"
-sourceContentHash: "28c9963369f18b79"
+sourceContentHash: "8e62e7e42b18280c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

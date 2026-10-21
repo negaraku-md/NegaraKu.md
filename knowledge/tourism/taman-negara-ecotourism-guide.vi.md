@@ -37,7 +37,7 @@ faq:
     a: "Một cách độc đáo, vườn được chi phối bởi ba đạo luật bang thời thuộc địa — the Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 và (Terengganu) 1939 — chứ không phải National Parks Act 1980 của liên bang. Điều này là vì đất đai và lâm nghiệp là các vấn đề thuộc bang theo Hiến pháp Liên bang của Malaysia, nên đạo luật liên bang không áp dụng cho ba bang này."
 
 lang: "vi"
-sourceContentHash: "7e8c332e4dfbfd08"
+sourceContentHash: "ac00cd742dba6263"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -94,7 +94,7 @@ That last custom is not unique to Deepavali. The open house — *rumah terbuka* 
 
 ## A public holiday — in most of the country
 
-Deepavali is a gazetted **federal public holiday**. On the Cabinet Division's 2026 schedule of public holidays it is listed as *Hari Deepavali*, a federal holiday (marked "P" for *Persekutuan*), falling on **Sunday, 8 November 2026**.
+Deepavali is a gazetted **federal public holiday**. On the Cabinet Division's 2026 [schedule of public holidays](/en/malaysia/public-holidays-in-malaysia) it is listed as *Hari Deepavali*, a federal holiday (marked "P" for *Persekutuan*), falling on **Sunday, 8 November 2026**.
 
 The schedule attaches an asterisk to the entry — *tertakluk kepada perubahan*, "subject to change." That is not an administrative quirk. Because Deepavali is set by the Hindu calendar, its gazetted date, like the Muslim festival dates on the same list, can be adjusted, and the government confirms it closer to the time.
 

@@ -32,7 +32,7 @@ faq:
     a: "NSRC (தேசிய மோசடி பதிலளிப்பு மையம்) என்பது தேசிய நிதிக் குற்றத் தடுப்பு மையம் (National Financial Crime Prevention Centre, NFCC), PDRM, Bank Negara Malaysia, MCMC மற்றும் நிதி நிறுவனங்கள் மற்றும் தொலைத்தொடர்புத் தொழில்துறை ஆகியவற்றுக்கு இடையிலான கூட்டு முயற்சி ஆகும். ஆன்லைன் நிதி மோசடிக்கு எதிராக 997 உதவி எண் வழியாக விரைவாகப் பதிலளிக்கும் மையமாக, இது 14 October 2022 அன்று பிரதமர் துறையால் (Jabatan Perdana Menteri) அறிவிக்கப்பட்டது. இந்த நடவடிக்கையில் ஈடுபட்டுள்ள PDRM அலகுகளில் CCID ஒன்று."
 
 lang: "ta"
-sourceContentHash: "f171b62956bd59ac"
+sourceContentHash: "5adf5fe7922d0dff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

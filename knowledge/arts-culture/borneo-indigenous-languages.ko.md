@@ -34,7 +34,7 @@ faq:
     a: "네, 일부는 교육부의 모어 교육(Pupil's Own Language, POL) 프로그램 아래 보통 선택 과목으로 가르쳐집니다. 카다잔두순(Kadazandusun)은 1997년에 시작된 시범 사업 이래 사바의 공립학교에서 가르쳐지고 있으며, 이반은 사라왁의 학교에서 가르쳐집니다. 개설 여부는 수요와 정책이 정한 최소 학급 규모 충족에 달려 있습니다."
 
 lang: "ko"
-sourceContentHash: "641d60c83d47ef35"
+sourceContentHash: "d94b9d6d02d53a14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

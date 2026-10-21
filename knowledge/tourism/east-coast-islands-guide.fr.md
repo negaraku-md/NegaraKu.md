@@ -31,7 +31,7 @@ faq:
     a: "Non. La pêche est interdite à l'intérieur des limites du parc marin, et les visiteurs ne peuvent ramasser aucune partie d'un organisme marin — vivant ou mort — y compris les fragments de corail et les coquillages, ni toucher, piétiner ou endommager de quelque autre manière le corail."
 
 lang: "fr"
-sourceContentHash: "89c8e01029327a23"
+sourceContentHash: "e6efc5cebf8ca4dd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

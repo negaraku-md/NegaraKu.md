@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Seksyen 2 secara nyata mengecualikan hidupan liar yang termasuk di bawah Senarai II Jadual Kesembilan Perlembagaan Persekutuan dan di bawah Akta Perikanan 1985, jadi spesies marin dan kebanyakan spesies perikanan dikawal di tempat lain."
 
 lang: "ms"
-sourceContentHash: "657883a3e9a64208"
+sourceContentHash: "b4c596ce48f3755c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

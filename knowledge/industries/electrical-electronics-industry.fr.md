@@ -34,7 +34,7 @@ faq:
     a: "Des noms mondiaux comme Intel, AMD, Broadcom, Bosch et OSRAM opèrent ici, aux côtés de fabricants sous contrat (EMS) comme Jabil, Flex, Plexus, Sanmina et Benchmark, et de sociétés d'origine locale comme Inari Amertron."
 
 lang: "fr"
-sourceContentHash: "9eabbab560b9bf00"
+sourceContentHash: "d78e4c480094f7da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "Thường là không. Nhiều khu nghỉ dưỡng bờ đông và đơn vị vận hành thuyền tự nguyện ngừng dịch vụ từ khoảng tháng 10 đến tháng 2 vì biển động do gió mùa đông bắc."
 
 lang: "vi"
-sourceContentHash: "baf74efaaf475bb1"
+sourceContentHash: "ea7ce50e8b808f2f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

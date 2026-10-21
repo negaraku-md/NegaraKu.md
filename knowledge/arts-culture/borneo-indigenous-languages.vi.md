@@ -34,7 +34,7 @@ faq:
     a: "Có, một số được, theo chương trình Ngôn ngữ Của học sinh (Pupil's Own Language, POL) của Bộ Giáo dục, thường là một môn tự chọn. Kadazandusun đã được dạy trong các trường công lập ở Sabah kể từ một chương trình thí điểm bắt đầu năm 1997, và Iban được dạy trong các trường ở Sarawak. Sự sẵn có phụ thuộc vào nhu cầu và vào việc đáp ứng sĩ số lớp tối thiểu do chính sách đặt ra."
 
 lang: "vi"
-sourceContentHash: "641d60c83d47ef35"
+sourceContentHash: "d94b9d6d02d53a14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

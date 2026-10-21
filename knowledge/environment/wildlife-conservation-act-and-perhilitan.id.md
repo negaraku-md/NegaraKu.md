@@ -36,7 +36,7 @@ faq:
     a: "Tidak. Pasal 2 secara tegas mengecualikan satwa liar yang termasuk di bawah Daftar II Lampiran Kesembilan Konstitusi Federal dan di bawah Fisheries Act 1985, sehingga spesies laut dan kebanyakan spesies perikanan diatur di tempat lain."
 
 lang: "id"
-sourceContentHash: "657883a3e9a64208"
+sourceContentHash: "b4c596ce48f3755c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

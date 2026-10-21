@@ -30,7 +30,7 @@ faq:
     a: "ตะเกียง — ตะเกียงดินเผาหรือโลหะเล็ก ๆ ที่มักเรียกว่าดิยา (diya) — คือหัวใจทางสายตาของ 'เทศกาลแห่งแสงไฟ' มีการจุดเป็นแถวที่ประตูและหน้าต่าง สะท้อนความหมายของชื่อเทศกาล 'แถวของแสงไฟ'"
 
 lang: "th"
-sourceContentHash: "6b34554bb6701b65"
+sourceContentHash: "a70960b15c7e2517"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

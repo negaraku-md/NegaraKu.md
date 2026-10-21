@@ -30,7 +30,7 @@ faq:
     a: "Las lámparas — pequeñas lámparas de arcilla o metal a menudo llamadas diyas — son el corazón visual de un «festival de las luces». Se encienden hileras de ellas en puertas y ventanas, haciendo eco del significado del nombre del festival, «una hilera de luces»."
 
 lang: "es"
-sourceContentHash: "6b34554bb6701b65"
+sourceContentHash: "a70960b15c7e2517"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

@@ -34,7 +34,7 @@ faq:
     a: "Sí, algunas se enseñan, en el marco del programa Pupil's Own Language (POL) del Ministerio de Educación, por lo general como asignatura optativa. El kadazandusun se enseña en las escuelas públicas de Sabah desde un proyecto piloto que comenzó en 1997, y el iban se enseña en las escuelas de Sarawak. La disponibilidad depende de la demanda y de alcanzar el tamaño mínimo de clase fijado por la política."
 
 lang: "es"
-sourceContentHash: "641d60c83d47ef35"
+sourceContentHash: "d94b9d6d02d53a14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

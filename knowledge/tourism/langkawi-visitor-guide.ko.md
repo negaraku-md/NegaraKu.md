@@ -36,7 +36,7 @@ faq:
     a: "더 건조하고 잔잔한 구간은 대략 11월부터 3월까지로, 섬 호핑, 케이블카, 해변 시간에 가장 좋습니다. 9월과 10월은 대체로 가장 비가 많은 달이지만, 비는 보통 온종일 쏟아지기보다 짧은 열대성 소나기입니다."
 
 lang: "ko"
-sourceContentHash: "a1ed788de3d96eee"
+sourceContentHash: "ad6f749715127d7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -87,7 +87,7 @@ The Act — cited formally as **Act 716** — replaced the old Protection of Wil
 
 ## Where does the Act actually apply?
 
-Section 2 of Act 716 is blunt. The Act "applies to Peninsular Malaysia and the Federal Territory of Labuan" — and it does **not** apply to wildlife falling within List II of the Ninth Schedule of the Federal Constitution or under the Fisheries Act 1985.
+Section 2 of Act 716 is blunt. The Act "applies to Peninsular Malaysia and the Federal Territory of Labuan" — and it does **not** apply to wildlife falling within List II of the Ninth Schedule of the Federal Constitution or under the [Fisheries Act 1985](/en/law/fisheries-act-1985).
 
 Two consequences follow, and both matter in practice:
 

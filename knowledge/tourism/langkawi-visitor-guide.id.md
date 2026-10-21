@@ -36,7 +36,7 @@ faq:
     a: "Periode yang lebih kering dan tenang berlangsung sekitar November hingga Maret, yang paling cocok untuk island hopping, kereta gantung dan waktu di pantai. September dan Oktober cenderung menjadi bulan paling lembap, meski hujan biasanya berupa hujan tropis singkat dan bukan hujan sepanjang hari."
 
 lang: "id"
-sourceContentHash: "a1ed788de3d96eee"
+sourceContentHash: "ad6f749715127d7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

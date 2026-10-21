@@ -29,7 +29,7 @@ faq:
     a: "Selalunya tidak. Banyak resort dan pengendali bot pantai timur secara sukarela menggantung perkhidmatan dari sekitar Oktober hingga Februari kerana laut yang bergelora akibat monsun timur laut."
 
 lang: "ms"
-sourceContentHash: "baf74efaaf475bb1"
+sourceContentHash: "ea7ce50e8b808f2f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

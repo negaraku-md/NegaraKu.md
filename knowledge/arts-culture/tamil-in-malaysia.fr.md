@@ -32,7 +32,7 @@ seoTitle: "Le tamoul en Malaisie : locuteurs, écoles SJKT et statut constitutio
 socialTitle: "Comment le tamoul est parlé, scolarisé et protégé en Malaisie"
 
 lang: "fr"
-sourceContentHash: "c45b4b0470d4ef3d"
+sourceContentHash: "1bdf48a0219ea1f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

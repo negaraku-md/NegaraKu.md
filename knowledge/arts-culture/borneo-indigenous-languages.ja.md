@@ -34,7 +34,7 @@ faq:
     a: "はい、一部は教えられている。教育省の学生母語（Pupil's Own Language、POL）プログラムのもとで、通常は選択科目として教えられる。カダザンドゥスン語は1997年に始まった試験導入以来、サバ州の公立学校で教えられており、イバン語はサラワク州の学校で教えられている。開講の可否は需要と、政策で定められた最低クラス人数を満たすかどうかによって決まる。"
 
 lang: "ja"
-sourceContentHash: "641d60c83d47ef35"
+sourceContentHash: "d94b9d6d02d53a14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

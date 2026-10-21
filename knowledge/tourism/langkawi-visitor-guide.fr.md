@@ -36,7 +36,7 @@ faq:
     a: "La période la plus sèche et la plus calme va d'environ novembre à mars, la meilleure pour le saut d'île en île, le téléphérique et le temps de plage. Septembre et octobre sont généralement les mois les plus pluvieux, bien que la pluie prenne souvent la forme de brèves averses tropicales plutôt que de journées entières noyées sous l'eau."
 
 lang: "fr"
-sourceContentHash: "a1ed788de3d96eee"
+sourceContentHash: "ad6f749715127d7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

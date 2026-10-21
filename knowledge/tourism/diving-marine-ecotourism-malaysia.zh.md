@@ -31,7 +31,7 @@ faq:
     a: "视地点而定。西马与纳闽的海洋公园属于联邦管辖，由马来西亚渔业局依据《1985年渔业法令》管理。沙巴的公园（包括诗巴丹）则由州级机构沙巴公园依据另外的州法管理。"
 
 lang: "zh"
-sourceContentHash: "4a736d507026f7b4"
+sourceContentHash: "c84ad1c115fc50b3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

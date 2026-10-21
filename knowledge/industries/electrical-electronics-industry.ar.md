@@ -34,7 +34,7 @@ faq:
     a: "تعمل هنا أسماء عالمية مثل Intel وAMD وBroadcom وBosch وOSRAM، إلى جانب شركات التصنيع التعاقدي (EMS) مثل Jabil وFlex وPlexus وSanmina وBenchmark، وشركات محلية المنشأ من بينها Inari Amertron."
 
 lang: "ar"
-sourceContentHash: "9eabbab560b9bf00"
+sourceContentHash: "d78e4c480094f7da"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -23,7 +23,7 @@ appliesTo: "适用于居住在马来西亚或到访马来西亚、想知道遇�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9fc1856c9ea17a12"
+sourceContentHash: "53fc1cdfd4b558fd"
 
 status: "published"
 aiAssisted: true

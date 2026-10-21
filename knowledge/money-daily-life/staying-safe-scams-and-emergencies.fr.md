@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne vivant en Malaisie ou la visitant et souhaitant savoir quel numéro appeler pour une véritable urgence par opposition à une arnaque financière, et comment reconnaître les schémas d'arnaque les plus courants avant que l'argent ne change de mains."
 
 lang: "fr"
-sourceContentHash: "9fc1856c9ea17a12"
+sourceContentHash: "53fc1cdfd4b558fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

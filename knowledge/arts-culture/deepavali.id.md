@@ -30,7 +30,7 @@ faq:
     a: "Pelita-pelita itu — pelita kecil dari tanah liat atau logam yang sering disebut diya — adalah inti visual sebuah 'pesta cahaya'. Sederetan pelita dinyalakan di pintu masuk dan jendela, mencerminkan makna nama pesta ini, 'sederetan cahaya'."
 
 lang: "id"
-sourceContentHash: "6b34554bb6701b65"
+sourceContentHash: "a70960b15c7e2517"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

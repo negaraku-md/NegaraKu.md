@@ -31,7 +31,7 @@ faq:
     a: "場所によります。西マレーシアとラブアンの海洋公園は連邦管轄で、1985年漁業法（Fisheries Act 1985）のもとマレーシア漁業局が管理します。シパダンを含むサバ州の公園は、別個の州法のもとで州機関サバ・パークスが管理します。"
 
 lang: "ja"
-sourceContentHash: "4a736d507026f7b4"
+sourceContentHash: "c84ad1c115fc50b3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -176,7 +176,7 @@ This is the decision most Malaysia beach trips come down to, and the two coasts 
 | | Langkawi (west) | East-coast islands (Perhentian / Redang / Tioman) |
 | --- | --- | --- |
 | Sea | Andaman Sea | South China Sea |
-| Best season | ~November–March (drier, calm) | ~March–October (many resorts close in the northeast monsoon) |
+| Best season | ~November–March (drier, calm) | ~March–October (many resorts close in the [northeast monsoon](/en/environment/northeast-monsoon)) |
 | Character | Large, developed duty-free island | Smaller, quieter, more rustic |
 | Signature draw | Geopark, cable car, mangroves, resorts, shopping | Snorkelling and diving, clear reef water |
 | Duty-free | Yes | Perhentian and Redang are not duty-free; Tioman is a designated duty-free island |

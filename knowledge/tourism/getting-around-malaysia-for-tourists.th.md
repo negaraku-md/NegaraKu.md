@@ -37,7 +37,7 @@ faq:
     a: "บัตร Touch 'n Go ใช้ได้กับ LRT MRT โมโนเรล BRT และรถบัสของ Rapid KL รถบัส Rapid KL ไม่รับเงินสด ดังนั้นบัตร (หรือแอป) จึงจำเป็นสำหรับรถบัสในทางปฏิบัติ"
 
 lang: "th"
-sourceContentHash: "df3f033b8e40fec3"
+sourceContentHash: "e428ae7cb3d3f8cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

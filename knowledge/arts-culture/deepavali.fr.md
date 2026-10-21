@@ -30,7 +30,7 @@ faq:
     a: "Les lampes — de petites lampes d'argile ou de métal souvent appelées diyas — sont le cœur visuel d'une « fête des lumières ». On en allume des rangées aux portes et aux fenêtres, en écho au sens du nom de la fête, « une rangée de lumières »."
 
 lang: "fr"
-sourceContentHash: "6b34554bb6701b65"
+sourceContentHash: "a70960b15c7e2517"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

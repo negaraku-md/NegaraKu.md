@@ -32,7 +32,7 @@ faq:
     a: "NSRC (Trung tâm Ứng phó Lừa đảo Quốc gia) là sự hợp tác giữa Trung tâm Quốc gia về Tội phạm Tài chính (NFCC), PDRM, Ngân hàng Trung ương Malaysia, MCMC cùng các tổ chức tài chính và ngành viễn thông. Nó được Văn phòng Thủ tướng công bố vào ngày 14 tháng 10 năm 2022 như một trung tâm ứng phó nhanh với lừa đảo tài chính trực tuyến qua đường dây 997. CCID là một trong các đơn vị của PDRM tham gia hoạt động này."
 
 lang: "vi"
-sourceContentHash: "f171b62956bd59ac"
+sourceContentHash: "5adf5fe7922d0dff"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

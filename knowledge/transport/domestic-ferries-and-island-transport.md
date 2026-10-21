@@ -129,7 +129,7 @@ These are local operations, so schedules, fares and jetties change; always confi
 
 ## When does the monsoon close the islands?
 
-This is the single biggest planning factor on the east coast. The **northeast monsoon** brings turbulent seas from the South China Sea, and most island resorts and boat services shut for it.
+This is the single biggest planning factor on the east coast. The **[northeast monsoon](/en/environment/northeast-monsoon)** brings turbulent seas from the South China Sea, and most island resorts and boat services shut for it.
 
 In Terengganu — home to Redang and Perhentian — hotels, resorts and guesthouses typically suspend operations from about **October to February**, using the downtime for repairs. The state does not order the closure; it is a voluntary safety decision by operators, "for the safety of tourists, especially due to the uncertainty of weather conditions and turbulent seas," as the state tourism director put it. Tioman ferries from Mersing similarly thin out or stop for days at a time during the monsoon months. Exact closure and reopening dates vary by island and operator.
 

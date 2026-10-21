@@ -153,7 +153,7 @@ Beyond the classroom, these languages carry the daily and ceremonial life of the
 
 **"These are dialects of Malay."** Almost all are Austronesian, the same broad family as Malay, but most belong to separate North Bornean branches and are not mutually intelligible with Malay. Iban is the closest, sitting in the wider Malayic group, yet it is still its own language.
 
-**"Indigenous languages have no place in the school system."** Several are formally taught. Kadazandusun has been a school subject since 1997 and Iban is taught in Sarawak, both under the Pupil's Own Language programme.
+**"Indigenous languages have no place in the [school system](/en/education/malaysian-school-system)."** Several are formally taught. Kadazandusun has been a school subject since 1997 and Iban is taught in Sarawak, both under the Pupil's Own Language programme.
 
 ## What's next
 

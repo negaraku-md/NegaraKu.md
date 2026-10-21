@@ -37,7 +37,7 @@ faq:
     a: "De façon singulière, le parc est régi par trois ordonnances d'État de l'époque coloniale — la Taman Negara Enactment (Pahang) 1939, (Kelantan) 1938 et (Terengganu) 1939 — plutôt que par la National Parks Act 1980 fédérale. Cela s'explique par le fait que la terre et la sylviculture sont des compétences des États en vertu de la Constitution fédérale de Malaisie, de sorte que la loi fédérale ne s'applique pas aux trois États."
 
 lang: "fr"
-sourceContentHash: "7e8c332e4dfbfd08"
+sourceContentHash: "ac00cd742dba6263"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

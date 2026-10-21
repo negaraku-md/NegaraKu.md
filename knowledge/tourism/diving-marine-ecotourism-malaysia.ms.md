@@ -31,7 +31,7 @@ faq:
     a: "Ia bergantung pada lokasi. Taman laut di Semenanjung Malaysia dan Labuan adalah persekutuan, diuruskan oleh Jabatan Perikanan Malaysia di bawah Akta Perikanan 1985. Taman di Sabah, termasuk Sipadan, diuruskan oleh agensi negeri Taman-Taman Sabah di bawah undang-undang negeri yang berasingan."
 
 lang: "ms"
-sourceContentHash: "4a736d507026f7b4"
+sourceContentHash: "c84ad1c115fc50b3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

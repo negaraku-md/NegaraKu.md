@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai sống tại hoặc đến thăm Malaysia muốn biết gọi số nào cho một trường hợp khẩn cấp thật so với một vụ lừa đảo tài chính, và cách nhận diện các mẫu lừa đảo phổ biến nhất trước khi tiền đổi chủ."
 
 lang: "vi"
-sourceContentHash: "9fc1856c9ea17a12"
+sourceContentHash: "53fc1cdfd4b558fd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

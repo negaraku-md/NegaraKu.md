@@ -36,7 +36,7 @@ faq:
     a: "नहीं। धारा 2 स्पष्ट रूप से संघीय संविधान की नौवीं अनुसूची की सूची II के तहत और मत्स्य पालन अधिनियम 1985 (Fisheries Act 1985) के तहत आने वाले वन्यजीवों को बाहर रखती है, इसलिए समुद्री और अधिकांश मत्स्य प्रजातियाँ अन्यत्र शासित होती हैं।"
 
 lang: "hi"
-sourceContentHash: "657883a3e9a64208"
+sourceContentHash: "b4c596ce48f3755c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

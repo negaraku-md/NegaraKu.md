@@ -36,7 +36,7 @@ faq:
     a: "不涵盖。第2条明文排除属于《联邦宪法》第九附表第二列以及《1985年渔业法令》管辖的野生动物，因此海洋及大多数渔业物种由其他法律管理。"
 
 lang: "zh"
-sourceContentHash: "657883a3e9a64208"
+sourceContentHash: "b4c596ce48f3755c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

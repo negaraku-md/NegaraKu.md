@@ -31,7 +31,7 @@ faq:
     a: "Tidak. Memancing dilarang di dalam batas taman laut, dan pengunjung tidak boleh mengambil bagian mana pun dari organisme laut — hidup atau mati — termasuk kepingan terumbu karang dan cangkang, serta tidak boleh menyentuh, menginjak atau merusak terumbu karang."
 
 lang: "id"
-sourceContentHash: "89c8e01029327a23"
+sourceContentHash: "e6efc5cebf8ca4dd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

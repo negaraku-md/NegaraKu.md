@@ -32,7 +32,7 @@ seoTitle: "Bahasa Tamil di Malaysia: Penutur, Sekolah SJKT, dan Status Konstitus
 socialTitle: "Bagaimana bahasa Tamil dituturkan, diajar, dan dilindungi di Malaysia"
 
 lang: "id"
-sourceContentHash: "c45b4b0470d4ef3d"
+sourceContentHash: "1bdf48a0219ea1f5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

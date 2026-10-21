@@ -30,7 +30,7 @@ faq:
     a: "هذه المصابيح — مصابيح صغيرة من الطين أو المعدن تُسمّى غالباً «ديا» (diyas) — هي القلب البصري لـ«عيد الأنوار». وتُضاء صفوف منها عند الأبواب والنوافذ، صدىً لمعنى اسم العيد، «صفّ من الأنوار»."
 
 lang: "ar"
-sourceContentHash: "6b34554bb6701b65"
+sourceContentHash: "a70960b15c7e2517"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
