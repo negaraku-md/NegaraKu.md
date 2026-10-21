@@ -26,9 +26,25 @@ GSC flagged **221 "Not found (404)"** + **3 "Redirect error"**. They are NOT all
 - **GSC redirect-errors (3)** — already re-validating in GSC (Validation started 10/9); they resolve 301→200, so no action.
 
 ### Remaining (not blocking)
-- `/favicon.ico` 404 — add `public/favicon.ico` (only `favicon.svg` exists). Cosmetic.
-- 4 edge URLs with no clean target (e.g. `/ko/company-secretary/company-secretary-duties-and-responsibilities` — slug doesn't exist) — left to decay.
-- The 6 unlinked slugs (`public-holidays-in-malaysia`, `malaysian-school-system`, `fisheries-act-1985`, `northeast-monsoon`, `national-scam-response-centre-nsrc`, `semiconductor-industry`) are **content gaps** — consider creating these as articles.
+- ~~`/favicon.ico` 404~~ — **DONE**: `public/favicon.ico` now exists alongside `favicon.svg`.
+- ~~The 6 unlinked slugs are content gaps~~ — **DONE**: all 6 (`public-holidays-in-malaysia`,
+  `malaysian-school-system`, `fisheries-act-1985`, `northeast-monsoon`,
+  `national-scam-response-centre-nsrc`, `semiconductor-industry`) were created as real articles
+  (13 locales each) and inbound links wired (commit `2782100e5`).
+
+### Resolved 2026-10-21 (held for push)
+The "4 unresolved" edge URLs were re-checked now that the content gaps are filled:
+- `/ms/semiconductor-industry` + `/id/semiconductor-industry` — were redirected to the *related*
+  `electrical-electronics-industry` as a stopgap; now re-pointed to the **exact-match**
+  `/industries/semiconductor-industry/` article (published, 13 locales).
+- `/ms/environment/environmental-impact-assessment-eia` — already correctly redirected to
+  `…-eia-malaysia/` (slug-suffix mismatch), no change needed.
+- `/ko/company-secretary/company-secretary-duties-and-responsibilities` — no exact article exists;
+  added a redirect to the `/ko/company-secretary/` category hub (topically correct, avoids a hard
+  404 / soft-404). The closest articles are `appoint-company-secretary` + `company-secretary-qualification`.
+
+**The GSC-404 backlog is now fully worked through.** Open item is user-side only: click *Validate
+Fix* in Search Console for the redirect-errors + the newly-redirected URLs so Google re-crawls.
 
 ## 1. Redirect errors (3) — already fixed, Validate Fix in GSC
 
