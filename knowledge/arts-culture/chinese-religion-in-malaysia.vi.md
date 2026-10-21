@@ -1,0 +1,148 @@
+---
+topicId: MY-ART-0068
+title: "Tôn giáo người Hoa và Đạo giáo tại Malaysia"
+seoTitle: "Tôn giáo người Hoa và Đạo giáo tại Malaysia — Tín ngưỡng dân gian, thần minh và lễ hội"
+slug: "chinese-religion-in-malaysia"
+category: "arts-culture"
+subcategory: ["religion"]
+summary: "Một giới thiệu trung lập về tín ngưỡng dân gian người Hoa và Đạo giáo tại Malaysia: vì sao trong điều tra dân số chúng phần lớn bị xếp vào 'Phật giáo', đặc điểm hòa trộn Phật–Đạo–Nho với tục thờ cúng tổ tiên, các thần minh như Đại Bá Công và Ma Tổ, các lễ hội như lễ vía Cửu Hoàng Gia, miếu (tokong) và các tổ chức Đạo giáo."
+
+tier: "2"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "religion"
+
+answer: "Tín ngưỡng dân gian người Hoa và Đạo giáo là những thực hành phổ biến trong cộng đồng người Hoa Malaysia, nhưng điều tra dân số Malaysia không lập hạng mục riêng cho chúng — nhiều người thực hành được ghi nhận là Phật tử trong điều tra dân số, nên chúng phần lớn ẩn trong con số 'Phật giáo 18,7%'. Loại tín ngưỡng này hòa trộn ở mức cao: cùng một người có thể vừa lễ Phật, vừa cúng thần Đạo giáo và thần dân gian, vừa thờ cúng tổ tiên, ranh giới không rõ ràng. Các thần minh phổ biến gồm Đại Bá Công, Ma Tổ (Thiên Hậu), Quan Âm, Ngọc Hoàng Đại Đế và Quan Công; các lễ hội quan trọng gồm Tết Nguyên đán, lễ vía Cửu Hoàng Gia, lễ Trung Nguyên và tiết Thanh Minh. Miếu trong tiếng Mã Lai gọi là tokong. Tự do tôn giáo được bảo đảm theo Điều 11 của Hiến pháp Liên bang."
+keyTakeaways:
+  - "Điều tra dân số Malaysia không lập hạng mục riêng cho 'Đạo giáo/tín ngưỡng dân gian người Hoa', người thực hành phần lớn bị xếp vào Phật giáo (18,7%), nên không có con số chính thức riêng"
+  - "Đây là một tín ngưỡng hòa trộn ở mức cao: Phật giáo, Đạo giáo, tư tưởng Nho gia và tục thờ cúng tổ tiên thường song hành trong cùng một gia đình hoặc một cá nhân"
+  - "Các thần minh phổ biến gồm Đại Bá Công (Tua Pek Kong), Ma Tổ/Thiên Hậu, Quan Âm, Ngọc Hoàng Đại Đế và Quan Công; Đại Bá Công được xem là vị thần mang màu sắc bản địa, ngôi miếu cổ nhất ở Tanjung Tokong, Penang"
+  - "Các lễ hội quan trọng gồm Tết Nguyên đán, lễ vía Cửu Hoàng Gia, lễ Trung Nguyên (Vu Lan thắng hội), tiết Thanh Minh và Tết Trung Thu"
+  - "Miếu trong tiếng Mã Lai gọi là tokong; những nơi nổi tiếng gồm Thanh Vân Đình ở Melaka, Thiên Hậu Cung Lạc Thánh Lĩnh ở Kuala Lumpur, v.v.; các tổ chức như Tổng hội Đạo giáo Malaysia đại diện cho các đoàn thể Đạo giáo"
+appliesTo: "Bất kỳ ai muốn tìm hiểu về tín ngưỡng dân gian người Hoa và Đạo giáo tại Malaysia — tiêu chí thống kê, đặc điểm hòa trộn, thần minh, lễ hội và miếu."
+
+verificationNeeded:
+  - "Các danh xưng như 'cổ nhất', 'lớn nhất' của các miếu thờ thần minh (như Thanh Vân Đình, miếu Đại Bá Công ở Tanjung Tokong) hãy xác minh bằng tài liệu chính thức hoặc có thẩm quyền rồi mới khẳng định"
+  - "Tên đầy đủ, năm thành lập và chức năng của Tổng hội Đạo giáo Malaysia, hãy xác minh bằng tài liệu chính thức của tổ chức này và bổ sung trích dẫn"
+  - "Liệu các lễ hội như lễ vía Cửu Hoàng Gia có là ngày nghỉ lễ công cộng ở bất kỳ bang nào hay không, hãy xác minh trước khi xuất bản"
+
+lang: "vi"
+masterLanguage: "zh"
+translationStatus: "in-sync"
+sourceContentHash: "a2fc9e3e4b34ddd4"
+status: "in-review"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: null
+revision: 0
+revisions:
+  - revision: 0
+    date: 2026-10-21
+    change: "Bài gốc được viết bằng tiếng Trung làm ngôn ngữ chủ (có hỗ trợ của AI); đang chờ con người rà soát."
+    reviewer: null
+
+updated: 2026-10-21
+sources:
+  - title: "Điều tra Dân số và Nhà ở Malaysia 2020 — Những phát hiện chính (Population and Housing Census of Malaysia 2020)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/key-findings-population-and-housing-census-of-malaysia-2020-administrative-district"
+    publisher: "Cục Thống kê Malaysia (DOSM)"
+    date: "2022-02-01"
+  - title: "Hiến pháp Liên bang — Điều 3 và Điều 11 (Federal Constitution, Articles 3 & 11)"
+    url: "https://lom.agc.gov.my/federal-constitution.php"
+    publisher: "Văn phòng Tổng Chưởng lý (AGC)"
+
+entity: "Chinese folk religion and Taoism in Malaysia"
+relations:
+  - { rel: "related-to", to: "buddhism-in-malaysia" }
+  - { rel: "related-to", to: "chinese-new-year" }
+  - { rel: "related-to", to: "article-3-religion" }
+related: ["buddhism-in-malaysia", "chinese-new-year", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
+keywords: ["tôn giáo người Hoa Malaysia", "Đạo giáo Malaysia", "Chinese religion Malaysia", "Đại Bá Công", "Ma Tổ Malaysia", "lễ vía Cửu Hoàng Gia", "tín ngưỡng dân gian"]
+---
+
+Bước vào bất kỳ ngôi miếu người Hoa nào ở Malaysia, bạn rất có thể thấy Phật,
+thần Đạo giáo và thần dân gian cùng chung một không gian: giữa làn khói hương nghi
+ngút, có Quan Âm, có Ma Tổ, lại có cả Đại Bá Công đậm màu sắc bản địa. Sự đặt cạnh
+nhau ấy không phải là hỗn loạn, mà là diện mạo chân thực nhất của tín ngưỡng người
+Hoa Malaysia — **sự hòa trộn**.
+
+Chính vì sự hòa trộn, loại tín ngưỡng này rất khó được khuôn riêng trong thống kê.
+Để hiểu nó, trước hết phải bắt đầu từ một khoảng trống trong thống kê.
+
+## Khoảng trống trong thống kê
+
+Điều tra dân số Malaysia **không** lập hạng mục riêng cho "Đạo giáo" hay "tín
+ngưỡng dân gian người Hoa". Nhiều người Hoa trong đời thường cúng thần, cúng tổ
+tiên, khi điều tra dân số sẽ tự ghi mình là **Phật tử**. Vì vậy, người thực hành
+tín ngưỡng dân gian người Hoa và Đạo giáo phần lớn ẩn trong con số "Phật giáo
+18,7%" này, mà không có con số chính thức riêng.
+
+Đây cũng là lý do vì sao khi bàn về tín ngưỡng người Hoa Malaysia, Phật giáo và
+tín ngưỡng dân gian thường khó tách bạch rạch ròi. Về ba truyền thống lớn của bản
+thân Phật giáo, xem thêm [Phật giáo tại Malaysia](/vi/arts-culture/buddhism-in-malaysia)。
+
+## Tín ngưỡng hòa trộn
+
+Đối với nhiều gia đình người Hoa, Phật giáo, **Đạo giáo**, tư tưởng Nho gia và
+**tục thờ cúng tổ tiên** không phải là những lựa chọn loại trừ lẫn nhau, mà là một
+tập hợp thực hành song hành cùng lúc. Cùng một người có thể thắp hương vào mồng một
+và ngày rằm, tảo mộ tiết Thanh Minh, và cũng đến tự viện lễ Phật vào ngày Phật
+đản. Sự hòa trộn này chính là đặc trưng cốt lõi của tín ngưỡng dân gian người Hoa.
+
+> NegaraKu.md chỉ mô tả các dữ kiện về những thực hành và miếu này, không diễn giải
+> hay đánh giá ý nghĩa tôn giáo của bất kỳ tín ngưỡng nào.
+
+## Thần minh
+
+Các miếu người Hoa Malaysia thờ phụng nhiều thần minh, trong đó phổ biến gồm:
+
+- **Đại Bá Công (Tua Pek Kong)** — vị thần mang màu sắc bản địa đậm nét; tương
+  truyền ngôi miếu Đại Bá Công cổ nhất ở Tanjung Tokong, Penang, tín ngưỡng về sau
+  lan truyền đến khắp Malaysia, Singapore và Indonesia.
+- **Ma Tổ (Thiên Hậu)** — vị thần của hàng hải và che chở, đặc biệt được tôn sùng
+  trong các cộng đồng người Hoa ven biển.
+- **Quan Âm (Quán Thế Âm Bồ Tát)** — biểu tượng của lòng từ bi, trải khắp cả Phật
+  giáo và tín ngưỡng dân gian.
+- **Ngọc Hoàng Đại Đế, Quan Công (Quan Đế)** và những vị khác cũng được thờ phụng
+  rộng rãi.
+
+## Lễ hội
+
+- **Tết Nguyên đán** — ngoài ý nghĩa văn hóa, còn bao gồm các yếu tố tôn giáo như
+  thờ cúng tổ tiên và cầu phúc, xem
+  [Tết Nguyên đán](/vi/arts-culture/chinese-new-year)。
+- **Lễ vía Cửu Hoàng Gia** — lễ hội của tín ngưỡng Cửu Hoàng Gia, nổi tiếng nhất
+  với các hội miếu ở Ampang (Kuala Lumpur) và Penang.
+- **Lễ Trung Nguyên (Vu Lan thắng hội)** — tục gọi là "lễ cô hồn", cộng đồng người
+  Hoa cúng tế và cầu siêu vào tháng Bảy âm lịch.
+- **Tiết Thanh Minh** — mùa tảo mộ và thờ cúng tổ tiên; **Tết Trung Thu** thì vừa
+  mang ý nghĩa văn hóa vừa mang ý nghĩa dân gian.
+
+## Miếu và tổ chức
+
+Miếu trong tiếng Mã Lai gọi là **tokong**. Những nơi nổi tiếng gồm **Thanh Vân
+Đình** ở Melaka, **Thiên Hậu Cung Lạc Thánh Lĩnh** ở Kuala Lumpur, v.v., phản ánh
+đời sống tín ngưỡng thời kỳ đầu của người Hoa di cư. Ở cấp độ tổ chức, các đoàn thể
+như **Tổng hội Đạo giáo Malaysia** đại diện cho các tổ chức Đạo giáo, thúc đẩy việc
+liên kết và chuẩn hóa; nhưng phần lớn miếu vẫn đăng ký và quản lý độc lập.
+
+## Những hiểu lầm phổ biến
+
+- **"Người Hoa đều là Phật tử."** Thực hành của nhiều người Hoa thực ra đã hòa trộn
+  Phật giáo, Đạo giáo và tín ngưỡng dân gian; điều tra dân số phần lớn xếp họ vào
+  Phật giáo, nhưng điều này không đồng nghĩa với Phật giáo theo nghĩa nghiêm ngặt.
+- **"Đạo giáo và Phật giáo đối lập nhau."** Trong thực hành đời thường của người
+  Hoa Malaysia, hai bên thường song hành không mâu thuẫn.
+- **"Tôn giáo đồng nghĩa với sắc tộc."** Tôn giáo và sắc tộc là hai chuyện khác
+  nhau, điều tra dân số thống kê riêng biệt cả hai.
+
+## Tiếp theo là gì
+
+Về ba truyền thống lớn của Phật giáo, xem
+[Phật giáo tại Malaysia](/vi/arts-culture/buddhism-in-malaysia)。 Về phân bố tổng
+thể dân số tôn giáo toàn quốc, xem
+[Thống kê dân số tôn giáo Malaysia](/vi/malaysia/religion-statistics)。 Về khung
+tôn giáo và pháp lý, xem [Điều 3 Hiến pháp và tôn giáo](/vi/law/article-3-religion)。
+Giới thiệu tổng quan về các tôn giáo lớn khác, xem thêm
+[Kitô giáo tại Malaysia](/vi/arts-culture/christianity-in-malaysia) và
+[Ấn Độ giáo tại Malaysia](/vi/arts-culture/hinduism-in-malaysia)。
