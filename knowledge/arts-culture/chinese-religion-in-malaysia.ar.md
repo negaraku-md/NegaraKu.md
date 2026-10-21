@@ -29,7 +29,7 @@ lang: "ar"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 sourceContentHash: "064f8073d8ee230f"
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-10-21

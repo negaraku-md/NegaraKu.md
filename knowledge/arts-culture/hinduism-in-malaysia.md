@@ -30,7 +30,7 @@ lang: "ta"
 masterLanguage: "ta"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-10-21
