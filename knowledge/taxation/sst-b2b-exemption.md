@@ -149,6 +149,8 @@ under s.24 of the Act.
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 Map each inbound taxable service against the item you supply onward, and confirm
 the counterparty's registration before accepting an invoice without tax. Where
 tax was charged and B2B should have applied, correct it by credit note under

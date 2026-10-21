@@ -297,6 +297,8 @@ return. It is relief, not restitution — it deliberately under-compensates.
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 Settle three questions in order: are your goods taxable or exempt, are you a
 manufacturer above RM500,000, and do your inputs bear tax you could relieve
 under Schedule B or Schedule C. Only the third is discretionary, and it is the

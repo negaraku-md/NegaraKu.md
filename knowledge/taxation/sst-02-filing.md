@@ -176,6 +176,8 @@ the real reason to settle before day ninety.
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 Confirm which two-month cycle you sit in — it is set by your registration date,
 not your financial year — and put the return and the payment on one reminder. If
 you are already late, identify your thirty-day band before deciding what to pay:

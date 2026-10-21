@@ -181,4 +181,6 @@ Because the statute is durable but its rates and scope change with each budget, 
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 For the practical mechanics, confirm current rates, thresholds and taxable-service categories against RMCD's **[MySST portal](https://mysst.customs.gov.my/)** and the latest orders made under the Act, and read the primary statute text at the **[Attorney General's Chambers](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**. Because rates and scope move with each federal budget, always check whether a later budget has superseded the figures here before acting on them.

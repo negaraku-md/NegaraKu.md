@@ -288,6 +288,8 @@ the incorporation of goods into buildings.
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 Identify every group your revenue touches, then run each one against its own
 threshold on a rolling twelve-month basis with exempt revenue included. If you
 crossed a line in a past month, work out the date liability arose before you

@@ -97,6 +97,8 @@ is wasted effort.
 | How and when do I file? | [Filing SST-02](/en/taxation/sst-02-filing) |
 | Can I avoid tax on services bought from another registered business? | [The SST B2B exemption](/en/taxation/sst-b2b-exemption) |
 | I bought services from a supplier outside Malaysia | [Imported taxable services and SST-02A](/en/taxation/imported-taxable-services) |
+| I rent commercial space as a small business | [The SST rental exemption for SMEs](/en/taxation/sst-rental-exemption-sme) |
+| I want the underlying statute on services | [The Service Tax Act 2018](/en/taxation/service-tax-act-2018) |
 
 ## Three things worth knowing before you read any of them
 
@@ -128,7 +130,7 @@ Malaysian companies buying foreign software and professional services.
 
 ## What's next
 
-Start with registration if you are unsure whether you are in scope at all, since
-that answer determines everything else. If you already know you are registered
-and simply need the current rate for a service group, go straight to the rate
-and threshold reference.
+Start with [registration](/en/taxation/sst-registration) if you are unsure whether
+you are in scope at all, since that answer determines everything else. If you
+already know you are registered and simply need the current rate for a service
+group, go straight to the [rate and threshold reference](/en/taxation/sst-rate-table).

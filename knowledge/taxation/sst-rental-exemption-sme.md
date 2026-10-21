@@ -142,6 +142,8 @@ A tenant who is charged service tax but believes it is exempt should raise the M
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 If you are a **tenant**, the practical move is to check whether you qualify as a small business and, if so, register the exemption through MyPMK before accepting an 8% charge on your rent. If you are a **landlord**, track your 12-month taxable rental against the RM1 million threshold, register with Customs if you cross it, and be ready to honour valid SME exemption declarations from your tenants.
 
 Because the expanded SST has been revised more than once — the threshold moved from RM500,000 to RM1 million, and the government has continued to refine the rules in response to feedback — treat any figure here as a starting point and confirm the current rate, threshold and exemption conditions on the RMCD MySST portal or with a tax adviser before you sign or price a lease. For the wider picture, see the related guides on the 1 July 2025 service tax expansion, on SST registration thresholds by service group, and on the B2B exemption that keeps tax from stacking along a supply chain.

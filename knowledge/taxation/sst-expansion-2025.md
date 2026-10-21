@@ -492,6 +492,8 @@ exempt only from 1 July to 30 September 2025.
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 Work out which group each revenue stream falls into before anything else — the
 group determines the rate, the threshold and the return line. Then test each
 group separately against its own threshold, using the rolling twelve-month test

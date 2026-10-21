@@ -167,6 +167,8 @@ default.
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 Run a year of overseas supplier payments against the taxable service groups and
 identify which acquisitions fall in scope. If you find historical exposure,
 quantify the s.26A(3) penalty before deciding how to approach RMCD — the

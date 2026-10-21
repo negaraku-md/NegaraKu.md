@@ -176,6 +176,8 @@ day before commencement. Guidance published in that window is out of date.
 
 ## What's next
 
+New to SST? Start with [SST in Malaysia, explained](/en/taxation/sst-explained) to see how sales tax and service tax fit together.
+
 For sector-by-sector detail on the groups added in 2025, including transitional
 and non-reviewable contract relief, see the expansion guide. For how the
 thresholds are tested over a rolling twelve months, see the registration guide.
