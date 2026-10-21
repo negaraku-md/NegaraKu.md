@@ -24,7 +24,7 @@ appliesTo: "不确定在不同年龄阶段须持有哪张身份证的大马公�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "873639e4a7149ab4"
+sourceContentHash: "d417098ed0a05d22"
 status: "published"
 aiAssisted: true
 reviewer: null

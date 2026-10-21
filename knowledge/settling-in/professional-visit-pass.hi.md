@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "मलेशियाई कंपनियाँ जो किसी निश्चित कार्य के लिए विदेशी विशेषज्ञों, शोधकर्ताओं, प्रशिक्षुओं, स्वयंसेवकों या प्रदर्शकों की मेज़बानी करती हैं, और प्रायोजक HR या गतिशीलता टीमें जो उनकी ओर से दाखिल करती हैं।"
 
 lang: "hi"
-sourceContentHash: "8d251b7426f433be"
+sourceContentHash: "3825b81a5b37d905"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

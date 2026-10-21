@@ -19,7 +19,7 @@ keyTakeaways:
   - "वाहन पंजीकरण JPJ के तीन नियुक्त Gateway Providers में से एक के माध्यम से इलेक्ट्रॉनिक रूप से प्रस्तुत किया जाता है, जिसमें प्रति प्रस्तुति RM50 का JPJ सेवा शुल्क लगता है"
 appliesTo: "मलेशिया में स्थानांतरित होने वाला कोई भी व्यक्ति — लौटने वाले मलेशियाई, नए प्रवासी नियुक्त, MM2H प्रतिभागी — जो यह तय कर रहा है कि क्या भेजना है, और क्या व्यक्तिगत रूप से स्वामित्व वाली कार भेजना यथार्थवादी है।"
 lang: "hi"
-sourceContentHash: "322f701876a3d3fe"
+sourceContentHash: "1a35587b5de4590d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

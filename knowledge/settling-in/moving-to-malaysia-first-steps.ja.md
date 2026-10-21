@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 
 status: "published"
 aiAssisted: true
@@ -116,6 +116,25 @@ MM2Hは、以上のいずれとも一線を画す。なぜなら、誰もあな�
 
 **4. 運転免許——運転するなら。** 外国の運転免許をマレーシアのものに切り替えるには、国内での滞在期間と保有するパスに応じた独自の資格期間があり——最初の三つの項目が片付き次第、着手する価値がある。現在の免許の認証期間が切れかけるまで放置すべきではない。
 
+## どのガイドが必要か
+
+自分のパスがどちらの系統に属するかが分かったら、具体的なルート——そして入国後に続く雑用——を掘り下げよう。
+
+| あなたの状況 | 読むべきガイド |
+| --- | --- |
+| そもそも入国にビザが必要かどうかを確認する | [マレーシア入国にビザが必要なのは誰か](/ja/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| マレーシアの雇用主に雇用された | [エンプロイメントパス](/ja/settling-in/employment-pass) |
+| 海外の雇用主から一時的な派遣で送られた | [専門訪問パス](/ja/settling-in/professional-visit-pass) |
+| 配偶者や子どもを連れてくる | [帯同パスと長期社会訪問パス](/ja/settling-in/dependant-social-visit-passes) |
+| 留学のために来る | [学生パス](/ja/settling-in/student-pass) |
+| デジタルノマドとしてリモートで働く | [DE Rantau（デジタルノマドパス）](/ja/settling-in/de-rantau-nomad-pass) |
+| 自己資金で退職または移住する | [MM2H長期滞在ビザ](/ja/settling-in/mm2h-long-stay-visa)、または[プレミアムビザプログラム（PVIP）](/ja/settling-in/premium-visa-programme-pvip) |
+| 永住権または市民権を目指す | [永住権（MyPR）](/ja/settling-in/permanent-residency-malaysia)、続いて[登録による市民権取得](/ja/settling-in/malaysian-citizenship-by-registration) |
+| MyKadと身分証明書を整える | [MyKad、MyPR、MyKAS](/ja/settling-in/mykad-and-identity-documents) |
+| 家財を送る——荷物、車、ペット | [家財と車の輸送](/ja/settling-in/shipping-belongings-and-car)、および[ペットの持ち込み](/ja/settling-in/bringing-pets-into-malaysia) |
+| オーバーステイやブラックリスト登録を解消する | [パスのオーバーステイ：罰金とブラックリスト](/ja/settling-in/immigration-overstay-and-blacklist) |
+| マレーシアを完全に離れる | [出国前の税務クリアランス](/ja/settling-in/leaving-malaysia-tax-clearance) |
+
 ## よくある誤り
 
 - **パスの資格を確認する前に移住を予約すること。** 実際のクリティカルパスは航空券の日付ではなくパスであり、これがなければ以降のすべてが止まる。
@@ -127,3 +146,5 @@ MM2Hは、以上のいずれとも一線を画す。なぜなら、誰もあな�
 ## 次のステップ
 
 上記のほぼすべてのパス判断の背後にある機関については、[移民局](/ja/government/imigresen)を参照のこと。パスが確定したら、それに直接連動する二つの事務手続きは、[マレーシアでの銀行口座の開設](/ja/money-daily-life/opening-bank-account)と[携帯電話SIMプラン](/ja/money-daily-life/mobile-sim-plans)で扱っている。運転をする予定であれば、[外国人のための運転免許](/ja/transport/driving-licence-foreigners)を参照のこと。そして、永住者になった場合にいずれ保有することになる身分証明書については、[MyKad](/ja/glossary/mykad)を参照のこと。
+
+何かを予約する前に、そもそも自分の国籍で入国にビザが必要かどうかを確認しておこう——[マレーシア入国にビザが必要なのは誰か](/ja/settling-in/malaysia-entry-visa-requirements-by-nationality)が、ビザ免除、eVisa、eNTRIの各ルートを解説している。そして、滞在中にパスが失効してしまった場合には、[パスのオーバーステイ](/ja/settling-in/immigration-overstay-and-blacklist)が、罰金、ブラックリスト、そしてそこから抜け出す方法を説明している。

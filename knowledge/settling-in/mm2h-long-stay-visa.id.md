@@ -23,7 +23,7 @@ verificationNeeded:
   - "Situs MOTAC sendiri mengembalikan galat 403 kepada sebagian pengambil otomatis; angka di sini diperoleh melalui permintaan bergaya peramban langsung ke halaman kategori dan pedoman mm2h.gov.my dan dibandingkan silang terhadap tabel perbandingan Category Overview situs itu sendiri, tetapi program ini telah berubah secara signifikan sejak 2024 dan ketentuannya dapat ditinjau ulang — selalu pastikan angka terkini di mm2h.gov.my sebelum mengandalkannya untuk permohonan apa pun."
 
 lang: "id"
-sourceContentHash: "9a440d3b932f1d8e"
+sourceContentHash: "722c4d82da3ee8ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

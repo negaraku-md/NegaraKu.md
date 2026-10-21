@@ -22,7 +22,7 @@ appliesTo: "Pemegang Employment Pass yang membawa keluarga ke Malaysia, serta pa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "965187483a912200"
+sourceContentHash: "6b7b56cd73db65aa"
 
 status: "published"
 aiAssisted: true

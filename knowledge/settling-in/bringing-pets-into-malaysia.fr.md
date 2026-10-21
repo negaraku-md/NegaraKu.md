@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne s'installant en Malaisie avec un chien ou un chat, ou en faisant venir un à toute autre fin, et qui doit planifier la procédure de permis et de quarantaine avant le départ."
 
 lang: "fr"
-sourceContentHash: "10bc44ecb02ea814"
+sourceContentHash: "f0c824b1e97a05f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

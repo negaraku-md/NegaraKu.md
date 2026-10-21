@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "अपने परिवार को मलेशिया लाने वाले रोज़गार पास (Employment Pass) धारक, तथा प्रायोजित किए जा रहे पति/पत्नी, बच्चे, माता-पिता या सास-ससुर।"
 
 lang: "hi"
-sourceContentHash: "965187483a912200"
+sourceContentHash: "6b7b56cd73db65aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

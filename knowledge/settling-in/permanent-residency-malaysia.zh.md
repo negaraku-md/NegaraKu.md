@@ -34,7 +34,7 @@ faq:
     a: "可以。上诉必须在拒绝信日期起30天内向内政部长提出，并附上上诉信、拒绝信及证明文件。"
 
 lang: "zh"
-sourceContentHash: "d074952166cefba5"
+sourceContentHash: "d34c1375724d20bd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

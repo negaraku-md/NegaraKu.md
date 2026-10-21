@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Titulaires d'Employment Pass qui font venir leur famille en Malaisie, et les conjoints, enfants, parents ou beaux-parents qui sont parrainés."
 
 lang: "fr"
-sourceContentHash: "965187483a912200"
+sourceContentHash: "6b7b56cd73db65aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

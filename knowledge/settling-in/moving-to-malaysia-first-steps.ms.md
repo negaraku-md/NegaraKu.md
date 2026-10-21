@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 
 status: "published"
 aiAssisted: true
@@ -183,6 +183,26 @@ anda telah berada di negara ini dan pas apa yang anda pegang — berbaloi
 dimulakan sebaik sahaja tiga perkara pertama selesai, bukan dibiarkan
 sehingga tempoh pengiktirafan lesen sedia ada anda hampir tamat.
 
+## Panduan yang anda perlukan
+
+Sebaik sahaja anda tahu keluarga mana yang menjadi tempat pas anda, dalami laluan
+khusus itu — dan urusan yang menyusul sebaik sahaja anda mendarat.
+
+| Jika keadaan anda ialah | Baca |
+| --- | --- |
+| Menyemak sama ada anda memerlukan visa untuk masuk | [Siapa yang perlu visa untuk masuk ke Malaysia](/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| Diambil bekerja oleh majikan Malaysia | [Employment Pass](/settling-in/employment-pass) |
+| Dihantar atas penugasan sementara oleh majikan luar negara | [Professional Visit Pass](/settling-in/professional-visit-pass) |
+| Membawa pasangan atau anak | [Dependant Pass dan pas lawatan sosial jangka panjang](/settling-in/dependant-social-visit-passes) |
+| Datang untuk belajar | [Student Pass](/settling-in/student-pass) |
+| Bekerja dari jauh sebagai nomad digital | [DE Rantau, pas nomad digital](/settling-in/de-rantau-nomad-pass) |
+| Bersara atau berpindah dengan wang anda sendiri | [Visa tinggal lama MM2H](/settling-in/mm2h-long-stay-visa), atau [Program Visa Premium (PVIP)](/settling-in/premium-visa-programme-pvip) |
+| Menyasarkan pemastautinan tetap atau kewarganegaraan | [Pemastautinan tetap (MyPR)](/settling-in/permanent-residency-malaysia), kemudian [kewarganegaraan melalui pendaftaran](/settling-in/malaysian-citizenship-by-registration) |
+| Menguruskan MyKad dan dokumen identiti anda | [MyKad, MyPR dan MyKAS](/settling-in/mykad-and-identity-documents) |
+| Menghantar rumah anda — barang, kereta, haiwan peliharaan | [Menghantar barang dan kereta anda](/settling-in/shipping-belongings-and-car), dan [membawa haiwan peliharaan](/settling-in/bringing-pets-into-malaysia) |
+| Membetulkan tinggal lebih masa atau catatan senarai hitam | [Tinggal lebih masa pas: kompaun dan senarai hitam](/settling-in/immigration-overstay-and-blacklist) |
+| Meninggalkan Malaysia untuk selama-lamanya | [Pelepasan cukai sebelum anda pergi](/settling-in/leaving-malaysia-tax-clearance) |
+
 ## Kesilapan biasa
 
 - **Menempah perpindahan sebelum mengesahkan kelayakan pas.** Pas — bukan
@@ -215,3 +235,9 @@ akan memandu, lihat
 [Lesen Memandu untuk Warga Asing](/transport/driving-licence-foreigners).
 Dan bagi dokumen identiti yang akhirnya akan anda pegang jika anda menjadi
 pemastautin tetap, lihat [MyKad](/glossary/mykad).
+
+Sebelum anda menempah apa-apa, sahkan sama ada warganegara anda memerlukan visa
+untuk masuk langsung — [siapa yang perlu visa untuk masuk ke Malaysia](/settling-in/malaysia-entry-visa-requirements-by-nationality)
+menerangkan laluan bebas visa, eVisa dan eNTRI. Dan jika sesuatu pas tamat tempoh
+semasa anda berada di sini, [tinggal lebih masa pas](/settling-in/immigration-overstay-and-blacklist)
+menjelaskan kompaun, senarai hitam, dan cara untuk keluar daripadanya.

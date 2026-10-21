@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "वे मलेशियाई नागरिक जो अनिश्चित हैं कि विभिन्न आयु में कौन-सा कार्ड अनिवार्य है, वे स्थायी निवासी जिन्हें हाल ही में एंट्री परमिट के लिए अनुमोदित किया गया है, और वे विदेशी जो जानना चाहते हैं कि क्या वे कभी कोई JPN कार्ड रखेंगे।"
 
 lang: "hi"
-sourceContentHash: "873639e4a7149ab4"
+sourceContentHash: "d417098ed0a05d22"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

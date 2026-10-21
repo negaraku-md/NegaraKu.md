@@ -34,7 +34,7 @@ faq:
     a: "No hay un simple botón de «eliminar» en línea. Liquida cualquier compound pendiente, confirma tu situación y su motivo directamente con el Departamento de Inmigración, y solicita o apela por escrito (a través de tu embajada o un agente autorizado si estás fuera de Malasia), explicando las circunstancias. El Departamento decide a su discreción; los tribunales suelen ser reacios a revocar las decisiones de inmigración."
 
 lang: "es"
-sourceContentHash: "97a0837456842b16"
+sourceContentHash: "e106871db8d0d6e8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

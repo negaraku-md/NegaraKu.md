@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Pemegang Employment Pass yang membawa keluarga ke Malaysia, serta pasangan, anak, orang tua, atau mertua yang ditaja."
 
 lang: "id"
-sourceContentHash: "965187483a912200"
+sourceContentHash: "6b7b56cd73db65aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

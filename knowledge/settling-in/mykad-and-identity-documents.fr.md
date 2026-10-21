@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Citoyens malaisiens ne sachant pas quelle carte est obligatoire à chaque âge, résidents permanents venant d'obtenir l'approbation d'un Permis d'entrée, et étrangers souhaitant savoir s'ils posséderont un jour une carte du JPN."
 
 lang: "fr"
-sourceContentHash: "873639e4a7149ab4"
+sourceContentHash: "d417098ed0a05d22"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

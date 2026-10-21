@@ -34,7 +34,7 @@ faq:
     a: "Tidak ada tombol 'hapus' daring yang mudah. Selesaikan kompaun tertunggak apa pun, konfirmasikan status Anda dan alasannya secara langsung dengan Jabatan Imigresen, dan ajukan atau banding secara tertulis (melalui kedutaan Anda atau agen berlisensi jika Anda berada di luar Malaysia), menjelaskan keadaan tersebut. Jabatan memutuskan menurut diskresinya; pengadilan pada umumnya enggan membatalkan keputusan imigrasi."
 
 lang: "id"
-sourceContentHash: "97a0837456842b16"
+sourceContentHash: "e106871db8d0d6e8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

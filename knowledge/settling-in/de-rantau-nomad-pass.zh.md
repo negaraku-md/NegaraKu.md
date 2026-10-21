@@ -31,7 +31,7 @@ faq:
     a: "可以。配偶或事实伴侣、18 岁以下子女、残障子女以及主准证持有人的父母均可作为家属申请，但配偶不得在该准证下工作。"
 
 lang: "zh"
-sourceContentHash: "f5c5f5f455206b06"
+sourceContentHash: "4acc75e3a074b7b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -19,7 +19,7 @@ keyTakeaways:
   - "يُقدَّم تسجيل المركبة إلكترونيًا عبر أحد مزوّدي البوابات الثلاثة المعيَّنين من JPJ، برسم خدمة من JPJ قدره RM50 لكل طلب"
 appliesTo: "كل من ينتقل إلى ماليزيا — الماليزيون العائدون، والموظفون المغتربون الجدد، والمشاركون في MM2H — ممن يقرّرون ماذا يشحنون، وما إذا كان شحن سيارة مملوكة شخصيًا أمرًا واقعيًا."
 lang: "ar"
-sourceContentHash: "322f701876a3d3fe"
+sourceContentHash: "1a35587b5de4590d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

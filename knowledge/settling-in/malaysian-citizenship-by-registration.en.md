@@ -29,7 +29,7 @@ faq:
     a: "It can in certain circumstances. Article 26(2) allows the Federal Government to deprive a woman registered under Article 15(1) of her citizenship if the marriage on which the registration was based is dissolved (otherwise than by death) within two years from the date of the marriage."
 
 lang: "en"
-sourceContentHash: "28365cf20f843051"
+sourceContentHash: "f9258e7912c58798"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

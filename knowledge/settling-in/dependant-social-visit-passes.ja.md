@@ -22,7 +22,7 @@ appliesTo: "家族をマレーシアに連れてくるエンプロイメント�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "965187483a912200"
+sourceContentHash: "6b7b56cd73db65aa"
 
 status: "published"
 aiAssisted: true

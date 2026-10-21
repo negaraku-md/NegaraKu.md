@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Titulares de Employment Pass que traen a su familia a Malasia, y los cónyuges, hijos, padres o suegros que son patrocinados."
 
 lang: "es"
-sourceContentHash: "965187483a912200"
+sourceContentHash: "6b7b56cd73db65aa"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

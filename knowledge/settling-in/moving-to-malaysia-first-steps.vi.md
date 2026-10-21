@@ -25,7 +25,7 @@ verificationNeeded:
   - "Các con số thu nhập, tiền gửi và thời hạn cụ thể của MM2H theo từng bậc nên được xác nhận trực tiếp trên cổng MM2H chính thức (mm2h.gov.my) vào thời điểm nộp đơn, vì cổng chặn việc truy cập tự động và các bậc của nó đã được tái cơ cấu hơn một lần trong những năm gần đây."
 
 lang: "vi"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,6 +117,25 @@ Một khi bạn ở trong nước với giấy phép đúng đắn, bốn thứ 
 
 **4. Một bằng lái xe, nếu bạn sẽ lái.** Việc chuyển đổi một bằng lái xe nước ngoài sang một bằng Malaysia có cửa sổ điều kiện riêng gắn với việc bạn đã ở trong nước bao lâu và giấy phép nào bạn giữ — đáng bắt đầu một khi ba mục đầu được thu xếp, chứ không phải để đến khi thời hạn công nhận của bằng lái hiện có của bạn sắp hết.
 
+## Bạn cần hướng dẫn nào
+
+Một khi bạn biết giấy phép của mình thuộc họ nào, hãy đi sâu vào lối đi cụ thể — và vào những việc vặt diễn ra sau khi bạn đã hạ cánh.
+
+| Nếu tình huống của bạn là | Hãy đọc |
+| --- | --- |
+| Kiểm tra xem bạn có thậm chí cần visa để nhập cảnh không | [Ai cần visa để nhập cảnh Malaysia](/vi/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| Được một người sử dụng lao động Malaysia thuê | [Employment Pass](/vi/settling-in/employment-pass) |
+| Được một người sử dụng lao động ở nước ngoài cử đi phân công tạm thời | [Professional Visit Pass](/vi/settling-in/professional-visit-pass) |
+| Đưa theo vợ/chồng hoặc con cái | [Dependant Pass và Long Term Social Visit Pass](/vi/settling-in/dependant-social-visit-passes) |
+| Đến để học tập | [Student Pass](/vi/settling-in/student-pass) |
+| Làm việc từ xa như một du mục kỹ thuật số | [DE Rantau, giấy phép du mục kỹ thuật số](/vi/settling-in/de-rantau-nomad-pass) |
+| Nghỉ hưu hoặc chuyển đến bằng tiền của chính bạn | [Visa lưu trú dài hạn MM2H](/vi/settling-in/mm2h-long-stay-visa), hoặc [Chương trình Visa Cao cấp (PVIP)](/vi/settling-in/premium-visa-programme-pvip) |
+| Hướng tới thường trú hoặc quốc tịch | [Thường trú (MyPR)](/vi/settling-in/permanent-residency-malaysia), rồi [quốc tịch theo đăng ký](/vi/settling-in/malaysian-citizenship-by-registration) |
+| Thu xếp MyKad và giấy tờ định danh của bạn | [MyKad, MyPR và MyKAS](/vi/settling-in/mykad-and-identity-documents) |
+| Vận chuyển nhà của bạn — đồ đạc, xe, thú cưng | [Vận chuyển đồ đạc và xe của bạn](/vi/settling-in/shipping-belongings-and-car), và [đưa thú cưng theo](/vi/settling-in/bringing-pets-into-malaysia) |
+| Khắc phục việc lưu trú quá hạn hoặc một mục trong danh sách đen | [Lưu trú quá hạn một giấy phép: tiền phạt và danh sách đen](/vi/settling-in/immigration-overstay-and-blacklist) |
+| Rời Malaysia vĩnh viễn | [Thông quan thuế trước khi bạn rời đi](/vi/settling-in/leaving-malaysia-tax-clearance) |
+
 ## Những sai lầm thường gặp
 
 - **Đặt cuộc di chuyển trước khi xác nhận điều kiện giấy phép.** Giấy phép — chứ không phải ngày bay — là đường tới hạn thực sự; mọi thứ về sau đình trệ nếu không có nó.
@@ -128,3 +147,5 @@ Một khi bạn ở trong nước với giấy phép đúng đắn, bốn thứ 
 ## Tiếp theo
 
 Đối với cơ quan đằng sau gần như mọi quyết định giấy phép ở trên, hãy xem [Jabatan Imigresen Malaysia](/vi/government/imigresen). Một khi giấy phép của bạn được thu xếp, hai bước thủ tục hành chính dựa trực tiếp vào nó được trình bày trong [Mở tài khoản ngân hàng tại Malaysia](/vi/money-daily-life/opening-bank-account) và [Các gói SIM di động](/vi/money-daily-life/mobile-sim-plans). Nếu bạn sẽ lái xe, hãy xem [Bằng lái xe cho người nước ngoài](/vi/transport/driving-licence-foreigners). Và đối với giấy tờ định danh mà bạn cuối cùng sẽ giữ nếu bạn trở thành một thường trú nhân, hãy xem [MyKad](/vi/glossary/mykad).
+
+Trước khi bạn đặt bất cứ gì, hãy xác nhận xem quốc tịch của bạn có cần visa để nhập cảnh hay không — [ai cần visa để nhập cảnh Malaysia](/vi/settling-in/malaysia-entry-visa-requirements-by-nationality) trình bày các lối đi miễn visa, eVisa và eNTRI. Và nếu một giấy phép hết hiệu lực trong khi bạn ở đây, [lưu trú quá hạn một giấy phép](/vi/settling-in/immigration-overstay-and-blacklist) giải thích các khoản tiền phạt, danh sách đen, và cách để thoát khỏi nó.

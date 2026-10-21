@@ -34,7 +34,7 @@ faq:
     a: "Ya. Rayuan mesti dibuat kepada Menteri Dalam Negeri dalam tempoh 30 hari dari tarikh surat penolakan, bersama-sama surat rayuan, surat penolakan, dan dokumen sokongan."
 
 lang: "ms"
-sourceContentHash: "d074952166cefba5"
+sourceContentHash: "d34c1375724d20bd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

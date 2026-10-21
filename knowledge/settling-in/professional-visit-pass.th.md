@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "บริษัทมาเลเซียที่รับผู้เชี่ยวชาญ นักวิจัย ผู้ฝึกงาน อาสาสมัคร หรือผู้ร่วมแสดงสินค้าชาวต่างชาติสำหรับการมอบหมายที่กำหนด และทีม HR หรือทีมโยกย้ายที่อุปถัมภ์ซึ่งยื่นแทนพวกเขา"
 
 lang: "th"
-sourceContentHash: "8d251b7426f433be"
+sourceContentHash: "3825b81a5b37d905"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

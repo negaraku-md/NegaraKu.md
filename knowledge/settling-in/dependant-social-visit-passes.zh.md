@@ -22,7 +22,7 @@ appliesTo: "把家人带来马来西亚的 Employment Pass 持证人，以及获
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "965187483a912200"
+sourceContentHash: "6b7b56cd73db65aa"
 
 status: "published"
 aiAssisted: true

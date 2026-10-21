@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Ciudadanos malasios que no saben qué tarjeta es obligatoria a cada edad, residentes permanentes recién aprobados para un Permiso de Entrada, y extranjeros que quieren saber si alguna vez tendrán alguna tarjeta del JPN."
 
 lang: "es"
-sourceContentHash: "873639e4a7149ab4"
+sourceContentHash: "d417098ed0a05d22"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

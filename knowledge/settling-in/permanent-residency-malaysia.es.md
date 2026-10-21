@@ -34,7 +34,7 @@ faq:
     a: "Sí. El recurso debe presentarse ante el Ministro del Interior dentro de los 30 días a partir de la fecha de la carta de rechazo, junto con una carta de apelación, la carta de rechazo y los documentos justificativos."
 
 lang: "es"
-sourceContentHash: "d074952166cefba5"
+sourceContentHash: "d34c1375724d20bd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

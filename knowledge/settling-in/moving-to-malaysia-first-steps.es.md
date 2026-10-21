@@ -25,7 +25,7 @@ verificationNeeded:
   - "MM2H's specific income, deposit and duration figures per tier should be confirmed directly on the official MM2H portal (mm2h.gov.my) at the time of application, since the portal blocks automated fetching and its tiers have been restructured more than once in recent years."
 
 lang: "es"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -172,6 +172,26 @@ país y qué pase tienes — conviene empezar una vez resueltos los tres primero
 no dejarlo hasta que el periodo de reconocimiento de tu permiso actual esté a punto de
 agotarse.
 
+## Qué guía necesitas
+
+Una vez que sepas en qué familia encaja tu pase, profundiza en la vía concreta —
+y en las gestiones que vienen después, una vez que hayas aterrizado.
+
+| Si tu situación es | Lee |
+| --- | --- |
+| Comprobar si siquiera necesitas un visado para entrar | [Quién necesita visado para entrar en Malasia](/es/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| Contratado por un empleador malasio | [El Employment Pass](/es/settling-in/employment-pass) |
+| Enviado en una asignación temporal por un empleador extranjero | [El Professional Visit Pass](/es/settling-in/professional-visit-pass) |
+| Traer a tu cónyuge o a tus hijos | [Dependant y pases de visita social de larga duración](/es/settling-in/dependant-social-visit-passes) |
+| Venir a estudiar | [El Student Pass](/es/settling-in/student-pass) |
+| Trabajar en remoto como nómada digital | [DE Rantau, el pase para nómadas digitales](/es/settling-in/de-rantau-nomad-pass) |
+| Jubilarte o reubicarte con tus propios fondos | [Visado de estancia prolongada MM2H](/es/settling-in/mm2h-long-stay-visa), o el [Premium Visa Programme (PVIP)](/es/settling-in/premium-visa-programme-pvip) |
+| Aspirar a la residencia permanente o la ciudadanía | [Residencia permanente (MyPR)](/es/settling-in/permanent-residency-malaysia), y luego [ciudadanía por registro](/es/settling-in/malaysian-citizenship-by-registration) |
+| Tramitar tu MyKad y tus documentos de identidad | [MyKad, MyPR y MyKAS](/es/settling-in/mykad-and-identity-documents) |
+| Trasladar tu hogar — enseres, coche, mascotas | [Envío de enseres y de tu coche](/es/settling-in/shipping-belongings-and-car), y [traer mascotas](/es/settling-in/bringing-pets-into-malaysia) |
+| Resolver una estancia excedida o una entrada en la lista negra | [Exceder la estancia de un pase: compounds y lista negra](/es/settling-in/immigration-overstay-and-blacklist) |
+| Marcharte de Malasia de forma definitiva | [Finiquito fiscal antes de irte](/es/settling-in/leaving-malaysia-tax-clearance) |
+
 ## Errores habituales
 
 - **Reservar la mudanza antes de confirmar la elegibilidad del pase.** El pase — no la
@@ -193,10 +213,16 @@ agotarse.
 ## Qué sigue
 
 Para la agencia que está detrás de casi cada decisión de pase anterior, véase
-[Jabatan Imigresen Malaysia](/en/government/imigresen). Una vez resuelto tu pase, los
+[Jabatan Imigresen Malaysia](/es/government/imigresen). Una vez resuelto tu pase, los
 dos trámites administrativos que dependen directamente de él se tratan en
-[Abrir una cuenta bancaria en Malasia](/en/money-daily-life/opening-bank-account) y
-[Planes de SIM móvil](/en/money-daily-life/mobile-sim-plans). Si vas a conducir, véase
-[Permiso de conducir para extranjeros](/en/transport/driving-licence-foreigners). Y
+[Abrir una cuenta bancaria en Malasia](/es/money-daily-life/opening-bank-account) y
+[Planes de SIM móvil](/es/money-daily-life/mobile-sim-plans). Si vas a conducir, véase
+[Permiso de conducir para extranjeros](/es/transport/driving-licence-foreigners). Y
 para el documento de identidad que acabarás teniendo si te conviertes en residente
-permanente, véase [MyKad](/en/glossary/mykad).
+permanente, véase [MyKad](/es/glossary/mykad).
+
+Antes de reservar nada, confirma si tu nacionalidad necesita un visado para entrar
+siquiera — [quién necesita visado para entrar en Malasia](/es/settling-in/malaysia-entry-visa-requirements-by-nationality)
+expone las vías de exención de visado, eVisa y eNTRI. Y si alguna vez un pase caduca
+mientras estás aquí, [exceder la estancia de un pase](/es/settling-in/immigration-overstay-and-blacklist)
+explica los compounds, la lista negra y cómo salir de ella.

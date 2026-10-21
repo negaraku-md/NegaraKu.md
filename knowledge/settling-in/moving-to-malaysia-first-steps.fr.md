@@ -25,7 +25,7 @@ verificationNeeded:
   - "Les chiffres spécifiques de revenu, de dépôt et de durée de MM2H par niveau devraient être confirmés directement sur le portail officiel MM2H (mm2h.gov.my) au moment de la demande, puisque le portail bloque la récupération automatisée et que ses niveaux ont été restructurés plus d'une fois ces dernières années."
 
 lang: "fr"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -176,6 +176,26 @@ votre présence dans le pays et au pass que vous détenez — il vaut la peine d
 une fois les trois premiers points réglés, et de ne pas la laisser traîner jusqu'à ce que
 la période de reconnaissance de votre permis actuel soit sur le point d'expirer.
 
+## Le guide qu'il vous faut
+
+Une fois que vous savez à quelle famille appartient votre pass, approfondissez la voie
+spécifique — et les démarches qui suivent une fois que vous avez atterri.
+
+| Si votre situation est | À lire |
+| --- | --- |
+| Vérifier si vous avez même besoin d'un visa pour entrer | [Qui a besoin d'un visa pour entrer en Malaisie](/fr/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| Recruté par un employeur malaisien | [L'Employment Pass](/fr/settling-in/employment-pass) |
+| Envoyé en affectation temporaire par un employeur étranger | [Le Professional Visit Pass](/fr/settling-in/professional-visit-pass) |
+| Faire venir un conjoint ou des enfants | [Pass de personne à charge et de visite sociale de longue durée](/fr/settling-in/dependant-social-visit-passes) |
+| Venir pour étudier | [Le Student Pass](/fr/settling-in/student-pass) |
+| Travailler à distance comme nomade numérique | [DE Rantau, le pass nomade numérique](/fr/settling-in/de-rantau-nomad-pass) |
+| À la retraite ou vous réinstallant avec vos propres fonds | [Visa de long séjour MM2H](/fr/settling-in/mm2h-long-stay-visa), ou le [Premium Visa Programme (PVIP)](/fr/settling-in/premium-visa-programme-pvip) |
+| Visant la résidence permanente ou la citoyenneté | [Résidence permanente (MyPR)](/fr/settling-in/permanent-residency-malaysia), puis [citoyenneté par enregistrement](/fr/settling-in/malaysian-citizenship-by-registration) |
+| Régler votre MyKad et vos documents d'identité | [MyKad, MyPR et MyKAS](/fr/settling-in/mykad-and-identity-documents) |
+| Expédier votre foyer — effets personnels, voiture, animaux | [Expédier vos effets personnels et votre voiture](/fr/settling-in/shipping-belongings-and-car), et [faire venir vos animaux](/fr/settling-in/bringing-pets-into-malaysia) |
+| Régulariser un dépassement de séjour ou une inscription sur liste noire | [Dépasser la durée d'un pass : amendes de composition et liste noire](/fr/settling-in/immigration-overstay-and-blacklist) |
+| Quitter la Malaisie définitivement | [Quitus fiscal avant votre départ](/fr/settling-in/leaving-malaysia-tax-clearance) |
+
 ## Erreurs fréquentes
 
 - **Réserver le déménagement avant de confirmer l'admissibilité au pass.** Le pass — et
@@ -199,10 +219,16 @@ la période de reconnaissance de votre permis actuel soit sur le point d'expirer
 ## Et ensuite
 
 Pour l'agence qui se trouve derrière presque chaque décision de pass ci-dessus, voir
-[Jabatan Imigresen Malaysia](/en/government/imigresen). Une fois votre pass réglé, les
+[Jabatan Imigresen Malaysia](/fr/government/imigresen). Une fois votre pass réglé, les
 deux formalités administratives qui en dépendent directement sont traitées dans
-[Ouvrir un compte bancaire en Malaisie](/en/money-daily-life/opening-bank-account) et
-[Forfaits SIM mobiles](/en/money-daily-life/mobile-sim-plans). Si vous comptez conduire,
-voir [Permis de conduire pour les étrangers](/en/transport/driving-licence-foreigners). Et
+[Ouvrir un compte bancaire en Malaisie](/fr/money-daily-life/opening-bank-account) et
+[Forfaits SIM mobiles](/fr/money-daily-life/mobile-sim-plans). Si vous comptez conduire,
+voir [Permis de conduire pour les étrangers](/fr/transport/driving-licence-foreigners). Et
 pour le document d'identité que vous finirez par détenir si vous devenez résident
-permanent, voir [MyKad](/en/glossary/mykad).
+permanent, voir [MyKad](/fr/glossary/mykad).
+
+Avant de réserver quoi que ce soit, confirmez si votre nationalité a besoin d'un visa
+pour entrer tout court — [qui a besoin d'un visa pour entrer en Malaisie](/fr/settling-in/malaysia-entry-visa-requirements-by-nationality)
+expose les voies dispensées de visa, eVisa et eNTRI. Et si un pass vient à expirer
+pendant que vous êtes ici, [dépasser la durée d'un pass](/fr/settling-in/immigration-overstay-and-blacklist)
+explique les amendes de composition, la liste noire, et comment en sortir.

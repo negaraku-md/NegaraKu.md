@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 
 status: "published"
 aiAssisted: true
@@ -155,6 +155,26 @@ Employment Pass、Student Pass、Dependant Pass 或 MM2H 批准函各自解锁�
 得在前三项事务落定后就着手办理，而不要拖到你现有驾照的认可期即将届满
 才办。
 
+## 你需要哪一份指南
+
+一旦厘清你的准证属于哪一类，就可深入了解具体途径——以及抵境后随之而来的
+各项琐事。
+
+| 若你的情况是 | 阅读 |
+| --- | --- |
+| 查核你是否根本需要签证才能入境 | [谁需要签证才能入境马来西亚](/zh/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| 受马来西亚雇主聘用 | [Employment Pass](/zh/settling-in/employment-pass) |
+| 由海外雇主派驻临时任务 | [Professional Visit Pass](/zh/settling-in/professional-visit-pass) |
+| 携带配偶或子女 | [Dependant Pass 与长期社交访问准证](/zh/settling-in/dependant-social-visit-passes) |
+| 前来求学 | [Student Pass](/zh/settling-in/student-pass) |
+| 以数字游民身份远程工作 | [DE Rantau 数字游民准证](/zh/settling-in/de-rantau-nomad-pass) |
+| 以自己的资金退休或迁居 | [MM2H 长期居留签证](/zh/settling-in/mm2h-long-stay-visa)，或 [Premium Visa Programme（PVIP）](/zh/settling-in/premium-visa-programme-pvip) |
+| 以永久居留或公民身份为目标 | [永久居留（MyPR）](/zh/settling-in/permanent-residency-malaysia)，然后[透过注册取得公民身份](/zh/settling-in/malaysian-citizenship-by-registration) |
+| 办理你的 MyKad 及身份证件 | [MyKad、MyPR 与 MyKAS](/zh/settling-in/mykad-and-identity-documents) |
+| 托运你的家当——物品、汽车、宠物 | [托运物品与汽车](/zh/settling-in/shipping-belongings-and-car)，以及[携带宠物](/zh/settling-in/bringing-pets-into-malaysia) |
+| 处理逾期逗留或黑名单记录 | [逾期逗留准证：罚款与黑名单](/zh/settling-in/immigration-overstay-and-blacklist) |
+| 永久离开马来西亚 | [离境前的税务清算](/zh/settling-in/leaving-malaysia-tax-clearance) |
+
 ## 常见错误
 
 - **在确认准证资格之前就预订搬迁行程。** 准证——而非机票日期——才是真
@@ -180,3 +200,9 @@ Employment Pass、Student Pass、Dependant Pass 或 MM2H 批准函各自解锁�
 车，参见[外国人驾驶执照](/zh/transport/driving-licence-foreigners)。而
 若你日后成为永久居民，最终会持有的身份证件，参见
 [MyKad](/zh/glossary/mykad)。
+
+在预订任何行程之前，先确认你的国籍是否根本需要签证才能入境——
+[谁需要签证才能入境马来西亚](/zh/settling-in/malaysia-entry-visa-requirements-by-nationality)
+列明了免签证、eVisa 与 eNTRI 途径。而若你在境内期间准证逾期失效，
+[逾期逗留准证](/zh/settling-in/immigration-overstay-and-blacklist)
+说明了罚款、黑名单，以及如何将自己从中除名。

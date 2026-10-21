@@ -34,7 +34,7 @@ faq:
     a: "Một giấy phép thăm viếng xã hội ngắn hạn nói chung không thể được gia hạn; để ở lại lâu hơn bạn phải rời đi và nhập cảnh lại. Nó cũng không thể được chuyển thành một giấy phép lao động hoặc sinh viên — những giấy phép đó phải được thu xếp qua kênh visa đúng đắn trước khi bạn nhận việc làm hoặc học tập."
 
 lang: "vi"
-sourceContentHash: "cc706715a5a043c3"
+sourceContentHash: "7988400de4075ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

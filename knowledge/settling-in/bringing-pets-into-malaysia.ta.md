@@ -22,7 +22,7 @@ appliesTo: "ஒரு நாய் அல்லது பூனையுடன�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "10bc44ecb02ea814"
+sourceContentHash: "f0c824b1e97a05f2"
 
 status: "published"
 aiAssisted: true

@@ -34,7 +34,7 @@ faq:
     a: "हाँ। अपील अस्वीकृति पत्र की तारीख से 30 दिनों के भीतर गृह मामलों के मंत्री के समक्ष की जानी चाहिए, एक अपील पत्र, अस्वीकृति पत्र, और सहायक दस्तावेज़ों के साथ।"
 
 lang: "hi"
-sourceContentHash: "d074952166cefba5"
+sourceContentHash: "d34c1375724d20bd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

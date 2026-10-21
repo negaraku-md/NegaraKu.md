@@ -24,7 +24,7 @@ appliesTo: "異なる年齢段階でどのカードを持つ義務があるか�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "873639e4a7149ab4"
+sourceContentHash: "d417098ed0a05d22"
 
 status: "published"
 aiAssisted: true

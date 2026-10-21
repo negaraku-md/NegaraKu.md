@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "المواطنون الماليزيون غير المتأكدين من البطاقة الإلزامية في مراحل عمرية مختلفة، والمقيمون الدائمون الذين حصلوا حديثًا على موافقة على تصريح دخول، والأجانب الراغبون في معرفة ما إذا كانوا سيحملون أي بطاقة من JPN يومًا ما."
 
 lang: "ar"
-sourceContentHash: "873639e4a7149ab4"
+sourceContentHash: "d417098ed0a05d22"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

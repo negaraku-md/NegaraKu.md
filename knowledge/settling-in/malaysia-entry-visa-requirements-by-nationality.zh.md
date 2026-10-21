@@ -34,7 +34,7 @@ faq:
     a: "短期社交访问准证通常不可延期；若要停留更久，你必须离境后再入境。它也不能转换为工作或学生准证——这些必须在你就业或求学之前通过正确的签证渠道办理。"
 
 lang: "zh"
-sourceContentHash: "cc706715a5a043c3"
+sourceContentHash: "7988400de4075ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

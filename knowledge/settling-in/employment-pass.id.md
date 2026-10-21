@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Warga negara asing yang memiliki tawaran kerja Malaysia, dan siapa saja yang sudah memegang atau memperpanjang Employment Pass di Malaysia."
 
 lang: "id"
-sourceContentHash: "1684527edc9ec752"
+sourceContentHash: "15f43dc5f13f9d7c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

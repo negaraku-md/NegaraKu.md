@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que se traslade a Malasia con un perro o gato, o que traiga uno con cualquier otro fin, y que necesite planificar el proceso de permiso y cuarentena antes de la salida."
 
 lang: "es"
-sourceContentHash: "10bc44ecb02ea814"
+sourceContentHash: "f0c824b1e97a05f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

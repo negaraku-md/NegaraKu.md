@@ -34,7 +34,7 @@ faq:
     a: "Pas lawatan sosial jangka pendek pada umumnya tidak boleh dilanjutkan; untuk tinggal lebih lama anda mesti keluar dan masuk semula. Ia juga tidak boleh ditukar kepada pas kerja atau pelajar — itu mesti diuruskan melalui saluran visa yang betul sebelum anda mula bekerja atau belajar."
 
 lang: "ms"
-sourceContentHash: "cc706715a5a043c3"
+sourceContentHash: "7988400de4075ed3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

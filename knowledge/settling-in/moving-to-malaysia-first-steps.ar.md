@@ -25,7 +25,7 @@ verificationNeeded:
   - "ينبغي التأكد من أرقام الدخل والوديعة والمدة الخاصة بكل فئة في MM2H مباشرةً على بوابة MM2H الرسمية (mm2h.gov.my) عند التقديم، إذ تحجب البوابة الجلب الآلي وقد أُعيدت هيكلة فئاتها أكثر من مرة في السنوات الأخيرة."
 
 lang: "ar"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,6 +117,25 @@ keywords: ["moving to Malaysia", "الانتقال إلى ماليزيا", "قا
 
 **4. رخصة قيادة، إن كنت ستقود.** لتحويل رخصة أجنبية إلى رخصة ماليزية نافذة أهلية خاصة بها مرتبطة بمدة وجودك في البلد ونوع تصريحك — ويُستحسن البدء فيها بمجرد تسوية الأمور الثلاثة الأولى، لا تركها حتى تشارف فترة الاعتراف برخصتك الحالية على الانتهاء.
 
+## الدليل الذي تحتاج إليه
+
+بمجرد أن تعرف أي عائلة يندرج تحتها تصريحك، تعمّق في المسار المحدد — وفي المهام التي تتبعه بعد الهبوط.
+
+| إذا كان وضعك | اقرأ |
+| --- | --- |
+| التحقق مما إن كنت تحتاج أصلًا إلى تأشيرة للدخول | [من يحتاج إلى تأشيرة لدخول ماليزيا](/ar/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| موظَّف لدى صاحب عمل ماليزي | [تصريح العمل (Employment Pass)](/ar/settling-in/employment-pass) |
+| مُرسَل في انتداب مؤقت من صاحب عمل أجنبي | [تصريح الزيارة المهنية (Professional Visit Pass)](/ar/settling-in/professional-visit-pass) |
+| تصطحب زوجًا أو أبناء | [تصاريح المُعالين والزيارة الاجتماعية طويلة الأمد](/ar/settling-in/dependant-social-visit-passes) |
+| قادم للدراسة | [تصريح الطالب (Student Pass)](/ar/settling-in/student-pass) |
+| تعمل عن بُعد كبدوي رقمي | [DE Rantau، تصريح البدو الرقميين](/ar/settling-in/de-rantau-nomad-pass) |
+| متقاعد أو منتقل بأموالك الخاصة | [تأشيرة الإقامة الطويلة MM2H](/ar/settling-in/mm2h-long-stay-visa)، أو [برنامج التأشيرة المميزة (PVIP)](/ar/settling-in/premium-visa-programme-pvip) |
+| تستهدف الإقامة الدائمة أو الجنسية | [الإقامة الدائمة (MyPR)](/ar/settling-in/permanent-residency-malaysia)، ثم [الجنسية بالتسجيل](/ar/settling-in/malaysian-citizenship-by-registration) |
+| تسوّي بطاقة MyKad ووثائق هويتك | [MyKad وMyPR وMyKAS](/ar/settling-in/mykad-and-identity-documents) |
+| تشحن منزلك — متعلقات وسيارة وحيوانات أليفة | [شحن المتعلقات وسيارتك](/ar/settling-in/shipping-belongings-and-car)، و[إحضار الحيوانات الأليفة](/ar/settling-in/bringing-pets-into-malaysia) |
+| تصحيح تجاوز مدة الإقامة أو إدراج في القائمة السوداء | [تجاوز مدة التصريح: الغرامات والقائمة السوداء](/ar/settling-in/immigration-overstay-and-blacklist) |
+| تغادر ماليزيا نهائيًا | [إخلاء الطرف الضريبي قبل المغادرة](/ar/settling-in/leaving-malaysia-tax-clearance) |
+
 ## الأخطاء الشائعة
 
 - **حجز الانتقال قبل تأكيد الأهلية للتصريح.** فالتصريح — لا تاريخ الرحلة — هو المسار الحرج الفعلي؛ وكل ما يليه يتعثر من دونه.
@@ -127,4 +146,6 @@ keywords: ["moving to Malaysia", "الانتقال إلى ماليزيا", "قا
 
 ## ما التالي
 
-لمعرفة الجهة وراء كل قرار تصريح تقريبًا مما سبق، انظر [دائرة الهجرة الماليزية](/government/imigresen). وبمجرد تسوية تصريحك، تُغطَّى الخطوتان الإداريتان المعتمدتان عليه مباشرةً في [فتح حساب مصرفي في ماليزيا](/money-daily-life/opening-bank-account) و[باقات شرائح الهاتف المحمول](/money-daily-life/mobile-sim-plans). وإن كنت ستقود، فانظر [رخصة القيادة للأجانب](/transport/driving-licence-foreigners). ولمعرفة وثيقة الهوية التي ستحملها في نهاية المطاف إن أصبحت مقيمًا دائمًا، انظر [MyKad](/glossary/mykad).
+لمعرفة الجهة وراء كل قرار تصريح تقريبًا مما سبق، انظر [دائرة الهجرة الماليزية](/ar/government/imigresen). وبمجرد تسوية تصريحك، تُغطَّى الخطوتان الإداريتان المعتمدتان عليه مباشرةً في [فتح حساب مصرفي في ماليزيا](/ar/money-daily-life/opening-bank-account) و[باقات شرائح الهاتف المحمول](/ar/money-daily-life/mobile-sim-plans). وإن كنت ستقود، فانظر [رخصة القيادة للأجانب](/ar/transport/driving-licence-foreigners). ولمعرفة وثيقة الهوية التي ستحملها في نهاية المطاف إن أصبحت مقيمًا دائمًا، انظر [MyKad](/ar/glossary/mykad).
+
+وقبل حجز أي شيء، تأكد مما إن كانت جنسيتك تحتاج إلى تأشيرة للدخول أصلًا — إذ يوضح [من يحتاج إلى تأشيرة لدخول ماليزيا](/ar/settling-in/malaysia-entry-visa-requirements-by-nationality) مسارات الإعفاء من التأشيرة وeVisa وeNTRI. وإن انقضت صلاحية تصريح ما أثناء وجودك هنا، يشرح [تجاوز مدة التصريح](/ar/settling-in/immigration-overstay-and-blacklist) الغرامات والقائمة السوداء وكيفية الخروج منها.

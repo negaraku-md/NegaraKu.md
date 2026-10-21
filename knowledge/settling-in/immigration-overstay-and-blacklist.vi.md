@@ -34,7 +34,7 @@ faq:
     a: "Không có một nút 'gỡ bỏ' trực tuyến đơn giản nào. Hãy thanh toán mọi compound còn tồn đọng, xác nhận tình trạng của bạn và lý do của nó trực tiếp với Cục Di trú, và nộp đơn hoặc kháng nghị bằng văn bản (qua đại sứ quán của bạn hoặc một đại lý được cấp phép nếu bạn ở ngoài Malaysia), giải thích hoàn cảnh. Cục quyết định theo quyền tùy quyết của mình; các tòa án nói chung miễn cưỡng đảo ngược các quyết định di trú."
 
 lang: "vi"
-sourceContentHash: "97a0837456842b16"
+sourceContentHash: "e106871db8d0d6e8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

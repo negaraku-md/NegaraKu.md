@@ -22,7 +22,7 @@ appliesTo: "接待外国专家、研究人员、受训人员、义工或参展�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8d251b7426f433be"
+sourceContentHash: "3825b81a5b37d905"
 
 status: "published"
 aiAssisted: true

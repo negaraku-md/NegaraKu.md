@@ -34,7 +34,7 @@ faq:
     a: "并没有简单的在线“移除”按钮。先清缴任何未结清的抵偿金，直接向移民局确认你的状态及其原因，然后以书面方式申请或申诉（若你身在马来西亚境外，可通过大使馆或持牌代理），说明相关情况。移民局会酌情决定；法院一般不愿推翻移民决定。"
 
 lang: "zh"
-sourceContentHash: "97a0837456842b16"
+sourceContentHash: "e106871db8d0d6e8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

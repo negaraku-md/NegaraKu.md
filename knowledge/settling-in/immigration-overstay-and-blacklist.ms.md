@@ -34,7 +34,7 @@ faq:
     a: "Tiada butang 'buang' dalam talian yang mudah. Selesaikan sebarang kompaun tertunggak, sahkan status anda dan sebabnya secara terus dengan Jabatan Imigresen, dan mohon atau rayu secara bertulis (melalui kedutaan anda atau ejen berlesen jika anda berada di luar Malaysia), menerangkan keadaan tersebut. Jabatan memutuskan mengikut budi bicaranya; mahkamah secara amnya keberatan untuk membatalkan keputusan imigresen."
 
 lang: "ms"
-sourceContentHash: "97a0837456842b16"
+sourceContentHash: "e106871db8d0d6e8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

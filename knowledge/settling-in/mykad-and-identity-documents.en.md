@@ -24,7 +24,7 @@ appliesTo: "Malaysian citizens unsure which card is mandatory at different ages,
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "873639e4a7149ab4"
+sourceContentHash: "d417098ed0a05d22"
 status: "published"
 aiAssisted: true
 reviewer: null

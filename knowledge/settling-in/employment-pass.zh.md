@@ -23,7 +23,7 @@ appliesTo: "持有马来西亚聘书的外国公民，以及任何在马来西�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1684527edc9ec752"
+sourceContentHash: "15f43dc5f13f9d7c"
 
 status: "published"
 aiAssisted: true

@@ -25,7 +25,7 @@ verificationNeeded:
   - "등급별 MM2H의 구체적 소득·예금·기간 수치는 신청 시점에 공식 MM2H 포털(mm2h.gov.my)에서 직접 확인해야 함. 포털이 자동 조회를 차단하고 그 등급이 최근 몇 년간 한 번 이상 재편되었기 때문."
 
 lang: "ko"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,6 +117,25 @@ MM2H는 위의 모든 것과 별개인데, 아무도 당신을 후원하지 않�
 
 **4. 운전할 것이라면, 운전면허.** 외국 면허를 말레이시아 면허로 전환하는 것은 국내에 얼마나 있었는지와 어떤 패스를 소지하는지에 결부된 자체 자격 창이 있습니다 — 처음 세 항목이 정리되면 시작할 만하며, 기존 면허의 인정 기간이 소진되기 직전까지 미루지 마십시오.
 
+## 어떤 안내서가 필요한가
+
+자신의 패스가 어느 계열에 속하는지 알게 되면, 구체적 경로 — 그리고 착륙한 뒤 이어지는 볼일 — 를 깊이 파고드십시오.
+
+| 당신의 상황이 | 읽을 것 |
+| --- | --- |
+| 입국에 비자가 필요한지조차 확인 중 | [말레이시아 입국에 비자가 필요한 사람](/ko/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| 말레이시아 고용주에게 채용됨 | [취업 비자](/ko/settling-in/employment-pass) |
+| 해외 고용주가 임시 배정으로 파견함 | [전문가 방문 패스](/ko/settling-in/professional-visit-pass) |
+| 배우자나 자녀를 데려옴 | [부양가족 및 장기 사회 방문 패스](/ko/settling-in/dependant-social-visit-passes) |
+| 유학하러 옴 | [유학 패스](/ko/settling-in/student-pass) |
+| 디지털 노마드로 원격 근무 | [DE Rantau, 디지털 노마드 패스](/ko/settling-in/de-rantau-nomad-pass) |
+| 자기 자금으로 은퇴하거나 이주함 | [MM2H 장기 체류 비자](/ko/settling-in/mm2h-long-stay-visa), 또는 [프리미엄 비자 프로그램(PVIP)](/ko/settling-in/premium-visa-programme-pvip) |
+| 영주권 또는 시민권을 목표로 함 | [영주권(MyPR)](/ko/settling-in/permanent-residency-malaysia), 그다음 [등록을 통한 시민권](/ko/settling-in/malaysian-citizenship-by-registration) |
+| MyKad와 신분증을 정리함 | [MyKad, MyPR, MyKAS](/ko/settling-in/mykad-and-identity-documents) |
+| 살림을 들여옴 — 소지품, 자동차, 반려동물 | [소지품과 자동차 들여오기](/ko/settling-in/shipping-belongings-and-car), 그리고 [반려동물 데려오기](/ko/settling-in/bringing-pets-into-malaysia) |
+| 체류 초과나 블랙리스트 등재를 해결함 | [패스 체류 초과: 과태료와 블랙리스트](/ko/settling-in/immigration-overstay-and-blacklist) |
+| 말레이시아를 영영 떠남 | [떠나기 전 세무 정산](/ko/settling-in/leaving-malaysia-tax-clearance) |
+
 ## 흔한 실수
 
 - **패스 자격을 확인하기 전에 이주를 예약하는 것.** 항공편 날짜가 아니라 패스가 실제 임계 경로입니다. 그것 없이는 모든 후속 단계가 멈춥니다.
@@ -128,3 +147,5 @@ MM2H는 위의 모든 것과 별개인데, 아무도 당신을 후원하지 않�
 ## 다음 단계
 
 위 거의 모든 패스 결정의 배후에 있는 기관에 관해서는 [말레이시아 이민국(Jabatan Imigresen Malaysia)](/ko/government/imigresen)을 참조하십시오. 패스가 정리되면, 그것에 직접 좌우되는 두 행정 단계는 [말레이시아에서 은행 계좌 개설하기](/ko/money-daily-life/opening-bank-account)와 [모바일 SIM 요금제](/ko/money-daily-life/mobile-sim-plans)에서 다룹니다. 운전할 것이라면 [외국인을 위한 운전면허](/ko/transport/driving-licence-foreigners)를 참조하십시오. 그리고 영주권자가 되면 결국 소지하게 될 신분증에 관해서는 [MyKad](/ko/glossary/mykad)를 참조하십시오.
+
+무엇이든 예약하기 전에, 당신의 국적이 입국에 비자가 필요한지 확인하십시오 — [말레이시아 입국에 비자가 필요한 사람](/ko/settling-in/malaysia-entry-visa-requirements-by-nationality)이 비자 면제, eVisa, eNTRI 경로를 설명합니다. 그리고 체류 중 패스가 만료되면, [패스 체류 초과](/ko/settling-in/immigration-overstay-and-blacklist)가 과태료, 블랙리스트, 그리고 거기서 벗어나는 방법을 설명합니다.

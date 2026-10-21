@@ -29,7 +29,7 @@ faq:
     a: "Có thể trong một số hoàn cảnh. Điều 26(2) cho phép Chính phủ Liên bang tước quốc tịch của một phụ nữ đã đăng ký theo Điều 15(1) nếu cuộc hôn nhân là cơ sở của việc đăng ký đó bị chấm dứt (vì lý do khác ngoài cái chết) trong vòng hai năm kể từ ngày kết hôn."
 
 lang: "vi"
-sourceContentHash: "28365cf20f843051"
+sourceContentHash: "f9258e7912c58798"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

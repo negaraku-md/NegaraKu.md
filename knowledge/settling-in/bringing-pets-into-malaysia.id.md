@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang pindah ke Malaysia bersama anjing atau kucing, atau membawa masuk seekor hewan untuk tujuan lain apa pun, yang perlu merencanakan proses izin dan karantina sebelum berangkat."
 
 lang: "id"
-sourceContentHash: "10bc44ecb02ea814"
+sourceContentHash: "f0c824b1e97a05f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

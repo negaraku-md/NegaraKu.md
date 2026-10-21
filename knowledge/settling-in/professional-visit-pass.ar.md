@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "الشركات الماليزية التي تستضيف خبراء أو باحثين أو متدربين أو متطوعين أو عارضين أجانب لمهمة محددة المدة، وفِرق الموارد البشرية أو التنقل الراعية التي تقدّم الطلبات نيابةً عنهم."
 
 lang: "ar"
-sourceContentHash: "8d251b7426f433be"
+sourceContentHash: "3825b81a5b37d905"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

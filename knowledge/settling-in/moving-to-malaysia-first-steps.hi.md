@@ -25,7 +25,7 @@ verificationNeeded:
   - "MM2H's specific income, deposit and duration figures per tier should be confirmed directly on the official MM2H portal (mm2h.gov.my) at the time of application, since the portal blocks automated fetching and its tiers have been restructured more than once in recent years."
 
 lang: "hi"
-sourceContentHash: "dd39883661ce9f6f"
+sourceContentHash: "8ba19ead8eedf5f8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -117,6 +117,25 @@ MM2H ऊपर दिए सभी से अलग खड़ा है क्�
 
 **4. एक ड्राइविंग लाइसेंस, यदि आप गाड़ी चलाएँगे।** किसी विदेशी लाइसेंस को मलेशियाई में बदलने की अपनी एक पात्रता-अवधि होती है जो इस बात से बँधी है कि आप कितने समय से देश में हैं और आप कौन-सी तस्दीक रखते हैं — पहले तीन मद तय हो जाने पर इसे शुरू करना अच्छा है, न कि इसे तब तक टालना जब तक आपके मौजूदा लाइसेंस की मान्यता-अवधि समाप्त होने को न आ जाए।
 
+## कौन-सी मार्गदर्शिका आपको चाहिए
+
+एक बार जब आप जान लें कि आपकी तस्दीक किस परिवार में आती है, तो विशिष्ट मार्ग पर गहराई से जाएँ — और उन कामों पर भी जो उतरने के बाद आते हैं।
+
+| यदि आपकी स्थिति है | पढ़ें |
+| --- | --- |
+| यह जाँचना कि आपको प्रवेश के लिए वीज़ा चाहिए भी या नहीं | [मलेशिया में प्रवेश के लिए किसे वीज़ा चाहिए](/hi/settling-in/malaysia-entry-visa-requirements-by-nationality) |
+| किसी मलेशियाई नियोक्ता द्वारा नियुक्त | [Employment Pass](/hi/settling-in/employment-pass) |
+| किसी विदेशी नियोक्ता द्वारा अस्थायी नियुक्ति पर भेजे गए | [Professional Visit Pass](/hi/settling-in/professional-visit-pass) |
+| जीवनसाथी या बच्चों को साथ ला रहे | [Dependant और दीर्घकालिक सामाजिक यात्रा तस्दीकें](/hi/settling-in/dependant-social-visit-passes) |
+| पढ़ाई के लिए आ रहे | [Student Pass](/hi/settling-in/student-pass) |
+| डिजिटल नोमैड के रूप में दूरस्थ काम कर रहे | [DE Rantau, डिजिटल नोमैड तस्दीक](/hi/settling-in/de-rantau-nomad-pass) |
+| अपने स्वयं के धन से सेवानिवृत्त हो रहे या स्थानांतरित हो रहे | [MM2H दीर्घ-प्रवास वीज़ा](/hi/settling-in/mm2h-long-stay-visa), या [Premium Visa Programme (PVIP)](/hi/settling-in/premium-visa-programme-pvip) |
+| स्थायी निवास या नागरिकता का लक्ष्य रखते हुए | [स्थायी निवास (MyPR)](/hi/settling-in/permanent-residency-malaysia), फिर [पंजीकरण द्वारा नागरिकता](/hi/settling-in/malaysian-citizenship-by-registration) |
+| अपने MyKad और पहचान दस्तावेज़ सुलझा रहे | [MyKad, MyPR और MyKAS](/hi/settling-in/mykad-and-identity-documents) |
+| अपना घर भेज रहे — सामान, कार, पालतू जानवर | [सामान और अपनी कार भेजना](/hi/settling-in/shipping-belongings-and-car), और [पालतू जानवर लाना](/hi/settling-in/bringing-pets-into-malaysia) |
+| किसी ओवरस्टे या ब्लैकलिस्ट प्रविष्टि को ठीक कर रहे | [तस्दीक की अवधि से अधिक रुकना: कंपाउंड और ब्लैकलिस्ट](/hi/settling-in/immigration-overstay-and-blacklist) |
+| मलेशिया हमेशा के लिए छोड़ रहे | [जाने से पहले कर-निकासी](/hi/settling-in/leaving-malaysia-tax-clearance) |
+
 ## सामान्य ग़लतियाँ
 
 - **तस्दीक-पात्रता की पुष्टि से पहले स्थानांतरण बुक करना।** तस्दीक — उड़ान की तारीख नहीं — ही वास्तविक महत्वपूर्ण-पथ है; इसके बिना बाद का सब कुछ रुक जाता है।
@@ -127,5 +146,7 @@ MM2H ऊपर दिए सभी से अलग खड़ा है क्�
 
 ## आगे क्या
 
-ऊपर दिए लगभग हर तस्दीक-निर्णय के पीछे की एजेंसी के लिए, देखें [Jabatan Imigresen Malaysia](/government/imigresen)। एक बार आपकी तस्दीक तय हो जाने पर, जो दो प्रशासनिक चरण सीधे इस पर आधारित होते हैं वे [मलेशिया में बैंक खाता खोलना](/money-daily-life/opening-bank-account) और [मोबाइल SIM योजनाएँ](/money-daily-life/mobile-sim-plans) में शामिल हैं। यदि आप गाड़ी चलाएँगे, तो देखें [विदेशियों के लिए ड्राइविंग लाइसेंस](/transport/driving-licence-foreigners)। और जो पहचान दस्तावेज़ आप स्थायी निवासी बनने पर अंततः रखेंगे, उसके लिए देखें [MyKad](/glossary/mykad)।
+ऊपर दिए लगभग हर तस्दीक-निर्णय के पीछे की एजेंसी के लिए, देखें [Jabatan Imigresen Malaysia](/hi/government/imigresen)। एक बार आपकी तस्दीक तय हो जाने पर, जो दो प्रशासनिक चरण सीधे इस पर आधारित होते हैं वे [मलेशिया में बैंक खाता खोलना](/hi/money-daily-life/opening-bank-account) और [मोबाइल SIM योजनाएँ](/hi/money-daily-life/mobile-sim-plans) में शामिल हैं। यदि आप गाड़ी चलाएँगे, तो देखें [विदेशियों के लिए ड्राइविंग लाइसेंस](/hi/transport/driving-licence-foreigners)। और जो पहचान दस्तावेज़ आप स्थायी निवासी बनने पर अंततः रखेंगे, उसके लिए देखें [MyKad](/hi/glossary/mykad)।
+
+कुछ भी बुक करने से पहले, यह पुष्टि करें कि आपकी राष्ट्रीयता को प्रवेश के लिए वीज़ा चाहिए भी या नहीं — [मलेशिया में प्रवेश के लिए किसे वीज़ा चाहिए](/hi/settling-in/malaysia-entry-visa-requirements-by-nationality) वीज़ा-मुक्त, eVisa और eNTRI मार्गों को स्पष्ट करता है। और यदि आपके यहाँ रहते हुए कभी कोई तस्दीक समाप्त हो जाए, तो [तस्दीक की अवधि से अधिक रुकना](/hi/settling-in/immigration-overstay-and-blacklist) कंपाउंड, ब्लैकलिस्ट, और इससे कैसे निकलें, यह समझाता है।
 </content>

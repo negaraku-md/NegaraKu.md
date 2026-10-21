@@ -31,7 +31,7 @@ faq:
     a: "نعم. يمكن للزوج أو الشريك بموجب القانون العُرفي، والأبناء دون سن 18 عامًا، والطفل ذي الإعاقة، ووالدَي حامل التصريح الأساسي التقدّم بوصفهم مرافقين، لكن لا يمكن للزوج العمل بموجب هذا التصريح."
 
 lang: "ar"
-sourceContentHash: "f5c5f5f455206b06"
+sourceContentHash: "4acc75e3a074b7b6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

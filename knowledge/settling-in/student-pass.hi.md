@@ -46,7 +46,7 @@ obligations:
     authority: "Malaysian Immigration Department"
 
 lang: "hi"
-sourceContentHash: "3119f651e106c8fe"
+sourceContentHash: "705c2eb2eb7aaeed"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

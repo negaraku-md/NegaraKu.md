@@ -22,7 +22,7 @@ appliesTo: "外国人の専門家、研究者、研修生、ボランティア�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8d251b7426f433be"
+sourceContentHash: "3825b81a5b37d905"
 
 status: "published"
 aiAssisted: true

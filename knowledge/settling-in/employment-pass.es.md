@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Nacionales extranjeros con una oferta de empleo en Malasia, y cualquier persona que ya tenga o esté renovando un Employment Pass en Malasia."
 
 lang: "es"
-sourceContentHash: "1684527edc9ec752"
+sourceContentHash: "15f43dc5f13f9d7c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "반려견이나 반려묘와 함께 말레이시아로 이주하거나, 그 밖의 목적으로 동물을 데려오려는 사람으로서, 출발 전에 허가와 검역 절차를 계획해야 하는 모든 이."
 
 lang: "ko"
-sourceContentHash: "10bc44ecb02ea814"
+sourceContentHash: "f0c824b1e97a05f2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

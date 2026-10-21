@@ -23,7 +23,7 @@ verificationNeeded:
   - "Le site du MOTAC renvoie une erreur 403 à certains outils de récupération automatisés ; les chiffres indiqués ici ont été obtenus par requête directe de type navigateur sur les pages de catégories et de directives de mm2h.gov.my et recoupés avec le tableau comparatif Category Overview du site lui-même, mais le programme a changé substantiellement depuis 2024 et les conditions peuvent être révisées à nouveau — confirmez toujours les chiffres actuels sur mm2h.gov.my avant de vous y fier pour une demande."
 
 lang: "fr"
-sourceContentHash: "9a440d3b932f1d8e"
+sourceContentHash: "722c4d82da3ee8ea"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

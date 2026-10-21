@@ -23,7 +23,7 @@ appliesTo: "Warganegara asing yang mempunyai tawaran kerja Malaysia, dan sesiapa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1684527edc9ec752"
+sourceContentHash: "15f43dc5f13f9d7c"
 
 status: "published"
 aiAssisted: true

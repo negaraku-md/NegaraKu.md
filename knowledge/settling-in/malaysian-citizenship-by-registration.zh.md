@@ -29,7 +29,7 @@ faq:
     a: "在特定情况下可以。第26(2)条允许联邦政府撤销依据第15(1)条登记的女性的公民权，前提是作为登记依据的婚姻在结婚之日起两年内被解除（因死亡而解除者除外）。"
 
 lang: "zh"
-sourceContentHash: "28365cf20f843051"
+sourceContentHash: "f9258e7912c58798"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "Bisa dalam keadaan tertentu. Pasal 26(2) membolehkan Pemerintah Federal mencabut kewarganegaraan perempuan yang didaftarkan di bawah Pasal 15(1) jika pernikahan yang menjadi dasar pendaftaran itu dibubarkan (selain karena kematian) dalam dua tahun dari tanggal pernikahan."
 
 lang: "id"
-sourceContentHash: "28365cf20f843051"
+sourceContentHash: "f9258e7912c58798"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

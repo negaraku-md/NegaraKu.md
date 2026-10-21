@@ -34,7 +34,7 @@ faq:
     a: "Có. Một kháng nghị phải được nộp cho Bộ trưởng Bộ Nội vụ trong vòng 30 ngày kể từ ngày của thư từ chối, kèm một thư kháng nghị, thư từ chối, và các giấy tờ hỗ trợ."
 
 lang: "vi"
-sourceContentHash: "d074952166cefba5"
+sourceContentHash: "d34c1375724d20bd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
