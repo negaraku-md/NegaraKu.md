@@ -300,6 +300,8 @@ months.
 
 ## What's next
 
+Still choosing a structure? See [all seven Malaysian business structures compared](/en/business/business-structures-malaysia).
+
 Test your activity against the Thirteenth Schedule first — if you fall inside it, the
 whole exercise disappears. If you genuinely have to be registered, model the branch
 against a locally incorporated subsidiary on three axes: the s.575(5) audited Malaysian

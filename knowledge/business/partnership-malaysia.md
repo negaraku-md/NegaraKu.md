@@ -160,6 +160,8 @@ form under the Limited Liability Partnerships Act 2012 instead.
 
 ## What's next
 
+Still choosing a structure? See [all seven Malaysian business structures compared](/en/business/business-structures-malaysia).
+
 If you have already registered a partnership, do two things this week: get a
 written agreement that displaces the s.35(1) dissolution default and fixes profit
 shares, and price professional indemnity cover against your s.14 exposure.

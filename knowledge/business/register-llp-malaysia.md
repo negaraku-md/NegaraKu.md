@@ -296,6 +296,8 @@ carry a regulated practice.
 
 ## What's next
 
+Still choosing a structure? See [all seven Malaysian business structures compared](/en/business/business-structures-malaysia).
+
 Decide the compliance officer before you open MyLLP, not on the tab where it is asked —
 that person needs a verified SSM4U identity and is signing up to personal exposure.
 Then draft the LLP agreement rather than defaulting into the Second Schedule, and put

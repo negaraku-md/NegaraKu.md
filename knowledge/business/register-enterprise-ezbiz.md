@@ -265,6 +265,8 @@ under proviso (a), but only on application, on conditions, and at your cost.
 
 ## What's next
 
+Still choosing a structure? See [all seven Malaysian business structures compared](/en/business/business-structures-malaysia).
+
 If you have been trading for more than thirty days, register now rather than waiting
 for a tidier start date; the exposure grows with every unregistered contract. Then
 decide the registration period deliberately — five years up front removes four renewal

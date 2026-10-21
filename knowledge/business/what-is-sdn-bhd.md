@@ -137,6 +137,6 @@ letterhead, is the decision.
 
 If you are weighing this against other structures, the full comparison of
 enterprise, partnership, LLP, Sdn Bhd, Berhad, foreign branch and Labuan company
-sits in Malaysian business structures compared, and the tax side is worked
+sits in [Malaysian business structures compared](/en/business/business-structures-malaysia), and the tax side is worked
 through separately. If you have already decided, the registration guide walks
 through name reservation, incorporation and the first-year filings.

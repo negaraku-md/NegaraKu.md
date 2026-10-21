@@ -442,6 +442,8 @@ persistent default can lead to strike-off action.
 
 ## What's next
 
+Still choosing a structure? See [all seven Malaysian business structures compared](/en/business/business-structures-malaysia).
+
 Two things deserve attention immediately after incorporation: appointing your
 company secretary within the 30-day window, and mapping your first-year compliance
 calendar so the annual return and tax deadlines are known rather than discovered.

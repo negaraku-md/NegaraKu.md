@@ -104,4 +104,6 @@ Because of the money-laundering and terrorism-financing risks in this sector, a 
 
 ## What's next
 
+Still choosing a structure? See [all seven Malaysian business structures compared](/en/business/business-structures-malaysia).
+
 If a CLBG fits your purpose, the practical starting point is engaging a company secretary and preparing a constitution built on SSM's Part A model. Decide early whether you will pursue the "Berhad"-free name, because the RM1 million fund and its six-month deadline shape your fundraising plan from day one. For the full checklists, model constitution and worked examples, read the SSM Guidelines on Company Limited by Guarantee (27 September 2021) linked in the sources.
