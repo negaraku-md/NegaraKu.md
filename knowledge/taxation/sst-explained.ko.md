@@ -24,7 +24,7 @@ appliesTo: "SST 제도의 어느 부분이 자신에게 적용되는지 파악�
 verificationNeeded: []
 
 lang: "ko"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -90,13 +90,15 @@ SST는 어디서나 "GST 대체 세금"으로 설명되지만, 이는 SST에 대
 
 | 귀하의 질문이 다음이라면 | 참고 |
 | --- | --- |
-| 등록해야 하는가, 어느 매출액에서? | [서비스 그룹별 SST 등록 기준](/en/taxation/sst-registration) |
-| 내 서비스에는 어떤 세율이 적용되는가? | [서비스세 그룹 A~M 참조](/en/taxation/sst-rate-table) |
-| 물품에 대한 판매세는 어떻게 작동하는가? | [말레이시아의 판매세](/en/taxation/sales-tax-explained) |
-| 2025년 7월 1일에 무엇이 바뀌었는가? | [2025년 7월 1일 서비스세 확대](/en/taxation/sst-expansion-2025) |
-| 어떻게, 언제 신고하는가? | [SST-02 신고](/en/taxation/sst-02-filing) |
-| 다른 등록 사업자로부터 구매한 서비스에 대한 세금을 피할 수 있는가? | [SST B2B 면제](/en/taxation/sst-b2b-exemption) |
-| 말레이시아 밖의 공급자로부터 서비스를 구매했다 | [수입 과세 서비스와 SST-02A](/en/taxation/imported-taxable-services) |
+| 등록해야 하는가, 어느 매출액에서? | [서비스 그룹별 SST 등록 기준](/ko/taxation/sst-registration) |
+| 내 서비스에는 어떤 세율이 적용되는가? | [서비스세 그룹 A~M 참조](/ko/taxation/sst-rate-table) |
+| 물품에 대한 판매세는 어떻게 작동하는가? | [말레이시아의 판매세](/ko/taxation/sales-tax-explained) |
+| 2025년 7월 1일에 무엇이 바뀌었는가? | [2025년 7월 1일 서비스세 확대](/ko/taxation/sst-expansion-2025) |
+| 어떻게, 언제 신고하는가? | [SST-02 신고](/ko/taxation/sst-02-filing) |
+| 다른 등록 사업자로부터 구매한 서비스에 대한 세금을 피할 수 있는가? | [SST B2B 면제](/ko/taxation/sst-b2b-exemption) |
+| 말레이시아 밖의 공급자로부터 서비스를 구매했다 | [수입 과세 서비스와 SST-02A](/ko/taxation/imported-taxable-services) |
+| 소규모 사업자로서 상업용 공간을 임차하고 있다 | [중소기업을 위한 SST 임대료 면제](/ko/taxation/sst-rental-exemption-sme) |
+| 서비스에 관한 근거 법령이 필요하다 | [서비스세법(Service Tax Act 2018)](/ko/taxation/service-tax-act-2018) |
 
 ## 어느 것이든 읽기 전에 알아둘 세 가지
 
@@ -129,6 +131,6 @@ SST는 어디서나 "GST 대체 세금"으로 설명되지만, 이는 SST에 대
 
 ## 다음 단계
 
-적용 범위에 해당하는지조차 확실하지 않다면 등록부터 시작하십시오. 그 답이
+적용 범위에 해당하는지조차 확실하지 않다면 [등록](/ko/taxation/sst-registration)부터 시작하십시오. 그 답이
 나머지 모든 것을 결정하기 때문입니다. 이미 등록되어 있고 단지 특정 서비스
-그룹의 현재 세율만 필요하다면, 세율 및 기준 참조로 곧장 가십시오.
+그룹의 현재 세율만 필요하다면, [세율 및 기준 참조](/ko/taxation/sst-rate-table)로 곧장 가십시오.

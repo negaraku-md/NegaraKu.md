@@ -26,7 +26,7 @@ verificationNeeded: []
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 
 status: "published"
 aiAssisted: true
@@ -90,6 +90,8 @@ SSTはどこでも「GSTの代替」と説明されるが、それはSSTにつ�
 | 申告はどのように、いつ行うか | [SST-02の申告](/ja/taxation/sst-02-filing) |
 | 他の登録事業者から購入したサービスにかかる税を回避できるか | [SSTのB2B免除](/ja/taxation/sst-b2b-exemption) |
 | マレーシア国外の供給者からサービスを購入した | [輸入課税サービスとSST-02A](/ja/taxation/imported-taxable-services) |
+| 小規模事業者として商業用スペースを賃借している | [中小企業向けのSST賃貸料免除](/ja/taxation/sst-rental-exemption-sme) |
+| サービスに関する根拠法令を知りたい | [2018年サービス税法（Service Tax Act 2018）](/ja/taxation/service-tax-act-2018) |
 
 ## どれを読む前にも知っておく価値のある三つのこと
 
@@ -109,4 +111,4 @@ SSTはどこでも「GSTの代替」と説明されるが、それはSSTにつ�
 
 ## 次のステップ
 
-自社がそもそも対象範囲に入るかどうか不明な場合は、登録から始めること。その答えが他の全てを決定づけるからである。既に登録済みであると分かっており、あるサービスグループの現行税率だけを知りたい場合は、税率・基準額の参照表に直接進むこと。
+自社がそもそも対象範囲に入るかどうか不明な場合は、[登録](/ja/taxation/sst-registration)から始めること。その答えが他の全てを決定づけるからである。既に登録済みであると分かっており、あるサービスグループの現行税率だけを知りたい場合は、[税率・基準額の参照表](/ja/taxation/sst-rate-table)に直接進むこと。

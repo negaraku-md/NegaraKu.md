@@ -24,7 +24,7 @@ appliesTo: "Pemilik usaha dan staf keuangan yang mencoba mengidentifikasi bagian
 verificationNeeded: []
 
 lang: "id"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -100,6 +100,8 @@ sia-sia.
 | Bagaimana dan kapan saya perlu mengajukan? | [Mengajukan SST-02](/id/taxation/sst-02-filing) |
 | Dapatkah saya menghindari pajak atas jasa yang dibeli dari usaha terdaftar lain? | [Pengecualian B2B SST](/id/taxation/sst-b2b-exemption) |
 | Saya membeli jasa dari pemasok di luar Malaysia | [Jasa kena pajak yang diimpor dan SST-02A](/id/taxation/imported-taxable-services) |
+| Saya menyewa ruang komersial sebagai usaha kecil | [Pengecualian SST atas sewa untuk UKM](/id/taxation/sst-rental-exemption-sme) |
+| Saya ingin undang-undang yang mendasari pajak jasa | [Service Tax Act 2018](/id/taxation/service-tax-act-2018) |
 
 ## Tiga hal yang patut Anda ketahui sebelum membaca salah satunya
 
@@ -134,7 +136,7 @@ jasa profesional asing.
 
 ## Langkah selanjutnya
 
-Mulailah dengan pendaftaran jika Anda tidak yakin apakah Anda termasuk dalam
+Mulailah dengan [pendaftaran](/id/taxation/sst-registration) jika Anda tidak yakin apakah Anda termasuk dalam
 cakupan langsung, karena jawaban itu menentukan segala sesuatu yang selanjutnya.
 Jika Anda sudah tahu Anda terdaftar dan hanya perlu mengetahui tarif saat ini bagi
-suatu kelompok jasa, langsung rujuk rujukan tarif dan batas.
+suatu kelompok jasa, langsung rujuk [rujukan tarif dan batas](/id/taxation/sst-rate-table).

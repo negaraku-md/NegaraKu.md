@@ -179,18 +179,18 @@ berasingan satu per satu.
    dalam puluhan ringgit setahun; risikonya pula ialah rumah anda.
 2. **Adakah anda akan menghimpun modal luar, memberikan ekuiti kepada
    kakitangan, atau menjual perniagaan pada bila-bila masa?** Jika ya, anda
-   memerlukan saham. Ini bermakna [Sdn Bhd](/ms/business/what-is-sdn-bhd).
+   memerlukan saham. Ini bermakna [Sdn Bhd](/business/what-is-sdn-bhd).
 3. **Adakah anda seorang akauntan bertauliah, peguam bela dan peguam cara,
    atau setiausaha syarikat yang menjalankan amalan?** Satu-satunya laluan
-   liabiliti terhad anda ialah [LLP](/ms/business/register-llp-malaysia), di bawah s.8 dan First Schedule Akta LLP
+   liabiliti terhad anda ialah [LLP](/business/register-llp-malaysia), di bawah s.8 dan First Schedule Akta LLP
    2012.
 4. **Adakah perniagaan operasi itu benar-benar di luar Malaysia, atau
-   benar-benar di Labuan?** Hanya dalam keadaan itu [syarikat Labuan](/ms/business/labuan-company-vs-sdn-bhd) berbaloi
+   benar-benar di Labuan?** Hanya dalam keadaan itu [syarikat Labuan](/business/labuan-company-vs-sdn-bhd) berbaloi
    dinilai.
 5. **Adakah ini kumpulan asing yang memasuki Malaysia?** Bandingkan [cawangan
-   dengan anak syarikat (subsidiary)](/ms/business/branch-vs-subsidiary-malaysia) dari segi pemastautin cukai dan
+   dengan anak syarikat (subsidiary)](/business/branch-vs-subsidiary-malaysia) dari segi pemastautin cukai dan
    ring-fencing sebelum melakukan apa-apa lagi.
-6. **Jika tidak, [perbadankan Sdn Bhd](/ms/business/register-sdn-bhd).** Ia menjadi pilihan lalai atas sebab
+6. **Jika tidak, [perbadankan Sdn Bhd](/business/register-sdn-bhd).** Ia menjadi pilihan lalai atas sebab
    yang munasabah.
 
 ## Kesilapan biasa
@@ -212,26 +212,26 @@ berasingan satu per satu.
 
 Setelah anda mempersempit pilihan, baca panduan khusus:
 
-- **Pemilikan tunggal / enterprise** — [daftar enterprise melalui EzBiz](/ms/business/register-enterprise-ezbiz), dan [tutup pemilikan tunggal atau perkongsian](/ms/business/close-sole-proprietorship-partnership) apabila anda menggulungnya.
-- **Perkongsian konvensional** — [cara perkongsian Malaysia berfungsi](/ms/business/partnership-malaysia): liabiliti, had dua puluh rakan kongsi dan pembubaran.
-- **LLP** — [daftar LLP melalui MyLLP](/ms/business/register-llp-malaysia), laluan liabiliti terhad untuk firma profesional dan perkongsian kecil.
-- **Sdn Bhd** — [apa itu Sdn Bhd](/ms/business/what-is-sdn-bhd), kemudian [cara mendaftarkannya](/ms/business/register-sdn-bhd); ia merupakan syarikat sendirian lalai.
-- **Berhad** — timbangkannya dengan syarikat persendirian dalam [Sdn Bhd berbanding Berhad](/ms/business/sdn-bhd-vs-berhad).
-- **Cawangan asing** — [daftar cawangan asing](/ms/business/register-foreign-branch-malaysia), atau selesaikan [cawangan berbanding anak syarikat](/ms/business/branch-vs-subsidiary-malaysia) terlebih dahulu.
-- **Syarikat Labuan** — uji sebarang tawaran luar pesisir dengan [syarikat Labuan berbanding Sdn Bhd](/ms/business/labuan-company-vs-sdn-bhd).
-- **Syarikat berhad menurut jaminan** — [sebuah CLG](/ms/business/company-limited-by-guarantee-malaysia) untuk pertubuhan bukan untung dan persatuan.
-- **Struktur pegangan** — [syarikat pegangan](/ms/business/holding-company-malaysia) untuk berada di atas beberapa daripada struktur ini.
-- **Sabah & Sarawak** — pendaftaran dijalankan di bawah ordinan negeri, bukan Akta Pendaftaran Perniagaan 1956: [Sabah](/ms/business/register-business-sabah) · [Sarawak](/ms/business/register-business-sarawak).
+- **Pemilikan tunggal / enterprise** — [daftar enterprise melalui EzBiz](/business/register-enterprise-ezbiz), dan [tutup pemilikan tunggal atau perkongsian](/business/close-sole-proprietorship-partnership) apabila anda menggulungnya.
+- **Perkongsian konvensional** — [cara perkongsian Malaysia berfungsi](/business/partnership-malaysia): liabiliti, had dua puluh rakan kongsi dan pembubaran.
+- **LLP** — [daftar LLP melalui MyLLP](/business/register-llp-malaysia), laluan liabiliti terhad untuk firma profesional dan perkongsian kecil.
+- **Sdn Bhd** — [apa itu Sdn Bhd](/business/what-is-sdn-bhd), kemudian [cara mendaftarkannya](/business/register-sdn-bhd); ia merupakan syarikat sendirian lalai.
+- **Berhad** — timbangkannya dengan syarikat persendirian dalam [Sdn Bhd berbanding Berhad](/business/sdn-bhd-vs-berhad).
+- **Cawangan asing** — [daftar cawangan asing](/business/register-foreign-branch-malaysia), atau selesaikan [cawangan berbanding anak syarikat](/business/branch-vs-subsidiary-malaysia) terlebih dahulu.
+- **Syarikat Labuan** — uji sebarang tawaran luar pesisir dengan [syarikat Labuan berbanding Sdn Bhd](/business/labuan-company-vs-sdn-bhd).
+- **Syarikat berhad menurut jaminan** — [sebuah CLG](/business/company-limited-by-guarantee-malaysia) untuk pertubuhan bukan untung dan persatuan.
+- **Struktur pegangan** — [syarikat pegangan](/business/holding-company-malaysia) untuk berada di atas beberapa daripada struktur ini.
+- **Sabah & Sarawak** — pendaftaran dijalankan di bawah ordinan negeri, bukan Akta Pendaftaran Perniagaan 1956: [Sabah](/business/register-business-sabah) · [Sarawak](/business/register-business-sarawak).
 
 ## Apa seterusnya
 
 Baca perbandingan bersemuka yang sepadan dengan senarai pendek anda, bukannya
-membaca ketujuh-tujuh halaman: [pemilikan tunggal berbanding Sdn Bhd](/ms/business/sole-prop-vs-sdn-bhd) jika anda
-memulakan usaha bersendirian, [LLP berbanding Sdn Bhd](/ms/business/llp-vs-sdn-bhd) jika anda sebuah firma
-profesional atau perkongsian kecil, [Sdn Bhd berbanding Berhad](/ms/business/sdn-bhd-vs-berhad) jika anda
+membaca ketujuh-tujuh halaman: [pemilikan tunggal berbanding Sdn Bhd](/business/sole-prop-vs-sdn-bhd) jika anda
+memulakan usaha bersendirian, [LLP berbanding Sdn Bhd](/business/llp-vs-sdn-bhd) jika anda sebuah firma
+profesional atau perkongsian kecil, [Sdn Bhd berbanding Berhad](/business/sdn-bhd-vs-berhad) jika anda
 menghampiri lima puluh pemegang saham atau merancang untuk menghimpun modal,
-[cawangan berbanding anak syarikat](/ms/business/branch-vs-subsidiary-malaysia) jika anda sebuah kumpulan asing, dan [Labuan
-berbanding Sdn Bhd](/ms/business/labuan-company-vs-sdn-bhd) jika seseorang telah menawarkan anda struktur luar pesisir
+[cawangan berbanding anak syarikat](/business/branch-vs-subsidiary-malaysia) jika anda sebuah kumpulan asing, dan [Labuan
+berbanding Sdn Bhd](/business/labuan-company-vs-sdn-bhd) jika seseorang telah menawarkan anda struktur luar pesisir
 (offshore).
 
 ---

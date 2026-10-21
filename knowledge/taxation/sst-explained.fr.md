@@ -24,7 +24,7 @@ appliesTo: "Propriétaires d'entreprise et personnel financier cherchant à dét
 verificationNeeded: []
 
 lang: "fr"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -99,6 +99,8 @@ après les crédits de taxe en amont au titre de la SST est un effort gaspillé.
 | Comment et quand dois-je déclarer ? | [Déposer le SST-02](/fr/taxation/sst-02-filing) |
 | Puis-je éviter la taxe sur les services achetés à une autre entreprise enregistrée ? | [L'exonération SST B2B](/fr/taxation/sst-b2b-exemption) |
 | J'ai acheté des services à un fournisseur situé hors de Malaisie | [Services imposables importés et SST-02A](/fr/taxation/imported-taxable-services) |
+| Je loue un local commercial en tant que petite entreprise | [L'exonération de la taxe sur les services locatifs pour les PME](/fr/taxation/sst-rental-exemption-sme) |
+| Je veux consulter la loi sous-jacente sur les services | [La Service Tax Act 2018](/fr/taxation/service-tax-act-2018) |
 
 ## Trois choses qu'il vaut la peine de savoir avant d'en lire l'un quelconque
 
@@ -133,7 +135,7 @@ logiciels et des services professionnels étrangers.
 
 ## Et ensuite
 
-Commencez par l'enregistrement si vous ne savez pas si vous êtes même dans le
+Commencez par [l'enregistrement](/fr/taxation/sst-registration) si vous ne savez pas si vous êtes même dans le
 champ d'application, car cette réponse détermine tout le reste. Si vous savez déjà
 que vous êtes enregistré et avez simplement besoin du taux actuel d'un groupe de
-service, allez directement à la référence des taux et des seuils.
+service, allez directement à la [référence des taux et des seuils](/fr/taxation/sst-rate-table).

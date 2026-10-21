@@ -24,7 +24,7 @@ appliesTo: "Chủ doanh nghiệp và nhân viên tài chính đang cố xác đ�
 verificationNeeded: []
 
 lang: "vi"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -98,6 +98,8 @@ nỗ lực lãng phí.
 | Tôi nộp như thế nào và khi nào? | [Nộp SST-02](/vi/taxation/sst-02-filing) |
 | Tôi có thể tránh thuế trên các dịch vụ mua từ một doanh nghiệp đã đăng ký khác không? | [Khoản miễn SST B2B](/vi/taxation/sst-b2b-exemption) |
 | Tôi đã mua dịch vụ từ một nhà cung cấp ngoài Malaysia | [Các dịch vụ chịu thuế nhập khẩu và SST-02A](/vi/taxation/imported-taxable-services) |
+| Tôi thuê mặt bằng thương mại với tư cách doanh nghiệp nhỏ | [Khoản miễn thuế dịch vụ cho thuê dành cho SME](/vi/taxation/sst-rental-exemption-sme) |
+| Tôi muốn xem đạo luật nền tảng về dịch vụ | [Service Tax Act 2018](/vi/taxation/service-tax-act-2018) |
 
 ## Ba điều đáng biết trước khi bạn đọc bất kỳ hướng dẫn nào trong số đó
 
@@ -129,7 +131,7 @@ Malaysia nhỏ mua phần mềm và dịch vụ chuyên môn nước ngoài.
 
 ## Tiếp theo
 
-Hãy bắt đầu với đăng ký nếu bạn không chắc liệu mình có nằm trong phạm vi chút nào hay
+Hãy bắt đầu với [đăng ký](/vi/taxation/sst-registration) nếu bạn không chắc liệu mình có nằm trong phạm vi chút nào hay
 không, vì câu trả lời đó quyết định mọi thứ khác. Nếu bạn đã biết mình đã đăng ký và đơn
-giản cần thuế suất hiện hành cho một nhóm dịch vụ, hãy đi thẳng đến tham chiếu thuế suất
-và ngưỡng.
+giản cần thuế suất hiện hành cho một nhóm dịch vụ, hãy đi thẳng đến [tham chiếu thuế suất
+và ngưỡng](/vi/taxation/sst-rate-table).

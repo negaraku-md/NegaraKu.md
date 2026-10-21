@@ -26,7 +26,7 @@ verificationNeeded: []
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 
 status: "published"
 aiAssisted: true
@@ -100,6 +100,8 @@ usaha yang sia-sia.
 | Bagaimana dan bila saya perlu memfailkan? | [Memfailkan SST-02](/taxation/sst-02-filing) |
 | Bolehkah saya mengelakkan cukai ke atas perkhidmatan yang dibeli daripada perniagaan berdaftar lain? | [Pengecualian B2B SST](/taxation/sst-b2b-exemption) |
 | Saya membeli perkhidmatan daripada pembekal di luar Malaysia | [Perkhidmatan bercukai diimport dan SST-02A](/taxation/imported-taxable-services) |
+| Saya menyewa ruang komersial sebagai perniagaan kecil | [Pengecualian cukai perkhidmatan sewaan untuk PKS](/taxation/sst-rental-exemption-sme) |
+| Saya mahukan statut asas mengenai perkhidmatan | [Akta Cukai Perkhidmatan 2018](/taxation/service-tax-act-2018) |
 
 ## Tiga perkara yang patut anda ketahui sebelum membaca mana-mana daripadanya
 
@@ -136,8 +138,8 @@ perisian dan perkhidmatan profesional asing.
 
 ## Langkah seterusnya
 
-Mulakan dengan pendaftaran jika anda tidak pasti sama ada anda termasuk
+Mulakan dengan [pendaftaran](/taxation/sst-registration) jika anda tidak pasti sama ada anda termasuk
 dalam skop langsung, kerana jawapan itu menentukan segala-galanya yang
 seterusnya. Jika anda sudah tahu anda berdaftar dan hanya perlu mengetahui
-kadar semasa bagi sesuatu kumpulan perkhidmatan, terus rujuk rujukan kadar
-dan had.
+kadar semasa bagi sesuatu kumpulan perkhidmatan, terus rujuk [rujukan kadar
+dan had](/taxation/sst-rate-table).

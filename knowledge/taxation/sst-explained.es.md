@@ -24,7 +24,7 @@ appliesTo: "Propietarios de negocios y personal financiero que intentan averigua
 verificationNeeded: []
 
 lang: "es"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -92,13 +92,15 @@ de impuesto soportado bajo el SST es un esfuerzo malgastado.
 
 | Si su pregunta es | Lea |
 | --- | --- |
-| ¿Tengo que registrarme, y con qué volumen de negocio? | [Umbrales de registro SST por grupo de servicio](/en/taxation/sst-registration) |
-| ¿Qué tasa se aplica a mi servicio? | [Referencia de los grupos A a M del impuesto de servicios](/en/taxation/sst-rate-table) |
-| ¿Cómo funciona el impuesto de ventas sobre los bienes? | [El impuesto de ventas en Malasia](/en/taxation/sales-tax-explained) |
-| ¿Qué cambió el 1 de julio de 2025? | [La ampliación del impuesto de servicios del 1 de julio de 2025](/en/taxation/sst-expansion-2025) |
-| ¿Cómo y cuándo presento? | [Presentación del SST-02](/en/taxation/sst-02-filing) |
-| ¿Puedo evitar el impuesto sobre servicios comprados a otra empresa registrada? | [La exención SST B2B](/en/taxation/sst-b2b-exemption) |
-| Compré servicios a un proveedor fuera de Malasia | [Servicios imponibles importados y SST-02A](/en/taxation/imported-taxable-services) |
+| ¿Tengo que registrarme, y con qué volumen de negocio? | [Umbrales de registro SST por grupo de servicio](/es/taxation/sst-registration) |
+| ¿Qué tasa se aplica a mi servicio? | [Referencia de los grupos A a M del impuesto de servicios](/es/taxation/sst-rate-table) |
+| ¿Cómo funciona el impuesto de ventas sobre los bienes? | [El impuesto de ventas en Malasia](/es/taxation/sales-tax-explained) |
+| ¿Qué cambió el 1 de julio de 2025? | [La ampliación del impuesto de servicios del 1 de julio de 2025](/es/taxation/sst-expansion-2025) |
+| ¿Cómo y cuándo presento? | [Presentación del SST-02](/es/taxation/sst-02-filing) |
+| ¿Puedo evitar el impuesto sobre servicios comprados a otra empresa registrada? | [La exención SST B2B](/es/taxation/sst-b2b-exemption) |
+| Compré servicios a un proveedor fuera de Malasia | [Servicios imponibles importados y SST-02A](/es/taxation/imported-taxable-services) |
+| Alquilo un local comercial como pequeña empresa | [La exención del SST sobre alquileres para pymes](/es/taxation/sst-rental-exemption-sme) |
+| Quiero la ley de base sobre los servicios | [La Service Tax Act 2018](/es/taxation/service-tax-act-2018) |
 
 ## Tres cosas que conviene saber antes de leer cualquiera de ellas
 
@@ -133,7 +135,7 @@ compran software y servicios profesionales extranjeros.
 
 ## Qué sigue
 
-Empiece por el registro si no está seguro de si está siquiera dentro del ámbito,
+Empiece por el [registro](/es/taxation/sst-registration) si no está seguro de si está siquiera dentro del ámbito,
 ya que esa respuesta determina todo lo demás. Si ya sabe que está registrado y solo
-necesita la tasa actual de un grupo de servicio, vaya directamente a la referencia
-de tasas y umbrales.
+necesita la tasa actual de un grupo de servicio, vaya directamente a la [referencia
+de tasas y umbrales](/es/taxation/sst-rate-table).

@@ -26,7 +26,7 @@ verificationNeeded: []
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0ee2d291cdce3d2e"
+sourceContentHash: "f8bdcbc72ebf54fc"
 
 status: "published"
 aiAssisted: true
@@ -95,6 +95,8 @@ keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan p
 | 我要怎么呈报、什么时候呈报？ | [呈报 SST-02](/zh/taxation/sst-02-filing) |
 | 向另一家注册企业购买服务可以免税吗？ | [SST 的 B2B 豁免](/zh/taxation/sst-b2b-exemption) |
 | 我向马来西亚境外的供应商购买了服务 | [进口应税服务与 SST-02A](/zh/taxation/imported-taxable-services) |
+| 我是小企业，租用商业场地 | [中小企业的 SST 租金豁免](/zh/taxation/sst-rental-exemption-sme) |
+| 我想查阅服务税的底层法令 | [2018 年服务税法令](/zh/taxation/service-tax-act-2018) |
 
 ## 读任何一份之前值得先知道的三件事
 
@@ -119,6 +121,6 @@ keywords: ["SST Malaysia", "sales and service tax Malaysia", "cukai jualan dan p
 
 ## 下一步
 
-如果你根本不确定自己在不在范围之内，就从注册开始，因为那个答案会决定其余一切。
-如果你已经知道自己有注册，只是需要某个服务组别的现行税率，就直接看税率与门槛
-参考表。
+如果你根本不确定自己在不在范围之内，就从[注册](/zh/taxation/sst-registration)开始，因为那个答案会决定其余一切。
+如果你已经知道自己有注册，只是需要某个服务组别的现行税率，就直接看[税率与门槛
+参考表](/zh/taxation/sst-rate-table)。
