@@ -61,7 +61,7 @@ relations:
   - { rel: "related-to", to: "deepavali" }
   - { rel: "related-to", to: "thaipusam" }
   - { rel: "related-to", to: "article-3-religion" }
-related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics"]
+related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["மலேசியா இந்து சமயம்", "Hinduism in Malaysia", "மலேசிய இந்துக்கள்", "தமிழ் இந்துக்கள் மலேசியா", "மலேசிய இந்து சங்கம்", "மலேசியா கோயில்கள்"]
 ---
 
@@ -199,4 +199,7 @@ keywords: ["மலேசியா இந்து சமயம்", "Hinduism in
 குறிப்பிட்ட பண்டிகைகளுக்கு [தீபாவளி](/ta/arts-culture/deepavali),
 [தைப்பூசம்](/ta/arts-culture/thaipusam) ஆகியவற்றையும்,
 சமய-சட்டக் கட்டமைப்பிற்கு [உறுப்புரை 3 மற்றும் சமயம்](/ta/law/article-3-religion)
-ஆகியவற்றையும் காண்க.
+ஆகியவற்றையும் காண்க. பிற முக்கிய சமயங்களின் அறிமுகம்:
+[மலேசியாவில் பௌத்தம்](/ta/arts-culture/buddhism-in-malaysia),
+[மலேசியாவில் சீனச் சமயமும் தாவோயிசமும்](/ta/arts-culture/chinese-religion-in-malaysia),
+[மலேசியாவில் கிறிஸ்தவம்](/ta/arts-culture/christianity-in-malaysia).
