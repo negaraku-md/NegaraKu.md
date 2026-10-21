@@ -29,10 +29,10 @@ lang: "id"
 masterLanguage: "zh"
 translationStatus: "in-sync"
 sourceContentHash: "288705196583cc87"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: null
+reviewed: 2026-10-21
 revision: 0
 revisions:
   - revision: 0

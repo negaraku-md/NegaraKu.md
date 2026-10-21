@@ -30,10 +30,10 @@ lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "198b32c117f346a7"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: null
+reviewed: 2026-10-21
 revision: 0
 revisions:
   - revision: 0

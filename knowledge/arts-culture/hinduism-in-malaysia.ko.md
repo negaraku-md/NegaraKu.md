@@ -30,10 +30,10 @@ lang: "ko"
 masterLanguage: "ta"
 translationStatus: "in-sync"
 sourceContentHash: "bbfe1f6d7e0ff11f"
-status: "in-review"
+status: "reviewed"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: null
+reviewed: 2026-10-21
 revision: 0
 revisions:
   - revision: 0
