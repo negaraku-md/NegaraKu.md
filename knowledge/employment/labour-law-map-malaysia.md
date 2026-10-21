@@ -76,6 +76,22 @@ employee is not an approval at all.
 Every URL below was checked. Where a commonly cited address does not resolve, that is
 noted, because those are the ones that waste an afternoon.
 
+## Which guide you need
+
+The tables further down map each statute to its regulator and portal. If instead
+you want the plain-language guide to a particular duty, start here.
+
+| If your question is | Read |
+| --- | --- |
+| Does the Employment Act even cover this worker? | [Who the Employment Act covers](/en/employment/employment-act-coverage) |
+| I need the Act itself, Part by Part | [The Employment Act 1955 guide](/en/employment/employment-act-1955-guide) |
+| My employee works in Sabah or Sarawak | [The Sabah and Sarawak Labour Ordinances](/en/employment/sabah-sarawak-labour-ordinance) |
+| What leave, hours and wages do I owe? | [Leave entitlements](/en/employment/leave-entitlements-malaysia), [working hours and overtime](/en/employment/working-hours-overtime-malaysia), and [minimum wage](/en/employment/minimum-wage-malaysia) |
+| How do I end employment without a claim? | [Terminating employment](/en/employment/termination-of-employment-malaysia), and [unfair dismissal under s.20](/en/employment/unfair-dismissal-malaysia) |
+| What must I register and pay for each hire? | [The payroll compliance calendar](/en/employment/payroll-compliance-malaysia), starting with [EPF, SOCSO and EIS](/en/employment/epf-socso-guide) |
+| I am hiring a foreign national | [Hiring foreign workers](/en/employment/hiring-foreign-workers-malaysia), then [the Employment Pass](/en/employment/employment-pass-malaysia) |
+| Is this an employee or an independent contractor? | [Employee, gig worker or contractor](/en/employment/employee-vs-contractor-malaysia) |
+
 ## Labour standards
 
 | Statute | Act | Authority | Portal | Governs |
@@ -105,7 +121,7 @@ single most repeated broken reference in Malaysian HR writing.
 
 | Statute | Act | Authority | Portal | Governs |
 | --- | --- | --- | --- | --- |
-| [Occupational Safety and Health Act 1994](/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Employer safety duties, OSH coordinators, accident notification |
+| [Occupational Safety and Health Act 1994](/en/law/occupational-safety-and-health-act) | 514 | Department of Occupational Safety and Health (DOSH / JKKP) — `dosh.gov.my` | MyKKP, `mykkp.dosh.gov.my`; APIS, `apis.dosh.gov.my` | Employer safety duties, OSH coordinators, accident notification |
 
 Note `www.dosh.gov.my` does not resolve — use the apex domain.
 
@@ -174,4 +190,6 @@ Pin the portal column to your compliance calendar, not the statute column — th
 tells you what is owed, the portal is where the deadline is actually met. Then read the
 [Employment Act guide](/en/employment/employment-act-1955-guide) for the peninsula, and the
 [Sabah and Sarawak page](/en/employment/sabah-sarawak-labour-ordinance) if any of your headcount sits
-across the sea.
+across the sea. For the money side of every hire — EPF, SOCSO, EIS, PCB and the filing
+deadlines — work from the [payroll compliance calendar](/en/employment/payroll-compliance-malaysia);
+if you are bringing in talent from abroad, start with [hiring foreign workers](/en/employment/hiring-foreign-workers-malaysia).

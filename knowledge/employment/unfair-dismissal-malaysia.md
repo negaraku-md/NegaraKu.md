@@ -188,3 +188,5 @@ That arithmetic is why employers settle at conciliation, and why the cost of ski
 ## What's next
 
 If you are the employee: file the representation at the nearest JPPM office now and keep negotiating in parallel. If you are the employer: the defence is built before the dismissal, not after — see `domestic-inquiry-malaysia` for the procedural record the Court will look for, and `termination-of-employment-malaysia` for choosing the correct route in the first place.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

@@ -111,3 +111,5 @@ compliance calendar, which arranges every duty by when it falls due rather than
 by which agency collects it. If payroll is already running and you need to check
 a single figure, the statutory rates and deadlines reference gives each number
 with the authority that publishes it.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

@@ -466,3 +466,5 @@ obligation in the set and the one most likely to be missing from your system.
 Then do the two audits that catch most defaults: reconcile your payroll
 software's EPF output against the Third Schedule for three sample salaries, and
 recount your Malaysian headcount against the HRD Corp threshold.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

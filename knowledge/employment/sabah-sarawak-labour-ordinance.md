@@ -203,3 +203,5 @@ overtime eligibility, maternity and paternity entitlement and the flexible-worki
 procedure against the relevant Ordinance rather than against Act 265. Then confirm the
 current commencement status of Part IVA with JTK Sabah or JTK Sarawak directly — that is
 the one moving piece.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

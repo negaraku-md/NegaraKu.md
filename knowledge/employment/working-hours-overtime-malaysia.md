@@ -233,3 +233,5 @@ wages, s.19(2) at end of the next wage period for premium pay — and reconcile 
 104-hour cap monthly rather than at year end. Then confirm which of your staff sit inside
 [First Schedule coverage](/en/employment/employment-act-coverage), because the rates above only bind for
 them.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

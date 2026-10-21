@@ -345,3 +345,5 @@ s.81H notice is actually on the wall.
 Then read the companion pages on [who the Act covers](/en/employment/employment-act-coverage) and on
 [working hours and overtime](/en/employment/working-hours-overtime-malaysia), and — if you employ anyone
 in East Malaysia — the separate treatment of the two Labour Ordinances.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

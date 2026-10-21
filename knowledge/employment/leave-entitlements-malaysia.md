@@ -224,3 +224,5 @@ Reconfigure the sick-leave and hospitalisation-leave buckets in payroll as separ
 counters, then check the s.60D(1A) notice of the six remaining gazetted holidays is
 displayed before the year starts. For the year's dates see
 [public holidays by state](/en/employment/public-holidays-malaysia).
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

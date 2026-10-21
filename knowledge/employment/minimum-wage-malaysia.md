@@ -189,3 +189,5 @@ Check three settings in payroll: the pay date against the seventh-day rule, the
 deduction codes against s.24, and the hourly and daily divisors against the Order.
 Then confirm the resulting gross is at or above RM1,700 before statutory
 deductions — the minimum wage is a floor on wages payable, not on take-home pay.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

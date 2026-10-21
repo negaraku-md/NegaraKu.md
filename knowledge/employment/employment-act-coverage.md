@@ -149,3 +149,5 @@ and job category under First Schedule paragraph 2. Anyone below RM4,000, or in a
 paragraph 2 category at any salary, is entitled to the premium-pay provisions. Then check
 the [full section-by-section guide](/en/employment/employment-act-1955-guide) for what applies to
 everyone regardless.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

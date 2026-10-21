@@ -251,3 +251,5 @@ Sections 60M and 60N then govern the local–foreign balance. No employer may te
 Before anything else, run the s.60K(4) screen against your own company: any live order, directive or unresolved conviction under the Employment Act, SOCSO, Act 446 or the minimum wage Act, and any trafficking or forced labour matter. Clear those first, because they will surface as an unexplained refusal at the worst possible moment.
 
 Then build the calendar backwards from the pass expiry date — extension at minus three months, FOMEMA for years two and three, and the 14-day and 30-day reporting clocks in s.60KA for anyone who leaves.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

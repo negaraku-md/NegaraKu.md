@@ -214,3 +214,5 @@ Take your three longest-running contractor engagements and score each against co
 integration, tools, substitution and risk. Where two or more point inward, price the
 back-contribution exposure now. If the engagement is platform-mediated, read the
 [Gig Workers Act 2025](/en/employment/gig-workers-act-2025) for the deduction and Tribunal mechanics.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

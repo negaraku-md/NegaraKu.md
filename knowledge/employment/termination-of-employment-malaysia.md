@@ -305,3 +305,5 @@ The employee's clock is sixty days from dismissal — or, where notice was given
 ## What's next
 
 Before any termination, settle three things in writing: which of the four routes applies, what notice is owed under s.12(2) measured at the date of giving, and what falls due on the final day under s.20 or s.21. Then work the procedure for that route — `domestic-inquiry-malaysia` for misconduct, `retrenchment-malaysia` for redundancy — and close out the statutory filings in `offboarding-statutory-checklist`, where the tax-clearance withholding duty creates personal exposure for directors and payroll officers.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.

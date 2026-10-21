@@ -278,3 +278,5 @@ The pass and visa fees are published, contrary to a common assumption that they 
 If you have expatriates renewing in the next twelve months, run the list now against the new bands and identify everyone whose basic salary falls below the floor for their current category. That population is your budget problem, and their renewal dates are your deadlines.
 
 Then get the succession plan drafted before 1 January 2027 rather than after — the deferral is six months of preparation time, not six months of relief. And check which agency actually owns your file, because MDEC, IRDA and the twenty-three other regulators each add their own queue in front of the Immigration decision.
+
+Not sure which statute, regulator or portal a given duty falls under? [The Malaysian labour law map](/en/employment/labour-law-map-malaysia) lists every employment statute with the department that administers it and the portal you actually file in.
