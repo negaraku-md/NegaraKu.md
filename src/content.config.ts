@@ -206,9 +206,10 @@ const knowledge = defineCollection({
 
     // ---- language & translation sync ---------------------------------
     lang: z.enum(['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr']).default('ms'),
-    /** The source-of-truth language for this topic. Tamil is always a
-     *  translation, never a master, so it is intentionally not listed here. */
-    masterLanguage: z.enum(['ms', 'en', 'zh']).default('ms'),
+    /** The source-of-truth language for this topic. Tamil is permitted as a
+     *  master for community-origin topics (e.g. Hinduism in Malaysia) authored
+     *  natively in Tamil; ja/ko remain translation-only for now. */
+    masterLanguage: z.enum(['ms', 'en', 'zh', 'ta']).default('ms'),
     /** Hash of the master content this translation was derived from. */
     sourceContentHash: z.string().nullable().default(null),
     /** in-sync = matches master · stale = master moved on · pending = not translated */
