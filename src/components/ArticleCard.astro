@@ -33,8 +33,8 @@ const ogSrc = `/og/${locale}/${category}/${slug}.thumb.webp`;
 const mins = readingTime(article);
 const nSrc = article.data.sources.length;
 const citeLabel =
-  locale === 'zh' ? '引用' : locale === 'en' ? 'cites' : locale === 'ta' ? 'மேற்கோள்கள்' : locale === 'ja' ? '出典' : locale === 'ko' ? '출처' : 'rujukan';
-const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிடம்' : locale === 'ja' ? '分' : locale === 'ko' ? '분' : 'min';
+  locale === 'zh' ? '引用' : locale === 'en' ? 'cites' : locale === 'ta' ? 'மேற்கோள்கள்' : locale === 'ja' ? '出典' : locale === 'ko' ? '출처' : locale === 'th' ? 'อ้างอิง' : locale === 'vi' ? 'trích dẫn' : locale === 'ar' ? 'مراجع' : locale === 'hi' ? 'संदर्भ' : locale === 'es' ? 'citas' : locale === 'fr' ? 'citations' : 'rujukan';
+const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிடம்' : locale === 'ja' ? '分' : locale === 'ko' ? '분' : locale === 'th' ? 'นาที' : locale === 'vi' ? 'phút' : locale === 'id' ? 'menit' : locale === 'ar' ? 'دقيقة' : locale === 'hi' ? 'मिनट' : 'min';
 ---
 
 <a class:list={['card article-card', { row }]} href={href} style={`--c:${color}`}>

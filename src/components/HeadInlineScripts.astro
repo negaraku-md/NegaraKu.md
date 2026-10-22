@@ -22,8 +22,8 @@
       if (localStorage.getItem('nk:cv-oriented') === '1') d.dataset.cvOriented = '1';
       // Default-language preference (Settings): only redirect from the home
       // roots, only once per session, never mid-browse. Manual MS/EN/ZH always wins.
-      var LOCS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'];
-      var NONDEF = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id'];
+      var LOCS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
+      var NONDEF = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
       var pref = localStorage.getItem('nk-default-lang');
       if (pref && LOCS.indexOf(pref) !== -1 && !sessionStorage.getItem('nk-lang-redirected')) {
         var p = location.pathname.replace(/\/+$/, '') || '/';

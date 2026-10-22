@@ -130,7 +130,7 @@ const fmtDate = (iso, lang) => {
   if (!iso) return null;
   try {
     return new Date(iso).toLocaleDateString(
-      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang === 'ta' ? 'ta-MY' : lang === 'ja' ? 'ja-JP' : lang === 'ko' ? 'ko-KR' : lang === 'th' ? 'th-TH' : lang === 'vi' ? 'vi-VN' : lang === 'es' ? 'es-ES' : lang === 'fr' ? 'fr-FR' : 'en-GB',
+      lang === 'zh' ? 'zh-CN' : lang === 'ms' ? 'ms-MY' : lang,
       { day: 'numeric', month: 'short', year: 'numeric' });
   } catch { return iso; }
 };

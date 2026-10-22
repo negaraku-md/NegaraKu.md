@@ -15,7 +15,7 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 // Newest first.
 const items = [...MILESTONES].sort((a, b) => (a.date < b.date ? 1 : -1));
 const dateFmt = (d: string) =>
-  new Date(d).toLocaleDateString(locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta-MY' : locale === 'ja' ? 'ja-JP' : locale === 'ko' ? 'ko-KR' : locale === 'th' ? 'th-TH' : locale === 'vi' ? 'vi-VN' : 'en-GB', {
+  new Date(d).toLocaleDateString(locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale, {
     day: 'numeric',
     month: 'short',
     year: 'numeric',

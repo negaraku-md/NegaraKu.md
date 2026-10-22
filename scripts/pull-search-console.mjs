@@ -66,7 +66,7 @@ async function query(token, body) {
 
 // Non-default locale prefixes the site serves (ms is the default at "/"). Keep in
 // sync with i18n LOCALES. `ta` was missing here, so Tamil URLs mis-parsed.
-const URL_LOCALES = ['en', 'zh', 'ta', 'ja', 'ko'];
+const URL_LOCALES = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
 
 // Category = first path segment after any locale prefix (matches the site).
 function categoryOf(pageUrl) {

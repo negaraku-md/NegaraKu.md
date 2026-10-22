@@ -14,7 +14,7 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 let untilText = '';
 if (MAINTENANCE_UNTIL) {
   const d = new Date(MAINTENANCE_UNTIL);
-  const bcp = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : locale === 'ko' ? 'ko-KR' : 'en-GB';
+  const bcp = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale;
   untilText = Number.isNaN(d.getTime())
     ? MAINTENANCE_UNTIL
     : d.toLocaleString(bcp, { dateStyle: 'medium', timeStyle: 'short' });

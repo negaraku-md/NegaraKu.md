@@ -10,7 +10,7 @@ const { headings, locale } = Astro.props;
 // Only show H2/H3 in the contents rail.
 const toc = headings.filter((h) => h.depth === 2 || h.depth === 3);
 const label =
-  locale === 'zh' ? '目录' : locale === 'en' ? 'Contents' : locale === 'ta' ? 'உள்ளடக்கம்' : locale === 'ja' ? '目次' : locale === 'ko' ? '목차' : 'Kandungan';
+  locale === 'zh' ? '目录' : locale === 'en' ? 'Contents' : locale === 'ta' ? 'உள்ளடக்கம்' : locale === 'ja' ? '目次' : locale === 'ko' ? '목차' : locale === 'th' ? 'สารบัญ' : locale === 'vi' ? 'Mục lục' : locale === 'id' ? 'Daftar isi' : locale === 'ar' ? 'المحتويات' : locale === 'hi' ? 'विषय-सूची' : locale === 'es' ? 'Contenido' : locale === 'fr' ? 'Sommaire' : 'Kandungan';
 ---
 
 {

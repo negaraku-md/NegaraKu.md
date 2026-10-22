@@ -125,7 +125,7 @@ const sensLabel = sensitive ? (SENS_LABEL[d.sensitivity] ?? L('Sensitif', 'Sensi
 const fmt = (dt: Date | null | undefined) =>
   dt
     ? new Date(dt).toLocaleDateString(
-        locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : locale === 'ja' ? 'ja-JP' : locale === 'ko' ? 'ko-KR' : 'en-GB',
+        locale === 'zh' ? 'zh-CN' : locale === 'ms' ? 'ms-MY' : locale,
         { day: 'numeric', month: 'short', year: 'numeric' },
       )
     : '—';
