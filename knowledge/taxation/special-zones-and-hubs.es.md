@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ y la Forest City Special Financial Zone son regímenes distintos con reguladores distintos. JS-SEZ cubre los Flagships A a G, lo gestiona MIDA para manufactura y servicios, y otorga una tasa del 5% por hasta 15 años o un ITA del 60% al 100%, para solicitudes del 1 de enero de 2025 al 31 de diciembre de 2034. Forest City es el Flagship I, recae en la Securities Commission, y es de servicios financieros — su única tasa corporativa publicada en el boletín oficial es del 0% para el esquema de Single Family Office. El Global Services Hub nacional es independiente, al 5% o 10%, abierto hasta el 31 de diciembre de 2027."
+answer: "JS-SEZ y la Forest City Special Financial Zone son regímenes distintos con reguladores distintos. JS-SEZ cubre los Flagships A a G, lo gestiona MIDA para manufactura y servicios, y otorga una tasa del 5% por hasta 15 años o un ITA del 60% al 100%, para solicitudes del 1 de enero de 2025 al 31 de diciembre de 2034. Forest City es el Flagship I, recae en la Securities Commission, y es de servicios financieros — su única tasa corporativa publicada en el boletín oficial es del 0% para el esquema de Single Family Office. El Global Services Hub nacional es independiente, al 5% o 10%, abierto hasta el 31 de diciembre de 2027 — aunque el Presupuesto 2027, presentado el 9 de octubre de 2026, ha propuesto reconvertirlo en una tasa del 5% para empresas nuevas, un cambio aún no publicado en el boletín oficial."
 keyTakeaways:
   - "La Forest City SFZ es territorio de la Securities Commission y de servicios financieros; JS-SEZ es territorio de MIDA y de manufactura y servicios — se confunden constantemente"
   - "Forest City es una de las nueve zonas flagship de JS-SEZ, pero su paquete de incentivos se anunció por separado el 20 de septiembre de 2024 y queda fuera del paquete de MIDA para los Flagships A a G"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "Cada tasa de JS-SEZ y del Global Services Hub descansa sobre una directriz que dice que el instrumento aún está por dictarse — el boletín oficial de la AGC no tiene ninguno al 8 de julio de 2026"
   - "La recuperación (clawback) es anual, no terminal: incumpla las condiciones mínimas en un año y pagará las tasas vigentes para ese año"
   - "Las tasas para trabajadores del conocimiento difieren — 15% por 10 años en JS-SEZ, 15% para tres empleados no ciudadanos de C-Suite a RM35,000 al mes en el Global Services Hub nacional"
+  - "El Presupuesto 2027 (9 de octubre de 2026) propone reconvertir el Global Services Hub nacional — 5% para empresas nuevas, y 15% sobre un ingreso base de tres años más 5% por encima de él para las existentes, con una duración de hasta 30 años — pero es una propuesta, aún no publicada en el boletín oficial"
 appliesTo: "Empresas que eligen en qué parte de Malasia ubicar una sede regional, una planta o un vehículo de fondos, y los asesores que modelan el resultado fiscal."
 
 faq:
@@ -42,9 +43,10 @@ verificationNeeded:
   - "Confirm the Forest City special tax rate for licensed financial institutions and capital market licence holders — the 20 September 2024 announcement is referred to in MIDA's JS-SEZ guideline but no gazetted rate order for that class was located, only the Single Family Office rules"
   - "Confirm current corridor incentives for Iskandar Malaysia, NCER, the Sabah Development Corridor and the Sarawak corridor — no gazetted income tax rate instrument was located for any of them"
   - "Confirm the statutory basis MIDA relies on for the JS-SEZ Smart Logistics Complex ITA — the guideline cites P.U.(A) 113/2006, a pre-2011 instrument outside reliable AGC coverage, and its operative text was not retrieved"
+  - "Confirm the Budget 2027 Global Services Hub revision (5% on GSH income for a new company; 15% on a three-year average base income and 5% above it for an existing company; five-year periods up to 30 years; and withholding tax and stamp duty exemptions for treasury and fund management) once the Finance Bill, the Supply (Budget) 2027 Act or an enabling gazette order and updated MIDA guideline are issued — it was proposed in Appendix 23 of the Budget 2027 tax measures on 9 October 2026 and is not yet gazetted"
 
 lang: "es"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,14 +55,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "Se añadió la revisión propuesta del Global Services Hub del Presupuesto 2027 (anunciada el 9 de octubre de 2026, aún no publicada en el boletín oficial)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "Directrices para el paquete de incentivos fiscales de la Johor-Singapore Special Economic Zone (JS-SEZ), V2 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -92,6 +98,10 @@ sources:
   - title: "Medidas fiscales del Presupuesto 2026 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "Ministerio de Finanzas"
+  - title: "Aspectos destacados del Presupuesto 2027 — Medidas fiscales (Appendix 23: Revisión del incentivo fiscal para el Global Services Hub) (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministerio de Finanzas"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -299,6 +309,40 @@ instrumento y no una señal de estar en vigor.
 Cukai* no lleva ninguna medida sobre las zonas económicas especiales, Forest City o
 el services hub, y es el documento que establece la posición frente a la propuesta
 de manera explícita.
+
+## El Presupuesto 2027 propone un Global Services Hub más grande
+
+El primer movimiento sobre este incentivo desde que se abrió llegó con el
+**Presupuesto 2027**, presentado el **9 de octubre de 2026**. El Appendix 23 de las
+medidas fiscales del Presupuesto propone reconvertir el Global Services Hub nacional
+en torno a si una empresa es nueva en el esquema:
+
+- Una **empresa nueva** — una que no haya realizado previamente actividades de
+  Global Services Hub o de Principal Hub — pagaría el **5%** sobre sus ingresos de
+  GSH.
+- Una **empresa existente** — previamente aprobada para el incentivo del GSH o del
+  Principal Hub, o que solicite extenderlo con servicios adicionales — pagaría el
+  **15%** sobre un **ingreso base**, definido como su ingreso promedio de los
+  últimos tres años, y el **5%** sobre el ingreso **por encima de esa base**.
+- El incentivo correría en **bloques de cinco años hasta un máximo de 30 años**,
+  sujeto al desempeño — el triple del techo actual.
+- Una empresa que realice **tesorería y gestión de fondos** para la agrupación de
+  efectivo (cash pooling) a través de intermediarios onshore también obtendría una
+  **exención de retención en la fuente sobre los intereses pagados a no residentes**
+  y una **exención del 100% del impuesto de timbre sobre los acuerdos de préstamo en
+  moneda extranjera entre empresas** — alivios que también se extienden al paquete
+  de JS-SEZ.
+- Se aplicaría a las **solicitudes recibidas por MIDA a partir del 1 de enero de
+  2027**.
+
+Como con cada tasa de esta página, esto es una **propuesta presupuestaria, no un
+instrumento publicado en el boletín oficial**. Solo surte efecto una vez que el
+Finance Bill, el Supply (Budget) 2027 Act y cualquier orden de aplicación o
+directriz actualizada de MIDA se aprueben y publiquen en el boletín oficial — así
+que hasta entonces la posición frente a la que modelar es el esquema nacional actual
+del **5% o 10%**. Vea la
+[explicación del Presupuesto 2027](/es/economy/malaysia-budget-2027) para el paquete
+más amplio.
 
 ## Qué sigue
 

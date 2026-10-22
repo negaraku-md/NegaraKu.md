@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ dan Zona Keuangan Khusus Forest City adalah rezim yang berbeda dengan regulator yang berbeda. JS-SEZ mencakup Flagship A hingga G, dikelola oleh MIDA bagi manufaktur dan jasa, dan memberikan tarif 5% selama hingga 15 tahun atau ITA sebesar 60% hingga 100%, bagi permohonan dari 1 Januari 2025 hingga 31 Desember 2034. Forest City adalah Flagship I, berada di bawah Suruhanjaya Sekuriti, dan berfokus pada jasa keuangan — satu-satunya tarif korporat yang diwartakan adalah 0% bagi skema Kantor Keluarga Tunggal. Global Services Hub nasional terpisah, pada tarif 5% atau 10%, dibuka hingga 31 Desember 2027."
+answer: "JS-SEZ dan Zona Keuangan Khusus Forest City adalah rezim yang berbeda dengan regulator yang berbeda. JS-SEZ mencakup Flagship A hingga G, dikelola oleh MIDA bagi manufaktur dan jasa, dan memberikan tarif 5% selama hingga 15 tahun atau ITA sebesar 60% hingga 100%, bagi permohonan dari 1 Januari 2025 hingga 31 Desember 2034. Forest City adalah Flagship I, berada di bawah Suruhanjaya Sekuriti, dan berfokus pada jasa keuangan — satu-satunya tarif korporat yang diwartakan adalah 0% bagi skema Kantor Keluarga Tunggal. Global Services Hub nasional terpisah, pada tarif 5% atau 10%, dibuka hingga 31 Desember 2027 — meskipun Anggaran 2027, yang dibentangkan pada 9 Oktober 2026, telah mengusulkan untuk merombaknya menjadi tarif 5% bagi perusahaan baru, suatu perubahan yang belum diwartakan."
 keyTakeaways:
   - "Zona Keuangan Khusus Forest City berada di bawah yurisdiksi Suruhanjaya Sekuriti dan berfokus pada jasa keuangan; JS-SEZ berada di bawah yurisdiksi MIDA dan berfokus pada manufaktur dan jasa — keduanya sering dikelirukan"
   - "Forest City adalah salah satu dari sembilan zona unggulan JS-SEZ, tetapi paket insentifnya diumumkan secara terpisah pada 20 September 2024 dan berada di luar paket MIDA bagi Flagship A hingga G"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "Setiap tarif JS-SEZ dan Global Services Hub bersandar pada garis panduan yang menyatakan instrumen itu masih belum dibuat — warta AGC tidak memuat satu pun instrumen semacam itu hingga 8 Juli 2026"
   - "'Clawback' itu terjadi setiap tahun, bukan bersifat final: gagal memenuhi syarat minimum pada suatu tahun berarti Anda membayar pajak pada tarif berlaku untuk tahun tersebut saja"
   - "Tarif pekerja berpengetahuan berbeda-beda — 15% selama 10 tahun dalam JS-SEZ, 15% bagi tiga staf C-Suite bukan warga negara pada RM35,000 sebulan dalam Global Services Hub nasional"
+  - "Anggaran 2027 (9 Oktober 2026) mengusulkan perombakan Global Services Hub nasional — 5% bagi perusahaan baru, dan 15% atas penghasilan dasar tiga tahun ditambah 5% atas kelebihannya bagi perusahaan yang sudah ada, dengan jangka waktu hingga 30 tahun — tetapi ini adalah usulan, belum diwartakan"
 appliesTo: "Perusahaan yang sedang memilih lokasi di Malaysia untuk menempatkan kantor pusat regional, pabrik, atau kendaraan dana, serta penasihat yang memodelkan hasil pajaknya."
 
 faq:
@@ -42,9 +43,10 @@ verificationNeeded:
   - "Pastikan tarif pajak khusus Forest City bagi institusi keuangan berlisensi dan pemegang lisensi pasar modal — pengumuman 20 September 2024 dirujuk dalam garis panduan JS-SEZ MIDA tetapi tidak ada perintah tarif yang diwartakan bagi kelas tersebut ditemukan, hanya peraturan Single Family Office"
   - "Pastikan insentif koridor saat ini bagi Iskandar Malaysia, NCER, Sabah Development Corridor, dan koridor Sarawak — tidak ada instrumen tarif pajak penghasilan berwarta dapat dilacak bagi salah satu pun di antaranya"
   - "Pastikan dasar statutori yang digunakan MIDA bagi ITA JS-SEZ Smart Logistics Complex — garis panduan menyebut P.U.(A) 113/2006, satu instrumen pra-2011 di luar cakupan AGC yang dapat dipercaya, dan teks operatifnya tidak diperoleh"
+  - "Pastikan revisi Global Services Hub Anggaran 2027 (5% atas penghasilan GSH bagi perusahaan baru; 15% atas penghasilan dasar rata-rata tiga tahun dan 5% atas kelebihannya bagi perusahaan yang sudah ada; periode lima tahun hingga 30 tahun; serta pengecualian pajak pemotongan dan bea meterai bagi perbendaharaan dan manajemen dana) setelah Finance Bill, Supply (Budget) 2027 Act atau suatu perintah warta yang mendukung dan garis panduan MIDA yang diperbarui dikeluarkan — hal itu diusulkan dalam Appendix 23 langkah pajak Anggaran 2027 pada 9 Oktober 2026 dan belum diwartakan"
 
 lang: "id"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,14 +55,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "Menambahkan revisi Global Services Hub yang diusulkan Anggaran 2027 (diumumkan 9 Oktober 2026, belum diwartakan)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "Garis Panduan untuk Paket Insentif Pajak Zona Ekonomi Khusus Johor-Singapura (JS-SEZ), V2 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -92,6 +98,10 @@ sources:
   - title: "Langkah Pajak Anggaran 2026 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "Kementerian Keuangan Malaysia"
+  - title: "Titik Sentuh Anggaran 2027 — Langkah Pajak (Appendix 23: Tinjauan Insentif Pajak bagi Global Services Hub) (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Keuangan Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -300,6 +310,36 @@ bukan penanda ia berlaku.
 *Langkah Pajak* tidak membawa langkah apa pun mengenai zona ekonomi khusus, Forest
 City, atau hub jasa, dan dokumen inilah yang menyatakan dengan jelas posisi
 sebenarnya dibandingkan usulan semata-mata.
+
+## Anggaran 2027 mengusulkan Global Services Hub yang lebih besar
+
+Gerakan pertama atas insentif ini sejak ia dibuka datang dalam **Anggaran 2027**, yang
+dibentangkan pada **9 Oktober 2026**. Appendix 23 langkah pajak Anggaran mengusulkan
+untuk merombak Global Services Hub nasional berdasarkan apakah suatu perusahaan baru
+dalam skema ini:
+
+- Suatu **perusahaan baru** — yang belum pernah menjalankan aktivitas Global Services
+  Hub atau Principal Hub sebelumnya — akan membayar **5%** atas penghasilan GSH-nya.
+- Suatu **perusahaan yang sudah ada** — yang sebelumnya disetujui bagi insentif GSH atau
+  Principal Hub, atau mengajukan perpanjangan dengan jasa tambahan — akan membayar
+  **15%** atas suatu **penghasilan dasar**, yang didefinisikan sebagai penghasilan
+  rata-ratanya selama tiga tahun terakhir, dan **5%** atas penghasilan **di atas dasar
+  tersebut**.
+- Insentif itu akan berjalan dalam **blok lima tahun hingga maksimum 30 tahun**,
+  tergantung pada kinerja — tiga kali lipat batas atas saat ini.
+- Suatu perusahaan yang menjalankan **perbendaharaan dan manajemen dana** untuk
+  penggabungan kas melalui perantara onshore juga akan memperoleh **pengecualian pajak
+  pemotongan atas bunga yang dibayarkan kepada bukan penduduk** dan **pengecualian 100%
+  bea meterai atas perjanjian pinjaman mata uang asing antar perusahaan** — keringanan
+  yang juga diperluas ke paket JS-SEZ.
+- Ia akan berlaku bagi **permohonan yang diterima oleh MIDA mulai 1 Januari 2027**.
+
+Seperti setiap tarif pada halaman ini, ini adalah **usulan Anggaran, bukan instrumen
+yang diwartakan**. Ia baru berlaku setelah Finance Bill, Supply (Budget) 2027 Act dan
+perintah yang mendukung atau garis panduan MIDA yang diperbarui disahkan dan diwartakan
+— jadi hingga saat itu posisi yang perlu dimodelkan adalah skema nasional **5% atau
+10%** saat ini. Lihat [penjelasan Anggaran 2027](/id/economy/malaysia-budget-2027)
+untuk paket yang lebih luas.
 
 ## Langkah selanjutnya
 

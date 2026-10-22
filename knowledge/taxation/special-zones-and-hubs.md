@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ and the Forest City Special Financial Zone are different regimes with different regulators. JS-SEZ covers Flagships A to G, is run by MIDA for manufacturing and services, and gives a 5% rate for up to 15 years or an ITA of 60% to 100%, on applications from 1 January 2025 to 31 December 2034. Forest City is Flagship I, sits with the Securities Commission, and is financial services — its only gazetted corporate rate is 0% for the Single Family Office scheme. The national Global Services Hub is separate, at 5% or 10%, open to 31 December 2027."
+answer: "JS-SEZ and the Forest City Special Financial Zone are different regimes with different regulators. JS-SEZ covers Flagships A to G, is run by MIDA for manufacturing and services, and gives a 5% rate for up to 15 years or an ITA of 60% to 100%, on applications from 1 January 2025 to 31 December 2034. Forest City is Flagship I, sits with the Securities Commission, and is financial services — its only gazetted corporate rate is 0% for the Single Family Office scheme. The national Global Services Hub is separate, at 5% or 10%, open to 31 December 2027 — though Budget 2027, tabled on 9 October 2026, has proposed reworking it into a 5% rate for new companies, a change not yet gazetted."
 keyTakeaways:
   - "Forest City SFZ is Securities Commission territory and financial services; JS-SEZ is MIDA territory and manufacturing and services — they are constantly conflated"
   - "Forest City is one of the nine JS-SEZ flagship zones, but its incentive package was announced separately on 20 September 2024 and sits outside the MIDA package for Flagships A to G"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "Every JS-SEZ and Global Services Hub rate rests on a guideline that says the instrument is still to be made — the AGC gazette has none as at 8 July 2026"
   - "The clawback is annual, not terminal: fail the minimum conditions in a year and you pay prevailing rates for that year"
   - "The knowledge-worker rates differ — 15% for 10 years in JS-SEZ, 15% for three non-citizen C-Suite staff at RM35,000 a month in the national Global Services Hub"
+  - "Budget 2027 (9 October 2026) proposes reworking the national Global Services Hub — 5% for new companies, and 15% on a three-year base income plus 5% above it for existing ones, with tenure up to 30 years — but it is a proposal, not yet gazetted"
 appliesTo: "Companies choosing where in Malaysia to put a regional headquarters, a plant or a fund vehicle, and the advisers modelling the tax outcome."
 
 faq:
@@ -42,6 +43,7 @@ verificationNeeded:
   - "Confirm the Forest City special tax rate for licensed financial institutions and capital market licence holders — the 20 September 2024 announcement is referred to in MIDA's JS-SEZ guideline but no gazetted rate order for that class was located, only the Single Family Office rules"
   - "Confirm current corridor incentives for Iskandar Malaysia, NCER, the Sabah Development Corridor and the Sarawak corridor — no gazetted income tax rate instrument was located for any of them"
   - "Confirm the statutory basis MIDA relies on for the JS-SEZ Smart Logistics Complex ITA — the guideline cites P.U.(A) 113/2006, a pre-2011 instrument outside reliable AGC coverage, and its operative text was not retrieved"
+  - "Confirm the Budget 2027 Global Services Hub revision (5% on GSH income for a new company; 15% on a three-year average base income and 5% above it for an existing company; five-year periods up to 30 years; and withholding tax and stamp duty exemptions for treasury and fund management) once the Finance Bill, the Supply (Budget) 2027 Act or an enabling gazette order and updated MIDA guideline are issued — it was proposed in Appendix 23 of the Budget 2027 tax measures on 9 October 2026 and is not yet gazetted"
 
 lang: "en"
 masterLanguage: "en"
@@ -52,14 +54,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "Added the Budget 2027 proposed Global Services Hub revision (announced 9 October 2026, not yet gazetted)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -91,6 +97,10 @@ sources:
   - title: "Langkah Cukai Belanjawan 2026"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "Ministry of Finance"
+  - title: "Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -289,6 +299,35 @@ flag.
 appendix carries no measure on the special economic zones, Forest City or the
 services hub, and it is the document that states position against proposal
 explicitly.
+
+## Budget 2027 proposes a bigger Global Services Hub
+
+The first movement on this incentive since it opened came in **Budget 2027**,
+tabled on **9 October 2026**. Appendix 23 of the Budget tax measures proposes to
+rework the national Global Services Hub around whether a company is new to the
+scheme:
+
+- A **new company** — one that has not previously carried on Global Services Hub
+  or Principal Hub activities — would pay **5%** on its GSH income.
+- An **existing company** — previously approved for the GSH or Principal Hub
+  incentive, or applying to extend with additional services — would pay **15%**
+  on a **base income**, defined as its average income over the last three years,
+  and **5%** on income **above that base**.
+- The incentive would run in **five-year blocks up to a maximum of 30 years**,
+  subject to performance — three times the current ceiling.
+- A company carrying on **treasury and fund management** for cash pooling through
+  onshore intermediaries would also get a **withholding tax exemption on interest
+  paid to non-residents** and a **100% stamp duty exemption on foreign-currency
+  loan agreements between companies** — reliefs also extended to the JS-SEZ
+  package.
+- It would apply to **applications received by MIDA from 1 January 2027**.
+
+As with every rate on this page, this is a **Budget proposal, not a gazetted
+instrument**. It takes effect only once the Finance Bill, the Supply (Budget) 2027
+Act and any enabling order or updated MIDA guideline are passed and gazetted —
+so until then the position to model against is the current **5% or 10%** national
+scheme. See the [Budget 2027 explainer](/en/economy/malaysia-budget-2027) for the
+wider package.
 
 ## What's next
 

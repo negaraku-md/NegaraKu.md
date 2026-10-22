@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ và Forest City Special Financial Zone là các chế độ khác nhau với các cơ quan quản lý khác nhau. JS-SEZ bao phủ các Flagship A đến G, được MIDA vận hành cho sản xuất và dịch vụ, và cho một thuế suất 5% trong tối đa 15 năm hoặc một ITA từ 60% đến 100%, trên các đơn từ 1 tháng 1 năm 2025 đến 31 tháng 12 năm 2034. Forest City là Flagship I, thuộc Securities Commission, và là dịch vụ tài chính — thuế suất doanh nghiệp được đăng công báo duy nhất của nó là 0% cho chương trình Single Family Office. Global Services Hub quốc gia là riêng biệt, ở 5% hoặc 10%, mở đến 31 tháng 12 năm 2027."
+answer: "JS-SEZ và Forest City Special Financial Zone là các chế độ khác nhau với các cơ quan quản lý khác nhau. JS-SEZ bao phủ các Flagship A đến G, được MIDA vận hành cho sản xuất và dịch vụ, và cho một thuế suất 5% trong tối đa 15 năm hoặc một ITA từ 60% đến 100%, trên các đơn từ 1 tháng 1 năm 2025 đến 31 tháng 12 năm 2034. Forest City là Flagship I, thuộc Securities Commission, và là dịch vụ tài chính — thuế suất doanh nghiệp được đăng công báo duy nhất của nó là 0% cho chương trình Single Family Office. Global Services Hub quốc gia là riêng biệt, ở 5% hoặc 10%, mở đến 31 tháng 12 năm 2027 — mặc dù Ngân sách 2027, được trình vào ngày 9 tháng 10 năm 2026, đã đề xuất tái cấu trúc nó thành một thuế suất 5% cho các công ty mới, một thay đổi chưa được đăng công báo."
 keyTakeaways:
   - "Forest City SFZ là lãnh địa của Securities Commission và dịch vụ tài chính; JS-SEZ là lãnh địa của MIDA và sản xuất cùng dịch vụ — chúng liên tục bị gộp lẫn"
   - "Forest City là một trong chín khu vực flagship của JS-SEZ, nhưng gói ưu đãi của nó được công bố riêng vào ngày 20 tháng 9 năm 2024 và nằm ngoài gói MIDA cho các Flagship A đến G"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "Mọi thuế suất JS-SEZ và Global Services Hub đều dựa trên một hướng dẫn nói rằng công cụ vẫn còn phải được làm ra — công báo AGC không có công cụ nào tính đến ngày 8 tháng 7 năm 2026"
   - "Việc thu hồi là hằng năm, không phải chung cuộc: không đạt các điều kiện tối thiểu trong một năm thì bạn nộp thuế suất hiện hành cho năm đó"
   - "Các thuế suất lao động tri thức khác nhau — 15% trong 10 năm ở JS-SEZ, 15% cho ba nhân sự C-Suite không phải công dân ở RM35,000 một tháng trong Global Services Hub quốc gia"
+  - "Ngân sách 2027 (9 tháng 10 năm 2026) đề xuất tái cấu trúc Global Services Hub quốc gia — 5% cho các công ty mới, và 15% trên một thu nhập cơ sở ba năm cộng 5% trên phần vượt cho các công ty hiện hữu, với thời hạn lên đến 30 năm — nhưng đó là một đề xuất, chưa được đăng công báo"
 appliesTo: "Các công ty lựa chọn đặt một trụ sở khu vực, một nhà máy hoặc một phương tiện quỹ ở đâu tại Malaysia, và các cố vấn mô hình hóa kết quả thuế."
 
 faq:
@@ -42,9 +43,10 @@ verificationNeeded:
   - "Xác nhận thuế suất đặc biệt Forest City cho các tổ chức tài chính có giấy phép và những người nắm giữ giấy phép thị trường vốn — thông báo ngày 20 tháng 9 năm 2024 được đề cập trong hướng dẫn JS-SEZ của MIDA nhưng không tìm thấy lệnh thuế suất đã đăng công báo nào cho nhóm đó, chỉ có các quy tắc Single Family Office"
   - "Xác nhận các ưu đãi hành lang hiện hành cho Iskandar Malaysia, NCER, Sabah Development Corridor và hành lang Sarawak — không tìm thấy công cụ thuế suất thuế thu nhập đã đăng công báo nào cho bất kỳ hành lang nào trong số đó"
   - "Xác nhận cơ sở luật định mà MIDA dựa vào cho ITA của JS-SEZ Smart Logistics Complex — hướng dẫn trích dẫn P.U.(A) 113/2006, một công cụ trước 2011 nằm ngoài phạm vi bao phủ đáng tin cậy của AGC, và văn bản có hiệu lực của nó không được trích xuất"
+  - "Xác nhận bản sửa đổi Global Services Hub của Ngân sách 2027 (5% trên thu nhập GSH cho một công ty mới; 15% trên một thu nhập cơ sở trung bình ba năm và 5% trên phần vượt cho một công ty hiện hữu; các kỳ năm năm lên đến 30 năm; và các khoản miễn thuế khấu trừ tại nguồn và thuế trước bạ cho ngân quỹ và quản lý quỹ) một khi Finance Bill, Supply (Budget) 2027 Act hoặc một lệnh đăng công báo cho phép và hướng dẫn MIDA cập nhật được ban hành — nó được đề xuất trong Appendix 23 của các biện pháp thuế Ngân sách 2027 vào ngày 9 tháng 10 năm 2026 và chưa được đăng công báo"
 
 lang: "vi"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,14 +55,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "Đã thêm bản sửa đổi Global Services Hub được đề xuất của Ngân sách 2027 (công bố ngày 9 tháng 10 năm 2026, chưa được đăng công báo)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "Hướng dẫn về Gói Ưu đãi Thuế Đặc khu Kinh tế Johor-Singapore (JS-SEZ), V2 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -92,6 +98,10 @@ sources:
   - title: "Các Biện pháp Thuế Ngân sách 2026 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "Bộ Tài chính Malaysia"
+  - title: "Các Điểm Tiếp cận Ngân sách 2027 — Các Biện pháp Thuế (Appendix 23: Rà soát Ưu đãi Thuế cho Global Services Hub) (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -286,6 +296,35 @@ PRINCIPAL, vốn là một loại công cụ chứ không phải một cờ báo
 **Giả định rằng Ngân sách 2026 đã dịch chuyển điều gì đó.** Nó không. Phụ lục *Langkah
 Cukai* không mang biện pháp nào về các khu vực kinh tế đặc biệt, Forest City hay trung
 tâm dịch vụ, và nó là tài liệu nêu lập trường so với đề xuất một cách rõ ràng.
+
+## Ngân sách 2027 đề xuất một Global Services Hub lớn hơn
+
+Động thái đầu tiên về ưu đãi này kể từ khi nó mở ra đến trong **Ngân sách 2027**,
+được trình vào ngày **9 tháng 10 năm 2026**. Appendix 23 của các biện pháp thuế Ngân
+sách đề xuất tái cấu trúc Global Services Hub quốc gia xoay quanh việc liệu một công ty
+có mới với chương trình hay không:
+
+- Một **công ty mới** — một công ty chưa từng tiến hành các hoạt động Global Services
+  Hub hoặc Principal Hub trước đó — sẽ nộp **5%** trên thu nhập GSH của nó.
+- Một **công ty hiện hữu** — đã được phê duyệt trước đó cho ưu đãi GSH hoặc Principal
+  Hub, hoặc đang nộp đơn gia hạn với các dịch vụ bổ sung — sẽ nộp **15%** trên một
+  **thu nhập cơ sở**, được định nghĩa là thu nhập trung bình của nó trong ba năm gần
+  nhất, và **5%** trên thu nhập **vượt trên cơ sở đó**.
+- Ưu đãi sẽ chạy theo **các khối năm năm lên đến tối đa 30 năm**, tùy thuộc vào hiệu
+  suất — gấp ba lần mức trần hiện tại.
+- Một công ty tiến hành **ngân quỹ và quản lý quỹ** cho việc gom tiền mặt thông qua các
+  trung gian trong nước cũng sẽ nhận được một **khoản miễn thuế khấu trừ tại nguồn trên
+  lãi trả cho người không cư trú** và một **khoản miễn 100% thuế trước bạ trên các thỏa
+  thuận vay bằng ngoại tệ giữa các công ty** — các khoản giảm nhẹ cũng được mở rộng cho
+  gói JS-SEZ.
+- Nó sẽ áp dụng cho **các đơn được MIDA nhận từ 1 tháng 1 năm 2027**.
+
+Như với mọi thuế suất trên trang này, đây là một **đề xuất Ngân sách, không phải một
+công cụ đã đăng công báo**. Nó chỉ có hiệu lực một khi Finance Bill, Supply (Budget)
+2027 Act và bất kỳ lệnh cho phép hoặc hướng dẫn MIDA cập nhật nào được thông qua và đăng
+công báo — nên cho đến lúc đó lập trường để mô hình hóa là chương trình quốc gia **5%
+hoặc 10%** hiện tại. Xem [giải thích Ngân sách 2027](/vi/economy/malaysia-budget-2027)
+cho gói rộng hơn.
 
 ## Tiếp theo
 

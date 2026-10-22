@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZとフォレストシティ特別金融地域は、監督機関の異なる別個の制度である。JS-SEZはFlagship AからGを対象とし、MIDAが製造業及びサービス業について運営しており、2025年1月1日から2034年12月31日までの申請について、最長15年間の5%税率、又は60%から100%のITAを与える。フォレストシティはFlagship Iであり、証券委員会が所管し、金融サービスを対象とする——その唯一の官報告示された法人税率は、Single Family Officeスキームの0%である。全国版Global Services Hubは別個のものであり、税率は5%又は10%、2027年12月31日まで開放されている。"
+answer: "JS-SEZとフォレストシティ特別金融地域は、監督機関の異なる別個の制度である。JS-SEZはFlagship AからGを対象とし、MIDAが製造業及びサービス業について運営しており、2025年1月1日から2034年12月31日までの申請について、最長15年間の5%税率、又は60%から100%のITAを与える。フォレストシティはFlagship Iであり、証券委員会が所管し、金融サービスを対象とする——その唯一の官報告示された法人税率は、Single Family Officeスキームの0%である。全国版Global Services Hubは別個のものであり、税率は5%又は10%、2027年12月31日まで開放されている——ただし、2026年10月9日に提出された2027年度予算案（Budget 2027）は、これを新規会社向けの5%税率へと作り変えることを提案しており、この変更はまだ官報告示されていない。"
 keyTakeaways:
   - "フォレストシティSFZは証券委員会の領域であり金融サービスを対象とする；JS-SEZはMIDAの領域であり製造業及びサービス業を対象とする——両者は常に混同される"
   - "フォレストシティはJS-SEZの九つの旗艦地域の一つであるが、その優遇パッケージは2024年9月20日に別途発表されており、Flagship AからGについてのMIDAパッケージの外側にある"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "JS-SEZ及びGlobal Services Hubのあらゆる税率は、法律文書がまだ制定されていないと述べるガイドラインの上に成り立っている——2026年7月8日現在、AGCの官報には一件も存在しない"
   - "クローバックは年次のものであり、終局的なものではない：ある年に最低条件を満たせなければ、その年は当時適用される税率を支払うことになる"
   - "知識労働者税率は異なる——JS-SEZでは10年間15%、全国版Global Services Hubでは月額RM35,000の非市民C-Suite幹部3名について15%"
+  - "2027年度予算案（Budget 2027、2026年10月9日）は全国版Global Services Hubの作り変えを提案している——新規会社には5%、既存会社には三年間の基礎所得に対して15%及びそれを上回る分に5%、年期は最長30年——ただしこれは提案であり、まだ官報告示されていない"
 appliesTo: "マレーシア国内のどこに地域本部、工場又はファンドビークルを置くかを選択している企業、及び税務上の結果をモデル化するアドバイザー向け。"
 
 faq:
@@ -42,25 +43,30 @@ verificationNeeded:
   - "免許を受けた金融機関及び資本市場免許保有者向けのフォレストシティ特別税率を確認すること——2024年9月20日の発表はMIDAのJS-SEZガイドラインで言及されているが、その区分についての官報告示された税率命令は見つからず、Single Family Officeの規則のみが見つかった"
   - "イスカンダル・マレーシア、NCER、サバ開発回廊及びサラワク回廊についての現行の回廊優遇措置を確認すること——そのいずれについても、官報告示された所得税率法律文書は見つからなかった"
   - "MIDAがJS-SEZ Smart Logistics Complex ITAについて依拠する法定根拠を確認すること——ガイドラインはP.U.(A) 113/2006を引用しているが、これは2011年より前の、AGCの信頼できる収録範囲外の法律文書であり、その実際の条文は取得できなかった"
+  - "2027年度予算案のGlobal Services Hub改定（新規会社についてはGSH所得に対して5%；既存会社については三年間の平均基礎所得に対して15%及びそれを上回る分に5%；最長30年までの五年単位の期間；並びに資金・ファンド管理についての源泉徴収税及び印紙税の免除）を、財政法案（Finance Bill）、Supply (Budget) 2027 Act若しくは施行のための官報命令及び更新されたMIDAガイドラインが発出され次第、確認すること——これは2026年10月9日の2027年度予算案の税制措置のAppendix 23において提案されたものであり、まだ官報告示されていない"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "2027年度予算案で提案されたGlobal Services Hubの改定を追加した（2026年10月9日発表、まだ官報告示されていない）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "ジョホール・シンガポール経済特区（JS-SEZ）税制優遇パッケージのガイドライン、V2 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -92,6 +98,10 @@ sources:
   - title: "2026年度予算の税制措置 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "マレーシア財務省"
+  - title: "2027年度予算のタッチポイント — 税制措置（Appendix 23：Global Services Hubに対する税制優遇の見直し） (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "マレーシア財務省"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -191,6 +201,18 @@ JS-SEZの申請受付期間は、MIDAが**2025年1月1日から2034年12月31日
 **クランタン州の官報告示日を、申請開始の合図だと扱うこと。**その規則は、申請が締め切られた八か月後に到着した。AGCの索引はそれを教えてくれない——状態欄には今もPRINCIPALと記載されているが、これは法律文書の種類であって、発効の印ではない。
 
 **2026年予算案が何かを動かしたと想定すること。**動かしていない。*Langkah Cukai*附録には、特別経済区、フォレストシティ又はサービスハブに関する措置は一切なく、この文書こそが、「立場」と「提案」の違いを明確に述べているものである。
+
+## 2027年度予算案はより大きなGlobal Services Hubを提案している
+
+この優遇措置が開放されて以降の最初の動きは、**2027年度予算案（Budget 2027）**において訪れた。これは**2026年10月9日**に提出されたものである。予算案の税制措置のAppendix 23は、会社がこのスキームに新規であるかどうかを軸として、全国版Global Services Hubを作り変えることを提案している：
+
+- **新規会社**——これまでGlobal Services Hub又はPrincipal Hubの活動を営んだことのない会社——は、そのGSH所得に対して**5%**を支払う。
+- **既存会社**——以前にGSH又はPrincipal Hubの優遇措置について承認を受けた会社、又は追加のサービスをもって延長を申請する会社——は、**基礎所得**（直近三年間の平均所得として定義される）に対して**15%**を、そして**その基礎を上回る**所得に対して**5%**を支払う。
+- 当該優遇措置は、実績に応じて、**最長30年までの五年単位のブロック**で実施される——現行の上限の三倍である。
+- オンショアの仲介機関を通じたキャッシュプーリングのために**資金・ファンド管理**を営む会社は、さらに**非居住者へ支払われる利子についての源泉徴収税の免除**、及び**会社間の外貨建て融資契約についての100%の印紙税免除**も得る——これらの減免はJS-SEZパッケージにも拡大される。
+- これは**2027年1月1日以降にMIDAが受理する申請**に適用される。
+
+このページ上のあらゆる税率と同様に、これは**予算案の提案であって、官報告示された法律文書ではない**。これが効力を生じるのは、財政法案（Finance Bill）、Supply (Budget) 2027 Act、及び施行のための命令又は更新されたMIDAガイドラインが可決され官報告示された時に限られる——したがってそれまでの間、モデルの基準とすべき立場は現行の**5%又は10%**の全国版スキームである。より広範なパッケージについては[2027年度予算案の解説](/ja/economy/malaysia-budget-2027)を参照のこと。
 
 ## 次のステップ
 

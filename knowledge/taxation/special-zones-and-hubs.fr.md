@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ et la Forest City Special Financial Zone sont des régimes distincts avec des régulateurs distincts. JS-SEZ couvre les Flagships A à G, est gérée par MIDA pour la fabrication et les services, et accorde un taux de 5 % pour jusqu'à 15 ans ou un ITA de 60 % à 100 %, pour les demandes du 1er janvier 2025 au 31 décembre 2034. Forest City est le Flagship I, relève de la Securities Commission, et porte sur les services financiers — son seul taux d'impôt sur les sociétés publié au journal officiel est de 0 % pour le dispositif Single Family Office. Le Global Services Hub national est distinct, à 5 % ou 10 %, ouvert jusqu'au 31 décembre 2027."
+answer: "JS-SEZ et la Forest City Special Financial Zone sont des régimes distincts avec des régulateurs distincts. JS-SEZ couvre les Flagships A à G, est gérée par MIDA pour la fabrication et les services, et accorde un taux de 5 % pour jusqu'à 15 ans ou un ITA de 60 % à 100 %, pour les demandes du 1er janvier 2025 au 31 décembre 2034. Forest City est le Flagship I, relève de la Securities Commission, et porte sur les services financiers — son seul taux d'impôt sur les sociétés publié au journal officiel est de 0 % pour le dispositif Single Family Office. Le Global Services Hub national est distinct, à 5 % ou 10 %, ouvert jusqu'au 31 décembre 2027 — bien que le Budget 2027, présenté le 9 octobre 2026, ait proposé de le remanier en un taux de 5 % pour les nouvelles sociétés, un changement pas encore publié au journal officiel."
 keyTakeaways:
   - "La Forest City SFZ relève de la Securities Commission et des services financiers ; JS-SEZ relève de MIDA et de la fabrication et des services — on les confond constamment"
   - "Forest City est l'une des neuf zones flagship de JS-SEZ, mais son paquet d'incitations a été annoncé séparément le 20 septembre 2024 et se situe en dehors du paquet de MIDA pour les Flagships A à G"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "Chaque taux de JS-SEZ et du Global Services Hub repose sur une directive qui indique que l'instrument reste à adopter — le journal officiel de l'AGC n'en a aucun au 8 juillet 2026"
   - "La reprise (clawback) est annuelle, non terminale : manquez les conditions minimales une année et vous payez les taux en vigueur pour cette année-là"
   - "Les taux pour travailleurs du savoir diffèrent — 15 % pour 10 ans dans JS-SEZ, 15 % pour trois employés C-Suite non citoyens à RM35,000 par mois dans le Global Services Hub national"
+  - "Le Budget 2027 (9 octobre 2026) propose de remanier le Global Services Hub national — 5 % pour les nouvelles sociétés, et 15 % sur un revenu de base de trois ans plus 5 % au-delà pour les sociétés existantes, avec une durée allant jusqu'à 30 ans — mais c'est une proposition, pas encore publiée au journal officiel"
 appliesTo: "Entreprises choisissant où en Malaisie implanter un siège régional, une usine ou un véhicule de fonds, et les conseillers qui modélisent le résultat fiscal."
 
 faq:
@@ -42,9 +43,10 @@ verificationNeeded:
   - "Confirmer le taux d'imposition spécial de Forest City pour les institutions financières agréées et les titulaires de licences du marché des capitaux — l'annonce du 20 septembre 2024 est évoquée dans la directive JS-SEZ de MIDA mais aucun arrêté de taux publié au journal officiel pour cette catégorie n'a été localisé, seulement les Single Family Office rules"
   - "Confirmer les incitations de corridor actuelles pour Iskandar Malaysia, NCER, le Sabah Development Corridor et le corridor de Sarawak — aucun instrument de taux d'impôt sur le revenu publié au journal officiel n'a été localisé pour aucun d'eux"
   - "Confirmer la base légale sur laquelle MIDA s'appuie pour l'ITA du Smart Logistics Complex de JS-SEZ — la directive cite la P.U.(A) 113/2006, un instrument antérieur à 2011 en dehors de la couverture fiable de l'AGC, et son texte opérationnel n'a pas été récupéré"
+  - "Confirmer la révision du Global Services Hub du Budget 2027 (5 % sur le revenu du GSH pour une nouvelle société ; 15 % sur un revenu de base moyen de trois ans et 5 % au-delà pour une société existante ; des périodes de cinq ans jusqu'à 30 ans ; et des exonérations de retenue à la source et de droits de timbre pour la trésorerie et la gestion de fonds) une fois que le Finance Bill, le Supply (Budget) 2027 Act ou un arrêté d'application publié au journal officiel et une directive MIDA mise à jour auront été publiés — elle a été proposée à l'Appendix 23 des mesures fiscales du Budget 2027 le 9 octobre 2026 et n'est pas encore publiée au journal officiel"
 
 lang: "fr"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,14 +55,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "Ajout de la révision proposée du Global Services Hub du Budget 2027 (annoncée le 9 octobre 2026, pas encore publiée au journal officiel)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "Directives pour le paquet d'incitations fiscales de la Johor-Singapore Special Economic Zone (JS-SEZ), V2 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -92,6 +98,10 @@ sources:
   - title: "Mesures fiscales du Budget 2026 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "Ministère des Finances"
+  - title: "Points de contact du Budget 2027 — Mesures fiscales (Appendix 23 : Révision de l'incitation fiscale pour le Global Services Hub) (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -195,6 +205,18 @@ la question.
 **Traiter la date de publication au journal officiel du Kelantan comme une ouverture.** Les règles sont arrivées huit mois après la fermeture des demandes. L'index de l'AGC ne vous le dira pas — le champ statut indique toujours PRINCIPAL, qui est un type d'instrument et non un signal d'entrée en vigueur.
 
 **Supposer que le Budget 2026 a bougé quelque chose.** Il ne l'a pas fait. L'appendice *Langkah Cukai* ne porte aucune mesure sur les zones économiques spéciales, Forest City ou le services hub, et c'est le document qui établit la position face à la proposition de manière explicite.
+
+## Le Budget 2027 propose un Global Services Hub plus grand
+
+Le premier mouvement sur cette incitation depuis son ouverture est intervenu avec le **Budget 2027**, présenté le **9 octobre 2026**. L'Appendix 23 des mesures fiscales du Budget propose de remanier le Global Services Hub national selon qu'une société est nouvelle dans le dispositif :
+
+- Une **nouvelle société** — qui n'a pas auparavant exercé d'activités de Global Services Hub ou de Principal Hub — paierait **5 %** sur ses revenus de GSH.
+- Une **société existante** — déjà approuvée pour l'incitation du GSH ou du Principal Hub, ou demandant à l'étendre avec des services additionnels — paierait **15 %** sur un **revenu de base**, défini comme son revenu moyen des trois dernières années, et **5 %** sur le revenu **au-delà de cette base**.
+- L'incitation s'étendrait par **blocs de cinq ans jusqu'à un maximum de 30 ans**, sous réserve de performance — le triple du plafond actuel.
+- Une société exerçant la **trésorerie et la gestion de fonds** pour le cash pooling via des intermédiaires onshore obtiendrait aussi une **exonération de retenue à la source sur les intérêts versés aux non-résidents** et une **exonération de 100 % des droits de timbre sur les accords de prêt en devise étrangère entre sociétés** — des allègements également étendus au paquet JS-SEZ.
+- Elle s'appliquerait aux **demandes reçues par MIDA à partir du 1er janvier 2027**.
+
+Comme pour chaque taux de cette page, il s'agit d'une **proposition budgétaire, non d'un instrument publié au journal officiel**. Elle ne prend effet qu'une fois que le Finance Bill, le Supply (Budget) 2027 Act et tout arrêté d'application ou directive MIDA mise à jour auront été adoptés et publiés au journal officiel — donc jusque-là la position face à laquelle modéliser est le dispositif national actuel de **5 % ou 10 %**. Voir l'[explicatif du Budget 2027](/fr/economy/malaysia-budget-2027) pour le paquet plus large.
 
 ## Et ensuite
 

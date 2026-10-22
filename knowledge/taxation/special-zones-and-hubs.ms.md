@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ dan Zon Kewangan Khas Forest City adalah rejim yang berbeza dengan pengawal selia yang berbeza. JS-SEZ meliputi Flagship A hingga G, ditadbir oleh MIDA bagi pembuatan dan perkhidmatan, dan memberikan kadar 5% selama sehingga 15 tahun atau ITA sebanyak 60% hingga 100%, bagi permohonan dari 1 Januari 2025 hingga 31 Disember 2034. Forest City pula ialah Flagship I, berada di bawah Suruhanjaya Sekuriti, dan tertumpu kepada perkhidmatan kewangan — satu-satunya kadar korporat yang diwartakan ialah 0% bagi skim Pejabat Keluarga Tunggal. Global Services Hub kebangsaan pula berasingan, pada kadar 5% atau 10%, dibuka sehingga 31 Disember 2027."
+answer: "JS-SEZ dan Zon Kewangan Khas Forest City adalah rejim yang berbeza dengan pengawal selia yang berbeza. JS-SEZ meliputi Flagship A hingga G, ditadbir oleh MIDA bagi pembuatan dan perkhidmatan, dan memberikan kadar 5% selama sehingga 15 tahun atau ITA sebanyak 60% hingga 100%, bagi permohonan dari 1 Januari 2025 hingga 31 Disember 2034. Forest City pula ialah Flagship I, berada di bawah Suruhanjaya Sekuriti, dan tertumpu kepada perkhidmatan kewangan — satu-satunya kadar korporat yang diwartakan ialah 0% bagi skim Pejabat Keluarga Tunggal. Global Services Hub kebangsaan pula berasingan, pada kadar 5% atau 10%, dibuka sehingga 31 Disember 2027 — walaupun Belanjawan 2027, yang dibentangkan pada 9 Oktober 2026, telah mencadangkan untuk menyusun semula insentif ini kepada kadar 5% bagi syarikat baharu, satu perubahan yang masih belum diwartakan."
 keyTakeaways:
   - "Zon Kewangan Khas Forest City berada di bawah bidang kuasa Suruhanjaya Sekuriti dan tertumpu kepada perkhidmatan kewangan; JS-SEZ pula berada di bawah bidang kuasa MIDA dan tertumpu kepada pembuatan dan perkhidmatan — kedua-duanya sering dikelirukan"
   - "Forest City adalah salah satu daripada sembilan zon unggulan JS-SEZ, tetapi pakej insentifnya diumumkan secara berasingan pada 20 September 2024 dan berada di luar pakej MIDA bagi Flagship A hingga G"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "Setiap kadar JS-SEZ dan Global Services Hub bersandarkan garis panduan yang menyatakan instrumen itu masih belum dibuat — warta AGC tiada satu pun instrumen sedemikian setakat 8 Julai 2026"
   - "'Clawback' itu berlaku setiap tahun, bukan bersifat muktamad: gagal memenuhi syarat minimum pada satu-satu tahun bermakna anda membayar cukai pada kadar berkuat kuasa untuk tahun tersebut sahaja"
   - "Kadar pekerja berpengetahuan berbeza-beza — 15% selama 10 tahun dalam JS-SEZ, 15% bagi tiga kakitangan C-Suite bukan warganegara pada RM35,000 sebulan dalam Global Services Hub kebangsaan"
+  - "Belanjawan 2027 (9 Oktober 2026) mencadangkan penyusunan semula Global Services Hub kebangsaan — 5% bagi syarikat baharu, dan 15% ke atas pendapatan asas tiga tahun ditambah 5% ke atas lebihannya bagi syarikat sedia ada, dengan tempoh sehingga 30 tahun — tetapi ia hanya cadangan, masih belum diwartakan"
 appliesTo: "Syarikat yang sedang memilih lokasi di Malaysia untuk meletakkan ibu pejabat serantau, kilang atau kenderaan dana, serta penasihat yang memodelkan hasil cukainya."
 
 faq:
@@ -42,25 +43,30 @@ verificationNeeded:
   - "Sahkan kadar cukai khas Forest City bagi institusi kewangan berlesen dan pemegang lesen pasaran modal — pengumuman 20 September 2024 dirujuk dalam garis panduan JS-SEZ MIDA tetapi tiada perintah kadar yang diwartakan bagi kelas tersebut ditemui, hanya peraturan Single Family Office"
   - "Sahkan insentif koridor semasa bagi Iskandar Malaysia, NCER, Sabah Development Corridor dan koridor Sarawak — tiada instrumen kadar cukai pendapatan berwarta dapat dikesan bagi mana-mana daripadanya"
   - "Sahkan asas statutori yang digunakan MIDA bagi ITA JS-SEZ Smart Logistics Complex — garis panduan menyebut P.U.(A) 113/2006, satu instrumen pra-2011 di luar liputan AGC yang boleh dipercayai, dan teks operatifnya tidak diperoleh"
+  - "Sahkan semakan Global Services Hub Belanjawan 2027 (5% ke atas pendapatan GSH bagi syarikat baharu; 15% ke atas pendapatan asas purata tiga tahun dan 5% ke atas lebihannya bagi syarikat sedia ada; tempoh lima tahun sehingga 30 tahun; serta pengecualian cukai pegangan dan duti setem bagi perbendaharaan dan pengurusan dana) setelah Finance Bill, Supply (Budget) 2027 Act atau perintah warta yang membolehkannya dan garis panduan MIDA yang dikemas kini dikeluarkan — ia dicadangkan dalam Appendix 23 langkah cukai Belanjawan 2027 pada 9 Oktober 2026 dan masih belum diwartakan"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "Menambah semakan Global Services Hub yang dicadangkan dalam Belanjawan 2027 (diumumkan pada 9 Oktober 2026, masih belum diwartakan)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "Garis Panduan untuk Pakej Insentif Cukai Zon Ekonomi Khas Johor-Singapura (JS-SEZ), V2 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -92,6 +98,10 @@ sources:
   - title: "Langkah Cukai Belanjawan 2026 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "Kementerian Kewangan Malaysia"
+  - title: "Titik Sentuh Belanjawan 2027 — Langkah Cukai (Appendix 23: Semakan Insentif Cukai bagi Global Services Hub) (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -313,6 +323,41 @@ PRINCIPAL, iaitu jenis instrumen dan bukan penanda ia berkuat kuasa.
 Lampiran *Langkah Cukai* tidak membawa apa-apa langkah mengenai zon ekonomi
 khas, Forest City atau hab perkhidmatan, dan dokumen inilah yang menyatakan
 dengan jelas kedudukan sebenar berbanding cadangan semata-mata.
+
+## Belanjawan 2027 mencadangkan Global Services Hub yang lebih besar
+
+Pergerakan pertama ke atas insentif ini sejak ia dibuka datang dalam
+**Belanjawan 2027**, yang dibentangkan pada **9 Oktober 2026**. Appendix 23
+langkah cukai Belanjawan itu mencadangkan untuk menyusun semula Global Services
+Hub kebangsaan berdasarkan sama ada sesebuah syarikat itu baharu kepada skim
+tersebut:
+
+- **Syarikat baharu** — iaitu syarikat yang sebelum ini tidak pernah
+  menjalankan aktiviti Global Services Hub atau Principal Hub — akan membayar
+  **5%** ke atas pendapatan GSH-nya.
+- **Syarikat sedia ada** — iaitu syarikat yang sebelum ini diluluskan bagi
+  insentif GSH atau Principal Hub, atau yang memohon untuk melanjutkannya
+  dengan perkhidmatan tambahan — akan membayar **15%** ke atas **pendapatan
+  asas**, yang ditakrifkan sebagai pendapatan puratanya sepanjang tiga tahun
+  lepas, dan **5%** ke atas pendapatan **melebihi asas itu**.
+- Insentif itu akan berjalan dalam **blok lima tahun sehingga maksimum
+  30 tahun**, tertakluk kepada prestasi — tiga kali ganda siling semasa.
+- Sesebuah syarikat yang menjalankan **perbendaharaan dan pengurusan dana**
+  bagi pengumpulan tunai (cash pooling) melalui perantara onshore turut akan
+  memperoleh **pengecualian cukai pegangan ke atas faedah yang dibayar kepada
+  bukan pemastautin** dan **pengecualian duti setem 100% ke atas perjanjian
+  pinjaman mata wang asing antara syarikat** — pelepasan yang turut
+  diperluaskan kepada pakej JS-SEZ.
+- Ia akan terpakai kepada **permohonan yang diterima oleh MIDA mulai
+  1 Januari 2027**.
+
+Seperti setiap kadar lain di halaman ini, ini adalah **cadangan Belanjawan,
+bukan instrumen yang diwartakan**. Ia hanya berkuat kuasa setelah Finance Bill,
+Supply (Budget) 2027 Act dan apa-apa perintah yang membolehkannya atau garis
+panduan MIDA yang dikemas kini diluluskan dan diwartakan — jadi sehingga itu,
+kedudukan yang perlu dijadikan asas model ialah skim kebangsaan **5% atau 10%**
+yang sedia ada. Lihat [penjelasan Belanjawan 2027](/economy/malaysia-budget-2027)
+untuk pakej yang lebih luas.
 
 ## Langkah seterusnya
 

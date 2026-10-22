@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ 与森林城市 Special Financial Zone 是两套不同的制度，监管机构也不同。JS-SEZ 涵盖 Flagships A 至 G，由 MIDA 就制造业与服务业管理，给予最长 15 年的 5% 税率，或 60% 至 100% 的 ITA，申请期由 2025 年 1 月 1 日至 2034 年 12 月 31 日。森林城市是 Flagship I，归证券监督委员会管，属金融服务——其唯一经刊宪的公司税率，是 Single Family Office 计划的 0%。全国性的 Global Services Hub 是另一回事，税率 5% 或 10%，开放至 2027 年 12 月 31 日。"
+answer: "JS-SEZ 与森林城市 Special Financial Zone 是两套不同的制度，监管机构也不同。JS-SEZ 涵盖 Flagships A 至 G，由 MIDA 就制造业与服务业管理，给予最长 15 年的 5% 税率，或 60% 至 100% 的 ITA，申请期由 2025 年 1 月 1 日至 2034 年 12 月 31 日。森林城市是 Flagship I，归证券监督委员会管，属金融服务——其唯一经刊宪的公司税率，是 Single Family Office 计划的 0%。全国性的 Global Services Hub 是另一回事，税率 5% 或 10%，开放至 2027 年 12 月 31 日——不过 2026 年 10 月 9 日提呈的 2027 年财政预算案，已建议把它改造成对新公司征 5% 的税率，这项改动尚未刊宪。"
 keyTakeaways:
   - "森林城市 SFZ 是证券监督委员会的地盘、属金融服务；JS-SEZ 是 MIDA 的地盘、属制造业与服务业——两者不断被混为一谈"
   - "森林城市是 JS-SEZ 九个旗舰区之一，但它的奖掖配套是在 2024 年 9 月 20 日另行公布的，落在 MIDA 给 Flagships A 至 G 的配套之外"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "JS-SEZ 与 Global Services Hub 的每一个税率，所依据的指南都说该法律文书尚待制定——截至 2026 年 7 月 8 日，AGC 宪报上一份都没有"
   - "追回是按年计的，不是一次到底：某一年达不到最低条件，那一年就按现行税率课税"
   - "知识型员工的税率并不相同——JS-SEZ 是 15% 10 年，全国性的 Global Services Hub 则是三名月薪 RM35,000 的非公民高层管理人员 15%"
+  - "2027 年财政预算案（2026 年 10 月 9 日）建议改造全国性的 Global Services Hub——新公司 5%，既有公司则按三年基准收入征 15%、超出部分征 5%，年期最长 30 年——但这只是建议，尚未刊宪"
 appliesTo: "正在选择把区域总部、厂房或基金载体设在马来西亚何处的公司，以及为税务结果建模的顾问。"
 
 faq:
@@ -42,11 +43,12 @@ verificationNeeded:
   - "确认给持牌金融机构与资本市场牌照持有人的森林城市特别税率——MIDA 的 JS-SEZ 指南提到 2024 年 9 月 20 日的公布，但找不到该类别经刊宪的税率命令，只找到 Single Family Office 的规则"
   - "确认伊斯干达马来西亚、NCER、沙巴发展走廊与砂拉越走廊的现行走廊奖掖——这几个都找不到经刊宪的所得税税率法律文书"
   - "确认 MIDA 就 JS-SEZ Smart Logistics Complex ITA 所依据的法定基础——该指南引用 P.U.(A) 113/2006，那是一份 2011 年之前、不在 AGC 可靠收录范围内的法律文书，其实际条文并未取得"
+  - "确认 2027 年财政预算案的 Global Services Hub 修订（新公司就 GSH 收入征 5%；既有公司就三年平均基准收入征 15%、超出部分征 5%；五年一期、最长 30 年；以及就财资与基金管理给予预扣税与印花税豁免），待 Finance Bill、Supply (Budget) 2027 Act 或一份使其生效的刊宪命令与更新后的 MIDA 指南颁布后为准——它于 2026 年 10 月 9 日在 2027 年财政预算案税务措施的 Appendix 23 中提出，尚未刊宪"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 
 status: "published"
 aiAssisted: true
@@ -54,14 +56,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "新增 2027 年财政预算案建议的 Global Services Hub 修订（2026 年 10 月 9 日公布，尚未刊宪）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "柔佛-新加坡经济特区（JS-SEZ）税务奖掖配套指南，第2版 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -93,6 +99,10 @@ sources:
   - title: "2026年财政预算案税务措施 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "马来西亚财政部"
+  - title: "2027 年财政预算案 Touchpoints——税务措施（Appendix 23：检讨 Global Services Hub 税务奖掖） (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "马来西亚财政部"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -255,6 +265,29 @@ Incentive Framework，指南都说该税率*仍待*透过附属法规提供，�
 **以为 2026 年财政预算案动了什么。** 它没有。*Langkah Cukai* 附录里没有任何有关
 特别经济区、森林城市或服务枢纽的措施，而那正是会明确区分「立场」与「建议」的
 那份文件。
+
+## 2027 年财政预算案建议把 Global Services Hub 做大
+
+这项奖掖自开放以来的第一次变动，出现在 **2027 年财政预算案**，于
+**2026 年 10 月 9 日**提呈。该预算案税务措施的 Appendix 23 建议围绕一家公司
+是否初次参与计划，来改造全国性的 Global Services Hub：
+
+- **新公司**——即此前不曾从事 Global Services Hub 或 Principal Hub 活动的
+  公司——就其 GSH 收入缴 **5%**。
+- **既有公司**——即此前已获批 GSH 或 Principal Hub 奖掖，或申请以额外服务
+  延展者——就一项**基准收入**缴 **15%**，基准收入的定义是其过去三年的平均
+  收入，并就**超出该基准**的收入缴 **5%**。
+- 该奖掖将以**五年为一期、最长 30 年**，视表现而定——是现行上限的三倍。
+- 一家透过在岸中介从事**财资与基金管理**以作现金归集（cash pooling）的公司，
+  还将获得**就支付予非居民的利息给予的预扣税豁免**，以及**就公司之间的外币
+  贷款协议给予的 100% 印花税豁免**——这些减免也延伸至 JS-SEZ 配套。
+- 它将适用于 **MIDA 在 2027 年 1 月 1 日起收到的申请**。
+
+一如本页上的每一个税率，这是一项**预算案建议，而非经刊宪的法律文书**。它要等到
+Finance Bill、Supply (Budget) 2027 Act 以及任何使其生效的命令或更新后的 MIDA
+指南获得通过并刊宪之后，才会生效——所以在那之前，用来建模的立场仍是现行
+**5% 或 10%** 的全国性计划。更广的配套请看
+[2027 年财政预算案详解](/zh/economy/malaysia-budget-2027)。
 
 ## 下一步
 

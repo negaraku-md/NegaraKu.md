@@ -12,7 +12,7 @@ mode: "practical"
 contentType: "comparison"
 sensitivity: "none"
 
-answer: "JS-SEZ와 포레스트시티 특별금융구역은 규제기관이 다른 별개의 제도입니다. JS-SEZ는 Flagship A부터 G까지를 포괄하고, 제조 및 서비스에 대해 MIDA가 운영하며, 최대 15년간 5% 세율 또는 60%~100%의 ITA를 제공하고, 2025년 1월 1일부터 2034년 12월 31일까지 신청을 받습니다. 포레스트시티는 Flagship I로, 증권위원회(Securities Commission) 소관이며 금융서비스입니다 — 관보에 게재된 유일한 법인 세율은 단독 패밀리오피스 제도의 0%입니다. 국가 글로벌 서비스 허브는 별개로 5% 또는 10%이며, 2027년 12월 31일까지 열려 있습니다."
+answer: "JS-SEZ와 포레스트시티 특별금융구역은 규제기관이 다른 별개의 제도입니다. JS-SEZ는 Flagship A부터 G까지를 포괄하고, 제조 및 서비스에 대해 MIDA가 운영하며, 최대 15년간 5% 세율 또는 60%~100%의 ITA를 제공하고, 2025년 1월 1일부터 2034년 12월 31일까지 신청을 받습니다. 포레스트시티는 Flagship I로, 증권위원회(Securities Commission) 소관이며 금융서비스입니다 — 관보에 게재된 유일한 법인 세율은 단독 패밀리오피스 제도의 0%입니다. 국가 글로벌 서비스 허브는 별개로 5% 또는 10%이며, 2027년 12월 31일까지 열려 있습니다 — 다만 2026년 10월 9일 상정된 2027년 예산안은 이를 신규 회사에 대한 5% 세율로 개편하자고 제안했으며, 이 변경은 아직 관보에 게재되지 않았습니다."
 keyTakeaways:
   - "포레스트 시티 특별금융구역(Forest City SFZ)은 증권위원회(SC) 관할이자 금융 서비스 영역이고, 조호르-싱가포르 경제특구(JS-SEZ)는 MIDA 관할이자 제조·서비스 영역이며 — 이 둘은 끊임없이 혼동됩니다"
   - "포레스트 시티는 조호르-싱가포르 경제특구(JS-SEZ)의 아홉 개 플래그십 구역 중 하나이지만, 그 인센티브 패키지는 2024년 9월 20일 별도로 발표되었고 플래그십 A~G에 대한 MIDA 패키지 밖에 있습니다"
@@ -21,6 +21,7 @@ keyTakeaways:
   - "모든 조호르-싱가포르 경제특구(JS-SEZ) 및 글로벌 서비스 허브(Global Services Hub) 세율은 해당 법령이 아직 제정되어야 한다고 명시하는 지침에 근거하며 — 법무장관실(AGC) 관보에는 2026년 7월 8일 기준으로 그러한 법령이 없습니다"
   - "환수는 종료 시점이 아니라 매년 이루어집니다: 어느 해에 최소 조건을 충족하지 못하면 그 해에는 통상 세율을 냅니다"
   - "지식근로자 세율은 서로 다릅니다 — 조호르-싱가포르 경제특구(JS-SEZ)에서는 10년간 15%, 국가 차원의 글로벌 서비스 허브(Global Services Hub)에서는 월 RM35,000의 비시민 최고경영진(C-Suite) 3명에 대해 15%입니다"
+  - "2027년 예산안(2026년 10월 9일)은 국가 글로벌 서비스 허브(Global Services Hub)의 개편을 제안합니다 — 신규 회사는 5%, 기존 회사는 3년 기준소득에 15% 더하기 그 위 소득에 5%, 존속기간은 최대 30년 — 그러나 이는 제안일 뿐 아직 관보에 게재되지 않았습니다"
 appliesTo: "말레이시아 내에 지역 본부, 공장 또는 펀드 비히클을 어디에 둘지 선택하는 회사와, 그 세무 결과를 모델링하는 자문가."
 
 faq:
@@ -42,9 +43,10 @@ verificationNeeded:
   - "인가 금융기관 및 자본시장 라이선스 보유자에 대한 포레스트 시티 특별세율을 확인할 것 — 2024년 9월 20일 발표는 MIDA의 JS-SEZ 지침에서 언급되지만 그 부류에 대한 관보 게재 세율 명령은 찾지 못했고 단독 패밀리오피스(Single Family Office) 규칙만 확인됨"
   - "이스칸다르 말레이시아(Iskandar Malaysia), NCER, 사바 개발 회랑(Sabah Development Corridor) 및 사라왁 회랑에 대한 현행 회랑 인센티브를 확인할 것 — 그 어느 것에 대해서도 관보 게재 소득세율 법령을 찾지 못함"
   - "MIDA가 조호르-싱가포르 경제특구(JS-SEZ) 스마트 물류 단지 투자세액공제(ITA)에 대해 근거로 삼는 법적 근거를 확인할 것 — 지침은 신뢰할 수 있는 AGC 수록 범위 밖의 2011년 이전 법령인 P.U.(A) 113/2006을 인용하며 그 유효 본문은 입수하지 못함"
+  - "2027년 예산안의 글로벌 서비스 허브(Global Services Hub) 개정(신규 회사는 GSH 소득에 5%; 기존 회사는 3년 평균 기준소득에 15% 더하기 그 위 소득에 5%; 최대 30년까지의 5년 단위 기간; 그리고 재무(treasury) 및 펀드 운용에 대한 원천징수세 및 인지세 면제)을 재정법안(Finance Bill), 2027년 공급(예산)법(Supply (Budget) 2027 Act) 또는 이를 뒷받침하는 관보 명령과 갱신된 MIDA 지침이 발행되는 대로 확인할 것 — 이는 2026년 10월 9일 2027년 예산 세제 조치의 Appendix 23에서 제안되었으며 아직 관보에 게재되지 않았음"
 
 lang: "ko"
-sourceContentHash: "2c106e0d7c225687"
+sourceContentHash: "0a512ac04bc63d43"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -53,14 +55,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-22
+    change: "2027년 예산안이 제안한 글로벌 서비스 허브 개정(2026년 10월 9일 발표, 아직 관보에 게재되지 않음)을 추가함."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-22
 sources:
   - title: "조호르-싱가포르 경제특구(JS-SEZ) 세제 인센티브 패키지 지침, V2 (Guidelines for Johor-Singapore Special Economic Zone (JS-SEZ) Tax Incentive Package, V2)"
     url: "https://www.mida.gov.my/wp-content/uploads/2025/04/Guideline-JSSEZ-V2.pdf"
@@ -92,6 +98,10 @@ sources:
   - title: "2026년 예산 세제 조치 (Langkah Cukai Belanjawan 2026)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2026/ucapan/lampiran-cukai.pdf"
     publisher: "말레이시아 재정부"
+  - title: "2027년 예산 터치포인트 — 세제 조치 (Appendix 23: 글로벌 서비스 허브 조세 인센티브 검토) (Budget 2027 Touchpoints — Tax Measures (Appendix 23: Review of Tax Incentive for Global Services Hub))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "말레이시아 재정부"
+    date: "2026-10-09"
 
 entity: "Malaysian special zones and hub tax incentives"
 relations:
@@ -260,6 +270,29 @@ AGC 색인은 알려주지 않습니다 — 상태 필드는 여전히 PRINCIPAL
 **2026년 예산안이 무언가를 바꿨다고 가정하는 것.** 그러지 않았습니다. *Langkah Cukai* 부록에는
 특별경제구역, 포레스트시티, 서비스 허브에 관한 어떤 조치도 없으며, 그것이 제안 대비 입장을
 명시적으로 기술하는 문서입니다.
+
+## 2027년 예산안이 더 큰 글로벌 서비스 허브를 제안하다
+
+이 인센티브가 열린 이후 첫 움직임은 **2026년 10월 9일** 상정된 **2027년 예산안**에서 나왔습니다.
+예산 세제 조치의 Appendix 23은 회사가 이 제도에 신규인지 여부를 중심으로 국가 글로벌 서비스 허브를
+개편할 것을 제안합니다:
+
+- **신규 회사** — 이전에 글로벌 서비스 허브 또는 프린시펄 허브 활동을 영위한 적이 없는 회사 — 는
+  GSH 소득에 **5%**를 냅니다.
+- **기존 회사** — 이전에 GSH 또는 프린시펄 허브 인센티브를 승인받았거나 추가 서비스로 연장을
+  신청하는 회사 — 는 최근 3년간의 평균 소득으로 정의되는 **기준소득**에 **15%**를, 그리고 그
+  **기준을 초과하는** 소득에 **5%**를 냅니다.
+- 인센티브는 성과를 조건으로 **5년 단위로 최대 30년까지** 운영되며 — 이는 현행 상한의 세 배입니다.
+- 온쇼어 중개기관을 통한 캐시 풀링을 위해 **재무 및 펀드 운용**을 영위하는 회사는 또한 **비거주자에게
+  지급하는 이자에 대한 원천징수세 면제**와 **회사 간 외화 대출 계약에 대한 100% 인지세 면제**를
+  받으며 — 이 감면은 JS-SEZ 패키지에도 확대 적용됩니다.
+- 이는 **2027년 1월 1일부터 MIDA가 접수한 신청**에 적용됩니다.
+
+이 페이지의 모든 세율과 마찬가지로, 이는 **관보에 게재된 법령이 아니라 예산 제안**입니다.
+재정법안(Finance Bill), 2027년 공급(예산)법(Supply (Budget) 2027 Act) 및 이를 뒷받침하는
+명령이나 갱신된 MIDA 지침이 통과되어 관보에 게재되어야만 효력이 발생합니다 — 따라서 그때까지
+모델의 기준으로 삼을 입장은 현행 **5% 또는 10%** 국가 제도입니다. 더 넓은 패키지에 대해서는
+[2027년 예산안 해설](/ko/economy/malaysia-budget-2027)을 참고하십시오.
 
 ## 다음 단계
 
