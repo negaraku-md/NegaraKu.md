@@ -82,7 +82,7 @@ sources:
     url: "https://www.kpdn.gov.my/images/2025/pengumuman/KPDN-E-Com-Review-FINAL-BM.pdf"
     publisher: "국내무역생활비부 (KPDN)"
   - title: "2013년 개인정보보호(데이터 이용자 분류)명령 [P.U.(A) 336/2013], 통합본 — 분류 9(b) (Personal Data Protection (Class of Data Users) Order 2013 [P.U.(A) 336/2013], consolidated — class 9(b))"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
+    url: "https://web.archive.org/web/20241204214819/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
     publisher: "개인정보보호국"
   - title: "개인정보보호위원장 회람 2026년 제1호 (데이터 관리자 등록) (Pekeliling Pesuruhjaya Perlindungan Data Peribadi Bilangan 1 Tahun 2026 (Pendaftaran Pengawal Data))"
     url: "https://daftar.pdp.gov.my/"

@@ -81,7 +81,7 @@ sources:
     url: "https://www.kpdn.gov.my/images/2025/pengumuman/KPDN-E-Com-Review-FINAL-BM.pdf"
     publisher: "KPDN"
   - title: "Personal Data Protection (Class of Data Users) Order 2013 [P.U.(A) 336/2013], consolidated — class 9(b)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
+    url: "https://web.archive.org/web/20241204214819/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
     publisher: "Jabatan Perlindungan Data Peribadi"
   - title: "Pekeliling Pesuruhjaya Perlindungan Data Peribadi Bilangan 1 Tahun 2026 (Pendaftaran Pengawal Data)"
     url: "https://daftar.pdp.gov.my/"

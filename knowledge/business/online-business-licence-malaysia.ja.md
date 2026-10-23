@@ -81,7 +81,7 @@ sources:
     url: "https://www.kpdn.gov.my/images/2025/pengumuman/KPDN-E-Com-Review-FINAL-BM.pdf"
     publisher: "国内取引・生活費省 (KPDN)"
   - title: "2013年個人データ保護（データ利用者の種別）令 [P.U.(A) 336/2013]、統合版 — 種別9(b) (Personal Data Protection (Class of Data Users) Order 2013 [P.U.(A) 336/2013], consolidated — class 9(b))"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
+    url: "https://web.archive.org/web/20241204214819/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
     publisher: "個人データ保護局"
   - title: "個人データ保護コミッショナー通達 2026年第1号（データ管理者の登録） (Pekeliling Pesuruhjaya Perlindungan Data Peribadi Bilangan 1 Tahun 2026 (Pendaftaran Pengawal Data))"
     url: "https://daftar.pdp.gov.my/"

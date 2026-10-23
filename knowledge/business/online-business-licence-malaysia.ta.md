@@ -82,7 +82,7 @@ sources:
     url: "https://www.kpdn.gov.my/images/2025/pengumuman/KPDN-E-Com-Review-FINAL-BM.pdf"
     publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
   - title: "தனிநபர் தரவு பாதுகாப்பு (தரவு பயனர் வகை) ஆணை 2013 [P.U.(A) 336/2013], ஒருங்கிணைக்கப்பட்டது — வகை 9(b) (Personal Data Protection (Class of Data Users) Order 2013 [P.U.(A) 336/2013], consolidated — class 9(b))"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
+    url: "https://web.archive.org/web/20241204214819/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
     publisher: "தனிநபர் தரவு பாதுகாப்பு திணைக்களம்"
   - title: "தனிநபர் தரவு பாதுகாப்பு ஆணையர் சுற்றறிக்கை 2026 ஆம் ஆண்டு எண் 1 (தரவு கட்டுப்படுத்தி பதிவு) (Pekeliling Pesuruhjaya Perlindungan Data Peribadi Bilangan 1 Tahun 2026 (Pendaftaran Pengawal Data))"
     url: "https://daftar.pdp.gov.my/"

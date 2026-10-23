@@ -82,7 +82,7 @@ sources:
     url: "https://www.kpdn.gov.my/images/2025/pengumuman/KPDN-E-Com-Review-FINAL-BM.pdf"
     publisher: "घरेलू व्यापार तथा जीवनयापन लागत मंत्रालय (KPDN)"
   - title: "व्यक्तिगत डेटा संरक्षण (डेटा उपयोगकर्ताओं की श्रेणी) आदेश 2013 [P.U.(A) 336/2013], समेकित — श्रेणी 9(b) (Personal Data Protection (Class of Data Users) Order 2013 [P.U.(A) 336/2013], consolidated — class 9(b))"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
+    url: "https://web.archive.org/web/20241204214819/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/07/Perintah-Perlindungan-Data-Peribadi-.pdf"
     publisher: "व्यक्तिगत डेटा संरक्षण विभाग (JPDP)"
   - title: "व्यक्तिगत डेटा संरक्षण आयुक्त परिपत्र संख्या 1 वर्ष 2026 (डेटा नियंत्रक पंजीकरण) (Pekeliling Pesuruhjaya Perlindungan Data Peribadi Bilangan 1 Tahun 2026 (Pendaftaran Pengawal Data))"
     url: "https://daftar.pdp.gov.my/"
