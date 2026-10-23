@@ -104,7 +104,7 @@ sources:
     publisher: "The Star"
     date: "2026-07-16"
   - title: "MOF: संघीय सरकार का वैधानिक ऋण मार्च 2026 के अंत तक 65% सीमा के भीतर (MOF: Federal govt's statutory debt remains under 65% limit as of end-March 2026)"
-    url: "https://theedgemalaysia.com/node/810876"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/10/mof-federal-statutory-debt-expected-to-stay-under-65pc-of-gdp-in-2026-amid-costcontrol-measures/227036"
     publisher: "The Edge Malaysia"
   - title: "मज़बूत घरेलू माँग मलेशिया के GDP को बढ़ाती है, राजकोषीय घाटे को 3.7% तक संकुचित करती है — MOF (Strong domestic demand boosts Malaysia's GDP, narrows fiscal deficit to 3.7% - MOF)"
     url: "https://www.thestar.com.my/business/business-news/2026/02/13/strong-domestic-demand-boosts-malaysia039s-gdp-narrows-fiscal-deficit-to-37---mof"

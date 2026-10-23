@@ -72,7 +72,7 @@ sources:
     url: "https://mediaselangor.com/en/2026/07/382813"
     publisher: "Media Selangor"
   - title: "Các doanh nghiệp trong ngành được kêu gọi tuân thủ các nghị định thư xuất khẩu sầu riêng của Trung Quốc (Industry players urged to comply with China's durian export protocols)"
-    url: "https://theedgemalaysia.com/node/811224"
+    url: "https://www.malaymail.com/news/money/2026/07/18/deputy-minister-warns-industry-protect-premium-durian-image-as-china-access-hinges-on-strict-protocol/228135"
     publisher: "The Edge Malaysia"
   - title: "Lô hàng sầu riêng tươi đầu tiên của Malaysia cập bến Trung Quốc (First shipment of Malaysian fresh durian arrives in China)"
     url: "https://www.fruitnet.com/asiafruit/first-shipment-of-malaysian-fresh-durian-arrives-in-china/262032.article"

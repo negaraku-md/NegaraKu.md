@@ -54,7 +54,7 @@ verificationNeeded:
 updated: 2026-08-01
 sources:
   - title: "பாதுகாப்புத் தொழில் மேலாண்மை அமைப்பு (Sistem Pengurusan Industri Keselamatan (eSIMS))"
-    url: "https://www.moha.gov.my/index.php/en/278-sistem-pengurusan-industri-keselamatan-esims"
+    url: "https://esims.moha.gov.my/"
     publisher: "உள்துறை அமைச்சு (KDN/MOHA)"
   - title: "எண். 27/71 சட்டத்தின் பிரிவு 3-இன் கீழ் உரிமச் சரத்துகள் (KDN காவலர் ஆட்சேர்ப்பு சரத்து ஆவணம், மீள்வெளியிடப்பட்டது) (Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71 (dokumen syarat pengambilan pengawal KDN, diterbitkan semula))"
     url: "https://gatedandguardedcommunity.blogspot.com/p/syarat-syarat-lesen-di-bawah-seksyen-3.html"

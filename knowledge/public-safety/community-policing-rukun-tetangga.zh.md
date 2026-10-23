@@ -65,7 +65,7 @@ sources:
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/srs-dan-krt-perkukuh-keselamatan-keharmonian-komuniti/"
     publisher: "Portal Berita RTM"
   - title: "甘榜发展与安全委员会 (Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK))"
-    url: "https://kplb.sabah.gov.my/en/jawatankuasa-kemajuan-keselamatan-kampung-jkkk/"
+    url: "https://www.rurallink.gov.my/jpkk-dan-jpkkp/"
     publisher: "沙巴乡村发展部"
 
 entity: "Rukun Tetangga"

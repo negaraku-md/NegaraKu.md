@@ -79,7 +79,7 @@ sources:
     url: "https://www.bernama.com/bm/news.php?id=1717118"
     publisher: "Bernama"
   - title: "总警长:2025年网络诈骗损失激增至29.7亿令吉 (IGP: Online scam losses surge to RM2.97 bil in 2025)"
-    url: "https://theedgemalaysia.com/node/807010"
+    url: "https://www.malaymail.com/news/malaysia/2026/06/24/online-scam-losses-surge-to-rm297b-in-2025-says-home-ministry-as-fraud-trend-worsens-across-malaysia/225000"
     publisher: "The Edge Malaysia"
     date: "2026-06-15"
   - title: "997诈骗热线将24小时运作,来电自9月起视同报案 (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From Sept)"

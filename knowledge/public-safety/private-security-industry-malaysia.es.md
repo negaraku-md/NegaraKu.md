@@ -54,7 +54,7 @@ verificationNeeded:
 updated: 2026-08-01
 sources:
   - title: "Sistema de Gestión de la Industria de la Seguridad (eSIMS) (Sistem Pengurusan Industri Keselamatan (eSIMS))"
-    url: "https://www.moha.gov.my/index.php/en/278-sistem-pengurusan-industri-keselamatan-esims"
+    url: "https://esims.moha.gov.my/"
     publisher: "Ministerio del Interior (KDN/MOHA)"
   - title: "Condiciones de licencia conforme a la Sección 3 de la Ley N.º 27/71 (documento de condiciones de contratación de guardias del KDN, republicado) (Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71)"
     url: "https://gatedandguardedcommunity.blogspot.com/p/syarat-syarat-lesen-di-bawah-seksyen-3.html"

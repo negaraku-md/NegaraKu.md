@@ -79,7 +79,7 @@ sources:
     url: "https://www.bernama.com/bm/news.php?id=1717118"
     publisher: "Bernama"
   - title: "警察長官:2025年のオンライン詐欺被害額が29.7億リンギットに急増 (IGP: Online scam losses surge to RM2.97 bil in 2025)"
-    url: "https://theedgemalaysia.com/node/807010"
+    url: "https://www.malaymail.com/news/malaysia/2026/06/24/online-scam-losses-surge-to-rm297b-in-2025-says-home-ministry-as-fraud-trend-worsens-across-malaysia/225000"
     publisher: "The Edge Malaysia"
     date: "2026-06-15"
   - title: "997詐欺ホットラインが24時間運用へ、9月より通話は警察への届出として扱われる (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From Sept)"

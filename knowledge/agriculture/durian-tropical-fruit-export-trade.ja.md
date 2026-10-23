@@ -71,7 +71,7 @@ sources:
     url: "https://mediaselangor.com/en/2026/07/382813"
     publisher: "Media Selangor"
   - title: "業界関係者、中国のドリアン輸出プロトコル順守を要請される (Industry players urged to comply with China's durian export protocols)"
-    url: "https://theedgemalaysia.com/node/811224"
+    url: "https://www.malaymail.com/news/money/2026/07/18/deputy-minister-warns-industry-protect-premium-durian-image-as-china-access-hinges-on-strict-protocol/228135"
     publisher: "The Edge Malaysia"
   - title: "マレーシア産生鮮ドリアンの初出荷が中国に到着 (First shipment of Malaysian fresh durian arrives in China)"
     url: "https://www.fruitnet.com/asiafruit/first-shipment-of-malaysian-fresh-durian-arrives-in-china/262032.article"

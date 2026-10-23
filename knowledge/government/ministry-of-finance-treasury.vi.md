@@ -104,7 +104,7 @@ sources:
     publisher: "The Star"
     date: "2026-07-16"
   - title: "Bộ Tài chính: Nợ theo luật định của chính phủ liên bang vẫn dưới mức trần 65% tính đến cuối tháng 3 năm 2026 (MOF: Federal govt's statutory debt remains under 65% limit as of end-March 2026)"
-    url: "https://theedgemalaysia.com/node/810876"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/10/mof-federal-statutory-debt-expected-to-stay-under-65pc-of-gdp-in-2026-amid-costcontrol-measures/227036"
     publisher: "The Edge Malaysia"
   - title: "Nhu cầu nội địa mạnh thúc đẩy GDP Malaysia, thu hẹp thâm hụt tài khóa còn 3,7% — Bộ Tài chính (Strong domestic demand boosts Malaysia's GDP, narrows fiscal deficit to 3.7% - MOF)"
     url: "https://www.thestar.com.my/business/business-news/2026/02/13/strong-domestic-demand-boosts-malaysia039s-gdp-narrows-fiscal-deficit-to-37---mof"

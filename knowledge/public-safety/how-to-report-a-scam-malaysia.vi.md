@@ -79,7 +79,7 @@ sources:
     url: "https://www.bernama.com/bm/news.php?id=1717118"
     publisher: "Bernama"
   - title: "IGP: Thiệt hại do lừa đảo trực tuyến tăng vọt lên 2,97 tỷ RM trong năm 2025 (IGP: Online scam losses surge to RM2.97 bil in 2025)"
-    url: "https://theedgemalaysia.com/node/807010"
+    url: "https://www.malaymail.com/news/malaysia/2026/06/24/online-scam-losses-surge-to-rm297b-in-2025-says-home-ministry-as-fraud-trend-worsens-across-malaysia/225000"
     publisher: "The Edge Malaysia"
     date: "2026-06-15"
   - title: "Đường dây nóng chống lừa đảo 997 sẽ hoạt động 24 giờ, các cuộc gọi được xem như báo cáo cảnh sát kể từ tháng 9 (997 Scam Hotline To Operate 24 Hours, Calls Treated As Police Reports From Sept)"

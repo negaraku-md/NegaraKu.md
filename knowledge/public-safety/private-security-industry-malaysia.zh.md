@@ -54,7 +54,7 @@ verificationNeeded:
 updated: 2026-08-01
 sources:
   - title: "保安业管理系统 (Sistem Pengurusan Industri Keselamatan (eSIMS))"
-    url: "https://www.moha.gov.my/index.php/en/278-sistem-pengurusan-industri-keselamatan-esims"
+    url: "https://esims.moha.gov.my/"
     publisher: "内政部 (KDN/MOHA)"
   - title: "第27/71号法令第3条下的执照条件(内政部保安员招募条件文件,重新发布) (Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71 (dokumen syarat pengambilan pengawal KDN, diterbitkan semula))"
     url: "https://gatedandguardedcommunity.blogspot.com/p/syarat-syarat-lesen-di-bawah-seksyen-3.html"

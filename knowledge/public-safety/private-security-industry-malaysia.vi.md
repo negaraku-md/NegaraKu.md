@@ -54,7 +54,7 @@ verificationNeeded:
 updated: 2026-08-01
 sources:
   - title: "Hệ thống Quản lý Ngành An ninh (eSIMS) (Sistem Pengurusan Industri Keselamatan (eSIMS))"
-    url: "https://www.moha.gov.my/index.php/en/278-sistem-pengurusan-industri-keselamatan-esims"
+    url: "https://esims.moha.gov.my/"
     publisher: "Bộ Nội vụ (KDN/MOHA)"
   - title: "Các điều kiện cấp phép theo Mục 3 của Đạo luật số 27/71 (tài liệu điều kiện tuyển dụng nhân viên bảo vệ của KDN, được tái bản) (Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71 (dokumen syarat pengambilan pengawal KDN, diterbitkan semula))"
     url: "https://gatedandguardedcommunity.blogspot.com/p/syarat-syarat-lesen-di-bawah-seksyen-3.html"

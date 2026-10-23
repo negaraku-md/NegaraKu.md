@@ -65,7 +65,7 @@ sources:
     url: "https://berita.rtm.gov.my/nasional/senarai-berita-nasional/senarai-artikel/srs-dan-krt-perkukuh-keselamatan-keharmonian-komuniti/"
     publisher: "Portail d'actualités de la RTM (Portal Berita RTM)"
   - title: "Comité de développement et de sécurité de village (JKKK) (Jawatankuasa Kemajuan & Keselamatan Kampung (JKKK))"
-    url: "https://kplb.sabah.gov.my/en/jawatankuasa-kemajuan-keselamatan-kampung-jkkk/"
+    url: "https://www.rurallink.gov.my/jpkk-dan-jpkkp/"
     publisher: "Ministère du Développement rural de Sabah (Kementerian Pembangunan Luar Bandar Sabah)"
 
 entity: "Rukun Tetangga"

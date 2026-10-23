@@ -77,7 +77,7 @@ sources:
     url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/11/Act-A1727.pdf"
     publisher: "Department of Personal Data Protection (JPDP) / AGC Federal Gazette"
   - title: "Appointment of Date of Coming into Operation, P.U.(B) 522 (24 December 2024) — phased commencement dates"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/12/PENETAPAN-TARIKH-PERMULAAN-KUAT-KUASA-2.pdf"
+    url: "https://web.archive.org/web/20250213232920/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/12/PENETAPAN-TARIKH-PERMULAAN-KUAT-KUASA-2.pdf"
     publisher: "Department of Personal Data Protection (JPDP) / AGC Federal Gazette"
 entity: "Personal Data Protection Act 2010 (Act 709)"
 relations: []

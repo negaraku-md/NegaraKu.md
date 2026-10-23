@@ -103,7 +103,7 @@ sources:
     publisher: "The Star"
     date: "2026-07-16"
   - title: "財務省：連邦政府の法定債務は2026年3月末時点で65%の上限を下回る (MOF: Federal govt's statutory debt remains under 65% limit as of end-March 2026)"
-    url: "https://theedgemalaysia.com/node/810876"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/10/mof-federal-statutory-debt-expected-to-stay-under-65pc-of-gdp-in-2026-amid-costcontrol-measures/227036"
     publisher: "The Edge Malaysia"
   - title: "力強い内需がマレーシアのGDPを押し上げ、財政赤字を3.7%に縮小 — 財務省 (Strong domestic demand boosts Malaysia's GDP, narrows fiscal deficit to 3.7% - MOF)"
     url: "https://www.thestar.com.my/business/business-news/2026/02/13/strong-domestic-demand-boosts-malaysia039s-gdp-narrows-fiscal-deficit-to-37---mof"

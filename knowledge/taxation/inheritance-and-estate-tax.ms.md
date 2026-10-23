@@ -89,7 +89,7 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/public-ruling-no-92023-the-deceased-part-1-introduction.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Nota Penerangan - Harta Pusaka Si Mati (Borang TP) (Explanatory Notes - Deceased Person's Estate (Form TP))"
-    url: "https://www.hasil.gov.my/media/forms/upload/form_54f4aa03-2b84-4dc6-ab29-7954a9d67d5e/b32d6f36-b37e-4665-9be2-1981b42a42cf/explanatorynotes_tp2022_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Nota_Penerangan_TP_2021_1.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Pemungut Duti Setem v. Lee Koy Eng & Another Appeal [2022] 6 MLRA 209 (penghakiman) (Pemungut Duti Setem v. Lee Koy Eng & Another Appeal [2022] 6 MLRA 209 (judgment))"
     url: "https://www.elaw.my/JE/01/JE_2022_43.html"

@@ -64,7 +64,7 @@ sources:
     url: "https://pulse.icdm.com.my/wp-content/uploads/2019/12/Prime-Ministers-Department-Guidelines-on-Adequate-Procedures.pdf"
     publisher: "マレーシア首相府 (Prime Minister's Department)"
   - title: "裁判官、検察官及び法執行官の廉潔性と独立性 — マレーシア(国別報告) (Integrity and Independence of Judges, Prosecutors and Law Enforcement Officials — Malaysia (country paper))"
-    url: "https://www.unafei.or.jp/publications/pdf/GG14/17_GG14_CP7_Malaysia.pdf"
+    url: "https://www.sprm.gov.my/index.php?id=21&page_id=103&contentid=1832&cat=BKH"
     publisher: "UNAFEI (United Nations Asia and Far East Institute)"
   - title: "2026年贈収賄及び汚職に関する法令 — マレーシア (Bribery and Corruption Laws and Regulations 2026 — Malaysia)"
     url: "https://www.globallegalinsights.com/practice-areas/bribery-and-corruption-laws-and-regulations/malaysia/"

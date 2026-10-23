@@ -104,7 +104,7 @@ sources:
     publisher: "The Star"
     date: "2026-07-16"
   - title: "재무부: 연방정부 법정 부채, 2026년 3월 말 기준 65% 한도 이내 유지 (MOF: Federal govt's statutory debt remains under 65% limit as of end-March 2026)"
-    url: "https://theedgemalaysia.com/node/810876"
+    url: "https://www.malaymail.com/news/malaysia/2026/07/10/mof-federal-statutory-debt-expected-to-stay-under-65pc-of-gdp-in-2026-amid-costcontrol-measures/227036"
     publisher: "The Edge Malaysia"
   - title: "견조한 내수가 말레이시아 GDP 견인, 재정적자 3.7%로 축소 — 재무부 (Strong domestic demand boosts Malaysia's GDP, narrows fiscal deficit to 3.7% - MOF)"
     url: "https://www.thestar.com.my/business/business-news/2026/02/13/strong-domestic-demand-boosts-malaysia039s-gdp-narrows-fiscal-deficit-to-37---mof"

@@ -54,7 +54,7 @@ verificationNeeded:
 updated: 2026-08-01
 sources:
   - title: "نظام إدارة صناعة الأمن — eSIMS (Sistem Pengurusan Industri Keselamatan (eSIMS))"
-    url: "https://www.moha.gov.my/index.php/en/278-sistem-pengurusan-industri-keselamatan-esims"
+    url: "https://esims.moha.gov.my/"
     publisher: "وزارة الداخلية (KDN/MOHA)"
   - title: "شروط الترخيص بموجب المادة 3 من القانون رقم 27/71 — وثيقة شروط توظيف الحراس لدى KDN، مُعاد نشرها (Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71)"
     url: "https://gatedandguardedcommunity.blogspot.com/p/syarat-syarat-lesen-di-bawah-seksyen-3.html"

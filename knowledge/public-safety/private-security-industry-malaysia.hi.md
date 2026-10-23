@@ -54,7 +54,7 @@ verificationNeeded:
 updated: 2026-08-01
 sources:
   - title: "सुरक्षा उद्योग प्रबंधन प्रणाली (eSIMS) (Sistem Pengurusan Industri Keselamatan (eSIMS))"
-    url: "https://www.moha.gov.my/index.php/en/278-sistem-pengurusan-industri-keselamatan-esims"
+    url: "https://esims.moha.gov.my/"
     publisher: "गृह मामलों का मंत्रालय (KDN/MOHA)"
   - title: "अधिनियम सं. 27/71 की धारा 3 के तहत लाइसेंस की शर्तें (KDN गार्ड भर्ती शर्त दस्तावेज़, पुनः प्रकाशित) (Syarat-Syarat Lesen Di Bawah Seksyen 3 Akta No. 27/71)"
     url: "https://gatedandguardedcommunity.blogspot.com/p/syarat-syarat-lesen-di-bawah-seksyen-3.html"
