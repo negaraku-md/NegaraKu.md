@@ -318,3 +318,5 @@ Pour le remboursement de capital plutôt que de bénéfices, et le test plus str
 régit, consultez `capital-reduction`. Pour le cadre des devoirs qui sous-tend la décision,
 consultez `directors-duties`. Pour le traitement fiscal de ce que reçoit l'actionnaire,
 consultez `corporate-tax-rates`.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

@@ -266,3 +266,5 @@ s.208 来讲这条规则的指南，通常也会漏掉这条限制涵盖的是**
 [董事职责](/zh/company-secretary/directors-duties)接受简报，并获发一份
 [s.219 持股通知](/zh/company-secretary/director-shareholding-notification)以在其上任后的头
 十四天内填妥。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

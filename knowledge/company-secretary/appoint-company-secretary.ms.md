@@ -257,3 +257,5 @@ berjalan menentang anda pada masa ini. Jika anda menggantikan setiausaha
 sedia ada, senarai serahan dan pemfailan selari ditetapkan dalam panduan
 menukar setiausaha syarikat anda, dan laluan keluar setiausaha yang berhenti
 itu sendiri dirangkumi di bawah peletakan jawatan setiausaha.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

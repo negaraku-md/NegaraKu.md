@@ -213,3 +213,5 @@ Casi ninguna guía malasia menciona que el CSID existe. Para un director que hac
 ## Qué sigue
 
 Si está nombrando en lugar de calificando, la secuenciación y el plazo de 30 días desde la constitución se encuentran en la guía de nombramiento. Si está reemplazando a un titular, las obligaciones de traspaso y la notificación de la s.58 importan más que la comprobación de credenciales. Y si usted es el secretario y quiere salir, la s.237 fija un plazo de 30 días que corre independientemente de que la empresa coopere o no.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

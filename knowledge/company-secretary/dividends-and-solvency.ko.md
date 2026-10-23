@@ -276,3 +276,5 @@ s.132(2) 만족의 유일한 증거입니다. 12개월 평가와 그것이 무�
 `capital-reduction`을 참조하십시오. 결정 배후의 의무 체계는 `directors-duties`를
 참조하십시오. 주주가 받는 것에 대한 조세 처리는 `corporate-tax-rates`를
 참조하십시오.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

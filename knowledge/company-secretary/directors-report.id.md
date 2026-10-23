@@ -287,3 +287,5 @@ Dua masukan kepada laporan memiliki halaman sendiri:
 berkontribusi pada paragraf 1(e), dan
 [persetujuan honorarium direktur](/id/company-secretary/directors-fees-approval) berkontribusi
 pada paragraf 2.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

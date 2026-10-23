@@ -509,6 +509,25 @@ pengiraan cukai. Sediakan belanjawan untuk kos berulang, bukan kos sekali sahaja
   perlu dibuat dalam masa 60 hari dari transaksi (s.245(2)), dan s.539 menjadikan
   kegagalan itu satu kesalahan dengan had hukuman penjara.
 
+## Setiap kewajipan, secara terperinci
+
+Setiap tanggungjawab berkanun dalam kalendar di atas, dijelaskan sepenuhnya:
+
+- [Cara Melantik Setiausaha Syarikat di Malaysia](/company-secretary/appoint-company-secretary/)
+- [Siapa yang Boleh Menjadi Setiausaha Syarikat di Malaysia](/company-secretary/company-secretary-qualification/)
+- [Tanggungjawab Pengarah di Bawah Akta Syarikat 2016 dan Liabiliti Peribadi Anda](/company-secretary/directors-duties/)
+- [Melantik dan Meletakkan Jawatan Pengarah Syarikat Malaysia](/company-secretary/appoint-resign-director/)
+- [Mesyuarat Lembaga Pengarah dan Minit](/company-secretary/board-meetings-and-minutes/)
+- [Keperluan AGM di Malaysia](/company-secretary/agm-requirements/)
+- [Pejabat Berdaftar](/company-secretary/registered-office/)
+- [Daftar Ahli](/company-secretary/register-of-members/)
+- [Daftar Pengarah, Pengurus dan Setiausaha](/company-secretary/register-of-directors/)
+- [Pelaporan Pemilikan Benefisial di Malaysia](/company-secretary/beneficial-ownership/)
+- [Penyata Tahunan](/company-secretary/annual-return/)
+- [Mengedar dan Memfailkan Penyata Kewangan](/company-secretary/financial-statements-lodgement/)
+- [Laporan Pengarah dan Akuan Berkanun](/company-secretary/directors-report/)
+- [Dividen dan Ujian Kesolvenan](/company-secretary/dividends-and-solvency/)
+
 ## Apa yang seterusnya
 
 Bina kalendar sebelum anda memerlukannya. Catatkan empat tarikh: tarikh pemerbadanan

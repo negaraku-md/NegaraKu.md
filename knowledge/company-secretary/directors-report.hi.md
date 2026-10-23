@@ -284,3 +284,5 @@ Negara Malaysia) निर्धारित करे।
 अनुच्छेद 1(e) को पोषित करती है, और
 [निदेशकों के शुल्क की स्वीकृति](/en/company-secretary/directors-fees-approval) अनुच्छेद
 2 को पोषित करती है।
+
+अभी-अभी कंपनी बनाई है? देखें [अपने Sdn Bhd के पहले साल का अनुपालन कैलेंडर](/hi/business/sdn-bhd-first-year-compliance/)।

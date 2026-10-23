@@ -343,3 +343,5 @@ untuk set yang lebih luas. Seorang direktur yang baru ditunjuk perlu diberi
 taklimat tentang [kewajiban direktur](/id/company-secretary/directors-duties)
 dan diberikan [pemberitahuan kepemilikan saham s.219](/id/company-secretary/director-shareholding-notification)
 untuk dilengkapi dalam jangka waktu empat belas hari pertamanya.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

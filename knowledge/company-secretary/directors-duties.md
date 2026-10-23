@@ -408,3 +408,5 @@ sets out the consent, minimum-number and vacation rules, and
 written-resolution prohibition that catches most private companies. On money
 flowing to directors, see [loans to directors](/en/company-secretary/loans-to-directors)
 and [directors' fees approval](/en/company-secretary/directors-fees-approval).
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

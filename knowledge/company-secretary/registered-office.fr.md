@@ -256,3 +256,5 @@ coup. Confirmez ensuite quels documents y sont réellement conservés et lesquel
 discrètement migré, à l'aide du
 [guide de conservation des livres de procès-verbaux et des documents](/fr/company-secretary/minute-books-and-records),
 et vérifiez que toute adresse hors site est couverte par un avis du s.47(2) déposé.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

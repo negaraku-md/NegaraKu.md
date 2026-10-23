@@ -287,3 +287,5 @@ sama — daftar internal lawan notifikasi eksternal — telah ditangani pada
 [daftar direktur](/id/company-secretary/register-of-directors), di mana
 kewajiban-kewajiban itu terletak pada Pasal 57 dan Pasal 58 dan penalti notifikasinya
 lebih tinggi lagi.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

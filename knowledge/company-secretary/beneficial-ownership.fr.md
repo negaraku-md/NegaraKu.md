@@ -511,3 +511,5 @@ puis configurez correctement les deux délais à l'aide de
 Si un actionnaire ne répond pas, ne laissez pas le dossier dériver : la voie
 d'escalade et les preuves que vous devez conserver sont dans
 [lorsque le bénéficiaire effectif ne répond pas](/fr/company-secretary/bo-non-cooperation).
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

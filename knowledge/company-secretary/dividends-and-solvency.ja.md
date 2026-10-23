@@ -275,3 +275,5 @@ s.210は、s.213からs.218までを、最高経営責任者（CEO）、最高�
 利益ではなく資本を返還する場合、およびそれを規律するより厳格なテストについては
 `capital-reduction`を参照。この決定の背後にある職責の枠組みについては`directors-duties`を
 参照。株主が受け取るものの税務上の扱いについては`corporate-tax-rates`を参照。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

@@ -264,3 +264,5 @@ keywords: ["تقرير المديرين ماليزيا", "directors report Malay
 [إبلاغ المدير بحيازة الأسهم](/company-secretary/director-shareholding-notification)
 يغذّي الفقرة 1(e)، و[اعتماد أتعاب المديرين](/company-secretary/directors-fees-approval)
 يغذّي الفقرة 2.
+
+هل أسّست شركتك للتو؟ اطّلع على [تقويم الامتثال للسنة الأولى لشركتك Sdn Bhd](/ar/business/sdn-bhd-first-year-compliance/).

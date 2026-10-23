@@ -316,3 +316,5 @@ pelantikan. Jika anda sedang menggantikan setiausaha sedia ada, kewajipan
 serah tugas dan notifikasi s.58 lebih penting berbanding semakan kelayakan.
 Dan jika anda ialah setiausaha yang ingin berhenti, s.237 menetapkan tempoh
 30 hari yang berjalan sama ada syarikat itu bekerjasama atau tidak.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

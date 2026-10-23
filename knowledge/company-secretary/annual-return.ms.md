@@ -241,3 +241,5 @@ denda berkanun yang mendasarinya. Dan jika syarikat itu benar-benar sudah
 berhenti beroperasi, pertimbangkan sama ada pembatalan pendaftaran atau
 penggulungan adalah jawapan yang lebih tepat berbanding terus memfailkan
 penyata tanpa had bagi sebuah entiti yang tiada siapa lagi menggunakannya.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

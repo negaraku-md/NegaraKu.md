@@ -300,3 +300,5 @@ Para los relojes de distribución y presentación que sustituyeron a la junta ge
 véase `financial-statements-lodgement`. Para las prórrogas, véase `extension-of-time-ssm`.
 Para los plazos de convocatoria en una sola tabla, véase `resolution-notice-periods`. Para
 los socios que quieren una junta que el consejo no convocará, véase `egm-requisition`.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

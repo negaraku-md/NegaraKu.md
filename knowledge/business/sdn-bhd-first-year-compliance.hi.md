@@ -483,6 +483,25 @@ SSM की ROC शुल्क तालिका के अनुसार न�
 - **रसीदें जूते के डिब्बे में रखना और वर्ष-अंत पर मिलान करना।** प्रविष्टियाँ लेन-देन के 60 दिनों
   के भीतर देय हैं (s.245(2)), और s.539 चूक को एक कैद-सीमा वाले अपराध बनाती है।
 
+## प्रत्येक दायित्व, विस्तार से
+
+ऊपर दिए कैलेंडर का हर वैधानिक दायित्व, पूरे विस्तार से:
+
+- [मलेशिया में कंपनी सचिव की नियुक्ति कैसे करें](/hi/company-secretary/appoint-company-secretary/)
+- [मलेशिया में कौन कंपनी सचिव बन सकता है](/hi/company-secretary/company-secretary-qualification/)
+- [कंपनी अधिनियम 2016 के तहत निदेशकों के कर्तव्य और आपका व्यक्तिगत दायित्व](/hi/company-secretary/directors-duties/)
+- [किसी मलेशियाई कंपनी के निदेशक की नियुक्ति और त्यागपत्र](/hi/company-secretary/appoint-resign-director/)
+- [निदेशक मंडल की बैठकें और कार्यवृत्त](/hi/company-secretary/board-meetings-and-minutes/)
+- [मलेशिया में AGM की आवश्यकताएँ](/hi/company-secretary/agm-requirements/)
+- [पंजीकृत कार्यालय](/hi/company-secretary/registered-office/)
+- [सदस्य रजिस्टर](/hi/company-secretary/register-of-members/)
+- [निदेशकों, प्रबंधकों और सचिवों का रजिस्टर](/hi/company-secretary/register-of-directors/)
+- [मलेशिया में लाभकारी स्वामित्व रिपोर्टिंग](/hi/company-secretary/beneficial-ownership/)
+- [वार्षिक विवरणी (Annual Return)](/hi/company-secretary/annual-return/)
+- [वित्तीय विवरणों का परिचालन और जमा](/hi/company-secretary/financial-statements-lodgement/)
+- [निदेशकों की रिपोर्ट और वैधानिक घोषणा](/hi/company-secretary/directors-report/)
+- [लाभांश और शोधनक्षमता परीक्षण](/hi/company-secretary/dividends-and-solvency/)
+
 ## आगे क्या
 
 कैलेंडर की ज़रूरत पड़ने से पहले ही उसे बना लें। चार तारीखें लिख लें: आपके निगमन की तारीख, आपका

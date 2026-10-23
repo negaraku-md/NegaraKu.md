@@ -243,3 +243,5 @@ That single test resolves s.46(2), s.47(1) and s.48(2) at once. Then confirm whi
 records are actually held there and which have quietly migrated, using the
 [minute books and records retention guide](/en/company-secretary/minute-books-and-records),
 and check that any off-site address is covered by a lodged s.47(2) notice.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

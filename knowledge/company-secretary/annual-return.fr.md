@@ -241,3 +241,5 @@ dépôt tardif donne les tranches actuelles et les amendes statutaires qui les
 sous-tendent. Et si la société a véritablement cessé son activité, demandez-vous
 si la radiation ou la liquidation est la bonne réponse plutôt que de déposer des
 déclarations indéfiniment pour une entité que personne n'utilise.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

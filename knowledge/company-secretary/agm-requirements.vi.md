@@ -291,3 +291,5 @@ Về các đồng hồ phân phát và nộp đã thay thế AGM, xem
 `financial-statements-lodgement`. Về gia hạn, xem `extension-of-time-ssm`. Về các
 thời hạn thông báo trong một bảng, xem `resolution-notice-periods`. Về các thành
 viên muốn một cuộc họp mà hội đồng sẽ không triệu tập, xem `egm-requisition`.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

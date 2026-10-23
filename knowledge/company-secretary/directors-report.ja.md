@@ -211,3 +211,5 @@ s.251にもs.252にも日付は定められていない。期限は次のとお�
 報告書が承認され署名されると、回付と提出の期限が動き始める——s.258とs.259の流れについては[財務諸表の提出](/ja/company-secretary/financial-statements-lodgement)を、会社が監査免除を主張する場合については[未監査財務諸表](/ja/company-secretary/unaudited-financial-statements)を参照のこと。
 
 報告書への2つのインプットには、それぞれ専用ページがある。[取締役持株届出](/ja/company-secretary/director-shareholding-notification)は第1(e)項に、[取締役報酬承認](/ja/company-secretary/directors-fees-approval)は第2項につながる。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

@@ -237,3 +237,5 @@ năm 2025 nằm trong hướng dẫn về đủ tư cách thư ký công ty. N�
 thay thế một người đương nhiệm, bản kiểm kê bàn giao và các hồ sơ nộp song song được
 đặt ra trong hướng dẫn về việc thay đổi thư ký công ty của bạn, và tuyến ra đi của
 chính thư ký sắp rời được đề cập dưới mục từ chức của thư ký.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

@@ -397,3 +397,5 @@ Commission of Malaysia Act 2001) (अधिनियम 614) की धारा
 को कवर करता है जो अधिकांश निजी कंपनियों को पकड़ता है। निदेशकों की ओर बहने वाले धन पर,
 देखें [निदेशकों को ऋण](/en/company-secretary/loans-to-directors) और
 [निदेशकों के शुल्क की स्वीकृति](/en/company-secretary/directors-fees-approval)।
+
+अभी-अभी कंपनी बनाई है? देखें [अपने Sdn Bhd के पहले साल का अनुपालन कैलेंडर](/hi/business/sdn-bhd-first-year-compliance/)।

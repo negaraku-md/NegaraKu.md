@@ -243,3 +243,5 @@ los tramos actuales y las multas estatutarias que hay detrás. Y si la sociedad
 ha dejado genuinamente de operar, considere si dar de baja o liquidar es la
 respuesta correcta en lugar de presentar declaraciones indefinidamente por una
 entidad que nadie usa.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

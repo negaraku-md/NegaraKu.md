@@ -319,3 +319,5 @@ for the wider set. A newly appointed director should be briefed on
 [directors' duties](/en/company-secretary/directors-duties) and given a
 [s.219 shareholding notice](/en/company-secretary/director-shareholding-notification)
 to complete within his first fourteen days.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

@@ -314,3 +314,5 @@ Para la devolución de capital en lugar de beneficios, y la prueba más estricta
 rige, consulte `capital-reduction`. Para el marco de deberes que respalda la decisión,
 consulte `directors-duties`. Para el tratamiento fiscal de lo que recibe el accionista,
 consulte `corporate-tax-rates`.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

@@ -227,3 +227,5 @@ thông tin chi tiết về các giám đốc, quản lý, thư ký và kiểm to
 ký và nộp thông báo s.58 còn thiếu một cách riêng biệt — một hành động không sửa cái kia. Rồi áp dụng cùng kiểm
 tra cho [sổ đăng ký các thành viên](/vi/company-secretary/register-of-members), nơi cùng sự phân chia xuất hiện
 như s.50 so với s.51.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

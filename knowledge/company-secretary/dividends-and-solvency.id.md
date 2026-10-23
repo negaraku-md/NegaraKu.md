@@ -322,3 +322,5 @@ Untuk pengembalian modal dan bukan laba, serta uji yang lebih ketat yang
 mengaturnya, lihat `capital-reduction`. Untuk kerangka kewajiban di
 balik keputusan itu, lihat `directors-duties`. Untuk perlakuan pajak terhadap apa
 yang diterima pemegang saham, lihat `corporate-tax-rates`.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

@@ -378,3 +378,5 @@ tới, được đề cập trong
 bằng văn bản mà bắt gặp hầu hết các công ty tư nhân. Về dòng tiền chảy tới các giám đốc, xem
 [các khoản vay cho các giám đốc](/vi/company-secretary/loans-to-directors) và
 [phê duyệt thù lao của các giám đốc](/vi/company-secretary/directors-fees-approval).
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

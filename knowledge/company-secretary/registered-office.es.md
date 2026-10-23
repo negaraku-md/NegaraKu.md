@@ -254,3 +254,5 @@ cuáles han migrado sin ruido, con la
 [guía de conservación de libros de actas y documentos](/en/company-secretary/minute-books-and-records),
 y compruebe que cualquier dirección externa esté cubierta por un aviso del s.47(2)
 presentado.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

@@ -501,3 +501,5 @@ y luego configure correctamente los dos plazos usando
 Si un accionista no responde, no deje que el expediente se desvíe: la ruta de
 escalada y las pruebas que necesita conservar están en
 [cuando el titular real no responde](/en/company-secretary/bo-non-cooperation).
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

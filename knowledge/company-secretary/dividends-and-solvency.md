@@ -293,3 +293,5 @@ For returning capital rather than profits, and the stricter test that governs it
 `capital-reduction`. For the duties framework behind the decision, see
 `directors-duties`. For the tax treatment of what the shareholder receives, see
 `corporate-tax-rates`.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

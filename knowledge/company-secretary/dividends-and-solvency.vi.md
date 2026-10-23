@@ -285,3 +285,5 @@ Hãy ghi cả hai vào biên bản, và ghi kết luận vào biên bản.
 `capital-reduction`. Đối với khung nghĩa vụ đằng sau quyết định, xem
 `directors-duties`. Đối với việc xử lý thuế đối với những gì cổ đông nhận, xem
 `corporate-tax-rates`.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

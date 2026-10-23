@@ -211,3 +211,5 @@ Las dos disposiciones de exención conviene conocerlas. **La Sección 255** perm
 Una vez que el informe está aprobado y firmado, los relojes de circulación y presentación toman el relevo; consulte [presentación de estados financieros](/en/company-secretary/financial-statements-lodgement) para la secuencia de los s.258 y s.259, y [estados financieros no auditados](/en/company-secretary/unaudited-financial-statements) cuando la empresa reclama la exención de auditoría.
 
 Dos insumos del informe tienen sus propias páginas: [notificación de participaciones del director](/en/company-secretary/director-shareholding-notification) alimenta el apartado 1(e), y [aprobación de honorarios de los directores](/en/company-secretary/directors-fees-approval) alimenta el apartado 2.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

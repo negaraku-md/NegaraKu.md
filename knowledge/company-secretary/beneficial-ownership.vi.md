@@ -468,3 +468,5 @@ thiết lập hai đồng hồ một cách đúng đắn dùng
 Nếu một cổ đông không trả lời, đừng để hồ sơ trôi đi — con đường leo thang và bằng
 chứng bạn cần giữ nằm trong
 [khi chủ sở hữu hưởng lợi không phản hồi](/vi/company-secretary/bo-non-cooperation).
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

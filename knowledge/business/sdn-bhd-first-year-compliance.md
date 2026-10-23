@@ -504,6 +504,25 @@ Budget for the recurring cost, not the one-off.
   within 60 days of the transaction (s.245(2)), and s.539 makes failure an offence
   with a custodial ceiling.
 
+## Each obligation, in depth
+
+Every statutory duty in the calendar above, explained in full:
+
+- [How to Appoint a Company Secretary in Malaysia](/en/company-secretary/appoint-company-secretary/)
+- [Who Can Be a Company Secretary in Malaysia](/en/company-secretary/company-secretary-qualification/)
+- [Directors' Duties Under the Companies Act 2016 and Your Personal Liability](/en/company-secretary/directors-duties/)
+- [Appointing and Resigning a Director of a Malaysian Company](/en/company-secretary/appoint-resign-director/)
+- [Board Meetings and Minutes](/en/company-secretary/board-meetings-and-minutes/)
+- [AGM Requirements in Malaysia](/en/company-secretary/agm-requirements/)
+- [Registered Office](/en/company-secretary/registered-office/)
+- [Register of Members](/en/company-secretary/register-of-members/)
+- [Register of Directors, Managers and Secretaries](/en/company-secretary/register-of-directors/)
+- [Beneficial Ownership Reporting in Malaysia](/en/company-secretary/beneficial-ownership/)
+- [Annual Return](/en/company-secretary/annual-return/)
+- [Circulating and Lodging Financial Statements](/en/company-secretary/financial-statements-lodgement/)
+- [The Directors' Report and Statutory Declaration](/en/company-secretary/directors-report/)
+- [Dividends and the Solvency Test](/en/company-secretary/dividends-and-solvency/)
+
 ## What's next
 
 Build the calendar before you need it. Write down four dates: your incorporation date,

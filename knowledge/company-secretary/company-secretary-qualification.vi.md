@@ -283,3 +283,5 @@ Nếu bạn đang bổ nhiệm chứ không phải đủ tư cách, việc sắp
 lập 30 ngày nằm trong hướng dẫn bổ nhiệm. Nếu bạn đang thay thế một người đương nhiệm, các
 nghĩa vụ bàn giao và thông báo s.58 quan trọng hơn việc kiểm tra chứng chỉ. Và nếu bạn là
 thư ký và muốn ra đi, s.237 đặt một đồng hồ 30 ngày chạy dù công ty có hợp tác hay không.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

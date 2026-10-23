@@ -287,3 +287,5 @@ keywords: ["الجمعية العمومية السنوية ماليزيا", "AGM
 يريدون اجتماعاً يرفض المجلس الدعوة إليه، انظر `egm-requisition`.
 </content>
 </invoke>
+
+هل أسّست شركتك للتو؟ اطّلع على [تقويم الامتثال للسنة الأولى لشركتك Sdn Bhd](/ar/business/sdn-bhd-first-year-compliance/).

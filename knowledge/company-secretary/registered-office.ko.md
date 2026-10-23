@@ -225,3 +225,5 @@ s.57(3)에 따라 이사 등록부의 열람을 요청한다면, 회사가 이�
 [의사록 장부와 기록 보존 지침](/ko/company-secretary/minute-books-and-records)을 사용해
 실제로 어떤 기록이 그곳에 보관되고 어떤 것이 조용히 이동했는지 확인하고, 외부 주소가
 제출된 s.47(2) 통지로 포함되어 있는지 점검하십시오.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

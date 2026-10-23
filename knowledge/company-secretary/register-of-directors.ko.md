@@ -227,3 +227,5 @@ SSM의 FAQ Part E는 비서 팀을 곤란하게 하는 관련 질문을 해결�
 통지를 별도로 제출하십시오. 한 가지 조치가 다른 하나를 고치지 않습니다. 그런 다음
 같은 시험을 [사원 등록부](/ko/company-secretary/register-of-members)에 적용하십시오.
 거기서는 동일한 이분이 s.50과 s.51로 나타납니다.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

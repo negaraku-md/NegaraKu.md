@@ -470,3 +470,5 @@ Note No. 5/2025）が、e-BOS LLP を通じた有限責任事業組合（LLP）�
 手順及び保管すべき証拠は
 [実質的所有者が応答しない場合](/ja/company-secretary/bo-non-cooperation) に
 示されている。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

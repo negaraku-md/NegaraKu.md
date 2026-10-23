@@ -294,3 +294,5 @@ Về các giai đoạn lưu giữ và nơi các hồ sơ phải được giữ, 
 Về phía thành viên của cùng bộ máy, xem `written-resolutions` và
 `resolution-notice-periods`. Về các công bố lợi ích thuộc về biên bản hội đồng, xem
 `disclosure-of-interest`.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

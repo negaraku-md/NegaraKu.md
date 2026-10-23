@@ -314,3 +314,5 @@ cho tập hợp rộng hơn. Một giám đốc mới được bổ nhiệm nên
 [các nghĩa vụ của giám đốc](/vi/company-secretary/directors-duties) và được đưa một
 [thông báo cổ phần s.219](/vi/company-secretary/director-shareholding-notification) để
 hoàn thành trong mười bốn ngày đầu tiên của họ.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

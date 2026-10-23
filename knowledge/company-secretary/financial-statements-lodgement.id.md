@@ -276,3 +276,5 @@ begitu saja oleh jadwal audit, karena tanggal itulah yang menentukan
 segala-galanya selanjutnya. Kemudian letakkan kedua tanggal — pengedaran dan
 penyampaian — pada kalender yang sama dengan laporan tahunan Anda, yang
 berjalan mengikut pemicu yang sama sekali berbeda.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

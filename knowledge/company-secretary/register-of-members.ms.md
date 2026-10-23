@@ -287,3 +287,5 @@ sama — daftar dalaman berbanding notifikasi luaran — telah ditangani pada
 [daftar pengarah](/company-secretary/register-of-directors), di mana
 kewajipan-kewajipan itu terletak pada s.57 dan s.58 dan penalti notifikasinya
 lebih tinggi lagi.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

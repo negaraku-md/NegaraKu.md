@@ -247,3 +247,5 @@ s.216(3)の免責には二つの要素があり、その**両方**が満たさ�
 会社秘書役がこれらの義務に出会う順序で、個別の義務を確認していこう。契約における利害関係は、実務上もっとも頻繁に守られない義務であり、その不履行はたいてい議事録の欠落による——[利益の開示](/ja/company-secretary/disclosure-of-interest)を参照。持株に関する個人的な通知義務は、ほとんどの取締役が耳にしたことのない14日間の期限で運用されており、[取締役持株通知](/ja/company-secretary/director-shareholding-notification)で扱っている。
 
 取締役会の変更については、[取締役の選任と辞任](/ja/company-secretary/appoint-resign-director)が同意、最低人数および退任に関する規則を定めており、[取締役の解任](/ja/company-secretary/remove-a-director)は、ほとんどの私会社が該当する書面決議の禁止を扱っている。取締役に流れる資金については、[取締役への貸付](/ja/company-secretary/loans-to-directors)および[取締役報酬の承認](/ja/company-secretary/directors-fees-approval)を参照のこと。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

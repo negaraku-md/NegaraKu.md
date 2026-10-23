@@ -242,3 +242,5 @@ sách các thành viên được nộp cùng với nó. Nếu hai cái không kh
 sau. Rồi kiểm tra liệu cùng sự phân chia — sổ đăng ký nội bộ so với thông báo bên ngoài — đã được xử lý trên
 [sổ đăng ký các giám đốc](/vi/company-secretary/register-of-directors) hay chưa, nơi các nghĩa vụ nằm ở s.57 và
 s.58 và hình phạt thông báo lại cao hơn nữa.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

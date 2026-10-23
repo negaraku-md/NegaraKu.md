@@ -437,3 +437,5 @@ CEO, CFO மற்றும் COO-ஐ ss.213–218, 223 மற்றும் 2
 இயக்குநர்களுக்குப் பாயும் பணம் குறித்து, [loans to directors](/ta/company-secretary/loans-to-directors)
 மற்றும் [directors' fees approval](/ta/company-secretary/directors-fees-approval)
 பார்க்கவும்.
+
+புதிதாக பதிவு செய்தீர்களா? [உங்கள் Sdn Bhd-இன் முதல் ஆண்டு இணக்க நாட்காட்டியைப்](/ta/business/sdn-bhd-first-year-compliance/) பார்க்கவும்.

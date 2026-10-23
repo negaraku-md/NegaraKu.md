@@ -276,3 +276,5 @@ externe — a été gérée pour le
 [registre des administrateurs](/fr/company-secretary/register-of-directors), où les
 obligations figurent à s.57 et s.58 et où la sanction de notification est plus
 élevée encore.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

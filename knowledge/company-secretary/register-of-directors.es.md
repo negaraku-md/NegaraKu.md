@@ -252,3 +252,5 @@ el registro y presente por separado la notificación pendiente de la s.58 — un
 no arregla la otra. Luego aplique la misma prueba al
 [registro de socios](/en/company-secretary/register-of-members), donde la misma división
 aparece como s.50 frente a s.51.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

@@ -291,3 +291,5 @@ s.58(1)(c)은 회사에게 어떤 사람이 이사가 되거나 이사를 그만
 이사는 [이사의 의무](/en/company-secretary/directors-duties)에 관해 안내받아야 하고,
 첫 14일 이내에 완료할 [s.219 주식보유 통지](/en/company-secretary/director-shareholding-notification)를
 받아야 합니다.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

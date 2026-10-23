@@ -241,3 +241,5 @@ register and lodge the outstanding s.58 notification separately — one action d
 not fix the other. Then apply the same test to the
 [register of members](/en/company-secretary/register-of-members), where the same
 split appears as s.50 against s.51.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

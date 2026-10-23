@@ -289,3 +289,5 @@ s.201の同意が実際に消化される場面である。違反はs.58(4)に�
 [取締役の義務](/ja/company-secretary/directors-duties)について説明を行い、就任後最初の十四
 日以内に完了すべき
 [s.219持株通知](/ja/company-secretary/director-shareholding-notification)を交付すべきである。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

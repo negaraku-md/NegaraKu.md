@@ -248,3 +248,5 @@ keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "direc
 按公司秘书遇到这些职责的先后顺序逐项处理。合约中的利益是实务上最常失守的职责，而失守通常是一份缺失的会议记录——见[利益披露](/zh/company-secretary/disclosure-of-interest)。关于持股的个人通知职责按一个大多数董事从未听闻的14天时限运作，详见[董事持股通知](/zh/company-secretary/director-shareholding-notification)。
 
 关于董事会变动，[委任与辞任董事](/zh/company-secretary/appoint-resign-director)列出了同意、最低人数与出缺规则，而[罢免董事](/zh/company-secretary/remove-a-director)涵盖了使大多数私人公司受制的书面决议禁令。关于流向董事的资金，见[董事贷款](/zh/company-secretary/loans-to-directors)与[董事酬金批准](/zh/company-secretary/directors-fees-approval)。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

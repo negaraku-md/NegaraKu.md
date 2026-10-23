@@ -253,3 +253,5 @@ yang sedang berjalan menentang Anda saat ini. Jika Anda mengganti sekretaris yan
 ada, daftar serah terima dan penyampaian paralel ditetapkan dalam panduan
 mengganti sekretaris perusahaan Anda, dan jalur keluar sekretaris yang berhenti
 itu sendiri dicakup di bawah pengunduran diri sekretaris.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

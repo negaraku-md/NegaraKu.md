@@ -220,3 +220,5 @@ keywords: ["appoint director Malaysia", "resign as director Sdn Bhd", "section 1
 เมื่อการพ้นจากตำแหน่งไม่ใช่ด้วยความสมัครใจ กลไกจะเปลี่ยนไปโดยสิ้นเชิงและมติเป็นหนังสือเป็นสิ่งต้องห้าม — ดู [การถอดถอนกรรมการ](/th/company-secretary/remove-a-director)
 
 สำหรับการยื่นที่เกิดจากการเปลี่ยนแปลง ดู [ทะเบียนกรรมการ](/th/company-secretary/register-of-directors) สำหรับการแบ่งระหว่างมาตรา 57 และมาตรา 58 และ [ทะเบียนตามกฎหมาย](/th/company-secretary/statutory-registers) สำหรับชุดที่กว้างกว่า กรรมการที่เพิ่งได้รับแต่งตั้งควรได้รับการบรรยายสรุปเกี่ยวกับ [หน้าที่ของกรรมการ](/th/company-secretary/directors-duties) และได้รับ [หนังสือแจ้งการถือหุ้นตามมาตรา 219](/th/company-secretary/director-shareholding-notification) เพื่อกรอกให้ครบภายในสิบสี่วันแรกของเขา
+
+เพิ่งจดทะเบียนบริษัทใช่ไหม ดู[ปฏิทินการปฏิบัติตามข้อกำหนดปีแรกของ Sdn Bhd](/th/business/sdn-bhd-first-year-compliance/)

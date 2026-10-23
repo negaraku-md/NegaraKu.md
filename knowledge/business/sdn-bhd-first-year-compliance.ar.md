@@ -376,6 +376,25 @@ keywords:
 - **إصدار أسهم لشريك مؤسس جديد دون موافقة الأعضاء وإقرار تخصيص.** موافقة المادة 75 أولًا، وإيداع المادة 78 خلال 14 يومًا.
 - **حفظ الإيصالات في علبة أحذية والتسوية في نهاية السنة.** القيود مستحقة خلال 60 يومًا من المعاملة (المادة 245(2))، وتجعل المادة 539 الإخفاق جريمة بسقف احتجازي.
 
+## كل التزام بالتفصيل
+
+كل واجب قانوني في التقويم أعلاه، موضَّح بالكامل:
+
+- [كيفية تعيين أمين سر الشركة في ماليزيا](/ar/company-secretary/appoint-company-secretary/)
+- [من يمكنه أن يكون أميناً لشركة في ماليزيا](/ar/company-secretary/company-secretary-qualification/)
+- [واجبات المديرين بموجب قانون الشركات لسنة 2016 ومسؤوليتك الشخصية](/ar/company-secretary/directors-duties/)
+- [تعيين مدير في شركة ماليزية واستقالته](/ar/company-secretary/appoint-resign-director/)
+- [اجتماعات المجلس ومحاضرها](/ar/company-secretary/board-meetings-and-minutes/)
+- [متطلبات الجمعية العمومية السنوية في ماليزيا](/ar/company-secretary/agm-requirements/)
+- [المكتب المسجَّل](/ar/company-secretary/registered-office/)
+- [سجل الأعضاء](/ar/company-secretary/register-of-members/)
+- [سجل المديرين والمدراء وأمناء السر](/ar/company-secretary/register-of-directors/)
+- [الإبلاغ عن المالك المنتفِع في ماليزيا](/ar/company-secretary/beneficial-ownership/)
+- [الإقرار السنوي](/ar/company-secretary/annual-return/)
+- [تعميم القوائم المالية وإيداعها](/ar/company-secretary/financial-statements-lodgement/)
+- [تقرير المديرين والإقرار القانوني](/ar/company-secretary/directors-report/)
+- [توزيعات الأرباح واختبار الملاءة](/ar/company-secretary/dividends-and-solvency/)
+
 ## ما التالي
 
 ابنِ التقويم قبل أن تحتاج إليه. دوّن أربعة تواريخ: تاريخ تأسيسك، ونهاية سنتك المالية المختارة، وتاريخ 18 شهرًا بعد التأسيس، وتاريخ إقرارك السنوي الأول في السنة التقويمية التالية. وكل ما سوى ذلك في هذا المقال يتعلق بتلك الأربعة.

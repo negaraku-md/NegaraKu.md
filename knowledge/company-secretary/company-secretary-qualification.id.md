@@ -297,3 +297,5 @@ Jika Anda sedang menunjuk dan bukan sekadar memenuhi syarat, urutan langkah dan 
 sekretaris yang ada, kewajiban serah terima dan pemberitahuan s.58 lebih penting dibandingkan
 pemeriksaan kelayakan. Dan jika Anda adalah sekretaris yang ingin berhenti, s.237 menetapkan
 jangka 30 hari yang berjalan baik perusahaan itu kooperatif maupun tidak.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

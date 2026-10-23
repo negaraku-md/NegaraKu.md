@@ -509,6 +509,25 @@ penghitungan pajak. Siapkan anggaran untuk biaya berulang, bukan biaya sekali sa
   perlu dibuat dalam waktu 60 hari sejak transaksi (Pasal 245(2)), dan Pasal 539 menjadikan
   kegagalan itu satu tindak pidana dengan batas hukuman penjara.
 
+## Setiap kewajiban, secara mendetail
+
+Setiap kewajiban hukum dalam kalender di atas, dijelaskan selengkapnya:
+
+- [Cara Menunjuk Sekretaris Perusahaan di Malaysia](/id/company-secretary/appoint-company-secretary/)
+- [Siapa yang Boleh Menjadi Sekretaris Perusahaan di Malaysia](/id/company-secretary/company-secretary-qualification/)
+- [Tanggung Jawab Direktur Berdasarkan Companies Act 2016 dan Liabilitas Pribadi Anda](/id/company-secretary/directors-duties/)
+- [Menunjuk dan Mengundurkan Diri sebagai Direktur Perusahaan Malaysia](/id/company-secretary/appoint-resign-director/)
+- [Rapat Dewan Direksi dan Risalah](/id/company-secretary/board-meetings-and-minutes/)
+- [Persyaratan AGM di Malaysia](/id/company-secretary/agm-requirements/)
+- [Kantor Terdaftar](/id/company-secretary/registered-office/)
+- [Daftar Anggota](/id/company-secretary/register-of-members/)
+- [Daftar Direktur, Pengurus dan Sekretaris](/id/company-secretary/register-of-directors/)
+- [Pelaporan Kepemilikan Benefisial di Malaysia](/id/company-secretary/beneficial-ownership/)
+- [Laporan Tahunan](/id/company-secretary/annual-return/)
+- [Mengedarkan dan Menyampaikan Laporan Keuangan](/id/company-secretary/financial-statements-lodgement/)
+- [Laporan Direktur dan Deklarasi Statutori](/id/company-secretary/directors-report/)
+- [Dividen dan Uji Solvensi](/id/company-secretary/dividends-and-solvency/)
+
 ## Apa yang selanjutnya
 
 Bangun kalender sebelum Anda memerlukannya. Catat empat tanggal: tanggal pendirian

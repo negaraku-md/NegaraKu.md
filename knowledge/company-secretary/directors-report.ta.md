@@ -307,3 +307,5 @@ s.251 அல்லது s.252 எதுவும் ஒரு தேதிய�
 பத்தி 1(e) க்கு வழங்குகிறது, மேலும்
 [directors' fees approval](/ta/company-secretary/directors-fees-approval) பத்தி 2 க்கு
 வழங்குகிறது.
+
+புதிதாக பதிவு செய்தீர்களா? [உங்கள் Sdn Bhd-இன் முதல் ஆண்டு இணக்க நாட்காட்டியைப்](/ta/business/sdn-bhd-first-year-compliance/) பார்க்கவும்.

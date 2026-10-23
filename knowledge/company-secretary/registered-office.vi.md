@@ -226,3 +226,5 @@ s.46(2), s.47(1) và s.48(2) cùng một lúc. Rồi hãy xác nhận các hồ 
 đã lặng lẽ di chuyển, dùng
 [hướng dẫn lưu giữ sổ biên bản và hồ sơ](/vi/company-secretary/minute-books-and-records), và kiểm tra rằng bất
 kỳ địa chỉ ngoài cơ sở nào cũng được bao gồm bởi một thông báo s.47(2) đã nộp.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

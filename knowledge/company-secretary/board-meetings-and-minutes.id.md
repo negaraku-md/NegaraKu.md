@@ -308,3 +308,5 @@ Bagi jangka penyimpanan dan tempat catatan perlu disimpan, lihat `minute-books-a
 Bagi mekanisme yang sama pada sisi anggota, lihat `written-resolutions` dan
 `resolution-notice-periods`. Bagi pengungkapan kepentingan yang seharusnya dicatat dalam
 risalah Dewan Direksi, lihat `disclosure-of-interest`.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

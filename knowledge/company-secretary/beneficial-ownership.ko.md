@@ -456,3 +456,5 @@ Note 6/2019)를 통해 진행됩니다.
 하는 증거는
 [실질소유자가 응답하지 않을 때](/ko/company-secretary/bo-non-cooperation)에
 있습니다.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

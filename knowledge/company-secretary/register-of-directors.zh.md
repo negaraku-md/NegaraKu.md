@@ -216,3 +216,5 @@ SSM 的 FAQ Part E（2017 年 6 月 9 日更新）处理了董事没有独立营
 修不了另一个。然后把同一套检验套在
 [成员登记册](/zh/company-secretary/register-of-members)上，那里同样的分野呈现为
 s.50 对 s.51。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

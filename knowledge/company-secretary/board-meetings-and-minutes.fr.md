@@ -318,3 +318,5 @@ voir `minute-books-and-records`. Pour le versant des membres du même mécanisme
 voir `written-resolutions` et `resolution-notice-periods`. Pour les déclarations
 d'intérêt qui ont leur place dans les procès-verbaux du conseil, voir
 `disclosure-of-interest`.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

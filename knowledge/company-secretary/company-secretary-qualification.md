@@ -296,3 +296,5 @@ incorporation deadline sit in the appointment guide. If you are replacing an
 incumbent, the handover obligations and the s.58 notification matter more than
 the credentials check. And if you are the secretary and want out, s.237 sets a
 30-day clock that runs whether or not the company cooperates.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

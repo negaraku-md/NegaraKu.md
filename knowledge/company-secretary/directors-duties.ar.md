@@ -361,3 +361,5 @@ SSM، يبقى مع ذلك مُلزَماً بحسن النيّة بموجب ا�
 الخاصة. وبشأن الأموال المتدفّقة إلى المديرين، انظر
 [القروض للمديرين](/company-secretary/loans-to-directors)
 و[اعتماد أتعاب المديرين](/company-secretary/directors-fees-approval).
+
+هل أسّست شركتك للتو؟ اطّلع على [تقويم الامتثال للسنة الأولى لشركتك Sdn Bhd](/ar/business/sdn-bhd-first-year-compliance/).

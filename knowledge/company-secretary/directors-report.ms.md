@@ -311,3 +311,5 @@ Dua input kepada laporan mempunyai halaman sendiri:
 menyumbang kepada perenggan 1(e), dan
 [kelulusan fi pengarah](/company-secretary/directors-fees-approval) menyumbang
 kepada perenggan 2.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

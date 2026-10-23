@@ -307,3 +307,5 @@ Untuk jam pengedaran dan pengajuan yang menggantikan AGM, lihat
 `extension-of-time-ssm`. Untuk periode notis dalam satu tabel, lihat
 `resolution-notice-periods`. Bagi anggota yang menginginkan rapat yang enggan
 dipanggil oleh dewan direksi, lihat `egm-requisition`.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

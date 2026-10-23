@@ -238,3 +238,5 @@ s.68(3)(i)이 사원 명부를 연차 신고서와 함께 제출하도록 요구
 그다음에 제출하십시오. 그런 다음 동일한 이분 — 내부 등록부 대 외부 통지 — 이
 [이사 등록부](/ko/company-secretary/register-of-directors)에서 처리되었는지 확인하십시오.
 거기서는 의무가 s.57과 s.58에 자리하며 통지 벌칙이 다시금 더 높습니다.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

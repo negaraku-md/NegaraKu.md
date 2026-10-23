@@ -317,3 +317,5 @@ Bagi tempoh simpanan dan tempat rekod perlu disimpan, lihat `minute-books-and-re
 Bagi mekanisme yang sama pada pihak ahli, lihat `written-resolutions` dan
 `resolution-notice-periods`. Bagi pendedahan kepentingan yang sepatutnya direkodkan
 dalam minit Lembaga Pengarah, lihat `disclosure-of-interest`.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

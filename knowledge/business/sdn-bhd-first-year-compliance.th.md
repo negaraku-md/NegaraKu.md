@@ -454,6 +454,25 @@ SSM เผยแพร่
 - **เก็บใบเสร็จในกล่องรองเท้าและกระทบยอดตอนสิ้นปี** รายการครบกำหนดภายใน 60 วันนับจากธุรกรรม
   (s.245(2)) และ s.539 ทำให้การไม่ทำเป็นความผิดที่มีเพดานจำคุก
 
+## แต่ละภาระหน้าที่โดยละเอียด
+
+ทุกหน้าที่ตามกฎหมายในปฏิทินข้างต้น อธิบายอย่างละเอียด:
+
+- [วิธีแต่งตั้งเลขานุการบริษัทในมาเลเซีย](/th/company-secretary/appoint-company-secretary/)
+- [ใครเป็นเลขานุการบริษัทในมาเลเซียได้บ้าง](/th/company-secretary/company-secretary-qualification/)
+- [หน้าที่ของกรรมการภายใต้ Companies Act 2016 และความรับผิดส่วนตัวของคุณ](/th/company-secretary/directors-duties/)
+- [การแต่งตั้งและการลาออกของกรรมการบริษัทมาเลเซีย](/th/company-secretary/appoint-resign-director/)
+- [การประชุมคณะกรรมการและรายงานการประชุม](/th/company-secretary/board-meetings-and-minutes/)
+- [ข้อกำหนดการประชุมสามัญประจำปี (AGM) ในมาเลเซีย](/th/company-secretary/agm-requirements/)
+- [สำนักงานจดทะเบียน](/th/company-secretary/registered-office/)
+- [ทะเบียนสมาชิก](/th/company-secretary/register-of-members/)
+- [ทะเบียนกรรมการ ผู้จัดการ และเลขานุการ](/th/company-secretary/register-of-directors/)
+- [การรายงานเจ้าของผู้รับผลประโยชน์ในมาเลเซีย](/th/company-secretary/beneficial-ownership/)
+- [แบบแสดงรายการประจำปี (Annual Return)](/th/company-secretary/annual-return/)
+- [การเวียนและการยื่นงบการเงิน](/th/company-secretary/financial-statements-lodgement/)
+- [รายงานของกรรมการและคำแถลงตามกฎหมาย](/th/company-secretary/directors-report/)
+- [เงินปันผลและการทดสอบความสามารถชำระหนี้](/th/company-secretary/dividends-and-solvency/)
+
 ## อ่านต่อ
 
 สร้างปฏิทินก่อนที่คุณจะต้องการ เขียนสี่วันที่: วันที่จดทะเบียนจัดตั้งของคุณ วันสิ้นปีการเงินที่คุณเลือก วันที่

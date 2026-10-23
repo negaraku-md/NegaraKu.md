@@ -278,3 +278,5 @@ keywords: ["board meeting Malaysia", "Third Schedule Companies Act 2016", "direc
 동일한 절차의 구성원 측면은 `written-resolutions`와 `resolution-notice-periods`를
 참조하십시오. 이사회 의사록에 속하는 이해관계 공개는 `disclosure-of-interest`를
 참조하십시오.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

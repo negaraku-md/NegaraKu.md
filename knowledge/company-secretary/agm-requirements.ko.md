@@ -272,3 +272,5 @@ s.340(6)은 s.340(1), (2) 또는 (3)을 위반한 회사와 모든 임원을 유
 기한연장은 `extension-of-time-ssm`을 참조하십시오. 통지기간을 하나의 표로 보려면
 `resolution-notice-periods`를 참조하십시오. 이사회가 소집하지 않는 회의를 원하는
 사원에 대해서는 `egm-requisition`을 참조하십시오.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

@@ -322,3 +322,5 @@ Untuk pemulangan modal dan bukannya untung, serta ujian yang lebih ketat yang
 mengawal seliakannya, lihat `capital-reduction`. Untuk rangka kerja kewajipan di
 sebalik keputusan itu, lihat `directors-duties`. Untuk layanan cukai terhadap apa
 yang diterima pemegang saham, lihat `corporate-tax-rates`.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

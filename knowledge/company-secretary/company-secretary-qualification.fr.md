@@ -213,3 +213,5 @@ Presque aucun guide malaisien ne mentionne l'existence des CSID. Pour un adminis
 ## Et ensuite
 
 Si vous nommez plutôt que vous ne qualifiez, le séquencement et le délai de 30 jours à compter de la constitution se trouvent dans le guide de nomination. Si vous remplacez un titulaire, les obligations de passation et la notification de la s.58 importent plus que la vérification des qualifications. Et si vous êtes le secrétaire et que vous souhaitez partir, la s.237 fixe un délai de 30 jours qui court, que l'entreprise coopère ou non.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

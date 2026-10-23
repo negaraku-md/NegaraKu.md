@@ -321,3 +321,5 @@ Practice Directive No. 9/2024 (Revised) ยังคงเป็น directive �
 เริ่มจากปัญหาการระบุตัวก่อนหน้าจอการยื่น: ทำงานผ่านหกเกณฑ์เทียบกับห่วงโซ่ความเป็นเจ้าของจริงของคุณใน [ใครเป็นเจ้าของผู้รับผลประโยชน์](/th/company-secretary/who-is-a-beneficial-owner) จากนั้นตั้งค่าสองกำหนดเวลาให้ถูกต้องโดยใช้ [การเก็บทะเบียน BO](/th/company-secretary/bo-register) และ [การยื่นข้อมูล BO ผ่าน e-BOS](/th/company-secretary/ebos-filing)
 
 หากผู้ถือหุ้นไม่ตอบ อย่าปล่อยให้แฟ้มลอยไป — เส้นทางการยกระดับและหลักฐานที่คุณต้องเก็บอยู่ใน [เมื่อเจ้าของผู้รับผลประโยชน์ไม่ตอบสนอง](/th/company-secretary/bo-non-cooperation)
+
+เพิ่งจดทะเบียนบริษัทใช่ไหม ดู[ปฏิทินการปฏิบัติตามข้อกำหนดปีแรกของ Sdn Bhd](/th/business/sdn-bhd-first-year-compliance/)

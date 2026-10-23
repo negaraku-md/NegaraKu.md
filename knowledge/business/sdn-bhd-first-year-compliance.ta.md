@@ -542,6 +542,25 @@ SSM இன் தற்போதைய அட்டவணைக்கு எத�
   பரிவர்த்தனையின் 60 நாட்களுக்குள் செய்யப்பட வேண்டும் (s.245(2)); s.539 தவறை
   சிறைத்தண்டனை உச்சவரம்பு கொண்ட குற்றமாக்குகிறது.
 
+## ஒவ்வொரு கடமையும், விரிவாக
+
+மேலே உள்ள நாட்காட்டியில் உள்ள ஒவ்வொரு சட்டக் கடமையும், முழுமையாக விளக்கப்பட்டுள்ளது:
+
+- [மலேசியாவில் நிறுவனச் செயலாளரை எவ்வாறு நியமிப்பது](/ta/company-secretary/appoint-company-secretary/)
+- [மலேசியாவில் யார் நிறுவனச் செயலாளராக இருக்க முடியும்](/ta/company-secretary/company-secretary-qualification/)
+- [Companies Act 2016-இன் கீழ் இயக்குநர்களின் கடமைகள் மற்றும் உங்கள் தனிப்பட்ட பொறுப்பு](/ta/company-secretary/directors-duties/)
+- [மலேசிய கம்பெனியின் இயக்குநரை நியமித்தல் மற்றும் பதவி விலகுதல்](/ta/company-secretary/appoint-resign-director/)
+- [இயக்குநர் குழுக் கூட்டங்களும் கூட்ட நடவடிக்கைக் குறிப்புகளும்](/ta/company-secretary/board-meetings-and-minutes/)
+- [மலேசியாவில் AGM தேவைகள்](/ta/company-secretary/agm-requirements/)
+- [பதிவு அலுவலகம்](/ta/company-secretary/registered-office/)
+- [உறுப்பினர்கள் பதிவேடு](/ta/company-secretary/register-of-members/)
+- [இயக்குநர்கள், மேலாளர்கள் மற்றும் செயலாளர்கள் பதிவேடு](/ta/company-secretary/register-of-directors/)
+- [மலேசியாவில் பயனாளி உரிமை அறிக்கையிடல்](/ta/company-secretary/beneficial-ownership/)
+- [வருடாந்திர அறிக்கை (Annual Return)](/ta/company-secretary/annual-return/)
+- [நிதி அறிக்கைகளை விநியோகித்தலும் தாக்கல் செய்தலும்](/ta/company-secretary/financial-statements-lodgement/)
+- [இயக்குநர்களின் அறிக்கை மற்றும் சட்டப்பூர்வ பிரகடனம்](/ta/company-secretary/directors-report/)
+- [ஈவுத்தொகைகளும் கடன்தீர்க்கும் திறன் சோதனையும்](/ta/company-secretary/dividends-and-solvency/)
+
 ## அடுத்தது என்ன
 
 உங்களுக்குத் தேவைப்படுவதற்கு முன்பே நாட்காட்டியைக் கட்டமைக்கவும். நான்கு தேதிகளை

@@ -291,3 +291,5 @@ s.213(1) के कर्तव्य बैठक बुलाने के न
 उसी तंत्र के सदस्यों वाले पक्ष के लिए, देखें `written-resolutions` और
 `resolution-notice-periods`। निदेशक मंडल के कार्यवृत्तों में शामिल होने वाले हित-प्रकटनों
 के लिए, देखें `disclosure-of-interest`।
+
+अभी-अभी कंपनी बनाई है? देखें [अपने Sdn Bhd के पहले साल का अनुपालन कैलेंडर](/hi/business/sdn-bhd-first-year-compliance/)।

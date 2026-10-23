@@ -276,3 +276,5 @@ begitu sahaja oleh jadual audit, kerana tarikh itulah yang menentukan
 segala-galanya seterusnya. Kemudian letakkan kedua-dua tarikh — edaran dan
 pemfailan — pada kalendar yang sama dengan penyata tahunan anda, yang
 berjalan mengikut pencetus yang sama sekali berbeza.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

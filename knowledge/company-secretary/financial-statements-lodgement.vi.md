@@ -241,3 +241,5 @@ Cơ chế đầy đủ nằm trong
 Hãy ấn định ngày lưu hành của bạn một cách có chủ ý chứ không phải để nó rơi ra từ thời gian biểu kiểm
 toán, vì nó là ngày đặt mọi thứ ở hạ nguồn. Rồi đặt cả hai ngày — lưu hành và nộp — trên cùng một lịch
 với tờ khai thường niên của bạn, vốn chạy trên một yếu tố kích hoạt hoàn toàn khác.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

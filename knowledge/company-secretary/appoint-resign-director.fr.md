@@ -340,3 +340,5 @@ plus large. Un administrateur nouvellement nommé devrait être informé des
 [devoirs des administrateurs](/fr/company-secretary/directors-duties) et recevoir
 une [notification de participation de l'art. 219](/fr/company-secretary/director-shareholding-notification)
 à compléter au cours de ses quatorze premiers jours.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

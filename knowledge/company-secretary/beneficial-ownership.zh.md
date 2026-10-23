@@ -402,3 +402,5 @@ PD 9/2024。
 
 如果股东不回应，别让档案搁置——升级路径以及你须保存的证据载于
 [当受益所有人不回应时](/zh/company-secretary/bo-non-cooperation)。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

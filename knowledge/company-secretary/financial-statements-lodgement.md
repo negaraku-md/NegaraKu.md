@@ -257,3 +257,5 @@ Fix your circulation date deliberately rather than letting it fall out of the
 audit timetable, because it is the date that sets everything downstream. Then
 put both dates — circulation and lodgement — on the same calendar as your annual
 return, which runs on a completely different trigger.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

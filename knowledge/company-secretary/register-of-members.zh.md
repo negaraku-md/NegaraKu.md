@@ -224,3 +224,5 @@ SSM 在其 2024 年 12 月 31 日的 FAQ 更新中直接处理了这一点。由
 内部登记册对外部通报——在
 [董事登记册](/zh/company-secretary/register-of-directors)上有没有处理好；在那里，
 义务落在 s.57 与 s.58，而通报的罚则还要更高。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

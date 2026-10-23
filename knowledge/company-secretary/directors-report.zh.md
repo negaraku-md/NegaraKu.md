@@ -253,3 +253,5 @@ s.255(3) 允许作出适用于某一类别的命令。而 **s.254** 则把形式
 报告的两项输入各有专页：
 [董事持股通报](/zh/company-secretary/director-shareholding-notification)支撑第 1(e)
 段，而[董事袍金批准](/zh/company-secretary/directors-fees-approval)支撑第 2 段。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

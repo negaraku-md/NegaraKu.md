@@ -432,3 +432,5 @@ meliputi larangan resolusi bertulis yang menangkap kebanyakan syarikat
 persendirian. Mengenai wang yang mengalir kepada pengarah, lihat
 [pinjaman kepada pengarah](/ms/company-secretary/loans-to-directors)
 dan [kelulusan yuran pengarah](/ms/company-secretary/directors-fees-approval).
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

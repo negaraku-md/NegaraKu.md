@@ -484,6 +484,25 @@ SSMのROC手数料表によれば、私会社の年次報告書の提出手数�
   に行わなければならず（s.245(2)）、s.539は、それを怠ることを禁錮刑の上限を伴う犯罪と
   している。
 
+## 各義務の詳細
+
+上記カレンダーの各法定義務を詳しく解説:
+
+- [マレーシアで会社秘書役を選任する方法](/ja/company-secretary/appoint-company-secretary/)
+- [マレーシアで会社秘書役になれるのは誰か](/ja/company-secretary/company-secretary-qualification/)
+- [2016年会社法における取締役の義務とあなたの個人責任](/ja/company-secretary/directors-duties/)
+- [マレーシア会社の取締役の選任と辞任](/ja/company-secretary/appoint-resign-director/)
+- [取締役会と議事録：Third Schedule があなたの既定の規則集](/ja/company-secretary/board-meetings-and-minutes/)
+- [マレーシアの年次株主総会（AGM）開催義務：今も開催しなければならないのは誰か](/ja/company-secretary/agm-requirements/)
+- [登録事務所：規定、変更、公衆アクセス義務](/ja/company-secretary/registered-office/)
+- [社員登録簿：二つの義務、二つの独立した時計](/ja/company-secretary/register-of-members/)
+- [取締役、マネージャー及び秘書役登録簿：s.57 対 s.58](/ja/company-secretary/register-of-directors/)
+- [マレーシアにおける実質的所有権報告](/ja/company-secretary/beneficial-ownership/)
+- [年次報告書（annual return）とは何か、いつ提出するか](/ja/company-secretary/annual-return/)
+- [財務諸表の回付と提出：二つの期限](/ja/company-secretary/financial-statements-lodgement/)
+- [取締役報告書と法定宣誓書：s.251からs.253まで](/ja/company-secretary/directors-report/)
+- [配当と支払能力テスト：Sdn Bhdが実際に支払えるのはいつか](/ja/company-secretary/dividends-and-solvency/)
+
 ## 次にすべきこと
 
 必要になる前にカレンダーを組み立てておくこと。四つの日付を書き出されたい。会社設立日、

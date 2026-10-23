@@ -321,3 +321,5 @@ Dalam Negeri) Public Ruling 9/2019 எடுத்துக்காட்டு
 காண்க. அதே இயந்திரத்தின் உறுப்பினர் பக்கத்திற்கு, `written-resolutions` மற்றும்
 `resolution-notice-periods` காண்க. இயக்குநர் குழுக் குறிப்புகளில் இருக்க வேண்டிய வட்டி
 வெளிப்படுத்தல்களுக்கு, `disclosure-of-interest` காண்க.
+
+புதிதாக பதிவு செய்தீர்களா? [உங்கள் Sdn Bhd-இன் முதல் ஆண்டு இணக்க நாட்காட்டியைப்](/ta/business/sdn-bhd-first-year-compliance/) பார்க்கவும்.

@@ -277,3 +277,5 @@ Hai đầu vào cho báo cáo có các trang riêng của chúng:
 cung cấp dữ liệu cho đoạn 1(e), và
 [phê duyệt thù lao của các giám đốc](/vi/company-secretary/directors-fees-approval) cung cấp dữ liệu
 cho đoạn 2.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

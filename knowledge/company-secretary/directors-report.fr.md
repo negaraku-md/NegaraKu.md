@@ -211,3 +211,5 @@ Les deux dispositions de dispense méritent d'être connues. **La Section 255** 
 Une fois le rapport approuvé et signé, les horloges de circulation et de dépôt prennent le relais — voir [dépôt des états financiers](/en/company-secretary/financial-statements-lodgement) pour la séquence des s.258 et s.259, et [états financiers non audités](/en/company-secretary/unaudited-financial-statements) lorsque la société revendique la dispense d'audit.
 
 Deux apports au rapport ont leurs propres pages : [notification des participations de l'administrateur](/en/company-secretary/director-shareholding-notification) alimente l'alinéa 1(e), et [approbation des honoraires des administrateurs](/en/company-secretary/directors-fees-approval) alimente l'alinéa 2.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

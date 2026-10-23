@@ -255,3 +255,5 @@ notification en souffrance de la s.58 — une action ne répare pas l'autre. Pui
 appliquez le même test au
 [registre des membres](/en/company-secretary/register-of-members), où la même division
 apparaît sous la forme de la s.50 contre la s.51.
+
+Vous venez de créer votre société ? Voyez [le calendrier de conformité de la première année de votre Sdn Bhd](/fr/business/sdn-bhd-first-year-compliance/).

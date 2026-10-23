@@ -248,3 +248,5 @@ keywords: ["directors duties Malaysia", "section 213 Companies Act 2016", "direc
 ทำงานผ่านหน้าที่เฉพาะตามลำดับที่เลขานุการบริษัทพบ ส่วนได้เสียในสัญญาเป็นหน้าที่ที่ล้มบ่อยที่สุดในทางปฏิบัติ และความล้มเหลวมักเป็นรายงานการประชุมที่ขาดหาย — ดู [การเปิดเผยส่วนได้เสีย](/th/company-secretary/disclosure-of-interest) หน้าที่การแจ้งการถือหุ้นส่วนตัวเดินบนกำหนด 14 วันที่กรรมการส่วนใหญ่ไม่เคยได้ยิน ครอบคลุมใน [การแจ้งการถือหุ้นของกรรมการ](/th/company-secretary/director-shareholding-notification)
 
 สำหรับการเปลี่ยนแปลงคณะกรรมการ [การแต่งตั้งและการลาออกของกรรมการ](/th/company-secretary/appoint-resign-director) กำหนดกฎการยินยอม จำนวนขั้นต่ำ และการพ้นจากตำแหน่ง และ [การถอดถอนกรรมการ](/th/company-secretary/remove-a-director) ครอบคลุมข้อห้ามมติเป็นหนังสือที่จับบริษัทเอกชนส่วนใหญ่ เรื่องเงินที่ไหลไปยังกรรมการ ดู [เงินกู้แก่กรรมการ](/th/company-secretary/loans-to-directors) และ [การอนุมัติค่าตอบแทนกรรมการ](/th/company-secretary/directors-fees-approval)
+
+เพิ่งจดทะเบียนบริษัทใช่ไหม ดู[ปฏิทินการปฏิบัติตามข้อกำหนดปีแรกของ Sdn Bhd](/th/business/sdn-bhd-first-year-compliance/)

@@ -256,3 +256,5 @@ s.132(2) 那份「信纳」唯一的证据。把十二个月的评估以及它�
 至于返还资本而非盈利，以及管着它的那套更严格的测试，见 `capital-reduction`。至于这个
 决定背后的义务框架，见 `directors-duties`。至于股东所收取款项的税务处理，见
 `corporate-tax-rates`。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

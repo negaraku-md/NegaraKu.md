@@ -256,3 +256,5 @@ fix the register first and lodge the correction second. Then check whether the s
 split — internal register versus external notification — has been handled on the
 [register of directors](/en/company-secretary/register-of-directors), where the
 duties sit at s.57 and s.58 and the notification penalty is higher again.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

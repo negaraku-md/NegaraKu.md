@@ -517,6 +517,25 @@ calcul de l'impôt. Budgétez pour le coût récurrent, non pour le coût ponctu
   d'exercice.** Les écritures sont dues dans les 60 jours de la transaction (s.245(2)), et la
   s.539 fait du défaut une infraction assortie d'un plafond de peine privative de liberté.
 
+## Chaque obligation, en détail
+
+Chaque obligation légale du calendrier ci-dessus, expliquée en détail :
+
+- [Comment nommer un secrétaire de société en Malaisie](/fr/company-secretary/appoint-company-secretary/)
+- [Qui peut être secrétaire d'entreprise en Malaisie](/fr/company-secretary/company-secretary-qualification/)
+- [Les devoirs des administrateurs au titre de la loi de 2016 sur les sociétés et votre responsabilité personnelle](/fr/company-secretary/directors-duties/)
+- [Nomination et démission d'un administrateur d'une société malaisienne](/fr/company-secretary/appoint-resign-director/)
+- [Réunions du conseil et procès-verbaux](/fr/company-secretary/board-meetings-and-minutes/)
+- [Exigences relatives à l'assemblée générale annuelle en Malaisie](/fr/company-secretary/agm-requirements/)
+- [Siège social](/fr/company-secretary/registered-office/)
+- [Registre des membres](/fr/company-secretary/register-of-members/)
+- [Registre des administrateurs, gérants et secrétaires](/fr/company-secretary/register-of-directors/)
+- [Déclaration des bénéficiaires effectifs en Malaisie](/fr/company-secretary/beneficial-ownership/)
+- [Déclaration annuelle](/fr/company-secretary/annual-return/)
+- [Circulation et dépôt des états financiers](/fr/company-secretary/financial-statements-lodgement/)
+- [Le rapport des administrateurs et la déclaration solennelle](/fr/company-secretary/directors-report/)
+- [Dividendes et test de solvabilité](/fr/company-secretary/dividends-and-solvency/)
+
 ## Et ensuite
 
 Montez le calendrier avant d'en avoir besoin. Notez quatre dates : votre date de

@@ -494,3 +494,5 @@ kemudian siapkan dua hitungan itu dengan benar menggunakan
 Jika seorang pemegang saham tidak menjawab, jangan biarkan berkas itu hanyut —
 jalur eskalasi dan bukti yang perlu Anda simpan terdapat dalam
 [apabila pemilik benefisial tidak membalas](/id/company-secretary/bo-non-cooperation).
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

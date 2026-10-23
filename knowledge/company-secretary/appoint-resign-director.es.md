@@ -335,3 +335,5 @@ conjunto más amplio. Un director recién nombrado debe recibir información sob
 los [deberes de los directores](/en/company-secretary/directors-duties) y una
 [notificación de participación accionarial del art. 219](/en/company-secretary/director-shareholding-notification)
 para completarla dentro de sus primeros catorce días.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

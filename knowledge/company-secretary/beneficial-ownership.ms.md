@@ -488,3 +488,5 @@ kemudian sediakan dua jam itu dengan betul menggunakan
 Jika seorang pemegang saham tidak menjawab, jangan biarkan fail itu hanyut —
 laluan peningkatan dan bukti yang perlu anda simpan terdapat dalam
 [apabila pemilik benefisial tidak membalas](/ms/company-secretary/bo-non-cooperation).
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

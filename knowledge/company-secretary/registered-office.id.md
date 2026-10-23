@@ -260,3 +260,5 @@ benar-benar disimpan di situ dan mana yang telah diam-diam berpindah,
 menggunakan [panduan penyimpanan buku notulen dan catatan](/id/company-secretary/minute-books-and-records),
 dan periksa bahwa setiap alamat luar premis dilindungi oleh pemberitahuan Pasal 47(2)
 yang telah disampaikan.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

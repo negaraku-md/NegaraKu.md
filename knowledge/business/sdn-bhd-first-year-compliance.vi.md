@@ -505,6 +505,25 @@ Hãy lập ngân sách cho chi phí định kỳ, không phải cho lần một-
   trong vòng 60 ngày kể từ giao dịch (s.245(2)), và s.539 khiến việc không làm là một hành vi phạm tội
   với một mức trần giam giữ.
 
+## Từng nghĩa vụ, chi tiết
+
+Mọi nghĩa vụ pháp lý trong lịch trên, giải thích đầy đủ:
+
+- [Cách bổ nhiệm một thư ký công ty ở Malaysia](/vi/company-secretary/appoint-company-secretary/)
+- [Ai có thể là một thư ký công ty ở Malaysia](/vi/company-secretary/company-secretary-qualification/)
+- [Nghĩa vụ của các giám đốc theo Companies Act 2016 và trách nhiệm cá nhân của bạn](/vi/company-secretary/directors-duties/)
+- [Bổ nhiệm và từ chức một giám đốc của một công ty Malaysia](/vi/company-secretary/appoint-resign-director/)
+- [Các cuộc họp hội đồng và biên bản](/vi/company-secretary/board-meetings-and-minutes/)
+- [Yêu cầu về AGM ở Malaysia](/vi/company-secretary/agm-requirements/)
+- [Văn phòng đăng ký](/vi/company-secretary/registered-office/)
+- [Sổ đăng ký các thành viên](/vi/company-secretary/register-of-members/)
+- [Sổ đăng ký các giám đốc, quản lý và thư ký](/vi/company-secretary/register-of-directors/)
+- [Báo cáo chủ sở hữu hưởng lợi ở Malaysia](/vi/company-secretary/beneficial-ownership/)
+- [Tờ khai thường niên](/vi/company-secretary/annual-return/)
+- [Lưu hành và nộp báo cáo tài chính](/vi/company-secretary/financial-statements-lodgement/)
+- [Báo cáo của các giám đốc và bản khai theo luật định](/vi/company-secretary/directors-report/)
+- [Cổ tức và kiểm tra khả năng thanh toán](/vi/company-secretary/dividends-and-solvency/)
+
 ## Tiếp theo
 
 Hãy xây dựng cuốn lịch trước khi bạn cần nó. Viết ra bốn ngày: ngày thành lập của bạn,

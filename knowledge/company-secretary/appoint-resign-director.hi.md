@@ -221,3 +221,5 @@ keywords: ["appoint director Malaysia", "resign as director Sdn Bhd", "section 1
 
 परिवर्तन द्वारा उत्पन्न दाखिलों के लिए, धारा 57 और धारा 58 के विभाजन हेतु [निदेशकों का रजिस्टर](/en/company-secretary/register-of-directors) देखें, और व्यापक सेट के लिए [वैधानिक रजिस्टर](/en/company-secretary/statutory-registers) देखें। एक नव-नियुक्त निदेशक को [निदेशकों के कर्तव्यों](/en/company-secretary/directors-duties) पर संक्षिप्त जानकारी दी जानी चाहिए और उसे अपने पहले चौदह दिनों के भीतर पूरा करने के लिए एक [धारा 219 शेयरधारिता सूचना](/en/company-secretary/director-shareholding-notification) दी जानी चाहिए।
 </content>
+
+अभी-अभी कंपनी बनाई है? देखें [अपने Sdn Bhd के पहले साल का अनुपालन कैलेंडर](/hi/business/sdn-bhd-first-year-compliance/)।

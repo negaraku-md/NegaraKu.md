@@ -253,3 +253,5 @@ en su contra. Si está sustituyendo a un titular, el inventario de traspaso y la
 presentaciones paralelas se exponen en la guía para cambiar de secretario de la
 sociedad, y la propia vía de salida del secretario saliente se cubre en la
 renuncia del secretario.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

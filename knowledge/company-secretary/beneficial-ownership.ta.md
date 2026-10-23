@@ -505,3 +505,5 @@ Beneficial Ownership) Regulations 2025 அதற்குப் பதிலா�
 அதிகரிப்புப் பாதையும் நீங்கள் வைத்திருக்க வேண்டிய சான்றும்
 [பயனாளி உரிமையாளர் பதிலளிக்காத போது](/ta/company-secretary/bo-non-cooperation)
 இல் உள்ளன.
+
+புதிதாக பதிவு செய்தீர்களா? [உங்கள் Sdn Bhd-இன் முதல் ஆண்டு இணக்க நாட்காட்டியைப்](/ta/business/sdn-bhd-first-year-compliance/) பார்க்கவும்.

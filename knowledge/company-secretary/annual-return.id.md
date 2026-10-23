@@ -244,3 +244,5 @@ beserta denda statutori yang mendasarinya. Dan jika perusahaan itu benar-benar
 sudah berhenti beroperasi, pertimbangkan apakah penghapusan pendaftaran atau
 likuidasi adalah jawaban yang lebih tepat dibandingkan terus menyampaikan
 laporan tanpa batas bagi sebuah entitas yang tidak ada lagi yang menggunakannya.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

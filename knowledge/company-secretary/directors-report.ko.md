@@ -266,3 +266,5 @@ s.251도 s.252도 날짜를 담고 있지 않습니다. 기한은 다음과 같�
 제1(e)항에 반영되고,
 [이사의 보수 승인](/ko/company-secretary/directors-fees-approval)은 제2항에
 반영됩니다.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

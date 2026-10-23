@@ -471,6 +471,25 @@ SSM에 제출됩니다.
 - **영수증을 신발 상자에 보관하고 연말에 대사하는 것.** 기입은 거래 후 60일 이내에 해야
   하며(제245조 제2항), 제539조는 위반을 구금 상한이 있는 위법 행위로 만듭니다.
 
+## 각 의무 자세히 보기
+
+위 일정의 모든 법정 의무를 자세히 설명합니다:
+
+- [말레이시아에서 회사 비서를 선임하는 방법](/ko/company-secretary/appoint-company-secretary/)
+- [말레이시아에서 회사 비서가 될 수 있는 사람](/ko/company-secretary/company-secretary-qualification/)
+- [회사법(Companies Act 2016)에 따른 이사의 의무와 개인적 책임](/ko/company-secretary/directors-duties/)
+- [말레이시아 회사 이사의 선임과 사임](/ko/company-secretary/appoint-resign-director/)
+- [이사회 회의와 의사록](/ko/company-secretary/board-meetings-and-minutes/)
+- [말레이시아의 연례총회(AGM) 요건](/ko/company-secretary/agm-requirements/)
+- [등록 사무소](/ko/company-secretary/registered-office/)
+- [사원 등록부](/ko/company-secretary/register-of-members/)
+- [이사·관리자·비서 등록부](/ko/company-secretary/register-of-directors/)
+- [말레이시아의 실질소유자 보고](/ko/company-secretary/beneficial-ownership/)
+- [연차신고서(annual return)](/ko/company-secretary/annual-return/)
+- [재무제표의 회람과 제출](/ko/company-secretary/financial-statements-lodgement/)
+- [이사 보고서와 법정 선언서](/ko/company-secretary/directors-report/)
+- [배당과 지급능력 판정](/ko/company-secretary/dividends-and-solvency/)
+
 ## 다음 단계
 
 필요해지기 전에 달력을 구축하십시오. 네 개의 날짜를 적어 두십시오: 여러분의 법인 설립일,

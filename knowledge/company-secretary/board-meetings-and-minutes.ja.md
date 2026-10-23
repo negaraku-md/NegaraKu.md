@@ -204,3 +204,5 @@ Paragraphs 26及び27は准取締役（associate director）を対象として�
 あなたの会社に定款がない場合、Third Scheduleを印刷して取締役会憲章として扱うか、あなたが実際に望むことを定めた定款を採択されたい——とりわけ通知期間、定足数、そして海外の取締役が通知を受けるかどうかについて。
 
 保存期間及び記録を保管しなければならない場所については、`minute-books-and-records`を参照されたい。同じ仕組みの社員側については、`written-resolutions`及び`resolution-notice-periods`を参照されたい。取締役会議事録に記載すべき利害関係の開示については、`disclosure-of-interest`を参照されたい。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

@@ -260,3 +260,5 @@ benar-benar disimpan di situ dan mana yang telah senyap-senyap berpindah,
 menggunakan [panduan penyimpanan buku minit dan rekod](/company-secretary/minute-books-and-records),
 dan semak bahawa mana-mana alamat luar premis dilindungi oleh notis s.47(2)
 yang telah difailkan.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

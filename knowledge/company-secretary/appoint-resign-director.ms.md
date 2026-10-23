@@ -347,3 +347,5 @@ untuk set yang lebih luas. Seorang pengarah yang baru dilantik perlu
 ditaklimatkan tentang [kewajipan pengarah](/company-secretary/directors-duties)
 dan diberikan [notis pemegangan saham s.219](/company-secretary/director-shareholding-notification)
 untuk dilengkapkan dalam tempoh empat belas hari pertamanya.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

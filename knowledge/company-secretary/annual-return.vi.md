@@ -226,3 +226,5 @@ các khoảng hiện hành và các khoản tiền phạt theo luật định đ
 công ty đã thực sự ngừng kinh doanh, hãy cân nhắc xem việc xóa tên hay thanh lý có
 phải là câu trả lời đúng hay không thay vì nộp các tờ khai vô thời hạn cho một thực
 thể không ai dùng.
+
+Vừa thành lập công ty? Xem [lịch tuân thủ năm đầu tiên của Sdn Bhd](/vi/business/sdn-bhd-first-year-compliance/).

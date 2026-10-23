@@ -249,3 +249,5 @@ Schedule，不论房间里有没有人读过它。
 关于保存期限与记录必须存放何处，见 `minute-books-and-records`。同一套机制在成员那一边的
 情况，见 `written-resolutions` 与 `resolution-notice-periods`。关于应记入董事部会议记录的
 利益披露，见 `disclosure-of-interest`。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

@@ -398,3 +398,5 @@ menetapkan aturan izin, jumlah minimum, dan pengosongan jabatan, dan
 resolusi tertulis yang menjaring kebanyakan perusahaan swasta. Mengenai uang yang mengalir
 kepada direktur, lihat [pinjaman kepada direktur](/id/company-secretary/loans-to-directors)
 dan [persetujuan honorarium direktur](/id/company-secretary/directors-fees-approval).
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

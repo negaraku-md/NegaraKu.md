@@ -376,6 +376,25 @@ EPF 供款按月缴纳。请在首次发薪之前而非之后完成雇主注册�
 - **在未取得成员批准和未提交配发申报的情况下向新联合创办人发行股份。** 先取得第 75 条批准，再在 14 天内依第 78 条提交申报。
 - **把收据塞进鞋盒、到年底才对账。** 分录须在交易后 60 天内做出（第 245(2) 条），而第 539 条使违规成为一项设有监禁上限的罪行。
 
+## 逐项合规义务详解
+
+上述时间表中的每一项法定义务，详细说明：
+
+- [在马来西亚如何委任公司秘书](/zh/company-secretary/appoint-company-secretary/)
+- [在马来西亚谁可以担任公司秘书](/zh/company-secretary/company-secretary-qualification/)
+- [《2016年公司法令》下的董事职责与您的个人法律责任](/zh/company-secretary/directors-duties/)
+- [马来西亚公司董事的委任与辞职](/zh/company-secretary/appoint-resign-director/)
+- [董事部会议与会议记录：Third Schedule 就是你的默认规则手册](/zh/company-secretary/board-meetings-and-minutes/)
+- [马来西亚的常年股东大会要求：谁还必须召开](/zh/company-secretary/agm-requirements/)
+- [注册办事处：规定、变更与向公众开放的义务](/zh/company-secretary/registered-office/)
+- [成员登记册：两项义务，两条各自独立的时钟](/zh/company-secretary/register-of-members/)
+- [董事、经理与秘书登记册：s.57 与 s.58 之别](/zh/company-secretary/register-of-directors/)
+- [马来西亚受益所有权申报](/zh/company-secretary/beneficial-ownership/)
+- [常年申报表：它是什么，何时提交](/zh/company-secretary/annual-return/)
+- [传阅与提交财务报表：两个期限](/zh/company-secretary/financial-statements-lodgement/)
+- [董事报告与法定声明：s.251 至 s.253](/zh/company-secretary/directors-report/)
+- [股息与偿债能力测试：Sdn Bhd 到底什么时候才付得起](/zh/company-secretary/dividends-and-solvency/)
+
 ## 接下来做什么
 
 在你需要之前就把日历建好。写下四个日期：你的注册日期、你选定的财政年度结算日、注册后 18 个月那一天，以及在下一个日历年里你的首份年度申报表日期。本文中的其余一切都挂靠在这四个日期上。

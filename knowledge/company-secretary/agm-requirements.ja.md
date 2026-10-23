@@ -272,3 +272,5 @@ AGMに代わった配布・提出の時計については`financial-statements-l
 ついては`extension-of-time-ssm`を参照。通知期間を一覧表にまとめたものは
 `resolution-notice-periods`を参照。取締役会が招集しない会議を望む社員については
 `egm-requisition`を参照。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

@@ -226,3 +226,5 @@ the late lodgement fee schedule gives the current bands and the statutory fines
 that sit behind them. And if the company has genuinely stopped trading, consider
 whether striking off or winding up is the right answer rather than filing
 returns indefinitely for an entity nobody uses.
+
+Just incorporated? See [your Sdn Bhd’s first-year compliance calendar](/en/business/sdn-bhd-first-year-compliance/).

@@ -315,3 +315,5 @@ véase `minute-books-and-records`. Para la vertiente de los miembros del mismo
 mecanismo, véanse `written-resolutions` y `resolution-notice-periods`. Para las
 revelaciones de interés que corresponden a las actas del consejo, véase
 `disclosure-of-interest`.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

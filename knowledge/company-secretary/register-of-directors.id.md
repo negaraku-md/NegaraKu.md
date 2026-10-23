@@ -263,3 +263,5 @@ tidak cocok, perbaiki daftar itu dan sampaikan pemberitahuan Pasal 58 yang tertu
 secara terpisah — satu tindakan tidak memperbaiki yang lain. Kemudian terapkan
 uji yang sama atas [daftar anggota](/id/company-secretary/register-of-members), di
 mana pembagian yang sama muncul sebagai Pasal 50 lawan Pasal 51.
+
+Baru mendirikan perusahaan? Lihat [kalender kepatuhan tahun pertama Sdn Bhd Anda](/id/business/sdn-bhd-first-year-compliance/).

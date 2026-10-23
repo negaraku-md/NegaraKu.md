@@ -267,3 +267,5 @@ Luego compruebe si la misma división —registro interno frente a notificación
 externa— se ha gestionado en el
 [registro de directores](/en/company-secretary/register-of-directors), donde las
 obligaciones figuran en s.57 y s.58 y la sanción por notificación es aún mayor.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

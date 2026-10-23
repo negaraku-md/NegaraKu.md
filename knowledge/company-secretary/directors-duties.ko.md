@@ -368,3 +368,5 @@ s.288이 그것을 무효로 만듭니다. 많은 정관이 설립 시 범용 �
 서면 결의 금지를 다룹니다. 이사에게 흘러가는 돈에 대해서는
 [이사에 대한 대여](/ko/company-secretary/loans-to-directors)와
 [이사의 보수 승인](/ko/company-secretary/directors-fees-approval)을 참조하십시오.
+
+막 설립하셨나요? [Sdn Bhd 설립 첫해 규정 준수 일정](/ko/business/sdn-bhd-first-year-compliance/)을 확인해 보세요.

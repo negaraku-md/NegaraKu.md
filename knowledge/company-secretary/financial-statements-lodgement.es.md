@@ -270,3 +270,5 @@ calendario de auditoría, porque es la fecha que determina todo lo que viene
 después. Luego ponga ambas fechas — circulación y presentación — en el mismo
 calendario que su declaración anual, que corre sobre un detonante completamente
 distinto.
+
+¿Acabas de constituir tu empresa? Consulta [el calendario de cumplimiento del primer año de tu Sdn Bhd](/es/business/sdn-bhd-first-year-compliance/).

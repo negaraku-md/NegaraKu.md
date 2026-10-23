@@ -248,3 +248,5 @@ SSMの記録が必要な場合、利用可能な製品は、会社プロファ�
 対外的通報——が[取締役登録簿](/ja/company-secretary/register-of-directors)につ
 いても処理されているかを確認する。そこでは義務がs.57とs.58に定められており、通
 報の罰則はさらに高い。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

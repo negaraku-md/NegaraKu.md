@@ -234,3 +234,5 @@ s.57の登録簿と並べて、常年申告書の前に行ごとに照合する�
 直るわけではない。それから、同じ検証を
 [社員登録簿](/ja/company-secretary/register-of-members)にも適用されたい。そこでは同じ
 分岐が、s.50とs.51として現れる。
+
+設立したばかりですか？[Sdn Bhd設立初年度のコンプライアンス・カレンダー](/ja/business/sdn-bhd-first-year-compliance/)をご覧ください。

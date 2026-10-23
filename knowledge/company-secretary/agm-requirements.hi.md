@@ -281,3 +281,5 @@ AGM का स्थान लेने वाली परिचालन ए�
 `financial-statements-lodgement`। विस्तार के लिए, देखें `extension-of-time-ssm`। एक ही
 तालिका में नोटिस अवधियों के लिए, देखें `resolution-notice-periods`। उन सदस्यों के लिए जो
 ऐसी बैठक चाहते हैं जिसे बोर्ड आहूत नहीं करेगा, देखें `egm-requisition`।
+
+अभी-अभी कंपनी बनाई है? देखें [अपने Sdn Bhd के पहले साल का अनुपालन कैलेंडर](/hi/business/sdn-bhd-first-year-compliance/)।

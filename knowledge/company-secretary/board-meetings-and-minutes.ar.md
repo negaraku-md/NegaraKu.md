@@ -273,3 +273,5 @@ keywords: ["اجتماع المجلس ماليزيا", "board meeting Malaysia",
 ولمدد الحفظ ومكان حفظ السجلّات، انظر `minute-books-and-records`. ولجانب الأعضاء من
 الآليّة نفسها، انظر `written-resolutions` و`resolution-notice-periods`. ولإفصاحات
 المصلحة التي تنتمي إلى محاضر المجلس، انظر `disclosure-of-interest`.
+
+هل أسّست شركتك للتو؟ اطّلع على [تقويم الامتثال للسنة الأولى لشركتك Sdn Bhd](/ar/business/sdn-bhd-first-year-compliance/).

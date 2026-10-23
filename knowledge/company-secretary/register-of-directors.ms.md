@@ -263,3 +263,5 @@ tidak sepadan, betulkan daftar itu dan failkan pemberitahuan s.58 yang tertungga
 secara berasingan — satu tindakan tidak membetulkan yang lain. Kemudian gunakan
 ujian yang sama ke atas [daftar ahli](/company-secretary/register-of-members), di
 mana pembahagian yang sama muncul sebagai s.50 berbanding s.51.
+
+Baru diperbadankan? Lihat [kalendar pematuhan tahun pertama Sdn Bhd anda](/business/sdn-bhd-first-year-compliance/).

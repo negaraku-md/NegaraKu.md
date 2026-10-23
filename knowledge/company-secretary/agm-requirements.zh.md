@@ -247,3 +247,5 @@ s.340(6) 订明，违反 s.340(1)、(2) 或 (3) 的公司及每一名高级职�
 关于取代 AGM 的传阅与提交时钟，见 `financial-statements-lodgement`。关于展期，见
 `extension-of-time-ssm`。想把通知期一表看尽，见 `resolution-notice-periods`。成员想开会
 而董事部不肯召集时，见 `egm-requisition`。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

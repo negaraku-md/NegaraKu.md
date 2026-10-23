@@ -219,3 +219,5 @@ s.68(3)(d) 与 (e) 则要求在成员登记册与财务记录并非存放于注�
 [会议记录簿与记录保存指南](/zh/company-secretary/minute-books-and-records)
 确认哪些记录实际存放在那里、哪些已经悄悄搬走，并检查任何场外地址是否已由一份
 已提交的 s.47(2) 通知涵盖。
+
+刚注册公司？查看[您的私人有限公司第一年合规时间表](/zh/business/sdn-bhd-first-year-compliance/)。

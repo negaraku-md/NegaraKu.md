@@ -519,6 +519,25 @@ el cálculo del impuesto. Presupuesta para el costo recurrente, no para el puntu
   Los asientos vencen dentro de los 60 días de la transacción (s.245(2)), y la s.539
   convierte el incumplimiento en un delito con un techo de prisión.
 
+## Cada obligación, en detalle
+
+Cada deber legal del calendario anterior, explicado en detalle:
+
+- [Cómo nombrar a un secretario de la sociedad en Malasia](/es/company-secretary/appoint-company-secretary/)
+- [Quién puede ser secretario de empresa en Malasia](/es/company-secretary/company-secretary-qualification/)
+- [Los deberes de los directores conforme a la Ley de Sociedades de 2016 y su responsabilidad personal](/es/company-secretary/directors-duties/)
+- [Nombramiento y renuncia de un director de una sociedad malasia](/es/company-secretary/appoint-resign-director/)
+- [Reuniones del consejo y actas](/es/company-secretary/board-meetings-and-minutes/)
+- [Requisitos de la junta general anual en Malasia](/es/company-secretary/agm-requirements/)
+- [Domicilio social](/es/company-secretary/registered-office/)
+- [Registro de miembros](/es/company-secretary/register-of-members/)
+- [Registro de directores, gerentes y secretarios](/es/company-secretary/register-of-directors/)
+- [Reporte de titularidad real en Malasia](/es/company-secretary/beneficial-ownership/)
+- [Declaración anual](/es/company-secretary/annual-return/)
+- [Circulación y presentación de los estados financieros](/es/company-secretary/financial-statements-lodgement/)
+- [El informe de los directores y la declaración legal](/es/company-secretary/directors-report/)
+- [Dividendos y la prueba de solvencia](/es/company-secretary/dividends-and-solvency/)
+
 ## Qué sigue
 
 Arma el calendario antes de necesitarlo. Anota cuatro fechas: tu fecha de

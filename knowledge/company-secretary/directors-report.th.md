@@ -211,3 +211,5 @@ Part I ย่อหน้า 1 ของตารางที่ห้าคื�
 เมื่อรายงานได้รับอนุมัติและลงนามแล้ว กำหนดเวลาการเวียนและการยื่นเข้ามาแทน — ดู [การยื่นงบการเงิน](/th/company-secretary/financial-statements-lodgement) สำหรับลำดับมาตรา 258 และมาตรา 259 และ [งบการเงินที่ไม่ผ่านการตรวจสอบ](/th/company-secretary/unaudited-financial-statements) เมื่อบริษัทอ้างการยกเว้นการตรวจสอบ
 
 ข้อมูลนำเข้าสองอย่างสำหรับรายงานมีหน้าของตัวเอง: [การแจ้งการถือหุ้นของกรรมการ](/th/company-secretary/director-shareholding-notification) ป้อนให้ย่อหน้า 1(e) และ [การอนุมัติค่าตอบแทนกรรมการ](/th/company-secretary/directors-fees-approval) ป้อนให้ย่อหน้า 2
+
+เพิ่งจดทะเบียนบริษัทใช่ไหม ดู[ปฏิทินการปฏิบัติตามข้อกำหนดปีแรกของ Sdn Bhd](/th/business/sdn-bhd-first-year-compliance/)
