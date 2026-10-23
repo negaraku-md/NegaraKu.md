@@ -170,3 +170,5 @@ L'admissibilité à un programme est une chose ; obtenir un financement en est u
 - Préparez les documents de base à l'avance : MyKad, trois mois de fiches de paie, relevés bancaires et relevés de l'EPF.
 - Si vos revenus sont irréguliers, vérifiez votre admissibilité au SJKP avant de faire une demande pour connaître le montant de financement susceptible d'être approuvé.
 - Confirmez les chiffres les plus récents directement sur les portails officiels — les plafonds de prix et les limites de revenu sont révisés de temps à autre, et les chiffres de ce guide sont indicatifs, non une offre définitive.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

@@ -119,3 +119,5 @@ No. A un alumno **no se le puede impedir**:
 ## Qué sigue
 
 Si la escuela de tu hijo impone un pago declarado como «obligatorio», pide a la escuela que explique su fundamento y si se trata de una aportación voluntaria o de un paquete de pago adicional acordado. Guarda un recibo de cada pago. Las quejas sobre cobros forzosos pueden presentarse ante el Departamento Estatal de Educación o la Oficina de Educación del Distrito. Para más contexto, consulta la guía sobre cómo matricular a tu hijo en una escuela pública y la visión general del sistema educativo de Malasia.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

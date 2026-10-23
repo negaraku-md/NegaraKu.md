@@ -170,3 +170,5 @@ Against those pressures, the strategic logic is unchanged from the one that made
 ## What's next
 
 If you are researching this sector, the most authoritative live numbers are the **DOSM Monthly Rubber Statistics** releases, which update production, exports, stocks and destinations every month. For the institutional side, the Malaysian Rubber Board publishes licensing and regulatory guidance, while MARGMA tracks the glove trade specifically. Watch three variables in particular: the natural-rubber price (which decides whether smallholders keep tapping), the nitrile-versus-latex mix in gloves, and US-China trade measures — the swing factor most likely to move Malaysian glove exports in either direction.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

@@ -167,3 +167,5 @@ For the city-level version of this question, see
 [Why Kuala Lumpur Is Malaysia's Most Expensive Place to Live](/en/cost-of-living/cost-of-living-kuala-lumpur).
 For how the underlying inflation figure is actually built, see
 [Malaysia's Inflation Rate and What the CPI Actually Measures](/en/economy/inflation-cpi).
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

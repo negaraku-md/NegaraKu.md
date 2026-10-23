@@ -119,3 +119,5 @@ Một thu nhập hộ gia đình trung vị RM7,017 trông gần gấp hai lần
 - Về chi tiết pháp lý đằng sau mức sàn RM1,700 — phạm vi, khấu trừ, thời hạn thanh toán: [Lương tối thiểu và các quy tắc về việc trả lương](/vi/employment/minimum-wage-malaysia)
 - Về thị trường lao động mà các mức lương này nằm trong đó: [Tỷ lệ thất nghiệp của Malaysia và lực lượng lao động đằng sau nó](/vi/economy/unemployment-labour-force)
 - Nguồn sơ cấp: [cổng Minimum Wages Order 2024](https://gajiminimum.mohr.gov.my/) và [Báo cáo Khảo sát Thu nhập Hộ gia đình 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) cùng [Báo cáo Khảo sát Lương và Tiền công 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024) của DOSM.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

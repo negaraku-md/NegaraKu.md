@@ -226,3 +226,5 @@ Living (கண்ணியமான வாழ்வுக்கான அடி�
   [Cost of Living Indicators 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024),
   மேலும் KPDN இன்
   [Controlled Items / PPHSSL பக்கம்](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items).
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவின் வாழ்க்கைச் செலவு, அதிகாரப்பூர்வ எண்களின்படி](/ta/cost-of-living/cost-of-living-overview/).

@@ -115,3 +115,5 @@ Setakat Januari 2025, Kementerian Kesihatan menerima 18,802 permohonan, dengan 1
 ## What's next
 
 Jika anda seorang pengamal, semak sama ada bidang anda tergolong dalam tujuh bidang diiktiraf, kemudian mohon pendaftaran melalui Majlis PT&K, Bahagian Perubatan Tradisional dan Komplementari, Kementerian Kesihatan Malaysia. Jika anda seorang pengguna, minta melihat sijil pendaftaran pengamal sebelum menerima rawatan — ia kini menjadi tanda pengamal yang sah di sisi undang-undang.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

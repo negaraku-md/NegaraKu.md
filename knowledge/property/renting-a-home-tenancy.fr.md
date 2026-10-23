@@ -169,3 +169,5 @@ Les deux voies existent précisément parce qu'il n'y a pas de raccourci légal 
 ## Et ensuite
 
 Une fois le contrat de bail signé et timbré, les étapes pratiques suivantes consistent généralement à ouvrir les comptes de services au nom du locataire et à comprendre les éventuels frais à l'échelle de l'immeuble qui accompagnent le loyer. Voyez [ouvrir un compte d'électricité auprès de TNB](/fr/property/electricity-tnb-account) pour savoir comment fonctionnent la procédure de changement de locataire (Change of Tenancy) et son propre dépôt, et [vivre en condominium et frais d'entretien](/fr/property/condo-living-maintenance-fees) si le logement se situe dans une propriété en copropriété dotée de sa propre société de gestion. Si vous n'avez pas encore trouvé le logement ou vérifié à qui vous avez affaire, [trouver une location en Malaisie](/fr/property/finding-a-rental) couvre les portails et la vérification de l'enregistrement REN qui devraient avoir lieu avant qu'un quelconque dépôt ne change de mains.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

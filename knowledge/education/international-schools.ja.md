@@ -179,3 +179,5 @@ keywords:
 ## 次に読むべき記事
 
 そもそも家族でマレーシアに移り住む際の入国管理面——外国人従業員の子どもがどのように帯同者として保証されるかを含む——については、[受養者パスまたは長期社会訪問パス](/ja/settling-in/dependant-social-visit-passes)を参照のこと。マレーシアの公立学校も比較対象に入れている場合は、[公立学校への入学](/ja/education/enrolling-in-a-government-school)を参照のこと。学校の背後にある会社がそもそもどのように登録されるかについては、[SSM——マレーシア企業委員会](/ja/government/ssm)を参照のこと。そして、いま高額な学費に上乗せされている税については、[2025年7月1日のサービス税拡大：業種別解説](/ja/taxation/sst-expansion-2025)を参照のこと。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの教育制度](/ja/education/malaysian-education-system/)。

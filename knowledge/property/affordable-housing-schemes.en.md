@@ -170,3 +170,5 @@ Scheme eligibility is one thing; securing financing is another. For the self-emp
 - Prepare the basic documents early: MyKad, three months of payslips, bank statements and EPF statements.
 - If your income is irregular, check your SJKP eligibility before applying so you know the financing amount that may be approved.
 - Confirm the latest figures directly on the official portals — price ceilings and income limits are reviewed from time to time, and the figures in this guide are indicative, not a final offer.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

@@ -144,3 +144,5 @@ C'est là le véritable sens de l'objectif de contenu local dans l'intégration 
 ## Et ensuite
 
 Le récit à court terme est arithmétique. Le chiffre d'affaires évolue au plus près de la trajectoire de 2030, et l'objectif de main-d'œuvre est déjà atteint, de sorte que la question honnête n'est plus de savoir si la Malaisie peut faire croître le secteur, mais si elle peut en changer le *caractère* — passer de l'entretien et de l'usinage d'avions à leur conception et à leur intégration. Surveillez trois choses : si la part de contenu local dans l'intégration de systèmes monte réellement vers 70%, si la part de MRO passe de 4% à 5% d'un marché mondial lui-même en expansion, et si le déficit commercial se resserre à mesure que la capacité de conception locale se renforce. Si ces trois éléments bougent ensemble, les RM55 milliards seront un plancher plutôt qu'une ligne d'arrivée.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

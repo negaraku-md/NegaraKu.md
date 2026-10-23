@@ -133,3 +133,5 @@ keywords: ["homeschooling Malaysia", "Education Act 1996", "Section 29A", "Secti
 以书面形式保存，并留意**宪报（Warta Kerajaan）**上最终使第32A条中学
 教育义务生效的通知，因为那将改变对年纪较大孩子而言，「符合规定」意味
 着什么。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

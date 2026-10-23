@@ -252,6 +252,27 @@ NETR สร้างขึ้นบน **คานงัดการเปลี
 - **"Suruhanjaya Tenaga กำกับดูแลทั้งประเทศ"** ขอบเขตการกำกับดูแลของ ST คือคาบสมุทรมาเลเซียและลาบวน ซาบาห์และซาราวักมีการจัดการของตนเอง
 - **"เป้าหมายพลังงานหมุนเวียน 70% หมายถึง 70% ของพลังงานทั้งหมดของประเทศ"** เป้าหมาย NETR นั้นหมายถึงกำลังการผลิตพลังงานหมุนเวียนในสัดส่วนพลังงาน (การผลิตไฟฟ้า) ไม่ใช่ระบบพลังงานทั้งหมดรวมถึงการขนส่งและอุตสาหกรรม
 
+## สำรวจหัวข้อนี้เชิงลึก
+
+คู่มือสำคัญในด้านนี้:
+
+- [การปฏิรูปอุตสาหกรรมการจ่ายไฟฟ้า](/th/energy/electricity-supply-industry-reform-mesi/)
+- [โครงสร้างอัตราค่าไฟฟ้าทำงานอย่างไรในมาเลเซีย](/th/energy/electricity-tariff-structure/)
+- [Suruhanjaya Tenaga](/th/energy/energy-commission-suruhanjaya-tenaga/)
+- [พระราชบัญญัติประสิทธิภาพพลังงานและการอนุรักษ์พลังงาน](/th/energy/energy-efficiency-conservation-act/)
+- [มาเลเซียกำหนดราคาเชื้อเพลิงรายสัปดาห์อย่างไร](/th/energy/fuel-pricing-mechanism/)
+- [ระบบเงินอุดหนุนเชื้อเพลิงของมาเลเซีย](/th/energy/fuel-subsidy-system/)
+- [ไฮโดรเจนและการดักจับคาร์บอน (CCUS) ในมาเลเซีย](/th/energy/hydrogen-ccus-malaysia/)
+- [ไฟฟ้าพลังน้ำในมาเลเซีย](/th/energy/hydropower-malaysia/)
+- [แผนที่นำทางการเปลี่ยนผ่านพลังงานแห่งชาติ (NETR)](/th/energy/national-energy-transition-roadmap-netr/)
+- [ก๊าซธรรมชาติและ LNG ในมาเลเซีย](/th/energy/natural-gas-lng-malaysia/)
+- [พระราชบัญญัติการพัฒนาปิโตรเลียม ปี 1974](/th/energy/petroleum-development-act-1974/)
+- [พลังงานหมุนเวียนในมาเลเซีย](/th/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/th/energy/sarawak-energy-berhad/)
+- [Petros และข้อพิพาทก๊าซซาราวัก](/th/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaysia](/th/energy/seda-malaysia/)
+- [พลังงานแสงอาทิตย์ในมาเลเซีย](/th/energy/solar-energy-malaysia/)
+
 ## อ่านต่อ
 
 หากท่านเป็นผู้บริโภค ขั้นตอนที่ปฏิบัติได้มากที่สุดคือการเข้าใจบิลค่าไฟฟ้า RP4 ใหม่ของท่าน (สี่องค์ประกอบ) และตรวจสอบคุณสมบัติเงินอุดหนุน BUDI95 ของท่าน หากท่านเป็นเจ้าของบ้านที่สนใจประหยัดบิล โปรดสำรวจโครงการ NEM ของ SEDA สำหรับโซลาร์บนหลังคา

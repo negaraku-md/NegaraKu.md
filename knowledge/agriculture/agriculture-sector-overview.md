@@ -245,6 +245,27 @@ Apabila anda menemui satu berita atau angka pertanian, tiga soalan ini biasanya 
 
 **"Angka pertanian itu tetap."** Kebanyakan angka di sini (hasil, harga, pengeluaran, SSR) disemak setiap tahun dan bergerak dengan cuaca, harga global dan kitaran tanam semula. Rujuk siaran terkini DOSM, MPOB dan kementerian untuk data semasa.
 
+## Terokai topik ini dengan lebih mendalam
+
+Panduan utama dalam bidang ini:
+
+- [Subsidi Pertanian dan Bantuan Input Ladang untuk Pesawah](/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS dan Monopoli Import Beras Malaysia](/agriculture/bernas-rice-import-monopoly/)
+- [Jabatan Perikanan Malaysia (DOF)](/agriculture/department-of-fisheries-malaysia/)
+- [Perdagangan Eksport Durian dan Buah-buahan Tropika Malaysia](/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA dan RISDA](/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/agriculture/fgv-holdings-plantation-restructuring/)
+- [Dasar Keterjaminan Makanan Malaysia dan Sasaran Tahap Sara Diri](/agriculture/food-security-self-sufficiency-policy/)
+- [Industri Ternakan dan Ayam Itik Malaysia](/agriculture/livestock-poultry-industry/)
+- [Industri Perikanan Malaysia](/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/agriculture/mardi-agricultural-research-institute/)
+- [Kementerian Pertanian dan Keterjaminan Makanan (KPKM) dan Agensinya](/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [Pekebun Kecil Kelapa Sawit dan Pensijilan Kelestarian MSPO](/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [Padi dan Beras di Malaysia](/agriculture/padi-and-rice-industry/)
+- [Industri Padi dan Beras Malaysia](/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## Langkah seterusnya
 
 - Selami komoditi eksport terbesar dalam [gambaran sektor minyak sawit Malaysia](/ms/economy/palm-oil-sector) — skala, institusi dan pensijilan kelestariannya.

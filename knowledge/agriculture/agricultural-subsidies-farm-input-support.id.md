@@ -169,3 +169,5 @@ Tarif dan struktur skema ini ditinjau ulang pada setiap anggaran tahunan. Insent
 Sebagai sebuah kebijakan publik, skema subsidi padi juga bukan tanpa perdebatan. Isu seperti kebocoran bantuan, efisiensi distribusi, dan ketergantungan berkelanjutan petani padi pada subsidi kerap diangkat dalam pembahasan kebijakan sektor beras negara. Dokumen ini menekankan struktur dan tarif skema, bukan penilaian efektivitas atau dampak distribusinya.
 
 Untuk langkah selanjutnya, periksa pengumuman musim tanam terkini di laman KPKM dan organisasi petani setempat, konfirmasikan status pendaftaran sawah Anda, dan bandingkan tarif musim berjalan dengan angka yang dinyatakan di sini — dokumen ini adalah draf bantuan AI dan bukan pengganti informasi resmi lembaga.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

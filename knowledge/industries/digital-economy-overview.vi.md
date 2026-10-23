@@ -214,3 +214,5 @@ Nếu bạn là một công ty công nghệ hoặc được dẫn dắt bởi s�
 Hướng đi rõ ràng: Malaysia muốn kinh tế số tiếp tục leo về phía và vượt mốc bản kế hoạch 25.5% trên đường đến một nền kinh tế thu nhập cao được dẫn dắt bởi công nghệ vào năm 2030, với hóa đơn điện tử, dòng du mục số vào và số hóa MSME làm các đòn bẩy ngắn hạn. Về các con số cập nhật nhất, hãy kiểm tra bản công bố *Malaysia Digital Economy* hằng năm của DOSM, vốn là nguồn có thẩm quyền cho các con số tỷ trọng GDP và thương mại điện tử được trích dẫn ở đây.
 
 Nếu bạn là một công ty, bước tiếp theo thực tế là xác nhận liệu hoạt động của bạn có ánh xạ tới một trong chín lĩnh vực MD được thúc đẩy hay không, rồi quyết định liệu bạn cần chỉ MD Status hay MD Tax Incentive riêng biệt — và sắp xếp thứ tự đơn nộp của bạn trước khi bạn bắt đầu xuất hóa đơn cho hoạt động đủ điều kiện. Các hướng dẫn liên quan của NegaraKu.md về MDEC, bản kế hoạch MyDIGITAL và khu vực thương mại điện tử của Malaysia đi sâu hơn về từng lớp của chồng này.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

@@ -189,3 +189,5 @@ keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "
 ## 下一步
 
 如果你正在使用这一体系，实际路径很简单：到 *klinik kesihatan* 登记接受初级保健，随后由转诊带你逐级上转至医院医疗；如果你年满 40 岁并领取现金援助，可查询 PeKa B40 资格。就改革走向而言，**马来西亚卫生白皮书**于 2023 年 6 月由国会提呈并通过，确立了**15 年的改革期（2023–2038）**，分为三个五年阶段，由一个独立的改革机构监督。值得关注的举措之一是 **Rakan KKM**，一项「高级经济舱」计划，在选定的卫生部医院——包括赛城医院（Hospital Cyberjaya）、布城医院（Hospital Putrajaya）、苏丹伊德里斯沙峇葛医院（Hospital Sultan Idris Shah Serdang）以及国家癌症研究院（IKN）——提供付费的择期门诊、日间护理与住院服务，定价低于私营费率，并自 2025 年起陆续推行。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

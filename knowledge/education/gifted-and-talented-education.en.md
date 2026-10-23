@@ -135,3 +135,5 @@ Both share the same principle: uniform education does not suit all students, and
 If you are a parent or teacher who suspects a child may have gifted and talented potential, the first step is to watch for the UKM1 Test registration dates announced through the official website of the Pusat PERMATA@Pintar Negara, UKM. Also check the schedules for the PPCS and HSEP enrichment programmes if your child is in the 9–16 age range.
 
 For a complete picture of learning-support pathways in Malaysia, also read the companion article on special needs education and the structure of the national school system. Test details, dates and programme streams can change from year to year — always confirm the latest information directly from UKM's official website before making decisions.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

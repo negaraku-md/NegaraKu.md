@@ -240,3 +240,5 @@ Gunakan ini untuk memahami bagaimana pelan ini menyentuh anda.
 NIMP 2030 akan dinilai berdasarkan angka 2030nya — RM587.5 bilion nilai ditambah pembuatan, 3.3 juta pekerjaan, dan gaji median pembuatan sebanyak RM4,510 — dan berdasarkan sama ada jentera berasaskan misi itu terus bertukar menjadi projek sebenar. Perkara yang paling berguna untuk diperhatikan ialah laporan kemajuan tahunan daripada MITI, penggunaan NIDF dan Dana Pelaburan Bersama Strategik, pelaksanaan sembilan Projek Berasaskan Misi, dan bagaimana pelan ini bersilang dengan dasar bersebelahan mengenai semikonduktor, peralihan tenaga dan ekonomi digital.
 
 Jika anda ingin mendalaminya, dokumen utama terdapat di portal rasmi NIMP 2030 dan laman MITI, termasuk pelan penuh, pelan sektoral, dan FAQ. Bagi mana-mana angka yang kukuh, artikel ini hanya memetik sumber yang disahkannya secara langsung — sentiasa sahkan angka terkini terhadap portal rasmi, kerana data kemajuan dikemas kini apabila pelan bergerak menerusi dekad ini.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

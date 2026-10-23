@@ -176,3 +176,5 @@ insurans swasta hingga pelancongan perubatan — layari kategori
 [Kesihatan](/healthcare). Untuk membuat temujanji sebenar, akses perkhidmatan
 rasmi melalui
 [portal MyGovernment](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan).
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

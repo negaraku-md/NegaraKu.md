@@ -159,3 +159,5 @@ RM7,017 की मध्यिका घरेलू आय RM2,793 के म�
   [घरेलू आय सर्वेक्षण रिपोर्ट 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   तथा
   [वेतन एवं मज़दूरी सर्वेक्षण रिपोर्ट 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024)।
+
+पूरी गाइड देखें: [मलेशिया में रहन-सहन की लागत, आधिकारिक आँकड़ों के अनुसार](/hi/cost-of-living/cost-of-living-overview/)।

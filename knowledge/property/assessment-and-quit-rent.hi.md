@@ -136,3 +136,5 @@ keywords: ["संपत्ति मूल्यांकन कर", "cukai pi
 - [मलेशिया की तीन-स्तरीय सरकार](/government/three-tiers-of-government) — संघीय, राज्य और स्थानीय शक्तियाँ किस प्रकार भिन्न हैं
 - [संघ-राज्य शक्ति-विभाजन](/government/federal-state-division) — भूमि राज्य की शक्तियों के अंतर्गत क्यों आती है
 - [राज्य विधान सभा (DUN)](/government/state-assemblies-dun) — वह निकाय जो राज्य के भूमि कानून पारित करता है
+
+पूरी गाइड देखें: [मलेशिया में घर खरीदना](/hi/property/buying-a-home-process/)।

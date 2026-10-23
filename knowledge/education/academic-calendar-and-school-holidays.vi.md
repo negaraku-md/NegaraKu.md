@@ -124,3 +124,5 @@ Sabah và Sarawak nằm trong **Nhóm B**, nên họ theo cùng sự dịch ngà
 - Bảo đảm bạn xem đúng cột **nhóm** (A hoặc B) cho bang của con bạn; sai cột nghĩa là sai một ngày.
 - Khớp các ngày nghỉ học kỳ với **các ngày nghỉ lễ công của bang** bạn, vì các lễ hội Hồi giáo và các kỳ nghỉ Sabah/Sarawak có thể thêm hoặc dịch ngày.
 - Để có bối cảnh rộng hơn, hãy tham khảo trang ngày nghỉ lễ công Malaysia và cấu trúc hệ thống trường học Malaysia.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

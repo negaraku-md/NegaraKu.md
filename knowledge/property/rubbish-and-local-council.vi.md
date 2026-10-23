@@ -135,3 +135,5 @@ Tỷ lệ tái chế quốc gia — tỷ lệ chất thải rắn được tái 
 ## Tiếp theo
 
 Nếu bạn vừa chuyển đến và chưa chắc ai xử lý việc thu gom rác ở khu vực thuê của bạn, câu hỏi đó liên quan chặt chẽ đến quá trình [tìm nhà thuê ở Malaysia](/vi/property/finding-a-rental) — chủ nhà hoặc môi giới thường có thể xác nhận lịch thu gom và liệu khu vực đó có chịu Luật 672 hay không. Để hiểu vị trí của hội đồng địa phương trong cấu trúc chính quyền Malaysia nói chung — bao gồm vì sao ủy viên hội đồng được bổ nhiệm chứ không phải được bầu — hãy xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government).
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

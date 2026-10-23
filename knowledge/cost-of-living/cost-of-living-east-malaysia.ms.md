@@ -217,3 +217,5 @@ ia dibandingkan dengan gaji individu, lihat
   [Cost of Living Indicators 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024),
   serta KPDN,
   [Controlled Items / PPHSSL page](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items).
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

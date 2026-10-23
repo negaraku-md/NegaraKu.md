@@ -119,3 +119,5 @@ semata-mata karena orang tua tidak mampu atau tidak bersedia membayar sumbangan 
 ## Apa selanjutnya
 
 Jika sekolah anak Anda mengenakan pembayaran yang dinyatakan "wajib", mintalah pihak sekolah menjelaskan dasarnya dan apakah itu sumbangan sukarela atau paket pembayaran tambahan yang disetujui. Simpan kuitansi setiap pembayaran. Pengaduan mengenai pungutan yang dipaksakan dapat disampaikan kepada Dinas Pendidikan Negeri atau Kantor Pendidikan Daerah. Untuk konteks lebih lanjut, rujuk panduan mendaftarkan anak ke sekolah negeri dan gambaran keseluruhan sistem pendidikan Malaysia.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

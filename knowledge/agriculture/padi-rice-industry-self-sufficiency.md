@@ -155,3 +155,5 @@ Ini menjadikan matematik keselamatan makanan sensitif. Jika berlaku krisis beras
 - **Ikuti perkembangan SMART SBB**: sama ada keluasan menghampiri sasaran 150,000 hektar dan sama ada hasil di lokasi perintis kekal tinggi apabila diperluas.
 - **Perhatikan Belanjawan tahunan** untuk sebarang perubahan pada harga lantai padi, kadar Subsidi Harga Padi, dan jumlah peruntukan subsidi agromakanan.
 - **Baca dokumen rasmi** Dasar Agromakanan Negara 2021-2030 (DAN 2.0) di laman KPKM untuk memahami sasaran pengeluaran, pendapatan pesawah dan pelan tindakan penuh.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

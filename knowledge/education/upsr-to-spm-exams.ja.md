@@ -137,3 +137,5 @@ UPSR／PT3を全面的に復活させることなく透明性への懸念に応�
 ## 次に読むべきこと
 
 SPMの後、就学の道がどこへ続くのかを理解するには、`/education/public-vs-private-universities` でIPTAとIPTSの入学の違いについて読んでほしい。お子さんが国際生である場合、あるいはマレーシアに移り住んだばかりのご家庭であれば、`/education/international-students-studying-in-malaysia` で非国民に対する現地の学校制度の仕組みが説明されている。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの教育制度](/ja/education/malaysian-education-system/)。

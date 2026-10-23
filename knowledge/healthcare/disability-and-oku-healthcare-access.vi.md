@@ -167,3 +167,5 @@ Quy mô hỗ trợ này rất lớn. Năm 2024, DOSM báo cáo 262.618 OKU nhậ
 - **Kiểm tra điều kiện trợ cấp.** So sánh điều kiện của EPOKU (đang làm việc) và BTB (không thể làm việc) — bạn chỉ có thể nhận một trong hai.
 
 Mức trợ cấp và điều kiện thụ hưởng có thể thay đổi theo phân bổ ngân sách hằng năm. Hãy xác nhận các con số mới nhất với JKM (đường dây 03-8000 8000) hoặc cổng chính thức eBantuan JKM trước khi nộp hồ sơ.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

@@ -184,3 +184,5 @@ keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats"
 உருவாக்கப்படுகிறது என்பதற்கு,
 [மலேசியாவின் பணவீக்க விகிதமும் CPI உண்மையில் எதை அளவிடுகிறது என்பதும்](/ta/economy/inflation-cpi)
 என்பதைப் பார்க்கவும்.
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவின் வாழ்க்கைச் செலவு, அதிகாரப்பூர்வ எண்களின்படி](/ta/cost-of-living/cost-of-living-overview/).

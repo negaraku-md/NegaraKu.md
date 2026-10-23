@@ -190,6 +190,29 @@ E&E의 지배력이 체득해야 할 이야기입니다. 이는 말레이시아�
 - **성장이 곧 회복력이라고 가정하는 것.** 말레이시아의 무역흑자 연속 기록은 놀랍지만, 경제의 E&E 집중은 그것을 변동성 큰 글로벌 전자 경기 순환에 단단히 묶기도 합니다. 강점과 노출은 같은 동전의 양면입니다.
 - **GDP 비중과 성장률을 혼동하는 것.** 건설은 2024년 17.5% 성장했지만 GDP에서 작은 비중이고, 서비스는 "완만한" 5.3% 성장했지만 경제를 지배합니다. 어느 숫자를 읽고 있는지 항상 확인하십시오.
 
+## 이 주제 자세히 살펴보기
+
+이 분야의 주요 가이드:
+
+- [말레이시아의 항공우주 및 MRO 산업](/ko/industries/aerospace-industry/)
+- [자동차 산업](/ko/industries/automotive-industry/)
+- [전략 산업의 부미푸트라 지분 정책과 벤더 육성](/ko/industries/bumiputera-equity-vendor-policy/)
+- [말레이시아 건설 산업](/ko/industries/construction-industry/)
+- [말레이시아의 데이터센터 및 클라우드 인프라](/ko/industries/data-centre-cloud-industry/)
+- [말레이시아의 디지털 경제](/ko/industries/digital-economy-overview/)
+- [전기·전자(E&E) 산업](/ko/industries/electrical-electronics-industry/)
+- [말레이시아 할랄 인증 제도](/ko/industries/halal-certification-system/)
+- [할랄 산업과 말레이시아의 글로벌 할랄 허브 야망](/ko/industries/halal-industry-economy/)
+- [말레이시아의 물류·항만 산업](/ko/industries/logistics-ports-industry/)
+- [E&E와 자동차를 넘어서는 제조업](/ko/industries/manufacturing-industry-overview/)
+- [신산업마스터플랜 2030(NIMP 2030)](/ko/industries/new-industrial-master-plan-2030/)
+- [말레이시아의 석유·가스 산업](/ko/industries/oil-gas-industry/)
+- [말레이시아의 팜유 산업](/ko/industries/palm-oil-industry/)
+- [말레이시아의 팜유 지속가능성과 인증](/ko/industries/palm-oil-sustainability-certification/)
+- [말레이시아의 고무 산업](/ko/industries/rubber-industry/)
+- [말레이시아의 반도체 산업](/ko/industries/semiconductor-industry/)
+- [반도체 산업 & 국가반도체전략](/ko/industries/semiconductor-industry-national-strategy/)
+
 ## 다음 단계
 
 이 페이지를 나침반으로 삼은 다음, 당신에게 중요한 가지를 따라가십시오. 특정 산업을 조사하고 있다면, 더 깊은 규제, 기업, 공급망 세부 사항을 위해 이 범주에서 그 전용 안내서를 여십시오. 경제 전체를 추적하고 있다면, 분기마다 지켜볼 가치가 있는 두 수치는 **서비스 성장률**(경제의 대부분)과 **E&E 수출 추세**(무역의 변동 요인)입니다.

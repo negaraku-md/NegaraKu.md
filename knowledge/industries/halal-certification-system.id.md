@@ -231,3 +231,5 @@ Jika Anda berencana memohon, mulailah dengan memperbarui dokumen dasar — penda
 Perlu diingat bahwa rincian biaya, masa berlaku dan prosedur dalam artikel ini diambil dari Manual Prosedur Sertifikasi Halal Malaysia (Domestik) 2020, dan JAKIM memperbarui manual serta prosedur dari waktu ke waktu — termasuk peralihan ke e-Cert pada 2025. Selalu konfirmasikan angka dan syarat terkini melalui sistem MYeHALAL dan portal resmi JAKIM sebelum membuat permohonan.
 
 Untuk memahami kerangka hukum yang lebih luas, langkah selanjutnya yang berguna adalah membaca tentang **Akta Perihal Dagangan 2011** dan peran **JAKIM** sebagai badan koordinator hal ihwal Islam federal.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

@@ -136,3 +136,5 @@ keywords: ["ضريبة التقدير العقاري", "cukai pintu", "ضريب�
 - [مستويات الحكم الثلاثة في ماليزيا](/government/three-tiers-of-government) — كيف تختلف سلطات الاتحاد والولاية والمحلية
 - [توزيع السلطات بين الاتحاد والولايات](/government/federal-state-division) — لماذا تندرج الأراضي تحت سلطات الولاية
 - [المجلس التشريعي للولاية (DUN)](/government/state-assemblies-dun) — الجهة التي تُقِرّ قوانين أراضي الولاية
+
+اطّلع على الدليل الكامل: [شراء منزل في ماليزيا](/ar/property/buying-a-home-process/).

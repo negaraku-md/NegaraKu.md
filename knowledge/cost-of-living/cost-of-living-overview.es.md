@@ -227,6 +227,23 @@ metodología y una fecha de referencia.
   si fuera dato oficial del gobierno malasio.** No lo es; DOSM no publica ninguno,
   por las razones anteriores.
 
+## Explora este tema en profundidad
+
+Las guías clave de esta área:
+
+- [B40, M40, T20](/es/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/es/cost-of-living/belanjawanku-reference-budget/)
+- [Por qué una lata de Milo cuesta más en Kota Kinabalu que en Klang](/es/cost-of-living/cost-of-living-east-malaysia/)
+- [El costo de vida en Johor Bahru](/es/cost-of-living/cost-of-living-johor-bahru/)
+- [Por qué Kuala Lumpur es el lugar más caro para vivir de Malasia](/es/cost-of-living/cost-of-living-kuala-lumpur/)
+- [El costo de vida de Penang se parte en el estrecho](/es/cost-of-living/cost-of-living-penang/)
+- [Adónde va realmente cada mes el ringgit de los hogares de Malasia](/es/cost-of-living/household-spending-breakdown/)
+- [¿Es Malasia asequible para los expatriados? Lo que dicen realmente las cifras oficiales](/es/cost-of-living/is-malaysia-affordable-for-expats/)
+- [Dónde se sitúa Malasia en los índices mundiales del coste de vida](/es/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [Salario mínimo frente a renta mediana](/es/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/es/cost-of-living/padu-central-database/)
+- [Cómo controla Malasia la especulación de precios](/es/cost-of-living/price-control-anti-profiteering-act/)
+
 ## Qué sigue
 
 - Para ver cómo se compara la paga individual con estas cifras de los hogares:

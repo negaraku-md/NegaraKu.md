@@ -227,3 +227,5 @@ d'un budget de Penang soit moins cher que son équivalent de la vallée de Klang
   et l'[Indice des prix à la consommation, janvier 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025) ;
   l'[inscription de George Town/Melaka au patrimoine mondial](https://whc.unesco.org/en/list/1223/) de l'UNESCO ;
   et les [rapports de l'indice des prix des logements de la Malaisie](https://napic.jpph.gov.my/) de NAPIC pour le contexte du marché immobilier.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

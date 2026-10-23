@@ -131,3 +131,5 @@ keywords: ["Klinik Kesihatan Malaysia", "klinik kerajaan Malaysia", "MySejahtera
 ## อ่านต่อ
 
 เพื่อเข้าใจสถานพยาบาลทันตกรรมของรัฐที่แยกต่างหากจากคลินิกสุขภาพ อ่าน [คลินิกทันตกรรมรัฐหรือเอกชน?](/healthcare/dental-care) สำหรับภาพรวมของหัวข้อสุขภาพอื่นในมาเลเซีย — ตั้งแต่ประกันเอกชนไปจนถึงการท่องเที่ยวเชิงการแพทย์ — เข้าไปที่หมวด [สุขภาพ](/healthcare) เพื่อทำนัดหมายจริง เข้าถึงบริการทางการผ่าน [พอร์ทัล MyGovernment](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan)
+
+ดูคู่มือฉบับเต็ม: [ระบบสาธารณสุขของมาเลเซียทำงานอย่างไรจริง ๆ](/th/healthcare/how-malaysian-healthcare-works/)

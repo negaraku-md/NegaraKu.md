@@ -118,3 +118,5 @@ Belanjawanku est aussi la base du nouveau Cadre d'adéquation du revenu de retra
 ## Et ensuite
 
 Vous pouvez vérifier les chiffres propres à votre propre situation via l'application Belanjawanku, qui prend en compte votre ville, votre situation matrimoniale, votre étape de vie et votre mode de transport. Utilisez ces chiffres comme repère : comparez-les à vos dépenses réelles, repérez les écarts et vérifiez si votre épargne-retraite approche du repère RIA. Pour comprendre le contexte de la pauvreté, voir l'article connexe sur le Revenu du seuil de pauvreté.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

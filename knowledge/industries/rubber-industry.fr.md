@@ -172,3 +172,5 @@ Face à ces pressions, la logique stratégique n'a pas changé par rapport à ce
 ## Et ensuite
 
 Si vous recherchez ce secteur, les chiffres en direct les plus autorisés sont les publications des **Statistiques mensuelles du caoutchouc du DOSM**, qui actualisent chaque mois la production, les exportations, les stocks et les destinations. Pour le volet institutionnel, le Malaysian Rubber Board publie des orientations sur les licences et la réglementation, tandis que MARGMA suit spécifiquement le commerce des gants. Surveillez trois variables en particulier : le prix du caoutchouc naturel (qui décide si les petits exploitants continuent de saigner), la combinaison nitrile-contre-latex dans les gants, et les mesures commerciales États-Unis-Chine — le facteur de bascule le plus susceptible de faire bouger les exportations de gants malaisiens dans un sens ou dans l'autre.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

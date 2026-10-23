@@ -112,3 +112,5 @@ Kerana ia sebahagian daripada sistem pendidikan swasta yang dikawal selia, ibu b
 - Bakal pengusaha: mulakan dengan mendaftar entiti perniagaan (SSM), kemudian mohon kelulusan penubuhan melalui sistem KPM sebelum menyewa premis komersial.
 - Ibu bapa: minta bukti pendaftaran JPN dan pastikan pusat mematuhi syarat kakitangan yang ditetapkan.
 - Rujuk terus JPN negeri anda atau laman Bahagian Pendidikan Swasta KPM untuk borang, senarai semak dan yuran terkini.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

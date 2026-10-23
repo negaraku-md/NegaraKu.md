@@ -148,3 +148,5 @@ Bagi pembaca yang ingin mendalami topik ini, langkah selanjutnya yang berguna:
 - Pahami bahwa kontrol harga ayam atau telur apa pun perlu dibaca bersama biaya pakan ternak global — itulah penentu sebenarnya apakah pasokan tetap stabil.
 
 *Artikel ini adalah draf yang dihasilkan dengan bantuan AI dan belum melalui peninjauan editor manusia. Semua angka dikutip dari sumber resmi yang tercantum; konfirmasikan angka terkini langsung dari DOSM dan JPV sebelum membuat keputusan.*
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

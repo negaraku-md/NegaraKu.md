@@ -160,3 +160,5 @@ La situación jurídica del aborto en Malasia depende de un equilibrio: una proh
 Para cualquier persona que necesite información relacionada con sus circunstancias reales, el paso más adecuado es consultar directamente a un médico colegiado o buscar asesoramiento jurídico profesional, porque cada caso depende de sus propios hechos y de la evaluación clínica.
 
 Este borrador se preparó con asistencia de IA y todavía está pendiente de revisión humana. Pretende explicar el marco jurídico de forma neutral y no sustituye al asesoramiento oficial.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

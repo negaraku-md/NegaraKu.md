@@ -130,3 +130,5 @@ KKM 시설에서 예약할 수 있는 공식 서비스 목록에 따르면, 클�
 ## 다음으로
 
 클리닉 크시하탄과 별개인 정부 치과 시설을 이해하려면 [정부 치과 클리닉인가 민간인가?](/ko/healthcare/dental-care)를 읽어 보십시오. 민간 보험부터 의료 관광까지 말레이시아의 다른 건강 주제 전반은 [건강](/ko/healthcare) 카테고리를 둘러보십시오. 실제 예약을 하려면 [MyGovernment 포털](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan)을 통해 공식 서비스에 접속하십시오.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

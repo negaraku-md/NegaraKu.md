@@ -131,3 +131,5 @@ Biaya pendaftaran di Klinik Kesihatan ditetapkan secara terpusat oleh pemerintah
 ## Apa selanjutnya
 
 Untuk memahami fasilitas gigi pemerintah yang terpisah dari Klinik Kesihatan, baca [Klinik Pergigian Pemerintah atau Swasta?](/id/healthcare/dental-care). Untuk gambaran keseluruhan topik kesehatan lain di Malaysia — dari asuransi swasta hingga pariwisata medis — jelajahi kategori [Kesehatan](/id/healthcare). Untuk membuat janji temu yang sebenarnya, akses layanan resmi melalui [portal MyGovernment](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan).
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

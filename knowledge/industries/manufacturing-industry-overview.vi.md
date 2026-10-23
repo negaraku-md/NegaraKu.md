@@ -155,3 +155,5 @@ Ba cơ quan quan trọng nhất khi đọc ngành này:
 ## Tiếp theo
 
 Câu chuyện chế tạo của Malaysia đang đa dạng hóa theo thời gian thực. Hãy theo dõi ba điều. Thứ nhất, liệu nỗ lực máy móc-và-thiết bị và nhà máy thông minh theo NIMP 2030 có thực sự nâng cao năng suất chứ không chỉ số lượng nhân sự hay không. Thứ hai, cách thiết bị y tế và cao su chuyên biệt đi lên từ găng tay hàng hóa sang ống thông, cấy ghép và chẩn đoán có biên lợi nhuận cao hơn. Thứ ba, các bản công bố hằng năm của DOSM và MIDA — mỗi khung thời gian tháng 1 đến tháng 5 mang đến các con số đầy đủ về doanh số, việc làm và đầu tư của năm trước, cách đọc rõ ràng nhất về việc liệu mục tiêu RM587.5 tỷ cho năm 2030 có đang đi đúng hướng hay không. Nếu bạn đang nghiên cứu một tiểu khu vực cụ thể, hãy bắt đầu với bản công bố của DOSM cho nhóm MSIC đó và trang ngành của MIDA, rồi bổ sung chi tiết ở cấp doanh nghiệp.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

@@ -125,3 +125,5 @@ Si una cifra importa para tu arrendamiento, obtenla por escrito de la agencia, n
 ## Qué sigue
 
 Una vez que hayas preseleccionado una unidad y un negociador que puedas verificar, los siguientes pasos son el contrato de arrendamiento en sí y la organización de los pagos del depósito y el alquiler — la mayoría de los cuales se mueven por banca en línea en lugar de en efectivo. Si aún no tienes una cuenta bancaria malasia, consulta [abrir una cuenta bancaria en Malasia](/en/money-daily-life/opening-bank-account). Si estás alquilando sobre la base de una nueva oferta de trabajo y no como ciudadano o residente permanente, gestiona en paralelo el [Employment Pass](/en/settling-in/employment-pass) — los arrendadores y las agencias suelen pedir prueba de un pase válido antes de firmar un contrato más largo.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

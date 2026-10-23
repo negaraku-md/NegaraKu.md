@@ -156,3 +156,5 @@ Si vous configurez un service mobile en parallèle de votre haut débit à domic
 Unifi Mobile, souvent groupé avec une ligne Unifi Home — consultez
 [Acheter une carte SIM mobile en Malaisie](/fr/money-daily-life/mobile-sim-plans) pour
 savoir comment fonctionnent l'enregistrement et le choix du fournisseur là-bas.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

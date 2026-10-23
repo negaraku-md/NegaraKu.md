@@ -106,3 +106,5 @@ Bagi pasien yang mendapatkan obat berulang dari fasilitas kesehatan publik pula,
 ## Apa selanjutnya
 
 Bagi pasien dengan obat jangka panjang, baca tentang [asuransi kesehatan](/id/healthcare/medical-insurance) untuk memahami sejauh mana biaya obat ditanggung oleh paket kesehatan. Bagi lansia atau keluarga yang mengelola obat lanjutan secara berkala, [perawatan kesehatan lansia](/id/healthcare/healthcare-for-seniors) turut menjelaskan layanan nilai tambah farmasi seperti obat melalui pos yang mengurangi keperluan hadir ke loket setiap bulan.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

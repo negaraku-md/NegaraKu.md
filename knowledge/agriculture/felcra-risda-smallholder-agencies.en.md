@@ -129,3 +129,5 @@ Even so, this proposal remains a policy discussion. As far as the referenced sou
 - For broader context, refer to FELDA's role in opening up settlement land, which completes the picture of Malaysia's federal land agency ecosystem.
 
 *Note: This article is an AI-assisted draft that has not yet undergone human review. Figures and dates are drawn from the official sources listed; please refer to the original sources for the latest information. Items in the `verificationNeeded` list still need to be confirmed by a human reviewer.*
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

@@ -152,6 +152,40 @@ faq:
 - **นายจ้างสันนิษฐานว่า SPIKPA เป็นทางเลือกหรือการซื้อครั้งเดียว** มันเป็นข้อกำหนดที่เกิดซ้ำผูกกับรอบการต่ออายุใบอนุญาตทำงานแต่ละครั้ง ไม่ใช่กรมธรรม์ครั้งเดียวที่ซื้อตอนจ้าง
 - **นักท่องเที่ยวสันนิษฐานว่าประกันการเดินทางและโครงการในท้องถิ่นใช้แทนกันได้** ไม่มี PeKa B40, MySalam หรือตารางค่าธรรมเนียมพลเมืองที่ใช้บังคับกับผู้มาเยือน; ประกันการเดินทาง/การแพทย์ที่ซื้อก่อนการเดินทางเป็นตาข่ายความปลอดภัยเดียวในทางปฏิบัติ
 
+## สำรวจหัวข้อนี้เชิงลึก
+
+คู่มือสำคัญในด้านนี้:
+
+- [กฎหมายการทำแท้งในมาเลเซีย](/th/healthcare/abortion-law-in-malaysia/)
+- [เขาเป็นหมอจริงหรือ? วิธีตรวจสอบการขึ้นทะเบียนของแพทย์และบุคลากรสาธารณสุขในมาเลเซีย](/th/healthcare/allied-health-and-medical-practitioner-registration/)
+- [การบริจาคโลหิตในมาเลเซีย](/th/healthcare/blood-donation-and-national-blood-centre/)
+- [หลังเคาน์เตอร์ร้านยา](/th/healthcare/buying-medicine-pharmacies/)
+- [วัคซีนฟรีสำหรับเด็กทุกคน](/th/healthcare/childhood-vaccination/)
+- [COVID-19 ในมาเลเซีย](/th/healthcare/covid-19-pandemic-response-and-legacy/)
+- [คลินิกทันตกรรมรัฐหรือเอกชน? ทำความเข้าใจสองระบบการดูแลทันตสุขภาพของมาเลเซีย](/th/healthcare/dental-care/)
+- [เบาหวาน โรคอ้วน และโรคไม่ติดต่อ](/th/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [การเข้าถึงการดูแลสุขภาพสำหรับผู้พิการ (OKU) ในมาเลเซีย](/th/healthcare/disability-and-oku-healthcare-access/)
+- [เหตุฉุกเฉินทางการแพทย์ในมาเลเซีย](/th/healthcare/emergencies-999/)
+- [โรงพยาบาลรัฐมาเลเซีย](/th/healthcare/government-hospitals/)
+- [สถานะฮาลาลของวัคซีนและยา](/th/healthcare/halal-status-of-vaccines-and-medicines/)
+- [การมีบุตรในมาเลเซีย](/th/healthcare/having-a-baby-in-malaysia/)
+- [สมุดปกขาวด้านสุขภาพ](/th/healthcare/health-white-paper-and-system-reform/)
+- [เมื่อพ่อแม่ไม่สามารถดูแลตนเองได้อีกต่อไป](/th/healthcare/healthcare-for-seniors/)
+- [บริการ HIV/AIDS และสุขภาพทางเพศในมาเลเซีย](/th/healthcare/hiv-aids-and-sexual-health-services/)
+- [คลินิกสุขภาพ](/th/healthcare/klinik-kesihatan/)
+- [ประกันการแพทย์ในมาเลเซีย](/th/healthcare/medical-insurance/)
+- [การเติบโตอย่างเงียบ ๆ ของการท่องเที่ยวเชิงการแพทย์ในมาเลเซีย และหน่วยงานเบื้องหลัง](/th/healthcare/medical-tourism/)
+- [รับความช่วยเหลือด้านสุขภาพจิตในมาเลเซียได้ที่ไหน](/th/healthcare/mental-health-services/)
+- [MySejahtera และการผลักดันด้านสุขภาพดิจิทัลของมาเลเซีย](/th/healthcare/mysejahtera-and-digital-health-records/)
+- [การบริจาคอวัยวะในมาเลเซีย](/th/healthcare/organ-donation-and-transplant-registry/)
+- [การดูแลแบบประคับประคองและฮอสพิซในมาเลเซีย](/th/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/th/healthcare/peka-b40-and-health-schemes/)
+- [สองใบเรียกเก็บเงินสำหรับการพักครั้งเดียว](/th/healthcare/private-hospitals-and-costs/)
+- [ระบบสาธารณสุขของรัฐมาเลเซีย](/th/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/th/healthcare/smoking-and-vaping-law-act-852/)
+- [เทเลเมดิซีนในมาเลเซีย](/th/healthcare/telemedicine-and-online-doctor-services/)
+- [การแพทย์แผนดั้งเดิมและการแพทย์เสริม](/th/healthcare/traditional-and-complementary-medicine/)
+
 ## อ่านต่อ
 
 สำหรับโครงการประกันสังคมที่ครอบคลุมลูกจ้างชาวมาเลเซียโดยเฉพาะสำหรับการบาดเจ็บจากการทำงานและทุพพลภาพ — กลไกที่แตกต่างจากสิ่งใดที่อธิบายข้างต้น — ดู [PERKESO (SOCSO)](/th/glossary/socso-perkeso) สำหรับกระทรวงที่ดำเนินการและกำกับดูแลทุกสิ่งบนหน้านี้ ดู Kementerian Kesihatan Malaysia (KKM) เมื่อหน้าองค์กรนั้นได้รับการเผยแพร่

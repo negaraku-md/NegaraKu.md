@@ -227,3 +227,5 @@ B40 परिवार अतिरिक्त लाभ भी यहाँ �
 [वरिष्ठ नागरिकों के लिए स्वास्थ्य सेवा](/en/healthcare/healthcare-for-seniors)।
 वास्तविक आपातकालीन स्थितियों के लिए देखें
 [आपातकाल और 999](/en/healthcare/emergencies-999)।
+
+पूरी गाइड देखें: [मलेशिया की स्वास्थ्य सेवा असल में कैसे काम करती है](/hi/healthcare/how-malaysian-healthcare-works/)।

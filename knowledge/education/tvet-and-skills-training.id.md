@@ -171,3 +171,5 @@ JPK mengenai jalur Pengiktirafan Pencapaian Terdahulu (PPT) bagi bidang terkait.
 jika pemberi kerja Anda mengirim Anda untuk pelatihan keterampilan berbasis
 levy HRD Corp, baca juga panduan mengenai levy HRD Corp untuk memahami
 bagaimana pelatihan seperti itu dibiayai di tingkat pemberi kerja.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

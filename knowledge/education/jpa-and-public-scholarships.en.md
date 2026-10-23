@@ -156,3 +156,5 @@ If you are planning how to finance your studies, the following practical steps h
 - **Read the bond conditions.** Scrutinise the service period, the loan conversion conditions, and whether you need to give up PTPTN.
 
 This draft was prepared with AI assistance and has not yet undergone human review; verify every figure against official sources before making any decision.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

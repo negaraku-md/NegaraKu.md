@@ -151,3 +151,5 @@ A halal certificate increasingly reads as a signal of hygiene, traceability and 
 Watch three things. First, whether export growth holds its double-digit pace and closes the gap to the 10.8%-of-GDP-by-2030 target. Second, whether certification capacity scales fast enough to stop being the binding constraint the government keeps naming. Third, whether the newer frontiers of the HIMP 2030 agenda — halal pharmaceuticals, cosmetics, logistics and tourism — grow into meaningful export lines rather than remaining mostly food.
 
 For a specific figure — the incentive terms for a given park, or the current year's export breakdown by destination — check HDC and MITI/MIDA directly, since figures and park incentive schedules are updated over time. The verified numbers here are drawn from the sources listed above and reflect the most recent full-year data available at the time of writing.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

@@ -176,3 +176,5 @@ R&R（休憩所）内のAgrobazaar 5カ所、および臨時市場（pasar tamu�
 `fama.gov.my`で参加の申込書と条件を確認すること。もしあなたが消費者で
 あれば、お住まいの地域のFAMA農民市場や店舗の一覧も同機関の公式サイトで
 確認できる。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの農業・食料部門](/ja/agriculture/agriculture-sector-overview/)。

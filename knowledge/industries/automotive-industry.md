@@ -217,3 +217,5 @@ A simple decision frame:
 Watch three things. First, **EV incentives**: the CBU import exemption already lapsed on 1 January 2026, and whether Malaysia extends or replaces the CKD tax break before it expires on 31 December 2027 will shape which EVs are affordable and where they are built. Second, **local EV volume**: Perodua's plan to scale QV-E output from around 500 units a month toward 3,000 units a month by Q3 2026, and Proton's move to assemble EVs locally, will test whether the national brands can make electrics at national-car prices. Third, **consolidation and competition**: with Sime Darby now sitting atop Perodua and Toyota, and Chinese brands pushing hard into the market, the comfortable two-thirds share the national brands have enjoyed is no longer guaranteed.
 
 For the underlying figures, the primary sources are MITI and MIDA for policy, DRB-HICOM and the carmakers' own announcements for ownership and product, and the Malaysian Automotive Association's annual market review for sales — all linked below.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

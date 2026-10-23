@@ -154,3 +154,5 @@ faq:
 ## 次に読むべきもの
 
 権利が実際に外国人所有者の名義に移転すると、その後継続する義務は、マレーシアのあらゆる不動産所有者が直面するものと同じである——[アセスメント税とクイットレント、およびそれぞれを誰が徴収するか](/ja/property/assessment-and-quit-rent)を参照。所有そのものの両端に位置する二つの税務上の出来事については、[取得時の印紙税表](/ja/taxation/stamp-duty-rates)と[最終的な処分時の RPGT](/ja/taxation/rpgt-rates)を参照。そして、不動産購入を任意ではなく必須とするビザの経路については、[MM2H 長期滞在ビザの四つの等級](/ja/settling-in/mm2h-long-stay-visa)を参照。
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

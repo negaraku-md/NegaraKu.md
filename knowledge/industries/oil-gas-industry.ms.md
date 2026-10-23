@@ -235,3 +235,5 @@ Jika anda menyelidik lebih lanjut, langkah seterusnya yang paling bernilai ialah
 - Ikuti **Laporan Bersepadu PETRONAS** tahunan dan **statistik petroleum suku tahunan DOSM** untuk angka pengeluaran, eksport dan sumbangan terkini.
 
 Sumber utama itu akan memastikan anda sentiasa terkini apabila angka berubah — tetapi seni bina asasnya, satu pemilik melesenkan banyak kontraktor di bawah terma perkongsian pengeluaran, telah bertahan sejak 1974 dan tidak menunjukkan tanda-tanda akan berubah.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

@@ -99,3 +99,5 @@ Lời làm rõ đó là có thật, nhưng nó là một tuyên bố về ý đ�
 ## Tiếp theo
 
 Nếu giáo dục tại nhà thực sự đang được cân nhắc, điểm khởi đầu thực tế là giống nhau bất kể độ tuổi của trẻ: tiếp cận Sở Giáo dục Bang (JPN) trực tiếp để biết các yêu cầu về đơn xin miễn hiện hành, giữ mọi bản nộp và phản hồi bằng văn bản, và kiểm tra Công báo (Warta Kerajaan) để biết thông báo cuối cùng đưa nghĩa vụ giáo dục trung học của Mục 32A vào hiệu lực, vì điều đó sẽ thay đổi ý nghĩa của "tuân thủ" đối với trẻ lớn hơn.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

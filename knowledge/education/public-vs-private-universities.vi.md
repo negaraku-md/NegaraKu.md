@@ -228,3 +228,5 @@ bạn đang so sánh các lựa chọn tư thục, hoặc cân nhắc một lố
 UEC, A-Levels, hay một diploma từ một IPTS — hãy xác minh đúng chương trình bạn
 được mời trên Malaysian Qualifications Register trước khi ghi danh,
 bất kể loại cơ sở nào đã đưa ra thư mời.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

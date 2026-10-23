@@ -178,3 +178,5 @@ akan memerlukan penjagaan apabila mereka menua mungkin juga ingin membaca
 tentang [Visa Tinggal Lama MM2H](/settling-in/mm2h-long-stay-visa), kerana
 status kediaman jangka panjang menjejaskan perkhidmatan mana antara ini yang
 terpakai.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

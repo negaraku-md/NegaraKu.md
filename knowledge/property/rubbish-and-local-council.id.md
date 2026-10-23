@@ -135,3 +135,5 @@ Tingkat daur ulang nasional — rasio limbah padat yang didaur ulang dibandingka
 ## Apa selanjutnya
 
 Jika Anda baru pindah dan belum pasti siapa yang menangani pengumpulan sampah di kawasan sewa Anda, pertanyaan itu berkaitan erat dengan proses [mencari rumah sewa di Malaysia](/id/property/finding-a-rental) — pemilik atau agen biasanya dapat memastikan jadwal pengumpulan dan apakah kawasan itu tunduk pada Act 672. Untuk memahami kedudukan majelis setempat dalam struktur pemerintahan Malaysia secara keseluruhan — termasuk mengapa anggota majelis ditunjuk dan bukan dipilih — rujuk [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government).
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

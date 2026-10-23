@@ -153,3 +153,5 @@ En bref : votre tâche consiste à choisir le bon établissement et à obtenir l
 Une fois que vous avez confirmé l'accréditation, l'agrément pour l'inscription internationale, et accepté votre offre, l'étape suivante est le Pass d'étudiant lui-même — traité pas à pas, y compris la Lettre d'approbation de visa, l'examen médical et l'i-Kad, dans [Le Pass d'étudiant : pourquoi votre université dépose le dossier auprès de l'EMGS, et non vous](/en/settling-in/student-pass). Après la validation de votre pass, la plupart des étudiants passent aux démarches pratiques d'installation comme [s'installer en Malaisie : premiers pas](/en/settling-in/moving-to-malaysia-first-steps) et [ouvrir un compte bancaire malaisien](/en/money-daily-life/opening-bank-account).
 
 Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

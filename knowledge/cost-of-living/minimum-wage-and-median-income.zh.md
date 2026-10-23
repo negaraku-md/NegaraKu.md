@@ -145,3 +145,5 @@ Act 2011 于 2024 年 12 月 4 日经宪报颁布，订定：
   [《2024年家庭收入调查报告》](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   与
   [《2024年薪金与工资调查报告》](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024)。
+
+查看完整指南：[马来西亚生活成本](/zh/cost-of-living/cost-of-living-overview/)。

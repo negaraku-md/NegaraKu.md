@@ -252,6 +252,27 @@ Un marco rápido para saber a qué puerta llamar:
 - **«La Comisión de Energía regula todo el país.»** El alcance regulatorio de la ST es la Malasia peninsular y Labuan; Sabah y Sarawak tienen sus propios acuerdos.
 - **«El objetivo del 70% de energía renovable significa el 70% de toda la energía de la nación.»** Ese objetivo del NETR se refiere a la capacidad de energía renovable en la combinación eléctrica (generación de electricidad), no a todo el sistema energético, incluidos el transporte y la industria.
 
+## Explora este tema en profundidad
+
+Las guías clave de esta área:
+
+- [Reforma de la industria de suministro eléctrico](/es/energy/electricity-supply-industry-reform-mesi/)
+- [Cómo funciona la estructura tarifaria eléctrica de Malasia](/es/energy/electricity-tariff-structure/)
+- [La Comisión de Energía](/es/energy/energy-commission-suruhanjaya-tenaga/)
+- [Ley de Eficiencia y Conservación Energética (Act 861)](/es/energy/energy-efficiency-conservation-act/)
+- [Cómo fija Malasia los precios semanales del combustible](/es/energy/fuel-pricing-mechanism/)
+- [El sistema de subsidios al combustible de Malasia](/es/energy/fuel-subsidy-system/)
+- [Hidrógeno y captura de carbono (CCUS) en Malasia](/es/energy/hydrogen-ccus-malaysia/)
+- [La energía hidroeléctrica en Malasia](/es/energy/hydropower-malaysia/)
+- [La Hoja de Ruta Nacional de Transición Energética (NETR)](/es/energy/national-energy-transition-roadmap-netr/)
+- [Gas natural y GNL en Malasia](/es/energy/natural-gas-lng-malaysia/)
+- [Ley de Desarrollo del Petróleo de 1974 (Petroleum Development Act 1974)](/es/energy/petroleum-development-act-1974/)
+- [Energía renovable en Malasia](/es/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/es/energy/sarawak-energy-berhad/)
+- [Petros y la disputa del gas de Sarawak](/es/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malasia](/es/energy/seda-malaysia/)
+- [Energía solar en Malasia](/es/energy/solar-energy-malaysia/)
+
 ## Qué viene a continuación
 
 Si usted es consumidor, el paso más práctico es comprender su nueva factura de electricidad RP4 (cuatro componentes) y comprobar su elegibilidad para el subsidio BUDI95. Si es propietario de una vivienda interesado en reducir su factura, explore el programa NEM de SEDA para la energía solar en tejado.

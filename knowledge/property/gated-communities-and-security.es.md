@@ -121,3 +121,5 @@ Una RA es una sociedad bajo el Societies Act 1966 — voluntaria, no legal, y es
 ## Qué sigue
 
 Si su esquema ya tiene títulos strata y un JMB o MC, el salario del guardia es una línea en una factura legal más amplia — vea [La vida en condominio en Malasia](/en/property/condo-living-maintenance-fees) para saber cómo funciona esa financiación. Para saber quién aprueba realmente una caseta de guardia, una barrera de pluma o una solicitud de GN, vea [Los concejos locales en Malasia](/en/states/local-councils).
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

@@ -230,3 +230,5 @@ Jika anda bercadang memohon, mulakan dengan mengemas kini dokumen asas — penda
 Perlu diingat bahawa butiran fi, tempoh sah laku dan prosedur dalam artikel ini diambil daripada Manual Prosedur Pensijilan Halal Malaysia (Domestik) 2020, dan JAKIM mengemas kini manual serta prosedur dari semasa ke semasa — termasuk peralihan kepada e-Cert pada 2025. Sentiasa sahkan angka dan syarat terkini melalui sistem MYeHALAL dan portal rasmi JAKIM sebelum membuat permohonan.
 
 Bagi memahami rangka perundangan yang lebih luas, langkah seterusnya yang berguna ialah membaca tentang **Akta Perihal Dagangan 2011** dan peranan **JAKIM** sebagai badan penyelaras hal ehwal Islam persekutuan.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

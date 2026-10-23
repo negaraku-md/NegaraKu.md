@@ -146,3 +146,5 @@ Selon l'Organisation mondiale de la santé (OMS), le Livre blanc a reçu l'appro
 La Malaisie est passée de la gestion de la pandémie à une phase endémique, avec la levée des restrictions généralisées et une attention déplacée vers le redressement à long terme du système de santé. Parmi les développements pertinents à venir figurent la mise en œuvre par phases du Livre blanc de la santé, l'amélioration de l'offre de personnel de santé publique, et l'utilisation continue d'infrastructures numériques comme MySejahtera dans les services de santé.
 
 Ce brouillon a été préparé avec l'assistance de l'IA et nécessite une révision humaine. Tous les chiffres et dates doivent être revérifiés au regard des sources officielles les plus récentes, telles que les tableaux de bord COVIDNOW/KKMNOW du ministère de la Santé, avant publication.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

@@ -148,3 +148,5 @@ Sự khác biệt quan trọng: cúm gia cầm đe dọa ngành gà vốn là x�
 - Hãy hiểu rằng bất kỳ biện pháp kiểm soát giá gà hoặc trứng nào cũng cần được đọc cùng với chi phí thức ăn chăn nuôi toàn cầu — đó mới là yếu tố quyết định thực sự việc liệu nguồn cung có ổn định hay không.
 
 *Bài viết này là một bản thảo được tạo với sự trợ giúp của AI và chưa qua rà soát của biên tập viên con người. Tất cả các con số được dẫn từ các nguồn chính thức được liệt kê; hãy xác nhận các con số mới nhất trực tiếp từ DOSM và JPV trước khi ra quyết định.*
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

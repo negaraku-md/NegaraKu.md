@@ -148,3 +148,5 @@ Một chỉ dẫn đơn giản: nếu bạn từ 30 tuổi trở lên, hoặc c�
 - **Giảm đường theo từng giai đoạn.** Chọn đồ uống có logo Lựa chọn Lành mạnh hoặc không thêm đường; thuế đường có nghĩa là các lựa chọn ít đường nay thường rẻ hơn.
 - **Đừng chờ triệu chứng.** Tiểu đường và tăng huyết áp thường «thầm lặng» — sàng lọc định kỳ là cách chắc chắn nhất để phát hiện chúng sớm.
 - **Đối với các quyết định cá nhân**, hãy tham khảo cán bộ y tế tại Klinik Kesihatan gần nhất. Hướng dẫn này mang tính thông tin chung và không phải là lời khuyên y tế.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

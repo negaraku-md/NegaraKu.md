@@ -224,6 +224,23 @@ it discloses a methodology and a reference date at all.
   official Malaysian government data.** It isn't — DOSM does not publish one,
   for the reasons above.
 
+## Explore this topic in depth
+
+The key guides in this area:
+
+- [B40, M40, T20](/en/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/en/cost-of-living/belanjawanku-reference-budget/)
+- [Why a Tin of Milo Costs More in Kota Kinabalu Than in Klang](/en/cost-of-living/cost-of-living-east-malaysia/)
+- [Johor Bahru's Cost of Living](/en/cost-of-living/cost-of-living-johor-bahru/)
+- [Why Kuala Lumpur Is Malaysia's Most Expensive Place to Live](/en/cost-of-living/cost-of-living-kuala-lumpur/)
+- [Penang's Cost of Living Splits at the Strait](/en/cost-of-living/cost-of-living-penang/)
+- [Where Malaysia's Household Ringgit Actually Goes Each Month](/en/cost-of-living/household-spending-breakdown/)
+- [Is Malaysia Affordable for Expats? What the Official Numbers Actually Say](/en/cost-of-living/is-malaysia-affordable-for-expats/)
+- [Where Malaysia Ranks in Global Cost-of-Living Indices](/en/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [Minimum Wage vs Median Income](/en/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/en/cost-of-living/padu-central-database/)
+- [How Malaysia Controls Price Profiteering](/en/cost-of-living/price-control-anti-profiteering-act/)
+
 ## What's next
 
 - For how individual pay stacks up against these household figures:

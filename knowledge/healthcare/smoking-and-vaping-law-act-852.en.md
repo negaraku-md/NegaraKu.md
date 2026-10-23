@@ -114,3 +114,5 @@ The original bill contained a *generational endgame* (GEG) provision that would 
 ## What's next
 
 Check whether your premises — a retail store or eatery — comply with the display ban and warning-sign requirements before the compliance deadlines. Parents and educators can report sales to minors to the Ministry of Health Malaysia. Also watch for the reduction of the nicotine limit to 20 mg/ml on 1 October 2025 and continued calls from some quarters to reintroduce the GEG under Act 852.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

@@ -136,3 +136,5 @@ Au sein de la société, le statut halal devient souvent l'un des facteurs que l
 - Consultez les décisions les plus récentes de la Muzakarah via le portail e-Fatwa du JAKIM ou les sites des départements d'État du mufti, car les fatwas peuvent être mises à jour lorsque la composition d'un produit ou la disponibilité d'alternatives évolue.
 - Pour des questions précises sur une marque particulière de vaccin ou de médicament, consultez les autorités religieuses des États et des praticiens médicaux agréés.
 - Ce brouillon est un contenu généré par IA qui n'a pas encore été révisé ; assurez-vous que chaque citation de fatwa soit vérifiée par rapport aux documents officiels avant de vous y fier pour des décisions personnelles.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

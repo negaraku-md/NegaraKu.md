@@ -170,3 +170,5 @@ Khoảng cách giữa mức thực tế 52.9% và mục tiêu 75%-vào-2025 là 
 - **Theo dõi SSL hằng năm** trong Supply and Utilization Accounts của DOSM và các tuyên bố của Bộ — đó là thước đo tiêu điểm duy nhất về việc liệu khoảng cách nhập khẩu có đang thu hẹp hay không.
 - **Theo dõi cuộc rà soát BERNAS năm 2031**, vốn sẽ quyết định liệu nhượng quyền nhà nhập khẩu duy nhất được gia hạn, tái cấu trúc hay mở ra, và điều gì xảy ra với các nghĩa vụ xã hội mà nó tài trợ.
 - **Xác nhận các con số còn lại** được gắn cờ trong *verificationNeeded* — diện tích lúa được trồng chính xác và số tấn sản lượng, cùng số lượng nông dân đã đăng ký — với các nguồn sơ cấp của DOSM và KPKM trước khi trích dẫn chúng như đã được xác định.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

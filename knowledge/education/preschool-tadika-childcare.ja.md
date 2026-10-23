@@ -121,3 +121,5 @@ keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "t
 ## 次にすべきこと
 
 保育所、幼稚園、就学前教育のいずれかに申し込む前に、子どもの身分証明書類——MyKidまたは出生証明書——が揃っていることを確認しておこう。申請段階でこれらが必要となるためである。もし出生登録を済ませたばかりであれば、就学前教育の登録段階に進む前に、[出生登録](/settling-in/registering-a-birth)を読んで関連する手続きと必要書類を確認してほしい。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの教育制度](/ja/education/malaysian-education-system/)。

@@ -219,3 +219,5 @@ budget is cheaper than its Klang Valley equivalent:
   and [Consumer Price Index, January 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025);
   UNESCO's [George Town/Melaka World Heritage listing](https://whc.unesco.org/en/list/1223/);
   and NAPIC's [Malaysian House Price Index reports](https://napic.jpph.gov.my/) for property-market context.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

@@ -200,3 +200,5 @@ transition agenda.
 - Read the founding statute at the
   [full text of Act 610](https://faolex.fao.org/docs/pdf/mal37918.pdf) or
   check the official mandate at [ST's "About Us" page](https://www.st.gov.my/about-us)
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

@@ -123,3 +123,5 @@ None of these options is more valid than the others in terms of the national cur
 ## What's next
 
 Before applying for a taska, tadika or prasekolah, make sure your child's identification documents — MyKid or birth certificate — are already in order, since they are required at the application stage. If you have just registered your child's birth, read [registering a birth](/en/settling-in/registering-a-birth) for the related process and documents before moving on to the preschool registration stage.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

@@ -118,3 +118,5 @@ Belanjawanku cũng là nền tảng cho Khung Đầy đủ Thu nhập Hưu trí 
 ## Tiếp theo
 
 Bạn có thể kiểm tra các con số cụ thể cho hoàn cảnh riêng của mình qua ứng dụng Belanjawanku, vốn tính đến thành phố, tình trạng hôn nhân, giai đoạn cuộc sống và phương thức đi lại của bạn. Hãy dùng những con số này làm mốc chuẩn: so sánh với chi tiêu thực tế của bạn, xác định khoảng cách, và kiểm tra xem tiền tiết kiệm hưu trí của bạn có tiệm cận mốc chuẩn RIA hay không. Để hiểu bối cảnh về nghèo đói, hãy tham khảo bài viết liên quan về Ngưỡng Thu nhập Nghèo.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

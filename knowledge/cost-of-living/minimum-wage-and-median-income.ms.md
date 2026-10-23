@@ -165,3 +165,5 @@ percanggahan:
   [Household Income Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   serta
   [Salaries and Wages Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024).
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

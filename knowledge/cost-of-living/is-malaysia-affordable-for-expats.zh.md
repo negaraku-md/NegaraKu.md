@@ -147,3 +147,5 @@ keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats"
 [为什么吉隆坡是马来西亚生活成本最高的地方](/zh/cost-of-living/cost-of-living-kuala-lumpur)。
 若想了解背后的通胀数字实际上是如何编制的，见
 [马来西亚的通胀率与CPI究竟衡量什么](/zh/economy/inflation-cpi)。
+
+查看完整指南：[马来西亚生活成本](/zh/cost-of-living/cost-of-living-overview/)。

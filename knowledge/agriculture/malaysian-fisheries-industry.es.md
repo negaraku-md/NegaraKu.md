@@ -248,3 +248,5 @@ que impulsan la inversión en activos de la MMEA y las enmiendas de las
 sanciones. Las estadísticas pesqueras anuales del Departamento de Pesca y los
 informes de aplicación de la MMEA son las fuentes oficiales para seguir los
 acontecimientos año tras año.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

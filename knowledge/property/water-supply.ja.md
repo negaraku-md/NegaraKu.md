@@ -119,3 +119,5 @@ keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka
 ---
 
 *州ごとの水運営構造、SPAN と PAAB の役割、および Ranhill SAJ が民間事業者であるという地位は、それぞれの公式サイトで直接確認した。口座登録の手続きは、一例として Air Selangor の公式サポート（よくある質問）ページを参照した。詳細は他の州の水道会社によって異なる場合があり、本記事が確認される前に人間のレビュアーによる再確認が必要である。*
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

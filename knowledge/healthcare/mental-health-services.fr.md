@@ -142,3 +142,5 @@ Aucune de ces organisations n'exige un diagnostic, une orientation ou la preuve 
 ## La suite
 
 Pour voir comment s'articule le système de santé public-privé plus large — y compris qui paie quoi et pourquoi — voir [Comment fonctionne réellement le système de santé malaisien](/en/healthcare/how-malaysian-healthcare-works). Pour en savoir plus sur le réseau de cliniques gouvernementales qui sert souvent de premier point de contact, voir [Klinik Kesihatan](/en/healthcare/klinik-kesihatan). Pour les coûts du secteur privé de façon plus large, voir [Hôpitaux privés et coûts](/en/healthcare/private-hospitals-and-costs). Et si une situation devient une question de sécurité physique immédiate, [Urgences médicales et le 999](/en/healthcare/emergencies-999) explique comment fonctionne ce système distinct.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

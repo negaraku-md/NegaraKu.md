@@ -156,3 +156,5 @@ keywords: ["padi", "beras", "kadar sara diri", "SSL", "jelapang padi", "SMART SB
 - **追踪 SMART SBB 的进展**：面积是否接近150,000公顷的目标，以及产量在扩大推行后是否在先导地点维持高位。
 - **留意每年的财政预算案**，关注稻谷保底价、稻谷价格补贴率和农粮补贴拨款总额的任何变动。
 - **阅读官方文件** 《国家农粮政策 2021-2030》（DAN 2.0），可在 KPKM 网站查阅，以了解产量目标、稻农收入及完整的行动计划。
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

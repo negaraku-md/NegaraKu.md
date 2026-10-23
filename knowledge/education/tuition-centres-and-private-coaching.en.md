@@ -113,3 +113,5 @@ Because it is part of a regulated private education system, parents can — and 
 - Prospective operators: start by registering a business entity (SSM), then apply for establishment approval through the MOE system before renting commercial premises.
 - Parents: ask for proof of JPN registration and ensure the centre complies with the prescribed staff requirements.
 - Refer directly to your state JPN or the MOE Private Education Division website for the latest forms, checklists, and fees.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

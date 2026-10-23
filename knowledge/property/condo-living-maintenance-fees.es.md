@@ -120,3 +120,5 @@ La excepción está en la Sección 60(3): una MC puede fijar **tasas diferenciad
 ## Qué sigue
 
 Lee el propio texto de la Ley en el portal de la Cámara del Fiscal General para todo el detalle sección por sección, comprueba si tu esquema sigue bajo un JMB o ya tiene una MC preguntando directamente a tu oficina de gestión, y si estás alquilando en lugar de ser propietario, consulta [Encontrar un alquiler en Malasia](/en/property/finding-a-rental) para ver cómo se muestran y se arriendan estos edificios en primer lugar.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

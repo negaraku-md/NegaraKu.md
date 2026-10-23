@@ -113,3 +113,5 @@ Contexto más amplio a partir de análisis revisados por pares: en 2022 el secto
 ## Qué sigue
 
 Confirme los procedimientos vigentes de licencias, las tarifas y el Director General en funciones directamente en el portal del DOF en dof.gov.my antes de basarse en ellos. Las cifras de producción de 2024 y la historia institucional del departamento aún deben verificarse frente a los informes anuales primarios del DOF.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

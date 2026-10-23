@@ -182,3 +182,5 @@ Dengan kata lain, Malaysia telah membuktikan mekanisme itu berfungsi. Yang belum
 Sinyal langsung untuk diperhatikan adalah **Pembeli Tunggal independen**: memisahkannya sepenuhnya dari TNB adalah perubahan struktural yang akan menjadikan pasar grosir yang netral dan berdaya saing itu dapat dipercaya. Setelah itu, pertanyaannya adalah apakah akses pihak ketiga meluas melampaui energi terbarukan dan melampaui korporat besar — titik di mana pengguna biasa mungkin akhirnya mendapat pilihan pemasok.
 
 Turut patut dilacak adalah bagaimana mekanisme tarif berkembang ketika pasar terbuka, dan apakah periode regulasi 2025–2027 membawa kerangka akses pihak ketiga yang lebih luas yang pertama kali dijanjikan MESI 2.0 pada 2019. Untuk saat ini, reformasi listrik Malaysia tetap menjadi kisah langkah-langkah yang disengaja dan bertahap — pergerakan yang nyata, tetapi jauh dari pasar yang diliberalisasi sepenuhnya.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

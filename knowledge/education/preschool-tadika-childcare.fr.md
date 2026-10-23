@@ -180,3 +180,5 @@ Si vous venez d'enregistrer la naissance de votre enfant, lisez
 [enregistrer une naissance](/fr/settling-in/registering-a-birth) pour connaître
 le processus et les documents connexes avant de passer à l'étape de
 l'enregistrement au préscolaire.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

@@ -359,6 +359,27 @@ precios, producción, SSR) se revisan anualmente y se mueven con el clima, los
 precios mundiales y los ciclos de replantación. Consulte las últimas publicaciones
 del DOSM, la MPOB y los ministerios para obtener datos actuales.
 
+## Explora este tema en profundidad
+
+Las guías clave de esta área:
+
+- [Subsidios agrícolas y apoyo a insumos para los arroceros](/es/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS y el monopolio de importación de arroz de Malasia](/es/agriculture/bernas-rice-import-monopoly/)
+- [Departamento de Pesca de Malasia (DOF)](/es/agriculture/department-of-fisheries-malaysia/)
+- [El comercio de exportación de durián y fruta tropical de Malasia](/es/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/es/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA y RISDA](/es/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/es/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/es/agriculture/fgv-holdings-plantation-restructuring/)
+- [La política de seguridad alimentaria de Malasia y sus objetivos de autosuficiencia](/es/agriculture/food-security-self-sufficiency-policy/)
+- [La industria ganadera y avícola de Malasia](/es/agriculture/livestock-poultry-industry/)
+- [La industria pesquera de Malasia](/es/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/es/agriculture/mardi-agricultural-research-institute/)
+- [Ministerio de Agricultura y Seguridad Alimentaria (KPKM) y sus agencias](/es/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [Los pequeños productores de palma aceitera y la certificación de sostenibilidad MSPO](/es/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [El padi y el arroz en Malasia](/es/agriculture/padi-and-rice-industry/)
+- [La industria del padi y el arroz de Malasia](/es/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## Próximos pasos
 
 - Profundice en la mayor materia prima de exportación en el [panorama del sector del aceite de palma de Malasia](/en/economy/palm-oil-sector) — su escala, instituciones y certificación de sostenibilidad.

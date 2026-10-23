@@ -156,3 +156,5 @@ This makes the mathematics of food security sensitive. If a global rice crisis w
 - **Follow the progress of SMART SBB**: whether the area approaches the 150,000-hectare target and whether yields at pilot sites remain high as it is expanded.
 - **Watch the annual Budget** for any changes to the padi floor price, the Padi Price Subsidy rate, and the total agrofood subsidy allocation.
 - **Read the official document** of the National Agrofood Policy 2021-2030 (DAN 2.0) on the KPKM website to understand the production targets, farmers' income and full action plans.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

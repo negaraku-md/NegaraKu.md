@@ -158,3 +158,5 @@ Hiệu quả thực tế là khí đốt công nghiệp ở Malaysia ngày càng
 ## Tiếp theo
 
 Tương lai khí đốt của Malaysia xoay quanh một hành động cân bằng: duy trì xuất khẩu LNG từ Sarawak trong khi quản lý sự phụ thuộc ngày càng tăng của Bán đảo vào nhập khẩu. Hãy theo dõi tốc độ của các phát hiện thượng nguồn mới ở Sarawak và vùng nước sâu Sabah, khả năng có thêm công suất tái hóa khí, và việc bàn giao quyền khí đốt của Sarawak cho thực thể bang [Petroleum Sarawak Berhad](/vi/energy/sarawak-petros-gas-dispute) (Petros), vốn trở thành nhà tập hợp khí đốt duy nhất của Sarawak vào ngày 1 tháng 3 năm 2025 theo Distribution of Gas Ordinance 2016, dù PETRONAS và Petros vẫn đang đàm phán các điều khoản chi tiết hơn sang năm 2026. Về định giá, mỗi kỳ quản lý IBR mới và mỗi lần đặt lại MRP sẽ tiếp tục đặt ra các điều kiện cho người mua công nghiệp. Đối với bất kỳ ai theo dõi năng lượng Malaysia, chuỗi giá trị khí đốt, từ các tổ của Bintulu đến bốn điểm vào của PGU, là hệ thống cần theo dõi.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

@@ -150,3 +150,5 @@ Pergigian 2018（Akta 804）——约束，该法令规范马来西亚牙科专�
 诊所，官方搜寻服务可透过
 [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan)
 门户访问。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

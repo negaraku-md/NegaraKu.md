@@ -171,3 +171,5 @@ lối Công nhận Thành tích Trước đó (PPT) cho lĩnh vực liên quan. 
 nếu người sử dụng lao động của bạn cử bạn đi đào tạo kỹ năng dựa trên
 levy HRD Corp, hãy đọc thêm hướng dẫn về levy HRD Corp để hiểu
 cách việc đào tạo như vậy được tài trợ ở cấp người sử dụng lao động.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

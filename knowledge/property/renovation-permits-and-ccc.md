@@ -111,3 +111,5 @@ Membina tanpa kelulusan bukan perkara remeh. Mengikut panduan MBPJ, antara tinda
 - Untuk tambahan struktur, lantik arkitek atau jurutera untuk mengemukakan pelan melalui One Stop Centre (OSC).
 - Semasa membeli rumah baharu, sahkan status CCC (Borang F/F1) sebelum serah kunci.
 - Simpan salinan CCC — anda memerlukannya untuk permohonan ubah suai pada masa hadapan.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

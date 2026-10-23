@@ -252,6 +252,27 @@ Khung ngắn gọn để biết cửa nào cần gõ:
 - **"Suruhanjaya Tenaga quản lý cả nước."** Phạm vi quản lý của ST là Bán đảo Malaysia và Labuan; Sabah và Sarawak có các sắp xếp riêng của mình.
 - **"Mục tiêu 70% năng lượng tái tạo nghĩa là 70% mọi năng lượng của đất nước."** Mục tiêu NETR đó đề cập đến công suất năng lượng tái tạo trong cơ cấu điện (việc phát điện), không phải toàn bộ hệ thống năng lượng bao gồm giao thông và công nghiệp.
 
+## Tìm hiểu sâu về chủ đề này
+
+Các hướng dẫn chính trong lĩnh vực này:
+
+- [Cải cách Ngành Cung cấp Điện](/vi/energy/electricity-supply-industry-reform-mesi/)
+- [Cách Cấu trúc Biểu giá Điện Hoạt động ở Malaysia](/vi/energy/electricity-tariff-structure/)
+- [Suruhanjaya Tenaga](/vi/energy/energy-commission-suruhanjaya-tenaga/)
+- [Luật Hiệu quả và Bảo tồn Năng lượng](/vi/energy/energy-efficiency-conservation-act/)
+- [Cách Malaysia Ấn định Giá Nhiên liệu Hằng tuần](/vi/energy/fuel-pricing-mechanism/)
+- [Hệ thống Trợ cấp Nhiên liệu của Malaysia](/vi/energy/fuel-subsidy-system/)
+- [Hydro và Thu giữ Carbon (CCUS) ở Malaysia](/vi/energy/hydrogen-ccus-malaysia/)
+- [Thủy điện ở Malaysia](/vi/energy/hydropower-malaysia/)
+- [Lộ trình Chuyển đổi Năng lượng Quốc gia (NETR)](/vi/energy/national-energy-transition-roadmap-netr/)
+- [Khí đốt Tự nhiên và LNG ở Malaysia](/vi/energy/natural-gas-lng-malaysia/)
+- [Petroleum Development Act 1974](/vi/energy/petroleum-development-act-1974/)
+- [Năng lượng Tái tạo ở Malaysia](/vi/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/vi/energy/sarawak-energy-berhad/)
+- [Petros và Tranh chấp Khí đốt Sarawak](/vi/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaysia](/vi/energy/seda-malaysia/)
+- [Năng lượng mặt trời tại Malaysia](/vi/energy/solar-energy-malaysia/)
+
 ## Tiếp theo
 
 Nếu bạn là người tiêu dùng, bước thực tế nhất là hiểu hóa đơn điện RP4 mới của bạn (bốn thành phần) và kiểm tra điều kiện trợ cấp BUDI95 của bạn. Nếu bạn là chủ nhà quan tâm đến việc tiết kiệm hóa đơn, hãy khám phá chương trình NEM của SEDA cho điện mặt trời mái nhà.

@@ -161,3 +161,5 @@ Nếu bạn muốn hiểu hoặc cân nhắc việc hiến tạng:
 - Để biết số liệu thống kê mới nhất, hãy xem bảng điều khiển chính thức [KKMNOW](https://data.moh.gov.my/dashboard/organ-donation).
 
 *Bài viết này mang tính thông tin chung và trung lập; nó không phải là lời khuyên y tế hay tôn giáo. Hãy tham khảo các nguồn chính thức và cơ quan liên quan cho các quyết định cá nhân.*
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

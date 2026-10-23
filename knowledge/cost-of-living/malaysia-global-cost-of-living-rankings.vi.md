@@ -137,3 +137,5 @@ Cục Thống kê Malaysia (DOSM) đo lường một thứ khác. Chỉ số Gi�
 ## Tiếp theo
 
 Hãy dùng các chỉ số này như một hướng dẫn mang tính định hướng, không phải một ngân sách cá nhân. Nếu bạn đang lên kế hoạch cho một cuộc chuyển đến hoặc một vị trí bố trí, hãy lấy các tiêu đề Mercer và EIU của năm hiện tại để biết thứ hạng, đối chiếu trang cấp thành phố của Numbeo cho Kuala Lumpur, Penang hoặc Johor Bahru, rồi neo các con số thực vào dữ liệu giá nội địa của DOSM. Các bảng xếp hạng dịch chuyển theo từng năm cùng với tỷ giá hối đoái, nên hãy luôn trích dẫn ấn bản khảo sát mà bạn đang dẫn.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

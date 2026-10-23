@@ -146,3 +146,5 @@ Según la Organización Mundial de la Salud (OMS), el Libro Blanco recibió la a
 Malasia ha pasado de la gestión de la pandemia a una fase endémica, con el fin de las restricciones generalizadas y la atención desplazándose hacia la recuperación a largo plazo del sistema de salud. Entre los desarrollos relevantes por venir figuran la implementación por fases del Libro Blanco de la Salud, las mejoras en la oferta de personal de salud pública y el uso continuado de infraestructura digital como MySejahtera en los servicios de salud.
 
 Este borrador se preparó con asistencia de IA y requiere revisión humana. Todas las cifras y fechas deben volver a verificarse frente a las fuentes oficiales más recientes, como los paneles COVIDNOW/KKMNOW del Ministerio de Salud, antes de su publicación.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

@@ -134,3 +134,5 @@ Este artículo no toma partido en ese debate. Lo que queda claro a partir del re
 - Los estudiantes y los padres pueden comparar ambas vías en cuanto a ubicación, programa y fechas de solicitud antes de elegir.
 
 > Nota: Este es un borrador generado por IA que requiere revisión humana. Las cifras y las políticas pueden cambiar — verifícalas con las fuentes oficiales de MARA y del MOE antes de tomar cualquier decisión.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

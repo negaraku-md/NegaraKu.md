@@ -201,3 +201,5 @@ Si vous cherchez à vous situer dans cette industrie, quelques questions tranche
 La Stratégie nationale des semi-conducteurs en est à ses débuts. Les signaux à court terme à surveiller sont de savoir si l'investissement de la phase 1 continue de grimper vers l'objectif de RM500 milliards, si la première cohorte de champions locaux de la conception et du conditionnement avancé atteint réellement la barre du RM1 milliard de chiffre d'affaires, et si le vivier de 60,000 ingénieurs se matérialise assez vite pour éviter un goulet d'étranglement du talent. Le test plus difficile et plus tardif est la phase 3 : savoir si la Malaisie peut attirer la fabrication de plaquettes en amont, compte tenu du capital en jeu.
 
 Comme ce sont des chiffres mouvants, traitez chaque nombre présenté ici comme un instantané lié à la date de sa source. Pour le panorama autorisé et le plus actuel, consultez directement la MIDA et le MITI, et recoupez les mises à jour officielles d'investissement plutôt que de vous fier à une seule annonce.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

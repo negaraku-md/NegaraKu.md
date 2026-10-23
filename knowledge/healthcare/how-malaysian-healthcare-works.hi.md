@@ -152,6 +152,40 @@ MOH की अपनी Health Facts 2024 रिपोर्ट (संदर्
 - **नियोक्ताओं का यह मानना कि SPIKPA वैकल्पिक है या एकबारगी खरीद है।** यह हर वर्क-परमिट नवीनीकरण चक्र से जुड़ी एक आवर्ती आवश्यकता है, नियुक्ति के समय एक बार खरीदी गई पॉलिसी नहीं।
 - **पर्यटकों का यह मानना कि यात्रा बीमा और स्थानीय योजनाएँ आपस में बदली जा सकती हैं।** PeKa B40, MySalam या नागरिक शुल्क-सूची में से कोई भी किसी आगंतुक पर लागू नहीं होती; यात्रा से पहले खरीदा गया यात्रा/चिकित्सा बीमा ही एकमात्र व्यावहारिक सुरक्षा-जाल है।
 
+## इस विषय को विस्तार से जानें
+
+इस क्षेत्र की प्रमुख गाइड:
+
+- [मलेशिया में गर्भपात कानून](/hi/healthcare/abortion-law-in-malaysia/)
+- [क्या वह सचमुच डॉक्टर है? मलेशिया में डॉक्टरों और स्वास्थ्य पेशेवरों के पंजीकरण की पुष्टि कैसे करें](/hi/healthcare/allied-health-and-medical-practitioner-registration/)
+- [मलेशिया में रक्तदान](/hi/healthcare/blood-donation-and-national-blood-centre/)
+- [फार्मेसी काउंटर के पीछे](/hi/healthcare/buying-medicine-pharmacies/)
+- [हर बच्चे के लिए मुफ़्त टीके](/hi/healthcare/childhood-vaccination/)
+- [मलेशिया में COVID-19](/hi/healthcare/covid-19-pandemic-response-and-legacy/)
+- [सरकारी या निजी दंत क्लीनिक? मलेशिया की दो दंत देखभाल प्रणालियों को समझना](/hi/healthcare/dental-care/)
+- [मधुमेह, मोटापा और गैर-संचारी रोग](/hi/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [मलेशिया में दिव्यांग व्यक्तियों (OKU) के लिए स्वास्थ्य सेवा पहुँच](/hi/healthcare/disability-and-oku-healthcare-access/)
+- [मलेशिया में चिकित्सा आपात स्थितियाँ](/hi/healthcare/emergencies-999/)
+- [मलेशिया के सरकारी अस्पताल](/hi/healthcare/government-hospitals/)
+- [टीकों और दवाओं का हलाल दर्जा](/hi/healthcare/halal-status-of-vaccines-and-medicines/)
+- [मलेशिया में शिशु का जन्म](/hi/healthcare/having-a-baby-in-malaysia/)
+- [स्वास्थ्य श्वेत पत्र](/hi/healthcare/health-white-paper-and-system-reform/)
+- [जब कोई माता-पिता अकेले नहीं सँभाल सकते](/hi/healthcare/healthcare-for-seniors/)
+- [मलेशिया में HIV/AIDS और यौन स्वास्थ्य सेवाएँ](/hi/healthcare/hiv-aids-and-sexual-health-services/)
+- [Klinik Kesihatan](/hi/healthcare/klinik-kesihatan/)
+- [मलेशिया में चिकित्सा बीमा](/hi/healthcare/medical-insurance/)
+- [मलेशिया का शांत चिकित्सा-पर्यटन उछाल, और इसके पीछे की एजेंसी](/hi/healthcare/medical-tourism/)
+- [मलेशिया में मानसिक-स्वास्थ्य सहायता कहाँ पाएँ](/hi/healthcare/mental-health-services/)
+- [MySejahtera और मलेशिया की डिजिटल-स्वास्थ्य मुहिम](/hi/healthcare/mysejahtera-and-digital-health-records/)
+- [मलेशिया में अंगदान](/hi/healthcare/organ-donation-and-transplant-registry/)
+- [मलेशिया में उपशामक और धर्मशाला देखभाल](/hi/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/hi/healthcare/peka-b40-and-health-schemes/)
+- [एक भर्ती के दो बिल](/hi/healthcare/private-hospitals-and-costs/)
+- [मलेशिया की सार्वजनिक स्वास्थ्य देखभाल प्रणाली](/hi/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/hi/healthcare/smoking-and-vaping-law-act-852/)
+- [मलेशिया में टेलीमेडिसिन](/hi/healthcare/telemedicine-and-online-doctor-services/)
+- [पारंपरिक एवं पूरक चिकित्सा](/hi/healthcare/traditional-and-complementary-medicine/)
+
 ## आगे क्या
 
 जो सामाजिक-बीमा योजना मलेशियाई कर्मचारियों को विशेष रूप से कार्यस्थल चोट और अशक्तता के लिए कवर करती है — ऊपर वर्णित किसी भी चीज़ से भिन्न एक तंत्र — उसके लिए देखें [PERKESO (SOCSO)](/glossary/socso-perkeso)। इस पृष्ठ पर जो कुछ है उसे चलाने और नियमित करने वाले मंत्रालय के लिए, Kementerian Kesihatan Malaysia (KKM) देखें, जब उस निकाय का पृष्ठ प्रकाशित हो जाए।

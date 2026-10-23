@@ -234,3 +234,5 @@ If you are researching further, the highest-value next steps are:
 - Follow the annual **PETRONAS Integrated Report** and **DOSM quarterly petroleum statistics** for the latest production, export and contribution figures.
 
 Those primary sources will keep you current as the numbers move — but the underlying architecture, one owner licensing many contractors under production-sharing terms, has held since 1974 and shows no sign of changing.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

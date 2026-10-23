@@ -160,3 +160,5 @@ Pour rétablir la pérennité de l'agence, le Livre blanc de FELDA de 2019 avait
 Dans le même temps, la délivrance des concessions foncières aux colons est proche de son achèvement : en juillet 2026, **109,104 des 112,638 colons (96.86%)** avaient reçu leurs concessions foncières.
 
 Pour les colons et leur deuxième génération, quelques mesures pratiques judicieuses consistent à confirmer l'état de la concession foncière de la famille, à comprendre les restrictions de la loi de 1960 avant de planifier une succession et à suivre l'avancement des amendements à l'étude. Surveillez le site web officiel de FELDA et les annonces du gouvernement pour connaître les détails des amendements définitifs.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

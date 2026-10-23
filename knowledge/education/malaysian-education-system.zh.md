@@ -180,6 +180,36 @@ SPM是分支真正显现的节点。大致而言，有四条路线由此通向�
 - **以为「理工学院」与「社区学院」可以互换。** 两者虽同属高等教育部管辖，却是提供不同资格等级的不同类型机构。
 - **把教育部（管学校）与高等教育部（管大学）混为一谈。** 这是两个各自拥有独立门户网站、预算与部长的部门。
 
+## 深入了解本主题
+
+本领域的重点指南：
+
+- [马来西亚学校校历与学校假期](/zh/education/academic-calendar-and-school-holidays/)
+- [如何为孩子报读政府学校](/zh/education/enrolling-in-a-government-school/)
+- [外国大学分校与教育枢纽](/zh/education/foreign-university-branch-campuses-and-education-hubs/)
+- [资优生教育（PERMATApintar）](/zh/education/gifted-and-talented-education/)
+- [马来西亚在家教育](/zh/education/homeschooling/)
+- [马来西亚国际学校](/zh/education/international-schools/)
+- [作为国际学生在马来西亚留学](/zh/education/international-students-studying-in-malaysia/)
+- [马来西亚的伊斯兰与宗教学校](/zh/education/islamic-and-religious-schools/)
+- [JPA与马来西亚主要公共奖学金计划](/zh/education/jpa-and-public-scholarships/)
+- [MQA 与马来西亚学位认证](/zh/education/malaysian-qualifications-agency-and-accreditation/)
+- [马来西亚的学校体制](/zh/education/malaysian-school-system/)
+- [玛拉初级理科学院（MRSM）与全寄宿学校（SBP）](/zh/education/mrsm-and-fully-residential-schools/)
+- [MUET 与大学入学考试](/zh/education/muet-and-university-entrance-tests/)
+- [国小、华小与淡小](/zh/education/national-schools-sk-sjkc-sjkt/)
+- [家长教师协会（PIBG）与在政府学校就读的费用](/zh/education/pibg-and-school-fees/)
+- [STPM、Matrikulasi、Foundation 还是 A-Level](/zh/education/pre-university-routes/)
+- [Taska、Tadika、Prasekolah](/zh/education/preschool-tadika-childcare/)
+- [私立学校与华文独立中学](/zh/education/private-and-chinese-independent-schools/)
+- [PTPTN 不是奖学金](/zh/education/ptptn-student-loan/)
+- [IPTA还是IPTS？大马公立与私立大学到底有何不同](/zh/education/public-vs-private-universities/)
+- [马来西亚特殊教育](/zh/education/special-education-and-learning-support/)
+- [马来西亚的补习中心与私人辅导](/zh/education/tuition-centres-and-private-coaching/)
+- [并非条条道路通向大学](/zh/education/tvet-and-skills-training/)
+- [统一考试文凭（UEC）](/zh/education/unified-examination-certificate-uec/)
+- [从UPSR到SPM](/zh/education/upsr-to-spm-exams/)
+
 ## 下一步
 
 本文是地图，不是目的地——它刻意不深入任何单一分支，为的是指向更详细的内容。关于SPM与学校考试体系、关于如何在STPM、Matrikulasi与私立大学先修路线之间做选择、关于TVET认证实际如何运作，以及关于公立大学招生如何协调运作的专题文章，都收录在NegaraKu.md本篇概览之下，深入本文只作概括介绍的具体机制。

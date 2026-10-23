@@ -109,3 +109,5 @@ Porque no deja de cambiar. Los límites en ringgit de B40/M40/T20 se recalculan 
 - **Para su posición exacta:** consulte el informe completo de la Encuesta de Ingresos de los Hogares de 2024 en el portal del DOSM, que enumera los valores de corte más recientes.
 - **Para comprobar ayudas:** recuerde que la mayoría de los programas evalúan el ingreso de todo el hogar, no el salario de una sola persona.
 - **Para una comparación justa:** pondere el costo de vida local — la misma etiqueta significa cosas distintas en una gran ciudad frente a una zona rural.
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

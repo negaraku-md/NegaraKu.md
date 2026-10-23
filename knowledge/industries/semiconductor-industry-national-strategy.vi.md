@@ -201,3 +201,5 @@ Nếu bạn đang cố định vị mình trong ngành này, một vài câu h�
 Chiến lược Bán dẫn Quốc gia còn sơ khai. Các tín hiệu ngắn hạn cần theo dõi là liệu đầu tư Giai đoạn 1 có tiếp tục leo lên hướng tới mục tiêu RM500 tỷ hay không, liệu nhóm nhà vô địch thiết kế và đóng gói tiên tiến trong nước đầu tiên có thực sự đạt mốc doanh thu RM1 tỷ hay không, và liệu dòng 60,000 kỹ sư có thành hiện thực đủ nhanh để tránh một nút thắt nhân tài hay không. Phép thử khó hơn, muộn hơn là Giai đoạn 3: liệu Malaysia có thể thu hút chế tạo wafer tiền kỳ hay không, xét đến số vốn liên quan.
 
 Vì đây là những con số động, hãy coi mọi con số ở đây như một ảnh chụp nhanh gắn với ngày nguồn của nó. Để có bức tranh có thẩm quyền và cập nhật nhất, hãy kiểm tra MIDA và MITI trực tiếp, và đối chiếu chéo các cập nhật đầu tư chính thức thay vì dựa vào một thông báo đơn lẻ.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

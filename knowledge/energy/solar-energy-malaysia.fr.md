@@ -165,3 +165,5 @@ Cela permet aux propriétaires de tirer de la valeur d'un espace de toiture inut
 Les dispositifs solaires de la Malaisie évoluent rapidement, et des dates importantes approchent. Le quota du NEM 3.0 a pris fin le 30 juin 2025 — si vous êtes propriétaire ou entreprise, consultez le quota restant sur le portail de la SEDA et demandez des devis à des installateurs enregistrés le plus tôt possible. Les entreprises envisageant le CRESS ou le CGPP devraient calculer l'impact de la Charge d'accès au système sur leur coût énergétique total avant de signer un PPA. Pour les investisseurs, les résultats de l'enchère LSS5 et les futurs tours de LSS fixeront la direction du marché solaire de services publics du pays.
 
 Soyez attentif aux annonces officielles de la Commission de l'énergie, de la SEDA et du Single Buyer concernant les nouveaux quotas, les changements de tarifs et les dispositifs successeurs après la fin du NEM 3.0.
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

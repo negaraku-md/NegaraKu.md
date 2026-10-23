@@ -139,3 +139,5 @@ Singkatnya: orang tua yang berharap "UPSR versi baru" akan kembali sepenuhnya ti
 ## Apa yang selanjutnya
 
 Untuk memahami ke mana jalur persekolahan membawa setelah SPM, baca `/id/education/public-vs-private-universities` mengenai perbedaan penerimaan IPTA dan IPTS. Jika anak Anda seorang pelajar internasional atau keluarga baru pindah ke Malaysia, `/id/education/international-students-studying-in-malaysia` menjelaskan bagaimana sistem persekolahan lokal berfungsi bagi bukan warga negara.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

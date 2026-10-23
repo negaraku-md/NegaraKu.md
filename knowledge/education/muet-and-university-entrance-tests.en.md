@@ -175,3 +175,5 @@ If you are planning to continue to the degree level:
 4. **Refer to the official MPM portal** for current examination dates, fees, registration procedures and the latest format specifications before sitting for the test.
 
 For official and up-to-date information on registration, dates and format, refer to the Malaysian Examinations Council portal at mpm.edu.my.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

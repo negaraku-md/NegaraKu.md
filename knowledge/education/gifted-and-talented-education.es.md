@@ -135,3 +135,5 @@ Ambas comparten el mismo principio: una educación uniforme no es adecuada para 
 Si usted es un padre o docente que sospecha que un niño podría tener potencial de superdotación y talento, el primer paso es estar atento a las fechas de inscripción de la prueba UKM1 anunciadas a través del sitio web oficial del Pusat PERMATA@Pintar Negara, UKM. Consulte también los calendarios de los programas de enriquecimiento PPCS y HSEP si su hijo se encuentra en el rango de edad de 9 a 16 años.
 
 Para tener un panorama completo de las vías de apoyo al aprendizaje en Malasia, lea también el artículo complementario sobre la educación para necesidades especiales y la estructura del sistema escolar nacional. Los detalles de las pruebas, las fechas y las corrientes de los programas pueden cambiar de un año a otro — confirme siempre la información más reciente directamente en el sitio web oficial de la UKM antes de tomar decisiones.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

@@ -145,3 +145,5 @@ En somme, atteindre un SSL élevé n'est pas seulement une question de semer dav
 Surveillez les *Comptes d'approvisionnement et d'utilisation* annuels du DOSM pour connaître les chiffres de SSR les plus récents de chaque produit — c'est la mesure officielle qui détermine si la Malaisie se rapproche ou s'éloigne des objectifs de la DAN 2.0. Gardez également un œil sur la revue à mi-parcours du RMK-12 et sur les allocations budgétaires pour les programmes de paddy, car l'objectif intermédiaire de 75% (2025) est un indicateur précoce de la possibilité d'atteindre encore l'objectif de 80% (2030).
 
 Pour un panorama plus approfondi, les articles connexes sur l'industrie du paddy et le rôle du KPKM expliqueront les mécanismes de mise en œuvre qui sous-tendent ces chiffres politiques.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

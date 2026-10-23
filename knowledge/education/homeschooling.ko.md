@@ -98,3 +98,5 @@ keywords: ["homeschooling Malaysia", "Education Act 1996", "Section 29A", "Secti
 ## 다음 단계
 
 홈스쿨링을 진지하게 고려하고 있다면, 실질적인 출발점은 자녀의 나이와 상관없이 동일합니다. 현재의 면제 신청 요건을 주 교육국(JPN)에 직접 문의하고, 모든 제출물과 회신을 서면으로 보관하며, 제32A조의 중등 교육 의무를 결국 시행하게 할 고시가 나오는지 관보(Warta Kerajaan)를 확인하십시오. 그 고시가 더 나이가 많은 자녀에게 「준수」가 무엇을 뜻하는지를 바꿀 것이기 때문입니다.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

@@ -136,3 +136,5 @@ El Libro Blanco de la Salud ha logrado una cosa importante: colocó sobre la mes
 Primero, hace falta crear un órgano de aplicación y seguimiento con poder efectivo; sin él, la reforma por fases carece de motor. Segundo, las difíciles decisiones de financiación — ya sea un sistema contributivo, impuestos pro-salud o una combinación — tienen que finalizarse y explicarse a la población.
 
 Para los lectores, lo más útil que conviene observar en los próximos años es: si finalmente se crea una comisión u órgano de aplicación, y si las propuestas de financiación pasan del estudio a la política. Hasta que ocurran ambas cosas, el Libro Blanco sigue siendo una visión convincente, pero una que aún no se ha aplicado por completo.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

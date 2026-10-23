@@ -136,3 +136,5 @@ keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia",
 - [สามระดับของรัฐบาลมาเลเซีย](/government/three-tiers-of-government) สหพันธ์ รัฐ และท้องถิ่นมีอำนาจแตกต่างกันอย่างไร
 - [การแบ่งอำนาจระหว่างสหพันธ์กับรัฐ](/government/federal-state-division) เหตุใดที่ดินจึงรวมอยู่ในบัญชีอำนาจของรัฐ
 - [สภานิติบัญญัติแห่งรัฐ (DUN)](/government/state-assemblies-dun) องค์กรที่อนุมัติกฎหมายที่ดินของรัฐ
+
+ดูคู่มือฉบับเต็ม: [การซื้อบ้านในมาเลเซีย](/th/property/buying-a-home-process/)

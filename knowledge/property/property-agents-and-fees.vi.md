@@ -111,3 +111,5 @@ Môi giới cũng có thể đòi các chi phí bổ sung như quảng cáo, in 
 - Hãy xác nhận tình trạng của môi giới và hãng của bạn tại [cổng tra cứu của LPEPH](https://lpeph.gov.my/search-listing) trước khi ký bất kỳ thỏa thuận nào.
 - Hãy kiểm tra biểu phí đầy đủ và điều kiện đòi chi phí tại [trang phí chính thức của LPEPH](https://lpeph.gov.my/fees).
 - Đối với giao dịch cho thuê, hãy hiểu thêm các điều khoản của hợp đồng thuê và tiền đặt cọc trước khi môi giới xử lý khoản thanh toán.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

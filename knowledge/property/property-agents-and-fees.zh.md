@@ -111,3 +111,5 @@ keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan
 - 在签署任何协议之前，先在 [LPEPH 查验门户网站](https://lpeph.gov.my/search-listing) 核实你的经纪人与公司的状态。
 - 在 [LPEPH 官方收费页面](https://lpeph.gov.my/fees) 查看完整的收费表与费用申索条件。
 - 对于租赁交易，在经纪人处理付款之前，也请了解租赁协议与押金的条款。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

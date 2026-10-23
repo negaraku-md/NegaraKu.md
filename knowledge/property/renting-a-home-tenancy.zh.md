@@ -168,3 +168,5 @@ faq:
 ## 下一步
 
 租赁协议一旦签署并盖印花后，接下来的实际步骤通常是将水电账户改到租客名下，并了解与租金并行的任何建筑层级收费。关于 Change of Tenancy 流程及其自身按金的运作方式，见[开设 TNB 电力账户](/zh/property/electricity-tnb-account)；若该单位属于设有自己管理机构的分层地契物业，见[公寓生活与管理费](/zh/property/condo-living-maintenance-fees)。如果你尚未找到单位，或还没核实对方的身份，[在马来西亚寻找租房](/zh/property/finding-a-rental)一文涵盖了各大平台，以及在任何按金易手之前应先完成的 REN 注册核实。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

@@ -152,3 +152,5 @@ L'étape finale pour un logement est le **transfert de propriété au bureau fon
 - **Obtenez un avis qualifié :** comme ce sujet touche au droit religieux et aux droits de la famille, consultez un avocat charaïque/civil ou un agent d'Amanah Raya pour votre cas précis, et confirmez chaque chiffre auprès des sources officielles les plus récentes.
 
 *Ce brouillon a été préparé avec l'aide de l'IA et n'a pas fait l'objet d'une relecture humaine par un expert. Il s'agit d'informations générales uniquement, et non d'un conseil juridique ou religieux.*
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

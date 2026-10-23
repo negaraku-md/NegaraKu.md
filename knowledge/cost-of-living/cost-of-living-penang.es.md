@@ -226,3 +226,5 @@ Valle de Klang:
   y el [Índice de Precios al Consumidor, enero de 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025);
   la [inscripción de George Town/Melaka como Patrimonio de la Humanidad](https://whc.unesco.org/en/list/1223/) de la UNESCO;
   y los [informes del Índice de Precios de la Vivienda de Malasia](https://napic.jpph.gov.my/) de NAPIC para el contexto del mercado inmobiliario.
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

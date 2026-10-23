@@ -156,3 +156,5 @@ Si está planificando cómo financiar sus estudios, los siguientes pasos prácti
 - **Lea las condiciones del vínculo.** Examine detenidamente el período de servicio, las condiciones de conversión del préstamo, y si necesita renunciar al PTPTN.
 
 Este borrador se preparó con asistencia de IA y aún no ha pasado por una revisión humana; verifique cada cifra frente a las fuentes oficiales antes de tomar cualquier decisión.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

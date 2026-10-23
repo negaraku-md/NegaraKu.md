@@ -202,3 +202,5 @@ El marco de RE de Malasia se mueve rápido: las cuotas abren y cierran, los esqu
 - **Haga coincidir primero el esquema con su perfil** (hogar → SELCO / Solar ATAP; C&I → NOVA mientras dure, luego SELCO; comprador corporativo → CGPP o CRESS), y luego confirme la cuota vigente y las reglas en el portal del organismo administrador: SEDA para NEM/FiT, la Comisión de Energía y el Single Buyer para los programas corporativos.
 - **Verifique su región.** La Península, Sabah y Sarawak difieren; no dé por hecho que un esquema peninsular está disponible donde usted está.
 - **Trate cualquier cifra marcada como *Verificación necesaria* como provisional** hasta que se confirme frente a una fuente primaria: los antiguos desgloses de participación de RE sobre el consumo y la meta de capacidad en MW absolutos de MyRER siguen sin verificarse.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

@@ -142,3 +142,5 @@ Why it matters: recognition is what lets a graduate enter public-sector employme
 ## What's next
 
 If you are choosing a course, open the MQR and confirm the programme's status *before* you pay a deposit — provisional or full is fine, absent is not. If a programme you are interested in is not listed, ask the institution directly for its MQA reference and status in writing, and treat vague answers as a warning sign. For regulated professions, contact the relevant professional body to confirm the graduate route to registration. Employers and HR teams can use the same register to validate a candidate's stated qualification in minutes.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

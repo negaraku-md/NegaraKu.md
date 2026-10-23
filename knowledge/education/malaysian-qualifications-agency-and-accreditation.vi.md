@@ -143,3 +143,5 @@ Vì sao nó quan trọng: sự công nhận là điều cho phép một người
 ## Tiếp theo
 
 Nếu bạn đang chọn một khóa học, hãy mở MQR và xác nhận tình trạng của chương trình *trước khi* bạn trả tiền đặt cọc — tạm thời hay đầy đủ đều được, vắng mặt thì không. Nếu một chương trình bạn quan tâm không được liệt kê, hãy hỏi cơ sở trực tiếp về mã tham chiếu MQA và tình trạng của nó bằng văn bản, và coi các câu trả lời mơ hồ là một dấu hiệu cảnh báo. Đối với các nghề được quản lý, hãy liên hệ với cơ quan nghề nghiệp liên quan để xác nhận con đường của người tốt nghiệp đến việc đăng ký. Người sử dụng lao động và các nhóm nhân sự có thể dùng cùng sổ đăng ký để xác thực bằng cấp được nêu của một ứng viên trong vài phút.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

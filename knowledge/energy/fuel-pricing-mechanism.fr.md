@@ -111,3 +111,5 @@ Les prix annoncés entrent en vigueur pour une semaine complète. Par exemple, l
 ## La suite
 
 Pour trouver les prix les plus récents chaque semaine, consultez les communiqués de presse officiels du ministère des Finances ou le jeu de données sur le prix de l'essence et du diesel d'OpenDOSM. Si vous voulez comprendre qui est éligible au tarif de RM1.99 du RON95 et comment fonctionne le plafond de 300 litres, consultez l'article connexe sur le programme de subvention BUDI95.
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

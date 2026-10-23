@@ -156,3 +156,5 @@ KKM 시설의 요금은 시장 요율이 아니라 수수료법(Fees Act 1951, A
 ## 다음으로
 
 이 의뢰 체계의 진입점으로서 클리닉 크시하탄의 역할을 더 자세히 이해하려면 [클리닉 크시하탄(Klinik Kesihatan): 말레이시아 정부의 1차 의료 체계가 실제로 작동하는 방식](/ko/healthcare/klinik-kesihatan)을 읽어 보십시오. 민간 병원 비용과의 비교는 [민간 병원과 그 비용](/ko/healthcare/private-hospitals-and-costs)을 둘러보십시오. B40 가구는 [PeKa B40와 기타 건강 제도](/ko/healthcare/peka-b40-and-health-schemes)에서 추가 혜택을 확인할 수 있으며, 고령자는 [고령자를 위한 의료](/ko/healthcare/healthcare-for-seniors)에서 더 읽어 볼 수 있습니다. 실제 응급 상황은 [응급과 999](/ko/healthcare/emergencies-999)를 참조하십시오.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

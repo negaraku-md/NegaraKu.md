@@ -236,3 +236,5 @@ sementara lansia dapat membaca lebih lanjut di
 [Perawatan Kesehatan untuk Lansia](/id/healthcare/healthcare-for-seniors).
 Untuk situasi kedaruratan sebenarnya, rujuk
 [Kecemasan dan 999](/id/healthcare/emergencies-999).
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

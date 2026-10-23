@@ -113,3 +113,5 @@ Rang undang-undang asal mengandungi peruntukan *generational endgame* (GEG) yang
 ## What's next
 
 Semak sama ada premis anda — kedai runcit atau tempat makan — mematuhi larangan pameran dan tanda amaran sebelum tarikh akhir pematuhan. Ibu bapa dan pendidik boleh melaporkan jualan kepada bawah umur kepada Kementerian Kesihatan Malaysia. Perhatikan juga penurunan had nikotin kepada 20 mg/ml pada 1 Oktober 2025 dan seruan berterusan sesetengah pihak untuk memperkenalkan semula GEG di bawah Akta 852.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

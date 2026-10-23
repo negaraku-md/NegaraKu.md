@@ -137,6 +137,33 @@ Pembeli — bukan penjual — adalah pihak yang bertanggung jawab secara hukum u
 - **Mengacaukan peran pengacara SPA dengan peran pengacara bank.** Pengacara bank ditunjuk untuk melindungi gadaian bank, bukan untuk merundingkan ketentuan SPA pembeli.
 - **Mengutip ambang pembebasan bea meterai dari catatan blog seolah-olah ia tetap.** Perintah pembebasan adalah instrumen perundang-undangan yang memiliki tanggal mulai dan berakhir masing-masing — pastikan yang sedang berlaku sebelum membuat anggaran berdasarkannya.
 
+## Jelajahi topik ini lebih dalam
+
+Panduan utama di bidang ini:
+
+- [Skema Rumah Terjangkau Pemerintah (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/id/property/affordable-housing-schemes/)
+- [Pajak Pintu dan Pajak Tanah](/id/property/assessment-and-quit-rent/)
+- [Kehidupan Kondominium di Malaysia](/id/property/condo-living-maintenance-fees/)
+- [Akun Listrik TNB, SESB dan Sarawak Energy](/id/property/electricity-tnb-account/)
+- [Mencari Rumah Sewa di Malaysia](/id/property/finding-a-rental/)
+- [Bisakah Warga Asing Membeli Properti di Malaysia? Harga Minimum dan Persetujuan Negeri Diuraikan](/id/property/foreigners-buying-property/)
+- [Freehold, Leasehold, Strata, Landed](/id/property/freehold-leasehold-strata-landed/)
+- [Pasokan Gas di Rumah](/id/property/gas-supply-piped-cooking-gas/)
+- [Komunitas Berpagar dan Lingkungan Berpengawal di Malaysia](/id/property/gated-communities-and-security/)
+- [Pinjaman Perumahan dan Pembiayaan Hipotek di Malaysia](/id/property/home-loan-mortgage-financing/)
+- [Perlindungan Pembeli Rumah](/id/property/homebuyer-protection-abandoned-projects/)
+- [IWK Bukan Perusahaan Air](/id/property/indah-water-sewerage/)
+- [Jalur Lebar Fiber Rumah di Malaysia](/id/property/internet-and-fibre/)
+- [Bekerja dengan Agen Properti](/id/property/property-agents-and-fees/)
+- [Membeli Properti di Pelelangan (Bank Lelong)](/id/property/property-auctions-foreclosure/)
+- [Pewarisan Harta](/id/property/property-inheritance-faraid-distribution/)
+- [Pajak Keuntungan Harta Tanah (RPGT) Saat Menjual Properti](/id/property/real-property-gains-tax/)
+- [Persetujuan Renovasi Rumah dan Sertifikat Perakuan Siap dan Pematuhan (CCC)](/id/property/renovation-permits-and-ccc/)
+- [Menyewa di Malaysia Tidak Ada Undang-Undang Sewa](/id/property/renting-a-home-tenancy/)
+- [Sampah, Daur Ulang dan Majelis Setempat](/id/property/rubbish-and-local-council/)
+- [Tata Kelola Properti Strata](/id/property/strata-management-jmb-mc/)
+- [Pasokan Air Malaysia](/id/property/water-supply/)
+
 ## Apa selanjutnya
 
 Untuk memahami apa yang sebenarnya dijanjikan oleh hak milik yang akan Anda terima — hak milik bebas dibandingkan pajakan, dan strata dibandingkan tapak — lihat [Hak Milik Bebas, Pajakan, Strata, Tapak](/id/property/freehold-leasehold-strata-landed). Untuk undang-undang di balik Memorandum Pindah Milik dan Gadaian yang membuat pendaftaran di Kantor Pertanahan berfungsi, lihat [National Land Code 1965](/id/law/national-land-code).

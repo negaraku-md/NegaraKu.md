@@ -112,3 +112,5 @@ keywords: ["cost of living Kuala Lumpur", "Klang Valley cost of living", "Kuala 
 ## อ่านต่อ
 
 สำหรับด้านการเดินทางของภาพต้นทุนนี้ ดู[รถไฟหุบเขากลัง](/th/transport/klang-valley-rail) เพื่อดูว่าเครือข่าย LRT, MRT และ KTM Komuter เชื่อมสลังงอร์กับใจกลางเมืองอย่างไร และ[Touch 'n Go](/th/transport/touch-n-go) เพื่อดูว่าการชำระค่าทางด่วนบนทางด่วนหุบเขากลังถูกเก็บอย่างไรจริง ๆ ในด้านรายได้ [ภาษีเงินได้บุคคลธรรมดา](/th/money-daily-life/income-tax-individuals) อธิบายว่าเกิดอะไรขึ้นกับเงินเดือนกัวลาลัมเปอร์ที่สูงกว่านั้นก่อนที่จะถึงงบประมาณของครัวเรือนเอง
+
+ดูคู่มือฉบับเต็ม: [ค่าครองชีพของมาเลเซีย ตามตัวเลขทางการ](/th/cost-of-living/cost-of-living-overview/)

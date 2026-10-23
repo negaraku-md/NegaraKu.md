@@ -136,6 +136,33 @@ faq:
 - **把 SPA 律师的角色与银行律师的角色搞混。** 银行律师受聘是为了保护银行的押记，而不是为买家协商 SPA 条款。
 - **从博客文章引述印花税豁免门槛，仿佛它是永久不变的。** 豁免命令是具有各自起讫日期的立法文书——在据此编列预算之前，须先确认目前生效的是哪一项。
 
+## 深入了解本主题
+
+本领域的重点指南：
+
+- [政府可负担房屋计划（PR1MA、联邦直辖区房屋 Residensi Wilayah、亲民组屋 Rumah Mesra Rakyat）](/zh/property/affordable-housing-schemes/)
+- [门牌税与地税](/zh/property/assessment-and-quit-rent/)
+- [马来西亚公寓生活](/zh/property/condo-living-maintenance-fees/)
+- [TNB、SESB 与 Sarawak Energy 电费账户](/zh/property/electricity-tnb-account/)
+- [在马来西亚找房租](/zh/property/finding-a-rental/)
+- [外国人可以在马来西亚购买产业吗？最低价格与州同意详解](/zh/property/foreigners-buying-property/)
+- [永久地契、租赁地契、分层地契、有地物业](/zh/property/freehold-leasehold-strata-landed/)
+- [家庭燃气供应](/zh/property/gas-supply-piped-cooking-gas/)
+- [马来西亚的门禁社区与警卫社区](/zh/property/gated-communities-and-security/)
+- [马来西亚房屋贷款与按揭融资](/zh/property/home-loan-mortgage-financing/)
+- [购房者保护](/zh/property/homebuyer-protection-abandoned-projects/)
+- [IWK 不是水务公司](/zh/property/indah-water-sewerage/)
+- [马来西亚家庭光纤宽带](/zh/property/internet-and-fibre/)
+- [与房地产经纪人合作](/zh/property/property-agents-and-fees/)
+- [拍卖购置房产（银行拍卖 Bank Lelong）](/zh/property/property-auctions-foreclosure/)
+- [财产继承](/zh/property/property-inheritance-faraid-distribution/)
+- [出售房地产时的房地产盈利税（RPGT）](/zh/property/real-property-gains-tax/)
+- [住宅装修审批与竣工合规证书（CCC）](/zh/property/renovation-permits-and-ccc/)
+- [马来西亚租房没有租赁法](/zh/property/renting-a-home-tenancy/)
+- [垃圾、回收与地方政府](/zh/property/rubbish-and-local-council/)
+- [分层地产治理](/zh/property/strata-management-jmb-mc/)
+- [马来西亚的水供](/zh/property/water-supply/)
+
 ## 下一步
 
 关于你即将取得的地契究竟承诺了什么——永久地契相对租赁地契，以及分层地契相对有地产业——见 [产业永久地契、租赁地契、分层地契、有地物业](/zh/property/freehold-leasehold-strata-landed)。关于让土地局登记得以运作的转让备忘录与押记背后的法规，见 [National Land Code 1965](/zh/law/national-land-code)。

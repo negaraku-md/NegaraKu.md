@@ -132,3 +132,5 @@ Klinik Kesihatan पर पंजीकरण शुल्क मौजूदा
 
 Klinik Kesihatan से अलग सरकारी दंत सुविधा को समझने के लिए, पढ़ें [सरकारी या निजी दंत क्लीनिक? मलेशिया की दो दंत-देखभाल प्रणालियों को समझना](/healthcare/dental-care)।
 मलेशिया में अन्य स्वास्थ्य विषयों — निजी बीमा से लेकर चिकित्सा पर्यटन तक — की एक झलक के लिए [स्वास्थ्य सेवा](/healthcare) श्रेणी देखें। वास्तविक अपॉइंटमेंट करने के लिए, [MyGovernment पोर्टल](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan) के माध्यम से आधिकारिक सेवा तक पहुँचें।
+
+पूरी गाइड देखें: [मलेशिया की स्वास्थ्य सेवा असल में कैसे काम करती है](/hi/healthcare/how-malaysian-healthcare-works/)।

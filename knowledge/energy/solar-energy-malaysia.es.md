@@ -165,3 +165,5 @@ Esto permite a los propietarios de viviendas obtener valor del espacio de tejado
 Los esquemas solares de Malasia evolucionan rápidamente, y se acercan fechas importantes. La cuota del NEM 3.0 finalizó el 30 de junio de 2025 — si usted es propietario de vivienda o empresa, consulte la cuota restante en el portal de SEDA y pida presupuestos a instaladores registrados lo antes posible. Las empresas que estén considerando el CRESS o el CGPP deben calcular el impacto del Cargo de Acceso al Sistema sobre su costo energético total antes de firmar un PPA. Para los inversores, los resultados de la subasta LSS5 y las futuras rondas de LSS marcarán la dirección del mercado solar de servicios públicos del país.
 
 Esté atento a los anuncios oficiales de la Comisión de Energía, SEDA y el Single Buyer sobre nuevas cuotas, cambios de tarifas y esquemas sucesores tras el fin del NEM 3.0.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

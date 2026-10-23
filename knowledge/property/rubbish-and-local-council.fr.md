@@ -135,3 +135,5 @@ Le taux national de recyclage — le rapport entre les déchets solides recyclé
 ## Et ensuite
 
 Si vous venez d'emménager et que vous n'êtes pas encore sûr de savoir qui gère le ramassage des ordures dans votre zone de location, cette question est étroitement liée au processus de [trouver une location en Malaisie](/fr/property/finding-a-rental) — votre bailleur ou votre agent peut généralement confirmer le calendrier de ramassage et si la zone relève de la loi 672. Pour comprendre où se situent les conseils locaux dans la structure générale du gouvernement de la Malaisie — y compris pourquoi les conseillers sont nommés plutôt qu'élus — consultez [les trois niveaux du gouvernement malaisien](/fr/government/three-tiers-of-government).
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

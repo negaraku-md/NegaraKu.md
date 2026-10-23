@@ -181,6 +181,36 @@ Apa yang mengikat semuanya bersama di atas kertas adalah **Kerangka Kualifikasi 
 - **Menganggap "politeknik" dan "kolese komunitas" dapat dipertukarkan.** Keduanya berada di bawah Kementerian Pendidikan Tinggi tetapi merupakan jenis institusi berbeda yang menawarkan tingkat kualifikasi berbeda.
 - **Mengacaukan Kementerian Pendidikan (sekolah) dengan Kementerian Pendidikan Tinggi (universitas).** Keduanya adalah kementerian terpisah dengan portal, anggaran, dan menteri yang terpisah.
 
+## Jelajahi topik ini lebih dalam
+
+Panduan utama di bidang ini:
+
+- [Kalender Akademik dan Libur Sekolah Malaysia](/id/education/academic-calendar-and-school-holidays/)
+- [Cara Mendaftarkan Anak ke Sekolah Pemerintah](/id/education/enrolling-in-a-government-school/)
+- [Kampus Cabang Universitas Asing dan Hub Pendidikan](/id/education/foreign-university-branch-campuses-and-education-hubs/)
+- [Pendidikan Murid Pintar dan Berbakat (PERMATApintar)](/id/education/gifted-and-talented-education/)
+- [Pendidikan di Rumah di Malaysia](/id/education/homeschooling/)
+- [Sekolah Internasional di Malaysia](/id/education/international-schools/)
+- [Belajar di Malaysia sebagai Mahasiswa Internasional](/id/education/international-students-studying-in-malaysia/)
+- [Sekolah Islam dan Agama di Malaysia](/id/education/islamic-and-religious-schools/)
+- [JPA dan Skema Beasiswa Publik Utama Malaysia](/id/education/jpa-and-public-scholarships/)
+- [MQA dan Akreditasi Ijazah di Malaysia](/id/education/malaysian-qualifications-agency-and-accreditation/)
+- [Sistem Persekolahan Malaysia](/id/education/malaysian-school-system/)
+- [MRSM dan Sekolah Berasrama Penuh (SBP)](/id/education/mrsm-and-fully-residential-schools/)
+- [MUET dan Ujian Masuk Universitas](/id/education/muet-and-university-entrance-tests/)
+- [SK, SJKC, dan SJKT](/id/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG dan Biaya Bersekolah di Sekolah Negeri](/id/education/pibg-and-school-fees/)
+- [STPM, Matrikulasi, Asasi, atau A-Level](/id/education/pre-university-routes/)
+- [Taska, Tadika, Prasekolah](/id/education/preschool-tadika-childcare/)
+- [Sekolah Swasta dan Sekolah Menengah Swasta Tionghoa](/id/education/private-and-chinese-independent-schools/)
+- [PTPTN Bukan Beasiswa](/id/education/ptptn-student-loan/)
+- [IPTA atau IPTS? Perbedaan Sebenarnya Universitas Negeri dan Swasta di Malaysia](/id/education/public-vs-private-universities/)
+- [Pendidikan Khas di Malaysia](/id/education/special-education-and-learning-support/)
+- [Pusat Tuisyen dan Bimbingan Pribadi di Malaysia](/id/education/tuition-centres-and-private-coaching/)
+- [Tidak Semua Jalan Menuju Universitas](/id/education/tvet-and-skills-training/)
+- [Sertifikat Ujian Bersama (UEC)](/id/education/unified-examination-certificate-uec/)
+- [Dari UPSR ke SPM](/id/education/upsr-to-spm-exams/)
+
 ## Apa yang selanjutnya
 
 Halaman ini adalah peta, bukan destinasi — ia sengaja ringan pada satu cabang mana pun agar ia dapat menunjuk ke arah rincian. Artikel khusus mengenai SPM dan sistem ujian sekolah, mengenai memilih antara STPM, matrikulasi, dan jalur pra-universitas swasta, mengenai bagaimana sertifikasi TVET sebenarnya berfungsi, dan mengenai bagaimana penerimaan universitas publik diselaraskan, berada di bawah gambaran umum ini di NegaraKu.md dan menyelami mekanisme yang hanya dipetakan secara ringkas oleh halaman ini.

@@ -324,6 +324,27 @@ KPKM है। यदि यह **मलेशिया दुनिया क�
 संशोधित होते हैं और मौसम, वैश्विक मूल्यों व पुनर्रोपण चक्रों के साथ हिलते हैं। वर्तमान डेटा
 के लिए DOSM, MPOB और मंत्रालयों की नवीनतम रिलीज़ों का संदर्भ लें।
 
+## इस विषय को विस्तार से जानें
+
+इस क्षेत्र की प्रमुख गाइड:
+
+- [धान किसानों के लिए कृषि सब्सिडी और खेत-इनपुट सहायता](/hi/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS और मलेशिया का चावल आयात एकाधिकार](/hi/agriculture/bernas-rice-import-monopoly/)
+- [मलेशिया मत्स्य विभाग (DOF)](/hi/agriculture/department-of-fisheries-malaysia/)
+- [मलेशिया का ड्यूरियन और उष्णकटिबंधीय फल निर्यात व्यापार](/hi/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/hi/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA और RISDA](/hi/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/hi/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/hi/agriculture/fgv-holdings-plantation-restructuring/)
+- [मलेशिया की खाद्य सुरक्षा नीति और आत्मनिर्भरता लक्ष्य](/hi/agriculture/food-security-self-sufficiency-policy/)
+- [मलेशिया का पशुधन और कुक्कुट उद्योग](/hi/agriculture/livestock-poultry-industry/)
+- [मलेशिया का मत्स्य उद्योग](/hi/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/hi/agriculture/mardi-agricultural-research-institute/)
+- [कृषि एवं खाद्य सुरक्षा मंत्रालय (KPKM) और इसकी एजेंसियाँ](/hi/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [ऑयल पाम लघुधारक और MSPO स्थिरता प्रमाणन](/hi/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [मलेशिया में धान और चावल](/hi/agriculture/padi-and-rice-industry/)
+- [मलेशिया का धान और चावल उद्योग](/hi/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## अगले क़दम
 
 - सबसे बड़ी निर्यात जिंस में गहराई से उतरें [मलेशिया के ताड़-तेल क्षेत्र के अवलोकन](/en/economy/palm-oil-sector) में — इसका पैमाना, संस्थान और स्थिरता प्रमाणन।

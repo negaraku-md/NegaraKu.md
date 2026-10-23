@@ -156,3 +156,5 @@ Hujung yang satu lagi bagi pemilikan turut membawa kadar khusus warga asingnya s
 ## Apa yang seterusnya
 
 Sebaik sahaja hak milik benar-benar berpindah ke nama pemilik asing, kewajipan berterusannya adalah sama seperti yang dihadapi oleh setiap pemilik hartanah di Malaysia — lihat [cukai taksiran dan cukai tanah, dan siapa yang mengutip setiap satu](/property/assessment-and-quit-rent). Untuk dua peristiwa cukai yang mengapit pemilikan itu sendiri, lihat [jadual duti setem semasa pemerolehan](/taxation/stamp-duty-rates) dan [RPGT semasa pelupusan akhirnya](/taxation/rpgt-rates). Dan untuk laluan visa yang menjadikan pembelian hartanah wajib dan bukannya pilihan, lihat [empat peringkat visa tinggal lama MM2H](/settling-in/mm2h-long-stay-visa).
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

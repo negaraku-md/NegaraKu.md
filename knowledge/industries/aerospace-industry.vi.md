@@ -144,3 +144,5 @@ Các tiêu đề tăng trưởng che giấu một khoảng trống cấu trúc. 
 ## Tiếp theo
 
 Câu chuyện ngắn hạn là số học. Doanh thu đang chạy gần với quỹ đạo 2030, và mục tiêu lực lượng lao động đã được đáp ứng, nên câu hỏi thành thật không còn là liệu Malaysia có thể tăng trưởng khu vực hay không mà là liệu nó có thể thay đổi *bản chất* của nó — chuyển từ bảo trì và gia công máy bay sang thiết kế và tích hợp chúng. Hãy theo dõi ba điều: liệu phần nội dung nội địa tích hợp hệ thống có thực sự tăng về phía 70% hay không, liệu thị phần MRO có nhích từ 4% lên 5% của một thị trường toàn cầu vốn tự nó đang mở rộng hay không, và liệu thâm hụt thương mại có thu hẹp khi năng lực thiết kế nội địa sâu hơn hay không. Nếu ba điều đó di chuyển cùng nhau, RM55 tỷ sẽ là một sàn chứ không phải một vạch đích.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

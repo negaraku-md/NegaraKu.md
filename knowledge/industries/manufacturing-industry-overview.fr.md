@@ -155,3 +155,5 @@ Pour quiconque évalue un sous-secteur précis, le schéma est : utiliser le DOS
 ## Et ensuite
 
 L'histoire manufacturière de la Malaisie se diversifie en temps réel. Surveillez trois choses. Premièrement, si la poussée des machines et équipements et des usines intelligentes du NIMP 2030 relève réellement la productivité plutôt que seulement les effectifs. Deuxièmement, comment les dispositifs médicaux et le caoutchouc de spécialité montent des gants de base vers des cathéters, implants et diagnostics à plus forte marge. Troisièmement, les communiqués annuels du DOSM et de MIDA — chaque fenêtre de janvier à mai apporte les chiffres complets de ventes, d'emploi et d'investissement de l'année précédente, la lecture la plus nette pour savoir si l'objectif de RM587.5 milliards pour 2030 est sur la bonne voie. Si vous étudiez un sous-secteur particulier, commencez par le communiqué du DOSM pour cette catégorie MSIC et la page sectorielle de MIDA, puis superposez le détail au niveau des entreprises.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

@@ -113,3 +113,5 @@ Dalam perjanjian jual beli (SPA) biasa, anda merundingkan harga, memeriksa harta
 ## Apa seterusnya
 
 Dapatkan Perisytiharan Jualan bagi lot yang spesifik dan baca setiap klausa, terutamanya syarat tunggakan dan milikan kosong. Sahkan sama ada ia lelongan Mahkamah Tinggi atau LACA supaya anda tahu deposit dan tarikh akhir yang benar-benar terpakai, dan dapatkan kelulusan pinjaman yang boleh dikeluarkan dalam tempoh tersebut. Bagi lelongan mahkamah, daftar di platform e-Lelong Kehakiman lebih awal, dan pertimbangkan untuk melibatkan peguam pindah milik sebelum — bukan selepas — anda membida. Bandingkan harga terselaras risiko dengan pembelian konvensional di bawah SPA biasa sebelum membuat komitmen.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

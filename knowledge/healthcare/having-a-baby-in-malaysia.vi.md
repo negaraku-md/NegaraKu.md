@@ -132,3 +132,5 @@ Vì đây là một quy trình đáng kể theo đúng nghĩa của nó — gi�
 ## Tiếp theo
 
 Đối với hệ thống chăm sóc ban đầu công rộng lớn hơn mà tuyến tiền sản này nằm bên trong, hãy xem [cách các phòng khám y tế nhà nước tại Malaysia vận hành](/vi/healthcare/klinik-kesihatan). Đối với cách một ca nhập viện và hóa đơn bệnh viện tư thực sự hoạt động nếu sinh tại cơ sở tư nhân, hãy xem [cách bệnh viện tư tại Malaysia thực sự tính phí bạn](/vi/healthcare/private-hospitals-and-costs). Và đối với bước pháp lý theo sau mọi ca sinh bất kể diễn ra ở đâu, hãy xem [đăng ký khai sinh tại Malaysia](/vi/settling-in/registering-a-birth).
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

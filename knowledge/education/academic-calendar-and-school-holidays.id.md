@@ -124,3 +124,5 @@ Sabah dan Sarawak berada dalam **Kelompok B**, jadi mereka mengikuti pergeseran 
 - Pastikan Anda melihat kolom **kelompok yang benar** (A atau B) untuk negara bagian anak Anda; salah kolom berarti salah satu hari.
 - Cocokkan tanggal libur semester dengan **libur umum negara bagian** Anda, karena perayaan Islam dan libur Sabah/Sarawak dapat menambah atau menggeser hari.
 - Untuk konteks lebih luas, rujuk halaman libur umum Malaysia dan struktur sistem persekolahan Malaysia.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

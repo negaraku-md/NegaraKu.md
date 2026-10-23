@@ -121,3 +121,5 @@ Une facture d'eau est généralement calculée en fonction des **relevés réels
 ---
 
 *La structure des opérations de l'eau par État, les rôles de SPAN et de PAAB, ainsi que le statut de Ranhill SAJ en tant qu'opérateur privé ont été vérifiés directement sur leurs sites officiels respectifs. La procédure d'inscription du compte est reprise à titre d'exemple de la page officielle d'assistance (FAQ) d'Air Selangor ; les détails peuvent différer dans d'autres compagnies des eaux d'État et doivent être revérifiés par un relecteur humain avant la confirmation de cet article.*
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

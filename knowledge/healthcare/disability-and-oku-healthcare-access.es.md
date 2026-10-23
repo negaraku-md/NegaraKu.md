@@ -167,3 +167,5 @@ La escala de este apoyo es grande. En 2024, el DOSM informó de que 262,618 OKU 
 - **Compruebe la elegibilidad para los subsidios.** Compare las condiciones del EPOKU (empleados) y del BTB (sin capacidad de trabajar); solo puede recibir uno.
 
 Los importes y las condiciones de elegibilidad pueden cambiar según el presupuesto anual. Confirme las cifras más recientes con el JKM (línea directa 03-8000 8000) o el portal oficial eBantuan del JKM antes de presentar una solicitud.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

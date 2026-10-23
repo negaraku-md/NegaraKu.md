@@ -116,3 +116,5 @@ keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "h
 ## 接下来该怎么做
 
 如果你是一名执业者，请查看你所从事的领域是否属于七个受认可领域之一，然后通过马来西亚卫生部传统与辅助医学组（Bahagian Perubatan Tradisional dan Komplementari）的传统与辅助医学理事会（Majlis PT&K）申请注册。如果你是一名消费者，请在接受治疗前要求查看执业者的注册证书——它如今已成为一名合法执业者的标志。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

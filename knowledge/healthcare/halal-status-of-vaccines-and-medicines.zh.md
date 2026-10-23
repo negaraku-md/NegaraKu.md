@@ -136,3 +136,5 @@ keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin C
 - 通过 JAKIM 的 e-Fatwa 门户网站或各州穆夫提部门网站查阅最新的咨询会议裁决，因为当产品成分或替代品供应情况改变时，法特瓦可能会更新。
 - 若对某一品牌的疫苗或药物有具体疑问，请咨询州宗教主管当局及有执照的医疗从业者。
 - 本文为尚未审核的 AI 草稿；在将任何法特瓦引述作为个人决定依据之前，请以官方文件核实。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

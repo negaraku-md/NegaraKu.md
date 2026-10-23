@@ -138,3 +138,5 @@ UPSR/PT3을 완전히 복원하지 않으면서 투명성 우려에 대응하기
 ## 다음 단계
 
 SPM 이후 취학 경로가 어디로 이어지는지 이해하려면, IPTA와 IPTS의 입학 차이에 관한 `/education/public-vs-private-universities`를 읽어 보십시오. 자녀가 국제 학생이거나 말레이시아로 막 이주한 가정이라면, `/education/international-students-studying-in-malaysia`가 현지 학교 제도가 비시민권자에게 어떻게 작동하는지 설명합니다.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

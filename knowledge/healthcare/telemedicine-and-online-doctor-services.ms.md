@@ -105,3 +105,5 @@ Itulah sebabnya garis panduan ini menghendaki doktor mengesahkan dan merekodkan 
 ## Apa yang seterusnya
 
 Jika anda menggunakan perkhidmatan doktor dalam talian, pastikan platform tersebut menamakan doktor berdaftar di Malaysia serta mengeluarkan rekod dan preskripsi yang sewajarnya. Anggap telekonsultasi sebagai paling sesuai untuk susulan, preskripsi ulangan dan masalah kecil — dan jangkakan doktor yang baik akan menghantar anda secara bersemuka sebaik sahaja skrin tidak lagi mencukupi. Ambil perhatian juga bahawa rangka kerja ini bersandar pada garis panduan, bukan statut, jadi peraturan mungkin diketatkan sekiranya Malaysia menggubal perundangan teleperubatan khusus pada masa depan.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

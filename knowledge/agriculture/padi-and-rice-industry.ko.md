@@ -170,3 +170,5 @@ keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malays
 - DOSM Supply and Utilization Accounts와 부처의 성명에서 **연차 SSL을 추적**하십시오 — 수입 격차가 좁혀지는지에 대한 유일한 핵심 척도입니다.
 - 단독 수입업체 양허가 갱신, 개편, 개방되는지, 그리고 그것이 자금을 대는 사회적 의무는 어떻게 되는지를 결정할 **2031년 BERNAS 재검토를 주시**하십시오.
 - *verificationNeeded*에 표시된 남은 수치 — 정확한 벼 재배 면적과 생산 톤 수, 등록 농가 수 — 를 확정된 것으로 인용하기 전에 DOSM과 KPKM 일차 자료와 대조하여 **확인**하십시오.
+
+전체 가이드 보기: [말레이시아 농업 및 농식품 부문](/ko/agriculture/agriculture-sector-overview/).

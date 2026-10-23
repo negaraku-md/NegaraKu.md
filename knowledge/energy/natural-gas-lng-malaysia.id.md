@@ -158,3 +158,5 @@ Dampak praktisnya adalah gas industri di Malaysia semakin mengikuti nilai LNG in
 ## Apa yang selanjutnya
 
 Masa depan gas Malaysia bergantung pada tindakan menyeimbangkan: mempertahankan ekspor LNG dari Sarawak sambil mengelola ketergantungan Semenanjung yang semakin meningkat pada impor. Perhatikan laju penemuan hulu baru di Sarawak dan perairan dalam Sabah, kemungkinan tambahan kapasitas regasifikasi, dan penyerahan hak gas Sarawak kepada entitas negeri [Petroleum Sarawak Berhad](/id/energy/sarawak-petros-gas-dispute) (Petros), yang menjadi agregator gas tunggal Sarawak pada 1 Maret 2025 di bawah Ordinan Pengagihan Gas 2016, meskipun PETRONAS dan Petros masih berunding tentang syarat-syarat terperinci hingga 2026. Dari segi harga, setiap periode regulasi IBR baru dan penetapan ulang MRP akan terus menentukan syarat bagi pembeli industri. Bagi siapa saja yang mengikuti energi Malaysia, rantai nilai gas, dari train Bintulu hingga empat titik masuk PGU, adalah sistem yang perlu diperhatikan.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

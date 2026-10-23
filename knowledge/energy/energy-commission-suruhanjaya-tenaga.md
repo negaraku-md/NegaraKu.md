@@ -197,3 +197,5 @@ turut berkuat kuasa 1 Januari 2026 untuk menyokong agenda peralihan tenaga ini.
 - Baca statut asas di
   [teks penuh Akta 610](https://faolex.fao.org/docs/pdf/mal37918.pdf) atau
   semak mandat rasmi di [laman "About Us" ST](https://www.st.gov.my/about-us)
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

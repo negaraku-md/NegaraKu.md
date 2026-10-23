@@ -164,3 +164,5 @@ Ini memungkinkan pemilik rumah memperoleh nilai dari ruang atap yang tidak digun
 Skema surya Malaysia sedang berkembang cepat, dan tanggal penting mendekat. Kuota NEM 3.0 berakhir pada 30 Juni 2025 — jika Anda pemilik rumah atau bisnis, periksa sisa kuota di portal SEDA dan dapatkan penawaran harga pemasang terdaftar sedini mungkin. Perusahaan yang mempertimbangkan CRESS atau CGPP harus menghitung dampak Biaya Akses Sistem terhadap biaya energi keseluruhan sebelum menandatangani PPA. Bagi investor, hasil lelang LSS5 dan putaran LSS mendatang menentukan arah pasar surya utilitas negara.
 
 Pantau pengumuman resmi dari Suruhanjaya Tenaga, SEDA dan Single Buyer untuk kuota baru, perubahan tarif, dan skema pengganti setelah NEM 3.0 berakhir.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

@@ -120,3 +120,5 @@ Pengecualiannya terletak pada Pasal 60(3): sebuah MC dapat menetapkan **tarif be
 ## Apa selanjutnya
 
 Baca teks lengkap Act itu di portal Departemen Jaksa Agung untuk rincian pasal demi pasal yang lengkap, periksa apakah skema Anda masih di bawah JMB atau sudah memiliki MC dengan bertanya langsung kepada kantor pengelola Anda, dan jika Anda menyewa dan bukan memiliki, lihat [Mencari Rumah Sewa di Malaysia](/id/property/finding-a-rental) untuk mengetahui bagaimana bangunan seperti ini ditayangkan dan disewakan pada mulanya.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

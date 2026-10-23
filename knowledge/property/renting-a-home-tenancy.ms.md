@@ -169,3 +169,5 @@ Kedua-dua laluan ini wujud tepat kerana tiada jalan pintas berkanun yang lebih m
 ## Apa yang seterusnya
 
 Sebaik sahaja perjanjian sewaan ditandatangani dan disetem, langkah praktikal seterusnya biasanya ialah menyediakan akaun utiliti atas nama penyewa dan memahami apa-apa caj peringkat bangunan yang wujud bersama sewa. Lihat [membuka akaun elektrik TNB](/property/electricity-tnb-account) untuk cara proses Change of Tenancy dan deposit tersendirinya berfungsi, dan [kehidupan kondominium dan yuran penyelenggaraan](/property/condo-living-maintenance-fees) jika unit itu terletak dalam hartanah strata yang mempunyai perbadanan pengurusannya sendiri. Jika anda belum lagi menemui unit tersebut atau mengesahkan siapa yang anda berurusan, [mencari sewaan di Malaysia](/property/finding-a-rental) meliputi portal-portal dan semakan pendaftaran REN yang sepatutnya berlaku sebelum apa-apa deposit bertukar tangan.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

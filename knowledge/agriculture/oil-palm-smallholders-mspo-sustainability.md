@@ -147,3 +147,5 @@ The support model that is emerging leans on the actors above the farmer. Mills a
 Watch three things. First, **EUDR readiness** through 2026 and into 2027 — whether Malaysia's smallholder plots are mapped and traceable before the application dates bite. Second, the **maturing of MS 2530:2022 audits**, which are now the baseline every grower is measured against. Third, **who pays** — the unresolved question of whether mapping and certification costs land on the farmer, the mill, or public programmes.
 
 If you grow oil palm on a small plot, the practical priority is to confirm your MSPO certification is current under the 2022 standard and to ask your buying mill or cooperative how they will handle geolocation mapping for EU-bound fruit. For a deeper look at the certification scheme itself and the deforestation debate around it, see the related articles on palm oil sustainability and the palm oil industry.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

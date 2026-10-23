@@ -137,3 +137,5 @@ Jabatan Perangkaan Malaysia (DOSM) mengukur sesuatu yang berbeza. Indeks Harga P
 ## Apa yang seterusnya
 
 Gunakan indeks-indeks ini sebagai panduan arah, bukan bajet peribadi. Jika anda merancang untuk berpindah atau penempatan, dapatkan tajuk utama Mercer dan EIU tahun semasa untuk ranking, semak silang halaman peringkat bandar Numbeo bagi Kuala Lumpur, Pulau Pinang atau Johor Bahru, dan kemudian sandarkan angka sebenar kepada data harga domestik DOSM. Ranking berubah dari tahun ke tahun mengikut kadar pertukaran, jadi sentiasa petik edisi tinjauan yang anda gunakan.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

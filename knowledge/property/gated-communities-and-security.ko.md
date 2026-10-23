@@ -120,3 +120,5 @@ GP022에 따르면, 주민회가 단순히 문을 세울 수는 없습니다.
 ## What's next
 
 당신의 방식에 이미 구분소유권과 JMB 또는 MC가 있다면, 경비원의 급여는 더 큰 법정 청구서의 한 줄입니다 — 그 재원이 어떻게 작동하는지는 [말레이시아의 콘도 생활](/ko/property/condo-living-maintenance-fees)을 참조하십시오. 경비실, 차단봉 또는 GN 신청을 실제로 누가 승인하는지는 [말레이시아의 지방 의회](/ko/states/local-councils)를 참조하십시오.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

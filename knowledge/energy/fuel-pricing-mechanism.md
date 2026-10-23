@@ -110,3 +110,5 @@ Harga yang diumumkan berkuat kuasa untuk tempoh seminggu penuh. Sebagai contoh, 
 ## Apa seterusnya
 
 Untuk mengetahui harga terkini setiap minggu, semak siaran akhbar rasmi Kementerian Kewangan atau set data Harga Petroleum & Diesel di OpenDOSM. Jika anda ingin memahami siapa yang layak menerima kadar RON95 RM1.99 dan bagaimana had 300 liter berfungsi, rujuk artikel berkaitan mengenai program subsidi BUDI95.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

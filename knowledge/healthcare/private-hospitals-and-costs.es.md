@@ -131,3 +131,5 @@ Desde el 1 de julio de 2025, un impuesto sobre servicios se aplica a algunos car
 ## Qué sigue
 
 Para los detalles del depósito y la carta de garantía, la propia orientación de reclamaciones o de tarjeta médica de tu aseguradora es la fuente más actual, ya que los acuerdos de panel varían según la aseguradora y el hospital. Para el propio marco de licencias, la ficha de la Act 586 del Ministerio de Salud enlaza con la reimpresión vigente. Y si una factura lleva una línea de impuesto sobre servicios, el desglose del impuesto sector por sector es el lugar donde comprobar qué se aplica actualmente y a quién.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

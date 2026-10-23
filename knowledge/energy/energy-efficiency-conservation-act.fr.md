@@ -151,3 +151,5 @@ Pour les entreprises, l'effet pratique est modeste mais durable : la gouvernance
 Si votre organisation est susceptible de franchir le seuil de 21,600 GJ, la première étape consiste à additionner la consommation d'énergie annuelle de tous vos sites et à vérifier si vous devez nommer un gestionnaire de l'énergie agréé. Les propriétaires de grands immeubles de bureaux doivent vérifier leur surface brute et calculer leur BEI actuel par rapport au plafond de 250 kWh/m²/an.
 
 Pour connaître les exigences d'enregistrement les plus récentes, les listes de gestionnaires et d'auditeurs énergétiques agréés, les formulaires et les délais de soumission des rapports, consultez directement le site web de la Commission de l'énergie. Ce contenu est une présentation générale et ne constitue pas un avis juridique ; vérifiez tout seuil, sanction ou délai auprès du texte officiel de l'Act 861 et du Règlement sur l'efficacité et la conservation de l'énergie de 2024.
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

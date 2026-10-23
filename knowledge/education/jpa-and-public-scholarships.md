@@ -155,3 +155,5 @@ Jika anda merancang pembiayaan pengajian, langkah praktikal berikut membantu:
 - **Baca syarat ikatan.** Teliti tempoh perkhidmatan, syarat penukaran pinjaman, dan sama ada anda perlu melepaskan PTPTN.
 
 Draf ini disediakan dengan bantuan AI dan belum melalui semakan manusia; sahkan setiap angka dengan sumber rasmi sebelum membuat keputusan.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

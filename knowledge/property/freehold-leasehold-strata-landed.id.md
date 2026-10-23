@@ -115,3 +115,5 @@ Setiap properti berada pada persilangan kedua pertanyaan ini, bukan hanya satu: 
 ## Apa selanjutnya
 
 Untuk statuta di balik semua ini — bagaimana sistem hak milik terdaftar Torrens bekerja, mengapa daftar itu (bukan perjanjian penjualan) menjadi penentu kepemilikan, dan mengapa Sabah dan Sarawak berada di luar lingkupnya — lihat [National Land Code 1965](/id/law/national-land-code).
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

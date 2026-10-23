@@ -135,3 +135,5 @@ Cả hai đều chia sẻ cùng nguyên tắc: giáo dục đồng nhất không
 Nếu bạn là cha mẹ hoặc giáo viên nghi ngờ một đứa trẻ có tiềm năng năng khiếu tài năng, bước đầu tiên là theo dõi ngày đăng ký Bài kiểm tra UKM1 được công bố qua trang chính thức của Trung tâm PERMATA@Pintar Negara, UKM. Cũng hãy kiểm tra lịch của các chương trình làm giàu PPCS và HSEP nếu con bạn nằm trong độ tuổi 9–16.
 
 Để có bức tranh đầy đủ về các con đường hỗ trợ học tập tại Malaysia, cũng hãy đọc bài viết đồng hành về giáo dục nhu cầu đặc biệt và cấu trúc của hệ thống trường học quốc gia. Các chi tiết về bài kiểm tra, ngày tháng và phân ban chương trình có thể thay đổi từ năm này sang năm khác — luôn xác nhận thông tin mới nhất trực tiếp từ trang chính thức của UKM trước khi đưa ra quyết định.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

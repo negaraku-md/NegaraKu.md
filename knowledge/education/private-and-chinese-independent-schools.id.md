@@ -112,3 +112,5 @@ Keadaan berubah sedikit pada 2026: Kementerian Pendidikan Tinggi membuka satu ja
 ## Apa yang selanjutnya
 
 Untuk latar belakang bahasa mengenai sebab persekolahan berbahasa pengantar Tionghoa ada sebagai satu trek terpisah, lihat [bahasa yang dituturkan di Malaysia](/id/malaysia/languages-spoken). Untuk bagaimana anak ditempatkan ke dalam sistem pemerintah yang menjadi latar sekolah-sekolah ini, lihat [mendaftarkan anak ke sekolah negeri](/id/education/enrolling-in-a-government-school); untuk apa yang terjadi pada ujian setelah Tingkatan Lima tidak peduli jalur mana, lihat [dari UPSR ke SPM](/id/education/upsr-to-spm-exams); dan untuk pilihan sebenarnya yang dihadapi oleh lulusan UEC atau SPM berikutnya, lihat [universitas negeri vs swasta](/id/education/public-vs-private-universities).
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

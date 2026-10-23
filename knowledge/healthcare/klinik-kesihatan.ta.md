@@ -183,3 +183,5 @@ Klinik Kesihatan இலிருந்து தனியான அரசாங�
 ஏற்படுத்த, அதிகாரப்பூர்வ சேவையை
 [MyGovernment இணையவாயில்](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan)
 மூலம் அணுகவும்.
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசிய சுகாதாரம் உண்மையில் எப்படி இயங்குகிறது](/ta/healthcare/how-malaysian-healthcare-works/).

@@ -128,3 +128,5 @@ Bagi pemilik akun yang sudah ada, TNB turut menawarkan **Self Meter Reading (SMR
 ## Apa selanjutnya
 
 Listrik hanya satu dari beberapa hal yang perlu diatur saat pindah ke rumah baru di Malaysia — lihat [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps) untuk daftar kebutuhan lain yang berkaitan. Bagi yang juga perlu menyiapkan saluran seluler di premis baru, rujuk [panduan SIM prabayar dan pascabayar](/id/money-daily-life/mobile-sim-plans).
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

@@ -188,3 +188,5 @@ financiers et les termes de la concession, consultez les rapports officiels de
 BERNAS et les déclarations du ministère de l'Agriculture et de la Sécurité
 alimentaire, car les détails indiqués ici reflètent la situation jusqu'à la mi-2026
 et changeront à chaque nouvelle décision de politique.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

@@ -253,3 +253,5 @@ para ver cómo el sistema centralizado de universidades públicas de la UPU se
 compara con solicitar directamente en una universidad privada. Y para saber cómo
 financian muchos estudiantes la ruta que elijan, consulta
 [El PTPTN no es una beca: así es como funciona realmente este préstamo educativo](/en/education/ptptn-student-loan).
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

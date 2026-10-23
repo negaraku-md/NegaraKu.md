@@ -142,3 +142,5 @@ Anda.
 - Rujuk rilis utama secara langsung di
   [Laporan Survei Pengeluaran Rumah Tangga DOSM 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   untuk tabel kategori lengkap dan pecahan tingkat negara bagian.
+
+Lihat panduan lengkap: [Biaya Hidup Malaysia, Menurut Angka Resmi](/id/cost-of-living/cost-of-living-overview/).

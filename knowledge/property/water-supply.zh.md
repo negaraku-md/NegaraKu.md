@@ -120,3 +120,5 @@ keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka
 ---
 
 *各州水务经营架构、SPAN 与 PAAB 的角色，以及 Ranhill SAJ 作为私人经营者的地位，均已直接在各自的官方网站上核实。账户注册流程以 Air Selangor 的官方支援（常见问题）网页作为示例参考；细节可能因其他州水务公司而异，在本文确认之前，须由人工审核者重新查核。*
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

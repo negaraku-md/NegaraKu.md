@@ -156,3 +156,5 @@ conservar por escrito cada presentación y respuesta, y vigilar el Boletín Ofic
 (Warta Kerajaan) en busca de la notificación que finalmente ponga en vigor el deber de
 educación secundaria de la Sección 32A, ya que eso cambiará lo que significa ser
 «conforme» para los niños mayores.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

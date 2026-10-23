@@ -171,3 +171,5 @@ keywords: ["rubber", "natural rubber", "rubber gloves", "MARGMA", "Malaysian Rub
 ## 다음 단계
 
 이 부문을 조사하고 있다면, 가장 권위 있는 실시간 수치는 매달 생산, 수출, 재고, 대상지를 갱신하는 **DOSM Monthly Rubber Statistics** 발표입니다. 제도적 측면에서는, 말레이시아 고무위원회가 면허 및 규제 지침을 발표하고, MARGMA는 장갑 무역을 구체적으로 추적합니다. 특히 세 변수를 지켜보십시오. 즉, 천연고무 가격(소농이 계속 채취할지를 결정), 장갑의 니트릴 대 라텍스 구성, 그리고 미·중 무역 조치 — 말레이시아 장갑 수출을 어느 방향으로든 움직일 가능성이 가장 큰 변동 요인입니다.
+
+전체 가이드 보기: [말레이시아의 주요 산업](/ko/industries/industries-overview/).

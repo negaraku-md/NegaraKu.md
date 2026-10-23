@@ -161,3 +161,5 @@ If you want to understand or consider organ donation:
 - For the latest statistics, check the official [KKMNOW](https://data.moh.gov.my/dashboard/organ-donation) dashboard.
 
 *This article is general and neutral information; it is not medical or religious advice. Refer to official sources and the relevant authorities for personal decisions.*
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

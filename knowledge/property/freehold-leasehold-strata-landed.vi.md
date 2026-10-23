@@ -115,3 +115,5 @@ Mỗi bất động sản nằm ở giao điểm của cả hai câu hỏi, khô
 ## Tiếp theo
 
 Về đạo luật đằng sau tất cả những điều này — cách hệ thống quyền sở hữu đã đăng ký Torrens vận hành, vì sao sổ đăng ký (không phải hợp đồng mua bán) là lời phán quyết cuối cùng về sở hữu, và vì sao Sabah và Sarawak nằm ngoài nó — xem [National Land Code 1965](/vi/law/national-land-code).
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

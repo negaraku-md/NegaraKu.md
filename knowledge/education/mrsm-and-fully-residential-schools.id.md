@@ -134,3 +134,5 @@ Artikel ini tidak mengambil pendirian apa pun dalam perdebatan tersebut. Yang je
 - Pelajar dan orang tua dapat membandingkan kedua jalur dari segi lokasi, program, dan tanggal permohonan sebelum membuat pilihan.
 
 > Catatan: Ini draf yang dihasilkan AI dan memerlukan peninjauan manusia. Angka dan kebijakan dapat berubah — sahkan dengan sumber resmi MARA dan KPM sebelum membuat keputusan.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

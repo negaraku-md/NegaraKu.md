@@ -343,6 +343,27 @@ RP4-இன் முக்கிய அம்சங்கள்:
   அந்த NETR இலக்கு மின் கலவையில் (மின்சார உற்பத்தி) உள்ள புதுப்பிக்கத்தக்க ஆற்றல் திறனைக்
   குறிக்கிறது, போக்குவரத்து மற்றும் தொழில்துறை உட்பட ஒட்டுமொத்த ஆற்றல் அமைப்பை அல்ல.
 
+## இந்தத் தலைப்பை ஆழமாக ஆராயுங்கள்
+
+இந்தத் துறையின் முக்கிய வழிகாட்டிகள்:
+
+- [மின்சார விநியோகத் தொழில் சீர்திருத்தம்](/ta/energy/electricity-supply-industry-reform-mesi/)
+- [மலேசியாவில் மின்சார கட்டண அமைப்பு எவ்வாறு செயல்படுகிறது](/ta/energy/electricity-tariff-structure/)
+- [ஆற்றல் ஆணையம் (Suruhanjaya Tenaga)](/ta/energy/energy-commission-suruhanjaya-tenaga/)
+- [சக்தி திறன் மற்றும் சேமிப்புச் சட்டம்](/ta/energy/energy-efficiency-conservation-act/)
+- [மலேசியா வாராந்திர எரிபொருள் விலையை எவ்வாறு நிர்ணயிக்கிறது](/ta/energy/fuel-pricing-mechanism/)
+- [மலேசியாவின் எரிபொருள் மானிய அமைப்பு](/ta/energy/fuel-subsidy-system/)
+- [மலேசியாவில் ஹைட்ரஜன் மற்றும் கார்பன் கைப்பற்றுதல் (CCUS)](/ta/energy/hydrogen-ccus-malaysia/)
+- [மலேசியாவில் நீர்மின்சக்தி](/ta/energy/hydropower-malaysia/)
+- [தேசிய ஆற்றல் மாற்றப் பாதை வரைபடம் (National Energy Transition Roadmap, NETR)](/ta/energy/national-energy-transition-roadmap-netr/)
+- [மலேசியாவில் இயற்கை எரிவாயு மற்றும் LNG](/ta/energy/natural-gas-lng-malaysia/)
+- [பெட்ரோலியம் மேம்பாட்டுச் சட்டம் 1974 (Akta Kemajuan Petroleum 1974)](/ta/energy/petroleum-development-act-1974/)
+- [மலேசியாவில் புதுப்பிக்கத்தக்க ஆற்றல்](/ta/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/ta/energy/sarawak-energy-berhad/)
+- [Petros மற்றும் Sarawak எரிவாயு தகராறு](/ta/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaysia](/ta/energy/seda-malaysia/)
+- [மலேசியாவில் சூரிய சக்தி](/ta/energy/solar-energy-malaysia/)
+
 ## அடுத்தது என்ன
 
 நீங்கள் ஒரு நுகர்வோர் என்றால், மிகவும் நடைமுறையான படி உங்கள் புதிய RP4 மின்சார பில்லை

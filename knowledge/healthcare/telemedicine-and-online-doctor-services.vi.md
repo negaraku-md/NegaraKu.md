@@ -105,3 +105,5 @@ Tiêu chuẩn y tế được cố ý giữ y hệt — bác sĩ vẫn chịu tr
 ## Tiếp theo
 
 Nếu bạn dùng một dịch vụ bác sĩ trực tuyến, hãy kiểm tra rằng nền tảng nêu tên một bác sĩ đã đăng ký tại Malaysia và cấp hồ sơ cùng đơn thuốc đúng cách. Hãy xem tư vấn từ xa là phù hợp nhất cho các lần tái khám, kê đơn lặp lại và các vấn đề nhỏ — và hãy trông đợi một bác sĩ tốt sẽ gửi bạn đi khám trực tiếp ngay khi một màn hình không còn đủ. Cũng lưu ý rằng khung này dựa trên một hướng dẫn, không phải một đạo luật, nên các quy tắc có thể siết chặt hơn nếu Malaysia ban hành luật telemedicine chuyên biệt trong tương lai.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

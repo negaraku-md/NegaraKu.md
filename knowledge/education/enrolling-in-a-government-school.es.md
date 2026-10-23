@@ -210,3 +210,5 @@ los casos de ingreso anticipado o aplazamiento, inicie la solicitud en la
 Oficina de Educación de Distrito (PPD) o el Departamento de Educación Estatal
 (JPN) donde su hijo asiste a la escuela, ya que ambos procesos se aprueban a ese
 nivel, no a través del sistema idMe habitual.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

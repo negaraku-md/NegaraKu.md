@@ -121,3 +121,5 @@ Bring the **original documents** of your personal identification — Identity Ca
 ## What's next
 
 Review the eligibility requirements again and make sure you have had enough sleep and have eaten before attending. For the latest information, operating hours and mobile campaign locations, visit the official National Blood Centre portal at pdn.gov.my or contact PDN at 03-2613 2688.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

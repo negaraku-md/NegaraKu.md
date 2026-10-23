@@ -192,3 +192,5 @@ Pour les primo-accédants, dans le Budget 2026 le gouvernement a prolongé l'exo
 - Comparez les options de MRTA et de MLTA auprès de plusieurs fournisseurs avant de vous engager.
 
 *Cet article est une information générale, et non un conseil financier. Consultez une banque, un avocat spécialisé en immobilier ou un conseiller agréé pour votre situation particulière.*
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

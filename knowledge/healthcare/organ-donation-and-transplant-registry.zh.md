@@ -161,3 +161,5 @@ keywords: ["pendermaan organ", "derma organ", "transplan", "NTRC", "ikrar pender
 - 欲了解最新统计数据，可查阅官方仪表板 [KKMNOW](https://data.moh.gov.my/dashboard/organ-donation)。
 
 *本文为一般性、中立的资讯，并非医疗或宗教建议。作个人决定时，请参阅官方来源及相关当局。*
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

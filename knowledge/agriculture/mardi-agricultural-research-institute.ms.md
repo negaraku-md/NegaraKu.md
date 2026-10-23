@@ -132,3 +132,5 @@ Peranan MARDI ialah di hulu: ia membekalkan varieti benih berhasil tinggi, kepak
 ## Apa yang seterusnya
 
 Trajektori MARDI menuju ke arah pengkomersialan dan pertanian berdaya tahan iklim — padi toleran racun rumpai dan hibrid, pembiakbakaan berbantukan bioteknologi, dan pertanian jitu yang menyokong program seperti SMART SBB. Bagi sesiapa yang menjejaki keterjaminan makanan Malaysia, perhatikan pelepasan varieti MARDI dan kerjasamanya dengan kementerian mengenai sasaran sara diri kebangsaan. Untuk butiran utama, laman profil institut itu sendiri dan laman penyelidikan padi-dan-beras merupakan titik permulaan yang paling berwibawa, dan Akta MARDI (Akta 11) menetapkan mandat berkanunnya.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

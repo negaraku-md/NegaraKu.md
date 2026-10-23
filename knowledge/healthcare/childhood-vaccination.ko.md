@@ -126,3 +126,5 @@ PIK의 모든 백신은 전국의 정부 클리닉 크시하탄에서 모든 영
 ## 다음으로
 
 말레이시아 공중 의료 체계 안에서 클리닉 크시하탄의 위치를 더 넓게 이해하려면 — 같은 시설에서 제공되는 다른 서비스를 포함하여 — [클리닉 크시하탄(Klinik Kesihatan): 말레이시아 정부의 1차 의료 체계가 실제로 작동하는 방식](/ko/healthcare/klinik-kesihatan)을 읽어 보십시오. 아직 임신 단계에 있는 부모는 [말레이시아에서 아기 낳기](/ko/healthcare/having-a-baby-in-malaysia)에서 출산 전 산전 진료 경로를 설명하며, 여기서 다룬 아동 기록부와 별개인 산모 건강기록부도 함께 다룹니다.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

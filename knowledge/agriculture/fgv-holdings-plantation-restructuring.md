@@ -136,3 +136,5 @@ Officials have signalled a **realignment of FELDA's organisational structure alo
 ## What's next
 
 The open questions now are governance and results. As a private, FELDA-controlled entity, FGV loses the quarterly disclosure and market scrutiny that came with a Bursa listing, so future performance will be harder for outsiders to track. Watch for how FELDA integrates FGV into a consolidated group structure, whether the promised cost and productivity gains materialise, and how the interests of settlers — the majority of FGV's fruit supply — are balanced against commercial returns. Dissenting shareholders, meanwhile, have until 15 January 2026 to decide whether to sell out at RM1.30.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

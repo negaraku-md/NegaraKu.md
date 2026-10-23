@@ -190,6 +190,29 @@ E&E的主导地位是需要深刻理解的核心。它将马来西亚的制造�
 - **假定增长等于韧性。** 马来西亚的贸易顺差连续纪录令人瞩目，但经济对E&E的集中也使其与波动剧烈的全球电子周期紧密绑定。实力与敞口是同一枚硬币的两面。
 - **混淆GDP份额与增长率。** 建筑业2024年增长17.5%，但在GDP中占比很小；服务业增长"适度"的5.3%，却主导着整个经济。永远要看清你读的是哪个数字。
 
+## 深入了解本主题
+
+本领域的重点指南：
+
+- [马来西亚的航空航天与维修（MRO）产业](/zh/industries/aerospace-industry/)
+- [汽车工业](/zh/industries/automotive-industry/)
+- [战略产业中的土著股权政策与供应商发展](/zh/industries/bumiputera-equity-vendor-policy/)
+- [马来西亚建筑业](/zh/industries/construction-industry/)
+- [马来西亚的数据中心与云端基础设施](/zh/industries/data-centre-cloud-industry/)
+- [马来西亚的数字经济](/zh/industries/digital-economy-overview/)
+- [电气与电子（E&E）产业](/zh/industries/electrical-electronics-industry/)
+- [马来西亚清真认证体系](/zh/industries/halal-certification-system/)
+- [清真产业与马来西亚打造全球清真枢纽的雄心](/zh/industries/halal-industry-economy/)
+- [马来西亚物流与港口业](/zh/industries/logistics-ports-industry/)
+- [电子电气与汽车之外的制造业](/zh/industries/manufacturing-industry-overview/)
+- [2030 年新工业大蓝图（NIMP 2030）](/zh/industries/new-industrial-master-plan-2030/)
+- [马来西亚的石油与天然气产业](/zh/industries/oil-gas-industry/)
+- [马来西亚棕榈油产业](/zh/industries/palm-oil-industry/)
+- [马来西亚棕榈油可持续性与认证](/zh/industries/palm-oil-sustainability-certification/)
+- [马来西亚的橡胶产业](/zh/industries/rubber-industry/)
+- [马来西亚的半导体产业](/zh/industries/semiconductor-industry/)
+- [半导体产业与国家半导体战略](/zh/industries/semiconductor-industry-national-strategy/)
+
 ## 接下来
 
 把这个页面当作你的指南针，然后沿着对你重要的那条分枝走下去。如果你在研究某一具体产业，请打开本类别中它的专门指南，获取更深入的监管、企业和供应链细节。如果你在追踪整个经济，每个季度值得关注的两个数字是**服务业增长率**（经济的主体）和**E&E出口趋势**（贸易中的摆动因素）。

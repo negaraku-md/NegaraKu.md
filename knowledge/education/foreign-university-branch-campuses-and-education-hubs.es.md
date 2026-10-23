@@ -180,3 +180,5 @@ Si está eligiendo entre estos campus, unas cuantas distinciones prácticas impo
 El modelo de sedes es la pieza más exitosa de la ingeniería del centro educativo de Malasia, y el blueprint 2026-2035 es una apuesta por que pueda escalarse cinco veces. Que esa apuesta dé resultado depende menos de sumar logotipos y más de convertir el claro atractivo regional del país —credenciales occidentales y chinas a precio asequible, un entorno multicultural estable, la proximidad a mercados asiáticos de rápido crecimiento— en un alcance global sostenido.
 
 Para un contexto más profundo, vea los artículos complementarios sobre los estudiantes internacionales en Malasia y el corredor económico de Iskandar Malaysia que dio a EduCity su hogar. Las cifras aquí proceden de fuentes institucionales y de políticas vigentes hasta 2026; los datos de matrícula y los objetivos del blueprint se revisan periódicamente, así que verifique las cifras más recientes con el Ministerio de Educación Superior y cada institución antes de tomar decisiones.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

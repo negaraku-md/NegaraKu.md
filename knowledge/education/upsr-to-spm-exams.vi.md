@@ -138,3 +138,5 @@ Nói ngắn gọn: phụ huynh hy vọng một "UPSR phiên bản mới" sẽ qu
 ## Tiếp theo
 
 Để hiểu con đường học phổ thông dẫn tới đâu sau SPM, hãy đọc `/vi/education/public-vs-private-universities` về sự khác biệt trong việc nhập học IPTA và IPTS. Nếu con bạn là một học sinh quốc tế hoặc một gia đình mới chuyển đến Malaysia, `/vi/education/international-students-studying-in-malaysia` giải thích cách hệ thống học phổ thông trong nước vận hành đối với người không phải công dân.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

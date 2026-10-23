@@ -143,3 +143,5 @@ Mengapa ia penting: pengiktirafan inilah yang membolehkan seseorang graduan mema
 ## Apa seterusnya
 
 Jika anda sedang memilih sesuatu kursus, buka MQR dan sahkan status program *sebelum* anda membayar deposit — sementara atau penuh tidak mengapa, tiada langsung tidak boleh. Jika sesuatu program yang anda minati tidak tersenarai, tanya institusi tersebut secara langsung untuk rujukan dan status MQA-nya secara bertulis, dan anggaplah jawapan yang samar sebagai tanda amaran. Bagi profesion yang dikawal selia, hubungi badan profesional berkaitan untuk mengesahkan laluan graduan ke pendaftaran. Majikan dan pasukan HR boleh menggunakan daftar yang sama untuk mengesahkan kelayakan yang didakwa oleh seseorang calon dalam masa beberapa minit.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

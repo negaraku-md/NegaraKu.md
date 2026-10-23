@@ -180,3 +180,5 @@ Jika Anda memilih antara kampus-kampus ini, beberapa perbedaan praktis lebih pen
 Model kampus cabang adalah keberhasilan rekayasa hub pendidikan Malaysia yang paling berhasil, dan rencana pembangunan 2026-2035 adalah satu taruhan bahwa ia dapat diperbesar lima kali lipat. Apakah taruhan itu sepadan bergantung kurang pada menambah logo dan lebih pada mengubah daya tarik regional negara yang jelas — kualifikasi Barat dan Tiongkok yang bernilai, suasana multikultural yang stabil, kedekatan dengan pasar Asia yang berkembang pesat — menjadi jangkauan global yang berkelanjutan.
 
 Untuk konteks yang lebih mendalam, lihat artikel pendamping tentang mahasiswa internasional di Malaysia dan koridor ekonomi Iskandar Malaysia yang menjadi lokasi EduCity. Angka di sini diambil dari sumber institusi dan kebijakan yang terkini hingga 2026; data pendaftaran dan sasaran rencana pembangunan ditinjau secara berkala, jadi sahkan angka terkini dengan Kementerian Pendidikan Tinggi dan setiap institusi sebelum membuat keputusan.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

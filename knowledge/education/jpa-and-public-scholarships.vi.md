@@ -156,3 +156,5 @@ Nếu bạn đang lập kế hoạch tài trợ việc học, các bước thự
 - **Đọc các điều kiện ràng buộc.** Nghiên cứu kỹ thời hạn phục vụ, các điều kiện chuyển đổi khoản vay, và liệu bạn có phải từ bỏ PTPTN hay không.
 
 Bản thảo này được chuẩn bị với sự hỗ trợ của AI và chưa qua rà soát của con người; hãy xác nhận từng con số với các nguồn chính thức trước khi đưa ra quyết định.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

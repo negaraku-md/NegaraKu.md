@@ -137,3 +137,5 @@ Beberapa perkembangan telah dilaporkan secara terbuka: pada Mei 2020, Petronas d
 Kerangka inti tetap seperti pada 1974: kepemilikan melekat pada Petronas, "tidak dapat dibatalkan", dengan pembayaran tunai kepada federal dan negeri ditentukan melalui perjanjian dan bukan oleh tarif undang-undang. Apa yang terus berubah adalah lapisan di atasnya — undang-undang negeri, entitas negeri seperti Petros, penyelesaian komersial, dan deklarasi bersama.
 
 Bagi pembaca yang mengikuti perkembangan ini, tiga hal wajar diperiksa terhadap sumber utama sebelum membuat kesimpulan apa pun: (1) ketentuan tepat perjanjian pengalihan hak atau penyelesaian mana pun, yang jarang diterbitkan secara lengkap; (2) keputusan pengadilan terkini apa pun tentang yurisdiksi negeri versus federal; dan (3) teks terbaru Act 144 di portal Attorney General's Chambers, karena angka dan amendemen dapat berubah. Draf ini disusun dengan bantuan AI dan memerlukan tinjauan manusia sebelum diterbitkan.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

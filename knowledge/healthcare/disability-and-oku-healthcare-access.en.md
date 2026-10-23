@@ -167,3 +167,5 @@ The scale of this support is large. In 2024, DOSM reported that 262,618 OKU rece
 - **Check allowance eligibility.** Compare the conditions of EPOKU (employed) and BTB (unable to work) — you can only receive one.
 
 Rates and eligibility conditions may change according to the annual budget. Confirm the latest figures with JKM (hotline 03-8000 8000) or the official JKM eBantuan portal before making an application.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

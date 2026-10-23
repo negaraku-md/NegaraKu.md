@@ -218,3 +218,5 @@ Nếu bạn đang cân nhắc Malaysia như một cơ sở chế tạo hoặc t�
 Ngành E&E của Malaysia đang ở một điểm ngoặt. Năm mươi năm sau nhà máy Penang đầu tiên của Intel, đất nước có một cỗ máy xuất khẩu quan trọng toàn cầu, lập kỷ lục — và một nhận thức tỉnh táo rằng dựa vào lắp ráp và kiểm tra là không đủ cho năm mươi năm tiếp theo. Sự thúc đẩy của Chiến lược Bán dẫn Quốc gia về phía thiết kế và chế tạo, làn sóng đầu tư mới đổ vào Penang, Kulim và Johor, và bóng đen của chính sách thương mại toàn cầu đang thay đổi cùng nhau sẽ quyết định liệu Malaysia có leo lên chuỗi giá trị hay vẫn ở giữa nó.
 
 Nếu bạn muốn đi sâu hơn, các bài đọc tiếp theo tự nhiên là hướng dẫn chuyên về ngành bán dẫn của Malaysia — câu chuyện đặc thù về chip bên trong câu chuyện rộng hơn này — và một cái nhìn kỹ hơn về [Penang](/vi/states/penang/), bang nơi tất cả bắt đầu. Về bộ máy chính sách và đầu tư đằng sau các con số, [MIDA](/vi/government/mida/) là cơ quan cần biết.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

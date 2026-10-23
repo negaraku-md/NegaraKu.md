@@ -143,3 +143,5 @@ Standards Forum Bhd（MTSFB）发布的技术标准。正是这种标准化，�
 销售的 Unifi Mobile——可参阅
 [在马来西亚购买手机 SIM 卡](/zh/money-daily-life/mobile-sim-plans)，了解
 那边的注册与供应商选择如何运作。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

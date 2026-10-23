@@ -167,3 +167,5 @@ une contradiction :
   [Rapport de l'Enquête sur le revenu des ménages 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   et
   [Rapport de l'Enquête sur les salaires et traitements 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024) du DOSM.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

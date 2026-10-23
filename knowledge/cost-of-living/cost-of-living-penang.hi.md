@@ -208,3 +208,5 @@ keywords: ["पेनांग रहन-सहन की लागत", "cost o
   और [उपभोक्ता मूल्य सूचकांक, जनवरी 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025);
   UNESCO की [जॉर्ज टाउन/मलक्का विश्व धरोहर सूची](https://whc.unesco.org/en/list/1223/);
   और संपत्ति-बाज़ार संदर्भ के लिए NAPIC की [मलेशियाई हाउस प्राइस इंडेक्स रिपोर्टें](https://napic.jpph.gov.my/)।
+
+पूरी गाइड देखें: [मलेशिया में रहन-सहन की लागत, आधिकारिक आँकड़ों के अनुसार](/hi/cost-of-living/cost-of-living-overview/)।

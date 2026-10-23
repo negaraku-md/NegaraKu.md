@@ -125,3 +125,5 @@ Si un chiffre compte pour votre location, obtenez-le par écrit de l'agence, et 
 ## Et ensuite
 
 Une fois que vous avez présélectionné un logement et un négociateur que vous pouvez vérifier, les étapes suivantes sont le contrat de location lui-même et l'organisation des paiements du dépôt et du loyer — dont la plupart transitent par la banque en ligne plutôt que par des espèces. Si vous n'avez pas encore de compte bancaire malaisien, voir [ouvrir un compte bancaire en Malaisie](/en/money-daily-life/opening-bank-account). Si vous louez sur la base d'une nouvelle offre d'emploi et non en tant que citoyen ou résident permanent, réglez l'[Employment Pass](/en/settling-in/employment-pass) en parallèle — les bailleurs et les agences demandent couramment la preuve d'un pass valide avant de signer un bail plus long.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

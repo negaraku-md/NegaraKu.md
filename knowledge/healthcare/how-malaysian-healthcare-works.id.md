@@ -152,6 +152,40 @@ Tidak ada satu jawaban tunggal untuk 'apa yang perlu dibayar oleh warga asing' �
 - **Pemberi kerja menganggap SPIKPA adalah pilihan atau pembelian sekali saja.** Ia adalah persyaratan berulang yang berkaitan dengan setiap siklus pembaruan izin kerja, bukan polis sekali saja yang dibeli saat perekrutan pekerja.
 - **Wisatawan menganggap asuransi perjalanan dan skema lokal dapat saling dipertukarkan.** Tidak satu pun dari PeKa B40, MySalam atau jadwal biaya warga negara berlaku bagi pengunjung; asuransi perjalanan/medis yang dibeli sebelum perjalanan adalah satu-satunya jaring pengaman praktis.
 
+## Jelajahi topik ini lebih dalam
+
+Panduan utama di bidang ini:
+
+- [Undang-undang Aborsi di Malaysia](/id/healthcare/abortion-law-in-malaysia/)
+- [Benarkah Dia Dokter? Cara Memverifikasi Pendaftaran Dokter dan Profesional Kesehatan di Malaysia](/id/healthcare/allied-health-and-medical-practitioner-registration/)
+- [Donor Darah di Malaysia](/id/healthcare/blood-donation-and-national-blood-centre/)
+- [Di Balik Loket Farmasi](/id/healthcare/buying-medicine-pharmacies/)
+- [Vaksin Gratis untuk Setiap Anak](/id/healthcare/childhood-vaccination/)
+- [COVID-19 di Malaysia](/id/healthcare/covid-19-pandemic-response-and-legacy/)
+- [Klinik Gigi Pemerintah atau Swasta? Memahami Dua Sistem Perawatan Gigi Malaysia](/id/healthcare/dental-care/)
+- [Diabetes, Obesitas, dan Penyakit Tidak Menular](/id/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [Akses Perawatan Kesehatan untuk OKU di Malaysia](/id/healthcare/disability-and-oku-healthcare-access/)
+- [Kedaruratan Medis di Malaysia](/id/healthcare/emergencies-999/)
+- [Rumah Sakit Pemerintah Malaysia](/id/healthcare/government-hospitals/)
+- [Status Halal Vaksin dan Obat](/id/healthcare/halal-status-of-vaccines-and-medicines/)
+- [Melahirkan Anak di Malaysia](/id/healthcare/having-a-baby-in-malaysia/)
+- [Kertas Putih Kesihatan](/id/healthcare/health-white-paper-and-system-reform/)
+- [Ketika Orang Tua Tidak Lagi Mampu Mengurus Diri Sendiri](/id/healthcare/healthcare-for-seniors/)
+- [Layanan HIV/AIDS dan Kesehatan Seksual di Malaysia](/id/healthcare/hiv-aids-and-sexual-health-services/)
+- [Klinik Kesihatan](/id/healthcare/klinik-kesihatan/)
+- [Asuransi Medis di Malaysia](/id/healthcare/medical-insurance/)
+- [Ledakan Senyap Pariwisata Medis Malaysia, dan Agensi di Baliknya](/id/healthcare/medical-tourism/)
+- [Ke Mana Mencari Bantuan Kesehatan Mental di Malaysia](/id/healthcare/mental-health-services/)
+- [MySejahtera dan Dorongan Kesehatan Digital Malaysia](/id/healthcare/mysejahtera-and-digital-health-records/)
+- [Donasi Organ di Malaysia](/id/healthcare/organ-donation-and-transplant-registry/)
+- [Perawatan Paliatif dan Hospis di Malaysia](/id/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/id/healthcare/peka-b40-and-health-schemes/)
+- [Dua Tagihan untuk Satu Rawat Inap](/id/healthcare/private-hospitals-and-costs/)
+- [Sistem Perawatan Kesehatan Publik Malaysia](/id/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/id/healthcare/smoking-and-vaping-law-act-852/)
+- [Telemedisin di Malaysia](/id/healthcare/telemedicine-and-online-doctor-services/)
+- [Pengobatan Tradisional dan Komplementer](/id/healthcare/traditional-and-complementary-medicine/)
+
 ## Apa selanjutnya
 
 Untuk skema asuransi sosial yang melindungi pekerja Malaysia khusus untuk cedera di tempat kerja dan ketidakmampuan bekerja — sebuah mekanisme yang berbeda dari apa pun yang dijelaskan di atas — lihat [PERKESO (SOCSO)](/id/glossary/socso-perkeso). Untuk kementerian yang menjalankan dan meregulasi segala hal pada halaman ini, lihat Kementerian Kesehatan Malaysia (KKM) segera setelah halaman entitas itu diterbitkan.

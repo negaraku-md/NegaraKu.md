@@ -106,3 +106,5 @@ You have the right to ask. The simplest approach:
 ## What's next
 
 Start with a MeRITS search for any doctor — it is free and takes less than a minute. For nurses, pharmacists and allied health professions, contact the respective board or council through the official portal of the Ministry of Health Malaysia to confirm their status. If you suspect that someone is practising without qualifications or is facing professional misconduct, report it to that profession's regulatory body, which holds disciplinary powers under its Act. As a basic rule: if the name does not exist in the register, do not place your health in their hands.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

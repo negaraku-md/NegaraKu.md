@@ -109,3 +109,5 @@ Karena ia selalu berubah. Batas ringgit B40/M40/T20 dihitung ulang setiap putara
 - **Untuk posisi tepat Anda:** rujuk laporan lengkap Survei Pendapatan Rumah Tangga 2024 di portal DOSM, yang mendaftarkan nilai potong terkini.
 - **Untuk pemeriksaan bantuan:** ingat sebagian besar skema menilai pendapatan seluruh rumah tangga, bukan gaji seorang.
 - **Untuk perbandingan yang adil:** pertimbangkan biaya hidup setempat — label yang sama membawa makna berbeda di kota besar dibandingkan perdesaan.
+
+Lihat panduan lengkap: [Biaya Hidup Malaysia, Menurut Angka Resmi](/id/cost-of-living/cost-of-living-overview/).

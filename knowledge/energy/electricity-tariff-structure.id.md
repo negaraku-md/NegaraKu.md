@@ -128,3 +128,5 @@ ToU berbaloi jika Anda dapat mengalihkan penggunaan besar — mesin cuci, pengis
 ## Apa selanjutnya
 
 Periksa tagihan terbaru Anda dan kenali lima baris komponen tersebut. Bandingkan penggunaan bulanan Anda dengan ambang 600 kWh dan 1,000 kWh untuk melihat apakah Anda layak pengecualian Biaya Ritel atau rabat EEI. Untuk penghitungan tepat menurut penggunaan sebenarnya, gunakan kalkulator tagihan resmi di portal myTNB, dan pantau nilai AFA bulanan yang diumumkan Suruhanjaya Tenaga.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

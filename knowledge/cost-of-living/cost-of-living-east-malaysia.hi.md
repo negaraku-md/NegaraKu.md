@@ -201,3 +201,5 @@ keywords: ["cost of living Sabah", "cost of living Sarawak", "why is Sabah expen
   [जीवन-यापन लागत संकेतक 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024),
   और KPDN का
   [नियंत्रित वस्तुएँ / PPHSSL पृष्ठ](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items)।
+
+पूरी गाइड देखें: [मलेशिया में रहन-सहन की लागत, आधिकारिक आँकड़ों के अनुसार](/hi/cost-of-living/cost-of-living-overview/)।

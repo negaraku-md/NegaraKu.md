@@ -187,3 +187,5 @@ para saber qué pasa con los exámenes después del Form Five en cualquiera de l
 dos casos, consulta [del UPSR al SPM](/en/education/upsr-to-spm-exams); y para
 saber entre qué elige realmente a continuación un egresado del UEC o del SPM,
 consulta [universidades públicas frente a privadas](/en/education/public-vs-private-universities).
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

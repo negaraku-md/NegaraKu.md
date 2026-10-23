@@ -113,3 +113,5 @@ Bối cảnh rộng hơn từ phân tích được bình duyệt: năm 2022 ngà
 ## Tiếp theo
 
 Hãy xác nhận các thủ tục cấp phép, phí và Tổng Giám đốc đương nhiệm hiện hành trực tiếp trên cổng thông tin DOF tại dof.gov.my trước khi dựa vào chúng. Các con số sản xuất năm 2024 và lịch sử định chế của cục vẫn còn phải được xác minh với các báo cáo thường niên sơ cấp của DOF.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

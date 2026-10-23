@@ -147,3 +147,5 @@ The tension is structural. The economic upside is real — hundreds of billions 
 Watch three things. First, **approvals** — how strictly the non-AI restriction is applied, and whether it evolves into a formal, published policy rather than an administrative practice. Second, **the grid** — whether transmission and connection capacity can be built fast enough to unlock the projects already queued behind that 11,000 MW of applications, and how much of it renewable generation supplies as Malaysia works toward its energy-transition targets. Third, **the DESAC deadline of 31 December 2027**, which sets a real clock on incentive-backed applications and will likely front-load a wave of submissions before it closes.
 
 For anyone tracking the sector, the useful question has shifted. It is no longer "how fast can Malaysia grow its data centre industry?" but "how much power and water is the country willing to allocate to it, and on what terms?" The answer to that will decide which of the queued gigawatts actually get built.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

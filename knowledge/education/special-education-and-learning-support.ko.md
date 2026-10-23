@@ -105,3 +105,5 @@ keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive educat
 ## 다음 단계
 
 자녀가 아직 OKU 카드가 없다면 JKM의 OKU 카드 신청부터 시작하십시오 — 거의 다른 모든 단계가 존재를 전제하는 서류입니다. 이와 병행하여, 특수 교육과의 평가를 잡기 위해 PPKI 프로그램이 있는 가장 가까운 학교나 주 교육국에 연락하십시오. 아동이 세 트랙 중 어디에 배치되는지는 개인 선호가 아니라 그 평가가 결정합니다. 자녀가 취학 연령 미만이라면, 학교 배치 절차가 시작되기를 기다리기보다 그동안 TASKA OKU와 NASOM 같은 NGO를 알아볼 만합니다.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

@@ -155,3 +155,5 @@ faq:
 ## 下一步
 
 一旦地契真正转移到外国业主名下，接下来持续存在的义务，与马来西亚每一位产业业主所面对的义务并无二致——参见[门牌税与地税，以及各自由谁征收](/zh/property/assessment-and-quit-rent)。至于横跨整个持有期两端的两项税务事件，参见[收购时的印花税税率表](/zh/taxation/stamp-duty-rates)与[最终处置时的 RPGT](/zh/taxation/rpgt-rates)。而若购买产业是签证要求中强制而非可选的一环，请参见 [MM2H 长期居留签证的四个等级](/zh/settling-in/mm2h-long-stay-visa)。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

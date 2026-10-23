@@ -148,3 +148,5 @@ Mô hình hỗ trợ đang hình thành dựa vào các bên trên người nôn
 Hãy theo dõi ba điều. Thứ nhất, **sự sẵn sàng cho EUDR** suốt năm 2026 và sang năm 2027 — liệu các mảnh đất của tiểu điền chủ Malaysia có được lập bản đồ và truy xuất được trước khi các ngày áp dụng có hiệu lực hay không. Thứ hai, sự **trưởng thành của các cuộc kiểm toán MS 2530:2022**, vốn nay là mức chuẩn mà mọi người trồng được đo lường. Thứ ba, **ai trả tiền** — câu hỏi chưa được giải quyết về việc liệu chi phí lập bản đồ và chứng nhận sẽ rơi vào người nông dân, nhà máy, hay các chương trình công.
 
 Nếu bạn trồng cọ dầu trên một mảnh đất nhỏ, ưu tiên thực tế là xác nhận chứng nhận MSPO của bạn còn hiệu lực theo tiêu chuẩn 2022 và hỏi nhà máy hoặc hợp tác xã mua hàng của bạn về cách họ sẽ xử lý việc lập bản đồ định vị địa lý cho quả hướng đến EU. Để có cái nhìn sâu hơn về chính chương trình chứng nhận và cuộc tranh luận về phá rừng quanh nó, hãy xem các bài viết liên quan về tính bền vững của dầu cọ và ngành dầu cọ.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

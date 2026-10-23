@@ -106,3 +106,5 @@ Para los pacientes que obtienen medicación de repetición en un centro de salud
 ## Qué sigue
 
 Para los pacientes con medicación a largo plazo, lea sobre el [seguro médico](/en/healthcare/medical-insurance) para entender hasta qué punto el costo de los medicamentos está cubierto por un plan de salud. Para los adultos mayores o las familias que gestionan medicación de repetición con regularidad, la [atención sanitaria para personas mayores](/en/healthcare/healthcare-for-seniors) también explica los servicios de farmacia de valor añadido, como la entrega de medicamentos por correo postal, que reduce la necesidad de acudir al mostrador todos los meses.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

@@ -126,3 +126,5 @@ Mudah untuk mengira potongan wajib pada slip gaji sudah mencakup tagihan rumah s
 ## Apa selanjutnya
 
 Jika Anda sedang menimbang biaya kartu medis pribadi dibanding slip gaji Anda, lihat [Pajak Penghasilan untuk Individu](/id/money-daily-life/income-tax-individuals) untuk memahami bagaimana keringanan pendidikan dan asuransi medis berinteraksi dengan pelaporan tahunan Anda. Untuk potongan wajib yang ada bersama — tetapi tidak menggantikan — perlindungan medis, lihat [EPF dan SOCSO untuk Pekerja](/id/money-daily-life/epf-socso-employees). Dan jika manfaat medis Anda datang melalui tawaran pekerjaan, [Kontrak Pekerjaan di Malaysia](/id/employment/employment-contract-malaysia) menjelaskan apa yang pemberi kerja wajib dan tidak wajib nyatakan mengenai manfaat yang berkaitan dengan suatu jabatan.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

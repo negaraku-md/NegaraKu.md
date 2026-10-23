@@ -125,3 +125,5 @@ Nếu một con số quan trọng cho hợp đồng thuê của bạn, hãy lấ
 ## Tiếp theo
 
 Một khi bạn đã lập danh sách ngắn một căn và một người môi giới bạn có thể xác minh, các bước tiếp theo là chính hợp đồng thuê và việc thiết lập các khoản thanh toán tiền đặt cọc cùng tiền thuê — hầu hết trong số đó di chuyển qua ngân hàng trực tuyến chứ không phải tiền mặt. Nếu bạn chưa có tài khoản ngân hàng Malaysia, xem [mở tài khoản ngân hàng tại Malaysia](/vi/money-daily-life/opening-bank-account). Nếu bạn thuê dựa trên một lời mời làm việc mới chứ không phải với tư cách công dân hay thường trú nhân, hãy thu xếp [Giấy phép Lao động (Employment Pass)](/vi/settling-in/employment-pass) song song — chủ nhà và đại lý thường xuyên yêu cầu bằng chứng về một giấy phép hợp lệ trước khi ký một hợp đồng thuê dài hơn.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

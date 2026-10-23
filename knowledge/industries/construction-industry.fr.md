@@ -224,3 +224,5 @@ Si vous prévoyez d'entrer dans cette industrie ou de vous y développer, l'éta
 Pour comprendre le cadre juridique qui sous-tend tout cela, lisez-en davantage sur la **Act 520** et le rôle de la **CIDB** en tant que principal organisme de réglementation. Les deux expliquent l'autorité derrière le système de grades et les exigences d'enregistrement traités ici.
 
 Les chiffres et les exigences de cet article proviennent des publications officielles de la CIDB et du Département des statistiques de Malaisie. Les tarifs, les plafonds de grade et les exigences de capital peuvent être modifiés de temps à autre — vérifiez toujours les derniers détails directement auprès de la CIDB avant de prendre des décisions d'enregistrement ou de soumission.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

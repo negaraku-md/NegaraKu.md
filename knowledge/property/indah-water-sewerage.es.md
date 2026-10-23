@@ -148,3 +148,5 @@ aplicable a su inmueble.
   no en los estados ni en las Autoridades Locales: [División de poderes federal-estatal](/en/government/federal-state-division)
 - El papel de las Autoridades Locales que gestionaban el alcantarillado antes de
   la privatización de 1994: [Concejos locales](/en/states/local-councils)
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

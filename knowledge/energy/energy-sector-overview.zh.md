@@ -252,6 +252,27 @@ RP4 的主要特征：
 - **"能源委员会监管全国。"** ST 的监管范围是西马与纳闽；沙巴与砂拉越各有自己的安排。
 - **"70% 再生能源目标意味着全国所有能源的 70%。"** NETR 的这一目标指的是电力结构（发电）中的再生能源产能，而非包括交通与工业在内的整个能源系统。
 
+## 深入了解本主题
+
+本领域的重点指南：
+
+- [电力供应行业改革](/zh/energy/electricity-supply-industry-reform-mesi/)
+- [马来西亚电费结构如何运作](/zh/energy/electricity-tariff-structure/)
+- [能源委员会（Suruhanjaya Tenaga）](/zh/energy/energy-commission-suruhanjaya-tenaga/)
+- [能源效率与节约法令](/zh/energy/energy-efficiency-conservation-act/)
+- [马来西亚如何每周设定燃油价格](/zh/energy/fuel-pricing-mechanism/)
+- [马来西亚燃油补贴制度](/zh/energy/fuel-subsidy-system/)
+- [马来西亚的氢能与碳捕集（CCUS）](/zh/energy/hydrogen-ccus-malaysia/)
+- [马来西亚的水力发电](/zh/energy/hydropower-malaysia/)
+- [国家能源转型路线图（NETR）](/zh/energy/national-energy-transition-roadmap-netr/)
+- [马来西亚的天然气与液化天然气（LNG）](/zh/energy/natural-gas-lng-malaysia/)
+- [1974年石油发展法令](/zh/energy/petroleum-development-act-1974/)
+- [马来西亚的可再生能源](/zh/energy/renewable-energy-in-malaysia/)
+- [砂拉越能源有限公司（SEB）](/zh/energy/sarawak-energy-berhad/)
+- [Petros 与砂拉越天然气之争](/zh/energy/sarawak-petros-gas-dispute/)
+- [马来西亚 SEDA](/zh/energy/seda-malaysia/)
+- [马来西亚太阳能](/zh/energy/solar-energy-malaysia/)
+
 ## 接下来该做什么
 
 如果你是消费者，最实际的步骤是理解你全新的 RP4 电费账单（四个组成部分），并查看你的 BUDI95 补贴资格。如果你是有意省下账单的屋主，可探索 SEDA 的 NEM 屋顶太阳能计划。

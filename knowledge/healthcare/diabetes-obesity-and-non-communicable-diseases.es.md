@@ -148,3 +148,5 @@ Una regla práctica sencilla: si tiene 30 años o más, o antecedentes familiare
 - **Reduzca el azúcar gradualmente.** Elija bebidas con el Logo de Elección Más Saludable o sin azúcar añadido; gracias al impuesto al azúcar, las alternativas bajas en azúcar suelen ser ahora más baratas.
 - **No espere a los síntomas.** La diabetes y la hipertensión suelen ser «silenciosas» — el cribado regular es la forma más segura de detectarlas a tiempo.
 - **Para decisiones personales**, consulte a un médico en su Clínica de Salud más cercana. Esta guía es información general y no constituye consejo médico.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

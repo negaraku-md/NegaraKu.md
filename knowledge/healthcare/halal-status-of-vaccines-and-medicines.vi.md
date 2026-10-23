@@ -136,3 +136,5 @@ Về phía cộng đồng, tình trạng halal thường là một trong những
 - Hãy kiểm tra các quyết định Muzakarah mới nhất qua cổng e-Fatwa của JAKIM hoặc trang của sở mufti cấp bang, vì fatwa có thể được cập nhật khi thành phần sản phẩm hoặc tính sẵn có của lựa chọn thay thế thay đổi.
 - Đối với những câu hỏi cụ thể về một nhãn hiệu vắc-xin hoặc thuốc nào đó, hãy tham vấn cơ quan tôn giáo cấp bang và người hành nghề y tế có chứng chỉ.
 - Bản thảo này là tài liệu do AI soạn chưa được rà soát; hãy bảo đảm mỗi trích dẫn fatwa được xác minh với tài liệu chính thức trước khi dùng làm cơ sở cho quyết định cá nhân.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

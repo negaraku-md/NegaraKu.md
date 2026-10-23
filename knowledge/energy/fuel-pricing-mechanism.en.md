@@ -111,3 +111,5 @@ The announced prices take effect for a full week. For example, the rates for 25 
 ## What's next
 
 To find the latest prices each week, check the Ministry of Finance's official press releases or the Price of Petroleum & Diesel dataset on OpenDOSM. If you want to understand who is eligible for the RM1.99 RON95 rate and how the 300-litre cap works, see the related article on the BUDI95 subsidy programme.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

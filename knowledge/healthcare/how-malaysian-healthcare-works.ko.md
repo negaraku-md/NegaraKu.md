@@ -151,6 +151,40 @@ MOH 자체의 Health Facts 2024 보고서(기준 연도 2023)에 따르면, 각 
 - **고용주가 SPIKPA를 선택 사항이거나 일회성 구매로 여기는 것.** 이는 채용 시 구입하는 일회성 증권이 아니라 각 취업 허가 갱신 주기에 연동된 반복 요건입니다.
 - **관광객이 여행 보험과 현지 제도를 서로 대체 가능하다고 여기는 것.** PeKa B40, MySalam, 국민 요금표 중 어느 것도 방문객에게 적용되지 않습니다. 여행 전에 구입한 여행/의료 보험이 유일한 실질적 안전망입니다.
 
+## 이 주제 자세히 살펴보기
+
+이 분야의 주요 가이드:
+
+- [말레이시아의 낙태법](/ko/healthcare/abortion-law-in-malaysia/)
+- [정말 의사가 맞는가? 말레이시아에서 의사와 보건 전문직의 등록을 확인하는 방법](/ko/healthcare/allied-health-and-medical-practitioner-registration/)
+- [말레이시아의 헌혈](/ko/healthcare/blood-donation-and-national-blood-centre/)
+- [약국 카운터 너머](/ko/healthcare/buying-medicine-pharmacies/)
+- [모든 아이를 위한 무료 백신](/ko/healthcare/childhood-vaccination/)
+- [말레이시아의 COVID-19](/ko/healthcare/covid-19-pandemic-response-and-legacy/)
+- [정부 치과 클리닉인가 민간인가? 말레이시아의 두 가지 치과 진료 체계 이해하기](/ko/healthcare/dental-care/)
+- [당뇨병, 비만, 비감염성 질환](/ko/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [말레이시아 장애인(OKU)의 의료 접근](/ko/healthcare/disability-and-oku-healthcare-access/)
+- [말레이시아의 의료 응급](/ko/healthcare/emergencies-999/)
+- [말레이시아 정부 병원](/ko/healthcare/government-hospitals/)
+- [백신과 의약품의 할랄 지위](/ko/healthcare/halal-status-of-vaccines-and-medicines/)
+- [말레이시아에서 아기 낳기](/ko/healthcare/having-a-baby-in-malaysia/)
+- [보건백서](/ko/healthcare/health-white-paper-and-system-reform/)
+- [부모가 더 이상 혼자 지낼 수 없을 때](/ko/healthcare/healthcare-for-seniors/)
+- [말레이시아의 HIV/AIDS 및 성 건강 서비스](/ko/healthcare/hiv-aids-and-sexual-health-services/)
+- [클리닉 크시하탄(Klinik Kesihatan)](/ko/healthcare/klinik-kesihatan/)
+- [말레이시아의 의료 보험](/ko/healthcare/medical-insurance/)
+- [말레이시아의 조용한 의료 관광 붐과 그 배후의 기관](/ko/healthcare/medical-tourism/)
+- [말레이시아에서 정신 건강 도움을 받을 곳](/ko/healthcare/mental-health-services/)
+- [MySejahtera와 말레이시아의 디지털 헬스 추진](/ko/healthcare/mysejahtera-and-digital-health-records/)
+- [말레이시아의 장기 기증](/ko/healthcare/organ-donation-and-transplant-registry/)
+- [말레이시아의 완화의료와 호스피스](/ko/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/ko/healthcare/peka-b40-and-health-schemes/)
+- [한 번의 입원, 두 장의 청구서](/ko/healthcare/private-hospitals-and-costs/)
+- [말레이시아의 공공 의료 체계](/ko/healthcare/public-healthcare-system-malaysia/)
+- [852법](/ko/healthcare/smoking-and-vaping-law-act-852/)
+- [말레이시아의 원격의료](/ko/healthcare/telemedicine-and-online-doctor-services/)
+- [전통·보완의학](/ko/healthcare/traditional-and-complementary-medicine/)
+
 ## 다음으로
 
 말레이시아 근로자를 산업재해와 장애에 대해 특별히 보장하는 사회보험 제도 — 위에서 설명한 것과는 다른 메커니즘 — 에 대해서는 [PERKESO(SOCSO)](/ko/glossary/socso-perkeso)를 보십시오. 이 페이지의 모든 것을 운영하고 규제하는 부처에 대해서는, 그 기구 페이지가 공개되면 Kementerian Kesihatan Malaysia(KKM)를 보십시오.

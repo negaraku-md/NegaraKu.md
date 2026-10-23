@@ -143,3 +143,5 @@ That is the real meaning of the systems-integration local-content target. It is 
 ## What's next
 
 The near-term story is arithmetic. Revenue is running close to the 2030 trajectory, and the workforce target is already met, so the honest question is no longer whether Malaysia can grow the sector but whether it can change its *character* — moving from maintaining and machining aircraft toward designing and integrating them. Watch three things: whether the systems-integration local-content share actually rises toward 70%, whether MRO share ticks up from 4% to 5% of a global market that is itself expanding, and whether the trade deficit narrows as home-grown design capability deepens. If those three move together, RM55 billion will be a floor rather than a finish line.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

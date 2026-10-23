@@ -136,3 +136,5 @@ Ces deux taxes sont des exemples concrets de la manière dont les pouvoirs des g
 - [Les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government) — comment diffèrent les pouvoirs fédéral, étatique et local
 - [La répartition des pouvoirs entre le gouvernement fédéral et les États](/fr/government/federal-state-division) — pourquoi le foncier relève des pouvoirs de l'État
 - [L'Assemblée législative de l'État (DUN)](/fr/government/state-assemblies-dun) — l'organe qui adopte les lois foncières de l'État
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

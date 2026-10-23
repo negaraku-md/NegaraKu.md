@@ -150,3 +150,5 @@ cơ sở của bạn.
   bang hay PBT: [Phân chia quyền lực Liên bang - Bang](/vi/government/federal-state-division)
 - Vai trò của Chính quyền Địa phương từng quản lý thoát nước thải
   trước khi tư nhân hóa năm 1994: [Hội đồng Địa phương](/vi/states/local-councils)
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

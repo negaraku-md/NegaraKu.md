@@ -202,3 +202,5 @@ DOSMが実際に公表し、定期的に更新しているのは、**体面あ�
   [Cost of Living Indicators 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024)、
   ならびにKPDNの
   [Controlled Items / PPHSSL page](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items)。
+
+詳しくは全体ガイドをご覧ください：[公式統計で見るマレーシアの生活費](/ja/cost-of-living/cost-of-living-overview/)。

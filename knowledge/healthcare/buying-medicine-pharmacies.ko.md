@@ -105,3 +105,5 @@ A/B/C 군 체계 외에도, 독약법은 그 법의 제3부칙에 따라 **향�
 ## 다음으로
 
 장기 복약 환자는 [의료 보험](/ko/healthcare/medical-insurance)에 관한 글을 읽어 약값이 건강 플랜에서 어느 정도까지 보장되는지 이해하십시오. 후속 약을 정기적으로 관리하는 고령자나 가족은 [고령자 의료](/ko/healthcare/healthcare-for-seniors)에서도, 매달 카운터에 갈 필요를 줄여 주는 우편 약 배송 같은 약국 부가 서비스를 설명합니다.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

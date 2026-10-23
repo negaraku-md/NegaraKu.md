@@ -123,3 +123,5 @@ Không lựa chọn nào trong số này "hợp lệ hơn" so với các lựa c
 ## Tiếp theo
 
 Trước khi nộp đơn vào taska, tadika hoặc prasekolah, hãy bảo đảm các giấy tờ nhận dạng của con bạn — MyKid hoặc giấy khai sinh — đã đầy đủ, vì chúng được yêu cầu ở giai đoạn nộp đơn. Nếu bạn vừa mới đăng ký khai sinh cho con, hãy đọc [đăng ký khai sinh](/vi/settling-in/registering-a-birth) để biết quy trình và giấy tờ liên quan trước khi bước sang giai đoạn đăng ký mầm non.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

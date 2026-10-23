@@ -127,3 +127,5 @@ SESB의 경우에도 동일한 서류 — MyKad 사본, 매매계약서/토지 �
 ## 무엇이 다음인가
 
 전기는 말레이시아의 새집에 이사 들어올 때 정리해야 하는 여러 가지 중 하나일 뿐입니다 — 관련된 다른 필요 사항 목록은 [말레이시아 이주 첫 단계](/settling-in/moving-to-malaysia-first-steps)를 보십시오. 새 건물에 이동통신 회선도 마련해야 하는 분은 [선불 및 후불 SIM 안내](/money-daily-life/mobile-sim-plans)를 참조하십시오.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

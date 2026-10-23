@@ -156,3 +156,5 @@ Kalendar akademik, struktur penggal dan cuti sekolah ditetapkan di peringkat keb
 ## Apa yang seterusnya
 
 Sistem persekolahan Malaysia mencerminkan negara yang dikhidmatinya: satu rangka kerja kebangsaan yang dikongsi bersama yang disampaikan melalui lebih daripada satu bahasa pengantar, mengekalkan kurikulum sepunya dan peperiksaan sepunya merentasi masyarakat yang berbeza. Untuk pelengkap praktikal kepada struktur ini — bila penggal bermula, berapa lama cuti, dan bagaimana ia sejajar dengan perayaan — baca [kalendar akademik dan cuti sekolah](/education/academic-calendar-and-school-holidays/). Untuk butiran berwibawa tentang dasar, kurikulum dan susunan pentaksiran semasa, portal Kementerian Pendidikan ialah sumber utama.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

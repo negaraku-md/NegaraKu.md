@@ -179,6 +179,36 @@ What ties all of them together on paper is the **Malaysian Qualifications Framew
 - **Assuming "polytechnic" and "community college" are interchangeable.** Both fall under the Ministry of Higher Education but are distinct institution types offering different qualification levels.
 - **Confusing the Ministry of Education (schools) with the Ministry of Higher Education (universities).** They are two separate ministries with two separate portals, budgets and ministers.
 
+## Explore this topic in depth
+
+The key guides in this area:
+
+- [Malaysia's School Calendar and School Holidays](/en/education/academic-calendar-and-school-holidays/)
+- [How to Enrol Your Child in a Government School](/en/education/enrolling-in-a-government-school/)
+- [Foreign University Branch Campuses and Education Hubs](/en/education/foreign-university-branch-campuses-and-education-hubs/)
+- [Gifted and Talented Education (PERMATApintar)](/en/education/gifted-and-talented-education/)
+- [Homeschooling in Malaysia](/en/education/homeschooling/)
+- [International Schools in Malaysia](/en/education/international-schools/)
+- [Studying in Malaysia as an International Student](/en/education/international-students-studying-in-malaysia/)
+- [Islamic and Religious Schools in Malaysia](/en/education/islamic-and-religious-schools/)
+- [JPA and Malaysia's Main Public Scholarship Schemes](/en/education/jpa-and-public-scholarships/)
+- [MQA and Degree Accreditation in Malaysia](/en/education/malaysian-qualifications-agency-and-accreditation/)
+- [The Malaysian School System](/en/education/malaysian-school-system/)
+- [MRSM and Fully Residential Schools (SBP)](/en/education/mrsm-and-fully-residential-schools/)
+- [MUET and University Entrance Tests](/en/education/muet-and-university-entrance-tests/)
+- [SK, SJKC and SJKT](/en/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG and the Cost of Schooling at Government Schools](/en/education/pibg-and-school-fees/)
+- [STPM, Matriculation, Foundation or A-Levels](/en/education/pre-university-routes/)
+- [Taska, Tadika, Prasekolah](/en/education/preschool-tadika-childcare/)
+- [Private and Chinese Independent Schools](/en/education/private-and-chinese-independent-schools/)
+- [PTPTN Isn't a Scholarship](/en/education/ptptn-student-loan/)
+- [IPTA or IPTS? How Malaysia's Public and Private Universities Actually Differ](/en/education/public-vs-private-universities/)
+- [Special Education in Malaysia](/en/education/special-education-and-learning-support/)
+- [Tuition Centres and Private Coaching in Malaysia](/en/education/tuition-centres-and-private-coaching/)
+- [Not Every Path Leads to University](/en/education/tvet-and-skills-training/)
+- [Unified Examination Certificate (UEC)](/en/education/unified-examination-certificate-uec/)
+- [From UPSR to SPM](/en/education/upsr-to-spm-exams/)
+
 ## What's next
 
 This page is the map, not the destination — it is deliberately light on any one branch so it can point to the detail. Dedicated articles on SPM and the school exam system, on choosing between STPM, matriculation and private pre-university routes, on how TVET certification actually works, and on how public university admission is coordinated, sit downstream of this overview on NegaraKu.md and go into the mechanics that this page only maps out.

@@ -163,3 +163,5 @@ Untuk angka kelayakan dan tarif terkini yang tepat — batas usia, batas
 pendapatan, tarif biaya layanan, dan masa tenggang dalam jumlah bulan —
 periksa langsung di portal resmi PTPTN pada tanggal Anda berniat melamar,
 mengingat syarat-syarat ini ditinjau ulang dari waktu ke waktu.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

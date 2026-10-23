@@ -151,3 +151,5 @@ Nói ngắn gọn: công việc của bạn là chọn đúng cơ sở và bảo
 ## Tiếp theo
 
 Một khi bạn đã xác nhận kiểm định, sự phê duyệt tuyển sinh quốc tế, và chấp nhận thư mời của mình, giai đoạn tiếp theo là chính Thẻ Sinh viên — được đề cập từng bước, bao gồm Thư Phê duyệt Thị thực, khám sàng lọc y tế và i-Kad, trong [Thẻ Sinh viên: Vì sao Trường của Bạn Nộp hồ sơ với EMGS, Không phải Bạn](/vi/settling-in/student-pass). Sau khi thẻ của bạn được chứng thực, hầu hết sinh viên chuyển sang các bước ổn định cuộc sống thực tế như [chuyển đến Malaysia: các bước đầu tiên](/vi/settling-in/moving-to-malaysia-first-steps) và [mở một tài khoản ngân hàng Malaysia](/vi/money-daily-life/opening-bank-account).
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

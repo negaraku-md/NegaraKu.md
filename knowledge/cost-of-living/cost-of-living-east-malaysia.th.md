@@ -139,3 +139,5 @@ keywords: ["cost of living Sabah", "cost of living Sarawak", "why is Sabah expen
 - สำหรับการแยกย่อยงบประมาณครัวเรือนมาเลเซียทั่วไปในระดับชาติ ดู[เงินริงกิตของครัวเรือนมาเลเซียไปไหนจริง ๆ ในแต่ละเดือน](/th/cost-of-living/household-spending-breakdown)
 - สำหรับความสัมพันธ์ระหว่างค่าจ้างขั้นต่ำระดับชาติกับตัวเลขรายได้มัธยฐาน/เฉลี่ย ดู[ค่าจ้างขั้นต่ำเทียบกับรายได้มัธยฐาน](/th/cost-of-living/minimum-wage-and-median-income)
 - แหล่งข้อมูลหลัก: [รายงานการสำรวจรายได้ครัวเรือน 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) ของ DOSM และ [ตัวชี้วัดค่าครองชีพ 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024) และ [หน้าสินค้าควบคุม / PPHSSL](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items) ของ KPDN
+
+ดูคู่มือฉบับเต็ม: [ค่าครองชีพของมาเลเซีย ตามตัวเลขทางการ](/th/cost-of-living/cost-of-living-overview/)

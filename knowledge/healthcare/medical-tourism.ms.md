@@ -146,3 +146,5 @@ Ringkasnya: MHTC adalah pintu depan dan promoter, bukan pengawal selia dan bukan
 ## Apa yang seterusnya
 
 Dua soalan berkaitan yang tidak dijawab secara mendalam oleh artikel ini: bagaimana seorang pesara asing yang tinggal di Malaysia di bawah [MM2H](/settling-in/mm2h-long-stay-visa) mengakses penjagaan kesihatan swasta secara harian (soalan yang berbeza daripada lawatan pelancongan perubatan yang singkat), dan bagaimana produk insurans kesihatan swasta dan takaful Malaysia melayani bukan warganegara. Kedua-duanya lebih hampir kepada sisi "tinggal di sini" penjagaan kesihatan berbanding sisi "terbang masuk untuk rawatan" yang dibincangkan di atas.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

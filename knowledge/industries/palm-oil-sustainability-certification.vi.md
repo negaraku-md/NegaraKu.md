@@ -175,3 +175,5 @@ Vì rủi ro đã chuyển từ đồn điền sang giấy tờ. Một người 
 - **Xác nhận bạn đang theo MS 2530:2022.** Các đơn đăng ký mới và tái chứng nhận được đánh giá đối chiếu với tiêu chuẩn đã sửa đổi, không phải phiên bản 2013 — kiểm tra ấn bản giấy chứng nhận và chu kỳ kiểm toán của bạn với cơ quan chứng nhận.
 - **Xác minh trạng thái của một nhà sản xuất trực tiếp.** Đối với MSPO, kiểm tra các hồ sơ chứng nhận công khai của MPOCC; đối với RSPO, sử dụng cơ sở dữ liệu thành viên và chứng nhận RSPO thay vì dựa vào lời của một nhà cung cấp.
 - **Coi việc tuân thủ về lao động như tuân thủ thương mại.** Vụ WRO của Hoa Kỳ cho thấy tài liệu về phúc lợi người lao động nay là một vấn đề tiếp cận thị trường, chứ không chỉ là một vấn đề nhân sự.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

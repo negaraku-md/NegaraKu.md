@@ -151,3 +151,5 @@ Act 861 không chỉ là một bài tập kiểm toán. Nó là một phần tro
 Nếu tổ chức của bạn có thể vượt ngưỡng 21,600 GJ, bước đầu tiên là cộng tổng mức tiêu thụ năng lượng hằng năm của tất cả các cơ sở của bạn và kiểm tra xem liệu bạn có cần bổ nhiệm một người quản lý năng lượng đã đăng ký hay không. Chủ các tòa nhà văn phòng lớn nên kiểm tra diện tích sàn gộp và tính BEI hiện tại so với mức trần 250 kWh/m²/năm.
 
 Để biết các yêu cầu đăng ký mới nhất, danh sách các người quản lý và kiểm toán viên năng lượng đã đăng ký, các biểu mẫu, và các hạn chót nộp báo cáo, hãy tham khảo trang của Suruhanjaya Tenaga trực tiếp. Nội dung này là một cái nhìn tổng quát và không phải lời khuyên pháp lý; hãy xác nhận bất kỳ ngưỡng, hình phạt, hoặc hạn chót nào với văn bản chính thức của Act 861 và Energy Efficiency and Conservation Regulations 2024.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

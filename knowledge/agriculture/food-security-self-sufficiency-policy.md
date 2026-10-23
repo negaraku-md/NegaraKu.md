@@ -144,3 +144,5 @@ Ringkasnya, mencapai SSL tinggi bukan sekadar isu menanam lebih banyak, tetapi s
 Pantau *Supply and Utilization Accounts* tahunan DOSM untuk angka SSR terkini setiap komoditi — inilah ukuran rasmi yang menentukan sama ada Malaysia menghampiri atau menjauhi sasaran DAN 2.0. Perhatikan juga semakan pertengahan penggal RMK-12 dan peruntukan belanjawan bagi program padi, kerana sasaran interim 75% (2025) menjadi petunjuk awal sama ada matlamat 80% (2030) masih tercapai.
 
 Untuk gambaran lebih mendalam, artikel berkaitan tentang industri padi dan peranan KPKM akan menghuraikan mekanisme pelaksanaan di sebalik angka dasar ini.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

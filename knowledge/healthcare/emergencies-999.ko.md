@@ -133,3 +133,5 @@ keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "
 ## 다음으로
 
 이 페이지는 의료 응급 지원을 받는 방법과 응급실에서 예상되는 일을 설명합니다. 벌금이나 PDRM 조치가 함께 얽히는 교통사고에 대해서는 [말레이시아의 교통 소환장(Saman)](/ko/transport/traffic-summons-saman)을, 경찰의 조직과 집행 권한 자체에 대해서는 [말레이시아 왕립경찰(PDRM)](/ko/government/pdrm)을 참조하십시오.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

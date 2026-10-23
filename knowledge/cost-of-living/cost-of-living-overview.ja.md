@@ -220,6 +220,23 @@ DOSMの家計支出調査は、支出を12のカテゴリーに分類してい�
   データであるかのように引用すること。** それは誤りである——上記の理
   由により、DOSMはそのような指数を公表していない。
 
+## このトピックを詳しく見る
+
+この分野の主要ガイド:
+
+- [B40・M40・T20](/ja/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku（生活費参照予算）](/ja/cost-of-living/belanjawanku-reference-budget/)
+- [なぜミロの缶がクランよりコタキナバルで高いのか](/ja/cost-of-living/cost-of-living-east-malaysia/)
+- [ジョホールバルの生活費](/ja/cost-of-living/cost-of-living-johor-bahru/)
+- [なぜクアラルンプールはマレーシアで最も生活費が高い場所なのか](/ja/cost-of-living/cost-of-living-kuala-lumpur/)
+- [ペナンの生活費は海峡で分かれる](/ja/cost-of-living/cost-of-living-penang/)
+- [マレーシアの世帯のリンギットは、毎月実際どこへ消えていくのか](/ja/cost-of-living/household-spending-breakdown/)
+- [マレーシアは外国人居住者にとって生活費が安いのか？公式統計が実際に語ること](/ja/cost-of-living/is-malaysia-affordable-for-expats/)
+- [世界生活費指数におけるマレーシアの順位](/ja/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [最低賃金と所得中央値の比較](/ja/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/ja/cost-of-living/padu-central-database/)
+- [マレーシアはいかにして便乗値上げを取り締まるか](/ja/cost-of-living/price-control-anti-profiteering-act/)
+
 ## 次に読むべき記事
 
 - 個人の給与がこれらの世帯数値とどう対比されるかについては：

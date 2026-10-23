@@ -236,3 +236,5 @@ while senior citizens can read more at
 [Healthcare for Senior Citizens](/en/healthcare/healthcare-for-seniors).
 For genuine emergency situations, see
 [Emergencies and 999](/en/healthcare/emergencies-999).
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

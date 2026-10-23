@@ -168,3 +168,5 @@ Selepas bantahan peribumi yang berlarutan, dipimpin masyarakat Kenyah, Kayan dan
 Masa depan hidrokuasa Malaysia berkisar pada dua arah yang berbeza. Di Semenanjung, agenda utama ialah memanjangkan hayat loji sedia ada — seperti Kenyir melalui HLEP — dan projek baharu yang lebih kecil untuk menyokong sasaran tenaga boleh baharu negara. Di Sarawak, Baleh akan menentukan sama ada model empangan mega dapat disiapkan mengikut jadual sambil mengelakkan kontroversi yang membelenggu Bakun dan Murum.
 
 Untuk pembaca yang ingin mendalami topik ini, langkah seterusnya yang berguna termasuk memahami peranan hidro dalam sasaran tenaga boleh baharu nasional, membandingkan kos hidro dengan solar dan tenaga lain, serta menjejaki bagaimana hak tanah adat dan penilaian kesan alam sekitar terus membentuk keputusan projek. Perhatikan pengumuman rasmi daripada Sarawak Energy, RECODA dan Suruhanjaya Tenaga untuk angka dan status projek yang terkini.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

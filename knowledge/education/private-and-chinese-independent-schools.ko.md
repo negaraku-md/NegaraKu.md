@@ -111,3 +111,5 @@ keywords:
 ## 다음 단계
 
 애초에 중국어 교수 학교 교육이 왜 별개의 경로로 존재하는지의 언어적 배경은 [말레이시아에서 쓰이는 언어](/ko/malaysia/languages-spoken)를 참고하십시오. 이 학교들과 나란히 있는 정부 제도에 아동이 어떻게 배정되는지는 [공립학교에 자녀 등록하기](/ko/education/enrolling-in-a-government-school)를, 어느 쪽이든 폼 5 이후 시험이 어떻게 되는지는 [UPSR에서 SPM까지](/ko/education/upsr-to-spm-exams)를, 그리고 UEC 또는 SPM 이수자가 다음에 실제로 무엇을 선택하는지는 [공립 대 사립 대학교](/ko/education/public-vs-private-universities)를 참고하십시오.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

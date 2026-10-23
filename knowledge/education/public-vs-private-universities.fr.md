@@ -241,3 +241,5 @@ envisagez une voie que l'UPU ne couvre pas — UEC, A-Level ou un diplôme d'un 
 vérifiez le programme exact qui vous est proposé sur le Registre des qualifications
 de Malaisie avant de vous inscrire, quel que soit le type d'établissement ayant
 émis l'offre.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

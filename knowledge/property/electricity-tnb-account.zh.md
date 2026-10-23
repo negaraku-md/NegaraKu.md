@@ -127,3 +127,5 @@ keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", 
 ## 下一步
 
 电供只是搬入马来西亚新住宅时需要处理的其中一项事务——参见[搬迁至马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps)，了解其他相关事项的清单。若同时需要在新住宅安排手机通讯服务，请参见[预付与月结 SIM 卡指南](/zh/money-daily-life/mobile-sim-plans)。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

@@ -147,3 +147,5 @@ Un trait distinctif de la Malaisie est le **dépistage prénuptial obligatoire d
 ## Et ensuite
 
 Si vous souhaitez vous faire dépister, contactez la Klinik Kesihatan publique la plus proche ou consultez le localisateur du Conseil malaisien du sida pour trouver des cliniques et des ONG proposant le dépistage, la PrEP et la PEP. Rappelez-vous que la PEP est sensible au temps — dans les 72 heures suivant l'exposition. Pour plus d'informations officielles, consultez les sites du ministère de la Santé de Malaisie et du Conseil malaisien du sida. Cet article est un brouillon généré par IA qui nécessite une révision humaine avant publication, et les chiffres et dispositions juridiques doivent être revérifiés auprès des sources officielles les plus récentes.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

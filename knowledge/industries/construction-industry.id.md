@@ -224,3 +224,5 @@ Jika Anda berencana untuk memasuki atau berkembang dalam industri ini, langkah p
 Untuk memahami kerangka hukum yang mendasari semua ini, baca lebih lanjut mengenai **Act 520** dan peran **CIDB** sebagai badan regulator utama. Keduanya menjelaskan kekuasaan di balik sistem gred dan syarat pendaftaran yang dibahas di sini.
 
 Angka dan syarat dalam artikel ini diambil dari terbitan resmi CIDB dan Jabatan Perangkaan Malaysia. Tarif biaya, batas gred, dan syarat modal dapat diubah dari waktu ke waktu — selalu konfirmasikan rincian terkini langsung dengan CIDB sebelum membuat keputusan pendaftaran atau penawaran.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

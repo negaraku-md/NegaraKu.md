@@ -152,3 +152,5 @@ Sijil halal semakin dibaca sebagai isyarat kebersihan, kebolehkesanan dan kawala
 Perhatikan tiga perkara. Pertama, sama ada pertumbuhan eksport mengekalkan kadar dua angkanya dan merapatkan jurang ke arah sasaran 10.8%-daripada-KDNK-menjelang-2030. Kedua, sama ada kapasiti pensijilan berkembang cukup pantas untuk berhenti menjadi kekangan mengikat yang sentiasa disebut kerajaan. Ketiga, sama ada sempadan-sempadan baharu agenda HIMP 2030 — farmaseutikal halal, kosmetik, logistik dan pelancongan — berkembang menjadi barisan eksport yang bermakna dan bukannya kekal kebanyakannya makanan.
 
 Untuk angka tertentu — terma insentif bagi sesebuah taman, atau pecahan eksport tahun semasa mengikut destinasi — semak HDC dan MITI/MIDA secara langsung, kerana angka dan jadual insentif taman dikemas kini dari semasa ke semasa. Angka yang disahkan di sini diambil daripada sumber yang disenaraikan di atas dan mencerminkan data setahun penuh terkini yang tersedia pada masa penulisan.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

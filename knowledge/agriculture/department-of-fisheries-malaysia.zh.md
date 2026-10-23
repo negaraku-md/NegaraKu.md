@@ -113,3 +113,5 @@ keywords: ["Department of Fisheries Malaysia", "DOF", "Jabatan Perikanan Malaysi
 ## 接下来
 
 在依据以下资料行事之前，请直接在渔业局门户网站 dof.gov.my 上确认当前的执照程序、费用与现任渔业总监。2024年的产量数据与该局的机构历史，仍有待对照渔业局的官方年度报告加以核实。
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

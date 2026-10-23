@@ -120,3 +120,5 @@ Bil air secara amnya dikira berdasarkan **bacaan meter sebenar** — jumlah air 
 ---
 
 *Struktur pengendalian air mengikut negeri, peranan SPAN dan PAAB, serta status Ranhill SAJ sebagai pengendali swasta disahkan secara langsung pada laman rasmi masing-masing. Proses pendaftaran akaun dirujuk daripada laman sokongan rasmi Air Selangor sebagai contoh; butiran boleh berbeza mengikut syarikat air negeri lain dan perlu disemak semula oleh penyemak manusia sebelum artikel ini disahkan.*
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

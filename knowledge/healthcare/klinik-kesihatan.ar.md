@@ -132,3 +132,5 @@ keywords: ["عيادة الصحة ماليزيا", "عيادة حكومية ما
 
 لفهم مرفق أسنان حكومي منفصل عن عيادة الصحة (Klinik Kesihatan)، اقرأ [عيادة أسنان حكومية أم خاصة؟ فهم نظامَي رعاية الأسنان في ماليزيا](/healthcare/dental-care).
 وللاطلاع على نظرة عامة على موضوعات صحية أخرى في ماليزيا — من التأمين الخاص إلى السياحة العلاجية — تصفّح فئة [الرعاية الصحية](/healthcare). ولحجز موعد فعلي، ادخل إلى الخدمة الرسمية عبر [بوابة MyGovernment](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan).
+
+اطّلع على الدليل الكامل: [كيف تعمل الرعاية الصحية الماليزية فعليًا](/ar/healthcare/how-malaysian-healthcare-works/).

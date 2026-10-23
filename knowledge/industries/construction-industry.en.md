@@ -224,3 +224,5 @@ If you are planning to enter or expand in this industry, the most practical step
 To understand the legal framework underlying all of this, read further about **Act 520** and the role of **CIDB** as the principal regulatory body. Both explain the authority behind the grading system and registration requirements discussed here.
 
 The figures and requirements in this article are drawn from official publications of CIDB and the Department of Statistics Malaysia. Fee rates, grade limits and capital requirements may be amended from time to time — always verify the latest details directly with CIDB before making registration or bidding decisions.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

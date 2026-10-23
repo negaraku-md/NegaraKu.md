@@ -130,3 +130,5 @@ keywords: ["private hospital Malaysia", "private hospital bill", "specialist con
 ## 下一步
 
 关于按金与保证函的具体细节，你自己保险公司的理赔或医疗卡指引是最新的信息来源，因为各保险公司与各医院之间的合作安排各不相同。至于发牌框架本身，卫生部对 Act 586 的列示会链接到当前的重印版本。而如果某份账单上出现服务税项目，按行业逐一说明的服务税详解页面正是查证当前适用情况及适用对象的地方。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

@@ -118,3 +118,5 @@ Belanjawanku is also the basis for the EPF's new Retirement Income Adequacy (RIA
 ## What's next
 
 You can check the specific figures for your own situation through the Belanjawanku app, which takes into account your city, marital status, life stage and mode of transport. Use these figures as a benchmark: compare them with your actual spending, identify the gaps, and check whether your retirement savings are approaching the RIA benchmark. To understand the poverty context, see the related article on the Poverty Line Income.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

@@ -185,3 +185,5 @@ Lembah Klang sebenarnya dikumpulkan. Dari segi pendapatan,
 [Pajak Pendapatan Individu](/id/money-daily-life/income-tax-individuals) menjelaskan
 apa yang terjadi pada gaji Kuala Lumpur yang lebih tinggi itu sebelum ia sampai ke
 anggaran rumah tangga sendiri.
+
+Lihat panduan lengkap: [Biaya Hidup Malaysia, Menurut Angka Resmi](/id/cost-of-living/cost-of-living-overview/).

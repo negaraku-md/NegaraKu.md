@@ -126,3 +126,5 @@ RM1,700에서, 최저임금은 2024년 중위 개인 급여 RM2,793의 약 61% �
   [가계소득조사 보고서 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   및
   [급여 및 임금 조사 보고서 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024).
+
+전체 가이드 보기: [공식 수치로 본 말레이시아의 생활비](/ko/cost-of-living/cost-of-living-overview/).

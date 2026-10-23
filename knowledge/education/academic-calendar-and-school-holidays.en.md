@@ -124,3 +124,5 @@ Sabah and Sarawak are in **Group B**, so they follow the same date shift and Sat
 - Make sure you are looking at the **correct group column** (A or B) for your child's state; the wrong column means being off by a day.
 - Match the term-break dates with your state's **public holidays**, because Islamic festivals and Sabah/Sarawak holidays can add or shift days.
 - For broader context, refer to the public holidays in Malaysia page and the structure of the Malaysian school system.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

@@ -170,3 +170,5 @@ laluan Pengiktirafan Pencapaian Terdahulu (PPT) bagi bidang berkenaan. Dan
 jika majikan anda menghantar anda untuk latihan kemahiran berasaskan
 levy HRD Corp, baca juga panduan mengenai levy HRD Corp untuk memahami
 bagaimana latihan sedemikian dibiayai di peringkat majikan.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

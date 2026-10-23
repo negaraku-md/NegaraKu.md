@@ -148,3 +148,5 @@ applicable à votre bien.
   et non aux États ni aux Autorités locales : [Répartition des pouvoirs fédéral-État](/fr/government/federal-state-division)
 - Le rôle des Autorités locales qui géraient l'assainissement avant
   la privatisation de 1994 : [Conseils locaux](/fr/states/local-councils)
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

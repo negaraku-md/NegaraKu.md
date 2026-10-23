@@ -150,3 +150,5 @@ Pelan ini merangkumi tiga bidang teras, 12 pemacu pertumbuhan dan 132 inisiatif.
 Bagi usahawan dan pelabur, langkah praktikal seterusnya ialah menyemak keperluan pelesenan khusus sektor (contohnya kod SWEC PETRONAS bagi minyak & gas) dan meneliti kelayakan program pembangunan vendor yang berkaitan secara langsung dengan agensi pelaksana. Untuk data terkini pemilikan dan sasaran, rujuk terbitan rasmi TERAJU dan agensi berkaitan.
 
 *Nota: Ini ialah draf yang dijana AI dan memerlukan semakan manusia sebelum diterbitkan. Semua angka dipetik daripada sumber yang dirujuk; kaedah pengiraan berbeza boleh menghasilkan angka yang berbeza.*
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

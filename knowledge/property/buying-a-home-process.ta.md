@@ -137,6 +137,33 @@ Stamp Act-இன் Third Schedule-இன் கீழ், இந்த வர�
 - **SPA வழக்கறிஞரின் பாத்திரத்தை வங்கியின் வழக்கறிஞரின் பாத்திரத்துடன் குழப்பிக்கொள்ளுதல்.** வங்கியின் வழக்கறிஞர் வங்கியின் பிணையத்தைப் பாதுகாக்க ஈடுபடுத்தப்படுகிறார், வாங்குபவரின் SPA விதிமுறைகளைப் பேச்சுவார்த்தை நடத்த அல்ல.
 - **ஒரு வலைப்பதிவு இடுகையிலிருந்து ஒரு முத்திரை வரி விலக்கு வரம்பை நிரந்தரமானது போல் மேற்கோள் காட்டுதல்.** விலக்கு ஆணைகள் தங்கள் சொந்த தொடக்க மற்றும் முடிவுத் தேதிகளைக் கொண்ட சட்டமாக்கப்பட்ட கருவிகள் — அதைச் சுற்றி வரவு செலவைத் திட்டமிடுவதற்கு முன், தற்போது அமலில் உள்ளது எது என்பதை உறுதிசெய்யுங்கள்.
 
+## இந்தத் தலைப்பை ஆழமாக ஆராயுங்கள்
+
+இந்தத் துறையின் முக்கிய வழிகாட்டிகள்:
+
+- [அரசாங்க மலிவு வீட்டுத் திட்டங்கள் (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/ta/property/affordable-housing-schemes/)
+- [வீட்டு வரியும் நில வரியும்](/ta/property/assessment-and-quit-rent/)
+- [மலேசியாவில் காண்டோ வாழ்க்கை](/ta/property/condo-living-maintenance-fees/)
+- [TNB, SESB மற்றும் Sarawak Energy மின்சாரக் கணக்கு](/ta/property/electricity-tnb-account/)
+- [மலேசியாவில் வாடகை வீடு தேடுதல்](/ta/property/finding-a-rental/)
+- [வெளிநாட்டினர் மலேசியாவில் சொத்து வாங்க முடியுமா? விலை அடிமட்டமும் மாநில ஒப்புதலும் விளக்கம்](/ta/property/foreigners-buying-property/)
+- [நிரந்தர உரிமை, குத்தகை உரிமை, அடுக்கு உரிமம், தனி நிலம்](/ta/property/freehold-leasehold-strata-landed/)
+- [வீட்டில் எரிவாயு வழங்கல்](/ta/property/gas-supply-piped-cooking-gas/)
+- [மலேசியாவில் அடைப்புச் சமூகங்களும் காவல் குடியிருப்புகளும்](/ta/property/gated-communities-and-security/)
+- [மலேசியாவில் வீட்டுக் கடன் மற்றும் அடமான நிதியளிப்பு](/ta/property/home-loan-mortgage-financing/)
+- [வீடு வாங்குவோர் பாதுகாப்பு](/ta/property/homebuyer-protection-abandoned-projects/)
+- [IWK ஒரு நீர் நிறுவனம் அல்ல](/ta/property/indah-water-sewerage/)
+- [மலேசியாவில் வீட்டு ஃபைபர் பிராட்பேண்ட்](/ta/property/internet-and-fibre/)
+- [சொத்து முகவர்களுடன் பணிபுரிதல்](/ta/property/property-agents-and-fees/)
+- [ஏலத்தில் சொத்து வாங்குதல் (வங்கி ஏலம் Bank Lelong)](/ta/property/property-auctions-foreclosure/)
+- [சொத்து வாரிசுரிமை](/ta/property/property-inheritance-faraid-distribution/)
+- [சொத்து விற்கும்போது அசையா சொத்து ஆதாய வரி (RPGT)](/ta/property/real-property-gains-tax/)
+- [வீட்டு மறுசீரமைப்பு ஒப்புதல்கள் மற்றும் நிறைவு-இணக்கச் சான்றிதழ் (CCC)](/ta/property/renovation-permits-and-ccc/)
+- [மலேசியாவில் வீடு வாடகைக்கு எடுக்க தனி வாடகைச் சட்டம் இல்லை](/ta/property/renting-a-home-tenancy/)
+- [குப்பை, மறுசுழற்சி மற்றும் உள்ளூராட்சி மன்றம்](/ta/property/rubbish-and-local-council/)
+- [அடுக்குச் சொத்து நிர்வாகம்](/ta/property/strata-management-jmb-mc/)
+- [மலேசியாவின் நீர் வழங்கல்](/ta/property/water-supply/)
+
 ## அடுத்தது என்ன
 
 நீங்கள் பெறவிருக்கும் உரிமப் பத்திரம் உண்மையில் எதை உறுதியளிக்கிறது என்பதற்கு — freehold எதிராக leasehold, மற்றும் strata எதிராக நிலம் சார்ந்தது — காண்க [Freehold, Leasehold, Strata, Landed](/ta/property/freehold-leasehold-strata-landed). நில அலுவலகப் பதிவை இயங்கச் செய்யும் உரிமை மாற்ற மனு மற்றும் பிணையத்திற்குப் பின்னால் உள்ள சட்டத்திற்கு, காண்க [National Land Code 1965](/ta/law/national-land-code).

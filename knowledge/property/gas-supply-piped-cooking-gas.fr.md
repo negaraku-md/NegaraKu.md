@@ -159,3 +159,5 @@ Achetez uniquement auprès de distributeurs agréés et assurez-vous que le scea
 ## Et ensuite
 
 Si votre maison se trouve dans la zone de couverture de Gas Malaysia, contactez-les pour confirmer la couverture de votre adresse, la liste des documents et les coûts les plus récents avant de vous inscrire. Si vous utilisez le GPL, gardez à portée de main le numéro d'un distributeur agréé et vérifiez le tuyau et le détendeur par routine. Les prix plafonds et les détails de la subvention sont révisés de temps à autre par le KPDN, alors confirmez les prix les plus récents auprès d'un distributeur ou de sources officielles avant toute décision importante. Pour une image complète des services du foyer, consultez également les guides sur l'alimentation en électricité et en eau.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

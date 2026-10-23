@@ -167,3 +167,5 @@ Skala dukungan ini besar. Pada 2024, DOSM melaporkan 262,618 OKU menerima bantua
 - **Periksa kelayakan tunjangan.** Bandingkan syarat EPOKU (bekerja) dan BTB (tidak mampu bekerja) — Anda hanya dapat menerima satu.
 
 Tarif dan syarat kelayakan dapat berubah menurut alokasi tahunan. Verifikasi angka terkini dengan JKM (saluran 03-8000 8000) atau portal resmi eBantuan JKM sebelum membuat permohonan.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

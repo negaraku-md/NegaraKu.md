@@ -113,3 +113,5 @@ Dans un contrat de vente normal (SPA), vous négociez le prix, inspectez le bien
 ## Et ensuite
 
 Procurez-vous la Proclamation de vente du lot spécifique et lisez chaque clause, en particulier les termes relatifs aux arriérés et à la possession libre. Confirmez s'il s'agit d'une enchère du Tribunal supérieur ou LACA afin de connaître le dépôt et le délai qui s'appliquent réellement, et sécurisez une approbation de prêt pouvant être décaissée dans cette fenêtre. Pour les enchères judiciaires, inscrivez-vous à l'avance sur la plateforme e-Lelong du Pouvoir judiciaire, et envisagez d'engager un avocat spécialisé en conveyancing avant — et non après — d'enchérir. Comparez le prix ajusté au risque par rapport à un achat conventionnel sous un SPA normal avant de vous engager.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

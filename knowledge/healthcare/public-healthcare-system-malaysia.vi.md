@@ -189,3 +189,5 @@ Logic thiết kế mang tính phòng ngừa và bảo vệ: sàng lọc sớm ng
 ## Tiếp theo
 
 Nếu bạn đang dùng hệ thống, lộ trình thực tế rất đơn giản: đăng ký tại một *klinik kesihatan* để chăm sóc ban đầu và để việc chuyển tuyến đưa bạn lên chăm sóc bệnh viện khi cần, và kiểm tra điều kiện thụ hưởng PeKa B40 nếu bạn từ 40 tuổi trở lên và nhận trợ cấp tiền mặt. Về quỹ đạo cải tổ, **Sách Trắng Y tế của Malaysia** (Health White Paper for Malaysia), được trình và thông qua bởi Quốc hội vào tháng 6 năm 2023, đặt ra một **chân trời cải tổ 15 năm (2023–2038)** trong ba pha mỗi pha năm năm, được giám sát bởi một cơ quan cải tổ độc lập. Trong số các sáng kiến đáng theo dõi có **Rakan KKM**, một chương trình "kinh tế cao cấp" cung cấp các dịch vụ ngoại trú, chăm sóc ban ngày, và nội trú theo kế hoạch có thu phí tại một số bệnh viện MOH được chọn — bao gồm Hospital Cyberjaya, Hospital Putrajaya, Hospital Sultan Idris Shah Serdang, và Viện Ung thư Quốc gia (IKN) — được định giá dưới mức tư nhân và triển khai từ năm 2025.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

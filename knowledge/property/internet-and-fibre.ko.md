@@ -113,3 +113,5 @@ keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre 
 ## What's next
 
 가정용 브로드밴드와 함께 이동통신 서비스를 마련하는 경우 — Unifi Home 회선과 자주 묶이는 Unifi Mobile 포함 — 그곳의 등록과 제공업체 선택이 어떻게 작동하는지는 [말레이시아에서 이동통신 SIM 구입하기](/ko/money-daily-life/mobile-sim-plans)를 참조하십시오.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

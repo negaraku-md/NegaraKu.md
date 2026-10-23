@@ -181,3 +181,5 @@ Para una visión general de otros temas de salud en Malasia — desde el seguro
 privado hasta el turismo médico — explora la categoría [Sanidad](/en/healthcare).
 Para pedir una cita real, accede al servicio oficial a través del
 [portal MyGovernment](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan).
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

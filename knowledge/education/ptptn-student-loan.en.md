@@ -166,3 +166,5 @@ For accurate eligibility figures and current rates — age limit, income
 limit, service charge rate, and the moratorium period in number of months
 — check directly on the official PTPTN portal on the date you intend to
 apply, since these conditions are reviewed from time to time.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

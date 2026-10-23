@@ -243,3 +243,5 @@ for how UPU's centralised public-university system compares with applying
 directly to a private university. For how many students fund whichever route
 they choose, see
 [PTPTN Bukan Biasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi](/en/education/ptptn-student-loan).
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

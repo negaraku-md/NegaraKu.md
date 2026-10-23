@@ -205,3 +205,5 @@ Para la concesión de licencias de arroz, consulte el portal de licencia
 electrónica de la Regulación del Arroz Paddy y el Arroz. Y si su pregunta en
 realidad trata de colonos o pequeños productores de caucho, dirija su atención
 hacia el KKDW en `rurallink.gov.my`.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

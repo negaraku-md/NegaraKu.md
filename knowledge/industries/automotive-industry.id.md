@@ -218,3 +218,5 @@ Kerangka keputusan sederhana:
 Perhatikan tiga hal. Pertama, **insentif EV**: pembebasan impor CBU sudah berakhir pada 1 Januari 2026, dan apakah Malaysia melanjutkan atau mengganti keringanan pajak CKD sebelum ia kedaluwarsa pada 31 Desember 2027 akan membentuk EV mana yang terjangkau dan di mana ia dibangun. Kedua, **volume EV lokal**: rencana Perodua untuk meningkatkan produksi QV-E dari sekitar 500 unit sebulan ke arah 3,000 unit sebulan menjelang Q3 2026, dan langkah Proton untuk merakit EV secara lokal, akan menguji apakah merek nasional mampu membuat mobil listrik pada harga mobil nasional. Ketiga, **konsolidasi dan persaingan**: dengan Sime Darby kini berada di puncak Perodua dan Toyota, dan merek Tiongkok mendorong kuat ke dalam pasar, pangsa dua pertiga yang nyaman dinikmati merek nasional tidak lagi terjamin.
 
 Untuk angka dasar, sumber utama adalah MITI dan MIDA untuk kebijakan, DRB-HICOM dan pengumuman produsen mobil sendiri untuk kepemilikan dan produk, dan tinjauan pasar tahunan Persatuan Automotif Malaysia untuk penjualan — semuanya ditautkan di bawah.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

@@ -156,3 +156,5 @@ keywords: ["JMB", "MC", "Perbadanan Pengurusan", "Badan Pengurusan Bersama", "Tr
 - 参阅第757号法令及《2015年分层管理条例》全文，或就执法问题联系你所在地方政府的**建筑物专员（COB）**。
 
 *本文为一般指南，非法律意见。条文编号与数字引自《2013年分层管理法令》（第757号法令）及相关条例；行动前请以最新法定文本核实。*
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

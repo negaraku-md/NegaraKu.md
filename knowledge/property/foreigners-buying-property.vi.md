@@ -156,3 +156,5 @@ Vượt cả hai cửa vẫn còn để lại hóa đơn thuế. Từ ngày 1 th
 ## Tiếp theo
 
 Một khi quyền sở hữu thực sự chuyển sang tên một chủ nước ngoài, các nghĩa vụ liên tục là những nghĩa vụ mà mọi chủ bất động sản tại Malaysia đối mặt — xem [thuế định giá và thuế đất, và ai thu mỗi loại](/vi/property/assessment-and-quit-rent). Về hai sự kiện thuế đóng khung chính việc sở hữu, xem [biểu thuế trước bạ khi mua](/vi/taxation/stamp-duty-rates) và [RPGT khi bán về sau](/vi/taxation/rpgt-rates). Và về lối visa khiến việc mua bất động sản trở thành bắt buộc chứ không phải tùy chọn, xem [bốn bậc của visa lưu trú dài hạn MM2H](/vi/settling-in/mm2h-long-stay-visa).
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

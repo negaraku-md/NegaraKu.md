@@ -118,3 +118,5 @@ Belanjawanku juga menjadi dasar bagi Kerangka Kecukupan Pendapatan Pensiun (RIA)
 ## Apa selanjutnya
 
 Anda dapat memeriksa angka khusus untuk keadaan Anda sendiri melalui aplikasi Belanjawanku, yang mempertimbangkan kota, status perkawinan, tahap hidup dan moda transportasi Anda. Gunakan angka ini sebagai tolok ukur: bandingkan dengan pengeluaran nyata Anda, identifikasi kesenjangan, dan periksa apakah simpanan pensiun Anda mendekati tolok ukur RIA. Untuk memahami konteks kemiskinan, rujuk artikel terkait tentang Pendapatan Garis Kemiskinan.
+
+Lihat panduan lengkap: [Biaya Hidup Malaysia, Menurut Angka Resmi](/id/cost-of-living/cost-of-living-overview/).

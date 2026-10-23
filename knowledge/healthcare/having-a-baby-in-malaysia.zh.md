@@ -131,3 +131,5 @@ keywords: ["having a baby in Malaysia", "pregnancy Malaysia", "antenatal care Ma
 ## 下一步
 
 若想了解这套产前护理体系所处的更广泛公共基层医疗系统，请参阅[马来西亚政府健康诊所如何运作](/zh/healthcare/klinik-kesihatan)。若想了解分娩若在私人医院进行，入院与账单实际上是如何运作的，请参阅[马来西亚私人医院究竟如何收费](/zh/healthcare/private-hospitals-and-costs)。至于每一次出生之后、无论在何处发生都必须办理的法定步骤，请参阅[马来西亚出生登记](/zh/settling-in/registering-a-birth)。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

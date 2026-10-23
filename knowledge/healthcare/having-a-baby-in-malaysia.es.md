@@ -132,3 +132,5 @@ Como este es un proceso sustancial por sí mismo — documentos requeridos, qué
 ## Qué sigue
 
 Para el sistema público de atención primaria más amplio dentro del cual se sitúa esta vía prenatal, consulte [cómo funcionan las clínicas de salud públicas en Malasia](/en/healthcare/klinik-kesihatan). Para saber cómo funcionan en realidad un ingreso y una factura de hospital privado si el parto ocurre de forma privada, consulte [cómo le cobran en realidad los hospitales privados en Malasia](/en/healthcare/private-hospitals-and-costs). Y para el paso legal que sigue a todo nacimiento con independencia de dónde haya ocurrido, consulte [registrar un nacimiento en Malasia](/en/settling-in/registering-a-birth).
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

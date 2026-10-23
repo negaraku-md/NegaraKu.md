@@ -173,3 +173,5 @@ keywords: ["cost of living Kuala Lumpur", "कुआलालंपुर रह
 [व्यक्तियों के लिए व्यक्तिगत आयकर](/money-daily-life/income-tax-individuals)
 समझाता है कि उस ऊँचे कुआलालंपुर वेतन के साथ घर के अपने बजट तक पहुँचने से पहले क्या
 होता है।
+
+पूरी गाइड देखें: [मलेशिया में रहन-सहन की लागत, आधिकारिक आँकड़ों के अनुसार](/hi/cost-of-living/cost-of-living-overview/)।

@@ -111,3 +111,5 @@ IWK는 1994년 4월 2일 하수도서비스법 1993(Sewerage Services Act 1993, 
 
 - 왜 하수도 관리 권한이 주나 PBT가 아니라 연방에 있는지: [연방-주 권한 분배](/government/federal-state-division)
 - 1994년 민영화 이전에 하수도를 관리하던 지방자치단체의 역할: [지방 의회](/states/local-councils)
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

@@ -136,3 +136,5 @@ Beberapa perkembangan telah dilaporkan secara terbuka: pada Mei 2020, Petronas d
 Rangka kerja teras kekal seperti pada 1974: pemilikan terletak hak pada Petronas, "tidak boleh batal", dengan bayaran tunai kepada persekutuan dan negeri ditentukan melalui perjanjian dan bukan oleh kadar berkanun. Apa yang terus berubah ialah lapisan di atasnya — undang-undang negeri, entiti negeri seperti Petros, penyelesaian komersial, dan deklarasi bersama.
 
 Bagi pembaca yang mengikuti perkembangan ini, tiga perkara wajar disemak terhadap sumber utama sebelum membuat sebarang kesimpulan: (1) terma tepat mana-mana perjanjian penyerahhakan atau penyelesaian, yang jarang diterbitkan secara penuh; (2) sebarang keputusan mahkamah terkini tentang bidang kuasa negeri berbanding persekutuan; dan (3) teks kemas kini Akta 144 di portal Attorney General's Chambers, kerana angka dan pindaan boleh berubah. Draf ini disediakan dengan bantuan AI dan memerlukan semakan manusia sebelum diterbitkan.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

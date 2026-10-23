@@ -220,3 +220,5 @@ comparent aux salaires individuels, consultez
   du DOSM, et la
   [page des Articles contrôlés / PPHSSL](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items)
   du KPDN.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

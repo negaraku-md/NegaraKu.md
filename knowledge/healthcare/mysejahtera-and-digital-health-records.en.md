@@ -116,3 +116,5 @@ But progress has been slow. According to the Deputy Director of the MOH's Digita
 - Follow the phased EMR rollout at hospitals and health clinics near you.
 - Check the **Appointments** and **Health Records** functions in MySejahtera before your next visit to a clinic.
 - Watch for data protection reforms — under Section 3 of the Personal Data Protection Act 2010, the Act does not apply to the Federal Government and State Governments, a gap that raises governance questions when health data is held by government entities.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

@@ -170,3 +170,5 @@ Jarak antara aktual 52.9% dan target 75%-menjelang-2025 adalah ketegangan inti k
 - **Lacak SSL tahunan** dalam Akun Pasokan dan Konsumsi DOSM dan pernyataan Kementerian — ia adalah ukuran utama tunggal apakah kesenjangan impor sedang ditutup.
 - **Perhatikan peninjauan ulang BERNAS 2031**, yang akan menentukan apakah konsesi importir tunggal diperbarui, direstrukturisasi atau dibuka, dan apa yang terjadi pada tanggung jawab sosial yang dibiayainya.
 - **Konfirmasikan angka-angka tersisa** yang ditandai dalam *verificationNeeded* — kawasan padi ditanam dan ton produksi yang tepat, dan jumlah petani terdaftar — terhadap sumber utama DOSM dan KPKM sebelum mengutipnya sebagai final.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

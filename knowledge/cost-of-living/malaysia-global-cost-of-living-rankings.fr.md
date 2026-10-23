@@ -137,3 +137,5 @@ Le Département de la statistique de Malaisie (DOSM) mesure quelque chose de dif
 ## Et ensuite
 
 Utilisez ces indices comme un repère directionnel, pas comme un budget personnel. Si vous planifiez un déménagement ou une affectation, consultez les gros titres de Mercer et de l'EIU de l'année en cours pour le classement, recoupez avec la page par ville de Numbeo pour Kuala Lumpur, Penang ou Johor Bahru, puis ancrez les chiffres réels aux données de prix domestiques du DOSM. Les classements changent d'une année à l'autre avec les taux de change, alors citez toujours l'édition de l'enquête que vous reprenez.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

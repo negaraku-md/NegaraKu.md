@@ -148,3 +148,5 @@ Une règle pratique simple : si vous avez 30 ans ou plus, ou des antécédents f
 - **Réduisez le sucre progressivement.** Choisissez des boissons portant le Logo du choix plus sain ou sans sucre ajouté ; grâce à la taxe sur le sucre, les alternatives pauvres en sucre sont désormais souvent moins chères.
 - **N'attendez pas les symptômes.** Le diabète et l'hypertension sont souvent « silencieux » — le dépistage régulier est le moyen le plus sûr de les détecter tôt.
 - **Pour les décisions personnelles**, consultez un médecin dans votre clinique de santé la plus proche. Ce guide est une information générale et ne constitue pas un avis médical.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

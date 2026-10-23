@@ -154,3 +154,5 @@ Esta división está escrita en la propia Act 610: los párrafos 14(1)(a)–(c) 
 - Las leyes centrales que hace cumplir: la Ley de Suministro de Electricidad de 1990 (Act 447) y la Ley de Suministro de Gas de 1993 (Act 501)
 - La nueva obligación para los grandes consumidores: la Ley de Eficiencia y Conservación de la Energía de 2024 (Act 861)
 - Lea el estatuto fundacional en el [texto completo de la Act 610](https://faolex.fao.org/docs/pdf/mal37918.pdf) o consulte el mandato oficial en la [página «Quiénes somos» de la ST](https://www.st.gov.my/about-us)
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

@@ -148,3 +148,5 @@ keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrik
 - 明白任何鸡肉或鸡蛋价格管制都需与全球饲料成本一并解读——这才是决定供应能否保持稳定的真正因素。
 
 *本文为AI辅助生成的草稿，尚未经过人工编辑审校。所有数字均引自所列官方来源；在做出决策前，请直接向DOSM和JPV核实最新数字。*
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

@@ -136,3 +136,5 @@ PBT가 평가세를 부과할 권한은 **지방정부법(Local Government Act 1
 - [말레이시아 세 층위의 정부](/government/three-tiers-of-government) — 연방·주·지방의 권한이 어떻게 다른지
 - [연방-주 권한 분배](/government/federal-state-division) — 토지가 왜 주 권한 목록에 포함되는지
 - [주 의회(DUN)](/government/state-assemblies-dun) — 주 토지법을 통과시키는 기관
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

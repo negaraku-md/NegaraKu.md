@@ -149,3 +149,5 @@ BERNAS(Padiberas Nasional Berhad)는 정부 기관으로 자주 오해됩니다.
 ## 다음은 무엇입니까
 
 구체적인 업무를 위해서는 올바른 부서로 곧장 가십시오: 작물과 식물위생은 `doa.gov.my`, 축산과 동물 건강은 `dvs.gov.my`, 수산은 `dof.gov.my`, 수입 검역은 `maqis.gov.my`. 쌀 허가는 벼·쌀 규제 e-Lesen 포털을 참고하십시오. 그리고 당신의 질문이 사실 정착민이나 고무 소규모 자작농에 관한 것이라면, `rurallink.gov.my`의 KKDW로 초점을 옮기십시오.
+
+전체 가이드 보기: [말레이시아 농업 및 농식품 부문](/ko/agriculture/agriculture-sector-overview/).

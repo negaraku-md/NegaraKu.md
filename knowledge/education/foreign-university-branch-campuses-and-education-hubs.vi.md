@@ -179,3 +179,5 @@ Nếu bạn đang chọn giữa các cơ sở này, một vài sự phân biệt
 Mô hình cơ sở chi nhánh là mảng công trình kỹ thuật trung tâm giáo dục thành công nhất của Malaysia, và blueprint 2026-2035 là một canh bạc rằng nó có thể được mở rộng gấp năm lần. Liệu canh bạc đó có thành công hay không phụ thuộc ít hơn vào việc thêm các logo mà nhiều hơn vào việc chuyển sức hút khu vực rõ ràng của đất nước — các văn bằng phương Tây và Trung Quốc có giá trị, một bối cảnh đa văn hóa ổn định, sự gần gũi với các thị trường châu Á đang tăng trưởng nhanh — thành phạm vi tiếp cận toàn cầu bền vững.
 
 Để có bối cảnh sâu hơn, hãy xem các bài viết đồng hành về sinh viên quốc tế tại Malaysia và hành lang kinh tế Iskandar Malaysia đã cho EduCity một mái nhà. Các con số ở đây được lấy từ các nguồn thể chế và chính sách hiện hành đến năm 2026; dữ liệu nhập học và các mục tiêu blueprint được sửa đổi định kỳ, nên hãy xác minh các con số mới nhất với Bộ Giáo dục Đại học (Ministry of Higher Education) và từng tổ chức trước khi đưa ra quyết định.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

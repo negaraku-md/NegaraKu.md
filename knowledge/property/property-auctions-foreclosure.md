@@ -112,3 +112,5 @@ In a normal sale-and-purchase agreement (SPA), you negotiate price, inspect the 
 ## What's next
 
 Get the Proclamation of Sale for the specific lot and read every clause, especially the arrears and vacant-possession terms. Confirm whether it is a High Court or LACA auction so you know the deposit and deadline that actually apply, and secure loan approval that can disburse within that window. For court auctions, register on the Judiciary's e-Lelong platform in advance, and consider engaging a conveyancing lawyer before — not after — you bid. Compare the risk-adjusted price against a conventional purchase under a normal SPA before committing.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

@@ -134,3 +134,5 @@ Bài viết này không đứng về bất kỳ lập trường nào trong cuộ
 - Học sinh và cha mẹ có thể so sánh cả hai con đường về mặt địa điểm, chương trình và ngày nộp đơn trước khi đưa ra lựa chọn.
 
 > Lưu ý: Đây là bản thảo do AI tạo và cần được con người rà soát. Các con số và chính sách có thể thay đổi — hãy xác nhận với các nguồn chính thức của MARA và KPM trước khi đưa ra quyết định.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

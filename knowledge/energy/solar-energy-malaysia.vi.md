@@ -164,3 +164,5 @@ CREAM (Community Renewable Energy Aggregation Mechanism) mở rộng khả năng
 Các chương trình điện mặt trời của Malaysia đang phát triển nhanh chóng, và những mốc thời gian quan trọng đang đến gần. Hạn ngạch NEM 3.0 kết thúc vào ngày 30 tháng 6 năm 2025 — nếu bạn là chủ nhà hoặc doanh nghiệp, hãy kiểm tra hạn ngạch còn lại trên cổng SEDA và lấy báo giá từ đơn vị lắp đặt có đăng ký càng sớm càng tốt. Các công ty cân nhắc CRESS hoặc CGPP nên tính toán tác động của Phí Tiếp cận Hệ thống đối với tổng chi phí năng lượng trước khi ký PPA. Đối với nhà đầu tư, kết quả đấu thầu LSS5 và các vòng LSS sắp tới sẽ định hướng thị trường điện mặt trời tiện ích của quốc gia.
 
 Hãy theo dõi các thông báo chính thức từ Ủy ban Năng lượng, SEDA và Single Buyer để biết về hạn ngạch mới, thay đổi biểu giá, và chương trình thay thế sau khi NEM 3.0 kết thúc.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

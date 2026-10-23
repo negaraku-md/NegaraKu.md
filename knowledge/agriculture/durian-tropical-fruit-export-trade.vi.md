@@ -166,3 +166,5 @@ Chiến lược, vì vậy, có ba chân: giữ và mở rộng quyền tiếp c
 ## Tiếp theo
 
 Hãy theo dõi ba điều. Thứ nhất, liệu Malaysia có mở rộng bảo hộ GI ra nước ngoài hay không — khoảng trống lớn nhất trong chiến lược thương hiệu hiện tại. Thứ hai, vấn đề sầu riêng cắt sẵn và gia tăng giá trị được giải quyết như thế nào, vì bất kỳ phương pháp nào nằm ngoài nghị định thư đã ký đều gây rủi ro cho thị trường Trung Quốc đối với tất cả mọi người. Thứ ba, liệu việc đa dạng hóa sang Đài Loan và Peru có chuyển từ nguyện vọng thành các nghị định thư đã ký hay không. Đối với người trồng, điều rút ra thực tế không đổi: không có đăng ký DOA, tuân thủ myGAP và phê duyệt GACC thì không có xuất khẩu sầu riêng tươi, chấm hết. Các con số ở đây được lấy từ các phúc đáp trước nghị viện và các tuyên bố của cơ quan và sẽ thay đổi khi dữ liệu chính thức mới hơn được công bố — hãy kiểm tra Bộ Nông nghiệp và An ninh Lương thực cùng MATRADE để biết các con số hiện hành.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

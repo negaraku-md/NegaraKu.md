@@ -159,3 +159,5 @@ Chỉ mua từ nhà phân phối có giấy phép và bảo đảm dấu niêm p
 ## Tiếp theo
 
 Nếu nhà bạn nằm trong khu vực phủ sóng của Gas Malaysia, hãy liên hệ họ để xác nhận địa chỉ có được phủ sóng, danh sách giấy tờ và chi phí cập nhật trước khi đăng ký. Nếu bạn dùng LPG, hãy giữ số điện thoại của nhà phân phối có giấy phép ở gần và kiểm tra ống cùng bộ điều áp như một thói quen. Giá trần và chi tiết trợ giá được KPDN rà soát theo thời gian, nên hãy xác nhận giá cập nhật với nhà phân phối hoặc nguồn chính thức trước khi đưa ra quyết định lớn. Để có bức tranh đầy đủ về tiện ích trong nhà, hãy xem thêm hướng dẫn về cung cấp điện và nước.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

@@ -160,3 +160,5 @@ The legal position on abortion in Malaysia hinges on a balance: a general prohib
 For anyone who needs information relating to their actual circumstances, the most appropriate step is to consult a registered medical practitioner directly or to seek professional legal advice, because every case depends on its own facts and clinical assessment.
 
 This draft was prepared with AI assistance and is still awaiting human review. It is intended to explain the legal framework neutrally, and is not a substitute for official advice.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

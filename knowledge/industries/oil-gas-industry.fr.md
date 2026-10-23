@@ -235,3 +235,5 @@ Si vous poussez vos recherches plus loin, les prochaines étapes à plus forte v
 - Consulter le **Rapport intégré de PETRONAS** annuel et les **statistiques pétrolières trimestrielles du DOSM** pour les derniers chiffres de production, d'exportation et de contribution.
 
 Ces sources primaires vous tiendront à jour à mesure que les chiffres évoluent — mais l'architecture sous-jacente, un propriétaire unique accordant des licences à de nombreux contractants au titre de conditions de partage de production, tient depuis 1974 et ne montre aucun signe de changement.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

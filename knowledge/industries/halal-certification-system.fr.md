@@ -231,3 +231,5 @@ Si vous comptez déposer une demande, commencez par mettre à jour vos documents
 Gardez à l'esprit que les détails des frais, des périodes de validité et des procédures de cet article sont tirés du Manuel de procédure de certification halal de la Malaisie (National) 2020, et que JAKIM met à jour le manuel et les procédures de temps à autre — y compris la transition vers l'e-Cert en 2025. Vérifiez toujours les derniers chiffres et conditions via le système MYeHALAL et le portail officiel de JAKIM avant de déposer une demande.
 
 Pour comprendre le cadre juridique plus large, une étape suivante utile est de se renseigner sur la **Trade Descriptions Act 2011** et le rôle de **JAKIM** comme organe fédéral de coordination des affaires islamiques.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

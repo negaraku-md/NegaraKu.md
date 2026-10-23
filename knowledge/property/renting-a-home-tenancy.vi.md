@@ -169,3 +169,5 @@ Cả hai con đường tồn tại chính vì không có một lối tắt theo 
 ## Tiếp theo
 
 Khi hợp đồng thuê đã được ký và đóng dấu, các bước thực tiễn tiếp theo thường là thiết lập các tài khoản tiện ích dưới tên người thuê và hiểu bất kỳ khoản phí ở cấp tòa nhà nào đi kèm với tiền thuê. Xem [mở tài khoản điện TNB](/vi/property/electricity-tnb-account) để biết quy trình Thay đổi Người thuê và khoản đặt cọc riêng của nó vận hành như thế nào, và [sống trong chung cư và phí bảo trì](/vi/property/condo-living-maintenance-fees) nếu căn hộ nằm trong một bất động sản phân tầng có tập đoàn quản lý riêng. Nếu bạn chưa tìm được căn hộ hoặc chưa xác minh người bạn đang giao dịch, [tìm nhà thuê ở Malaysia](/vi/property/finding-a-rental) bàn về các cổng thông tin và việc kiểm tra đăng ký REN nên diễn ra trước khi bất kỳ khoản đặt cọc nào đổi tay.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

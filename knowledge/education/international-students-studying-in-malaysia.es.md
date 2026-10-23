@@ -153,3 +153,5 @@ En resumen: su tarea es elegir la institución correcta y asegurar la oferta. A 
 Una vez que haya confirmado la acreditación, la aprobación de matrícula internacional, y aceptado su oferta, la siguiente etapa es el propio Pase de Estudiante — cubierto paso a paso, incluida la Carta de Aprobación de Visa, el examen médico y el i-Kad, en [El Pase de Estudiante: Por Qué Su Universidad Presenta el Trámite con EMGS, No Usted](/en/settling-in/student-pass). Después de que su pase sea refrendado, la mayoría de los estudiantes pasan a trámites prácticos de instalación como [mudarse a Malasia: primeros pasos](/en/settling-in/moving-to-malaysia-first-steps) y [abrir una cuenta bancaria malasia](/en/money-daily-life/opening-bank-account).
 
 ¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

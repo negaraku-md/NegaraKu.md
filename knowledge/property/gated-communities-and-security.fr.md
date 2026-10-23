@@ -121,3 +121,5 @@ Une RA est une société sous la Societies Act 1966 — volontaire, non légale,
 ## Et ensuite
 
 Si votre dispositif a déjà des titres strata et un JMB ou une MC, le salaire du gardien n'est qu'une ligne dans une facture légale plus large — voir [La vie en condominium en Malaisie](/en/property/condo-living-maintenance-fees) pour savoir comment ce financement fonctionne. Pour savoir qui approuve réellement une guérite, une barrière levante ou une demande de GN, voir [Les conseils locaux en Malaisie](/en/states/local-councils).
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

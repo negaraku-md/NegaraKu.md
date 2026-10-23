@@ -124,3 +124,5 @@ faq:
 ## 今後について
 
 個人医療カードの費用と自分の給与を比較検討している場合は、[個人所得税](/ja/money-daily-life/income-tax-individuals)を参照し、教育及び医療保険の所得控除が年次申告にどのように影響するかを確認すること。医療保障と並存するが、それに代わるものではない法定控除については、[従業員のEPFとSOCSO](/ja/money-daily-life/epf-socso-employees)を参照のこと。そして、医療給付が就職に伴うものである場合は、[マレーシアの雇用契約](/ja/employment/employment-contract-malaysia)が、雇用主が職務に付随する給付についてどこまで明示する義務があり、どこまではないのかを説明している。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

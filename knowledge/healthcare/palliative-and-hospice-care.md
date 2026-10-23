@@ -114,3 +114,5 @@ Ini sering dikelirukan. Penjagaan warga emas ialah penjagaan am bagi orang tua y
 ## Apa seterusnya
 
 Jika ahli keluarga anda menghidap penyakit serius, mulakan dengan berbincang dengan doktor atau pakar yang merawat mengenai rujukan paliatif. Bagi keluarga di Lembah Klang, hubungi Hospis Malaysia melalui laman web mereka. Untuk keperluan penjagaan am warga emas yang lebih luas, lihat panduan berkaitan kami tentang penjagaan kesihatan untuk warga emas.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

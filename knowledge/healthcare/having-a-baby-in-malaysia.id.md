@@ -132,3 +132,5 @@ Karena ini adalah satu proses yang cukup besar tersendiri — dokumen yang diper
 ## Apa selanjutnya
 
 Untuk sistem perawatan primer publik yang lebih luas tempat jalur antenatal ini berada, lihat [bagaimana klinik kesehatan pemerintah di Malaysia bekerja](/id/healthcare/klinik-kesihatan). Untuk bagaimana rawat inap dan tagihan rumah sakit swasta sebenarnya bekerja jika kelahiran berlangsung secara swasta, lihat [bagaimana rumah sakit swasta di Malaysia sebenarnya mengenakan biaya](/id/healthcare/private-hospitals-and-costs). Dan untuk langkah hukum yang mengikuti setiap kelahiran tanpa memandang di mana ia berlangsung, lihat [mendaftarkan kelahiran di Malaysia](/id/settling-in/registering-a-birth).
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

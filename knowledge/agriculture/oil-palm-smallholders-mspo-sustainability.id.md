@@ -148,3 +148,5 @@ Model dukungan yang sedang muncul bergantung pada pihak-pihak di atas petani. Pa
 Perhatikan tiga hal. Pertama, **kesiapan EUDR** sepanjang 2026 dan menjelang 2027 — apakah lot pekebun kecil Malaysia dipetakan dan terlacak sebelum tanggal berlakunya. Kedua, **kematangan audit MS 2530:2022**, yang kini menjadi dasar setiap pekebun diukur. Ketiga, **siapa yang membayar** — pertanyaan yang belum diselesaikan apakah biaya pemetaan dan sertifikasi ditanggung oleh petani, pabrik, atau program publik.
 
 Jika Anda menanam kelapa sawit di atas lot kecil, prioritas praktis adalah memastikan sertifikasi MSPO Anda masih terkini di bawah standar 2022 dan bertanya kepada pabrik pembeli atau koperasi Anda bagaimana mereka akan menangani pemetaan geolokasi untuk buah yang menuju ke UE. Untuk tinjauan lebih mendalam tentang skema sertifikasi itu sendiri dan perdebatan deforestasi di sekelilingnya, lihat artikel terkait tentang keberlanjutan minyak sawit dan industri minyak sawit.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

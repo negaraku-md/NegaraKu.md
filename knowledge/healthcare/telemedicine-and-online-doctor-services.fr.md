@@ -105,3 +105,5 @@ C'est pourquoi la directive exige que le médecin confirme et consigne l'identit
 ## Et ensuite
 
 Si vous utilisez un service de médecin en ligne, vérifiez que la plateforme désigne un médecin inscrit en Malaisie et délivre des dossiers et des ordonnances en règle. Considérez la téléconsultation comme optimale pour les suivis, les renouvellements d'ordonnances et les problèmes mineurs — et attendez-vous à ce qu'un bon médecin vous envoie en personne dès qu'un écran ne suffit plus. Notez aussi que le cadre repose sur une directive, et non sur une loi, de sorte que les règles pourraient se durcir si la Malaisie adopte à l'avenir une législation spécifique sur la télémédecine.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

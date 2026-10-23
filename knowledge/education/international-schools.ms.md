@@ -181,3 +181,5 @@ Ini ialah cukai yang diletakkan di atas yuran sekolah itu sendiri, bukan perubah
 ## Apa yang seterusnya
 
 Bagi aspek imigresen membawa keluarga ke Malaysia buat julung kalinya — termasuk bagaimana anak-anak pekerja asing ditaja untuk mengikutinya — lihat [Pas Tanggungan atau Pas Lawatan Sosial Jangka Panjang](/settling-in/dependant-social-visit-passes). Jika sekolah kerajaan Malaysia turut berada dalam senarai pendek perbandingan anda, lihat [Mendaftar ke Sekolah Kerajaan](/education/enrolling-in-a-government-school). Bagi cara syarikat di sebalik sesebuah sekolah didaftarkan buat julung kalinya, lihat [SSM — Suruhanjaya Syarikat Malaysia](/government/ssm). Dan bagi cukai yang kini terletak di atas yuran sekolah yang lebih tinggi, lihat [Pengembangan Cukai Perkhidmatan 1 Julai 2025, Mengikut Sektor](/taxation/sst-expansion-2025).
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

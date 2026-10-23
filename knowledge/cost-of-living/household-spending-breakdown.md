@@ -136,3 +136,5 @@ you.
 - Consult the primary release directly at
   [DOSM's Household Expenditure Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   for the full category tables and state-level breakdowns.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

@@ -136,3 +136,5 @@ keywords: ["kertas putih kesihatan", "reformasi kesihatan", "pembiayaan kesihata
 第一，必须设立一个有实权的执行与监督机构；没有它，分阶段的改革就没有掌舵者。第二，艰难的筹资决定——无论是缴费型计划、促进健康税，还是二者的结合——都需要敲定并向人民解释清楚。
 
 对读者而言，未来数年最值得关注的是：委员会或执行机构最终是否会设立，以及筹资建议是否会从研究走向政策。在这两件事发生之前，白皮书仍将是一个令人信服的愿景——但尚未得到全面落实。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

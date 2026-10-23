@@ -192,3 +192,5 @@ Bagi pembeli rumah pertama, dalam Anggaran 2026 pemerintah memperpanjang pembeba
 - Bandingkan pilihan MRTA dan MLTA dari lebih dari satu penyedia sebelum membuat komitmen.
 
 *Artikel ini adalah informasi umum, bukan nasihat keuangan. Rujuk bank, pengacara properti atau penasihat berlisensi untuk keadaan khusus Anda.*
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

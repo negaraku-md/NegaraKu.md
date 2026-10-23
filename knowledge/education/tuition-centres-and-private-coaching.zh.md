@@ -113,3 +113,5 @@ keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pe
 - 有意经营者：先注册商业实体（SSM），然后在租下商业场所之前，通过教育部系统申请设立批准。
 - 家长：索取州教育局的注册证明，并确保该中心符合所规定的员工条件。
 - 直接向所属州教育局，或教育部私立教育组的网站，查询最新的表格、检查清单和费用。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

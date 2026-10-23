@@ -188,3 +188,5 @@ empleador establecido en la ciudad al [hacer negocios en Johor
 Bahru](/en/business/doing-business-johor-bahru) compitiendo con salarios de escala
 singapurense. Para el panorama a nivel estatal dentro del cual se asienta esta
 ciudad, consulta la descripción general de [Johor](/en/states/johor).
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

@@ -247,3 +247,5 @@ Cabaran jangka pendek industri kelihatan dalam angkanya sendiri: stok pokok yang
 Untuk liputan NegaraKu.md yang lebih mendalam, bacaan seterusnya yang wajar ialah profil **Lembaga Minyak Sawit Malaysia** sebagai pengawal selia, dan **industri getah** Malaysia, tanaman yang digantikan oleh minyak sawit. Kerana angka-angka penting di sini berubah dengan setiap keluaran bulanan dan tahunan MPOB, anggap tan dan harga tertentu sebagai gambaran 2025 dan semak overview MPOB terkini sebelum memetiknya.
 
 *Ini ialah draf berbantukan AI dan belum lagi disemak oleh pakar bidang. Angka-angka bersumberkan MPOB, Kementerian Perladangan dan Komoditi serta MPOC seperti yang dipetik; sahkan terhadap keluaran MPOB terkini sebelum bergantung padanya. Perdebatan alam sekitar dan buruh sekitar minyak sawit diringkaskan di sini secara ringkas dan ia sendiri dipertikaikan — anggap ini sebagai gambaran keseluruhan, bukan kata putus.*
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

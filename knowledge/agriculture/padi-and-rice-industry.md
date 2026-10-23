@@ -169,3 +169,5 @@ The distance between the 52.9% actual and the 75%-by-2025 target is the core ten
 - **Track the annual SSL** in the DOSM Supply and Utilization Accounts and the Ministry's statements — it is the single headline measure of whether the import gap is closing.
 - **Watch the 2031 BERNAS review**, which will decide whether the sole-importer concession is renewed, restructured or opened up, and what happens to the social obligations it funds.
 - **Confirm the remaining figures** flagged in *verificationNeeded* — exact padi planted area and production tonnage, and the registered-farmer headcount — against DOSM and KPKM primary sources before citing them as settled.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

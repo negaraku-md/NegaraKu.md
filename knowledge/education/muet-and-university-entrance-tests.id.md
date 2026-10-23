@@ -175,3 +175,5 @@ Jika Anda berencana melanjutkan ke jenjang sarjana:
 4. **Rujuk portal resmi MPM** untuk tanggal ujian terkini, biaya, prosedur pendaftaran, dan spesifikasi format terbaru sebelum mengikuti ujian.
 
 Untuk informasi resmi dan terkini tentang pendaftaran, tanggal, dan format, rujuk portal Majelis Ujian Malaysia di mpm.edu.my.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

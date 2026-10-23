@@ -112,3 +112,5 @@ Broader context from peer-reviewed analysis: in 2022 the sector was valued at RM
 ## What's next
 
 Confirm current licence procedures, fees and the sitting Director-General directly on the DOF portal at dof.gov.my before relying on them. The 2024 production figures and the department's institutional history remain to be verified against DOF's primary annual reports.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

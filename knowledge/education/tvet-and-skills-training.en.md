@@ -171,3 +171,5 @@ skills, contact JPK directly about the Recognition of Prior Achievement
 skills training funded through the HRD Corp levy, also read the guide on
 the HRD Corp levy to understand how such training is financed at the
 employer level.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

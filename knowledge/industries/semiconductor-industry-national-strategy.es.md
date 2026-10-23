@@ -201,3 +201,5 @@ Si intenta situarse en esta industria, unas pocas preguntas cortan el ruido:
 La Estrategia Nacional de Semiconductores es temprana. Las señales a corto plazo a vigilar son si la inversión de la Fase 1 sigue trepando hacia la meta de RM500 mil millones, si la primera cohorte de campeones locales de diseño y empaquetado avanzado alcanza realmente la marca de RM1 mil millones de ingresos, y si el flujo de 60,000 ingenieros se materializa lo bastante rápido como para evitar un cuello de botella de talento. La prueba más difícil y posterior es la Fase 3: si Malasia puede atraer la fabricación de obleas de front-end en absoluto, dado el capital implicado.
 
 Como estas son cifras en movimiento, trate cada número de aquí como una instantánea ligada a la fecha de su fuente. Para el panorama autorizado y más actual, consulte directamente a la MIDA y al MITI, y contraste las actualizaciones oficiales de inversión en lugar de fiarse de un único anuncio.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

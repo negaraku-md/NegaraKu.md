@@ -113,3 +113,5 @@ Dado que forma parte de un sistema de educación privada regulado, los padres pu
 - Futuros operadores: empiece por registrar una entidad empresarial (SSM) y, a continuación, solicite la aprobación de establecimiento a través del sistema del MOE antes de alquilar un local comercial.
 - Padres: pida una prueba del registro en el JPN y asegúrese de que el centro cumple los requisitos de personal prescritos.
 - Consulte directamente el sitio web del JPN de su estado o de la División de Educación Privada del MOE para obtener los formularios, las listas de verificación y las tarifas más recientes.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

@@ -150,3 +150,5 @@ Lanskap ini berubah cepat. NEM telah menyerahkan tempat kepada Solar ATAP, dan m
 - Jika Anda pengguna komersial, bandingkan tarif kredit ekspor (SMP dibandingkan tarif eceran) sebelum menandatangani kontrak 10 tahun.
 
 Artikel ini adalah draf yang dihasilkan AI berdasarkan sumber resmi SEDA dan TNB; verifikasi angka kritis terhadap dokumen resmi sebelum bertindak.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

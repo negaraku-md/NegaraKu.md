@@ -162,3 +162,5 @@ Thứ ba, **an ninh lương thực so với tính bền vững.** SSL 90.2% ngh�
 Nếu bạn là một chủ doanh nghiệp hoặc nhà đầu tư, hãy chú ý đến phân khúc nuôi trồng thủy sản: đó là nơi tập trung tăng trưởng sản xuất và hỗ trợ chính sách, và LKIM là cửa vào để tiếp cận tín dụng, cơ sở hạ tầng cập cảng và việc tham gia Hiệp hội Ngư dân. Để hiểu khuôn khổ cấp phép, hãy bắt đầu với Fisheries Act 1985 và việc phân chia các vùng khai thác do Cục Thủy sản Malaysia quản lý.
 
 Nếu mối quan tâm của bạn là chính sách an ninh hoặc hàng hải, con số quan trọng nhất không phải là số tấn sản xuất mà là 434 vụ xâm phạm và khoản thiệt hại RM3–6 tỷ mỗi năm — chính những con số đó thúc đẩy việc đầu tư phương tiện của MMEA và các sửa đổi về mức phạt. Thống kê thủy sản hằng năm của Cục Thủy sản và các báo cáo thực thi của MMEA là các nguồn chính thức để theo dõi diễn biến từ năm này sang năm khác.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

@@ -161,3 +161,5 @@ Jika Anda ingin memahami atau mempertimbangkan donasi organ:
 - Untuk statistik terkini, periksa dasbor resmi [KKMNOW](https://data.moh.gov.my/dashboard/organ-donation).
 
 *Artikel ini bersifat informasi umum dan netral; ia bukan nasihat medis atau agama. Rujuk sumber resmi dan otoritas terkait untuk keputusan pribadi.*
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

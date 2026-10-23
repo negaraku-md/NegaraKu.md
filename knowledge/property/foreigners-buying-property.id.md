@@ -156,3 +156,5 @@ Ujung lain dari kepemilikan juga membawa tarif khusus warga asingnya sendiri: se
 ## Apa selanjutnya
 
 Begitu hak milik benar-benar berpindah ke nama pemilik asing, kewajiban berkelanjutannya sama seperti yang dihadapi setiap pemilik properti di Malaysia — lihat [pajak taksiran dan pajak tanah, dan siapa yang memungut masing-masing](/id/property/assessment-and-quit-rent). Untuk dua peristiwa pajak yang mengapit kepemilikan itu sendiri, lihat [jadwal bea meterai saat perolehan](/id/taxation/stamp-duty-rates) dan [RPGT saat pelepasan akhirnya](/id/taxation/rpgt-rates). Dan untuk jalur visa yang menjadikan pembelian properti wajib alih-alih pilihan, lihat [empat tingkatan visa tinggal lama MM2H](/id/settling-in/mm2h-long-stay-visa).
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

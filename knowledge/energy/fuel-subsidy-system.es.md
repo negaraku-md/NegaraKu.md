@@ -277,3 +277,5 @@ El sistema de subsidios al combustible de Malasia sigue evolucionando. Algunas c
 - **Los precios mundiales del petróleo.** Como el precio *no subsidiado* sigue al mercado, una subida de los precios mundiales del petróleo amplía la brecha entre RM1.99 y el precio completo, lo que hace más importante la cuota.
 
 Para información oficial y actualizada, consulte el portal BUDI MADANI y los comunicados de prensa del Ministerio de Finanzas. Las cifras de esta guía son exactas a la fecha de actualización; los precios del combustible y los detalles del programa pueden cambiar.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

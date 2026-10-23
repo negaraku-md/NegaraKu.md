@@ -132,3 +132,5 @@ Le rôle de MARDI se situe en amont : il fournit les variétés de semences à h
 ## Et ensuite
 
 La trajectoire de MARDI s'oriente vers la commercialisation et une agriculture résiliente au climat — riz tolérant aux herbicides et hybride, amélioration assistée par la biotechnologie et agriculture de précision qui alimente des programmes comme SMART SBB. Pour quiconque suit la sécurité alimentaire de la Malaisie, il vaut la peine de surveiller les homologations de variétés de MARDI et sa collaboration avec le ministère sur les objectifs nationaux d'autosuffisance. Pour le détail primaire, le profil de l'institut lui-même et ses pages de recherche sur le paddy et le riz sont les points de départ les plus fiables, et la Loi MARDI (Loi 11) établit son mandat statutaire.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

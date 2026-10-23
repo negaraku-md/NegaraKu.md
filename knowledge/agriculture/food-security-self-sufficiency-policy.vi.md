@@ -145,3 +145,5 @@ Nói ngắn gọn, đạt SSL cao không chỉ là vấn đề trồng nhiều h
 Hãy theo dõi *Supply and Utilization Accounts* hằng năm của DOSM để biết các con số SSR mới nhất của từng mặt hàng — đây là thước đo chính thức xác định liệu Malaysia đang tiến gần hay xa mục tiêu DAN 2.0. Cũng hãy chú ý đến việc rà soát giữa kỳ của RMK-12 và các khoản phân bổ ngân sách cho các chương trình lúa, vì mục tiêu trung gian 75% (2025) là một chỉ báo sớm về việc liệu mục tiêu 80% (2030) có còn đạt được hay không.
 
 Để có một bức tranh sâu hơn, các bài viết liên quan về ngành lúa và vai trò của KPKM sẽ giải thích các cơ chế thực thi đằng sau những con số chính sách này.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

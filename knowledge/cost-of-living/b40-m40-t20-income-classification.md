@@ -108,3 +108,5 @@ Kerana ia sentiasa berubah. Sempadan ringgit B40/M40/T20 dikira semula setiap pu
 - **Untuk kedudukan tepat anda:** rujuk laporan penuh Tinjauan Pendapatan Isi Rumah 2024 di portal DOSM, yang menyenaraikan nilai potong terkini.
 - **Untuk semakan bantuan:** ingat kebanyakan skim menilai pendapatan seluruh isi rumah, bukan gaji seorang.
 - **Untuk perbandingan wajar:** timbang kos sara hidup setempat — label yang sama membawa maksud berbeza di bandar besar berbanding luar bandar.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

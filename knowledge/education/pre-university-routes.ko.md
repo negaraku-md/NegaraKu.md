@@ -144,3 +144,5 @@ A-Level은 말레이시아 자격이 아니라 영국 자격입니다 — Cambri
 ## 다음 단계
 
 대학 예비 결과를 손에 넣으면, 다음 결정은 어떤 종류의 기관에 지원할지입니다 — UPU의 중앙화된 공립대학 시스템이 사립대학에 직접 지원하는 것과 어떻게 비교되는지는 [IPTA인가 IPTS인가? 말레이시아의 공립·사립 대학교가 실제로 어떻게 다른가](/ko/education/public-vs-private-universities)를 참고하십시오. 많은 학생이 선택한 경로를 어떻게 재정 지원받는지는 [PTPTN은 장학금이 아니다: 이 교육 대출이 실제로 작동하는 방식](/ko/education/ptptn-student-loan)을 참고하십시오.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

@@ -136,3 +136,5 @@ Both these taxes are concrete examples of how state and local government powers 
 - [Malaysia's three tiers of government](/en/government/three-tiers-of-government) — how federal, state and local powers differ
 - [The federal-state division of powers](/en/government/federal-state-division) — why land falls under state powers
 - [The State Legislative Assembly (DUN)](/en/government/state-assemblies-dun) — the body that passes state land laws
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

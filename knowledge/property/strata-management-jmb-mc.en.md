@@ -156,3 +156,5 @@ Suppose an MC at a condominium finds that an owner has failed to pay maintenance
 - Refer to the full text of Act 757 and the Strata Management Regulations 2015, or contact the **Commissioner of Buildings (COB)** at your Local Authority for enforcement issues.
 
 *This article is general guidance, not legal advice. Section numbers and figures refer to the Strata Management Act 2013 (Act 757) and related regulations; verify against the latest statutory text before acting.*
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

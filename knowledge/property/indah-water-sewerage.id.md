@@ -112,3 +112,5 @@ Kategori pelanggan juga berbeda dasarnya — premis domestik, komersial, industr
 
 - Mengapa kekuasaan mengelola air limbah berada di tangan federal, bukan negeri atau PBT: [Pembagian Kekuasaan Federal-Negeri](/id/government/federal-state-division)
 - Peran Pihak Berwenang Setempat yang dahulu mengelola air limbah sebelum privatisasi 1994: [Majelis Setempat](/id/states/local-councils)
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

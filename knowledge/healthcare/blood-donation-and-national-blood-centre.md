@@ -120,3 +120,5 @@ Bawa **dokumen asal** pengenalan diri — Kad Pengenalan, lesen memandu, kad pek
 ## Apa seterusnya
 
 Semak semula syarat kelayakan dan pastikan anda cukup tidur serta telah makan sebelum hadir. Untuk maklumat terkini, waktu operasi dan lokasi kempen bergerak, layari portal rasmi Pusat Darah Negara di pdn.gov.my atau hubungi PDN di 03-2613 2688.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

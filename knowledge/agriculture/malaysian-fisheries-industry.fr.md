@@ -252,3 +252,5 @@ qui motivent l'investissement dans les moyens de la MMEA et les amendements
 des sanctions. Les statistiques halieutiques annuelles du Département des
 pêches et les rapports d'application de la MMEA sont les sources officielles
 pour suivre les évolutions d'une année à l'autre.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

@@ -132,3 +132,5 @@ On 13 July 2026, during the debate on the Control of Paddy and Rice (Amendment) 
 ## What comes next
 
 The fate of the rice import monopoly now depends on the concession review ahead of 2031 and the amendments to Act 522 currently under debate. Whether the government liberalises imports, retains the single-gatekeeper model, or hands the role to a public agency remains undecided. For the latest financial figures and concession terms, refer to BERNAS's official reports and statements from the Ministry of Agriculture and Food Security, as the details here reflect the situation up to mid-2026 and will change with each new policy decision.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

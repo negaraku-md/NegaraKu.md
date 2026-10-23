@@ -140,3 +140,5 @@ keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "Ge
   及び[Consumer Price Index, January 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025)；
   ユネスコの[ジョージタウン／マラッカ世界遺産登録](https://whc.unesco.org/en/list/1223/)；
   そして不動産市場の背景についてはNAPICの[Malaysian House Price Index reports](https://napic.jpph.gov.my/)。
+
+詳しくは全体ガイドをご覧ください：[公式統計で見るマレーシアの生活費](/ja/cost-of-living/cost-of-living-overview/)。

@@ -150,3 +150,5 @@ EMGS 本身为准学生制定的分步指南，正是从录取信已经存在这
 ## 下一步
 
 在确认认证、国际招生批准，并接受录取之后，下一阶段便是学生准证本身——包括签证核准信、体检与 i-Kad 在内的完整步骤，详见[《学生准证：为何是大学向 EMGS 提交申请，而不是你》](/zh/settling-in/student-pass)。准证获批注之后，大多数学生会接着处理实际的安顿事宜，例如[初到马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps)与[开立马来西亚银行账户](/zh/money-daily-life/opening-bank-account)。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

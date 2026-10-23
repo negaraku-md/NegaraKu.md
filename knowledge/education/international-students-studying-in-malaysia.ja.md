@@ -149,3 +149,5 @@ EMGS自身が出願予定者向けに用意しているステップ・バイ・�
 ## 次のステップ
 
 認定、留学生受け入れ承認の確認を終え、オファーを受諾したら、次の段階は学生パスそのものである——ビザ承認書、健康診断、i-Kadを含めたステップ・バイ・ステップの内容は、[学生パス：なぜあなたではなく大学がEMGSに申請するのか](/ja/settling-in/student-pass)で取り上げている。学生パスの裏書きが完了した後、多くの学生は[マレーシア移住の第一歩](/ja/settling-in/moving-to-malaysia-first-steps)や[マレーシアの銀行口座開設](/ja/money-daily-life/opening-bank-account)といった、実際の定住に向けたステップへと進んでいく。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの教育制度](/ja/education/malaysian-education-system/)。

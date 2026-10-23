@@ -247,3 +247,5 @@ Les défis à court terme de l'industrie sont visibles dans ses propres chiffres
 Pour une couverture plus approfondie sur NegaraKu.md, les lectures suivantes naturelles sont le profil de l'**Office malaisien de l'huile de palme** comme régulateur, et l'**industrie du caoutchouc** de la Malaisie, la culture que l'huile de palme a supplantée. Comme les chiffres précis d'ici changent à chaque publication mensuelle et annuelle du MPOB, traitez les tonnages et prix spécifiques comme un instantané de 2025 et consultez le dernier panorama du MPOB avant de les citer.
 
 *Ceci est un brouillon assisté par IA qui n'a pas encore été revu par un expert du domaine. Les chiffres proviennent du MPOB, du ministère des Plantations et des Matières premières et du MPOC, tels que cités ; vérifiez-les par rapport aux dernières publications du MPOB avant de vous y fier. Les débats environnementaux et de travail autour de l'huile de palme sont résumés ici brièvement et sont eux-mêmes contestés — traitez ceci comme un panorama général, non comme le dernier mot.*
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

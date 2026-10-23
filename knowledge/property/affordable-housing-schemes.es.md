@@ -170,3 +170,5 @@ La elegibilidad para un programa es una cosa; conseguir financiación es otra. P
 - Prepara los documentos básicos con antelación: MyKad, tres meses de nóminas, extractos bancarios y extractos del EPF.
 - Si tus ingresos son irregulares, comprueba tu elegibilidad para el SJKP antes de solicitar para conocer la cantidad de financiación que podría aprobarse.
 - Confirma las cifras más recientes directamente en los portales oficiales — los topes de precio y los límites de ingresos se revisan de vez en cuando, y las cifras de esta guía son indicativas, no una oferta definitiva.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

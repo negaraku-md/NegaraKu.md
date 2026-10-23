@@ -148,3 +148,5 @@ A simple rule of thumb: if you are aged 30 and above, or have a family history o
 - **Cut sugar gradually.** Choose drinks with the Healthier Choice Logo or with no added sugar; the sugar tax means low-sugar alternatives are now often cheaper.
 - **Do not wait for symptoms.** Diabetes and hypertension are often "silent" — regular screening is the surest way to catch them early.
 - **For personal decisions**, consult a medical officer at your nearest Health Clinic. This guide is general information and not medical advice.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

@@ -137,6 +137,33 @@ faq:
 - **الخلط بين دور محامي الاتفاقية ودور محامي المصرف.** محامي المصرف مُكلَّف بحماية رهن المصرف، لا بالتفاوض على شروط اتفاقية المشتري.
 - **اقتباس عتبة إعفاء من رسم الدمغة من تدوينة مدوّنة وكأنها دائمة.** أوامر الإعفاء محرَّرات تشريعية لها تواريخ بدء وانتهاء خاصة — فتأكّد من الأمر الساري حالياً قبل أن تبني ميزانيتك عليه.
 
+## استكشف هذا الموضوع بعمق
+
+أهم الأدلة في هذا المجال:
+
+- [برامج الإسكان الميسّر الحكومية (PR1MA وResidensi Wilayah وRumah Mesra Rakyat)](/ar/property/affordable-housing-schemes/)
+- [ضريبة التقدير وضريبة الأرض](/ar/property/assessment-and-quit-rent/)
+- [السكن في الشقق (condo) في ماليزيا](/ar/property/condo-living-maintenance-fees/)
+- [حسابات الكهرباء لدى TNB وSESB وSarawak Energy](/ar/property/electricity-tnb-account/)
+- [البحث عن مسكن للإيجار في ماليزيا](/ar/property/finding-a-rental/)
+- [هل يمكن للأجانب شراء العقارات في ماليزيا؟ شرح الحدّ الأدنى للسعر وموافقة الولاية](/ar/property/foreigners-buying-property/)
+- [الملكية الحرّة والحقّ الإيجاري والطبقي والتابعي](/ar/property/freehold-leasehold-strata-landed/)
+- [إمداد الغاز في المنزل](/ar/property/gas-supply-piped-cooking-gas/)
+- [المجتمعات المسوّرة والأحياء المحروسة في ماليزيا](/ar/property/gated-communities-and-security/)
+- [قروض السكن وتمويل الرهن العقاري في ماليزيا](/ar/property/home-loan-mortgage-financing/)
+- [حماية مشتري المنازل](/ar/property/homebuyer-protection-abandoned-projects/)
+- [IWK ليست شركة مياه](/ar/property/indah-water-sewerage/)
+- [النطاق العريض بالألياف المنزلي في ماليزيا](/ar/property/internet-and-fibre/)
+- [التعامل مع وكلاء العقارات](/ar/property/property-agents-and-fees/)
+- [شراء عقار بالمزاد (Bank Lelong)](/ar/property/property-auctions-foreclosure/)
+- [ميراث العقارات](/ar/property/property-inheritance-faraid-distribution/)
+- [ضريبة أرباح العقارات (RPGT) عند بيع العقار](/ar/property/real-property-gains-tax/)
+- [موافقات تجديد المنزل وشهادة الإنجاز والامتثال (CCC)](/ar/property/renovation-permits-and-ccc/)
+- [الاستئجار في ماليزيا بلا قانون إيجار مخصص](/ar/property/renting-a-home-tenancy/)
+- [النفايات وإعادة التدوير والمجالس المحلية](/ar/property/rubbish-and-local-council/)
+- [حوكمة العقارات الطبقية](/ar/property/strata-management-jmb-mc/)
+- [إمدادات المياه في ماليزيا](/ar/property/water-supply/)
+
 ## ما التالي
 
 لمعرفة ما يعِد به فعلاً سند الملكية الذي أنت على وشك تسلّمه — الملكية الحرة مقابل الملكية المؤجَّرة، والطوابق (strata) مقابل الأرضي — راجع [الملكية الحرة والمؤجَّرة والطوابق والأرضي](/property/freehold-leasehold-strata-landed). وللاطّلاع على القانون وراء مذكّرة نقل الملكية والرهن اللذين يجعلان تسجيل مكتب الأراضي نافذاً، راجع [National Land Code 1965](/law/national-land-code).

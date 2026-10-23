@@ -180,3 +180,5 @@ This is a tax layered on top of a school's own fee, not a change to how the scho
 ## What's next
 
 For the immigration side of bringing a family to Malaysia in the first place — including how a foreign employee's children are sponsored to accompany them — see [Dependant Pass or Long-Term Social Visit Pass](/en/settling-in/dependant-social-visit-passes). If a Malaysian government school is also on your shortlist for comparison, see [Enrolling in a Government School](/en/education/enrolling-in-a-government-school). For how the company behind a school is registered in the first place, see [SSM — Companies Commission of Malaysia](/en/government/ssm). And for the tax now layered onto higher school fees, see [The 1 July 2025 Service Tax Expansion, Sector by Sector](/en/taxation/sst-expansion-2025).
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

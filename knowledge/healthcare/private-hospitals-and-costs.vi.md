@@ -131,3 +131,5 @@ Kể từ ngày 1 tháng 7 năm 2025, một khoản thuế dịch vụ áp dụn
 ## Tiếp theo
 
 Đối với các chi tiết về đặt cọc và thư bảo lãnh, hướng dẫn về yêu cầu bồi thường hoặc thẻ y tế của chính công ty bảo hiểm của bạn là nguồn cập nhật nhất, bởi các thỏa thuận thành viên khác nhau tùy công ty bảo hiểm và tùy bệnh viện. Đối với bản thân khung cấp phép, danh mục của Bộ Y tế về Act 586 liên kết tới bản in lại hiện hành. Và nếu một hóa đơn có một dòng thuế dịch vụ, phần phân tích thuế dịch vụ theo từng ngành là nơi để kiểm tra điều gì hiện đang áp dụng và cho ai.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

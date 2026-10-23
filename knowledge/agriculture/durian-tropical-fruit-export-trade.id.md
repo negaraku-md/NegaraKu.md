@@ -166,3 +166,5 @@ Strategi itu, karenanya, memiliki tiga pilar: mempertahankan dan memperluas akse
 ## Apa selanjutnya
 
 Perhatikan tiga hal. Pertama, apakah Malaysia memperluas perlindungan GI ke luar negeri — celah tunggal terbesar dalam strategi merek saat ini. Kedua, bagaimana persoalan durian potong terlebih dahulu dan bernilai tambah diselesaikan, karena metode apa pun di luar protokol yang ditandatangani membahayakan pasar China bagi semua orang. Ketiga, apakah langkah diversifikasi Taiwan dan Peru bergerak dari aspirasi ke protokol yang ditandatangani. Bagi penanam, pelajaran praktisnya tetap tidak berubah: tanpa pendaftaran DOA, kepatuhan myGAP dan persetujuan GACC berarti tidak ada ekspor durian segar, titik. Angka di sini diambil dari jawaban parlemen dan pernyataan lembaga dan akan berubah ketika data resmi yang lebih baru diterbitkan — periksa dengan Kementerian Pertanian dan Ketahanan Pangan dan MATRADE untuk angka terkini.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

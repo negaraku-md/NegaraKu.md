@@ -114,3 +114,5 @@ Every property sits at the intersection of both questions, never just one: a **f
 ## What's next
 
 For the statute behind all of this — how the Torrens system of registered title works, why the register (not the sale agreement) is the final word on ownership, and why Sabah and Sarawak sit outside it — see [National Land Code 1965](/en/law/national-land-code).
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

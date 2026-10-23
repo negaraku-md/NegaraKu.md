@@ -164,3 +164,5 @@ de la demande d'exemption, conserver par écrit chaque soumission et réponse, e
 surveiller le Journal officiel (Warta Kerajaan) pour la notification qui mettra
 finalement en vigueur le devoir d'éducation secondaire de la Section 32A, car
 cela changera ce que signifie être « conforme » pour les enfants plus âgés.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

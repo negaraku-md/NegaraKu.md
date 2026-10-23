@@ -137,6 +137,33 @@ Stamp Act की तीसरी अनुसूची के तहत वि�
 - **SPA वकील की भूमिका को बैंक के वकील की भूमिका के साथ भ्रमित करना।** बैंक का वकील बैंक के चार्ज की रक्षा के लिए लगाया जाता है, खरीदार की SPA शर्तों पर बातचीत करने के लिए नहीं।
 - **किसी ब्लॉग पोस्ट से एक स्टैम्प शुल्क छूट सीमा को स्थायी मानकर उद्धृत करना।** छूट आदेश अपनी प्रारंभ और समाप्ति तिथियों वाले विधायी लेखपत्र हैं — उसके इर्द-गिर्द बजट बनाने से पहले वर्तमान में लागू आदेश की पुष्टि करें।
 
+## इस विषय को विस्तार से जानें
+
+इस क्षेत्र की प्रमुख गाइड:
+
+- [सरकारी किफ़ायती आवास योजनाएँ (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/hi/property/affordable-housing-schemes/)
+- [मूल्यांकन कर और भूमि-कर](/hi/property/assessment-and-quit-rent/)
+- [मलेशिया में कॉन्डो जीवन](/hi/property/condo-living-maintenance-fees/)
+- [TNB, SESB और Sarawak Energy के बिजली खाते](/hi/property/electricity-tnb-account/)
+- [मलेशिया में किराये का घर ढूँढना](/hi/property/finding-a-rental/)
+- [क्या विदेशी मलेशिया में संपत्ति ख़रीद सकते हैं? न्यूनतम मूल्य और राज्य की सहमति की व्याख्या](/hi/property/foreigners-buying-property/)
+- [फ्रीहोल्ड, लीज़होल्ड, स्ट्रैटा, लैंडेड](/hi/property/freehold-leasehold-strata-landed/)
+- [घर में गैस आपूर्ति](/hi/property/gas-supply-piped-cooking-gas/)
+- [मलेशिया में गेटेड कम्युनिटी और गार्डेड नेबरहुड](/hi/property/gated-communities-and-security/)
+- [मलेशिया में गृह ऋण और बंधक वित्तपोषण](/hi/property/home-loan-mortgage-financing/)
+- [घर खरीदारों की सुरक्षा](/hi/property/homebuyer-protection-abandoned-projects/)
+- [IWK कोई जल कंपनी नहीं है](/hi/property/indah-water-sewerage/)
+- [मलेशिया में घरेलू फ़ाइबर ब्रॉडबैंड](/hi/property/internet-and-fibre/)
+- [संपत्ति एजेंटों के साथ काम करना](/hi/property/property-agents-and-fees/)
+- [नीलामी में संपत्ति खरीदना (Bank Lelong)](/hi/property/property-auctions-foreclosure/)
+- [संपत्ति की विरासत](/hi/property/property-inheritance-faraid-distribution/)
+- [संपत्ति बेचते समय वास्तविक संपत्ति लाभ कर (RPGT)](/hi/property/real-property-gains-tax/)
+- [घर के नवीनीकरण की स्वीकृतियाँ और पूर्णता एवं अनुपालन प्रमाणपत्र (CCC)](/hi/property/renovation-permits-and-ccc/)
+- [मलेशिया में किराएदारी का कोई समर्पित कानून नहीं है](/hi/property/renting-a-home-tenancy/)
+- [कचरा, पुनर्चक्रण और स्थानीय परिषदें](/hi/property/rubbish-and-local-council/)
+- [स्ट्रेटा संपत्ति शासन](/hi/property/strata-management-jmb-mc/)
+- [मलेशिया की जल आपूर्ति](/hi/property/water-supply/)
+
 ## आगे क्या
 
 जो टाइटल आप पाने वाले हैं वह वास्तव में क्या वादा करता है — फ़्रीहोल्ड बनाम लीज़होल्ड, और स्ट्रेटा बनाम लैंडेड — यह जानने के लिए देखें [फ़्रीहोल्ड, लीज़होल्ड, स्ट्रेटा, लैंडेड](/en/property/freehold-leasehold-strata-landed)। हस्तांतरण ज्ञापन और उस चार्ज के पीछे के क़ानून के लिए जो भूमि कार्यालय पंजीकरण को काम करने योग्य बनाते हैं, देखें [National Land Code 1965](/en/law/national-land-code)।

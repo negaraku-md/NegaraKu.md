@@ -156,3 +156,5 @@ Si vous planifiez comment financer vos études, les étapes pratiques suivantes 
 - **Lisez les conditions d'engagement.** Examinez attentivement la période de service, les conditions de conversion du prêt, et si vous devez renoncer au PTPTN.
 
 Ce brouillon a été préparé avec l'assistance de l'IA et n'a pas encore fait l'objet d'une revue humaine ; vérifiez chaque chiffre au regard des sources officielles avant de prendre toute décision.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

@@ -120,3 +120,5 @@ L'exception se trouve dans la Section 60(3) : une MC peut fixer des **taux diff�
 ## Prochaines étapes
 
 Lisez le texte même de la Loi sur le portail de la Chambre du Procureur général pour tout le détail section par section, vérifiez si votre ensemble relève encore d'un JMB ou possède déjà une MC en interrogeant directement votre bureau de gestion, et si vous louez plutôt que vous n'êtes propriétaire, consultez [Trouver une location en Malaisie](/fr/property/finding-a-rental) pour voir comment ces immeubles sont présentés et loués au départ.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

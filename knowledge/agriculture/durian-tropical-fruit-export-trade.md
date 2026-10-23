@@ -165,3 +165,5 @@ The strategy, then, has three legs: hold and expand the hard-won China access by
 ## What's next
 
 Watch three things. First, whether Malaysia extends GI protection abroad — the single biggest gap in the current brand strategy. Second, how the pre-cut and value-added durian question is resolved, since any method outside the signed protocol risks the China market for everyone. Third, whether the Taiwan and Peru diversification moves from aspiration to signed protocols. For growers, the practical takeaway is unchanged: no DOA registration, myGAP compliance and GACC approval means no fresh-durian exports, full stop. Figures here are drawn from parliamentary replies and agency statements and will shift as newer official data is published — check the Agriculture and Food Security Ministry and MATRADE for the current numbers.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

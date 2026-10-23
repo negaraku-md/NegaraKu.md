@@ -203,3 +203,5 @@ Accreditation（课程认证实践准则）之中：
 院校的选项，或考虑UPU未涵盖的途径——例如UEC、A-Level，或来自IPTS的文
 凭——在注册入学前，请在大马学术资格鉴定名册上核实你获得录取的确切课程，
 无论发出录取通知的是哪一类院校。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

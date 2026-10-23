@@ -163,3 +163,5 @@ Perlu diingat bahwa pemulihan proyek terbengkalai dapat memakan waktu bertahun-t
 - **Jika proyek tampak terhenti:** periksa Daftar Proyek Sakit & Terbengkalai dan dapatkan nasihat hukum awal, karena kerugian besar mungkin memerlukan tindakan sipil.
 
 Panduan ini bersifat informasi umum dan bukan nasihat hukum. Untuk kasus tertentu, rujuk pengacara bersertifikat atau Departemen Perumahan Nasional, KPKT.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

@@ -115,3 +115,5 @@ Tout bien se situe à l'intersection des deux questions, jamais d'une seule : un
 ## Et ensuite
 
 Pour la loi derrière tout cela — comment fonctionne le système Torrens du titre inscrit, pourquoi le registre (et non le contrat de vente) a le dernier mot sur la propriété, et pourquoi Sabah et le Sarawak en sortent — voir [National Land Code 1965](/en/law/national-land-code).
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

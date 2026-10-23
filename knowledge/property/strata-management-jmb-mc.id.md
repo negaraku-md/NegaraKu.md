@@ -156,3 +156,5 @@ Andaikan sebuah MC di kondominium mendapati seorang pemilik gagal membayar biaya
 - Rujuk teks lengkap Act 757 dan Strata Management (Maintenance and Management) Regulations 2015, atau hubungi **Komisioner Bangunan (COB)** di Pihak Berwenang Setempat Anda untuk isu penegakan.
 
 *Artikel ini panduan umum, bukan nasihat hukum. Nomor pasal dan angka merujuk Strata Management Act 2013 (Act 757) dan peraturan terkait; pastikan dengan teks statutori terkini sebelum bertindak.*
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

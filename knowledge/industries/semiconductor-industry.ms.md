@@ -156,3 +156,5 @@ Sama ada setiap sasaran dicapai atau tidak, arahnya jelas: Malaysia mahu berhent
 Industri semikonduktor Malaysia berada pada titik perubahan yang sebenar. Setengah abad selepas loji pertama Intel di Pulau Pinang, negara ini telah mengubah perkhidmatan cip bahagian belakang menjadi enjin eksport yang mencipta rekod — dan secara terbuka telah menyimpulkan bahawa kekal di hujung bermargin lebih rendah tidak mencukupi untuk dekad-dekad yang mendatang. Sama ada Strategi Semikonduktor Nasional berjaya menarik Malaysia ke dalam reka bentuk dan fabrikasi, menentang persaingan serantau yang sengit dan kitaran cip global yang tidak menentu, ialah persoalan utama bagi bab seterusnya industri ini.
 
 Untuk mendalami lagi, baca panduan [industri Elektrik & Elektronik (E&E)](/industries/electrical-electronics-industry/) yang lebih luas — keseluruhan sektor tempat semikonduktor berada — dan profil [MIDA](/government/mida/), agensi yang memacu pelaburan dan dasar di sebalik angka-angka ini.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

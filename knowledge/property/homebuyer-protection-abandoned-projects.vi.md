@@ -163,3 +163,5 @@ Cần nhớ rằng việc phục hồi một dự án bỏ dở có thể mất 
 - **Nếu dự án có vẻ ngừng lại:** kiểm tra Danh sách Dự án Ốm yếu & Bỏ dở và tìm tư vấn pháp lý sớm, vì thiệt hại lớn có thể cần hành động dân sự.
 
 Hướng dẫn này mang tính thông tin chung và không phải tư vấn pháp lý. Đối với trường hợp cụ thể, hãy tham khảo luật sư có chứng chỉ hoặc Cục Nhà ở Quốc gia, KPKT.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

@@ -124,3 +124,5 @@ keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysi
 ## What's next
 
 세대와 확인 가능한 협상인을 추린 뒤의 다음 단계는 임차계약 자체와 보증금·임대료 납부를 마련하는 것이며 — 대부분 현금이 아니라 온라인 뱅킹으로 이루어집니다. 아직 말레이시아 은행 계좌가 없다면 [말레이시아에서 은행 계좌 개설하기](/ko/money-daily-life/opening-bank-account)를 보십시오. 시민이나 영주권자가 아니라 새 일자리 제안을 근거로 임차한다면, [고용 패스(Employment Pass)](/ko/settling-in/employment-pass)를 병행하여 처리하십시오 — 임대인과 중개업소는 더 긴 임대 계약을 체결하기 전에 유효한 패스 증빙을 통상적으로 요구합니다.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

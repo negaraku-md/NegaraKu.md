@@ -131,3 +131,5 @@ Phí đăng ký tại Klinik Kesihatan được nhà nước ấn định tập 
 ## Tiếp theo
 
 Để hiểu cơ sở nha khoa nhà nước tách biệt với Klinik Kesihatan, hãy đọc [Phòng khám nha khoa nhà nước hay tư nhân?](/vi/healthcare/dental-care). Để có cái nhìn tổng quan về các chủ đề y tế khác tại Malaysia — từ bảo hiểm tư nhân đến du lịch chữa bệnh — hãy xem chuyên mục [Y tế](/vi/healthcare). Để đặt lịch hẹn thực sự, hãy truy cập dịch vụ chính thức qua [cổng MyGovernment](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan).
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

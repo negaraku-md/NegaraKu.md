@@ -277,3 +277,5 @@ Malaysia's fuel subsidy system is still evolving. A few things worth watching:
 - **Global oil prices.** Because the *unsubsidised* price follows the market, a rise in world oil prices widens the gap between RM1.99 and the full price — making the quota more important.
 
 For official and up-to-date information, refer to the BUDI MADANI portal and the Ministry of Finance's press releases. The figures in this guide are accurate as of the update date; fuel prices and programme details may change.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

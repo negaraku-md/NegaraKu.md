@@ -130,3 +130,5 @@ Since 1 July 2025, a service tax has applied to some private healthcare charges 
 ## What's next
 
 For deposit and guarantee-letter specifics, your insurer's own claims or medical-card guidance is the most current source, since panel arrangements vary by insurer and by hospital. For the licensing framework itself, the Ministry of Health's listing of Act 586 links through to the current reprint. And if a bill carries a service tax line, the sector-by-sector service tax breakdown is the place to check what currently applies and to whom.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

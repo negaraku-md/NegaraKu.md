@@ -165,3 +165,5 @@ Income Survey）计算的，则是落入一个家庭的总收入，其中可能�
 资竞争的雇主，在[新山做生意](/zh/business/doing-business-johor-bahru)时实
 际面对什么。至于这座城市所属的州层面全貌，参见
 [柔佛](/zh/states/johor)概览。
+
+查看完整指南：[马来西亚生活成本](/zh/cost-of-living/cost-of-living-overview/)。

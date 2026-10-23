@@ -200,3 +200,5 @@ B40 家庭也可查阅额外福利，详见
 [乐龄人士医疗保健](/zh/healthcare/healthcare-for-seniors)。
 至于真正的紧急情况，请参阅
 [紧急事故与 999](/zh/healthcare/emergencies-999)。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

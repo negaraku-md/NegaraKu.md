@@ -133,3 +133,5 @@ keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "
 ## 接下来
 
 本页说明如何获得医疗紧急援助，以及在急诊部可预期会发生什么事。若涉及道路交通事故并牵涉传票或PDRM执法行动，请参阅[马来西亚交通传票](/zh/transport/traffic-summons-saman)；若想了解警察部队本身的架构与执法权力，请参阅[皇家马来西亚警察（PDRM）](/zh/government/pdrm)。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

@@ -121,3 +121,5 @@ Apportez les **documents originaux** de votre pièce d'identité personnelle : c
 ## Et ensuite
 
 Revérifiez les conditions d'éligibilité et assurez-vous d'avoir suffisamment dormi et d'avoir mangé avant de vous présenter. Pour obtenir les informations les plus récentes, les horaires d'ouverture et les lieux des campagnes mobiles, consultez le portail officiel du Centre national du sang à l'adresse pdn.gov.my ou contactez le PDN au 03-2613 2688.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

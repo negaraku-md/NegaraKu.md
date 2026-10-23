@@ -119,3 +119,5 @@ The exception sits in Section 60(3): an MC may set **differential rates** only i
 ## What's next
 
 Read the Act's own text on the Attorney General's Chambers portal for the full section-by-section detail, check whether your scheme is still under a JMB or has an MC by asking your management office directly, and if you're renting rather than owning, see [Finding a Rental in Malaysia](/en/property/finding-a-rental) for how these buildings get shown and let out in the first place.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

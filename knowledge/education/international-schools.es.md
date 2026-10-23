@@ -181,3 +181,5 @@ Este es un impuesto superpuesto sobre la cuota propia de la escuela, no un cambi
 ## Qué sigue
 
 Para el lado migratorio de traer a una familia a Malasia en primer lugar — incluido cómo se patrocina a los hijos de un empleado extranjero para que lo acompañen — consulte [Pase de Dependiente o Pase de Visita Social de Larga Duración](/en/settling-in/dependant-social-visit-passes). Si una escuela pública malasia también está en su lista de comparación, consulte [Matricularse en una Escuela Pública](/en/education/enrolling-in-a-government-school). Para saber cómo se registra en primer lugar la empresa detrás de una escuela, consulte [SSM — Comisión de Empresas de Malasia](/en/government/ssm). Y para el impuesto que ahora se superpone a las cuotas escolares más altas, consulte [La Ampliación del Impuesto sobre Servicios del 1 de Julio de 2025, Sector por Sector](/en/taxation/sst-expansion-2025).
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

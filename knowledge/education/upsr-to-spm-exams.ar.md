@@ -138,3 +138,5 @@ keywords: ["إلغاء UPSR", "إلغاء PT3", "التقييم الصفّي", "
 ## ما التالي
 
 لفهم إلى أين يقود المسار الدراسي بعد SPM، اقرأ `/education/public-vs-private-universities` حول الفرق بين القبول في الجامعات الحكومية (IPTA) والخاصة (IPTS). وإن كان طفلك طالبًا دوليًا، أو انتقلت أسرتك إلى ماليزيا حديثًا، فإن `/education/international-students-studying-in-malaysia` يشرح كيف يعمل نظام الدراسة المحلي لغير المواطنين.
+
+اطّلع على الدليل الكامل: [نظام التعليم في ماليزيا، من الروضة إلى الجامعة](/ar/education/malaysian-education-system/).

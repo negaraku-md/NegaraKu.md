@@ -198,3 +198,5 @@ tanaman dan fitosanitari, `dvs.gov.my` untuk peternakan dan kesehatan hewan,
 Untuk pelisensian beras, rujuk portal e-Lesen Kawalselia Padi dan Beras. Dan
 jika pertanyaan Anda sebenarnya tentang peneroka atau pekebun kecil karet,
 alihkan fokus Anda ke KKDW di `rurallink.gov.my`.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

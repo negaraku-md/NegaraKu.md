@@ -138,3 +138,5 @@ SEB将其水力发电归类为可再生能源，这也成为其营销的基础�
 - 阅读**[国家能源有限公司（Tenaga Nasional Berhad）](/zh/energy/tenaga-nasional-berhad)**的简介，以比较半岛与砂拉越的公用事业模式。
 - 若想了解砂拉越最大水坝的工程细节，可探索官方网页**[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**。
 - 注意：容量与财务数据会随时间变化；在用于正式决策之前，请以SEB最新的年度报告与媒体发布为准。
+
+查看完整指南：[马来西亚能源领域](/zh/energy/energy-sector-overview/)。

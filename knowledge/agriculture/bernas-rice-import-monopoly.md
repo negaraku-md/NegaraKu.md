@@ -131,3 +131,5 @@ Pada 13 Julai 2026, semasa perbahasan Rang Undang-Undang Kawalan Padi dan Beras 
 ## Apa seterusnya
 
 Nasib monopoli import beras kini bergantung pada semakan konsesi menjelang 2031 dan pindaan Akta 522 yang sedang dibahaskan. Sama ada kerajaan meliberalisasikan import, mengekalkan model penjaga pintu tunggal, atau menyerahkan peranan itu kepada agensi awam masih belum diputuskan. Untuk angka kewangan dan syarat konsesi terkini, rujuk laporan rasmi BERNAS dan penyata Kementerian Pertanian dan Keterjaminan Makanan, kerana butiran di sini mencerminkan keadaan sehingga pertengahan 2026 dan akan berubah dengan setiap keputusan dasar baharu.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

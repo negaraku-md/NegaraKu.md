@@ -124,3 +124,5 @@ Sabah y Sarawak están en el **Grupo B**, así que siguen el mismo desplazamient
 - Asegúrese de estar mirando la **columna de grupo correcta** (A o B) para el estado de su hijo; la columna equivocada implica equivocarse en un día.
 - Haga coincidir las fechas de las pausas de trimestre con los **días festivos** de su estado, porque las festividades islámicas y los festivos de Sabah/Sarawak pueden añadir o desplazar días.
 - Para un contexto más amplio, consulte la página de días festivos en Malasia y la estructura del sistema escolar malasio.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

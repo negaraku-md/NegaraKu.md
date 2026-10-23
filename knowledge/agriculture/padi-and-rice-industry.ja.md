@@ -169,3 +169,5 @@ keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malays
 - **年次のSSLを注視する**——DOSMの供給利用勘定と省の発表において。これは、輸入ギャップが縮小しているかどうかを示す唯一の象徴的指標である。
 - **2031年のBERNAS見直しを注視する**——唯一輸入業者としての特許権が更新されるか、再編されるか、開放されるかを決定するとともに、その資金源となっている社会的義務がどうなるかも定まる。
 - **残る数字を確認する**——*verificationNeeded*に記載された、正確な稲作付面積と生産トン数、登録農家数——これらを確定的なものとして引用する前に、DOSMおよびKPKMの一次資料と照合すること。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの農業・食料部門](/ja/agriculture/agriculture-sector-overview/)。

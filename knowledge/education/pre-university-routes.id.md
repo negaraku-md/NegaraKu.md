@@ -251,3 +251,5 @@ untuk memahami bagaimana sistem terpusat universitas negeri UPU dibandingkan
 dengan melamar langsung ke universitas swasta. Untuk memahami bagaimana banyak
 pelajar membiayai jalur pilihan mereka, lihat
 [PTPTN Bukan Beasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi](/id/education/ptptn-student-loan).
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

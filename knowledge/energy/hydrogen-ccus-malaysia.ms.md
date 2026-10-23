@@ -144,3 +144,5 @@ Semua ini jauh kurang matang berbanding Kasawari atau projek SEDC Energy, dan ha
 Perhatikan tiga perkara. Pertama, sama ada **Kasawari benar-benar mula menyuntik CO2 menjelang 2027** — operasi storan luar pesisir yang berjaya dan berskala besar akan menjadi antara yang pertama seumpamanya di rantau ini dan asas bagi sebarang perniagaan storan-karbon-sebagai-perkhidmatan pada masa depan. Kedua, sama ada **SEDC Energy menukar perkongsian Jepun dan Koreanya menjadi perjanjian pembelian yang mengikat**; tanpanya, loji H2biscus dan H2ornbill yang direka semula kekal di atas papan lukisan. Ketiga, sama ada HETR Malaysia diterjemahkan menjadi dasar yang menutup jurang kos — penetapan harga karbon, mandat pengadunan, atau insentif eksport — kerana pada ekonomi hari ini, eksport hidrogen bersih memerlukan bantuan untuk bersaing.
 
 Bagi pembaca yang menjejaki peralihan tenaga Malaysia, ringkasan jujurnya begini: cita-cita infrastruktur itu nyata dan, dalam kes Kasawari, benar-benar sedang dibina — tetapi industri eksport hidrogen kekal sebagai satu janji yang menunggu pelanggan.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

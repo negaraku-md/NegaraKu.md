@@ -155,3 +155,5 @@ If you're setting up mobile service alongside your home broadband — including
 Unifi Mobile, which is often bundled with a Unifi Home line — see
 [Buying a Mobile SIM in Malaysia](/en/money-daily-life/mobile-sim-plans) for
 how registration and provider choice work there.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

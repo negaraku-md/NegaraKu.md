@@ -148,3 +148,5 @@ Pour les lecteurs qui souhaitent approfondir ce sujet, des prochaines étapes ut
 - Comprenez que tout contrôle des prix sur le poulet ou les œufs doit être lu conjointement avec les coûts mondiaux de l'alimentation animale — c'est le véritable déterminant de la stabilité de l'approvisionnement.
 
 *Cet article est un brouillon assisté par IA et n'a pas fait l'objet d'une révision éditoriale humaine. Tous les chiffres sont cités des sources officielles énumérées ; vérifiez les chiffres les plus récents directement auprès du DOSM et du DVS avant de prendre des décisions.*
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

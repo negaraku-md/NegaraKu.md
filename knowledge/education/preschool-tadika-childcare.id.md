@@ -123,3 +123,5 @@ Tidak satu pun dari pilihan ini "lebih sah" dibandingkan yang lain dari segi kur
 ## Apa yang selanjutnya
 
 Sebelum melamar taska, tadika, atau prasekolah, pastikan dokumen identitas anak — MyKid atau akta kelahiran — sudah lengkap, karena ia diperlukan pada tahap permohonan. Jika Anda baru saja mendaftarkan kelahiran anak, baca [pendaftaran kelahiran](/id/settling-in/registering-a-birth) untuk proses dan dokumen yang berkaitan sebelum melangkah ke tahap pendaftaran prasekolah.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

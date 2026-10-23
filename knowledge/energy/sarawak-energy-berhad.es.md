@@ -138,3 +138,5 @@ En la primera mitad del ejercicio financiero de diciembre de 2025, SEB registró
 - Lea el perfil de **[Tenaga Nasional Berhad](/en/energy/tenaga-nasional-berhad)** para comparar los modelos de empresa eléctrica de la Península y de Sarawak.
 - Para los detalles de ingeniería de la mayor represa de Sarawak, explore la página oficial de la **[Central Hidroeléctrica de Bakun](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - Nota: las cifras de capacidad y financieras cambian con el tiempo; verifíquelas con el informe anual y los comunicados de prensa más recientes de SEB antes de usarlas para decisiones oficiales.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

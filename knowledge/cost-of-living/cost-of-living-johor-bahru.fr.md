@@ -187,3 +187,5 @@ signifient pour un schéma de revenu transfrontalier, et ce à quoi un employeur
 Bahru](/fr/business/doing-business-johor-bahru) tout en concurrençant des salaires
 d'échelle singapourienne. Pour le panorama au niveau de l'État dans lequel cette
 ville s'inscrit, consultez la présentation générale de [Johor](/fr/states/johor).
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

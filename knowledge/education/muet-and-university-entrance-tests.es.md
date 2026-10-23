@@ -175,3 +175,5 @@ Si tienes previsto continuar hasta el nivel de licenciatura:
 4. **Consulta el portal oficial del MPM** para conocer las fechas de examen vigentes, las tasas, los procedimientos de inscripción y las últimas especificaciones de formato antes de presentarte a la prueba.
 
 Para información oficial y actualizada sobre inscripción, fechas y formato, consulta el portal del Consejo de Exámenes de Malasia en mpm.edu.my.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

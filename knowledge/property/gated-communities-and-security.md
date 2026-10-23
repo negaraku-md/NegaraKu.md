@@ -120,3 +120,5 @@ An RA is a society under the Societies Act 1966 — voluntary, not statutory, an
 ## What's next
 
 If your scheme already has strata titles and a JMB or MC, the guard's salary is one line in a bigger statutory bill — see [Condo Living in Malaysia](/en/property/condo-living-maintenance-fees) for how that funding works. For who actually approves a guardhouse, boom gate or GN application, see [Local Councils in Malaysia](/en/states/local-councils).
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

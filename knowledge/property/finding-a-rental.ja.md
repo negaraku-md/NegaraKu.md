@@ -123,3 +123,5 @@ keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysi
 ## 次のステップ
 
 候補となる部屋と、身元を確認できる交渉人を絞り込んだら、次のステップは賃貸借契約そのものと、敷金および賃料の支払いの手配である——その大半は現金ではなくオンラインバンキングを通じて動く。まだマレーシアの銀行口座を持っていない場合は、[マレーシアで銀行口座を開設する](/ja/money-daily-life/opening-bank-account)を参照のこと。市民や永住権保持者としてではなく、新たな就職内定を根拠に賃貸する場合は、並行して[就労パス（Employment Pass）](/ja/settling-in/employment-pass)を整えておくこと——貸主や仲介事務所は、長めの賃貸契約に署名する前に、有効なパスの証明を求めるのが通例である。
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

@@ -196,3 +196,5 @@ sendiri. Bagi kasus masuk awal atau penangguhan, mulai permohonan di
 Pejabat Pendidikan Daerah (PPD) atau Jabatan Pendidikan Negeri (JPN) tempat
 anak bersekolah, karena kedua proses ini disetujui di tingkat itu, bukan
 melalui sistem idMe biasa.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

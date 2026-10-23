@@ -163,3 +163,5 @@ KKMは、乳児、子ども、青少年から高齢者に至るまで、社会�
 近くの公立歯科クリニックを探したい方は、
 [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan)
 ポータルを通じて公式検索サービスにアクセスできる。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

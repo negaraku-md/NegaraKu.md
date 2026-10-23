@@ -143,3 +143,5 @@ lebih kecil itu penting bagi anda.
 - Rujuk keluaran utama secara terus di
   [Laporan Tinjauan Perbelanjaan Isi Rumah DOSM 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   untuk jadual kategori penuh dan pecahan peringkat negeri.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

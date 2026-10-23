@@ -132,3 +132,5 @@ El papel de MARDI es aguas arriba: suministra las variedades de semilla de alto 
 ## Qué sigue
 
 La trayectoria de MARDI apunta hacia la comercialización y la agricultura resiliente al clima — arroz tolerante a herbicidas e híbrido, mejoramiento asistido por biotecnología y agricultura de precisión que alimenta programas como SMART SBB. Para cualquiera que siga la seguridad alimentaria de Malasia, vale la pena vigilar las liberaciones de variedades de MARDI y su colaboración con el ministerio en los objetivos nacionales de autosuficiencia. Para el detalle primario, el propio perfil del instituto y sus páginas de investigación del arroz paddy y el arroz elaborado son los puntos de partida más fidedignos, y la Ley MARDI (Ley 11) establece su mandato estatutario.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

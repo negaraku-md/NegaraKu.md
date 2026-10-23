@@ -147,3 +147,5 @@ Sejauh draf ini disusun, kedudukan resmi tetap sama: UEC tidak diakui oleh Pemer
 Bagi pelajar dan orang tua, langkah praktis yang lazim adalah memahami syarat masuk setiap jalur lebih awal — termasuk apakah perlu mengikuti SPM atau STPM sebagai kualifikasi tambahan untuk IPTA — dan memeriksa persyaratan khusus setiap universitas atau negeri. Mengingat kebijakan dapat berubah menurut keputusan pemerintah di masa depan, rujukan pada pengumuman resmi Kementerian Pendidikan dan pemerintah negeri yang terkait adalah sumber informasi yang paling tepat.
 
 > Catatan: Ini adalah draf yang dihasilkan dengan bantuan AI dan belum melalui peninjauan manusia. Angka dan tanggal perlu dipastikan ulang sebelum diterbitkan, dan sifat topik yang sensitif memerlukan peninjauan editorial yang teliti.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

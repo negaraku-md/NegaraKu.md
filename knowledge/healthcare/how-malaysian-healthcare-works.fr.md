@@ -152,6 +152,40 @@ Il n'y a pas de réponse unique à « que paie un étranger » — cela dépend 
 - **Que les employeurs supposent que le SPIKPA est facultatif ou un achat unique.** C'est une exigence récurrente liée à chaque cycle de renouvellement du permis de travail, et non une police unique souscrite à l'embauche.
 - **Que les touristes supposent que l'assurance voyage et les dispositifs locaux sont interchangeables.** Ni PeKa B40, ni MySalam, ni le barème pour citoyens ne s'appliquent à un visiteur ; l'assurance voyage/médicale achetée avant le voyage est le seul filet de sécurité pratique.
 
+## Explorer ce sujet en profondeur
+
+Les guides clés de ce domaine :
+
+- [La loi sur l'avortement en Malaisie](/fr/healthcare/abortion-law-in-malaysia/)
+- [Est-elle vraiment médecin ? Comment vérifier l'enregistrement des médecins et des professionnels de santé en Malaisie](/fr/healthcare/allied-health-and-medical-practitioner-registration/)
+- [Le don de sang en Malaisie](/fr/healthcare/blood-donation-and-national-blood-centre/)
+- [Derrière le comptoir de la pharmacie](/fr/healthcare/buying-medicine-pharmacies/)
+- [Des vaccins gratuits pour chaque enfant](/fr/healthcare/childhood-vaccination/)
+- [La COVID-19 en Malaisie](/fr/healthcare/covid-19-pandemic-response-and-legacy/)
+- [Clinique dentaire publique ou privée ? Comprendre les deux systèmes de soins dentaires de la Malaisie](/fr/healthcare/dental-care/)
+- [Diabète, obésité et maladies non transmissibles](/fr/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [L'accès aux soins de santé pour les personnes en situation de handicap (OKU) en Malaisie](/fr/healthcare/disability-and-oku-healthcare-access/)
+- [Urgences médicales en Malaisie](/fr/healthcare/emergencies-999/)
+- [Les hôpitaux publics de Malaisie](/fr/healthcare/government-hospitals/)
+- [Le statut halal des vaccins et des médicaments](/fr/healthcare/halal-status-of-vaccines-and-medicines/)
+- [Avoir un bébé en Malaisie](/fr/healthcare/having-a-baby-in-malaysia/)
+- [Le Livre blanc de la santé](/fr/healthcare/health-white-paper-and-system-reform/)
+- [Quand un parent ne peut plus se débrouiller seul](/fr/healthcare/healthcare-for-seniors/)
+- [Les services liés au VIH/sida et à la santé sexuelle en Malaisie](/fr/healthcare/hiv-aids-and-sexual-health-services/)
+- [Klinik Kesihatan](/fr/healthcare/klinik-kesihatan/)
+- [L'assurance médicale en Malaisie](/fr/healthcare/medical-insurance/)
+- [Le discret essor du tourisme médical de la Malaisie, et l'agence qui le porte](/fr/healthcare/medical-tourism/)
+- [Où trouver de l'aide en santé mentale en Malaisie](/fr/healthcare/mental-health-services/)
+- [MySejahtera et l'élan de la santé numérique en Malaisie](/fr/healthcare/mysejahtera-and-digital-health-records/)
+- [Le don d'organes en Malaisie](/fr/healthcare/organ-donation-and-transplant-registry/)
+- [Soins palliatifs et soins de hospice en Malaisie](/fr/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/fr/healthcare/peka-b40-and-health-schemes/)
+- [Deux factures pour un seul séjour](/fr/healthcare/private-hospitals-and-costs/)
+- [Le système de santé publique de la Malaisie](/fr/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/fr/healthcare/smoking-and-vaping-law-act-852/)
+- [La télémédecine en Malaisie](/fr/healthcare/telemedicine-and-online-doctor-services/)
+- [Médecine traditionnelle et complémentaire](/fr/healthcare/traditional-and-complementary-medicine/)
+
 ## La suite
 
 Pour le régime d'assurance sociale qui couvre les salariés malaisiens spécifiquement contre l'accident du travail et l'invalidité — un mécanisme différent de tout ce qui est décrit ci-dessus — voir [PERKESO (SOCSO)](/en/glossary/socso-perkeso). Pour le ministère qui gère et réglemente tout ce qui figure sur cette page, voir Kementerian Kesihatan Malaysia (KKM) une fois la page de cette entité publiée.

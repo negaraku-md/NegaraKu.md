@@ -127,3 +127,5 @@ Cet article n'indique délibérément ni âges ni doses de vaccination précis, 
 ## La suite
 
 Pour comprendre où s'inscrivent les cliniques de santé (Klinik Kesihatan) dans le système de santé publique plus large de la Malaisie — y compris les autres services offerts dans les mêmes établissements — lisez [Klinik Kesihatan : comment fonctionne réellement le système de soins primaires du gouvernement malaisien](/fr/healthcare/klinik-kesihatan). Pour les parents encore au stade de la grossesse, [Avoir un bébé en Malaisie](/fr/healthcare/having-a-baby-in-malaysia) explique le parcours de soins prénatals avant l'accouchement, y compris le propre carnet de santé de la mère, qui est distinct du carnet de santé de l'enfant abordé ici.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

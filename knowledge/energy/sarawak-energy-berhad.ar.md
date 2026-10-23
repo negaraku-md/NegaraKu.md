@@ -138,3 +138,5 @@ keywords: ["ساراواك للطاقة", "Sarawak Energy", "SEB", "SESCO", "ب�
 - اقرأ ملفّ **[شركة تيناغا ناسيونال](/energy/tenaga-nasional-berhad)** لمقارنة نموذج مرفق شبه الجزيرة بنموذج ساراواك.
 - لتفاصيل هندسة أكبر سدّ في ساراواك، استكشف الصفحة الرسمية **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - ملاحظة: أرقام السعة والأرقام المالية تتغيّر مع الوقت؛ تحقّق من آخر تقرير سنوي وبيانات صحفية لشركة SEB قبل استخدامها في قرارات رسمية.
+
+اطّلع على الدليل الكامل: [قطاع الطاقة في ماليزيا](/ar/energy/energy-sector-overview/).

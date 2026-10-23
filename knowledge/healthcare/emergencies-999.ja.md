@@ -132,3 +132,5 @@ keywords: ["999 Malaysia", "MERS 999", "NG999", "ambulans kecemasan Malaysia", "
 ## 次に何を読むか
 
 本ページは、医療緊急援助の受け方及び救急外来で何が起こると予想されるかを説明した。交通違反切符又はPDRMの取締り行為を伴う道路交通事故については、[マレーシアの交通違反切符（サマン）](/transport/traffic-summons-saman)を参照のこと。警察組織自体の構造及び取締り権限については、[マレーシア王立警察（PDRM）](/government/pdrm)を参照のこと。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

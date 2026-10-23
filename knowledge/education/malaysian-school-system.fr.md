@@ -156,3 +156,5 @@ Le calendrier scolaire, la structure des trimestres et les vacances scolaires so
 ## La suite
 
 Le système scolaire malaisien reflète le pays qu'il sert : un cadre national commun dispensé dans plus d'une langue d'instruction, tenant un programme commun et des examens communs à travers différentes communautés. Pour le complément pratique à cette structure — quand commencent les trimestres, combien durent les vacances et comment elles s'articulent avec les fêtes — lisez le [calendrier scolaire et les vacances scolaires](/fr/education/academic-calendar-and-school-holidays/). Pour les détails faisant autorité sur la politique, le programme et les dispositifs d'évaluation actuels, le portail du ministère de l'Éducation est la source primaire.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

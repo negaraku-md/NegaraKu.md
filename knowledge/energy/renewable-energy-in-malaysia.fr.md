@@ -202,3 +202,5 @@ Le cadre de la RE de la Malaisie évolue vite : les quotas ouvrent et ferment, l
 - **Faites d'abord correspondre le dispositif à votre profil** (ménage → SELCO / Solar ATAP ; C&I → NOVA tant qu'il dure, puis SELCO ; acheteur d'entreprise → CGPP ou CRESS), puis confirmez le quota en vigueur et les règles sur le portail de l'organisme administrateur : la SEDA pour NEM/FiT, la Commission de l'énergie et le Single Buyer pour les programmes d'entreprise.
 - **Vérifiez votre région.** La Péninsule, Sabah et le Sarawak diffèrent ; ne tenez pas pour acquis qu'un dispositif péninsulaire est disponible là où vous êtes.
 - **Traitez tout chiffre signalé comme *Vérification nécessaire* comme provisoire** jusqu'à confirmation par rapport à une source primaire : les anciennes répartitions de la part de RE dans la consommation et l'objectif de capacité en MW absolus de MyRER restent non vérifiés.
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

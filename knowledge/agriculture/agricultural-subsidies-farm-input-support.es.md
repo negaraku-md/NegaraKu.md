@@ -252,3 +252,5 @@ el sitio web del KPKM y con su organización local de agricultores, confirme su
 estatus de registro arrocero, y compare las tarifas de la temporada actual con las
 cifras aquí indicadas — este documento es un borrador asistido por IA y no un
 sustituto de la información oficial de los organismos.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

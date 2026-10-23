@@ -118,3 +118,5 @@ semata-mata kerana ibu bapa tidak mampu atau enggan membayar sumbangan PIBG. SPI
 ## Apa seterusnya
 
 Jika sekolah anak anda mengenakan bayaran yang dinyatakan "wajib", minta pihak sekolah menjelaskan asasnya dan sama ada ia sumbangan sukarela atau pakej bayaran tambahan yang dipersetujui. Simpan resit bagi setiap bayaran. Aduan berkenaan kutipan yang dipaksa boleh dikemukakan kepada Jabatan Pendidikan Negeri atau Pejabat Pendidikan Daerah. Untuk konteks lanjut, rujuk panduan mendaftar anak ke sekolah kerajaan dan gambaran keseluruhan sistem pendidikan Malaysia.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

@@ -140,3 +140,5 @@ Sau các sự việc như vậy, các hướng dẫn được cập nhật nhấ
 Nếu bạn đang đánh giá một cơ sở tôn giáo, hai câu hỏi cơ bản giúp ích: **nó đăng ký dưới cơ quan nào** (KPM, sở tôn giáo bang, hoặc cả hai) và **việc tuân thủ an toàn công trình của nó được xác nhận như thế nào** bởi Chính quyền Địa phương và Cục Cứu hỏa (Bomba). Tình trạng đăng ký thường có thể được kiểm tra với sở tôn giáo Hồi giáo bang liên quan.
 
 Vì các vấn đề tôn giáo Hồi giáo phần lớn là vấn đề của bang, chi tiết về điều kiện và quy trình khác nhau giữa các bang — hãy tham khảo trang chính thức của sở tôn giáo bang của bạn để biết các yêu cầu mới nhất. Bản thảo này mang tính giải thích; nó không đứng về bất kỳ lập trường nào trong cuộc tranh luận chính sách và không thay thế cho tư vấn chính thức từ các cơ quan liên quan.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

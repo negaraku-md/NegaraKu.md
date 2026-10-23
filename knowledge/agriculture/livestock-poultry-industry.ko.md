@@ -148,3 +148,5 @@ keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrik
 - 어떤 닭·달걀 가격 통제든 세계 사료 비용과 함께 읽어야 함을 이해하십시오 — 그것이 공급이 안정적으로 유지될지를 결정하는 진짜 요인입니다.
 
 *이 기사는 AI 지원으로 생성된 초안이며 아직 인간 편집자의 검토를 거치지 않았습니다. 모든 수치는 나열된 공식 자료에서 인용되었습니다; 결정을 내리기 전에 DOSM과 JPV에서 직접 최신 수치를 확인하십시오.*
+
+전체 가이드 보기: [말레이시아 농업 및 농식품 부문](/ko/agriculture/agriculture-sector-overview/).

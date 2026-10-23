@@ -235,3 +235,5 @@ keywords: ["oil and gas Malaysia", "PETRONAS", "production sharing contract", "P
 - 关注每年的**国家石油公司综合报告**和**马来西亚统计局季度石油统计**，获取最新的产量、出口和贡献数据。
 
 这些一手资料将帮助你在数字变动时保持信息更新——但其底层架构，即一个所有者按产量分成条款授权众多承包商，自1974年以来始终未变，也没有任何改变的迹象。
+
+查看完整指南：[马来西亚的关键产业](/zh/industries/industries-overview/)。

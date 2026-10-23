@@ -127,3 +127,5 @@ Artikel ini sengaja tidak menyatakan usia atau dosis suntikan tertentu, karena r
 ## Apa selanjutnya
 
 Untuk memahami kedudukan Klinik Kesihatan dalam sistem kesehatan publik Malaysia secara lebih luas — termasuk layanan lain yang disediakan di fasilitas yang sama — baca [Klinik Kesihatan: Cara Sistem Perawatan Primer Pemerintah Malaysia Sebenarnya Bekerja](/id/healthcare/klinik-kesihatan). Bagi orang tua yang masih di tahap kehamilan, [Memiliki Bayi di Malaysia](/id/healthcare/having-a-baby-in-malaysia) menjelaskan jalur perawatan antenatal sebelum kelahiran, termasuk buku rekam kesehatan ibu yang terpisah dari buku rekam anak yang dibahas di sini.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

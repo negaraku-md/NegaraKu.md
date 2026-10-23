@@ -138,3 +138,5 @@ keywords: ["cost of living Sabah", "تكاليف المعيشة في صباح", 
 - لمعرفة كيف تتفصّل ميزانية الأسرة الماليزية النمطية وطنيًا، راجع [إلى أين يذهب رينغيت الأسرة الماليزية فعليًا كل شهر](/cost-of-living/household-spending-breakdown).
 - لمعرفة كيف يرتبط الحد الأدنى للأجور الوطني وأرقام الدخل الوسيط/المتوسط بعضها ببعض، راجع [الحد الأدنى للأجور مقابل الدخل الوسيط](/cost-of-living/minimum-wage-and-median-income).
 - المصادر الأولية: DOSM، [تقرير مسح دخل الأسر 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) و[مؤشرات تكلفة المعيشة 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024)، وKPDN، [صفحة الأصناف الخاضعة للرقابة / PPHSSL](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items).
+
+اطّلع على الدليل الكامل: [تكلفة المعيشة في ماليزيا، وفق الأرقام الرسمية](/ar/cost-of-living/cost-of-living-overview/).

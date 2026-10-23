@@ -166,3 +166,5 @@ La estrategia, pues, tiene tres patas: mantener y ampliar el acceso a China cons
 ## Qué sigue
 
 Vigile tres cosas. Primero, si Malasia extiende la protección de IG al extranjero — la mayor brecha individual de la estrategia de marca actual. Segundo, cómo se resuelve la cuestión del durián precortado y de valor añadido, ya que cualquier método fuera del protocolo firmado pone en riesgo el mercado chino para todos. Tercero, si la diversificación hacia Taiwán y Perú pasa de la aspiración a protocolos firmados. Para los productores, la conclusión práctica no cambia: sin registro ante el DOA, cumplimiento de myGAP y aprobación de la GACC no hay exportaciones de durián fresco, sin excepciones. Las cifras aquí proceden de respuestas parlamentarias y declaraciones de agencias y cambiarán a medida que se publiquen datos oficiales más recientes — consulte el Ministerio de Agricultura y Seguridad Alimentaria y MATRADE para las cifras vigentes.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

@@ -187,3 +187,5 @@ ST의 권한은 2025년 1월 1일에 확대되었으며, 이때 **에너지효�
   [Act 610 전문](https://faolex.fao.org/docs/pdf/mal37918.pdf)에서 읽거나
   [ST의 「About Us」 페이지](https://www.st.gov.my/about-us)에서 공식 권한을
   확인하십시오
+
+전체 가이드 보기: [말레이시아 에너지 부문](/ko/energy/energy-sector-overview/).

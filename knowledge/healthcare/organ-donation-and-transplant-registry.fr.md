@@ -161,3 +161,5 @@ Si vous souhaitez comprendre ou envisager le don d'organes :
 - Pour les statistiques les plus récentes, consultez le tableau de bord officiel [KKMNOW](https://data.moh.gov.my/dashboard/organ-donation).
 
 *Cet article fournit des informations générales et neutres ; il ne constitue ni un avis médical ni un avis religieux. Reportez-vous aux sources officielles et aux autorités compétentes pour vos décisions personnelles.*
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

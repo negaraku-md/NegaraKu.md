@@ -231,3 +231,5 @@ Si tiene la intención de solicitar, empiece por actualizar sus documentos bási
 Tenga en cuenta que los detalles de tarifas, periodos de validez y procedimientos de este artículo están tomados del Manual de Procedimiento de Certificación Halal de Malasia (Nacional) 2020, y JAKIM actualiza el manual y los procedimientos de vez en cuando — incluida la transición al e-Cert en 2025. Verifique siempre las cifras y condiciones más recientes a través del sistema MYeHALAL y el portal oficial de JAKIM antes de solicitar.
 
 Para comprender el marco legal más amplio, un siguiente paso útil es leer sobre la **Trade Descriptions Act 2011** y el papel de **JAKIM** como organismo federal coordinador de los asuntos islámicos.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

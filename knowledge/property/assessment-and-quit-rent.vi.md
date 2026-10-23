@@ -136,3 +136,5 @@ Cả hai loại thuế này là ví dụ cụ thể về cách quyền lực c�
 - [Ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government) — cách liên bang, bang và địa phương khác nhau về quyền lực
 - [Sự phân chia quyền lực liên bang-bang](/vi/government/federal-state-division) — vì sao đất đai thuộc danh mục quyền lực của bang
 - [Hội đồng Lập pháp Bang (DUN)](/vi/government/state-assemblies-dun) — cơ quan thông qua luật đất đai của bang
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

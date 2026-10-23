@@ -176,3 +176,5 @@ For an overview of other health topics in Malaysia — from private insurance
 to medical tourism — browse the [Healthcare](/en/healthcare) category. To
 make an actual appointment, access the official service through the
 [MyGovernment portal](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan).
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

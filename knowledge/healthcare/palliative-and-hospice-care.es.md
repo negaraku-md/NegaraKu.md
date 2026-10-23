@@ -115,3 +115,5 @@ Esto suele confundirse. La atención geriátrica es una atención general para p
 ## Qué sigue
 
 Si un miembro de tu familia tiene una enfermedad grave, empieza por hablar de una derivación paliativa con el médico o especialista que lo trata. Para las familias del valle de Klang, contacta con Hospis Malaysia a través de su sitio web. Para necesidades más amplias de atención geriátrica general, consulta nuestra guía relacionada sobre la atención sanitaria para personas mayores.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

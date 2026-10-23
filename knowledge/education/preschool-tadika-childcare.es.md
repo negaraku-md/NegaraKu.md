@@ -177,3 +177,5 @@ estén en orden, ya que se requieren en la fase de solicitud. Si acabas de
 registrar el nacimiento de tu hijo, lee [registrar un nacimiento](/en/settling-in/registering-a-birth)
 para conocer el proceso y los documentos relacionados antes de pasar a la fase
 de registro en el preescolar.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

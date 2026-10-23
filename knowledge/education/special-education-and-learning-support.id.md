@@ -106,3 +106,5 @@ Bagi anak yang belum cukup usia untuk PPI, PPKI, atau sekolah khas, dua saluran 
 ## Apa yang selanjutnya
 
 Mulailah dengan permohonan kartu OKU di JKM jika anak Anda belum memilikinya — itulah dokumen yang hampir setiap langkah lain anggap sudah ada. Secara paralel, hubungi sekolah terdekat yang memiliki program PPKI, atau dinas pendidikan negeri, untuk mengatur penilaian Bagian Pendidikan Khas; penilaian itu, bukan pilihan pribadi, yang menentukan jalur mana dari tiga jalur itu seorang anak ditempatkan. Jika anak Anda belum cukup usia persekolahan, TASKA OKU dan NGO seperti NASOM layak dijelajahi untuk sementara waktu dibandingkan menunggu proses penempatan sekolah dimulai.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

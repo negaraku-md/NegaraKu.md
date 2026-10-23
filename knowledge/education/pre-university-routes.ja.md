@@ -243,3 +243,5 @@ Matrikulasi のトラックに組み込まれるのではなく、中央大学�
 ついては、
 [PTPTN Bukan Biasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi](/ja/education/ptptn-student-loan)
 を参照。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの教育制度](/ja/education/malaysian-education-system/)。

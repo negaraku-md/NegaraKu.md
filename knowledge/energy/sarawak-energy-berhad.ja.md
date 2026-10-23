@@ -138,3 +138,5 @@ SEBは自社の水力発電を再生可能エネルギーに分類しており�
 - [テナガ・ナショナル・ベルハッド（Tenaga Nasional Berhad）](/ja/energy/tenaga-nasional-berhad)のプロフィールを読み、半島部とサラワクの電力事業モデルを比較する。
 - サラワク最大のダムに関する工学的詳細については、公式サイト[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)を参照のこと。
 - 注：容量及び財務の数値は随時変動する。正式な意思決定に利用する前に、SEBの最新の年次報告書及びメディアリリースで確認すること。
+
+詳しくは全体ガイドをご覧ください：[マレーシアのエネルギー部門](/ja/energy/energy-sector-overview/)。

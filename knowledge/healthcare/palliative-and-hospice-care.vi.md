@@ -115,3 +115,5 @@ Họ cũng chăm sóc trẻ em mắc bệnh giới hạn tuổi thọ. Hầu h�
 ## Tiếp theo
 
 Nếu người thân của bạn mắc bệnh nghiêm trọng, hãy bắt đầu bằng việc bàn bạc với bác sĩ hoặc bác sĩ chuyên khoa điều trị về việc chuyển tuyến giảm nhẹ. Đối với các gia đình ở Thung lũng Klang, hãy liên hệ Hospis Malaysia qua trang web của họ. Đối với nhu cầu chăm sóc chung rộng hơn cho người cao tuổi, hãy xem hướng dẫn liên quan của chúng tôi về chăm sóc sức khỏe cho người cao tuổi.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

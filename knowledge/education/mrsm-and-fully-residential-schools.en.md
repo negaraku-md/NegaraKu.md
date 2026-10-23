@@ -134,3 +134,5 @@ This article takes no position in that debate. What is clear from the official p
 - Students and parents can compare the two pathways in terms of location, programme and application dates before making a choice.
 
 > Note: This is an AI-generated draft and requires human review. Figures and policies may change — verify with official MARA and MOE sources before making any decisions.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

@@ -147,6 +147,23 @@ keywords: ["cost of living Malaysia", "تكاليف المعيشة في مالي
 - **الخلط بين دخل الأسرة والراتب الفردي.** راجع [الحد الأدنى للأجور مقابل الدخل الوسيط](/cost-of-living/minimum-wage-and-median-income) لمعرفة سبب تباعد هاتين السلسلتين لدى DOSM ولماذا لا ينبغي استبدال إحداهما بالأخرى.
 - **الاستشهاد بمؤشر دولي لتكلفة المعيشة مجمَّع من الجمهور كأنه بيانات حكومية ماليزية رسمية.** إنه ليس كذلك — فـ DOSM لا تنشر واحدًا، للأسباب أعلاه.
 
+## استكشف هذا الموضوع بعمق
+
+أهم الأدلة في هذا المجال:
+
+- [B40 وM40 وT20](/ar/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/ar/cost-of-living/belanjawanku-reference-budget/)
+- [لماذا تكلّف علبة Milo أكثر في كوتا كينابالو منها في كلانغ](/ar/cost-of-living/cost-of-living-east-malaysia/)
+- [تكلفة المعيشة في جوهور بهرو](/ar/cost-of-living/cost-of-living-johor-bahru/)
+- [لماذا كوالالمبور هي المكان الأغلى للعيش في ماليزيا](/ar/cost-of-living/cost-of-living-kuala-lumpur/)
+- [تكلفة المعيشة في بينانغ تنقسم عند المضيق](/ar/cost-of-living/cost-of-living-penang/)
+- [أين تذهب رينغيت الأسرة الماليزية فعلًا كل شهر](/ar/cost-of-living/household-spending-breakdown/)
+- [هل ماليزيا ميسورة التكلفة للوافدين؟ ما تقوله الأرقام الرسمية فعلًا](/ar/cost-of-living/is-malaysia-affordable-for-expats/)
+- [موقع ماليزيا في مؤشرات تكلفة المعيشة العالمية](/ar/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [الحدّ الأدنى للأجور مقابل الدخل الوسيط](/ar/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/ar/cost-of-living/padu-central-database/)
+- [كيف تضبط ماليزيا الاستغلال في الأسعار](/ar/cost-of-living/price-control-anti-profiteering-act/)
+
 ## ما التالي
 
 - لمعرفة كيف يقارَن الأجر الفردي بهذه الأرقام الأسرية: [الحد الأدنى للأجور مقابل الدخل الوسيط](/cost-of-living/minimum-wage-and-median-income)

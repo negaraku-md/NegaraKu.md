@@ -214,3 +214,5 @@ Jika Anda sebuah perusahaan teknologi atau yang dipacu secara digital yang menim
 Arah tujuannya jelas: Malaysia mau ekonomi digital terus mendaki menuju dan melampaui tanda rencana aksi 25.5% dalam perjalanan menuju ekonomi berpendapatan tinggi yang dipacu teknologi menjelang 2030, dengan e-invois, masuknya pengembara digital dan digitalisasi UMKM sebagai tuas jangka pendek. Untuk angka yang paling terkini, periksa rilis tahunan *Malaysia Digital Economy* DOSM, yang merupakan sumber berwenang untuk angka porsi-PDB dan e-dagang yang dikutip di sini.
 
 Jika Anda sebuah perusahaan, langkah praktis selanjutnya adalah mengonfirmasi apakah aktivitas Anda terpetakan ke salah satu dari sembilan sektor yang didorong MD, kemudian tentukan apakah Anda memerlukan Status MD saja atau Insentif Pajak MD yang terpisah — dan aturlah pengajuan Anda sebelum Anda mulai menginvois aktivitas yang memenuhi syarat. Panduan NegaraKu.md yang terkait tentang MDEC, rencana aksi MyDIGITAL dan sektor e-dagang Malaysia menyelami lebih dalam setiap lapisan tumpukan ini.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

@@ -116,3 +116,5 @@ El KPDN también introdujo una Calculadora Antiespeculación digital para ayudar
 ## Qué viene después
 
 Si usted es comerciante, lleve un registro de sus costes y precios al inicio de cada ejercicio financiero — ese es el año base que se usará para evaluarlo. Si usted es un consumidor que sospecha de especulación, puede presentar una denuncia ante el KPDN. Para más contexto sobre los impuestos que afectan a los precios, consulte nuestro artículo relacionado sobre el SST.
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

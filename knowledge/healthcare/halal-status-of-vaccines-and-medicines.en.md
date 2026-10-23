@@ -136,3 +136,5 @@ Within society, halal status often becomes one of the factors families consider.
 - Check the latest Muzakarah decisions via JAKIM's e-Fatwa portal or the websites of the state mufti departments, as fatwas may be updated when a product's contents or the availability of alternatives change.
 - For specific questions about a particular brand of vaccine or medicine, consult the state religious authorities and certified medical practitioners.
 - This draft is AI-generated material that has not yet been reviewed; ensure that every fatwa citation is verified against official documents before relying on it for personal decisions.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

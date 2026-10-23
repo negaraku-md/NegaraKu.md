@@ -156,3 +156,5 @@ L'autre bout de la propriété comporte aussi son propre taux spécifique aux é
 ## Et ensuite
 
 Une fois le titre effectivement transféré au nom d'un propriétaire étranger, les obligations continues sont les mêmes que celles auxquelles fait face tout propriétaire en Malaisie — voir [la taxe d'évaluation et le quit rent, et qui perçoit chacun](/en/property/assessment-and-quit-rent). Pour les deux événements fiscaux qui encadrent la propriété elle-même, voir le [barème du droit de timbre à l'acquisition](/en/taxation/stamp-duty-rates) et le [RPGT lors de la cession éventuelle](/en/taxation/rpgt-rates). Et pour la voie de visa qui rend l'achat d'un bien obligatoire plutôt que facultatif, voir les [quatre paliers du visa de long séjour MM2H](/en/settling-in/mm2h-long-stay-visa).
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

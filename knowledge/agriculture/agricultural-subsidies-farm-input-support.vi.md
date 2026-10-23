@@ -169,3 +169,5 @@ Mức và cấu trúc của các chương trình này được rà soát lại t
 Là một chính sách công, chương trình trợ cấp lúa cũng không phải không có tranh luận. Các vấn đề như thất thoát hỗ trợ, hiệu quả phân phối, và sự phụ thuộc kéo dài của nông dân vào trợ cấp thường được nêu ra trong các thảo luận về chính sách ngành gạo quốc gia. Tài liệu này tập trung vào cấu trúc và mức của chương trình, không phải đánh giá tính hiệu quả hoặc tác động phân phối của nó.
 
 Đối với bước tiếp theo, hãy kiểm tra các thông báo về vụ trồng mới nhất trên trang của KPKM và các tổ chức nông dân địa phương, xác nhận tình trạng đăng ký đồng ruộng của bạn, và so sánh mức của vụ hiện tại với các con số nêu ở đây — tài liệu này là bản thảo có trợ giúp của AI và không thay thế thông tin chính thức của cơ quan.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

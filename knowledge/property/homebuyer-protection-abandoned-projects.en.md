@@ -163,3 +163,5 @@ Bear in mind that rehabilitating an abandoned project can take years and the out
 - **If the project appears to have stalled:** check the Sick & Abandoned Projects List and obtain early legal advice, as substantial losses may require civil action.
 
 This guide is general information and not legal advice. For specific cases, consult a qualified lawyer or the National Housing Department, KPKT.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

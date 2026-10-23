@@ -165,3 +165,5 @@ This allows homeowners to derive value from unused roof space, while letting loc
 Malaysia's solar schemes are evolving fast, and important dates are approaching. The NEM 3.0 quota ended on 30 June 2025 — if you are a homeowner or business, check the remaining quota on the SEDA portal and get quotes from registered installers as early as possible. Companies considering CRESS or CGPP should calculate the impact of the System Access Charge on their overall energy cost before signing a PPA. For investors, the LSS5 auction results and future LSS rounds will set the direction of the country's utility solar market.
 
 Watch for official announcements from the Energy Commission, SEDA and the Single Buyer for new quotas, tariff changes, and successor schemes after NEM 3.0 ends.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

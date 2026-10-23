@@ -134,3 +134,5 @@ keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "Ge
 - สำหรับรัฐบาล ภูมิศาสตร์ และการปกครองของรัฐปีนัง: [ปีนัง](/th/states/penang)
 - สำหรับเรื่องปฏิบัติในการลงนามสัญญาเช่าในทั้งสองฟากของช่องแคบ: [การเช่าในมาเลเซีย](/th/property/renting-a-home-tenancy)
 - แหล่งข้อมูลหลัก: [รายงานการสำรวจรายได้ครัวเรือน 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) ของ DOSM, [รายงานการสำรวจเงินเดือนและค่าจ้าง 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024) และ [ดัชนีราคาผู้บริโภค มกราคม 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025); [การขึ้นทะเบียนมรดกโลกจอร์จทาวน์/มะละกา](https://whc.unesco.org/en/list/1223/) ของ UNESCO; และ [รายงานดัชนีราคาบ้านของมาเลเซีย](https://napic.jpph.gov.my/) ของ NAPIC สำหรับบริบทตลาดอสังหาริมทรัพย์
+
+ดูคู่มือฉบับเต็ม: [ค่าครองชีพของมาเลเซีย ตามตัวเลขทางการ](/th/cost-of-living/cost-of-living-overview/)

@@ -157,3 +157,5 @@ contradiction:
   [Household Income Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   and
   [Salaries and Wages Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024).
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

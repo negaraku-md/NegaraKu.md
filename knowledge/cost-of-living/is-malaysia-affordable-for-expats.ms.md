@@ -179,3 +179,5 @@ Untuk versi persoalan ini di peringkat bandar, lihat
 [Mengapa Kuala Lumpur Tempat Tinggal Paling Mahal di Malaysia](/cost-of-living/cost-of-living-kuala-lumpur).
 Untuk memahami bagaimana angka inflasi asas sebenarnya dibina, lihat
 [Kadar Inflasi Malaysia dan Apa yang Sebenarnya Diukur oleh CPI](/economy/inflation-cpi).
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

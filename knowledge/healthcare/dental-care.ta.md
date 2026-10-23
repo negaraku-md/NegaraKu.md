@@ -175,3 +175,5 @@ Akta Pergigian 2018 (Akta 804) இன் கீழ் நாட்டின் �
 கிளினிக்கைக் கண்டறிய விரும்புவோர், அதிகாரப்பூர்வ தேடல் சேவையை
 [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan)
 முகப்பு வழியாக அணுகலாம்.
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசிய சுகாதாரம் உண்மையில் எப்படி இயங்குகிறது](/ta/healthcare/how-malaysian-healthcare-works/).

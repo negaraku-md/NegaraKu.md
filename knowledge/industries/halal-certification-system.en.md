@@ -231,3 +231,5 @@ If you intend to apply, start by updating your basic documents — SSM registrat
 Bear in mind that the details of fees, validity periods and procedures in this article are taken from the Malaysia Halal Certification Procedure Manual (Domestic) 2020, and JAKIM updates the manual and procedures from time to time — including the transition to e-Cert in 2025. Always verify the latest figures and conditions through the MYeHALAL system and JAKIM's official portal before applying.
 
 To understand the broader legal framework, a useful next step is to read about the **Trade Descriptions Act 2011** and the role of **JAKIM** as the federal Islamic affairs coordinating body.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

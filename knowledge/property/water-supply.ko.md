@@ -120,3 +120,5 @@ keywords: ["bekalan air Malaysia", "Air Selangor", "Ranhill SAJ", "PBAPP", "buka
 ---
 
 *주별 수도 운영 구조, SPAN과 PAAB의 역할, 그리고 Ranhill SAJ의 민간 사업자 지위는 각 공식 사이트에서 직접 확인되었습니다. 계정 등록 절차는 예시로 Air Selangor 공식 지원 페이지를 참조했으며; 세부사항은 다른 주 수도 회사마다 다를 수 있고 이 글이 확정되기 전에 인간 검토자가 재확인해야 합니다.*
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

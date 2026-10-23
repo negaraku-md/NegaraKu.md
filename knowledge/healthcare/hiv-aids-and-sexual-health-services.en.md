@@ -147,3 +147,5 @@ A distinctive feature of Malaysia is **mandatory premarital HIV screening for Mu
 ## What's next
 
 If you want to get tested, contact your nearest government Klinik Kesihatan or refer to the Malaysian AIDS Council's locator for clinics and NGOs that provide testing, PrEP and PEP. Remember that PEP is time-sensitive — within 72 hours of exposure. For further official information, refer to the Malaysia Ministry of Health and Malaysian AIDS Council websites. This article is an AI draft that requires human review before publication, and the figures and legal provisions should be re-checked against the latest official sources.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

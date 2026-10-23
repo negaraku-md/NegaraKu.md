@@ -170,3 +170,5 @@ Các chương trình liên bang khác như **MyHome** cũng tồn tại như m�
 - Chuẩn bị các giấy tờ cơ bản sớm hơn: MyKad, phiếu lương ba tháng, sao kê ngân hàng và sao kê EPF.
 - Nếu thu nhập của bạn không ổn định, hãy kiểm tra điều kiện SJKP trước khi nộp đơn để bạn biết số tiền tài trợ có thể được duyệt.
 - Xác nhận con số mới nhất trực tiếp trên cổng chính thức — trần giá và giới hạn thu nhập được rà soát lại theo thời gian, và con số trong hướng dẫn này là chỉ dẫn, không phải một đề nghị cuối cùng.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

@@ -180,3 +180,5 @@ SESB事務所へ提出する必要がある。
 [マレーシアへ引っ越す最初のステップ](/settling-in/moving-to-malaysia-first-steps)を
 参照のこと。新しい物件で携帯回線も用意する必要がある人は、
 [プリペイド・ポストペイドSIMの手引き](/money-daily-life/mobile-sim-plans)を参照のこと。
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

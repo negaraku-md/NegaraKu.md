@@ -202,3 +202,5 @@ Rangka kerja RE Malaysia bergerak pantas — kuota dibuka dan ditutup, skim dila
 - **Padankan skim dengan profil anda dahulu** (isi rumah → SELCO / Solar ATAP; C&I → NOVA selagi ia berjalan, kemudian SELCO; pembeli korporat → CGPP atau CRESS), kemudian sahkan kuota dan peraturan semasa di portal agensi pentadbir — SEDA untuk NEM/FiT, Suruhanjaya Tenaga dan Pembeli Tunggal untuk program korporat.
 - **Semak wilayah anda.** Semenanjung, Sabah dan Sarawak berbeza; jangan andaikan skim Semenanjung tersedia di tempat anda.
 - **Anggap sebarang angka yang ditandakan di bawah *Pengesahan diperlukan* sebagai sementara** sehingga disahkan terhadap sumber utama — pecahan bahagian-RE-daripada-penggunaan yang lebih lama dan sasaran kapasiti mutlak-MW MyRER masih belum disahkan.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

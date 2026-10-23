@@ -150,3 +150,5 @@ Bagi perniagaan, kesan ampuannya sederhana tetapi kekal: tadbir urus tenaga kini
 Jika organisasi anda mungkin melepasi ambang 21,600 GJ, langkah pertama ialah menjumlahkan penggunaan tenaga tahunan semua tapak anda dan menyemak sama ada anda perlu melantik pengurus tenaga berdaftar. Pemilik bangunan pejabat besar patut menyemak keluasan lantai kasar dan mengira BEI semasa berbanding siling 250 kWh/m²/tahun.
 
 Untuk keperluan pendaftaran terkini, senarai pengurus dan juruaudit tenaga berdaftar, borang, dan tarikh akhir penghantaran laporan, rujuk laman Suruhanjaya Tenaga secara langsung. Kandungan ini ialah gambaran am dan bukan nasihat perundangan; sahkan mana-mana ambang, penalti, atau tarikh akhir terhadap teks Akta 861 dan Peraturan-Peraturan Kecekapan dan Konservasi Tenaga 2024 yang rasmi.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

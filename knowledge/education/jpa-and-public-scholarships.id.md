@@ -156,3 +156,5 @@ Jika Anda merencanakan pembiayaan pendidikan, langkah praktis berikut membantu:
 - **Baca syarat ikatan.** Teliti periode pengabdian, syarat konversi pinjaman, dan apakah Anda perlu melepaskan PTPTN.
 
 Draf ini disusun dengan bantuan AI dan belum melalui peninjauan manusia; sahkan setiap angka dengan sumber resmi sebelum membuat keputusan.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

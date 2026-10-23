@@ -136,3 +136,5 @@ Dentro de la sociedad, el estatus halal suele convertirse en uno de los factores
 - Consulte las decisiones más recientes de la Muzakarah a través del portal e-Fatwa del JAKIM o de los sitios web de los departamentos estatales del muftí, ya que las fatuas pueden actualizarse cuando cambian el contenido de un producto o la disponibilidad de alternativas.
 - Para preguntas concretas sobre una marca específica de vacuna o medicamento, consulte a las autoridades religiosas estatales y a facultativos médicos certificados.
 - Este borrador es material generado por IA que aún no ha sido revisado; asegúrese de que cada cita de una fatua se verifique frente a los documentos oficiales antes de basarse en ella para tomar decisiones personales.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

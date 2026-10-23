@@ -144,3 +144,5 @@ Eastern Takaful Berhad 代表[马来西亚财政部](/government/ministry-of-fin
 额外援助的家庭，亦可阅读
 [马来西亚年长者护理选项](/zh/healthcare/healthcare-for-seniors)。若要
 查询 mySalam 状态，请另行浏览 mySalam 官方门户网站。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

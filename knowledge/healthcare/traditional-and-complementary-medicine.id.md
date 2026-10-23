@@ -116,3 +116,5 @@ Hingga Januari 2025, Kementerian Kesehatan menerima 18,802 permohonan, dengan 14
 ## Apa selanjutnya
 
 Jika Anda seorang praktisi, periksa apakah bidang Anda termasuk dalam tujuh bidang yang diakui, lalu ajukan pendaftaran melalui Majelis PT&K, Bagian Pengobatan Tradisional dan Komplementer, Kementerian Kesehatan Malaysia. Jika Anda seorang konsumen, minta untuk melihat sertifikat pendaftaran praktisi sebelum menerima perawatan — ia kini menjadi tanda praktisi yang sah secara hukum.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

@@ -128,3 +128,5 @@ organizadas por medio de instrucción y raza. Está redactado para mantenerse
 descriptivo — reportando la estructura oficial fijada por el KPM, sin evaluar ni
 interpretar la política de las escuelas vernáculas — y se conserva como borrador
 provisional a la espera de revisión humana.*
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

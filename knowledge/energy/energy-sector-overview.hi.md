@@ -327,6 +327,27 @@ RP4 की प्रमुख विशेषताएँ:
   बिजली मिश्रण (बिजली उत्पादन) में नवीकरणीय ऊर्जा क्षमता को संदर्भित करता है, न कि परिवहन
   और उद्योग सहित संपूर्ण ऊर्जा प्रणाली को।
 
+## इस विषय को विस्तार से जानें
+
+इस क्षेत्र की प्रमुख गाइड:
+
+- [विद्युत आपूर्ति उद्योग सुधार](/hi/energy/electricity-supply-industry-reform-mesi/)
+- [मलेशिया की विद्युत टैरिफ संरचना कैसे काम करती है](/hi/energy/electricity-tariff-structure/)
+- [ऊर्जा आयोग](/hi/energy/energy-commission-suruhanjaya-tenaga/)
+- [ऊर्जा दक्षता और संरक्षण अधिनियम (Act 861)](/hi/energy/energy-efficiency-conservation-act/)
+- [मलेशिया साप्ताहिक ईंधन कीमतें कैसे तय करता है](/hi/energy/fuel-pricing-mechanism/)
+- [मलेशिया की ईंधन सब्सिडी प्रणाली](/hi/energy/fuel-subsidy-system/)
+- [मलेशिया में हाइड्रोजन और कार्बन कैप्चर (CCUS)](/hi/energy/hydrogen-ccus-malaysia/)
+- [मलेशिया में जलविद्युत](/hi/energy/hydropower-malaysia/)
+- [राष्ट्रीय ऊर्जा संक्रमण रोडमैप (NETR)](/hi/energy/national-energy-transition-roadmap-netr/)
+- [मलेशिया में प्राकृतिक गैस और LNG](/hi/energy/natural-gas-lng-malaysia/)
+- [पेट्रोलियम डेवलपमेंट एक्ट 1974 (Petroleum Development Act 1974)](/hi/energy/petroleum-development-act-1974/)
+- [मलेशिया में अक्षय ऊर्जा](/hi/energy/renewable-energy-in-malaysia/)
+- [सारावाक एनर्जी बरहाद (Sarawak Energy Berhad, SEB)](/hi/energy/sarawak-energy-berhad/)
+- [Petros और सारावाक गैस विवाद](/hi/energy/sarawak-petros-gas-dispute/)
+- [SEDA मलेशिया](/hi/energy/seda-malaysia/)
+- [मलेशिया में सौर ऊर्जा](/hi/energy/solar-energy-malaysia/)
+
 ## आगे क्या
 
 यदि आप एक उपभोक्ता हैं, तो सबसे व्यावहारिक कदम है अपने नए RP4 बिजली बिल (चार घटक) को समझना

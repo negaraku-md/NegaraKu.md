@@ -107,3 +107,5 @@ Prosesnya dapat dilakukan secara daring atau di loket:
 ## Apa selanjutnya?
 
 PADU dirancang sebagai tulang punggung data untuk kebijakan subsidi bersasaran Malaysia, termasuk peralihan dari subsidi menyeluruh ke bantuan yang lebih tepat sasaran. Karena profil Anda dapat berubah — pindah kerja, kenaikan gaji, penambahan anggota keluarga — ada baiknya memeriksa dan memperbarui informasi Anda di padu.gov.my dari waktu ke waktu agar catatan tetap terkini saat kelayakan bantuan dinilai. Untuk rincian terbaru tentang skema tertentu seperti bantuan tunai atau subsidi bahan bakar, rujuk pengumuman resmi lembaga pelaksana terkait.
+
+Lihat panduan lengkap: [Biaya Hidup Malaysia, Menurut Angka Resmi](/id/cost-of-living/cost-of-living-overview/).

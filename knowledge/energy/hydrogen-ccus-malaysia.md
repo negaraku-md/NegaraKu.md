@@ -143,3 +143,5 @@ These are far less mature than Kasawari or the SEDC Energy projects, and should 
 Watch three things. First, whether **Kasawari actually starts injecting CO2 by 2027** — a successful, at-scale offshore storage operation would be among the first of its kind in the region and the foundation for any future carbon-storage-as-a-service business. Second, whether **SEDC Energy converts its Japanese and Korean partnerships into binding offtake agreements**; without them, the redesigned H2biscus and H2ornbill plants stay on the drawing board. Third, whether Malaysia's HETR translates into policy that closes the cost gap — carbon pricing, blending mandates, or export incentives — because at today's economics, clean-hydrogen exports need help to compete.
 
 For readers tracking Malaysia's energy transition, the honest summary is this: the infrastructure ambition is real and, in Kasawari's case, physically being built — but the hydrogen export industry remains a promise waiting on customers.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

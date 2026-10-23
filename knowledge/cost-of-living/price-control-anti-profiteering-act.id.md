@@ -116,3 +116,5 @@ KPDN juga memperkenalkan Kalkulator Antipencatutan digital untuk membantu pedaga
 ## Apa selanjutnya
 
 Jika Anda seorang pedagang, simpan catatan biaya dan harga Anda pada awal setiap tahun keuangan — itulah tahun dasar yang akan digunakan untuk menilai Anda. Jika Anda konsumen yang mencurigai pencatutan, aduan dapat diajukan kepada KPDN. Untuk konteks lanjut tentang pajak yang memengaruhi harga, lihat artikel terkait kami mengenai SST.
+
+Lihat panduan lengkap: [Biaya Hidup Malaysia, Menurut Angka Resmi](/id/cost-of-living/cost-of-living-overview/).

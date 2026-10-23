@@ -156,3 +156,5 @@ Nếu bạn đang thiết lập dịch vụ di động song song với internet 
 Unifi Mobile, thường được gộp với một đường Unifi Home — xem
 [Mua SIM di động ở Malaysia](/vi/money-daily-life/mobile-sim-plans) để biết
 cách đăng ký và lựa chọn nhà cung cấp hoạt động ở đó.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

@@ -106,3 +106,5 @@ Vous avez le droit de poser des questions. La démarche la plus simple :
 ## Et ensuite
 
 Commencez par une recherche MeRITS pour n'importe quel médecin — c'est gratuit et cela prend moins d'une minute. Pour les infirmiers, les pharmaciens et les professions de santé associées, contactez l'ordre ou le conseil respectif via le portail officiel du ministère de la Santé de Malaisie afin de confirmer leur statut. Si vous soupçonnez qu'une personne exerce sans qualification ou fait l'objet d'une faute professionnelle, signalez-le à l'organisme de réglementation de cette profession, qui dispose de pouvoirs disciplinaires en vertu de sa loi. Règle de base : si le nom n'existe pas dans le registre, ne confiez pas votre santé à cette personne.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

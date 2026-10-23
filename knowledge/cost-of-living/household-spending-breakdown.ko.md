@@ -103,3 +103,5 @@ DOSM의 공식 발표는 대표 요약에서 그 나머지 그룹 각각의 정�
 - 전체 범주 표와 주 단위 분해는 1차 발표 자료인
   [DOSM 가계지출조사 보고서 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   를 직접 참조하십시오.
+
+전체 가이드 보기: [공식 수치로 본 말레이시아의 생활비](/ko/cost-of-living/cost-of-living-overview/).

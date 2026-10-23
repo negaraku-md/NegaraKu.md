@@ -170,3 +170,5 @@ Kelayakan skema adalah satu hal; mendapatkan pembiayaan adalah hal lain. Bagi pe
 - Siapkan dokumen dasar lebih awal: MyKad, slip gaji tiga bulan, rekening koran bank dan laporan KWSP.
 - Jika pendapatan Anda tidak menentu, cek kelayakan SJKP sebelum memohon agar Anda tahu jumlah pembiayaan yang mungkin disetujui.
 - Pastikan angka terkini langsung di portal resmi — plafon harga dan batas pendapatan ditinjau ulang dari waktu ke waktu, dan angka dalam panduan ini adalah petunjuk, bukan tawaran final.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

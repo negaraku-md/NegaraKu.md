@@ -168,3 +168,5 @@ faq:
 ## What's next
 
 임차계약이 서명되고 인지가 날인되면, 다음 실질적 단계는 보통 임차인 명의로 공과금 계정을 마련하고 차임과 함께 붙는 건물 차원의 부과금을 이해하는 것입니다. Change of Tenancy(명의 변경) 절차와 그 자체의 보증금이 어떻게 작동하는지는 [TNB 전기 계정 개설하기](/ko/property/electricity-tnb-account)를 보고, 세대가 자체 관리단을 둔 구분소유 부동산에 있다면 [콘도 생활과 관리비](/ko/property/condo-living-maintenance-fees)를 보십시오. 아직 세대를 찾지 못했거나 상대가 누구인지 확인하지 못했다면, [말레이시아에서 임차 집 찾기](/ko/property/finding-a-rental)가 어떤 보증금이 오가기 전에 이루어져야 할 포털과 REN 등록 확인을 다룹니다.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

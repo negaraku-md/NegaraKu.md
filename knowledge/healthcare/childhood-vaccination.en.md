@@ -127,3 +127,5 @@ This article deliberately does not state specific vaccination ages or doses, bec
 ## What's next
 
 To understand where health clinics (Klinik Kesihatan) fit into Malaysia's wider public health system — including other services offered at the same facilities — read [Klinik Kesihatan: How Malaysia's Government Primary Care System Actually Works](/en/healthcare/klinik-kesihatan). For parents still at the pregnancy stage, [Having a Baby in Malaysia](/en/healthcare/having-a-baby-in-malaysia) explains the antenatal care pathway before birth, including the mother's own health record book, which is separate from the child's record book discussed here.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

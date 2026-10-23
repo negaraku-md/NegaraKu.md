@@ -136,3 +136,5 @@ Le Livre blanc de la santé a réussi une chose importante : il a placé sur la 
 Premièrement, il faut créer un organe de mise en œuvre et de suivi doté d'un pouvoir effectif ; sans lui, la réforme par phases n'a pas de moteur. Deuxièmement, les décisions difficiles de financement — qu'il s'agisse d'un régime contributif, de taxes pro-santé ou d'une combinaison — doivent être finalisées et expliquées à la population.
 
 Pour les lecteurs, les éléments les plus utiles à surveiller dans les années à venir sont : si une commission ou un organe de mise en œuvre est enfin créé, et si les propositions de financement passent de l'étude à la politique. Tant que ces deux choses ne se produisent pas, le Livre blanc demeure une vision convaincante, mais une vision qui n'a pas encore été pleinement mise en œuvre.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

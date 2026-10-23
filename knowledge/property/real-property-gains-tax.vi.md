@@ -165,3 +165,5 @@ Việc không kê khai trong thời hạn có thể dẫn đến bị phạt. N�
 Trước khi ký SPA để bán, hãy tính ước tính RPGT của bạn trước — đặc biệt nếu bạn nắm giữ bất động sản dưới năm năm, nơi mức 30% có thể nuốt phần lớn khoản lãi. Hãy giữ mọi biên lai liên quan: phí luật sư khi mua, thuế trước bạ, hoa hồng môi giới và hóa đơn cải tạo, vì mỗi khoản đều thu hẹp khoản lãi chịu thuế của bạn.
 
 Nếu bạn dự định bán nơi ở duy nhất của mình, hãy cân nhắc liệu có nên giữ lại việc miễn thuế một lần trọn đời cho một lần chuyển nhượng có khoản lãi lớn hơn. Đối với các trường hợp liên quan đến công ty, người nước ngoài, chuyển nhượng trong gia đình hoặc các miễn thuế cụ thể, hãy tham khảo luật sư bất động sản hoặc cố vấn thuế, và xác nhận mức thuế cùng thủ tục cập nhật trên trang chính thức của LHDN (hasil.gov.my) trước khi kê khai.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

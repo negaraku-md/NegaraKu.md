@@ -130,3 +130,5 @@ According to Purpose)، وهو معيار إحصائي للأمم المتحدة
 - راجع الإصدار الأولي مباشرةً في
   [تقرير مسح إنفاق الأسرة 2024 الصادر عن دائرة الإحصاء الماليزية (DOSM)](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   لجداول الفئات الكاملة والتفصيلات على مستوى الولاية.
+
+اطّلع على الدليل الكامل: [تكلفة المعيشة في ماليزيا، وفق الأرقام الرسمية](/ar/cost-of-living/cost-of-living-overview/).

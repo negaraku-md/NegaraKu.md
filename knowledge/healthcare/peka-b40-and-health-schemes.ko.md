@@ -117,3 +117,5 @@ PeKa B40 자격은 별도의 신청서를 수반하지 않습니다. 두 가지 
 ## 다음으로
 
 **kelayakan.pekab40.com.my**에서 MyKad 번호로 직접 자격을 확인하고, 자격이 있으면 PeKa B40 로고가 붙은 가까운 등록 정부 클리닉을 방문하십시오 — 관련된 KKM 시설 유형을 이해하려면 [클리닉 크시하탄(Klinik Kesihatan): 말레이시아 정부의 1차 의료 체계가 실제로 작동하는 방식](/ko/healthcare/klinik-kesihatan)을 읽어 보십시오. PeKa B40 외에 추가 지원이 필요할 수 있는 고령자가 있는 가구는 [말레이시아의 고령자 돌봄 선택지](/ko/healthcare/healthcare-for-seniors)도 읽어 보십시오. mySalam 상태 확인은 mySalam 공식 포털을 따로 방문하십시오.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

@@ -192,3 +192,5 @@ For first-time homebuyers, in Budget 2026 the government extended the full stamp
 - Compare MRTA and MLTA options from more than one provider before committing.
 
 *This article is general information, not financial advice. Consult a bank, property lawyer or licensed adviser for your specific situation.*
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

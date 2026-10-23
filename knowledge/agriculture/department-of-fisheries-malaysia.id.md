@@ -113,3 +113,5 @@ Konteks lebih luas dari analisis yang ditelaah sejawat: pada 2022 sektor ini ber
 ## Apa selanjutnya
 
 Konfirmasikan prosedur lisensi terkini, biaya dan Direktur Jenderal yang sedang menjabat langsung di portal DOF di dof.gov.my sebelum bergantung padanya. Angka produksi 2024 dan sejarah institusi departemen ini masih perlu dikonfirmasi berdasarkan laporan tahunan utama DOF.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

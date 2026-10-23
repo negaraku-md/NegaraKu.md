@@ -156,3 +156,5 @@ Dù mọi mục tiêu có đạt được hay không, định hướng là rõ r
 Ngành bán dẫn của Malaysia đang ở một bước ngoặt thực sự. Nửa thế kỷ sau nhà máy đầu tiên của Intel tại Penang, đất nước đã biến dịch vụ chip khâu sau thành một cỗ máy xuất khẩu lập kỷ lục — và đã công khai kết luận rằng việc ở lại đầu có biên lợi nhuận thấp là không đủ cho những thập niên phía trước. Liệu Chiến lược Bán dẫn Quốc gia có thành công trong việc kéo Malaysia vào lĩnh vực thiết kế và chế tạo hay không, trước sự cạnh tranh khu vực gay gắt và chu kỳ chip toàn cầu đầy biến động, là câu hỏi trung tâm cho chương tiếp theo của ngành.
 
 Để tìm hiểu sâu hơn, đọc hướng dẫn rộng hơn về [ngành điện và điện tử (E&E)](/vi/industries/electrical-electronics-industry/) — toàn bộ lĩnh vực mà bán dẫn nằm trong đó — và hồ sơ về [MIDA](/vi/government/mida/), cơ quan dẫn dắt đầu tư và chính sách đằng sau những con số này.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

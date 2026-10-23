@@ -125,3 +125,5 @@ Jika satu angka penting kepada penyewaan anda, dapatkannya secara bertulis darip
 ## Apa yang seterusnya
 
 Sebaik sahaja anda telah menyenaraikan pendek satu unit dan seorang perunding yang boleh anda sahkan, langkah seterusnya ialah perjanjian penyewaan itu sendiri dan menyediakan pembayaran deposit serta sewa — kebanyakannya bergerak melalui perbankan dalam talian dan bukannya tunai. Jika anda belum mempunyai akaun bank Malaysia, lihat [membuka akaun bank di Malaysia](/money-daily-life/opening-bank-account). Jika anda menyewa berdasarkan kekuatan satu tawaran kerja baharu dan bukannya sebagai warganegara atau PR, uruskan [Employment Pass](/settling-in/employment-pass) anda secara selari — tuan rumah dan agensi lazimnya meminta bukti pas yang sah sebelum menandatangani satu pajakan yang lebih panjang.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

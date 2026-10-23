@@ -111,3 +111,5 @@ Los precios anunciados entran en vigor durante una semana completa. Por ejemplo,
 ## Qué viene a continuación
 
 Para encontrar los precios más recientes cada semana, consulte los comunicados de prensa oficiales del Ministerio de Finanzas o el conjunto de datos del Precio de la gasolina y el diésel en OpenDOSM. Si quiere entender quién es elegible para la tarifa de RM1.99 del RON95 y cómo funciona el tope de 300 litros, consulte el artículo relacionado sobre el programa de subsidio BUDI95.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

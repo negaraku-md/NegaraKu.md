@@ -180,3 +180,5 @@ keywords:
 ## 다음 단계
 
 애초에 가족을 말레이시아로 데려오는 이민 측면 — 외국인 직원의 자녀가 동반을 위해 어떻게 스폰서를 받는지 포함 — 은 [부양가족 패스 또는 장기 사회 방문 패스](/ko/settling-in/dependant-social-visit-passes)를 참고하십시오. 비교를 위해 말레이시아 공립학교도 후보에 있다면 [공립학교 등록하기](/ko/education/enrolling-in-a-government-school)를 참고하십시오. 학교 뒤에 있는 회사가 애초에 어떻게 등록되는지는 [SSM — 말레이시아 기업위원회](/ko/government/ssm)를 참고하십시오. 그리고 이제 높은 학비에 얹히는 세금은 [2025년 7월 1일 서비스세 확대, 부문별 정리](/ko/taxation/sst-expansion-2025)를 참고하십시오.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

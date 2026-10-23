@@ -106,3 +106,5 @@ Pour les patients qui obtiennent des médicaments de renouvellement dans un éta
 ## Et ensuite
 
 Pour les patients sous médication à long terme, lisez l'article sur l'[assurance médicale](/en/healthcare/medical-insurance) afin de comprendre dans quelle mesure le coût des médicaments est couvert par un plan de santé. Pour les personnes âgées ou les familles qui gèrent régulièrement des médicaments de renouvellement, l'article sur les [soins de santé pour les personnes âgées](/en/healthcare/healthcare-for-seniors) explique aussi les services pharmaceutiques à valeur ajoutée, comme la livraison de médicaments par voie postale, qui réduit le besoin de se rendre au comptoir chaque mois.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

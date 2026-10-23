@@ -121,3 +121,5 @@ Una factura de agua se calcula por lo general en función de las **lecturas real
 ---
 
 *La estructura de las operaciones de agua por estado, las funciones de SPAN y PAAB, y la condición de Ranhill SAJ como operador privado se verificaron directamente en sus respectivos sitios web oficiales. El proceso de registro de la cuenta se toma como ejemplo de la página oficial de soporte (FAQ) de Air Selangor; los detalles pueden diferir en otras empresas estatales de agua y deben ser revisados de nuevo por un revisor humano antes de confirmar este artículo.*
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

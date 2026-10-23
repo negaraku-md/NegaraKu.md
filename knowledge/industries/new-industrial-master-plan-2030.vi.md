@@ -240,3 +240,5 @@ Hãy dùng cái này để tìm ra kế hoạch chạm đến bạn như thế n
 NIMP 2030 sẽ được đánh giá dựa trên các con số năm 2030 của nó — RM587.5 tỷ giá trị gia tăng chế tạo, 3.3 triệu việc làm, và mức lương trung vị ngành chế tạo là RM4,510 — và dựa trên việc liệu bộ máy dựa trên sứ mệnh có tiếp tục chuyển hóa thành các dự án thực tế hay không. Những thứ hữu ích nhất cần theo dõi là báo cáo tiến độ hằng năm từ MITI, việc triển khai NIDF và Strategic Co-Investment Fund, việc tung ra chín Dự án Dựa trên Sứ mệnh, và cách kế hoạch giao thoa với các chính sách lân cận về bán dẫn, chuyển dịch năng lượng và kinh tế số.
 
 Nếu bạn muốn đi sâu hơn, các văn kiện gốc nằm trên cổng thông tin chính thức NIMP 2030 và trang của MITI, bao gồm kế hoạch đầy đủ, các kế hoạch theo ngành, và mục hỏi đáp. Đối với bất kỳ con số cứng nào, bài viết này chỉ trích dẫn các nguồn mà nó đã xác minh trực tiếp — luôn xác nhận các con số mới nhất đối chiếu với cổng thông tin chính thức, vì dữ liệu tiến độ được cập nhật khi kế hoạch tiến qua thập kỷ.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

@@ -151,3 +151,5 @@ Rencana ini mencakup tiga bidang inti, 12 pendorong pertumbuhan, dan 132 inisiat
 Bagi pengusaha dan investor, langkah praktis selanjutnya adalah memeriksa persyaratan perizinan khusus sektor (misalnya kode SWEC PETRONAS bagi minyak & gas) dan meneliti kelayakan program pembangunan vendor yang berkaitan secara langsung dengan agensi pelaksana. Untuk data terkini kepemilikan dan target, rujuk terbitan resmi TERAJU dan agensi terkait.
 
 *Catatan: Ini adalah draf yang dihasilkan AI dan memerlukan tinjauan manusia sebelum diterbitkan. Semua angka dikutip dari sumber yang dirujuk; metode penghitungan berbeda dapat menghasilkan angka yang berbeda.*
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

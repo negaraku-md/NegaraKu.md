@@ -123,3 +123,5 @@ Sabah dan Sarawak berada dalam **Kumpulan B**, jadi mereka mengikut anjakan tari
 - Pastikan anda melihat lajur **kumpulan yang betul** (A atau B) untuk negeri anak anda; salah lajur bermakna salah sehari.
 - Padankan tarikh cuti penggal dengan **cuti awam negeri** anda, kerana perayaan Islam dan cuti Sabah/Sarawak boleh menambah atau menganjak hari.
 - Untuk konteks lebih luas, rujuk halaman cuti umum Malaysia dan struktur sistem persekolahan Malaysia.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

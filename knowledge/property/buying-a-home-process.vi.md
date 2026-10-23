@@ -137,6 +137,33 @@ Người mua — không phải người bán — là bên chịu trách nhiệm 
 - **Nhầm lẫn vai trò của luật sư SPA với vai trò của luật sư ngân hàng.** Luật sư của ngân hàng được thuê để bảo vệ thế chấp của ngân hàng, không phải để thương lượng các điều khoản SPA của người mua.
 - **Trích một ngưỡng miễn thuế trước bạ từ một bài blog như thể nó là vĩnh viễn.** Các lệnh miễn trừ là các văn kiện được luật hóa với ngày bắt đầu và kết thúc riêng của chúng — hãy xác nhận lệnh đang có hiệu lực trước khi lập ngân sách quanh nó.
 
+## Tìm hiểu sâu về chủ đề này
+
+Các hướng dẫn chính trong lĩnh vực này:
+
+- [Các chương trình nhà ở giá phải chăng của chính phủ (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/vi/property/affordable-housing-schemes/)
+- [Thuế cửa và thuế đất](/vi/property/assessment-and-quit-rent/)
+- [Sống ở chung cư tại Malaysia](/vi/property/condo-living-maintenance-fees/)
+- [Tài khoản điện TNB, SESB và Sarawak Energy](/vi/property/electricity-tnb-account/)
+- [Tìm nhà thuê tại Malaysia](/vi/property/finding-a-rental/)
+- [Người nước ngoài có mua được bất động sản tại Malaysia không? Sàn giá và sự đồng ý của bang được giải thích](/vi/property/foreigners-buying-property/)
+- [Vĩnh viễn, Có thời hạn, Strata, Có đất](/vi/property/freehold-leasehold-strata-landed/)
+- [Cung cấp gas tại nhà](/vi/property/gas-supply-piped-cooking-gas/)
+- [Khu dân cư có cổng và khu phố có bảo vệ ở Malaysia](/vi/property/gated-communities-and-security/)
+- [Vay mua nhà và tài trợ thế chấp ở Malaysia](/vi/property/home-loan-mortgage-financing/)
+- [Bảo vệ người mua nhà](/vi/property/homebuyer-protection-abandoned-projects/)
+- [IWK không phải công ty nước](/vi/property/indah-water-sewerage/)
+- [Internet cáp quang gia đình ở Malaysia](/vi/property/internet-and-fibre/)
+- [Làm việc với môi giới bất động sản](/vi/property/property-agents-and-fees/)
+- [Mua bất động sản qua đấu giá (Bank Lelong)](/vi/property/property-auctions-foreclosure/)
+- [Thừa kế tài sản](/vi/property/property-inheritance-faraid-distribution/)
+- [Thuế lãi vốn bất động sản (RPGT) khi bán bất động sản](/vi/property/real-property-gains-tax/)
+- [Phê duyệt cải tạo nhà và Chứng nhận Hoàn thành và Tuân thủ (CCC)](/vi/property/renovation-permits-and-ccc/)
+- [Thuê nhà ở Malaysia không có Luật Thuê nhà](/vi/property/renting-a-home-tenancy/)
+- [Rác thải, tái chế và Hội đồng Địa phương](/vi/property/rubbish-and-local-council/)
+- [Quản trị bất động sản phân tầng](/vi/property/strata-management-jmb-mc/)
+- [Cung cấp nước ở Malaysia](/vi/property/water-supply/)
+
 ## Tiếp theo
 
 Về những gì quyền sở hữu mà bạn sắp nhận thực sự hứa hẹn — quyền sở hữu vĩnh viễn so với quyền sở hữu có thời hạn, và strata so với có đất — xem [Vĩnh viễn, Có thời hạn, Strata, Có đất](/vi/property/freehold-leasehold-strata-landed). Về đạo luật đằng sau Bản ghi nhớ Chuyển nhượng và Thế chấp làm cho việc đăng ký tại Văn phòng Đất đai vận hành, xem [National Land Code 1965](/vi/law/national-land-code).

@@ -139,3 +139,5 @@ En resumen: los padres que esperan el regreso de una «nueva versión» completa
 ## Qué sigue
 
 Para entender a dónde conduce la vía escolar después del SPM, lee `/en/education/public-vs-private-universities` sobre la diferencia entre la admisión a las IPTA y las IPTS. Si tu hijo es un estudiante internacional, o tu familia acaba de mudarse a Malasia, `/en/education/international-students-studying-in-malaysia` explica cómo funciona el sistema escolar local para los no ciudadanos.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

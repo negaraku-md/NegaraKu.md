@@ -164,3 +164,5 @@ pendapatan, kadar caj perkhidmatan, dan tempoh tangguh dalam bilangan
 bulan — semak terus di portal rasmi PTPTN pada tarikh anda bercadang
 memohon, memandangkan syarat-syarat ini disemak semula dari semasa ke
 semasa.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

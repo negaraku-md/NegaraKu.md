@@ -128,3 +128,5 @@ organisées par langue d'enseignement et par race. Il est rédigé pour rester
 descriptif — rapportant la structure officielle fixée par le KPM, sans évaluer ni
 interpréter la politique des écoles vernaculaires — et est conservé comme brouillon
 provisoire en attente de révision humaine.*
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

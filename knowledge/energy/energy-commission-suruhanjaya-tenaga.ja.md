@@ -186,3 +186,5 @@ Conservation Act 2024、Act 861）**が施行され、STがその執行機関に
   Conservation Act 2024、Act 861）
 - 基礎となる法律の全文は[Act 610全文](https://faolex.fao.org/docs/pdf/mal37918.pdf)を、公式の
   職権については[STの「About Us」ページ](https://www.st.gov.my/about-us)を参照。
+
+詳しくは全体ガイドをご覧ください：[マレーシアのエネルギー部門](/ja/energy/energy-sector-overview/)。

@@ -150,6 +150,40 @@ MOH自身のHealth Facts 2024報告書（参照年は2023年）によれば、�
 - **雇用主がSPIKPAを任意、あるいは一度きりの購入だと思い込むこと。** これは就労許可の更新サイクルごとに繰り返される要件であり、雇用時に一度だけ購入する保険ではない。
 - **旅行者が、旅行保険と現地の制度を互換可能だと思い込むこと。** PeKa B40、MySalam、市民向け料金表のいずれも訪問者には適用されない。渡航前に購入した旅行／医療保険だけが、実務上唯一のセーフティネットである。
 
+## このトピックを詳しく見る
+
+この分野の主要ガイド:
+
+- [マレーシアの中絶法](/ja/healthcare/abortion-law-in-malaysia/)
+- [本当に医師なのか？マレーシアにおける医師・医療従事者の登録確認方法](/ja/healthcare/allied-health-and-medical-practitioner-registration/)
+- [マレーシアの献血](/ja/healthcare/blood-donation-and-national-blood-centre/)
+- [薬局カウンターの裏側](/ja/healthcare/buying-medicine-pharmacies/)
+- [すべての子どもに無料ワクチンを](/ja/healthcare/childhood-vaccination/)
+- [マレーシアのCOVID-19（新型コロナウイルス感染症）](/ja/healthcare/covid-19-pandemic-response-and-legacy/)
+- [公立歯科クリニックか私立歯科クリニックか？マレーシアの二つの歯科医療制度を理解する](/ja/healthcare/dental-care/)
+- [糖尿病、肥満と非感染性疾患（NCD）](/ja/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [マレーシアにおけるOKU（障害者）医療サービスへのアクセス](/ja/healthcare/disability-and-oku-healthcare-access/)
+- [マレーシアの医療緊急事態](/ja/healthcare/emergencies-999/)
+- [マレーシアの公立病院](/ja/healthcare/government-hospitals/)
+- [ワクチンと薬のハラル地位](/ja/healthcare/halal-status-of-vaccines-and-medicines/)
+- [マレーシアでの出産](/ja/healthcare/having-a-baby-in-malaysia/)
+- [保健白書](/ja/healthcare/health-white-paper-and-system-reform/)
+- [親がひとりで生活できなくなったとき](/ja/healthcare/healthcare-for-seniors/)
+- [マレーシアのHIV／AIDSと性の健康サービス](/ja/healthcare/hiv-aids-and-sexual-health-services/)
+- [保健クリニック（Klinik Kesihatan）](/ja/healthcare/klinik-kesihatan/)
+- [マレーシアの医療保険](/ja/healthcare/medical-insurance/)
+- [マレーシアの静かな医療ツーリズム・ブーム、その背後にある機関](/ja/healthcare/medical-tourism/)
+- [マレーシアでメンタルヘルスの助けを得るには](/ja/healthcare/mental-health-services/)
+- [MySejahteraとマレーシアのデジタル医療推進策](/ja/healthcare/mysejahtera-and-digital-health-records/)
+- [マレーシアの臓器提供](/ja/healthcare/organ-donation-and-transplant-registry/)
+- [マレーシアの緩和ケアとホスピスケア](/ja/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/ja/healthcare/peka-b40-and-health-schemes/)
+- [一度の入院で二枚の請求書](/ja/healthcare/private-hospitals-and-costs/)
+- [マレーシアの公的医療制度](/ja/healthcare/public-healthcare-system-malaysia/)
+- [Akta 852](/ja/healthcare/smoking-and-vaping-law-act-852/)
+- [マレーシアの遠隔医療](/ja/healthcare/telemedicine-and-online-doctor-services/)
+- [伝統・補完医療（T&CM）](/ja/healthcare/traditional-and-complementary-medicine/)
+
 ## 次に読むべきもの
 
 マレーシアの被用者を対象に、職場での傷害及び障害を特にカバーする社会保険制度——ここまで説明してきた仕組みとはまったく別の仕組み——については、[PERKESO（SOCSO）](/ja/glossary/socso-perkeso)を参照されたい。本稿で扱ったすべての事柄を運営・規制する省庁については、マレーシア保健省（Kementerian Kesihatan Malaysia、KKM）のエンティティページが公開され次第、そちらを参照されたい。

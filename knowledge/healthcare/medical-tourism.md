@@ -145,3 +145,5 @@ In short: MHTC is the front door and the promoter, not the regulator and not the
 ## What's next
 
 Two related questions this article doesn't answer in depth: how a foreign retiree living in Malaysia under [MM2H](/en/settling-in/mm2h-long-stay-visa) accesses private healthcare day-to-day (a different question from a short medical-tourism trip), and how Malaysia's private health insurance and takaful products treat non-citizens. Both sit closer to the "living here" side of healthcare than the "flying in for treatment" side covered above.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

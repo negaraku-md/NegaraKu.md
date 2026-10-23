@@ -188,3 +188,5 @@ keywords: ["Malaysia public healthcare system", "Ministry of Health Malaysia", "
 ## 次のステップ
 
 この制度を利用する場合、実務的な道筋はシンプルである。*klinik kesihatan*で一次医療の登録を行い、必要に応じて紹介によって病院医療へと引き上げてもらい、40歳以上で現金給付を受けている場合はPeKa B40の対象資格を確認するとよい。改革の方向性については、2023年6月に国会に提出され可決された**マレーシア保健白書**が、独立した改革機関の監督のもと、三つの5年フェーズからなる**15年の改革期間（2023年～2038年）**を定めている。注目すべき取り組みの一つが**Rakan KKM**であり、これは選定されたMOH病院——Hospital Cyberjaya、Hospital Putrajaya、Hospital Sultan Idris Shah Serdang、国立がん研究所（IKN）を含む——において、民間料金を下回る価格で、有料の予約制外来、デイケア、入院サービスを提供する「プレミアムエコノミー」型の制度であり、2025年から段階的に展開されている。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

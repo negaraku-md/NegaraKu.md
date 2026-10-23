@@ -113,3 +113,5 @@ keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamat
 ## 下一步怎么做
 
 取得该特定单位的《拍卖公告》，逐条阅读，尤其是欠款及空置管有权条款。确认它是高等法院拍卖还是LACA拍卖，以便知悉实际适用的订金与期限，并取得能在该期限内放款的贷款批准。就法庭拍卖而言，请提前在司法机构的e-Lelong平台注册，并考虑在竞标**之前**——而非之后——聘请产业转易律师（conveyancing lawyer）。在承诺之前，先将经风险调整后的价格与一般SPA下的常规购置作比较。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

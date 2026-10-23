@@ -246,6 +246,27 @@ KPK는 주로 수출을 위해 재배되는 산업 상품을 관장합니다. �
 
 **"농업 수치는 고정되어 있다."** 여기 있는 대부분의 수치(수확량, 가격, 생산, SSR)는 매년 재검토되며 날씨, 세계 가격, 재식 주기에 따라 변동합니다. 최신 데이터는 DOSM, MPOB, 부처의 최신 발표를 참고하십시오.
 
+## 이 주제 자세히 살펴보기
+
+이 분야의 주요 가이드:
+
+- [벼 농가를 위한 농업 보조금 및 농장 투입재 지원](/ko/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS와 말레이시아의 쌀 수입 독점](/ko/agriculture/bernas-rice-import-monopoly/)
+- [말레이시아 수산청(DOF)](/ko/agriculture/department-of-fisheries-malaysia/)
+- [말레이시아의 두리안 및 열대 과일 수출 무역](/ko/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/ko/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA와 RISDA](/ko/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/ko/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/ko/agriculture/fgv-holdings-plantation-restructuring/)
+- [말레이시아 식량 안보 정책과 자급률 목표](/ko/agriculture/food-security-self-sufficiency-policy/)
+- [말레이시아 축산 및 가금(닭·오리) 산업](/ko/agriculture/livestock-poultry-industry/)
+- [말레이시아 수산업](/ko/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/ko/agriculture/mardi-agricultural-research-institute/)
+- [농업식량안보부(KPKM)와 그 산하 기관](/ko/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [기름야자 소규모 자작농과 MSPO 지속가능성 인증](/ko/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [말레이시아의 벼와 쌀](/ko/agriculture/padi-and-rice-industry/)
+- [말레이시아 벼·쌀 산업](/ko/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## 다음 단계
 
 - 최대 수출 상품을 [말레이시아 팜유 부문 개관](/ko/economy/palm-oil-sector)에서 깊이 살펴보십시오 — 그 규모, 제도, 지속가능성 인증.

@@ -189,3 +189,5 @@ Logika rancangannya bersifat pencegahan dan perlindungan: skrining golongan beri
 ## Apa selanjutnya
 
 Jika Anda menggunakan sistem ini, jalur praktisnya sederhana: daftar di *klinik kesihatan* untuk perawatan primer dan biarkan rujukan membawa Anda ke atas ke perawatan rumah sakit sesuai kebutuhan, dan periksa kelayakan PeKa B40 jika Anda berumur 40+ dan menerima bantuan tunai. Untuk trajektori reformasi, **Kertas Putih Kesihatan untuk Malaysia**, yang dipresentasikan dan disahkan oleh Parlemen pada Juni 2023, menetapkan **cakrawala reformasi 15 tahun (2023–2038)** dalam tiga fase lima tahun, diawasi oleh badan reformasi independen. Di antara inisiatif yang perlu diperhatikan adalah **Rakan KKM**, skema "premium economy" yang menawarkan layanan rawat jalan elektif berbayar, perawatan harian, dan rawat inap di rumah sakit MOH terpilih — termasuk Hospital Cyberjaya, Hospital Putrajaya, Hospital Sultan Idris Shah Serdang, dan Institut Kanser Negara (IKN) — berharga di bawah tarif swasta dan diluncurkan mulai 2025.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

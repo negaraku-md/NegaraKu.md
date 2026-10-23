@@ -170,3 +170,5 @@ kategori [Kesehatan](/id/healthcare). Bagi mereka yang ingin mencari klinik
 gigi pemerintah terdekat, layanan pencarian resmi dapat diakses
 melalui portal
 [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan).
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

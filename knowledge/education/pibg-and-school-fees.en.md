@@ -119,3 +119,5 @@ purely because the parents are unable or unwilling to pay a PIBG contribution. S
 ## What next
 
 If your child's school imposes a payment stated to be "mandatory", ask the school to explain its basis and whether it is a voluntary contribution or an agreed additional payment package. Keep a receipt for every payment. Complaints about forced collections may be lodged with the State Education Department or the District Education Office. For further context, refer to the guide on enrolling your child in a government school and the overview of the Malaysian education system.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

@@ -165,3 +165,5 @@ Le défaut de déclaration dans le délai peut entraîner des pénalités. Le pa
 Avant de signer le SPA pour vendre, estimez d'abord votre RPGT, surtout si vous détenez le bien depuis moins de cinq ans, où le taux de 30 % peut engloutir une grande partie de la plus-value. Conservez chaque reçu pertinent : honoraires juridiques de l'achat, droit de timbre, commission de l'agent et factures de rénovation, car chacun réduit votre plus-value imposable.
 
 Si vous envisagez de vendre votre unique résidence, demandez-vous s'il vaut mieux réserver l'exonération unique à vie à une cession dégageant une plus-value plus importante. Pour les cas impliquant des sociétés, des étrangers, des transferts familiaux ou des exonérations spécifiques, consultez un avocat spécialisé en immobilier ou un conseiller fiscal, et confirmez les taux et procédures les plus récents sur le site officiel de la LHDN (hasil.gov.my) avant de déclarer.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

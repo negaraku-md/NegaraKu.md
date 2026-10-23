@@ -178,3 +178,5 @@ If you are choosing among these campuses, a few practical distinctions matter mo
 The branch-campus model is Malaysia's most successful piece of education-hub engineering, and the 2026-2035 blueprint is a bet that it can be scaled fivefold. Whether that bet pays off depends less on adding logos and more on converting the country's clear regional pull — value-priced Western and Chinese credentials, a stable multicultural setting, proximity to fast-growing Asian markets — into sustained global reach.
 
 For deeper context, see the companion articles on international students in Malaysia and the Iskandar Malaysia economic corridor that gave EduCity its home. Figures here are drawn from institutional and policy sources current to 2026; enrolment data and blueprint targets are revised periodically, so verify the latest numbers with the Ministry of Higher Education and each institution before making decisions.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

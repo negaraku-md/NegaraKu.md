@@ -116,3 +116,5 @@ keywords: ["perubatan tradisional", "PT&K", "Akta 775", "TCM", "kiropraktik", "h
 ## 다음으로
 
 시술자라면 자신의 분야가 인정된 7개 분야에 속하는지 확인한 뒤, 보건부 전통보완의학과의 전통보완의학위원회(Majlis PT&K)를 통해 등록을 신청하십시오. 이용자라면 진료를 받기 전에 시술자의 등록증을 보여 달라고 요청하십시오 — 이는 이제 법적으로 유효한 시술자임을 보여 주는 표지입니다.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

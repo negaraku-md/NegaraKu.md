@@ -147,3 +147,5 @@ Report 2024 அட்டவணைகளை நேரடியாகச் சர
 - முழு வகை அட்டவணைகள் மற்றும் மாநில அளவிலான பிரிப்புகளுக்கு, முதன்மை வெளியீட்டை
   நேரடியாக [DOSM இன் Household Expenditure Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   இல் பார்க்கவும்.
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவின் வாழ்க்கைச் செலவு, அதிகாரப்பூர்வ எண்களின்படி](/ta/cost-of-living/cost-of-living-overview/).

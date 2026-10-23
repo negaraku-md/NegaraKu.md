@@ -156,3 +156,5 @@ El calendario académico, la estructura de los períodos lectivos y las vacacion
 ## Qué sigue
 
 El sistema escolar de Malasia refleja el país al que sirve: un marco nacional compartido impartido a través de más de un idioma de enseñanza, que sostiene un plan de estudios común y exámenes comunes en distintas comunidades. Para el complemento práctico de esta estructura —cuándo empiezan los períodos lectivos, cuánto duran las vacaciones y cómo se alinean con las festividades— lee el [calendario académico y las vacaciones escolares](/es/education/academic-calendar-and-school-holidays/). Para el detalle autorizado sobre política, plan de estudios y arreglos de evaluación actuales, el portal del Ministerio de Educación es la fuente principal.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

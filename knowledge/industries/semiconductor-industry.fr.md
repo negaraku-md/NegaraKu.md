@@ -156,3 +156,5 @@ Que chaque cible soit atteinte ou non, la direction est claire : la Malaisie veu
 L'industrie malaisienne des semi-conducteurs est à un véritable point d'inflexion. Un demi-siècle après la première usine d'Intel à Penang, le pays a transformé les services de puces en aval en un moteur d'exportation record — et a ouvertement conclu que rester à l'extrémité à faible marge ne suffira pas pour les décennies à venir. Savoir si la Stratégie nationale des semi-conducteurs réussira à propulser la Malaisie dans la conception et la fabrication, face à une concurrence régionale intense et à un cycle mondial des puces volatil, est la question centrale du prochain chapitre de l'industrie.
 
 Pour aller plus loin, lisez le guide plus large de l'[industrie de l'électrique et de l'électronique (E&E)](/fr/industries/electrical-electronics-industry/) — le secteur complet au sein duquel se situent les semi-conducteurs — et le profil de la [MIDA](/fr/government/mida/), l'agence qui pilote les investissements et la politique derrière les chiffres.
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

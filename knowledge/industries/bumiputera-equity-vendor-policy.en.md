@@ -151,3 +151,5 @@ The plan encompasses three core areas, 12 growth drivers and 132 initiatives. TE
 For entrepreneurs and investors, the practical next step is to review sector-specific licensing requirements (for example the PETRONAS SWEC codes for oil & gas) and to examine eligibility for relevant vendor development programmes directly with the implementing agencies. For the latest ownership data and targets, refer to official publications by TERAJU and related agencies.
 
 *Note: This is an AI-generated draft and requires human review before publication. All figures are cited from referenced sources; different calculation methods may produce different figures.*
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

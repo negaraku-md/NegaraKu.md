@@ -121,3 +121,5 @@ Sebuah RA adalah sebuah perkumpulan di bawah Societies Act 1966 — bersifat suk
 ## Apa selanjutnya
 
 Jika skema Anda sudah memiliki hak milik strata dan JMB atau MC, gaji penjaga hanyalah satu baris dalam tagihan statutori yang lebih besar — lihat [Kehidupan Kondo di Malaysia](/id/property/condo-living-maintenance-fees) untuk memahami cara pembiayaan itu bekerja. Untuk mengetahui siapa yang sebenarnya menyetujui pos jaga, palang jalan atau permohonan GN, lihat [Majelis Setempat di Malaysia](/id/states/local-councils).
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

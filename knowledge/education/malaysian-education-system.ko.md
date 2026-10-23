@@ -180,6 +180,36 @@ SPM은 분기가 현실이 되는 지점입니다. 크게 네 경로가 이어�
 - **「폴리테크닉」과 「커뮤니티 칼리지」를 서로 바꿔 쓸 수 있다고 가정하는 것.** 둘 다 고등교육부 소관이지만, 서로 다른 자격 단계를 제공하는 별개의 기관 유형입니다.
 - **교육부(학교)를 고등교육부(대학교)와 혼동하는 것.** 이들은 서로 다른 포털, 예산, 장관을 둔 별개의 두 부처입니다.
 
+## 이 주제 자세히 살펴보기
+
+이 분야의 주요 가이드:
+
+- [말레이시아 학사 일정과 방학](/ko/education/academic-calendar-and-school-holidays/)
+- [공립학교에 자녀 등록하는 방법](/ko/education/enrolling-in-a-government-school/)
+- [외국 대학교 분교 캠퍼스와 교육 허브](/ko/education/foreign-university-branch-campuses-and-education-hubs/)
+- [영재·특기 학생 교육(PERMATApintar)](/ko/education/gifted-and-talented-education/)
+- [말레이시아의 홈스쿨링](/ko/education/homeschooling/)
+- [말레이시아의 국제학교](/ko/education/international-schools/)
+- [국제 학생으로 말레이시아에서 유학하기](/ko/education/international-students-studying-in-malaysia/)
+- [말레이시아의 이슬람 및 종교 학교](/ko/education/islamic-and-religious-schools/)
+- [JPA와 말레이시아의 주요 공공 장학 제도](/ko/education/jpa-and-public-scholarships/)
+- [MQA와 말레이시아의 학위 인증](/ko/education/malaysian-qualifications-agency-and-accreditation/)
+- [말레이시아의 학교 제도](/ko/education/malaysian-school-system/)
+- [MRSM과 전기숙 학교(SBP)](/ko/education/mrsm-and-fully-residential-schools/)
+- [MUET와 대학 입학 시험](/ko/education/muet-and-university-entrance-tests/)
+- [SK, SJKC, SJKT](/ko/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG와 공립학교 취학 비용](/ko/education/pibg-and-school-fees/)
+- [STPM, 매트리큘레이션, 예비 과정, A-Level](/ko/education/pre-university-routes/)
+- [타스카, 타디카, 유아학교](/ko/education/preschool-tadika-childcare/)
+- [사립학교와 중국계 사립학교](/ko/education/private-and-chinese-independent-schools/)
+- [PTPTN은 장학금이 아니다](/ko/education/ptptn-student-loan/)
+- [IPTA인가 IPTS인가? 말레이시아의 공립·사립 대학교가 실제로 어떻게 다른가](/ko/education/public-vs-private-universities/)
+- [말레이시아의 특수 교육](/ko/education/special-education-and-learning-support/)
+- [말레이시아의 학원과 개인 지도](/ko/education/tuition-centres-and-private-coaching/)
+- [모든 길이 대학교로 향하는 것은 아니다](/ko/education/tvet-and-skills-training/)
+- [통일시험증서(UEC)](/ko/education/unified-examination-certificate-uec/)
+- [UPSR에서 SPM까지](/ko/education/upsr-to-spm-exams/)
+
 ## 다음 단계
 
 이 페이지는 목적지가 아니라 지도입니다 — 세부로 안내할 수 있도록 어느 한 가지에도 의도적으로 가볍게 다룹니다. SPM과 학교 시험 제도, STPM·매트리큘레이션·사립 대학 예비 경로 사이의 선택, TVET 자격이 실제로 어떻게 작동하는지, 그리고 공립대학 입학이 어떻게 조율되는지에 관한 전용 기사들이 NegaraKu.md에서 이 개관의 하류에 있으며, 이 페이지가 개괄만 하는 구체적 작동 방식을 다룹니다.

@@ -167,3 +167,5 @@ L'ampleur de ce soutien est importante. En 2024, le DOSM a rapporté que 262,618
 - **Vérifiez l'éligibilité aux allocations.** Comparez les conditions de l'EPOKU (salariés) et du BTB (incapables de travailler) — vous ne pouvez en percevoir qu'une seule.
 
 Les montants et les conditions d'éligibilité peuvent changer selon le budget annuel. Confirmez les chiffres les plus récents auprès du JKM (ligne directe 03-8000 8000) ou du portail officiel eBantuan du JKM avant de présenter une demande.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

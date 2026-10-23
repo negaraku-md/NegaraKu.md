@@ -231,3 +231,5 @@ Nếu bạn dự định xin, hãy bắt đầu bằng việc cập nhật các 
 Cần lưu ý rằng chi tiết về phí, thời hạn hiệu lực và quy trình trong bài viết này được lấy từ Sổ tay Quy trình Chứng nhận Halal Malaysia (Nội địa) 2020, và JAKIM cập nhật sổ tay cùng quy trình theo thời gian — bao gồm việc chuyển sang e-Cert vào năm 2025. Hãy luôn xác minh các con số và điều kiện mới nhất qua hệ thống MYeHALAL và cổng thông tin chính thức của JAKIM trước khi nộp đơn.
 
 Để hiểu khung pháp lý rộng hơn, bước tiếp theo hữu ích là đọc về **Luật Mô tả Thương mại (Trade Descriptions Act 2011)** và vai trò của **JAKIM** với tư cách là cơ quan điều phối các vấn đề Hồi giáo cấp liên bang.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

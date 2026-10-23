@@ -147,3 +147,5 @@ A la fecha de este borrador, la postura oficial sigue siendo la misma: el Gobier
 Para los alumnos y los padres, el paso práctico habitual es entender pronto los requisitos de ingreso de cada vía —incluido si se necesita un SPM o un STPM como cualificación adicional para la IPTA— y verificar los requisitos específicos de cada universidad o estado. Dado que la política puede cambiar con futuras decisiones del gobierno, consultar los anuncios oficiales del Ministerio de Educación y de los gobiernos estatales correspondientes es la fuente de información más precisa.
 
 > Nota: este es un borrador asistido por IA que no ha pasado por revisión humana. Las cifras y las fechas deben volver a verificarse antes de su publicación, y la naturaleza sensible del tema requiere una revisión editorial cuidadosa.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

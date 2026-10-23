@@ -113,3 +113,5 @@ Vì nó là một phần của hệ thống giáo dục tư thục được qu�
 - Người dự định kinh doanh: hãy bắt đầu bằng việc đăng ký pháp nhân kinh doanh (SSM), rồi xin phê duyệt thành lập qua hệ thống của KPM trước khi thuê cơ sở thương mại.
 - Phụ huynh: hãy yêu cầu bằng chứng đăng ký JPN và bảo đảm trung tâm tuân thủ các điều kiện nhân sự đã đặt ra.
 - Hãy tham khảo trực tiếp JPN bang của bạn hoặc trang của Vụ Giáo dục Tư thục KPM để có mẫu đơn, danh mục kiểm tra và phí mới nhất.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

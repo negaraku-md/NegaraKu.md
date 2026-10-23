@@ -155,3 +155,5 @@ Para quien evalúe un subsector concreto, el patrón es: usar el DOSM para el ta
 ## Qué viene después
 
 La historia manufacturera de Malasia se diversifica en tiempo real. Vigila tres cosas. Primera, si el empuje de la maquinaria y el equipo y las fábricas inteligentes del NIMP 2030 eleva de verdad la productividad en lugar de solo la plantilla. Segunda, cómo los dispositivos médicos y el caucho especializado ascienden desde los guantes de materia prima hacia catéteres, implantes y diagnósticos de mayor margen. Tercera, los comunicados anuales del DOSM y MIDA: cada ventana de enero a mayo trae las cifras completas de ventas, empleo e inversión del año anterior, la lectura más clara de si el objetivo de RM587.5 mil millones para 2030 va por buen camino. Si estás investigando un subsector concreto, empieza con el comunicado del DOSM para esa categoría MSIC y la página sectorial de MIDA, y luego añade el detalle a nivel de empresa.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

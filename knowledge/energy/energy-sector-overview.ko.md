@@ -329,6 +329,27 @@ RP4의 주요 특징:
   믹스(전력 발전)에서의 재생에너지 용량을 가리키며, 운송과 산업을 포함한 전체 에너지
   시스템을 뜻하지 않습니다.
 
+## 이 주제 자세히 살펴보기
+
+이 분야의 주요 가이드:
+
+- [전력공급산업 개혁](/ko/energy/electricity-supply-industry-reform-mesi/)
+- [말레이시아에서 전기 요금 구조는 어떻게 작동하는가](/ko/energy/electricity-tariff-structure/)
+- [에너지위원회(Suruhanjaya Tenaga)](/ko/energy/energy-commission-suruhanjaya-tenaga/)
+- [에너지효율·에너지보전법](/ko/energy/energy-efficiency-conservation-act/)
+- [말레이시아는 매주 연료 가격을 어떻게 정하는가](/ko/energy/fuel-pricing-mechanism/)
+- [말레이시아 연료 보조금 제도](/ko/energy/fuel-subsidy-system/)
+- [말레이시아의 수소와 탄소 포집(CCUS)](/ko/energy/hydrogen-ccus-malaysia/)
+- [말레이시아의 수력발전](/ko/energy/hydropower-malaysia/)
+- [국가에너지전환로드맵(NETR)](/ko/energy/national-energy-transition-roadmap-netr/)
+- [말레이시아의 천연가스와 LNG](/ko/energy/natural-gas-lng-malaysia/)
+- [석유개발법 1974](/ko/energy/petroleum-development-act-1974/)
+- [말레이시아의 재생에너지](/ko/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/ko/energy/sarawak-energy-berhad/)
+- [Petros와 사라왁 가스 분쟁](/ko/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaysia](/ko/energy/seda-malaysia/)
+- [말레이시아의 태양광 에너지](/ko/energy/solar-energy-malaysia/)
+
 ## 다음 단계
 
 여러분이 소비자라면, 가장 실용적인 조치는 새로운 RP4 전기 요금 청구서(네 개의 구성

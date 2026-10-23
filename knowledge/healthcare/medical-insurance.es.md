@@ -126,3 +126,5 @@ Es fácil suponer que las deducciones legales de una nómina ya cubren las factu
 ## Qué sigue
 
 Si estás sopesando lo que cuesta una tarjeta médica personal frente a tu nómina, consulta [El impuesto sobre la renta de las personas físicas](/en/money-daily-life/income-tax-individuals) para ver cómo interactúa la desgravación por seguro de educación y médico con tu declaración anual. Para las deducciones legales que acompañan — pero no sustituyen — a la cobertura médica, consulta [EPF y SOCSO para empleados](/en/money-daily-life/epf-socso-employees). Y si tus prestaciones médicas llegan a través de una oferta de trabajo, [Los contratos de trabajo en Malasia](/en/employment/employment-contract-malaysia) cubre qué están obligados y qué no a detallar los empleadores sobre las prestaciones vinculadas a un puesto.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

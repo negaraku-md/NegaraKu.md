@@ -163,3 +163,5 @@ Ini membolehkan pemilik rumah memperoleh nilai daripada ruang bumbung yang tidak
 Skim solar Malaysia sedang berkembang pantas, dan tarikh penting menghampiri. Kuota NEM 3.0 tamat pada 30 Jun 2025 — jika anda pemilik rumah atau perniagaan, semak baki kuota di portal SEDA dan dapatkan sebut harga pemasang berdaftar seawal mungkin. Syarikat yang mempertimbang CRESS atau CGPP harus mengira kesan Caj Akses Sistem terhadap kos tenaga keseluruhan sebelum menandatangani PPA. Bagi pelabur, keputusan lelong LSS5 dan pusingan LSS akan datang menentukan arah pasaran solar utiliti negara.
 
 Pantau pengumuman rasmi daripada Suruhanjaya Tenaga, SEDA dan Single Buyer untuk kuota baharu, perubahan tarif, dan skim pengganti selepas NEM 3.0 tamat.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

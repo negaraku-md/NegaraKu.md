@@ -156,3 +156,5 @@ Sự phân chia này được ghi trong chính Act 610: các đoạn 14(1)(a)–
 - Đọc đạo luật nền tảng tại
   [văn bản đầy đủ của Act 610](https://faolex.fao.org/docs/pdf/mal37918.pdf) hoặc
   kiểm tra nhiệm vụ chính thức tại [trang "About Us" của ST](https://www.st.gov.my/about-us)
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

@@ -134,3 +134,5 @@ Nhiều người ngộ nhận rằng Khoa Cấp cứu hoạt động theo thứ 
 ## Tiếp theo
 
 Trang này giải thích cách nhận trợ giúp cấp cứu y tế và những gì có thể xảy ra tại Khoa Cấp cứu. Đối với tai nạn giao thông kèm theo giấy phạt hoặc hành động của PDRM, hãy xem [Giấy phạt Giao thông tại Malaysia](/vi/transport/traffic-summons-saman); đối với cơ cấu và thẩm quyền thực thi của bản thân cảnh sát, hãy xem [Cảnh sát Hoàng gia Malaysia (PDRM)](/vi/government/pdrm).
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

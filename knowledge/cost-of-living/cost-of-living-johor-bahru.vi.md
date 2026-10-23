@@ -121,3 +121,5 @@ Tuyến RTS Link Johor Bahru–Singapore, nối Bukit Chagar với Woodlands Nor
 ## Tiếp theo
 
 Bất kỳ ai cân nhắc sự chênh lệch chớp thời cơ này một cách nghiêm túc — không chỉ ghé qua nó — đều nhanh chóng vấp phải hai câu hỏi tiếp nối: [các quy tắc thuế thu nhập cá nhân](/vi/money-daily-life/income-tax-individuals) của Malaysia có ý nghĩa gì đối với một mô hình thu nhập xuyên biên giới, và một nhà tuyển dụng đặt trụ sở trong thành phố thực sự đối mặt với những gì khi [kinh doanh tại Johor Bahru](/vi/business/doing-business-johor-bahru) trong lúc cạnh tranh với mức lương quy mô Singapore. Để có bức tranh cấp tiểu bang mà thành phố này nằm trong đó, hãy xem tổng quan về [Johor](/vi/states/johor).
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

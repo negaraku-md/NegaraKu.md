@@ -119,3 +119,5 @@ chỉ vì phụ huynh không đủ khả năng hay từ chối trả đóng góp
 ## Tiếp theo
 
 Nếu trường của con bạn thu một khoản được nêu là "bắt buộc", hãy yêu cầu phía trường giải thích cơ sở của nó và liệu đó là đóng góp tự nguyện hay gói thanh toán bổ sung đã được đồng ý. Hãy giữ biên lai cho mỗi khoản thanh toán. Khiếu nại về việc thu tiền bị ép buộc có thể được gửi đến Sở Giáo dục Bang (Jabatan Pendidikan Negeri) hoặc Phòng Giáo dục Huyện (Pejabat Pendidikan Daerah). Để có bối cảnh sâu hơn, hãy tham khảo hướng dẫn đăng ký con vào trường công lập và bức tranh tổng thể về hệ thống giáo dục Malaysia.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

@@ -114,3 +114,5 @@ El proyecto de ley original contenía una disposición de *fin generacional* (ge
 ## Qué viene a continuación
 
 Compruebe si su local — una tienda minorista o un establecimiento de comida — cumple con la prohibición de exhibición y los requisitos del cartel de advertencia antes de los plazos de cumplimiento. Los padres y los educadores pueden denunciar las ventas a menores ante el Ministerio de Salud de Malasia (Ministry of Health Malaysia). Vigile también la reducción del límite de nicotina a 20 mg/ml el 1 de octubre de 2025 y las continuas peticiones de algunos sectores para reintroducir el GEG bajo la Act 852.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

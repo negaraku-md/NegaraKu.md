@@ -145,3 +145,5 @@ Trang này không liệt kê chi tiết phí đăng ký, điều kiện đủ t�
 ## Tiếp theo
 
 Nếu bạn là nhà sản xuất hoặc doanh nhân nông sản-thực phẩm, trước tiên hãy xác định kênh phù hợp — bán trực tiếp tại chợ nông dân, đặt hàng tại Agrobazaar hoặc My Farm Outlet, hoặc tham gia các chương trình như Ladang Kontrak và RANTAI — rồi kiểm tra các mẫu đơn và điều kiện tham gia tại `fama.gov.my`. Nếu bạn là người tiêu dùng, danh sách các chợ nông dân và cửa hàng FAMA trong khu vực của bạn cũng có sẵn trên trang chính thức của cơ quan.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

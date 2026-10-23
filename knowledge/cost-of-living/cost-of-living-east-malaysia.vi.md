@@ -138,3 +138,5 @@ Cả hai tiểu bang đều nằm khá xa dưới mức bình quân toàn quốc
 - Để biết cách một ngân sách hộ gia đình Malaysia điển hình được phân bổ trên toàn quốc, hãy xem [Đồng ringgit của hộ gia đình Malaysia thực sự đi đâu mỗi tháng](/vi/cost-of-living/household-spending-breakdown).
 - Để biết lương tối thiểu quốc gia và các con số thu nhập trung vị/bình quân liên hệ với nhau như thế nào, hãy xem [Lương tối thiểu so với Thu nhập trung vị](/vi/cost-of-living/minimum-wage-and-median-income).
 - Nguồn sơ cấp: [Báo cáo Khảo sát Thu nhập Hộ gia đình 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) của DOSM và [Chỉ số Chi phí Sinh hoạt 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024), cùng [trang Mặt hàng Kiểm soát / PPHSSL](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items) của KPDN.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

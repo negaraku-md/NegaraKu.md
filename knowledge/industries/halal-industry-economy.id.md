@@ -152,3 +152,5 @@ Sertifikat halal makin dibaca sebagai isyarat kebersihan, keterlacakan dan kenda
 Perhatikan tiga hal. Pertama, apakah pertumbuhan ekspor mempertahankan laju dua digitnya dan merapatkan jurang menuju target 10.8%-dari-PDB-menjelang-2030. Kedua, apakah kapasitas sertifikasi berkembang cukup cepat untuk berhenti menjadi kendala mengikat yang selalu disebut pemerintah. Ketiga, apakah perbatasan-perbatasan baru agenda HIMP 2030 — farmasi halal, kosmetik, logistik dan pariwisata — berkembang menjadi barisan ekspor yang bermakna alih-alih tetap kebanyakannya makanan.
 
 Untuk angka tertentu — syarat insentif bagi suatu kawasan, atau rincian ekspor tahun berjalan menurut destinasi — periksa HDC dan MITI/MIDA secara langsung, karena angka dan jadwal insentif kawasan diperbarui dari waktu ke waktu. Angka yang dikonfirmasi di sini diambil dari sumber yang tercantum di atas dan mencerminkan data setahun penuh terkini yang tersedia pada saat penulisan.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

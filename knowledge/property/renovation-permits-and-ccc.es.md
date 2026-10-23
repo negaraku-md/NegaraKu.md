@@ -112,3 +112,5 @@ Construir sin aprobación no es asunto menor. Según las directrices del MBPJ, l
 - Para ampliaciones estructurales, contrate a un arquitecto o ingeniero para presentar los planos a través del Centro de Ventanilla Única (One Stop Centre, OSC).
 - Al comprar una vivienda nueva, confirme el estado del CCC (Formulario F/F1) antes de la entrega de llaves.
 - Conserve una copia del CCC: la necesitará para futuras solicitudes de renovación.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

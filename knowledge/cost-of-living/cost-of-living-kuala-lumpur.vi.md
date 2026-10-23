@@ -111,3 +111,5 @@ Không một khoản chi đơn lẻ nào giải thích được vì sao Kuala Lu
 ## Tiếp theo
 
 Về khía cạnh đi lại của bức tranh chi phí này, hãy xem [Đường sắt Thung lũng Klang](/vi/transport/klang-valley-rail) để biết các mạng lưới LRT, MRT và KTM Komuter kết nối Selangor với trung tâm thành phố như thế nào, và [Touch 'n Go](/vi/transport/touch-n-go) để biết các khoản phí cầu đường trên các đường cao tốc Thung lũng Klang thực sự được thu như thế nào. Về khía cạnh thu nhập, [Thuế thu nhập cá nhân đối với cá nhân](/vi/money-daily-life/income-tax-individuals) giải thích điều gì xảy ra với mức lương Kuala Lumpur cao hơn đó trước khi nó đến được ngân sách riêng của một hộ gia đình.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

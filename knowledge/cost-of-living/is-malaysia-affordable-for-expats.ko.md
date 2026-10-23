@@ -124,3 +124,5 @@ keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats"
 를 참조하십시오. 기저의 인플레이션 수치가 실제로 어떻게 구성되는지는
 [말레이시아의 인플레이션율과 CPI가 실제로 측정하는 것](/ko/economy/inflation-cpi)
 을 참조하십시오.
+
+전체 가이드 보기: [공식 수치로 본 말레이시아의 생활비](/ko/cost-of-living/cost-of-living-overview/).

@@ -109,3 +109,5 @@ Parce qu'il ne cesse de changer. Les limites en ringgit de B40/M40/T20 sont reca
 - **Pour votre position exacte :** reportez-vous au rapport complet de l'Enquête sur le revenu des ménages de 2024 sur le portail du DOSM, qui énumère les valeurs de seuil les plus récentes.
 - **Pour les vérifications d'aides :** rappelez-vous que la plupart des programmes évaluent le revenu de tout le ménage, et non le salaire d'une seule personne.
 - **Pour une comparaison équitable :** pondérez le coût de la vie local — la même étiquette signifie des choses différentes dans une grande ville et en zone rurale.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

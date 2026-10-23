@@ -181,3 +181,5 @@ Kể từ ngày 1 tháng 7 năm 2025, mạng lưới thuế dịch vụ của Ma
 ## Tiếp theo
 
 Về mặt di trú của việc đưa một gia đình đến Malaysia ngay từ đầu — bao gồm cách con em của một nhân viên nước ngoài được bảo lãnh để đi cùng họ — hãy xem [Thẻ Người phụ thuộc hoặc Thẻ Thăm Xã hội Dài hạn](/vi/settling-in/dependant-social-visit-passes). Nếu một trường công lập của Malaysia cũng nằm trong danh sách rút gọn của bạn để so sánh, hãy xem [Đăng ký vào một Trường Công lập](/vi/education/enrolling-in-a-government-school). Về cách công ty đứng sau một trường được đăng ký ngay từ đầu, hãy xem [SSM — Ủy ban Công ty Malaysia](/vi/government/ssm). Và về khoản thuế nay được xếp lớp lên các mức học phí cao hơn, hãy xem [Việc Mở rộng Thuế Dịch vụ ngày 1 tháng 7 năm 2025, theo từng Ngành](/vi/taxation/sst-expansion-2025).
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

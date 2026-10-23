@@ -153,3 +153,5 @@ Malaysian Technical Standards Forum Bhd（MTSFB）が公表した技術標準に
 抱き合わせで販売されることの多い Unifi Mobile を含め——
 [マレーシアでモバイル SIM を買う](/ja/money-daily-life/mobile-sim-plans)を参照し、
 そちらでの登録と事業者選びがどう働くかを確認してほしい。
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

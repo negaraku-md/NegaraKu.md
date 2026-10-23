@@ -106,3 +106,5 @@ Prosesnya boleh dibuat dalam talian atau di kaunter:
 ## Apa seterusnya?
 
 PADU direka sebagai tulang belakang data untuk dasar subsidi bersasar Malaysia, termasuk peralihan daripada subsidi menyeluruh kepada bantuan yang lebih tepat sasarannya. Kerana profil anda boleh berubah — pertukaran kerja, kenaikan gaji, penambahan ahli keluarga — ada baiknya menyemak dan mengemas kini maklumat anda di padu.gov.my dari semasa ke semasa supaya rekod kekal terkini apabila kelayakan bantuan dinilai. Untuk butiran terbaharu tentang skim tertentu seperti bantuan tunai atau subsidi bahan api, rujuk pengumuman rasmi agensi pelaksana berkenaan.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

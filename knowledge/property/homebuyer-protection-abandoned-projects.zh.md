@@ -163,3 +163,5 @@ keywords: ["HDA", "Akta 118", "APDL", "lesen pemaju", "Tribunal Tuntutan Pembeli
 - **如果项目看似停工：** 查看病态与烂尾项目名单，并寻求初步法律意见，因为重大损失可能需要采取民事行动。
 
 本指南属一般资讯性质，并非法律意见。就具体个案，请咨询合格律师或房政部国家房屋局。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

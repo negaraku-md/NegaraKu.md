@@ -148,3 +148,5 @@ Model sokongan yang sedang muncul bergantung pada pihak-pihak di atas petani. Ki
 Perhatikan tiga perkara. Pertama, **kesediaan EUDR** sepanjang 2026 dan menjelang 2027 — sama ada lot pekebun kecil Malaysia dipetakan dan boleh dikesan sebelum tarikh pemakaian berkuat kuasa. Kedua, **kematangan audit MS 2530:2022**, yang kini menjadi asas setiap pekebun diukur. Ketiga, **siapa yang membayar** — persoalan yang belum diselesaikan sama ada kos pemetaan dan pensijilan ditanggung oleh petani, kilang, atau program awam.
 
 Jika anda menanam kelapa sawit di atas lot kecil, keutamaan praktikal ialah memastikan pensijilan MSPO anda masih terkini di bawah piawaian 2022 dan bertanya kepada kilang pembeli atau koperasi anda bagaimana mereka akan mengendalikan pemetaan geolokasi untuk buah yang menuju ke EU. Untuk tinjauan lebih mendalam tentang skim pensijilan itu sendiri dan perdebatan penyahhutanan di sekelilingnya, lihat artikel berkaitan tentang kelestarian minyak sawit dan industri minyak sawit.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

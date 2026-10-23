@@ -195,3 +195,5 @@ dihadapi oleh majikan yang berpangkalan di bandar ini dalam
 sambil bersaing dengan gaji bertaraf Singapura. Bagi gambaran peringkat
 negeri tempat bandar ini berada, lihat gambaran keseluruhan
 [Johor](/states/johor).
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

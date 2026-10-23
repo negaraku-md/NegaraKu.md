@@ -111,3 +111,5 @@ keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pemb
 ## 下一步
 
 如果你是中三学生，不妨先比较教育部门户网站上 KV 的入学条件，与 JPPKK 旗下理工学院／社区学院的入学条件——这两条途径的申请日期与表格是各自独立的。如果你是想为既有技能取得认证的成年工作者，可直接联系 JPK，询问该领域的先前成就认可（PPT）途径。若你的雇主安排你接受由 HRD Corp 征费资助的技能培训，也可参阅 HRD Corp 征费的相关指南，了解此类培训在雇主层面如何获得资助。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

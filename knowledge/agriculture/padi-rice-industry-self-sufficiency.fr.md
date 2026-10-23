@@ -156,3 +156,5 @@ Cela rend délicat le calcul de la sécurité alimentaire. Si une crise mondiale
 - **Suivez l'avancement du SMART SBB** : si la superficie se rapproche de l'objectif de 150 000 hectares et si les rendements des sites pilotes restent élevés à mesure qu'il s'étend.
 - **Surveillez le Budget annuel** pour détecter tout changement du prix plancher du padi, du taux de la Subvention du prix du padi et de l'enveloppe totale des subventions agroalimentaires.
 - **Lisez le document officiel** de la Politique nationale agroalimentaire 2021-2030 (DAN 2.0) sur le site web du KPKM pour comprendre les objectifs de production, les revenus des agriculteurs et les plans d'action complets.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

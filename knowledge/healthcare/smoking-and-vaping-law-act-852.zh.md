@@ -114,3 +114,5 @@ keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur min
 ## 接下来该做什么
 
 在合规截止日期前，检查您的场所——零售店或餐饮处所——是否遵守陈列禁令及警示标志的规定。家长和教育工作者可向马来西亚卫生部举报向未成年人销售的行为。也请留意2025年10月1日尼古丁限制降至20毫克／毫升，以及某些方面持续呼吁在852号法令下重新引入GEG。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

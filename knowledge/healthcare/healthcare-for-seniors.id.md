@@ -109,3 +109,5 @@ Sisi klinis masih tertinggal. Pada 2023, Wakil Menteri Kesehatan menyatakan bahw
 ## Apa selanjutnya
 
 Mulailah di pintu mana pun yang paling dekat: klinik kesehatan Kementerian Kesehatan terdekat untuk mendaftar PeKa B40 atau bertanya tentang aktivitas PAWE, atau kantor Departemen Kesejahteraan Masyarakat daerah untuk menanyakan pilihan institusi terdaftar yang ada di sekitar — baik publik maupun swasta — dan apa yang diperlukan bagi masing-masing. Keluarga yang mempertimbangkan visa tinggal lama untuk seorang pensiunan asing yang juga akan memerlukan perawatan ketika menua mungkin juga ingin membaca tentang [Visa Tinggal Lama MM2H](/id/settling-in/mm2h-long-stay-visa), karena status tempat tinggal jangka panjang memengaruhi layanan mana di antara ini yang berlaku.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

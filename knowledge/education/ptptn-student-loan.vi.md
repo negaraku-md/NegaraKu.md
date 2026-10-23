@@ -166,3 +166,5 @@ thu nhập, mức phí dịch vụ, và thời gian ân hạn tính theo số
 tháng — hãy tra cứu trực tiếp trên cổng thông tin chính thức của PTPTN vào ngày bạn dự định
 nộp đơn, xét rằng các điều kiện này được rà soát lại theo thời
 gian.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

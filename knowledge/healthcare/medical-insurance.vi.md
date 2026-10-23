@@ -126,3 +126,5 @@ Rất dễ cho rằng các khoản khấu trừ theo luật trên phiếu lươn
 ## Tiếp theo
 
 Nếu bạn đang cân nhắc chi phí của một thẻ y tế cá nhân so với phiếu lương của bạn, hãy xem [Thuế thu nhập cá nhân](/vi/money-daily-life/income-tax-individuals) để biết cách khoản giảm trừ bảo hiểm giáo dục và y tế tương tác với việc khai thuế hằng năm của bạn. Đối với các khoản khấu trừ theo luật đi kèm — nhưng không thay thế — bảo hiểm y tế, hãy xem [EPF và SOCSO cho người lao động](/vi/money-daily-life/epf-socso-employees). Và nếu quyền lợi y tế của bạn đến qua một lời mời làm việc, [Hợp đồng lao động tại Malaysia](/vi/employment/employment-contract-malaysia) trình bày những gì người sử dụng lao động buộc và không buộc phải nêu rõ về các quyền lợi gắn với một vị trí.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

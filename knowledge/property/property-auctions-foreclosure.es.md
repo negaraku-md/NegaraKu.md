@@ -113,3 +113,5 @@ En un contrato normal de compraventa (SPA), usted negocia el precio, inspecciona
 ## Qué sigue
 
 Obtenga la Proclamación de Venta del lote específico y lea cada cláusula, en especial los términos de atrasos y de posesión libre. Confirme si es una subasta del Tribunal Superior o LACA para saber el depósito y el plazo que realmente aplican, y asegure una aprobación de préstamo que pueda desembolsar dentro de esa ventana. Para las subastas judiciales, regístrese con antelación en la plataforma e-Lelong del Poder Judicial, y considere contratar a un abogado de conveyancing antes —no después— de pujar. Compare el precio ajustado por riesgo frente a una compra convencional con un SPA normal antes de comprometerse.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

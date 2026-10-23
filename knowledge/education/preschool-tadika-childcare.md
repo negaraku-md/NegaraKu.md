@@ -122,3 +122,5 @@ Tiada satu pun daripada pilihan ini "lebih sah" berbanding yang lain dari segi k
 ## Apa yang seterusnya
 
 Sebelum memohon taska, tadika atau prasekolah, pastikan dokumen pengenalan diri anak — MyKid atau sijil lahir — sudah lengkap, kerana ia diperlukan pada peringkat permohonan. Jika anda baru sahaja mendaftarkan kelahiran anak, baca [pendaftaran kelahiran](/settling-in/registering-a-birth) untuk proses dan dokumen yang berkaitan sebelum melangkah ke peringkat pendaftaran prasekolah.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

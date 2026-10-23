@@ -137,6 +137,33 @@ faq:
 - **สับสนบทบาทของทนาย SPA กับบทบาทของทนายธนาคาร** ทนายของธนาคารถูกว่าจ้างเพื่อคุ้มครองการจำนองของธนาคาร ไม่ใช่เพื่อเจรจาเงื่อนไข SPA ของผู้ซื้อ
 - **อ้างเกณฑ์การยกเว้นอากรแสตมป์จากบล็อกโพสต์ราวกับว่าเป็นการถาวร** คำสั่งยกเว้นเป็นตราสารที่ออกตามกฎหมายซึ่งมีวันเริ่มต้นและสิ้นสุดของตนเอง ยืนยันคำสั่งที่มีผลบังคับใช้อยู่ในปัจจุบันก่อนจะวางแผนงบประมาณ
 
+## สำรวจหัวข้อนี้เชิงลึก
+
+คู่มือสำคัญในด้านนี้:
+
+- [โครงการบ้านที่อยู่อาศัยราคาประหยัดของรัฐบาล (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/th/property/affordable-housing-schemes/)
+- [ภาษีโรงเรือน (Cukai Pintu) และภาษีที่ดิน (Cukai Tanah)](/th/property/assessment-and-quit-rent/)
+- [การอยู่คอนโดในมาเลเซีย](/th/property/condo-living-maintenance-fees/)
+- [บัญชีไฟฟ้า TNB, SESB และ Sarawak Energy](/th/property/electricity-tnb-account/)
+- [การหาบ้านเช่าในมาเลเซีย](/th/property/finding-a-rental/)
+- [ชาวต่างชาติซื้ออสังหาริมทรัพย์ในมาเลเซียได้หรือไม่? อธิบายราคาขั้นต่ำและความยินยอมของรัฐ](/th/property/foreigners-buying-property/)
+- [กรรมสิทธิ์สมบูรณ์ สิทธิการเช่า แบบแบ่งชั้น มีที่ดิน](/th/property/freehold-leasehold-strata-landed/)
+- [การจ่ายก๊าซที่บ้าน](/th/property/gas-supply-piped-cooking-gas/)
+- [หมู่บ้านปิดและย่านที่มียามในมาเลเซีย](/th/property/gated-communities-and-security/)
+- [สินเชื่อที่อยู่อาศัยและการจัดหาเงินทุนจำนองในมาเลเซีย](/th/property/home-loan-mortgage-financing/)
+- [การคุ้มครองผู้ซื้อบ้าน](/th/property/homebuyer-protection-abandoned-projects/)
+- [IWK ไม่ใช่บริษัทน้ำประปา](/th/property/indah-water-sewerage/)
+- [อินเทอร์เน็ตบรอดแบนด์ไฟเบอร์ที่บ้านในมาเลเซีย](/th/property/internet-and-fibre/)
+- [การทำงานกับตัวแทนอสังหาริมทรัพย์](/th/property/property-agents-and-fees/)
+- [การซื้ออสังหาริมทรัพย์จากการประมูล (Bank Lelong)](/th/property/property-auctions-foreclosure/)
+- [การรับมรดกทรัพย์สิน](/th/property/property-inheritance-faraid-distribution/)
+- [ภาษีกำไรจากอสังหาริมทรัพย์ (RPGT) เมื่อขายอสังหาริมทรัพย์](/th/property/real-property-gains-tax/)
+- [การอนุมัติการปรับปรุงบ้านและใบรับรองการก่อสร้างเสร็จและการปฏิบัติตาม (CCC)](/th/property/renovation-permits-and-ccc/)
+- [การเช่าบ้านในมาเลเซียไม่มีพระราชบัญญัติการเช่า ดังนั้นสัญญาที่คุณลงนามคือกฎหมาย](/th/property/renting-a-home-tenancy/)
+- [ขยะ การรีไซเคิล และสภาท้องถิ่น](/th/property/rubbish-and-local-council/)
+- [การบริหารจัดการอสังหาริมทรัพย์แบบแบ่งชั้น](/th/property/strata-management-jmb-mc/)
+- [การประปาของมาเลเซีย](/th/property/water-supply/)
+
 ## อ่านต่อ
 
 สำหรับสิ่งที่กรรมสิทธิ์ที่คุณกำลังจะได้รับสัญญาไว้จริง กรรมสิทธิ์สมบูรณ์เทียบกับสิทธิการเช่า และแบบแบ่งชั้นเทียบกับมีที่ดิน ดู [กรรมสิทธิ์สมบูรณ์ สิทธิการเช่า แบบแบ่งชั้น มีที่ดิน](/th/property/freehold-leasehold-strata-landed) สำหรับกฎหมายที่อยู่เบื้องหลังหนังสือโอนกรรมสิทธิ์และการจำนองที่ทำให้การจดทะเบียนของสำนักงานที่ดินใช้งานได้ ดู [ประมวลกฎหมายที่ดินแห่งชาติ 1965](/th/law/national-land-code)

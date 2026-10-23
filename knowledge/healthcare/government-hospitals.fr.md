@@ -246,3 +246,5 @@ tandis que les personnes âgées peuvent en lire davantage dans
 [Soins de santé pour les personnes âgées](/en/healthcare/healthcare-for-seniors).
 Pour les véritables situations d'urgence, voir
 [Urgences et 999](/en/healthcare/emergencies-999).
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

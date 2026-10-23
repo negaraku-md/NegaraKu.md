@@ -181,3 +181,5 @@ In other words, Malaysia has proven the mechanism works. What it has not yet don
 The immediate signal to watch is the **independent Single Buyer**: separating it fully from TNB is the structural change that would make a neutral, competitive wholesale market credible. After that, the question is whether third-party access broadens beyond renewables and beyond large corporates — the point at which ordinary consumers might finally get a choice of supplier.
 
 Also worth tracking is how the tariff mechanism evolves as the market opens, and whether the 2025–2027 regulatory period brings the wider third-party access framework that MESI 2.0 first promised back in 2019. For now, Malaysia's electricity reform remains a story of deliberate, incremental steps — real movement, but well short of a fully liberalised market.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

@@ -145,3 +145,5 @@ keywords: ["keterjaminan makanan", "tahap sara diri", "SSL", "SSR", "Dasar Agrom
 留意 DOSM 每年发布的《供应与利用账目》，以获取各商品最新的 SSR 数字——这正是决定马来西亚是在接近还是远离《国家农粮政策 2.0》目标的官方衡量标准。也请关注第十二大马计划的中期检讨以及稻米项目的预算拨款，因为 2025 年的中期目标 75% 是 2030 年 80% 目标是否仍可实现的早期信号。
 
 如需更深入的了解，有关稻米产业和 KPKM 角色的相关文章将阐述这些政策数字背后的执行机制。
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

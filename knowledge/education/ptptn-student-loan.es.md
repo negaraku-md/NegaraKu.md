@@ -172,3 +172,5 @@ ingresos, tasa de cargo por servicio, y el periodo de carencia en número de
 meses — consulta directamente en el portal oficial del PTPTN en la fecha en que
 tengas intención de solicitar, ya que estas condiciones se revisan
 periódicamente.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

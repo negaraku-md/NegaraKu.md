@@ -151,3 +151,5 @@ Le plan couvre trois domaines centraux, 12 moteurs de croissance et 132 initiati
 Pour les entrepreneurs et les investisseurs, l'étape pratique suivante consiste à examiner les exigences de licence propres à chaque secteur (par exemple les codes SWEC de PETRONAS pour le pétrole et le gaz) et à vérifier l'éligibilité aux programmes de développement des fournisseurs pertinents directement auprès des agences d'exécution. Pour les données et objectifs de propriété les plus récents, consultez les publications officielles de TERAJU et des agences associées.
 
 *Note : il s'agit d'un brouillon généré par IA qui nécessite une révision humaine avant publication. Tous les chiffres sont cités des sources référencées ; différentes méthodes de calcul peuvent produire des chiffres différents.*
+
+Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

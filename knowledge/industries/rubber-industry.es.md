@@ -172,3 +172,5 @@ Frente a esas presiones, la lógica estratégica no ha cambiado respecto a la qu
 ## Qué sigue
 
 Si investiga este sector, las cifras en vivo más autorizadas son las publicaciones de **Estadísticas mensuales del caucho del DOSM**, que actualizan producción, exportaciones, existencias y destinos cada mes. Para el lado institucional, la Junta del Caucho de Malasia publica orientación sobre licencias y regulación, mientras que MARGMA sigue específicamente el comercio de guantes. Vigile tres variables en particular: el precio del caucho natural (que decide si los pequeños agricultores siguen extrayendo), la combinación nitrilo-frente-a-látex en los guantes, y las medidas comerciales EE. UU.-China — el factor oscilante con más probabilidad de mover las exportaciones malasias de guantes en una u otra dirección.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

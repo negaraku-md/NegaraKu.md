@@ -231,3 +231,5 @@ Después sopesa tres cosas más allá del nombre del puerto: la fortaleza de tu 
 Los puertos de Malasia ya han ganado el juego del volumen; la contienda más difícil ahora es la del valor. Vigila tres señales en los próximos años. Primera, si la capacidad de Westports 2 y Carey Island se materializa realmente según lo previsto, ya que el liderazgo en transbordo depende de tener atraques libres cuando llegan los megabuques. Segunda, si el puente terrestre del ECRL resulta comercialmente real: un ferrocarril terminado no es lo mismo que una carga que elige cruzar la península en tren en lugar de navegar a su alrededor. Tercera, si Malasia sigue escalando en el Índice de Desempeño Logístico, la prueba más fiel de si el país se está convirtiendo en un lugar que gestiona el comercio en lugar de limitarse a relayarlo.
 
 Para una mirada más profunda a los activos individuales detrás de estas cifras, consulta las entradas complementarias sobre Port Klang, el Port of Tanjung Pelepas y el estrecho de Malaca, la ruta marítima que lo hizo todo posible.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

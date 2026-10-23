@@ -178,3 +178,5 @@ income pattern, and what an employer based in the city actually faces on
 [doing business in Johor Bahru](/en/business/doing-business-johor-bahru) while
 competing with Singapore-scale pay. For the state-level picture this city sits
 inside, see the [Johor](/en/states/johor) overview.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

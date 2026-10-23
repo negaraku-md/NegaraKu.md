@@ -115,3 +115,5 @@ C'est une confusion fréquente. Les soins gériatriques sont des soins générau
 ## Ce qui suit
 
 Si un membre de votre famille est atteint d'une maladie grave, commencez par discuter d'une orientation palliative avec le médecin ou le spécialiste qui le soigne. Pour les familles de la vallée de Klang, contactez Hospis Malaysia via leur site web. Pour des besoins plus larges de soins gériatriques généraux, consultez notre guide connexe sur les soins de santé pour les personnes âgées.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

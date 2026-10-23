@@ -128,3 +128,5 @@ KKM은 영유아, 아동, 청소년부터 고령자에 이르기까지 사회 �
 ## 다음으로
 
 정부 병원 시설부터 민간 건강 보험까지 말레이시아의 다른 의료 정보는 [건강](/ko/healthcare) 카테고리를 둘러보십시오. 가까운 정부 치과 클리닉을 찾으려면 [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan) 포털을 통해 공식 검색 서비스에 접속할 수 있습니다.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

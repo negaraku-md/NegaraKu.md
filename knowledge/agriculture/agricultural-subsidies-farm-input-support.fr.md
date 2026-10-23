@@ -251,3 +251,5 @@ plantation sur le site web du KPKM et auprès de votre organisation locale
 d'agriculteurs, confirmez votre statut d'enregistrement rizicole, et comparez les
 taux de la saison en cours aux chiffres indiqués ici — ce document est un brouillon
 assisté par IA et non un substitut à l'information officielle des organismes.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

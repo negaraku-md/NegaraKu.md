@@ -116,3 +116,5 @@ A enero de 2025, el Ministerio de Salud había recibido 18.802 solicitudes, con 
 ## Qué viene a continuación
 
 Si usted es un profesional, compruebe si su campo está dentro de las siete áreas de práctica reconocidas y luego solicite el registro a través del Consejo de MT&C, División de Medicina Tradicional y Complementaria, Ministerio de Salud de Malasia (Ministry of Health Malaysia). Si usted es un consumidor, pida ver el certificado de registro del profesional antes de recibir tratamiento — es ahora la marca de un profesional legalmente legítimo.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

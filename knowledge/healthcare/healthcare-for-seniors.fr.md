@@ -175,3 +175,5 @@ retraité étranger qui aura aussi besoin de soins en vieillissant voudront peut
 aussi lire au sujet du [visa de long séjour MM2H](/en/settling-in/mm2h-long-stay-visa),
 car le statut de résidence de longue durée influe sur ceux de ces services qui
 s'appliquent.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

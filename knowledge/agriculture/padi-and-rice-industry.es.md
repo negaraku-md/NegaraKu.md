@@ -170,3 +170,5 @@ La distancia entre el 52,9% real y la meta del 75% para 2025 es la tensión cent
 - **Haga seguimiento del SSL anual** en las Cuentas de suministro y utilización del DOSM y en las declaraciones del Ministerio — es la única medida protagonista de si la brecha de importación se está cerrando.
 - **Observe la revisión de BERNAS de 2031**, que decidirá si la concesión de importador único se renueva, se reestructura o se abre, y qué ocurre con las obligaciones sociales que financia.
 - **Confirme las cifras restantes** señaladas en *verificationNeeded* — la superficie plantada de padi y el tonelaje de producción exactos, y el recuento de agricultores registrados — contra las fuentes primarias del DOSM y del KPKM antes de citarlas como definitivas.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

@@ -277,3 +277,5 @@ Sistem subsidi bahan bakar Malaysia masih berkembang. Beberapa hal yang patut di
 - **Harga minyak global.** Karena harga *tanpa subsidi* mengikuti pasar, kenaikan harga minyak dunia memperlebar jurang antara RM1.99 dan harga penuh — menjadikan kuota lebih penting.
 
 Untuk informasi resmi dan terkini, rujuk portal BUDI MADANI dan siaran pers Kementerian Keuangan. Angka dalam panduan ini akurat hingga tanggal pembaruan; harga bahan bakar dan rincian program dapat berubah.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

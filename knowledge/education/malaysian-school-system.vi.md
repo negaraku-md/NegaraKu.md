@@ -156,3 +156,5 @@ Lịch học, cấu trúc học kỳ và các kỳ nghỉ học được ấn đ
 ## Tiếp theo là gì
 
 Hệ thống trường học của Malaysia phản ánh chính đất nước mà nó phục vụ: một khuôn khổ quốc gia chung được triển khai qua nhiều hơn một ngôn ngữ giảng dạy, giữ một chương trình giảng dạy chung và các kỳ thi chung xuyên các cộng đồng khác nhau. Để có phần bổ trợ thực tiễn cho cấu trúc này — khi nào học kỳ bắt đầu, các kỳ nghỉ kéo dài bao lâu, và chúng khớp với các lễ hội như thế nào — đọc [lịch học và các kỳ nghỉ học](/vi/education/academic-calendar-and-school-holidays/). Để có chi tiết có thẩm quyền về chính sách, chương trình giảng dạy và cơ chế đánh giá hiện hành, cổng thông tin của Bộ Giáo dục là nguồn chính.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

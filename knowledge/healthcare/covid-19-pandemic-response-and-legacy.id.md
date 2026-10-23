@@ -146,3 +146,5 @@ Menurut Organisasi Kesehatan Dunia (WHO), Kertas Putih ini menerima persetujuan 
 Malaysia telah beralih dari pengelolaan pandemi ke fasa endemik, dengan pembatasan menyeluruh diakhiri dan perhatian beralih kepada pemulihan sistem kesehatan jangka panjang. Perkembangan selanjutnya yang relevan termasuk pelaksanaan bertahap Kertas Putih Kesehatan, perbaikan pasokan tenaga kesehatan publik, dan penggunaan berkelanjutan infrastruktur digital seperti MySejahtera dalam layanan kesehatan.
 
 Draf ini disusun dengan bantuan AI dan memerlukan tinjauan manusia. Semua angka dan tanggal perlu dikonfirmasi ulang terhadap sumber resmi terkini seperti dasbor COVIDNOW/KKMNOW Kementerian Kesehatan sebelum diterbitkan.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

@@ -128,3 +128,5 @@ Namun begitu, cadangan ini kekal sebagai perbincangan dasar. Setakat sumber yang
 - Untuk konteks lebih luas, rujuk peranan FELDA dalam pembukaan tanah rancangan (land settlement) yang melengkapkan gambaran ekosistem agensi tanah persekutuan Malaysia.
 
 *Nota: Artikel ini ialah draf yang dihasilkan dengan bantuan AI dan belum melalui semakan manusia. Angka dan tarikh diambil daripada sumber rasmi yang disenaraikan; sila rujuk sumber asal untuk maklumat terkini. Perkara dalam senarai `verificationNeeded` masih perlu disahkan oleh penyemak manusia.*
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

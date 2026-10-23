@@ -246,6 +246,27 @@ KPK กำกับดูแลสินค้าโภคภัณฑ์อุ�
 
 **"ตัวเลขการเกษตรนั้นตายตัว"** ตัวเลขส่วนใหญ่ในที่นี้ (ผลผลิต ราคา การผลิต SSR) ถูกทบทวนทุกปีและเคลื่อนไหวไปตามสภาพอากาศ ราคาโลก และวงจรการปลูกทดแทน ควรอ้างอิงการเผยแพร่ล่าสุดของ DOSM, MPOB และกระทรวงเพื่อดูข้อมูลปัจจุบัน
 
+## สำรวจหัวข้อนี้เชิงลึก
+
+คู่มือสำคัญในด้านนี้:
+
+- [เงินอุดหนุนการเกษตรและการสนับสนุนปัจจัยการผลิตในไร่นาสำหรับชาวนา](/th/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS และการผูกขาดการนำเข้าข้าวของมาเลเซีย](/th/agriculture/bernas-rice-import-monopoly/)
+- [กรมประมงมาเลเซีย (DOF)](/th/agriculture/department-of-fisheries-malaysia/)
+- [การค้าส่งออกทุเรียนและผลไม้เมืองร้อนของมาเลเซีย](/th/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/th/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA และ RISDA](/th/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/th/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/th/agriculture/fgv-holdings-plantation-restructuring/)
+- [นโยบายความมั่นคงทางอาหารของมาเลเซียและเป้าหมายระดับการพึ่งพาตนเอง](/th/agriculture/food-security-self-sufficiency-policy/)
+- [อุตสาหกรรมปศุสัตว์และสัตว์ปีกของมาเลเซีย](/th/agriculture/livestock-poultry-industry/)
+- [อุตสาหกรรมการประมงของมาเลเซีย](/th/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/th/agriculture/mardi-agricultural-research-institute/)
+- [กระทรวงเกษตรและความมั่นคงทางอาหาร (KPKM) และหน่วยงานในสังกัด](/th/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [เกษตรกรสวนปาล์มน้ำมันรายย่อยและการรับรองความยั่งยืน MSPO](/th/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [ข้าวเปลือกและข้าวสารในมาเลเซีย](/th/agriculture/padi-and-rice-industry/)
+- [อุตสาหกรรมข้าวเปลือกและข้าวสารของมาเลเซีย](/th/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## อ่านต่อ
 
 - เจาะลึกสินค้าโภคภัณฑ์ส่งออกที่ใหญ่ที่สุดใน [ภาพรวมภาคน้ำมันปาล์มของมาเลเซีย](/th/economy/palm-oil-sector) — ขนาด สถาบัน และการรับรองความยั่งยืน

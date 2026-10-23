@@ -116,3 +116,5 @@ Pero el avance ha sido lento. Según el director adjunto de la División de Salu
 - Sigue el despliegue por fases de los EMR en los hospitales y las clínicas de salud cercanos a ti.
 - Revisa las funciones **Appointments** (Citas) y **Health Records** (Registros de Salud) en MySejahtera antes de tu próxima visita a una clínica.
 - Está atento a las reformas de protección de datos — según la Sección 3 de la Ley de Protección de Datos Personales de 2010, la Ley no se aplica al Gobierno Federal ni a los Gobiernos Estatales, una laguna que plantea cuestiones de gobernanza cuando los datos de salud están en manos de entidades gubernamentales.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

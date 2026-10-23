@@ -128,3 +128,5 @@ keywords: ["akaun elektrik TNB", "buka akaun TNB baru", "deposit elektrik TNB", 
 ## อ่านต่อ
 
 ไฟฟ้าเป็นเพียงหนึ่งในหลายเรื่องที่ต้องจัดการเมื่อย้ายเข้าบ้านใหม่ในมาเลเซีย ดู [ขั้นตอนแรกในการย้ายมามาเลเซีย](/settling-in/moving-to-malaysia-first-steps) สำหรับรายการความจำเป็นอื่น ๆ ที่เกี่ยวข้อง สำหรับผู้ที่ต้องจัดเตรียมสายโทรศัพท์มือถือในสถานที่ใหม่ด้วย ดู [คู่มือซิมแบบเติมเงินและรายเดือน](/money-daily-life/mobile-sim-plans)
+
+ดูคู่มือฉบับเต็ม: [การซื้อบ้านในมาเลเซีย](/th/property/buying-a-home-process/)

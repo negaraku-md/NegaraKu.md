@@ -110,3 +110,5 @@ keywords:
 ## 次に読むべき記事
 
 中国語教授言語の学校がなぜ別個の進路として存在するのか、その言語的背景については[マレーシアで話されている言語](/ja/malaysia/languages-spoken)を参照。これらの学校が併存する政府制度に子どもがどのように編入されるかについては[子どもを政府学校に登録する](/ja/education/enrolling-in-a-government-school)を参照。いずれの進路でもフォーム5（中学5年）以降の試験がどうなるかについては[UPSRからSPMまで](/ja/education/upsr-to-spm-exams)を参照。そしてUECまたはSPM修了者が次に実際に何を選ぶことになるかについては[公立大学と私立大学](/ja/education/public-vs-private-universities)を参照。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの教育制度](/ja/education/malaysian-education-system/)。

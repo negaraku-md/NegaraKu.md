@@ -111,3 +111,5 @@ keywords: ["TVET Malaysia", "Sijil Kemahiran Malaysia", "SKM", "JPK Jabatan Pemb
 ## 다음 단계
 
 폼 3 학생이라면, 교육부 포털의 KV 입학 조건을 JPPKK 산하 폴리테크닉/커뮤니티 칼리지의 입학 조건과 비교하는 것부터 시작하십시오 — 이 두 경로는 신청 날짜와 양식이 별개입니다. 기존 기능을 인증받으려는 성인 노동자라면, 해당 분야의 사전 성취 인정(PPT) 경로에 대해 JPK에 직접 문의하십시오. 그리고 고용주가 여러분을 HRD Corp 부담금 기반 기능 훈련에 보낸다면, 그러한 훈련이 고용주 차원에서 어떻게 재정 지원되는지 이해하기 위해 HRD Corp 부담금에 관한 안내도 읽어 보십시오.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

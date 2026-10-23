@@ -175,3 +175,5 @@ Si vous prévoyez de continuer jusqu'au niveau licence :
 4. **Consultez le portail officiel du MPM** pour connaître les dates d'examen en vigueur, les frais, les procédures d'inscription et les dernières spécifications de format avant de passer le test.
 
 Pour des informations officielles et à jour sur l'inscription, les dates et le format, consultez le portail du Conseil des examens de Malaisie à mpm.edu.my.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

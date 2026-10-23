@@ -136,3 +136,5 @@ Ambos impuestos son ejemplos concretos de cómo los poderes del gobierno estatal
 - [Los tres niveles de gobierno de Malasia](/en/government/three-tiers-of-government) — cómo difieren los poderes federal, estatal y local
 - [La división de poderes entre el gobierno federal y el estatal](/en/government/federal-state-division) — por qué la tierra cae bajo los poderes estatales
 - [La Asamblea Legislativa Estatal (DUN)](/en/government/state-assemblies-dun) — el órgano que aprueba las leyes estatales de tierras
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

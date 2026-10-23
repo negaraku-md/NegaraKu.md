@@ -169,3 +169,5 @@ After sustained indigenous protests, led by the Kenyah, Kayan and Penan communit
 The future of Malaysia's hydropower revolves around two different directions. In the Peninsula, the main agenda is extending the life of existing plants — such as Kenyir through the HLEP — and smaller new projects to support the country's renewable energy targets. In Sarawak, Baleh will determine whether the mega-dam model can be completed on schedule while avoiding the controversies that plagued Bakun and Murum.
 
 For readers who want to dig deeper into this topic, useful next steps include understanding the role of hydro in national renewable energy targets, comparing the cost of hydro with solar and other energy sources, and tracking how customary land rights and environmental impact assessments continue to shape project decisions. Watch for official announcements from Sarawak Energy, RECODA and the Energy Commission for the latest project figures and status.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

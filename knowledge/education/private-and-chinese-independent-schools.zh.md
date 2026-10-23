@@ -111,3 +111,5 @@ keywords:
 ## 下一步
 
 关于华文源流教育为何自成一条独立源流的语言背景，请参阅[马来西亚通行的语言](/zh/malaysia/languages-spoken)。关于孩子如何被编入这些学校所依附的政府体系，请参阅[为孩子报读政府学校](/zh/education/enrolling-in-a-government-school)；关于中五之后无论走哪条路线考试会怎样，请参阅[从 UPSR 到 SPM](/zh/education/upsr-to-spm-exams)；至于 UEC 或 SPM 毕业生接下来实际要在什么之间做选择，请参阅[公立大学与私立大学](/zh/education/public-vs-private-universities)。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

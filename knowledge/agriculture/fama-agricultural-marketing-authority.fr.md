@@ -175,3 +175,5 @@ vous convient — vente directe sur un marché de producteurs, placement dans un
 Farm Outlet, ou participation à des programmes tels que l'agriculture sous contrat et RANTAI —
 puis consultez les formulaires et les conditions de participation sur `fama.gov.my`. Si vous êtes
 consommateur, vous trouverez aussi sur le site officiel de l'agence une liste des marchés de producteurs et des points de vente de la FAMA dans votre région.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

@@ -151,3 +151,5 @@ Ringkasnya: tugas Anda adalah memilih institusi yang benar dan mendapatkan tawar
 ## Apa yang selanjutnya
 
 Setelah Anda mengesahkan akreditasi, persetujuan pendaftaran internasional, dan menerima tawaran Anda, tahap berikutnya adalah Pas Pelajar itu sendiri — diliputi langkah demi langkah, termasuk Surat Persetujuan Visa, saringan medis, dan i-Kad, dalam [Pas Pelajar: Mengapa Universitas Anda Mengajukan Melalui EMGS, Bukan Anda](/id/settling-in/student-pass). Setelah pas Anda disahkan, kebanyakan mahasiswa melanjutkan langkah praktis menetap seperti [pindah ke Malaysia: langkah pertama](/id/settling-in/moving-to-malaysia-first-steps) dan [membuka rekening bank Malaysia](/id/money-daily-life/opening-bank-account).
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

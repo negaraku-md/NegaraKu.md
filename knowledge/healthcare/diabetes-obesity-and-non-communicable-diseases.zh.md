@@ -148,3 +148,5 @@ keywords: ["diabetes", "obesiti", "NCD", "penyakit tidak berjangkit", "NHMS 2023
 - **逐步减少糖分。** 选择带有健康选择标志或无添加糖的饮料；糖税意味着低糖替代品如今往往更便宜。
 - **不要等到出现症状。** 糖尿病和高血压往往"无声"——定期筛查是尽早发现它们最可靠的方式。
 - **就个人决定**而言，请咨询就近卫生诊所的医务人员。本指南仅为一般信息，并非医疗建议。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

@@ -158,3 +158,5 @@ RM5,566高出47%。吸纳了巴生谷大部分通勤人口的雪兰莪，则录�
 [Touch 'n Go](/zh/transport/touch-n-go)，了解巴生谷高速公路的过路费
 究竟是如何收取的。在收入方面，[个人所得税](/zh/money-daily-life/income-tax-individuals)
 说明了吉隆坡这笔较高的薪金，在进入家庭自己的预算之前会经历什么。
+
+查看完整指南：[马来西亚生活成本](/zh/cost-of-living/cost-of-living-overview/)。

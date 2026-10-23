@@ -174,3 +174,5 @@ For most Malaysian exporters the working answer is layered: MSPO as the legal ba
 - **Confirm you are on MS 2530:2022.** New applications and recertifications are assessed against the revised standard, not the 2013 version — check your certificate edition and audit cycle with your certification body.
 - **Verify a producer's status directly.** For MSPO, check MPOCC's public certification records; for RSPO, use the RSPO member and certification database rather than relying on a supplier's word.
 - **Treat labour compliance as trade compliance.** The US WRO episode shows that worker-welfare documentation is now a market-access issue, not just an HR one.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

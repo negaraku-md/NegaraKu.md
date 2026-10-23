@@ -114,3 +114,5 @@ JKPTG 自己的常见问答明确指出，若略过中间那一项会有什么�
 ## 下一步
 
 关于这一切背后的法规——托伦斯登记地契制度实际如何运作、为什么登记册（而非买卖合约）才是拥有权的最终依据、以及沙巴与砂拉越为何不适用这套制度——参见 [National Land Code 1965](/zh/law/national-land-code)。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

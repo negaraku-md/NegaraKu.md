@@ -169,3 +169,5 @@ The rates and structure of these schemes are reviewed at each annual budget. The
 As a public policy, the paddy subsidy scheme is also not without debate. Issues such as leakage of assistance, distribution efficiency, and farmers' continued dependence on subsidies are often raised in policy discussions on the national rice sector. This document focuses on the structure and rates of the schemes, not an assessment of their effectiveness or distributional impact.
 
 For next steps, check the latest planting-season announcements on the KPKM website and with your local farmers' organisation, confirm your paddy registration status, and compare current-season rates with the figures stated here — this document is an AI-assisted draft and not a substitute for official agency information.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

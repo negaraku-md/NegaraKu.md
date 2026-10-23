@@ -180,3 +180,5 @@ keywords:
 ## 下一步
 
 关于举家迁居马来西亚在移民方面的安排——包括外籍雇员的子女如何获得担保随行——请参阅[受养人准证或长期社访签证](/zh/settling-in/dependant-social-visit-passes)。若您也在比较马来西亚政府学校，请参阅[申请就读政府学校](/zh/education/enrolling-in-a-government-school)。关于学校背后公司最初是如何注册的，请参阅[SSM——大马公司委员会](/zh/government/ssm)。至于如今叠加在较高学费之上的税项，请参阅[2025年7月1日服务税扩大范围：逐行业解析](/zh/taxation/sst-expansion-2025)。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

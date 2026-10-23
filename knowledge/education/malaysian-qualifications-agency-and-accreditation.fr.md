@@ -143,3 +143,5 @@ Pourquoi cela importe : la reconnaissance est ce qui permet à un diplômé d'ac
 ## Et ensuite
 
 Si vous choisissez un cours, ouvrez le MQR et confirmez le statut du programme *avant* de verser un acompte — provisoire ou complète convient, absent non. Si un programme qui vous intéresse n'est pas inscrit, demandez à l'établissement directement, par écrit, sa référence et son statut auprès de la MQA, et considérez les réponses vagues comme un signal d'alerte. Pour les professions réglementées, contactez l'organisme professionnel concerné pour confirmer la voie du diplômé vers l'inscription. Les employeurs et les équipes RH peuvent utiliser ce même registre pour valider en quelques minutes la qualification déclarée par un candidat.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

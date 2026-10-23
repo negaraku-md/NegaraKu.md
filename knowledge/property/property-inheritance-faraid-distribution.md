@@ -151,3 +151,5 @@ Langkah akhir bagi sebuah rumah ialah **pindah milik di Pejabat Tanah**. Perinta
 - **Dapatkan nasihat yang layak:** kerana topik ini melibatkan hukum agama dan hak keluarga, rujuk peguam syarie/sivil atau pegawai Amanah Raya untuk kes khusus anda, dan sahkan setiap angka dengan sumber rasmi terkini.
 
 *Draf ini disediakan dengan bantuan AI dan belum melalui semakan pakar manusia. Ia bersifat maklumat umum sahaja dan bukan nasihat guaman atau agama.*
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

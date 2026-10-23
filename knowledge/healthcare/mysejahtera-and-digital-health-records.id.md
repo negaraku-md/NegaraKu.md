@@ -116,3 +116,5 @@ Namun kemajuannya lambat. Menurut Wakil Direktur Bahagian Kesihatan Digital KKM,
 - Ikuti peluncuran EMR bertahap di rumah sakit dan klinik kesehatan terdekat Anda.
 - Periksa fungsi **Temu Janji** dan **Rekam Kesehatan** dalam MySejahtera sebelum kunjungan berikutnya ke klinik.
 - Perhatikan pembaruan perlindungan data — di bawah Pasal 3 Akta Perlindungan Data Peribadi 2010, Akta itu tidak berlaku bagi Pemerintah Federal dan Pemerintah Negeri, sebuah celah yang menimbulkan persoalan tata kelola ketika data kesehatan dipegang oleh entitas pemerintah.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

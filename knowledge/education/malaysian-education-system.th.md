@@ -180,6 +180,36 @@ SPM เป็นจุดที่การแตกกิ่งกลายเ�
 - **สันนิษฐานว่า "โพลีเทคนิค" และ "วิทยาลัยชุมชน" ใช้แทนกันได้** ทั้งคู่อยู่ภายใต้กระทรวงการอุดมศึกษา แต่เป็นสถาบันคนละประเภทที่เสนอระดับคุณวุฒิต่างกัน
 - **สับสนระหว่างกระทรวงศึกษาธิการ (โรงเรียน) กับกระทรวงการอุดมศึกษา (มหาวิทยาลัย)** เป็นสองกระทรวงแยกกันที่มีเว็บพอร์ทัล งบประมาณ และรัฐมนตรีคนละชุด
 
+## สำรวจหัวข้อนี้เชิงลึก
+
+คู่มือสำคัญในด้านนี้:
+
+- [ปฏิทินการศึกษาและวันหยุดโรงเรียนของมาเลเซีย](/th/education/academic-calendar-and-school-holidays/)
+- [วิธีลงทะเบียนบุตรเข้าโรงเรียนรัฐบาล](/th/education/enrolling-in-a-government-school/)
+- [วิทยาเขตสาขาของมหาวิทยาลัยต่างชาติและศูนย์กลางการศึกษา](/th/education/foreign-university-branch-campuses-and-education-hubs/)
+- [การศึกษาสำหรับนักเรียนที่มีความสามารถพิเศษและปัญญาเลิศ (PERMATApintar)](/th/education/gifted-and-talented-education/)
+- [การเรียนที่บ้าน (Homeschooling) ในมาเลเซีย](/th/education/homeschooling/)
+- [โรงเรียนนานาชาติในมาเลเซีย](/th/education/international-schools/)
+- [การศึกษาในมาเลเซียในฐานะนักศึกษาต่างชาติ](/th/education/international-students-studying-in-malaysia/)
+- [โรงเรียนอิสลามและโรงเรียนศาสนาในมาเลเซีย](/th/education/islamic-and-religious-schools/)
+- [JPA และทุนการศึกษาภาครัฐหลักของมาเลเซีย](/th/education/jpa-and-public-scholarships/)
+- [MQA และการรับรองปริญญาในมาเลเซีย](/th/education/malaysian-qualifications-agency-and-accreditation/)
+- [ระบบโรงเรียนของมาเลเซีย](/th/education/malaysian-school-system/)
+- [MRSM และโรงเรียนประจำเต็มรูปแบบ (SBP)](/th/education/mrsm-and-fully-residential-schools/)
+- [MUET และการสอบเข้ามหาวิทยาลัย](/th/education/muet-and-university-entrance-tests/)
+- [SK, SJKC และ SJKT](/th/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG และค่าใช้จ่ายในการเรียนที่โรงเรียนรัฐบาล](/th/education/pibg-and-school-fees/)
+- [STPM, Matriculation, Foundation หรือ A-Level](/th/education/pre-university-routes/)
+- [Taska, Tadika, ก่อนวัยเรียน](/th/education/preschool-tadika-childcare/)
+- [โรงเรียนเอกชนและโรงเรียนเอกชนจีน](/th/education/private-and-chinese-independent-schools/)
+- [PTPTN ไม่ใช่ทุนการศึกษา](/th/education/ptptn-student-loan/)
+- [IPTA หรือ IPTS? มหาวิทยาลัยของรัฐและเอกชนของมาเลเซียต่างกันอย่างไรจริง ๆ](/th/education/public-vs-private-universities/)
+- [การศึกษาพิเศษในมาเลเซีย](/th/education/special-education-and-learning-support/)
+- [ศูนย์กวดวิชาและการติวส่วนตัวในมาเลเซีย](/th/education/tuition-centres-and-private-coaching/)
+- [ไม่ใช่ทุกเส้นทางมุ่งสู่มหาวิทยาลัย](/th/education/tvet-and-skills-training/)
+- [ประกาศนียบัตรการสอบแบบรวม (UEC)](/th/education/unified-examination-certificate-uec/)
+- [จาก UPSR สู่ SPM](/th/education/upsr-to-spm-exams/)
+
 ## อ่านต่อ
 
 หน้านี้คือแผนที่ ไม่ใช่ปลายทาง — จงใจให้มีรายละเอียดน้อยในแต่ละกิ่งเพื่อให้ชี้ไปยังรายละเอียดได้ บทความเฉพาะเรื่องเกี่ยวกับ SPM และระบบการสอบของโรงเรียน การเลือกระหว่าง STPM, matriculation และเส้นทางก่อนมหาวิทยาลัยของเอกชน วิธีที่การรับรอง TVET ทำงานจริง และวิธีที่การรับเข้ามหาวิทยาลัยของรัฐได้รับการประสานงาน ล้วนอยู่ปลายทางของภาพรวมนี้บน NegaraKu.md และเจาะลึกกลไกที่หน้านี้เพียงวางแผนที่ไว้

@@ -144,3 +144,5 @@ Itulah makna sebenarnya target kandungan lokal integrasi sistem. Ia adalah upaya
 ## Apa selanjutnya
 
 Cerita jangka pendek adalah aritmetika. Pendapatan berjalan hampir sesuai dengan trajektori 2030, dan target tenaga kerja sudah dicapai, jadi pertanyaan jujurnya bukan lagi apakah Malaysia dapat mengembangkan sektor ini tetapi apakah ia dapat mengubah *sifatnya* — beralih dari memelihara dan memesin pesawat menjadi mendesain dan mengintegrasikannya. Perhatikan tiga hal: apakah pangsa kandungan lokal integrasi sistem benar-benar meningkat menuju 70%, apakah pangsa MRO naik dari 4% menjadi 5% pasar global yang sedang berkembang, dan apakah defisit perdagangan mengecil ketika kemampuan desain lokal mendalam. Jika ketiga-tiganya bergerak bersama, RM55 miliar akan menjadi lantai dan bukan garis finis.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

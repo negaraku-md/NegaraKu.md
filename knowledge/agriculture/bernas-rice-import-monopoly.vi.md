@@ -132,3 +132,5 @@ Vào ngày 13 tháng 7 năm 2026, trong cuộc tranh luận về Dự luật Ki�
 ## Tiếp theo
 
 Số phận của thế độc quyền nhập khẩu gạo hiện phụ thuộc vào việc rà soát nhượng quyền trước năm 2031 và sửa đổi Act 522 đang được tranh luận. Liệu chính phủ tự do hóa việc nhập khẩu, duy trì mô hình người giữ cửa duy nhất, hay giao vai trò đó cho một cơ quan công vẫn chưa được quyết định. Để biết các con số tài chính và điều kiện nhượng quyền mới nhất, hãy tham khảo các báo cáo chính thức của BERNAS và các tuyên bố của Bộ Nông nghiệp và An ninh Lương thực, vì các chi tiết ở đây phản ánh tình hình tính đến giữa năm 2026 và sẽ thay đổi theo mỗi quyết định chính sách mới.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

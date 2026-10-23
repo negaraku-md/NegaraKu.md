@@ -152,3 +152,5 @@ keywords: ["faraid", "harta pusaka", "Akta Pembahagian 1958", "Amanah Raya", "si
 - **寻求合资格的意见：**由于本主题涉及宗教法与家庭权利，请就您的具体个案咨询伊斯兰法／民事律师或遗产信托局官员，并以最新的官方来源核实每一个数字。
 
 *本草稿在 AI 协助下撰写，尚未经过人工专家审阅。它仅供一般参考，并非法律或宗教意见。*
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

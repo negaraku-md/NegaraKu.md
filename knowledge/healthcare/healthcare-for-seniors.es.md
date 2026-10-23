@@ -172,3 +172,5 @@ jubilado extranjero que también necesitará cuidado a medida que envejezca quiz
 quieran leer también sobre [el visado de estancia prolongada MM2H](/en/settling-in/mm2h-long-stay-visa),
 ya que el estatus de residencia a largo plazo afecta a cuáles de estos servicios
 se aplican.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

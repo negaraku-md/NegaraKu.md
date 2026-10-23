@@ -134,3 +134,5 @@ Ini berarti pasien yang tiba lebih awal tetapi kondisinya stabil (zona hijau) da
 ## Apa selanjutnya
 
 Halaman ini menjelaskan cara mendapatkan bantuan darurat medis dan apa yang diperkirakan terjadi di Jabatan Kecemasan. Untuk kecelakaan lalu lintas yang juga melibatkan tilang atau tindakan PDRM, rujuk [Tilang Lalu Lintas di Malaysia](/id/transport/traffic-summons-saman); untuk struktur dan kuasa penegakan polisi sendiri, rujuk [Polis Diraja Malaysia (PDRM)](/id/government/pdrm).
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

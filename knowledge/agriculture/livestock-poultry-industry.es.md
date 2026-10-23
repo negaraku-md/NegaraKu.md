@@ -148,3 +148,5 @@ Para los lectores que quieran profundizar en este tema, próximos pasos útiles:
 - Entienda que cualquier control de precios sobre el pollo o los huevos debe leerse junto con los costos mundiales del pienso animal — ese es el verdadero determinante de si el suministro se mantiene estable.
 
 *Este artículo es un borrador asistido por IA y no ha pasado por una revisión editorial humana. Todas las cifras están citadas de las fuentes oficiales listadas; verifique las cifras más recientes directamente con el DOSM y el DVS antes de tomar decisiones.*
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

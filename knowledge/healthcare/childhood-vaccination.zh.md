@@ -126,3 +126,5 @@ PIK之下的所有疫苗，都在全国各地的政府健康诊所（Klinik Kesi
 ## 下一步
 
 若想更全面地了解健康诊所（Klinik Kesihatan）在马来西亚公共卫生体系中的位置——包括同一机构还提供哪些其他服务——请阅读[健康诊所（Klinik Kesihatan）：马来西亚政府初级医疗体系实际如何运作](/zh/healthcare/klinik-kesihatan)。对于仍处于怀孕阶段的家长，[在马来西亚生育：粉红手册、诊所复诊与分娩后流程](/zh/healthcare/having-a-baby-in-malaysia) 说明了分娩前的产检路径，包括与本文所述儿童记录册各自独立的母亲健康记录册。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

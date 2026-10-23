@@ -134,3 +134,5 @@ PBTが査定税を課す権限は、**1976年地方政府法（Local Government 
 - [マレーシアの三つの政府レベル](/government/three-tiers-of-government) —— 連邦・州・地方でどのように権限が異なるのか
 - [連邦・州間の権限分割](/government/federal-state-division) —— なぜ土地が州の権限リストに含まれるのか
 - [州議会（DUN）](/government/state-assemblies-dun) —— 州の土地法を可決する機関
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

@@ -238,3 +238,5 @@ UNESCO பாரம்பரிய மண்டல சுற்றுலா அ�
   UNESCO இன் [George Town/Melaka World Heritage listing](https://whc.unesco.org/en/list/1223/);
   மற்றும் ஆஸ்தி-சந்தை பின்னணிக்கு NAPIC இன்
   [Malaysian House Price Index reports](https://napic.jpph.gov.my/).
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவின் வாழ்க்கைச் செலவு, அதிகாரப்பூர்வ எண்களின்படி](/ta/cost-of-living/cost-of-living-overview/).

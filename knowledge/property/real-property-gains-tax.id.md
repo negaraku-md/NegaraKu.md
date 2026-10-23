@@ -165,3 +165,5 @@ Kegagalan mengajukan dalam jangka waktu dapat menyebabkan penalti. Pembayaran te
 Sebelum menandatangani SPA untuk menjual, hitung perkiraan RPGT Anda dahulu — terutama jika Anda memegang properti kurang dari lima tahun, di mana tarif 30% dapat menelan sebagian besar keuntungan. Simpan setiap bukti yang berkaitan: biaya pengacara pembelian, bea meterai, komisi agen dan tagihan renovasi, karena masing-masing memperkecil keuntungan kena pajak Anda.
 
 Jika Anda merencanakan menjual satu-satunya kediaman Anda, pertimbangkan apakah akan menyimpan pembebasan sekali seumur hidup untuk pelepasan yang keuntungannya lebih besar. Bagi kasus yang melibatkan perusahaan, warga asing, pindah milik keluarga atau pembebasan tertentu, rujuk pengacara properti atau konsultan pajak, dan pastikan tarif serta prosedur terkini di laman resmi LHDN (hasil.gov.my) sebelum mengajukan.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

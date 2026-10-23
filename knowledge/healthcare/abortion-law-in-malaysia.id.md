@@ -160,3 +160,5 @@ Kedudukan hukum aborsi di Malaysia berporos pada satu keseimbangan: larangan umu
 Bagi siapa saja yang memerlukan informasi berkaitan keadaan sebenarnya mereka, langkah yang paling wajar adalah merujuk langsung kepada praktisi medis terdaftar atau mendapatkan nasihat hukum profesional, karena setiap kasus bergantung pada fakta dan penilaian klinisnya sendiri.
 
 Draf ini disusun dengan bantuan AI dan masih menunggu peninjauan manusia. Ia bertujuan menjelaskan kerangka hukum secara netral, dan bukan menggantikan nasihat resmi.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

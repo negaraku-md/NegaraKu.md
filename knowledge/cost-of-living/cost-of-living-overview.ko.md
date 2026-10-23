@@ -203,6 +203,23 @@ DOSM의 가구지출조사는 지출을 열두 개 범주로 묶습니다. 그�
 - **크라우드소싱 국제 생활비 지수를 공식 말레이시아 정부 자료인 양 인용하는 것.**
   그렇지 않습니다 — 위의 이유로 DOSM은 그런 지수를 발표하지 않습니다.
 
+## 이 주제 자세히 살펴보기
+
+이 분야의 주요 가이드:
+
+- [B40, M40, T20](/ko/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/ko/cost-of-living/belanjawanku-reference-budget/)
+- [왜 마일로 한 통이 클랑보다 코타키나발루에서 더 비싼가](/ko/cost-of-living/cost-of-living-east-malaysia/)
+- [조호르바루의 생활비](/ko/cost-of-living/cost-of-living-johor-bahru/)
+- [쿠알라룸푸르가 말레이시아에서 가장 물가 높은 거주지인 이유](/ko/cost-of-living/cost-of-living-kuala-lumpur/)
+- [페낭의 생활비는 해협에서 갈린다](/ko/cost-of-living/cost-of-living-penang/)
+- [말레이시아 가계의 링깃은 매달 실제로 어디로 가는가](/ko/cost-of-living/household-spending-breakdown/)
+- [말레이시아는 외국인에게 저렴한가? 공식 수치가 실제로 말하는 것](/ko/cost-of-living/is-malaysia-affordable-for-expats/)
+- [말레이시아는 세계 생활비 지수에서 어디에 위치하는가](/ko/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [최저임금 대 중위 소득](/ko/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/ko/cost-of-living/padu-central-database/)
+- [말레이시아는 가격 폭리를 어떻게 통제하는가](/ko/cost-of-living/price-control-anti-profiteering-act/)
+
 ## 다음 단계
 
 - 개인 급여가 이 가구 수치와 어떻게 견주는지는:

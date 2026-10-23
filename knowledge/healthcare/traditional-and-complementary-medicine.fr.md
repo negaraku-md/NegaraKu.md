@@ -116,3 +116,5 @@ En janvier 2025, le ministère de la Santé avait reçu 18,802 demandes, avec 14
 ## Et ensuite
 
 Si vous êtes praticien, vérifiez si votre domaine relève des sept domaines de pratique reconnus, puis demandez votre enregistrement auprès du Conseil de MT&C, Division de la médecine traditionnelle et complémentaire, ministère de la Santé de Malaisie (Ministry of Health Malaysia). Si vous êtes un consommateur, demandez à voir le certificat d'enregistrement du praticien avant de recevoir un traitement — c'est désormais la marque d'un praticien légalement légitime.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

@@ -189,6 +189,29 @@ A quick decision map:
 - **Assuming growth equals resilience.** Malaysia's trade surplus streak is remarkable, but the economy's E&E concentration also ties it tightly to volatile global electronics cycles. Strength and exposure are two sides of the same coin.
 - **Confusing GDP share with growth rate.** Construction grew 17.5% in 2024 but is a small share of GDP; services grew a "modest" 5.3% but dominates the economy. Always check which number you are reading.
 
+## Explore this topic in depth
+
+The key guides in this area:
+
+- [The Aerospace & MRO Industry in Malaysia](/en/industries/aerospace-industry/)
+- [The Automotive Industry](/en/industries/automotive-industry/)
+- [Bumiputera Equity Policy and Vendor Development in Strategic Industries](/en/industries/bumiputera-equity-vendor-policy/)
+- [Malaysia's Construction Industry](/en/industries/construction-industry/)
+- [Data Centres & Cloud Infrastructure in Malaysia](/en/industries/data-centre-cloud-industry/)
+- [Malaysia's Digital Economy](/en/industries/digital-economy-overview/)
+- [The Electrical & Electronics (E&E) Industry](/en/industries/electrical-electronics-industry/)
+- [Malaysia's Halal Certification System](/en/industries/halal-certification-system/)
+- [The Halal Industry and Malaysia's Global Halal Hub Ambition](/en/industries/halal-industry-economy/)
+- [Malaysia's Logistics & Ports Industry](/en/industries/logistics-ports-industry/)
+- [Manufacturing Beyond E&E and Autos](/en/industries/manufacturing-industry-overview/)
+- [New Industrial Master Plan 2030 (NIMP 2030)](/en/industries/new-industrial-master-plan-2030/)
+- [The Oil & Gas Industry in Malaysia](/en/industries/oil-gas-industry/)
+- [Malaysia's Palm Oil Industry](/en/industries/palm-oil-industry/)
+- [Palm Oil Sustainability and Certification in Malaysia](/en/industries/palm-oil-sustainability-certification/)
+- [Malaysia's Rubber Industry](/en/industries/rubber-industry/)
+- [Malaysia's Semiconductor Industry](/en/industries/semiconductor-industry/)
+- [The Semiconductor Industry & National Semiconductor Strategy](/en/industries/semiconductor-industry-national-strategy/)
+
 ## What's next
 
 Use this page as your compass, then follow the branch that matters to you. If you are researching a specific industry, open its dedicated guide in this category for the deeper regulatory, company and supply-chain detail. If you are tracking the economy as a whole, the two numbers worth watching each quarter are the **services growth rate** (the bulk of the economy) and the **E&E export trend** (the swing factor in trade).

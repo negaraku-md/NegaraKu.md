@@ -110,3 +110,5 @@ keywords: ["cost of living Kuala Lumpur", "Klang Valley cost of living", "Kuala 
 ## 次に読むべきもの
 
 このコスト構造のうち通勤に関する側面については、LRT、MRT、KTMコミューターの各ネットワークがセランゴールと都心部をどのように結んでいるかを説明する[クランバレー鉄道](/ja/transport/klang-valley-rail)、そしてクランバレーの高速道路における通行料の徴収が実際にどのように行われているかを説明する[Touch 'n Go](/ja/transport/touch-n-go)を参照。所得の側面については、[個人所得税](/ja/money-daily-life/income-tax-individuals)が、クアラルンプールのこの高い給与が、世帯自身の予算に届くまでにどうなるかを説明している。
+
+詳しくは全体ガイドをご覧ください：[公式統計で見るマレーシアの生活費](/ja/cost-of-living/cost-of-living-overview/)。

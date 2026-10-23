@@ -147,3 +147,5 @@ Un rasgo distintivo de Malasia es el **cribado prematrimonial obligatorio de VIH
 ## Qué sigue
 
 Si quieres hacerte la prueba, contacta con la Klinik Kesihatan gubernamental más cercana o consulta el localizador del Consejo del Sida de Malasia para encontrar clínicas y ONG que ofrezcan pruebas, PrEP y PEP. Recuerda que la PEP es sensible al tiempo — dentro de las 72 horas tras la exposición. Para más información oficial, consulta los sitios web del Ministerio de Salud de Malasia y del Consejo del Sida de Malasia. Este artículo es un borrador generado por IA que requiere revisión humana antes de su publicación, y las cifras y disposiciones legales deben volver a verificarse con las fuentes oficiales más recientes.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

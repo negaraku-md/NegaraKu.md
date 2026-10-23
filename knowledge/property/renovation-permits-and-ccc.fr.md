@@ -112,3 +112,5 @@ Construire sans autorisation n'est pas une affaire mineure. Selon les directives
 - Pour les extensions structurelles, faites appel à un architecte ou à un ingénieur pour soumettre les plans via le guichet unique (One Stop Centre, OSC).
 - Lors de l'achat d'un logement neuf, confirmez l'état du CCC (formulaire F/F1) avant la remise des clés.
 - Conservez une copie du CCC : vous en aurez besoin pour vos futures demandes de rénovation.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

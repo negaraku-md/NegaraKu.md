@@ -197,3 +197,5 @@ bayaran tol di lebuh raya Lembah Klang sebenarnya dikutip. Dari segi
 pendapatan, [Cukai Pendapatan Individu](/money-daily-life/income-tax-individuals)
 menerangkan apa yang berlaku kepada gaji Kuala Lumpur yang lebih tinggi
 itu sebelum ia sampai ke belanjawan isi rumah sendiri.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

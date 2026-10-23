@@ -164,3 +164,5 @@ Kebajikan Masyarakat事務所である。将来、加齢に伴い介護も必要
 [MM2Hロングステイビザ](/ja/settling-in/mm2h-long-stay-visa)についても読
 んでおくとよいだろう。長期滞在資格が、これらのサービスのどれが適用される
 かに影響するためである。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

@@ -178,3 +178,5 @@ expressways are actually collected. On the income side,
 [Personal Income Tax for Individuals](/en/money-daily-life/income-tax-individuals)
 explains what happens to that higher Kuala Lumpur salary before it reaches a
 household's own budget.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

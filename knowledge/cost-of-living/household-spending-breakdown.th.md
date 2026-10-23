@@ -101,3 +101,5 @@ DOSM จำแนกค่าใช้จ่ายครัวเรือนเ
 - อ่านครึ่งเงินเฟ้อของภาพ: [อัตราเงินเฟ้อของมาเลเซียและ CPI วัดอะไรจริง ๆ](/th/economy/inflation-cpi)
 - พบกับหน่วยงานเบื้องหลังการสำรวจ: [DOSM](/th/government/dosm)
 - ดูการเผยแพร่หลักโดยตรงที่ [รายงานการสำรวจค่าใช้จ่ายครัวเรือน 2024 ของ DOSM](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states) สำหรับตารางหมวดฉบับเต็มและการแยกย่อยระดับรัฐ
+
+ดูคู่มือฉบับเต็ม: [ค่าครองชีพของมาเลเซีย ตามตัวเลขทางการ](/th/cost-of-living/cost-of-living-overview/)

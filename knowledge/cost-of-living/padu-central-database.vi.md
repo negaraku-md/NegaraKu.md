@@ -107,3 +107,5 @@ Quy trình có thể được thực hiện trực tuyến hoặc tại quầy:
 ## Tiếp theo?
 
 PADU được thiết kế làm xương sống dữ liệu cho chính sách trợ giá có mục tiêu của Malaysia, bao gồm việc chuyển từ trợ giá đại trà sang trợ cấp có mục tiêu chính xác hơn. Vì hồ sơ của bạn có thể thay đổi — đổi việc, tăng lương, thêm thành viên gia đình — nên kiểm tra và cập nhật thông tin của bạn tại padu.gov.my theo thời gian để hồ sơ luôn được cập nhật khi điều kiện nhận trợ cấp được đánh giá. Để biết chi tiết mới nhất về một chương trình cụ thể như trợ cấp tiền mặt hoặc trợ giá nhiên liệu, hãy tham khảo các thông báo chính thức của cơ quan thực thi liên quan.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

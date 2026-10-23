@@ -202,3 +202,5 @@ Khung RE của Malaysia thay đổi nhanh — các hạn ngạch mở và đóng
 - **Khớp chương trình với hồ sơ của bạn trước** (hộ gia đình → SELCO / Solar ATAP; C&I → NOVA khi nó còn hiệu lực, rồi SELCO; người mua doanh nghiệp → CGPP hoặc CRESS), rồi xác nhận hạn ngạch và quy tắc còn hiệu lực trên cổng của cơ quan quản lý — SEDA cho NEM/FiT, Ủy ban Năng lượng và Người Mua Duy nhất cho các chương trình doanh nghiệp.
 - **Kiểm tra khu vực của bạn.** Bán đảo, Sabah và Sarawak khác nhau; đừng cho rằng một chương trình Bán đảo có sẵn nơi bạn ở.
 - **Coi bất kỳ con số nào được gắn cờ dưới *Verification needed* là tạm thời** cho đến khi được xác nhận với một nguồn sơ cấp — các tỷ trọng RE-trong-tiêu-thụ cũ hơn và mục tiêu công suất tuyệt-đối-MW của MyRER vẫn chưa được xác minh.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

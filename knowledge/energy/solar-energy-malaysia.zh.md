@@ -165,3 +165,5 @@ CREAM（Community Renewable Energy Aggregation Mechanism）将绿色能源的可
 马来西亚的太阳能计划正在快速演进，重要日期正在临近。NEM 3.0 配额已于 2025 年 6 月 30 日期满——如果您是屋主或企业，请在 SEDA 门户查看剩余配额，并尽早向注册安装商索取报价。考虑 CRESS 或 CGPP 的企业，应在签订 PPA 之前计算系统接入费对整体能源成本的影响。对于投资者而言，LSS5 竞标结果及未来几轮 LSS 将决定国家公用事业太阳能市场的走向。
 
 请留意能源委员会、SEDA 和 Single Buyer 的官方公告，以了解新配额、电价变动，以及 NEM 3.0 期满后的接替计划。
+
+查看完整指南：[马来西亚能源领域](/zh/energy/energy-sector-overview/)。

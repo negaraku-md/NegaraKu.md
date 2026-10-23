@@ -139,3 +139,5 @@ Susulan kejadian sebegini, garis panduan yang dikemas kini menekankan ciri kesel
 Jika anda menilai sebuah institusi agama, dua soalan asas membantu: **di bawah badan mana ia berdaftar** (KPM, jabatan agama negeri, atau kedua-duanya) dan **bagaimana pematuhan keselamatan bangunannya disahkan** oleh Pihak Berkuasa Tempatan dan Bomba. Status pendaftaran biasanya boleh disemak dengan jabatan agama Islam negeri yang berkaitan.
 
 Kerana hal ehwal agama Islam sebahagian besarnya perkara negeri, butiran syarat dan proses berbeza antara negeri — rujuk laman rasmi jabatan agama negeri anda untuk keperluan terkini. Draf ini bersifat penerangan; ia tidak memihak kepada mana-mana pendirian dalam perbahasan dasar dan tidak menggantikan nasihat rasmi daripada pihak berkuasa berkenaan.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

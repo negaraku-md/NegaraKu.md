@@ -155,3 +155,5 @@ Andaikan sebuah MC di kondominium mendapati seorang pemilik gagal membayar caj p
 - Rujuk teks penuh Akta 757 dan Peraturan-Peraturan Pengurusan Strata 2015, atau hubungi **Pesuruhjaya Bangunan (COB)** di Pihak Berkuasa Tempatan anda untuk isu penguatkuasaan.
 
 *Artikel ini panduan umum, bukan nasihat guaman. Nombor seksyen dan angka merujuk Akta Pengurusan Strata 2013 (Akta 757) dan peraturan berkaitan; sahkan dengan teks berkanun terkini sebelum bertindak.*
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

@@ -160,3 +160,5 @@ Vấn đề đất đai thế hệ thứ hai nay trở lại bàn chính sách. 
 Đồng thời, việc cấp giấy chứng nhận đất cho người khai hoang gần như đã hoàn tất: tính đến tháng 7 năm 2026, **109,104 trong số 112,638 người khai hoang (96.86%)** đã nhận được giấy chứng nhận đất của mình.
 
 Đối với người khai hoang và thế hệ thứ hai, các bước thực tế hợp lý bao gồm bảo đảm tình trạng giấy chứng nhận đất của gia đình, hiểu các hạn chế của Act 1960 trước khi lập kế hoạch di sản, và theo dõi diễn biến của các sửa đổi đang được xem xét. Hãy theo dõi trang chính thức của FELDA và các thông báo của chính phủ để biết chi tiết các sửa đổi cuối cùng.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

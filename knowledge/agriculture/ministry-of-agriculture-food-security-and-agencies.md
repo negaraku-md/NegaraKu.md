@@ -197,3 +197,5 @@ tanaman dan fitosanitari, `dvs.gov.my` untuk ternakan dan kesihatan haiwan,
 Untuk pelesenan beras, rujuk portal e-Lesen Kawalselia Padi dan Beras. Dan
 jika soalan anda sebenarnya tentang peneroka atau pekebun kecil getah,
 alihkan tumpuan anda ke KKDW di `rurallink.gov.my`.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

@@ -155,3 +155,5 @@ Great Eastern Takaful Berhadが[マレーシア財務省](/government/ministry-o
 [マレーシアにおける高齢者介護の選択肢](/healthcare/healthcare-for-seniors)
 も参照されたい。mySalamの状況確認については、mySalamの公式ポータル
 を別途参照されたい。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

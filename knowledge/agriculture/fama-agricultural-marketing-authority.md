@@ -173,3 +173,5 @@ sesuai — jualan terus di pasar tani, penempatan di Agrobazaar atau My Farm
 Outlet, atau penyertaan program seperti Ladang Kontrak dan RANTAI — kemudian
 semak borang dan syarat penyertaan di `fama.gov.my`. Jika anda pengguna, senarai
 pasar tani dan outlet FAMA di kawasan anda juga tersedia di laman rasmi agensi.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

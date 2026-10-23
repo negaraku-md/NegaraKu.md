@@ -136,3 +136,5 @@ Sách Trắng Y tế đã làm được một điều quan trọng: nó đặt l
 Thứ nhất, một cơ quan triển khai và giám sát có thực quyền cần được thành lập; nếu không, việc cải tổ theo giai đoạn sẽ không có người cầm lái. Thứ hai, những quyết định tài trợ khó khăn — dù là chương trình dựa trên đóng góp, thuế thân thiện với sức khỏe, hay kết hợp — cần được chốt lại và giải thích cho người dân.
 
 Đối với người đọc, điều hữu ích nhất cần theo dõi trong những năm tới là: liệu một ủy hội hoặc cơ quan triển khai cuối cùng có được thành lập hay không, và liệu các đề xuất tài trợ có chuyển từ nghiên cứu sang chính sách hay không. Cho đến khi cả hai điều này xảy ra, Sách Trắng vẫn là một tầm nhìn thuyết phục — nhưng chưa được triển khai đầy đủ.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

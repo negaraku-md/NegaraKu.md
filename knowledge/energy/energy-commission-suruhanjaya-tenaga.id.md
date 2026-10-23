@@ -198,3 +198,5 @@ turut berlaku 1 Januari 2026 untuk mendukung agenda peralihan energi ini.
 - Baca statut dasar di
   [teks penuh Akta 610](https://faolex.fao.org/docs/pdf/mal37918.pdf) atau
   periksa mandat resmi di [laman "About Us" ST](https://www.st.gov.my/about-us)
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

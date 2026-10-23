@@ -114,3 +114,5 @@ keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "إنت
 ## ما التالي
 
 إذا كنت تعدّ خدمة هاتف محمول إلى جانب نطاقك العريض المنزلي — بما في ذلك Unifi Mobile، الذي كثيرًا ما يُجمَّع مع خط Unifi Home — فانظر [شراء شريحة هاتف محمول في ماليزيا](/money-daily-life/mobile-sim-plans) لمعرفة كيف يعمل التسجيل واختيار المزوّد هناك.
+
+اطّلع على الدليل الكامل: [شراء منزل في ماليزيا](/ar/property/buying-a-home-process/).

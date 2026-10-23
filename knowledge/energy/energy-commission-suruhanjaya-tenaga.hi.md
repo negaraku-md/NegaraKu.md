@@ -196,3 +196,5 @@ ST का अधिदेश 1 जनवरी 2025 को विस्तृत
 - संस्थापक क़ानून पढ़ें
   [Act 610 के पूर्ण पाठ](https://faolex.fao.org/docs/pdf/mal37918.pdf) में या
   आधिकारिक अधिदेश [ST के "हमारे बारे में" पृष्ठ](https://www.st.gov.my/about-us) पर देखें
+
+पूरी गाइड देखें: [मलेशिया का ऊर्जा क्षेत्र](/hi/energy/energy-sector-overview/)।

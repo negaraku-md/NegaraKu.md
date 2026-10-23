@@ -144,3 +144,5 @@ Ese es el verdadero significado de la meta de contenido local en integración de
 ## Qué viene a continuación
 
 La historia a corto plazo es aritmética. Los ingresos marchan cerca de la trayectoria de 2030, y la meta de fuerza laboral ya está cumplida, de modo que la pregunta honesta ya no es si Malasia puede hacer crecer el sector, sino si puede cambiar su *carácter* — pasar de mantener y mecanizar aviones a diseñarlos e integrarlos. Vigile tres cosas: si la cuota de contenido local en integración de sistemas sube realmente hacia el 70%, si la cuota de MRO asciende del 4% al 5% de un mercado mundial que se expande por sí mismo, y si el déficit comercial se estrecha a medida que se profundiza la capacidad de diseño de cosecha propia. Si esas tres se mueven juntas, los RM55 mil millones serán un suelo en lugar de una meta final.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

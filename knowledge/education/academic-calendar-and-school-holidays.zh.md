@@ -124,3 +124,5 @@ keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", 
 - 确保你查看的是孩子所在州属**正确的分组栏**（A 或 B）；看错栏就会相差一天。
 - 将学期假期日期与你所在州属的**公共假期**对照，因为伊斯兰节庆以及沙巴／砂拉越的假期可能会增加或错开天数。
 - 如需更广泛的背景，请参阅马来西亚公共假期页面以及马来西亚学校制度的结构。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

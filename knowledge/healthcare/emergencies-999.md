@@ -133,3 +133,5 @@ Ini bermakna pesakit yang tiba lebih awal tetapi keadaannya stabil (zon hijau) b
 ## Apa yang seterusnya
 
 Halaman ini menerangkan cara mendapatkan bantuan kecemasan perubatan dan apa dijangka berlaku di Jabatan Kecemasan. Bagi kemalangan jalan raya yang turut membabitkan saman atau tindakan PDRM, rujuk [Saman Trafik di Malaysia](/transport/traffic-summons-saman); bagi struktur dan kuasa penguatkuasaan polis sendiri, rujuk [Polis Diraja Malaysia (PDRM)](/government/pdrm).
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

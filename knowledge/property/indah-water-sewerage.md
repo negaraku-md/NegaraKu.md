@@ -149,3 +149,5 @@ premis anda.
   negeri atau PBT: [Pembahagian Kuasa Persekutuan-Negeri](/government/federal-state-division)
 - Peranan Pihak Berkuasa Tempatan yang dahulunya menguruskan pembetungan
   sebelum penswastaan 1994: [Majlis Tempatan](/states/local-councils)
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

@@ -189,3 +189,5 @@ oleh pemberi kerja yang berpangkalan di kota ini dalam
 [menjalankan usaha di Johor Bahru](/id/business/doing-business-johor-bahru) sambil
 bersaing dengan gaji bertaraf Singapura. Untuk gambaran tingkat negara bagian
 tempat kota ini berada, lihat gambaran keseluruhan [Johor](/id/states/johor).
+
+Lihat panduan lengkap: [Biaya Hidup Malaysia, Menurut Angka Resmi](/id/cost-of-living/cost-of-living-overview/).

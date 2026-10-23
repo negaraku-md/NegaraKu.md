@@ -218,3 +218,5 @@ Rangka keputusan mudah:
 Perhati tiga perkara. Pertama, **insentif EV**: pengecualian import CBU sudah tamat pada 1 Januari 2026, dan sama ada Malaysia melanjutkan atau menggantikan pelepasan cukai CKD sebelum ia luput pada 31 Disember 2027 akan membentuk EV mana yang mampu milik dan di mana ia dibina. Kedua, **volum EV tempatan**: rancangan Perodua untuk menskalakan pengeluaran QV-E daripada sekitar 500 unit sebulan ke arah 3,000 unit sebulan menjelang Q3 2026, dan langkah Proton untuk memasang EV secara tempatan, akan menguji sama ada jenama nasional mampu membuat kereta elektrik pada harga kereta nasional. Ketiga, **penyatuan dan persaingan**: dengan Sime Darby kini berada di puncak Perodua dan Toyota, dan jenama China menolak kuat ke dalam pasaran, bahagian dua pertiga yang selesa dinikmati jenama nasional tidak lagi terjamin.
 
 Untuk angka asas, sumber utama ialah MITI dan MIDA untuk dasar, DRB-HICOM dan pengumuman pengeluar kereta sendiri untuk pemilikan dan produk, dan tinjauan pasaran tahunan Persatuan Automotif Malaysia untuk jualan — semuanya dipautkan di bawah.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

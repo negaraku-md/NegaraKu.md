@@ -152,3 +152,5 @@ El paso final para una vivienda es la **transferencia de la propiedad en la Ofic
 - **Obtenga asesoramiento cualificado:** dado que este tema involucra la ley religiosa y los derechos de familia, consulte a un abogado sharie/civil o a un funcionario de Amanah Raya para su caso concreto, y confirme cada cifra con las fuentes oficiales más recientes.
 
 *Este borrador se preparó con asistencia de IA y no ha pasado por una revisión humana experta. Es solo información general y no constituye asesoramiento jurídico ni religioso.*
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

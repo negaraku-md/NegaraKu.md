@@ -150,3 +150,5 @@ This landscape is changing fast. NEM has given way to Solar ATAP, and a net bill
 - If you are a commercial consumer, compare the export credit rate (SMP versus the retail tariff) before signing a 10-year contract.
 
 This article is an AI-generated draft based on official SEDA and TNB sources; verify critical figures against official documents before acting.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

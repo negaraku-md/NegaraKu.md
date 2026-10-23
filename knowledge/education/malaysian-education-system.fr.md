@@ -181,6 +181,36 @@ Ce qui les relie tous sur le papier est le **Cadre des qualifications de Malaisi
 - **Supposer que « institut polytechnique » et « collège communautaire » sont interchangeables.** Les deux relèvent du ministère de l'Enseignement supérieur, mais ce sont des types d'établissements distincts offrant des niveaux de qualification différents.
 - **Confondre le ministère de l'Éducation (écoles) avec le ministère de l'Enseignement supérieur (universités).** Ce sont deux ministères distincts, avec deux portails, budgets et ministres distincts.
 
+## Explorer ce sujet en profondeur
+
+Les guides clés de ce domaine :
+
+- [Le calendrier scolaire de la Malaisie et les vacances scolaires](/fr/education/academic-calendar-and-school-holidays/)
+- [Comment inscrire votre enfant dans une école publique](/fr/education/enrolling-in-a-government-school/)
+- [Antennes d'universités étrangères et pôles éducatifs](/fr/education/foreign-university-branch-campuses-and-education-hubs/)
+- [Éducation des élèves surdoués et talentueux (PERMATApintar)](/fr/education/gifted-and-talented-education/)
+- [L'éducation à domicile en Malaisie](/fr/education/homeschooling/)
+- [Les écoles internationales en Malaisie](/fr/education/international-schools/)
+- [Étudier en Malaisie comme étudiant international](/fr/education/international-students-studying-in-malaysia/)
+- [Écoles islamiques et religieuses en Malaisie](/fr/education/islamic-and-religious-schools/)
+- [Le JPA et les principaux programmes publics de bourses de Malaisie](/fr/education/jpa-and-public-scholarships/)
+- [La MQA et l'accréditation des diplômes en Malaisie](/fr/education/malaysian-qualifications-agency-and-accreditation/)
+- [Le système scolaire malaisien](/fr/education/malaysian-school-system/)
+- [Le MRSM et les écoles entièrement résidentielles (SBP)](/fr/education/mrsm-and-fully-residential-schools/)
+- [Le MUET et les tests d'entrée à l'université](/fr/education/muet-and-university-entrance-tests/)
+- [SK, SJKC et SJKT](/fr/education/national-schools-sk-sjkc-sjkt/)
+- [Le PIBG et le coût de la scolarité dans les écoles publiques](/fr/education/pibg-and-school-fees/)
+- [STPM, matriculation, foundation ou A-Level](/fr/education/pre-university-routes/)
+- [Taska, Tadika, Prasekolah](/fr/education/preschool-tadika-childcare/)
+- [Écoles privées et écoles chinoises indépendantes](/fr/education/private-and-chinese-independent-schools/)
+- [Le PTPTN n'est pas une bourse](/fr/education/ptptn-student-loan/)
+- [IPTA ou IPTS ? En quoi les universités publiques et privées de Malaisie diffèrent réellement](/fr/education/public-vs-private-universities/)
+- [L'éducation spécialisée en Malaisie](/fr/education/special-education-and-learning-support/)
+- [Centres de soutien scolaire et cours particuliers en Malaisie](/fr/education/tuition-centres-and-private-coaching/)
+- [Tous les chemins ne mènent pas à l'université](/fr/education/tvet-and-skills-training/)
+- [Certificat unifié d'examen (UEC)](/fr/education/unified-examination-certificate-uec/)
+- [De l'UPSR au SPM](/fr/education/upsr-to-spm-exams/)
+
 ## Et ensuite
 
 Cette page est la carte, non la destination — elle est délibérément légère sur chacune des branches pour pouvoir pointer vers le détail. Des articles consacrés au SPM et au système d'examens scolaires, au choix entre le STPM, la matriculation et les voies préuniversitaires privées, au fonctionnement réel de la certification TVET, et à la coordination de l'admission aux universités publiques, se situent en aval de cette vue d'ensemble sur NegaraKu.md et entrent dans les mécanismes que cette page ne fait qu'esquisser.

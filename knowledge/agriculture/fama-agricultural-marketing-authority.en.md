@@ -176,3 +176,5 @@ Farm Outlet, or participation in programmes such as Contract Farming and RANTAI 
 then check the participation forms and conditions at `fama.gov.my`. If you are a
 consumer, a list of FAMA farmers' markets and outlets in your area is also
 available on the agency's official site.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

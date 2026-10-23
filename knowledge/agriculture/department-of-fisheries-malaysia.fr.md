@@ -113,3 +113,5 @@ Contexte plus large à partir d'analyses évaluées par les pairs : en 2022, le 
 ## Et ensuite
 
 Confirmez les procédures de licences en vigueur, les redevances et le Directeur général en exercice directement sur le portail du DOF à dof.gov.my avant de vous y fier. Les chiffres de production de 2024 et l'histoire institutionnelle du département restent à vérifier face aux rapports annuels primaires du DOF.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

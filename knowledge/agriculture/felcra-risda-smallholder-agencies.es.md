@@ -129,3 +129,5 @@ Aun así, esta propuesta sigue siendo una discusión de política. Según indica
 - Para un contexto más amplio, consulte el papel de FELDA en la apertura de tierras de colonización, que completa el panorama del ecosistema de agencias federales de tierras de Malasia.
 
 *Nota: Este artículo es un borrador asistido por IA que aún no ha sido sometido a revisión humana. Las cifras y fechas provienen de las fuentes oficiales enumeradas; consulte las fuentes originales para obtener la información más reciente. Los elementos de la lista `verificationNeeded` todavía deben ser confirmados por un revisor humano.*
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

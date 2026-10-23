@@ -147,3 +147,5 @@ Le même reportage indiquait que le nombre total d'élèves des écoles secondai
 Pour les élèves et les parents, la démarche pratique habituelle consiste à comprendre tôt les conditions d'admission de chaque voie — y compris si un SPM ou un STPM est nécessaire comme qualification supplémentaire pour l'IPTA — et à vérifier les exigences propres à chaque université ou État. La politique pouvant changer au gré de futures décisions gouvernementales, se référer aux annonces officielles du ministère de l'Éducation et des gouvernements des États concernés est la source d'information la plus exacte.
 
 > Note : ceci est un brouillon assisté par IA qui n'a pas fait l'objet d'une révision humaine. Les chiffres et les dates doivent être revérifiés avant publication, et la nature sensible du sujet exige une révision éditoriale attentive.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

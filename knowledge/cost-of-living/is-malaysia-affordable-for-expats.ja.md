@@ -122,3 +122,5 @@ keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats"
 を参照。背後にあるインフレ数値が実際にどう算出されているかについては、
 [マレーシアのインフレ率とCPIが実際に測定するもの](/ja/economy/inflation-cpi)
 を参照。
+
+詳しくは全体ガイドをご覧ください：[公式統計で見るマレーシアの生活費](/ja/cost-of-living/cost-of-living-overview/)。

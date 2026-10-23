@@ -128,3 +128,5 @@ Pour les titulaires de comptes existants, TNB propose également le **Relevé Pe
 ## Et ensuite
 
 L'électricité n'est que l'une des nombreuses démarches à régler en emménageant dans un nouveau logement en Malaisie — voir [premières démarches pour s'installer en Malaisie](/en/settling-in/moving-to-malaysia-first-steps) pour les autres obligations connexes. Pour ceux qui doivent aussi ouvrir une ligne mobile dans le nouveau local, voir le [guide des cartes SIM prépayées et postpayées](/en/money-daily-life/mobile-sim-plans).
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

@@ -247,3 +247,5 @@ Los desafíos a corto plazo de la industria son visibles en sus propias cifras: 
 Para una cobertura más profunda en NegaraKu.md, las lecturas siguientes naturales son el perfil de la **Junta de Aceite de Palma de Malasia** como regulador, y la **industria del caucho** de Malasia, el cultivo que el aceite de palma desplazó. Como las cifras concretas de aquí cambian con cada publicación mensual y anual de la MPOB, trate los tonelajes y precios específicos como una instantánea de 2025 y consulte el último panorama de la MPOB antes de citarlos.
 
 *Este es un borrador asistido por IA y aún no ha sido revisado por un experto en la materia. Las cifras provienen de la MPOB, el Ministerio de Plantaciones y Materias Primas y la MPOC, según se cita; verifíquelas con las últimas publicaciones de la MPOB antes de basarse en ellas. Los debates medioambientales y laborales en torno al aceite de palma se resumen aquí brevemente y son en sí mismos objeto de disputa — trate esto como un panorama general, no como la última palabra.*
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

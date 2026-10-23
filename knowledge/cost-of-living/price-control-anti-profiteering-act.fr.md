@@ -116,3 +116,5 @@ Le KPDN a également introduit un calculateur numérique anti-profit excessif po
 ## Et ensuite
 
 Si vous êtes commerçant, tenez un registre de vos coûts et de vos prix au début de chaque exercice financier — c'est l'année de référence qui servira à vous évaluer. Si vous êtes un consommateur qui soupçonne un profit excessif, une plainte peut être déposée auprès du KPDN. Pour plus de contexte sur les taxes qui affectent les prix, consultez notre article connexe sur le SST.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

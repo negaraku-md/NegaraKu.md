@@ -154,3 +154,5 @@ For anyone assessing a specific sub-sector, the pattern is: use DOSM for the siz
 ## What's next
 
 Malaysia's manufacturing story is diversifying in real time. Watch three things. First, whether the machinery-and-equipment and smart-factory push under NIMP 2030 actually lifts productivity rather than just headcount. Second, how medical devices and specialty rubber move up from commodity gloves into higher-margin catheters, implants and diagnostics. Third, the annual DOSM and MIDA releases — each January-to-May window brings the previous year's full sales, employment and investment figures, the cleanest read on whether the RM587.5 billion 2030 target is on track. If you are researching a particular sub-sector, start with the DOSM release for that MSIC category and MIDA's industry page, then layer in company-level detail.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

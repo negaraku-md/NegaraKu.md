@@ -170,3 +170,5 @@ La distance entre les 52,9 % réels et l'objectif de 75 % pour 2025 est la tensi
 - **Suivez le SSL annuel** dans les Comptes d'approvisionnement et d'utilisation du DOSM et dans les déclarations du ministère — c'est la seule mesure phare qui indique si l'écart d'importation se resserre.
 - **Surveillez le réexamen de BERNAS de 2031**, qui décidera si la concession d'importateur unique est renouvelée, restructurée ou ouverte, et ce qu'il advient des obligations sociales qu'elle finance.
 - **Confirmez les chiffres restants** signalés dans *verificationNeeded* — la superficie plantée en padi et le tonnage de production exacts, ainsi que le nombre d'agriculteurs enregistrés — auprès des sources primaires du DOSM et du KPKM avant de les citer comme définitifs.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

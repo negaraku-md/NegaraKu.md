@@ -149,3 +149,5 @@ Vị thế nhà nhập khẩu duy nhất đó không phải là vĩnh viễn. Th
 ## Tiếp theo
 
 Đối với các việc cụ thể, hãy đi thẳng đến cục đúng: `doa.gov.my` cho cây trồng và kiểm dịch thực vật, `dvs.gov.my` cho chăn nuôi và sức khỏe động vật, `dof.gov.my` cho thủy sản, và `maqis.gov.my` cho kiểm dịch nhập khẩu. Đối với việc cấp phép gạo, hãy tham khảo cổng e-Lesen Quản lý Lúa và Gạo. Và nếu câu hỏi của bạn thực sự là về người khai hoang hoặc tiểu điền chủ cao su, hãy chuyển sự chú ý của bạn sang KKDW tại `rurallink.gov.my`.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

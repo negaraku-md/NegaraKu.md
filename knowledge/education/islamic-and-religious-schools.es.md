@@ -140,3 +140,5 @@ Tras tales incidentes, las directrices actualizadas subrayan características de
 Si usted está evaluando una institución religiosa, dos preguntas básicas ayudan: **bajo qué organismo está registrada** (el MOE, un departamento religioso estatal, o ambos) y **cómo se verifica su cumplimiento en materia de seguridad del edificio** por parte de las Autoridades Locales y el Departamento de Bomberos. El estado del registro normalmente puede comprobarse con el departamento religioso islámico estatal correspondiente.
 
 Dado que los asuntos religiosos islámicos son en gran medida una materia estatal, los detalles de los requisitos y procesos varían entre estados — consulte el sitio web oficial de su departamento religioso estatal para conocer los requisitos más recientes. Este borrador es explicativo; no toma partido en el debate de políticas y no sustituye la orientación oficial de las autoridades correspondientes.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

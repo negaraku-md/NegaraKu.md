@@ -107,3 +107,5 @@ The process can be done online or over the counter:
 ## What comes next?
 
 PADU is designed as the data backbone for Malaysia's targeted subsidy policy, including the shift from blanket subsidies to more precisely targeted assistance. Because your profile can change — a change of job, a pay rise, an additional family member — it is worth checking and updating your information at padu.gov.my from time to time so your records stay current when assistance eligibility is assessed. For the latest details on specific schemes such as cash assistance or fuel subsidies, refer to the official announcements of the relevant implementing agencies.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

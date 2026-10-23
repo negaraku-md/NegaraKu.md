@@ -205,3 +205,5 @@ quarantaine d'importation. Pour l'octroi de licences de riz, consultez le portai
 de licence électronique de la Régulation du paddy et du riz. Et si votre question
 porte en réalité sur les colons ou les petits exploitants de caoutchouc,
 tournez-vous vers le KKDW sur `rurallink.gov.my`.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

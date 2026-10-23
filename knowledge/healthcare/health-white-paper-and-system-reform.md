@@ -135,3 +135,5 @@ Kertas Putih Kesihatan telah berjaya melakukan satu perkara penting: ia meletakk
 Pertama, sebuah badan pelaksana dan pemantau yang berkuasa perlu ditubuhkan; tanpanya, reformasi berperingkat tidak mempunyai pemandu. Kedua, keputusan pembiayaan yang sukar — sama ada skim menyumbang, cukai pro-kesihatan, atau kombinasi — perlu dimuktamadkan dan dijelaskan kepada rakyat.
 
 Bagi pembaca, perkara paling berguna untuk diperhatikan pada tahun-tahun mendatang ialah: adakah suruhanjaya atau badan pelaksana akhirnya ditubuhkan, dan adakah cadangan pembiayaan bergerak daripada kajian kepada dasar. Sehingga kedua-duanya berlaku, Kertas Putih kekal sebagai wawasan yang meyakinkan — tetapi belum dilaksanakan sepenuhnya.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

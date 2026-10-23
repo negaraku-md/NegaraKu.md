@@ -243,3 +243,5 @@ pilihan swasta, atau mempertimbangkan laluan yang tidak diliputi UPU — UEC,
 A-Level, atau diploma daripada IPTS — sahkan program tepat yang ditawarkan
 kepada anda di Daftar Kelayakan Malaysia (MQR) sebelum mendaftar, tidak kira
 jenis institusi mana yang mengeluarkan tawaran itu.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

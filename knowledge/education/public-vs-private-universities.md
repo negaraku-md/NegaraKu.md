@@ -230,3 +230,5 @@ you're comparing private options, or considering a route UPU doesn't cover —
 UEC, A-Levels, or a diploma from an IPTS — verify the exact programme you're
 being offered on the Malaysian Qualifications Register before enrolling,
 regardless of which type of institution issued the offer.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

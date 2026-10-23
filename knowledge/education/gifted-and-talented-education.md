@@ -134,3 +134,5 @@ Kedua-duanya berkongsi prinsip yang sama: pendidikan seragam tidak sesuai untuk 
 Jika anda ibu bapa atau guru yang mengesyaki seorang kanak-kanak berpotensi pintar berbakat, langkah pertama ialah memantau tarikh pendaftaran Ujian UKM1 yang diumumkan melalui laman rasmi Pusat PERMATA@Pintar Negara, UKM. Semak juga jadual program pengayaan PPCS dan HSEP jika anak anda berada dalam lingkungan umur 9–16 tahun.
 
 Untuk gambaran lengkap laluan sokongan pembelajaran di Malaysia, baca juga artikel rakannya mengenai pendidikan keperluan khas dan struktur sistem persekolahan kebangsaan. Butiran ujian, tarikh dan aliran program boleh berubah dari tahun ke tahun — sentiasa sahkan maklumat terkini terus daripada laman rasmi UKM sebelum membuat keputusan.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

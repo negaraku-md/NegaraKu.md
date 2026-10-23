@@ -214,3 +214,5 @@ Jika anda sebuah syarikat teknologi atau yang dipacu secara digital yang menimba
 Arah tuju adalah jelas: Malaysia mahu ekonomi digital terus mendaki ke arah dan melepasi tanda pelan tindakan 25.5% dalam perjalanan menuju ekonomi berpendapatan tinggi yang dipacu teknologi menjelang 2030, dengan e-invois, kemasukan pengembara digital dan pendigitalan PMKS sebagai tuas jangka pendek. Untuk nombor yang paling terkini, semak keluaran tahunan *Malaysia Digital Economy* DOSM, yang merupakan sumber berautoriti untuk angka bahagian-KDNK dan e-dagang yang dipetik di sini.
 
 Jika anda sebuah syarikat, langkah praktikal seterusnya ialah mengesahkan sama ada aktiviti anda dipetakan kepada salah satu daripada sembilan sektor yang digalakkan MD, kemudian tentukan sama ada anda memerlukan Taraf MD sahaja atau Insentif Cukai MD yang berasingan — dan aturkan permohonan anda sebelum anda mula menginvois aktiviti yang layak. Panduan NegaraKu.md yang berkaitan tentang MDEC, pelan tindakan MyDIGITAL dan sektor e-dagang Malaysia menyelami dengan lebih mendalam setiap lapisan timbunan ini.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

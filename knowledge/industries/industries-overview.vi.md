@@ -190,6 +190,29 @@ Một bản đồ quyết định nhanh:
 - **Cho rằng tăng trưởng đồng nghĩa với sức bền.** Chuỗi thặng dư thương mại của Malaysia là đáng chú ý, nhưng sự tập trung vào E&E của nền kinh tế cũng gắn nó chặt chẽ với các chu kỳ điện tử toàn cầu đầy biến động. Sức mạnh và mức độ chịu tác động là hai mặt của cùng một đồng xu.
 - **Nhầm lẫn tỷ trọng GDP với tốc độ tăng trưởng.** Xây dựng tăng 17.5% vào năm 2024 nhưng là một tỷ trọng nhỏ trong GDP; dịch vụ tăng "khiêm tốn" 5.3% nhưng chi phối nền kinh tế. Luôn kiểm tra bạn đang đọc con số nào.
 
+## Tìm hiểu sâu về chủ đề này
+
+Các hướng dẫn chính trong lĩnh vực này:
+
+- [Ngành hàng không vũ trụ & MRO tại Malaysia](/vi/industries/aerospace-industry/)
+- [Ngành ô tô](/vi/industries/automotive-industry/)
+- [Chính sách vốn cổ phần Bumiputera và phát triển nhà cung cấp trong các ngành chiến lược](/vi/industries/bumiputera-equity-vendor-policy/)
+- [Ngành xây dựng Malaysia](/vi/industries/construction-industry/)
+- [Trung tâm dữ liệu & hạ tầng đám mây tại Malaysia](/vi/industries/data-centre-cloud-industry/)
+- [Kinh tế số của Malaysia](/vi/industries/digital-economy-overview/)
+- [Ngành điện & điện tử (E&E)](/vi/industries/electrical-electronics-industry/)
+- [Hệ thống Chứng nhận Halal Malaysia](/vi/industries/halal-certification-system/)
+- [Ngành công nghiệp Halal và tham vọng trở thành Trung tâm Halal Toàn cầu của Malaysia](/vi/industries/halal-industry-economy/)
+- [Ngành Logistics & Cảng biển của Malaysia](/vi/industries/logistics-ports-industry/)
+- [Chế tạo vượt ra ngoài E&E và Ô tô](/vi/industries/manufacturing-industry-overview/)
+- [Kế hoạch Tổng thể Công nghiệp Mới 2030 (NIMP 2030)](/vi/industries/new-industrial-master-plan-2030/)
+- [Ngành Dầu khí tại Malaysia](/vi/industries/oil-gas-industry/)
+- [Ngành Dầu cọ của Malaysia](/vi/industries/palm-oil-industry/)
+- [Tính bền vững và Chứng nhận Dầu cọ tại Malaysia](/vi/industries/palm-oil-sustainability-certification/)
+- [Ngành Cao su của Malaysia](/vi/industries/rubber-industry/)
+- [Ngành bán dẫn của Malaysia](/vi/industries/semiconductor-industry/)
+- [Ngành Bán dẫn & Chiến lược Bán dẫn Quốc gia](/vi/industries/semiconductor-industry-national-strategy/)
+
 ## Tiếp theo
 
 Hãy dùng trang này làm la bàn của bạn, rồi đi theo cành cây quan trọng với bạn. Nếu bạn đang nghiên cứu một ngành công nghiệp cụ thể, hãy mở hướng dẫn chuyên biệt của nó trong nhóm này để có chi tiết sâu hơn về quy định, doanh nghiệp và chuỗi cung ứng. Nếu bạn đang theo dõi nền kinh tế nói chung, hai con số đáng theo dõi mỗi quý là **tốc độ tăng trưởng dịch vụ** (phần lớn của nền kinh tế) và **xu hướng xuất khẩu E&E** (yếu tố dao động trong thương mại).

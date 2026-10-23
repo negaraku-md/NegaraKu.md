@@ -173,3 +173,5 @@ sujet de la voie de la Reconnaissance des acquis antérieurs (PPT) pour le domai
 concerné. Et si votre employeur vous envoie suivre une formation de compétences
 financée par la taxe de HRD Corp, lisez aussi le guide sur la taxe de HRD Corp pour
 comprendre comment une telle formation est financée au niveau de l'employeur.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

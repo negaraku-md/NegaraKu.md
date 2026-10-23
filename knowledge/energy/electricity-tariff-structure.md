@@ -127,3 +127,5 @@ ToU berbaloi jika anda boleh mengalihkan penggunaan besar — mesin basuh, penge
 ## Apa seterusnya
 
 Semak bil terkini anda dan kenal pasti lima baris komponen tersebut. Bandingkan penggunaan bulanan anda dengan ambang 600 kWj dan 1,000 kWj untuk melihat sama ada anda layak pengecualian Caj Runcit atau rebat EEI. Untuk pengiraan tepat mengikut penggunaan sebenar, gunakan kalkulator bil rasmi di portal myTNB, dan pantau nilai AFA bulanan yang diumumkan Suruhanjaya Tenaga.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

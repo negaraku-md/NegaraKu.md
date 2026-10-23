@@ -276,3 +276,5 @@ Sistem subsidi bahan api Malaysia masih berkembang. Beberapa perkara yang patut 
 - **Harga minyak global.** Kerana harga *tanpa subsidi* mengikut pasaran, kenaikan harga minyak dunia meluaskan jurang antara RM1.99 dan harga penuh — menjadikan kuota lebih penting.
 
 Untuk maklumat rasmi dan terkini, rujuk portal BUDI MADANI dan siaran akhbar Kementerian Kewangan. Angka dalam panduan ini adalah tepat setakat tarikh kemas kini; harga bahan api dan butiran program boleh berubah.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

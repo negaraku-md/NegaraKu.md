@@ -155,3 +155,5 @@ Bagi sesiapa yang menilai subsektor tertentu, polanya ialah: gunakan DOSM untuk 
 ## Apa seterusnya
 
 Kisah pembuatan Malaysia sedang mempelbagai secara masa nyata. Perhatikan tiga perkara. Pertama, sama ada desakan jentera dan peralatan serta kilang pintar di bawah NIMP 2030 benar-benar menaikkan produktiviti dan bukan sekadar bilangan pekerja. Kedua, bagaimana peranti perubatan dan getah khusus bergerak naik daripada sarung tangan komoditi kepada kateter, implan dan diagnostik bermargin lebih tinggi. Ketiga, keluaran tahunan DOSM dan MIDA — setiap tingkap Januari hingga Mei membawa angka jualan, pekerjaan dan pelaburan penuh tahun sebelumnya, bacaan paling jelas sama ada sasaran RM587.5 bilion 2030 berada di landasan. Jika anda menyelidik subsektor tertentu, mulakan dengan keluaran DOSM bagi kategori MSIC itu dan halaman industri MIDA, kemudian tambah butiran peringkat syarikat.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

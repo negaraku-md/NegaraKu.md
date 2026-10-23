@@ -252,6 +252,27 @@ Un cadre rapide pour savoir à quelle porte frapper :
 - **« La Commission de l'énergie régule tout le pays. »** La portée réglementaire de la ST est la Malaisie péninsulaire et Labuan ; le Sabah et le Sarawak ont leurs propres dispositions.
 - **« L'objectif de 70% d'énergie renouvelable signifie 70% de toute l'énergie de la nation. »** Cet objectif du NETR concerne la capacité d'énergie renouvelable dans le mix électrique (production d'électricité), et non l'ensemble du système énergétique, y compris le transport et l'industrie.
 
+## Explorer ce sujet en profondeur
+
+Les guides clés de ce domaine :
+
+- [Réforme de l'industrie de la fourniture d'électricité](/fr/energy/electricity-supply-industry-reform-mesi/)
+- [Comment fonctionne la structure tarifaire de l'électricité en Malaisie](/fr/energy/electricity-tariff-structure/)
+- [La Commission de l'énergie](/fr/energy/energy-commission-suruhanjaya-tenaga/)
+- [Loi sur l'efficacité et la conservation de l'énergie (Act 861)](/fr/energy/energy-efficiency-conservation-act/)
+- [Comment la Malaisie fixe les prix hebdomadaires du carburant](/fr/energy/fuel-pricing-mechanism/)
+- [Le système de subventions au carburant de la Malaisie](/fr/energy/fuel-subsidy-system/)
+- [Hydrogène et captage du carbone (CCUS) en Malaisie](/fr/energy/hydrogen-ccus-malaysia/)
+- [L'énergie hydroélectrique en Malaisie](/fr/energy/hydropower-malaysia/)
+- [La Feuille de route nationale de transition énergétique (NETR)](/fr/energy/national-energy-transition-roadmap-netr/)
+- [Gaz naturel et GNL en Malaisie](/fr/energy/natural-gas-lng-malaysia/)
+- [Loi de 1974 sur le développement du pétrole (Petroleum Development Act 1974)](/fr/energy/petroleum-development-act-1974/)
+- [L'énergie renouvelable en Malaisie](/fr/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/fr/energy/sarawak-energy-berhad/)
+- [Petros et le litige gazier du Sarawak](/fr/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaisie](/fr/energy/seda-malaysia/)
+- [L'énergie solaire en Malaisie](/fr/energy/solar-energy-malaysia/)
+
 ## Et ensuite
 
 Si vous êtes consommateur, l'étape la plus pratique consiste à comprendre votre nouvelle facture d'électricité RP4 (quatre composantes) et à vérifier votre éligibilité à la subvention BUDI95. Si vous êtes propriétaire d'un logement et souhaitez réduire votre facture, explorez le programme NEM de SEDA pour le solaire sur toiture.

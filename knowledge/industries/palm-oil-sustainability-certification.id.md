@@ -175,3 +175,5 @@ Bagi kebanyakan pengekspor Malaysia, jawaban praktisnya adalah berlapis: MSPO se
 - **Konfirmasikan Anda berada pada MS 2530:2022.** Permohonan baru dan sertifikasi ulang dinilai terhadap standar yang direvisi, bukan versi 2013 — periksa edisi sertifikat dan siklus audit Anda dengan badan sertifikasi Anda.
 - **Konfirmasikan status produsen secara langsung.** Untuk MSPO, periksa rekam sertifikasi publik MPOCC; untuk RSPO, gunakan basis data anggota dan sertifikasi RSPO alih-alih bergantung pada pernyataan pemasok.
 - **Anggap kepatuhan perburuhan sebagai kepatuhan perdagangan.** Episode WRO AS menunjukkan bahwa dokumentasi kesejahteraan pekerja kini merupakan isu akses pasar, bukan sekadar isu SDM.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

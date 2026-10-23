@@ -160,3 +160,5 @@ Para restaurar la sostenibilidad de la agencia, el Libro Blanco de FELDA de 2019
 Al mismo tiempo, la emisión de concesiones de tierra a los colonos está cerca de completarse: a julio de 2026, **109,104 de 112,638 colonos (96.86%)** habían recibido sus concesiones de tierra.
 
 Para los colonos y su segunda generación, algunos pasos prácticos sensatos incluyen confirmar el estado de la concesión de tierra de la familia, entender las restricciones de la Ley de 1960 antes de planificar el patrimonio y seguir el avance de las enmiendas en estudio. Vigile el sitio web oficial de FELDA y los anuncios del gobierno para conocer los detalles de las enmiendas definitivas.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

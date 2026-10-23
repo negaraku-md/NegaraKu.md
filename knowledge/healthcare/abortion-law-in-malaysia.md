@@ -159,3 +159,5 @@ Kedudukan undang-undang pengguguran di Malaysia berpaksikan satu keseimbangan: l
 Bagi sesiapa yang memerlukan maklumat berkaitan keadaan sebenar mereka, langkah yang paling wajar ialah merujuk terus kepada pengamal perubatan berdaftar atau mendapatkan nasihat perundangan profesional, kerana setiap kes bergantung pada fakta dan penilaian klinikalnya sendiri.
 
 Draf ini disediakan dengan bantuan AI dan masih menunggu semakan manusia. Ia bertujuan menerangkan kerangka undang-undang secara neutral, dan bukan menggantikan nasihat rasmi.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

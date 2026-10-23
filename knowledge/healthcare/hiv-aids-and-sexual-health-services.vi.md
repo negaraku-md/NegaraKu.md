@@ -147,3 +147,5 @@ Một đặc điểm riêng của Malaysia là **sàng lọc HIV tiền hôn nh�
 ## Tiếp theo
 
 Nếu bạn muốn làm xét nghiệm, hãy liên hệ Phòng khám Y tế nhà nước gần nhất hoặc tham khảo công cụ tìm địa điểm của Hội đồng AIDS Malaysia để tìm phòng khám và NGO cung cấp xét nghiệm, PrEP và PEP. Hãy nhớ rằng PEP nhạy cảm về thời gian — trong vòng 72 giờ sau khi phơi nhiễm. Để biết thêm thông tin chính thức, hãy tham khảo trang của Bộ Y tế Malaysia và Hội đồng AIDS Malaysia. Bài viết này là bản thảo do AI soạn cần được con người rà soát trước khi công bố, và các con số cùng điều khoản pháp lý cần được kiểm tra lại đối chiếu với nguồn chính thức mới nhất.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

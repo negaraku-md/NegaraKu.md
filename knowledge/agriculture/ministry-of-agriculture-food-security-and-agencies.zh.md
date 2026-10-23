@@ -177,3 +177,5 @@ KPKM 正是在这里介入。稻米与白米产业受**《1994 年稻米与白�
 进口检疫。至于白米发牌，请查阅稻米与白米管制的 e-Lesen 电子发牌门户。而如果你
 的问题其实是关于垦殖民或橡胶小园主的，请将注意力转向位于 `rurallink.gov.my`
 的 KKDW。
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

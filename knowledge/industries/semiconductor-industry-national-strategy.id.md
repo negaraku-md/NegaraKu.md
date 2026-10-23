@@ -201,3 +201,5 @@ Jika Anda mencoba menempatkan diri Anda dalam industri ini, beberapa pertanyaan 
 Strategi Semikonduktor Nasional masih di tahap awal. Isyarat jangka pendek yang perlu diperhatikan adalah apakah investasi Fase 1 terus mendaki menuju target RM500 miliar, apakah kohort pertama juara desain dan pengemasan canggih lokal benar-benar mencapai level pendapatan RM1 miliar, dan apakah saluran 60,000 insinyur terwujud cukup cepat untuk menghindari hambatan talenta. Ujian yang lebih sukar dan kemudian adalah Fase 3: apakah Malaysia dapat menarik fabrikasi wafer bagian depan secara langsung, mengingat modal yang terlibat.
 
 Karena ini adalah angka yang berubah, anggap setiap nomor di sini sebagai gambaran yang terikat pada tanggal sumbernya. Untuk gambaran berwenang dan paling terkini, periksa MIDA dan MITI secara langsung, dan rujuk silang pembaruan investasi resmi alih-alih bergantung pada satu pengumuman.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

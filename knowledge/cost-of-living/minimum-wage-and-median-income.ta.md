@@ -170,3 +170,5 @@ RM7,017 இடைநிலை வீட்டு வருமானம் RM2,79
   [Household Income Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   மற்றும்
   [Salaries and Wages Survey Report 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024).
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவின் வாழ்க்கைச் செலவு, அதிகாரப்பூர்வ எண்களின்படி](/ta/cost-of-living/cost-of-living-overview/).

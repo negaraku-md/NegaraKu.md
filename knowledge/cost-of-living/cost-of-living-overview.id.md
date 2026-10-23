@@ -226,6 +226,23 @@ apakah ia mengungkapkan metodologi serta tanggal rujukan sama sekali.
   adalah data resmi pemerintah Malaysia.** Ia bukan — DOSM tidak menerbitkannya,
   atas alasan-alasan di atas.
 
+## Jelajahi topik ini lebih dalam
+
+Panduan utama di bidang ini:
+
+- [B40, M40, T20](/id/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/id/cost-of-living/belanjawanku-reference-budget/)
+- [Mengapa Sekaleng Milo Lebih Mahal di Kota Kinabalu Dibandingkan di Klang](/id/cost-of-living/cost-of-living-east-malaysia/)
+- [Biaya Hidup Johor Bahru](/id/cost-of-living/cost-of-living-johor-bahru/)
+- [Mengapa Kuala Lumpur Menjadi Tempat Paling Mahal untuk Didiami di Malaysia](/id/cost-of-living/cost-of-living-kuala-lumpur/)
+- [Biaya Hidup Pulau Pinang Terbelah di Selat](/id/cost-of-living/cost-of-living-penang/)
+- [Ke Mana Ringgit Pengeluaran Rumah Tangga Malaysia Sebenarnya Pergi Setiap Bulan](/id/cost-of-living/household-spending-breakdown/)
+- [Apakah Malaysia Terjangkau untuk Ekspatriat? Apa yang Sebenarnya Ditunjukkan oleh Angka Resmi](/id/cost-of-living/is-malaysia-affordable-for-expats/)
+- [Posisi Malaysia dalam Indeks Biaya Hidup Global](/id/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [Gaji Minimum vs Pendapatan Median](/id/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/id/cost-of-living/padu-central-database/)
+- [Bagaimana Malaysia Mengendalikan Pencatutan Harga](/id/cost-of-living/price-control-anti-profiteering-act/)
+
 ## Apa selanjutnya
 
 - Untuk bagaimana gaji individu menandingi angka rumah tangga ini:

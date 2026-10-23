@@ -175,3 +175,5 @@ Bagi kebanyakan pengeksport Malaysia, jawapan praktikalnya adalah berlapis: MSPO
 - **Sahkan anda berada pada MS 2530:2022.** Permohonan baharu dan persijilan semula dinilai terhadap standard yang disemak semula, bukan versi 2013 — semak edisi sijil dan kitaran audit anda dengan badan persijilan anda.
 - **Sahkan status pengeluar secara langsung.** Untuk MSPO, semak rekod persijilan awam MPOCC; untuk RSPO, gunakan pangkalan data ahli dan persijilan RSPO dan bukannya bergantung pada kata-kata pembekal.
 - **Anggap pematuhan buruh sebagai pematuhan perdagangan.** Episod WRO AS menunjukkan bahawa dokumentasi kebajikan pekerja kini merupakan isu akses pasaran, bukan sekadar isu HR.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

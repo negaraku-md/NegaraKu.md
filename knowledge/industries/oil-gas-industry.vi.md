@@ -235,3 +235,5 @@ Nếu bạn đang nghiên cứu sâu hơn, các bước tiếp theo có giá tr�
 - Theo dõi **Báo cáo Tích hợp PETRONAS** hằng năm và **thống kê dầu khí hằng quý của DOSM** để biết các con số sản lượng, xuất khẩu và đóng góp mới nhất.
 
 Những nguồn gốc đó sẽ giữ bạn cập nhật khi các con số thay đổi — nhưng kiến trúc nền tảng, một chủ sở hữu cấp phép cho nhiều nhà thầu theo các điều khoản chia sẻ sản lượng, đã vững vàng kể từ năm 1974 và không có dấu hiệu thay đổi.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

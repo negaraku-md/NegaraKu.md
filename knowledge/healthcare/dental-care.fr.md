@@ -129,3 +129,5 @@ Les dentistes en exercice — qu'ils relèvent du secteur public ou privé — s
 ## La suite
 
 Pour d'autres informations liées aux soins de santé en Malaisie — des établissements hospitaliers publics à l'assurance santé privée — parcourez la catégorie [Santé](/fr/healthcare). Pour celles et ceux qui souhaitent trouver une clinique dentaire publique proche, le service officiel de recherche est accessible via le portail [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan).
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

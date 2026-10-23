@@ -154,3 +154,5 @@ RM1,700という水準は、2024年の個人賃金中央値RM2,793の約61%に�
   [『2024年世帯所得調査報告書』](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   と
   [『2024年給与・賃金調査報告書』](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024)。
+
+詳しくは全体ガイドをご覧ください：[公式統計で見るマレーシアの生活費](/ja/cost-of-living/cost-of-living-overview/)。

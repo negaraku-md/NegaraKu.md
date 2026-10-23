@@ -245,6 +245,27 @@ KPKは、主に輸出向けに栽培される産業用商品を監督する。�
 
 **「農業の数字は固定されている」。** ここに挙げた数字の大半（収量、価格、生産量、SSR）は毎年見直され、天候、世界価格、植え替えサイクルによって変動する。最新のデータについては、DOSM、MPOB、各省の最新の発表を参照すること。
 
+## このトピックを詳しく見る
+
+この分野の主要ガイド:
+
+- [稲作農家向け農業補助金と農場投入支援](/ja/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNASとマレーシアの米輸入独占](/ja/agriculture/bernas-rice-import-monopoly/)
+- [マレーシア漁業局（DOF）](/ja/agriculture/department-of-fisheries-malaysia/)
+- [マレーシアのドリアンと熱帯果物の輸出貿易](/ja/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/ja/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRAとRISDA](/ja/agriculture/felcra-risda-smallholder-agencies/)
+- [連邦土地開発庁（FELDA）](/ja/agriculture/felda-land-settlement-scheme/)
+- [FGVホールディングス](/ja/agriculture/fgv-holdings-plantation-restructuring/)
+- [マレーシアの食料安全保障政策と自給率水準目標](/ja/agriculture/food-security-self-sufficiency-policy/)
+- [マレーシアの畜産・家禽産業](/ja/agriculture/livestock-poultry-industry/)
+- [マレーシア漁業](/ja/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/ja/agriculture/mardi-agricultural-research-institute/)
+- [農業・食料安全保障省（KPKM）及びその傘下機関](/ja/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [アブラヤシ小規模農家とMSPO持続可能性認証](/ja/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [マレーシアの稲作と米産業](/ja/agriculture/padi-and-rice-industry/)
+- [マレーシアの稲・米産業](/ja/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## 次のステップ
 
 - 最大の輸出商品について、[マレーシアのパーム油部門の概観](/ja/economy/palm-oil-sector)——その規模、機関、持続可能性認証——を深く掘り下げる。

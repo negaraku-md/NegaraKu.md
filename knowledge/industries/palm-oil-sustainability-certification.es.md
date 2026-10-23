@@ -175,3 +175,5 @@ Para la mayoría de los exportadores malasios la respuesta práctica es por capa
 - **Confirme que está en la MS 2530:2022.** Las nuevas solicitudes y recertificaciones se evalúan según la norma revisada, no la versión de 2013 — compruebe la edición de su certificado y su ciclo de auditoría con su organismo de certificación.
 - **Verifique el estatus de un productor directamente.** Para la MSPO, consulte los registros públicos de certificación del MPOCC; para la RSPO, use la base de datos de miembros y certificaciones de la RSPO en lugar de fiarse de la palabra de un proveedor.
 - **Trate el cumplimiento laboral como cumplimiento comercial.** El episodio de la WRO estadounidense muestra que la documentación de bienestar de los trabajadores es ahora una cuestión de acceso al mercado, no solo de recursos humanos.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

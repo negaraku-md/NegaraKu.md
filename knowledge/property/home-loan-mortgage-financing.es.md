@@ -192,3 +192,5 @@ Para los compradores de primera vivienda, en el Presupuesto 2026 el gobierno amp
 - Compare las opciones de MRTA y MLTA de más de un proveedor antes de comprometerse.
 
 *Este artículo es información general, no asesoramiento financiero. Consulte a un banco, abogado inmobiliario o asesor autorizado para su situación específica.*
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

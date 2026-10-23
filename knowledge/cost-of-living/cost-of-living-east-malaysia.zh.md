@@ -182,3 +182,5 @@ Kehidupan Wajar，PAKW）指数**——即在某个州属过上合理生活所�
   [Cost of Living Indicators 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024)，
   以及KPDN的
   [Controlled Items / PPHSSL page](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items)。
+
+查看完整指南：[马来西亚生活成本](/zh/cost-of-living/cost-of-living-overview/)。

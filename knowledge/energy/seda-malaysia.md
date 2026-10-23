@@ -149,3 +149,5 @@ Landskap ini berubah pantas. NEM telah menyerahkan tempat kepada Solar ATAP, dan
 - Jika anda pengguna komersial, bandingkan kadar kredit eksport (SMP berbanding tarif runcit) sebelum menandatangani kontrak 10 tahun.
 
 Artikel ini ialah draf terjana AI berdasarkan sumber rasmi SEDA dan TNB; sahkan angka kritikal terhadap dokumen rasmi sebelum bertindak.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

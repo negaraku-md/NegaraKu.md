@@ -130,3 +130,5 @@ DOSM की अपनी प्रकाशित रिलीज़ अपन�
 - पूरी श्रेणी तालिकाओं और राज्य-स्तरीय विभाजनों के लिए प्राथमिक रिलीज़ को सीधे
   [DOSM की घरेलू व्यय सर्वेक्षण रिपोर्ट 2024](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   पर देखें।
+
+पूरी गाइड देखें: [मलेशिया में रहन-सहन की लागत, आधिकारिक आँकड़ों के अनुसार](/hi/cost-of-living/cost-of-living-overview/)।

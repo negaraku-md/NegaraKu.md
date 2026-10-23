@@ -211,3 +211,5 @@ Pour les cas d'entrée anticipée ou de report, entamez la demande auprès du Bu
 de l'éducation de district (PPD) ou du Département de l'éducation de l'État (JPN)
 où votre enfant fréquente l'école, car ces deux procédures sont approuvées à ce
 niveau, et non par le système idMe habituel.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

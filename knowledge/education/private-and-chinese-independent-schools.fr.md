@@ -186,3 +186,5 @@ duquel coexistent ces écoles, voir [inscrire un enfant dans une école publique
 pour savoir ce qu'il advient des examens après la Form Five dans les deux cas,
 voir [de l'UPSR au SPM](/fr/education/upsr-to-spm-exams) ; et pour savoir entre
 quoi choisit réellement ensuite un diplômé de l'UEC ou du SPM, voir [universités publiques et privées](/fr/education/public-vs-private-universities).
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

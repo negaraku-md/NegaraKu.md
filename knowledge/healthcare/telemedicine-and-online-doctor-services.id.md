@@ -105,3 +105,5 @@ Itulah sebabnya pedoman ini mewajibkan dokter mengesahkan dan mencatat identitas
 ## Apa selanjutnya
 
 Jika Anda menggunakan layanan dokter daring, pastikan platform tersebut menyebut dokter terdaftar di Malaysia serta mengeluarkan rekam dan resep yang sepatutnya. Anggap telekonsultasi sebagai paling sesuai untuk tindak lanjut, resep ulang, dan masalah kecil — dan harapkan dokter yang baik akan mengirim Anda secara tatap muka begitu layar tidak lagi memadai. Perhatikan juga bahwa kerangka kerja ini bersandar pada pedoman, bukan statuta, jadi aturan mungkin diperketat seandainya Malaysia menyusun perundang-undangan telemedisin khusus di masa depan.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

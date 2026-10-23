@@ -116,3 +116,5 @@ Tính đến tháng 1 năm 2025, Bộ Y tế nhận được 18.802 đơn, với
 ## Tiếp theo
 
 Nếu bạn là một người hành nghề, hãy kiểm tra xem lĩnh vực của bạn có thuộc bảy lĩnh vực được công nhận hay không, rồi nộp đơn đăng ký qua Hội đồng PT&K, Cục Y học Cổ truyền và Bổ sung, Bộ Y tế Malaysia. Nếu bạn là một người dùng, hãy yêu cầu xem chứng chỉ đăng ký của người hành nghề trước khi nhận điều trị — nó nay trở thành dấu hiệu của một người hành nghề hợp pháp theo pháp luật.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

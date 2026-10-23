@@ -137,6 +137,33 @@ Pembeli — bukan penjual — ialah pihak yang bertanggungjawab dari segi undang
 - **Mengelirukan peranan peguam SPA dengan peranan peguam bank.** Peguamcara bank dilantik untuk melindungi gadaian bank, bukan untuk merunding terma SPA pembeli.
 - **Memetik ambang pengecualian duti setem daripada catatan blog seolah-olah ia kekal.** Perintah pengecualian adalah suratcara perundangan yang mempunyai tarikh mula dan tamat masing-masing — sahkan yang sedang berkuat kuasa sebelum membuat belanjawan berdasarkannya.
 
+## Terokai topik ini dengan lebih mendalam
+
+Panduan utama dalam bidang ini:
+
+- [Skim Rumah Mampu Milik Kerajaan (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/property/affordable-housing-schemes/)
+- [Cukai Pintu dan Cukai Tanah](/property/assessment-and-quit-rent/)
+- [Kehidupan Kondominium di Malaysia](/property/condo-living-maintenance-fees/)
+- [Akaun Elektrik TNB, SESB dan Sarawak Energy](/property/electricity-tnb-account/)
+- [Mencari Sewaan di Malaysia](/property/finding-a-rental/)
+- [Bolehkah Warga Asing Membeli Hartanah di Malaysia? Harga Minimum dan Kebenaran Negeri Dihuraikan](/property/foreigners-buying-property/)
+- [Freehold, Leasehold, Strata, Landed](/property/freehold-leasehold-strata-landed/)
+- [Gas Supply at Home](/property/gas-supply-piped-cooking-gas/)
+- [Komuniti Berpagar dan Kejiranan Berpengawal di Malaysia](/property/gated-communities-and-security/)
+- [Pinjaman Perumahan dan Pembiayaan Gadai Janji di Malaysia](/property/home-loan-mortgage-financing/)
+- [Perlindungan Pembeli Rumah](/property/homebuyer-protection-abandoned-projects/)
+- [IWK Bukan Syarikat Air](/property/indah-water-sewerage/)
+- [Jalur Lebar Fibre Rumah di Malaysia](/property/internet-and-fibre/)
+- [Bekerja Dengan Ejen Hartanah](/property/property-agents-and-fees/)
+- [Membeli Hartanah di Lelongan (Bank Lelong)](/property/property-auctions-foreclosure/)
+- [Pewarisan Harta](/property/property-inheritance-faraid-distribution/)
+- [Cukai Keuntungan Harta Tanah (RPGT) Semasa Menjual Hartanah](/property/real-property-gains-tax/)
+- [Kelulusan Ubah Suai Rumah dan Sijil Perakuan Siap dan Pematuhan (CCC)](/property/renovation-permits-and-ccc/)
+- [Menyewa di Malaysia Tiada Akta Sewaan](/property/renting-a-home-tenancy/)
+- [Sampah, Kitar Semula dan Majlis Tempatan](/property/rubbish-and-local-council/)
+- [Tadbir Urus Hartanah Strata](/property/strata-management-jmb-mc/)
+- [Bekalan Air Malaysia](/property/water-supply/)
+
 ## Apa yang seterusnya
 
 Untuk memahami apa yang sebenarnya dijanjikan oleh hak milik yang bakal anda terima — hak milik bebas berbanding pajakan, dan strata berbanding bertanah — lihat [Hak Milik Bebas, Pajakan, Strata, Bertanah](/property/freehold-leasehold-strata-landed). Untuk akta di sebalik Memorandum Pindah Milik dan Gadaian yang menjadikan pendaftaran di Pejabat Tanah berfungsi, lihat [Kanun Tanah Negara 1965](/law/national-land-code).

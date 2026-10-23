@@ -205,3 +205,5 @@ Malaysia](/en/settling-in/moving-to-malaysia-first-steps) for the other
 related requirements. For those who also need to set up a mobile line at
 the new premises, see the [prepaid and postpaid SIM
 guide](/en/money-daily-life/mobile-sim-plans).
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

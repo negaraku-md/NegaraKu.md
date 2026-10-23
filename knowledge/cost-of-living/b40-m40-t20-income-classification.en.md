@@ -109,3 +109,5 @@ Because it keeps changing. The B40/M40/T20 ringgit boundaries are recalculated e
 - **For your exact position:** refer to the full 2024 Household Income Survey report on the DOSM portal, which lists the latest cut-off values.
 - **For aid checks:** remember that most schemes assess the income of the entire household, not one person's salary.
 - **For fair comparison:** weigh the local cost of living — the same label means different things in a big city versus a rural area.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

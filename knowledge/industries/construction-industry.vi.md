@@ -224,3 +224,5 @@ Nếu bạn lên kế hoạch gia nhập hoặc phát triển trong ngành này,
 Để hiểu khung pháp lý làm nền cho tất cả những điều này, hãy đọc thêm về **Act 520** và vai trò của **CIDB** với tư cách cơ quan quản lý chính. Cả hai giải thích quyền lực đằng sau hệ thống cấp và các điều kiện đăng ký được thảo luận ở đây.
 
 Các con số và điều kiện trong bài viết này được lấy từ các ấn phẩm chính thức của CIDB và Cục Thống kê Malaysia. Mức phí, giới hạn cấp và các điều kiện về vốn có thể được sửa đổi theo thời gian — hãy luôn xác nhận các chi tiết mới nhất trực tiếp với CIDB trước khi ra quyết định đăng ký hoặc đấu thầu.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

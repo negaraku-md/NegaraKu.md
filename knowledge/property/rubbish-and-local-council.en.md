@@ -135,3 +135,5 @@ The national recycling rate — the ratio of solid waste recycled against the to
 ## What's next
 
 If you have just moved and are not yet sure who handles rubbish collection in your rental area, that question is closely tied to the process of [finding a rental in Malaysia](/en/property/finding-a-rental) — your landlord or agent can usually confirm the collection schedule and whether the area falls under Act 672. To understand where local councils sit within Malaysia's overall government structure — including why councillors are appointed rather than elected — see [the three tiers of Malaysian government](/en/government/three-tiers-of-government).
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

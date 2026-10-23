@@ -136,3 +136,5 @@ Kedua pajak ini adalah contoh konkret bagaimana kekuasaan pemerintah negeri dan 
 - [Tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government) — bagaimana federal, negeri dan daerah berbeda kekuasaan
 - [Pembagian kekuasaan federal-negeri](/id/government/federal-state-division) — mengapa tanah termasuk dalam daftar kekuasaan negeri
 - [Dewan Undangan Negeri (DUN)](/id/government/state-assemblies-dun) — badan yang meluluskan undang-undang pertanahan negeri
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

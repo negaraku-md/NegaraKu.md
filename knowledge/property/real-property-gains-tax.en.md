@@ -165,3 +165,5 @@ Failure to file within the time frame can lead to penalties. Late payment, too, 
 Before signing the SPA to sell, estimate your RPGT first — especially if you have held the property for less than five years, where the 30% rate can swallow a large part of the gain. Keep every relevant receipt: purchase legal fees, stamp duty, agent commission and renovation bills, because each one reduces your chargeable gain.
 
 If you plan to sell your only residence, consider whether to save the once-in-a-lifetime exemption for a disposal with a larger gain. For cases involving companies, foreigners, family transfers or specific exemptions, consult a property lawyer or tax adviser, and confirm the latest rates and procedures on the official LHDN website (hasil.gov.my) before filing.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

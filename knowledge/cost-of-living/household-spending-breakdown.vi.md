@@ -102,3 +102,5 @@ Bản phát hành được công bố của chính DOSM không tách ra một t�
 - Đọc nửa lạm phát của bức tranh: [Tỷ lệ lạm phát của Malaysia và CPI thực sự đo lường điều gì](/vi/economy/inflation-cpi)
 - Làm quen với cơ quan đứng sau khảo sát: [DOSM](/vi/government/dosm)
 - Tham khảo trực tiếp bản phát hành sơ cấp tại [Báo cáo Khảo sát Chi tiêu Hộ gia đình 2024 của DOSM](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states) để có các bảng nhóm đầy đủ và phần phân tích cấp tiểu bang.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

@@ -170,3 +170,5 @@ keywords: ["padi", "rice industry Malaysia", "rice self-sufficiency level Malays
 - **追踪年度 SSL**，见 DOSM 供应与利用账户及部门的声明——它是判断进口缺口是否正在缩小的唯一标志性指标。
 - **关注 2031 年 BERNAS 检讨**，它将决定唯一进口商特许权是续期、重组还是开放，以及其所资助的社会义务将何去何从。
 - **核实剩余数字**，即 *verificationNeeded* 中标记的项目——确切的稻田种植面积与产量吨数，以及注册农民人数——在将其作为定论引用之前，应对照 DOSM 与 KPKM 的原始来源加以确认。
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

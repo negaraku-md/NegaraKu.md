@@ -167,3 +167,5 @@ RM1,700이 먼저 2025년 2월 1일부터 대규모 고용주에게, 이어 2025
 [조호르바루에서 사업하기](/ko/business/doing-business-johor-bahru)에서 실제로
 무엇을 마주하는지입니다. 이 도시가 속한 주 단위 그림은 [조호르](/ko/states/johor)
 개요를 참고하십시오.
+
+전체 가이드 보기: [공식 수치로 본 말레이시아의 생활비](/ko/cost-of-living/cost-of-living-overview/).

@@ -231,3 +231,5 @@ Sau đó cân nhắc ba điều ngoài tên cảng: sức mạnh của **nhà gi
 Các cảng của Malaysia đã thắng cuộc chơi khối lượng; cuộc tranh giành khó hơn bây giờ là giá trị. Hãy theo dõi ba tín hiệu trong những năm tới. Thứ nhất, liệu công suất Westports 2 và đảo Carey có thực sự thành hiện thực đúng tiến độ hay không, vì vị thế dẫn đầu trung chuyển phụ thuộc vào việc có bến trống khi các siêu tàu đến. Thứ hai, liệu cầu đường bộ ECRL có chứng tỏ là có thật về mặt thương mại hay không — một tuyến đường sắt hoàn thành không giống với việc hàng hóa chọn băng qua bán đảo bằng tàu hỏa thay vì đi vòng quanh nó. Thứ ba, liệu Malaysia có tiếp tục leo lên Chỉ số Hiệu suất Logistics hay không, phép thử chân thực nhất về việc liệu đất nước có đang trở thành một nơi quản lý thương mại chứ không chỉ đơn thuần chuyển tiếp nó.
 
 Để có cái nhìn sâu hơn về các tài sản riêng lẻ đằng sau những con số này, hãy xem các mục đồng hành về Port Klang, Port of Tanjung Pelepas, và Eo biển Malacca — tuyến hàng hải đã khiến tất cả điều đó trở nên khả thi.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

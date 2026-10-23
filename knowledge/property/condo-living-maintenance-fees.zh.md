@@ -119,3 +119,5 @@ JMB负责管理大厦——征收费用、维护公共财产、执行内部规�
 ## 下一步
 
 如需查阅逐条逐节的完整细节，可到总检察署（Attorney General's Chambers）网站阅读该法令原文；若想知道自己所在的项目目前仍由JMB管理还是已有MC，直接向管理处查询即可；如果你是租客而非业主，可参阅[在马来西亚寻找租屋](/zh/property/finding-a-rental)，了解这类建筑最初是如何被展示和出租的。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

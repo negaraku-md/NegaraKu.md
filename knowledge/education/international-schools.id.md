@@ -181,3 +181,5 @@ Ini adalah pajak yang diletakkan di atas biaya sekolah itu sendiri, bukan peruba
 ## Apa yang selanjutnya
 
 Untuk aspek imigrasi membawa keluarga ke Malaysia untuk pertama kalinya — termasuk bagaimana anak-anak pekerja asing disponsori untuk mengikutinya — lihat [Pas Tanggungan atau Pas Lawatan Sosial Jangka Panjang](/id/settling-in/dependant-social-visit-passes). Jika sekolah pemerintah Malaysia juga berada dalam daftar pendek perbandingan Anda, lihat [Mendaftar ke Sekolah Pemerintah](/id/education/enrolling-in-a-government-school). Untuk cara perusahaan di balik sebuah sekolah didaftarkan untuk pertama kalinya, lihat [SSM — Komisi Perusahaan Malaysia](/id/government/ssm). Dan untuk pajak yang kini terletak di atas biaya sekolah yang lebih tinggi, lihat [Perluasan Pajak Jasa 1 Juli 2025, Menurut Sektor](/id/taxation/sst-expansion-2025).
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

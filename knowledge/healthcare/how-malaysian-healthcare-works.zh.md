@@ -151,6 +151,40 @@ faq:
 - **雇主以为 SPIKPA 是可选项，或是一次性购买。** 它是与每一次工作准证更新周期挂钩的持续性要求，而不是雇用时购买一次即可的保单。
 - **游客以为旅游保险与本地计划可以互相替代。** PeKa B40、MySalam 或公民收费表，没有一项适用于访客；出发前购买的旅游／医疗保险，是唯一实际可用的安全网。
 
+## 深入了解本主题
+
+本领域的重点指南：
+
+- [马来西亚堕胎法律](/zh/healthcare/abortion-law-in-malaysia/)
+- [他真的是医生吗？如何核实马来西亚医生与医疗专业人员的注册资格](/zh/healthcare/allied-health-and-medical-practitioner-registration/)
+- [马来西亚献血指南](/zh/healthcare/blood-donation-and-national-blood-centre/)
+- [药剂柜台背后](/zh/healthcare/buying-medicine-pharmacies/)
+- [免费疫苗惠及每个孩子](/zh/healthcare/childhood-vaccination/)
+- [马来西亚新冠疫情](/zh/healthcare/covid-19-pandemic-response-and-legacy/)
+- [政府牙科诊所或私人牙科诊所？了解马来西亚两套牙科护理体系](/zh/healthcare/dental-care/)
+- [糖尿病、肥胖与非传染性疾病](/zh/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [马来西亚残障人士（OKU）医疗保健服务的获取途径](/zh/healthcare/disability-and-oku-healthcare-access/)
+- [马来西亚医疗紧急事故](/zh/healthcare/emergencies-999/)
+- [马来西亚政府医院](/zh/healthcare/government-hospitals/)
+- [疫苗与药物的清真地位](/zh/healthcare/halal-status-of-vaccines-and-medicines/)
+- [在马来西亚生孩子](/zh/healthcare/having-a-baby-in-malaysia/)
+- [医疗卫生白皮书](/zh/healthcare/health-white-paper-and-system-reform/)
+- [当父母无法再独自应付生活](/zh/healthcare/healthcare-for-seniors/)
+- [马来西亚的艾滋病毒/艾滋病与性健康服务](/zh/healthcare/hiv-aids-and-sexual-health-services/)
+- [健康诊所（Klinik Kesihatan）](/zh/healthcare/klinik-kesihatan/)
+- [马来西亚医疗保险](/zh/healthcare/medical-insurance/)
+- [马来西亚不动声色的医疗旅游热潮，及其背后的机构](/zh/healthcare/medical-tourism/)
+- [在马来西亚哪里能获得心理健康援助](/zh/healthcare/mental-health-services/)
+- [MySejahtera 与马来西亚数字健康推进计划](/zh/healthcare/mysejahtera-and-digital-health-records/)
+- [马来西亚器官捐赠](/zh/healthcare/organ-donation-and-transplant-registry/)
+- [马来西亚的舒缓治疗与临终关怀](/zh/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/zh/healthcare/peka-b40-and-health-schemes/)
+- [一次住院，两份账单](/zh/healthcare/private-hospitals-and-costs/)
+- [马来西亚公共医疗体系](/zh/healthcare/public-healthcare-system-malaysia/)
+- [852号法令](/zh/healthcare/smoking-and-vaping-law-act-852/)
+- [马来西亚远程医疗](/zh/healthcare/telemedicine-and-online-doctor-services/)
+- [传统与辅助医学](/zh/healthcare/traditional-and-complementary-medicine/)
+
 ## 下一步
 
 关于专门为马来西亚雇员提供工伤与伤残保障的社会保险计划——一套与上文所述完全不同的机制——请参阅 [PERKESO（SOCSO）](/zh/glossary/socso-perkeso)。至于负责经营与监管本页所述一切事务的部门，请在其实体页面发布后参阅马来西亚卫生部（Kementerian Kesihatan Malaysia，KKM）。

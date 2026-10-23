@@ -246,6 +246,27 @@ Ketika Anda menemukan sebuah berita atau angka pertanian, tiga pertanyaan ini bi
 
 **"Angka pertanian itu tetap."** Kebanyakan angka di sini (hasil, harga, produksi, SSR) ditinjau setiap tahun dan bergerak dengan cuaca, harga global dan siklus peremajaan tanaman. Rujuk rilis terkini DOSM, MPOB dan kementerian untuk data terkini.
 
+## Jelajahi topik ini lebih dalam
+
+Panduan utama di bidang ini:
+
+- [Subsidi Pertanian dan Bantuan Input Ladang untuk Petani Padi](/id/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS dan Monopoli Impor Beras Malaysia](/id/agriculture/bernas-rice-import-monopoly/)
+- [Departemen Perikanan Malaysia (DOF)](/id/agriculture/department-of-fisheries-malaysia/)
+- [Perdagangan Ekspor Durian dan Buah-buahan Tropis Malaysia](/id/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/id/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA dan RISDA](/id/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/id/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/id/agriculture/fgv-holdings-plantation-restructuring/)
+- [Kebijakan Ketahanan Pangan Malaysia dan Target Tingkat Swasembada](/id/agriculture/food-security-self-sufficiency-policy/)
+- [Industri Peternakan dan Unggas Malaysia](/id/agriculture/livestock-poultry-industry/)
+- [Industri Perikanan Malaysia](/id/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/id/agriculture/mardi-agricultural-research-institute/)
+- [Kementerian Pertanian dan Ketahanan Pangan (KPKM) dan Lembaganya](/id/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [Pekebun Kecil Kelapa Sawit dan Sertifikasi Keberlanjutan MSPO](/id/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [Padi dan Beras di Malaysia](/id/agriculture/padi-and-rice-industry/)
+- [Industri Padi dan Beras Malaysia](/id/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## Langkah selanjutnya
 
 - Dalami komoditas ekspor terbesar dalam [gambaran sektor minyak sawit Malaysia](/id/economy/palm-oil-sector) — skala, institusi dan sertifikasi keberlanjutannya.

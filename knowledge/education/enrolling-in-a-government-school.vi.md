@@ -124,3 +124,5 @@ Hai chính sách vận hành riêng biệt của KPM tồn tại cụ thể cho 
 ## Tiếp theo
 
 Nếu con bạn sắp vào Lớp 1, hãy kiểm tra ngày mở và nhóm tuổi chính thức của năm học hiện tại trực tiếp tại idme.moe.gov.my hoặc moe.gov.my trước khi chuẩn bị giấy tờ. Nếu con đã ở Lớp 6 và sắp lên Khối 1, hãy liên hệ với giáo viên chủ nhiệm của con để điền BPPS — không phải tìm một cổng đăng ký tự làm. Đối với các trường hợp nhập học sớm hoặc hoãn nhập học, hãy bắt đầu đơn tại Phòng Giáo dục Huyện (Pejabat Pendidikan Daerah, PPD) hoặc Sở Giáo dục Bang (Jabatan Pendidikan Negeri, JPN) nơi con đi học, vì cả hai quy trình này được phê duyệt ở cấp đó, không qua hệ thống idMe thông thường.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

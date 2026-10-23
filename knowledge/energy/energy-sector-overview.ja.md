@@ -252,6 +252,27 @@ RP4の主な特徴：
 - **「エネルギー委員会が全国を規制している。」** STの規制範囲は半島マレーシア及びラブアンであり、サバとサラワクはそれぞれ独自の体制を有している。
 - **「70%再生可能エネルギー目標は、国のすべてのエネルギーの70%を意味する。」** NETRのこの目標は、電力構成（発電）における再生可能エネルギー設備容量を指しており、輸送や産業を含むエネルギーシステム全体を指すものではない。
 
+## このトピックを詳しく見る
+
+この分野の主要ガイド:
+
+- [電力供給産業改革](/ja/energy/electricity-supply-industry-reform-mesi/)
+- [マレーシアの電気料金体系の仕組み](/ja/energy/electricity-tariff-structure/)
+- [エネルギー委員会（Suruhanjaya Tenaga）](/ja/energy/energy-commission-suruhanjaya-tenaga/)
+- [2024年エネルギー効率・保全法（Energy Efficiency and Conservation Act 2024、Act 861）](/ja/energy/energy-efficiency-conservation-act/)
+- [マレーシアは週ごとの燃料価格をどのように決定しているか](/ja/energy/fuel-pricing-mechanism/)
+- [マレーシアの燃料補助金制度](/ja/energy/fuel-subsidy-system/)
+- [マレーシアの水素と炭素回収・利用・貯留（CCUS）](/ja/energy/hydrogen-ccus-malaysia/)
+- [マレーシアの水力発電](/ja/energy/hydropower-malaysia/)
+- [国家エネルギー転換ロードマップ（NETR）](/ja/energy/national-energy-transition-roadmap-netr/)
+- [マレーシアの天然ガスとLNG](/ja/energy/natural-gas-lng-malaysia/)
+- [1974年石油開発法](/ja/energy/petroleum-development-act-1974/)
+- [マレーシアの再生可能エネルギー](/ja/energy/renewable-energy-in-malaysia/)
+- [サラワク・エナジー（Sarawak Energy Berhad、SEB）](/ja/energy/sarawak-energy-berhad/)
+- [Petrosとサラワクのガス紛争](/ja/energy/sarawak-petros-gas-dispute/)
+- [SEDAマレーシア](/ja/energy/seda-malaysia/)
+- [マレーシアの太陽光発電](/ja/energy/solar-energy-malaysia/)
+
 ## 次のステップ
 
 あなたが消費者であれば、最も実践的な一歩は、新しいRP4電気料金の請求書（四つの構成要素）を理解し、BUDI95補助金の資格を確認することである。請求額を節約したい住宅所有者であれば、屋上太陽光のためのSEDAのNEM制度を検討するとよい。

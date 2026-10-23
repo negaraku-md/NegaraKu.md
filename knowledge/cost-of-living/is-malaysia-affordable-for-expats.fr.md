@@ -169,3 +169,5 @@ Pour la version au niveau de la ville de cette question, consultez
 Pour comprendre comment le chiffre d'inflation sous-jacent est réellement construit,
 consultez
 [Le taux d'inflation de la Malaisie et ce que l'IPC mesure réellement](/fr/economy/inflation-cpi).
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

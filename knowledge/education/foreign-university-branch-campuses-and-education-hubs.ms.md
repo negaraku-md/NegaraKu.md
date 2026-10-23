@@ -180,3 +180,5 @@ Jika anda memilih antara kampus-kampus ini, beberapa perbezaan praktikal lebih p
 Model kampus cawangan ialah kejayaan kejuruteraan hab pendidikan Malaysia yang paling berjaya, dan pelan pembangunan 2026-2035 ialah satu pertaruhan bahawa ia boleh diperbesarkan lima kali ganda. Sama ada pertaruhan itu berbaloi bergantung kurang kepada menambah logo dan lebih kepada menukar daya tarikan serantau negara yang jelas — kelayakan Barat dan China berharga bernilai, suasana pelbagai budaya yang stabil, kedekatan dengan pasaran Asia yang berkembang pesat — menjadi jangkauan global yang berterusan.
 
 Untuk konteks yang lebih mendalam, lihat artikel pendamping tentang pelajar antarabangsa di Malaysia dan koridor ekonomi Iskandar Malaysia yang menjadi tapak EduCity. Angka di sini diambil daripada sumber institusi dan dasar yang terkini sehingga 2026; data pendaftaran dan sasaran pelan pembangunan disemak secara berkala, jadi sahkan angka terkini dengan Kementerian Pendidikan Tinggi dan setiap institusi sebelum membuat keputusan.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

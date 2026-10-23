@@ -152,6 +152,40 @@ Không có một câu trả lời duy nhất cho câu hỏi "một người nư�
 - **Người sử dụng lao động cho rằng SPIKPA là tùy chọn hoặc là một lần mua duy nhất.** Đó là một yêu cầu định kỳ gắn với mỗi chu kỳ gia hạn giấy phép lao động, không phải một hợp đồng một lần mua khi tuyển dụng.
 - **Du khách cho rằng bảo hiểm du lịch và các chương trình địa phương có thể thay thế cho nhau.** Không PeKa B40, MySalam hay biểu phí dành cho công dân nào áp dụng cho một khách đến thăm; bảo hiểm du lịch/y tế mua trước chuyến đi là lưới an toàn thực tế duy nhất.
 
+## Tìm hiểu sâu về chủ đề này
+
+Các hướng dẫn chính trong lĩnh vực này:
+
+- [Luật phá thai tại Malaysia](/vi/healthcare/abortion-law-in-malaysia/)
+- [Người đó có thực sự là bác sĩ không? Cách xác minh việc đăng ký của bác sĩ và chuyên gia y tế tại Malaysia](/vi/healthcare/allied-health-and-medical-practitioner-registration/)
+- [Hiến máu tại Malaysia](/vi/healthcare/blood-donation-and-national-blood-centre/)
+- [Đằng sau quầy dược](/vi/healthcare/buying-medicine-pharmacies/)
+- [Vắc-xin miễn phí cho mọi trẻ em](/vi/healthcare/childhood-vaccination/)
+- [COVID-19 tại Malaysia](/vi/healthcare/covid-19-pandemic-response-and-legacy/)
+- [Phòng khám nha khoa chính phủ hay tư nhân? Hiểu về hai hệ thống chăm sóc răng miệng của Malaysia](/vi/healthcare/dental-care/)
+- [Tiểu đường, béo phì và các bệnh không lây](/vi/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [Tiếp cận dịch vụ chăm sóc sức khỏe cho người khuyết tật (OKU) tại Malaysia](/vi/healthcare/disability-and-oku-healthcare-access/)
+- [Cấp cứu y tế tại Malaysia](/vi/healthcare/emergencies-999/)
+- [Bệnh viện công Malaysia](/vi/healthcare/government-hospitals/)
+- [Tình trạng halal của vắc-xin và thuốc](/vi/healthcare/halal-status-of-vaccines-and-medicines/)
+- [Sinh con tại Malaysia](/vi/healthcare/having-a-baby-in-malaysia/)
+- [Sách Trắng Y tế](/vi/healthcare/health-white-paper-and-system-reform/)
+- [Khi cha mẹ không còn tự lo được một mình](/vi/healthcare/healthcare-for-seniors/)
+- [Dịch vụ HIV/AIDS và sức khỏe tình dục tại Malaysia](/vi/healthcare/hiv-aids-and-sexual-health-services/)
+- [Klinik Kesihatan](/vi/healthcare/klinik-kesihatan/)
+- [Bảo hiểm y tế tại Malaysia](/vi/healthcare/medical-insurance/)
+- [Cơn bùng nổ du lịch y tế thầm lặng của Malaysia, và cơ quan đứng sau nó](/vi/healthcare/medical-tourism/)
+- [Tìm trợ giúp sức khỏe tâm thần ở đâu tại Malaysia](/vi/healthcare/mental-health-services/)
+- [MySejahtera và cú hích y tế số của Malaysia](/vi/healthcare/mysejahtera-and-digital-health-records/)
+- [Hiến tạng tại Malaysia](/vi/healthcare/organ-donation-and-transplant-registry/)
+- [Chăm sóc giảm nhẹ và chăm sóc cuối đời (hospice) tại Malaysia](/vi/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/vi/healthcare/peka-b40-and-health-schemes/)
+- [Hai hóa đơn cho một lần nằm viện](/vi/healthcare/private-hospitals-and-costs/)
+- [Hệ thống y tế công của Malaysia](/vi/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/vi/healthcare/smoking-and-vaping-law-act-852/)
+- [Telemedicine tại Malaysia](/vi/healthcare/telemedicine-and-online-doctor-services/)
+- [Y học cổ truyền và bổ sung](/vi/healthcare/traditional-and-complementary-medicine/)
+
 ## Tiếp theo
 
 Đối với chương trình bảo hiểm xã hội bao phủ riêng cho người lao động Malaysia về thương tật nghề nghiệp và tàn tật — một cơ chế khác với bất cứ điều gì được mô tả ở trên — hãy xem [PERKESO (SOCSO)](/vi/glossary/socso-perkeso). Đối với bộ vận hành và quản lý mọi thứ trên trang này, hãy xem Kementerian Kesihatan Malaysia (KKM) khi trang thực thể đó được công bố.

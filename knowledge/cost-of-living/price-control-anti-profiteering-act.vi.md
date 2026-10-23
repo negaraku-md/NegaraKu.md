@@ -116,3 +116,5 @@ KPDN cũng giới thiệu Máy tính Chống trục lợi kỹ thuật số đ�
 ## Tiếp theo
 
 Nếu bạn là một người kinh doanh, hãy lưu giữ hồ sơ chi phí và giá của bạn vào đầu mỗi năm tài chính — đó là năm cơ sở sẽ được dùng để đánh giá bạn. Nếu bạn là người tiêu dùng nghi ngờ có hành vi trục lợi, có thể nộp khiếu nại đến KPDN. Để có thêm bối cảnh về các loại thuế ảnh hưởng đến giá cả, hãy xem bài viết liên quan của chúng tôi về SST.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

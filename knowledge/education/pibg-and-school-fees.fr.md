@@ -119,3 +119,5 @@ uniquement parce que les parents ne peuvent pas ou ne veulent pas payer une cont
 ## Et ensuite
 
 Si l'école de votre enfant impose un paiement déclaré « obligatoire », demandez à l'école d'en expliquer le fondement et s'il s'agit d'une contribution volontaire ou d'un forfait de paiement supplémentaire convenu. Conservez un reçu pour chaque paiement. Les plaintes concernant les perceptions forcées peuvent être déposées auprès du Département d'éducation de l'État ou du Bureau d'éducation du district. Pour plus de contexte, consultez le guide sur l'inscription de votre enfant dans une école publique et la vue d'ensemble du système éducatif de la Malaisie.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

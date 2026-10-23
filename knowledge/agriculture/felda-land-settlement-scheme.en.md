@@ -160,3 +160,5 @@ To restore the agency's sustainability, the 2019 FELDA White Paper earlier outli
 At the same time, the issuance of land grants to settlers is nearing completion: as of July 2026, **109,104 of 112,638 settlers (96.86%)** had received their land grants.
 
 For settlers and their second generation, sensible practical steps include confirming the status of the family's land grant, understanding the restrictions of the 1960 Act before planning an estate, and following the progress of the amendments under study. Monitor the official FELDA website and government announcements for details of the final amendments.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

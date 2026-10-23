@@ -131,3 +131,5 @@ MARDI's role is upstream: it supplies the high-yielding seed varieties, breeding
 ## What's next
 
 MARDI's trajectory points toward commercialisation and climate-resilient farming — herbicide-tolerant and hybrid rice, biotechnology-assisted breeding, and precision agriculture that feeds programmes like SMART SBB. For anyone tracking Malaysian food security, watch MARDI's variety releases and its collaboration with the ministry on national self-sufficiency targets. For primary detail, the institute's own profile and paddy-and-rice research pages are the most authoritative starting points, and the MARDI Act (Act 11) sets out its statutory mandate.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

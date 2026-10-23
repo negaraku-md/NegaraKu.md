@@ -150,3 +150,5 @@ Cảnh quan này thay đổi nhanh. NEM đã nhường chỗ cho Solar ATAP, và
 - Nếu bạn là người tiêu dùng thương mại, hãy so sánh mức tín dụng xuất (SMP so với biểu giá bán lẻ) trước khi ký một hợp đồng 10 năm.
 
 Bài viết này là một bản thảo được tạo bởi AI dựa trên các nguồn chính thức của SEDA và TNB; hãy xác nhận các con số quan trọng với tài liệu chính thức trước khi hành động.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

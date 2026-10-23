@@ -134,3 +134,5 @@ Cet article ne prend pas parti dans ce débat. Ce qui ressort clairement du doss
 - Les élèves et les parents peuvent comparer les deux voies en termes de localisation, de programme et de dates de candidature avant de choisir.
 
 > Remarque : ceci est un brouillon généré par IA qui nécessite une révision humaine. Les chiffres et les politiques peuvent changer — vérifiez-les auprès des sources officielles de MARA et du MOE avant de prendre toute décision.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

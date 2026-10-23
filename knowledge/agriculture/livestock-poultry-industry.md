@@ -147,3 +147,5 @@ Bagi pembaca yang ingin mendalami topik ini, langkah seterusnya yang berguna:
 - Fahami bahawa sebarang kawalan harga ayam atau telur perlu dibaca bersama kos makanan ternakan global — itulah penentu sebenar sama ada bekalan kekal stabil.
 
 *Artikel ini ialah draf yang dijana dengan bantuan AI dan belum melalui semakan editor manusia. Semua angka dipetik daripada sumber rasmi yang disenaraikan; sahkan angka terkini terus daripada DOSM dan JPV sebelum membuat keputusan.*
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

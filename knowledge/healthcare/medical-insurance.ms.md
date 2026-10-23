@@ -126,3 +126,5 @@ Mudah untuk menganggap potongan berkanun pada slip gaji sudah meliputi bil hospi
 ## Apa yang seterusnya
 
 Jika anda sedang menimbang kos kad perubatan peribadi berbanding slip gaji anda, lihat [Cukai Pendapatan untuk Individu](/money-daily-life/income-tax-individuals) untuk memahami bagaimana pelepasan pendidikan dan insurans perubatan berinteraksi dengan pemfailan tahunan anda. Bagi potongan berkanun yang wujud bersama — tetapi tidak menggantikan — perlindungan perubatan, lihat [EPF dan SOCSO untuk Pekerja](/money-daily-life/epf-socso-employees). Dan jika manfaat perubatan anda datang melalui tawaran pekerjaan, [Kontrak Pekerjaan di Malaysia](/employment/employment-contract-malaysia) menerangkan apa yang majikan wajib dan tidak wajib nyatakan mengenai manfaat yang berkait dengan sesuatu jawatan.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

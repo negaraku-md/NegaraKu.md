@@ -349,6 +349,27 @@ A quick framework for knowing which door to knock on:
   (electricity generation), not the entire energy system including transport and
   industry.
 
+## Explore this topic in depth
+
+The key guides in this area:
+
+- [Electricity Supply Industry Reform](/en/energy/electricity-supply-industry-reform-mesi/)
+- [How Malaysia's Electricity Tariff Structure Works](/en/energy/electricity-tariff-structure/)
+- [The Energy Commission](/en/energy/energy-commission-suruhanjaya-tenaga/)
+- [Energy Efficiency and Conservation Act](/en/energy/energy-efficiency-conservation-act/)
+- [How Malaysia Sets Weekly Fuel Prices](/en/energy/fuel-pricing-mechanism/)
+- [Malaysia's Fuel Subsidy System](/en/energy/fuel-subsidy-system/)
+- [Hydrogen and Carbon Capture (CCUS) in Malaysia](/en/energy/hydrogen-ccus-malaysia/)
+- [Hydropower in Malaysia](/en/energy/hydropower-malaysia/)
+- [The National Energy Transition Roadmap (NETR)](/en/energy/national-energy-transition-roadmap-netr/)
+- [Natural Gas and LNG in Malaysia](/en/energy/natural-gas-lng-malaysia/)
+- [Petroleum Development Act 1974](/en/energy/petroleum-development-act-1974/)
+- [Renewable Energy in Malaysia](/en/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/en/energy/sarawak-energy-berhad/)
+- [Petros and the Sarawak Gas Dispute](/en/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaysia](/en/energy/seda-malaysia/)
+- [Solar Energy in Malaysia](/en/energy/solar-energy-malaysia/)
+
 ## What's next
 
 If you are a consumer, the most practical step is to understand your new RP4

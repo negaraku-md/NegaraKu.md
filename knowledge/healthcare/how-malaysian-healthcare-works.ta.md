@@ -152,6 +152,40 @@ MOH இன் சொந்த Health Facts 2024 அறிக்கையின�
 - **SPIKPA ஒரு விருப்பமானது அல்லது ஒருமுறை கொள்முதல் என்று முதலாளிகள் கருதுதல்.** இது வேலைக்கு அமர்த்தும்போது வாங்கப்படும் ஒருமுறை பாலிசி அல்ல, ஒவ்வொரு வேலை அனுமதிச் சீட்டு புதுப்பித்தல் சுழற்சியுடனும் இணைக்கப்பட்ட ஒரு தொடர்ச்சியான தேவை.
 - **பயண காப்பீடும் உள்ளூர் திட்டங்களும் ஒன்றுக்கொன்று பரிமாறிக்கொள்ளக்கூடியவை என்று சுற்றுலாப் பயணிகள் கருதுதல்.** PeKa B40, MySalam அல்லது குடிமகன் கட்டண அட்டவணை எதுவும் ஒரு பார்வையாளருக்குப் பொருந்தாது; பயணத்திற்கு முன் வாங்கப்பட்ட பயண/மருத்துவ காப்பீடே ஒரே நடைமுறை பாதுகாப்பு வலை.
 
+## இந்தத் தலைப்பை ஆழமாக ஆராயுங்கள்
+
+இந்தத் துறையின் முக்கிய வழிகாட்டிகள்:
+
+- [மலேசியாவில் கருக்கலைப்புச் சட்டம்](/ta/healthcare/abortion-law-in-malaysia/)
+- [அவர் உண்மையிலேயே மருத்துவரா? மலேசியாவில் மருத்துவர்கள் மற்றும் சுகாதார நிபுணர்களின் பதிவை உறுதிசெய்யும் முறை](/ta/healthcare/allied-health-and-medical-practitioner-registration/)
+- [மலேசியாவில் இரத்த தானம்](/ta/healthcare/blood-donation-and-national-blood-centre/)
+- [மருந்தக கவுண்டருக்குப் பின்னால்](/ta/healthcare/buying-medicine-pharmacies/)
+- [ஒவ்வொரு குழந்தைக்கும் இலவச தடுப்பூசி](/ta/healthcare/childhood-vaccination/)
+- [மலேசியாவில் COVID-19](/ta/healthcare/covid-19-pandemic-response-and-legacy/)
+- [அரசு அல்லது தனியார் பல் கிளினிக்? மலேசியாவின் இரு பல் பராமரிப்பு அமைப்புகளைப் புரிந்துகொள்ளுதல்](/ta/healthcare/dental-care/)
+- [நீரிழிவு, உடல் பருமன் மற்றும் தொற்றா நோய்கள்](/ta/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [மலேசியாவில் OKU-க்கான சுகாதாரப் பராமரிப்பு அணுகல்](/ta/healthcare/disability-and-oku-healthcare-access/)
+- [மலேசியாவில் மருத்துவ அவசரநிலைகள்](/ta/healthcare/emergencies-999/)
+- [மலேசியாவின் அரசாங்க மருத்துவமனைகள்](/ta/healthcare/government-hospitals/)
+- [தடுப்பூசிகள் மற்றும் மருந்துகளின் ஹலால் அந்தஸ்து](/ta/healthcare/halal-status-of-vaccines-and-medicines/)
+- [மலேசியாவில் குழந்தை பெறுதல்](/ta/healthcare/having-a-baby-in-malaysia/)
+- [சுகாதார வெள்ளை அறிக்கை](/ta/healthcare/health-white-paper-and-system-reform/)
+- [பெற்றோர் தனியாக சமாளிக்க முடியாத நிலை](/ta/healthcare/healthcare-for-seniors/)
+- [மலேசியாவில் HIV/AIDS மற்றும் பாலியல் சுகாதார சேவைகள்](/ta/healthcare/hiv-aids-and-sexual-health-services/)
+- [Klinik Kesihatan](/ta/healthcare/klinik-kesihatan/)
+- [மலேசியாவில் மருத்துவ காப்பீடு](/ta/healthcare/medical-insurance/)
+- [மலேசியாவின் அமைதியான மருத்துவ சுற்றுலா எழுச்சி, மற்றும் அதற்குப் பின்னால் உள்ள ஏஜென்சி](/ta/healthcare/medical-tourism/)
+- [மலேசியாவில் மனநல உதவியை எங்கே பெறுவது](/ta/healthcare/mental-health-services/)
+- [MySejahtera மற்றும் மலேசியாவின் டிஜிட்டல் சுகாதார முன்னெடுப்பு](/ta/healthcare/mysejahtera-and-digital-health-records/)
+- [மலேசியாவில் உறுப்பு தானம்](/ta/healthcare/organ-donation-and-transplant-registry/)
+- [மலேசியாவில் நோய்த்தணிப்பு (Palliative) மற்றும் ஹாஸ்பிஸ் பராமரிப்பு](/ta/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/ta/healthcare/peka-b40-and-health-schemes/)
+- [ஒரு தங்கலுக்கு இரண்டு பில்கள்](/ta/healthcare/private-hospitals-and-costs/)
+- [மலேசியாவின் பொது சுகாதார அமைப்பு](/ta/healthcare/public-healthcare-system-malaysia/)
+- [Akta 852](/ta/healthcare/smoking-and-vaping-law-act-852/)
+- [மலேசியாவில் தொலைமருத்துவம்](/ta/healthcare/telemedicine-and-online-doctor-services/)
+- [பாரம்பரிய மற்றும் நிரப்பு மருத்துவம்](/ta/healthcare/traditional-and-complementary-medicine/)
+
 ## அடுத்தது என்ன
 
 மலேசிய ஊழியர்களை வேலையிட காயம் மற்றும் இயலாமைக்காக குறிப்பாகப் பாதுகாக்கும் சமூக-காப்பீட்டுத் திட்டத்திற்கு — மேலே விவரிக்கப்பட்ட எதிலிருந்தும் வேறுபட்ட ஒரு பொறிமுறை — [PERKESO (SOCSO)](/ta/glossary/socso-perkeso) ஐப் பார்க்கவும். இப்பக்கத்திலுள்ள அனைத்தையும் நடத்தி ஒழுங்குபடுத்தும் அமைச்சுக்கு, அந்த entity பக்கம் வெளியிடப்பட்டவுடன் Kementerian Kesihatan Malaysia (KKM) ஐப் பார்க்கவும்.

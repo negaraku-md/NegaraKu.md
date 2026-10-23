@@ -159,3 +159,5 @@ Buy only from licensed distributors and make sure the safety seal on the cylinde
 ## What's next
 
 If your home is within Gas Malaysia's coverage area, contact them to confirm coverage for your address, the list of documents and the latest costs before registering. If you use LPG, keep a licensed distributor's number handy and check the hose and regulator as a routine. Ceiling prices and subsidy details are reviewed from time to time by KPDN, so confirm the latest prices with a distributor or official sources before making any major decisions. For a full picture of home utilities, see also the guides on electricity and water supply.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

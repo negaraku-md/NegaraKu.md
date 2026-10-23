@@ -113,3 +113,5 @@ Trong một hợp đồng mua bán thông thường (SPA), bạn thương lượ
 ## Tiếp theo
 
 Hãy lấy Tuyên bố Bán cho thửa cụ thể và đọc mọi điều khoản, đặc biệt là các điều khoản về nợ quá hạn và quyền chiếm hữu trống. Xác nhận đó là phiên đấu giá của Tòa Thượng thẩm hay LACA để bạn biết khoản đặt cọc và hạn chót thực sự áp dụng, và bảo đảm được khoản vay phê duyệt có thể giải ngân trong khung thời gian đó. Đối với các phiên đấu giá của tòa án, hãy đăng ký trước trên nền tảng e-Lelong của Cơ quan Tư pháp, và cân nhắc thuê một luật sư chuyển nhượng bất động sản trước — chứ không phải sau — khi bạn đấu giá. Hãy so sánh giá đã điều chỉnh theo rủi ro với một giao dịch mua thông thường theo một SPA bình thường trước khi cam kết.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

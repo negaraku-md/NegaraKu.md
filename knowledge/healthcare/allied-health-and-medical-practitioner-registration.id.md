@@ -106,3 +106,5 @@ Anda berhak bertanya. Cara paling mudah:
 ## Apa selanjutnya
 
 Mulailah dengan pencarian MeRITS untuk dokter mana pun — ia gratis dan memakan waktu kurang dari semenit. Untuk perawat, farmasi, dan profesi kesehatan bersekutu, hubungi lembaga atau majelis masing-masing melalui portal resmi Kementerian Kesihatan Malaysia untuk verifikasi status. Jika Anda mencurigai seseorang berpraktik tanpa kelayakan atau menghadapi pelanggaran etik profesional, laporkan kepada badan pengatur profesi tersebut, yang memiliki kuasa disiplin di bawah undang-undangnya. Sebagai aturan dasar: jika nama tidak ada dalam daftar, jangan serahkan kesehatan Anda di tangan mereka.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

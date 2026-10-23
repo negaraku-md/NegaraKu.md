@@ -161,3 +161,5 @@ keywords: ["cost of living Kuala Lumpur", "Klang Valley cost of living", "Kuala 
 참고하십시오. 소득 측면에서는
 [개인 소득세](/ko/money-daily-life/income-tax-individuals)가 그 높은 쿠알라룸푸르
 급여가 가구 예산에 닿기 전에 무슨 일이 벌어지는지 설명합니다.
+
+전체 가이드 보기: [공식 수치로 본 말레이시아의 생활비](/ko/cost-of-living/cost-of-living-overview/).

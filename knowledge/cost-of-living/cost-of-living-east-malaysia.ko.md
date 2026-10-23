@@ -194,3 +194,5 @@ DOSM이 실제로 발표하고 주기적으로 갱신하는 것은 **적정 생�
   [2024년 생활비 지표](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024),
   그리고 KPDN의
   [통제 품목 / PPHSSL 페이지](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items).
+
+전체 가이드 보기: [공식 수치로 본 말레이시아의 생활비](/ko/cost-of-living/cost-of-living-overview/).

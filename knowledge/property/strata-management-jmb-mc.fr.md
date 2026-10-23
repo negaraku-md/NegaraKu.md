@@ -156,3 +156,5 @@ Supposons que la MC d'un condominium constate qu'un propriétaire n'a pas payé 
 - Consultez le texte intégral de la loi 757 et les Règlements sur la gestion de la copropriété de 2015, ou contactez le **Commissaire aux bâtiments (COB)** de votre autorité locale pour les questions d'exécution.
 
 *Cet article est une orientation générale, et non un conseil juridique. Les numéros d'article et les chiffres renvoient à la Loi sur la gestion de la copropriété de 2013 (loi 757) et aux règlements connexes ; vérifiez-les par rapport au texte statutaire le plus récent avant d'agir.*
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

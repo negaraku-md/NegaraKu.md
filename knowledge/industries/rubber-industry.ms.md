@@ -172,3 +172,5 @@ Menghadapi tekanan itu, logik strategiknya tidak berubah daripada yang menjadika
 ## Apa seterusnya
 
 Jika anda menyelidik sektor ini, angka langsung yang paling berautoriti ialah keluaran **DOSM Monthly Rubber Statistics**, yang mengemas kini pengeluaran, eksport, stok dan destinasi setiap bulan. Untuk sudut institusi, Lembaga Getah Malaysia menerbitkan panduan pelesenan dan pengawalseliaan, manakala MARGMA menjejaki perdagangan sarung tangan secara khusus. Perhatikan tiga pemboleh ubah khususnya: harga getah asli (yang menentukan sama ada pekebun kecil terus menoreh), campuran nitril berbanding lateks dalam sarung tangan, dan langkah perdagangan AS-China — faktor ayunan yang paling berkemungkinan menggerakkan eksport sarung tangan Malaysia ke mana-mana arah.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

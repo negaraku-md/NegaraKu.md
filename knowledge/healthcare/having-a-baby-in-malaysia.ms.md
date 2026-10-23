@@ -132,3 +132,5 @@ Oleh kerana ini adalah satu proses yang cukup besar tersendiri — dokumen yang 
 ## Apa yang seterusnya
 
 Untuk sistem penjagaan primer awam yang lebih luas di mana laluan antenatal ini berada, lihat [bagaimana klinik kesihatan kerajaan di Malaysia berfungsi](/healthcare/klinik-kesihatan). Untuk bagaimana kemasukan dan bil hospital swasta sebenarnya berfungsi jika kelahiran berlaku secara swasta, lihat [bagaimana hospital swasta di Malaysia sebenarnya mengenakan bayaran](/healthcare/private-hospitals-and-costs). Dan untuk langkah undang-undang yang mengikuti setiap kelahiran tanpa mengira di mana ia berlaku, lihat [mendaftar kelahiran di Malaysia](/settling-in/registering-a-birth).
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

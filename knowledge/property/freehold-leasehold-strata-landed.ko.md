@@ -114,3 +114,5 @@ JKPTG 자체 FAQ는 가운데 것을 건너뛸 경우의 결과를 명시합니�
 ## What's next
 
 이 모든 것의 근거 법률 — 등기된 소유권의 토렌스 시스템이 어떻게 작동하는지, 왜 (매매계약이 아니라) 등기부가 소유에 대한 최종 판단인지, 그리고 왜 사바와 사라왁이 그 밖에 있는지 — 은 [국가토지법(National Land Code 1965)](/ko/law/national-land-code)을 참조하십시오.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

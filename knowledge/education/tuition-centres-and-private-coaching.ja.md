@@ -113,3 +113,5 @@ keywords: ["pusat tuisyen", "tuition centre", "bimbingan persendirian", "Akta Pe
 - 開業を検討している人：まずSSMで事業実体を登録し、次に商業用物件を賃借する前に、教育省のシステムを通じて設立承認を申請する。
 - 保護者：JPNへの登録証明を求め、施設が定められた職員条件を満たしていることを確認する。
 - 最新の様式、チェックリスト、費用については、所属の州JPN、または教育省私立教育局（Bahagian Pendidikan Swasta）のウェブサイトを直接参照すること。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの教育制度](/ja/education/malaysian-education-system/)。

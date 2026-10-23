@@ -147,3 +147,5 @@ Satu ciri khusus Malaysia adalah **skrining HIV pranikah wajib untuk pasangan Mu
 ## Apa selanjutnya
 
 Jika Anda ingin melakukan tes, hubungi Klinik Kesihatan pemerintah terdekat atau rujuk pencari lokasi Majlis AIDS Malaysia untuk klinik dan NGO yang menyediakan tes, PrEP dan PEP. Ingat bahwa PEP sensitif waktu — dalam 72 jam setelah paparan. Untuk informasi resmi lebih lanjut, rujuk laman Kementerian Kesehatan Malaysia dan Majlis AIDS Malaysia. Artikel ini adalah draf AI yang memerlukan tinjauan manusia sebelum diterbitkan, dan angka serta ketentuan hukum harus ditinjau ulang terhadap sumber resmi terkini.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

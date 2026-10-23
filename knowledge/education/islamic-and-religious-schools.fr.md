@@ -140,3 +140,5 @@ D'autres incidents ont continué d'être rapportés les années suivantes. Par e
 Si vous évaluez un établissement religieux, deux questions de base aident : **sous quel organisme il est enregistré** (le MOE, un département religieux d'État, ou les deux) et **comment sa conformité en matière de sécurité du bâtiment est vérifiée** par les Autorités locales et le Département des pompiers. Le statut d'enregistrement peut généralement être vérifié auprès du département religieux islamique de l'État concerné.
 
 Comme les affaires religieuses islamiques relèvent en grande partie d'une matière étatique, les détails des exigences et des processus varient d'un État à l'autre — consultez le site web officiel de votre département religieux d'État pour connaître les exigences les plus récentes. Ce brouillon est explicatif ; il ne prend pas parti dans le débat de politique publique et ne remplace pas les conseils officiels des autorités concernées.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

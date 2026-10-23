@@ -183,3 +183,5 @@ Pour un aperçu d'autres sujets de santé en Malaisie — de l'assurance privée
 tourisme médical — parcourez la catégorie [Santé](/en/healthcare). Pour prendre
 un véritable rendez-vous, accédez au service officiel via le
 [portail MyGovernment](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan).
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

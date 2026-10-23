@@ -128,3 +128,5 @@ La ToU vale la pena si puede trasladar el consumo elevado — lavadoras, cargado
 ## Qué sigue
 
 Revise su última factura e identifique esas cinco líneas de componentes. Compare su consumo mensual con los umbrales de 600 kWh y 1,000 kWh para ver si tiene derecho a la exención del Cargo Minorista o al reembolso del EEI. Para un cálculo preciso basado en su consumo real, use la calculadora oficial de facturas del portal myTNB, y esté atento al valor mensual del AFA anunciado por la Comisión de Energía.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

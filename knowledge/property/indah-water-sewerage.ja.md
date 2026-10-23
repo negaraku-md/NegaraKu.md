@@ -145,3 +145,5 @@ IWKは、1993年下水道サービス法（Sewerage Services Act 1993、Act 508�
   [連邦・州の権限分担](/government/federal-state-division)
 - 1994年の民営化以前に下水道の管理を担っていた地方自治体の役割：
   [地方議会](/states/local-councils)
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

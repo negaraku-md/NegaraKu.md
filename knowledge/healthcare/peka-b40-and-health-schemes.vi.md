@@ -118,3 +118,5 @@ Cả hai chương trình này có thể được yêu cầu đồng thời vì c
 ## Tiếp theo
 
 Hãy tự kiểm tra điều kiện thụ hưởng tại **kelayakan.pekab40.com.my** bằng số MyKad, và nếu đủ điều kiện, hãy đến phòng khám nhà nước đã đăng ký gần nhất có dán logo PeKa B40 — hãy đọc [Klinik Kesihatan: Cách hệ thống chăm sóc ban đầu của nhà nước Malaysia thực sự vận hành](/vi/healthcare/klinik-kesihatan) để hiểu loại cơ sở KKM liên quan. Đối với các hộ gia đình có người cao tuổi có thể cần trợ giúp bổ sung ngoài PeKa B40, hãy đọc thêm [các lựa chọn chăm sóc người cao tuổi tại Malaysia](/vi/healthcare/healthcare-for-seniors). Để kiểm tra tình trạng mySalam, hãy truy cập cổng chính thức của mySalam một cách riêng biệt.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

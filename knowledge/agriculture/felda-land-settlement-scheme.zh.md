@@ -160,3 +160,5 @@ keywords: ["FELDA", "peneroka", "penempatan tanah", "kelapa sawit", "FGV Holding
 与此同时，向垦殖民发放土地地契的工作已接近完成：截至2026年7月，**112,638名垦殖民中已有109,104名（96.86%）**领取了土地地契。
 
 对垦殖民及第二代而言，切实可行的步骤包括：确认家庭土地地契的状态、在规划遗产前理解1960年法令的限制，以及关注正在研究的修正案进展。请留意FELDA官方网站及政府公告，以获取最终修正案的细节。
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

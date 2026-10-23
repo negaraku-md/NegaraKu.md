@@ -156,3 +156,5 @@ El otro extremo de la propiedad también conlleva su propia tasa específica par
 ## Qué sigue
 
 Una vez que el título se transfiere realmente al nombre de un propietario extranjero, las obligaciones continuas son las mismas a las que se enfrenta todo propietario en Malasia — consulta [el impuesto de evaluación y el quit rent, y quién recauda cada uno](/en/property/assessment-and-quit-rent). Para los dos eventos fiscales que enmarcan la propiedad en sí, consulta el [cuadro del impuesto de timbre en la adquisición](/en/taxation/stamp-duty-rates) y el [RPGT en la eventual enajenación](/en/taxation/rpgt-rates). Y para la vía de visado que hace obligatoria y no opcional la compra de una propiedad, consulta los [cuatro niveles del visado de estancia prolongada MM2H](/en/settling-in/mm2h-long-stay-visa).
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

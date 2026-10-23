@@ -341,6 +341,27 @@ Kerangka ringkas untuk mengetahui pintu mana yang harus diketuk:
   (pembangkitan listrik), bukan keseluruhan sistem energi termasuk transportasi dan
   industri.
 
+## Jelajahi topik ini lebih dalam
+
+Panduan utama di bidang ini:
+
+- [Reformasi Industri Pasokan Listrik](/id/energy/electricity-supply-industry-reform-mesi/)
+- [Cara Struktur Tarif Listrik Berfungsi di Malaysia](/id/energy/electricity-tariff-structure/)
+- [Suruhanjaya Tenaga](/id/energy/energy-commission-suruhanjaya-tenaga/)
+- [Energy Efficiency and Conservation Act (Akta 861)](/id/energy/energy-efficiency-conservation-act/)
+- [Bagaimana Malaysia Menetapkan Harga Bahan Bakar Mingguan](/id/energy/fuel-pricing-mechanism/)
+- [Sistem Subsidi Bahan Bakar Malaysia](/id/energy/fuel-subsidy-system/)
+- [Hidrogen dan Penangkapan Karbon (CCUS) di Malaysia](/id/energy/hydrogen-ccus-malaysia/)
+- [Tenaga Hidro di Malaysia](/id/energy/hydropower-malaysia/)
+- [Peta Jalan Transisi Energi Nasional (NETR)](/id/energy/national-energy-transition-roadmap-netr/)
+- [Gas Alam dan LNG di Malaysia](/id/energy/natural-gas-lng-malaysia/)
+- [Petroleum Development Act 1974](/id/energy/petroleum-development-act-1974/)
+- [Energi Terbarukan di Malaysia](/id/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/id/energy/sarawak-energy-berhad/)
+- [Petros dan Sengketa Gas Sarawak](/id/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaysia](/id/energy/seda-malaysia/)
+- [Tenaga Surya di Malaysia](/id/energy/solar-energy-malaysia/)
+
 ## Apa selanjutnya
 
 Jika Anda konsumen, langkah paling praktis adalah memahami tagihan listrik RP4 baru

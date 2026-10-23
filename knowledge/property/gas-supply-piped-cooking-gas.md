@@ -158,3 +158,5 @@ Beli hanya daripada pengedar berlesen dan pastikan meterai keselamatan pada tong
 ## What's next
 
 Jika rumah anda berada dalam kawasan liputan Gas Malaysia, hubungi mereka untuk mengesahkan liputan alamat, senarai dokumen dan kos terkini sebelum mendaftar. Jika anda menggunakan LPG, simpan nombor pengedar berlesen berdekatan dan periksa hos serta regulator sebagai rutin. Harga siling dan butiran subsidi disemak dari semasa ke semasa oleh KPDN, jadi sahkan harga terkini dengan pengedar atau sumber rasmi sebelum membuat keputusan besar. Untuk gambaran penuh utiliti rumah, lihat juga panduan bekalan elektrik dan air.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

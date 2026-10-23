@@ -166,3 +166,5 @@ La stratégie comporte donc trois volets : maintenir et élargir l'accès à la 
 ## Et ensuite
 
 Surveillez trois choses. Premièrement, si la Malaisie étend la protection des IG à l'étranger — le plus grand écart de la stratégie de marque actuelle. Deuxièmement, comment la question du durian prédécoupé et à valeur ajoutée sera résolue, puisque toute méthode hors du protocole signé met en péril le marché chinois pour tous. Troisièmement, si la diversification vers Taïwan et le Pérou passe de l'aspiration à des protocoles signés. Pour les producteurs, la conclusion pratique reste inchangée : sans enregistrement auprès du DOA, conformité myGAP et approbation de la GACC, pas d'exportations de durian frais, point final. Les chiffres ici proviennent de réponses parlementaires et de déclarations d'agences et évolueront à mesure que des données officielles plus récentes seront publiées — consultez le ministère de l'Agriculture et de la Sécurité alimentaire et MATRADE pour les chiffres en vigueur.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

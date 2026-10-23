@@ -190,6 +190,29 @@ Un mapa rápido de decisión:
 - **Suponer que crecimiento equivale a resiliencia.** La racha de superávit comercial de Malasia es notable, pero la concentración de la economía en la E&E también la ata estrechamente a los volátiles ciclos mundiales de la electrónica. Fortaleza y exposición son dos caras de la misma moneda.
 - **Confundir la cuota del PIB con la tasa de crecimiento.** La construcción creció un 17.5% en 2024 pero es una cuota pequeña del PIB; los servicios crecieron un «modesto» 5.3% pero dominan la economía. Comprueba siempre qué número estás leyendo.
 
+## Explora este tema en profundidad
+
+Las guías clave de esta área:
+
+- [La industria aeroespacial y de MRO en Malasia](/es/industries/aerospace-industry/)
+- [La industria automotriz](/es/industries/automotive-industry/)
+- [Política de equidad bumiputera y desarrollo de proveedores en industrias estratégicas](/es/industries/bumiputera-equity-vendor-policy/)
+- [La industria de la construcción de Malasia](/es/industries/construction-industry/)
+- [Centros de datos e infraestructura en la nube en Malasia](/es/industries/data-centre-cloud-industry/)
+- [La economía digital de Malasia](/es/industries/digital-economy-overview/)
+- [La industria eléctrica y electrónica (E&E)](/es/industries/electrical-electronics-industry/)
+- [El sistema de certificación halal de Malasia](/es/industries/halal-certification-system/)
+- [La industria halal y la ambición de Malasia de ser el centro halal mundial](/es/industries/halal-industry-economy/)
+- [La industria de logística y puertos de Malasia](/es/industries/logistics-ports-industry/)
+- [La manufactura más allá de la E&E y los automóviles](/es/industries/manufacturing-industry-overview/)
+- [Nuevo Plan Maestro Industrial 2030 (NIMP 2030)](/es/industries/new-industrial-master-plan-2030/)
+- [La industria del petróleo y el gas en Malasia](/es/industries/oil-gas-industry/)
+- [La industria del aceite de palma de Malasia](/es/industries/palm-oil-industry/)
+- [Sostenibilidad y certificación del aceite de palma en Malasia](/es/industries/palm-oil-sustainability-certification/)
+- [La industria del caucho de Malasia](/es/industries/rubber-industry/)
+- [La industria de semiconductores de Malasia](/es/industries/semiconductor-industry/)
+- [La industria de los semiconductores y la Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy/)
+
 ## Qué viene después
 
 Usa esta página como tu brújula y luego sigue la rama que te importa. Si estás investigando una industria concreta, abre su guía dedicada en esta categoría para obtener el detalle regulatorio, empresarial y de cadena de suministro más profundo. Si estás siguiendo la economía en su conjunto, los dos números que vale la pena vigilar cada trimestre son la **tasa de crecimiento de los servicios** (el grueso de la economía) y la **tendencia de las exportaciones de E&E** (el factor de oscilación del comercio).

@@ -152,6 +152,40 @@ faq:
 - **افتراض أصحاب العمل أن SPIKPA اختياري أو شراء لمرة واحدة.** فهو اشتراط متكرّر مرتبط بكل دورة تجديد لتصريح العمل، لا وثيقة تُشترى مرة واحدة عند التوظيف.
 - **افتراض السائحين أن تأمين السفر والمخطّطات المحلية قابلان للتبادل.** فلا ينطبق على الزائر أيٌّ من PeKa B40 أو MySalam أو جدول رسوم المواطنين؛ وتأمين السفر/الطبي المشترى قبل الرحلة هو شبكة الأمان العملية الوحيدة.
 
+## استكشف هذا الموضوع بعمق
+
+أهم الأدلة في هذا المجال:
+
+- [قانون الإجهاض في ماليزيا](/ar/healthcare/abortion-law-in-malaysia/)
+- [هل هي طبيبة حقًّا؟ كيف تتحقق من تسجيل الأطباء والمهنيين الصحيين في ماليزيا](/ar/healthcare/allied-health-and-medical-practitioner-registration/)
+- [التبرع بالدم في ماليزيا](/ar/healthcare/blood-donation-and-national-blood-centre/)
+- [خلف طاولة الصيدلية](/ar/healthcare/buying-medicine-pharmacies/)
+- [تطعيمات مجانية لكل طفل](/ar/healthcare/childhood-vaccination/)
+- [COVID-19 في ماليزيا](/ar/healthcare/covid-19-pandemic-response-and-legacy/)
+- [عيادة أسنان حكومية أم خاصة؟ فهم نظامَي رعاية الأسنان في ماليزيا](/ar/healthcare/dental-care/)
+- [السكري والسمنة والأمراض غير المعدية](/ar/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [الوصول إلى الرعاية الصحية لذوي الإعاقة (OKU) في ماليزيا](/ar/healthcare/disability-and-oku-healthcare-access/)
+- [الطوارئ الطبية في ماليزيا](/ar/healthcare/emergencies-999/)
+- [المستشفيات الحكومية في ماليزيا](/ar/healthcare/government-hospitals/)
+- [الوضع الحلال للقاحات والأدوية](/ar/healthcare/halal-status-of-vaccines-and-medicines/)
+- [الإنجاب في ماليزيا](/ar/healthcare/having-a-baby-in-malaysia/)
+- [الورقة البيضاء للصحة](/ar/healthcare/health-white-paper-and-system-reform/)
+- [عندما لا يعود أحد الوالدين قادرًا على تدبّر أموره وحده](/ar/healthcare/healthcare-for-seniors/)
+- [خدمات فيروس نقص المناعة البشرية/الإيدز والصحة الجنسية في ماليزيا](/ar/healthcare/hiv-aids-and-sexual-health-services/)
+- [عيادة الصحة (Klinik Kesihatan)](/ar/healthcare/klinik-kesihatan/)
+- [التأمين الطبي في ماليزيا](/ar/healthcare/medical-insurance/)
+- [ازدهار السياحة العلاجية الهادئ في ماليزيا، والهيئة التي تقف وراءه](/ar/healthcare/medical-tourism/)
+- [أين تجد المساعدة في الصحة النفسية في ماليزيا](/ar/healthcare/mental-health-services/)
+- [MySejahtera ودفعة ماليزيا نحو الصحة الرقمية](/ar/healthcare/mysejahtera-and-digital-health-records/)
+- [التبرع بالأعضاء في ماليزيا](/ar/healthcare/organ-donation-and-transplant-registry/)
+- [الرعاية التلطيفية ورعاية المحتضرين في ماليزيا](/ar/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/ar/healthcare/peka-b40-and-health-schemes/)
+- [فاتورتان لإقامة واحدة](/ar/healthcare/private-hospitals-and-costs/)
+- [نظام الرعاية الصحية العامة في ماليزيا](/ar/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/ar/healthcare/smoking-and-vaping-law-act-852/)
+- [الطب عن بُعد في ماليزيا](/ar/healthcare/telemedicine-and-online-doctor-services/)
+- [الطب التقليدي والتكميلي](/ar/healthcare/traditional-and-complementary-medicine/)
+
 ## ماذا بعد
 
 للاطّلاع على مخطّط التأمين الاجتماعي الذي يغطّي الموظفين الماليزيين تحديدًا لإصابات العمل والعجز — وهو آلية مختلفة عن كل ما وُصف أعلاه — انظر [PERKESO (SOCSO)](/glossary/socso-perkeso). وللاطّلاع على الوزارة التي تدير وتنظّم كل ما في هذه الصفحة، انظر Kementerian Kesihatan Malaysia (KKM) حالما تُنشَر صفحة تلك الجهة.

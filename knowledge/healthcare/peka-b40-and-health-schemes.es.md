@@ -171,3 +171,5 @@ miembros mayores que puedan necesitar apoyo adicional más allá de PeKa
 B40, lee también [las opciones de atención geriátrica en
 Malasia](/en/healthcare/healthcare-for-seniors). Para comprobar el
 estado de mySalam, visita el portal oficial de mySalam por separado.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

@@ -151,6 +151,40 @@ There's no single answer to "what does a foreigner pay" — it depends entirely 
 - **Employers assuming SPIKPA is optional or a one-time purchase.** It's a recurring requirement tied to each work-permit renewal cycle, not a one-off policy bought at hiring.
 - **Tourists assuming travel insurance and local schemes are interchangeable.** None of PeKa B40, MySalam or the citizen fee schedule apply to a visitor; travel/medical insurance bought before the trip is the only practical safety net.
 
+## Explore this topic in depth
+
+The key guides in this area:
+
+- [Abortion Law in Malaysia](/en/healthcare/abortion-law-in-malaysia/)
+- [Is She Really a Doctor? How to Verify the Registration of Doctors and Healthcare Professionals in Malaysia](/en/healthcare/allied-health-and-medical-practitioner-registration/)
+- [Blood Donation in Malaysia](/en/healthcare/blood-donation-and-national-blood-centre/)
+- [Behind the Pharmacy Counter](/en/healthcare/buying-medicine-pharmacies/)
+- [Free Vaccines for Every Child](/en/healthcare/childhood-vaccination/)
+- [COVID-19 in Malaysia](/en/healthcare/covid-19-pandemic-response-and-legacy/)
+- [Government or Private Dental Clinic? Understanding Malaysia's Two Dental Care Systems](/en/healthcare/dental-care/)
+- [Diabetes, Obesity and Non-Communicable Diseases](/en/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [Healthcare Access for Persons with Disabilities (OKU) in Malaysia](/en/healthcare/disability-and-oku-healthcare-access/)
+- [Medical Emergencies in Malaysia](/en/healthcare/emergencies-999/)
+- [Malaysia's Government Hospitals](/en/healthcare/government-hospitals/)
+- [The Halal Status of Vaccines and Medicines](/en/healthcare/halal-status-of-vaccines-and-medicines/)
+- [Having a Baby in Malaysia](/en/healthcare/having-a-baby-in-malaysia/)
+- [Health White Paper](/en/healthcare/health-white-paper-and-system-reform/)
+- [When a Parent Can No Longer Manage Alone](/en/healthcare/healthcare-for-seniors/)
+- [HIV/AIDS and Sexual Health Services in Malaysia](/en/healthcare/hiv-aids-and-sexual-health-services/)
+- [Klinik Kesihatan](/en/healthcare/klinik-kesihatan/)
+- [Medical Insurance in Malaysia](/en/healthcare/medical-insurance/)
+- [Malaysia's Quiet Medical Tourism Boom, and the Agency Behind It](/en/healthcare/medical-tourism/)
+- [Where to Get Mental Health Help in Malaysia](/en/healthcare/mental-health-services/)
+- [MySejahtera and Malaysia's Digital Health Push](/en/healthcare/mysejahtera-and-digital-health-records/)
+- [Organ Donation in Malaysia](/en/healthcare/organ-donation-and-transplant-registry/)
+- [Palliative and Hospice Care in Malaysia](/en/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/en/healthcare/peka-b40-and-health-schemes/)
+- [Two Bills for One Stay](/en/healthcare/private-hospitals-and-costs/)
+- [Malaysia's Public Healthcare System](/en/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/en/healthcare/smoking-and-vaping-law-act-852/)
+- [Telemedicine in Malaysia](/en/healthcare/telemedicine-and-online-doctor-services/)
+- [Traditional and Complementary Medicine](/en/healthcare/traditional-and-complementary-medicine/)
+
 ## What's next
 
 For the social-insurance scheme that covers Malaysian employees specifically for workplace injury and invalidity — a different mechanism from anything described above — see [PERKESO (SOCSO)](/en/glossary/socso-perkeso). For the ministry that runs and regulates everything on this page, see Kementerian Kesihatan Malaysia (KKM) once that entity page is published.

@@ -174,3 +174,5 @@ Jika anda merancang menyambung ke peringkat ijazah:
 4. **Rujuk portal rasmi MPM** untuk tarikh peperiksaan semasa, yuran, prosedur pendaftaran dan spesifikasi format terkini sebelum menduduki ujian.
 
 Untuk maklumat rasmi dan terkini tentang pendaftaran, tarikh dan format, rujuk portal Majlis Peperiksaan Malaysia di mpm.edu.my.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

@@ -195,3 +195,5 @@ crops and phytosanitary, `dvs.gov.my` for livestock and animal health,
 licensing, refer to the Padi and Rice Regulatory e-Licence portal. And if your
 question is actually about settlers or rubber smallholders, shift your focus to
 KKDW at `rurallink.gov.my`.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

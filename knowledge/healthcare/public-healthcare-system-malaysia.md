@@ -188,3 +188,5 @@ The design logic is preventive and protective: screen the at-risk early, then cu
 ## What's next
 
 If you are using the system, the practical path is simple: register at a *klinik kesihatan* for primary care and let referrals carry you up to hospital care as needed, and check PeKa B40 eligibility if you are 40+ and receive cash aid. For the reform trajectory, the **Health White Paper for Malaysia**, tabled and passed by Parliament in June 2023, sets a **15-year reform horizon (2023–2038)** in three five-year phases, overseen by an independent reform body. Among the initiatives to watch is **Rakan KKM**, a "premium economy" scheme offering paid elective outpatient, daycare, and inpatient services at selected MOH hospitals — including Hospital Cyberjaya, Hospital Putrajaya, Hospital Sultan Idris Shah Serdang, and the National Cancer Institute (IKN) — priced below private rates and rolling out from 2025.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

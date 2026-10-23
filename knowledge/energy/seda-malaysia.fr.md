@@ -150,3 +150,5 @@ Ce paysage évolue rapidement. Le NEM a cédé la place au Solar ATAP, et un mod
 - Si vous êtes un consommateur commercial, comparez le tarif de crédit à l'export (SMP par rapport au tarif de détail) avant de signer un contrat de 10 ans.
 
 Cet article est un brouillon généré par l'IA à partir de sources officielles de la SEDA et de TNB ; vérifiez les chiffres critiques par rapport aux documents officiels avant d'agir.
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

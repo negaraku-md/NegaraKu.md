@@ -155,3 +155,5 @@ The academic calendar, term structure and school holidays are set nationally and
 ## What's next
 
 Malaysia's school system reflects the country it serves: a shared national framework delivered through more than one language of instruction, holding a common curriculum and common examinations across different communities. For the practical companion to this structure — when terms start, how long the holidays are, and how they line up with festivals — read the [academic calendar and school holidays](/en/education/academic-calendar-and-school-holidays/). For the authoritative detail on policy, curriculum and current assessment arrangements, the Ministry of Education's portal is the primary source.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

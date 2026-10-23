@@ -121,3 +121,5 @@ Tagihan air secara umum dihitung berdasarkan **pembacaan meter sebenarnya** — 
 ---
 
 *Struktur pengelolaan air menurut negeri, peran SPAN dan PAAB, serta status Ranhill SAJ sebagai operator swasta dipastikan secara langsung pada laman resmi masing-masing. Proses pendaftaran akun dirujuk dari laman dukungan resmi Air Selangor sebagai contoh; rincian dapat berbeda menurut perusahaan air negeri lain dan perlu ditinjau ulang oleh peninjau manusia sebelum artikel ini disahkan.*
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

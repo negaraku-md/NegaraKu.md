@@ -107,3 +107,5 @@ El proceso puede realizarse en línea o de forma presencial:
 ## ¿Qué viene después?
 
 PADU está diseñada como la columna vertebral de datos para la política de subsidios dirigidos de Malasia, incluido el paso de los subsidios generalizados a una ayuda dirigida con mayor precisión. Dado que su perfil puede cambiar — un cambio de empleo, un aumento de sueldo, un miembro más de la familia — conviene consultar y actualizar su información en padu.gov.my de vez en cuando para que sus registros se mantengan al día cuando se evalúe el derecho a la ayuda. Para los últimos detalles sobre esquemas concretos como la ayuda en efectivo o los subsidios al combustible, consulte los anuncios oficiales de los organismos ejecutores correspondientes.
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

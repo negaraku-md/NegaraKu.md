@@ -235,3 +235,5 @@ manakala warga emas boleh membaca lebih lanjut di
 [Penjagaan Kesihatan untuk Warga Emas](/healthcare/healthcare-for-seniors).
 Untuk situasi kecemasan sebenar, rujuk
 [Kecemasan dan 999](/healthcare/emergencies-999).
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

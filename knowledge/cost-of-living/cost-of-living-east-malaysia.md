@@ -204,3 +204,5 @@ break down, and how they compare to individual salaries, see
   [Cost of Living Indicators 2024](https://www.dosm.gov.my/portal-main/release-content/cost-of-living-indicators-2024),
   and KPDN's
   [Controlled Items / PPHSSL page](https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items).
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

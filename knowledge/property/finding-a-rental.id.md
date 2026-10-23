@@ -125,3 +125,5 @@ Jika satu angka penting bagi penyewaan Anda, dapatkan secara tertulis dari agens
 ## Apa selanjutnya
 
 Begitu Anda telah menyaring satu unit dan seorang negosiator yang dapat Anda verifikasi, langkah selanjutnya adalah perjanjian penyewaan itu sendiri dan menyiapkan pembayaran deposit serta sewa — kebanyakannya bergerak melalui perbankan daring alih-alih tunai. Jika Anda belum memiliki akun bank Malaysia, lihat [membuka akun bank di Malaysia](/id/money-daily-life/opening-bank-account). Jika Anda menyewa atas dasar kekuatan satu tawaran kerja baru dan bukan sebagai warga negara atau PR, urus [Employment Pass](/id/settling-in/employment-pass) Anda secara paralel — pemilik dan agensi lazimnya meminta bukti pas yang sah sebelum menandatangani kontrak sewa yang lebih panjang.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

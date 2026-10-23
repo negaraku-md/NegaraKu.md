@@ -153,3 +153,5 @@ Consultative Council Act 2011) وحدّد:
   [تقرير مسح دخل الأسرة 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024)
   و
   [تقرير مسح الرواتب والأجور 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024).
+
+اطّلع على الدليل الكامل: [تكلفة المعيشة في ماليزيا، وفق الأرقام الرسمية](/ar/cost-of-living/cost-of-living-overview/).

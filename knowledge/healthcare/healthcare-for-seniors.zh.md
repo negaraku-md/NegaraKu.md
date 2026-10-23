@@ -146,3 +146,5 @@ Morbidity Survey，NHMS）的发现：大约一半的马来西亚长者患有高
 一位外籍退休人士考虑长期居留签证，而这位退休人士将来年老后同样需要护理，也
 不妨读一读 [MM2H 长期居留签证](/zh/settling-in/mm2h-long-stay-visa)，因为长期
 居留身份会影响这些服务中哪些是适用的。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

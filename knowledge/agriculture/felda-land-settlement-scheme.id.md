@@ -160,3 +160,5 @@ Untuk memulihkan keberlanjutan lembaga, Kertas Putih FELDA 2019 sebelumnya mengg
 Pada saat yang sama, penerbitan sertifikat tanah kepada peneroka hampir selesai: per Juli 2026, **109,104 dari 112,638 peneroka (96.86%)** telah menerima sertifikat tanah mereka.
 
 Bagi peneroka dan generasi kedua, langkah praktis yang wajar termasuk memastikan status sertifikat tanah keluarga, memahami pembatasan Akta 1960 sebelum merancang warisan, dan mengikuti perkembangan amandemen yang sedang dikaji. Pantau laman resmi FELDA dan pengumuman pemerintah untuk rincian amandemen yang final.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

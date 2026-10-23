@@ -149,3 +149,5 @@ Bahagian ini menyenaraikan perkara yang masih berkembang dan patut dipantau dari
 - Kenyataan rasmi daripada Kerajaan Persekutuan, Kerajaan Sarawak, Petronas dan Petros mengenai status pelaksanaan.
 
 > Nota penyuntingan: Draf ini disediakan dengan bantuan AI dan belum melalui semakan manusia. Tarikh penggubalan (2016), kuat kuasa (1 Julai 2018) dan pindaan (Ordinan Pengagihan Gas (Pindaan) 2023) dilaporkan oleh sumber berita; teks ordinan rasmi serta kenyataan Petros/Petronas masih perlu disahkan silang sebelum diterbitkan. Hujah berkaitan Ordinan Darurat 1969 dan pemansuhan 2011 dilaporkan oleh The Edge Malaysia dan perlu disahkan terhadap pendirian rasmi Kerajaan Sarawak.
+
+Lihat panduan penuh: [Sektor Tenaga Malaysia](/energy/energy-sector-overview/).

@@ -147,6 +147,23 @@ Các bảng xếp hạng chi phí sinh hoạt đặt Malaysia so với Singapore
 - **Nhầm lẫn thu nhập hộ gia đình với lương cá nhân.** Hãy xem [Lương tối thiểu so với Thu nhập trung vị](/vi/cost-of-living/minimum-wage-and-median-income) để biết vì sao hai chuỗi số liệu này của DOSM phân kỳ và không nên thay thế cho nhau.
 - **Viện dẫn một chỉ số chi phí sinh hoạt quốc tế thu thập từ cộng đồng như thể nó là dữ liệu chính thức của chính phủ Malaysia.** Nó không phải — DOSM không công bố một chỉ số như vậy, vì những lý do ở trên.
 
+## Tìm hiểu sâu về chủ đề này
+
+Các hướng dẫn chính trong lĩnh vực này:
+
+- [B40, M40, T20](/vi/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/vi/cost-of-living/belanjawanku-reference-budget/)
+- [Vì sao một hộp Milo đắt hơn ở Kota Kinabalu so với ở Klang](/vi/cost-of-living/cost-of-living-east-malaysia/)
+- [Chi phí sinh hoạt của Johor Bahru](/vi/cost-of-living/cost-of-living-johor-bahru/)
+- [Vì sao Kuala Lumpur là nơi sống đắt đỏ nhất Malaysia](/vi/cost-of-living/cost-of-living-kuala-lumpur/)
+- [Chi phí sinh hoạt của Penang chia đôi ở eo biển](/vi/cost-of-living/cost-of-living-penang/)
+- [Đồng ringgit của hộ gia đình Malaysia thực sự đi đâu mỗi tháng](/vi/cost-of-living/household-spending-breakdown/)
+- [Malaysia có phải chăng với người nước ngoài không? Các con số chính thức thực sự nói gì](/vi/cost-of-living/is-malaysia-affordable-for-expats/)
+- [Malaysia xếp hạng ở đâu trong các chỉ số chi phí sinh hoạt toàn cầu](/vi/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [Lương tối thiểu so với Thu nhập trung vị](/vi/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/vi/cost-of-living/padu-central-database/)
+- [Malaysia kiểm soát trục lợi giá như thế nào](/vi/cost-of-living/price-control-anti-profiteering-act/)
+
 ## Tiếp theo
 
 - Để biết lương cá nhân so với các con số hộ gia đình này như thế nào: [Lương tối thiểu so với Thu nhập trung vị](/vi/cost-of-living/minimum-wage-and-median-income)

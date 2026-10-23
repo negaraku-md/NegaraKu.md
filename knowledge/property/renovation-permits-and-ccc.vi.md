@@ -112,3 +112,5 @@ Xây dựng mà không có chấp thuận không phải chuyện vặt. Theo hư
 - Đối với việc mở rộng kết cấu, hãy thuê kiến trúc sư hoặc kỹ sư để nộp bản vẽ qua One Stop Centre (OSC).
 - Khi mua nhà mới, hãy xác nhận tình trạng CCC (Mẫu F/F1) trước khi giao chìa khóa.
 - Hãy giữ bản sao CCC — bạn sẽ cần đến nó cho các đơn xin cải tạo trong tương lai.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

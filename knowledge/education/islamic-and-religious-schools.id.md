@@ -140,3 +140,5 @@ Menyusul kejadian seperti ini, garis panduan yang diperbarui menekankan ciri kes
 Jika Anda menilai sebuah institusi agama, dua pertanyaan dasar membantu: **di bawah badan mana ia terdaftar** (KPM, dinas agama negara bagian, atau keduanya) dan **bagaimana kepatuhan keselamatan bangunannya disahkan** oleh Otoritas Lokal dan Bomba. Status pendaftaran biasanya dapat diperiksa dengan dinas agama Islam negara bagian yang bersangkutan.
 
 Karena urusan agama Islam sebagian besar perkara negara bagian, rincian syarat dan proses berbeda antarnegara bagian — rujuk laman resmi dinas agama negara bagian Anda untuk persyaratan terkini. Draf ini bersifat penjelasan; ia tidak memihak kepada pendirian mana pun dalam perdebatan kebijakan dan tidak menggantikan nasihat resmi dari otoritas bersangkutan.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

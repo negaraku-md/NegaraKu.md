@@ -239,6 +239,23 @@ Consumer Price Index ஒரு நிலையான கூடையின் �
   அதிகாரப்பூர்வ மலேசிய அரசாங்கத் தரவு போல மேற்கோள் காட்டுவது.** அது அல்ல —
   மேலே உள்ள காரணங்களுக்காக DOSM அப்படி ஒன்றை வெளியிடுவதில்லை.
 
+## இந்தத் தலைப்பை ஆழமாக ஆராயுங்கள்
+
+இந்தத் துறையின் முக்கிய வழிகாட்டிகள்:
+
+- [B40, M40, T20](/ta/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/ta/cost-of-living/belanjawanku-reference-budget/)
+- [கிள்ளானை விட கோத்தா கினபாலுவில் ஒரு டின் Milo ஏன் அதிக விலை](/ta/cost-of-living/cost-of-living-east-malaysia/)
+- [Johor Bahru-வின் வாழ்க்கைச் செலவு](/ta/cost-of-living/cost-of-living-johor-bahru/)
+- [கோலாலம்பூர் ஏன் மலேசியாவின் மிக விலையுயர்ந்த வாழ்விடம்](/ta/cost-of-living/cost-of-living-kuala-lumpur/)
+- [பினாங்கின் வாழ்க்கைச் செலவு நீரிணையில் பிளவுபடுகிறது](/ta/cost-of-living/cost-of-living-penang/)
+- [மலேசியாவின் வீட்டு ரிங்கிட் ஒவ்வொரு மாதமும் உண்மையில் எங்கே செல்கிறது](/ta/cost-of-living/household-spending-breakdown/)
+- [மலேசியா வெளிநாட்டவர்களுக்கு மலிவானதா? அதிகாரப்பூர்வ எண்ணிக்கைகள் உண்மையில் என்ன சொல்கின்றன](/ta/cost-of-living/is-malaysia-affordable-for-expats/)
+- [உலகளாவிய வாழ்க்கைச் செலவு குறியீடுகளில் மலேசியா எங்கே நிற்கிறது](/ta/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [குறைந்தபட்ச ஊதியம் vs இடைநிலை வருமானம்](/ta/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/ta/cost-of-living/padu-central-database/)
+- [மலேசியா விலை லாபவெறியை எப்படிக் கட்டுப்படுத்துகிறது](/ta/cost-of-living/price-control-anti-profiteering-act/)
+
 ## அடுத்து என்ன
 
 - தனிப்பட்ட ஊதியம் இந்த வீட்டு எண்களுக்கு எதிராக எப்படி அமைகிறது என்பதற்கு:

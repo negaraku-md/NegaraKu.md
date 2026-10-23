@@ -146,3 +146,5 @@ Ringkasnya: MHTC adalah pintu depan dan promotor, bukan regulator dan bukan peny
 ## Apa selanjutnya
 
 Dua pertanyaan terkait yang tidak dijawab secara mendalam oleh artikel ini: bagaimana seorang pensiunan asing yang tinggal di Malaysia di bawah [MM2H](/id/settling-in/mm2h-long-stay-visa) mengakses perawatan kesehatan swasta secara harian (pertanyaan yang berbeda dari kunjungan pariwisata medis yang singkat), dan bagaimana produk asuransi kesehatan swasta dan takaful Malaysia melayani non-warga negara. Keduanya lebih dekat ke sisi "tinggal di sini" perawatan kesehatan dibanding sisi "terbang masuk untuk perawatan" yang dibahas di atas.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

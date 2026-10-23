@@ -112,3 +112,5 @@ Building without approval is no small matter. According to MBPJ's guidance, the 
 - For structural additions, engage an architect or engineer to submit the plans through the One Stop Centre (OSC).
 - When buying a new home, confirm the CCC status (Form F/F1) before key handover.
 - Keep a copy of the CCC — you will need it for future renovation applications.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

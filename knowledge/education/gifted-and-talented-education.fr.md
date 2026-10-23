@@ -135,3 +135,5 @@ Toutes deux partagent le même principe : une éducation uniforme ne convient pa
 Si vous êtes un parent ou un enseignant qui soupçonne qu'un enfant pourrait avoir un potentiel de surdouance et de talent, la première étape est de surveiller les dates d'inscription au test UKM1 annoncées sur le site officiel du Pusat PERMATA@Pintar Negara, UKM. Consultez aussi les calendriers des programmes d'enrichissement PPCS et HSEP si votre enfant se situe dans la tranche d'âge de 9 à 16 ans.
 
 Pour un panorama complet des voies de soutien à l'apprentissage en Malaisie, lisez aussi l'article complémentaire sur l'éducation à besoins particuliers et la structure du système scolaire national. Les détails des tests, les dates et les filières des programmes peuvent changer d'une année à l'autre — confirmez toujours les informations les plus récentes directement sur le site officiel de l'UKM avant de prendre des décisions.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

@@ -160,3 +160,5 @@ Jika anda ingin memahami atau mempertimbangkan pendermaan organ:
 - Untuk statistik terkini, semak papan pemuka rasmi [KKMNOW](https://data.moh.gov.my/dashboard/organ-donation).
 
 *Artikel ini bersifat maklumat umum dan neutral; ia bukan nasihat perubatan atau agama. Rujuk sumber rasmi dan pihak berkuasa berkaitan untuk keputusan peribadi.*
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

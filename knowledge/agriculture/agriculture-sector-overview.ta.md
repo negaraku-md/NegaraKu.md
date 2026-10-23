@@ -246,6 +246,27 @@ KPK முக்கியமாக ஏற்றுமதிக்காகப்
 
 **“விவசாய எண்கள் நிலையானவை.”** இங்குள்ள பெரும்பாலான எண்கள் (விளைச்சல், விலை, உற்பத்தி, SSR) ஆண்டுதோறும் மறுபரிசீலனை செய்யப்படுகின்றன, மேலும் வானிலை, உலக விலைகள் மற்றும் மறுநடவுச் சுழற்சிகளுடன் நகர்கின்றன. தற்போதைய தரவுகளுக்கு DOSM, MPOB மற்றும் அமைச்சுகளின் சமீபத்திய வெளியீடுகளைப் பார்க்கவும்.
 
+## இந்தத் தலைப்பை ஆழமாக ஆராயுங்கள்
+
+இந்தத் துறையின் முக்கிய வழிகாட்டிகள்:
+
+- [விவசாய மானியங்களும் நெல் விவசாயிகளுக்கான பண்ணை உள்ளீட்டு உதவியும்](/ta/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS மற்றும் மலேசியாவின் அரிசி இறக்குமதி ஏகபோகம்](/ta/agriculture/bernas-rice-import-monopoly/)
+- [மலேசிய மீன்வளத் துறை (DOF)](/ta/agriculture/department-of-fisheries-malaysia/)
+- [மலேசியாவின் துரியான் மற்றும் வெப்பமண்டல பழ ஏற்றுமதி வர்த்தகம்](/ta/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/ta/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA மற்றும் RISDA](/ta/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/ta/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/ta/agriculture/fgv-holdings-plantation-restructuring/)
+- [மலேசியாவின் உணவுப் பாதுகாப்புக் கொள்கை மற்றும் தன்னிறைவு நிலை இலக்குகள்](/ta/agriculture/food-security-self-sufficiency-policy/)
+- [மலேசியாவின் கால்நடை மற்றும் கோழி-வாத்து வளர்ப்புத் தொழில்](/ta/agriculture/livestock-poultry-industry/)
+- [மலேசிய மீன்வளத் தொழில்](/ta/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/ta/agriculture/mardi-agricultural-research-institute/)
+- [விவசாயம் மற்றும் உணவுப் பாதுகாப்பு அமைச்சு (KPKM) மற்றும் அதன் நிறுவனங்கள்](/ta/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [எண்ணெய்ப் பனை சிறுவிவசாயிகளும் MSPO நிலைத்தன்மை சான்றிதழும்](/ta/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [மலேசியாவில் நெல் மற்றும் அரிசி](/ta/agriculture/padi-and-rice-industry/)
+- [மலேசியாவின் நெல் மற்றும் அரிசித் தொழில்](/ta/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## அடுத்த படிகள்
 
 - மிகப்பெரிய ஏற்றுமதி மூலப்பொருளுக்குள் ஆழமாகச் செல்லுங்கள் — [மலேசிய பாமாயில் துறை நோக்கு](/ta/economy/palm-oil-sector) — அதன் அளவு, நிறுவனங்கள் மற்றும் நிலைத்தன்மை சான்றிதழ்.

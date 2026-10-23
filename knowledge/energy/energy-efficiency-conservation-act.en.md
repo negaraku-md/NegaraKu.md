@@ -151,3 +151,5 @@ For businesses, the practical effect is modest but lasting: energy governance is
 If your organisation might cross the 21,600 GJ threshold, the first step is to add up the annual energy consumption of all your sites and check whether you need to appoint a registered energy manager. Owners of large office buildings should check their gross floor area and calculate their current BEI against the 250 kWh/m²/year ceiling.
 
 For the latest registration requirements, lists of registered energy managers and auditors, forms, and report submission deadlines, refer to the Energy Commission website directly. This content is a general overview and not legal advice; verify any threshold, penalty, or deadline against the official text of Act 861 and the Energy Efficiency and Conservation Regulations 2024.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

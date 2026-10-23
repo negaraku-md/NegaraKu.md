@@ -247,3 +247,5 @@ Tantangan jangka pendek industri kelihatan dalam angkanya sendiri: tegakan pohon
 Untuk liputan NegaraKu.md yang lebih mendalam, bacaan selanjutnya yang patut adalah profil **Lembaga Minyak Sawit Malaysia** sebagai regulator, dan **industri karet** Malaysia, tanaman yang digantikan oleh minyak sawit. Karena angka-angka penting di sini berubah dengan setiap keluaran bulanan dan tahunan MPOB, anggap ton dan harga tertentu sebagai gambaran 2025 dan periksa overview MPOB terkini sebelum mengutipnya.
 
 *Ini adalah draf berbantuan AI dan belum ditinjau oleh pakar bidang. Angka-angka bersumber dari MPOB, Kementerian Perladangan dan Komoditi serta MPOC seperti yang dikutip; konfirmasikan terhadap keluaran MPOB terkini sebelum bergantung padanya. Perdebatan lingkungan dan perburuhan seputar minyak sawit diringkas di sini secara ringkas dan ia sendiri dipersengketakan — anggap ini sebagai gambaran umum, bukan kata akhir.*
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

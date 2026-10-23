@@ -116,3 +116,5 @@ Tuy nhiên tiến độ chậm. Theo Phó Giám đốc Cục Y tế Số của K
 - Hãy theo dõi việc triển khai EMR theo từng giai đoạn tại bệnh viện và phòng khám y tế gần bạn.
 - Hãy kiểm tra chức năng **Lịch hẹn** và **Hồ sơ Y tế** trong MySejahtera trước lần khám tiếp theo tại phòng khám.
 - Hãy chú ý các cải cách bảo vệ dữ liệu — theo mục 3 của Personal Data Protection Act 2010, đạo luật này không áp dụng cho Chính phủ Liên bang và Chính phủ các Bang, một lỗ hổng làm nảy sinh các câu hỏi về quản trị khi dữ liệu y tế do các thực thể nhà nước nắm giữ.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

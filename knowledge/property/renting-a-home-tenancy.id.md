@@ -169,3 +169,5 @@ Kedua jalur ini ada justru karena tidak ada jalan pintas statutori yang lebih mu
 ## Apa selanjutnya
 
 Begitu perjanjian penyewaan ditandatangani dan dimeteraikan, langkah praktis selanjutnya biasanya adalah menyiapkan akun utilitas atas nama penyewa dan memahami biaya tingkat bangunan apa pun yang ada bersama sewa. Lihat [membuka akun listrik TNB](/id/property/electricity-tnb-account) untuk cara proses Change of Tenancy dan depositnya sendiri bekerja, dan [kehidupan kondominium dan biaya pemeliharaan](/id/property/condo-living-maintenance-fees) jika unit itu terletak dalam properti strata yang memiliki perbadanan pengurusannya sendiri. Jika Anda belum menemukan unit tersebut atau memastikan dengan siapa Anda berurusan, [mencari rumah sewa di Malaysia](/id/property/finding-a-rental) meliputi portal-portal dan pemeriksaan pendaftaran REN yang sepatutnya terjadi sebelum deposit apa pun berpindah tangan.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

@@ -125,3 +125,5 @@ keywords: ["household expenditure Malaysia", "DOSM Household Expenditure Survey"
 - 直接查阅原始发布：
   [统计局《2024年家庭开支调查报告》](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)，
   以获取完整的类别表格与各州分类数据。
+
+查看完整指南：[马来西亚生活成本](/zh/cost-of-living/cost-of-living-overview/)。

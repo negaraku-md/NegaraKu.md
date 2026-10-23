@@ -114,3 +114,5 @@ Dự luật ban đầu chứa điều khoản *generational endgame* (GEG) sẽ 
 ## Tiếp theo
 
 Hãy kiểm tra xem cơ sở của bạn — cửa hàng bán lẻ hay nơi ăn uống — có tuân thủ lệnh cấm trưng bày và biển cảnh báo trước hạn tuân thủ hay không. Cha mẹ và nhà giáo dục có thể báo cáo việc bán cho người chưa đủ tuổi cho Bộ Y tế Malaysia. Cũng hãy chú ý việc hạ giới hạn nicotine xuống 20 mg/ml vào ngày 1 tháng 10 năm 2025 và lời kêu gọi tiếp tục của một số bên nhằm đưa lại GEG vào Act 852.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

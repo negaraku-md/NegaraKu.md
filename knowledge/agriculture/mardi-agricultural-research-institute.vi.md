@@ -132,3 +132,5 @@ Vai trò của MARDI là ở thượng nguồn: viện cung cấp các giống h
 ## Tiếp theo
 
 Quỹ đạo của MARDI hướng tới thương mại hóa và canh tác có khả năng chống chịu khí hậu — lúa chịu thuốc diệt cỏ và lúa lai, lai tạo có sự trợ giúp của công nghệ sinh học, và nông nghiệp chính xác nuôi dưỡng các chương trình như SMART SBB. Đối với bất kỳ ai theo dõi an ninh lương thực Malaysia, hãy theo dõi các đợt công bố giống của MARDI và sự hợp tác của viện với bộ về các mục tiêu tự cung tự cấp quốc gia. Để có chi tiết sơ cấp, các trang hồ sơ riêng của viện và trang nghiên cứu lúa-và-gạo là các điểm khởi đầu có thẩm quyền nhất, và MARDI Act (Act 11) quy định nhiệm vụ theo luật định của nó.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

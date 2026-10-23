@@ -154,3 +154,5 @@ Cette répartition est inscrite dans l'Act 610 elle-même : les paragraphes 14(1
 - Les lois centrales qu'elle fait appliquer : la Loi sur la fourniture d'électricité de 1990 (Act 447) et la Loi sur la fourniture de gaz de 1993 (Act 501)
 - La nouvelle obligation pour les gros consommateurs : la Loi sur l'efficacité et la conservation de l'énergie de 2024 (Act 861)
 - Lisez le statut fondateur dans le [texte intégral de l'Act 610](https://faolex.fao.org/docs/pdf/mal37918.pdf) ou consultez le mandat officiel sur la [page « Qui sommes-nous » de la ST](https://www.st.gov.my/about-us)
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

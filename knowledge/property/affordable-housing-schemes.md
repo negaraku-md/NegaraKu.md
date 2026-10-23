@@ -169,3 +169,5 @@ Kelayakan skim adalah satu perkara; mendapat pembiayaan pula perkara lain. Bagi 
 - Sediakan dokumen asas lebih awal: MyKad, slip gaji tiga bulan, penyata bank dan penyata KWSP.
 - Jika pendapatan anda tidak menentu, semak kelayakan SJKP sebelum memohon supaya anda tahu jumlah pembiayaan yang mungkin diluluskan.
 - Sahkan angka terkini terus di portal rasmi — siling harga dan had pendapatan disemak semula dari semasa ke semasa, dan angka dalam panduan ini adalah petunjuk, bukan tawaran muktamad.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

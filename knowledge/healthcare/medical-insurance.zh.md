@@ -125,3 +125,5 @@ faq:
 ## 下一步
 
 如果你正在权衡个人医疗卡的费用与自己的薪资单，可参阅[个人所得税](/zh/money-daily-life/income-tax-individuals)，了解教育与医疗保险宽减如何影响你的年度报税。至于与医疗保障并存——但不能取代它——的法定扣除，可参阅[雇员 EPF 与 SOCSO 指南](/zh/money-daily-life/epf-socso-employees)。而如果你的医疗福利来自一份工作聘用，[马来西亚雇佣合约](/zh/employment/employment-contract-malaysia)说明了雇主在职位相关福利方面，有哪些必须说明、哪些不必说明的义务。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

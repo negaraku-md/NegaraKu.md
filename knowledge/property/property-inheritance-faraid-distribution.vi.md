@@ -152,3 +152,5 @@ Bước cuối cùng đối với một ngôi nhà là **chuyển nhượng quy�
 - **Tìm tư vấn phù hợp:** vì chủ đề này liên quan đến luật tôn giáo và quyền của gia đình, hãy tham khảo luật sư syariah/dân sự hoặc cán bộ Amanah Raya cho trường hợp cụ thể của bạn, và xác nhận mọi con số với nguồn chính thức cập nhật.
 
 *Bản thảo này được chuẩn bị với sự hỗ trợ của AI và chưa qua rà soát của chuyên gia con người. Nó chỉ mang tính thông tin chung và không phải là tư vấn pháp lý hay tôn giáo.*
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

@@ -231,3 +231,5 @@ Kemudian timbangkan tiga perkara di luar nama pelabuhan: kekuatan **ejen perkapa
 Pelabuhan Malaysia telah pun memenangi permainan jumlah; pertandingan yang lebih sukar kini ialah nilai. Perhatikan tiga isyarat sepanjang tahun-tahun akan datang. Pertama, sama ada kapasiti Westports 2 dan Pulau Carey benar-benar terhasil mengikut jadual, kerana kepimpinan pindah kapal bergantung pada mempunyai berth yang lapang apabila kapal raksasa tiba. Kedua, sama ada jambatan darat ECRL terbukti nyata dari segi komersial — landasan yang siap tidak sama dengan kargo yang memilih untuk merentasi semenanjung dengan kereta api dan bukannya belayar mengelilinginya. Ketiga, sama ada Malaysia terus mendaki Indeks Prestasi Logistik, ujian paling benar sama ada negara ini sedang menjadi tempat yang mengurus perdagangan dan bukannya sekadar merelainya.
 
 Untuk gambaran lebih mendalam tentang aset individu di sebalik angka-angka ini, lihat catatan iringan mengenai Port Klang, Pelabuhan Tanjung Pelepas, dan Selat Melaka — laluan perkapalan yang menjadikan semuanya mungkin.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

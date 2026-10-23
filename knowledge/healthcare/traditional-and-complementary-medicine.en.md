@@ -116,3 +116,5 @@ As of January 2025, the Ministry of Health had received 18,802 applications, wit
 ## What's next
 
 If you are a practitioner, check whether your field falls within the seven recognised practice areas, then apply for registration through the T&CM Council, Traditional and Complementary Medicine Division, Ministry of Health Malaysia. If you are a consumer, ask to see the practitioner's registration certificate before receiving treatment — it is now the mark of a legally legitimate practitioner.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

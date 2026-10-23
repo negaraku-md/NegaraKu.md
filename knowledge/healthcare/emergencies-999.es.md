@@ -134,3 +134,5 @@ Esto significa que un paciente que llega antes pero está estable (zona verde) p
 ## Qué sigue
 
 Esta página explica cómo obtener ayuda médica de emergencia y qué esperar en el Servicio de Urgencias. Para los accidentes de tráfico que también implican una citación o una actuación de la PDRM, consulte [Citaciones de tráfico en Malasia](/en/transport/traffic-summons-saman); para conocer la estructura y las competencias de ejecución del propio cuerpo policial, consulte [Policía Real de Malasia (PDRM)](/en/government/pdrm).
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

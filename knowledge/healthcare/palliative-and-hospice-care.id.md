@@ -115,3 +115,5 @@ Ini sering dikacaukan. Perawatan lansia adalah perawatan umum bagi orang tua yan
 ## Apa selanjutnya
 
 Jika anggota keluarga Anda mengidap penyakit serius, mulailah dengan berdiskusi dengan dokter atau spesialis yang merawat mengenai rujukan paliatif. Bagi keluarga di Lembah Klang, hubungi Hospis Malaysia melalui laman web mereka. Untuk kebutuhan perawatan umum lansia yang lebih luas, lihat panduan terkait kami tentang perawatan kesehatan untuk lansia.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

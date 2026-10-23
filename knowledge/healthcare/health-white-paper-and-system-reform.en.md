@@ -136,3 +136,5 @@ The Health White Paper has succeeded in doing one important thing: it placed an 
 First, an empowered implementing and monitoring body needs to be established; without it, the phased reform has no driver. Second, the difficult financing decisions — whether a contributory scheme, pro-health taxes, or a combination — need to be finalised and explained to the public.
 
 For readers, the most useful things to watch in the coming years are: whether a commission or implementing body is finally established, and whether the financing proposals move from study to policy. Until both happen, the White Paper remains a convincing vision — but one not yet fully implemented.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

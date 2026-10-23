@@ -223,3 +223,5 @@ Jika anda merancang untuk memasuki atau berkembang dalam industri ini, langkah p
 Untuk memahami rangka undang-undang yang mendasari semua ini, baca lebih lanjut mengenai **Akta 520** dan peranan **CIDB** sebagai badan kawal selia utama. Kedua-duanya menerangkan kuasa di sebalik sistem gred dan syarat pendaftaran yang dibincangkan di sini.
 
 Angka dan syarat dalam artikel ini diambil daripada penerbitan rasmi CIDB dan Jabatan Perangkaan Malaysia. Kadar yuran, had gred dan syarat modal boleh dipinda dari semasa ke semasa — sentiasa sahkan butiran terkini terus dengan CIDB sebelum membuat keputusan pendaftaran atau bidaan.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

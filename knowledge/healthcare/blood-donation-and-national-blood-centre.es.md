@@ -121,3 +121,5 @@ Lleve los **documentos originales** de su identificación personal: tarjeta de i
 ## Qué sigue
 
 Revise nuevamente los requisitos de elegibilidad y asegúrese de haber dormido lo suficiente y haber comido antes de asistir. Para obtener la información más reciente, los horarios de atención y las ubicaciones de las campañas móviles, visite el portal oficial del Centro Nacional de Sangre en pdn.gov.my o comuníquese con el PDN al 03-2613 2688.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

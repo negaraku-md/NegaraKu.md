@@ -235,3 +235,5 @@ Jika Anda meneliti lebih lanjut, langkah selanjutnya yang paling berharga adalah
 - Ikuti **Laporan Terpadu PETRONAS** tahunan dan **statistik petroleum kuartalan DOSM** untuk angka produksi, ekspor dan kontribusi terkini.
 
 Sumber utama itu akan memastikan Anda selalu terkini ketika angka berubah — tetapi arsitektur dasarnya, satu pemilik melisensikan banyak kontraktor di bawah ketentuan bagi hasil produksi, telah bertahan sejak 1974 dan tidak menunjukkan tanda-tanda akan berubah.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

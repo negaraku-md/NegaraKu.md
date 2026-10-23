@@ -113,3 +113,5 @@ Konteks lebih luas daripada analisis yang disemak rakan sebaya: pada 2022 sektor
 ## Apa seterusnya
 
 Sahkan prosedur lesen semasa, yuran dan Ketua Pengarah yang sedang berkhidmat terus di portal DOF di dof.gov.my sebelum bergantung padanya. Angka pengeluaran 2024 dan sejarah institusi jabatan masih perlu disahkan berdasarkan laporan tahunan utama DOF.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

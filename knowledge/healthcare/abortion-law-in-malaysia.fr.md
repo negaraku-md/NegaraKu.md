@@ -160,3 +160,5 @@ La situation juridique de l'avortement en Malaisie repose sur un équilibre : un
 Pour toute personne ayant besoin d'informations relatives à sa situation réelle, la démarche la plus appropriée est de consulter directement un médecin inscrit au tableau ou de solliciter un conseil juridique professionnel, car chaque cas dépend de ses propres faits et de l'évaluation clinique.
 
 Ce brouillon a été préparé avec l'assistance de l'IA et est encore en attente de relecture humaine. Il vise à expliquer le cadre juridique de façon neutre et ne remplace pas un conseil officiel.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

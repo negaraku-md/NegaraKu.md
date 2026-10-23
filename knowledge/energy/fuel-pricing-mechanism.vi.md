@@ -111,3 +111,5 @@ Giá được công bố có hiệu lực trong một giai đoạn trọn một 
 ## Tiếp theo
 
 Để biết giá mới nhất mỗi tuần, hãy kiểm tra các thông cáo báo chí chính thức của Bộ Tài chính hoặc bộ dữ liệu Giá Xăng dầu & Diesel tại OpenDOSM. Nếu bạn muốn hiểu ai đủ điều kiện nhận mức RON95 RM1.99 và cách giới hạn 300 lít hoạt động, hãy tham khảo bài viết liên quan về chương trình trợ cấp BUDI95.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

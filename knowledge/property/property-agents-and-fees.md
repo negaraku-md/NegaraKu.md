@@ -110,3 +110,5 @@ Ejen juga boleh menuntut kos tambahan seperti pengiklanan, cetakan dan perjalana
 - Sahkan status ejen dan firma anda di [portal semakan LPEPH](https://lpeph.gov.my/search-listing) sebelum menandatangani apa-apa perjanjian.
 - Semak skala fi penuh dan syarat tuntutan kos di [laman fi rasmi LPEPH](https://lpeph.gov.my/fees).
 - Untuk urus niaga sewaan, fahami juga terma perjanjian penyewaan dan deposit sebelum ejen memproses bayaran.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

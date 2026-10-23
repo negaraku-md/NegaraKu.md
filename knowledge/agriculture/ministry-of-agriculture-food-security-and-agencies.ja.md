@@ -188,3 +188,5 @@ Chan Foong Hin 氏が2026年7月13日、下院（Dewan Rakyat）における2026
 電子ライセンスポータルを参照すること。そして、あなたの疑問が実際には入植者
 やゴムの小規模生産者に関するものであれば、`rurallink.gov.my` の KKDW へと
 目を向けてほしい。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの農業・食料部門](/ja/agriculture/agriculture-sector-overview/)。

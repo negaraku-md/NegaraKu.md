@@ -182,3 +182,5 @@ Nói cách khác, Malaysia đã chứng minh cơ chế hoạt động. Điều n
 Tín hiệu tức thời cần theo dõi là **Người Mua Duy nhất độc lập**: tách nó hoàn toàn khỏi TNB là thay đổi cấu trúc sẽ làm cho một thị trường bán buôn trung lập, cạnh tranh trở nên đáng tin. Sau đó, câu hỏi là liệu việc tiếp cận bên thứ ba có mở rộng vượt ra ngoài năng lượng tái tạo và ngoài các doanh nghiệp lớn hay không — điểm mà người tiêu dùng thông thường cuối cùng có thể có được sự lựa chọn nhà cung cấp.
 
 Cũng đáng theo dõi là cách cơ chế biểu giá tiến hóa khi thị trường mở cửa, và liệu kỳ quản lý 2025–2027 có mang lại khung tiếp cận bên thứ ba rộng hơn mà MESI 2.0 lần đầu hứa hẹn từ năm 2019 hay không. Hiện tại, cải cách điện của Malaysia vẫn là một câu chuyện của các bước có chủ đích, gia tăng dần — chuyển động thực, nhưng còn xa một thị trường được tự do hóa hoàn toàn.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

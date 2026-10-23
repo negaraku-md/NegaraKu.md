@@ -163,3 +163,5 @@ Tenga en cuenta que rehabilitar un proyecto abandonado puede llevar años y el r
 - **Si el proyecto parece haberse estancado:** consulte la Lista de Proyectos Enfermos y Abandonados y obtenga asesoramiento legal temprano, ya que las pérdidas cuantiosas pueden requerir una acción civil.
 
 Esta guía es información general y no asesoramiento legal. Para casos específicos, consulte a un abogado cualificado o al Departamento Nacional de Vivienda, KPKT.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

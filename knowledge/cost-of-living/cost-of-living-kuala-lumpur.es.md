@@ -185,3 +185,5 @@ peajes en las autopistas del Valle de Klang. Por el lado de los ingresos,
 [Impuesto sobre la renta de las personas físicas](/en/money-daily-life/income-tax-individuals)
 explica qué le ocurre a ese salario más alto de Kuala Lumpur antes de llegar al
 presupuesto del propio hogar.
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

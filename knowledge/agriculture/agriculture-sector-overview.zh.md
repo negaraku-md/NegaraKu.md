@@ -246,6 +246,27 @@ KPK监管主要为出口而种植的工业商品。据其官方门户，它涵�
 
 **「农业数字是固定的。」** 这里的大多数数字（产量、价格、产量、SSR）每年检讨，并随天气、全球价格和重种周期而变动。请参阅DOSM、MPOB和各部门的最新发布以获取当前数据。
 
+## 深入了解本主题
+
+本领域的重点指南：
+
+- [稻农农业补贴与农场投入援助](/zh/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS 与马来西亚大米进口垄断](/zh/agriculture/bernas-rice-import-monopoly/)
+- [马来西亚渔业局（DOF）](/zh/agriculture/department-of-fisheries-malaysia/)
+- [马来西亚榴梿与热带水果出口贸易](/zh/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/zh/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA 与 RISDA](/zh/agriculture/felcra-risda-smallholder-agencies/)
+- [联邦土地发展局（FELDA）](/zh/agriculture/felda-land-settlement-scheme/)
+- [FGV控股](/zh/agriculture/fgv-holdings-plantation-restructuring/)
+- [马来西亚粮食安全政策与自给自足水平目标](/zh/agriculture/food-security-self-sufficiency-policy/)
+- [马来西亚畜牧与家禽业](/zh/agriculture/livestock-poultry-industry/)
+- [马来西亚渔业](/zh/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/zh/agriculture/mardi-agricultural-research-institute/)
+- [农业与粮食安全部（KPKM）及其机构](/zh/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [油棕小农与 MSPO 可持续认证](/zh/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [马来西亚的稻米产业](/zh/agriculture/padi-and-rice-industry/)
+- [马来西亚稻米产业](/zh/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## 下一步
 
 - 深入了解最大的出口商品——[马来西亚棕油领域概览](/zh/economy/palm-oil-sector)——其规模、机构和可持续性认证。

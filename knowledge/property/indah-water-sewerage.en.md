@@ -149,3 +149,5 @@ applicable to your premise.
   not the states or Local Authorities: [Federal-State Division of Powers](/en/government/federal-state-division)
 - The role of the Local Authorities that used to manage sewerage before
   the 1994 privatisation: [Local Councils](/en/states/local-councils)
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

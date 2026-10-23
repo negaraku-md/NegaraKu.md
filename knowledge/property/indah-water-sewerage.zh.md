@@ -132,3 +132,5 @@ IWK 起初是联邦政府于 1994 年 4 月 2 日授予的专营权，依据 Sew
   [联邦—州权力划分](/zh/government/federal-state-division)
 - 1994 年私有化之前曾经负责管理污水处理的地方政府机构角色：
   [地方议会](/zh/states/local-councils)
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

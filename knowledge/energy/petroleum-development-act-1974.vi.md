@@ -137,3 +137,5 @@ Một số diễn biến đã được báo cáo công khai: vào tháng 5 năm 
 Khung cốt lõi vẫn như năm 1974: quyền sở hữu được đặt vào Petronas, "không thể hủy ngang", với các khoản chi trả tiền mặt cho liên bang và bang được xác định qua thỏa thuận chứ không phải bởi một mức theo luật định. Điều tiếp tục thay đổi là các lớp bên trên nó — luật của bang, các thực thể bang như Petros, các giải quyết thương mại, và các tuyên bố chung.
 
 Đối với người đọc theo dõi các diễn biến này, ba điều đáng được kiểm tra với các nguồn chính trước khi đưa ra bất kỳ kết luận nào: (1) các điều khoản chính xác của bất kỳ thỏa thuận chuyển nhượng hoặc giải quyết nào, vốn hiếm khi được công bố đầy đủ; (2) bất kỳ phán quyết tòa án gần đây nào về thẩm quyền của bang so với liên bang; và (3) văn bản cập nhật của Act 144 trên cổng của Attorney General's Chambers, vì các con số và sửa đổi có thể thay đổi. Bản thảo này được chuẩn bị với sự trợ giúp của AI và cần được người rà soát trước khi công bố.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

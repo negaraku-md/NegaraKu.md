@@ -163,3 +163,5 @@ FAMA 内部不同部门管理。请在您办理事务当天于 `fama.gov.my` 查
 Agrobazaar 或 My Farm Outlet，或参与合约农耕（Ladang Kontrak）和 RANTAI 等
 计划——然后在 `fama.gov.my` 查看参与表格与条件。如果您是消费者，您所在地区的
 FAMA 农民市集与门市名单同样可在该机构官方网站查得。
+
+查看完整指南：[马来西亚农业与农粮领域](/zh/agriculture/agriculture-sector-overview/)。

@@ -121,3 +121,5 @@ Một hiệp hội cư dân là một hội đoàn theo Luật Hội đoàn 1966
 ## Tiếp theo
 
 Nếu loại hình của bạn đã có chủ quyền phân tầng và một JMB hoặc MC, lương của bảo vệ chỉ là một dòng trong một hóa đơn theo luật định lớn hơn — xem [Sống trong chung cư ở Malaysia](/vi/property/condo-living-maintenance-fees) để biết cách nguồn tài chính đó vận hành. Về ai thực sự chấp thuận một chòi bảo vệ, barie hay đơn xin lập GN, xem [Hội đồng Địa phương ở Malaysia](/vi/states/local-councils).
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

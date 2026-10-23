@@ -168,3 +168,5 @@ Both routes exist precisely because there's no simpler statutory shortcut — th
 ## What's next
 
 Once the tenancy agreement is signed and stamped, the next practical steps are usually setting up the utility accounts in the tenant's name and understanding any building-level charges that sit alongside rent. See [opening a TNB electricity account](/en/property/electricity-tnb-account) for how the Change of Tenancy process and its own deposit work, and [condo living and maintenance fees](/en/property/condo-living-maintenance-fees) if the unit sits in a strata property with its own management corporation. If you haven't yet found the unit or verified who you're dealing with, [finding a rental in Malaysia](/en/property/finding-a-rental) covers the portals and the REN registration check that should happen before any deposit changes hands.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

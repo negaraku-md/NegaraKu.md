@@ -235,3 +235,5 @@ Si estás investigando más a fondo, los siguientes pasos de mayor valor son:
 - Consultar el **Informe Integrado de PETRONAS** anual y las **estadísticas trimestrales de petróleo del DOSM** para las últimas cifras de producción, exportación y contribución.
 
 Esas fuentes primarias te mantendrán al día a medida que las cifras cambien, pero la arquitectura subyacente —un propietario que concede licencias a muchos contratistas bajo condiciones de producción compartida— se ha mantenido desde 1974 y no da señales de cambiar.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

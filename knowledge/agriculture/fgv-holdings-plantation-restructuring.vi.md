@@ -137,3 +137,5 @@ Các quan chức đã báo hiệu một **sự sắp xếp lại cấu trúc t�
 ## Tiếp theo
 
 Các câu hỏi mở hiện nay là quản trị và kết quả. Với tư cách một thực thể tư nhân do FELDA kiểm soát, FGV mất đi việc công bố theo quý và sự giám sát của thị trường vốn đi kèm với việc niêm yết tại Bursa, nên kết quả hoạt động tương lai sẽ khó theo dõi hơn đối với người bên ngoài. Hãy theo dõi cách FELDA tích hợp FGV vào một cấu trúc tập đoàn hợp nhất, liệu các lợi ích về chi phí và năng suất được hứa hẹn có thành hiện thực hay không, và cách các lợi ích của người khai hoang — phần lớn nguồn cung quả của FGV — được cân bằng với khoản thu thương mại. Trong khi đó, các cổ đông bất đồng có đến ngày 15 tháng 1 năm 2026 để quyết định liệu có bán ra ở mức RM1.30 hay không.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

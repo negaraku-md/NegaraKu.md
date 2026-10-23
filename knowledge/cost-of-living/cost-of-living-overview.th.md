@@ -147,6 +147,23 @@ keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia house
 - **สับสนระหว่างรายได้ครัวเรือนกับเงินเดือนของบุคคล** ดู[ค่าจ้างขั้นต่ำเทียบกับรายได้มัธยฐาน](/th/cost-of-living/minimum-wage-and-median-income)สำหรับเหตุผลที่ชุดข้อมูล DOSM ทั้งสองนี้แตกต่างกันและไม่ควรใช้แทนกัน
 - **อ้างดัชนีค่าครองชีพระหว่างประเทศที่รวบรวมจากมวลชนราวกับเป็นข้อมูลรัฐบาลมาเลเซียอย่างเป็นทางการ** มันไม่ใช่ — DOSM ไม่ได้เผยแพร่ ด้วยเหตุผลข้างต้น
 
+## สำรวจหัวข้อนี้เชิงลึก
+
+คู่มือสำคัญในด้านนี้:
+
+- [B40, M40, T20](/th/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/th/cost-of-living/belanjawanku-reference-budget/)
+- [ทำไม Milo กระป๋องหนึ่งจึงแพงกว่าในโกตากินาบาลูเมื่อเทียบกับกลัง](/th/cost-of-living/cost-of-living-east-malaysia/)
+- [ค่าครองชีพของยะโฮร์บาห์รู](/th/cost-of-living/cost-of-living-johor-bahru/)
+- [ทำไมกัวลาลัมเปอร์จึงเป็นสถานที่ที่แพงที่สุดในการใช้ชีวิตของมาเลเซีย](/th/cost-of-living/cost-of-living-kuala-lumpur/)
+- [ค่าครองชีพของปีนังแยกที่ช่องแคบ](/th/cost-of-living/cost-of-living-penang/)
+- [เงินริงกิตของครัวเรือนมาเลเซียไปไหนจริง ๆ ในแต่ละเดือน](/th/cost-of-living/household-spending-breakdown/)
+- [มาเลเซียมีค่าใช้จ่ายที่จ่ายไหวสำหรับชาวต่างชาติหรือไม่? ตัวเลขทางการบอกอะไรจริง ๆ](/th/cost-of-living/is-malaysia-affordable-for-expats/)
+- [มาเลเซียอยู่อันดับใดในดัชนีค่าครองชีพระดับโลก](/th/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [ค่าจ้างขั้นต่ำเทียบกับรายได้มัธยฐาน](/th/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/th/cost-of-living/padu-central-database/)
+- [มาเลเซียควบคุมการค้ากำไรเกินควรอย่างไร](/th/cost-of-living/price-control-anti-profiteering-act/)
+
 ## อ่านต่อ
 
 - สำหรับว่าค่าจ้างของบุคคลเทียบกับตัวเลขครัวเรือนเหล่านี้อย่างไร: [ค่าจ้างขั้นต่ำเทียบกับรายได้มัธยฐาน](/th/cost-of-living/minimum-wage-and-median-income)

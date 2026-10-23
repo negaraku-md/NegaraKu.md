@@ -169,3 +169,5 @@ Setelah protes masyarakat adat yang berlarut-larut, dipimpin masyarakat Kenyah, 
 Masa depan tenaga hidro Malaysia berkisar pada dua arah yang berbeda. Di Semenanjung, agenda utama adalah memperpanjang masa pakai pembangkit yang sudah ada — seperti Kenyir melalui HLEP — dan proyek baru yang lebih kecil untuk mendukung sasaran energi terbarukan negara. Di Sarawak, Baleh akan menentukan apakah model bendungan mega dapat diselesaikan sesuai jadwal sambil menghindari kontroversi yang membelenggu Bakun dan Murum.
 
 Untuk pembaca yang ingin mendalami topik ini, langkah selanjutnya yang berguna termasuk memahami peran hidro dalam sasaran energi terbarukan nasional, membandingkan biaya hidro dengan surya dan tenaga lain, serta mengikuti bagaimana hak tanah adat dan penilaian dampak lingkungan terus membentuk keputusan proyek. Perhatikan pengumuman resmi dari Sarawak Energy, RECODA dan Suruhanjaya Tenaga untuk angka dan status proyek yang terkini.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

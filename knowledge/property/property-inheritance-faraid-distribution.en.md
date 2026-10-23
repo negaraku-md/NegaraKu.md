@@ -152,3 +152,5 @@ The final step for a house is the **transfer of ownership at the Land Office**. 
 - **Get qualified advice:** because this topic involves religious law and family rights, consult a syarie/civil lawyer or an Amanah Raya officer for your specific case, and confirm every figure against the latest official sources.
 
 *This draft was prepared with AI assistance and has not undergone expert human review. It is general information only and not legal or religious advice.*
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

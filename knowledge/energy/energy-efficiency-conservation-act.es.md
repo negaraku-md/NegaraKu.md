@@ -151,3 +151,5 @@ Para las empresas, el efecto práctico es modesto pero duradero: la gobernanza e
 Si su organización pudiera superar el umbral de 21,600 GJ, el primer paso es sumar el consumo energético anual de todas sus instalaciones y comprobar si necesita nombrar a un gestor energético registrado. Los propietarios de grandes edificios de oficinas deben comprobar su superficie bruta y calcular su BEI actual frente al límite de 250 kWh/m²/año.
 
 Para conocer los requisitos de registro más recientes, las listas de gestores y auditores energéticos registrados, los formularios y los plazos de presentación de informes, consulte directamente el sitio web de la Comisión de Energía. Este contenido es una descripción general y no asesoramiento jurídico; verifique cualquier umbral, sanción o plazo con el texto oficial de la Act 861 y el Reglamento de Eficiencia y Conservación Energética de 2024.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

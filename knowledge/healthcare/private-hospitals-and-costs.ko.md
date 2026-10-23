@@ -130,3 +130,5 @@ keywords: ["private hospital Malaysia", "private hospital bill", "specialist con
 ## 다음으로
 
 예치금과 보증서 세부에 대해서는, 지정(panel) 약정이 보험사와 병원마다 다르므로 보험사 자체의 청구 또는 메디컬 카드 안내가 가장 최신 출처입니다. 허가 틀 자체에 대해서는, 보건부의 Act 586 목록이 현행 재판본으로 연결됩니다. 그리고 청구서에 서비스세 항목이 있다면, 부문별 서비스세 해설이 현재 무엇이 누구에게 적용되는지를 확인할 곳입니다.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

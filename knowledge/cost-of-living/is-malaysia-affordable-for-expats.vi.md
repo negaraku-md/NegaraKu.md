@@ -111,3 +111,5 @@ Các mức trung bình quốc gia ở trên san bằng một khoảng cách lớ
 ## Tiếp theo
 
 Về phiên bản cấp thành phố của câu hỏi này, hãy xem [Vì sao Kuala Lumpur là nơi sống đắt đỏ nhất Malaysia](/vi/cost-of-living/cost-of-living-kuala-lumpur). Về cách con số lạm phát nền tảng thực sự được xây dựng, hãy xem [Tỷ lệ lạm phát của Malaysia và CPI thực sự đo lường điều gì](/vi/economy/inflation-cpi).
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

@@ -156,3 +156,5 @@ Kalender akademik, struktur semester, dan libur sekolah ditetapkan secara nasion
 ## Apa selanjutnya
 
 Sistem persekolahan Malaysia mencerminkan negara yang dilayaninya: sebuah kerangka nasional bersama yang disampaikan melalui lebih dari satu bahasa pengantar, menjaga kurikulum bersama dan ujian bersama di seluruh komunitas yang berbeda. Untuk pendamping praktis dari struktur ini — kapan semester dimulai, berapa lama liburnya, dan bagaimana semuanya selaras dengan perayaan — baca [kalender akademik dan libur sekolah](/id/education/academic-calendar-and-school-holidays/). Untuk detail otoritatif tentang kebijakan, kurikulum, dan pengaturan penilaian terkini, portal Kementerian Pendidikan adalah sumber utamanya.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

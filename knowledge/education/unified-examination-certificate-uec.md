@@ -146,3 +146,5 @@ Setakat draf ini disediakan, kedudukan rasmi kekal sama: UEC tidak diiktiraf ole
 Bagi pelajar dan ibu bapa, langkah praktikal yang lazim ialah memahami syarat kemasukan setiap laluan lebih awal — termasuk sama ada perlu menduduki SPM atau STPM sebagai kelayakan tambahan untuk IPTA — dan menyemak keperluan khusus setiap universiti atau negeri. Memandangkan dasar boleh berubah mengikut keputusan kerajaan pada masa hadapan, rujukan kepada pengumuman rasmi Kementerian Pendidikan dan kerajaan negeri yang berkaitan ialah sumber maklumat yang paling tepat.
 
 > Nota: Ini ialah draf yang dijana dengan bantuan AI dan belum melalui semakan manusia. Angka dan tarikh perlu disahkan semula sebelum diterbitkan, dan sifat topik yang sensitif memerlukan semakan editorial yang teliti.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

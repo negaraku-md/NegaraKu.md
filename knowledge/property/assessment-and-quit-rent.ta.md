@@ -136,3 +136,5 @@ National Land Code 1965 **மலேசியத் தீபகற்பத்�
 - [மலேசியாவின் மூன்று அடுக்கு அரசாங்கம்](/ta/government/three-tiers-of-government) — கூட்டாட்சி, மாநிலம் மற்றும் உள்ளூர் அதிகாரத்தில் எவ்வாறு வேறுபடுகின்றன
 - [கூட்டாட்சி–மாநில அதிகாரப் பகிர்வு](/ta/government/federal-state-division) — நிலம் ஏன் மாநில அதிகாரப் பட்டியலில் அடங்குகிறது
 - [மாநில சட்டமன்றம் (Dewan Undangan Negeri, DUN)](/ta/government/state-assemblies-dun) — மாநில நிலச் சட்டங்களை நிறைவேற்றும் அமைப்பு
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவில் வீடு வாங்குதல்](/ta/property/buying-a-home-process/).

@@ -196,6 +196,23 @@ RM5,566预算的67.2%：
 - **把众包型的国际生活成本指数当作马来西亚官方政府数据来引用。** 事
   实并非如此——基于上述原因，DOSM并未发布这类指数。
 
+## 深入了解本主题
+
+本领域的重点指南：
+
+- [B40、M40、T20](/zh/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/zh/cost-of-living/belanjawanku-reference-budget/)
+- [为什么一罐美禄在亚庇比在巴生更贵](/zh/cost-of-living/cost-of-living-east-malaysia/)
+- [新山生活成本](/zh/cost-of-living/cost-of-living-johor-bahru/)
+- [为什么吉隆坡是马来西亚生活成本最高的地方](/zh/cost-of-living/cost-of-living-kuala-lumpur/)
+- [槟城的生活成本在海峡两岸分裂](/zh/cost-of-living/cost-of-living-penang/)
+- [马来西亚家庭的令吉，每个月究竟花到哪里去了](/zh/cost-of-living/household-spending-breakdown/)
+- [马来西亚对外籍人士而言负担得起吗？官方数据究竟怎么说](/zh/cost-of-living/is-malaysia-affordable-for-expats/)
+- [马来西亚在全球生活成本指数中的排名](/zh/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [最低薪金与收入中位数对比](/zh/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/zh/cost-of-living/padu-central-database/)
+- [马来西亚如何遏制哄抬物价](/zh/cost-of-living/price-control-anti-profiteering-act/)
+
 ## 下一步
 
 - 想知道个人薪资相对于这些家庭数字处于什么水平，见

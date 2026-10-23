@@ -246,3 +246,5 @@ Các thách thức ngắn hạn của ngành hiện rõ trong các con số củ
 Để có phạm vi phủ sóng sâu hơn của NegaraKu.md, các mục đọc tiếp tự nhiên là hồ sơ về **Ủy ban Dầu cọ Malaysia** với tư cách cơ quan điều tiết, và **ngành cao su** của Malaysia, cây trồng mà dầu cọ đã thay thế. Vì các con số cứng ở đây thay đổi với mỗi bản công bố hằng tháng và hằng năm của MPOB, hãy coi các sản lượng và giá cụ thể như một ảnh chụp nhanh của năm 2025 và kiểm tra bản tổng quan MPOB mới nhất trước khi trích dẫn chúng.
 
 *Đây là một bản nháp có hỗ trợ của AI và chưa được một chuyên gia lĩnh vực rà soát. Các con số được lấy nguồn từ MPOB, Bộ Đồn điền và Hàng hóa và MPOC như được trích dẫn; xác minh đối chiếu với các bản công bố mới nhất của MPOB trước khi dựa vào chúng. Các cuộc tranh luận về môi trường và lao động quanh dầu cọ được tóm tắt ở đây một cách ngắn gọn và bản thân chúng gây tranh cãi — hãy coi đây là một bản tổng quan, chứ không phải lời cuối cùng.*
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

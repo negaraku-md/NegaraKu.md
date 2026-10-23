@@ -105,3 +105,5 @@ Bagi pesakit yang mendapatkan ubat berulang daripada fasiliti kesihatan awam pul
 ## Apa yang seterusnya
 
 Bagi pesakit dengan ubat jangka panjang, baca tentang [insurans perubatan](/healthcare/medical-insurance) untuk memahami sejauh mana kos ubat ditanggung oleh pelan kesihatan. Bagi warga emas atau keluarga yang menguruskan ubat susulan secara berkala, [penjagaan kesihatan warga emas](/healthcare/healthcare-for-seniors) turut menerangkan perkhidmatan tambah nilai farmasi seperti ubat melalui pos yang mengurangkan keperluan hadir ke kaunter setiap bulan.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

@@ -163,3 +163,5 @@ private — exist nearby and what each requires. Families weighing a long-stay
 visa for a foreign retiree who will also need care as they age may also want
 to read about [the MM2H long-stay visa](/en/settling-in/mm2h-long-stay-visa),
 since long-term residence status affects which of these services apply.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

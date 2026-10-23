@@ -140,3 +140,5 @@ Following such incidents, updated guidelines emphasise basic safety features suc
 If you are assessing a religious institution, two basic questions help: **which body it is registered under** (the MOE, a state religious department, or both) and **how its building safety compliance is verified** by the Local Authorities and the Fire Department. Registration status can usually be checked with the relevant state Islamic religious department.
 
 Because Islamic religious affairs are largely a state matter, the details of requirements and processes vary between states — consult the official website of your state religious department for the latest requirements. This draft is explanatory; it does not take sides in the policy debate and does not replace official advice from the relevant authorities.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

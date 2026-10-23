@@ -201,3 +201,5 @@ Malaysia's RE framework moves quickly — quotas open and close, schemes are ext
 - **Match the scheme to your profile first** (household → SELCO / Solar ATAP; C&I → NOVA while it lasts, then SELCO; corporate buyer → CGPP or CRESS), then confirm the live quota and rules on the administering agency's portal — SEDA for NEM/FiT, the Energy Commission and Single Buyer for corporate programmes.
 - **Check your region.** Peninsular, Sabah and Sarawak differ; do not assume a Peninsular scheme is available where you are.
 - **Treat any figure flagged under *Verification needed* as provisional** until confirmed against a primary source — the older RE-share-of-consumption splits and MyRER's absolute-MW capacity target remain unverified.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

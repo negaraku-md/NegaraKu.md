@@ -119,3 +119,5 @@ Minimum Wages Order 2024 (P.U.(A) 376) ประกาศในราชกิ�
 - สำหรับรายละเอียดทางกฎหมายเบื้องหลังฐาน RM1,700 — ขอบเขต การหักเงิน กำหนดเวลาการจ่าย: [ค่าจ้างขั้นต่ำและกฎการจ่ายค่าจ้าง](/th/employment/minimum-wage-malaysia)
 - สำหรับตลาดแรงงานที่เงินเดือนเหล่านี้อยู่ภายใน: [อัตราการว่างงานของมาเลเซียและกำลังแรงงานเบื้องหลัง](/th/economy/unemployment-labour-force)
 - แหล่งข้อมูลหลัก: [พอร์ทัล Minimum Wages Order 2024](https://gajiminimum.mohr.gov.my/) และ [รายงานการสำรวจรายได้ครัวเรือน 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024) และ [รายงานการสำรวจเงินเดือนและค่าจ้าง 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024) ของ DOSM
+
+ดูคู่มือฉบับเต็ม: [ค่าครองชีพของมาเลเซีย ตามตัวเลขทางการ](/th/cost-of-living/cost-of-living-overview/)

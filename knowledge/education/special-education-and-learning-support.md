@@ -105,3 +105,5 @@ For children not yet old enough for PPI, PPKI or a special school, two separate 
 ## What's next
 
 Start with the OKU card application at JKM if your child doesn't already have one — it's the document nearly every other step assumes exists. In parallel, contact your nearest school with a PPKI programme, or the state education department, to arrange the Special Education Division's assessment; that assessment, not personal preference, determines which of the three tracks a child is placed into. If your child is under school age, TASKA OKU and NGOs such as NASOM are worth exploring in the meantime rather than waiting for the school-placement process to begin.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

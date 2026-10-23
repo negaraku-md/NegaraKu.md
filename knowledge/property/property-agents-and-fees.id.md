@@ -111,3 +111,5 @@ Agen juga boleh menuntut biaya tambahan seperti pengiklanan, pencetakan dan perj
 - Pastikan status agen dan firma Anda di [portal pemeriksaan LPEPH](https://lpeph.gov.my/search-listing) sebelum menandatangani perjanjian apa pun.
 - Cek skala biaya penuh dan syarat tuntutan biaya di [laman biaya resmi LPEPH](https://lpeph.gov.my/fees).
 - Untuk transaksi sewa, pahami juga ketentuan perjanjian penyewaan dan deposit sebelum agen memproses pembayaran.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

@@ -114,3 +114,5 @@ Le projet de loi initial contenait une disposition de *fin de partie génératio
 ## Ce qui vient ensuite
 
 Vérifiez si votre local — un commerce de détail ou un établissement de restauration — est conforme à l'interdiction d'exposition et aux exigences de panneau d'avertissement avant les échéances de conformité. Les parents et les éducateurs peuvent signaler les ventes à des mineurs au ministère de la Santé de Malaisie (Ministry of Health Malaysia). Surveillez également la réduction de la limite de nicotine à 20 mg/ml le 1er octobre 2025 et les appels persistants de certains milieux à réintroduire le GEG au titre de l'Act 852.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

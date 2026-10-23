@@ -180,6 +180,36 @@ SPM वह बिंदु है जहाँ शाखा-विभाजन �
 - **यह मान लेना कि "पॉलिटेक्निक" और "सामुदायिक कॉलेज" परस्पर विनिमेय हैं।** दोनों उच्च शिक्षा मंत्रालय के अंतर्गत आते हैं लेकिन अलग-अलग योग्यता-स्तर प्रदान करने वाले भिन्न संस्थान-प्रकार हैं।
 - **शिक्षा मंत्रालय (स्कूल) को उच्च शिक्षा मंत्रालय (विश्वविद्यालय) से भ्रमित करना।** वे दो अलग पोर्टल, बजट और मंत्रियों के साथ दो अलग मंत्रालय हैं।
 
+## इस विषय को विस्तार से जानें
+
+इस क्षेत्र की प्रमुख गाइड:
+
+- [मलेशिया का स्कूल कैलेंडर और स्कूली छुट्टियाँ](/hi/education/academic-calendar-and-school-holidays/)
+- [अपने बच्चे को सरकारी स्कूल में कैसे दाखिल कराएँ](/hi/education/enrolling-in-a-government-school/)
+- [विदेशी विश्वविद्यालयों के शाखा-परिसर और शिक्षा-केंद्र](/hi/education/foreign-university-branch-campuses-and-education-hubs/)
+- [प्रतिभाशाली और मेधावी शिक्षा (PERMATApintar)](/hi/education/gifted-and-talented-education/)
+- [मलेशिया में होमस्कूलिंग](/hi/education/homeschooling/)
+- [मलेशिया में अंतरराष्ट्रीय स्कूल](/hi/education/international-schools/)
+- [एक अंतरराष्ट्रीय विद्यार्थी के रूप में मलेशिया में अध्ययन](/hi/education/international-students-studying-in-malaysia/)
+- [मलेशिया में इस्लामी और धार्मिक स्कूल](/hi/education/islamic-and-religious-schools/)
+- [JPA और मलेशिया की प्रमुख सार्वजनिक छात्रवृत्ति योजनाएँ](/hi/education/jpa-and-public-scholarships/)
+- [MQA और मलेशिया में डिग्री मान्यता](/hi/education/malaysian-qualifications-agency-and-accreditation/)
+- [मलेशियाई स्कूल प्रणाली](/hi/education/malaysian-school-system/)
+- [MRSM और पूर्ण आवासीय विद्यालय (SBP)](/hi/education/mrsm-and-fully-residential-schools/)
+- [MUET और विश्वविद्यालय प्रवेश परीक्षाएँ](/hi/education/muet-and-university-entrance-tests/)
+- [SK, SJKC और SJKT](/hi/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG और सरकारी विद्यालयों में पढ़ाई की लागत](/hi/education/pibg-and-school-fees/)
+- [STPM, मैट्रिकुलेशन, फाउंडेशन या A-Level](/hi/education/pre-university-routes/)
+- [Taska, Tadika, Prasekolah](/hi/education/preschool-tadika-childcare/)
+- [निजी और चीनी स्वतंत्र विद्यालय](/hi/education/private-and-chinese-independent-schools/)
+- [PTPTN कोई छात्रवृत्ति नहीं है](/hi/education/ptptn-student-loan/)
+- [IPTA या IPTS? मलेशिया के सार्वजनिक और निजी विश्वविद्यालय असल में कैसे भिन्न हैं](/hi/education/public-vs-private-universities/)
+- [मलेशिया में विशेष शिक्षा](/hi/education/special-education-and-learning-support/)
+- [मलेशिया में ट्यूशन केंद्र और निजी कोचिंग](/hi/education/tuition-centres-and-private-coaching/)
+- [हर रास्ता विश्वविद्यालय तक नहीं जाता](/hi/education/tvet-and-skills-training/)
+- [एकीकृत परीक्षा प्रमाणपत्र (UEC)](/hi/education/unified-examination-certificate-uec/)
+- [UPSR से SPM तक](/hi/education/upsr-to-spm-exams/)
+
 ## आगे क्या
 
 यह पृष्ठ मानचित्र है, गंतव्य नहीं — यह जानबूझकर किसी एक शाखा पर हल्का है ताकि यह विवरण की ओर इशारा कर सके। SPM और स्कूल परीक्षा प्रणाली पर, STPM, मैट्रिकुलेशन और निजी पूर्व-विश्वविद्यालय मार्गों के बीच चयन पर, TVET प्रमाणन वास्तव में कैसे काम करता है पर, और सार्वजनिक विश्वविद्यालय प्रवेश कैसे समन्वित किया जाता है पर समर्पित लेख NegaraKu.md पर इस अवलोकन के नीचे की ओर बैठते हैं और उन कार्यविधियों में गहराई से जाते हैं जिन्हें यह पृष्ठ केवल मानचित्रित करता है।

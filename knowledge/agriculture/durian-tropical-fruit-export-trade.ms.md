@@ -166,3 +166,5 @@ Strategi itu, oleh itu, mempunyai tiga tunjang: memegang dan meluaskan akses Chi
 ## Apa yang seterusnya
 
 Perhatikan tiga perkara. Pertama, sama ada Malaysia meluaskan perlindungan GI ke luar negara — jurang tunggal terbesar dalam strategi jenama semasa. Kedua, bagaimana persoalan durian potong terlebih dahulu dan bernilai tambah diselesaikan, kerana sebarang kaedah di luar protokol yang ditandatangani membahayakan pasaran China bagi semua orang. Ketiga, sama ada langkah pempelbagaian Taiwan dan Peru bergerak daripada aspirasi kepada protokol yang ditandatangani. Bagi penanam, iktibar praktikal kekal tidak berubah: tanpa pendaftaran DOA, pematuhan myGAP dan kelulusan GACC bermakna tiada eksport durian segar, titik. Angka di sini diambil daripada jawapan parlimen dan kenyataan agensi dan akan berubah apabila data rasmi yang lebih baharu diterbitkan — semak dengan Kementerian Pertanian dan Keterjaminan Makanan dan MATRADE untuk angka semasa.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

@@ -180,6 +180,36 @@ Lembaga Peperiksaan மற்றும் Majlis Peperiksaan Malaysia சாத�
 - **"பாலிடெக்னிக்" மற்றும் "சமூகக் கல்லூரி" ஒன்றுக்கொன்று பரிமாற்றக்கூடியவை என்று கருதுவது.** இரண்டும் உயர்கல்வி அமைச்சின் கீழ் வருகின்றன, ஆனால் வெவ்வேறு தகுதி நிலைகளை வழங்கும் தனித்துவமான நிறுவன வகைகளாகும்.
 - **கல்வி அமைச்சை (பள்ளிகள்) உயர்கல்வி அமைச்சுடன் (பல்கலைக்கழகங்கள்) குழப்பிக்கொள்வது.** அவை இரண்டு தனி வலைத்தளங்கள், வரவுசெலவுத் திட்டங்கள் மற்றும் அமைச்சர்களைக் கொண்ட இரண்டு தனி அமைச்சுகளாகும்.
 
+## இந்தத் தலைப்பை ஆழமாக ஆராயுங்கள்
+
+இந்தத் துறையின் முக்கிய வழிகாட்டிகள்:
+
+- [மலேசியப் பள்ளி கல்வி நாட்காட்டியும் பள்ளி விடுமுறைகளும்](/ta/education/academic-calendar-and-school-holidays/)
+- [உங்கள் குழந்தையை அரசுப் பள்ளியில் எப்படிப் பதிவு செய்வது](/ta/education/enrolling-in-a-government-school/)
+- [வெளிநாட்டுப் பல்கலைக்கழக கிளை வளாகங்களும் கல்வி மையங்களும்](/ta/education/foreign-university-branch-campuses-and-education-hubs/)
+- [நுண்ணறிவும் திறமையும் மிக்க மாணவர் கல்வி (PERMATApintar)](/ta/education/gifted-and-talented-education/)
+- [மலேசியாவில் வீட்டுக் கல்வி (Homeschooling)](/ta/education/homeschooling/)
+- [மலேசியாவில் சர்வதேசப் பள்ளிகள்](/ta/education/international-schools/)
+- [சர்வதேச மாணவராக மலேசியாவில் படிப்பது](/ta/education/international-students-studying-in-malaysia/)
+- [மலேசியாவில் இஸ்லாமிய மற்றும் மத பள்ளிகள்](/ta/education/islamic-and-religious-schools/)
+- [JPA மற்றும் மலேசியாவின் முக்கிய பொது புலமைப்பரிசில் திட்டங்கள்](/ta/education/jpa-and-public-scholarships/)
+- [MQA-வும் மலேசியாவில் பட்ட அங்கீகாரமும்](/ta/education/malaysian-qualifications-agency-and-accreditation/)
+- [மலேசியப் பள்ளி முறை](/ta/education/malaysian-school-system/)
+- [MRSM மற்றும் முழு உறைவிடப் பள்ளிகள் (SBP)](/ta/education/mrsm-and-fully-residential-schools/)
+- [MUET மற்றும் பல்கலைக்கழக நுழைவுத் தேர்வுகள்](/ta/education/muet-and-university-entrance-tests/)
+- [SK, SJKC மற்றும் SJKT](/ta/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG மற்றும் அரசாங்கப் பள்ளியில் படிப்பதற்கான செலவுகள்](/ta/education/pibg-and-school-fees/)
+- [STPM, Matrikulasi, Foundation அல்லது A-Levels](/ta/education/pre-university-routes/)
+- [Taska, Tadika, Prasekolah](/ta/education/preschool-tadika-childcare/)
+- [தனியார் மற்றும் சீன சுதந்திரப் பள்ளிகள்](/ta/education/private-and-chinese-independent-schools/)
+- [PTPTN ஒரு புலமைப்பரிசில் அல்ல](/ta/education/ptptn-student-loan/)
+- [IPTA-வா IPTS-ஆ? மலேசியாவின் அரசு மற்றும் தனியார் பல்கலைக்கழகங்கள் உண்மையில் எவ்வாறு வேறுபடுகின்றன](/ta/education/public-vs-private-universities/)
+- [மலேசியாவில் சிறப்புக் கல்வி](/ta/education/special-education-and-learning-support/)
+- [மலேசியாவில் டியூஷன் மையங்களும் தனிப்பட்ட வழிகாட்டலும்](/ta/education/tuition-centres-and-private-coaching/)
+- [எல்லா பாதைகளும் பல்கலைக்கழகத்திற்குச் செல்வதில்லை](/ta/education/tvet-and-skills-training/)
+- [ஒருங்கிணைந்த தேர்வுச் சான்றிதழ் (UEC)](/ta/education/unified-examination-certificate-uec/)
+- [UPSR முதல் SPM வரை](/ta/education/upsr-to-spm-exams/)
+
 ## அடுத்தது என்ன
 
 இந்தப் பக்கம் வரைபடம், இலக்கல்ல — அது எந்த ஒரு கிளையிலும் வேண்டுமென்றே சுருக்கமாக உள்ளது, இதனால் விவரங்களைச் சுட்டிக்காட்ட முடியும். SPM மற்றும் பள்ளித் தேர்வு முறை பற்றியும், STPM, மெட்ரிகுலேஷன் மற்றும் தனியார் பல்கலைக்கழகத்துக்கு முந்தைய வழிகளுக்கு இடையே தேர்வு செய்வது பற்றியும், TVET சான்றிதழ் உண்மையில் எவ்வாறு செயல்படுகிறது என்பது பற்றியும், அரசு பல்கலைக்கழக சேர்க்கை எவ்வாறு ஒருங்கிணைக்கப்படுகிறது என்பது பற்றியும் உள்ள தனிக் கட்டுரைகள், NegaraKu.md-இல் இந்த மேலோட்டப் பார்வைக்குப் பின்னால் அமைந்து, இந்தப் பக்கம் வெறும் வரைபடமாகக் காட்டும் இயங்குமுறைகளுக்குள் செல்கின்றன.

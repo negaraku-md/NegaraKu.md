@@ -179,6 +179,36 @@ SPMは、分岐が現実のものとなる地点である。大きく分ける�
 - **「ポリテクニック」と「コミュニティ・カレッジ」を同じものとみなす。** 両者はともに高等教育省の所管だが、異なる資格レベルを提供する別の種類の教育機関である。
 - **教育省（学校を所管）と高等教育省（大学を所管）を混同する。** 両者はそれぞれ別のポータルサイト、予算、大臣を持つ、まったく別個の省である。
 
+## このトピックを詳しく見る
+
+この分野の主要ガイド:
+
+- [マレーシアの学年暦と学校休暇](/ja/education/academic-calendar-and-school-holidays/)
+- [子どもを公立学校に登録する方法](/ja/education/enrolling-in-a-government-school/)
+- [外国大学分校と教育ハブ](/ja/education/foreign-university-branch-campuses-and-education-hubs/)
+- [英才教育（PERMATApintar）](/ja/education/gifted-and-talented-education/)
+- [マレーシアのホームスクーリング](/ja/education/homeschooling/)
+- [マレーシアのインターナショナルスクール](/ja/education/international-schools/)
+- [マレーシア留学](/ja/education/international-students-studying-in-malaysia/)
+- [マレーシアのイスラム学校・宗教学校](/ja/education/islamic-and-religious-schools/)
+- [JPAとマレーシアの主要公共奨学金制度](/ja/education/jpa-and-public-scholarships/)
+- [MQAとマレーシアの学位認定](/ja/education/malaysian-qualifications-agency-and-accreditation/)
+- [マレーシアの学校制度](/ja/education/malaysian-school-system/)
+- [MARA理工中等学校（MRSM）と全寮制学校（SBP）](/ja/education/mrsm-and-fully-residential-schools/)
+- [MUETと大学入学試験](/ja/education/muet-and-university-entrance-tests/)
+- [SK、SJKC、SJKT](/ja/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG（保護者教師協会）と公立学校の就学費用](/ja/education/pibg-and-school-fees/)
+- [STPM、Matrikulasi、Foundation、それともAレベル](/ja/education/pre-university-routes/)
+- [保育所（Taska）、幼稚園（Tadika）、就学前教育（Prasekolah）](/ja/education/preschool-tadika-childcare/)
+- [私立学校と華文独立中学（独中）](/ja/education/private-and-chinese-independent-schools/)
+- [PTPTNは奨学金ではない――この教育ローンの本当の仕組み](/ja/education/ptptn-student-loan/)
+- [IPTAかIPTSか？マレーシアの国立大学と私立大学は実際何が違うのか](/ja/education/public-vs-private-universities/)
+- [マレーシアの特別教育](/ja/education/special-education-and-learning-support/)
+- [マレーシアの学習塾と個人指導](/ja/education/tuition-centres-and-private-coaching/)
+- [大学だけが道ではない](/ja/education/tvet-and-skills-training/)
+- [統一試験証明書（UEC）](/ja/education/unified-examination-certificate-uec/)
+- [UPSRからSPMへ](/ja/education/upsr-to-spm-exams/)
+
 ## 次に読むべき記事
 
 このページは地図であって、目的地そのものではない——あえてどの枝についても深入りしないことで、詳細への案内役に徹している。SPMと学校試験制度についての専門記事、STPM・マトリキュレーション・私立の大学予科ルートの選び方についての記事、TVET認定が実際にどう機能するかについての記事、そして公立大学の入学がどのように調整されているかについての記事が、NegaraKu.md上ではこの概観記事の先に用意されており、このページが地図として示すだけにとどめた仕組みの中身に踏み込んでいる。

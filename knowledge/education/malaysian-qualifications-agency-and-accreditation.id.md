@@ -143,3 +143,5 @@ Mengapa ini penting: pengakuan inilah yang memungkinkan seorang lulusan memasuki
 ## Apa selanjutnya
 
 Jika Anda sedang memilih suatu kursus, buka MQR dan sahkan status program *sebelum* Anda membayar deposit — sementara atau penuh tidak masalah, tidak ada sama sekali tidak boleh. Jika suatu program yang Anda minati tidak tercantum, tanyakan institusi tersebut secara langsung untuk rujukan dan status MQA-nya secara tertulis, dan anggaplah jawaban yang samar sebagai tanda peringatan. Bagi profesi yang diatur, hubungi badan profesional terkait untuk mengesahkan jalur lulusan ke pendaftaran. Pemberi kerja dan tim HR dapat menggunakan daftar yang sama untuk mengesahkan kualifikasi yang diklaim oleh seorang kandidat dalam beberapa menit.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

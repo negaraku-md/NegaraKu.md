@@ -202,3 +202,5 @@ Kerangka RE Malaysia bergerak cepat — kuota dibuka dan ditutup, skema diperpan
 - **Cocokkan skema dengan profil Anda dulu** (rumah tangga → SELCO / Solar ATAP; C&I → NOVA selama masih berjalan, kemudian SELCO; pembeli korporat → CGPP atau CRESS), kemudian verifikasi kuota dan aturan terkini di portal lembaga pengelola — SEDA untuk NEM/FiT, Suruhanjaya Tenaga dan Pembeli Tunggal untuk program korporat.
 - **Periksa wilayah Anda.** Semenanjung, Sabah dan Sarawak berbeda; jangan asumsikan skema Semenanjung tersedia di tempat Anda.
 - **Anggap angka apa pun yang ditandai di bawah *Verifikasi diperlukan* sebagai sementara** hingga diverifikasi terhadap sumber utama — pecahan bagian-RE-dari-penggunaan yang lebih lama dan sasaran kapasitas mutlak-MW MyRER masih belum diverifikasi.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

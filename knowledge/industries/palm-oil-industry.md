@@ -245,3 +245,5 @@ The industry's near-term challenges are visible in its own numbers: an ageing tr
 For deeper NegaraKu.md coverage, the natural next reads are the profile of the **Malaysian Palm Oil Board** as regulator, and Malaysia's **rubber industry**, the crop palm oil displaced. Because the hard figures here shift with each MPOB monthly and annual release, treat the specific tonnages and prices as a 2025 snapshot and check the latest MPOB overview before quoting them.
 
 *This is an AI-assisted draft and has not yet been reviewed by a subject-matter expert. Figures are sourced to MPOB, the Ministry of Plantation and Commodities and MPOC as cited; verify against the latest MPOB releases before relying on them. The environmental and labour debates around palm oil are summarised here in brief and are themselves contested — treat this as an overview, not the last word.*
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

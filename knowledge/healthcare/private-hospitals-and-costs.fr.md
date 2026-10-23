@@ -131,3 +131,5 @@ Depuis le 1er juillet 2025, une taxe sur les services s'applique à certains fra
 ## Ce qui suit
 
 Pour les détails du dépôt et de la lettre de garantie, les propres consignes de réclamation ou de carte médicale de votre assureur sont la source la plus à jour, car les accords de réseau varient selon l'assureur et l'hôpital. Pour le cadre d'autorisation lui-même, la fiche de la loi 586 du ministère de la Santé renvoie à la réimpression en vigueur. Et si une facture comporte une ligne de taxe sur les services, l'analyse de la taxe secteur par secteur est l'endroit où vérifier ce qui s'applique actuellement, et à qui.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

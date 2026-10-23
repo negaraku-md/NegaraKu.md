@@ -116,3 +116,5 @@ Mais les progrès ont été lents. Selon le directeur adjoint de la Division de 
 - Suivez le déploiement par phases des DME dans les hôpitaux et les cliniques de santé proches de chez vous.
 - Consultez les fonctions **Appointments** (Rendez-vous) et **Health Records** (Dossiers de santé) de MySejahtera avant votre prochaine visite dans une clinique.
 - Restez attentif aux réformes de la protection des données — en vertu de la Section 3 de la Loi sur la protection des données personnelles de 2010, la Loi ne s'applique pas au Gouvernement fédéral ni aux Gouvernements des États, une lacune qui soulève des questions de gouvernance lorsque des données de santé sont détenues par des entités gouvernementales.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

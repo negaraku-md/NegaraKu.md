@@ -134,3 +134,5 @@ Cela signifie qu'un patient arrivé plus tôt mais stable (zone verte) peut atte
 ## La suite
 
 Cette page explique comment obtenir une aide médicale d'urgence et à quoi s'attendre au service des urgences. Pour les accidents de la route qui impliquent aussi une citation ou une intervention de la PDRM, consultez [Les citations de la circulation en Malaisie](/fr/transport/traffic-summons-saman) ; pour connaître la structure et les pouvoirs d'exécution du corps de police lui-même, consultez [Police royale de Malaisie (PDRM)](/fr/government/pdrm).
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

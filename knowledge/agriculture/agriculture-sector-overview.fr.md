@@ -360,6 +360,27 @@ prix, production, SSR) sont révisés chaque année et évoluent avec le climat,
 mondiaux et les cycles de replantation. Consultez les dernières publications du DOSM,
 de la MPOB et des ministères pour des données actuelles.
 
+## Explorer ce sujet en profondeur
+
+Les guides clés de ce domaine :
+
+- [Subventions agricoles et aide aux intrants pour les riziculteurs](/fr/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS et le monopole d'importation de riz de la Malaisie](/fr/agriculture/bernas-rice-import-monopoly/)
+- [Département des pêches de Malaisie (DOF)](/fr/agriculture/department-of-fisheries-malaysia/)
+- [Le commerce d'exportation du durian et des fruits tropicaux de Malaisie](/fr/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/fr/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA et RISDA](/fr/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/fr/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/fr/agriculture/fgv-holdings-plantation-restructuring/)
+- [La politique de sécurité alimentaire de la Malaisie et ses objectifs d'autosuffisance](/fr/agriculture/food-security-self-sufficiency-policy/)
+- [L'industrie de l'élevage et de la volaille en Malaisie](/fr/agriculture/livestock-poultry-industry/)
+- [L'industrie de la pêche en Malaisie](/fr/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/fr/agriculture/mardi-agricultural-research-institute/)
+- [Ministère de l'Agriculture et de la Sécurité alimentaire (KPKM) et ses agences](/fr/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [Les petits exploitants de palmier à huile et la certification de durabilité MSPO](/fr/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [Le padi et le riz en Malaisie](/fr/agriculture/padi-and-rice-industry/)
+- [L'industrie du padi et du riz de la Malaisie](/fr/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## Prochaines étapes
 
 - Plongez dans la plus grande matière première d'exportation dans le [panorama du secteur de l'huile de palme de la Malaisie](/fr/economy/palm-oil-sector) — son échelle, ses institutions et sa certification de durabilité.

@@ -109,3 +109,5 @@ Mảng lâm sàng vẫn đang bắt kịp. Năm 2023, Thứ trưởng Y tế lư
 ## Tiếp theo
 
 Hãy bắt đầu từ cánh cửa nào gần nhất: phòng khám y tế MOH gần nhất để đăng ký PeKa B40 hoặc hỏi về các hoạt động PAWE, hoặc văn phòng Jabatan Kebajikan Masyarakat cấp huyện để hỏi những lựa chọn nội trú đã đăng ký — công hay tư — có ở gần đó và mỗi lựa chọn yêu cầu những gì. Các gia đình đang cân nhắc một visa lưu trú dài hạn cho một người nước ngoài về hưu, người cũng sẽ cần được chăm sóc khi già đi, cũng có thể muốn đọc về [visa lưu trú dài hạn MM2H](/vi/settling-in/mm2h-long-stay-visa), bởi tình trạng cư trú dài hạn ảnh hưởng đến việc lựa chọn dịch vụ nào trong số này áp dụng.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

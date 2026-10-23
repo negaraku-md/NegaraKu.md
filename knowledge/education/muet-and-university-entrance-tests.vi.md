@@ -175,3 +175,5 @@ Nếu bạn đang lập kế hoạch học tiếp lên cấp bằng cử nhân:
 4. **Tham khảo cổng chính thức của MPM** để biết ngày thi hiện hành, lệ phí, thủ tục đăng ký và quy cách định dạng mới nhất trước khi dự thi.
 
 Để có thông tin chính thức và cập nhật về việc đăng ký, ngày tháng và định dạng, hãy tham khảo cổng của Hội đồng Thi cử Malaysia tại mpm.edu.my.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

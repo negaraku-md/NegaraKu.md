@@ -136,6 +136,33 @@ The buyer — not the seller — is the party legally responsible for paying thi
 - **Confusing the SPA lawyer's role with the bank's lawyer's role.** The bank's solicitor is engaged to protect the bank's charge, not to negotiate the buyer's SPA terms.
 - **Quoting a stamp duty exemption threshold from a blog post as if it's permanent.** Exemption orders are legislated instruments with their own start and end dates — confirm the one currently in force before budgeting around it.
 
+## Explore this topic in depth
+
+The key guides in this area:
+
+- [Government Affordable Housing Schemes (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/en/property/affordable-housing-schemes/)
+- [Assessment Tax and Quit Rent](/en/property/assessment-and-quit-rent/)
+- [Condo Living in Malaysia](/en/property/condo-living-maintenance-fees/)
+- [TNB, SESB and Sarawak Energy Electricity Accounts](/en/property/electricity-tnb-account/)
+- [Finding a Rental in Malaysia](/en/property/finding-a-rental/)
+- [Can Foreigners Buy Property in Malaysia? The Price Floor and State Consent Explained](/en/property/foreigners-buying-property/)
+- [Freehold, Leasehold, Strata, Landed](/en/property/freehold-leasehold-strata-landed/)
+- [Gas Supply at Home](/en/property/gas-supply-piped-cooking-gas/)
+- [Gated Communities and Guarded Neighbourhoods in Malaysia](/en/property/gated-communities-and-security/)
+- [Home Loans and Mortgage Financing in Malaysia](/en/property/home-loan-mortgage-financing/)
+- [Homebuyer Protection](/en/property/homebuyer-protection-abandoned-projects/)
+- [IWK Is Not a Water Company](/en/property/indah-water-sewerage/)
+- [Home Fibre Broadband in Malaysia](/en/property/internet-and-fibre/)
+- [Working With Property Agents](/en/property/property-agents-and-fees/)
+- [Buying a Property at Auction (Bank Lelong)](/en/property/property-auctions-foreclosure/)
+- [Property Inheritance](/en/property/property-inheritance-faraid-distribution/)
+- [Real Property Gains Tax (RPGT) When Selling Property](/en/property/real-property-gains-tax/)
+- [Home Renovation Approvals and the Certificate of Completion and Compliance (CCC)](/en/property/renovation-permits-and-ccc/)
+- [Renting in Malaysia Has No Tenancy Act](/en/property/renting-a-home-tenancy/)
+- [Rubbish, Recycling and Local Councils](/en/property/rubbish-and-local-council/)
+- [Strata Property Governance](/en/property/strata-management-jmb-mc/)
+- [Malaysia's Water Supply](/en/property/water-supply/)
+
 ## What's next
 
 For what the title you're about to receive actually promises — freehold versus leasehold, and strata versus landed — see [Freehold, Leasehold, Strata, Landed](/en/property/freehold-leasehold-strata-landed). For the statute behind the Memorandum of Transfer and the Charge that make the Land Office registration work, see [National Land Code 1965](/en/law/national-land-code).

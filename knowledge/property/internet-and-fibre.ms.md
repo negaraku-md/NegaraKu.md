@@ -170,3 +170,5 @@ rumah anda — termasuk Unifi Mobile, yang selalunya dibungkus bersama
 talian Unifi Home — lihat
 [Membeli SIM Mudah Alih di Malaysia](/money-daily-life/mobile-sim-plans)
 untuk cara pendaftaran dan pemilihan penyedia berfungsi di sana.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

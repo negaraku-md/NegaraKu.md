@@ -156,3 +156,5 @@ Supongamos que la MC de un condominio comprueba que un propietario no ha pagado 
 - Consulta el texto completo de la Ley 757 y el Reglamento de Gestión de Estratos de 2015, o ponte en contacto con el **Comisionado de Edificios (COB)** de tu Autoridad Local para cuestiones de ejecución.
 
 *Este artículo es una orientación general, no asesoramiento jurídico. Los números de artículo y las cifras remiten a la Ley de Gestión de Estratos de 2013 (Ley 757) y a los reglamentos relacionados; verifícalos con el texto estatutario más reciente antes de actuar.*
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

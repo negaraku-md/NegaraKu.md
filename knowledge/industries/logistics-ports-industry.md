@@ -230,3 +230,5 @@ Then weigh three things beyond the port name: the strength of your **freight for
 Malaysia's ports have already won the volume game; the harder contest now is value. Watch three signals over the coming years. First, whether the Westports 2 and Carey Island capacity actually materialises on schedule, since transhipment leadership depends on having berths free when the mega-ships arrive. Second, whether the ECRL land bridge proves commercially real — a completed railway is not the same as cargo choosing to cross the peninsula by train instead of sailing around it. Third, whether Malaysia keeps climbing the Logistics Performance Index, the truest test of whether the country is becoming a place that manages trade rather than merely relaying it.
 
 For a deeper look at the individual assets behind these numbers, see the companion entries on Port Klang, the Port of Tanjung Pelepas, and the Strait of Malacca — the shipping lane that made all of it possible.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

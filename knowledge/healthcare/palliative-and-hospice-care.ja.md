@@ -115,3 +115,5 @@ keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap h
 ## 次にすべきこと
 
 ご家族が深刻な疾患を患っている場合は、まず主治医または専門医と緩和ケアの紹介について相談することから始めてほしい。クランバレー（Lembah Klang）の家族は、ホスピス・マレーシア（Hospis Malaysia）のウェブサイトを通じて連絡できる。より広範な高齢者の一般介護のニーズについては、高齢者の医療に関する関連ガイドを参照されたい。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

@@ -135,3 +135,5 @@ National Land Code 1965 **仅适用于马来西亚半岛**。沙巴与砂拉越�
 - [马来西亚三级政府](/zh/government/three-tiers-of-government) —— 联邦、州与地方三级的权力如何有别
 - [联邦—州权力划分](/zh/government/federal-state-division) —— 为什么土地被列入州权力清单
 - [州立法议会（DUN）](/zh/government/state-assemblies-dun) —— 通过州土地法律的机构
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

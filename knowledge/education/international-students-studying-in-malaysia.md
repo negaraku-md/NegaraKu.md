@@ -150,3 +150,5 @@ In short: your job is choosing the right institution and securing the offer. Fro
 ## What's next
 
 Once you've confirmed accreditation, international-enrolment approval, and accepted your offer, the next stage is the Student Pass itself — covered step by step, including the Visa Approval Letter, medical screening and i-Kad, in [The Student Pass: Why Your University Files With EMGS, Not You](/en/settling-in/student-pass). After your pass is endorsed, most students move on to practical settling-in steps like [moving to Malaysia: first steps](/en/settling-in/moving-to-malaysia-first-steps) and [opening a Malaysian bank account](/en/money-daily-life/opening-bank-account).
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

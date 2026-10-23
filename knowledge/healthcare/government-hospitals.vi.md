@@ -157,3 +157,5 @@ Không thể nêu con số thời gian chờ đồng nhất nào ở đây vì n
 ## Tiếp theo
 
 Để hiểu chi tiết hơn vai trò của Phòng khám Y tế như điểm vào của hệ thống chuyển tuyến này, hãy đọc [Phòng khám Y tế: Cách hệ thống chăm sóc ban đầu của nhà nước Malaysia thực sự vận hành](/vi/healthcare/klinik-kesihatan). Để so sánh với chi phí bệnh viện tư, hãy xem [Bệnh viện tư và chi phí](/vi/healthcare/private-hospitals-and-costs). Các hộ gia đình B40 cũng có thể kiểm tra các quyền lợi bổ sung tại [PeKa B40 và các chương trình y tế khác](/vi/healthcare/peka-b40-and-health-schemes), trong khi người cao tuổi có thể đọc thêm tại [Chăm sóc sức khỏe cho người cao tuổi](/vi/healthcare/healthcare-for-seniors). Đối với tình huống cấp cứu thực sự, hãy xem [Cấp cứu và 999](/vi/healthcare/emergencies-999).
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

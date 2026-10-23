@@ -196,3 +196,5 @@ SMR पात्रता अपने आप समाप्त कर दे�
 पहले क़दम](/settling-in/moving-to-malaysia-first-steps) देखें। जिन्हें
 नए परिसर में मोबाइल लाइन भी चालू करनी हो, उनके लिए [प्रीपेड और पोस्टपेड
 SIM गाइड](/money-daily-life/mobile-sim-plans) देखें।
+
+पूरी गाइड देखें: [मलेशिया में घर खरीदना](/hi/property/buying-a-home-process/)।

@@ -126,3 +126,5 @@ Il est facile de supposer que les retenues légales sur une fiche de paie couvre
 ## La suite
 
 Si vous mettez en balance le coût d'une carte médicale personnelle et votre fiche de paie, voir [L'impôt sur le revenu des personnes physiques](/en/money-daily-life/income-tax-individuals) pour savoir comment l'abattement pour assurance éducation et médicale interagit avec votre déclaration annuelle. Pour les retenues légales qui accompagnent — sans la remplacer — la couverture médicale, voir [EPF et SOCSO pour les salariés](/en/money-daily-life/epf-socso-employees). Et si vos prestations médicales vous parviennent par une offre d'emploi, [Les contrats de travail en Malaisie](/en/employment/employment-contract-malaysia) traite de ce que les employeurs sont tenus ou non de préciser au sujet des prestations attachées à un poste.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

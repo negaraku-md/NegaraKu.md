@@ -105,3 +105,5 @@ Kumpulan C毒药——常被称为「ubat bebas」——依Seksyen 22可以在�
 ## 下一步
 
 对于需要长期用药的病患，可阅读[医疗保险](/zh/healthcare/medical-insurance)，以了解健康计划对药费的承保范围有多广。对于年长者或需要定期处理重复用药的家庭，[年长者的医疗保健](/zh/healthcare/healthcare-for-seniors)也说明了诸如邮寄送药等增值药剂服务，可减少每个月都须亲自到柜台的需要。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

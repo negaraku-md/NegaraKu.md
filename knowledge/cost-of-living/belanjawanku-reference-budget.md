@@ -117,3 +117,5 @@ Belanjawanku juga menjadi asas kepada Rangka Kerja Kecukupan Pendapatan Persaraa
 ## Apa seterusnya
 
 Anda boleh menyemak angka khusus untuk keadaan anda sendiri menerusi aplikasi Belanjawanku, yang mengambil kira bandar, status perkahwinan, peringkat hidup dan mod pengangkutan anda. Gunakan angka ini sebagai penanda aras: bandingkan dengan perbelanjaan sebenar anda, kenal pasti jurang, dan semak sama ada simpanan persaraan anda menghampiri tanda aras RIA. Untuk memahami konteks kemiskinan pula, rujuk artikel berkaitan tentang Pendapatan Garis Kemiskinan.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

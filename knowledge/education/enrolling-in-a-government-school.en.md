@@ -206,3 +206,5 @@ deferment cases, start the application at the District Education Office
 (PPD) or State Education Department (JPN) where your child attends school,
 since both processes are approved at that level, not through the regular
 idMe system.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

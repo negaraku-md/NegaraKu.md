@@ -136,6 +136,33 @@ faq:
 - **SPA 변호사의 역할과 은행 변호사의 역할을 혼동하는 것.** 은행의 변호사는 매수인의 SPA 조건을 협상하기 위해서가 아니라 은행의 담보권을 보호하기 위해 선임됩니다.
 - **블로그 글의 인지세 면제 기준을 영구적인 것처럼 인용하는 것.** 면제 명령은 각자의 시작일과 종료일을 가진 입법 증서입니다 — 그것을 전제로 예산을 짜기 전에 현재 시행 중인 명령을 확인하십시오.
 
+## 이 주제 자세히 살펴보기
+
+이 분야의 주요 가이드:
+
+- [정부 부담가능주택 제도(PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/ko/property/affordable-housing-schemes/)
+- [재산평가세와 토지세(Cukai Pintu와 Cukai Tanah)](/ko/property/assessment-and-quit-rent/)
+- [말레이시아의 콘도 생활](/ko/property/condo-living-maintenance-fees/)
+- [TNB, SESB, Sarawak Energy 전기 계정](/ko/property/electricity-tnb-account/)
+- [말레이시아에서 임차 집 찾기](/ko/property/finding-a-rental/)
+- [외국인은 말레이시아에서 부동산을 살 수 있는가? 최저가 기준과 주(州) 동의 설명](/ko/property/foreigners-buying-property/)
+- [자유보유, 임차보유, 구분소유, 토지부](/ko/property/freehold-leasehold-strata-landed/)
+- [가정의 가스 공급](/ko/property/gas-supply-piped-cooking-gas/)
+- [말레이시아의 게이티드 커뮤니티와 경비 주택지](/ko/property/gated-communities-and-security/)
+- [말레이시아의 주택 대출과 모기지 금융](/ko/property/home-loan-mortgage-financing/)
+- [주택 매수인 보호](/ko/property/homebuyer-protection-abandoned-projects/)
+- [IWK는 수도 회사가 아니다](/ko/property/indah-water-sewerage/)
+- [말레이시아의 가정용 광섬유 브로드밴드](/ko/property/internet-and-fibre/)
+- [부동산 중개인과 일하기](/ko/property/property-agents-and-fees/)
+- [경매로 부동산 사기(Bank Lelong)](/ko/property/property-auctions-foreclosure/)
+- [부동산 상속](/ko/property/property-inheritance-faraid-distribution/)
+- [부동산 매각 시 부동산양도소득세(RPGT)](/ko/property/real-property-gains-tax/)
+- [주택 개조 승인과 완공적합증(CCC)](/ko/property/renovation-permits-and-ccc/)
+- [말레이시아의 임차에는 임차법이 없다](/ko/property/renting-a-home-tenancy/)
+- [쓰레기, 재활용, 지방 의회](/ko/property/rubbish-and-local-council/)
+- [구분소유 부동산 거버넌스](/ko/property/strata-management-jmb-mc/)
+- [말레이시아의 수도 공급](/ko/property/water-supply/)
+
 ## What's next
 
 곧 받게 될 소유권 증서가 실제로 무엇을 약속하는지 — 자유보유(freehold) 대 임차보유(leasehold), 그리고 구분소유(strata) 대 토지부(landed) — 는 [자유보유, 임차보유, 구분소유, 토지부](/ko/property/freehold-leasehold-strata-landed)를 참조하십시오. 토지청 등기를 작동시키는 소유권 이전 각서와 담보권의 근거 법률은 [국가토지법(National Land Code 1965)](/ko/law/national-land-code)을 참조하십시오.

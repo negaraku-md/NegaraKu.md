@@ -156,3 +156,5 @@ Terlepas dari apakah setiap target tercapai, arahnya jelas: Malaysia ingin berhe
 Industri semikonduktor Malaysia berada pada titik belok yang nyata. Setengah abad setelah pabrik pertama Intel di Penang, negara ini telah mengubah layanan chip back-end menjadi mesin ekspor pemecah rekor — dan secara terbuka menyimpulkan bahwa bertahan di ujung bermargin rendah tidaklah cukup untuk dekade-dekade mendatang. Apakah National Semiconductor Strategy berhasil menarik Malaysia ke ranah desain dan fabrikasi, di tengah persaingan regional yang sengit dan siklus chip global yang bergejolak, adalah pertanyaan sentral bagi babak berikutnya industri ini.
 
 Untuk mendalami lebih jauh, baca panduan [industri Elektrik & Elektronik (E&E)](/id/industries/electrical-electronics-industry/) yang lebih luas — sektor penuh tempat semikonduktor berada — dan profil [MIDA](/id/government/mida/), lembaga yang menggerakkan investasi dan kebijakan di balik angka-angka itu.
+
+Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

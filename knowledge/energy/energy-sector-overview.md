@@ -341,6 +341,27 @@ Rangka kerja ringkas untuk mengetahui pintu mana untuk diketuk:
   (penjanaan elektrik), bukan keseluruhan sistem tenaga termasuk pengangkutan dan
   industri.
 
+## Terokai topik ini dengan lebih mendalam
+
+Panduan utama dalam bidang ini:
+
+- [Reformasi Industri Bekalan Elektrik](/energy/electricity-supply-industry-reform-mesi/)
+- [Cara Struktur Tarif Elektrik Berfungsi di Malaysia](/energy/electricity-tariff-structure/)
+- [Suruhanjaya Tenaga](/energy/energy-commission-suruhanjaya-tenaga/)
+- [Akta Kecekapan dan Konservasi Tenaga](/energy/energy-efficiency-conservation-act/)
+- [Bagaimana Malaysia Menetapkan Harga Bahan Api Mingguan](/energy/fuel-pricing-mechanism/)
+- [Sistem Subsidi Bahan Api Malaysia](/energy/fuel-subsidy-system/)
+- [Hidrogen dan Penangkapan Karbon (CCUS) di Malaysia](/energy/hydrogen-ccus-malaysia/)
+- [Hidrokuasa di Malaysia](/energy/hydropower-malaysia/)
+- [Peta Jalan Peralihan Tenaga Negara (NETR)](/energy/national-energy-transition-roadmap-netr/)
+- [Gas Asli dan LNG di Malaysia](/energy/natural-gas-lng-malaysia/)
+- [Akta Kemajuan Petroleum 1974](/energy/petroleum-development-act-1974/)
+- [Tenaga Boleh Diperbaharui di Malaysia](/energy/renewable-energy-in-malaysia/)
+- [Sarawak Energy Berhad (SEB)](/energy/sarawak-energy-berhad/)
+- [Petros dan Pertikaian Gas Sarawak](/energy/sarawak-petros-gas-dispute/)
+- [SEDA Malaysia](/energy/seda-malaysia/)
+- [Tenaga Solar di Malaysia](/energy/solar-energy-malaysia/)
+
 ## Apa seterusnya
 
 Jika anda pengguna, langkah paling praktikal ialah memahami bil elektrik RP4 baharu

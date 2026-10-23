@@ -135,3 +135,5 @@ La tasa nacional de reciclaje — la proporción de residuos sólidos reciclados
 ## Qué sigue
 
 Si acabas de mudarte y aún no estás seguro de quién gestiona la recogida de basura en tu zona de alquiler, esa cuestión está estrechamente ligada al proceso de [encontrar un alquiler en Malasia](/en/property/finding-a-rental) — tu arrendador o agente suele poder confirmar el calendario de recogida y si la zona está sujeta a la Ley 672. Para entender dónde se sitúan los consejos locales dentro de la estructura general del gobierno de Malasia — incluido por qué los concejales son nombrados en lugar de elegidos — consulta [los tres niveles del gobierno malasio](/en/government/three-tiers-of-government).
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

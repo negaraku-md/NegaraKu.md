@@ -114,3 +114,5 @@ keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "fibre 
 ## อ่านต่อ
 
 หากคุณกำลังจัดตั้งบริการมือถือควบคู่ไปกับบรอดแบนด์ที่บ้าน รวมถึง Unifi Mobile ซึ่งมักรวมกับสาย Unifi Home ดู [การซื้อซิมมือถือในมาเลเซีย](/th/money-daily-life/mobile-sim-plans) สำหรับวิธีที่การลงทะเบียนและการเลือกผู้ให้บริการทำงานที่นั่น
+
+ดูคู่มือฉบับเต็ม: [การซื้อบ้านในมาเลเซีย](/th/property/buying-a-home-process/)

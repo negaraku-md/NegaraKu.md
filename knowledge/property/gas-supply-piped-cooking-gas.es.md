@@ -159,3 +159,5 @@ Compre solo a distribuidores autorizados y asegúrese de que el precinto de segu
 ## Qué sigue
 
 Si su casa está dentro de la zona de cobertura de Gas Malaysia, contáctelos para confirmar la cobertura de su dirección, la lista de documentos y los costes más recientes antes de registrarse. Si usa GLP, tenga a mano el número de un distribuidor autorizado y revise la manguera y el regulador como rutina. Los precios máximos y los detalles de la subvención son revisados de vez en cuando por el KPDN, así que confirme los precios más recientes con un distribuidor o fuentes oficiales antes de tomar cualquier decisión importante. Para una imagen completa de los servicios del hogar, consulte también las guías sobre el suministro de electricidad y agua.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

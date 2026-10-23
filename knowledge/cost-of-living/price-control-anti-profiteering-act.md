@@ -115,3 +115,5 @@ KPDN turut memperkenalkan Kalkulator Antipencatutan digital untuk membantu penia
 ## Apa seterusnya
 
 Jika anda seorang peniaga, simpan rekod kos dan harga anda pada awal setiap tahun kewangan — itulah tahun asas yang akan digunakan untuk menilai anda. Jika anda pengguna yang mengesyaki pencatutan, aduan boleh dibuat kepada KPDN. Untuk konteks lanjut tentang cukai yang mempengaruhi harga, lihat artikel berkaitan kami mengenai SST.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

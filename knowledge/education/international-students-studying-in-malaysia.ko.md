@@ -150,3 +150,5 @@ MQA의 입학 자격 안내는 여러분이 말레이시아 시스템에서 어�
 ## 다음 단계
 
 인증, 국제 등록 승인을 확인하고 입학 허가를 수락했다면, 다음 단계는 학생 패스 자체입니다 — 비자 승인서, 건강 검진, i-Kad를 포함해 [학생 패스: 왜 여러분이 아니라 대학교가 EMGS에 제출하는가](/ko/settling-in/student-pass)에서 단계별로 다룹니다. 패스가 승인된 후, 대부분의 학생은 [말레이시아로 이주하기: 첫 단계](/ko/settling-in/moving-to-malaysia-first-steps)와 [말레이시아 은행 계좌 개설](/ko/money-daily-life/opening-bank-account) 같은 실질적인 정착 단계로 넘어갑니다.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

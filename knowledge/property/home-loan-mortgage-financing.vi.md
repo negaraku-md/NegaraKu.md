@@ -192,3 +192,5 @@ Thuế này tách biệt với thuế trước bạ chuyển nhượng (MOT) tr�
 - So sánh các lựa chọn MRTA và MLTA từ nhiều nhà cung cấp trước khi cam kết.
 
 *Bài viết này là thông tin chung, không phải tư vấn tài chính. Hãy tham khảo ngân hàng, luật sư bất động sản hoặc cố vấn được cấp phép cho trường hợp cụ thể của bạn.*
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

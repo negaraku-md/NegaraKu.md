@@ -131,3 +131,5 @@ Sejak 1 Juli 2025, pajak layanan telah dikenakan atas sebagian biaya perawatan k
 ## Apa selanjutnya
 
 Untuk rincian deposit dan surat jaminan, panduan klaim atau kartu medis penanggung asuransi Anda sendiri adalah sumber paling terkini, karena susunan panel berbeda menurut penanggung asuransi dan rumah sakit. Untuk kerangka pelisensian itu sendiri, daftar Kementerian Kesehatan untuk Act 586 menautkan langsung ke cetak ulang terkini. Dan jika sebuah tagihan membawa satu baris pajak layanan, uraian pajak layanan sektor demi sektor itu adalah tempat untuk memeriksa apa yang kini berlaku dan kepada siapa.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

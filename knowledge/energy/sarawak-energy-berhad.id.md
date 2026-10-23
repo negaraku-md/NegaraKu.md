@@ -138,3 +138,5 @@ Untuk paruh pertama tahun keuangan Desember 2025, SEB melaporkan pendapatan RM3.
 - Baca profil **[Tenaga Nasional Berhad](/id/energy/tenaga-nasional-berhad)** untuk membandingkan model utilitas Semenanjung dengan Sarawak.
 - Untuk rincian rekayasa bendungan terbesar Sarawak, jelajahi laman resmi **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)**.
 - Catatan: angka kapasitas dan keuangan berubah seiring waktu; verifikasi dengan laporan tahunan dan siaran media terkini SEB sebelum digunakan untuk keputusan resmi.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

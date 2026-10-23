@@ -131,3 +131,5 @@ DOSM自身が公表した発表資料は、その要約の中でこれら残り�
 - 完全なカテゴリー表と州別内訳については、一次資料である
   [DOSM『2024年世帯支出調査報告書』](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   を直接参照してほしい。
+
+詳しくは全体ガイドをご覧ください：[公式統計で見るマレーシアの生活費](/ja/cost-of-living/cost-of-living-overview/)。

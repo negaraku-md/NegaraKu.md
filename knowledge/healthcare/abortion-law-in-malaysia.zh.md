@@ -160,3 +160,5 @@ keywords: ["pengguguran", "undang-undang pengguguran Malaysia", "Seksyen 312 Kan
 对于任何需要与自身实际情况相关信息的人，最恰当的做法是直接咨询注册的医疗执业者或寻求专业的法律建议，因为每个案例都取决于其自身的事实与临床评估。
 
 本草稿在AI协助下拟就，仍有待人工审核。它旨在以中立的方式说明法律框架，而非取代正式建议。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

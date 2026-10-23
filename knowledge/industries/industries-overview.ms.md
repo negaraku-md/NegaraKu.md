@@ -190,6 +190,29 @@ Peta keputusan pantas:
 - **Menganggap pertumbuhan bermakna daya tahan.** Rentetan lebihan perdagangan Malaysia memang luar biasa, tetapi kepekatan E&E ekonomi juga mengikatnya erat dengan kitaran elektronik global yang tidak menentu. Kekuatan dan pendedahan ialah dua sisi bagi syiling yang sama.
 - **Mengelirukan bahagian KDNK dengan kadar pertumbuhan.** Pembinaan berkembang 17.5% pada 2024 tetapi merupakan bahagian kecil daripada KDNK; perkhidmatan berkembang secara "sederhana" 5.3% tetapi mendominasi ekonomi. Sentiasa semak nombor mana yang sedang anda baca.
 
+## Terokai topik ini dengan lebih mendalam
+
+Panduan utama dalam bidang ini:
+
+- [Industri Aeroangkasa & MRO di Malaysia](/industries/aerospace-industry/)
+- [Industri Automotif](/industries/automotive-industry/)
+- [Dasar Ekuiti Bumiputera dan Pembangunan Vendor dalam Industri Strategik](/industries/bumiputera-equity-vendor-policy/)
+- [Industri Pembinaan Malaysia](/industries/construction-industry/)
+- [Pusat Data & Infrastruktur Awan di Malaysia](/industries/data-centre-cloud-industry/)
+- [Ekonomi Digital Malaysia](/industries/digital-economy-overview/)
+- [Industri Elektrik & Elektronik (E&E)](/industries/electrical-electronics-industry/)
+- [Sistem Pensijilan Halal Malaysia](/industries/halal-certification-system/)
+- [Industri Halal dan Cita-cita Malaysia Menjadi Hab Halal Global](/industries/halal-industry-economy/)
+- [Industri Logistik & Pelabuhan Malaysia](/industries/logistics-ports-industry/)
+- [Pembuatan Melangkaui E&E dan Automotif](/industries/manufacturing-industry-overview/)
+- [Pelan Induk Perindustrian Baharu 2030 (NIMP 2030)](/industries/new-industrial-master-plan-2030/)
+- [Industri Minyak & Gas di Malaysia](/industries/oil-gas-industry/)
+- [Industri Minyak Sawit Malaysia](/industries/palm-oil-industry/)
+- [Kelestarian dan Persijilan Minyak Sawit di Malaysia](/industries/palm-oil-sustainability-certification/)
+- [Industri Getah Malaysia](/industries/rubber-industry/)
+- [Industri Semikonduktor Malaysia](/industries/semiconductor-industry/)
+- [Industri Semikonduktor & Strategi Semikonduktor Kebangsaan](/industries/semiconductor-industry-national-strategy/)
+
 ## Apa seterusnya
 
 Gunakan halaman ini sebagai kompas anda, kemudian ikut cabang yang penting bagi anda. Jika anda sedang menyelidik sesuatu industri tertentu, buka panduan khususnya dalam kategori ini untuk perincian kawal selia, syarikat dan rantaian bekalan yang lebih mendalam. Jika anda mengesan ekonomi secara keseluruhan, dua nombor yang berbaloi diperhatikan setiap suku tahun ialah **kadar pertumbuhan perkhidmatan** (majoriti ekonomi) dan **arah aliran eksport E&E** (faktor perubahan dalam perdagangan).

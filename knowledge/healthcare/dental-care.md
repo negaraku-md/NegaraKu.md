@@ -170,3 +170,5 @@ kategori [Kesihatan](/healthcare). Bagi mereka yang ingin mencari klinik
 pergigian kerajaan berhampiran, perkhidmatan carian rasmi boleh diakses
 melalui portal
 [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan).
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

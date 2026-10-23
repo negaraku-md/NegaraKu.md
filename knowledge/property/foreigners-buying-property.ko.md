@@ -155,3 +155,5 @@ faq:
 ## What's next
 
 소유권이 실제로 외국인 소유자 명의로 이전되면, 이후의 의무는 말레이시아의 모든 부동산 소유자가 마주하는 것과 같습니다 — [재산평가세와 토지세, 그리고 각각을 누가 징수하는지](/ko/property/assessment-and-quit-rent)를 참조하십시오. 소유 자체를 앞뒤로 감싸는 두 세금 이벤트는 [취득 시 인지세 요율표](/ko/taxation/stamp-duty-rates)와 [최종 처분 시 RPGT](/ko/taxation/rpgt-rates)를 참조하십시오. 그리고 부동산 매수를 선택이 아니라 의무로 만드는 비자 경로는 [MM2H 장기 체류 비자의 네 등급](/ko/settling-in/mm2h-long-stay-visa)을 참조하십시오.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

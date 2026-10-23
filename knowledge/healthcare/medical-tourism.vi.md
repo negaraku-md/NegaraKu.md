@@ -146,3 +146,5 @@ Nói ngắn gọn: MHTC là cánh cửa chính và người quảng bá, không 
 ## Tiếp theo
 
 Hai câu hỏi liên quan mà bài viết này không trả lời sâu: cách một người nước ngoài về hưu sống tại Malaysia theo [MM2H](/vi/settling-in/mm2h-long-stay-visa) tiếp cận chăm sóc y tế tư nhân hằng ngày (một câu hỏi khác với một chuyến du lịch y tế ngắn), và cách các sản phẩm bảo hiểm y tế tư nhân và takaful của Malaysia đối xử với người không phải công dân. Cả hai gần với khía cạnh "sống ở đây" của y tế hơn là khía cạnh "bay đến để điều trị" được trình bày ở trên.
+
+Xem hướng dẫn đầy đủ: [Hệ thống y tế Malaysia thực sự vận hành ra sao](/vi/healthcare/how-malaysian-healthcare-works/).

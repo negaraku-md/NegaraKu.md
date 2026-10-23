@@ -152,3 +152,5 @@ Một giấy chứng nhận halal ngày càng được hiểu như một tín hi
 Hãy theo dõi ba điều. Thứ nhất, liệu tăng trưởng xuất khẩu có giữ được nhịp độ hai chữ số và thu hẹp khoảng cách tới mục tiêu 10.8% GDP vào năm 2030 hay không. Thứ hai, liệu công suất chứng nhận có mở rộng đủ nhanh để không còn là ràng buộc ràng buộc mà chính phủ liên tục nêu tên hay không. Thứ ba, liệu các biên giới mới hơn của chương trình nghị sự HIMP 2030 — dược phẩm halal, mỹ phẩm, logistics và du lịch — có phát triển thành các dòng xuất khẩu đáng kể hay vẫn chủ yếu là thực phẩm.
 
 Để có một con số cụ thể — điều khoản ưu đãi cho một khu nhất định, hoặc phân tích xuất khẩu của năm hiện tại theo điểm đến — hãy kiểm tra HDC và MITI/MIDA trực tiếp, vì các con số và lịch ưu đãi của khu công nghiệp được cập nhật theo thời gian. Các con số đã được xác minh ở đây được lấy từ các nguồn liệt kê ở trên và phản ánh dữ liệu cả năm mới nhất có sẵn tại thời điểm viết bài.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

@@ -156,3 +156,5 @@ Esto vuelve delicada la matemática de la seguridad alimentaria. Si se produjera
 - **Siga el avance de SMART SBB**: si la superficie se acerca a la meta de 150.000 hectáreas y si los rendimientos en los sitios piloto se mantienen altos a medida que se expande.
 - **Observe el Presupuesto anual** para detectar cualquier cambio en el precio mínimo del padi, la tasa del Subsidio al Precio del Padi y la asignación total de subsidios agroalimentarios.
 - **Lea el documento oficial** de la Política Nacional Agroalimentaria 2021-2030 (DAN 2.0) en el sitio web del KPKM para entender las metas de producción, los ingresos de los agricultores y los planes de acción completos.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

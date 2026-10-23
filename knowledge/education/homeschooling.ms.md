@@ -171,3 +171,5 @@ secara bertulis, dan semak Warta Kerajaan untuk pemberitahuan yang akhirnya
 menguatkuasakan kewajipan pendidikan menengah di bawah Seksyen 32A, kerana
 itu akan mengubah apa yang dimaksudkan dengan "patuh" bagi kanak-kanak yang
 lebih tua.
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

@@ -180,6 +180,36 @@ SPM هو النقطة التي يصبح عندها التفرّع حقيقياً
 - **افتراض أن «المعهد التقني» و«الكلية المجتمعية» قابلان للتبادل.** كلاهما يقع تحت وزارة التعليم العالي، لكنهما نوعان متمايزان من المؤسسات يقدّمان مستويات مؤهلات مختلفة.
 - **الخلط بين وزارة التعليم (المدارس) ووزارة التعليم العالي (الجامعات).** هما وزارتان منفصلتان بِبوابتين وميزانيتين ووزيرين منفصلين.
 
+## استكشف هذا الموضوع بعمق
+
+أهم الأدلة في هذا المجال:
+
+- [التقويم المدرسي والعطلات المدرسية في ماليزيا](/ar/education/academic-calendar-and-school-holidays/)
+- [كيفية تسجيل طفلك في مدرسة حكومية](/ar/education/enrolling-in-a-government-school/)
+- [فروع الجامعات الأجنبية ومراكز التعليم](/ar/education/foreign-university-branch-campuses-and-education-hubs/)
+- [تعليم الموهوبين والمتفوقين (PERMATApintar)](/ar/education/gifted-and-talented-education/)
+- [التعليم المنزلي في ماليزيا](/ar/education/homeschooling/)
+- [المدارس الدولية في ماليزيا](/ar/education/international-schools/)
+- [الدراسة في ماليزيا كطالب دولي](/ar/education/international-students-studying-in-malaysia/)
+- [المدارس الإسلامية والدينية في ماليزيا](/ar/education/islamic-and-religious-schools/)
+- [JPA وأبرز برامج المنح الدراسية الحكومية في ماليزيا](/ar/education/jpa-and-public-scholarships/)
+- [MQA واعتماد الدرجات العلمية في ماليزيا](/ar/education/malaysian-qualifications-agency-and-accreditation/)
+- [النظام المدرسي الماليزي](/ar/education/malaysian-school-system/)
+- [MRSM والمدارس الداخلية الكاملة (SBP)](/ar/education/mrsm-and-fully-residential-schools/)
+- [MUET واختبارات دخول الجامعة](/ar/education/muet-and-university-entrance-tests/)
+- [SK وSJKC وSJKT](/ar/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG وتكلفة الدراسة في المدارس الحكومية](/ar/education/pibg-and-school-fees/)
+- [STPM والتهيئة الجامعية والسنة التأسيسية أو A-Level](/ar/education/pre-university-routes/)
+- [Taska وTadika وPrasekolah](/ar/education/preschool-tadika-childcare/)
+- [المدارس الخاصة والمدارس الثانوية الصينية المستقلة](/ar/education/private-and-chinese-independent-schools/)
+- [PTPTN ليس منحة دراسية](/ar/education/ptptn-student-loan/)
+- [IPTA أم IPTS؟ كيف تختلف الجامعات العامة والخاصة في ماليزيا فعلاً](/ar/education/public-vs-private-universities/)
+- [التعليم الخاص في ماليزيا](/ar/education/special-education-and-learning-support/)
+- [مراكز الدروس الخصوصية والتدريب الخاص في ماليزيا](/ar/education/tuition-centres-and-private-coaching/)
+- [ليس كل طريق يؤدي إلى الجامعة](/ar/education/tvet-and-skills-training/)
+- [شهادة الامتحان الموحَّد (UEC)](/ar/education/unified-examination-certificate-uec/)
+- [من UPSR إلى SPM](/ar/education/upsr-to-spm-exams/)
+
 ## ما التالي
 
 هذه الصفحة هي الخريطة، لا الوجهة — فهي خفيفة عمداً على أي فرع بعينه كي تتمكن من الإشارة إلى التفاصيل. وتقع مقالات مخصصة حول SPM ونظام امتحانات المدرسة، وحول الاختيار بين STPM والتهيئة والمسارات التحضيرية الجامعية الخاصة، وحول كيفية عمل شهادات TVET فعلياً، وحول كيفية تنسيق القبول في الجامعات العامة، في المراحل التالية لهذه النظرة العامة على NegaraKu.md، وتتعمق في الآليات التي تكتفي هذه الصفحة برسم خريطتها.

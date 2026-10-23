@@ -111,3 +111,5 @@ keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan
 - いかなる協定に署名する前にも、[LPEPHの確認ポータル](https://lpeph.gov.my/search-listing)であなたの仲介業者と会社の状況を確認する。
 - [LPEPHの公式手数料ページ](https://lpeph.gov.my/fees)で、完全な法定料率と費用請求の条件を確認する。
 - 賃貸取引の場合は、仲介業者が支払いを処理する前に、賃貸借契約とデポジットの条件も理解しておく。
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

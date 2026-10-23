@@ -134,3 +134,5 @@ This means a patient who arrives earlier but is stable (green zone) may wait lon
 ## What's next
 
 This page explains how to get medical emergency help and what to expect at the Emergency Department. For road accidents that also involve a summons or PDRM action, see [Traffic Summonses in Malaysia](/en/transport/traffic-summons-saman); for the structure and enforcement powers of the police force itself, see [Royal Malaysia Police (PDRM)](/en/government/pdrm).
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

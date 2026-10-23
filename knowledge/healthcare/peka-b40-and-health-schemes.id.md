@@ -117,3 +117,5 @@ Kedua skema ini dapat diklaim bersamaan karena ia menanggung hal yang tidak sama
 ## Apa selanjutnya
 
 Periksa kelayakan sendiri di **kelayakan.pekab40.com.my** menggunakan nomor MyKad, dan jika memenuhi syarat, hadir ke klinik pemerintah terdaftar terdekat yang memajang logo PeKa B40 — baca [Klinik Kesihatan: Bagaimana Sistem Perawatan Primer Pemerintah Malaysia Sebenarnya Bekerja](/id/healthcare/klinik-kesihatan) untuk memahami jenis fasilitas KKM yang terlibat. Bagi rumah tangga dengan lansia yang mungkin memerlukan bantuan tambahan selain PeKa B40, baca juga [pilihan perawatan lansia di Malaysia](/id/healthcare/healthcare-for-seniors). Untuk pemeriksaan status mySalam, jelajahi portal resmi mySalam secara terpisah.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

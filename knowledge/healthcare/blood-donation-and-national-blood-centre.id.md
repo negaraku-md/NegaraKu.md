@@ -121,3 +121,5 @@ Bawa **dokumen asli** identitas diri — Kartu Identitas, SIM, kartu pegawai, at
 ## Apa selanjutnya
 
 Periksa kembali syarat kelayakan dan pastikan Anda cukup tidur serta sudah makan sebelum hadir. Untuk informasi terkini, waktu operasi, dan lokasi kampanye keliling, kunjungi portal resmi Pusat Darah Negara di pdn.gov.my atau hubungi PDN di 03-2613 2688.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

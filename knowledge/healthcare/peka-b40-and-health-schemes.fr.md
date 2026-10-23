@@ -118,3 +118,5 @@ Les deux dispositifs peuvent être demandés en même temps parce qu'ils couvren
 ## Ce qui suit
 
 Vérifiez votre propre éligibilité sur **kelayakan.pekab40.com.my** avec votre numéro de MyKad et, si vous êtes éligible, rendez-vous à la clinique publique enregistrée la plus proche arborant le logo PeKa B40 — lisez [Klinik Kesihatan : comment fonctionne réellement le système public de soins primaires de Malaisie](/fr/healthcare/klinik-kesihatan) pour comprendre les types d'établissements du KKM concernés. Pour les ménages comptant des membres âgés susceptibles d'avoir besoin d'un soutien supplémentaire au-delà de PeKa B40, lisez aussi [les options de soins gériatriques en Malaisie](/fr/healthcare/healthcare-for-seniors). Pour vérifier le statut de mySalam, consultez séparément le portail officiel de mySalam.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

@@ -146,3 +146,5 @@ According to the World Health Organization (WHO), the White Paper received bipar
 Malaysia has shifted from pandemic management to an endemic phase, with sweeping restrictions ended and attention moving to long-term recovery of the health system. Relevant developments ahead include the phased implementation of the Health White Paper, improvements to the public health workforce supply, and the continued use of digital infrastructure such as MySejahtera in health services.
 
 This draft was prepared with AI assistance and requires human review. All figures and dates should be re-verified against the latest official sources, such as the Ministry of Health's COVIDNOW/KKMNOW dashboards, before publication.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

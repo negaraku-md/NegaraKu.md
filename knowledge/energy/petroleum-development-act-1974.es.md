@@ -137,3 +137,5 @@ Se han informado públicamente varios acontecimientos: en mayo de 2020, se infor
 El marco central sigue siendo como era en 1974: la propiedad está conferida a Petronas, «irrevocable», con pagos en efectivo a la federación y a los estados determinados mediante acuerdo en lugar de por una tasa legal. Lo que sigue cambiando es la capa superior: las leyes estatales, las entidades estatales como Petros, los acuerdos comerciales y las declaraciones conjuntas.
 
 Para los lectores que siguen estos acontecimientos, vale la pena verificar tres cosas frente a las fuentes primarias antes de extraer conclusiones: (1) los términos precisos de cualquier escritura de cesión o acuerdo, que rara vez se publican en su totalidad; (2) cualquier fallo judicial reciente sobre la jurisdicción estatal frente a la federal; y (3) el texto actualizado de la Ley 144 en el portal de la Cámara del Fiscal General, ya que las cifras y las enmiendas pueden cambiar. Este borrador se preparó con asistencia de IA y requiere revisión humana antes de su publicación.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

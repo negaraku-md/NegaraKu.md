@@ -128,3 +128,5 @@ ToU is worthwhile if you can shift heavy usage — washing machines, EV chargers
 ## What's next
 
 Check your latest bill and identify those five component lines. Compare your monthly usage against the 600 kWh and 1,000 kWh thresholds to see whether you qualify for the Retail Charge waiver or the EEI rebate. For a precise calculation based on your actual usage, use the official bill calculator on the myTNB portal, and keep an eye on the monthly AFA value announced by the Energy Commission.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

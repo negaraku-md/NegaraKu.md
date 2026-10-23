@@ -159,3 +159,5 @@ Educación Especial; esa evaluación, no la preferencia personal, determina en c
 de las tres vías se ubica a un niño. Si tu hijo aún no tiene edad escolar,
 TASKA OKU y ONG como NASOM vale la pena explorarlas mientras tanto, en lugar de
 esperar a que empiece el proceso de ubicación escolar.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

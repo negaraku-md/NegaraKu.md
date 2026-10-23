@@ -105,3 +105,5 @@ Por eso la directriz exige que el médico confirme y registre la identidad de ca
 ## Qué viene a continuación
 
 Si usa un servicio de médico en línea, compruebe que la plataforma nombra a un médico registrado en Malasia y emite historiales y recetas en regla. Considere la teleconsulta como lo mejor para seguimientos, recetas repetidas y problemas menores — y espere que un buen médico le envíe en persona en cuanto una pantalla no sea suficiente. Tenga en cuenta también que el marco se apoya en una directriz, no en una ley, de modo que las normas podrían endurecerse si Malasia promulga en el futuro una legislación específica de telemedicina.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

@@ -162,3 +162,5 @@ Perlu diingat bahawa pemulihan projek terbengkalai boleh mengambil masa bertahun
 - **Jika projek nampak terhenti:** semak Senarai Projek Sakit & Terbengkalai dan dapatkan nasihat guaman awal, kerana kerugian besar mungkin memerlukan tindakan sivil.
 
 Panduan ini bersifat maklumat umum dan bukan nasihat guaman. Untuk kes tertentu, rujuk peguam bertauliah atau Jabatan Perumahan Negara, KPKT.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

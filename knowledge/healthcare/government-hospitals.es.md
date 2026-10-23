@@ -240,3 +240,5 @@ mientras que las personas mayores pueden leer más en
 [Atención sanitaria para personas mayores](/en/healthcare/healthcare-for-seniors).
 Para situaciones de urgencia reales, consulte
 [Emergencias y 999](/en/healthcare/emergencies-999).
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

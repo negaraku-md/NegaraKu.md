@@ -165,3 +165,5 @@ No presentar la declaración dentro del plazo puede acarrear sanciones. El pago 
 Antes de firmar el SPA para vender, estime primero su RPGT, sobre todo si ha conservado la propiedad menos de cinco años, donde la tasa del 30 % puede tragarse una gran parte de la ganancia. Conserve cada recibo relevante: honorarios legales de la compra, impuesto de timbre, comisión del agente y facturas de renovación, porque cada uno reduce su ganancia imponible.
 
 Si planea vender su única residencia, considere si conviene reservar la exención única de por vida para una enajenación con una ganancia mayor. Para casos que involucran empresas, extranjeros, transferencias familiares o exenciones específicas, consulte a un abogado inmobiliario o asesor fiscal, y confirme las tasas y procedimientos más recientes en el sitio web oficial de la LHDN (hasil.gov.my) antes de declarar.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

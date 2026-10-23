@@ -148,3 +148,5 @@ For readers who want to delve deeper into this topic, useful next steps:
 - Understand that any price controls on chicken or eggs must be read alongside global animal feed costs — that is the real determinant of whether supply remains stable.
 
 *This article is an AI-assisted draft and has not undergone human editorial review. All figures are cited from the official sources listed; verify the latest figures directly from DOSM and DVS before making decisions.*
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

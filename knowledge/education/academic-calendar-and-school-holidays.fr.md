@@ -124,3 +124,5 @@ Sabah et Sarawak sont dans le **Groupe B**, ils suivent donc le même décalage 
 - Assurez-vous de regarder la **bonne colonne de groupe** (A ou B) pour l'État de votre enfant ; la mauvaise colonne signifie se tromper d'un jour.
 - Faites correspondre les dates des congés de trimestre avec les **jours fériés** de votre État, car les fêtes islamiques et les jours fériés de Sabah/Sarawak peuvent ajouter ou décaler des jours.
 - Pour un contexte plus large, consultez la page des jours fériés en Malaisie et la structure du système scolaire malaisien.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

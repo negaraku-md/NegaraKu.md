@@ -150,3 +150,5 @@ Bagian ini mencantumkan hal yang masih berkembang dan patut dipantau dari sumber
 - Pernyataan resmi dari Pemerintah Federal, Pemerintah Sarawak, Petronas dan Petros mengenai status pelaksanaan.
 
 > Catatan penyuntingan: Draf ini disusun dengan bantuan AI dan belum melalui tinjauan manusia. Tanggal penyusunan (2016), berlaku (1 Juli 2018) dan amendemen (Distribution of Gas (Amendment) Ordinance 2023) dilaporkan oleh sumber berita; teks ordonansi resmi serta pernyataan Petros/Petronas masih perlu diverifikasi silang sebelum diterbitkan. Argumen berkaitan Emergency Ordinance 1969 dan pencabutan 2011 dilaporkan oleh The Edge Malaysia dan perlu diverifikasi terhadap pendirian resmi Pemerintah Sarawak.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

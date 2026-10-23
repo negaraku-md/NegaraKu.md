@@ -122,3 +122,5 @@ keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "t
 ## 下一步
 
 在申请 taska、tadika 或 prasekolah 之前，请确保孩子的身份文件——MyKid 或出生证明书——已经齐备，因为申请阶段需要用到这些文件。若您刚为孩子登记出生，请先阅读[登记出生](/zh/settling-in/registering-a-birth)，了解相关手续与所需文件，之后再进行学前教育的报名手续。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

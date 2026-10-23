@@ -155,3 +155,5 @@ Whether every target is met, the direction is clear: Malaysia wants to stop bein
 Malaysia's semiconductor industry is at a genuine inflection point. Half a century after Intel's first Penang plant, the country has turned back-end chip services into a record-setting export engine — and has openly concluded that staying at the lower-margin end is not enough for the decades ahead. Whether the National Semiconductor Strategy succeeds in pulling Malaysia into design and fabrication, against intense regional competition and a volatile global chip cycle, is the central question for the industry's next chapter.
 
 To go deeper, read the broader [Electrical & Electronics (E&E) industry](/en/industries/electrical-electronics-industry/) guide — the full sector that semiconductors sit inside — and the profile of [MIDA](/en/government/mida/), the agency driving the investment and policy behind the numbers.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

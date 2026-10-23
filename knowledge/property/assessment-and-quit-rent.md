@@ -135,3 +135,5 @@ Kedua-dua cukai ini adalah contoh konkrit bagaimana kuasa kerajaan negeri dan ke
 - [Tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government) — bagaimana persekutuan, negeri dan tempatan berbeza kuasa
 - [Pembahagian kuasa persekutuan-negeri](/government/federal-state-division) — kenapa tanah termasuk dalam senarai kuasa negeri
 - [Dewan Undangan Negeri (DUN)](/government/state-assemblies-dun) — badan yang meluluskan undang-undang tanah negeri
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

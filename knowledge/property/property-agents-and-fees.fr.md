@@ -111,3 +111,5 @@ Un agent peut également réclamer des frais supplémentaires tels que la public
 - Vérifiez le statut de votre agent et de son agence sur le [portail de recherche de la LPEPH](https://lpeph.gov.my/search-listing) avant de signer tout accord.
 - Consultez le barème complet des honoraires et les conditions de réclamation des frais sur la [page officielle des honoraires de la LPEPH](https://lpeph.gov.my/fees).
 - Pour les transactions de location, comprenez également les termes du bail et du dépôt de garantie avant que l'agent ne traite tout paiement.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

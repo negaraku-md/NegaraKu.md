@@ -120,3 +120,5 @@ Ngoại lệ nằm ở Mục 60(3): một MC có thể đặt các **mức khác
 ## Tiếp theo
 
 Hãy đọc chính văn bản của Đạo luật trên cổng của Văn phòng Tổng Chưởng lý để có chi tiết đầy đủ theo từng mục, kiểm tra xem dự án của bạn còn dưới một JMB hay đã có một MC bằng cách hỏi trực tiếp văn phòng quản lý của bạn, và nếu bạn đang thuê chứ không phải sở hữu, xem [Tìm nhà thuê tại Malaysia](/vi/property/finding-a-rental) để biết cách các tòa nhà này được giới thiệu và cho thuê ngay từ đầu.
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

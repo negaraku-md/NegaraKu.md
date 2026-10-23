@@ -129,3 +129,5 @@ Tuy nhiên, đề xuất này vẫn là một thảo luận chính sách. Theo c
 - Để có bối cảnh rộng hơn, hãy tham khảo vai trò của FELDA trong việc khai mở đất định cư (land settlement) vốn bổ sung cho bức tranh về hệ sinh thái các cơ quan đất đai liên bang của Malaysia.
 
 *Ghi chú: Bài viết này là một bản thảo được tạo với sự trợ giúp của AI và chưa qua rà soát của con người. Các con số và ngày tháng được lấy từ các nguồn chính thức được liệt kê; vui lòng tham khảo nguồn gốc để biết thông tin mới nhất. Các mục trong danh sách `verificationNeeded` vẫn cần được người rà soát xác nhận.*
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

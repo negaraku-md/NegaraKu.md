@@ -104,3 +104,5 @@ That is why the guideline requires the doctor to confirm and record everyone's i
 ## What's next
 
 If you use an online doctor service, check that the platform names a Malaysia-registered doctor and issues proper records and prescriptions. Treat teleconsultation as best for follow-ups, repeat prescriptions and minor issues — and expect a good doctor to send you in person the moment a screen is not enough. Note too that the framework rests on a guideline, not a statute, so the rules may tighten if Malaysia enacts dedicated telemedicine legislation in future.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

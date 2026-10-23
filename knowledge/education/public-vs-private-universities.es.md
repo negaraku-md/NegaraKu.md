@@ -239,3 +239,5 @@ o considerando una ruta que la UPU no cubre — UEC, A-Level o un diploma de un
 IPTS — verifica el programa exacto que te están ofreciendo en el Registro de
 Cualificaciones de Malasia antes de matricularte, sea cual sea el tipo de
 institución que emitió la oferta.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

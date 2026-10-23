@@ -206,3 +206,5 @@ PETRA திசையை முடிவுசெய்கிறது; ST உ�
   [Akta 610 இன் முழு உரை](https://faolex.fao.org/docs/pdf/mal37918.pdf) இல்
   படிக்கவும், அல்லது [ST இன் “About Us” பக்கத்தில்](https://www.st.gov.my/about-us)
   அதிகாரப்பூர்வ ஆணையைச் சரிபார்க்கவும்
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவின் ஆற்றல் துறை](/ta/energy/energy-sector-overview/).

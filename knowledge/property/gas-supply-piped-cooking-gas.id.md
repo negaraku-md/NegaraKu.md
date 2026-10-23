@@ -159,3 +159,5 @@ Beli hanya dari distributor berlisensi dan pastikan segel keamanan pada tabung m
 ## Apa selanjutnya
 
 Jika rumah Anda berada dalam kawasan cakupan Gas Malaysia, hubungi mereka untuk memastikan cakupan alamat, daftar dokumen dan biaya terkini sebelum mendaftar. Jika Anda menggunakan LPG, simpan nomor distributor berlisensi di dekat dan periksa selang serta regulator sebagai rutinitas. Harga plafon dan rincian subsidi ditinjau dari waktu ke waktu oleh KPDN, jadi pastikan harga terkini dengan distributor atau sumber resmi sebelum membuat keputusan besar. Untuk gambaran penuh utilitas rumah, lihat juga panduan pasokan listrik dan air.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

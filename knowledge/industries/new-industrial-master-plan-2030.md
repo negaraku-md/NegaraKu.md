@@ -239,3 +239,5 @@ Use this to figure out how the plan touches you.
 NIMP 2030 will be judged on its 2030 numbers — RM587.5 billion in manufacturing value-added, 3.3 million jobs, and a manufacturing median salary of RM4,510 — and on whether the mission-based machinery keeps converting into real projects. The most useful things to watch are the annual progress reporting from MITI, the deployment of the NIDF and the Strategic Co-Investment Fund, the rollout of the nine Mission-Based Projects, and how the plan intersects with adjacent policies on semiconductors, energy transition and the digital economy.
 
 If you want to go deeper, the primary documents live on the official NIMP 2030 portal and MITI's site, including the full plan, the sectoral plans, and the FAQ. For any hard figure, this article cites only sources it verified directly — always confirm the latest numbers against the official portal, since progress data is updated as the plan moves through the decade.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

@@ -143,3 +143,5 @@ Por qué importa: el reconocimiento es lo que permite a un graduado acceder al e
 ## Qué sigue
 
 Si estás eligiendo un curso, abre el MQR y confirma el estado del programa *antes* de pagar un depósito — provisional o plena está bien, ausente no. Si un programa que te interesa no figura, pide a la institución directamente, por escrito, su referencia y estado ante la MQA, y toma las respuestas vagas como una señal de alerta. Para las profesiones reguladas, contacta con el organismo profesional correspondiente para confirmar la ruta del graduado hacia el registro. Los empleadores y los equipos de RR. HH. pueden usar ese mismo registro para validar en minutos la cualificación declarada por un candidato.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

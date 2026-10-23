@@ -342,6 +342,27 @@ Regulation، IBR)، نافذةً حتى 31 ديسمبر 2027.
   (توليد الكهرباء)، لا إلى نظام الطاقة بأكمله شاملًا النقل
   والصناعة.
 
+## استكشف هذا الموضوع بعمق
+
+أهم الأدلة في هذا المجال:
+
+- [إصلاح صناعة توريد الكهرباء](/ar/energy/electricity-supply-industry-reform-mesi/)
+- [كيف تعمل بنية تعرفة الكهرباء في ماليزيا](/ar/energy/electricity-tariff-structure/)
+- [لجنة الطاقة](/ar/energy/energy-commission-suruhanjaya-tenaga/)
+- [قانون كفاءة الطاقة والحفاظ عليها (Act 861)](/ar/energy/energy-efficiency-conservation-act/)
+- [كيف تحدد ماليزيا أسعار الوقود الأسبوعية](/ar/energy/fuel-pricing-mechanism/)
+- [نظام دعم الوقود في ماليزيا](/ar/energy/fuel-subsidy-system/)
+- [الهيدروجين واحتجاز الكربون (CCUS) في ماليزيا](/ar/energy/hydrogen-ccus-malaysia/)
+- [الطاقة الكهرومائية في ماليزيا](/ar/energy/hydropower-malaysia/)
+- [خارطة طريق تحوّل الطاقة الوطنية (NETR)](/ar/energy/national-energy-transition-roadmap-netr/)
+- [الغاز الطبيعي والغاز الطبيعي المسال (LNG) في ماليزيا](/ar/energy/natural-gas-lng-malaysia/)
+- [قانون تطوير البترول لسنة 1974 (Petroleum Development Act 1974)](/ar/energy/petroleum-development-act-1974/)
+- [الطاقة المتجددة في ماليزيا](/ar/energy/renewable-energy-in-malaysia/)
+- [شركة ساراواك للطاقة (Sarawak Energy Berhad، SEB)](/ar/energy/sarawak-energy-berhad/)
+- [بتروس ونزاع غاز ساراواك](/ar/energy/sarawak-petros-gas-dispute/)
+- [SEDA ماليزيا](/ar/energy/seda-malaysia/)
+- [الطاقة الشمسية في ماليزيا](/ar/energy/solar-energy-malaysia/)
+
 ## ما التالي
 
 إن كنت مستهلكًا، فأكثر خطوة عملية هي فهم فاتورة كهربائك الجديدة RP4

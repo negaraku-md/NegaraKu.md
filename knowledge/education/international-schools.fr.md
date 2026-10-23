@@ -181,3 +181,5 @@ Il s'agit d'une taxe superposée aux frais propres à l'école, non d'un changem
 ## Et ensuite
 
 Pour le volet migratoire consistant à faire venir une famille en Malaisie en premier lieu — y compris la façon dont les enfants d'un employé étranger sont parrainés pour l'accompagner — voir [Pass de personne à charge ou pass de visite sociale de longue durée](/en/settling-in/dependant-social-visit-passes). Si une école publique malaisienne figure aussi sur votre liste de comparaison, voir [S'inscrire dans une école publique](/en/education/enrolling-in-a-government-school). Pour savoir comment la société derrière une école est enregistrée en premier lieu, voir [SSM — Commission des sociétés de Malaisie](/en/government/ssm). Et pour la taxe désormais superposée aux frais de scolarité les plus élevés, voir [L'extension de la taxe sur les services du 1er juillet 2025, secteur par secteur](/en/taxation/sst-expansion-2025).
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

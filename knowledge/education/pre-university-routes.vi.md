@@ -144,3 +144,5 @@ Về cách việc tuyển sinh cuối cùng đó thực sự hoạt động mộ
 ## Tiếp theo
 
 Một khi một kết quả dự bị đại học đã trong tay, quyết định tiếp theo là nộp đơn vào loại cơ sở nào — xem [IPTA hay IPTS? Các Đại học Công lập và Tư nhân của Malaysia Thực sự Khác nhau Như thế nào](/vi/education/public-vs-private-universities) để biết cách hệ thống đại học công lập tập trung của UPU so sánh với việc nộp đơn trực tiếp vào một đại học tư nhân. Về cách nhiều học sinh tài trợ cho con đường mà họ chọn, xem [PTPTN Không phải Học bổng: Đây là Cách Khoản vay Giáo dục này Thực sự Hoạt động](/vi/education/ptptn-student-loan).
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

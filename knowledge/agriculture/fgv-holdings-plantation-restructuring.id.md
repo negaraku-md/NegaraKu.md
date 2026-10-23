@@ -137,3 +137,5 @@ Pejabat telah menandai satu **penyelarasan ulang struktur organisasi FELDA seiri
 ## Apa selanjutnya
 
 Pertanyaan terbuka kini adalah tata kelola dan hasil. Sebagai entitas privat yang dikendalikan FELDA, FGV kehilangan keterbukaan triwulanan dan pengawasan pasar yang datang bersama pencatatan Bursa, jadi kinerja masa depan akan lebih sulit dilacak oleh pihak luar. Perhatikan bagaimana FELDA mengintegrasikan FGV ke dalam struktur grup yang disatukan, apakah peningkatan biaya dan produktivitas yang dijanjikan itu benar-benar terwujud, dan bagaimana kepentingan peneroka — mayoritas pasokan buah FGV — diseimbangkan dengan pengembalian komersial. Pemegang saham yang keberatan, sementara itu, memiliki waktu sampai 15 Januari 2026 untuk memutuskan apakah akan menjual pada harga RM1.30.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

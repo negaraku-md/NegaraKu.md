@@ -175,3 +175,5 @@ Bhdが運営——は、登録済みの政府医療施設において無料の�
 ご覧いただきたい。実際に予約するには、
 [MyGovernmentポータル](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan)
 を通じて公式サービスにアクセスされたい。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

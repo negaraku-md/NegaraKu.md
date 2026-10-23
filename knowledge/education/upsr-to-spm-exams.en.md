@@ -139,3 +139,5 @@ In short: parents hoping for a full "new version of UPSR" to return will not get
 ## What's next
 
 To understand where the schooling pathway leads after SPM, read `/en/education/public-vs-private-universities` on the difference between IPTA and IPTS admission. If your child is an international student, or your family has just moved to Malaysia, `/en/education/international-students-studying-in-malaysia` explains how the local schooling system works for non-citizens.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

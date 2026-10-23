@@ -246,6 +246,27 @@ When you encounter an agriculture news item or figure, these three questions usu
 
 **"Agricultural figures are fixed."** Most figures here (yield, prices, production, SSR) are revised annually and move with weather, global prices and replanting cycles. Refer to the latest releases from DOSM, MPOB and the ministries for current data.
 
+## Explore this topic in depth
+
+The key guides in this area:
+
+- [Agricultural Subsidies and Farm Input Support for Paddy Farmers](/en/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS and Malaysia's Rice Import Monopoly](/en/agriculture/bernas-rice-import-monopoly/)
+- [Department of Fisheries Malaysia (DOF)](/en/agriculture/department-of-fisheries-malaysia/)
+- [Malaysia's Durian and Tropical Fruit Export Trade](/en/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/en/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA and RISDA](/en/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/en/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/en/agriculture/fgv-holdings-plantation-restructuring/)
+- [Malaysia's Food Security Policy and Self-Sufficiency Targets](/en/agriculture/food-security-self-sufficiency-policy/)
+- [Malaysia's Livestock and Poultry Industry](/en/agriculture/livestock-poultry-industry/)
+- [Malaysia's Fisheries Industry](/en/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/en/agriculture/mardi-agricultural-research-institute/)
+- [Ministry of Agriculture and Food Security (KPKM) and Its Agencies](/en/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [Oil Palm Smallholders and MSPO Sustainability Certification](/en/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [Padi and Rice in Malaysia](/en/agriculture/padi-and-rice-industry/)
+- [Malaysia's Padi and Rice Industry](/en/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## Next steps
 
 - Dive into the largest export commodity in the [overview of Malaysia's palm oil sector](/en/economy/palm-oil-sector) — its scale, institutions and sustainability certification.

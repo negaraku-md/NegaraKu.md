@@ -116,3 +116,5 @@ KPDN also introduced a digital Anti-Profiteering Calculator to help traders calc
 ## What's next
 
 If you are a trader, keep records of your costs and prices at the start of each financial year — that is the base year that will be used to assess you. If you are a consumer who suspects profiteering, a complaint can be made to KPDN. For more context on the taxes that affect prices, see our related article on SST.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

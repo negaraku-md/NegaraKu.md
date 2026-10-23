@@ -128,3 +128,5 @@ Para los titulares de cuentas existentes, TNB también ofrece la **Lectura Propi
 ## Qué sigue
 
 La electricidad es solo una de las varias cosas que hay que resolver al trasladarse a una vivienda nueva en Malasia — consulta [primeros pasos al mudarse a Malasia](/en/settling-in/moving-to-malaysia-first-steps) para conocer los demás requisitos relacionados. Para quienes también necesiten contratar una línea móvil en el nuevo local, consulta la [guía de tarjetas SIM de prepago y pospago](/en/money-daily-life/mobile-sim-plans).
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

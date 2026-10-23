@@ -144,3 +144,5 @@ Itulah makna sebenar sasaran kandungan tempatan integrasi sistem. Ia adalah perc
 ## Apa yang seterusnya
 
 Cerita jangka pendek adalah aritmetik. Hasil berjalan hampir dengan trajektori 2030, dan sasaran tenaga kerja sudah dicapai, jadi soalan jujurnya bukan lagi sama ada Malaysia boleh mengembangkan sektor ini tetapi sama ada ia boleh mengubah *sifatnya* — beralih daripada menyelenggara dan memesin pesawat kepada mereka bentuk dan mengintegrasikannya. Perhatikan tiga perkara: sama ada bahagian kandungan tempatan integrasi sistem benar-benar meningkat menuju 70%, sama ada bahagian MRO naik daripada 4% kepada 5% pasaran global yang sedang berkembang, dan sama ada defisit perdagangan mengecil apabila keupayaan reka bentuk tempatan mendalam. Jika ketiga-tiganya bergerak bersama, RM55 bilion akan menjadi lantai dan bukan garisan penamat.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

@@ -155,3 +155,5 @@ App Store）或网页平台皆可，服务对象涵盖公民与非公民。
 [医疗保健](/zh/healthcare)分类。若要实际预约挂号，请透过
 [MyGovernment门户](https://www.malaysia.gov.my/my/digital-services/permohonan-tempahan-temujanji-pemeriksaan-kesihatan)
 使用官方服务。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

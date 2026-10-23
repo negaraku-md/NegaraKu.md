@@ -234,3 +234,5 @@ billion lost each year — those are the numbers driving MMEA asset investment
 and the penalty amendments. The Department of Fisheries' annual fisheries
 statistics and MMEA's enforcement reports are the official sources for
 following developments from year to year.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

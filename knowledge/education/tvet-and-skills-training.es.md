@@ -175,3 +175,5 @@ correspondiente. Y si tu empleador te envía a una formación de competencias
 financiada a través de la cuota de HRD Corp, lee también la guía sobre la
 cuota de HRD Corp para entender cómo se financia esa formación a nivel del
 empleador.
+
+Consulta la guía completa: [El sistema educativo de Malasia, de preescolar a la universidad](/es/education/malaysian-education-system/).

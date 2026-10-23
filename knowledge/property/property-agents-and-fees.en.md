@@ -111,3 +111,5 @@ An agent may also claim additional costs such as advertising, printing and trave
 - Verify your agent's and firm's status on the [LPEPH search portal](https://lpeph.gov.my/search-listing) before signing any agreement.
 - Review the full fee scale and the conditions for claiming costs on the [official LPEPH fees page](https://lpeph.gov.my/fees).
 - For rental transactions, also understand the terms of the tenancy agreement and deposit before the agent processes any payment.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

@@ -209,3 +209,5 @@ keywords: ["تكلفة المعيشة بينانغ", "cost of living Penang", "�
   و[مؤشر أسعار المستهلك، يناير 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025)؛
   وإدراج التراث العالمي لليونسكو [جورج تاون/ملقا](https://whc.unesco.org/en/list/1223/)؛
   و[تقارير مؤشر أسعار المساكن الماليزية](https://napic.jpph.gov.my/) الصادرة عن NAPIC لسياق سوق العقارات.
+
+اطّلع على الدليل الكامل: [تكلفة المعيشة في ماليزيا، وفق الأرقام الرسمية](/ar/cost-of-living/cost-of-living-overview/).

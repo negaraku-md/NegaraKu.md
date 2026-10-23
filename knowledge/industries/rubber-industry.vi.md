@@ -171,3 +171,5 @@ Trước những áp lực đó, logic chiến lược không thay đổi so v�
 ## Tiếp theo
 
 Nếu bạn đang nghiên cứu khu vực này, các con số cập nhật có thẩm quyền nhất là các bản công bố **Thống kê Cao su Hằng tháng của DOSM**, cập nhật sản lượng, xuất khẩu, tồn kho và điểm đến mỗi tháng. Về mặt thể chế, Ủy ban Cao su Malaysia công bố hướng dẫn cấp phép và điều tiết, trong khi MARGMA theo dõi cụ thể ngành thương mại găng tay. Hãy theo dõi ba biến số cụ thể: giá cao su tự nhiên (thứ quyết định liệu các tiểu điền chủ có tiếp tục cạo mủ hay không), cơ cấu nitrile-so-với-mủ trong găng tay, và các biện pháp thương mại Mỹ-Trung — yếu tố dao động có khả năng nhất làm dịch chuyển xuất khẩu găng tay của Malaysia theo hướng này hay hướng khác.
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

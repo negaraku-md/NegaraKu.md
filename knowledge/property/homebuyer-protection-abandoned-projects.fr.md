@@ -163,3 +163,5 @@ Gardez à l'esprit que réhabiliter un projet abandonné peut prendre des année
 - **Si le projet semble être au point mort :** consultez la Liste des projets en difficulté et abandonnés et obtenez un conseil juridique rapidement, car des pertes importantes peuvent nécessiter une action civile.
 
 Ce guide est une information générale et non un conseil juridique. Pour des cas spécifiques, consultez un avocat qualifié ou le Département national du logement, KPKT.
+
+Voir le guide complet : [Acheter un logement en Malaisie](/fr/property/buying-a-home-process/).

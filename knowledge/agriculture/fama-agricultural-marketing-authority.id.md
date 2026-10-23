@@ -175,3 +175,5 @@ Outlet, atau keikutsertaan program seperti Ladang Kontrak dan RANTAI — kemudia
 periksa formulir dan syarat keikutsertaan di `fama.gov.my`. Jika Anda konsumen,
 daftar pasar tani dan gerai FAMA di wilayah Anda juga tersedia di laman resmi
 lembaga.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

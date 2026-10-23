@@ -113,3 +113,5 @@ Karena ia bagian dari sistem pendidikan swasta yang diatur, orang tua dapat — 
 - Calon pengusaha: mulailah dengan mendaftarkan entitas usaha (SSM), kemudian lamar persetujuan pendirian melalui sistem KPM sebelum menyewa tempat komersial.
 - Orang tua: minta bukti pendaftaran JPN dan pastikan pusat mematuhi syarat staf yang ditetapkan.
 - Rujuk langsung JPN negeri Anda atau laman Bagian Pendidikan Swasta KPM untuk formulir, daftar periksa, dan biaya terkini.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

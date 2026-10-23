@@ -169,3 +169,5 @@ Sau các phản đối kéo dài của người bản địa, do các cộng đ�
 Tương lai của thủy điện Malaysia xoay quanh hai hướng khác nhau. Ở Bán đảo, chương trình nghị sự chính là kéo dài tuổi thọ của các nhà máy hiện có — như Kenyir qua HLEP — và các dự án mới nhỏ hơn để hỗ trợ các mục tiêu năng lượng tái tạo của đất nước. Ở Sarawak, Baleh sẽ quyết định liệu mô hình đập siêu lớn có thể được hoàn thành đúng lịch trình trong khi tránh các tranh cãi đã đeo bám Bakun và Murum hay không.
 
 Đối với người đọc muốn đi sâu vào chủ đề này, các bước tiếp theo hữu ích bao gồm hiểu vai trò của thủy điện trong các mục tiêu năng lượng tái tạo quốc gia, so sánh chi phí thủy điện với điện mặt trời và các năng lượng khác, cùng theo dõi cách quyền đất đai tổ tiên và các đánh giá tác động môi trường tiếp tục định hình các quyết định dự án. Hãy theo dõi các thông báo chính thức từ Sarawak Energy, RECODA và Suruhanjaya Tenaga để biết các con số và tình trạng dự án hiện hành.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

@@ -142,3 +142,5 @@ Ninguna de estas organizaciones exige un diagnóstico, una derivación ni prueba
 ## Qué sigue
 
 Para ver cómo encaja el sistema sanitario público-privado más amplio — incluido quién paga qué y por qué — consulta [Cómo funciona realmente la sanidad malasia](/en/healthcare/how-malaysian-healthcare-works). Para saber más sobre la red de clínicas del gobierno que a menudo sirve de primer punto de contacto, consulta [Klinik Kesihatan](/en/healthcare/klinik-kesihatan). Para los costes del sector privado en términos más amplios, consulta [Hospitales privados y costes](/en/healthcare/private-hospitals-and-costs). Y si una situación llega a ser un asunto de seguridad física inmediata, [Emergencias médicas y el 999](/en/healthcare/emergencies-999) explica cómo funciona ese sistema aparte.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

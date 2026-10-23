@@ -195,3 +195,5 @@ chuyển vào một căn nhà mới tại Malaysia — xem
 để biết danh sách các nhu cầu liên quan khác. Đối với những người cũng cần
 thiết lập đường di động tại cơ sở mới, hãy tham khảo
 [hướng dẫn SIM trả trước và trả sau](/vi/money-daily-life/mobile-sim-plans).
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

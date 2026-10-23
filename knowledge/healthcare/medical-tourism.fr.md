@@ -146,3 +146,5 @@ En somme : le MHTC est la porte d'entrée et le promoteur, et non le régulateur
 ## La suite
 
 Deux questions connexes auxquelles cet article ne répond pas en profondeur : comment un retraité étranger vivant en Malaisie sous le visa [MM2H](/en/settling-in/mm2h-long-stay-visa) accède au quotidien aux soins privés (une question différente d'un court voyage de tourisme médical), et comment les produits malaisiens d'assurance maladie privée et de takaful traitent les non-citoyens. Toutes deux se situent plus près du versant « vivre ici » de la santé que du versant « s'envoler pour un traitement » traité plus haut.
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

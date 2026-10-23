@@ -169,3 +169,5 @@ Ambas vías existen precisamente porque no hay un atajo legal más simple: son l
 ## Qué sigue
 
 Una vez firmado y sellado el contrato de arrendamiento, los siguientes pasos prácticos suelen ser abrir las cuentas de servicios a nombre del inquilino y entender cualquier cargo a nivel de edificio que acompañe al alquiler. Vea [abrir una cuenta de electricidad con TNB](/en/property/electricity-tnb-account) para saber cómo funciona el proceso de Cambio de Arrendamiento (Change of Tenancy) y su propio depósito, y [vivir en condominio y cuotas de mantenimiento](/en/property/condo-living-maintenance-fees) si la unidad está en una propiedad de estrato con su propia corporación de gestión. Si aún no ha encontrado la unidad o verificado con quién trata, [encontrar un alquiler en Malasia](/en/property/finding-a-rental) cubre los portales y la verificación de registro REN que deberían ocurrir antes de que cualquier depósito cambie de manos.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

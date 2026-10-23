@@ -213,3 +213,5 @@ If you are a tech or digitally-driven company weighing whether to engage, work t
 The direction of travel is clear: Malaysia wants the digital economy to keep climbing toward and past the 25.5% blueprint mark on the way to a technology-driven high-income economy by 2030, with e-invoicing, digital-nomad inflows and MSME digitalisation as near-term levers. For the most current numbers, check DOSM's annual *Malaysia Digital Economy* release, which is the authoritative source for the GDP-share and e-commerce figures cited here.
 
 If you are a company, the practical next step is to confirm whether your activity maps to one of the nine MD promoted sectors, then decide whether you need MD Status alone or the separate MD Tax Incentive — and sequence your application before you begin invoicing the qualifying activity. Related NegaraKu.md guides on MDEC, the MyDIGITAL blueprint and Malaysia's e-commerce sector go deeper on each layer of this stack.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

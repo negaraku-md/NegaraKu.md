@@ -136,3 +136,5 @@ Malaysia's Department of Statistics (DOSM) measures something different. Its Con
 ## What's next
 
 Use these indices as a directional guide, not a personal budget. If you are planning a move or a posting, pull the current-year Mercer and EIU headlines for the ranking, cross-check Numbeo's city-level page for Kuala Lumpur, Penang or Johor Bahru, and then anchor the real numbers to DOSM's domestic price data. Rankings shift year to year with exchange rates, so always cite the survey edition you are quoting.
+
+See the full guide: [Malaysia's Cost of Living, By the Official Numbers](/en/cost-of-living/cost-of-living-overview/).

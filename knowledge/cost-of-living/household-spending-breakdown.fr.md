@@ -142,3 +142,5 @@ importe.
 - Consultez directement la diffusion primaire dans le
   [Rapport de l'enquête sur les dépenses des ménages 2024 de DOSM](https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states)
   pour les tableaux complets de catégories et les ventilations au niveau de l'État.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

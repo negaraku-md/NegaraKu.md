@@ -148,3 +148,5 @@ keywords: ["industri ternakan", "ayam pedaging", "telur ayam", "demam babi Afrik
 - 鶏肉や鶏卵の価格統制は、世界の飼料コストと併せて理解する必要がある——それこそが供給の安定を左右する真の要因である。
 
 *本稿はAIの支援により作成された草稿であり、人間の編集者による査読はまだ行われていない。すべての数値は記載された公式情報源から引用されている。意思決定を行う前に、最新の数値をDOSM及びJPVに直接確認すること。*
+
+詳しくは全体ガイドをご覧ください：[マレーシアの農業・食料部門](/ja/agriculture/agriculture-sector-overview/)。

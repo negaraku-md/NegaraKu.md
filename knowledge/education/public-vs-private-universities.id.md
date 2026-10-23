@@ -238,3 +238,5 @@ jalur yang tidak diliputi UPU — UEC, A-Level, atau diploma dari IPTS — pasti
 program tepat yang ditawarkan kepada Anda di Daftar Kualifikasi Malaysia (MQR)
 sebelum mendaftar, tidak peduli jenis institusi mana yang mengeluarkan tawaran
 itu.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

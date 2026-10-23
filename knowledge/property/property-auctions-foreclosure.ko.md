@@ -113,3 +113,5 @@ keywords: ["bank lelong", "property auction Malaysia", "foreclosure", "proclamat
 ## What's next
 
 해당 물건의 매각 공고를 구해 모든 조항, 특히 연체금과 공가 인도 조건을 읽으십시오. 실제로 적용되는 보증금과 기한을 알기 위해 고등법원 경매인지 LACA 경매인지 확인하고, 그 기간 안에 지급될 수 있는 대출 승인을 확보하십시오. 법원 경매의 경우, 사전에 사법부 e-Lelong 플랫폼에 등록하고, 응찰 후가 아니라 응찰 전에 부동산 변호사를 선임하는 것을 고려하십시오. 확약하기 전에 위험 조정 가격을 일반 SPA에 따른 통상 매수와 비교하십시오.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

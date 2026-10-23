@@ -113,3 +113,5 @@ Dalam perjanjian jual beli (SPA) biasa, Anda merundingkan harga, memeriksa prope
 ## Apa selanjutnya
 
 Dapatkan Proklamasi Penjualan bagi lot yang spesifik dan baca setiap klausul, terutama syarat tunggakan dan milikan kosong. Pastikan apakah ia pelelangan Mahkamah Tinggi atau LACA supaya Anda tahu deposit dan tenggat yang benar-benar berlaku, dan dapatkan persetujuan pinjaman yang dapat dicairkan dalam waktu tersebut. Bagi pelelangan pengadilan, daftar di platform e-Lelong Kehakiman lebih awal, dan pertimbangkan untuk melibatkan pengacara pindah milik sebelum — bukan setelah — Anda menawar. Bandingkan harga yang disesuaikan dengan risiko dengan pembelian konvensional di bawah SPA biasa sebelum membuat komitmen.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

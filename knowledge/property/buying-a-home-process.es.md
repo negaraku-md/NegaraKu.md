@@ -137,6 +137,33 @@ El comprador — no el vendedor — es la parte legalmente responsable de pagar 
 - **Confundir el papel del abogado del SPA con el del abogado del banco.** El abogado del banco está contratado para proteger la carga del banco, no para negociar las condiciones del SPA del comprador.
 - **Citar un umbral de exención del impuesto de timbre de una entrada de blog como si fuera permanente.** Las órdenes de exención son instrumentos legislados con sus propias fechas de inicio y fin — confirma la que esté vigente antes de presupuestar en torno a ella.
 
+## Explora este tema en profundidad
+
+Las guías clave de esta área:
+
+- [Programas gubernamentales de vivienda asequible (PR1MA, Residensi Wilayah, Rumah Mesra Rakyat)](/es/property/affordable-housing-schemes/)
+- [Impuesto de evaluación y renta de la tierra](/es/property/assessment-and-quit-rent/)
+- [Vivir en condominio en Malasia](/es/property/condo-living-maintenance-fees/)
+- [Cuentas de electricidad de TNB, SESB y Sarawak Energy](/es/property/electricity-tnb-account/)
+- [Encontrar un alquiler en Malasia](/es/property/finding-a-rental/)
+- [¿Pueden los extranjeros comprar propiedad en Malasia? El precio mínimo y el consentimiento estatal explicados](/es/property/foreigners-buying-property/)
+- [Freehold, Leasehold, Strata, Landed](/es/property/freehold-leasehold-strata-landed/)
+- [Suministro de gas en casa](/es/property/gas-supply-piped-cooking-gas/)
+- [Comunidades cerradas y vecindarios vigilados en Malasia](/es/property/gated-communities-and-security/)
+- [Préstamos de vivienda y financiación hipotecaria en Malasia](/es/property/home-loan-mortgage-financing/)
+- [Protección del comprador de vivienda](/es/property/homebuyer-protection-abandoned-projects/)
+- [IWK no es una compañía de agua](/es/property/indah-water-sewerage/)
+- [Banda ancha por fibra en el hogar en Malasia](/es/property/internet-and-fibre/)
+- [Trabajar con agentes inmobiliarios](/es/property/property-agents-and-fees/)
+- [Comprar una propiedad en subasta (Bank Lelong)](/es/property/property-auctions-foreclosure/)
+- [Herencia de propiedad](/es/property/property-inheritance-faraid-distribution/)
+- [Impuesto sobre ganancias de bienes inmuebles (RPGT) al vender una propiedad](/es/property/real-property-gains-tax/)
+- [Aprobaciones para renovación de vivienda y el Certificado de Finalización y Cumplimiento (CCC)](/es/property/renovation-permits-and-ccc/)
+- [Alquilar en Malasia no tiene una Ley de Arrendamiento](/es/property/renting-a-home-tenancy/)
+- [Basura, reciclaje y consejos locales](/es/property/rubbish-and-local-council/)
+- [Gobernanza de propiedades en estratos](/es/property/strata-management-jmb-mc/)
+- [El suministro de agua en Malasia](/es/property/water-supply/)
+
 ## Qué sigue
 
 Para saber qué promete realmente el título que estás a punto de recibir — freehold frente a leasehold, y strata frente a landed — consulta [Freehold, Leasehold, Strata, Landed](/en/property/freehold-leasehold-strata-landed). Para la ley que respalda el Memorándum de Transferencia y la Carga que hacen funcionar la inscripción en la Oficina del Registro de la Propiedad, consulta [National Land Code 1965](/en/law/national-land-code).

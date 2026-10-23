@@ -151,3 +151,5 @@ Bagi usaha, dampak umumnya sederhana tetapi bertahan: tata kelola energi kini me
 Jika organisasi Anda mungkin melampaui ambang 21,600 GJ, langkah pertama adalah menjumlahkan penggunaan energi tahunan semua situs Anda dan memeriksa apakah Anda perlu menunjuk manajer energi terdaftar. Pemilik bangunan kantor besar patut memeriksa luas lantai kotor dan menghitung BEI saat ini dibanding plafon 250 kWh/m²/tahun.
 
 Untuk persyaratan pendaftaran terkini, daftar manajer dan auditor energi terdaftar, formulir, dan tenggat pengiriman laporan, rujuk laman Suruhanjaya Tenaga secara langsung. Konten ini adalah gambaran umum dan bukan nasihat hukum; verifikasi ambang, penalti, atau tenggat mana pun terhadap teks Akta 861 dan Peraturan Efisiensi dan Konservasi Energi 2024 yang resmi.
+
+Lihat panduan lengkap: [Sektor Energi Malaysia](/id/energy/energy-sector-overview/).

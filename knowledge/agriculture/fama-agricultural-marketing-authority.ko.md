@@ -145,3 +145,5 @@ FAMA의 권한은 Act 141에서 비롯되며, 농산물이 어떻게 등록, 등
 ## 다음은 무엇입니까
 
 당신이 생산자나 농식품 기업가라면, 먼저 적합한 채널 — 농민 시장에서의 직접 판매, Agrobazaar나 My Farm Outlet 입점, 또는 계약 재배(Ladang Kontrak)와 RANTAI 같은 프로그램 참여 — 을 파악한 다음, `fama.gov.my`에서 신청서와 참여 조건을 확인하십시오. 당신이 소비자라면, 당신 지역의 농민 시장과 FAMA 매장 목록도 기관 공식 웹사이트에서 이용할 수 있습니다.
+
+전체 가이드 보기: [말레이시아 농업 및 농식품 부문](/ko/agriculture/agriculture-sector-overview/).

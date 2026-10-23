@@ -106,3 +106,5 @@ Việc đăng ký diễn ra ở cấp PKMD (văn phòng phúc lợi xã hội c�
 ## Tiếp theo
 
 Hãy bắt đầu với việc nộp đơn xin thẻ OKU tại JKM nếu con bạn chưa có — đó là giấy tờ mà gần như mọi bước khác đều giả định là đã tồn tại. Song song, hãy liên hệ với trường gần nhất có chương trình PPKI, hoặc sở giáo dục bang, để thu xếp đánh giá của Cục Giáo dục Đặc biệt; chính đánh giá đó, không phải sở thích cá nhân, quyết định trẻ được xếp vào lối nào trong ba lối. Nếu con bạn dưới tuổi đi học, TASKA OKU và các tổ chức phi chính phủ như NASOM đáng để tìm hiểu trong lúc chờ đợi thay vì đợi quy trình xếp lớp bắt đầu.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

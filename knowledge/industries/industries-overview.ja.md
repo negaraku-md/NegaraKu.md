@@ -190,6 +190,29 @@ E&Eの優位性こそ、心に留めておくべき物語である。それは�
 - **成長を強靭性と同一視すること。** マレーシアの貿易黒字の連続記録は目覚ましいが、経済がE&Eに集中していることは、変動の激しい世界の電子機器サイクルとも強く結びついていることを意味する。強さとリスクへの露出は、同じコインの表と裏である。
 - **GDPに占める割合と成長率を混同すること。** 建設業は2024年に17.5%成長したがGDPに占める割合は小さく、サービス業は「控えめな」5.3%の成長だったが経済を支配している。今読んでいるのがどちらの数字なのかを、常に確認すること。
 
+## このトピックを詳しく見る
+
+この分野の主要ガイド:
+
+- [マレーシアの航空宇宙・MRO産業](/ja/industries/aerospace-industry/)
+- [自動車産業](/ja/industries/automotive-industry/)
+- [戦略産業におけるブミプトラ資本（株式保有）政策とベンダー育成](/ja/industries/bumiputera-equity-vendor-policy/)
+- [マレーシアの建設産業](/ja/industries/construction-industry/)
+- [マレーシアのデータセンター及びクラウドインフラ](/ja/industries/data-centre-cloud-industry/)
+- [マレーシアのデジタル経済](/ja/industries/digital-economy-overview/)
+- [電気・電子（E&E）産業](/ja/industries/electrical-electronics-industry/)
+- [マレーシアのハラル認証制度](/ja/industries/halal-certification-system/)
+- [ハラル産業とマレーシアのグローバル・ハラルハブへの野心](/ja/industries/halal-industry-economy/)
+- [マレーシアの物流・港湾産業](/ja/industries/logistics-ports-industry/)
+- [電気・電子と自動車を超えた製造業](/ja/industries/manufacturing-industry-overview/)
+- [新産業マスタープラン2030（NIMP 2030）](/ja/industries/new-industrial-master-plan-2030/)
+- [マレーシアの石油・ガス産業](/ja/industries/oil-gas-industry/)
+- [マレーシアのパーム油産業](/ja/industries/palm-oil-industry/)
+- [マレーシアにおけるパーム油の持続可能性と認証](/ja/industries/palm-oil-sustainability-certification/)
+- [マレーシアのゴム産業](/ja/industries/rubber-industry/)
+- [マレーシアの半導体産業](/ja/industries/semiconductor-industry/)
+- [半導体産業と国家半導体戦略](/ja/industries/semiconductor-industry-national-strategy/)
+
 ## 次のステップ
 
 このページを羅針盤として使い、自分にとって重要な枝をたどってほしい。特定の産業を調べているなら、より深い規制、企業、サプライチェーンの詳細については、このカテゴリー内の専用ガイドを開くこと。経済全体を追いかけているなら、四半期ごとに注視する価値のある二つの数字は、**サービス業の成長率**（経済の大部分を占める）と**E&E輸出の動向**（貿易における変動要因）である。

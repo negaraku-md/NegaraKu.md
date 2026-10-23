@@ -150,3 +150,5 @@ réellement enregistré auprès du JPN.
 - Consultez directement le site web du JPN de votre État ou de la Division de
   l'éducation privée du MOE pour obtenir les formulaires, les listes de contrôle et
   les tarifs les plus récents.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

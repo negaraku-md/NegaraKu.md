@@ -252,3 +252,5 @@ untuk memahami bagaimana sistem berpusat universiti awam UPU berbanding dengan
 memohon terus ke universiti swasta. Untuk memahami bagaimana ramai pelajar
 membiayai laluan pilihan mereka, lihat
 [PTPTN Bukan Biasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi](/education/ptptn-student-loan).
+
+Lihat panduan penuh: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universiti](/education/malaysian-education-system/).

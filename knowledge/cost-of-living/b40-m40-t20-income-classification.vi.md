@@ -109,3 +109,5 @@ Bởi vì nó luôn thay đổi. Các ranh giới ringgit B40/M40/T20 được t
 - **Để biết vị trí chính xác của bạn:** hãy tham khảo báo cáo đầy đủ Khảo sát Thu nhập Hộ gia đình 2024 trên cổng DOSM, nơi liệt kê các giá trị cắt mới nhất.
 - **Để kiểm tra trợ cấp:** hãy nhớ hầu hết các chương trình đánh giá thu nhập của cả hộ gia đình, không phải lương của một người.
 - **Để so sánh hợp lý:** hãy cân nhắc chi phí sinh hoạt tại địa phương — cùng một nhãn mang ý nghĩa khác nhau ở các thành phố lớn so với nông thôn.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

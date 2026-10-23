@@ -145,3 +145,5 @@ En resumen, alcanzar un SSL elevado no es solo cuestión de sembrar más, sino u
 Esté atento a las *Cuentas de Suministro y Utilización* anuales del DOSM para conocer las cifras de SSR más recientes de cada producto — esta es la medida oficial que determina si Malasia se acerca o se aleja de los objetivos de la DAN 2.0. Vigile también la revisión de medio término del RMK-12 y las asignaciones presupuestarias para los programas de arroz paddy, ya que el objetivo intermedio del 75% (2025) es un indicador temprano de si la meta del 80% (2030) sigue estando al alcance.
 
 Para un panorama más profundo, los artículos relacionados sobre la industria del arroz paddy y el papel del KPKM explicarán los mecanismos de implementación detrás de estas cifras de política.
+
+Consulta la guía completa: [El sector agrícola y agroalimentario de Malasia](/es/agriculture/agriculture-sector-overview/).

@@ -152,6 +152,40 @@ No hay una única respuesta a «qué paga un extranjero» — depende por comple
 - **Que los empleadores supongan que SPIKPA es opcional o una compra única.** Es un requisito recurrente ligado a cada ciclo de renovación del permiso de trabajo, no una póliza única comprada al contratar.
 - **Que los turistas supongan que el seguro de viaje y los programas locales son intercambiables.** Ni PeKa B40, ni MySalam, ni la lista de tarifas para ciudadanos se aplican a un visitante; el seguro de viaje/médico comprado antes del viaje es la única red de seguridad práctica.
 
+## Explora este tema en profundidad
+
+Las guías clave de esta área:
+
+- [La ley del aborto en Malasia](/es/healthcare/abortion-law-in-malaysia/)
+- [¿De verdad es médica? Cómo verificar el registro de médicos y profesionales sanitarios en Malasia](/es/healthcare/allied-health-and-medical-practitioner-registration/)
+- [Donación de sangre en Malasia](/es/healthcare/blood-donation-and-national-blood-centre/)
+- [Detrás del mostrador de la farmacia](/es/healthcare/buying-medicine-pharmacies/)
+- [Vacunas gratuitas para cada niño](/es/healthcare/childhood-vaccination/)
+- [COVID-19 en Malasia](/es/healthcare/covid-19-pandemic-response-and-legacy/)
+- [¿Clínica dental pública o privada? Entender los dos sistemas de atención dental de Malasia](/es/healthcare/dental-care/)
+- [Diabetes, obesidad y enfermedades no transmisibles](/es/healthcare/diabetes-obesity-and-non-communicable-diseases/)
+- [Acceso a la atención sanitaria para personas con discapacidad (OKU) en Malasia](/es/healthcare/disability-and-oku-healthcare-access/)
+- [Emergencias médicas en Malasia](/es/healthcare/emergencies-999/)
+- [Los hospitales públicos de Malasia](/es/healthcare/government-hospitals/)
+- [El estatus halal de las vacunas y los medicamentos](/es/healthcare/halal-status-of-vaccines-and-medicines/)
+- [Tener un bebé en Malasia](/es/healthcare/having-a-baby-in-malaysia/)
+- [El Libro Blanco de la Salud](/es/healthcare/health-white-paper-and-system-reform/)
+- [Cuando un padre ya no puede arreglárselas solo](/es/healthcare/healthcare-for-seniors/)
+- [Servicios de VIH/sida y salud sexual en Malasia](/es/healthcare/hiv-aids-and-sexual-health-services/)
+- [Klinik Kesihatan](/es/healthcare/klinik-kesihatan/)
+- [El seguro médico en Malasia](/es/healthcare/medical-insurance/)
+- [El silencioso auge del turismo médico de Malasia, y la agencia que lo impulsa](/es/healthcare/medical-tourism/)
+- [Dónde conseguir ayuda de salud mental en Malasia](/es/healthcare/mental-health-services/)
+- [MySejahtera y el impulso de la salud digital en Malasia](/es/healthcare/mysejahtera-and-digital-health-records/)
+- [Donación de órganos en Malasia](/es/healthcare/organ-donation-and-transplant-registry/)
+- [Cuidados paliativos y de hospicio en Malasia](/es/healthcare/palliative-and-hospice-care/)
+- [PeKa B40](/es/healthcare/peka-b40-and-health-schemes/)
+- [Dos facturas por una estancia](/es/healthcare/private-hospitals-and-costs/)
+- [El sistema de salud pública de Malasia](/es/healthcare/public-healthcare-system-malaysia/)
+- [Act 852](/es/healthcare/smoking-and-vaping-law-act-852/)
+- [La telemedicina en Malasia](/es/healthcare/telemedicine-and-online-doctor-services/)
+- [Medicina tradicional y complementaria](/es/healthcare/traditional-and-complementary-medicine/)
+
 ## Qué sigue
 
 Para el régimen de seguro social que cubre a los empleados malasios específicamente ante lesiones laborales e invalidez — un mecanismo distinto de cualquiera de los descritos arriba — consulta [PERKESO (SOCSO)](/en/glossary/socso-perkeso). Para el ministerio que gestiona y regula todo lo que hay en esta página, consulta Kementerian Kesihatan Malaysia (KKM) una vez que se publique la página de esa entidad.

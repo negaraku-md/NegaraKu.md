@@ -232,3 +232,5 @@ Lembah Klang:
   dan [Consumer Price Index, January 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025);
   senarai Warisan Dunia UNESCO [George Town/Melaka](https://whc.unesco.org/en/list/1223/);
   dan [Malaysian House Price Index reports](https://napic.jpph.gov.my/) NAPIC untuk konteks pasaran hartanah.
+
+Lihat panduan penuh: [Kos Sara Hidup Malaysia, Mengikut Angka Rasmi](/cost-of-living/cost-of-living-overview/).

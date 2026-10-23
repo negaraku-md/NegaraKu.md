@@ -174,3 +174,5 @@ Malaysian Technical Standards Forum Bhd (MTSFB) வெளியிட்ட ஒ�
 உட்பட — பதிவு மற்றும் வழங்குநர் தேர்வு அங்கு எப்படி இயங்குகிறது என்பதை அறிய
 [மலேசியாவில் மொபைல் SIM வாங்குதல்](/ta/money-daily-life/mobile-sim-plans) ஐப்
 பார்க்கவும்.
+
+முழு வழிகாட்டியைப் பார்க்கவும்: [மலேசியாவில் வீடு வாங்குதல்](/ta/property/buying-a-home-process/).

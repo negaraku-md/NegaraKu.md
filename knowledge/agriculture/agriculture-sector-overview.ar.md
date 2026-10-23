@@ -246,6 +246,27 @@ keywords: ["القطاع الزراعي الماليزي", "الأغذية ال�
 
 **«الأرقام الزراعية ثابتة.»** معظم الأرقام هنا (الغلّة، الأسعار، الإنتاج، SSR) تُراجَع سنويًا وتتحرك مع الطقس والأسعار العالمية ودورات إعادة الغرس. ارجع إلى أحدث إصدارات DOSM وMPOB والوزارتين للبيانات الراهنة.
 
+## استكشف هذا الموضوع بعمق
+
+أهم الأدلة في هذا المجال:
+
+- [الدعم الزراعي ومساندة مُدخلات المزرعة لمزارعي الأرز](/ar/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS واحتكار استيراد الأرز في ماليزيا](/ar/agriculture/bernas-rice-import-monopoly/)
+- [إدارة مصايد الأسماك في ماليزيا (DOF)](/ar/agriculture/department-of-fisheries-malaysia/)
+- [تجارة تصدير الدوريان والفواكه الاستوائية في ماليزيا](/ar/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/ar/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA وRISDA](/ar/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/ar/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/ar/agriculture/fgv-holdings-plantation-restructuring/)
+- [سياسة الأمن الغذائي في ماليزيا وأهداف الاكتفاء الذاتي](/ar/agriculture/food-security-self-sufficiency-policy/)
+- [صناعة الثروة الحيوانية والدواجن في ماليزيا](/ar/agriculture/livestock-poultry-industry/)
+- [صناعة مصايد الأسماك في ماليزيا](/ar/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/ar/agriculture/mardi-agricultural-research-institute/)
+- [وزارة الزراعة والأمن الغذائي (KPKM) ووكالاتها](/ar/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [صغار مزارعي نخيل الزيت وشهادة الاستدامة MSPO](/ar/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [الأرز غير المقشور والأرز في ماليزيا](/ar/agriculture/padi-and-rice-industry/)
+- [صناعة الأرز غير المقشور والأرز في ماليزيا](/ar/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## الخطوات التالية
 
 - تعمّق في أكبر سلعة تصدير ضمن [لمحة عامة عن قطاع زيت النخيل الماليزي](/economy/palm-oil-sector) — حجمه ومؤسساته وشهادة استدامته.

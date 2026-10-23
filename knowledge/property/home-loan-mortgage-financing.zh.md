@@ -192,3 +192,5 @@ SJKP的主要特点（根据MOF Portal Manfaat福利门户）：
 - 在做出承诺之前，向不止一家提供商比较MRTA与MLTA的选项。
 
 *本文为一般性资讯，并非财务建议。请就你的具体情况咨询银行、房产律师或持牌顾问。*
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

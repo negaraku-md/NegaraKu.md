@@ -164,3 +164,5 @@ Kegagalan memfailkan dalam tempoh masa boleh menyebabkan penalti. Bayaran lewat 
 Sebelum menandatangani SPA untuk menjual, kira anggaran RPGT anda dahulu — terutamanya jika anda memegang hartanah kurang lima tahun, di mana kadar 30% boleh menelan sebahagian besar keuntungan. Simpan setiap resit yang berkaitan: yuran guaman belian, duti setem, komisen ejen dan bil pengubahsuaian, kerana setiap satu mengecilkan keuntungan boleh dicukai anda.
 
 Jika anda merancang menjual satu-satunya kediaman anda, pertimbangkan sama ada untuk menyimpan pengecualian sekali seumur hidup untuk pelupusan yang keuntungannya lebih besar. Bagi kes yang melibatkan syarikat, warga asing, pindah milik keluarga atau pengecualian tertentu, rujuk peguam hartanah atau perunding cukai, dan sahkan kadar serta prosedur terkini di laman rasmi LHDN (hasil.gov.my) sebelum memfailkan.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

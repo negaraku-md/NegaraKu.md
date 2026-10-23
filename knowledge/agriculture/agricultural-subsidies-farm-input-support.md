@@ -168,3 +168,5 @@ Kadar dan struktur skim ini disemak semula pada setiap belanjawan tahunan. Insen
 Sebagai satu dasar awam, skim subsidi padi juga bukan tanpa perbahasan. Isu seperti ketirisan bantuan, kecekapan pengagihan, dan kebergantungan berterusan pesawah kepada subsidi kerap dibangkitkan dalam perbincangan dasar sektor beras negara. Dokumen ini memberi tumpuan kepada struktur dan kadar skim, bukan penilaian keberkesanan atau kesan agihannya.
 
 Untuk langkah seterusnya, semak pengumuman musim tanam terkini di laman KPKM dan pertubuhan peladang tempatan, sahkan status pendaftaran sawah anda, dan bandingkan kadar musim semasa dengan angka yang dinyatakan di sini — dokumen ini ialah draf bantuan AI dan bukan pengganti maklumat rasmi agensi.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

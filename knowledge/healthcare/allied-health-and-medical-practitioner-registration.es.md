@@ -106,3 +106,5 @@ Tienes derecho a preguntar. El enfoque más sencillo:
 ## Qué sigue
 
 Empieza con una búsqueda en MeRITS de cualquier médico — es gratuita y lleva menos de un minuto. Para enfermeros, farmacéuticos y profesiones de salud aliada, ponte en contacto con la junta o el consejo respectivo a través del portal oficial del Ministerio de Salud de Malasia para confirmar su estado. Si sospechas que alguien ejerce sin cualificación o se enfrenta a una conducta profesional indebida, denúncialo ante el organismo regulador de esa profesión, que posee potestades disciplinarias conforme a su ley. Como regla básica: si el nombre no existe en el registro, no pongas tu salud en sus manos.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

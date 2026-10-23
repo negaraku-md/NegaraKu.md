@@ -127,3 +127,5 @@ Este artículo deliberadamente no indica edades ni dosis de vacunación específ
 ## Qué sigue
 
 Para entender dónde encajan las clínicas de salud (Klinik Kesihatan) en el sistema de salud pública más amplio de Malasia — incluidos otros servicios ofrecidos en los mismos centros — lea [Klinik Kesihatan: cómo funciona realmente el sistema de atención primaria del gobierno de Malasia](/en/healthcare/klinik-kesihatan). Para los padres que aún están en la etapa del embarazo, [Tener un bebé en Malasia](/en/healthcare/having-a-baby-in-malaysia) explica el itinerario de atención prenatal antes del parto, incluida la propia libreta de registro de salud de la madre, que es distinta de la libreta de registro del niño tratada aquí.
+
+Consulta la guía completa: [Cómo funciona realmente la sanidad malasia](/es/healthcare/how-malaysian-healthcare-works/).

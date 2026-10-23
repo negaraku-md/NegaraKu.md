@@ -131,3 +131,5 @@ Sejak 1 Julai 2025, cukai perkhidmatan telah dikenakan ke atas sebahagian caj pe
 ## Apa yang seterusnya
 
 Untuk butiran deposit dan surat jaminan, panduan tuntutan atau kad perubatan penanggung insurans anda sendiri adalah sumber paling terkini, kerana susunan panel berbeza mengikut penanggung insurans dan hospital. Untuk rangka kerja pelesenan itu sendiri, penyenaraian Kementerian Kesihatan bagi Act 586 memaut terus ke cetakan semula semasa. Dan jika satu bil membawa satu baris cukai perkhidmatan, pecahan cukai perkhidmatan sektor demi sektor itu adalah tempat untuk menyemak apa yang kini terpakai dan kepada siapa.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

@@ -114,3 +114,5 @@ Di kondominium, ini biasanya berjalan melalui infrastruktur yang telah dibangun 
 ## Apa selanjutnya
 
 Jika Anda sedang menyiapkan layanan seluler bersama jalur lebar rumah Anda — termasuk Unifi Mobile, yang sering dibundel bersama saluran Unifi Home — lihat [Membeli SIM Seluler di Malaysia](/id/money-daily-life/mobile-sim-plans) untuk cara pendaftaran dan pemilihan penyedia bekerja di sana.
+
+Lihat panduan lengkap: [Membeli Rumah di Malaysia](/id/property/buying-a-home-process/).

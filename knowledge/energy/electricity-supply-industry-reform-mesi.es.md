@@ -182,3 +182,5 @@ En otras palabras, Malasia ha demostrado que el mecanismo funciona. Lo que todav
 La señal inmediata que hay que vigilar es el **Comprador Único independiente**: separarlo por completo de TNB es el cambio estructural que haría creíble un mercado mayorista neutral y competitivo. Después de eso, la pregunta es si el acceso de terceros se amplía más allá de las renovables y más allá de las grandes corporaciones — el punto en el que los consumidores ordinarios podrían por fin tener una elección de suministrador.
 
 También vale la pena seguir cómo evoluciona el mecanismo de tarifas a medida que el mercado se abre, y si el período regulatorio 2025–2027 trae el marco más amplio de acceso de terceros que MESI 2.0 prometió por primera vez allá en 2019. Por ahora, la reforma eléctrica de Malasia sigue siendo una historia de pasos deliberados e incrementales — un movimiento real, pero muy por debajo de un mercado plenamente liberalizado.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

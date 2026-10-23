@@ -120,3 +120,5 @@ Pengecualiannya terletak pada Seksyen 60(3): sesebuah MC boleh menetapkan **kada
 ## Apa yang seterusnya
 
 Baca teks penuh Akta itu di portal Jabatan Peguam Negara untuk butiran seksyen demi seksyen yang lengkap, semak sama ada skim anda masih di bawah JMB atau sudah mempunyai MC dengan bertanya terus kepada pejabat pengurusan anda, dan jika anda menyewa dan bukan memiliki, lihat [Mencari Rumah Sewa di Malaysia](/property/finding-a-rental) untuk mengetahui bagaimana bangunan seperti ini ditayangkan dan disewakan pada mulanya.
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

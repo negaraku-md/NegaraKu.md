@@ -138,3 +138,5 @@ keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "P
 ## อ่านต่อ
 
 เพื่อเข้าใจว่าเส้นทางการเรียนนำไปสู่ที่ใดหลัง SPM โปรดอ่าน `/education/public-vs-private-universities` เกี่ยวกับความแตกต่างของการรับเข้า IPTA และ IPTS หากบุตรของคุณเป็นนักเรียนต่างชาติหรือครอบครัวเพิ่งย้ายมามาเลเซีย `/education/international-students-studying-in-malaysia` อธิบายว่าระบบการเรียนในท้องถิ่นทำงานอย่างไรสำหรับผู้ที่ไม่ใช่พลเมือง
+
+ดูคู่มือฉบับเต็ม: [ระบบการศึกษาของมาเลเซีย ตั้งแต่ก่อนวัยเรียนจนถึงมหาวิทยาลัย](/th/education/malaysian-education-system/)

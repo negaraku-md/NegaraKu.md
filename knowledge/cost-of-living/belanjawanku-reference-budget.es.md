@@ -118,3 +118,5 @@ Belanjawanku es también la base del nuevo Marco de Suficiencia del Ingreso de J
 ## Qué sigue
 
 Puede consultar las cifras específicas para su propia situación a través de la aplicación Belanjawanku, que tiene en cuenta su ciudad, estado civil, etapa de la vida y medio de transporte. Use estas cifras como referencia: compárelas con su gasto real, identifique las brechas y compruebe si sus ahorros para la jubilación se acercan a la referencia del RIA. Para entender el contexto de la pobreza, véase el artículo relacionado sobre el Ingreso de la Línea de Pobreza.
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

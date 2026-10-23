@@ -235,3 +235,5 @@ miliar per tahun — angka itulah yang mendorong investasi aset MMEA dan amandem
 denda. Statistik perikanan tahunan Departemen Perikanan dan laporan
 penegakan MMEA adalah sumber resmi untuk mengikuti perkembangannya dari
 tahun ke tahun.
+
+Lihat panduan lengkap: [Sektor Pertanian dan Agropangan Malaysia](/id/agriculture/agriculture-sector-overview/).

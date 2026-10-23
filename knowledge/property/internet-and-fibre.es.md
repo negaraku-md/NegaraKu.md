@@ -156,3 +156,5 @@ Si está configurando el servicio móvil junto con su banda ancha del hogar — 
 Unifi Mobile, que a menudo se combina con una línea Unifi Home — consulte
 [Comprar una SIM móvil en Malasia](/en/money-daily-life/mobile-sim-plans) para
 saber cómo funcionan allí el registro y la elección de proveedor.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

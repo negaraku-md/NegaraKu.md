@@ -137,3 +137,5 @@ Les responsables ont signalé un **réalignement de la structure organisationnel
 ## Et ensuite
 
 Les questions ouvertes portent désormais sur la gouvernance et les résultats. En tant qu'entité privée et contrôlée par FELDA, FGV perd la publication trimestrielle et le regard du marché qui accompagnaient une cotation à la Bursa, de sorte que sa performance future sera plus difficile à suivre pour les personnes extérieures. Observez comment FELDA intègre FGV dans une structure de groupe consolidée, si les améliorations promises en matière de coûts et de productivité se concrétisent, et comment les intérêts des colons — la majorité de l'approvisionnement en fruits de FGV — sont équilibrés face aux rendements commerciaux. Entre-temps, les actionnaires dissidents ont jusqu'au 15 janvier 2026 pour décider s'ils vendent à RM1.30.
+
+Voir le guide complet : [Le secteur agricole et agroalimentaire de la Malaisie](/fr/agriculture/agriculture-sector-overview/).

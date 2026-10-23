@@ -134,3 +134,5 @@ Kadar kitar semula kebangsaan — nisbah sisa pepejal yang dikitar semula berban
 ## Apa seterusnya
 
 Jika anda baru berpindah dan belum pasti siapa mengendalikan kutipan sampah di kawasan sewaan anda, soalan itu berkait rapat dengan proses [mencari sewaan di Malaysia](/property/finding-a-rental) — tuan rumah atau ejen biasanya boleh mengesahkan jadual kutipan dan sama ada kawasan itu tertakluk kepada Akta 672. Untuk memahami kedudukan majlis tempatan dalam struktur kerajaan Malaysia secara keseluruhan — termasuk kenapa ahli majlis dilantik dan bukan dipilih — rujuk [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government).
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

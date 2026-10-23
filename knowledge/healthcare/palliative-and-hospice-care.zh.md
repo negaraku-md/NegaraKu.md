@@ -115,3 +115,5 @@ keywords: ["penjagaan paliatif", "hospis", "Hospis Malaysia", "penjagaan tahap h
 ## 接下来该怎么做
 
 如果您的家人患有严重疾病，请先与主治医生或专科医生讨论舒缓治疗的转介事宜。对于巴生谷（Lembah Klang）的家庭，可透过马来西亚慈怀（Hospis Malaysia）的网站与他们联系。若有更广泛的乐龄人士一般照护需求，请参阅我们关于乐龄人士医疗保健的相关指南。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

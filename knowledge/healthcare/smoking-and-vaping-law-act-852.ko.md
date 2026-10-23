@@ -114,3 +114,5 @@ keywords: ["Akta 852", "kawalan rokok", "vape", "tembakau", "nikotin", "umur min
 ## 다음으로
 
 준수 기한 전에 귀하의 점포 — 소매점이든 음식점이든 — 가 진열 금지와 경고 표지를 준수하는지 확인하십시오. 부모와 교육자는 미성년자에 대한 판매를 보건부(Ministry of Health, KKM)에 신고할 수 있습니다. 또한 2025년 10월 1일 니코틴 한도가 20 mg/ml로 낮아지는 것과, 852법 아래 GEG를 재도입하려는 일부의 지속적인 요구에도 주목하십시오.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

@@ -111,3 +111,5 @@ The picture shifted slightly in 2026: the Ministry of Higher Education opened a 
 ## What's next
 
 For the language backdrop to why Chinese-medium schooling exists as a separate track at all, see [languages spoken in Malaysia](/en/malaysia/languages-spoken). For how children get placed into the government system these schools sit alongside, see [enrolling a child in a government school](/en/education/enrolling-in-a-government-school); for what happens to exams after Form Five either way, see [from UPSR to SPM](/en/education/upsr-to-spm-exams); and for what a UEC or SPM leaver actually chooses between next, see [public vs private universities](/en/education/public-vs-private-universities).
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

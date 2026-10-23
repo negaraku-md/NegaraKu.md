@@ -146,3 +146,5 @@ Satu ciri khusus Malaysia ialah **saringan HIV pra-perkahwinan wajib untuk pasan
 ## Apa yang seterusnya
 
 Jika anda ingin membuat ujian, hubungi Klinik Kesihatan kerajaan berdekatan atau rujuk pencari lokasi Majlis AIDS Malaysia untuk klinik dan NGO yang menyediakan ujian, PrEP dan PEP. Ingat bahawa PEP sensitif masa — dalam 72 jam selepas pendedahan. Untuk maklumat rasmi lanjut, rujuk laman Kementerian Kesihatan Malaysia dan Majlis AIDS Malaysia. Artikel ini ialah draf AI yang memerlukan semakan manusia sebelum diterbitkan, dan angka serta peruntukan undang-undang harus disemak semula terhadap sumber rasmi terkini.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

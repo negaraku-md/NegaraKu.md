@@ -111,3 +111,5 @@ Un agente también puede reclamar costos adicionales como publicidad, impresión
 - Verifique el estado de su agente y su firma en el [portal de búsqueda de la LPEPH](https://lpeph.gov.my/search-listing) antes de firmar cualquier acuerdo.
 - Revise la escala completa de honorarios y las condiciones para reclamar costos en la [página oficial de honorarios de la LPEPH](https://lpeph.gov.my/fees).
 - Para transacciones de alquiler, comprenda también los términos del contrato de arrendamiento y del depósito antes de que el agente procese cualquier pago.
+
+Consulta la guía completa: [Comprar una vivienda en Malasia](/es/property/buying-a-home-process/).

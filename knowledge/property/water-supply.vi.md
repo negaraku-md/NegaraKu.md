@@ -121,3 +121,5 @@ Hóa đơn nước nói chung được tính dựa trên **chỉ số đồng h�
 ---
 
 *Cơ cấu vận hành nước theo từng bang, vai trò của SPAN và PAAB, cùng tình trạng của Ranhill SAJ là đơn vị vận hành tư nhân được xác nhận trực tiếp trên các trang chính thức tương ứng. Quy trình đăng ký tài khoản được dẫn chiếu từ trang hỗ trợ chính thức của Air Selangor làm ví dụ; chi tiết có thể khác nhau theo các công ty nước bang khác và cần được người rà soát con người kiểm tra lại trước khi bài viết này được xác nhận.*
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

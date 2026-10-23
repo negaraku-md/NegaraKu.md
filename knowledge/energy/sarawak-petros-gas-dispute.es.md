@@ -150,3 +150,5 @@ Esta sección enumera los asuntos que todavía están en desarrollo y que vale l
 - Las declaraciones oficiales del Gobierno Federal, el Gobierno de Sarawak, Petronas y Petros sobre el estado de la implementación.
 
 > Nota editorial: Este borrador se preparó con asistencia de IA y aún no ha sido sometido a revisión humana. Las fechas de promulgación (2016), entrada en vigor (1 de julio de 2018) y enmienda (Ordenanza de Distribución de Gas (Enmienda) de 2023) son las informadas por fuentes de prensa; el texto oficial de la ordenanza y las declaraciones de Petros/Petronas todavía deben verificarse de forma cruzada antes de su publicación. El argumento relativo a la Ordenanza de Emergencia de 1969 y su derogación en 2011 es informado por The Edge Malaysia y debe verificarse frente a la postura oficial del Gobierno de Sarawak.
+
+Consulta la guía completa: [El sector energético de Malasia](/es/energy/energy-sector-overview/).

@@ -148,3 +148,5 @@ Petunjuk sederhana: jika Anda berusia 30 tahun ke atas, atau memiliki riwayat ke
 - **Kurangi gula secara bertahap.** Pilih minuman berlogo Pilihan Sihat atau tanpa gula tambahan; cukai gula berarti alternatif rendah gula kini sering lebih murah.
 - **Jangan tunggu gejala.** Diabetes dan hipertensi sering "senyap" — skrining berkala adalah cara paling pasti untuk mendeteksinya dini.
 - **Untuk keputusan pribadi**, rujuk petugas medis di Klinik Kesihatan terdekat. Panduan ini bersifat informasi umum dan bukan nasihat medis.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

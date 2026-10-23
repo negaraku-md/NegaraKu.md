@@ -158,3 +158,5 @@ warga emas yang mungkin memerlukan bantuan tambahan selain PeKa B40, baca
 juga [pilihan penjagaan warga emas di Malaysia](/healthcare/healthcare-for-seniors).
 Untuk semakan status mySalam, layari portal rasmi mySalam secara
 berasingan.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

@@ -162,3 +162,5 @@ facilities involved. For households with elderly members who may need
 additional support beyond PeKa B40, also read [elderly care options in
 Malaysia](/en/healthcare/healthcare-for-seniors). To check mySalam
 status, visit the official mySalam portal separately.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

@@ -120,3 +120,5 @@ GP022 订下了实际的批准途径。设在道路保留地上的永久岗亭�
 ## 下一步
 
 如果你所在的方案已经拥有分层地契以及 JMB 或 MC，保安的薪金只是一份更庞大法定账单中的一行——参见[马来西亚的公寓生活](/zh/property/condo-living-maintenance-fees)，了解这笔资金实际如何运作。至于岗亭、路障或警卫社区申请究竟由谁批准，请参见[马来西亚的地方政府](/zh/states/local-councils)。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

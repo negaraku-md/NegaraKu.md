@@ -107,3 +107,5 @@ La démarche peut se faire en ligne ou au guichet :
 ## Et ensuite ?
 
 PADU est conçue comme la colonne vertébrale de données de la politique de subventions ciblées de la Malaisie, y compris le passage de subventions généralisées à une aide ciblée avec plus de précision. Comme votre profil peut évoluer — un changement d'emploi, une augmentation de salaire, un membre de famille supplémentaire — il est utile de consulter et de mettre à jour vos informations sur padu.gov.my de temps à autre afin que vos dossiers restent à jour lorsque le droit à l'aide est évalué. Pour les derniers détails sur des dispositifs précis comme l'aide en espèces ou les subventions au carburant, reportez-vous aux annonces officielles des organismes de mise en oeuvre concernés.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

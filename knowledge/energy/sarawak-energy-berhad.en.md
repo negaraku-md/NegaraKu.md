@@ -138,3 +138,5 @@ For the first half of the December 2025 financial year, SEB reported revenue of 
 - Read the **[Tenaga Nasional Berhad](/en/energy/tenaga-nasional-berhad)** profile to compare the Peninsula and Sarawak utility models.
 - For the engineering details of Sarawak's largest dam, explore the official **[Bakun Hydroelectric Plant](https://www.sarawakenergy.com/bakun-hydroelectric-plant)** page.
 - Note: capacity and financial figures change over time; verify with SEB's latest annual report and media releases before using them for official decisions.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

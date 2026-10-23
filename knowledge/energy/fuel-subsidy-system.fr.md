@@ -277,3 +277,5 @@ Le système de subventions au carburant de la Malaisie continue d'évoluer. Quel
 - **Les prix mondiaux du pétrole.** Comme le prix *non subventionné* suit le marché, une hausse des prix mondiaux du pétrole creuse l'écart entre RM1.99 et le prix plein — rendant le quota plus important.
 
 Pour des informations officielles et à jour, reportez-vous au portail BUDI MADANI et aux communiqués de presse du ministère des Finances. Les chiffres de ce guide sont exacts à la date de mise à jour ; les prix du carburant et les détails du programme peuvent changer.
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

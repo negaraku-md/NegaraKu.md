@@ -219,3 +219,5 @@ KKM施設の料金は、市場価格ではなく1951年料金法（Fees Act 1951
 でさらに詳しく読むことができる。真の救急事態については、
 [救急と999](/healthcare/emergencies-999)
 を参照のこと。
+
+詳しくは全体ガイドをご覧ください：[マレーシアの医療制度は実際どう機能しているか](/ja/healthcare/how-malaysian-healthcare-works/)。

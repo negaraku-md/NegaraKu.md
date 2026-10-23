@@ -211,6 +211,23 @@ RM7,017 की मध्यिका घरेलू आय के मुक़�
   आधिकारिक मलेशियाई सरकारी डेटा हो।** वह नहीं है — ऊपर के कारणों से DOSM कोई प्रकाशित
   नहीं करता।
 
+## इस विषय को विस्तार से जानें
+
+इस क्षेत्र की प्रमुख गाइड:
+
+- [B40, M40, T20](/hi/cost-of-living/b40-m40-t20-income-classification/)
+- [Belanjawanku](/hi/cost-of-living/belanjawanku-reference-budget/)
+- [क्लांग की तुलना में कोटा किनाबालू में माइलो का डिब्बा अधिक क्यों पड़ता है](/hi/cost-of-living/cost-of-living-east-malaysia/)
+- [जोहोर बहरू में रहन-सहन की लागत](/hi/cost-of-living/cost-of-living-johor-bahru/)
+- [कुआलालंपुर मलेशिया में रहने की सबसे महँगी जगह क्यों है](/hi/cost-of-living/cost-of-living-kuala-lumpur/)
+- [पेनांग में रहन-सहन की लागत जलडमरूमध्य पर बँट जाती है](/hi/cost-of-living/cost-of-living-penang/)
+- [मलेशियाई घर का रिंगिट हर महीने वास्तव में कहाँ जाता है](/hi/cost-of-living/household-spending-breakdown/)
+- [क्या मलेशिया प्रवासियों के लिए किफ़ायती है? आधिकारिक आँकड़े वास्तव में क्या कहते हैं](/hi/cost-of-living/is-malaysia-affordable-for-expats/)
+- [वैश्विक जीवन-यापन लागत सूचकांकों में मलेशिया का स्थान](/hi/cost-of-living/malaysia-global-cost-of-living-rankings/)
+- [न्यूनतम मज़दूरी बनाम मध्यिका आय](/hi/cost-of-living/minimum-wage-and-median-income/)
+- [PADU](/hi/cost-of-living/padu-central-database/)
+- [मलेशिया मूल्य-मुनाफ़ाख़ोरी को कैसे नियंत्रित करता है](/hi/cost-of-living/price-control-anti-profiteering-act/)
+
 ## आगे क्या
 
 - व्यक्तिगत वेतन इन घरेलू आँकड़ों के मुक़ाबले कैसे खड़ा होता है, इसके लिए:

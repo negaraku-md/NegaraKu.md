@@ -124,3 +124,5 @@ keywords: ["rental Malaysia", "iProperty", "PropertyGuru", "Mudah", "REN Malaysi
 ## 下一步
 
 一旦你已经筛选出一个单位，以及一位可以核实身份的谈判员，接下来的步骤就是租赁协议本身，以及安排押金与租金的支付——这些款项大多通过网上银行转账，而不是现金。如果你还没有马来西亚的银行账户，请参阅[在马来西亚开立银行账户](/zh/money-daily-life/opening-bank-account)。如果你是凭一份新的工作聘书，而不是以公民或永久居民身份租房，也应同步办妥[就业准证（Employment Pass）](/zh/settling-in/employment-pass)——房东与代理行通常会在签署较长期的租约之前，要求出示有效准证的证明。
+
+查看完整指南：[在马来西亚买房](/zh/property/buying-a-home-process/)。

@@ -138,3 +138,5 @@ keywords: ["UPSR dimansuhkan", "PT3 dimansuhkan", "Pentaksiran Bilik Darjah", "P
 ## 下一步
 
 若想了解SPM之后的升学路径通往何处，可阅读 `/zh/education/public-vs-private-universities`，了解IPTA与IPTS录取方式的差异。若你的孩子是国际学生，或你的家庭刚搬到马来西亚，`/zh/education/international-students-studying-in-malaysia` 说明本地学校制度对非公民如何运作。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

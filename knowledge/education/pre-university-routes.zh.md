@@ -217,3 +217,5 @@ International（Cambridge University Press & Assessment 旗下机构）
 了解 UPU 中央化的公立大学系统与直接申请私立大学有何不同。至于多数
 学生如何为自己选择的路线筹措学费，请参阅
 [PTPTN Bukan Biasiswa: Begini Cara Pinjaman Pendidikan Ini Sebenarnya Berfungsi](/zh/education/ptptn-student-loan)。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

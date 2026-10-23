@@ -128,3 +128,5 @@ ToU đáng giá nếu bạn có thể chuyển các mức tiêu thụ lớn — 
 ## Tiếp theo
 
 Hãy kiểm tra hóa đơn mới nhất của bạn và xác định năm dòng thành phần đó. So sánh mức tiêu thụ hằng tháng của bạn với các ngưỡng 600 kWh và 1,000 kWh để xem liệu bạn có đủ điều kiện miễn Phí Bán lẻ hoặc hoàn tiền EEI hay không. Để tính chính xác theo mức tiêu thụ thực tế, hãy dùng máy tính hóa đơn chính thức trên cổng myTNB, và theo dõi giá trị AFA hằng tháng do Suruhanjaya Tenaga công bố.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

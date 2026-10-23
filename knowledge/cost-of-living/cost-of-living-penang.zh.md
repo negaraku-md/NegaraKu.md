@@ -141,3 +141,5 @@ keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "Ge
   以及[Consumer Price Index, January 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025)；
   联合国教科文组织的[乔治市／马六甲世界遗产名录](https://whc.unesco.org/en/list/1223/)；
   以及NAPIC的[Malaysian House Price Index reports](https://napic.jpph.gov.my/)以了解产业市场背景。
+
+查看完整指南：[马来西亚生活成本](/zh/cost-of-living/cost-of-living-overview/)。

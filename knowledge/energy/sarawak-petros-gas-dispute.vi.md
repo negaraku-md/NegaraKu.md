@@ -150,3 +150,5 @@ Phần này liệt kê những điều vẫn đang diễn biến và nên đư�
 - Các tuyên bố chính thức từ Chính phủ Liên bang, Chính quyền Sarawak, Petronas và Petros về tình trạng thực thi.
 
 > Ghi chú biên tập: Bản thảo này được chuẩn bị với sự trợ giúp của AI và chưa qua rà soát của con người. Các ngày ban hành (2016), có hiệu lực (1 tháng 7 năm 2018) và sửa đổi (Distribution of Gas (Amendment) Ordinance 2023) được các nguồn tin tức báo cáo; văn bản sắc lệnh chính thức cùng các tuyên bố của Petros/Petronas vẫn cần được xác nhận chéo trước khi công bố. Lập luận liên quan đến Emergency Ordinance 1969 và việc bãi bỏ năm 2011 được The Edge Malaysia báo cáo và cần được xác nhận với lập trường chính thức của Chính quyền Sarawak.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

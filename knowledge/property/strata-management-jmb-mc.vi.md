@@ -156,3 +156,5 @@ Giả sử một MC tại chung cư phát hiện một chủ sở hữu không t
 - Hãy tham khảo toàn văn Luật 757 và Quy định Quản lý Phân tầng 2015, hoặc liên hệ **Ủy viên Xây dựng (COB)** tại Chính quyền Địa phương của bạn về các vấn đề thực thi.
 
 *Bài viết này là hướng dẫn chung, không phải tư vấn pháp lý. Số mục và các con số dẫn chiếu Luật Quản lý Phân tầng 2013 (Strata Management Act 2013) (Luật 757) và các quy định liên quan; hãy xác nhận với văn bản luật cập nhật trước khi hành động.*
+
+Xem hướng dẫn đầy đủ: [Mua nhà tại Malaysia](/vi/property/buying-a-home-process/).

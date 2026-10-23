@@ -201,3 +201,5 @@ Jika anda cuba meletakkan diri anda dalam industri ini, beberapa soalan menembus
 Strategi Semikonduktor Kebangsaan masih di peringkat awal. Isyarat jangka pendek yang perlu diperhatikan ialah sama ada pelaburan Fasa 1 terus mendaki ke arah sasaran RM500 bilion, sama ada kohort pertama jaguh reka bentuk dan pembungkusan termaju tempatan benar-benar mencapai paras hasil RM1 bilion, dan sama ada saluran 60,000 jurutera terwujud cukup pantas untuk mengelakkan sekatan bakat. Ujian yang lebih sukar dan kemudian ialah Fasa 3: sama ada Malaysia boleh menarik fabrikasi wafer bahagian hadapan langsung, memandangkan modal yang terlibat.
 
 Kerana ini ialah angka yang berubah, anggap setiap nombor di sini sebagai gambaran terikat kepada tarikh sumbernya. Untuk gambaran berwibawa dan paling terkini, semak MIDA dan MITI secara langsung, dan rujuk silang kemas kini pelaburan rasmi dan bukannya bergantung pada satu pengumuman.
+
+Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

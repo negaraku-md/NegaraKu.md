@@ -112,3 +112,5 @@ Bức tranh dịch chuyển đôi chút vào năm 2026: Bộ Giáo dục Đại 
 ## Tiếp theo
 
 Về bối cảnh ngôn ngữ giải thích vì sao việc học bằng tiếng Hoa tồn tại như một con đường riêng biệt, xem [các ngôn ngữ được nói tại Malaysia](/vi/malaysia/languages-spoken). Về cách trẻ em được sắp xếp vào hệ thống của chính phủ mà các trường này nằm song song, xem [ghi danh cho con vào một trường của chính phủ](/vi/education/enrolling-in-a-government-school); về những gì xảy ra với các kỳ thi sau Lớp Năm theo hai hướng, xem [từ UPSR đến SPM](/vi/education/upsr-to-spm-exams); và về những gì một người tốt nghiệp UEC hay SPM thực sự lựa chọn tiếp theo, xem [đại học công lập so với tư thục](/vi/education/public-vs-private-universities).
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

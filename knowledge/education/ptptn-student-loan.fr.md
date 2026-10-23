@@ -173,3 +173,5 @@ Pour des chiffres d'éligibilité précis et les taux actuels — limite d'âge,
 de revenus, taux de frais de service, et la période de moratoire en nombre de mois
 — consultez directement le portail officiel du PTPTN à la date où vous comptez
 faire votre demande, car ces conditions sont révisées de temps à autre.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

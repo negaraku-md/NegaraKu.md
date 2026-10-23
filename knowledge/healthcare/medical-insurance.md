@@ -125,3 +125,5 @@ It's easy to assume the statutory deductions on a payslip already cover hospital
 ## What's next
 
 If you're weighing what a personal medical card costs against your payslip, see [Income Tax for Individuals](/en/money-daily-life/income-tax-individuals) for how the education and medical insurance relief interacts with your annual filing. For the statutory deductions that sit alongside — but do not replace — medical cover, see [EPF and SOCSO for Employees](/en/money-daily-life/epf-socso-employees). And if your medical benefits come through a job offer, [Employment Contracts in Malaysia](/en/employment/employment-contract-malaysia) covers what employers are and aren't obliged to spell out about the benefits attached to a role.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

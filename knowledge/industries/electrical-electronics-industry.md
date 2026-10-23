@@ -217,3 +217,5 @@ If you are weighing Malaysia as a manufacturing or sourcing base, a few question
 Malaysia's E&E industry is at an inflection point. Fifty years after Intel's first Penang plant, the country has a globally significant, record-setting export machine — and a clear-eyed sense that resting on assembly and testing is not enough for the next fifty years. The National Semiconductor Strategy's push toward design and fabrication, the wave of new investment landing in Penang, Kulim and Johor, and the shadow of shifting global trade policy will together decide whether Malaysia climbs the value chain or stays in the middle of it.
 
 If you want to go deeper, the natural next reads are the dedicated guide to Malaysia's semiconductor industry — the chip-specific story inside this broader one — and a closer look at [Penang](/en/states/penang/), the state where it all began. For the policy and investment machinery behind the numbers, [MIDA](/en/government/mida/) is the agency to know.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

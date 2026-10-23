@@ -137,3 +137,5 @@ Several developments have been reported publicly: in May 2020, Petronas was repo
 The core framework remains as it was in 1974: ownership is vested in Petronas, "irrevocable", with cash payments to the federation and the states determined through agreement rather than by a statutory rate. What continues to change is the layer above it — state laws, state entities such as Petros, commercial settlements, and joint declarations.
 
 For readers following these developments, three things are worth checking against primary sources before drawing any conclusions: (1) the precise terms of any assignment deed or settlement, which are rarely published in full; (2) any recent court ruling on state versus federal jurisdiction; and (3) the updated text of Act 144 on the Attorney General's Chambers portal, since figures and amendments can change. This draft was prepared with AI assistance and requires human review before publication.
+
+See the full guide: [Malaysia's Energy Sector](/en/energy/energy-sector-overview/).

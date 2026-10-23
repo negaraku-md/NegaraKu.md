@@ -145,3 +145,5 @@ In short, achieving a high SSL is not merely a matter of planting more, but a qu
 Watch DOSM's annual *Supply and Utilization Accounts* for the latest SSR figures for each commodity — this is the official measure that determines whether Malaysia is moving closer to or further from the DAN 2.0 targets. Also keep an eye on the mid-term review of RMK-12 and the budget allocations for paddy programmes, as the interim 75% target (2025) is an early indicator of whether the 80% goal (2030) is still within reach.
 
 For a deeper picture, related articles on the paddy industry and the role of KPKM will explain the implementation mechanisms behind these policy figures.
+
+See the full guide: [Malaysia's Agriculture and Agrofood Sector](/en/agriculture/agriculture-sector-overview/).

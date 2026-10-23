@@ -151,3 +151,5 @@ Kế hoạch này bao gồm ba lĩnh vực cốt lõi, 12 động lực tăng tr
 Đối với các doanh nhân và nhà đầu tư, bước thực tế tiếp theo là kiểm tra các yêu cầu cấp phép cụ thể theo khu vực (ví dụ mã SWEC của PETRONAS cho dầu & khí) và tìm hiểu điều kiện đủ tư cách của các chương trình phát triển nhà cung cấp liên quan trực tiếp với cơ quan thực thi. Về dữ liệu sở hữu và mục tiêu mới nhất, hãy tham khảo các bản công bố chính thức của TERAJU và các cơ quan liên quan.
 
 *Ghi chú: Đây là một bản nháp do AI tạo ra và cần con người xem xét trước khi xuất bản. Tất cả các con số được trích dẫn từ các nguồn được tham chiếu; các cách tính toán khác nhau có thể tạo ra các con số khác nhau.*
+
+Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

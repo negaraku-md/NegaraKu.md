@@ -246,6 +246,27 @@ Khi bạn gặp một bản tin hoặc một con số nông nghiệp, ba câu h�
 
 **"Các con số nông nghiệp là cố định."** Hầu hết các con số ở đây (sản lượng, giá, sản xuất, SSR) được rà soát mỗi năm và chuyển động theo thời tiết, giá toàn cầu và các chu kỳ tái canh. Hãy tham khảo các ấn phẩm mới nhất của DOSM, MPOB và các bộ để biết dữ liệu hiện hành.
 
+## Tìm hiểu sâu về chủ đề này
+
+Các hướng dẫn chính trong lĩnh vực này:
+
+- [Trợ cấp Nông nghiệp và Hỗ trợ Đầu vào Đồng ruộng cho Nông dân trồng lúa](/vi/agriculture/agricultural-subsidies-farm-input-support/)
+- [BERNAS và Độc quyền Nhập khẩu Gạo của Malaysia](/vi/agriculture/bernas-rice-import-monopoly/)
+- [Cục Thủy sản Malaysia (DOF)](/vi/agriculture/department-of-fisheries-malaysia/)
+- [Thương mại Xuất khẩu Sầu riêng và Trái cây Nhiệt đới của Malaysia](/vi/agriculture/durian-tropical-fruit-export-trade/)
+- [FAMA](/vi/agriculture/fama-agricultural-marketing-authority/)
+- [FELCRA và RISDA](/vi/agriculture/felcra-risda-smallholder-agencies/)
+- [FELDA](/vi/agriculture/felda-land-settlement-scheme/)
+- [FGV Holdings](/vi/agriculture/fgv-holdings-plantation-restructuring/)
+- [Chính sách An ninh Lương thực của Malaysia và Các mục tiêu Tỷ lệ Tự cung Tự cấp](/vi/agriculture/food-security-self-sufficiency-policy/)
+- [Ngành Chăn nuôi và Gia cầm của Malaysia](/vi/agriculture/livestock-poultry-industry/)
+- [Ngành Thủy sản của Malaysia](/vi/agriculture/malaysian-fisheries-industry/)
+- [MARDI](/vi/agriculture/mardi-agricultural-research-institute/)
+- [Bộ Nông nghiệp và An ninh Lương thực (KPKM) và Các cơ quan của Bộ](/vi/agriculture/ministry-of-agriculture-food-security-and-agencies/)
+- [Tiểu điền chủ Cọ dầu và Chứng nhận Bền vững MSPO](/vi/agriculture/oil-palm-smallholders-mspo-sustainability/)
+- [Lúa và Gạo ở Malaysia](/vi/agriculture/padi-and-rice-industry/)
+- [Ngành Lúa và Gạo của Malaysia](/vi/agriculture/padi-rice-industry-self-sufficiency/)
+
 ## Tiếp theo
 
 - Hãy đi sâu vào mặt hàng xuất khẩu lớn nhất trong [tổng quan ngành dầu cọ Malaysia](/vi/economy/palm-oil-sector) — quy mô, các định chế và chứng nhận bền vững của nó.

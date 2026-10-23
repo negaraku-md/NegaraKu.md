@@ -106,3 +106,5 @@ For patients obtaining repeat medicine from a public health facility, KKM provid
 ## What's next
 
 For patients on long-term medication, read about [medical insurance](/en/healthcare/medical-insurance) to understand how far the cost of medicine is covered by a health plan. For senior citizens or families managing repeat medication regularly, [healthcare for seniors](/en/healthcare/healthcare-for-seniors) also explains value-added pharmacy services such as postal medicine delivery, which reduces the need to attend the counter every month.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

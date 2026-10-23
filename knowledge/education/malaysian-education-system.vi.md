@@ -180,6 +180,36 @@ Cái gắn tất cả chúng lại với nhau trên giấy là **Khung Trình đ
 - **Cho rằng "trường bách khoa" và "cao đẳng cộng đồng" có thể hoán đổi.** Cả hai đều thuộc Bộ Giáo dục Đại học nhưng là các loại cơ sở riêng biệt cung cấp các cấp trình độ khác nhau.
 - **Nhầm lẫn Bộ Giáo dục (trường học) với Bộ Giáo dục Đại học (đại học).** Chúng là hai bộ riêng biệt với hai cổng, ngân sách và bộ trưởng riêng biệt.
 
+## Tìm hiểu sâu về chủ đề này
+
+Các hướng dẫn chính trong lĩnh vực này:
+
+- [Lịch năm học và kỳ nghỉ học tại Malaysia](/vi/education/academic-calendar-and-school-holidays/)
+- [Cách đăng ký con vào trường công lập](/vi/education/enrolling-in-a-government-school/)
+- [Cơ sở chi nhánh của các đại học nước ngoài và các trung tâm giáo dục](/vi/education/foreign-university-branch-campuses-and-education-hubs/)
+- [Giáo dục học sinh năng khiếu và tài năng (PERMATApintar)](/vi/education/gifted-and-talented-education/)
+- [Giáo dục tại nhà ở Malaysia](/vi/education/homeschooling/)
+- [Trường quốc tế tại Malaysia](/vi/education/international-schools/)
+- [Du học tại Malaysia với tư cách sinh viên quốc tế](/vi/education/international-students-studying-in-malaysia/)
+- [Trường Hồi giáo và trường tôn giáo tại Malaysia](/vi/education/islamic-and-religious-schools/)
+- [JPA và các chương trình học bổng công lớn của Malaysia](/vi/education/jpa-and-public-scholarships/)
+- [MQA và việc kiểm định bằng cấp tại Malaysia](/vi/education/malaysian-qualifications-agency-and-accreditation/)
+- [Hệ thống trường học Malaysia](/vi/education/malaysian-school-system/)
+- [MRSM và Trường Nội trú Hoàn toàn (SBP)](/vi/education/mrsm-and-fully-residential-schools/)
+- [MUET và các kỳ thi tuyển sinh đại học](/vi/education/muet-and-university-entrance-tests/)
+- [SK, SJKC và SJKT](/vi/education/national-schools-sk-sjkc-sjkt/)
+- [PIBG và chi phí đi học tại trường công lập](/vi/education/pibg-and-school-fees/)
+- [STPM, Matriculation, Foundation hay A-Level](/vi/education/pre-university-routes/)
+- [Taska, Tadika, Prasekolah](/vi/education/preschool-tadika-childcare/)
+- [Trường tư thục và trường Hoa độc lập](/vi/education/private-and-chinese-independent-schools/)
+- [PTPTN không phải học bổng](/vi/education/ptptn-student-loan/)
+- [IPTA hay IPTS? Các trường đại học công lập và tư thục của Malaysia thực sự khác nhau ra sao](/vi/education/public-vs-private-universities/)
+- [Giáo dục đặc biệt tại Malaysia](/vi/education/special-education-and-learning-support/)
+- [Trung tâm dạy thêm và kèm cặp tư nhân tại Malaysia](/vi/education/tuition-centres-and-private-coaching/)
+- [Không phải mọi con đường đều dẫn tới đại học](/vi/education/tvet-and-skills-training/)
+- [Chứng chỉ Kỳ thi Thống nhất (UEC)](/vi/education/unified-examination-certificate-uec/)
+- [Từ UPSR đến SPM](/vi/education/upsr-to-spm-exams/)
+
 ## Tiếp theo
 
 Trang này là bản đồ, không phải điểm đến — nó cố ý nhẹ nhàng về bất kỳ nhánh nào để có thể chỉ đến chi tiết. Các bài viết chuyên biệt về SPM và hệ thống thi cử trường học, về việc chọn giữa STPM, matriculation và các con đường dự bị đại học tư nhân, về cách chứng nhận TVET thực sự hoạt động, và về cách việc nhập học đại học công lập được điều phối, nằm ở hạ nguồn của bản tổng quan này trên NegaraKu.md và đi sâu vào các cơ chế mà trang này chỉ vạch ra.

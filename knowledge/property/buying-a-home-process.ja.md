@@ -135,6 +135,33 @@ faq:
 - **SPAの弁護士の役割と銀行の弁護士の役割を混同すること。** 銀行の弁護士は、銀行の担保を守るために選任されているのであり、買主のSPA条件を交渉するためではない。
 - **ブログ記事の印紙税免除の閾値を、恒久的なものであるかのように引用すること。** 免除命令はそれぞれ独自の開始日と終了日を持つ立法文書である——それを前提に予算を組む前に、現在有効なものを確認すること。
 
+## このトピックを詳しく見る
+
+この分野の主要ガイド:
+
+- [政府の手頃な価格の住宅制度（PR1MA、Residensi Wilayah、Rumah Mesra Rakyat）](/ja/property/affordable-housing-schemes/)
+- [査定税と地代](/ja/property/assessment-and-quit-rent/)
+- [マレーシアの区分所有物件での暮らし](/ja/property/condo-living-maintenance-fees/)
+- [TNB・SESB・サラワク・エナジーの電力口座](/ja/property/electricity-tnb-account/)
+- [マレーシアで賃貸物件を探す](/ja/property/finding-a-rental/)
+- [外国人はマレーシアで不動産を購入できるか？最低購入価格と州政府の承認を解説](/ja/property/foreigners-buying-property/)
+- [フリーホールド、リースホールド、区分所有、戸建て](/ja/property/freehold-leasehold-strata-landed/)
+- [家庭のガス供給](/ja/property/gas-supply-piped-cooking-gas/)
+- [マレーシアのゲーテッド・コミュニティとガード付き住宅地](/ja/property/gated-communities-and-security/)
+- [マレーシアの住宅ローンと担保融資（gadai janji）](/ja/property/home-loan-mortgage-financing/)
+- [住宅購入者の保護](/ja/property/homebuyer-protection-abandoned-projects/)
+- [IWKは水道会社ではない](/ja/property/indah-water-sewerage/)
+- [マレーシアの家庭向け光ファイバー・ブロードバンド](/ja/property/internet-and-fibre/)
+- [不動産仲介業者との取引](/ja/property/property-agents-and-fees/)
+- [競売による不動産の購入（銀行競売 Bank Lelong）](/ja/property/property-auctions-foreclosure/)
+- [財産の承継](/ja/property/property-inheritance-faraid-distribution/)
+- [不動産売却時の不動産譲渡益税（RPGT）](/ja/property/real-property-gains-tax/)
+- [住宅改修の許可と適合証明書（CCC）](/ja/property/renovation-permits-and-ccc/)
+- [マレーシアの賃貸には賃貸借法がない](/ja/property/renting-a-home-tenancy/)
+- [ごみ、リサイクルと地方自治体](/ja/property/rubbish-and-local-council/)
+- [区分所有物件のガバナンス](/ja/property/strata-management-jmb-mc/)
+- [マレーシアの水供給](/ja/property/water-supply/)
+
 ## 次に読むべきもの
 
 あなたがこれから受け取る権利証が実際に約束するものについて——フリーホールド（自由保有権）対リースホールド（借地権）、そして区分所有対有地物件——は[フリーホールド、リースホールド、区分所有、有地物件](/ja/property/freehold-leasehold-strata-landed)を参照。土地局の登記を機能させる移転覚書と担保の背後にある法令については、[国家土地法典1965](/ja/law/national-land-code)を参照。

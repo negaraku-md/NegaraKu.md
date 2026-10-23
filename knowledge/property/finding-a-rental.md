@@ -124,3 +124,5 @@ If a number matters to your tenancy, get it from the agency in writing, not from
 ## What's next
 
 Once you've shortlisted a unit and a negotiator you can verify, the next steps are the tenancy agreement itself and setting up deposit and rent payments — most of which move through online banking rather than cash. If you don't yet have a Malaysian bank account, see [opening a bank account in Malaysia](/en/money-daily-life/opening-bank-account). If you're renting on the strength of a new job offer rather than as a citizen or PR, get the [Employment Pass](/en/settling-in/employment-pass) sorted in parallel — landlords and agencies routinely ask for proof of a valid pass before signing a longer lease.
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

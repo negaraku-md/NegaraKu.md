@@ -200,3 +200,5 @@ If you are trying to place yourself in this industry, a few questions cut throug
 The National Semiconductor Strategy is early. The near-term signals to watch are whether Phase 1 investment keeps climbing toward the RM500 billion target, whether the first cohort of local design and advanced-packaging champions actually reaches the RM1 billion revenue mark, and whether the 60,000-engineer pipeline materialises fast enough to avoid a talent bottleneck. The harder, later test is Phase 3: whether Malaysia can attract front-end wafer fabrication at all, given the capital involved.
 
 Because these are moving figures, treat every number here as a snapshot tied to its source date. For the authoritative and most current picture, check MIDA and MITI directly, and cross-reference official investment updates rather than relying on a single announcement.
+
+See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

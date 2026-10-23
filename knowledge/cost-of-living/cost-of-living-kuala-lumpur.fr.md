@@ -188,3 +188,5 @@ perçus sur les autoroutes de la vallée de Klang. Côté revenus,
 [L'impôt sur le revenu des personnes physiques](/fr/money-daily-life/income-tax-individuals)
 explique ce qu'il advient de ce salaire plus élevé de Kuala Lumpur avant qu'il
 n'atteigne le budget du ménage lui-même.
+
+Voir le guide complet : [Le coût de la vie en Malaisie, selon les chiffres officiels](/fr/cost-of-living/cost-of-living-overview/).

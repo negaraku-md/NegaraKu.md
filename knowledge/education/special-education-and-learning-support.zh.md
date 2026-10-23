@@ -105,3 +105,5 @@ keywords: ["special education Malaysia", "PPKI programme", "PPI inclusive educat
 ## 下一步
 
 如果孩子还没有 OKU 卡，先从向 JKM 申请开始——几乎每一个后续步骤都假定这份文件已经存在。与此同时，联系附近设有 PPKI 计划的学校，或联系州教育局，安排特殊教育司的评估；决定孩子进入三条途径中哪一条的，是这项评估，而不是个人喜好。如果孩子还未到学龄，不妨趁这段时间了解 TASKA OKU 与 NASOM 等非政府组织，而不必等到学校安置流程开始才行动。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

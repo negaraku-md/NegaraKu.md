@@ -161,3 +161,5 @@ personnelle, qui détermine dans laquelle des trois voies un enfant est placé. 
 votre enfant n'a pas encore l'âge scolaire, TASKA OKU et des ONG comme la NASOM
 valent la peine d'être explorées entre-temps, plutôt que d'attendre le début du
 processus de placement scolaire.
+
+Voir le guide complet : [Le système éducatif de la Malaisie, de la maternelle à l'université](/fr/education/malaysian-education-system/).

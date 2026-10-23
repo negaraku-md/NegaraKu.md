@@ -121,3 +121,5 @@ A water bill is generally calculated based on **actual meter readings** — the 
 ---
 
 *The structure of water operations by state, the roles of SPAN and PAAB, and Ranhill SAJ's status as a private operator were verified directly on their respective official websites. The account registration process is referenced from Air Selangor's official support (FAQ) page as an example; details may differ at other state water companies and need to be re-checked by a human reviewer before this article is confirmed.*
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

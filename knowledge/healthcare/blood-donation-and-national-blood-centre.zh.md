@@ -121,3 +121,5 @@ keywords: ["derma darah", "Pusat Darah Negara", "PDN", "syarat menderma darah", 
 ## 接下来该做什么
 
 请重新检查资格条件，并确保在前往前睡眠充足且已进食。如需最新信息、运作时间及流动献血运动地点，请浏览国家血库中心官方门户网站pdn.gov.my，或拨打PDN电话03-2613 2688。
+
+查看完整指南：[马来西亚医疗体系究竟是怎么运作的](/zh/healthcare/how-malaysian-healthcare-works/)。

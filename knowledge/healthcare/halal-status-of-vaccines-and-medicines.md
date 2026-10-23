@@ -135,3 +135,5 @@ Di sisi masyarakat, status halal sering menjadi salah satu faktor yang dipertimb
 - Semak keputusan Muzakarah terkini melalui portal e-Fatwa JAKIM atau laman jabatan mufti negeri, kerana fatwa boleh dikemas kini apabila kandungan produk atau ketersediaan alternatif berubah.
 - Untuk persoalan khusus tentang sesuatu jenama vaksin atau ubat, rujuk pihak berkuasa agama negeri dan pengamal perubatan bertauliah.
 - Draf ini adalah bahan AI yang belum disemak; pastikan setiap petikan fatwa disahkan dengan dokumen rasmi sebelum dijadikan sandaran keputusan peribadi.
+
+Lihat panduan penuh: [Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi](/healthcare/how-malaysian-healthcare-works/).

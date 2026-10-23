@@ -131,3 +131,5 @@ Because this is a substantial process in its own right — required documents, w
 ## What's next
 
 For the wider public primary-care system this antenatal track sits inside, see [how government health clinics in Malaysia work](/en/healthcare/klinik-kesihatan). For how a private hospital admission and bill actually work if delivery happens privately, see [how private hospitals in Malaysia actually charge you](/en/healthcare/private-hospitals-and-costs). And for the legal step that follows every birth regardless of where it happened, see [registering a birth in Malaysia](/en/settling-in/registering-a-birth).
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

@@ -235,3 +235,5 @@ bilion setahun — nombor itulah yang memacu pelaburan aset MMEA dan pindaan
 denda. Statistik perikanan tahunan Jabatan Perikanan dan laporan
 penguatkuasaan MMEA adalah sumber rasmi untuk mengikuti perkembangannya dari
 tahun ke tahun.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

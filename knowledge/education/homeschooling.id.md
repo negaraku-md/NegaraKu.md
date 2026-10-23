@@ -169,3 +169,5 @@ secara tertulis, dan periksa Warta Pemerintah untuk pemberitahuan yang akhirnya
 memberlakukan kewajiban pendidikan menengah di bawah Pasal 32A, karena
 itu akan mengubah apa yang dimaksud dengan "patuh" bagi anak yang
 lebih tua.
+
+Lihat panduan lengkap: [Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas](/id/education/malaysian-education-system/).

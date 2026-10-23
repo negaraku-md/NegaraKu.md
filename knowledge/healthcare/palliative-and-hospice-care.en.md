@@ -115,3 +115,5 @@ This is often confused. Elderly care is general care for older people who may st
 ## What's next
 
 If a member of your family has a serious illness, start by discussing a palliative referral with the treating doctor or specialist. For families in the Klang Valley, contact Hospis Malaysia through their website. For broader general elderly care needs, see our related guide on healthcare for seniors.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

@@ -111,3 +111,5 @@ keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats"
 ## อ่านต่อ
 
 สำหรับเวอร์ชันระดับเมืองของคำถามนี้ ดู[ทำไมกัวลาลัมเปอร์จึงเป็นสถานที่ที่แพงที่สุดในการใช้ชีวิตของมาเลเซีย](/th/cost-of-living/cost-of-living-kuala-lumpur) สำหรับว่าตัวเลขเงินเฟ้อที่อยู่เบื้องหลังถูกสร้างขึ้นจริง ๆ อย่างไร ดู[อัตราเงินเฟ้อของมาเลเซียและ CPI วัดอะไรจริง ๆ](/th/economy/inflation-cpi)
+
+ดูคู่มือฉบับเต็ม: [ค่าครองชีพของมาเลเซีย ตามตัวเลขทางการ](/th/cost-of-living/cost-of-living-overview/)

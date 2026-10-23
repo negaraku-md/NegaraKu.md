@@ -195,3 +195,5 @@ berpindah masuk ke rumah baharu di Malaysia — lihat
 untuk senarai keperluan lain yang berkaitan. Bagi yang turut perlu
 menyediakan talian mudah alih di premis baharu, rujuk
 [panduan SIM prabayar dan pascabayar](/money-daily-life/mobile-sim-plans).
+
+Lihat panduan penuh: [Membeli Rumah di Malaysia](/property/buying-a-home-process/).

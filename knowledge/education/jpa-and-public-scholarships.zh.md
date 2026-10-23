@@ -156,3 +156,5 @@ PTPTN（国家高等教育基金局，Perbadanan Tabung Pendidikan Tinggi Nasion
 - **阅读绑定条款。** 仔细研究服务期限、贷款转换条件，以及你是否需要放弃PTPTN。
 
 本草稿在AI辅助下编写，尚未经过人工审查；在做出决定前，请以官方来源核实每一个数字。
+
+查看完整指南：[马来西亚教育体系](/zh/education/malaysian-education-system/)。

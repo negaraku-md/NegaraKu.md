@@ -135,3 +135,5 @@ Sự đánh đổi phần lớn là về việc đi lại và tiếp cận tiệ
 - Về chính quyền, địa lý và hành chính của bang Penang: [Penang](/vi/states/penang)
 - Về các khía cạnh thực tiễn của việc ký hợp đồng thuê ở một trong hai bên eo biển: [Thuê nhà ở Malaysia](/vi/property/renting-a-home-tenancy)
 - Nguồn sơ cấp: [Báo cáo Khảo sát Thu nhập Hộ gia đình 2024](https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024), [Báo cáo Khảo sát Lương và Tiền công 2024](https://www.dosm.gov.my/portal-main/release-content/salaries-and-wages-survey-report-2024), và [Chỉ số Giá Tiêu dùng, tháng 1 năm 2025](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-january-2025) của DOSM; [danh mục Di sản Thế giới George Town/Melaka](https://whc.unesco.org/en/list/1223/) của UNESCO; và [các báo cáo Chỉ số Giá Nhà Malaysia](https://napic.jpph.gov.my/) của NAPIC để có bối cảnh thị trường bất động sản.
+
+Xem hướng dẫn đầy đủ: [Chi phí sinh hoạt của Malaysia, qua các con số chính thức](/vi/cost-of-living/cost-of-living-overview/).

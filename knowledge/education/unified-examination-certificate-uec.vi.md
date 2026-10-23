@@ -147,3 +147,5 @@ Tính đến khi bản nháp này được soạn, lập trường chính thức
 Đối với học sinh và phụ huynh, bước thực tế thông thường là hiểu điều kiện nhập học của mỗi lối sớm hơn — bao gồm việc có cần dự thi SPM hay STPM làm tư cách bổ sung cho IPTA hay không — và kiểm tra yêu cầu cụ thể của mỗi trường đại học hay bang. Vì chính sách có thể thay đổi theo quyết định của chính phủ trong tương lai, việc tham khảo các công bố chính thức của Bộ Giáo dục và chính quyền bang liên quan là nguồn thông tin chính xác nhất.
 
 > Ghi chú: Đây là một bản nháp được tạo ra với sự hỗ trợ của AI và chưa qua rà soát của con người. Các con số và ngày tháng cần được xác minh lại trước khi công bố, và tính chất nhạy cảm của chủ đề đòi hỏi việc rà soát biên tập kỹ lưỡng.
+
+Xem hướng dẫn đầy đủ: [Hệ thống giáo dục của Malaysia, từ mầm non đến đại học](/vi/education/malaysian-education-system/).

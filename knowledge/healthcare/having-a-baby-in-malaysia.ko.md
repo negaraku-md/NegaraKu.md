@@ -131,3 +131,5 @@ JPN이 직접 확인한 핵심 규칙: 반도 말레이시아에서 출생 등�
 ## 다음으로
 
 이 산전 경로가 속한 더 넓은 공공 1차 의료 체계에 대해서는 [말레이시아의 정부 보건 클리닉이 작동하는 방식](/ko/healthcare/klinik-kesihatan)을 보십시오. 민간에서 출산할 경우 민간 병원 입원과 청구가 실제로 어떻게 작동하는지에 대해서는 [말레이시아 민간 병원이 실제로 청구하는 방식](/ko/healthcare/private-hospitals-and-costs)을 보십시오. 그리고 어디서 출산했든 모든 출생 후에 따르는 법적 절차에 대해서는 [말레이시아에서 출생 등록하기](/ko/settling-in/registering-a-birth)를 보십시오.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

@@ -156,3 +156,5 @@ Se cumpla o no cada objetivo, la dirección es clara: Malasia quiere dejar de se
 La industria de semiconductores de Malasia está en un punto de inflexión genuino. Medio siglo después de la primera planta de Intel en Penang, el país ha convertido los servicios de chips de back-end en un motor exportador que bate récords, y ha concluido abiertamente que quedarse en el extremo de menor margen no es suficiente para las décadas venideras. Si la Estrategia Nacional de Semiconductores logra llevar a Malasia hacia el diseño y la fabricación, frente a una intensa competencia regional y un volátil ciclo mundial de chips, es la pregunta central para el próximo capítulo de la industria.
 
 Para profundizar, lee la guía más amplia de la [industria eléctrica y electrónica (E&E)](/es/industries/electrical-electronics-industry/) —el sector completo dentro del cual se sitúan los semiconductores— y el perfil de [MIDA](/es/government/mida/), la agencia que impulsa la inversión y la política detrás de las cifras.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

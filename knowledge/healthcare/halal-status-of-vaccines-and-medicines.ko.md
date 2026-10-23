@@ -136,3 +136,5 @@ keywords: ["vaksin halal", "hukum vaksin", "gelatin dalam ubat", "fatwa vaksin C
 - 제품 성분이나 대안의 이용 가능성이 바뀌면 파트와가 갱신될 수 있으므로, JAKIM의 e-Fatwa 포털이나 주 무프티청 사이트를 통해 최신 무자카라 결정을 확인하십시오.
 - 특정 상표의 백신이나 의약품에 관한 구체적 물음은 주 종교 당국과 면허 의료인에게 문의하십시오.
 - 이 초안은 아직 검토되지 않은 AI 생성물입니다. 개인적 결정의 근거로 삼기 전에 인용된 각 파트와를 공식 문서로 확인하십시오.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

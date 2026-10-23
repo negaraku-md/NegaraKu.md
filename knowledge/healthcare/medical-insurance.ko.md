@@ -125,3 +125,5 @@ faq:
 ## 다음으로
 
 개인 메디컬 카드 비용을 급여와 견주고 있다면, 교육·의료 보험 감면이 연간 신고와 어떻게 상호작용하는지에 대해 [개인 소득세](/ko/money-daily-life/income-tax-individuals)를 보십시오. 의료 보장과 나란히 있지만 — 그것을 대체하지는 않는 — 법정 공제에 대해서는 [직원을 위한 EPF와 SOCSO](/ko/money-daily-life/epf-socso-employees)를 보십시오. 그리고 의료 혜택이 채용 제안을 통해 온다면, [말레이시아의 고용 계약](/ko/employment/employment-contract-malaysia)이 고용주가 직위에 딸린 혜택에 대해 무엇을 명시할 의무가 있고 없는지를 다룹니다.
+
+전체 가이드 보기: [말레이시아 의료는 실제로 어떻게 작동하는가](/ko/healthcare/how-malaysian-healthcare-works/).

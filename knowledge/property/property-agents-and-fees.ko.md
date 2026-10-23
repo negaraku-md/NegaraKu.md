@@ -111,3 +111,5 @@ keywords: ["ejen hartanah", "REN", "LPEPH", "BOVAEP", "komisen ejen", "fi sewaan
 - 어떤 계약에 서명하기 전에 [LPEPH 조회 포털](https://lpeph.gov.my/search-listing)에서 중개인과 법인의 상태를 확인하십시오.
 - 전체 수수료 기준표와 비용 청구 조건은 [LPEPH 공식 수수료 페이지](https://lpeph.gov.my/fees)에서 확인하십시오.
 - 임대 거래의 경우, 중개인이 결제를 처리하기 전에 임차계약과 보증금 조건도 이해하십시오.
+
+전체 가이드 보기: [말레이시아에서 집 사기](/ko/property/buying-a-home-process/).

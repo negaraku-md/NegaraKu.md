@@ -277,3 +277,5 @@ Hệ thống trợ cấp nhiên liệu của Malaysia vẫn đang tiến hóa. M
 - **Giá dầu toàn cầu.** Vì giá *không trợ cấp* theo thị trường, việc giá dầu thế giới tăng làm rộng khoảng cách giữa RM1.99 và giá đầy đủ — khiến hạn ngạch trở nên quan trọng hơn.
 
 Để biết thông tin chính thức và mới nhất, hãy tham khảo cổng BUDI MADANI và các thông cáo báo chí của Bộ Tài chính. Các con số trong cẩm nang này là chính xác tính đến ngày cập nhật; giá nhiên liệu và chi tiết chương trình có thể thay đổi.
+
+Xem hướng dẫn đầy đủ: [Ngành Năng lượng Malaysia](/vi/energy/energy-sector-overview/).

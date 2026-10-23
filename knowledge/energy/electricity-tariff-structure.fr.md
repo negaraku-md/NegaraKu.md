@@ -128,3 +128,5 @@ Le ToU en vaut la peine si vous pouvez décaler la consommation importante — m
 ## Et ensuite
 
 Vérifiez votre dernière facture et repérez ces cinq lignes de composantes. Comparez votre consommation mensuelle aux seuils de 600 kWh et 1,000 kWh pour voir si vous avez droit à l'exonération de la Redevance de détail ou au remboursement de l'EEI. Pour un calcul précis fondé sur votre consommation réelle, utilisez le calculateur de facture officiel du portail myTNB, et gardez un œil sur la valeur AFA mensuelle annoncée par la Commission de l'énergie.
+
+Voir le guide complet : [Le secteur énergétique de la Malaisie](/fr/energy/energy-sector-overview/).

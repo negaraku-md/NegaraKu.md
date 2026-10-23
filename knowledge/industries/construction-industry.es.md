@@ -224,3 +224,5 @@ Si planea entrar en esta industria o expandirse en ella, el paso más práctico 
 Para comprender el marco jurídico que subyace a todo esto, lea más sobre la **Act 520** y el papel de la **CIDB** como principal organismo regulador. Ambos explican la autoridad detrás del sistema de grados y los requisitos de registro aquí tratados.
 
 Las cifras y los requisitos de este artículo proceden de publicaciones oficiales de la CIDB y del Departamento de Estadística de Malasia. Las tarifas, los límites de grado y los requisitos de capital pueden modificarse de vez en cuando — verifique siempre los detalles más recientes directamente con la CIDB antes de tomar decisiones de registro o de licitación.
+
+Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

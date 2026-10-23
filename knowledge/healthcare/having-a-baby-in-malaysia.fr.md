@@ -132,3 +132,5 @@ Comme il s'agit d'un processus substantiel à part entière — documents requis
 ## Et ensuite
 
 Pour le système public de soins primaires plus large dans lequel s'inscrit ce parcours prénatal, voir [comment fonctionnent les cliniques de santé publiques en Malaisie](/en/healthcare/klinik-kesihatan). Pour savoir comment fonctionnent réellement une admission et une facture d'hôpital privé si l'accouchement a lieu en privé, voir [comment les hôpitaux privés de Malaisie vous facturent réellement](/en/healthcare/private-hospitals-and-costs). Et pour l'étape légale qui suit toute naissance, quel qu'en soit le lieu, voir [enregistrer une naissance en Malaisie](/en/settling-in/registering-a-birth).
+
+Voir le guide complet : [Comment fonctionne réellement le système de santé malaisien](/fr/healthcare/how-malaysian-healthcare-works/).

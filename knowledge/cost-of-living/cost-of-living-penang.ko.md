@@ -197,3 +197,5 @@ CPI 계열을 주 단위 아래로 나누어 발표하지 않습니다.
   유네스코의 [조지타운/믈라카 세계유산 등재](https://whc.unesco.org/en/list/1223/);
   그리고 부동산시장 맥락을 위한 NAPIC의
   [말레이시아 주택가격지수 보고서](https://napic.jpph.gov.my/).
+
+전체 가이드 보기: [공식 수치로 본 말레이시아의 생활비](/ko/cost-of-living/cost-of-living-overview/).

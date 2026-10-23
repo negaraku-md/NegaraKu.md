@@ -172,3 +172,5 @@ nearby government dental clinic, the official search service can be
 accessed via the
 [MyGovernment](https://www.malaysia.gov.my/my/digital-services/carian-klinik-pergigian-kerajaan)
 portal.
+
+See the full guide: [How Malaysian Healthcare Actually Works](/en/healthcare/how-malaysian-healthcare-works/).

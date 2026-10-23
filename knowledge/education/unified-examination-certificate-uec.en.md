@@ -147,3 +147,5 @@ As of this draft, the official position remains the same: the UEC is not recogni
 For students and parents, the common practical step is to understand the entry requirements of each pathway early — including whether an SPM or STPM is needed as an additional qualification for the IPTA — and to check the specific requirements of each university or state. Since policy can change with future government decisions, referring to official announcements from the Ministry of Education and the relevant state governments is the most accurate source of information.
 
 > Note: This is an AI-assisted draft that has not undergone human review. Figures and dates should be re-verified before publication, and the sensitive nature of the topic requires careful editorial review.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).

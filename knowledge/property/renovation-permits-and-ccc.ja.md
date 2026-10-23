@@ -112,3 +112,5 @@ keywords: ["CCC", "Sijil Perakuan Siap dan Pematuhan", "ubah suai rumah", "keben
 - 構造的な増築については、建築家または技術者を雇い、ワンストップセンター（One Stop Centre、OSC）を通じて図面を提出する。
 - 新築住宅を購入する際は、引き渡し前にCCC（Borang F／F1）の状態を確認する。
 - CCCの写しを保管する——将来の改修申請に必要になる。
+
+詳しくは全体ガイドをご覧ください：[マレーシアで家を買う](/ja/property/buying-a-home-process/)。

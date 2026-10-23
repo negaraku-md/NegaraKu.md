@@ -122,3 +122,5 @@ keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "t
 ## 다음 단계
 
 타스카, 타디카, 유아학교에 신청하기 전에, 자녀의 신원 서류 — MyKid 또는 출생증명서 — 가 준비되어 있는지 확인하십시오. 신청 단계에서 필요하기 때문입니다. 자녀의 출생 신고를 막 마쳤다면, 유아학교 등록 단계로 나아가기 전에 관련 절차와 서류에 대해 [출생 신고](/settling-in/registering-a-birth)를 읽어 보십시오.
+
+전체 가이드 보기: [말레이시아의 교육 제도, 유아교육부터 대학교까지](/ko/education/malaysian-education-system/).

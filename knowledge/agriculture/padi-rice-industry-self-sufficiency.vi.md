@@ -156,3 +156,5 @@ Vì vấn đề nhiều lớp. Sản lượng trên mỗi hecta thấp, chi phí
 - **Theo dõi diễn biến SMART SBB**: liệu diện tích có tiến gần mục tiêu 150,000 hecta và liệu sản lượng ở các địa điểm thí điểm có giữ được mức cao khi được mở rộng hay không.
 - **Chú ý đến Ngân sách hằng năm** để biết bất kỳ thay đổi nào đối với giá sàn lúa, mức Trợ cấp Giá Lúa, và tổng khoản phân bổ trợ cấp nông sản-thực phẩm.
 - **Đọc tài liệu chính thức** của Chính sách Nông sản-Thực phẩm Quốc gia 2021-2030 (DAN 2.0) trên trang KPKM để hiểu các mục tiêu sản xuất, thu nhập nông dân và kế hoạch hành động đầy đủ.
+
+Xem hướng dẫn đầy đủ: [Ngành Nông nghiệp và Nông sản-Thực phẩm của Malaysia](/vi/agriculture/agriculture-sector-overview/).

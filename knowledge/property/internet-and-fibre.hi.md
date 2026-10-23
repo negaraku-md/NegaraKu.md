@@ -114,3 +114,5 @@ keywords: ["unifi malaysia", "maxis fibre home", "time fibre broadband", "फ़
 ## आगे क्या
 
 यदि आप अपने घरेलू ब्रॉडबैंड के साथ मोबाइल सेवा भी सेट कर रहे हैं — जिसमें Unifi Mobile भी शामिल है, जो अक्सर Unifi Home लाइन के साथ बंडल किया जाता है — तो वहाँ पंजीकरण और प्रदाता का चुनाव कैसे काम करता है, यह जानने के लिए देखें [मलेशिया में मोबाइल SIM खरीदना](/money-daily-life/mobile-sim-plans)।
+
+पूरी गाइड देखें: [मलेशिया में घर खरीदना](/hi/property/buying-a-home-process/)।

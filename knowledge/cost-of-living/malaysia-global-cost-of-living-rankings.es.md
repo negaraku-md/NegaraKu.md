@@ -137,3 +137,5 @@ El Departamento de Estadística de Malasia (DOSM) mide algo distinto. Su Índice
 ## Qué viene después
 
 Use estos índices como una guía orientativa, no como un presupuesto personal. Si planea una mudanza o un destino, consulte los titulares de Mercer y la EIU del año en curso para el ranking, contraste con la página de nivel de ciudad de Numbeo para Kuala Lumpur, Penang o Johor Bahru, y después ancle las cifras reales a los datos de precios domésticos del DOSM. Los rankings cambian de un año a otro con los tipos de cambio, así que cite siempre la edición de la encuesta que esté citando.
+
+Consulta la guía completa: [El costo de vida de Malasia, según las cifras oficiales](/es/cost-of-living/cost-of-living-overview/).

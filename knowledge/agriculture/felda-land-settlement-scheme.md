@@ -159,3 +159,5 @@ Untuk memulihkan kelestarian agensi, Kertas Putih FELDA 2019 sebelum ini menggar
 Pada masa yang sama, pengeluaran geran tanah kepada peneroka hampir selesai: setakat Julai 2026, **109,104 daripada 112,638 peneroka (96.86%)** telah menerima geran tanah mereka.
 
 Bagi peneroka dan generasi kedua, langkah praktikal yang wajar termasuk memastikan status geran tanah keluarga, memahami sekatan Akta 1960 sebelum merancang pusaka, dan mengikuti perkembangan pindaan yang sedang dikaji. Pantau laman rasmi FELDA dan pengumuman kerajaan untuk butiran pindaan yang muktamad.
+
+Lihat panduan penuh: [Sektor Pertanian dan Agromakanan Malaysia](/agriculture/agriculture-sector-overview/).

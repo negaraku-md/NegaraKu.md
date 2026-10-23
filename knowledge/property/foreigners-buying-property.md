@@ -155,3 +155,5 @@ The other end of ownership carries its own foreigner-specific rate too: a non-ci
 ## What's next
 
 Once title actually transfers into a foreign owner's name, the ongoing obligations are the same ones every property owner in Malaysia faces — see [assessment tax and quit rent, and who collects each one](/en/property/assessment-and-quit-rent). For the two tax events that bracket ownership itself, see the [stamp duty schedule on acquisition](/en/taxation/stamp-duty-rates) and [RPGT on eventual disposal](/en/taxation/rpgt-rates). And for the visa route that makes a property purchase compulsory rather than optional, see the [four tiers of the MM2H long-stay visa](/en/settling-in/mm2h-long-stay-visa).
+
+See the full guide: [Buying a Home in Malaysia](/en/property/buying-a-home-process/).

@@ -114,3 +114,5 @@ Rancangan undang-undang asli memuat ketentuan *generational endgame* (GEG) yang 
 ## Apa selanjutnya
 
 Periksa apakah tempat usaha Anda — toko eceran atau tempat makan — mematuhi larangan pajangan dan tanda peringatan sebelum tenggat kepatuhan. Orang tua dan pendidik dapat melaporkan penjualan kepada anak di bawah umur kepada Kementerian Kesehatan Malaysia. Perhatikan juga penurunan batas nikotin menjadi 20 mg/ml pada 1 Oktober 2025 dan seruan berkelanjutan sebagian pihak untuk memperkenalkan kembali GEG di bawah Act 852.
+
+Lihat panduan lengkap: [Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja](/id/healthcare/how-malaysian-healthcare-works/).

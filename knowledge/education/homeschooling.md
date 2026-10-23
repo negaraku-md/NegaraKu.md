@@ -155,3 +155,5 @@ requirements, keep every submission and response in writing, and check the
 Gazette (Warta Kerajaan) for the notification that eventually brings Section
 32A's secondary-education duty into force, since that will change what
 "compliant" looks like for older children.
+
+See the full guide: [Malaysia's Education System, From Preschool to University](/en/education/malaysian-education-system/).
