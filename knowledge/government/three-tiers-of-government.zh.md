@@ -141,6 +141,26 @@ faq:
 
 **「沙巴与砂拉越采用与马来西亚半岛相同的地方政府法律。」** 并非如此。Act 171 适用于马来西亚半岛；沙巴与砂拉越各自依据自己独立的条例管理地方政府。
 
+## 三级政府背后的机构
+
+负责运作每一级政府的具体机构，以及相关的关键部门与文件：
+
+- [马来西亚国会](/zh/government/parliament/)
+- [下议院（Dewan Rakyat）：222个议席如何转化为联邦法律](/zh/government/dewan-rakyat/)
+- [上议院（Dewan Negara）：上议员如何获得委任，以及本院为何延搁而非否决](/zh/government/dewan-negara/)
+- [首相署：马来西亚的中央协调机构](/zh/government/prime-ministers-department/)
+- [马来西亚公共服务：负责委任的委员会与负责设计制度的部门](/zh/government/public-service/)
+- [最高元首（Yang di-Pertuan Agong）——由推选产生而非世袭的联邦王位](/zh/glossary/yang-di-pertuan-agong/)
+- [州务大臣或首席部长：为何13个州属采用三种不同称号](/zh/glossary/menteri-besar/)
+- [谁就什么立法：《第九附表》的联邦清单、州清单与共同清单](/zh/government/federal-state-division/)
+- [联邦直辖区：吉隆坡、布城与纳闽如何治理](/zh/government/federal-territories-governance/)
+- [马来西亚地方政府：议会、权力与缺失的第三张选票](/zh/government/local-government-in-malaysia/)
+- [马来西亚选举如何运作：一区一议席，得票最多者当选](/zh/government/how-elections-work/)
+- [选举委员会（SPR）：宪法第113–114条下的授权与职能](/zh/government/spr-election-commission/)
+- [马来西亚总检察长：由第145条界定的职位与权力](/zh/government/attorney-general/)
+- [总审计司：受宪法保护、不受政府摆布的政府官员](/zh/government/auditor-general/)
+- [马来西亚联邦宪法](/zh/law/federal-constitution/)
+
 ## 下一步
 
 关于每个层级各自可以就哪些事项立法的完整内容，见[谁就什么立法：《第九附表》的联邦清单、州清单与共同清单](/zh/government/federal-state-division)。关于联邦与州*确实举行*的选举是如何运作的，见[马来西亚选举如何运作](/zh/government/how-elections-work)与[选举委员会（SPR）](/zh/government/spr-election-commission)。关于各州政府首长所使用的不同头衔，见[州务大臣或首席部长](/zh/glossary/menteri-besar)。关于联邦清单与州清单共同的出处文件，见[Federal Constitution of Malaysia](/zh/law/federal-constitution)。

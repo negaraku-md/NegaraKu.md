@@ -141,6 +141,26 @@ faq:
 
 **"사바와 사라왁은 반도와 같은 지방정부 법률을 쓴다."** 그렇지 않습니다. Act 171은 반도 말레이시아에 적용되며, 사바와 사라왁은 각각 자체 별도 조례에 따라 지방정부를 관장합니다.
 
+## 3단계 정부를 운영하는 기관
+
+각 단계를 운영하는 구체적인 기관과 관련된 주요 기구 및 문서:
+
+- [말레이시아 의회](/ko/government/parliament/)
+- [하원(Dewan Rakyat)](/ko/government/dewan-rakyat/)
+- [Dewan Negara](/ko/government/dewan-negara/)
+- [총리실](/ko/government/prime-ministers-department/)
+- [말레이시아의 공직](/ko/government/public-service/)
+- [양 디페르투안 아공(Yang di-Pertuan Agong)](/ko/glossary/yang-di-pertuan-agong/)
+- [므느트리 브사르(Menteri Besar) 또는 주총리(Ketua Menteri)](/ko/glossary/menteri-besar/)
+- [누가 무엇을 정하는가](/ko/government/federal-state-division/)
+- [연방직할구](/ko/government/federal-territories-governance/)
+- [말레이시아의 지방정부](/ko/government/local-government-in-malaysia/)
+- [말레이시아 선거는 어떻게 작동하는가](/ko/government/how-elections-work/)
+- [선거관리위원회(SPR)](/ko/government/spr-election-commission/)
+- [말레이시아 법무장관(Attorney General)](/ko/government/attorney-general/)
+- [감사원장(Ketua Audit Negara)](/ko/government/auditor-general/)
+- [말레이시아 연방헌법(Federal Constitution)](/ko/law/federal-constitution/)
+
 ## 다음으로 볼 것
 
 각 층위가 무엇에 입법할 수 있는지의 전문은 [누가 무엇을 정하는가: 제9부칙의 연방·주·공동 목록](/en/government/federal-state-division)을 보십시오. 실제로 *치러지는* 연방 및 주 선거가 어떻게 운영되는지는 [말레이시아 선거는 어떻게 작동하는가](/en/government/how-elections-work)와 [선거관리위원회(SPR)](/en/government/spr-election-commission)를 보십시오. 주 정부 수반이 지니는 서로 다른 직함은 [주총리 또는 수석장관](/en/glossary/menteri-besar)을 보십시오. 연방 목록과 주 목록이 모두 나오는 문서는 [말레이시아 연방헌법](/en/law/federal-constitution)을 보십시오.

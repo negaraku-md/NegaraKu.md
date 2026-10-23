@@ -142,6 +142,26 @@ faq:
 
 **“Sabah மற்றும் Sarawak, தீபகற்பத்தின் அதே உள்ளூர் அரசாங்கச் சட்டத்தைப் பயன்படுத்துகின்றன.”** இல்லை. Act 171 தீபகற்ப மலேசியாவிற்குப் பொருந்தும்; Sabah மற்றும் Sarawak ஒவ்வொன்றும் தங்கள் சொந்த தனி கட்டளைச் சட்டங்களின் கீழ் உள்ளூர் அரசாங்கத்தை நிர்வகிக்கின்றன.
 
+## மூன்று அடுக்குகளுக்குப் பின்னால் உள்ள நிறுவனங்கள்
+
+ஒவ்வொரு அடுக்கையும் நடத்தும் குறிப்பிட்ட நிறுவனங்கள் — அவற்றைச் சுற்றியுள்ள முக்கிய அலுவலகங்களும் ஆவணங்களும்:
+
+- [மலேசிய நாடாளுமன்றம்](/ta/government/parliament/)
+- [Dewan Rakyat](/ta/government/dewan-rakyat/)
+- [Dewan Negara](/ta/government/dewan-negara/)
+- [பிரதமர் துறை](/ta/government/prime-ministers-department/)
+- [மலேசியாவின் பொது சேவை](/ta/government/public-service/)
+- [Yang di-Pertuan Agong](/ta/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar அல்லது Ketua Menteri](/ta/glossary/menteri-besar/)
+- [எது யார் தீர்மானிக்கிறது](/ta/government/federal-state-division/)
+- [கூட்டாட்சிப் பிரதேசங்கள்](/ta/government/federal-territories-governance/)
+- [மலேசியாவில் உள்ளாட்சி](/ta/government/local-government-in-malaysia/)
+- [மலேசியத் தேர்தல்கள் எவ்வாறு இயங்குகின்றன](/ta/government/how-elections-work/)
+- [தேர்தல் ஆணையம் (SPR)](/ta/government/spr-election-commission/)
+- [மலேசியாவின் சட்ட மா அதிபர்](/ta/government/attorney-general/)
+- [தேசியத் தணிக்கைத் தலைவர் (Ketua Audit Negara)](/ta/government/auditor-general/)
+- [மலேசியாவின் கூட்டரசு அரசியலமைப்பு (Federal Constitution)](/ta/law/federal-constitution/)
+
 ## அடுத்து என்ன
 
 ஒவ்வொரு அடுக்கும் எந்தெந்த விடயங்கள் மீது சட்டம் இயற்றலாம் என்பதன் முழு விவரங்களுக்கு, [எது யார் தீர்மானிக்கிறது: ஒன்பதாம் அட்டவணையின் கூட்டாட்சி, மாநில மற்றும் கூட்டுப் பட்டியல்கள்](/ta/government/federal-state-division) ஐப் பார்க்கவும். *உண்மையில் நடைபெறும்* கூட்டாட்சி மற்றும் மாநிலத் தேர்தல்கள் எவ்வாறு நடத்தப்படுகின்றன என்பதற்கு, [மலேசியாவின் தேர்தல்கள் எவ்வாறு இயங்குகின்றன](/ta/government/how-elections-work) மற்றும் [தேர்தல் ஆணையம் (SPR)](/ta/government/spr-election-commission) ஐப் பார்க்கவும். மாநில அரசாங்கத் தலைவர்கள் சுமக்கும் வெவ்வேறு பட்டங்களுக்கு, [Menteri Besar அல்லது Chief Minister](/ta/glossary/menteri-besar) ஐப் பார்க்கவும். கூட்டாட்சி மற்றும் மாநிலப் பட்டியல்கள் இரண்டும் வரும் ஆவணத்திற்கு, [மலேசியாவின் கூட்டாட்சி அரசியலமைப்பு (Federal Constitution of Malaysia)](/ta/law/federal-constitution) ஐப் பார்க்கவும்.

@@ -142,6 +142,26 @@ faq:
 
 **«تستخدم صباح وساراواك قانون الحكم المحلي نفسه الذي تستخدمه شبه الجزيرة.»** لا. فالقانون 171 ينطبق على شبه جزيرة ماليزيا؛ أما صباح وساراواك فتدير كلٌّ منهما الحكم المحلي بموجب مراسيمها المنفصلة الخاصة.
 
+## المؤسسات وراء المستويات الثلاثة
+
+المؤسسات المحددة التي تدير كل مستوى — والمكاتب والوثائق الرئيسية المحيطة بها:
+
+- [برلمان ماليزيا](/ar/government/parliament/)
+- [مجلس النواب (Dewan Rakyat)](/ar/government/dewan-rakyat/)
+- [مجلس الشيوخ (Dewan Negara)](/ar/government/dewan-negara/)
+- [دائرة رئيس الوزراء (JPM)](/ar/government/prime-ministers-department/)
+- [الخدمة العامة في ماليزيا](/ar/government/public-service/)
+- [Yang di-Pertuan Agong](/ar/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar أو Chief Minister](/ar/glossary/menteri-besar/)
+- [من يقرر ماذا](/ar/government/federal-state-division/)
+- [الأقاليم الاتحادية](/ar/government/federal-territories-governance/)
+- [الحكومة المحلية في ماليزيا](/ar/government/local-government-in-malaysia/)
+- [كيف تعمل الانتخابات الماليزية](/ar/government/how-elections-work/)
+- [المفوضية الماليزية للانتخابات (SPR)](/ar/government/spr-election-commission/)
+- [النائب العام لماليزيا](/ar/government/attorney-general/)
+- [المدقّق العام](/ar/government/auditor-general/)
+- [الدستور الاتحادي لماليزيا](/ar/law/federal-constitution/)
+
 ## ما التالي
 
 للاطّلاع على النص الكامل لما يمكن أن يشرّع فيه كل مستوى، انظر [من يقرّر ماذا: القائمة الاتحادية وقائمة الولايات والقائمة المشتركة في الجدول التاسع](/government/federal-state-division). ولمعرفة كيفية إجراء الانتخابات الاتحادية وانتخابات الولايات التي *تُجرى* فعلًا، انظر [كيف تعمل الانتخابات الماليزية](/government/how-elections-work) و[لجنة الانتخابات (SPR)](/government/spr-election-commission). وللاطّلاع على الألقاب المختلفة التي يحملها رؤساء حكومات الولايات، انظر [منتري بيسار أو رئيس وزراء الولاية](/glossary/menteri-besar). وللاطّلاع على الوثيقة التي تأتي منها القائمتان الاتحادية والولائية معًا، انظر [الدستور الاتحادي لماليزيا](/law/federal-constitution).

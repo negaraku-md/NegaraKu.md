@@ -141,6 +141,26 @@ A related constitutional feature reinforces the federal government's reach into 
 
 **"Sabah and Sarawak use the same local government law as the Peninsula."** They don't. Act 171 applies to Peninsular Malaysia; Sabah and Sarawak each administer local government under their own separate ordinances.
 
+## Institutions behind the three tiers
+
+The specific institutions that run each tier — and the key offices and documents around them:
+
+- [Parliament of Malaysia](/en/government/parliament/)
+- [Dewan Rakyat](/en/government/dewan-rakyat/)
+- [Dewan Negara](/en/government/dewan-negara/)
+- [The Prime Minister's Department](/en/government/prime-ministers-department/)
+- [Malaysia's Public Service](/en/government/public-service/)
+- [Yang di-Pertuan Agong](/en/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar or Chief Minister](/en/glossary/menteri-besar/)
+- [Who Decides What](/en/government/federal-state-division/)
+- [Federal Territories](/en/government/federal-territories-governance/)
+- [Local Government in Malaysia](/en/government/local-government-in-malaysia/)
+- [How Malaysian Elections Work](/en/government/how-elections-work/)
+- [The Election Commission (SPR)](/en/government/spr-election-commission/)
+- [The Attorney General of Malaysia](/en/government/attorney-general/)
+- [The Auditor General](/en/government/auditor-general/)
+- [Federal Constitution of Malaysia](/en/law/federal-constitution/)
+
 ## What's next
 
 For the full text of what each tier can legislate on, see [Who Decides What: The Federal, State and Concurrent Lists of the Ninth Schedule](/en/government/federal-state-division). For how the federal and state elections that *do* happen are run, see [How Malaysia's Elections Work](/en/government/how-elections-work) and the [Election Commission (SPR)](/en/government/spr-election-commission). For the different titles state heads of government carry, see [Menteri Besar or Chief Minister](/en/glossary/menteri-besar). For the document both the Federal and State Lists come from, see the [Federal Constitution of Malaysia](/en/law/federal-constitution).

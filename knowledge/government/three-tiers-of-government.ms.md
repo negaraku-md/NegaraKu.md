@@ -142,6 +142,26 @@ Satu ciri perlembagaan yang berkaitan mengukuhkan lagi capaian kerajaan persekut
 
 **"Sabah dan Sarawak menggunakan undang-undang kerajaan tempatan yang sama seperti Semenanjung."** Tidak. Act 171 terpakai bagi Semenanjung Malaysia; Sabah dan Sarawak masing-masing mentadbir kerajaan tempatan di bawah ordinan berasingan mereka sendiri.
 
+## Institusi di sebalik tiga peringkat
+
+Institusi khusus yang menjalankan setiap peringkat — serta pejabat dan dokumen utama di sekelilingnya:
+
+- [Parlimen Malaysia](/government/parliament/)
+- [Dewan Rakyat](/government/dewan-rakyat/)
+- [Dewan Negara](/government/dewan-negara/)
+- [Jabatan Perdana Menteri](/government/prime-ministers-department/)
+- [Perkhidmatan Awam Malaysia](/government/public-service/)
+- [Yang di-Pertuan Agong](/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar atau Ketua Menteri](/glossary/menteri-besar/)
+- [Siapa Menggubal Undang-Undang Mengenai Apa](/government/federal-state-division/)
+- [Wilayah Persekutuan](/government/federal-territories-governance/)
+- [Kerajaan Tempatan di Malaysia](/government/local-government-in-malaysia/)
+- [Bagaimana Pilihan Raya Malaysia Berfungsi](/government/how-elections-work/)
+- [Suruhanjaya Pilihan Raya (SPR)](/government/spr-election-commission/)
+- [Peguam Negara Malaysia](/government/attorney-general/)
+- [Ketua Audit Negara](/government/auditor-general/)
+- [Perlembagaan Persekutuan Malaysia](/law/federal-constitution/)
+
 ## Apa yang seterusnya
 
 Untuk teks penuh mengenai apa yang boleh digubal undang-undang oleh setiap peringkat, lihat [Siapa Menggubal Undang-Undang Mengenai Apa: Senarai Persekutuan, Negeri dan Bersama dalam Jadual Kesembilan](/government/federal-state-division). Untuk mengetahui bagaimana pilihan raya persekutuan dan negeri yang *memang* berlangsung itu dijalankan, lihat [Bagaimana Pilihan Raya Malaysia Berfungsi](/government/how-elections-work) dan [Suruhanjaya Pilihan Raya (SPR)](/government/spr-election-commission). Untuk gelaran berbeza yang dipegang oleh ketua-ketua kerajaan negeri, lihat [Menteri Besar atau Ketua Menteri](/glossary/menteri-besar). Untuk dokumen yang menjadi sumber kepada Senarai Persekutuan dan Senarai Negeri, lihat [Federal Constitution of Malaysia](/law/federal-constitution).

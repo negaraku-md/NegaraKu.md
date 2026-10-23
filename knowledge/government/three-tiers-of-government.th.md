@@ -142,6 +142,26 @@ faq:
 
 **"ซาบาห์และซาราวักใช้กฎหมายรัฐบาลท้องถิ่นเดียวกันกับคาบสมุทร"** ไม่ใช่ Act 171 ใช้บังคับกับคาบสมุทรมาเลเซีย; ซาบาห์และซาราวักต่างบริหารรัฐบาลท้องถิ่นภายใต้ข้อบัญญัติแยกต่างหากของตนเอง
 
+## สถาบันที่อยู่เบื้องหลังสามระดับการปกครอง
+
+สถาบันเฉพาะที่บริหารแต่ละระดับ รวมถึงหน่วยงานและเอกสารสำคัญที่เกี่ยวข้อง:
+
+- [รัฐสภาแห่งมาเลเซีย](/th/government/parliament/)
+- [Dewan Rakyat](/th/government/dewan-rakyat/)
+- [Dewan Negara](/th/government/dewan-negara/)
+- [สำนักนายกรัฐมนตรี](/th/government/prime-ministers-department/)
+- [ราชการพลเรือนของมาเลเซีย](/th/government/public-service/)
+- [ยังดีเปอร์ตวนอากง (Yang di-Pertuan Agong)](/th/glossary/yang-di-pertuan-agong/)
+- [เมินเตอรีเบอซาร์หรือเกอตัวเมินเตอรี](/th/glossary/menteri-besar/)
+- [ใครตัดสินเรื่องใด](/th/government/federal-state-division/)
+- [ดินแดนสหพันธ์](/th/government/federal-territories-governance/)
+- [การปกครองส่วนท้องถิ่นในมาเลเซีย](/th/government/local-government-in-malaysia/)
+- [การเลือกตั้งของมาเลเซียทำงานอย่างไร](/th/government/how-elections-work/)
+- [คณะกรรมการการเลือกตั้ง (Suruhanjaya Pilihan Raya, SPR)](/th/government/spr-election-commission/)
+- [อัยการสูงสุดแห่งมาเลเซีย](/th/government/attorney-general/)
+- [ผู้ตรวจการแผ่นดินฝ่ายบัญชี (Ketua Audit Negara)](/th/government/auditor-general/)
+- [รัฐธรรมนูญสหพันธรัฐของมาเลเซีย](/th/law/federal-constitution/)
+
 ## ขั้นตอนต่อไป
 
 สำหรับตัวบทฉบับเต็มของสิ่งที่แต่ละชั้นตรากฎหมายได้ ดู [ใครตัดสินอะไร: บัญชีสหพันธ์ บัญชีรัฐ และบัญชีร่วมของบัญชีที่เก้า](/th/government/federal-state-division) สำหรับวิธีที่การเลือกตั้งระดับสหพันธ์และรัฐที่ *จัดขึ้นจริง* ดำเนินการ ดู [การเลือกตั้งของมาเลเซียทำงานอย่างไร](/th/government/how-elections-work) และ [คณะกรรมการการเลือกตั้ง (SPR)](/th/government/spr-election-commission) สำหรับตำแหน่งที่แตกต่างกันของหัวหน้ารัฐบาลของรัฐ ดู [มุขมนตรีหรือ Chief Minister](/th/glossary/menteri-besar) สำหรับเอกสารที่ทั้งบัญชีสหพันธ์และบัญชีรัฐมาจาก ดู [รัฐธรรมนูญสหพันธ์ของมาเลเซีย](/th/law/federal-constitution)

@@ -142,6 +142,26 @@ Một đặc điểm hiến định liên quan củng cố tầm với của ch�
 
 **"Sabah và Sarawak dùng cùng luật chính quyền địa phương như Bán đảo."** Không phải vậy. Act 171 áp dụng cho Bán đảo Malaysia; Sabah và Sarawak mỗi bang quản lý chính quyền địa phương theo các sắc lệnh riêng của mình.
 
+## Các thiết chế đằng sau ba cấp chính quyền
+
+Những thiết chế cụ thể vận hành từng cấp — cùng các cơ quan và văn kiện chủ chốt xung quanh:
+
+- [Nghị viện Malaysia](/vi/government/parliament/)
+- [Dewan Rakyat](/vi/government/dewan-rakyat/)
+- [Dewan Negara](/vi/government/dewan-negara/)
+- [Văn phòng Thủ tướng](/vi/government/prime-ministers-department/)
+- [Nền công vụ của Malaysia](/vi/government/public-service/)
+- [Yang di-Pertuan Agong](/vi/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar hay Ketua Menteri](/vi/glossary/menteri-besar/)
+- [Ai quyết định điều gì](/vi/government/federal-state-division/)
+- [Lãnh thổ Liên bang](/vi/government/federal-territories-governance/)
+- [Chính quyền địa phương ở Malaysia](/vi/government/local-government-in-malaysia/)
+- [Cách bầu cử Malaysia vận hành](/vi/government/how-elections-work/)
+- [Ủy ban Bầu cử (SPR)](/vi/government/spr-election-commission/)
+- [Tổng Chưởng lý Malaysia](/vi/government/attorney-general/)
+- [Tổng Kiểm toán Nhà nước](/vi/government/auditor-general/)
+- [Hiến pháp Liên bang Malaysia](/vi/law/federal-constitution/)
+
 ## Tiếp theo
 
 Về toàn văn những gì mỗi cấp có thể làm luật, xem [Ai Quyết định Việc gì: Các Danh mục Liên bang, Bang và Đồng thời của Phụ lục Thứ Chín](/vi/government/federal-state-division). Về cách các cuộc bầu cử liên bang và bang *có* diễn ra được tiến hành, xem [Bầu cử Malaysia Hoạt động Như thế nào](/vi/government/how-elections-work) và [Ủy ban Bầu cử (SPR)](/vi/government/spr-election-commission). Về các chức danh khác nhau mà những người đứng đầu chính quyền bang mang, xem [Menteri Besar hoặc Chief Minister](/vi/glossary/menteri-besar). Về văn bản mà cả Danh mục Liên bang và Danh mục Bang đều bắt nguồn, xem [Hiến pháp Liên bang của Malaysia](/vi/law/federal-constitution).

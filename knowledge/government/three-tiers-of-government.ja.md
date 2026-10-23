@@ -140,6 +140,26 @@ faq:
 
 **「サバとサラワクは半島と同じ地方政府法を用いている。」** そうではない。Act 171はマレーシア半島に適用される；サバとサラワクはそれぞれ独自の条例のもとで地方政府を運営している。
 
+## 三層の政府を支える機関
+
+各層を運営する具体的な機関と、その周辺の主要な役職・文書:
+
+- [マレーシア国会](/ja/government/parliament/)
+- [下院（Dewan Rakyat）：222議席はいかにして連邦法律となるか](/ja/government/dewan-rakyat/)
+- [上院（Dewan Negara）：上院議員はどのように任命されるか、そして本院はなぜ否決ではなく遅延にとどまるのか](/ja/government/dewan-negara/)
+- [首相府（Jabatan Perdana Menteri）：マレーシアの中央調整機関](/ja/government/prime-ministers-department/)
+- [マレーシアの公務員制度：任命を行う委員会と制度を設計する部門](/ja/government/public-service/)
+- [国王（Yang di-Pertuan Agong）——世襲ではなく推挙される連邦の王位](/ja/glossary/yang-di-pertuan-agong/)
+- [州首相（Menteri Besar）と首席大臣（Ketua Menteri）：なぜ13州で3つの異なる称号が用いられるのか](/ja/glossary/menteri-besar/)
+- [誰が何を立法するのか：Ninth Schedule（第九附則）の連邦リスト・州リスト・共管リスト](/ja/government/federal-state-division/)
+- [連邦直轄区：クアラルンプール、プトラジャヤ、ラブアンはどう治められているか](/ja/government/federal-territories-governance/)
+- [マレーシアの地方自治：議会、権限、そして失われた「第三の一票」](/ja/government/local-government-in-malaysia/)
+- [マレーシアの選挙はどう機能するか：一選挙区一議員、最多得票者が当選](/ja/government/how-elections-work/)
+- [選挙管理委員会（SPR）：連邦憲法第113条・第114条における権限と職能](/ja/government/spr-election-commission/)
+- [マレーシア司法長官：第145条が定める職務と権限](/ja/government/attorney-general/)
+- [会計検査院長：憲法が政府から守る政府職員](/ja/government/auditor-general/)
+- [マレーシア連邦憲法](/ja/law/federal-constitution/)
+
 ## 次のステップ
 
 各層が立法できる事項の全文については、[誰が何を立法するのか：Ninth Schedule（第九附則）の連邦リスト・州リスト・共管リスト](/ja/government/federal-state-division)を参照のこと。*実際に*行われる連邦及び州の選挙がどのように運営されているかについては、[マレーシアの選挙はどのように行われるか](/ja/government/how-elections-work)及び[選挙委員会（SPR）](/ja/government/spr-election-commission)を参照のこと。州政府の長が持つ異なる称号については、[州首相又は首席大臣（Menteri Besar or Ketua Menteri）](/ja/glossary/menteri-besar)を参照のこと。連邦リストと州リストの双方の出典である文書については、[マレーシア連邦憲法](/ja/law/federal-constitution)を参照のこと。

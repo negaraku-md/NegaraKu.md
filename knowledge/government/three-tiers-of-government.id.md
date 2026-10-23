@@ -142,6 +142,26 @@ Satu ciri konstitusional yang berkaitan mengukuhkan lagi jangkauan pemerintah fe
 
 **"Sabah dan Sarawak menggunakan undang-undang pemerintahan lokal yang sama seperti Semenanjung."** Tidak. Act 171 berlaku bagi Semenanjung Malaysia; Sabah dan Sarawak masing-masing mengelola pemerintahan lokal di bawah ordinan terpisah mereka sendiri.
 
+## Lembaga di balik tiga tingkat pemerintahan
+
+Lembaga spesifik yang menjalankan setiap tingkat — beserta kantor dan dokumen utama di sekitarnya:
+
+- [Parlemen Malaysia](/id/government/parliament/)
+- [Dewan Rakyat](/id/government/dewan-rakyat/)
+- [Dewan Negara](/id/government/dewan-negara/)
+- [Jabatan Perdana Menteri](/id/government/prime-ministers-department/)
+- [Layanan Sipil Malaysia](/id/government/public-service/)
+- [Yang di-Pertuan Agong](/id/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar atau Ketua Menteri](/id/glossary/menteri-besar/)
+- [Siapa Menyusun Undang-Undang Mengenai Apa](/id/government/federal-state-division/)
+- [Wilayah Persekutuan](/id/government/federal-territories-governance/)
+- [Pemerintahan Lokal di Malaysia](/id/government/local-government-in-malaysia/)
+- [Bagaimana Pemilihan Umum Malaysia Berfungsi](/id/government/how-elections-work/)
+- [Suruhanjaya Pilihan Raya (SPR)](/id/government/spr-election-commission/)
+- [Peguam Negara Malaysia](/id/government/attorney-general/)
+- [Ketua Audit Negara](/id/government/auditor-general/)
+- [Konstitusi Federal Malaysia](/id/law/federal-constitution/)
+
 ## Apa selanjutnya
 
 Untuk teks lengkap mengenai apa yang dapat dibuat undang-undang oleh setiap tingkat, lihat [Siapa Membuat Undang-Undang Mengenai Apa: Daftar Federal, Negara Bagian, dan Bersama dalam Jadwal Kesembilan](/id/government/federal-state-division). Untuk mengetahui bagaimana pemilihan federal dan negara bagian yang *memang* berlangsung itu dijalankan, lihat [Bagaimana Pemilihan Malaysia Bekerja](/id/government/how-elections-work) dan [Suruhanjaya Pilihan Raya (SPR)](/id/government/spr-election-commission). Untuk gelar berbeda yang dipegang oleh kepala pemerintahan negara bagian, lihat [Menteri Besar atau Ketua Menteri](/id/glossary/menteri-besar). Untuk dokumen yang menjadi sumber Daftar Federal dan Daftar Negara Bagian, lihat [Federal Constitution of Malaysia](/id/law/federal-constitution).

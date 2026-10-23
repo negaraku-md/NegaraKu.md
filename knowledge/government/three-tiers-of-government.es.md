@@ -142,6 +142,26 @@ Una característica constitucional relacionada refuerza el alcance del gobierno 
 
 **«Sabah y Sarawak usan la misma ley de gobierno local que la Península.»** No es así. La Act 171 se aplica a Malasia peninsular; Sabah y Sarawak administran cada uno el gobierno local bajo sus propias ordenanzas separadas.
 
+## Las instituciones detrás de los tres niveles
+
+Las instituciones concretas que gestionan cada nivel, y las oficinas y documentos clave a su alrededor:
+
+- [Parlamento de Malasia](/es/government/parliament/)
+- [Dewan Rakyat](/es/government/dewan-rakyat/)
+- [Dewan Negara](/es/government/dewan-negara/)
+- [El Departamento del Primer Ministro](/es/government/prime-ministers-department/)
+- [La función pública de Malasia](/es/government/public-service/)
+- [Yang di-Pertuan Agong](/es/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar o Chief Minister](/es/glossary/menteri-besar/)
+- [Quién decide qué](/es/government/federal-state-division/)
+- [Territorios Federales](/es/government/federal-territories-governance/)
+- [El gobierno local en Malasia](/es/government/local-government-in-malaysia/)
+- [Cómo funcionan las elecciones en Malasia](/es/government/how-elections-work/)
+- [La Comisión Electoral (SPR)](/es/government/spr-election-commission/)
+- [El Fiscal General de Malasia](/es/government/attorney-general/)
+- [El Auditor General](/es/government/auditor-general/)
+- [Constitución Federal de Malasia](/es/law/federal-constitution/)
+
 ## Qué sigue
 
 Para el texto completo de aquello sobre lo que puede legislar cada nivel, véase [Quién decide qué: las Listas Federal, Estatal y Concurrente de la Novena Lista](/en/government/federal-state-division). Para saber cómo se celebran las elecciones federales y estatales que *sí* tienen lugar, véase [Cómo funcionan las elecciones de Malasia](/en/government/how-elections-work) y la [Comisión Electoral (SPR)](/en/government/spr-election-commission). Para los distintos títulos que ostentan los jefes de gobierno estatales, véase [Menteri Besar o Chief Minister](/en/glossary/menteri-besar). Para el documento del que provienen tanto la Lista Federal como la Estatal, véase la [Constitución Federal de Malasia](/en/law/federal-constitution).

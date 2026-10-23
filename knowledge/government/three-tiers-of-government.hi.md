@@ -142,6 +142,26 @@ faq:
 
 **«Sabah और Sarawak वही स्थानीय शासन कानून इस्तेमाल करते हैं जो प्रायद्वीप करता है।»** ऐसा नहीं है। Act 171 प्रायद्वीपीय मलेशिया पर लागू होता है; Sabah और Sarawak प्रत्येक अपने-अपने अलग अध्यादेशों के तहत स्थानीय शासन का प्रशासन करते हैं।
 
+## तीन स्तरों के पीछे की संस्थाएँ
+
+प्रत्येक स्तर को चलाने वाली विशिष्ट संस्थाएँ — और उनके इर्द-गिर्द के प्रमुख कार्यालय व दस्तावेज़:
+
+- [मलेशिया की संसद](/hi/government/parliament/)
+- [देवान राक्यात (Dewan Rakyat)](/hi/government/dewan-rakyat/)
+- [देवान नेगारा](/hi/government/dewan-negara/)
+- [प्रधानमंत्री विभाग (JPM)](/hi/government/prime-ministers-department/)
+- [मलेशिया की लोक सेवा](/hi/government/public-service/)
+- [Yang di-Pertuan Agong](/hi/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar या Chief Minister](/hi/glossary/menteri-besar/)
+- [कौन क्या तय करता है](/hi/government/federal-state-division/)
+- [संघीय क्षेत्र](/hi/government/federal-territories-governance/)
+- [मलेशिया में स्थानीय सरकार](/hi/government/local-government-in-malaysia/)
+- [मलेशियाई चुनाव कैसे काम करते हैं](/hi/government/how-elections-work/)
+- [निर्वाचन आयोग (SPR)](/hi/government/spr-election-commission/)
+- [मलेशिया का महान्यायवादी](/hi/government/attorney-general/)
+- [महालेखा परीक्षक](/hi/government/auditor-general/)
+- [मलेशिया का संघीय संविधान](/hi/law/federal-constitution/)
+
 ## आगे क्या
 
 प्रत्येक स्तर किस पर विधायन कर सकता है, इसके पूरे पाठ के लिए, देखें [कौन क्या तय करता है: नौवीं अनुसूची की संघीय, राज्य और समवर्ती सूचियाँ](/en/government/federal-state-division)। जो संघीय और राज्य चुनाव *होते* हैं वे कैसे संचालित होते हैं, यह जानने के लिए, देखें [मलेशिया के चुनाव कैसे काम करते हैं](/en/government/how-elections-work) और [निर्वाचन आयोग (SPR)](/en/government/spr-election-commission)। राज्य सरकार-प्रमुख जो भिन्न पदनाम धारण करते हैं, उनके लिए देखें [Menteri Besar या मुख्यमंत्री](/en/glossary/menteri-besar)। जिस दस्तावेज़ से संघीय और राज्य दोनों सूचियाँ आती हैं, उसके लिए देखें [मलेशिया का संघीय संविधान](/en/law/federal-constitution)।

@@ -142,6 +142,26 @@ Une caractéristique constitutionnelle connexe renforce la portée du gouverneme
 
 **« Sabah et Sarawak utilisent la même loi d'administration locale que la Péninsule. »** Ce n'est pas le cas. L'Act 171 s'applique à la Malaisie péninsulaire ; Sabah et Sarawak administrent chacun l'administration locale selon leurs propres ordonnances distinctes.
 
+## Les institutions derrière les trois niveaux
+
+Les institutions précises qui gèrent chaque niveau, ainsi que les principaux organes et textes qui les entourent :
+
+- [Parlement de la Malaisie](/fr/government/parliament/)
+- [Dewan Rakyat](/fr/government/dewan-rakyat/)
+- [Dewan Negara](/fr/government/dewan-negara/)
+- [Le Département du Premier ministre](/fr/government/prime-ministers-department/)
+- [La fonction publique de la Malaisie](/fr/government/public-service/)
+- [Yang di-Pertuan Agong](/fr/glossary/yang-di-pertuan-agong/)
+- [Menteri Besar ou Chief Minister](/fr/glossary/menteri-besar/)
+- [Qui décide quoi](/fr/government/federal-state-division/)
+- [Territoires fédéraux](/fr/government/federal-territories-governance/)
+- [Le gouvernement local en Malaisie](/fr/government/local-government-in-malaysia/)
+- [Comment fonctionnent les élections en Malaisie](/fr/government/how-elections-work/)
+- [La Commission électorale (SPR)](/fr/government/spr-election-commission/)
+- [Le Procureur général de Malaisie](/fr/government/attorney-general/)
+- [L'Auditeur général](/fr/government/auditor-general/)
+- [Constitution fédérale de la Malaisie](/fr/law/federal-constitution/)
+
 ## Pour aller plus loin
 
 Pour le texte complet de ce sur quoi chaque niveau peut légiférer, voir [Qui décide quoi : les Listes fédérale, de l'État et concurrente de la Neuvième Annexe](/fr/government/federal-state-division). Pour savoir comment se déroulent les élections fédérales et des États qui, *elles*, ont bien lieu, voir [Comment fonctionnent les élections de la Malaisie](/fr/government/how-elections-work) et la [Commission électorale (SPR)](/fr/government/spr-election-commission). Pour les différents titres que portent les chefs de gouvernement des États, voir [Menteri Besar ou Chief Minister](/fr/glossary/menteri-besar). Pour le document d'où proviennent à la fois la Liste fédérale et la Liste de l'État, voir la [Constitution fédérale de la Malaisie](/fr/law/federal-constitution).
