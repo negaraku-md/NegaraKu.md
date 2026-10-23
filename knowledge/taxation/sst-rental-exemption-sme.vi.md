@@ -213,3 +213,5 @@ với một cố vấn thuế trước khi bạn ký hoặc định giá một h
 tranh rộng hơn, hãy xem các hướng dẫn liên quan về việc mở rộng thuế dịch vụ ngày
 1 tháng 7 năm 2025, về các ngưỡng đăng ký SST theo nhóm dịch vụ, và về miễn trừ
 B2B giúp thuế không chồng lên nhau dọc theo một chuỗi cung ứng.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

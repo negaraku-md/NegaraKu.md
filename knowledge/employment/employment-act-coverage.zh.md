@@ -135,3 +135,5 @@ s.41A 的怀孕保障、陪产假、s.60Q 的弹性工作时钟、Part XVA 的�
 工作类别。凡在 RM4,000 以下者，或不论薪金多寡而落入第 2 段类别者，都有权享有额外
 薪酬条文。然后查阅[逐条完整指南](/zh/employment/employment-act-1955-guide)，了解不论如何都适用于
 所有人的部分。
+
+不确定适用哪部法律？查看[马来西亚劳动法导览](/zh/employment/labour-law-map-malaysia/)。

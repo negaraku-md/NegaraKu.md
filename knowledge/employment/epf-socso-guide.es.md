@@ -94,3 +94,5 @@ La cobertura de los **trabajadores extranjeros** diverge notablemente entre los 
 ## Qué sigue
 
 Si está configurando la nómina por primera vez, empiece por el calendario de cumplimiento de nóminas, que organiza cada obligación según cuándo vence y no según qué agencia la recauda. Si la nómina ya funciona y necesita comprobar una sola cifra, la referencia de tarifas y plazos legales da cada número con la autoridad que lo publica.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

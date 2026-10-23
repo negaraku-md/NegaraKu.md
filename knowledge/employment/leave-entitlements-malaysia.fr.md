@@ -245,3 +245,5 @@ paie comme des compteurs distincts, puis vérifiez que l'avis de l'art. 60D(1A) 
 les six jours fériés restants publiés au Journal officiel est affiché avant le
 début de l'année. Pour les dates de l'année, consultez les
 [jours fériés publics par État](/fr/employment/public-holidays-malaysia).
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

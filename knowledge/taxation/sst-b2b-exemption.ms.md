@@ -165,3 +165,5 @@ bekalkan semula, dan sahkan pendaftaran pihak lawan sebelum menerima invois
 tanpa cukai. Jika cukai telah dikenakan sedangkan B2B sepatutnya terpakai,
 betulkan melalui nota kredit di bawah peraturan 11, dilaraskan dalam
 pemulangan SST-02 bagi tempoh nota itu dikeluarkan.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

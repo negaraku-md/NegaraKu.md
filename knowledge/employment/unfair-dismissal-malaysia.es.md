@@ -189,3 +189,5 @@ Esa aritmética es la razón por la que los empleadores llegan a un acuerdo en l
 ## Qué sigue
 
 Si usted es el empleado: presente la representación en la oficina del JPPM más cercana ahora y siga negociando en paralelo. Si usted es el empleador: la defensa se construye antes del despido, no después — véase `domestic-inquiry-malaysia` para el registro procesal que el Tribunal buscará, y `termination-of-employment-malaysia` para elegir la vía correcta desde el principio.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

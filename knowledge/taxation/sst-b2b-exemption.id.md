@@ -159,3 +159,5 @@ dan pastikan pendaftaran pihak lawan sebelum menerima faktur tanpa pajak. Jika
 pajak telah dikenakan padahal B2B seharusnya berlaku, perbaiki melalui nota kredit
 di bawah peraturan 11, disesuaikan dalam laporan SST-02 bagi masa nota itu
 diterbitkan.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

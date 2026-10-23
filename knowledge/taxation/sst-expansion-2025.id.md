@@ -507,3 +507,5 @@ bulan secara terperinci. Jika Anda membeli jasa profesional atau konstruksi dari
 penyedia terdaftar lain, periksa apakah pengecualian B2B mengeluarkan pajak sebelum
 Anda membayarnya. Dan jika Anda memperoleh jasa ini dari luar Malaysia, aturan jasa
 kena pajak yang diimpor berlaku untuk Anda baik Anda terdaftar maupun tidak.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

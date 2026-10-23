@@ -465,3 +465,5 @@ và là cái có khả năng bị thiếu nhất khỏi hệ thống của bạn
 Rồi hãy làm hai cuộc kiểm toán bắt được hầu hết các trường hợp mặc định: đối chiếu đầu ra EPF của
 phần mềm bảng lương của bạn với Phụ lục Thứ Ba cho ba mức lương mẫu, và
 đếm lại quân số Malaysia của bạn đối chiếu với ngưỡng HRD Corp.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

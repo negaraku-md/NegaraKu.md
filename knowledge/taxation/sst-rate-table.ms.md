@@ -189,3 +189,5 @@ Untuk butiran mengikut sektor bagi kumpulan yang ditambah pada 2025, termasuk
 kelegaan peralihan dan kontrak tidak boleh disemak semula, lihat panduan
 pengembangan. Untuk cara ambang diuji sepanjang tempoh bergulir dua belas
 bulan, lihat panduan pendaftaran.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

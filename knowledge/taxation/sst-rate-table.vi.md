@@ -181,3 +181,5 @@ trong cửa sổ đó đã lỗi thời.
 Để có chi tiết theo từng ngành về các nhóm được thêm vào năm 2025, kể cả sự giảm nhẹ
 chuyển tiếp và hợp đồng không thể xem xét lại, xem hướng dẫn mở rộng. Để biết cách các
 ngưỡng được kiểm tra trên một chu kỳ mười hai tháng cuốn chiếu, xem hướng dẫn đăng ký.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

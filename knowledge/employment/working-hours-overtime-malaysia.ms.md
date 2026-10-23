@@ -246,3 +246,5 @@ gaji biasa, s.19(2) pada penghujung tempoh gaji berikutnya untuk bayaran premium
 selaraskan had 104 jam setiap bulan berbanding pada penghujung tahun. Kemudian sahkan
 kakitangan anda yang manakah termasuk dalam [liputan Jadual Pertama](/employment/employment-act-coverage),
 kerana kadar-kadar di atas hanya mengikat mereka.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

@@ -306,3 +306,5 @@ El reloj del empleado es de sesenta días desde el despido — o, cuando se dio 
 ## Qué sigue
 
 Antes de cualquier terminación, resuelva tres cosas por escrito: cuál de las cuatro vías se aplica, qué preaviso se debe conforme al art. 12(2) medido en la fecha de entrega, y qué vence el último día conforme al art. 20 o al art. 21. Luego trabaje el procedimiento de esa vía — `domestic-inquiry-malaysia` para la mala conducta, `retrenchment-malaysia` para la redundancia — y cierre las presentaciones legales en `offboarding-statutory-checklist`, donde el deber de retención por el finiquito fiscal crea exposición personal para directores y responsables de nómina.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

@@ -490,3 +490,5 @@ cách chi tiết. Nếu bạn mua các dịch vụ chuyên môn hoặc xây dự
 đăng ký khác, hãy kiểm tra liệu khoản miễn B2B có loại bỏ thuế trước khi bạn trả nó hay
 không. Và nếu bạn nhận bất kỳ dịch vụ nào trong số này từ ngoài Malaysia, các quy tắc
 dịch vụ chịu thuế nhập khẩu áp dụng cho bạn dù bạn có đăng ký hay không.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

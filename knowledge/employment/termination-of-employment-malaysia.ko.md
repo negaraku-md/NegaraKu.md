@@ -306,3 +306,5 @@ keywords: ["termination of employment malaysia", "notice period malaysia", "at w
 ## 다음 단계
 
 어떤 종료이든 그 전에 세 가지를 서면으로 확정하십시오. 네 가지 경로 중 어느 것이 적용되는지, 예고일 기준으로 측정한 제12(2)조에 따라 얼마의 예고가 필요한지, 그리고 제20조나 제21조에 따라 최종일에 무엇이 발생하는지. 그런 다음 그 경로의 절차를 진행하고 — 비위행위는 `domestic-inquiry-malaysia`, 인원 잉여는 `retrenchment-malaysia` — 세무 정산 보류 의무가 이사와 급여 담당자에게 개인적 노출을 만드는 `offboarding-statutory-checklist`에서 법정 신고를 마무리하십시오.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

@@ -190,3 +190,5 @@ Hãy kiểm tra ba thiết lập trong bảng lương: ngày trả lương đố
 các mã khấu trừ đối chiếu với s.24, và các số chia theo giờ và theo ngày đối chiếu với Lệnh.
 Rồi hãy xác nhận rằng lương gộp thu được ở mức hoặc trên RM1,700 trước các khoản khấu trừ
 theo luật — lương tối thiểu là một mức sàn cho lương phải trả, không phải cho lương thực nhận.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

@@ -301,3 +301,5 @@ Jam pekerja ialah enam puluh hari dari tarikh pemecatan — atau, apabila notis 
 ## Apa seterusnya
 
 Sebelum sebarang penamatan, selesaikan tiga perkara secara bertulis: yang mana antara empat laluan itu terpakai, berapa notis yang terhutang di bawah s.12(2) diukur pada tarikh pemberian, dan apa yang wajib dibayar pada hari terakhir di bawah s.20 atau s.21. Kemudian jalankan prosedur bagi laluan itu — `domestic-inquiry-malaysia` untuk salah laku, `retrenchment-malaysia` untuk lebihan tenaga kerja — dan selesaikan pemfailan berkanun dalam `offboarding-statutory-checklist`, di mana kewajipan menahan pelepasan cukai mewujudkan pendedahan peribadi kepada pengarah dan pegawai penggajian.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

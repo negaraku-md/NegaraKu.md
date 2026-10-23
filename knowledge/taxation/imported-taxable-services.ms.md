@@ -191,3 +191,5 @@ yang mengubah pengiraan bagi pendedahan sukarela (voluntary disclosure).
 Perniagaan yang berdaftar perlu memastikan mereka mengambil kira perkhidmatan
 diimport dalam pulangan SST-02, bukannya turut memfailkan SST-02A secara
 selari.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

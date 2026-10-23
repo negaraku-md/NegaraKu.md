@@ -185,3 +185,5 @@ Para el detalle sector por sector de los grupos añadidos en 2025, incluida la
 desgravación transitoria y de los contratos no revisables, consulte la guía de la
 ampliación. Para saber cómo se prueban los umbrales a lo largo de doce meses
 móviles, consulte la guía de registro.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

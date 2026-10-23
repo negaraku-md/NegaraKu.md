@@ -231,3 +231,5 @@ lebih menunjuk ke dalam, kira nilai pendedahan caruman ke belakang sekarang. Jik
 penglibatan itu diperantarakan oleh platform, baca
 [Gig Workers Act 2025](/employment/gig-workers-act-2025) untuk mekanik potongan dan
 Tribunal.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

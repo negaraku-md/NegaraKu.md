@@ -234,3 +234,5 @@ thông thường, s.19(2) vào cuối kỳ lương kế tiếp cho tiền phụ 
 104 giờ hằng tháng chứ không phải vào cuối năm. Rồi hãy xác nhận nhân sự nào của bạn nằm bên trong
 [phạm vi Phụ lục Thứ Nhất](/vi/employment/employment-act-coverage), vì các mức ở trên chỉ ràng buộc đối với
 họ.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

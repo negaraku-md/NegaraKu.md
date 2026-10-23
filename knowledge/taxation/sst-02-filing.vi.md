@@ -183,3 +183,5 @@ phải năm tài chính của bạn — và đặt tờ khai và việc thanh to
 bạn đã trễ, hãy xác định dải ba mươi ngày của bạn trước khi quyết định trả gì: vượt qua
 một ranh giới tốn 15%, và giải quyết nghĩa vụ trước ngày chín mươi cũng loại bỏ phơi
 bày truy tố.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

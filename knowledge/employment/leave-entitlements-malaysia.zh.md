@@ -199,3 +199,5 @@ ss.12、14、16、22、58A、60、60A、60B、60C、60D、60E、60F、60FA、60I
 把薪资系统里的病假与住院假额度重新配置为两个独立的计数器，然后检查载明其余六天
 经宪报颁布假期的 s.60D(1A) 通告，是否已在年度开始前张贴。该年度的日期请见
 [各州公共假期](/zh/employment/public-holidays-malaysia)。
+
+不确定适用哪部法律？查看[马来西亚劳动法导览](/zh/employment/labour-law-map-malaysia/)。

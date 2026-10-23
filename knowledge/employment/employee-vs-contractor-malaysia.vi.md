@@ -217,3 +217,5 @@ Hãy lấy ba công việc nhà thầu kéo dài lâu nhất của bạn và ch�
 soát, tích hợp, công cụ, thay thế và rủi ro. Khi hai yếu tố trở lên chỉ vào bên trong, hãy
 định giá rủi ro truy đóng ngay bây giờ. Nếu công việc qua trung gian nền tảng, hãy đọc
 [Gig Workers Act 2025](/vi/employment/gig-workers-act-2025) để biết cơ chế khấu trừ và Tòa án.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

@@ -187,3 +187,5 @@ mengubah perhitungan bagi pengungkapan sukarela (voluntary disclosure).
 
 Usaha yang terdaftar perlu memastikan mereka memperhitungkan jasa impor dalam
 laporan SST-02, bukannya turut menyampaikan SST-02A secara paralel.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

@@ -328,3 +328,5 @@ Una vez registrado, el impuesto sobre ventas y el impuesto sobre servicios se
 declaran en la misma declaración SST-02 y siguen el mismo período gravable y
 régimen de sanciones — por lo que vale la pena leer una vez la mecánica de
 presentación y aplicarla a ambos.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

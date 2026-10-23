@@ -115,3 +115,5 @@ En pratique, l'exonération est attestée par le respect des conditions, plutôt
 ## Et ensuite
 
 Rapprochez chaque service imposable entrant du poste que vous fournissez en aval, et confirmez l'immatriculation de la contrepartie avant d'accepter une facture sans impôt. Lorsque l'impôt a été facturé alors que la B2B aurait dû s'appliquer, corrigez-le par note de crédit en vertu du règlement 11, ajustée dans la déclaration SST-02 de la période au cours de laquelle la note est émise.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

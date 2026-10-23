@@ -199,3 +199,5 @@ serta pembayaran pada satu peringatan yang sama. Jika anda sudah lewat, kenal
 pasti jalur tiga puluh hari anda sebelum memutuskan apa yang perlu dibayar:
 melintasi satu sempadan menambah kos 15%, dan menjelaskan liabiliti sebelum
 hari kesembilan puluh turut menghapuskan risiko pendakwaan.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

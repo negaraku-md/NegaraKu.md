@@ -189,3 +189,5 @@ Phép tính đó là lý do người sử dụng lao động dàn xếp tại h�
 ## Tiếp theo
 
 Nếu bạn là người lao động: hãy nộp kiến nghị tại văn phòng JPPM gần nhất ngay bây giờ và tiếp tục đàm phán song song. Nếu bạn là người sử dụng lao động: sự bào chữa được xây dựng trước khi sa thải, không phải sau — xem `domestic-inquiry-malaysia` để biết hồ sơ thủ tục mà Tòa sẽ tìm kiếm, và `termination-of-employment-malaysia` để chọn đúng tuyến ngay từ đầu.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

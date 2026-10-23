@@ -119,3 +119,5 @@ Một đốc công công trường lương RM6,500 giám sát lao động chân 
 ## Tiếp theo
 
 Hãy chạy dữ liệu chủ bảng lương của bạn theo hai cột: tiền lương loại trừ hoa hồng và phụ cấp, và loại công việc theo đoạn 2 của Phụ lục Thứ Nhất. Bất kỳ ai dưới RM4,000, hoặc trong một nhóm của đoạn 2 ở bất kỳ mức lương nào, đều có quyền hưởng các điều khoản lương ưu đãi. Sau đó hãy kiểm tra [hướng dẫn đầy đủ theo từng mục](/vi/employment/employment-act-1955-guide) để biết điều gì áp dụng cho mọi người bất kể.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

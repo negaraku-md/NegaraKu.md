@@ -246,3 +246,5 @@ gaji biasa, s.19(2) pada akhir periode gaji berikutnya untuk bayaran premium —
 rekonsiliasikan batas 104 jam setiap bulan dan bukan pada akhir tahun. Kemudian verifikasi
 staf Anda yang mana termasuk dalam [cakupan Jadwal Pertama](/id/employment/employment-act-coverage),
 karena tarif-tarif di atas hanya mengikat mereka.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

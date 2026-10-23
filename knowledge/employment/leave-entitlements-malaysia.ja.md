@@ -219,3 +219,5 @@ First Schedule paragraph 1により、サービス契約のもとにあるすべ
 再設定したうえで、残る6日の官報告示祝日に関するs.60D(1A)の通告が年の開始前に掲示
 されているか確認する。年ごとの日付については
 [州別の公共祝日](/ja/employment/public-holidays-malaysia)を参照。
+
+どの法律が適用されるか不明ですか？[マレーシアの労働法マップ](/ja/employment/labour-law-map-malaysia/)をご覧ください。

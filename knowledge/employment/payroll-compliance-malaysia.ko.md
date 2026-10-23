@@ -433,3 +433,5 @@ EIS](/en/employment/socso-eis-employer-guide); 다음으로 세금 원천징수 
 그런 다음 대부분의 불이행을 잡아내는 두 가지 감사를 수행하십시오: 세 개의 표본 급여에
 대해 급여 소프트웨어의 EPF 산출값을 제3부칙과 대조하고, 말레이시아인 직원 수를 HRD
 Corp 기준선과 대조하여 다시 세십시오.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

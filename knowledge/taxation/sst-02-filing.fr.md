@@ -142,3 +142,5 @@ Ne pas payer est une infraction distincte avec le même maximum. Les poursuites 
 ## Et ensuite
 
 Confirmez dans quel cycle bimestriel vous vous situez — il est fixé par votre date d'immatriculation, non par votre exercice financier — et placez la déclaration et le paiement sur un même rappel. Si vous êtes déjà en retard, repérez votre bande de trente jours avant de décider quoi payer : franchir une limite coûte 15 %, et régler l'obligation avant le quatre-vingt-dixième jour élimine aussi l'exposition aux poursuites pénales.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

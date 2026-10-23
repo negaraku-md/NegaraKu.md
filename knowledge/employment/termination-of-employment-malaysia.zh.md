@@ -301,3 +301,5 @@ keywords: ["termination of employment malaysia", "notice period malaysia", "at w
 ## 下一步
 
 在任何终止之前，先以书面确定三件事：适用四种途径中的哪一种、依第12(2)条以发出之日衡量所应给的通知期，以及依第20条或第21条在最后一天所到期的款项。然后针对该途径执行相应程序 — 不当行为见 `domestic-inquiry-malaysia`，裁员见 `retrenchment-malaysia` — 并在 `offboarding-statutory-checklist` 中完成法定申报，那里的税务清算预扣义务对董事与薪资人员构成个人风险。
+
+不确定适用哪部法律？查看[马来西亚劳动法导览](/zh/employment/labour-law-map-malaysia/)。

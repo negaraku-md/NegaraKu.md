@@ -189,3 +189,5 @@ Penghitungan itulah sebabnya pemberi kerja lebih suka menyelesaikan kasus di tah
 ## Langkah selanjutnya
 
 Jika Anda pekerja: ajukan representasi di kantor JPPM terdekat sekarang dan lanjutkan berunding secara paralel. Jika Anda pemberi kerja: pembelaan dibangun sebelum pemecatan, bukan setelahnya — lihat `domestic-inquiry-malaysia` untuk rekaman prosedur yang akan dicari oleh Mahkamah, dan `termination-of-employment-malaysia` untuk memilih jalur yang benar sejak awal.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

@@ -185,3 +185,5 @@ l'arithmétique de la divulgation volontaire.
 Les entreprises qui sont enregistrées devraient confirmer qu'elles reprennent bien les
 services importés dans la déclaration SST-02 plutôt que de déposer le SST-02A en
 parallèle.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

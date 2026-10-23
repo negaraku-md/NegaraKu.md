@@ -161,3 +161,5 @@ L'OSHA 1994 ne se soucie pas de la manière dont vous avez étiqueté la relatio
 ## Et ensuite
 
 Prenez vos trois missions de travailleurs indépendants les plus anciennes et évaluez chacune à l'aune du contrôle, de l'intégration, des outils, du remplacement et du risque. Lorsque deux ou plusieurs pointent vers l'intérieur, chiffrez dès maintenant l'exposition aux cotisations rétroactives. Si la mission est médiée par une plateforme, lisez la [Gig Workers Act 2025](/fr/employment/gig-workers-act-2025) pour la mécanique de la déduction et du Tribunal.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

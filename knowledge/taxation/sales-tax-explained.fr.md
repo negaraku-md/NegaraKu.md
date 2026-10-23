@@ -225,3 +225,5 @@ Sur un intrant coûtant RM1,000 ayant supporté une taxe de 5 %, majoré de 50 %
 Réglez trois questions dans l'ordre : vos biens sont-ils imposables ou exonérés, êtes-vous un fabricant au-dessus de RM500,000, et vos intrants supportent-ils une taxe que vous pourriez alléger au titre du Schedule B ou du Schedule C. Seule la troisième est discrétionnaire, et c'est celle qui modifie votre base de coûts.
 
 Une fois enregistrées, la taxe sur les ventes et la taxe sur les services sont déclarées sur la même déclaration SST-02 et suivent la même période imposable et le même régime de sanctions — de sorte que la mécanique de dépôt mérite d'être lue une fois et appliquée aux deux.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

@@ -531,3 +531,5 @@ de doce meses. Si compra servicios profesionales o de construcción a otros
 proveedores registrados, compruebe si la exención B2B retira el impuesto antes de
 pagarlo. Y si adquiere cualquiera de estos servicios desde fuera de Malasia, las
 reglas de los servicios imponibles importados se le aplican esté o no registrado.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

@@ -337,3 +337,5 @@ Setelah berdaftar, cukai jualan dan cukai perkhidmatan dilaporkan dalam
 penyata SST-02 yang sama dan mengikut tempoh bercukai serta rejim penalti
 yang sama — jadi mekanik pemfailan ini berbaloi dibaca sekali dan digunakan
 untuk kedua-duanya.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

@@ -219,3 +219,5 @@ keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "الجمارك �
 شأن Kastam، فابدأ من [شرح SST](/taxation/sst-explained) للخدمات والسلع التي
 تُورّدها، أو من ezHS لأي شيء تستورده. وإن كان سؤالًا عن دخل أو أرباح أو مستند،
 فاتّجه إلى [LHDN](/government/lhdn) بدلًا من ذلك.
+
+هل تريد الصورة الكاملة؟ اطّلع على [كيفية عمل ضريبة المبيعات والخدمات (SST) في ماليزيا](/ar/taxation/sst-explained/).

@@ -183,3 +183,5 @@ Act 807은 말레이시아가 서비스세를 부과할 수 있게 하는 법령
 ## 다음 단계
 
 실무 방식에 대해서는, RMCD의 **[MySST 포털](https://mysst.customs.gov.my/)**과 이 법에 따라 제정된 최신 명령에 대조하여 현재 세율, 기준, 과세 서비스 범주를 확인하고, **[법무장관실(Attorney General's Chambers)](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**에서 주요 법령 원문을 읽으십시오. 세율과 범위는 매 연방 예산안마다 바뀌므로, 여기의 수치에 따라 행동하기 전에 항상 이후 예산안이 이를 대체했는지 확인하십시오.
+
+전체 그림이 필요하신가요? [말레이시아 SST(판매·서비스세)의 작동 방식](/ko/taxation/sst-explained/)을 확인해 보세요.

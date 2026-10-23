@@ -200,3 +200,5 @@ keywords: ["RMCD", "Kastam", "Jabatan Kastam Diraja Malaysia", "customs duty Mal
 ## 다음으로 볼 것
 
 양식을 찾으러 가기 전에 여러분의 의무가 경계선의 어느 쪽에 속하는지 파악하십시오. 관세청 사안이라면, 여러분이 공급하는 서비스와 상품에 대해서는 [SST 설명](/en/taxation/sst-explained)에서, 수입하는 것에 대해서는 ezHS에서 시작하십시오. 소득·양도차익·문서의 문제라면 대신 [LHDN](/en/government/lhdn)으로 가십시오.
+
+전체 그림이 필요하신가요? [말레이시아 SST(판매·서비스세)의 작동 방식](/ko/taxation/sst-explained/)을 확인해 보세요.

@@ -190,3 +190,5 @@ ejercicio financiero — y ponga la declaración y el pago en un mismo recordato
 Si ya va con retraso, identifique su banda de treinta días antes de decidir qué
 pagar: cruzar una frontera cuesta un 15%, y liquidar la obligación antes del día
 noventa también elimina la exposición al proceso penal.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

@@ -176,3 +176,5 @@ quyết định cách tiếp cận RMCD — chế tài ngừng leo thang tại 4
 
 Các doanh nghiệp đã đăng ký nên xác nhận rằng họ đang thu nhận các dịch vụ nhập
 khẩu trong tờ khai SST-02 chứ không phải nộp SST-02A song song.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

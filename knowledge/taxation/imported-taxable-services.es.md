@@ -189,3 +189,5 @@ aritmética de la divulgación voluntaria.
 Las empresas que están registradas deberían confirmar que están recogiendo los
 servicios importados en la declaración SST-02 en lugar de presentar el SST-02A
 en paralelo.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

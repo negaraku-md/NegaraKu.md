@@ -301,3 +301,5 @@ Batas waktu pekerja adalah enam puluh hari dari tanggal pemecatan — atau, keti
 ## Apa selanjutnya
 
 Sebelum pengakhiran apa pun, selesaikan tiga hal secara tertulis: yang mana dari empat jalur itu yang berlaku, berapa notis yang terutang di bawah s.12(2) diukur pada tanggal pemberian, dan apa yang wajib dibayar pada hari terakhir di bawah s.20 atau s.21. Kemudian jalankan prosedur bagi jalur itu — `domestic-inquiry-malaysia` untuk pelanggaran, `retrenchment-malaysia` untuk kelebihan tenaga kerja — dan selesaikan pengisian berdasarkan undang-undang dalam `offboarding-statutory-checklist`, di mana kewajiban menahan pelepasan pajak menciptakan paparan pribadi kepada direktur dan pegawai penggajian.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

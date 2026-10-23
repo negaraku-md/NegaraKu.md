@@ -245,3 +245,5 @@ Mục 60K, riêng rẽ, yêu cầu sự phê duyệt trước của Tổng Giám
 Hãy kiểm tra ba điều trong tuần này. Thứ nhất, liệu hợp đồng chuẩn của bạn có còn ghi 48 giờ hay không. Thứ hai, liệu lịch bảng lương của bạn có tách thời hạn bảy ngày s.19(1) khỏi thời hạn kỳ-lương-tiếp-theo s.19(2) cho lương làm thêm giờ và ngày nghỉ hay không. Thứ ba, liệu thông báo s.81H có thực sự ở trên tường hay không.
 
 Sau đó hãy đọc các trang đồng hành về [những ai Đạo luật bao trùm](/vi/employment/employment-act-coverage) và về [giờ làm việc và làm thêm giờ](/vi/employment/working-hours-overtime-malaysia), và — nếu bạn thuê bất kỳ ai ở Đông Malaysia — cách xử lý riêng của hai Sắc lệnh Lao động.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

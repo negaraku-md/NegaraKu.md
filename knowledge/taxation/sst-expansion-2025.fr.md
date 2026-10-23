@@ -544,3 +544,5 @@ construction auprès d'autres prestataires enregistrés, vérifiez si l'exonéra
 B2B retire la taxe avant que vous ne la payiez. Et si vous acquérez l'un de ces
 services depuis l'extérieur de la Malaisie, les règles des services imposables
 importés s'appliquent à vous, que vous soyez enregistré ou non.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

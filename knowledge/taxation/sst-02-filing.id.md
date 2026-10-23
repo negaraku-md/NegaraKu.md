@@ -189,3 +189,5 @@ pembayaran pada satu pengingat yang sama. Jika Anda sudah terlambat, kenali jalu
 tiga puluh hari Anda sebelum memutuskan apa yang perlu dibayar: melintasi satu batas
 menambah biaya 15%, dan melunasi kewajiban sebelum hari kesembilan puluh juga
 menghapus risiko penuntutan.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

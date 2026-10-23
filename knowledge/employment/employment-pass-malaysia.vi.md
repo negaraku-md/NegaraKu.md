@@ -280,3 +280,5 @@ Các khoản phí pass và visa được công bố, trái với giả định p
 Nếu bạn có người nước ngoài gia hạn trong mười hai tháng tới, hãy chạy danh sách ngay bây giờ đối chiếu với các bậc mới và xác định mọi người có lương cơ bản dưới sàn của nhóm hiện tại của họ. Nhóm dân số đó là vấn đề ngân sách của bạn, và các ngày gia hạn của họ là các thời hạn của bạn.
 
 Sau đó hãy soạn thảo kế hoạch kế thừa trước ngày 1 tháng 1 năm 2027 thay vì sau đó — sự trì hoãn là sáu tháng thời gian chuẩn bị, không phải sáu tháng nhẹ nhõm. Và hãy kiểm tra cơ quan nào thực sự sở hữu hồ sơ của bạn, vì MDEC, IRDA và hai mươi ba cơ quan quản lý khác mỗi cơ quan thêm hàng đợi riêng của mình phía trước quyết định của Cục Di trú.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

@@ -152,3 +152,5 @@ elaun, serta kategori pekerjaan di bawah perenggan 2 Jadual Pertama. Sesiapa yan
 bawah RM4,000, atau berada dalam kategori perenggan 2 pada sebarang gaji, layak menerima
 peruntukan bayaran premium. Kemudian semak [panduan seksyen demi seksyen yang lengkap](/employment/employment-act-1955-guide)
 untuk apa yang terpakai kepada semua orang tanpa mengira status ini.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

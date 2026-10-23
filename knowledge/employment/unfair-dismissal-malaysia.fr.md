@@ -189,3 +189,5 @@ C'est cette arithmétique qui explique pourquoi les employeurs transigent lors d
 ## Et ensuite
 
 Si vous êtes le salarié : déposez la représentation au bureau du JPPM le plus proche dès maintenant et poursuivez la négociation en parallèle. Si vous êtes l'employeur : la défense se construit avant le licenciement, non après — voir `domestic-inquiry-malaysia` pour le dossier procédural que le Tribunal recherchera, et `termination-of-employment-malaysia` pour choisir la bonne voie dès le départ.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

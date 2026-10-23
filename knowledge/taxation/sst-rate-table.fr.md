@@ -187,3 +187,5 @@ Pour le détail secteur par secteur des groupes ajoutés en 2025, y compris
 l'allègement transitoire et celui des contrats non révisables, consultez le guide
 de l'extension. Pour savoir comment les seuils sont testés sur douze mois
 glissants, consultez le guide d'enregistrement.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

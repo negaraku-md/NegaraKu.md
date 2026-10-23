@@ -115,3 +115,5 @@ Un capataz de obra con RM6,500 que supervisa a trabajadores manuales durante tod
 ## Qué sigue
 
 Pase su maestro de nómina por dos columnas: el salario excluyendo comisión y pluses, y la categoría de trabajo conforme al párrafo 2 del Primer Anexo. Cualquiera por debajo de RM4,000, o en una categoría del párrafo 2 a cualquier salario, tiene derecho a las disposiciones de pago con prima. Luego consulte la [guía completa artículo por artículo](/en/employment/employment-act-1955-guide) para lo que se aplica a todos por igual.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

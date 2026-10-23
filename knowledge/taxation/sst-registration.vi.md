@@ -302,3 +302,5 @@ Sau khi đăng ký, phần cơ chế chuyển sang các kỳ tính thuế, tờ 
 độ phạt nộp chậm. Nếu bạn mua dịch vụ từ các nhà cung cấp ngoài Malaysia, hãy
 kiểm tra thêm các quy tắc về dịch vụ chịu thuế nhập khẩu: những quy tắc đó áp
 dụng bất kể bạn có đăng ký hay không.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

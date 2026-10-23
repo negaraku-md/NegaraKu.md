@@ -173,3 +173,5 @@ L'article 60(1) est celui que l'on oublie : aucun salarié ne peut être **contr
 ## Et ensuite
 
 Scindez votre calendrier de paie en deux délais — l'art. 19(1) à sept jours pour les salaires ordinaires, l'art. 19(2) à la fin de la période salariale suivante pour la rémunération majorée — et rapprochez le plafond de 104 heures chaque mois plutôt qu'en fin d'année. Confirmez ensuite lesquels de vos salariés relèvent de la [couverture de la première annexe](/fr/employment/employment-act-coverage), car les taux ci-dessus ne s'imposent que pour eux.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

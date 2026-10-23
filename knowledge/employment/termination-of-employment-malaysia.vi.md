@@ -306,3 +306,5 @@ Chiếc đồng hồ của người lao động là sáu mươi ngày kể từ 
 ## Tiếp theo
 
 Trước bất kỳ sự chấm dứt nào, hãy giải quyết ba điều bằng văn bản: tuyến nào trong bốn tuyến áp dụng, báo trước nào phải trả theo s.12(2) được đo tại ngày đưa ra, và điều gì đến hạn vào ngày cuối cùng theo s.20 hoặc s.21. Rồi hãy làm quy trình cho tuyến đó — `domestic-inquiry-malaysia` cho hành vi sai trái, `retrenchment-malaysia` cho dôi dư — và hoàn tất các lần nộp hồ sơ theo luật trong `offboarding-statutory-checklist`, nơi nghĩa vụ giữ lại chờ xác nhận thanh toán thuế tạo ra sự phơi nhiễm cá nhân cho các giám đốc và cán bộ bảng lương.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

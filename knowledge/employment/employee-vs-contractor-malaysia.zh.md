@@ -192,3 +192,5 @@ Shipping Ordinances 下的船舶除外。
 拿出你聘期最长的三份承包聘约，逐一按控制、融入、工具、代理履行与风险打分。凡有两项
 或以上指向组织内部的，现在就把补缴的风险敞口估个价。若该聘约经平台中介，请阅读
 [Gig Workers Act 2025](/zh/employment/gig-workers-act-2025)，了解扣除与仲裁庭的运作细节。
+
+不确定适用哪部法律？查看[马来西亚劳动法导览](/zh/employment/labour-law-map-malaysia/)。

@@ -189,3 +189,5 @@ Pengiraan itulah sebabnya majikan lebih suka menyelesaikan kes di peringkat pend
 ## Langkah seterusnya
 
 Jika anda pekerja: failkan representasi di pejabat JPPM yang terdekat sekarang dan teruskan berunding secara selari. Jika anda majikan: pembelaan dibina sebelum pembuangan kerja, bukan selepasnya — lihat `domestic-inquiry-malaysia` untuk rekod prosedur yang akan dicari oleh Mahkamah, dan `termination-of-employment-malaysia` untuk memilih laluan yang betul sejak awal.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

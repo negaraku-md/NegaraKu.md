@@ -252,3 +252,5 @@ Seksyen 60M dan 60N kemudian mengawal imbangan tempatan–asing. Tiada majikan b
 Sebelum apa-apa yang lain, jalankan tapisan s.60K(4) terhadap syarikat anda sendiri: mana-mana perintah, arahan hidup atau sabitan belum selesai di bawah Akta Kerja, PERKESO, Akta 446 atau Akta gaji minimum, dan mana-mana perkara pemerdagangan atau buruh paksa. Selesaikannya dahulu, kerana ia akan muncul sebagai penolakan yang tidak dijelaskan pada masa yang paling teruk.
 
 Kemudian bina kalendar ke belakang dari tarikh tamat tempoh pas — lanjutan pada tolak tiga bulan, FOMEMA bagi tahun kedua dan ketiga, dan jam pelaporan 14 hari dan 30 hari dalam s.60KA bagi sesiapa yang pergi.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

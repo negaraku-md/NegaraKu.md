@@ -251,3 +251,5 @@ General's Chambers](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/
 Vì các thuế suất và phạm vi dịch chuyển với mỗi ngân sách liên bang, hãy luôn kiểm tra
 liệu một ngân sách sau này có thay thế các con số ở đây hay không trước khi hành động
 dựa trên chúng.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

@@ -199,3 +199,5 @@ berbanding Perintah tersebut. Kemudian pastikan jumlah kasar yang terhasil
 adalah sama dengan atau melebihi RM1,700 sebelum potongan berkanun — gaji
 minimum adalah lantai bagi gaji yang perlu dibayar, bukan bagi gaji bersih
 yang dibawa pulang.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

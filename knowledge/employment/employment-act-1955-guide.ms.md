@@ -353,3 +353,5 @@ bayaran hari rehat. Ketiga, sama ada notis s.81H benar-benar terpampang di dindi
 Kemudian baca halaman iringan tentang [siapa yang dilindungi Akta](/ms/employment/employment-act-coverage) dan tentang
 [waktu kerja dan kerja lebih masa](/ms/employment/working-hours-overtime-malaysia), dan — jika anda menggaji sesiapa
 di Malaysia Timur — layanan berasingan bagi kedua-dua Ordinan Buruh.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

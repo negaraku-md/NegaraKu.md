@@ -327,3 +327,5 @@ yang ketiga bersifat diskresioner, dan itulah yang mengubah dasar biaya Anda.
 Setelah terdaftar, pajak penjualan dan pajak jasa dilaporkan dalam laporan SST-02
 yang sama dan mengikuti masa pajak serta rezim penalti yang sama — jadi mekanik
 pengajuan ini layak dibaca sekali dan digunakan untuk keduanya.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

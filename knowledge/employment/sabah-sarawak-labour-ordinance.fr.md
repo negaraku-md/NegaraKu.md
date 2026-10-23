@@ -154,3 +154,5 @@ La Part IVA — normes minimales de logement, d'hébergement et de services aux 
 ## Et ensuite
 
 Extrayez votre effectif par lieu de travail. Pour chaque salarié à Sabah ou Sarawak, revérifiez l'éligibilité aux heures supplémentaires, le droit au congé de maternité et de paternité et la procédure de travail flexible au regard de l'ordonnance pertinente et non de la Act 265. Confirmez ensuite le statut actuel d'entrée en vigueur de la Part IVA directement auprès du JTK Sabah ou du JTK Sarawak — c'est la seule pièce mobile.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

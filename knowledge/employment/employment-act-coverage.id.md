@@ -152,3 +152,5 @@ tunjangan, serta kategori pekerjaan di bawah paragraf 2 Jadwal Pertama. Siapa pu
 bawah RM4,000, atau berada dalam kategori paragraf 2 pada gaji berapa pun, berhak menerima
 ketentuan pembayaran premium. Kemudian periksa [panduan pasal demi pasal yang lengkap](/id/employment/employment-act-1955-guide)
 untuk apa yang berlaku bagi semua orang tanpa memandang status ini.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

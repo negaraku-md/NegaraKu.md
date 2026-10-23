@@ -252,3 +252,5 @@ Các mục 60M và 60N sau đó điều chỉnh cán cân địa phương–nư�
 Trước hết, hãy chạy màn sàng lọc s.60K(4) đối với chính công ty bạn: bất kỳ mệnh lệnh, chỉ thị đang có hiệu lực hoặc bản án chưa được giải quyết nào theo Employment Act, SOCSO, Act 446 hoặc Luật lương tối thiểu, và bất kỳ vấn đề buôn người hoặc lao động cưỡng bức nào. Hãy giải quyết những cái đó trước, vì chúng sẽ nổi lên như một sự từ chối không giải thích được vào thời điểm tệ nhất có thể.
 
 Rồi hãy dựng lịch ngược từ ngày hết hạn của giấy phép — gia hạn ở mốc trừ ba tháng, FOMEMA cho năm thứ hai và thứ ba, và các đồng hồ báo cáo 14 ngày và 30 ngày trong s.60KA cho bất kỳ ai rời đi.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

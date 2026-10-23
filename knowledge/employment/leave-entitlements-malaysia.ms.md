@@ -235,3 +235,5 @@ Konfigurasikan semula kategori cuti sakit dan cuti hospitalisasi dalam sistem pe
 sebagai kaunter yang berasingan, kemudian pastikan notis s.60D(1A) bagi baki enam cuti
 yang diwartakan dipaparkan sebelum tahun tersebut bermula. Untuk tarikh bagi tahun
 tersebut, lihat [cuti umum mengikut negeri](/employment/public-holidays-malaysia).
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

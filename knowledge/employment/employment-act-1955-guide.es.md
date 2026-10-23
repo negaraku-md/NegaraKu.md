@@ -245,3 +245,5 @@ El artículo 60K, por separado, exige la aprobación previa del Director General
 Revise tres cosas esta semana. Primero, si su contrato estándar todavía dice 48 horas. Segundo, si su calendario de nómina separa el plazo de siete días del art. 19(1) del plazo del período salarial siguiente del art. 19(2) para las horas extra y el pago del día de descanso. Tercero, si el aviso del art. 81H está realmente en la pared.
 
 Luego lea las páginas complementarias sobre [a quién cubre la Ley](/en/employment/employment-act-coverage) y sobre [jornada y horas extra](/en/employment/working-hours-overtime-malaysia), y —si emplea a alguien en Malasia Oriental— el tratamiento separado de las dos Ordenanzas Laborales.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

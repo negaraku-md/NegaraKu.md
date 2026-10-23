@@ -218,3 +218,5 @@ keywords: ["overtime pay malaysia", "overtime rate malaysia", "45 hour week mala
 다음 임금 기간 종료 — 그리고 104시간 상한을 연말이 아니라 매월 대조하십시오. 그런 다음 어느 직원이
 [제1부칙 적용 범위](/en/employment/employment-act-coverage) 안에 속하는지 확인하십시오. 위의
 요율은 그들에게만 구속력이 있기 때문입니다.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

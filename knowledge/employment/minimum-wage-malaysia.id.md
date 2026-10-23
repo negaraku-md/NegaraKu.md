@@ -199,3 +199,5 @@ dibandingkan Perintah tersebut. Kemudian pastikan jumlah kotor yang dihasilkan
 sama dengan atau melebihi RM1,700 sebelum potongan statutori — upah
 minimum adalah batas bawah bagi gaji yang harus dibayar, bukan bagi gaji bersih
 yang dibawa pulang.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

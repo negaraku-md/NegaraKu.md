@@ -319,3 +319,5 @@ penyata SST-02 dan rejim penalti bayaran lewat. Jika anda membeli perkhidmatan
 daripada pembekal di luar Malaysia, semak juga peraturan perkhidmatan kena
 cukai yang diimport: peraturan itu terpakai sama ada anda berdaftar ataupun
 tidak.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

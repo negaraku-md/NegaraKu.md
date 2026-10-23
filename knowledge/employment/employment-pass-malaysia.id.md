@@ -275,3 +275,5 @@ Biaya pas dan visa diterbitkan, berbeda dengan asumsi lazim bahwa ia berserakan.
 Jika Anda memiliki ekspatriat yang memperbarui dalam dua belas bulan mendatang, jalankan daftar itu sekarang terhadap rentang baru dan identifikasi siapa pun yang gaji pokoknya jatuh di bawah ambang minimum bagi kategori mereka saat ini. Populasi itu adalah masalah anggaran Anda, dan tanggal pembaruan mereka adalah tenggat Anda.
 
 Kemudian dapatkan rencana suksesi disusun sebelum 1 Januari 2027 dan bukan setelahnya — penundaan itu adalah enam bulan masa persiapan, bukan enam bulan kelegaan. Dan periksa lembaga mana yang sebenarnya memiliki berkas Anda, karena MDEC, IRDA, dan dua puluh tiga regulator lainnya masing-masing menambah antrean mereka sendiri di depan keputusan Imigrasi.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

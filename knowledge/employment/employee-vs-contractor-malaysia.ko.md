@@ -200,3 +200,5 @@ Act 1955), 사바 노동법(Sabah Labour Ordinance), 사라왁 노동법(Sarawak
 채점하십시오. 둘 이상이 안쪽을 가리키는 경우, 지금 소급 기여금 노출액을 산정하십시오. 그 계약이
 플랫폼을 매개로 한 것이라면, 공제와 심판소의 작동 방식에 대해
 [긱 근로자법 2025](/en/employment/gig-workers-act-2025)를 읽으십시오.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

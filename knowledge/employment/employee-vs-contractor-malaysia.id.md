@@ -231,3 +231,5 @@ lebih menunjuk ke dalam, hitung nilai eksposur iuran mundur sekarang. Jika
 keterlibatan itu diperantarai oleh platform, baca
 [Gig Workers Act 2025](/id/employment/gig-workers-act-2025) untuk mekanisme potongan dan
 Tribunal.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

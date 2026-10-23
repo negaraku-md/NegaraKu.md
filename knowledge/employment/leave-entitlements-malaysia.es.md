@@ -244,3 +244,5 @@ como contadores separados, y luego compruebe que el aviso del art. 60D(1A) sobre
 seis días festivos restantes publicados en el boletín oficial se exhibe antes de que
 comience el año. Para las fechas del año, consulte los
 [días festivos públicos por estado](/en/employment/public-holidays-malaysia).
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

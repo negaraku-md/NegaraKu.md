@@ -94,3 +94,5 @@ Việc bao phủ **lao động nước ngoài** khác nhau rõ rệt trên cả 
 ## Tiếp theo
 
 Nếu bạn đang thiết lập bảng lương lần đầu, hãy bắt đầu với lịch tuân thủ bảng lương, vốn sắp xếp mọi nghĩa vụ theo thời điểm nó đến hạn chứ không theo cơ quan nào thu nó. Nếu bảng lương đã chạy và bạn cần kiểm tra một con số đơn lẻ, tài liệu tham khảo về mức và thời hạn theo luật đưa ra mỗi con số cùng cơ quan công bố nó.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

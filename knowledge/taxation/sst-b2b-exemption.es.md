@@ -159,3 +159,5 @@ hacia adelante, y confirme el registro de la contraparte antes de aceptar una
 factura sin impuesto. Cuando se haya cobrado impuesto y debió aplicarse la B2B,
 corríjalo mediante nota de crédito en virtud del reglamento 11, ajustada en la
 declaración SST-02 del periodo en que se emite la nota.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

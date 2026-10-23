@@ -353,3 +353,5 @@ pembayaran hari istirahat. Ketiga, apakah notis Pasal 81H benar-benar terpampang
 Kemudian baca halaman pendamping tentang [siapa yang dilindungi Akta](/id/employment/employment-act-coverage) dan tentang
 [waktu kerja dan kerja lembur](/id/employment/working-hours-overtime-malaysia), dan — jika Anda mempekerjakan seseorang
 di Malaysia Timur — penanganan terpisah bagi kedua Ordinan Buruh.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

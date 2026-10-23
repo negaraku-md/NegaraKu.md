@@ -179,3 +179,5 @@ keywords: ["SST rate table", "service tax groups Malaysia", "Group A to M servic
 경과 및 재검토 불가 계약 감면을 포함하여 2025년에 추가된 그룹에 대한 부문별 세부
 사항은 확대 안내를 참고하십시오. 기준이 이동 12개월 동안 어떻게 판정되는지는 등록
 안내를 참고하십시오.
+
+전체 그림이 필요하신가요? [말레이시아 SST(판매·서비스세)의 작동 방식](/ko/taxation/sst-explained/)을 확인해 보세요.

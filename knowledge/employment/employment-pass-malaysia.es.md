@@ -275,3 +275,5 @@ Las tasas del pase y del visado están publicadas, en contra del supuesto común
 Si tiene expatriados que renuevan en los próximos doce meses, repase ahora la lista frente a las nuevas bandas e identifique a todos aquellos cuyo salario base cae por debajo del mínimo de su categoría actual. Esa población es su problema presupuestario, y sus fechas de renovación son sus plazos.
 
 Luego, haga redactar el plan de sucesión antes del 1 de enero de 2027 en lugar de después — el aplazamiento son seis meses de tiempo de preparación, no seis meses de alivio. Y compruebe qué agencia posee realmente su expediente, porque MDEC, IRDA y los otros veintitrés reguladores añaden cada uno su propia cola por delante de la decisión de Inmigración.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

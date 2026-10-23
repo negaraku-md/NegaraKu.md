@@ -209,3 +209,5 @@ Sarawak, tinjau ulang kelayakan lembur, kelayakan cuti melahirkan dan paternitas
 prosedur kerja fleksibel berdasarkan Ordinance yang bersangkutan dan bukan Akta 265. Kemudian
 verifikasi status mulai berlaku terkini Bagian IVA langsung dengan JTK Sabah atau JTK Sarawak — itulah
 satu-satunya bagian yang masih bergerak.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

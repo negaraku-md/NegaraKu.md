@@ -306,3 +306,5 @@ Le délai du salarié est de soixante jours à compter du licenciement — ou, l
 ## Et ensuite
 
 Avant toute rupture, réglez trois choses par écrit : laquelle des quatre voies s'applique, quel préavis est dû au titre de l'art. 12(2) mesuré à la date où il est donné, et ce qui est exigible le dernier jour au titre de l'art. 20 ou de l'art. 21. Travaillez ensuite la procédure de cette voie — `domestic-inquiry-malaysia` pour la faute, `retrenchment-malaysia` pour la suppression de poste — et clôturez les dépôts légaux dans `offboarding-statutory-checklist`, où l'obligation de retenue pour le quitus fiscal crée une exposition personnelle pour les administrateurs et les responsables de la paie.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

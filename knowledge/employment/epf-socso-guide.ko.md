@@ -107,3 +107,5 @@ keywords: ["EPF SOCSO EIS Malaysia", "statutory contributions employer Malaysia"
 처음으로 급여를 설정한다면, 어느 기관이 징수하는지가 아니라 언제 부과되는지에 따라 모든 의무를
 배열하는 급여 준수 달력부터 시작하십시오. 이미 급여가 운영 중이고 단일 수치를 확인해야 한다면,
 법정 요율과 기한 참조가 각 숫자를 그것을 게시하는 기관과 함께 제공합니다.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

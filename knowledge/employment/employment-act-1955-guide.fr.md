@@ -245,3 +245,5 @@ L'article 60K, séparément, exige l'approbation préalable du Directeur génér
 Vérifiez trois choses cette semaine. Premièrement, si votre contrat type indique encore 48 heures. Deuxièmement, si votre calendrier de paie distingue le délai de sept jours de l'art. 19(1) du délai de la période de paie suivante de l'art. 19(2) pour les heures supplémentaires et la paie du jour de repos. Troisièmement, si l'avis de l'art. 81H est réellement au mur.
 
 Lisez ensuite les pages complémentaires sur [qui la Loi couvre](/fr/employment/employment-act-coverage) et sur [la durée du travail et les heures supplémentaires](/fr/employment/working-hours-overtime-malaysia), et — si vous employez quelqu'un en Malaisie orientale — le traitement distinct des deux Ordonnances du travail.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

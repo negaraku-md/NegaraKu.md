@@ -119,3 +119,5 @@ kapan ia perlu disetorkan alih-alih menurut lembaga mana yang memungutnya.
 Jika penggajian sudah berjalan dan Anda hanya perlu memeriksa satu angka,
 rujukan tarif dan tenggat statutori memberikan setiap angka beserta pihak
 otoritas yang menerbitkannya.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

@@ -183,3 +183,5 @@ Oleh sebab statut ini kekal tetapi kadar dan skopnya berubah dengan setiap belan
 ## Apa seterusnya
 
 Untuk mekanik praktikal, sahkan kadar semasa, ambang dan kategori perkhidmatan bercukai terhadap **[portal MySST](https://mysst.customs.gov.my/)** JKDM dan perintah terkini yang dibuat di bawah Akta, dan baca teks statut utama di **[Jabatan Peguam Negara](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**. Oleh sebab kadar dan skop berubah dengan setiap belanjawan persekutuan, sentiasa semak sama ada belanjawan kemudian telah menggantikan angka di sini sebelum bertindak ke atasnya.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

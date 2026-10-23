@@ -161,3 +161,5 @@ A la OSHA 1994 no le importa cómo haya etiquetado la relación. El artículo 17
 ## Qué sigue
 
 Tome sus tres encargos de contratistas de mayor duración y evalúe cada uno frente al control, la integración, las herramientas, la sustitución y el riesgo. Cuando dos o más apunten hacia dentro, cuantifique ahora la exposición por contribuciones retroactivas. Si el encargo está mediado por plataforma, lea la [Ley de Trabajadores de Plataforma de 2025](/en/employment/gig-workers-act-2025) para la mecánica de la deducción y del Tribunal.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

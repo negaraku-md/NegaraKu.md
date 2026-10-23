@@ -115,3 +115,5 @@ Un chef de chantier à RM6,500 qui supervise des travailleurs manuels pendant to
 ## La suite
 
 Passez votre fichier maître de paie à travers deux colonnes : le salaire hors commission et indemnités, et la catégorie de travail selon le paragraphe 2 du Premier Barème. Quiconque est en dessous de RM4,000, ou dans une catégorie du paragraphe 2 à tout salaire, a droit aux dispositions de paie à prime. Consultez ensuite le [guide complet article par article](/fr/employment/employment-act-1955-guide) pour ce qui s'applique à tous de la même manière.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

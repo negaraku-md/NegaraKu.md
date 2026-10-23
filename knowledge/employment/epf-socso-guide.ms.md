@@ -120,3 +120,5 @@ bila ia perlu dijelaskan dan bukannya mengikut agensi mana yang mengutipnya.
 Jika penggajian sudah berjalan dan anda hanya perlu menyemak satu angka,
 rujukan kadar dan tarikh akhir statutori memberikan setiap angka berserta
 pihak berkuasa yang menerbitkannya.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

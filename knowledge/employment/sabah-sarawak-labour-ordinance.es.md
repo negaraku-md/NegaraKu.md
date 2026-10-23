@@ -205,3 +205,5 @@ comprobar la elegibilidad para horas extra, el derecho a baja por maternidad y p
 procedimiento de trabajo flexible frente a la Ordenanza correspondiente y no frente a la Act 265.
 Luego confirme el estado actual de entrada en vigor de la Parte IVA directamente con el JTK Sabah
 o el JTK Sarawak — esa es la única pieza en movimiento.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

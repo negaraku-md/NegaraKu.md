@@ -235,3 +235,5 @@ Konfigurasi ulang kategori cuti sakit dan cuti rawat inap dalam sistem penggajia
 sebagai penghitung yang terpisah, kemudian pastikan pemberitahuan s.60D(1A) bagi sisa enam cuti
 yang diwartakan ditampilkan sebelum tahun tersebut dimulai. Untuk tanggal bagi tahun
 tersebut, lihat [cuti umum menurut negara bagian](/id/employment/public-holidays-malaysia).
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

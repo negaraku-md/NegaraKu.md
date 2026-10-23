@@ -225,3 +225,5 @@ Hãy cấu hình lại các nhóm nghỉ ốm và nghỉ nằm viện trong bả
 rồi kiểm tra rằng thông báo s.60D(1A) về sáu ngày nghỉ lễ đã đăng công báo còn lại được
 niêm yết trước khi năm bắt đầu. Đối với các ngày trong năm hãy xem
 [các ngày nghỉ lễ công theo bang](/vi/employment/public-holidays-malaysia).
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

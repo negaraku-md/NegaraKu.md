@@ -213,3 +213,5 @@ keywords: ["annual leave malaysia", "sick leave malaysia", "hospitalisation leav
 병가와 입원 휴가 버킷을 급여에서 별도의 카운터로 재구성한 뒤, 나머지 6개 관보 공휴일에
 대한 제60D(1A)조 공지가 연초 이전에 게시되는지 확인하십시오. 해당 연도의 날짜는
 [주별 공휴일](/en/employment/public-holidays-malaysia)을 참조하십시오.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

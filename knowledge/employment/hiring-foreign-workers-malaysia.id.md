@@ -252,3 +252,5 @@ Seksyen 60M dan 60N kemudian mengatur keseimbangan lokal–asing. Tidak ada pemb
 Sebelum hal lainnya, jalankan penyaringan s.60K(4) terhadap perusahaan Anda sendiri: perintah, arahan aktif atau vonis apa pun yang belum selesai di bawah Akta Kerja, PERKESO, Akta 446 atau Akta upah minimum, dan perkara perdagangan atau kerja paksa apa pun. Selesaikan dulu, karena ia akan muncul sebagai penolakan yang tidak dijelaskan pada saat yang paling buruk.
 
 Kemudian bangun kalender ke belakang dari tanggal berakhirnya pas — perpanjangan pada minus tiga bulan, FOMEMA bagi tahun kedua dan ketiga, dan jam pelaporan 14 hari dan 30 hari dalam s.60KA bagi siapa pun yang pergi.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

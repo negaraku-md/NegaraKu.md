@@ -183,3 +183,5 @@ Parce que la loi est durable mais que ses taux et son champ changent à chaque b
 ## La suite
 
 Pour la mécanique pratique, confirmez les taux, les seuils et les catégories de services taxables en vigueur au regard du **[portail MySST](https://mysst.customs.gov.my/)** du RMCD et des derniers arrêtés pris en vertu de la loi, et lisez le texte de la loi primaire au **[Cabinet du Procureur général](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**. Comme les taux et le champ évoluent à chaque budget fédéral, vérifiez toujours si un budget ultérieur a remplacé les chiffres présentés ici avant d'agir sur leur base.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

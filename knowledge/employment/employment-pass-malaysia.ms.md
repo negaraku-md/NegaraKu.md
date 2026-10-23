@@ -275,3 +275,5 @@ Yuran pas dan visa diterbitkan, berbeza dengan andaian lazim bahawa ia berselera
 Jika anda mempunyai ekspatriat yang memperbaharui dalam dua belas bulan akan datang, jalankan senarai itu sekarang terhadap julat baharu dan kenal pasti sesiapa yang gaji pokoknya jatuh di bawah paras minimum bagi kategori semasa mereka. Populasi itu ialah masalah bajet anda, dan tarikh pembaharuan mereka ialah tarikh akhir anda.
 
 Kemudian dapatkan pelan penggantian dirangka sebelum 1 Januari 2027 dan bukan selepasnya — penangguhan itu ialah enam bulan masa persediaan, bukan enam bulan kelegaan. Dan semak agensi mana yang sebenarnya memiliki fail anda, kerana MDEC, IRDA dan dua puluh tiga pengawal selia yang lain masing-masing menambah barisan mereka sendiri di hadapan keputusan Imigresen.
+
+Tidak pasti undang-undang mana yang terpakai? Lihat [peta undang-undang buruh Malaysia](/employment/labour-law-map-malaysia/).

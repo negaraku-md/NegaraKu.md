@@ -321,3 +321,5 @@ keywords: ["employment act 1955", "employment act malaysia", "act 265", "employm
 그런 다음 [이 법이 누구를 적용하는지](/en/employment/employment-act-coverage)와
 [근로시간 및 초과근무](/en/employment/working-hours-overtime-malaysia)에 관한 함께 읽을 페이지를,
 그리고 — 동말레이시아에 누군가를 고용하고 있다면 — 두 노동법에 대한 별도의 취급을 읽으십시오.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

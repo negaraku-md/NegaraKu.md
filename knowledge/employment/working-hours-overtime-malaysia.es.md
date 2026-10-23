@@ -173,3 +173,5 @@ El artículo 60(1) es el que la gente olvida: ningún empleado puede ser **oblig
 ## Qué sigue
 
 Divida su calendario de nómina en dos plazos — el art. 19(1) a los siete días para los salarios ordinarios, el art. 19(2) al final del siguiente período salarial para la retribución con recargo — y concilie el tope de 104 horas mensualmente, no a fin de año. Luego confirme cuáles de sus empleados quedan dentro de la [cobertura del Primer Anexo](/en/employment/employment-act-coverage), porque las tarifas anteriores solo son vinculantes para ellos.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

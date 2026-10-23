@@ -183,3 +183,5 @@ Karena statuta ini tetap tetapi tarif dan cakupannya berubah dengan setiap angga
 ## Apa selanjutnya
 
 Untuk mekanik praktis, pastikan tarif saat ini, ambang, dan kategori jasa kena pajak terhadap **[portal MySST](https://mysst.customs.gov.my/)** JKDM dan perintah terkini yang dibuat di bawah Undang-Undang, dan baca teks statuta utama di **[Jabatan Peguam Negara](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**. Karena tarif dan cakupan berubah dengan setiap anggaran federal, selalu periksa apakah anggaran berikutnya telah menggantikan angka di sini sebelum bertindak atasnya.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

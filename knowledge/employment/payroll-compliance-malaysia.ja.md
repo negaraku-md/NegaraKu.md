@@ -323,3 +323,5 @@ HRD Corpの適用範囲は、業種別のものだと誤解されがちである
 資金が口座から出ていく順序に沿って、制度別のページを読み進めてほしい：まず[EPF](/ja/employment/epf-employer-guide)——Third Scheduleの仕組みが最も誤って実装されやすいためである。次に[SOCSOとEIS](/ja/employment/socso-eis-employer-guide)で上限とカテゴリーを確認する。そして[PCB/MTD](/ja/employment/pcb-mtd-malaysia)で税額源泉徴収の経路と、それに時折付随するCP38指令を確認する。非国籍者を雇用している場合、[2%のEPF義務](/ja/employment/epf-foreign-workers-malaysia)がこの一連の義務の中で最も新しく、システムから抜け落ちている可能性が最も高いものである。
 
 その上で、ほとんどの不履行を発見できる2つの監査を行うこと：給与ソフトウェアが算出するEPFの金額を、3件のサンプル給与についてThird Scheduleと突き合わせて照合すること、そしてマレーシア人従業員数をHRD Corpの閾値と照らして数え直すこと。
+
+どの法律が適用されるか不明ですか？[マレーシアの労働法マップ](/ja/employment/labour-law-map-malaysia/)をご覧ください。

@@ -190,3 +190,5 @@ Industrial Relations (Amendment) Act 2020（Act A1615）**于 2021 年 1 月 1 �
 ## 下一步
 
 如果你是雇员：现在就到最近的 JPPM 办事处提出陈情，并同时继续谈判。如果你是雇主：抗辩是在解雇之前而不是之后建立的——见 `domestic-inquiry-malaysia` 了解法庭会寻找的程序记录，以及 `termination-of-employment-malaysia` 了解一开始该如何选对路径。
+
+不确定适用哪部法律？查看[马来西亚劳动法导览](/zh/employment/labour-law-map-malaysia/)。

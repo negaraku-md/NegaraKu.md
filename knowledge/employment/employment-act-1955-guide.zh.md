@@ -305,3 +305,5 @@ keywords: ["employment act 1955", "employment act malaysia", "act 265", "employm
 然后阅读关于[该法令涵盖谁](/zh/employment/employment-act-coverage)以及
 [工时与加班](/zh/employment/working-hours-overtime-malaysia)的配套页面，
 而如果你在东马雇用任何人 — 还请阅读两部《劳工法令》的单独处理内容。
+
+不确定适用哪部法律？查看[马来西亚劳动法导览](/zh/employment/labour-law-map-malaysia/)。

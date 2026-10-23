@@ -324,3 +324,5 @@ Trois changements en vigueur, dont chacun invalide les grilles de taux publiées
 Parcourez les pages spécifiques à chaque régime dans l'ordre où l'argent quitte votre compte : [EPF](/fr/employment/epf-employer-guide) en premier, car la mécanique du Third Schedule est celle qui est le plus souvent mal implémentée ; puis [SOCSO et EIS](/fr/employment/socso-eis-employer-guide) pour confirmer votre plafond et vos catégories ; puis [PCB/MTD](/fr/employment/pcb-mtd-malaysia) pour le flux de retenue fiscale et les directives CP38 qui l'accompagnent occasionnellement. Si vous employez des non-citoyens, le [mandat de 2 pour cent de l'EPF](/fr/employment/epf-foreign-workers-malaysia) est l'obligation la plus récente de l'ensemble et celle qui a le plus de chances de manquer dans votre système.
 
 Faites ensuite les deux audits qui détectent la plupart des défauts : rapprochez la sortie EPF de votre logiciel de paie du Third Schedule pour trois salaires échantillons, et recomptez votre effectif malaisien au regard du seuil de HRD Corp.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

@@ -524,3 +524,5 @@ pembinaan daripada penyedia berdaftar lain, semak sama ada pengecualian B2B
 mengeluarkan cukai sebelum anda membayarnya. Dan jika anda memperoleh mana-mana
 perkhidmatan ini dari luar Malaysia, peraturan perkhidmatan bercukai yang diimport
 terpakai kepada anda sama ada anda berdaftar atau tidak.
+
+Perlukan gambaran penuh? Lihat [cara SST berfungsi di Malaysia](/taxation/sst-explained/).

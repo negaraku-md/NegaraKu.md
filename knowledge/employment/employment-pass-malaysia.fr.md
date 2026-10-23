@@ -280,3 +280,5 @@ Les frais de passe et de visa sont publiés, contrairement à l'hypothèse coura
 Si vous avez des expatriés dont le passe se renouvelle au cours des douze prochains mois, passez la liste en revue dès maintenant face aux nouvelles tranches et identifiez tous ceux dont le salaire de base tombe en dessous du plancher de leur catégorie actuelle. Cette population est votre problème budgétaire, et leurs dates de renouvellement sont vos échéances.
 
 Puis faites rédiger le plan de succession avant le 1 janvier 2027 plutôt qu'après — le report représente six mois de temps de préparation, et non six mois de répit. Et vérifiez quelle agence détient réellement votre dossier, car MDEC, IRDA et les vingt-trois autres régulateurs ajoutent chacun leur propre file en amont de la décision d'Immigration.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

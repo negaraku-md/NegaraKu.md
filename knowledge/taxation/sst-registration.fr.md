@@ -309,3 +309,5 @@ Une fois enregistré, la mécanique passe aux périodes imposables, aux déclara
 SST-02 et au régime des pénalités de paiement tardif. Si vous achetez des services à
 des fournisseurs situés hors de Malaisie, vérifiez également les règles des services
 imposables importés : elles s'appliquent que vous soyez enregistré ou non.
+
+Vous voulez une vue d’ensemble ? Voyez [comment fonctionne la SST en Malaisie](/fr/taxation/sst-explained/).

@@ -229,3 +229,5 @@ formulario. Si es un asunto de Kastam, empiece por
 [SST explicado](/en/taxation/sst-explained) para los servicios y bienes que usted
 suministra, o por ezHS para cualquier cosa que importe. Si es una cuestión de
 renta, ganancias o instrumentos, vaya en cambio a [LHDN](/en/government/lhdn).
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

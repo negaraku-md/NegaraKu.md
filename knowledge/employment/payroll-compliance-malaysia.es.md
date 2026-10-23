@@ -458,3 +458,5 @@ que con más probabilidad falte en su sistema.
 Luego haga las dos auditorías que detectan la mayoría de los incumplimientos: concilie la salida
 de EPF de su software de nómina contra el Third Schedule para tres salarios de muestra, y
 recuente su plantilla malasia contra el umbral de HRD Corp.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

@@ -203,3 +203,5 @@ Hãy lấy quân số của bạn theo địa điểm làm việc. Đối với 
 đối chiếu với Pháp lệnh liên quan chứ không đối chiếu với Act 265. Rồi hãy xác nhận
 tình trạng có hiệu lực hiện hành của Phần IVA với JTK Sabah hoặc JTK Sarawak trực tiếp — đó là
 mảnh ghép đang chuyển động duy nhất.
+
+Không chắc luật nào áp dụng? Xem [bản đồ luật lao động Malaysia](/vi/employment/labour-law-map-malaysia/).

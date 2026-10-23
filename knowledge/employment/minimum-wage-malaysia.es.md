@@ -196,3 +196,5 @@ séptimo día, los códigos de deducción frente a la s.24, y los divisores por 
 por día frente a la Order. Luego confirme que el bruto resultante está en RM1,700
 o por encima antes de las deducciones legales: el salario mínimo es un piso sobre
 el salario pagadero, no sobre el salario neto.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

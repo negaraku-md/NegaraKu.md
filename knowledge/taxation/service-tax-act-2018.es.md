@@ -183,3 +183,5 @@ Como el estatuto es duradero pero sus tasas y su alcance cambian con cada presup
 ## Qué sigue
 
 Para la mecánica práctica, confirme las tasas, los umbrales y las categorías de servicios imponibles vigentes frente al **[portal MySST](https://mysst.customs.gov.my/)** de la RMCD y las últimas órdenes dictadas bajo la Act, y lea el texto del estatuto primario en la **[Cámara del Fiscal General](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**. Dado que las tasas y el alcance se mueven con cada presupuesto federal, verifique siempre si un presupuesto posterior ha reemplazado las cifras de aquí antes de actuar sobre ellas.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

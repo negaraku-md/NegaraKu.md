@@ -182,3 +182,5 @@ Act 807は、マレーシアがサービス税を課すことを可能にする�
 ## 次のステップ
 
 実務上の詳細については、RMCDの**[MySSTポータル](https://mysst.customs.gov.my/)**及び同法令に基づく最新の命令に照らして現行の税率、基準額及び課税対象サービスの区分を確認し、**[Attorney General's Chambers](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**で法規の原文を確認すること。税率及び範囲は連邦予算案ごとに変動するため、本稿の数値に基づいて行動する前に、必ずより新しい予算案がこれらを置き換えていないかを確認すること。
+
+全体像が必要ですか？[マレーシアのSST（売上・サービス税）の仕組み](/ja/taxation/sst-explained/)をご覧ください。

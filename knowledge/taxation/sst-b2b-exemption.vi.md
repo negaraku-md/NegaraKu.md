@@ -152,3 +152,5 @@ xác nhận tình trạng đăng ký của bên đối tác trước khi chấp 
 thuế. Khi thuế đã được đánh và B2B lẽ ra phải áp dụng, hãy sửa nó bằng một chứng từ ghi
 có theo regulation 11, được điều chỉnh trong tờ khai SST-02 cho kỳ mà chứng từ được
 phát hành.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).

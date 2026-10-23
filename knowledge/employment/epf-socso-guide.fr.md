@@ -94,3 +94,5 @@ La couverture des **travailleurs étrangers** diverge nettement entre les trois,
 ## La suite
 
 Si vous configurez la paie pour la première fois, commencez par le calendrier de conformité de la paie, qui organise chaque obligation selon son échéance plutôt que selon l'agence qui la recouvre. Si la paie fonctionne déjà et que vous devez vérifier un seul chiffre, la référence des taux et échéances légaux donne chaque nombre avec l'autorité qui le publie.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

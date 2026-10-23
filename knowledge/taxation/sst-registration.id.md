@@ -305,3 +305,5 @@ Begitu terdaftar, mekanismenya beralih ke masa pajak, laporan SST-02, dan rezim
 penalti pembayaran terlambat. Jika Anda membeli jasa dari pemasok di luar Malaysia,
 periksa juga aturan jasa kena pajak yang diimpor: aturan itu berlaku baik Anda
 terdaftar maupun tidak.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

@@ -304,3 +304,5 @@ Una vez registrado, la mecánica se traslada a los periodos imponibles, las
 declaraciones SST-02 y el régimen de sanciones por pago tardío. Si compra servicios
 a proveedores fuera de Malasia, compruebe también las reglas de los servicios
 imponibles importados: se aplican esté o no registrado.
+
+¿Quieres el panorama completo? Consulta [cómo funciona el SST en Malasia](/es/taxation/sst-explained/).

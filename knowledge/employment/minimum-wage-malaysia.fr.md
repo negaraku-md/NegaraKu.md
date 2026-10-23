@@ -199,3 +199,5 @@ septième jour, les codes de déduction au regard de l'art. 24, et les diviseurs
 horaire et journalier au regard de l'Order. Confirmez ensuite que le brut qui en
 résulte est à RM1,700 ou au-dessus avant les déductions légales : le salaire
 minimum est un plancher sur le salaire payable, non sur le salaire net.
+
+Vous ne savez pas quelle loi s’applique ? Voyez [la carte du droit du travail malaisien](/fr/employment/labour-law-map-malaysia/).

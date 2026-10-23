@@ -184,3 +184,5 @@ Untuk rincian menurut sektor bagi kelompok yang ditambah pada 2025, termasuk
 keringanan transisi dan kontrak tidak dapat ditinjau ulang, lihat panduan perluasan.
 Untuk cara ambang diuji sepanjang periode bergulir dua belas bulan, lihat panduan
 pendaftaran.
+
+Perlu gambaran lengkap? Lihat [cara kerja SST di Malaysia](/id/taxation/sst-explained/).

@@ -478,3 +478,5 @@ dalam set ini dan yang paling mungkin hilang dari sistem Anda.
 Kemudian lakukan dua audit yang menangkap sebagian besar kelalaian: selaraskan
 keluaran KWSP perangkat lunak penggajian Anda dengan Jadwal Ketiga bagi tiga gaji
 sampel, dan hitung ulang jumlah pekerja Malaysia Anda dengan ambang HRD Corp.
+
+Tidak yakin hukum mana yang berlaku? Lihat [peta hukum ketenagakerjaan Malaysia](/id/employment/labour-law-map-malaysia/).

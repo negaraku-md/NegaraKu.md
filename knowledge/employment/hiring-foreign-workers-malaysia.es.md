@@ -252,3 +252,5 @@ Los artículos 60M y 60N rigen luego el equilibrio local–extranjero. Ningún e
 Antes que nada, ejecute el filtro del s.60K(4) contra su propia empresa: cualquier orden, directiva o condena no resuelta vigente conforme a la Employment Act, SOCSO, la Act 446 o la ley de salario mínimo, y cualquier asunto de trata o trabajo forzoso. Resuélvalos primero, porque aflorarán como una denegación inexplicada en el peor momento posible.
 
 Luego construya el calendario hacia atrás desde la fecha de vencimiento del pase — prórroga en menos tres meses, FOMEMA para los años dos y tres, y los relojes de notificación de 14 y 30 días del s.60KA para cualquiera que se marche.
+
+¿No sabes qué ley se aplica? Consulta [el mapa de la legislación laboral de Malasia](/es/employment/labour-law-map-malaysia/).

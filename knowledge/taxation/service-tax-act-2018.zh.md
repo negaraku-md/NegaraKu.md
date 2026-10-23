@@ -183,3 +183,5 @@ keywords: ["Service Tax Act 2018", "Act 807", "service tax Malaysia", "SST", "se
 ## 接下来
 
 关于实务操作细节，请对照RMCD的**[MySST门户](https://mysst.customs.gov.my/)**及根据本法令制定的最新命令，确认现行税率、门槛与应税服务类别，并在**[总检察署](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690140_BI/ACT%20807%20Final%2022072021%20Portal.pdf)**查阅主要法规原文。由于税率与范围随每份联邦预算案而变动，在依据本文数据行事之前，请务必查证是否已有较晚的预算案取代此处的数字。
+
+需要全面了解？查看[马来西亚销售与服务税（SST）运作方式](/zh/taxation/sst-explained/)。

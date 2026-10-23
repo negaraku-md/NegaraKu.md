@@ -189,3 +189,5 @@ keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "
 ## 다음 단계
 
 당신이 근로자라면: 지금 가장 가까운 JPPM 사무소에 진정을 제출하고 병행하여 계속 협상하십시오. 당신이 고용주라면: 방어는 해고 후가 아니라 해고 전에 만들어집니다 — 법원이 찾을 절차적 기록은 `domestic-inquiry-malaysia`를, 애초에 올바른 경로를 고르는 방법은 `termination-of-employment-malaysia`를 참조하십시오.
+
+어떤 법이 적용되는지 모르시겠나요? [말레이시아 노동법 지도](/ko/employment/labour-law-map-malaysia/)를 확인해 보세요.

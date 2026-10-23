@@ -306,3 +306,5 @@ là tùy nghi, và nó là câu thay đổi cơ sở chi phí của bạn.
 Một khi đã đăng ký, thuế bán hàng và thuế dịch vụ được báo cáo trên cùng tờ khai
 SST-02 và tuân theo cùng kỳ chịu thuế và chế độ chế tài — nên cơ chế nộp đáng được
 đọc một lần và áp dụng cho cả hai.
+
+Cần bức tranh tổng thể? Xem [cách hoạt động của SST tại Malaysia](/vi/taxation/sst-explained/).
