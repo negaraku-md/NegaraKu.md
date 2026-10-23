@@ -135,3 +135,5 @@ Kuala Lumpur, Putrajaya dan Labuan berada **di luar** butir Daftar Negeri bagi p
 ## Apa selanjutnya
 
 Untuk bertindak atas hal ini, cari nama pihak berkuasa tempatan Anda sendiri (ia akan diawali dengan *Dewan Bandaraya*, *Majlis Bandaraya*, *Majlis Perbandaran* atau *Majlis Daerah*) dan periksa jadwal kadar taksiran, loket perizinan dan undang-undang kecilnya melalui Jabatan Kerajaan Tempatan KPKT. Jika Anda menginginkan kata-kata tepat di balik keputusan majlis mana pun — syarat lisensi, notis gangguan, pengangkatan anggota majlis — teks sumber **Akta Kerajaan Tempatan 1976 (Akta 171)** adalah rujukan utama, dan **Jadwal Kesembilan** Konstitusi Federal adalah tempat kedudukan pemerintahan lokal dalam Daftar Negeri ditetapkan.
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

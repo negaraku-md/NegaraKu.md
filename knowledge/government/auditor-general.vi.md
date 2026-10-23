@@ -218,3 +218,5 @@ cũng điều tra việc lạm dụng tiền công, tham khảo [SPRM](/governme
 
 Trang này mang tính mô tả và dựa trên văn bản hiến pháp cùng luật pháp. Đây là bản thảo
 và chưa được một người rà soát nào được nêu tên rà soát.
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

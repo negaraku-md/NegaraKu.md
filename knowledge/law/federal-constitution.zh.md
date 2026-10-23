@@ -84,3 +84,5 @@ keywords: ["Federal Constitution Malaysia", "Perlembagaan Persekutuan", "constit
 ---
 
 *根据 NegaraKu.md 的编辑政策，本文被归类为敏感内容（3R+1：宪法事务）。本文以严格描述性的方式撰写——仅涵盖结构与功能——并在正式发布前处于审核状态，等待人工签核。*
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

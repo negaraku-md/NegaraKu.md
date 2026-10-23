@@ -190,3 +190,5 @@ Perbezaan itu bukan kosmetik. Seksyen 20 Bahagian II — versi gantian bagi seks
 Untuk mengesahkan syarat kelayakan tepat di sesuatu negeri, rujuk Undang-Undang Tubuh Kerajaan negeri berkenaan — bukan Perlembagaan Persekutuan. Setiap negeri menerbitkan teks perlembagaannya melalui portal Dewan Undangan Negeri atau pejabat Setiausaha Kerajaan Negeri, dan pindaan disiarkan dalam Warta Negeri.
 
 Untuk teks rasmi Perlembagaan Persekutuan dan Jadual Kelapan, gunakan Portal Perundangan Persekutuan Jabatan Peguam Negara di [lom.agc.gov.my](https://lom.agc.gov.my/). Cetakan semula yang dirujuk dalam artikel ini ialah Cetakan Semula 2020.
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

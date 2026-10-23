@@ -179,3 +179,5 @@ keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concu
 ---
 
 *이 글은 그 주제가 입법권의 헌법적 배분 — 이슬람법에 관한 주 목록 항목 1과 사바 및 사라왁을 위한 보호 장치를 포함하여 — 이기 때문에 NegaraKu.md의 편집 정책상 민감(헌법) 등급으로 분류됩니다. 이 글은 엄격히 서술적으로 — 제9부칙과 제74조부터 제77조 및 제95B조를 공표된 그대로, 논평이나 해석 없이 서술하도록 — 작성되었으며, 공개에 앞서 인간 검토를 기다리는 초안으로 보류되어 있습니다.*
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

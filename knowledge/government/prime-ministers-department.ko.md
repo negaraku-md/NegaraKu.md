@@ -135,3 +135,5 @@ JPM 본부는 푸트라자야 연방정부 행정중심지의 Perdana Putra입�
 - 내각이 그 행정권을 자문하는 국가 원수는 [양 디페르투안 아공](/en/government/yang-di-pertuan-agong)을 읽으십시오.
 - JPM에서 기원하여 이제 독립적으로 운영되는 두 기관은 [DOSM](/en/government/dosm)과 [SPR: 위임과 기능](/en/government/spr-election-commission)을 읽으십시오.
 - JPM을 포함한 연방정부가 주 및 지방 층위와 어떻게 대비되는지 보려면 [말레이시아의 세 층위 정부](/en/government/three-tiers-of-government)를 읽으십시오.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

@@ -191,3 +191,5 @@ keywords: ["Menteri Besar", "Ketua Menteri", "Premier Sarawak", "ketua kerajaan 
 특정 주의 정확한 자격 요건을 확인하려면, 연방헌법이 아니라 해당 주의 주정부 기본법(Undang-Undang Tubuh Kerajaan)을 참조하십시오. 각 주는 그 헌법 원문을 주 입법의회 포털 또는 주정부 사무처(Setiausaha Kerajaan Negeri)를 통해 게재하며, 개정은 주 관보(Warta Negeri)에 게재됩니다.
 
 연방헌법과 제8부칙의 공식 원문은 법무부의 연방법 포털 [lom.agc.gov.my](https://lom.agc.gov.my/)를 이용하십시오. 이 글에서 참조한 재판본은 2020년 재판본입니다.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

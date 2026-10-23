@@ -156,3 +156,5 @@ keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Per
 하원에서의 상대역 — 222석의 구성, 5년의 시계, 그리고 하원이 홀로 쥐고 있는 재정 권한 — 은 [하원(Dewan Rakyat)](/government/dewan-rakyat)에서 설명합니다. 연방 입법 구조 전체 안에서 상원의 위치, 그리고 의회와 주 입법의회 사이의 권한 배분을 보려면 [말레이시아 의회](/government/parliament)를 참고하십시오. 제66조에 따른 국왕 재가의 역할은 [양 디페르투안 아공](/government/yang-di-pertuan-agong)에서 다룹니다. 위에서 설명한 모든 권한의 원천이 되는 문서의 문언과 구조에 대해서는 [연방헌법](/law/federal-constitution)을 참고하십시오.
 
 현재 상원의원 명단, 회의 일정 및 상원 의사규칙은 [말레이시아 의회](https://www.parlimen.gov.my/maklumat-umum.html?uweb=dn) 공식 포털에 게시되어 있습니다. 이 글 전반에 인용된 헌법 문언은 법무장관실의 [연방 입법 포털(Portal Perundangan Persekutuan)](https://lom.agc.gov.my/federal-constitution.php)에서 내려받을 수 있습니다.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

@@ -267,3 +267,5 @@ List）——参见[马来西亚国会](/zh/government/parliament)与
 宪法文本，以及
 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf)
 上的下议院议事常规。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

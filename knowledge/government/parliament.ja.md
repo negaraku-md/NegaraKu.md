@@ -138,3 +138,5 @@ keywords: ["Parliament of Malaysia", "Dewan Rakyat", "Dewan Negara", "Malaysia l
 内容として書かれており、公開前に人による承認を得るまでは草稿として保留され
 る。公式な情報源に照らして確認できなかった数字は、公開されず
 `verificationNeeded`に列挙されている。*
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

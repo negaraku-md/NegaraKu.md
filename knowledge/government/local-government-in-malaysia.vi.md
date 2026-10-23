@@ -135,3 +135,5 @@ Kuala Lumpur, Putrajaya và Labuan nằm **ngoài** mục Danh mục Tiểu bang
 ## Tiếp theo
 
 Để hành động về điều này, hãy tìm tên cơ quan chính quyền địa phương của chính bạn (nó sẽ bắt đầu bằng *Dewan Bandaraya*, *Majlis Bandaraya*, *Majlis Perbandaran* hoặc *Majlis Daerah*) và tra biểu thuế định giá, quầy cấp phép và các quy tắc phụ của nó qua Cục Chính quyền Địa phương của KPKT. Nếu bạn muốn câu chữ chính xác đằng sau bất kỳ quyết định nào của hội đồng — một điều kiện giấy phép, một thông báo về phiền toái, việc bổ nhiệm ủy viên hội đồng — văn bản gốc của **Luật Chính quyền Địa phương (Local Government Act 1976, Act 171)** là tham chiếu chính, và **Phụ lục thứ Chín** của Hiến pháp Liên bang là nơi vị trí của chính quyền địa phương trên Danh mục Tiểu bang được ấn định.
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

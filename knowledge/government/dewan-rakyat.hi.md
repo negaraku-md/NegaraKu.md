@@ -304,3 +304,5 @@ keywords: ["देवान राक्यात", "Dewan Rakyat", "संस�
 राक्यात के स्थायी आदेश
 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf) पर
 देखें।
+
+जानना चाहते हैं कि मलेशिया कैसे शासित होता है? देखें [मलेशिया की सरकार के तीन स्तर](/hi/government/three-tiers-of-government/)।

@@ -112,3 +112,5 @@ di dalam Malaysia.
 dasar editorial NegaraKu.md. Ia ditulis agar bersifat deskriptif semata-mata —
 merangkumi struktur dan fungsi sahaja — dan ditahan dalam semakan sementara
 menunggu pengesahan manusia sebelum penerbitan.*
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

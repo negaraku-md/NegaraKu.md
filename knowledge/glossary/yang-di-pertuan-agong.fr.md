@@ -327,3 +327,5 @@ Le texte faisant foi pour chaque citation de cette page est la Constitution
 fédérale elle-même, publiée par le Département du Procureur général (Attorney
 General's Chambers) ; la procédure de la réunion d'élection est publiée par la
 Conférence des Gouvernants sur son portail officiel.
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

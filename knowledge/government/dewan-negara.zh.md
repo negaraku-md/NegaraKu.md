@@ -156,3 +156,5 @@ keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Per
 其在下议院的对应机构——222个议席的组成、五年的时限，以及它独自掌握的财政权力——载于[下议院](/zh/government/dewan-rakyat)一文。若要了解上议院在整体联邦立法架构中的位置，包括国会与州立法议会之间的权力划分，请参阅[马来西亚国会](/zh/government/parliament)。第66条下御准的角色，在[最高元首](/zh/government/yang-di-pertuan-agong)一文中有所说明。至于上文所述一切权力所源出的文件本身的文本与架构，请参阅[联邦宪法](/zh/law/federal-constitution)。
 
 现任上议员名单、会期日期，以及上议院议事常规，均刊载于[马来西亚国会](https://www.parlimen.gov.my/maklumat-umum.html?uweb=dn)官方门户网站。本文通篇所引用的宪法文本，可从总检察署（Jabatan Peguam Negara）的[联邦立法门户网站](https://lom.agc.gov.my/federal-constitution.php)下载。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

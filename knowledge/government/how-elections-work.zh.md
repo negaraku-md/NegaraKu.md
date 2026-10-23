@@ -278,3 +278,5 @@ Perlembagaan (Pindaan) 2019 修正之后的规定。
 发布的联邦宪法 Part VIII 文本，以及
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)
 所载的宪法全文。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

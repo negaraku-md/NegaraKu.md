@@ -110,3 +110,5 @@ Malaysia.
 NegaraKu.md's editorial policy. It is written to be strictly descriptive —
 covering structure and function only — and is held in review pending human
 sign-off before publication.*
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

@@ -206,3 +206,5 @@ SPRがより広い憲法上の枠組みの中でどこに位置するかを見�
 統治者会議との協議の後の国王（Yang di-Pertuan Agong）による任命の仕組みについては、[国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)及び[統治者会議](/government/majlis-raja-raja)を参照してほしい。
 
 第113条から第120条まで及び第十三附表の全文は、検事総長室（Jabatan Peguam Negara）のポータルサイトにある連邦憲法の公式再版で読むことができ、公式の職能説明は選挙管理委員会が`spr.gov.my`で公表している。
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

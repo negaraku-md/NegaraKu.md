@@ -153,3 +153,5 @@ Esta función la tuvo en su día un ministerio completo — el Ministerio de Ter
 ## Qué sigue
 
 Para entender por qué «todos los asuntos relativos a los Territorios Federales» recaen en la Federación y no en los estados, lee la [división de competencias Federal–Estatal](/en/government/federal-state-division). Para conocer la institución que no existe en estos territorios, consulta la [Asamblea Legislativa Estatal (DUN)](/en/government/state-assemblies-dun). Para las cámaras que representan a los residentes de los territorios en el Parlamento, consulta el [Dewan Rakyat](/en/government/dewan-rakyat) y el [Dewan Negara](/en/government/dewan-negara). Y para el panorama general de los niveles de gobierno de Malasia, consulta los [tres niveles de gobierno](/en/government/three-tiers-of-government).
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

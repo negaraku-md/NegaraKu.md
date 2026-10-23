@@ -144,3 +144,5 @@ politique éditoriale de NegaraKu.md. Il est rédigé de manière strictement de
 l'attente de l'approbation humaine avant sa publication. Les chiffres qui n'ont pas pu être
 confirmés au regard d'une source officielle sont énumérés dans `verificationNeeded` plutôt que
 publiés.*
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

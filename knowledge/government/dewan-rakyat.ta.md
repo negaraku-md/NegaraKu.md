@@ -332,3 +332,5 @@ proviso, சரத்து 55(3)-இன் கீழ் பாராளும�
 கூட்டாட்சி அரசியலமைப்பின் உரையையும்,
 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf)-இல்
 உள்ள Dewan Rakyat நிலையியல் விதிகளையும் பார்க்கவும்.
+
+மலேசியா எவ்வாறு ஆளப்படுகிறது என அறிய விரும்புகிறீர்களா? [மலேசியாவின் மூன்று அடுக்கு அரசாங்கத்தைப்](/ta/government/three-tiers-of-government/) பார்க்கவும்.

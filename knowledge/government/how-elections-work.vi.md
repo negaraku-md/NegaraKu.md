@@ -306,3 +306,5 @@ pháp Liên bang do SPR xuất bản tại
 [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf)
 và toàn văn Hiến pháp tại
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php).
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

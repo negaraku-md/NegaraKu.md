@@ -141,3 +141,5 @@ NegaraKu.md's editorial policy. It is written to be strictly descriptive — cov
 structure and function only — and is held in draft pending human sign-off before
 publication. Figures that could not be confirmed against an official source are
 listed in `verificationNeeded` rather than published.*
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

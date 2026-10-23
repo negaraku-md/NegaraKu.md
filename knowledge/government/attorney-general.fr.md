@@ -180,3 +180,5 @@ Il convient de garder la distinction claire : l'Article 145 confère la charge �
 Pour lire la charge dans le texte primaire, prenez l'Article 145 alinéa par alinéa : **145(1)** pour la nomination et la qualification, **145(2)** pour le devoir de conseil, **145(3)** et **145(3A)** pour le pouvoir de poursuite et ses exclusions, **145(4)** pour le droit d'audience, et **145(5)–(6)** pour le mandat et la protection transitoire. Le texte faisant autorité est disponible via le portail Laws of Malaysia du Cabinet du Procureur général et dans la réimpression officielle de la Constitution fédérale.
 
 Cette page est descriptive et fondée sur le texte. C'est un brouillon qui n'a pas été examiné par un relecteur humain désigné.
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

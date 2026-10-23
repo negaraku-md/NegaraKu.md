@@ -153,3 +153,5 @@ keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan 
 ## 다음으로 볼 것
 
 왜 "연방직할구에 관한 모든 사항"이 주가 아니라 연방에 속하는지 이해하려면 [연방–주 권한 배분](/ms/government/federal-state-division)을 읽으십시오. 이 직할구에는 존재하지 않는 제도를 보려면 [주 입법의회(DUN)](/ms/government/state-assemblies-dun)를 보십시오. 직할구 주민을 의회에서 대표하는 원에 대해서는 [하원](/ms/government/dewan-rakyat)과 [상원](/ms/government/dewan-negara)을 보십시오. 그리고 말레이시아 통치 층위의 큰 그림은 [세 층위의 정부](/ms/government/three-tiers-of-government)를 보십시오.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

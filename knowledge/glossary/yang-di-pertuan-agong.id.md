@@ -322,3 +322,5 @@ lihat [Kemerdekaan 1957](/id/malaysia/independence-1957) dan
 Teks yang berlaku bagi setiap kutipan dalam halaman ini adalah Konstitusi Federal
 itu sendiri, yang diterbitkan oleh Jabatan Peguam Negara; tata cara sidang
 pemilihan diterbitkan oleh Majlis Raja-Raja di portal resminya.
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

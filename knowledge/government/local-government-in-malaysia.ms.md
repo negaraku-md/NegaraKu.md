@@ -135,3 +135,5 @@ Kuala Lumpur, Putrajaya dan Labuan terletak **di luar** butiran Senarai Negeri b
 ## Apa seterusnya
 
 Untuk bertindak atas perkara ini, cari nama pihak berkuasa tempatan anda sendiri (ia akan bermula dengan *Dewan Bandaraya*, *Majlis Bandaraya*, *Majlis Perbandaran* atau *Majlis Daerah*) dan semak jadual kadar taksiran, kaunter pelesenan dan undang-undang kecilnya melalui Jabatan Kerajaan Tempatan KPKT. Jika anda mahukan perkataan tepat di sebalik mana-mana keputusan majlis — syarat lesen, notis gangguan, pelantikan ahli majlis — teks sumber **Akta Kerajaan Tempatan 1976 (Akta 171)** ialah rujukan utama, dan **Jadual Kesembilan** Perlembagaan Persekutuan ialah tempat kedudukan kerajaan tempatan dalam Senarai Negeri ditetapkan.
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

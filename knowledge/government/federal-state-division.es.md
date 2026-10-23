@@ -180,3 +180,5 @@ Para ver dónde se sitúa el Noveno Anexo dentro de todo el documento, véase la
 ---
 
 *Este artículo está clasificado como sensible (constitución) bajo la política editorial de NegaraKu.md porque su tema es la división constitucional de la potestad legislativa, incluido el punto 1 de la Lista Estatal sobre el derecho islámico y las salvaguardas para Sabah y Sarawak. Está escrito para ser estrictamente descriptivo —exponiendo el Noveno Anexo y los artículos 74 a 77 y 95B tal como están publicados, sin comentario ni interpretación— y se mantiene como borrador a la espera de revisión humana antes de su publicación.*
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

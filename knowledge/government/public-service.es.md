@@ -222,3 +222,5 @@ clasifica un puesto, cuánto paga, qué vía de formación sigue, o sobre la pol
 eso corresponde al JPA. Para conocer la maquinaria constitucional dentro de la cual operan
 ambos entes, lea a continuación [El Departamento del Primer
 Ministro](/government/prime-ministers-department).
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

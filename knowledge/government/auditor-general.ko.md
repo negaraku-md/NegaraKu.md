@@ -158,3 +158,5 @@ keywords:
 제105~107조가 자리한 더 넓은 헌법적 틀을 이해하려면, [연방헌법(Federal Constitution)](/law/federal-constitution)에서 시작한 다음, 보고서가 어떻게 제출되고 점검되는지를 [하원(Dewan Rakyat)](/government/dewan-rakyat)에서 살펴보십시오. 임명과 보고서 접수에서 양 디페르투안 아공의 역할을 이해하려면 [양 디페르투안 아공(Yang di-Pertuan Agong)](/government/yang-di-pertuan-agong)을 참고하십시오. 감사 대상인 공적 자금의 맥락에 대해서는 [연방 예산](/economy/federal-budget)을, 그리고 공적 자금 부정을 함께 조사하는 다른 기관에 대해서는 [SPRM](/government/macc-sprm)을 참고하십시오.
 
 이 페이지는 서술적 성격을 지니며 헌법 및 법률의 조문에 근거합니다. 이 문서는 초안이며 아직 지명된 인간 검토자의 검토를 받지 않았습니다.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

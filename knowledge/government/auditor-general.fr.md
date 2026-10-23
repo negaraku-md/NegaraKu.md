@@ -159,3 +159,5 @@ Avant qu'un audit ne soit réalisé, une réunion d'ouverture est tenue avec l'e
 Pour comprendre le cadre constitutionnel plus large dans lequel s'inscrivent les Articles 105–107, commencez par la [Constitution fédérale](/fr/law/federal-constitution), puis voyez comment les rapports sont déposés et examinés au [Dewan Rakyat](/fr/government/dewan-rakyat). Pour comprendre le rôle du Yang di-Pertuan Agong dans la nomination et la réception des rapports, consultez le [Yang di-Pertuan Agong](/fr/government/yang-di-pertuan-agong). Pour le contexte de l'argent public qui est audité, consultez le [budget fédéral](/fr/economy/federal-budget) ; et pour un autre organisme qui enquête aussi sur le mauvais usage de l'argent public, consultez [MACC](/fr/government/macc-sprm).
 
 Cette page est descriptive et fondée sur le texte constitutionnel et statutaire. C'est un brouillon qui n'a été examiné par aucun relecteur humain désigné.
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

@@ -227,3 +227,5 @@ bagi badan lain yang turut menyiasat penyelewengan wang awam, rujuk
 
 Halaman ini bersifat deskriptif dan berasaskan teks perlembagaan serta undang-undang.
 Ia adalah draf dan belum disemak oleh mana-mana penyemak manusia yang dinamakan.
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

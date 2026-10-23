@@ -210,3 +210,5 @@ Sus instrumentos cotidianos de control están en el Reglamento.
 Para una visión general de todo el poder legislativo federal, incluida la posición del Dewan Negara y del Yang di-Pertuan Agong en virtud del artículo 44, lea [Parlamento de Malasia](/en/government/parliament). Para la estructura del documento que establece todos los límites anteriores, incluido el procedimiento de reforma del artículo 159, lea [Constitución Federal](/en/law/federal-constitution). El trasfondo de por qué Sarawak y Sabah tienen el número de escaños enumerado en el artículo 46(2) comienza con la [formación de Malasia en 1963](/en/malaysia/formation-of-malaysia-1963).
 
 Para verificar cualquier cifra de esta página, consulte el texto de la Constitución Federal en [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php) y el Reglamento del Dewan Rakyat en [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf).
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

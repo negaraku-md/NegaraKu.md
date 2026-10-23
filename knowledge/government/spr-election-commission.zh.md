@@ -207,3 +207,5 @@ keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 11
 至于最高元首在咨询统治者会议后进行委任的机制，可参阅[最高元首](/zh/government/yang-di-pertuan-agong)与[统治者会议](/zh/government/majlis-raja-raja)。
 
 第113条至第120条及Thirteenth Schedule的全文，可在总检察署网站上的联邦宪法官方重印本中查阅，而官方职能说明则由选举委员会在`spr.gov.my`网站发布。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

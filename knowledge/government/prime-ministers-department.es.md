@@ -195,3 +195,5 @@ los departamentos federales más antiguos de Malasia.
   que tienen su origen en el JPM y que ahora operan de forma independiente.
 - Lea [los tres niveles de gobierno de Malasia](/government/three-tiers-of-government) para ver
   dónde encaja el gobierno federal, incluido el JPM, frente a los niveles estatal y local.
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

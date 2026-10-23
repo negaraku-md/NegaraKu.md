@@ -303,3 +303,5 @@ di-Pertuan Agong）に委ねている。
 で公開している連邦憲法第八部の条文、及び
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)
 にある憲法全文を参照すること。
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

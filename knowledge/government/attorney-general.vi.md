@@ -177,3 +177,5 @@ Sự phân biệt đáng được giữ cho rõ: Điều 145 trao chức vụ ch
 Để đọc chức vụ này trong văn bản gốc, hãy xem Điều 145 theo từng khoản: **145(1)** cho việc bổ nhiệm và điều kiện, **145(2)** cho nghĩa vụ tư vấn, **145(3)** và **145(3A)** cho quyền truy tố cùng các loại trừ của nó, **145(4)** cho quyền tranh tụng, và **145(5)–(6)** cho nhiệm kỳ cùng sự bảo vệ chuyển tiếp. Văn bản có thẩm quyền có thể truy cập qua cổng Laws of Malaysia của Cơ quan Tổng Chưởng lý và trong bản in lại chính thức của Hiến pháp Liên bang.
 
 Trang này mang tính mô tả và dựa trên văn bản. Đây là bản thảo và chưa được một biên tập viên là con người được nêu tên rà soát.
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

@@ -84,3 +84,5 @@ keywords: ["Federal Constitution Malaysia", "Perlembagaan Persekutuan", "constit
 ---
 
 *本稿は、NegaraKu.mdの編集方針において敏感情報（3R+1：憲法事項）に分類されている。本稿は構造及び機能のみを対象とする厳格に記述的な内容として執筆されており、公開前の人による承認を待つ審査中の状態で保持されている。*
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

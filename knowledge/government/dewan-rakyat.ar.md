@@ -289,3 +289,5 @@ RM2,000 دون أن يحصل على عفو؛ أو اكتسابه طوعاً جن
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php) واللائحة
 الداخلية لمجلس النواب على
 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf).
+
+تريد معرفة كيف تُحكم ماليزيا؟ اطّلع على [مستويات الحكم الثلاثة في ماليزيا](/ar/government/three-tiers-of-government/).

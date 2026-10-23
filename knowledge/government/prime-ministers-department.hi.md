@@ -187,3 +187,5 @@ JPM का मुख्यालय Perdana Putra है, जो पुत्र
   [SPR: अधिदेश और कार्य](/en/government/spr-election-commission) पढ़ें।
 - यह देखने के लिए कि संघीय सरकार, JPM सहित, राज्य एवं स्थानीय स्तरों के सापेक्ष कहाँ फिट
   बैठती है, [मलेशिया की सरकार के तीन स्तर](/en/government/three-tiers-of-government) पढ़ें।
+
+जानना चाहते हैं कि मलेशिया कैसे शासित होता है? देखें [मलेशिया की सरकार के तीन स्तर](/hi/government/three-tiers-of-government/)।

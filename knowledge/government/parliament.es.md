@@ -144,3 +144,5 @@ la política editorial de NegaraKu.md. Está redactado de forma estrictamente de
 —abarcando únicamente estructura y función— y se mantiene como borrador a la espera de la
 aprobación humana antes de su publicación. Las cifras que no pudieron confirmarse frente a
 una fuente oficial se enumeran en `verificationNeeded` en lugar de publicarse.*
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

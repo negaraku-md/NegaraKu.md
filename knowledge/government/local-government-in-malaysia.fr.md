@@ -136,3 +136,5 @@ Kuala Lumpur, Putrajaya et Labuan se situent **en dehors** de l'entrée de la Li
 
 Pour agir à partir de là, trouvez le nom de votre propre autorité locale (il commencera par *Dewan Bandaraya*, *Majlis Bandaraya*, *Majlis Perbandaran* ou *Majlis Daerah*) et consultez son barème de taux d'évaluation, ses guichets de licences et ses règlements municipaux par l'intermédiaire du Département du Gouvernement local de KPKT. Si vous voulez le libellé exact derrière toute décision d'un conseil — une condition de licence, un avis de nuisance, la nomination des conseillers — le texte source de la **Local Government Act 1976 (Act 171)** est la référence principale, et la **Neuvième Annexe** de la Constitution fédérale est l'endroit où la place du gouvernement local sur la Liste des États est fixée.
 </content>
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

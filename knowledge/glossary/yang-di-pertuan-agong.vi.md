@@ -322,3 +322,5 @@ mở rộng, hãy xem [Độc lập 1957](/vi/malaysia/independence-1957) và
 Văn bản có hiệu lực của mỗi trích dẫn trên trang này là chính Hiến pháp
 Liên bang, được Cục Chưởng lý công bố; thủ tục
 cuộc họp bầu chọn được Hội đồng Quân vương công bố trên cổng chính thức của mình.
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

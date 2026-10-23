@@ -320,3 +320,5 @@ El texto completo de los Artículos 113 a 120 y del Decimotercer Anexo puede lee
 la reimpresión oficial de la Constitución Federal en el portal de la Cámara del
 Procurador General, y la declaración oficial de funciones es publicada por la
 Comisión Electoral en `spr.gov.my`.
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

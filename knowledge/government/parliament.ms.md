@@ -143,3 +143,5 @@ dasar editorial NegaraKu.md. Ia ditulis untuk bersifat deskriptif semata-mata â€
 struktur dan fungsi sahaja â€” dan disimpan sebagai draf sementara menunggu kelulusan manusia sebelum
 penerbitan. Angka yang tidak dapat disahkan terhadap sumber rasmi
 disenaraikan dalam `verificationNeeded` dan bukan diterbitkan.*
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

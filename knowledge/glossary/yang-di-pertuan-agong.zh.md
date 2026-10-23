@@ -274,3 +274,5 @@ keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "pemilihan Agong", "Perk
 
 本页每一项引述所依据的权威文本，均为联邦宪法本身，由总检察署（Jabatan
 Peguam Negara）发布；推选会议的程序则由统治者会议于其官方网站发布。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

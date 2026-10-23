@@ -180,3 +180,5 @@ Untuk mengetahui kedudukan Jadual Kesembilan dalam keseluruhan dokumen itu, liha
 ---
 
 *Artikel ini dikelaskan sebagai sensitif (perlembagaan) di bawah dasar editorial NegaraKu.md kerana subjeknya ialah pembahagian perlembagaan kuasa perundangan, termasuk butiran 1 Senarai Negeri mengenai undang-undang Islam dan perlindungan bagi Sabah dan Sarawak. Ia ditulis agar bersifat deskriptif secara ketat — melaporkan Jadual Kesembilan dan Perkara 74 hingga 77 serta 95B sebagaimana diterbitkan, tanpa ulasan atau tafsiran — dan ditahan sebagai draf sementara menunggu semakan manusia sebelum penerbitan.*
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

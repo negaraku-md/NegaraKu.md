@@ -247,3 +247,5 @@ and in the official reprint of the Federal Constitution.
 
 This page is descriptive and text-based. It is a draft and has not been reviewed by a
 named human reviewer.
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

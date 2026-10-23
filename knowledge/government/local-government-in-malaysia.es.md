@@ -135,3 +135,5 @@ Kuala Lumpur, Putrajaya y Labuan quedan **fuera** de la entrada de la Lista Esta
 ## Qué sigue
 
 Para actuar sobre esto, averigua el nombre de tu propia autoridad local (empezará por *Dewan Bandaraya*, *Majlis Bandaraya*, *Majlis Perbandaran* o *Majlis Daerah*) y consulta su tabla de tasas de valoración, sus mostradores de licencias y sus ordenanzas a través del Departamento de Gobierno Local de KPKT. Si quieres el texto exacto detrás de cualquier decisión de un consejo — una condición de licencia, un aviso de molestia, el nombramiento de concejales — el texto fuente de la **Local Government Act 1976 (Act 171)** es la referencia principal, y la **Novena Lista** de la Constitución Federal es donde se fija el lugar del gobierno local en la Lista Estatal.
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

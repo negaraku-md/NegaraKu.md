@@ -310,3 +310,5 @@ of Malaysia 1963](/malaysia/formation-of-malaysia-1963)।
 महान्यायवादी कार्यालय (Attorney General's Chambers) द्वारा प्रकाशित है; निर्वाचन
 बैठक की प्रक्रिया Conference of Rulers द्वारा उसके आधिकारिक पोर्टल पर प्रकाशित की
 जाती है।
+
+जानना चाहते हैं कि मलेशिया कैसे शासित होता है? देखें [मलेशिया की सरकार के तीन स्तर](/hi/government/three-tiers-of-government/)।

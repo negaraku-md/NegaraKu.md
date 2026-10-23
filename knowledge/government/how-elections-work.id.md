@@ -319,3 +319,5 @@ Konstitusi Federal yang diterbitkan oleh SPR di
 [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf)
 dan teks lengkap Konstitusi di
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php).
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

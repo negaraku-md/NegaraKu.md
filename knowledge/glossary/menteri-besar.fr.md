@@ -191,3 +191,5 @@ La différence n'est pas cosmétique. La section 20 de la partie II — la versi
 Pour vérifier les conditions d'éligibilité exactes dans un État donné, référez-vous à l'Undang-Undang Tubuh Kerajaan (constitution de l'État) de cet État — non à la Constitution fédérale. Chaque État publie son texte constitutionnel via le portail de l'Assemblée législative de l'État ou le bureau du Secrétaire de l'État, et les amendements sont publiés au Journal officiel de l'État.
 
 Pour le texte officiel de la Constitution fédérale et de la huitième annexe, utilisez le Portail de la législation fédérale de la Chambre du Procureur général à [lom.agc.gov.my](https://lom.agc.gov.my/). La réimpression à laquelle cet article fait référence est la réimpression de 2020.
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

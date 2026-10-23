@@ -208,3 +208,5 @@ Untuk melihat di mana SPR berada dalam kerangka konstitusional yang lebih luas, 
 Untuk mekanisme pengangkatan oleh Yang di-Pertuan Agong setelah konsultasi dengan Majlis Raja-Raja, lihat [Yang di-Pertuan Agong](/id/government/yang-di-pertuan-agong) dan [Majlis Raja-Raja](/id/government/majlis-raja-raja).
 
 Teks lengkap Pasal 113 hingga 120 dan Jadwal Ketiga Belas dapat dibaca dalam cetak ulang resmi Konstitusi Federal di portal Departemen Peguam Negara, dan pernyataan fungsi resmi diterbitkan oleh Suruhanjaya Pilihan Raya di laman `spr.gov.my`.
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

@@ -180,3 +180,5 @@ Untuk mengetahui kedudukan Jadwal Kesembilan dalam keseluruhan dokumen itu, liha
 ---
 
 *Artikel ini diklasifikasikan sebagai sensitif (konstitusi) di bawah kebijakan editorial NegaraKu.md karena subjeknya adalah pembagian konstitusional kuasa perundangan, termasuk butir 1 Daftar Negeri mengenai hukum Islam dan perlindungan bagi Sabah dan Sarawak. Ia ditulis agar bersifat deskriptif secara ketat — melaporkan Jadwal Kesembilan dan Pasal 74 hingga 77 serta 95B sebagaimana diterbitkan, tanpa ulasan atau tafsiran — dan ditahan sebagai draf sementara menunggu peninjauan manusia sebelum penerbitan.*
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

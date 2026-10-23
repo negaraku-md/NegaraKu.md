@@ -210,3 +210,5 @@ keywords: ["Dewan Rakyat", "dewan rendah Parlimen", "Perkara 46", "Perkara 55", 
 상원과 양 디페르투안 아공의 제44조상의 위치를 포함하여 연방 입법부 전체의 모습을 보려면 [말레이시아 의회](/government/parliament)를 읽으십시오. 위의 모든 한계를 정하는 문서의 구조, 그리고 제159조에 따른 개정 절차에 대해서는 [연방헌법](/law/federal-constitution)을 읽으십시오. 사라왁과 사바가 제46조 제(2)항에 열거된 대로의 의석 수를 갖게 된 배경은 [1963년 말레이시아의 형성](/malaysia/formation-of-malaysia-1963)에서 시작됩니다.
 
 이 페이지의 어떤 수치든 확인하려면, [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)의 연방헌법 문언과 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf)의 하원 의사규칙을 참고하십시오.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

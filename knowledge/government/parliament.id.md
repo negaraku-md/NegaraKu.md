@@ -143,3 +143,5 @@ kebijakan editorial NegaraKu.md. Ia ditulis untuk bersifat deskriptif semata —
 struktur dan fungsi saja — dan disimpan sebagai draf sementara menunggu persetujuan manusia sebelum
 penerbitan. Angka yang tidak dapat dikonfirmasi terhadap sumber resmi
 disebut dalam `verificationNeeded` dan tidak diterbitkan.*
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

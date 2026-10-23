@@ -191,3 +191,5 @@ Perbedaan itu bukan kosmetik. Pasal 20 Bagian II — versi gantian bagi Pasal 2 
 Untuk memverifikasi syarat kelayakan tepat di suatu negeri, rujuk Undang-Undang Tubuh Kerajaan negeri bersangkutan — bukan Konstitusi Federal. Setiap negeri menerbitkan teks konstitusinya melalui portal Dewan Undangan Negeri atau kantor Setiausaha Kerajaan Negeri, dan perubahan disiarkan dalam Warta Negeri.
 
 Untuk teks resmi Konstitusi Federal dan Jadual Kelapan, gunakan Portal Perundang-undangan Persekutuan Kejaksaan Agung di [lom.agc.gov.my](https://lom.agc.gov.my/). Cetakan ulang yang dirujuk dalam artikel ini adalah Cetakan Ulang 2020.
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

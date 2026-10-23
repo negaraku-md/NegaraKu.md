@@ -190,3 +190,5 @@ Eighth Schedule第22項は、マラッカ州及びペナン州について第一
 特定の州における正確な資格要件を確認するには、連邦憲法ではなく、当該州自身の『州憲法（Undang-Undang Tubuh Kerajaan）』を参照すること。各州は、州議会のポータルサイト又は州政府秘書室を通じて自州の憲法テキストを公表しており、改正は州官報（Warta Negeri）に告示される。
 
 連邦憲法及びEighth Scheduleの公式テキストについては、総検察庁（Jabatan Peguam Negara）の連邦法令ポータル[lom.agc.gov.my](https://lom.agc.gov.my/)を利用すること。本稿で参照した再版は2020年再版である。
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

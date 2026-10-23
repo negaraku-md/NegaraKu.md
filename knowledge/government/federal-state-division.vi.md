@@ -180,3 +180,5 @@ Về vị trí của Phụ lục thứ Chín trong toàn bộ tài liệu, xem [
 ---
 
 *Bài viết này được xếp là nhạy cảm (hiến pháp) theo chính sách biên tập của NegaraKu.md vì chủ đề của nó là sự phân chia quyền lập pháp theo hiến định, bao gồm khoản 1 của Danh mục Tiểu bang về luật Hồi giáo và các bảo vệ cho Sabah và Sarawak. Nó được viết để mang tính mô tả nghiêm ngặt — tường thuật Phụ lục thứ Chín và các Điều 74 đến 77 cùng 95B như đã được xuất bản, không bình luận hay diễn giải — và được giữ ở dạng bản thảo trong khi chờ rà soát bởi con người trước khi xuất bản.*
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

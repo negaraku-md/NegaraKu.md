@@ -207,3 +207,5 @@ Untuk melihat di mana SPR duduk dalam rangka perlembagaan yang lebih luas, mulak
 Untuk mekanisme pelantikan oleh Yang di-Pertuan Agong selepas rundingan dengan Majlis Raja-Raja, lihat [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) dan [Majlis Raja-Raja](/government/majlis-raja-raja).
 
 Teks penuh Perkara 113 hingga 120 dan Jadual Ketiga Belas boleh dibaca dalam cetakan semula rasmi Perlembagaan Persekutuan di portal Jabatan Peguam Negara, dan penyata fungsi rasmi diterbitkan oleh Suruhanjaya Pilihan Raya di laman `spr.gov.my`.
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

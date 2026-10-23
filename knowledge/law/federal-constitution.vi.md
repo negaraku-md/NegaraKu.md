@@ -84,3 +84,5 @@ Hiến pháp Liên bang áp dụng cho mọi thiết chế liên bang và bang v
 ---
 
 *Bài viết này được phân loại là nhạy cảm (3R+1: các vấn đề hiến pháp) theo chính sách biên tập của NegaraKu.md. Nó được viết mang tính mô tả nghiêm ngặt — chỉ bao trùm cấu trúc và chức năng — và được giữ trong quá trình kiểm duyệt chờ sự phê duyệt của con người trước khi xuất bản.*
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

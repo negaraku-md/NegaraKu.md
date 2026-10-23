@@ -155,3 +155,5 @@ keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "Perkara 45 Per
 下院における対応機関——222議席の構成、5年の期限、そして単独で有する財政権限——については、[下院（Dewan Rakyat）](/government/dewan-rakyat)で説明されている。連邦立法構造全体における上院の位置づけ、国会と州議会との間の権限分担を含めて理解するには、[マレーシア国会](/government/parliament)を参照されたい。第66条に基づく御裁可の役割については、[国王（Yang di-Pertuan Agong）](/government/yang-di-pertuan-agong)で説明されている。上記で説明したすべての権限の源泉となる文書の本文及び構造については、[連邦憲法](/law/federal-constitution)を参照されたい。
 
 現任の上院議員名簿、会期日程及び上院議事規則は、[マレーシア国会](https://www.parlimen.gov.my/maklumat-umum.html?uweb=dn)の公式ポータルに掲載されている。本記事全体を通じて参照した憲法テキストは、司法長官室（Jabatan Peguam Negara）の[連邦立法ポータル](https://lom.agc.gov.my/federal-constitution.php)からダウンロードできる。
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

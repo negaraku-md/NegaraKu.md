@@ -208,3 +208,5 @@ Ghi chú chính thức đối với Điều 114 gắn cách sắp xếp này v�
 Về cơ chế bổ nhiệm bởi Yang di-Pertuan Agong sau khi tham vấn với Hội đồng các Raja, xem [Yang di-Pertuan Agong](/government/yang-di-pertuan-agong) và [Hội đồng các Raja](/government/majlis-raja-raja).
 
 Toàn văn Điều 113 đến 120 và Phụ lục Thứ Mười Ba có thể được đọc trong bản in lại chính thức của Hiến pháp Liên bang tại cổng thông tin của Attorney General's Chambers, và bản trình bày chức năng chính thức được Ủy ban Bầu cử công bố tại trang `spr.gov.my`.
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

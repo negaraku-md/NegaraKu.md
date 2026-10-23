@@ -211,3 +211,5 @@ Office of Malaysia، واستُخدم اسم **Jabatan Perkhidmatan Awam (JPA)**
 مسار تدريبي تتبعه، أو عن سياسة التقاعد، فذلك يقع لدى JPA. وللاطلاع على الآلية
 الدستورية التي تعمل كلتا الهيئتين داخلها، اقرأ [دائرة رئيس
 الوزراء](/government/prime-ministers-department) تاليًا.
+
+تريد معرفة كيف تُحكم ماليزيا؟ اطّلع على [مستويات الحكم الثلاثة في ماليزيا](/ar/government/three-tiers-of-government/).

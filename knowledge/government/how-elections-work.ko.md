@@ -213,3 +213,5 @@ keywords: ["pilihan raya Malaysia", "first-past-the-post", "bahagian pilihan ray
 이 선거가 채우는 원과 의석이 어떻게 법률로 바뀌는지 이해하려면 [하원](/government/dewan-rakyat)과 [말레이시아 의회](/government/parliament)를 읽으십시오. 의회 해산과 선거관리위원회 임명에서 양 디페르투안 아공의 역할은 [양 디페르투안 아공](/government/yang-di-pertuan-agong)과 [통치자 회의](/government/majlis-raja-raja)에서 설명합니다. 위의 모든 규정을 정하는 문서의 구조는 [연방헌법](/law/federal-constitution)을 읽으십시오.
 
 이 페이지의 어떤 규정이든 확인하려면, 선거관리위원회가 [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf)에 게시한 연방헌법 제8부의 문언과 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)의 헌법 전문을 참고하십시오.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

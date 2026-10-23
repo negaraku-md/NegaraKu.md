@@ -295,3 +295,5 @@ List）に区分している——[マレーシア国会](/government/parliament
 邦憲法の条文、及び
 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf)
 にある下院議事規則を参照されたい。
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

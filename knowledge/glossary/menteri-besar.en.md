@@ -191,3 +191,5 @@ The difference is not cosmetic. Section 20 of Part II — the substitute version
 To verify the exact eligibility requirements in a given state, refer to that state's Undang-Undang Tubuh Kerajaan (state constitution) — not the Federal Constitution. Each state publishes its constitutional text through the State Legislative Assembly portal or the office of the State Secretary, and amendments are published in the State Gazette.
 
 For the official text of the Federal Constitution and the Eighth Schedule, use the Attorney General's Chambers' Federal Legislation Portal at [lom.agc.gov.my](https://lom.agc.gov.my/). The reprint referred to in this article is the 2020 Reprint.
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

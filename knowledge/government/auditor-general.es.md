@@ -238,3 +238,5 @@ también investiga el uso indebido del dinero público, consulte
 Esta página es descriptiva y se basa en el texto constitucional y
 estatutario. Es un borrador y no ha sido revisada por ningún revisor humano
 designado.
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

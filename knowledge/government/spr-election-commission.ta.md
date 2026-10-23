@@ -208,3 +208,5 @@ SPR-இன் உறுப்பினர் அமைப்பின் வர�
 Majlis Raja-Raja-வுடன் கலந்தாலோசித்த பின் Yang di-Pertuan Agong-ஆல் நியமிக்கும் வழிமுறைக்கு, [Yang di-Pertuan Agong](/ta/government/yang-di-pertuan-agong) மற்றும் [Majlis Raja-Raja](/ta/government/majlis-raja-raja) ஆகியவற்றைப் பார்க்கவும்.
 
 சரத்து 113 முதல் 120 வரையிலான முழு உரையையும் Thirteenth Schedule-ஐயும், Jabatan Peguam Negara (Attorney General's Chambers) போர்ட்டலில் உள்ள Perlembagaan Persekutuan-இன் அதிகாரப்பூர்வ மறுபதிப்பில் படிக்கலாம்; மேலும் அதிகாரப்பூர்வ செயற்பாட்டு அறிக்கை Suruhanjaya Pilihan Raya-வால் `spr.gov.my` இணையதளத்தில் வெளியிடப்படுகிறது.
+
+மலேசியா எவ்வாறு ஆளப்படுகிறது என அறிய விரும்புகிறீர்களா? [மலேசியாவின் மூன்று அடுக்கு அரசாங்கத்தைப்](/ta/government/three-tiers-of-government/) பார்க்கவும்.

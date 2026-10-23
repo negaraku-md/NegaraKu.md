@@ -180,3 +180,5 @@ Conviene mantener clara la distinción: el Artículo 145 confiere el cargo a un 
 Para leer el cargo en el texto primario, tome el Artículo 145 cláusula por cláusula: **145(1)** para el nombramiento y la cualificación, **145(2)** para el deber de asesoramiento, **145(3)** y **145(3A)** para la facultad de la acción penal y sus exclusiones, **145(4)** para el derecho de audiencia, y **145(5)–(6)** para el mandato y la protección transitoria. El texto autorizado está disponible a través del portal Laws of Malaysia del Departamento del Fiscal General y en la reimpresión oficial de la Constitución Federal.
 
 Esta página es descriptiva y está basada en el texto. Es un borrador y no ha sido revisada por un revisor humano designado.
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

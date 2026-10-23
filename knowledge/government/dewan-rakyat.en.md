@@ -321,3 +321,5 @@ To verify any figure on this page, refer to the text of the Federal
 Constitution at [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)
 and the Standing Orders of the Dewan Rakyat at
 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf).
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

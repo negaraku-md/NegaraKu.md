@@ -316,3 +316,5 @@ Untuk mengesahkan mana-mana angka di halaman ini, rujuk teks Perlembagaan
 Persekutuan di [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)
 dan Peraturan-peraturan Majlis Mesyuarat Dewan Rakyat di
 [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf).
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

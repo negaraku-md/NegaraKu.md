@@ -326,3 +326,5 @@ El texto autorizado para cada cita de esta página es la propia Constitución
 Federal, publicada por el Departamento del Fiscal General (Attorney General's
 Chambers); el procedimiento de la reunión de elección lo publica el Consejo de
 Gobernantes en su portal oficial.
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

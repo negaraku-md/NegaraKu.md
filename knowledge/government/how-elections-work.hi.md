@@ -214,3 +214,5 @@ keywords: ["मलेशियाई चुनाव", "pilihan raya Malaysia", 
 इस चुनाव द्वारा भरे जाने वाले सदन को और सीटें कानून कैसे बनती हैं, इसे समझने के लिए पढ़ें [देवान राक्यात](/en/government/dewan-rakyat) और [मलेशिया की संसद](/en/government/parliament)। संसद के भंग होने और चुनाव आयोग की नियुक्ति में यांग दी-पर्तुआन अगोंग की भूमिका [यांग दी-पर्तुआन अगोंग](/en/government/yang-di-pertuan-agong) और [राजाओं के सम्मेलन](/en/government/majlis-raja-raja) में वर्णित है। ऊपर दिए गए सभी प्रावधानों को निर्धारित करने वाली संरचनात्मक दस्तावेज़ के लिए, पढ़ें [संघीय संविधान](/en/law/federal-constitution)।
 
 इस पृष्ठ के किसी भी प्रावधान को सत्यापित करने के लिए, चुनाव आयोग द्वारा [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf) पर प्रकाशित संघीय संविधान के भाग VIII के पाठ और [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php) पर संविधान के पूर्ण पाठ को देखें।
+
+जानना चाहते हैं कि मलेशिया कैसे शासित होता है? देखें [मलेशिया की सरकार के तीन स्तर](/hi/government/three-tiers-of-government/)।

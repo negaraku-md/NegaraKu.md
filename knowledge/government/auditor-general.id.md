@@ -228,3 +228,5 @@ untuk lembaga lain yang turut menyelidiki penyelewengan uang publik, rujuk
 
 Halaman ini bersifat deskriptif dan berbasis teks konstitusi serta undang-undang.
 Ia adalah draf dan belum ditinjau oleh peninjau manusia mana pun yang dinamai.
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

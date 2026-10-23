@@ -134,3 +134,5 @@ Kuala Lumpur, Putrajaya and Labuan sit **outside** the State List entry for loca
 ## What's next
 
 To act on this, find your own local authority's name (it will begin with *Dewan Bandaraya*, *Majlis Bandaraya*, *Majlis Perbandaran* or *Majlis Daerah*) and look up its assessment-rate schedule, licensing counters and by-laws through KPKT's Department of Local Government. If you want the exact wording behind any council decision — a licence condition, a nuisance notice, the appointment of councillors — the source text of the **Local Government Act 1976 (Act 171)** is the primary reference, and the **Ninth Schedule** of the Federal Constitution is where local government's place on the State List is fixed.
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

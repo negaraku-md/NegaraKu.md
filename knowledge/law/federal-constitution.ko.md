@@ -84,3 +84,5 @@ keywords: ["Federal Constitution Malaysia", "Perlembagaan Persekutuan", "constit
 ---
 
 *이 글은 NegaraKu.md의 편집 방침상 민감(3R+1: 헌법적 사안)으로 분류됩니다. 이 글은 엄격히 서술적으로 — 구조와 기능만을 다루도록 — 작성되었으며, 발행 전 인간의 승인을 기다리며 검토 중에 있습니다.*
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

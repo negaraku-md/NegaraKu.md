@@ -191,3 +191,5 @@ Khác biệt đó không phải hình thức. Mục 20 Phần II — phiên bả
 Để xác minh điều kiện đủ tư cách chính xác ở một bang nào đó, hãy tham khảo Hiến pháp Bang (Undang-Undang Tubuh) của bang liên quan — chứ không phải Hiến pháp Liên bang. Mỗi bang công bố văn bản hiến pháp của mình qua cổng Hội đồng Lập pháp Bang hoặc văn phòng Thư ký Chính quyền Bang, và sửa đổi được đăng trên Công báo Bang.
 
 Về văn bản chính thức của Hiến pháp Liên bang và Phụ lục Tám, hãy dùng Cổng Pháp luật Liên bang của Cục Chưởng lý (Jabatan Peguam Negara) tại [lom.agc.gov.my](https://lom.agc.gov.my/). Bản in lại được tham chiếu trong bài viết này là Bản in lại 2020.
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

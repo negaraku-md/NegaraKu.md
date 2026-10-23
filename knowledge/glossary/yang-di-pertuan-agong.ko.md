@@ -296,3 +296,5 @@ keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "pemilihan Agong", "Perk
 
 이 페이지의 모든 인용에 대한 시행 원문은 법무부가 발행한 연방헌법
 자체이며; 선출 회의 절차는 통치자회의가 그 공식 포털에 발행합니다.
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

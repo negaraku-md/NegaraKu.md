@@ -152,3 +152,5 @@ Fungsi ini pernah dipegang oleh sebuah kementerian penuh — Kementerian Wilayah
 ## Apa seterusnya
 
 Untuk memahami mengapa "segala perkara berhubung dengan Wilayah Persekutuan" jatuh kepada Persekutuan dan bukan negeri, baca [pembahagian kuasa Persekutuan–Negeri](/ms/government/federal-state-division). Untuk melihat institusi yang tidak wujud di wilayah ini, lihat [Dewan Undangan Negeri (DUN)](/ms/government/state-assemblies-dun). Untuk dewan yang mewakili penduduk wilayah di Parlimen, lihat [Dewan Rakyat](/ms/government/dewan-rakyat) dan [Dewan Negara](/ms/government/dewan-negara). Dan untuk gambaran besar susun lapis pemerintahan Malaysia, lihat [tiga lapis kerajaan](/ms/government/three-tiers-of-government).
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

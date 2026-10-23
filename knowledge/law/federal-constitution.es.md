@@ -84,3 +84,5 @@ La Constitución Federal se aplica a toda institución federal y estatal y, a tr
 ---
 
 *Este artículo está clasificado como sensible (3R+1: cuestiones constitucionales) según la política editorial de NegaraKu.md. Está redactado para ser estrictamente descriptivo —abarcando únicamente estructura y función— y se mantiene en revisión a la espera de la aprobación humana antes de su publicación.*
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

@@ -180,3 +180,5 @@ Pour voir où se situe la Neuvième Annexe au sein de tout le document, voir la 
 ---
 
 *Cet article est classé sensible (constitution) au titre de la politique éditoriale de NegaraKu.md parce que son sujet est la répartition constitutionnelle du pouvoir législatif, y compris le point 1 de la Liste des États sur le droit islamique et les garanties pour le Sabah et le Sarawak. Il est rédigé de façon strictement descriptive — exposant la Neuvième Annexe et les articles 74 à 77 et 95B tels qu'ils sont publiés, sans commentaire ni interprétation — et il est maintenu comme brouillon en attente d'une révision humaine avant publication.*
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

@@ -191,3 +191,5 @@ keywords: ["Menteri Besar", "Ketua Menteri", "Premier Sarawak", "ketua kerajaan 
 如需确认某州属的确切资格要求，应查阅该州属的《州宪法》（Undang-Undang Tubuh Kerajaan）——而非联邦宪法。各州属皆透过其州立法议会门户网站或州政府秘书办公室发布宪法文本，而修正案则刊登于《州宪报》。
 
 如需联邦宪法及第八附表的官方文本，请使用总检察署（Jabatan Peguam Negara）联邦立法门户网站[lom.agc.gov.my](https://lom.agc.gov.my/)。本文所引用的重印本为2020年重印本。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

@@ -191,3 +191,5 @@ La diferencia no es cosmética. La sección 20 de la Parte II —la versión sus
 Para verificar los requisitos de elegibilidad exactos en un estado dado, consulte el Undang-Undang Tubuh Kerajaan (constitución estatal) de ese estado, no la Constitución Federal. Cada estado publica su texto constitucional a través del portal de la Asamblea Legislativa del Estado o de la oficina del Secretario del Estado, y las enmiendas se publican en el Boletín Oficial del Estado.
 
 Para el texto oficial de la Constitución Federal y el Octavo Anexo, use el Portal de Legislación Federal de la Cámara del Fiscal General en [lom.agc.gov.my](https://lom.agc.gov.my/). La reimpresión a la que se refiere este artículo es la Reimpresión de 2020.
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

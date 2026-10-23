@@ -289,3 +289,5 @@ Sabah nắm số ghế như được liệt kê trong Điều 46(2) bắt đầu
 Để xác nhận bất kỳ con số nào ở trang này, tham khảo văn bản Hiến pháp Liên bang tại
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php) và Quy tắc Họp của
 Dewan Rakyat tại [parlimen.gov.my](https://www.parlimen.gov.my/images/webuser/PM_DR_BM.pdf).
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

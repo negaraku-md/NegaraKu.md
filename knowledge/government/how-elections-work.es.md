@@ -333,3 +333,5 @@ Parte VIII de la Constitución Federal publicado por la Comisión Electoral en
 [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf)
 y el texto completo de la Constitución en
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php).
+
+¿Quieres saber cómo se gobierna Malasia? Consulta [los tres niveles de gobierno de Malasia](/es/government/three-tiers-of-government/).

@@ -135,3 +135,5 @@ keywords: ["local government Malaysia", "PBT", "pihak berkuasa tempatan", "majli
 ## 接下来该做什么
 
 要就此采取行动，请查明你自己所在地方当局的名称（它会以*Dewan Bandaraya*、*Majlis Bandaraya*、*Majlis Perbandaran*或*Majlis Daerah*开头），并通过KPKT的地方政府局查阅其门牌税税表、执照柜台和附则。如果你想了解任何议会决定背后的确切措辞——一项执照条件、一份妨害通知、议员的委任——**《1976年地方政府法令》（第171号法令）**的原文是主要参考依据，而《联邦宪法》的**第九附表**则是地方政府在州事项清单上定位的所在。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

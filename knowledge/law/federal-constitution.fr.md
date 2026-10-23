@@ -84,3 +84,5 @@ La Constitution fédérale s'applique à toute institution fédérale et des Ét
 ---
 
 *Cet article est classé comme sensible (3R+1 : questions constitutionnelles) selon la politique éditoriale de NegaraKu.md. Il est rédigé de manière strictement descriptive — couvrant uniquement la structure et la fonction — et reste en cours d'examen dans l'attente d'une validation humaine avant publication.*
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

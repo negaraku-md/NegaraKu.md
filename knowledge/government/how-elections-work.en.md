@@ -334,3 +334,5 @@ the Federal Constitution published by the Election Commission at
 [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf)
 and the full text of the Constitution at
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php).
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

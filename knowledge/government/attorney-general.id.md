@@ -266,3 +266,5 @@ Jabatan Peguam Negara dan dalam cetakan ulang resmi Konstitusi Federal.
 
 Laman ini bersifat deskriptif dan berbasis teks. Ia adalah draf dan belum ditinjau
 oleh peninjau manusia yang dinamai.
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

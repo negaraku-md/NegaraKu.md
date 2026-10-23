@@ -134,3 +134,5 @@ Act 171は地方自治体に幅広い権限の一覧を与えている。その*
 ## 次に何をすべきか
 
 これを実行に移すには、まず自分の地域の地方自治体の名称（*Dewan Bandaraya*、*Majlis Bandaraya*、*Majlis Perbandaran*又は*Majlis Daerah*のいずれかで始まる）を確認し、KPKTの地方政府局を通じてその資産税の税表、許認可窓口及び附則（by-laws）を調べるとよい。議会の決定——許可条件、迷惑行為に関する通知、議員の任命——の正確な文言を知りたい場合は、**1976年地方自治法（Local Government Act 1976、Act 171）**の原文が第一次的な参照先であり、地方自治のState List上の位置づけが定められているのは連邦憲法の**Ninth Schedule（第九附表）**である。
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

@@ -117,3 +117,5 @@ keywords: ["Parliament of Malaysia", "Dewan Rakyat", "Dewan Negara", "Malaysia l
 ---
 
 *이 글은 NegaraKu.md의 편집 정책상 민감(3R+1: 헌법 사항)으로 분류됩니다. 이 글은 엄격히 서술적으로 — 구조와 기능만을 다루도록 — 작성되었으며, 공개에 앞서 인간의 최종 승인을 기다리는 초안으로 보류되어 있습니다. 공식 자료에 비추어 확인할 수 없는 수치는 공개되지 않고 `verificationNeeded`에 열거됩니다.*
+
+말레이시아가 어떻게 통치되는지 궁금하신가요? [말레이시아의 3단계 정부](/ko/government/three-tiers-of-government/)를 확인해 보세요.

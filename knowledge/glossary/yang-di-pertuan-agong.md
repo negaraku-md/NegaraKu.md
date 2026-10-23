@@ -322,3 +322,5 @@ diperluas, lihat [Kemerdekaan 1957](/malaysia/independence-1957) dan
 Teks berkuat kuasa bagi setiap petikan dalam halaman ini ialah Perlembagaan
 Persekutuan sendiri, yang diterbitkan oleh Jabatan Peguam Negara; tatacara
 mesyuarat pemilihan diterbitkan oleh Majlis Raja-Raja di portal rasminya.
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

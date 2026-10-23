@@ -319,3 +319,5 @@ Le texte complet des articles 113 à 120 et du Treizième Annexe peut être cons
 la réimpression officielle de la Constitution fédérale sur le portail du Cabinet du
 Procureur général, et la déclaration officielle des fonctions est publiée par la
 Commission électorale sur `spr.gov.my`.
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

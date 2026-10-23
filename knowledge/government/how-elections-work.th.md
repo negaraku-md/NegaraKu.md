@@ -214,3 +214,5 @@ keywords: ["pilihan raya Malaysia", "first-past-the-post", "bahagian pilihan ray
 หากต้องการเข้าใจสภาที่การเลือกตั้งนี้เติมเข้าไปและวิธีที่ที่นั่งกลายเป็นกฎหมาย อ่าน [Dewan Rakyat](/government/dewan-rakyat) และ [รัฐสภามาเลเซีย](/government/parliament) บทบาทของสมเด็จพระราชาธิบดีในการยุบสภาและการแต่งตั้ง SPR อธิบายไว้ใน [สมเด็จพระราชาธิบดี (Yang di-Pertuan Agong)](/government/yang-di-pertuan-agong) และ [สภาบรรดาราชา (Majlis Raja-Raja)](/government/majlis-raja-raja) สำหรับโครงสร้างของเอกสารที่กำหนดบทบัญญัติทั้งหมดข้างต้น อ่าน [รัฐธรรมนูญสหพันธ์](/law/federal-constitution)
 
 หากต้องการยืนยันบทบัญญัติใด ๆ ในหน้านี้ ดูตัวบทภาค VIII ของรัฐธรรมนูญสหพันธ์ที่ SPR เผยแพร่ที่ [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf) และตัวบทฉบับเต็มของรัฐธรรมนูญที่ [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php)
+
+อยากรู้ว่ามาเลเซียปกครองอย่างไร ดู[สามระดับการปกครองของมาเลเซีย](/th/government/three-tiers-of-government/)

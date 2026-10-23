@@ -320,3 +320,5 @@ Perlembagaan Persekutuan yang diterbitkan oleh SPR di
 [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf)
 dan teks penuh Perlembagaan di
 [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php).
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

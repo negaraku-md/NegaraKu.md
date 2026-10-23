@@ -267,3 +267,5 @@ Jabatan Peguam Negara dan dalam cetakan semula rasmi Perlembagaan Persekutuan.
 
 Laman ini bersifat deskriptif dan berasaskan teks. Ia adalah draf dan belum disemak
 oleh penyemak manusia yang dinamakan.
+
+Baru mengenali cara Malaysia ditadbir? Lihat [tiga peringkat kerajaan Malaysia](/government/three-tiers-of-government/).

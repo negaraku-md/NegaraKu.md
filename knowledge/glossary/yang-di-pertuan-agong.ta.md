@@ -341,3 +341,5 @@ di-Pertuan Agong; அவரது மகாராணி Raja Permaisuri Agong �
 உரை, Jabatan Peguam Negara (சட்ட மா அதிபர் திணைக்களம், Attorney General's
 Chambers) வெளியிட்ட கூட்டரசு அரசியலமைப்பே; தேர்வுக் கூட்டத்தின் நடைமுறையை
 Majlis Raja-Raja தனது அதிகாரப்பூர்வ இணையதளத்தில் வெளியிடுகிறது.
+
+மலேசியா எவ்வாறு ஆளப்படுகிறது என அறிய விரும்புகிறீர்களா? [மலேசியாவின் மூன்று அடுக்கு அரசாங்கத்தைப்](/ta/government/three-tiers-of-government/) பார்க்கவும்.

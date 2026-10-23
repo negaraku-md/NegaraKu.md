@@ -208,3 +208,5 @@ keywords: ["निर्वाचन आयोग", "Suruhanjaya Pilihan Raya", 
 शासक सम्मेलन से परामर्श के बाद Yang di-Pertuan Agong द्वारा नियुक्ति की प्रक्रिया के लिए, देखें [Yang di-Pertuan Agong](/en/government/yang-di-pertuan-agong) और [शासक सम्मेलन (Conference of Rulers)](/en/government/majlis-raja-raja)।
 
 अनुच्छेद 113 से 120 और तेरहवीं अनुसूची का पूरा पाठ महान्यायवादी कार्यालय के पोर्टल पर संघीय संविधान के आधिकारिक पुनर्मुद्रण में पढ़ा जा सकता है, और कार्यों का आधिकारिक विवरण निर्वाचन आयोग द्वारा `spr.gov.my` पर प्रकाशित किया जाता है।
+
+जानना चाहते हैं कि मलेशिया कैसे शासित होता है? देखें [मलेशिया की सरकार के तीन स्तर](/hi/government/three-tiers-of-government/)।

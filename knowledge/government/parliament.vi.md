@@ -142,3 +142,5 @@ biên tập của NegaraKu.md. Nó được viết để mang tính mô tả ngh
 cấu trúc và chức năng — và được giữ ở dạng bản thảo chờ sự phê duyệt của con người
 trước khi xuất bản. Các số liệu không thể được xác nhận với một nguồn chính thức được
 liệt kê trong `verificationNeeded` thay vì được công bố.*
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).
