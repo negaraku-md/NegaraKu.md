@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "معهد الدبلوماسية والعلاقات الخارجية (IDFR)، ماليزيا"
   - title: "السفارات والمفوضيات العليا (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "وزارة الخارجية الماليزية (Wisma Putra)"
   - title: "الذكرى السابعة والأربعون للعلاقات الدبلوماسية الصينية-الماليزية (البيان المشترك في 31 مايو 1974؛ أول دولة في آسيان) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

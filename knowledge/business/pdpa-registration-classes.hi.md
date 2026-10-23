@@ -69,7 +69,7 @@ sources:
     publisher: "महान्यायवादी कक्ष (Attorney General's Chambers)"
     date: "2013-11-14"
   - title: "डेटा नियंत्रक का पंजीकरण (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "व्यक्तिगत डेटा संरक्षण आयुक्त मलेशिया (Personal Data Protection Commissioner Malaysia)"
     date: "2025-06-01"
 

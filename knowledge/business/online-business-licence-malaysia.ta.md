@@ -75,7 +75,7 @@ sources:
     publisher: "தலைமை வழக்கறிஞர் அலுவலகம்"
     date: "2024-12-24"
   - title: "தனிநபர் தரவு பாதுகாப்பு வழிகாட்டி — தரவு பாதுகாப்பு அதிகாரி நியமனம் (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "தனிநபர் தரவு பாதுகாப்பு திணைக்களம்"
     date: "2025-02-25"
   - title: "KPDN மின்வணிக ஒழுங்குமுறை மறுஆய்வு (KPDN E-Commerce Regulatory Review)"

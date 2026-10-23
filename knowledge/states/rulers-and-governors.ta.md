@@ -62,7 +62,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "அரசர்களின் முத்திரை காப்பாளர் அலுவலகம் / அரசர்கள் மாநாடு"
   - title: "மலாக்கா மாநில அரசின் அதிகாரப்பூர்வ இணையதளம் — மாநில ஆளுநர் (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "மலாக்கா மாநில அரசு"
 
 entity: "Ketua Negeri Malaysia"

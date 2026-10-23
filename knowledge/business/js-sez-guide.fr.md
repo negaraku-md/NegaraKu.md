@@ -81,7 +81,7 @@ sources:
     publisher: "MITI"
     date: "2025-10-14"
   - title: "Recherche de législation subsidiaire du journal officiel fédéral (P.U.(A)) (Federal gazette subsidiary legislation search (P.U.(A)))"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "Cabinet du Procureur général (AGC)"
   - title: "La Zone économique spéciale Johor-Singapour : premières considérations de structuration pour les investisseurs (The Johor-Singapore Special Economic Zone: early structuring considerations for investors)"
     url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"

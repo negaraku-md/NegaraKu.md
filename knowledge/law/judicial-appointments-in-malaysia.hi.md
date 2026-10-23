@@ -54,7 +54,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "मलेशिया का महान्यायवादी कार्यालय (Attorney General's Chambers of Malaysia) (lom.agc.gov.my)"
   - title: "न्यायिक नियुक्ति आयोग अधिनियम 2009 (Act 695), 1 मई 2014 तक अद्यतन पुनर्मुद्रण (Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014)"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
+    url: "https://lawplayer.com/my/act/act-695"
     publisher: "मलेशिया के कानून (Laws of Malaysia) (महान्यायवादी कार्यालय पुनर्मुद्रण)"
   - title: "परिचय — न्यायिक नियुक्ति आयोग (Introduction — Judicial Appointments Commission)"
     url: "https://www.jac.gov.my/en/commission/introduction"

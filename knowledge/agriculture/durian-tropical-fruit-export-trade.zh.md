@@ -90,7 +90,7 @@ sources:
     url: "https://www.bernama.com/en/news.php?id=2475446"
     publisher: "BERNAMA"
   - title: "马来西亚目标2030年前对华榴梿出口达9.323亿令吉 (Malaysia targets RM932.3 mil in durian exports to China by 2030)"
-    url: "https://theedgemalaysia.com/node/809427"
+    url: "https://web.archive.org/web/20260705112646/https://theedgemalaysia.com/node/809427"
     publisher: "The Edge Malaysia"
   - title: "四个马来西亚榴梿品种获注册，仍需国际保护 (Four Malaysian durian varieties registered, international protection needed)"
     url: "https://asianews.network/four-malaysian-durian-varieties-registered-international-protection-needed/"

@@ -54,7 +54,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Cabinet du Procureur général de Malaisie (Attorney General's Chambers of Malaysia) (lom.agc.gov.my)"
   - title: "Loi sur la Commission des nominations judiciaires de 2009 (Act 695), réimpression mise à jour au 1er mai 2014 (Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014)"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
+    url: "https://lawplayer.com/my/act/act-695"
     publisher: "Lois de la Malaisie (Laws of Malaysia) (réimpression du Cabinet du Procureur général)"
   - title: "Introduction — Commission des nominations judiciaires (Introduction — Judicial Appointments Commission)"
     url: "https://www.jac.gov.my/en/commission/introduction"

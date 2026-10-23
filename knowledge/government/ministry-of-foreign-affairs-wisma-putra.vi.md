@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "Bộ Ngoại giao Malaysia (Wisma Putra)"
   - title: "Đại sứ quán & Cao ủy (Cơ quan đại diện Malaysia) (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Bộ Ngoại giao Malaysia (Wisma Putra)"
   - title: "Hỗ trợ ở nước ngoài (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

@@ -64,7 +64,7 @@ sources:
     url: "https://cms.myasnb.com.my/uploads/PHS_ASB_dd_25052026_b127277df2.pdf"
     publisher: "Amanah Saham Nasional Berhad"
   - title: "Prospektus Induk ASNB (bertarikh 1 Februari 2020) dan prospektus tambahan — didaftarkan dengan Suruhanjaya Sekuriti Malaysia; dokumen berautoriti bagi kriteria kelayakan pelabur"
-    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    url: "https://www.asnb.com.my/product"
     publisher: "Amanah Saham Nasional Berhad"
   - title: "Who We Are — About Us"
     url: "https://www.pnb.com.my/en/about-us-en"

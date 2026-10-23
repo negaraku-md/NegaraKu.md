@@ -60,7 +60,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Intellectual_Property_Corporation_of_Malaysia_Act_2002"
     publisher: "Wikipedia"
   - title: "ข้อมูลองค์กร — บรรษัททรัพย์สินทางปัญญาแห่งมาเลเซีย (Corporate Info — Intellectual Property Corporation of Malaysia)"
-    url: "https://www.myipo.gov.my/corporate-info/"
+    url: "https://www.myipo.gov.my/about-us/"
     publisher: "บรรษัททรัพย์สินทางปัญญาแห่งมาเลเซีย (MyIPO)"
   - title: "การยื่นขอเครื่องหมายการค้า — บรรษัททรัพย์สินทางปัญญาแห่งมาเลเซีย (Applying for a Trademark — Intellectual Property Corporation of Malaysia)"
     url: "https://www.myipo.gov.my/applying-for-a-trademark/"

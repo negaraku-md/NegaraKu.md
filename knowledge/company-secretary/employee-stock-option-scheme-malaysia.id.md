@@ -55,13 +55,13 @@ verificationNeeded:
 updated: 2026-09-07
 sources:
   - title: "Ketetapan Umum No. 11/2012: Manfaat Skema Saham Karyawan (Public Ruling No. 11/2012: Employee Share Scheme Benefit)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR11_2012.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR11_2012.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
   - title: "Companies Act 2016 (Act 777) (Companies Act 2016 (Act 777))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
     publisher: "Kejaksaan Agung Malaysia"
   - title: "Ketetapan Umum No. 5/2019: Perkuisit dari Pekerjaan (Public Ruling No. 5/2019: Perquisites from Employment)"
-    url: "http://lampiran2.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
   - title: "Persyaratan Pencatatan Pasar Utama — Bab 6 (Penerbitan Baru Sekuritas) (Main Market Listing Requirements — Chapter 6 (New Issues of Securities))"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"

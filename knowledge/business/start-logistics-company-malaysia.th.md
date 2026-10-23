@@ -52,7 +52,7 @@ sources:
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/667-act-715-land-public-transport-act-2010/file"
     publisher: "หน่วยงานขนส่งสาธารณะทางบก (APAD)"
   - title: "ฝ่ายการออกใบอนุญาตเชิงพาณิชย์ (Commercial Licensing Division (Bahagian Pelesenan Komersial))"
-    url: "https://www.apad.gov.my/en/corporate/section/commercial-licensing-division"
+    url: "https://www.apad.gov.my/index.php/korporat/bahagian/bahagian-lesen-komersial"
     publisher: "หน่วยงานขนส่งสาธารณะทางบก (APAD)"
   - title: "ผู้ประกอบการและใบอนุญาต (Operators and Licence)"
     url: "https://www.mot.gov.my/en/land/operators/operators-and-license"

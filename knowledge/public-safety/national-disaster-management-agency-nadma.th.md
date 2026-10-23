@@ -56,7 +56,7 @@ sources:
     url: "https://www.malaysia.gov.my/my/categories/keselamatan-komuniti--undang-undang/bencana-dan-kecemasan/peranan-agensi-pengurusan-bencana-nadma"
     publisher: "พอร์ทัลทางการของรัฐบาลมาเลเซีย (MyGovernment)"
   - title: "หน่วยงานหลักด้านการจัดการภัยพิบัติ (Agensi Peneraju Pengurusan Bencana)"
-    url: "https://www.nadma.gov.my/ms/korporat/perkhidmatan-teras/agensi-peneraju-pengurusan-bencana"
+    url: "https://www.nadma.gov.my/bm/korporat/perkhidmatan-teras/agensi-peneraju-pengurusan-bencana"
     publisher: "สำนักงานจัดการภัยพิบัติแห่งชาติ (NADMA)"
   - title: "ประวัติการก่อตั้ง NADMA (Sejarah Penubuhan NADMA)"
     url: "https://www.nadma.gov.my/bm/korporat/sejarah-penubuhan-nadma"

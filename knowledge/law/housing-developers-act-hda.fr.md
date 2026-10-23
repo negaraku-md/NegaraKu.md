@@ -74,7 +74,7 @@ sources:
     url: "https://www.mondaq.com/real-estate/467810/an-overview-of-the-recent-amendment-to-the-housing-development-control-and-licensing-act-1966"
     publisher: "Mondaq"
   - title: "Loi de 1966 sur le développement du logement (contrôle et licences) (Act 118) — Réimpression intégrant les modifications jusqu'au 1er janvier 2006 (texte de la loi de base) (Housing Development (Control and Licensing) Act 1966 (Act 118) — Reprint incorporating amendments up to 1 January 2006 (base statute text))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/07/Housing-Development-Control-and-Licensing-Act-1966.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20118.pdf"
     publisher: "Commissaire à la révision des lois, Malaisie / Percetakan Nasional Malaysia"
   - title: "Schedule G — Contrat de vente (terrain et bâtiment), Règlement de 1989 sur le développement du logement (contrôle et licences) (Schedule G — Sale and Purchase Agreement (Land and Building), Housing Development (Control and Licensing) Regulations 1989)"
     url: "https://www.hba.org.my/laws/housing_reg/2002/Schedule_G.pdf"

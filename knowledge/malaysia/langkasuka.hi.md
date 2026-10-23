@@ -31,7 +31,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "लांगकासुका (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "लियांग शू (लियांग की पुस्तक), दक्षिणी बर्बरों पर अध्याय (Liang Shu / Book of Liang, Chapter on Southern Barbarians)"
     publisher: "चीनी राजवंशीय इतिहास-लेखन, 7वीं शताब्दी ईस्वी का संकलन"

@@ -62,7 +62,7 @@ sources:
     url: "https://www.masb.org.my/pages.php?id=89"
     publisher: "Malaysian Accounting Standards Board (MASB)"
   - title: "Main Market Listing Requirements, Chapter 10 (Transactions) — Related Party Transactions"
-    url: "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5ce3b50239fba2627b2864be/5ce3b5c439fba264f32eb401/files/MAIN_Chap10_RPT_31Oct2025_.pdf"
+    url: "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5ce3b50239fba2627b2864be/5ce3b5c439fba264f32eb401/files/MAIN_Chap10_MSR__3Jun2026_.pdf"
     publisher: "Bursa Malaysia Securities Berhad"
 
 entity: "ISA 550 (Related Parties)"

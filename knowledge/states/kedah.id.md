@@ -62,7 +62,7 @@ sensitivity: "royalty"
 updated: 2026-07-24
 sources:
   - title: "Mengenai Kedah — Portal Resmi Pemerintah Negeri Kedah Darul Aman"
-    url: "https://www.kedah.gov.my/index.php/mengenai-kedah/"
+    url: "https://web.archive.org/web/20250313223746/https://www.kedah.gov.my/index.php/mengenai-kedah/"
     publisher: "Kerajaan Negeri Kedah Darul Aman"
   - title: "Kesultanan Kedah — Portal Resmi Pemerintah Negeri Kedah Darul Aman"
     url: "https://www.kedah.gov.my/index.php/kesultanan-kedah/"

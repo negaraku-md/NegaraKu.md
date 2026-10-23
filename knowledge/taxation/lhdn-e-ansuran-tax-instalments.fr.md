@@ -55,7 +55,7 @@ sources:
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
     publisher: "Administration fiscale de Malaisie (LHDN)"
   - title: "Communiqué : demande d'échelonnement pour le paiement du solde d'impôt ou des arriérés d'impôt en ligne via e-Ansuran sur MyTax (18 mars 2025) (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
-    url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
   - title: "Portail MyTax (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"

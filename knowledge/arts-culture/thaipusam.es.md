@@ -64,7 +64,7 @@ sources:
     url: "https://www.malaysia.travel/explore/batu-caves"
     publisher: "Tourism Malaysia"
   - title: "Por qué debes vivir el Thaipusam en Penang (Here's Why You Must Experience Thaipusam in Penang)"
-    url: "https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
+    url: "https://web.archive.org/web/2024/https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
     publisher: "Penang Global Tourism / Gobierno del Estado de Penang"
   - title: "El Thaipusam y el Día del Territorio Federal, publicados en gaceta como festivos el 1 de febrero de 2026 (Thaipusam, FT Day gazetted as public holiday on Feb 1, 2026)"
     url: "https://www.thestar.com.my/news/nation/2025/12/31/thaipusam-ft-day-gazetted-as-public-holiday-on-feb-1-2026"

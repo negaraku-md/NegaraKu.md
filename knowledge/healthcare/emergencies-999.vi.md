@@ -68,7 +68,7 @@ sources:
     url: "https://portal.appshtaa.moh.gov.my/index.php/perkhidmatan/caj-dan-bayaran/caj-dan-bayaran-warga-asing"
     publisher: "Bệnh viện Tengku Ampuan Afzan, Bộ Y tế Malaysia (KKM)"
   - title: "Khoa Cấp cứu và Chấn thương (Jabatan Kecemasan dan Trauma)"
-    url: "https://hsnzkt.moh.gov.my/en/direktorat/direktorat-perkhidmatan-klinikal/direktorat-perkhidmatan-pembedahan/jabatan-kecemasan-dan-trauma"
+    url: "https://hsnzkt.moh.gov.my/index.php/direktorat/direktorat-perkhidmatan-klinikal/direktorat-perkhidmatan-pembedahan/jabatan-kecemasan-dan-trauma"
     publisher: "Bệnh viện Sultanah Nur Zahirah, Bộ Y tế Malaysia (KKM)"
 
 entity: "Talian Kecemasan 999 (MERS 999 / NG999)"

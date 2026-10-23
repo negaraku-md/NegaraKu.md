@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "สถาบันการทูตและความสัมพันธ์ระหว่างประเทศ (IDFR) มาเลเซีย"
   - title: "สถานเอกอัครราชทูตและสำนักงานข้าหลวงใหญ่ (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "กระทรวงการต่างประเทศมาเลเซีย (Wisma Putra)"
   - title: "ครบรอบ 47 ปีความสัมพันธ์ทางการทูตจีน-มาเลเซีย (แถลงการณ์ร่วม 31 พฤษภาคม 1974; ประเทศอาเซียนประเทศแรก) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

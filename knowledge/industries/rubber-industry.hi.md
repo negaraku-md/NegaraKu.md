@@ -79,7 +79,7 @@ sources:
     url: "https://irainfo.org/News/Detail/110"
     publisher: "International Rubber Association / ANRPC"
   - title: "मलेशिया रबर दस्ताने के नवोन्मेषी उत्पादन में अग्रणी — MARGMA (मलेशिया ~45%, चीन ~28% वैश्विक बाज़ार हिस्सेदारी, 2024) (Malaysia leads in innovative production of rubber gloves — MARGMA (Malaysia ~45%, China ~28% global market share, 2024))"
-    url: "https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
+    url: "https://web.archive.org/web/20250523181712/https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
     publisher: "मलेशियाई निवेश विकास प्राधिकरण (MIDA) / MARGMA"
   - title: "मलेशिया रबर दस्ताना बाज़ार — सामग्री विभाजन (सिंथेटिक ~65% बनाम प्राकृतिक ~35% निर्यात; Hartalega नाइट्राइल उद्गम) (Malaysia Rubber Gloves Market — material segmentation (synthetic ~65% vs natural ~35% of exports; Hartalega nitrile origin))"
     url: "https://www.grandviewresearch.com/horizon/outlook/rubber-gloves-market/malaysia"

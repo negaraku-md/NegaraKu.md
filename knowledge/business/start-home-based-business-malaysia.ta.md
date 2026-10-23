@@ -54,7 +54,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
   - title: "ஆன்லைன் (e-Daftar) — தனிநபர் பதிவு (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -151,4 +151,4 @@ social:
 
 [^ssm]: Companies Commission of Malaysia (SSM), *Guidelines for Registration of New Business* — வணிகத்தின் வரையறை, 18+ வயது மலேசியக் குடிமகன்/PR தேவை, கட்டணங்கள் (RM30 சொந்தப் பெயர், RM60 வர்த்தகப் பெயர், ஒவ்வொரு கிளைக்கும் RM5, வணிகத் தகவலுக்கு RM10), ஒன்று முதல் ஐந்து ஆண்டுகள் செல்லுபடி, மற்றும் RM50,000 வரையிலான அபராதம் அல்லது இரண்டு ஆண்டுகள் சிறைத்தண்டனை என்ற தண்டனை. https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: Kementerian Pembangunan Usahawan dan Koperasi (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — பதிவு முன்நிபந்தனை, சிறிய-அளவு/குடியிருப்பு நிபந்தனைகள், 25% தரைப்-பரப்பு வரம்பு, அண்டை வீட்டார்/JMB/நில உரிமையாளர் சம்மதம், ஒரு-ஊழியர் வரம்பு, விளம்பரப் பலகை விதிகள், PBT-நிர்ணயித்த கட்டணங்கள், அனுமதிக்கப்பட்ட மற்றும் தடைசெய்யப்பட்ட செயல்பாட்டுப் பட்டியல்கள், மற்றும் உணவு-வகைத் தேவைகள் (grease trap, FoSIM பட்டியல், உணவு-கையாளுநர் சான்றிதழ், டைபாய்டு-எதிர்ப்புத் தடுப்பூசி). https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — MyTax தளத்தில் e-Daftar வழியாக TIN விண்ணப்பம், 1 January 2024 முதல் நடைமுறை. https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — MyTax தளத்தில் e-Daftar வழியாக TIN விண்ணப்பம், 1 January 2024 முதல் நடைமுறை. https://www.hasil.gov.my/en/individu/pendaftaran/

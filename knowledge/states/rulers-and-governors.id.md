@@ -62,7 +62,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "Kantor Penyimpan Mohor Besar Raja-Raja / Majlis Raja-Raja"
   - title: "Portal Resmi Pemerintah Negeri Melaka — Yang di-Pertua Negeri"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "Pemerintah Negeri Melaka"
 
 entity: "Ketua Negeri Malaysia"

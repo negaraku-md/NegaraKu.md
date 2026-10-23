@@ -55,7 +55,7 @@ sources:
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
     publisher: "말레이시아 내국세청 (LHDN)"
   - title: "보도자료: MyTax의 e-Ansuran을 통한 세액 잔액 또는 세금 체납액의 온라인 분할납부 신청 (2025년 3월 18일) (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
-    url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
   - title: "MyTax 포털 (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"

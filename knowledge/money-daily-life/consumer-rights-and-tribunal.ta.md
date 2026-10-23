@@ -40,7 +40,7 @@ revisions:
 updated: 2026-07-24
 sources:
   - title: "நுகர்வோர் உரிமைகோரல் தீர்ப்பாயம் (Tribunal For Consumer Claims)"
-    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/secretary-general/tribunal-for-consumer-claims"
     publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
   - title: "e-Tribunal v3 (நுகர்வோர் உரிமைகோரல் தீர்ப்பாயத்தின் அதிகாரப்பூர்வ இணையப் பக்கம்) (e-Tribunal v3 (official Tribunal for Consumer Claims portal))"
     url: "https://ttpm.kpdn.gov.my/"

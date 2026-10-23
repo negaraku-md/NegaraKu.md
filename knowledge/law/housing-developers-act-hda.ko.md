@@ -73,7 +73,7 @@ sources:
     url: "https://www.mondaq.com/real-estate/467810/an-overview-of-the-recent-amendment-to-the-housing-development-control-and-licensing-act-1966"
     publisher: "Mondaq"
   - title: "Housing Development (Control and Licensing) Act 1966 (Act 118) — 2006년 1월 1일까지의 개정을 반영한 재판본(기본 법령 텍스트) (Housing Development (Control and Licensing) Act 1966 (Act 118) — Reprint incorporating amendments up to 1 January 2006 (base statute text))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/07/Housing-Development-Control-and-Licensing-Act-1966.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20118.pdf"
     publisher: "말레이시아 법률개정위원 / Percetakan Nasional Malaysia"
   - title: "Schedule G — 매매 계약(토지 및 건물), Housing Development (Control and Licensing) Regulations 1989 (Schedule G — Sale and Purchase Agreement (Land and Building), Housing Development (Control and Licensing) Regulations 1989)"
     url: "https://www.hba.org.my/laws/housing_reg/2002/Schedule_G.pdf"

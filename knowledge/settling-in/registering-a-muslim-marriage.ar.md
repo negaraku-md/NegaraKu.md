@@ -67,7 +67,7 @@ sources:
     url: "https://www.malaysia.gov.my/my/personas/pasangan-ingin-berkahwin/merancang-perkahwinan/ujian-saringan-hiv-praperkahwinan"
     publisher: "MyGovernment (حكومة ماليزيا)"
   - title: "طلب الالتحاق بدورة ما قبل الزواج (Permohonan Kursus Pra Perkahwinan)"
-    url: "https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
+    url: "https://web.archive.org/web/20220210114556/https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
     publisher: "الدائرة الماليزية للتنمية الإسلامية (JAKIM)"
   - title: "الأسئلة الشائعة (Soalan Lazim (Frequently Asked Questions))"
     url: "https://www.jais.gov.my/en/soalan-lazim/"

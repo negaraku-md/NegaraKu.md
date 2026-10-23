@@ -64,7 +64,7 @@ sources:
     url: "https://jpt.mohe.gov.my/index.php/en/hei/private-hei/21-act-555"
     publisher: "高等教育局、マレーシア高等教育省"
   - title: "顧客憲章 (Client Charter)"
-    url: "https://www.mohe.gov.my/en/corporate/charter/101-client-charter"
+    url: "https://www.mohe.gov.my/en/corporate/client-s-charter"
     publisher: "マレーシア高等教育省"
 
 entity: "Private Education Business (Malaysia)"

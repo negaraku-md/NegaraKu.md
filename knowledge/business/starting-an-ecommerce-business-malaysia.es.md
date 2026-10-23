@@ -63,7 +63,7 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/sales-tax-on-imported-low-value-goods-sold-online"
     publisher: "Ministerio de Finanzas de Malasia (Ministry of Finance Malaysia)"
   - title: "Factura electrónica (e-Invoice)"
-    url: "https://www.hasil.gov.my/en/e-invoice/"
+    url: "https://www.hasil.gov.my/en/e-invois/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN) (Inland Revenue Board of Malaysia)"
   - title: "Registro de negocio (ROB) — ezBIZ en línea (Registration of Business (ROB) — ezBIZ Online)"
     url: "https://ezbiz.ssm.com.my/"

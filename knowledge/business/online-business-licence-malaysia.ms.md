@@ -75,7 +75,7 @@ sources:
     publisher: "Jabatan Peguam Negara"
     date: "2024-12-24"
   - title: "Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "Jabatan Perlindungan Data Peribadi"
     date: "2025-02-25"
   - title: "Semakan Kawal Selia E-Dagang KPDN (KPDN E-Commerce Regulatory Review)"

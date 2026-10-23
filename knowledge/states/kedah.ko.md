@@ -62,7 +62,7 @@ sensitivity: "royalty"
 updated: 2026-07-24
 sources:
   - title: "케다 소개 — 케다 다룰 아만주 정부 공식 포털 (Mengenai Kedah — Portal Rasmi Kerajaan Negeri Kedah Darul Aman)"
-    url: "https://www.kedah.gov.my/index.php/mengenai-kedah/"
+    url: "https://web.archive.org/web/20250313223746/https://www.kedah.gov.my/index.php/mengenai-kedah/"
     publisher: "케다 다룰 아만주 정부"
   - title: "케다 술탄국 — 케다 다룰 아만주 정부 공식 포털 (Kesultanan Kedah — Portal Rasmi Kerajaan Negeri Kedah Darul Aman)"
     url: "https://www.kedah.gov.my/index.php/kesultanan-kedah/"

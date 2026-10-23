@@ -66,7 +66,7 @@ sources:
     url: "https://portal.appshtaa.moh.gov.my/index.php/perkhidmatan/caj-dan-bayaran/caj-dan-bayaran-warga-asing"
     publisher: "Hospital Tengku Ampuan Afzan、マレーシア保健省"
   - title: "救急・外傷科 (Jabatan Kecemasan dan Trauma)"
-    url: "https://hsnzkt.moh.gov.my/en/direktorat/direktorat-perkhidmatan-klinikal/direktorat-perkhidmatan-pembedahan/jabatan-kecemasan-dan-trauma"
+    url: "https://hsnzkt.moh.gov.my/index.php/direktorat/direktorat-perkhidmatan-klinikal/direktorat-perkhidmatan-pembedahan/jabatan-kecemasan-dan-trauma"
     publisher: "Hospital Sultanah Nur Zahirah、マレーシア保健省"
 
 entity: "Talian Kecemasan 999 (MERS 999 / NG999)"

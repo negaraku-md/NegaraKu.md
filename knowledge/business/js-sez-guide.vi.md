@@ -81,7 +81,7 @@ sources:
     publisher: "Bộ Đầu tư, Thương mại và Công nghiệp (MITI)"
     date: "2025-10-14"
   - title: "Tra cứu văn bản pháp luật phụ thuộc công báo liên bang (P.U.(A)) (Federal gazette subsidiary legislation search (P.U.(A)))"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "Văn phòng Tổng Chưởng lý"
   - title: "Khu Kinh tế Đặc biệt Johor-Singapore: các cân nhắc cấu trúc ban đầu cho nhà đầu tư (The Johor-Singapore Special Economic Zone: early structuring considerations for investors)"
     url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"

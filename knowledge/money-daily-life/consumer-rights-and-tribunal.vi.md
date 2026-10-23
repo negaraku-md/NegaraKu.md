@@ -40,7 +40,7 @@ revisions:
 updated: 2026-07-24
 sources:
   - title: "Tòa án Khiếu nại Người tiêu dùng (Tribunal For Consumer Claims)"
-    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/secretary-general/tribunal-for-consumer-claims"
     publisher: "Bộ Thương mại Nội địa và Chi phí Sinh hoạt (Ministry of Domestic Trade and Cost of Living, KPDN)"
   - title: "e-Tribunal v3 (cổng chính thức của Tòa án Khiếu nại Người tiêu dùng) (e-Tribunal v3 (official Tribunal for Consumer Claims portal))"
     url: "https://ttpm.kpdn.gov.my/"

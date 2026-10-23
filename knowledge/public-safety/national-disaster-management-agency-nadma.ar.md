@@ -56,7 +56,7 @@ sources:
     url: "https://www.malaysia.gov.my/my/categories/keselamatan-komuniti--undang-undang/bencana-dan-kecemasan/peranan-agensi-pengurusan-bencana-nadma"
     publisher: "البوابة الرسمية لحكومة ماليزيا (MyGovernment)"
   - title: "الوكالة الرائدة في إدارة الكوارث (Agensi Peneraju Pengurusan Bencana)"
-    url: "https://www.nadma.gov.my/ms/korporat/perkhidmatan-teras/agensi-peneraju-pengurusan-bencana"
+    url: "https://www.nadma.gov.my/bm/korporat/perkhidmatan-teras/agensi-peneraju-pengurusan-bencana"
     publisher: "الوكالة الوطنية لإدارة الكوارث (NADMA)"
   - title: "تاريخ تأسيس NADMA (Sejarah Penubuhan NADMA)"
     url: "https://www.nadma.gov.my/bm/korporat/sejarah-penubuhan-nadma"

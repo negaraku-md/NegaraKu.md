@@ -86,7 +86,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
     publisher: "कंपनी आयोग मलेशिया (SSM)"
   - title: "सीमित दायित्व साझेदारी का कराधान, सार्वजनिक निर्णय संख्या 8/2022 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
-    url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_8_2022.pdf"
     publisher: "अंतर्देशीय राजस्व बोर्ड (LHDN)"
     date: "2022-12-23"
   - title: "विधि व्यवसाय अधिनियम 1976 (अधिनियम 166) (Legal Profession Act 1976 (Act 166))"

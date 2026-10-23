@@ -79,7 +79,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "Kantor Perdana Menteri Malaysia"
   - title: "Bagian Parlemen — PPN W.P. Kuala Lumpur / Putrajaya"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "Komisi Pemilihan Raya Malaysia"
   - title: "Perkiraan penduduk menurut negeri (data terbuka)"
     url: "https://open.dosm.gov.my/data-catalogue"

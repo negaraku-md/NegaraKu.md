@@ -59,7 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "महान्यायवादी कार्यालय (AGC) — मलेशिया के कानून ऑनलाइन (Laws of Malaysia Online)"
   - title: "साबाह वाणिज्यिक वाहन लाइसेंसिंग बोर्ड (LPKP) (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "साबाह राज्य सरकार (Sabah State Government)"
 
 entity: "E-hailing"

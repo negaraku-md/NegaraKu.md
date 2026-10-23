@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "مجلس الشؤون الدينية الإسلامية والأعراف الملايوية لولاية ترينغانو (MAIDAM)"
   - title: "زكاة الدخل / الراتب (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "مجلس الشؤون الدينية الإسلامية لولاية بينانغ (MAINPP)"
   - title: "زكاة المال المدخَّر (النصاب 20 مثقالًا / 85 غرامًا من الذهب؛ المقدار 2.5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

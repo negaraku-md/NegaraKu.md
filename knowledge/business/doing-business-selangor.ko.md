@@ -72,7 +72,7 @@ sources:
     url: "https://elesen.mbpj.gov.my/assets/SOP_MBPJ/garis_panduan_perniagaan_dalam_talian_v3.pdf"
     publisher: "프탈링자야 시의회"
   - title: "사업 면허 정보 (Info Lesen Perniagaan)"
-    url: "https://www.mbsj.gov.my/ms/info-lesen-perniagaan"
+    url: "https://www.mbsj.gov.my/ms/pelesenan"
     publisher: "수방자야 시의회"
   - title: "주별 국내총생산 (GDP), 2025 (Gross Domestic Product (GDP) by State, 2025)"
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-gdp-by-state-2025"

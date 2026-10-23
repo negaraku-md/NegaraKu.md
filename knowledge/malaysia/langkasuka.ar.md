@@ -31,7 +31,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "لانغكاسوكا (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "كتاب ليانغ، فصل برابرة الجنوب (Liang Shu / Book of Liang, Chapter on Southern Barbarians)"
     publisher: "التأريخ السلالي الصيني، تجميع يعود إلى القرن السابع الميلادي"

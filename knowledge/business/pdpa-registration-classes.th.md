@@ -69,7 +69,7 @@ sources:
     publisher: "สำนักงานอัยการสูงสุด"
     date: "2013-11-14"
   - title: "การจดทะเบียนผู้ควบคุมข้อมูล (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "กรรมาธิการคุ้มครองข้อมูลส่วนบุคคลมาเลเซีย"
     date: "2025-06-01"
 

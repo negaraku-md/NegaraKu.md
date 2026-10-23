@@ -84,7 +84,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "Directriz de Protección de Datos Personales — Notificación de Violación de Datos, Versión 1.0 (Personal Data Protection Guideline — Data Breach Notification, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
+    url: "https://web.archive.org/web/20260209180751/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
     publisher: "Comisionado de Protección de Datos Personales de Malasia (JPDP)"
     date: "2025-02-25"
   - title: "Ley de Protección de Datos Personales (Enmienda) de 2024 [Ley A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -96,7 +96,7 @@ sources:
     publisher: "Cámara del Fiscal General (AGC)"
     date: "2024-12-24"
   - title: "Directrices y Circulares sobre Notificación de Violación de Datos (DBN) (Guidelines and Circulars on Data Breach Notification (DBN))"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
     publisher: "Comisionado de Protección de Datos Personales de Malasia (JPDP)"
     date: "2025-02-25"
 

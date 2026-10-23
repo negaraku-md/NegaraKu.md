@@ -53,7 +53,7 @@ sources:
     url: "https://lom.agc.gov.my/"
     publisher: "महान्यायवादी कार्यालय (Attorney General's Chambers)"
   - title: "BLESS — पृष्ठभूमि (BLESS — Latar Belakang)"
-    url: "https://portal.bless.gov.my/latar-belakang/"
+    url: "https://portal.bless.gov.my/background/"
     publisher: "उद्यमिता विकास एवं सहकारिता मंत्रालय (KUSKOP)"
   - title: "MalaysiaBiz — व्यवसाय लाइसेंसिंग (MalaysiaBiz — Business Licensing)"
     url: "https://malaysiabiz.gov.my/en/services/business-licensing"

@@ -42,7 +42,7 @@ sources:
     url: "https://cfs.forestry.gov.my/faq/"
     publisher: "중앙 산림 척추 국제센터(ICCFS), 반도 말레이시아 산림청 (International Centre for Central Forest Spine (ICCFS), Forestry Department of Peninsular Malaysia)"
   - title: "구눙 스통 (Gunung Stong)"
-    url: "https://www.kesedar.gov.my/en/pelancongan-kelantan-selatan/gunung-stong/"
+    url: "https://www.kesedar.gov.my/gunung-stong-2/"
     publisher: "남부 클란탄 개발청 (KESEDAR)"
   - title: "로열 블룸 (Royal Belum)"
     url: "https://www.mybis.gov.my/pa/209"

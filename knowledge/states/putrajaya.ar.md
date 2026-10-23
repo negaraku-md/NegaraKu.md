@@ -78,7 +78,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "مكتب رئيس وزراء ماليزيا (Pejabat Perdana Menteri Malaysia)"
   - title: "قسم البرلمان — PPN الإقليم الاتحادي كوالالمبور / بوتراجايا (Bahagian Parlimen — PPN W.P. Kuala Lumpur / Putrajaya)"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "لجنة الانتخابات الماليزية (SPR) (Suruhanjaya Pilihan Raya Malaysia)"
   - title: "تقديرات السكان حسب الولاية (بيانات مفتوحة) (Anggaran penduduk mengikut negeri (data terbuka))"
     url: "https://open.dosm.gov.my/data-catalogue"

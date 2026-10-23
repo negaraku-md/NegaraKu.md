@@ -70,7 +70,7 @@ sources:
     publisher: "总检察署"
     date: "2013-11-14"
   - title: "资料控制者注册 (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "马来西亚个人资料保护专员"
     date: "2025-06-01"
 

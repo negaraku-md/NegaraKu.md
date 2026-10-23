@@ -44,7 +44,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
   - title: "பணிவாய்ப்பிலிருந்து பெறப்படும் கூடுதல் சலுகைகள், பொது தீர்ப்பு எண். 5/2019 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2019-11-19"
   - title: "வேலை காயத் திட்டம் (Employment Injury Scheme (LINDUNG PEKERJA))"

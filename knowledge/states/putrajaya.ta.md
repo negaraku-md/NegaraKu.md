@@ -78,7 +78,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "மலேசிய பிரதமர் அலுவலகம்"
   - title: "நாடாளுமன்றத் தொகுதி — கூட்டாட்சிப் பிரதேசம் கோலாலம்பூர் / புத்ராஜெயா மாநில தேர்தல் அலுவலகம் (PPN) (Bahagian Parlimen — PPN W.P. Kuala Lumpur / Putrajaya)"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "மலேசிய தேர்தல் ஆணையம்"
   - title: "மாநிலவாரி மக்கள்தொகை மதிப்பீடு (திறந்த தரவு) (Anggaran penduduk mengikut negeri (data terbuka))"
     url: "https://open.dosm.gov.my/data-catalogue"

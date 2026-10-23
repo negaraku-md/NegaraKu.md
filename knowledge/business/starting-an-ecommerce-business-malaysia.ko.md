@@ -62,7 +62,7 @@ sources:
     url: "https://www.mof.gov.my/portal/en/news/press-release/sales-tax-on-imported-low-value-goods-sold-online"
     publisher: "말레이시아 재무부"
   - title: "e-인보이스 (e-Invoice)"
-    url: "https://www.hasil.gov.my/en/e-invoice/"
+    url: "https://www.hasil.gov.my/en/e-invois/"
     publisher: "말레이시아 국세청 (LHDN)"
   - title: "사업 등록 (ROB) — ezBIZ Online (Registration of Business (ROB) — ezBIZ Online)"
     url: "https://ezbiz.ssm.com.my/"

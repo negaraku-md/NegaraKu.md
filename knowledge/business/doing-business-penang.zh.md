@@ -102,7 +102,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Penang_Development_Corporation"
     publisher: "Wikipedia"
   - title: "《马来西亚法律》第438号法令 Free Zones Act 1990 (Laws of Malaysia Act 438 Free Zones Act 1990)"
-    url: "https://www.customs.gov.my/en/pg/Free%20Zones%20Act/FREE%20ZONES%20ACT%201990.pdf"
+    url: "https://customs.gov.my/en/procedure/customs/free-zone"
     publisher: "马来西亚皇家关税局"
 
 entity: "Doing business in Penang"

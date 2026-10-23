@@ -72,7 +72,7 @@ sources:
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "Fonds de prévoyance des employés (KWSP) (Employees Provident Fund)"
   - title: "Guide sur l'alimentation et les boissons V7 (19 avril 2024) (Panduan Makanan & Minuman (Guide on Food & Beverages) V7 (19 April 2024))"
-    url: "https://mysst.customs.gov.my/industryguides/"
+    url: "https://mysst.customs.gov.my/industry-guides/"
     publisher: "Département royal des douanes de Malaisie (RMCD) (Royal Malaysian Customs Department)"
 
 entity: "Restaurant / F&B Business (Malaysia)"

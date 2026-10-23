@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "Instituto de Diplomacia y Relaciones Exteriores (IDFR), Malasia (Institute of Diplomacy and Foreign Relations (IDFR), Malaysia)"
   - title: "Embajadas y Altas Comisiones (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Ministerio de Asuntos Exteriores de Malasia (Wisma Putra)"
   - title: "47.º Aniversario de las Relaciones Diplomáticas China-Malasia (comunicado conjunto del 31 de mayo de 1974; primer país de la ASEAN) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

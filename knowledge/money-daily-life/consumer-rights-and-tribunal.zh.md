@@ -39,7 +39,7 @@ revisions:
 updated: 2026-07-24
 sources:
   - title: "消费者索偿仲裁庭 (Tribunal For Consumer Claims)"
-    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/secretary-general/tribunal-for-consumer-claims"
     publisher: "国内贸易及生活成本部 (KPDN)"
   - title: "e-Tribunal v3（消费者索偿仲裁庭官方门户） (e-Tribunal v3 (official Tribunal for Consumer Claims portal))"
     url: "https://ttpm.kpdn.gov.my/"

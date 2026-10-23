@@ -62,7 +62,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "शासकों के महान मुद्रा-संरक्षक कार्यालय / शासक परिषद (Pejabat Penyimpan Mohor Besar Raja-Raja / Majlis Raja-Raja)"
   - title: "मेलाका राज्य सरकार का आधिकारिक पोर्टल — यांग दी-पर्तुआ नेगेरी (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "मेलाका राज्य सरकार (Kerajaan Negeri Melaka)"
 
 entity: "Ketua Negeri Malaysia"

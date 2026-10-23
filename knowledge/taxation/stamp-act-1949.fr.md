@@ -51,7 +51,7 @@ sources:
     url: "https://www.hasil.gov.my/duti-setem/penalti-duti-setem/"
     publisher: "Conseil des impôts de Malaisie (LHDN / IRBM)"
   - title: "Loi sur le timbre de 1949 (Act 378) — texte officiel (Stamp Act 1949 (Act 378) — official text)"
-    url: "https://www.hasil.gov.my/media/hwdf2s3g/20240101-stamp-act-1949-act-378.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-setem-1949-akta-378.pdf"
     publisher: "Conseil des impôts de Malaisie (LHDN / IRBM)"
   - title: "Droit fiscal malaisien – le droit de timbre (Malaysian Tax Law – Stamp Duty)"
     url: "https://oneasia.legal/en/4480"

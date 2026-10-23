@@ -88,7 +88,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
     publisher: "Komisi Perusahaan Malaysia (SSM)"
   - title: "Companies Commission of Malaysia Act 2001 (Act 614)"
-    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Commission-of-Malaysia-Act-2001.aspx"
+    url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Commission-of-Malaysia-Act.aspx"
     publisher: "Komisi Perusahaan Malaysia (SSM)"
   - title: "e-Secretary — sertifikat praktik untuk sekretaris (e-Secretary — practising certificate for secretaries)"
     url: "https://esecretary.ssm.com.my/"

@@ -63,7 +63,7 @@ sources:
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/population_state"
     publisher: "马来西亚统计局 (DOSM)"
   - title: "登嘉楼州地理 (Geografi Negeri Terengganu)"
-    url: "https://www.terengganu.gov.my/index.php/ms/kerajaan/mengenai-terengganu/geografi-negeri-terengganu"
+    url: "https://web.archive.org/web/20241215102129/https://www.terengganu.gov.my/index.php/ms/kerajaan/mengenai-terengganu/geografi-negeri-terengganu"
     publisher: "登嘉楼州政府官方门户"
   - title: "2026年登嘉楼州财政预算案演词 (Ucapan Belanjawan Negeri Terengganu Tahun 2026)"
     url: "https://tsis.terengganu.gov.my/wp-content/uploads/2025/11/Buku-Ucapan-Bajet-2026.pdf"

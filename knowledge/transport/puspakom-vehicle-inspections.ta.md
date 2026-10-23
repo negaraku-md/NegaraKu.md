@@ -59,7 +59,7 @@ verificationNeeded:
 updated: 2026-08-08
 sources:
   - title: "வழக்கமான பரிசோதனை (Routine Inspection)"
-    url: "https://www.puspakom.com.my/routine-inspection/"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
     publisher: "PUSPAKOM"
   - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் (FAQ) (Frequently Asked Questions (FAQ))"
     url: "https://www.puspakom.com.my/faq/"

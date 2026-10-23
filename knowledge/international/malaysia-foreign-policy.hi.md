@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "कूटनीति एवं विदेश संबंध संस्थान (IDFR), मलेशिया"
   - title: "दूतावास एवं उच्चायोग (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "मलेशिया विदेश मंत्रालय (Wisma Putra)"
   - title: "चीन-मलेशिया राजनयिक संबंधों की 47वीं वर्षगाँठ (31 मई 1974 संयुक्त विज्ञप्ति; पहला आसियान देश) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

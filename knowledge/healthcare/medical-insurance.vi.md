@@ -44,7 +44,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
   - title: "Bổng lộc Từ Việc làm, Phán quyết Công No. 5/2019 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2019-11-19"
   - title: "Chương trình Tai nạn Lao động (LINDUNG PEKERJA) (Employment Injury Scheme (LINDUNG PEKERJA))"

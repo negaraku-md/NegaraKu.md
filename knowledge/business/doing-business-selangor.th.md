@@ -72,7 +72,7 @@ sources:
     url: "https://elesen.mbpj.gov.my/assets/SOP_MBPJ/garis_panduan_perniagaan_dalam_talian_v3.pdf"
     publisher: "เทศบาลนครเปอตาลิงจายา"
   - title: "ข้อมูลใบอนุญาตธุรกิจ (Info Lesen Perniagaan)"
-    url: "https://www.mbsj.gov.my/ms/info-lesen-perniagaan"
+    url: "https://www.mbsj.gov.my/ms/pelesenan"
     publisher: "เทศบาลนครซูบังจายา"
   - title: "ผลิตภัณฑ์มวลรวมภายในประเทศ (GDP) จำแนกตามรัฐ, 2025 (Gross Domestic Product (GDP) by State, 2025)"
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-gdp-by-state-2025"

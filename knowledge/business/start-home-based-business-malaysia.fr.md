@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "Commission des sociétés de Malaisie (SSM)"
   - title: "En ligne (e-Daftar) - enregistrement individuel (Online (e-Daftar) - Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "Direction générale des impôts de Malaisie (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -152,4 +152,4 @@ Deux mises en garde avant de commencer à exercer. Premièrement, la directive d
 
 [^ssm]: Commission des sociétés de Malaisie (SSM), *Guidelines for Registration of New Business* - définition de l'entreprise, exigence de citoyen/résident permanent malaisien âgé de 18 ans ou plus, redevances (RM30 nom personnel, RM60 nom commercial, RM5 par succursale, RM10 informations de l'entreprise), validité de un à cinq ans, et la sanction d'une amende pouvant aller jusqu'à RM50,000 ou de deux ans de prison. https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: Ministère du développement de l'entrepreneuriat et des coopératives (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* - condition préalable d'enregistrement, conditions de petite taille/résidentielles, limite de 25 % de la surface, consentement des voisins/JMB/propriétaire, limite d'un travailleur, règles d'enseigne, redevances fixées par le PBT, listes des activités autorisées et interdites, et les exigences de la catégorie alimentation (bac à graisse, inscription au FoSIM, certificat de manipulateur d'aliments, vaccin contre la typhoïde). https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: Direction générale des impôts de Malaisie (LHDN), *Online (e-Daftar) - Individual Registration* - demande de TIN via e-Daftar sur le portail MyTax, en vigueur depuis le 1er janvier 2024. https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: Direction générale des impôts de Malaisie (LHDN), *Online (e-Daftar) - Individual Registration* - demande de TIN via e-Daftar sur le portail MyTax, en vigueur depuis le 1er janvier 2024. https://www.hasil.gov.my/en/individu/pendaftaran/

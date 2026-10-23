@@ -67,7 +67,7 @@ sources:
     url: "https://mediaselangor.com/en/2026/07/385818"
     publisher: "Media Selangor"
   - title: "Việc Áp dụng và Không Áp dụng Đạo luật (Application and Non-Application of the Act)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/akta/application-and-non-application-of-the-act/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/akta/application-and-non-application-of-the-act/"
     publisher: "Cục Bảo vệ Dữ liệu Cá nhân (PDP)"
 
 entity: "MySejahtera"

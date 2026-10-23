@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "马来西亚外交部（Wisma Putra）"
   - title: "大使馆与高级专员公署（马来西亚驻外使团） (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "马来西亚外交部（Wisma Putra）"
   - title: "海外协助 (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

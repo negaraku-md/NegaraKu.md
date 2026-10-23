@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "நடைமுறை குறிப்பு எண். 2/2026 — YA 2026 மற்றும் அடுத்தடுத்த மதிப்பீட்டு ஆண்டுகளுக்கான REIT/PTF அலகு வைத்திருப்போருக்கான வரி நடைமுறை (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
   - title: "REIT அலகு வைத்திருப்போருக்கான வரி நடைமுறை குறித்து HASiL நடைமுறை குறிப்பை வெளியிடுகிறது (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

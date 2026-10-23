@@ -42,7 +42,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "マレーシア内国歳入庁 (LHDN)"
   - title: "雇用に伴う付加給付、パブリックルーリング第5/2019号 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
     date: "2019-11-19"
   - title: "労働災害スキーム (Employment Injury Scheme (LINDUNG PEKERJA))"

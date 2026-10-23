@@ -86,7 +86,7 @@ sources:
     publisher: "வழக்கறிஞர் தலைமை அலுவலகம்"
     date: "2023-11-01"
   - title: "வதிவாளர் தனிநபர் (அறிவுத் தொழிலாளர் / நிபுணத் தொழிலாளர்) விளக்கக் குறிப்புகள் (15% சீரான விகிதம், பகுதி XIV அட்டவணை 1) (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
   - title: "கிழக்குக் கடற்கரைப் பொருளாதார வலயம் (ECER) ஊக்கத்தொகைகள் நீட்டிக்கப்பட்டன (P.U.(A) 123-126/2022, 31 டிச 2022 வரை கடைசி தேதி) (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

@@ -64,7 +64,7 @@ sources:
     url: "https://www.malaysia.travel/explore/batu-caves"
     publisher: "मलेशिया पर्यटन (Tourism Malaysia)"
   - title: "यही कारण है कि आपको पेनांग में थाईपुसम का अनुभव अवश्य करना चाहिए (Here's Why You Must Experience Thaipusam in Penang)"
-    url: "https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
+    url: "https://web.archive.org/web/2024/https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
     publisher: "पेनांग ग्लोबल टूरिज़्म (Penang Global Tourism) / पेनांग राज्य सरकार"
   - title: "थाईपुसम, संघीय क्षेत्र दिवस 1 फ़रवरी 2026 को सार्वजनिक अवकाश राजपत्रित (Thaipusam, FT Day gazetted as public holiday on Feb 1, 2026)"
     url: "https://www.thestar.com.my/news/nation/2025/12/31/thaipusam-ft-day-gazetted-as-public-holiday-on-feb-1-2026"

@@ -56,7 +56,7 @@ sources:
     url: "https://www.malaysia.gov.my/my/categories/keselamatan-komuniti--undang-undang/bencana-dan-kecemasan/peranan-agensi-pengurusan-bencana-nadma"
     publisher: "Portail officiel du gouvernement de la Malaisie (MyGovernment)"
   - title: "Agence chef de file de la gestion des catastrophes (Agensi Peneraju Pengurusan Bencana)"
-    url: "https://www.nadma.gov.my/ms/korporat/perkhidmatan-teras/agensi-peneraju-pengurusan-bencana"
+    url: "https://www.nadma.gov.my/bm/korporat/perkhidmatan-teras/agensi-peneraju-pengurusan-bencana"
     publisher: "Agence nationale de gestion des catastrophes (NADMA)"
   - title: "Histoire de la création de la NADMA (Sejarah Penubuhan NADMA)"
     url: "https://www.nadma.gov.my/bm/korporat/sejarah-penubuhan-nadma"

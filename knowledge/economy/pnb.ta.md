@@ -89,7 +89,7 @@ sources:
     publisher: "Amanah Saham Nasional Berhad"
     date: "2026-05-25"
   - title: "ASNB தலைமை வெளியீட்டறிக்கை (Prospektus Induk) — மலேசியப் பத்திரங்கள் ஆணையத்தில் பதிவு செய்யப்பட்டது; முதலீட்டாளர் தகுதி அளவுகோல்களுக்கான அதிகாரப்பூர்வ ஆவணம் (Prospektus Induk ASNB — registered with the Securities Commission Malaysia; authoritative document for investor eligibility criteria)"
-    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    url: "https://www.asnb.com.my/product"
     publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"

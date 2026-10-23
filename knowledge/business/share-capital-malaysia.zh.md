@@ -96,7 +96,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Companies-Act-2016.aspx"
     publisher: "马来西亚公司委员会 (SSM)"
   - title: "分销贸易 (Perdagangan Pengedaran (Distributive Trade))"
-    url: "https://www.kpdn.gov.my/ms/orang-awam/14-perdagangan/perniagaan/perdagangan-pengedaran"
+    url: "https://www.kpdn.gov.my/ms/info-korporat/bahagian/tksu/bahagian-perdagangan-pengedaran-dan-perniagaan"
     publisher: "国内贸易及生活成本部 (KPDN)"
 
 entity: "Share capital (Malaysian company)"

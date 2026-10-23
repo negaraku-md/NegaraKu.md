@@ -53,7 +53,7 @@ sources:
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/667-act-715-land-public-transport-act-2010/file"
     publisher: "Agence du transport public terrestre (Agensi Pengangkutan Awam Darat, APAD)"
   - title: "Division des licences commerciales (Commercial Licensing Division (Bahagian Pelesenan Komersial))"
-    url: "https://www.apad.gov.my/en/corporate/section/commercial-licensing-division"
+    url: "https://www.apad.gov.my/index.php/korporat/bahagian/bahagian-lesen-komersial"
     publisher: "Agence du transport public terrestre (Agensi Pengangkutan Awam Darat, APAD)"
   - title: "Exploitants et licence (Operators and Licence)"
     url: "https://www.mot.gov.my/en/land/operators/operators-and-license"

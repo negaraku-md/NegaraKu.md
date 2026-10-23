@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "Institut Diplomasi dan Hubungan Luar Negeri (IDFR), Malaysia"
   - title: "Kedutaan & Komisi Tinggi (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Kementerian Luar Negeri Malaysia (Wisma Putra)"
   - title: "Ulang Tahun ke-47 Hubungan Diplomatik Tiongkok-Malaysia (komunike bersama 31 Mei 1974; negara ASEAN pertama) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

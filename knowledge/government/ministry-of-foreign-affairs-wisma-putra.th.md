@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "กระทรวงการต่างประเทศมาเลเซีย (Wisma Putra)"
   - title: "สถานเอกอัครราชทูตและสำนักงานข้าหลวงใหญ่ (คณะผู้แทนมาเลเซีย) (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "กระทรวงการต่างประเทศมาเลเซีย (Wisma Putra)"
   - title: "ความช่วยเหลือในต่างประเทศ (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

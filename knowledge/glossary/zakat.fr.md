@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "Conseil religieux islamique et des coutumes malaises de Terengganu (MAIDAM)"
   - title: "Zakat sur le revenu / le salaire (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "Conseil religieux islamique de l'État de Penang (MAINPP)"
   - title: "Zakat sur l'argent épargné (nisab 20 mithqal / 85 grammes d'or ; taux 2,5 %) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

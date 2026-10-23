@@ -57,7 +57,7 @@ sources:
     url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12900780/"
     publisher: "PubMed Central / NCBI"
   - title: "PeKa B40"
-    url: "https://protecthealth.com.my/peka-b40-eng/"
+    url: "https://protecthealth.com.my/peka-sihat-eng/"
     publisher: "ProtectHealth Corporation (กระทรวงสาธารณสุขมาเลเซีย)"
   - title: "มาเลเซียเตรียมเก็บภาษีน้ำตาลใหม่กับเครื่องดื่ม (Malaysia to impose new sugar tax on beverages)"
     url: "https://theedgemalaysia.com/article/malaysia-impose-new-sugar-tax-beverages"

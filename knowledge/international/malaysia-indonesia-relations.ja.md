@@ -99,7 +99,7 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/external-trade-statistics-malaysia-2024"
     publisher: "マレーシア統計局 (DOSM)"
   - title: "2024年通年および2024年12月の貿易実績 (Trade Performance for Year 2024 and December 2024)"
-    url: "https://www.matrade.gov.my/en/about-matrade/media/press-releases/6264-trade-performance-for-year-2024-and-december-2024"
+    url: "https://www.matrade.gov.my/en/about-matrade/media-release/media-release-2024/trade-performance-december-2024-and-january-december-2024"
     publisher: "マレーシア貿易開発公社 (MATRADE)"
   - title: "対決／コンフロンタシ 1963–1966 (Confrontation / Konfrontasi 1963–1966)"
     url: "https://www.asd.gov.au/about/history/declassified/2023-04-27-confrontation-konfrontasi-1963-1966"

@@ -81,7 +81,7 @@ sources:
     publisher: "投资、贸易及工业部 (MITI)"
     date: "2025-10-14"
   - title: "联邦宪报附属立法检索（P.U.(A)） (Federal gazette subsidiary legislation search (P.U.(A)))"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "总检察署"
   - title: "柔佛-新加坡经济特区：投资者的早期架构考量 (The Johor-Singapore Special Economic Zone: early structuring considerations for investors)"
     url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"

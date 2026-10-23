@@ -90,7 +90,7 @@ sources:
     url: "https://www.bernama.com/en/news.php?id=2475446"
     publisher: "BERNAMA"
   - title: "மலேசியா 2030க்குள் சீனாவுக்கான துரியன் ஏற்றுமதியில் RM932.3 மில்லியனை இலக்காகக் கொண்டுள்ளது (Malaysia targets RM932.3 mil in durian exports to China by 2030)"
-    url: "https://theedgemalaysia.com/node/809427"
+    url: "https://web.archive.org/web/20260705112646/https://theedgemalaysia.com/node/809427"
     publisher: "The Edge Malaysia"
   - title: "நான்கு மலேசிய துரியன் வகைகள் பதிவு செய்யப்பட்டன, சர்வதேச பாதுகாப்பு தேவை (Four Malaysian durian varieties registered, international protection needed)"
     url: "https://asianews.network/four-malaysian-durian-varieties-registered-international-protection-needed/"

@@ -62,7 +62,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "Văn phòng Giữ ấn Lớn của các Vương công / Hội đồng các Vương công"
   - title: "Cổng thông tin chính thức Chính quyền Bang Melaka — Yang di-Pertua Negeri (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "Chính quyền Bang Melaka"
 
 entity: "Ketua Negeri Malaysia"

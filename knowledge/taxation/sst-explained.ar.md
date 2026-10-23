@@ -46,7 +46,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "دائرة الجمارك الملكية الماليزية (RMCD)"
   - title: "دائرة الجمارك الملكية الماليزية — التشريعات (Royal Malaysian Customs Department — legislation)"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "دائرة الجمارك الملكية الماليزية (RMCD)"
 
 entity: "Sales and Service Tax (SST)"

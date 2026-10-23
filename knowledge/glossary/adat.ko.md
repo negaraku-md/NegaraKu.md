@@ -52,7 +52,7 @@ sources:
     publisher: "말레이시아 법무장관실 (AGC)"
     date: "2020-10-15"
   - title: "아닷 프르파티 (Adat Perpatih)"
-    url: "https://ms.wikipedia.org/wiki/Adat_perpatih"
+    url: "https://ms.wikipedia.org/wiki/Adat_Perpatih"
     publisher: "Wikipedia Bahasa Melayu"
   - title: "아닷 트믕공 (Adat Temenggong)"
     url: "https://ms.wikipedia.org/wiki/Adat_Temenggong"

@@ -63,7 +63,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "மலேசிய பங்குப் பத்திர ஆணையம்"
   - title: "பொது தீர்ப்பு எண். 7/2022: துணிகர மூலதன வரி சலுகைகள் (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
   - title: "துணிகர மூலதனம் மற்றும் தனியார் பங்கு கட்டமைப்பை SC திருத்துகிறது (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

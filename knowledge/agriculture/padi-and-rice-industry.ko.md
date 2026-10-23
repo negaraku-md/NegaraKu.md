@@ -60,7 +60,7 @@ sources:
     url: "https://www.dosm.gov.my/portal-main/release-content/supply-and-utilization-accounts-selected-agricultural-commodities-malaysia-2020-2024"
     publisher: "말레이시아 통계청 (DOSM)"
   - title: "국가 농식품 정책 — KPKM (National Agrofood Policy — KPKM)"
-    url: "https://www.kpkm.gov.my/en/agro-food-policy/national-dagrofood-policy"
+    url: "https://www.kpkm.gov.my/en/agro-food-policy/national-agrofood-policy"
     publisher: "농업식량안보부 (KPKM)"
   - title: "농업국 공식 포털 (Portal Rasmi Jabatan Pertanian (Department of Agriculture))"
     url: "https://www.doa.gov.my/index.php/pages/view/622?mid=239"

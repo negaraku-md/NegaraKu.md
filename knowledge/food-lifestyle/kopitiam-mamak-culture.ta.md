@@ -77,10 +77,10 @@ sources:
     url: "https://en.wikipedia.org/wiki/Kopi_(drink)"
     publisher: "Wikipedia"
   - title: "Kopi காய்ச்சலில் சாக்ஸ் வடிகட்டிக்குப் பின்னால் உள்ள ரகசியம் (The Secret Behind the Sock Filter in Kopi Brewing)"
-    url: "https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
+    url: "https://web.archive.org/web/2024/https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
     publisher: "kopiguide.com"
   - title: "மலேசிய ஹலால் சான்றளிப்பு (ஒவ்வொரு வளாகத்திற்கும், தன்னார்வம்) — JAKIM ஹலால் போர்டல் (Malaysia Halal Certification (per-premise, voluntary) — JAKIM Halal Portal)"
-    url: "https://www.halal.gov.my/v4/"
+    url: "https://www.halal.gov.my/"
     publisher: "மலேசிய இஸ்லாமிய முன்னேற்றத் துறை (JAKIM)"
 
 relations:

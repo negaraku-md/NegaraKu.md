@@ -86,7 +86,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
     publisher: "Ủy ban Công ty Malaysia (SSM)"
   - title: "Thuế đối với Hợp danh Trách nhiệm Hữu hạn, Phán quyết Công khai số 8/2022 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
-    url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_8_2022.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2022-12-23"
   - title: "Đạo luật Nghề Luật 1976 (Act 166) (Legal Profession Act 1976 (Act 166))"

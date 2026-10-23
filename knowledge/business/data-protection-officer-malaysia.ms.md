@@ -71,7 +71,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data, Versi 1.0 (Personal Data Protection Guideline — Appointment of Data Protection Officer, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
+    url: "https://web.archive.org/web/20260209181523/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
     publisher: "Pesuruhjaya Perlindungan Data Peribadi Malaysia (JPDP)"
     date: "2025-02-25"
   - title: "Akta Perlindungan Data Peribadi (Pindaan) 2024 [Act A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -83,7 +83,7 @@ sources:
     publisher: "Jabatan Peguam Negara (AGC)"
     date: "2024-12-24"
   - title: "Garis Panduan dan Pekeliling mengenai Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data (Guidelines and Circular on Personal Data Protection — Appointment of Data Protection Officer)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
     publisher: "Pesuruhjaya Perlindungan Data Peribadi Malaysia (JPDP)"
     date: "2025-02-25"
 

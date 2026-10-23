@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
   - title: "القرار العام رقم 8/2025 — المعاملة الضريبية للشركات متناهية الصغر والصغيرة والمتوسطة (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
     date: "2025"
   - title: "الجدول الزمني لتطبيق الفوترة الإلكترونية (مُحدَّث في 7 ديسمبر 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"

@@ -80,7 +80,7 @@ sources:
     publisher: "Bộ Tài chính Malaysia"
     date: "2026-07-22"
   - title: "Hệ thống Kiểm soát Xăng dầu Trợ giá (SKPS) — Câu hỏi thường gặp (Sistem Kawalan Petrol Bersubsidi (SKPS) — Soalan Lazim)"
-    url: "https://www.kpdn.gov.my/en/faq/sistem-kawalan-petrol-bersubsidi-skps"
+    url: "https://www.kpdn.gov.my/en/frequently-asked-questions/subsidised-petrol-control-system-skps"
     publisher: "Bộ Nội thương và Chi phí Sinh hoạt (KPDN)"
 
 entity: "Subsidi bahan api Malaysia"

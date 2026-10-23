@@ -62,7 +62,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "통치자 국새 보관관실 / 통치자 회의"
   - title: "말라카주 정부 공식 포털 — 주 지사 (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "말라카주 정부"
 
 entity: "Ketua Negeri Malaysia"

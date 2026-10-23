@@ -72,7 +72,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "个人资料保护指南 — 数据保护官的委任,1.0 版 (Personal Data Protection Guideline — Appointment of Data Protection Officer, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
+    url: "https://web.archive.org/web/20260209181523/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
     publisher: "马来西亚个人资料保护专员 (JPDP)"
     date: "2025-02-25"
   - title: "2024年个人资料保护(修正)法令 [Act A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -84,7 +84,7 @@ sources:
     publisher: "马来西亚总检察署 (AGC)"
     date: "2024-12-24"
   - title: "关于个人资料保护的指南与通令 — 数据保护官的委任 (Guidelines and Circular on Personal Data Protection — Appointment of Data Protection Officer)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
     publisher: "马来西亚个人资料保护专员 (JPDP)"
     date: "2025-02-25"
 

@@ -54,7 +54,7 @@ sources:
   - title: "Kaedah-Kaedah Cukai Pendapatan (Penentuan Pendapatan Bercukai Individu berkenaan Dividen) 2025 [P.U. (A) 148/2025] (Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025])"
     publisher: "Jabatan Peguam Negara Malaysia (Warta Kerajaan Persekutuan)"
   - title: "Soalan Lazim (Individu) (Frequently Asked Questions (Individual))"
-    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    url: "https://www.hasil.gov.my/en/individu/soalan-lazim-individu/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"

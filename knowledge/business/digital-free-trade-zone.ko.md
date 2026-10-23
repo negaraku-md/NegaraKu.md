@@ -107,7 +107,7 @@ sources:
     publisher: "Malaysia Airports Holdings Berhad"
     date: "2023-12-31"
   - title: "연방 관보 하위 입법 검색 (Federal gazette subsidiary legislation search)"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "말레이시아 법무장관실 (AGC)"
 
 entity: "Digital Free Trade Zone"

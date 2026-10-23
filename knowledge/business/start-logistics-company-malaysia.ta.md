@@ -52,7 +52,7 @@ sources:
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/667-act-715-land-public-transport-act-2010/file"
     publisher: "தரைவழி பொது போக்குவரத்து முகமை (APAD)"
   - title: "வணிக உரிமப் பிரிவு (Commercial Licensing Division (Bahagian Pelesenan Komersial))"
-    url: "https://www.apad.gov.my/en/corporate/section/commercial-licensing-division"
+    url: "https://www.apad.gov.my/index.php/korporat/bahagian/bahagian-lesen-komersial"
     publisher: "தரைவழி பொது போக்குவரத்து முகமை (APAD)"
   - title: "இயக்குநர்கள் மற்றும் உரிமம் (Operators and Licence)"
     url: "https://www.mot.gov.my/en/land/operators/operators-and-license"

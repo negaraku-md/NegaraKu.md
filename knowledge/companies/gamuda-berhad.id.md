@@ -65,7 +65,7 @@ sources:
     url: "https://www.thestar.com.my/business/business-news/2025/12/18/gamuda-announces-new-aussie-projects-order-book-soars-to-rm46bil"
     publisher: "The Star"
   - title: "Gamuda meraih kemenangan terbesar sejauh ini di Taiwan dengan MRT RM4.3B (Gamuda secures its biggest win to date in Taiwan with RM4.3B MRT)"
-    url: "https://gamuda.com/2024/10/gamuda-secures-its-biggest-win-to-date-in-taiwan-with-rm-4-3b-mrt/press-releases/"
+    url: "https://gamuda.com.my/?p=48491"
     publisher: "Gamuda Berhad"
   - title: "TBM otonom bikinan Gamuda mencipta sejarah di Sydney (Gamuda-developed autonomous TBMs make history in Sydney)"
     url: "https://www.thestar.com.my/news/nation/2024/08/29/gamuda-developed-autonomous-tbms-make-history-in-sydney"

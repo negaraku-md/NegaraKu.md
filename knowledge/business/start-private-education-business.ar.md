@@ -64,7 +64,7 @@ sources:
     url: "https://jpt.mohe.gov.my/index.php/en/hei/private-hei/21-act-555"
     publisher: "دائرة التعليم العالي، وزارة التعليم العالي الماليزية (Department of Higher Education, Ministry of Higher Education Malaysia)"
   - title: "ميثاق العملاء (Client Charter)"
-    url: "https://www.mohe.gov.my/en/corporate/charter/101-client-charter"
+    url: "https://www.mohe.gov.my/en/corporate/client-s-charter"
     publisher: "وزارة التعليم العالي الماليزية (Ministry of Higher Education Malaysia)"
 
 entity: "Private Education Business (Malaysia)"

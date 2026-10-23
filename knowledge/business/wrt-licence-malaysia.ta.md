@@ -68,7 +68,7 @@ sources:
     url: "https://www.kpdn.gov.my/images/muat-turun/borang-J/Borang-WRT1-as-at-8-Mei-2012.pdf"
     publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
   - title: "விநியோக வர்த்தகம் மற்றும் சேவைத் தொழில் செயலகம் (Sekretariat Perdagangan Pengedaran dan Industri Perkhidmatan (SPIP))"
-    url: "https://www.kpdn.gov.my/ms/info-korporat/bahagian/tksu/bahagian-pembangunan-perniagaan-syarikat-dan-jualan-langsung/sekretariat-perdagangan-pengedaran-dan-industri-perkhidmatan"
+    url: "https://www.kpdn.gov.my/ms/info-korporat/bahagian/tksu/bahagian-perdagangan-pengedaran-dan-perniagaan/sekretariat-perdagangan-pengedaran-dan-industri-perkhidmatan"
     publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
   - title: "ESD ஆன்லைன் வழிகாட்டி V6 2025 (ESD Online Guidebook V6 2025)"
     url: "https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V6_2025_(14042025).pdf"

@@ -54,7 +54,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "말레이시아 법무장관실 (lom.agc.gov.my)"
   - title: "Judicial Appointments Commission Act 2009 (Act 695), 2014년 5월 1일 기준 개정 재판본 (Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014)"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
+    url: "https://lawplayer.com/my/act/act-695"
     publisher: "말레이시아 법령 (법무장관실 재판본)"
   - title: "소개 — 사법임명위원회 (Introduction — Judicial Appointments Commission)"
     url: "https://www.jac.gov.my/en/commission/introduction"

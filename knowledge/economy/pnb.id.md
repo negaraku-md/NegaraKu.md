@@ -88,7 +88,7 @@ sources:
     publisher: "Amanah Saham Nasional Berhad"
     date: "2026-05-25"
   - title: "Prospektus Induk ASNB — didaftarkan ke Komisi Sekuritas Malaysia; dokumen otoritatif bagi kriteria kelayakan investor"
-    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    url: "https://www.asnb.com.my/product"
     publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"

@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
   - title: "பொது தீர்ப்பு எண். 8/2025 — நுண், சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கான வரி நடைமுறை (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025"
   - title: "மின்-விலைப்பட்டியல் அமலாக்க கால அட்டவணை (2025 டிசம்பர் 7 புதுப்பிக்கப்பட்டது) (e-Invoice Implementation Timeline (updated 7 December 2025))"

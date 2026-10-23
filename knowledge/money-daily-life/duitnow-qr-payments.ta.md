@@ -55,7 +55,7 @@ sources:
     url: "https://www.bnm.gov.my/-/malaysia-duitnow-and-singapore-paynow-link-in-2022"
     publisher: "மலேசிய மத்திய வங்கி (Bank Negara Malaysia)"
   - title: "இடைச்செயல்படக்கூடிய கடன் பரிமாற்ற கட்டமைப்பு (கொள்கை ஆவணம்) (Interoperable Credit Transfer Framework (Policy Document))"
-    url: "https://www.bnm.gov.my/documents/20124/761679/PD+ICTF.pdf"
+    url: "https://www.bnm.gov.my/-/ictf-23122019"
     publisher: "மலேசிய மத்திய வங்கி (Bank Negara Malaysia)"
     date: "2019-12-27"
   - title: "இடைச்செயல்படக்கூடிய நிதிப் பரிமாற்ற கட்டமைப்பு (கொள்கை ஆவணம்) (Interoperable Fund Transfer Framework (Policy Document))"

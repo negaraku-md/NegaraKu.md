@@ -40,7 +40,7 @@ revisions:
 updated: 2026-07-24
 sources:
   - title: "Tribunal Tuntutan Konsumen (Tribunal For Consumer Claims)"
-    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/secretary-general/tribunal-for-consumer-claims"
     publisher: "Kementerian Perdagangan Dalam Negeri dan Biaya Hidup (KPDN)"
   - title: "e-Tribunal v3 (portal resmi Tribunal Tuntutan Konsumen) (e-Tribunal v3 (official Tribunal for Consumer Claims portal))"
     url: "https://ttpm.kpdn.gov.my/"

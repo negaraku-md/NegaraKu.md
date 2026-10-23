@@ -55,7 +55,7 @@ sources:
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
   - title: "Comunicado de prensa: solicitud de plazos para el pago del saldo de impuesto o atrasos de impuesto en línea mediante e-Ansuran en MyTax (18 March 2025) (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
-    url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
   - title: "Portal MyTax (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"

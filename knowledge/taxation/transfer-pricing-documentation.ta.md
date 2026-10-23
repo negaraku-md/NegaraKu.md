@@ -83,7 +83,7 @@ sources:
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-07-31"
   - title: "இடமாற்று விலை வரி தணிக்கை கட்டமைப்பு 2025 (ஆங்கிலப் பதிப்பு) (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-07-31"
   - title: "இடமாற்று விலை வரி தணிக்கை கட்டமைப்பு (கட்டமைப்பு பட்டியல், 31.07.2025 தேதியிட்ட ஆங்கிலப் பதிப்பு தற்போதையது) (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

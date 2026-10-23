@@ -52,7 +52,7 @@ sources:
     url: "https://lom.agc.gov.my/"
     publisher: "Attorney General's Chambers"
   - title: "BLESS — Latar Belakang"
-    url: "https://portal.bless.gov.my/latar-belakang/"
+    url: "https://portal.bless.gov.my/background/"
     publisher: "Ministry of Entrepreneur Development and Cooperatives (KUSKOP)"
   - title: "MalaysiaBiz — Business Licensing"
     url: "https://malaysiabiz.gov.my/en/services/business-licensing"

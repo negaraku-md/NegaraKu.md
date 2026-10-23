@@ -87,7 +87,7 @@ sources:
     publisher: "महान्यायवादी कार्यालय (Attorney General's Chambers)"
     date: "2023-11-01"
   - title: "निवासी व्यक्ति (नॉलेज वर्कर / एक्सपर्ट वर्कर) व्याख्यात्मक टिप्पणियाँ (15% सपाट दर, Part XIV Schedule 1) (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "मलेशिया अंतर्देशीय राजस्व बोर्ड (Lembaga Hasil Dalam Negeri Malaysia / LHDN)"
   - title: "पूर्वी तट आर्थिक क्षेत्र (ECER) प्रोत्साहन बढ़ाए गए (P.U.(A) 123-126/2022, समय-सीमा 31 दिसंबर 2022 तक) (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

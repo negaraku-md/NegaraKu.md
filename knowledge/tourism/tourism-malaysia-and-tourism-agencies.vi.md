@@ -51,7 +51,7 @@ revisions:
 updated: 2026-07-28
 sources:
   - title: "Đạo luật Ủy ban Xúc tiến Du lịch Malaysia 1992 (Malaysia Tourism Promotion Board Act 1992 (Act 481))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Malaysia-Tourism-Promotion-Board-Act-1992.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20481.pdf"
     publisher: "Bản tái bản Laws of Malaysia (Ủy viên Sửa đổi Luật); được xác nhận qua lom.agc.gov.my"
   - title: "Các cục và cơ quan (Departments & Agencies)"
     url: "https://www.motac.gov.my/en/departments-agencies/"

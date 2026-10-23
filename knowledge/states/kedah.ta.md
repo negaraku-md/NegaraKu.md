@@ -62,7 +62,7 @@ sensitivity: "royalty"
 updated: 2026-07-24
 sources:
   - title: "கெடா பற்றி — கெடா தாருல் அமான் மாநில அரசின் அதிகாரப்பூர்வ இணையதளம் (Mengenai Kedah — Portal Rasmi Kerajaan Negeri Kedah Darul Aman)"
-    url: "https://www.kedah.gov.my/index.php/mengenai-kedah/"
+    url: "https://web.archive.org/web/20250313223746/https://www.kedah.gov.my/index.php/mengenai-kedah/"
     publisher: "கெடா தாருல் அமான் மாநில அரசு"
   - title: "கெடா சுல்தானகம் — கெடா தாருல் அமான் மாநில அரசின் அதிகாரப்பூர்வ இணையதளம் (Kesultanan Kedah — Portal Rasmi Kerajaan Negeri Kedah Darul Aman)"
     url: "https://www.kedah.gov.my/index.php/kesultanan-kedah/"

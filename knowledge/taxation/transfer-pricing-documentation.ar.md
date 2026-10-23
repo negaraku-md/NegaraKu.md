@@ -83,7 +83,7 @@ sources:
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
     date: "2025-07-31"
   - title: "إطار عمل تدقيق ضريبة تسعير المعاملات 2025 (النسخة الإنجليزية) (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
     date: "2025-07-31"
   - title: "إطار عمل تدقيق ضريبة تسعير المعاملات (قائمة الأطر، النسخة الإنجليزية المؤرخة في 31.07.2025 هي السارية) (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

@@ -64,7 +64,7 @@ sources:
     url: "https://www.malaysia.travel/explore/batu-caves"
     publisher: "Tourism Malaysia"
   - title: "பினாங்கில் தைப்பூசத்தை நீங்கள் ஏன் அனுபவிக்க வேண்டும் என்பதற்கான காரணம் (Here's Why You Must Experience Thaipusam in Penang)"
-    url: "https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
+    url: "https://web.archive.org/web/2024/https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
     publisher: "Penang Global Tourism / பினாங்கு மாநில அரசாங்கம்"
   - title: "தைப்பூசமும் கூட்டரசு பிரதேச தினமும் 2026 பிப்ரவரி 1 அன்று பொது விடுமுறையாக அரசிதழில் வெளியிடப்பட்டன (Thaipusam, FT Day gazetted as public holiday on Feb 1, 2026)"
     url: "https://www.thestar.com.my/news/nation/2025/12/31/thaipusam-ft-day-gazetted-as-public-holiday-on-feb-1-2026"

@@ -58,7 +58,7 @@ sources:
     publisher: "The Star"
     date: "2024-03-02"
   - title: "الأصناف الخاضعة للرقابة — قسم الإمداد والدعم (Controlled Items — Supply and Subsidy Division)"
-    url: "https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/controlled-items"
     publisher: "وزارة التجارة الداخلية وتكاليف المعيشة (KPDN)"
 
 entity: "Cost of living in Sabah and Sarawak"

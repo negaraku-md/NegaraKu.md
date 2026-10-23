@@ -89,7 +89,7 @@ sources:
     publisher: "Amanah Saham Nasional Berhad"
     date: "2026-05-25"
   - title: "Bản cáo bạch Chính ASNB — đăng ký với Ủy ban Chứng khoán Malaysia; tài liệu có thẩm quyền về tiêu chí đủ điều kiện của nhà đầu tư (Prospektus Induk ASNB — registered with the Securities Commission Malaysia; authoritative document for investor eligibility criteria)"
-    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    url: "https://www.asnb.com.my/product"
     publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"

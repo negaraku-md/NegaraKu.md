@@ -63,7 +63,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "मलेशियाई प्रतिभूति आयोग (Securities Commission Malaysia)"
   - title: "सार्वजनिक निर्णय संख्या 7/2022: वेंचर कैपिटल कर प्रोत्साहन (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (Inland Revenue Board of Malaysia, LHDN)"
   - title: "SC ने वेंचर कैपिटल और प्राइवेट इक्विटी ढाँचे में संशोधन किया (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

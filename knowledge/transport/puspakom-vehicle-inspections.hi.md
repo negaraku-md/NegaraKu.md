@@ -59,7 +59,7 @@ verificationNeeded:
 updated: 2026-08-08
 sources:
   - title: "आवधिक निरीक्षण (Routine Inspection)"
-    url: "https://www.puspakom.com.my/routine-inspection/"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
     publisher: "PUSPAKOM"
   - title: "अक्सर पूछे जाने वाले प्रश्न (Frequently Asked Questions (FAQ))"
     url: "https://www.puspakom.com.my/faq/"

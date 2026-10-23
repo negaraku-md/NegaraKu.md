@@ -86,7 +86,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
     publisher: "மலேசிய நிறுவனங்கள் ஆணையம் (SSM)"
   - title: "வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மையின் வரிவிதிப்பு, பொது தீர்ப்பு எண். 8/2022 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
-    url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_8_2022.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2022-12-23"
   - title: "சட்டத் தொழில் சட்டம் 1976 (Act 166) (Legal Profession Act 1976 (Act 166))"

@@ -69,7 +69,7 @@ sources:
     publisher: "தலைமை வழக்கறிஞர் அலுவலகம்"
     date: "2013-11-14"
   - title: "தரவு கட்டுப்படுத்தி பதிவு (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "மலேசிய தனிநபர் தரவு பாதுகாப்பு ஆணையர்"
     date: "2025-06-01"
 

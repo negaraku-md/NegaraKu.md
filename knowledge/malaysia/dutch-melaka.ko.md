@@ -38,10 +38,10 @@ sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "말라카 역사 (Melaka History)"
-    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "말라카주 정부 공식 포털"
   - title: "말라카 역사 (Sejarah Melaka)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/info-negeri/sejarah.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "말라카주 정부 공식 포털"
   - title: "A' Famosa 요새, 말라카 (Kota A' Famosa, Melaka)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka"

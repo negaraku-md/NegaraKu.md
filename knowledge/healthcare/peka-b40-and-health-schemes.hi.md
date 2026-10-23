@@ -41,7 +41,7 @@ sources:
     url: "https://protecthealth.com.my/peka-b40/"
     publisher: "ProtectHealth Corporation Sdn Bhd (मलेशिया स्वास्थ्य मंत्रालय की ओर से PeKa B40 योजना का आधिकारिक संचालक)"
   - title: "B40 समूह के लिए स्वास्थ्य देखभाल योजना (Skim Peduli Kesihatan untuk Kumpulan B40, PeKa B40)"
-    url: "https://manfaat.mof.gov.my/b2026/individu/pekab40"
+    url: "https://manfaat.mof.gov.my/bantuan/PHC-001"
     publisher: "मलेशिया वित्त मंत्रालय (MOF) — लाभ पोर्टल (Portal Manfaat)"
   - title: "B40 समूह के लिए स्वास्थ्य देखभाल योजना (PEKA) (Skim Peduli Kesihatan (PEKA) untuk Kumpulan B40)"
     url: "https://ihsanmadani.gov.my/inisiatif/kesihatan/skim-peduli-kesihatan-peka-untuk-kumpulan-b40-0"

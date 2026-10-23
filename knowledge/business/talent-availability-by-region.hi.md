@@ -95,7 +95,7 @@ sources:
     publisher: "मलेशियाई निवेश विकास प्राधिकरण (MIDA)"
     date: "2026-03-06"
   - title: "Labour Ordinance (Sarawak) (Amendment) Act 2025, Act A1754"
-    url: "https://jtkswk.gov.my/v2/wp-content/uploads/2025/04/Act-A1754-Labour-Ordinance-Sarawak-Amendment-Act-2025.pdf"
+    url: "https://www.jtkswk.gov.my/v2/wp-content/uploads/2025/04/Act-A1754-LABOUR-ORDINANCE-OF-SARAWAK-AMENDMENT-ACT-2025-1.pdf"
     publisher: "सारावाक श्रम विभाग (JTK Sarawak)"
     date: "2025-04-14"
   - title: "GENESIS EXPRT — Employment Pass (GENESIS EXPRT — Employment Pass)"

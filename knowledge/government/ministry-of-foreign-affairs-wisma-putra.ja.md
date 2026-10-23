@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "マレーシア外務省（Wisma Putra）"
   - title: "大使館・高等弁務官事務所（マレーシア在外公館） (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "マレーシア外務省（Wisma Putra）"
   - title: "海外での支援 (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

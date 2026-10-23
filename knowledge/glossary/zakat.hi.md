@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "तेरेंगानू इस्लामी धार्मिक एवं मलय रीति-रिवाज़ परिषद (MAIDAM)"
   - title: "आय / वेतन पर ज़कात (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "पेनांग राज्य इस्लामी धार्मिक परिषद (MAINPP)"
   - title: "बचत धन पर ज़कात (निसाब 20 मिसक़ाल / 85 ग्राम सोना; दर 2.5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

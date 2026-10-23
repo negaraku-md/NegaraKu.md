@@ -95,7 +95,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/2995040_BI/Act%20870%20CARBON%20CAPTURE,%20UTILIZATION%20AND%20STORAGE%20ACT%202025.pdf"
     publisher: "Attorney General's Chambers of Malaysia (AGC)"
   - title: "Yang di-Pertuan Agong memperkenankan Carbon Capture, Utilisation and Storage Act 2025 (King consents to Carbon Capture, Utilisation and Storage Act 2025)"
-    url: "https://theedgemalaysia.com/node/763547"
+    url: "https://web.archive.org/web/20250722142805/https://theedgemalaysia.com/node/763547"
     publisher: "The Edge Malaysia"
 
 entity: "National Energy Transition Roadmap"

@@ -83,7 +83,7 @@ sources:
     publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2025-07-31"
   - title: "转让定价税务审计框架2025（英文版） (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2025-07-31"
   - title: "转让定价税务审计框架（框架清单，现行英文版日期为31.07.2025） (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

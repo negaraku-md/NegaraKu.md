@@ -85,7 +85,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "外交・対外関係研究所 (IDFR)、マレーシア"
   - title: "大使館・高等弁務官事務所 (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "マレーシア外務省（ウィスマ・プトラ）"
   - title: "中国・マレーシア外交関係樹立47周年（1974年5月31日共同コミュニケ；最初のASEAN加盟国） (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

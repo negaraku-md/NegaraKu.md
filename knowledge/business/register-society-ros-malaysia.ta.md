@@ -54,7 +54,7 @@ sources:
     url: "https://www.ros.gov.my/portal-main/faq"
     publisher: "மலேசிய சங்கங்கள் பதிவுத் திணைக்களம் (சங்கங்கள் பதிவாளர்)"
   - title: "வருமான வரிச் சட்டம் 1967 (Act 53) — உட்பிரிவு 44(6) (Income Tax Act 1967 (Act 53) — subsection 44(6))"
-    url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Society (Persatuan, Registrar of Societies)"

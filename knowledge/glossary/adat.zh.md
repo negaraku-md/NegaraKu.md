@@ -51,7 +51,7 @@ sources:
     publisher: "马来西亚总检察署 (AGC)"
     date: "2020-10-15"
   - title: "Adat Perpatih 习俗 (Adat Perpatih)"
-    url: "https://ms.wikipedia.org/wiki/Adat_perpatih"
+    url: "https://ms.wikipedia.org/wiki/Adat_Perpatih"
     publisher: "Wikipedia Bahasa Melayu"
   - title: "Adat Temenggong 习俗 (Adat Temenggong)"
     url: "https://ms.wikipedia.org/wiki/Adat_Temenggong"

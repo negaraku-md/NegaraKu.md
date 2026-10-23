@@ -83,7 +83,7 @@ sources:
     publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2025-07-31"
   - title: "이전가격 세무 감사 프레임워크 2025 (영문판) (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "말레이시아 국내세입청 (LHDN)"
     date: "2025-07-31"
   - title: "이전가격 세무 감사 프레임워크 (프레임워크 목록, 현행 영문판 2025.07.31자) (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

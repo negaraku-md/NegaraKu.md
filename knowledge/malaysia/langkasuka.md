@@ -30,7 +30,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "Langkasuka"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "Liang Shu (Book of Liang), Chapter on Southern Barbarians"
     publisher: "Chinese dynastic historiography, 7th century CE compilation"

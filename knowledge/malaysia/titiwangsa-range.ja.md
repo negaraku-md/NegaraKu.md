@@ -41,7 +41,7 @@ sources:
     url: "https://cfs.forestry.gov.my/faq/"
     publisher: "セントラル・フォレスト・スパイン国際センター（ICCFS）、マレー半島森林局 (International Centre for Central Forest Spine (ICCFS), Forestry Department of Peninsular Malaysia)"
   - title: "グヌン・ストン (Gunung Stong)"
-    url: "https://www.kesedar.gov.my/en/pelancongan-kelantan-selatan/gunung-stong/"
+    url: "https://www.kesedar.gov.my/gunung-stong-2/"
     publisher: "南クランタン開発庁 (KESEDAR)"
   - title: "ロイヤル・ブルム (Royal Belum)"
     url: "https://www.mybis.gov.my/pa/209"

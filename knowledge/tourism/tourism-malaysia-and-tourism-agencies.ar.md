@@ -51,7 +51,7 @@ revisions:
 updated: 2026-07-28
 sources:
   - title: "قانون المجلس الماليزي لترويج السياحة لسنة 1992 (Act 481) (Malaysia Tourism Promotion Board Act 1992 (Act 481))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Malaysia-Tourism-Promotion-Board-Act-1992.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20481.pdf"
     publisher: "قوانين ماليزيا (مفوض مراجعة القوانين) نسخة معاد طبعها؛ مؤكَّدة عبر lom.agc.gov.my"
   - title: "الدوائر والوكالات (Departments & Agencies)"
     url: "https://www.motac.gov.my/en/departments-agencies/"

@@ -54,7 +54,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "Directives : Traitement fiscal des transactions en monnaie numérique (LHDN.AG.600-1/7/3) (Guidelines: Tax Treatment on Digital Currency Transaction (LHDN.AG.600-1/7/3))"
-    url: "https://www.hasil.gov.my/media/ittdkpgv/guidelines-tax-treatment-on-digital-currency-transaction.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/guidelines-tax-treatment-on-digital-currency-transaction.pdf"
     publisher: "Direction générale des impôts de Malaisie (LHDN/IRBM)"
   - title: "Les revenus des activités en crypto sont soumis à l'Income Tax Act 1967 – MOF (Income From Crypto Activities Subject To Income Tax Act 1967 – MOF)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/income-from-crypto-activities-subject-to-income-tax-act-1967-mof"

@@ -72,7 +72,7 @@ sources:
     url: "https://elesen.mbpj.gov.my/assets/SOP_MBPJ/garis_panduan_perniagaan_dalam_talian_v3.pdf"
     publisher: "பெட்டாலிங் ஜெயா மாநகராட்சி"
   - title: "வணிக உரிமத் தகவல் (Info Lesen Perniagaan)"
-    url: "https://www.mbsj.gov.my/ms/info-lesen-perniagaan"
+    url: "https://www.mbsj.gov.my/ms/pelesenan"
     publisher: "சுபாங் ஜெயா மாநகராட்சி"
   - title: "மாநில வாரியான மொத்த உள்நாட்டு உற்பத்தி (GDP), 2025 (Gross Domestic Product (GDP) by State, 2025)"
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-gdp-by-state-2025"

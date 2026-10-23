@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
   - title: "सार्वजनिक निर्णय सं. 8/2025 — सूक्ष्म, लघु और मध्यम कंपनियों के लिए कर व्यवहार (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
     date: "2025"
   - title: "ई-इनवॉइस कार्यान्वयन समयरेखा (7 दिसंबर 2025 को अद्यतन) (e-Invoice Implementation Timeline (updated 7 December 2025))"

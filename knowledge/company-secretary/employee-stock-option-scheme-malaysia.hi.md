@@ -55,13 +55,13 @@ verificationNeeded:
 updated: 2026-09-07
 sources:
   - title: "सार्वजनिक निर्णय संख्या 11/2012: कर्मचारी शेयर योजना लाभ (Public Ruling No. 11/2012: Employee Share Scheme Benefit)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR11_2012.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR11_2012.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
   - title: "Companies Act 2016 (Act 777)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
     publisher: "मलेशिया के महान्यायवादी कार्यालय (AGC)"
   - title: "सार्वजनिक निर्णय संख्या 5/2019: रोज़गार से परिलब्धियाँ (Public Ruling No. 5/2019: Perquisites from Employment)"
-    url: "http://lampiran2.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
   - title: "मुख्य बाज़ार सूचीयन अपेक्षाएँ — अध्याय 6 (प्रतिभूतियों के नए निर्गमन) (Main Market Listing Requirements — Chapter 6 (New Issues of Securities))"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"

@@ -46,7 +46,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "マレーシア王立関税局 (RMCD)"
   - title: "マレーシア王立関税局 — 法令 (Royal Malaysian Customs Department — legislation)"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "マレーシア王立関税局 (RMCD)"
 
 entity: "Sales and Service Tax (SST)"

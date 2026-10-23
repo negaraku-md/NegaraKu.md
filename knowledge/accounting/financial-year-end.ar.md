@@ -83,7 +83,7 @@ sources:
     publisher: "لجنة الشركات الماليزية (SSM)"
     date: "2024-12-16"
   - title: "القرار العام رقم 8/2014 — فترة الأساس لشركة وشراكة ذات مسؤولية محدودة وهيئة ائتمانية وجمعية تعاونية (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
     date: "2014-12-01"
   - title: "قانون ضريبة الدخل لسنة 1967 (القانون رقم 53)، إعادة الطبع حتى 21 مايو 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"

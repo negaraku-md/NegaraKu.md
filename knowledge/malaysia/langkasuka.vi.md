@@ -31,7 +31,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "Langkasuka (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "Lương Thư (Sách nhà Lương), Chương về Nam Man (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
     publisher: "Sử học triều đại Trung Hoa, biên soạn thế kỷ 7 CN"

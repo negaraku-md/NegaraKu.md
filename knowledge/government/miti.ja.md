@@ -71,7 +71,7 @@ sources:
     publisher: "マレーシア法務長官府"
     date: "1993-03-01"
   - title: "MITI：投資促進機関の機能が2024年1月1日にMIDAの下に集約される (MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024)"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
+    url: "https://www.mida.gov.my/ms/media-release/pemusatan-fungsi-promosi-pelaburan-dan-pemasaran-malaysia-di-bawah-mida-menjelang-1-januari-2024/"
     publisher: "マレーシア投資開発庁 (MIDA)"
   - title: "投資促進機能がMIDAの下で合理化される (Investment Promotion Functions Streamlined Under MIDA)"
     url: "https://www.mida.gov.my/investment-promotion-functions-streamlined-under-mida/"

@@ -43,7 +43,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "马来西亚内陆税收局 (LHDN)"
   - title: "就业相关额外福利，公共裁定第 5/2019 号 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2019-11-19"
   - title: "职业伤害计划 (Employment Injury Scheme (LINDUNG PEKERJA))"

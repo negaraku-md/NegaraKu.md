@@ -54,7 +54,7 @@ sources:
     url: "https://bantuantunai.hasil.gov.my/Info/FAQ"
     publisher: "マレーシア内国歳入庁（HASiL）"
   - title: "Sumbangan Tunai Rahmah（STR）2026 - 財務省給付ポータル (Sumbangan Tunai Rahmah (STR) 2026 - Portal Manfaat MOF)"
-    url: "https://manfaat.mof.gov.my/b2026/individu/str2026"
+    url: "https://manfaat.mof.gov.my/bantuan/LHDN-001"
     publisher: "マレーシア財務省（MOF）"
   - title: "財務省給付ポータル (Portal Manfaat MOF)"
     url: "https://manfaat.mof.gov.my/"

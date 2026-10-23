@@ -30,7 +30,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "ランカスカ (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "梁書（梁の書）、南蛮伝 (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
     publisher: "中国正史、紀元7世紀編纂"

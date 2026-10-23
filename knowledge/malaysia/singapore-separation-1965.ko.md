@@ -57,7 +57,7 @@ sources:
     url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=9641f35d-3ae5-41d8-9fa6-7ca8b845ea53"
     publisher: "싱가포르 국립도서관위원회 (National Library Board, Singapore)"
   - title: "싱가포르 선언, 1965 (Proclamation of Singapore, 1965)"
-    url: "https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore/"
+    url: "https://corporate.nas.gov.sg/discover-archives/media/proclamationofsingapore/"
     publisher: "싱가포르 국립문서보관소 (National Archives of Singapore)"
   - title: "싱가포르 공화국 독립법 1965 (Republic of Singapore Independence Act 1965)"
     url: "https://sso.agc.gov.sg/Act/RSIA1965"

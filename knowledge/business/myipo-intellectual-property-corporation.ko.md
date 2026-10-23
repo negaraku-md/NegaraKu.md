@@ -60,7 +60,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Intellectual_Property_Corporation_of_Malaysia_Act_2002"
     publisher: "Wikipedia"
   - title: "기업 정보 — 말레이시아 지식재산공사 (Corporate Info — Intellectual Property Corporation of Malaysia)"
-    url: "https://www.myipo.gov.my/corporate-info/"
+    url: "https://www.myipo.gov.my/about-us/"
     publisher: "말레이시아 지식재산공사 (MyIPO)"
   - title: "상표 출원 — 말레이시아 지식재산공사 (Applying for a Trademark — Intellectual Property Corporation of Malaysia)"
     url: "https://www.myipo.gov.my/applying-for-a-trademark/"

@@ -63,7 +63,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "Ủy ban Chứng khoán Malaysia (Securities Commission Malaysia)"
   - title: "Phán quyết Công khai số 7/2022: Ưu đãi thuế Đầu tư mạo hiểm (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
   - title: "SC sửa đổi Khung Đầu tư mạo hiểm và Vốn cổ phần tư nhân (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

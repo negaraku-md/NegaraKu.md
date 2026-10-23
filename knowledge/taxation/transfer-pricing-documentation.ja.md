@@ -82,7 +82,7 @@ sources:
     publisher: "内国歳入庁 (LHDN)"
     date: "2025-07-31"
   - title: "移転価格税務監査フレームワーク2025（英語版） (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "内国歳入庁 (LHDN)"
     date: "2025-07-31"
   - title: "移転価格税務監査フレームワーク（フレームワーク一覧、現行の英語版は2025年7月31日付） (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

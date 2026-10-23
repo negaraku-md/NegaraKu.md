@@ -64,7 +64,7 @@ sources:
     url: "https://jpt.mohe.gov.my/index.php/en/hei/private-hei/21-act-555"
     publisher: "உயர்கல்வித் துறை, மலேசிய உயர்கல்வி அமைச்சு"
   - title: "வாடிக்கையாளர் சாசனம் (Client Charter)"
-    url: "https://www.mohe.gov.my/en/corporate/charter/101-client-charter"
+    url: "https://www.mohe.gov.my/en/corporate/client-s-charter"
     publisher: "மலேசிய உயர்கல்வி அமைச்சு"
 
 entity: "Private Education Business (Malaysia)"

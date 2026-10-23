@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "Practice Note No. 2/2026 — Traitement fiscal des porteurs de parts de REIT/PTF pour l'YA 2026 et les années de liquidation suivantes (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "HASiL publie une Practice Note sur le traitement fiscal des porteurs de parts de REIT (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

@@ -71,7 +71,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "Hướng dẫn Bảo vệ Dữ liệu Cá nhân — Bổ nhiệm Cán bộ Bảo vệ Dữ liệu, Phiên bản 1.0 (Personal Data Protection Guideline — Appointment of Data Protection Officer, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
+    url: "https://web.archive.org/web/20260209181523/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
     publisher: "Ủy viên Bảo vệ Dữ liệu Cá nhân Malaysia (JPDP)"
     date: "2025-02-25"
   - title: "Đạo luật Bảo vệ Dữ liệu Cá nhân (Sửa đổi) 2024 [Act A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -83,7 +83,7 @@ sources:
     publisher: "Văn phòng Tổng Chưởng lý (AGC)"
     date: "2024-12-24"
   - title: "Hướng dẫn và Thông tư về Bảo vệ Dữ liệu Cá nhân — Bổ nhiệm Cán bộ Bảo vệ Dữ liệu (Guidelines and Circular on Personal Data Protection — Appointment of Data Protection Officer)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
     publisher: "Ủy viên Bảo vệ Dữ liệu Cá nhân Malaysia (JPDP)"
     date: "2025-02-25"
 

@@ -74,7 +74,7 @@ sources:
     publisher: "司法長官府"
     date: "2024-12-24"
   - title: "個人データ保護ガイドライン — データ保護責任者の任命 (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "個人データ保護局"
     date: "2025-02-25"
   - title: "KPDN電子商取引規制レビュー (KPDN E-Commerce Regulatory Review)"

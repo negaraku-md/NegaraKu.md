@@ -56,7 +56,7 @@ sources:
     url: "https://bantuantunai.hasil.gov.my/Info/FAQ"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (HASiL)"
   - title: "المساهمة النقدية رحمة (STR) 2026 — بوابة Manfaat التابعة لوزارة المالية (Sumbangan Tunai Rahmah (STR) 2026 - Portal Manfaat MOF)"
-    url: "https://manfaat.mof.gov.my/b2026/individu/str2026"
+    url: "https://manfaat.mof.gov.my/bantuan/LHDN-001"
     publisher: "وزارة المالية الماليزية (MOF)"
   - title: "بوابة Manfaat التابعة لوزارة المالية (Portal Manfaat MOF)"
     url: "https://manfaat.mof.gov.my/"

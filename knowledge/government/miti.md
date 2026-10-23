@@ -71,7 +71,7 @@ sources:
     publisher: "Attorney General's Chambers of Malaysia"
     date: "1993-03-01"
   - title: "MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
+    url: "https://www.mida.gov.my/ms/media-release/pemusatan-fungsi-promosi-pelaburan-dan-pemasaran-malaysia-di-bawah-mida-menjelang-1-januari-2024/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
   - title: "Investment Promotion Functions Streamlined Under MIDA"
     url: "https://www.mida.gov.my/investment-promotion-functions-streamlined-under-mida/"

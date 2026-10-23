@@ -58,7 +58,7 @@ sources:
     url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=9641f35d-3ae5-41d8-9fa6-7ca8b845ea53"
     publisher: "Ủy ban Thư viện Quốc gia Singapore (National Library Board, Singapore)"
   - title: "Tuyên bố Singapore, 1965 (Proclamation of Singapore, 1965)"
-    url: "https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore/"
+    url: "https://corporate.nas.gov.sg/discover-archives/media/proclamationofsingapore/"
     publisher: "Cục Lưu trữ Quốc gia Singapore (National Archives of Singapore)"
   - title: "Đạo luật Độc lập Cộng hòa Singapore 1965 (Republic of Singapore Independence Act 1965)"
     url: "https://sso.agc.gov.sg/Act/RSIA1965"

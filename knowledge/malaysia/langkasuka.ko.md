@@ -31,7 +31,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "랑카수카 (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "양서(梁書), 남만전 (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
     publisher: "중국 정사, 서기 7세기 편찬"

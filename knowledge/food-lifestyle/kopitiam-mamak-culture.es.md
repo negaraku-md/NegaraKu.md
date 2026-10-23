@@ -78,10 +78,10 @@ sources:
     url: "https://en.wikipedia.org/wiki/Kopi_(drink)"
     publisher: "Wikipedia"
   - title: "El secreto tras el filtro de calcetín en la preparación del kopi (The Secret Behind the Sock Filter in Kopi Brewing)"
-    url: "https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
+    url: "https://web.archive.org/web/2024/https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
     publisher: "kopiguide.com"
   - title: "Certificación halal de Malasia (por local, voluntaria) — Portal Halal de JAKIM (Malaysia Halal Certification (per-premise, voluntary) — JAKIM Halal Portal)"
-    url: "https://www.halal.gov.my/v4/"
+    url: "https://www.halal.gov.my/"
     publisher: "Jabatan Kemajuan Islam Malaysia (JAKIM)"
 
 relations:

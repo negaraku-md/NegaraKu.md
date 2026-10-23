@@ -85,7 +85,7 @@ sources:
     url: "https://www.legal500.com/developments/thought-leadership/one-law-to-rule-them-all-inside-malaysias-consumer-credit-shake-up/"
     publisher: "Legal 500 / Tay & Partners"
   - title: "Hire Purchase (Amendment) Act 2026将于6月1日生效，阿米占说 (Hire Purchase (Amendment) Act 2026 to take effect June 1, says Armizan)"
-    url: "https://theedgemalaysia.com/node/796277"
+    url: "https://web.archive.org/web/20260319003643/https://theedgemalaysia.com/node/796277"
     publisher: "The Edge Malaysia"
   - title: "Hire Purchase (Amendment) Act 2026于6月1日生效——不再有固定利率和78法则 (Hire Purchase (Amendment) Act 2026 comes into force on June 1 — no more flat rates and Rule of 78 method)"
     url: "https://paultan.org/2026/03/16/hire-purchase-amendment-act-2026-comes-into-force-on-june-1/"

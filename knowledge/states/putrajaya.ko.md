@@ -78,7 +78,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "말레이시아 총리실"
   - title: "국회 선거구 — 연방 직할지 쿠알라룸푸르/푸트라자야 주 선거사무소 (PPN) (Bahagian Parlimen — PPN W.P. Kuala Lumpur / Putrajaya)"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "말레이시아 선거관리위원회"
   - title: "주별 인구 추계 (공개 데이터) (Anggaran penduduk mengikut negeri (data terbuka))"
     url: "https://open.dosm.gov.my/data-catalogue"

@@ -69,7 +69,7 @@ sources:
     publisher: "司法長官府"
     date: "2013-11-14"
   - title: "データ管理者の登録 (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "マレーシア個人データ保護コミッショナー"
     date: "2025-06-01"
 

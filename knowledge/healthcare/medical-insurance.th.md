@@ -44,7 +44,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
   - title: "ผลประโยชน์เพิ่มเติมจากการจ้างงาน, คำวินิจฉัยสาธารณะ ฉบับที่ 5/2019 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2019-11-19"
   - title: "โครงการการบาดเจ็บจากการทำงาน (Employment Injury Scheme (LINDUNG PEKERJA))"

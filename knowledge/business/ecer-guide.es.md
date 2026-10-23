@@ -87,7 +87,7 @@ sources:
     publisher: "Cámara del Procurador General (Attorney General's Chambers)"
     date: "2023-11-01"
   - title: "Notas Explicativas de Persona Física Residente (Trabajador del Conocimiento / Trabajador Experto) (tasa fija del 15%, Parte XIV Anexo 1) (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (Lembaga Hasil Dalam Negeri Malaysia, LHDN)"
   - title: "Incentivos de la Región Económica de la Costa Este (ECER) extendidos (P.U.(A) 123-126/2022, plazo hasta el 31 dic 2022) (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

@@ -38,10 +38,10 @@ sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "Sejarah Melaka (Melaka History)"
-    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "Portal Rasmi Kerajaan Negeri Melaka"
   - title: "Sejarah Melaka (Sejarah Melaka)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/info-negeri/sejarah.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "Portal Rasmi Kerajaan Negeri Melaka"
   - title: "Kota A' Famosa, Melaka (Kota A' Famosa, Melaka)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka"

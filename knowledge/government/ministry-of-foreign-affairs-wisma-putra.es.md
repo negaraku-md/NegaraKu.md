@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "Ministerio de Asuntos Exteriores, Malasia (Wisma Putra)"
   - title: "Embajadas y altas comisiones (Misión malasia) (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Ministerio de Asuntos Exteriores, Malasia (Wisma Putra)"
   - title: "Asistencia en el extranjero (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

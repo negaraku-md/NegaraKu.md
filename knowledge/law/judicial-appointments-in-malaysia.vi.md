@@ -54,7 +54,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Văn phòng Tổng Chưởng lý Malaysia (lom.agc.gov.my)"
   - title: "Judicial Appointments Commission Act 2009 (Act 695), bản tái bản cập nhật tính đến ngày 1 tháng 5 năm 2014 (Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014)"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
+    url: "https://lawplayer.com/my/act/act-695"
     publisher: "Luật pháp Malaysia (bản tái bản của Văn phòng Tổng Chưởng lý)"
   - title: "Giới thiệu — Ủy ban Bổ nhiệm Tư pháp (Introduction — Judicial Appointments Commission)"
     url: "https://www.jac.gov.my/en/commission/introduction"

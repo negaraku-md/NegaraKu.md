@@ -63,7 +63,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "هيئة الأوراق المالية الماليزية (Securities Commission Malaysia)"
   - title: "الحكم العام رقم 7/2022: الحوافز الضريبية لرأس المال الجريء (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (Inland Revenue Board of Malaysia, LHDN)"
   - title: "هيئة SC تُنقّح إطار رأس المال الجريء والأسهم الخاصة (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

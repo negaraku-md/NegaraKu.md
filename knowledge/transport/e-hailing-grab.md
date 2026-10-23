@@ -58,7 +58,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "Attorney General's Chambers (AGC) — Laws of Malaysia Online"
   - title: "Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "Sabah State Government"
 
 entity: "E-hailing"

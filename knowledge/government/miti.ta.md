@@ -72,7 +72,7 @@ sources:
     publisher: "மலேசிய சட்ட மா அதிபர் அறையகம்"
     date: "1993-03-01"
   - title: "MITI: முதலீட்டு ஊக்குவிப்பு முகமைகளின் பணிகள் 2024 ஜனவரி 1 அன்று MIDA இன் கீழ் மையப்படுத்தப்படும் (MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024)"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
+    url: "https://www.mida.gov.my/ms/media-release/pemusatan-fungsi-promosi-pelaburan-dan-pemasaran-malaysia-di-bawah-mida-menjelang-1-januari-2024/"
     publisher: "மலேசிய முதலீட்டு மேம்பாட்டு ஆணையம் (MIDA)"
   - title: "முதலீட்டு ஊக்குவிப்புப் பணிகள் MIDA இன் கீழ் ஒழுங்குபடுத்தப்பட்டன (Investment Promotion Functions Streamlined Under MIDA)"
     url: "https://www.mida.gov.my/investment-promotion-functions-streamlined-under-mida/"

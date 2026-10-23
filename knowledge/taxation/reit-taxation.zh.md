@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "第2/2026号执业须知 — 2026课税年及后续课税年REIT/PTF单位持有人的税务处理 (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
   - title: "HASiL发布关于REIT单位持有人税务处理的执业须知 (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

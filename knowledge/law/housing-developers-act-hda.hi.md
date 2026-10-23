@@ -73,7 +73,7 @@ sources:
     url: "https://www.mondaq.com/real-estate/467810/an-overview-of-the-recent-amendment-to-the-housing-development-control-and-licensing-act-1966"
     publisher: "Mondaq"
   - title: "आवास विकास (नियंत्रण एवं लाइसेंसिंग) अधिनियम 1966 (Act 118) — 1 जनवरी 2006 तक के संशोधनों को समाहित करता पुनर्मुद्रण (मूल संविधि पाठ) (Housing Development (Control and Licensing) Act 1966 (Act 118) — Reprint incorporating amendments up to 1 January 2006 (base statute text))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/07/Housing-Development-Control-and-Licensing-Act-1966.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20118.pdf"
     publisher: "कानून पुनरीक्षण आयुक्त, मलेशिया / मलेशिया की राष्ट्रीय मुद्रणालय"
   - title: "Schedule G — बिक्री एवं क्रय अनुबंध (भूमि एवं भवन), आवास विकास (नियंत्रण एवं लाइसेंसिंग) विनियम 1989 (Schedule G — Sale and Purchase Agreement (Land and Building), Housing Development (Control and Licensing) Regulations 1989)"
     url: "https://www.hba.org.my/laws/housing_reg/2002/Schedule_G.pdf"

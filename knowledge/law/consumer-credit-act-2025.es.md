@@ -84,7 +84,7 @@ sources:
     url: "https://www.legal500.com/developments/thought-leadership/one-law-to-rule-them-all-inside-malaysias-consumer-credit-shake-up/"
     publisher: "Legal 500 / Tay & Partners"
   - title: "La Ley de Arrendamiento con Opción de Compra (Reforma) de 2026 entra en vigor el 1 de junio, dice Armizan (Hire Purchase (Amendment) Act 2026 to take effect June 1, says Armizan)"
-    url: "https://theedgemalaysia.com/node/796277"
+    url: "https://web.archive.org/web/20260319003643/https://theedgemalaysia.com/node/796277"
     publisher: "The Edge Malaysia"
   - title: "La Ley de Arrendamiento con Opción de Compra (Reforma) de 2026 entra en vigor el 1 de junio — se acabaron la tasa fija y el método de la Regla del 78 (Hire Purchase (Amendment) Act 2026 comes into force on June 1 — no more flat rates and Rule of 78 method)"
     url: "https://paultan.org/2026/03/16/hire-purchase-amendment-act-2026-comes-into-force-on-june-1/"

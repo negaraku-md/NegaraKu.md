@@ -31,7 +31,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "லங்காசுகா (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "லியாங் ஷூ (லியாங் நூல்), தென் காட்டுமிராண்டிகள் பற்றிய அத்தியாயம் (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
     publisher: "சீன வம்ச வரலாற்றியல், கி.பி. 7ஆம் நூற்றாண்டுத் தொகுப்பு"

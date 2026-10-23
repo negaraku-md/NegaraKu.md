@@ -79,7 +79,7 @@ sources:
     url: "https://irainfo.org/News/Detail/110"
     publisher: "Association internationale du caoutchouc / ANRPC"
   - title: "La Malaisie en tête de la production innovante de gants en caoutchouc — MARGMA (Malaisie ~45%, Chine ~28% de part de marché mondiale, 2024) (Malaysia leads in innovative production of rubber gloves — MARGMA (Malaysia ~45%, China ~28% global market share, 2024))"
-    url: "https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
+    url: "https://web.archive.org/web/20250523181712/https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
     publisher: "Autorité malaisienne de développement des investissements (MIDA) / MARGMA"
   - title: "Marché des gants en caoutchouc de Malaisie — segmentation par matériau (synthétique ~65% contre naturel ~35% des exportations ; origine du nitrile de Hartalega) (Malaysia Rubber Gloves Market — material segmentation (synthetic ~65% vs natural ~35% of exports; Hartalega nitrile origin))"
     url: "https://www.grandviewresearch.com/horizon/outlook/rubber-gloves-market/malaysia"

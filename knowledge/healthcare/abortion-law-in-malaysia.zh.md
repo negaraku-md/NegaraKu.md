@@ -70,7 +70,7 @@ sources:
     url: "https://codeblue.galencentre.org/2022/10/doctor-clarifies-abortion-is-legal-in-malaysia/"
     publisher: "CodeBlue, Galen Centre for Health and Social Policy"
   - title: "马来西亚堕胎的法律、宗教与伦理层面 (Legal, Religious and Ethical Aspects of Abortion in Malaysia)"
-    url: "https://modulace.lppkn.gov.my/legal-religious-and-ethical-aspects-of-abortion-in-malaysia.html"
+    url: "https://web.archive.org/web/20260916182115/https://modulace.lppkn.gov.my/legal-religious-and-ethical-aspects-of-abortion-in-malaysia.html"
     publisher: "国家人口及家庭发展局 (LPPKN)"
   - title: "马来西亚刑法典，第574号法令，第十六章，第312至316条 (Malaysia Penal Code, Act 574, Chapter XVI, Articles 312-316)"
     url: "https://www.law.cornell.edu/gender-justice/resource/Malaysia_Penal_Code_Act_574_Chapter_XVI_Articles_312_316"

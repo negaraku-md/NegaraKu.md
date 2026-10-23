@@ -62,7 +62,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "Securities Commission Malaysia"
   - title: "Public Ruling No. 7/2022: Venture Capital Tax Incentives"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
   - title: "SC Revises Venture Capital and Private Equity Framework"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

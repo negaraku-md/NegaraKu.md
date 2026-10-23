@@ -63,7 +63,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "Commission des valeurs mobilières de Malaisie (Securities Commission Malaysia)"
   - title: "Décision publique n° 7/2022 : incitations fiscales pour le capital-risque (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "Direction générale des impôts de Malaisie (Inland Revenue Board of Malaysia, LHDN)"
   - title: "La SC révise le cadre du capital-risque et du capital-investissement (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

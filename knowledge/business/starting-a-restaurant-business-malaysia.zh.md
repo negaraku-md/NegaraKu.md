@@ -71,7 +71,7 @@ sources:
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "雇员公积金局 (KWSP)"
   - title: "餐饮指南 V7 (2024年4月19日) (Panduan Makanan & Minuman (Guide on Food & Beverages) V7 (19 April 2024))"
-    url: "https://mysst.customs.gov.my/industryguides/"
+    url: "https://mysst.customs.gov.my/industry-guides/"
     publisher: "马来西亚皇家关税局 (RMCD)"
 
 entity: "Restaurant / F&B Business (Malaysia)"

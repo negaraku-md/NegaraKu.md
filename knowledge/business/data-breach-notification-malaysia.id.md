@@ -84,7 +84,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "Pedoman Perlindungan Data Pribadi — Pemberitahuan Pelanggaran Data, Versi 1.0 (Personal Data Protection Guideline — Data Breach Notification, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
+    url: "https://web.archive.org/web/20260209180751/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
     publisher: "Komisioner Perlindungan Data Pribadi Malaysia (JPDP)"
     date: "2025-02-25"
   - title: "Personal Data Protection (Amendment) Act 2024 [Act A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -96,7 +96,7 @@ sources:
     publisher: "Kejaksaan Agung (AGC)"
     date: "2024-12-24"
   - title: "Pedoman dan Surat Edaran mengenai Pemberitahuan Pelanggaran Data (DBN) (Guidelines and Circulars on Data Breach Notification (DBN))"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
     publisher: "Komisioner Perlindungan Data Pribadi Malaysia (JPDP)"
     date: "2025-02-25"
 

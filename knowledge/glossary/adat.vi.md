@@ -52,7 +52,7 @@ sources:
     publisher: "Văn phòng Tổng Chưởng lý Malaysia (Jabatan Peguam Negara Malaysia)"
     date: "2020-10-15"
   - title: "Adat Perpatih (Adat Perpatih)"
-    url: "https://ms.wikipedia.org/wiki/Adat_perpatih"
+    url: "https://ms.wikipedia.org/wiki/Adat_Perpatih"
     publisher: "Wikipedia Bahasa Melayu"
   - title: "Adat Temenggong (Adat Temenggong)"
     url: "https://ms.wikipedia.org/wiki/Adat_Temenggong"

@@ -83,7 +83,7 @@ sources:
     publisher: "マレーシア企業委員会 (SSM)"
     date: "2024-12-16"
   - title: "パブリックルーリング第8/2014号 — 会社、有限責任事業組合、信託団体および協同組合の基準期間 (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
     date: "2014-12-01"
   - title: "1967年所得税法 (Act 53)、2024年5月21日現在の再版 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"

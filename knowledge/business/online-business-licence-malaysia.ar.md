@@ -75,7 +75,7 @@ sources:
     publisher: "مكتب النائب العام الماليزي (AGC)"
     date: "2024-12-24"
   - title: "إرشادات حماية البيانات الشخصية — تعيين موظف حماية البيانات (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "دائرة حماية البيانات الشخصية (JPDP)"
     date: "2025-02-25"
   - title: "المراجعة التنظيمية للتجارة الإلكترونية لدى KPDN (KPDN E-Commerce Regulatory Review)"

@@ -64,7 +64,7 @@ sources:
     url: "https://jpt.mohe.gov.my/index.php/en/hei/private-hei/21-act-555"
     publisher: "Cục Giáo dục Đại học, Bộ Giáo dục Đại học Malaysia"
   - title: "Hiến chương Khách hàng (Client Charter)"
-    url: "https://www.mohe.gov.my/en/corporate/charter/101-client-charter"
+    url: "https://www.mohe.gov.my/en/corporate/client-s-charter"
     publisher: "Bộ Giáo dục Đại học Malaysia"
 
 entity: "Private Education Business (Malaysia)"

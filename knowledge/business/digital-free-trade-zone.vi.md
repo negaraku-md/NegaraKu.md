@@ -107,7 +107,7 @@ sources:
     publisher: "Malaysia Airports Holdings Berhad"
     date: "2023-12-31"
   - title: "Tìm kiếm pháp luật phụ trợ trong công báo liên bang (Federal gazette subsidiary legislation search)"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "Văn phòng Tổng Chưởng lý (AGC)"
 
 entity: "Digital Free Trade Zone"

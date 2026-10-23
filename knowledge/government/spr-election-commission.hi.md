@@ -59,7 +59,7 @@ sources:
     url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-114-keanggotaan-suruhanjaya-pilihan-raya.pdf"
     publisher: "मलेशिया का निर्वाचन आयोग (Suruhanjaya Pilihan Raya Malaysia, SPR)"
   - title: "SPR का विज़न, मिशन और कार्य (Visi, Misi dan Fungsi SPR)"
-    url: "https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
+    url: "https://web.archive.org/web/20260806162131/https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
     publisher: "मलेशिया का निर्वाचन आयोग (Suruhanjaya Pilihan Raya Malaysia, SPR)"
 
 entity: "Suruhanjaya Pilihan Raya"

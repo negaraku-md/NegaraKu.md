@@ -54,7 +54,7 @@ sources:
   - title: "வருமான வரி (ஈவுத்தொகை தொடர்பாக ஒரு தனிநபரின் வரிக்குட்பட்ட வருமானத்தை நிர்ணயித்தல்) விதிகள் 2025 [P.U. (A) 148/2025] (Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025])"
     publisher: "மலேசியா சட்ட மா அதிபர் அலுவலகம் (கூட்டரசு அரசிதழ்)"
   - title: "அடிக்கடி கேட்கப்படும் கேள்விகள் (தனிநபர்) (Frequently Asked Questions (Individual))"
-    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    url: "https://www.hasil.gov.my/en/individu/soalan-lazim-individu/"
     publisher: "மலேசியா உள்நாட்டு வருவாய் வாரியம் (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"

@@ -64,7 +64,7 @@ sources:
     url: "https://jpt.mohe.gov.my/index.php/en/hei/private-hei/21-act-555"
     publisher: "고등교육국, 말레이시아 고등교육부"
   - title: "고객 헌장 (Client Charter)"
-    url: "https://www.mohe.gov.my/en/corporate/charter/101-client-charter"
+    url: "https://www.mohe.gov.my/en/corporate/client-s-charter"
     publisher: "말레이시아 고등교육부"
 
 entity: "Private Education Business (Malaysia)"

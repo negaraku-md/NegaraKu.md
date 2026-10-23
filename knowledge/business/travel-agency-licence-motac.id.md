@@ -52,7 +52,7 @@ sources:
     url: "https://www.motac.gov.my/en/muat-turun/act-482-muktamad-tourism-industry-act-1992-en-2/"
     publisher: "Kementerian Pariwisata, Seni dan Budaya (MOTAC)"
   - title: "Agen Perjalanan — Permohonan Lisensi (Travel Agency — Licence Application)"
-    url: "https://www.motac.gov.my/en/services/license-application/travel-agency"
+    url: "https://www.motac.gov.my/en/agensi-pelancongan/"
     publisher: "Kementerian Pariwisata, Seni dan Budaya (MOTAC)"
   - title: "Agen Perjalanan (TOBTAB) — Daftar dan Kategori Agen Berlisensi (Travel Agency (TOBTAB) — Licensed Agency Registry and Categories)"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/travel-agency-tobtab/"

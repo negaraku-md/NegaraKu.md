@@ -128,7 +128,7 @@ sources:
     publisher: "Malay Mail"
     date: "2026-07-06"
   - title: "வெளிநாட்டுத் தொழிலாளர் ஆட்சேர்ப்பு தொடர்பான தற்போதைய கொள்கைகள் (Current Policies on Recruitment of Foreign Workers)"
-    url: "https://www.moha.gov.my/index.php/en/bahagian-pa-dasar-dasar-semasa/current-policies-on-recruitment-of-foreign-workers"
+    url: "https://web.archive.org/web/20250704201843/https://www.moha.gov.my/index.php/en/bahagian-pa-dasar-dasar-semasa/current-policies-on-recruitment-of-foreign-workers"
     publisher: "மலேசிய உள்துறை அமைச்சு (KDN)"
   - title: "முற்போக்கு அபராதங்களுடன் வேலைவாய்ப்பு காப்பீட்டு மசோதா மீண்டும் தாக்கல் (Employment Insurance Bill Retabled With Progressive Penalties)"
     url: "https://bernama.com/en/news.php?id=2574973"

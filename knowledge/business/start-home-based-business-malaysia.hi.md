@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "मलेशिया कंपनी आयोग (SSM)"
   - title: "ऑनलाइन (e-Daftar) — व्यक्तिगत पंजीकरण (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "मलेशिया अंतर्देशीय राजस्व बोर्ड (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -152,4 +152,4 @@ social:
 
 [^ssm]: मलेशिया कंपनी आयोग (SSM), *Guidelines for Registration of New Business* — व्यवसाय की परिभाषा, मलेशियाई नागरिक/PR 18+ आयु की आवश्यकता, शुल्क (RM30 व्यक्तिगत नाम, RM60 व्यापार नाम, RM5 प्रति शाखा, RM10 व्यवसाय सूचना), एक से पाँच वर्ष की वैधता, और RM50,000 तक जुर्माने या दो वर्ष की जेल की सज़ा। https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: उद्यमिता एवं सहकारिता विकास मंत्रालय (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — पंजीकरण पूर्व-शर्त, छोटे-पैमाने/आवासीय शर्तें, 25% फर्श-क्षेत्र सीमा, पड़ोसी/JMB/मकान मालिक की सहमति, एक-कर्मचारी सीमा, साइनबोर्ड नियम, PBT-निर्धारित शुल्क, अनुमत एवं वर्जित गतिविधि सूचियाँ, और खाद्य-श्रेणी आवश्यकताएँ (ग्रीस ट्रैप, FoSIM सूचीकरण, खाद्य-हैंडलर प्रमाणपत्र, टाइफाइड-रोधी टीकाकरण)। https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: मलेशिया अंतर्देशीय राजस्व बोर्ड (LHDN), *Online (e-Daftar) — Individual Registration* — MyTax पोर्टल पर e-Daftar के माध्यम से TIN आवेदन, 1 जनवरी 2024 से प्रभावी। https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: मलेशिया अंतर्देशीय राजस्व बोर्ड (LHDN), *Online (e-Daftar) — Individual Registration* — MyTax पोर्टल पर e-Daftar के माध्यम से TIN आवेदन, 1 जनवरी 2024 से प्रभावी। https://www.hasil.gov.my/en/individu/pendaftaran/

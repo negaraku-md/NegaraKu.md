@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "Ambassades et hauts-commissariats — Missions malaisiennes (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Ministère des Affaires étrangères, Malaisie (Wisma Putra)"
   - title: "Demande de Certificat d'urgence / Sijil Perakuan Cemas — Autres informations, Haut-commissariat de la Malaisie, Wellington (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

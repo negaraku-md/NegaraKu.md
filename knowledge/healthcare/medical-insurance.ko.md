@@ -43,7 +43,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "말레이시아 내국세청 (LHDN)"
   - title: "고용에 따른 부가급여, 공개 지침 제5/2019호 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
     date: "2019-11-19"
   - title: "산업재해 제도 (Employment Injury Scheme (LINDUNG PEKERJA))"

@@ -46,7 +46,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
   - title: "Cục Hải quan Hoàng gia Malaysia — pháp luật (Royal Malaysian Customs Department — legislation)"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
 
 entity: "Sales and Service Tax (SST)"

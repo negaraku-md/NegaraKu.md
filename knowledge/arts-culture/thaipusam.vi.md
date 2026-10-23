@@ -64,7 +64,7 @@ sources:
     url: "https://www.malaysia.travel/explore/batu-caves"
     publisher: "Tourism Malaysia"
   - title: "Lý do bạn nhất định phải trải nghiệm Thaipusam tại Penang (Here's Why You Must Experience Thaipusam in Penang)"
-    url: "https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
+    url: "https://web.archive.org/web/2024/https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
     publisher: "Penang Global Tourism / Chính quyền Bang Penang"
   - title: "Thaipusam, Ngày Lãnh thổ Liên bang được công báo là ngày nghỉ lễ vào ngày 1 tháng 2 năm 2026 (Thaipusam, FT Day gazetted as public holiday on Feb 1, 2026)"
     url: "https://www.thestar.com.my/news/nation/2025/12/31/thaipusam-ft-day-gazetted-as-public-holiday-on-feb-1-2026"

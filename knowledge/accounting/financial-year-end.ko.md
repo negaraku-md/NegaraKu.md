@@ -83,7 +83,7 @@ sources:
     publisher: "말레이시아 기업위원회 (SSM)"
     date: "2024-12-16"
   - title: "공개예규 제8/2014호 — 회사, 유한책임조합, 신탁단체 및 협동조합의 기준기간 (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
     publisher: "말레이시아 국세청 (LHDN)"
     date: "2014-12-01"
   - title: "1967년 소득세법 (Act 53), 2024년 5월 21일 기준 재발행본 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"

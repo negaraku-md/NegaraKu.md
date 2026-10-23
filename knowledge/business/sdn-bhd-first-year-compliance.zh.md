@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "马来西亚内陆税收局 (LHDN)"
   - title: "公共裁定第8/2025号 — 微型、小型及中型公司的税务处理 (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2025"
   - title: "电子发票实施时间表 (2025年12月7日更新) (e-Invoice Implementation Timeline (updated 7 December 2025))"

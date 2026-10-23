@@ -62,7 +62,7 @@ sensitivity: "royalty"
 updated: 2026-07-24
 sources:
   - title: "Về Kedah — Cổng thông tin chính thức Chính quyền Bang Kedah Darul Aman (Mengenai Kedah — Portal Rasmi Kerajaan Negeri Kedah Darul Aman)"
-    url: "https://www.kedah.gov.my/index.php/mengenai-kedah/"
+    url: "https://web.archive.org/web/20250313223746/https://www.kedah.gov.my/index.php/mengenai-kedah/"
     publisher: "Chính quyền Bang Kedah Darul Aman"
   - title: "Vương triều Kedah — Cổng thông tin chính thức Chính quyền Bang Kedah Darul Aman (Kesultanan Kedah — Portal Rasmi Kerajaan Negeri Kedah Darul Aman)"
     url: "https://www.kedah.gov.my/index.php/kesultanan-kedah/"

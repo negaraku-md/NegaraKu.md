@@ -63,7 +63,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "マレーシア証券委員会"
   - title: "パブリック・ルーリング第7/2022号：ベンチャーキャピタル税制優遇 (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
   - title: "SC、ベンチャーキャピタル・プライベートエクイティの枠組みを改定 (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

@@ -83,7 +83,7 @@ sources:
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-07-31"
   - title: "Khung Kiểm toán Thuế Giá Chuyển nhượng 2025 (bản tiếng Anh) (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025-07-31"
   - title: "Khung Kiểm toán Thuế Giá Chuyển nhượng (danh sách khung, bản tiếng Anh hiện hành ngày 31.07.2025) (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

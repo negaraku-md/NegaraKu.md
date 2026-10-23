@@ -83,7 +83,7 @@ sources:
     publisher: "LHDN"
     date: "2025-07-31"
   - title: "Cadre de contrôle fiscal des prix de transfert 2025 (édition anglaise) (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025-07-31"
   - title: "Cadre de contrôle fiscal des prix de transfert (liste des cadres, édition anglaise datée du 31.07.2025 en vigueur) (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

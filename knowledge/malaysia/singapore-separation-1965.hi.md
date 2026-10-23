@@ -58,7 +58,7 @@ sources:
     url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=9641f35d-3ae5-41d8-9fa6-7ca8b845ea53"
     publisher: "राष्ट्रीय पुस्तकालय बोर्ड, सिंगापुर (National Library Board, Singapore)"
   - title: "सिंगापुर की उद्घोषणा, 1965 (Proclamation of Singapore, 1965)"
-    url: "https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore/"
+    url: "https://corporate.nas.gov.sg/discover-archives/media/proclamationofsingapore/"
     publisher: "सिंगापुर का राष्ट्रीय अभिलेखागार (National Archives of Singapore)"
   - title: "सिंगापुर गणराज्य स्वतंत्रता अधिनियम 1965 (Republic of Singapore Independence Act 1965)"
     url: "https://sso.agc.gov.sg/Act/RSIA1965"

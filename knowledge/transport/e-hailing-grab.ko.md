@@ -58,7 +58,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "법무장관실 (AGC) — Laws of Malaysia Online"
   - title: "상업용 차량 면허위원회 (LPKP) 사바 (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "사바 주정부"
 
 entity: "전자호출(e-hailing)"

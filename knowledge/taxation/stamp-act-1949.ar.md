@@ -51,7 +51,7 @@ sources:
     url: "https://www.hasil.gov.my/duti-setem/penalti-duti-setem/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN / IRBM)"
   - title: "قانون الطوابع لسنة 1949 (Act 378) — النص الرسمي (Stamp Act 1949 (Act 378) — official text)"
-    url: "https://www.hasil.gov.my/media/hwdf2s3g/20240101-stamp-act-1949-act-378.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-setem-1949-akta-378.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN / IRBM)"
   - title: "قانون الضرائب الماليزي – رسم الدمغة (Malaysian Tax Law – Stamp Duty)"
     url: "https://oneasia.legal/en/4480"

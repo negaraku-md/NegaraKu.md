@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "외교대외관계연구원 (IDFR), 말레이시아"
   - title: "대사관 및 고등판무관실 (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "말레이시아 외교부(위스마 푸트라)"
   - title: "중국-말레이시아 수교 47주년(1974년 5월 31일 공동성명; 최초의 아세안 국가) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

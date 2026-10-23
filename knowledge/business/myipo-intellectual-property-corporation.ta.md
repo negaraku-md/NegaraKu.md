@@ -60,7 +60,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Intellectual_Property_Corporation_of_Malaysia_Act_2002"
     publisher: "Wikipedia"
   - title: "நிறுவனத் தகவல் — மலேசிய அறிவுசார் சொத்து கழகம் (Corporate Info — Intellectual Property Corporation of Malaysia)"
-    url: "https://www.myipo.gov.my/corporate-info/"
+    url: "https://www.myipo.gov.my/about-us/"
     publisher: "மலேசிய அறிவுசார் சொத்து கழகம் (MyIPO)"
   - title: "வர்த்தக முத்திரைக்கு விண்ணப்பித்தல் — மலேசிய அறிவுசார் சொத்து கழகம் (Applying for a Trademark — Intellectual Property Corporation of Malaysia)"
     url: "https://www.myipo.gov.my/applying-for-a-trademark/"

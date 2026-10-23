@@ -71,7 +71,7 @@ sources:
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "Quỹ Tiết kiệm Nhân viên (KWSP)"
   - title: "Hướng dẫn Thực phẩm & Đồ uống V7 (19 tháng 4 năm 2024) (Panduan Makanan & Minuman (Guide on Food & Beverages) V7 (19 April 2024))"
-    url: "https://mysst.customs.gov.my/industryguides/"
+    url: "https://mysst.customs.gov.my/industry-guides/"
     publisher: "Cục Hải quan Hoàng gia Malaysia (RMCD)"
 
 entity: "Restaurant / F&B Business (Malaysia)"

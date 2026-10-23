@@ -55,7 +55,7 @@ sources:
     url: "https://www.ros.gov.my/portal-main/faq"
     publisher: "马来西亚社团注册局（社团注册官）"
   - title: "1967年所得税法令 (Act 53) — 第44(6)款 (Income Tax Act 1967 (Act 53) — subsection 44(6))"
-    url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Society (Persatuan, Registrar of Societies)"

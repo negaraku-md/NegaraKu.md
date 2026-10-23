@@ -116,7 +116,7 @@ sources:
     publisher: "Moore Malaysia"
     date: "2024-09-20"
   - title: "แนวปฏิบัติ — การจัดเก็บภาษีเกี่ยวกับเงินได้ที่ได้รับจากต่างประเทศ (แก้ไข) 20 มิถุนายน 2024 (ฉบับภาษาอังกฤษ พอร์ทัล LHDN) (Guidelines — Tax Treatment in Relation to Income Received from Abroad (Amendment), 20 June 2024 (English edition, LHDN portal))"
-    url: "https://www.hasil.gov.my/media/fzofh1gz/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
     publisher: "กรมสรรพากร (LHDN)"
     date: "2024-06-20"
 

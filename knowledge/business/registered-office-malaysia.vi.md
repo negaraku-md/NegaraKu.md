@@ -71,7 +71,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Ủy ban Công ty Malaysia (SSM)"
   - title: "Thương mại Phân phối (Distributive Trade) (Perdagangan Pengedaran (Distributive Trade))"
-    url: "https://www.kpdn.gov.my/ms/orang-awam/14-perdagangan/perniagaan/perdagangan-pengedaran"
+    url: "https://www.kpdn.gov.my/ms/info-korporat/bahagian/tksu/bahagian-perdagangan-pengedaran-dan-perniagaan"
     publisher: "Bộ Thương mại Nội địa và Chi phí Sinh hoạt (KPDN)"
 
 entity: "Registered office (Malaysia)"

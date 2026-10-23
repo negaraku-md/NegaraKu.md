@@ -60,7 +60,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Intellectual_Property_Corporation_of_Malaysia_Act_2002"
     publisher: "Wikipedia"
   - title: "Informations sur l'entreprise — Corporation de la propriété intellectuelle de la Malaisie (Corporate Info — Intellectual Property Corporation of Malaysia)"
-    url: "https://www.myipo.gov.my/corporate-info/"
+    url: "https://www.myipo.gov.my/about-us/"
     publisher: "Corporation de la propriété intellectuelle de la Malaisie (MyIPO)"
   - title: "Déposer une marque — Corporation de la propriété intellectuelle de la Malaisie (Applying for a Trademark — Intellectual Property Corporation of Malaysia)"
     url: "https://www.myipo.gov.my/applying-for-a-trademark/"

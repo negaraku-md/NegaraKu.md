@@ -52,7 +52,7 @@ sources:
     url: "https://www.motac.gov.my/en/muat-turun/act-482-muktamad-tourism-industry-act-1992-en-2/"
     publisher: "சுற்றுலா, கலை மற்றும் பண்பாட்டு அமைச்சு (MOTAC)"
   - title: "பயண முகவர் நிறுவனம் — உரிம விண்ணப்பம் (Travel Agency — Licence Application)"
-    url: "https://www.motac.gov.my/en/services/license-application/travel-agency"
+    url: "https://www.motac.gov.my/en/agensi-pelancongan/"
     publisher: "சுற்றுலா, கலை மற்றும் பண்பாட்டு அமைச்சு (MOTAC)"
   - title: "பயண முகவர் நிறுவனம் (TOBTAB) — உரிமம் பெற்ற முகவர் பதிவேடு மற்றும் வகைகள் (Travel Agency (TOBTAB) — Licensed Agency Registry and Categories)"
     url: "https://www.motac.gov.my/en/kategori-semakan-new/travel-agency-tobtab/"

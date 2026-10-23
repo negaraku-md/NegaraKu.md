@@ -83,7 +83,7 @@ sources:
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
     date: "2025-07-31"
   - title: "Transfer Pricing Tax Audit Framework 2025 (अंग्रेज़ी संस्करण) (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
     date: "2025-07-31"
   - title: "Transfer Pricing Tax Audit Framework (ढाँचा सूची, 31.07.2025 की अंग्रेज़ी संस्करण वर्तमान) (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

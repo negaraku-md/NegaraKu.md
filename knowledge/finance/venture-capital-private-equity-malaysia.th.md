@@ -63,7 +63,7 @@ sources:
     url: "https://www.sc.com.my/development/vcpe/venture-capital-tax-incentives"
     publisher: "คณะกรรมการกำกับหลักทรัพย์มาเลเซีย"
   - title: "คำวินิจฉัยสาธารณะ ฉบับที่ 7/2022: สิทธิประโยชน์ทางภาษีเงินร่วมลงทุน (Public Ruling No. 7/2022: Venture Capital Tax Incentives)"
-    url: "https://www.hasil.gov.my/media/ahdj5r2p/pr_7_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_7_2022.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
   - title: "SC ปรับปรุงกรอบเงินร่วมลงทุนและไพรเวทอิควิตี้ (SC Revises Venture Capital and Private Equity Framework)"
     url: "https://www.sc.com.my/resources/media/media-release/sc-revises-venture-capital-and-private-equity-framework"

@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "Thông báo thực hành số 2/2026 — Xử lý thuế đối với người nắm giữ chứng chỉ REIT/PTF cho năm tính thuế 2026 và các năm đánh giá tiếp theo (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "Tổng cục Thuế Nội địa Malaysia (LHDN)"
   - title: "HASiL ban hành Thông báo thực hành về xử lý thuế đối với người nắm giữ chứng chỉ REIT (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

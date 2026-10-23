@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "Hội đồng Tôn giáo Hồi giáo và Phong tục Mã Lai Terengganu (MAIDAM)"
   - title: "Zakat Thu nhập / Tiền lương (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "Hội đồng Tôn giáo Hồi giáo Bang Pulau Pinang (MAINPP)"
   - title: "Zakat Tiền Tiết kiệm (nisab 20 mithqal / 85 gram vàng; tỷ lệ 2,5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

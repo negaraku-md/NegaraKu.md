@@ -62,7 +62,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "Oficina del Guardián del Gran Sello de los Gobernantes / Consejo de Gobernantes (Pejabat Penyimpan Mohor Besar Raja-Raja / Majlis Raja-Raja)"
   - title: "Portal Oficial del Gobierno del Estado de Melaka — Yang di-Pertua Negeri (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "Gobierno del Estado de Melaka (Kerajaan Negeri Melaka)"
 
 entity: "Ketua Negeri Malaysia"

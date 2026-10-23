@@ -67,7 +67,7 @@ sources:
     url: "https://www.malaysia.gov.my/my/personas/pasangan-ingin-berkahwin/merancang-perkahwinan/ujian-saringan-hiv-praperkahwinan"
     publisher: "MyGovernment (मलेशिया सरकार)"
   - title: "विवाह-पूर्व पाठ्यक्रम हेतु आवेदन (Permohonan Kursus Pra Perkahwinan)"
-    url: "https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
+    url: "https://web.archive.org/web/20220210114556/https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
     publisher: "मलेशिया इस्लामी विकास विभाग (JAKIM)"
   - title: "अक्सर पूछे जाने वाले प्रश्न (Soalan Lazim (Frequently Asked Questions))"
     url: "https://www.jais.gov.my/en/soalan-lazim/"

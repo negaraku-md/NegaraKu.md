@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/syarikat/anggaran-cukai/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Ketetapan Umum No. 8/2025 — Layanan Cukai bagi Syarikat Mikro, Kecil dan Sederhana (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025"
   - title: "Garis Masa Pelaksanaan e-Invois (dikemas kini 7 Disember 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"

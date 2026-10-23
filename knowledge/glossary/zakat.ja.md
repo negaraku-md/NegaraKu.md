@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "トレンガヌ・イスラム宗教及びマレー慣習評議会 (MAIDAM)"
   - title: "所得 / 給与ザカート (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "ペナン州イスラム宗教評議会 (MAINPP)"
   - title: "貯蓄金ザカート(ニサーブ20ミスカール / 金85グラム;税率2.5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

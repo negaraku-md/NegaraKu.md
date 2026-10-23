@@ -40,7 +40,7 @@ revisions:
 updated: 2026-07-24
 sources:
   - title: "उपभोक्ता दावा न्यायाधिकरण (Tribunal For Consumer Claims)"
-    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/secretary-general/tribunal-for-consumer-claims"
     publisher: "घरेलू व्यापार एवं जीवन-यापन लागत मंत्रालय (Ministry of Domestic Trade and Cost of Living, KPDN)"
   - title: "e-Tribunal v3 (उपभोक्ता दावा न्यायाधिकरण का आधिकारिक पोर्टल) (e-Tribunal v3 (official Tribunal for Consumer Claims portal))"
     url: "https://ttpm.kpdn.gov.my/"

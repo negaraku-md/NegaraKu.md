@@ -62,7 +62,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "สำนักงานผู้เก็บรักษาตราพระราชลัญจกรแห่งเหล่าราชา / ที่ประชุมเหล่าราชา"
   - title: "พอร์ทัลทางการรัฐบาลรัฐมะละกา — ผู้ว่าการรัฐ (Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "รัฐบาลรัฐมะละกา"
 
 entity: "Ketua Negeri Malaysia"

@@ -51,7 +51,7 @@ revisions:
 updated: 2026-07-28
 sources:
   - title: "マレーシア観光振興公社法1992（Act 481） (Malaysia Tourism Promotion Board Act 1992 (Act 481))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Malaysia-Tourism-Promotion-Board-Act-1992.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20481.pdf"
     publisher: "Laws of Malaysia（法律改正委員）再版；lom.agc.gov.my により裏付け"
   - title: "部門と機関 (Departments & Agencies)"
     url: "https://www.motac.gov.my/en/departments-agencies/"

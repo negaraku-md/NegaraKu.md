@@ -50,7 +50,7 @@ sources:
     publisher: "マレーシア司法長官府 (AGC)"
     date: "2020-10-15"
   - title: "アダット・プルパティ (Adat Perpatih)"
-    url: "https://ms.wikipedia.org/wiki/Adat_perpatih"
+    url: "https://ms.wikipedia.org/wiki/Adat_Perpatih"
     publisher: "Wikipedia Bahasa Melayu"
   - title: "アダット・トゥムンゴン (Adat Temenggong)"
     url: "https://ms.wikipedia.org/wiki/Adat_Temenggong"

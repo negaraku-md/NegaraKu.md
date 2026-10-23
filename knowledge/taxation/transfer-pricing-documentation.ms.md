@@ -83,7 +83,7 @@ sources:
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025-07-31"
   - title: "Rangka Kerja Audit Cukai Harga Pindahan 2025 (edisi Bahasa Inggeris) (Transfer Pricing Tax Audit Framework 2025 (English edition))"
-    url: "https://www.hasil.gov.my/media/x5daf2j4/transfer-pricing-tax-audit-framework-2025.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Transfer-Pricing-Tax-Audit-Framework-2025.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
     date: "2025-07-31"
   - title: "Rangka Kerja Audit Cukai Harga Pindahan (senarai rangka kerja, edisi Bahasa Inggeris bertarikh 31.07.2025 semasa) (Transfer Pricing Tax Audit Framework (framework listing, English edition dated 31.07.2025 current))"

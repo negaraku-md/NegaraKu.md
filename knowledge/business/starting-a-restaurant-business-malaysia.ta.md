@@ -71,7 +71,7 @@ sources:
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "ஊழியர் சேமநல நிதி (KWSP)"
   - title: "உணவு & பானங்கள் வழிகாட்டி V7 (2024 ஏப்ரல் 19) (Panduan Makanan & Minuman (Guide on Food & Beverages) V7 (19 April 2024))"
-    url: "https://mysst.customs.gov.my/industryguides/"
+    url: "https://mysst.customs.gov.my/industry-guides/"
     publisher: "மலேசிய அரச சுங்கத் துறை (RMCD)"
 
 entity: "Restaurant / F&B Business (Malaysia)"

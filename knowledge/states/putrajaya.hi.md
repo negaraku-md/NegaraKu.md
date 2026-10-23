@@ -78,7 +78,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "मलेशिया प्रधानमंत्री कार्यालय (Pejabat Perdana Menteri Malaysia)"
   - title: "संसद प्रभाग — PPN संघीय क्षेत्र कुआलालंपुर / पुत्राजया (Bahagian Parlimen — PPN W.P. Kuala Lumpur / Putrajaya)"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "मलेशिया निर्वाचन आयोग (SPR) (Suruhanjaya Pilihan Raya Malaysia)"
   - title: "राज्य-वार जनसंख्या अनुमान (खुला डेटा) (Anggaran penduduk mengikut negeri (data terbuka))"
     url: "https://open.dosm.gov.my/data-catalogue"

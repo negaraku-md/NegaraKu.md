@@ -41,7 +41,7 @@ sources:
     url: "https://protecthealth.com.my/peka-b40/"
     publisher: "ProtectHealth Corporation Sdn Bhd (المشغّل الرسمي لبرنامج PeKa B40 نيابةً عن وزارة الصحة الماليزية)"
   - title: "برنامج الرعاية الصحية لفئة B40 (Skim Peduli Kesihatan untuk Kumpulan B40, PeKa B40)"
-    url: "https://manfaat.mof.gov.my/b2026/individu/pekab40"
+    url: "https://manfaat.mof.gov.my/bantuan/PHC-001"
     publisher: "وزارة المالية الماليزية (MOF) — بوابة المنافع (Portal Manfaat)"
   - title: "برنامج الرعاية الصحية (PEKA) لفئة B40 (Skim Peduli Kesihatan (PEKA) untuk Kumpulan B40)"
     url: "https://ihsanmadani.gov.my/inisiatif/kesihatan/skim-peduli-kesihatan-peka-untuk-kumpulan-b40-0"

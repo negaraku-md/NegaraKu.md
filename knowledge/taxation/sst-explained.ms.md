@@ -46,7 +46,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
   - title: "Jabatan Kastam Diraja Malaysia — perundangan (Royal Malaysian Customs Department — legislation)"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "Jabatan Kastam Diraja Malaysia (RMCD)"
 
 entity: "Sales and Service Tax (SST)"

@@ -87,7 +87,7 @@ sources:
     publisher: "دائرة النائب العام (Attorney General's Chambers)"
     date: "2023-11-01"
   - title: "مذكرات توضيحية للفرد المقيم (عامل المعرفة / العامل الخبير) (المعدّل الثابت 15%، الجزء الرابع عشر الجدول 1) (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
   - title: "تمديد حوافز المنطقة الاقتصادية للساحل الشرقي (ECER) (P.U.(A) 123-126/2022، المهلة حتى 31 ديسمبر 2022) (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

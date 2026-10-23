@@ -79,7 +79,7 @@ sources:
     url: "https://irainfo.org/News/Detail/110"
     publisher: "International Rubber Association / ANRPC"
   - title: "Malaysia memimpin dalam produksi inovatif sarung tangan karet — MARGMA (Malaysia ~45%, Tiongkok ~28% pangsa pasar global, 2024) (Malaysia leads in innovative production of rubber gloves — MARGMA (Malaysia ~45%, China ~28% global market share, 2024))"
-    url: "https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
+    url: "https://web.archive.org/web/20250523181712/https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
     publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA) / MARGMA"
   - title: "Pasar Sarung Tangan Karet Malaysia — segmentasi bahan (sintetis ~65% dibanding alami ~35% dari ekspor; asal usul nitril Hartalega) (Malaysia Rubber Gloves Market — material segmentation (synthetic ~65% vs natural ~35% of exports; Hartalega nitrile origin))"
     url: "https://www.grandviewresearch.com/horizon/outlook/rubber-gloves-market/malaysia"

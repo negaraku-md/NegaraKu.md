@@ -86,7 +86,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
     publisher: "لجنة الشركات الماليزية (SSM)"
   - title: "فرض الضريبة على الشراكة ذات المسؤولية المحدودة، القرار العام رقم 8/2022 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
-    url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_8_2022.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
     date: "2022-12-23"
   - title: "قانون مهنة المحاماة لسنة 1976 (القانون 166) (Legal Profession Act 1976 (Act 166))"

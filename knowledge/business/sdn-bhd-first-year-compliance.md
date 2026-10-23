@@ -168,7 +168,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "LHDN"
   - title: "Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "LHDN"
     date: "2025"
   - title: "e-Invoice Implementation Timeline (updated 7 December 2025)"

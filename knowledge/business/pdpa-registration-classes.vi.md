@@ -69,7 +69,7 @@ sources:
     publisher: "Văn phòng Tổng Chưởng lý"
     date: "2013-11-14"
   - title: "Đăng ký Bên Kiểm soát Dữ liệu (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "Ủy viên Bảo vệ Dữ liệu Cá nhân Malaysia"
     date: "2025-06-01"
 

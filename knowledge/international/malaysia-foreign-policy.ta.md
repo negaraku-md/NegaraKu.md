@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "இராஜதந்திரம் மற்றும் வெளியுறவு நிறுவனம் (IDFR), மலேசியா"
   - title: "தூதரகங்கள் & உயர் ஸ்தானிகராலயங்கள் (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "மலேசிய வெளியுறவு அமைச்சு (விஸ்மா புத்ரா)"
   - title: "சீனா-மலேசியா இராஜதந்திர உறவுகளின் 47வது ஆண்டு நிறைவு (31 மே 1974 கூட்டு அறிக்கை; முதல் ஆசியான் நாடு) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

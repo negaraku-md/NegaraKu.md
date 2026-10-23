@@ -59,7 +59,7 @@ sources:
     url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-114-keanggotaan-suruhanjaya-pilihan-raya.pdf"
     publisher: "Ủy ban Bầu cử Malaysia (SPR)"
   - title: "Tầm nhìn, Sứ mệnh và Chức năng của SPR (Visi, Misi dan Fungsi SPR)"
-    url: "https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
+    url: "https://web.archive.org/web/20260806162131/https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
     publisher: "Ủy ban Bầu cử Malaysia (SPR)"
 
 entity: "Suruhanjaya Pilihan Raya"

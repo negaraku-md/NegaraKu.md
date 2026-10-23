@@ -75,7 +75,7 @@ sources:
     publisher: "Chambre du Procureur général (AGC)"
     date: "2024-12-24"
   - title: "Directive sur la protection des données personnelles — Nomination d'un responsable de la protection des données (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "Département de la protection des données personnelles (JPDP)"
     date: "2025-02-25"
   - title: "Revue réglementaire du commerce électronique de KPDN (KPDN E-Commerce Regulatory Review)"

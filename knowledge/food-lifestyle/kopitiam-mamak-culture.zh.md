@@ -78,10 +78,10 @@ sources:
     url: "https://en.wikipedia.org/wiki/Kopi_(drink)"
     publisher: "Wikipedia"
   - title: "Kopi 冲泡中袜子滤器背后的秘密 (The Secret Behind the Sock Filter in Kopi Brewing)"
-    url: "https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
+    url: "https://web.archive.org/web/2024/https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
     publisher: "kopiguide.com"
   - title: "马来西亚清真认证（按场所、自愿）— JAKIM 清真门户 (Malaysia Halal Certification (per-premise, voluntary) — JAKIM Halal Portal)"
-    url: "https://www.halal.gov.my/v4/"
+    url: "https://www.halal.gov.my/"
     publisher: "马来西亚伊斯兰教发展局 (JAKIM)"
 
 relations:

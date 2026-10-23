@@ -78,7 +78,7 @@ sources:
     url: "https://irainfo.org/News/Detail/110"
     publisher: "International Rubber Association / ANRPC"
   - title: "Malaysia dẫn đầu trong sản xuất sáng tạo găng tay cao su — MARGMA (Malaysia ~45%, Trung Quốc ~28% thị phần toàn cầu, 2024) (Malaysia leads in innovative production of rubber gloves — MARGMA)"
-    url: "https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
+    url: "https://web.archive.org/web/20250523181712/https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
     publisher: "Cục Phát triển Đầu tư Malaysia (MIDA) / MARGMA"
   - title: "Thị trường Găng tay Cao su Malaysia — phân khúc theo vật liệu (tổng hợp ~65% so với tự nhiên ~35% của xuất khẩu; nguồn gốc nitrile của Hartalega) (Malaysia Rubber Gloves Market — material segmentation)"
     url: "https://www.grandviewresearch.com/horizon/outlook/rubber-gloves-market/malaysia"

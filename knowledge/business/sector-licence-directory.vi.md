@@ -53,7 +53,7 @@ sources:
     url: "https://lom.agc.gov.my/"
     publisher: "Văn phòng Tổng Chưởng lý"
   - title: "BLESS — Bối cảnh (BLESS — Latar Belakang)"
-    url: "https://portal.bless.gov.my/latar-belakang/"
+    url: "https://portal.bless.gov.my/background/"
     publisher: "Bộ Phát triển Doanh nhân và Hợp tác xã (KUSKOP)"
   - title: "MalaysiaBiz — Cấp phép Kinh doanh (MalaysiaBiz — Business Licensing)"
     url: "https://malaysiabiz.gov.my/en/services/business-licensing"

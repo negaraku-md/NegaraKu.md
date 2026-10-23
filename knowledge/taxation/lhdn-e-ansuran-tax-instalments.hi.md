@@ -55,7 +55,7 @@ sources:
     url: "https://www.hasil.gov.my/en/individu/bayaran/baki-cukai-kena-bayar/"
     publisher: "मलेशिया का आंतरिक राजस्व बोर्ड (LHDN)"
   - title: "मीडिया वक्तव्य: MyTax पर e-Ansuran के माध्यम से कर शेष या कर बकाया के लिए ऑनलाइन किस्त आवेदन (18 March 2025) (Media statement: instalment application for balance of tax or tax arrears online via e-Ansuran on MyTax (18 March 2025))"
-    url: "https://www.hasil.gov.my/media/p24d2bzq/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250318-kenyataan-media-hasil-permohonan-ansuran-untuk-bayaran-baki-cukai-atau-tunggakan-cukai-secara-dalam-talian-melalui-e-ansuran-di-portal-mytax.pdf"
     publisher: "मलेशिया का आंतरिक राजस्व बोर्ड (LHDN)"
   - title: "MyTax पोर्टल (MyTax portal)"
     url: "https://mytax.hasil.gov.my/"

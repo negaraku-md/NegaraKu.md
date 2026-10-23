@@ -63,7 +63,7 @@ sources:
     url: "https://www.malaysia.travel/explore/batu-caves"
     publisher: "Tourism Malaysia"
   - title: "ペナンでタイプーサムを体験すべき理由 (Here's Why You Must Experience Thaipusam in Penang)"
-    url: "https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
+    url: "https://web.archive.org/web/2024/https://mypenang.gov.my/experience-2020/my-stories/129/?lg=en"
     publisher: "Penang Global Tourism / ペナン州政府"
   - title: "タイプーサムと連邦直轄領の日、2026年2月1日を公休日に官報告示 (Thaipusam, FT Day gazetted as public holiday on Feb 1, 2026)"
     url: "https://www.thestar.com.my/news/nation/2025/12/31/thaipusam-ft-day-gazetted-as-public-holiday-on-feb-1-2026"

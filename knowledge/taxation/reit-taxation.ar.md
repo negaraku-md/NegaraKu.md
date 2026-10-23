@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "مذكرة الممارسة رقم 2/2026 — المعاملة الضريبية لحمَلة وحدات REIT/PTF لسنة التقدير 2026 وما يليها (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
   - title: "HASiL تُصدر مذكرة ممارسة بشأن المعاملة الضريبية لحمَلة وحدات REIT (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

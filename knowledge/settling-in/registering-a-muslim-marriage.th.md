@@ -67,7 +67,7 @@ sources:
     url: "https://www.malaysia.gov.my/my/personas/pasangan-ingin-berkahwin/merancang-perkahwinan/ujian-saringan-hiv-praperkahwinan"
     publisher: "MyGovernment (รัฐบาลมาเลเซีย)"
   - title: "การสมัครหลักสูตรก่อนสมรส (Permohonan Kursus Pra Perkahwinan)"
-    url: "https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
+    url: "https://web.archive.org/web/20220210114556/https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
     publisher: "กรมพัฒนาอิสลามแห่งมาเลเซีย (JAKIM)"
   - title: "คำถามที่พบบ่อย (Soalan Lazim (Frequently Asked Questions))"
     url: "https://www.jais.gov.my/en/soalan-lazim/"

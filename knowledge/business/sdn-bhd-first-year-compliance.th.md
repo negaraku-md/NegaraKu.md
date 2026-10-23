@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
   - title: "คำวินิจฉัยสาธารณะที่ 8/2025 — การปฏิบัติทางภาษีสำหรับบริษัทขนาดจิ๋ว ขนาดเล็ก และขนาดกลาง (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2025"
   - title: "กำหนดการดำเนินการ e-Invoice (ปรับปรุง 7 ธันวาคม 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"

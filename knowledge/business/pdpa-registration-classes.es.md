@@ -69,7 +69,7 @@ sources:
     publisher: "Fiscalía General (Attorney General's Chambers)"
     date: "2013-11-14"
   - title: "Registro del Responsable del Tratamiento (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "Comisionado de Protección de Datos Personales de Malasia (Personal Data Protection Commissioner Malaysia)"
     date: "2025-06-01"
 

@@ -51,7 +51,7 @@ sources:
     url: "https://www.hasil.gov.my/duti-setem/penalti-duti-setem/"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN / IRBM)"
   - title: "Stamp Act 1949 (Act 378) — văn bản chính thức (Stamp Act 1949 (Act 378) — official text)"
-    url: "https://www.hasil.gov.my/media/hwdf2s3g/20240101-stamp-act-1949-act-378.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-setem-1949-akta-378.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN / IRBM)"
   - title: "Luật Thuế Malaysia – Thuế tem (Malaysian Tax Law – Stamp Duty)"
     url: "https://oneasia.legal/en/4480"

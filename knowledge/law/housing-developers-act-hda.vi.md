@@ -73,7 +73,7 @@ sources:
     url: "https://www.mondaq.com/real-estate/467810/an-overview-of-the-recent-amendment-to-the-housing-development-control-and-licensing-act-1966"
     publisher: "Mondaq"
   - title: "Housing Development (Control and Licensing) Act 1966 (Act 118) — bản tái bản kết hợp các sửa đổi đến ngày 1 tháng 1 năm 2006 (văn bản luật gốc) (Housing Development (Control and Licensing) Act 1966 (Act 118) — Reprint incorporating amendments up to 1 January 2006 (base statute text))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/07/Housing-Development-Control-and-Licensing-Act-1966.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20118.pdf"
     publisher: "Ủy viên Rà soát Pháp luật, Malaysia / Percetakan Nasional Malaysia"
   - title: "Schedule G — Hợp đồng Mua bán (Đất và Công trình), Housing Development (Control and Licensing) Regulations 1989 (Schedule G — Sale and Purchase Agreement (Land and Building), Housing Development (Control and Licensing) Regulations 1989)"
     url: "https://www.hba.org.my/laws/housing_reg/2002/Schedule_G.pdf"

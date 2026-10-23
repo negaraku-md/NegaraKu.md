@@ -46,7 +46,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "रॉयल मलेशियाई सीमा-शुल्क विभाग (RMCD)"
   - title: "रॉयल मलेशियाई सीमा-शुल्क विभाग — विधान (Royal Malaysian Customs Department — legislation)"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "रॉयल मलेशियाई सीमा-शुल्क विभाग (RMCD)"
 
 entity: "Sales and Service Tax (SST)"

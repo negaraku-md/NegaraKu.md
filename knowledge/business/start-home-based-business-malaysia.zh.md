@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "马来西亚公司委员会 (SSM)"
   - title: "在线 (e-Daftar) — 个人注册 (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"

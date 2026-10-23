@@ -42,7 +42,7 @@ sources:
     url: "https://cfs.forestry.gov.my/faq/"
     publisher: "ศูนย์นานาชาติเพื่อแนวสันป่ากลาง (ICCFS), กรมป่าไม้คาบสมุทรมาเลเซีย (International Centre for Central Forest Spine (ICCFS), Forestry Department of Peninsular Malaysia)"
   - title: "กูนุงสตง (Gunung Stong)"
-    url: "https://www.kesedar.gov.my/en/pelancongan-kelantan-selatan/gunung-stong/"
+    url: "https://www.kesedar.gov.my/gunung-stong-2/"
     publisher: "องค์การพัฒนากลันตันใต้ (KESEDAR)"
   - title: "รอยัลเบอลุม (Royal Belum)"
     url: "https://www.mybis.gov.my/pa/209"

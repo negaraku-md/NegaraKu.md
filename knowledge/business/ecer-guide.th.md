@@ -86,7 +86,7 @@ sources:
     publisher: "สำนักงานอัยการสูงสุด"
     date: "2023-11-01"
   - title: "บันทึกคำอธิบายบุคคลธรรมดาผู้มีถิ่นที่อยู่ (แรงงานความรู้ / แรงงานผู้เชี่ยวชาญ) (อัตราคงที่ 15% ภาค XIV ตาราง 1) (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
   - title: "การขยายสิทธิประโยชน์เขตเศรษฐกิจชายฝั่งตะวันออก (ECER) (P.U.(A) 123-126/2022 กำหนดถึง 31 ธ.ค. 2022) (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

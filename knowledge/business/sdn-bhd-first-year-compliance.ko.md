@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "말레이시아 국세청 (LHDN)"
   - title: "공개 유권해석 제8/2025호 — 초소형·중소기업에 대한 세무 처리 (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "말레이시아 국세청 (LHDN)"
     date: "2025"
   - title: "e-인보이스 시행 일정 (2025년 12월 7일 갱신) (e-Invoice Implementation Timeline (updated 7 December 2025))"

@@ -46,7 +46,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "Departamento Real de Aduanas de Malasia (RMCD)"
   - title: "Departamento Real de Aduanas de Malasia — legislación (Royal Malaysian Customs Department — legislation)"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "Departamento Real de Aduanas de Malasia (RMCD)"
 
 entity: "Sales and Service Tax (SST)"

@@ -59,7 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "دائرة النائب العام (AGC) — قوانين ماليزيا على الإنترنت (Laws of Malaysia Online)"
   - title: "مجلس ترخيص المركبات التجارية (LPKP) في صباح (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "حكومة ولاية صباح (Sabah State Government)"
 
 entity: "E-hailing"

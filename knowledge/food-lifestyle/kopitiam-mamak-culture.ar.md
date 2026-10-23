@@ -77,10 +77,10 @@ sources:
     url: "https://en.wikipedia.org/wiki/Kopi_(drink)"
     publisher: "Wikipedia"
   - title: "السرّ وراء مصفاة الجورب في تحضير القهوة (The Secret Behind the Sock Filter in Kopi Brewing)"
-    url: "https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
+    url: "https://web.archive.org/web/2024/https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
     publisher: "kopiguide.com"
   - title: "اعتماد الحلال في ماليزيا (لكل محلّ، اختياري) — بوابة الحلال لدى JAKIM (Malaysia Halal Certification (per-premise, voluntary) — JAKIM Halal Portal)"
-    url: "https://www.halal.gov.my/v4/"
+    url: "https://www.halal.gov.my/"
     publisher: "الإدارة الماليزية للتنمية الإسلامية (JAKIM)"
 
 relations:

@@ -59,7 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "Cabinet du Procureur général (AGC) — Lois de la Malaisie en ligne (Laws of Malaysia Online)"
   - title: "Commission des licences de véhicules commerciaux (LPKP) de Sabah (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "Gouvernement de l'État de Sabah (Sabah State Government)"
 
 entity: "E-hailing"

@@ -71,7 +71,7 @@ sources:
     url: "https://theedgemalaysia.com/article/flash-bnm-awards-digital-banking-licence-rhbboost-gxs-bankkuok-brothers-ytlsea-aeon-credit"
     publisher: "The Edge Malaysia"
   - title: "The Bank of Nova Scotia Berhad (செயல்பாடு நிறுத்த அறிவிப்பு) (The Bank of Nova Scotia Berhad (cessation notice))"
-    url: "https://www.bnm.gov.my/-/the-bank-of-nova-scotia-berhad"
+    url: "https://web.archive.org/web/20230313053553/https://www.bnm.gov.my/-/the-bank-of-nova-scotia-berhad"
     publisher: "மலேசிய தேசிய வங்கி"
   - title: "MIDF Amanah, MBSB Investment Bank என மறுபிராண்டிங் செய்கிறது (MIDF Amanah Rebrands To MBSB Investment Bank)"
     url: "https://www.bernama.com/en/news.php?id=2445366"

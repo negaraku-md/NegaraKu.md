@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "大使館・高等弁務官事務所 — マレーシア在外公館 (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "マレーシア外務省（ウィスマ・プトラ）"
   - title: "緊急証明書の申請 / Sijil Perakuan Cemas — その他の情報、在ウェリントン・マレーシア高等弁務官事務所 (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

@@ -86,7 +86,7 @@ sources:
     publisher: "Văn phòng Tổng Chưởng lý"
     date: "2023-11-01"
   - title: "Ghi chú Giải thích Cá nhân Cư trú (Lao động Tri thức / Lao động Chuyên gia) (thuế suất cố định 15%, Phần XIV Phụ lục 1) (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
   - title: "Ưu đãi Vùng Kinh tế Duyên hải phía Đông (ECER) được gia hạn (P.U.(A) 123-126/2022, hạn chót đến 31 tháng 12 năm 2022) (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

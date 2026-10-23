@@ -67,7 +67,7 @@ sources:
     url: "https://www.kpdn.gov.my/images/muat-turun/borang-J/Borang-WRT1-as-at-8-Mei-2012.pdf"
     publisher: "国内取引・生活費省 (KPDN)"
   - title: "流通業・サービス産業事務局 (Sekretariat Perdagangan Pengedaran dan Industri Perkhidmatan (SPIP))"
-    url: "https://www.kpdn.gov.my/ms/info-korporat/bahagian/tksu/bahagian-pembangunan-perniagaan-syarikat-dan-jualan-langsung/sekretariat-perdagangan-pengedaran-dan-industri-perkhidmatan"
+    url: "https://www.kpdn.gov.my/ms/info-korporat/bahagian/tksu/bahagian-perdagangan-pengedaran-dan-perniagaan/sekretariat-perdagangan-pengedaran-dan-industri-perkhidmatan"
     publisher: "国内取引・生活費省 (KPDN)"
   - title: "ESD オンラインガイドブック V6 2025 (ESD Online Guidebook V6 2025)"
     url: "https://esd.imi.gov.my/portal/pdf/ESD_Online_Guidebook_V6_2025_(14042025).pdf"

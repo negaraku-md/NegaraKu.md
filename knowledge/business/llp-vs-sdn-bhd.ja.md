@@ -86,7 +86,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
     publisher: "マレーシア会社委員会 (SSM)"
   - title: "有限責任事業組合の課税、パブリックルーリング第8/2022号 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
-    url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_8_2022.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
     date: "2022-12-23"
   - title: "法曹法 1976 (Act 166) (Legal Profession Act 1976 (Act 166))"

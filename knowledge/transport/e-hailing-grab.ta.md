@@ -59,7 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "வழக்கறிஞர் தலைமை அலுவலகம் (AGC) — Laws of Malaysia Online"
   - title: "வணிக வாகன உரிம வாரியம் (LPKP) சபா (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "சபா மாநில அரசாங்கம்"
 
 entity: "E-hailing"

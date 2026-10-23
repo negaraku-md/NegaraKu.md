@@ -128,7 +128,7 @@ sources:
     publisher: "Malay Mail"
     date: "2026-07-06"
   - title: "Các Chính sách Hiện hành về Tuyển dụng Lao động Nước ngoài (Current Policies on Recruitment of Foreign Workers)"
-    url: "https://www.moha.gov.my/index.php/en/bahagian-pa-dasar-dasar-semasa/current-policies-on-recruitment-of-foreign-workers"
+    url: "https://web.archive.org/web/20250704201843/https://www.moha.gov.my/index.php/en/bahagian-pa-dasar-dasar-semasa/current-policies-on-recruitment-of-foreign-workers"
     publisher: "Bộ Nội vụ Malaysia (KDN)"
   - title: "Dự luật Bảo hiểm Việc làm được Trình lại với Hình phạt Lũy tiến (Employment Insurance Bill Retabled With Progressive Penalties)"
     url: "https://bernama.com/en/news.php?id=2574973"

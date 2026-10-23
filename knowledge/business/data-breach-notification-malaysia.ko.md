@@ -84,7 +84,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "개인정보보호 지침 — 데이터 유출 통지, 버전 1.0 (Personal Data Protection Guideline — Data Breach Notification, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
+    url: "https://web.archive.org/web/20260209180751/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
     publisher: "말레이시아 개인정보보호위원 (JPDP)"
     date: "2025-02-25"
   - title: "2024년 개인정보보호(개정)법 [Act A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -96,7 +96,7 @@ sources:
     publisher: "말레이시아 법무장관실 (AGC)"
     date: "2024-12-24"
   - title: "데이터 유출 통지 (DBN)에 관한 지침 및 회람 (Guidelines and Circulars on Data Breach Notification (DBN))"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
     publisher: "말레이시아 개인정보보호위원 (JPDP)"
     date: "2025-02-25"
 

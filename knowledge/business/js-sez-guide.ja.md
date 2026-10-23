@@ -80,7 +80,7 @@ sources:
     publisher: "投資貿易産業省 (MITI)"
     date: "2025-10-14"
   - title: "連邦官報の附属法令検索（P.U.(A)） (Federal gazette subsidiary legislation search (P.U.(A)))"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "法務長官府"
   - title: "ジョホール・シンガポール経済特区：投資家のための初期ストラクチャリングの検討事項 (The Johor-Singapore Special Economic Zone: early structuring considerations for investors)"
     url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"

@@ -49,7 +49,7 @@ revisions:
 updated: 2026-07-24
 sources:
   - title: "Tribunal For Consumer Claims"
-    url: "https://www.kpdn.gov.my/en/faq/tribunal-for-consumer-claims"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/secretary-general/tribunal-for-consumer-claims"
     publisher: "Ministry of Domestic Trade and Cost of Living (KPDN)"
   - title: "Consumer Protection Act 1999 (Act 599)"
     url: "https://www.kpdn.gov.my/images/2024/awam/akta/ttpm/Act%20599.pdf"

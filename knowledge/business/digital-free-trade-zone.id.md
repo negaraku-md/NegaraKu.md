@@ -107,7 +107,7 @@ sources:
     publisher: "Malaysia Airports Holdings Berhad"
     date: "2023-12-31"
   - title: "Pencarian perundang-undangan subsidiari warta federal (Federal gazette subsidiary legislation search)"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "Kejaksaan Agung (AGC)"
 
 entity: "Digital Free Trade Zone"

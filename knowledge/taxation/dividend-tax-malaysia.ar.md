@@ -54,7 +54,7 @@ sources:
   - title: "Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025]"
     publisher: "مكتب النائب العام (AGC) — الجريدة الرسمية للحكومة الاتحادية"
   - title: "الأسئلة المتكرِّرة (للأفراد) (Frequently Asked Questions (Individual))"
-    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    url: "https://www.hasil.gov.my/en/individu/soalan-lazim-individu/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"

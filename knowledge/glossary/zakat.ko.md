@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "트렝가누 이슬람종교 및 말레이관습위원회 (MAIDAM)"
   - title: "소득 / 급여 자카트 (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "페낭주 이슬람종교위원회 (MAINPP)"
   - title: "저축 자카트 (니삽 20미스칼 / 금 85그램; 세율 2.5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

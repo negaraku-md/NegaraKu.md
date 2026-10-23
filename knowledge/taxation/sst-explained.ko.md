@@ -46,7 +46,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "말레이시아 왕립관세청 (RMCD)"
   - title: "말레이시아 왕립관세청 — 법령 (Royal Malaysian Customs Department — legislation)"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "말레이시아 왕립관세청 (RMCD)"
 
 entity: "Sales and Service Tax (SST)"

@@ -54,7 +54,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "Garis Panduan: Layanan Cukai bagi Transaksi Mata Wang Digital (LHDN.AG.600-1/7/3) (Guidelines: Tax Treatment on Digital Currency Transaction (LHDN.AG.600-1/7/3))"
-    url: "https://www.hasil.gov.my/media/ittdkpgv/guidelines-tax-treatment-on-digital-currency-transaction.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/guidelines-tax-treatment-on-digital-currency-transaction.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN/IRBM)"
   - title: "Pendapatan Daripada Aktiviti Kripto Tertakluk kepada Income Tax Act 1967 – MOF (Income From Crypto Activities Subject To Income Tax Act 1967 – MOF)"
     url: "https://www.mof.gov.my/portal/en/news/press-citations/income-from-crypto-activities-subject-to-income-tax-act-1967-mof"

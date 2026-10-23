@@ -44,7 +44,7 @@ sources:
     url: "https://www.jmm.gov.my/en/content/lembah-bujang-archaeological-museum"
     publisher: "말레이시아 박물관국 (Department of Museums Malaysia)"
   - title: "말라카의 역사 (Melaka History)"
-    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "말라카주 정부 공식 포털 (Portal Rasmi Kerajaan Negeri Melaka)"
 entity: "Srivijaya"
 wikidata: "Q234197"

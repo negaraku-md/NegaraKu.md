@@ -51,7 +51,7 @@ revisions:
 updated: 2026-07-28
 sources:
   - title: "Akta Lembaga Penggalakan Pelancongan Malaysia 1992 (Akta 481) (Malaysia Tourism Promotion Board Act 1992 (Act 481))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Malaysia-Tourism-Promotion-Board-Act-1992.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20481.pdf"
     publisher: "Undang-Undang Malaysia (Komisaris Penyemakan Undang-Undang) cetakan ulang; dikonfirmasi oleh lom.agc.gov.my"
   - title: "Departemen & Lembaga (Departments & Agencies)"
     url: "https://www.motac.gov.my/en/departments-agencies/"

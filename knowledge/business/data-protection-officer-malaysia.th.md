@@ -71,7 +71,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "แนวปฏิบัติการคุ้มครองข้อมูลส่วนบุคคล — การแต่งตั้งเจ้าหน้าที่คุ้มครองข้อมูล, เวอร์ชัน 1.0 (Personal Data Protection Guideline — Appointment of Data Protection Officer, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
+    url: "https://web.archive.org/web/20260209181523/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DPO_ENG.pdf"
     publisher: "กรรมการคุ้มครองข้อมูลส่วนบุคคลมาเลเซีย (JPDP)"
     date: "2025-02-25"
   - title: "พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล (แก้ไข) ค.ศ. 2024 [Act A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -83,7 +83,7 @@ sources:
     publisher: "สำนักงานอัยการสูงสุด (AGC)"
     date: "2024-12-24"
   - title: "แนวปฏิบัติและหนังสือเวียนว่าด้วยการคุ้มครองข้อมูลส่วนบุคคล — การแต่งตั้งเจ้าหน้าที่คุ้มครองข้อมูล (Guidelines and Circular on Personal Data Protection — Appointment of Data Protection Officer)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circular-on-personal-data-protection-appointment-of-data-protection-officer-dpo-and-data-breach-notification/"
     publisher: "กรรมการคุ้มครองข้อมูลส่วนบุคคลมาเลเซีย (JPDP)"
     date: "2025-02-25"
 

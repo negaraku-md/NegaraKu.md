@@ -64,7 +64,7 @@ sources:
     url: "https://jpt.mohe.gov.my/index.php/en/hei/private-hei/21-act-555"
     publisher: "Département de l'enseignement supérieur, Ministère de l'enseignement supérieur de Malaisie (Department of Higher Education, Ministry of Higher Education Malaysia)"
   - title: "Charte du client (Client Charter)"
-    url: "https://www.mohe.gov.my/en/corporate/charter/101-client-charter"
+    url: "https://www.mohe.gov.my/en/corporate/client-s-charter"
     publisher: "Ministère de l'enseignement supérieur de Malaisie (Ministry of Higher Education Malaysia)"
 
 entity: "Private Education Business (Malaysia)"

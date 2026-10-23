@@ -75,7 +75,7 @@ sources:
     publisher: "Văn phòng Tổng Chưởng lý"
     date: "2024-12-24"
   - title: "Hướng dẫn Bảo vệ Dữ liệu Cá nhân — Bổ nhiệm Cán bộ Bảo vệ Dữ liệu (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "Cục Bảo vệ Dữ liệu Cá nhân"
     date: "2025-02-25"
   - title: "Rà soát Quy định Thương mại Điện tử của KPDN (KPDN E-Commerce Regulatory Review)"

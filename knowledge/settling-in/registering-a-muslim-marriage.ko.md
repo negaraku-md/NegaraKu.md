@@ -67,7 +67,7 @@ sources:
     url: "https://www.malaysia.gov.my/my/personas/pasangan-ingin-berkahwin/merancang-perkahwinan/ujian-saringan-hiv-praperkahwinan"
     publisher: "MyGovernment(말레이시아 정부)"
   - title: "혼전 강좌 신청 (Permohonan Kursus Pra Perkahwinan)"
-    url: "https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
+    url: "https://web.archive.org/web/20220210114556/https://www.islam.gov.my/ms/kekeluargaan/permohonan-kursus-pra-perkahwinan"
     publisher: "말레이시아 이슬람개발부 (JAKIM)"
   - title: "자주 묻는 질문 (Soalan Lazim (Frequently Asked Questions))"
     url: "https://www.jais.gov.my/en/soalan-lazim/"

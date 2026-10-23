@@ -31,7 +31,7 @@ sensitivity: "none"
 updated: 2026-07-23
 sources:
   - title: "ลังกาสุกะ (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "เหลียงชู (หนังสือแห่งราชวงศ์เหลียง), บทว่าด้วยชนเผ่าอนารยชนใต้ (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
     publisher: "ประวัติศาสตร์นิพนธ์ราชวงศ์จีน, เรียบเรียงคริสต์ศตวรรษที่ 7"

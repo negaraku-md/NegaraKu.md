@@ -56,10 +56,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/public-ruling-no-2-2024-investment-holding-company.pdf"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
   - title: "Public Ruling No. 6/2016: Group Relief for Companies"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_6_2016.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_6_2016.pdf"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
   - title: "Income Tax Act 1967 (Act 53)"
-    url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
 
 entity: "Holding Company (Malaysia)"

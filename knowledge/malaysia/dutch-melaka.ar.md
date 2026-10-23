@@ -38,10 +38,10 @@ sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "تاريخ ملقا (Melaka History)"
-    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "البوابة الرسمية لحكومة ولاية ملقا (Portal Rasmi Kerajaan Negeri Melaka)"
   - title: "تاريخ ملقا (Sejarah Melaka)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/info-negeri/sejarah.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "البوابة الرسمية لحكومة ولاية ملقا (Portal Rasmi Kerajaan Negeri Melaka)"
   - title: "قلعة إيه فاموزا، ملقا (Kota A' Famosa, Melaka)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka"

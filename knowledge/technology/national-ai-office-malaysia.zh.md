@@ -58,7 +58,7 @@ verificationNeeded:
 updated: 2026-08-01
 sources:
   - title: "关于 NAIO (About NAIO)"
-    url: "https://ai.gov.my/about-naio/"
+    url: "https://web.archive.org/web/2024/https://ai.gov.my/about-naio/"
     publisher: "国家人工智能办公室 / AI Malaysia"
   - title: "马来西亚成立国家人工智能办公室（NAIO） (Malaysia Launches National AI Office (NAIO))"
     url: "https://www.mydigital.gov.my/malaysia-launches-national-ai-office-naio/"

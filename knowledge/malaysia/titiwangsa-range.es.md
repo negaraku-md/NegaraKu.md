@@ -42,7 +42,7 @@ sources:
     url: "https://cfs.forestry.gov.my/faq/"
     publisher: "Centro Internacional para la Columna Forestal Central (ICCFS), Departamento Forestal de la Malasia Peninsular (International Centre for Central Forest Spine (ICCFS), Forestry Department of Peninsular Malaysia)"
   - title: "Gunung Stong"
-    url: "https://www.kesedar.gov.my/en/pelancongan-kelantan-selatan/gunung-stong/"
+    url: "https://www.kesedar.gov.my/gunung-stong-2/"
     publisher: "Autoridad de Desarrollo de Kelantan Meridional (Lembaga Kemajuan Kelantan Selatan / KESEDAR)"
   - title: "Royal Belum"
     url: "https://www.mybis.gov.my/pa/209"

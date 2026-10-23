@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "สภาศาสนาอิสลามและจารีตมลายูแห่งรัฐตรังกานู (MAIDAM)"
   - title: "ซะกาตรายได้ / เงินเดือน (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "สภาศาสนาอิสลามแห่งรัฐปีนัง (MAINPP)"
   - title: "ซะกาตเงินออม (นิศอบ 20 มิษกอล / ทองคำ 85 กรัม; อัตรา 2.5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

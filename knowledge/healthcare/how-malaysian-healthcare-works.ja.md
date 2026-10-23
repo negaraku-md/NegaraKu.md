@@ -51,7 +51,7 @@ sources:
     url: "https://www.malaysia.gov.my/en/personas/low-income-families/mendapatkan-kemudahan-kesihatan/peka-b40"
     publisher: "Malaysia.gov.my（マレーシア政府公式ポータル）"
   - title: "PeKa B40 (Eng)"
-    url: "https://protecthealth.com.my/peka-b40-eng/"
+    url: "https://protecthealth.com.my/peka-sihat-eng/"
     publisher: "ProtectHealth Corporation Sdn Bhd（MOH実施機関）"
   - title: "MySalam受給者に8,000リンギの一時金 (RM8,000 one-off contribution for MySalam recipient)"
     url: "https://www.bernama.com/en/news.php?id=1688160"

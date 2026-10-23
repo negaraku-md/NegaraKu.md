@@ -58,7 +58,7 @@ sources:
     publisher: "The Star"
     date: "2024-03-02"
   - title: "கட்டுப்பாட்டு பொருட்கள் — வழங்கல் மற்றும் மானிய பிரிவு (Controlled Items — Supply and Subsidy Division)"
-    url: "https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/supply-and-subsidy-division/controlled-items"
+    url: "https://www.kpdn.gov.my/en/corporate-info/department/tksu/petroleum-regulatory-division/controlled-items"
     publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு (KPDN)"
 
 entity: "Cost of living in Sabah and Sarawak"

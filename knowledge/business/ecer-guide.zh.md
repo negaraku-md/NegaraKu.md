@@ -87,7 +87,7 @@ sources:
     publisher: "总检察署"
     date: "2023-11-01"
   - title: "居民个人（知识工作者 / 专家工作者）说明注释（15%统一税率，第XIV部附表1） (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
   - title: "东海岸经济区（ECER）奖掖延长（P.U.(A) 123-126/2022，截止至2022年12月31日） (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

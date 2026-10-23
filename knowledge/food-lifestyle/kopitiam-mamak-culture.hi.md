@@ -77,10 +77,10 @@ sources:
     url: "https://en.wikipedia.org/wiki/Kopi_(drink)"
     publisher: "Wikipedia"
   - title: "कोपी शराबन में मोज़ा-फ़िल्टर के पीछे का रहस्य (The Secret Behind the Sock Filter in Kopi Brewing)"
-    url: "https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
+    url: "https://web.archive.org/web/2024/https://kopiguide.com/the-secret-behind-the-sock-filter-in-kopi-brewing/"
     publisher: "kopiguide.com"
   - title: "मलेशिया हलाल प्रमाणन (प्रति-परिसर, स्वैच्छिक) — JAKIM हलाल पोर्टल (Malaysia Halal Certification (per-premise, voluntary) — JAKIM Halal Portal)"
-    url: "https://www.halal.gov.my/v4/"
+    url: "https://www.halal.gov.my/"
     publisher: "मलेशिया इस्लामी विकास विभाग (JAKIM)"
 
 relations:

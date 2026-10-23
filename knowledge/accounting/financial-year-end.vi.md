@@ -83,7 +83,7 @@ sources:
     publisher: "Ủy ban Công ty Malaysia (SSM)"
     date: "2024-12-16"
   - title: "Phán quyết công khai số 8/2014 — Kỳ tính thuế của công ty, công ty hợp danh trách nhiệm hữu hạn, quỹ tín thác và hợp tác xã (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2014-12-01"
   - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"

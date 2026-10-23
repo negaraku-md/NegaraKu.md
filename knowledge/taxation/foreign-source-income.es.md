@@ -116,7 +116,7 @@ sources:
     publisher: "Moore Malaysia"
     date: "2024-09-20"
   - title: "Directrices — Tratamiento fiscal en relación con la renta recibida del extranjero (Enmienda), 20 de junio de 2024 (edición en inglés, portal de la LHDN) (Guidelines — Tax Treatment in Relation to Income Received from Abroad (Amendment), 20 June 2024 (English edition, LHDN portal))"
-    url: "https://www.hasil.gov.my/media/fzofh1gz/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
     publisher: "Junta de Recaudación Interna de Malasia (LHDN)"
     date: "2024-06-20"
 

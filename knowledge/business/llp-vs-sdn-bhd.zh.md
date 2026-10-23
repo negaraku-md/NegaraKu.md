@@ -87,7 +87,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
     publisher: "马来西亚公司委员会 (SSM)"
   - title: "有限责任合伙的税务，公共裁定第8/2022号 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
-    url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_8_2022.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
     date: "2022-12-23"
   - title: "法律专业法令 1976 (Act 166) (Legal Profession Act 1976 (Act 166))"

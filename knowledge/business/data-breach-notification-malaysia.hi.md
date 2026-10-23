@@ -84,7 +84,7 @@ revisions:
 updated: 2026-07-20
 sources:
   - title: "व्यक्तिगत डेटा संरक्षण मार्गदर्शिका — डेटा उल्लंघन अधिसूचना, संस्करण 1.0 (Personal Data Protection Guideline — Data Breach Notification, Version 1.0)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
+    url: "https://web.archive.org/web/20260209180751/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/08/GP_DBN_ENG.pdf"
     publisher: "व्यक्तिगत डेटा संरक्षण आयुक्त, मलेशिया (JPDP)"
     date: "2025-02-25"
   - title: "Personal Data Protection (Amendment) Act 2024 [Act A1727] (Personal Data Protection (Amendment) Act 2024 [Act A1727])"
@@ -96,7 +96,7 @@ sources:
     publisher: "महान्यायवादी कार्यालय (AGC)"
     date: "2024-12-24"
   - title: "डेटा उल्लंघन अधिसूचना (DBN) पर मार्गदर्शिकाएँ एवं परिपत्र (Guidelines and Circulars on Data Breach Notification (DBN))"
-    url: "https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/guidelines-and-circulars-on-data-breach-notification-dbn/"
     publisher: "व्यक्तिगत डेटा संरक्षण आयुक्त, मलेशिया (JPDP)"
     date: "2025-02-25"
 

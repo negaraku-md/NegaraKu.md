@@ -37,10 +37,10 @@ sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "மலாக்கா வரலாறு (Sejarah Melaka)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/info-negeri/sejarah.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "மலாக்கா மாநில அரசின் அதிகாரப்பூர்வ இணையப் பக்கம் (Portal Rasmi Kerajaan Negeri Melaka)"
   - title: "மலாக்கா வரலாறு (Melaka History)"
-    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "மலாக்கா மாநில அரசின் அதிகாரப்பூர்வ இணையப் பக்கம் (Portal Rasmi Kerajaan Negeri Melaka)"
   - title: "ஏ ஃபமோசா கோட்டை, மலாக்கா (Kota A' Famosa, Melaka)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka"

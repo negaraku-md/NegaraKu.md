@@ -55,7 +55,7 @@ sources:
     url: "https://www.bnm.gov.my/-/malaysia-duitnow-and-singapore-paynow-link-in-2022"
     publisher: "بنك نيغارا ماليزيا (Bank Negara Malaysia)"
   - title: "إطار التحويل الائتماني القابل للتشغيل البيني (وثيقة سياسة) (Interoperable Credit Transfer Framework (Policy Document))"
-    url: "https://www.bnm.gov.my/documents/20124/761679/PD+ICTF.pdf"
+    url: "https://www.bnm.gov.my/-/ictf-23122019"
     publisher: "بنك نيغارا ماليزيا (Bank Negara Malaysia)"
     date: "2019-12-27"
   - title: "إطار تحويل الأموال القابل للتشغيل البيني (وثيقة سياسة) (Interoperable Fund Transfer Framework (Policy Document))"

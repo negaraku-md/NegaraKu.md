@@ -53,7 +53,7 @@ sources:
     url: "https://www.malaysia.gov.my/en/personas/low-income-families/mendapatkan-kemudahan-kesihatan/peka-b40"
     publisher: "Malaysia.gov.my (மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ போர்டல்)"
   - title: "PeKa B40 (Eng)"
-    url: "https://protecthealth.com.my/peka-b40-eng/"
+    url: "https://protecthealth.com.my/peka-sihat-eng/"
     publisher: "ProtectHealth Corporation Sdn Bhd (MOH செயலாக்க நிறுவனம்)"
   - title: "MySalam பயனாளிக்கு RM8,000 ஒருமுறை நன்கொடை (RM8,000 one-off contribution for MySalam recipient)"
     url: "https://www.bernama.com/en/news.php?id=1688160"

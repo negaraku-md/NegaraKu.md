@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "대사관 및 고등판무관실 — 말레이시아 재외공관 (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "말레이시아 외교부(위스마 푸트라)"
   - title: "긴급증명서 신청 / Sijil Perakuan Cemas — 기타 정보, 주웰링턴 말레이시아 고등판무관실 (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

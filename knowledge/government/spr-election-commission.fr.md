@@ -59,7 +59,7 @@ sources:
     url: "https://spr.gov.my/wp-content/uploads/2024/10/perkara-114-keanggotaan-suruhanjaya-pilihan-raya.pdf"
     publisher: "Commission électorale de Malaisie (Suruhanjaya Pilihan Raya Malaysia, SPR)"
   - title: "Vision, mission et fonctions de la SPR (Visi, Misi dan Fungsi SPR)"
-    url: "https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
+    url: "https://web.archive.org/web/20260806162131/https://ppn.spr.gov.my/nsembilan/fungsi-spr/"
     publisher: "Commission électorale de Malaisie (Suruhanjaya Pilihan Raya Malaysia, SPR)"
 
 entity: "Suruhanjaya Pilihan Raya"

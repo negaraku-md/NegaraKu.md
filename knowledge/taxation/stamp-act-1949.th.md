@@ -51,7 +51,7 @@ sources:
     url: "https://www.hasil.gov.my/duti-setem/penalti-duti-setem/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN / IRBM)"
   - title: "Stamp Act 1949 (Act 378) — ตัวบทอย่างเป็นทางการ (Stamp Act 1949 (Act 378) — official text)"
-    url: "https://www.hasil.gov.my/media/hwdf2s3g/20240101-stamp-act-1949-act-378.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-setem-1949-akta-378.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN / IRBM)"
   - title: "กฎหมายภาษีมาเลเซีย – อากรแสตมป์ (Malaysian Tax Law – Stamp Duty)"
     url: "https://oneasia.legal/en/4480"

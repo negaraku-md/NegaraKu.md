@@ -72,7 +72,7 @@ sources:
     publisher: "สำนักงานอัยการสูงสุดแห่งมาเลเซีย"
     date: "1993-03-01"
   - title: "MITI: หน้าที่ของหน่วยงานส่งเสริมการลงทุนจะรวมศูนย์ภายใต้ MIDA ในวันที่ 1 มกราคม 2024 (MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024)"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
+    url: "https://www.mida.gov.my/ms/media-release/pemusatan-fungsi-promosi-pelaburan-dan-pemasaran-malaysia-di-bawah-mida-menjelang-1-januari-2024/"
     publisher: "สำนักงานพัฒนาการลงทุนแห่งมาเลเซีย (MIDA)"
   - title: "หน้าที่ส่งเสริมการลงทุนถูกปรับให้กระชับภายใต้ MIDA (Investment Promotion Functions Streamlined Under MIDA)"
     url: "https://www.mida.gov.my/investment-promotion-functions-streamlined-under-mida/"

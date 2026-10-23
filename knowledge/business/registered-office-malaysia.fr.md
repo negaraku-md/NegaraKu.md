@@ -71,7 +71,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Commission des compagnies de Malaisie (SSM)"
   - title: "Commerce de distribution (Perdagangan Pengedaran / Distributive Trade)"
-    url: "https://www.kpdn.gov.my/ms/orang-awam/14-perdagangan/perniagaan/perdagangan-pengedaran"
+    url: "https://www.kpdn.gov.my/ms/info-korporat/bahagian/tksu/bahagian-perdagangan-pengedaran-dan-perniagaan"
     publisher: "Ministère du Commerce intérieur et du Coût de la vie (KPDN)"
 
 entity: "Registered office (Malaysia)"

@@ -69,7 +69,7 @@ sources:
     publisher: "دائرة النائب العام الماليزية (Attorney General's Chambers)"
     date: "2013-11-14"
   - title: "تسجيل مراقب البيانات (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "مفوّض حماية البيانات الشخصية في ماليزيا (Personal Data Protection Commissioner Malaysia)"
     date: "2025-06-01"
 

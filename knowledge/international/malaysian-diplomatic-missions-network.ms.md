@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "Kedutaan & Suruhanjaya Tinggi — Perwakilan Malaysia (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Kementerian Luar Negeri Malaysia (Wisma Putra)"
   - title: "Permohonan Sijil Perakuan Cemas / Sijil Perakuan Cemas — Maklumat Lain, Suruhanjaya Tinggi Malaysia, Wellington (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

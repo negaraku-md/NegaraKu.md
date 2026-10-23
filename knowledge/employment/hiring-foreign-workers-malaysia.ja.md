@@ -128,7 +128,7 @@ sources:
     publisher: "Malay Mail"
     date: "2026-07-06"
   - title: "外国人労働者採用に関する現行方針 (Current Policies on Recruitment of Foreign Workers)"
-    url: "https://www.moha.gov.my/index.php/en/bahagian-pa-dasar-dasar-semasa/current-policies-on-recruitment-of-foreign-workers"
+    url: "https://web.archive.org/web/20250704201843/https://www.moha.gov.my/index.php/en/bahagian-pa-dasar-dasar-semasa/current-policies-on-recruitment-of-foreign-workers"
     publisher: "マレーシア内務省 (KDN)"
   - title: "累進的な罰則を盛り込んだ雇用保険法案が再提出 (Employment Insurance Bill Retabled With Progressive Penalties)"
     url: "https://bernama.com/en/news.php?id=2574973"

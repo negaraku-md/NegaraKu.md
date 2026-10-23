@@ -116,7 +116,7 @@ sources:
     publisher: "Moore Malaysia"
     date: "2024-09-20"
   - title: "दिशानिर्देश — विदेश से प्राप्त आय के संबंध में कर उपचार (संशोधन), 20 जून 2024 (अंग्रेज़ी संस्करण, LHDN पोर्टल) (Guidelines — Tax Treatment in Relation to Income Received from Abroad (Amendment), 20 June 2024 (English edition, LHDN portal))"
-    url: "https://www.hasil.gov.my/media/fzofh1gz/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
     publisher: "LHDN"
     date: "2024-06-20"
 

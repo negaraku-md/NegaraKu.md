@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "実務通達第2/2026号 — YA 2026および以降の賦課年度におけるREIT/PTF受益者に対する税務上の取扱い (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "マレーシア内国歳入庁 (LHDN)"
   - title: "HASiLがREIT受益者に対する税務上の取扱いに関する実務通達を発行 (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

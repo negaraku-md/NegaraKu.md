@@ -90,7 +90,7 @@ sources:
     url: "https://www.bernama.com/en/news.php?id=2475446"
     publisher: "BERNAMA"
   - title: "말레이시아, 2030년까지 대중국 두리안 수출 RM932.3백만 목표 (Malaysia targets RM932.3 mil in durian exports to China by 2030)"
-    url: "https://theedgemalaysia.com/node/809427"
+    url: "https://web.archive.org/web/20260705112646/https://theedgemalaysia.com/node/809427"
     publisher: "The Edge Malaysia"
   - title: "말레이시아 두리안 4개 품종 등록, 국제적 보호 필요 (Four Malaysian durian varieties registered, international protection needed)"
     url: "https://asianews.network/four-malaysian-durian-varieties-registered-international-protection-needed/"

@@ -75,7 +75,7 @@ sources:
     publisher: "总检察署"
     date: "2024-12-24"
   - title: "个人资料保护指南 — 委任资料保护官 (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "个人资料保护局"
     date: "2025-02-25"
   - title: "KPDN 电子商务监管检讨 (KPDN E-Commerce Regulatory Review)"

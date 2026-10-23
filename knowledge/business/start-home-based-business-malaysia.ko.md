@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "말레이시아 기업위원회 (SSM)"
   - title: "온라인 (e-Daftar) — 개인 등록 (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "말레이시아 국세청 (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -152,4 +152,4 @@ social:
 
 [^ssm]: Companies Commission of Malaysia (SSM), *Guidelines for Registration of New Business* — 사업의 정의, 18세 이상 말레이시아 시민/영주권자 요건, 수수료(본인 명의 RM30, 상호명 RM60, 지점당 RM5, 사업 정보 RM10), 1년에서 5년의 유효 기간, 그리고 최대 RM50,000 벌금 또는 2년 징역의 처벌. https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: Kementerian Pembangunan Usahawan dan Koperasi (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — 등록 전제 조건, 소규모/주거용 조건, 25% 바닥 면적 제한, 이웃/JMB/임대인 동의, 1인 인력 제한, 간판 규정, PBT가 정하는 수수료, 허용 및 금지 활동 목록, 그리고 식품 카테고리 요건(그리스 트랩, FoSIM 등재, 식품 취급자 수료증, 장티푸스 예방접종). https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — MyTax 포털의 e-Daftar를 통한 TIN 신청, 2024년 1월 1일 시행. https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — MyTax 포털의 e-Daftar를 통한 TIN 신청, 2024년 1월 1일 시행. https://www.hasil.gov.my/en/individu/pendaftaran/

@@ -83,7 +83,7 @@ sources:
     publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
     date: "2024-12-16"
   - title: "คำวินิจฉัยสาธารณะที่ 8/2014 — รอบระยะเวลาฐานของบริษัท ห้างหุ้นส่วนจำกัดความรับผิด องค์กรทรัสต์ และสหกรณ์ (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
     date: "2014-12-01"
   - title: "พระราชบัญญัติภาษีเงินได้ 1967 (Act 53) ฉบับพิมพ์ซ้ำ ณ วันที่ 21 พฤษภาคม 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"

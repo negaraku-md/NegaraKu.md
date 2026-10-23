@@ -83,7 +83,7 @@ sources:
     publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
     date: "2024-12-16"
   - title: "பொது தீர்ப்பு எண். 8/2014 — நிறுவனம், வரையறுக்கப்பட்ட பொறுப்பு கூட்டாண்மை, அறக்கட்டளை அமைப்பு மற்றும் கூட்டுறவு சங்கத்தின் அடிப்படைக் காலம் (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
     publisher: "மலேசிய உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2014-12-01"
   - title: "1967 ஆம் ஆண்டு வருமான வரிச் சட்டம் (Act 53), 2024 மே 21 நிலவரப்படி மறுபதிப்பு (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"

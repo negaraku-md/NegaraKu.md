@@ -50,7 +50,7 @@ sources:
   - title: Employment Act 1955 (Act 265), section 60D — paid public holidays
     publisher: Attorney General's Chambers of Malaysia (AGC)
   - title: Official public holidays calendar
-    url: https://www.malaysia.gov.my/portal/content/30678
+    url: https://www.malaysia.gov.my/en/government/public-holidays--school-holidays/cuti-umum
     publisher: Government of Malaysia (MyGov)
 entity: Public holidays in Malaysia
 relations:

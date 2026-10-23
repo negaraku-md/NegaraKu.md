@@ -52,7 +52,7 @@ sources:
     publisher: "மலேசிய அட்டர்னி ஜெனரல் துறை (AGC)"
     date: "2020-10-15"
   - title: "அடாட் பெர்பாத்தி (Adat Perpatih)"
-    url: "https://ms.wikipedia.org/wiki/Adat_perpatih"
+    url: "https://ms.wikipedia.org/wiki/Adat_Perpatih"
     publisher: "Wikipedia Bahasa Melayu"
   - title: "அடாட் தெமெங்கோங் (Adat Temenggong)"
     url: "https://ms.wikipedia.org/wiki/Adat_Temenggong"

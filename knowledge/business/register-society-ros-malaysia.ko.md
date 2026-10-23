@@ -55,7 +55,7 @@ sources:
     url: "https://www.ros.gov.my/portal-main/faq"
     publisher: "말레이시아 단체등록국 (단체등록관)"
   - title: "1967년 소득세법 (Act 53) — 제44조 제6항 (Income Tax Act 1967 (Act 53) — subsection 44(6))"
-    url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "말레이시아 국내세입청 (LHDN)"
 
 entity: "Society (Persatuan, Registrar of Societies)"

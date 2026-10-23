@@ -51,7 +51,7 @@ sources:
     url: "https://www.hasil.gov.my/duti-setem/penalti-duti-setem/"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN / IRBM)"
   - title: "Stamp Act 1949 (Act 378) — அதிகாரப்பூர்வ உரை (Stamp Act 1949 (Act 378) — official text)"
-    url: "https://www.hasil.gov.my/media/hwdf2s3g/20240101-stamp-act-1949-act-378.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240101-akta-setem-1949-akta-378.pdf"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN / IRBM)"
   - title: "மலேசிய வரிச் சட்டம் – முத்திரை வரி (Malaysian Tax Law – Stamp Duty)"
     url: "https://oneasia.legal/en/4480"

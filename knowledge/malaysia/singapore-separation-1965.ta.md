@@ -58,7 +58,7 @@ sources:
     url: "https://www.nlb.gov.sg/main/article-detail?cmsuuid=9641f35d-3ae5-41d8-9fa6-7ca8b845ea53"
     publisher: "சிங்கப்பூர் தேசிய நூலக வாரியம் (National Library Board, Singapore)"
   - title: "சிங்கப்பூர் பிரகடனம், 1965 (Proclamation of Singapore, 1965)"
-    url: "https://corporate.nas.gov.sg/media/collections-and-research/proclamationofsingapore/"
+    url: "https://corporate.nas.gov.sg/discover-archives/media/proclamationofsingapore/"
     publisher: "சிங்கப்பூர் தேசிய ஆவணக் காப்பகம் (National Archives of Singapore)"
   - title: "சிங்கப்பூர் குடியரசு சுதந்திரச் சட்டம் 1965 (Republic of Singapore Independence Act 1965)"
     url: "https://sso.agc.gov.sg/Act/RSIA1965"

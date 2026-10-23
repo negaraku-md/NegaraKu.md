@@ -63,7 +63,7 @@ sources:
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/population_state"
     publisher: "मलेशिया सांख्यिकी विभाग (DOSM)"
   - title: "तेरेंगानु राज्य का भूगोल (Geografi Negeri Terengganu)"
-    url: "https://www.terengganu.gov.my/index.php/ms/kerajaan/mengenai-terengganu/geografi-negeri-terengganu"
+    url: "https://web.archive.org/web/20241215102129/https://www.terengganu.gov.my/index.php/ms/kerajaan/mengenai-terengganu/geografi-negeri-terengganu"
     publisher: "तेरेंगानु राज्य सरकार का आधिकारिक पोर्टल"
   - title: "तेरेंगानु राज्य बजट भाषण वर्ष 2026 (Ucapan Belanjawan Negeri Terengganu Tahun 2026)"
     url: "https://tsis.terengganu.gov.my/wp-content/uploads/2025/11/Buku-Ucapan-Bajet-2026.pdf"

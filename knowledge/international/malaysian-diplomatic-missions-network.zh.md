@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "大使馆与高级专员署——马来西亚驻外代表机构 (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "马来西亚外交部（Wisma Putra）"
   - title: "紧急证件申请 / Sijil Perakuan Cemas——其他信息，马来西亚驻惠灵顿高级专员署 (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

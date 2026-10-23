@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "สถานเอกอัครราชทูตและสำนักงานข้าหลวงใหญ่ — คณะผู้แทนมาเลเซีย (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "กระทรวงการต่างประเทศมาเลเซีย (Wisma Putra)"
   - title: "การขอหนังสือรับรองฉุกเฉิน / Sijil Perakuan Cemas — ข้อมูลอื่น ๆ สำนักงานข้าหลวงใหญ่มาเลเซีย เวลลิงตัน (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

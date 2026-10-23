@@ -67,7 +67,7 @@ sources:
     url: "https://mediaselangor.com/en/2026/07/385818"
     publisher: "Media Selangor"
   - title: "Aplicación y no aplicación de la Ley (Application and Non-Application of the Act)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/akta/application-and-non-application-of-the-act/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/akta/application-and-non-application-of-the-act/"
     publisher: "Departamento de Protección de Datos Personales (Jabatan Perlindungan Data Peribadi / PDP)"
 
 entity: "MySejahtera"

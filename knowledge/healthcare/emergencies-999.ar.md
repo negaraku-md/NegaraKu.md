@@ -68,7 +68,7 @@ sources:
     url: "https://portal.appshtaa.moh.gov.my/index.php/perkhidmatan/caj-dan-bayaran/caj-dan-bayaran-warga-asing"
     publisher: "مستشفى تنكو أمبوان أفزان (Hospital Tengku Ampuan Afzan)، وزارة الصحة الماليزية"
   - title: "قسم الطوارئ والإصابات (Jabatan Kecemasan dan Trauma)"
-    url: "https://hsnzkt.moh.gov.my/en/direktorat/direktorat-perkhidmatan-klinikal/direktorat-perkhidmatan-pembedahan/jabatan-kecemasan-dan-trauma"
+    url: "https://hsnzkt.moh.gov.my/index.php/direktorat/direktorat-perkhidmatan-klinikal/direktorat-perkhidmatan-pembedahan/jabatan-kecemasan-dan-trauma"
     publisher: "مستشفى سلطانة نور زهيرة (Hospital Sultanah Nur Zahirah)، وزارة الصحة الماليزية"
 
 entity: "Talian Kecemasan 999 (MERS 999 / NG999)"

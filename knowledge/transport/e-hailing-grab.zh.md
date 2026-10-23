@@ -58,7 +58,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "总检察署 (AGC) — Laws of Malaysia Online"
   - title: "商用车辆执照局 (LPKP) 沙巴 (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "沙巴州政府"
 
 entity: "E-hailing"

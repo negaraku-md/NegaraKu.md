@@ -72,7 +72,7 @@ sources:
     publisher: "मलेशिया का महान्यायवादी कार्यालय (AGC)"
     date: "1993-03-01"
   - title: "MITI: निवेश-प्रचार एजेंसियों के कार्य 1 जनवरी 2024 को MIDA के अंतर्गत केंद्रीकृत होंगे (MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024)"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
+    url: "https://www.mida.gov.my/ms/media-release/pemusatan-fungsi-promosi-pelaburan-dan-pemasaran-malaysia-di-bawah-mida-menjelang-1-januari-2024/"
     publisher: "Malaysian Investment Development Authority (MIDA)"
   - title: "निवेश-प्रचार कार्य MIDA के अंतर्गत सुव्यवस्थित (Investment Promotion Functions Streamlined Under MIDA)"
     url: "https://www.mida.gov.my/investment-promotion-functions-streamlined-under-mida/"

@@ -54,7 +54,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "دائرة النائب العام الماليزية (Attorney General's Chambers of Malaysia) (lom.agc.gov.my)"
   - title: "قانون لجنة التعيينات القضائية لسنة 2009 (Act 695)، إعادة طبع محدَّثة حتى 1 مايو 2014 (Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014)"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
+    url: "https://lawplayer.com/my/act/act-695"
     publisher: "قوانين ماليزيا (Laws of Malaysia) (إعادة طبع دائرة النائب العام)"
   - title: "مقدمة — لجنة التعيينات القضائية (Introduction — Judicial Appointments Commission)"
     url: "https://www.jac.gov.my/en/commission/introduction"

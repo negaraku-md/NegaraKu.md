@@ -70,7 +70,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/ROBA%201956_Act%20197_as%20at%201%20June%202017.pdf"
     publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
   - title: "BLESS — ความเป็นมา (BLESS — Latar Belakang)"
-    url: "https://portal.bless.gov.my/latar-belakang/"
+    url: "https://portal.bless.gov.my/background/"
     publisher: "กระทรวงการพัฒนาผู้ประกอบการและสหกรณ์ (KUSKOP)"
   - title: "MalaysiaBiz — การออกใบอนุญาตธุรกิจ (MalaysiaBiz — Business Licensing)"
     url: "https://malaysiabiz.gov.my/en/services/business-licensing"
@@ -80,7 +80,7 @@ sources:
     publisher: "กระทรวงการลงทุน การค้า และอุตสาหกรรม (MITI)"
     date: "2023-04-13"
   - title: "พระราชบัญญัติบริการดับเพลิง ค.ศ. 1988 (Act 341) (Fire Services Act 1988 (Act 341))"
-    url: "https://www.bomba.gov.my/wp-content/uploads/2021/07/Akta_341_Akta_Perkhidmatan_Bomba_1988.pdf"
+    url: "https://www.bomba.gov.my/images/05-penerbitan/akta-perkhidmatan/Akta_341_Akta_Perkhidmatan_Bomba_1988.pdf"
     publisher: "กรมดับเพลิงและกู้ภัยมาเลเซีย (JBPM)"
 
 entity: "Business licensing in Malaysia"

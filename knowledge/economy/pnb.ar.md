@@ -88,7 +88,7 @@ sources:
     publisher: "Amanah Saham Nasional Berhad"
     date: "2026-05-25"
   - title: "نشرة الإصدار الرئيسية لـ ASNB (Prospektus Induk ASNB) — مُسجَّلة لدى لجنة الأوراق المالية الماليزية؛ الوثيقة المرجعية لمعايير أهلية المستثمرين"
-    url: "https://www.asnb.com.my/en/prospectus-product-highlight-sheet"
+    url: "https://www.asnb.com.my/product"
     publisher: "Amanah Saham Nasional Berhad"
 
 entity: "Permodalan Nasional Berhad"

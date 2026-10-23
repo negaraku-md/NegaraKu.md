@@ -42,7 +42,7 @@ sources:
     url: "https://cfs.forestry.gov.my/faq/"
     publisher: "மத்திய வனத் தண்டுக்கான சர்வதேச மையம் (ICCFS), தீபகற்ப மலேசிய வனத் துறை (International Centre for Central Forest Spine (ICCFS), Forestry Department of Peninsular Malaysia)"
   - title: "குனுங் ஸ்டோங் (Gunung Stong)"
-    url: "https://www.kesedar.gov.my/en/pelancongan-kelantan-selatan/gunung-stong/"
+    url: "https://www.kesedar.gov.my/gunung-stong-2/"
     publisher: "தெற்கு கிளந்தான் மேம்பாட்டு வாரியம் (KESEDAR)"
   - title: "ராயல் பேலூம் (Royal Belum)"
     url: "https://www.mybis.gov.my/pa/209"

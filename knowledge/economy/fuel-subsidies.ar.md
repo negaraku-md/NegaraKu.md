@@ -80,7 +80,7 @@ sources:
     publisher: "وزارة المالية الماليزية (MOF)"
     date: "2026-07-22"
   - title: "نظام مراقبة البنزين المدعوم (SKPS) — الأسئلة الشائعة (Sistem Kawalan Petrol Bersubsidi (SKPS) — Soalan Lazim)"
-    url: "https://www.kpdn.gov.my/en/faq/sistem-kawalan-petrol-bersubsidi-skps"
+    url: "https://www.kpdn.gov.my/en/frequently-asked-questions/subsidised-petrol-control-system-skps"
     publisher: "وزارة التجارة الداخلية وتكاليف المعيشة (KPDN)"
 
 entity: "Subsidi bahan api Malaysia"

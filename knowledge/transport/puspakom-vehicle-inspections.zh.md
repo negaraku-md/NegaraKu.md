@@ -59,7 +59,7 @@ verificationNeeded:
 updated: 2026-08-08
 sources:
   - title: "例行检验 (Routine Inspection)"
-    url: "https://www.puspakom.com.my/routine-inspection/"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
     publisher: "PUSPAKOM"
   - title: "常见问题 (FAQ) (Frequently Asked Questions (FAQ))"
     url: "https://www.puspakom.com.my/faq/"

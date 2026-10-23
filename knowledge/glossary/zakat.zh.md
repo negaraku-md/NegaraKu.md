@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "登嘉楼伊斯兰宗教与马来习俗理事会 (MAIDAM)"
   - title: "收入 / 薪金天课 (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "槟城州伊斯兰宗教理事会 (MAINPP)"
   - title: "储蓄金天课(尼萨布20密斯甲 / 85克黄金;税率2.5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

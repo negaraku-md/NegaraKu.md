@@ -42,7 +42,7 @@ sources:
     url: "https://cfs.forestry.gov.my/faq/"
     publisher: "केंद्रीय वन मेरुदंड के लिए अंतर्राष्ट्रीय केंद्र (ICCFS), प्रायद्वीपीय मलेशिया वन विभाग (International Centre for Central Forest Spine (ICCFS), Forestry Department of Peninsular Malaysia)"
   - title: "गुनुंग स्तोंग (Gunung Stong)"
-    url: "https://www.kesedar.gov.my/en/pelancongan-kelantan-selatan/gunung-stong/"
+    url: "https://www.kesedar.gov.my/gunung-stong-2/"
     publisher: "दक्षिण कलंतन विकास प्राधिकरण (Lembaga Kemajuan Kelantan Selatan (KESEDAR))"
   - title: "रॉयल बेलुम (Royal Belum)"
     url: "https://www.mybis.gov.my/pa/209"

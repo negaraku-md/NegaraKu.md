@@ -87,7 +87,7 @@ sources:
     url: "https://www.ssm.com.my/Pages/Publication/PDF%20Files/BROCHURE%20MYLLP.pdf"
     publisher: "Commission des sociétés de Malaisie (SSM)"
   - title: "Imposition de la société à responsabilité limitée, décision publique n° 8/2022 (Taxation of Limited Liability Partnership, Public Ruling No. 8/2022)"
-    url: "https://www.hasil.gov.my/media/3wzlz0nl/pr_8_2022.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr_8_2022.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
     date: "2022-12-23"
   - title: "Loi sur la profession juridique de 1976 (loi 166) (Legal Profession Act 1976 (Act 166))"

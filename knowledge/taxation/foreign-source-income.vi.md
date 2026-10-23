@@ -116,7 +116,7 @@ sources:
     publisher: "Moore Malaysia"
     date: "2024-09-20"
   - title: "Hướng dẫn — Xử lý Thuế đối với Thu nhập nhận được từ Nước ngoài (Sửa đổi), ngày 20 tháng 6 năm 2024 (bản tiếng Anh, cổng LHDN) (Guidelines — Tax Treatment in Relation to Income Received from Abroad (Amendment), 20 June 2024 (English edition, LHDN portal))"
-    url: "https://www.hasil.gov.my/media/fzofh1gz/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
     publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2024-06-20"
 

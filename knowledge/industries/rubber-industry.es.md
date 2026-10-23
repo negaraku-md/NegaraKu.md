@@ -79,7 +79,7 @@ sources:
     url: "https://irainfo.org/News/Detail/110"
     publisher: "Asociación Internacional del Caucho / ANRPC"
   - title: "Malasia lidera en producción innovadora de guantes de caucho — MARGMA (Malasia ~45%, China ~28% de cuota de mercado mundial, 2024) (Malaysia leads in innovative production of rubber gloves — MARGMA (Malaysia ~45%, China ~28% global market share, 2024))"
-    url: "https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
+    url: "https://web.archive.org/web/20250523181712/https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
     publisher: "Autoridad de Desarrollo de Inversiones de Malasia (MIDA) / MARGMA"
   - title: "Mercado de guantes de caucho de Malasia — segmentación por material (sintético ~65% vs natural ~35% de las exportaciones; origen del nitrilo de Hartalega) (Malaysia Rubber Gloves Market — material segmentation (synthetic ~65% vs natural ~35% of exports; Hartalega nitrile origin))"
     url: "https://www.grandviewresearch.com/horizon/outlook/rubber-gloves-market/malaysia"

@@ -79,7 +79,7 @@ sources:
     publisher: "マレーシア財務省"
     date: "2026-07-22"
   - title: "補助ガソリン管理システム（SKPS）— よくある質問 (Sistem Kawalan Petrol Bersubsidi (SKPS) — Soalan Lazim)"
-    url: "https://www.kpdn.gov.my/en/faq/sistem-kawalan-petrol-bersubsidi-skps"
+    url: "https://www.kpdn.gov.my/en/frequently-asked-questions/subsidised-petrol-control-system-skps"
     publisher: "国内取引・生活費省"
 
 entity: "Subsidi bahan api Malaysia"

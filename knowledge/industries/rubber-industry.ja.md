@@ -78,7 +78,7 @@ sources:
     url: "https://irainfo.org/News/Detail/110"
     publisher: "International Rubber Association / ANRPC"
   - title: "マレーシア、ゴム手袋の革新的生産でリード — MARGMA（2024年、世界シェア マレーシア約45%、中国約28%） (Malaysia leads in innovative production of rubber gloves — MARGMA (Malaysia ~45%, China ~28% global market share, 2024))"
-    url: "https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
+    url: "https://web.archive.org/web/20250523181712/https://www.mida.gov.my/mida-news/malaysia-leads-in-innovative-production-of-rubber-gloves-margma/"
     publisher: "マレーシア投資開発庁 (MIDA) / MARGMA"
   - title: "マレーシアのゴム手袋市場 — 素材別セグメント（輸出の合成約65%対天然約35%、Hartalegaのニトリル起源） (Malaysia Rubber Gloves Market — material segmentation (synthetic ~65% vs natural ~35% of exports; Hartalega nitrile origin))"
     url: "https://www.grandviewresearch.com/horizon/outlook/rubber-gloves-market/malaysia"

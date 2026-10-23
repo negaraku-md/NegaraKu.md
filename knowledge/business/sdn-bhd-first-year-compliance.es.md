@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
   - title: "Resolución pública n.º 8/2025 — Tratamiento fiscal para microempresas y pequeñas y medianas empresas (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
     date: "2025"
   - title: "Cronograma de implementación de la factura electrónica (actualizado el 7 de diciembre de 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"

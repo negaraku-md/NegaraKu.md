@@ -77,7 +77,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "マレーシア首相府"
   - title: "国会選挙区 — 連邦直轄領クアラルンプール/プトラジャヤ州選挙事務所 (PPN) (Bahagian Parlimen — PPN W.P. Kuala Lumpur / Putrajaya)"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "マレーシア選挙管理委員会"
   - title: "州別人口推計(オープンデータ)(Anggaran penduduk mengikut negeri (data terbuka))"
     url: "https://open.dosm.gov.my/data-catalogue"

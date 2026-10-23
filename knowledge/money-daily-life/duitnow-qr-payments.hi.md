@@ -55,7 +55,7 @@ sources:
     url: "https://www.bnm.gov.my/-/malaysia-duitnow-and-singapore-paynow-link-in-2022"
     publisher: "बैंक नेगारा मलेशिया (Bank Negara Malaysia)"
   - title: "अंतर-संचालनीय ऋण हस्तांतरण ढाँचा (नीति दस्तावेज़) (Interoperable Credit Transfer Framework (Policy Document))"
-    url: "https://www.bnm.gov.my/documents/20124/761679/PD+ICTF.pdf"
+    url: "https://www.bnm.gov.my/-/ictf-23122019"
     publisher: "बैंक नेगारा मलेशिया (Bank Negara Malaysia)"
     date: "2019-12-27"
   - title: "अंतर-संचालनीय निधि हस्तांतरण ढाँचा (नीति दस्तावेज़) (Interoperable Fund Transfer Framework (Policy Document))"

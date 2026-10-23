@@ -55,13 +55,13 @@ verificationNeeded:
 updated: 2026-09-07
 sources:
   - title: "Resolución Pública n.º 11/2012: beneficio del plan de acciones para empleados (Public Ruling No. 11/2012: Employee Share Scheme Benefit)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR11_2012.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR11_2012.pdf"
     publisher: "Consejo de Hacienda Interna de Malasia (LHDN)"
   - title: "Ley de Sociedades de 2016 (Ley 777) (Companies Act 2016 (Act 777))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1738979_BI/Act%20777-%20Final%20Draft%20(1.8.2022).pdf"
     publisher: "Cámara del Fiscal General de Malasia (AGC)"
   - title: "Resolución Pública n.º 5/2019: retribuciones en especie del empleo (Public Ruling No. 5/2019: Perquisites from Employment)"
-    url: "http://lampiran2.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "Consejo de Hacienda Interna de Malasia (LHDN)"
   - title: "Requisitos de cotización del Mercado Principal — Capítulo 6 (Nuevas emisiones de valores) (Main Market Listing Requirements — Chapter 6 (New Issues of Securities))"
     url: "https://www.bursamalaysia.com/regulation/listing_requirements/main_market"

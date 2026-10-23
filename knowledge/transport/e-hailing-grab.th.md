@@ -59,7 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "สำนักงานอัยการสูงสุด (AGC) — Laws of Malaysia Online"
   - title: "คณะกรรมการออกใบอนุญาตยานพาหนะเชิงพาณิชย์ (LPKP) ซาบาห์ (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "รัฐบาลรัฐซาบาห์"
 
 entity: "E-hailing"

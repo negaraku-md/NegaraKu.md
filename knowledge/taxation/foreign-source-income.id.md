@@ -116,7 +116,7 @@ sources:
     publisher: "Moore Malaysia"
     date: "2024-09-20"
   - title: "Garis Panduan — Layanan Cukai Berhubung Pendapatan Yang Diterima Dari Luar Negara (Pindaan), 20 Jun 2024 (edisi Bahasa Inggeris, portal LHDN) (Guidelines — Tax Treatment in Relation to Income Received from Abroad (Amendment), 20 June 2024 (English edition, LHDN portal))"
-    url: "https://www.hasil.gov.my/media/fzofh1gz/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2024-06-20"
 

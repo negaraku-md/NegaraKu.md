@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "실무 지침 제2/2026호 — 과세연도 2026 및 이후 과세연도의 REIT/PTF 수익증권 보유자에 대한 세무 처리 (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "말레이시아 내국세청 (LHDN)"
   - title: "HASiL, REIT 수익증권 보유자에 대한 세무 처리 실무 지침 발표 (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

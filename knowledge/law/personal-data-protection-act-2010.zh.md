@@ -45,13 +45,13 @@ verificationNeeded: []
 updated: 2026-08-14
 sources:
   - title: "FAQ — Personal Data Protection"
-    url: "https://www.pdp.gov.my/ppdpv1/en/faq/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/faq/"
     publisher: "Department of Personal Data Protection (JPDP), Malaysia"
   - title: "Principles of Personal Data Protection"
-    url: "https://www.pdp.gov.my/ppdpv1/en/principles-of-personal-data-protection/"
+    url: "https://web.archive.org/web/20241204214337/https://www.pdp.gov.my/ppdpv1/en/principles-of-personal-data-protection/"
     publisher: "Department of Personal Data Protection (JPDP), Malaysia"
   - title: "Personal Data Protection (Amendment) Act 2024"
-    url: "https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-amendment-act-2024/"
+    url: "https://web.archive.org/web/2024/https://www.pdp.gov.my/ppdpv1/en/akta/personal-data-protection-amendment-act-2024/"
     publisher: "Department of Personal Data Protection (JPDP), Malaysia"
   - title: "Malaysia: Implementation of the Personal Data Protection (Amendment) Act 2024"
     url: "https://www.dfdl.com/insights/legal-and-tax-updates/malaysia-implementation-of-the-personal-data-protection-amendment-act-2024/"

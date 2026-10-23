@@ -54,7 +54,7 @@ sources:
   - title: "Normas del Impuesto sobre la Renta (Determinación de la Renta Imponible de una Persona Física respecto de Dividendos) de 2025 [P.U. (A) 148/2025] (Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025])"
     publisher: "Cámara del Fiscal General de Malasia (AGC) — Boletín Oficial del Gobierno Federal"
   - title: "Preguntas frecuentes (Personas físicas) (Frequently Asked Questions (Individual))"
-    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    url: "https://www.hasil.gov.my/en/individu/soalan-lazim-individu/"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"

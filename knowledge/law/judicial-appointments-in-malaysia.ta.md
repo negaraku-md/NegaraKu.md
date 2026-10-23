@@ -54,7 +54,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "மலேசியா அரசு வழக்கறிஞர் அலுவலகம் (lom.agc.gov.my)"
   - title: "Judicial Appointments Commission Act 2009 (Act 695), 2014 மே 1 வரையிலான புதுப்பிக்கப்பட்ட மறுபதிப்பு (Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014)"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
+    url: "https://lawplayer.com/my/act/act-695"
     publisher: "மலேசியா சட்டங்கள் (அரசு வழக்கறிஞர் அலுவலக மறுபதிப்பு)"
   - title: "அறிமுகம் — நீதித்துறை நியமன ஆணையம் (Introduction — Judicial Appointments Commission)"
     url: "https://www.jac.gov.my/en/commission/introduction"

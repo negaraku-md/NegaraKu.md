@@ -79,7 +79,7 @@ sources:
     url: "https://visa.educationmalaysia.gov.my/guidelines"
     publisher: "Education Malaysia Global Services (EMGS)"
   - title: "சர்வதேச மாணவர்களுக்கான i-Kad (i-Kad for International Students)"
-    url: "https://educationmalaysia.gov.my/visa-i-kad/"
+    url: "https://hub.emgs.com.my/ikad-for-international-students/"
     publisher: "Education Malaysia Global Services (EMGS)"
 
 entity: "Student Pass (Malaysia)"

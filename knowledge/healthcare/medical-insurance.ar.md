@@ -44,7 +44,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
   - title: "الامتيازات الناشئة عن العمل، التعميم العام رقم 5/2019 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
     date: "2019-11-19"
   - title: "خطة إصابات العمل (Employment Injury Scheme / LINDUNG PEKERJA)"

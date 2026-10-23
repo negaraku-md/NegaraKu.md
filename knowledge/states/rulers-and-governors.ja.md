@@ -61,7 +61,7 @@ sources:
     url: "https://www.majlisraja-raja.gov.my/ms/maklumat-majlis-raja-raja-latest"
     publisher: "統治者印璽保管官事務所 / 統治者会議"
   - title: "マラッカ州政府公式ポータル — 州元首(ヤン・ディ・プルトゥア・ヌグリ)(Portal Rasmi Kerajaan Negeri Melaka — Yang di-Pertua Negeri)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
+    url: "https://www.melaka.gov.my/kerajaan/pentadbiran-kerajaan-negeri/yang-di-pertua-negeri.html"
     publisher: "マラッカ州政府"
 
 entity: "Ketua Negeri Malaysia"

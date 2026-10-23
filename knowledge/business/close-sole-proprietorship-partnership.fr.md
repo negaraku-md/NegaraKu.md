@@ -56,7 +56,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/Ezbiz%20Online%20User%20Guideline/GUIDELINE-FOR-TERMINATION-OF-BUSINESS.pdf"
     publisher: "Commission des sociétés de Malaisie (SSM)"
   - title: "Lettre de quitus fiscal (Surat Penyelesaian Cukai / SPC) (Tax Clearance Letter (Surat Penyelesaian Cukai / SPC))"
-    url: "https://www.hasil.gov.my/en/individual/others/termination-of-service-employment/"
+    url: "https://www.hasil.gov.my/en/individu/penamatan-perkhidmatan/"
     publisher: "Direction générale des impôts de Malaisie (LHDN)"
 
 entity: "Sole Proprietorship / Partnership (Malaysia)"

@@ -83,7 +83,7 @@ sources:
     publisher: "मलेशियाई कंपनी आयोग (SSM)"
     date: "2024-12-16"
   - title: "पब्लिक रूलिंग क्रमांक 8/2014 — किसी कंपनी, सीमित देयता भागीदारी, न्यास निकाय और सहकारी समिति की आधार अवधि (Public Ruling No. 8/2014 — Basis Period of a Company, Limited Liability Partnership, Trust Body and Co-operative Society)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR_8_2014.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_8_2014.pdf"
     publisher: "मलेशियाई अंतर्देशीय राजस्व बोर्ड (LHDN)"
     date: "2014-12-01"
   - title: "आयकर अधिनियम 1967 (अधिनियम 53), 21 May 2024 तक पुनर्मुद्रण (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"

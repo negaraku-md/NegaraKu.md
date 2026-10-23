@@ -59,7 +59,7 @@ verificationNeeded:
 updated: 2026-08-08
 sources:
   - title: "정기 검사 (Routine Inspection)"
-    url: "https://www.puspakom.com.my/routine-inspection/"
+    url: "https://www.puspakom.com.my/inspection-types-fees/"
     publisher: "PUSPAKOM"
   - title: "자주 묻는 질문(FAQ) (Frequently Asked Questions (FAQ))"
     url: "https://www.puspakom.com.my/faq/"

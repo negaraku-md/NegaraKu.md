@@ -54,7 +54,7 @@ sources:
   - title: "กฎภาษีเงินได้ (การกำหนดเงินได้พึงประเมินของบุคคลธรรมดาเกี่ยวกับเงินปันผล) ปี 2025 [P.U. (A) 148/2025] (Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025])"
     publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (ราชกิจจานุเบกษารัฐบาลกลาง)"
   - title: "คำถามที่พบบ่อย (บุคคลธรรมดา) (Frequently Asked Questions (Individual))"
-    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    url: "https://www.hasil.gov.my/en/individu/soalan-lazim-individu/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"

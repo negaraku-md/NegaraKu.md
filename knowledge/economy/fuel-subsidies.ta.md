@@ -80,7 +80,7 @@ sources:
     publisher: "மலேசிய நிதி அமைச்சு"
     date: "2026-07-22"
   - title: "மானியப் பெட்ரோல் கட்டுப்பாட்டு அமைப்பு (SKPS) — அடிக்கடி கேட்கப்படும் கேள்விகள் (Sistem Kawalan Petrol Bersubsidi (SKPS) — Soalan Lazim)"
-    url: "https://www.kpdn.gov.my/en/faq/sistem-kawalan-petrol-bersubsidi-skps"
+    url: "https://www.kpdn.gov.my/en/frequently-asked-questions/subsidised-petrol-control-system-skps"
     publisher: "உள்நாட்டு வர்த்தகம் மற்றும் வாழ்க்கைச் செலவு அமைச்சு"
 
 entity: "Subsidi bahan api Malaysia"

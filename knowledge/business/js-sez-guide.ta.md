@@ -81,7 +81,7 @@ sources:
     publisher: "முதலீடு, வர்த்தகம் மற்றும் தொழில் அமைச்சு (MITI)"
     date: "2025-10-14"
   - title: "கூட்டாட்சி வர்த்தமானி துணைச் சட்ட தேடல் (P.U.(A)) (Federal gazette subsidiary legislation search (P.U.(A)))"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "வழக்கறிஞர் தலைமை அலுவலகம்"
   - title: "ஜொகூர்-சிங்கப்பூர் சிறப்புப் பொருளாதார வலயம்: முதலீட்டாளர்களுக்கான ஆரம்பகட்ட கட்டமைப்புக் கருத்தில்கொள்ளல்கள் (The Johor-Singapore Special Economic Zone: early structuring considerations for investors)"
     url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"

@@ -54,7 +54,7 @@ sources:
   - title: "Quy tắc Thuế Thu nhập (Xác định Thu nhập chịu thuế của Cá nhân đối với Cổ tức) năm 2025 [P.U. (A) 148/2025] (Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025])"
     publisher: "Văn phòng Tổng Chưởng lý Malaysia (Công báo Chính phủ Liên bang)"
   - title: "Câu hỏi Thường gặp (Cá nhân) (Frequently Asked Questions (Individual))"
-    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    url: "https://www.hasil.gov.my/en/individu/soalan-lazim-individu/"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"

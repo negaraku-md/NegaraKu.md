@@ -75,7 +75,7 @@ sources:
     publisher: "สำนักงานอัยการสูงสุด"
     date: "2024-12-24"
   - title: "แนวทางการคุ้มครองข้อมูลส่วนบุคคล — การแต่งตั้งเจ้าหน้าที่คุ้มครองข้อมูล (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "กรมคุ้มครองข้อมูลส่วนบุคคล"
     date: "2025-02-25"
   - title: "การทบทวนกฎระเบียบพาณิชย์อิเล็กทรอนิกส์ของ KPDN (KPDN E-Commerce Regulatory Review)"

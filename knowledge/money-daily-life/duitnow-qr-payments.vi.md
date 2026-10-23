@@ -55,7 +55,7 @@ sources:
     url: "https://www.bnm.gov.my/-/malaysia-duitnow-and-singapore-paynow-link-in-2022"
     publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
   - title: "Khung Chuyển khoản Tín dụng Tương tác (Tài liệu Chính sách) (Interoperable Credit Transfer Framework (Policy Document))"
-    url: "https://www.bnm.gov.my/documents/20124/761679/PD+ICTF.pdf"
+    url: "https://www.bnm.gov.my/-/ictf-23122019"
     publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
     date: "2019-12-27"
   - title: "Khung Chuyển tiền Tương tác (Tài liệu Chính sách) (Interoperable Fund Transfer Framework (Policy Document))"

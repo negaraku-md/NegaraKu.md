@@ -79,7 +79,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "Oficina del Primer Ministro de Malasia (Pejabat Perdana Menteri Malaysia)"
   - title: "División de Parlamento — PPN W.P. Kuala Lumpur / Putrajaya (Bahagian Parlimen — PPN W.P. Kuala Lumpur / Putrajaya)"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "Comisión Electoral de Malasia (Suruhanjaya Pilihan Raya Malaysia)"
   - title: "Estimación de población por estado (datos abiertos) (Anggaran penduduk mengikut negeri (data terbuka))"
     url: "https://open.dosm.gov.my/data-catalogue"

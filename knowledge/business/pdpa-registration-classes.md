@@ -68,7 +68,7 @@ sources:
     publisher: "Attorney General's Chambers"
     date: "2013-11-14"
   - title: "Registration of Data Controller"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "Personal Data Protection Commissioner Malaysia"
     date: "2025-06-01"
 

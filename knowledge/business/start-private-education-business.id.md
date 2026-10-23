@@ -64,7 +64,7 @@ sources:
     url: "https://jpt.mohe.gov.my/index.php/en/hei/private-hei/21-act-555"
     publisher: "Departemen Pendidikan Tinggi, Kementerian Pendidikan Tinggi Malaysia"
   - title: "Piagam Pelanggan (Client Charter)"
-    url: "https://www.mohe.gov.my/en/corporate/charter/101-client-charter"
+    url: "https://www.mohe.gov.my/en/corporate/client-s-charter"
     publisher: "Kementerian Pendidikan Tinggi Malaysia"
 
 entity: "Private Education Business (Malaysia)"

@@ -42,7 +42,7 @@ sources:
     url: "https://protecthealth.com.my/peka-b40/"
     publisher: "ProtectHealth Corporation Sdn Bhd (opérateur officiel du dispositif PeKa B40 pour le compte du ministère de la Santé de Malaisie)"
   - title: "Dispositif de soins de santé pour le groupe B40 (Skim Peduli Kesihatan untuk Kumpulan B40, PeKa B40)"
-    url: "https://manfaat.mof.gov.my/b2026/individu/pekab40"
+    url: "https://manfaat.mof.gov.my/bantuan/PHC-001"
     publisher: "Ministère des Finances de Malaisie (MOF) — Portail des prestations (Portal Manfaat)"
   - title: "Dispositif de soins de santé (PEKA) pour le groupe B40 (Skim Peduli Kesihatan (PEKA) untuk Kumpulan B40)"
     url: "https://ihsanmadani.gov.my/inisiatif/kesihatan/skim-peduli-kesihatan-peka-untuk-kumpulan-b40-0"

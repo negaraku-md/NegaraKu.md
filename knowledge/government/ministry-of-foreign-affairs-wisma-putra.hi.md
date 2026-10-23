@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "मलेशिया विदेश मंत्रालय (Wisma Putra)"
   - title: "दूतावास एवं उच्चायोग (मलेशियाई मिशन) (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "मलेशिया विदेश मंत्रालय (Wisma Putra)"
   - title: "विदेश में सहायता (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "Majlis Agama Islam dan Adat Istiadat Melayu Terengganu (MAIDAM)"
   - title: "Zakat Pendapatan / Gaji"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "Majlis Agama Islam Negeri Pulau Pinang (MAINPP)"
   - title: "Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%)"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

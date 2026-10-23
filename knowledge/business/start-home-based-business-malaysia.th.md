@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "คณะกรรมการบริษัทแห่งมาเลเซีย (SSM)"
   - title: "ออนไลน์ (e-Daftar) — การลงทะเบียนบุคคล (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -152,4 +152,4 @@ social:
 
 [^ssm]: Companies Commission of Malaysia (SSM), *Guidelines for Registration of New Business* — นิยามธุรกิจ ข้อกำหนดพลเมือง/ผู้มีถิ่นที่อยู่ถาวรของมาเลเซียอายุ 18 ปีขึ้นไป ค่าธรรมเนียม (RM30 ชื่อบุคคล, RM60 ชื่อการค้า, RM5 ต่อสาขา, RM10 ข้อมูลธุรกิจ) อายุหนึ่งถึงห้าปี และโทษปรับสูงสุด RM50,000 หรือจำคุกสองปี https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: Kementerian Pembangunan Usahawan dan Koperasi (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — เงื่อนไขล่วงหน้าการจดทะเบียน เงื่อนไขขนาดเล็ก/ที่อยู่อาศัย ขีดจำกัดพื้นที่ 25% ความยินยอมเพื่อนบ้าน/JMB/เจ้าของบ้าน ขีดจำกัดคนงานหนึ่งคน กฎป้าย ค่าธรรมเนียมที่ PBT กำหนด รายการกิจกรรมที่อนุญาตและต้องห้าม และข้อกำหนดประเภทอาหาร (บ่อดักไขมัน การขึ้นทะเบียน FoSIM หนังสือรับรองผู้จัดการอาหาร การฉีดวัคซีนป้องกันไทฟอยด์) https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — การยื่นขอ TIN ผ่าน e-Daftar บนพอร์ทัล MyTax มีผล 1 มกราคม 2024 https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — การยื่นขอ TIN ผ่าน e-Daftar บนพอร์ทัล MyTax มีผล 1 มกราคม 2024 https://www.hasil.gov.my/en/individu/pendaftaran/

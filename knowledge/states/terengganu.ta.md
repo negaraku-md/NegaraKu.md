@@ -63,7 +63,7 @@ sources:
     url: "https://open.dosm.gov.my/ms-MY/data-catalogue/population_state"
     publisher: "மலேசியா புள்ளியியல் திணைக்களம் (DOSM)"
   - title: "திரங்கானு மாநில புவியியல் (Geografi Negeri Terengganu)"
-    url: "https://www.terengganu.gov.my/index.php/ms/kerajaan/mengenai-terengganu/geografi-negeri-terengganu"
+    url: "https://web.archive.org/web/20241215102129/https://www.terengganu.gov.my/index.php/ms/kerajaan/mengenai-terengganu/geografi-negeri-terengganu"
     publisher: "திரங்கானு மாநில அரசின் அதிகாரப்பூர்வ இணையதளம்"
   - title: "2026 ஆம் ஆண்டு திரங்கானு மாநில பட்ஜெட் உரை (Ucapan Belanjawan Negeri Terengganu Tahun 2026)"
     url: "https://tsis.terengganu.gov.my/wp-content/uploads/2025/11/Buku-Ucapan-Bajet-2026.pdf"

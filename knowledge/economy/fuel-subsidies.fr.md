@@ -80,7 +80,7 @@ sources:
     publisher: "Ministère des Finances de la Malaisie (MOF)"
     date: "2026-07-22"
   - title: "Système de contrôle de l'essence subventionnée (SKPS) — Foire aux questions (Sistem Kawalan Petrol Bersubsidi (SKPS) — Soalan Lazim)"
-    url: "https://www.kpdn.gov.my/en/faq/sistem-kawalan-petrol-bersubsidi-skps"
+    url: "https://www.kpdn.gov.my/en/frequently-asked-questions/subsidised-petrol-control-system-skps"
     publisher: "Ministère du Commerce intérieur et du Coût de la vie (KPDN)"
 
 entity: "Subsidi bahan api Malaysia"

@@ -72,7 +72,7 @@ sources:
     publisher: "دائرة النائب العام الماليزية (AGC)"
     date: "1993-03-01"
   - title: "MITI: مركزة وظائف وكالات ترويج الاستثمار تحت MIDA في 1 يناير 2024 (MITI: Investment promotion agencies' functions to be centralised under MIDA on Jan 1, 2024)"
-    url: "https://www.mida.gov.my/mida-news/miti-investment-promotion-agencies-functions-to-be-centralised-under-mida-on-jan-1-2024/"
+    url: "https://www.mida.gov.my/ms/media-release/pemusatan-fungsi-promosi-pelaburan-dan-pemasaran-malaysia-di-bawah-mida-menjelang-1-januari-2024/"
     publisher: "هيئة تطوير الاستثمار الماليزية (MIDA)"
   - title: "تبسيط وظائف ترويج الاستثمار تحت MIDA (Investment Promotion Functions Streamlined Under MIDA)"
     url: "https://www.mida.gov.my/investment-promotion-functions-streamlined-under-mida/"

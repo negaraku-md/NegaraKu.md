@@ -52,7 +52,7 @@ sources:
     publisher: "Cámara del Fiscal General de Malasia (Jabatan Peguam Negara Malaysia)"
     date: "2020-10-15"
   - title: "Adat Perpatih"
-    url: "https://ms.wikipedia.org/wiki/Adat_perpatih"
+    url: "https://ms.wikipedia.org/wiki/Adat_Perpatih"
     publisher: "Wikipedia Bahasa Melayu"
   - title: "Adat Temenggong"
     url: "https://ms.wikipedia.org/wiki/Adat_Temenggong"

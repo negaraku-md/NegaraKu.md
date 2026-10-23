@@ -79,7 +79,7 @@ sources:
     publisher: "Kementerian Kewangan Malaysia"
     date: "2026-07-22"
   - title: "Sistem Kawalan Petrol Bersubsidi (SKPS) — Soalan Lazim"
-    url: "https://www.kpdn.gov.my/en/faq/sistem-kawalan-petrol-bersubsidi-skps"
+    url: "https://www.kpdn.gov.my/en/frequently-asked-questions/subsidised-petrol-control-system-skps"
     publisher: "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup"
 
 entity: "Subsidi bahan api Malaysia"

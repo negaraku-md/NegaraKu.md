@@ -59,7 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&act=715"
     publisher: "Phòng Tổng Chưởng lý (AGC) — Laws of Malaysia Online"
   - title: "Ủy ban Cấp phép Phương tiện Thương mại (LPKP) Sabah (Lembaga Pelesenan Kenderaan Perdagangan (LPKP) Sabah)"
-    url: "https://sabah.gov.my/directory/lpkp"
+    url: "https://web.archive.org/web/20230928145208/https://sabah.gov.my/directory/lpkp"
     publisher: "Chính quyền Bang Sabah"
 
 entity: "E-hailing"

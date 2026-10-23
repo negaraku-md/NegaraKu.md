@@ -44,7 +44,7 @@ sources:
     url: "https://www.hasil.gov.my/individu/pelepasan-cukai/"
     publisher: "मलेशिया आंतरिक राजस्व बोर्ड (LHDN)"
   - title: "रोज़गार से परिलब्धियाँ, Public Ruling No. 5/2019 (Perquisites From Employment, Public Ruling No. 5/2019)"
-    url: "http://lampiran1.hasil.gov.my/pdf/pdfam/PR_05_2019.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR_05_2019_2.pdf"
     publisher: "मलेशिया आंतरिक राजस्व बोर्ड (LHDN)"
     date: "2019-11-19"
   - title: "रोज़गार-चोट योजना (Employment Injury Scheme / LINDUNG PEKERJA)"

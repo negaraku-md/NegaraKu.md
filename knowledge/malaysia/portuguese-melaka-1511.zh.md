@@ -37,10 +37,10 @@ sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "马六甲历史 (Sejarah Melaka)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/info-negeri/sejarah.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "马六甲州政府官方门户 (Portal Rasmi Kerajaan Negeri Melaka)"
   - title: "马六甲历史 (Melaka History)"
-    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "马六甲州政府官方门户 (Portal Rasmi Kerajaan Negeri Melaka)"
   - title: "圣地亚哥城堡（A' Famosa），马六甲 (Kota A' Famosa, Melaka)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka"

@@ -87,7 +87,7 @@ sources:
     publisher: "Jabatan Peguam Negara"
     date: "2023-11-01"
   - title: "Nota Penerangan Individu Pemastautin (Pekerja Berpengetahuan / Pekerja Pakar) (kadar rata 15%, Bahagian XIV Jadual 1) (Resident Individual (Knowledge Worker / Expert Worker) Explanatory Notes (15% flat rate, Part XIV Schedule 1))"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/Explanatory_Notes_BT2017_2.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/Explanatory_Notes_BT2017_2.pdf"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
   - title: "Insentif Wilayah Ekonomi Pantai Timur (ECER) dilanjutkan (P.U.(A) 123-126/2022, tarikh akhir hingga 31 Dis 2022) (East Coast Economic Region (ECER) incentives extended (P.U.(A) 123-126/2022, deadline to 31 Dec 2022))"
     url: "https://www.ey.com/en_my/technical/tax-alerts/east-coast-economic-region-incentives-extended"

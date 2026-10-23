@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "Kementerian Luar Negeri, Malaysia (Wisma Putra)"
   - title: "Kedutaan Besar & Suruhanjaya Tinggi (Perwakilan Malaysia) (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Kementerian Luar Negeri, Malaysia (Wisma Putra)"
   - title: "Bantuan di Luar Negara (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

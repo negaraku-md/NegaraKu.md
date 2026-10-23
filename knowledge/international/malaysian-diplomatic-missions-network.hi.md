@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "दूतावास और उच्चायोग — मलेशियाई मिशन (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "विदेश मंत्रालय, मलेशिया (Wisma Putra)"
   - title: "आपातकालीन प्रमाणपत्र / Sijil Perakuan Cemas के लिए आवेदन — अन्य जानकारी, मलेशिया उच्चायोग, वेलिंगटन (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

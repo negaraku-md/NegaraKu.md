@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "Ủy ban Công ty Malaysia (SSM)"
   - title: "Trực tuyến (e-Daftar) — Đăng ký Cá nhân (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -152,4 +152,4 @@ Hai lưu ý trước khi bạn bắt đầu kinh doanh. Thứ nhất, hướng d
 
 [^ssm]: Ủy ban Công ty Malaysia (SSM), *Guidelines for Registration of New Business* — định nghĩa kinh doanh, yêu cầu công dân/thường trú nhân Malaysia từ 18 tuổi trở lên, lệ phí (RM30 tên cá nhân, RM60 tên thương mại, RM5 mỗi chi nhánh, RM10 thông tin doanh nghiệp), hiệu lực từ một đến năm năm, và chế tài đến RM50,000 phạt tiền hoặc hai năm tù. https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: Kementerian Pembangunan Usahawan dan Koperasi (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — điều kiện tiên quyết về đăng ký, các điều kiện quy mô nhỏ/nhà ở, giới hạn diện tích sàn 25%, sự đồng ý của hàng xóm/JMB/chủ nhà, giới hạn một người lao động, các quy tắc biển hiệu, các lệ phí do PBT đặt, các danh sách hoạt động được phép và bị cấm, và các yêu cầu loại thực phẩm (bẫy mỡ, danh mục FoSIM, giấy chứng nhận người xử lý thực phẩm, tiêm phòng thương hàn). https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — nộp đơn TIN qua e-Daftar trên cổng MyTax, có hiệu lực 1 tháng 1 năm 2024. https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — nộp đơn TIN qua e-Daftar trên cổng MyTax, có hiệu lực 1 tháng 1 năm 2024. https://www.hasil.gov.my/en/individu/pendaftaran/

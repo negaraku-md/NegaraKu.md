@@ -54,7 +54,7 @@ sources:
   - title: "《所得税（个人股息应课税收入的确定）规则2025年》[P.U. (A) 148/2025] (Income Tax (Determination of Chargeable Income of an Individual in respect of Dividend) Rules 2025 [P.U. (A) 148/2025])"
     publisher: "马来西亚总检察署（联邦政府宪报）"
   - title: "常见问题（个人） (Frequently Asked Questions (Individual))"
-    url: "https://www.hasil.gov.my/en/individual/others/frequently-asked-question-individual/"
+    url: "https://www.hasil.gov.my/en/individu/soalan-lazim-individu/"
     publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Dividend Tax (Malaysia)"

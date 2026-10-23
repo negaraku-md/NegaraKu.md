@@ -51,7 +51,7 @@ revisions:
 updated: 2026-07-28
 sources:
   - title: "Ley de la Junta de Promoción Turística de Malasia 1992 (Act 481) (Malaysia Tourism Promotion Board Act 1992 (Act 481))"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Malaysia-Tourism-Promotion-Board-Act-1992.pdf"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20481.pdf"
     publisher: "Leyes de Malasia (Comisionado de Revisión de Leyes) reimpresión; corroborado por lom.agc.gov.my"
   - title: "Departamentos y agencias (Departments & Agencies)"
     url: "https://www.motac.gov.my/en/departments-agencies/"

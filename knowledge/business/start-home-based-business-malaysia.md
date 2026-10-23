@@ -54,7 +54,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "Companies Commission of Malaysia (SSM)"
   - title: "Online (e-Daftar) — Individual Registration"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "Inland Revenue Board of Malaysia (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -151,4 +151,4 @@ Two cautions before you start trading. First, the KUSKOP guideline is a national
 
 [^ssm]: Companies Commission of Malaysia (SSM), *Guidelines for Registration of New Business* — definition of business, Malaysian citizen/PR aged 18+ requirement, fees (RM30 personal name, RM60 trade name, RM5 per branch, RM10 business information), validity of one to five years, and the penalty of up to RM50,000 fine or two years' imprisonment. https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: Kementerian Pembangunan Usahawan dan Koperasi (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — registration precondition, small-scale/residential conditions, 25% floor-area limit, neighbour/JMB/landlord consent, one-worker limit, signboard rules, PBT-set fees, permitted and prohibited activity lists, and the food-category requirements (grease trap, FoSIM listing, food-handler certificate, anti-typhoid vaccination). https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — TIN application via e-Daftar on the MyTax portal, effective 1 January 2024. https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: Inland Revenue Board of Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — TIN application via e-Daftar on the MyTax portal, effective 1 January 2024. https://www.hasil.gov.my/en/individu/pendaftaran/

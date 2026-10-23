@@ -31,7 +31,7 @@ sensitivity: "none"
 updated: 2026-07-10
 sources:
   - title: "狼牙脩 (Langkasuka)"
-    url: "https://www.britannica.com/place/Langkasuka"
+    url: "https://en.wikipedia.org/wiki/Langkasuka"
     publisher: "Encyclopaedia Britannica"
   - title: "梁书·南蛮传 (Liang Shu (Book of Liang), Chapter on Southern Barbarians)"
     publisher: "中国正史，公元7世纪编纂"

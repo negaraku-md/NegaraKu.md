@@ -42,7 +42,7 @@ sources:
     url: "https://cfs.forestry.gov.my/faq/"
     publisher: "中央森林脊柱国际中心（ICCFS），马来西亚半岛林业局 (International Centre for Central Forest Spine (ICCFS), Forestry Department of Peninsular Malaysia)"
   - title: "斯东山 (Gunung Stong)"
-    url: "https://www.kesedar.gov.my/en/pelancongan-kelantan-selatan/gunung-stong/"
+    url: "https://www.kesedar.gov.my/gunung-stong-2/"
     publisher: "南吉兰丹发展局 (KESEDAR)"
   - title: "皇家勿洞 (Royal Belum)"
     url: "https://www.mybis.gov.my/pa/209"

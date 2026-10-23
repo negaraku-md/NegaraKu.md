@@ -169,7 +169,7 @@ sources:
     url: "https://www.hasil.gov.my/en/syarikat/anggaran-cukai/"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
   - title: "Phán quyết Công khai số 8/2025 — Xử lý thuế đối với công ty siêu nhỏ, nhỏ và vừa (Public Ruling No. 8/2025 — Tax Treatment for Micro, Small and Medium Companies)"
-    url: "https://www.hasil.gov.my/media/fo1ptejq/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/pr-8-2025-tax-treatment-for-micro-small-and-medium-companies.pdf"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
     date: "2025"
   - title: "Lộ trình Triển khai Hóa đơn điện tử (cập nhật ngày 7 tháng 12 năm 2025) (e-Invoice Implementation Timeline (updated 7 December 2025))"

@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "வெளியுறவு அமைச்சு, மலேசியா (Wisma Putra)"
   - title: "தூதரகங்கள் & உயர் ஸ்தானிகராலயங்கள் (மலேசியப் பணியகம்) (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "வெளியுறவு அமைச்சு, மலேசியா (Wisma Putra)"
   - title: "வெளிநாட்டில் உதவி (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"

@@ -68,7 +68,7 @@ sources:
     url: "https://www.maidam.gov.my/index.php/siapa-penerima-zakat"
     publisher: "திரங்கானு இஸ்லாமிய சமய மற்றும் மலாய் பழக்கவழக்க மன்றம் (MAIDAM)"
   - title: "வருமான / சம்பள ஜகாத் (Zakat Pendapatan / Gaji)"
-    url: "https://zakat.mainpp.gov.my/zakat-pendapatan-2/"
+    url: "https://zakat.mainpp.gov.my/zakat-pendapatan/"
     publisher: "பினாங்கு மாநில இஸ்லாமிய சமய மன்றம் (MAINPP)"
   - title: "சேமிப்புப் பண ஜகாத் (நிசாப் 20 மித்கால் / 85 கிராம் தங்கம்; விகிதம் 2.5%) (Zakat Wang Simpanan (nisab 20 mithqal / 85 gram emas; kadar 2.5%))"
     url: "https://zakat.mainpp.gov.my/zakat-wang-simpanan/"

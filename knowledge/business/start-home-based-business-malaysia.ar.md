@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "لجنة الشركات الماليزية (SSM)"
   - title: "عبر الإنترنت (e-Daftar) — تسجيل الأفراد (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -152,4 +152,4 @@ social:
 
 [^ssm]: لجنة الشركات الماليزية (SSM)، *Guidelines for Registration of New Business* — تعريف العمل التجاري، واشتراط المواطن/المقيم الدائم الماليزي بعمر 18 عامًا فأكثر، والرسوم (RM30 للاسم الشخصي، RM60 للاسم التجاري، RM5 لكل فرع، RM10 لمعلومات العمل)، وسريان من سنة إلى خمس سنوات، وعقوبة غرامة تصل إلى RM50,000 أو السجن سنتين. https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: وزارة تنمية ريادة الأعمال والتعاونيات (KUSKOP)، *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — شرط التسجيل المسبق، وشروط صغر الحجم/المظهر السكني، وحد مساحة الأرضية 25%، وموافقة الجيران/JMB/المالك، وحد العامل الواحد، وقواعد اللافتات، والرسوم التي تحددها السلطات المحلية، وقائمتا الأنشطة المسموح بها والمحظورة، ومتطلبات فئة الغذاء (مصيدة الشحوم، والإدراج في FoSIM، وشهادة متداولي الأغذية، والتطعيم ضد التيفوئيد). https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: الهيئة الماليزية للإيرادات الداخلية (LHDN)، *Online (e-Daftar) — Individual Registration* — طلب رقم التعريف الضريبي TIN عبر e-Daftar على بوابة MyTax، نافذ من 1 يناير 2024. https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: الهيئة الماليزية للإيرادات الداخلية (LHDN)، *Online (e-Daftar) — Individual Registration* — طلب رقم التعريف الضريبي TIN عبر e-Daftar على بوابة MyTax، نافذ من 1 يناير 2024. https://www.hasil.gov.my/en/individu/pendaftaran/

@@ -56,7 +56,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/Ezbiz%20Online%20User%20Guideline/GUIDELINE-FOR-TERMINATION-OF-BUSINESS.pdf"
     publisher: "말레이시아 기업위원회 (SSM)"
   - title: "납세 완료 확인서 (Tax Clearance Letter (Surat Penyelesaian Cukai / SPC))"
-    url: "https://www.hasil.gov.my/en/individual/others/termination-of-service-employment/"
+    url: "https://www.hasil.gov.my/en/individu/penamatan-perkhidmatan/"
     publisher: "말레이시아 국세청 (LHDN)"
 
 entity: "Sole Proprietorship / Partnership (Malaysia)"

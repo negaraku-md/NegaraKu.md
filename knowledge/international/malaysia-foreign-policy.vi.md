@@ -86,7 +86,7 @@ sources:
     url: "https://www.idfr.gov.my/images/pdf_folder/monograph/Focus_in_Continuity_a_Monograph.pdf"
     publisher: "Viện Ngoại giao và Quan hệ Đối ngoại (IDFR), Malaysia"
   - title: "Đại sứ quán & Cao ủy (Embassies & High Commissions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "Bộ Ngoại giao Malaysia (Wisma Putra)"
   - title: "Kỷ niệm 47 năm Quan hệ Ngoại giao Trung Quốc-Malaysia (thông cáo chung ngày 31 tháng 5 năm 1974; quốc gia ASEAN đầu tiên) (47th Anniversary of China-Malaysia Diplomatic Relations (31 May 1974 joint communique; first ASEAN country))"
     url: "https://my.china-embassy.gov.cn/eng/zmgx/202105/t20210531_8921131.htm"

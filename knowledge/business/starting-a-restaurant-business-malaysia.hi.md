@@ -71,7 +71,7 @@ sources:
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/registration"
     publisher: "कर्मचारी भविष्य निधि (KWSP) (Employees Provident Fund)"
   - title: "खाद्य एवं पेय मार्गदर्शिका V7 (19 अप्रैल 2024) (Panduan Makanan & Minuman (Guide on Food & Beverages) V7 (19 April 2024))"
-    url: "https://mysst.customs.gov.my/industryguides/"
+    url: "https://mysst.customs.gov.my/industry-guides/"
     publisher: "रॉयल मलेशियाई सीमा शुल्क विभाग (RMCD) (Royal Malaysian Customs Department)"
 
 entity: "Restaurant / F&B Business (Malaysia)"

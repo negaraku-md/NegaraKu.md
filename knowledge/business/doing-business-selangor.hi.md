@@ -72,7 +72,7 @@ sources:
     url: "https://elesen.mbpj.gov.my/assets/SOP_MBPJ/garis_panduan_perniagaan_dalam_talian_v3.pdf"
     publisher: "पेटलिंग जाया नगर परिषद (Majlis Bandaraya Petaling Jaya)"
   - title: "व्यापार लाइसेंस जानकारी (Info Lesen Perniagaan)"
-    url: "https://www.mbsj.gov.my/ms/info-lesen-perniagaan"
+    url: "https://www.mbsj.gov.my/ms/pelesenan"
     publisher: "सुबांग जाया नगर परिषद (Majlis Bandaraya Subang Jaya)"
   - title: "सकल घरेलू उत्पाद (GDP) राज्यानुसार, 2025 (Gross Domestic Product (GDP) by State, 2025)"
     url: "https://www.dosm.gov.my/portal-main/release-content/gross-domestic-product-gdp-by-state-2025"

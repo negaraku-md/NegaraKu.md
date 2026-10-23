@@ -54,7 +54,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"
     publisher: "Cámara del Fiscal General de Malasia (Attorney General's Chambers of Malaysia) (lom.agc.gov.my)"
   - title: "Ley de la Comisión de Nombramientos Judiciales de 2009 (Act 695), reimpresión actualizada a 1 de mayo de 2014 (Judicial Appointments Commission Act 2009 (Act 695), updated reprint as at 1 May 2014)"
-    url: "https://tcclaw.com.my/wp-content/uploads/2025/08/Judicial-Appointments-Commission-Act-2009.pdf"
+    url: "https://lawplayer.com/my/act/act-695"
     publisher: "Leyes de Malasia (Laws of Malaysia) (reimpresión de la Cámara del Fiscal General)"
   - title: "Introducción — Comisión de Nombramientos Judiciales (Introduction — Judicial Appointments Commission)"
     url: "https://www.jac.gov.my/en/commission/introduction"

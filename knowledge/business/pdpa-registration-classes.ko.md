@@ -69,7 +69,7 @@ sources:
     publisher: "법무장관실"
     date: "2013-11-14"
   - title: "데이터 관리자 등록 (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "말레이시아 개인정보보호위원장"
     date: "2025-06-01"
 

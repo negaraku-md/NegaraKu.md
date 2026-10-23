@@ -116,7 +116,7 @@ sources:
     publisher: "Moore Malaysia"
     date: "2024-09-20"
   - title: "வழிகாட்டி — வெளிநாட்டிலிருந்து பெறப்பட்ட வருமானம் தொடர்பான வரி நடைமுறை (திருத்தம்), 20 ஜூன் 2024 (ஆங்கிலப் பதிப்பு, LHDN போர்டல்) (Guidelines — Tax Treatment in Relation to Income Received from Abroad (Amendment), 20 June 2024 (English edition, LHDN portal))"
-    url: "https://www.hasil.gov.my/media/fzofh1gz/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240620-guidelines-tax-treatment-in-relation-to-income-received-from-abroad-amendment-june-2024.pdf"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2024-06-20"
 

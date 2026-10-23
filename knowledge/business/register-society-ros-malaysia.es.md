@@ -55,7 +55,7 @@ sources:
     url: "https://www.ros.gov.my/portal-main/faq"
     publisher: "Departamento de Registro de Sociedades de Malasia (Jabatan Pendaftaran Pertubuhan Malaysia / Registrar of Societies)"
   - title: "Ley del Impuesto sobre la Renta de 1967 (Act 53) — subsección 44(6) (Income Tax Act 1967 (Act 53) — subsection 44(6))"
-    url: "https://www.hasil.gov.my/media/znonhmuj/20231101-income-tax-act-1967-act-53.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
 
 entity: "Society (Persatuan, Registrar of Societies)"

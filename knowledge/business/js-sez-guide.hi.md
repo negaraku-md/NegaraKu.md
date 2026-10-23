@@ -81,7 +81,7 @@ sources:
     publisher: "निवेश, व्यापार और उद्योग मंत्रालय (MITI)"
     date: "2025-10-14"
   - title: "संघीय राजपत्र सहायक विधान खोज (P.U.(A)) (Federal gazette subsidiary legislation search (P.U.(A)))"
-    url: "https://lom.agc.gov.my/subsid-legis.php"
+    url: "https://lom.agc.gov.my/subsid.php?type=pua&language=BI"
     publisher: "महान्यायवादी कार्यालय (AGC)"
   - title: "जोहोर-सिंगापुर विशेष आर्थिक क्षेत्र: निवेशकों के लिए प्रारंभिक संरचना संबंधी विचार (The Johor-Singapore Special Economic Zone: early structuring considerations for investors)"
     url: "https://www.trowers.com/insights/2026/may/the-johor-singapore-special-economic-zone"

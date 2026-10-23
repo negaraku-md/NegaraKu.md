@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-07
 sources:
   - title: "หนังสือแนวปฏิบัติ ฉบับที่ 2/2026 — การปฏิบัติทางภาษีสำหรับผู้ถือหน่วย REIT/PTF สำหรับปีภาษี 2026 และปีประเมินถัดไป (Practice Note No. 2/2026 — Tax treatment for unit holders of REIT/PTF for YA 2026 and subsequent years of assessment)"
-    url: "https://www.hasil.gov.my/media/scllrxnt/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/practice-note-no2-2026-tax-treatment-for-unit-holders-of-reit-ptf-for-ya-2026-and-subsequent-years-of-assessement.pdf"
     publisher: "กรมสรรพากรมาเลเซีย (LHDN)"
   - title: "HASiL ออกหนังสือแนวปฏิบัติเกี่ยวกับการปฏิบัติทางภาษีสำหรับผู้ถือหน่วย REIT (HASiL issues Practice Note on tax treatment for unit holders of REITs)"
     url: "https://www.ey.com/en_my/technical/tax-alerts/hasil-issues-practice-notes-on-tax-treatment-for-unit-holders-of-reits"

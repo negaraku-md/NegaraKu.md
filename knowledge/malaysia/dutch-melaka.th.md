@@ -38,10 +38,10 @@ sensitivity: "none"
 updated: 2026-07-24
 sources:
   - title: "ประวัติศาสตร์มะละกา (Melaka History)"
-    url: "https://www.melaka.gov.my/en/government/state-info/melaka-history.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "พอร์ทัลอย่างเป็นทางการของรัฐบาลรัฐมะละกา"
   - title: "ประวัติศาสตร์มะละกา (Sejarah Melaka)"
-    url: "https://www.melaka.gov.my/ms/kerajaan/info-negeri/sejarah.html"
+    url: "https://www.melaka.gov.my/kerajaan/info-negeri/sejarah.html"
     publisher: "พอร์ทัลอย่างเป็นทางการของรัฐบาลรัฐมะละกา"
   - title: "ป้อม A' Famosa, มะละกา (Kota A' Famosa, Melaka)"
     url: "https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka"

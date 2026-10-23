@@ -75,7 +75,7 @@ sources:
     publisher: "महान्यायवादी कार्यालय (AGC)"
     date: "2024-12-24"
   - title: "व्यक्तिगत डेटा संरक्षण दिशानिर्देश — डेटा संरक्षण अधिकारी की नियुक्ति (Garis Panduan Perlindungan Data Peribadi — Pelantikan Pegawai Perlindungan Data)"
-    url: "https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
+    url: "https://web.archive.org/web/20250514085518/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2025/02/GARIS-PANDUAN-PERLINDUNGAN-DATA-PERIBADI_PELANTIKAN-PEGAWAI-PERLINDUNGAN-DATA.pdf"
     publisher: "व्यक्तिगत डेटा संरक्षण विभाग (JPDP)"
     date: "2025-02-25"
   - title: "KPDN ई-कॉमर्स नियामक समीक्षा (KPDN E-Commerce Regulatory Review)"

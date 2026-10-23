@@ -55,7 +55,7 @@ sources:
     url: "https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf"
     publisher: "Komisi Perusahaan Malaysia (SSM)"
   - title: "Daring (e-Daftar) — Pendaftaran Individu (Online (e-Daftar) — Individual Registration)"
-    url: "https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/"
+    url: "https://www.hasil.gov.my/en/individu/pendaftaran/"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
 
 entity: "Home-Based Business (Malaysia)"
@@ -152,4 +152,4 @@ Dua peringatan sebelum Anda mulai berusaha. Pertama, pedoman KUSKOP adalah *kera
 
 [^ssm]: Komisi Perusahaan Malaysia (SSM), *Guidelines for Registration of New Business* — definisi usaha, syarat warga negara/PR Malaysia berumur 18+, biaya (RM30 nama sendiri, RM60 nama dagang, RM5 setiap cabang, RM10 informasi usaha), keabsahan satu hingga lima tahun, dan penalti denda hingga RM50,000 atau penjara dua tahun. https://www.ssm.com.my/Documents/guidelines_for_registration_of_new_business_05062018_0.pdf
 [^kuskop]: Kementerian Pembangunan Usahawan dan Koperasi (KUSKOP), *Garis Panduan Kawal Selia Perniagaan Dari Rumah* — prasyarat pendaftaran, syarat berskala kecil/kediaman, batas ruang lantai 25%, izin tetangga/JMB/tuan tanah, batas satu pekerja, peraturan papan tanda, biaya ditetapkan PBT, daftar aktivitas yang diizinkan dan dilarang, serta persyaratan kategori makanan (perangkap lemak, pencantuman FoSIM, sertifikat penjamah makanan, vaksinasi anti-tifoid). https://www.kuskop.gov.my/admin/files/med/image/portal/PDF/Penerbitan/Garis-Panduan-Kawal-Selia-Perniagaan-Dari-Rumah-v10.pdf
-[^lhdn]: Badan Pendapatan Dalam Negeri Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — permohonan TIN melalui e-Daftar di portal MyTax, berlaku 1 Januari 2024. https://www.hasil.gov.my/en/individual/individual-life-cycle/registration/online-e-daftar/
+[^lhdn]: Badan Pendapatan Dalam Negeri Malaysia (LHDN), *Online (e-Daftar) — Individual Registration* — permohonan TIN melalui e-Daftar di portal MyTax, berlaku 1 Januari 2024. https://www.hasil.gov.my/en/individu/pendaftaran/

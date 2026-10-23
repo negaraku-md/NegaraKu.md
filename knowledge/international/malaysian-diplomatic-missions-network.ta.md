@@ -55,7 +55,7 @@ revisions:
 updated: 2026-08-01
 sources:
   - title: "தூதரகங்கள் & உயர் ஸ்தானிகராலயங்கள் — மலேசியப் பிரதிநிதி அலுவலகங்கள் (Embassies & High Commissions — Malaysian Missions)"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "மலேசிய வெளியுறவு அமைச்சு (விஸ்மா புத்ரா)"
   - title: "அவசர சான்றிதழுக்கான விண்ணப்பம் / Sijil Perakuan Cemas — பிற தகவல், மலேசிய உயர் ஸ்தானிகராலயம், வெலிங்டன் (Application for Emergency Certificate / Sijil Perakuan Cemas — Other Information, High Commission of Malaysia, Wellington)"
     url: "https://www.kln.gov.my/web/nzl_wellington/other_information/-/asset_publisher/2TQe/content/emergency-certificate-sijil-perakuan-cemas"

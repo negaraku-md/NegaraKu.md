@@ -79,7 +79,7 @@ sources:
     url: "https://www.pmo.gov.my/ms/perdana-putra/"
     publisher: "Văn phòng Thủ tướng Malaysia"
   - title: "Vụ Nghị viện — PPN L.T. Kuala Lumpur / Putrajaya (Bahagian Parlimen — PPN W.P. Kuala Lumpur / Putrajaya)"
-    url: "https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
+    url: "https://web.archive.org/web/20240530093803/https://ppn.spr.gov.my/kualalumpur/?page_id=1548"
     publisher: "Ủy ban Bầu cử Malaysia (SPR)"
   - title: "Ước tính dân số theo bang (dữ liệu mở) (Anggaran penduduk mengikut negeri (data terbuka))"
     url: "https://open.dosm.gov.my/data-catalogue"

@@ -45,7 +45,7 @@ sources:
     url: "https://mysst.customs.gov.my/"
     publisher: "RMCD"
   - title: "Royal Malaysian Customs Department — legislation"
-    url: "https://www.customs.gov.my/en/legislation/acts"
+    url: "https://customs.gov.my/en/procedure/federal-gazette"
     publisher: "RMCD"
 
 entity: "Sales and Service Tax (SST)"

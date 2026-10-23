@@ -69,7 +69,7 @@ sources:
     publisher: "Kejaksaan Agung Malaysia"
     date: "2013-11-14"
   - title: "Pendaftaran Pengendali Data (Registration of Data Controller)"
-    url: "https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
+    url: "https://web.archive.org/web/20250822084125/https://www.pdp.gov.my/ppdpv1/en/registration-of-data-controller/"
     publisher: "Komisioner Perlindungan Data Pribadi Malaysia"
     date: "2025-06-01"
 

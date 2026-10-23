@@ -65,7 +65,7 @@ sources:
     url: "https://www.kln.gov.my/web/guest/role-function"
     publisher: "말레이시아 외교부 (Wisma Putra)"
   - title: "대사관 및 고등판무관실 (말레이시아 재외공관) (Embassies & High Commissions (Malaysian Mission))"
-    url: "https://www.kln.gov.my/web/guest/malaysian-mission"
+    url: "https://www.kln.gov.my/web/guest/overseas-missions"
     publisher: "말레이시아 외교부 (Wisma Putra)"
   - title: "해외 지원 (Assistance Abroad)"
     url: "https://www.kln.gov.my/web/guest/assistance-abroad"
