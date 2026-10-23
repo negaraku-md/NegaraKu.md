@@ -100,3 +100,5 @@ Employment Pass-ஐ அடிப்படையாகக் கொண்டு �
 ## அடுத்து என்ன
 
 இவை இரண்டும் இணைந்திருக்கும் ஆதரவுப் பாஸ் குறித்து, [மலேசிய வேலைப் பாஸ்கள் ஒப்பீடு](/ta/employment/work-passes-malaysia) மற்றும் [Employment Pass](/ta/employment/employment-pass-malaysia) ஆகியவற்றைப் பார்க்கவும். இவை அனைத்தையும் வழங்கி நிர்வகிக்கும் அமைப்பு குறித்து, [மலேசிய குடிவரவுத் துறை (Jabatan Imigresen Malaysia)](/ta/government/imigresen)-ஐப் பார்க்கவும். மேலும், ஒரு குடும்ப உறுப்பினர் குடியேறியப் பிறகு Dependant Pass எதைத் திறந்துவிடுகிறது என்பதற்கு, [மலேசியாவில் வங்கிக் கணக்கு திறத்தல்](/ta/money-daily-life/opening-bank-account)-ஐப் பார்க்கவும்.
+
+மலேசியாவுக்குப் புதியவரா? [மலேசியாவுக்கு இடம்பெயர்வதற்கான முதல் படிகளுடன்](/ta/settling-in/moving-to-malaysia-first-steps/) தொடங்குங்கள்.

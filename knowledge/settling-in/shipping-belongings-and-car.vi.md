@@ -117,3 +117,5 @@ Những giấy tờ này được nộp điện tử, không phải qua một qu
 ## Tiếp theo
 
 Nếu bạn đang tái định cư, hãy coi đây là hai dự án hoàn toàn riêng biệt trên hai dòng thời gian khác nhau: lấy báo giá từ một công ty chuyển nhà quốc tế có giấy phép cho lô hàng gia dụng (Form K1 và bản kê sẵn sàng từ trước khi container rời đi), và — chỉ khi việc mang theo chiếc xe cụ thể của bạn thực sự quan trọng với bạn — hãy kiểm tra nhóm AP cá nhân của bạn với MITI trước khi cam kết vận chuyển chiếc xe. Đối với hầu hết người nước ngoài, mua một chiếc xe tại chỗ sau khi đến hóa ra đơn giản hơn là thông qua tuyến này; một khi bạn có một chiếc, [lái xe tại Malaysia với tư cách người nước ngoài](/vi/transport/driving-licence-foreigners) và [giấy phép người phụ thuộc và thăm viếng xã hội](/vi/settling-in/dependant-social-visit-passes) đề cập đến các phần khác của việc ổn định cuộc sống thường rơi vào cùng một vài tuần.
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

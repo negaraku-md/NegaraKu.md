@@ -162,3 +162,5 @@ ePASS 与 i-Kad 并非只是纸面上的战利品——MYXpats 确认 ePASS 可�
 如果你正等待一份聘书转化为准证，及早向雇主提出两个直接的问题：公司是否已经完成 ESD 注册与启用，以及这份申请将按哪一个类别提交。这两点决定你实际时间表的程度，远超任何单一的处理天数。
 
 关于决定你的聘书落在三个类别中哪一档的现行薪金级距与类别期限，请参阅[就业准证薪金政策](/zh/employment/employment-pass-malaysia)。如果你正在把就业准证与专业访问准证等更短期的选项作比较，请参阅[马来西亚各类工作准证比较](/zh/employment/work-passes-malaysia)。
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

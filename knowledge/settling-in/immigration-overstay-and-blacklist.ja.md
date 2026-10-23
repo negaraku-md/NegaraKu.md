@@ -167,3 +167,5 @@ keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigr
 - そもそも根底にあるパスを有効に保つため、関連する[エンプロイメントパス](/ja/settling-in/employment-pass/)、[扶養家族・社会訪問パス](/ja/settling-in/dependant-social-visit-passes/)、及び[学生パス](/ja/settling-in/student-pass/)のガイドを読むこと。
 
 *本記事はAI支援による一般的情報提供のための草稿であり、法的助言ではない。過料の金額、各種プログラム及び執行実務は変更されることがあるため、行動する前にマレーシア移民局へ現行の数字を確認すること。*
+
+マレーシアは初めてですか？[マレーシア移住の最初のステップ](/ja/settling-in/moving-to-malaysia-first-steps/)から始めましょう。

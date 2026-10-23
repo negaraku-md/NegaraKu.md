@@ -168,3 +168,5 @@ Biaya Permit Masuk tergolong moderat — halaman Permit Masuk Departemen Imigras
 - **Pisahkan status-status ini dalam perencanaan Anda.** Jika tujuan Anda adalah kewarganegaraan pada akhirnya, PR adalah fondasi yang Anda bangun; MM2H tidak, berapa lama pun Anda memegangnya.
 
 *Ini adalah draf berbantuan AI yang disusun dari halaman resmi Departemen Imigrasi dan Kementerian Dalam Negeri serta laporan yang berwenang. Peraturan imigrasi berubah dan dilaksanakan menurut diskresi jabatan — pastikan syarat terkini dengan Departemen Imigrasi Malaysia sebelum bertindak.*
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

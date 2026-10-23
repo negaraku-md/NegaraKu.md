@@ -163,3 +163,5 @@ Không điều gì trong số này là thứ mà bạn, với tư cách người
 Nếu bạn đang chờ một lời mời chuyển thành một giấy phép, hãy hỏi người sử dụng lao động của bạn hai câu hỏi trực tiếp từ sớm: công ty đã được đăng ký và kích hoạt với ESD hay chưa, và đơn đang được nộp theo hạng mục nào. Cả hai quyết định dòng thời gian thực tế của bạn nhiều hơn bất kỳ con số ngày xử lý đơn lẻ nào.
 
 Để biết các ngưỡng lương và thời hạn hạng mục hiện hành quyết định lời mời của bạn rơi vào bậc nào trong ba bậc, hãy xem [chính sách lương của Employment Pass](/vi/employment/employment-pass-malaysia). Nếu bạn đang so sánh Employment Pass với các lựa chọn ngắn hạn hơn như Professional Visit Pass, hãy xem [So sánh các giấy phép lao động của Malaysia](/vi/employment/work-passes-malaysia).
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

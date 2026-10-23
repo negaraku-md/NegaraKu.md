@@ -163,3 +163,5 @@ EMGSは、完全な申請が提出された日から起算して、VAL発給の�
 ## 次のステップ
 
 学生パスが裏書され、i-Kadが手元に届いたら、次の実務的なステップは通常、[マレーシアの銀行口座開設](/ja/money-daily-life/opening-bank-account)、そして運転する予定があれば[外国人のための運転免許](/ja/transport/driving-licence-foreigners)の手配です。学生パスの裏書そのものを担う機関については、[マレーシア移民局（Jabatan Imigresen Malaysia）](/ja/government/imigresen)を参照してください。
+
+マレーシアは初めてですか？[マレーシア移住の最初のステップ](/ja/settling-in/moving-to-malaysia-first-steps/)から始めましょう。

@@ -113,3 +113,5 @@ Keluarga terdekat boleh menyertai anda: pasangan atau pasangan de facto, anak di
 ## Apa seterusnya
 
 Pastikan pasport anda mempunyai tempoh sah lebih daripada 14 bulan, kumpulkan dokumen pendapatan anda dalam bahasa Inggeris, dan mulakan permohonan dalam talian di mdec.my/derantau. Sahkan yuran dan peraturan semasa dengan FAQ rasmi MDEC sebelum anda membayar, kerana angka dan keperluan dikemas kini dari semasa ke semasa.
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

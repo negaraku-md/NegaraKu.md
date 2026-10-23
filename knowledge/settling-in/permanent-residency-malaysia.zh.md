@@ -168,3 +168,5 @@ keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Per
 - **在规划中区分各种身份。** 如果你的目标是最终取得公民身份，永久居留权是你据以建立的基础；MM2H则不是，无论你持有多久。
 
 *本文是一份AI辅助草稿，汇编自移民局及内政部的官方页面以及可靠的新闻报道。移民规则会变动，并由移民局酌情裁量适用——行动前请向马来西亚移民局（Jabatan Imigresen Malaysia）核实现行要求。*
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

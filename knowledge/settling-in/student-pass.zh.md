@@ -164,3 +164,5 @@ EMGS 表示，VAL 核发的服务标准为 14 个工作天，自完整申请提�
 ## 下一步
 
 学生准证获批注、i-Kad 也到手之后，接下来通常的实际步骤是[开立马来西亚银行账户](/zh/money-daily-life/opening-bank-account)，若你打算开车，则须办理[外籍人士驾驶执照](/zh/transport/driving-licence-foreigners)。至于负责批注学生准证本身的机构，请参阅[马来西亚移民局](/zh/government/imigresen)。
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

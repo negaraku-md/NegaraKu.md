@@ -218,3 +218,5 @@ Bagi pihak berkuasa imigresen yang akhirnya meluluskan dan mencap pas itu, lihat
 perniagaan di Malaysia adalah sebahagian daripada rancangan, baca
 [Visa untuk Pemilik Perniagaan](/business/malaysia-business-visa-comparison) sebelum
 menganggap MM2H merangkuminya.
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

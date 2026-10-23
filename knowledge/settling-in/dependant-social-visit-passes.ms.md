@@ -100,3 +100,5 @@ Bagi keluarga yang ditaja melalui Employment Pass, Dependant Pass dan LTSVP kedu
 ## Apa yang seterusnya
 
 Untuk pas penaja yang kedua-duanya dilekatkan kepadanya, lihat [Perbandingan Pas Kerja Malaysia](/employment/work-passes-malaysia) dan [Employment Pass](/employment/employment-pass-malaysia). Untuk agensi yang mengeluarkan dan mentadbir kesemuanya, lihat [Jabatan Imigresen Malaysia](/government/imigresen). Dan untuk apa yang dibuka oleh Dependant Pass sebaik sahaja seorang ahli keluarga menetap, lihat [Membuka Akaun Bank di Malaysia](/money-daily-life/opening-bank-account).
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

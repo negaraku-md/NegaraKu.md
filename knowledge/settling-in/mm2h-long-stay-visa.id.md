@@ -218,3 +218,5 @@ Untuk otoritas imigrasi yang akhirnya menyetujui dan mengecap pas itu, lihat
 bisnis di Malaysia adalah bagian dari rencana, baca
 [Visa untuk Pemilik Bisnis](/id/business/malaysia-business-visa-comparison) sebelum
 menganggap MM2H mencakupnya.
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

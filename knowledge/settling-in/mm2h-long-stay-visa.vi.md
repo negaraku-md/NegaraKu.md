@@ -139,3 +139,5 @@ Trên mọi bậc, các khoản tiền đến như bản thân khoản tiền g�
 ## Tiếp theo
 
 Để mở tài khoản ngân hàng nơi khoản tiền gửi cố định thực sự nằm, và để xem danh sách kiểm tra giấy tờ khác đi ra sao một khi bạn giữ sự phê duyệt MM2H thay vì một giấy phép du lịch, hãy xem [Mở tài khoản ngân hàng tại Malaysia](/vi/money-daily-life/opening-bank-account). Đối với cơ quan di trú cuối cùng phê duyệt và đóng dấu giấy phép, hãy xem [Jabatan Imigresen Malaysia](/vi/government/imigresen). Và nếu làm việc hoặc điều hành một doanh nghiệp tại Malaysia là một phần của kế hoạch, hãy đọc [Visa cho chủ doanh nghiệp](/vi/business/malaysia-business-visa-comparison) trước khi cho rằng MM2H bao trùm nó.
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

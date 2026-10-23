@@ -100,3 +100,5 @@ Dependant Pass เป็นช่องทางที่แคบกว่า�
 ## อ่านต่อ
 
 สำหรับใบอนุญาตอุปถัมภ์ที่ทั้งสองผูกอยู่ ดู [การเปรียบเทียบใบอนุญาตทำงานของมาเลเซีย](/th/employment/work-passes-malaysia) และ [ใบอนุญาตทำงาน (Employment Pass)](/th/employment/employment-pass-malaysia) สำหรับหน่วยงานที่ออกและบริหารทั้งหมดนี้ ดู [กรมตรวจคนเข้าเมืองมาเลเซีย](/th/government/imigresen) และสำหรับสิ่งที่ Dependant Pass ปลดล็อกเมื่อสมาชิกครอบครัวตั้งหลักได้แล้ว ดู [การเปิดบัญชีธนาคารในมาเลเซีย](/th/money-daily-life/opening-bank-account)
+
+เพิ่งมามาเลเซียใช่ไหม เริ่มต้นที่[ขั้นตอนแรกของการย้ายมามาเลเซีย](/th/settling-in/moving-to-malaysia-first-steps/)

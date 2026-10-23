@@ -168,3 +168,5 @@ keywords: ["permanent residency Malaysia", "MyPR", "red IC Malaysia", "Entry Per
 - **計画の中で各身分を区別する。** 最終的な目標が市民権であるなら、永住権はそこから積み上げる基盤である；MM2Hは、どれだけ長く保有してもそうではない。
 
 *本稿は、移民局及び内務省の公式ページと信頼できる報道をもとに編集したAI支援のドラフトである。移民規則は変更され、移民局の裁量によって適用される——行動する前に、マレーシア移民局（Jabatan Imigresen Malaysia）で現行の要件を確認すること。*
+
+マレーシアは初めてですか？[マレーシア移住の最初のステップ](/ja/settling-in/moving-to-malaysia-first-steps/)から始めましょう。

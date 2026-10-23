@@ -165,3 +165,5 @@ eNTRI(전자 여행 등록 및 정보, Electronic Travel Registration & Informat
 - 출발 전 3일 기간 내에, 오직 공식 포털에서만 **MDAC를 제출하십시오**.
 - **eVisa가 필요하다면,** 최소 2주 전에 [MYVISA 포털](https://malaysiavisa.imi.gov.my/)에서 신청하고 도착 시 제시할 승인을 보관하십시오.
 - **근로나 유학을 위해 오십니까?** 비자 면제도, eVisa도, eNTRI도 취업이나 학업을 커버하지 않습니다 — 여행 전에 올바른 취업 패스나 유학 패스를 준비하십시오.
+
+말레이시아가 처음이신가요? [말레이시아 이주 첫걸음](/ko/settling-in/moving-to-malaysia-first-steps/)부터 시작해 보세요.

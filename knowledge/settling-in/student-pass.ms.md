@@ -165,3 +165,5 @@ Apa yang bukan satu angka tunggal yang diterbitkan ialah jumlah kos tahun pertam
 ## Apa yang seterusnya
 
 Sebaik sahaja Pas Pelajar anda diendors dan i-Kad anda sudah di tangan, langkah praktikal seterusnya biasanya ialah [membuka akaun bank Malaysia](/money-daily-life/opening-bank-account) dan, jika anda akan memandu, menguruskan [lesen memandu sebagai warga asing](/transport/driving-licence-foreigners). Bagi agensi di sebalik endorsan Pas Pelajar itu sendiri, lihat [Jabatan Imigresen Malaysia](/government/imigresen).
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

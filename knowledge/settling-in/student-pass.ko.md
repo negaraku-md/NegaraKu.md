@@ -164,3 +164,5 @@ EMGS는 완전한 신청이 제출된 날로부터 계산하여 VAL 발급에 14
 ## 다음 단계
 
 유학 패스가 배서되고 i-Kad를 손에 넣으면, 다음 실용적 단계는 보통 [말레이시아 은행 계좌 개설하기](/ko/money-daily-life/opening-bank-account)와, 운전할 것이라면 [외국인으로서 운전면허](/ko/transport/driving-licence-foreigners) 정리입니다. 유학 패스 배서 자체의 배후에 있는 기관에 관해서는 [말레이시아 이민국(Jabatan Imigresen Malaysia)](/ko/government/imigresen)을 참조하십시오.
+
+말레이시아가 처음이신가요? [말레이시아 이주 첫걸음](/ko/settling-in/moving-to-malaysia-first-steps/)부터 시작해 보세요.

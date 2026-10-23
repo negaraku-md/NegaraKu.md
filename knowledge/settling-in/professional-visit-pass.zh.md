@@ -131,3 +131,5 @@ PVP 的 ESD 申请费为 **RM1,200**（含 8% SST 为 RM1,296），依据自 202
 ## 下一步
 
 如果这项安排实际上会让马来西亚公司成为雇主，正确的准证是[就业准证](/zh/settling-in/employment-pass)，而不是被硬拉出其本意的 PVP。若要并列比较外国公民在马来西亚工作可用的每一条途径——包括就业准证各类别、DE Rantau Nomad Pass 与 Residence Pass-Talent——请参阅[马来西亚各类工作准证比较](/zh/employment/work-passes-malaysia)。至于管理这一切的机构，请参阅[Jabatan Imigresen Malaysia](/zh/government/imigresen)。
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

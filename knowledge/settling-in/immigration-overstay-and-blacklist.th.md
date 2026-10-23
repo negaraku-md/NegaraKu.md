@@ -167,3 +167,5 @@ keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigr
 - อ่านคู่มือที่เกี่ยวข้อง [ใบอนุญาตทำงาน (Employment Pass)](/th/settling-in/employment-pass/), [ใบอนุญาตผู้อยู่ในอุปการะและการเยือนสังคม](/th/settling-in/dependant-social-visit-passes/) และ [ใบอนุญาตนักเรียน (Student Pass)](/th/settling-in/student-pass/) เพื่อรักษาใบอนุญาตพื้นฐานให้ถูกต้องตั้งแต่แรก
 
 *นี่เป็นร่างที่จัดทำโดยความช่วยเหลือของ AI เพื่อข้อมูลทั่วไป ไม่ใช่คำแนะนำทางกฎหมาย จำนวนค่าปรับเปรียบเทียบ โครงการ และแนวปฏิบัติการบังคับใช้เปลี่ยนแปลงได้; ยืนยันตัวเลขปัจจุบันกับกรมตรวจคนเข้าเมืองมาเลเซียก่อนดำเนินการ*
+
+เพิ่งมามาเลเซียใช่ไหม เริ่มต้นที่[ขั้นตอนแรกของการย้ายมามาเลเซีย](/th/settling-in/moving-to-malaysia-first-steps/)

@@ -167,3 +167,5 @@ keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigr
 - 阅读相关的[就业准证](/zh/settling-in/employment-pass/)、[家属与社交访问准证](/zh/settling-in/dependant-social-visit-passes/)以及[学生准证](/zh/settling-in/student-pass/)指南，从源头上让底层准证保持有效。
 
 *本文为AI辅助撰写的初稿，仅供一般参考，并非法律意见。抵偿金额、各项计划及执法实务会有变动；采取行动前，请向马来西亚移民局确认当前数字。*
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

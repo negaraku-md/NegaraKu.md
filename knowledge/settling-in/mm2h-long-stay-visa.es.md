@@ -217,3 +217,5 @@ Para la autoridad de inmigración que en última instancia aprueba y sella el pa
 negocio en Malasia forma parte del plan, lea
 [Visados para dueños de empresas](/en/business/malaysia-business-visa-comparison) antes
 de suponer que MM2H lo cubre.
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

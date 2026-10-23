@@ -167,3 +167,5 @@ Bài học thực tế: phòng ngừa rẻ hơn chữa trị một cách đáng 
 - Hãy đọc các hướng dẫn liên quan [Employment Pass](/vi/settling-in/employment-pass/), [giấy phép người phụ thuộc và thăm viếng xã hội](/vi/settling-in/dependant-social-visit-passes/), và [Student Pass](/vi/settling-in/student-pass/) để giữ cho giấy phép nền tảng hợp lệ ngay từ đầu.
 
 *Đây là một bản thảo do AI hỗ trợ dành cho thông tin chung, không phải lời khuyên pháp lý. Các số tiền compound, chương trình, và thực tiễn thực thi thay đổi; hãy xác nhận các con số hiện hành với Cục Di trú Malaysia trước khi hành động.*
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

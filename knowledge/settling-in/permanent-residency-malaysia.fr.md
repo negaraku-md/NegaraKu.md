@@ -168,3 +168,5 @@ Les frais de Permis d'entrée sont modestes — la page du Permis d'entrée du D
 - **Séparez les statuts dans votre planification.** Si votre objectif est d'obtenir à terme la citoyenneté, la PR est la base à partir de laquelle vous construisez ; le MM2H ne l'est pas, aussi longtemps que vous le conserviez.
 
 *Ceci est un brouillon assisté par IA compilé à partir des pages officielles du Département de l'immigration et du Ministère de l'Intérieur et de reportages fiables. Les règles d'immigration changent et sont appliquées à la discrétion du département — vérifiez les exigences en vigueur auprès du Jabatan Imigresen Malaysia avant d'agir.*
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

@@ -166,3 +166,5 @@ Ce qui n'est pas un chiffre publié unique, c'est votre coût total de la premi�
 ## Et ensuite
 
 Une fois votre Student Pass apposé et votre i-Kad en main, les étapes pratiques suivantes sont généralement [ouvrir un compte bancaire malaisien](/fr/money-daily-life/opening-bank-account) et, si vous conduisez, régler la question d'un [permis de conduire en tant qu'étranger](/fr/transport/driving-licence-foreigners). Pour l'agence derrière l'apposition du Student Pass elle-même, voir [Jabatan Imigresen Malaysia](/fr/government/imigresen).
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

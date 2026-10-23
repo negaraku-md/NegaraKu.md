@@ -106,3 +106,5 @@ Los trabajadores extranjeros con un Pase Temporal de Visita por Empleo (Temporar
 ## Qué sigue
 
 Para la parte del empleador de este mismo deber —los plazos legales exactos, la regla de retención de 90 días al completo, y qué ocurre si se incumple— consulta [Finiquito fiscal: CP21, CP22A y la regla de los 90 días](/en/taxation/tax-clearance) y la [Lista de verificación estatutaria de offboarding](/en/employment/offboarding-statutory-checklist). Si tu pase es específicamente un Employment Pass, consulta [Employment Pass](/en/employment/employment-pass-malaysia) para ver cómo funcionan el patrocinio y la cancelación. Y si estás en el lado opuesto de este movimiento —llegando en lugar de marcharte— [Mudarse a Malasia: el orden para resolver tu pase, la entrada y los trámites de la primera semana](/en/settling-in/moving-to-malaysia-first-steps) cubre los mismos trámites a la inversa.
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

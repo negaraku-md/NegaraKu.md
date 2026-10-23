@@ -165,3 +165,5 @@ Immigration Department சட்டப்பூர்வ Student Pass கட்�
 ## அடுத்தது என்ன
 
 உங்கள் Student Pass பதிவு செய்யப்பட்டு உங்கள் i-Kad கையில் கிடைத்தவுடன், அடுத்த நடைமுறை படிகள் பொதுவாக [ஒரு மலேசிய வங்கிக் கணக்கைத் திறப்பது](/ta/money-daily-life/opening-bank-account), மற்றும் நீங்கள் வாகனம் ஓட்டப் போகிறீர்கள் என்றால், [வெளிநாட்டவராக ஓட்டுநர் உரிமம்](/ta/transport/driving-licence-foreigners) பெறுவது ஆகியவையாகும். Student Pass பதிவுக்குப் பின்னால் இருக்கும் அமைப்பைப் பற்றி அறிய, [Jabatan Imigresen Malaysia](/ta/government/imigresen) பார்க்கவும்.
+
+மலேசியாவுக்குப் புதியவரா? [மலேசியாவுக்கு இடம்பெயர்வதற்கான முதல் படிகளுடன்](/ta/settling-in/moving-to-malaysia-first-steps/) தொடங்குங்கள்.

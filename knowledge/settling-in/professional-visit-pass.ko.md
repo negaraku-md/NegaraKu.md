@@ -131,3 +131,5 @@ PVP의 ESD 신청 수수료는 2024년 9월 1일 발효된 수수료표에 따�
 ## 다음 단계
 
 그 조치가 실제로 말레이시아 회사를 고용주로 만들 것이라면, 올바른 패스는 목적을 넘겨 늘린 PVP가 아니라 [취업 비자](/ko/settling-in/employment-pass)입니다. 외국 국민이 말레이시아에서 일하기 위해 이용할 수 있는 모든 경로 — 취업 비자 범주, DE Rantau 노마드 패스, 거주 패스-인재 포함 — 의 나란한 비교는 [말레이시아 근로 패스 비교](/ko/employment/work-passes-malaysia)를 참조하십시오. 그리고 이 모든 것을 관장하는 부처에 관해서는 [말레이시아 이민국(Jabatan Imigresen Malaysia)](/ko/government/imigresen)을 참조하십시오.
+
+말레이시아가 처음이신가요? [말레이시아 이주 첫걸음](/ko/settling-in/moving-to-malaysia-first-steps/)부터 시작해 보세요.

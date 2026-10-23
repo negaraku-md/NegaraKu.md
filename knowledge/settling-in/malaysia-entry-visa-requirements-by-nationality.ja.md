@@ -165,3 +165,5 @@ eNTRI（Electronic Travel Registration & Information）は、観光目的で渡�
 - **MDACを提出する。** 出発前3日間の窓口内に、公式ポータルのみで行うこと。
 - **eVisaが必要な場合は、** [MYVISAポータル](https://malaysiavisa.imi.gov.my/)で少なくとも2週間前に申請し、到着時に提示できるよう承認書を保管しておくこと。
 - **就労または就学のために来る場合は？** ビザ免除、eVisa、eNTRIのいずれも就労または就学を対象としない——渡航前に正しいエンプロイメントパスまたは学生パスを整えること。
+
+マレーシアは初めてですか？[マレーシア移住の最初のステップ](/ja/settling-in/moving-to-malaysia-first-steps/)から始めましょう。

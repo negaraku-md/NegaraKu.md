@@ -112,3 +112,5 @@ Les chats ne font l'objet d'aucune restriction de race au-delà des conditions g
 Vérifiez le pays d'origine de votre animal au regard de la liste actuelle des pays répertoriés du DVS, inscrivez-vous tôt dans le système SPEED de MAQIS, et réservez l'espace de quarantaine bien avant d'avoir besoin de l'e-Permit : les deux sont liés, et ni l'un ni l'autre n'avance vite si l'autre manque. Si votre chien appartient à une race restreinte, lancez d'abord la procédure d'autorisation du Directeur général, car elle doit être réglée avant même que la demande de permis d'importation ne soit ouverte.
 
 Si vous installez tout le foyer avec un Employment Pass, réglez les [pass de personnes à charge](/fr/settling-in/dependant-social-visit-passes) selon le même calendrier : les dates de quarantaine de l'animal et les autorisations des pass familiaux coïncident rarement la même semaine par hasard.
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

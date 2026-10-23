@@ -167,3 +167,5 @@ Kesimpulan yang realistis: pencegahan jauh lebih murah daripada penyembuhan. Sej
 - Baca panduan terkait [Pas Penggajian](/id/settling-in/employment-pass/), [pas tanggungan dan kunjungan sosial](/id/settling-in/dependant-social-visit-passes/), dan [Pas Pelajar](/id/settling-in/student-pass/) untuk mempertahankan pas dasar yang sah sejak awal.
 
 *Ini adalah draf berbantuan AI untuk informasi umum, bukan nasihat hukum. Jumlah kompaun, program, dan praktik penegakan hukum berubah; konfirmasikan angka terkini dengan Jabatan Imigresen Malaysia sebelum bertindak.*
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

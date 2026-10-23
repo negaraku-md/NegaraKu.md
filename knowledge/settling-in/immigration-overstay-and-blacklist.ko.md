@@ -167,3 +167,5 @@ keywords: ["overstay Malaysia", "immigration blacklist", "Special Pass", "Immigr
 - 애초에 기저의 패스를 유효하게 유지하려면 관련 [취업 비자](/ko/settling-in/employment-pass/), [부양가족 및 사회 방문 패스](/ko/settling-in/dependant-social-visit-passes/), [유학 패스](/ko/settling-in/student-pass/) 안내서를 읽으십시오.
 
 *이는 일반 정보를 위한 AI 보조 초안이며 법률 자문이 아닙니다. 화해 금액, 프로그램, 집행 관행은 변경됩니다. 행동하기 전에 말레이시아 이민국에 현행 수치를 확인하십시오.*
+
+말레이시아가 처음이신가요? [말레이시아 이주 첫걸음](/ko/settling-in/moving-to-malaysia-first-steps/)부터 시작해 보세요.

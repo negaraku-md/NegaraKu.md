@@ -167,3 +167,5 @@ La conclusion réaliste : la prévention est nettement moins coûteuse que le re
 - Lisez les guides connexes [Employment Pass](/fr/settling-in/employment-pass/), [pass de personne à charge et de visite sociale](/fr/settling-in/dependant-social-visit-passes/), et [Student Pass](/fr/settling-in/student-pass/) pour maintenir le pass sous-jacent valide dès le départ.
 
 *Ceci est un brouillon assisté par IA à des fins d'information générale, et non un conseil juridique. Les montants de compound, les programmes et la pratique d'exécution évoluent ; confirmez les chiffres actuels auprès du Département de l'immigration de Malaisie avant d'agir.*
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

@@ -132,3 +132,5 @@ keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employmen
 ## அடுத்தது என்ன
 
 இந்த ஏற்பாடு உண்மையில் மலேசியக் கம்பெனியை முதலாளியாக ஆக்கப்போகிறது எனில், சரியான அனுமதிச் சீட்டு [வேலைவாய்ப்பு அனுமதிச் சீட்டு](/ta/settling-in/employment-pass), தன் நோக்கத்தைத் தாண்டி இழுக்கப்பட்ட ஒரு PVP அல்ல. ஒரு வெளிநாட்டுக் குடிமகன் மலேசியாவில் வேலை செய்யப் பயன்படுத்தக்கூடிய ஒவ்வொரு வழியையும் — வேலைவாய்ப்பு அனுமதிச் சீட்டு வகைகள், DE Rantau Nomad Pass மற்றும் Residence Pass-Talent உட்பட — அருகருகே ஒப்பிட, [மலேசிய வேலை அனுமதிச் சீட்டுகள் ஒப்பீடு](/ta/employment/work-passes-malaysia) பார்க்கவும். மேலும் இவை அனைத்தையும் நிர்வகிக்கும் துறையைப் பற்றி, [Jabatan Imigresen Malaysia](/ta/government/imigresen) பார்க்கவும்.
+
+மலேசியாவுக்குப் புதியவரா? [மலேசியாவுக்கு இடம்பெயர்வதற்கான முதல் படிகளுடன்](/ta/settling-in/moving-to-malaysia-first-steps/) தொடங்குங்கள்.

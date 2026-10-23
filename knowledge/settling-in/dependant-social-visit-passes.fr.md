@@ -100,3 +100,5 @@ Pour la famille parrainée à partir d'un Employment Pass, tant le Dependant Pas
 ## Ce qui suit
 
 Pour le pass parrain auquel les deux se rattachent, voyez [Les pass de travail de Malaisie comparés](/fr/employment/work-passes-malaysia) et [Employment Pass](/fr/employment/employment-pass-malaysia). Pour l'organisme qui les délivre et les administre tous, voyez [Jabatan Imigresen Malaysia](/fr/government/imigresen). Et pour ce qu'un Dependant Pass débloque une fois qu'un membre de la famille est installé, voyez [Ouvrir un compte bancaire en Malaisie](/fr/money-daily-life/opening-bank-account).
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

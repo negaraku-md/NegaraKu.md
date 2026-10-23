@@ -99,3 +99,5 @@ keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Mala
 ## 次のステップ
 
 これら両方のパスが紐づくスポンサーパスについては、[マレーシアの就労パス比較](/ja/employment/work-passes-malaysia)と[エンプロイメントパス（EP）](/ja/employment/employment-pass-malaysia)を参照のこと。これらすべてを発給・管理する機関については、[マレーシア移民局（JIM）](/ja/government/imigresen)を参照のこと。そして、家族が落ち着いた後に扶養家族パス（Dependant Pass）が可能にすることについては、[マレーシアでの銀行口座開設](/ja/money-daily-life/opening-bank-account)を参照のこと。
+
+マレーシアは初めてですか？[マレーシア移住の最初のステップ](/ja/settling-in/moving-to-malaysia-first-steps/)から始めましょう。

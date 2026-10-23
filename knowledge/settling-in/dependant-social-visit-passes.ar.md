@@ -100,3 +100,5 @@ keywords: ["Dependant Pass", "Long-Term Social Visit Pass", "LTSVP", "تصريح
 ## ما الخطوة التالية
 
 للاطّلاع على التصريح الكفيل الذي يرتبط به كلاهما، انظر [مقارنة تصاريح العمل الماليزية](/employment/work-passes-malaysia) و[تصريح العمل (Employment Pass)](/employment/employment-pass-malaysia). وللاطّلاع على الجهة التي تُصدرها جميعًا وتديرها، انظر [دائرة الهجرة الماليزية (Jabatan Imigresen Malaysia)](/government/imigresen). ولمعرفة ما يتيحه تصريح المرافق (Dependant Pass) بمجرد استقرار أحد أفراد الأسرة، انظر [فتح حساب مصرفي في ماليزيا](/money-daily-life/opening-bank-account).
+
+جديد في ماليزيا؟ ابدأ بـ [الخطوات الأولى للانتقال إلى ماليزيا](/ar/settling-in/moving-to-malaysia-first-steps/).

@@ -166,3 +166,5 @@ Lo que no es una cifra publicada única es tu coste total del primer año. Los c
 ## Qué sigue
 
 Una vez endosado tu Pase de Estudiante y con tu i-Kad en mano, los siguientes pasos prácticos suelen ser [abrir una cuenta bancaria malasia](/en/money-daily-life/opening-bank-account) y, si vas a conducir, gestionar un [permiso de conducir como extranjero](/en/transport/driving-licence-foreigners). Para conocer la agencia detrás del propio endoso del Pase de Estudiante, consulta [Departamento de Inmigración de Malasia](/en/government/imigresen).
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

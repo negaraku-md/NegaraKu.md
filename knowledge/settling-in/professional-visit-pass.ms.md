@@ -132,3 +132,5 @@ Bagi pas yang sesingkat ini, jam 30 hari itu tiba dengan cepat. Penempatan dua b
 ## Langkah Seterusnya
 
 Jika susunan itu sebenarnya akan menjadikan syarikat Malaysia sebagai majikan, pas yang betul ialah [Employment Pass](/settling-in/employment-pass), bukan PVP yang diregangkan melebihi tujuan asalnya. Untuk perbandingan sisi demi sisi setiap laluan yang boleh digunakan warganegara asing untuk bekerja di Malaysia — termasuk kategori-kategori Employment Pass, DE Rantau Nomad Pass dan Residence Pass-Talent — lihat [Malaysian Work Passes Compared](/employment/work-passes-malaysia). Dan bagi jabatan yang mentadbir kesemuanya, lihat [Jabatan Imigresen Malaysia](/government/imigresen).
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

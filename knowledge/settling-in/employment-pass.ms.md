@@ -163,3 +163,5 @@ Tiada satu pun daripada ini yang boleh dimulakan oleh anda sendiri, sebagai baka
 Jika anda sedang menunggu tawaran kerja bertukar menjadi pas, tanya majikan anda dua soalan langsung lebih awal: adakah syarikat itu sudah berdaftar dan diaktifkan dengan ESD, dan di bawah kategori manakah permohonan itu difailkan. Kedua-duanya menentukan garis masa realistik anda jauh lebih daripada mana-mana angka hari pemprosesan tunggal.
 
 Untuk jalur gaji semasa dan tempoh kategori yang menentukan tawaran anda jatuh ke dalam tingkatan manakah antara tiga tingkatan itu, lihat [dasar gaji Employment Pass](/employment/employment-pass-malaysia). Jika anda membandingkan Employment Pass dengan pilihan jangka pendek seperti Professional Visit Pass, lihat [perbandingan pas kerja Malaysia](/employment/work-passes-malaysia).
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

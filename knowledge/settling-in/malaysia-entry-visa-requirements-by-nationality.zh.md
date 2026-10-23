@@ -165,3 +165,5 @@ eNTRI（电子旅行登记与信息，Electronic Travel Registration & Informati
 - **提交 MDAC，** 在出发前三天的窗口内，仅在官方门户网站上办理。
 - **如果你需要 eVisa，** 请至少提前两周在 [MYVISA 门户网站](https://malaysiavisa.imi.gov.my/)上申请，并保留批准文件以便抵达时出示。
 - **前来工作或求学？** 免签豁免、eVisa 和 eNTRI 均不涵盖就业或求学——请在出行前办妥正确的工作准证或学生准证。
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

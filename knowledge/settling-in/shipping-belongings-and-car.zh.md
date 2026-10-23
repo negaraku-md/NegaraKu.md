@@ -116,3 +116,5 @@ MITI 并不会把 AP 发给任何一个提出申请的搬迁专业人士。在�
 ## 下一步
 
 如果你正在搬迁，请把这两件事当成两个时间表完全不同、彼此独立的项目来处理：为家居用品的搬运，向持牌的国际搬迁公司索取报价（Form K1 与清单要在货柜启运前就准备好），而——只有在带上你那辆特定的车真的对你很重要时——才在决定运车之前，先向 MITI 核实你的 Individual AP 类别。对大多数外派人员来说，抵达之后在本地买车，最终会比走完这整套流程来得简单；一旦你有了车，[以外国人身份在马来西亚开车](/zh/transport/driving-licence-foreigners)与[家属及社交探访准证](/zh/settling-in/dependant-social-visit-passes)会涵盖安顿下来时，往往在同几周内接踵而至的其他事项。
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

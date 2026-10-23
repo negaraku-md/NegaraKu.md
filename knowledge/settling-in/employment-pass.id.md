@@ -163,3 +163,5 @@ Tidak satu pun dari ini yang dapat dimulai oleh Anda sendiri, sebagai calon peke
 Jika Anda sedang menunggu tawaran kerja berubah menjadi pas, tanyakan kepada pemberi kerja Anda dua pertanyaan langsung lebih awal: apakah perusahaan itu sudah terdaftar dan diaktifkan dengan ESD, dan di bawah kategori mana permohonan itu diajukan. Keduanya menentukan garis waktu realistis Anda jauh lebih banyak daripada angka hari pemrosesan tunggal mana pun.
 
 Untuk rentang gaji terkini dan masa berlaku kategori yang menentukan tawaran Anda jatuh ke tingkatan mana di antara tiga tingkatan itu, lihat [kebijakan gaji Employment Pass](/id/employment/employment-pass-malaysia). Jika Anda membandingkan Employment Pass dengan pilihan jangka pendek seperti Professional Visit Pass, lihat [perbandingan pas kerja Malaysia](/id/employment/work-passes-malaysia).
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

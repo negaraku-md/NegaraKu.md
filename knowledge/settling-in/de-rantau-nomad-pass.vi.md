@@ -113,3 +113,5 @@ Người thân trực hệ có thể đi cùng: vợ/chồng hoặc bạn đời
 ## Tiếp theo
 
 Hãy kiểm tra rằng hộ chiếu của bạn có hơn 14 tháng hiệu lực, tập hợp các giấy tờ thu nhập của bạn bằng tiếng Anh, và bắt đầu đơn trực tuyến tại mdec.my/derantau. Hãy xác nhận phí và quy tắc hiện hành đối chiếu với FAQ chính thức của MDEC trước khi bạn thanh toán, vì các con số và yêu cầu được cập nhật định kỳ.
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

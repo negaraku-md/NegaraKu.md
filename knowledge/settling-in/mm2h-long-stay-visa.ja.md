@@ -137,3 +137,5 @@ MOTACは制度の条件と各等級の要件を定める。しかし、パスを
 ## 次にすべきこと
 
 定期預金を実際に預け入れる銀行口座の開設方法、そして観光パスではなくMM2H承認を得た後は必要書類がどう変わるかについては、[マレーシアでの銀行口座開設](/ja/money-daily-life/opening-bank-account)を参照のこと。最終的にパスを承認し押印する移民当局については、[移民局（Jabatan Imigresen Malaysia）](/ja/government/imigresen)を参照のこと。そして、マレーシアでの就労や事業経営が計画に含まれるのであれば、MM2Hがそれをカバーすると思い込む前に[企業オーナー向けビザ](/ja/business/malaysia-business-visa-comparison)を読むこと。
+
+マレーシアは初めてですか？[マレーシア移住の最初のステップ](/ja/settling-in/moving-to-malaysia-first-steps/)から始めましょう。

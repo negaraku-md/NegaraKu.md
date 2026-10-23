@@ -117,3 +117,5 @@ Ini diajukan secara elektronik, bukan di loket JPJ — data pendaftaran melalui 
 ## Apa selanjutnya
 
 Jika Anda sedang pindah, anggap ini sebagai dua proyek yang sama sekali terpisah pada dua lini masa yang berbeda: dapatkan penawaran harga dari perusahaan pindahan internasional berlisensi untuk pengiriman barang rumah tangga (Form K1 dan inventaris siap jauh sebelum kontainer itu berangkat), dan — hanya jika membawa mobil khusus Anda benar-benar penting bagi Anda — periksa kategori Individual AP Anda dengan MITI sebelum Anda berkomitmen untuk mengirim kendaraan itu sama sekali. Bagi kebanyakan ekspatriat, membeli mobil secara lokal setelah tiba terbukti lebih mudah daripada melalui jalur ini; begitu Anda memilikinya, [mengemudi di Malaysia sebagai warga asing](/id/transport/driving-licence-foreigners) dan [pas kunjungan sosial tanggungan](/id/settling-in/dependant-social-visit-passes) mencakup bagian-bagian lain untuk menetap yang cenderung tiba dalam beberapa minggu yang sama.
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

@@ -99,3 +99,5 @@ keywords: ["Dependant Pass Malaysia", "Long-Term Social Visit Pass", "LTSVP Mala
 ## 다음 단계
 
 이들 패스가 결부되는 후원 패스에 관해서는 [말레이시아 근로 패스 비교](/ko/employment/work-passes-malaysia)와 [취업 비자](/ko/employment/employment-pass-malaysia)를 참조하십시오. 이 모든 것을 발급하고 관장하는 기관에 관해서는 [말레이시아 이민국(Jabatan Imigresen Malaysia)](/ko/government/imigresen)을 참조하십시오. 그리고 가족 구성원이 정착한 후 부양가족 패스가 무엇을 가능하게 하는지에 관해서는 [말레이시아에서 은행 계좌 개설하기](/ko/money-daily-life/opening-bank-account)를 참조하십시오.
+
+말레이시아가 처음이신가요? [말레이시아 이주 첫걸음](/ko/settling-in/moving-to-malaysia-first-steps/)부터 시작해 보세요.

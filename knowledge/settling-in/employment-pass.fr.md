@@ -163,3 +163,5 @@ Rien de tout cela n'est quelque chose que vous, en tant qu'employé potentiel, p
 Si vous attendez qu'une offre se transforme en pass, posez à votre employeur deux questions directes dès le début : l'entreprise est-elle déjà enregistrée et activée auprès de l'ESD, et sous quelle catégorie la demande est-elle déposée. Les deux déterminent votre calendrier réaliste bien plus que n'importe quel chiffre précis de jours de traitement.
 
 Pour les tranches de salaire et les durées de catégorie en vigueur qui décident dans lequel des trois niveaux tombe votre offre, voyez [la politique salariale de l'Employment Pass](/fr/employment/employment-pass-malaysia). Si vous comparez l'Employment Pass à des options à plus court terme comme le Professional Visit Pass, voyez [les pass de travail de Malaisie comparés](/fr/employment/work-passes-malaysia).
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

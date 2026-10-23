@@ -117,3 +117,5 @@ Ini dikemukakan secara elektronik, bukan di kaunter JPJ — data pendaftaran mel
 ## Apa yang seterusnya
 
 Jika anda sedang berpindah, anggap ini sebagai dua projek yang sama sekali berasingan pada dua garis masa yang berbeza: dapatkan sebut harga daripada syarikat pemindahan antarabangsa berlesen untuk penghantaran barangan rumah (Form K1 dan inventori sedia jauh sebelum kontena itu bertolak), dan — hanya jika membawa kereta khusus anda benar-benar penting kepada anda — semak kategori Individual AP anda dengan MITI sebelum anda komited untuk menghantar kenderaan itu langsung. Bagi kebanyakan ekspatriat, membeli kereta secara tempatan selepas tiba didapati lebih mudah daripada melepasi laluan ini; sebaik sahaja anda memilikinya, [memandu di Malaysia sebagai warga asing](/transport/driving-licence-foreigners) dan [pas melawat sosial tanggungan](/settling-in/dependant-social-visit-passes) merangkumi bahagian-bahagian lain untuk menetap yang cenderung tiba dalam beberapa minggu yang sama.
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

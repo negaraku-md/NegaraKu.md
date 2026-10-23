@@ -132,3 +132,5 @@ Pour un pass aussi court, ce délai de 30 jours arrive vite. Une mission de douz
 ## Et ensuite
 
 Si l'arrangement va réellement faire de l'entreprise malaisienne l'employeur, le bon pass est l'[Employment Pass](/fr/settling-in/employment-pass), et non un PVP étiré au-delà de son objet. Pour une comparaison côte à côte de toutes les voies qu'un ressortissant étranger peut utiliser pour travailler en Malaisie — y compris les catégories d'Employment Pass, le DE Rantau Nomad Pass et le Residence Pass-Talent — voir [Les pass de travail de la Malaisie comparés](/fr/employment/work-passes-malaysia). Et pour le département qui les administre tous, voir [Jabatan Imigresen Malaysia](/fr/government/imigresen).
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

@@ -117,3 +117,5 @@ Ceux-ci sont soumis par voie électronique, et non à un guichet du JPJ ; les do
 ## Et ensuite
 
 Si vous vous relocalisez, traitez ces deux projets comme entièrement distincts sur deux calendriers différents : demandez des devis à une entreprise de déménagement international agréée pour l'envoi domestique (formulaire K1 et inventaire prêts bien avant le départ du conteneur) et — seulement si apporter votre voiture précise vous importe vraiment — vérifiez votre catégorie d'AP individuel auprès du MITI avant de vous engager à expédier le véhicule. Pour la plupart des expatriés, acheter une voiture localement après l'arrivée s'avère plus simple que de parcourir cette voie ; une fois que vous en avez une, [conduire en Malaisie en tant qu'étranger](/fr/transport/driving-licence-foreigners) et [laissez-passer de personne à charge et de visite sociale](/fr/settling-in/dependant-social-visit-passes) couvrent les autres pièces de l'installation qui tendent à tomber dans les mêmes quelques semaines.
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

@@ -163,3 +163,5 @@ Nada de esto es algo que usted, como posible empleado, pueda iniciar por sí mis
 Si está esperando que una oferta se convierta en un pase, haga a su empleador dos preguntas directas desde el principio: si la empresa ya está registrada y activada en la ESD, y bajo qué categoría se presenta la solicitud. Ambas determinan su calendario realista mucho más que cualquier cifra concreta de días de tramitación.
 
 Para las bandas salariales y las duraciones de categoría vigentes que deciden en cuál de los tres niveles cae su oferta, vea [la política salarial del Employment Pass](/en/employment/employment-pass-malaysia). Si está comparando el Employment Pass con opciones de más corto plazo como el Professional Visit Pass, vea [los pases de trabajo de Malasia comparados](/en/employment/work-passes-malaysia).
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

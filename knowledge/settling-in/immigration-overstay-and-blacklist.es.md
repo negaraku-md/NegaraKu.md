@@ -167,3 +167,5 @@ La conclusión realista: la prevención es dramáticamente más barata que la cu
 - Lee las guías relacionadas de [Employment Pass](/es/settling-in/employment-pass/), [pases de dependiente y de visita social](/es/settling-in/dependant-social-visit-passes/), y [Student Pass](/es/settling-in/student-pass/) para mantener válido el pase subyacente desde el principio.
 
 *Este es un borrador asistido por IA con fines de información general, no asesoramiento legal. Los importes de compound, los programas y la práctica de fiscalización cambian; confirma las cifras actuales con el Departamento de Inmigración de Malasia antes de actuar.*
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

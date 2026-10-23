@@ -168,3 +168,5 @@ La tarifa del Permiso de Entrada es modesta — la página del Permiso de Entrad
 - **Separa los estatus en tu planificación.** Si tu objetivo es acabar obteniendo la ciudadanía, la PR es la base desde la que construyes; el MM2H no lo es, por mucho tiempo que lo mantengas.
 
 *Este es un borrador asistido por IA recopilado a partir de páginas oficiales del Departamento de Inmigración y del Ministerio del Interior y de reportajes acreditados. Las normas de inmigración cambian y se aplican a discreción del departamento — verifica los requisitos vigentes con el Jabatan Imigresen Malaysia antes de actuar.*
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

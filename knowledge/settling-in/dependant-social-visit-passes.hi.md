@@ -100,3 +100,5 @@ keywords: ["मलेशिया आश्रित पास", "दीर्�
 ## आगे क्या
 
 जिस प्रायोजक पास से ये दोनों जुड़ते हैं उसके लिए, देखें [मलेशियाई कार्य पास की तुलना](/en/employment/work-passes-malaysia) और [रोज़गार पास (Employment Pass)](/en/employment/employment-pass-malaysia)। जो एजेंसी इन सभी को जारी और प्रशासित करती है, उसके लिए देखें [मलेशिया आव्रजन विभाग (Jabatan Imigresen Malaysia)](/en/government/imigresen)। और परिवार के किसी सदस्य के बस जाने पर आश्रित पास (Dependant Pass) क्या खोलता है, इसके लिए देखें [मलेशिया में बैंक खाता खोलना](/en/money-daily-life/opening-bank-account)।
+
+मलेशिया में नए हैं? [मलेशिया जाने के पहले कदम](/hi/settling-in/moving-to-malaysia-first-steps/) से शुरुआत करें।

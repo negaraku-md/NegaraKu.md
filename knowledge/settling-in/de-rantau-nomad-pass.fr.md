@@ -113,3 +113,5 @@ La famille immédiate peut vous accompagner : un conjoint ou partenaire de fait,
 ## Et ensuite
 
 Vérifiez que votre passeport a plus de 14 mois de validité, rassemblez vos documents de revenu en anglais et lancez la demande en ligne sur mdec.my/derantau. Confirmez les frais et les règles en vigueur au regard de la FAQ officielle de MDEC avant de payer, car les chiffres et les exigences sont mis à jour périodiquement.
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

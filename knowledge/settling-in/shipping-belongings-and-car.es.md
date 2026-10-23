@@ -117,3 +117,5 @@ Estos se presentan electrónicamente, no en un mostrador del JPJ; los datos de m
 ## Qué sigue
 
 Si te reubicas, trata estos como dos proyectos totalmente separados en dos calendarios distintos: pide presupuestos a una empresa de mudanzas internacional licenciada para el envío doméstico (con el Formulario K1 y el inventario listos mucho antes de que salga el contenedor) y —solo si traer tu coche concreto de verdad te importa— comprueba tu categoría de AP Individual con el MITI antes de comprometerte a enviar el vehículo. Para la mayoría de los expatriados, comprar un coche localmente tras llegar resulta más sencillo que recorrer esta vía; una vez que tengas uno, [conducir en Malasia como extranjero](/en/transport/driving-licence-foreigners) y [pases de dependiente y de visita social](/en/settling-in/dependant-social-visit-passes) cubren las otras piezas de la instalación que tienden a caer en las mismas pocas semanas.
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

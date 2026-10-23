@@ -165,3 +165,5 @@ Yang bukan satu angka tunggal yang diterbitkan adalah total biaya tahun pertama 
 ## Apa selanjutnya
 
 Begitu Pas Pelajar Anda diendos dan i-Kad Anda sudah di tangan, langkah praktis berikutnya biasanya adalah [membuka rekening bank Malaysia](/id/money-daily-life/opening-bank-account) dan, jika Anda akan mengemudi, mengurus [SIM mengemudi sebagai warga asing](/id/transport/driving-licence-foreigners). Untuk agensi di balik endos Pas Pelajar itu sendiri, lihat [Jabatan Imigresen Malaysia](/id/government/imigresen).
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

@@ -168,3 +168,5 @@ Phí Giấy phép Nhập cư khiêm tốn — trang Giấy phép Nhập cư củ
 - **Tách các tình trạng ra trong việc lên kế hoạch của bạn.** Nếu mục tiêu của bạn là quốc tịch cuối cùng, PR là nền tảng bạn xây dựng từ đó; MM2H thì không, dù bạn giữ nó bao lâu.
 
 *Đây là một bản thảo do AI hỗ trợ được biên soạn từ các trang chính thức của Cục Di trú và Bộ Nội vụ cùng các bài đưa tin có uy tín. Các quy tắc di trú thay đổi và được áp dụng theo quyền tùy quyết của cục — hãy xác minh các yêu cầu hiện hành với Jabatan Imigresen Malaysia trước khi hành động.*
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

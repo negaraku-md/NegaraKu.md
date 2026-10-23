@@ -132,3 +132,5 @@ Kể từ ngày **18 tháng 11 năm 2025**, một yêu cầu được xây dựn
 ## Tiếp theo
 
 Nếu thu xếp thực sự sẽ khiến công ty Malaysia trở thành người sử dụng lao động, giấy phép đúng đắn là [Employment Pass](/vi/settling-in/employment-pass), chứ không phải một PVP bị kéo dài vượt quá mục đích của nó. Để có một so sánh song song mọi lối đi mà một người nước ngoài có thể dùng để làm việc tại Malaysia — bao gồm các hạng mục Employment Pass, DE Rantau Nomad Pass và Residence Pass-Talent — hãy xem [So sánh các giấy phép lao động của Malaysia](/vi/employment/work-passes-malaysia). Và đối với cục quản lý tất cả chúng, hãy xem [Jabatan Imigresen Malaysia](/vi/government/imigresen).
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

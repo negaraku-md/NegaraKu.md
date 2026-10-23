@@ -100,3 +100,5 @@ Para la familia patrocinada a partir de un Employment Pass, tanto el Dependant P
 ## Qué sigue
 
 Para el pase patrocinador al que ambos se vinculan, vea [Pases de trabajo de Malasia comparados](/en/employment/work-passes-malaysia) y [Employment Pass](/en/employment/employment-pass-malaysia). Para el organismo que los expide y administra todos, vea [Jabatan Imigresen Malaysia](/en/government/imigresen). Y para lo que un Dependant Pass desbloquea una vez que un familiar se establece, vea [Abrir una cuenta bancaria en Malasia](/en/money-daily-life/opening-bank-account).
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

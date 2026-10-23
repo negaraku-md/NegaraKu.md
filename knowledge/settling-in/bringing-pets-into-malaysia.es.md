@@ -112,3 +112,5 @@ Los gatos no afrontan ninguna restricción de raza más allá de las condiciones
 Confirme el país de origen de su mascota frente a la lista actual de países programados del DVS, regístrese pronto en el sistema SPEED de MAQIS y reserve el espacio de cuarentena mucho antes de necesitar el e-Permit: ambos están vinculados y ninguno avanza rápido si falta el otro. Si su perro pertenece a una raza restringida, inicie primero el proceso de aprobación del Director General, ya que debe quedar resuelto antes incluso de que se abra la solicitud del permiso de importación.
 
 Si traslada a toda la familia con un Employment Pass, resuelva los [pases de dependientes](/en/settling-in/dependant-social-visit-passes) en el mismo calendario: las fechas de cuarentena de la mascota y las aprobaciones de los pases familiares rara vez coinciden en la misma semana por casualidad.
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

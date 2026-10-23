@@ -165,3 +165,5 @@ Cục Nhập cư công bố lệ phí Giấy phép Sinh viên theo luật địn
 ## Tiếp theo
 
 Một khi Giấy phép Sinh viên của bạn được xác nhận và i-Kad của bạn đã trong tay, các bước thực tế tiếp theo thường là [mở một tài khoản ngân hàng Malaysia](/vi/money-daily-life/opening-bank-account) và, nếu bạn sẽ lái xe, lo liệu một [giấy phép lái xe với tư cách người nước ngoài](/vi/transport/driving-licence-foreigners). Về cơ quan đứng sau chính việc xác nhận Giấy phép Sinh viên, hãy xem [Jabatan Imigresen Malaysia](/vi/government/imigresen).
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

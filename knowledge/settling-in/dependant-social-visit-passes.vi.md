@@ -100,3 +100,5 @@ Sự phụ thuộc đó chỉ chạy theo một chiều. Người giữ Dependan
 ## Tiếp theo
 
 Đối với giấy phép bảo lãnh mà cả hai gắn vào, hãy xem [So sánh các giấy phép lao động Malaysia](/vi/employment/work-passes-malaysia) và [Employment Pass](/vi/employment/employment-pass-malaysia). Đối với cơ quan cấp và quản lý tất cả chúng, hãy xem [Jabatan Imigresen Malaysia](/vi/government/imigresen). Và để biết một Dependant Pass mở ra những gì một khi một thành viên gia đình đã ổn định, hãy xem [Mở tài khoản ngân hàng tại Malaysia](/vi/money-daily-life/opening-bank-account).
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

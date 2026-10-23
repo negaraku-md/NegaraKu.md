@@ -165,3 +165,5 @@ Education Malaysia Global Services (EMGS) شركة محدودة بالضمان �
 ## ما الخطوة التالية
 
 بمجرد إثبات تصريح الطالب الخاص بك وحصولك على بطاقة i-Kad، تكون الخطوات العملية التالية عادةً [فتح حساب مصرفي ماليزي](/money-daily-life/opening-bank-account) و — إن كنت ستقود — ترتيب [رخصة القيادة بصفتك أجنبيًا](/transport/driving-licence-foreigners). وللاطلاع على الجهة التي تقف وراء إثبات تصريح الطالب نفسه، انظر [دائرة الهجرة الماليزية](/government/imigresen).
+
+جديد في ماليزيا؟ ابدأ بـ [الخطوات الأولى للانتقال إلى ماليزيا](/ar/settling-in/moving-to-malaysia-first-steps/).

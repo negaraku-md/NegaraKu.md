@@ -168,3 +168,5 @@ Yuran Permit Masuk adalah sederhana — halaman Permit Masuk Jabatan Imigresen m
 - **Asingkan status-status ini dalam perancangan anda.** Jika matlamat anda ialah kewarganegaraan pada akhirnya, PR ialah asas yang anda bina; MM2H tidak, walau berapa lama pun anda memegangnya.
 
 *Ini ialah draf berbantukan AI yang disusun daripada halaman rasmi Jabatan Imigresen dan Kementerian Dalam Negeri serta laporan yang berwibawa. Peraturan imigresen berubah dan dilaksanakan mengikut budi bicara jabatan — sahkan syarat semasa dengan Jabatan Imigresen Malaysia sebelum bertindak.*
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

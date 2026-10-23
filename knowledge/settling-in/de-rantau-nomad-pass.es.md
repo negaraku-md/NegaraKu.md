@@ -113,3 +113,5 @@ La familia inmediata puede acompañarlo: un cónyuge o pareja de hecho, los hijo
 ## Qué sigue
 
 Compruebe que su pasaporte tiene más de 14 meses de validez, reúna sus documentos de ingresos en inglés e inicie la solicitud en línea en mdec.my/derantau. Confirme las tasas y reglas vigentes frente a las preguntas frecuentes oficiales de MDEC antes de pagar, ya que las cifras y los requisitos se actualizan periódicamente.
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

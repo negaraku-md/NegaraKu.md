@@ -220,3 +220,5 @@ Pour l'autorité d'immigration qui, en dernier ressort, approuve et appose le pa
 entreprise en Malaisie fait partie du projet, lisez
 [Visas pour les chefs d'entreprise](/en/business/malaysia-business-visa-comparison) avant
 de supposer que MM2H le couvre.
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

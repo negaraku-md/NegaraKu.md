@@ -132,3 +132,5 @@ Para un pase tan corto, ese reloj de 30 días llega rápido. Una comisión de se
 ## Qué sigue
 
 Si el arreglo va a convertir realmente a la empresa malasia en el empleador, el pase correcto es el [Employment Pass](/en/settling-in/employment-pass), no un PVP estirado más allá de su propósito. Para una comparación lado a lado de todas las vías que un ciudadano extranjero puede usar para trabajar en Malasia — incluidas las categorías de Employment Pass, el DE Rantau Nomad Pass y el Residence Pass-Talent — véase [Pases de trabajo de Malasia comparados](/en/employment/work-passes-malaysia). Y para el departamento que administra todos ellos, véase [Jabatan Imigresen Malaysia](/en/government/imigresen).
+
+¿Recién llegado a Malasia? Empieza por [los primeros pasos para mudarte a Malasia](/es/settling-in/moving-to-malaysia-first-steps/).

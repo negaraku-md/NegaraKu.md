@@ -112,3 +112,5 @@ Mèo không chịu hạn chế về giống ngoài các điều kiện chung ở
 Hãy xác nhận nước xuất xứ của thú cưng đối chiếu với danh sách các nước trong danh mục hiện hành của DVS, đăng ký sớm trong hệ thống SPEED của MAQIS, và đặt chỗ cách ly từ rất lâu trước khi bạn cần e-Permit — hai điều này liên kết với nhau, và không cái nào tiến nhanh nếu thiếu cái kia. Nếu con chó của bạn thuộc một giống bị hạn chế, hãy bắt đầu quy trình phê duyệt của Tổng Giám đốc trước tiên, vì nó phải được thông qua trước khi đơn xin giấy phép nhập khẩu thậm chí được mở.
 
 Nếu bạn đang chuyển cả gia đình theo một Employment Pass, hãy thu xếp [giấy phép cho người phụ thuộc](/vi/settling-in/dependant-social-visit-passes) trên cùng một dòng thời gian — ngày cách ly thú cưng và việc phê duyệt giấy phép cho gia đình hiếm khi tình cờ rơi vào cùng một tuần.
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

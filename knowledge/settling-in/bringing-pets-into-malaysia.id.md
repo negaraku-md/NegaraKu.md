@@ -112,3 +112,5 @@ Kucing tidak menghadapi pembatasan ras apa pun selain syarat umum di atas. Anjin
 Konfirmasikan negara asal hewan peliharaan Anda terhadap daftar negara berjadwal DVS yang terkini, daftar dalam sistem SPEED MAQIS sejak awal, dan pesan ruang karantina jauh sebelum Anda memerlukan e-Permit — keduanya saling berkaitan, dan tidak satu pun bergerak cepat jika yang lain tidak ada. Jika anjing Anda tergolong dalam ras terbatas, mulailah proses persetujuan Direktur Jenderal terlebih dahulu, karena harus disetujui sebelum permohonan izin impor pun dapat dibuka.
 
 Jika Anda pindah bersama seisi keluarga dengan Employment Pass, urus [pas kunjungan sosial tanggungan](/id/settling-in/dependant-social-visit-passes) mengikuti garis waktu yang sama — tanggal karantina hewan peliharaan dan persetujuan pas keluarga jarang jatuh pada minggu yang sama secara kebetulan.
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

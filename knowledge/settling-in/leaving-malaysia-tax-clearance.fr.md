@@ -106,3 +106,5 @@ Les travailleurs étrangers titulaires d'un Temporary Employment Visit Pass ont 
 ## Et ensuite
 
 Pour le volet employeur de ce même devoir — les délais légaux exacts, la règle de retenue de 90 jours en entier, et ce qui se passe en cas de manquement — voir [Quitus fiscal : CP21, CP22A et la règle des 90 jours](/en/taxation/tax-clearance) et la [Liste de vérification statutaire de l'offboarding](/en/employment/offboarding-statutory-checklist). Si votre pass est spécifiquement un Employment Pass, voir [Employment Pass](/en/employment/employment-pass-malaysia) pour comprendre le fonctionnement du parrainage et de l'annulation. Et si vous êtes du côté opposé de ce mouvement — arrivant plutôt que partant — [S'installer en Malaisie : l'ordre pour régler votre pass, l'entrée et les formalités de la première semaine](/en/settling-in/moving-to-malaysia-first-steps) couvre les mêmes formalités en sens inverse.
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).

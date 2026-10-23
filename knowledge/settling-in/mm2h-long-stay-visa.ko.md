@@ -138,3 +138,5 @@ MOTAC가 프로그램의 조건과 각 등급의 요건을 정합니다. 그러�
 ## 다음 단계
 
 정기예금이 실제로 들어 있는 은행 계좌를 개설하고, 관광 패스가 아니라 MM2H 승인을 보유하면 서류 점검표가 어떻게 달라지는지 보려면 [말레이시아에서 은행 계좌 개설하기](/ko/money-daily-life/opening-bank-account)를 참조하십시오. 궁극적으로 패스를 승인하고 찍는 이민 당국에 관해서는 [말레이시아 이민국(Jabatan Imigresen Malaysia)](/ko/government/imigresen)을 참조하십시오. 그리고 말레이시아에서 일하거나 사업하는 것이 계획의 일부라면, MM2H가 그것을 커버한다고 가정하기 전에 [사업주를 위한 비자](/ko/business/malaysia-business-visa-comparison)를 읽으십시오.
+
+말레이시아가 처음이신가요? [말레이시아 이주 첫걸음](/ko/settling-in/moving-to-malaysia-first-steps/)부터 시작해 보세요.

@@ -165,3 +165,5 @@ Hai lời cảnh báo. Thứ nhất, MDAC không thay thế một visa: nếu qu
 - **Nộp MDAC** trong cửa sổ ba ngày trước khi khởi hành, chỉ trên cổng chính thức.
 - **Nếu bạn cần một eVisa,** hãy nộp đơn trên [cổng MYVISA](https://malaysiavisa.imi.gov.my/) ít nhất hai tuần trước và giữ sự phê duyệt để xuất trình khi đến.
 - **Đến để làm việc hoặc học tập?** Không việc miễn visa, một eVisa hay eNTRI nào bao trùm việc làm hoặc học tập — hãy thu xếp employment pass hoặc student pass đúng đắn trước khi bạn đi lại.
+
+Mới đến Malaysia? Bắt đầu với [các bước đầu tiên khi chuyển đến Malaysia](/vi/settling-in/moving-to-malaysia-first-steps/).

@@ -165,3 +165,5 @@ Dua peringatan. Pertama, MDAC tidak menggantikan visa: jika kewarganegaraan anda
 - **Hantar MDAC** dalam tempoh tiga hari sebelum berlepas, di portal rasmi sahaja.
 - **Jika anda memerlukan eVisa,** mohon di [portal MYVISA](https://malaysiavisa.imi.gov.my/) sekurang-kurangnya dua minggu lebih awal dan simpan kelulusan untuk ditunjukkan semasa ketibaan.
 - **Datang untuk bekerja atau belajar?** Pengecualian visa, eVisa mahupun eNTRI tidak meliputi pekerjaan atau pengajian — uruskan pas pekerjaan atau pas pelajar yang betul sebelum anda mengembara.
+
+Baru ke Malaysia? Mulakan dengan [langkah pertama berpindah ke Malaysia](/settling-in/moving-to-malaysia-first-steps/).

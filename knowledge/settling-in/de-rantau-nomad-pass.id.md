@@ -113,3 +113,5 @@ Keluarga terdekat dapat ikut dengan Anda: pasangan atau pasangan de facto, anak 
 ## Apa selanjutnya
 
 Pastikan paspor Anda memiliki masa berlaku lebih dari 14 bulan, kumpulkan dokumen pendapatan Anda dalam bahasa Inggris, dan mulai permohonan daring di mdec.my/derantau. Konfirmasikan biaya dan peraturan terkini dengan FAQ resmi MDEC sebelum Anda membayar, karena angka dan persyaratan diperbarui dari waktu ke waktu.
+
+Baru di Malaysia? Mulai dengan [langkah pertama pindah ke Malaysia](/id/settling-in/moving-to-malaysia-first-steps/).

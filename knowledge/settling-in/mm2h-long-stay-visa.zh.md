@@ -184,3 +184,5 @@ SEZ/SFZ 的 RM300 到 Platinum 的 RM5,000 不等。续期申请需要有效护�
 [移民局（Jabatan Imigresen Malaysia）](/zh/government/imigresen)。若在马来西亚
 工作或经营生意也是计划的一部分，请在假定 MM2H 能涵盖这一点之前，先阅读
 [企业主签证](/zh/business/malaysia-business-visa-comparison)。
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

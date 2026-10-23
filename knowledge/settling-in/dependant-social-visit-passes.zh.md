@@ -99,3 +99,5 @@ Dependant Pass 是较窄、也较自动的路线：它专门为 Employment Pass 
 ## 下一步
 
 关于这两种准证所依附的保荐准证，见[马来西亚各类工作准证比较](/zh/employment/work-passes-malaysia)与 [Employment Pass](/zh/employment/employment-pass-malaysia)。关于签发并管理这一切的机构，见[大马移民局](/zh/government/imigresen)。而关于家属在马来西亚安顿下来后，Dependant Pass 能带来什么，见[在马来西亚开设银行账户](/zh/money-daily-life/opening-bank-account)。
+
+初来马来西亚？先看[移居马来西亚的第一步](/zh/settling-in/moving-to-malaysia-first-steps/)。

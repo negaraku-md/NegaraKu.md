@@ -165,3 +165,5 @@ Deux mises en garde. Premièrement, la MDAC ne remplace pas un visa : si votre n
 - **Soumettez la MDAC** dans la fenêtre de trois jours avant le départ, uniquement sur le portail officiel.
 - **Si vous avez besoin d'un eVisa,** faites-en la demande sur le [portail MYVISA](https://malaysiavisa.imi.gov.my/) au moins deux semaines à l'avance et conservez l'approbation à présenter à l'arrivée.
 - **Vous venez travailler ou étudier ?** Ni une exemption de visa, ni un eVisa, ni l'eNTRI ne couvrent l'emploi ou les études — organisez le bon pass d'emploi ou pass d'étudiant avant de voyager.
+
+Nouveau en Malaisie ? Commencez par [les premières étapes pour s’installer en Malaisie](/fr/settling-in/moving-to-malaysia-first-steps/).
