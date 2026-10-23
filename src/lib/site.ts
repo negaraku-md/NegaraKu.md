@@ -3,6 +3,11 @@
 export const SITE = 'https://negaraku.md';
 export const REPO = 'https://github.com/negaraku-md/NegaraKu.md';
 
+/** The open-data mirror: the corpus as a Hugging Face dataset (see
+    scripts/export-hf-dataset.mjs). Surfaced in the footer's "For AI" column so
+    both people and crawlers can find it. */
+export const HF_DATASET = 'https://huggingface.co/datasets/negaraku-md/negaraku-md';
+
 /** Endpoint for the contribution form (e.g. a Formspree form URL like
     "https://formspree.io/f/abcdwxyz", or any handler that accepts a POST).
     Leave it EMPTY to keep the no-backend behaviour: the contribute form opens a

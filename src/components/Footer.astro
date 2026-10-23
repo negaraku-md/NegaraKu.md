@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
-import { REPO, GA_MEASUREMENT_ID } from '@/lib/site';
+import { REPO, HF_DATASET, GA_MEASUREMENT_ID } from '@/lib/site';
 
 interface Props {
   locale: Locale;
@@ -35,6 +35,7 @@ const cols = [
     links: [
       { label: 'llms.txt', href: localePath('/llms', locale) },
       { label: 'GitHub', href: REPO, ext: true },
+      { label: 'Dataset (Hugging Face)', href: HF_DATASET, ext: true },
     ],
   },
 ];

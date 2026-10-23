@@ -114,6 +114,27 @@ const perLangConfigs = LANGS.map(
 const counts = LANGS.map((l) => `\`${l}\`: ${rows[l].length}`).join(' · ');
 const langYaml = LANGS.map((l) => `- ${l}`).join('\n');
 const langCodes = LANGS.map((l) => `\`${l}\``).join(' · ');
+const perLang = rows['en'].length; // the corpus is parallel: every language has this many rows
+
+// HF size_categories facet — derive from the real row count so it never goes
+// stale (hard-coding it wrong hides the dataset from HF's size filter).
+function sizeCategory(n) {
+  if (n < 1e3) return 'n<1K';
+  if (n < 1e4) return '1K<n<10K';
+  if (n < 1e5) return '10K<n<100K';
+  if (n < 1e6) return '100K<n<1M';
+  return 'n>1M';
+}
+
+// A real, trimmed example row so the card shows the actual shape (prefer one
+// with an answer + a QID so the richer fields are visible).
+const exRow = rows['en'].find((r) => r.answer && r.wikidata) || rows['en'][0];
+const example = exRow
+  ? JSON.stringify(
+      { ...exRow, key_takeaways: exRow.key_takeaways.slice(0, 2), sources: exRow.sources.slice(0, 1), content: exRow.content.slice(0, 180).replace(/\s+\S*$/, '') + ' …' },
+      null, 2,
+    )
+  : '{}';
 
 const card = `---
 license: cc-by-sa-4.0
@@ -121,19 +142,35 @@ language:
 ${langYaml}
 multilinguality:
 - multilingual
+language_creators:
+- expert-generated
+- machine-generated
+annotations_creators:
+- expert-generated
+- machine-generated
 pretty_name: NegaraKu.md — Malaysia Knowledge Base
 tags:
 - malaysia
+- southeast-asia
 - knowledge-base
 - multilingual
+- parallel-corpus
+- cross-lingual
 - rag
 - question-answering
+- government
+- law
+- taxation
+- finance
+- culture
 task_categories:
 - text-generation
 - question-answering
 - text-retrieval
+- translation
+- summarization
 size_categories:
-- 1K<n<10K
+- ${sizeCategory(total)}
 source_datasets:
 - original
 configs:
@@ -146,7 +183,7 @@ ${perLangConfigs}
 
 # NegaraKu.md — an open, AI-friendly knowledge base about Malaysia
 
-**${total.toLocaleString()} articles** across ${LANGS.length} languages (${counts}), covering
+**${total.toLocaleString()} rows** — **${perLang.toLocaleString()} articles in each of ${LANGS.length} languages** (${counts}) — covering
 government, law, taxation, business, companies, culture, geography, history,
 healthcare, education, and daily life in Malaysia. Every article is
 human-reviewable, cited, and released under a permissive licence so it can be
@@ -156,12 +193,26 @@ This dataset is the open-data mirror of the website
 [negaraku.md](${SITE}). The mission is simple: **let the world — and AI — know
 about Malaysia**, from primary and authoritative sources.
 
-## Fields
+> **Parallel corpus.** The ${LANGS.length} languages are fully aligned: each of the
+> ${perLang.toLocaleString()} articles exists in every language and the versions share a
+> \`topic_id\`. That makes this a ready-made **cross-lingual / machine-translation**
+> resource for Malay, Chinese, Tamil and nine other languages — not just a
+> monolingual knowledge base. See [Cross-lingual use](#cross-lingual-use).
+
+## Dataset structure
+
+- **Splits:** one \`train\` split. Load all languages with the \`default\` config, or
+  one language via its config name (\`en\`, \`zh\`, …).
+- **Rows:** ${total.toLocaleString()} total, ${perLang.toLocaleString()} per language.
+- **Alignment:** rows with the same \`topic_id\` are the same article in different
+  languages.
+
+### Fields
 
 | field | description |
 |---|---|
 | \`id\` | stable id — \`<topic_id>.<language>\` |
-| \`topic_id\` | topic id shared across an article's language versions |
+| \`topic_id\` | topic id shared across an article's language versions (the alignment key) |
 | \`title\` | article title |
 | \`summary\` | one-paragraph summary |
 | \`answer\` | the concise, liftable direct answer (may be empty) |
@@ -172,11 +223,17 @@ about Malaysia**, from primary and authoritative sources.
 | \`language\` | ${langCodes} |
 | \`url\` | canonical URL on negaraku.md |
 | \`entity\` | the primary entity the article is about |
-| \`wikidata\` | the entity's Wikidata QID, when known (${withQid} rows) — links each article to the global knowledge graph |
+| \`wikidata\` | the entity's Wikidata QID, when known (${withQid.toLocaleString()} rows) — links each article to the global knowledge graph |
 | \`sources\` | list of \`{title, url, publisher, date}\` citations |
 | \`updated\` | last-updated date (\`YYYY-MM-DD\`) |
 | \`content\` | the full article body in Markdown |
 | \`license\` | \`${LICENSE}\` |
+
+### Example (one row, trimmed)
+
+\`\`\`json
+${example}
+\`\`\`
 
 ## Usage
 
@@ -190,10 +247,48 @@ ds = load_dataset("${HF_REPO}", split="train")
 en = load_dataset("${HF_REPO}", "en", split="train")
 \`\`\`
 
+### Cross-lingual use
+
+Because the corpus is parallel, you can align any two languages on \`topic_id\`
+to build translation / cross-lingual pairs:
+
+\`\`\`python
+import pandas as pd
+from datasets import load_dataset
+
+en = load_dataset("${HF_REPO}", "en", split="train").to_pandas().set_index("topic_id")
+ms = load_dataset("${HF_REPO}", "ms", split="train").to_pandas().set_index("topic_id")
+
+pairs = en[["title", "summary"]].join(
+    ms[["title", "summary"]], lsuffix="_en", rsuffix="_ms"
+)
+print(pairs[["title_en", "title_ms"]].head())
+\`\`\`
+
 ## Languages
 
 ${langCodes} — Bahasa Melayu (\`ms\`) is the default and serves at the site root.
-Language versions of the same article share a \`topic_id\`.
+It spans high- and lower-resource languages (e.g. Tamil \`ta\`, Thai \`th\`,
+Vietnamese \`vi\`, Arabic \`ar\` — right-to-left), each a full translation of the
+same ${perLang.toLocaleString()} articles.
+
+## Uses
+
+- **RAG / retrieval** over authoritative Malaysia content (use \`content\`, cite \`url\`).
+- **Question answering** — \`answer\` and \`key_takeaways\` are written to be liftable.
+- **Training / fine-tuning** a Malaysia-aware or multilingual model.
+- **Machine translation & cross-lingual** research via the \`topic_id\` alignment.
+
+## Limitations & responsible use
+
+- Articles are **AI-drafted from authoritative sources and human-reviewable**,
+  not authored by subject-matter experts end-to-end. Verify against the cited
+  primary \`sources\` before relying on them for legal, tax, medical or other
+  high-stakes decisions — the content is **informational, not professional advice**.
+- Coverage reflects editorial priorities and will have gaps; \`updated\` shows
+  recency, and figures or laws may change after that date.
+- Translations are produced with AI assistance; the \`ms\`/\`en\` masters are the
+  most authoritative where wording matters.
 
 ## Licence & attribution
 
