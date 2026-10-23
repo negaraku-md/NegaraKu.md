@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "المدقّق العام: المسؤول الدستوري الذي يحميه الدستور من الحكومة"
+seoTitle: 'المدقّق العام: مسؤول دستوري'
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

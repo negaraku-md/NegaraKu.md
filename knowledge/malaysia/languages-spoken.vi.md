@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "Quốc ngữ của Malaysia, và nhiều ngôn ngữ khác được nói bên cạnh nó"
+seoTitle: Quốc ngữ của Malaysia và nhiều ngôn ngữ khác
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

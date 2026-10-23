@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "सिंगापुर ने मलेशिया को कैसे छोड़ा: पृथक्करण दस्तावेज़ वास्तव में क्या कहते हैं"
+seoTitle: सिंगापुर ने मलेशिया को कैसे छोड़ा
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

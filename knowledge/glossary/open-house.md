@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0027
 title: "Rumah Terbuka: Apabila Perayaan Satu Kaum Menjadi Jemputan Semua"
+seoTitle: 'Rumah Terbuka: Apabila Perayaan Menjadi Jemputan Semua'
 slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]

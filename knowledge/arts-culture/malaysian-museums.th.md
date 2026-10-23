@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0046
 title: "พิพิธภัณฑ์ของมาเลเซีย: สิ่งที่มูเซียมเนอการา พิพิธภัณฑ์ศิลปะอิสลาม และพิพิธภัณฑ์ประจำรัฐเก็บรักษาไว้จริง ๆ"
+seoTitle: พิพิธภัณฑ์ของมาเลเซีย
 slug: "malaysian-museums"
 category: "arts-culture"
 subcategory: ["heritage"]

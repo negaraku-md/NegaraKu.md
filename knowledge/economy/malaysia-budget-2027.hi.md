@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0035
 title: "मलेशिया बजट 2027: आपके लिए क्या बदला, और यह कब प्रभावी होता है"
+seoTitle: 'मलेशिया बजट 2027: आपके लिए क्या बदला'
 slug: "malaysia-budget-2027"
 category: "economy"
 subcategory: ["policy"]

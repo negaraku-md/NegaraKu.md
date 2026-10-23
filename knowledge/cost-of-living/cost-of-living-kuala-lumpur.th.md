@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0077
 title: "ทำไมกัวลาลัมเปอร์จึงเป็นสถานที่ที่แพงที่สุดในการใช้ชีวิตของมาเลเซีย"
+seoTitle: 'กัวลาลัมเปอร์: เมืองที่แพงที่สุดในมาเลเซีย'
 slug: "cost-of-living-kuala-lumpur"
 category: "cost-of-living"
 subcategory: ["by-city"]

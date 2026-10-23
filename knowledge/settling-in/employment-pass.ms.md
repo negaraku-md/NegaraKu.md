@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "Employment Pass: Visa Kerja yang Anda Tidak Boleh Mohon Sendiri"
+seoTitle: 'Employment Pass: Visa Kerja Tidak Boleh Mohon Sendiri'
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

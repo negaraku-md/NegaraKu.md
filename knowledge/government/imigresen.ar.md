@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "دائرة الهجرة الماليزية: الدائرة التي تقرر من يدخل ومن يبقى ومن يغادر"
+seoTitle: دائرة الهجرة الماليزية
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

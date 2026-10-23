@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0008
 title: "Elektronik dan Semikonduktor: Sektor yang Menopang Ekspor Malaysia"
+seoTitle: Elektronik dan Semikonduktor
 slug: "electronics-semiconductors"
 category: "economy"
 subcategory: ["sectors"]

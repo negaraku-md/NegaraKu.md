@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0008
 title: "อิเล็กทรอนิกส์และเซมิคอนดักเตอร์: ภาคที่แบกการส่งออกของมาเลเซีย"
+seoTitle: อิเล็กทรอนิกส์และเซมิคอนดักเตอร์
 slug: "electronics-semiconductors"
 category: "economy"
 subcategory: ["sectors"]

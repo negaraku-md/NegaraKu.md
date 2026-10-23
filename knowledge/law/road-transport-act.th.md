@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "พระราชบัญญัติการขนส่งทางถนน 1987 (Act 333): กฎหมายเบื้องหลังใบอนุญาตขับขี่และป้ายทะเบียนทุกใบ"
+seoTitle: พระราชบัญญัติการขนส่งทางถนน 1987 (Act 333)
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

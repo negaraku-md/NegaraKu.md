@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0012
 title: "देवान राक्यात (Dewan Rakyat): 222 सीटें संघीय कानून में कैसे बदलती हैं"
+seoTitle: देवान राक्यात (Dewan Rakyat)
 slug: "dewan-rakyat"
 category: "government"
 subcategory: ["institutions"]

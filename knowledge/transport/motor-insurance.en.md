@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "Motor Insurance in Malaysia: Why Third-Party Cover Is Mandatory and How It Ties to Road Tax"
+seoTitle: Motor Insurance in Malaysia
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

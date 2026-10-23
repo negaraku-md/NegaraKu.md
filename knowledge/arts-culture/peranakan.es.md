@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0031
 title: "La cultura peranakan: el mundo baba-nyonya de Melaka y Penang"
+seoTitle: La cultura peranakan
 slug: "peranakan"
 category: "arts-culture"
 subcategory: ["heritage"]

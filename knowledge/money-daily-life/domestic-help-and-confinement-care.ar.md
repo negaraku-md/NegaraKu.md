@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0072
 title: "المساعدة المنزلية ورعاية فترة النفاس في ماليزيا: الخيارات، ومن ينظّمها فعلًا"
+seoTitle: المساعدة المنزلية ورعاية فترة النفاس في ماليزيا
 slug: "domestic-help-and-confinement-care"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

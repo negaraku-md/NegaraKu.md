@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0015
 title: "Labuan: Wilayah Persekutuan yang Memiliki Undang-Undang Pajaknya Sendiri"
+seoTitle: 'Labuan: Wilayah Persekutuan, Undang-Undang Pajak Sendiri'
 slug: "labuan"
 category: "states"
 subcategory: ["territories"]

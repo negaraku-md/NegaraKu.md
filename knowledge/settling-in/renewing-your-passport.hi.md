@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "मलेशियाई पासपोर्ट का नवीनीकरण: MyOnline Passport, UTC काउंटर, या आप्रवासन कार्यालय"
+seoTitle: मलेशियाई पासपोर्ट का नवीनीकरण
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

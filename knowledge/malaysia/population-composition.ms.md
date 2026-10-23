@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "Populasi Malaysia: Kategori Warganegara dan Etnik yang Sebenarnya Diterbitkan oleh DOSM"
+seoTitle: 'Populasi Malaysia: Kategori Warganegara dan Etnik'
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "Pemerintahan Lokal (PBT): Majlis Bandaraya, Perbandaran dan Daerah di Bawah Akta 171"
+seoTitle: Pemerintahan Lokal (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

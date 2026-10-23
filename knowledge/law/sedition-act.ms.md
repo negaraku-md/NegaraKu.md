@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0050
 title: "Sedition Act 1948: Apa yang Ditakrifkan oleh Undang-Undang Malaysia sebagai Kecenderungan Menghasut"
+seoTitle: 'Sedition Act 1948: Apa itu Kecenderungan Menghasut'
 slug: "sedition-act"
 category: "law"
 subcategory: ["key-acts"]

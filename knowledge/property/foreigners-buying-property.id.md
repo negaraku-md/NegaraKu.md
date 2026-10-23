@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "Bisakah Warga Asing Membeli Properti di Malaysia? Harga Minimum dan Persetujuan Negeri Diuraikan"
+seoTitle: Bisakah Warga Asing Membeli Properti di Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

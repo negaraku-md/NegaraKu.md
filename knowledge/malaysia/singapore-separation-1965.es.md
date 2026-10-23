@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "Cómo Singapur salió de Malasia: lo que dicen realmente los documentos de la separación"
+seoTitle: Cómo Singapur salió de Malasia
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

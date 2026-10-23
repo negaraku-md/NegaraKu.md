@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0060
 title: "Suruhanjaya Reid: Bagaimana Lima Ahli Hukum Persemakmuran Merancang Konstitusi Tanah Melayu"
+seoTitle: Suruhanjaya Reid dan Konstitusi Tanah Melayu
 slug: "reid-commission"
 category: "malaysia"
 subcategory: ["independence"]

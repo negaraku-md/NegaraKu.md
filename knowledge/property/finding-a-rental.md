@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "Finding a Rental in Malaysia: Portals, Negotiators and the REN Tag Nobody Checks"
+seoTitle: Finding a Rental in Malaysia
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

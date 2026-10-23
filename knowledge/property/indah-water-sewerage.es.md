@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK no es una compañía de agua: entender el verdadero papel del operador nacional de alcantarillado"
+seoTitle: IWK no es una compañía de agua
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

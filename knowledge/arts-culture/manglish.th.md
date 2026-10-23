@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "แมงกลิช (Manglish): ไวยากรณ์ คำอนุภาค และคำยืมเบื้องหลังภาษาอังกฤษในชีวิตประจำวันของมาเลเซีย"
+seoTitle: 'แมงกลิช (Manglish): ภาษาอังกฤษในชีวิตประจำวันของมาเลเซีย'
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "மலேசியாவில் வெசாக் தினம் (Wesak Day): பௌத்த முழுநிலா அனுசரிப்பும், ஒவ்வொரு ஆண்டும் தேதி மாறுவதற்கான காரணமும்"
+seoTitle: மலேசியாவில் வெசாக் தினம் (Wesak Day)
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

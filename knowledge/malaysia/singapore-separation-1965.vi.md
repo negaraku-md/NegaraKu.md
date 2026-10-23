@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "Singapore đã rời Malaysia như thế nào: Các văn kiện tách rời thực sự nói gì"
+seoTitle: Singapore đã rời Malaysia như thế nào
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

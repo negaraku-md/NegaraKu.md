@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "Ley de Protección del Consumidor de 1999: el estatuto de derechos del consumidor de Malasia y su tribunal de RM5"
+seoTitle: Ley de Protección del Consumidor de 1999
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

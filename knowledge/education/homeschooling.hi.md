@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0061
 title: "मलेशिया में होमस्कूलिंग: कानूनी, पर केवल एक मंत्रिस्तरीय छूट के माध्यम से"
+seoTitle: मलेशिया में होमस्कूलिंग
 slug: "homeschooling"
 category: "education"
 subcategory: ["support"]

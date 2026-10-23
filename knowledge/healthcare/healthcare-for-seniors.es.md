@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "Cuando un padre ya no puede arreglárselas solo: opciones de cuidado para personas mayores en Malasia"
+seoTitle: Cuando un padre ya no puede arreglárselas solo
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

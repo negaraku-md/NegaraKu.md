@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "வீட்டு வரியும் நில வரியும்: இரண்டு சொத்து வரிகள், இரண்டு அதிகார அமைப்புகள், இரண்டு கட்டண தேதிகள்"
+seoTitle: வீட்டு வரியும் நில வரியும்
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

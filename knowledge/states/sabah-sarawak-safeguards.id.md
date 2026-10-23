@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "Mengapa Anda Bisa Ditolak Masuk di Kota Kinabalu: Perlindungan Konstitusional untuk Sabah dan Sarawak"
+seoTitle: Mengapa Anda Bisa Ditolak Masuk di Kota Kinabalu
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

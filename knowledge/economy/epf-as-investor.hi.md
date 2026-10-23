@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "निवेशक के रूप में EPF: मलेशिया का सेवानिवृत्ति कोष बाज़ारों में RM1.4 ट्रिलियन कैसे चलाता है"
+seoTitle: निवेशक के रूप में EPF
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

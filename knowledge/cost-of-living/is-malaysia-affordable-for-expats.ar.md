@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "هل ماليزيا ميسورة التكلفة للوافدين؟ ما تقوله الأرقام الرسمية فعلًا"
+seoTitle: هل ماليزيا ميسورة التكلفة للوافدين؟
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

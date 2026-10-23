@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0020
 title: "Hari Raya Aidilfitri: el fin del Ramadán y una celebración de regreso al hogar"
+seoTitle: Hari Raya Aidilfitri
 slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]

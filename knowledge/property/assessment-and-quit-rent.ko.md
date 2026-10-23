@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "재산평가세와 토지세(Cukai Pintu와 Cukai Tanah): 두 가지 재산세, 두 관청, 두 납부 기한"
+seoTitle: 재산평가세와 토지세(Cukai Pintu와 Cukai Tanah)
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

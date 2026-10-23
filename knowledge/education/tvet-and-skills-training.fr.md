@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0063"
 title: "Tous les chemins ne mènent pas à l'université : comprendre le système TVET de la Malaisie"
+seoTitle: Tous les chemins ne mènent pas à l'université
 slug: "tvet-and-skills-training"
 category: "education"
 subcategory: ["skills"]

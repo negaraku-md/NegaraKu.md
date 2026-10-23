@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "تأمين المركبات في ماليزيا: لماذا تغطية الطرف الثالث إلزامية وكيف ترتبط بضريبة الطريق"
+seoTitle: تأمين المركبات في ماليزيا
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

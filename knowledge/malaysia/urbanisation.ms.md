@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "Mengapa Malaysia Menjadi Negara Majoriti Bandar dalam Satu Generasi"
+seoTitle: Mengapa Malaysia Menjadi Negara Majoriti Bandar
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "La Tasa de Política a un Día: cómo Bank Negara fija el precio del dinero"
+seoTitle: La Tasa de Política a un Día
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

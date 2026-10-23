@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "หมู่บ้านปิดและย่านที่มียามในมาเลเซีย: จุดที่กฎหมายขีดเส้นแบ่ง"
+seoTitle: หมู่บ้านปิดและย่านที่มียามในมาเลเซีย
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

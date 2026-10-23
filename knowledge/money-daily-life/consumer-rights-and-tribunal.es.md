@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "Tu producto se averió y la tienda no te reembolsa: cómo recuperar de verdad tu dinero"
+seoTitle: Tu producto se averió y la tienda no te reembolsa
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

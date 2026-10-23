@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "மலேசியாவுக்கு இடம்பெயர்தல்: உங்கள் அனுமதிச்சீட்டு (Pass), நுழைவு மற்றும் முதல்-வார நிர்வாகப் பணிகளை ஒழுங்குபடுத்தும் வரிசை"
+seoTitle: 'மலேசியாவுக்கு இடம்பெயர்தல்: உங்கள் அனுமதிச்சீட்டு'
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

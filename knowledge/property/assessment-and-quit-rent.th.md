@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "ภาษีโรงเรือน (Cukai Pintu) และภาษีที่ดิน (Cukai Tanah): สองภาษีทรัพย์สิน สองหน่วยงาน สองวันชำระ"
+seoTitle: ภาษีโรงเรือน (Cukai Pintu) และภาษีที่ดิน (Cukai Tanah)
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

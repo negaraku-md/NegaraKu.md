@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0050"
 title: "மலேசியாவின் மூன்று அடுக்கு அரசாங்கம் — மலேசியர்கள் தேர்ந்தெடுக்காத அந்த ஒரு அடுக்கு"
+seoTitle: மலேசியாவின் மூன்று அடுக்கு அரசாங்கம்
 slug: "three-tiers-of-government"
 category: "government"
 subcategory: ["institutions"]

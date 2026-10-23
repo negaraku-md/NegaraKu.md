@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "मलेशिया में गेटेड कम्युनिटी और गार्डेड नेबरहुड: कानून कहाँ रेखा खींचता है"
+seoTitle: मलेशिया में गेटेड कम्युनिटी और गार्डेड नेबरहुड
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0013
 title: "Balik Kampung — El regreso a casa en la temporada festiva de Malasia"
+seoTitle: Balik Kampung — regreso a casa en temporada festiva
 slug: "balik-kampung"
 category: "glossary"
 subcategory: ["culture"]

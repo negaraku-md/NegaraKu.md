@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0003
 title: "Tingkat Inflasi Malaysia dan Apa yang Sebenarnya Diukur oleh IHK"
+seoTitle: Tingkat Inflasi Malaysia dan IHK
 slug: "inflation-cpi"
 category: "economy"
 subcategory: ["indicators"]

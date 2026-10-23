@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "Chín bang có Quân vương của Malaysia: Các Quân vương trị vì và vai trò của họ trong Hội đồng Quân vương"
+seoTitle: Chín bang có Quân vương của Malaysia
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

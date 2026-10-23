@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "La balance commerciale de la Malaisie et pourquoi les exportations dépassent la taille de l'économie"
+seoTitle: Balance commerciale de la Malaisie et exportations
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

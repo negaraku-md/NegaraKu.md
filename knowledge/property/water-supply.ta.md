@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "மலேசியாவின் நீர் வழங்கல்: நீங்கள் ஏன் மத்திய அரசுடன் அல்லாமல் மாநில நீர் நிறுவனத்துடன் பழகுகிறீர்கள்"
+seoTitle: மலேசியாவின் நீர் வழங்கல்
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

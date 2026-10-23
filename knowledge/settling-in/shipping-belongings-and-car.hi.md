@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "अपना सामान मलेशिया भेजना — और अपनी खुद की कार लाना लगभग कभी क्यों नहीं चलता"
+seoTitle: अपना सामान मलेशिया भेजना
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

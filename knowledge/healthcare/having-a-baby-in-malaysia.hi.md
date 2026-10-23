@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "मलेशिया में शिशु का जन्म: गुलाबी किताब, क्लिनिक की यात्राएँ, और प्रसव के बाद क्या होता है"
+seoTitle: मलेशिया में शिशु का जन्म
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

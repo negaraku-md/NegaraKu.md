@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "Malaysia's Trade Balance and Why Exports Exceed the Economy's Size"
+seoTitle: Malaysia's Trade Balance and Exports
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

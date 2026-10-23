@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0012
 title: "Dewan Rakyat : comment 222 sièges deviennent une loi fédérale"
+seoTitle: 'Dewan Rakyat : de 222 sièges à une loi fédérale'
 slug: "dewan-rakyat"
 category: "government"
 subcategory: ["institutions"]

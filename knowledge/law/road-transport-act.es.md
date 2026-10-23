@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "Ley de Transporte por Carretera de 1987 (Act 333): el estatuto detrás de cada licencia de conducir y cada matrícula"
+seoTitle: Ley de Transporte por Carretera de 1987 (Act 333)
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

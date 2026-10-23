@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "วงจรงบประมาณสหพันธรัฐ: คำแถลงกลายเป็นพระราชบัญญัติจัดสรรงบประมาณได้อย่างไร"
+seoTitle: วงจรงบประมาณสหพันธรัฐ
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

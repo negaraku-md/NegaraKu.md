@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "Comment est structuré un gouvernement d'État malaisien : le Souverain, le Conseil exécutif et l'Assemblée"
+seoTitle: Comment est structuré un gouvernement d'État malaisien
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

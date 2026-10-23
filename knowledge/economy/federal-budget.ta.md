@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "கூட்டாட்சி பட்ஜெட் சுழற்சி: ஒரு உரை எப்படி வழங்கல் சட்டமாக (Supply Act) மாறுகிறது"
+seoTitle: 'கூட்டாட்சி பட்ஜெட் சுழற்சி: ஒரு உரை எப்படி வழங்கல் சட்டமாக'
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

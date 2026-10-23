@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0016
 title: "DOSM — Departamento de Estadística de Malasia: Qué publica y cuándo"
+seoTitle: DOSM — Departamento de Estadística de Malasia
 slug: "dosm"
 category: "government"
 subcategory: ["agencies"]

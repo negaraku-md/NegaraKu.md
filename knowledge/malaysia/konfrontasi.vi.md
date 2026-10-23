@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "Konfrontasi: Cuộc chiến không tuyên bố chào đón sự ra đời của Malaysia"
+seoTitle: 'Konfrontasi: Cuộc chiến không tuyên bố với Malaysia'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

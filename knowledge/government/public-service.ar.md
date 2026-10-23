@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "الخدمة العامة في ماليزيا: اللجنة التي تُعيّن والدائرة التي تُصمّم"
+seoTitle: الخدمة العامة في ماليزيا
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

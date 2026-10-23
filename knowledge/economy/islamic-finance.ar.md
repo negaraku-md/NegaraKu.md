@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0011
 title: "التمويل الإسلامي في ماليزيا: العقود الكامنة وراء الأرقام الرئيسية"
+seoTitle: التمويل الإسلامي في ماليزيا
 slug: "islamic-finance"
 category: "economy"
 subcategory: ["sectors"]

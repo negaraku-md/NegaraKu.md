@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "Majlis Raja-Raja: Institusi yang Memilih Agong dan Hal yang Memerlukan Persetujuannya"
+seoTitle: 'Majlis Raja-Raja: Institusi yang Memilih Agong'
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

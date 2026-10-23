@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "Taxe d'évaluation et redevance foncière : deux taxes foncières, deux autorités, deux dates de paiement"
+seoTitle: Taxe d'évaluation et redevance foncière
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

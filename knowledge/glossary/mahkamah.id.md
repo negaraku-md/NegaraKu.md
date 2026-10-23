@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0031
 title: "Mahkamah — Istilah Institusi Kehakiman dan Ringkasan Tingkatannya di Malaysia"
+seoTitle: 'Mahkamah: Institusi Kehakiman dan Tingkatannya'
 slug: "mahkamah"
 category: "glossary"
 subcategory: ["legal"]

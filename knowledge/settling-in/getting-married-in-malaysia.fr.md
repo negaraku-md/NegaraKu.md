@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "Se marier en Malaisie : pourquoi le processus se divise par religion, non par choix"
+seoTitle: Se marier en Malaisie
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

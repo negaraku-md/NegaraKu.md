@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "Mua SIM di động tại Malaysia: Trả trước, trả sau, và bước đăng ký bạn không thể bỏ qua"
+seoTitle: Mua SIM di động tại Malaysia
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

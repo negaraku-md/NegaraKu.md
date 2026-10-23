@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "La balanza comercial de Malasia y por qué las exportaciones superan el tamaño de la economía"
+seoTitle: Balanza comercial de Malasia y las exportaciones
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0016
 title: "Impuesto sobre las ganancias de capital de acciones no cotizadas en Malasia"
+seoTitle: 'Impuesto sobre ganancias de capital: acciones no cotizadas'
 slug: "capital-gains-tax"
 category: "taxation"
 subcategory: ["capital-taxes"]

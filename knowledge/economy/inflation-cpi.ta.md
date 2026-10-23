@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0003
 title: "மலேசியாவின் பணவீக்க விகிதம் மற்றும் CPI உண்மையில் எதை அளவிடுகிறது"
+seoTitle: மலேசியாவின் பணவீக்க விகிதம் மற்றும் CPI
 slug: "inflation-cpi"
 category: "economy"
 subcategory: ["indicators"]

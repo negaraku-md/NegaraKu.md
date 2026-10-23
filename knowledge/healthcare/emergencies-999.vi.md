@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "Cấp cứu y tế tại Malaysia: Cách gọi 999, xe cứu thương và những gì diễn ra tại Khoa Cấp cứu"
+seoTitle: Cấp cứu y tế tại Malaysia
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

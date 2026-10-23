@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0069
 title: "Ce dont votre voiture a réellement besoin pour passer à Singapour ou en Thaïlande"
+seoTitle: Ce qu'il faut à votre voiture pour Singapour ou Thaïlande
 slug: "driving-to-singapore-and-thailand"
 category: "transport"
 subcategory: ["driving"]

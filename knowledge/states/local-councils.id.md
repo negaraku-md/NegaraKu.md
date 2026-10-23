@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "Majlis Tempatan di Malaysia: Lapisan Pemerintahan yang Tidak Dapat Anda Pilih"
+seoTitle: Majlis Tempatan di Malaysia
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

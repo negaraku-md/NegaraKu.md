@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0027
 title: "Rumah Terbuka: ஒரு இனத்தின் கொண்டாட்டம் அனைவருக்கும் அழைப்பாக மாறும்போது"
+seoTitle: 'Rumah Terbuka: கொண்டாட்டம் அனைவருக்கும் அழைப்பாக மாறும்போது'
 slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]

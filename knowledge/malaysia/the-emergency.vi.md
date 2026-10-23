@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "Tình trạng Khẩn cấp Malaya: Cuộc nổi dậy, việc tái định cư, và bộ máy mà nó để lại"
+seoTitle: Tình trạng Khẩn cấp Malaya
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

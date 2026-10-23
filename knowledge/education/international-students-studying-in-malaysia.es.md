@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0060"
 title: "Estudiar en Malasia como estudiante internacional: elegir una institución y lograr la admisión"
+seoTitle: Estudiar en Malasia como estudiante internacional
 slug: "international-students-studying-in-malaysia"
 category: "education"
 subcategory: ["tertiary"]

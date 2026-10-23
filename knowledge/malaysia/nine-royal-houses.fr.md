@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "Les neuf États royaux de la Malaisie : les Souverains régnants et leur rôle dans la Conférence des Souverains"
+seoTitle: Les neuf États royaux de la Malaisie
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

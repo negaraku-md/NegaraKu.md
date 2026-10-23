@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "ชาวต่างชาติซื้ออสังหาริมทรัพย์ในมาเลเซียได้หรือไม่? อธิบายราคาขั้นต่ำและความยินยอมของรัฐ"
+seoTitle: ชาวต่างชาติซื้ออสังหาริมทรัพย์ในมาเลเซียได้หรือไม่?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

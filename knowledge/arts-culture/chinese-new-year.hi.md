@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "मलेशिया में चीनी नववर्ष: पुनर्मिलन भोज, अंग पाउ और सिंह-नृत्य के पीछे का अर्थ"
+seoTitle: मलेशिया में चीनी नववर्ष
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

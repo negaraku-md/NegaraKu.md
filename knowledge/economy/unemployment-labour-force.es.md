@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0004
 title: "La tasa de desempleo de Malasia y la fuerza laboral que hay detrás"
+seoTitle: La tasa de desempleo y la fuerza laboral de Malasia
 slug: "unemployment-labour-force"
 category: "economy"
 subcategory: ["indicators"]

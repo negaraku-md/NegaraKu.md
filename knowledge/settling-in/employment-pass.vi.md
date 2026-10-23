@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "Employment Pass: Visa lao động bạn không bao giờ có thể tự nộp đơn xin"
+seoTitle: 'Employment Pass: visa lao động bạn không thể tự xin'
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

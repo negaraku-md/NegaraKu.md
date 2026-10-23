@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "La Conférence des Souverains : l'institution qui élit l'Agong et ce qui requiert son consentement"
+seoTitle: La Conférence des Souverains
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

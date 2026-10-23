@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "Thuế cửa và thuế đất: Hai loại thuế bất động sản, hai cơ quan, hai thời hạn nộp"
+seoTitle: Thuế cửa và thuế đất
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

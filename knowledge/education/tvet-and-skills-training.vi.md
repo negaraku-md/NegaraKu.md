@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0063"
 title: "Không phải mọi con đường đều dẫn tới đại học: Hiểu hệ thống TVET của Malaysia"
+seoTitle: Không phải mọi con đường đều dẫn tới đại học
 slug: "tvet-and-skills-training"
 category: "education"
 subcategory: ["skills"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "मलेशिया में कॉमन लॉ: कैसे Civil Law Act 1956 ने अंग्रेज़ी कानून को आयात किया — और जमा दिया"
+seoTitle: 'मलेशिया में कॉमन लॉ: Civil Law Act 1956'
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

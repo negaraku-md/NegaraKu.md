@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "The Student Pass: Why Your University Files With EMGS, Not You"
+seoTitle: 'The Student Pass: Your University Files With EMGS, Not You'
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

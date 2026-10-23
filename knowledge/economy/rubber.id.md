@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "Industri Karet Malaysia: Tanaman yang Semakin Menyusut Menopang Bisnis Sarung Tangan Global"
+seoTitle: Industri Karet Malaysia
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

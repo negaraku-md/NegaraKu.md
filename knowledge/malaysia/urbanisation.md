@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "Why Malaysia Became a Majority-Urban Country in One Generation"
+seoTitle: Why Malaysia Became Majority-Urban in One Generation
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

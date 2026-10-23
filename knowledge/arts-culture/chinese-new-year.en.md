@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "Chinese New Year in Malaysia: The Meaning Behind Reunion Dinners, Ang Pow and Lion Dances"
+seoTitle: Chinese New Year in Malaysia
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

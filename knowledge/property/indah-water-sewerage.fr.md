@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK n'est pas une compagnie des eaux : comprendre le véritable rôle de l'opérateur national d'assainissement"
+seoTitle: IWK n'est pas une compagnie des eaux
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

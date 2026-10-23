@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0023
 title: "Calendario de cumplimiento del impuesto de sociedades en Malasia"
+seoTitle: Calendario de cumplimiento del impuesto de sociedades
 slug: "company-tax-calendar"
 category: "taxation"
 subcategory: ["corporate-tax"]

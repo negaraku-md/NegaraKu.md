@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 dan Pendaftaran Pemilih Otomatis: Apa yang Diubah oleh Act A1603"
+seoTitle: Undi18 dan Pendaftaran Pemilih Otomatis
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

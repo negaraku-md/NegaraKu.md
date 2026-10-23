@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0045"
 title: "มรสุมตะวันออกเฉียงเหนือและตะวันตกเฉียงใต้: เหตุใดชายฝั่งตะวันออกจึงน้ำท่วมทุกปี"
+seoTitle: มรสุมตะวันออกเฉียงเหนือและตะวันตกเฉียงใต้
 slug: "monsoons"
 category: "malaysia"
 subcategory: ["geography"]

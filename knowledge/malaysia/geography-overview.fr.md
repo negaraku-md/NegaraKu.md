@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0044
 title: "Comment les montagnes et les moussons de la Malaisie ont décidé où vivent les Malaisiens"
+seoTitle: 'Montagnes et moussons : où vivent les Malaisiens'
 slug: "geography-overview"
 category: "malaysia"
 subcategory: ["geography"]

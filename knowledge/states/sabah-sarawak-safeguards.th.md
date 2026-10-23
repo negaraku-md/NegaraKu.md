@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "เหตุใดคุณอาจถูกปฏิเสธการเข้าที่โกตากีนาบาลู: หลักประกันทางรัฐธรรมนูญสำหรับซาบาห์และซาราวัก"
+seoTitle: เหตุใดคุณอาจถูกปฏิเสธการเข้าที่โกตากีนาบาลู
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

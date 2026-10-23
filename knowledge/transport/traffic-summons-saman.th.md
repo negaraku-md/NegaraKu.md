@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "ใบสั่งจราจรในมาเลเซีย: ระบุประเภท ตรวจสอบ และจ่ายก่อนที่มันจะบานปลาย"
+seoTitle: ใบสั่งจราจรในมาเลเซีย
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

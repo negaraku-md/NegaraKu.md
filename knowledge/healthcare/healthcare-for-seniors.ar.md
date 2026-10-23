@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "عندما لا يعود أحد الوالدين قادرًا على تدبّر أموره وحده: خيارات رعاية المسنين في ماليزيا"
+seoTitle: عندما لا يعود أحد الوالدين قادرًا على تدبّر أموره وحده
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

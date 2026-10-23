@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0021
 title: "Malaysia Plans: The Five-Year Framework That Shapes Every Annual Budget"
+seoTitle: 'Malaysia Plans: Five-Year Framework Behind the Budget'
 slug: "malaysia-plans"
 category: "economy"
 subcategory: ["policy"]

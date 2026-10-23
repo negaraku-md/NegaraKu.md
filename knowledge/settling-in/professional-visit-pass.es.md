@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "El Professional Visit Pass: cómo Malasia acoge experiencia extranjera sin emplearla"
+seoTitle: El Professional Visit Pass
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

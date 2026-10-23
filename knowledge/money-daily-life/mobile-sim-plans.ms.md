@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "Membeli Kad SIM Mudah Alih di Malaysia: Prabayar, Pascabayar, dan Langkah Pendaftaran yang Tidak Boleh Dilangkau"
+seoTitle: Membeli Kad SIM Mudah Alih di Malaysia
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

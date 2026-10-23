@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "El Pase de Estudiante: por qué tu universidad presenta la solicitud ante EMGS, no tú"
+seoTitle: El Pase de Estudiante
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

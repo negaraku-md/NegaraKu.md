@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "ராஜாங், கினபத்தாங்கன் மற்றும் பகாங் ஆறுகள்: மலேசியாவை வடிவமைத்த நீர்வழிகள்"
+seoTitle: ராஜாங், கினபத்தாங்கன் மற்றும் பகாங் ஆறுகள்
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

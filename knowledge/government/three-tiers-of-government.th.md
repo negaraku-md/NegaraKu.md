@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0050"
 title: "สามชั้นของรัฐบาลมาเลเซีย — และชั้นที่ชาวมาเลเซียไม่ได้เลือกตั้ง"
+seoTitle: สามชั้นของรัฐบาลมาเลเซีย
 slug: "three-tiers-of-government"
 category: "government"
 subcategory: ["institutions"]

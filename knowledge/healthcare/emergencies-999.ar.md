@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "الطوارئ الطبية في ماليزيا: كيف تتصل بالرقم 999، وسيارات الإسعاف، وما يحدث في قسم الطوارئ"
+seoTitle: الطوارئ الطبية في ماليزيا
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

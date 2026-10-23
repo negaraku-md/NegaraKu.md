@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "ประชากรของมาเลเซีย: หมวดพลเมืองและเชื้อชาติที่ DOSM เผยแพร่จริง"
+seoTitle: 'ประชากรมาเลเซีย: หมวดพลเมืองและเชื้อชาติ'
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0066"
 title: "ค่าผ่านทางด่วนมาเลเซีย: จากบัตรที่ต้องแตะสู่ช่องทางไร้ที่กั้น"
+seoTitle: ค่าผ่านทางด่วนมาเลเซีย
 slug: "tolls-smarttag-rfid"
 category: "transport"
 subcategory: ["vehicles-tolls"]

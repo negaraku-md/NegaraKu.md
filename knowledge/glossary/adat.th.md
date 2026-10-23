@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "อาดัตเปอร์ปาติห์และอาดัตเตอเมิงกง: ระบบกฎหมายจารีตประเพณีมลายูสองระบบ"
+seoTitle: อาดัตเปอร์ปาติห์และอาดัตเตอเมิงกง
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

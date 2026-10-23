@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "कचरा, पुनर्चक्रण और स्थानीय परिषदें: कुछ राज्य कचरे के पृथक्करण को अनिवार्य क्यों करते हैं और अन्य क्यों नहीं"
+seoTitle: कचरा, पुनर्चक्रण और स्थानीय परिषदें
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

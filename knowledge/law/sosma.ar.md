@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (القانون 747): الإجراءات الخاصة التي تستخدمها ماليزيا في الجرائم الأمنية"
+seoTitle: 'SOSMA (القانون 747): إجراءات خاصة لجرائم الأمن'
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

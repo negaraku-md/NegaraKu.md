@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0002
 title: "بطاقة Touch 'n Go وبطاقة NFC وeWallet: ثلاثة أسماء، ثلاثة استخدامات مختلفة"
+seoTitle: بطاقة Touch 'n Go وبطاقة NFC وeWallet
 slug: "touch-n-go"
 category: "transport"
 subcategory: ["public-transport"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "Biaya Hidup Pulau Pinang Terbelah di Selat: Pulau vs Daratan Utama"
+seoTitle: Biaya Hidup Pulau Pinang Terbelah di Selat
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

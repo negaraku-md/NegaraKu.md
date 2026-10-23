@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0068"
 title: "คังกาเนอการา: อาณาจักรเประที่ถูกกล่าวถึงในตำนาน แต่ยังไม่ได้รับการยืนยันทางโบราณคดี"
+seoTitle: 'คังกาเนอการา: อาณาจักรเประในตำนาน'
 slug: "gangga-negara"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

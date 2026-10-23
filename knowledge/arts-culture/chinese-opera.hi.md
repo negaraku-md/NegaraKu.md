@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "देवताओं के लिए घड़ियाल और ढोल: मलेशिया का चीनी ऑपेरा और उसकी देव-कृतज्ञता परंपरा"
+seoTitle: देवताओं के लिए घड़ियाल और ढोल
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

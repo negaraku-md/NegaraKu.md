@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0056
 title: "UPSR முதல் SPM வரை: பெரிய தேர்வுகள் ரத்து செய்யப்பட்ட பிறகு எஞ்சியிருப்பது என்ன"
+seoTitle: 'UPSR முதல் SPM வரை: பெரிய தேர்வுகள் ரத்தான பிறகு'
 slug: "upsr-to-spm-exams"
 category: "education"
 subcategory: ["exams"]

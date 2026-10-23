@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0056
 title: "Dari UPSR ke SPM: Apa yang Tersisa Setelah Ujian Besar Dihapuskan"
+seoTitle: 'Dari UPSR ke SPM: Setelah Ujian Besar Dihapuskan'
 slug: "upsr-to-spm-exams"
 category: "education"
 subcategory: ["exams"]

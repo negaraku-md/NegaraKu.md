@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "தேசியத் தணிக்கைத் தலைவர் (Ketua Audit Negara): அரசாங்கத்திலிருந்து அரசியலமைப்பு பாதுகாக்கும் அரசாங்க அதிகாரி"
+seoTitle: தேசியத் தணிக்கைத் தலைவர் (Ketua Audit Negara)
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

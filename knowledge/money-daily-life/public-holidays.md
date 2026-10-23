@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "Cuti umum persekutuan lawan cuti negeri: kenapa senarai cuti berbeza ikut negeri"
+seoTitle: Cuti umum persekutuan lawan cuti negeri
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

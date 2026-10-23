@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "La confianza de la mayoría: los requisitos constitucionales para nombrar al Primer Ministro y al Gabinete"
+seoTitle: La confianza de la mayoría
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

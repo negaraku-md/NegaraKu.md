@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0021
 title: "Article 152 : les six clauses qui définissent la langue nationale de la Malaisie"
+seoTitle: 'Article 152 : la langue nationale de la Malaisie'
 slug: "article-152-language"
 category: "law"
 subcategory: ["constitutional"]

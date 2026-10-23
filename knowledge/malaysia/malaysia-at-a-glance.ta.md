@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "மலேசியா ஒரு பார்வையில்: நாட்டின் பின்னணியிலுள்ள எண்கள், ஒவ்வொன்றாக மூலம் காட்டப்பட்டவை"
+seoTitle: மலேசியா ஒரு பார்வையில்
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

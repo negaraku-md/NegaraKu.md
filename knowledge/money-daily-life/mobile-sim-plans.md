@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "Buying a Mobile SIM in Malaysia: Prepaid, Postpaid, and the Registration Step You Can't Skip"
+seoTitle: Buying a Mobile SIM in Malaysia
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

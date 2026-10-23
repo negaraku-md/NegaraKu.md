@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0035
 title: "Memfailkan SST-02 — Tempoh Bercukai, Tarikh Akhir dan Penalti"
+seoTitle: 'Memfailkan SST-02: Tempoh, Tarikh Akhir dan Penalti'
 slug: "sst-02-filing"
 category: "taxation"
 subcategory: ["sst"]

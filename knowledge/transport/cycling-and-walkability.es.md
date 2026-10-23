@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "Por qué caminar e ir en bici por las ciudades malasias sigue siendo cuesta arriba"
+seoTitle: Caminar e ir en bici por las ciudades malasias
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "Malaysia Serba Ringkas: Angka-Angka di Sebalik Negara, Disahkan Sumber demi Sumber"
+seoTitle: Malaysia Serba Ringkas
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

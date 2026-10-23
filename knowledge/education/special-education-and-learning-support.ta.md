@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "மலேசியாவில் சிறப்புக் கல்வி: PPKI, சிறப்புப் பள்ளிகள் மற்றும் OKU பதிவு எவ்வாறு ஒன்றிணைகின்றன"
+seoTitle: மலேசியாவில் சிறப்புக் கல்வி
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

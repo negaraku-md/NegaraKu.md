@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "كيفية تسجيل طفلك في مدرسة حكومية: سن الالتحاق والمستندات ونظام idMe"
+seoTitle: كيفية تسجيل طفلك في مدرسة حكومية
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

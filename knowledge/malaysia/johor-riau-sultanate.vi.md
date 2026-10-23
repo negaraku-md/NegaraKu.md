@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0051
 title: "Vương triều Johor-Riau: Ngai vàng Melaka được nối tiếp về phương nam như thế nào"
+seoTitle: Vương triều Johor-Riau
 slug: "johor-riau-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

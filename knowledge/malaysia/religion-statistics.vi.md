@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0031
 title: "Dân số Malaysia theo tôn giáo: Điều tra dân số đã ghi nhận những gì"
+seoTitle: Dân số Malaysia theo tôn giáo
 slug: "religion-statistics"
 category: "malaysia"
 subcategory: ["demographics"]

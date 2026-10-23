@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0024
 title: "Registering a Death in Malaysia: The JPN Process, Death Certificate and What Comes Next"
+seoTitle: Registering a Death in Malaysia
 slug: "registering-a-death"
 category: "settling-in"
 subcategory: ["documents"]

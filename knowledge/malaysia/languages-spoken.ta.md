@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "மலேசியாவின் தேசிய மொழி, மற்றும் அதனுடன் இணையாகப் பேசப்படும் பல மொழிகள்"
+seoTitle: மலேசியாவின் தேசிய மொழியும் பிற மொழிகளும்
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

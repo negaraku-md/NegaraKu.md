@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "البحث عن مسكن للإيجار في ماليزيا: البوّابات والوسطاء ووسم REN الذي لا يتحقّق منه أحد"
+seoTitle: البحث عن مسكن للإيجار في ماليزيا
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

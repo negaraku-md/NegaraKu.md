@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0033
 title: "กรรมสิทธิ์สมบูรณ์ สิทธิการเช่า แบบแบ่งชั้น มีที่ดิน: สี่คำบนโฉนดมาเลเซียที่กำหนดว่าคุณเป็นเจ้าของอะไรจริง"
+seoTitle: กรรมสิทธิ์สมบูรณ์ สิทธิการเช่า แบบแบ่งชั้น มีที่ดิน
 slug: "freehold-leasehold-strata-landed"
 category: "property"
 subcategory: ["home-ownership"]

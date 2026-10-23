@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0040
 title: "Ce qu'est réellement la Malaisie : une fédération, expliquée depuis les fondations"
+seoTitle: Ce qu'est réellement la Malaisie
 slug: "what-malaysia-is"
 category: "malaysia"
 subcategory: ["country-basics"]

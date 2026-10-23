@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "Mengapa Berjalan Kaki dan Berbasikal di Bandar Malaysia Masih Suatu Perjuangan Mendaki"
+seoTitle: Berjalan Kaki dan Berbasikal di Bandar Malaysia
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

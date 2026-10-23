@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "Dewan Negara: Majelis Tinggi Parlimen yang Tidak Melalui Pemilihan Umum"
+seoTitle: 'Dewan Negara: Majelis Tinggi Parlimen'
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

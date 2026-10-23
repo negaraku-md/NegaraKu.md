@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0047"
 title: "Lembah Bujang: பழங்கால கோயில்களும் பழைய கெடா நாகரிகத்தின் சான்றுகளும்"
+seoTitle: 'Lembah Bujang: பழைய கெடாவின் பழங்கால கோயில்கள்'
 slug: "bujang-valley"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

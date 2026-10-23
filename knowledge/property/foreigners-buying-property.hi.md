@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "क्या विदेशी मलेशिया में संपत्ति ख़रीद सकते हैं? न्यूनतम मूल्य और राज्य की सहमति की व्याख्या"
+seoTitle: क्या विदेशी मलेशिया में संपत्ति ख़रीद सकते हैं?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

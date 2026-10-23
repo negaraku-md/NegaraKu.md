@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "คอนฟรอนตาซี: สงครามที่ไม่ประกาศซึ่งต้อนรับการกำเนิดของมาเลเซีย"
+seoTitle: 'คอนฟรอนตาซี: สงครามที่ไม่ประกาศของมาเลเซีย'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

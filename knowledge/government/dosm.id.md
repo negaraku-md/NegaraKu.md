@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0016
 title: "DOSM — Jabatan Perangkaan Malaysia: Apa yang Diterbitkannya, dan Kapan"
+seoTitle: DOSM — Jabatan Perangkaan Malaysia
 slug: "dosm"
 category: "government"
 subcategory: ["agencies"]

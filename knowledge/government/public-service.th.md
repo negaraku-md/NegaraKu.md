@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "ราชการพลเรือนของมาเลเซีย: คณะกรรมการที่แต่งตั้งและกรมที่ออกแบบ"
+seoTitle: ราชการพลเรือนของมาเลเซีย
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

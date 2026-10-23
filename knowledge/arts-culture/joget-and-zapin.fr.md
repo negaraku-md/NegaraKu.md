@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0041
 title: "Joget et Zapin : deux danses malaises, deux origines différentes"
+seoTitle: 'Joget et Zapin : deux danses malaises'
 slug: "joget-and-zapin"
 category: "arts-culture"
 subcategory: ["performing-arts"]

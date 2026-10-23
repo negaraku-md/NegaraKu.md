@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "El Año Nuevo chino en Malasia: el significado de las cenas de reunión, el ang pow y las danzas del león"
+seoTitle: El Año Nuevo chino en Malasia
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

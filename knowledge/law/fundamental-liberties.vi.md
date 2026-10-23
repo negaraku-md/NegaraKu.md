@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "Các quyền tự do cơ bản: Điều 5 đến 13 của Hiến pháp Liên bang, và những giới hạn được lồng vào mỗi điều"
+seoTitle: Các quyền tự do cơ bản
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

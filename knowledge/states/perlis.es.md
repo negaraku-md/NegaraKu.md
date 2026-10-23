@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0012
 title: "Perlis: el estado más pequeño de Malasia, y el único encabezado por un Raja"
+seoTitle: 'Perlis: el estado más pequeño de Malasia, con un Raja'
 slug: "perlis"
 category: "states"
 subcategory: ["peninsular"]

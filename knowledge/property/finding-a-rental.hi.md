@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "मलेशिया में किराये का घर ढूँढना: पोर्टल, निगोशिएटर और वह REN टैग जिसकी कोई जाँच नहीं करता"
+seoTitle: मलेशिया में किराये का घर ढूँढना
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

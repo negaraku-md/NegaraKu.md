@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "Road Transport Act 1987 (Act 333): Statuta di Balik Setiap Lisensi Mengemudi dan Pelat Nomor"
+seoTitle: Road Transport Act 1987 (Act 333)
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "அரசர்கள் மாநாடு (Majlis Raja-Raja): Agong-ஐத் தேர்ந்தெடுக்கும் நிறுவனமும் அதன் சம்மதம் தேவைப்படும் விடயங்களும்"
+seoTitle: அரசர்கள் மாநாடு (Majlis Raja-Raja)
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

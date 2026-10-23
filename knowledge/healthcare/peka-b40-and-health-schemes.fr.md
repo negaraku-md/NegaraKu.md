@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0086"
 title: "PeKa B40 : ce qu'il couvre réellement, et ce qu'il ne couvre pas"
+seoTitle: 'PeKa B40 : ce qu''il couvre et ce qu''il ne couvre pas'
 slug: "peka-b40-and-health-schemes"
 category: "healthcare"
 subcategory: ["using-the-system"]

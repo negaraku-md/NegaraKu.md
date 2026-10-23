@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "பினாங்கின் வாழ்க்கைச் செலவு நீரிணையில் பிளவுபடுகிறது: பினாங்கு தீவு vs நிலப்பகுதி"
+seoTitle: பினாங்கின் வாழ்க்கைச் செலவு நீரிணையில் பிளவுபடுகிறது
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

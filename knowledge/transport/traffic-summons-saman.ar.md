@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "مخالفات المرور (Saman) في ماليزيا: تعرّف على نوعها، تحقّق وادفع قبل أن تتضخّم"
+seoTitle: مخالفات المرور (Saman) في ماليزيا
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "मलेशियाई आव्रजन विभाग: वह विभाग जो तय करता है कि कौन प्रवेश करे, कौन रुके और कौन जाए"
+seoTitle: मलेशियाई आव्रजन विभाग
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

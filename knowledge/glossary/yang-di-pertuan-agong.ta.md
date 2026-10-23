@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0022
 title: "Yang di-Pertuan Agong — தேர்ந்தெடுக்கப்படும் கூட்டரசு அரியணை, பரம்பரையாக வருவதல்ல"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "glossary"
 subcategory: ["government"]

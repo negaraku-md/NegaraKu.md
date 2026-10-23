@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0051
 title: "Sistem Pendidikan Malaysia, Dari Prasekolah hingga Universitas"
+seoTitle: 'Sistem Pendidikan Malaysia: Prasekolah hingga Universitas'
 slug: "malaysian-education-system"
 category: "education"
 subcategory: ["overview"]

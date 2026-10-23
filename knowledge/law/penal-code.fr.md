@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0013
 title: "Penal Code (Act 574) : la principale loi pénale de la Malaisie"
+seoTitle: Penal Code (Act 574)
 slug: "penal-code"
 category: "law"
 subcategory: ["key-acts"]

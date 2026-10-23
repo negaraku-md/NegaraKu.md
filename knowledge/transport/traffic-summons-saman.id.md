@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "Tilang Lalu Lintas di Malaysia: Kenali Jenisnya, Periksa dan Bayar Sebelum Ia Membesar"
+seoTitle: Tilang Lalu Lintas di Malaysia
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

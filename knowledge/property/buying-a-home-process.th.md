@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "การซื้อบ้านในมาเลเซีย: สิ่งที่เกิดขึ้นจริงระหว่างค่าจองกับกุญแจ"
+seoTitle: การซื้อบ้านในมาเลเซีย
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0016
 title: "Malaysia My Second Home: نظرة داخل الفئات الأربع لتأشيرة الإقامة الطويلة MM2H"
+seoTitle: Malaysia My Second Home
 slug: "mm2h-long-stay-visa"
 category: "settling-in"
 subcategory: ["visas-passes"]

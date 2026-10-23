@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — Département national de l'enregistrement : du certificat de naissance au certificat de décès"
+seoTitle: JPN — Département national de l'enregistrement
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0014
 title: "MAICSA — சாசனப்பட்டச் செயலாளர்கள் மலேசியா (Chartered Secretaries Malaysia)"
+seoTitle: MAICSA — சாசனப்பட்டச் செயலாளர்கள் மலேசியா
 slug: "maicsa"
 category: "company-secretary"
 subcategory: ["appointment"]

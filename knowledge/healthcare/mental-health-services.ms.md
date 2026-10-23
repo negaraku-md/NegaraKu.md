@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "Ke Mana Hendak Mendapatkan Bantuan Kesihatan Mental di Malaysia: Penjagaan Awam, Pilihan Swasta dan Talian Krisis"
+seoTitle: Ke Mana Dapatkan Bantuan Kesihatan Mental di Malaysia?
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

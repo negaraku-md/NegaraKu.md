@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0052
 title: "Dewan Undangan Negeri: ஒரு மாநிலம் தன் சொந்தச் சட்டங்களை எப்படி இயற்றுகிறது"
+seoTitle: Dewan Undangan Negeri
 slug: "state-assemblies-dun"
 category: "government"
 subcategory: ["institutions"]

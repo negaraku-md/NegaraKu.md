@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0071
 title: "MATRADE — Perbadanan Pembangunan Perdagangan Luar Malaysia: Eksport Keluar, Bukan Pelaburan Masuk"
+seoTitle: MATRADE — Perbadanan Pembangunan Perdagangan Luar Malaysia
 slug: "matrade"
 category: "government"
 subcategory: ["agencies"]

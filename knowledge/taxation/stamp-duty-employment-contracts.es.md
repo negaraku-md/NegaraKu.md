@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0046
 title: "Impuesto del timbre sobre los contratos de trabajo en Malasia"
+seoTitle: 'Impuesto del timbre: contratos de trabajo en Malasia'
 slug: "stamp-duty-employment-contracts"
 category: "taxation"
 subcategory: ["stamp-duty"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "Local Government (PBT): City, Municipal and District Councils Under Act 171"
+seoTitle: Local Government (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

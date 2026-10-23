@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "மலேசியாவின் ஒன்பது அரச மாநிலங்கள்: ஆளும் அரசர்களும் அரசர்கள் மாநாட்டில் அவர்களின் பங்கும்"
+seoTitle: மலேசியாவின் ஒன்பது அரச மாநிலங்கள்
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

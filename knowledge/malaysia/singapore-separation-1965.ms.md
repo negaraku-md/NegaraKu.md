@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "Bagaimana Singapura Meninggalkan Malaysia: Apa Sebenarnya Dinyatakan oleh Dokumen Perpisahan"
+seoTitle: Bagaimana Singapura Meninggalkan Malaysia
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

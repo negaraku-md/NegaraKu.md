@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "Salaire minimum contre revenu médian : à quoi ressemble un salaire malaisien typique"
+seoTitle: Salaire minimum contre revenu médian
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "ความไว้วางใจของเสียงข้างมาก: เงื่อนไขทางรัฐธรรมนูญสำหรับการแต่งตั้งนายกรัฐมนตรีและคณะรัฐมนตรี"
+seoTitle: ความไว้วางใจของเสียงข้างมาก
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

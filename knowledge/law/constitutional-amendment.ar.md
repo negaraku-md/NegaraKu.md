@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "تعديل الدستور الاتحادي: المسارات الأربعة التي تحددها المادة 159"
+seoTitle: تعديل الدستور الاتحادي
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

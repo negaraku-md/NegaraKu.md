@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0080
 title: "Mengapa Sekaleng Milo Lebih Mahal di Kota Kinabalu Dibandingkan di Klang"
+seoTitle: Mengapa Milo Lebih Mahal di Kota Kinabalu daripada Klang
 slug: "cost-of-living-east-malaysia"
 category: "cost-of-living"
 subcategory: ["by-city"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "मलेशिया की लोक सेवा: वह आयोग जो नियुक्त करता है और वह विभाग जो रचता है"
+seoTitle: 'मलेशिया की लोक सेवा: आयोग और विभाग'
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

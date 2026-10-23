@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "Rubbish, Recycling and Local Councils: Why Some States Mandate Waste Separation and Others Don't"
+seoTitle: Rubbish, Recycling and Local Councils
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

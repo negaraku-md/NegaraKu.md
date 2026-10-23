@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "S'installer en Malaisie : l'ordre pour régler votre pass, l'entrée et les formalités de la première semaine"
+seoTitle: S'installer en Malaisie
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

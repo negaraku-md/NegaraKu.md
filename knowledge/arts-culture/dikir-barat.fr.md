@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0040
 title: "Dikir Barat : quand deux groupes échangent des vers sur scène"
+seoTitle: Dikir Barat
 slug: "dikir-barat"
 category: "arts-culture"
 subcategory: ["performing-arts"]

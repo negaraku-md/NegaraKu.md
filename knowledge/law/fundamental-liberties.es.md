@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "Libertades fundamentales: los artículos 5 a 13 de la Constitución Federal y los límites incorporados a cada uno"
+seoTitle: Libertades fundamentales
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

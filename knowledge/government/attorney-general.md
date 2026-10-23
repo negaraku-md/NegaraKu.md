@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "The Attorney General of Malaysia: The Office and Powers Defined by Article 145"
+seoTitle: The Attorney General of Malaysia
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "The Overnight Policy Rate: How Bank Negara Sets the Price of Money"
+seoTitle: The Overnight Policy Rate
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0052
 title: "المجلس التشريعي للولاية (Dewan Undangan Negeri): كيف تسنّ الولاية قوانينها الخاصة"
+seoTitle: المجلس التشريعي للولاية (Dewan Undangan Negeri)
 slug: "state-assemblies-dun"
 category: "government"
 subcategory: ["institutions"]

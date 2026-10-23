@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "Rác thải, tái chế và Hội đồng Địa phương: Vì sao một số bang bắt buộc phân loại rác, số khác thì không"
+seoTitle: Rác thải, tái chế và Hội đồng Địa phương
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

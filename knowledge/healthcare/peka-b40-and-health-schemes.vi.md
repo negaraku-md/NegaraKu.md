@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0086"
 title: "PeKa B40: Thực sự được bảo hiểm những gì, và không phải là gì"
+seoTitle: 'PeKa B40: được bảo hiểm những gì và không gì'
 slug: "peka-b40-and-health-schemes"
 category: "healthcare"
 subcategory: ["using-the-system"]

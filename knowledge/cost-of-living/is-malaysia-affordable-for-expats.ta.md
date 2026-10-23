@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "மலேசியா வெளிநாட்டவர்களுக்கு மலிவானதா? அதிகாரப்பூர்வ எண்ணிக்கைகள் உண்மையில் என்ன சொல்கின்றன"
+seoTitle: மலேசியா வெளிநாட்டவர்களுக்கு மலிவானதா?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

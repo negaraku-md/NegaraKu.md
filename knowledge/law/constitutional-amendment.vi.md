@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "Sửa đổi Hiến pháp Liên bang: Bốn con đường mà Điều 159 đặt ra"
+seoTitle: Sửa đổi Hiến pháp Liên bang
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "Gated Communities and Guarded Neighbourhoods in Malaysia: Where the Law Draws the Line"
+seoTitle: Gated Communities and Guarded Neighbourhoods in Malaysia
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

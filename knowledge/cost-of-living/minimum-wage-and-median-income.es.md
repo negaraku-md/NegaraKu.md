@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "Salario mínimo frente a renta mediana: cómo es un salario típico en Malasia"
+seoTitle: Salario mínimo frente a renta mediana
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

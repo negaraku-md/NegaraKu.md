@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0047"
 title: "Thung lũng Bujang: Đền cổ và bằng chứng về nền văn minh Kedah cổ"
+seoTitle: 'Thung lũng Bujang: Đền cổ của Kedah cổ'
 slug: "bujang-valley"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

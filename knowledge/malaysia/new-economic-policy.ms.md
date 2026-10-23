@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "Dasar Ekonomi Baru: Dua Objektif yang Dinyatakan, Satu Rangka Kerja Dua Puluh Tahun"
+seoTitle: 'Dasar Ekonomi Baru: Dua Objektif, Satu Rangka Kerja'
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

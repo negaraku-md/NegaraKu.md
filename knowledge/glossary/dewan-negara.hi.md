@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "Dewan Negara: संसद का ऊपरी सदन जो आम चुनाव में नहीं चुना जाता"
+seoTitle: 'Dewan Negara: संसद का ऊपरी सदन'
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

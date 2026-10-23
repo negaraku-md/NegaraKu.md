@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "دورة الميزانية الاتحادية: كيف يتحول الخطاب إلى قانون تزويد (Supply Act)"
+seoTitle: 'دورة الميزانية الاتحادية: كيف يتحول الخطاب إلى قانون تزويد'
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

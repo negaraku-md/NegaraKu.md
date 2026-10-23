@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "आदत पेरपातिह और आदत तेमेंगुंग: दो पारंपरिक मलय कानून प्रणालियाँ"
+seoTitle: आदत पेरपातिह और आदत तेमेंगुंग
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

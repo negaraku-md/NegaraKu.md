@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0004
 title: "1963: நான்கு வெவ்வேறு நிலப்பரப்புகளிலிருந்து மலேசியாவை உருவாக்குதல்"
+seoTitle: '1963: நான்கு நிலப்பரப்புகளிலிருந்து மலேசியாவை உருவாக்குதல்'
 slug: "formation-of-malaysia-1963"
 category: "malaysia"
 subcategory: ["nation-formation"]

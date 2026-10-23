@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0013
 title: "مجلس الشيوخ (Dewan Negara): كيف يُعيَّن السيناتورات، ولماذا يؤجّل هذا المجلس بدل أن يرفض نهائياً"
+seoTitle: مجلس الشيوخ (Dewan Negara)
 slug: "dewan-negara"
 category: "government"
 subcategory: ["institutions"]

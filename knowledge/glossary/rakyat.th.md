@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "รักยัต (Rakyat): เหตุใดมาเลเซียจึงมีคำสองคำสำหรับ 'ประชาชน' — และอีกคำหนึ่งสำหรับ 'พลเมือง'"
+seoTitle: 'รักยัต (Rakyat): เหตุใดมาเลเซียจึงมีคำสองคำสำหรับ ''ประชาชน'''
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

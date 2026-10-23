@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "हर बच्चे के लिए मुफ़्त टीके: स्वास्थ्य मंत्रालय के राष्ट्रीय प्रतिरक्षण कार्यक्रम को समझना"
+seoTitle: हर बच्चे के लिए मुफ़्त टीके
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

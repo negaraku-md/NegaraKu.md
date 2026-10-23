@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0020
 title: "Hari Raya Aidilfitri: đánh dấu kết thúc tháng Ramadan, và một lễ hội trở về"
+seoTitle: Hari Raya Aidilfitri
 slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]

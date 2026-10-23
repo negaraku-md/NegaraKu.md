@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "मलेशिया क्रिसमस कैसे मनाता है — आधी रात के मास से लेकर खुले द्वार तक"
+seoTitle: मलेशिया क्रिसमस कैसे मनाता है
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

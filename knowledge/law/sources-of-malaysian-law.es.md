@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0060
 title: "Las fuentes del derecho malasio: cinco corrientes, un orden de precedencia"
+seoTitle: Las fuentes del derecho malasio
 slug: "sources-of-malaysian-law"
 category: "law"
 subcategory: ["legal-system"]

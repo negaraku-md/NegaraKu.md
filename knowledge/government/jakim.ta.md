@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: மாநில மத அதிகாரத்தை மீறாமல் இஸ்லாமிய விவகாரங்களை ஒருங்கிணைக்கும் கூட்டாட்சி அமைப்பு"
+seoTitle: 'JAKIM: இஸ்லாமிய விவகாரங்களுக்கான கூட்டாட்சி அமைப்பு'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

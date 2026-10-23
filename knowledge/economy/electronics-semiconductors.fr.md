@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0008
 title: "Électronique et semi-conducteurs : le secteur qui porte les exportations de la Malaisie"
+seoTitle: Électronique et semi-conducteurs
 slug: "electronics-semiconductors"
 category: "economy"
 subcategory: ["sectors"]

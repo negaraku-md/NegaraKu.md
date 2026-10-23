@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "मलेशिया में चिकित्सा आपात स्थितियाँ: 999 पर कॉल कैसे करें, एम्बुलेंस, और आपातकालीन विभाग में क्या होता है"
+seoTitle: मलेशिया में चिकित्सा आपात स्थितियाँ
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

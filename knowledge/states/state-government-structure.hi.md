@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "मलेशियाई राज्य सरकार की संरचना कैसी होती है: शासक, कार्यकारी परिषद और विधान सभा"
+seoTitle: मलेशियाई राज्य सरकार की संरचना कैसी होती है
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

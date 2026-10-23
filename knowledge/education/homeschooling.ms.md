@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0061
 title: "Pendidikan di Rumah di Malaysia: Sah, Tetapi Hanya Melalui Pengecualian Menteri"
+seoTitle: Pendidikan di Rumah di Malaysia
 slug: "homeschooling"
 category: "education"
 subcategory: ["support"]

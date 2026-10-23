@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0087"
 title: "SK, SJKC y SJKT: tres lenguas de instrucción en un mismo sistema de primaria pública"
+seoTitle: 'SK, SJKC y SJKT: tres lenguas de instrucción'
 slug: "national-schools-sk-sjkc-sjkt"
 category: "education"
 subcategory: ["schooling"]

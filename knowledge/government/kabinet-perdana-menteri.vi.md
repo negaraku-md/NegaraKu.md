@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "Sự tín nhiệm của đa số: Điều kiện hiến định cho việc bổ nhiệm Thủ tướng và Nội các"
+seoTitle: Sự tín nhiệm của đa số
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

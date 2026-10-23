@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "एक नज़र में मलेशिया: देश के पीछे के आँकड़े, एक-एक करके स्रोत-सहित"
+seoTitle: 'एक नज़र में मलेशिया: देश के पीछे के आँकड़े'
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

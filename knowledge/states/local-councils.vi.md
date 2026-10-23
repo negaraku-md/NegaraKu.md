@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "Hội đồng địa phương tại Malaysia: Cấp chính quyền bạn không thể bỏ phiếu bầu"
+seoTitle: Hội đồng địa phương tại Malaysia
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

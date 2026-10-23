@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0046
 title: "मलेशिया के संग्रहालय: मुज़ियम नेगारा, इस्लामिक आर्ट्स म्यूज़ियम और राज्य संग्रहालय वास्तव में क्या रखते हैं"
+seoTitle: मलेशिया के संग्रहालय
 slug: "malaysian-museums"
 category: "arts-culture"
 subcategory: ["heritage"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "Klinik Gigi Pemerintah atau Swasta? Memahami Dua Sistem Perawatan Gigi Malaysia"
+seoTitle: Klinik Gigi Pemerintah atau Swasta di Malaysia?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

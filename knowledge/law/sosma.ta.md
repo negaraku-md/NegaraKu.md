@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (Act 747): பாதுகாப்பு குற்றங்களுக்காக மலேசியா பயன்படுத்தும் சிறப்பு நடைமுறைகள்"
+seoTitle: 'SOSMA (Act 747): பாதுகாப்பு குற்ற சிறப்பு நடைமுறைகள்'
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

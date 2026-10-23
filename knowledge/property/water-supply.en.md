@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "Malaysia's Water Supply: Why You Deal With a State Water Company, Not the Federal Government"
+seoTitle: Malaysia's Water Supply
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

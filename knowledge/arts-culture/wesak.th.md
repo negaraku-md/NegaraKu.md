@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "วันวิสาขบูชาในมาเลเซีย: การถือปฏิบัติในวันเพ็ญของชาวพุทธ และเหตุใดวันที่จึงเปลี่ยนไปทุกปี"
+seoTitle: วันวิสาขบูชาในมาเลเซีย
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

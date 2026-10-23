@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0031
 title: "Văn hóa Peranakan: thế giới Baba-Nyonya của Malacca và Penang"
+seoTitle: 'Văn hóa Peranakan: Baba-Nyonya ở Malacca và Penang'
 slug: "peranakan"
 category: "arts-culture"
 subcategory: ["heritage"]

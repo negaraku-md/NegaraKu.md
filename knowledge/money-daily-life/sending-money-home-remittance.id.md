@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "Mengirim Uang Pulang Dari Malaysia: Cara Mengenali Saluran Kiriman Uang Berlisensi Dibanding yang Melanggar Hukum"
+seoTitle: Mengirim Uang Pulang Dari Malaysia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

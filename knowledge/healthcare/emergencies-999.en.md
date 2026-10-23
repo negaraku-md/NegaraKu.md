@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "Medical Emergencies in Malaysia: How to Call 999, Ambulances and What Happens at the Emergency Department"
+seoTitle: Medical Emergencies in Malaysia
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

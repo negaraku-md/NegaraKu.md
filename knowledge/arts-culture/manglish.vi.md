@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "Manglish: ngữ pháp, tiểu từ và từ vay mượn đằng sau thứ tiếng Anh đời thường của Malaysia"
+seoTitle: 'Manglish: tiếng Anh đời thường của Malaysia'
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

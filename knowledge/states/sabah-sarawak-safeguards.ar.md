@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "لماذا قد يُعاد منعك من الدخول في كوتا كينابالو: الضمانات الدستورية لصباح وساراواك"
+seoTitle: لماذا قد يُعاد منعك من الدخول في كوتا كينابالو
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

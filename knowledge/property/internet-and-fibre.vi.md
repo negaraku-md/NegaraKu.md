@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "Internet cáp quang gia đình ở Malaysia: Unifi, Maxis, TIME và cách chọn thực sự"
+seoTitle: Internet cáp quang gia đình ở Malaysia
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "Por qué pueden rechazarlo en Kota Kinabalu: las salvaguardias constitucionales de Sabah y Sarawak"
+seoTitle: Por qué pueden rechazarlo en Kota Kinabalu
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

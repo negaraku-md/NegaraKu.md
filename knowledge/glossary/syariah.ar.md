@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "الشريعة (Syariah) — القانون الإسلامي بوصفه شأناً من شؤون الولايات في النظام القانوني الماليزي"
+seoTitle: 'الشريعة (Syariah): القانون الإسلامي كشأن ولائي'
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

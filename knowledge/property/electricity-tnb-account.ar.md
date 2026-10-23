@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0035"
 title: "حسابات الكهرباء لدى TNB وSESB وSarawak Energy: لماذا ثلاث شركات وثلاث عمليات مختلفة"
+seoTitle: حسابات الكهرباء لدى TNB وSESB وSarawak Energy
 slug: "electricity-tnb-account"
 category: "property"
 subcategory: ["utilities"]

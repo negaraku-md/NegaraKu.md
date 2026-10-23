@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "बुमिपुतेरा आर्थिक नीति: NEP का पुनर्संरचना लक्ष्य आज भी कैसे जारी है"
+seoTitle: बुमिपुतेरा आर्थिक नीति
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

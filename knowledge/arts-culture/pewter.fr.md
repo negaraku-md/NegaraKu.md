@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0033
 title: "L'étain malaisien, le métier que la richesse de l'étain a bâti"
+seoTitle: L'étain malaisien et la richesse de l'étain
 slug: pewter
 category: arts-culture
 subcategory: ["crafts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "Is Malaysia Affordable for Expats? What the Official Numbers Actually Say"
+seoTitle: Is Malaysia Affordable for Expats?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

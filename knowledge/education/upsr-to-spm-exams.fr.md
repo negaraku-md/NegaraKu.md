@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0056
 title: "De l'UPSR au SPM : ce qui reste après l'abolition des grands examens"
+seoTitle: 'De l''UPSR au SPM : après l''abolition des examens'
 slug: "upsr-to-spm-exams"
 category: "education"
 subcategory: ["exams"]

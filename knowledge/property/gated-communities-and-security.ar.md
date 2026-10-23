@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "المجتمعات المسوّرة والأحياء المحروسة في ماليزيا: أين يرسم القانون الخط الفاصل"
+seoTitle: المجتمعات المسوّرة والأحياء المحروسة في ماليزيا
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "لماذا لا يزال المشي وركوب الدراجات في المدن الماليزية طريقاً شاقاً"
+seoTitle: المشي وركوب الدراجات في المدن الماليزية
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

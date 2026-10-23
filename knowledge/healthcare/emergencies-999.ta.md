@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "மலேசியாவில் மருத்துவ அவசரநிலைகள்: 999-க்கு எப்படி அழைப்பது, ஆம்புலன்ஸ் சேவைகள் மற்றும் அவசர சிகிச்சைப் பிரிவில் என்ன நடக்கிறது"
+seoTitle: மலேசியாவில் மருத்துவ அவசரநிலைகள்
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

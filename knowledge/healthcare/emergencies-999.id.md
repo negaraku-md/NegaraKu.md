@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "Kedaruratan Medis di Malaysia: Cara Menelepon 999, Ambulans, dan Apa yang Terjadi di Jabatan Kecemasan"
+seoTitle: Kedaruratan Medis di Malaysia
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

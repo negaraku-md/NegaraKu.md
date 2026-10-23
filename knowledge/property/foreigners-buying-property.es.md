@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "¿Pueden los extranjeros comprar propiedad en Malasia? El precio mínimo y el consentimiento estatal explicados"
+seoTitle: ¿Pueden los extranjeros comprar propiedad en Malasia?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0022
 title: "Daftar Kelahiran Anak: Bagaimana Proses JPN dan Akta Kelahiran Sebenarnya Bekerja"
+seoTitle: Daftar Kelahiran Anak
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

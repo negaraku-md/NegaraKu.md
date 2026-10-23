@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0023
 title: "मलेशिया में सिविल विवाह का पंजीकरण: गैर-मुस्लिमों के लिए JPN प्रक्रिया"
+seoTitle: मलेशिया में सिविल विवाह का पंजीकरण
 slug: "registering-a-marriage-civil"
 category: "settling-in"
 subcategory: ["documents"]

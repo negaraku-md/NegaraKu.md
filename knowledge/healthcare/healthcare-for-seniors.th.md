@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "เมื่อพ่อแม่ไม่สามารถดูแลตนเองได้อีกต่อไป: ทางเลือกการดูแลผู้สูงอายุในมาเลเซีย"
+seoTitle: เมื่อพ่อแม่ไม่สามารถดูแลตนเองได้อีกต่อไป
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0045
 title: "மலேசிய முத்திரை வரி விகிதங்கள் — First Schedule குறிப்பு அட்டவணை"
+seoTitle: மலேசிய முத்திரை வரி விகிதங்கள்
 slug: "stamp-duty-rates"
 category: "taxation"
 subcategory: ["stamp-duty"]

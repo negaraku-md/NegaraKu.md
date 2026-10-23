@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "صناعة المطاط في ماليزيا: محصول متقلّص يغذّي تجارة قفازات عالمية"
+seoTitle: صناعة المطاط في ماليزيا
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

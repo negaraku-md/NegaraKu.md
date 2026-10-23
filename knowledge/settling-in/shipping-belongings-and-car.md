@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "Shipping Your Belongings to Malaysia — and Why Bringing Your Own Car Almost Never Works"
+seoTitle: Shipping Your Belongings to Malaysia
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

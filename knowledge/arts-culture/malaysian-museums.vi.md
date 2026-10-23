@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0046
 title: "Các bảo tàng của Malaysia: Muzium Negara, Bảo tàng Nghệ thuật Hồi giáo và các bảo tàng bang thực sự lưu giữ những gì"
+seoTitle: Các bảo tàng của Malaysia
 slug: "malaysian-museums"
 category: "arts-culture"
 subcategory: ["heritage"]

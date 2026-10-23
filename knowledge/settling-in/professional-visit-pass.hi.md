@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "व्यावसायिक भ्रमण पास: मलेशिया विदेशी विशेषज्ञता को नियोजित किए बिना कैसे मेज़बानी करता है"
+seoTitle: व्यावसायिक भ्रमण पास
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

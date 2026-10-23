@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "Comment fonctionnent les élections en Malaisie : un siège, un membre, le plus de voix l'emporte"
+seoTitle: Comment fonctionnent les élections en Malaisie
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

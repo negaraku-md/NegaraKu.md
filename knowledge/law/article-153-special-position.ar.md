@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "المادة 153: ما الذي يحفظه الدستور الاتحادي فعلياً، وما الذي لا يمكنه المساس به"
+seoTitle: 'المادة 153: ما الذي يحفظه الدستور الاتحادي'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

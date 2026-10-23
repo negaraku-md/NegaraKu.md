@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "Tổng Kiểm toán Nhà nước: Viên chức chính phủ được Hiến pháp bảo vệ khỏi chính phủ"
+seoTitle: Tổng Kiểm toán Nhà nước
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

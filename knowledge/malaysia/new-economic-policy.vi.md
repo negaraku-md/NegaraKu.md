@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "Chính sách Kinh tế Mới: Hai mục tiêu được nêu, một khuôn khổ hai mươi năm"
+seoTitle: Chính sách Kinh tế Mới
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "Hari Wesak di Malaysia: Pemerhatian Buddha Bulan Purnama dan Sebab Tarikhnya Berubah Setiap Tahun"
+seoTitle: Hari Wesak di Malaysia
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

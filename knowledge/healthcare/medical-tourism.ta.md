@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0050
 title: "மலேசியாவின் அமைதியான மருத்துவ சுற்றுலா எழுச்சி, மற்றும் அதற்குப் பின்னால் உள்ள ஏஜென்சி"
+seoTitle: மலேசியாவின் மருத்துவ சுற்றுலா எழுச்சியும் அதன் ஏஜென்சியும்
 slug: "medical-tourism"
 category: "healthcare"
 subcategory: ["specialised"]

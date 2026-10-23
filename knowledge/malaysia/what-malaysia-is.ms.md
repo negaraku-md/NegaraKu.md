@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0040
 title: "Apa Sebenarnya Malaysia: Sebuah Persekutuan, Diterangkan Dari Asas"
+seoTitle: Apa Sebenarnya Malaysia
 slug: "what-malaysia-is"
 category: "malaysia"
 subcategory: ["country-basics"]

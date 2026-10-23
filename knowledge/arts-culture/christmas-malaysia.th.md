@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "มาเลเซียฉลองคริสต์มาสอย่างไร — จากพิธีมิสซาเที่ยงคืนถึงประเพณีเปิดบ้าน"
+seoTitle: มาเลเซียฉลองคริสต์มาสอย่างไร
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

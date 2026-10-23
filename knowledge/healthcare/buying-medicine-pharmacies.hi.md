@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "फार्मेसी काउंटर के पीछे: मलेशिया में नुस्खे, बिना-पर्ची की दवाएँ और नियंत्रित औषधियाँ"
+seoTitle: फार्मेसी काउंटर के पीछे
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

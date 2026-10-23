@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "Gasing: The Spinning Top That Became a Test of Strength and Stamina on the East Coast"
+seoTitle: Gasing
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "Votre produit est tombé en panne et le magasin refuse de vous rembourser : comment récupérer vraiment votre argent"
+seoTitle: 'Produit en panne, magasin refuse : récupérer votre argent'
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "Contraventions de circulation (saman) en Malaisie : identifier le type, consulter et payer avant que le montant n'augmente"
+seoTitle: Contraventions de circulation (saman) en Malaisie
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

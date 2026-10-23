@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0072
 title: "ผู้ช่วยงานบ้านและการดูแลอยู่ไฟในมาเลเซีย: ทางเลือกต่าง ๆ และใครเป็นผู้กำกับดูแลจริง ๆ"
+seoTitle: ผู้ช่วยงานบ้านและการดูแลอยู่ไฟในมาเลเซีย
 slug: "domestic-help-and-confinement-care"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

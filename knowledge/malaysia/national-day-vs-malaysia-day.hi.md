@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "मलेशिया राष्ट्रीय महत्व के दो दिन क्यों मनाता है: 31 अगस्त और 16 सितंबर"
+seoTitle: मलेशिया राष्ट्रीय महत्व के दो दिन क्यों मनाता है
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

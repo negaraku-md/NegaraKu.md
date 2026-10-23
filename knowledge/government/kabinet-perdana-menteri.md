@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "Kepercayaan Majoriti: Syarat Perlembagaan bagi Pelantikan Perdana Menteri dan Jemaah Menteri"
+seoTitle: Kepercayaan Majoriti
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

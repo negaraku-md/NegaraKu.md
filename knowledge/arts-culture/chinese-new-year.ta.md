@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "மலேசியாவில் சீனப் புத்தாண்டு: ஒன்றுகூடல் விருந்து, அங்பவ், சிங்க நடனத்தின் பின்னணிப் பொருள்"
+seoTitle: மலேசியாவில் சீனப் புத்தாண்டு
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

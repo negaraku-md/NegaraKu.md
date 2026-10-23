@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "ماليزيا في لمحة: الأرقام الكامنة خلف البلد، موثَّقة واحداً تلو الآخر"
+seoTitle: 'ماليزيا في لمحة: الأرقام الكامنة خلف البلد'
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "Où trouver de l'aide en santé mentale en Malaisie : soins publics, options privées et lignes de crise"
+seoTitle: Où trouver de l'aide en santé mentale en Malaisie
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

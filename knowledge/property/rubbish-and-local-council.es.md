@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "Basura, reciclaje y consejos locales: por qué algunos estados obligan a separar los residuos y otros no"
+seoTitle: Basura, reciclaje y consejos locales
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

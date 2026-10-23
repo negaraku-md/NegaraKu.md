@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "สภาบรรดาราชา (Majlis Raja-Raja): สถาบันที่เลือกสมเด็จพระราชาธิบดี และเรื่องที่ต้องได้รับความยินยอม"
+seoTitle: สภาบรรดาราชา (Majlis Raja-Raja)
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

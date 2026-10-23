@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "சிங்கப்பூர் மலேசியாவிலிருந்து எவ்வாறு பிரிந்தது: பிரிவினை ஆவணங்கள் உண்மையில் என்ன கூறுகின்றன"
+seoTitle: சிங்கப்பூர் மலேசியாவிலிருந்து எவ்வாறு பிரிந்தது
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

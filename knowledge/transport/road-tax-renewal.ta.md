@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0006"
 title: "சாலை வரி ஒரு “வரி” அல்ல — அது உங்கள் மோட்டார் வாகன உரிமம் (Motor Vehicle Licence, LKM)"
+seoTitle: சாலை வரி ஒரு “வரி” அல்ல — அது உங்கள் மோட்டார் வாகன உரிமம்
 slug: "road-tax-renewal"
 category: "transport"
 subcategory: ["vehicles-tolls"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "هل يمكن للأجانب شراء العقارات في ماليزيا؟ شرح الحدّ الأدنى للسعر وموافقة الولاية"
+seoTitle: هل يمكن للأجانب شراء العقارات في ماليزيا؟
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

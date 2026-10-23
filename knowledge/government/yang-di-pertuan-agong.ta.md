@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0010
 title: "Yang di-Pertuan Agong: ஐந்தாண்டுகளுக்கு ஒருமுறை தேர்ந்தெடுக்கப்படும் சுழற்சி மன்னர்"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "government"
 subcategory: ["institutions"]

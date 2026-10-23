@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "Konfrontasi: The Undeclared War That Greeted Malaysia's Birth"
+seoTitle: 'Konfrontasi: Malaysia''s Undeclared War'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "التعليم الخاص في ماليزيا: كيف يترابط PPKI والمدارس الخاصة وتسجيل OKU"
+seoTitle: التعليم الخاص في ماليزيا
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "ดุลการค้าของมาเลเซีย และเหตุใดการส่งออกจึงมากกว่าขนาดของเศรษฐกิจ"
+seoTitle: ดุลการค้าของมาเลเซียและการส่งออก
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

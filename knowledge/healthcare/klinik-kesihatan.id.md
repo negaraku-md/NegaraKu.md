@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "Klinik Kesihatan: Bagaimana Sistem Perawatan Primer Pemerintah Malaysia Sebenarnya Bekerja"
+seoTitle: 'Klinik Kesihatan: Perawatan Primer Pemerintah Malaysia'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

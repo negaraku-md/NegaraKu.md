@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0046
 title: "Muzium-Muzium Malaysia: Apa Sebenarnya Kandungan Muzium Negara, Islamic Arts Museum dan Muzium-Muzium Negeri"
+seoTitle: Muzium-Muzium Malaysia
 slug: "malaysian-museums"
 category: "arts-culture"
 subcategory: ["heritage"]

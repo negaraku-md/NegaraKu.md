@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "மலேசியாவில் கார் வாங்குதல்: விற்பனையாளர், வங்கி மற்றும் JPJ ஒவ்வொருவரும் உண்மையில் என்ன செய்கிறார்கள்"
+seoTitle: மலேசியாவில் கார் வாங்குதல்
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

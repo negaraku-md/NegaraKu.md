@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0046
 title: "மலேசியாவின் அருங்காட்சியகங்கள்: Muzium Negara, Islamic Arts Museum, மற்றும் மாநில அருங்காட்சியகங்கள் உண்மையில் என்ன வைத்திருக்கின்றன"
+seoTitle: மலேசியாவின் அருங்காட்சியகங்கள்
 slug: "malaysian-museums"
 category: "arts-culture"
 subcategory: ["heritage"]

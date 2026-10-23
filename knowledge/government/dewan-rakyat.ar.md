@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0012
 title: "مجلس النواب (Dewan Rakyat): كيف تتحوّل 222 مقعداً إلى قانون اتحادي"
+seoTitle: مجلس النواب (Dewan Rakyat)
 slug: "dewan-rakyat"
 category: "government"
 subcategory: ["institutions"]

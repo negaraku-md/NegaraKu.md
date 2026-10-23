@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK कोई जल कंपनी नहीं है: राष्ट्रीय मल-जल प्रचालक की असली भूमिका को समझना"
+seoTitle: IWK कोई जल कंपनी नहीं है
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

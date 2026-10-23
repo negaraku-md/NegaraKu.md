@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "Manglish: la gramática, las partículas y los préstamos tras el inglés cotidiano de Malasia"
+seoTitle: 'Manglish: el inglés cotidiano de Malasia'
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

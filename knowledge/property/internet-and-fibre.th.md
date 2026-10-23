@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "อินเทอร์เน็ตบรอดแบนด์ไฟเบอร์ที่บ้านในมาเลเซีย: Unifi, Maxis, TIME และวิธีเลือกจริง"
+seoTitle: อินเทอร์เน็ตบรอดแบนด์ไฟเบอร์ที่บ้านในมาเลเซีย
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

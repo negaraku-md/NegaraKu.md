@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "La Comisión Electoral (SPR): su mandato y funciones según los Artículos 113-114 de la Constitución"
+seoTitle: La Comisión Electoral (SPR)
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

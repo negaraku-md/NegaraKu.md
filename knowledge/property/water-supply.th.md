@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "การประปาของมาเลเซีย: เหตุใดคุณจึงติดต่อกับบริษัทน้ำประปาระดับรัฐ ไม่ใช่รัฐบาลกลาง"
+seoTitle: 'การประปาของมาเลเซีย: บริษัทน้ำระดับรัฐ ไม่ใช่รัฐบาลกลาง'
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

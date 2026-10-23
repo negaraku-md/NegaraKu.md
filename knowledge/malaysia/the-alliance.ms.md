@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0061
 title: "Perikatan: Gabungan Yang Merundingkan Kemerdekaan Tanah Melayu"
+seoTitle: 'Perikatan: Gabungan Perunding Kemerdekaan Tanah Melayu'
 slug: "the-alliance"
 category: "malaysia"
 subcategory: ["independence"]

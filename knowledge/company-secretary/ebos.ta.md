@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0011
 title: "e-BOS — மின்னணு பயனாளர் உரிமை அமைப்பு (Electronic Beneficial Ownership System)"
+seoTitle: e-BOS — மின்னணு பயனாளர் உரிமை அமைப்பு
 slug: "ebos"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

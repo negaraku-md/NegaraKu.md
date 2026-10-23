@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0032
 title: "El impuesto sobre ventas en Malasia — tasas, mecánica y exenciones"
+seoTitle: El impuesto sobre ventas en Malasia
 slug: "sales-tax-explained"
 category: "taxation"
 subcategory: ["sst"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "Getting Married in Malaysia: Why the Process Splits by Religion, Not by Choice"
+seoTitle: Getting Married in Malaysia
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

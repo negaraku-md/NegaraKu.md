@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0030"
 title: "Contracts Act 1950 (Act 136): Undang-Undang Umum Kontrak Malaysia"
+seoTitle: Contracts Act 1950 (Act 136)
 slug: "contracts-act-1950"
 category: "law"
 subcategory: ["key-acts"]

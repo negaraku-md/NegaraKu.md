@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "संघीय बजट चक्र: एक भाषण कैसे आपूर्ति अधिनियम (Supply Act) बनता है"
+seoTitle: 'संघीय बजट चक्र: एक भाषण कैसे आपूर्ति अधिनियम'
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

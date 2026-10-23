@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0072
 title: "Servicio doméstico y cuidados posparto en Malasia: las opciones y quién las regula en realidad"
+seoTitle: Servicio doméstico y cuidados posparto en Malasia
 slug: "domestic-help-and-confinement-care"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

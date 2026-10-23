@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "When a Parent Can No Longer Manage Alone: Elderly Care Options in Malaysia"
+seoTitle: When a Parent Can No Longer Manage Alone
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

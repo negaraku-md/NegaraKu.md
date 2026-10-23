@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "Sampah, Kitar Semula dan Majlis Tempatan: Kenapa Sesetengah Negeri Wajib Asingkan Sisa, Yang Lain Tidak"
+seoTitle: Sampah, Kitar Semula dan Majlis Tempatan
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

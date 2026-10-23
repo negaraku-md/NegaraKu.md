@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0032
 title: "மலேசியாவில் விற்பனை வரி — விகிதங்கள், இயங்குமுறை மற்றும் விலக்குகள்"
+seoTitle: மலேசியாவில் விற்பனை வரி
 slug: "sales-tax-explained"
 category: "taxation"
 subcategory: ["sst"]

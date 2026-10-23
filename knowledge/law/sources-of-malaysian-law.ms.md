@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0060
 title: "Sumber-Sumber Undang-Undang Malaysia: Lima Aliran, Satu Susunan Keutamaan"
+seoTitle: Sumber-Sumber Undang-Undang Malaysia
 slug: "sources-of-malaysian-law"
 category: "law"
 subcategory: ["legal-system"]

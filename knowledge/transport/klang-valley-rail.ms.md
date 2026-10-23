@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0001
 title: "Bagaimana MRT, LRT, Monorel dan Laluan KTM Kuala Lumpur Saling Berhubung"
+seoTitle: Laluan MRT, LRT, Monorel dan KTM Kuala Lumpur
 slug: "klang-valley-rail"
 category: "transport"
 subcategory: ["public-transport"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "Communautés fermées et quartiers gardés en Malaisie : où la loi trace la ligne"
+seoTitle: Communautés fermées et quartiers gardés en Malaisie
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

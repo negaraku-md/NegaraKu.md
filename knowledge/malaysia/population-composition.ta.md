@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "மலேசியாவின் மக்கள்தொகை: DOSM உண்மையில் வெளியிடும் குடிமக்கள் மற்றும் இனப் பிரிவுகள்"
+seoTitle: மலேசியாவின் மக்கள்தொகை
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

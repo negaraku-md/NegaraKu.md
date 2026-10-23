@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "मलेशिया में मानसिक-स्वास्थ्य सहायता कहाँ पाएँ: सार्वजनिक देखभाल, निजी विकल्प और संकट-हेल्पलाइन"
+seoTitle: मलेशिया में मानसिक-स्वास्थ्य सहायता कहाँ पाएँ
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

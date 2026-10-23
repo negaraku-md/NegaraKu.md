@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "Vận chuyển đồ đạc của bạn đến Malaysia — và vì sao mang theo xe hơi của chính mình hầu như không bao giờ hiệu quả"
+seoTitle: Vận chuyển đồ đạc của bạn đến Malaysia
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

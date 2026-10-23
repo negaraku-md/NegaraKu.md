@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "Qui décide quoi : les Listes fédérale, des États et concurrente de la Neuvième Annexe"
+seoTitle: Listes fédérale, des États et concurrente (Neuvième Annexe)
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

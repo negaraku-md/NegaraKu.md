@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "L'Employment Pass : le visa de travail que vous ne pouvez jamais demander vous-même"
+seoTitle: 'Employment Pass : le visa de travail, pas vous-même'
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

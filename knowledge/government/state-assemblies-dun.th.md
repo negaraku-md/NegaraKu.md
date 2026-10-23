@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0052
 title: "สภานิติบัญญัติแห่งรัฐ (Dewan Undangan Negeri): วิธีที่รัฐหนึ่งตรากฎหมายของตนเอง"
+seoTitle: สภานิติบัญญัติแห่งรัฐ (Dewan Undangan Negeri)
 slug: "state-assemblies-dun"
 category: "government"
 subcategory: ["institutions"]

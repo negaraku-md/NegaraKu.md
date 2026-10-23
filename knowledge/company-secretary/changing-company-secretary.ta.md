@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0008
 title: "உங்கள் நிறுவனச் செயலாளரை மாற்றுதல்: ஒப்படைப்புச் சரிபார்ப்புப் பட்டியல்"
+seoTitle: உங்கள் நிறுவனச் செயலாளரை மாற்றுதல்
 slug: "changing-company-secretary"
 category: "company-secretary"
 subcategory: ["appointment"]

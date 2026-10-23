@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "Phòng khám nha khoa chính phủ hay tư nhân? Hiểu về hai hệ thống chăm sóc răng miệng của Malaysia"
+seoTitle: Phòng khám nha khoa chính phủ hay tư nhân ở Malaysia?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

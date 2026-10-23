@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "Syariah — मलेशिया की विधि-व्यवस्था में एक राज्य-विषय के रूप में इस्लामी कानून"
+seoTitle: Syariah — राज्य-विषय के रूप में इस्लामी कानून
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

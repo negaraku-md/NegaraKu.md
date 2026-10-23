@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "Mua xe ở Malaysia: Đại lý, ngân hàng và JPJ mỗi bên thực sự làm gì"
+seoTitle: 'Mua xe ở Malaysia: đại lý, ngân hàng và JPJ'
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

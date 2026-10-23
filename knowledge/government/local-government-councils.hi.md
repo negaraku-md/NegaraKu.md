@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "स्थानीय सरकार (PBT): अधिनियम 171 के अंतर्गत नगर, नगरपालिका और ज़िला परिषदें"
+seoTitle: 'स्थानीय सरकार (PBT): अधिनियम 171 के तहत परिषदें'
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

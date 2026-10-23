@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "Jata Negara: Membaca Perisai Kebangsaan Malaysia, Elemen demi Elemen"
+seoTitle: 'Jata Negara: Perisai Kebangsaan Malaysia'
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "Daftar Berkanun yang Wajib Disimpan oleh Setiap Sdn Bhd: Satu Senarai Semak"
+seoTitle: Daftar Berkanun yang Wajib Disimpan oleh Setiap Sdn Bhd
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

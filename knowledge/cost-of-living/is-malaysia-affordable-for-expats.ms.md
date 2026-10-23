@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "Adakah Malaysia Berpatutan untuk Ekspatriat? Apa yang Sebenarnya Ditunjukkan oleh Angka Rasmi"
+seoTitle: Adakah Malaysia Berpatutan untuk Ekspatriat?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "முதலீட்டாளராக EPF: மலேசியாவின் ஓய்வூதிய நிதி சந்தைகளில் RM1.4 டிரில்லியனை எவ்வாறு நகர்த்துகிறது"
+seoTitle: 'EPF முதலீட்டாளராக: சந்தையில் RM1.4 டிரில்லியன்'
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

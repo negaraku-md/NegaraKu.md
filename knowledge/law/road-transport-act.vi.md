@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "Luật Giao thông Đường bộ 1987 (Act 333): Đạo luật đằng sau mọi giấy phép lái xe và biển số"
+seoTitle: Luật Giao thông Đường bộ 1987 (Act 333)
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

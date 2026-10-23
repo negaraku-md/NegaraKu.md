@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "Impuesto de evaluación y renta de la tierra: dos impuestos a la propiedad, dos autoridades, dos fechas de pago"
+seoTitle: Impuesto de evaluación y renta de la tierra
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

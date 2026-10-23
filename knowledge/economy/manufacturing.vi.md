@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "Ngành chế tạo của Malaysia: Lớn hơn mỗi năm, nhưng mắc kẹt ở cùng một tỷ trọng GDP"
+seoTitle: Ngành chế tạo của Malaysia
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

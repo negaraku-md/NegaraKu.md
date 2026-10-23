@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0011
 title: "மலேசியாவில் இஸ்லாமிய நிதி (Islamic Finance): தலைப்புச் செய்தி எண்களுக்குப் பின்னால் உள்ள ஒப்பந்தங்கள்"
+seoTitle: மலேசியாவில் இஸ்லாமிய நிதி (Islamic Finance)
 slug: "islamic-finance"
 category: "economy"
 subcategory: ["sectors"]

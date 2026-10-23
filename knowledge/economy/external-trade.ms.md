@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "Imbangan Perdagangan Malaysia dan Sebab Eksport Melebihi Saiz Ekonomi"
+seoTitle: Imbangan Perdagangan Malaysia dan Eksport
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

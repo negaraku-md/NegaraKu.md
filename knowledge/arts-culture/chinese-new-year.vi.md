@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "Tết Nguyên đán ở Malaysia: ý nghĩa đằng sau bữa cơm đoàn viên, bao lì xì và múa lân"
+seoTitle: Tết Nguyên đán ở Malaysia
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

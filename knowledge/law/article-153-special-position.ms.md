@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "Perkara 153: Apa yang Sebenarnya Diperuntukkan oleh Perlembagaan Persekutuan, dan Apa yang Tidak Dapat Disentuh"
+seoTitle: 'Perkara 153: Peruntukan Perlembagaan Persekutuan'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

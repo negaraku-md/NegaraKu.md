@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "Vì sao đi bộ và đạp xe ở các thành phố Malaysia vẫn là một cuộc leo dốc"
+seoTitle: Đi bộ và đạp xe ở các thành phố Malaysia
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

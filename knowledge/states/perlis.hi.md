@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0012
 title: "पर्लिस: मलेशिया का सबसे छोटा राज्य, और एकमात्र जिसका नेतृत्व एक राजा करता है"
+seoTitle: 'पर्लिस: मलेशिया का सबसे छोटा राज्य, एक राजा द्वारा शासित'
 slug: "perlis"
 category: "states"
 subcategory: ["peninsular"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — राष्ट्रीय पंजीकरण विभाग: जन्म प्रमाणपत्र से मृत्यु प्रमाणपत्र तक"
+seoTitle: JPN — राष्ट्रीय पंजीकरण विभाग
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

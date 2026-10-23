@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "L, P, CDL உரிமங்கள்: JPJ ஓட்டுநர் உரிம செயல்முறை உண்மையில் எவ்வாறு செயல்படுகிறது"
+seoTitle: 'L, P, CDL உரிமங்கள்: JPJ ஓட்டுநர் உரிம செயல்முறை'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

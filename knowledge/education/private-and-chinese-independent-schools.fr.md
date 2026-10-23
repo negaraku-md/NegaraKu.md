@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "Écoles privées et écoles chinoises indépendantes : la voie entre le national et l'international"
+seoTitle: Écoles privées et écoles chinoises indépendantes
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

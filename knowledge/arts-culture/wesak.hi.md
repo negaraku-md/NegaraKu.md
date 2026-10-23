@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "मलेशिया में वेसाक दिवस: बौद्ध पूर्णिमा अनुष्ठान और तिथि हर वर्ष क्यों बदलती है"
+seoTitle: मलेशिया में वेसाक दिवस
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

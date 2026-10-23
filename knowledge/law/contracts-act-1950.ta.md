@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0030"
 title: "ஒப்பந்தச் சட்டம் 1950 (Contracts Act 1950, Act 136): மலேசியாவின் பொது ஒப்பந்தச் சட்டம்"
+seoTitle: ஒப்பந்தச் சட்டம் 1950 (Contracts Act 1950, Act 136)
 slug: "contracts-act-1950"
 category: "law"
 subcategory: ["key-acts"]

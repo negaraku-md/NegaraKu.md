@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "Acheter un logement en Malaisie : ce qui se passe réellement entre les frais de réservation et les clés"
+seoTitle: Acheter un logement en Malaisie
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

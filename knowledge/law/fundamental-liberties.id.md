@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "Kebebasan Asasi: Pasal 5 hingga 13 Konstitusi Federal, dan Batasan yang Terkandung dalam Masing-Masing"
+seoTitle: 'Kebebasan Asasi: Pasal 5 hingga 13 Konstitusi Federal'
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

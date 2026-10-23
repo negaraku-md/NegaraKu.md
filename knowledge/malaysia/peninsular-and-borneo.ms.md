@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0042
 title: "Mengapa Malaysia Mempunyai Sempadan Dalaman, dan Apa Sebenarnya yang Dikawalnya"
+seoTitle: Mengapa Malaysia Mempunyai Sempadan Dalaman
 slug: "peninsular-and-borneo"
 category: "malaysia"
 subcategory: ["country-basics"]

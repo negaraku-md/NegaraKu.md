@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "Banda ancha por fibra en el hogar en Malasia: Unifi, Maxis, TIME y cómo elegir de verdad"
+seoTitle: Banda ancha por fibra en el hogar en Malasia
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

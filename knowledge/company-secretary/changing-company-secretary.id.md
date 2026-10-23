@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0008
 title: "Mengganti Sekretaris Perusahaan Anda: Daftar Periksa Serah Terima"
+seoTitle: Mengganti Sekretaris Perusahaan Anda
 slug: "changing-company-secretary"
 category: "company-secretary"
 subcategory: ["appointment"]

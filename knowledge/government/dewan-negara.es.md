@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0013
 title: "Dewan Negara: Cómo se nombran los senadores y por qué esta cámara retrasa en lugar de vetar"
+seoTitle: 'Dewan Negara: cómo se nombran los senadores'
 slug: "dewan-negara"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "Bagaimana Sistem Penjagaan Kesihatan Malaysia Sebenarnya Berfungsi: Jurang Awam-Swasta, dan Siapa Membayar Apa"
+seoTitle: Bagaimana Sistem Penjagaan Kesihatan Malaysia Berfungsi
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

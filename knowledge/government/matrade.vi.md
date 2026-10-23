@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0071
 title: "MATRADE — Tổng công ty Phát triển Ngoại thương Malaysia: Xuất khẩu đi ra, không phải đầu tư đi vào"
+seoTitle: MATRADE — Tổng công ty Phát triển Ngoại thương Malaysia
 slug: "matrade"
 category: "government"
 subcategory: ["agencies"]

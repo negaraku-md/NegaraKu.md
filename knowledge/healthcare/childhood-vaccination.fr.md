@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "Des vaccins gratuits pour chaque enfant : comprendre le Programme national de vaccination du ministère de la Santé"
+seoTitle: Des vaccins gratuits pour chaque enfant
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

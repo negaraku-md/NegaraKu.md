@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0027
 title: "Open House: When One Community's Celebration Becomes Everyone's Invitation"
+seoTitle: 'Open House: When a Celebration Invites Everyone'
 slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]

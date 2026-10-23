@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0017
 title: "Negaraku: பேராக் மாநில கீதம் எவ்வாறு மலேசியாவின் தேசிய கீதமாக மாறியது"
+seoTitle: 'Negaraku: பேராக் மாநில கீதம் மலேசிய தேசிய கீதமானது'
 slug: "negaraku-anthem"
 category: "malaysia"
 subcategory: ["identity"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "ใบอนุญาต L, P, CDL: กระบวนการออกใบอนุญาตขับขี่ของ JPJ ทำงานอย่างไรจริง ๆ"
+seoTitle: 'ใบอนุญาต L, P, CDL: กระบวนการใบขับขี่ของ JPJ'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

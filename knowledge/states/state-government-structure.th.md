@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "โครงสร้างรัฐบาลของรัฐในมาเลเซีย: ผู้ปกครอง สภาบริหาร และสภานิติบัญญัติ"
+seoTitle: โครงสร้างรัฐบาลของรัฐในมาเลเซีย
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

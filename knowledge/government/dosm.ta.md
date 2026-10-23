@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0016
 title: "DOSM — மலேசியா புள்ளிவிவரத் திணைக்களம் (Department of Statistics Malaysia): அது எதை வெளியிடுகிறது, எப்போது வெளியிடுகிறது"
+seoTitle: DOSM — மலேசியா புள்ளிவிவரத் திணைக்களம்
 slug: "dosm"
 category: "government"
 subcategory: ["agencies"]

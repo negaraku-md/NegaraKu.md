@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: badan federal yang mengoordinasikan urusan Islam tanpa mengatasi kuasa agama negeri"
+seoTitle: 'JAKIM: badan federal urusan Islam'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

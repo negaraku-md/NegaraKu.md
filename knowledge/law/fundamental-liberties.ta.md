@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "அடிப்படை சுதந்திரங்கள்: கூட்டரசு அரசியலமைப்பின் Article 5 முதல் 13 வரை, மற்றும் ஒவ்வொன்றிலும் உள்ளமைந்துள்ள வரம்புகள்"
+seoTitle: அடிப்படை சுதந்திரங்கள்
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

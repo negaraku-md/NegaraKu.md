@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "Đi lại giữa các thành phố ở Malaysia: So sánh tàu, xe buýt và máy bay"
+seoTitle: Đi lại giữa các thành phố ở Malaysia
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

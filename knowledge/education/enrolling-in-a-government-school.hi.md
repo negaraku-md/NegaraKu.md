@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "अपने बच्चे को सरकारी स्कूल में कैसे दाखिल कराएँ: प्रवेश-आयु, दस्तावेज़ और idMe प्रणाली"
+seoTitle: अपने बच्चे को सरकारी स्कूल में कैसे दाखिल कराएँ
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

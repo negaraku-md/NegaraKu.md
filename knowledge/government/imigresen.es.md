@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "Departamento de Inmigración de Malasia: el departamento que decide quién entra, quién se queda y quién sale"
+seoTitle: Departamento de Inmigración de Malasia
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

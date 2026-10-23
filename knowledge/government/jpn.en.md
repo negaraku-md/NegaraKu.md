@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — National Registration Department: from birth certificate to death certificate"
+seoTitle: JPN — National Registration Department
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

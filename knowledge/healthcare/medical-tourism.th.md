@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0050
 title: "การเติบโตอย่างเงียบ ๆ ของการท่องเที่ยวเชิงการแพทย์ในมาเลเซีย และหน่วยงานเบื้องหลัง"
+seoTitle: การท่องเที่ยวเชิงการแพทย์ในมาเลเซียและหน่วยงานเบื้องหลัง
 slug: "medical-tourism"
 category: "healthcare"
 subcategory: ["specialised"]

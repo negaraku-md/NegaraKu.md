@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0008
 title: "Changer de secrétaire d'entreprise : la liste de vérification de la passation"
+seoTitle: Changer de secrétaire d'entreprise
 slug: "changing-company-secretary"
 category: "company-secretary"
 subcategory: ["appointment"]

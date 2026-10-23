@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0068"
 title: "Gangga Negara: Hikayat இல் குறிப்பிடப்படும், தொல்லியல் ரீதியாக இன்னும் உறுதிப்படுத்தப்படாத Perak அரசு"
+seoTitle: 'Gangga Negara: Hikayat இல் குறிப்பிடப்படும் Perak அரசு'
 slug: "gangga-negara"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

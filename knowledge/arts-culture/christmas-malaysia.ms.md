@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "Bagaimana Malaysia Menyambut Krismas — Dari Misa Tengah Malam hingga Rumah Terbuka"
+seoTitle: Bagaimana Malaysia Menyambut Krismas
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

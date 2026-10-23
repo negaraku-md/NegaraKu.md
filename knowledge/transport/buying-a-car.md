@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "Buying a Car in Malaysia: What the Dealer, the Bank and JPJ Each Actually Do"
+seoTitle: Buying a Car in Malaysia
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "Sekolah Persendirian dan Sekolah Menengah Persendirian Cina: Trek Antara Kebangsaan dan Antarabangsa"
+seoTitle: Sekolah Persendirian dan Sekolah Menengah Persendirian Cina
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

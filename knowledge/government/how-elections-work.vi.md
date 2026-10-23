@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "Cách bầu cử Malaysia vận hành: Một khu vực, một đại biểu, ai nhiều phiếu nhất thì thắng"
+seoTitle: Cách bầu cử Malaysia vận hành
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "Giáo dục đặc biệt tại Malaysia: PPKI, các trường đặc biệt và việc đăng ký OKU khớp với nhau ra sao"
+seoTitle: Giáo dục đặc biệt tại Malaysia
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

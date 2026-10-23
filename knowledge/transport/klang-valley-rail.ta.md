@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0001
 title: "கோலாலம்பூரின் MRT, LRT, மோனோரயில் மற்றும் KTM வழித்தடங்கள் எவ்வாறு இணைகின்றன"
+seoTitle: கோலாலம்பூரின் MRT, LRT, மோனோரயில் மற்றும் KTM வழித்தடங்கள்
 slug: "klang-valley-rail"
 category: "transport"
 subcategory: ["public-transport"]

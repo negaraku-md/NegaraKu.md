@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0052
 title: "Hội đồng Lập pháp Bang: Cách một bang làm ra luật của riêng mình"
+seoTitle: Hội đồng Lập pháp Bang
 slug: "state-assemblies-dun"
 category: "government"
 subcategory: ["institutions"]

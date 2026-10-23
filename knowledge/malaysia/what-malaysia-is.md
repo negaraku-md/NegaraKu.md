@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0040
 title: "What Malaysia Actually Is: A Federation, Explained From the Ground Up"
+seoTitle: What Malaysia Actually Is
 slug: "what-malaysia-is"
 category: "malaysia"
 subcategory: ["country-basics"]

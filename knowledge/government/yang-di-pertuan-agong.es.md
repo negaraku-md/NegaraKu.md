@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0010
 title: "Yang di-Pertuan Agong: el Rey rotatorio elegido cada cinco años"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "government"
 subcategory: ["institutions"]

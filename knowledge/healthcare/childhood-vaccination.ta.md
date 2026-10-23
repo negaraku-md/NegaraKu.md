@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "ஒவ்வொரு குழந்தைக்கும் இலவச தடுப்பூசி: KKM-இன் தேசிய நோய்த்தடுப்பு திட்டத்தைப் புரிந்துகொள்ளுதல்"
+seoTitle: ஒவ்வொரு குழந்தைக்கும் இலவச தடுப்பூசி
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

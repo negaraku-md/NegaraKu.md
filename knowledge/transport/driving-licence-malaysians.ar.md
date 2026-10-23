@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "رخص L وP وCDL: كيف تعمل عملية رخصة القيادة لدى JPJ في ماليزيا فعلًا"
+seoTitle: 'رخص L وP وCDL: عملية رخصة القيادة لدى JPJ'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

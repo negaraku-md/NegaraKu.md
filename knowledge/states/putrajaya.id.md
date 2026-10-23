@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0014
 title: "Putrajaya: pusat administrasi federal yang bukan sebuah negara bagian"
+seoTitle: 'Putrajaya: pusat administrasi federal, bukan negara bagian'
 slug: "putrajaya"
 category: "states"
 subcategory: ["territories"]

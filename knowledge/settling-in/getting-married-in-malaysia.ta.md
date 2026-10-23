@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "மலேசியாவில் திருமணம் செய்தல்: ஏன் இந்த நடைமுறை தேர்வால் அல்ல, மதத்தால் பிரிக்கப்படுகிறது"
+seoTitle: மலேசியாவில் திருமணம் செய்தல்
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

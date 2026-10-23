@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "மலேசிய நகரங்களில் நடப்பதும் மிதிவண்டி ஓட்டுவதும் ஏன் இன்னும் ஒரு கடினமான ஏற்றமாகவே உள்ளது"
+seoTitle: மலேசிய நகரங்களில் நடப்பதும் மிதிவண்டி ஓட்டுவதும்
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

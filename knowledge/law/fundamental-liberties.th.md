@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "เสรีภาพขั้นพื้นฐาน: มาตรา 5 ถึง 13 ของรัฐธรรมนูญสหพันธรัฐ และข้อจำกัดที่สร้างไว้ในแต่ละมาตรา"
+seoTitle: 'เสรีภาพขั้นพื้นฐาน: มาตรา 5 ถึง 13 ของรัฐธรรมนูญสหพันธรัฐ'
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

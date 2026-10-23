@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0013
 title: "தண்டனைச் சட்டம் (Penal Code, Act 574): மலேசியாவின் முதன்மைக் குற்றவியல் சட்டம்"
+seoTitle: தண்டனைச் சட்டம் (Penal Code, Act 574)
 slug: "penal-code"
 category: "law"
 subcategory: ["key-acts"]

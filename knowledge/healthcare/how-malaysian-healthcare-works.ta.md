@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "மலேசிய சுகாதாரம் உண்மையில் எப்படி இயங்குகிறது: பொது-தனியார் பிரிவு, யார் எதற்குச் செலுத்துகிறார்கள்"
+seoTitle: மலேசிய சுகாதாரம் உண்மையில் எப்படி இயங்குகிறது
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

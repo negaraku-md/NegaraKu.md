@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "Chính quyền một bang của Malaysia được tổ chức ra sao: Vương công, Hội đồng Hành pháp, và Hội đồng Lập pháp"
+seoTitle: Chính quyền một bang của Malaysia được tổ chức ra sao
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "Artículo 3: lo que la Constitución dice sobre el islam, y lo que el Artículo 11 dice junto a él"
+seoTitle: 'Artículo 3: el islam en la Constitución y el Artículo 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

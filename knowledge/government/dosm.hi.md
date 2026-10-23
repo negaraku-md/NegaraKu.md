@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0016
 title: "DOSM — मलेशिया सांख्यिकी विभाग: यह क्या प्रकाशित करता है, और कब"
+seoTitle: DOSM — मलेशिया सांख्यिकी विभाग
 slug: "dosm"
 category: "government"
 subcategory: ["agencies"]

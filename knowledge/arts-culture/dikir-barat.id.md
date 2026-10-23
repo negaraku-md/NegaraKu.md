@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0040
 title: "Dikir Barat: Ketika Dua Kelompok Berbalas Pantun di Atas Panggung"
+seoTitle: Dikir Barat
 slug: "dikir-barat"
 category: "arts-culture"
 subcategory: ["performing-arts"]

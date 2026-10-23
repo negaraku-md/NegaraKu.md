@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "Educación especial en Malasia: cómo encajan el PPKI, las escuelas especiales y el registro OKU"
+seoTitle: Educación especial en Malasia
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

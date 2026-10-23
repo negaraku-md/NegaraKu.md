@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0060"
 title: "Belajar di Malaysia sebagai Mahasiswa Internasional: Memilih Institusi dan Proses Penerimaan"
+seoTitle: Belajar di Malaysia sebagai Mahasiswa Internasional
 slug: "international-students-studying-in-malaysia"
 category: "education"
 subcategory: ["tertiary"]

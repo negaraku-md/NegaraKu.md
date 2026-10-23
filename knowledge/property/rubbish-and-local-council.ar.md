@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "النفايات وإعادة التدوير والمجالس المحلية: لماذا تفرض بعض الولايات فصل النفايات وأخرى لا تفرضه"
+seoTitle: النفايات وإعادة التدوير والمجالس المحلية
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "Professional Visit Pass: Bagaimana Malaysia Menjadi Tuan Rumah bagi Keahlian Asing Tanpa Mempekerjakannya"
+seoTitle: Professional Visit Pass
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

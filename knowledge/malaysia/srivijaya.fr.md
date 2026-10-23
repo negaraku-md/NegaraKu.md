@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0048"
 title: "Srivijaya : le royaume maritime derrière la dynastie fondatrice de Melaka"
+seoTitle: 'Srivijaya : le royaume maritime à l''origine de Melaka'
 slug: "srivijaya"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

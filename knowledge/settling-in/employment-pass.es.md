@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "El Employment Pass: el visado de trabajo que usted nunca puede solicitar por sí mismo"
+seoTitle: 'Employment Pass: el visado de trabajo que no pide usted'
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

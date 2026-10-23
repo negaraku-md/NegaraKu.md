@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "Dewan Negara: la cámara alta del Parlamento que no se elige en elecciones generales"
+seoTitle: 'Dewan Negara: la cámara alta del Parlamento'
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

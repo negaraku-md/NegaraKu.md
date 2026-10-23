@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — دائرة التسجيل الوطني: من شهادة الميلاد إلى شهادة الوفاة"
+seoTitle: JPN — دائرة التسجيل الوطني
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

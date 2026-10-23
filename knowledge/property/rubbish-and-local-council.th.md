@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "ขยะ การรีไซเคิล และสภาท้องถิ่น: เหตุใดบางรัฐบังคับแยกขยะ แต่บางรัฐไม่บังคับ"
+seoTitle: ขยะ การรีไซเคิล และสภาท้องถิ่น
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "Klinik Kesihatan: மலேசியாவின் அரசாங்க முதன்மை சுகாதார அமைப்பு உண்மையில் எவ்வாறு இயங்குகிறது"
+seoTitle: 'Klinik Kesihatan: மலேசிய அரசாங்க முதன்மை சுகாதாரம்'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

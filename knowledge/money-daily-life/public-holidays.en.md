@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "Federal public holidays vs state holidays: why the holiday list differs by state"
+seoTitle: Federal public holidays vs state holidays
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

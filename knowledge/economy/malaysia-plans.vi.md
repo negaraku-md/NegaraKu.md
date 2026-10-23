@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0021
 title: "Kế hoạch Malaysia: Khuôn khổ năm năm định hình mọi Ngân sách hằng năm"
+seoTitle: 'Kế hoạch Malaysia: Khuôn khổ năm năm định hình Ngân sách'
 slug: "malaysia-plans"
 category: "economy"
 subcategory: ["policy"]

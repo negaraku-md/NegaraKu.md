@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "Government or Private Dental Clinic? Understanding Malaysia's Two Dental Care Systems"
+seoTitle: Government or Private Dental Clinic in Malaysia?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

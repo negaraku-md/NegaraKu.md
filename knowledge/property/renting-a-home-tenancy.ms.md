@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "Menyewa di Malaysia Tiada Akta Sewaan — Jadi Perjanjian yang Anda Tandatangani Itulah Undang-Undangnya"
+seoTitle: Menyewa di Malaysia Tiada Akta Sewaan
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

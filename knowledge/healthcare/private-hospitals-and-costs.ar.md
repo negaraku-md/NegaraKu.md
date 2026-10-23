@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "فاتورتان لإقامة واحدة: كيف تحاسبك المستشفيات الخاصة في ماليزيا فعلاً"
+seoTitle: فاتورتان لإقامة واحدة
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

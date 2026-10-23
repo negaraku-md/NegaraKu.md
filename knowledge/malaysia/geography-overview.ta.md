@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0044
 title: "மலேசியாவின் மலைகளும் பருவமழைக் காற்றுகளும் மலேசியர்கள் வாழும் இடங்களை எப்படி வடிவமைத்தன"
+seoTitle: 'மலைகளும் பருவமழையும்: மலேசியர்கள் வாழும் இடம்'
 slug: "geography-overview"
 category: "malaysia"
 subcategory: ["geography"]

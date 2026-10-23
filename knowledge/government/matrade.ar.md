@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0071
 title: "MATRADE — مؤسسة تنمية التجارة الخارجية الماليزية: التصدير إلى الخارج، لا الاستثمار الوافد"
+seoTitle: MATRADE — مؤسسة تنمية التجارة الخارجية الماليزية
 slug: "matrade"
 category: "government"
 subcategory: ["agencies"]

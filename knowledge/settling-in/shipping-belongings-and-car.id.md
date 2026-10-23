@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "Mengirim Barang Pribadi Anda ke Malaysia — dan Alasan Membawa Mobil Sendiri Hampir Tidak Pernah Berhasil"
+seoTitle: Mengirim Barang Pribadi Anda ke Malaysia
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

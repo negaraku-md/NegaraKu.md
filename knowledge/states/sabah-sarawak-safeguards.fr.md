@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "Pourquoi vous pouvez être refoulé à Kota Kinabalu : les garanties constitutionnelles de Sabah et Sarawak"
+seoTitle: Pourquoi vous pouvez être refoulé à Kota Kinabalu
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

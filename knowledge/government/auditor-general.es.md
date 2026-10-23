@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "El Auditor General: el funcionario constitucional al que la Constitución protege del Gobierno"
+seoTitle: 'El Auditor General: funcionario constitucional'
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "Đằng sau ứng dụng: Grab và ngành gọi xe điện tử của Malaysia được điều tiết như thế nào"
+seoTitle: Grab và ngành gọi xe điện tử Malaysia được quản lý thế nào
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

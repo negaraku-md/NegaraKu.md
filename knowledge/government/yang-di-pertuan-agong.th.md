@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0010
 title: "Yang di-Pertuan Agong: พระมหากษัตริย์ที่ผลัดเปลี่ยนหมุนเวียนและได้รับการเลือกทุกห้าปี"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "government"
 subcategory: ["institutions"]

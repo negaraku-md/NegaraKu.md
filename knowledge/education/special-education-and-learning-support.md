@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "Special Education in Malaysia: How PPKI, Special Schools and OKU Registration Fit Together"
+seoTitle: Special Education in Malaysia
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

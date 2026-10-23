@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "Bộ luật Đất đai Quốc gia 1965 — đạo luật đặt một cái tên lên mỗi giấy chứng nhận quyền sở hữu ở Bán đảo Malaysia"
+seoTitle: Bộ luật Đất đai Quốc gia 1965
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

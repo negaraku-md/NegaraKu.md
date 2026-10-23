@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0024
 title: "Đăng ký khai tử tại Malaysia: Quy trình JPN, giấy chứng tử và những gì tiếp theo"
+seoTitle: Đăng ký khai tử tại Malaysia
 slug: "registering-a-death"
 category: "settling-in"
 subcategory: ["documents"]

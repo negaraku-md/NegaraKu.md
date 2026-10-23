@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "Polis Diraja Malaysia: Struktur Perintah, Fungsi Teras dan Asas Perundangannya"
+seoTitle: Polis Diraja Malaysia
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

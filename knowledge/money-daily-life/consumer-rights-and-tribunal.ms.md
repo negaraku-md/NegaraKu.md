@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "Produk Anda Rosak dan Kedai Enggan Bayar Balik: Cara Sebenar Mendapatkan Semula Wang Anda"
+seoTitle: Produk Anda Rosak dan Kedai Enggan Bayar Balik
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

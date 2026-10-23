@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "Ordures, recyclage et conseils locaux : pourquoi certains États imposent le tri des déchets et d'autres non"
+seoTitle: Ordures, recyclage et conseils locaux
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

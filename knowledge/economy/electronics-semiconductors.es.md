@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0008
 title: "Electrónica y semiconductores: el sector que sostiene las exportaciones de Malasia"
+seoTitle: Electrónica y semiconductores
 slug: "electronics-semiconductors"
 category: "economy"
 subcategory: ["sectors"]

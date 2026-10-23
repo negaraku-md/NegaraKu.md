@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0022
 title: "अपने बच्चे का जन्म पंजीकृत करना: JPN प्रक्रिया और जन्म प्रमाणपत्र वास्तव में कैसे काम करते हैं"
+seoTitle: अपने बच्चे का जन्म पंजीकृत करना
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

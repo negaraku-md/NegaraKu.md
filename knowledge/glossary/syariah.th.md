@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "ชะรีอะฮ์ (Syariah) — กฎหมายอิสลามในฐานะเรื่องของรัฐในระบบมาเลเซีย"
+seoTitle: ชะรีอะฮ์ (Syariah) — กฎหมายอิสลามในฐานะเรื่องของรัฐ
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

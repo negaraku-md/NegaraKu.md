@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0002
 title: "LHDN — மலேசிய உள்நாட்டு வருவாய் வாரியம் (Inland Revenue Board of Malaysia)"
+seoTitle: LHDN — மலேசிய உள்நாட்டு வருவாய் வாரியம்
 slug: "lhdn"
 category: "government"
 subcategory: ["agencies"]

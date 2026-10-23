@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "الشرطة الملكية الماليزية: تسلسل القيادة والوظائف الأساسية والأساس القانوني"
+seoTitle: الشرطة الملكية الماليزية
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

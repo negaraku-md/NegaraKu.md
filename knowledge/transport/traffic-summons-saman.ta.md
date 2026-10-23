@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "மலேசியாவில் போக்குவரத்து சம்மன் (Saman): வகையை அடையாளம் காணுங்கள், பெரிதாகும் முன் சரிபார்த்துச் செலுத்துங்கள்"
+seoTitle: மலேசியாவில் போக்குவரத்து சம்மன் (Saman)
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

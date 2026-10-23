@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "Apakah Malaysia Terjangkau untuk Ekspatriat? Apa yang Sebenarnya Ditunjukkan oleh Angka Resmi"
+seoTitle: Apakah Malaysia Terjangkau untuk Ekspatriat?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "Pasal 153: Apa yang Sebenarnya Ditetapkan oleh Konstitusi Federal, dan Apa yang Tidak Dapat Disentuh"
+seoTitle: 'Pasal 153: Apa yang Ditetapkan Konstitusi Federal'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

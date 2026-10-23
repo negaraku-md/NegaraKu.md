@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "ऐप के पीछे: Grab और मलेशिया के ई-हेलिंग कारोबार को कैसे विनियमित किया जाता है"
+seoTitle: 'Grab और मलेशिया का ई-हेलिंग: नियमन कैसे होता है'
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

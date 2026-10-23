@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0071
 title: "MATRADE — मलेशिया बाह्य व्यापार विकास निगम: निर्यात बाहर, निवेश भीतर नहीं"
+seoTitle: MATRADE — मलेशिया बाह्य व्यापार विकास निगम
 slug: "matrade"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "மலேசியாவின் உற்பத்தித் துறை: ஒவ்வோர் ஆண்டும் பெரிதாகிறது, ஆனால் GDP-யில் அதே பங்கிலேயே சிக்கியுள்ளது"
+seoTitle: மலேசியாவின் உற்பத்தித் துறை
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

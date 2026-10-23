@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0023
 title: "การจดทะเบียนสมรสทางแพ่งในมาเลเซีย: กระบวนการ JPN สำหรับผู้ที่ไม่ใช่มุสลิม"
+seoTitle: การจดทะเบียนสมรสทางแพ่งในมาเลเซีย
 slug: "registering-a-marriage-civil"
 category: "settling-in"
 subcategory: ["documents"]

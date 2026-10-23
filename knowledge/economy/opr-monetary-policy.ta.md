@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "இரவுநேரக் கொள்கை வீதம்: பணத்தின் விலையை வங்கி நெகாரா எப்படி நிர்ணயிக்கிறது"
+seoTitle: இரவுநேரக் கொள்கை வீதம்
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

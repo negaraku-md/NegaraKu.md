@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0069
 title: "சிங்கப்பூர் அல்லது தாய்லாந்துக்குள் நுழைய உங்கள் காருக்கு உண்மையில் தேவைப்படுவது என்ன"
+seoTitle: சிங்கப்பூர் அல்லது தாய்லாந்துக்கு உங்கள் காருக்கு என்ன தேவை
 slug: "driving-to-singapore-and-thailand"
 category: "transport"
 subcategory: ["driving"]

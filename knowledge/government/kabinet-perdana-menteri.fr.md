@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "La confiance de la majorité : les exigences constitutionnelles pour nommer le Premier ministre et le Cabinet"
+seoTitle: La confiance de la majorité
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

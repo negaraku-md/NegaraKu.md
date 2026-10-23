@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "Produk Anda Rusak dan Toko Menolak Mengembalikan Uang: Cara Sebenarnya Mendapatkan Kembali Uang Anda"
+seoTitle: Produk Anda Rusak dan Toko Menolak Mengembalikan Uang
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

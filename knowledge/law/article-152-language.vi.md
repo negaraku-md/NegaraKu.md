@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0021
 title: "Điều 152: Sáu khoản định nghĩa ngôn ngữ quốc gia của Malaysia"
+seoTitle: 'Điều 152: ngôn ngữ quốc gia của Malaysia'
 slug: "article-152-language"
 category: "law"
 subcategory: ["constitutional"]

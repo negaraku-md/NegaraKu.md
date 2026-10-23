@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — மலேசிய ஊழல் தடுப்பு ஆணையம் மற்றும் அதன் ஐந்து மேற்பார்வை அமைப்புகள்"
+seoTitle: MACC — மலேசிய ஊழல் தடுப்பு ஆணையம்
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

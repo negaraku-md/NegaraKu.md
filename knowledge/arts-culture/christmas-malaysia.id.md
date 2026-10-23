@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "Bagaimana Malaysia Merayakan Natal — Dari Misa Tengah Malam hingga Rumah Terbuka"
+seoTitle: Bagaimana Malaysia Merayakan Natal
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

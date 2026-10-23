@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0061
 title: "التحالف (The Alliance): الائتلاف الذي تفاوض على استقلال مالايا"
+seoTitle: التحالف (The Alliance)
 slug: "the-alliance"
 category: "malaysia"
 subcategory: ["independence"]

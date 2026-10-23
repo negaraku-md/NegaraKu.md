@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "Di Balik Loket Farmasi: Resep, Obat Bebas, dan Obat Terkontrol di Malaysia"
+seoTitle: Di Balik Loket Farmasi
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

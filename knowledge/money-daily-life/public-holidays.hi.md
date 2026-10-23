@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "संघीय सार्वजनिक अवकाश बनाम राज्य अवकाश: अवकाश सूची राज्य-दर-राज्य क्यों भिन्न है"
+seoTitle: संघीय सार्वजनिक अवकाश बनाम राज्य अवकाश
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

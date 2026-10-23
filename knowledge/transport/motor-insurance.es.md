@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "Seguro de coche en Malasia: por qué la cobertura a terceros es obligatoria y cómo se vincula al impuesto de circulación"
+seoTitle: Seguro de coche en Malasia
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

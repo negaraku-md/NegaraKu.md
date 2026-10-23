@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "Quién decide qué: Las Listas Federal, Estatal y Concurrente del Noveno Anexo"
+seoTitle: Listas Federal, Estatal y Concurrente (Noveno Anexo)
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: वह संघीय निकाय जो राज्यों के धार्मिक प्राधिकार को समाप्त किए बिना इस्लामी मामलों का समन्वय करता है"
+seoTitle: 'JAKIM: इस्लामी मामलों का संघीय निकाय'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

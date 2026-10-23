@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "マレーシアのコモンロー：1956年民事法（Civil Law Act 1956）はいかにして英国法を導入——そして凍結——したか"
+seoTitle: マレーシアのコモンロー：1956年民事法
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

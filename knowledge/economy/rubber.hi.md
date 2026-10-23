@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "मलेशिया का रबड़ उद्योग: एक सिकुड़ती फ़सल जो वैश्विक दस्ताना कारोबार को खिलाती है"
+seoTitle: मलेशिया का रबड़ उद्योग
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

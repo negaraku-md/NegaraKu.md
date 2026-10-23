@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "El ciclo del presupuesto federal: cómo un discurso se convierte en una Ley de Suministros (Supply Act)"
+seoTitle: El ciclo del presupuesto federal
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

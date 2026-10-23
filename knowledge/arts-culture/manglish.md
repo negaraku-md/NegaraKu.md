@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "Manglish: The Grammar, Particles and Loanwords Behind Malaysia's Everyday English"
+seoTitle: 'Manglish: Malaysia''s Everyday English'
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

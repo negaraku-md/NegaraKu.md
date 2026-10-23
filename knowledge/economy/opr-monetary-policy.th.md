@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "อัตราดอกเบี้ยนโยบายข้ามคืน: ธนาคารกลางกำหนดราคาของเงินอย่างไร"
+seoTitle: อัตราดอกเบี้ยนโยบายข้ามคืน
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

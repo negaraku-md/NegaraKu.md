@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "Apabila Ibu Bapa Tidak Lagi Mampu Menguruskan Diri Sendiri: Pilihan Penjagaan Warga Emas di Malaysia"
+seoTitle: Apabila Ibu Bapa Tidak Lagi Mampu Menguruskan Diri Sendiri
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

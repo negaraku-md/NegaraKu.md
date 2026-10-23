@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK ஒரு நீர் நிறுவனம் அல்ல: தேசிய கழிவுநீர் இயக்குநரின் உண்மையான பங்கைப் புரிந்துகொள்ளுதல்"
+seoTitle: IWK ஒரு நீர் நிறுவனம் அல்ல
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

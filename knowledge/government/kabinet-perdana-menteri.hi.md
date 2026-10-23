@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "बहुमत का विश्वास: प्रधानमंत्री और मंत्रिमंडल की नियुक्ति की संवैधानिक आवश्यकताएँ"
+seoTitle: 'बहुमत का विश्वास: प्रधानमंत्री और मंत्रिमंडल की नियुक्ति'
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0061
 title: "Giáo dục tại nhà ở Malaysia: Hợp pháp, nhưng chỉ qua một sự miễn của Bộ trưởng"
+seoTitle: Giáo dục tại nhà ở Malaysia
 slug: "homeschooling"
 category: "education"
 subcategory: ["support"]

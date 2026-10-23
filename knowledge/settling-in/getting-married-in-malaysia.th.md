@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "การสมรสในมาเลเซีย: เหตุใดกระบวนการจึงแยกตามศาสนา ไม่ใช่ตามการเลือก"
+seoTitle: 'การสมรสในมาเลเซีย: เหตุใดจึงแยกตามศาสนา'
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

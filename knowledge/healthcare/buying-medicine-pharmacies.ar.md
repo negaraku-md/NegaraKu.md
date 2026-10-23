@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "خلف طاولة الصيدلية: الوصفات الطبية والأدوية التي تُصرف دون وصفة والأدوية الخاضعة للرقابة في ماليزيا"
+seoTitle: شراء الأدوية من الصيدليات في ماليزيا
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

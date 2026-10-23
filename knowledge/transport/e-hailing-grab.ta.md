@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "App-க்குப் பின்னால்: Grab-ம் மலேசியாவின் இ-ஹெய்லிங் தொழிலும் எவ்வாறு ஒழுங்குபடுத்தப்படுகின்றன"
+seoTitle: Grab, மலேசிய இ-ஹெய்லிங் ஒழுங்குமுறை
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

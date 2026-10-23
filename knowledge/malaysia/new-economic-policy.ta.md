@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "புதிய பொருளாதாரக் கொள்கை: இரண்டு அறிவிக்கப்பட்ட நோக்கங்கள், ஒரு இருபதாண்டு கட்டமைப்பு"
+seoTitle: புதிய பொருளாதாரக் கொள்கை
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

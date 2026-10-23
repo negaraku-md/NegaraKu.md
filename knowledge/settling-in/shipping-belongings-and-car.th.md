@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "การขนส่งสิ่งของของคุณไปมาเลเซีย — และเหตุใดการนำรถของตัวเองมาแทบไม่เคยได้ผล"
+seoTitle: การขนส่งสิ่งของของคุณไปมาเลเซีย
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

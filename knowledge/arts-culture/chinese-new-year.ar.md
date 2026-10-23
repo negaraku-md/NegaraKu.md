@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "رأس السنة الصينية في ماليزيا: المعنى وراء عشاء لمّ الشمل وأظرف الـ«أنغ باو» ورقصات الأسد"
+seoTitle: رأس السنة الصينية في ماليزيا
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

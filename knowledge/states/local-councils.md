@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "Local Councils in Malaysia: The Tier of Government You Cannot Vote For"
+seoTitle: Local Councils in Malaysia
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

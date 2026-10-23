@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "Pendidikan Khas di Malaysia: Bagaimana PPKI, Sekolah Khas dan Pendaftaran OKU Berkait Rapat"
+seoTitle: Pendidikan Khas di Malaysia
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

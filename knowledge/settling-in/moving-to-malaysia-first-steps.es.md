@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "Mudarse a Malasia: el orden para resolver tu pase, la entrada y los trámites de la primera semana"
+seoTitle: 'Mudarse a Malasia: pase, entrada y trámites iniciales'
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

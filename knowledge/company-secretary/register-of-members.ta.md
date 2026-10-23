@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0019
 title: "உறுப்பினர்கள் பதிவேடு: இரண்டு கடமைகள், இரண்டு தனித்த கடிகாரங்கள்"
+seoTitle: உறுப்பினர்கள் பதிவேடு
 slug: "register-of-members"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0018
 title: "PERKESO — bảo hiểm xã hội của người lao động, không phải khoản tiết kiệm của bạn"
+seoTitle: 'PERKESO: bảo hiểm xã hội của người lao động'
 slug: "socso-perkeso"
 category: "glossary"
 subcategory: ["employment"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "Rakyat : pourquoi la Malaisie a deux mots pour « le peuple » — et un autre pour « citoyen »"
+seoTitle: 'Rakyat : pourquoi la Malaisie a deux mots pour « le peuple »'
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

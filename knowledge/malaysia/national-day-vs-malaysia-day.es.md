@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "Por qué Malasia conmemora dos días de significado nacional: el 31 de agosto y el 16 de septiembre"
+seoTitle: Por qué Malasia conmemora dos días de significado nacional
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

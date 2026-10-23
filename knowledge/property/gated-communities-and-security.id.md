@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "Komunitas Berpagar dan Lingkungan Berpengawal di Malaysia: Di Mana Undang-Undang Menarik Garis Pemisah"
+seoTitle: Komunitas Berpagar dan Lingkungan Berpengawal di Malaysia
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

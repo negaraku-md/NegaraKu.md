@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "Industri Getah Malaysia: Tanaman yang Semakin Menyusut Menampung Perniagaan Sarung Tangan Global"
+seoTitle: Industri Getah Malaysia
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

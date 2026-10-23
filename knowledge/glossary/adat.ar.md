@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "Adat Perpatih وAdat Temenggung: نظامان من القانون الملايوي التقليدي"
+seoTitle: Adat Perpatih وAdat Temenggung
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

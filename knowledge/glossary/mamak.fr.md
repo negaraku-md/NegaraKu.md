@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0032
 title: "Mamak : d'une formule d'adresse pour « oncle » à un type d'établissement"
+seoTitle: 'Mamak : de « oncle » à un type de restaurant'
 slug: "mamak"
 category: "glossary"
 subcategory: ["culture"]

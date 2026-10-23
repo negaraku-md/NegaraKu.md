@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0031
 title: "Mahkamah: el término para las instituciones judiciales y un resumen de sus niveles en Malasia"
+seoTitle: 'Mahkamah: instituciones judiciales y sus niveles'
 slug: "mahkamah"
 category: "glossary"
 subcategory: ["legal"]

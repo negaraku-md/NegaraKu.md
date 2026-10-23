@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0035"
 title: "Tài khoản điện TNB, SESB và Sarawak Energy: Vì sao ba công ty khác nhau, ba quy trình khác nhau"
+seoTitle: Tài khoản điện TNB, SESB và Sarawak Energy
 slug: "electricity-tnb-account"
 category: "property"
 subcategory: ["utilities"]

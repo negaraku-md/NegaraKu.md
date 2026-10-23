@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "السكن في الشقق (condo) في ماليزيا: لماذا لرسوم صيانتك «شقيق» اسمه الصندوق الاحتياطي"
+seoTitle: السكن في الشقق (condo) في ماليزيا
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

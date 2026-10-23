@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "வேலைவாய்ப்பு அனுமதிச்சீட்டு (Employment Pass): நீங்களே ஒருபோதும் விண்ணப்பிக்க முடியாத வேலை விசா"
+seoTitle: வேலைவாய்ப்பு அனுமதிச்சீட்டு (Employment Pass)
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

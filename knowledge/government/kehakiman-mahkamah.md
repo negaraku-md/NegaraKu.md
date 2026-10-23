@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "Malaysia's Court Hierarchy: Five Levels, Two Streams, and How Judges Are Appointed"
+seoTitle: Malaysia's Court Hierarchy
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

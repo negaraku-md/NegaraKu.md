@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0079
 title: "Johor Bahru-வின் வாழ்க்கைச் செலவு: ரிங்கிட்டில் விலை, Singapore டாலரால் இழுக்கப்படுகிறது"
+seoTitle: Johor Bahru-வின் வாழ்க்கைச் செலவு
 slug: "cost-of-living-johor-bahru"
 category: "cost-of-living"
 subcategory: ["by-city"]

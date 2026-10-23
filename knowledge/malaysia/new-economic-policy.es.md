@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "La Nueva Política Económica: dos objetivos declarados, un marco de veinte años"
+seoTitle: La Nueva Política Económica
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

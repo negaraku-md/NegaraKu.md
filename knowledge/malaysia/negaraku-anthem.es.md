@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0017
 title: "Negaraku: cómo el himno del estado de Perak se convirtió en el himno nacional de Malasia"
+seoTitle: 'Negaraku: del himno de Perak al himno nacional de Malasia'
 slug: "negaraku-anthem"
 category: "malaysia"
 subcategory: ["identity"]

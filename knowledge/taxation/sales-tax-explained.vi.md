@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0032
 title: "Thuế bán hàng tại Malaysia — thuế suất, cơ chế và các khoản miễn"
+seoTitle: Thuế bán hàng tại Malaysia
 slug: "sales-tax-explained"
 category: "taxation"
 subcategory: ["sst"]

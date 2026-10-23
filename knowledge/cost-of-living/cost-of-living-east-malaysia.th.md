@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0080
 title: "ทำไม Milo กระป๋องหนึ่งจึงแพงกว่าในโกตากินาบาลูเมื่อเทียบกับกลัง"
+seoTitle: ทำไม Milo แพงกว่าในโกตากินาบาลูเมื่อเทียบกับกลัง
 slug: "cost-of-living-east-malaysia"
 category: "cost-of-living"
 subcategory: ["by-city"]

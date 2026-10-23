@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "Chính sách kinh tế Bumiputera: Cách mục tiêu tái cơ cấu của DEB tiếp nối đến ngày nay"
+seoTitle: Chính sách kinh tế Bumiputera
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

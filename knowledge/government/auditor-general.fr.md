@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "L'Auditeur général : le fonctionnaire constitutionnel que la Constitution protège du gouvernement"
+seoTitle: 'L''Auditeur général : fonctionnaire constitutionnel'
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "EPF Sebagai Investor: Bagaimana Dana Pensiun Malaysia Menggerakkan RM1.4 Triliun di Pasar"
+seoTitle: EPF Sebagai Investor
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

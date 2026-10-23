@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "การซื้อซิมโทรศัพท์มือถือในมาเลเซีย: แบบเติมเงิน แบบรายเดือน และขั้นตอนการลงทะเบียนที่คุณข้ามไม่ได้"
+seoTitle: การซื้อซิมโทรศัพท์มือถือในมาเลเซีย
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

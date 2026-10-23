@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0040
 title: "Apa Sebenarnya Malaysia: Sebuah Federasi, Dijelaskan Dari Dasar"
+seoTitle: Apa Sebenarnya Malaysia
 slug: "what-malaysia-is"
 category: "malaysia"
 subcategory: ["country-basics"]

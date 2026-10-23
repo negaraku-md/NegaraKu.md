@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "Mengapa Malaysia Menjadi Negara Mayoritas Perkotaan dalam Satu Generasi"
+seoTitle: Mengapa Malaysia Menjadi Negara Mayoritas Perkotaan
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "மலேசியாவில் நகரங்களுக்கு இடையே பயணித்தல்: ரயில், பேருந்து மற்றும் விமானங்கள் ஒப்பீடு"
+seoTitle: மலேசியாவில் நகரங்களுக்கு இடையே பயணித்தல்
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

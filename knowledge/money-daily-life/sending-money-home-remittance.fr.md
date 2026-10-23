@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "Envoyer de l'argent au pays depuis la Malaisie : comment distinguer un canal de transfert agréé d'un canal illégal"
+seoTitle: Envoyer de l'argent au pays depuis la Malaisie
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

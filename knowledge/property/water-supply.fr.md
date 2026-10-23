@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "L'approvisionnement en eau en Malaisie : pourquoi vous traitez avec une compagnie des eaux d'État, et non avec le gouvernement fédéral"
+seoTitle: L'approvisionnement en eau en Malaisie
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

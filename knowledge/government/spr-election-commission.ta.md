@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "தேர்தல் ஆணையம் (SPR): அரசியலமைப்பின் சரத்து 113-114-இன் கீழ் அதன் ஆணை மற்றும் செயற்பாடுகள்"
+seoTitle: தேர்தல் ஆணையம் (SPR)
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0069
 title: "What Your Car Actually Needs to Cross Into Singapore or Thailand"
+seoTitle: What Your Car Needs to Cross Into Singapore or Thailand
 slug: "driving-to-singapore-and-thailand"
 category: "transport"
 subcategory: ["driving"]

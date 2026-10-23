@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "Pindah ke Malaysia: Urutan Sebenarnya untuk Mengurus Pas, Kedatangan, dan Urusan Administrasi Pekan Pertama Anda"
+seoTitle: 'Pindah ke Malaysia: Pas, Kedatangan, dan Urusan Awal'
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

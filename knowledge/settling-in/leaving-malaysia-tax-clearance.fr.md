@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0028
 title: "Avant de quitter la Malaisie : la Lettre de quitus fiscal que votre employeur doit déposer en premier"
+seoTitle: Avant de quitter la Malaisie
 slug: "leaving-malaysia-tax-clearance"
 category: "settling-in"
 subcategory: ["overview"]

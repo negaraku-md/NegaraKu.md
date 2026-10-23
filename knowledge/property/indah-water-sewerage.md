@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK Bukan Syarikat Air: Faham Peranan Sebenar Pengendali Pembetungan Kebangsaan"
+seoTitle: IWK Bukan Syarikat Air
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0045
 title: "Taux du droit de timbre en Malaisie — référence de la première annexe"
+seoTitle: Taux du droit de timbre en Malaisie
 slug: "stamp-duty-rates"
 category: "taxation"
 subcategory: ["stamp-duty"]

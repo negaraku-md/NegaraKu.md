@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0069
 title: "Lo que tu coche necesita realmente para cruzar a Singapur o Tailandia"
+seoTitle: Lo que tu coche necesita para cruzar a Singapur o Tailandia
 slug: "driving-to-singapore-and-thailand"
 category: "transport"
 subcategory: ["driving"]

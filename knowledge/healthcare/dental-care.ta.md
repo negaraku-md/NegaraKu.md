@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "அரசு அல்லது தனியார் பல் கிளினிக்? மலேசியாவின் இரு பல் பராமரிப்பு அமைப்புகளைப் புரிந்துகொள்ளுதல்"
+seoTitle: மலேசியாவில் அரசு அல்லது தனியார் பல் கிளினிக்?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

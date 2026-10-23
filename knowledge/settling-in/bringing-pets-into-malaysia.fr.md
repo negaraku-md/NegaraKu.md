@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0026
 title: "Faire venir votre chien ou votre chat en Malaisie : les règles de permis et de quarantaine"
+seoTitle: Faire venir votre chien ou votre chat en Malaisie
 slug: "bringing-pets-into-malaysia"
 category: "settling-in"
 subcategory: ["overview"]

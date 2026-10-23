@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "मलेशिया में घरेलू फ़ाइबर ब्रॉडबैंड: Unifi, Maxis, TIME और असल में कैसे चुनें"
+seoTitle: मलेशिया में घरेलू फ़ाइबर ब्रॉडबैंड
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

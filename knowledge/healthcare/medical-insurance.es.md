@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "El seguro médico en Malasia: qué te compra realmente una tarjeta, y qué no"
+seoTitle: El seguro médico en Malasia
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

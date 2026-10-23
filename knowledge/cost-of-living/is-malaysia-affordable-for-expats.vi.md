@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "Malaysia có phải chăng với người nước ngoài không? Các con số chính thức thực sự nói gì"
+seoTitle: Malaysia có phải chăng với người nước ngoài không?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

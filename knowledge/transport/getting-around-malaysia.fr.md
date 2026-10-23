@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0064
 title: "Le train et Grab dans la vallée de Klang, la voiture partout ailleurs : comment la Malaisie se déplace vraiment"
+seoTitle: Train et Grab dans la vallée de Klang, voiture ailleurs
 slug: "getting-around-malaysia"
 category: "transport"
 subcategory: ["public-transport"]

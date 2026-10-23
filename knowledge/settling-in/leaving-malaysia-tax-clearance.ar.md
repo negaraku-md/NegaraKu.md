@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0028
 title: "قبل مغادرة ماليزيا: خطاب التسوية الضريبية الذي على رب عملك تقديمه أولاً"
+seoTitle: خطاب التسوية الضريبية قبل مغادرة ماليزيا
 slug: "leaving-malaysia-tax-clearance"
 category: "settling-in"
 subcategory: ["overview"]

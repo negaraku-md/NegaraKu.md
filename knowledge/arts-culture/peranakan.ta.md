@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0031
 title: "Peranakan கலாசாரம்: மலாக்கா மற்றும் பினாங்கின் Baba-Nyonya உலகம்"
+seoTitle: 'Peranakan கலாசாரம்: மலாக்கா & பினாங்கின் Baba-Nyonya'
 slug: "peranakan"
 category: "arts-culture"
 subcategory: ["heritage"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "القانون العام (Common Law) في ماليزيا: كيف استورد Civil Law Act 1956 — وجمّد — القانون الإنجليزي"
+seoTitle: القانون العام (Common Law) في ماليزيا
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

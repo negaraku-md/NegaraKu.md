@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0010
 title: "Yang di-Pertuan Agong: Vị Vua luân phiên được bầu mỗi năm năm"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "government"
 subcategory: ["institutions"]

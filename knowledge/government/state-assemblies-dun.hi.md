@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0052
 title: "Dewan Undangan Negeri: कोई राज्य अपने स्वयं के कानून कैसे बनाता है"
+seoTitle: Dewan Undangan Negeri
 slug: "state-assemblies-dun"
 category: "government"
 subcategory: ["institutions"]

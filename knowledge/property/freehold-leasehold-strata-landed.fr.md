@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0033
 title: "Freehold, Leasehold, Strata, Landed : les quatre mots d'un titre malaisien qui décident de ce que vous possédez réellement"
+seoTitle: Freehold, Leasehold, Strata, Landed
 slug: "freehold-leasehold-strata-landed"
 category: "property"
 subcategory: ["home-ownership"]

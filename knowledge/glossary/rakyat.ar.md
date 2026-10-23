@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "رعية (Rakyat): لماذا لدى ماليزيا كلمتان تدلّان على «الشعب» — وكلمة أخرى تدلّ على «المواطن»"
+seoTitle: 'رعية (Rakyat): لماذا لدى ماليزيا كلمتان تدلّان على «الشعب»'
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

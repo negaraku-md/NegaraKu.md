@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0050
 title: "Luật Kích động 1948: Điều luật Malaysia định nghĩa là khuynh hướng kích động"
+seoTitle: 'Luật Kích động 1948: khuynh hướng kích động là gì'
 slug: "sedition-act"
 category: "law"
 subcategory: ["key-acts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "न्यूनतम मज़दूरी बनाम मध्यिका आय: एक सामान्य मलेशियाई वेतन कैसा दिखता है"
+seoTitle: न्यूनतम मज़दूरी बनाम मध्यिका आय
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0026
 title: "Traer a su perro o gato a Malasia: las reglas de permiso y cuarentena"
+seoTitle: Traer a su perro o gato a Malasia
 slug: "bringing-pets-into-malaysia"
 category: "settling-in"
 subcategory: ["overview"]

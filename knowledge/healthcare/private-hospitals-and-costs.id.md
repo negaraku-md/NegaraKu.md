@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "Dua Tagihan untuk Satu Rawat Inap: Cara Sebenarnya Rumah Sakit Swasta di Malaysia Mengenakan Biaya"
+seoTitle: Dua Tagihan untuk Satu Rawat Inap
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

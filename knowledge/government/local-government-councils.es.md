@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "Gobierno local (PBT): consejos de ciudad, municipales y de distrito en virtud de la Ley 171"
+seoTitle: Gobierno local (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

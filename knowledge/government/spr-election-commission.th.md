@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "คณะกรรมการการเลือกตั้ง (Suruhanjaya Pilihan Raya, SPR): อำนาจหน้าที่และหน้าที่ภายใต้มาตรา 113-114 ของรัฐธรรมนูญ"
+seoTitle: คณะกรรมการการเลือกตั้ง (Suruhanjaya Pilihan Raya, SPR)
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "Tổng Chưởng lý Malaysia: Chức vụ và các quyền hạn được xác định bởi Điều 145"
+seoTitle: Tổng Chưởng lý Malaysia
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

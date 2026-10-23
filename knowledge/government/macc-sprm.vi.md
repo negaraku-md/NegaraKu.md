@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — Ủy ban Phòng chống Tham nhũng Malaysia và năm cơ quan giám sát của nó"
+seoTitle: MACC — Ủy ban Phòng chống Tham nhũng Malaysia
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "मलेशिया में यातायात समन (Saman): प्रकार पहचानें, जाँच करें और बढ़ने से पहले भुगतान करें"
+seoTitle: मलेशिया में यातायात समन (Saman)
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

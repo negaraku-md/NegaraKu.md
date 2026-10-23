@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0021
 title: "अनुच्छेद 152: वे छह खंड जो मलेशिया की राष्ट्रभाषा को परिभाषित करते हैं"
+seoTitle: 'अनुच्छेद 152: मलेशिया की राष्ट्रभाषा'
 slug: "article-152-language"
 category: "law"
 subcategory: ["constitutional"]

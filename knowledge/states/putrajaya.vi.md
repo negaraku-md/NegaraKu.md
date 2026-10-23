@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0014
 title: "Putrajaya: trung tâm hành chính liên bang không phải là một bang"
+seoTitle: 'Putrajaya: trung tâm hành chính liên bang, không phải bang'
 slug: "putrajaya"
 category: "states"
 subcategory: ["territories"]

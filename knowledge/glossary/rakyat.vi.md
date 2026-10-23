@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "Rakyat: vì sao Malaysia có hai từ cho 'người dân' — và một từ khác cho 'công dân'"
+seoTitle: 'Rakyat: vì sao Malaysia có hai từ cho ''người dân'''
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

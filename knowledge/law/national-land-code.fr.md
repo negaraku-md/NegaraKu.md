@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "National Land Code 1965 — la loi qui a inscrit un nom sur chaque titre de Malaisie péninsulaire"
+seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

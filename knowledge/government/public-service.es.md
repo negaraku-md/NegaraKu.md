@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "La función pública de Malasia: la comisión que nombra y el departamento que diseña"
+seoTitle: La función pública de Malasia
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

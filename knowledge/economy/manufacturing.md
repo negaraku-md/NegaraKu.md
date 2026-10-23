@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "Malaysia's Manufacturing Sector: Bigger Every Year, Stuck at the Same Share of GDP"
+seoTitle: Malaysia's Manufacturing Sector
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "Consumer Protection Act 1999: Malaysia's Consumer Rights Statute and Its RM5 Tribunal"
+seoTitle: Consumer Protection Act 1999
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "स्टूडेंट पास: आपकी ओर से आवेदन आपकी यूनिवर्सिटी EMGS में क्यों दाखिल करती है, आप नहीं"
+seoTitle: 'स्टूडेंट पास: यूनिवर्सिटी EMGS में आवेदन करती है, आप नहीं'
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

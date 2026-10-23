@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "Bumiputera பொருளாதாரக் கொள்கை: DEB-இன் மறுசீரமைப்பு இலக்கு இன்றுவரை எவ்வாறு தொடர்கிறது"
+seoTitle: Bumiputera பொருளாதாரக் கொள்கை
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

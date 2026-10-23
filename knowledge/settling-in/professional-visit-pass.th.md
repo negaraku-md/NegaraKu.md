@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "ใบอนุญาตเยือนเชิงวิชาชีพ: มาเลเซียรับความเชี่ยวชาญต่างชาติโดยไม่จ้างงานได้อย่างไร"
+seoTitle: ใบอนุญาตเยือนเชิงวิชาชีพ
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

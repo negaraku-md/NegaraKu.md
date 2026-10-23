@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "Traffic Summons (Saman) in Malaysia: Identify the Type, Check and Pay Before It Grows"
+seoTitle: Traffic Summons (Saman) in Malaysia
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "கூட்டரசு அரசியலமைப்பைத் திருத்துதல்: Article 159 வகுக்கும் நான்கு வழிகள்"
+seoTitle: கூட்டரசு அரசியலமைப்பைத் திருத்துதல்
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

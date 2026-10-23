@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "Encontrar un alquiler en Malasia: portales, negociadores y la Placa REN que nadie comprueba"
+seoTitle: Encontrar un alquiler en Malasia
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

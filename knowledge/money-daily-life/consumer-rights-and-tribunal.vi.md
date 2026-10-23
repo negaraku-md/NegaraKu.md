@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "Sản phẩm của bạn hỏng và cửa hàng không hoàn tiền: Cách thực sự lấy lại tiền của bạn"
+seoTitle: Sản phẩm của bạn hỏng và cửa hàng không hoàn tiền
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

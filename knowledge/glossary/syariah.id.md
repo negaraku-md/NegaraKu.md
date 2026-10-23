@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "Syariah — hukum Islam sebagai urusan negeri dalam sistem Malaysia"
+seoTitle: Syariah — hukum Islam sebagai urusan negeri
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

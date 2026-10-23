@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "मलेशिया में मोटर बीमा: तृतीय-पक्ष कवर अनिवार्य क्यों है और यह सड़क कर से कैसे जुड़ा है"
+seoTitle: मलेशिया में मोटर बीमा
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

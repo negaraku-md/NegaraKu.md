@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "Darurat Tanah Melayu: Pemberontakan, Penempatan Semula, dan Jentera yang Ditinggalkannya"
+seoTitle: Darurat Tanah Melayu
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

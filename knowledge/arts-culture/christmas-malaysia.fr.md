@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "Comment la Malaisie vit Noël : de la messe de minuit à la maison ouverte"
+seoTitle: Comment la Malaisie vit Noël
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

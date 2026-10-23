@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0048"
 title: "Srivijaya: Vương quốc biển đằng sau vương triều sáng lập Melaka"
+seoTitle: 'Srivijaya: Vương quốc biển đằng sau Melaka'
 slug: "srivijaya"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

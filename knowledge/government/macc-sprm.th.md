@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — คณะกรรมการป้องกันและปราบปรามการทุจริตแห่งมาเลเซีย และองค์กรกำกับดูแลห้าองค์กร"
+seoTitle: MACC — คณะกรรมการป้องกันและปราบปรามการทุจริตมาเลเซีย
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

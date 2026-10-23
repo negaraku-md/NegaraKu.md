@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "मलेशिया की राष्ट्रभाषा, और उसके साथ बोली जाने वाली कई अन्य भाषाएँ"
+seoTitle: मलेशिया की राष्ट्रभाषा और अन्य भाषाएँ
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "Why Malaysia Marks Two Days of National Significance: 31 August and 16 September"
+seoTitle: Why Malaysia Marks Two Days of National Significance
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0028
 title: "மலேசியாவை விட்டு வெளியேறும் முன்: உங்கள் முதலாளி முதலில் தாக்கல் செய்ய வேண்டிய வரி முடிவுத் தீர்வுக் கடிதம்"
+seoTitle: மலேசியாவை விட்டு வெளியேறும் முன்
 slug: "leaving-malaysia-tax-clearance"
 category: "settling-in"
 subcategory: ["overview"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0016
 title: "सबाह: पवन के नीचे की भूमि और संघ में इसके शामिल होने की शर्तें"
+seoTitle: 'सबाह: पवन के नीचे की भूमि और संघ की शर्तें'
 slug: "sabah"
 category: "states"
 subcategory: ["borneo"]

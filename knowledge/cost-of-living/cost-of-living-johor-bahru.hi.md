@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0079
 title: "जोहोर बहरू में रहन-सहन की लागत: कीमतें रिंगिट में, खिंचाव सिंगापुर डॉलर का"
+seoTitle: जोहोर बहरू में रहन-सहन की लागत
 slug: "cost-of-living-johor-bahru"
 category: "cost-of-living"
 subcategory: ["by-city"]

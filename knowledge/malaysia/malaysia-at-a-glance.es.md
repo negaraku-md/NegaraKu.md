@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "Malasia de un vistazo: las cifras detrás del país, con fuente una por una"
+seoTitle: Malasia de un vistazo
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

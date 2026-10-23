@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0061
 title: "மலேசியாவில் வீட்டுக் கல்வி (Homeschooling): சட்டப்பூர்வமானது, ஆனால் அமைச்சரின் விலக்கு மூலம் மட்டுமே"
+seoTitle: மலேசியாவில் வீட்டுக் கல்வி (Homeschooling)
 slug: "homeschooling"
 category: "education"
 subcategory: ["support"]

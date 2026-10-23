@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "Vaksin Percuma untuk Setiap Anak: Memahami Program Imunisasi Kebangsaan KKM"
+seoTitle: Vaksin Percuma untuk Setiap Anak
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

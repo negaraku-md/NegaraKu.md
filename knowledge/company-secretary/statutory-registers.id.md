@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "Daftar Statutori yang Wajib Disimpan oleh Setiap Sdn Bhd: Satu Daftar Periksa"
+seoTitle: Daftar Statutori yang Wajib Disimpan oleh Setiap Sdn Bhd
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

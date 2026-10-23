@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "Mengapa Malaysia Memiliki Dua Hari Besar: 31 Agustus dan 16 September"
+seoTitle: Mengapa Malaysia Memiliki Dua Hari Besar
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

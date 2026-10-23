@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0022
 title: "Enregistrer la naissance de votre enfant : comment fonctionnent vraiment la procédure du JPN et le certificat de naissance"
+seoTitle: Enregistrer la naissance de votre enfant
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

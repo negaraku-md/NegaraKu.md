@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0060
 title: "Sumber-Sumber Hukum Malaysia: Lima Aliran, Satu Susunan Prioritas"
+seoTitle: Sumber-Sumber Hukum Malaysia
 slug: "sources-of-malaysian-law"
 category: "law"
 subcategory: ["legal-system"]

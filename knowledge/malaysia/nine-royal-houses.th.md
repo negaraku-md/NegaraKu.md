@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "เก้ารัฐที่มีเจ้าผู้ครองของมาเลเซีย: เจ้าผู้ครองและบทบาทในที่ประชุมพระราชาธิบดี"
+seoTitle: เก้ารัฐที่มีเจ้าผู้ครองของมาเลเซีย
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

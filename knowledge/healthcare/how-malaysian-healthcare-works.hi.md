@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "मलेशिया की स्वास्थ्य सेवा असल में कैसे काम करती है: सार्वजनिक-निजी विभाजन, और कौन क्या चुकाता है"
+seoTitle: मलेशिया की स्वास्थ्य सेवा असल में कैसे काम करती है
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

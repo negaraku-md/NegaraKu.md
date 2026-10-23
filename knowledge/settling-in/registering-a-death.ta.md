@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0024
 title: "மலேசியாவில் மரணத்தைப் பதிவு செய்தல்: JPN நடைமுறை, மரணச் சான்றிதழ் மற்றும் அடுத்து வருவது"
+seoTitle: மலேசியாவில் மரணத்தைப் பதிவு செய்தல்
 slug: "registering-a-death"
 category: "settling-in"
 subcategory: ["documents"]

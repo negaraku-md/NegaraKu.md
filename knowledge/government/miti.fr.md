@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0043
 title: "MITI — ministère de l'Investissement, du Commerce et de l'Industrie"
+seoTitle: MITI — ministère de l'Investissement et du Commerce
 slug: "miti"
 category: "government"
 subcategory: ["agencies"]

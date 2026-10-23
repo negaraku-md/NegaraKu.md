@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0072
 title: "Domestic Help and Confinement Care in Malaysia: The Options, and Who Actually Regulates Them"
+seoTitle: Domestic Help and Confinement Care in Malaysia
 slug: "domestic-help-and-confinement-care"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

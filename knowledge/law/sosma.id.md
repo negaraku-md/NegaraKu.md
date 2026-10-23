@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (Act 747): Prosedur Khusus yang Digunakan Malaysia bagi Tindak Pidana Keamanan"
+seoTitle: 'SOSMA (Act 747): Prosedur Khusus untuk Kejahatan Keamanan'
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

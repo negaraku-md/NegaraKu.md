@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (พระราชบัญญัติ 747): วิธีพิจารณาพิเศษที่มาเลเซียใช้สำหรับความผิดด้านความมั่นคง"
+seoTitle: SOSMA (พระราชบัญญัติ 747)
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

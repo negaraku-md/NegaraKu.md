@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "EPF với tư cách nhà đầu tư: Cách quỹ hưu trí của Malaysia luân chuyển RM1.4 nghìn tỷ trên thị trường"
+seoTitle: EPF với tư cách nhà đầu tư
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

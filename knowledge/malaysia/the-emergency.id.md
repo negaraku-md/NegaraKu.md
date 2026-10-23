@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "Darurat Malaya: Pemberontakan, Pemukiman Kembali, dan Perangkat yang Ditinggalkannya"
+seoTitle: 'Darurat Malaya: Pemberontakan dan Pemukiman Kembali'
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "L'industrie du caoutchouc en Malaisie : une culture en déclin qui alimente un négoce mondial de gants"
+seoTitle: L'industrie du caoutchouc en Malaisie
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0033
 title: Thiếc pewter Malaysia, nghề thủ công mà sự giàu có từ thiếc dựng nên
+seoTitle: Thiếc pewter Malaysia và sự giàu có từ thiếc
 slug: pewter
 category: arts-culture
 subcategory: ["crafts"]

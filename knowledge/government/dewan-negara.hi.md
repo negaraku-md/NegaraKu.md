@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0013
 title: "देवान नेगारा: सीनेटरों की नियुक्ति कैसे होती है, और यह सदन अंतिम अस्वीकार के बजाय विलंब क्यों करता है"
+seoTitle: 'देवान नेगारा: सीनेटरों की नियुक्ति कैसे होती है'
 slug: "dewan-negara"
 category: "government"
 subcategory: ["institutions"]

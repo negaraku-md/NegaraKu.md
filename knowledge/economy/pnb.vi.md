@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0020
 title: "Permodalan Nasional Berhad: Đơn vị quản lý đằng sau ASB và ASN"
+seoTitle: Permodalan Nasional Berhad
 slug: "pnb"
 category: "economy"
 subcategory: ["institutions"]

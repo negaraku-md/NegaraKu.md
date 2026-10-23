@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "Le taux directeur au jour le jour : comment Bank Negara fixe le prix de l'argent"
+seoTitle: Le taux directeur au jour le jour
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

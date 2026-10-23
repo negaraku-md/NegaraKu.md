@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "El sector manufacturero de Malasia: más grande cada año, estancado en la misma cuota del PIB"
+seoTitle: El sector manufacturero de Malasia
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

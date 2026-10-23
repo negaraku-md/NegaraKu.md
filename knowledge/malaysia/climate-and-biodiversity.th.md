@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0071"
 title: "เหตุใดมาเลเซียจึงเป็นหนึ่งในประเทศที่มีความหลากหลายทางชีวภาพสูงยิ่งของโลก"
+seoTitle: เหตุใดมาเลเซียจึงมีความหลากหลายทางชีวภาพสูงของโลก
 slug: "climate-and-biodiversity"
 category: "malaysia"
 subcategory: ["geography"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0021
 title: "MyKad, MyPR và MyKAS: Ba thẻ căn cước của JPN, ba tình trạng khác nhau"
+seoTitle: MyKad, MyPR và MyKAS
 slug: "mykad-and-identity-documents"
 category: "settling-in"
 subcategory: ["documents"]

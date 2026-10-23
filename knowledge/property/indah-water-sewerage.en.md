@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK Is Not a Water Company: Understanding the National Sewerage Operator's Real Role"
+seoTitle: IWK Is Not a Water Company
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

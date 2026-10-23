@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0066"
 title: "Tol Jalan Tol Malaysia: Dari Kartu yang Ditempel ke Jalur Tanpa Palang"
+seoTitle: Tol Jalan Tol Malaysia
 slug: "tolls-smarttag-rfid"
 category: "transport"
 subcategory: ["vehicles-tolls"]

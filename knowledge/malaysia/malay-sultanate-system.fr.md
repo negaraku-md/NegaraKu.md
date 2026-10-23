@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0052
 title: "Sultan, daulat et chefs : comment le sultanat malais était gouverné"
+seoTitle: Sultan, daulat et chefs
 slug: "malay-sultanate-system"
 category: "malaysia"
 subcategory: ["sultanates"]

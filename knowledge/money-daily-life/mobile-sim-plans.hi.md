@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "मलेशिया में मोबाइल SIM खरीदना: प्रीपेड, पोस्टपेड, और वह पंजीकरण चरण जिसे आप टाल नहीं सकते"
+seoTitle: मलेशिया में मोबाइल SIM खरीदना
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

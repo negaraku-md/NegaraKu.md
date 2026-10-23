@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "Giấy phạt giao thông ở Malaysia: Nhận diện loại, kiểm tra và trả trước khi nó lớn lên"
+seoTitle: Giấy phạt giao thông ở Malaysia
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

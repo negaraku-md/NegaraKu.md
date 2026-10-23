@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "Acheter une carte SIM mobile en Malaisie : prépayé, postpayé et l'étape d'enregistrement incontournable"
+seoTitle: Acheter une carte SIM mobile en Malaisie
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

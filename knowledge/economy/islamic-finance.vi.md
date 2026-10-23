@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0011
 title: "Tài chính Hồi giáo tại Malaysia: Những hợp đồng bên dưới các con số chủ đạo"
+seoTitle: Tài chính Hồi giáo tại Malaysia
 slug: "islamic-finance"
 category: "economy"
 subcategory: ["sectors"]

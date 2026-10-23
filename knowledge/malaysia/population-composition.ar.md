@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "سكان ماليزيا: فئات المواطنة والفئات العِرقية التي تنشرها دائرة الإحصاء (DOSM) فعلاً"
+seoTitle: 'سكان ماليزيا: فئات العِرق والمواطنة (DOSM)'
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

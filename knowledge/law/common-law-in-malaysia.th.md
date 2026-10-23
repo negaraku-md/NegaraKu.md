@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "คอมมอนลอว์ในมาเลเซีย: พระราชบัญญัติกฎหมายแพ่ง 1956 นำเข้า — และตรึง — กฎหมายอังกฤษอย่างไร"
+seoTitle: 'คอมมอนลอว์ในมาเลเซีย: พระราชบัญญัติกฎหมายแพ่ง 1956 นำเข้า'
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

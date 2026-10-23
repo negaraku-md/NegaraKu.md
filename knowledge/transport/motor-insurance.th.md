@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "ประกันภัยรถยนต์ในมาเลเซีย: เหตุใดประกันบุคคลที่สามจึงเป็นภาคบังคับ และเกี่ยวข้องกับภาษีถนนอย่างไร"
+seoTitle: ประกันภัยรถยนต์ในมาเลเซีย
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

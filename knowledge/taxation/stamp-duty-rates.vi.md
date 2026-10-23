@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0045
 title: "Các mức thuế trước bạ ở Malaysia — Tham chiếu Phụ lục thứ nhất"
+seoTitle: Các mức thuế trước bạ ở Malaysia
 slug: "stamp-duty-rates"
 category: "taxation"
 subcategory: ["stamp-duty"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "Adat Perpatih và Adat Temenggung: hai hệ thống luật tục truyền thống của người Mã Lai"
+seoTitle: Adat Perpatih và Adat Temenggung
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

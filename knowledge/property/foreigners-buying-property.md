@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "Can Foreigners Buy Property in Malaysia? The Price Floor and State Consent Explained"
+seoTitle: Can Foreigners Buy Property in Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

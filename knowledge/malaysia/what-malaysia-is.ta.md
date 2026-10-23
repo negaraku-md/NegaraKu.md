@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0040
 title: "மலேசியா உண்மையில் என்ன: ஒரு கூட்டமைப்பு, அடித்தளத்திலிருந்து விளக்கப்பட்டது"
+seoTitle: மலேசியா உண்மையில் என்ன
 slug: "what-malaysia-is"
 category: "malaysia"
 subcategory: ["country-basics"]

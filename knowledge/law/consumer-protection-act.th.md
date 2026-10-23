@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "พระราชบัญญัติคุ้มครองผู้บริโภค 1999: กฎหมายสิทธิผู้บริโภคของมาเลเซียและศาลชำนัญพิเศษค่าฟ้อง RM5"
+seoTitle: พระราชบัญญัติคุ้มครองผู้บริโภค 1999
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

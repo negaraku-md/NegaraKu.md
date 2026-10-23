@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0047"
 title: "Valle de Bujang: templos antiguos y vestigios de la civilización del viejo Kedah"
+seoTitle: 'Valle de Bujang: templos antiguos del viejo Kedah'
 slug: "bujang-valley"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

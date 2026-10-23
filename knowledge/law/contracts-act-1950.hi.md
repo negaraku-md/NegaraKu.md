@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0030"
 title: "अनुबंध अधिनियम 1950 (Act 136): मलेशिया का सामान्य अनुबंध कानून"
+seoTitle: अनुबंध अधिनियम 1950 (Act 136)
 slug: "contracts-act-1950"
 category: "law"
 subcategory: ["key-acts"]

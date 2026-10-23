@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "मलेशिया का न्यायालय पदानुक्रम: पाँच स्तर, दो धाराएँ, और न्यायाधीशों की नियुक्ति कैसे होती है"
+seoTitle: मलेशिया का न्यायालय पदानुक्रम
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

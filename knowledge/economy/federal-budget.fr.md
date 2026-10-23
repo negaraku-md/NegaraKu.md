@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "Le cycle du budget fédéral : comment un discours devient une loi de crédits (Supply Act)"
+seoTitle: Le cycle du budget fédéral
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "मलेशिया के नौ राजसी राज्य: शासनरत शासक और शासक सम्मेलन में उनकी भूमिका"
+seoTitle: मलेशिया के नौ राजसी राज्य
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

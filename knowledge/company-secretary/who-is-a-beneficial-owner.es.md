@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0026
 title: "¿Quién se considera titular real (beneficial owner) en Malasia?"
+seoTitle: ¿Quién se considera titular real
 slug: "who-is-a-beneficial-owner"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

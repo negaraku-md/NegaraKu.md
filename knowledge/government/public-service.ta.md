@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "மலேசியாவின் பொது சேவை: நியமிக்கும் ஆணையமும் வடிவமைக்கும் திணைக்களமும்"
+seoTitle: மலேசியாவின் பொது சேவை
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

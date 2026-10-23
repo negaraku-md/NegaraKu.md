@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0016
 title: "DOSM — Department of Statistics Malaysia: What It Publishes, and When"
+seoTitle: DOSM — Department of Statistics Malaysia
 slug: "dosm"
 category: "government"
 subcategory: ["agencies"]

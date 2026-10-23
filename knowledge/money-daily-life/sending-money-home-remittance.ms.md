@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "Menghantar Wang Pulang Dari Malaysia: Cara Mengenal Pasti Saluran Kiriman Wang Berlesen Berbanding Yang Menyalahi Undang-Undang"
+seoTitle: Menghantar Wang Pulang Dari Malaysia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

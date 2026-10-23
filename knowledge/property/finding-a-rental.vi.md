@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "Tìm nhà thuê tại Malaysia: Các cổng, người môi giới và thẻ REN mà không ai kiểm tra"
+seoTitle: Tìm nhà thuê tại Malaysia
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

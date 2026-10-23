@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "Jata Negara: Đọc tấm khiên quốc gia của Malaysia, từng yếu tố một"
+seoTitle: 'Jata Negara: Tấm khiên quốc gia của Malaysia'
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

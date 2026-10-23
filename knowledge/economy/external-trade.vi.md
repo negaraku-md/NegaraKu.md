@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "Cán cân thương mại của Malaysia và vì sao xuất khẩu vượt quy mô nền kinh tế"
+seoTitle: Cán cân thương mại của Malaysia và xuất khẩu
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "மலேசியாவில் மனநல உதவியை எங்கே பெறுவது: பொது சிகிச்சை, தனியார் விருப்பங்கள் மற்றும் நெருக்கடி உதவி இணைப்புகள்"
+seoTitle: மலேசியாவில் மனநல உதவியை எங்கே பெறுவது
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

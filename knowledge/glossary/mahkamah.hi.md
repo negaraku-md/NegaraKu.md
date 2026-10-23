@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0031
 title: "Mahkamah — न्यायिक संस्थाओं का पद और मलेशिया में इसके स्तरों का सार"
+seoTitle: 'Mahkamah: न्यायिक संस्थाएँ और उनके स्तर'
 slug: "mahkamah"
 category: "glossary"
 subcategory: ["legal"]

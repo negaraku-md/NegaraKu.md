@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0087"
 title: "SK, SJKC और SJKT: एक सरकारी प्राथमिक विद्यालय व्यवस्था में तीन शिक्षण-भाषाएँ"
+seoTitle: 'SK, SJKC और SJKT: एक व्यवस्था में तीन शिक्षण-भाषाएँ'
 slug: "national-schools-sk-sjkc-sjkt"
 category: "education"
 subcategory: ["schooling"]

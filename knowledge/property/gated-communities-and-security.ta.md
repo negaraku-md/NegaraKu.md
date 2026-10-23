@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "மலேசியாவில் அடைப்புச் சமூகங்களும் காவல் குடியிருப்புகளும்: சட்டம் எங்கே கோடு வரைகிறது"
+seoTitle: மலேசியாவில் அடைப்புச் சமூகங்களும் காவல் குடியிருப்புகளும்
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

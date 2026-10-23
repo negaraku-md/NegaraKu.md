@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0022
 title: "การจดทะเบียนการเกิดของบุตร: กระบวนการของ JPN และใบสูติบัตรทำงานจริงอย่างไร"
+seoTitle: การจดทะเบียนการเกิดของบุตร
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

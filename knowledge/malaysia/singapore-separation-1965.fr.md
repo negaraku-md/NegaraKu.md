@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "Comment Singapour a quitté la Malaisie : ce que disent réellement les documents de la séparation"
+seoTitle: Comment Singapour a quitté la Malaisie
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

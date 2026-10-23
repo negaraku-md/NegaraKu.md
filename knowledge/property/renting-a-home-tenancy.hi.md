@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "मलेशिया में किराएदारी का कोई समर्पित कानून नहीं है — इसलिए आप जिस अनुबंध पर हस्ताक्षर करते हैं वही कानून है"
+seoTitle: मलेशिया में किराएदारी का कोई समर्पित कानून नहीं है
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

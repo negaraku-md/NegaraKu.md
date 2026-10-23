@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "Private and Chinese Independent Schools: The Track Between National and International"
+seoTitle: Private and Chinese Independent Schools
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

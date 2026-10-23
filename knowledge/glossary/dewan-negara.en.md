@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "Dewan Negara: Parliament's Upper House Not Elected in a General Election"
+seoTitle: 'Dewan Negara: Parliament''s Upper House'
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

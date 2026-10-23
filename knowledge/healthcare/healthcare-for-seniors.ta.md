@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "பெற்றோர் தனியாக சமாளிக்க முடியாத நிலை: மலேசியாவில் முதியோர் பராமரிப்பு விருப்பங்கள்"
+seoTitle: பெற்றோர் தனியாக சமாளிக்க முடியாத நிலை
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

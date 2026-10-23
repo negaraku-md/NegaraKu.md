@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "Tahun Baru Imlek di Malaysia: Makna di Balik Makan Malam Reuni Keluarga, Angpau, dan Tarian Singa"
+seoTitle: Tahun Baru Imlek di Malaysia
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

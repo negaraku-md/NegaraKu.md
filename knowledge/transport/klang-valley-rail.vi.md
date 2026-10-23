@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0001
 title: "MRT, LRT, Monorail và các tuyến KTM của Kuala Lumpur kết nối như thế nào"
+seoTitle: Các tuyến MRT, LRT, Monorail và KTM của Kuala Lumpur
 slug: "klang-valley-rail"
 category: "transport"
 subcategory: ["public-transport"]

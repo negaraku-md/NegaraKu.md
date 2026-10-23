@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0031
 title: "மதவாரி மலேசியாவின் மக்கள்தொகை: கணக்கெடுப்பு பதிவு செய்தது என்ன"
+seoTitle: மதவாரி மலேசியாவின் மக்கள்தொகை
 slug: "religion-statistics"
 category: "malaysia"
 subcategory: ["demographics"]

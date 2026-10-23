@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "Rakyat: மலேசியாவில் “மக்கள்” என்பதற்கு ஏன் இரண்டு சொற்கள் உள்ளன — மேலும் “குடிமகன்” என்பதற்கு வேறொன்று"
+seoTitle: 'Rakyat: மலேசியாவில் ''மக்கள்'' எனும் இரு சொற்கள்'
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

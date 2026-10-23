@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "மாணவர் அனுமதிச்சீட்டு (Student Pass): நீங்கள் அல்ல, உங்கள் பல்கலைக்கழகம் ஏன் EMGS-இடம் விண்ணப்பிக்கிறது"
+seoTitle: மாணவர் அனுமதிச்சீட்டு (Student Pass)
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "मलेशियाई चुनाव कैसे काम करते हैं: एक सीट, एक सदस्य, सर्वाधिक मत जीतते हैं"
+seoTitle: मलेशियाई चुनाव कैसे काम करते हैं
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

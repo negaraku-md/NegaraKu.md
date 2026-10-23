@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0022
 title: "Registrar el nacimiento de su hijo: cómo funcionan realmente el proceso del JPN y el certificado de nacimiento"
+seoTitle: Registrar el nacimiento de su hijo
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

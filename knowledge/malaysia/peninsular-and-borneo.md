@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0042
 title: "Why Malaysia Has an Internal Border, and What It Actually Controls"
+seoTitle: Why Malaysia Has an Internal Border
 slug: "peninsular-and-borneo"
 category: "malaysia"
 subcategory: ["country-basics"]

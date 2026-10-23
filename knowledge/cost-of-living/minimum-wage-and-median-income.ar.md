@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "الحدّ الأدنى للأجور مقابل الدخل الوسيط: كيف يبدو الراتب الماليزي النمطي"
+seoTitle: الحدّ الأدنى للأجور مقابل الدخل الوسيط
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

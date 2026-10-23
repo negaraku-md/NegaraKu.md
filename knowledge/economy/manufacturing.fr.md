@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "Le secteur manufacturier de la Malaisie : plus grand chaque année, figé à la même part du PIB"
+seoTitle: Le secteur manufacturier de la Malaisie
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

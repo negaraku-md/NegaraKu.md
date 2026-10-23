@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "الحريات الأساسية: المواد 5 إلى 13 من الدستور الاتحادي، والقيود المُدمَجة في كل منها"
+seoTitle: 'الحريات الأساسية: المواد 5 إلى 13 من الدستور الاتحادي'
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

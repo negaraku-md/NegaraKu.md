@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "கோட்டா கினபாலுவில் உங்களை ஏன் திருப்பி அனுப்பக்கூடும்: சபா மற்றும் சரவாக்கிற்கான அரசியலமைப்பு பாதுகாப்புகள்"
+seoTitle: கோட்டா கினபாலுவில் உங்களை ஏன் திருப்பி அனுப்பக்கூடும்
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

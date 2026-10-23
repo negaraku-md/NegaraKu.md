@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "Mua nhà tại Malaysia: Điều gì thực sự diễn ra giữa phí đặt chỗ và chìa khóa"
+seoTitle: Mua nhà tại Malaysia
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

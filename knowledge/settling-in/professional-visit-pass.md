@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "The Professional Visit Pass: How Malaysia Hosts Foreign Expertise Without Employing It"
+seoTitle: The Professional Visit Pass
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

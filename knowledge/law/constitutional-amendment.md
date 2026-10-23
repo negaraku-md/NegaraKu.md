@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "Amending the Federal Constitution: The Four Routes Article 159 Sets"
+seoTitle: Amending the Federal Constitution
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

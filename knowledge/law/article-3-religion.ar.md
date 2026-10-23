@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "المادة 3: ما الذي يقوله الدستور عن الإسلام، وما تقوله المادة 11 إلى جانبها"
+seoTitle: 'المادة 3: الإسلام في الدستور والمادة 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

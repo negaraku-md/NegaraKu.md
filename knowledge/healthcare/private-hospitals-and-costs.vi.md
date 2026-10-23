@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "Hai hóa đơn cho một lần nằm viện: Cách bệnh viện tư tại Malaysia thực sự tính phí bạn"
+seoTitle: Hai hóa đơn cho một lần nằm viện
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

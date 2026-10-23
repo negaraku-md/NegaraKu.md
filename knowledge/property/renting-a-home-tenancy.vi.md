@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "Thuê nhà ở Malaysia không có Luật Thuê nhà — nên hợp đồng bạn ký chính là luật"
+seoTitle: Thuê nhà ở Malaysia không có Luật Thuê nhà
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

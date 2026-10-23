@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "Dewan Negara: பொதுத் தேர்தல் மூலம் தேர்ந்தெடுக்கப்படாத நாடாளுமன்றத்தின் மேலவை"
+seoTitle: 'Dewan Negara: நாடாளுமன்றத்தின் மேலவை'
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

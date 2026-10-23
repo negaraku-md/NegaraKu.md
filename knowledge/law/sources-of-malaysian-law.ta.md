@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0060
 title: "மலேசியச் சட்டத்தின் மூலங்கள்: ஐந்து நீரோடைகள், ஒரே முன்னுரிமை வரிசை"
+seoTitle: மலேசியச் சட்டத்தின் மூலங்கள்
 slug: "sources-of-malaysian-law"
 category: "law"
 subcategory: ["legal-system"]

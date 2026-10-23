@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "मलेशिया के सरकारी अस्पताल: रेफरल प्रणाली, सब्सिडी वाले शुल्क और प्रतीक्षा समय वास्तव में कैसे काम करते हैं"
+seoTitle: मलेशिया के सरकारी अस्पताल
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

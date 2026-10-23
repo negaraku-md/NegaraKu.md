@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0035
 title: "SST-02 தாக்கல் செய்தல் — வரிக்குட்பட்ட காலங்கள், காலக்கெடுக்கள் மற்றும் அபராதங்கள்"
+seoTitle: SST-02 தாக்கல் செய்தல்
 slug: "sst-02-filing"
 category: "taxation"
 subcategory: ["sst"]

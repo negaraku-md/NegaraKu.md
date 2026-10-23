@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0048"
 title: "Srivijaya: Kerajaan Lautan di Sebalik Dinasti Pengasas Melaka"
+seoTitle: 'Srivijaya: Kerajaan Lautan di Sebalik Melaka'
 slug: "srivijaya"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

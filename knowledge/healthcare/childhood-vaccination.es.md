@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "Vacunas gratuitas para cada niño: entender el Programa Nacional de Inmunización del Ministerio de Salud"
+seoTitle: Vacunas gratuitas para cada niño
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

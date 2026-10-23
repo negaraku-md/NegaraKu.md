@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "Alquilar en Malasia no tiene una Ley de Arrendamiento — así que el contrato que firme es la ley"
+seoTitle: Alquilar en Malasia no tiene una Ley de Arrendamiento
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

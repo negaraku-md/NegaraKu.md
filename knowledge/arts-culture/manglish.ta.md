@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "மங்லிஷ் (Manglish): மலேசியாவின் அன்றாட ஆங்கிலத்தின் பின்னணியிலுள்ள இலக்கணம், இடைச்சொற்கள் மற்றும் கடன்சொற்கள்"
+seoTitle: 'மங்லிஷ் (Manglish): மலேசியாவின் அன்றாட ஆங்கிலம்'
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

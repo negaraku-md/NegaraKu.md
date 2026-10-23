@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0013
 title: "Bộ luật Hình sự (Act 574): Đạo luật hình sự chính của Malaysia"
+seoTitle: Bộ luật Hình sự (Act 574)
 slug: "penal-code"
 category: "law"
 subcategory: ["key-acts"]

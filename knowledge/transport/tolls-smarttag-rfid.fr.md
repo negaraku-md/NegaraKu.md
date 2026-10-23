@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0066"
 title: "Les péages des autoroutes malaisiennes : des cartes à puce aux voies sans barrière"
+seoTitle: Les péages des autoroutes malaisiennes
 slug: "tolls-smarttag-rfid"
 category: "transport"
 subcategory: ["vehicles-tolls"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: The Federal Body That Coordinates Islamic Affairs Without Overriding State Religious Authority"
+seoTitle: 'JAKIM: The Federal Islamic Affairs Body'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

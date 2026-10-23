@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0063"
 title: "ليس كل طريق يؤدي إلى الجامعة: فهم نظام التعليم والتدريب التقني والمهني (TVET) في ماليزيا"
+seoTitle: ليس كل طريق يؤدي إلى الجامعة
 slug: "tvet-and-skills-training"
 category: "education"
 subcategory: ["skills"]

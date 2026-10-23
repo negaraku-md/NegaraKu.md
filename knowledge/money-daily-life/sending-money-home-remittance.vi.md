@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "Gửi tiền về nhà từ Malaysia: Cách phân biệt một kênh chuyển tiền có giấy phép với một kênh bất hợp pháp"
+seoTitle: Gửi tiền về nhà từ Malaysia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

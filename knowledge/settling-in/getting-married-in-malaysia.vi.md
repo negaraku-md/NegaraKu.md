@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "Kết hôn tại Malaysia: Vì sao quy trình chia theo tôn giáo, không phải theo lựa chọn"
+seoTitle: Kết hôn tại Malaysia
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

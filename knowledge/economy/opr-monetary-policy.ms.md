@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "Kadar Dasar Semalaman: Bagaimana Bank Negara Menetapkan Harga Wang"
+seoTitle: Kadar Dasar Semalaman
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

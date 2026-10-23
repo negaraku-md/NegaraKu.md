@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0013
 title: "Dewan Negara: How Senators Are Appointed, and Why This House Delays Rather Than Vetoes"
+seoTitle: 'Dewan Negara: How Senators Are Appointed'
 slug: "dewan-negara"
 category: "government"
 subcategory: ["institutions"]

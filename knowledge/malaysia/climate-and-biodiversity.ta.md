@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0071"
 title: "மலேசியா ஏன் உலகின் மாபெரும் பல்லுயிர்த்தன்மை (megadiverse) கொண்ட நாடுகளில் ஒன்றாக உள்ளது"
+seoTitle: மலேசியா ஏன் உலகின் மாபெரும் பல்லுயிர்த்தன்மை
 slug: "climate-and-biodiversity"
 category: "malaysia"
 subcategory: ["geography"]

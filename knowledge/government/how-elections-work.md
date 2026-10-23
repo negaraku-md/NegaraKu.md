@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "Bagaimana Pilihan Raya Malaysia Berfungsi: Satu Kerusi, Satu Ahli, Undi Terbanyak Menang"
+seoTitle: Bagaimana Pilihan Raya Malaysia Berfungsi
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

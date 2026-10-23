@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "Bergerak Antarkota di Malaysia: Perbandingan Kereta Api, Bus dan Penerbangan"
+seoTitle: Bergerak Antarkota di Malaysia
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

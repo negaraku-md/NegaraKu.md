@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0006"
 title: "La « taxe de circulation » n'est pas un « impôt » : c'est votre licence de véhicule à moteur"
+seoTitle: La « taxe de circulation » n'est pas un « impôt »
 slug: "road-tax-renewal"
 category: "transport"
 subcategory: ["vehicles-tolls"]

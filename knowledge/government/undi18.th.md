@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 และการลงทะเบียนผู้มีสิทธิเลือกตั้งอัตโนมัติ: สิ่งที่ Act A1603 เปลี่ยนไป"
+seoTitle: Undi18 และการลงทะเบียนผู้มีสิทธิเลือกตั้งอัตโนมัติ
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

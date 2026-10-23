@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "Bảo hiểm xe cơ giới ở Malaysia: Vì sao bảo hiểm bên thứ ba là bắt buộc và nó liên hệ với thuế đường bộ như thế nào"
+seoTitle: Bảo hiểm xe cơ giới ở Malaysia
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "إرسال الأموال إلى الوطن من ماليزيا: كيف تميّز قناة تحويل مرخّصة من أخرى غير قانونية"
+seoTitle: إرسال الأموال إلى الوطن من ماليزيا
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

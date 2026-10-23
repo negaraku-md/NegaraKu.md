@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "தனியார் மற்றும் சீன சுதந்திரப் பள்ளிகள்: தேசிய மற்றும் சர்வதேச நிலைகளுக்கு இடையிலான பாதை"
+seoTitle: தனியார் மற்றும் சீன சுதந்திரப் பள்ளிகள்
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

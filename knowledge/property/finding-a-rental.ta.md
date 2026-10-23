@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "மலேசியாவில் வாடகை வீடு தேடுதல்: வலைத்தளங்கள், பேச்சுவார்த்தையாளர்கள், மற்றும் யாரும் சரிபார்க்காத REN குறியீட்டு அட்டை"
+seoTitle: மலேசியாவில் வாடகை வீடு தேடுதல்
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

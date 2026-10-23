@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "Les conseils locaux en Malaisie : l'échelon de gouvernement pour lequel on ne peut pas voter"
+seoTitle: Les conseils locaux en Malaisie
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

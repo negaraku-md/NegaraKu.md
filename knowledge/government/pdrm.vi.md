@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "Cảnh sát Hoàng gia Malaysia: Cơ cấu chỉ huy, chức năng cốt lõi và cơ sở pháp lý"
+seoTitle: Cảnh sát Hoàng gia Malaysia
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

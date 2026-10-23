@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "உங்கள் உடைமைகளை மலேசியாவுக்கு அனுப்புதல் — உங்கள் சொந்தக் காரைக் கொண்டுவருவது ஏன் கிட்டத்தட்ட ஒருபோதும் சாத்தியமில்லை"
+seoTitle: உங்கள் உடைமைகளை மலேசியாவுக்கு அனுப்புதல்
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

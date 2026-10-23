@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0071"
 title: "Mengapa Malaysia Termasuk dalam Kelompok Negara Megadiverse Dunia"
+seoTitle: Mengapa Malaysia Termasuk Negara Megadiverse Dunia
 slug: "climate-and-biodiversity"
 category: "malaysia"
 subcategory: ["geography"]

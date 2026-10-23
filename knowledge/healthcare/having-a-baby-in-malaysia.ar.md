@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "الإنجاب في ماليزيا: الكتاب الوردي، وزيارات العيادة، وما يحدث بعد الولادة"
+seoTitle: 'الإنجاب في ماليزيا: الكتاب الوردي وزيارات العيادة'
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

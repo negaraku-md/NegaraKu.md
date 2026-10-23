@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "Majlis Tempatan di Malaysia: Peringkat Kerajaan yang Tidak Boleh Anda Undi"
+seoTitle: Majlis Tempatan di Malaysia
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

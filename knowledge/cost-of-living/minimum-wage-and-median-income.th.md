@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "ค่าจ้างขั้นต่ำเทียบกับรายได้มัธยฐาน: เงินเดือนของชาวมาเลเซียทั่วไปเป็นอย่างไร"
+seoTitle: ค่าจ้างขั้นต่ำเทียบกับรายได้มัธยฐาน
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

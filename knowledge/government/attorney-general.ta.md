@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "மலேசியாவின் சட்ட மா அதிபர்: Article 145 வரையறுக்கும் பதவியும் அதிகாரங்களும்"
+seoTitle: மலேசியாவின் சட்ட மா அதிபர்
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

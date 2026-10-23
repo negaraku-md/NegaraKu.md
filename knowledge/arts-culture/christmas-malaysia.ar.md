@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "كيف تحتفي ماليزيا بعيد الميلاد — من قدّاس منتصف الليل إلى البيت المفتوح"
+seoTitle: كيف تحتفي ماليزيا بعيد الميلاد
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

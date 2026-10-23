@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 மற்றும் தானியங்கி வாக்காளர் பதிவு: Akta A1603 மாற்றியது என்ன"
+seoTitle: Undi18 மற்றும் தானியங்கி வாக்காளர் பதிவு
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

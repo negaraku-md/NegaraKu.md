@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0044
 title: "Bagaimana Gunung-Ganang dan Monsun Malaysia Membentuk Tempat Rakyat Malaysia Menetap"
+seoTitle: 'Gunung-Ganang dan Monsun: Di Mana Rakyat Malaysia Menetap'
 slug: "geography-overview"
 category: "malaysia"
 subcategory: ["geography"]

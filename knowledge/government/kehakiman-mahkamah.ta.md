@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "மலேசியாவின் நீதிமன்ற படிநிலை: ஐந்து நிலைகள், இரு நீரோட்டங்கள், மற்றும் நீதிபதிகள் எவ்வாறு நியமிக்கப்படுகிறார்கள்"
+seoTitle: மலேசியாவின் நீதிமன்ற படிநிலை
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

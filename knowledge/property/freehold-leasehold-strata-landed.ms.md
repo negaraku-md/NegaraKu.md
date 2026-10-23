@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0033
 title: "Freehold, Leasehold, Strata, Landed: Empat Perkataan pada Hak Milik Malaysia yang Menentukan Apa yang Sebenarnya Anda Miliki"
+seoTitle: Freehold, Leasehold, Strata, Landed
 slug: "freehold-leasehold-strata-landed"
 category: "property"
 subcategory: ["home-ownership"]

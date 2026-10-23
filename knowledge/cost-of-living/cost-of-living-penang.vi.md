@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "Chi phí sinh hoạt của Penang chia đôi ở eo biển: Đảo so với đất liền"
+seoTitle: Chi phí sinh hoạt của Penang chia đôi ở eo biển
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

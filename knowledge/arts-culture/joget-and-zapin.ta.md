@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0041
 title: "Joget மற்றும் Zapin: இரண்டு மலாய் நடனங்கள், இரண்டு வெவ்வேறு தோற்றங்கள்"
+seoTitle: 'Joget மற்றும் Zapin: இரண்டு மலாய் நடனங்கள்'
 slug: "joget-and-zapin"
 category: "arts-culture"
 subcategory: ["performing-arts"]

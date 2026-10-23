@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0052
 title: "சுல்தான், தௌலத் மற்றும் பிரபுக்கள்: மலாய் சுல்தானகம் எவ்வாறு ஆளப்பட்டது"
+seoTitle: சுல்தான், தௌலத் மற்றும் பிரபுக்கள்
 slug: "malay-sultanate-system"
 category: "malaysia"
 subcategory: ["sultanates"]

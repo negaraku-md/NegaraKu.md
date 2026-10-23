@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "Di Sebalik Aplikasi: Bagaimana Grab dan Perdagangan E-Hailing Malaysia Dikawal Selia"
+seoTitle: 'Grab dan E-Hailing Malaysia: Bagaimana Dikawal Selia'
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

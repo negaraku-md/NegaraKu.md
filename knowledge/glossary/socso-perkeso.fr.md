@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0018
 title: "PERKESO — l'assurance sociale du travailleur, pas votre épargne"
+seoTitle: 'PERKESO : l''assurance sociale du travailleur'
 slug: "socso-perkeso"
 category: "glossary"
 subcategory: ["employment"]

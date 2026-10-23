@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0089
 title: "Sumbangan Tunai Rahmah (STR): Ai đủ điều kiện, và cách thực sự để nộp đơn hoặc kiểm tra"
+seoTitle: Sumbangan Tunai Rahmah (STR)
 slug: "str-cash-aid"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

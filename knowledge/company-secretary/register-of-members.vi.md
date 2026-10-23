@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0019
 title: "Sổ đăng ký các thành viên: hai nghĩa vụ, hai đồng hồ riêng biệt"
+seoTitle: Sổ đăng ký các thành viên
 slug: "register-of-members"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

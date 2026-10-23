@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "மலேசியாவில் ஏன் இரண்டு தேசிய முக்கியத்துவ நாட்கள் உள்ளன: 31 ஆகஸ்ட் மற்றும் 16 செப்டம்பர்"
+seoTitle: மலேசியாவில் ஏன் இரண்டு தேசிய முக்கியத்துவ நாட்கள் உள்ளன
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

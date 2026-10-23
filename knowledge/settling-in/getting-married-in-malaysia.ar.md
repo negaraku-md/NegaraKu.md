@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "الزواج في ماليزيا: لماذا تنقسم الإجراءات بحسب الدين لا بحسب الاختيار"
+seoTitle: 'الزواج في ماليزيا: لماذا تنقسم الإجراءات بحسب الدين'
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

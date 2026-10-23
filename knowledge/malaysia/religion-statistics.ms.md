@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0031
 title: "Populasi Malaysia Mengikut Agama: Apa yang Direkodkan oleh Banci"
+seoTitle: Populasi Malaysia Mengikut Agama
 slug: "religion-statistics"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "Bagaimana Sistem Perawatan Kesehatan Malaysia Sebenarnya Bekerja: Kesenjangan Publik-Swasta, dan Siapa Membayar Apa"
+seoTitle: Bagaimana Sistem Kesehatan Malaysia Bekerja
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

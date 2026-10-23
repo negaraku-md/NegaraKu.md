@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0001
 title: "SSM — Comisión de Sociedades de Malasia (Suruhanjaya Syarikat Malaysia)"
+seoTitle: SSM — Comisión de Sociedades de Malasia
 slug: "ssm"
 category: "government"
 subcategory: ["agencies"]

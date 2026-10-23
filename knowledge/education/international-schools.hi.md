@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "मलेशिया में अंतरराष्ट्रीय स्कूल: पाठ्यक्रम, उनके पीछे के नियम, और फीस इतनी भिन्न क्यों होती है"
+seoTitle: मलेशिया में अंतरराष्ट्रीय स्कूल
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

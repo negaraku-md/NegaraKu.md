@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "L, P, CDL लाइसेंस: मलेशिया की JPJ ड्राइविंग लाइसेंस प्रक्रिया असल में कैसे काम करती है"
+seoTitle: 'L, P, CDL लाइसेंस: JPJ ड्राइविंग लाइसेंस प्रक्रिया'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

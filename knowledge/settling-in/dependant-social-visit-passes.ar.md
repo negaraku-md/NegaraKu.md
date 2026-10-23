@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0018
 title: "تصريح المرافق (Dependant Pass) أو تصريح الزيارة الاجتماعية طويلة الأمد (LTSVP): أيّهما يشمل عائلتك"
+seoTitle: 'تصريح المرافق أو LTSVP: أيّهما يشمل عائلتك'
 slug: "dependant-social-visit-passes"
 category: "settling-in"
 subcategory: ["visas-passes"]

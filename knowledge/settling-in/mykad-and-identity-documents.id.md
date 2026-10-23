@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0021
 title: "MyKad, MyPR, dan MyKAS: Tiga Kartu Identitas JPN, Tiga Status Berbeda"
+seoTitle: MyKad, MyPR, dan MyKAS
 slug: "mykad-and-identity-documents"
 category: "settling-in"
 subcategory: ["documents"]

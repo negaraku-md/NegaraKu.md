@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "กาสิง (Gasing): ลูกข่างไม้หมุนที่กลายเป็นบททดสอบพละกำลังและความทนทานที่ชายฝั่งตะวันออก"
+seoTitle: กาสิง (Gasing)
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

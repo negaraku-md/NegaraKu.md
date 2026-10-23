@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "Cómo matricular a su hijo en una escuela pública: edad de ingreso, documentos y el sistema idMe"
+seoTitle: Cómo matricular a su hijo en una escuela pública
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

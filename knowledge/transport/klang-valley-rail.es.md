@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0001
 title: "Cómo se conectan las líneas de MRT, LRT, Monorraíl y KTM de Kuala Lumpur"
+seoTitle: Las líneas MRT, LRT, Monorraíl y KTM de Kuala Lumpur
 slug: "klang-valley-rail"
 category: "transport"
 subcategory: ["public-transport"]

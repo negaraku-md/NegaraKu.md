@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0068"
 title: "غانغا نيغارا: مملكة بيراك التي ذُكرت في الأسطورة ولم تؤكّدها الآثار قط"
+seoTitle: 'غانغا نيغارا: مملكة بيراك الأسطورية غير المؤكّدة أثريًا'
 slug: "gangga-negara"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

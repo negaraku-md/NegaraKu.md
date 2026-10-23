@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0068"
 title: "Gangga Negara: Kerajaan Perak yang Disebut dalam Hikayat, Belum Disahkan Arkeologi"
+seoTitle: 'Gangga Negara: Kerajaan Perak dalam Hikayat'
 slug: "gangga-negara"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ACC-0026
 title: "El derecho de un director a inspeccionar los registros contables"
+seoTitle: Derecho del director a inspeccionar registros contables
 slug: "director-right-to-inspect-records"
 category: "accounting"
 subcategory: ["records"]

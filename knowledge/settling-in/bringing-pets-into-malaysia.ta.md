@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0026
 title: "உங்கள் நாய் அல்லது பூனையை மலேசியாவிற்குக் கொண்டுவருதல்: அனுமதி மற்றும் தனிமைப்படுத்தல் விதிகள்"
+seoTitle: உங்கள் நாய் அல்லது பூனையை மலேசியாவிற்குக் கொண்டுவருதல்
 slug: "bringing-pets-into-malaysia"
 category: "settling-in"
 subcategory: ["overview"]

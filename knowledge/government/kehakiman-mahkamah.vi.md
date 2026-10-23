@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "Hệ thống thứ bậc tòa án Malaysia: Năm cấp, hai dòng, và cách thẩm phán được bổ nhiệm"
+seoTitle: Hệ thống thứ bậc tòa án Malaysia
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

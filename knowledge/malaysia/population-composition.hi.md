@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "मलेशिया की जनसंख्या: वे नागरिकता और जातीय श्रेणियाँ जो DOSM वास्तव में प्रकाशित करता है"
+seoTitle: 'मलेशिया की जनसंख्या: नागरिकता और जातीय श्रेणियाँ'
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

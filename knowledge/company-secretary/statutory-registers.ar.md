@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "السجلات التشريعية التي يجب أن تحتفظ بها كل شركة خاصة Sdn Bhd: قائمة تحقق"
+seoTitle: السجلات التشريعية التي يجب أن تحتفظ بها كل شركة خاصة Sdn Bhd
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

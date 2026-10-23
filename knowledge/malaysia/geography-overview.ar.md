@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0044
 title: "كيف شكّلت جبال ماليزيا ورياحها الموسمية أماكن استقرار الماليزيين"
+seoTitle: 'الجبال والرياح الموسمية: أين يعيش الماليزيون'
 slug: "geography-overview"
 category: "malaysia"
 subcategory: ["geography"]

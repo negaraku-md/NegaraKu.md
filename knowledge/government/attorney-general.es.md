@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "El Fiscal General de Malasia: el cargo y las facultades definidos por el Artículo 145"
+seoTitle: El Fiscal General de Malasia
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

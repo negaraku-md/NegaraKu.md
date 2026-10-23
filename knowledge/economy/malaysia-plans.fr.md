@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0021
 title: "Les Plans de la Malaisie : le cadre quinquennal qui façonne chaque budget annuel"
+seoTitle: Les Plans de la Malaisie
 slug: "malaysia-plans"
 category: "economy"
 subcategory: ["policy"]

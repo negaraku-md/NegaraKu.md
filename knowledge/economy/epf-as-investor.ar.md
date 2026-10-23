@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "صندوق ادخار الموظفين (EPF) مستثمرًا: كيف يحرّك صندوق التقاعد الماليزي RM1.4 تريليون في الأسواق"
+seoTitle: صندوق ادخار الموظفين (EPF) مستثمرًا
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

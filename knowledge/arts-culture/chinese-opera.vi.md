@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "Chiêng trống tấu vì thần: hí kịch người Hoa và truyền thống tạ thần ở Malaysia"
+seoTitle: Chiêng trống tấu vì thần
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

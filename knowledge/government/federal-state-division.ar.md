@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "من يقرر ماذا: القائمة الاتحادية وقائمة الولايات والقائمة المشتركة في الجدول التاسع"
+seoTitle: القوائم الاتحادية والولائية والمشتركة (الجدول التاسع)
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

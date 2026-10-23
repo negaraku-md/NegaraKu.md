@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "Jata Negara: Reading Malaysia's National Coat of Arms, Element by Element"
+seoTitle: 'Jata Negara: Malaysia''s National Coat of Arms'
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

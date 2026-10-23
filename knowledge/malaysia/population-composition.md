@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "Malaysia's Population: The Citizen and Ethnic Categories DOSM Actually Publishes"
+seoTitle: Malaysia's Population
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

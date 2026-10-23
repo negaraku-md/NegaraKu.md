@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "말레이시아 이민청(Jabatan Imigresen Malaysia): 누가 들어오고, 누가 머물며, 누가 나가는지를 정하는 부처"
+seoTitle: 말레이시아 이민청(Jabatan Imigresen Malaysia)
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

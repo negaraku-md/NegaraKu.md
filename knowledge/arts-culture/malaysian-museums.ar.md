@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0046
 title: "متاحف ماليزيا: ماذا يضم فعلاً المتحف الوطني ومتحف الفنون الإسلامية والمتاحف الولائية"
+seoTitle: 'متاحف ماليزيا: المتحف الوطني ومتحف الفنون الإسلامية'
 slug: "malaysian-museums"
 category: "arts-culture"
 subcategory: ["heritage"]

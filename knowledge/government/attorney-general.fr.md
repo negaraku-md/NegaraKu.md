@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "Le Procureur général de Malaisie : la charge et les pouvoirs définis par l'Article 145"
+seoTitle: Le Procureur général de Malaisie
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

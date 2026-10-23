@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0001
 title: "Comment s'articulent les lignes de MRT, LRT, Monorail et KTM de Kuala Lumpur"
+seoTitle: Les lignes MRT, LRT, Monorail et KTM de Kuala Lumpur
 slug: "klang-valley-rail"
 category: "transport"
 subcategory: ["public-transport"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "The Election Commission (SPR): Its Mandate and Functions Under Articles 113-114 of the Constitution"
+seoTitle: The Election Commission (SPR)
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

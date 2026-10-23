@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "สิงคโปร์ออกจากมาเลเซียอย่างไร: เอกสารการแยกตัวกล่าวว่าอะไรจริง ๆ"
+seoTitle: สิงคโปร์ออกจากมาเลเซียอย่างไร
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

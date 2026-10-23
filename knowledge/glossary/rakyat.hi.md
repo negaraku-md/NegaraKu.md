@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "रक्यत (Rakyat): मलेशिया के पास «जनता» के लिए दो शब्द क्यों हैं — और «नागरिक» के लिए एक अलग शब्द"
+seoTitle: 'रक्यत (Rakyat): मलेशिया में «जनता» के दो शब्द'
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

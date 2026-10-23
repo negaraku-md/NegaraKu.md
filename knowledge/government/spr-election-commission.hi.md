@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "निर्वाचन आयोग (SPR): संविधान के अनुच्छेद 113-114 के तहत इसका अधिदेश और कार्य"
+seoTitle: 'निर्वाचन आयोग (SPR): अनुच्छेद 113-114 के तहत अधिदेश'
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

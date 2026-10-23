@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0076
 title: "Ke Mana Ringgit Perbelanjaan Isi Rumah Malaysia Sebenarnya Pergi Setiap Bulan"
+seoTitle: Ke Mana Ringgit Isi Rumah Malaysia Pergi
 slug: "household-spending-breakdown"
 category: "cost-of-living"
 subcategory: ["overview"]

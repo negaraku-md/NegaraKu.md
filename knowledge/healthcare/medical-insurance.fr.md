@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "L'assurance médicale en Malaisie : ce qu'une carte vous achète réellement, et ce qu'elle n'achète pas"
+seoTitle: L'assurance médicale en Malaisie
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

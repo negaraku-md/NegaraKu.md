@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "Thông luật ở Malaysia: Đạo luật Dân luật 1956 đã nhập khẩu — và đóng băng — luật Anh như thế nào"
+seoTitle: 'Thông luật ở Malaysia: Đạo luật Dân luật 1956 đã nhập khẩu'
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

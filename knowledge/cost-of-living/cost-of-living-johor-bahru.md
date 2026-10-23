@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0079
 title: "Johor Bahru's Cost of Living: Priced in Ringgit, Pulled by the Singapore Dollar"
+seoTitle: Johor Bahru's Cost of Living
 slug: "cost-of-living-johor-bahru"
 category: "cost-of-living"
 subcategory: ["by-city"]

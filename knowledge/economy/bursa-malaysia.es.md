@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0018
 title: "Bursa Malaysia: tres mercados, tres precios de entrada muy distintos"
+seoTitle: 'Bursa Malaysia: tres mercados, tres precios de entrada'
 slug: "bursa-malaysia"
 category: "economy"
 subcategory: ["institutions"]

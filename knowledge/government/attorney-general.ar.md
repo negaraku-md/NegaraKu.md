@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "النائب العام لماليزيا: المنصب والصلاحيات التي تحددها المادة 145"
+seoTitle: النائب العام لماليزيا
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

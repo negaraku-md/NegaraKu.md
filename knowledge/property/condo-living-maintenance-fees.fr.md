@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "Vivre en copropriété en Malaisie : pourquoi vos charges d'entretien ont une sœur appelée fonds de réserve"
+seoTitle: Vivre en copropriété en Malaisie
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

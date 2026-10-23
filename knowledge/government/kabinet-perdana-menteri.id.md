@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "Kepercayaan Mayoritas: Syarat Konstitusional bagi Pengangkatan Perdana Menteri dan Jemaah Menteri"
+seoTitle: Kepercayaan Mayoritas
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

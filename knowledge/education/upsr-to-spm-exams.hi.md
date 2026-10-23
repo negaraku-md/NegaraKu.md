@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0056
 title: "UPSR से SPM तक: बड़ी परीक्षाओं के समाप्त होने के बाद क्या बचा है"
+seoTitle: 'UPSR से SPM तक: बड़ी परीक्षाएँ खत्म होने के बाद'
 slug: "upsr-to-spm-exams"
 category: "education"
 subcategory: ["exams"]

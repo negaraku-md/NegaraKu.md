@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0044
 title: "Cómo las montañas y los monzones de Malasia decidieron dónde viven los malasios"
+seoTitle: 'Montañas y monzones: dónde viven los malasios'
 slug: "geography-overview"
 category: "malaysia"
 subcategory: ["geography"]

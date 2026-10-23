@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "कोनफ्रोंतासी: वह अघोषित युद्ध जिसने मलेशिया के जन्म का स्वागत किया"
+seoTitle: 'कोनफ्रोंतासी: मलेशिया का अघोषित युद्ध'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

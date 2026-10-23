@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "Le jour de Wesak en Malaisie : l'observance bouddhiste de la pleine lune et pourquoi la date change chaque année"
+seoTitle: Le jour de Wesak en Malaisie
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

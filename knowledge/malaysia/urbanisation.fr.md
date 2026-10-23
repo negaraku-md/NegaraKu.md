@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "Pourquoi la Malaisie est devenue un pays à majorité urbaine en une seule génération"
+seoTitle: Pourquoi la Malaisie est devenue majoritairement urbaine
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

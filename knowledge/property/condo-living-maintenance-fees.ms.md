@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "Kehidupan Kondominium di Malaysia: Kenapa Caj Penyelenggaraan Anda Mempunyai 'Adik' Bernama Kumpulan Wang Penjelasan"
+seoTitle: Kehidupan Kondominium di Malaysia
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

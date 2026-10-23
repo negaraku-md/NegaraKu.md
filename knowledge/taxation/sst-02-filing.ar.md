@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0035
 title: "تقديم إقرار SST-02 — الفترات الضريبية والمواعيد النهائية والغرامات"
+seoTitle: 'تقديم إقرار SST-02: الفترات والمواعيد والغرامات'
 slug: "sst-02-filing"
 category: "taxation"
 subcategory: ["sst"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "ภาคการผลิตของมาเลเซีย: ใหญ่ขึ้นทุกปี แต่ติดอยู่ที่สัดส่วน GDP เดิม"
+seoTitle: ภาคการผลิตของมาเลเซีย
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

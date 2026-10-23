@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "Rakyat: mengapa Malaysia punya dua kata untuk 'orang banyak' — dan satu lagi untuk 'warga negara'"
+seoTitle: 'Rakyat: mengapa Malaysia punya dua kata untuk ''orang banyak'''
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

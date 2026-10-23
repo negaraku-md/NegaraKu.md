@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "EPF Sebagai Pelabur: Bagaimana Dana Persaraan Malaysia Menggerakkan RM1.4 Trilion di Pasaran"
+seoTitle: 'EPF Sebagai Pelabur: RM1.4 Trilion di Pasaran'
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

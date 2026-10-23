@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "मलेशियाई शहरों में पैदल चलना और साइकिल चलाना अब भी क्यों एक चढ़ाई-भरा रास्ता है"
+seoTitle: मलेशियाई शहरों में पैदल चलना और साइकिल चलाना
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

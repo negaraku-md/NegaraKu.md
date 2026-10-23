@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "ตรุษจีนในมาเลเซีย: ความหมายเบื้องหลังอาหารรวมญาติ อั่งเปา และการเชิดสิงโต"
+seoTitle: 'ตรุษจีนในมาเลเซีย: อั่งเปา เชิดสิงโต อาหารรวมญาติ'
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

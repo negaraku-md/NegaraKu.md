@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0056
 title: "From UPSR to SPM: What's Left After the Big Exams Were Abolished"
+seoTitle: 'From UPSR to SPM: After the Big Exams Were Abolished'
 slug: "upsr-to-spm-exams"
 category: "education"
 subcategory: ["exams"]

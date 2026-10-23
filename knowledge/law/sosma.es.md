@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (Act 747): los procedimientos especiales que Malasia usa para los delitos de seguridad"
+seoTitle: 'SOSMA (Act 747): procedimientos para delitos de seguridad'
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "Why You Can Be Turned Back at Kota Kinabalu: The Constitutional Safeguards for Sabah and Sarawak"
+seoTitle: Why You Can Be Turned Back at Kota Kinabalu
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

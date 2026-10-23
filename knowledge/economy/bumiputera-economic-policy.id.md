@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "Kebijakan Ekonomi Bumiputera: Bagaimana Tujuan Penyusunan Ulang DEB Berlanjut hingga Hari Ini"
+seoTitle: Kebijakan Ekonomi Bumiputera
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

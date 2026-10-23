@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "Malaysia's Nine Royal States: The Reigning Rulers and Their Role in the Conference of Rulers"
+seoTitle: Malaysia's Nine Royal States
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

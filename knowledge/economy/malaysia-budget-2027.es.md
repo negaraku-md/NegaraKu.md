@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0035
 title: "Presupuesto 2027 de Malasia: qué cambió para usted y cuándo entra en vigor"
+seoTitle: Presupuesto 2027 de Malasia
 slug: "malaysia-budget-2027"
 category: "economy"
 subcategory: ["policy"]

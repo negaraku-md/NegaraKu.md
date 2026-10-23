@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0031
 title: "La population de la Malaisie par religion : ce qu'a enregistré le recensement"
+seoTitle: La population de la Malaisie par religion
 slug: "religion-statistics"
 category: "malaysia"
 subcategory: ["demographics"]

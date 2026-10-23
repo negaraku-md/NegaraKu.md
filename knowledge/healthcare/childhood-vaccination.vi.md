@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "Vắc-xin miễn phí cho mọi trẻ em: Hiểu về Chương trình Tiêm chủng Quốc gia của KKM"
+seoTitle: Vắc-xin miễn phí cho mọi trẻ em
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "Syariah — Islamic law as a State matter in Malaysia's legal system"
+seoTitle: Syariah — Islamic law as a State matter in Malaysia
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

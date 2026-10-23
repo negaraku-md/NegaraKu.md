@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — Suruhanjaya Pencegahan Rasuah Malaysia dan Lima Badan Pengawasnya"
+seoTitle: MACC — Suruhanjaya Pencegahan Rasuah Malaysia
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

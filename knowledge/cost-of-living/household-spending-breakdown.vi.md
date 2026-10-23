@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0076
 title: "Đồng ringgit của hộ gia đình Malaysia thực sự đi đâu mỗi tháng"
+seoTitle: Đồng ringgit hộ gia đình Malaysia đi đâu
 slug: "household-spending-breakdown"
 category: "cost-of-living"
 subcategory: ["overview"]

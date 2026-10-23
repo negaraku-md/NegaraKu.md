@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "The Auditor General: The Constitutional Officer the Constitution Protects From Government"
+seoTitle: 'The Auditor General: Constitutional Officer'
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

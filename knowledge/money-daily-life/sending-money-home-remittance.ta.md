@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "மலேசியாவிலிருந்து வீட்டுக்குப் பணம் அனுப்புதல்: உரிமம் பெற்ற பணமனுப்பீட்டு வழியை சட்டவிரோதமான வழியிலிருந்து எப்படி வேறுபடுத்துவது"
+seoTitle: மலேசியாவிலிருந்து வீட்டுக்குப் பணம் அனுப்புதல்
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "ตราแผ่นดิน (Jata Negara): อ่านโล่ประจำชาติของมาเลเซียทีละองค์ประกอบ"
+seoTitle: ตราแผ่นดิน (Jata Negara)
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

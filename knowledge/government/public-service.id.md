@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "Layanan Sipil Malaysia: Komisi yang Mengangkat dan Departemen yang Membentuknya"
+seoTitle: Layanan Sipil Malaysia
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

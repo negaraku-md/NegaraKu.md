@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0018
 title: "Bursa Malaysia: Ba thị trường, ba mức giá gia nhập rất khác nhau"
+seoTitle: 'Bursa Malaysia: Ba thị trường, ba mức giá gia nhập'
 slug: "bursa-malaysia"
 category: "economy"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "Consumer Protection Act 1999: قانون حقوق المستهلك الماليزي ومحكمته ذات رسم RM5"
+seoTitle: Consumer Protection Act 1999
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

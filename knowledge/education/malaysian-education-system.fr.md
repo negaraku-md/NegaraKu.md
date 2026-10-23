@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0051
 title: "Le système éducatif de la Malaisie, de la maternelle à l'université"
+seoTitle: 'Système éducatif de la Malaisie : maternelle à université'
 slug: "malaysian-education-system"
 category: "education"
 subcategory: ["overview"]

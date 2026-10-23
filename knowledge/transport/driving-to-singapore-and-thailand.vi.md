@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0069
 title: "Xe của bạn thực sự cần gì để vượt biên sang Singapore hoặc Thái Lan"
+seoTitle: Xe của bạn cần gì để sang Singapore hoặc Thái Lan
 slug: "driving-to-singapore-and-thailand"
 category: "transport"
 subcategory: ["driving"]

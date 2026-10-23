@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0016
 title: "Cukai Keuntungan Modal ke atas Saham Tidak Tersenarai di Malaysia"
+seoTitle: 'Cukai Keuntungan Modal: Saham Tidak Tersenarai'
 slug: "capital-gains-tax"
 category: "taxation"
 subcategory: ["capital-taxes"]

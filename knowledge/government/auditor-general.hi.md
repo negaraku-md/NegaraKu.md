@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "महालेखा परीक्षक: वह संवैधानिक अधिकारी जिसे संविधान सरकार से बचाता है"
+seoTitle: 'महालेखा परीक्षक: संवैधानिक अधिकारी'
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

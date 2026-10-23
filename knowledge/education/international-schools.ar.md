@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "المدارس الدولية في ماليزيا: المناهج، والقواعد الكامنة خلفها، ولماذا تتفاوت الرسوم تفاوتاً شاسعاً"
+seoTitle: المدارس الدولية في ماليزيا
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

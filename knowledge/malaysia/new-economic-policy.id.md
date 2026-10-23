@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "Dasar Ekonomi Baru: Dua Tujuan yang Dinyatakan, Satu Kerangka Dua Puluh Tahun"
+seoTitle: 'Dasar Ekonomi Baru: Dua Tujuan, Satu Kerangka'
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

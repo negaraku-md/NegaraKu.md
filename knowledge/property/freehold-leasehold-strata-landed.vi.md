@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0033
 title: "Vĩnh viễn, Có thời hạn, Strata, Có đất: Bốn từ trên một quyền sở hữu Malaysia quyết định bạn thực sự sở hữu gì"
+seoTitle: Vĩnh viễn, Có thời hạn, Strata, Có đất
 slug: "freehold-leasehold-strata-landed"
 category: "property"
 subcategory: ["home-ownership"]

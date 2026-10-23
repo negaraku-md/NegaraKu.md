@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0031
 title: "Populasi Malaysia Menurut Agama: Apa yang Dicatat oleh Sensus"
+seoTitle: Populasi Malaysia Menurut Agama
 slug: "religion-statistics"
 category: "malaysia"
 subcategory: ["demographics"]

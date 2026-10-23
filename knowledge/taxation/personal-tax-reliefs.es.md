@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0004
 title: "Lista de comprobación de las desgravaciones fiscales personales de Malasia"
+seoTitle: Lista de desgravaciones fiscales personales de Malasia
 slug: "personal-tax-reliefs"
 category: "taxation"
 subcategory: ["personal-tax"]

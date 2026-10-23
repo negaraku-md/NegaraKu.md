@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0070"
 title: "Le Département du Premier ministre : l'organe central de coordination de la Malaisie"
+seoTitle: Le Département du Premier ministre
 slug: "prime-ministers-department"
 category: "government"
 subcategory: ["institutions"]

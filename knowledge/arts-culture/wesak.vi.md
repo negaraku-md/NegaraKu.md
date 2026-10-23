@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "Ngày Wesak ở Malaysia: lễ trăng tròn của Phật giáo và vì sao ngày này thay đổi mỗi năm"
+seoTitle: Ngày Wesak ở Malaysia
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

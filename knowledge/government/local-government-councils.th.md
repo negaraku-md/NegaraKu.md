@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "การปกครองส่วนท้องถิ่น (PBT): สภานคร สภาเทศบาล และสภาอำเภอ ภายใต้ Akta 171"
+seoTitle: การปกครองส่วนท้องถิ่น (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

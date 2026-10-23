@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0089
 title: "Sumbangan Tunai Rahmah (STR): Siapa Layak, dan Cara Sebenar Memohon atau Menyemak"
+seoTitle: Sumbangan Tunai Rahmah (STR)
 slug: "str-cash-aid"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

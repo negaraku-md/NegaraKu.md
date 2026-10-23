@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "Policía Real de Malasia: cadena de mando, funciones esenciales y base legal"
+seoTitle: Policía Real de Malasia
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

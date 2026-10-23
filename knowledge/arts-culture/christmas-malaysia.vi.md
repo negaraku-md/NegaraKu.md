@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "Malaysia đón Giáng sinh như thế nào — từ Thánh lễ nửa đêm đến tục mở cửa nhà"
+seoTitle: Malaysia đón Giáng sinh như thế nào
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

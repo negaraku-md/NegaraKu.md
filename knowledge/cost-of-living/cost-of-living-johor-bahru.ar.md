@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0079
 title: "تكلفة المعيشة في جوهور بهرو: مُسعَّرة بالرينغيت، مشدودة بالدولار السنغافوري"
+seoTitle: تكلفة المعيشة في جوهور بهرو
 slug: "cost-of-living-johor-bahru"
 category: "cost-of-living"
 subcategory: ["by-city"]

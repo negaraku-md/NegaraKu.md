@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "எது யார் தீர்மானிக்கிறது: ஒன்பதாம் அட்டவணையின் (Ninth Schedule) கூட்டாட்சி, மாநில மற்றும் கூட்டுப் பட்டியல்கள்"
+seoTitle: 'எது யார் தீர்மானிக்கிறது: ஒன்பதாம் அட்டவணையின்'
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

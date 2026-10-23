@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "Ketua Audit Negara: Pejabat Pemerintah yang Dilindungi Konstitusi dari Pemerintah"
+seoTitle: 'Ketua Audit Negara: Pejabat Konstitusional'
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

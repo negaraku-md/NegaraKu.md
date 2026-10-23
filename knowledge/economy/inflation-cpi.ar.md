@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0003
 title: "معدل التضخم في ماليزيا وما الذي يقيسه مؤشر أسعار المستهلك فعليًا"
+seoTitle: معدل التضخم في ماليزيا ومؤشر أسعار المستهلك
 slug: "inflation-cpi"
 category: "economy"
 subcategory: ["indicators"]

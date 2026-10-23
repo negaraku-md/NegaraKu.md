@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "Los concejos locales en Malasia: el nivel de gobierno por el que no se puede votar"
+seoTitle: Los concejos locales en Malasia
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

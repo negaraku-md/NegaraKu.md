@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0056
 title: "De la UPSR al SPM: lo que queda tras la abolición de los grandes exámenes"
+seoTitle: 'De la UPSR al SPM: tras la abolición de los exámenes'
 slug: "upsr-to-spm-exams"
 category: "education"
 subcategory: ["exams"]

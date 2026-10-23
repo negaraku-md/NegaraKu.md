@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0008
 title: "इलेक्ट्रॉनिक्स और सेमीकंडक्टर: वह क्षेत्र जो मलेशिया के निर्यात को ढोता है"
+seoTitle: इलेक्ट्रॉनिक्स और सेमीकंडक्टर
 slug: "electronics-semiconductors"
 category: "economy"
 subcategory: ["sectors"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0022
 title: "Yang di-Pertuan Agong — Takhta Persekutuan yang Dipilih, Bukan Diwarisi"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "glossary"
 subcategory: ["government"]

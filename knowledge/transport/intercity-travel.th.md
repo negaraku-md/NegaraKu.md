@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "การเดินทางระหว่างเมืองในมาเลเซีย: เปรียบเทียบรถไฟ รถประจำทาง และเที่ยวบิน"
+seoTitle: การเดินทางระหว่างเมืองในมาเลเซีย
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

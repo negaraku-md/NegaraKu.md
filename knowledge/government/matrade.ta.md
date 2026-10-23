@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0071
 title: "MATRADE — மலேசிய வெளிநாட்டு வர்த்தக மேம்பாட்டுக் கழகம் (Malaysia External Trade Development Corporation): ஏற்றுமதி வெளியே, முதலீடு உள்ளே அல்ல"
+seoTitle: MATRADE — மலேசிய வெளிநாட்டு வர்த்தக மேம்பாட்டுக் கழகம்
 slug: "matrade"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0024
 title: "การจดทะเบียนการตายในมาเลเซีย: ขั้นตอนของ JPN ใบมรณบัตร และสิ่งที่ตามมา"
+seoTitle: การจดทะเบียนการตายในมาเลเซีย
 slug: "registering-a-death"
 category: "settling-in"
 subcategory: ["documents"]

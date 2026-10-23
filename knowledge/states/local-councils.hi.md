@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "मलेशिया में स्थानीय परिषदें: सरकार का वह स्तर जिसके लिए आप मतदान नहीं कर सकते"
+seoTitle: मलेशिया में स्थानीय परिषदें
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

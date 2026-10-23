@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0013
 title: "บาลิกกัมปง (Balik Kampung) — การเคลื่อนย้ายผู้คนช่วงเทศกาลของมาเลเซีย"
+seoTitle: บาลิกกัมปง (Balik Kampung)
 slug: "balik-kampung"
 category: "glossary"
 subcategory: ["culture"]

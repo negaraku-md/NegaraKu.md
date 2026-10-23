@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0003
 title: "Merdeka: Ngày 31 tháng 8 năm 1957 thực sự đã diễn ra như thế nào"
+seoTitle: 'Merdeka: ngày 31 tháng 8 năm 1957 đã diễn ra thế nào'
 slug: "independence-1957"
 category: "malaysia"
 subcategory: ["independence"]

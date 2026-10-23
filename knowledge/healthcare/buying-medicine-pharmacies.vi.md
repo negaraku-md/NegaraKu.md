@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "Đằng sau quầy dược: Đơn thuốc, thuốc không kê đơn và thuốc kiểm soát tại Malaysia"
+seoTitle: Mua thuốc tại nhà thuốc ở Malaysia
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

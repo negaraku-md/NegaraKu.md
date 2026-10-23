@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0042
 title: "Pourquoi la Malaisie a une frontière interne, et ce qu'elle contrôle réellement"
+seoTitle: Pourquoi la Malaisie a une frontière interne
 slug: "peninsular-and-borneo"
 category: "malaysia"
 subcategory: ["country-basics"]

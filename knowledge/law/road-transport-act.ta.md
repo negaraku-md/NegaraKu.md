@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "சாலை போக்குவரத்துச் சட்டம் 1987 (Road Transport Act 1987, Act 333): ஒவ்வொரு ஓட்டுநர் உரிமம் மற்றும் வாகன எண் தகட்டுக்கும் பின்னால் இருக்கும் சட்டம்"
+seoTitle: சாலை போக்குவரத்துச் சட்டம் 1987
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

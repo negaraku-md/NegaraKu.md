@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0035
 title: "Presentación del SST-02: periodos imponibles, plazos y sanciones"
+seoTitle: Presentación del SST-02
 slug: "sst-02-filing"
 category: "taxation"
 subcategory: ["sst"]

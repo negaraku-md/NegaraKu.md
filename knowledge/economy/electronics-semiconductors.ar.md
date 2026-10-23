@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0008
 title: "الإلكترونيات وأشباه الموصّلات: القطاع الذي يحمل صادرات ماليزيا"
+seoTitle: الإلكترونيات وأشباه الموصّلات
 slug: "electronics-semiconductors"
 category: "economy"
 subcategory: ["sectors"]

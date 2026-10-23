@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "شراء شريحة هاتف محمول في ماليزيا: المدفوعة مسبقًا، والمدفوعة لاحقًا، وخطوة التسجيل التي لا يمكنك تخطّيها"
+seoTitle: شراء شريحة هاتف محمول في ماليزيا
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

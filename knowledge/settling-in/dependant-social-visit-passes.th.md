@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0018
 title: "Dependant Pass หรือใบอนุญาตเยือนสังคมระยะยาว: อันไหนครอบคลุมครอบครัวของคุณ"
+seoTitle: Dependant Pass หรือใบอนุญาตเยือนสังคมระยะยาว
 slug: "dependant-social-visit-passes"
 category: "settling-in"
 subcategory: ["visas-passes"]

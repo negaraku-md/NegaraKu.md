@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0072
 title: "Bantuan Rumah Tangga dan Perawatan Konfinemen di Malaysia: Pilihan-Pilihannya, dan Siapa Sebenarnya yang Mengaturnya"
+seoTitle: Bantuan Rumah Tangga dan Perawatan Konfinemen di Malaysia
 slug: "domestic-help-and-confinement-care"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "تصريح العمل (Employment Pass): تأشيرة العمل التي لا يمكنك أبدًا التقدّم بها بنفسك"
+seoTitle: تصريح العمل (Employment Pass)
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

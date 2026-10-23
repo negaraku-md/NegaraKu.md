@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "गासिंग: वह लट्टू जो पूर्वी तट पर शक्ति और सहनशक्ति की परीक्षा बन गया"
+seoTitle: गासिंग
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

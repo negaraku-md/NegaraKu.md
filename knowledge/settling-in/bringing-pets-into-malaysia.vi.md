@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0026
 title: "Mang chó hoặc mèo của bạn vào Malaysia: Quy định về giấy phép và cách ly"
+seoTitle: Mang chó hoặc mèo của bạn vào Malaysia
 slug: "bringing-pets-into-malaysia"
 category: "settling-in"
 subcategory: ["overview"]

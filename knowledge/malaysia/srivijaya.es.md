@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0048"
 title: "Srivijaya: el reino marítimo tras la dinastía fundadora de Melaka"
+seoTitle: 'Srivijaya: el reino marítimo tras la fundación de Melaka'
 slug: "srivijaya"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

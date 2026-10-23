@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0071"
 title: "لماذا تُعَدّ ماليزيا واحدةً من أكثر بلدان العالم تنوّعاً حيوياً"
+seoTitle: لماذا ماليزيا من أكثر دول العالم تنوّعاً حيوياً
 slug: "climate-and-biodiversity"
 category: "malaysia"
 subcategory: ["geography"]

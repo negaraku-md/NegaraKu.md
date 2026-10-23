@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "एम्प्लॉयमेंट पास: वह वर्क वीज़ा जिसके लिए आप कभी स्वयं आवेदन नहीं कर सकते"
+seoTitle: 'एम्प्लॉयमेंट पास: वह वर्क वीज़ा जो आप स्वयं नहीं ले सकते'
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

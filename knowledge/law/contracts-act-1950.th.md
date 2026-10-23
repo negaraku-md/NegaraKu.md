@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0030"
 title: "พระราชบัญญัติสัญญา 1950 (Contracts Act 1950, Act 136): กฎหมายสัญญาทั่วไปของมาเลเซีย"
+seoTitle: พระราชบัญญัติสัญญา 1950 (Contracts Act 1950, Act 136)
 slug: "contracts-act-1950"
 category: "law"
 subcategory: ["key-acts"]

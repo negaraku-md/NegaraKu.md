@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0045"
 title: "الرياح الموسمية الشمالية الشرقية والجنوبية الغربية: لماذا يغرق الساحل الشرقي كل عام"
+seoTitle: الرياح الموسمية الشمالية الشرقية والجنوبية الغربية
 slug: "monsoons"
 category: "malaysia"
 subcategory: ["geography"]

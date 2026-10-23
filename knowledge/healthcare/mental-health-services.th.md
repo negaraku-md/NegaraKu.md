@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "รับความช่วยเหลือด้านสุขภาพจิตในมาเลเซียได้ที่ไหน: การดูแลของรัฐ ทางเลือกเอกชน และสายด่วนวิกฤต"
+seoTitle: รับความช่วยเหลือด้านสุขภาพจิตในมาเลเซียได้ที่ไหน
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

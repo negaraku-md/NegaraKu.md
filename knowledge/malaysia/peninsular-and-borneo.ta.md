@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0042
 title: "மலேசியாவுக்கு ஏன் ஒரு உள் எல்லை உள்ளது, அது உண்மையில் எதைக் கட்டுப்படுத்துகிறது"
+seoTitle: மலேசியாவுக்கு ஏன் ஒரு உள் எல்லை உள்ளது
 slug: "peninsular-and-borneo"
 category: "malaysia"
 subcategory: ["country-basics"]

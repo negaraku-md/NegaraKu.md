@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "กลองฆ้องบรรเลงเพื่อเทพเจ้า: งิ้วจีนและประเพณีการแก้บนเทพเจ้าในมาเลเซีย"
+seoTitle: กลองฆ้องบรรเลงเพื่อเทพเจ้า
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

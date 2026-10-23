@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "Kos Sara Hidup Pulau Pinang Berbelah di Selat: Pulau vs Tanah Besar"
+seoTitle: Kos Sara Hidup Pulau Pinang Berbelah di Selat
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

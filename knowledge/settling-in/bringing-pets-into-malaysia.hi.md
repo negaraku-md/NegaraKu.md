@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0026
 title: "अपने कुत्ते या बिल्ली को मलेशिया लाना: परमिट और संगरोध के नियम"
+seoTitle: अपने कुत्ते या बिल्ली को मलेशिया लाना
 slug: "bringing-pets-into-malaysia"
 category: "settling-in"
 subcategory: ["overview"]

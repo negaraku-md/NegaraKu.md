@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0001
 title: "कुआलालंपुर की MRT, LRT, मोनोरेल और KTM लाइनें आपस में कैसे जुड़ती हैं"
+seoTitle: कुआलालंपुर की MRT, LRT, मोनोरेल और KTM लाइनें
 slug: "klang-valley-rail"
 category: "transport"
 subcategory: ["public-transport"]

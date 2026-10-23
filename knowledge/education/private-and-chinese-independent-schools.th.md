@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "โรงเรียนเอกชนและโรงเรียนเอกชนจีน: สายที่อยู่ระหว่างระบบแห่งชาติกับนานาชาติ"
+seoTitle: โรงเรียนเอกชนและโรงเรียนเอกชนจีน
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

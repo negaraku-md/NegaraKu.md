@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0006"
 title: "El «impuesto de circulación» no es un «impuesto»: es tu Licencia de Vehículo de Motor"
+seoTitle: El «impuesto de circulación» no es un «impuesto»
 slug: "road-tax-renewal"
 category: "transport"
 subcategory: ["vehicles-tolls"]

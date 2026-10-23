@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "การเปิดบัญชีธนาคารในมาเลเซีย: พลเมืองต้องใช้อะไร ชาวต่างชาติต้องใช้อะไร และวีซ่านักท่องเที่ยวใช้ไม่ได้"
+seoTitle: การเปิดบัญชีธนาคารในมาเลเซีย
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

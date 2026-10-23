@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0020
 title: "ஹரி ராயா ஐதில்ஃபித்ரி (Hari Raya Aidilfitri): ரமலான் நிறைவைக் குறிக்கும் திருவிழாவும் ஊர் திரும்புதலும்"
+seoTitle: ஹரி ராயா ஐதில்ஃபித்ரி (Hari Raya Aidilfitri)
 slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]

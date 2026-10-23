@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "Berkahwin di Malaysia: Mengapa Prosesnya Berbeza Mengikut Agama, Bukan Pilihan"
+seoTitle: Berkahwin di Malaysia
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

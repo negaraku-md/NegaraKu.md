@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "ஒரு தங்கலுக்கு இரண்டு பில்கள்: மலேசியாவில் தனியார் மருத்துவமனைகள் உண்மையில் உங்களிடம் எப்படி கட்டணம் வசூலிக்கின்றன"
+seoTitle: ஒரு தங்கலுக்கு இரண்டு பில்கள்
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

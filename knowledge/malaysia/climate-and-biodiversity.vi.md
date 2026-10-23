@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0071"
 title: "Vì sao Malaysia là một trong những quốc gia đa dạng sinh học bậc nhất thế giới"
+seoTitle: Vì sao Malaysia đa dạng sinh học bậc nhất thế giới
 slug: "climate-and-biodiversity"
 category: "malaysia"
 subcategory: ["geography"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0027
 title: "खुला घर (Open House): जब एक समुदाय का उत्सव सबके लिए निमंत्रण बन जाता है"
+seoTitle: खुला घर (Open House)
 slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]

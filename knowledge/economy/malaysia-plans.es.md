@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0021
 title: "Los Planes de Malasia: el marco quinquenal que da forma a cada presupuesto anual"
+seoTitle: Los Planes de Malasia
 slug: "malaysia-plans"
 category: "economy"
 subcategory: ["policy"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0070"
 title: "The Prime Minister's Department: Malaysia's Central Coordinating Agency"
+seoTitle: The Prime Minister's Department
 slug: "prime-ministers-department"
 category: "government"
 subcategory: ["institutions"]

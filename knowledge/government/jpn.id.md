@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — Jabatan Pendaftaran Negara: dari akta kelahiran hingga akta kematian"
+seoTitle: JPN — Jabatan Pendaftaran Negara
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

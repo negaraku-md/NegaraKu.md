@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "Suku Bunga Kebijakan Semalam: Bagaimana Bank Negara Menetapkan Harga Uang"
+seoTitle: Suku Bunga Kebijakan Semalam
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "اللغة الوطنية لماليزيا، واللغات الكثيرة الأخرى التي تُنطق إلى جانبها"
+seoTitle: اللغة الوطنية لماليزيا واللغات الأخرى
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

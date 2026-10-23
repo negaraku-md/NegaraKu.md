@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "Sektor Manufaktur Malaysia: Semakin Besar Setiap Tahun, Tetap Pada Pangsa PDB Yang Sama"
+seoTitle: Sektor Manufaktur Malaysia
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

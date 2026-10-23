@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "Los hospitales públicos de Malasia: cómo funcionan en realidad el sistema de derivación, los cargos subvencionados y los tiempos de espera"
+seoTitle: Los hospitales públicos de Malasia
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

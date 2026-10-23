@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "Memperbaharui Pasport Malaysia: MyOnline Passport, Kaunter UTC, atau Pejabat Imigresen"
+seoTitle: Memperbaharui Pasport Malaysia
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

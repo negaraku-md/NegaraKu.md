@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0061
 title: "द अलायंस (The Alliance): वह गठबंधन जिसने मलाया की स्वतंत्रता पर बातचीत की"
+seoTitle: द अलायंस (The Alliance)
 slug: "the-alliance"
 category: "malaysia"
 subcategory: ["independence"]

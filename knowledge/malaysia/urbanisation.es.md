@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "Por qué Malasia se convirtió en un país de mayoría urbana en una sola generación"
+seoTitle: Por qué Malasia se volvió mayoría urbana en una generación
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

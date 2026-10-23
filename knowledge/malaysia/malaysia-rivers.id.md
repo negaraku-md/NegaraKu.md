@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "Sungai Rajang, Kinabatangan, dan Pahang: Jalur Air yang Membentuk Malaysia"
+seoTitle: Sungai Rajang, Kinabatangan, dan Pahang
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

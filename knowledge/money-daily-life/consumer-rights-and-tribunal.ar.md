@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "مُنتَجك تعطّل والمتجر يرفض ردّ مالك: كيف تستردّ أموالك فعليًا"
+seoTitle: مُنتَجك تعطّل والمتجر يرفض ردّ مالك
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

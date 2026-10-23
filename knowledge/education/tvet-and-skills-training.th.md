@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0063"
 title: "ไม่ใช่ทุกเส้นทางมุ่งสู่มหาวิทยาลัย: ทำความเข้าใจระบบ TVET ของมาเลเซีย"
+seoTitle: ไม่ใช่ทุกเส้นทางมุ่งสู่มหาวิทยาลัย
 slug: "tvet-and-skills-training"
 category: "education"
 subcategory: ["skills"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0050"
 title: "مستويات الحكم الثلاثة في ماليزيا — والمستوى الذي لا ينتخبه الماليزيون"
+seoTitle: مستويات الحكم الثلاثة في ماليزيا
 slug: "three-tiers-of-government"
 category: "government"
 subcategory: ["institutions"]

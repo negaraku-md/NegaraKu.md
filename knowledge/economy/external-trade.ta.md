@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "மலேசியாவின் வர்த்தக சமநிலை, மேலும் ஏற்றுமதி ஏன் பொருளாதாரத்தின் அளவை மிஞ்சுகிறது"
+seoTitle: மலேசியாவின் வர்த்தக சமநிலையும் ஏற்றுமதியும்
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "Hierarki Mahkamah Malaysia: Lima Tingkat, Dua Aliran, dan Cara Hakim Diangkat"
+seoTitle: Hierarki Mahkamah Malaysia
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

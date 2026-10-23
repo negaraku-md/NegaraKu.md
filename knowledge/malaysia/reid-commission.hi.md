@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0060
 title: "रीड आयोग: कैसे पाँच राष्ट्रमंडल विधिवेत्ताओं ने मलाया का संविधान रचा"
+seoTitle: रीड आयोग और मलाया के संविधान का निर्माण
 slug: "reid-commission"
 category: "malaysia"
 subcategory: ["independence"]

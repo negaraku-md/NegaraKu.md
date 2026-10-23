@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "Comment fonctionne réellement le système de santé malaisien : la division public-privé, et qui paie quoi"
+seoTitle: Comment fonctionne réellement le système de santé malaisien
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "السياسة الاقتصادية الجديدة: هدفان معلنان، وإطار واحد مدته عشرون عاماً"
+seoTitle: السياسة الاقتصادية الجديدة
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

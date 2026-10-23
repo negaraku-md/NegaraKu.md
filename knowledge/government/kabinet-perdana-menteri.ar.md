@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "ثقة الأغلبية: الشروط الدستورية لتعيين رئيس الوزراء ومجلس الوزراء"
+seoTitle: 'ثقة الأغلبية: تعيين رئيس الوزراء ومجلس الوزراء'
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

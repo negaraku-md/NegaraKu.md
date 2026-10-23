@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "National Land Code 1965 — वह क़ानून जिसने प्रायद्वीपीय मलेशिया के हर सनद पर एक नाम डाल दिया"
+seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

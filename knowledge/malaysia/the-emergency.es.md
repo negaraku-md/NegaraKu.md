@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "La Emergencia Malaya: la insurgencia, el reasentamiento y la maquinaria que dejó tras de sí"
+seoTitle: La Emergencia Malaya
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

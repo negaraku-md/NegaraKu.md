@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "สองใบเรียกเก็บเงินสำหรับการพักครั้งเดียว: โรงพยาบาลเอกชนในมาเลเซียเรียกเก็บเงินคุณอย่างไรจริง ๆ"
+seoTitle: สองใบเรียกเก็บเงินสำหรับการพักครั้งเดียว
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

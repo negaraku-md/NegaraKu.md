@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0008
 title: "Cambiar de secretario de empresa: la lista de verificación del traspaso"
+seoTitle: Cambiar de secretario de empresa
 slug: "changing-company-secretary"
 category: "company-secretary"
 subcategory: ["appointment"]

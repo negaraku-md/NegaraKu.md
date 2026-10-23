@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0047"
 title: "Bujang Valley: Ancient Temples and Evidence of Old Kedah's Civilisation"
+seoTitle: 'Bujang Valley: Ancient Temples of Old Kedah'
 slug: "bujang-valley"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

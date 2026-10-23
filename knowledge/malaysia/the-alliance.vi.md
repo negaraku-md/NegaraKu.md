@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0061
 title: "Liên minh (The Alliance): Liên minh đã thương lượng nền độc lập của Malaya"
+seoTitle: Liên minh (The Alliance)
 slug: "the-alliance"
 category: "malaysia"
 subcategory: ["independence"]

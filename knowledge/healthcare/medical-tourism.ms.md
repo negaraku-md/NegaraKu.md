@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0050
 title: "Ledakan Senyap Pelancongan Perubatan Malaysia, dan Agensi di Sebaliknya"
+seoTitle: Ledakan Pelancongan Perubatan Malaysia dan Agensinya
 slug: "medical-tourism"
 category: "healthcare"
 subcategory: ["specialised"]

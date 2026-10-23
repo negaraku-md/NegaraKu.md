@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0002
 title: "Tarjeta Touch 'n Go, tarjeta NFC y eWallet: tres nombres, tres usos diferentes"
+seoTitle: Tarjeta Touch 'n Go, tarjeta NFC y eWallet
 slug: "touch-n-go"
 category: "transport"
 subcategory: ["public-transport"]

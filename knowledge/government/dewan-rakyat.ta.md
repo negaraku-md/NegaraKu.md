@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0012
 title: "Dewan Rakyat: 222 இருக்கைகள் கூட்டாட்சிச் சட்டமாக மாறுவது எப்படி"
+seoTitle: 'Dewan Rakyat: 222 இருக்கைகள் சட்டமாக மாறுவது'
 slug: "dewan-rakyat"
 category: "government"
 subcategory: ["institutions"]

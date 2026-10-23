@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "L'Insurrection malaise : la guérilla, le réétablissement et la machinerie qu'elle a laissée derrière elle"
+seoTitle: L'Insurrection malaise
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

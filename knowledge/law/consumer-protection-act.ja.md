@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "1999年消費者保護法（Consumer Protection Act 1999、Act 599）：マレーシアの消費者権利法とRM5審判所"
+seoTitle: 1999年消費者保護法（Consumer Protection Act 1999、Act 599）
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

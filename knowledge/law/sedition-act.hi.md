@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0050
 title: "Sedition Act 1948: मलेशियाई कानून किसे राजद्रोही प्रवृत्ति के रूप में परिभाषित करता है"
+seoTitle: 'Sedition Act 1948: राजद्रोही प्रवृत्ति क्या है'
 slug: "sedition-act"
 category: "law"
 subcategory: ["key-acts"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "संघीय संविधान में संशोधन: अनुच्छेद 159 द्वारा निर्धारित चार मार्ग"
+seoTitle: संघीय संविधान में संशोधन
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "Expédier vos biens en Malaisie — et pourquoi apporter votre propre voiture ne fonctionne presque jamais"
+seoTitle: Expédier vos biens en Malaisie
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

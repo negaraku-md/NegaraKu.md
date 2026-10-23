@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "मौलिक स्वतंत्रताएँ: संघीय संविधान के Article 5 से 13, और प्रत्येक में अंतर्निहित सीमाएँ"
+seoTitle: 'मौलिक स्वतंत्रताएँ: संघीय संविधान के Article 5 से 13'
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

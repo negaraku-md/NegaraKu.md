@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "Sembilan Negeri Beraja Malaysia: Raja Pemerintah dan Peranannya dalam Majlis Raja-Raja"
+seoTitle: Sembilan Negeri Beraja Malaysia
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

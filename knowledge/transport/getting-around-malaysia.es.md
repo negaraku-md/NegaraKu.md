@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0064
 title: "Tren y Grab en el Valle de Klang, un coche en todo lo demás: cómo se desplaza Malasia en realidad"
+seoTitle: Tren y Grab en el Valle de Klang, un coche en todo lo demás
 slug: "getting-around-malaysia"
 category: "transport"
 subcategory: ["public-transport"]

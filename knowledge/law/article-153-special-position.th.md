@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "มาตรา 153: สิ่งที่รัฐธรรมนูญสหพันธรัฐสงวนไว้จริง และสิ่งที่แตะต้องไม่ได้"
+seoTitle: 'มาตรา 153: สิ่งที่รัฐธรรมนูญสหพันธรัฐสงวนไว้'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

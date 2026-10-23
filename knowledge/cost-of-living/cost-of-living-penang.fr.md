@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "Le coût de la vie à Penang se fend au détroit : île contre continent"
+seoTitle: Le coût de la vie à Penang se fend au détroit
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

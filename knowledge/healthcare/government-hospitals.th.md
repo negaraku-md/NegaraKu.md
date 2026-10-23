@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "โรงพยาบาลรัฐมาเลเซีย: ระบบส่งต่อ ค่าบริการที่ได้รับการอุดหนุน และเวลารอคอยทำงานอย่างไรจริง ๆ"
+seoTitle: โรงพยาบาลรัฐมาเลเซีย
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

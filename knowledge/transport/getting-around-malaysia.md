@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0064
 title: "Rail and Grab in the Klang Valley, a Car Everywhere Else: How Malaysia Actually Gets Around"
+seoTitle: Rail and Grab in the Klang Valley, a Car Everywhere Else
 slug: "getting-around-malaysia"
 category: "transport"
 subcategory: ["public-transport"]

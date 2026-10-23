@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "Renting in Malaysia Has No Tenancy Act — So the Agreement You Sign Is the Law"
+seoTitle: Renting in Malaysia Has No Tenancy Act
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

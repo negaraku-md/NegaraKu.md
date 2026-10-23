@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "ใบอนุญาตนักเรียน: เหตุใดมหาวิทยาลัยของคุณยื่นกับ EMGS ไม่ใช่คุณ"
+seoTitle: 'ใบอนุญาตนักเรียน: มหาวิทยาลัยยื่นกับ EMGS ไม่ใช่คุณ'
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

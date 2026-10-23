@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "يوم ويساك في ماليزيا: احتفال البوذيين ببدر التمام وسبب تغيّر تاريخه كل عام"
+seoTitle: يوم ويساك في ماليزيا
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

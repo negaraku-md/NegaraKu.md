@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0010
 title: "Presentación de la información de titularidad real a través de e-BOS"
+seoTitle: 'e-BOS: declaración de titularidad real'
 slug: "ebos-filing"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

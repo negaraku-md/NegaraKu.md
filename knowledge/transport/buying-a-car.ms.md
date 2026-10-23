@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "Membeli Kereta di Malaysia: Apa Sebenarnya Peranan Peniaga, Bank dan JPJ"
+seoTitle: Membeli Kereta di Malaysia
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

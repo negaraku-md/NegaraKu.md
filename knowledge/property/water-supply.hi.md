@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "मलेशिया की जल आपूर्ति: आप संघीय सरकार के बजाय राज्य जल कंपनी से क्यों निपटते हैं"
+seoTitle: मलेशिया की जल आपूर्ति
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

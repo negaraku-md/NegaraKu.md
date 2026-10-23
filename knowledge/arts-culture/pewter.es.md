@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0033
 title: "El peltre malasio, el oficio que construyó la riqueza del estaño"
+seoTitle: El peltre malasio y la riqueza del estaño
 slug: pewter
 category: arts-culture
 subcategory: ["crafts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "Vì sao Malaysia trở thành một quốc gia đa số đô thị chỉ trong một thế hệ"
+seoTitle: Vì sao Malaysia trở thành quốc gia đa số đô thị
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

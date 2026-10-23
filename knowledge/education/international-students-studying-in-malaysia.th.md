@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0060"
 title: "การศึกษาในมาเลเซียในฐานะนักศึกษาต่างชาติ: การเลือกสถาบันและการเข้าเรียน"
+seoTitle: การศึกษาในมาเลเซียในฐานะนักศึกษาต่างชาติ
 slug: "international-students-studying-in-malaysia"
 category: "education"
 subcategory: ["tertiary"]

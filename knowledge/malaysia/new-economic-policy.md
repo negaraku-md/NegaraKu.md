@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "The New Economic Policy: Two Stated Objectives, One Twenty-Year Framework"
+seoTitle: The New Economic Policy
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0004
 title: "1963: construir Malasia a partir de cuatro territorios distintos"
+seoTitle: '1963: construir Malasia a partir de cuatro territorios'
 slug: "formation-of-malaysia-1963"
 category: "malaysia"
 subcategory: ["nation-formation"]

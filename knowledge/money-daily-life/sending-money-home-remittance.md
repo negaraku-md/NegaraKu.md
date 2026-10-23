@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "Sending Money Home From Malaysia: How to Tell a Licensed Remittance Channel From an Illegal One"
+seoTitle: Sending Money Home From Malaysia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

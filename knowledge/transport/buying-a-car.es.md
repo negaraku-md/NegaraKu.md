@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "Comprar un coche en Malasia: qué hacen realmente el concesionario, el banco y el JPJ"
+seoTitle: Comprar un coche en Malasia
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

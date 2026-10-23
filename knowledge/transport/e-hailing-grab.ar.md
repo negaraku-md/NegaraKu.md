@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "خلف التطبيق: كيف يُنظَّم Grab وقطاع النقل التشاركي في ماليزيا"
+seoTitle: 'Grab وقطاع النقل التشاركي في ماليزيا: كيف يُنظَّم'
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

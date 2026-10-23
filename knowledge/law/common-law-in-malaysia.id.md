@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "Common Law di Malaysia: Bagaimana Civil Law Act 1956 Mengimpor — dan Membekukan — Hukum Inggris"
+seoTitle: Common Law di Malaysia
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

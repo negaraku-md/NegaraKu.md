@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "Cung cấp nước ở Malaysia: Vì sao bạn giao dịch với công ty nước của bang, không phải chính phủ liên bang"
+seoTitle: Cung cấp nước ở Malaysia
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

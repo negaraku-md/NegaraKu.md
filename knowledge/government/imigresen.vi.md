@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "Cục Di trú Malaysia: cơ quan quyết định ai vào, ai ở lại, ai ra"
+seoTitle: 'Cục Di trú Malaysia: ai vào, ai ở lại, ai ra'
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

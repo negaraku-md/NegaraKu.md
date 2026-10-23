@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "La población de Malasia: las categorías de ciudadanía y étnicas que el DOSM realmente publica"
+seoTitle: La población de Malasia
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

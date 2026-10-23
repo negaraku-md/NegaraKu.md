@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "Police royale de Malaisie : chaîne de commandement, fonctions essentielles et fondement juridique"
+seoTitle: Police royale de Malaisie
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

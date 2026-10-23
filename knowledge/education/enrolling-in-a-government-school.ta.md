@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "உங்கள் குழந்தையை அரசுப் பள்ளியில் எப்படிப் பதிவு செய்வது: நுழைவு வயது, ஆவணங்கள் மற்றும் idMe அமைப்பு"
+seoTitle: உங்கள் குழந்தையை அரசுப் பள்ளியில் எப்படிப் பதிவு செய்வது
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

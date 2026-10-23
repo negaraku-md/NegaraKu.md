@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "மலேசியா கிறிஸ்துமஸை எவ்வாறு அனுசரிக்கிறது — நள்ளிரவு திருப்பலி முதல் திறந்த வீடு வரை"
+seoTitle: மலேசியா கிறிஸ்துமஸை எவ்வாறு அனுசரிக்கிறது
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

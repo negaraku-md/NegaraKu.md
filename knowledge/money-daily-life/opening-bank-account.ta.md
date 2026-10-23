@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "மலேசியாவில் வங்கிக் கணக்குத் திறப்பது: குடிமக்களுக்கு என்ன தேவை, வெளிநாட்டவர்களுக்கு என்ன தேவை, சுற்றுலா விசாவால் கிடைக்காதது எது"
+seoTitle: மலேசியாவில் வங்கிக் கணக்குத் திறப்பது
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

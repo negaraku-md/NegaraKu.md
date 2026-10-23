@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0035
 title: "மலேசியா பட்ஜெட் 2027 (Budget 2027): உங்களுக்கு என்ன மாறியது, எப்போது அமலுக்கு வருகிறது"
+seoTitle: மலேசியா பட்ஜெட் 2027 (Budget 2027)
 slug: "malaysia-budget-2027"
 category: "economy"
 subcategory: ["policy"]

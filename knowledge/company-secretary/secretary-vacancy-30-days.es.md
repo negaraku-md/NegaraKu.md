@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0023
 title: "La regla de los 30 días para la vacante de secretario de empresa"
+seoTitle: 'La regla de los 30 días: secretario de empresa'
 slug: "secretary-vacancy-30-days"
 category: "company-secretary"
 subcategory: ["appointment"]

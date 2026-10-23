@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "सड़क परिवहन अधिनियम 1987 (Act 333): हर ड्राइविंग लाइसेंस और नंबर प्लेट के पीछे का कानून"
+seoTitle: सड़क परिवहन अधिनियम 1987 (Act 333)
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

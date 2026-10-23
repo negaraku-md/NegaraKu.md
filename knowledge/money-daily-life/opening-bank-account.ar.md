@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "فتح حساب مصرفي في ماليزيا: ما يحتاجه المواطنون، وما يحتاجه الأجانب، وما لن تحصل عليه بتأشيرة سياحية"
+seoTitle: فتح حساب مصرفي في ماليزيا
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

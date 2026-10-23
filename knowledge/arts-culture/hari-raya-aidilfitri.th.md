@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0020
 title: "ฮารีรายาอีดิลฟิตรี: เครื่องหมายการสิ้นสุดรอมฎอน และเทศกาลแห่งการกลับบ้าน"
+seoTitle: ฮารีรายาอีดิลฟิตรีในมาเลเซีย
 slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0046
 title: "Los museos de Malasia: qué guardan realmente el Muzium Negara, el Museo de Arte Islámico y los museos estatales"
+seoTitle: Los museos de Malasia
 slug: "malaysian-museums"
 category: "arts-culture"
 subcategory: ["heritage"]

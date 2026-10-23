@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "El costo de vida de Penang se parte en el estrecho: isla frente a continente"
+seoTitle: El costo de vida de Penang se parte en el estrecho
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

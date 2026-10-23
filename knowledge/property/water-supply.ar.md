@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "إمدادات المياه في ماليزيا: لماذا تتعامل مع شركة مياه الولاية لا مع الحكومة الاتحادية"
+seoTitle: إمدادات المياه في ماليزيا
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

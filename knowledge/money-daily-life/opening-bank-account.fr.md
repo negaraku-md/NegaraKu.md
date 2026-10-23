@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "Ouvrir un compte bancaire en Malaisie : ce qu'il faut aux citoyens, ce qu'il faut aux étrangers, et ce qu'un visa de touriste ne vous permettra pas d'obtenir"
+seoTitle: Ouvrir un compte bancaire en Malaisie
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

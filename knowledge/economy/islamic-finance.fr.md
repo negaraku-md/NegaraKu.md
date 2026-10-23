@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0011
 title: "La finance islamique en Malaisie : les contrats sous les chiffres des gros titres"
+seoTitle: La finance islamique en Malaisie
 slug: "islamic-finance"
 category: "economy"
 subcategory: ["sectors"]

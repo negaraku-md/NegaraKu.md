@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0060
 title: "லீட் ஆணையம்: ஐந்து பொதுநலவாய சட்ட வல்லுநர்கள் மலாயாவின் அரசியலமைப்பை எவ்வாறு வரைந்தனர்"
+seoTitle: லீட் ஆணையம் மற்றும் மலாயாவின் அரசியலமைப்பு
 slug: "reid-commission"
 category: "malaysia"
 subcategory: ["independence"]

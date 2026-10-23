@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "กรมตรวจคนเข้าเมืองมาเลเซีย: หน่วยงานที่ตัดสินว่าใครเข้า ใครอยู่ ใครออก"
+seoTitle: กรมตรวจคนเข้าเมืองมาเลเซีย
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

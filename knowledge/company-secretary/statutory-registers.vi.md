@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "Các sổ đăng ký bắt buộc mọi Sdn Bhd phải lưu giữ: Danh mục kiểm tra"
+seoTitle: Các sổ đăng ký bắt buộc mọi Sdn Bhd phải lưu giữ
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

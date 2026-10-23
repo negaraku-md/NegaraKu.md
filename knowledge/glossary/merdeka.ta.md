@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GLO-0026"
 title: "Merdeka: தேசிய முழக்கத்திற்குப் பின்னால் உள்ள சொல்லின் அர்த்தம்"
+seoTitle: 'Merdeka: தேசிய முழக்கத்தின் அர்த்தம்'
 slug: "merdeka"
 category: "glossary"
 subcategory: ["culture"]

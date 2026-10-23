@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK ไม่ใช่บริษัทน้ำประปา: เข้าใจบทบาทที่แท้จริงของผู้ให้บริการระบบบำบัดน้ำเสียแห่งชาติ"
+seoTitle: IWK ไม่ใช่บริษัทน้ำประปา
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

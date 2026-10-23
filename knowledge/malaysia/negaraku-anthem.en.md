@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0017
 title: "Negaraku: How the Perak State Anthem Became Malaysia's National Anthem"
+seoTitle: 'Negaraku: How Perak''s Anthem Became Malaysia''s Anthem'
 slug: "negaraku-anthem"
 category: "malaysia"
 subcategory: ["identity"]

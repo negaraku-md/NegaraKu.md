@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0010
 title: "यांग दी-पेर्तुआन अगोंग: हर पाँच वर्ष में निर्वाचित होने वाला आवर्ती राजा"
+seoTitle: यांग दी-पेर्तुआन अगोंग
 slug: "yang-di-pertuan-agong"
 category: "government"
 subcategory: ["institutions"]

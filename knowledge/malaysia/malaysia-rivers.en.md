@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "The Rajang, Kinabatangan and Pahang: The Waterways That Shaped Malaysia"
+seoTitle: The Rajang, Kinabatangan and Pahang
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "ضريبة التقدير وضريبة الأرض: ضريبتان عقاريتان، وسلطتان، وتاريخا دفع"
+seoTitle: ضريبة التقدير وضريبة الأرض
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

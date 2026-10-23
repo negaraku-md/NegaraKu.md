@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0063"
 title: "Not Every Path Leads to University: Understanding Malaysia's TVET System"
+seoTitle: Not Every Path Leads to University
 slug: "tvet-and-skills-training"
 category: "education"
 subcategory: ["skills"]

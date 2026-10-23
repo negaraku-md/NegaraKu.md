@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "மலேசியாவில் உள்ளூர் மன்றங்கள்: நீங்கள் வாக்களிக்க முடியாத அரசாங்க அடுக்கு"
+seoTitle: மலேசியாவில் உள்ளூர் மன்றங்கள்
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

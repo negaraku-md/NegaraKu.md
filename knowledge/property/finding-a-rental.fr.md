@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "Trouver une location en Malaisie : portails, négociateurs et la Carte REN que personne ne vérifie"
+seoTitle: Trouver une location en Malaisie
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

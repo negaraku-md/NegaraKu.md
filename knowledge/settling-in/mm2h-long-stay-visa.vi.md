@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0016
 title: "Malaysia My Second Home: Bên trong bốn bậc của visa lưu trú dài hạn MM2H"
+seoTitle: Malaysia My Second Home
 slug: "mm2h-long-stay-visa"
 category: "settling-in"
 subcategory: ["visas-passes"]

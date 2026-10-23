@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "मलेशिया में चिकित्सा बीमा: एक कार्ड असल में आपको क्या दिलाता है, और क्या नहीं"
+seoTitle: मलेशिया में चिकित्सा बीमा
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

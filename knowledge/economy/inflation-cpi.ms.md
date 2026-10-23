@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0003
 title: "Kadar Inflasi Malaysia dan Apa yang Sebenarnya Diukur oleh IHP"
+seoTitle: Kadar Inflasi Malaysia dan IHP
 slug: "inflation-cpi"
 category: "economy"
 subcategory: ["indicators"]

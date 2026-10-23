@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "มาเลเซียมีค่าใช้จ่ายที่จ่ายไหวสำหรับชาวต่างชาติหรือไม่? ตัวเลขทางการบอกอะไรจริง ๆ"
+seoTitle: มาเลเซียมีค่าใช้จ่ายที่จ่ายไหวสำหรับชาวต่างชาติหรือไม่?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

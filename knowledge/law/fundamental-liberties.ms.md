@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "Kebebasan Asasi: Perkara 5 hingga 13 Perlembagaan Persekutuan, dan Batasan yang Terkandung dalam Setiap Satu"
+seoTitle: 'Kebebasan Asasi: Perkara 5–13 Perlembagaan Persekutuan'
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

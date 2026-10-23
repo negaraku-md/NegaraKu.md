@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "Giấy phép Sinh viên: Vì sao trường đại học nộp hồ sơ với EMGS, không phải bạn"
+seoTitle: 'Giấy phép Sinh viên: trường nộp cho EMGS, không phải bạn'
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

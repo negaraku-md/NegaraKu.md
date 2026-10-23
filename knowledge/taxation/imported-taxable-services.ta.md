@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0033
 title: "இறக்குமதி செய்யப்பட்ட வரிக்குட்பட்ட சேவைகளும் SST-02A அறிவிப்பும்"
+seoTitle: இறக்குமதி வரிக்குட்பட்ட சேவைகள் மற்றும் SST-02A
 slug: "imported-taxable-services"
 category: "taxation"
 subcategory: ["sst"]

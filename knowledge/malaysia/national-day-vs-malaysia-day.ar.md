@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "لماذا تحيي ماليزيا يومين لهما دلالة وطنية: 31 أغسطس و16 سبتمبر"
+seoTitle: لماذا تحيي ماليزيا يومين لهما دلالة وطنية
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

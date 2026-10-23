@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "ஒவ்வொரு Sdn Bhd-ம் பராமரிக்க வேண்டிய சட்டப்பூர்வ பதிவேடுகள்: ஒரு சரிபார்ப்புப் பட்டியல்"
+seoTitle: ஒவ்வொரு Sdn Bhd-ம் பராமரிக்க வேண்டிய சட்டப்பூர்வ பதிவேடுகள்
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

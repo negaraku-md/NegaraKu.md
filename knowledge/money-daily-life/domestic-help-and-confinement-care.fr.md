@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0072
 title: "Aide domestique et soins post-partum en Malaisie : les options et qui les régule réellement"
+seoTitle: Aide domestique et soins post-partum en Malaisie
 slug: "domestic-help-and-confinement-care"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

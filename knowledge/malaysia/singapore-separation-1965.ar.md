@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0015
 title: "كيف انفصلت سنغافورة عن ماليزيا: ما تنصّ عليه وثائق الانفصال فعلًا"
+seoTitle: كيف انفصلت سنغافورة عن ماليزيا
 slug: "singapore-separation-1965"
 category: "malaysia"
 subcategory: ["nation-formation"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "Conferencia de Gobernantes: la institución que elige al Agong y qué requiere su consentimiento"
+seoTitle: Conferencia de Gobernantes
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

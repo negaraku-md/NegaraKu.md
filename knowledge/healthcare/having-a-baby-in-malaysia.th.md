@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "การมีบุตรในมาเลเซีย: สมุดสีชมพู การมาคลินิก และสิ่งที่เกิดขึ้นหลังคลอด"
+seoTitle: 'การมีบุตรในมาเลเซีย: สมุดสีชมพูและการมาคลินิก'
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

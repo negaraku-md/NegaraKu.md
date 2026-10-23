@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0050
 title: "ازدهار السياحة العلاجية الهادئ في ماليزيا، والهيئة التي تقف وراءه"
+seoTitle: ازدهار السياحة العلاجية في ماليزيا والهيئة وراءه
 slug: "medical-tourism"
 category: "healthcare"
 subcategory: ["specialised"]

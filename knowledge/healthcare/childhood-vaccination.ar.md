@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "تطعيمات مجانية لكل طفل: فهم البرنامج الوطني للتطعيم التابع لوزارة الصحة"
+seoTitle: تطعيمات مجانية لكل طفل
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

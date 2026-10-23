@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "Membuka Akaun Bank di Malaysia: Apa yang Diperlukan Warganegara, Apa yang Diperlukan Warga Asing, dan Apa yang Tidak Boleh Diperoleh dengan Visa Pelancong"
+seoTitle: Membuka Akaun Bank di Malaysia
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

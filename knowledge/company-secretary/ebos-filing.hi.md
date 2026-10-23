@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0010
 title: "e-BOS के माध्यम से हिताधिकारी स्वामित्व की जानकारी दाखिल करना"
+seoTitle: 'e-BOS: हिताधिकारी स्वामित्व की जानकारी दाखिल करना'
 slug: "ebos-filing"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0004
 title: "Liste de contrôle des réductions d'impôt personnelles de Malaisie"
+seoTitle: Liste des réductions d'impôt personnelles de Malaisie
 slug: "personal-tax-reliefs"
 category: "taxation"
 subcategory: ["personal-tax"]

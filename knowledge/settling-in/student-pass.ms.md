@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "Pas Pelajar: Kenapa Institusi Anda yang Memfailkan Melalui EMGS, Bukan Anda"
+seoTitle: 'Pas Pelajar: Institusi Anda Memfailkan ke EMGS, Bukan Anda'
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "كيف تعمل الانتخابات الماليزية: مقعد واحد، عضو واحد، الأكثرية تفوز"
+seoTitle: كيف تعمل الانتخابات الماليزية
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

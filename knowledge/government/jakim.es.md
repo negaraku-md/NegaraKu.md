@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: el organismo federal que coordina los asuntos islámicos sin anular la autoridad religiosa de los estados"
+seoTitle: 'JAKIM: el organismo federal de asuntos islámicos'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

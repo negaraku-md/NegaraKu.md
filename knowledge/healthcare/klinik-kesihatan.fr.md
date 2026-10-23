@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "Klinik Kesihatan : comment fonctionne réellement le système de soins primaires publics de la Malaisie"
+seoTitle: 'Klinik Kesihatan : soins primaires publics de Malaisie'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

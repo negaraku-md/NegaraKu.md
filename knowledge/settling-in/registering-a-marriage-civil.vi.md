@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0023
 title: "Đăng ký kết hôn dân sự tại Malaysia: Quy trình JPN cho người không theo Hồi giáo"
+seoTitle: Đăng ký kết hôn dân sự tại Malaysia
 slug: "registering-a-marriage-civil"
 category: "settling-in"
 subcategory: ["documents"]

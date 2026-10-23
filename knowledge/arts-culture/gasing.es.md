@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "Gasing: el trompo que se convirtió en una prueba de fuerza y resistencia en la Costa Este"
+seoTitle: Gasing
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

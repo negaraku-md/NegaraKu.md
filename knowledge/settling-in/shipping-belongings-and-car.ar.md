@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "شحن أمتعتك إلى ماليزيا — ولماذا يكاد إحضار سيارتك الخاصة لا ينجح أبدًا"
+seoTitle: شحن أمتعتك إلى ماليزيا
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

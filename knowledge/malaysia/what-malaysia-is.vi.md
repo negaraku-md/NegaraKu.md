@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0040
 title: "Malaysia thực sự là gì: Một liên bang, được giải thích từ nền tảng"
+seoTitle: Malaysia thực sự là gì
 slug: "what-malaysia-is"
 category: "malaysia"
 subcategory: ["country-basics"]

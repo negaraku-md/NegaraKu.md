@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0016
 title: "DOSM — Département des statistiques de la Malaisie : ce qu'il publie et quand"
+seoTitle: DOSM — Département des statistiques de la Malaisie
 slug: "dosm"
 category: "government"
 subcategory: ["agencies"]

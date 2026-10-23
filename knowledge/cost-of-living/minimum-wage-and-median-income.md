@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "Minimum Wage vs Median Income: What a Typical Malaysian Salary Looks Like"
+seoTitle: Minimum Wage vs Median Income
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

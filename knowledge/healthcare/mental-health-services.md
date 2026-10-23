@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "Where to Get Mental Health Help in Malaysia: Public Care, Private Options and Crisis Helplines"
+seoTitle: Where to Get Mental Health Help in Malaysia
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

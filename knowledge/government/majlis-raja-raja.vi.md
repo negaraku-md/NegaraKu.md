@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "Hội đồng các Quốc vương (Majlis Raja-Raja): Thiết chế bầu Agong và những vấn đề cần sự đồng ý của nó"
+seoTitle: Hội đồng các Quốc vương (Majlis Raja-Raja)
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

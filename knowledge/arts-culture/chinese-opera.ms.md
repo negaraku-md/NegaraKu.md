@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "Gong dan Gendang Berbunyi untuk Dewa: Wayang Cina Malaysia dan Tradisi Syukur Dewa"
+seoTitle: Gong dan Gendang Berbunyi untuk Dewa
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

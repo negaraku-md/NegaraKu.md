@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "जाता नेगारा: मलेशिया के राष्ट्रीय राजचिह्न को, तत्व-दर-तत्व, पढ़ना"
+seoTitle: 'जाता नेगारा: मलेशिया का राष्ट्रीय राजचिह्न'
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "Bolehkah Warga Asing Membeli Hartanah di Malaysia? Harga Minimum dan Kebenaran Negeri Dihuraikan"
+seoTitle: Bolehkah Warga Asing Membeli Hartanah di Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

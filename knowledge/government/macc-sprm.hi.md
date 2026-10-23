@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — मलेशियाई भ्रष्टाचार-रोधी आयोग और इसके पाँच निगरानी निकाय"
+seoTitle: MACC — मलेशियाई भ्रष्टाचार-रोधी आयोग
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

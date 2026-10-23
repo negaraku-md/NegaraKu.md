@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "التنقل بين المدن في ماليزيا: مقارنة بين القطارات والحافلات والرحلات الجوية"
+seoTitle: التنقل بين المدن في ماليزيا
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

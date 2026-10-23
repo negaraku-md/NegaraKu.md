@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0010
 title: "يانغ دي-بِرتوان أݢونغ: الملك المتناوب الذي يُنتخَب كل خمس سنوات"
+seoTitle: يانغ دي-بِرتوان أݢونغ
 slug: "yang-di-pertuan-agong"
 category: "government"
 subcategory: ["institutions"]

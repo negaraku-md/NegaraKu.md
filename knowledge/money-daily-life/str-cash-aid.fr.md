@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0089
 title: "Sumbangan Tunai Rahmah (STR) : qui est éligible, et la vraie façon de faire une demande ou une vérification"
+seoTitle: Sumbangan Tunai Rahmah (STR)
 slug: "str-cash-aid"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "निजी और चीनी स्वतंत्र विद्यालय: राष्ट्रीय और अंतरराष्ट्रीय के बीच का रास्ता"
+seoTitle: निजी और चीनी स्वतंत्र विद्यालय
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "아닷 프르파티(Adat Perpatih)와 아닷 트믕궁(Adat Temenggung): 말레이 전통 관습법 두 체계"
+seoTitle: 아닷 프르파티(Adat Perpatih)와 아닷 트믕궁(Adat Temenggung)
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

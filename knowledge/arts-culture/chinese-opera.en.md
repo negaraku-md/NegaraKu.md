@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "Gongs and Drums for the Gods: Malaysia's Chinese Opera and Its God-Thanking Tradition"
+seoTitle: Gongs and Drums for the Gods
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

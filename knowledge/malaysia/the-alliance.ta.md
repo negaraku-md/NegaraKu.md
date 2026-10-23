@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0061
 title: "கூட்டணி: மலாயாவின் சுதந்திரத்தை பேச்சுவார்த்தை செய்த கூட்டமைப்பு"
+seoTitle: 'கூட்டணி: மலாயாவின் சுதந்திரக் கூட்டமைப்பு'
 slug: "the-alliance"
 category: "malaysia"
 subcategory: ["independence"]

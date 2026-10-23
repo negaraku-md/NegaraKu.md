@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0032
 title: "Pajak Penjualan di Malaysia — Tarif, Mekanisme, dan Pengecualian"
+seoTitle: Pajak Penjualan di Malaysia
 slug: "sales-tax-explained"
 category: "taxation"
 subcategory: ["sst"]

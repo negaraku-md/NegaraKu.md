@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0022
 title: "Đăng ký khai sinh cho con: Quy trình JPN và giấy khai sinh thực sự vận hành ra sao"
+seoTitle: Đăng ký khai sinh cho con
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "पेनांग में रहन-सहन की लागत जलडमरूमध्य पर बँट जाती है: द्वीप बनाम मुख्य भूमि"
+seoTitle: पेनांग में रहन-सहन की लागत जलडमरूमध्य पर बँट जाती है
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

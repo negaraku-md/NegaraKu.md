@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0016
 title: "Malaysia My Second Home: MM2H நீண்டகால தங்குமிட விசாவின் நான்கு அடுக்குகளை உள்ளிருந்து பார்த்தல்"
+seoTitle: Malaysia My Second Home
 slug: "mm2h-long-stay-visa"
 category: "settling-in"
 subcategory: ["visas-passes"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0063"
 title: "எல்லா பாதைகளும் பல்கலைக்கழகத்திற்குச் செல்வதில்லை: மலேசியாவின் TVET முறையைப் புரிந்துகொள்ளுதல்"
+seoTitle: எல்லா பாதைகளும் பல்கலைக்கழகத்திற்குச் செல்வதில்லை
 slug: "tvet-and-skills-training"
 category: "education"
 subcategory: ["skills"]

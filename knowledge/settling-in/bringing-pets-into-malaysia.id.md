@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0026
 title: "Membawa Anjing atau Kucing Anda Masuk ke Malaysia: Peraturan Izin dan Karantina"
+seoTitle: Membawa Anjing atau Kucing Anda Masuk ke Malaysia
 slug: "bringing-pets-into-malaysia"
 category: "settling-in"
 subcategory: ["overview"]

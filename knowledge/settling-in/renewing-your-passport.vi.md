@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "Gia hạn hộ chiếu Malaysia: MyOnline Passport, quầy UTC, hoặc văn phòng Nhập cư"
+seoTitle: Gia hạn hộ chiếu Malaysia
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

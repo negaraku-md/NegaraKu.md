@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "Người nước ngoài có mua được bất động sản tại Malaysia không? Sàn giá và sự đồng ý của bang được giải thích"
+seoTitle: Người nước ngoài có mua được bất động sản tại Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

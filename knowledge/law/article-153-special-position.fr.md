@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "Article 153 : ce que la Constitution fédérale réserve réellement, et ce qu'elle ne peut pas toucher"
+seoTitle: 'Article 153 : ce que réserve la Constitution fédérale'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

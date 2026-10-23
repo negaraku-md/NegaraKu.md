@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "Free Vaccines for Every Child: Understanding the Ministry of Health's National Immunisation Programme"
+seoTitle: Free Vaccines for Every Child
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

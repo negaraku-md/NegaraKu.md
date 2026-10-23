@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "ตำรวจหลวงมาเลเซีย: โครงสร้างการบังคับบัญชา หน้าที่หลัก และฐานทางกฎหมาย"
+seoTitle: 'ตำรวจหลวงมาเลเซีย: โครงสร้าง หน้าที่ และกฎหมาย'
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

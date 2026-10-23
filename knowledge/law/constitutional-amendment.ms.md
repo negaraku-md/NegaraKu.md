@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "Meminda Perlembagaan Persekutuan: Empat Laluan yang Ditetapkan oleh Perkara 159"
+seoTitle: Meminda Perlembagaan Persekutuan
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

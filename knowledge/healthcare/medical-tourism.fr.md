@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0050
 title: "Le discret essor du tourisme médical de la Malaisie, et l'agence qui le porte"
+seoTitle: L'essor du tourisme médical de la Malaisie et son agence
 slug: "medical-tourism"
 category: "healthcare"
 subcategory: ["specialised"]

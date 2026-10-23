@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0055
 title: "Taska, Tadika, ก่อนวัยเรียน: สะกดคล้ายกัน แต่กำกับโดยคนละกระทรวง"
+seoTitle: Taska, Tadika, ก่อนวัยเรียน
 slug: "preschool-tadika-childcare"
 category: "education"
 subcategory: ["schooling"]

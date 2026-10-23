@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0084"
 title: "วัคซีนฟรีสำหรับเด็กทุกคน: ทำความเข้าใจโครงการสร้างเสริมภูมิคุ้มกันแห่งชาติของ KKM"
+seoTitle: วัคซีนฟรีสำหรับเด็กทุกคน
 slug: "childhood-vaccination"
 category: "healthcare"
 subcategory: ["specialised"]

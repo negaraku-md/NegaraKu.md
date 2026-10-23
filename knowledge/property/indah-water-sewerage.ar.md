@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0038"
 title: "IWK ليست شركة مياه: فهم الدور الحقيقي لمشغّل الصرف الصحي الوطني"
+seoTitle: 'IWK: مشغّل الصرف الصحي الوطني، لا شركة مياه'
 slug: "indah-water-sewerage"
 category: "property"
 subcategory: ["utilities"]

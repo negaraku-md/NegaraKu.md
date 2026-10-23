@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0012
 title: "Perlis: bang nhỏ nhất Malaysia và là bang duy nhất do một Raja đứng đầu"
+seoTitle: 'Perlis: bang nhỏ nhất Malaysia, do một Raja đứng đầu'
 slug: "perlis"
 category: "states"
 subcategory: ["peninsular"]

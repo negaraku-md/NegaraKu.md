@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "Renouveler un passeport malaisien : MyOnline Passport, guichets UTC ou le bureau de l'Immigration"
+seoTitle: Renouveler un passeport malaisien
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

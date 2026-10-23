@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0070"
 title: "Văn phòng Thủ tướng: Cơ quan Điều phối Trung ương của Malaysia"
+seoTitle: 'Văn phòng Thủ tướng: Cơ quan Điều phối Trung ương'
 slug: "prime-ministers-department"
 category: "government"
 subcategory: ["institutions"]

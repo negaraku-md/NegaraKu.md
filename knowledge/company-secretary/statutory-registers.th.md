@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "ทะเบียนตามกฎหมายที่บริษัท Sdn Bhd ทุกแห่งต้องเก็บ: รายการตรวจสอบ"
+seoTitle: ทะเบียนตามกฎหมายที่บริษัท Sdn Bhd ทุกแห่งต้องเก็บ
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

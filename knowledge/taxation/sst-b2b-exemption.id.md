@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0034
 title: "Pengecualian SST B2B dan Apa yang Perlu Ditampilkan pada Faktur Anda"
+seoTitle: Pengecualian SST B2B dan Apa yang Tampil di Faktur Anda
 slug: "sst-b2b-exemption"
 category: "taxation"
 subcategory: ["sst"]

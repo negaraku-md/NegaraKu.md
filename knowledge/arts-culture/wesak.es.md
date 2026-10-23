@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0025
 title: "El Día de Wesak en Malasia: la observancia budista de luna llena y por qué la fecha cambia cada año"
+seoTitle: El Día de Wesak en Malasia
 slug: "wesak"
 category: "arts-culture"
 subcategory: ["festivals"]

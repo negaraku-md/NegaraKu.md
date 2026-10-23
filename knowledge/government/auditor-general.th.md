@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0060
 title: "ผู้ตรวจการแผ่นดินฝ่ายบัญชี (Ketua Audit Negara): ข้าราชการที่รัฐธรรมนูญคุ้มครองจากรัฐบาล"
+seoTitle: ผู้ตรวจการแผ่นดินฝ่ายบัญชี (Ketua Audit Negara)
 slug: "auditor-general"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0077
 title: "Mengapa Kuala Lumpur Menjadi Tempat Paling Mahal untuk Didiami di Malaysia"
+seoTitle: 'Kuala Lumpur: Tempat Paling Mahal untuk Didiami di Malaysia'
 slug: "cost-of-living-kuala-lumpur"
 category: "cost-of-living"
 subcategory: ["by-city"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "การอยู่คอนโดในมาเลเซีย: เหตุใดค่าส่วนกลางของคุณจึงมีคู่แฝดชื่อกองทุนสำรอง (Sinking Fund)"
+seoTitle: การอยู่คอนโดในมาเลเซีย
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

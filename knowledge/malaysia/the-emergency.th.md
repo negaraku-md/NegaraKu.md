@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "ภาวะฉุกเฉินมลายา: การก่อความไม่สงบ การตั้งถิ่นฐานใหม่ และกลไกที่มันทิ้งไว้"
+seoTitle: 'ภาวะฉุกเฉินมลายา: การก่อความไม่สงบและการตั้งถิ่นฐานใหม่'
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

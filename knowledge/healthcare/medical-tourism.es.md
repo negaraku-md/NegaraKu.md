@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0050
 title: "El silencioso auge del turismo médico de Malasia, y la agencia que lo impulsa"
+seoTitle: El auge del turismo médico de Malasia y su agencia
 slug: "medical-tourism"
 category: "healthcare"
 subcategory: ["specialised"]

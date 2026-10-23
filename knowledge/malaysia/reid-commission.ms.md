@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0060
 title: "Suruhanjaya Reid: Bagaimana Lima Ahli Kehakiman Komanwel Merangka Perlembagaan Tanah Melayu"
+seoTitle: Suruhanjaya Reid dan Perlembagaan Tanah Melayu
 slug: "reid-commission"
 category: "malaysia"
 subcategory: ["independence"]

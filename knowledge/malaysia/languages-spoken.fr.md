@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "La langue nationale de la Malaisie, et les nombreuses autres qui se parlent à ses côtés"
+seoTitle: La langue nationale de la Malaisie et les autres
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

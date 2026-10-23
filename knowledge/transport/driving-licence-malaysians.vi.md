@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "Giấy phép L, P, CDL: Quy trình giấy phép lái xe của JPJ thực sự vận hành như thế nào"
+seoTitle: 'Giấy phép L, P, CDL: quy trình bằng lái của JPJ'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: หน่วยงานสหพันธ์ที่ประสานงานกิจการอิสลามโดยไม่อยู่เหนืออำนาจศาสนาของรัฐ"
+seoTitle: 'JAKIM: หน่วยงานสหพันธ์ด้านกิจการอิสลาม'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

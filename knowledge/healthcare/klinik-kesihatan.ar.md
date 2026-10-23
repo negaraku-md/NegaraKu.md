@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "عيادة الصحة (Klinik Kesihatan): كيف يعمل نظام الرعاية الأولية الحكومي في ماليزيا فعلياً"
+seoTitle: عيادة الصحة (Klinik Kesihatan)
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

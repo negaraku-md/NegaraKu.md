@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0031
 title: "Budaya Peranakan: Dunia Baba-Nyonya di Melaka dan Pulau Pinang"
+seoTitle: 'Budaya Peranakan: Baba-Nyonya di Melaka dan Pinang'
 slug: "peranakan"
 category: "arts-culture"
 subcategory: ["heritage"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0035"
 title: "TNB, SESB और Sarawak Energy के बिजली खाते: तीन कंपनियाँ, तीन अलग-अलग प्रक्रियाएँ क्यों"
+seoTitle: TNB, SESB और Sarawak Energy के बिजली खाते
 slug: "electricity-tnb-account"
 category: "property"
 subcategory: ["utilities"]

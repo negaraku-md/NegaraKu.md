@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0020
 title: "Permodalan Nasional Berhad (PNB): ASB மற்றும் ASN-க்குப் பின்னால் உள்ள மேலாளர்"
+seoTitle: Permodalan Nasional Berhad (PNB)
 slug: "pnb"
 category: "economy"
 subcategory: ["institutions"]

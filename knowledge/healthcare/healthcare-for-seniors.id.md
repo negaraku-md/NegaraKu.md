@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "Ketika Orang Tua Tidak Lagi Mampu Mengurus Diri Sendiri: Pilihan Perawatan Lansia di Malaysia"
+seoTitle: Ketika Orang Tua Tidak Lagi Mampu Mengurus Diri Sendiri
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

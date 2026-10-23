@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0031
 title: "Mahkamah — Thuật ngữ về Định chế Tư pháp và Tóm lược các Cấp của nó tại Malaysia"
+seoTitle: 'Mahkamah: Định chế Tư pháp và Các cấp của nó'
 slug: "mahkamah"
 category: "glossary"
 subcategory: ["legal"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0066"
 title: "Peajes de las autopistas malasias: de las tarjetas de contacto a los carriles sin barrera"
+seoTitle: Peajes de las autopistas malasias
 slug: "tolls-smarttag-rfid"
 category: "transport"
 subcategory: ["vehicles-tolls"]

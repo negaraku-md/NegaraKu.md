@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "Artículo 153: qué reserva realmente la Constitución Federal y qué no puede tocar"
+seoTitle: 'Artículo 153: qué reserva la Constitución Federal'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

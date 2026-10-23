@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0087"
 title: "SK, SJKC và SJKT: Ba ngôn ngữ giảng dạy trong một hệ thống trường tiểu học công lập"
+seoTitle: 'SK, SJKC và SJKT: Ba ngôn ngữ giảng dạy'
 slug: "national-schools-sk-sjkc-sjkt"
 category: "education"
 subcategory: ["schooling"]

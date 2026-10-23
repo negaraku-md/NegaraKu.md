@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "كيف تعمل الرعاية الصحية الماليزية فعليًا: الفجوة بين العام والخاص، ومن يدفع ماذا"
+seoTitle: كيف تعمل الرعاية الصحية الماليزية فعليًا
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

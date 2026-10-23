@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "Having a Baby in Malaysia: The Pink Book, the Clinic Visits, and What Happens After Delivery"
+seoTitle: Having a Baby in Malaysia
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

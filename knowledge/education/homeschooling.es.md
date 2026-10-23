@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0061
 title: "Educación en casa en Malasia: legal, pero solo mediante una exención ministerial"
+seoTitle: Educación en casa en Malasia
 slug: "homeschooling"
 category: "education"
 subcategory: ["support"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0063"
 title: "हर रास्ता विश्वविद्यालय तक नहीं जाता: मलेशिया की TVET प्रणाली को समझना"
+seoTitle: हर रास्ता विश्वविद्यालय तक नहीं जाता
 slug: "tvet-and-skills-training"
 category: "education"
 subcategory: ["skills"]

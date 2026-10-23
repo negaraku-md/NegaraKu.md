@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0015
 title: "Labuan: Wilayah Persekutuan Yang Mempunyai Akta Cukainya Sendiri"
+seoTitle: 'Labuan: Wilayah Persekutuan dengan Akta Cukainya Sendiri'
 slug: "labuan"
 category: "states"
 subcategory: ["territories"]

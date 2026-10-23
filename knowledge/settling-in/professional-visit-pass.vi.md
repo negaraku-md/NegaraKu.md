@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "Professional Visit Pass: Cách Malaysia đón chuyên môn nước ngoài mà không tuyển dụng nó"
+seoTitle: Professional Visit Pass
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "Le Nouvel An chinois en Malaisie : le sens des repas de réunion, de l'ang pow et des danses du lion"
+seoTitle: Le Nouvel An chinois en Malaisie
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "Renovar un pasaporte malasio: MyOnline Passport, mostradores UTC o la oficina de Inmigración"
+seoTitle: Renovar un pasaporte malasio
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

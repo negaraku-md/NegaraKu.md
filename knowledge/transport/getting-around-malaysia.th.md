@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0064
 title: "รถไฟและ Grab ในหุบเขากลัง รถยนต์ในที่อื่น ๆ: มาเลเซียเดินทางกันอย่างไรจริง ๆ"
+seoTitle: รถไฟและ Grab ในหุบเขากลัง รถยนต์ในที่อื่น ๆ
 slug: "getting-around-malaysia"
 category: "transport"
 subcategory: ["public-transport"]

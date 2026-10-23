@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0051
 title: "जोहोर-रियाउ सल्तनत: मलक्का का सिंहासन दक्षिण में कैसे जारी रहा"
+seoTitle: 'जोहोर-रियाउ सल्तनत: मलक्का के सिंहासन का उत्तराधिकार'
 slug: "johor-riau-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

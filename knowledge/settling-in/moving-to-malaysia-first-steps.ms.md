@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "Berpindah ke Malaysia: Susunan Sebenar untuk Uruskan Pas, Kemasukan dan Urusan Pentadbiran Minggu Pertama Anda"
+seoTitle: Berpindah ke Malaysia
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

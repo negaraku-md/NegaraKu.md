@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0010
 title: "Déclaration des informations sur les bénéficiaires effectifs via e-BOS"
+seoTitle: 'e-BOS : déclaration des bénéficiaires effectifs'
 slug: "ebos-filing"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

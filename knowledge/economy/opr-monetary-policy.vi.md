@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0006
 title: "Lãi suất Chính sách Qua đêm: Cách Bank Negara ấn định giá của tiền"
+seoTitle: Lãi suất Chính sách Qua đêm
 slug: "opr-monetary-policy"
 category: "economy"
 subcategory: ["monetary-policy"]

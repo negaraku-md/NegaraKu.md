@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0023
 title: "Cómo vive Malasia la Navidad: de la misa del gallo a la casa abierta"
+seoTitle: Cómo vive Malasia la Navidad
 slug: "christmas-malaysia"
 category: "arts-culture"
 subcategory: ["festivals"]

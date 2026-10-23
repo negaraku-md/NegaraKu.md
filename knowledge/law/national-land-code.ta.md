@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "தேசிய நிலச் சட்டம் (National Land Code 1965, Act 828) — தீபகற்ப மலேசியாவின் ஒவ்வொரு உரிமைப் பத்திரத்திற்கும் பெயரிட்ட சட்டம்"
+seoTitle: தேசிய நிலச் சட்டம் (National Land Code 1965, Act 828)
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

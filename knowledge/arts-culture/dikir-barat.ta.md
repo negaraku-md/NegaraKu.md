@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0040
 title: "திக்கிர் பாராட்: இரு குழுக்கள் மேடையில் பந்தூன் பாடல்களைப் பரிமாறிக்கொள்ளும்போது"
+seoTitle: திக்கிர் பாராட்
 slug: "dikir-barat"
 category: "arts-culture"
 subcategory: ["performing-arts"]

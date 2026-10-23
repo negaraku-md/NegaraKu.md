@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — Departamento Nacional de Registro: del certificado de nacimiento al certificado de defunción"
+seoTitle: JPN — Departamento Nacional de Registro
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

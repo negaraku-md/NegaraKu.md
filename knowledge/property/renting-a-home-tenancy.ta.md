@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "மலேசியாவில் வீடு வாடகைக்கு எடுக்க தனி வாடகைச் சட்டம் இல்லை — எனவே நீங்கள் கையெழுத்திடும் ஒப்பந்தமே சட்டம்"
+seoTitle: மலேசியாவில் வீடு வாடகைக்கு எடுக்க தனி வாடகைச் சட்டம் இல்லை
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

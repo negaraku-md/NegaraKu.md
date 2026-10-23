@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "¿Es Malasia asequible para los expatriados? Lo que dicen realmente las cifras oficiales"
+seoTitle: ¿Es Malasia asequible para los expatriados?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

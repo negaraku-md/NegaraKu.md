@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "Renewing a Malaysian Passport: MyOnline Passport, UTC Counters, or the Immigration Office"
+seoTitle: Renewing a Malaysian Passport
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

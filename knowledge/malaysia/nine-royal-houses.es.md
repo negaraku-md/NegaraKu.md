@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "Los nueve estados reales de Malasia: los Gobernantes reinantes y su papel en la Conferencia de Gobernantes"
+seoTitle: Los nueve estados reales de Malasia
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

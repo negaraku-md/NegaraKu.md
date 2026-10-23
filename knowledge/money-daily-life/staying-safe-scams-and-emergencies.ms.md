@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0073"
 title: "999, 997, dan Jam Pertama Selepas Anda Sedar Anda Telah Ditipu"
+seoTitle: 999, 997, dan Jam Pertama Selepas Ditipu
 slug: "staying-safe-scams-and-emergencies"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

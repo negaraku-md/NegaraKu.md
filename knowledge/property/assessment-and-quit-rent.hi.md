@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "मूल्यांकन कर और भूमि-कर: दो संपत्ति कर, दो प्राधिकरण, दो भुगतान-तिथियाँ"
+seoTitle: मूल्यांकन कर और भूमि-कर
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

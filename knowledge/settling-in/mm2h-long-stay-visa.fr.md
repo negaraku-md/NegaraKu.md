@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0016
 title: "Malaysia My Second Home : à l'intérieur des quatre niveaux du visa de long séjour MM2H"
+seoTitle: Malaysia My Second Home
 slug: "mm2h-long-stay-visa"
 category: "settling-in"
 subcategory: ["visas-passes"]

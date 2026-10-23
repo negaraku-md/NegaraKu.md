@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "الغاسينغ: النحلة الدوّارة التي صارت اختباراً للقوة والتحمّل في الساحل الشرقي"
+seoTitle: الغاسينغ
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

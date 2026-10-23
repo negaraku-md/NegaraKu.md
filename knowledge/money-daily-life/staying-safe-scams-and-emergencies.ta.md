@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0073"
 title: "999, 997, மற்றும் நீங்கள் ஏமாற்றப்பட்டதை உணர்ந்த பிறகு வரும் முதல் மணி நேரம்"
+seoTitle: 999, 997, மற்றும் ஏமாற்றப்பட்ட பிறகு முதல் மணி நேரம்
 slug: "staying-safe-scams-and-emergencies"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

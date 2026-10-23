@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0022
 title: "குழந்தையின் பிறப்பைப் பதிவு செய்தல்: JPN செயல்முறையும் பிறப்புச் சான்றிதழும் உண்மையில் எப்படி இயங்குகின்றன"
+seoTitle: குழந்தையின் பிறப்பைப் பதிவு செய்தல்
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

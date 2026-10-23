@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "Ủy ban Bầu cử (SPR): Nhiệm vụ và chức năng theo Điều 113-114 của Hiến pháp"
+seoTitle: 'Ủy ban Bầu cử (SPR): nhiệm vụ theo Điều 113-114'
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

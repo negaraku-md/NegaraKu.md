@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0018
 title: "扶養家族パス（Dependant Pass、DP）か長期社会訪問パス（Long-Term Social Visit Pass）か：どちらがあなたの家族をカバーするか"
+seoTitle: 扶養家族パス（Dependant Pass、DP）か長期社会訪問パス
 slug: "dependant-social-visit-passes"
 category: "settling-in"
 subcategory: ["visas-passes"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0073"
 title: "999, 997, और यह एहसास होने के बाद का पहला घंटा कि आपके साथ धोखाधड़ी हुई है"
+seoTitle: 999, 997, और धोखाधड़ी के बाद का पहला घंटा
 slug: "staying-safe-scams-and-emergencies"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

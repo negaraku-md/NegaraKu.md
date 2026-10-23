@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "Jata Negara : lire les armoiries nationales de la Malaisie, élément par élément"
+seoTitle: 'Jata Negara : les armoiries nationales de la Malaisie'
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

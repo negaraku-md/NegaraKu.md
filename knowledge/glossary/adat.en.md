@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "Adat Perpatih and Adat Temenggung: two traditional Malay legal systems"
+seoTitle: Adat Perpatih and Adat Temenggung
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

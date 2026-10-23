@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0013
 title: "Balik Kampung — عودة الماليزيين إلى مسقط الرأس في موسم الأعياد"
+seoTitle: Balik Kampung — عودة الماليزيين في موسم الأعياد
 slug: "balik-kampung"
 category: "glossary"
 subcategory: ["culture"]

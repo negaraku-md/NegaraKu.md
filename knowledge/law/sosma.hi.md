@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (Act 747): सुरक्षा अपराधों के लिए मलेशिया द्वारा प्रयुक्त विशेष प्रक्रियाएँ"
+seoTitle: 'SOSMA (Act 747): सुरक्षा अपराधों के लिए विशेष प्रक्रियाएँ'
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

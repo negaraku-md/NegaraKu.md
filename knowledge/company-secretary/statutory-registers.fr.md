@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "Les registres légaux que toute Sdn Bhd doit tenir : une liste de contrôle"
+seoTitle: Les registres légaux que toute Sdn Bhd doit tenir
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

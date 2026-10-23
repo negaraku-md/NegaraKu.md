@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "ลำดับชั้นของศาลในมาเลเซีย: ห้าระดับ สองสาย และวิธีการแต่งตั้งผู้พิพากษา"
+seoTitle: ลำดับชั้นของศาลในมาเลเซีย
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

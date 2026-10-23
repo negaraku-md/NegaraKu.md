@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0001
 title: "SSM — மலேசிய நிறுவனங்கள் ஆணையம் (Companies Commission of Malaysia)"
+seoTitle: SSM — மலேசிய நிறுவனங்கள் ஆணையம்
 slug: "ssm"
 category: "government"
 subcategory: ["agencies"]

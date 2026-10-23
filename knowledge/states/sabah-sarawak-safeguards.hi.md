@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "आपको कोटा किनाबालू में क्यों वापस भेजा जा सकता है: सबाह और सरवाक के लिए संवैधानिक सुरक्षा-उपाय"
+seoTitle: आपको कोटा किनाबालू में क्यों वापस भेजा जा सकता है
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

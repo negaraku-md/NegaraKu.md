@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "Membeli Kartu SIM Seluler di Malaysia: Prabayar, Pascabayar, dan Langkah Pendaftaran yang Tidak Dapat Dilewati"
+seoTitle: Membeli Kartu SIM Seluler di Malaysia
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

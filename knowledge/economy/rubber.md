@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "Malaysia's Rubber Industry: A Shrinking Crop Feeding a Global Glove Business"
+seoTitle: Malaysia's Rubber Industry
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

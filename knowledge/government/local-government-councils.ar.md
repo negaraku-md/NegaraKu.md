@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "الحكومة المحلية (PBT): مجالس المدن والبلديات والمقاطعات بموجب القانون 171"
+seoTitle: الحكومة المحلية (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

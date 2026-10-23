@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "Klinik Kesihatan: मलेशिया की सरकारी प्राथमिक-देखभाल प्रणाली असल में कैसे काम करती है"
+seoTitle: 'Klinik Kesihatan: मलेशिया की सरकारी प्राथमिक देखभाल'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

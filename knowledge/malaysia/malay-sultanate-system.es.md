@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0052
 title: "Sultán, daulat y jefes: cómo se gobernaba el sultanato malayo"
+seoTitle: Sultán, daulat y jefes
 slug: "malay-sultanate-system"
 category: "malaysia"
 subcategory: ["sultanates"]

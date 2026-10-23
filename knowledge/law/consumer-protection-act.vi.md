@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "Đạo luật Bảo vệ Người tiêu dùng 1999: Luật quyền người tiêu dùng của Malaysia và Tòa Trọng tài phí RM5 của nó"
+seoTitle: Đạo luật Bảo vệ Người tiêu dùng 1999
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

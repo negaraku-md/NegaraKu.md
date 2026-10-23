@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "الطوارئ المالاياوية: التمرّد، وإعادة التوطين، والأجهزة التي خلّفها وراءه"
+seoTitle: 'الطوارئ المالاياوية: التمرّد وإعادة التوطين'
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

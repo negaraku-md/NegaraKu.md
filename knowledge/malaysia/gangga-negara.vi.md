@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0068"
 title: "Gangga Negara: Vương quốc Perak được nhắc trong hikayat, chưa được khảo cổ xác nhận"
+seoTitle: 'Gangga Negara: Vương quốc Perak trong hikayat'
 slug: "gangga-negara"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

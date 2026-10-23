@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0042
 title: "Mengapa Malaysia Memiliki Perbatasan Internal, dan Apa Sebenarnya yang Dikendalikannya"
+seoTitle: Mengapa Malaysia Memiliki Perbatasan Internal
 slug: "peninsular-and-borneo"
 category: "malaysia"
 subcategory: ["country-basics"]

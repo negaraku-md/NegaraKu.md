@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: cơ quan liên bang điều phối các vấn đề Hồi giáo mà không vượt trên quyền tôn giáo của bang"
+seoTitle: 'JAKIM: cơ quan liên bang về các vấn đề Hồi giáo'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

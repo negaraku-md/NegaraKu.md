@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "라캬트(Rakyat): 왜 말레이시아에는 「국민」을 뜻하는 두 낱말과 「시민」을 뜻하는 또 다른 낱말이 있는가"
+seoTitle: '라캬트(Rakyat): 말레이시아의 「국민」을 뜻하는 두 낱말'
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

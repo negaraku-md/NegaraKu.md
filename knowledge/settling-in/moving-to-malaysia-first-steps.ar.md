@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "الانتقال إلى ماليزيا: الترتيب الصحيح لتسوية تصريحك ودخولك وإجراءات الأسبوع الأول"
+seoTitle: الانتقال إلى ماليزيا
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

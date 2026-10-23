@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0077
 title: "Por qué Kuala Lumpur es el lugar más caro para vivir de Malasia"
+seoTitle: 'Kuala Lumpur: el lugar más caro para vivir de Malasia'
 slug: "cost-of-living-kuala-lumpur"
 category: "cost-of-living"
 subcategory: ["by-city"]

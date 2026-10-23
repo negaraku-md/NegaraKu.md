@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0066"
 title: "மலேசிய நெடுஞ்சாலை சுங்கம்: தொடு அட்டைகளிலிருந்து தடுப்பு இல்லாத வழித்தடங்கள் வரை"
+seoTitle: மலேசிய நெடுஞ்சாலை சுங்கம்
 slug: "tolls-smarttag-rfid"
 category: "transport"
 subcategory: ["vehicles-tolls"]

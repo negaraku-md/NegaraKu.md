@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "मलेशिया में कार खरीदना: डीलर, बैंक और JPJ में से हर एक असल में क्या करता है"
+seoTitle: मलेशिया में कार खरीदना
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

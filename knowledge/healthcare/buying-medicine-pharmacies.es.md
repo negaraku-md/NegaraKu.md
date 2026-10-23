@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "Detrás del mostrador de la farmacia: recetas, medicamentos de venta libre y fármacos controlados en Malasia"
+seoTitle: Detrás del mostrador de la farmacia
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0017
 title: "Negaraku: Bài ca vương thất bang Perak đã trở thành quốc ca Malaysia như thế nào"
+seoTitle: 'Negaraku: Từ bài ca bang Perak thành quốc ca Malaysia'
 slug: "negaraku-anthem"
 category: "malaysia"
 subcategory: ["identity"]

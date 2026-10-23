@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "Sông Rajang, Kinabatangan và Pahang: Những tuyến đường thủy định hình Malaysia"
+seoTitle: Sông Rajang, Kinabatangan và Pahang
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0032
 title: "مامّاك: من صيغة مخاطبة بمعنى «العمّ» إلى اسمٍ لنوعٍ من المطاعم"
+seoTitle: 'مامّاك: من «العمّ» إلى نوع من المطاعم'
 slug: "mamak"
 category: "glossary"
 subcategory: ["culture"]

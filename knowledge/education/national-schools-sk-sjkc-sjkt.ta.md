@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0087"
 title: "SK, SJKC மற்றும் SJKT: ஒரே அரசாங்கத் தொடக்கப்பள்ளி அமைப்பில் மூன்று பயிற்றுமொழிகள்"
+seoTitle: SK, SJKC மற்றும் SJKT
 slug: "national-schools-sk-sjkc-sjkt"
 category: "education"
 subcategory: ["schooling"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "கூட்டரசு அரசியலமைப்பு உண்மையில் எதை ஒதுக்குகிறது, எதைத் தொட முடியாது (Article 153)"
+seoTitle: 'Article 153: கூட்டரசு அரசியலமைப்பு எதை ஒதுக்குகிறது'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0023
 title: "Mendaftarkan Perkawinan Sipil di Malaysia: Proses JPN untuk Non-Muslim"
+seoTitle: Mendaftarkan Perkawinan Sipil di Malaysia
 slug: "registering-a-marriage-civil"
 category: "settling-in"
 subcategory: ["documents"]

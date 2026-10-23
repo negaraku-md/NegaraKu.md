@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0018
 title: "आश्रित पास या दीर्घकालिक सामाजिक भ्रमण पास: आपके परिवार को कौन-सा कवर करता है"
+seoTitle: आश्रित पास या दीर्घकालिक सामाजिक भ्रमण पास
 slug: "dependant-social-visit-passes"
 category: "settling-in"
 subcategory: ["visas-passes"]

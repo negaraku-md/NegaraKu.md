@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "¿Clínica dental pública o privada? Entender los dos sistemas de atención dental de Malasia"
+seoTitle: ¿Clínica dental pública o privada en Malasia?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

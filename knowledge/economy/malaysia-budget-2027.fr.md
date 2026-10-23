@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0035
 title: "Budget 2027 de la Malaisie : ce qui a changé pour vous et quand cela prend effet"
+seoTitle: Budget 2027 de la Malaisie
 slug: "malaysia-budget-2027"
 category: "economy"
 subcategory: ["policy"]

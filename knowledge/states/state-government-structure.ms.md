@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "Bagaimana Kerajaan Negeri Malaysia Distrukturkan: Raja, Majlis Mesyuarat Kerajaan Negeri, dan Dewan"
+seoTitle: Bagaimana Kerajaan Negeri Malaysia Distrukturkan
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

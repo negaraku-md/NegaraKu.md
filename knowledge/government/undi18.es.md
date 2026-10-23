@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 y el registro automático de electores: qué cambió la Act A1603"
+seoTitle: Undi18 y el registro automático de electores
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "Hệ thống y tế Malaysia thực sự vận hành ra sao: Ranh giới công-tư, và ai trả những gì"
+seoTitle: Hệ thống y tế Malaysia thực sự vận hành ra sao
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

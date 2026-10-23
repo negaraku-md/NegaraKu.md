@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0021
 title: "मलेशिया योजनाएँ: वह पंचवर्षीय ढाँचा जो हर वार्षिक बजट को आकार देता है"
+seoTitle: 'मलेशिया योजनाएँ: बजट को आकार देने वाला पंचवर्षीय ढाँचा'
 slug: "malaysia-plans"
 category: "economy"
 subcategory: ["policy"]

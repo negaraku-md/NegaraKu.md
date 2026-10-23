@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "மலேசியாவில் மொபைல் SIM வாங்குதல்: ப்ரீபெய்டு, போஸ்ட்பெய்டு, மற்றும் நீங்கள் தவிர்க்க முடியாத பதிவுப் படிநிலை"
+seoTitle: மலேசியாவில் மொபைல் SIM வாங்குதல்
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

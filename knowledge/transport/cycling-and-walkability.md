@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "Why Walking and Cycling in Malaysian Cities Is Still an Uphill Climb"
+seoTitle: Walking and Cycling in Malaysian Cities
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

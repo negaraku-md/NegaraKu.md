@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "الاستئجار في ماليزيا بلا قانون إيجار مخصص — فالاتفاقية التي توقّعها هي القانون"
+seoTitle: الاستئجار في ماليزيا بلا قانون إيجار مخصص
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

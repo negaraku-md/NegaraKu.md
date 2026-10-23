@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "المفوضية الماليزية للانتخابات (SPR): ولايتها ووظائفها بموجب المادتين 113-114 من الدستور"
+seoTitle: المفوضية الماليزية للانتخابات (SPR)
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

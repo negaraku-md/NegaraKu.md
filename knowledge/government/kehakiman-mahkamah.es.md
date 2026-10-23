@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "La jerarquía judicial de Malasia: cinco niveles, dos vías y cómo se nombra a los jueces"
+seoTitle: La jerarquía judicial de Malasia
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

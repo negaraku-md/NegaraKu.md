@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "Bergerak Antara Bandar di Malaysia: Perbandingan Kereta Api, Bas dan Penerbangan"
+seoTitle: Bergerak Antara Bandar di Malaysia
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

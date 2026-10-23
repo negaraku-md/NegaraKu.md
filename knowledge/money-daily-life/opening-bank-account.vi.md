@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "Mở tài khoản ngân hàng tại Malaysia: Công dân cần gì, người nước ngoài cần gì, và vì sao visa du lịch không đủ"
+seoTitle: Mở tài khoản ngân hàng tại Malaysia
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

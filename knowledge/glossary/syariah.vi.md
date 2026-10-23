@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "Syariah — luật Hồi giáo như một vấn đề của bang trong hệ thống Malaysia"
+seoTitle: Syariah — luật Hồi giáo, vấn đề của bang
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

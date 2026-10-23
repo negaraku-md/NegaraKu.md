@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0033
 title: "الملكية الحرّة والحقّ الإيجاري والطبقي والتابعي: الكلمات الأربع في سند ماليزي تحدّد ما تملكه فعلًا"
+seoTitle: الملكية الحرّة والحقّ الإيجاري والطبقي والتابعي
 slug: "freehold-leasehold-strata-landed"
 category: "property"
 subcategory: ["home-ownership"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "말레이시아에서 은행 계좌 열기: 시민에게 필요한 것, 외국인에게 필요한 것, 그리고 관광 비자로는 안 되는 것"
+seoTitle: '말레이시아에서 은행 계좌 열기: 시민과 외국인 요건'
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

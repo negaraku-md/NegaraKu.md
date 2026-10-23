@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0052
 title: "Sultan, Daulat và các đại thần: Vương triều Mã Lai được cai trị như thế nào"
+seoTitle: Sultan, Daulat và các đại thần
 slug: "malay-sultanate-system"
 category: "malaysia"
 subcategory: ["sultanates"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0050
 title: "นโยบายเศรษฐกิจใหม่: สองวัตถุประสงค์ที่ระบุไว้ หนึ่งกรอบยี่สิบปี"
+seoTitle: 'นโยบายเศรษฐกิจใหม่: สองวัตถุประสงค์ หนึ่งกรอบ'
 slug: "new-economic-policy"
 category: "malaysia"
 subcategory: ["modern"]

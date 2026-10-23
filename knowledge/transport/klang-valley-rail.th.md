@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0001
 title: "MRT, LRT, โมโนเรล และสาย KTM ของกัวลาลัมเปอร์เชื่อมต่อกันอย่างไร"
+seoTitle: MRT, LRT, โมโนเรล และสาย KTM ของกัวลาลัมเปอร์
 slug: "klang-valley-rail"
 category: "transport"
 subcategory: ["public-transport"]

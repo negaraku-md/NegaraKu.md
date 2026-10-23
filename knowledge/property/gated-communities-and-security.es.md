@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "Comunidades cerradas y vecindarios vigilados en Malasia: dónde traza la ley la línea"
+seoTitle: Comunidades cerradas y vecindarios vigilados en Malasia
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

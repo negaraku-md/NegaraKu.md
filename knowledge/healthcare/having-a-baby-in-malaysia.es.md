@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "Tener un bebé en Malasia: el Libro Rosa, las visitas a la clínica y qué ocurre tras el parto"
+seoTitle: Tener un bebé en Malasia
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

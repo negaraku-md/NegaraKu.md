@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "Permis L, P, CDL : comment fonctionne réellement le processus de permis de conduire du JPJ en Malaisie"
+seoTitle: 'Permis L, P, CDL : le processus du JPJ en Malaisie'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

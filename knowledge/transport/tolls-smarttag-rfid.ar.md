@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0066"
 title: "رسوم الطرق السريعة في ماليزيا: من البطاقات التي تُلمَس إلى المسارات بلا حاجز"
+seoTitle: رسوم الطرق السريعة في ماليزيا
 slug: "tolls-smarttag-rfid"
 category: "transport"
 subcategory: ["vehicles-tolls"]

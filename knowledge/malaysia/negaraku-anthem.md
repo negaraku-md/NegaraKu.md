@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0017
 title: "Negaraku: Bagaimana Lagu Kebesaran Negeri Perak Menjadi Lagu Kebangsaan Malaysia"
+seoTitle: 'Negaraku: Lagu Kebesaran Perak jadi Lagu Kebangsaan'
 slug: "negaraku-anthem"
 category: "malaysia"
 subcategory: ["identity"]

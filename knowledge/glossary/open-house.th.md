@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0027
 title: "รูมะฮ์เตอร์บูกา (Rumah Terbuka): เมื่อเทศกาลของคนกลุ่มหนึ่งกลายเป็นคำเชิญของทุกคน"
+seoTitle: รูมะฮ์เตอร์บูกา (Rumah Terbuka)
 slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]

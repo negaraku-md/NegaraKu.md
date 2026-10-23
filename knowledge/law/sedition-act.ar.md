@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0050
 title: "Sedition Act 1948: ما الذي يعرّفه القانون الماليزي بأنه نزعة تحريضية"
+seoTitle: 'Sedition Act 1948: ما هي النزعة التحريضية'
 slug: "sedition-act"
 category: "law"
 subcategory: ["key-acts"]

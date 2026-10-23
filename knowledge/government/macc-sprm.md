@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — Malaysian Anti-Corruption Commission and Its Five Oversight Bodies"
+seoTitle: MACC — Malaysian Anti-Corruption Commission
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

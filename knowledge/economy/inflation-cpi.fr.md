@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0003
 title: "Le taux d'inflation de la Malaisie et ce que l'IPC mesure réellement"
+seoTitle: Taux d'inflation de la Malaisie et l'IPC
 slug: "inflation-cpi"
 category: "economy"
 subcategory: ["indicators"]

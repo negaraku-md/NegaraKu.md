@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "मलेशिया में विशेष शिक्षा: PPKI, विशेष विद्यालय और OKU पंजीकरण आपस में कैसे जुड़ते हैं"
+seoTitle: मलेशिया में विशेष शिक्षा
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "Gaji Minimum vs Pendapatan Median: Rupa Sebenar Gaji Tipikal Rakyat Malaysia"
+seoTitle: Gaji Minimum vs Pendapatan Median
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

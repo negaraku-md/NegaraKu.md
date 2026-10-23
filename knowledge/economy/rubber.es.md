@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "La industria del caucho de Malasia: un cultivo menguante que alimenta un negocio mundial de guantes"
+seoTitle: La industria del caucho de Malasia
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0032
 title: "Mamak: de una forma de tratamiento para «tío» a un tipo de establecimiento"
+seoTitle: 'Mamak: de «tío» a un tipo de restaurante'
 slug: "mamak"
 category: "glossary"
 subcategory: ["culture"]

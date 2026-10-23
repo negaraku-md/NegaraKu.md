@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "Bahasa Kebangsaan Malaysia, dan Banyak Bahasa Lain yang Dituturkan Bersamanya"
+seoTitle: Bahasa Kebangsaan Malaysia dan Bahasa-Bahasa Lain
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "மலேசியப் பாஸ்போர்ட்டைப் புதுப்பித்தல்: MyOnline Passport, UTC கவுண்டர்கள், அல்லது குடிவரவு அலுவலகம்"
+seoTitle: மலேசியப் பாஸ்போர்ட்டைப் புதுப்பித்தல்
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

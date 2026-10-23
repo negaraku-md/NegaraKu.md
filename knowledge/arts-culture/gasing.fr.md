@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "Gasing : la toupie devenue une épreuve de force et d'endurance sur la Côte Est"
+seoTitle: Gasing
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

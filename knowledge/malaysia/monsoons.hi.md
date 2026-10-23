@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0045"
 title: "पूर्वोत्तर और दक्षिण-पश्चिम मानसून: पूर्वी तट में हर साल बाढ़ क्यों आती है"
+seoTitle: पूर्वोत्तर और दक्षिण-पश्चिम मानसून
 slug: "monsoons"
 category: "malaysia"
 subcategory: ["geography"]

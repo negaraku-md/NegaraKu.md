@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0051
 title: "รัฐสุลต่านยะโฮร์-เรียา: ราชบัลลังก์มะละกาสืบทอดไปทางใต้อย่างไร"
+seoTitle: รัฐสุลต่านยะโฮร์-เรียา
 slug: "johor-riau-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

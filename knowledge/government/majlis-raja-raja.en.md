@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "Conference of Rulers: The Institution That Elects the Agong and What Requires Its Consent"
+seoTitle: Conference of Rulers
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

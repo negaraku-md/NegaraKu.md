@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "วิธีลงทะเบียนบุตรเข้าโรงเรียนรัฐบาล: อายุเข้าเรียน เอกสาร และระบบ idMe"
+seoTitle: วิธีลงทะเบียนบุตรเข้าโรงเรียนรัฐบาล
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

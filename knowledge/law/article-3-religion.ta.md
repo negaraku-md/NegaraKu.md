@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "Article 3: இஸ்லாம் குறித்து அரசியலமைப்பு கூறுவது, அதனுடன் இணையாக Article 11 கூறுவது"
+seoTitle: 'Article 3: இஸ்லாம், அரசியலமைப்பு, Article 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

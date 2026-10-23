@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "การหาบ้านเช่าในมาเลเซีย: พอร์ทัล นายหน้า และป้าย REN ที่ไม่มีใครตรวจสอบ"
+seoTitle: การหาบ้านเช่าในมาเลเซีย
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

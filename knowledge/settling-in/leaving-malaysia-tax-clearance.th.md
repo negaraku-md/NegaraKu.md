@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0028
 title: "ก่อนคุณออกจากมาเลเซีย: หนังสือรับรองการชำระภาษีที่นายจ้างต้องยื่นก่อน"
+seoTitle: ก่อนคุณออกจากมาเลเซีย
 slug: "leaving-malaysia-tax-clearance"
 category: "settling-in"
 subcategory: ["overview"]

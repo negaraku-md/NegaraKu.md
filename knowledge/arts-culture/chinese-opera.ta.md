@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "கடவுளுக்காக முழங்கும் மேளதாளம்: மலேசியாவின் சீன பாரம்பரிய நாடகமும் (大戏) கடவுளுக்கு நன்றி செலுத்தும் மரபும்"
+seoTitle: கடவுளுக்காக முழங்கும் மேளதாளம்
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "Perkara 3: Apa yang Dinyatakan Perlembagaan Tentang Islam, dan Apa yang Dinyatakan Perkara 11 Bersamanya"
+seoTitle: 'Perkara 3: Islam dalam Perlembagaan dan Perkara 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

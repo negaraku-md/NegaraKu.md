@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0021
 title: "MyKad وMyPR وMyKAS: ثلاث بطاقات هوية من JPN، ثلاثة أوضاع مختلفة"
+seoTitle: 'MyKad وMyPR وMyKAS: ثلاث بطاقات هوية من JPN'
 slug: "mykad-and-identity-documents"
 category: "settling-in"
 subcategory: ["documents"]

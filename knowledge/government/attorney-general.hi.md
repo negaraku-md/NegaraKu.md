@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "मलेशिया का महान्यायवादी: अनुच्छेद 145 द्वारा परिभाषित पद और शक्तियाँ"
+seoTitle: मलेशिया का महान्यायवादी
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

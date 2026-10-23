@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "العطلات الرسمية الاتحادية مقابل عطلات الولايات: لماذا تختلف قائمة العطلات باختلاف الولاية"
+seoTitle: العطلات الرسمية الاتحادية مقابل عطلات الولايات
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

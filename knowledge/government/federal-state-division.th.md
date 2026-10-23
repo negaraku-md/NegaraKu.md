@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "ใครตัดสินเรื่องใด: บัญชีสหพันธ์ บัญชีรัฐ และบัญชีร่วมของบัญชีที่เก้า"
+seoTitle: บัญชีสหพันธ์ บัญชีรัฐ และบัญชีร่วม (บัญชีที่เก้า)
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

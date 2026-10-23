@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 and Automatic Voter Registration: What Act A1603 Changed"
+seoTitle: Undi18 and Automatic Voter Registration
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

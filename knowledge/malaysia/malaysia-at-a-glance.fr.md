@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "La Malaisie en un coup d'œil : les chiffres derrière le pays, sourcés un par un"
+seoTitle: La Malaisie en un coup d'œil
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

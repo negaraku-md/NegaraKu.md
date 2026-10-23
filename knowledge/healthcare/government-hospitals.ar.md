@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "المستشفيات الحكومية في ماليزيا: كيف يعمل نظام الإحالة والرسوم المدعومة وأوقات الانتظار فعلًا"
+seoTitle: المستشفيات الحكومية في ماليزيا
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "आपका उत्पाद ख़राब हो गया और दुकान पैसा वापस नहीं कर रही: अपना पैसा वास्तव में कैसे वापस पाएँ"
+seoTitle: आपका उत्पाद ख़राब हो गया और दुकान पैसा वापस नहीं कर रही
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

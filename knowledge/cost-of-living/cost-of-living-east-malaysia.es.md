@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0080
 title: "Por qué una lata de Milo cuesta más en Kota Kinabalu que en Klang"
+seoTitle: Por qué el Milo cuesta más en Kota Kinabalu que en Klang
 slug: "cost-of-living-east-malaysia"
 category: "cost-of-living"
 subcategory: ["by-city"]

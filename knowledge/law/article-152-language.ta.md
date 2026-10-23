@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0021
 title: "மலேசியாவின் தேசிய மொழியை வரையறுக்கும் ஆறு உட்பிரிவுகள் (Article 152)"
+seoTitle: மலேசியாவின் தேசிய மொழியை வரையறுக்கும் ஆறு உட்பிரிவுகள்
 slug: "article-152-language"
 category: "law"
 subcategory: ["constitutional"]

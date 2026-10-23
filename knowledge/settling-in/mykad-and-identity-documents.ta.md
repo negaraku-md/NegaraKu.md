@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0021
 title: "MyKad, MyPR மற்றும் MyKAS: மூன்று JPN அடையாள அட்டைகள், மூன்று வேறுபட்ட நிலைகள்"
+seoTitle: MyKad, MyPR மற்றும் MyKAS
 slug: "mykad-and-identity-documents"
 category: "settling-in"
 subcategory: ["documents"]

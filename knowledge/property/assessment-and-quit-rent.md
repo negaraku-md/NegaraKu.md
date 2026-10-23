@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "Cukai Pintu dan Cukai Tanah: Dua Cukai Harta, Dua Pihak Berkuasa, Dua Tarikh Bayar"
+seoTitle: Cukai Pintu dan Cukai Tanah
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

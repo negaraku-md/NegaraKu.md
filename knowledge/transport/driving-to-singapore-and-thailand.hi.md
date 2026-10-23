@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0069
 title: "सिंगापुर या थाईलैंड में सीमा पार करने के लिए आपकी कार को असल में क्या चाहिए"
+seoTitle: सिंगापुर या थाईलैंड के लिए आपकी कार को क्या चाहिए
 slug: "driving-to-singapore-and-thailand"
 category: "transport"
 subcategory: ["driving"]

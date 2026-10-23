@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0013
 title: "Dewan Negara: செனட்டர்கள் எவ்வாறு நியமிக்கப்படுகிறார்கள், இந்த அவை ஏன் வீட்டோ செய்யாமல் தாமதப்படுத்துகிறது"
+seoTitle: 'Dewan Negara: செனட்டர்கள் எவ்வாறு நியமிக்கப்படுகிறார்கள்'
 slug: "dewan-negara"
 category: "government"
 subcategory: ["institutions"]

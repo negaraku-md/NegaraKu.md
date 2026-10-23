@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "Siklus Anggaran Federal: Bagaimana Sebuah Pidato Menjadi Akta Perbekalan"
+seoTitle: Siklus Anggaran Federal
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

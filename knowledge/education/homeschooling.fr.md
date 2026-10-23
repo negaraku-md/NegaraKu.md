@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0061
 title: "L'éducation à domicile en Malaisie : légale, mais uniquement par une exemption ministérielle"
+seoTitle: L'éducation à domicile en Malaisie
 slug: "homeschooling"
 category: "education"
 subcategory: ["support"]

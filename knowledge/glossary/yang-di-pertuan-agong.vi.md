@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0022
 title: "Yang di-Pertuan Agong — Ngai vàng Liên bang được Bầu, Không Kế thừa"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "glossary"
 subcategory: ["government"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "Louer en Malaisie : il n'existe pas de loi sur les baux — c'est donc le contrat que vous signez qui fait loi"
+seoTitle: 'Louer en Malaisie : il n''existe pas de loi sur les baux'
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

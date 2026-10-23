@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "Điều 153: Hiến pháp Liên bang thực sự bảo lưu gì, và nó không thể động đến gì"
+seoTitle: 'Điều 153: Hiến pháp Liên bang bảo lưu những gì'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

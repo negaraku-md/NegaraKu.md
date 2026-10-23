@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "மலேசியாவின் அரசாங்க மருத்துவமனைகள்: பரிந்துரை அமைப்பு, மானியக் கட்டணங்கள் மற்றும் காத்திருப்பு நேரங்கள் உண்மையில் எவ்வாறு இயங்குகின்றன"
+seoTitle: மலேசியாவின் அரசாங்க மருத்துவமனைகள்
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

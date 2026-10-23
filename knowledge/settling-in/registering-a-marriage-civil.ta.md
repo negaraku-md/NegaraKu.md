@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0023
 title: "மலேசியாவில் சிவில் திருமணப் பதிவு: முஸ்லிம் அல்லாதவர்களுக்கான JPN நடைமுறை"
+seoTitle: மலேசியாவில் சிவில் திருமணப் பதிவு
 slug: "registering-a-marriage-civil"
 category: "settling-in"
 subcategory: ["documents"]

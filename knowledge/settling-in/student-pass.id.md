@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "Pas Pelajar: Mengapa Institusi Anda yang Mengajukan Melalui EMGS, Bukan Anda"
+seoTitle: 'Pas Pelajar: Institusi Anda Mengajukan ke EMGS, Bukan Anda'
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

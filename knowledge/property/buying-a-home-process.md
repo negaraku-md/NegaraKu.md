@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "Buying a Home in Malaysia: What Actually Happens Between the Booking Fee and the Keys"
+seoTitle: Buying a Home in Malaysia
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

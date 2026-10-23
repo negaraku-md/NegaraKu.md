@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0020
 title: "هاري رايا عيد الفطر: إيذانٌ بنهاية رمضان، واحتفالٌ بالعودة إلى الديار"
+seoTitle: هاري رايا عيد الفطر في ماليزيا
 slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]

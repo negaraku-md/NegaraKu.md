@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0016
 title: "Sabah : la Terre sous le vent et ses conditions de fédération"
+seoTitle: 'Sabah : la Terre sous le vent et la fédération'
 slug: "sabah"
 category: "states"
 subcategory: ["borneo"]

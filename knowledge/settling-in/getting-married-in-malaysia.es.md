@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "Casarse en Malasia: por qué el proceso se divide por religión, no por elección"
+seoTitle: 'Casarse en Malasia: el proceso se divide por religión'
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

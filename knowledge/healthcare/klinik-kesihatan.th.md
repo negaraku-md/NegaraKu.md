@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "คลินิกสุขภาพ: ระบบบริการปฐมภูมิของรัฐบาลมาเลเซียทำงานอย่างไรจริง ๆ"
+seoTitle: 'คลินิกสุขภาพ: บริการปฐมภูมิของรัฐบาลมาเลเซีย'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

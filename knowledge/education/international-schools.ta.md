@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "மலேசியாவில் சர்வதேசப் பள்ளிகள்: பாடத்திட்டங்கள், அவற்றுக்குப் பின்னால் உள்ள விதிகள், மற்றும் கட்டணங்கள் ஏன் இவ்வளவு பரவலாக வேறுபடுகின்றன"
+seoTitle: மலேசியாவில் சர்வதேசப் பள்ளிகள்
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

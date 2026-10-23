@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0053
 title: "الولايات الملكية التسع في ماليزيا: الحكّام المتوّجون ودورهم في مجلس الحكّام"
+seoTitle: الولايات الملكية التسع في ماليزيا
 slug: "nine-royal-houses"
 category: "malaysia"
 subcategory: ["sultanates"]

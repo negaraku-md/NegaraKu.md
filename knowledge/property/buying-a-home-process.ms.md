@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "Membeli Rumah di Malaysia: Apa yang Sebenarnya Berlaku Antara Yuran Tempahan dan Kunci Rumah"
+seoTitle: Membeli Rumah di Malaysia
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

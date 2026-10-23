@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0033
 title: "மலேசிய பியூட்டர் (Pewter): தகரச் செல்வம் கட்டியெழுப்பிய கைவினை"
+seoTitle: மலேசிய பியூட்டர் (Pewter)
 slug: pewter
 category: arts-culture
 subcategory: ["crafts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0080
 title: "क्लांग की तुलना में कोटा किनाबालू में माइलो का डिब्बा अधिक क्यों पड़ता है"
+seoTitle: माइलो कोटा किनाबालू में क्लांग से महँगा क्यों है
 slug: "cost-of-living-east-malaysia"
 category: "cost-of-living"
 subcategory: ["by-city"]

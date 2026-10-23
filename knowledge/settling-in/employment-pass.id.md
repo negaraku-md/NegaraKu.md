@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "Employment Pass: Visa Kerja yang Tidak Dapat Anda Ajukan Sendiri"
+seoTitle: 'Employment Pass: Visa Kerja yang Tidak Diajukan Sendiri'
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

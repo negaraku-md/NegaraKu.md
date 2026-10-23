@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — தேசிய பதிவுத் துறை (Jabatan Pendaftaran Negara): பிறப்புச் சான்றிதழ் முதல் இறப்புச் சான்றிதழ் வரை"
+seoTitle: JPN — தேசிய பதிவுத் துறை (Jabatan Pendaftaran Negara)
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

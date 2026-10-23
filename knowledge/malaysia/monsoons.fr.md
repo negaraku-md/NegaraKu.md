@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0045"
 title: "La mousson du nord-est et celle du sud-ouest : pourquoi la côte est est inondée chaque année"
+seoTitle: La mousson du nord-est et celle du sud-ouest
 slug: "monsoons"
 category: "malaysia"
 subcategory: ["geography"]

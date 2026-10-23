@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0024
 title: "Registrar una defunción en Malasia: el proceso del JPN, el certificado de defunción y lo que viene después"
+seoTitle: Registrar una defunción en Malasia
 slug: "registering-a-death"
 category: "settling-in"
 subcategory: ["documents"]

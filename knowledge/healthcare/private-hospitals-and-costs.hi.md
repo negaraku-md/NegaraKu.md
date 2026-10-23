@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "एक भर्ती के दो बिल: मलेशिया में निजी अस्पताल आपसे वास्तव में शुल्क कैसे लेते हैं"
+seoTitle: 'मलेशिया में निजी अस्पताल: बिलिंग और लागत'
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

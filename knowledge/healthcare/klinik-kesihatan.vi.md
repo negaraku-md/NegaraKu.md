@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "Klinik Kesihatan: Cách hệ thống chăm sóc ban đầu của nhà nước Malaysia thực sự vận hành"
+seoTitle: 'Klinik Kesihatan: chăm sóc ban đầu của nhà nước Malaysia'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

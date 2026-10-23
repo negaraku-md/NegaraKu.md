@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "Siapa Menggubal Undang-Undang Mengenai Apa: Senarai Persekutuan, Negeri dan Bersama dalam Jadual Kesembilan"
+seoTitle: Siapa Menggubal Undang-Undang Mengenai Apa
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

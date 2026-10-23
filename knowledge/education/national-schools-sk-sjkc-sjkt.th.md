@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0087"
 title: "SK, SJKC และ SJKT: สามภาษาสื่อการสอนในระบบโรงเรียนประถมรัฐบาลเดียว"
+seoTitle: 'SK, SJKC และ SJKT: สามภาษาสื่อการสอน'
 slug: "national-schools-sk-sjkc-sjkt"
 category: "education"
 subcategory: ["schooling"]

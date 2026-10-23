@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "நுகர்வோர் பாதுகாப்புச் சட்டம் (Consumer Protection Act 1999): மலேசியாவின் நுகர்வோர் உரிமைச் சட்டமும் அதன் RM5 தீர்ப்பாயமும்"
+seoTitle: நுகர்வோர் பாதுகாப்புச் சட்டம் (Consumer Protection Act 1999)
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

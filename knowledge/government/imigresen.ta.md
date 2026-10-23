@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "மலேசிய குடிவரவுத் துறை (Jabatan Imigresen Malaysia): யார் நுழைகிறார், யார் தங்குகிறார், யார் வெளியேறுகிறார் என்பதைத் தீர்மானிக்கும் துறை"
+seoTitle: மலேசிய குடிவரவுத் துறை (Jabatan Imigresen Malaysia)
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "Comprar una vivienda en Malasia: qué ocurre realmente entre la cuota de reserva y las llaves"
+seoTitle: Comprar una vivienda en Malasia
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

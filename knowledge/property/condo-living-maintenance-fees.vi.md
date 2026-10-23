@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "Sống ở chung cư tại Malaysia: Vì sao phí bảo trì của bạn có một người anh em tên là quỹ dự phòng"
+seoTitle: Sống ở chung cư tại Malaysia
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

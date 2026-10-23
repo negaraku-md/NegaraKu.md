@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0035
 title: "ميزانية ماليزيا 2027: ما الذي تغيّر بالنسبة لك، ومتى يبدأ نفاذه"
+seoTitle: ميزانية ماليزيا 2027
 slug: "malaysia-budget-2027"
 category: "economy"
 subcategory: ["policy"]

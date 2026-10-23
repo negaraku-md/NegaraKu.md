@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0062
 title: "การศึกษาพิเศษในมาเลเซีย: PPKI, โรงเรียนพิเศษ และการขึ้นทะเบียน OKU ประกอบกันอย่างไร"
+seoTitle: การศึกษาพิเศษในมาเลเซีย
 slug: "special-education-and-learning-support"
 category: "education"
 subcategory: ["support"]

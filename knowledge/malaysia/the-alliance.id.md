@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0061
 title: "Perikatan: Koalisi yang Merundingkan Kemerdekaan Tanah Melayu"
+seoTitle: 'Perikatan: Koalisi Perunding Kemerdekaan Tanah Melayu'
 slug: "the-alliance"
 category: "malaysia"
 subcategory: ["independence"]

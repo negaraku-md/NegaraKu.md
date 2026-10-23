@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0071
 title: "MATRADE — Corporación de Desarrollo del Comercio Exterior de Malasia: exportaciones hacia fuera, no inversión hacia dentro"
+seoTitle: 'MATRADE: desarrollo del comercio exterior de Malasia'
 slug: "matrade"
 category: "government"
 subcategory: ["agencies"]

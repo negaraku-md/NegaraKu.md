@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "National Land Code 1965 — statuta yang menempatkan nama pada setiap hak milik tanah di Semenanjung Malaysia"
+seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

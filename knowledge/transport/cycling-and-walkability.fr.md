@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "Pourquoi marcher et faire du vélo dans les villes malaisiennes reste un parcours du combattant"
+seoTitle: Marcher et faire du vélo dans les villes malaisiennes
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "صنوجٌ وطبولٌ للآلهة: الأوبرا الصينية في ماليزيا وتقليد شكر الآلهة"
+seoTitle: الأوبرا الصينية في ماليزيا وتقليد شكر الآلهة
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

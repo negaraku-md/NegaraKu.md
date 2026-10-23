@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0031
 title: "La Commission électorale (SPR) : son mandat et ses fonctions au titre des articles 113-114 de la Constitution"
+seoTitle: La Commission électorale (SPR)
 slug: "spr-election-commission"
 category: "government"
 subcategory: ["agencies"]

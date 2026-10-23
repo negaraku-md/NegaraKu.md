@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "मलेशिया में घर खरीदना: बुकिंग फ़ीस और चाबियों के बीच वास्तव में क्या होता है"
+seoTitle: मलेशिया में घर खरीदना
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

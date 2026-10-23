@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "Konfrontasi: மலேசியாவின் பிறப்பை வரவேற்ற பிரகடனப்படுத்தப்படாத போர்"
+seoTitle: 'Konfrontasi: மலேசியாவின் பிரகடனப்படுத்தப்படாத போர்'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

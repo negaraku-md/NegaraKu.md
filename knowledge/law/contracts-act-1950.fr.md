@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0030"
 title: "Loi de 1950 sur les contrats (Act 136) : le droit général des contrats de Malaisie"
+seoTitle: Loi de 1950 sur les contrats (Act 136)
 slug: "contracts-act-1950"
 category: "law"
 subcategory: ["key-acts"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0016
 title: "சபா (Sabah): காற்றுக்குக் கீழிருக்கும் நிலமும் அதன் கூட்டரசு விதிமுறைகளும்"
+seoTitle: 'சபா (Sabah): காற்றுக்குக் கீழ் நிலமும் கூட்டரசும்'
 slug: "sabah"
 category: "states"
 subcategory: ["borneo"]

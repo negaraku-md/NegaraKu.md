@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0027
 title: "Rumah Terbuka: Khi Lễ hội của Một Sắc tộc Trở thành Lời mời Dành cho Tất cả"
+seoTitle: 'Rumah Terbuka: Khi Lễ hội Trở thành Lời mời cho Tất cả'
 slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]

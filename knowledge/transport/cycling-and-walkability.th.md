@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "เหตุใดการเดินและการปั่นจักรยานในเมืองของมาเลเซียยังคงเป็นเรื่องยากลำบาก"
+seoTitle: การเดินและการปั่นจักรยานในเมืองของมาเลเซีย
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

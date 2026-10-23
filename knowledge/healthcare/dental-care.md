@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "Klinik Pergigian Kerajaan atau Swasta? Memahami Dua Sistem Penjagaan Gigi Malaysia"
+seoTitle: Klinik Pergigian Kerajaan atau Swasta di Malaysia?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

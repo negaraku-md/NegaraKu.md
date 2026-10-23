@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0027
 title: "البيت المفتوح (Rumah Terbuka): حين يصبح احتفال جماعة واحدة دعوةً للجميع"
+seoTitle: البيت المفتوح (Rumah Terbuka)
 slug: "open-house"
 category: "glossary"
 subcategory: ["culture"]

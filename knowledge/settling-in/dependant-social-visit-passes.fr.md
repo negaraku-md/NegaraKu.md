@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0018
 title: "Dependant Pass ou Long-Term Social Visit Pass : lequel couvre votre famille"
+seoTitle: Dependant Pass ou Long-Term Social Visit Pass
 slug: "dependant-social-visit-passes"
 category: "settling-in"
 subcategory: ["visas-passes"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0001
 title: "மலாக்கா சுல்தானகம்: ஒரு நாகரிகத்தைக் கட்டியெழுப்பிய துறைமுகம்"
+seoTitle: மலாக்கா சுல்தானகம்
 slug: "melaka-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

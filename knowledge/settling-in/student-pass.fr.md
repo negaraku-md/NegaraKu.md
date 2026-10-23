@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0019"
 title: "Le Student Pass : pourquoi c'est votre université qui dépose la demande auprès d'EMGS, pas vous"
+seoTitle: 'Le Student Pass : l''université dépose à EMGS, pas vous'
 slug: "student-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

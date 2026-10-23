@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0001
 title: "El Sultanato de Melaka: el puerto que construyó una civilización"
+seoTitle: El Sultanato de Melaka
 slug: "melaka-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

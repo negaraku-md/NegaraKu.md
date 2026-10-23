@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "மலேசியாவில் வீடு வாங்குதல்: முன்பதிவுக் கட்டணத்திற்கும் சாவிகளுக்கும் இடையில் உண்மையில் என்ன நடக்கிறது"
+seoTitle: மலேசியாவில் வீடு வாங்குதல்
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

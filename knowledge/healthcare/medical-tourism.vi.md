@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0050
 title: "Cơn bùng nổ du lịch y tế thầm lặng của Malaysia, và cơ quan đứng sau nó"
+seoTitle: Cơn bùng nổ du lịch y tế của Malaysia và cơ quan đứng sau
 slug: "medical-tourism"
 category: "healthcare"
 subcategory: ["specialised"]

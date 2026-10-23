@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "Les étrangers peuvent-ils acheter un bien immobilier en Malaisie ? Le prix plancher et le consentement de l'État expliqués"
+seoTitle: Les étrangers peuvent-ils acheter un bien en Malaisie ?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0023
 title: "Enregistrer un mariage civil en Malaisie : la procédure du JPN pour les non-musulmans"
+seoTitle: Enregistrer un mariage civil en Malaisie
 slug: "registering-a-marriage-civil"
 category: "settling-in"
 subcategory: ["documents"]

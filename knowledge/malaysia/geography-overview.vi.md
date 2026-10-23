@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0044
 title: "Núi non và gió mùa của Malaysia đã định hình nơi người Malaysia sinh sống như thế nào"
+seoTitle: 'Núi non và gió mùa: nơi người Malaysia sinh sống'
 slug: "geography-overview"
 category: "malaysia"
 subcategory: ["geography"]

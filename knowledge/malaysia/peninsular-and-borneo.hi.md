@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0042
 title: "मलेशिया में एक आंतरिक सीमा क्यों है, और यह वास्तव में क्या नियंत्रित करती है"
+seoTitle: मलेशिया में एक आंतरिक सीमा क्यों है
 slug: "peninsular-and-borneo"
 category: "malaysia"
 subcategory: ["country-basics"]

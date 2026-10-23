@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0031
 title: "มะห์กามะฮ์ (Mahkamah) — คำเรียกสถาบันตุลาการและสรุปลำดับชั้นในมาเลเซีย"
+seoTitle: มะห์กามะฮ์ (Mahkamah)
 slug: "mahkamah"
 category: "glossary"
 subcategory: ["legal"]

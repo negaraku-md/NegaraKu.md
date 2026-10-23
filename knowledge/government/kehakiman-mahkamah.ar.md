@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0015
 title: "التسلسل الهرمي للمحاكم الماليزية: خمسة مستويات، ومساران، وكيفية تعيين القضاة"
+seoTitle: التسلسل الهرمي للمحاكم الماليزية
 slug: "kehakiman-mahkamah"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "El EPF como inversor: cómo el fondo de jubilación de Malasia mueve RM1.4 billones en los mercados"
+seoTitle: El EPF como inversor
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

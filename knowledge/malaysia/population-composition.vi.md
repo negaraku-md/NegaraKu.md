@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0030"
 title: "Dân số Malaysia: Các nhóm công dân và sắc tộc mà DOSM thực sự công bố"
+seoTitle: 'Dân số Malaysia: Nhóm công dân và sắc tộc'
 slug: "population-composition"
 category: "malaysia"
 subcategory: ["demographics"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "மலேசியாவில் பொதுச் சட்டம்: Civil Law Act 1956 எவ்வாறு ஆங்கிலச் சட்டத்தை உள்வாங்கியது — பின் முடக்கியது"
+seoTitle: மலேசியாவில் பொதுச் சட்டம்
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

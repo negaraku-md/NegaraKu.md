@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "เหตุฉุกเฉินทางการแพทย์ในมาเลเซีย: วิธีโทร 999 รถพยาบาล และสิ่งที่เกิดขึ้นที่แผนกฉุกเฉิน"
+seoTitle: เหตุฉุกเฉินทางการแพทย์ในมาเลเซีย
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

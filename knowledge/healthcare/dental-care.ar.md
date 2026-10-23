@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "عيادة أسنان حكومية أم خاصة؟ فهم نظامَي رعاية الأسنان في ماليزيا"
+seoTitle: عيادة أسنان حكومية أم خاصة في ماليزيا؟
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

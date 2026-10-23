@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "Syariah — le droit islamique comme matière relevant des États dans le système juridique de la Malaisie"
+seoTitle: Syariah — le droit islamique, matière des États
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

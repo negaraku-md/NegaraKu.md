@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 والتسجيل التلقائي للناخبين: ما الذي غيّره القانون A1603"
+seoTitle: Undi18 والتسجيل التلقائي للناخبين
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

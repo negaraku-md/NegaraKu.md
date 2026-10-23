@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "Jalur Lebar Fibre Rumah di Malaysia: Unifi, Maxis, TIME dan Cara Sebenar untuk Memilih"
+seoTitle: Jalur Lebar Fibre Rumah di Malaysia
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

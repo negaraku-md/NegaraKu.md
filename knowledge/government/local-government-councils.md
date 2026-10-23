@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "Kerajaan Tempatan (PBT): Majlis Bandaraya, Perbandaran dan Daerah di Bawah Akta 171"
+seoTitle: Kerajaan Tempatan (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

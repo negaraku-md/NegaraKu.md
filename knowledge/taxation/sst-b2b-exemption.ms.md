@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0034
 title: "Pengecualian SST B2B dan Apa yang Perlu Dipaparkan pada Invois Anda"
+seoTitle: Pengecualian SST B2B dan Paparan Wajib pada Invois
 slug: "sst-b2b-exemption"
 category: "taxation"
 subcategory: ["sst"]

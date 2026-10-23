@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0068"
 title: "गंगा नेगारा: वह पेराक राज्य जो किंवदंती में नामित है, पुरातत्व से कभी पुष्ट नहीं"
+seoTitle: 'गंगा नेगारा: किंवदंती में नामित पेराक राज्य'
 slug: "gangga-negara"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

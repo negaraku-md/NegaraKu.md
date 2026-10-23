@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "การเลือกตั้งของมาเลเซียทำงานอย่างไร: หนึ่งเขต หนึ่งสมาชิก คะแนนสูงสุดชนะ"
+seoTitle: การเลือกตั้งของมาเลเซียทำงานอย่างไร
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "EPF ในฐานะนักลงทุน: กองทุนเกษียณของมาเลเซียเคลื่อน RM1.4 ล้านล้านในตลาดอย่างไร"
+seoTitle: 'EPF ในฐานะนักลงทุน: RM1.4 ล้านล้านในตลาด'
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

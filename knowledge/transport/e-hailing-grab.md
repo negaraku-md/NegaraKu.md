@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "Behind the App: How Grab and Malaysia's E-Hailing Trade Are Regulated"
+seoTitle: 'Grab and Malaysia''s E-Hailing: How It''s Regulated'
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

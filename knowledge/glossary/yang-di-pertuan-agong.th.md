@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0022
 title: "ยังดีเปอร์ตวนอากง (Yang di-Pertuan Agong) — ราชบัลลังก์ของสหพันธรัฐที่ได้รับเลือก ไม่ใช่สืบทอด"
+seoTitle: ยังดีเปอร์ตวนอากง (Yang di-Pertuan Agong)
 slug: "yang-di-pertuan-agong"
 category: "glossary"
 subcategory: ["government"]

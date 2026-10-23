@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "மலேசியாவில் வீட்டு ஃபைபர் பிராட்பேண்ட்: Unifi, Maxis, TIME மற்றும் உண்மையில் எப்படித் தேர்ந்தெடுப்பது"
+seoTitle: மலேசியாவில் வீட்டு ஃபைபர் பிராட்பேண்ட்
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

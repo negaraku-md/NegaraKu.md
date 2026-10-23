@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "How Malaysian Elections Work: One Seat, One Member, Most Votes Wins"
+seoTitle: How Malaysian Elections Work
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

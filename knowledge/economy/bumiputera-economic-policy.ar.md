@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "السياسة الاقتصادية للبوميبوترا: كيف يستمرّ هدف إعادة الهيكلة في السياسة الاقتصادية الجديدة حتى اليوم"
+seoTitle: السياسة الاقتصادية للبوميبوترا
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

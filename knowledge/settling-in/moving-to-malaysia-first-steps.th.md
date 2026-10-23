@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "การย้ายมามาเลเซีย: ลำดับในการจัดการใบอนุญาต การเข้า และงานธุรการสัปดาห์แรก"
+seoTitle: 'ย้ายมามาเลเซีย: ใบอนุญาต การเข้า และงานสัปดาห์แรก'
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

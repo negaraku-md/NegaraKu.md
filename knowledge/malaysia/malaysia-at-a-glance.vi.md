@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "Malaysia trong nháy mắt: Những con số đằng sau đất nước, có nguồn từng cái một"
+seoTitle: Malaysia trong nháy mắt
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

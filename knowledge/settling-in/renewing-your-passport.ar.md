@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "تجديد جواز السفر الماليزي: MyOnline Passport، أو كاونترات UTC، أو مكتب الهجرة"
+seoTitle: تجديد جواز السفر الماليزي
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

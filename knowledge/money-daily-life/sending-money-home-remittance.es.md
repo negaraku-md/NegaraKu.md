@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "Enviar dinero a casa desde Malasia: cómo distinguir un canal de remesas con licencia de uno ilegal"
+seoTitle: Enviar dinero a casa desde Malasia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

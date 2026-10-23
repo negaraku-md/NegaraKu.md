@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "Hari libur umum federal lawan hari libur negeri: mengapa daftar libur berbeda menurut negeri"
+seoTitle: Hari libur umum federal lawan hari libur negeri
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

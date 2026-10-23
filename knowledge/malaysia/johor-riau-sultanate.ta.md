@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0051
 title: "ஜொகூர்-ரியாவ் சுல்தானகம்: மலாக்கா அரியணை எப்படித் தெற்கே தொடர்ந்தது"
+seoTitle: ஜொகூர்-ரியாவ் சுல்தானகம்
 slug: "johor-riau-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

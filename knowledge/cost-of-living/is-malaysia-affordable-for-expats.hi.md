@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0081
 title: "क्या मलेशिया प्रवासियों के लिए किफ़ायती है? आधिकारिक आँकड़े वास्तव में क्या कहते हैं"
+seoTitle: क्या मलेशिया प्रवासियों के लिए किफ़ायती है?
 slug: "is-malaysia-affordable-for-expats"
 category: "cost-of-living"
 subcategory: ["overview"]

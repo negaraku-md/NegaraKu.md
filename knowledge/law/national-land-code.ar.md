@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "National Land Code 1965 — القانون الذي وضع اسمًا على كل سند ملكية في شبه جزيرة ماليزيا"
+seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

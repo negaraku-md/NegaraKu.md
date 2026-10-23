@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "Se déplacer entre les villes en Malaisie : trains, autobus et vols comparés"
+seoTitle: Se déplacer entre les villes en Malaisie
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

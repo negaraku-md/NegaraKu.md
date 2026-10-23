@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0021
 title: "Perkara 152: Enam Fasal yang Menentukan Bahasa Kebangsaan Malaysia"
+seoTitle: 'Perkara 152: Bahasa Kebangsaan Malaysia'
 slug: "article-152-language"
 category: "law"
 subcategory: ["constitutional"]

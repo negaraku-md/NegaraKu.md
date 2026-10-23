@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "Insurans Perubatan di Malaysia: Apa yang Sebenarnya Dibeli oleh Kad, dan Apa yang Tidak"
+seoTitle: Insurans Perubatan di Malaysia
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

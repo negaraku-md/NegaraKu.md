@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "ประมวลกฎหมายที่ดินแห่งชาติ 1965 — กฎหมายที่ใส่ชื่อบนทุกโฉนดในคาบสมุทรมาเลเซีย"
+seoTitle: ประมวลกฎหมายที่ดินแห่งชาติ 1965
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

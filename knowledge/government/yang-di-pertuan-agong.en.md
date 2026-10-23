@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0010
 title: "Yang di-Pertuan Agong: The Rotating King Elected Every Five Years"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "government"
 subcategory: ["institutions"]

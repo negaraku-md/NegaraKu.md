@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0064
 title: "Kereta Api dan Grab di Lembah Klang, Mobil di Tempat Lain: Bagaimana Malaysia Sebenarnya Bergerak"
+seoTitle: Kereta Api dan Grab di Lembah Klang, Mobil di Tempat Lain
 slug: "getting-around-malaysia"
 category: "transport"
 subcategory: ["public-transport"]

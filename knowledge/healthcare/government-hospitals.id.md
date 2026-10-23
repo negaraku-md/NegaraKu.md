@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "Rumah Sakit Pemerintah Malaysia: Cara Sistem Rujukan, Biaya Bersubsidi, dan Waktu Tunggu Sebenarnya Bekerja"
+seoTitle: Rumah Sakit Pemerintah Malaysia
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

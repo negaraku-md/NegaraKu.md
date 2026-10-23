@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0051
 title: "El sistema educativo de Malasia, de preescolar a la universidad"
+seoTitle: Sistema educativo de Malasia, de preescolar a universidad
 slug: "malaysian-education-system"
 category: "education"
 subcategory: ["overview"]

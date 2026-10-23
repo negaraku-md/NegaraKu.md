@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "ஒரு மலேசிய மாநில அரசு எவ்வாறு கட்டமைக்கப்பட்டுள்ளது: ஆட்சியாளர், நிர்வாகக் குழு, மற்றும் சட்டமன்றம்"
+seoTitle: ஒரு மலேசிய மாநில அரசு எவ்வாறு கட்டமைக்கப்பட்டுள்ளது
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

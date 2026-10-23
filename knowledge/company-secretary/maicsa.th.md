@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0014
 title: "MAICSA — สถาบันเลขานุการที่ได้รับใบอนุญาตแห่งมาเลเซีย (Chartered Secretaries Malaysia)"
+seoTitle: MAICSA — สถาบันเลขานุการที่ได้รับใบอนุญาตแห่งมาเลเซีย
 slug: "maicsa"
 category: "company-secretary"
 subcategory: ["appointment"]

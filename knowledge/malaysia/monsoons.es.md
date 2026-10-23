@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0045"
 title: "El monzón del noreste y el del suroeste: por qué la costa este se inunda cada año"
+seoTitle: El monzón del noreste y el del suroeste
 slug: "monsoons"
 category: "malaysia"
 subcategory: ["geography"]

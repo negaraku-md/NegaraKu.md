@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "แม่น้ำราจัง คินาบาตางัน และปาหัง: เส้นทางน้ำที่ก่อร่างมาเลเซีย"
+seoTitle: แม่น้ำราจัง คินาบาตางัน และปาหัง
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

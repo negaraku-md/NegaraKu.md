@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "Majority Confidence: The Constitutional Requirements for Appointing the Prime Minister and Cabinet"
+seoTitle: 'Majority Confidence: Appointing PM and Cabinet'
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

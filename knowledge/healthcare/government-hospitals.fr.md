@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "Les hôpitaux publics de Malaisie : comment fonctionnent réellement le système d'orientation, les frais subventionnés et les délais d'attente"
+seoTitle: Les hôpitaux publics de Malaisie
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

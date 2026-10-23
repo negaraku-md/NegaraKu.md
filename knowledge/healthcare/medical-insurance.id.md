@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "Asuransi Medis di Malaysia: Apa yang Sebenarnya Dibeli oleh Kartu, dan Apa yang Tidak"
+seoTitle: Asuransi Medis di Malaysia
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

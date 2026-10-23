@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0035
 title: "Ngân sách Malaysia 2027: Điều gì thay đổi với bạn, và khi nào có hiệu lực"
+seoTitle: Ngân sách Malaysia 2027
 slug: "malaysia-budget-2027"
 category: "economy"
 subcategory: ["policy"]

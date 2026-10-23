@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "Dewan Negara: المجلس الأعلى للبرلمان الذي لا يُنتخب في انتخابات عامة"
+seoTitle: 'Dewan Negara: المجلس الأعلى للبرلمان'
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

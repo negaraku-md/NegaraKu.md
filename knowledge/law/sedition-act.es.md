@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0050
 title: "La Ley de Sedición de 1948: qué define el derecho malasio como tendencia sediciosa"
+seoTitle: La Ley de Sedición de 1948
 slug: "sedition-act"
 category: "law"
 subcategory: ["key-acts"]

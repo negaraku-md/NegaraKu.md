@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "Behind the Pharmacy Counter: Prescriptions, Over-the-Counter Medicine and Controlled Drugs in Malaysia"
+seoTitle: Behind the Pharmacy Counter
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

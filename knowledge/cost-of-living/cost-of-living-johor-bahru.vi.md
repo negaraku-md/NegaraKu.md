@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0079
 title: "Chi phí sinh hoạt của Johor Bahru: Định giá bằng ringgit, bị kéo bởi đô la Singapore"
+seoTitle: Chi phí sinh hoạt của Johor Bahru
 slug: "cost-of-living-johor-bahru"
 category: "cost-of-living"
 subcategory: ["by-city"]

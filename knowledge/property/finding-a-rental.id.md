@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "Mencari Rumah Sewa di Malaysia: Portal, Negosiator Properti dan Tag REN yang Tidak Ada yang Memeriksa"
+seoTitle: Mencari Rumah Sewa di Malaysia
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

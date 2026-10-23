@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "Kitaran Belanjawan Persekutuan: Bagaimana Sebuah Ucapan Menjadi Akta Perbekalan"
+seoTitle: Kitaran Belanjawan Persekutuan
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

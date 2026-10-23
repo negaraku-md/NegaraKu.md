@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0021"
 title: "Tahun Baharu Cina di Malaysia: Makna Disebalik Makan Malam Perhimpunan Keluarga, Angpau dan Tarian Singa"
+seoTitle: Tahun Baharu Cina di Malaysia
 slug: "chinese-new-year"
 category: "arts-culture"
 subcategory: ["festivals"]

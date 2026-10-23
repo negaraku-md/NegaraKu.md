@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0033
 title: "फ्रीहोल्ड, लीज़होल्ड, स्ट्रैटा, लैंडेड: मलेशियाई सनद पर वे चार शब्द जो तय करते हैं कि आप असल में किसके मालिक हैं"
+seoTitle: फ्रीहोल्ड, लीज़होल्ड, स्ट्रैटा, लैंडेड
 slug: "freehold-leasehold-strata-landed"
 category: "property"
 subcategory: ["home-ownership"]

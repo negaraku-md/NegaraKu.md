@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "मलेशिया में कॉन्डो जीवन: आपकी रखरखाव फ़ीस का एक भाई-बंधु क्यों है, जिसका नाम सिंकिंग फ़ंड है"
+seoTitle: मलेशिया में कॉन्डो जीवन
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

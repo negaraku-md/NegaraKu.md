@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "Derrière le comptoir de la pharmacie : ordonnances, médicaments en vente libre et substances contrôlées en Malaisie"
+seoTitle: Derrière le comptoir de la pharmacie
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0040
 title: "JAKIM: الهيئة الاتحادية التي تنسّق الشؤون الإسلامية دون أن تَجُبّ السلطة الدينية للولايات"
+seoTitle: 'JAKIM: الهيئة الاتحادية لتنسيق الشؤون الإسلامية'
 slug: "jakim"
 category: "government"
 subcategory: ["agencies"]

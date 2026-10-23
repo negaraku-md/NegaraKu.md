@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0041
 title: "Joget dan Zapin: Dua Tarian Melayu, Dua Asal Usul yang Berbeda"
+seoTitle: 'Joget dan Zapin: Dua Tarian Melayu'
 slug: "joget-and-zapin"
 category: "arts-culture"
 subcategory: ["performing-arts"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "การส่งเงินกลับบ้านจากมาเลเซีย: วิธีแยกช่องทางโอนเงินที่ได้รับใบอนุญาตออกจากช่องทางผิดกฎหมาย"
+seoTitle: การส่งเงินกลับบ้านจากมาเลเซีย
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

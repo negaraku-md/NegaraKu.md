@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0078
 title: "تكلفة المعيشة في بينانغ تنقسم عند المضيق: الجزيرة مقابل البرّ الرئيسي"
+seoTitle: تكلفة المعيشة في بينانغ تنقسم عند المضيق
 slug: "cost-of-living-penang"
 category: "cost-of-living"
 subcategory: ["by-city"]

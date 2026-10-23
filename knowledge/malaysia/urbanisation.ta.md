@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "ஒரே தலைமுறையில் மலேசியா ஏன் பெரும்பான்மை நகர்ப்புற நாடாக மாறியது"
+seoTitle: மலேசியா ஏன் பெரும்பான்மை நகர்ப்புற நாடானது
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

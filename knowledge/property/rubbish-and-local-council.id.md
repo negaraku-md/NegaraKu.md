@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "Sampah, Daur Ulang dan Majelis Setempat: Mengapa Sebagian Negeri Wajib Memilah Limbah, yang Lain Tidak"
+seoTitle: Sampah, Daur Ulang dan Majelis Setempat
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

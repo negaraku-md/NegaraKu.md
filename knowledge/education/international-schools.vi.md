@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "Trường quốc tế tại Malaysia: Các chương trình học, các quy tắc đằng sau chúng, và vì sao học phí chênh lệch quá lớn"
+seoTitle: Trường quốc tế tại Malaysia
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0060"
 title: "Du học tại Malaysia với tư cách sinh viên quốc tế: Chọn cơ sở và được nhận vào"
+seoTitle: Du học tại Malaysia với tư cách sinh viên quốc tế
 slug: "international-students-studying-in-malaysia"
 category: "education"
 subcategory: ["tertiary"]

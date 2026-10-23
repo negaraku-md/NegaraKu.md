@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "Klinik Kesihatan: Cara Sistem Penjagaan Primer Kerajaan Malaysia Sebenarnya Berfungsi"
+seoTitle: 'Klinik Kesihatan: Penjagaan Primer Kerajaan Malaysia'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

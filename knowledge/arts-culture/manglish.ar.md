@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "المانغليش (Manglish): القواعد والجُسيمات والكلمات الدخيلة وراء الإنجليزية اليومية في ماليزيا"
+seoTitle: المانغليش (Manglish)
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

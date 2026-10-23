@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "Bumiputera Economic Policy: How the NEP's Restructuring Goal Continues Today"
+seoTitle: Bumiputera Economic Policy
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

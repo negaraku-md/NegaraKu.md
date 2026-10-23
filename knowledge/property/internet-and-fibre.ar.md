@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "النطاق العريض بالألياف المنزلي في ماليزيا: Unifi وMaxis وTIME وكيف تختار فعلًا"
+seoTitle: النطاق العريض بالألياف المنزلي في ماليزيا
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

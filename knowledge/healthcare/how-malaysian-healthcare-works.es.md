@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "Cómo funciona realmente la sanidad malasia: la división público-privada y quién paga qué"
+seoTitle: Cómo funciona realmente la sanidad malasia
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

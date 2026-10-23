@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "Kenapa Anda Boleh Dihalau Balik di Kota Kinabalu: Perlindungan Perlembagaan untuk Sabah dan Sarawak"
+seoTitle: Kenapa Anda Boleh Dihalau Balik di Kota Kinabalu
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0008
 title: "மின்னணுவியல் மற்றும் குறைக்கடத்திகள்: மலேசியாவின் ஏற்றுமதியைத் தாங்கிப்பிடிக்கும் துறை"
+seoTitle: மின்னணுவியல் மற்றும் குறைக்கடத்திகள்
 slug: "electronics-semiconductors"
 category: "economy"
 subcategory: ["sectors"]

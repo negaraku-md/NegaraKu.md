@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "Ngành cao su của Malaysia: Một loại cây trồng đang thu hẹp nuôi một ngành găng tay toàn cầu"
+seoTitle: Ngành cao su của Malaysia
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

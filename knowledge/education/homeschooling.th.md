@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0061
 title: "การเรียนที่บ้าน (Homeschooling) ในมาเลเซีย: ถูกกฎหมาย แต่ต้องผ่านการยกเว้นโดยรัฐมนตรีเท่านั้น"
+seoTitle: การเรียนที่บ้าน (Homeschooling) ในมาเลเซีย
 slug: "homeschooling"
 category: "education"
 subcategory: ["support"]

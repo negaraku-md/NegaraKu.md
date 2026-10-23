@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "Siapa Menyusun Undang-Undang Mengenai Apa: Daftar Persekutuan, Negeri dan Bersama dalam Jadwal Kesembilan"
+seoTitle: Siapa Menyusun Undang-Undang Mengenai Apa
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

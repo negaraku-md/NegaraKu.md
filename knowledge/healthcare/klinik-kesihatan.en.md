@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0043"
 title: "Klinik Kesihatan: How Malaysia's Government Primary Care System Actually Works"
+seoTitle: 'Klinik Kesihatan: Malaysia''s Government Primary Care'
 slug: "klinik-kesihatan"
 category: "healthcare"
 subcategory: ["using-the-system"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0076
 title: "மலேசியாவின் வீட்டு ரிங்கிட் ஒவ்வொரு மாதமும் உண்மையில் எங்கே செல்கிறது"
+seoTitle: மலேசிய வீட்டு ரிங்கிட் எங்கே செல்கிறது
 slug: "household-spending-breakdown"
 category: "cost-of-living"
 subcategory: ["overview"]

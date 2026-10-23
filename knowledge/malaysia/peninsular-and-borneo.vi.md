@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0042
 title: "Vì sao Malaysia có một đường biên nội bộ, và nó thực sự kiểm soát điều gì"
+seoTitle: Vì sao Malaysia có một đường biên nội bộ
 slug: "peninsular-and-borneo"
 category: "malaysia"
 subcategory: ["country-basics"]

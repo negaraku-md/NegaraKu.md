@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0045"
 title: "The Northeast and Southwest Monsoons: Why the East Coast Floods Every Year"
+seoTitle: The Northeast and Southwest Monsoons
 slug: "monsoons"
 category: "malaysia"
 subcategory: ["geography"]

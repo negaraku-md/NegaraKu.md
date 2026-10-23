@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0047"
 title: "बुजांग घाटी: प्राचीन मंदिर और पुराने केदाह की सभ्यता के प्रमाण"
+seoTitle: 'बुजांग घाटी: प्राचीन मंदिर और पुराना केदाह'
 slug: "bujang-valley"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

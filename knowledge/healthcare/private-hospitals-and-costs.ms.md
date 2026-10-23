@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "Dua Bil untuk Satu Penginapan: Cara Sebenar Hospital Swasta di Malaysia Mengenakan Caj"
+seoTitle: Dua Bil untuk Satu Penginapan
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

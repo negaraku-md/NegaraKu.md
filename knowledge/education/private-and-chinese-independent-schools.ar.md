@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "المدارس الخاصة والمدارس الثانوية الصينية المستقلة: المسار بين الوطني والدولي"
+seoTitle: المدارس الخاصة والمدارس الثانوية الصينية المستقلة
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

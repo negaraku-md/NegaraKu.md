@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "التأمين الطبي في ماليزيا: ما الذي تشتريه لك البطاقة فعلاً، وما الذي لا تشتريه"
+seoTitle: التأمين الطبي في ماليزيا
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

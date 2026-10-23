@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "Malaysian Immigration Department: the department that decides who enters, who stays, who leaves"
+seoTitle: Malaysian Immigration Department
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

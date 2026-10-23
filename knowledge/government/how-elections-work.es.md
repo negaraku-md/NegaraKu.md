@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "Cómo funcionan las elecciones en Malasia: un escaño, un miembro, gana quien más votos obtiene"
+seoTitle: Cómo funcionan las elecciones en Malasia
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

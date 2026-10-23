@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "Tìm trợ giúp sức khỏe tâm thần ở đâu tại Malaysia: Chăm sóc công, lựa chọn tư nhân và đường dây khủng hoảng"
+seoTitle: Tìm trợ giúp sức khỏe tâm thần ở đâu tại Malaysia
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "Mengubah Konstitusi Federal: Empat Jalur yang Ditetapkan oleh Pasal 159"
+seoTitle: Mengubah Konstitusi Federal
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

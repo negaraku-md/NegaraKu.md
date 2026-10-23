@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0060
 title: "Các nguồn của pháp luật Malaysia: Năm dòng chảy, một trật tự ưu tiên"
+seoTitle: Các nguồn của pháp luật Malaysia
 slug: "sources-of-malaysian-law"
 category: "law"
 subcategory: ["legal-system"]

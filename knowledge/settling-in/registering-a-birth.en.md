@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0022"
 title: "Registering Your Child's Birth: How the JPN Process and Birth Certificate Actually Work"
+seoTitle: Registering Your Child's Birth
 slug: "registering-a-birth"
 category: "settling-in"
 subcategory: ["documents"]

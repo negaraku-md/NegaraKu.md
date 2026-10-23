@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "อุตสาหกรรมยางพาราของมาเลเซีย: พืชผลที่หดตัวซึ่งหล่อเลี้ยงธุรกิจถุงมือระดับโลก"
+seoTitle: อุตสาหกรรมยางพาราของมาเลเซีย
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

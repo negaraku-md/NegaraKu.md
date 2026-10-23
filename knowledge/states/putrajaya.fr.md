@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0014
 title: "Putrajaya : le centre administratif fédéral qui n'est pas un État"
+seoTitle: 'Putrajaya : centre administratif fédéral, pas un État'
 slug: "putrajaya"
 category: "states"
 subcategory: ["territories"]

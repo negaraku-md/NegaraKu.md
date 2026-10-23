@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "สินค้าของคุณเสียและร้านค้าไม่ยอมคืนเงิน: วิธีเอาเงินคืนอย่างได้ผลจริง"
+seoTitle: สินค้าของคุณเสียและร้านค้าไม่ยอมคืนเงิน
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

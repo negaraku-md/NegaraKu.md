@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0004
 title: "Tỷ lệ thất nghiệp của Malaysia và lực lượng lao động đằng sau nó"
+seoTitle: Tỷ lệ thất nghiệp và lực lượng lao động Malaysia
 slug: "unemployment-labour-force"
 category: "economy"
 subcategory: ["indicators"]

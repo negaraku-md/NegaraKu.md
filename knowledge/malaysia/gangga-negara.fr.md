@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0068"
 title: "Gangga Negara : le royaume de Perak nommé dans la légende, jamais confirmé par l'archéologie"
+seoTitle: 'Gangga Negara : le royaume de Perak de la légende'
 slug: "gangga-negara"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

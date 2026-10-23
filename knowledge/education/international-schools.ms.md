@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "Sekolah Antarabangsa di Malaysia: Kurikulum, Peraturan di Sebaliknya, dan Kenapa Yuran Berbeza-beza dengan Begitu Ketara"
+seoTitle: Sekolah Antarabangsa di Malaysia
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

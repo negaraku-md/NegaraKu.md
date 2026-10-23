@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0002
 title: "Thẻ Touch 'n Go, thẻ NFC và eWallet: Ba tên gọi, ba công dụng khác nhau"
+seoTitle: Thẻ Touch 'n Go, thẻ NFC và eWallet
 slug: "touch-n-go"
 category: "transport"
 subcategory: ["public-transport"]

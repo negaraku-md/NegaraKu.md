@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — la Commission anticorruption de Malaisie et ses cinq organes de supervision"
+seoTitle: MACC — Commission anticorruption de Malaisie
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

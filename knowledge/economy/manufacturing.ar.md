@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "قطاع التصنيع في ماليزيا: ينمو كل عام، لكنه عالق عند الحصة نفسها من الناتج المحلي الإجمالي"
+seoTitle: قطاع التصنيع في ماليزيا
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

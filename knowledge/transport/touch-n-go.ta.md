@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0002
 title: "Touch 'n Go அட்டை, NFC அட்டை மற்றும் eWallet: மூன்று பெயர்கள், மூன்று வெவ்வேறு பயன்பாடுகள்"
+seoTitle: Touch 'n Go அட்டை, NFC அட்டை மற்றும் eWallet
 slug: "touch-n-go"
 category: "transport"
 subcategory: ["public-transport"]

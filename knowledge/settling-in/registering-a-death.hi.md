@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0024
 title: "मलेशिया में मृत्यु पंजीकृत करना: JPN प्रक्रिया, मृत्यु प्रमाणपत्र और आगे जो आता है"
+seoTitle: मलेशिया में मृत्यु पंजीकृत करना
 slug: "registering-a-death"
 category: "settling-in"
 subcategory: ["documents"]

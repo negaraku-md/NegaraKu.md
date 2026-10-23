@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "วันหยุดราชการระดับสหพันธ์เทียบกับวันหยุดของรัฐ: ทำไมรายการวันหยุดจึงต่างกันตามรัฐ"
+seoTitle: วันหยุดราชการระดับสหพันธ์เทียบกับวันหยุดของรัฐ
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

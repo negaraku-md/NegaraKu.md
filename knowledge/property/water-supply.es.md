@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "El suministro de agua en Malasia: por qué tratas con una empresa estatal de agua, no con el gobierno federal"
+seoTitle: El suministro de agua en Malasia
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "Bagaimana Pemilihan Umum Malaysia Berfungsi: Satu Kursi, Satu Anggota, Suara Terbanyak Menang"
+seoTitle: Bagaimana Pemilihan Umum Malaysia Berfungsi
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

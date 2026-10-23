@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "Adat Perpatih dan Adat Temenggung: dua sistem undang-undang tradisional Melayu"
+seoTitle: Adat Perpatih dan Adat Temenggung
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

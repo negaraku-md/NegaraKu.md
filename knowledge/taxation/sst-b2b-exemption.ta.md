@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0034
 title: "SST இன் B2B விலக்கு, மற்றும் உங்கள் விலைப்பட்டியலில் கண்டிப்பாகக் காட்ட வேண்டியவை"
+seoTitle: SST B2B விலக்கு மற்றும் விலைப்பட்டியலில் காட்ட வேண்டியவை
 slug: "sst-b2b-exemption"
 category: "taxation"
 subcategory: ["sst"]

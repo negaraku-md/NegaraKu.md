@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GLO-0026"
 title: "เมอร์เดกา (Merdeka): ความหมายของคำเบื้องหลังเสียงตะโกนแห่งชาติ"
+seoTitle: 'เมอร์เดกา (Merdeka): ความหมายเบื้องหลังเสียงตะโกนแห่งชาติ'
 slug: "merdeka"
 category: "glossary"
 subcategory: ["culture"]

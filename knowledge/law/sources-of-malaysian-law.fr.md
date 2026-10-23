@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0060
 title: "Les sources du droit malaisien : cinq courants, un ordre de préséance"
+seoTitle: Les sources du droit malaisien
 slug: "sources-of-malaysian-law"
 category: "law"
 subcategory: ["legal-system"]

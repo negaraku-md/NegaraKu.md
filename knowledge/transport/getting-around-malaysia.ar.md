@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0064
 title: "القطار وGrab في وادي كلانغ، والسيارة في كل مكان آخر: كيف يتنقّل الماليزيون فعلًا"
+seoTitle: القطار وGrab في وادي كلانغ، والسيارة في كل مكان آخر
 slug: "getting-around-malaysia"
 category: "transport"
 subcategory: ["public-transport"]

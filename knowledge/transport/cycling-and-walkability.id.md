@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0068
 title: "Mengapa Berjalan Kaki dan Bersepeda di Kota Malaysia Masih Menjadi Perjuangan Berat"
+seoTitle: Berjalan Kaki dan Bersepeda di Kota Malaysia
 slug: "cycling-and-walkability"
 category: "transport"
 subcategory: ["public-transport"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0060
 title: "คณะกรรมาธิการรีด: นักกฎหมายเครือจักรภพห้าคนร่างรัฐธรรมนูญของมลายาอย่างไร"
+seoTitle: คณะกรรมาธิการรีดกับรัฐธรรมนูญของมลายา
 slug: "reid-commission"
 category: "malaysia"
 subcategory: ["independence"]

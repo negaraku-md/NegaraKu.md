@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0079
 title: "ค่าครองชีพของยะโฮร์บาห์รู: ตั้งราคาเป็นริงกิต แต่ถูกดึงโดยดอลลาร์สิงคโปร์"
+seoTitle: ค่าครองชีพของยะโฮร์บาห์รู
 slug: "cost-of-living-johor-bahru"
 category: "cost-of-living"
 subcategory: ["by-city"]

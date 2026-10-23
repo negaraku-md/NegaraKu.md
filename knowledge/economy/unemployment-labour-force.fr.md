@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0004
 title: "Le taux de chômage de la Malaisie et la population active qui le sous-tend"
+seoTitle: Le taux de chômage et la population active de la Malaisie
 slug: "unemployment-labour-force"
 category: "economy"
 subcategory: ["indicators"]

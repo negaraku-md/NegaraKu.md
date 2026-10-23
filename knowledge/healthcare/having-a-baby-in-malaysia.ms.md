@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "Melahirkan Anak di Malaysia: Buku Pink, Lawatan Klinik, dan Apa Berlaku Selepas Bersalin"
+seoTitle: Melahirkan Anak di Malaysia
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

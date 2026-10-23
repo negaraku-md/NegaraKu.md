@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "기본적 자유: 연방헌법(Federal Constitution) 제5조부터 제13조까지, 그리고 각 조에 내장된 한계"
+seoTitle: '기본적 자유: 연방헌법 제5조부터 제13조까지'
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

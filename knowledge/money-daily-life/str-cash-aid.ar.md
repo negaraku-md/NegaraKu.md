@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0089
 title: "المساهمة النقدية رحمة (Sumbangan Tunai Rahmah, STR): من المؤهّل، والطريقة الفعلية للتقديم أو التحقق"
+seoTitle: المساهمة النقدية رحمة (Sumbangan Tunai Rahmah, STR)
 slug: "str-cash-aid"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

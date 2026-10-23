@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0035
 title: "Budget 2027 Malaysia: Apa yang Berubah untuk Anda, dan Kapan Berlakunya"
+seoTitle: Budget 2027 Malaysia
 slug: "malaysia-budget-2027"
 category: "economy"
 subcategory: ["policy"]

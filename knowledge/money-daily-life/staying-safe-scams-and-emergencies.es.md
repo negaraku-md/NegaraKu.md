@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0073"
 title: "999, 997 y la primera hora tras darte cuenta de que te han estafado"
+seoTitle: 999, 997 y la primera hora tras una estafa
 slug: "staying-safe-scams-and-emergencies"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

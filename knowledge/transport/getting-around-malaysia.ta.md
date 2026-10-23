@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0064
 title: "கிள்ளான் பள்ளத்தாக்கில் ரயிலும் Grab-உம், மற்ற எல்லா இடங்களிலும் கார்: மலேசியர்கள் உண்மையில் எப்படிப் பயணிக்கிறார்கள்"
+seoTitle: கிள்ளான் பள்ளத்தாக்கில் ரயில்/Grab, பிற இடங்களில் கார்
 slug: "getting-around-malaysia"
 category: "transport"
 subcategory: ["public-transport"]

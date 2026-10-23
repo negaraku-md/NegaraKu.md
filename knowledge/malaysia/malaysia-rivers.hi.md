@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "राजंग, किनाबातांगान और पहांग: वे जलमार्ग जिन्होंने मलेशिया को आकार दिया"
+seoTitle: राजंग, किनाबातांगान और पहांग
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "Libertés fondamentales : les articles 5 à 13 de la Constitution fédérale et les limites intégrées à chacun"
+seoTitle: Libertés fondamentales
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

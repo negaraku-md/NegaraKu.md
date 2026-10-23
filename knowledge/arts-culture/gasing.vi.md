@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "Gasing: con quay gỗ trở thành phép thử sức mạnh và độ bền ở Bờ Đông"
+seoTitle: Gasing
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

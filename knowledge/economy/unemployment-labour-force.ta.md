@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0004
 title: "மலேசியாவின் வேலையின்மை விகிதமும் அதற்குப் பின்னாலுள்ள தொழிலாளர் சக்தியும்"
+seoTitle: மலேசியாவின் வேலையின்மை விகிதமும் தொழிலாளர் சக்தியும்
 slug: "unemployment-labour-force"
 category: "economy"
 subcategory: ["indicators"]

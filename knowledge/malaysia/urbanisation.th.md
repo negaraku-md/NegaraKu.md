@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0033
 title: "เหตุใดมาเลเซียกลายเป็นประเทศที่มีคนเมืองเป็นส่วนใหญ่ในหนึ่งชั่วอายุคน"
+seoTitle: เหตุใดมาเลเซียกลายเป็นประเทศคนเมืองส่วนใหญ่
 slug: "urbanisation"
 category: "malaysia"
 subcategory: ["demographics"]

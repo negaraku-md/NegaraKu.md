@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0032"
 title: "شراء منزل في ماليزيا: ما يحدث فعلاً بين رسم الحجز وتسلّم المفاتيح"
+seoTitle: شراء منزل في ماليزيا
 slug: "buying-a-home-process"
 category: "property"
 subcategory: ["buying"]

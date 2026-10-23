@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "نهر راجانغ وكيناباتانغان وباهانغ: المجاري المائية التي شكّلت ماليزيا"
+seoTitle: نهر راجانغ وكيناباتانغان وباهانغ
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

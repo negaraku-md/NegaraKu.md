@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0020
 title: "हरि राया आइदिलफित्री: रमज़ान के अंत का प्रतीक, और घर वापसी का उत्सव"
+seoTitle: हरि राया आइदिलफित्री
 slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]

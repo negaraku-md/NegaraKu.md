@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "Dewan Negara: Thượng viện của Nghị viện Không Qua Tổng Tuyển cử"
+seoTitle: 'Dewan Negara: Thượng viện của Nghị viện'
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

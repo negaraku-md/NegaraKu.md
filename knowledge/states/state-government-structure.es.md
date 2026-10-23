@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "Cómo se estructura el gobierno de un estado malasio: el Soberano, el Consejo Ejecutivo y la Asamblea"
+seoTitle: Cómo se estructura el gobierno de un estado malasio
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

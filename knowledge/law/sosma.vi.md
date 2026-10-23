@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (Act 747): Các thủ tục đặc biệt Malaysia dùng cho tội danh an ninh"
+seoTitle: 'SOSMA (Act 747): thủ tục đặc biệt cho tội an ninh'
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

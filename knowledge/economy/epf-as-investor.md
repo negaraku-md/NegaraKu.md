@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "The EPF as Investor: How Malaysia's Retirement Fund Moves RM1.4 Trillion in Markets"
+seoTitle: 'The EPF as Investor: RM1.4 Trillion in Markets'
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

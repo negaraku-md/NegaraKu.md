@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0060
 title: "La Comisión Reid: cómo cinco juristas de la Commonwealth redactaron la Constitución de Malaya"
+seoTitle: La Comisión Reid y la Constitución de Malaya
 slug: "reid-commission"
 category: "malaysia"
 subcategory: ["independence"]

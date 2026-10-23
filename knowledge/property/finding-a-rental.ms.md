@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0030
 title: "Mencari Sewaan di Malaysia: Portal, Perunding Hartanah dan Tag REN yang Tiada Siapa Semak"
+seoTitle: Mencari Sewaan di Malaysia
 slug: "finding-a-rental"
 category: "property"
 subcategory: ["renting"]

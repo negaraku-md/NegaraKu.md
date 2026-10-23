@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0018
 title: "Jabatan Imigresen Malaysia: lembaga yang menentukan siapa masuk, siapa tinggal, siapa keluar"
+seoTitle: Jabatan Imigresen Malaysia
 slug: "imigresen"
 category: "government"
 subcategory: ["agencies"]

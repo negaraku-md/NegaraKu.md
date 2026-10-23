@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "L, P, CDL Licences: How Malaysia's JPJ Driving Licence Process Actually Works"
+seoTitle: 'L, P, CDL Licences: How Malaysia''s JPJ Process Works'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

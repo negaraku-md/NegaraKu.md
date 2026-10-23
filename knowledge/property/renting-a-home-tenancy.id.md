@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "Menyewa di Malaysia Tidak Ada Undang-Undang Sewa — Jadi Perjanjian yang Anda Tanda Tangani Itulah Hukumnya"
+seoTitle: Menyewa di Malaysia Tidak Ada Undang-Undang Sewa
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

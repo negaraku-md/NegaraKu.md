@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "โรงเรียนนานาชาติในมาเลเซีย: หลักสูตร กฎเกณฑ์เบื้องหลัง และเหตุใดค่าเล่าเรียนจึงต่างกันมาก"
+seoTitle: โรงเรียนนานาชาติในมาเลเซีย
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

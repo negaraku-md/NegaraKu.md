@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "Konfrontasi : la guerre non déclarée qui a accueilli la naissance de la Malaisie"
+seoTitle: 'Konfrontasi : la guerre non déclarée de la Malaisie'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

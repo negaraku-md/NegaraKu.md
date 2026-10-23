@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0050"
 title: "Los tres niveles de gobierno de Malasia — y el que los malasios no eligen"
+seoTitle: Los tres niveles de gobierno de Malasia
 slug: "three-tiers-of-government"
 category: "government"
 subcategory: ["institutions"]

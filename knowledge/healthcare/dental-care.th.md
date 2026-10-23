@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "คลินิกทันตกรรมรัฐหรือเอกชน? ทำความเข้าใจสองระบบการดูแลทันตสุขภาพของมาเลเซีย"
+seoTitle: คลินิกทันตกรรมรัฐหรือเอกชนในมาเลเซีย?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

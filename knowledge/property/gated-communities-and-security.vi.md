@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0041
 title: "Khu dân cư có cổng và khu phố có bảo vệ ở Malaysia: Ranh giới pháp lý nằm ở đâu"
+seoTitle: Khu dân cư có cổng và khu phố có bảo vệ ở Malaysia
 slug: "gated-communities-and-security"
 category: "property"
 subcategory: ["community"]

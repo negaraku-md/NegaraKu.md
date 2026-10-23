@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0011"
 title: "Comprar una SIM de móvil en Malasia: prepago, pospago y el paso de registro que no puede saltarse"
+seoTitle: Comprar una SIM de móvil en Malasia
 slug: "mobile-sim-plans"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

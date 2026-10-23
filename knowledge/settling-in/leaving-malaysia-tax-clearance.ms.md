@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0028
 title: "Sebelum Meninggalkan Malaysia: Surat Penyelesaian Cukai yang Perlu Difailkan Dahulu oleh Majikan Anda"
+seoTitle: Sebelum Meninggalkan Malaysia
 slug: "leaving-malaysia-tax-clearance"
 category: "settling-in"
 subcategory: ["overview"]

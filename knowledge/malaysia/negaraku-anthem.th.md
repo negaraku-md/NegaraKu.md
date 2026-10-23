@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0017
 title: "เนอการากู: เพลงประจำรัฐเประกลายเป็นเพลงชาติของมาเลเซียได้อย่างไร"
+seoTitle: 'เนอการากู: จากเพลงรัฐเประสู่เพลงชาติมาเลเซีย'
 slug: "negaraku-anthem"
 category: "malaysia"
 subcategory: ["identity"]

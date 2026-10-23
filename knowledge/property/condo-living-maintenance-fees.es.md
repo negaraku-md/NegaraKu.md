@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "Vivir en condominio en Malasia: por qué tu cuota de mantenimiento tiene una hermana llamada fondo de reserva"
+seoTitle: Vivir en condominio en Malasia
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

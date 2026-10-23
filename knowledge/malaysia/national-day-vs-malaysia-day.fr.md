@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "Pourquoi la Malaisie commémore deux journées d'importance nationale : le 31 août et le 16 septembre"
+seoTitle: 'Deux journées nationales : 31 août et 16 septembre'
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

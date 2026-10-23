@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "Di Balik Aplikasi: Bagaimana Grab dan Bisnis E-Hailing Malaysia Diatur"
+seoTitle: 'Grab dan E-Hailing Malaysia: Bagaimana Diatur'
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

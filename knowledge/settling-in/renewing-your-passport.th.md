@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0025
 title: "การต่ออายุหนังสือเดินทางมาเลเซีย: MyOnline Passport เคาน์เตอร์ UTC หรือสำนักงานตรวจคนเข้าเมือง"
+seoTitle: การต่ออายุหนังสือเดินทางมาเลเซีย
 slug: "renewing-your-passport"
 category: "settling-in"
 subcategory: ["documents"]

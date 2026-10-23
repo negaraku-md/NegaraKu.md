@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0017
 title: "نيغاراكو: كيف صار النشيد الرسمي لولاية بيراك النشيد الوطني لماليزيا"
+seoTitle: 'نيغاراكو: من نشيد ولاية بيراك إلى نشيد ماليزيا الوطني'
 slug: "negaraku-anthem"
 category: "malaysia"
 subcategory: ["identity"]

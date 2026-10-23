@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "मलेशिया में विवाह: प्रक्रिया धर्म के अनुसार क्यों बँटती है, पसंद के अनुसार नहीं"
+seoTitle: 'मलेशिया में विवाह: प्रक्रिया धर्म से क्यों बँटती है'
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

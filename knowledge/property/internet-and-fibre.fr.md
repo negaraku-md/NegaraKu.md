@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0037"
 title: "Le haut débit par fibre à domicile en Malaisie : Unifi, Maxis, TIME et comment vraiment choisir"
+seoTitle: Le haut débit par fibre à domicile en Malaisie
 slug: "internet-and-fibre"
 category: "property"
 subcategory: ["utilities"]

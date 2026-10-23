@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0088
 title: "Menikah di Malaysia: Mengapa Prosesnya Berbeda Menurut Agama, Bukan Pilihan"
+seoTitle: 'Menikah di Malaysia: Prosesnya Berbeda Menurut Agama'
 slug: "getting-married-in-malaysia"
 category: "settling-in"
 subcategory: ["documents"]

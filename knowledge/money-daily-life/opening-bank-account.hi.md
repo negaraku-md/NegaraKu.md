@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "मलेशिया में बैंक खाता खोलना: नागरिकों को क्या चाहिए, विदेशियों को क्या चाहिए, और पर्यटक वीज़ा से आपको क्या नहीं मिलेगा"
+seoTitle: मलेशिया में बैंक खाता खोलना
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

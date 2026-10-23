@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "Asuransi Kendaraan di Malaysia: Mengapa Pihak Ketiga Diwajibkan dan Bagaimana Ia Berkait dengan Pajak Jalan"
+seoTitle: Asuransi Kendaraan di Malaysia
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

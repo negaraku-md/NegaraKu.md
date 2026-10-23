@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "Chính quyền địa phương (PBT): Hội đồng Thành phố, Đô thị và Quận theo Act 171"
+seoTitle: Chính quyền địa phương (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

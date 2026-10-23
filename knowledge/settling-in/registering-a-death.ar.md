@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0024
 title: "تسجيل وفاة في ماليزيا: عملية JPN وشهادة الوفاة وما يأتي بعدها"
+seoTitle: تسجيل وفاة في ماليزيا
 slug: "registering-a-death"
 category: "settling-in"
 subcategory: ["documents"]

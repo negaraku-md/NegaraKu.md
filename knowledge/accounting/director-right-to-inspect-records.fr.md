@@ -1,6 +1,7 @@
 ---
 topicId: MY-ACC-0026
 title: "Le droit d'un administrateur de consulter les registres comptables"
+seoTitle: Droit de l'administrateur aux registres comptables
 slug: "director-right-to-inspect-records"
 category: "accounting"
 subcategory: ["records"]

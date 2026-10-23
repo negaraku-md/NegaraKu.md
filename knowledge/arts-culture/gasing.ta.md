@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0044"
 title: "Gasing: கிழக்குக் கடற்கரையில் வலிமை மற்றும் விடாமுயற்சிச் சோதனையாக மாறிய சுழலும் மரப்பம்பரம்"
+seoTitle: Gasing
 slug: "gasing"
 category: "arts-culture"
 subcategory: ["crafts"]

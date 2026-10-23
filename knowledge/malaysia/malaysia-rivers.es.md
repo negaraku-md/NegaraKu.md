@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0070"
 title: "El Rajang, el Kinabatangan y el Pahang: las vías fluviales que moldearon Malasia"
+seoTitle: El Rajang, el Kinabatangan y el Pahang
 slug: "malaysia-rivers"
 category: "malaysia"
 subcategory: ["geography"]

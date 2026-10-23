@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0072
 title: "Giúp việc gia đình và chăm sóc ở cữ tại Malaysia: Các lựa chọn, và ai thực sự quản lý chúng"
+seoTitle: Giúp việc gia đình và chăm sóc ở cữ tại Malaysia
 slug: "domestic-help-and-confinement-care"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

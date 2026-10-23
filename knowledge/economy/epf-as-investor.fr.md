@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ECO-0023"
 title: "L'EPF comme investisseur : comment le fonds de retraite de la Malaisie mobilise RM1.4 billion sur les marchés"
+seoTitle: L'EPF comme investisseur
 slug: "epf-as-investor"
 category: "economy"
 subcategory: ["institutions"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "Jata Negara: leer el escudo nacional de Malasia, elemento por elemento"
+seoTitle: 'Jata Negara: el escudo nacional de Malasia'
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

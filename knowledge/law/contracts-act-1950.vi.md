@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0030"
 title: "Luật Hợp đồng (Contracts Act 1950, Act 136): Luật hợp đồng chung của Malaysia"
+seoTitle: Luật Hợp đồng (Contracts Act 1950, Act 136)
 slug: "contracts-act-1950"
 category: "law"
 subcategory: ["key-acts"]

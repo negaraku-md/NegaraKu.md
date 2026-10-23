@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 और स्वचालित मतदाता पंजीकरण: अधिनियम A1603 ने क्या बदला"
+seoTitle: Undi18 और स्वचालित मतदाता पंजीकरण
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

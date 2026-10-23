@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0022
 title: "Démissionner de ses fonctions de secrétaire de société en Malaisie"
+seoTitle: 'Secrétaire de société : démission en Malaisie'
 slug: "secretary-resignation"
 category: "company-secretary"
 subcategory: ["appointment"]

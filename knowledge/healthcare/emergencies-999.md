@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "Kecemasan Perubatan di Malaysia: Cara Panggil 999, Ambulans dan Apa Berlaku di Jabatan Kecemasan"
+seoTitle: Kecemasan Perubatan di Malaysia
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

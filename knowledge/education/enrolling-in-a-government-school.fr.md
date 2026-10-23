@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "Comment inscrire votre enfant dans une école publique : âge d'entrée, documents et le système idMe"
+seoTitle: Comment inscrire votre enfant dans une école publique
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

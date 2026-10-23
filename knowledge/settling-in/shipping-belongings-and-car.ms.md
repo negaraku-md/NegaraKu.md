@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "Menghantar Barang Persendirian Anda ke Malaysia — dan Sebab Membawa Kereta Sendiri Hampir Tidak Pernah Berjaya"
+seoTitle: Menghantar Barang Persendirian Anda ke Malaysia
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

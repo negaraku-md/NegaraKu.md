@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0060
 title: "Ủy ban Reid: Năm luật gia Khối Thịnh vượng chung đã soạn thảo hiến pháp của Malaya như thế nào"
+seoTitle: Ủy ban Reid và hiến pháp của Malaya
 slug: "reid-commission"
 category: "malaysia"
 subcategory: ["independence"]

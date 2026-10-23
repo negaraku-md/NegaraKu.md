@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "शासक सम्मेलन (Conference of Rulers): वह संस्था जो Yang di-Pertuan Agong को निर्वाचित करती है और किन बातों के लिए उसकी सहमति आवश्यक है"
+seoTitle: शासक सम्मेलन (Conference of Rulers)
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

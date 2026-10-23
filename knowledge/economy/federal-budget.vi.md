@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0014
 title: "Chu trình Ngân sách Liên bang: Cách một bài phát biểu trở thành một Đạo luật Cấp phát"
+seoTitle: Chu trình Ngân sách Liên bang
 slug: "federal-budget"
 category: "economy"
 subcategory: ["policy"]

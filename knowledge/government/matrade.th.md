@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0071
 title: "MATRADE — องค์การพัฒนาการค้าภายนอกแห่งมาเลเซีย: ส่งออกออกไป ไม่ใช่ดึงการลงทุนเข้ามา"
+seoTitle: MATRADE — องค์การพัฒนาการค้าภายนอกแห่งมาเลเซีย
 slug: "matrade"
 category: "government"
 subcategory: ["agencies"]

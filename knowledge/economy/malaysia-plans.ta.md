@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0021
 title: "மலேசியா திட்டங்கள்: ஒவ்வொரு ஆண்டு பட்ஜெட்டையும் வடிவமைக்கும் ஐந்தாண்டு கட்டமைப்பு"
+seoTitle: 'மலேசியா திட்டங்கள்: ஐந்தாண்டு பட்ஜெட் கட்டமைப்பு'
 slug: "malaysia-plans"
 category: "economy"
 subcategory: ["policy"]

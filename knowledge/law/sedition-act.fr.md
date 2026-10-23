@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0050
 title: "La Loi sur la sédition de 1948 : ce que le droit malaisien définit comme une tendance séditieuse"
+seoTitle: La Loi sur la sédition de 1948
 slug: "sedition-act"
 category: "law"
 subcategory: ["key-acts"]

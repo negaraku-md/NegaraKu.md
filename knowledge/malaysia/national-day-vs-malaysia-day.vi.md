@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0043
 title: "Vì sao Malaysia có hai ngày trọng đại: 31 tháng 8 và 16 tháng 9"
+seoTitle: Vì sao Malaysia có hai ngày trọng đại
 slug: "national-day-vs-malaysia-day"
 category: "malaysia"
 subcategory: ["country-basics"]

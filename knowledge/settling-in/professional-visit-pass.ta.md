@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "தொழில்முறை வருகை அனுமதிச் சீட்டு (Professional Visit Pass): வேலைக்கு அமர்த்தாமலேயே மலேசியா வெளிநாட்டு நிபுணத்துவத்தை எப்படி வரவேற்கிறது"
+seoTitle: தொழில்முறை வருகை அனுமதிச் சீட்டு (Professional Visit Pass)
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0071"
 title: "உங்கள் பொருள் பழுதடைந்தது, கடை பணத்தைத் திருப்பித் தர மறுக்கிறது: உங்கள் பணத்தை உண்மையில் எப்படித் திரும்பப் பெறுவது"
+seoTitle: 'பொருள் பழுது, கடை பணம் தராது: பணத்தை மீட்பது'
 slug: "consumer-rights-and-tribunal"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

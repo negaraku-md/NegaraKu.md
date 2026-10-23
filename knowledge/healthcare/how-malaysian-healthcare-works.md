@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "How Malaysian Healthcare Actually Works: The Public-Private Divide, and Who Pays What"
+seoTitle: How Malaysian Healthcare Actually Works
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

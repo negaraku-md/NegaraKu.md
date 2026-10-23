@@ -1,6 +1,7 @@
 ---
 topicId: "MY-ART-0042"
 title: "Gongs y tambores para los dioses: la ópera china de Malasia y su tradición de dar gracias a los dioses"
+seoTitle: Gongs y tambores para los dioses
 slug: "chinese-opera"
 category: "arts-culture"
 subcategory: ["performing-arts"]

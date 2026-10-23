@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 và Đăng ký Cử tri Tự động: Những gì Act A1603 đã thay đổi"
+seoTitle: Undi18 và Đăng ký Cử tri Tự động
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

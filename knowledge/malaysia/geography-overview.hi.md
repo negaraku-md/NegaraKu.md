@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0044
 title: "मलेशिया के पहाड़ों और मानसून ने कैसे तय किया कि मलेशियाई कहाँ रहते हैं"
+seoTitle: 'पहाड़ और मानसून: मलेशियाई कहाँ रहते हैं'
 slug: "geography-overview"
 category: "malaysia"
 subcategory: ["geography"]

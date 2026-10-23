@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "मलेशिया का व्यापार संतुलन और निर्यात अर्थव्यवस्था के आकार से अधिक क्यों है"
+seoTitle: मलेशिया का व्यापार संतुलन और निर्यात
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

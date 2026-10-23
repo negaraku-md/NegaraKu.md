@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0020
 title: "Hari Raya Aidilfitri: Marking the End of Ramadan, and a Homecoming Celebration"
+seoTitle: Hari Raya Aidilfitri
 slug: "hari-raya-aidilfitri"
 category: "arts-culture"
 subcategory: ["festivals"]

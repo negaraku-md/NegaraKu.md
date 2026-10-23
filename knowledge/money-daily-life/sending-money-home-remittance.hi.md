@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0070"
 title: "मलेशिया से घर पैसे भेजना: लाइसेंस प्राप्त रेमिटेंस चैनल को अवैध चैनल से कैसे पहचानें"
+seoTitle: मलेशिया से घर पैसे भेजना
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

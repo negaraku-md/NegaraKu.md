@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "เบื้องหลังแอป: Grab และธุรกิจ e-hailing ของมาเลเซียถูกกำกับดูแลอย่างไร"
+seoTitle: Grab และธุรกิจ e-hailing มาเลเซีย ถูกกำกับดูแลอย่างไร
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

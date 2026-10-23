@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "Assurance automobile en Malaisie : pourquoi la garantie au tiers est obligatoire et comment elle est liée à la taxe de circulation"
+seoTitle: Assurance automobile en Malaisie
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0079
 title: "Kos Sara Hidup Johor Bahru: Berharga dalam Ringgit, Ditarik oleh Dolar Singapura"
+seoTitle: Kos Sara Hidup Johor Bahru
 slug: "cost-of-living-johor-bahru"
 category: "cost-of-living"
 subcategory: ["by-city"]

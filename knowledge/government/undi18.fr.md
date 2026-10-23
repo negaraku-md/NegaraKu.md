@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0032
 title: "Undi18 et l'inscription automatique des électeurs : ce qu'a changé l'Act A1603"
+seoTitle: Undi18 et l'inscription automatique des électeurs
 slug: "undi18"
 category: "government"
 subcategory: ["institutions"]

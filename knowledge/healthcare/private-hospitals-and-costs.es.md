@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "Dos facturas por una estancia: cómo te cobran realmente los hospitales privados en Malasia"
+seoTitle: Dos facturas por una estancia
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

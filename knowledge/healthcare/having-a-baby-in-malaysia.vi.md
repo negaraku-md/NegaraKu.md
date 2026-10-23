@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "Sinh con tại Malaysia: Sổ Hồng, các lần khám tại phòng khám, và những gì diễn ra sau khi sinh"
+seoTitle: Sinh con tại Malaysia
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "Quand un parent ne peut plus se débrouiller seul : les options de prise en charge des personnes âgées en Malaisie"
+seoTitle: Quand un parent ne peut plus se débrouiller seul
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "Konfrontasi: Perang Tidak Diisytiharkan yang Menyambut Kelahiran Malaysia"
+seoTitle: 'Konfrontasi: Perang Tidak Diisytiharkan Malaysia'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

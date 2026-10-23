@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0030
 title: "மலேசியத் தேர்தல்கள் எவ்வாறு இயங்குகின்றன: ஒரு தொகுதி, ஒரு உறுப்பினர், அதிக வாக்கு பெறுபவர் வெற்றி"
+seoTitle: மலேசியத் தேர்தல்கள் எவ்வாறு இயங்குகின்றன
 slug: "how-elections-work"
 category: "government"
 subcategory: ["institutions"]

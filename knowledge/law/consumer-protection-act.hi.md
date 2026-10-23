@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0040"
 title: "उपभोक्ता संरक्षण अधिनियम 1999: मलेशिया का उपभोक्ता अधिकार क़ानून और उसका RM5 ट्रिब्यूनल"
+seoTitle: उपभोक्ता संरक्षण अधिनियम 1999
 slug: "consumer-protection-act"
 category: "law"
 subcategory: ["key-acts"]

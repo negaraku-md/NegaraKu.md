@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "मानग्लिश: मलेशिया की रोज़मर्रा की अंग्रेज़ी के पीछे का व्याकरण, कण और उधार-शब्द"
+seoTitle: 'मानग्लिश: मलेशिया की रोज़मर्रा की अंग्रेज़ी'
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

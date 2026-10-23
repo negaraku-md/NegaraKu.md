@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0029"
 title: "การเช่าบ้านในมาเลเซียไม่มีพระราชบัญญัติการเช่า ดังนั้นสัญญาที่คุณลงนามคือกฎหมาย"
+seoTitle: 'การเช่าบ้านในมาเลเซีย: ไม่มีกฎหมายการเช่า'
 slug: "renting-a-home-tenancy"
 category: "property"
 subcategory: ["renting"]

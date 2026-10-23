@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0036
 title: "Bekalan Air Malaysia: Kenapa Anda Berurusan dengan Syarikat Air Negeri, Bukan Kerajaan Persekutuan"
+seoTitle: Bekalan Air Malaysia
 slug: "water-supply"
 category: "property"
 subcategory: ["utilities"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0005
 title: "Neraca Perdagangan Malaysia dan Mengapa Ekspor Melebihi Ukuran Ekonomi"
+seoTitle: Neraca Perdagangan Malaysia dan Ekspor
 slug: "external-trade"
 category: "economy"
 subcategory: ["indicators"]

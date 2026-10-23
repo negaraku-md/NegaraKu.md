@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "นโยบายเศรษฐกิจภูมิบุตร: เป้าหมายการจัดระเบียบใหม่ของ DEB สืบเนื่องมาถึงปัจจุบันอย่างไร"
+seoTitle: นโยบายเศรษฐกิจภูมิบุตร
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "มาตรา 3: สิ่งที่รัฐธรรมนูญกล่าวเกี่ยวกับศาสนาอิสลาม และสิ่งที่มาตรา 11 กล่าวเคียงข้าง"
+seoTitle: 'มาตรา 3: ศาสนาอิสลามในรัฐธรรมนูญ และมาตรา 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

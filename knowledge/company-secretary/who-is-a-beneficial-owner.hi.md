@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0026
 title: "मलेशिया में लाभकारी स्वामी (Beneficial Owner) कौन माना जाता है?"
+seoTitle: मलेशिया में लाभकारी स्वामी
 slug: "who-is-a-beneficial-owner"
 category: "company-secretary"
 subcategory: ["beneficial-ownership"]

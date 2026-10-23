@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0022
 title: "Yang di-Pertuan Agong — एक निर्वाचित संघीय राजगद्दी, विरासत में मिली हुई नहीं"
+seoTitle: Yang di-Pertuan Agong
 slug: "yang-di-pertuan-agong"
 category: "glossary"
 subcategory: ["government"]

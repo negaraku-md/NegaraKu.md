@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0055
 title: "Taska, Tadika, Prasekolah: பெயர்கள் கிட்டத்தட்ட ஒரே மாதிரி, ஆனால் மேற்பார்வையிடுவது வெவ்வேறு அமைச்சுகள்"
+seoTitle: Taska, Tadika, Prasekolah
 slug: "preschool-tadika-childcare"
 category: "education"
 subcategory: ["schooling"]

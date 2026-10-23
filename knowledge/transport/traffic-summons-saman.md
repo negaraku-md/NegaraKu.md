@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "Saman Trafik di Malaysia: Kenal Pasti Jenisnya, Semak dan Bayar Sebelum Ia Membesar"
+seoTitle: Saman Trafik di Malaysia
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

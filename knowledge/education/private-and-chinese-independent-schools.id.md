@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "Sekolah Swasta dan Sekolah Menengah Swasta Tionghoa: Trek Antara Kebangsaan dan Internasional"
+seoTitle: Sekolah Swasta dan Sekolah Menengah Swasta Tionghoa
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

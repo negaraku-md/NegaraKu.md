@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "Pasal 3: Apa yang Dinyatakan Konstitusi Tentang Islam, dan Apa yang Dinyatakan Pasal 11 Bersamanya"
+seoTitle: 'Pasal 3: Islam dalam Konstitusi dan Pasal 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "Cách đăng ký con vào trường công lập: Tuổi nhập học, giấy tờ và hệ thống idMe"
+seoTitle: Cách đăng ký con vào trường công lập
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0006"
 title: "Thuế đường bộ không phải 'thuế' — nó là Giấy phép Phương tiện Cơ giới của bạn"
+seoTitle: Thuế đường bộ không phải 'thuế'
 slug: "road-tax-renewal"
 category: "transport"
 subcategory: ["vehicles-tolls"]

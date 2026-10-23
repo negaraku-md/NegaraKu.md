@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0032
 title: "Common Law en Malasia: cómo la Civil Law Act 1956 importó — y congeló — el derecho inglés"
+seoTitle: 'Common Law en Malasia: cómo la Civil Law Act 1956 importó'
 slug: "common-law-in-malaysia"
 category: "law"
 subcategory: ["legal-system"]

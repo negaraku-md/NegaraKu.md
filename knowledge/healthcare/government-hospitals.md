@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "Hospital Kerajaan Malaysia: Cara Sistem Rujukan, Caj Bersubsidi dan Masa Menunggu Sebenarnya Berfungsi"
+seoTitle: Hospital Kerajaan Malaysia
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0022
 title: "अनुच्छेद 153: संघीय संविधान वास्तव में क्या आरक्षित करता है, और किसे वह छू नहीं सकता"
+seoTitle: 'अनुच्छेद 153: संघीय संविधान क्या आरक्षित करता है'
 slug: "article-153-special-position"
 category: "law"
 subcategory: ["constitutional"]

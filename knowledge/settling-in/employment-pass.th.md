@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "ใบอนุญาตทำงาน (Employment Pass): วีซ่าทำงานที่คุณไม่มีวันยื่นขอเองได้"
+seoTitle: ใบอนุญาตทำงาน (Employment Pass)
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

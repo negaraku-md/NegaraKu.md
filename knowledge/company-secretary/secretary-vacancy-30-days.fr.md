@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0023
 title: "La règle des 30 jours pour la vacance du poste de secrétaire de société"
+seoTitle: 'La règle des 30 jours : secrétaire de société'
 slug: "secretary-vacancy-30-days"
 category: "company-secretary"
 subcategory: ["appointment"]

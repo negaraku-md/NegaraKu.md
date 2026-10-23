@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0087"
 title: "SK وSJKC وSJKT: ثلاث لغات تدريس في نظام واحد للمدارس الابتدائية الحكومية"
+seoTitle: 'SK وSJKC وSJKT: ثلاث لغات تدريس في نظام واحد'
 slug: "national-schools-sk-sjkc-sjkt"
 category: "education"
 subcategory: ["schooling"]

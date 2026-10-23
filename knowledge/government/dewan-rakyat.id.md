@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0012
 title: "Dewan Rakyat: Cara 222 Kursi Berubah Menjadi Undang-Undang Federal"
+seoTitle: 'Dewan Rakyat: 222 Kursi Menjadi Undang-Undang Federal'
 slug: "dewan-rakyat"
 category: "government"
 subcategory: ["institutions"]

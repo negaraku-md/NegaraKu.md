@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "How a Malaysian State Government Is Structured: The Ruler, the Executive Council, and the Assembly"
+seoTitle: How a Malaysian State Government Is Structured
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]

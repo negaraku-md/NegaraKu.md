@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0047"
 title: "Urgences médicales en Malaisie : comment appeler le 999, les ambulances et ce qui se passe au service des urgences"
+seoTitle: Urgences médicales en Malaisie
 slug: "emergencies-999"
 category: "healthcare"
 subcategory: ["using-the-system"]

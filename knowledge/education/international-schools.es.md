@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "Escuelas internacionales en Malasia: los currículos, las normas que los sustentan, y por qué las cuotas varían tanto"
+seoTitle: Escuelas internacionales en Malasia
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

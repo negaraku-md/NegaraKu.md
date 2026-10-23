@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "Bảo hiểm y tế tại Malaysia: Một tấm thẻ thực sự mua cho bạn điều gì, và điều gì không"
+seoTitle: Bảo hiểm y tế tại Malaysia
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

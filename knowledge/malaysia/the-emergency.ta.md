@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "மலாயா அவசரகாலம் (Malayan Emergency): கிளர்ச்சி, மறுகுடியேற்றம், அது விட்டுச்சென்ற நிர்வாக இயந்திரம்"
+seoTitle: மலாயா அவசரகாலம் (Malayan Emergency)
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

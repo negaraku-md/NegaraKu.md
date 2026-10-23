@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "Perkhidmatan Awam Malaysia: Suruhanjaya yang Melantik dan Jabatan yang Mereka Bentuk"
+seoTitle: Perkhidmatan Awam Malaysia
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

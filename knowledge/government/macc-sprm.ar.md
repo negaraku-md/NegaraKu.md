@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0020
 title: "MACC — اللجنة الماليزية لمكافحة الفساد وهيئاتها الرقابية الخمس"
+seoTitle: MACC — اللجنة الماليزية لمكافحة الفساد
 slug: "macc-sprm"
 category: "government"
 subcategory: ["agencies"]

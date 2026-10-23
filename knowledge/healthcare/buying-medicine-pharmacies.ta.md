@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0046
 title: "மருந்தக கவுண்டருக்குப் பின்னால்: மலேசியாவில் மருந்துச்சீட்டு, கவுண்டர்-மேல் மருந்து மற்றும் கட்டுப்படுத்தப்பட்ட மருந்துகள்"
+seoTitle: மருந்தக கவுண்டருக்குப் பின்னால்
 slug: "buying-medicine-pharmacies"
 category: "healthcare"
 subcategory: ["using-the-system"]

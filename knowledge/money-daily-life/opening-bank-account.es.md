@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0009
 title: "Abrir una cuenta bancaria en Malasia: qué necesitan los ciudadanos, qué necesitan los extranjeros y qué no le conseguirá un visado de turista"
+seoTitle: Abrir una cuenta bancaria en Malasia
 slug: "opening-bank-account"
 category: "money-daily-life"
 subcategory: ["banking-payments"]

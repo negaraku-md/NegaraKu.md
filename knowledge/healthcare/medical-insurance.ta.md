@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "மலேசியாவில் மருத்துவ காப்பீடு: ஒரு அட்டை உண்மையில் உங்களுக்கு என்ன வாங்கித் தருகிறது, எது இல்லை"
+seoTitle: மலேசியாவில் மருத்துவ காப்பீடு
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

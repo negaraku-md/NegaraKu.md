@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0042
 title: "ระบบสาธารณสุขของมาเลเซียทำงานอย่างไรจริง ๆ: การแบ่งรัฐ-เอกชน และใครจ่ายอะไร"
+seoTitle: ระบบสาธารณสุขของมาเลเซียทำงานอย่างไรจริง ๆ
 slug: "how-malaysian-healthcare-works"
 category: "healthcare"
 subcategory: ["overview"]

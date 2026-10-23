@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "குறைந்தபட்ச ஊதியம் vs இடைநிலை வருமானம்: ஒரு பொதுவான மலேசிய சம்பளத்தின் உண்மையான தோற்றம்"
+seoTitle: குறைந்தபட்ச ஊதியம் vs இடைநிலை வருமானம்
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

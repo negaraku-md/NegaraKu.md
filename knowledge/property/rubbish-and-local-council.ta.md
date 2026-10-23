@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0039"
 title: "குப்பை, மறுசுழற்சி மற்றும் உள்ளூராட்சி மன்றம்: சில மாநிலங்கள் ஏன் கழிவுப் பிரிப்பைக் கட்டாயமாக்குகின்றன, மற்றவை ஏன் இல்லை"
+seoTitle: குப்பை, மறுசுழற்சி மற்றும் உள்ளூராட்சி மன்றம்
 slug: "rubbish-and-local-council"
 category: "property"
 subcategory: ["utilities"]

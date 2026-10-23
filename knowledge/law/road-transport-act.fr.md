@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "Loi sur le transport routier de 1987 (Act 333) : le texte de loi derrière chaque permis de conduire et chaque plaque d'immatriculation"
+seoTitle: Loi sur le transport routier de 1987 (Act 333)
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

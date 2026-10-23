@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0023"
 title: "Fundamental Liberties: Articles 5 to 13 of the Federal Constitution, and the Limits Built Into Each One"
+seoTitle: Fundamental Liberties
 slug: "fundamental-liberties"
 category: "law"
 subcategory: ["constitutional"]

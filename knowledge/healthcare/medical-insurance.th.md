@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0045
 title: "ประกันการแพทย์ในมาเลเซีย: บัตรหนึ่งใบให้อะไรคุณจริง ๆ และไม่ให้อะไร"
+seoTitle: ประกันการแพทย์ในมาเลเซีย
 slug: "medical-insurance"
 category: "healthcare"
 subcategory: ["insurance"]

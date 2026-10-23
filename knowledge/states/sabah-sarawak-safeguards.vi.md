@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0023
 title: "Vì sao bạn có thể bị từ chối nhập cảnh tại Kota Kinabalu: Các bảo đảm hiến pháp cho Sabah và Sarawak"
+seoTitle: Vì sao bạn có thể bị từ chối nhập cảnh tại Kota Kinabalu
 slug: "sabah-sarawak-safeguards"
 category: "states"
 subcategory: ["state-government"]

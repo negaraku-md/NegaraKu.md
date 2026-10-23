@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0033"
 title: "कौन क्या तय करता है: नौवीं अनुसूची की संघीय, राज्य और समवर्ती सूचियाँ"
+seoTitle: नौवीं अनुसूची की संघीय, राज्य और समवर्ती सूचियाँ
 slug: "federal-state-division"
 category: "government"
 subcategory: ["institutions"]

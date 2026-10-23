@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "अनुच्छेद 3: संविधान इस्लाम के बारे में क्या कहता है, और इसके साथ अनुच्छेद 11 क्या कहता है"
+seoTitle: 'अनुच्छेद 3: इस्लाम पर संविधान और अनुच्छेद 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

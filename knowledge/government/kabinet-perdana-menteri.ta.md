@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0014
 title: "பெரும்பான்மை நம்பிக்கை: பிரதமர் மற்றும் அமைச்சரவை நியமனத்திற்கான அரசியலமைப்புச் சரத்துகள்"
+seoTitle: பெரும்பான்மை நம்பிக்கை
 slug: "kabinet-perdana-menteri"
 category: "government"
 subcategory: ["institutions"]

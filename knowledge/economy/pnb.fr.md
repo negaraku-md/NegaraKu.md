@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0020
 title: "Permodalan Nasional Berhad : le gestionnaire derrière l'ASB et l'ASN"
+seoTitle: Permodalan Nasional Berhad
 slug: "pnb"
 category: "economy"
 subcategory: ["institutions"]

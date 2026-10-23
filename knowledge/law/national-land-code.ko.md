@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "국가토지법 1965(National Land Code) — 말레이시아 반도의 모든 토지 권원에 이름을 새긴 법률"
+seoTitle: 국가토지법 1965(National Land Code)
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

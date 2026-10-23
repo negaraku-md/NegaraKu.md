@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0085"
 title: "أين تجد المساعدة في الصحة النفسية في ماليزيا: الرعاية العامة والخيارات الخاصة وخطوط الأزمات"
+seoTitle: أين تجد المساعدة في الصحة النفسية في ماليزيا
 slug: "mental-health-services"
 category: "healthcare"
 subcategory: ["specialised"]

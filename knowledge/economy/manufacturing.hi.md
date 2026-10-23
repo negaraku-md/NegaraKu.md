@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "मलेशिया का विनिर्माण क्षेत्र: हर साल बड़ा होता हुआ, पर GDP में वही हिस्सेदारी पर अटका"
+seoTitle: मलेशिया का विनिर्माण क्षेत्र
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

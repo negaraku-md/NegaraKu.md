@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0021
 title: "Rancangan Malaysia: Kerangka Lima Tahun yang Membentuk Setiap Anggaran Tahunan"
+seoTitle: 'Rancangan Malaysia: Kerangka Lima Tahun di Balik Anggaran'
 slug: "malaysia-plans"
 category: "economy"
 subcategory: ["policy"]

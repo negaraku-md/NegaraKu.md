@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "Reforma de la Constitución Federal: las cuatro vías que establece el Artículo 159"
+seoTitle: Reforma de la Constitución Federal
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

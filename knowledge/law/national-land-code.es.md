@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0031
 title: "National Land Code 1965 — el estatuto que puso un nombre en cada título de Malasia Peninsular"
+seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
 subcategory: ["key-acts"]

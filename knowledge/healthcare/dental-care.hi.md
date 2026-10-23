@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0048
 title: "सरकारी या निजी दंत क्लीनिक? मलेशिया की दो दंत देखभाल प्रणालियों को समझना"
+seoTitle: मलेशिया में सरकारी या निजी दंत क्लीनिक?
 slug: "dental-care"
 category: "healthcare"
 subcategory: ["specialised"]

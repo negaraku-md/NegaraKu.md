@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "Membeli Mobil di Malaysia: Apa Sebenarnya Peran Dealer, Bank dan JPJ"
+seoTitle: Membeli Mobil di Malaysia
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

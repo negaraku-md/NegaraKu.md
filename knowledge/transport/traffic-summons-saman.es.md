@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0008"
 title: "Multas de tráfico (saman) en Malasia: identifique el tipo, consulte y pague antes de que crezcan"
+seoTitle: Multas de tráfico (saman) en Malasia
 slug: "traffic-summons-saman"
 category: "transport"
 subcategory: ["driving"]

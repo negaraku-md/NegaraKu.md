@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "ภาษาประจำชาติของมาเลเซีย และภาษาอื่นอีกมากมายที่พูดเคียงข้างมัน"
+seoTitle: ภาษาประจำชาติของมาเลเซียและภาษาอื่นที่พูดกัน
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

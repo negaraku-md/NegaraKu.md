@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0012
 title: "Dewan Rakyat: Cara 222 Kerusi Bertukar Menjadi Undang-Undang Persekutuan"
+seoTitle: 'Dewan Rakyat: 222 Kerusi Menjadi Undang-Undang Persekutuan'
 slug: "dewan-rakyat"
 category: "government"
 subcategory: ["institutions"]

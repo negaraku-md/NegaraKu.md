@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0013
 title: "ประมวลกฎหมายอาญา (Penal Code, Act 574): กฎหมายอาญาหลักของมาเลเซีย"
+seoTitle: ประมวลกฎหมายอาญา (Penal Code, Act 574)
 slug: "penal-code"
 category: "law"
 subcategory: ["key-acts"]

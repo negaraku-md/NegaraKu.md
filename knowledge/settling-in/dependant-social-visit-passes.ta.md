@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0018
 title: "Dependant Pass அல்லது Long-Term Social Visit Pass: உங்கள் குடும்பத்தை எது உள்ளடக்குகிறது"
+seoTitle: Dependant Pass அல்லது Long-Term Social Visit Pass
 slug: "dependant-social-visit-passes"
 category: "settling-in"
 subcategory: ["visas-passes"]

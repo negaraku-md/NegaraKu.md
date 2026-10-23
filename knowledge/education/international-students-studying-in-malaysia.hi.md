@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0060"
 title: "एक अंतरराष्ट्रीय विद्यार्थी के रूप में मलेशिया में अध्ययन: संस्थान चुनना और प्रवेश पाना"
+seoTitle: एक अंतरराष्ट्रीय विद्यार्थी के रूप में मलेशिया में अध्ययन
 slug: "international-students-studying-in-malaysia"
 category: "education"
 subcategory: ["tertiary"]

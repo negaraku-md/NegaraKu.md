@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0027
 title: "Enviar tus pertenencias a Malasia — y por qué traer tu propio coche casi nunca funciona"
+seoTitle: Enviar tus pertenencias a Malasia
 slug: "shipping-belongings-and-car"
 category: "settling-in"
 subcategory: ["overview"]

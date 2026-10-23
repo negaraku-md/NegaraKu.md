@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0019
 title: "Registre des membres : deux obligations, deux horloges distinctes"
+seoTitle: Registre des membres
 slug: "register-of-members"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0034
 title: "Pajak Pintu dan Pajak Tanah: Dua Pajak Properti, Dua Otoritas, Dua Tanggal Bayar"
+seoTitle: Pajak Pintu dan Pajak Tanah
 slug: "assessment-and-quit-rent"
 category: "property"
 subcategory: ["home-ownership"]

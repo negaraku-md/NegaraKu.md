@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "Malaysia's Government Hospitals: How the Referral System, Subsidised Charges and Waiting Times Actually Work"
+seoTitle: Malaysia's Government Hospitals
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

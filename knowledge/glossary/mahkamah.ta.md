@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0031
 title: "Mahkamah — நீதித்துறை நிறுவனங்களைக் குறிக்கும் சொல்லும் மலேசியாவில் அதன் நிலைகளின் சுருக்கமும்"
+seoTitle: 'Mahkamah: நீதித்துறை நிறுவனங்களும் நிலைகளும்'
 slug: "mahkamah"
 category: "glossary"
 subcategory: ["legal"]

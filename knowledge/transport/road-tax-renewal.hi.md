@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0006"
 title: "«सड़क कर» दरअसल «कर» नहीं है — यह आपके वाहन का मोटर वाहन लाइसेंस है"
+seoTitle: «सड़क कर» दरअसल «कर» नहीं है
 slug: "road-tax-renewal"
 category: "transport"
 subcategory: ["vehicles-tolls"]

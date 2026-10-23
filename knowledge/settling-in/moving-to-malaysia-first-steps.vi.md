@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0015
 title: "Chuyển đến Malaysia: Thứ tự để thu xếp giấy phép, nhập cảnh, và các thủ tục hành chính tuần đầu tiên của bạn"
+seoTitle: 'Chuyển đến Malaysia: giấy phép, nhập cảnh và tuần đầu'
 slug: "moving-to-malaysia-first-steps"
 category: "settling-in"
 subcategory: ["overview"]

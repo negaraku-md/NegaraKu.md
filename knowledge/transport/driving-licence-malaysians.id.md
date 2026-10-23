@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "Lisensi L, P, CDL: Bagaimana Proses Lisensi Mengemudi JPJ Sebenarnya Berfungsi"
+seoTitle: 'Lisensi L, P, CDL: Proses Lisensi Mengemudi JPJ'
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

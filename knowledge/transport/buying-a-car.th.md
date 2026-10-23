@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0065
 title: "การซื้อรถในมาเลเซีย: ตัวแทนจำหน่าย ธนาคาร และ JPJ แต่ละฝ่ายทำอะไรจริง ๆ"
+seoTitle: 'การซื้อรถในมาเลเซีย: ตัวแทนจำหน่าย ธนาคาร และ JPJ'
 slug: "buying-a-car"
 category: "transport"
 subcategory: ["vehicles-tolls"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0053
 title: "உள்ளூர் அரசாங்கம் (PBT): Akta 171-இன் கீழ் மாநகர, நகராட்சி மற்றும் மாவட்ட மன்றங்கள்"
+seoTitle: உள்ளூர் அரசாங்கம் (PBT)
 slug: "local-government-councils"
 category: "government"
 subcategory: ["institutions"]

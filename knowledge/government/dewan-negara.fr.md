@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0013
 title: "Dewan Negara : comment les sénateurs sont nommés et pourquoi cette chambre retarde plutôt qu'elle ne met son veto"
+seoTitle: 'Dewan Negara : comment les sénateurs sont nommés'
 slug: "dewan-negara"
 category: "government"
 subcategory: ["institutions"]

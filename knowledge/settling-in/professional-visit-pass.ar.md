@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0020
 title: "تصريح الزيارة المهنية: كيف تستضيف ماليزيا الخبرة الأجنبية دون توظيفها"
+seoTitle: تصريح الزيارة المهنية
 slug: "professional-visit-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

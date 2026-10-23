@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0007
 title: "மலேசியாவில் வாகனக் காப்பீடு: மூன்றாம் தரப்புக் காப்பீடு ஏன் கட்டாயமாக்கப்பட்டுள்ளது, அது சாலை வரியுடன் எவ்வாறு தொடர்புடையது"
+seoTitle: மலேசியாவில் வாகனக் காப்பீடு
 slug: "motor-insurance"
 category: "transport"
 subcategory: ["vehicles-tolls"]

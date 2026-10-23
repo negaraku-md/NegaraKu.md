@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0003
 title: "Detrás de la app: cómo se regulan Grab y el sector del e-hailing en Malasia"
+seoTitle: 'Grab y el e-hailing en Malasia: cómo se regula'
 slug: "e-hailing-grab"
 category: "transport"
 subcategory: ["public-transport"]

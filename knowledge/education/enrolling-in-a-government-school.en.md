@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0054
 title: "How to Enrol Your Child in a Government School: Entry Age, Documents and the idMe System"
+seoTitle: How to Enrol Your Child in a Government School
 slug: "enrolling-in-a-government-school"
 category: "education"
 subcategory: ["schooling"]

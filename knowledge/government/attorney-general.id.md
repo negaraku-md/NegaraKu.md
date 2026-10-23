@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0051
 title: "Peguam Negara Malaysia: Jabatan dan Kuasa yang Didefinisikan oleh Pasal 145"
+seoTitle: Peguam Negara Malaysia
 slug: "attorney-general"
 category: "government"
 subcategory: ["institutions"]

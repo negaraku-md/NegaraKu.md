@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0012
 title: "Sektor Pembuatan Malaysia: Semakin Besar Setiap Tahun, Tetap Pada Bahagian KDNK Yang Sama"
+seoTitle: Sektor Pembuatan Malaysia
 slug: "manufacturing"
 category: "economy"
 subcategory: ["sectors"]

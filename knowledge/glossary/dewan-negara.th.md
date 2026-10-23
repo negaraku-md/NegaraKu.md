@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0021
 title: "เดวันเนอการา (Dewan Negara): สภาสูงของรัฐสภาที่ไม่ผ่านการเลือกตั้งทั่วไป"
+seoTitle: เดวันเนอการา (Dewan Negara)
 slug: "dewan-negara"
 category: "glossary"
 subcategory: ["government"]

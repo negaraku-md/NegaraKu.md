@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0065
 title: "ஜாதா நெகாரா (Jata Negara): மலேசியாவின் தேசியக் கேடயத்தை உறுப்பு உறுப்பாக வாசித்தல்"
+seoTitle: ஜாதா நெகாரா (Jata Negara)
 slug: "coat-of-arms"
 category: "malaysia"
 subcategory: ["identity"]

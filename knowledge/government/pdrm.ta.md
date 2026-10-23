@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "மலேசிய அரச காவல் படை (Polis Diraja Malaysia): கட்டளைச் சங்கிலி, மைய பணிகள் மற்றும் சட்ட அடிப்படை"
+seoTitle: மலேசிய அரச காவல் படை (Polis Diraja Malaysia)
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

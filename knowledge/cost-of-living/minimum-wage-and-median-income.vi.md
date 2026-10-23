@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0075
 title: "Lương tối thiểu so với Thu nhập trung vị: Một mức lương Malaysia điển hình trông ra sao"
+seoTitle: Lương tối thiểu so với Thu nhập trung vị
 slug: "minimum-wage-and-median-income"
 category: "cost-of-living"
 subcategory: ["overview"]

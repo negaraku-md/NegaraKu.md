@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0025
 title: "Adat Perpatih மற்றும் Adat Temenggung: இரு பாரம்பரிய மலாய் சட்ட முறைமைகள்"
+seoTitle: Adat Perpatih மற்றும் Adat Temenggung
 slug: "adat"
 category: "glossary"
 subcategory: ["legal"]

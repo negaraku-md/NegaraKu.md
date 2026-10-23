@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0020
 title: "Điều 3: Hiến pháp nói gì về Hồi giáo, và Điều 11 nói gì bên cạnh nó"
+seoTitle: 'Điều 3: Hồi giáo trong Hiến pháp và Điều 11'
 slug: "article-3-religion"
 category: "law"
 subcategory: ["constitutional"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0066"
 title: "Malaysian Highway Tolls: From Touch Cards to Barrier-Free Lanes"
+seoTitle: Malaysian Highway Tolls
 slug: "tolls-smarttag-rfid"
 category: "transport"
 subcategory: ["vehicles-tolls"]

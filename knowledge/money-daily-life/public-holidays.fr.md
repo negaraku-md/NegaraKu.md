@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "Jours fériés fédéraux contre jours fériés d'État : pourquoi la liste des jours fériés diffère selon l'État"
+seoTitle: Jours fériés fédéraux contre jours fériés d'État
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

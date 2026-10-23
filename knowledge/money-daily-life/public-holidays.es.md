@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "Días festivos federales frente a festivos estatales: por qué la lista de festivos difiere según el estado"
+seoTitle: Días festivos federales frente a festivos estatales
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

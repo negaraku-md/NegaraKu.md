@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0017
 title: "The Employment Pass: The Work Visa You Can Never Apply for Yourself"
+seoTitle: 'Employment Pass: The Work Visa You Can''t Apply Yourself'
 slug: "employment-pass"
 category: "settling-in"
 subcategory: ["visas-passes"]

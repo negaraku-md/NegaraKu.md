@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0072"
 title: "La fonction publique de la Malaisie : la commission qui nomme et le département qui conçoit"
+seoTitle: La fonction publique de la Malaisie
 slug: "public-service"
 category: "government"
 subcategory: ["institutions"]

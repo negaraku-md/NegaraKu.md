@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0082"
 title: "Bệnh viện công Malaysia: Cách hệ thống chuyển tuyến, phí được trợ giá và thời gian chờ thực sự vận hành"
+seoTitle: Bệnh viện công Malaysia
 slug: "government-hospitals"
 category: "healthcare"
 subcategory: ["using-the-system"]

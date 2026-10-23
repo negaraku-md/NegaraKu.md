@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0067
 title: "मलेशिया में शहरों के बीच आना-जाना: ट्रेनें, बसें और उड़ानें — एक तुलना"
+seoTitle: 'मलेशिया में शहरों के बीच आना-जाना: ट्रेनें, बसें और उड़ानें'
 slug: "intercity-travel"
 category: "transport"
 subcategory: ["public-transport"]

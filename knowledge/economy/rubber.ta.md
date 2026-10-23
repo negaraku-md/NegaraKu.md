@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0013
 title: "மலேசியாவின் ரப்பர் தொழில்: உலகளாவிய கையுறை வணிகத்தை ஊட்டும் சுருங்கிவரும் பயிர்"
+seoTitle: மலேசியாவின் ரப்பர் தொழில்
 slug: "rubber"
 category: "economy"
 subcategory: ["sectors"]

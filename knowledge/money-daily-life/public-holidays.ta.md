@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0014
 title: "கூட்டரசு பொது விடுமுறைகள் எதிர் மாநில விடுமுறைகள்: விடுமுறைப் பட்டியல் ஏன் மாநிலத்திற்கு மாநிலம் வேறுபடுகிறது"
+seoTitle: கூட்டரசு பொது விடுமுறைகள் எதிர் மாநில விடுமுறைகள்
 slug: "public-holidays"
 category: "money-daily-life"
 subcategory: ["everyday-admin"]

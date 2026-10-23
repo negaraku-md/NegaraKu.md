@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0049"
 title: "जब कोई माता-पिता अकेले नहीं सँभाल सकते: मलेशिया में बुज़ुर्गों की देखभाल के विकल्प"
+seoTitle: जब कोई माता-पिता अकेले नहीं सँभाल सकते
 slug: "healthcare-for-seniors"
 category: "healthcare"
 subcategory: ["specialised"]

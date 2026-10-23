@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0022
 title: "المجالس المحلية في ماليزيا: مستوى الحكومة الذي لا يمكنك انتخابه"
+seoTitle: المجالس المحلية في ماليزيا
 slug: "local-councils"
 category: "states"
 subcategory: ["state-government"]

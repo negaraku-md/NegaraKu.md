@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0062
 title: "Konfrontasi: la guerra no declarada que recibió el nacimiento de Malasia"
+seoTitle: 'Konfrontasi: la guerra no declarada de Malasia'
 slug: "konfrontasi"
 category: "malaysia"
 subcategory: ["nation-formation"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0083"
 title: "மலேசியாவில் குழந்தை பெறுதல்: Pink Book, கிளினிக் வருகைகள், மற்றும் பிரசவத்திற்குப் பிறகு என்ன நடக்கிறது"
+seoTitle: மலேசியாவில் குழந்தை பெறுதல்
 slug: "having-a-baby-in-malaysia"
 category: "healthcare"
 subcategory: ["specialised"]

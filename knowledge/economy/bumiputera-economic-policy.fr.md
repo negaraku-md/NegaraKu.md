@@ -1,6 +1,7 @@
 ---
 topicId: MY-ECO-0022
 title: "Politique économique Bumiputera : comment l'objectif de restructuration de la NEP se poursuit aujourd'hui"
+seoTitle: Politique économique Bumiputera
 slug: "bumiputera-economic-policy"
 category: "economy"
 subcategory: ["policy"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0011
 title: "مجلس الحكام: المؤسسة التي تنتخب يانغ دي-برتوان أغونغ وما يتطلب موافقتها"
+seoTitle: 'مجلس الحكام: المؤسسة التي تنتخب يانغ دي-برتوان أغونغ'
 slug: "majlis-raja-raja"
 category: "government"
 subcategory: ["institutions"]

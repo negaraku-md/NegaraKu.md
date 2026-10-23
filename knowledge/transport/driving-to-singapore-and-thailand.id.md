@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0069
 title: "Apa yang Sebenarnya Diperlukan oleh Mobil Anda untuk Masuk ke Singapura atau Thailand"
+seoTitle: Yang Dibutuhkan Mobil Anda ke Singapura atau Thailand
 slug: "driving-to-singapore-and-thailand"
 category: "transport"
 subcategory: ["driving"]

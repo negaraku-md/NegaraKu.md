@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0060"
 title: "சர்வதேச மாணவராக மலேசியாவில் படிப்பது: ஒரு நிறுவனத்தைத் தேர்ந்தெடுத்து சேர்க்கை பெறுவது"
+seoTitle: சர்வதேச மாணவராக மலேசியாவில் படிப்பது
 slug: "international-students-studying-in-malaysia"
 category: "education"
 subcategory: ["tertiary"]

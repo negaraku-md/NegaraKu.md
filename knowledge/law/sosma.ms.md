@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0051
 title: "SOSMA (Act 747): Prosedur Khas yang Digunakan Malaysia bagi Kesalahan Keselamatan"
+seoTitle: 'SOSMA (Act 747): Prosedur Khas untuk Kesalahan Keselamatan'
 slug: "sosma"
 category: "law"
 subcategory: ["key-acts"]

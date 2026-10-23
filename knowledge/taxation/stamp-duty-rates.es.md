@@ -1,6 +1,7 @@
 ---
 topicId: MY-TAX-0045
 title: "Tasas del impuesto del timbre en Malasia — referencia del Primer Anexo"
+seoTitle: Tasas del impuesto del timbre en Malasia
 slug: "stamp-duty-rates"
 category: "taxation"
 subcategory: ["stamp-duty"]

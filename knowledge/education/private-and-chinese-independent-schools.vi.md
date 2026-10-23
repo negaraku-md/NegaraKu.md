@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LIV-0053"
 title: "Trường tư thục và trường Hoa độc lập: Con đường giữa quốc gia và quốc tế"
+seoTitle: Trường tư thục và trường Hoa độc lập
 slug: "private-and-chinese-independent-schools"
 category: "education"
 subcategory: ["schooling"]

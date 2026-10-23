@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0021
 title: "Pasal 152: Enam Ayat yang Menentukan Bahasa Nasional Malaysia"
+seoTitle: 'Pasal 152: Bahasa Nasional Malaysia'
 slug: "article-152-language"
 category: "law"
 subcategory: ["constitutional"]

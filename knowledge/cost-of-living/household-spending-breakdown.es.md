@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0076
 title: "Adónde va realmente cada mes el ringgit de los hogares de Malasia"
+seoTitle: Adónde va el ringgit de los hogares de Malasia
 slug: "household-spending-breakdown"
 category: "cost-of-living"
 subcategory: ["overview"]

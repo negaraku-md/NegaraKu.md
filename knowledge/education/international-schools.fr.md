@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0052
 title: "Les écoles internationales en Malaisie : les programmes, les règles qui les encadrent, et pourquoi les frais varient autant"
+seoTitle: Les écoles internationales en Malaisie
 slug: "international-schools"
 category: "education"
 subcategory: ["schooling"]

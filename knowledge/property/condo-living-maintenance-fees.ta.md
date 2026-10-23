@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "மலேசியாவில் காண்டோ வாழ்க்கை: உங்கள் பராமரிப்புக் கட்டணத்திற்கு சிங்கிங் ஃபண்ட் என்ற ஓர் உடன்பிறப்பு ஏன் இருக்கிறது"
+seoTitle: மலேசியாவில் காண்டோ வாழ்க்கை
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

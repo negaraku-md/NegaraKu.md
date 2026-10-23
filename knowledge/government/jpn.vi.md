@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0017
 title: "JPN — Cục Đăng ký Quốc gia: từ giấy khai sinh đến giấy chứng tử"
+seoTitle: JPN — Cục Đăng ký Quốc gia
 slug: "jpn"
 category: "government"
 subcategory: ["agencies"]

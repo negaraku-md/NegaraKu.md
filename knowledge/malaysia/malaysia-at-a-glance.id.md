@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0041"
 title: "Malaysia Sekilas: Angka-Angka di Balik Negara, Dipastikan Sumber demi Sumber"
+seoTitle: 'Malaysia Sekilas: Angka-Angka di Balik Negara'
 slug: "malaysia-at-a-glance"
 category: "malaysia"
 subcategory: ["country-basics"]

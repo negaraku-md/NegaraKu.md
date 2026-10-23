@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0024"
 title: "Amender la Constitution fédérale : les quatre voies qu'établit l'article 159"
+seoTitle: Amender la Constitution fédérale
 slug: "constitutional-amendment"
 category: "law"
 subcategory: ["constitutional"]

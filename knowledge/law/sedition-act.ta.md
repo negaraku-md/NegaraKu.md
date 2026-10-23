@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0050
 title: "தேசத்துரோகப் போக்கு என மலேசியச் சட்டம் எதை வரையறுக்கிறது (Sedition Act 1948, Act 15)"
+seoTitle: தேசத்துரோகப் போக்கு என மலேசியச் சட்டம் எதை வரையறுக்கிறது
 slug: "sedition-act"
 category: "law"
 subcategory: ["key-acts"]

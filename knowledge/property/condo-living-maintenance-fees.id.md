@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0040
 title: "Kehidupan Kondominium di Malaysia: Mengapa Biaya Pemeliharaan Anda Punya 'Adik' Bernama Dana Cadangan"
+seoTitle: Kehidupan Kondominium di Malaysia
 slug: "condo-living-maintenance-fees"
 category: "property"
 subcategory: ["community"]

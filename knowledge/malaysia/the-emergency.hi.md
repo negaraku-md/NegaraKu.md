@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0014
 title: "मलायी आपातकाल: विद्रोह, पुनर्वास, और वह तंत्र जो यह पीछे छोड़ गया"
+seoTitle: 'मलायी आपातकाल: विद्रोह और पुनर्वास'
 slug: "the-emergency"
 category: "malaysia"
 subcategory: ["colonial"]

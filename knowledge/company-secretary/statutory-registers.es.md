@@ -1,6 +1,7 @@
 ---
 topicId: MY-CS-0003
 title: "Los registros legales que toda Sdn Bhd debe llevar: una lista de verificación"
+seoTitle: Los registros legales que toda Sdn Bhd debe llevar
 slug: "statutory-registers"
 category: "company-secretary"
 subcategory: ["statutory-registers"]

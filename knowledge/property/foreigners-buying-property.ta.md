@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0031
 title: "வெளிநாட்டினர் மலேசியாவில் சொத்து வாங்க முடியுமா? விலை அடிமட்டமும் மாநில ஒப்புதலும் விளக்கம்"
+seoTitle: வெளிநாட்டினர் மலேசியாவில் சொத்து வாங்க முடியுமா?
 slug: "foreigners-buying-property"
 category: "property"
 subcategory: ["buying"]

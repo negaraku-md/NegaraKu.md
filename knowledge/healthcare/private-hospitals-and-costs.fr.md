@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0044
 title: "Deux factures pour un seul séjour : comment les hôpitaux privés de Malaisie vous facturent réellement"
+seoTitle: Deux factures pour un seul séjour
 slug: "private-hospitals-and-costs"
 category: "healthcare"
 subcategory: ["using-the-system"]

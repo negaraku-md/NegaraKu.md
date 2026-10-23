@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "Manglish: Tatabahasa, Partikel dan Kata Pinjaman di Sebalik Bahasa Inggeris Harian Malaysia"
+seoTitle: 'Manglish: Bahasa Inggeris Harian Malaysia'
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

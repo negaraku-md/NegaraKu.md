@@ -1,6 +1,7 @@
 ---
 topicId: "MY-LAW-0041"
 title: "قانون النقل البري لسنة 1987 (Act 333): التشريع وراء كل رخصة قيادة ولوحة تسجيل"
+seoTitle: قانون النقل البري لسنة 1987 (Act 333)
 slug: "road-transport-act"
 category: "law"
 subcategory: ["key-acts"]

@@ -1,6 +1,7 @@
 ---
 topicId: "MY-HIS-0048"
 title: "ஸ்ரீவிஜயா: மலாக்காவை நிறுவிய வம்சத்தின் பின்னணியில் இருந்த கடல் அரசு"
+seoTitle: 'ஸ்ரீவிஜயா: மலாக்காவை நிறுவிய வம்சத்தின் கடல் அரசு'
 slug: "srivijaya"
 category: "malaysia"
 subcategory: ["early-kingdoms"]

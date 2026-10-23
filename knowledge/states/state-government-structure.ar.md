@@ -1,6 +1,7 @@
 ---
 topicId: MY-STA-0021
 title: "كيف تُبنى حكومة الولاية الماليزية: الحاكم والمجلس التنفيذي والجمعية التشريعية"
+seoTitle: كيف تُبنى حكومة الولاية الماليزية
 slug: "state-government-structure"
 category: "states"
 subcategory: ["state-government"]
