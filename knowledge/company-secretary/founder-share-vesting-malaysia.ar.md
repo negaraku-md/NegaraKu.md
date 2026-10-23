@@ -54,6 +54,13 @@ sources:
   - title: "قانون الشركات لسنة 2016 (القانون 777)، النسخة المُعاد طبعها حتى 1 أغسطس 2022 — المواد 33، 75، 85، 105-107، 123، 127 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.33, 75, 85, 105-107, 123, 127)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "لجنة الشركات الماليزية (SSM)"
+  - title: "إرشادات بشأن ضريبة الأرباح الرأسمالية على الأسهم غير المُدرجة (Guidelines on Capital Gains Tax for Unlisted Shares)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
+    publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
+    date: "2025-07-21"
+  - title: "قانون الدمغة لسنة 1949 (القانون 378) (Stamp Act 1949 (Act 378))"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20378.pdf"
+    publisher: "دائرة النائب العامّ الماليزية (Attorney General's Chambers of Malaysia)"
 
 entity: "Founder share vesting (Malaysia)"
 relations:

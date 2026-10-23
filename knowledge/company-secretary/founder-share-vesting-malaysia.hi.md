@@ -54,6 +54,13 @@ sources:
   - title: "कंपनी अधिनियम 2016 (अधिनियम 777), 1 अगस्त 2022 तक पुनर्मुद्रण — धाराएँ 33, 75, 85, 105-107, 123, 127 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.33, 75, 85, 105-107, 123, 127)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "मलेशिया कंपनी आयोग (SSM)"
+  - title: "असूचीबद्ध शेयरों पर पूंजीगत लाभ कर संबंधी दिशानिर्देश (Guidelines on Capital Gains Tax for Unlisted Shares)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
+    publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
+    date: "2025-07-21"
+  - title: "स्टाम्प अधिनियम 1949 (अधिनियम 378) (Stamp Act 1949 (Act 378))"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20378.pdf"
+    publisher: "मलेशिया के महान्यायवादी कार्यालय (Attorney General's Chambers of Malaysia)"
 
 entity: "Founder share vesting (Malaysia)"
 relations:

@@ -47,6 +47,10 @@ sources:
   - title: "외환 정책 (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "말레이시아 국립은행(방크 느가라 말레이시아)"
+  - title: "말레이시아, 링깃 환율에 관리변동환율제 도입(보도자료, 2005년 7월 21일) (Malaysia Adopts a Managed Float for the Ringgit Exchange Rate — press release, 21 July 2005)"
+    url: "https://www.bnm.gov.my/-/malaysia-adopts-a-managed-float-for-the-ringgit-exchange-rate"
+    publisher: "말레이시아 국립은행(방크 느가라 말레이시아)"
+    date: "2005-07-21"
 
 entity: "Malaysian ringgit"
 wikidata: "Q163712"

@@ -47,6 +47,10 @@ sources:
   - title: "அந்நிய செலாவணிக் கொள்கை (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "மலேசிய மத்திய வங்கி (பான்க் நெகாரா மலேசியா)"
+  - title: "ரிங்கிட் மாற்று விகிதத்திற்கு நிர்வகிக்கப்படும் மிதப்பு முறையை மலேசியா ஏற்றுக்கொள்கிறது (பத்திரிகை அறிக்கை, 21 ஜூலை 2005) (Malaysia Adopts a Managed Float for the Ringgit Exchange Rate — press release, 21 July 2005)"
+    url: "https://www.bnm.gov.my/-/malaysia-adopts-a-managed-float-for-the-ringgit-exchange-rate"
+    publisher: "மலேசிய மத்திய வங்கி (பான்க் நெகாரா மலேசியா)"
+    date: "2005-07-21"
 
 entity: "Malaysian ringgit"
 wikidata: "Q163712"

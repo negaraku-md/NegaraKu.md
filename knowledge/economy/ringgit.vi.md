@@ -47,6 +47,10 @@ sources:
   - title: "Chính sách Ngoại hối (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
+  - title: "Malaysia áp dụng cơ chế thả nổi có quản lý cho tỷ giá đồng ringgit (thông cáo báo chí, 21 tháng 7 năm 2005) (Malaysia Adopts a Managed Float for the Ringgit Exchange Rate — press release, 21 July 2005)"
+    url: "https://www.bnm.gov.my/-/malaysia-adopts-a-managed-float-for-the-ringgit-exchange-rate"
+    publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
+    date: "2005-07-21"
 
 entity: "Malaysian ringgit"
 wikidata: "Q163712"

@@ -49,11 +49,14 @@ revisions: []
 updated: 2026-09-10
 sources:
   - title: "सार्वजनिक निर्णय संख्या 1/2012: रोज़गार हानि के लिए मुआवज़ा (Public Ruling No. 1/2012: Compensation for Loss of Employment)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR1_2012.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR1_2012.pdf"
     publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
   - title: "आय कर अधिनियम 1967 (अधिनियम 53) — अनुसूची 6, कर से छूटें (1.11.2023 तक अद्यतन) (Income Tax Act 1967 (Act 53) — Schedule 6, Exemptions From Tax (updated to 1.11.2023))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
     publisher: "मलेशिया का महान्यायवादी कार्यालय (AGC)"
+  - title: "रोज़गार समाप्ति की सूचना (फ़ॉर्म CP22A) (Notification of Cessation of Employment — Form CP22A)"
+    url: "https://www.hasil.gov.my/en/majikan/pemberitahuan-pemberhentian-kerja/"
+    publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
 
 entity: "Compensation for Loss of Employment (Malaysia)"
 relations:

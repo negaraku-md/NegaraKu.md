@@ -47,6 +47,10 @@ sources:
   - title: "Politique de change (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
+  - title: "La Malaisie adopte un flottement dirigé pour le taux de change du ringgit (communiqué de presse, 21 juillet 2005) (Malaysia Adopts a Managed Float for the Ringgit Exchange Rate — press release, 21 July 2005)"
+    url: "https://www.bnm.gov.my/-/malaysia-adopts-a-managed-float-for-the-ringgit-exchange-rate"
+    publisher: "Bank Negara Malaysia"
+    date: "2005-07-21"
 
 entity: "Malaysian ringgit"
 wikidata: "Q163712"

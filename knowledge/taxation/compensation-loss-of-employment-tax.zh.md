@@ -49,11 +49,14 @@ revisions: []
 updated: 2026-09-10
 sources:
   - title: "公共裁定第1/2012号：失业补偿 (Public Ruling No. 1/2012: Compensation for Loss of Employment)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR1_2012.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR1_2012.pdf"
     publisher: "马来西亚内陆税收局 (LHDN)"
   - title: "Income Tax Act 1967 (Act 53) — 附表6，免税项目（更新至2023年11月1日） (Income Tax Act 1967 (Act 53) — Schedule 6, Exemptions From Tax (updated to 1.11.2023))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
     publisher: "马来西亚总检察署"
+  - title: "雇佣终止通知（表格CP22A） (Notification of Cessation of Employment — Form CP22A)"
+    url: "https://www.hasil.gov.my/en/majikan/pemberitahuan-pemberhentian-kerja/"
+    publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Compensation for Loss of Employment (Malaysia)"
 relations:

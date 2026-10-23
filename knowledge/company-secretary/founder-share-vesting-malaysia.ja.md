@@ -54,6 +54,13 @@ sources:
   - title: "Companies Act 2016 (Act 777)、2022年8月1日現在の再版 — 第33条・第75条・第85条・第105-107条・第123条・第127条 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.33, 75, 85, 105-107, 123, 127)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "マレーシア企業委員会 (SSM)"
+  - title: "非上場株式に係るキャピタルゲイン税ガイドライン (Guidelines on Capital Gains Tax for Unlisted Shares)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
+    publisher: "マレーシア内国歳入庁 (LHDN)"
+    date: "2025-07-21"
+  - title: "Stamp Act 1949 (Act 378) (Stamp Act 1949 (Act 378))"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20378.pdf"
+    publisher: "マレーシア司法長官府"
 
 entity: "Founder share vesting (Malaysia)"
 relations:

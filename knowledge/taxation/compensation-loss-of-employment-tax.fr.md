@@ -49,11 +49,14 @@ revisions: []
 updated: 2026-09-10
 sources:
   - title: "Public Ruling n° 1/2012 : indemnité de perte d'emploi (Public Ruling No. 1/2012: Compensation for Loss of Employment)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR1_2012.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR1_2012.pdf"
     publisher: "Administration fiscale de Malaisie (LHDN)"
   - title: "Income Tax Act 1967 (Act 53) — annexe 6, exonérations d'impôt (à jour au 1.11.2023) (Income Tax Act 1967 (Act 53) — Schedule 6, Exemptions From Tax (updated to 1.11.2023))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
     publisher: "Cabinet du Procureur général de Malaisie (AGC)"
+  - title: "Notification de cessation d'emploi (formulaire CP22A) (Notification of Cessation of Employment — Form CP22A)"
+    url: "https://www.hasil.gov.my/en/majikan/pemberitahuan-pemberhentian-kerja/"
+    publisher: "Administration fiscale de Malaisie (LHDN)"
 
 entity: "Compensation for Loss of Employment (Malaysia)"
 relations:

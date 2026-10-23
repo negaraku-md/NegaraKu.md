@@ -54,6 +54,13 @@ sources:
   - title: "Companies Act 2016 (Act 777), cetakan semula pada 1 Ogos 2022 — seksyen 33, 75, 85, 105-107, 123, 127 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.33, 75, 85, 105-107, 123, 127)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "Suruhanjaya Syarikat Malaysia (SSM)"
+  - title: "Garis Panduan Cukai Keuntungan Modal bagi Saham Tidak Tersenarai (Guidelines on Capital Gains Tax for Unlisted Shares)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
+    publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+    date: "2025-07-21"
+  - title: "Stamp Act 1949 (Act 378) (Stamp Act 1949 (Act 378))"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20378.pdf"
+    publisher: "Jabatan Peguam Negara Malaysia"
 
 entity: "Founder share vesting (Malaysia)"
 relations:

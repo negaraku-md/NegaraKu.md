@@ -47,6 +47,10 @@ sources:
   - title: "นโยบายอัตราแลกเปลี่ยนเงินตราต่างประเทศ (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "ธนาคารกลางมาเลเซีย"
+  - title: "มาเลเซียใช้ระบบอัตราแลกเปลี่ยนลอยตัวแบบมีการจัดการสำหรับเงินริงกิต (ข่าวประชาสัมพันธ์ 21 กรกฎาคม 2005) (Malaysia Adopts a Managed Float for the Ringgit Exchange Rate — press release, 21 July 2005)"
+    url: "https://www.bnm.gov.my/-/malaysia-adopts-a-managed-float-for-the-ringgit-exchange-rate"
+    publisher: "ธนาคารกลางมาเลเซีย"
+    date: "2005-07-21"
 
 entity: "Malaysian ringgit"
 wikidata: "Q163712"

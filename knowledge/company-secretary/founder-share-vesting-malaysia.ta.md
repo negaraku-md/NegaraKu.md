@@ -54,6 +54,13 @@ sources:
   - title: "Companies Act 2016 (Act 777), 2022 ஆகஸ்ட் 1 நிலவரப்படி மறுபதிப்பு — பிரிவுகள் 33, 75, 85, 105-107, 123, 127 (Companies Act 2016 (Act 777), reprint as at 1 August 2022 — ss.33, 75, 85, 105-107, 123, 127)"
     url: "https://www.ssm.com.my/Pages/Legal_Framework/Document/Companies%20Act%202016_Akta%20777_BI%20(1.8.2022).pdf"
     publisher: "மலேசியா நிறுவனங்கள் ஆணையம் (SSM)"
+  - title: "பட்டியலிடப்படாத பங்குகளுக்கான மூலதன ஆதாய வரி வழிகாட்டுதல்கள் (Guidelines on Capital Gains Tax for Unlisted Shares)"
+    url: "https://www.hasil.gov.my/wp-content/uploads/20250721-guidelines-on-capital-gains-tax-for-unlisted-shares.pdf"
+    publisher: "மலேசியா உள்நாட்டு வருவாய் வாரியம் (LHDN)"
+    date: "2025-07-21"
+  - title: "Stamp Act 1949 (Act 378) (Stamp Act 1949 (Act 378))"
+    url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Act%20378.pdf"
+    publisher: "மலேசிய அட்டர்னி ஜெனரல் அலுவலகம்"
 
 entity: "Founder share vesting (Malaysia)"
 relations:

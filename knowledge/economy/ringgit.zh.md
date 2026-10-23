@@ -47,6 +47,10 @@ sources:
   - title: "外汇政策 (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "马来西亚国家银行"
+  - title: "马来西亚对林吉特汇率实行有管理的浮动（新闻稿，2005年7月21日） (Malaysia Adopts a Managed Float for the Ringgit Exchange Rate — press release, 21 July 2005)"
+    url: "https://www.bnm.gov.my/-/malaysia-adopts-a-managed-float-for-the-ringgit-exchange-rate"
+    publisher: "马来西亚国家银行"
+    date: "2005-07-21"
 
 entity: "Malaysian ringgit"
 wikidata: "Q163712"

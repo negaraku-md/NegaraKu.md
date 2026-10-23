@@ -49,11 +49,14 @@ revisions: []
 updated: 2026-09-10
 sources:
   - title: "공공예규 제1/2012호: 고용 상실에 대한 보상 (Public Ruling No. 1/2012: Compensation for Loss of Employment)"
-    url: "https://phl.hasil.gov.my/pdf/pdfam/PR1_2012.pdf"
+    url: "https://www.hasil.gov.my/wp-content/uploads/PR1_2012.pdf"
     publisher: "말레이시아 내국세입청 (LHDN)"
   - title: "Income Tax Act 1967 (Act 53) — 별표 6, 면세 (2023년 11월 1일 기준 갱신) (Income Tax Act 1967 (Act 53) — Schedule 6, Exemptions From Tax (updated to 1.11.2023))"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1822739_BI/ACT%2053%20AS%20AT%201.11.2023%20(REPRINT%20ONLINE%20VERSION)%20FINAL.pdf"
     publisher: "말레이시아 법무장관실"
+  - title: "고용 종료 신고(양식 CP22A) (Notification of Cessation of Employment — Form CP22A)"
+    url: "https://www.hasil.gov.my/en/majikan/pemberitahuan-pemberhentian-kerja/"
+    publisher: "말레이시아 내국세입청 (LHDN)"
 
 entity: "Compensation for Loss of Employment (Malaysia)"
 relations:
