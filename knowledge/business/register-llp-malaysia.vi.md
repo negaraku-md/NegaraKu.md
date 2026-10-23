@@ -303,3 +303,5 @@ người đó cần một danh tính SSM4U đã được xác minh và đang cam
 Sau đó hãy soạn thảo thỏa thuận LLP thay vì mặc định rơi vào Phụ lục Thứ hai, và đưa
 bản khai thường niên 90 ngày vào một cuốn lịch ngay khi thông báo đăng ký
 đến.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

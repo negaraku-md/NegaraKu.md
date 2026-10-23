@@ -188,3 +188,5 @@ surat gugatan.
 
 **Status verifikasi.** Draf berbantuan AI, belum ditinjau oleh pakar. Section yang
 dikutip berasal dari Partnership Act 1961 (Act 135) dan Companies Act 2016 (Act 777).
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

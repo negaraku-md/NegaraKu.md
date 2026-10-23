@@ -308,3 +308,5 @@ ejercicio desaparece. Si realmente tiene que estar registrado, modele la sucursa
 filial constituida localmente en tres ejes: el estado malasio auditado del art. 575(5), si
 puede aceptar exponer a la empresa extranjera en lugar de a una entidad acotada, y quién
 aceptará el nombramiento de agente sabiendo lo que dice el art. 563(1)(c).
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

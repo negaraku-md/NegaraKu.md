@@ -139,3 +139,5 @@ la Berhad, la sucursal extranjera y la sociedad de Labuan en los mismos ejes. Si
 factor decisivo, la comparación fiscal específica desarrolla los números con
 ejemplos resueltos. Una vez que haya decidido, la guía de EzBiz cubre el registro
 del negocio y la guía de constitución cubre la vía de la Sdn Bhd.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

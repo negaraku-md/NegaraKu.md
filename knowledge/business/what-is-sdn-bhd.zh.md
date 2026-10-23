@@ -127,3 +127,5 @@ keywords: ["what is sdn bhd", "sdn bhd meaning", "sendirian berhad", "private li
 如果你正在把它与其他架构相比较，enterprise、合伙、LLP、Sdn Bhd、Berhad、外国公司
 分行与纳闽公司的完整比较收在马来西亚商业架构比较一文，税务那一面则另文详述。如果
 你已经决定了，注册指南会带你走过名称保留、注册成立与第一年的呈报。
+
+还在选择公司结构？查看[马来西亚各类商业结构的比较](/zh/business/business-structures-malaysia/)。

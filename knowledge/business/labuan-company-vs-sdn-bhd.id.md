@@ -543,3 +543,5 @@ Business Activity Tax Act 1990 dan surat edaran Labuan FSA mengenai P.U.(A)
 423/2021. Di mana teks konsolidasi Labuan FSA dan Akta amendemen bertentangan, kami telah
 mengikuti Akta amendemen dan menyatakan demikian. Tidak ada apa pun di sini yang merupakan nasihat
 hukum atau pajak mengenai suatu struktur tertentu.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

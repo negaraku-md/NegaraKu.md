@@ -459,3 +459,5 @@ nguồn sơ cấp của SSM. Các dẫn chiếu theo luật là đến Companies
 chương khách hàng một ngày làm việc của SSM, sự thay đổi nền tảng CRS/SSM4U, và các ngưỡng miễn
 kiểm toán lần lượt được trích dẫn đến Bảng lệ phí đã công bố, các hướng dẫn thành lập,
 CRS FAQ, và Practice Directive No. 10/2024 của SSM.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

@@ -151,3 +151,5 @@ cabang asing, dan perusahaan Labuan terdapat dalam perbandingan struktur bisnis
 Malaysia, dan aspek pajak dibahas secara terpisah. Jika Anda sudah mengambil
 keputusan, panduan pendaftaran menguraikan pemesanan nama, pendirian, dan
 pengajuan tahun pertama.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

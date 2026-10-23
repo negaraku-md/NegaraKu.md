@@ -544,3 +544,5 @@ Cukai Aktiviti Perniagaan Labuan 1990 dan pekeliling Labuan FSA mengenai P.U.(A)
 423/2021. Di mana teks penyatuan Labuan FSA dan Akta pindaan bercanggah, kami telah
 mengikut Akta pindaan dan menyatakan sedemikian. Tiada apa-apa di sini merupakan nasihat
 undang-undang atau cukai mengenai sesuatu struktur tertentu.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

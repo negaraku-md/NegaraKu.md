@@ -310,3 +310,5 @@ berbanding anak syarikat yang diperbadankan secara tempatan pada tiga paksi: pen
 Malaysia di bawah s.575(5), sama ada anda boleh menerima pendedahan syarikat asing itu berbanding
 entiti yang berpagar, dan siapa yang akan menerima pelantikan sebagai ejen sedangkan mengetahui
 apa yang dinyatakan oleh s.563(1)(c).
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

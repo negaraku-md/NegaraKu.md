@@ -188,3 +188,5 @@ pengarah, tiada pengecualian audit, dan pelaporan syarikat awam yang lengkap.
 **Status pengesahan.** Draf berbantukan AI, belum disemak oleh pakar. Seksyen-seksyen
 yang dipetik adalah daripada Akta Syarikat 2016 (Act 777) sebagaimana diterbitkan
 oleh SSM.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

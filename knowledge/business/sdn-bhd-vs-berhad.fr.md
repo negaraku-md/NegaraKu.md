@@ -180,3 +180,5 @@ société publique.
 
 **Statut de vérification.** Brouillon assisté par IA, pas encore revu par un expert. Les
 sections citées proviennent de la Companies Act 2016 (Act 777) telle que publiée par la SSM.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

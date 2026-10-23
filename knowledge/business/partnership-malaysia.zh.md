@@ -156,3 +156,5 @@ Liability Partnerships Act 2012 组成。
 
 **查证状态。** 这是一份 AI 辅助的草稿，尚未经专家审阅。所引条文出自 Partnership Act
 1961（Act 135）与 Companies Act 2016（Act 777）。
+
+还在选择公司结构？查看[马来西亚各类商业结构的比较](/zh/business/business-structures-malaysia/)。

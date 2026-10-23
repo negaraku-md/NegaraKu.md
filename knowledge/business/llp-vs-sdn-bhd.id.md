@@ -336,3 +336,5 @@ sebagaimana dijelaskan dalam LHDN Public Ruling 8/2022. Biaya berasal dari
 bahan yang diterbitkan oleh SSM dan perlu ditinjau ulang pada saat
 pengajuan. Tidak ada apa pun di sini yang merupakan nasihat hukum atau pajak
 bagi firma tertentu mana pun.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

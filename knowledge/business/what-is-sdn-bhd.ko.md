@@ -140,3 +140,5 @@ keywords: ["what is sdn bhd", "sdn bhd meaning", "sendirian berhad", "private li
 외국 지점, 라부안 회사를 모두 비교한 전체 내용은 말레이시아 사업 구조 비교에
 있으며, 세무 측면은 별도로 다룹니다. 이미 결정했다면, 등록 안내가 상호명 예약,
 설립, 첫해 제출 절차를 단계별로 안내합니다.
+
+아직 사업 형태를 고르는 중이신가요? [말레이시아의 모든 사업 구조 비교](/ko/business/business-structures-malaysia/)를 확인해 보세요.

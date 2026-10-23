@@ -183,3 +183,5 @@ una empresa pública.
 **Estado de verificación.** Borrador asistido por IA, aún no revisado por un experto.
 Las secciones citadas corresponden a la Companies Act 2016 (Act 777) tal como la
 publica la SSM.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

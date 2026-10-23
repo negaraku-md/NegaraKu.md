@@ -106,3 +106,5 @@ En raison des risques de blanchiment de capitaux et de financement du terrorisme
 ## La suite
 
 Si une CLBG convient à votre objectif, le point de départ pratique est d'engager un secrétaire de société et de préparer une constitution fondée sur le modèle de la Partie A de SSM. Décidez tôt si vous viserez le nom sans « Berhad », car le fonds de RM1 million et son délai de six mois façonnent votre plan de collecte dès le premier jour. Pour les listes de vérification complètes, la constitution modèle et des exemples détaillés, lisez les directives de SSM sur la société limitée par garantie (27 septembre 2021) figurant dans les sources.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

@@ -154,3 +154,5 @@ Bhd, Berhad, cawangan asing dan syarikat Labuan terdapat dalam perbandingan
 struktur perniagaan Malaysia, dan aspek cukai dibincangkan secara berasingan.
 Jika anda sudah membuat keputusan, panduan pendaftaran menghuraikan tempahan
 nama, pemerbadanan dan pemfailan tahun pertama.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

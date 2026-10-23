@@ -466,3 +466,5 @@ la SSM. Les références statutaires renvoient à la Loi de 2016 sur les sociét
 droits, la charte de service d'un jour ouvrable de la SSM, le changement de plateforme CRS/SSM4U, et
 les seuils d'exonération d'audit sont cités respectivement à la Table des droits publiée par la SSM,
 aux directives de constitution, à la FAQ du CRS, et à la Directive de pratique N° 10/2024.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

@@ -510,3 +510,5 @@ tham chiếu luật định là đến Luật Công ty Labuan năm 1990 (Labuan 
 doanh Labuan năm 1990 và thông tư của Labuan FSA về P.U.(A) 423/2021. Ở nơi văn bản hợp nhất của
 Labuan FSA và các Đạo luật sửa đổi xung đột, chúng tôi đã theo các Đạo luật sửa đổi và đã nói vậy.
 Không có gì ở đây là tư vấn pháp lý hay thuế về một cấu trúc cụ thể.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

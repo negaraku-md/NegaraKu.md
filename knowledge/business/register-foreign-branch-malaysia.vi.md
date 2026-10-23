@@ -304,3 +304,5 @@ bộ bài tập biến mất. Nếu bạn thực sự phải được đăng ký
 so với một công ty con được thành lập trong nước trên ba trục: báo cáo Malaysia được kiểm toán
 theo s.575(5), liệu bạn có thể chấp nhận phơi bày công ty nước ngoài chứ không phải một pháp nhân
 được khoanh vùng, và ai sẽ chấp nhận việc bổ nhiệm làm người đại diện khi biết s.563(1)(c) nói gì.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

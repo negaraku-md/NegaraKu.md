@@ -279,3 +279,5 @@ renouvellement que vous oublierez sinon.
 Si la responsabilité limitée vous importe, ou si vous comptez accueillir des associés avec du
 capital réel en jeu, immatriculez l'entreprise maintenant pour une légitimité immédiate et traitez
 la comparaison face à une LLP ou une Sdn Bhd comme la décision suivante, pas celle-ci.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

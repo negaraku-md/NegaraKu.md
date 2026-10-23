@@ -170,3 +170,5 @@ công ty hợp danh cho bạn một họ chung trên một trát tòa.
 **Tình trạng xác minh.** Bản nháp do AI hỗ trợ, chưa được chuyên gia xem xét. Các mục được trích dẫn
 là từ Luật Công ty Hợp danh năm 1961 (Partnership Act 1961, Act 135) và Luật Công ty năm 2016
 (Companies Act 2016, Act 777).
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

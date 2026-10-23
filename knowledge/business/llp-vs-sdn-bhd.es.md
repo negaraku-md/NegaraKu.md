@@ -292,3 +292,5 @@ Companies Act 2016 (Act 777) tal como las publica SSM, a la Legal Profession Act
 la Income Tax Act 1967 tal como se explica en el Dictamen Público 8/2022 de LHDN. Las tarifas
 proceden del material publicado de SSM y deben volver a comprobarse en el momento de la presentación.
 Nada de lo aquí expuesto es asesoramiento jurídico ni fiscal sobre una firma concreta.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

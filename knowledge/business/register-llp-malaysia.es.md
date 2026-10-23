@@ -304,3 +304,5 @@ persona necesita una identidad SSM4U verificada y se está comprometiendo a una 
 personal. Luego redacte el acuerdo de la LLP en lugar de caer por defecto en el Segundo Anexo, y
 ponga la declaración anual de 90 días en un calendario el mismo día en que llegue el aviso de
 registro.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

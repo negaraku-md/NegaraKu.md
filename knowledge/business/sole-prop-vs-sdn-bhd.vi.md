@@ -139,3 +139,5 @@ Berhad, chi nhánh nước ngoài và công ty Labuan trên cùng các trục. N
 yếu tố quyết định, phép so sánh thuế chuyên dụng làm việc qua các con số với
 các ví dụ đã tính. Một khi bạn đã quyết định, hướng dẫn EzBiz bao trùm việc đăng ký
 kinh doanh và hướng dẫn thành lập bao trùm lộ trình Sdn Bhd.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

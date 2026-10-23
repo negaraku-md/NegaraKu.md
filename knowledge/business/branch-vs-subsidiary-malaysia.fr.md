@@ -335,3 +335,5 @@ et régionaux proviennent de la ligne directrice de la MIDA datée du 24 mars 20
 la politique de la MIDA change sans grand préavis, confirmez donc avant
 d'appliquer. Rien de ce qui précède ne constitue un conseil juridique ou fiscal
 sur une structure particulière.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

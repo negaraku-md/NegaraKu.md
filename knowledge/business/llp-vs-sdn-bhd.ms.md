@@ -337,3 +337,5 @@ sebagaimana dijelaskan dalam LHDN Public Ruling 8/2022. Fi adalah daripada
 bahan yang diterbitkan oleh SSM dan perlu disemak semula pada masa
 memfailkan. Tiada apa-apa di sini merupakan nasihat undang-undang atau cukai
 bagi mana-mana firma tertentu.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

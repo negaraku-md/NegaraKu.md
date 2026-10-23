@@ -263,3 +263,5 @@ Liability Partnerships Act 2012（Act 743）与 Companies Act 2016（Act 777）�
 Profession Act 1976（Act 166），以及 LHDN Public Ruling 8/2022 所阐释的 Income Tax Act
 1967。收费出自 SSM 公布的材料，呈报时应重新查核。本文任何内容都不构成针对特定事务所的
 法律或税务意见。
+
+还在选择公司结构？查看[马来西亚各类商业结构的比较](/zh/business/business-structures-malaysia/)。

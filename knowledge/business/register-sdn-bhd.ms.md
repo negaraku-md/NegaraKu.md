@@ -485,3 +485,5 @@ utama SSM. Rujukan berkanun adalah kepada Akta Syarikat 2016. Jumlah fi, piagam
 pelanggan satu-hari-bekerja SSM, perubahan platform CRS/SSM4U, dan ambang pengecualian
 audit masing-masing dipetik daripada Jadual Fi, garis panduan pemerbadanan, FAQ CRS,
 dan Arahan Amalan No. 10/2024 terbitan SSM.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

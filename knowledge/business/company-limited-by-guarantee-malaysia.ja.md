@@ -106,3 +106,5 @@ CLBGには二種類ある。「Berhad」／「Bhd」を付けるものと、付�
 ## 次のステップ
 
 CLBGが自らの目的に適している場合、実務上の出発点は、会社秘書役（company secretary）を起用し、SSMのPart Aモデルに基づく定款を準備することである。RM100万の基金とその六か月の期限は、初日から資金調達計画を左右するため、「Berhad」なしの名称を追求するかどうかを早期に決定すべきである。完全なチェックリスト、モデル定款及び実例については、出典に記載されているSSMの保証有限責任会社ガイドライン（Guidelines on Company Limited by Guarantee、2021年9月27日）を参照されたい。
+
+まだ事業形態を検討中ですか？[マレーシアの事業形態の比較一覧](/ja/business/business-structures-malaysia/)をご覧ください。

@@ -290,3 +290,5 @@ công bố, Luật Nghề Luật năm 1976 (Legal Profession Act 1976, Act 166),
 1967 như được giải thích trong Public Ruling 8/2022 của LHDN. Các khoản phí là từ các tài liệu được
 công bố của SSM và nên được kiểm tra lại vào thời điểm nộp hồ sơ. Không có gì ở đây là tư vấn pháp
 lý hay thuế về một hãng cụ thể.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

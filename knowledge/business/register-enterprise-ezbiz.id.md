@@ -292,3 +292,5 @@ Jika liabilitas terbatas penting bagi Anda, atau jika Anda memperkirakan akan me
 dengan modal nyata yang berisiko, daftarkan enterprise itu sekarang untuk
 keabsahan segera dan anggap perbandingan dengan sebuah LLP atau Sdn Bhd sebagai
 keputusan berikutnya, bukan keputusan ini.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

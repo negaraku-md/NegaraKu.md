@@ -483,3 +483,5 @@ utama SSM. Rujukan statutori adalah kepada Akta Syarikat 2016. Jumlah biaya, pia
 pelanggan satu-hari-kerja SSM, perubahan platform CRS/SSM4U, dan ambang pengecualian
 audit masing-masing dikutip dari Daftar Biaya, pedoman pendirian, FAQ CRS,
 dan Arahan Amalan No. 10/2024 terbitan SSM.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

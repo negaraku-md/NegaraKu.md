@@ -296,3 +296,5 @@ Companies Act 2016 (Act 777) telles que publiées par SSM, à la Legal Professio
 à l'Income Tax Act 1967 telle qu'expliquée dans la décision publique 8/2022 de LHDN. Les redevances
 proviennent du matériel publié de SSM et doivent être revérifiées au moment du dépôt. Rien de ce qui
 précède n'est un conseil juridique ou fiscal sur un cabinet particulier.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

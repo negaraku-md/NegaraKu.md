@@ -106,3 +106,5 @@ Disebabkan risiko pengubahan wang haram dan pembiayaan keganasan dalam sektor in
 ## Apa yang seterusnya
 
 Jika CLBG sesuai dengan tujuan anda, titik permulaan praktikalnya ialah melibatkan seorang setiausaha syarikat dan menyediakan perlembagaan yang dibina berdasarkan model Bahagian A SSM. Putuskan awal-awal sama ada anda akan meneruskan nama tanpa "Berhad", kerana dana RM1 juta dan tarikh akhir enam bulannya membentuk rancangan pengumpulan dana anda dari hari pertama. Untuk senarai semak lengkap, perlembagaan model dan contoh terperinci, baca Garis Panduan SSM mengenai Syarikat Berhad Menurut Jaminan (27 September 2021) yang dipautkan dalam sumber.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

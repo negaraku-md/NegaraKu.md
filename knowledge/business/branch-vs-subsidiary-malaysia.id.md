@@ -339,3 +339,5 @@ pedoman MIDA bertanggal 24 Maret 2023; kebijakan MIDA dapat berubah tanpa
 banyak pemberitahuan awal, jadi verifikasilah terlebih dahulu sebelum
 menggunakannya. Tidak ada apa pun di sini yang merupakan nasihat hukum atau
 pajak bagi suatu struktur tertentu.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

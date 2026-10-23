@@ -106,3 +106,5 @@ Vì các rủi ro rửa tiền và tài trợ khủng bố trong lĩnh vực nà
 ## Đọc tiếp
 
 Nếu một CLBG phù hợp với mục đích của bạn, điểm khởi đầu thực tiễn là thuê một thư ký công ty và chuẩn bị một điều lệ được xây dựng trên mẫu Phần A của SSM. Hãy quyết định sớm liệu bạn có theo đuổi cái tên không có "Berhad" hay không, bởi vì quỹ RM1 triệu và thời hạn sáu tháng của nó định hình kế hoạch gây quỹ của bạn ngay từ ngày đầu tiên. Để có các danh mục kiểm tra đầy đủ, điều lệ mẫu và các ví dụ, hãy đọc Guidelines on Company Limited by Guarantee (27 September 2021) của SSM được liên kết trong các nguồn.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

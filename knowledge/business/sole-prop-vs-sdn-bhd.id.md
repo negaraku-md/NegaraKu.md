@@ -150,3 +150,5 @@ sumbu yang sama. Jika pajak menjadi faktor penentu, perbandingan pajak khusus
 menguraikan angka-angka itu dengan contoh perhitungan. Setelah Anda membuat
 keputusan, panduan EzBiz mencakup pendaftaran usaha dan panduan
 pendirian mencakup jalur Sdn Bhd.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

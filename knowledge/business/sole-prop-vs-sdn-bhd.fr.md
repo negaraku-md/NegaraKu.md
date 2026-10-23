@@ -139,3 +139,5 @@ la Berhad, la succursale étrangère et la société de Labuan sur les mêmes ax
 facteur décisif, la comparaison fiscale dédiée développe les chiffres avec
 des exemples résolus. Une fois votre décision prise, le guide EzBiz couvre l'enregistrement
 de l'entreprise et le guide de constitution couvre la voie de la Sdn Bhd.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

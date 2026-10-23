@@ -177,3 +177,5 @@ tối thiểu, không miễn kiểm toán, báo cáo đầy đủ của công ty
 
 **Tình trạng xác minh.** Bản thảo có sự hỗ trợ của AI, chưa được chuyên gia xem xét. Các điều khoản được trích dẫn
 là từ Companies Act 2016 (Act 777) như được SSM công bố.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

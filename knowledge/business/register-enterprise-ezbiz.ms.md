@@ -292,3 +292,5 @@ Jika liabiliti terhad penting bagi anda, atau jika anda menjangka akan mengambil
 kongsi dengan modal sebenar yang berisiko, daftarkan enterprise itu sekarang bagi
 kesahihan segera dan anggap perbandingan dengan sebuah LLP atau Sdn Bhd sebagai
 keputusan seterusnya, bukan keputusan ini.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

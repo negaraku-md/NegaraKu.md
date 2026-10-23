@@ -150,3 +150,5 @@ paksi yang sama. Jika cukai menjadi faktor penentu, perbandingan cukai khusus
 menghuraikan angka-angka itu dengan contoh pengiraan. Setelah anda membuat
 keputusan, panduan EzBiz merangkumi pendaftaran perniagaan dan panduan
 pemerbadanan merangkumi laluan Sdn Bhd.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

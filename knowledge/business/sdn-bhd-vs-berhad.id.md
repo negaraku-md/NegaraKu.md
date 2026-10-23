@@ -188,3 +188,5 @@ direktur, tidak ada pengecualian audit, dan pelaporan perusahaan publik yang len
 **Status verifikasi.** Draf berbantuan AI, belum ditinjau oleh pakar. Pasal-pasal
 yang dikutip adalah dari Akta Syarikat 2016 (Act 777) sebagaimana diterbitkan
 oleh SSM.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

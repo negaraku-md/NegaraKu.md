@@ -194,3 +194,5 @@ hanya memberikan anda nama yang dikongsi bersama pada writ saman.
 **Status pengesahan.** Draf berbantukan AI, belum disemak oleh pakar. Seksyen
 yang dipetik adalah daripada Akta Perkongsian 1961 (Akta 135) dan Akta
 Syarikat 2016 (Akta 777).
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

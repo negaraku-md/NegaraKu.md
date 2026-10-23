@@ -511,3 +511,5 @@ Business Activity Tax Act 1990 y de la circular de Labuan FSA sobre la P.U.(A) 4
 texto consolidado de Labuan FSA y las Leyes modificadoras entran en conflicto, hemos seguido las
 Leyes modificadoras y lo hemos dicho. Nada de lo aquí expuesto es asesoramiento jurídico ni fiscal
 sobre una estructura concreta.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

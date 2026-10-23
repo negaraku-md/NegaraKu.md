@@ -308,3 +308,5 @@ rà soát. Các tham chiếu mục là đến Companies Act 2016 (Act 777) như 
 quy tắc về văn phòng đại diện và khu vực là từ hướng dẫn của MIDA đề ngày 24 tháng 3 năm
 2023; chính sách của MIDA thay đổi mà không có nhiều thông báo, nên hãy xác nhận trước khi áp
 dụng. Không điều gì ở đây là tư vấn pháp lý hay thuế về một cơ cấu cụ thể.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

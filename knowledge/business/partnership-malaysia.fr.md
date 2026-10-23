@@ -172,3 +172,5 @@ une personne juridique distincte ; la société de personnes vous donne un nom d
 
 **Statut de vérification.** Brouillon assisté par IA, pas encore revu par un expert. Les sections citées
 proviennent de la Partnership Act 1961 (Act 135) et de la Companies Act 2016 (Act 777).
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

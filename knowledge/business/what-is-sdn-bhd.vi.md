@@ -141,3 +141,5 @@ doanh nghiệp cá thể, hợp danh, LLP, Sdn Bhd, Berhad, chi nhánh nước n
 nằm trong bài so sánh các cơ cấu kinh doanh của Malaysia, và khía cạnh thuế được
 phân tích riêng. Nếu bạn đã quyết định, hướng dẫn đăng ký sẽ hướng dẫn qua
 việc đặt trước tên, thành lập công ty và các thủ tục nộp hồ sơ năm đầu tiên.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

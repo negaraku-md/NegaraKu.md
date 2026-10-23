@@ -172,3 +172,5 @@ una persona jurídica separada; la sociedad colectiva le da un apellido comparti
 
 **Estado de verificación.** Borrador asistido por IA, aún no revisado por un experto. Las secciones citadas
 provienen de la Partnership Act 1961 (Act 135) y la Companies Act 2016 (Act 777).
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

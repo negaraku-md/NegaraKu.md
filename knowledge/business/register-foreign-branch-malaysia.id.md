@@ -310,3 +310,5 @@ dibandingkan anak perusahaan yang didirikan secara lokal pada tiga poros: lapora
 Malaysia di bawah Pasal 575(5), apakah Anda dapat menerima pengungkapan perusahaan asing itu dibandingkan
 entitas yang berpagar, dan siapa yang akan menerima penunjukan sebagai agen padahal mengetahui
 apa yang dinyatakan oleh Pasal 563(1)(c).
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

@@ -249,3 +249,5 @@ SSM 的 EzBiz 指南载有两项计划，其附件要求已内建在申请流程
 
 如果有限责任对你很重要，或者你预期会引入真正投入资本的合伙人，那就先注册 enterprise
 以取得即时的合法身份，并把与 LLP 或 Sdn Bhd 的比较留作下一个决定，而不是这一个。
+
+还在选择公司结构？查看[马来西亚各类商业结构的比较](/zh/business/business-structures-malaysia/)。

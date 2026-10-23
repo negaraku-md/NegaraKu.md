@@ -518,3 +518,5 @@ Labuan Business Activity Tax Act 1990 et de la circulaire de Labuan FSA sur la P
 le texte consolidé de Labuan FSA et les lois modificatives se contredisent, nous avons suivi les lois
 modificatives et l'avons dit. Rien de ce qui précède n'est un conseil juridique ou fiscal sur une
 structure particulière.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

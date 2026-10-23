@@ -153,3 +153,5 @@ trouve dans la comparaison des structures d'entreprise malaisiennes, et le volet
 fiscal est traité séparément. Si vous avez déjà décidé, le guide
 d'enregistrement parcourt la réservation du nom, la constitution et les dépôts de
 la première année.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

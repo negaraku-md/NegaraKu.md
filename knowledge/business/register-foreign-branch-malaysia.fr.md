@@ -315,3 +315,5 @@ l'exercice disparaît. Si vous devez réellement être immatriculé, modélisez 
 filiale constituée localement sur trois axes : l'état malaisien audité de l'art. 575(5), la question
 de savoir si vous pouvez accepter d'exposer la société étrangère plutôt qu'une entité cloisonnée, et
 qui acceptera la nomination d'agent en sachant ce que dit l'art. 563(1)(c).
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

@@ -328,3 +328,5 @@ regionales proceden de la directriz de MIDA fechada el 24 de marzo de 2023; la
 política de MIDA cambia sin mucho preaviso, así que confírmela antes de aplicarla.
 Nada de lo aquí expuesto constituye asesoramiento jurídico o fiscal sobre una
 estructura concreta.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

@@ -473,3 +473,5 @@ importes de las tarifas, la carta de servicio de un día hábil de la SSM, el ca
 CRS/SSM4U, y los umbrales de exención de auditoría se citan a la Tabla de Tarifas publicada por
 la SSM, las directrices de constitución, el FAQ del CRS, y la Directiva de Práctica N.º 10/2024,
 respectivamente.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

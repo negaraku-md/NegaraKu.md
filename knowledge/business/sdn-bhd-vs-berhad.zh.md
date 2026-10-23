@@ -157,3 +157,5 @@ Berhad 的成本编列预算：至少两名董事、没有审计豁免、完整�
 
 **查证状态。**AI 辅助的草稿，尚未经专家审阅。所引条文出自 SSM 所公布的
 Companies Act 2016（Act 777）。
+
+还在选择公司结构？查看[马来西亚各类商业结构的比较](/zh/business/business-structures-malaysia/)。

@@ -106,3 +106,5 @@ Karena risiko pencucian uang dan pendanaan terorisme dalam sektor ini, CLBG dire
 ## Apa berikutnya
 
 Jika CLBG sesuai dengan tujuan Anda, titik awal praktisnya adalah melibatkan seorang sekretaris perusahaan dan menyiapkan konstitusi yang dibangun berdasarkan model Bagian A SSM. Putuskan sejak awal apakah Anda akan melanjutkan nama tanpa "Berhad", karena dana RM1 juta dan tenggat enam bulannya membentuk rencana penggalangan dana Anda sejak hari pertama. Untuk daftar periksa lengkap, konstitusi model, dan contoh terperinci, baca Garis Panduan SSM mengenai Syarikat Berhad Menurut Jaminan (27 September 2021) yang ditautkan dalam sumber.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

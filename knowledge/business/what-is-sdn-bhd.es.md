@@ -153,3 +153,5 @@ empresa de Labuan está en la comparativa de estructuras empresariales malasias,
 y la parte fiscal se trata por separado. Si ya ha decidido, la guía de registro
 recorre la reserva de nombre, la constitución y las presentaciones del primer
 año.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

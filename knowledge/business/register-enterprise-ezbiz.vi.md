@@ -275,3 +275,5 @@ mà nếu không bạn sẽ quên.
 Nếu trách nhiệm hữu hạn quan trọng với bạn, hoặc nếu bạn dự kiến nhận các thành viên hợp danh với
 vốn thực chịu rủi ro, hãy đăng ký doanh nghiệp ngay để có tính hợp pháp tức thì và coi việc
 so sánh với một LLP hoặc một Sdn Bhd là quyết định tiếp theo, không phải quyết định này.
+
+Vẫn đang chọn loại hình? Xem [so sánh tất cả các loại hình doanh nghiệp tại Malaysia](/vi/business/business-structures-malaysia/).

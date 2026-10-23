@@ -106,3 +106,5 @@ Debido a los riesgos de blanqueo de capitales y financiación del terrorismo en 
 ## Qué sigue
 
 Si una CLBG se ajusta a su propósito, el punto de partida práctico es contratar a un secretario de la sociedad y preparar una constitución basada en el modelo de la Parte A de SSM. Decida pronto si va a buscar el nombre sin «Berhad», porque el fondo de RM1 millón y su plazo de seis meses dan forma a su plan de recaudación desde el primer día. Para las listas de verificación completas, la constitución modelo y los ejemplos trabajados, lea las Directrices de SSM sobre la sociedad limitada por garantía (27 de septiembre de 2021) enlazadas en las fuentes.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

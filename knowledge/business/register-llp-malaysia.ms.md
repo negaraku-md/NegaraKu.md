@@ -323,3 +323,5 @@ ditanya — orang itu memerlukan identiti SSM4U yang disahkan dan sedang menerim
 pendedahan peribadi. Kemudian, rangka perjanjian PLT anda sendiri berbanding
 membiarkannya tertakluk secara lalai kepada Jadual Kedua, dan catatkan pengisytiharan
 tahunan 90 hari itu dalam kalendar sebaik sahaja notis pendaftaran diterima.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

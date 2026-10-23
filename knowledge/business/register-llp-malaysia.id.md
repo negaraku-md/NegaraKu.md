@@ -323,3 +323,5 @@ ditanyakan — orang itu memerlukan identitas SSM4U yang diverifikasi dan sedang
 paparan pribadi. Kemudian, susun perjanjian PLT Anda sendiri daripada
 membiarkannya tunduk secara default pada Lampiran Kedua, dan catat deklarasi
 tahunan 90 hari itu dalam kalender begitu pemberitahuan pendaftaran diterima.
+
+Masih memilih struktur? Lihat [perbandingan semua struktur bisnis di Malaysia](/id/business/business-structures-malaysia/).

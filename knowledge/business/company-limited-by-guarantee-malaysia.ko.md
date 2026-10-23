@@ -106,3 +106,5 @@ CLBG에는 두 종류가 있습니다: "Berhad" / "Bhd"를 지닌 것과 지니�
 ## 다음 단계
 
 CLBG가 당신의 목적에 맞는다면, 실질적인 출발점은 회사 비서를 선임하고 SSM의 Part A 모델을 토대로 한 정관을 준비하는 것입니다. "Berhad" 없는 상호를 추구할지 여부를 일찍 결정하십시오. RM100만 기금과 그 6개월 기한이 첫날부터 당신의 모금 계획을 좌우하기 때문입니다. 전체 점검표, 표준 정관 및 실제 예시는 출처에 링크된 SSM Guidelines on Company Limited by Guarantee (27 September 2021)를 참조하십시오.
+
+아직 사업 형태를 고르는 중이신가요? [말레이시아의 모든 사업 구조 비교](/ko/business/business-structures-malaysia/)를 확인해 보세요.

@@ -307,3 +307,5 @@ cette personne a besoin d'une identité SSM4U vérifiée et s'engage à une expo
 Rédigez ensuite l'accord de LLP plutôt que de vous rabattre par défaut sur la Deuxième Annexe, et
 inscrivez la déclaration annuelle de 90 jours à un calendrier le jour même où arrive l'avis
 d'immatriculation.
+
+Vous hésitez encore sur une structure ? Voyez [toutes les structures d'entreprise malaisiennes comparées](/fr/business/business-structures-malaysia/).

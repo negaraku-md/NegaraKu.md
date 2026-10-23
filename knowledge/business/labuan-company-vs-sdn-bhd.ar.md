@@ -465,3 +465,5 @@ Labuan Companies (Amendment) Act 2022 (Act A1653) وLabuan Companies (Amendment)
 (Act A1756)؛ ومتطلبات الجوهر من s.2B من Labuan Business Activity Tax Act 1990 ومن تعميم Labuan
 FSA بشأن P.U.(A) 423/2021. وحيث يتعارض النص الموحَّد لـ Labuan FSA مع القوانين المعدِّلة، اتّبعنا
 القوانين المعدِّلة وقلنا ذلك. ولا شيء هنا مشورةً قانونية أو ضريبية بشأن هيكل بعينه.
+
+ما زلت تختار الهيكل المناسب؟ اطّلع على [مقارنة جميع هياكل الأعمال في ماليزيا](/ar/business/business-structures-malaysia/).

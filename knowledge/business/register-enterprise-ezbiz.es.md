@@ -276,3 +276,5 @@ recordatorios de renovación que, de lo contrario, olvidará.
 Si la responsabilidad limitada le importa, o si espera incorporar socios con capital real en
 riesgo, registre la empresa ahora para obtener legitimidad inmediata y trate la comparación
 frente a una LLP o una Sdn Bhd como la siguiente decisión, no esta.
+
+¿Aún eliges una estructura? Consulta [todas las estructuras empresariales de Malasia comparadas](/es/business/business-structures-malaysia/).

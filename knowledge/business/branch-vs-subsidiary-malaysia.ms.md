@@ -342,3 +342,5 @@ adalah daripada garis panduan MIDA bertarikh 24 Mac 2023; dasar MIDA boleh
 berubah tanpa banyak notis awal, jadi sahkan dahulu sebelum menggunakannya.
 Tiada apa-apa di sini merupakan nasihat undang-undang atau cukai bagi sesuatu
 struktur tertentu.
+
+Masih memilih struktur? Lihat [semua struktur perniagaan di Malaysia dibandingkan](/business/business-structures-malaysia/).

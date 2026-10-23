@@ -282,3 +282,5 @@ SSMが公表するLimited Liability Partnerships Act 2012 (Act 743)及びCompani
 されているIncome Tax Act 1967によるものである。手数料はSSMが公表する資料によるものであり、
 申請の時点で再確認すべきである。本文のいかなる内容も、特定の事務所に対する法律又は税務上の
 助言ではない。
+
+まだ事業形態を検討中ですか？[マレーシアの事業形態の比較一覧](/ja/business/business-structures-malaysia/)をご覧ください。
