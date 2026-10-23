@@ -20,7 +20,7 @@ keyTakeaways:
   - "El Tratado Anglo-Neerlandés del 17 de marzo de 1824 cedió Melaka de forma permanente a Gran Bretaña a cambio de Bencoolen; el traspaso efectivo entró en vigor el 1 de marzo de 1825"
 appliesTo: "Lectores que ya saben que Melaka pasó de manos portuguesas a neerlandesas y luego británicas, y quieren entender por qué los 184 años intermedios se vieron tan distintos de los 130 años anteriores y los 121 posteriores — además de cómo ocurrió en realidad el traspaso a Gran Bretaña."
 lang: "es"
-sourceContentHash: "c29f50bb16f23497"
+sourceContentHash: "2c0da3227a2ca96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Melaka neerlandesa", "VOC Malacca", "Compañía Neerlandesa de las Indias Orientales Malaca", "Batavia frente a Melaka", "Tratado Anglo-Neerlandés 1824", "demolición de A Famosa", "Stadthuys Melaka", "Cartas de Kew 1795", "historia de los Asentamientos del Estrecho"]
+faq:
+  - q: ¿Tomaron los neerlandeses Melaka de los portugueses por sí solos?
+    a: No. La VOC tomó Melaka junto al Sultanato de Johor, que tenía su propia y vieja cuenta pendiente con los portugueses y aportó las fuerzas terrestres y el conocimiento local. El relato del Archivo Nacional de Malasia (Arkib Negara Malaysia) afirma que la fortaleza fue derrotada por los neerlandeses unidos a Johor tras un asedio de siete meses desde el mar y la tierra. Cuando cayó en 1641, los neerlandeses encontraron 68 cañones y 74 fusiles con los que los portugueses la habían defendido.
+  - q: ¿Por qué no convirtieron los neerlandeses a Melaka en un rico puerto comercial?
+    a: Porque la VOC ya tenía una capital regional construida ex profeso en Batavia (Yakarta), establecida mucho antes de 1641, y nunca pretendió que Melaka compitiera con su propia sede. La prioridad de la compañía era negar el puerto y su estrecho a las potencias europeas rivales, no construir un entrepôt competidor. Los cupos de estaño se desviaron a Batavia, a los gobernadores de Melaka se les negó mayor margen comercial, y el puerto se mantuvo como una ciudad de guarnición y administración subordinada.
+  - q: ¿Pasó Melaka de los neerlandeses a los británicos en una sola entrega limpia?
+    a: No. Cambió de manos administrativamente cuatro veces en treinta años. Gran Bretaña ocupó Melaka en 1795 en virtud de las Cartas de Kew (Kew Letters) para evitar que cayera en manos de Francia, Melaka fue devuelta a los neerlandeses en 1818, el Tratado Anglo-Neerlandés de 1824 (firmado el 17 de marzo de 1824) la cedió de forma permanente a Gran Bretaña a cambio de Bencoolen en Sumatra, y la transferencia efectiva entró en vigor el 1 de marzo de 1825.
 ---
 
 Una compañía dedica siete meses y una alianza con un sultanato extranjero a conquistar un puerto. Luego dedica el siguiente siglo y medio a asegurarse de que ese puerto nunca se enriquezca.

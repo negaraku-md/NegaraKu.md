@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -68,6 +68,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: Adakah label IPTA atau IPTS memberitahu saya sama ada sesuatu ijazah akan diiktiraf?
+    a: Tidak. Pengiktirafan ditentukan program demi program melalui akreditasi oleh Agensi Kelayakan Malaysia (MQA), yang ditubuhkan di bawah Akta Agensi Kelayakan Malaysia 2007 (Akta 679), bukan oleh sama ada institusi itu awam atau swasta. Malah sebuah universiti terkenal pun boleh mempunyai program yang baharu, bersifat sementara atau belum diakreditasi. Semak program dan tahun kemasukan tertentu dalam Daftar Kelayakan Malaysia (MQR) sebelum mendaftar di mana-mana jenis institusi.
+  - q: Bolehkah saya memohon ke universiti swasta melalui UPU?
+    a: Tidak. UPU (Unit Pusat Universiti), sistem dalam talian berpusat Kementerian Pengajian Tinggi, hanya merangkumi universiti awam, institusi MARA, politeknik dan kolej komuniti. Institusi swasta (IPTS) berada sepenuhnya di luar UPU dan mesti dipohon secara terus; setiap satu mengendalikan pejabat kemasukannya sendiri, menetapkan syarat kemasukannya sendiri bagi setiap program dan boleh membuat tawaran dalam beberapa hari, sering kali menerima UEC, A-Level, IB dan kelayakan lain di samping SPM dan STPM.
+  - q: Sesuatu program hanya "diakreditasi secara sementara" — adakah itu bermakna ia tidak diakreditasi?
+    a: Tidak. Di bawah Kod Amalan Akreditasi Program MQA, Akreditasi Sementara mengesahkan bahawa sesuatu program telah memenuhi syarat kualiti minimum untuk ditawarkan secara sah, dan ia sendiri merupakan syarat untuk kelulusan Kementerian. Akreditasi Penuh ialah penilaian yang lebih menyeluruh yang dijalankan setelah kohort pertama menamatkan program tersebut. Program yang diakreditasi secara sementara adalah sah dan boleh ditawarkan secara sah; cuma ia belum menyelesaikan penilaian kitaran penuh.
 ---
 
 Dua orang pelajar dengan keputusan SPM yang sama boleh berakhir dalam dua sistem

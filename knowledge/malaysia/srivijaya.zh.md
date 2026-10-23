@@ -19,7 +19,7 @@ appliesTo: "希望了解在马六甲统治海峡之前，是谁统治着马六�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c0d3b0b3dd803ef"
+sourceContentHash: "69e06d6034cc1b41"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -54,6 +54,13 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["melaka-sultanate", "langkasuka"]
 keywords: ["Srivijaya", "Bujang Valley", "Lembah Bujang", "Kedah Tua", "thalassocracy", "Old Malay", "Parameswara Palembang", "Strait of Melaka history"]
+faq:
+  - q: 三佛齐(Srivijaya)是一个马来西亚王国吗?
+    a: 不是——把它当作马来西亚王国是常见的错误。三佛齐的都城和核心领土位于苏门答腊,即今日的印度尼西亚境内,以穆西河(Musi River)畔的巨港(Palembang)为中心。它的影响力延伸到今日的马来西亚——最具体地体现在吉打的布央谷(Bujang Valley)——但它的中枢从未设在马来半岛上。它是一个海洋帝国(thalassocracy),控制的是海上航道和河口港口,而非大片陆地。
+  - q: 三佛齐与马六甲苏丹王朝的建立有何关联?
+    a: 拜里米苏拉(Parameswara)在大约1400年建立了马六甲苏丹王朝,马来传统以及马六甲州政府本身的记载都称他是来自巨港——三佛齐昔日都城——的王室王子。到那时,三佛齐的政治势力早已不复存在,但马六甲继承了同样的海洋帝国模式:据守海峡,保障安全通行,让商人前来,只是从一个新的据点运作。
+  - q: 已知最古老的古马来语碑铭是哪一块,它与三佛齐有何关系?
+    a: 那是格杜干武吉碑铭(Kedukan Bukit inscription),年代定于公元682年,记载了一次三佛齐的军事与宗教仪式远征。除了在苏门答腊历史上的意义之外,它的重要之处在于是已知最古老的以古马来语书写的碑铭——现代马来语与现代印尼语的直系祖先。随着三佛齐贸易网络的扩张,古马来语在任何苏丹王朝出现之前的数百年,便已作为通行的通用语(lingua franca)传遍整个群岛。
 ---
 
 1396年，拜里米苏拉从淡马锡（今新加坡）出逃，来到后来成为马六甲的那道河岸时，他并非凭空冒出来的无名之辈。马六甲州政府自己的记载至今仍明确称他为「一位来自巨港的王室王子」。巨港位于苏门答腊南部的穆西河（Musi River）畔，在拜里米苏拉出生前约六百年，一直是一个统治马六甲海峡的海上强权的都城——这个王国名为室利佛逝。等到拜里米苏拉抵达半岛时，那个王国的政治权力早已烟消云散。但他所建立的马六甲苏丹国，却将其血脉——可以说还有马来贸易港口该有的整套模式——直接承袭自室利佛逝的废墟之中。

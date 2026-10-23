@@ -70,6 +70,13 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
+faq:
+  - q: Kenapa pantai timur Semenanjung banjir sementara pantai barat kekal kering pada masa yang sama?
+    a: Jawapannya terletak pada geografi. Pantai timur menghadap terus ke Laut China Selatan, jadi tiada apa menghalang angin lembap Monsun Timur Laut sebelum ia sampai ke Kelantan, Terengganu, Pahang dan Johor. Pantai barat pula dilindungi Banjaran Titiwangsa yang membelah Semenanjung dari utara ke selatan; banjaran ini memaksa udara lembap naik dan menurunkan sebahagian besar hujannya di lereng timur sebelum sampai ke sisi barat.
+  - q: Adakah semua banjir di Malaysia merupakan banjir monsun?
+    a: Tidak. Banjir di pantai barat tidak selalu disebabkan Monsun Timur Laut — menurut Ketua Pengarah MetMalaysia, ia sering berpunca daripada sistem tekanan rendah yang berasingan, seperti yang menjejaskan Perak, Selangor dan Perlis pada November 2025. Selain itu, banjir kilat akibat sistem perparitan bandar yang tidak mencukupi adalah fenomena berasingan dan boleh berlaku pada bila-bila masa tanpa mengira monsun.
+  - q: Adakah Monsun Timur Laut sama teruk sepanjang November hingga Mac?
+    a: Tidak. Data rasmi Majlis Keselamatan Negara (MKN) bagi musim 2024/2025 menunjukkan kawasan berisiko tertinggi berubah mengikut fasa. Pada fasa awal (November–Disember) Kelantan, Terengganu, Pahang, Johor, Sarawak dan Sabah terjejas; pada fasa lewat (Januari–Februari) tumpuan beralih ke Pahang, Johor, Sarawak dan Sabah — Kelantan dan Terengganu tidak lagi disenaraikan berisiko tertinggi. Keseluruhan musim dijangka mencatat 5 hingga 7 episod hujan lebat.
 ---
 
 Setiap November, sebelum semak berita, ramai penduduk Kota Bharu, Kuala Terengganu dan Kuantan mula menyemak paras air sungai berhampiran rumah mereka. Ini bukan kebiasaan yang timbul daripada bencana luar jangka — ia satu jadual yang boleh diramal, berulang setiap tahun, dan puncanya ialah satu sistem angin bermusim yang sama yang juga menentukan bila pantai barat Semenanjung pula kering.

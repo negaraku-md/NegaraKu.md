@@ -22,7 +22,7 @@ appliesTo: "変動金利ローンを利用する借り手、貯蓄者、そし�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 
 status: "published"
 aiAssisted: true
@@ -56,6 +56,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malaysia", "Overnight Policy Rate", "kadar dasar semalaman", "Bank Negara interest rate", "BNM MPC"]
+faq:
+  - q: OPRは私が住宅ローンで実際に支払う金利のことですか？
+    a: いいえ。OPRは、銀行同士が翌日物で貸し借りする際にバンク・ネガラ（Bank Negara）が目標とする金利であり、あなたに直接課されるものではありません。マレーシアの住宅ローンは通常、基準金利（BR）に上乗せ幅を加えた形で提示され、そのBRの背後にある資金調達コストを最も大きく左右するのがOPRです。BRが動くと、返済額も通常1〜2か月以内に動きます。
+  - q: OPRが変わると、貸出金利と預金金利は同じ方向に動くのですか？
+    a: どちらも同じ方向に動きますが、対称的ではありません。記事は知っておくべき非対称性を指摘しています。貸出金利は速く上がり、ゆっくり下がる傾向があるのに対し、預金金利はその逆で、貸出よりも遅く、かつ不完全に価格が見直される傾向があります。記事はこれを、ルールというより銀行の利ざやをめぐる商業上の現実だと説明しています。
+  - q: OPRの『据え置き』という決定は、金融政策委員会が何もしなかったという意味ですか？
+    a: いいえ——金利を据え置くという決定もまた一つの決定です。金融政策委員会は公表された日程に沿って年6回会合を開きます。据え置きの決定が長く続くのは、インフレは引き締めを要しないほど抑制されており、成長は支援を要しないほど堅調である、という判断を反映したものです。あわせて公表される声明は通常、委員会の政策スタンスを示唆します。
 ---
 
 ## 概要

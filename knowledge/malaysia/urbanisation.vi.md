@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố đọc thống kê dân số, lao động hay bất động sản của Malaysia cho đúng — nhà nghiên cứu, nhà quy hoạch, và các doanh nghiệp đánh giá dân số và lực lượng lao động thực sự ở đâu."
 
 lang: "vi"
-sourceContentHash: "0362cd9a8f8b4f6a"
+sourceContentHash: "7490bc9be18b1f7b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor", "unemployment-labour-force", "choosing-a-business-location-malaysia"]
 keywords: ["Malaysia urbanisation rate", "kadar pembandaran Malaysia", "DOSM urban area definition", "Klang Valley population", "Malaysia rural urban migration", "urban population Malaysia 2020"]
+faq:
+  - q: Trong thống kê của Malaysia, "đô thị" (urban) có nghĩa là một thành phố lớn không?
+    a: 'Không. Theo phương pháp luận của cuộc Tổng điều tra dân số 2020 của DOSM, "đô thị" là một tiêu chí dựa trên dân số, không dựa trên quy mô: một khu vực đã được công bố trên công báo cùng với khu vực xây dựng giáp ranh của nó, có tổng dân số từ 10.000 người trở lên, trong đó ít nhất 60% cư dân từ 15 tuổi trở lên của khu vực xây dựng đó làm việc ngoài lĩnh vực nông nghiệp. Một thị trấn 10.000 dân có một khu chợ ướt cũng đủ điều kiện y như Petaling Jaya, nên "dân số đô thị" không giống với "những người sống ở các thành phố lớn".'
+  - q: Quá trình đô thị hóa của Malaysia có còn được thúc đẩy bởi việc người dân chuyển từ làng quê lên thành phố không?
+    a: Phần lớn là không — mô hình đó hầu như đã kết thúc. Báo cáo Khảo sát Di cư, Malaysia, 2024 của DOSM cho thấy 84,6% các cuộc di chuyển trong nội bộ bang là từ đô thị sang đô thị, so với chỉ 0,6% từ nông thôn lên đô thị. Hầu hết những người di chuyển vốn đã là cư dân đô thị chuyển đến một khu vực đô thị khác. Một khi một quốc gia vượt qua mức khoảng ba phần tư đô thị, những thay đổi tiếp theo chủ yếu đến từ tăng trưởng tự nhiên, phân loại lại ranh giới và sự luân chuyển giữa các đô thị, chứ không phải do các làng quê bị bỏ trống.
+  - q: Phần lớn tăng trưởng đô thị của Malaysia tập trung ở đâu?
+    a: Ở Thung lũng Klang (Klang Valley). Tại cuộc Tổng điều tra dân số 2020, bốn quận giáp nhau — Kuala Lumpur (1.982.112), Petaling (2.298.130), Ulu Langat (1.400.461) và Klang (1.088.942) — cùng nhau có khoảng 6,77 triệu người, hơn một phần năm dân số cả nước là 32,4 triệu người. Selangor hiện là bang đông dân nhất với 6.994.423 người và có mức đô thị hóa 95,8%, trong khi Kelantan, ở mức 44,1%, là bang ít đô thị hóa nhất.
 ---
 
 ## Cứ ba trong bốn người Malaysia nay sống ở một nơi mà DOSM gọi là "đô thị"

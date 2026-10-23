@@ -25,7 +25,7 @@ verificationNeeded:
   - "등급별 MM2H의 구체적 소득·예금·기간 수치는 신청 시점에 공식 MM2H 포털(mm2h.gov.my)에서 직접 확인해야 함. 포털이 자동 조회를 차단하고 그 등급이 최근 몇 년간 한 번 이상 재편되었기 때문."
 
 lang: "ko"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: 말레이시아로 이주할 때 가장 먼저 처리해야 할 것은 무엇입니까?
+    a: '무엇이든 예약하기 전에 이민 패스입니다. 거의 모든 후속 업무는 여권이 아니라 귀하가 보유한 패스를 확인합니다. 입국 후 실무적인 순서는 다음과 같습니다: 먼저 임시 숙소, 그 다음 은행 계좌(패스와 말레이시아 주소가 필요), 그 다음 SIM 등록(이 역시 패스와 현지 주소에 좌우됨), 그리고 운전할 계획이라면 운전면허 전환입니다. 패스가 발급되기 전에 은행 계좌를 개설하려는 것은 새로 온 사람들이 일주일을 허비하는 가장 흔한 방법입니다.'
+  - q: 관광 패스로 입국한 뒤 나중에 취업 또는 장기 체류 패스로 전환할 수 있습니까?
+    a: 대부분의 경우 불가능합니다. 일반적인 단기 사교 방문(관광) 패스는 귀하가 방문이 허용되었음을 증명할 뿐이며, 말레이시아 내부에서 취업이나 장기 체류 자격으로 전환되지 않습니다. 취업, 가족 후원, 또는 자비 장기 체류가 계획이라면, 패스 신청은 일반적으로 이주 전에 마무리되거나 적어도 상당히 진행되어 있어야 하며, 도착 후 첫 주의 용무로 취급해서는 안 됩니다.
+  - q: 말레이시아 디지털 입국 카드란 무엇이며, 비용이 드나요?
+    a: 말레이시아 디지털 입국 카드(MDAC)는 대부분의 외국인 입국자가 도착 전에 온라인으로 완료해야 하는 무료 입국 등록으로, 이민국 자체 공식 포털을 통해서만 제출됩니다. 이것은 비자가 아니며, 이미 보유하고 있는 패스나 비자를 대체하지 않습니다. 이민국은 이것이 무료임을 강조하는데, 비공식 모방 사이트들이 원천에서는 비용이 전혀 들지 않는 양식에 대해 여행자에게 요금을 부과해 왔기 때문입니다.
 ---
 
 말레이시아 이주를 계획하는 대부분의 사람은 잘못된 질문으로 시작합니다. 「어떤 서류가 필요한가」를 묻고는 — 비자 유형, SIM 카드 안내, 은행 계좌 규정, 운전면허 규정 — 어느 것이 먼저 이루어져야 하는지 감각 없이 탭으로 가득 찬 브라우저로 끝납니다. 그런 다음 착륙하여, 관광 도장으로 은행 계좌를 개설하려다 거절당하고, 왜인지 알아내느라 한 주를 잃습니다.

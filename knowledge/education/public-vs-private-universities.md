@@ -67,6 +67,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: Does the IPTA or IPTS label tell me whether a degree will be recognised?
+    a: No. Recognition is decided programme by programme through accreditation by the Malaysian Qualifications Agency (MQA), established under the Malaysian Qualifications Agency Act 2007 (Act 679), not by whether the institution is public or private. Even a well-known university can have a programme that is new, provisional or not yet accredited. Check the specific programme and intake year on the Malaysian Qualifications Register (MQR) before enrolling at either type of institution.
+  - q: Can I apply to a private university through UPU?
+    a: No. UPU (Unit Pusat Universiti), the Ministry of Higher Education's centralised online system, only covers public universities, MARA institutions, polytechnics and community colleges. Private institutions (IPTS) sit entirely outside UPU and must be applied to directly; each runs its own admissions office, sets its own entry requirements per programme and can make an offer within days, often accepting UEC, A-Levels, IB and other qualifications alongside SPM and STPM.
+  - q: A programme is only "provisionally accredited" — does that mean it isn't accredited?
+    a: No. Under MQA's Code of Practice for Programme Accreditation, Provisional Accreditation confirms a programme has met the minimum quality requirements to be legally offered, and is itself a condition for Ministry approval. Full Accreditation is the fuller assessment carried out once a first cohort has gone through the programme. A provisionally accredited programme is legitimate and legally offerable; it simply hasn't yet completed the full-cycle assessment.
 ---
 
 Two students with the same SPM results end up in completely different systems.

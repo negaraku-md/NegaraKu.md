@@ -22,7 +22,7 @@ appliesTo: "希望准确解读马来西亚工业统计数据的投资者、求�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: 制造业占国内生产总值（GDP）的比重自1999年以来持续下降——这是否意味着马来西亚正在去工业化？
+    a: 不是。从1999年接近31%的下降在2010年前后结束；此后该比重一直维持在22–23%左右，十五年间的波动区间仅略超一个百分点。这是一个平台期，而非衰退。制造业产出仍在增长——该领域在2025年扩张了4.5%——只是增长速度与经济其余部分几乎相同而已。
+  - q: 制造业雇用了27.5%的马来西亚人，这是真的吗？
+    a: 不是——这是常见的误引。统计局（DOSM）的季度就业调查只统计已注册的私营机构，即2025年第四季度的921万个职位，制造业的254万个占该子集的27.5%。该调查不包括公共部门、自雇者和非正规就业，因此制造业在所有就业者中所占的比重实际上低得多。回答那个问题应使用劳动力调查。
+  - q: 如果GDP比重持平，制造业岂不是只困在做低价值的组装工作？
+    a: 生产率数据给出了相反的结论。2025年制造业每工作小时的增加值达到59.0令吉，而服务业为42.0令吉——每小时高出约40%，并比44.5令吉的全国平均水平高出约三分之一。比重持平部分是算术问题：服务业增长更快（5.4%对制造业的4.5%），因此较小领域的比重即便产出上升也会下降。制造业内部的构成正在转变，而这是GDP比重无法显示的。
 ---
 
 ## 一览

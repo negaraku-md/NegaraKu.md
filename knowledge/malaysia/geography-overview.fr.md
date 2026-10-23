@@ -18,7 +18,7 @@ keyTakeaways:
   - "La mousson du Nord-Est (nov.-mars) détrempe la côte est de la péninsule, l'ouest du Sarawak et le nord du Sabah ; la mousson du Sud-Ouest (mai-sept.) est comparativement plus sèche — un rythme qui détermine encore aujourd'hui la saison des inondations et les calendriers agricoles (Département météorologique de la Malaisie)"
 appliesTo: "Toute personne cherchant à comprendre pourquoi la population, les villes et le risque d'inondation de la Malaisie se regroupent là où ils le font — étudiants, nouveaux arrivants, planificateurs, ou quiconque est déconcerté par le fait que « saison des moussons » signifie des choses différentes sur des côtes différentes."
 lang: "fr"
-sourceContentHash: "1aadf1352cd31f55"
+sourceContentHash: "53f49043897c123b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["what-malaysia-is", "urbanisation", "sabah"]
 keywords: ["géographie de la Malaisie", "chaîne de Titiwangsa", "géographie de la Malaisie péninsulaire", "Malaisie orientale Bornéo", "altitude du mont Kinabalu", "Gunung Tahan", "saison des moussons en Malaisie", "mousson du nord-est", "mousson du sud-ouest", "plaines côtières de la Malaisie", "superficie de la Malaisie"]
+faq:
+  - q: Pourquoi la « saison des moussons » correspond-elle à des mois différents sur les différentes côtes de la Malaisie ?
+    a: Parce que deux moussons alternées frappent des côtés opposés du pays. La mousson du nord-est (environ de novembre à mars) apporte de fortes pluies et des inondations sur la côte est de la Péninsule, l'ouest du Sarawak et l'est du Sabah. La mousson du sud-ouest (environ de mai à septembre) est comparativement plus sèche et touche le côté opposé. Ainsi, la saison des pluies de la côte est et celle de la côte ouest ne tombent pas aux mêmes mois, avec de brèves périodes intermoussons entre les deux.
+  - q: Quelle est la différence entre le Gunung Tahan et le mont Kinabalu ?
+    a: 'Ce sont deux sommets records différents sur deux masses continentales différentes, séparées par la mer de Chine méridionale. Le Gunung Tahan, culminant à 2 187 mètres à la frontière entre le Pahang et le Kelantan, à l''intérieur du Taman Negara, est le point le plus élevé de la Malaisie péninsulaire. Le mont Kinabalu, au Sabah, s''élève à 4 095 mètres : c''est le plus haut sommet de toute la Malaisie, et le plus haut où que ce soit entre l''Himalaya et la Nouvelle-Guinée. Confondre les deux est une erreur courante.'
+  - q: Pourquoi la plupart des Malaisiens vivent-ils près des côtes plutôt qu'à l'intérieur des terres ?
+    a: Chaque masse continentale est dominée par une épine dorsale montagneuse centrale — la chaîne de Titiwangsa dans la Péninsule, la chaîne de Crocker au Sabah — flanquée seulement d'étroites plaines côtières. Ces hautes terres repoussent le peuplement vers l'extérieur, vers les plaines côtières et les vallées fluviales, laissant l'intérieur montagneux peu peuplé. La plaine abritée de la côte ouest de la Péninsule, apaisée par le détroit de Malacca, abrite la majeure partie de sa population et ses plus grandes villes, comme Kuala Lumpur et George Town.
 ---
 
 Envolez-vous vers Kuala Lumpur depuis Kota Kinabalu et vous franchirez plus qu'une frontière intérieure : vous franchirez plusieurs centaines de kilomètres de haute mer. La Malaisie est un seul pays agrafé à travers deux masses continentales distinctes, et ce simple fait de forme a décidé en silence presque tout le reste : où sont les villes, où sont les rizières et quelle côte s'inonde chaque décembre.

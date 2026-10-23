@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
+faq:
+  - q: Is there a Tenancy Act that protects renters in Malaysia?
+    a: No. Malaysia has no dedicated Residential Tenancy Act — a Residential Tenancy Bill has been discussed for years but has not been tabled as law. A residential rental is an ordinary contract under the Contracts Act 1950, filled in by the Specific Relief Act 1950, the Distress Act 1951 and the Civil Law Act 1956. Because so little is fixed by statute, the signed tenancy agreement itself carries almost all the weight.
+  - q: If my tenancy agreement was never stamped, is it invalid?
+    a: 'No — skipping the stamp does not make the tenancy invalid between the two parties. It does something more specific: an unstamped or insufficiently stamped agreement generally cannot be admitted as evidence in court until the outstanding duty and any late penalty are paid. The agreement must be presented for stamping within 30 days of signing under the Stamp Act 1949, and discovering the gap mid-dispute is the worst possible moment.'
+  - q: Can a landlord change the locks or cut the utilities if a tenant refuses to leave?
+    a: No. Section 7(2) of the Specific Relief Act 1950 bars a landlord from self-help eviction — no changing locks, cutting electricity or water, or removing belongings while the tenant is still in occupation. Recovering possession requires a court order. For unpaid rent, a landlord applies to court for a warrant of distress under the Distress Act 1951 to seize the tenant's movable property, rather than confronting the tenant directly.
 ---
 
 Ask a landlord and a tenant in Malaysia which law protects them, and most will guess wrong. There is no "Residential Tenancy Act" to reach for — no single statute setting notice periods, capping deposits, or spelling out what a landlord can and can't do at move-out.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "BNM의 디지털 온보딩 / e-KYC 정책 페이지는 작성 시점에 자동 조회 시 403을 반환했습니다. 그 존재와 제목은 bnm.gov.my 검색 결과에서 직접 확인되지만, 세부 자격 사항은 접근 가능할 때 bnm.gov.my에서 직접 다시 확인해야 합니다."
 
 lang: "ko"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: 관광 비자로 말레이시아 은행 계좌를 개설할 수 있습니까?
+    a: 아닙니다. 단기 사회 방문(관광) 패스는 어떤 주요 은행에서도 표준 개인 계좌에는 인정되지 않습니다. 이는 당신이 방문을 허가받았다는 것만 증명할 뿐, 은행이 확인할 수 있는 고용주, 기관, 장기 주소, 갱신 가능한 자격이 없으므로, 은행이 사용하는 어떤 서류 범주에도 이에 해당하는 자리가 없습니다. 이것은 구조적 공백이며, 그렇기 때문에 관광 패스의 경우 단지 다른 은행을 시도하는 것만으로는 거의 효과가 없습니다.
+  - q: 말레이시아 국민이 계좌를 개설하는 데 실제로 필요한 서류는 무엇입니까?
+    a: 대부분의 간단한 저축 계좌나 당좌 계좌의 경우, 국민이나 영주권자에게 필수인 유일한 서류는 MyKad 원본입니다. CIMB가 공개한 요건에 따르면, 재직 증명서, EPF(직원공제기금) 명세서, 급여명세서, 최근 은행 거래 내역서 같은 추가 증빙은 상위 등급 계좌이거나 등록하려는 주소가 MyKad에 인쇄된 주소와 다른 경우 등 특정 상황에서만 요구됩니다. 미성년자는 출생증명서와 함께 부모 또는 보호자의 MyKad가 필요합니다.
+  - q: 은행은 왜 제 비자 종류에 따라 서로 다른 서류를 요구합니까?
+    a: 은행이 보충 서류를 당신이 말레이시아에 있는 구체적인 이유 — 바로 당신의 패스가 증명하는 것 — 와 연결하기 때문입니다. CIMB가 공개한 요건에 따르면, 취업 패스(Employment Pass)로 일하는 외국인에게는 보통 재직 증명서와 은행 기준을 넘는 월 급여 증빙(CIMB는 RM10,000으로 명시)이 요구되고, 학생 패스(Student Pass) 소지자에게는 학생증과 재학 증명서가, 부양가족 패스(Dependant Pass) 소지자에게는 해당되는 경우 혼인 증명서가 요구됩니다. 모두 최소 6개월 이상 유효한 여권과 패스가 필요합니다.
 ---
 
 말레이시아 시민은 MyKad를 들고 지점에 들어가 양식에 서명하고 30분도 안 되어 작동하는 계좌를 들고 나옵니다. 관광 비자를 지닌 외국인은 같은 날 오후 여권을 손에 쥐고 같은 지점에 들어가 — 거절당합니다. 같은 은행, 같은 창구, 완전히 다른 결과입니다. 그 차이는 창구 직원의 기분이 아니라, 당신이 누구이고 어떤 패스를 지녔는지에 전적으로 달린 문서 체크리스트입니다.

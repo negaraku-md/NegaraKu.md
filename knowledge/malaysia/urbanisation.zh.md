@@ -23,7 +23,7 @@ appliesTo: "任何需要正确解读马来西亚人口、劳动力或房地产�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0362cd9a8f8b4f6a"
+sourceContentHash: "7490bc9be18b1f7b"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,13 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor", "unemployment-labour-force", "choosing-a-business-location-malaysia"]
 keywords: ["Malaysia urbanisation rate", "kadar pembandaran Malaysia", "DOSM urban area definition", "Klang Valley population", "Malaysia rural urban migration", "urban population Malaysia 2020"]
+faq:
+  - q: 在马来西亚的统计中,"城市(urban)"是指大城市吗?
+    a: 不是。根据马来西亚统计局(DOSM)2020年人口普查的方法,"城市"是基于人口的标准,而非基于规模:即一个宪报公布的地区加上与其接壤的建成区,两者合计人口达10,000人或以上,且该建成区中15岁及以上居民至少有60%从事农业以外的工作。一个拥有巴刹(菜市场)、人口为10,000人的小镇,与八打灵再也(Petaling Jaya)一样符合标准,因此"城市人口"并不等同于"居住在大城市的人口"。
+  - q: 马来西亚的城市化是否仍由人们从乡村迁往城市所推动?
+    a: 基本上不是——这种模式大体上已经结束。DOSM的《2024年马来西亚迁移调查报告》发现,州内迁移中有84.6%是从城市到城市,而从乡村到城市的仅占0.6%。大多数迁移者本身已是城市居民,只是搬到另一个城市地区。一旦一个国家的城市化率超过约四分之三,进一步的变化主要来自自然增长、边界重新划分以及城市之间的流动,而非乡村人口流失一空。
+  - q: 马来西亚的城市增长大部分集中在哪里?
+    a: 在巴生谷(Klang Valley)。在2020年人口普查中,四个相邻的县——吉隆坡(1,982,112)、八打灵(2,298,130)、乌鲁冷岳(1,400,461)和巴生(1,088,942)——合计约有677万人,超过全国3,240万人口的五分之一。雪兰莪如今是人口最多的州,有6,994,423人,城市化率为95.8%,而吉兰丹以44.1%成为城市化程度最低的州。
 ---
 
 ## 四分之三的大马人如今住在DOSM认定的「城市」里

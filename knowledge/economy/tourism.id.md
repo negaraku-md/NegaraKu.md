@@ -23,7 +23,7 @@ appliesTo: "Analis, wartawan, pelajar, investor, dan operator yang perlu membaca
 seoTitle: "Statistik Pariwisata Malaysia: Kedatangan versus Penerimaan"
 
 lang: "id"
-sourceContentHash: "396de79b31be6ee8"
+sourceContentHash: "722b55381d173929"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,13 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "unemployment-labour-force", "ringgit"]
 keywords: ["Malaysia tourist arrivals", "Malaysia tourism receipts", "Visit Malaysia 2026", "Tourism Satellite Account Malaysia", "excursionist vs tourist", "Malaysia tourism GDP"]
+faq:
+  - q: Malaysia melaporkan kedatangan wisatawan asing yang memecahkan rekor — apakah itu berarti jumlah wisatawan memecahkan rekor?
+    a: 'Tidak. Angka utama kedatangan menghitung pengunjung, yang sama dengan wisatawan menginap ditambah pelancong sehari (same-day). Pada Januari–April 2025, keduanya bergerak ke arah berlawanan: wisatawan menginap 5.6% di bawah level setara 2019, sementara pelancong sehari 64.9% di atasnya. Jadi, total yang melampaui level 2019 itu sebagian besar merupakan pemulihan perjalanan sehari — segmen menginap yang mengisi kamar hotel dan memesan penerbangan belum kembali ke level sebelum pandemi.'
+  - q: Singapura mengirim pengunjung terbanyak — apakah ia juga sumber uang pariwisata terbesar?
+    a: Singapura memang sumber penerimaan tunggal terbesar, tetapi porsinya jauh lebih kecil daripada yang disiratkan oleh jumlah kedatangannya. Pada 2024, Singapura menyumbang 49.7% kedatangan pengunjung asing tetapi hanya 26.2% penerimaan; China menyumbang 9.8% kedatangan tetapi 19.5% penerimaan. Rata-rata pengeluaran per kedatangan berkisar dari sekitar RM1,500 untuk Singapura hingga sekitar RM5,600 untuk China, dibandingkan rata-rata nasional sekitar RM2,800 — kesenjangan besar yang didorong oleh komposisi perjalanan sehari.
+  - q: Apakah pariwisata menyumbang 15.1% dari PDB Malaysia atau 6.2%?
+    a: Kedua angka berasal dari Akun Satelit Pariwisata DOSM, tetapi mengukur hal yang berbeda dan tidak boleh dipertukarkan. Nilai tambah bruto industri pariwisata (GVATI) adalah 15.1% dari PDB pada 2024 — seluruh output industri yang melayani wisatawan, termasuk bagian yang dikonsumsi oleh penduduk lokal. PDB langsung pariwisata (TDGDP) adalah 6.2% — hanya permintaan pariwisata. Industri pariwisata sekitar sepertujuh dari ekonomi; permintaan pariwisata secara langsung sekitar seperenam belas.
 ---
 
 Pada 2024 Malaysia mencatatkan 37,961,485 kedatangan pengunjung asing — lebih

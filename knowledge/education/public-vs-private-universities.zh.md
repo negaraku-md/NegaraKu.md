@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -68,6 +68,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: IPTA（公立）或 IPTS（私立）的标签能告诉我一个学位是否会被承认吗？
+    a: 不能。承认与否是由马来西亚学术资格鉴定机构（MQA）逐个课程通过认证来决定的，该机构依据《2007年马来西亚学术资格鉴定机构法令》（第679号法令）设立，而不取决于院校是公立还是私立。即便是知名大学，也可能有新开设、暂行或尚未获认证的课程。在任何一类院校报读之前，请先在马来西亚学术资格登记册（MQR）上查核具体课程及其入学年份。
+  - q: 我可以通过 UPU 申请私立大学吗？
+    a: 不可以。UPU（大学中心单位，Unit Pusat Universiti）是高等教育部的集中式在线系统，仅涵盖公立大学、MARA 机构、理工学院和社区学院。私立院校（IPTS）完全不在 UPU 范围内，必须直接申请；每所院校各自设有招生办公室，按课程自行设定入学条件，并可在数日内发出录取通知，往往在 SPM 和 STPM 之外也接受 UEC、A-Level、IB 等资格。
+  - q: 某课程只是"暂行认证"——这是否意味着它未获认证？
+    a: 不是。根据 MQA 的《课程认证实践守则》，暂行认证确认一个课程已达到可合法开办的最低质量要求，而且它本身是获得教育部批准的一项前提条件。全面认证则是在第一届学生完成该课程之后进行的更为充分的评估。获暂行认证的课程是合法的、可合法开办的；它只是尚未完成全周期的评估而已。
 ---
 
 两名SPM成绩相同的学生，最终会进入两个完全不同的系统。一人填写一份统一表格，

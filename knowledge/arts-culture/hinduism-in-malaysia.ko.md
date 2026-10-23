@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["말레이시아 힌두교", "Hinduism in Malaysia", "말레이시아 힌두교도", "타밀 힌두교도 말레이시아", "말레이시아 힌두 상감", "말레이시아 사원"]
+faq:
+  - q: 말레이시아의 힌두교도는 모두 타밀계인가요?
+    a: 대다수가 남인도 타밀계인 것은 사실이지만, 그것이 전부는 아닙니다. 말라얄리계, 텔루구계, 북인도계 사람들은 물론 다른 공동체 출신의 사람들도 힌두교를 믿습니다. 말라얄리 전통을 지닌 사람들은 오남(Onam), 비슈(Vishu) 같은 축제도 기념합니다. 또한 종교와 민족은 같은 것이 아니며, 인구조사는 이 둘을 따로 측정합니다.
+  - q: 타이푸삼은 전국적인 공휴일인가요?
+    a: 아닙니다. 타이푸삼은 전국 차원의 공휴일이 아니며, 이를 관보에 고시하는 주에서만 공휴일입니다 — 쿠알라룸푸르, 푸트라자야, 슬랑오르, 페낭, 페락, 느그리슴빌란, 조호르입니다. 크다는 일부 연도에 고정된 관보 고시 없이 특별 공고로 휴일을 부여하기도 합니다. 반면 디파발리(Deepavali)는 사라왁을 제외한 모든 주와 연방 직할구에서 공휴일입니다.
+  - q: 왜 느그리슴빌란, 슬랑오르, 페락 같은 주에 힌두교도가 더 많이 사나요?
+    a: 이 주들은 과거의 고무 농장과 주석 광산 지역과 일치합니다 — 영국 식민지 시대에 인도인 노동자들이 대거 정착한 곳이 바로 그곳이었습니다. 2020년 인구조사에서 느그리슴빌란(~13.1%), 슬랑오르(~10.3%), 페락(~9.7%)이 더 높은 비율을 보였습니다. 이들 대부분은 캉가니(kangani) 제도 아래 농장 노동을 위해 남인도에서 온 사람들의 후손입니다.
 ---
 
 말레이시아의 어느 도시에서든 오래된 고무 플랜테이션 가장자리나 도심의 유서 깊은

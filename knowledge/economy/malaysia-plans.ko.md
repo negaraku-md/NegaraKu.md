@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "학생, 정책 분석가, 언론인, 그리고 한 회계연도를 넘어 국가 개발이 어떻게 계획되는지 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -77,6 +77,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: 말레이시아 계획과 연간 예산은 어떻게 다른가요?
+    a: 말레이시아 계획은 방향을 설정하고, 예산은 이를 집행합니다. 말레이시아 계획(RMK)은 5년 단위의 중기 계획으로, 핵심 과제와 우선순위, 성과 목표를 설정하는 것이지 특정 연도에 어느 부처가 몇 링깃을 지출할 수 있는지를 정하는 것이 아닙니다. 그 연간 수치는 재무장관이 매년 10월/11월에 연방 예산을 상정할 때, 해당 연도의 RMK 배분을 구체화하는 개발지출 추계를 통해 비로소 나타납니다.
+  - q: 말레이시아 계획도 예산처럼 법률로 통과되나요?
+    a: 아니요. 말레이시아 계획은 법안이 아니라 국회 심의를 위한 정책 동의안으로 상정·통과됩니다. 반면 예산은 공급법(Supply Act)으로 관보에 공고되기 전에 전체 입법 절차를 거치는 공급법안(Supply Bill)을 통과해야 합니다. 예를 들어 제13차 말레이시아 계획(RMK13)은 2025년 7월 31일 하원(Dewan Rakyat)에서, 2025년 8월 25일 상원(Dewan Negara)에서 동의안으로 상정되었습니다.
+  - q: RMK13의 6,110억 링깃 전액이 정부 자금에서 나오나요?
+    a: 아니요. RMK13의 최소 6,110억 링깃 투자 가운데 정부 개발 배정은 4,300억 링깃뿐입니다. 나머지는 정부연계기업(GLC)과 정부연계투자기업(GLIC)의 1,200억 링깃 국내 직접투자, 그리고 민관협력(PPP) 방식의 610억 링깃에서 나옵니다.
 ---
 
 2025년 7월 31일, 총리는 하원에 최소 RM6,110억의 투자를 요하는 개발 동의안을 제출했습니다.

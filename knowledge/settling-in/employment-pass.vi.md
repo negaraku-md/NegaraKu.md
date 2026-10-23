@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Người nước ngoài có một lời mời làm việc tại Malaysia, và bất kỳ ai đã giữ hoặc đang gia hạn một Employment Pass tại Malaysia."
 
 lang: "vi"
-sourceContentHash: "15f43dc5f13f9d7c"
+sourceContentHash: "b4e6702e3d043ad8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "expatriate work visa", "i-Kad", "dependant pass malaysia", "employment pass categories", "ePASS Malaysia"]
+faq:
+  - q: Tôi có thể tự nộp đơn xin Giấy phép Lao động (Employment Pass) của mình không?
+    a: Không. Giấy phép Lao động là thứ mà chủ lao động của bạn nộp đơn thay mặt bạn, thông qua tài khoản riêng của công ty với Bộ phận Dịch vụ Người nước ngoài (Expatriate Services Division, ESD); công ty trước tiên phải đăng ký với ESD, và đơn được xử lý bởi Trung tâm MYXpats. Bạn cung cấp giấy tờ — hộ chiếu, bằng cấp, hợp đồng lao động — nhưng không có cổng đăng nhập dành cho nhân viên, và bạn không thể tự nộp hoặc theo dõi đơn.
+  - q: Giấy phép Lao động có cho phép tôi làm việc ở bất cứ đâu tại Malaysia, bao gồm Sabah và Sarawak không?
+    a: Không. Cục Di trú (Immigration Department) nêu rõ rằng Giấy phép Lao động chỉ có hiệu lực ở Bán đảo Malaysia. Sabah và Sarawak vận hành việc kiểm soát di trú riêng của họ theo quyền tự trị của bang, nên làm việc ở đó cần một giấy phép hoặc chứng thực riêng. Giấy phép Lao động cũng chỉ ràng buộc bạn với công ty bảo lãnh — đổi việc thì chủ lao động mới của bạn phải nộp một đơn mới từ đầu.
+  - q: Vợ/chồng của tôi có thể làm việc tại Malaysia bằng Giấy phép Người phụ thuộc (Dependant Pass) không?
+    a: Có, nhưng không tự động. Bản thân Giấy phép Người phụ thuộc không đi kèm quyền làm việc, và người chính phải có Giấy phép Lao động hợp lệ trước vì đơn của người phụ thuộc phụ thuộc vào đó. Theo chính Câu hỏi Thường gặp của Cục Di trú, sau đó vợ/chồng có thể làm việc theo một chứng thực làm việc (endorsement for work) từ Cục Di trú, mà không cần chuyển đổi thành một Giấy phép Lao động đầy đủ mang tên riêng của họ — một con đường nhanh hơn và rẻ hơn đáng kể so với việc nộp đơn xin Giấy phép Lao động mới.
 ---
 
 Bạn có một thư mời làm việc đã ký tại Malaysia. Bạn có một hộ chiếu, một tấm bằng, nhiều năm kinh nghiệm liên quan. Và vẫn chẳng có gì để chính bạn có thể đi nộp.

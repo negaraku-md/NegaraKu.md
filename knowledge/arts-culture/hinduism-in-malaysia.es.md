@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["hinduismo Malasia", "Hinduism in Malaysia", "hindúes malasios", "hindúes tamiles Malasia", "Malaysia Hindu Sangam", "templos Malasia"]
+faq:
+  - q: ¿Todos los hindúes de Malasia son de origen tamil?
+    a: 'Aunque la mayoría es de origen tamil del sur de la India, esa no es toda la verdad. También profesan el hinduismo personas de origen malayalí, telugu y del norte de la India, así como miembros de otras comunidades; quienes pertenecen a la tradición malayalí celebran además festivales como Onam y Vishu. Además, religión y etnia no son lo mismo: el censo mide ambas cosas por separado.'
+  - q: ¿Es Thaipusam un día festivo público a nivel nacional?
+    a: 'No. Thaipusam no es festivo a nivel nacional; solo es día festivo público en los estados que lo publican en el boletín oficial: Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan y Johor. En algunos años, Kedah lo concede como una declaración especial sin una publicación oficial fija. En cambio, Deepavali es día festivo público en todos los estados y territorios federales, salvo Sarawak.'
+  - q: ¿Por qué viven más hindúes en estados como Negeri Sembilan, Selangor y Perak?
+    a: Estos estados coinciden con las antiguas zonas de plantaciones de caucho y minería de estaño, donde los trabajadores indios se asentaron en gran número durante la época británica. En el censo de 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%) y Perak (~9,7%) presentaban las proporciones más altas. La mayoría son descendientes de quienes llegaron del sur de la India para el trabajo en las plantaciones bajo el sistema kangani.
 ---
 
 En cualquier ciudad de Malasia, al borde de una antigua plantación de caucho o en

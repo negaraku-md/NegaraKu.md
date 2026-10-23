@@ -22,7 +22,7 @@ appliesTo: "マレーシアの産業統計を正確に読み解こうとする�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +73,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: 製造業のGDP比率は1999年以降低下している——これはマレーシアが脱工業化していることを意味するのか？
+    a: いいえ。1999年の31%弱からの低下は2010年頃に止まり、それ以降この比率は22〜23%付近にとどまっており、15年間の変動幅は1パーセントポイントをわずかに上回る程度です。これは横ばいであって、低下ではありません。製造業の生産高は依然として伸びており——2025年に同部門は4.5%拡大しました——経済の他の部分とほぼ同じ速度で成長しているにすぎません。
+  - q: 製造業がマレーシア国民の27.5%を雇用しているというのは本当か？
+    a: いいえ——それはよくある誤引用です。統計局（DOSM）の四半期雇用調査は登録された民間部門の事業所のみを対象とし、2025年第4四半期で921万人の雇用、そのうち製造業の254万人はその部分集合の27.5%にあたります。この調査は公的部門、自営業、非公式就労を除外しているため、就業者全体に占める製造業の比率は実質的にはるかに低くなります。その問いには労働力調査を用いてください。
+  - q: GDP比率が横ばいなら、製造業は低付加価値の組立作業に留まっているだけではないのか？
+    a: 生産性データはそうではないことを示しています。2025年の製造業の付加価値は労働1時間あたりRM59.0に達し、サービス業のRM42.0に対して1時間あたり約40%高く、全国平均のRM44.5を約3分の1上回っています。横ばいの比率は一部は算術の問題です。サービス業の方が速く成長したため（5.4%に対し製造業は4.5%）、より小さい部門の比率は生産高が増えても低下します。製造業の内部構成は変化しつつあり、それはGDP比率では示せません。
 ---
 
 ## 概観

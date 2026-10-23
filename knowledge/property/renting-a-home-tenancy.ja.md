@@ -23,7 +23,7 @@ appliesTo: "マレーシア半島、サバまたはサラワクで住宅物件�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "82f3b97b7c53aec7"
+sourceContentHash: "d779e96ef436f16d"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
+faq:
+  - q: マレーシアには賃借人を保護する賃貸借法（Tenancy Act）がありますか。
+    a: いいえ。マレーシアには住宅賃貸借に特化した法律はありません——住宅賃貸借法案（Residential Tenancy Bill）は長年議論されてきましたが、法律として上程されていません。住宅賃貸は1950年契約法（Contracts Act 1950）に基づく通常の契約であり、1950年特定救済法（Specific Relief Act 1950）、1951年差押法（Distress Act 1951）、1956年民事法（Civil Law Act 1956）がこれを補完します。制定法で定められている事項が非常に少ないため、署名された賃貸借契約そのものがほぼすべての重みを担います。
+  - q: 賃貸借契約に一度も印紙が貼られていなかった場合、それは無効ですか。
+    a: いいえ——印紙を省いても、当事者間で賃貸借が無効になるわけではありません。生じるのはもっと具体的なことです。すなわち、印紙が貼られていない、または不足している契約は、通常、未納の印紙税と遅延による追徴金が支払われるまで、裁判で証拠として採用されません。契約は1949年印紙税法（Stamp Act 1949）に基づき、署名後30日以内に印紙のため提出しなければならず、紛争の最中にこの不備に気づくのは最悪のタイミングです。
+  - q: 賃借人が退去を拒んだ場合、貸主は鍵を交換したり、公共料金（水道・電気）を止めたりできますか。
+    a: いいえ。1950年特定救済法（Specific Relief Act 1950）第7(2)条は、貸主が自力で立ち退かせること（自力救済）を禁じています——賃借人がまだ占有している間に、鍵を交換したり、電気や水を止めたり、所有物を持ち出したりしてはなりません。占有を回復するには裁判所の命令が必要です。未払賃料については、貸主は賃借人に直接対峙するのではなく、1951年差押法（Distress Act 1951）に基づき賃借人の動産を差し押さえる差押令状を裁判所に申請します。
 ---
 
 マレーシアの貸主と借主に、どの法律が自分たちを守ってくれるのかと尋ねれば、大半は間違って答えるだろう。援用できる「住宅賃貸借法」は存在しない——通知期間を定め、保証金に上限を設け、退去時に貸主が何をでき何をできないかを明記する、単一の成文法は存在しない。

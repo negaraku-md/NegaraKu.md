@@ -67,6 +67,13 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "personal-tax-rates", "fuel-subsidies"]
 keywords: ["Budget 2027 Malaysia", "Belanjawan 2027", "Budget 2027 income tax", "RM2000 minimum wage", "Budget 2027 SME tax", "SARA STR 2027", "tax relief RM12000", "Budget 2027 highlights"]
+faq:
+  - q: Is the RM2,000 minimum wage in effect now that Budget 2027 has been tabled?
+    a: No. The budget tabled on 9 October 2026 is an announcement, not law. The minimum wage rises from RM1,700 to RM2,000 only from June 2027, and even then MSMEs with annual sales below RM50 million are exempted initially. Like every measure, it becomes binding only after the Finance Bill, the Supply (Budget) 2027 Act and any enabling gazette orders are passed, on the effective dates stated in the speech.
+  - q: Did Budget 2027 reform SST or introduce new e-invoicing rules?
+    a: No. The article is explicit that a broad SST reform and new e-invoicing measures were pre-budget forecasts by analysts, not announcements in the 9 October 2026 speech. They should be treated as expectations, not policy, until the government says otherwise. The budget's actual tax changes centre on the one-percentage-point cut to resident and SME income-tax rates and the general relief rising from RM9,000 to RM12,000.
+  - q: From when is opening a savings or current account stamp-duty exempt under Budget 2027?
+    a: From 1 January 2027, opening a savings or current account becomes fully stamp-duty exempt. That same date also carries the service-tax cut on elderly-care services from 8% to 6% and the start of expatriate-spouse work rights on a dependant pass. These dates are as announced on 9 October 2026 and take effect only once the enabling law and gazette orders are passed.
 ---
 
 On 9 October 2026, Prime Minister and Finance Minister Anwar Ibrahim tabled

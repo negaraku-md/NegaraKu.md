@@ -23,7 +23,7 @@ appliesTo: "Pelabur, pencari kerja, penganalisis dasar dan pelajar yang cuba mem
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: Bahagian perkilangan dalam KDNK telah menurun sejak 1999 — adakah itu bermakna Malaysia sedang menyahperindustrian?
+    a: Tidak. Penurunan daripada hampir 31% pada 1999 berakhir sekitar 2010; sejak itu bahagiannya kekal pada sekitar 22–23%, dengan julat selama lima belas tahun hanya melebihi satu mata peratusan sedikit. Itu satu tahap mendatar, bukan penurunan. Pengeluaran perkilangan masih berkembang — sektor ini berkembang 4.5% pada 2025 — ia cuma berkembang pada kadar yang hampir sama dengan selebihnya ekonomi.
+  - q: Benarkah perkilangan menggajikan 27.5% rakyat Malaysia?
+    a: Tidak — itu salah petik yang biasa. Tinjauan Guna Tenaga Suku Tahunan DOSM hanya mengira pertubuhan sektor swasta berdaftar, 9.21 juta pekerjaan pada S4 2025, dan 2.54 juta dalam perkilangan ialah 27.5% daripada subset itu. Tinjauan ini tidak merangkumi sektor awam, pekerja bekerja sendiri dan kerja tidak formal, jadi bahagian perkilangan daripada semua yang bekerja jauh lebih rendah. Gunakan Tinjauan Tenaga Buruh untuk soalan itu.
+  - q: Jika bahagian KDNK mendatar, bukankah perkilangan terperangkap melakukan kerja pemasangan bernilai rendah sahaja?
+    a: 'Data produktiviti menghujahkan sebaliknya. Nilai ditambah perkilangan mencapai RM59.0 sejam bekerja pada 2025 berbanding RM42.0 dalam perkhidmatan — kira-kira 40% lebih sejam, dan lebih kurang satu pertiga di atas purata negara RM44.5. Bahagian yang mendatar sebahagiannya aritmetik: perkhidmatan berkembang lebih pantas (5.4% berbanding 4.5% perkilangan), jadi bahagian sektor yang lebih kecil menurun walaupun pengeluarannya meningkat. Campuran di dalam perkilangan sedang beralih, sesuatu yang bahagian KDNK tidak mampu tunjukkan.'
 ---
 
 ## Sekilas pandang

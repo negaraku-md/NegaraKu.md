@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 
 status: "published"
 aiAssisted: true
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: Bolehkah saya membuka akaun bank Malaysia dengan visa pelancong?
+    a: Tidak. Pas lawatan sosial jangka pendek (pelancong) tidak diterima untuk akaun peribadi standard di mana-mana bank utama. Ia hanya mengesahkan bahawa anda dibenarkan melawat, tanpa majikan, institusi, alamat jangka panjang atau status boleh diperbaharui yang boleh disahkan oleh bank, jadi tiada satu pun kategori dokumen yang digunakan bank mempunyai ruang untuknya. Ini merupakan jurang struktur, dan itulah sebabnya sekadar mencuba bank lain jarang berhasil untuk pas pelancong.
+  - q: Apakah dokumen yang sebenarnya diperlukan oleh seorang warganegara Malaysia untuk membuka akaun?
+    a: Bagi kebanyakan akaun simpanan atau semasa yang mudah, satu-satunya dokumen wajib bagi warganegara atau penduduk tetap ialah MyKad asal. Menurut keperluan yang diterbitkan oleh CIMB, bukti tambahan seperti surat pekerjaan, penyata KWSP (EPF), slip gaji atau penyata bank terkini hanya diminta dalam situasi tertentu, seperti akaun bertaraf lebih tinggi atau apabila alamat yang anda mahu direkodkan berbeza daripada yang tercetak pada MyKad anda. Kanak-kanak bawah umur memerlukan sijil kelahiran serta MyKad ibu bapa atau penjaga.
+  - q: Mengapa bank meminta dokumen yang berbeza bergantung pada jenis visa saya?
+    a: Kerana bank mengaitkan dokumen sokongan dengan sebab khusus anda berada di Malaysia, iaitu apa yang disahkan oleh pas anda. Berdasarkan keperluan yang diterbitkan oleh CIMB, warga asing yang bekerja dengan Pas Penggajian (Employment Pass) biasanya diminta surat pekerjaan dan bukti gaji bulanan melebihi ambang bank (CIMB menyatakan RM10,000); pemegang Pas Pelajar (Student Pass) diminta kad pelajar dan surat pendaftaran; dan pemegang Pas Tanggungan (Dependant Pass) diminta sijil perkahwinan jika berkenaan. Semuanya memerlukan pasport dan pas yang sah untuk sekurang-kurangnya enam bulan.
 ---
 
 Seorang warganegara Malaysia melangkah masuk ke sebuah cawangan dengan MyKad,

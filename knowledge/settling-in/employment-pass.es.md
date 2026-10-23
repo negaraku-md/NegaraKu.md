@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Nacionales extranjeros con una oferta de empleo en Malasia, y cualquier persona que ya tenga o esté renovando un Employment Pass en Malasia."
 
 lang: "es"
-sourceContentHash: "15f43dc5f13f9d7c"
+sourceContentHash: "b4e6702e3d043ad8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "visado de trabajo para expatriados", "i-Kad", "dependant pass malasia", "categorías del employment pass", "ePASS Malaysia"]
+faq:
+  - q: ¿Puedo solicitar yo mismo mi Permiso de Empleo (Employment Pass)?
+    a: No. El Permiso de Empleo es algo que su empleador solicita en su nombre, a través de su propia cuenta en la División de Servicios para Expatriados (Expatriate Services Division, ESD); la empresa debe estar registrada primero en la ESD, y la solicitud la tramita el Centro MYXpats. Usted aporta documentos — pasaporte, titulaciones, el contrato de trabajo — pero no existe un acceso para el empleado, y no puede presentar ni hacer seguimiento de la solicitud por sí mismo.
+  - q: ¿El Permiso de Empleo me permite trabajar en cualquier parte de Malasia, incluidos Sabah y Sarawak?
+    a: 'No. El Departamento de Inmigración (Immigration Department) señala que el Permiso de Empleo solo es válido en la Malasia Peninsular. Sabah y Sarawak gestionan su propio control de inmigración en virtud de la autonomía estatal, por lo que un destino allí requiere su propio permiso o endoso aparte. El Permiso de Empleo además lo vincula únicamente a la empresa patrocinadora: si cambia de trabajo, su nuevo empleador debe presentar una solicitud nueva desde cero.'
+  - q: ¿Puede mi cónyuge trabajar en Malasia con un Permiso de Dependiente (Dependant Pass)?
+    a: 'Sí, pero no de forma automática. El Permiso de Dependiente en sí no conlleva derechos de trabajo, y el titular principal debe poseer primero un Permiso de Empleo válido, ya que la solicitud del dependiente depende de él. Según las propias preguntas frecuentes del Departamento de Inmigración, el cónyuge puede entonces trabajar en virtud de un endoso para trabajar (endorsement for work) del Departamento de Inmigración, sin convertirlo en un Permiso de Empleo completo a su propio nombre: una vía considerablemente más rápida y económica que una nueva solicitud de Permiso de Empleo.'
 ---
 
 Tiene una oferta de empleo firmada en Malasia. Tiene pasaporte, un título, años de experiencia pertinente. Y aun así no hay nada que usted, personalmente, pueda ir a presentar.

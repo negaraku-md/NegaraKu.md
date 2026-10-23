@@ -26,7 +26,7 @@ verificationNeeded:
   - "Halaman kebijakan pendaftaran digital/e-KYC BNM mengembalikan kesalahan 403 saat pengambilan otomatis pada saat penulisan; keberadaan dan judulnya diverifikasi langsung dari hasil pencarian bnm.gov.my, tetapi perincian kelayakan yang terperinci harus diperiksa kembali langsung di bnm.gov.my apabila dapat diakses."
 
 lang: "id"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: Bisakah saya membuka rekening bank Malaysia dengan visa turis?
+    a: Tidak. Pas kunjungan sosial jangka pendek (turis) tidak diterima untuk rekening pribadi standar di bank besar mana pun. Pas itu hanya menyatakan bahwa Anda diizinkan berkunjung, tanpa pemberi kerja, institusi, alamat jangka panjang, atau status yang dapat diperpanjang yang bisa diverifikasi oleh bank, sehingga tidak ada satu pun kategori dokumen yang digunakan bank yang memiliki tempat untuknya. Ini adalah celah struktural, itulah sebabnya sekadar mencoba bank lain jarang berhasil untuk pas turis.
+  - q: Dokumen apa saja yang sebenarnya diperlukan oleh warga negara Malaysia untuk membuka rekening?
+    a: Untuk sebagian besar rekening tabungan atau rekening giro yang sederhana, satu-satunya dokumen wajib bagi warga negara atau penduduk tetap adalah MyKad asli. Menurut persyaratan yang dipublikasikan CIMB, bukti tambahan seperti surat keterangan kerja, laporan EPF, slip gaji, atau rekening koran terbaru hanya diminta dalam situasi tertentu, seperti rekening berjenjang lebih tinggi atau ketika alamat yang ingin Anda catatkan berbeda dari yang tercetak pada MyKad Anda. Anak di bawah umur memerlukan akta kelahiran beserta MyKad orang tua atau wali.
+  - q: Mengapa bank meminta dokumen yang berbeda tergantung pada jenis visa saya?
+    a: Karena bank mengaitkan dokumen pendukung dengan alasan spesifik keberadaan Anda di Malaysia, yang justru dinyatakan oleh pas Anda. Berdasarkan persyaratan yang dipublikasikan CIMB, warga asing yang bekerja dengan Pas Kerja (Employment Pass) biasanya diminta surat keterangan kerja dan bukti gaji bulanan di atas ambang batas bank (CIMB menyatakan RM10.000); pemegang Pas Pelajar (Student Pass) diminta kartu pelajar dan surat pendaftaran; dan pemegang Pas Tanggungan (Dependant Pass) diminta akta nikah jika berlaku. Semuanya memerlukan paspor dan pas yang berlaku setidaknya enam bulan.
 ---
 
 Seorang warga negara Malaysia melangkah masuk ke sebuah cabang dengan MyKad,

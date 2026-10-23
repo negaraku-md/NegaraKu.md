@@ -20,7 +20,7 @@ keyTakeaways:
   - "Le traité anglo-néerlandais du 17 mars 1824 céda définitivement Melaka à la Grande-Bretagne en échange de Bencoolen ; le transfert effectif prit effet le 1er mars 1825"
 appliesTo: "Les lecteurs qui savent déjà que Melaka est passée des mains portugaises aux mains néerlandaises puis britanniques, et qui veulent comprendre pourquoi les 184 années intermédiaires ont été si différentes des 130 années précédentes et des 121 années suivantes — ainsi que la manière dont le transfert à la Grande-Bretagne s'est réellement produit."
 lang: "fr"
-sourceContentHash: "c29f50bb16f23497"
+sourceContentHash: "2c0da3227a2ca96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Melaka néerlandaise", "VOC Malacca", "Compagnie néerlandaise des Indes orientales Malacca", "Batavia contre Melaka", "traité anglo-néerlandais 1824", "démolition d'A Famosa", "Stadthuys Melaka", "Lettres de Kew 1795", "histoire des Établissements des Détroits"]
+faq:
+  - q: Les Néerlandais ont-ils pris Malacca aux Portugais à eux seuls ?
+    a: Non. La VOC a pris Malacca aux côtés du sultanat de Johor, qui avait son propre vieux compte à régler avec les Portugais et a fourni les forces terrestres et la connaissance du terrain. Le récit des Archives nationales de Malaisie (Arkib Negara Malaysia) indique que la forteresse a été vaincue par les Néerlandais unis à Johor après un siège de sept mois mené par mer et par terre. Lorsqu'elle tomba en 1641, les Néerlandais y trouvèrent 68 canons et 74 fusils avec lesquels les Portugais l'avaient défendue.
+  - q: Pourquoi les Néerlandais n'ont-ils pas fait de Malacca un riche port commercial ?
+    a: Parce que la VOC disposait déjà d'une capitale régionale construite à cet effet à Batavia (Jakarta), fondée bien avant 1641, et n'a jamais voulu que Malacca concurrence son propre siège. La priorité de la compagnie était de refuser le port et son détroit aux puissances européennes rivales, et non de bâtir un entrepôt concurrent. Les quotas d'étain furent réorientés vers Batavia, les gouverneurs de Malacca se virent refuser une plus grande latitude commerciale, et le port fut maintenu comme une ville de garnison et d'administration subordonnée.
+  - q: Malacca est-elle passée des Néerlandais aux Britanniques en une seule passation nette ?
+    a: Non. Elle a changé de mains administrativement quatre fois en trente ans. La Grande-Bretagne occupa Malacca en 1795 en vertu des Lettres de Kew (Kew Letters) pour la soustraire à la France, Malacca fut restituée aux Néerlandais en 1818, le Traité anglo-néerlandais de 1824 (signé le 17 mars 1824) la céda définitivement à la Grande-Bretagne en échange de Bencoolen à Sumatra, et le transfert effectif prit effet le 1er mars 1825.
 ---
 
 Une compagnie consacre sept mois et une alliance avec un sultanat étranger à conquérir un port. Puis elle passe le siècle et demi suivant à veiller à ce que ce port ne s'enrichisse jamais.

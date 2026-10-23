@@ -43,7 +43,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "6d48887f5e7bc5dd"
+sourceContentHash: "7dd45f5bebbd1f93"
 sources:
   - title: "Fakta Kesihatan 2024 (Data Rujukan bagi Tahun 2023) (Health Facts 2024 (Reference Data for Year 2023))"
     url: "https://myhdw.moh.gov.my/public/documents/20186/150084/HEALTH+FACTS+2024/52a11e45-a0ed-4379-b226-1bd2786cc11e?version=1.0&download=true"
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "socso-perkeso" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "medical-insurance", "socso-perkeso"]
 keywords: ["Malaysia healthcare system", "public vs private healthcare Malaysia", "Ministry of Health Malaysia KKM", "klinik kesihatan vs private clinic", "PeKa B40", "MySalam", "SPIKPA foreign worker insurance", "foreigner hospital fees Malaysia", "Fees Act 1951"]
+faq:
+  - q: Adakah "hospital kerajaan" bermaksud penjagaan kesihatan percuma di Malaysia?
+    a: Tidak — ia bermaksud disubsidi dengan banyak untuk warganegara dan penduduk tetap, yang hanya membayar caj pendaftaran dan rawatan yang nominal, bukannya kos sebenar. Bukan warganegara dicaj di kemudahan yang sama di bawah jadual fi berasingan yang lebih tinggi, yang ditetapkan di bawah Perintah Fi (Perubatan) Akta Fi 1951. Pelancong atau pemegang pas jangka panjang yang masuk ke hospital kerajaan masih berada dalam sistem awam, cuma di bahagiannya yang tidak disubsidi.
+  - q: Bolehkah mana-mana warganegara Malaysia menggunakan PeKa B40 atau MySalam?
+    a: Tidak. Kedua-duanya terikat kepada status penerima bantuan tunai B40 (Sumbangan Tunai Rahmah, STR), bukan kewarganegaraan am. Ia automatik untuk penerima STR yang layak — tiada permohonan berasingan diperlukan — tetapi hanya menjangkau kelompok pendapatan B40. PeKa B40 merangkumi saringan serta bantuan peranti perubatan sehingga RM20,000; MySalam membayar sehingga RM8,000 apabila didiagnosis dengan penyakit kritikal yang disenaraikan. Warganegara yang tidak menerima STR tidak dilindungi secara automatik.
+  - q: Adakah pekerja asing di Malaysia memerlukan insurans kesihatan mereka sendiri?
+    a: Ya. Pekerja asing berdokumen mesti memegang SPIKPA (Skim Perlindungan Insurans Kesihatan Pekerja Asing), satu skim insurans hospital dan pembedahan yang wajib, untuk memperbaharui permit kerja mereka — satu keperluan yang disahkan di laman Jabatan Imigresen sendiri. Ia diuruskan dan dibayar oleh majikan serta melindungi kemasukan dan pembedahan di hospital kerajaan. Ekspatriat dan pelancong tidak dilindungi olehnya dan umumnya bergantung pada insurans swasta yang dibeli di pasaran terbuka.
 ---
 
 Seorang pesara Malaysia yang mengalami sakit dada memanggil ambulans dan dibawa ke hospital kerajaan yang terdekat, di mana seorang pakar kardiologi menemuinya dengan bayaran yang hanya meliputi sebahagian kecil daripada kos sebenar. Jirannya, seorang pemegang permit kerja dari Indonesia dengan gejala yang sama, dibawa ke jabatan kecemasan hospital yang sama — tetapi bil yang mengikutinya dikira mengikut jadual yang sama sekali berbeza, kerana kedua-dua mereka bukan, pada pandangan kementerian, jenis pesakit yang sama.

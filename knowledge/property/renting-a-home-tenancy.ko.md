@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "반도 말레이시아, 사바 또는 사라왁에서 주거용 부동산을 임차하거나 임대하는 모든 사람 — 첫 임차계약에 서명하는 임차인과 그것을 작성하는 임대인."
 
 lang: "ko"
-sourceContentHash: "82f3b97b7c53aec7"
+sourceContentHash: "d779e96ef436f16d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
+faq:
+  - q: 말레이시아에 세입자를 보호하는 임대차법(Tenancy Act)이 있습니까?
+    a: 없습니다. 말레이시아에는 별도의 주거 임대차법이 없습니다 — 주거 임대차 법안(Residential Tenancy Bill)이 수년간 논의되어 왔지만 법률로 상정되지 않았습니다. 주거 임대는 1950년 계약법(Contracts Act 1950)에 따른 일반 계약이며, 1950년 특정구제법(Specific Relief Act 1950), 1951년 압류법(Distress Act 1951), 1956년 민사법(Civil Law Act 1956)이 이를 보완합니다. 성문법으로 정해진 것이 매우 적기 때문에, 서명된 임대차 계약서 자체가 거의 모든 무게를 떠안습니다.
+  - q: 제 임대차 계약서에 인지가 붙은 적이 없다면, 그 계약은 무효입니까?
+    a: 아닙니다 — 인지를 생략한다고 해서 두 당사자 사이에서 임대차가 무효가 되는 것은 아닙니다. 다만 더 구체적인 결과가 생깁니다. 즉, 인지가 붙지 않았거나 인지가 부족한 계약서는 일반적으로 미납 인지세와 연체 가산세를 납부하기 전까지는 법원에서 증거로 인정될 수 없습니다. 계약서는 1949년 인지세법(Stamp Act 1949)에 따라 서명 후 30일 이내에 인지를 위해 제출해야 하며, 분쟁 도중에 이 누락을 발견하는 것은 최악의 순간입니다.
+  - q: 세입자가 퇴거를 거부하면 집주인이 자물쇠를 바꾸거나 공과금(전기·수도)을 끊을 수 있습니까?
+    a: 없습니다. 1950년 특정구제법(Specific Relief Act 1950) 제7(2)조는 집주인의 자력 퇴거를 금지합니다 — 세입자가 아직 점유하고 있는 동안 자물쇠를 바꾸거나, 전기나 물을 끊거나, 소지품을 치울 수 없습니다. 점유를 회복하려면 법원의 명령이 필요합니다. 미납 임대료에 대해서는, 집주인이 세입자와 직접 맞서는 대신 1951년 압류법(Distress Act 1951)에 따라 세입자의 동산을 압류하기 위한 압류 영장을 법원에 신청합니다.
 ---
 
 말레이시아의 임대인과 임차인에게 어떤 법이 그들을 보호하는지 물어보면, 대부분 틀리게 답합니다. 통지 기간을 정하거나, 보증금에 상한을 두거나, 임대인이 퇴거 시 무엇을 할 수 있고 없는지를 명시하는 단일 법령 — 손 뻗어 찾을 「주거임차법」이 없습니다.

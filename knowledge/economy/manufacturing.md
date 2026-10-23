@@ -74,6 +74,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: Manufacturing's share of GDP has fallen since 1999 — does that mean Malaysia is deindustrialising?
+    a: No. The fall from just under 31% in 1999 ended around 2010; since then the share has sat near 22–23%, with the range across fifteen years a little over one percentage point. That is a plateau, not a decline. Manufacturing output is still growing — the sector expanded 4.5% in 2025 — it is simply growing at close to the same rate as the rest of the economy.
+  - q: Is it true that manufacturing employs 27.5% of Malaysians?
+    a: No — that is a common misquote. DOSM's Quarterly Employment Survey counts only registered private-sector establishments, 9.21 million jobs in Q4 2025, and manufacturing's 2.54 million is 27.5% of that subset. The survey excludes the public sector, the self-employed and informal work, so manufacturing's share of everyone in work is materially lower. Use the Labour Force Survey for that question.
+  - q: If the GDP share is flat, isn't manufacturing just stuck doing low-value assembly work?
+    a: 'The productivity data argues otherwise. Manufacturing value added reached RM59.0 per hour worked in 2025 against RM42.0 in services — about 40% more per hour, and roughly a third above the national average of RM44.5. A flat share is partly arithmetic: services grew faster (5.4% versus manufacturing''s 4.5%), so the smaller sector''s share falls even as its output rises. The mix inside manufacturing is shifting, which the GDP share cannot show.'
 ---
 
 ## At a glance

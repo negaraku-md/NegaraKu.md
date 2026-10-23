@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Peminjam dengan pinjaman suku bunga mengambang, penabung, dan siapa saja yang mencoba memahami berita suku bunga Malaysia."
 
 lang: "id"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malaysia", "Overnight Policy Rate", "kadar dasar semalaman", "Bank Negara interest rate", "BNM MPC"]
+faq:
+  - q: Apakah OPR adalah suku bunga yang sebenarnya saya bayar untuk pinjaman rumah saya?
+    a: Tidak. OPR adalah suku bunga yang ditargetkan Bank Negara untuk bank saling meminjamkan dana secara semalam (overnight) — suku bunga ini tidak dikenakan kepada Anda secara langsung. Pinjaman rumah di Malaysia biasanya dinyatakan sebagai Suku Bunga Dasar (BR) ditambah selisih (spread), dan OPR adalah penentu terbesar biaya dana di balik BR tersebut. Ketika BR berubah, angsuran pun berubah, biasanya dalam waktu satu hingga dua bulan.
+  - q: Ketika OPR berubah, apakah suku bunga pinjaman dan suku bunga simpanan bergerak ke arah yang sama?
+    a: 'Keduanya bergerak ke arah yang sama, tetapi tidak simetris. Artikel ini menyoroti ketidaksimetrisan yang perlu diketahui: suku bunga pinjaman cenderung naik dengan cepat dan turun dengan lambat, sedangkan suku bunga simpanan cenderung sebaliknya, menyesuaikan harga lebih lambat dan tidak sepenuhnya dibandingkan pinjaman. Artikel ini menggambarkannya sebagai realitas komersial dari margin bank, bukan sebuah aturan.'
+  - q: Apakah keputusan OPR 'tanpa perubahan' berarti Komite Kebijakan Moneter tidak melakukan apa-apa?
+    a: Tidak — keputusan untuk mempertahankan tetaplah sebuah keputusan. Komite Kebijakan Moneter bersidang enam kali setahun sesuai jadwal yang dipublikasikan, dan rentetan panjang keputusan tanpa perubahan mencerminkan penilaian bahwa inflasi cukup terkendali sehingga tidak memerlukan pengetatan dan pertumbuhan cukup kuat sehingga tidak memerlukan dukungan. Pernyataan yang menyertainya biasanya memberi sinyal kecenderungan komite.
 ---
 
 ## Sekilas pandang

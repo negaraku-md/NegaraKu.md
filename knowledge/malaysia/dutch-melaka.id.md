@@ -20,7 +20,7 @@ keyTakeaways:
   - "Perjanjian Inggris-Belanda pada 17 Maret 1824 menyerahkan Melaka secara permanen kepada Inggris sebagai pertukaran dengan Bencoolen; pemindahan sebenarnya berlaku pada 1 Maret 1825"
 appliesTo: "Pembaca yang sudah mengetahui bahwa Melaka berpindah tangan dari Portugis ke Belanda ke Inggris, dan ingin memahami mengapa 184 tahun di tengah-tengah itu tampak begitu berbeda dibandingkan 130 tahun sebelumnya dan 121 tahun sesudahnya — ditambah bagaimana pemindahan kepada Inggris sebenarnya terjadi."
 lang: "id"
-sourceContentHash: "c29f50bb16f23497"
+sourceContentHash: "2c0da3227a2ca96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Dutch Melaka", "VOC Malacca", "Dutch East India Company Malacca", "Batavia versus Melaka", "Anglo-Dutch Treaty 1824", "A Famosa demolition", "Stadthuys Melaka", "Kew Letters 1795", "Straits Settlements history"]
+faq:
+  - q: Apakah Belanda merebut Melaka dari Portugis seorang diri?
+    a: Tidak. VOC merebut Melaka bersama Kesultanan Johor, yang punya dendam lama sendiri untuk diselesaikan dengan Portugis dan menyediakan pasukan darat serta pengetahuan lokal. Catatan Arsip Nasional Malaysia (Arkib Negara Malaysia) menyatakan bahwa benteng itu dikalahkan oleh Belanda yang bersatu dengan Johor setelah pengepungan selama tujuh bulan dari laut dan darat. Ketika jatuh pada 1641, Belanda menemukan 68 meriam dan 74 senapan yang digunakan Portugis untuk mempertahankannya.
+  - q: Mengapa Belanda tidak mengembangkan Melaka menjadi pelabuhan dagang yang kaya?
+    a: Karena VOC sudah memiliki ibu kota regional yang dibangun khusus di Batavia (Jakarta), didirikan jauh sebelum 1641, dan tidak pernah berniat membuat Melaka bersaing dengan markas besarnya sendiri. Prioritas perusahaan adalah mencegah kekuatan Eropa pesaing mengakses pelabuhan dan selatnya, bukan membangun pusat perdagangan tandingan. Kuota timah dialihkan ke Batavia, para gubernur Melaka ditolak keleluasaan dagang yang lebih besar, dan pelabuhan itu dipertahankan sebagai kota garnisun dan administrasi yang subordinat.
+  - q: Apakah Melaka berpindah dari Belanda ke Inggris dalam satu serah terima yang mulus?
+    a: Tidak. Secara administratif ia berpindah tangan empat kali dalam tiga puluh tahun. Inggris menduduki Melaka pada 1795 di bawah Surat-Surat Kew (Kew Letters) untuk mencegahnya jatuh ke tangan Prancis, Melaka dikembalikan kepada Belanda pada 1818, Perjanjian Inggris-Belanda 1824 (ditandatangani 17 Maret 1824) menyerahkannya secara permanen kepada Inggris sebagai ganti Bencoolen di Sumatra, dan pengalihan yang sesungguhnya berlaku pada 1 Maret 1825.
 ---
 
 Sebuah perusahaan menghabiskan tujuh bulan dan sebuah aliansi dengan sebuah kesultanan asing untuk menaklukkan sebuah pelabuhan. Kemudian ia menghabiskan satu setengah abad berikutnya memastikan pelabuhan itu tidak pernah menjadi kaya.

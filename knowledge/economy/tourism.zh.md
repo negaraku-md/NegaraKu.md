@@ -23,7 +23,7 @@ appliesTo: "需要正确解读马来西亚旅游统计数据、而非只是引�
 seoTitle: "马来西亚旅游统计数据：入境人次与收入的对比"
 
 lang: "zh"
-sourceContentHash: "396de79b31be6ee8"
+sourceContentHash: "722b55381d173929"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,13 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "unemployment-labour-force", "ringgit"]
 keywords: ["Malaysia tourist arrivals", "Malaysia tourism receipts", "Visit Malaysia 2026", "Tourism Satellite Account Malaysia", "excursionist vs tourist", "Malaysia tourism GDP"]
+faq:
+  - q: 马来西亚报告外国入境人次创下新高——这是否意味着游客人数创下新高？
+    a: 不是。入境人次这一主要数字统计的是访客，等于过夜游客加上当日往返的一日游访客。在2025年1月至4月，这两者走势相反：过夜游客比2019年同期低5.6%，而一日游访客则高出64.9%。因此总数超过2019年水平，主要是一日游的复苏——填满酒店客房、预订航班的过夜客群尚未回到疫情前水平。
+  - q: 新加坡输送的访客最多——它是否也是旅游收入的最大来源？
+    a: 它确实是单一最大的收入来源，但其占比远小于入境人次所显示的水平。2024年，新加坡占外国访客入境人次的49.7%，却仅占收入的26.2%；中国占入境人次的9.8%，却占收入的19.5%。每位入境访客的平均消费，从新加坡的约RM1,500到中国的约RM5,600不等，而全国平均约为RM2,800——这一巨大差距是由一日游的构成所致。
+  - q: 旅游业占马来西亚GDP的15.1%还是6.2%？
+    a: 这两个数字都来自大马统计局（DOSM）的旅游卫星账户，但它们衡量的是不同的事物，不应混用。2024年，旅游相关行业的总增加值（GVATI）占GDP的15.1%——即服务于游客的各行业的全部产出，包括本地居民消费的部分。旅游直接GDP（TDGDP）为6.2%——仅指旅游需求。旅游相关行业约占经济的七分之一；旅游需求直接约占十六分之一。
 ---
 
 2024年，马来西亚统计到37,961,485人次外国访客入境——比马来西亚全国人口还多的人跨越边境。这是一个惊人的数字，但它并不是大多数人以为的那个意思。

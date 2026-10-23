@@ -87,6 +87,13 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "unemployment-labour-force", "ringgit"]
 keywords: ["Malaysia tourist arrivals", "Malaysia tourism receipts", "Visit Malaysia 2026", "Tourism Satellite Account Malaysia", "excursionist vs tourist", "Malaysia tourism GDP"]
+faq:
+  - q: Malaysia reported record foreign arrivals — does that mean record tourists?
+    a: 'No. The headline arrivals figure counts visitors, which equals overnight tourists plus same-day excursionists. In January–April 2025 those two moved in opposite directions: overnight tourists were 5.6% below the equivalent 2019 level, while same-day excursionists were 64.9% above it. So the above-2019 total was largely a day-trip recovery — the overnight segment that fills hotel rooms and books flights had not yet returned to pre-pandemic levels.'
+  - q: Singapore sends the most visitors — is it also the biggest source of tourism money?
+    a: It is the single largest source of receipts, but far smaller as a share than its arrivals suggest. Singapore was 49.7% of 2024 foreign visitor arrivals but only 26.2% of receipts; China was 9.8% of arrivals but 19.5% of receipts. Average spend per arrival ranges from roughly RM1,500 for Singapore to roughly RM5,600 for China, against a national average of about RM2,800 — a large gap driven by the day-trip mix.
+  - q: Is tourism 15.1% of Malaysia's GDP or 6.2%?
+    a: Both figures come from DOSM's Tourism Satellite Account, but they measure different things and should not be used interchangeably. Gross value added of tourism industries (GVATI) was 15.1% of GDP in 2024 — the whole output of industries serving tourists, including the part consumed by locals. Tourism direct GDP (TDGDP) was 6.2% — tourism demand only. Tourism industries are about a seventh of the economy; tourism demand directly about a sixteenth.
 ---
 
 In 2024 Malaysia counted 37,961,485 foreign visitor arrivals — more people

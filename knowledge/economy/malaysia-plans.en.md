@@ -24,7 +24,7 @@ appliesTo: "Students, policy analysts, journalists and anyone who wants to under
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 
 status: "published"
 aiAssisted: true
@@ -78,6 +78,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: What is the difference between a Malaysia Plan and the annual Budget?
+    a: A Malaysia Plan sets the direction; the Budget carries it out. An RMK is a five-year medium-term plan that sets the thrusts, priorities and outcome targets — not how many ringgit a given ministry may spend in a particular year. Those annual figures only appear when the Finance Minister tables the Federal Budget each October/November, through the Development Expenditure Estimates that translate the RMK's portion for that year.
+  - q: Is a Malaysia Plan passed into law like the Budget?
+    a: No. A Malaysia Plan is tabled and passed as a policy motion for parliamentary debate, not as a bill. The Budget, by contrast, must go through a Supply Bill that passes the full legislative process before it is gazetted as a Supply Act. The 13th Malaysia Plan (RMK13), for instance, was tabled as a motion in the Dewan Rakyat on 31 July 2025 and in the Dewan Negara on 25 August 2025.
+  - q: Does the entire RM611 billion of RMK13 come from Government money?
+    a: No. Of the at least RM611 billion in RMK13 investment, only RM430 billion is Government development allocation. The rest comes from RM120 billion in domestic direct investment by Government-Linked Companies (GLCs) and Government-Linked Investment Companies (GLICs), plus RM61 billion through public-private partnership (PPP) arrangements.
 ---
 
 On 31 July 2025, the Prime Minister tabled in the Dewan Rakyat a development

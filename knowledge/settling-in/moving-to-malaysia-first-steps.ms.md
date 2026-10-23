@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: Apakah yang perlu saya uruskan dahulu semasa berpindah ke Malaysia?
+    a: 'Pas imigresen anda, sebelum anda menempah apa-apa. Hampir setiap urusan susulan menyemak pas yang anda pegang, bukan pasport anda. Selepas masuk, susunan praktikalnya adalah: tempat penginapan sementara dahulu, kemudian akaun bank (yang memerlukan pas serta alamat Malaysia), kemudian pendaftaran SIM (yang juga bergantung pada pas dan alamat tempatan), kemudian penukaran lesen memandu jika anda bercadang untuk memandu. Cuba membuka akaun bank sebelum pas dikeluarkan adalah cara paling biasa pendatang baharu membazirkan seminggu.'
+  - q: Bolehkah saya masuk dengan pas pelancong dan menukarkannya kepada pas kerja atau tinggal jangka panjang kemudian?
+    a: Dalam kebanyakan kes, tidak. Pas lawatan sosial jangka pendek (pelancong) yang biasa hanya mengesahkan bahawa anda dibenarkan melawat dan tidak boleh ditukar kepada status kerja atau tinggal jangka panjang dari dalam Malaysia. Jika kerja, tajaan keluarga atau tinggal jangka panjang yang dibiayai sendiri adalah rancangannya, permohonan pas secara amnya perlu diselesaikan, atau sekurang-kurangnya hampir selesai, sebelum berpindah, bukan dianggap sebagai urusan minggu pertama selepas anda mendarat.
+  - q: Apakah Kad Ketibaan Digital Malaysia, dan adakah ia dikenakan bayaran?
+    a: Kad Ketibaan Digital Malaysia (MDAC) ialah pendaftaran kemasukan percuma yang mesti dilengkapkan dalam talian oleh kebanyakan pendatang asing sebelum mendarat, dihantar hanya melalui portal rasmi Jabatan Imigresen sendiri. Ia bukan visa dan tidak menggantikan apa-apa pas atau visa yang telah anda pegang. Jabatan itu menegaskan ia adalah percuma kerana laman web tiruan tidak rasmi telah mengenakan bayaran kepada pengembara untuk borang yang tidak dikenakan apa-apa kos di sumbernya.
 ---
 
 Kebanyakan orang yang merancang perpindahan ke Malaysia bermula dengan soalan yang

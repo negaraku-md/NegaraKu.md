@@ -23,7 +23,7 @@ appliesTo: "在马来西亚半岛、沙巴或砂拉越租住或出租住宅物�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "82f3b97b7c53aec7"
+sourceContentHash: "d779e96ef436f16d"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
+faq:
+  - q: 马来西亚有保护租户的租赁法令吗？
+    a: 没有。马来西亚没有专门的住宅租赁法令——住宅租赁法案（Residential Tenancy Bill）讨论多年，但至今未提呈成为法律。住宅租赁属于《1950年合约法令》（Contracts Act 1950）下的普通合约，并由《1950年特定救济法令》（Specific Relief Act 1950）、《1951年扣押法令》（Distress Act 1951）及《1956年民事法令》（Civil Law Act 1956）加以补足。由于成文法所规定的内容如此之少，已签署的租赁协议本身几乎承载了全部分量。
+  - q: 如果我的租赁协议从未盖印，它是否无效？
+    a: 不是——未盖印并不会使租赁在双方之间无效。它带来的是更具体的后果：未盖印或盖印不足的协议，一般在应缴印花税及任何逾期罚款缴清之前，不能在法庭上被接纳为证据。根据《1949年印花税法令》（Stamp Act 1949），协议须在签署后30天内提交盖印，而在纠纷进行中才发现这一疏漏，是最糟糕的时刻。
+  - q: 如果租户拒绝搬离，房东可以更换门锁或切断水电吗？
+    a: 不可以。《1950年特定救济法令》（Specific Relief Act 1950）第7(2)条禁止房东自行驱逐租户——在租户仍占用房产期间，不得更换门锁、切断电力或供水，或搬走其物品。要收回房产须取得法庭命令。至于拖欠的租金，房东须根据《1951年扣押法令》（Distress Act 1951）向法庭申请扣押令，以查封租户的动产，而非直接与租户对峙。
 ---
 
 问马来西亚的房东和租客哪部法律保护他们，大多数人都会猜错。这里没有一部可以援引的「住宅租赁法」——没有单一成文法规定通知期、设定押金上限，或明确列出房东在租客搬出时能做与不能做的事。

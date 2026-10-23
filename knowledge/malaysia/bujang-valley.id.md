@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang ingin memahami asal usul peradaban awal di tanah Melayu sebelum munculnya kesultanan-kesultanan Melayu, atau yang merencanakan kunjungan ke situs dan museum arkeologi di Kedah."
 
 lang: "id"
-sourceContentHash: "e95214b94dacf363"
+sourceContentHash: "37c769aa2420a10a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["langkasuka", "melaka-sultanate"]
 keywords: ["Lembah Bujang", "Bujang Valley", "Kedah Tua", "candi", "Sungai Batu", "Candi Bukit Batu Pahat", "Muzium Arkeologi Lembah Bujang", "arkeologi Kedah"]
+faq:
+  - q: Apakah "Lembah Bujang" adalah nama sebuah kerajaan kuno?
+    a: Bukan. Lembah Bujang adalah nama kawasan arkeologi modern seluas sekitar 224 kilometer persegi di sekitar Merbok, Kedah, bukan nama sebuah kerajaan. Nama-nama kerajaan yang dikaitkan dengannya, seperti Kedah Tua, adalah label sejarah yang berbeda yang cakupan dan batas sebenarnya masih diperdebatkan di kalangan sarjana. Lembah ini merujuk pada kawasan yang menyimpan lebih dari 50 candi serta situs peleburan besi di Sungai Batu.
+  - q: Apa yang membuat situs Sungai Batu begitu penting?
+    a: Menurut Jabatan Warisan Negara (Departemen Warisan Nasional), situs Sungai Batu menunjukkan peleburan besi berskala besar yang dimulai sekitar abad pertama Masehi dan beroperasi terus-menerus hingga abad kedelapan, dengan tingkat produksi yang menandakan ekspor, bukan sekadar penggunaan lokal. Situs ini menyimpan salah satu bukti industri besi paling awal yang pernah tercatat di Asia Tenggara, yang usianya mendahului situs seperti Angkor Wat dan Borobudur.
+  - q: Apakah candi di Lembah Bujang masih dalam keadaan asli sejak zaman kuno?
+    a: Tidak. Sebagian besar candi yang dapat dikunjungi saat ini telah dibangun kembali (direkonstruksi) oleh para arkeolog berdasarkan reruntuhan aslinya, bukan struktur yang tetap utuh. Candi Bukit Batu Pahat adalah satu-satunya reruntuhan yang direkonstruksi di lokasi aslinya, sementara Candi Pengkalan Bujang kini dibangun kembali di dekat museum. Menurut Arkib Negara Malaysia (Arsip Nasional Malaysia), candi-candi ini diperkirakan dibangun antara abad keempat hingga kedua belas Masehi.
 ---
 
 Di sebuah dataran rata di dekat Gunung Jerai, di antara sawah padi dan perkebunan kelapa sawit, terdapat batu bata purba yang disusun berabad-abad sebelum Melaka hadir sebagai sebuah pelabuhan. Sebagiannya membentuk fondasi candi Hindu. Sebagian lagi adalah tungku peleburan besi. Tidak ada sultan yang pernah memerintah dari sini yang namanya dikenal hari ini — tetapi apa yang ditinggalkan oleh masyarakat yang membangun candi dan tungku itu menjadikan Lembah Bujang salah satu situs arkeologi paling penting di Asia Tenggara.

@@ -24,7 +24,7 @@ verificationNeeded:
   - "Le site du MOTAC renvoie une erreur 403 à certains outils de récupération automatisés ; les chiffres indiqués ici ont été obtenus par requête directe de type navigateur sur les pages de catégories et de directives de mm2h.gov.my et recoupés avec le tableau comparatif Category Overview du site lui-même, mais le programme a changé substantiellement depuis 2024 et les conditions peuvent être révisées à nouveau — confirmez toujours les chiffres actuels sur mm2h.gov.my avant de vous y fier pour une demande."
 
 lang: "fr"
-sourceContentHash: "722c4d82da3ee8ea"
+sourceContentHash: "6ca0d692c04f8572"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: Puis-je travailler ou diriger une entreprise avec un pass MM2H ?
+    a: Uniquement au niveau Platine (Platinum). La page Platine du MOTAC indique l'activité commerciale/d'investissement et les perspectives de carrière comme « Autorisées », tandis que ses pages Argent (Silver), Or (Gold) et SEZ/SFZ les indiquent toutes comme « Non autorisées ». Le MM2H n'est ni un visa de travail, ni une voie vers la citoyenneté, ni une résidence permanente — c'est un pass de long séjour renouvelable. Si travailler ou diriger une entreprise compte, c'est précisément cette différence par niveau qui détermine quel niveau, le cas échéant, convient à votre projet.
+  - q: Une fois le MM2H approuvé, puis-je utiliser librement mon dépôt à terme ?
+    a: 'Non. Le MOTAC autorise un retrait maximal de 50% du capital du dépôt à terme après approbation, et uniquement à des fins précises : l''achat de la résidence requise, ou pour l''éducation, les soins médicaux ou les activités touristiques en Malaisie. Il s''agit d''une libération conditionnelle, et non d''un compte à usage général. Le solde restant doit demeurer dans la banque malaisienne ; les fonds étrangers et les gains tirés du dépôt pendant qu''il y est placé bénéficient d''une exonération fiscale prévue.'
+  - q: Qui approuve réellement une demande de MM2H — le MOTAC ou l'Immigration ?
+    a: Les deux, dans des rôles différents. Le MOTAC gère le programme et fixe les conditions de chaque niveau, mais l'approbation finale de l'immigration, le visa apposé sur le pass et tout recours relèvent du ministère de l'Intérieur par l'intermédiaire du Département de l'immigration (Jabatan Imigresen Malaysia). Les demandes sont déposées par un agent MM2H agréé via le Guichet unique (One Stop Centre). Contactez donc le MOTAC pour les questions relatives aux conditions de niveau et l'Immigration pour les questions d'approbation ou de visa — deux autorités, deux compétences.
 ---
 
 Cherchez « combien de temps dure un pass Silver de MM2H » et vous trouverez des guides

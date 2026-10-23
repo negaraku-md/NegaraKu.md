@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pelajar, analis kebijakan, wartawan, dan siapa saja yang ingin memahami bagaimana pembangunan negara direncanakan melampaui satu tahun keuangan."
 
 lang: "id"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: Apa bedanya Rencana Malaysia dengan Anggaran tahunan?
+    a: Rencana Malaysia menetapkan arah, Anggaran menjalankannya. Rencana Malaysia (RMK) adalah rencana jangka menengah lima tahun yang menetapkan pilar, prioritas, dan target hasil — bukan berapa ringgit yang boleh dibelanjakan suatu kementerian pada tahun tertentu. Angka tahunan itu baru muncul ketika Menteri Keuangan menyampaikan Anggaran Federal setiap Oktober/November, melalui Estimasi Belanja Pembangunan yang menerjemahkan porsi RMK untuk tahun bersangkutan.
+  - q: Apakah Rencana Malaysia disahkan menjadi undang-undang seperti Anggaran?
+    a: Tidak. Rencana Malaysia disampaikan dan disahkan sebagai mosi kebijakan untuk diperdebatkan di Parlemen, bukan sebagai rancangan undang-undang. Sebaliknya, Anggaran harus melalui Rancangan Undang-Undang Perbekalan (Supply Bill) yang menempuh seluruh proses legislasi sebelum diundangkan sebagai Undang-Undang Perbekalan (Supply Act). Sebagai contoh, Rencana Malaysia ke-13 (RMK13) disampaikan sebagai mosi di Dewan Rakyat pada 31 Juli 2025 dan di Dewan Negara pada 25 Agustus 2025.
+  - q: Apakah seluruh RM611 miliar RMK13 berasal dari uang Pemerintah?
+    a: Tidak. Dari sedikitnya RM611 miliar investasi RMK13, hanya RM430 miliar yang merupakan alokasi pembangunan Pemerintah. Sisanya berasal dari RM120 miliar investasi langsung dalam negeri oleh Perusahaan Terkait Pemerintah (GLC) dan Perusahaan Investasi Terkait Pemerintah (GLIC), serta RM61 miliar melalui skema kemitraan pemerintah-swasta (PPP).
 ---
 
 Pada 31 Juli 2025, Perdana Menteri menyampaikan di Dewan Rakyat satu usul

@@ -23,7 +23,7 @@ appliesTo: "Analystes, journalistes, étudiants, investisseurs et opérateurs qu
 seoTitle: "Statistiques du tourisme en Malaisie : arrivées vs recettes"
 
 lang: "fr"
-sourceContentHash: "396de79b31be6ee8"
+sourceContentHash: "722b55381d173929"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,13 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "unemployment-labour-force", "ringgit"]
 keywords: ["arrivées touristiques Malaisie", "recettes touristiques Malaisie", "Visit Malaysia 2026", "compte satellite du tourisme Malaisie", "excursionniste vs touriste", "PIB tourisme Malaisie"]
+faq:
+  - q: La Malaisie a enregistré un nombre record d'arrivées étrangères — cela signifie-t-il un nombre record de touristes ?
+    a: 'Non. Le chiffre des arrivées mis en avant compte les visiteurs, qui correspondent aux touristes passant la nuit sur place plus les excursionnistes d''un jour. De janvier à avril 2025, ces deux catégories ont évolué en sens opposés : les touristes avec nuitée étaient 5.6% en dessous du niveau équivalent de 2019, tandis que les excursionnistes d''un jour étaient 64.9% au-dessus. Le total supérieur à 2019 tenait donc en grande partie à une reprise des excursions à la journée — le segment des séjours avec nuitée, qui remplit les chambres d''hôtel et réserve des vols, n''était pas encore revenu aux niveaux d''avant la pandémie.'
+  - q: Singapour envoie le plus de visiteurs — est-ce aussi la première source de recettes touristiques ?
+    a: C'est la première source de recettes à elle seule, mais sa part est bien plus faible que ne le laissent penser ses arrivées. Singapour représentait 49.7% des arrivées de visiteurs étrangers en 2024, mais seulement 26.2% des recettes ; la Chine représentait 9.8% des arrivées, mais 19.5% des recettes. La dépense moyenne par arrivée va d'environ RM1,500 pour Singapour à environ RM5,600 pour la Chine, contre une moyenne nationale d'environ RM2,800 — un large écart dû à la proportion d'excursions à la journée.
+  - q: Le tourisme représente-t-il 15.1% du PIB de la Malaisie ou 6.2% ?
+    a: Les deux chiffres proviennent du Compte satellite du tourisme du DOSM, mais ils mesurent des choses différentes et ne doivent pas être utilisés indifféremment. La valeur ajoutée brute des industries touristiques (GVATI) représentait 15.1% du PIB en 2024 — soit l'ensemble de la production des industries au service des touristes, y compris la part consommée par les résidents locaux. Le PIB direct du tourisme (TDGDP) s'élevait à 6.2% — soit la seule demande touristique. Les industries touristiques représentent environ un septième de l'économie ; la demande touristique, directement, environ un seizième.
 ---
 
 En 2024, la Malaisie a comptabilisé 37,961,485 arrivées de visiteurs étrangers :

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "고용주 의료 보장과 개인 메디컬 카드를 저울질하는 직원, 그리고 증권을 구입하거나 갱신하기 전에 '공동부담'이 무엇을 뜻하는지 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -64,6 +64,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: 메디컬 카드가 있으면 공공병원 치료비도 지불되나요?
+    a: 그것은 메디컬 카드의 목적이 아닙니다. 보건부가 운영하는 말레이시아의 공공병원과 진료소는 보험 가입 여부와 관계없이 국민에게 큰 폭으로 보조되며, 어느 쪽이든 치료는 받을 수 있습니다. 메디컬 카드는 본질적으로 민간 의료 시스템을 위한 입원 및 수술 상품으로, 주로 민간병원 치료를 감당할 수 있게 만들기 위해 존재하는 것이지 애초에 의료에 대한 접근권을 부여하기 위한 것이 아닙니다.
+  - q: 퇴사하면 고용주가 제공하던 의료 보장은 어떻게 되나요?
+    a: 단체 입원 및 수술(Group Hospitalisation and Surgical, GHS) 보장은 직장에 연동되어 있습니다. 사직하거나, 정리해고되거나, 퇴직하면 보험은 고용이 끝나는 날 중단되며, 자동으로 개인적으로 연장되지 않습니다. 반면 독립형 개인 메디컬 카드는 이동이 가능합니다. 보험료가 납부되고 계약이 갱신되는 한 고용주가 누구든 상관없이 본인의 것으로 유지되며, 그래서 많은 사람들이 이를 안전장치로 여깁니다.
+  - q: '''본인부담금 없음(no co-payment)'' 의료보험이 본인부담금이 있는 보험보다 자동으로 더 나은가요?'
+    a: 반드시 그렇지는 않습니다. 이 글은 이를 흔한 오해로 꼽습니다. 본인부담금 없는 플랜은 같은 보장 한도에 대해 더 높은 보험료가 붙습니다. 본인부담금(co-payment) 방식에서는 더 낮은 보험료를 대가로, 대상이 되는 각 입원비의 정해진 몫을 처음부터 부담하기로 동의합니다. 그 맞교환이 가치가 있는지는 청구액 중 본인이 얼마를 감당할 수 있는지에 달려 있습니다. 비율, 상한선 유무, 제외되는 치료는 상품 공시서(product disclosure sheet)에서 확인하십시오.
 ---
 
 두 직원이 같은 부러진 팔로 같은 민간 병원에 걸어 들어갑니다. 한 명은 카드를 내밀고 퇴원 시 한 센도 내지 않고 걸어 나갑니다. 다른 한 명은 청구액의 일부를 스스로 냅니다. 여섯 달 전에 구입한 증권이 바로 그 이유로 더 저렴했기 때문입니다.

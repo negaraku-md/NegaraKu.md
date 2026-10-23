@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Warga negara Malaysia, penduduk tetap, pembeli rumah pertama kali, dan pembeli asing (tunduk pada pembatasan dan tarif bea tambahan)"
 
 lang: "id"
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: Secara hukum, siapa yang membayar bea meterai atas pengalihan properti di Malaysia — pembeli atau penjual?
+    a: Pembeli. Berdasarkan Jadwal Ketiga Undang-Undang Bea Meterai 1949 (Stamp Act 1949), pihak yang secara hukum wajib membayar bea meterai pengalihan adalah pembeli, bukan penjual. Bea ini dikenakan atas Memorandum Pengalihan (Memorandum of Transfer) dengan tarif berjenjang Item 32(a) — 1% untuk RM100.000 pertama hingga 4% di atas RM1.000.000 — dihitung berdasarkan mana yang lebih tinggi, harga yang tercantum atau penilaian pasar LHDN.
+  - q: Apakah rumah sub-sale (jual kembali) memberikan perlindungan yang sama seperti membeli proyek baru?
+    a: Tidak. Pembelian proyek baru dari pengembang berlisensi mengikuti Perjanjian Jual Beli berdasarkan undang-undang dalam bentuk Jadwal G atau H berdasarkan Undang-Undang Pembangunan Perumahan (Kontrol dan Lisensi) 1966 (Housing Development (Control and Licensing) Act 1966), dengan persentase cicilan yang tetap, tenggat penyerahan kepemilikan kosong yang diwajibkan (24 bulan untuk rumah tapak), dan ganti rugi otomatis atas keterlambatan penyerahan. SPA sub-sale adalah kontrak privat tanpa semua itu — jadwal waktu dan ketentuan penyitaannya dinegosiasikan secara privat, jadi bacalah dengan sama telitinya.
+  - q: Mengapa pembeli sering kali akhirnya membayar dua set biaya hukum untuk satu pembelian?
+    a: Karena ada dua dokumen terpisah yang berjalan secara paralel, ditangani atas nama klien yang berbeda. Satu pengacara menyusun dan memeteraikan Perjanjian Jual Beli yang mengalihkan properti; pengacara lain — ditunjuk oleh bank, kadang kantor yang sama mengenakan topi kedua — menyiapkan Perjanjian Pinjaman dan Pembebanan (Formulir 16A) yang menjamin kepentingan bank. Pengacara bank melindungi pembebanan bank, bukan uang muka pembeli, sehingga peran dan biaya mereka berbeda.
 ---
 
 Biasanya dua orang pengacara terlibat dalam suatu pembelian rumah di Malaysia, dan kebanyakan pembeli sama sekali tidak menyadari bahwa mereka adalah dua orang yang berbeda. Seorang menyiapkan dan memeteraikan Perjanjian Jual Beli yang mengalihkan properti itu. Seorang lagi — ditunjuk oleh bank, kadang firma yang sama — menyiapkan dan memeteraikan perjanjian pinjaman serta gadaian yang memungkinkan bank menyita properti itu jika pinjaman tidak dibayar kembali. Pembeli yang menganggap "pengacara" itu sebagai satu tokoh tunggal dalam cerita ini biasanya bingung kemudian mengapa dua set biaya pengacara muncul, atau mengapa kunci rumah tidak sampai pada hari pinjaman disetujui.

@@ -27,7 +27,7 @@ verificationNeeded:
   - "Hạn chót nộp hằng năm (30 tháng 4 nộp thủ công / 15 tháng 5 e-Filing) được xác nhận cho Năm Đánh thuế 2025 qua thông cáo báo chí có ghi ngày của chính LHDN; LHDN ban hành một chương trình nộp mới mỗi năm, vì vậy hãy kiểm tra lại các ngày của năm hiện hành trước khi dựa vào chúng cho một năm đánh thuế khác."
 
 lang: "vi"
-sourceContentHash: "027e674e99f0cfb0"
+sourceContentHash: "0160a6b90a992b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
+faq:
+  - q: Tôi đang giữ Giấy phép Lao động (Employment Pass) — chẳng phải điều đó quyết định tình trạng thuế ở Malaysia của tôi sao?
+    a: Không. Điều 7 của Đạo luật Thuế Thu nhập 1967 (Income Tax Act 1967) xác định tư cách cư trú dựa trên số ngày hiện diện thực tế, chứ không dựa trên quốc tịch, tình trạng MyKad hay loại giấy phép. Tiêu chí được viện dẫn nhiều nhất là 182 ngày trở lên trong năm cơ sở, nhưng ba tiêu chí khác có thể khiến bạn trở thành cư dân với số ngày ít hơn. Một người nước ngoài giữ giấy phép lao động và không bao giờ rời đi có thể là cư dân ngay từ ngày đầu tiên; còn một công dân Malaysia ở nước ngoài phần lớn thời gian trong năm có thể là người không cư trú.
+  - q: Chủ lao động của tôi đã khấu trừ PCB từ lương của tôi mỗi tháng rồi — tôi có còn phải nộp tờ khai thuế không?
+    a: Có, một khi thu nhập của bạn vượt ngưỡng đăng ký. Khấu trừ hằng tháng (PCB/MTD) chỉ là một khoản ước tính được trừ trước. Tờ khai hằng năm mới là bước quyết toán — nơi các khoản giảm trừ được yêu cầu, các khoản thu nhập khác được khai báo, và tình trạng thực tế được giải quyết, dù điều đó nghĩa là được hoàn thuế hay phải nộp thêm. Việc có một hồ sơ thuế và nộp tờ khai là bắt buộc, độc lập với việc chủ lao động của bạn đã khấu trừ thuế mỗi tháng hay chưa.
+  - q: Tôi đã có Mã số Thuế (Tax Identification Number) rồi — tôi có thể đăng nhập thẳng vào MyTax và nộp tờ khai không?
+    a: Chưa được. Người khai thuế lần đầu cần hai thông tin xác thực theo thứ tự. Mã số thuế (TIN) có được qua e-Daftar (nhiều công dân và thường trú nhân đã tự động có một mã), tự nó không mở được e-Filing. LHDN (Cục Thuế Nội địa) yêu cầu một mã PIN riêng để kích hoạt tài khoản e-Filing gắn với TIN đó — trước đây phải qua chi nhánh, gần đây có thể yêu cầu qua cổng trực tuyến. Chỉ sau cả hai bước này, bạn mới có thể mở và nộp đúng mẫu tờ khai thuế.
 ---
 
 Một nhân viên mới chuyển đến Kuala Lumpur bằng thị thực lao động (Employment Pass)

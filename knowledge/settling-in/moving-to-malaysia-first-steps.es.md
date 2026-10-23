@@ -26,7 +26,7 @@ verificationNeeded:
   - "MM2H's specific income, deposit and duration figures per tier should be confirmed directly on the official MM2H portal (mm2h.gov.my) at the time of application, since the portal blocks automated fetching and its tiers have been restructured more than once in recent years."
 
 lang: "es"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: ¿Qué debo resolver primero al mudarme a Malasia?
+    a: 'Su permiso de inmigración, antes de reservar nada. Casi todos los trámites posteriores comprueban el permiso que usted posee, no su pasaporte. Tras la entrada, el orden práctico es: primero el alojamiento temporal, luego una cuenta bancaria (que requiere el permiso más una dirección malasia), luego el registro de la SIM (que también depende del permiso y de una dirección local), y luego la conversión del permiso de conducir si piensa conducir. Intentar abrir una cuenta bancaria antes de que se emita el permiso es la forma más común en que los recién llegados pierden una semana.'
+  - q: ¿Puedo entrar con un permiso de turista y convertirlo más tarde en un permiso de trabajo o de estancia prolongada?
+    a: En la mayoría de los casos, no. Un permiso estándar de visita social de corta duración (turista) solo certifica que usted está autorizado a visitar y no se convierte en un estatus de trabajo o de estancia prolongada desde dentro de Malasia. Si el plan es trabajar, el patrocinio familiar o una estancia prolongada autofinanciada, la solicitud del permiso por lo general debe quedar resuelta, o al menos bien encaminada, antes de la mudanza, y no tratarse como un trámite de la primera semana tras aterrizar.
+  - q: ¿Qué es la Tarjeta de Llegada Digital de Malasia y tiene algún costo?
+    a: La Tarjeta de Llegada Digital de Malasia (MDAC) es un registro de entrada gratuito que la mayoría de los extranjeros que llegan deben completar en línea antes de aterrizar, presentado únicamente a través del portal oficial del propio Departamento de Inmigración. No es un visado y no sustituye a ningún permiso o visado que usted ya posea. El Departamento recalca que es gratuita porque sitios no oficiales que la imitan han cobrado a los viajeros por un formulario que no cuesta nada en su origen.
 ---
 
 La mayoría de quienes planean mudarse a Malasia empiezan con la pregunta equivocada.

@@ -26,7 +26,7 @@ verificationNeeded:
   - "이전의 산업용지에 대한 주 당국 동의 면제를 폐지한 국가토지법 개정의 정확한 인용과 연도는 개정법 자체의 원문과 대조하여 확인할 수 없었습니다. 이는 직접 읽은 1차 조항이 아니라 서로 수렴하는 2차 법률 해설에 근거하여 여기에 기술됩니다."
 
 lang: "ko"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -71,6 +71,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: 말레이시아 전역에서 외국인이 부동산을 구입할 때 100만 링깃이라는 단일 최저 가격이 적용됩니까?
+    a: 아닙니다. 100만 링깃이라는 수치는 연방 직할구(쿠알라룸푸르, 푸트라자야, 라부안)에만 해당하며, 경제기획원(Economic Planning Unit)의 부동산 취득 지침에 따른 것으로 2014년 예산안에 맞춰 개정되었습니다. 토지는 주(州) 관할 사항이므로, 다른 모든 주는 각자의 하한선을 설정하고 수시로 개정하며, 이는 더 높거나 낮을 수 있고, 구역별, 지구별, 또는 단독주택(landed)과 집합건물(strata) 구분에 따라 나뉠 수 있습니다.
+  - q: 외국인이 주(州)의 최저 가격을 충족하면 구입이 반드시 성사됩니까?
+    a: 아닙니다 — 가격 하한선을 넘기는 것은 구매자를 신청 단계에 이르게 할 뿐입니다. 두 번째의 별도 관문은 국가토지법(National Land Code) 제433B조에 따른 주 당국의 서면 동의이며, 이는 가격과 무관하게 모든 외국인 취득에 요구됩니다. 이 동의는 재량에 따른 것으로 자동으로 주어지지 않으며 거부될 수 있습니다. 제433C조에 따라 그러한 서면 승인 없이 완료된 거래는 무효입니다.
+  - q: 제시 금액이 충분히 높으면 외국인이 말레이시아의 어떤 부동산이든 구입할 수 있습니까?
+    a: '아닙니다. 일부 부동산은 가격과 무관하게 전면 제외됩니다: 말레이 보류지(비(非)말레이인에게의 이전은 말레이 보류지 법령(Malay Reservation Enactments)에 따라 무효), 농업용으로 분류된 토지, 그리고 부미푸트라 할당 또는 저비용·서민용 주택 유닛입니다. 이것들은 가격과 동의의 틀 밖에 완전히 있으므로, 주의 최저 가격보다 높은 금액을 지불해도 아무것도 바뀌지 않습니다. 사바주와 사라왁주도 국가토지법 밖에서 각자의 별도 토지법을 운용합니다.'
 ---
 
 홍콩에서 온 매수인이 페탈링자야(Petaling Jaya)의 세미디 하우스에 RM180만을 지불하기로 합의합니다. 금융이 마련되고, 매도인도 의사가 있으며, 가격은 온라인에서 인용되는 모든 기준을 통과합니다. 그럼에도 이 거래는, 샤알람(Shah Alam)의 한 주 정부 사무소가 — 자체 재량으로 — 외국인이 그 소유권을 갖도록 허용할지 결정하기 전까지는 완결될 수 없습니다.

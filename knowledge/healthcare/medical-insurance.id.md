@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Pekerja yang menimbang perlindungan medis pemberi kerja dibanding kartu medis pribadi, dan siapa pun yang mencoba memahami arti 'pembayaran bersama' sebelum membeli atau memperbarui polis."
 
 lang: "id"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: Jika saya punya kartu medis, apakah kartu itu membayar perawatan di rumah sakit pemerintah?
+    a: Itu bukan tujuan sebuah kartu medis. Rumah sakit dan klinik publik Malaysia, yang dikelola oleh Kementerian Kesehatan, sangat disubsidi untuk warga negara terlepas dari apakah Anda memegang polis atau tidak — perawatan tetap diberikan. Kartu medis pada dasarnya adalah produk rawat inap dan bedah untuk sistem swasta, yang ada terutama untuk membuat perawatan rumah sakit swasta terjangkau, bukan untuk memberi akses ke layanan kesehatan sama sekali.
+  - q: Apa yang terjadi pada tanggungan medis dari pemberi kerja saya ketika saya berhenti bekerja?
+    a: 'Tanggungan Rawat Inap dan Bedah Kelompok (Group Hospitalisation and Surgical, GHS) terikat pada pekerjaan. Jika Anda mengundurkan diri, di-PHK, atau pensiun, polis itu berhenti pada hari pekerjaan berakhir — tidak ada kelanjutan pribadi secara otomatis. Sebaliknya, kartu medis pribadi yang berdiri sendiri bersifat portabel: kartu itu tetap menjadi milik Anda terlepas dari siapa pemberi kerjanya selama premi dibayar dan polis diperpanjang, itulah sebabnya banyak orang menganggapnya sebagai cadangan.'
+  - q: Apakah polis medis 'tanpa co-payment' otomatis lebih baik daripada yang dengan co-payment?
+    a: Belum tentu — artikel ini mencantumkannya sebagai kesalahan umum. Rencana tanpa co-payment memiliki premi yang lebih tinggi untuk batas manfaat yang sama. Di bawah co-payment, Anda setuju sejak awal untuk menanggung bagian tertentu dari setiap tagihan rumah sakit yang memenuhi syarat sebagai imbalan premi yang lebih rendah. Apakah pertukaran itu sepadan tergantung pada seberapa besar tagihan yang bisa Anda tanggung sendiri; periksa lembar pengungkapan produk (product disclosure sheet) untuk persentasenya, batas atas apa pun, dan perawatan yang dikecualikan.
 ---
 
 Dua orang pekerja masuk ke rumah sakit swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kartu dan keluar tanpa membayar sesen pun saat pemulangan. Seorang lagi membayar sebagian dari tagihan itu sendiri, karena polis yang dibelinya enam bulan lalu lebih murah justru karena alasan itu.

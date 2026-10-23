@@ -23,7 +23,7 @@ appliesTo: "Pekerja yang menimbang perlindungan perubatan majikan berbanding kad
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 
 status: "published"
 aiAssisted: true
@@ -65,6 +65,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: Jika saya mempunyai kad perubatan, adakah ia membayar rawatan di hospital kerajaan?
+    a: Itu bukan tujuan sebenar sesebuah kad perubatan. Hospital dan klinik awam di Malaysia, yang dikendalikan oleh Kementerian Kesihatan, disubsidi secara besar-besaran untuk warganegara tanpa mengira sama ada anda memegang polisi ataupun tidak — rawatan tetap diberikan. Kad perubatan pada dasarnya ialah produk hospitalisasi dan pembedahan untuk sistem swasta, yang wujud terutamanya untuk menjadikan rawatan hospital swasta mampu dimiliki, bukan untuk memberi akses kepada rawatan sama sekali.
+  - q: Apa yang berlaku kepada perlindungan perubatan majikan saya apabila saya berhenti kerja?
+    a: 'Perlindungan Hospitalisasi dan Pembedahan Berkumpulan (GHS) terikat dengan pekerjaan. Jika anda meletak jawatan, diberhentikan, atau bersara, polisi tersebut berhenti pada hari pekerjaan berakhir — tiada sambungan peribadi secara automatik. Kad perubatan peribadi yang berdiri sendiri pula boleh dibawa ke mana sahaja (mudah alih): ia kekal milik anda tanpa mengira majikan selagi premium dibayar dan polisi diperbaharui, dan inilah sebabnya ramai orang menganggapnya sebagai sandaran.'
+  - q: Adakah polisi perubatan 'tanpa bayaran bersama' secara automatik lebih baik daripada yang mempunyai bayaran bersama?
+    a: Tidak semestinya — artikel ini menyenaraikannya sebagai satu kesilapan biasa. Pelan tanpa bayaran bersama mengenakan premium yang lebih tinggi untuk had faedah yang sama. Di bawah bayaran bersama (co-payment), anda bersetuju dari awal untuk menanggung bahagian tertentu bagi setiap bil hospital yang layak sebagai pertukaran untuk premium yang lebih rendah. Sama ada pertukaran itu berbaloi bergantung pada berapa banyak daripada bil yang mampu anda tanggung sendiri; semak helaian pendedahan produk untuk peratusannya, sebarang had, dan rawatan yang dikecualikan.
 ---
 
 Dua orang pekerja masuk ke hospital swasta yang sama dengan lengan patah yang sama. Seorang menyerahkan kad dan keluar tanpa membayar sesen pun semasa discaj. Seorang lagi membayar sebahagian daripada bil itu sendiri, kerana polisi yang dibelinya enam bulan lalu lebih murah atas sebab itu tepat.

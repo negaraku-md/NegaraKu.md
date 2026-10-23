@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 인구, 노동, 부동산 통계를 정확히 읽으려는 모든 이 — 인구와 노동력이 실제로 어디에 있는지를 평가하는 연구자, 계획가, 기업."
 
 lang: "ko"
-sourceContentHash: "0362cd9a8f8b4f6a"
+sourceContentHash: "7490bc9be18b1f7b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -67,6 +67,13 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor", "unemployment-labour-force", "choosing-a-business-location-malaysia"]
 keywords: ["Malaysia urbanisation rate", "kadar pembandaran Malaysia", "DOSM urban area definition", "Klang Valley population", "Malaysia rural urban migration", "urban population Malaysia 2020"]
+faq:
+  - q: 말레이시아 통계에서 "도시(urban)"란 대도시를 의미합니까?
+    a: 아닙니다. 말레이시아 통계청(DOSM)의 2020년 인구조사 방법론에서 "도시"는 규모가 아니라 인구를 기준으로 하는 기준입니다. 즉, 관보에 고시된 지역과 이에 인접한 시가지를 합한 인구가 10,000명 이상이고, 그 시가지의 15세 이상 주민 중 최소 60%가 농업 외 부문에 종사하는 경우를 말합니다. 재래시장(웻마켓)이 있는 인구 10,000명의 소도시도 페탈링자야(Petaling Jaya)와 똑같이 이 기준에 해당하므로, "도시 인구"는 "대도시에 사는 사람들"과 같지 않습니다.
+  - q: 말레이시아의 도시화는 여전히 사람들이 농촌에서 도시로 이동하는 것에 의해 주도됩니까?
+    a: 대체로 아닙니다 — 그런 패턴은 대부분 끝났습니다. DOSM의 "2024년 말레이시아 이주 조사 보고서"에 따르면 주(州) 내 이동의 84.6%가 도시 간 이동이었고, 농촌에서 도시로의 이동은 단 0.6%에 불과했습니다. 이동하는 사람들 대부분은 이미 도시 주민으로서 다른 도시 지역으로 이주하는 경우입니다. 한 국가의 도시화율이 약 4분의 3을 넘어서면, 이후의 변화는 주로 자연 증가, 경계의 재분류, 도시 간 이동에서 비롯되며, 농촌이 비워지는 데서 오는 것이 아닙니다.
+  - q: 말레이시아의 도시 성장은 대부분 어디에 집중되었습니까?
+    a: 클랑밸리(Klang Valley)입니다. 2020년 인구조사에서 인접한 네 개 구 — 쿠알라룸푸르(1,982,112), 페탈링(2,298,130), 울루랑앗(1,400,461), 클랑(1,088,942) — 이 합쳐서 약 677만 명을 차지했으며, 이는 3,240만 명인 전국 인구의 5분의 1을 넘습니다. 슬랑오르는 현재 6,994,423명으로 인구가 가장 많은 주이며 도시화율이 95.8%인 반면, 클란탄은 44.1%로 도시화가 가장 덜 된 주입니다.
 ---
 
 ## 이제 말레이시아인 네 명 중 세 명은 DOSM이 "도시"라 부르는 곳에 산다

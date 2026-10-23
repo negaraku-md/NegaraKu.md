@@ -23,7 +23,7 @@ appliesTo: "Penganalisis, wartawan, pelajar, pelabur dan pengendali yang perlu m
 seoTitle: "Statistik Pelancongan Malaysia: Ketibaan lawan Perolehan"
 
 lang: "ms"
-sourceContentHash: "396de79b31be6ee8"
+sourceContentHash: "722b55381d173929"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -88,6 +88,13 @@ relations:
   - { rel: "compares-with", to: "palm-oil-sector" }
 related: ["gdp-overview", "external-trade", "unemployment-labour-force", "ringgit"]
 keywords: ["Malaysia tourist arrivals", "Malaysia tourism receipts", "Visit Malaysia 2026", "Tourism Satellite Account Malaysia", "excursionist vs tourist", "Malaysia tourism GDP"]
+faq:
+  - q: Malaysia melaporkan ketibaan asing memecah rekod — adakah itu bermakna pelancong memecah rekod?
+    a: 'Tidak. Angka utama ketibaan mengira pelawat, iaitu bersamaan pelancong bermalam campur pelawat sehari (ekskursionis). Pada Januari–April 2025, kedua-duanya bergerak ke arah bertentangan: pelancong bermalam adalah 5.6% di bawah tahap setara 2019, manakala pelawat sehari pula 64.9% di atasnya. Jadi jumlah yang melepasi paras 2019 itu sebahagian besarnya ialah pemulihan lawatan sehari — segmen bermalam yang mengisi bilik hotel dan menempah penerbangan masih belum pulih ke tahap sebelum pandemik.'
+  - q: Singapura menghantar paling ramai pelawat — adakah ia juga sumber wang pelancongan terbesar?
+    a: Ia memang sumber penerimaan tunggal terbesar, tetapi jauh lebih kecil sebagai bahagian berbanding apa yang ditunjukkan oleh ketibaannya. Singapura menyumbang 49.7% ketibaan pelawat asing pada 2024 tetapi hanya 26.2% penerimaan; China pula 9.8% ketibaan tetapi 19.5% penerimaan. Purata perbelanjaan setiap ketibaan berjulat dari kira-kira RM1,500 bagi Singapura hingga kira-kira RM5,600 bagi China, berbanding purata kebangsaan kira-kira RM2,800 — jurang besar yang didorong oleh gabungan lawatan sehari.
+  - q: Adakah pelancongan 15.1% daripada KDNK Malaysia atau 6.2%?
+    a: Kedua-dua angka datang daripada Akaun Satelit Pelancongan DOSM, tetapi ia mengukur perkara berbeza dan tidak sepatutnya digunakan secara bertukar ganti. Nilai ditambah kasar industri pelancongan (GVATI) ialah 15.1% daripada KDNK pada 2024 — keseluruhan output industri yang melayani pelancong, termasuk bahagian yang digunakan oleh penduduk tempatan. KDNK langsung pelancongan (TDGDP) pula 6.2% — permintaan pelancongan sahaja. Industri pelancongan mewakili kira-kira satu per tujuh ekonomi; permintaan pelancongan secara langsung kira-kira satu per enam belas.
 ---
 
 Pada 2024 Malaysia mencatatkan 37,961,485 ketibaan pelawat asing — lebih

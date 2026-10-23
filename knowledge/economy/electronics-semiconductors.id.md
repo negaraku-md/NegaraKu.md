@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang menilai eksposur ekonomi Malaysia — investor, pencari kerja, perumus kebijakan, dan pelajar perdagangan."
 
 lang: "id"
-sourceContentHash: "f587a0bc65cbc1af"
+sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["external-trade", "gdp-overview", "palm-oil-sector"]
 keywords: ["Malaysia semiconductor", "Malaysia E&E exports", "elektrik dan elektronik Malaysia", "Penang semiconductor", "Malaysia chip industry"]
+faq:
+  - q: Apakah Malaysia membuat chip canggih seperti Taiwan, atau sesuatu yang berbeda?
+    a: Sesuatu yang berbeda. Pembuatan semikonduktor memiliki dua bagian, dan kekuatan Malaysia ada di bagian hilir (back end) — perakitan, pengujian, dan pengemasan (ATP), yaitu tahap ketika wafer jadi berubah menjadi chip yang dapat digunakan. Malaysia memiliki sangat sedikit pabrik fabrikasi mutakhir (bagian hulu/front-end). Ulasan yang menganggap Malaysia sebagai pesaing pabrik fab Taiwan sebenarnya membandingkan mata rantai yang berbeda dalam rantai yang sama; Malaysia telah mengerjakan bagian hilir sejak tahun 1970-an.
+  - q: Mengapa E&E (listrik dan elektronik) yang menyumbang separuh ekspor disebut sebagai kerentanan, bukan sekadar kekuatan?
+    a: 'Karena satu kategori produk yang menanggung sekitar separuh basis ekspor memusatkan risiko dalam tiga cara. Siklus: semikonduktor bersifat naik-turun tajam, sehingga sektor yang tumbuh 39,5% dalam setahun bisa menyusut drastis. Posisi dalam rantai: perakitan dan pengujian hilir lebih mudah ditandingi daripada fabrikasi, sehingga pesaing dapat membangun kapasitas yang sama. Geopolitik: kontrol ekspor dan kebijakan pemulangan produksi (reshoring) yang disusun di perekonomian lain berdampak langsung pada pabrik-pabrik di Malaysia.'
+  - q: Mengapa justru Penang yang menjadi pusat industri chip Malaysia?
+    a: Hal ini berawal dari keputusan kebijakan pada tahun 1972. Penang mendirikan zona perdagangan bebas dan menggaet perusahaan elektronik asing dengan insentif pajak, impor komponen bebas bea, dan tenaga kerja yang tersedia. Perusahaan semikonduktor Amerika dan Jepang mendirikan operasi perakitan, dan terbentuklah sebuah klaster. Klaster kian mengakar seiring waktu — pemasok, perawatan peralatan, insinyur yang dilatih secara lokal — itulah sebabnya setengah abad kemudian Penang dan Kulim masih memusatkan begitu banyak bagian dari sektor ini.
 ---
 
 ## Sekilas

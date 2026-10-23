@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "198b32c117f346a7"
+sourceContentHash: "7bc376bb0aba475a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Christianity in Malaysia", "cristianos malasios", "Sabah Sarawak Christians", "católicos Malasia", "protestantes Malasia", "Christian Federation of Malaysia"]
+faq:
+  - q: ¿La mayoría de los cristianos de Malasia son de origen chino o indio?
+    a: No, ese es un error común que el artículo corrige. Por comunidad, los cristianos de Malasia son mayoritariamente bumiputera (alrededor del 59%), lo que refleja las iglesias indígenas de Borneo entre los kadazan-dusun, iban, bidayuh y otros, con minorías chinas (alrededor del 27%) e indias (alrededor del 4%) concentradas en la península. Más de dos tercios (alrededor del 70%) de los cristianos de Malasia viven en Sabah y Sarawak.
+  - q: ¿Es el Viernes Santo (Good Friday) un día festivo en toda Malasia?
+    a: 'No. Ambos difieren en su alcance: la Navidad es un día festivo de ámbito nacional, mientras que el Viernes Santo solo es festivo en Sabah y Sarawak. Esto refleja la geografía de la fe, ya que más de dos tercios de los cristianos de Malasia —y Sarawak, donde el cristianismo es la mayor religión por sí sola— se encuentran en Malasia Oriental y no en la península.'
+  - q: ¿Qué es la Federación Cristiana de Malasia y qué organismos reúne?
+    a: 'La Federación Cristiana de Malasia (Christian Federation of Malaysia, CFM), constituida en 1985, es el principal organismo paraguas. Une las tres corrientes del cristianismo malasio: la Conferencia de Obispos Católicos (Catholic Bishops'' Conference), el Consejo de Iglesias de Malasia (Council of Churches of Malaysia, protestantismo tradicional) y la Comunión Cristiana Evangélica Nacional (National Evangelical Christian Fellowship). La CFM afirma representar a más del 95% de las iglesias del país, muchas de ellas congregaciones de habla malaya en Sabah y Sarawak.'
 ---
 
 La historia cristiana de Malasia tiene dos centros de gravedad, y ninguno está en

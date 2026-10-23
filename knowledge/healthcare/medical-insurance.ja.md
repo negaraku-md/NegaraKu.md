@@ -22,7 +22,7 @@ appliesTo: "雇用主の医療保障と個人の医療カードを比較検討�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 
 status: "published"
 aiAssisted: true
@@ -63,6 +63,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: メディカルカードを持っていれば、公立病院での治療費も支払われますか?
+    a: それはメディカルカードの目的ではありません。保健省が運営するマレーシアの公立病院と診療所は、保険に加入しているかどうかにかかわらず国民に対して手厚く補助されており、いずれにせよ治療は受けられます。メディカルカードは本質的に民間医療向けの入院・手術商品であり、主に民間病院での治療を手頃な費用にするために存在するのであって、そもそも医療を受ける権利を与えるためのものではありません。
+  - q: 退職したら、勤務先の医療保障はどうなりますか?
+    a: 団体入院・手術（Group Hospitalisation and Surgical, GHS）保障は仕事に紐づいています。退職、解雇、または定年退職した場合、保険は雇用が終わる日に停止し、自動的に個人として継続されることはありません。対照的に、独立した個人のメディカルカードは持ち運び可能です。保険料が支払われ契約が更新されている限り、雇用主が誰であっても自分のものとして残るため、多くの人がこれを備えとして扱います。
+  - q: 「自己負担なし（no co-payment）」の医療保険は、自己負担ありのものより自動的に優れているのですか?
+    a: 必ずしもそうではありません。この記事はこれをよくある誤解として挙げています。自己負担なしのプランは、同じ給付限度額に対してより高い保険料がかかります。自己負担（co-payment）では、より低い保険料と引き換えに、対象となる各入院費の一定割合をあらかじめ負担することに同意します。そのトレードオフが見合うかどうかは、請求額のどれだけを自分で負担できるかによります。割合、上限の有無、対象外の治療については、商品開示シート（product disclosure sheet）を確認してください。
 ---
 
 二人の従業員が、同じ骨折を抱えて同じ私立病院を訪れる。一人はカードを差し出し、退院時に1センも支払わずに帰っていく。もう一人は自分で請求額の一部を支払う——半年前に加入した保険が、まさにその理由で保険料が安かったからだ。

@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malaysia", "Civil Law Act 1956", "Act 67", "reception of English law", "Section 3 Civil Law Act", "cut-off date common law Malaysia", "Article 160 Federal Constitution", "Torrens system Malaysia"]
+faq:
+  - q: Is there a single cut-off date for English common law across Malaysia?
+    a: 'No. Section 3 of the Civil Law Act 1956 sets three different freeze dates: 7 April 1956 for Peninsular Malaysia, 1 December 1951 for Sabah, and 12 December 1949 for Sarawak. Sabah''s and Sarawak''s dates predate the 1956 Act because Act 67 preserved the cut-offs their earlier local ordinances had already set, rather than resetting everyone to 1956.'
+  - q: Are modern English court decisions binding on Malaysian courts?
+    a: No. Under Section 3 of the Civil Law Act 1956, an English case decided before the relevant cut-off date is binding common law in principle, but one decided after it is persuasive only — a Malaysian court can look at it, discuss it, and decline to follow it. Section 3 also applies common law and equity only "so far as the circumstances... permit," so courts can refuse English rules that do not fit local conditions.
+  - q: Does English law govern land ownership in Malaysia?
+    a: No. Section 6 of the Civil Law Act 1956 states that nothing in the Act introduces English law relating to the tenure, conveyance, assurance of or succession to immovable property. English land law was deliberately kept out from day one. Malaysian land instead runs on the Australian-derived Torrens system, codified for Peninsular Malaysia in the National Land Code 1965 (Act 56), where registration itself creates and proves title.
 ---
 
 A Malaysian judge deciding a contract dispute today can still reach for an English

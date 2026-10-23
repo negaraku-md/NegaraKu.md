@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Christianity in Malaysia", "Malaysian Christians", "Sabah Sarawak Christians", "Catholic Malaysia", "Protestant Malaysia", "Christian Federation of Malaysia"]
+faq:
+  - q: Are most Malaysian Christians Chinese or Indian?
+    a: No — that is a common misconception the article corrects. By community, Malaysian Christians are majority Bumiputera (about 59%), reflecting the indigenous churches of Borneo among the Kadazan-Dusun, Iban, Bidayuh and others, with Chinese (about 27%) and Indian (about 4%) minorities concentrated in the peninsula. More than two-thirds (about 70%) of Malaysian Christians live in Sabah and Sarawak.
+  - q: Is Good Friday a public holiday throughout Malaysia?
+    a: 'No. The two differ by reach: Christmas is a nationwide public holiday, while Good Friday is a public holiday only in Sabah and Sarawak. This mirrors the faith''s geography, since more than two-thirds of Malaysian Christians — and Sarawak, where Christianity is the largest single religion — are in East Malaysia rather than the peninsula.'
+  - q: What is the Christian Federation of Malaysia, and which bodies does it bring together?
+    a: 'The Christian Federation of Malaysia (CFM), formed in 1985, is the main umbrella body. It unites the three streams of Malaysian Christianity: the Catholic Bishops'' Conference, the Council of Churches of Malaysia (mainline Protestant) and the National Evangelical Christian Fellowship. CFM says it represents more than 95% of the country''s churches, many of them Bahasa Malaysia-speaking congregations in Sabah and Sarawak.'
 ---
 
 Malaysia's Christian story has two centres of gravity, and neither is in the

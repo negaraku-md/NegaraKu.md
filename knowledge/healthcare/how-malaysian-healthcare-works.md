@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "socso-perkeso" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "medical-insurance", "socso-perkeso"]
 keywords: ["Malaysia healthcare system", "public vs private healthcare Malaysia", "Ministry of Health Malaysia KKM", "klinik kesihatan vs private clinic", "PeKa B40", "MySalam", "SPIKPA foreign worker insurance", "foreigner hospital fees Malaysia", "Fees Act 1951"]
+faq:
+  - q: Does "public hospital" mean free healthcare in Malaysia?
+    a: No — it means heavily subsidised for citizens and permanent residents, who pay only a nominal registration and treatment charge rather than the real cost. Non-citizens are billed at the same facilities under a separate, higher fee schedule set under the Fees Act 1951's Fees (Medical) Order. A tourist or long-term-pass holder walking into a government hospital is still inside the public system, just on the non-subsidised side of it.
+  - q: Can any Malaysian citizen use PeKa B40 or MySalam?
+    a: No. Both are tied to B40 cash-aid (Sumbangan Tunai Rahmah, STR) recipient status, not general citizenship. They are automatic for eligible STR recipients — no separate application is needed — but reach only the B40 income bracket. PeKa B40 covers screening plus up to RM20,000 in medical-device aid; MySalam pays up to RM8,000 on diagnosis of a listed critical illness. A citizen who does not receive STR is not automatically covered.
+  - q: Do foreign workers in Malaysia need their own health insurance?
+    a: Yes. Documented foreign workers must hold SPIKPA (Skim Perlindungan Insurans Kesihatan Pekerja Asing), a mandatory hospitalisation and surgical insurance scheme, to renew their work permit — a requirement confirmed on the Immigration Department's own site. It is arranged and paid for by the employer and covers admission and surgery at government hospitals. Expatriates and tourists are not covered by it and generally rely on private insurance bought on the open market.
 ---
 
 A Malaysian retiree with chest pain calls an ambulance and is taken to the nearest government hospital, where a cardiologist sees him for a fee that covers a fraction of the actual cost. His neighbour, a work-permit holder from Indonesia with the same symptoms, is taken to the same hospital's emergency department — but the bill that follows is calculated on a completely different schedule, because the two of them are not, in the ministry's eyes, the same kind of patient.

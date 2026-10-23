@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que evalúe la exposición económica de Malasia — inversores, buscadores de empleo, responsables de políticas y estudiantes del comercio."
 
 lang: "es"
-sourceContentHash: "f587a0bc65cbc1af"
+sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["external-trade", "gdp-overview", "palm-oil-sector"]
 keywords: ["Malaysia semiconductor", "Malaysia E&E exports", "elektrik dan elektronik Malaysia", "Penang semiconductor", "Malaysia chip industry"]
+faq:
+  - q: ¿Fabrica Malasia chips avanzados como Taiwán, o algo distinto?
+    a: 'Algo distinto. La fabricación de un semiconductor tiene dos mitades, y la fortaleza de Malasia está en la parte final (back end): ensamblaje, prueba y encapsulado (ATP), la etapa en la que una oblea terminada se convierte en un chip utilizable. Tiene muy pocas plantas de fabricación de vanguardia (parte inicial/front-end). Los análisis que presentan a Malasia como rival de las fábricas (fabs) de Taiwán están comparando eslabones distintos de la misma cadena; Malasia realiza el trabajo de la parte final desde la década de 1970.'
+  - q: ¿Por qué que el sector eléctrico y electrónico (E&E) sea la mitad de las exportaciones se considera una vulnerabilidad y no solo una fortaleza?
+    a: 'Porque que una sola categoría de productos sostenga aproximadamente la mitad de la base exportadora concentra el riesgo de tres maneras. Ciclicidad: los semiconductores viven auges y caídas, de modo que un sector que creció un 39,5% en un año puede contraerse bruscamente. Posición en la cadena: el ensamblaje y la prueba de la parte final son más disputables que la fabricación, así que los competidores pueden crear la misma capacidad. Geopolítica: los controles de exportación y las políticas de relocalización (reshoring) redactados en otras economías recaen directamente sobre las plantas malasias.'
+  - q: ¿Por qué es Penang, en concreto, el centro de la industria de chips de Malasia?
+    a: Se remonta a una decisión de política de 1972. Penang estableció una zona de libre comercio y atrajo a empresas electrónicas extranjeras con incentivos fiscales, importación de componentes libre de aranceles y una mano de obra disponible. Empresas de semiconductores estadounidenses y japonesas montaron operaciones de ensamblaje, y se formó un clúster. Los clústeres se afianzan con el tiempo —proveedores, mantenimiento de equipos, ingenieros formados localmente—, y por eso medio siglo después Penang y Kulim siguen concentrando buena parte del sector.
 ---
 
 ## De un vistazo

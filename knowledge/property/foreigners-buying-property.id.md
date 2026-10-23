@@ -27,7 +27,7 @@ verificationNeeded:
   - "Kutipan dan tahun tepat amendemen National Land Code yang menutup pengecualian tanah industri terdahulu dari persetujuan Pihak Berwenang Negeri tidak dapat dipastikan dibandingkan teks Act amendemen itu sendiri; ia digambarkan di sini berdasarkan komentar hukum sekunder yang paralel, bukan dari ketentuan primer yang dibaca langsung."
 
 lang: "id"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: Apakah ada satu harga minimum tunggal sebesar RM1 juta bagi orang asing yang membeli properti di seluruh Malaysia?
+    a: Tidak. Angka RM1 juta khusus berlaku untuk Wilayah Persekutuan — Kuala Lumpur, Putrajaya, dan Labuan — berdasarkan Pedoman Perolehan Properti dari Unit Perencanaan Ekonomi (Economic Planning Unit), yang direvisi sesuai dengan Anggaran 2014. Karena tanah berada di bawah kewenangan negara bagian, setiap negara bagian lain menetapkan dan secara berkala merevisi batas minimumnya sendiri, yang bisa lebih tinggi, lebih rendah, atau dibagi berdasarkan zona, berdasarkan distrik, atau berdasarkan properti bertanah (landed) versus properti strata.
+  - q: Jika orang asing memenuhi harga minimum negara bagian, apakah pembelian itu dijamin akan terlaksana?
+    a: Tidak — melewati batas harga minimum hanya membawa pembeli ke tahap mengajukan permohonan. Gerbang kedua yang terpisah adalah persetujuan tertulis dari Otoritas Negara Bagian berdasarkan pasal 433B Kitab Undang-Undang Tanah Nasional (National Land Code), yang diwajibkan untuk setiap perolehan oleh orang asing tanpa memandang harga. Persetujuan ini bersifat diskresioner, tidak otomatis, dan dapat ditolak. Berdasarkan pasal 433C, setiap transaksi yang diselesaikan tanpa persetujuan tertulis tersebut batal demi hukum.
+  - q: Dapatkah orang asing membeli properti apa pun di Malaysia jika penawarannya cukup tinggi?
+    a: 'Tidak. Sebagian properti dikecualikan sepenuhnya tanpa memandang harga: Tanah Rizab Melayu (Malay Reserved Land) (di mana pengalihan kepada non-Melayu batal berdasarkan Enakmen Rizab Melayu (Malay Reservation Enactments)), tanah yang dikategorikan untuk pertanian, dan unit kuota Bumiputera atau perumahan berbiaya rendah dan terjangkau. Ini sepenuhnya berada di luar kerangka harga-dan-persetujuan, sehingga membayar di atas harga minimum suatu negara bagian tidak mengubah apa pun. Sabah dan Sarawak juga menjalankan undang-undang tanah mereka sendiri yang terpisah di luar Kitab Undang-Undang Tanah Nasional.'
 ---
 
 Seorang pembeli dari Hong Kong setuju membayar RM1.8 juta untuk sebuah rumah kembar di Petaling Jaya. Pembiayaan telah diatur, penjual setuju, dan harga itu melewati setiap ambang yang disebut di internet. Namun transaksi itu tetap tidak dapat selesai sampai sebuah kantor pemerintah negeri di Shah Alam membuat keputusan — atas diskresinya sendiri — apakah mau mengizinkan seorang warga asing memegang hak milik itu secara langsung.

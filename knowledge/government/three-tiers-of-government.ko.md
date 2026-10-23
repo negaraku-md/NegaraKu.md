@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 특정 문제에 대해 어느 층위의 정부에 접근해야 하는지를 판단하려는 모든 사람, 또는 왜 국회의원과 주의회 의원은 뽑을 수 있으나 지방의회 의원은 뽑을 수 없는지를 이해하고자 하는 사람."
 
 lang: "ko"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -74,6 +74,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: 왜 말레이시아 국민은 지방의회 의원을 투표로 뽑을 수 없나요?
+    a: 지방자치단체 선거는 인도네시아와의 대립(Confrontation) 당시 발효되어 임시 조치로 규정된 1965년 비상사태(지방자치단체 선거 정지)(개정) 규정에 의해 전국적으로 정지되었으며, 그 후 한 번도 복원되지 않았습니다. 이후 1976년 지방자치단체법(Local Government Act 1976) 제15조가 이 정지를 영구화했고, 제10조는 대신 의원을 임명할 권한을 주정부에 부여했습니다. 그래서 그 이후로 의원들은 선출되지 않고 임명되어 왔습니다.
+  - q: 쿠알라룸푸르에는 자체 주정부가 있나요?
+    a: 없습니다. 쿠알라룸푸르, 푸트라자야, 라부안은 연방직할지로서, 주에 의해 통치되는 것이 아니라 연방 목록(제27항)에 따라 연방의 직접 통치 아래 놓여 있습니다. 이들에는 통치자(Ruler), 멘테리 브사르(Menteri Besar), 주의회가 없으며, 쿠알라룸푸르와 푸트라자야는 연방직할지부를 통해 관리됩니다. 자체 주헌법과 정부를 가진 곳은 13개 주뿐입니다.
+  - q: 지방자치가 주 목록 사항이라면 왜 의회가 이를 입법하나요?
+    a: 지방자치는 제9부칙(Ninth Schedule)의 주 목록 제4항으로, 주에 입법상의 명목을 부여합니다. 그러나 의회는 헌법의 통일화 메커니즘에 따라 각 주가 채택한 연방 법령인 1976년 지방자치단체법(171호 법)을 통해 말레이반도에 대해 그 권한을 일률적으로 행사합니다. 제95A조는 또한 그 결정이 주를 구속할 수 있는 지방자치 국가평의회(National Council for Local Government)를 설립합니다. 사바와 사라왁은 대신 자체적인 별도의 조례(ordinance)를 사용합니다.
 ---
 
 말레이시아인은 국회의원을 뽑습니다. 주의원을 뽑습니다. 그러나 자신의 평가세를 정하고, 노점 면허를 내주며, 집 증축을 승인하는 시장이나 의원을 뽑은 적은 결코 없습니다 — 그 선거가 1965년 이래 말레이시아 어디에서도 치러지지 않았기 때문입니다.

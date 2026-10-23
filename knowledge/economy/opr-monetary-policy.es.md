@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Prestatarios con préstamos a tasa variable, ahorradores, y cualquiera que intente entender las noticias sobre tasas de interés en Malasia."
 
 lang: "es"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malasia", "Tasa de Política a un Día", "kadar dasar semalaman", "tasa de interés de Bank Negara", "BNM MPC"]
+faq:
+  - q: ¿Es la OPR el tipo de interés que realmente pago por mi hipoteca?
+    a: No. La OPR es el tipo que Bank Negara fija como objetivo para los préstamos a un día entre bancos; no se te cobra directamente. Un préstamo hipotecario malasio suele expresarse como el tipo base (BR) más un diferencial, y la OPR es el mayor determinante del coste de los fondos detrás de ese BR. Cuando el BR se mueve, la cuota se mueve, normalmente en un plazo de uno a dos meses.
+  - q: Cuando cambia la OPR, ¿se mueven en el mismo sentido los tipos de los préstamos y los de los depósitos?
+    a: 'Ambos se mueven en el mismo sentido, pero no de forma simétrica. El artículo señala una asimetría que conviene conocer: los tipos de los préstamos tienden a subir con rapidez y a bajar con lentitud, mientras que los de los depósitos tienden a lo contrario, reajustándose más despacio y de forma menos completa que los préstamos. Lo describe como una realidad comercial de los márgenes bancarios, más que como una regla.'
+  - q: ¿Significa una decisión de 'sin cambios' en la OPR que el Comité de Política Monetaria no hizo nada?
+    a: 'No: mantener el tipo sigue siendo una decisión. El Comité de Política Monetaria se reúne seis veces al año según un calendario publicado, y una larga sucesión de decisiones sin cambios refleja la valoración de que la inflación está lo bastante contenida como para no exigir un endurecimiento y el crecimiento es lo bastante sólido como para no requerir apoyo. El comunicado que la acompaña suele señalar el sesgo del comité.'
 ---
 
 ## De un vistazo

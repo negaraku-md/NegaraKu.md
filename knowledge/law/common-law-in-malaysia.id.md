@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba memahami alasan pengadilan Malaysia mengutip kasus-kasus Inggris, mahasiswa hukum yang mengkaji sistem perundang-undangan Malaysia, dan siapa saja yang meneliti alasan bidang tertentu (tanah, keluarga, hukum Islam) berada di luar warisan common law."
 
 lang: "id"
-sourceContentHash: "0e25f8448644480c"
+sourceContentHash: "88c95c68bb68e3d0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malaysia", "Civil Law Act 1956", "Act 67", "reception of English law", "Section 3 Civil Law Act", "cut-off date common law Malaysia", "Article 160 Federal Constitution", "Torrens system Malaysia"]
+faq:
+  - q: Apakah ada satu tanggal batas tunggal untuk common law Inggris di seluruh Malaysia?
+    a: 'Tidak. Pasal 3 (Section 3) Undang-Undang Hukum Perdata 1956 (Civil Law Act 1956) menetapkan tiga tanggal pembekuan yang berbeda: 7 April 1956 untuk Semenanjung Malaysia, 1 Desember 1951 untuk Sabah, dan 12 Desember 1949 untuk Sarawak. Tanggal Sabah dan Sarawak mendahului Undang-Undang 1956 karena Act 67 mempertahankan tanggal batas yang sudah ditetapkan oleh ordonansi lokal mereka yang lebih awal, alih-alih mengatur ulang semuanya ke tahun 1956.'
+  - q: Apakah putusan pengadilan Inggris modern mengikat pengadilan Malaysia?
+    a: Tidak. Berdasarkan Pasal 3 Undang-Undang Hukum Perdata 1956, sebuah kasus Inggris yang diputus sebelum tanggal batas yang relevan pada prinsipnya merupakan common law yang mengikat, tetapi kasus yang diputus setelahnya hanya bersifat persuasif — pengadilan Malaysia dapat melihatnya, membahasnya, dan menolak mengikutinya. Pasal 3 juga menerapkan common law dan ekuitas hanya "sejauh keadaan... mengizinkan," sehingga pengadilan dapat menolak aturan Inggris yang tidak sesuai dengan kondisi setempat.
+  - q: Apakah hukum Inggris mengatur kepemilikan tanah di Malaysia?
+    a: Tidak. Pasal 6 (Section 6) Undang-Undang Hukum Perdata 1956 menyatakan bahwa tidak ada ketentuan dalam Undang-Undang ini yang memasukkan hukum Inggris yang berkaitan dengan penguasaan, pengalihan, jaminan, atau pewarisan harta tak bergerak. Hukum pertanahan Inggris sengaja dikecualikan sejak hari pertama. Sebaliknya, tanah di Malaysia berjalan di atas sistem Torrens yang berasal dari Australia, yang dikodifikasikan untuk Semenanjung Malaysia dalam Kitab Undang-Undang Tanah Nasional 1965 (National Land Code 1965, Act 56), di mana pendaftaran itu sendiri menciptakan dan membuktikan hak milik.
 ---
 
 Seorang hakim Malaysia yang memutus sengketa kontrak hari ini masih dapat

@@ -26,7 +26,7 @@ appliesTo: "マレーシアの裁判所がなぜ英国判例を引用するの�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e25f8448644480c"
+sourceContentHash: "88c95c68bb68e3d0"
 
 status: "published"
 aiAssisted: true
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malaysia", "Civil Law Act 1956", "Act 67", "reception of English law", "Section 3 Civil Law Act", "cut-off date common law Malaysia", "Article 160 Federal Constitution", "Torrens system Malaysia"]
+faq:
+  - q: マレーシア全土でイングランドのコモンローに単一の基準日はありますか？
+    a: いいえ。1956年民事法（Civil Law Act 1956）の第3条（Section 3）は、3つの異なる凍結日を定めています。マレー半島は1956年4月7日、サバは1951年12月1日、サラワクは1949年12月12日です。サバとサラワクの日付が1956年法より前なのは、全員を1956年に設定し直すのではなく、各地の以前の地方条例がすでに定めていた基準日を Act 67 が維持したためです。
+  - q: 現代のイングランドの裁判所判決はマレーシアの裁判所を拘束しますか？
+    a: いいえ。1956年民事法第3条のもとでは、該当する基準日より前に判決が下されたイングランドの判例は原則として拘束力のあるコモンローですが、それより後に判決が下されたものは説得的であるにすぎません——マレーシアの裁判所はそれを参照し、議論し、従わないことを選べます。第3条はまた、コモンローと衡平法を「状況が……許す限りにおいて」のみ適用するため、裁判所は現地の状況に合わないイングランドの規則を拒否できます。
+  - q: イングランド法はマレーシアの土地所有を規律しますか？
+    a: いいえ。1956年民事法第6条（Section 6）は、本法のいかなる規定も、不動産の保有、譲渡、担保または承継に関するイングランド法を導入するものではないと定めています。イングランドの土地法は最初から意図的に除外されていました。マレーシアの土地は代わりに、オーストラリア由来のトーレンス（Torrens）制度で運用され、マレー半島については1965年国家土地法典（National Land Code 1965、Act 56）に成文化されており、そこでは登記そのものが権原を創設し証明します。
 ---
 
 今日、契約紛争を審理するマレーシアの裁判官は、マラヤ連邦（Federation of Malaya）が

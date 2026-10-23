@@ -26,7 +26,7 @@ verificationNeeded:
   - "La prime exacte et le plafond annuel de couverture du SPIKPA n'ont pas été confirmés auprès d'une source primaire officielle (seules des sources secondaires universitaires et de courtiers en assurance ont été trouvées) ; cet article décrit la fonction du dispositif — assurance obligatoire liée au renouvellement du permis de travail, confirmée sur le site même du Département de l'immigration — sans indiquer une prime ou un montant de couverture non vérifiés."
 
 lang: "fr"
-sourceContentHash: "6d48887f5e7bc5dd"
+sourceContentHash: "7dd45f5bebbd1f93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "socso-perkeso" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "medical-insurance", "socso-perkeso"]
 keywords: ["Malaysia healthcare system", "public vs private healthcare Malaysia", "Ministry of Health Malaysia KKM", "klinik kesihatan vs private clinic", "PeKa B40", "MySalam", "SPIKPA foreign worker insurance", "foreigner hospital fees Malaysia", "Fees Act 1951"]
+faq:
+  - q: « Hôpital public » signifie-t-il des soins de santé gratuits en Malaisie ?
+    a: Non — cela signifie des soins fortement subventionnés pour les citoyens et les résidents permanents, qui ne paient qu'un droit d'inscription et de traitement symbolique plutôt que le coût réel. Les non-citoyens sont facturés dans les mêmes établissements selon un barème de tarifs distinct et plus élevé, fixé en vertu de l'Ordonnance sur les tarifs (médicaux) de la Loi sur les tarifs de 1951 (Fees Act 1951). Un touriste ou un titulaire de permis de long séjour qui entre dans un hôpital gouvernemental reste à l'intérieur du système public, simplement du côté non subventionné de celui-ci.
+  - q: Tout citoyen malaisien peut-il utiliser PeKa B40 ou MySalam ?
+    a: Non. Les deux sont liés au statut de bénéficiaire de l'aide en espèces pour le groupe B40 (Sumbangan Tunai Rahmah, STR), et non à la citoyenneté en général. Ils sont automatiques pour les bénéficiaires éligibles de la STR — aucune demande distincte n'est nécessaire — mais n'atteignent que la tranche de revenus B40. PeKa B40 couvre le dépistage ainsi qu'une aide pour les dispositifs médicaux pouvant atteindre RM20 000 ; MySalam verse jusqu'à RM8 000 au diagnostic d'une maladie grave figurant sur la liste. Un citoyen qui ne reçoit pas la STR n'est pas couvert automatiquement.
+  - q: Les travailleurs étrangers en Malaisie ont-ils besoin de leur propre assurance maladie ?
+    a: Oui. Les travailleurs étrangers en situation régulière doivent détenir le SPIKPA (Skim Perlindungan Insurans Kesihatan Pekerja Asing, Régime de protection d'assurance maladie des travailleurs étrangers), un régime d'assurance hospitalisation et chirurgie obligatoire, pour renouveler leur permis de travail — une exigence confirmée sur le site même du Département de l'immigration (Jabatan Imigresen). Il est organisé et payé par l'employeur et couvre l'admission et la chirurgie dans les hôpitaux gouvernementaux. Les expatriés et les touristes n'en bénéficient pas et dépendent généralement d'une assurance privée achetée sur le marché libre.
 ---
 
 Un retraité malaisien souffrant de douleurs thoraciques appelle une ambulance et est conduit à l'hôpital gouvernemental le plus proche, où un cardiologue le prend en charge pour un tarif qui ne couvre qu'une fraction du coût réel. Son voisin, titulaire d'un permis de travail venu d'Indonésie et présentant les mêmes symptômes, est amené au service des urgences du même hôpital — mais la facture qui suit est calculée selon un barème entièrement différent, car tous deux ne sont pas, aux yeux du ministère, le même type de patient.

@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "말레이 술탄국들이 생겨나기 이전 말레이 땅의 초기 문명의 기원을 이해하고자 하거나, 크다(Kedah)의 고고학 유적과 박물관 방문을 계획하는 모든 이."
 
 lang: "ko"
-sourceContentHash: "e95214b94dacf363"
+sourceContentHash: "37c769aa2420a10a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["langkasuka", "melaka-sultanate"]
 keywords: ["Lembah Bujang", "Bujang Valley", "Kedah Tua", "candi", "Sungai Batu", "Candi Bukit Batu Pahat", "Muzium Arkeologi Lembah Bujang", "arkeologi Kedah"]
+faq:
+  - q: '"부장 계곡(Lembah Bujang)"은 고대 왕국의 이름인가요?'
+    a: 아닙니다. 부장 계곡은 케다주 메르복(Merbok) 일대에 걸친 약 224제곱킬로미터의 현대 고고학 지역의 이름이지, 어떤 왕국의 이름이 아닙니다. 이와 연관된 케다 투아(Kedah Tua, 옛 케다)와 같은 왕국 이름은 그 실제 범위와 경계를 두고 학자들 사이에서 여전히 논쟁이 되는 별개의 역사적 명칭입니다. 이 계곡은 50곳이 넘는 찬디(candi, 사원)와 숭아이 바투(Sungai Batu)의 제철 유적지를 품고 있는 지역을 가리킵니다.
+  - q: 숭아이 바투(Sungai Batu) 유적지가 그토록 중요한 이유는 무엇인가요?
+    a: 국가유산부(Jabatan Warisan Negara)에 따르면, 숭아이 바투 유적지는 서기 1세기경에 시작되어 8세기까지 지속적으로 가동된 대규모 제철을 보여 주며, 그 생산 규모는 단순한 지역 내 사용이 아니라 수출을 가리킵니다. 이곳은 동남아시아에서 지금까지 기록된 가장 이른 시기의 제철 산업 증거 중 하나를 품고 있으며, 연대상 앙코르 와트(Angkor Wat)와 보로부두르(Borobudur) 같은 유적보다 앞섭니다.
+  - q: 부장 계곡의 찬디(candi, 사원)는 고대 이래로 아직 원래 상태 그대로인가요?
+    a: 아닙니다. 오늘날 방문할 수 있는 찬디 대부분은 온전히 보존된 구조물이 아니라, 원래의 폐허를 바탕으로 고고학자들이 다시 지은(복원한) 것입니다. 찬디 부킷 바투 파핫(Candi Bukit Batu Pahat)은 원래 자리에서 복원된 유일한 유적이며, 찬디 펑칼란 부장(Candi Pengkalan Bujang)은 현재 박물관 근처에 다시 지어졌습니다. 말레이시아 국가기록원(Arkib Negara Malaysia)에 따르면, 이 찬디들은 서기 4세기에서 12세기 사이에 지어진 것으로 추정됩니다.
 ---
 
 구눙 제라이(Gunung Jerai) 인근의 평탄한 벌판, 논과 야자수 농장 사이에는, 말라카(Melaka)가 항구로 존재하기 수 세기 전에 쌓아 올려진 고대의 벽돌이 있습니다. 그 일부는 힌두 사원의 기초를 이룹니다. 또 다른 일부는 철 제련로입니다. 오늘날 이름이 알려진, 이곳에서 통치했던 술탄은 없습니다 — 그러나 그 사원과 제련로를 세운 사회가 남긴 것은 부장 계곡(Bujang Valley)을 동남아시아에서 가장 중요한 고고학 유적 중 하나로 만듭니다.

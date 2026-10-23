@@ -21,7 +21,7 @@ appliesTo: "希望了解马来半岛上早期文明起源——早于马来苏�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e95214b94dacf363"
+sourceContentHash: "37c769aa2420a10a"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["langkasuka", "melaka-sultanate"]
 keywords: ["Lembah Bujang", "Bujang Valley", "Kedah Tua", "candi", "Sungai Batu", "Candi Bukit Batu Pahat", "Muzium Arkeologi Lembah Bujang", "arkeologi Kedah"]
+faq:
+  - q: “武吉巴也谷”（Lembah Bujang）是某个古代王国的名称吗？
+    a: 不是。武吉巴也谷（Lembah Bujang）是吉打州默宝（Merbok）一带一个约224平方公里的现代考古区域的名称，而不是某个王国的名称。与之相关的王国名称，如古吉打（Kedah Tua），是不同的历史标签，其实际范围与边界在学者之间至今仍有争议。该谷地指的是拥有超过50座candi（庙宇）以及双溪峇都（Sungai Batu）炼铁遗址的区域。
+  - q: 是什么让双溪峇都（Sungai Batu）遗址如此重要？
+    a: 根据国家遗产局（Jabatan Warisan Negara），双溪峇都遗址展示了大规模的炼铁活动，始于约公元一世纪，并持续运作至公元八世纪，其产量规模表明用于出口，而非仅供本地使用。它保存了东南亚有记录以来最早的炼铁工业证据之一，其年代早于吴哥窟（Angkor Wat）和婆罗浮屠（Borobudur）等遗址。
+  - q: 武吉巴也谷的candi（庙宇）自古以来是否仍保持原状？
+    a: 没有。如今可以参观的大多数candi都是由考古学家根据原始遗迹重建（复原）的，而不是保持完好的原有结构。武吉峇都巴辖庙（Candi Bukit Batu Pahat）是唯一在其原址上重建的遗迹，而彭加兰武吉庙（Candi Pengkalan Bujang）现已在博物馆附近重建。根据马来西亚国家档案馆（Arkib Negara Malaysia），这些candi估计建于公元四世纪至十二世纪之间。
 ---
 
 在Gunung Jerai附近的一片平原上，稻田与油棕园之间，散布着比马六甲成为港口还早数百年砌成的古砖。有些砖块构成了印度教庙宇的基座，有些则是冶铁用的炼炉。曾在此统治的苏丹，如今已无人能叫出名字——但建造这些庙宇与炼炉的社群所留下的痕迹，使布秧谷成为东南亚最重要的考古遗址之一。

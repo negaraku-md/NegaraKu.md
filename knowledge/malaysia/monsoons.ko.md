@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 날씨와 홍수 위험이 계절에 따라 왜 달라지는지 이해하려는 모든 이 — 해안 지역 주민, 여행자, 재난 계획가, 지리 전공 학생, 그리고 MetMalaysia의 기상 경보를 확인하는 누구든."
 
 lang: "ko"
-sourceContentHash: "d977d1d40dd0956b"
+sourceContentHash: "4ffd8f41ebc3ba1f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,13 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
+faq:
+  - q: 반도의 동해안이 홍수를 겪는 동안, 왜 같은 시기에 서해안은 건조하게 유지됩니까?
+    a: 답은 지리에 있습니다. 동해안은 남중국해를 직접 마주하고 있어, 북동 몬순의 습한 바람이 클란탄, 트렝가누, 파항, 조호르에 도달하기 전에 이를 막는 것이 아무것도 없습니다. 반면 서해안은 반도를 북에서 남으로 가르는 티티왕사 산맥(Banjaran Titiwangsa)의 보호를 받습니다. 이 산맥은 습한 공기를 상승시켜, 서쪽에 도달하기 전에 대부분의 비를 동쪽 사면에 내리게 합니다.
+  - q: 말레이시아의 모든 홍수가 몬순 홍수입니까?
+    a: 아닙니다. 서해안의 홍수가 항상 북동 몬순 때문에 발생하는 것은 아닙니다. 말레이시아 기상청(MetMalaysia) 청장에 따르면, 2025년 11월 페락, 슬랑오르, 프를리스에 영향을 준 사례처럼 별개의 저기압 시스템에서 비롯되는 경우가 많습니다. 또한 불충분한 도시 배수 시스템으로 인한 돌발 홍수는 별개의 현상으로, 몬순과 관계없이 언제든지 발생할 수 있습니다.
+  - q: 북동 몬순은 11월부터 3월까지 내내 똑같이 심각합니까?
+    a: 아닙니다. 2024/2025 시즌에 대한 국가안전보장회의(MKN)의 공식 자료는 최고 위험 지역이 단계에 따라 바뀐다는 것을 보여줍니다. 초기 단계(11월~12월)에는 클란탄, 트렝가누, 파항, 조호르, 사라왁, 사바가 영향을 받았습니다. 후기 단계(1월~2월)에는 초점이 파항, 조호르, 사라왁, 사바로 옮겨갔고 — 클란탄과 트렝가누는 더 이상 최고 위험 지역으로 분류되지 않았습니다. 시즌 전체로는 5~7회의 폭우가 기록될 것으로 예상됩니다.
 ---
 
 해마다 11월이면, 뉴스를 확인하기도 전에 코타바루(Kota Bharu), 쿠알라트렝가누(Kuala Terengganu), 콴탄(Kuantan)의 많은 주민이 집 근처 강의 수위를 살피기 시작합니다. 이는 예기치 못한 재난에서 생겨난 습관이 아닙니다. 해마다 되풀이되는 예측 가능한 일정이며, 그 원인은 서해안이 언제 마르는지를 함께 결정하는 바로 그 같은 계절풍 체계입니다.

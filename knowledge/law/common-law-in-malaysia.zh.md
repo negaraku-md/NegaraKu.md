@@ -25,7 +25,7 @@ appliesTo: "任何想理解马来西亚法院为何援引英国判例的人、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e25f8448644480c"
+sourceContentHash: "88c95c68bb68e3d0"
 
 status: "published"
 aiAssisted: true
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malaysia", "Civil Law Act 1956", "Act 67", "reception of English law", "Section 3 Civil Law Act", "cut-off date common law Malaysia", "Article 160 Federal Constitution", "Torrens system Malaysia"]
+faq:
+  - q: 英国普通法在马来西亚全境是否有一个统一的截止日期？
+    a: 没有。1956年民事法令（Civil Law Act 1956）第3条设定了三个不同的冻结日期：马来西亚半岛为1956年4月7日，沙巴为1951年12月1日，砂拉越为1949年12月12日。沙巴和砂拉越的日期早于1956年法令，因为第67号法令（Act 67）保留了它们较早的地方条例已经设定的截止日期，而不是把所有地区重新统一到1956年。
+  - q: 现代英国法院的判决对马来西亚法院具有约束力吗？
+    a: 没有。根据1956年民事法令第3条，在相关截止日期之前作出判决的英国案例原则上是具有约束力的普通法，但在该日期之后作出的则仅具说服力——马来西亚法院可以参考它、讨论它，并拒绝遵循它。第3条还规定，普通法与衡平法仅在“情况……所允许的范围内”适用，因此法院可以拒绝不符合本地情况的英国规则。
+  - q: 英国法律是否管辖马来西亚的土地所有权？
+    a: 不是。1956年民事法令第6条规定，本法令中的任何内容均不引入有关不动产的保有、转让、担保或继承的英国法律。英国土地法从一开始就被刻意排除在外。马来西亚的土地转而采用源自澳大利亚的托伦斯制度（Torrens system），并在1965年国家土地法典（Act 56，National Land Code 1965）中为马来西亚半岛加以编纂，在该制度下，登记本身即创设并证明产权。
 ---
 
 一位今天正在审理合约纠纷的马来西亚法官，仍然可以援引一宗在马来亚联合邦

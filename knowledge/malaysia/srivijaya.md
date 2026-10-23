@@ -53,6 +53,13 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["melaka-sultanate", "langkasuka"]
 keywords: ["Srivijaya", "Bujang Valley", "Lembah Bujang", "Kedah Tua", "thalassocracy", "Old Malay", "Parameswara Palembang", "Strait of Melaka history"]
+faq:
+  - q: Was Srivijaya a Malaysian kingdom?
+    a: No — treating it as one is a common mistake. Srivijaya's capital and core territory were in Sumatra, in what is now Indonesia, based at Palembang on the Musi River. Its influence reached into what is now Malaysia — most concretely at Kedah's Bujang Valley — but it was never headquartered on the Malay Peninsula. It was a thalassocracy, controlling sea lanes and river-mouth ports rather than large stretches of land.
+  - q: How is Srivijaya connected to the founding of the Melaka Sultanate?
+    a: 'Parameswara, who founded the Melaka Sultanate around 1400, is recorded in Malay tradition and by Melaka''s own state government as a royal prince from Palembang — Srivijaya''s former capital. By then Srivijaya''s political power was already gone, but Melaka inherited the same thalassocratic model: sit on the strait, guarantee safe passage, and let merchants come to you, run from a new address.'
+  - q: What is the oldest known inscription in Old Malay, and how does it relate to Srivijaya?
+    a: It is the Kedukan Bukit inscription, dated to 682 CE, which records a Srivijayan military and ritual expedition. Beyond Sumatran history it matters as the oldest known inscription written in Old Malay — the direct ancestor of both modern Malay and modern Indonesian. As Srivijaya's trading network expanded, Old Malay spread across the archipelago as a working lingua franca centuries before any sultanate existed.
 ---
 
 When Parameswara fled Temasek in 1396 and stumbled onto the riverbank that became Melaka, he wasn't a nobody arriving out of nowhere. Melaka's own state government still records him, plainly, as "a royal prince from Palembang." Palembang, on the Musi River in southern Sumatra, had been the capital of a sea power that ruled the Strait of Melaka for roughly six hundred years before Parameswara was born — a kingdom called Srivijaya. By the time Parameswara reached the peninsula, that kingdom's political power was already gone. But the Melaka Sultanate he founded carried its bloodline, and arguably its whole model of what a Malay trading port should be, straight out of Srivijaya's ruins.

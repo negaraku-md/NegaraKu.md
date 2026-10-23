@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que intente averiguar a qué nivel de gobierno acudir ante un problema determinado en Malasia, o que quiera entender por qué puede votar por un diputado del Parlamento y por un asambleísta estatal, pero no por un concejal local."
 
 lang: "es"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: ¿Por qué los malasios no pueden votar a sus concejales locales?
+    a: Las elecciones de gobierno local se suspendieron en todo el país mediante el Reglamento de Emergencia (Suspensión de las Elecciones del Gobierno Local) (Enmienda) de 1965, promulgado durante la Confrontación con Indonesia y presentado como temporal. Nunca se restablecieron. Más tarde, el Artículo 15 de la Ley de Gobierno Local de 1976 hizo permanente la suspensión, mientras que el Artículo 10 otorga al gobierno estatal la facultad de nombrar a los concejales en su lugar. Así que, desde entonces, los concejales han sido nombrados, no elegidos.
+  - q: ¿Tiene Kuala Lumpur su propio gobierno estatal?
+    a: No. Kuala Lumpur, Putrajaya y Labuan son Territorios Federales, puestos bajo la administración federal directa por la Lista Federal (punto 27) en lugar de ser gobernados por un estado. No tienen Soberano (Ruler), Menteri Besar ni Asamblea Legislativa Estatal; Kuala Lumpur y Putrajaya se administran a través del Ministerio de Territorios Federales. Solo los 13 estados tienen sus propias Constituciones estatales y gobiernos.
+  - q: Si el gobierno local es una materia de la Lista Estatal, ¿por qué legisla sobre ello el Parlamento?
+    a: El gobierno local es el punto 4 de la Lista Estatal del Noveno Anexo (Ninth Schedule), lo que otorga a los estados la condición legislativa. Pero el Parlamento ejerce esa facultad de manera uniforme para la Malasia Peninsular a través de la Ley de Gobierno Local de 1976 (Ley 171), una ley federal que los estados adoptaron en virtud del mecanismo de uniformidad de la Constitución. El Artículo 95A también crea un Consejo Nacional para el Gobierno Local (National Council for Local Government) cuyas decisiones pueden vincular a los estados. Sabah y Sarawak, en cambio, utilizan sus propias ordenanzas (ordinance) separadas.
 ---
 
 Los malasios votan por un diputado del Parlamento. Votan por un asambleísta estatal. Nunca han votado por el alcalde o los concejales que fijan su impuesto de valoración, autorizan su puesto ambulante o aprueban la ampliación de su casa — porque esa elección no se celebra en ningún lugar de Malasia desde 1965.

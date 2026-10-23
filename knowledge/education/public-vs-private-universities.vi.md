@@ -23,7 +23,7 @@ verificationNeeded:
   - "Bài viết này không nêu số lượng tuyển sinh của chương trình, tỷ lệ chỉ tiêu, hay con số học phí cụ thể cho bất kỳ cơ sở nào — những điều này thay đổi theo chương trình và cơ sở và thay đổi mỗi đợt tuyển; hãy xác nhận trực tiếp với e-Panduan của UPU (đối với các trường đại học công lập) hoặc từng cơ sở (đối với các trường đại học tư thục) trước khi nộp đơn."
   - "Con số chính xác hiện tại của các cơ sở IPTS đã đăng ký không được nêu ở đây vì các bảng thống kê công bố của MOHE (Statistik Pendidikan Tinggi) chưa được mở đầy đủ cho bài viết này — để có một con số chính xác, hiện hành, hãy tham khảo trực tiếp ấn phẩm Statistik Pendidikan Tinggi của MOHE."
 lang: "vi"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: Nhãn IPTA hay IPTS có cho tôi biết liệu một bằng cấp có được công nhận hay không?
+    a: Không. Việc công nhận được quyết định theo từng chương trình thông qua kiểm định của Cơ quan Văn bằng Malaysia (MQA), được thành lập theo Đạo luật Cơ quan Văn bằng Malaysia 2007 (Act 679), chứ không phải dựa trên việc cơ sở là công lập hay tư thục. Ngay cả một trường đại học nổi tiếng cũng có thể có một chương trình mới, tạm thời hoặc chưa được kiểm định. Hãy kiểm tra chương trình cụ thể và năm tuyển sinh trên Sổ đăng ký Văn bằng Malaysia (MQR) trước khi nhập học ở bất kỳ loại cơ sở nào.
+  - q: Tôi có thể nộp đơn vào trường đại học tư thục qua UPU không?
+    a: Không. UPU (Unit Pusat Universiti), hệ thống trực tuyến tập trung của Bộ Giáo dục Đại học, chỉ bao gồm các trường đại học công lập, các cơ sở MARA, các trường bách khoa (polytechnic) và các trường cao đẳng cộng đồng. Các cơ sở tư thục (IPTS) hoàn toàn nằm ngoài UPU và phải nộp đơn trực tiếp; mỗi trường tự vận hành phòng tuyển sinh riêng, tự đặt yêu cầu đầu vào cho từng chương trình và có thể ra thư mời nhập học trong vài ngày, thường chấp nhận UEC, A-Level, IB và các văn bằng khác bên cạnh SPM và STPM.
+  - q: Một chương trình chỉ được "kiểm định tạm thời" — điều đó có nghĩa là nó chưa được kiểm định không?
+    a: Không. Theo Bộ Quy tắc Thực hành Kiểm định Chương trình của MQA, Kiểm định Tạm thời (Provisional Accreditation) xác nhận rằng một chương trình đã đáp ứng các yêu cầu chất lượng tối thiểu để được phép giảng dạy hợp pháp, và bản thân nó là một điều kiện để Bộ phê duyệt. Kiểm định Đầy đủ (Full Accreditation) là đánh giá toàn diện hơn, được thực hiện sau khi khóa sinh viên đầu tiên đã hoàn thành chương trình. Một chương trình được kiểm định tạm thời là hợp pháp và có thể giảng dạy hợp pháp; nó chỉ đơn giản là chưa hoàn thành đánh giá trọn chu kỳ.
 ---
 
 Hai học sinh có cùng kết quả SPM lại kết thúc trong hai hệ thống hoàn toàn khác nhau.

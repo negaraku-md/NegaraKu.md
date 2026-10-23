@@ -18,7 +18,7 @@ keyTakeaways:
   - "Monsun Timur Laut (Nov–Mar) membasahi pantai timur Semenanjung, barat Sarawak, dan utara Sabah; Monsun Barat Daya (Mei–Sep) secara relatif lebih kering — sebuah irama yang masih membentuk musim banjir dan kalender pertanian (Jabatan Meteorologi Malaysia)"
 appliesTo: "Siapa saja yang mencoba memahami mengapa populasi, kota, dan risiko banjir Malaysia terpusat di tempat-tempat tertentu — pelajar, pendatang baru, perencana, atau siapa saja yang bingung mengapa 'musim monsun' berarti berbeda di pantai yang berlainan."
 lang: "id"
-sourceContentHash: "1aadf1352cd31f55"
+sourceContentHash: "53f49043897c123b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["what-malaysia-is", "urbanisation", "sabah"]
 keywords: ["Malaysia geography", "Titiwangsa Range", "Peninsular Malaysia geography", "East Malaysia Borneo", "Mount Kinabalu height", "Gunung Tahan", "Malaysia monsoon season", "northeast monsoon", "southwest monsoon", "Malaysia coastal plains", "Malaysia land area"]
+faq:
+  - q: Mengapa 'musim monsun' berarti bulan yang berbeda di berbagai pantai Malaysia?
+    a: Karena dua monsun yang bergantian menerjang sisi negara yang berlawanan. Monsun Timur Laut (kira-kira November hingga Maret) membawa hujan lebat dan banjir ke pantai timur Semenanjung, Sarawak barat, dan Sabah timur. Monsun Barat Daya (kira-kira Mei hingga September) relatif lebih kering dan memengaruhi sisi yang berlawanan. Jadi musim hujan di pantai timur dan di pantai barat tidak jatuh pada bulan yang sama, dengan periode peralihan monsun yang singkat di antara keduanya.
+  - q: Apa perbedaan antara Gunung Tahan dan Gunung Kinabalu?
+    a: Keduanya adalah dua puncak rekor yang berbeda di dua daratan yang berbeda, dipisahkan oleh Laut Tiongkok Selatan. Gunung Tahan, setinggi 2.187 meter di perbatasan Pahang–Kelantan di dalam Taman Negara, adalah titik tertinggi di Semenanjung Malaysia. Gunung Kinabalu di Sabah menjulang setinggi 4.095 meter — puncak tertinggi di seluruh Malaysia, dan yang tertinggi di mana pun antara Himalaya dan Nugini. Mengacaukan keduanya adalah kesalahan yang umum.
+  - q: Mengapa sebagian besar warga Malaysia tinggal di dekat pantai alih-alih di pedalaman?
+    a: Setiap daratan didominasi oleh tulang punggung pegunungan di tengah — Pegunungan Titiwangsa di Semenanjung, Pegunungan Crocker di Sabah — yang hanya diapit oleh dataran pantai yang sempit. Dataran tinggi itu mendorong permukiman keluar ke dataran pantai dan lembah sungai, sehingga pedalaman yang bergunung-gunung berpenduduk jarang. Dataran pantai barat Semenanjung yang terlindung, ditenangkan oleh Selat Malaka, menampung sebagian besar penduduknya dan kota-kota terbesar seperti Kuala Lumpur dan George Town.
 ---
 
 Terbang ke Kuala Lumpur dari Kota Kinabalu dan Anda melintasi lebih dari sekadar perbatasan internal — Anda melintasi beberapa ratus kilometer laut terbuka. Malaysia adalah satu negara yang disatukan melintasi dua daratan yang terpisah, dan kenyataan bentuk muka bumi yang sederhana ini telah diam-diam menentukan hampir segala hal lain: di mana kota-kota berada, di mana sawah padi berada, dan pantai mana yang dilanda banjir setiap bulan Desember.

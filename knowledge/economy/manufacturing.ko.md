@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "투자자, 구직자, 정책 분석가, 그리고 말레이시아 산업 통계를 정확히 읽으려는 학생."
 
 lang: "ko"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -74,6 +74,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: 제조업의 GDP 비중이 1999년 이후 하락했다 — 이는 말레이시아가 탈산업화하고 있다는 뜻인가?
+    a: 아니다. 1999년 31% 가까이에서 시작된 하락은 2010년경에 끝났으며, 그 이후 비중은 22~23% 부근에 머물러 있고 15년간의 변동 폭은 1퍼센트포인트를 조금 넘는 정도다. 이는 하락이 아니라 정체 국면이다. 제조업 생산은 여전히 증가하고 있으며 — 2025년에 이 부문은 4.5% 성장했다 — 단지 경제의 나머지 부분과 거의 같은 속도로 성장하고 있을 뿐이다.
+  - q: 제조업이 말레이시아인의 27.5%를 고용한다는 것이 사실인가?
+    a: 아니다 — 그것은 흔한 오인용이다. 통계청(DOSM)의 분기별 고용조사는 등록된 민간 부문 사업체만 집계하며, 2025년 4분기 기준 921만 개 일자리이고, 제조업의 254만 개는 그 부분집합의 27.5%다. 이 조사는 공공 부문, 자영업자, 비공식 노동을 제외하므로, 취업자 전체에서 제조업이 차지하는 비중은 실질적으로 훨씬 낮다. 그 질문에는 경제활동인구조사(Labour Force Survey)를 사용하라.
+  - q: GDP 비중이 정체되어 있다면, 제조업은 저부가가치 조립 작업에 머물러 있는 것 아닌가?
+    a: 생산성 데이터는 그렇지 않음을 보여준다. 2025년 제조업 부가가치는 노동 시간당 RM59.0에 달해 서비스업의 RM42.0보다 시간당 약 40% 높고, 전국 평균 RM44.5보다 약 3분의 1 높다. 정체된 비중은 부분적으로 산술의 문제다. 서비스업이 더 빠르게 성장했기 때문에(5.4% 대 제조업 4.5%), 더 작은 부문의 비중은 생산이 늘어나도 하락한다. 제조업 내부의 구성이 바뀌고 있는데, 이는 GDP 비중으로는 보여줄 수 없다.
 ---
 
 ## 한눈에 보기

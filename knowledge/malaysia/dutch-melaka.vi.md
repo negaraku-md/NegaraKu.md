@@ -20,7 +20,7 @@ keyTakeaways:
   - "Anglo-Dutch Treaty of 17 March 1824 nhượng Melaka vĩnh viễn cho Anh để đổi lấy Bencoolen; việc chuyển giao thực tế có hiệu lực vào ngày 1 tháng 3 năm 1825"
 appliesTo: "Độc giả đã biết Melaka đổi chủ từ tay người Bồ Đào Nha sang Hà Lan rồi sang Anh, và muốn hiểu vì sao 184 năm ở giữa lại trông khác biệt đến vậy so với 130 năm trước đó và 121 năm sau đó — cùng với việc chuyển giao cho Anh thực sự đã diễn ra như thế nào."
 lang: "vi"
-sourceContentHash: "c29f50bb16f23497"
+sourceContentHash: "2c0da3227a2ca96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Dutch Melaka", "VOC Malacca", "Dutch East India Company Malacca", "Batavia versus Melaka", "Anglo-Dutch Treaty 1824", "A Famosa demolition", "Stadthuys Melaka", "Kew Letters 1795", "Straits Settlements history"]
+faq:
+  - q: Người Hà Lan có chiếm Melaka từ tay người Bồ Đào Nha một mình không?
+    a: Không. VOC (Công ty Đông Ấn Hà Lan) đã chiếm Melaka cùng với Vương quốc Hồi giáo Johor, vốn có mối thù lâu đời cần thanh toán với người Bồ Đào Nha và đã cung cấp lực lượng bộ binh cùng hiểu biết địa phương. Ghi chép của Cục Lưu trữ Quốc gia Malaysia (Arkib Negara Malaysia) nêu rằng pháo đài này đã bị đánh bại bởi người Hà Lan liên minh với Johor sau cuộc bao vây bảy tháng từ biển và đất liền. Khi nó thất thủ năm 1641, người Hà Lan tìm thấy 68 khẩu đại bác và 74 khẩu súng trường mà người Bồ Đào Nha đã dùng để phòng thủ.
+  - q: Tại sao người Hà Lan không phát triển Melaka thành một thương cảng giàu có?
+    a: Bởi vì VOC đã có sẵn một thủ phủ khu vực được xây dựng chuyên biệt tại Batavia (Jakarta), được thành lập từ lâu trước năm 1641, và không bao giờ có ý định để Melaka cạnh tranh với chính trụ sở của mình. Ưu tiên của công ty là ngăn các cường quốc châu Âu đối thủ tiếp cận cảng này và eo biển của nó, chứ không phải xây dựng một thương cảng trung chuyển cạnh tranh. Hạn ngạch thiếc được chuyển hướng về Batavia, các thống đốc Melaka bị từ chối quyền tự chủ thương mại lớn hơn, và cảng này được giữ như một thị trấn đồn trú và hành chính phụ thuộc.
+  - q: Melaka có chuyển từ tay người Hà Lan sang người Anh trong một lần bàn giao gọn gàng không?
+    a: Không. Nó đã đổi chủ về mặt hành chính bốn lần trong ba mươi năm. Anh chiếm đóng Melaka năm 1795 theo các Thư Kew (Kew Letters) để giữ nó khỏi rơi vào tay Pháp, Melaka được trả lại cho người Hà Lan năm 1818, Hiệp ước Anh-Hà Lan 1824 (ký ngày 17 tháng 3 năm 1824) nhượng vĩnh viễn nó cho Anh để đổi lấy Bencoolen ở Sumatra, và việc chuyển giao thực tế có hiệu lực vào ngày 1 tháng 3 năm 1825.
 ---
 
 Một công ty bỏ ra bảy tháng và một liên minh với một vương triều nước ngoài để chinh phục một hải cảng. Rồi nó dành một thế kỷ rưỡi tiếp theo để bảo đảm hải cảng đó không bao giờ giàu có.

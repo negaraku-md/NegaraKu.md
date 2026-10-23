@@ -27,7 +27,7 @@ verificationNeeded:
   - "연간 신고 마감일(수동 4월 30일 / e-Filing 5월 15일)은 LHDN 자체 날짜가 기재된 언론 성명을 통해 2025 과세연도에 대해 확인되었습니다. LHDN은 매년 새로운 신고 프로그램을 발표하므로, 다른 과세연도에 의존하기 전에 해당 연도의 날짜를 다시 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "027e674e99f0cfb0"
+sourceContentHash: "0160a6b90a992b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
+faq:
+  - q: 저는 취업 패스(Employment Pass)를 가지고 있는데——그것이 저의 말레이시아 세무상 지위를 결정하는 것 아닌가요?
+    a: 아닙니다. 1967년 소득세법(Income Tax Act 1967) 제7조는 거주자 여부를 국적, MyKad 지위, 패스 종류가 아니라 실제 체류 일수로 판정합니다. 가장 많이 인용되는 기준은 기준 연도에 182일 이상이지만, 다른 세 가지 기준으로 더 적은 일수에도 거주자가 될 수 있습니다. 취업 패스를 가지고 한 번도 출국하지 않은 외국인은 첫날부터 거주자가 될 수 있고, 한 해의 대부분을 해외에서 보내는 말레이시아 국민은 비거주자가 될 수 있습니다.
+  - q: 제 고용주가 이미 매달 제 급여에서 PCB를 공제하고 있는데——그래도 신고서를 제출해야 하나요?
+    a: 예, 소득이 등록 기준액을 넘으면 그렇습니다. 매월 원천징수(PCB/MTD)는 미리 공제되는 추정액일 뿐입니다. 연간 신고가 바로 정산으로——여기서 각종 공제를 신청하고, 다른 소득을 신고하며, 실제 세액이——환급이든 추가 납부든——확정됩니다. 세무 파일을 보유하고 신고서를 제출하는 것은 고용주가 이미 매달 세금을 원천징수하는지와 무관하게 요구됩니다.
+  - q: 저는 이미 납세자 식별 번호(Tax Identification Number)가 있는데——바로 MyTax에 로그인해서 신고하면 되나요?
+    a: 아직은 안 됩니다. 최초 신고자에게는 순서대로 두 가지 인증 수단이 필요합니다. e-Daftar를 통해 발급받는 TIN(많은 국민과 영주권자는 이미 자동으로 하나를 가지고 있습니다)만으로는 e-Filing이 열리지 않습니다. LHDN(내국세입청)은 그 TIN에 연결된 e-Filing 계정을 활성화하기 위해 별도의 PIN을 요구합니다——예전에는 지점을 통해, 최근에는 포털을 통해 신청할 수 있습니다. 이 두 단계를 모두 마친 뒤에야 올바른 신고서를 열어 제출할 수 있습니다.
 ---
 
 한 신입 직원이 2년짜리 취업 패스(Employment Pass)로 쿠알라룸푸르에 이주하고는, 그 패스 자체가 세무 지위를 정한다고 가정합니다. 싱가포르에서 여덟 달 일한 한 말레이시아인은 시민권이 어차피 자신을 LHDN 시스템 밖에 둔다고 가정합니다. 둘 다 같은 이유로 틀렸습니다. 말레이시아 소득세는 당신이 누구인지, 당신의 패스가 무엇이라고 하는지를 묻지 않습니다. 그것은 날을 셉니다.

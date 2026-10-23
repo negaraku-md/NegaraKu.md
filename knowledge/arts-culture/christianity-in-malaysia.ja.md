@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "198b32c117f346a7"
+sourceContentHash: "7bc376bb0aba475a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["マレーシア キリスト教", "Christianity in Malaysia", "マレーシアのキリスト教徒", "サバ サラワク キリスト教徒", "カトリック マレーシア", "プロテスタント マレーシア", "Christian Federation of Malaysia"]
+faq:
+  - q: マレーシアのキリスト教徒の多くは華人系やインド系ですか?
+    a: いいえ——それは本記事が正す一般的な誤解です。コミュニティ別に見ると、マレーシアのキリスト教徒は多数がブミプトラ(約59%)で、カダザン・ドゥスン人、イバン人、ビダユ人などの間に広がるボルネオの先住民教会を反映しています。華人系(約27%)とインド系(約4%)は半島部に集中する少数派です。マレーシアのキリスト教徒の3分の2以上(約70%)はサバ州とサラワク州に暮らしています。
+  - q: 聖金曜日(Good Friday)はマレーシア全土で公休日ですか?
+    a: いいえ。両者は適用範囲が異なります。クリスマスは全国的な公休日ですが、聖金曜日はサバ州とサラワク州でのみ公休日です。これはこの信仰の地理的分布を反映しています。マレーシアのキリスト教徒の3分の2以上——そしてキリスト教が単独で最大の宗教であるサラワク州——が半島部ではなく東マレーシアにあるからです。
+  - q: マレーシア・キリスト教連盟とは何で、どの団体をまとめているのですか?
+    a: 1985年に結成されたマレーシア・キリスト教連盟(Christian Federation of Malaysia、CFM)は、主要な統括団体です。マレーシアのキリスト教の三つの潮流、すなわちカトリック司教協議会(Catholic Bishops' Conference)、マレーシア教会協議会(Council of Churches of Malaysia、主流派プロテスタント)、全国福音主義キリスト教フェローシップ(National Evangelical Christian Fellowship)をまとめています。CFMは、国内の教会の95%以上を代表しているとしており、その多くはサバ州とサラワク州のマレー語を話す会衆です。
 ---
 
 マレーシアのキリスト教の物語には二つの重心があり、そのどちらも首都にはない。

@@ -20,7 +20,7 @@ keyTakeaways:
   - "1824年3月17日签署的英荷条约将马六甲永久割让给英国，以换取Bencoolen；实际移交则于1825年3月1日生效"
 appliesTo: "已经了解马六甲曾从葡萄牙人手中转到荷兰人手中、再转到英国人手中的读者，想进一步了解为何中间那184年与之前的130年及之后的121年如此不同——以及移交英国的过程究竟是如何发生的。"
 lang: "zh"
-sourceContentHash: "c29f50bb16f23497"
+sourceContentHash: "2c0da3227a2ca96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Dutch Melaka", "VOC Malacca", "Dutch East India Company Malacca", "Batavia versus Melaka", "Anglo-Dutch Treaty 1824", "A Famosa demolition", "Stadthuys Melaka", "Kew Letters 1795", "Straits Settlements history"]
+faq:
+  - q: 荷兰人是独自从葡萄牙人手中夺取马六甲的吗？
+    a: 不是。荷兰东印度公司（VOC）是与柔佛苏丹国一同攻取马六甲的，柔佛与葡萄牙人之间自有长久的旧怨要清算，并提供了陆上兵力和本地情报。马来西亚国家档案局（Arkib Negara Malaysia）的记载指出，该堡垒是在历时七个月的海陆围攻之后，被与柔佛联合的荷兰人攻克的。1641年城池陷落时，荷兰人发现葡萄牙人曾用来防守的68门大炮和74支步枪。
+  - q: 荷兰人为什么没有把马六甲发展成一个富庶的贸易港？
+    a: 因为荷兰东印度公司早在1641年之前就已在巴达维亚（雅加达，Batavia）建立了专门打造的区域首府，从未打算让马六甲与自己的总部竞争。公司的首要任务是不让对手欧洲列强染指这座港口及其海峡，而非建立一个竞争性的转口港。锡的配额被改道运往巴达维亚，马六甲的总督被拒绝给予更多贸易自主权，这座港口被维持为一个从属的驻军与行政城镇。
+  - q: 马六甲是在一次干净利落的交接中从荷兰人转交给英国人的吗？
+    a: 不是。它在三十年间行政上四次易手。英国于1795年根据《基尤信函》（Kew Letters）占领马六甲，以防其落入法国之手；1818年马六甲归还荷兰；1824年的《英荷条约》（于1824年3月17日签署）将其永久割让给英国，以换取苏门答腊的明古连（Bencoolen）；而实际移交于1825年3月1日生效。
 ---
 
 一家公司花了七个月时间，并与一个外国苏丹国结盟，才征服了一座港口。此后，它又花了接下来的一个半世纪，确保这座港口永远无法致富。

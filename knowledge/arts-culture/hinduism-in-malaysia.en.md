@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["Hinduism in Malaysia", "Malaysian Hindus", "Tamil Hindus Malaysia", "Malaysia Hindu Sangam", "Malaysia temples", "Mariamman temple"]
+faq:
+  - q: Are all Malaysian Hindus of Tamil descent?
+    a: Although the majority are of South Indian Tamil descent, that is not the whole truth. People of Malayali, Telugu and North Indian descent, as well as those from other communities, also follow Hinduism; those of Malayali tradition celebrate festivals such as Onam and Vishu. Moreover, religion and ethnicity are not the same thing — the census measures the two separately.
+  - q: Is Thaipusam a national public holiday?
+    a: No. Thaipusam is not a holiday at the national level; it is a public holiday only in the states that gazette it — Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan and Johor. In some years Kedah grants it as a special declaration without a fixed gazette. By contrast, Deepavali is a public holiday in every state and federal territory except Sarawak.
+  - q: Why do more Hindus live in states such as Negeri Sembilan, Selangor and Perak?
+    a: These states coincide with the former rubber-plantation and tin-mining areas — where Indian labourers settled in large numbers during the British era. In the 2020 census, Negeri Sembilan (~13.1%), Selangor (~10.3%) and Perak (~9.7%) had the higher proportions. Most are descendants of those who came from South India for plantation work under the kangani system.
 ---
 
 In almost any Malaysian town you can find a Mariamman temple — at the edge of an

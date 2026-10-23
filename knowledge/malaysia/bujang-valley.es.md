@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que desee comprender los orígenes de la civilización temprana en las tierras malayas antes de que existieran los sultanatos malayos, o que esté planeando una visita a los yacimientos arqueológicos y al museo de Kedah."
 
 lang: "es"
-sourceContentHash: "e95214b94dacf363"
+sourceContentHash: "37c769aa2420a10a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["langkasuka", "melaka-sultanate"]
 keywords: ["Lembah Bujang", "Valle de Bujang", "Bujang Valley", "Kedah Tua", "candi", "Sungai Batu", "Candi Bukit Batu Pahat", "Muzium Arkeologi Lembah Bujang", "arqueología de Kedah"]
+faq:
+  - q: ¿Es "Valle de Bujang" (Lembah Bujang) el nombre de un reino antiguo?
+    a: No. El Valle de Bujang es el nombre de una zona arqueológica moderna de unos 224 kilómetros cuadrados alrededor de Merbok, Kedah, no el nombre de un reino. Los nombres de reinos asociados a él, como Kedah Tua (Antiguo Kedah), son denominaciones históricas distintas cuyo alcance y fronteras reales todavía se debaten entre los estudiosos. El valle se refiere a la zona que alberga más de 50 candi (templos), así como el yacimiento de fundición de hierro de Sungai Batu.
+  - q: ¿Qué hace que el yacimiento de Sungai Batu sea tan importante?
+    a: Según el Departamento del Patrimonio Nacional (Jabatan Warisan Negara), el yacimiento de Sungai Batu muestra una fundición de hierro a gran escala que comenzó alrededor del siglo I d. C. y funcionó de forma continua hasta el siglo VIII, con niveles de producción que apuntan a la exportación y no a un mero uso local. Alberga algunas de las pruebas más tempranas de industria del hierro jamás registradas en el Sudeste Asiático, anteriores en antigüedad a yacimientos como Angkor Wat y Borobudur.
+  - q: ¿Siguen los candi (templos) del Valle de Bujang en su estado original desde la antigüedad?
+    a: No. La mayoría de los candi que se pueden visitar hoy han sido reconstruidos por arqueólogos a partir de las ruinas originales, en lugar de ser estructuras que se hayan mantenido intactas. El Candi Bukit Batu Pahat es la única ruina reconstruida en su emplazamiento original, mientras que el Candi Pengkalan Bujang ha sido reconstruido ahora cerca del museo. Según el Archivo Nacional de Malasia (Arkib Negara Malaysia), se estima que estos candi fueron construidos entre los siglos IV y XII d. C.
 ---
 
 En una llanura cercana a Gunung Jerai, entre arrozales y plantaciones de palma aceitera, yacen ladrillos antiguos dispuestos siglos antes de que Melaka existiera como puerto. Algunos de ellos forman la base de templos hindúes. Otros son hornos de fundición de hierro. Ningún sultán que gobernara alguna vez desde aquí tiene un nombre conocido hoy — pero lo que dejó tras de sí la sociedad que construyó estos templos y hornos convierte al Valle de Bujang en uno de los yacimientos arqueológicos más importantes del Sudeste Asiático.

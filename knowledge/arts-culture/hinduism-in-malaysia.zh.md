@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["马来西亚印度教", "Hinduism in Malaysia", "马来西亚印度教徒", "泰米尔印度教徒 马来西亚", "马来西亚兴都教协会", "马来西亚庙宇"]
+faq:
+  - q: 马来西亚的印度教徒都是泰米尔人吗?
+    a: 虽然大多数是南印度泰米尔裔,但这并非全部事实。马拉雅利人、泰卢固人、北印度裔以及来自其他族群的人也信奉印度教;马拉雅利传统的人还会庆祝欧南节(Onam)、维苏节(Vishu)等节日。此外,宗教与种族并不相同——人口普查会分别统计两者。
+  - q: 大宝森节是全国性的公共假期吗?
+    a: 不是。大宝森节并非全国性假期;它只有在将其宪报颁布的州属才是公共假期——吉隆坡、布城、雪兰莪、槟城、霹雳、森美兰、柔佛。吉打在某些年份会以特别公告的方式给假,而不作固定宪报颁布。相比之下,除砂拉越外,屠妖节(Deepavali)在每一个州属与联邦直辖区都是公共假期。
+  - q: 为什么森美兰、雪兰莪、霹雳等州属的印度教徒较多?
+    a: 这些州属与昔日的橡胶园、锡矿区相吻合——英殖民时期大量印度劳工正是在那里定居。在2020年人口普查中,森美兰(约13.1%)、雪兰莪(约10.3%)、霹雳(约9.7%)所占比例较高。他们大多是当年在甘加尼(kangani)制度下从南印度前来从事园坵工作者的后裔。
 ---
 
 在马来西亚的任何城镇，无论是在一座旧橡胶园的边缘，还是在市中心的老街上，都能见到一座马里安曼庙。那些戈普兰塔楼与屠妖节的灯火并非偶然 — 它们述说着一个历时一个半世纪以上的社群的历史。

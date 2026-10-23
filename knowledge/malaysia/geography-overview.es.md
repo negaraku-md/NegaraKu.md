@@ -18,7 +18,7 @@ keyTakeaways:
   - "El Monzón del Noreste (nov–mar) empapa la costa este de la Península, el oeste de Sarawak y el norte de Sabah; el Monzón del Suroeste (may–sep) es comparativamente más seco — un ritmo que todavía hoy determina la temporada de inundaciones y los calendarios agrícolas (Departamento Meteorológico de Malasia)"
 appliesTo: "Cualquiera que intente entender por qué la población, las ciudades y el riesgo de inundaciones de Malasia se agrupan donde lo hacen — estudiantes, recién llegados, planificadores o cualquiera desconcertado por qué «temporada de monzones» significa cosas distintas en costas distintas."
 lang: "es"
-sourceContentHash: "1aadf1352cd31f55"
+sourceContentHash: "53f49043897c123b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["what-malaysia-is", "urbanisation", "sabah"]
 keywords: ["geografía de Malasia", "cordillera de Titiwangsa", "geografía de la Malasia Peninsular", "Malasia Oriental Borneo", "altura del Monte Kinabalu", "Gunung Tahan", "temporada de monzones en Malasia", "monzón del noreste", "monzón del suroeste", "llanuras costeras de Malasia", "superficie de Malasia"]
+faq:
+  - q: ¿Por qué la 'temporada de monzones' corresponde a meses distintos en las diferentes costas de Malasia?
+    a: Porque dos monzones alternos golpean lados opuestos del país. El monzón del noreste (aproximadamente de noviembre a marzo) lleva lluvias intensas e inundaciones a la costa este de la Península, el oeste de Sarawak y el este de Sabah. El monzón del suroeste (aproximadamente de mayo a septiembre) es comparativamente más seco y afecta al lado opuesto. Así, la temporada de lluvias de la costa este y la de la costa oeste no coinciden en los mismos meses, con breves periodos intermonzónicos entre ambas.
+  - q: ¿Cuál es la diferencia entre el Gunung Tahan y el monte Kinabalu?
+    a: 'Son dos cumbres récord distintas en dos masas de tierra distintas, separadas por el mar de la China Meridional. El Gunung Tahan, con 2187 metros en la frontera entre Pahang y Kelantan, dentro del Taman Negara, es el punto más alto de la Malasia peninsular. El monte Kinabalu, en Sabah, se eleva a 4095 metros: es la cumbre más alta de toda Malasia y la más alta de cualquier lugar entre el Himalaya y Nueva Guinea. Confundir ambos es un error común.'
+  - q: ¿Por qué la mayoría de los malasios vive cerca de las costas en lugar del interior?
+    a: Cada masa de tierra está dominada por una espina montañosa central —la cordillera de Titiwangsa en la Península, la cordillera de Crocker en Sabah— flanqueada solo por estrechas llanuras costeras. Esas tierras altas empujan el asentamiento hacia afuera, hacia las llanuras costeras y los valles fluviales, y dejan el interior montañoso poco poblado. La resguardada llanura de la costa oeste de la Península, calmada por el estrecho de Malaca, alberga a la mayor parte de su población y a las ciudades más grandes, como Kuala Lumpur y George Town.
 ---
 
 Vuele a Kuala Lumpur desde Kota Kinabalu y cruzará algo más que una frontera interna: cruzará varios cientos de kilómetros de mar abierto. Malasia es un solo país grapado a través de dos masas de tierra separadas, y ese simple hecho de forma ha decidido en silencio casi todo lo demás: dónde están las ciudades, dónde están los arrozales y qué costa se inunda cada diciembre.

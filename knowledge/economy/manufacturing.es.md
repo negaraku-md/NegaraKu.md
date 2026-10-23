@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Inversores, buscadores de empleo, analistas de políticas y estudiantes que intentan leer con precisión las estadísticas industriales de Malasia."
 
 lang: "es"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: La participación de la manufactura en el PIB ha caído desde 1999 — ¿significa eso que Malasia se está desindustrializando?
+    a: No. La caída desde algo menos del 31% en 1999 terminó alrededor de 2010; desde entonces la participación se ha mantenido cerca del 22–23%, con un rango a lo largo de quince años de poco más de un punto porcentual. Eso es una meseta, no un declive. La producción manufacturera sigue creciendo — el sector se expandió un 4.5% en 2025 — simplemente crece a un ritmo casi igual al del resto de la economía.
+  - q: ¿Es cierto que la manufactura emplea al 27.5% de los malasios?
+    a: No — es una cita errónea frecuente. La Encuesta Trimestral de Empleo del DOSM contabiliza únicamente los establecimientos registrados del sector privado, 9.21 millones de empleos en el 4.º trimestre de 2025, y los 2.54 millones de la manufactura son el 27.5% de ese subconjunto. La encuesta excluye el sector público, los trabajadores por cuenta propia y el empleo informal, por lo que la participación de la manufactura en el total de ocupados es materialmente menor. Para esa pregunta use la Encuesta de Población Activa (Labour Force Survey).
+  - q: Si la participación en el PIB está estancada, ¿no estará la manufactura atrapada haciendo solo trabajo de ensamblaje de bajo valor?
+    a: 'Los datos de productividad indican lo contrario. El valor añadido de la manufactura alcanzó RM59.0 por hora trabajada en 2025 frente a RM42.0 en servicios — alrededor de un 40% más por hora, y aproximadamente un tercio por encima del promedio nacional de RM44.5. Una participación estancada es en parte aritmética: los servicios crecieron más rápido (5.4% frente al 4.5% de la manufactura), por lo que la participación del sector más pequeño cae aun cuando su producción aumenta. La composición dentro de la manufactura está cambiando, algo que la participación en el PIB no puede mostrar.'
 ---
 
 ## De un vistazo

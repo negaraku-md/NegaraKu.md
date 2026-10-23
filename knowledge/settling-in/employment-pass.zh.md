@@ -23,7 +23,7 @@ appliesTo: "持有马来西亚聘书的外国公民，以及任何在马来西�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "15f43dc5f13f9d7c"
+sourceContentHash: "b4e6702e3d043ad8"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,13 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "expatriate work visa", "i-Kad", "dependant pass malaysia", "employment pass categories", "ePASS Malaysia"]
+faq:
+  - q: 我可以自己申请工作准证吗？
+    a: 不可以。工作准证是由你的雇主代你申请的，透过其在外籍人士服务组（ESD）的专属账户进行；公司必须先在ESD注册，而申请则由MYXpats中心处理。你需提供文件——护照、学历资格、雇佣合约——但并没有面向雇员的登录入口，你也无法自行提交或追踪申请进度。
+  - q: 工作准证是否允许我在马来西亚任何地方工作，包括沙巴和砂拉越？
+    a: 不是。移民局表明工作准证仅在马来西亚半岛有效。沙巴和砂拉越依据州自治权实行各自的移民管制，因此在那里任职需要另外的准证或背书。工作准证也仅将你与担保公司绑定——一旦换工作，你的新雇主必须从头重新提交申请。
+  - q: 我的配偶能凭家属准证在马来西亚工作吗？
+    a: 可以，但并非自动获得。家属准证本身不带任何工作权利，而且主申请人必须先持有有效的工作准证，因为家属申请须依附于它。根据移民局本身的常见问答，配偶随后可凭移民局签发的工作背书（endorsement for work）工作，而无需以本人名义转换为完整的工作准证——这是比重新申请工作准证快得多、也便宜得多的途径。
 ---
 
 你手上有一份已签署的马来西亚聘书。你有护照、学位、多年的相关经验。而你个人依然没有任何东西可以亲自去提交。

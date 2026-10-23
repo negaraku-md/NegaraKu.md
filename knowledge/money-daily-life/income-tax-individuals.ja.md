@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "027e674e99f0cfb0"
+sourceContentHash: "0160a6b90a992b3e"
 
 status: "published"
 aiAssisted: true
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
+faq:
+  - q: 私は就労パス(Employment Pass)を持っています——それで私のマレーシアの税務上の身分は決まらないのですか?
+    a: いいえ。1967年所得税法(Income Tax Act 1967)第7条は、居住者の判定を、国籍、MyKadの身分、パスの種類ではなく、物理的な滞在日数によって決定します。最もよく引用される基準は基準年に182日以上ですが、他の三つの基準によって、より少ない日数でも居住者となる場合があります。就労パスを持ち一度も出国しない外国人は初日から居住者になり得ますし、一年の大半を国外で過ごすマレーシア国民は非居住者になり得ます。
+  - q: 勤務先が毎月すでに私の給与からPCBを差し引いています——それでも確定申告をする必要がありますか?
+    a: はい、あなたの所得が登録の基準額を超えた場合には必要です。毎月の源泉徴収(PCB/MTD)は、前もって差し引かれる見積もりにすぎません。年次申告こそが精算であり——そこで各種控除を申請し、他の所得を申告し、実際の税額が——還付であれ追加納付であれ——確定します。税務ファイルを保有し申告書を提出することは、勤務先が毎月すでに税を源泉徴収しているかどうかとは無関係に求められます。
+  - q: 私はすでに納税者番号(Tax Identification Number)を持っています——そのままMyTaxにログインして申告できますか?
+    a: まだできません。初めて申告する人には、順番に二つの認証情報が必要です。e-Daftarを通じて取得するTIN(多くの国民や永住者はすでに自動的に取得しています)は、それだけではe-Filingを開けません。LHDN(内国歳入庁)は、そのTINに紐づくe-Filingアカウントを有効化するために別途PINを求めます——かつては支店経由で、近年はポータルを通じて請求できます。この両方の手続きを終えて初めて、正しい申告書を開いて提出することができます。
 ---
 
 ある新入社員が2年間のEmployment Pass（エンプロイメントパス）でクアラルンプールに移り住み、そのパス自体が自分の税務上の身分を決めると思い込む。シンガポールで8か月働いたマレーシア人は、いずれにせよ国籍のおかげで自分は内国歳入庁（Lembaga Hasil Dalam Negeri、LHDN）のシステムの外にいられると思い込む。両者は同じ理由で間違っている——マレーシアの所得税は、あなたが誰か、あなたのパスに何と書いてあるかを問わない。数えるのは日数である。

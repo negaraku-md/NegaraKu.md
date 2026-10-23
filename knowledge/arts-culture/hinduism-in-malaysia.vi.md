@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "vi"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["Ấn Độ giáo tại Malaysia", "Hinduism in Malaysia", "tín đồ Ấn Độ giáo Malaysia", "người Tamil theo Ấn Độ giáo Malaysia", "Malaysia Hindu Sangam", "đền Ấn Độ giáo Malaysia"]
+faq:
+  - q: Có phải tất cả người Hindu ở Malaysia đều là người gốc Tamil không?
+    a: Tuy phần lớn là người gốc Tamil Nam Ấn, nhưng đó không phải toàn bộ sự thật. Người gốc Malayali, Telugu và Bắc Ấn, cũng như người thuộc các cộng đồng khác, cũng theo Ấn Độ giáo; những người thuộc truyền thống Malayali còn mừng các lễ hội như Onam và Vishu. Hơn nữa, tôn giáo và sắc tộc không phải là một — điều tra dân số đo lường hai điều này một cách riêng biệt.
+  - q: Thaipusam có phải là ngày lễ công cộng trên toàn quốc không?
+    a: Không. Thaipusam không phải là ngày lễ ở cấp quốc gia; nó chỉ là ngày lễ công cộng ở những bang có công báo quy định — Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan và Johor. Một số năm, Kedah cho nghỉ dưới dạng tuyên bố đặc biệt mà không công báo cố định. Ngược lại, Deepavali là ngày lễ công cộng ở mọi bang và lãnh thổ liên bang, ngoại trừ Sarawak.
+  - q: Vì sao người Hindu sống nhiều hơn ở các bang như Negeri Sembilan, Selangor và Perak?
+    a: Các bang này trùng với những vùng đồn điền cao su và mỏ thiếc xưa — nơi công nhân Ấn Độ định cư với số lượng lớn trong thời kỳ thuộc Anh. Trong điều tra dân số năm 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%) và Perak (~9,7%) có tỷ lệ cao hơn. Phần lớn họ là con cháu của những người từ Nam Ấn sang làm việc tại đồn điền theo chế độ kangani.
 ---
 
 Ở bất kỳ thành phố nào của Malaysia, bên rìa một đồn điền cao su cũ hay trên một

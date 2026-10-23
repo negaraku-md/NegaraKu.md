@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Ciudadanos malasios, residentes permanentes, compradores de primera vivienda y compradores extranjeros (sujetos a restricciones y tasas de impuesto adicionales)"
 
 lang: "es"
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: 'En Malasia, ¿quién paga legalmente el impuesto de timbre en la transmisión de un inmueble: el comprador o el vendedor?'
+    a: 'El comprador. En virtud del Tercer Anexo de la Ley del Impuesto de Timbre de 1949 (Stamp Act 1949), la parte legalmente obligada a pagar el impuesto de timbre de transmisión es el comprador, no el vendedor. Se grava sobre el Memorando de Transmisión (Memorandum of Transfer) a la tarifa escalonada del Punto 32(a) — 1% sobre los primeros RM100.000 y hasta 4% por encima de RM1.000.000 — calculado sobre el mayor de ambos valores: el precio declarado o la valoración de mercado de la LHDN (Administración Tributaria).'
+  - q: ¿Una vivienda de reventa (sub-sale) ofrece las mismas protecciones que comprar un proyecto nuevo?
+    a: No. La compra de un proyecto nuevo a un promotor con licencia se rige por un Contrato de Compraventa legal conforme al Anexo G o H de la Ley de Desarrollo de la Vivienda (Control y Licencias) de 1966 (Housing Development (Control and Licensing) Act 1966), con porcentajes de pago fraccionado fijos, un plazo obligatorio de entrega de la posesión vacía (24 meses para viviendas con terreno) e indemnización por daños liquidados automática en caso de entrega tardía. Un SPA de reventa es un contrato privado sin nada de eso — sus plazos y cláusulas de pérdida se negocian de forma privada, así que léalo con la misma atención.
+  - q: ¿Por qué los compradores suelen acabar pagando dos conjuntos de honorarios legales en una sola compra?
+    a: Porque dos documentos distintos avanzan en paralelo, gestionados en nombre de clientes diferentes. Un abogado redacta y timbra el Contrato de Compraventa que transmite el inmueble; otro — designado por el banco, a veces el mismo despacho con un segundo rol — prepara el Contrato de Préstamo y la Garantía Hipotecaria (Formulario 16A) que asegura el interés del banco. El abogado del banco protege la garantía del banco, no la señal del comprador, por lo que sus funciones y honorarios son distintos.
 ---
 
 Normalmente dos abogados intervienen en la compra de una vivienda en Malasia, y la mayoría de los compradores nunca se dan cuenta de que son dos personas distintas. Uno redacta y timbra el Contrato de Compraventa que traslada el inmueble. El otro — designado por el banco, a veces la misma firma — redacta y timbra el préstamo y la carga que permiten al banco apropiarse del inmueble si el préstamo no se paga. Los compradores que piensan en «el abogado» como un único personaje de esta historia suelen ser los que luego se confunden al ver por qué aparecieron dos juegos de honorarios legales, o por qué las llaves no llegaron el día en que se aprobó el préstamo.

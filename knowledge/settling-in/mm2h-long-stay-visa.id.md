@@ -24,7 +24,7 @@ verificationNeeded:
   - "Situs MOTAC sendiri mengembalikan galat 403 kepada sebagian pengambil otomatis; angka di sini diperoleh melalui permintaan bergaya peramban langsung ke halaman kategori dan pedoman mm2h.gov.my dan dibandingkan silang terhadap tabel perbandingan Category Overview situs itu sendiri, tetapi program ini telah berubah secara signifikan sejak 2024 dan ketentuannya dapat ditinjau ulang — selalu pastikan angka terkini di mm2h.gov.my sebelum mengandalkannya untuk permohonan apa pun."
 
 lang: "id"
-sourceContentHash: "722c4d82da3ee8ea"
+sourceContentHash: "6ca0d692c04f8572"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: Bisakah saya bekerja atau menjalankan bisnis dengan pas MM2H?
+    a: Hanya pada tingkat Platinum. Halaman Platinum MOTAC menyatakan baik aktivitas bisnis/investasi maupun peluang karier sebagai "Diizinkan," sementara halaman Silver, Gold, dan SEZ/SFZ semuanya menyatakannya sebagai "Tidak diizinkan." MM2H bukanlah visa kerja, jalur kewarganegaraan, atau izin tinggal tetap — melainkan pas tinggal jangka panjang yang dapat diperpanjang. Jika bekerja atau menjalankan bisnis itu penting bagi Anda, perbedaan menurut tingkat itulah yang menentukan tingkat mana, jika ada, yang cocok dengan rencana Anda.
+  - q: Setelah MM2H disetujui, bisakah saya menggunakan deposito berjangka saya secara bebas?
+    a: 'Tidak. MOTAC mengizinkan penarikan maksimum 50% dari pokok deposito berjangka setelah persetujuan, dan hanya untuk tujuan tertentu: membeli tempat tinggal yang diwajibkan, atau untuk pendidikan, pengobatan, atau kegiatan pariwisata di Malaysia. Ini adalah pelepasan bersyarat, bukan rekening untuk penggunaan umum. Sisa saldo harus tetap berada di bank Malaysia; dana asing dan keuntungan yang diperoleh dari deposito selama mengendap di sana memiliki pembebasan pajak sebagaimana dinyatakan.'
+  - q: Siapa yang sebenarnya menyetujui permohonan MM2H — MOTAC atau Imigrasi?
+    a: Keduanya, dengan peran yang berbeda. MOTAC menjalankan program dan menetapkan persyaratan setiap tingkat, tetapi persetujuan imigrasi akhir, pengesahan pas, dan setiap banding berada di tangan Kementerian Dalam Negeri melalui Departemen Imigrasi (Jabatan Imigresen Malaysia). Permohonan diajukan oleh agen MM2H berlisensi melalui One Stop Centre. Jadi hubungi MOTAC untuk pertanyaan persyaratan tingkat dan Imigrasi untuk urusan persetujuan atau pengesahan — dua otoritas, dua yurisdiksi.
 ---
 
 Cari "berapa lama pas MM2H Silver berlaku" dan Anda akan menemukan panduan yang dengan

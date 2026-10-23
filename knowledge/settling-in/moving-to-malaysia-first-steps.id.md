@@ -26,7 +26,7 @@ verificationNeeded:
   - "Angka penghasilan, deposito, dan jangka waktu khusus MM2H bagi setiap tingkatan perlu dipastikan langsung di portal MM2H resmi (mm2h.gov.my) pada saat permohonan, karena portal itu membatasi pengambilan otomatis dan tingkatannya telah ditata ulang lebih dari sekali dalam tahun-tahun terakhir ini."
 
 lang: "id"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: Apa yang harus saya urus terlebih dahulu saat pindah ke Malaysia?
+    a: 'Izin imigrasi Anda, sebelum Anda memesan apa pun. Hampir setiap urusan berikutnya memeriksa izin yang Anda pegang, bukan paspor Anda. Setelah masuk, urutan praktisnya adalah: akomodasi sementara terlebih dahulu, lalu rekening bank (yang memerlukan izin plus alamat di Malaysia), lalu pendaftaran SIM (yang juga bergantung pada izin dan alamat lokal), lalu konversi SIM mengemudi jika Anda berencana mengemudi. Mencoba membuka rekening bank sebelum izin diterbitkan adalah cara paling umum pendatang baru membuang-buang waktu seminggu.'
+  - q: Bisakah saya masuk dengan izin turis dan mengubahnya menjadi izin kerja atau tinggal jangka panjang nanti?
+    a: Dalam kebanyakan kasus, tidak. Izin kunjungan sosial jangka pendek (turis) standar hanya menyatakan bahwa Anda diizinkan berkunjung dan tidak dapat diubah menjadi status kerja atau tinggal jangka panjang dari dalam Malaysia. Jika rencananya adalah bekerja, disponsori keluarga, atau tinggal jangka panjang dengan biaya sendiri, permohonan izin umumnya perlu diselesaikan, atau setidaknya sudah berjalan jauh, sebelum pindah, bukan diperlakukan sebagai urusan minggu pertama setelah Anda mendarat.
+  - q: Apa itu Kartu Kedatangan Digital Malaysia, dan apakah ada biayanya?
+    a: Kartu Kedatangan Digital Malaysia (MDAC) adalah pendaftaran kedatangan gratis yang harus diselesaikan secara daring oleh sebagian besar pendatang asing sebelum mendarat, hanya diajukan melalui portal resmi Departemen Imigrasi sendiri. Ini bukan visa dan tidak menggantikan izin atau visa apa pun yang sudah Anda miliki. Departemen menekankan bahwa ini gratis karena situs tiruan tidak resmi telah membebankan biaya kepada para pelancong untuk formulir yang sebenarnya tidak berbiaya apa pun di sumbernya.
 ---
 
 Kebanyakan orang yang merencanakan kepindahan ke Malaysia memulai dengan pertanyaan yang

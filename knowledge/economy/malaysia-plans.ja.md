@@ -23,7 +23,7 @@ appliesTo: "学生、政策アナリスト、ジャーナリスト、そして�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: マレーシア計画と年次予算はどう違うのですか？
+    a: マレーシア計画は方向性を定め、予算はそれを実行します。マレーシア計画（RMK）は5年間の中期計画であり、重点分野、優先事項、成果目標を定めるものであって、特定の年にある省庁がいくらのリンギットを支出できるかを定めるものではありません。その年次の金額は、財務大臣が毎年10月／11月に連邦予算を提出する際に、その年のRMK配分を具体化する開発支出見積もりを通じて初めて示されます。
+  - q: マレーシア計画は予算と同じように法律として可決されるのですか？
+    a: いいえ。マレーシア計画は、法案としてではなく、国会審議のための政策動議として提出・可決されます。一方、予算は、供給法（Supply Act）として官報に公示される前に、完全な立法手続きを経る供給法案（Supply Bill）を通過しなければなりません。例えば第13次マレーシア計画（RMK13）は、2025年7月31日に下院（Dewan Rakyat）で、2025年8月25日に上院（Dewan Negara）で動議として提出されました。
+  - q: RMK13の6,110億リンギット全額が政府資金から来るのですか？
+    a: いいえ。RMK13の少なくとも6,110億リンギットの投資のうち、政府の開発配分は4,300億リンギットのみです。残りは、政府系企業（GLC）および政府系投資会社（GLIC）による1,200億リンギットの国内直接投資と、官民連携（PPP）方式による610億リンギットから来ています。
 ---
 
 2025年7月31日、首相は下院（Dewan Rakyat）において、少なくともRM6,110億の投資を必要とする開発動議を提出した。予算ではない——その年度の予算はすでに数カ月前に提出済みであった。これはまったく別の動議である。第13次マレーシア計画——1年ではなく、これから5年間、2026年から2030年までの国の開発の方向性を定める計画である。

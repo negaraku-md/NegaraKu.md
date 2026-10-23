@@ -22,7 +22,7 @@ appliesTo: "任何评估马来西亚经济风险敞口的人——投资者、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f587a0bc65cbc1af"
+sourceContentHash: "fa1a846b1a7d15a8"
 
 status: "published"
 aiAssisted: true
@@ -57,6 +57,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["external-trade", "gdp-overview", "palm-oil-sector"]
 keywords: ["Malaysia semiconductor", "Malaysia E&E exports", "elektrik dan elektronik Malaysia", "Penang semiconductor", "Malaysia chip industry"]
+faq:
+  - q: 马来西亚是像台湾那样制造先进芯片,还是做别的?
+    a: 是做别的。制造半导体有两个环节,而马来西亚的强项在于后段——封装、测试与组装(ATP),也就是把完工的晶圆变成可用芯片的阶段。马来西亚几乎没有最先进的前段晶圆制造(前端)厂。那些把马来西亚视为台湾晶圆厂竞争对手的评论,其实是在比较同一条链上不同的环节;马来西亚自1970年代起就一直从事后段工作。
+  - q: 为什么电子电气(E&E)占出口一半被称为脆弱性,而不只是优势?
+    a: 因为单一产品类别承载了大约一半的出口基础,会从三个方面集中风险。周期性:半导体大起大落,因此一年增长39.5%的行业也可能急剧收缩。在产业链中的位置:后段封装与测试比晶圆制造更容易被取代,竞争者可以建起同样的产能。地缘政治:其他经济体制定的出口管制与产业回流(reshoring)政策,会直接冲击马来西亚的工厂。
+  - q: 为什么偏偏是槟城成为马来西亚芯片产业的中心?
+    a: 这要追溯到1972年的一项政策决定。槟城设立了自由贸易区,并以税务优惠、免税进口零部件以及充足的劳动力吸引外国电子企业。美国和日本的半导体公司在此设立组装业务,逐渐形成产业集群。集群会随时间不断深化——供应商、设备维护、本地培养的工程师——这正是半个世纪后槟城与居林仍然高度集中这一产业的原因。
 ---
 
 ## 一览

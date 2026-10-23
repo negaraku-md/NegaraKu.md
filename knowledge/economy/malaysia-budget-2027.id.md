@@ -25,7 +25,7 @@ appliesTo: "Wajib pajak individu, karyawan, pekerja gig, SME dan pemberi kerja, 
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9667ec689364dcd2"
+sourceContentHash: "425e9a866d80e746"
 
 status: "published"
 revision: 0
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "personal-tax-rates", "fuel-subsidies"]
 keywords: ["Budget 2027 Malaysia", "Belanjawan 2027", "pajak penghasilan Budget 2027", "upah minimum RM2000", "pajak SME Budget 2027", "SARA STR 2027", "keringanan pajak RM12000", "sorotan Budget 2027"]
+faq:
+  - q: Apakah upah minimum RM2.000 sudah berlaku sekarang setelah Anggaran 2027 dibentangkan?
+    a: Tidak. Anggaran yang dibentangkan pada 9 Oktober 2026 adalah sebuah pengumuman, bukan undang-undang. Upah minimum naik dari RM1.700 menjadi RM2.000 baru mulai Juni 2027, dan bahkan saat itu pun UMKM dengan penjualan tahunan di bawah RM50 juta dikecualikan pada tahap awal. Seperti setiap langkah lainnya, hal ini baru mengikat setelah Rancangan Undang-Undang Keuangan, Undang-Undang Suplai (Anggaran) 2027, dan setiap perintah lembaran negara yang memberlakukannya disahkan, pada tanggal efektif yang disebutkan dalam pidato.
+  - q: Apakah Anggaran 2027 mereformasi SST atau memperkenalkan aturan e-invoicing baru?
+    a: Tidak. Artikel ini secara tegas menyatakan bahwa reformasi SST yang luas dan langkah e-invoicing baru merupakan prakiraan pra-anggaran oleh para analis, bukan pengumuman dalam pidato 9 Oktober 2026. Hal itu harus diperlakukan sebagai ekspektasi, bukan kebijakan, sampai pemerintah menyatakan sebaliknya. Perubahan pajak yang sebenarnya dalam anggaran ini berpusat pada pemotongan satu poin persentase tarif pajak penghasilan penduduk dan UKM (SME), serta kenaikan keringanan umum dari RM9.000 menjadi RM12.000.
+  - q: Mulai kapan pembukaan rekening tabungan atau rekening giro dibebaskan dari bea meterai menurut Anggaran 2027?
+    a: Mulai 1 Januari 2027, pembukaan rekening tabungan atau rekening giro sepenuhnya dibebaskan dari bea meterai. Tanggal yang sama juga membawa pemotongan pajak jasa untuk layanan perawatan lansia dari 8% menjadi 6%, serta mulai berlakunya hak kerja bagi pasangan ekspatriat yang memegang pas tanggungan (dependant pass). Tanggal-tanggal ini sesuai dengan yang diumumkan pada 9 Oktober 2026 dan baru berlaku setelah undang-undang serta perintah lembaran negara yang memberlakukannya disahkan.
 ---
 
 Pada 9 Oktober 2026, Perdana Menteri sekaligus Menteri Keuangan Anwar Ibrahim

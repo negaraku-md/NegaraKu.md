@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que intente entender por qué el clima y el riesgo de inundación de Malasia cambian con las estaciones — residentes de zonas costeras, viajeros, planificadores de emergencias, estudiantes de geografía y quien consulta las alertas meteorológicas de MetMalaysia."
 
 lang: "es"
-sourceContentHash: "d977d1d40dd0956b"
+sourceContentHash: "4ffd8f41ebc3ba1f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,13 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
+faq:
+  - q: ¿Por qué la costa este de la Península se inunda mientras la costa oeste permanece seca al mismo tiempo?
+    a: La respuesta está en la geografía. La costa este da directamente al mar de la China Meridional, por lo que nada bloquea los vientos húmedos del monzón del noreste antes de que lleguen a Kelantan, Terengganu, Pahang y Johor. La costa oeste, en cambio, está protegida por la cordillera de Titiwangsa (Banjaran Titiwangsa), que divide la Península de norte a sur; esta cordillera obliga al aire húmedo a ascender y descarga la mayor parte de su lluvia en las laderas orientales antes de llegar al lado occidental.
+  - q: ¿Son todas las inundaciones de Malasia inundaciones monzónicas?
+    a: 'No. Las inundaciones en la costa oeste no siempre son causadas por el monzón del noreste: según el Director General de MetMalaysia, a menudo se originan en sistemas de baja presión independientes, como el que afectó a Perak, Selangor y Perlis en noviembre de 2025. Además, las inundaciones repentinas provocadas por sistemas de drenaje urbano insuficientes son un fenómeno aparte y pueden ocurrir en cualquier momento, independientemente del monzón.'
+  - q: ¿Es el monzón del noreste igual de severo durante todo el periodo de noviembre a marzo?
+    a: No. Los datos oficiales del Consejo de Seguridad Nacional (MKN) para la temporada 2024/2025 muestran que las zonas de mayor riesgo cambian según la fase. En la fase inicial (noviembre–diciembre) se vieron afectados Kelantan, Terengganu, Pahang, Johor, Sarawak y Sabah; en la fase tardía (enero–febrero) el foco se trasladó a Pahang, Johor, Sarawak y Sabah, y Kelantan y Terengganu dejaron de figurar entre las de mayor riesgo. Se espera que toda la temporada registre entre 5 y 7 episodios de lluvias intensas.
 ---
 
 Cada noviembre, antes de mirar las noticias, muchos residentes de Kota Bharu, Kuala Terengganu y Kuantan empiezan a vigilar los niveles de agua de los ríos cercanos a sus casas. No es un hábito nacido de un desastre inesperado — es un calendario previsible que se repite cada año, y su causa es el mismo sistema de vientos estacionales que también determina cuándo la costa oeste de la Península se vuelve seca.

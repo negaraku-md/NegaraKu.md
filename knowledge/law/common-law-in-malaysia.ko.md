@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "말레이시아 법원이 왜 영국 판례법을 인용하는지 이해하고자 하는 모든 사람, 말레이시아 법 체계를 공부하는 법학도, 그리고 특정 분야(토지·가족·이슬람법)가 왜 보통법 상속의 밖에 있는지를 조사하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "0e25f8448644480c"
+sourceContentHash: "88c95c68bb68e3d0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malaysia", "Civil Law Act 1956", "Act 67", "reception of English law", "Section 3 Civil Law Act", "cut-off date common law Malaysia", "Article 160 Federal Constitution", "Torrens system Malaysia"]
+faq:
+  - q: 말레이시아 전역에서 영국 보통법에 단일한 기준일이 있습니까?
+    a: 없습니다. 1956년 민사법(Civil Law Act 1956) 제3조(Section 3)는 세 가지 서로 다른 동결일을 정하고 있습니다. 반도 말레이시아는 1956년 4월 7일, 사바는 1951년 12월 1일, 사라왁은 1949년 12월 12일입니다. 사바와 사라왁의 날짜가 1956년 법보다 앞서는 이유는, 모두를 1956년으로 다시 맞추는 대신, Act 67이 각 지역의 이전 현지 조례가 이미 정해 둔 기준일을 그대로 보존했기 때문입니다.
+  - q: 현대 영국 법원의 판결이 말레이시아 법원을 구속합니까?
+    a: 아닙니다. 1956년 민사법 제3조에 따르면, 해당 기준일 이전에 판결된 영국 판례는 원칙적으로 구속력 있는 보통법이지만, 그 이후에 판결된 것은 설득적 효력만 있을 뿐입니다 — 말레이시아 법원은 그것을 살펴보고, 논의하고, 따르기를 거부할 수 있습니다. 제3조는 또한 보통법과 형평법을 "상황이… 허용하는 한도 내에서만" 적용하므로, 법원은 현지 여건에 맞지 않는 영국 규칙을 배척할 수 있습니다.
+  - q: 영국법이 말레이시아의 토지 소유를 규율합니까?
+    a: 아닙니다. 1956년 민사법 제6조(Section 6)는, 이 법의 어떤 규정도 부동산의 보유, 양도, 담보 또는 상속에 관한 영국법을 도입하지 않는다고 명시합니다. 영국 토지법은 처음부터 의도적으로 배제되었습니다. 대신 말레이시아의 토지는 오스트레일리아에서 유래한 토렌스(Torrens) 제도로 운영되며, 반도 말레이시아에 대해서는 1965년 국가토지법전(National Land Code 1965, Act 56)에 성문화되어 있는데, 여기서는 등기 그 자체가 권원을 창설하고 증명합니다.
 ---
 
 오늘날 계약 분쟁을 판단하는 말레이시아 판사는 여전히 말라야 연방이 존재하기 전에 판결된 영국 판례에 손을 뻗을 수 있습니다. 영국 법원이 여기서 어떤 권위를 가져서가 아니라 — 그렇지 않습니다 — 단 하나의 말레이시아 법령이 1956년에 국내 법원에 영국 보통법을 자신의 것으로 취급하라고 지시하였기 때문입니다.

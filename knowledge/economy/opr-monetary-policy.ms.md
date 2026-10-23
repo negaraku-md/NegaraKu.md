@@ -23,7 +23,7 @@ appliesTo: "Peminjam dengan pinjaman kadar apungan, penyimpan, dan sesiapa yang 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 
 status: "published"
 aiAssisted: true
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malaysia", "Overnight Policy Rate", "kadar dasar semalaman", "Bank Negara interest rate", "BNM MPC"]
+faq:
+  - q: Adakah OPR itu kadar faedah yang sebenarnya saya bayar untuk pinjaman perumahan saya?
+    a: Tidak. OPR ialah kadar yang disasarkan Bank Negara bagi bank meminjam antara satu sama lain secara semalaman — ia tidak dikenakan kepada anda secara langsung. Pinjaman perumahan di Malaysia lazimnya dikira sebagai Kadar Asas (BR) campur margin, dan OPR merupakan penentu terbesar kos dana di sebalik BR itu. Apabila BR berubah, ansuran turut berubah, biasanya dalam tempoh satu hingga dua bulan.
+  - q: Apabila OPR berubah, adakah kadar pinjaman dan kadar deposit bergerak dengan cara yang sama?
+    a: 'Kedua-duanya bergerak ke arah yang sama, tetapi tidak secara simetri. Artikel ini menonjolkan satu ketaksimetrian yang wajar diketahui: kadar pinjaman cenderung naik dengan cepat dan turun dengan perlahan, manakala kadar deposit cenderung sebaliknya, menyesuaikan semula dengan lebih perlahan dan kurang menyeluruh berbanding pinjaman. Ia menggambarkan hal ini sebagai realiti komersial margin bank, bukan satu peraturan.'
+  - q: Adakah keputusan OPR 'tiada perubahan' bermakna Jawatankuasa Dasar Monetari tidak melakukan apa-apa?
+    a: Tidak — keputusan untuk mengekalkan tetap merupakan satu keputusan. Jawatankuasa Dasar Monetari bermesyuarat enam kali setahun mengikut jadual yang diterbitkan, dan rentetan panjang keputusan tiada perubahan mencerminkan pertimbangan bahawa inflasi cukup terkawal sehingga tidak memerlukan pengetatan dan pertumbuhan cukup kukuh sehingga tidak memerlukan sokongan. Kenyataan yang disertakan biasanya memberi isyarat kecenderungan jawatankuasa.
 ---
 
 ## Sekilas pandang

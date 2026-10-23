@@ -64,6 +64,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: Who legally pays the stamp duty on a property transfer in Malaysia — the buyer or the seller?
+    a: The buyer. Under the Third Schedule of the Stamp Act 1949, the buyer, not the seller, is the party legally liable to pay transfer stamp duty. It is charged on the Memorandum of Transfer at the tiered Item 32(a) rate — 1% on the first RM100,000 up to 4% above RM1,000,000 — calculated on whichever is higher, the stated price or LHDN's market valuation.
+  - q: Does a sub-sale (resale) home give the same protections as buying a new project?
+    a: No. A new-project purchase from a licensed developer follows a statutory Schedule G or H Sale and Purchase Agreement under the Housing Development (Control and Licensing) Act 1966, with fixed instalment percentages, a mandated vacant-possession deadline (24 months for landed) and automatic liquidated damages for late delivery. A sub-sale SPA is a private contract with none of that — its timelines and forfeiture terms are privately negotiated, so read it just as closely.
+  - q: Why do buyers often end up paying two sets of legal fees on one purchase?
+    a: Because two separate documents run in parallel, handled on behalf of different clients. One lawyer drafts and stamps the Sale and Purchase Agreement that transfers the property; another — appointed by the bank, sometimes the same firm wearing a second hat — prepares the Loan Agreement and the Charge (Form 16A) that secures the bank's interest. The bank's solicitor protects the bank's charge, not the buyer's deposit, so their roles and fees are distinct.
 ---
 
 Two lawyers usually touch a Malaysian home purchase, and most buyers never notice they're two different people. One drafts and stamps the Sale and Purchase Agreement that moves the property. The other — appointed by the bank, sometimes the same firm — drafts and stamps the loan and the charge that lets the bank seize the property if the loan isn't repaid. Buyers who think of "the lawyer" as a single character in this story tend to be the ones confused later about why two sets of legal fees showed up, or why the keys didn't arrive the day the loan was approved.

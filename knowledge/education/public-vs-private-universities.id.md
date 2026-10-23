@@ -23,7 +23,7 @@ verificationNeeded:
   - "Artikel ini tidak menyatakan jumlah penerimaan program, tingkat kuota, atau angka biaya khusus bagi institusi mana pun — ini berbeda menurut program dan kampus serta berubah pada setiap penerimaan; pastikan langsung dengan e-Panduan UPU (bagi universitas negeri) atau institusi terkait (bagi universitas swasta) sebelum melamar."
   - "Jumlah sebenarnya penyedia IPTS terdaftar terkini tidak dinyatakan di sini karena tabel statistik yang diterbitkan oleh MOHE (Statistik Pendidikan Tinggi) tidak dibuka sepenuhnya untuk artikel ini — untuk angka yang tepat dan terkini, rujuk langsung penerbitan Statistik Pendidikan Tinggi MOHE."
 lang: "id"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: Apakah label IPTA atau IPTS memberi tahu saya apakah suatu gelar akan diakui?
+    a: Tidak. Pengakuan ditentukan program demi program melalui akreditasi oleh Agensi Kelayakan Malaysia (MQA), yang didirikan berdasarkan Undang-Undang Agensi Kelayakan Malaysia 2007 (Act 679), bukan berdasarkan apakah institusinya negeri atau swasta. Bahkan universitas terkenal pun bisa memiliki program yang baru, bersifat sementara, atau belum terakreditasi. Periksa program dan tahun masuk tertentu pada Daftar Kelayakan Malaysia (MQR) sebelum mendaftar di jenis institusi mana pun.
+  - q: Bisakah saya mendaftar ke universitas swasta melalui UPU?
+    a: Tidak. UPU (Unit Pusat Universiti), sistem daring terpusat Kementerian Pendidikan Tinggi, hanya mencakup universitas negeri, institusi MARA, politeknik, dan kolese komunitas. Institusi swasta (IPTS) sepenuhnya berada di luar UPU dan harus didaftar secara langsung; masing-masing menjalankan kantor penerimaannya sendiri, menetapkan syarat masuknya sendiri per program, dan dapat memberikan tawaran dalam hitungan hari, sering kali menerima UEC, A-Level, IB, dan kualifikasi lain di samping SPM dan STPM.
+  - q: Suatu program hanya "terakreditasi sementara" — apakah itu berarti ia tidak terakreditasi?
+    a: Tidak. Berdasarkan Kode Praktik Akreditasi Program MQA, Akreditasi Sementara memastikan bahwa suatu program telah memenuhi persyaratan mutu minimum untuk ditawarkan secara sah, dan itu sendiri merupakan syarat bagi persetujuan Kementerian. Akreditasi Penuh adalah penilaian yang lebih menyeluruh yang dilakukan setelah angkatan pertama menyelesaikan program tersebut. Program yang terakreditasi sementara adalah sah dan dapat ditawarkan secara sah; ia hanya belum menyelesaikan penilaian siklus penuh.
 ---
 
 Dua orang pelajar dengan hasil SPM yang sama dapat berakhir dalam dua sistem

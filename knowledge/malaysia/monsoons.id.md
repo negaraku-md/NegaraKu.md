@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang mencoba memahami mengapa cuaca dan risiko banjir Malaysia berubah mengikuti musim — penduduk kawasan pantai, wisatawan, perencana bencana, pelajar geografi, dan siapa saja yang memeriksa peringatan cuaca MetMalaysia."
 
 lang: "id"
-sourceContentHash: "d977d1d40dd0956b"
+sourceContentHash: "4ffd8f41ebc3ba1f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,13 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
+faq:
+  - q: Mengapa pantai timur Semenanjung banjir sementara pantai barat tetap kering pada waktu yang sama?
+    a: Jawabannya terletak pada geografi. Pantai timur menghadap langsung ke Laut China Selatan, sehingga tidak ada yang menghalangi angin lembap Monsun Timur Laut sebelum mencapai Kelantan, Terengganu, Pahang, dan Johor. Sementara itu, pantai barat terlindung oleh Pegunungan Titiwangsa (Banjaran Titiwangsa) yang membelah Semenanjung dari utara ke selatan; pegunungan ini memaksa udara lembap naik dan menurunkan sebagian besar hujannya di lereng timur sebelum mencapai sisi barat.
+  - q: Apakah semua banjir di Malaysia merupakan banjir monsun?
+    a: Tidak. Banjir di pantai barat tidak selalu disebabkan oleh Monsun Timur Laut — menurut Direktur Jenderal MetMalaysia, hal itu sering bersumber dari sistem tekanan rendah yang terpisah, seperti yang memengaruhi Perak, Selangor, dan Perlis pada November 2025. Selain itu, banjir bandang akibat sistem drainase perkotaan yang tidak memadai merupakan fenomena tersendiri dan dapat terjadi kapan saja tanpa memandang monsun.
+  - q: Apakah Monsun Timur Laut sama parahnya sepanjang November hingga Maret?
+    a: Tidak. Data resmi Dewan Keamanan Nasional (MKN) untuk musim 2024/2025 menunjukkan bahwa kawasan berisiko tertinggi berubah menurut fase. Pada fase awal (November–Desember) Kelantan, Terengganu, Pahang, Johor, Sarawak, dan Sabah terdampak; pada fase akhir (Januari–Februari) fokus beralih ke Pahang, Johor, Sarawak, dan Sabah — Kelantan dan Terengganu tidak lagi terdaftar sebagai berisiko tertinggi. Keseluruhan musim diperkirakan mencatat 5 hingga 7 episode hujan lebat.
 ---
 
 Setiap November, sebelum memeriksa berita, banyak penduduk Kota Bharu, Kuala Terengganu, dan Kuantan mulai memeriksa ketinggian air sungai di dekat rumah mereka. Ini bukan kebiasaan yang timbul dari bencana tak terduga — ia adalah jadwal yang dapat diperkirakan, berulang setiap tahun, dan penyebabnya adalah satu sistem angin musiman yang sama yang juga menentukan kapan pantai barat Semenanjung justru kering.

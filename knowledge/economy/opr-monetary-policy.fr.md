@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Emprunteurs ayant des prêts à taux variable, épargnants, et quiconque cherche à comprendre l'actualité des taux d'intérêt en Malaisie."
 
 lang: "fr"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malasia", "Tasa de Política a un Día", "kadar dasar semalaman", "tasa de interés de Bank Negara", "BNM MPC"]
+faq:
+  - q: Le OPR est-il le taux d'intérêt que je paie réellement sur mon prêt immobilier ?
+    a: Non. Le OPR est le taux que vise Bank Negara pour les prêts au jour le jour que les banques s'accordent entre elles — il ne vous est pas facturé directement. Un prêt immobilier malaisien est généralement exprimé comme le taux de base (BR) majoré d'une marge, et le OPR est le principal déterminant du coût des fonds derrière ce BR. Lorsque le BR évolue, la mensualité évolue, généralement dans un délai d'un à deux mois.
+  - q: Lorsque le OPR change, les taux des prêts et les taux des dépôts évoluent-ils dans le même sens ?
+    a: 'Les deux évoluent dans le même sens, mais pas de façon symétrique. L''article souligne une asymétrie qu''il est utile de connaître : les taux des prêts tendent à monter vite et à baisser lentement, tandis que les taux des dépôts tendent à faire l''inverse, se réajustant plus lentement et moins complètement que les prêts. Il décrit cela comme une réalité commerciale des marges bancaires plutôt que comme une règle.'
+  - q: Une décision de 'statu quo' sur le OPR signifie-t-elle que le Comité de politique monétaire n'a rien fait ?
+    a: 'Non : décider de maintenir le taux reste une décision. Le Comité de politique monétaire se réunit six fois par an selon un calendrier publié, et une longue série de décisions de statu quo traduit l''appréciation selon laquelle l''inflation est suffisamment maîtrisée pour ne pas exiger de resserrement et la croissance suffisamment solide pour ne pas nécessiter de soutien. Le communiqué qui l''accompagne signale généralement l''orientation du comité.'
 ---
 
 ## En un coup d'œil

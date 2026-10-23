@@ -54,6 +54,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
+faq:
+  - q: If the USD/MYR number goes up, has the ringgit got stronger or weaker?
+    a: Weaker. USD/MYR of 4.0944 means one US dollar buys 4.0944 ringgit, so when that number rises each dollar buys more ringgit and the ringgit has weakened. The article calls this inversion the most common misreading. "The ringgit fell" is also meaningless without naming the other currency, since it can weaken against the dollar while strengthening against the yen or the euro at the same time.
+  - q: Is the ringgit still pegged to the US dollar at 3.80?
+    a: No. Malaysia pegged the ringgit at 3.80 to the US dollar in September 1998 during the Asian Financial Crisis, alongside capital controls, and the peg held for nearly seven years. It was removed in 2005, and the ringgit returned to a managed float — market-determined, with Bank Negara Malaysia present only to smooth disorderly movement rather than to defend a particular level. There is no official "correct" level today.
+  - q: Why is the rate my bank or money changer gives me worse than BNM's published rate?
+    a: Because BNM's KL USD/MYR reference rate is a market benchmark computed from the interbank market, used for contracts and valuation — not a retail price. Banks and money changers add their own spread on top, so you will always transact at a worse rate than the reference. The reference rate was 4.0944 as at 24 July 2026, but that is the benchmark, not what a customer actually pays at the counter.
 ---
 
 ## At a glance

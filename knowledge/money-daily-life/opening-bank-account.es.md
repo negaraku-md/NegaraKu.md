@@ -26,7 +26,7 @@ verificationNeeded:
   - "BNM's digital on-boarding / e-KYC policy page returned a 403 on automated fetch at time of writing; its existence and title are confirmed directly from bnm.gov.my search results, but granular eligibility detail should be re-checked directly on bnm.gov.my when accessible."
 
 lang: "es"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: ¿Puedo abrir una cuenta bancaria malasia con un visado de turista?
+    a: No. El pase de visita social de corta duración (turista) no se acepta para una cuenta personal estándar en ningún banco importante. Solo certifica que se le permite visitar el país, sin ningún empleador, institución, domicilio de larga duración ni estatus renovable que el banco pueda verificar, de modo que ninguna de las categorías de documentos que usan los bancos tiene una casilla para él. Se trata de una laguna estructural, y por eso simplemente probar en otro banco rara vez funciona con un pase de turista.
+  - q: ¿Qué documentos necesita realmente un ciudadano malasio para abrir una cuenta?
+    a: Para la mayoría de las cuentas de ahorro o corrientes sencillas, el único documento obligatorio para un ciudadano o residente permanente es el MyKad original. Según los requisitos publicados por CIMB, solo se solicitan pruebas adicionales —como una carta de empleo, un estado de cuenta del EPF, una nómina o estados de cuenta bancarios recientes— en situaciones específicas, como una cuenta de nivel superior o cuando el domicilio que desea registrar difiere del impreso en su MyKad. Los menores necesitan un certificado de nacimiento más el MyKad de un padre o tutor.
+  - q: ¿Por qué los bancos piden documentos distintos según mi tipo de visado?
+    a: Porque los bancos vinculan los documentos justificativos al motivo concreto por el que usted se encuentra en Malasia, que es lo que certifica su pase. Según los requisitos publicados por CIMB, a un extranjero que trabaja con un Pase de Empleo (Employment Pass) se le suele pedir una carta de empleo y una prueba de un salario mensual por encima del umbral del banco (CIMB indica RM10,000); a un titular de un Pase de Estudiante (Student Pass), un carné de estudiante y una carta de matrícula; y a un titular de un Pase de Dependiente (Dependant Pass), un certificado de matrimonio cuando proceda. Todos necesitan un pasaporte y un pase válidos durante al menos seis meses.
 ---
 
 Un ciudadano malasio entra en una sucursal con un MyKad, firma un formulario y

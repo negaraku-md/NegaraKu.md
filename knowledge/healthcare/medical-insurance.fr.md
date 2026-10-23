@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Les salariés qui mettent en balance la couverture médicale de l'employeur et une carte médicale personnelle, et toute personne qui cherche à comprendre ce que signifie « coassurance » avant d'acheter ou de renouveler une police."
 
 lang: "fr"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: Si j'ai une carte médicale, prend-elle en charge les soins dans un hôpital public ?
+    a: Ce n'est pas la vocation d'une carte médicale. Les hôpitaux et cliniques publics de Malaisie, gérés par le ministère de la Santé, sont fortement subventionnés pour les citoyens, que vous déteniez ou non une police d'assurance — les soins sont dispensés dans les deux cas. Une carte médicale est essentiellement un produit d'hospitalisation et de chirurgie pour le système privé, qui existe principalement pour rendre les soins en hôpital privé abordables, et non pour donner accès aux soins en tant que tels.
+  - q: Qu'advient-il de la couverture médicale de mon employeur lorsque je quitte mon emploi ?
+    a: 'La couverture d''Hospitalisation et de Chirurgie collective (Group Hospitalisation and Surgical, GHS) est liée à l''emploi. Si vous démissionnez, êtes licencié ou partez à la retraite, la police prend fin le jour où l''emploi cesse — il n''y a pas de continuation personnelle automatique. En revanche, une carte médicale personnelle autonome est transférable : elle reste la vôtre quel que soit l''employeur tant que les primes sont payées et que la police est renouvelée, c''est pourquoi beaucoup la considèrent comme un filet de sécurité.'
+  - q: Une police médicale « sans ticket modérateur (no co-payment) » est-elle automatiquement meilleure qu'une police avec ticket modérateur ?
+    a: Pas nécessairement — l'article la cite comme une erreur courante. Un plan sans ticket modérateur comporte une prime plus élevée pour les mêmes plafonds de garanties. Avec le ticket modérateur (co-payment), vous acceptez d'emblée de prendre en charge une part déterminée de chaque facture hospitalière admissible en échange d'une prime plus basse. Que ce compromis en vaille la peine dépend de la part d'une facture que vous pourriez assumer vous-même ; consultez la fiche d'information produit (product disclosure sheet) pour connaître le pourcentage, tout plafond éventuel et les traitements exclus.
 ---
 
 Deux salariés entrent dans le même hôpital privé avec le même bras cassé. L'un présente une carte et ressort sans payer un sen à sa sortie. L'autre règle elle-même une partie de la facture, parce que la police qu'elle a souscrite il y a six mois était moins chère précisément pour cette raison.

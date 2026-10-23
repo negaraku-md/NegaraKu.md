@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "064f8073d8ee230f"
+sourceContentHash: "ffa309d9ae04f20d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["buddhism-in-malaysia", "chinese-new-year", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["말레이시아 화인 종교", "말레이시아 도교", "Chinese religion Malaysia", "대백공", "마조 말레이시아", "구황야탄", "민간신앙"]
+faq:
+  - q: 도교와 민간 신앙의 신을 모시는 화인이 인구조사에서 대부분 불교도로 집계되는 이유는 무엇인가요?
+    a: 말레이시아 인구조사에는 "유교, 도교 및 기타 중국 전통 종교"라는 항목이 있지만, 여기에 등록된 인원은 매우 적습니다(대부분 약 0.9%의 "기타 종교"에 포함됩니다). 매일 신과 조상에게 제를 올리는 많은 화인이 조사에서 자신을 불교도로 등록하기 때문에, 민간 신앙과 도교의 실천자는 대부분 "불교 18.7%"라는 수치 안에 숨어 있으며, 그 실제 규모를 반영하는 별도의 공식 집계가 없습니다.
+  - q: 말레이시아에서 도교와 불교는 서로 대립하나요?
+    a: 말레이시아 화인의 일상적 실천에서는 그렇지 않습니다. 많은 가정에게 불교, 도교, 유교 사상, 조상 숭배는 서로 배타적인 선택이 아니라 나란히 행해지는 하나의 실천 체계입니다. 같은 사람이 음력 초하루와 보름에 향을 피우고, 청명(淸明)에 성묘를 하며, 부처님 오신 날(웨삭)에는 사원에 가서 부처를 예배하기도 합니다. 이러한 융합이 바로 화인 민간 신앙의 핵심 특징이며, 그렇기 때문에 불교와 민간 신앙은 명확하게 구분하기 어려운 경우가 많습니다.
+  - q: 투아 펙 콩은 누구이며, 가장 오래된 투아 펙 콩 사당은 어디에 있나요?
+    a: 투아 펙 콩(Tua Pek Kong, 大伯公)은 토착적 색채가 강한 신으로, 말레이시아 전역의 화인 사당에서 널리 숭배됩니다. 가장 오래된 투아 펙 콩 사당은 페낭의 탄중 토콩(Tanjung Tokong)에 있다고 전해지며, 그 신앙은 이후 말레이시아, 싱가포르, 인도네시아 각지로 퍼졌습니다. 말레이어로는 이러한 사당을 tokong이라고 부릅니다. 그 밖의 유명한 사당으로는 말라카의 청운정(Cheng Hoon Teng)과 쿠알라룸푸르의 천후궁(Thean Hou)이 있습니다.
 ---
 
 말레이시아의 어느 화인 사당에 들어가든, 같은 공간 안에서 불·도교·민간 신명이 함께

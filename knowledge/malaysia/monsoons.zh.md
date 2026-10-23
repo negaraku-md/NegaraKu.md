@@ -69,7 +69,14 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: "d977d1d40dd0956b"
+sourceContentHash: "4ffd8f41ebc3ba1f"
+faq:
+  - q: 为什么半岛东海岸发生水灾时,西海岸却同时保持干燥?
+    a: 答案在于地理。东海岸直接面向南中国海,因此在东北季候风的潮湿气流抵达吉兰丹、登嘉楼、彭亨和柔佛之前,没有任何屏障阻挡它。西海岸则受到由北到南贯穿半岛的蒂迪旺沙山脉(Banjaran Titiwangsa)的保护;这道山脉迫使潮湿空气上升,并在气流抵达西侧之前,将大部分雨水降在东坡上。
+  - q: 马来西亚的所有水灾都是季候风水灾吗?
+    a: 不是。西海岸的水灾并不总是由东北季候风引起——据马来西亚气象局(MetMalaysia)总监表示,它往往源自独立的低气压系统,例如2025年11月影响霹雳、雪兰莪和玻璃市的那一次。此外,因城市排水系统不足而造成的突发性水灾(闪电水灾)是另一种独立现象,无论季候风与否,都可能随时发生。
+  - q: 东北季候风在整个11月至3月期间都同样严重吗?
+    a: 不是。国家安全理事会(MKN)针对2024/2025季节的官方数据显示,风险最高的地区会随阶段而变化。在初期阶段(11月至12月),吉兰丹、登嘉楼、彭亨、柔佛、砂拉越和沙巴受到影响;在后期阶段(1月至2月),重点转移到彭亨、柔佛、砂拉越和沙巴——吉兰丹和登嘉楼不再被列为风险最高地区。预计整个季节将录得5至7次强降雨。
 ---
 
 每年11月，在查看新闻之前，哥打巴鲁（Kota Bharu）、瓜拉登嘉楼（Kuala Terengganu）与关丹（Kuantan）的许多居民就已开始查看住家附近的河流水位。这并非源自突发灾难的习惯——而是一份可以预测、年复一年重演的时间表，其成因是同一套季节性风系，也正是它决定了半岛西海岸何时转为干燥。

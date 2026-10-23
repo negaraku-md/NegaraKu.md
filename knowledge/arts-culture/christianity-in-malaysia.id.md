@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "id"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "198b32c117f346a7"
+sourceContentHash: "7bc376bb0aba475a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Christianity in Malaysia", "Malaysian Christians", "Sabah Sarawak Christians", "Catholic Malaysia", "Protestant Malaysia", "Christian Federation of Malaysia"]
+faq:
+  - q: Apakah sebagian besar umat Kristen Malaysia beretnis Tionghoa atau India?
+    a: Tidak — itu kesalahpahaman umum yang diluruskan oleh artikel ini. Berdasarkan komunitas, umat Kristen Malaysia mayoritas adalah Bumiputera (sekitar 59%), yang mencerminkan gereja-gereja pribumi Borneo di kalangan Kadazan-Dusun, Iban, Bidayuh, dan lainnya, dengan minoritas Tionghoa (sekitar 27%) dan India (sekitar 4%) yang terpusat di semenanjung. Lebih dari dua pertiga (sekitar 70%) umat Kristen Malaysia tinggal di Sabah dan Sarawak.
+  - q: Apakah Jumat Agung (Good Friday) merupakan hari libur umum di seluruh Malaysia?
+    a: 'Tidak. Keduanya berbeda dalam jangkauan: Natal adalah hari libur umum secara nasional, sedangkan Jumat Agung hanya merupakan hari libur umum di Sabah dan Sarawak. Hal ini mencerminkan geografi iman tersebut, karena lebih dari dua pertiga umat Kristen Malaysia — dan Sarawak, tempat Kekristenan menjadi agama tunggal terbesar — berada di Malaysia Timur, bukan di semenanjung.'
+  - q: Apa itu Christian Federation of Malaysia, dan badan-badan apa saja yang dihimpunnya?
+    a: 'Christian Federation of Malaysia (Federasi Kristen Malaysia, CFM), yang dibentuk pada 1985, adalah badan payung utama. Badan ini menyatukan tiga aliran Kekristenan Malaysia: Konferensi Para Uskup Katolik (Catholic Bishops'' Conference), Dewan Gereja-Gereja Malaysia (Council of Churches of Malaysia, Protestan arus utama), dan Persekutuan Kristen Evangelikal Nasional (National Evangelical Christian Fellowship). CFM menyatakan mewakili lebih dari 95% gereja di negara ini, banyak di antaranya jemaat berbahasa Melayu di Sabah dan Sarawak.'
 ---
 
 Kisah Kristen Malaysia memiliki dua pusat gravitasi, dan tak satu pun berada di

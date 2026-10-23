@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["agama Hindu Malaysia", "Hinduism in Malaysia", "penganut Hindu Malaysia", "Hindu Tamil Malaysia", "Malaysia Hindu Sangam", "kuil Malaysia"]
+faq:
+  - q: Adakah semua penganut Hindu Malaysia berketurunan Tamil?
+    a: Walaupun majoritinya berketurunan Tamil dari India Selatan, itu bukan keseluruhan kebenarannya. Orang berketurunan Malayali, Telugu dan India Utara, serta golongan daripada komuniti lain, turut menganut agama Hindu; penganut tradisi Malayali juga menyambut perayaan seperti Onam dan Vishu. Tambahan pula, agama dan bangsa bukanlah perkara yang sama — banci penduduk mengukur kedua-duanya secara berasingan.
+  - q: Adakah Thaipusam merupakan cuti umum di peringkat kebangsaan?
+    a: Tidak. Thaipusam bukan cuti di peringkat kebangsaan; ia hanya cuti umum di negeri-negeri yang mewartakannya — Kuala Lumpur, Putrajaya, Selangor, Pulau Pinang, Perak, Negeri Sembilan dan Johor. Kedah pada sesetengah tahun memberikannya sebagai pengisytiharan khas tanpa pewartaan tetap. Sebaliknya, Deepavali ialah cuti umum di setiap negeri dan wilayah persekutuan kecuali Sarawak.
+  - q: Mengapa lebih ramai penganut Hindu tinggal di negeri seperti Negeri Sembilan, Selangor dan Perak?
+    a: Negeri-negeri ini bertepatan dengan bekas kawasan ladang getah dan perlombongan bijih timah — di situlah ramai buruh India menetap pada zaman British. Dalam banci 2020, Negeri Sembilan (~13.1%), Selangor (~10.3%) dan Perak (~9.7%) mencatatkan perkadaran yang lebih tinggi. Kebanyakan mereka ialah keturunan golongan yang datang dari India Selatan untuk kerja ladang di bawah sistem kangani.
 ---
 
 Di mana-mana bandar di Malaysia, sama ada di pinggir sebuah ladang getah lama

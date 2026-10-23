@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang cuba mengetahui peringkat kerajaan mana yang perlu dihu
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: Mengapa rakyat Malaysia tidak boleh mengundi ahli majlis tempatan mereka?
+    a: Pilihan raya kerajaan tempatan telah digantung di seluruh negara melalui Peraturan Darurat (Penggantungan Pilihan Raya Kerajaan Tempatan) (Pindaan) 1965, yang dikeluarkan semasa Konfrontasi dengan Indonesia dan dianggap sebagai langkah sementara. Ia tidak pernah dipulihkan semula. Seksyen 15 Akta Kerajaan Tempatan 1976 kemudiannya menjadikan penggantungan itu kekal, manakala Seksyen 10 memberi kerajaan negeri kuasa untuk melantik ahli majlis sebagai gantinya. Jadi sejak itu ahli majlis dilantik, bukan dipilih.
+  - q: Adakah Kuala Lumpur mempunyai kerajaan negerinya sendiri?
+    a: Tidak. Kuala Lumpur, Putrajaya dan Labuan ialah Wilayah Persekutuan, yang diletakkan di bawah pentadbiran persekutuan secara langsung oleh Senarai Persekutuan (perkara 27) dan bukannya ditadbir oleh sesebuah negeri. Ia tidak mempunyai Raja, Menteri Besar mahupun Dewan Undangan Negeri; KL dan Putrajaya ditadbir melalui Kementerian Wilayah Persekutuan. Hanya 13 buah negeri yang mempunyai Perlembagaan Negeri dan kerajaan mereka sendiri.
+  - q: Jika kerajaan tempatan merupakan perkara Senarai Negeri, mengapa Parlimen membuat undang-undang mengenainya?
+    a: Kerajaan tempatan ialah perkara 4 Senarai Negeri dalam Jadual Kesembilan, yang memberi negeri label perundangan itu. Tetapi Parlimen melaksanakan kuasa itu secara seragam untuk Semenanjung Malaysia melalui Akta Kerajaan Tempatan 1976 (Akta 171), iaitu statut persekutuan yang diterima pakai oleh negeri-negeri di bawah mekanisme keseragaman dalam Perlembagaan. Perkara 95A juga mewujudkan Majlis Negara bagi Kerajaan Tempatan yang keputusannya boleh mengikat negeri. Sabah dan Sarawak pula menggunakan ordinan mereka sendiri yang berasingan.
 ---
 
 Rakyat Malaysia mengundi seorang Ahli Parlimen. Mereka mengundi seorang ahli dewan undangan negeri. Mereka tidak pernah mengundi datuk bandar atau ahli-ahli majlis yang menetapkan cukai taksiran mereka, melesenkan gerai penjaja mereka, atau meluluskan tambahan rumah mereka — kerana pilihan raya itu tidak pernah diadakan di mana-mana pun di Malaysia sejak 1965.

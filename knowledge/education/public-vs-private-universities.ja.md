@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -67,6 +67,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: IPTA（国立）かIPTS（私立）かという区分で、学位が認められるかどうかが分かるのか？
+    a: いいえ。認定（認可）は、その機関が国立か私立かではなく、マレーシア資格機構（MQA）による認証を通じてプログラムごとに決まります。MQAは2007年マレーシア資格機構法（Act 679）に基づいて設立されました。有名な大学であっても、新設の、暫定的な、あるいはまだ認証されていないプログラムを抱えていることがあります。いずれの種類の機関に入学する前も、マレーシア資格登録簿（MQR）で該当プログラムと入学年度を確認してください。
+  - q: UPUを通じて私立大学に出願できるのか？
+    a: いいえ。UPU（Unit Pusat Universiti、大学中央ユニット）は高等教育省の集中型オンラインシステムで、国立大学、MARA系機関、ポリテクニック、コミュニティカレッジのみを対象とします。私立機関（IPTS）は完全にUPUの外にあり、直接出願しなければなりません。各校は独自の入学事務局を運営し、プログラムごとに独自の入学要件を定め、数日以内に合格を出すこともあり、SPMやSTPMに加えてUEC、Aレベル、IBなどの資格も受け入れることが多いです。
+  - q: あるプログラムが「暫定認証」止まりだが、それは認証されていないという意味なのか？
+    a: いいえ。MQAのプログラム認証実施規範のもとで、暫定認証（Provisional Accreditation）は、そのプログラムが合法的に提供されるための最低限の品質要件を満たしていることを確認するものであり、それ自体が省の認可の条件でもあります。本認証（Full Accreditation）は、最初の学年の学生がプログラムを修了した後に行われる、より充実した評価です。暫定認証を受けたプログラムは正規のものであり、合法的に提供できます。ただ全課程を通じた評価をまだ完了していないだけです。
 ---
 
 同じSPMの成績を持つ2人の学生が、まったく異なる2つの制度に進むことがある。1人

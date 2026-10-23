@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아 국민, 영주권자, 생애 첫 주택 매수인, 그리고 외국인 매수인(추가 제한 및 세율 적용 대상)"
 
 lang: "ko"
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -64,6 +64,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: 말레이시아에서 부동산 소유권 이전에 대한 인지세는 법적으로 누가 납부합니까 — 매수인입니까 아니면 매도인입니까?
+    a: 매수인입니다. 1949년 인지세법(Stamp Act 1949) 제3부칙(Third Schedule)에 따라, 이전 인지세를 납부할 법적 의무가 있는 당사자는 매도인이 아니라 매수인입니다. 인지세는 소유권 이전 각서(Memorandum of Transfer)에 대해 제32(a)항의 단계별 세율로 부과됩니다 — 처음 RM100,000에 대해 1%에서 RM1,000,000 초과분에 대해 최대 4%까지 — 신고 가격과 LHDN(내국세입청)의 시장 평가액 중 더 높은 금액을 기준으로 산정됩니다.
+  - q: 서브세일(재판매) 주택도 신규 프로젝트를 구입하는 것과 같은 보호를 받습니까?
+    a: 아니요. 인가받은 개발업자로부터의 신규 프로젝트 구입은 1966년 주택개발(관리 및 면허)법(Housing Development (Control and Licensing) Act 1966)에 따른 법정 부칙 G 또는 H 매매계약을 따르며, 고정된 분할 납부 비율, 의무적인 공실 인도 기한(단독주택은 24개월), 인도 지연 시 자동 손해배상액이 정해져 있습니다. 반면 서브세일 SPA는 그러한 것이 전혀 없는 사적 계약으로, 그 일정과 몰수 조항은 당사자 간에 개별적으로 협상되므로 똑같이 꼼꼼히 읽어야 합니다.
+  - q: 매수인은 왜 한 번의 구입에서 두 세트의 법무 비용을 내게 되는 경우가 많습니까?
+    a: 서로 다른 의뢰인을 대리하여 처리되는 두 개의 별도 문서가 병행으로 진행되기 때문입니다. 한 변호사는 부동산을 이전하는 매매계약을 작성하고 인지를 붙이며, 다른 한 변호사는 — 은행이 선임하며 때로는 같은 법무법인이 두 번째 역할을 맡기도 합니다 — 은행의 이익을 담보하는 대출계약과 저당권 설정(양식 16A)을 준비합니다. 은행 측 변호사는 매수인의 계약금이 아니라 은행의 저당권을 보호하므로, 양측의 역할과 비용은 별개입니다.
 ---
 
 말레이시아의 주택 매수에는 보통 두 명의 변호사가 관여하지만, 대다수 매수인은 그들이 서로 다른 사람이라는 사실을 알아차리지 못합니다. 한 명은 부동산을 이전하는 매매계약을 작성하고 날인합니다. 다른 한 명은 — 은행이 지정하며, 때로는 같은 로펌이 — 대출이 상환되지 않을 경우 은행이 부동산을 압류할 수 있게 하는 대출과 담보권을 작성하고 날인합니다. 「그 변호사」를 이 이야기 속 한 명의 등장인물로만 생각하는 매수인은, 나중에 왜 두 벌의 법률 비용이 청구되었는지, 또는 왜 대출 승인 당일에 열쇠가 오지 않았는지 혼란스러워하는 사람이 되기 쉽습니다.

@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: Can I work or run a business on an MM2H pass?
+    a: Only on the Platinum tier. MOTAC's Platinum page states both business/investment activity and career opportunities as "Permissible," while its Silver, Gold and SEZ/SFZ pages all state them as "Not allowed." MM2H is not a work visa, a citizenship route or permanent residency — it is a renewable long-stay pass. If working or running a business matters, that difference by tier decides which tier, if any, fits your plan.
+  - q: Once MM2H is approved, can I use my fixed deposit freely?
+    a: 'No. MOTAC allows a maximum withdrawal of 50% of the principal fixed deposit after approval, and only for specific purposes: purchasing the required residence, or education, medical treatment or tourism activities in Malaysia. It is a conditional release, not a general-use account. The remaining balance must stay in the Malaysian bank; foreign funds and profit earned on the deposit while it sits there carry a stated tax exemption.'
+  - q: Who actually approves an MM2H application — MOTAC or Immigration?
+    a: Both, in different roles. MOTAC runs the programme and sets each tier's requirements, but final immigration approval, endorsement of the pass and any appeal sit with the Ministry of Home Affairs through the Immigration Department (Jabatan Imigresen Malaysia). Applications are submitted by a licensed MM2H agent via the One Stop Centre. So contact MOTAC for tier-requirement questions and Immigration for approval or endorsement matters — two authorities, two jurisdictions.
 ---
 
 Search "how long does an MM2H Silver pass last" and you can find guides confidently

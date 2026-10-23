@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Warga negara asing yang memiliki tawaran kerja Malaysia, dan siapa saja yang sudah memegang atau memperpanjang Employment Pass di Malaysia."
 
 lang: "id"
-sourceContentHash: "15f43dc5f13f9d7c"
+sourceContentHash: "b4e6702e3d043ad8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "expatriate work visa", "i-Kad", "dependant pass malaysia", "employment pass categories", "ePASS Malaysia"]
+faq:
+  - q: Bisakah saya mengajukan Izin Kerja (Employment Pass) saya sendiri?
+    a: Tidak. Izin Kerja adalah sesuatu yang diajukan oleh pemberi kerja Anda atas nama Anda, melalui akun perusahaannya sendiri dengan Divisi Layanan Ekspatriat (Expatriate Services Division, ESD); perusahaan harus terlebih dahulu terdaftar di ESD, dan permohonan diproses oleh Pusat MYXpats. Anda menyediakan dokumen — paspor, kualifikasi, kontrak kerja — tetapi tidak ada login yang menghadap karyawan, dan Anda tidak dapat mengajukan atau melacak permohonan itu sendiri.
+  - q: Apakah Izin Kerja memungkinkan saya bekerja di mana saja di Malaysia, termasuk Sabah dan Sarawak?
+    a: Tidak. Departemen Imigrasi (Immigration Department) menyatakan bahwa Izin Kerja hanya berlaku di Semenanjung Malaysia. Sabah dan Sarawak menjalankan kontrol imigrasi mereka sendiri di bawah otonomi negara bagian, sehingga penempatan di sana memerlukan izin atau pengesahan tersendiri. Izin Kerja juga hanya mengikat Anda pada perusahaan pensponsor — jika berganti pekerjaan, pemberi kerja baru Anda harus mengajukan permohonan baru dari awal.
+  - q: Bisakah pasangan saya bekerja di Malaysia dengan Izin Tanggungan (Dependant Pass)?
+    a: Bisa, tetapi tidak secara otomatis. Izin Tanggungan itu sendiri tidak membawa hak bekerja, dan pemegang utama harus memiliki Izin Kerja yang sah terlebih dahulu karena permohonan tanggungan bergantung padanya. Menurut FAQ Departemen Imigrasi sendiri, pasangan kemudian dapat bekerja berdasarkan pengesahan untuk bekerja (endorsement for work) dari Departemen Imigrasi, tanpa harus beralih ke Izin Kerja penuh atas namanya sendiri — jalur yang jauh lebih cepat dan lebih murah daripada permohonan Izin Kerja baru.
 ---
 
 Anda memiliki tawaran kerja bertanda tangan di Malaysia. Anda memiliki paspor, ijazah, pengalaman relevan bertahun-tahun. Dan masih tidak ada apa pun yang dapat Anda ajukan secara pribadi.

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Nhà đầu tư, người tìm việc, nhà phân tích chính sách và học sinh sinh viên đang cố đọc chính xác các số liệu thống kê công nghiệp của Malaysia."
 
 lang: "vi"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: Tỷ trọng của ngành chế tạo trong GDP đã giảm từ năm 1999 — điều đó có nghĩa là Malaysia đang phi công nghiệp hóa không?
+    a: Không. Sự sụt giảm từ mức gần 31% năm 1999 kết thúc vào khoảng năm 2010; kể từ đó tỷ trọng này duy trì quanh mức 22–23%, với biên độ dao động trong mười lăm năm chỉ hơn một điểm phần trăm một chút. Đó là giai đoạn chững lại, không phải suy giảm. Sản lượng chế tạo vẫn đang tăng — ngành này mở rộng 4.5% trong năm 2025 — chỉ là nó tăng với tốc độ gần bằng phần còn lại của nền kinh tế.
+  - q: Có đúng là ngành chế tạo tạo việc làm cho 27.5% người Malaysia không?
+    a: Không — đó là một trích dẫn sai phổ biến. Khảo sát Việc làm Hàng quý của DOSM chỉ tính các cơ sở khu vực tư nhân đã đăng ký, 9.21 triệu việc làm trong quý 4 năm 2025, và con số 2.54 triệu của ngành chế tạo chiếm 27.5% của tập con đó. Khảo sát này loại trừ khu vực công, người tự làm chủ và việc làm phi chính thức, nên tỷ trọng của ngành chế tạo trong toàn bộ người có việc làm thực tế thấp hơn đáng kể. Với câu hỏi đó hãy dùng Khảo sát Lực lượng Lao động (Labour Force Survey).
+  - q: Nếu tỷ trọng GDP đi ngang, chẳng phải ngành chế tạo chỉ mắc kẹt làm công việc lắp ráp giá trị thấp sao?
+    a: 'Dữ liệu năng suất cho thấy điều ngược lại. Giá trị gia tăng của ngành chế tạo đạt RM59.0 mỗi giờ làm việc trong năm 2025 so với RM42.0 ở dịch vụ — cao hơn khoảng 40% mỗi giờ, và cao hơn khoảng một phần ba so với mức trung bình quốc gia RM44.5. Tỷ trọng đi ngang một phần là do số học: dịch vụ tăng nhanh hơn (5.4% so với 4.5% của chế tạo), nên tỷ trọng của ngành nhỏ hơn giảm dù sản lượng của nó tăng. Cơ cấu bên trong ngành chế tạo đang dịch chuyển, điều mà tỷ trọng GDP không thể thể hiện.'
 ---
 
 ## Tổng quan nhanh

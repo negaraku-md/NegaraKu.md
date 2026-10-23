@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que trate de entender por qué los tribunales malasios citan jurisprudencia inglesa, los estudiantes de derecho que estudian el sistema jurídico malasio, y cualquiera que investigue por qué ciertos campos (tierra, familia, derecho islámico) quedan fuera de la herencia del common law."
 
 lang: "es"
-sourceContentHash: "0e25f8448644480c"
+sourceContentHash: "88c95c68bb68e3d0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malasia", "common law Malaysia", "Civil Law Act 1956", "Act 67", "recepción del derecho inglés", "fecha límite common law Malasia", "Artículo 160 Constitución Federal", "sistema Torrens Malasia"]
+faq:
+  - q: ¿Existe una única fecha de corte para el common law inglés en toda Malasia?
+    a: 'No. El artículo 3 (Section 3) de la Ley de Derecho Civil de 1956 (Civil Law Act 1956) fija tres fechas de congelación distintas: el 7 de abril de 1956 para la Malasia Peninsular, el 1 de diciembre de 1951 para Sabah y el 12 de diciembre de 1949 para Sarawak. Las fechas de Sabah y de Sarawak son anteriores a la Ley de 1956 porque la Act 67 conservó las fechas de corte que ya habían fijado sus anteriores ordenanzas locales, en lugar de reajustarlas todas a 1956.'
+  - q: ¿Son vinculantes las decisiones de los tribunales ingleses modernos para los tribunales malasios?
+    a: 'No. Conforme al artículo 3 de la Ley de Derecho Civil de 1956, un caso inglés resuelto antes de la fecha de corte pertinente es, en principio, common law vinculante, pero uno resuelto después solo es persuasivo: un tribunal malasio puede examinarlo, discutirlo y negarse a seguirlo. El artículo 3 también aplica el common law y la equidad solo "en la medida en que las circunstancias... lo permitan", de modo que los tribunales pueden rechazar reglas inglesas que no se ajusten a las condiciones locales.'
+  - q: ¿Rige el derecho inglés la propiedad de la tierra en Malasia?
+    a: No. El artículo 6 (Section 6) de la Ley de Derecho Civil de 1956 establece que nada en la Ley introduce derecho inglés relativo a la tenencia, transmisión, garantía o sucesión de bienes inmuebles. El derecho inmobiliario inglés quedó deliberadamente excluido desde el primer día. En cambio, la tierra en Malasia se rige por el sistema Torrens de origen australiano, codificado para la Malasia Peninsular en el Código Nacional de la Tierra de 1965 (National Land Code 1965, Act 56), donde la propia inscripción crea y prueba el título.
 ---
 
 Un juez malasio que resuelve hoy una disputa contractual todavía puede recurrir a un caso inglés decidido antes de que existiera la Federación de Malaya. No porque los tribunales ingleses tengan autoridad alguna aquí — no la tienen — sino porque un único estatuto malasio ordenó a los tribunales locales, en 1956, tratar el common law inglés como propio.

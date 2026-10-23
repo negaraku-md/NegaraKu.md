@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona expuesta al tipo de cambio: importadores, exportadores, viajeros, estudiantes en el extranjero e inversores."
 
 lang: "es"
-sourceContentHash: "5c03f2bbac4e0dca"
+sourceContentHash: "a0d224345b9024d5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -55,6 +55,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
+faq:
+  - q: Si el número USD/MYR sube, ¿el ringgit se ha fortalecido o debilitado?
+    a: Debilitado. Un USD/MYR de 4.0944 significa que un dólar estadounidense compra 4.0944 ringgit, de modo que cuando ese número sube cada dólar compra más ringgit y el ringgit se ha debilitado. El artículo llama a esta inversión la lectura errónea más común. "El ringgit cayó" también carece de sentido sin nombrar la otra moneda, ya que puede debilitarse frente al dólar mientras se fortalece frente al yen o al euro al mismo tiempo.
+  - q: ¿Sigue el ringgit anclado al dólar estadounidense a 3.80?
+    a: No. Malasia ancló el ringgit a 3.80 por dólar estadounidense en septiembre de 1998 durante la Crisis Financiera Asiática, junto con controles de capital, y el anclaje se mantuvo durante casi siete años. Se eliminó en 2005, y el ringgit volvió a una flotación administrada — determinada por el mercado, con el Banco Negara Malaysia (BNM) presente solo para suavizar movimientos desordenados y no para defender un nivel determinado. Hoy no existe un nivel "correcto" oficial.
+  - q: ¿Por qué la tasa que me da mi banco o mi casa de cambio es peor que la tasa publicada por el BNM?
+    a: Porque la tasa de referencia USD/MYR de KL del BNM es un punto de referencia de mercado calculado a partir del mercado interbancario, usado para contratos y valoración — no es un precio minorista. Los bancos y las casas de cambio añaden su propio diferencial (spread) por encima, de modo que siempre operarás a una tasa peor que la de referencia. La tasa de referencia era 4.0944 al 24 de julio de 2026, pero eso es el punto de referencia, no lo que un cliente paga realmente en el mostrador.
 ---
 
 ## De un vistazo

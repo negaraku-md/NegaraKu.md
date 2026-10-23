@@ -36,7 +36,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 sources:
   - title: "1949年印紙税法附表1の対象となる証書に対する印紙税賦課ガイドライン（LHDN.AG.600-1/10/3）— セクションC、不動産の所有権移転証書に対する印紙税の賦課 (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: マレーシアで不動産の所有権移転にかかる印紙税を法的に支払うのは、買主と売主のどちらですか。
+    a: 買主です。1949年印紙税法（Stamp Act 1949）の第3附則により、移転印紙税を支払う法的義務を負うのは売主ではなく買主です。印紙税は所有権移転覚書（Memorandum of Transfer）に対し、項目32(a)の段階税率で課されます——最初のRM100,000に1%から、RM1,000,000超で最大4%まで——申告価格とLHDN（内国歳入庁）の市場評価額のいずれか高い方を基準に計算されます。
+  - q: サブセール（中古・転売）の住宅は、新規プロジェクトの購入と同じ保護を受けられますか。
+    a: いいえ。認可を受けた開発業者からの新規プロジェクト購入は、1966年住宅開発（管理及び免許）法（Housing Development (Control and Licensing) Act 1966）に基づく法定の附則Gまたは附則Hの売買契約に従い、分割支払の割合が固定され、空き渡し（vacant possession）の期限が義務付けられ（土地付き住宅は24か月）、引渡し遅延には自動的に損害賠償額が定められています。一方、サブセールのSPAはそうしたものが一切ない私的契約であり、その期日や没収条項は当事者間で個別に交渉されるため、同じくらい入念に読む必要があります。
+  - q: 買主が一度の購入でなぜ二組の弁護士費用を支払うことが多いのですか。
+    a: 二つの別個の書類が、それぞれ異なる依頼者のために並行して進められるからです。一人の弁護士が不動産を移転する売買契約を作成・押印し、もう一人——銀行に選任され、時には同じ事務所が二つ目の役割を担う——が、銀行の権益を担保するローン契約と担保権設定（第16A様式）を準備します。銀行の弁護士は買主の手付金ではなく銀行の担保権を守るため、両者の役割と費用は別個のものです。
 ---
 
 マレーシアの住宅購入には通常二人の弁護士が関わるが、大半の買主はその二人が別々の人物であることに気づきさえしない。一人は物件を移転させる売買契約（Sale and Purchase Agreement、SPA）を起草し、印紙を貼る。もう一人は——銀行に選任され、時には同じ事務所が——貸付金と担保（charge）を起草して印紙を貼る。この担保こそ、貸付が返済されないときに銀行が物件を差し押さえられるようにする文書である。「弁護士」をこの物語の一人の登場人物だと思い込む買主は、後になって、なぜ二組の弁護士費用が現れたのか、あるいはなぜ貸付が承認された日に鍵が届かなかったのか、と戸惑うことになりがちだ。

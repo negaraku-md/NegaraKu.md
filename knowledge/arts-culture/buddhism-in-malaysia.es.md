@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "288705196583cc87"
+sourceContentHash: "48f4e6165d3f9202"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["wesak", "chinese-religion-in-malaysia", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["budismo Malasia", "Buddhism in Malaysia", "budismo mahayana Malasia", "budismo theravada Malasia", "Wesak", "Kek Lok Si"]
+faq:
+  - q: ¿Son todos budistas en sentido estricto ese 18,7% de budistas del censo?
+    a: No. La cifra de 'budismo' del censo de 2020 se superpone en gran medida con la religión popular china. Muchos chinos, en su vida cotidiana, veneran a Buda, rinden culto a las deidades y honran a los antepasados al mismo tiempo, y en el censo se registran como budistas. Por eso ese 18,7% incluye tanto a budistas en sentido estricto como a numerosos practicantes de la religión popular que combinan budismo, taoísmo, confucianismo y culto a los antepasados, lo cual es precisamente la razón por la que las cifras del censo se solapan entre sí.
+  - q: ¿Es correcta la afirmación de que 'el budismo en Malasia es la religión de los chinos'?
+    a: 'No es exacta. Los chinos son, en efecto, el grueso de los fieles, en su mayoría del budismo mahayana; pero las comunidades de origen siamés, cingalés y birmano siguen un linaje independiente y distinto: el budismo theravada, cuyos templos se llaman Wat, siendo las comunidades siamesas de los estados del norte las de historia más antigua. Existe además un vajrayana de menor tamaño. Equiparar el budismo de Malasia con la religión de los chinos ignora estas tradiciones paralelas.'
+  - q: ¿Qué conmemora el Wesak? ¿Es un día festivo?
+    a: El Wesak (Día de Wesak) conmemora el nacimiento, la iluminación y el paso al nirvana de Buda, y es un día festivo de ámbito nacional en Malasia. Los fieles acuden a los templos para ofrecer flores, encender lámparas y dar limosna. La libertad religiosa está protegida por el Artículo 11 de la Constitución Federal; aunque el Artículo 3 establece el islam como religión de la Federación, no impide que otras religiones se practiquen en paz.
 ---
 
 En las laderas de Penang, la silueta de las pagodas del templo Kek Lok Si domina

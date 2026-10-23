@@ -77,6 +77,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: Apa bezanya Rancangan Malaysia dengan Belanjawan tahunan?
+    a: Rancangan Malaysia menetapkan, Belanjawan melaksanakan. RMK ialah pelan jangka sederhana lima tahun yang menetapkan teras, keutamaan dan sasaran keberhasilan — bukan berapa ringgit boleh dibelanjakan sesebuah kementerian pada tahun tertentu. Angka tahunan itu barulah muncul apabila Menteri Kewangan membentangkan Belanjawan Persekutuan setiap Oktober/November, melalui Anggaran Perbelanjaan Pembangunan yang menterjemah potongan RMK bagi tahun berkenaan.
+  - q: Adakah Rancangan Malaysia diluluskan sebagai undang-undang seperti Belanjawan?
+    a: Tidak. Rancangan Malaysia dibentangkan dan diluluskan sebagai usul dasar untuk perbahasan Parlimen, bukan sebagai rang undang-undang. Belanjawan pula mesti melalui Rang Undang-Undang Perbekalan yang perlu menempuh proses perundangan penuh sebelum diwartakan sebagai Akta Perbekalan. RMK13 umpamanya dibentangkan sebagai usul di Dewan Rakyat pada 31 Julai 2025 dan di Dewan Negara pada 25 Ogos 2025.
+  - q: Adakah keseluruhan RM611 bilion RMK13 datang daripada wang Kerajaan?
+    a: Tidak. Daripada sekurang-kurangnya RM611 bilion pelaburan RMK13, hanya RM430 bilion merupakan peruntukan pembangunan Kerajaan. Selebihnya datang daripada RM120 bilion pelaburan langsung domestik oleh Syarikat Berkaitan Kerajaan (GLC) dan Syarikat Pelaburan Berkaitan Kerajaan (GLIC), serta RM61 bilion melalui kaedah perkongsian awam-swasta (PPP).
 ---
 
 Pada 31 Julai 2025, Perdana Menteri membentangkan di Dewan Rakyat satu usul

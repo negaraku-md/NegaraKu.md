@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Étudiants, analystes des politiques publiques, journalistes et toute personne souhaitant comprendre comment le développement national est planifié au-delà d'un seul exercice financier."
 
 lang: "fr"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: Quelle est la différence entre un Plan de la Malaisie et le Budget annuel ?
+    a: Le Plan de la Malaisie fixe le cap, le Budget l'exécute. Le Plan de la Malaisie (RMK) est un plan à moyen terme sur cinq ans qui définit les axes, les priorités et les cibles de résultats — et non le nombre de ringgits qu'un ministère donné peut dépenser une année donnée. Ces montants annuels n'apparaissent que lorsque le ministre des Finances présente le Budget fédéral chaque octobre/novembre, au moyen des Prévisions de dépenses de développement qui traduisent la part du RMK pour l'année concernée.
+  - q: Le Plan de la Malaisie est-il adopté en tant que loi, comme le Budget ?
+    a: Non. Le Plan de la Malaisie est présenté et adopté sous forme de motion de politique soumise au débat parlementaire, et non sous forme de projet de loi. Le Budget, en revanche, doit passer par un projet de loi de finances (Supply Bill) qui suit l'ensemble du processus législatif avant d'être promulgué en loi de finances (Supply Act). Le 13e Plan de la Malaisie (RMK13), par exemple, a été présenté sous forme de motion à la Chambre des représentants (Dewan Rakyat) le 31 juillet 2025 et au Sénat (Dewan Negara) le 25 août 2025.
+  - q: La totalité des 611 milliards de RM du RMK13 provient-elle de l'argent de l'État ?
+    a: Non. Sur les quelque 611 milliards de RM d'investissement du RMK13, seuls 430 milliards de RM constituent l'allocation de développement de l'État. Le reste provient de 120 milliards de RM d'investissement direct national réalisé par les sociétés liées à l'État (GLC) et les sociétés d'investissement liées à l'État (GLIC), ainsi que de 61 milliards de RM via le mécanisme de partenariat public-privé (PPP).
 ---
 
 Le 31 juillet 2025, le Premier ministre a présenté devant la Chambre des

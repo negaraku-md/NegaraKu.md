@@ -26,7 +26,7 @@ verificationNeeded:
   - "Les chiffres spécifiques de revenu, de dépôt et de durée de MM2H par niveau devraient être confirmés directement sur le portail officiel MM2H (mm2h.gov.my) au moment de la demande, puisque le portail bloque la récupération automatisée et que ses niveaux ont été restructurés plus d'une fois ces dernières années."
 
 lang: "fr"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: Que dois-je régler en premier en m'installant en Malaisie ?
+    a: 'Votre permis d''immigration, avant de réserver quoi que ce soit. Presque toutes les démarches ultérieures vérifient le permis que vous détenez, et non votre passeport. Après l''entrée, l''ordre pratique est le suivant : d''abord un logement temporaire, puis un compte bancaire (qui nécessite le permis ainsi qu''une adresse malaisienne), puis l''enregistrement de la carte SIM (qui dépend lui aussi du permis et d''une adresse locale), puis la conversion du permis de conduire si vous comptez conduire. Essayer d''ouvrir un compte bancaire avant la délivrance du permis est la façon la plus courante dont les nouveaux arrivants perdent une semaine.'
+  - q: Puis-je entrer avec un permis de touriste et le convertir plus tard en permis de travail ou de séjour de longue durée ?
+    a: Dans la plupart des cas, non. Un permis de visite sociale de courte durée (touristique) standard atteste seulement que vous êtes autorisé à visiter et ne se convertit pas en statut de travail ou de séjour de longue durée depuis l'intérieur de la Malaisie. Si le projet est de travailler, d'être parrainé par la famille ou d'un séjour de longue durée autofinancé, la demande de permis doit en général être réglée, ou du moins bien avancée, avant le déménagement, et non traitée comme une démarche de la première semaine après l'atterrissage.
+  - q: Qu'est-ce que la carte d'arrivée numérique de Malaisie, et a-t-elle un coût ?
+    a: La carte d'arrivée numérique de Malaisie (MDAC) est un enregistrement d'entrée gratuit que la plupart des arrivants étrangers doivent remplir en ligne avant d'atterrir, soumis uniquement via le portail officiel du Département de l'immigration lui-même. Ce n'est pas un visa et elle ne remplace aucun permis ou visa que vous détenez déjà. Le Département insiste sur sa gratuité parce que des sites imitateurs non officiels ont facturé aux voyageurs un formulaire qui ne coûte rien à la source.
 ---
 
 La plupart des personnes qui planifient un déménagement en Malaisie commencent par la

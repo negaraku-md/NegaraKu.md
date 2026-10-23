@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "vi"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "288705196583cc87"
+sourceContentHash: "48f4e6165d3f9202"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["wesak", "chinese-religion-in-malaysia", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Phật giáo tại Malaysia", "Buddhism in Malaysia", "Phật giáo Đại thừa Malaysia", "Phật giáo Thượng tọa bộ Malaysia", "lễ Vesak", "chùa Cực Lạc"]
+faq:
+  - q: 18,7% tín đồ Phật giáo trong cuộc điều tra dân số có phải đều là Phật tử theo nghĩa nghiêm ngặt không?
+    a: Không. Con số 'Phật giáo' trong cuộc điều tra dân số năm 2020 chồng lấn rất nhiều với tín ngưỡng dân gian của người Hoa. Nhiều người Hoa trong đời sống hằng ngày vừa lễ Phật, vừa thờ thần, vừa cúng tổ tiên cùng một lúc, và khi điều tra thì tự đăng ký là Phật tử. Vì vậy, 18,7% này bao gồm cả Phật tử theo nghĩa nghiêm ngặt lẫn nhiều người thực hành tín ngưỡng dân gian pha trộn Phật giáo, Đạo giáo, Nho giáo và thờ cúng tổ tiên — đây chính là lý do các con số điều tra chồng lấn lên nhau.
+  - q: Câu nói 'Phật giáo Malaysia chính là tôn giáo của người Hoa' có đúng không?
+    a: Không chính xác. Người Hoa quả thực là bộ phận tín đồ chủ yếu, phần lớn theo Phật giáo Đại thừa; nhưng các cộng đồng gốc Xiêm, Sri Lanka và Miến Điện lại theo một dòng mạch độc lập riêng biệt — Phật giáo Thượng tọa bộ (Theravada), với các ngôi chùa gọi là Wat, trong đó cộng đồng người Xiêm ở các bang phía bắc có lịch sử lâu đời nhất. Ngoài ra còn có Kim Cương thừa với quy mô nhỏ hơn. Đánh đồng Phật giáo Malaysia với tôn giáo của người Hoa là bỏ qua những truyền thống song song này.
+  - q: Lễ Wesak kỷ niệm điều gì? Đó có phải là ngày nghỉ lễ công cộng không?
+    a: Wesak (Ngày Wesak) kỷ niệm sự đản sinh, thành đạo và nhập niết bàn của Đức Phật, và là ngày nghỉ lễ công cộng trên toàn quốc tại Malaysia. Tín đồ đến chùa dâng hoa, thắp đèn và bố thí. Tự do tôn giáo được bảo vệ bởi Điều 11 của Hiến pháp Liên bang; tuy Điều 3 quy định Hồi giáo là tôn giáo của Liên bang, nhưng điều đó không ngăn cản các tôn giáo khác được thực hành trong hòa bình.
 ---
 
 Trên những sườn đồi ở Penang, bóng tháp của chùa Cực Lạc (Kek Lok Si) trông

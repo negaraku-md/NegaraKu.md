@@ -64,6 +64,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: If I have a medical card, does it pay for treatment at a government hospital?
+    a: That is not what a medical card is for. Malaysia's public hospitals and clinics, run by the Ministry of Health, are heavily subsidised for citizens regardless of whether you hold a policy — treatment happens either way. A medical card is essentially a hospitalisation and surgical product for the private system, existing mainly to make private hospital treatment affordable, not to grant access to care at all.
+  - q: What happens to my employer's medical cover when I leave the job?
+    a: 'Group Hospitalisation and Surgical (GHS) cover is tied to the job. If you resign, are retrenched, or retire, the policy stops the day employment does — there is no automatic personal continuation. A standalone personal medical card, by contrast, is portable: it stays yours regardless of employer as long as premiums are paid and the policy is renewed, which is why many people treat one as a backstop.'
+  - q: Is a 'no co-payment' medical policy automatically better than one with co-payment?
+    a: Not necessarily — the article lists this as a common mistake. A no-co-payment plan carries a higher premium for the same benefit limits. Under co-payment, you agree upfront to bear a defined share of each eligible hospital bill in exchange for a lower premium. Whether that trade-off is worth it depends on how much of a bill you could absorb yourself; check the product disclosure sheet for the percentage, any cap, and exempted treatments.
 ---
 
 Two employees walk into the same private hospital with the same broken arm. One hands over a card and walks out without paying a sen at discharge. The other pays a slice of the bill themselves, because the policy she bought six months ago was cheaper for exactly that reason.

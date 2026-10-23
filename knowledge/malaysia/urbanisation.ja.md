@@ -23,7 +23,7 @@ appliesTo: "マレーシアの人口、労働力または不動産の統計を�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0362cd9a8f8b4f6a"
+sourceContentHash: "7490bc9be18b1f7b"
 
 status: "published"
 aiAssisted: true
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor", "unemployment-labour-force", "choosing-a-business-location-malaysia"]
 keywords: ["Malaysia urbanisation rate", "kadar pembandaran Malaysia", "DOSM urban area definition", "Klang Valley population", "Malaysia rural urban migration", "urban population Malaysia 2020"]
+faq:
+  - q: マレーシアの統計で「都市(urban)」とは大都市を意味しますか?
+    a: いいえ。マレーシア統計局(DOSM)の2020年国勢調査の方法論では、「都市」は規模ではなく人口に基づく基準です。すなわち、官報告示された地域とそれに隣接する市街地を合わせた人口が10,000人以上であり、その市街地の15歳以上の住民の少なくとも60%が農業以外に従事していることが条件です。生鮮市場(ウェットマーケット)のある人口10,000人の町も、プタリンジャヤ(Petaling Jaya)とまったく同じように該当するため、「都市人口」は「大都市に住む人々」と同じではありません。
+  - q: マレーシアの都市化は、いまも人々が村から都市へ移動することによって牽引されているのですか?
+    a: おおむねそうではありません——その傾向はほぼ終わっています。DOSMの「2024年マレーシア移住調査報告書」によれば、州内移動の84.6%が都市から都市への移動であり、農村から都市への移動はわずか0.6%でした。移動する人の多くはすでに都市の住民で、別の都市地域へ移り住んでいます。国の都市化率がおよそ4分の3を超えると、その後の変化は主に自然増加、境界の再分類、都市間の移動によるものであり、村が空になることによるものではありません。
+  - q: マレーシアの都市成長の大部分はどこに集中しましたか?
+    a: クランバレー(Klang Valley)です。2020年国勢調査では、隣接する4つの地区——クアラルンプール(1,982,112)、プタリン(2,298,130)、ウルランガット(1,400,461)、クラン(1,088,942)——が合わせて約677万人を抱え、3,240万人という全国人口の5分の1以上を占めました。セランゴールは現在、6,994,423人で最も人口の多い州であり、都市化率は95.8%です。一方、ケランタンは44.1%で最も都市化が進んでいない州です。
 ---
 
 ## マレーシア人の4人に3人は、DOSMが「都市」と呼ぶ場所に暮らしている

@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "fr"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["hindouisme en Malaisie", "Hinduism in Malaysia", "hindous malaisiens", "Tamouls hindous Malaisie", "Malaysia Hindu Sangam", "temples Malaisie"]
+faq:
+  - q: Tous les hindous de Malaisie sont-ils d'origine tamoule ?
+    a: Bien que la majorité soit d'origine tamoule du sud de l'Inde, ce n'est pas toute la vérité. Des personnes d'origine malayali, télougoue et nord-indienne, ainsi que des membres d'autres communautés, pratiquent aussi l'hindouisme ; celles de tradition malayali célèbrent en outre des fêtes comme Onam et Vishu. De plus, religion et appartenance ethnique ne sont pas une même chose — le recensement mesure les deux séparément.
+  - q: Thaipusam est-il un jour férié à l'échelle nationale ?
+    a: Non. Thaipusam n'est pas férié au niveau national ; il n'est jour férié public que dans les États qui le publient au journal officiel — Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan et Johor. Certaines années, le Kedah l'accorde sous la forme d'une déclaration spéciale, sans publication officielle permanente. À l'inverse, Deepavali est un jour férié public dans chaque État et territoire fédéral, à l'exception du Sarawak.
+  - q: Pourquoi davantage d'hindous vivent-ils dans des États comme Negeri Sembilan, Selangor et Perak ?
+    a: Ces États correspondent aux anciennes zones de plantations d'hévéas et de mines d'étain — là où de nombreux travailleurs indiens se sont installés à l'époque britannique. Lors du recensement de 2020, Negeri Sembilan (~13,1 %), Selangor (~10,3 %) et Perak (~9,7 %) affichaient les proportions les plus élevées. La plupart sont les descendants de ceux qui sont venus du sud de l'Inde pour le travail des plantations sous le système kangani.
 ---
 
 Dans n'importe quelle ville de Malaisie, en lisière d'une ancienne plantation

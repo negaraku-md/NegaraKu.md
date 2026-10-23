@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Dutch Melaka", "VOC Malacca", "Dutch East India Company Malacca", "Batavia versus Melaka", "Anglo-Dutch Treaty 1824", "A Famosa demolition", "Stadthuys Melaka", "Kew Letters 1795", "Straits Settlements history"]
+faq:
+  - q: Did the Dutch capture Melaka from the Portuguese on their own?
+    a: No. The VOC took Melaka alongside the Johor Sultanate, which had its own long score to settle with the Portuguese and supplied the land forces and local knowledge. Arkib Negara Malaysia's account states the fortress was defeated by the Dutch united with Johor after a seven-month siege from sea and land. When it fell in 1641, the Dutch found 68 cannons and 74 rifles the Portuguese had defended it with.
+  - q: Why didn't the Dutch develop Melaka into a rich trading port?
+    a: Because the VOC already had a purpose-built regional capital at Batavia (Jakarta), established well before 1641, and never intended Melaka to compete with its own headquarters. The company's priority was denying the port and its strait to rival European powers, not building a rival entrepôt. Tin quotas were rerouted to Batavia, Melaka's governors were refused more trading latitude, and the port was kept a subordinate garrison and administrative town.
+  - q: Did Melaka pass from the Dutch to the British in one clean handover?
+    a: No. It changed hands administratively four times in thirty years. Britain occupied Melaka in 1795 under the Kew Letters to keep it from France, Melaka was restored to the Dutch in 1818, the Anglo-Dutch Treaty of 1824 (signed 17 March 1824) permanently ceded it to Britain in exchange for Bencoolen in Sumatra, and the actual transfer took effect on 1 March 1825.
 ---
 
 A company spends seven months and an alliance with a foreign sultanate to conquer a port. Then it spends the next century and a half making sure that port never gets rich.

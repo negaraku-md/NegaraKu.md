@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang terpapar nilai tukar — pengimpor, pengekspor, wisatawan, pelajar di luar negeri, dan investor."
 
 lang: "id"
-sourceContentHash: "5c03f2bbac4e0dca"
+sourceContentHash: "a0d224345b9024d5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -55,6 +55,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
+faq:
+  - q: Jika angka USD/MYR naik, apakah ringgit menjadi lebih kuat atau lebih lemah?
+    a: Lebih lemah. USD/MYR 4.0944 berarti satu dolar AS membeli 4.0944 ringgit, jadi ketika angka itu naik setiap dolar membeli lebih banyak ringgit dan ringgit telah melemah. Artikel ini menyebut pembalikan ini sebagai salah baca yang paling umum. "Ringgit jatuh" juga tidak bermakna tanpa menyebut mata uang yang satunya, karena ringgit bisa melemah terhadap dolar sambil menguat terhadap yen atau euro pada saat yang sama.
+  - q: Apakah ringgit masih dipatok ke dolar AS pada 3.80?
+    a: Tidak. Malaysia mematok ringgit pada 3.80 terhadap dolar AS pada September 1998 selama Krisis Keuangan Asia, bersama kontrol modal, dan patokan itu bertahan hampir tujuh tahun. Patokan dicabut pada 2005, dan ringgit kembali ke mengambang terkelola — ditentukan pasar, dengan Bank Negara Malaysia hadir hanya untuk meredam pergerakan yang tidak tertib, bukan untuk mempertahankan suatu tingkat tertentu. Tidak ada tingkat "benar" yang resmi hari ini.
+  - q: Mengapa kurs yang diberikan bank atau penukar uang saya lebih buruk daripada kurs yang diterbitkan BNM?
+    a: Karena kurs rujukan USD/MYR KL dari BNM adalah tolok ukur pasar yang dihitung dari pasar antarbank, digunakan untuk kontrak dan penilaian — bukan harga eceran. Bank dan penukar uang menambahkan spread mereka sendiri di atasnya, sehingga Anda akan selalu bertransaksi pada kurs yang lebih buruk daripada kurs rujukan. Kurs rujukan adalah 4.0944 per 24 Juli 2026, tetapi itu tolok ukur, bukan yang sebenarnya dibayar pelanggan di konter.
 ---
 
 ## Sekilas pandang

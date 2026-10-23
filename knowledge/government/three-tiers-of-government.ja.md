@@ -23,7 +23,7 @@ appliesTo: "マレーシアで特定の問題についてどの政府レベル�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: なぜマレーシア国民は地方議会議員を選挙で選べないのですか?
+    a: 地方自治体選挙は、インドネシアとの対決（Confrontation）の際に発令され、一時的な措置とされた1965年非常事態（地方自治体選挙停止）（改正）規則によって全国的に停止されました。その後、一度も復活していません。後に1976年地方自治体法（Local Government Act 1976）第15条がこの停止を恒久化し、第10条は代わりに議員を任命する権限を州政府に与えました。そのため、それ以来、議員は選挙ではなく任命されてきました。
+  - q: クアラルンプールには独自の州政府がありますか?
+    a: いいえ。クアラルンプール、プトラジャヤ、ラブアンは連邦直轄領であり、州によって統治されるのではなく、連邦リスト（第27項）によって連邦の直接統治下に置かれています。これらには統治者（Ruler）、ムンテリ・ブサール（Menteri Besar）、州議会がなく、クアラルンプールとプトラジャヤは連邦直轄領省を通じて管理されています。独自の州憲法と政府を持つのは13の州だけです。
+  - q: 地方自治が州リストの事項であるなら、なぜ議会がそれを立法するのですか?
+    a: 地方自治は第九附則（Ninth Schedule）の州リスト第4項であり、州に立法上の名目を与えています。しかし議会は、憲法の統一化メカニズムの下で各州が採用した連邦法である1976年地方自治体法（171号法）を通じて、マレー半島に対してその権限を一律に行使しています。第95A条はまた、その決定が州を拘束しうる地方自治体全国評議会（National Council for Local Government）を設けています。サバとサラワクは、代わりに独自の別個の条例（ordinance）を用いています。
 ---
 
 マレーシア人は国会議員に投票する。彼らは州議会議員に投票する。しかし、彼らは自分の資産税を決定し、自分の小販の屋台に許可を与え、自宅の増築を承認する市長や議員に投票したことは一度もない——なぜなら、その選挙はマレーシアのどこにおいても1965年以来一度も行われていないからである。

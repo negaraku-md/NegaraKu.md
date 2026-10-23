@@ -37,7 +37,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 sources:
   - title: "关于须受《1949年印花税法令》附表一约束的文书征收印花税的指南（LHDN.AG.600-1/10/3）— 第C节，不动产转让文书的印花税征收 (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
@@ -64,6 +64,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: 在马来西亚，产业转名的印花税在法律上由谁缴纳——买方还是卖方？
+    a: 买方。根据《1949年印花税法令》（Stamp Act 1949）第三附表，在法律上有责任缴纳转名印花税的一方是买方，而非卖方。印花税按分层的第32(a)项税率向转让备忘录（Memorandum of Transfer）征收——首RM100,000为1%，超过RM1,000,000则高达4%——并以申报价格或内陆税收局（LHDN）的市价估值两者中较高者计算。
+  - q: 二手（转售）房屋能提供与购买新项目相同的保障吗？
+    a: 不能。向持牌发展商购买新项目，须遵循《1966年房屋发展（管制与执照）法令》（Housing Development (Control and Licensing) Act 1966）下法定的G表或H表买卖协议，当中有固定的分期付款百分比、法定的空置交屋期限（有地房产为24个月）以及延迟交屋的自动违约赔偿金。二手买卖协议（SPA）则是一份私人合约，完全没有这些保障——其时间表与没收条款由双方私下议定，因此须同样仔细阅读。
+  - q: 为什么买家在一宗购买中往往最终要支付两套律师费？
+    a: 因为有两份独立文件同时进行，分别代表不同客户处理。一名律师草拟并盖印转让产业的买卖协议；另一名——由银行委任，有时是同一家律师行扮演第二个角色——则准备贷款协议及保障银行权益的产业押记（第16A表）。银行律师保护的是银行的押记，而非买方的订金，因此两者的角色与费用各自独立。
 ---
 
 一宗马来西亚房屋买卖通常牵涉两位律师，而大多数买家根本没注意到他们是两个不同的人。一位负责草拟并盖印那份移转产业的买卖合约（Sale and Purchase Agreement，SPA）。另一位——由银行委任，有时是同一间律师楼——负责草拟并盖印贷款合约与押记（Charge），那份押记正是让银行在贷款未获偿还时得以没收产业的文件。把"律师"想成故事里单一角色的买家，往后往往就是那些搞不懂为什么出现两笔律师费、或为什么贷款获批当天钥匙却没有送到的人。

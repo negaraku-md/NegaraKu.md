@@ -26,7 +26,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "722c4d82da3ee8ea"
+sourceContentHash: "6ca0d692c04f8572"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: Bolehkah saya bekerja atau menjalankan perniagaan dengan pas MM2H?
+    a: Hanya pada peringkat Platinum. Halaman Platinum MOTAC menyatakan kedua-dua aktiviti perniagaan/pelaburan dan peluang kerjaya sebagai "Dibenarkan," manakala halaman Silver, Gold dan SEZ/SFZ semuanya menyatakannya sebagai "Tidak dibenarkan." MM2H bukan visa kerja, laluan kewarganegaraan atau pemastautin tetap — ia ialah pas tinggal jangka panjang yang boleh diperbaharui. Jika bekerja atau menjalankan perniagaan penting bagi anda, perbezaan mengikut peringkat itulah yang menentukan peringkat mana, jika ada, yang sesuai dengan rancangan anda.
+  - q: Setelah MM2H diluluskan, bolehkah saya menggunakan deposit tetap saya dengan bebas?
+    a: 'Tidak. MOTAC membenarkan pengeluaran maksimum 50% daripada prinsipal deposit tetap selepas kelulusan, dan hanya untuk tujuan tertentu: membeli kediaman yang diperlukan, atau pendidikan, rawatan perubatan atau aktiviti pelancongan di Malaysia. Ia merupakan pelepasan bersyarat, bukan akaun guna umum. Baki yang tinggal mesti kekal di bank Malaysia; dana asing dan keuntungan yang diperoleh daripada deposit itu semasa ia berada di situ mempunyai pengecualian cukai yang dinyatakan.'
+  - q: Siapa sebenarnya yang meluluskan permohonan MM2H — MOTAC atau Imigresen?
+    a: Kedua-duanya, dalam peranan berbeza. MOTAC mengendalikan program dan menetapkan keperluan setiap peringkat, tetapi kelulusan imigresen muktamad, pengesahan pas dan sebarang rayuan terletak pada Kementerian Dalam Negeri melalui Jabatan Imigresen Malaysia. Permohonan dikemukakan oleh ejen MM2H berlesen melalui One Stop Centre. Jadi hubungi MOTAC untuk soalan keperluan peringkat dan Imigresen untuk hal kelulusan atau pengesahan — dua pihak berkuasa, dua bidang kuasa.
 ---
 
 Cari "berapa lama pas MM2H Silver sah" dan anda akan menjumpai panduan yang dengan yakin

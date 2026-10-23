@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Người lao động đang cân nhắc giữa bảo hiểm y tế của người sử dụng lao động và một thẻ y tế cá nhân, cùng bất kỳ ai đang cố hiểu 'đồng chi trả' nghĩa là gì trước khi mua hoặc gia hạn một hợp đồng."
 
 lang: "vi"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: Nếu tôi có thẻ y tế, nó có chi trả cho việc điều trị tại bệnh viện công không?
+    a: Đó không phải là mục đích của một tấm thẻ y tế. Các bệnh viện và phòng khám công của Malaysia, do Bộ Y tế điều hành, được trợ cấp rất nhiều cho công dân bất kể bạn có nắm giữ hợp đồng bảo hiểm hay không — dù thế nào thì việc điều trị vẫn diễn ra. Thẻ y tế về cơ bản là một sản phẩm nhập viện và phẫu thuật dành cho hệ thống tư nhân, tồn tại chủ yếu để làm cho việc điều trị tại bệnh viện tư trở nên có thể chi trả được, chứ không phải để cấp quyền tiếp cận chăm sóc y tế.
+  - q: Điều gì xảy ra với bảo hiểm y tế do chủ lao động cung cấp khi tôi nghỉ việc?
+    a: 'Bảo hiểm Nhập viện và Phẫu thuật theo Nhóm (Group Hospitalisation and Surgical, GHS) gắn liền với công việc. Nếu bạn từ chức, bị sa thải, hoặc nghỉ hưu, hợp đồng bảo hiểm sẽ ngừng vào ngày việc làm kết thúc — không có việc tự động tiếp tục dưới dạng cá nhân. Ngược lại, một thẻ y tế cá nhân độc lập thì có thể mang theo: nó vẫn thuộc về bạn bất kể chủ lao động là ai, miễn là phí bảo hiểm được đóng và hợp đồng được gia hạn, đó là lý do nhiều người xem nó như một phương án dự phòng.'
+  - q: Một hợp đồng bảo hiểm y tế 'không đồng chi trả (no co-payment)' có tự động tốt hơn hợp đồng có đồng chi trả không?
+    a: Không hẳn — bài viết liệt kê đây là một sai lầm phổ biến. Gói không đồng chi trả có phí bảo hiểm cao hơn cho cùng các hạn mức quyền lợi. Theo cơ chế đồng chi trả (co-payment), bạn đồng ý trước việc gánh một phần xác định của mỗi hóa đơn bệnh viện đủ điều kiện để đổi lấy phí bảo hiểm thấp hơn. Việc đánh đổi đó có đáng hay không phụ thuộc vào việc bạn có thể tự chi trả bao nhiêu trong hóa đơn; hãy kiểm tra bản công bố thông tin sản phẩm (product disclosure sheet) để biết tỷ lệ phần trăm, bất kỳ mức trần nào, và các khoản điều trị được miễn trừ.
 ---
 
 Hai người lao động bước vào cùng một bệnh viện tư với cùng một cánh tay gãy. Một người đưa ra một tấm thẻ và ra về mà không trả một sen nào khi xuất viện. Người kia tự trả một phần hóa đơn, bởi hợp đồng cô mua sáu tháng trước rẻ hơn chính vì lý do đó.

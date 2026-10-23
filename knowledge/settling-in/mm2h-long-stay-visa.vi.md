@@ -24,7 +24,7 @@ verificationNeeded:
   - "Trang của chính MOTAC trả về lỗi 403 cho một số công cụ truy cập tự động; các con số ở đây được lấy bằng yêu cầu kiểu trình duyệt trực tiếp đến các trang hạng mục và hướng dẫn của mm2h.gov.my và được đối chiếu chéo với bảng so sánh Tổng quan Hạng mục của chính trang, nhưng chương trình đã thay đổi đáng kể kể từ năm 2024 và các điều khoản có thể được điều chỉnh lần nữa — hãy luôn xác nhận các con số hiện hành trên mm2h.gov.my trước khi dựa vào chúng cho một đơn."
 
 lang: "vi"
-sourceContentHash: "722c4d82da3ee8ea"
+sourceContentHash: "6ca0d692c04f8572"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -77,6 +77,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: Tôi có thể làm việc hoặc kinh doanh với thẻ MM2H không?
+    a: Chỉ ở hạng Platinum. Trang Platinum của MOTAC ghi cả hoạt động kinh doanh/đầu tư lẫn cơ hội nghề nghiệp là "Được phép", trong khi các trang Silver, Gold và SEZ/SFZ đều ghi là "Không được phép". MM2H không phải là thị thực lao động, con đường nhập quốc tịch hay thường trú — mà là một thẻ lưu trú dài hạn có thể gia hạn. Nếu việc làm hoặc kinh doanh là quan trọng với bạn, thì chính sự khác biệt theo hạng đó quyết định hạng nào, nếu có, phù hợp với kế hoạch của bạn.
+  - q: Khi MM2H đã được chấp thuận, tôi có thể dùng khoản tiền gửi có kỳ hạn của mình một cách tự do không?
+    a: 'Không. MOTAC cho phép rút tối đa 50% tiền gốc của khoản tiền gửi có kỳ hạn sau khi được chấp thuận, và chỉ cho những mục đích cụ thể: mua nơi ở theo yêu cầu, hoặc cho giáo dục, điều trị y tế hay hoạt động du lịch tại Malaysia. Đây là việc giải tỏa có điều kiện, không phải một tài khoản dùng chung cho mọi việc. Số dư còn lại phải để tại ngân hàng Malaysia; nguồn vốn nước ngoài và lợi nhuận thu được từ khoản tiền gửi trong thời gian nó nằm ở đó được hưởng một miễn thuế đã được quy định.'
+  - q: Ai thực sự phê duyệt một hồ sơ MM2H — MOTAC hay Cục Di trú?
+    a: Cả hai, với vai trò khác nhau. MOTAC vận hành chương trình và đặt ra yêu cầu cho từng hạng, nhưng việc phê duyệt di trú cuối cùng, chứng thực thẻ và mọi khiếu nại thuộc về Bộ Nội vụ thông qua Cục Di trú (Jabatan Imigresen Malaysia). Hồ sơ được nộp bởi một đại lý MM2H có giấy phép thông qua Trung tâm Một cửa (One Stop Centre). Vậy nên hãy liên hệ MOTAC cho các câu hỏi về yêu cầu của từng hạng và Cục Di trú cho các vấn đề phê duyệt hoặc chứng thực — hai cơ quan, hai thẩm quyền.
 ---
 
 Tìm "một giấy phép MM2H Silver kéo dài bao lâu" và bạn có thể tìm thấy các hướng dẫn tự tin trích dẫn năm năm, mười năm, và các thời hạn khác cho cùng một bậc. Đó không phải là một lỗi đánh máy được lặp lại khắp internet — đó là điều xảy ra khi một chương trình được tái cơ cấu và không phải mọi hướng dẫn đều bắt kịp. Bản thân MM2H đã thực sự thay đổi hình dạng hơn một lần, gần đây nhất vào năm 2024, và các tên bậc, số tiền gửi và thời hạn giấy phép đang lưu hành hiện nay thuộc về ít nhất hai phiên bản khác nhau của các quy tắc.

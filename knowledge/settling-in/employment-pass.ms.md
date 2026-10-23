@@ -24,7 +24,7 @@ appliesTo: "Warganegara asing yang mempunyai tawaran kerja Malaysia, dan sesiapa
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "15f43dc5f13f9d7c"
+sourceContentHash: "b4e6702e3d043ad8"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "expatriate work visa", "i-Kad", "dependant pass malaysia", "employment pass categories", "ePASS Malaysia"]
+faq:
+  - q: Bolehkah saya memohon Pas Penggajian saya sendiri?
+    a: Tidak. Pas Penggajian ialah sesuatu yang dimohon oleh majikan anda bagi pihak anda, melalui akaunnya sendiri dengan Bahagian Perkhidmatan Ekspatriat (ESD); syarikat itu mesti didaftarkan terlebih dahulu dengan ESD, dan permohonan itu diproses oleh Pusat MYXpats. Anda membekalkan dokumen — pasport, kelayakan, kontrak pekerjaan — tetapi tiada log masuk yang menghadap pekerja, dan anda tidak boleh menghantar atau menjejaki permohonan itu sendiri.
+  - q: Adakah Pas Penggajian membolehkan saya bekerja di mana-mana sahaja di Malaysia, termasuk Sabah dan Sarawak?
+    a: Tidak. Jabatan Imigresen menyatakan bahawa Pas Penggajian hanya sah di Semenanjung Malaysia. Sabah dan Sarawak mengendalikan kawalan imigresen mereka sendiri di bawah autonomi negeri, jadi penempatan di sana memerlukan pas atau pengesahan yang berasingan. Pas Penggajian juga mengikat anda kepada syarikat penaja sahaja — tukar pekerjaan dan majikan baharu anda mesti memfailkan permohonan baharu dari awal.
+  - q: Bolehkah pasangan saya bekerja di Malaysia dengan Pas Tanggungan?
+    a: Boleh, tetapi tidak secara automatik. Pas Tanggungan itu sendiri tidak membawa hak untuk bekerja, dan prinsipal mesti memegang Pas Penggajian yang sah terlebih dahulu kerana permohonan tanggungan bergantung kepadanya. Menurut Soalan Lazim Jabatan Imigresen sendiri, seorang pasangan kemudiannya boleh bekerja di bawah pengesahan untuk bekerja daripada Jabatan Imigresen, tanpa perlu menukar kepada Pas Penggajian penuh atas namanya sendiri — satu laluan yang jauh lebih pantas dan lebih murah berbanding permohonan Pas Penggajian baharu.
 ---
 
 Anda mempunyai tawaran kerja bertandatangan di Malaysia. Anda mempunyai pasport, ijazah, bertahun-tahun pengalaman berkaitan. Dan masih tiada apa-apa yang anda, secara peribadi, boleh pergi failkan.

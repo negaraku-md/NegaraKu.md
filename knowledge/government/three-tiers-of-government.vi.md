@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố xác định cấp chính quyền nào cần tiếp cận cho một vấn đề nhất định tại Malaysia, hoặc muốn hiểu vì sao họ có thể bỏ phiếu cho một Nghị sĩ và một nghị viên bang nhưng không cho một ủy viên hội đồng địa phương."
 
 lang: "vi"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: Tại sao người dân Malaysia không thể bỏ phiếu bầu các ủy viên hội đồng địa phương của mình?
+    a: Các cuộc bầu cử chính quyền địa phương đã bị đình chỉ trên toàn quốc theo Quy định Khẩn cấp (Đình chỉ Bầu cử Chính quyền Địa phương) (Sửa đổi) năm 1965, được ban hành trong thời kỳ Đối đầu (Confrontation) với Indonesia và được coi là tạm thời. Chúng chưa bao giờ được khôi phục. Sau đó, Mục 15 của Đạo luật Chính quyền Địa phương năm 1976 đã khiến việc đình chỉ này trở thành vĩnh viễn, trong khi Mục 10 trao cho chính quyền bang quyền bổ nhiệm ủy viên hội đồng thay thế. Vì vậy, kể từ đó các ủy viên hội đồng được bổ nhiệm chứ không phải được bầu.
+  - q: Kuala Lumpur có chính quyền bang riêng của mình không?
+    a: Không. Kuala Lumpur, Putrajaya và Labuan là các Lãnh thổ Liên bang, được đặt dưới sự quản lý trực tiếp của liên bang theo Danh mục Liên bang (mục 27) thay vì do một bang cai quản. Chúng không có Quốc vương (Ruler), Thủ hiến (Menteri Besar) hay Hội đồng Lập pháp Bang; Kuala Lumpur và Putrajaya được quản lý thông qua Bộ Lãnh thổ Liên bang. Chỉ có 13 bang mới có Hiến pháp Bang và chính quyền riêng.
+  - q: Nếu chính quyền địa phương là vấn đề thuộc Danh mục Bang, tại sao Nghị viện lại lập pháp về nó?
+    a: Chính quyền địa phương là mục 4 của Danh mục Bang trong Phụ lục Thứ chín (Ninth Schedule), trao cho các bang danh nghĩa lập pháp. Nhưng Nghị viện thực thi quyền đó một cách thống nhất cho Bán đảo Malaysia thông qua Đạo luật Chính quyền Địa phương năm 1976 (Đạo luật 171), một đạo luật liên bang mà các bang đã áp dụng theo cơ chế thống nhất của Hiến pháp. Điều 95A cũng lập ra Hội đồng Quốc gia về Chính quyền Địa phương (National Council for Local Government) mà các quyết định của nó có thể ràng buộc các bang. Thay vào đó, Sabah và Sarawak sử dụng các pháp lệnh (ordinance) riêng biệt của mình.
 ---
 
 Người Malaysia bỏ phiếu bầu một Nghị sĩ. Họ bỏ phiếu bầu một nghị viên bang. Họ chưa bao giờ bỏ phiếu bầu thị trưởng hay các ủy viên hội đồng — những người ấn định thuế định giá của họ, cấp phép cho quầy hàng rong của họ, hay phê duyệt phần mở rộng cho ngôi nhà của họ — bởi vì cuộc bầu cử đó chưa được tổ chức ở bất cứ đâu tại Malaysia kể từ năm 1965.

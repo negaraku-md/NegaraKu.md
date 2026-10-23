@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "064f8073d8ee230f"
+sourceContentHash: "ffa309d9ae04f20d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["buddhism-in-malaysia", "chinese-new-year", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["agama Cina Malaysia", "Taoisme Malaysia", "Chinese religion Malaysia", "Tua Pek Kong", "Mazu Malaysia", "Perayaan Sembilan Maharaja Dewa", "agama rakyat"]
+faq:
+  - q: Mengapa orang Cina yang menyembah dewa-dewi Taoisme dan kepercayaan rakyat kerap dikira sebagai penganut Buddha dalam banci penduduk?
+    a: Walaupun banci penduduk Malaysia mempunyai kategori "Konfusianisme, Taoisme dan agama tradisional Cina yang lain", bilangan yang didaftarkan di bawahnya amat kecil (kebanyakannya digabungkan ke dalam "agama lain", kira-kira 0.9%). Ramai orang Cina yang menyembah dewa dan nenek moyang setiap hari mendaftarkan diri sebagai penganut Buddha dalam banci, maka pengamal kepercayaan rakyat dan Taoisme sebahagian besarnya tersembunyi di dalam angka "Buddha 18.7%" itu, tanpa bilangan rasmi tersendiri yang mencerminkan saiz sebenar mereka.
+  - q: Adakah Taoisme dan agama Buddha saling bertentangan di Malaysia?
+    a: 'Dalam amalan harian orang Cina Malaysia, tidak begitu. Bagi banyak keluarga, agama Buddha, Taoisme, pemikiran Konfusius dan pemujaan nenek moyang bukanlah pilihan yang saling menolak, sebaliknya satu set amalan yang berjalan serentak: orang yang sama mungkin membakar colok pada hari pertama dan kelima belas bulan lunar, menziarahi kubur pada Cheng Beng, dan juga ke kuil untuk memuja Buddha pada Hari Wesak. Perpaduan inilah ciri teras kepercayaan rakyat Cina, dan sebab itulah agama Buddha serta kepercayaan rakyat sering sukar dipisahkan dengan tegas.'
+  - q: Siapakah Tua Pek Kong, dan di manakah tokong Tua Pek Kong yang tertua?
+    a: Tua Pek Kong (大伯公) ialah dewa yang kuat berciri tempatan, dipuja secara meluas di tokong-tokong orang Cina di seluruh Malaysia. Tokong Tua Pek Kong yang tertua dikatakan terletak di Tanjung Tokong, Pulau Pinang, dan kepercayaannya kemudian tersebar ke seluruh Malaysia, Singapura dan Indonesia. Dalam bahasa Melayu, rumah ibadat sebegini dipanggil tokong; tokong terkenal yang lain termasuk Cheng Hoon Teng di Melaka dan Kuil Thean Hou di Kuala Lumpur.
 ---
 
 Apabila anda melangkah ke dalam mana-mana kuil Cina di Malaysia, besar

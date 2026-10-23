@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre pourquoi le climat et le risque d'inondation de la Malaisie changent au fil des saisons — habitants des zones côtières, voyageurs, planificateurs de secours, étudiants en géographie et quiconque consulte les alertes météorologiques de MetMalaysia."
 
 lang: "fr"
-sourceContentHash: "d977d1d40dd0956b"
+sourceContentHash: "4ffd8f41ebc3ba1f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -71,6 +71,13 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
+faq:
+  - q: Pourquoi la côte est de la Péninsule est-elle inondée tandis que la côte ouest reste sèche au même moment ?
+    a: La réponse tient à la géographie. La côte est fait directement face à la mer de Chine méridionale, de sorte que rien n'arrête les vents humides de la mousson du nord-est avant qu'ils n'atteignent le Kelantan, le Terengganu, le Pahang et le Johor. La côte ouest, en revanche, est protégée par la chaîne de Titiwangsa (Banjaran Titiwangsa), qui coupe la Péninsule du nord au sud ; cette chaîne force l'air humide à s'élever et déverse la majeure partie de ses pluies sur les versants orientaux avant d'atteindre le côté ouest.
+  - q: Toutes les inondations en Malaisie sont-elles des inondations de mousson ?
+    a: Non. Les inondations sur la côte ouest ne sont pas toujours causées par la mousson du nord-est — selon le directeur général de MetMalaysia, elles proviennent souvent de systèmes dépressionnaires distincts, comme celui qui a touché le Perak, le Selangor et le Perlis en novembre 2025. De plus, les crues soudaines dues à des systèmes de drainage urbain insuffisants constituent un phénomène distinct et peuvent survenir à tout moment, indépendamment de la mousson.
+  - q: La mousson du nord-est est-elle aussi violente tout au long de la période de novembre à mars ?
+    a: Non. Les données officielles du Conseil national de sécurité (MKN) pour la saison 2024/2025 montrent que les zones les plus à risque changent selon la phase. Lors de la phase initiale (novembre–décembre), le Kelantan, le Terengganu, le Pahang, le Johor, le Sarawak et le Sabah ont été touchés ; lors de la phase tardive (janvier–février), l'accent s'est déplacé vers le Pahang, le Johor, le Sarawak et le Sabah — le Kelantan et le Terengganu ne figurant plus parmi les zones les plus à risque. L'ensemble de la saison devrait enregistrer de 5 à 7 épisodes de fortes pluies.
 ---
 
 Chaque novembre, avant même de regarder les informations, de nombreux habitants de Kota Bharu, Kuala Terengganu et Kuantan se mettent à surveiller le niveau de l'eau des rivières proches de chez eux. Ce n'est pas une habitude née d'une catastrophe inattendue — c'est un calendrier prévisible qui se répète chaque année, et sa cause est le même système de vents saisonniers qui détermine aussi quand la côte ouest de la Péninsule devient sèche.

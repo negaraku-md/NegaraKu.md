@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang cuba membaca statistik populasi, buruh atau hartanah Ma
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0362cd9a8f8b4f6a"
+sourceContentHash: "7490bc9be18b1f7b"
 
 status: "published"
 aiAssisted: true
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor", "unemployment-labour-force", "choosing-a-business-location-malaysia"]
 keywords: ["Malaysia urbanisation rate", "kadar pembandaran Malaysia", "DOSM urban area definition", "Klang Valley population", "Malaysia rural urban migration", "urban population Malaysia 2020"]
+faq:
+  - q: Adakah "bandar" bermaksud bandar raya besar dalam statistik Malaysia?
+    a: 'Tidak. Mengikut metodologi Banci 2020 DOSM, "bandar" ialah ujian berasaskan populasi, bukan berasaskan saiz: sesuatu kawasan yang diwartakan beserta kawasan berbangunan bersempadan dengannya yang mempunyai gabungan populasi 10,000 atau lebih, di mana sekurang-kurangnya 60% penduduk kawasan berbangunan itu yang berumur 15 tahun ke atas bekerja di luar sektor pertanian. Sebuah pekan berpenduduk 10,000 orang dengan pasar basah layak sama seperti Petaling Jaya, jadi "penduduk bandar" bukanlah sama dengan "orang yang tinggal di bandar raya utama".'
+  - q: Adakah urbanisasi Malaysia masih didorong oleh perpindahan orang dari kampung ke bandar?
+    a: Secara umumnya tidak — corak itu sebahagian besarnya telah berakhir. Laporan Kaji Selidik Migrasi, Malaysia, 2024 oleh DOSM mendapati 84.6% perpindahan dalam negeri adalah dari bandar ke bandar, berbanding hanya 0.6% dari luar bandar ke bandar. Kebanyakan yang berpindah sudah pun penduduk bandar yang berpindah ke kawasan bandar yang lain. Apabila sesebuah negara melepasi kira-kira tiga perempat bandar, perubahan selanjutnya datang terutamanya daripada pertambahan semula jadi, pengelasan semula sempadan dan pusingan dari bandar ke bandar, bukan kampung yang menjadi kosong.
+  - q: Di manakah sebahagian besar pertumbuhan bandar Malaysia tertumpu?
+    a: Di Lembah Klang. Pada Banci 2020, empat daerah bersebelahan — Kuala Lumpur (1,982,112), Petaling (2,298,130), Ulu Langat (1,400,461) dan Klang (1,088,942) — bersama-sama menempatkan kira-kira 6.77 juta orang, lebih daripada satu perlima daripada populasi negara seramai 32.4 juta. Selangor kini merupakan negeri yang paling ramai penduduk dengan 6,994,423 orang dan 95.8% bandar, manakala Kelantan, pada 44.1%, merupakan negeri yang paling kurang diurbanisasi.
 ---
 
 ## Tiga daripada empat rakyat Malaysia kini tinggal di tempat yang digelar "bandar" oleh DOSM

@@ -57,6 +57,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malaysia", "Overnight Policy Rate", "kadar dasar semalaman", "Bank Negara interest rate", "BNM MPC"]
+faq:
+  - q: Is the OPR the interest rate I actually pay on my mortgage?
+    a: No. The OPR is the rate Bank Negara targets for banks lending to each other overnight — it is not charged to you directly. A Malaysian housing loan is typically quoted as Base Rate (BR) plus a spread, and the OPR is the largest determinant of the cost of funds behind that BR. When the BR moves, the instalment moves, usually within one to two months.
+  - q: When the OPR changes, do loan rates and deposit rates move the same way?
+    a: 'Both move in the same direction, but not symmetrically. The article flags an asymmetry worth knowing: loan rates tend to rise quickly and fall slowly, while deposit rates tend to do the reverse, repricing more slowly and less completely than loans. It describes this as a commercial reality of bank margins rather than a rule.'
+  - q: Does a 'no change' OPR decision mean the Monetary Policy Committee did nothing?
+    a: No — a decision to hold is still a decision. The Monetary Policy Committee meets six times a year on a published schedule, and a long run of no-change decisions reflects a judgement that inflation is contained enough not to require tightening and growth is solid enough not to require support. The accompanying statement usually signals the committee's bias.
 ---
 
 ## At a glance

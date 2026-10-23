@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아 채용 제안을 받은 외국 국민, 그리고 이미 말레이시아에서 취업 비자를 소지하거나 갱신하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "15f43dc5f13f9d7c"
+sourceContentHash: "b4e6702e3d043ad8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -71,6 +71,13 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "expatriate work visa", "i-Kad", "dependant pass malaysia", "employment pass categories", "ePASS Malaysia"]
+faq:
+  - q: 제 취업 패스(Employment Pass)를 제가 직접 신청할 수 있습니까?
+    a: 아닙니다. 취업 패스는 고용주가 자사의 외국인 전문인력 서비스부(Expatriate Services Division, ESD) 계정을 통해 귀하를 대신하여 신청하는 것입니다. 회사는 먼저 ESD에 등록되어야 하며, 신청은 MYXpats 센터에서 처리됩니다. 귀하는 서류 — 여권, 자격 증명, 고용 계약서 — 를 제출하지만, 직원용 로그인은 없으며, 귀하가 직접 신청서를 제출하거나 진행 상황을 추적할 수는 없습니다.
+  - q: 취업 패스가 있으면 사바주와 사라왁주를 포함하여 말레이시아 어디서든 일할 수 있습니까?
+    a: 아닙니다. 이민국(Immigration Department)은 취업 패스가 말레이시아 반도에서만 유효하다고 명시합니다. 사바주와 사라왁주는 주 자치권에 따라 각자의 이민 통제를 운영하므로, 그곳에서 근무하려면 별도의 패스나 배서가 필요합니다. 또한 취업 패스는 귀하를 후원 회사에만 묶어 두므로 — 직장을 옮기면 새 고용주가 처음부터 새로운 신청을 제출해야 합니다.
+  - q: 제 배우자가 부양 패스(Dependant Pass)로 말레이시아에서 일할 수 있습니까?
+    a: 예, 하지만 자동으로는 아닙니다. 부양 패스 자체에는 취업 권리가 없으며, 부양 신청이 그에 딸려 있으므로 주 신청인이 먼저 유효한 취업 패스를 보유해야 합니다. 이민국 자체 FAQ에 따르면, 배우자는 이후 이민국의 취업 배서(endorsement for work)에 따라 본인 명의의 완전한 취업 패스로 전환하지 않고도 일할 수 있습니다 — 이는 새로운 취업 패스 신청보다 훨씬 빠르고 저렴한 경로입니다.
 ---
 
 말레이시아에서 서명된 채용 제안서를 받았습니다. 여권도, 학위도, 여러 해의 관련 경력도 있습니다. 그런데도 당신이 개인적으로 가서 제출할 수 있는 것은 아무것도 없습니다.

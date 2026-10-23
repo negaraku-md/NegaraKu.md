@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["マレーシア ヒンドゥー教", "Hinduism in Malaysia", "マレーシアのヒンドゥー教徒", "タミル系ヒンドゥー教徒 マレーシア", "マレーシア・ヒンドゥー・サンガム", "マレーシア 寺院"]
+faq:
+  - q: マレーシアのヒンドゥー教徒はみなタミル系ですか。
+    a: 大多数が南インドのタミル系であるのは確かですが、それが真実のすべてではありません。マラヤーリー系、テルグ系、北インド系の人々、さらには他の共同体の人々もヒンドゥー教を信仰しています。マラヤーリーの伝統をもつ人々はオーナム(Onam)やヴィシュ(Vishu)といった祭りも祝います。さらに、宗教と民族は同じものではなく、国勢調査は両者を別々に測定します。
+  - q: タイプーサムは全国的な祝日ですか。
+    a: いいえ。タイプーサムは全国レベルの祝日ではなく、それを官報告示する州でのみ祝日となります——クアラルンプール、プトラジャヤ、スランゴール、ペナン、ペラ、ヌグリ・スンビラン、ジョホールです。クダは一部の年に、固定した官報告示によらず特別な告示として与えることがあります。これに対し、ディーパバリ(Deepavali)はサラワクを除くすべての州および連邦直轄領で祝日です。
+  - q: なぜヌグリ・スンビラン、スランゴール、ペラといった州にヒンドゥー教徒が多く住んでいるのですか。
+    a: これらの州は、かつてのゴム農園や錫鉱山の地域と重なっています——英植民地時代にインド人労働者が多数定住したのがまさにそこでした。2020年の国勢調査では、ヌグリ・スンビラン(約13.1%)、スランゴール(約10.3%)、ペラ(約9.7%)が高い割合を示しました。その多くは、カンガニ(kangani)制度のもとで南インドから農園労働のために渡ってきた人々の子孫です。
 ---
 
 マレーシアのどの町でも、古いゴム農園のはずれや、都市中心部の由緒ある通りに、

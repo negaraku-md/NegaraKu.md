@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que alquile o arriende una propiedad residencial en Malasia: inquilinos que firman su primer contrato de arrendamiento, y arrendadores que lo redactan, en Malasia Peninsular, Sabah o Sarawak."
 
 lang: "es"
-sourceContentHash: "82f3b97b7c53aec7"
+sourceContentHash: "d779e96ef436f16d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["contrato de arrendamiento Malasia", "depósito de alquiler Malasia", "depósito de reserva", "fianza", "depósito de servicios", "impuesto de timbre contrato de arrendamiento", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "sin ley de arrendamiento Malasia", "e-Duti Setem"]
+faq:
+  - q: ¿Existe una Ley de Arrendamiento (Tenancy Act) que proteja a los inquilinos en Malasia?
+    a: No. Malasia no tiene una Ley de Arrendamiento Residencial específica — se ha debatido durante años un Proyecto de Ley de Arrendamiento Residencial (Residential Tenancy Bill), pero no se ha presentado como ley. Un alquiler residencial es un contrato ordinario conforme a la Ley de Contratos de 1950 (Contracts Act 1950), complementado por la Ley de Reparación Específica de 1950 (Specific Relief Act 1950), la Ley de Embargo de 1951 (Distress Act 1951) y la Ley de Derecho Civil de 1956 (Civil Law Act 1956). Como la legislación fija muy poco, el propio contrato de arrendamiento firmado soporta casi todo el peso.
+  - q: Si mi contrato de arrendamiento nunca se timbró, ¿es inválido?
+    a: 'No — omitir el timbre no hace que el arrendamiento sea inválido entre las dos partes. Produce algo más concreto: por lo general, un contrato sin timbrar o timbrado de forma insuficiente no puede admitirse como prueba ante los tribunales hasta que se paguen el impuesto pendiente y cualquier recargo por demora. El contrato debe presentarse para su timbrado dentro de los 30 días siguientes a la firma, conforme a la Ley del Impuesto de Timbre de 1949 (Stamp Act 1949), y descubrir esta falta en medio de un litigio es el peor momento posible.'
+  - q: ¿Puede un arrendador cambiar las cerraduras o cortar los suministros si el inquilino se niega a marcharse?
+    a: No. El Artículo 7(2) de la Ley de Reparación Específica de 1950 (Specific Relief Act 1950) prohíbe al arrendador el desalojo por mano propia — no puede cambiar cerraduras, cortar la electricidad o el agua, ni retirar pertenencias mientras el inquilino siga ocupando el inmueble. Recuperar la posesión requiere una orden judicial. Por el alquiler impago, el arrendador solicita al tribunal un mandamiento de embargo conforme a la Ley de Embargo de 1951 (Distress Act 1951) para incautar los bienes muebles del inquilino, en lugar de enfrentarse directamente a él.
 ---
 
 Pregunte a un arrendador y a un inquilino en Malasia qué ley los protege, y la mayoría se equivocará. No hay una «Ley de Arrendamiento Residencial» a la que recurrir, ni una única norma que fije los plazos de preaviso, limite los depósitos o detalle lo que un arrendador puede y no puede hacer al momento de la mudanza.

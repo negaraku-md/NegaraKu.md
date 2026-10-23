@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "288705196583cc87"
+sourceContentHash: "48f4e6165d3f9202"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["wesak", "chinese-religion-in-malaysia", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["agama Buddha Malaysia", "Buddhism in Malaysia", "Buddha Mahayana Malaysia", "Buddha Theravada Malaysia", "Hari Wesak", "Kek Lok Si"]
+faq:
+  - q: Adakah kesemua 18.7% penganut Buddha dalam banci itu penganut Buddha dalam erti kata yang ketat?
+    a: Tidak. Angka 'Buddha' dalam banci 2020 banyak bertindih dengan kepercayaan rakyat Cina. Ramai orang Cina dalam kehidupan seharian memuja Buddha, menyembah dewa dan memuja nenek moyang serentak, lalu mendaftarkan diri sebagai penganut Buddha semasa banci. Oleh itu 18.7% ini merangkumi penganut Buddha dalam erti kata yang ketat dan juga ramai pengamal kepercayaan rakyat yang menggabungkan Buddhisme, Taoisme, Confucianisme dan pemujaan nenek moyang — inilah sebabnya angka banci bertindih antara satu sama lain.
+  - q: Betulkah kenyataan bahawa 'Buddhisme di Malaysia ialah agama orang Cina'?
+    a: Tidak tepat. Orang Cina memang majoriti penganutnya, kebanyakannya menganut Buddhisme Mahayana; tetapi masyarakat berketurunan Siam, Sri Lanka dan Myanmar mengamalkan aliran tersendiri yang berasingan — Buddhisme Theravada, yang kuilnya dipanggil Wat, dengan masyarakat Siam di negeri-negeri utara mempunyai sejarah paling lama. Terdapat juga Vajrayana yang lebih kecil. Menyamakan Buddhisme di Malaysia dengan agama orang Cina mengabaikan tradisi-tradisi selari ini.
+  - q: Apakah yang diperingati pada Hari Wesak? Adakah ia cuti umum?
+    a: Wesak (Hari Wesak) memperingati kelahiran, pencerahan dan pemergian Buddha ke nirvana, dan merupakan cuti umum di seluruh negara di Malaysia. Penganut pergi ke kuil untuk mempersembahkan bunga, menyalakan pelita dan memberi sedekah. Kebebasan beragama dilindungi oleh Perkara 11 Perlembagaan Persekutuan; walaupun Perkara 3 menetapkan Islam sebagai agama Persekutuan, ia tidak menghalang agama lain daripada diamalkan dengan aman.
 ---
 
 Di lereng bukit Pulau Pinang, bayang pagoda Kek Lok Si meninjau Georgetown; di

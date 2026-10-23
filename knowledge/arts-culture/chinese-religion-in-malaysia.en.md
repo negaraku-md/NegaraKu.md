@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "064f8073d8ee230f"
+sourceContentHash: "ffa309d9ae04f20d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["buddhism-in-malaysia", "chinese-new-year", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Chinese religion Malaysia", "Taoism Malaysia", "Chinese folk religion", "Tua Pek Kong", "Mazu Malaysia", "Nine Emperor Gods Festival"]
+faq:
+  - q: Why are Chinese who worship Taoist and folk deities mostly counted as Buddhists in the census?
+    a: Although Malaysia's census has a category for "Confucianism, Taoism and other traditional Chinese religions", the number registered under it is very small (mostly folded into "other religions", about 0.9%). Many Chinese who make daily offerings to deities and ancestors register themselves as Buddhists in the census, so practitioners of folk belief and Taoism are largely hidden within the "Buddhism 18.7%" figure, leaving no separate official count that reflects their true size.
+  - q: Are Taoism and Buddhism opposed to each other in Malaysia?
+    a: 'Not in the everyday practice of Malaysian Chinese. For many families, Buddhism, Taoism, Confucian thought and ancestor worship are not mutually exclusive choices but a single set of practices carried out side by side: the same person may burn incense on the first and fifteenth of the lunar month, sweep the graves at Qingming, and also visit a temple to pay homage to the Buddha on Vesak Day. This blending is the core feature of Chinese folk belief, which is why Buddhism and folk religion are often hard to separate cleanly.'
+  - q: Who is Tua Pek Kong, and where is the oldest Tua Pek Kong temple?
+    a: Tua Pek Kong (大伯公) is a deity with a strongly local character, widely worshipped in Chinese temples across Malaysia. The oldest Tua Pek Kong temple is said to be in Tanjung Tokong, Penang, and the belief later spread throughout Malaysia, Singapore and Indonesia. In Malay such a temple is called a tokong; other well-known temples include Cheng Hoon Teng in Malacca and the Thean Hou Temple in Kuala Lumpur.
 ---
 
 Step into any Chinese temple in Malaysia and you will likely find Buddhist, Taoist

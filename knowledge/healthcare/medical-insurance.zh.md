@@ -22,7 +22,7 @@ appliesTo: "正在权衡雇主医疗保障与个人医疗卡之间取舍的雇�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 
 status: "published"
 aiAssisted: true
@@ -64,6 +64,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: 如果我有医药卡，它能支付在政府医院的治疗费用吗？
+    a: 这并非医药卡的用途。马来西亚由卫生部管理的公立医院和诊所，无论你是否持有保单，都为公民提供高额补贴——无论如何都会获得治疗。医药卡本质上是面向私人医疗体系的住院与手术产品，其存在的主要目的是让私立医院的治疗变得负担得起，而不是赋予你获得医疗照护的机会。
+  - q: 当我离职时，雇主提供的医疗保障会怎样？
+    a: 团体住院与手术（GHS）保障与工作挂钩。如果你辞职、被裁员或退休，保单会在雇佣关系结束当天停止——没有自动的个人延续。相比之下，独立的个人医药卡是可携带的：只要持续缴付保费并续保，无论雇主是谁，它都属于你，这也是许多人把它当作后盾的原因。
+  - q: “无共付额”的医疗保单是否自动比有共付额的更好？
+    a: 未必——文章将此列为一个常见的误区。在相同的保障限额下，无共付额的计划保费更高。在共付额（co-payment）安排下，你预先同意为每一张符合条件的住院账单承担一定比例，以换取更低的保费。这种取舍是否值得，取决于你自己能够承担账单的多少；请查阅产品披露单（product disclosure sheet），了解百分比、任何上限以及被排除的治疗项目。
 ---
 
 两名雇员因为同样的手臂骨折走进同一家私人医院。一人递出一张卡，出院时分文未付就离开了。另一人自己支付了账单的一部分，因为她六个月前买的那份保单，正是为了这个理由而更便宜。

@@ -23,7 +23,7 @@ verificationNeeded:
   - "Este artículo no indica números de admisión por programa, proporciones de cuota ni cifras de cuotas específicas para ninguna institución — estas varían según el programa y el campus y cambian en cada admisión; confirma directamente con el e-Panduan de la UPU (para las universidades públicas) o con la institución concreta (para las universidades privadas) antes de solicitar."
   - "El recuento actual exacto de proveedores IPTS registrados no se indica aquí porque las tablas estadísticas publicadas por el MOHE (Statistik Pendidikan Tinggi) no se abrieron por completo para este artículo — para una cifra precisa y actual, consulta directamente la publicación Statistik Pendidikan Tinggi del MOHE."
 lang: "es"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "universidad pública Malasia", "universidad privada Malasia", "solicitud en línea UPU", "acreditación MQA", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: ¿La etiqueta IPTA (pública) o IPTS (privada) me dice si un título será reconocido?
+    a: No. El reconocimiento se decide programa por programa mediante la acreditación de la Agencia de Cualificaciones de Malasia (MQA), creada en virtud de la Ley de la Agencia de Cualificaciones de Malasia de 2007 (Act 679), y no según si la institución es pública o privada. Incluso una universidad muy conocida puede tener un programa nuevo, provisional o aún no acreditado. Consulte el programa concreto y el año de ingreso en el Registro de Cualificaciones de Malasia (MQR) antes de matricularse en cualquiera de los dos tipos de institución.
+  - q: ¿Puedo solicitar plaza en una universidad privada a través de UPU?
+    a: No. UPU (Unit Pusat Universiti), el sistema en línea centralizado del Ministerio de Educación Superior, solo abarca universidades públicas, instituciones MARA, politécnicos y colegios comunitarios. Las instituciones privadas (IPTS) quedan por completo fuera de UPU y hay que solicitarlas directamente; cada una gestiona su propia oficina de admisiones, fija sus propios requisitos de ingreso por programa y puede emitir una oferta en cuestión de días, aceptando con frecuencia el UEC, los A-Levels, el IB y otras cualificaciones junto al SPM y el STPM.
+  - q: Un programa solo está "acreditado provisionalmente" — ¿significa eso que no está acreditado?
+    a: No. Según el Código de Práctica para la Acreditación de Programas de la MQA, la Acreditación Provisional confirma que un programa ha cumplido los requisitos mínimos de calidad para ofrecerse legalmente, y es en sí misma una condición para la aprobación del Ministerio. La Acreditación Plena es la evaluación más completa que se lleva a cabo una vez que una primera promoción ha cursado el programa. Un programa acreditado provisionalmente es legítimo y puede ofrecerse legalmente; simplemente aún no ha completado la evaluación de ciclo completo.
 ---
 
 Dos estudiantes con los mismos resultados del SPM acaban en sistemas por

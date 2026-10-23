@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang menyewa atau menyewakan hartanah kediaman di Malaysia �
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "82f3b97b7c53aec7"
+sourceContentHash: "d779e96ef436f16d"
 
 status: "published"
 aiAssisted: true
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
+faq:
+  - q: Adakah terdapat Akta Penyewaan yang melindungi penyewa di Malaysia?
+    a: Tidak. Malaysia tidak mempunyai Akta Penyewaan Kediaman khusus — Rang Undang-Undang Penyewaan Kediaman telah dibincangkan selama bertahun-tahun tetapi belum dibentangkan sebagai undang-undang. Sewaan kediaman ialah kontrak biasa di bawah Akta Kontrak 1950, dilengkapi oleh Akta Relief Spesifik 1950, Akta Sewa Tahanan 1951 dan Akta Undang-Undang Sivil 1956. Oleh sebab begitu sedikit yang ditetapkan oleh statut, perjanjian penyewaan yang ditandatangani itu sendiri membawa hampir keseluruhan bebannya.
+  - q: Jika perjanjian penyewaan saya tidak pernah disetem, adakah ia tidak sah?
+    a: 'Tidak — melangkau penyeteman tidak menjadikan penyewaan itu tidak sah antara kedua-dua pihak. Ia menyebabkan sesuatu yang lebih khusus: perjanjian yang tidak disetem atau disetem secara tidak mencukupi secara amnya tidak boleh diterima sebagai keterangan di mahkamah sehingga duti tertunggak dan sebarang penalti lewat dibayar. Perjanjian itu mesti dikemukakan untuk penyeteman dalam tempoh 30 hari selepas menandatangani di bawah Akta Setem 1949, dan menyedari jurang ini di tengah-tengah pertikaian adalah detik yang paling teruk.'
+  - q: Bolehkah tuan rumah menukar kunci atau memutuskan utiliti jika penyewa enggan keluar?
+    a: Tidak. Seksyen 7(2) Akta Relief Spesifik 1950 menghalang tuan rumah daripada pengusiran secara sendiri — tiada menukar kunci, memutuskan bekalan elektrik atau air, atau mengeluarkan barangan sementara penyewa masih menduduki premis. Mendapatkan semula pemilikan memerlukan perintah mahkamah. Bagi sewa tertunggak, tuan rumah memohon kepada mahkamah untuk waran sewa tahanan di bawah Akta Sewa Tahanan 1951 bagi merampas harta alih penyewa, dan bukannya berdepan dengan penyewa secara langsung.
 ---
 
 Tanya seorang tuan rumah dan seorang penyewa di Malaysia undang-undang mana yang melindungi mereka, dan kebanyakan akan meneka salah. Tiada "Akta Sewaan Kediaman" untuk dirujuk — tiada satu statut tunggal yang menetapkan tempoh notis, mengehadkan deposit, atau menyatakan dengan jelas apa yang tuan rumah boleh dan tidak boleh lakukan semasa pindah keluar.

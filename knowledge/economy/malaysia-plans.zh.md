@@ -23,7 +23,7 @@ appliesTo: "学生、政策分析员、记者，以及任何想了解国家发�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 
 status: "published"
 aiAssisted: true
@@ -77,6 +77,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: 马来西亚计划与年度财政预算案有什么区别？
+    a: 马来西亚计划负责确定方向，财政预算案负责执行。马来西亚计划（RMK）是为期五年的中期规划，确立核心主旨、优先事项和成果目标——而非某个部门在特定年份可以动用多少令吉。这些年度数字要等到财政部长在每年10月/11月提呈联邦财政预算案时，才会通过《发展开支预算》体现出来，而该预算会把当年应落实的马来西亚计划部分转化为具体拨款。
+  - q: 马来西亚计划会像财政预算案那样被通过成为法律吗？
+    a: 不会。马来西亚计划是作为政策动议提呈并通过，供国会辩论，而非作为法案。财政预算案则必须通过《供应法案》，经过完整的立法程序，才会颁布为《供应法令》。以第十三大马计划（RMK13）为例，它于2025年7月31日在下议院（Dewan Rakyat）、2025年8月25日在上议院（Dewan Negara）作为动议提呈。
+  - q: RMK13全部6110亿令吉都来自政府资金吗？
+    a: 不是。在RMK13至少6110亿令吉的投资中，只有4300亿令吉属于政府发展拨款。其余来自政府相关公司（GLC）与政府相关投资公司（GLIC）的1200亿令吉国内直接投资，以及通过公私伙伴关系（PPP）方式的610亿令吉。
 ---
 
 2025年7月31日，首相在下议院（Dewan Rakyat）提呈了一项要求至少RM611 billion

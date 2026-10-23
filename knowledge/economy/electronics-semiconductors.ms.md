@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang menilai pendedahan ekonomi Malaysia — pelabur, pencar
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f587a0bc65cbc1af"
+sourceContentHash: "fa1a846b1a7d15a8"
 
 status: "published"
 aiAssisted: true
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["external-trade", "gdp-overview", "palm-oil-sector"]
 keywords: ["Malaysia semiconductor", "Malaysia E&E exports", "elektrik dan elektronik Malaysia", "Penang semiconductor", "Malaysia chip industry"]
+faq:
+  - q: Adakah Malaysia membuat cip canggih seperti Taiwan, atau sesuatu yang berbeza?
+    a: Sesuatu yang berbeza. Pembuatan semikonduktor mempunyai dua bahagian, dan kekuatan Malaysia terletak pada bahagian hiliran (back end) — pemasangan, pengujian dan pembungkusan (ATP), iaitu peringkat apabila wafer siap menjadi cip yang boleh digunakan. Malaysia mempunyai sangat sedikit kilang fabrikasi termaju (hadapan/front-end). Ulasan yang menganggap Malaysia sebagai pesaing kepada kilang fab Taiwan sebenarnya membandingkan mata rantai yang berbeza dalam rangkaian yang sama; Malaysia telah melakukan kerja bahagian hiliran sejak 1970-an.
+  - q: Mengapa E&E yang menyumbang separuh eksport disebut sebagai kerentanan, bukan sekadar kekuatan?
+    a: 'Kerana satu kategori produk yang membawa kira-kira separuh daripada asas eksport memusatkan risiko dalam tiga cara. Kitaran: semikonduktor bersifat naik-turun, jadi sektor yang berkembang 39.5% dalam setahun boleh mengecut dengan mendadak. Kedudukan dalam rantaian: pemasangan dan pengujian hiliran lebih mudah dicabar berbanding fabrikasi, jadi pesaing boleh membina kapasiti yang sama. Geopolitik: kawalan eksport dan dasar pemindahan semula pengeluaran (reshoring) yang digubal di ekonomi lain memberi kesan langsung kepada kilang di Malaysia.'
+  - q: Mengapa Pulau Pinang, khususnya, menjadi pusat industri cip Malaysia?
+    a: Ia berpunca daripada keputusan dasar pada 1972. Pulau Pinang menubuhkan zon perdagangan bebas dan menarik firma elektronik asing dengan insentif cukai, import komponen bebas duti dan tenaga kerja yang tersedia. Syarikat semikonduktor Amerika dan Jepun menubuhkan operasi pemasangan, lalu terbentuklah satu kelompok (cluster). Kelompok semakin mendalam dari semasa ke semasa — pembekal, penyelenggaraan peralatan, jurutera terlatih tempatan — sebab itulah Pulau Pinang dan Kulim masih menumpukan begitu banyak sektor ini setengah abad kemudian.
 ---
 
 ## Sepintas lalu

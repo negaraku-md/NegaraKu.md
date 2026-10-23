@@ -19,7 +19,7 @@ appliesTo: "适合任何想了解马来西亚的人口、城市与水患风险�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1aadf1352cd31f55"
+sourceContentHash: "53f49043897c123b"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["what-malaysia-is", "urbanisation", "sabah"]
 keywords: ["Malaysia geography", "Titiwangsa Range", "Peninsular Malaysia geography", "East Malaysia Borneo", "Mount Kinabalu height", "Gunung Tahan", "Malaysia monsoon season", "northeast monsoon", "southwest monsoon", "Malaysia coastal plains", "Malaysia land area"]
+faq:
+  - q: 为什么马来西亚不同海岸的「季风季」指的是不同的月份?
+    a: 因为两股交替的季风影响着国家相对的两侧。东北季风(大约从11月到3月)为半岛东海岸、砂拉越西部和沙巴东部带来大雨和水灾。西南季风(大约从5月到9月)则相对较为干燥,影响相反的一侧。因此,东海岸的雨季与西海岸的雨季并不在相同的月份,两者之间还夹着短暂的季风过渡期。
+  - q: 大汉山(Gunung Tahan)与京那巴鲁山(Mount Kinabalu)有什么区别?
+    a: 它们是位于两块不同陆地上的两座不同的纪录高峰,被南中国海所隔开。大汉山海拔2,187米,位于彭亨与吉兰丹交界、国家公园(Taman Negara)之内,是马来西亚半岛的最高点。沙巴的京那巴鲁山高达4,095米——是全马来西亚的最高峰,也是喜马拉雅山脉与新几内亚之间任何地方的最高峰。把两者混淆是常见的错误。
+  - q: 为什么大多数马来西亚人住在靠近海岸的地方,而不是内陆?
+    a: 每块陆地都由一条中央山脊主导——半岛的是蒂迪旺沙山脉(Titiwangsa Range),沙巴的是克罗克山脉(Crocker Range)——两侧仅有狭窄的沿海平原。这些高地把聚居区推向沿海平原和河谷,使多山的内陆人烟稀少。半岛受马六甲海峡平抚而较为平静的西海岸平原,容纳了其大部分人口以及吉隆坡和乔治市等最大的城市。
 ---
 
 从哥打京那巴鲁飞往吉隆坡，你跨越的不只是一道国内的界线——你跨越的是数百公里的开阔海域。马来西亚是一个国家，却横跨两块彼此独立的陆地，仿佛被硬生生钉在一起，而这一简单的地形事实，几乎悄悄决定了其余的一切：城市在哪里、稻田在哪里，以及每年十二月是哪个海岸会淹水。

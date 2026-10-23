@@ -22,7 +22,7 @@ appliesTo: "マラッカがポルトガルからオランダへ、そして英�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c29f50bb16f23497"
+sourceContentHash: "2c0da3227a2ca96b"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Dutch Melaka", "VOC Malacca", "Dutch East India Company Malacca", "Batavia versus Melaka", "Anglo-Dutch Treaty 1824", "A Famosa demolition", "Stadthuys Melaka", "Kew Letters 1795", "Straits Settlements history"]
+faq:
+  - q: オランダはポルトガルからマラッカを単独で奪取したのですか？
+    a: いいえ。VOC（オランダ東インド会社）は、ポルトガルに対して積年の遺恨を抱き、陸上兵力と現地の知識を提供したジョホール王国とともにマラッカを奪取しました。マレーシア国立公文書館（Arkib Negara Malaysia）の記録によれば、この要塞は海と陸からの7か月に及ぶ包囲の末、ジョホールと連合したオランダによって攻略されました。1641年に陥落したとき、オランダはポルトガルが防衛に用いていた68門の大砲と74挺の銃を発見しました。
+  - q: なぜオランダはマラッカを豊かな交易港に発展させなかったのですか？
+    a: VOCは1641年よりはるか以前に、目的に合わせて築かれた地域の拠点都市をバタヴィア（ジャカルタ、Batavia）にすでに有しており、マラッカを自らの本部と競わせるつもりは一切なかったからです。会社の優先事項は、競合する欧州列強からこの港とその海峡を遠ざけることであって、競合する中継貿易港を築くことではありませんでした。錫の割当はバタヴィアへ振り向けられ、マラッカの総督たちはより大きな交易の裁量を認められず、港は従属的な駐屯・行政の町として保たれました。
+  - q: マラッカはオランダからイギリスへ一度のきれいな引き渡しで移ったのですか？
+    a: いいえ。30年間に行政上4回も持ち主が替わりました。イギリスは1795年、フランスの手に渡るのを防ぐためキュー書簡（Kew Letters）に基づきマラッカを占領し、1818年にマラッカはオランダに返還され、1824年の英蘭協約（1824年3月17日署名）がスマトラのベンクーレン（Bencoolen）と引き換えにこれを恒久的にイギリスへ割譲し、実際の移管は1825年3月1日に発効しました。
 ---
 
 ある会社が、港を一つ征服するために七か月と外国のスルタン国との同盟を費やす。そしてその後の一世紀半を、その港を決して豊かにさせないために費やす。

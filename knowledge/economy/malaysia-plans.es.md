@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Estudiantes, analistas de políticas, periodistas y cualquiera que quiera entender cómo se planifica el desarrollo nacional más allá de un solo ejercicio financiero."
 
 lang: "es"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: ¿En qué se diferencia un Plan de Malasia del Presupuesto anual?
+    a: El Plan de Malasia fija el rumbo; el Presupuesto lo ejecuta. El Plan de Malasia (RMK) es un plan de mediano plazo a cinco años que establece los ejes, las prioridades y las metas de resultados, no cuántos ringgit puede gastar un ministerio determinado en un año concreto. Esas cifras anuales solo aparecen cuando el Ministro de Finanzas presenta el Presupuesto Federal cada octubre/noviembre, a través de las Estimaciones de Gasto de Desarrollo que traducen la parte del RMK correspondiente a ese año.
+  - q: ¿Se aprueba el Plan de Malasia como ley, igual que el Presupuesto?
+    a: No. El Plan de Malasia se presenta y se aprueba como una moción de política para el debate parlamentario, no como un proyecto de ley. El Presupuesto, en cambio, debe pasar por un Proyecto de Ley de Suministros (Supply Bill) que atraviesa todo el proceso legislativo antes de ser promulgado como Ley de Suministros (Supply Act). El 13.º Plan de Malasia (RMK13), por ejemplo, se presentó como moción en la Cámara de Representantes (Dewan Rakyat) el 31 de julio de 2025 y en el Senado (Dewan Negara) el 25 de agosto de 2025.
+  - q: ¿Proviene del dinero del Gobierno la totalidad de los RM611 mil millones del RMK13?
+    a: No. De los al menos RM611 mil millones de inversión del RMK13, solo RM430 mil millones corresponden a la asignación de desarrollo del Gobierno. El resto proviene de RM120 mil millones en inversión directa nacional por parte de Empresas Vinculadas al Gobierno (GLC) y Empresas de Inversión Vinculadas al Gobierno (GLIC), más RM61 mil millones mediante el esquema de asociación público-privada (PPP).
 ---
 
 El 31 de julio de 2025, el Primer Ministro presentó ante la Cámara de

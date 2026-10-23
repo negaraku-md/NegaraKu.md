@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 
 status: "published"
 aiAssisted: true
@@ -74,6 +74,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: マレーシアに移住する際、まず何を片付けておくべきですか？
+    a: 何かを予約する前に、まず入国パスです。その後のほぼすべての手続きは、パスポートではなく、あなたが保持しているパスを確認します。入国後の実務上の順序は、まず仮住まい、次に銀行口座（パスとマレーシアの住所が必要）、次にSIM登録（これもパスと現地の住所に左右されます）、そして運転する予定があれば運転免許の切り替え、となります。パスが発行される前に銀行口座を開こうとすることは、新しく来た人が一週間を無駄にする最もよくある原因です。
+  - q: 観光パスで入国し、後で就労パスや長期滞在パスに切り替えることはできますか？
+    a: ほとんどの場合、できません。標準的な短期の社交訪問（観光）パスは、あなたが訪問を許可されていることを証明するだけで、マレーシア国内から就労や長期滞在の資格に切り替わることはありません。就労、家族によるスポンサー、または自己資金による長期滞在が計画であれば、パスの申請は通常、移住前に完了させるか、少なくとも十分に進めておく必要があり、到着後の最初の一週間の用事として扱うべきではありません。
+  - q: マレーシア・デジタル到着カードとは何ですか、また費用はかかりますか？
+    a: マレーシア・デジタル到着カード（MDAC）は、ほとんどの外国人入国者が到着前にオンラインで完了しなければならない無料の入国登録で、入国管理局自身の公式ポータルからのみ提出されます。これはビザではなく、すでにお持ちのパスやビザに取って代わるものでもありません。入国管理局は、非公式の偽サイトが、本来は出所では無料のこのフォームについて旅行者から料金を徴収してきたため、無料であることを強調しています。
 ---
 
 マレーシアへの移住を計画する人の多くは、間違った問いから始めてしまう。「どんな書類が必要か」と尋ね、結果としてビザの種類、SIMカードの案内、銀行口座の規則、運転免許の規則といったタブでブラウザをいっぱいにしながらも、どれを先に済ませるべきかの見当がつかないまま終わる。そして入国し、観光スタンプのまま銀行口座を開こうとして断られ、その理由を突き止めるのに1週間を費やす。

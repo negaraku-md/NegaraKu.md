@@ -26,7 +26,7 @@ verificationNeeded:
   - "Các con số thu nhập, tiền gửi và thời hạn cụ thể của MM2H theo từng bậc nên được xác nhận trực tiếp trên cổng MM2H chính thức (mm2h.gov.my) vào thời điểm nộp đơn, vì cổng chặn việc truy cập tự động và các bậc của nó đã được tái cơ cấu hơn một lần trong những năm gần đây."
 
 lang: "vi"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: Tôi nên sắp xếp điều gì trước tiên khi chuyển đến Malaysia?
+    a: 'Giấy phép di trú của bạn, trước khi bạn đặt bất cứ thứ gì. Hầu như mọi thủ tục tiếp theo đều kiểm tra giấy phép bạn đang có, chứ không phải hộ chiếu của bạn. Sau khi nhập cảnh, thứ tự thực tế là: chỗ ở tạm thời trước, sau đó là tài khoản ngân hàng (cần giấy phép cùng với một địa chỉ ở Malaysia), rồi đăng ký SIM (việc này cũng phụ thuộc vào giấy phép và một địa chỉ địa phương), rồi chuyển đổi bằng lái xe nếu bạn định lái xe. Cố gắng mở tài khoản ngân hàng trước khi giấy phép được cấp là cách phổ biến nhất khiến người mới đến lãng phí cả một tuần.'
+  - q: Tôi có thể nhập cảnh bằng giấy phép du lịch rồi chuyển sang giấy phép làm việc hoặc lưu trú dài hạn sau đó không?
+    a: Trong hầu hết các trường hợp, không. Giấy phép thăm viếng xã hội ngắn hạn (du lịch) tiêu chuẩn chỉ chứng nhận rằng bạn được phép thăm viếng và không chuyển đổi thành tình trạng làm việc hoặc lưu trú dài hạn từ bên trong Malaysia. Nếu kế hoạch là làm việc, được gia đình bảo lãnh hoặc lưu trú dài hạn tự túc, thì đơn xin giấy phép nhìn chung cần được giải quyết xong, hoặc ít nhất đã tiến triển tốt, trước khi chuyển đến, chứ không nên coi là việc cần làm trong tuần đầu tiên sau khi bạn hạ cánh.
+  - q: Thẻ Nhập cảnh Kỹ thuật số Malaysia là gì, và nó có tốn phí không?
+    a: Thẻ Nhập cảnh Kỹ thuật số Malaysia (MDAC) là một đăng ký nhập cảnh miễn phí mà hầu hết người nước ngoài đến phải hoàn thành trực tuyến trước khi hạ cánh, chỉ được nộp qua cổng thông tin chính thức của chính Cục Di trú. Nó không phải là thị thực và không thay thế bất kỳ giấy phép hoặc thị thực nào bạn đã có. Cục nhấn mạnh rằng nó miễn phí vì các trang web giả mạo không chính thức đã tính phí du khách cho một mẫu đơn vốn không tốn chi phí gì tại nguồn.
 ---
 
 Hầu hết mọi người lên kế hoạch một cuộc chuyển đến Malaysia bắt đầu bằng câu hỏi sai. Họ hỏi "tôi cần những giấy tờ nào?" và cuối cùng có một trình duyệt đầy các tab — các loại visa, hướng dẫn thẻ SIM, quy tắc tài khoản ngân hàng, quy tắc bằng lái xe — mà không có cảm nhận nào về việc cái nào phải xảy ra trước. Rồi họ hạ cánh, thử mở một tài khoản ngân hàng bằng một dấu du lịch, bị từ chối, và mất một tuần để tìm ra vì sao.

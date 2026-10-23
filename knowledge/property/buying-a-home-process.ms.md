@@ -38,7 +38,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 sources:
   - title: "Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Seksyen C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: Siapa yang dari segi undang-undang membayar duti setem bagi pindah milik hartanah di Malaysia — pembeli atau penjual?
+    a: Pembeli. Di bawah Jadual Ketiga Akta Setem 1949, pembeli, bukan penjual, ialah pihak yang bertanggungjawab dari segi undang-undang untuk membayar duti setem pindah milik. Ia dikenakan ke atas Memorandum Pindah Milik pada kadar berperingkat Perkara 32(a) — 1% bagi RM100,000 pertama sehingga 4% melebihi RM1,000,000 — dikira berdasarkan yang mana lebih tinggi, harga yang dinyatakan atau penilaian pasaran LHDN.
+  - q: Adakah rumah sub-jual (jualan semula) memberikan perlindungan yang sama seperti membeli projek baharu?
+    a: Tidak. Pembelian projek baharu daripada pemaju berlesen mengikut Perjanjian Jual Beli berkanun Jadual G atau H di bawah Akta Pemajuan Perumahan (Kawalan dan Pelesenan) 1966, dengan peratusan ansuran yang tetap, tarikh akhir penyerahan milikan kosong yang diwajibkan (24 bulan bagi hartanah berkepala tanah) dan ganti rugi tertentu secara automatik atas kelewatan penyerahan. SPA sub-jual pula ialah kontrak persendirian tanpa semua itu — jadual masa dan terma pelucutannya dirundingkan secara persendirian, jadi bacalah ia dengan sama teliti.
+  - q: Mengapa pembeli sering akhirnya membayar dua set yuran guaman bagi satu pembelian?
+    a: Kerana dua dokumen berasingan berjalan selari, dikendalikan bagi pihak klien yang berbeza. Seorang peguam mendraf dan menyetem Perjanjian Jual Beli yang memindahkan hartanah; seorang lagi — dilantik oleh bank, kadangkala firma yang sama memakai topi kedua — menyediakan Perjanjian Pinjaman dan Gadaian (Borang 16A) yang menjamin kepentingan bank. Peguam bank melindungi gadaian bank, bukan deposit pembeli, jadi peranan dan yuran mereka adalah berbeza.
 ---
 
 Kebiasaannya dua orang peguam terlibat dalam satu-satu pembelian rumah di Malaysia, dan kebanyakan pembeli langsung tidak perasan bahawa mereka adalah dua orang yang berbeza. Seorang menyediakan dan menyetem Perjanjian Jual Beli yang memindahkan hartanah itu. Seorang lagi — dilantik oleh bank, kadangkala firma yang sama — menyediakan dan menyetem perjanjian pinjaman serta gadaian yang membolehkan bank merampas hartanah itu sekiranya pinjaman tidak dibayar balik. Pembeli yang menganggap "peguam" itu sebagai satu watak tunggal dalam cerita ini biasanya keliru kemudian mengapa dua set yuran guaman muncul, atau mengapa kunci rumah tidak sampai pada hari pinjaman diluluskan.

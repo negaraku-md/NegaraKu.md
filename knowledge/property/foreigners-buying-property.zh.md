@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: 外国人在马来西亚各地购买房产是否都适用单一的100万令吉最低价格门槛？
+    a: 不是。100万令吉这一数字仅适用于联邦直辖区——吉隆坡、布城和纳闽——依据经济策划组的《房产收购指南》，该指南已配合2014年财政预算案进行修订。由于土地属于州权事项，其他每个州都会自行设定并不时修订本身的最低价格门槛，可能更高、更低，或按区域、按县，或按有地房产与分层房产分别设定。
+  - q: 如果外国人符合该州的最低价格，这项购买就一定能成交吗？
+    a: 不一定——达到价格门槛只是让买家进入申请阶段。还有第二道独立的关卡，即依据《国家土地法典》第433B条须取得州务当局的书面同意，无论价格高低，每一宗外国人收购都必须具备。该同意属于酌情决定，并非自动给予，且可被拒绝。依据第433C条，任何未经该书面批准而完成的交易均属无效。
+  - q: 只要出价够高，外国人就能购买马来西亚的任何房产吗？
+    a: 不能。有些房产无论价格多高都被完全排除在外：马来保留地（依据各州《马来保留地法令》，转让予非马来人者无效）、被划为农业用途的土地，以及土著固打或低成本和可负担房屋单位。这些完全不在价格与同意的框架之内，因此付出高于州最低价的金额也毫无作用。沙巴和砂拉越也在《国家土地法典》之外实行各自独立的土地法律。
 ---
 
 一名来自香港的买家同意以 RM1.8 million 的价格购买八打灵再也（Petaling Jaya）的一间半独立式住宅。融资已经安排妥当，卖方也愿意出售，价格跨过了网上所能查到的每一道门槛。然而，这笔交易仍然无法完成，除非莎阿南（Shah Alam）的一个州政府机构做出决定——完全由其自行酌情——是否允许一名外国人持有这份地契。

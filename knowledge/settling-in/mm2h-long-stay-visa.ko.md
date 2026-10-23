@@ -23,7 +23,7 @@ verificationNeeded:
   - "MOTAC 자체 사이트가 일부 자동 조회기에 403을 반환함. 여기 수치는 mm2h.gov.my의 범주 및 지침 페이지에 대한 직접 브라우저식 요청으로 조회하여 사이트 자체의 범주 개요 비교표와 교차 확인했지만, 프로그램은 2024년 이후 상당히 변경되었고 조건이 다시 개정될 수 있으므로 — 신청에 의존하기 전에 항상 mm2h.gov.my에서 현행 수치를 확인할 것."
 
 lang: "ko"
-sourceContentHash: "722c4d82da3ee8ea"
+sourceContentHash: "6ca0d692c04f8572"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: MM2H 패스로 취업하거나 사업을 운영할 수 있습니까?
+    a: 플래티넘(Platinum) 등급에서만 가능합니다. MOTAC의 플래티넘 페이지는 사업/투자 활동과 취업 기회를 모두 "허용(Permissible)"으로 표기하는 반면, 실버(Silver), 골드(Gold), SEZ/SFZ 페이지는 모두 "불허(Not allowed)"로 표기합니다. MM2H는 취업 비자도, 시민권 취득 경로도, 영주권도 아닙니다 — 갱신 가능한 장기 체류 패스입니다. 취업이나 사업 운영이 중요하다면, 바로 그 등급별 차이가 어떤 등급이, 있다면, 당신의 계획에 맞는지를 결정합니다.
+  - q: MM2H가 승인되면 제 정기예금을 자유롭게 사용할 수 있습니까?
+    a: '아니요. MOTAC은 승인 후 정기예금 원금의 최대 50% 인출을 허용하며, 그것도 특정 목적에 한해서만 허용합니다: 요구되는 주거지 구입, 또는 말레이시아에서의 교육, 의료, 관광 활동입니다. 이는 조건부 해제이지 자유 사용 계좌가 아닙니다. 남은 잔액은 말레이시아 은행에 그대로 두어야 하며, 외국 자금 및 그 예금이 그곳에 있는 동안 그로부터 발생한 수익에는 명시된 세금 면제가 적용됩니다.'
+  - q: MM2H 신청을 실제로 승인하는 곳은 어디입니까 — MOTAC입니까 아니면 이민국입니까?
+    a: 둘 다이며, 역할이 다릅니다. MOTAC은 프로그램을 운영하고 각 등급의 요건을 정하지만, 최종 이민 승인, 패스 배서, 그리고 모든 이의 신청은 이민국(Jabatan Imigresen Malaysia)을 통해 내무부가 담당합니다. 신청은 인가받은 MM2H 대행사가 원스톱센터(One Stop Centre)를 통해 제출합니다. 따라서 등급 요건에 관한 질문은 MOTAC에, 승인이나 배서 관련 사안은 이민국에 문의하십시오 — 두 개의 당국, 두 개의 관할입니다.
 ---
 
 「MM2H 실버 패스는 얼마나 지속되는가」를 검색하면, 같은 등급에 대해 5년, 10년, 그 밖의 기간을 자신 있게 인용하는 안내서들을 찾을 수 있습니다. 이는 인터넷 전반에 반복된 오타가 아니라 — 프로그램이 재편되었는데 모든 안내서가 따라잡지 못할 때 일어나는 일입니다. MM2H 자체가 한 번 이상, 가장 최근에는 2024년에 진정으로 형태를 바꿔 왔으며, 지금 유통되는 등급 이름, 예금 금액, 패스 기간은 적어도 두 가지 다른 판본의 규정에 속합니다.

@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ko"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "198b32c117f346a7"
+sourceContentHash: "7bc376bb0aba475a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["말레이시아 기독교", "말레이시아 기독교도", "사바 사라왁 기독교도", "가톨릭 말레이시아", "개신교 말레이시아", "말레이시아 기독교연맹"]
+faq:
+  - q: 말레이시아 기독교인은 대부분 중국계나 인도계입니까?
+    a: 아닙니다 — 이는 이 글이 바로잡는 흔한 오해입니다. 공동체별로 보면 말레이시아 기독교인은 다수가 부미푸트라(약 59%)로, 카다잔-두순족, 이반족, 비다유족 등 사이에 자리한 보르네오의 토착 교회를 반영합니다. 중국계(약 27%)와 인도계(약 4%)는 반도에 집중된 소수입니다. 말레이시아 기독교인의 3분의 2 이상(약 70%)이 사바주와 사라왁주에 거주합니다.
+  - q: 성금요일(Good Friday)은 말레이시아 전역에서 공휴일입니까?
+    a: 아닙니다. 둘은 적용 범위가 다릅니다. 크리스마스는 전국 공휴일이지만, 성금요일은 사바주와 사라왁주에서만 공휴일입니다. 이는 이 신앙의 지리적 분포를 반영합니다. 말레이시아 기독교인의 3분의 2 이상 — 그리고 기독교가 단일 종교로는 가장 큰 사라왁주 — 이 반도가 아니라 동말레이시아에 있기 때문입니다.
+  - q: 말레이시아 기독교연맹은 무엇이며, 어떤 단체들을 아우릅니까?
+    a: 1985년에 결성된 말레이시아 기독교연맹(Christian Federation of Malaysia, CFM)은 주요 우산 조직입니다. 말레이시아 기독교의 세 흐름, 즉 가톨릭 주교회의(Catholic Bishops' Conference), 말레이시아 교회협의회(Council of Churches of Malaysia, 주류 개신교), 전국 복음주의 기독교 협회(National Evangelical Christian Fellowship)를 하나로 묶습니다. CFM은 자국 교회의 95% 이상을 대표한다고 밝히며, 그 다수는 사바주와 사라왁주의 말레이어를 사용하는 회중입니다.
 ---
 
 말레이시아 기독교의 이야기에는 두 개의 중심이 있는데, 그 어느 것도 수도에 있지

@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "722c4d82da3ee8ea"
+sourceContentHash: "6ca0d692c04f8572"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: MM2Hパスで就労や事業経営はできますか。
+    a: プラチナ（Platinum）ティアに限られます。MOTACのプラチナのページは、事業・投資活動と就労機会のいずれも「許可（Permissible）」と記載していますが、シルバー（Silver）、ゴールド（Gold）、SEZ/SFZのページはいずれも「不可（Not allowed）」と記載しています。MM2Hは就労ビザでも、国籍取得の経路でも、永住権でもありません——更新可能な長期滞在パスです。就労や事業経営が重要であれば、このティアごとの違いこそが、どのティアが（もしあれば）自分の計画に合うかを決めます。
+  - q: MM2Hが承認されたら、定期預金を自由に使えますか。
+    a: いいえ。MOTACは承認後、定期預金の元本の最大50%の引き出しを、特定の目的に限って認めています。すなわち、必要な住居の購入、またはマレーシアでの教育、医療、観光活動です。これは条件付きの解除であって、自由に使える口座ではありません。残りの残高はマレーシアの銀行に残しておかなければならず、外国からの資金、およびその預金がそこに置かれている間に生じた利益には、所定の免税が適用されます。
+  - q: MM2Hの申請を実際に承認するのは誰ですか——MOTACですか、それとも入国管理局ですか。
+    a: 両方が、異なる役割で関わります。MOTACはプログラムを運営し、各ティアの要件を定めますが、最終的な入国審査の承認、パスの裏書き、および不服申立ては、入国管理局（Jabatan Imigresen Malaysia）を通じて内務省が所管します。申請は認可されたMM2Hエージェントがワンストップセンター（One Stop Centre）を通じて提出します。したがって、ティア要件に関する質問はMOTACへ、承認や裏書きに関する事項は入国管理局へ——二つの当局、二つの管轄です。
 ---
 
 「MM2H Silver パス 期間」で検索すれば、同じ等級について5年、10年、その他さまざまな年数を自信満々に挙げるガイドが見つかる。これはネット上でコピーされ続けている単なる誤植ではない——制度が再編され、すべてのガイドがそれに追いついているわけではないときに起きる現象である。MM2H自体、実際に一度ならず形を変えており、直近では2024年に変わった。現在出回っている等級名、預金額、パス期間は、少なくとも二つの異なるバージョンの規則にまたがっている。

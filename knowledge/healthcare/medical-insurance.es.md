@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Empleados que sopesan la cobertura médica del empleador frente a una tarjeta médica personal, y cualquiera que intente entender qué significa «copago» antes de comprar o renovar una póliza."
 
 lang: "es"
-sourceContentHash: "5d9b4b2567c4315f"
+sourceContentHash: "7e22fc5e8613df5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "affects", to: "employment-contract-malaysia" }
 related: ["epf-socso-employees", "income-tax-individuals", "employment-contract-malaysia"]
 keywords: ["medical insurance Malaysia", "medical card Malaysia", "GHS insurance Malaysia", "group hospitalisation and surgical", "co-payment medical insurance Malaysia", "MHIT Bank Negara", "employer medical benefits Malaysia", "medical insurance tax relief Malaysia"]
+faq:
+  - q: Si tengo una tarjeta médica, ¿paga el tratamiento en un hospital público?
+    a: 'Ese no es el propósito de una tarjeta médica. Los hospitales y clínicas públicos de Malasia, gestionados por el Ministerio de Salud, están fuertemente subvencionados para los ciudadanos, tenga o no una póliza: el tratamiento se recibe de todos modos. Una tarjeta médica es, en esencia, un producto de hospitalización y cirugía para el sistema privado, que existe principalmente para hacer asequible el tratamiento en hospitales privados, no para dar acceso a la atención en sí.'
+  - q: ¿Qué ocurre con la cobertura médica de mi empleador cuando dejo el trabajo?
+    a: 'La cobertura de Hospitalización y Cirugía de Grupo (Group Hospitalisation and Surgical, GHS) está ligada al empleo. Si renuncia, es despedido o se jubila, la póliza se detiene el día en que termina el empleo: no hay continuación personal automática. En cambio, una tarjeta médica personal independiente es portátil: sigue siendo suya sin importar el empleador, siempre que se paguen las primas y se renueve la póliza, por lo que muchas personas la tratan como un respaldo.'
+  - q: ¿Es una póliza médica 'sin copago (no co-payment)' automáticamente mejor que una con copago?
+    a: 'No necesariamente: el artículo lo señala como un error común. Un plan sin copago conlleva una prima más alta para los mismos límites de beneficios. Con el copago (co-payment), usted acepta de antemano asumir una parte definida de cada factura hospitalaria elegible a cambio de una prima más baja. Que esa compensación valga la pena depende de cuánto de una factura podría asumir usted mismo; consulte la hoja de divulgación del producto (product disclosure sheet) para conocer el porcentaje, cualquier tope y los tratamientos excluidos.'
 ---
 
 Dos empleados entran en el mismo hospital privado con el mismo brazo roto. Uno entrega una tarjeta y sale sin pagar un sen al recibir el alta. La otra paga una parte de la factura ella misma, porque la póliza que compró hace seis meses era más barata precisamente por esa razón.

@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
+faq:
+  - q: I'm on an Employment Pass — doesn't that decide my Malaysian tax status?
+    a: No. Section 7 of the Income Tax Act 1967 decides residence by a physical-presence day count, not by citizenship, MyKad status or pass type. The most-cited test is 182 days or more in the basis year, but three other tests can make you resident on fewer days. A foreigner on a work pass who never leaves can be resident from day one; a Malaysian citizen abroad most of the year can be non-resident.
+  - q: My employer already deducts PCB from my salary every month — do I still need to file a return?
+    a: Yes, once your income crosses the registration threshold. Monthly withholding (PCB/MTD) is only an estimate deducted in advance. The annual return is the reconciliation — where reliefs are claimed, other income is declared, and the actual position is settled, whether that means a refund or a top-up. Holding a tax file and submitting a return is required independently of whether your employer already withholds tax each month.
+  - q: I already have a Tax Identification Number — can I just log in to MyTax and file?
+    a: Not yet. First-time filers need two credentials in sequence. A TIN, obtained through e-Daftar (many citizens and permanent residents already have one automatically), does not by itself open e-Filing. LHDN requires a separate PIN to activate the e-Filing account tied to that TIN — historically via a branch, more recently requestable through the portal. Only after both steps can you open and submit the correct return form.
 ---
 
 A new hire moves to Kuala Lumpur on a two-year Employment Pass and assumes the

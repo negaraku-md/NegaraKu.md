@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Contribuyentes individuales, empleados, trabajadores gig, pymes y empleadores, y cualquiera que planifique en torno a los cambios de impuestos, salarios y ayudas en efectivo del Presupuesto 2027 de Malasia."
 
 lang: "es"
-sourceContentHash: "9667ec689364dcd2"
+sourceContentHash: "425e9a866d80e746"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "personal-tax-rates", "fuel-subsidies"]
 keywords: ["Presupuesto 2027 Malasia", "Belanjawan 2027", "Presupuesto 2027 impuesto sobre la renta", "salario mínimo RM2000", "Presupuesto 2027 impuesto pymes", "SARA STR 2027", "desgravación fiscal RM12000", "Presupuesto 2027 lo más destacado"]
+faq:
+  - q: ¿Está ya en vigor el salario mínimo de 2.000 RM ahora que se ha presentado el Presupuesto 2027?
+    a: No. El presupuesto presentado el 9 de octubre de 2026 es un anuncio, no una ley. El salario mínimo sube de 1.700 RM a 2.000 RM solo a partir de junio de 2027 y, aun entonces, las microempresas y pymes (MSME) con ventas anuales inferiores a 50 millones de RM quedan exentas al principio. Como toda medida, solo resulta vinculante después de que se aprueben el Proyecto de Ley de Finanzas (Finance Bill), la Ley de Suministros (Presupuesto) 2027 (Supply (Budget) 2027 Act) y las órdenes de publicación oficial que la habiliten, en las fechas de entrada en vigor indicadas en el discurso.
+  - q: ¿Reformó el Presupuesto 2027 el SST o introdujo nuevas normas de facturación electrónica?
+    a: No. El artículo es explícito en que una reforma amplia del SST y las nuevas medidas de facturación electrónica fueron previsiones previas al presupuesto hechas por analistas, no anuncios del discurso del 9 de octubre de 2026. Deben tratarse como expectativas, no como política, hasta que el gobierno indique lo contrario. Los cambios fiscales reales del presupuesto se centran en el recorte de un punto porcentual en los tipos del impuesto sobre la renta de residentes y pymes (SME) y en el aumento de la desgravación general de 9.000 RM a 12.000 RM.
+  - q: ¿A partir de cuándo queda exenta del impuesto de timbre la apertura de una cuenta de ahorro o corriente bajo el Presupuesto 2027?
+    a: A partir del 1 de enero de 2027, la apertura de una cuenta de ahorro o corriente queda totalmente exenta del impuesto de timbre. Esa misma fecha trae también la reducción del impuesto sobre servicios de los servicios de cuidado de ancianos del 8% al 6% y el inicio de los derechos laborales del cónyuge expatriado con un pase de dependiente. Estas fechas son las anunciadas el 9 de octubre de 2026 y solo surten efecto una vez aprobadas la ley habilitante y las órdenes de publicación oficial.
 ---
 
 El 9 de octubre de 2026, el Primer Ministro y Ministro de Finanzas Anwar Ibrahim

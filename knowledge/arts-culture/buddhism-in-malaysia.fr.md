@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "fr"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "288705196583cc87"
+sourceContentHash: "48f4e6165d3f9202"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["wesak", "chinese-religion-in-malaysia", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["bouddhisme en Malaisie", "Buddhism in Malaysia", "bouddhisme mahāyāna Malaisie", "bouddhisme theravāda Malaisie", "Wesak", "Kek Lok Si"]
+faq:
+  - q: Les 18,7 % de bouddhistes du recensement sont-ils tous bouddhistes au sens strict ?
+    a: Non. Le chiffre du « bouddhisme » dans le recensement de 2020 recoupe largement la religion populaire chinoise. De nombreux Chinois, dans leur vie quotidienne, vénèrent le Bouddha, rendent un culte aux divinités et honorent leurs ancêtres en même temps, et se déclarent bouddhistes lors du recensement. Ainsi, ces 18,7 % englobent à la fois des bouddhistes au sens strict et de nombreux adeptes de la religion populaire qui mêlent bouddhisme, taoïsme, confucianisme et culte des ancêtres — c'est précisément pourquoi les chiffres du recensement se recoupent entre eux.
+  - q: L'affirmation selon laquelle « le bouddhisme en Malaisie est la religion des Chinois » est-elle correcte ?
+    a: Pas exactement. Les Chinois constituent effectivement l'essentiel des fidèles, pour la plupart du bouddhisme mahayana ; mais les communautés d'origine siamoise, sri-lankaise et birmane suivent une lignée distincte et indépendante — le bouddhisme theravada, dont les temples sont appelés Wat, les communautés siamoises des États du Nord ayant l'histoire la plus ancienne. Il existe en outre un vajrayana de moindre ampleur. Assimiler le bouddhisme de Malaisie à la religion des Chinois revient à ignorer ces traditions parallèles.
+  - q: Que commémore le Wesak ? Est-ce un jour férié ?
+    a: Le Wesak (jour du Wesak) commémore la naissance, l'éveil et l'entrée dans le nirvana du Bouddha, et c'est un jour férié national en Malaisie. Les fidèles se rendent dans les temples pour offrir des fleurs, allumer des lampes et faire l'aumône. La liberté religieuse est protégée par l'article 11 de la Constitution fédérale ; bien que l'article 3 fasse de l'islam la religion de la Fédération, il n'empêche pas les autres religions d'être pratiquées en paix.
 ---
 
 Sur les collines de Penang, la silhouette de la pagode du Kek Lok Si domine

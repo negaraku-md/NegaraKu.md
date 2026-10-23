@@ -27,7 +27,7 @@ verificationNeeded:
   - "Trích dẫn và năm chính xác của sửa đổi National Land Code vốn đóng lại miễn trừ trước đó cho đất công nghiệp khỏi sự đồng ý của Chính quyền Bang không thể xác nhận được so với chính văn bản của Đạo luật sửa đổi; nó được mô tả ở đây dựa trên bình luận pháp lý thứ cấp hội tụ chứ không phải một điều khoản gốc được đọc trực tiếp."
 
 lang: "vi"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: Có một mức giá tối thiểu duy nhất là 1 triệu RM cho người nước ngoài mua bất động sản trên khắp Malaysia không?
+    a: Không. Con số 1 triệu RM chỉ áp dụng riêng cho các Lãnh thổ Liên bang — Kuala Lumpur, Putrajaya và Labuan — theo Hướng dẫn về Việc Mua lại Bất động sản của Đơn vị Kế hoạch Kinh tế (Economic Planning Unit), được sửa đổi phù hợp với Ngân sách 2014. Vì đất đai thuộc danh mục của bang, nên mỗi bang khác đều tự đặt ra và định kỳ điều chỉnh mức sàn riêng của mình, có thể cao hơn, thấp hơn, hoặc phân chia theo khu vực, theo huyện, hay theo bất động sản gắn liền với đất (landed) so với bất động sản phân tầng (strata).
+  - q: Nếu người nước ngoài đáp ứng mức giá tối thiểu của bang, thì việc mua có chắc chắn hoàn tất không?
+    a: Không — vượt qua mức giá sàn chỉ đưa người mua đến bước nộp đơn. Một cửa ải thứ hai, riêng biệt, là sự đồng ý bằng văn bản của Cơ quan Bang theo mục 433B của Bộ luật Đất đai Quốc gia (National Land Code), bắt buộc đối với mọi giao dịch mua lại của người nước ngoài bất kể giá cả. Sự đồng ý này mang tính tùy quyền, không tự động, và có thể bị từ chối. Theo mục 433C, bất kỳ giao dịch nào hoàn tất mà không có sự phê duyệt bằng văn bản đó đều vô hiệu.
+  - q: Người nước ngoài có thể mua bất kỳ bất động sản nào ở Malaysia nếu trả giá đủ cao không?
+    a: 'Không. Một số bất động sản bị loại trừ hoàn toàn bất kể giá cả: Đất Dự trữ của Người Mã Lai (Malay Reserved Land) (nơi việc chuyển nhượng cho người không phải Mã Lai là vô hiệu theo các Đạo luật Dự trữ Mã Lai (Malay Reservation Enactments)), đất được phân loại cho nông nghiệp, và các căn hộ thuộc hạn ngạch Bumiputera hoặc nhà ở chi phí thấp và giá phải chăng. Những loại này nằm hoàn toàn ngoài khung giá và sự đồng ý, nên việc trả cao hơn mức tối thiểu của một bang không thay đổi điều gì. Sabah và Sarawak cũng vận hành luật đất đai riêng biệt của họ bên ngoài Bộ luật Đất đai Quốc gia.'
 ---
 
 Một người mua từ Hồng Kông đồng ý trả RM1.8 triệu cho một căn nhà bán biệt lập ở Petaling Jaya. Tài trợ đã được thu xếp, người bán sẵn lòng, giá vượt mọi ngưỡng mà bất kỳ ai báo trên mạng. Giao dịch vẫn không thể hoàn tất cho đến khi một văn phòng của chính quyền bang ở Shah Alam quyết định — theo tùy nghi của mình — liệu có cho một người nước ngoài giữ quyền sở hữu đó hay không.

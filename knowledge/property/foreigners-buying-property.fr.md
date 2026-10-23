@@ -27,7 +27,7 @@ verificationNeeded:
   - "La citation et l'année exactes de l'amendement au National Land Code qui a supprimé l'ancienne exemption des terres industrielles du consentement de l'Autorité de l'État n'ont pas pu être confirmées par rapport au texte même de la loi modificative ; elles sont décrites ici sur la base de commentaires juridiques secondaires convergents plutôt que d'une clause primaire lue directement."
 
 lang: "fr"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: Existe-t-il un prix minimum unique de 1 million de RM pour les étrangers achetant un bien immobilier dans toute la Malaisie ?
+    a: Non. Le chiffre de 1 million de RM est propre aux Territoires fédéraux — Kuala Lumpur, Putrajaya et Labuan — en vertu de la Directive sur l'acquisition de biens immobiliers de l'Unité de planification économique (Economic Planning Unit), révisée conformément au Budget 2014. Comme le foncier relève de la compétence des États, chaque autre État fixe et révise périodiquement son propre seuil, qui peut être plus élevé, plus bas, ou décliné par zone, par district, ou selon qu'il s'agit d'un bien avec terrain (landed) ou d'un bien en copropriété (strata).
+  - q: Si un étranger atteint le prix minimum de l'État, l'achat est-il assuré d'aboutir ?
+    a: Non — franchir le seuil de prix n'amène l'acheteur qu'au stade de la demande. Un second obstacle, distinct, est le consentement écrit de l'Autorité de l'État en vertu de l'article 433B du Code national foncier (National Land Code), exigé pour toute acquisition par un étranger quel que soit le prix. Ce consentement est discrétionnaire, et non automatique, et peut être refusé. En vertu de l'article 433C, toute opération conclue sans cette approbation écrite est nulle et non avenue.
+  - q: Un étranger peut-il acheter n'importe quel bien immobilier en Malaisie si l'offre est suffisamment élevée ?
+    a: 'Non. Certains biens sont exclus d''emblée quel que soit le prix : les terres réservées aux Malais (Malay Reserved Land) (où un transfert à un non-Malais est nul en vertu des lois sur la réserve malaise (Malay Reservation Enactments)), les terres classées agricoles, et les logements sous quota Bumiputera ou à coût modéré et abordables. Ceux-ci se situent entièrement en dehors du cadre du prix et du consentement, de sorte que payer au-delà du minimum d''un État n''y change rien. Sabah et Sarawak appliquent également leurs propres lois foncières distinctes, en dehors du Code national foncier.'
 ---
 
 Un acheteur de Hong Kong accepte de payer RM1.8 million pour une maison jumelée à Petaling Jaya. Le financement est arrangé, le vendeur est d'accord, le prix franchit tous les seuils que quelqu'un a cités en ligne. L'opération ne peut pourtant pas aboutir tant qu'un bureau du gouvernement de l'État à Shah Alam ne décide pas — à sa propre discrétion — d'autoriser ou non un étranger à détenir ce titre, tout simplement.

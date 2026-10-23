@@ -42,7 +42,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "6d48887f5e7bc5dd"
+sourceContentHash: "7dd45f5bebbd1f93"
 sources:
   - title: "卫生实况2024（2023年参考数据）(Health Facts 2024 (Reference Data for Year 2023))"
     url: "https://myhdw.moh.gov.my/public/documents/20186/150084/HEALTH+FACTS+2024/52a11e45-a0ed-4379-b226-1bd2786cc11e?version=1.0&download=true"
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "socso-perkeso" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "medical-insurance", "socso-perkeso"]
 keywords: ["Malaysia healthcare system", "public vs private healthcare Malaysia", "Ministry of Health Malaysia KKM", "klinik kesihatan vs private clinic", "PeKa B40", "MySalam", "SPIKPA foreign worker insurance", "foreigner hospital fees Malaysia", "Fees Act 1951"]
+faq:
+  - q: 在马来西亚，“公立医院”是否意味着免费医疗？
+    a: 不是——它意味着为公民和永久居民提供高额补贴，他们只需支付象征性的挂号和治疗费，而非实际成本。非公民在同样的设施就医，则按另一套更高的收费表计费，该收费表依据1951年收费法令（Fees Act 1951）下的收费（医疗）令（Fees (Medical) Order）制定。走进政府医院的游客或长期准证持有者仍然处于公共系统之内，只是处于其不受补贴的一侧。
+  - q: 任何马来西亚公民都可以使用 PeKa B40 或 MySalam 吗？
+    a: 不行。两者都与 B40 现金援助（Sumbangan Tunai Rahmah，STR，关怀现金援助）受惠者身份挂钩，而非一般公民身份。对符合条件的 STR 受惠者而言是自动的——无需另行申请——但仅覆盖 B40 收入群体。PeKa B40 涵盖筛查以及最高 RM20,000 的医疗器械援助；MySalam 在确诊列明的严重疾病时支付最高 RM8,000。不领取 STR 的公民不会自动获得保障。
+  - q: 在马来西亚的外籍劳工需要自己的健康保险吗？
+    a: 需要。有合法证件的外籍劳工必须持有 SPIKPA（Skim Perlindungan Insurans Kesihatan Pekerja Asing，外籍劳工健康保险保障计划），这是一项强制性的住院与手术保险计划，才能更新其工作准证——这项要求在移民局（Jabatan Imigresen）自己的网站上得到确认。它由雇主安排并支付，涵盖在政府医院的入院和手术。外派人员和游客不在其保障范围内，通常依靠在公开市场上购买的私人保险。
 ---
 
 一位马来西亚退休人士胸口疼痛，叫了救护车被送往最近的政府医院，一名心脏科专科医生为他诊治，收费只是实际成本的一小部分。他的邻居，一名来自印尼的工作准证持有人，出现相同的症状，被送到同一家医院的急诊部——但随后开出的账单，却是按照完全不同的收费表计算的，因为在卫生部眼中，这两人并不是同一类病人。

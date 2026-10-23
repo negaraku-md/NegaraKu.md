@@ -27,7 +27,7 @@ verificationNeeded:
   - "Tenggat pengajuan tahunan (30 April manual / 15 Mei e-Filing) diverifikasi bagi Tahun Penilaian 2025 melalui pernyataan media bertanggal LHDN sendiri; LHDN menerbitkan program pengajuan baru setiap tahun, jadi periksa kembali tanggal tahun berjalan sebelum bergantung padanya bagi tahun penilaian yang berbeda."
 
 lang: "id"
-sourceContentHash: "027e674e99f0cfb0"
+sourceContentHash: "0160a6b90a992b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
+faq:
+  - q: Saya memegang Employment Pass — bukankah itu menentukan status pajak Malaysia saya?
+    a: Tidak. Pasal 7 Undang-Undang Pajak Penghasilan 1967 (Income Tax Act 1967) menentukan status kependudukan berdasarkan hitungan hari kehadiran fisik, bukan berdasarkan kewarganegaraan, status MyKad, atau jenis izin (pass). Uji yang paling sering dikutip adalah 182 hari atau lebih dalam tahun dasar, tetapi tiga uji lainnya dapat menjadikan Anda penduduk dengan jumlah hari yang lebih sedikit. Orang asing dengan izin kerja yang tidak pernah keluar bisa menjadi penduduk sejak hari pertama; seorang warga negara Malaysia yang berada di luar negeri hampir sepanjang tahun bisa menjadi bukan penduduk.
+  - q: Majikan saya sudah memotong PCB dari gaji saya setiap bulan — apakah saya masih perlu menyampaikan surat pemberitahuan pajak?
+    a: Ya, begitu penghasilan Anda melampaui ambang pendaftaran. Pemotongan bulanan (PCB/MTD) hanyalah estimasi yang dipotong di muka. Surat pemberitahuan tahunan adalah rekonsiliasinya — di situlah keringanan diklaim, penghasilan lain dilaporkan, dan posisi yang sebenarnya diselesaikan, entah itu berarti pengembalian atau pembayaran tambahan. Memiliki berkas pajak dan menyampaikan surat pemberitahuan diwajibkan terlepas dari apakah majikan Anda sudah memotong pajak setiap bulan.
+  - q: Saya sudah memiliki Nomor Identifikasi Pajak (Tax Identification Number) — bisakah saya langsung masuk ke MyTax dan menyampaikan laporan?
+    a: Belum bisa. Pelapor pertama kali memerlukan dua kredensial secara berurutan. TIN, yang diperoleh melalui e-Daftar (banyak warga negara dan penduduk tetap sudah memilikinya secara otomatis), dengan sendirinya tidak membuka e-Filing. LHDN (Lembaga Hasil Dalam Negeri) mensyaratkan PIN terpisah untuk mengaktifkan akun e-Filing yang terkait dengan TIN tersebut — dulu melalui cabang, belakangan dapat diminta melalui portal. Hanya setelah kedua langkah itu Anda dapat membuka dan menyampaikan formulir laporan yang benar.
 ---
 
 Seorang pekerja baru pindah ke Kuala Lumpur dengan Pas Pekerjaan dua

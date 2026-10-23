@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: マレーシア全土で外国人が不動産を購入する際、一律で100万リンギットという最低価格が設定されているのですか？
+    a: いいえ。100万リンギットという数字は連邦直轄領（クアラルンプール、プトラジャヤ、ラブアン）に限ったもので、経済計画ユニット（Economic Planning Unit）の不動産取得に関するガイドラインに基づき、2014年度予算に合わせて改定されたものです。土地は州の管轄事項（州リスト）に属するため、その他の州はそれぞれ独自の下限価格を設定し、随時改定しています。その価格はより高いことも低いこともあり、ゾーン別、県別、あるいは一戸建て（landed）と区分所有（strata）の別によって分けられることもあります。
+  - q: 外国人が州の最低価格を満たせば、購入は必ず成立するのですか？
+    a: いいえ——価格の下限をクリアしても、買主は申請の段階に達するだけです。二つ目の別個の関門として、国家土地法（National Land Code）第433B条に基づく州当局の書面による同意があり、これは価格にかかわらず外国人によるすべての取得に必要です。この同意は裁量によるものであり自動的ではなく、拒否されることもあります。第433C条により、その書面による承認を得ずに完了した取引はすべて無効となります。
+  - q: 提示額が十分に高ければ、外国人はマレーシアのどの不動産でも購入できるのですか？
+    a: いいえ。一部の不動産は価格にかかわらず完全に対象外とされています。マレー人保留地（マレー人以外への移転はマレー保留地法（Malay Reservation Enactments）により無効）、農業用に区分された土地、そしてブミプトラ割当またはローコスト・手頃価格の住宅ユニットです。これらは価格と同意の枠組みの完全に外にあるため、州の最低価格を上回る金額を支払っても何も変わりません。サバ州とサラワク州も、国家土地法の外で独自の別個の土地法を運用しています。
 ---
 
 香港からの買主が、プタリンジャヤ（Petaling Jaya）の一戸のセミデタッチハウスを RM180万で購入することに合意する。融資は手配され、売主も応じ、価格はネット上で誰かが提示したあらゆる基準を上回っている。それでもこの取引は、シャアラム（Shah Alam）の州政府の事務所が——自らの裁量で——そもそも外国人にその権利を保有させるかどうかを決定するまで、完了できない。

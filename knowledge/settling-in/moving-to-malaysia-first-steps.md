@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: What should I sort out first when moving to Malaysia?
+    a: 'Your immigration pass, before you book anything. Almost every downstream errand checks the pass you hold, not your passport. After entry the practical order is: temporary accommodation first, then a bank account (which needs the pass plus a Malaysian address), then SIM registration (which also keys off the pass and a local address), then a driving licence conversion if you plan to drive. Trying to open a bank account before the pass is issued is the single most common way newcomers waste a week.'
+  - q: Can I enter on a tourist pass and convert it to a work or long-stay pass later?
+    a: In most cases, no. A standard short-term social visit (tourist) pass certifies only that you are allowed to visit and does not convert into a work or long-stay status from inside Malaysia. If work, family sponsorship or a self-funded long stay is the plan, the pass application generally needs to be settled, or at least well underway, before the move, not treated as a first-week errand after you land.
+  - q: What is the Malaysia Digital Arrival Card, and does it cost anything?
+    a: The Malaysia Digital Arrival Card (MDAC) is a free entry registration most foreign arrivals must complete online before landing, submitted only through the Immigration Department's own portal. It is not a visa and does not replace whatever pass or visa you already hold. The Department stresses it is free because unofficial look-alike sites have charged travellers for a form that costs nothing at the source.
 ---
 
 Most people planning a move to Malaysia start with the wrong question. They ask

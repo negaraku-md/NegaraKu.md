@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "027e674e99f0cfb0"
+sourceContentHash: "0160a6b90a992b3e"
 
 status: "published"
 aiAssisted: true
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
+faq:
+  - q: Saya memegang Pas Penggajian — bukankah itu menentukan taraf cukai Malaysia saya?
+    a: Tidak. Seksyen 7 Akta Cukai Pendapatan 1967 menentukan taraf pemastautin berdasarkan kiraan hari kehadiran fizikal, bukan berdasarkan kewarganegaraan, status MyKad atau jenis pas. Ujian yang paling kerap dirujuk ialah 182 hari atau lebih dalam tahun asas, tetapi tiga ujian lain boleh menjadikan anda pemastautin dengan hari yang lebih sedikit. Warga asing yang memegang pas kerja dan tidak pernah meninggalkan negara boleh menjadi pemastautin dari hari pertama; seorang warganegara Malaysia yang berada di luar negara untuk sebahagian besar tahun boleh menjadi bukan pemastautin.
+  - q: Majikan saya sudah memotong PCB daripada gaji saya setiap bulan — adakah saya masih perlu mengemukakan borang cukai?
+    a: Ya, sebaik sahaja pendapatan anda melepasi ambang pendaftaran. Potongan bulanan (PCB/MTD) hanyalah anggaran yang dipotong terlebih dahulu. Borang cukai tahunan ialah penyelarasannya — di mana pelepasan dituntut, pendapatan lain diisytiharkan, dan kedudukan sebenar diselesaikan, sama ada ia bermakna bayaran balik atau bayaran tambahan. Memiliki fail cukai dan mengemukakan borang cukai diwajibkan tanpa mengira sama ada majikan anda sudah pun memotong cukai setiap bulan.
+  - q: Saya sudah mempunyai Nombor Pengenalan Cukai — bolehkah saya terus log masuk ke MyTax dan mengemukakan borang?
+    a: Belum lagi. Pengemuka borang kali pertama memerlukan dua kelayakan secara berturutan. Nombor Pengenalan Cukai (TIN), yang diperoleh melalui e-Daftar (ramai warganegara dan pemastautin tetap sudah pun memilikinya secara automatik), tidak dengan sendirinya membuka e-Filing. LHDN memerlukan PIN berasingan untuk mengaktifkan akaun e-Filing yang terikat dengan TIN tersebut — dahulunya melalui cawangan, kini lebih mudah dimohon melalui portal. Hanya selepas kedua-dua langkah itu barulah anda boleh membuka dan mengemukakan borang cukai yang betul.
 ---
 
 Seorang pekerja baharu berpindah ke Kuala Lumpur dengan Pas Pekerjaan dua

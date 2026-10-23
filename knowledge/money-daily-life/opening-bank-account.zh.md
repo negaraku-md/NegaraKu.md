@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 
 status: "published"
 aiAssisted: true
@@ -67,6 +67,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: 我可以用旅游签证开设马来西亚银行账户吗?
+    a: 不可以。任何大型银行都不接受以短期社交访问(旅游)准证开设标准个人账户。它仅证明你获准入境访问,而没有雇主、机构、长期地址或可续签的身份供银行核实,因此银行所使用的任何文件类别都没有适用它的位置。这是一个结构性的缺口,正因如此,对于旅游准证而言,单纯换一家银行尝试通常行不通。
+  - q: 马来西亚公民开户实际上需要哪些文件?
+    a: 对于大多数简单的储蓄或往来账户,公民或永久居民唯一必须提交的文件是身份证(MyKad)正本。根据联昌银行(CIMB)公布的要求,只有在特定情况下才会要求提供额外证明,例如在职证明信、公积金(EPF)结单、薪资单或近期银行结单——比如开设更高级别的账户,或你希望登记的地址与MyKad上印制的地址不同时。未成年人需要出生证明以及父母或监护人的MyKad。
+  - q: 为什么银行会根据我的签证类型要求不同的文件?
+    a: 因为银行会把证明文件与你身处马来西亚的具体原因挂钩,而这正是你的准证所证明的。根据联昌银行(CIMB)公布的要求,持就业准证(Employment Pass)工作的外国人通常会被要求提供在职证明信,以及月薪高于银行门槛的证明(CIMB规定为RM10,000);持学生准证(Student Pass)者需提供学生证和入学信;持家属准证(Dependant Pass)者在适用情况下需提供结婚证书。所有人都需要有效期至少六个月的护照和准证。
 ---
 
 一位马来西亚公民走进分行，带着 MyKad，签一份表格，不到半小时就带着一个能

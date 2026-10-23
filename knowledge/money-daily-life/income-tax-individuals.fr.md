@@ -27,7 +27,7 @@ verificationNeeded:
   - "Le délai annuel de dépôt (30 avril manuel / 15 mai e-Filing) est confirmé pour l'Année d'évaluation 2025 par le communiqué de presse daté de LHDN lui-même ; LHDN publie un nouveau programme de dépôt chaque année, vérifiez donc les dates de l'année en cours avant de vous y fier pour une année d'évaluation différente."
 
 lang: "fr"
-sourceContentHash: "027e674e99f0cfb0"
+sourceContentHash: "0160a6b90a992b3e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["impôt sur le revenu des personnes physiques Malaisie", "Malaysia personal income tax", "LHDN e-Filing", "enregistrement MyTax", "qui doit déclarer l'impôt Malaisie", "résidence fiscale personne physique Malaisie", "e-Daftar TIN", "délai Form BE", "règle des 182 jours impôt Malaisie"]
+faq:
+  - q: Je suis titulaire d'un Employment Pass — cela ne détermine-t-il pas mon statut fiscal en Malaisie ?
+    a: Non. L'article 7 de la loi de 1967 sur l'impôt sur le revenu (Income Tax Act 1967) détermine la résidence par un décompte des jours de présence physique, et non par la nationalité, le statut MyKad ou le type de pass. Le critère le plus souvent cité est celui de 182 jours ou plus au cours de l'année de référence, mais trois autres critères peuvent vous rendre résident avec moins de jours. Un étranger titulaire d'un permis de travail qui ne quitte jamais le pays peut être résident dès le premier jour ; un citoyen malaisien passant la majeure partie de l'année à l'étranger peut être non-résident.
+  - q: Mon employeur prélève déjà le PCB sur mon salaire chaque mois — dois-je quand même déposer une déclaration ?
+    a: 'Oui, dès que vos revenus dépassent le seuil d''enregistrement. La retenue mensuelle (PCB/MTD) n''est qu''une estimation prélevée à l''avance. La déclaration annuelle est la régularisation : c''est là que les abattements sont demandés, que les autres revenus sont déclarés et que la situation réelle est soldée, qu''il s''agisse d''un remboursement ou d''un complément à payer. Détenir un dossier fiscal et déposer une déclaration est obligatoire, indépendamment du fait que votre employeur prélève déjà l''impôt chaque mois.'
+  - q: J'ai déjà un numéro d'identification fiscale (Tax Identification Number) — puis-je simplement me connecter à MyTax et déposer ma déclaration ?
+    a: Pas encore. Les primo-déclarants ont besoin de deux identifiants, dans l'ordre. Un TIN, obtenu via e-Daftar (de nombreux citoyens et résidents permanents en ont déjà un automatiquement), n'ouvre pas à lui seul l'e-Filing. La LHDN (l'administration fiscale) exige un PIN distinct pour activer le compte e-Filing lié à ce TIN — autrefois auprès d'une agence, plus récemment sur demande via le portail. Ce n'est qu'après ces deux étapes que vous pouvez ouvrir et soumettre le bon formulaire de déclaration.
 ---
 
 Une nouvelle employée s'installe à Kuala Lumpur avec un Permis d'emploi

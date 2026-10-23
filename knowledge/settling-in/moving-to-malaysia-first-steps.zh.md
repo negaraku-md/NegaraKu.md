@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8ba19ead8eedf5f8"
+sourceContentHash: "2f4daf65661a79ec"
 
 status: "published"
 aiAssisted: true
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
 related: ["imigresen", "mykad", "opening-bank-account", "mobile-sim-plans", "driving-licence-foreigners"]
 keywords: ["moving to Malaysia", "relocate to Malaysia checklist", "Malaysia visa first steps", "Employment Pass vs MM2H", "Malaysia Digital Arrival Card", "settling in Malaysia foreigner", "expat Malaysia first week"]
+faq:
+  - q: 搬到马来西亚时我应该最先处理什么？
+    a: 你的移民准证，在你预订任何东西之前就应办妥。几乎每一项后续事务查验的都是你所持的准证，而非你的护照。入境后，实际的顺序是：先安排临时住所，然后开设银行账户（需要准证以及马来西亚地址），接着办理SIM卡登记（这同样取决于准证和本地地址），如果你打算开车，再办理驾照转换。在准证签发之前就试图开立银行账户，是新来者浪费一整周时间最常见的方式。
+  - q: 我可以持旅游准证入境，日后再转换为工作或长期居留准证吗？
+    a: 在大多数情况下，不可以。标准的短期社交访问（旅游）准证仅证明你获准到访，并不能在马来西亚境内转换为工作或长期居留身份。如果计划是工作、家庭担保或自费长期居留，准证申请通常需要在搬迁之前办妥，或至少已进行得相当顺利，而不应被当作落地后第一周才处理的事务。
+  - q: 什么是马来西亚数字入境卡，它需要收费吗？
+    a: 马来西亚数字入境卡（MDAC）是大多数外国入境者必须在落地前于网上完成的免费入境登记，只能通过移民局本身的官方门户网站提交。它不是签证，也不能取代你已持有的任何准证或签证。移民局强调它是免费的，因为非官方的仿冒网站一直向旅客收取费用，而这份表格在源头上本是分文不取的。
 ---
 
 大多数计划移居马来西亚的人，一开始就问错了问题。他们问的是「我需要什么

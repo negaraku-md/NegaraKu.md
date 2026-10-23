@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "변동금리 대출을 보유한 차입자, 저축자, 그리고 말레이시아 금리 뉴스를 이해하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,6 +57,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malaysia", "Overnight Policy Rate", "kadar dasar semalaman", "Bank Negara interest rate", "BNM MPC"]
+faq:
+  - q: OPR가 제가 주택담보대출에서 실제로 내는 이자율인가요?
+    a: 아니요. OPR은 은행들이 하루짜리(익일물)로 서로 대출할 때 방크 느가라(Bank Negara)가 목표로 삼는 금리로, 여러분에게 직접 부과되는 것이 아닙니다. 말레이시아의 주택담보대출은 보통 기준금리(BR)에 가산금리를 더한 형태로 제시되며, 그 BR 뒤에 있는 자금 조달 비용을 가장 크게 좌우하는 것이 OPR입니다. BR이 움직이면 상환액도 보통 1~2개월 이내에 따라 움직입니다.
+  - q: OPR이 바뀌면 대출금리와 예금금리는 같은 방향으로 움직이나요?
+    a: 둘 다 같은 방향으로 움직이지만 대칭적이지는 않습니다. 이 글은 알아둘 만한 비대칭성을 지적합니다. 대출금리는 빠르게 오르고 천천히 내리는 경향이 있는 반면, 예금금리는 그 반대로, 대출보다 더 느리고 덜 완전하게 재조정되는 경향이 있습니다. 이를 규칙이라기보다는 은행 마진의 상업적 현실로 설명합니다.
+  - q: OPR '동결' 결정은 통화정책위원회가 아무것도 하지 않았다는 뜻인가요?
+    a: 아니요 — 금리를 유지하는 결정도 엄연한 결정입니다. 통화정책위원회는 공표된 일정에 따라 연 6회 회의를 엽니다. 동결 결정이 오래 이어지는 것은, 인플레이션이 긴축이 필요하지 않을 만큼 억제되어 있고 성장은 지원이 필요하지 않을 만큼 견조하다는 판단을 반영한 것입니다. 함께 발표되는 성명은 대개 위원회의 정책 성향을 시사합니다.
 ---
 
 ## 한눈에 보기

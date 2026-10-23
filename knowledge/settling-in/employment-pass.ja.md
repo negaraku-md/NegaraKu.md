@@ -23,7 +23,7 @@ appliesTo: "マレーシアでの就職オファーを受けた外国籍者、�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "15f43dc5f13f9d7c"
+sourceContentHash: "b4e6702e3d043ad8"
 
 status: "published"
 aiAssisted: true
@@ -70,6 +70,13 @@ relations:
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
 related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "expatriate work visa", "i-Kad", "dependant pass malaysia", "employment pass categories", "ePASS Malaysia"]
+faq:
+  - q: 就労パス（Employment Pass）を自分で申請できますか？
+    a: いいえ。就労パスは、雇用主が自社の駐在員サービス部門（Expatriate Services Division、ESD）の口座を通じて、あなたに代わって申請するものです。会社はまずESDに登録されている必要があり、申請はMYXpatsセンターで処理されます。あなたは書類——パスポート、資格証明、雇用契約書——を提供しますが、従業員向けのログインは存在せず、自分で申請を提出したり進捗を確認したりすることはできません。
+  - q: 就労パスがあれば、サバ州やサラワク州を含むマレーシア国内のどこでも働けますか？
+    a: いいえ。入国管理局（Immigration Department）は、就労パスは半島マレーシアでのみ有効であると明記しています。サバ州とサラワク州は州の自治のもとで独自の入国管理を行っているため、そこでの勤務には別個のパスまたは裏書きが必要です。また就労パスはあなたをスポンサー企業にのみ結びつけるものであり——転職すれば、新しい雇用主が一から新たな申請を行わなければなりません。
+  - q: 配偶者は扶養パス（Dependant Pass）でマレーシアで働けますか？
+    a: はい、ただし自動的にではありません。扶養パス自体には就労の権利はなく、扶養者の申請はそれに付随するため、主たる申請者がまず有効な就労パスを保持している必要があります。入国管理局自身のFAQによれば、配偶者はその後、入国管理局からの就労の裏書き（endorsement for work）のもとで働くことができ、自分名義の完全な就労パスに切り替える必要はありません——これは新規の就労パス申請よりも大幅に早く、費用も安い方法です。
 ---
 
 あなたはマレーシアで署名済みの就職オファーを手にしている。パスポートも、学位も、関連する実務経験も何年分もある。それでも、あなた個人が行って提出できるものは、依然として何一つない。

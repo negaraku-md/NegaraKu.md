@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "es"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "064f8073d8ee230f"
+sourceContentHash: "ffa309d9ae04f20d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["buddhism-in-malaysia", "chinese-new-year", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["religión china Malasia", "taoísmo Malasia", "Chinese religion Malaysia", "Tua Pek Kong", "Mazu Malasia", "Nueve Dioses Emperadores", "religión popular"]
+faq:
+  - q: ¿Por qué los chinos que veneran a deidades taoístas y populares suelen contarse como budistas en el censo?
+    a: Aunque el censo de Malasia tiene una categoría de "confucianismo, taoísmo y otras religiones tradicionales chinas", el número registrado en ella es muy pequeño (en su mayoría incluido en "otras religiones", alrededor del 0,9%). Muchos chinos que ofrecen a diario culto a las deidades y a los antepasados se registran como budistas en el censo, de modo que los practicantes de la creencia popular y del taoísmo quedan en gran medida ocultos dentro de la cifra de "budismo 18,7%", sin un recuento oficial propio que refleje su verdadera magnitud.
+  - q: ¿Se oponen entre sí el taoísmo y el budismo en Malasia?
+    a: 'No en la práctica cotidiana de los chinos de Malasia. Para muchas familias, el budismo, el taoísmo, el pensamiento confuciano y el culto a los antepasados no son opciones mutuamente excluyentes, sino un único conjunto de prácticas que se llevan a cabo de forma paralela: una misma persona puede encender incienso el primer y el decimoquinto día del mes lunar, limpiar las tumbas en Qingming (清明) y también acudir a un templo para rendir homenaje al Buda el Día de Vesak. Esta mezcla es el rasgo esencial de la creencia popular china, y por ello el budismo y la religión popular resultan a menudo difíciles de separar con nitidez.'
+  - q: ¿Quién es Tua Pek Kong y dónde está el templo de Tua Pek Kong más antiguo?
+    a: Tua Pek Kong (大伯公) es una deidad de fuerte carácter local, venerada ampliamente en los templos chinos de toda Malasia. Se dice que el templo de Tua Pek Kong más antiguo se encuentra en Tanjung Tokong, Penang, y la creencia se difundió después por toda Malasia, Singapur e Indonesia. En malayo, un templo de este tipo se llama tokong; entre otros templos conocidos figuran Cheng Hoon Teng en Malaca y el templo Thean Hou en Kuala Lumpur.
 ---
 
 Al entrar en cualquier templo chino de Malasia, es muy probable que en un mismo

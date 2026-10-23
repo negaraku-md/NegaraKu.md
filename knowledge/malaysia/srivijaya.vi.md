@@ -18,7 +18,7 @@ keyTakeaways:
   - "Parameswara, người sáng lập Vương triều Melaka vào khoảng năm 1400, được mô tả trong truyền thống Mã Lai và bởi chính chính quyền bang Melaka như một hoàng tử từ Palembang — kinh đô cũ của Srivijaya"
 appliesTo: "Độc giả muốn hiểu điều gì đã cai trị Eo biển Melaka trước khi Melaka làm điều đó, và cách một thế lực biển đặt cơ sở ở Sumatra rốt cuộc lại nuôi dưỡng trực tiếp lịch sử hoàng gia của chính Bán đảo Mã Lai."
 lang: "vi"
-sourceContentHash: "9c0d3b0b3dd803ef"
+sourceContentHash: "69e06d6034cc1b41"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,13 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["melaka-sultanate", "langkasuka"]
 keywords: ["Srivijaya", "Bujang Valley", "Lembah Bujang", "Kedah Tua", "thalassocracy", "Old Malay", "Parameswara Palembang", "Strait of Melaka history"]
+faq:
+  - q: Srivijaya có phải là một vương quốc của Malaysia không?
+    a: Không — xem nó như vậy là một sai lầm thường gặp. Kinh đô và lãnh thổ cốt lõi của Srivijaya nằm ở Sumatra, thuộc Indonesia ngày nay, đặt tại Palembang bên sông Musi. Ảnh hưởng của nó vươn tới vùng ngày nay là Malaysia — cụ thể nhất là tại Thung lũng Bujang của Kedah — nhưng trung tâm của nó chưa bao giờ đặt tại Bán đảo Mã Lai. Đó là một đế chế biển (thalassocracy), kiểm soát các tuyến đường biển và các cảng cửa sông hơn là những dải đất rộng lớn.
+  - q: Srivijaya liên hệ như thế nào với sự thành lập Vương quốc Hồi giáo Melaka?
+    a: 'Parameswara, người đã lập ra Vương quốc Hồi giáo Melaka vào khoảng năm 1400, được ghi lại trong truyền thống Mã Lai và bởi chính chính quyền bang Melaka là một hoàng tử hoàng gia đến từ Palembang — cố đô của Srivijaya. Đến lúc đó, quyền lực chính trị của Srivijaya đã không còn, nhưng Melaka kế thừa cùng một mô hình đế chế biển: trấn giữ eo biển, bảo đảm hành trình an toàn, và để thương nhân tự tìm đến, chỉ là được điều hành từ một địa điểm mới.'
+  - q: Văn bia cổ nhất được biết đến bằng tiếng Mã Lai Cổ là gì, và nó liên quan thế nào đến Srivijaya?
+    a: Đó là văn bia Kedukan Bukit, có niên đại năm 682 CN, ghi lại một cuộc viễn chinh quân sự và nghi lễ của Srivijaya. Ngoài ý nghĩa trong lịch sử Sumatra, nó quan trọng với tư cách là văn bia cổ nhất được biết đến viết bằng tiếng Mã Lai Cổ — tổ tiên trực tiếp của cả tiếng Mã Lai hiện đại lẫn tiếng Indonesia hiện đại. Khi mạng lưới thương mại của Srivijaya mở rộng, tiếng Mã Lai Cổ lan khắp quần đảo như một ngôn ngữ chung (lingua franca) thực dụng, nhiều thế kỷ trước khi bất kỳ vương quốc Hồi giáo nào tồn tại.
 ---
 
 Khi Parameswara chạy khỏi Temasek vào năm 1396 và tình cờ đặt chân lên bờ sông về sau trở thành Melaka, ông không phải một kẻ vô danh xuất hiện từ hư không. Chính chính quyền bang Melaka vẫn ghi ông, một cách thẳng thắn, là "một hoàng tử hoàng gia từ Palembang." Palembang, trên sông Musi ở nam Sumatra, đã từng là kinh đô của một thế lực biển cai trị Eo biển Melaka trong khoảng sáu trăm năm trước khi Parameswara ra đời — một vương quốc mang tên Srivijaya. Vào lúc Parameswara đến bán đảo, quyền lực chính trị của vương quốc đó đã không còn. Nhưng Vương triều Melaka mà ông sáng lập đã mang dòng máu của nó, và có thể nói là cả mô hình về việc một hải cảng thương mại Mã Lai nên như thế nào, thẳng ra từ đống tàn tích của Srivijaya.

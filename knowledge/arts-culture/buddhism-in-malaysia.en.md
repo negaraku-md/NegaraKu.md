@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "288705196583cc87"
+sourceContentHash: "48f4e6165d3f9202"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["wesak", "chinese-religion-in-malaysia", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Buddhism in Malaysia", "Mahayana Buddhism Malaysia", "Theravada Buddhism Malaysia", "Wesak", "Kek Lok Si"]
+faq:
+  - q: Are all 18.7% of the Buddhists in the census strictly Buddhist?
+    a: No. The 'Buddhism' figure in the 2020 census overlaps heavily with Chinese folk religion. Many Chinese Malaysians venerate the Buddha, worship deities and honour their ancestors all at once in daily life, and register as Buddhist in the census. So this 18.7% includes both Buddhists in the strict sense and many folk-religion practitioners who blend Buddhism, Taoism, Confucianism and ancestor worship — which is exactly why the census figures overlap one another.
+  - q: Is it correct to say that 'Buddhism in Malaysia is a Chinese religion'?
+    a: Not accurately. Chinese Malaysians are indeed the main body of believers, mostly following Mahayana Buddhism; but the Siamese, Sri Lankan and Burmese communities follow a separate, independent lineage — Theravada Buddhism, whose temples are called Wat, with the Siamese communities of the northern states having the longest history. There is also a smaller Vajrayana presence. Equating Buddhism in Malaysia with a Chinese religion overlooks these parallel traditions.
+  - q: What does Wesak commemorate? Is it a public holiday?
+    a: Wesak (Wesak Day) commemorates the birth, enlightenment and passing into nirvana of the Buddha, and is a nationwide public holiday in Malaysia. Devotees go to temples to offer flowers, light lamps and give alms. Religious freedom is protected by Article 11 of the Federal Constitution; although Article 3 establishes Islam as the religion of the Federation, it does not prevent other religions from being practised in peace.
 ---
 
 On the hills of Penang, the silhouette of Kek Lok Si looks down over George Town;

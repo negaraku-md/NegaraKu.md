@@ -25,7 +25,7 @@ appliesTo: "Người nộp thuế cá nhân, người lao động, người lao 
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9667ec689364dcd2"
+sourceContentHash: "425e9a866d80e746"
 
 status: "published"
 revision: 0
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "personal-tax-rates", "fuel-subsidies"]
 keywords: ["Budget 2027 Malaysia", "Belanjawan 2027", "thuế thu nhập Budget 2027", "lương tối thiểu RM2000", "thuế SME Budget 2027", "SARA STR 2027", "miễn giảm thuế RM12000", "điểm nổi bật Budget 2027"]
+faq:
+  - q: Mức lương tối thiểu 2.000 RM đã có hiệu lực chưa, khi Ngân sách 2027 đã được trình?
+    a: Chưa. Ngân sách được trình ngày 9 tháng 10 năm 2026 là một thông báo, không phải luật. Lương tối thiểu chỉ tăng từ 1.700 RM lên 2.000 RM kể từ tháng 6 năm 2027, và ngay cả khi đó, các doanh nghiệp siêu nhỏ, nhỏ và vừa (MSME) có doanh thu hằng năm dưới 50 triệu RM vẫn được miễn trong giai đoạn đầu. Như mọi biện pháp khác, nó chỉ có tính ràng buộc sau khi Dự luật Tài chính, Đạo luật Cung ứng (Ngân sách) 2027 và mọi lệnh công báo liên quan được thông qua, vào các ngày có hiệu lực nêu trong bài phát biểu.
+  - q: Ngân sách 2027 có cải cách SST hay đưa ra quy định hóa đơn điện tử (e-invoicing) mới không?
+    a: Không. Bài viết nêu rõ rằng việc cải cách SST trên diện rộng và các biện pháp hóa đơn điện tử mới là những dự báo trước ngân sách của các nhà phân tích, chứ không phải các thông báo trong bài phát biểu ngày 9 tháng 10 năm 2026. Cần coi đó là kỳ vọng chứ không phải chính sách, cho đến khi chính phủ nói khác đi. Những thay đổi thuế thực sự của ngân sách tập trung vào việc giảm một điểm phần trăm thuế thu nhập đối với người cư trú và doanh nghiệp vừa và nhỏ (SME), cùng việc nâng mức miễn trừ chung từ 9.000 RM lên 12.000 RM.
+  - q: Theo Ngân sách 2027, việc mở tài khoản tiết kiệm hoặc tài khoản vãng lai được miễn thuế tem từ khi nào?
+    a: Kể từ ngày 1 tháng 1 năm 2027, việc mở tài khoản tiết kiệm hoặc tài khoản vãng lai được miễn hoàn toàn thuế tem. Cùng ngày đó cũng áp dụng việc giảm thuế dịch vụ đối với dịch vụ chăm sóc người cao tuổi từ 8% xuống 6%, và bắt đầu quyền làm việc của vợ/chồng là người nước ngoài giữ thẻ phụ thuộc (dependant pass). Những ngày này đúng như đã công bố ngày 9 tháng 10 năm 2026 và chỉ có hiệu lực khi luật và các lệnh công báo liên quan được thông qua.
 ---
 
 Vào ngày 9 tháng 10 năm 2026, Thủ tướng kiêm Bộ trưởng Tài chính Anwar Ibrahim

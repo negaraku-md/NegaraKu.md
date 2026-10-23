@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne exposée au taux de change : importateurs, exportateurs, voyageurs, étudiants à l'étranger et investisseurs."
 
 lang: "fr"
-sourceContentHash: "5c03f2bbac4e0dca"
+sourceContentHash: "a0d224345b9024d5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -55,6 +55,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "taux USD MYR", "kadar tukaran ringgit", "monnaie de la Malaisie", "taux de change du ringgit"]
+faq:
+  - q: Si le chiffre USD/MYR augmente, le ringgit s'est-il renforcé ou affaibli ?
+    a: Affaibli. Un USD/MYR de 4.0944 signifie qu'un dollar américain achète 4.0944 ringgits, donc quand ce chiffre monte, chaque dollar achète davantage de ringgits et le ringgit s'est affaibli. L'article qualifie cette inversion de l'erreur de lecture la plus courante. « Le ringgit a chuté » n'a par ailleurs aucun sens sans nommer l'autre devise, car il peut s'affaiblir face au dollar tout en se renforçant face au yen ou à l'euro en même temps.
+  - q: Le ringgit est-il toujours arrimé au dollar américain à 3.80 ?
+    a: Non. La Malaisie a arrimé le ringgit à 3.80 pour un dollar américain en septembre 1998 pendant la crise financière asiatique, avec des contrôles des capitaux, et cet arrimage a tenu près de sept ans. Il a été supprimé en 2005, et le ringgit est revenu à un flottement géré — déterminé par le marché, la Banque Negara Malaysia (BNM) n'intervenant que pour lisser les mouvements désordonnés et non pour défendre un niveau donné. Il n'existe aujourd'hui aucun niveau « correct » officiel.
+  - q: Pourquoi le taux que me donne ma banque ou mon bureau de change est-il moins bon que le taux publié par la BNM ?
+    a: Parce que le taux de référence USD/MYR de KL de la BNM est un indice de marché calculé à partir du marché interbancaire, utilisé pour les contrats et la valorisation — ce n'est pas un prix de détail. Les banques et les bureaux de change ajoutent leur propre écart (spread) par-dessus, de sorte que vous traiterez toujours à un taux moins favorable que le taux de référence. Le taux de référence était de 4.0944 au 24 juillet 2026, mais c'est l'indice, et non ce qu'un client paie réellement au guichet.
 ---
 
 ## En un coup d'oeil

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Investisseurs, chercheurs d'emploi, analystes des politiques publiques et étudiants qui cherchent à lire avec précision les statistiques industrielles de la Malaisie."
 
 lang: "fr"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: La part de l'industrie manufacturière dans le PIB a baissé depuis 1999 — cela signifie-t-il que la Malaisie se désindustrialise ?
+    a: Non. La baisse depuis un peu moins de 31% en 1999 s'est arrêtée vers 2010 ; depuis, la part se situe autour de 22–23%, l'amplitude sur quinze ans dépassant à peine un point de pourcentage. C'est un palier, non un déclin. La production manufacturière continue de croître — le secteur a progressé de 4.5% en 2025 — elle croît simplement à un rythme proche de celui du reste de l'économie.
+  - q: Est-il vrai que l'industrie manufacturière emploie 27.5% des Malaisiens ?
+    a: Non — c'est une citation erronée courante. L'Enquête trimestrielle sur l'emploi du DOSM ne recense que les établissements enregistrés du secteur privé, soit 9.21 millions d'emplois au 4e trimestre 2025, et les 2.54 millions de la manufacture représentent 27.5% de ce sous-ensemble. L'enquête exclut le secteur public, les indépendants et le travail informel, de sorte que la part de la manufacture dans l'ensemble des personnes en emploi est sensiblement plus faible. Pour cette question, utilisez l'Enquête sur la population active (Labour Force Survey).
+  - q: Si la part dans le PIB stagne, l'industrie manufacturière n'est-elle pas simplement cantonnée à des travaux d'assemblage à faible valeur ?
+    a: 'Les données de productivité disent le contraire. La valeur ajoutée manufacturière a atteint RM59.0 par heure travaillée en 2025 contre RM42.0 dans les services — environ 40% de plus par heure, et à peu près un tiers au-dessus de la moyenne nationale de RM44.5. Une part stable relève en partie de l''arithmétique : les services ont crû plus vite (5.4% contre 4.5% pour la manufacture), de sorte que la part du secteur plus petit baisse même quand sa production augmente. La composition interne de la manufacture évolue, ce que la part dans le PIB ne peut pas montrer.'
 ---
 
 ## En un coup d'œil

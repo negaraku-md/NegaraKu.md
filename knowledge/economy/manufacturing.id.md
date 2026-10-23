@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Investor, pencari kerja, analis kebijakan, dan pelajar yang mencoba membaca statistik industri Malaysia dengan tepat."
 
 lang: "id"
-sourceContentHash: "21e59589f33cf91e"
+sourceContentHash: "72ec467c3b342c14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -75,6 +75,13 @@ relations:
   - { rel: "explained-in", to: "gdp-overview" }
 related: ["electronics-semiconductors", "external-trade", "gdp-overview", "unemployment-labour-force"]
 keywords: ["Malaysia manufacturing GDP share", "sektor pembuatan Malaysia", "Malaysia middle income trap", "Malaysia manufacturing employment", "Malaysia industrial policy NIMP"]
+faq:
+  - q: Pangsa manufaktur dalam PDB telah turun sejak 1999 — apakah itu berarti Malaysia sedang mengalami deindustrialisasi?
+    a: Tidak. Penurunan dari sedikit di bawah 31% pada 1999 berakhir sekitar 2010; sejak itu pangsanya bertahan di sekitar 22–23%, dengan rentang selama lima belas tahun hanya sedikit di atas satu poin persentase. Itu adalah dataran mendatar, bukan penurunan. Keluaran manufaktur masih tumbuh — sektor ini berkembang 4.5% pada 2025 — ia hanya tumbuh pada laju yang hampir sama dengan bagian ekonomi lainnya.
+  - q: Benarkah manufaktur mempekerjakan 27.5% warga Malaysia?
+    a: Tidak — itu salah kutip yang umum. Survei Ketenagakerjaan Triwulanan DOSM hanya menghitung perusahaan sektor swasta terdaftar, 9.21 juta pekerjaan pada K4 2025, dan 2.54 juta pada manufaktur adalah 27.5% dari subset itu. Survei ini tidak mencakup sektor publik, pekerja mandiri, dan kerja informal, sehingga pangsa manufaktur dari seluruh orang yang bekerja secara material jauh lebih rendah. Gunakan Survei Angkatan Kerja (Labour Force Survey) untuk pertanyaan itu.
+  - q: Jika pangsa PDB datar, bukankah manufaktur hanya terjebak mengerjakan pekerjaan perakitan bernilai rendah?
+    a: 'Data produktivitas berpendapat sebaliknya. Nilai tambah manufaktur mencapai RM59.0 per jam kerja pada 2025 dibandingkan RM42.0 pada jasa — sekitar 40% lebih tinggi per jam, dan kira-kira sepertiga di atas rata-rata nasional RM44.5. Pangsa yang datar sebagian adalah soal aritmetika: jasa tumbuh lebih cepat (5.4% versus 4.5% manufaktur), sehingga pangsa sektor yang lebih kecil turun meskipun keluarannya naik. Komposisi di dalam manufaktur sedang bergeser, sesuatu yang tidak dapat ditunjukkan oleh pangsa PDB.'
 ---
 
 ## Sekilas pandang

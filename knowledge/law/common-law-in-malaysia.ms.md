@@ -26,7 +26,7 @@ appliesTo: "Sesiapa yang cuba memahami sebab mahkamah Malaysia memetik kes-kes I
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0e25f8448644480c"
+sourceContentHash: "88c95c68bb68e3d0"
 
 status: "published"
 aiAssisted: true
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malaysia", "Civil Law Act 1956", "Act 67", "reception of English law", "Section 3 Civil Law Act", "cut-off date common law Malaysia", "Article 160 Federal Constitution", "Torrens system Malaysia"]
+faq:
+  - q: Adakah terdapat satu tarikh pemotongan tunggal bagi common law Inggeris di seluruh Malaysia?
+    a: 'Tidak. Seksyen 3 Akta Undang-Undang Sivil 1956 (Civil Law Act 1956) menetapkan tiga tarikh beku yang berbeza: 7 April 1956 bagi Semenanjung Malaysia, 1 Disember 1951 bagi Sabah, dan 12 Disember 1949 bagi Sarawak. Tarikh Sabah dan Sarawak mendahului Akta 1956 kerana Akta 67 mengekalkan tarikh pemotongan yang telah ditetapkan oleh ordinan tempatan mereka yang lebih awal, dan bukannya menetapkan semula semua kepada 1956.'
+  - q: Adakah keputusan mahkamah Inggeris moden mengikat mahkamah Malaysia?
+    a: Tidak. Di bawah Seksyen 3 Akta Undang-Undang Sivil 1956, sesuatu kes Inggeris yang diputuskan sebelum tarikh pemotongan yang berkaitan pada dasarnya merupakan common law yang mengikat, tetapi kes yang diputuskan selepasnya hanya bersifat memujuk sahaja — mahkamah Malaysia boleh melihatnya, membincangkannya, dan enggan mengikutinya. Seksyen 3 juga menggunakan common law dan ekuiti hanya "setakat mana keadaan... membenarkan," jadi mahkamah boleh menolak kaedah Inggeris yang tidak sesuai dengan keadaan tempatan.
+  - q: Adakah undang-undang Inggeris mentadbir pemilikan tanah di Malaysia?
+    a: Tidak. Seksyen 6 Akta Undang-Undang Sivil 1956 menyatakan bahawa tiada apa-apa dalam Akta ini memperkenalkan undang-undang Inggeris berkaitan pegangan, pindah hak, jaminan atau pewarisan harta tak alih. Undang-undang tanah Inggeris sengaja dikecualikan sejak hari pertama. Sebaliknya, tanah Malaysia berjalan atas sistem Torrens yang berasal dari Australia, dikodifikasikan bagi Semenanjung Malaysia dalam Kanun Tanah Negara 1965 (Akta 56), di mana pendaftaran itu sendiri mewujudkan dan membuktikan hakmilik.
 ---
 
 Seorang hakim Malaysia yang memutuskan pertikaian kontrak hari ini masih boleh

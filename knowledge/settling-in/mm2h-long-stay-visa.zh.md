@@ -25,7 +25,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "722c4d82da3ee8ea"
+sourceContentHash: "6ca0d692c04f8572"
 
 status: "published"
 aiAssisted: true
@@ -76,6 +76,13 @@ relations:
   - { rel: "related-to", to: "opening-bank-account" }
 related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
+faq:
+  - q: 我能凭MM2H准证工作或经营生意吗？
+    a: 只有白金级（Platinum）才可以。旅游、艺术及文化部（MOTAC）的白金级页面将商业/投资活动和职业机会均列为"获准"，而其白银级（Silver）、黄金级（Gold）及SEZ/SFZ页面则全部列为"不获准"。MM2H不是工作签证、入籍途径或永久居留权——它是一种可续期的长期居留准证。如果工作或经营生意对你很重要，那么各级别之间的这一差异将决定哪个级别（若有）适合你的规划。
+  - q: MM2H获批后，我可以自由动用我的定期存款吗？
+    a: 不可以。MOTAC允许在获批后最多提取定期存款本金的50%，且仅限于特定用途：购买所规定的住所，或在马来西亚进行教育、医疗或旅游活动。这是一种有条件的释放，并非通用账户。剩余余额须保留在马来西亚的银行；外国资金以及存款在存放期间所赚取的利润，享有明文规定的税务豁免。
+  - q: MM2H申请究竟由谁批准——MOTAC还是移民局？
+    a: 两者皆是，但角色不同。MOTAC负责运作该计划并制定各级别的要求，但最终的移民批准、准证的签注以及任何上诉，则由内政部通过马来西亚移民局（Jabatan Imigresen Malaysia）负责。申请须由持牌MM2H代理通过一站式中心（One Stop Centre）提交。因此，级别要求的问题请联系MOTAC，批准或签注事宜请联系移民局——两个主管机构，两套管辖范围。
 ---
 
 搜索"MM2H Silver 准证能维持多久"，你会找到一些指南信心满满地给出五年、十年，以及

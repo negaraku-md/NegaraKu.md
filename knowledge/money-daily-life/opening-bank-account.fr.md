@@ -26,7 +26,7 @@ verificationNeeded:
   - "La page de politique d'ouverture numérique / e-KYC de BNM a renvoyé une erreur 403 lors d'une récupération automatisée au moment de la rédaction ; son existence et son titre sont confirmés directement par les résultats de recherche de bnm.gov.my, mais les détails précis d'éligibilité devraient être revérifiés directement sur bnm.gov.my lorsqu'elle est accessible."
 
 lang: "fr"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: Puis-je ouvrir un compte bancaire malaisien avec un visa de touriste ?
+    a: Non. Le laissez-passer de visite sociale de courte durée (touriste) n'est accepté pour aucun compte personnel standard dans aucune grande banque. Il atteste seulement que vous êtes autorisé à séjourner, sans employeur, établissement, adresse de longue durée ni statut renouvelable que la banque puisse vérifier, de sorte qu'aucune des catégories de documents utilisées par les banques ne prévoit de place pour lui. Il s'agit d'une lacune structurelle, et c'est pourquoi le simple fait d'essayer une autre banque fonctionne rarement avec un laissez-passer de touriste.
+  - q: De quels documents un citoyen malaisien a-t-il réellement besoin pour ouvrir un compte ?
+    a: Pour la plupart des comptes d'épargne ou comptes courants ordinaires, le seul document obligatoire pour un citoyen ou un résident permanent est le MyKad original. Selon les exigences publiées par CIMB, des justificatifs supplémentaires tels qu'une lettre d'emploi, un relevé de l'EPF, un bulletin de salaire ou des relevés bancaires récents ne sont demandés que dans des situations précises, comme un compte de niveau supérieur ou lorsque l'adresse que vous souhaitez enregistrer diffère de celle imprimée sur votre MyKad. Les mineurs ont besoin d'un acte de naissance ainsi que du MyKad d'un parent ou tuteur.
+  - q: Pourquoi les banques demandent-elles des documents différents selon mon type de visa ?
+    a: Parce que les banques rattachent les pièces justificatives à la raison précise de votre présence en Malaisie, ce que votre laissez-passer atteste. D'après les exigences publiées par CIMB, on demande généralement à un étranger travaillant avec un Permis d'emploi (Employment Pass) une lettre d'emploi et une preuve de salaire mensuel supérieur au seuil de la banque (CIMB indique RM10 000) ; à un titulaire d'un Permis d'étudiant (Student Pass), une carte d'étudiant et une lettre d'inscription ; et à un titulaire d'un Permis de personne à charge (Dependant Pass), un acte de mariage le cas échéant. Tous doivent disposer d'un passeport et d'un laissez-passer valables au moins six mois.
 ---
 
 Un citoyen malaisien entre dans une agence avec un MyKad, signe un formulaire et

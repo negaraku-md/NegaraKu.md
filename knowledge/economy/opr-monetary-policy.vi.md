@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Người vay có các khoản vay lãi suất thả nổi, người tiết kiệm, và bất kỳ ai đang cố hiểu tin tức lãi suất của Malaysia."
 
 lang: "vi"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malaysia", "Overnight Policy Rate", "kadar dasar semalaman", "Bank Negara interest rate", "BNM MPC"]
+faq:
+  - q: OPR có phải là lãi suất tôi thực sự trả cho khoản vay mua nhà của mình không?
+    a: Không. OPR là mức lãi suất mà Bank Negara đặt mục tiêu cho việc các ngân hàng cho nhau vay qua đêm — nó không được tính trực tiếp cho bạn. Khoản vay mua nhà ở Malaysia thường được niêm yết theo Lãi suất Cơ sở (BR) cộng với một biên độ, và OPR là yếu tố quyết định lớn nhất đối với chi phí vốn đằng sau mức BR đó. Khi BR thay đổi, khoản trả góp cũng thay đổi, thường trong vòng một đến hai tháng.
+  - q: Khi OPR thay đổi, lãi suất cho vay và lãi suất tiền gửi có di chuyển cùng chiều không?
+    a: 'Cả hai di chuyển cùng chiều, nhưng không đối xứng. Bài viết nêu bật một sự bất đối xứng đáng lưu ý: lãi suất cho vay thường tăng nhanh và giảm chậm, trong khi lãi suất tiền gửi thường ngược lại, điều chỉnh chậm hơn và ít trọn vẹn hơn so với lãi suất cho vay. Bài viết mô tả đây là một thực tế thương mại về biên lợi nhuận của ngân hàng, chứ không phải một quy tắc.'
+  - q: Quyết định 'giữ nguyên' OPR có nghĩa là Ủy ban Chính sách Tiền tệ đã không làm gì không?
+    a: Không — quyết định giữ nguyên vẫn là một quyết định. Ủy ban Chính sách Tiền tệ họp sáu lần một năm theo lịch đã công bố, và một chuỗi dài các quyết định giữ nguyên phản ánh nhận định rằng lạm phát đã được kiểm soát đủ để không cần thắt chặt và tăng trưởng đủ vững để không cần hỗ trợ. Tuyên bố kèm theo thường phát tín hiệu về xu hướng của ủy ban.
 ---
 
 ## Tổng quan nhanh

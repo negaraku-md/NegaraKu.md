@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "vi"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "198b32c117f346a7"
+sourceContentHash: "7bc376bb0aba475a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Kitô giáo tại Malaysia", "Christianity in Malaysia", "tín đồ Kitô giáo Malaysia", "Sabah Sarawak Christians", "Công giáo Malaysia", "Tin Lành Malaysia", "Christian Federation of Malaysia"]
+faq:
+  - q: Phần lớn tín đồ Cơ Đốc giáo ở Malaysia là người gốc Hoa hay gốc Ấn?
+    a: Không — đó là một quan niệm sai lầm phổ biến mà bài viết đính chính. Xét theo cộng đồng, tín đồ Cơ Đốc giáo Malaysia phần lớn là người Bumiputera (khoảng 59%), phản ánh các giáo hội bản địa của Borneo trong các cộng đồng Kadazan-Dusun, Iban, Bidayuh và những nhóm khác, với người gốc Hoa (khoảng 27%) và người gốc Ấn (khoảng 4%) là thiểu số tập trung ở bán đảo. Hơn hai phần ba (khoảng 70%) tín đồ Cơ Đốc giáo Malaysia sống ở Sabah và Sarawak.
+  - q: Thứ Sáu Tuần Thánh (Good Friday) có phải là ngày nghỉ lễ công cộng trên toàn Malaysia không?
+    a: 'Không. Hai ngày này khác nhau về phạm vi: Giáng Sinh là ngày nghỉ lễ công cộng trên toàn quốc, trong khi Thứ Sáu Tuần Thánh chỉ là ngày nghỉ lễ công cộng ở Sabah và Sarawak. Điều này phản ánh địa lý của tôn giáo ấy, bởi hơn hai phần ba tín đồ Cơ Đốc giáo Malaysia — và Sarawak, nơi Cơ Đốc giáo là tôn giáo đơn lẻ lớn nhất — nằm ở Đông Malaysia chứ không phải ở bán đảo.'
+  - q: Liên hiệp Cơ Đốc giáo Malaysia là gì, và quy tụ những tổ chức nào?
+    a: 'Liên hiệp Cơ Đốc giáo Malaysia (Christian Federation of Malaysia, CFM), thành lập năm 1985, là tổ chức bảo trợ chính. Nó hợp nhất ba dòng của Cơ Đốc giáo Malaysia: Hội đồng Giám mục Công giáo (Catholic Bishops'' Conference), Hội đồng các Giáo hội Malaysia (Council of Churches of Malaysia, Tin Lành dòng chính) và Hiệp hội Cơ Đốc Phúc Âm Quốc gia (National Evangelical Christian Fellowship). CFM cho biết họ đại diện cho hơn 95% số nhà thờ trong nước, nhiều trong số đó là các giáo đoàn nói tiếng Mã Lai ở Sabah và Sarawak.'
 ---
 
 Câu chuyện Kitô giáo của Malaysia có hai trung tâm trọng lực, và không trung tâm

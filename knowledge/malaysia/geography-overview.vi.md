@@ -18,7 +18,7 @@ keyTakeaways:
   - "Gió mùa Đông Bắc (tháng 11–tháng 3) làm ướt sũng bờ đông Bán đảo, tây Sarawak và bắc Sabah; Gió mùa Tây Nam (tháng 5–tháng 9) tương đối khô hơn — một nhịp điệu vẫn định hình mùa lũ và lịch canh tác (Cục Khí tượng Malaysia)"
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao dân số, các thành phố và nguy cơ lũ lụt của Malaysia lại tụ về nơi chúng tụ về — học sinh, người mới đến, các nhà quy hoạch, hay bất kỳ ai bối rối vì sao 'mùa gió mùa' lại có nghĩa khác nhau ở các bờ biển khác nhau."
 lang: "vi"
-sourceContentHash: "1aadf1352cd31f55"
+sourceContentHash: "53f49043897c123b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["what-malaysia-is", "urbanisation", "sabah"]
 keywords: ["Malaysia geography", "Titiwangsa Range", "Peninsular Malaysia geography", "East Malaysia Borneo", "Mount Kinabalu height", "Gunung Tahan", "Malaysia monsoon season", "northeast monsoon", "southwest monsoon", "Malaysia coastal plains", "Malaysia land area"]
+faq:
+  - q: Tại sao 'mùa gió mùa' lại rơi vào những tháng khác nhau ở các bờ biển khác nhau của Malaysia?
+    a: Bởi vì hai luồng gió mùa luân phiên tác động vào hai phía đối diện của đất nước. Gió mùa Đông Bắc (khoảng từ tháng 11 đến tháng 3) mang mưa lớn và lũ lụt đến bờ biển phía đông của Bán đảo, miền tây Sarawak và miền đông Sabah. Gió mùa Tây Nam (khoảng từ tháng 5 đến tháng 9) tương đối khô hơn và ảnh hưởng đến phía đối diện. Vì vậy mùa mưa ở bờ đông và bờ tây không rơi vào cùng những tháng, giữa chúng là các giai đoạn chuyển tiếp gió mùa ngắn.
+  - q: Sự khác biệt giữa Gunung Tahan và núi Kinabalu là gì?
+    a: Chúng là hai đỉnh núi kỷ lục khác nhau trên hai khối đất liền khác nhau, ngăn cách bởi Biển Đông. Gunung Tahan, cao 2.187 mét trên ranh giới Pahang–Kelantan bên trong Taman Negara (Vườn Quốc gia), là điểm cao nhất của Bán đảo Malaysia. Núi Kinabalu ở Sabah vươn cao 4.095 mét — là đỉnh cao nhất của toàn Malaysia, và là đỉnh cao nhất ở bất cứ đâu giữa dãy Himalaya và New Guinea. Nhầm lẫn hai đỉnh này là một sai lầm thường gặp.
+  - q: Tại sao phần lớn người Malaysia sống gần bờ biển hơn là trong nội địa?
+    a: Mỗi khối đất liền bị chi phối bởi một sống núi trung tâm — Dãy Titiwangsa ở Bán đảo, Dãy Crocker ở Sabah — hai bên chỉ có những đồng bằng ven biển hẹp. Những vùng cao đó đẩy việc định cư ra phía ngoài, đến các đồng bằng ven biển và thung lũng sông, để lại vùng nội địa nhiều núi non thưa thớt dân cư. Đồng bằng ven biển phía tây của Bán đảo, được che chắn và êm dịu nhờ Eo biển Malacca, chứa phần lớn dân số và những thành phố lớn nhất như Kuala Lumpur và George Town.
 ---
 
 Bay vào Kuala Lumpur từ Kota Kinabalu và bạn vượt qua nhiều hơn một biên giới nội bộ — bạn vượt qua vài trăm kilômét biển mở. Malaysia là một đất nước được ghim lại với nhau qua hai khối đất riêng biệt, và sự thật giản đơn về hình dạng đó đã lặng lẽ quyết định gần như mọi thứ khác: các thành phố ở đâu, các cánh đồng lúa ở đâu, và bờ biển nào ngập lụt vào mỗi tháng Mười Hai.

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai muốn hiểu nguồn gốc của nền văn minh sơ khai trên đất Mã Lai trước khi các vương triều Mã Lai (kesultanan) tồn tại, hoặc đang lên kế hoạch viếng thăm các di chỉ và bảo tàng khảo cổ ở Kedah."
 
 lang: "vi"
-sourceContentHash: "e95214b94dacf363"
+sourceContentHash: "37c769aa2420a10a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["langkasuka", "melaka-sultanate"]
 keywords: ["Lembah Bujang", "Bujang Valley", "Kedah Tua", "candi", "Sungai Batu", "Candi Bukit Batu Pahat", "Muzium Arkeologi Lembah Bujang", "arkeologi Kedah"]
+faq:
+  - q: '"Thung lũng Bujang (Lembah Bujang)" có phải là tên của một vương quốc cổ không?'
+    a: Không. Thung lũng Bujang là tên của một khu khảo cổ hiện đại rộng khoảng 224 km² quanh Merbok, bang Kedah, chứ không phải tên của một vương quốc. Những tên vương quốc gắn với nó, như Kedah Tua (Kedah Cổ), là các danh xưng lịch sử riêng biệt mà phạm vi và ranh giới thực sự vẫn còn được các học giả tranh luận. Thung lũng này chỉ khu vực chứa hơn 50 candi (đền tháp) cùng với di chỉ luyện sắt tại Sungai Batu.
+  - q: Điều gì khiến di chỉ Sungai Batu quan trọng đến vậy?
+    a: Theo Cục Di sản Quốc gia (Jabatan Warisan Negara), di chỉ Sungai Batu cho thấy hoạt động luyện sắt quy mô lớn bắt đầu vào khoảng thế kỷ thứ nhất CN và hoạt động liên tục cho đến thế kỷ thứ tám, với sản lượng cho thấy mục đích xuất khẩu chứ không chỉ dùng tại địa phương. Nơi đây lưu giữ một trong những bằng chứng sớm nhất về công nghiệp sắt từng được ghi nhận ở Đông Nam Á, có niên đại sớm hơn các di tích như Angkor Wat và Borobudur.
+  - q: Các candi (đền tháp) ở Thung lũng Bujang có còn ở trạng thái nguyên gốc từ thời cổ đại không?
+    a: Không. Hầu hết các candi có thể tham quan ngày nay đã được các nhà khảo cổ xây dựng lại (phục dựng) dựa trên những tàn tích ban đầu, chứ không phải là các công trình còn nguyên vẹn. Candi Bukit Batu Pahat là tàn tích duy nhất được phục dựng trên vị trí nguyên gốc của nó, trong khi Candi Pengkalan Bujang hiện đã được xây dựng lại gần bảo tàng. Theo Lưu trữ Quốc gia Malaysia (Arkib Negara Malaysia), các candi này được ước tính xây dựng trong khoảng từ thế kỷ thứ tư đến thế kỷ thứ mười hai CN.
 ---
 
 Trên một đồng bằng bằng phẳng gần Gunung Jerai, giữa những cánh đồng lúa và đồn điền cọ dầu, có những viên gạch cổ được xếp đặt hàng thế kỷ trước khi Melaka tồn tại như một hải cảng. Một số tạo thành nền của các ngôi đền Hindu. Một số khác là lò luyện sắt. Không có vị sultan nào từng cai trị từ đây mà tên tuổi còn được biết đến ngày nay — nhưng những gì mà cộng đồng xây dựng những ngôi đền và những lò luyện đó để lại khiến Thung lũng Bujang trở thành một trong những di chỉ khảo cổ quan trọng nhất ở Đông Nam Á.

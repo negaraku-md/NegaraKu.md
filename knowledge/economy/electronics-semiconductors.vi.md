@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đánh giá mức phơi nhiễm kinh tế của Malaysia — nhà đầu tư, người tìm việc, nhà hoạch định chính sách và người nghiên cứu thương mại."
 
 lang: "vi"
-sourceContentHash: "f587a0bc65cbc1af"
+sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,6 +57,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["external-trade", "gdp-overview", "palm-oil-sector"]
 keywords: ["Malaysia semiconductor", "Malaysia E&E exports", "elektrik dan elektronik Malaysia", "Penang semiconductor", "Malaysia chip industry"]
+faq:
+  - q: Malaysia có sản xuất chip tiên tiến như Đài Loan không, hay làm một việc khác?
+    a: Một việc khác. Việc sản xuất một chất bán dẫn có hai nửa, và thế mạnh của Malaysia nằm ở công đoạn cuối (back end) — lắp ráp, kiểm tra và đóng gói (ATP), tức giai đoạn biến một tấm wafer hoàn chỉnh thành một con chip có thể sử dụng. Nước này có rất ít nhà máy chế tạo tiên tiến nhất (công đoạn đầu/front-end). Những bình luận coi Malaysia là đối thủ của các nhà máy fab của Đài Loan thực chất đang so sánh những mắt xích khác nhau trong cùng một chuỗi; Malaysia đã làm công đoạn cuối từ những năm 1970.
+  - q: Vì sao việc E&E (điện và điện tử) chiếm một nửa kim ngạch xuất khẩu được gọi là một điểm dễ tổn thương, chứ không chỉ là một thế mạnh?
+    a: 'Vì việc một nhóm sản phẩm duy nhất gánh khoảng một nửa nền tảng xuất khẩu khiến rủi ro tập trung theo ba cách. Tính chu kỳ: chất bán dẫn lên xuống thất thường, nên một ngành tăng trưởng 39,5% trong một năm cũng có thể co lại mạnh. Vị trí trong chuỗi: lắp ráp và kiểm tra ở công đoạn cuối dễ bị cạnh tranh hơn chế tạo, nên các đối thủ có thể dựng lên cùng một năng lực. Địa chính trị: các biện pháp kiểm soát xuất khẩu và chính sách đưa sản xuất về nước (reshoring) được soạn ra ở các nền kinh tế khác lại tác động trực tiếp đến các nhà máy ở Malaysia.'
+  - q: Vì sao cụ thể là Penang lại trở thành trung tâm của ngành công nghiệp chip Malaysia?
+    a: Điều này bắt nguồn từ một quyết định chính sách năm 1972. Penang đã lập một khu thương mại tự do và thu hút các công ty điện tử nước ngoài bằng ưu đãi thuế, nhập khẩu linh kiện miễn thuế và lực lượng lao động sẵn có. Các công ty bán dẫn của Mỹ và Nhật Bản đã lập các hoạt động lắp ráp, và một cụm ngành đã hình thành. Các cụm ngành ngày càng sâu rễ theo thời gian — nhà cung cấp, dịch vụ bảo trì thiết bị, kỹ sư được đào tạo tại chỗ — đó là lý do vì sao nửa thế kỷ sau Penang và Kulim vẫn tập trung phần lớn của ngành này.
 ---
 
 ## Tổng quan nhanh

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai phơi nhiễm với tỷ giá hối đoái — nhà nhập khẩu, nhà xuất khẩu, người đi du lịch, du học sinh và nhà đầu tư."
 
 lang: "vi"
-sourceContentHash: "5c03f2bbac4e0dca"
+sourceContentHash: "a0d224345b9024d5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -55,6 +55,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
+faq:
+  - q: Nếu con số USD/MYR tăng lên, đồng ringgit mạnh hơn hay yếu đi?
+    a: Yếu đi. USD/MYR bằng 4.0944 nghĩa là một đô la Mỹ mua được 4.0944 ringgit, nên khi con số đó tăng thì mỗi đô la mua được nhiều ringgit hơn và đồng ringgit đã yếu đi. Bài viết gọi sự đảo ngược này là cách hiểu sai phổ biến nhất. Câu "ringgit giảm" cũng vô nghĩa nếu không nêu tên đồng tiền còn lại, vì nó có thể yếu đi so với đô la trong khi đồng thời mạnh lên so với yên hoặc euro.
+  - q: Ringgit có còn được neo vào đô la Mỹ ở mức 3.80 không?
+    a: Không. Malaysia neo ringgit ở mức 3.80 so với đô la Mỹ vào tháng 9 năm 1998 trong cuộc Khủng hoảng Tài chính châu Á, cùng với các biện pháp kiểm soát vốn, và mức neo này duy trì gần bảy năm. Nó được dỡ bỏ vào năm 2005, và ringgit trở lại chế độ thả nổi có quản lý — do thị trường quyết định, với Ngân hàng Trung ương Malaysia (BNM) chỉ hiện diện để làm dịu các biến động hỗn loạn chứ không để bảo vệ một mức cụ thể. Ngày nay không có mức "đúng" chính thức nào.
+  - q: Vì sao tỷ giá mà ngân hàng hay quầy đổi tiền của tôi đưa ra lại tệ hơn tỷ giá BNM công bố?
+    a: Bởi vì tỷ giá tham chiếu USD/MYR tại KL của BNM là một chuẩn mực thị trường được tính từ thị trường liên ngân hàng, dùng cho hợp đồng và định giá — không phải giá bán lẻ. Ngân hàng và quầy đổi tiền cộng thêm phần chênh lệch (spread) riêng của họ lên trên, nên bạn luôn giao dịch ở mức tệ hơn tỷ giá tham chiếu. Tỷ giá tham chiếu là 4.0944 tính đến ngày 24 tháng 7 năm 2026, nhưng đó là chuẩn mực, không phải cái mà khách hàng thực sự trả tại quầy.
 ---
 
 ## Tổng quan nhanh

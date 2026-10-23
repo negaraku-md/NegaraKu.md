@@ -26,7 +26,7 @@ verificationNeeded:
   - "BNM's digital on-boarding / e-KYC policy page returned a 403 on automated fetch at time of writing; its existence and title are confirmed directly from bnm.gov.my search results, but granular eligibility detail should be re-checked directly on bnm.gov.my when accessible."
 
 lang: "hi"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: क्या मैं पर्यटक वीज़ा पर मलेशियाई बैंक खाता खोल सकता हूँ?
+    a: नहीं। किसी भी बड़े बैंक में मानक व्यक्तिगत खाते के लिए अल्पकालिक सामाजिक भेंट (पर्यटक) पास स्वीकार नहीं किया जाता। यह केवल यह प्रमाणित करता है कि आपको भेंट देने की अनुमति है, इसमें ऐसा कोई नियोक्ता, संस्थान, दीर्घकालिक पता या नवीकरणीय स्थिति नहीं होती जिसे बैंक सत्यापित कर सके, इसलिए बैंक जिन दस्तावेज़ श्रेणियों का उपयोग करते हैं, उनमें से किसी में भी इसके लिए जगह नहीं होती। यह एक संरचनात्मक अंतराल है, यही कारण है कि पर्यटक पास के लिए केवल कोई दूसरा बैंक आज़माना शायद ही कभी काम करता है।
+  - q: किसी मलेशियाई नागरिक को खाता खोलने के लिए वास्तव में किन दस्तावेज़ों की आवश्यकता होती है?
+    a: अधिकांश सामान्य बचत या चालू खातों के लिए, किसी नागरिक या स्थायी निवासी के लिए एकमात्र अनिवार्य दस्तावेज़ मूल MyKad है। CIMB की प्रकाशित आवश्यकताओं के अनुसार, रोज़गार पत्र, EPF विवरण, वेतन पर्ची या हाल के बैंक विवरण जैसे अतिरिक्त प्रमाण केवल विशिष्ट स्थितियों में ही माँगे जाते हैं, जैसे किसी उच्च-स्तरीय खाते के लिए या जब आप जिस पते को दर्ज कराना चाहते हैं वह आपके MyKad पर छपे पते से भिन्न हो। अवयस्कों को जन्म प्रमाण पत्र के साथ माता-पिता या अभिभावक का MyKad चाहिए होता है।
+  - q: बैंक मेरे वीज़ा के प्रकार के अनुसार अलग-अलग दस्तावेज़ क्यों माँगते हैं?
+    a: क्योंकि बैंक सहायक दस्तावेज़ों को आपके मलेशिया में होने के विशिष्ट कारण से जोड़ते हैं, और यही आपका पास प्रमाणित करता है। CIMB की प्रकाशित आवश्यकताओं के आधार पर, रोज़गार पास (Employment Pass) पर काम करने वाले विदेशी से आम तौर पर रोज़गार पत्र और बैंक की सीमा से अधिक मासिक वेतन का प्रमाण (CIMB RM10,000 बताता है) माँगा जाता है; छात्र पास (Student Pass) धारक से छात्र पहचान पत्र और नामांकन पत्र; और आश्रित पास (Dependant Pass) धारक से, जहाँ लागू हो, विवाह प्रमाण पत्र माँगा जाता है। सभी को कम से कम छह महीने के लिए वैध पासपोर्ट और पास की आवश्यकता होती है।
 ---
 
 एक मलेशियाई नागरिक MyKad लेकर शाखा में जाता है, एक फॉर्म पर हस्ताक्षर करता है, और

@@ -23,7 +23,7 @@ verificationNeeded:
   - "Cet article n'indique pas les effectifs d'admission par programme, les proportions de quotas ni des montants de frais précis pour un quelconque établissement — ceux-ci varient selon le programme et le campus et changent à chaque admission ; confirmez directement auprès de l'e-Panduan de l'UPU (pour les universités publiques) ou de l'établissement concerné (pour les universités privées) avant de postuler."
   - "Le nombre exact actuel de prestataires IPTS enregistrés n'est pas indiqué ici car les tableaux statistiques publiés par le MOHE (Statistik Pendidikan Tinggi) n'ont pas été ouverts en totalité pour cet article — pour un chiffre précis et actuel, consultez directement la publication Statistik Pendidikan Tinggi du MOHE."
 lang: "fr"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "université publique Malaisie", "université privée Malaisie", "demande en ligne UPU", "accréditation MQA", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: L'étiquette IPTA (public) ou IPTS (privé) me dit-elle si un diplôme sera reconnu ?
+    a: Non. La reconnaissance se décide programme par programme au moyen de l'accréditation accordée par l'Agence malaisienne des qualifications (MQA), créée en vertu de la loi de 2007 sur l'Agence malaisienne des qualifications (Act 679), et non selon que l'établissement est public ou privé. Même une université renommée peut proposer un programme nouveau, provisoire ou pas encore accrédité. Vérifiez le programme précis et l'année d'admission dans le Registre malaisien des qualifications (MQR) avant de vous inscrire dans l'un ou l'autre type d'établissement.
+  - q: Puis-je postuler à une université privée via UPU ?
+    a: Non. UPU (Unit Pusat Universiti), le système en ligne centralisé du ministère de l'Enseignement supérieur, ne couvre que les universités publiques, les établissements MARA, les polytechniques et les collèges communautaires. Les établissements privés (IPTS) se situent entièrement hors de UPU et il faut postuler directement auprès d'eux ; chacun gère son propre bureau des admissions, fixe ses propres conditions d'entrée par programme et peut faire une offre en quelques jours, acceptant souvent l'UEC, les A-Levels, l'IB et d'autres qualifications aux côtés du SPM et du STPM.
+  - q: Un programme n'est que « provisoirement accrédité » — cela signifie-t-il qu'il n'est pas accrédité ?
+    a: Non. Selon le Code de pratique pour l'accréditation des programmes de la MQA, l'accréditation provisoire confirme qu'un programme a satisfait aux exigences de qualité minimales pour être proposé légalement, et elle constitue elle-même une condition de l'approbation du ministère. L'accréditation complète est l'évaluation plus approfondie menée une fois qu'une première promotion a suivi le programme. Un programme accrédité à titre provisoire est légitime et peut être proposé légalement ; il n'a simplement pas encore achevé l'évaluation du cycle complet.
 ---
 
 Deux étudiantes ayant les mêmes résultats au SPM se retrouvent dans des systèmes

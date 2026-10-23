@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Toute personne évaluant l'exposition économique de la Malaisie — investisseurs, chercheurs d'emploi, responsables des politiques publiques et étudiants du commerce."
 
 lang: "fr"
-sourceContentHash: "f587a0bc65cbc1af"
+sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -58,6 +58,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["external-trade", "gdp-overview", "palm-oil-sector"]
 keywords: ["Malaysia semiconductor", "Malaysia E&E exports", "elektrik dan elektronik Malaysia", "Penang semiconductor", "Malaysia chip industry"]
+faq:
+  - q: La Malaisie fabrique-t-elle des puces avancées comme Taïwan, ou fait-elle autre chose ?
+    a: Autre chose. La fabrication d'un semi-conducteur comporte deux moitiés, et la force de la Malaisie réside dans l'aval (back end) — assemblage, test et conditionnement (ATP), l'étape où une plaquette (wafer) achevée devient une puce utilisable. Elle possède très peu d'usines de fabrication de pointe (amont/front-end). Les commentaires qui présentent la Malaisie comme une rivale des fabs de Taïwan comparent des maillons différents d'une même chaîne ; la Malaisie effectue le travail d'aval depuis les années 1970.
+  - q: Pourquoi le fait que l'E&E (électricité et électronique) représente la moitié des exportations est-il qualifié de vulnérabilité, et pas seulement de force ?
+    a: 'Parce qu''une seule catégorie de produits portant environ la moitié de la base exportatrice concentre le risque de trois façons. Cyclicité : les semi-conducteurs connaissent des hauts et des bas, de sorte qu''un secteur ayant crû de 39,5 % en un an peut se contracter brutalement. Position dans la chaîne : l''assemblage et le test en aval sont plus contestables que la fabrication, si bien que des concurrents peuvent bâtir la même capacité. Géopolitique : les contrôles à l''exportation et les politiques de relocalisation (reshoring) rédigés dans d''autres économies retombent directement sur les usines malaisiennes.'
+  - q: Pourquoi est-ce précisément Penang qui est le centre de l'industrie des puces en Malaisie ?
+    a: Cela remonte à une décision politique de 1972. Penang a créé une zone de libre-échange et a courtisé les entreprises électroniques étrangères avec des incitations fiscales, des importations de composants en franchise de droits et une main-d'œuvre disponible. Des entreprises de semi-conducteurs américaines et japonaises y ont installé des activités d'assemblage, et un pôle (cluster) s'est formé. Les pôles se renforcent avec le temps — fournisseurs, maintenance des équipements, ingénieurs formés localement —, c'est pourquoi, un demi-siècle plus tard, Penang et Kulim concentrent encore une grande partie du secteur.
 ---
 
 ## En un coup d'œil

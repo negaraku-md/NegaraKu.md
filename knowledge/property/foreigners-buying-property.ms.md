@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 
 status: "published"
 aiAssisted: true
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: Adakah terdapat satu harga minimum tunggal RM1 juta untuk orang asing membeli hartanah di seluruh Malaysia?
+    a: Tidak. Angka RM1 juta adalah khusus untuk Wilayah Persekutuan — Kuala Lumpur, Putrajaya dan Labuan — di bawah Garis Panduan Pemerolehan Hartanah oleh Unit Perancang Ekonomi, yang disemak selaras dengan Belanjawan 2014. Oleh sebab tanah terletak di bawah senarai negeri, setiap negeri lain menetapkan dan menyemak semula had minimumnya sendiri dari semasa ke semasa, yang boleh lebih tinggi, lebih rendah, atau dibahagikan mengikut zon, mengikut daerah, atau mengikut hartanah bertanah berbanding hartanah strata.
+  - q: Jika seorang asing memenuhi harga minimum negeri, adakah pembelian itu dijamin akan berjaya?
+    a: Tidak — memenuhi had harga minimum hanya membawa pembeli ke peringkat memohon. Satu lagi gerbang kelulusan yang berasingan ialah kebenaran bertulis daripada Pihak Berkuasa Negeri di bawah seksyen 433B Kanun Tanah Negara, yang diperlukan bagi setiap pemerolehan oleh orang asing tanpa mengira harga. Kebenaran ini adalah mengikut budi bicara, bukan automatik, dan boleh ditolak. Di bawah seksyen 433C, sebarang urusan yang diselesaikan tanpa kelulusan bertulis itu adalah terbatal dan tidak sah.
+  - q: Bolehkah seorang asing membeli mana-mana hartanah di Malaysia jika tawarannya cukup tinggi?
+    a: 'Tidak. Sesetengah hartanah dikecualikan sama sekali tanpa mengira harga: Tanah Rizab Melayu (di mana pindah milik kepada bukan Melayu adalah tidak sah di bawah Enakmen Rizab Melayu), tanah yang dikategorikan untuk pertanian, dan unit kuota Bumiputera atau rumah kos rendah dan mampu milik. Semua ini berada sepenuhnya di luar rangka kerja harga dan kebenaran, jadi membayar melebihi harga minimum negeri tidak mengubah apa-apa. Sabah dan Sarawak juga mengamalkan undang-undang tanah mereka sendiri yang berasingan di luar Kanun Tanah Negara.'
 ---
 
 Seorang pembeli dari Hong Kong bersetuju membayar RM1.8 juta untuk sebuah rumah berkembar di Petaling Jaya. Pembiayaan telah diatur, penjual bersetuju, dan harga itu melepasi setiap ambang yang disebut di internet. Namun urus niaga itu masih tidak boleh selesai sehingga sebuah pejabat kerajaan negeri di Shah Alam membuat keputusan — atas budi bicaranya sendiri — sama ada mahu membenarkan seorang warga asing memegang hak milik itu langsung.

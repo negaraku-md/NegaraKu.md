@@ -26,7 +26,7 @@ verificationNeeded:
   - "Trang chính sách tiếp nhận số / e-KYC của BNM trả về lỗi 403 khi tải tự động tại thời điểm viết bài; sự tồn tại và tiêu đề của nó được xác nhận trực tiếp từ kết quả tìm kiếm bnm.gov.my, nhưng chi tiết điều kiện chi tiết nên được kiểm tra lại trực tiếp trên bnm.gov.my khi có thể truy cập."
 
 lang: "vi"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,6 +68,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: Tôi có thể mở tài khoản ngân hàng Malaysia bằng thị thực du lịch không?
+    a: Không. Giấy thông hành thăm viếng xã hội ngắn hạn (du lịch) không được chấp nhận để mở tài khoản cá nhân tiêu chuẩn tại bất kỳ ngân hàng lớn nào. Nó chỉ chứng nhận rằng bạn được phép đến thăm, mà không có người sử dụng lao động, cơ sở, địa chỉ dài hạn hay tình trạng có thể gia hạn nào để ngân hàng xác minh, nên không có nhóm giấy tờ nào mà ngân hàng sử dụng có chỗ dành cho nó. Đây là một lỗ hổng mang tính cấu trúc, và đó là lý do vì sao chỉ đơn giản thử một ngân hàng khác hiếm khi có hiệu quả đối với giấy thông hành du lịch.
+  - q: Một công dân Malaysia thực sự cần những giấy tờ gì để mở tài khoản?
+    a: Đối với hầu hết các tài khoản tiết kiệm hoặc tài khoản vãng lai đơn giản, giấy tờ bắt buộc duy nhất đối với một công dân hoặc thường trú nhân là MyKad bản gốc. Theo các yêu cầu được CIMB công bố, các bằng chứng bổ sung như thư xác nhận việc làm, sao kê EPF, phiếu lương hoặc sao kê ngân hàng gần đây chỉ được yêu cầu trong những tình huống cụ thể, chẳng hạn như tài khoản hạng cao hơn hoặc khi địa chỉ bạn muốn ghi vào hồ sơ khác với địa chỉ in trên MyKad của bạn. Trẻ vị thành niên cần giấy khai sinh cùng với MyKad của cha mẹ hoặc người giám hộ.
+  - q: Tại sao các ngân hàng yêu cầu những giấy tờ khác nhau tùy theo loại thị thực của tôi?
+    a: Bởi vì các ngân hàng gắn các giấy tờ chứng minh với lý do cụ thể khiến bạn ở Malaysia, chính là điều mà giấy thông hành của bạn chứng nhận. Dựa trên các yêu cầu được CIMB công bố, một người nước ngoài làm việc theo Giấy phép Lao động (Employment Pass) thường được yêu cầu thư xác nhận việc làm và bằng chứng về mức lương hằng tháng cao hơn ngưỡng của ngân hàng (CIMB nêu là RM10,000); người giữ Giấy phép Sinh viên (Student Pass) được yêu cầu thẻ sinh viên và thư nhập học; và người giữ Giấy phép Người phụ thuộc (Dependant Pass) được yêu cầu giấy chứng nhận kết hôn nếu áp dụng. Tất cả đều cần hộ chiếu và giấy thông hành còn hiệu lực ít nhất sáu tháng.
 ---
 
 Một công dân Malaysia bước vào một chi nhánh với một MyKad, ký một mẫu đơn, và bước

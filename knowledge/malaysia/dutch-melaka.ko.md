@@ -20,7 +20,7 @@ keyTakeaways:
   - "1824년 3월 17일 영란 조약(Anglo-Dutch Treaty)은 벤쿨렌(Bencoolen)과 맞바꾸어 말라카를 영국에 영구히 할양하였으며, 실제 이양은 1825년 3월 1일에 발효되었습니다"
 appliesTo: "말라카(Melaka)가 포르투갈에서 네덜란드로, 다시 영국으로 손이 바뀌었다는 사실을 이미 알고 있으며, 그 중간의 184년이 앞선 130년 및 뒤이은 121년과 왜 그토록 달랐는지 — 그리고 영국으로의 이양이 실제로 어떻게 이루어졌는지 — 이해하고자 하는 독자."
 lang: "ko"
-sourceContentHash: "c29f50bb16f23497"
+sourceContentHash: "2c0da3227a2ca96b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "johor-riau-sultanate" }
 related: ["portuguese-melaka-1511", "straits-settlements", "melaka-sultanate", "johor-riau-sultanate"]
 keywords: ["Dutch Melaka", "VOC Malacca", "Dutch East India Company Malacca", "Batavia versus Melaka", "Anglo-Dutch Treaty 1824", "A Famosa demolition", "Stadthuys Melaka", "Kew Letters 1795", "Straits Settlements history"]
+faq:
+  - q: 네덜란드는 포르투갈로부터 믈라카를 단독으로 점령했습니까?
+    a: 아닙니다. VOC(네덜란드 동인도회사)는 포르투갈과 오랜 원한을 풀어야 했고 지상군과 현지 지식을 제공한 조호르 술탄국과 함께 믈라카를 차지했습니다. 말레이시아 국립문서보관소(Arkib Negara Malaysia)의 기록에 따르면, 이 요새는 바다와 육지에서 7개월에 걸친 포위 끝에 조호르와 연합한 네덜란드에 의해 함락되었습니다. 1641년에 함락되었을 때, 네덜란드는 포르투갈이 방어에 사용했던 68문의 대포와 74정의 총을 발견했습니다.
+  - q: 네덜란드는 왜 믈라카를 부유한 무역항으로 발전시키지 않았습니까?
+    a: VOC는 이미 1641년보다 훨씬 전에 바타비아(자카르타, Batavia)에 목적에 맞게 건설한 지역 수도를 두고 있었고, 믈라카가 자신의 본부와 경쟁하도록 할 의도가 전혀 없었기 때문입니다. 회사의 우선순위는 경쟁하는 중계무역항을 세우는 것이 아니라, 경쟁 유럽 열강으로부터 이 항구와 해협을 차단하는 것이었습니다. 주석 할당량은 바타비아로 돌려졌고, 믈라카의 총독들은 더 많은 무역 재량을 거부당했으며, 이 항구는 종속적인 수비대 겸 행정 도시로 유지되었습니다.
+  - q: 믈라카는 네덜란드에서 영국으로 한 번의 깔끔한 이양으로 넘어갔습니까?
+    a: 아닙니다. 그것은 30년 동안 행정적으로 네 번 주인이 바뀌었습니다. 영국은 1795년 믈라카가 프랑스의 손에 넘어가는 것을 막기 위해 큐 서한(Kew Letters)에 따라 점령했고, 1818년에 믈라카는 네덜란드에 반환되었으며, 1824년의 영국-네덜란드 조약(1824년 3월 17일 서명)이 수마트라의 벤쿨렌(Bencoolen)과 교환하여 이를 영국에 영구히 할양했고, 실제 이양은 1825년 3월 1일에 발효되었습니다.
 ---
 
 한 회사가 항구 하나를 정복하기 위해 7개월과 외국 술탄국과의 동맹을 쏟아붓습니다. 그런 다음 이후 한 세기 반 동안 그 항구가 결코 부유해지지 않도록 애씁니다.

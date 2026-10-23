@@ -25,7 +25,7 @@ verificationNeeded:
   - "SPIKPA의 정확한 보험료와 연간 보장 한도는 공식 1차 출처에서 확인되지 않았습니다(학술 및 보험 중개 2차 출처만 발견됨). 이 글은 확인되지 않은 보험료나 보장 금액을 명시하지 않고, 이민국 자체 사이트에서 확인된 대로 그 제도의 기능 — 취업 허가 갱신에 연동된 의무 보험 — 을 서술합니다."
 
 lang: "ko"
-sourceContentHash: "6d48887f5e7bc5dd"
+sourceContentHash: "7dd45f5bebbd1f93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "socso-perkeso" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "medical-insurance", "socso-perkeso"]
 keywords: ["Malaysia healthcare system", "public vs private healthcare Malaysia", "Ministry of Health Malaysia KKM", "klinik kesihatan vs private clinic", "PeKa B40", "MySalam", "SPIKPA foreign worker insurance", "foreigner hospital fees Malaysia", "Fees Act 1951"]
+faq:
+  - q: 말레이시아에서 "공립 병원"은 무료 의료를 의미합니까?
+    a: 아닙니다 — 그것은 시민권자와 영주권자에게 크게 보조금이 지원됨을 의미하며, 이들은 실제 비용이 아니라 명목상의 등록비와 치료비만 부담합니다. 비시민권자는 같은 시설에서 1951년 수수료법(Fees Act 1951)의 수수료(의료)령(Fees (Medical) Order)에 따라 정해진 별도의 더 높은 요금표로 청구됩니다. 정부 병원에 들어가는 관광객이나 장기 체류 허가 소지자도 여전히 공공 시스템 안에 있으며, 다만 보조금이 적용되지 않는 쪽에 있을 뿐입니다.
+  - q: 모든 말레이시아 시민권자가 PeKa B40 또는 MySalam을 이용할 수 있습니까?
+    a: 아닙니다. 둘 다 일반적인 시민권이 아니라 B40 현금 지원(Sumbangan Tunai Rahmah, STR) 수혜자 자격에 연계되어 있습니다. 자격이 있는 STR 수혜자에게는 자동으로 적용되며 — 별도의 신청이 필요 없습니다 — B40 소득 계층에만 미칩니다. PeKa B40은 검진과 함께 최대 RM20,000의 의료기기 지원을 포함하고, MySalam은 명시된 중증 질환 진단 시 최대 RM8,000을 지급합니다. STR을 받지 않는 시민권자는 자동으로 보장되지 않습니다.
+  - q: 말레이시아의 외국인 노동자는 자신의 건강보험이 필요합니까?
+    a: 예. 합법적 신분의 외국인 노동자는 취업 허가를 갱신하기 위해 SPIKPA(Skim Perlindungan Insurans Kesihatan Pekerja Asing, 외국인 노동자 건강보험 보장 제도)라는 의무적인 입원 및 수술 보험에 가입해야 합니다 — 이는 이민국(Jabatan Imigresen) 자체 사이트에서 확인된 요건입니다. 이는 고용주가 마련하고 비용을 부담하며, 정부 병원에서의 입원과 수술을 보장합니다. 외국인 주재원과 관광객은 이에 포함되지 않으며, 일반적으로 공개 시장에서 구입한 민간 보험에 의존합니다.
 ---
 
 가슴 통증을 느낀 말레이시아 은퇴자가 구급차를 불러 가장 가까운 정부 병원으로 이송되고, 그곳에서 심장 전문의가 실제 비용의 극히 일부만 되는 요금으로 그를 진료합니다. 같은 증상을 가진 그의 이웃, 인도네시아 출신의 취업 허가 소지자는 같은 병원 응급실로 이송됩니다 — 그러나 그 뒤에 나오는 청구서는 완전히 다른 요금표로 계산됩니다. 부처의 눈으로 볼 때 두 사람은 같은 종류의 환자가 아니기 때문입니다.

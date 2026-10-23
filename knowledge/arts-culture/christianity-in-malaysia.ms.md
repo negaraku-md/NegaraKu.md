@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "198b32c117f346a7"
+sourceContentHash: "7bc376bb0aba475a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Christianity in Malaysia", "penganut Kristian Malaysia", "Kristian Sabah Sarawak", "Katolik Malaysia", "Protestan Malaysia", "Persekutuan Kristian Malaysia"]
+faq:
+  - q: Adakah kebanyakan orang Kristian Malaysia berketurunan Cina atau India?
+    a: Tidak — itu salah tanggapan biasa yang diperbetulkan oleh artikel ini. Mengikut komuniti, orang Kristian Malaysia majoritinya Bumiputera (kira-kira 59%), mencerminkan gereja peribumi Borneo dalam kalangan Kadazan-Dusun, Iban, Bidayuh dan lain-lain, dengan minoriti Cina (kira-kira 27%) dan India (kira-kira 4%) yang tertumpu di semenanjung. Lebih daripada dua pertiga (kira-kira 70%) orang Kristian Malaysia tinggal di Sabah dan Sarawak.
+  - q: Adakah Good Friday cuti umum di seluruh Malaysia?
+    a: 'Tidak. Kedua-duanya berbeza dari segi liputan: Krismas ialah cuti umum di seluruh negara, manakala Good Friday ialah cuti umum hanya di Sabah dan Sarawak. Ini mencerminkan geografi agama tersebut, kerana lebih daripada dua pertiga orang Kristian Malaysia — dan Sarawak, tempat agama Kristian merupakan agama tunggal terbesar — berada di Malaysia Timur dan bukannya di semenanjung.'
+  - q: Apakah Christian Federation of Malaysia, dan badan-badan manakah yang disatukannya?
+    a: 'Persekutuan Kristian Malaysia (Christian Federation of Malaysia, CFM), yang ditubuhkan pada 1985, ialah badan payung utama. Ia menyatukan tiga aliran agama Kristian Malaysia: Persidangan Para Uskup Katolik (Catholic Bishops'' Conference), Majlis Gereja-Gereja Malaysia (Council of Churches of Malaysia, Protestan arus perdana) dan Persekutuan Kristian Evangelikal Kebangsaan (National Evangelical Christian Fellowship). CFM menyatakan bahawa ia mewakili lebih daripada 95% gereja di negara ini, kebanyakannya jemaah berbahasa Malaysia di Sabah dan Sarawak.'
 ---
 
 Kisah agama Kristian di Malaysia mempunyai dua pusat graviti, dan kedua-duanya

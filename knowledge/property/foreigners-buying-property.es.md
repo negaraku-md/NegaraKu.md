@@ -27,7 +27,7 @@ verificationNeeded:
   - "The exact citation and year of the National Land Code amendment that closed the earlier industrial-land exemption from State Authority consent could not be confirmed against the amending Act's own text; it is described here based on convergent secondary legal commentary rather than a directly read primary clause."
 
 lang: "es"
-sourceContentHash: "2fddfa6e345670a4"
+sourceContentHash: "1bbfaf63848e0696"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -72,6 +72,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: ¿Existe un único precio mínimo de 1 millón de RM para los extranjeros que compran propiedades en toda Malasia?
+    a: No. La cifra de 1 millón de RM es específica de los Territorios Federales — Kuala Lumpur, Putrajaya y Labuan — en virtud de la Directriz sobre la Adquisición de Propiedades de la Unidad de Planificación Económica (Economic Planning Unit), revisada en consonancia con el Presupuesto de 2014. Dado que la tierra corresponde a la competencia estatal, cada uno de los demás estados fija y revisa periódicamente su propio umbral mínimo, que puede ser más alto, más bajo, o dividido por zona, por distrito, o según se trate de propiedad con terreno (landed) frente a propiedad en estrato (strata).
+  - q: Si un extranjero cumple el precio mínimo del estado, ¿está garantizado que la compra se lleve a cabo?
+    a: 'No: superar el umbral de precio solo lleva al comprador hasta el punto de solicitar. Una segunda barrera, independiente, es el consentimiento por escrito de la Autoridad del Estado en virtud del artículo 433B del Código Nacional de Tierras (National Land Code), exigido para toda adquisición por parte de un extranjero con independencia del precio. El consentimiento es discrecional, no automático, y puede denegarse. En virtud del artículo 433C, cualquier operación concluida sin esa aprobación por escrito es nula y sin efecto.'
+  - q: ¿Puede un extranjero comprar cualquier propiedad en Malasia si la oferta es lo bastante alta?
+    a: 'No. Algunas propiedades quedan excluidas por completo con independencia del precio: las Tierras Reservadas Malayas (Malay Reserved Land) (donde una transmisión a un no malayo es nula en virtud de las Leyes de Reserva Malaya (Malay Reservation Enactments)), la tierra clasificada como agrícola, y las viviendas de cuota Bumiputera o de bajo costo y asequibles. Estas quedan por completo fuera del marco de precio y consentimiento, de modo que pagar por encima del mínimo de un estado no cambia nada. Sabah y Sarawak también aplican sus propias leyes de tierras, separadas, al margen del Código Nacional de Tierras.'
 ---
 
 Un comprador de Hong Kong acuerda pagar RM1.8 millones por una casa pareada en Petaling Jaya. La financiación está arreglada, el vendedor está dispuesto, el precio supera todos los umbrales que alguien citó en internet. Aun así, la operación no puede cerrarse hasta que una oficina del gobierno estatal en Shah Alam decida — a su propia discreción — si permite que un extranjero ostente ese título en absoluto.

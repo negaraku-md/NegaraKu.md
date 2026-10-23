@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant à comprendre pourquoi les tribunaux malaisiens citent la jurisprudence anglaise, les étudiants en droit qui étudient le système juridique malaisien, et quiconque recherche pourquoi certains domaines (foncier, famille, droit islamique) se situent en dehors de l'héritage de la common law."
 
 lang: "fr"
-sourceContentHash: "0e25f8448644480c"
+sourceContentHash: "88c95c68bb68e3d0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["federal-constitution", "court-hierarchy", "civil-and-syariah-courts", "national-land-code", "companies-act-2016"]
 keywords: ["common law Malaisie", "common law Malaysia", "Civil Law Act 1956", "Act 67", "réception du droit anglais", "date limite common law Malaisie", "Article 160 Constitution fédérale", "système Torrens Malaisie"]
+faq:
+  - q: Existe-t-il une date butoir unique pour la common law anglaise dans toute la Malaisie ?
+    a: 'Non. L''article 3 (Section 3) de la Loi sur le droit civil de 1956 (Civil Law Act 1956) fixe trois dates de gel différentes : le 7 avril 1956 pour la Malaisie péninsulaire, le 1er décembre 1951 pour le Sabah et le 12 décembre 1949 pour le Sarawak. Les dates du Sabah et du Sarawak sont antérieures à la Loi de 1956 parce que l''Act 67 a conservé les dates butoirs que leurs ordonnances locales antérieures avaient déjà fixées, au lieu de tout réaligner sur 1956.'
+  - q: Les décisions des tribunaux anglais modernes lient-elles les tribunaux malaisiens ?
+    a: Non. En vertu de l'article 3 de la Loi sur le droit civil de 1956, une affaire anglaise tranchée avant la date butoir pertinente est en principe une common law contraignante, mais une affaire tranchée après celle-ci n'a qu'une valeur persuasive — un tribunal malaisien peut l'examiner, en discuter et refuser de la suivre. L'article 3 n'applique aussi la common law et l'equity que « dans la mesure où les circonstances... le permettent », de sorte que les tribunaux peuvent écarter des règles anglaises qui ne conviennent pas aux conditions locales.
+  - q: Le droit anglais régit-il la propriété foncière en Malaisie ?
+    a: Non. L'article 6 (Section 6) de la Loi sur le droit civil de 1956 dispose que rien dans la Loi n'introduit de droit anglais relatif à la détention, au transfert, à la garantie ou à la succession de biens immobiliers. Le droit foncier anglais a été délibérément écarté dès le premier jour. La terre en Malaisie fonctionne plutôt selon le système Torrens d'origine australienne, codifié pour la Malaisie péninsulaire dans le Code national foncier de 1965 (National Land Code 1965, Act 56), où l'inscription elle-même crée et prouve le titre.
 ---
 
 Un juge malaisien qui tranche aujourd'hui un litige contractuel peut encore recourir à une affaire anglaise jugée avant même que la Fédération de Malaya n'existe. Non pas parce que les tribunaux anglais ont la moindre autorité ici — ils n'en ont aucune — mais parce qu'un unique texte de loi malaisien a ordonné aux tribunaux locaux, en 1956, de traiter la common law anglaise comme la leur.

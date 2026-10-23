@@ -26,7 +26,7 @@ verificationNeeded:
   - "Mức phí bảo hiểm và trần bảo hiểm hằng năm chính xác của SPIKPA không được xác nhận tại một nguồn chính thức gốc (chỉ tìm thấy các nguồn thứ cấp học thuật và của môi giới bảo hiểm); bài viết này mô tả chức năng của chương trình — bảo hiểm bắt buộc gắn với việc gia hạn giấy phép lao động, được xác nhận trên trang của chính Cục Di trú — mà không nêu mức phí hoặc số tiền bảo hiểm chưa được xác minh."
 
 lang: "vi"
-sourceContentHash: "6d48887f5e7bc5dd"
+sourceContentHash: "7dd45f5bebbd1f93"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "socso-perkeso" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "medical-insurance", "socso-perkeso"]
 keywords: ["Malaysia healthcare system", "public vs private healthcare Malaysia", "Ministry of Health Malaysia KKM", "klinik kesihatan vs private clinic", "PeKa B40", "MySalam", "SPIKPA foreign worker insurance", "foreigner hospital fees Malaysia", "Fees Act 1951"]
+faq:
+  - q: Ở Malaysia, "bệnh viện công" có nghĩa là chăm sóc y tế miễn phí không?
+    a: Không — nó có nghĩa là được trợ cấp rất nhiều cho công dân và thường trú nhân, những người chỉ trả một khoản phí đăng ký và điều trị mang tính tượng trưng chứ không phải chi phí thực. Người không phải công dân bị tính phí tại cùng các cơ sở đó theo một biểu phí riêng, cao hơn, được quy định theo Lệnh Phí (Y tế) của Đạo luật Phí 1951 (Fees Act 1951). Một du khách hoặc người giữ giấy phép cư trú dài hạn bước vào bệnh viện chính phủ vẫn nằm trong hệ thống công, chỉ là ở phía không được trợ cấp của nó.
+  - q: Mọi công dân Malaysia đều có thể dùng PeKa B40 hoặc MySalam không?
+    a: Không. Cả hai đều gắn với tư cách người thụ hưởng trợ cấp tiền mặt B40 (Sumbangan Tunai Rahmah, STR), chứ không phải quốc tịch nói chung. Chúng tự động áp dụng cho những người nhận STR đủ điều kiện — không cần nộp đơn riêng — nhưng chỉ đến được nhóm thu nhập B40. PeKa B40 bao gồm tầm soát cùng với trợ giúp thiết bị y tế lên tới RM20,000; MySalam chi trả tới RM8,000 khi được chẩn đoán một bệnh hiểm nghèo nằm trong danh mục. Một công dân không nhận STR thì không được bảo vệ tự động.
+  - q: Lao động nước ngoài ở Malaysia có cần bảo hiểm y tế của riêng họ không?
+    a: Có. Lao động nước ngoài có giấy tờ hợp lệ phải có SPIKPA (Skim Perlindungan Insurans Kesihatan Pekerja Asing, Chương trình Bảo vệ Bảo hiểm Y tế cho Lao động Nước ngoài), một chương trình bảo hiểm nhập viện và phẫu thuật bắt buộc, để gia hạn giấy phép lao động — một yêu cầu được xác nhận trên chính trang web của Cục Di trú (Jabatan Imigresen). Nó do chủ sử dụng lao động sắp xếp và chi trả, bao gồm việc nhập viện và phẫu thuật tại các bệnh viện chính phủ. Người nước ngoài làm chuyên gia và du khách không được chương trình này bảo vệ và thường dựa vào bảo hiểm tư nhân mua trên thị trường tự do.
 ---
 
 Một người Malaysia đã về hưu bị đau ngực gọi xe cứu thương và được đưa đến bệnh viện nhà nước gần nhất, nơi một bác sĩ tim mạch khám cho ông với mức phí chỉ trang trải một phần nhỏ chi phí thực. Người hàng xóm của ông, một người giữ giấy phép lao động đến từ Indonesia với cùng triệu chứng, được đưa đến khoa cấp cứu của cùng bệnh viện đó — nhưng hóa đơn sau đó được tính theo một biểu phí hoàn toàn khác, bởi trong mắt bộ, hai người họ không phải cùng một loại bệnh nhân.

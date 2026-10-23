@@ -67,6 +67,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: Can I open a Malaysian bank account on a tourist visa?
+    a: No. A short-term social visit (tourist) pass is not accepted for a standard personal account at any major bank. It certifies only that you are allowed to visit, with no employer, institution, long-term address or renewable status the bank can verify, so none of the document categories banks use has a slot for it. This is a structural gap, which is why simply trying a different bank rarely works for a tourist pass.
+  - q: What documents does a Malaysian citizen actually need to open an account?
+    a: For most straightforward savings or current accounts, the only mandatory document for a citizen or permanent resident is an original MyKad. According to CIMB's published requirements, additional proof such as an employment letter, EPF statement, payslip or recent bank statements is requested only in specific situations, such as a higher-tier account or when the address you want on file differs from the one printed on your MyKad. Minors need a birth certificate plus a parent or guardian's MyKad.
+  - q: Why do banks ask for different documents depending on my visa type?
+    a: Because banks tie the supporting documents to the specific reason you are in Malaysia, which is what your pass certifies. Based on CIMB's published requirements, a working foreigner on an Employment Pass is typically asked for an employment letter and proof of monthly salary above the bank's threshold (CIMB states RM10,000); a Student Pass holder for a student ID and enrolment letter; and a Dependant Pass holder for a marriage certificate where applicable. All need a passport and pass valid for at least six months.
 ---
 
 A Malaysian citizen walks into a branch with a MyKad, signs a form, and walks out

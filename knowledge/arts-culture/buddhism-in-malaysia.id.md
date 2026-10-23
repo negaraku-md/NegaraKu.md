@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "id"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "288705196583cc87"
+sourceContentHash: "48f4e6165d3f9202"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -61,6 +61,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["wesak", "chinese-religion-in-malaysia", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["Agama Buddha Malaysia", "Buddhism in Malaysia", "Buddhisme Mahayana Malaysia", "Buddhisme Theravada Malaysia", "Hari Wesak", "Kek Lok Si"]
+faq:
+  - q: Apakah seluruh 18,7% umat Buddha dalam sensus merupakan penganut Buddha dalam arti yang ketat?
+    a: Tidak. Angka 'Buddha' dalam sensus 2020 sangat tumpang tindih dengan kepercayaan rakyat Tionghoa. Banyak orang Tionghoa dalam kehidupan sehari-hari sekaligus memuja Buddha, menyembah dewa, dan menghormati leluhur, lalu mendaftarkan diri sebagai penganut Buddha saat sensus. Karena itu, 18,7% ini mencakup baik penganut Buddha dalam arti ketat maupun banyak pelaku kepercayaan rakyat yang memadukan Buddhisme, Taoisme, Konfusianisme, dan pemujaan leluhur — inilah justru alasan angka-angka sensus saling tumpang tindih.
+  - q: Benarkah pernyataan bahwa 'Buddhisme di Malaysia adalah agama orang Tionghoa'?
+    a: Tidak akurat. Orang Tionghoa memang mayoritas penganutnya, sebagian besar menganut Buddhisme Mahayana; tetapi masyarakat keturunan Siam, Sri Lanka, dan Myanmar menjalankan aliran tersendiri yang terpisah — Buddhisme Theravada, yang kuilnya disebut Wat, dengan masyarakat Siam di negara-negara bagian utara memiliki sejarah terpanjang. Selain itu ada pula Vajrayana yang lebih kecil. Menyamakan Buddhisme di Malaysia dengan agama orang Tionghoa mengabaikan tradisi-tradisi paralel ini.
+  - q: Apa yang diperingati pada Wesak? Apakah itu hari libur umum?
+    a: Wesak (Hari Wesak) memperingati kelahiran, pencerahan, dan wafatnya Buddha menuju nirwana, dan merupakan hari libur umum di seluruh Malaysia. Para penganut pergi ke kuil untuk mempersembahkan bunga, menyalakan pelita, dan bersedekah. Kebebasan beragama dilindungi oleh Pasal 11 Konstitusi Federal; meskipun Pasal 3 menetapkan Islam sebagai agama Federasi, hal itu tidak menghalangi agama lain untuk dijalankan secara damai.
 ---
 
 Di lereng bukit Pulau Pinang, bayangan pagoda Kek Lok Si menatap George Town; di

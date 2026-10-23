@@ -18,7 +18,7 @@ keyTakeaways:
   - "Parameswara, fundador del Sultanato de Melaka hacia 1400, es descrito en la tradición malaya y por el propio gobierno estatal de Melaka como un príncipe de Palembang, la antigua sede de Srivijaya"
 appliesTo: "Lectores que quieran entender qué gobernaba el estrecho de Melaka antes que Melaka, y cómo una potencia marítima con base en Sumatra terminó alimentando directamente la propia historia real de la península malaya."
 lang: "es"
-sourceContentHash: "9c0d3b0b3dd803ef"
+sourceContentHash: "69e06d6034cc1b41"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -55,6 +55,13 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["melaka-sultanate", "langkasuka"]
 keywords: ["Srivijaya", "Valle de Bujang", "Lembah Bujang", "Kedah Tua", "talasocracia", "malayo antiguo", "Parameswara Palembang", "historia del estrecho de Melaka"]
+faq:
+  - q: ¿Fue Srivijaya un reino malasio?
+    a: No; considerarlo así es un error común. La capital y el territorio central de Srivijaya estaban en Sumatra, en lo que hoy es Indonesia, con sede en Palembang, a orillas del río Musi. Su influencia llegó hasta lo que hoy es Malasia —de la manera más concreta en el valle de Bujang, en Kedah—, pero nunca tuvo su sede en la península malaya. Era una talasocracia que controlaba las rutas marítimas y los puertos de desembocadura de los ríos más que grandes extensiones de tierra.
+  - q: ¿Cómo se relaciona Srivijaya con la fundación del Sultanato de Malaca?
+    a: 'Parameswara, que fundó el Sultanato de Malaca hacia el año 1400, figura en la tradición malaya y según el propio gobierno del estado de Malaca como un príncipe real de Palembang, la antigua capital de Srivijaya. Para entonces el poder político de Srivijaya ya había desaparecido, pero Malaca heredó el mismo modelo talasocrático: situarse sobre el estrecho, garantizar el paso seguro y dejar que los comerciantes acudieran a ti, solo que gestionado desde una nueva sede.'
+  - q: ¿Cuál es la inscripción más antigua que se conoce en malayo antiguo y cómo se relaciona con Srivijaya?
+    a: Es la inscripción de Kedukan Bukit, fechada en el año 682 d. C., que registra una expedición militar y ritual de Srivijaya. Más allá de la historia de Sumatra, importa por ser la inscripción más antigua que se conoce escrita en malayo antiguo, el antepasado directo tanto del malayo moderno como del indonesio moderno. A medida que la red comercial de Srivijaya se expandía, el malayo antiguo se difundió por todo el archipiélago como lengua franca de uso práctico, siglos antes de que existiera sultanato alguno.
 ---
 
 Cuando Parameswara huyó de Temasek en 1396 y fue a dar con la ribera que se convertiría en Melaka, no era un don nadie que llegaba de la nada. El propio gobierno estatal de Melaka todavía lo registra, sin rodeos, como «un príncipe real de Palembang». Palembang, a orillas del río Musi, al sur de Sumatra, había sido la capital de una potencia marítima que gobernó el estrecho de Melaka durante unos seiscientos años antes de que Parameswara naciera: un reino llamado Srivijaya. Para cuando Parameswara llegó a la península, el poder político de aquel reino ya había desaparecido. Pero el Sultanato de Melaka que fundó llevaba consigo su linaje, y posiblemente todo su modelo de lo que debía ser un puerto comercial malayo, salido directamente de las ruinas de Srivijaya.

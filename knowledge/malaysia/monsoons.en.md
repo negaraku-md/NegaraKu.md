@@ -70,7 +70,14 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
-sourceContentHash: "d977d1d40dd0956b"
+sourceContentHash: "4ffd8f41ebc3ba1f"
+faq:
+  - q: Why does the east coast of the Peninsula flood while the west coast stays dry at the same time?
+    a: The answer lies in geography. The east coast faces the South China Sea directly, so nothing blocks the moist winds of the Northeast Monsoon before they reach Kelantan, Terengganu, Pahang and Johor. The west coast, on the other hand, is sheltered by the Titiwangsa Range that splits the Peninsula from north to south; this range forces the moist air to rise and drops most of its rain on the eastern slopes before it reaches the western side.
+  - q: Are all floods in Malaysia monsoon floods?
+    a: No. Flooding on the west coast is not always caused by the Northeast Monsoon — according to the Director-General of MetMalaysia, it often stems from separate low-pressure systems, such as the one that affected Perak, Selangor and Perlis in November 2025. In addition, flash floods caused by inadequate urban drainage systems are a separate phenomenon and can occur at any time regardless of the monsoon.
+  - q: Is the Northeast Monsoon equally severe throughout November to March?
+    a: No. Official data from the National Security Council (MKN) for the 2024/2025 season shows that the highest-risk areas shift by phase. In the early phase (November–December) Kelantan, Terengganu, Pahang, Johor, Sarawak and Sabah were affected; in the late phase (January–February) the focus shifted to Pahang, Johor, Sarawak and Sabah — Kelantan and Terengganu were no longer listed as highest-risk. The whole season is expected to record 5 to 7 episodes of heavy rain.
 ---
 
 Every November, before checking the news, many residents of Kota Bharu, Kuala Terengganu and Kuantan start checking the water levels of rivers near their homes. This is not a habit born of unexpected disaster — it is a predictable schedule that repeats every year, and its cause is the same seasonal wind system that also determines when the west coast of the Peninsula turns dry.

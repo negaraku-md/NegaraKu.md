@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "198b32c117f346a7"
+sourceContentHash: "7bc376bb0aba475a"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "borneo-indigenous-languages" }
 related: ["christmas-malaysia", "borneo-indigenous-languages", "buddhism-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["马来西亚基督教", "Christianity in Malaysia", "马来西亚基督徒", "沙巴砂拉越基督徒", "天主教 马来西亚", "新教 马来西亚", "马来西亚基督教联合会"]
+faq:
+  - q: 马来西亚的基督徒大多是华裔或印度裔吗?
+    a: 不是——这是文章要纠正的常见误解。按族群划分,马来西亚基督徒以土著(Bumiputera)为多数(约59%),反映出婆罗洲在卡达山-杜顺人、伊班人、比达友人等族群中的原住民教会;华裔(约27%)与印度裔(约4%)则是集中在半岛的少数。超过三分之二(约70%)的马来西亚基督徒居住在沙巴与砂拉越。
+  - q: 受难节(Good Friday)在全马来西亚都是公共假期吗?
+    a: 不是。两者的适用范围不同:圣诞节是全国性公共假期,而受难节只在沙巴与砂拉越是公共假期。这反映了该信仰的地理分布,因为超过三分之二的马来西亚基督徒——以及基督教为单一最大宗教的砂拉越——都位于东马而非半岛。
+  - q: 什么是马来西亚基督教联合会?它联合了哪些机构?
+    a: 马来西亚基督教联合会(Christian Federation of Malaysia,CFM)成立于1985年,是主要的伞形组织。它联合了马来西亚基督教的三大脉络:天主教主教团(Catholic Bishops' Conference)、马来西亚教会理事会(Council of Churches of Malaysia,主流新教)以及全国福音派基督徒团契(National Evangelical Christian Fellowship)。CFM表示,它代表全国超过95%的教会,其中许多是沙巴与砂拉越讲马来语的会众。
 ---
 
 马来西亚的基督教故事有两个重心，而它们都不在首都。一个可追溯至将近五个世纪前葡萄牙人在马六甲的堡垒；另一个则坐落在南中国海的另一端 — 在沙巴与砂拉越的长屋与山区社群里，基督教根本不是少数信仰，而是整片地区日常生活的宗教。

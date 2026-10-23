@@ -67,6 +67,13 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kuala-lumpur", "selangor", "unemployment-labour-force", "choosing-a-business-location-malaysia"]
 keywords: ["Malaysia urbanisation rate", "kadar pembandaran Malaysia", "DOSM urban area definition", "Klang Valley population", "Malaysia rural urban migration", "urban population Malaysia 2020"]
+faq:
+  - q: Does "urban" mean a big city in Malaysian statistics?
+    a: 'No. Under DOSM''s 2020 Census methodology, "urban" is a population-based test, not a size-based one: a gazetted area plus its bordering built-up area with a combined population of 10,000 or more, where at least 60% of that built-up area''s residents aged 15 and above work outside agriculture. A 10,000-person town with a wet market qualifies exactly like Petaling Jaya, so "urban population" is not the same as "people living in major cities."'
+  - q: Is Malaysia's urbanisation still driven by people moving from villages to cities?
+    a: Largely no — that pattern is mostly over. DOSM's Migration Survey Report, Malaysia, 2024 found 84.6% of intra-state moves were urban-to-urban, versus just 0.6% rural-to-urban. Most movers are already urban residents relocating to a different urban area. Once a country crosses roughly three-quarters urban, further change comes mainly from natural increase, boundary reclassification and urban-to-urban churn, not villages emptying out.
+  - q: Where did most of Malaysia's urban growth concentrate?
+    a: In the Klang Valley. At the 2020 Census, four adjoining districts — Kuala Lumpur (1,982,112), Petaling (2,298,130), Ulu Langat (1,400,461) and Klang (1,088,942) — together held about 6.77 million people, more than a fifth of the national population of 32.4 million. Selangor is now the most populous state with 6,994,423 people and is 95.8% urban, while Kelantan, at 44.1%, is the least urbanised state.
 ---
 
 ## Three in four Malaysians now live somewhere DOSM calls "urban"

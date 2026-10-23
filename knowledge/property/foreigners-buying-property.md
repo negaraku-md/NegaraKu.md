@@ -71,6 +71,13 @@ relations:
   - { rel: "related-to", to: "assessment-and-quit-rent" }
 related: ["federal-state-division", "mm2h-long-stay-visa", "stamp-duty-rates", "rpgt-rates", "assessment-and-quit-rent"]
 keywords: ["foreigners buying property Malaysia", "minimum purchase price foreigner Malaysia", "State Authority consent property Malaysia", "National Land Code section 433B", "Malay Reserved Land foreigner", "MM2H property purchase rules", "foreigner stamp duty Malaysia 2026", "EPU guideline acquisition of properties"]
+faq:
+  - q: Is there a single RM1 million minimum price for foreigners buying property across Malaysia?
+    a: No. The RM1 million figure is specific to the Federal Territories — Kuala Lumpur, Putrajaya and Labuan — under the Economic Planning Unit's Guideline on the Acquisition of Properties, revised in line with the 2014 Budget. Because land sits under the state list, every other state sets and periodically revises its own floor, which can be higher, lower, or split by zone, by district, or by landed versus strata property.
+  - q: If a foreigner meets the state's minimum price, is the purchase guaranteed to go through?
+    a: No — clearing the price floor only gets a buyer to the point of applying. A second, separate gate is written consent from the State Authority under section 433B of the National Land Code, required for every foreign acquisition regardless of price. Consent is discretionary, not automatic, and can be declined. Under section 433C, any dealing completed without that written approval is null and void.
+  - q: Can a foreigner buy any property in Malaysia if the offer is high enough?
+    a: 'No. Some property is excluded outright regardless of price: Malay Reserved Land (where a transfer to a non-Malay is void under the Malay Reservation Enactments), land categorised for agriculture, and Bumiputera-quota or low-cost and affordable housing units. These sit outside the price-and-consent framework entirely, so paying above a state''s minimum changes nothing. Sabah and Sarawak also run their own separate land laws outside the National Land Code.'
 ---
 
 A buyer from Hong Kong agrees to pay RM1.8 million for a semi-detached house in Petaling Jaya. The financing is arranged, the seller is willing, the price clears every threshold anyone quoted online. The deal still cannot complete until a state government office in Shah Alam decides — at its own discretion — whether to let a foreigner hold that title at all.

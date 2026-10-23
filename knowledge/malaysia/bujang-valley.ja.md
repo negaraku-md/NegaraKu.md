@@ -21,7 +21,7 @@ appliesTo: "マレー半島における、マレーの諸スルタン王朝が�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e95214b94dacf363"
+sourceContentHash: "37c769aa2420a10a"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -64,6 +64,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["langkasuka", "melaka-sultanate"]
 keywords: ["Lembah Bujang", "Bujang Valley", "Kedah Tua", "candi", "Sungai Batu", "Candi Bukit Batu Pahat", "Muzium Arkeologi Lembah Bujang", "arkeologi Kedah"]
+faq:
+  - q: 「ブジャン渓谷（Lembah Bujang）」は古代王国の名前ですか?
+    a: いいえ。ブジャン渓谷は、ケダ州のムルボク（Merbok）周辺にある約224平方キロメートルの現代の考古学的地域の名称であり、王国の名前ではありません。これに関連づけられるケダ・トゥア（Kedah Tua、古ケダ）などの王国名は、その実際の範囲や境界について学者の間で今なお議論が続く別個の歴史的呼称です。この渓谷は、50を超えるチャンディ（candi、寺院）とスンガイ・バトゥ（Sungai Batu）の製鉄遺跡を擁する地域を指します。
+  - q: スンガイ・バトゥ（Sungai Batu）遺跡がこれほど重要なのはなぜですか?
+    a: 国家遺産局（Jabatan Warisan Negara）によると、スンガイ・バトゥ遺跡は、紀元1世紀ごろに始まり8世紀まで継続的に稼働していた大規模な製鉄を示しており、その生産量は単なる地域利用ではなく輸出を示唆するものです。ここには東南アジアでこれまでに記録された最古級の製鉄産業の証拠があり、年代の面でアンコール・ワット（Angkor Wat）やボロブドゥール（Borobudur）といった遺跡に先行します。
+  - q: ブジャン渓谷のチャンディ（candi、寺院）は、古代以来そのままの状態で残っているのですか?
+    a: いいえ。今日見学できるチャンディの多くは、無傷のまま残った構造物ではなく、元の遺構に基づいて考古学者によって建て直された（再建された）ものです。チャンディ・ブキット・バトゥ・パハット（Candi Bukit Batu Pahat）は元の場所で再建された唯一の遺構であり、一方チャンディ・プンカラン・ブジャン（Candi Pengkalan Bujang）は現在、博物館の近くに建て直されています。マレーシア国立公文書館（Arkib Negara Malaysia）によると、これらのチャンディは紀元4世紀から12世紀の間に建てられたと推定されています。
 ---
 
 ジュライ山近くの平坦な土地に、水田と油ヤシ農園の間に、マラッカが港として存在するようになるより何世紀も前に積まれた古代の煉瓦が横たわっている。あるものはヒンドゥー教チャンディの基壇を成し、あるものは製鉄用の炉である。ここを治めたスルタンで、その名が今日知られている者は一人もいない——しかしチャンディと炉を築いた人々が残したものが、ブジャン渓谷を東南アジアで最も重要な考古遺跡の一つにしている。

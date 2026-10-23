@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố hiểu vì sao thời tiết và nguy cơ ngập lụt của Malaysia thay đổi theo mùa — cư dân vùng ven biển, du khách, người lập kế hoạch phòng chống thiên tai, học sinh học địa lý và bất kỳ ai theo dõi cảnh báo thời tiết của MetMalaysia."
 
 lang: "vi"
-sourceContentHash: "d977d1d40dd0956b"
+sourceContentHash: "4ffd8f41ebc3ba1f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -70,6 +70,13 @@ relations:
   - { rel: "affects", to: "johor" }
 related: ["kelantan", "terengganu", "pahang", "johor"]
 keywords: ["monsun Malaysia", "monsun timur laut", "monsun barat daya", "musim tengkujuh", "banjir pantai timur", "MetMalaysia", "banjir Semenanjung Malaysia", "fasa peralihan monsun"]
+faq:
+  - q: Tại sao bờ biển phía đông của Bán đảo bị ngập lụt trong khi bờ biển phía tây vẫn khô ráo vào cùng thời điểm?
+    a: Câu trả lời nằm ở địa lý. Bờ biển phía đông hướng thẳng ra Biển Đông, nên không có gì cản được những luồng gió ẩm của Gió mùa Đông Bắc trước khi chúng đến Kelantan, Terengganu, Pahang và Johor. Trong khi đó, bờ biển phía tây được che chắn bởi dãy núi Titiwangsa (Banjaran Titiwangsa) chạy dọc chia đôi Bán đảo từ bắc xuống nam; dãy núi này buộc không khí ẩm bốc lên và trút phần lớn lượng mưa xuống các sườn phía đông trước khi đến được phía tây.
+  - q: Có phải tất cả các trận lũ ở Malaysia đều là lũ do gió mùa không?
+    a: Không. Lũ lụt ở bờ biển phía tây không phải lúc nào cũng do Gió mùa Đông Bắc gây ra — theo Tổng Giám đốc MetMalaysia, nó thường bắt nguồn từ các hệ thống áp thấp riêng biệt, chẳng hạn như hệ thống đã ảnh hưởng đến Perak, Selangor và Perlis vào tháng 11 năm 2025. Ngoài ra, lũ quét do hệ thống thoát nước đô thị không đầy đủ là một hiện tượng riêng biệt và có thể xảy ra bất cứ lúc nào, bất kể có gió mùa hay không.
+  - q: Gió mùa Đông Bắc có dữ dội như nhau suốt từ tháng 11 đến tháng 3 không?
+    a: Không. Dữ liệu chính thức của Hội đồng An ninh Quốc gia (MKN) cho mùa 2024/2025 cho thấy các khu vực có nguy cơ cao nhất thay đổi theo từng giai đoạn. Trong giai đoạn đầu (tháng 11–tháng 12), Kelantan, Terengganu, Pahang, Johor, Sarawak và Sabah bị ảnh hưởng; trong giai đoạn cuối (tháng 1–tháng 2), trọng tâm chuyển sang Pahang, Johor, Sarawak và Sabah — Kelantan và Terengganu không còn được liệt kê là khu vực có nguy cơ cao nhất. Dự kiến cả mùa sẽ ghi nhận 5 đến 7 đợt mưa lớn.
 ---
 
 Mỗi tháng Mười Một, trước khi xem tin tức, nhiều cư dân Kota Bharu, Kuala Terengganu và Kuantan bắt đầu kiểm tra mực nước sông gần nhà mình. Đây không phải là một thói quen nảy sinh từ một thảm họa bất ngờ — nó là một lịch trình có thể dự đoán, lặp lại mỗi năm, và nguyên nhân của nó là cùng một hệ thống gió theo mùa vốn cũng quyết định khi nào bờ tây Bán đảo lại khô.

@@ -20,7 +20,7 @@ appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9c0d3b0b3dd803ef"
+sourceContentHash: "69e06d6034cc1b41"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -55,6 +55,13 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["melaka-sultanate", "langkasuka"]
 keywords: ["Srivijaya", "Bujang Valley", "Lembah Bujang", "Kedah Tua", "thalassocracy", "Old Malay", "Parameswara Palembang", "Strait of Melaka history"]
+faq:
+  - q: Adakah Srivijaya sebuah kerajaan Malaysia?
+    a: Tidak — menganggapnya sebegitu ialah kesilapan biasa. Ibu kota dan wilayah teras Srivijaya terletak di Sumatra, di kawasan yang kini menjadi Indonesia, berpusat di Palembang di Sungai Musi. Pengaruhnya menjangkau ke kawasan yang kini menjadi Malaysia — paling nyata di Lembah Bujang, Kedah — tetapi ibu pejabatnya tidak pernah berada di Semenanjung Tanah Melayu. Ia sebuah talasokrasi, mengawal laluan laut dan pelabuhan muara sungai dan bukannya hamparan daratan yang luas.
+  - q: Bagaimanakah Srivijaya dikaitkan dengan pengasasan Kesultanan Melaka?
+    a: 'Parameswara, yang mengasaskan Kesultanan Melaka sekitar tahun 1400, dicatatkan dalam tradisi Melayu dan oleh kerajaan negeri Melaka sendiri sebagai seorang putera diraja dari Palembang — bekas ibu kota Srivijaya. Ketika itu kuasa politik Srivijaya sudah pun lenyap, tetapi Melaka mewarisi model talasokrasi yang sama: menguasai selat, menjamin laluan selamat, dan membiarkan pedagang datang kepada anda, dikendalikan dari alamat yang baharu.'
+  - q: Apakah prasasti tertua yang diketahui dalam bahasa Melayu Kuno, dan bagaimanakah ia berkaitan dengan Srivijaya?
+    a: Ia ialah prasasti Kedukan Bukit, bertarikh 682 Masihi, yang mencatatkan satu ekspedisi ketenteraan dan ritual Srivijaya. Selain kepentingannya dalam sejarah Sumatra, ia penting sebagai prasasti tertua yang diketahui ditulis dalam bahasa Melayu Kuno — nenek moyang langsung bagi bahasa Melayu moden dan bahasa Indonesia moden. Apabila rangkaian perdagangan Srivijaya berkembang, bahasa Melayu Kuno tersebar di seluruh kepulauan sebagai lingua franca yang berfungsi beberapa abad sebelum wujudnya mana-mana kesultanan.
 ---
 
 Apabila Parameswara melarikan diri dari Temasek pada tahun 1396 dan tersadung ke tebing sungai yang kelak menjadi Melaka, dia bukanlah sesiapa-siapa yang muncul entah dari mana. Kerajaan negeri Melaka sendiri masih merekodkannya, secara jelas, sebagai "seorang putera diraja dari Palembang." Palembang, di Sungai Musi, di selatan Sumatera, pernah menjadi ibu kota sebuah kuasa lautan yang menguasai Selat Melaka selama kira-kira enam ratus tahun sebelum Parameswara dilahirkan — sebuah kerajaan bernama Srivijaya. Menjelang Parameswara tiba di semenanjung, kuasa politik kerajaan itu sudah pun lenyap. Tetapi Kesultanan Melaka yang diasaskannya mewarisi darah keturunannya, malah boleh dikatakan seluruh model tentang bagaimana sebuah pelabuhan perdagangan Melayu sepatutnya berfungsi, terus daripada runtuhan Srivijaya.

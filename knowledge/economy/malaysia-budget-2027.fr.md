@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Contribuables individuels, salariés, travailleurs de plateforme, PME et employeurs, et toute personne qui planifie autour des changements d'impôts, de salaires et d'aides en liquidités du Budget 2027 de la Malaisie."
 
 lang: "fr"
-sourceContentHash: "9667ec689364dcd2"
+sourceContentHash: "425e9a866d80e746"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "personal-tax-rates", "fuel-subsidies"]
 keywords: ["Budget 2027 Malaisie", "Belanjawan 2027", "Budget 2027 impôt sur le revenu", "salaire minimum RM2000", "Budget 2027 impôt PME", "SARA STR 2027", "abattement fiscal RM12000", "Budget 2027 points forts"]
+faq:
+  - q: Le salaire minimum de 2 000 RM est-il déjà en vigueur maintenant que le Budget 2027 a été présenté ?
+    a: Non. Le budget présenté le 9 octobre 2026 est une annonce, non une loi. Le salaire minimum ne passe de 1 700 RM à 2 000 RM qu'à partir de juin 2027, et même alors, les micro, petites et moyennes entreprises (MSME) dont le chiffre d'affaires annuel est inférieur à 50 millions de RM en sont exemptées dans un premier temps. Comme toute mesure, elle ne devient contraignante qu'après l'adoption du projet de loi de finances (Finance Bill), de la loi de crédits (budget) 2027 (Supply (Budget) 2027 Act) et des arrêtés de publication officielle nécessaires, aux dates d'entrée en vigueur indiquées dans le discours.
+  - q: Le Budget 2027 a-t-il réformé le SST ou introduit de nouvelles règles de facturation électronique ?
+    a: Non. L'article indique explicitement qu'une réforme large du SST et de nouvelles mesures de facturation électronique étaient des prévisions pré-budgétaires d'analystes, et non des annonces du discours du 9 octobre 2026. Il faut les considérer comme des attentes, et non comme une politique, tant que le gouvernement ne dit pas le contraire. Les véritables changements fiscaux du budget portent sur la baisse d'un point de pourcentage des taux de l'impôt sur le revenu des résidents et des PME (SME) et sur le relèvement de l'abattement général de 9 000 RM à 12 000 RM.
+  - q: À partir de quand l'ouverture d'un compte d'épargne ou courant est-elle exonérée du droit de timbre dans le cadre du Budget 2027 ?
+    a: À partir du 1er janvier 2027, l'ouverture d'un compte d'épargne ou courant est totalement exonérée du droit de timbre. La même date porte aussi la réduction de la taxe sur les services pour les services de soins aux personnes âgées, de 8 % à 6 %, et le début des droits au travail du conjoint expatrié titulaire d'un pass de personne à charge. Ces dates sont celles annoncées le 9 octobre 2026 et ne prennent effet qu'une fois adoptés la loi habilitante et les arrêtés de publication officielle.
 ---
 
 Le 9 octobre 2026, le Premier ministre et ministre des Finances Anwar Ibrahim a

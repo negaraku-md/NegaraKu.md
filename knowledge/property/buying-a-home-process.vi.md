@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Công dân Malaysia, thường trú nhân, người mua nhà lần đầu, và người mua nước ngoài (chịu các hạn chế và mức thuế bổ sung)"
 
 lang: "vi"
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: Tại Malaysia, theo luật ai là người nộp thuế con dấu khi chuyển nhượng bất động sản — người mua hay người bán?
+    a: Người mua. Theo Phụ lục thứ Ba của Luật Thuế con dấu 1949 (Stamp Act 1949), bên có nghĩa vụ pháp lý nộp thuế con dấu chuyển nhượng là người mua, không phải người bán. Thuế này được tính trên Biên bản Chuyển nhượng (Memorandum of Transfer) theo biểu suất phân bậc tại Mục 32(a) — 1% cho RM100,000 đầu tiên và lên tới 4% cho phần vượt quá RM1,000,000 — tính trên giá trị cao hơn giữa giá kê khai hoặc giá thị trường do LHDN định giá.
+  - q: Nhà mua lại (sub-sale) có được bảo vệ như khi mua dự án mới không?
+    a: Không. Việc mua một dự án mới từ chủ đầu tư có giấy phép tuân theo Hợp đồng Mua Bán theo luật định mẫu Phụ lục G hoặc H thuộc Luật Phát triển Nhà ở (Kiểm soát và Cấp phép) 1966 (Housing Development (Control and Licensing) Act 1966), với tỷ lệ trả góp cố định, thời hạn bàn giao nhà trống bắt buộc (24 tháng đối với nhà gắn liền với đất) và tiền bồi thường thiệt hại tự động cho việc bàn giao trễ. Còn SPA mua lại là một hợp đồng tư nhân không có những điều đó — thời hạn và các điều khoản tịch thu được thương lượng riêng, nên hãy đọc nó kỹ không kém.
+  - q: Vì sao người mua thường phải trả hai khoản phí pháp lý cho một giao dịch mua?
+    a: Vì có hai văn bản riêng biệt chạy song song, được xử lý thay mặt cho những khách hàng khác nhau. Một luật sư soạn thảo và đóng dấu Hợp đồng Mua Bán chuyển nhượng bất động sản; một luật sư khác — do ngân hàng chỉ định, đôi khi cùng một hãng luật đóng vai trò thứ hai — soạn Hợp đồng Vay vốn và văn bản Thế chấp (Mẫu 16A) bảo đảm quyền lợi của ngân hàng. Luật sư của ngân hàng bảo vệ quyền thế chấp của ngân hàng, chứ không phải tiền đặt cọc của người mua, nên vai trò và phí của họ là tách biệt.
 ---
 
 Hai luật sư thường có mặt trong một giao dịch mua nhà tại Malaysia, và hầu hết người mua không bao giờ nhận ra họ là hai người khác nhau. Một người soạn và đóng dấu Hợp đồng Mua bán vốn chuyển bất động sản. Người kia — do ngân hàng bổ nhiệm, đôi khi cùng một công ty — soạn và đóng dấu khoản vay và thế chấp cho phép ngân hàng thu giữ bất động sản nếu khoản vay không được hoàn trả. Người mua nghĩ về "luật sư" như một nhân vật duy nhất trong câu chuyện này thường là những người về sau bối rối vì sao có hai bộ phí pháp lý xuất hiện, hoặc vì sao chìa khóa không đến vào ngày khoản vay được duyệt.

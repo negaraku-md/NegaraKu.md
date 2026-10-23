@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "id"
 masterLanguage: "ta"
 translationStatus: "in-sync"
-sourceContentHash: "bbfe1f6d7e0ff11f"
+sourceContentHash: "6fa948730726def7"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["tamil-in-malaysia", "deepavali", "thaipusam", "article-3-religion", "religion-statistics", "buddhism-in-malaysia", "chinese-religion-in-malaysia", "christianity-in-malaysia"]
 keywords: ["Agama Hindu Malaysia", "Hinduism in Malaysia", "umat Hindu Malaysia", "Hindu Tamil Malaysia", "Malaysia Hindu Sangam", "kuil Malaysia"]
+faq:
+  - q: Apakah semua umat Hindu Malaysia berketurunan Tamil?
+    a: Meskipun mayoritas berketurunan Tamil dari India Selatan, itu bukanlah seluruh kebenarannya. Orang berketurunan Malayali, Telugu, dan India Utara, serta mereka dari komunitas lain, juga menganut agama Hindu; mereka yang mewarisi tradisi Malayali turut merayakan festival seperti Onam dan Vishu. Selain itu, agama dan etnis bukanlah hal yang sama — sensus mengukur keduanya secara terpisah.
+  - q: Apakah Thaipusam merupakan hari libur umum secara nasional?
+    a: Tidak. Thaipusam bukan hari libur di tingkat nasional; ia hanya menjadi hari libur umum di negara bagian yang mengundangkannya dalam warta resmi — Kuala Lumpur, Putrajaya, Selangor, Penang, Perak, Negeri Sembilan, dan Johor. Pada beberapa tahun, Kedah memberikannya sebagai pengumuman khusus tanpa pewartaan tetap. Sebaliknya, Deepavali adalah hari libur umum di setiap negara bagian dan wilayah persekutuan, kecuali Sarawak.
+  - q: Mengapa lebih banyak umat Hindu tinggal di negara bagian seperti Negeri Sembilan, Selangor, dan Perak?
+    a: Negara-negara bagian ini bertepatan dengan bekas kawasan perkebunan karet dan pertambangan bijih timah — di sanalah banyak buruh India menetap pada masa Inggris. Dalam sensus 2020, Negeri Sembilan (~13,1%), Selangor (~10,3%), dan Perak (~9,7%) mencatat proporsi yang lebih tinggi. Sebagian besar dari mereka adalah keturunan orang-orang yang datang dari India Selatan untuk bekerja di perkebunan di bawah sistem kangani.
 ---
 
 Di kota mana pun di Malaysia, di tepi perkebunan karet tua atau di jalan bersejarah

@@ -17,7 +17,7 @@ keyTakeaways:
   - "Parameswara, pendiri Kesultanan Melaka sekitar tahun 1400, digambarkan dalam tradisi Melayu dan oleh pemerintah negeri Melaka sendiri sebagai seorang putra dari Palembang — bekas pusat pemerintahan Sriwijaya"
 appliesTo: "Pembaca yang ingin memahami apa yang menguasai Selat Melaka sebelum Melaka melakukannya, dan bagaimana sebuah kekuatan lautan yang berpusat di Sumatera akhirnya menyumbang secara langsung kepada sejarah diraja Semenanjung Tanah Melayu sendiri."
 lang: "id"
-sourceContentHash: "9c0d3b0b3dd803ef"
+sourceContentHash: "69e06d6034cc1b41"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -54,6 +54,13 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["melaka-sultanate", "langkasuka"]
 keywords: ["Srivijaya", "Bujang Valley", "Lembah Bujang", "Kedah Tua", "thalassocracy", "Old Malay", "Parameswara Palembang", "Strait of Melaka history"]
+faq:
+  - q: Apakah Sriwijaya merupakan kerajaan Malaysia?
+    a: Bukan — menganggapnya demikian adalah kesalahan yang umum. Ibu kota dan wilayah inti Sriwijaya berada di Sumatra, di wilayah yang sekarang menjadi Indonesia, berpusat di Palembang di tepi Sungai Musi. Pengaruhnya menjangkau wilayah yang sekarang menjadi Malaysia — paling nyata di Lembah Bujang, Kedah — tetapi pusat pemerintahannya tidak pernah berada di Semenanjung Malaya. Sriwijaya adalah sebuah talasokrasi, yang menguasai jalur laut dan pelabuhan muara sungai alih-alih hamparan daratan yang luas.
+  - q: Bagaimana Sriwijaya terhubung dengan berdirinya Kesultanan Melaka?
+    a: 'Parameswara, yang mendirikan Kesultanan Melaka sekitar tahun 1400, dicatat dalam tradisi Melayu dan oleh pemerintah negara bagian Melaka sendiri sebagai seorang pangeran kerajaan dari Palembang — bekas ibu kota Sriwijaya. Pada saat itu kekuasaan politik Sriwijaya sudah lenyap, tetapi Melaka mewarisi model talasokrasi yang sama: menguasai selat, menjamin pelayaran yang aman, dan membiarkan para pedagang datang sendiri, hanya dijalankan dari lokasi yang baru.'
+  - q: Apa prasasti tertua yang diketahui dalam bahasa Melayu Kuno, dan bagaimana kaitannya dengan Sriwijaya?
+    a: Itu adalah prasasti Kedukan Bukit, yang bertarikh 682 M, yang mencatat sebuah ekspedisi militer dan ritual Sriwijaya. Di luar sejarah Sumatra, prasasti ini penting sebagai prasasti tertua yang diketahui ditulis dalam bahasa Melayu Kuno — leluhur langsung baik bahasa Melayu modern maupun bahasa Indonesia modern. Seiring meluasnya jaringan perdagangan Sriwijaya, bahasa Melayu Kuno menyebar ke seluruh nusantara sebagai lingua franca yang berfungsi, berabad-abad sebelum kesultanan mana pun ada.
 ---
 
 Ketika Parameswara melarikan diri dari Temasek pada tahun 1396 dan tersandung ke tepi sungai yang kelak menjadi Melaka, ia bukanlah sosok yang muncul entah dari mana. Pemerintah negeri Melaka sendiri masih mencatatnya, secara jelas, sebagai "seorang putra diraja dari Palembang." Palembang, di Sungai Musi, di selatan Sumatera, pernah menjadi ibu kota sebuah kekuatan lautan yang menguasai Selat Melaka selama sekitar enam ratus tahun sebelum Parameswara dilahirkan — sebuah kerajaan bernama Sriwijaya. Menjelang Parameswara tiba di semenanjung, kekuasaan politik kerajaan itu sudah lenyap. Tetapi Kesultanan Melaka yang didirikannya mewarisi darah keturunannya, bahkan bisa dikatakan seluruh model tentang bagaimana sebuah pelabuhan dagang Melayu seharusnya berfungsi, langsung dari reruntuhan Sriwijaya.

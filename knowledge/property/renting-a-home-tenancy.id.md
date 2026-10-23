@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menyewa atau menyewakan properti hunian di Malaysia — penyewa yang menandatangani perjanjian penyewaan pertama mereka, dan pemilik yang menyusun satu, di Semenanjung Malaysia, Sabah atau Sarawak."
 
 lang: "id"
-sourceContentHash: "82f3b97b7c53aec7"
+sourceContentHash: "d779e96ef436f16d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
+faq:
+  - q: Apakah ada Undang-Undang Sewa (Tenancy Act) yang melindungi penyewa di Malaysia?
+    a: Tidak. Malaysia tidak memiliki Undang-Undang Sewa Hunian khusus — Rancangan Undang-Undang Sewa Hunian (Residential Tenancy Bill) telah dibahas selama bertahun-tahun tetapi belum diajukan menjadi undang-undang. Sewa hunian adalah kontrak biasa berdasarkan Undang-Undang Kontrak 1950 (Contracts Act 1950), yang dilengkapi oleh Undang-Undang Pemulihan Spesifik 1950 (Specific Relief Act 1950), Undang-Undang Penyitaan 1951 (Distress Act 1951), dan Undang-Undang Hukum Perdata 1956 (Civil Law Act 1956). Karena begitu sedikit yang ditetapkan oleh undang-undang tertulis, perjanjian sewa yang ditandatangani itu sendiri menanggung hampir seluruh bebannya.
+  - q: Jika perjanjian sewa saya tidak pernah dimeteraikan, apakah perjanjian itu tidak sah?
+    a: 'Tidak — melewatkan pemeteraian tidak membuat sewa menjadi tidak sah di antara kedua belah pihak. Hal itu menimbulkan sesuatu yang lebih spesifik: perjanjian yang tidak dimeteraikan atau dimeteraikan secara tidak cukup umumnya tidak dapat diterima sebagai alat bukti di pengadilan sampai bea yang terutang dan denda keterlambatan dibayar. Perjanjian harus diajukan untuk pemeteraian dalam waktu 30 hari sejak penandatanganan berdasarkan Undang-Undang Bea Meterai 1949 (Stamp Act 1949), dan menemukan celah ini di tengah sengketa adalah saat yang paling buruk.'
+  - q: Bisakah pemilik rumah mengganti kunci atau memutus utilitas jika penyewa menolak pergi?
+    a: Tidak. Pasal 7(2) Undang-Undang Pemulihan Spesifik 1950 (Specific Relief Act 1950) melarang pemilik rumah melakukan pengusiran sendiri — tidak boleh mengganti kunci, memutus listrik atau air, atau memindahkan barang selama penyewa masih menempati. Mengambil kembali kepemilikan memerlukan perintah pengadilan. Untuk tunggakan sewa, pemilik rumah mengajukan permohonan ke pengadilan untuk surat perintah penyitaan berdasarkan Undang-Undang Penyitaan 1951 (Distress Act 1951) guna menyita barang bergerak penyewa, alih-alih berhadapan langsung dengan penyewa.
 ---
 
 Tanyakan kepada seorang pemilik dan seorang penyewa di Malaysia undang-undang mana yang melindungi mereka, dan kebanyakan akan menebak salah. Tidak ada "Undang-Undang Sewa Hunian" untuk dirujuk — tidak ada satu statuta tunggal yang menetapkan masa pemberitahuan, membatasi deposit, atau menyatakan dengan jelas apa yang boleh dan tidak boleh dilakukan pemilik saat pindah keluar.

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang berusaha mengetahui tingkat pemerintahan mana yang perlu dihubungi untuk suatu masalah di Malaysia, atau yang ingin memahami mengapa mereka dapat memilih seorang Anggota Parlemen dan seorang anggota dewan undangan negeri tetapi tidak dapat memilih seorang anggota majelis lokal."
 
 lang: "id"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: Mengapa warga Malaysia tidak bisa memilih anggota dewan lokal mereka?
+    a: Pemilihan pemerintah daerah dihentikan secara nasional melalui Peraturan Darurat (Penangguhan Pemilihan Pemerintah Daerah) (Amandemen) 1965, yang dikeluarkan pada masa Konfrontasi dengan Indonesia dan dianggap sebagai langkah sementara. Pemilihan itu tidak pernah dipulihkan. Kemudian Pasal 15 Undang-Undang Pemerintah Daerah 1976 menjadikan penangguhan itu permanen, sementara Pasal 10 memberi pemerintah negara bagian kewenangan untuk mengangkat anggota dewan sebagai gantinya. Jadi sejak itu anggota dewan diangkat, bukan dipilih.
+  - q: Apakah Kuala Lumpur memiliki pemerintah negara bagiannya sendiri?
+    a: Tidak. Kuala Lumpur, Putrajaya, dan Labuan adalah Wilayah Federal, yang ditempatkan di bawah administrasi federal langsung oleh Daftar Federal (butir 27) alih-alih diperintah oleh suatu negara bagian. Wilayah-wilayah ini tidak memiliki Penguasa (Ruler), Menteri Besar, maupun Dewan Legislatif Negara Bagian; Kuala Lumpur dan Putrajaya dikelola melalui Kementerian Wilayah Federal. Hanya 13 negara bagian yang memiliki Konstitusi Negara Bagian dan pemerintahan mereka sendiri.
+  - q: Jika pemerintah daerah merupakan urusan Daftar Negara Bagian, mengapa Parlemen membuat undang-undang tentangnya?
+    a: Pemerintah daerah adalah butir 4 Daftar Negara Bagian dalam Jadwal Kesembilan (Ninth Schedule), yang memberi negara bagian label legislatif tersebut. Namun Parlemen menjalankan kewenangan itu secara seragam untuk Semenanjung Malaysia melalui Undang-Undang Pemerintah Daerah 1976 (Undang-Undang 171), sebuah undang-undang federal yang diadopsi oleh negara-negara bagian di bawah mekanisme keseragaman dalam Konstitusi. Pasal 95A juga membentuk Dewan Nasional untuk Pemerintah Daerah (National Council for Local Government) yang keputusannya dapat mengikat negara bagian. Sabah dan Sarawak justru menggunakan ordonansi (ordinance) terpisah mereka sendiri.
 ---
 
 Rakyat Malaysia memilih seorang Anggota Parlemen. Mereka memilih seorang anggota dewan undangan negeri. Mereka tidak pernah memilih wali kota atau anggota majelis yang menetapkan pajak taksiran mereka, memberi izin gerai pedagang mereka, atau menyetujui tambahan rumah mereka — karena pemilihan itu tidak pernah diadakan di mana pun di Malaysia sejak 1965.

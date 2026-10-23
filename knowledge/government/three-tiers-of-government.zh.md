@@ -23,7 +23,7 @@ appliesTo: "任何想弄清楚在马来西亚遇到特定问题时应该找哪�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -74,6 +74,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: 为什么马来西亚人不能投票选出自己的地方议员？
+    a: 地方政府选举在印尼对抗时期（Confrontation）被颁布、并被定性为临时措施的《1965年紧急（暂停地方政府选举）（修正）条例》在全国范围内暂停，此后再也没有恢复。1976年地方政府法令第15条后来使这项暂停成为永久性安排，而第10条则赋予州政府委任议员以取代选举的权力。因此，自那以后地方议员都是被委任的，而非选出的。
+  - q: 吉隆坡有自己的州政府吗？
+    a: 没有。吉隆坡、布城和纳闽都是联邦直辖区，由联邦清单（第27项）置于联邦直接管辖之下，而非由某个州管辖。它们没有统治者、州务大臣或州立法议会；吉隆坡和布城通过联邦直辖区部进行管理。只有13个州才拥有各自的州宪法和州政府。
+  - q: 既然地方政府属于州清单事项，为什么由国会立法？
+    a: 地方政府是第九附表州清单第4项，这赋予州在立法上的归属。但国会通过1976年地方政府法令（171号法令）这部联邦法令，为马来西亚半岛统一行使该项权力，各州则依据宪法的统一机制采纳了这部法令。第95A条还设立了全国地方政府理事会，其决定可对各州具约束力。沙巴和砂拉越则改用各自独立的法规（ordinance）。
 ---
 
 马来西亚人投票选出国会议员。他们投票选出州议员。但他们从未投票选出为自己设定评估税、为自己的小贩摊位发牌，或批准自家房屋加建工程的市长或议员——因为这项选举自1965年以来，在马来西亚任何地方都未曾举行过。

@@ -22,7 +22,7 @@ appliesTo: "任何受汇率影响的人——进口商、出口商、旅客、�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5c03f2bbac4e0dca"
+sourceContentHash: "a0d224345b9024d5"
 
 status: "published"
 aiAssisted: true
@@ -55,6 +55,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
+faq:
+  - q: 如果美元/令吉（USD/MYR）的数字上升，是令吉走强还是走弱了？
+    a: 走弱。USD/MYR 为 4.0944 意味着一美元可兑换 4.0944 令吉，因此当这个数字上升时，每一美元可换得更多令吉，令吉就走弱了。文章称这种颠倒理解是最常见的误读。此外，不指明另一种货币，"令吉下跌"这句话也毫无意义，因为它可以在对美元走弱的同时对日元或欧元走强。
+  - q: 令吉是否仍以 3.80 的汇率与美元挂钩？
+    a: 没有。马来西亚在1998年9月亚洲金融危机期间将令吉与美元挂钩在 3.80，并同时实施资本管制，该挂钩维持了近七年。它于2005年被取消，令吉回归有管理的浮动——由市场决定，马来西亚国家银行（BNM）只在出现无序波动时介入以平滑市场，而非捍卫某一特定水平。如今不存在官方"正确"的汇率水平。
+  - q: 为什么我的银行或货币兑换商给我的汇率比 BNM 公布的汇率差？
+    a: 因为 BNM 的吉隆坡 USD/MYR 参考汇率是根据银行同业市场计算出的市场基准，用于合约和估值——而非零售价格。银行和货币兑换商会在其之上加上各自的价差，所以你交易时所得的汇率总会比参考汇率差。截至2026年7月24日，参考汇率为 4.0944，但那是基准，并非客户在柜台实际支付的价格。
 ---
 
 ## 一览

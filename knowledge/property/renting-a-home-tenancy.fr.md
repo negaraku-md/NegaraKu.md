@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue ou donne à bail un bien à usage d'habitation en Malaisie : locataires signant leur premier contrat de bail, et bailleurs qui le rédigent, en Malaisie péninsulaire, au Sabah ou au Sarawak."
 
 lang: "fr"
-sourceContentHash: "82f3b97b7c53aec7"
+sourceContentHash: "d779e96ef436f16d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -73,6 +73,13 @@ relations:
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
 related: ["finding-a-rental", "electricity-tnb-account"]
 keywords: ["contrat de bail Malaisie", "dépôt de location Malaisie", "dépôt de réservation", "dépôt de garantie", "dépôt pour services", "droit de timbre contrat de bail", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "pas de loi sur les baux Malaisie", "e-Duti Setem"]
+faq:
+  - q: Existe-t-il une loi sur les baux (Tenancy Act) qui protège les locataires en Malaisie ?
+    a: Non. La Malaisie n'a pas de loi spécifique sur les baux d'habitation — un projet de loi sur les baux d'habitation (Residential Tenancy Bill) est débattu depuis des années mais n'a pas été présenté comme loi. Une location résidentielle est un contrat ordinaire relevant de la Loi sur les contrats de 1950 (Contracts Act 1950), complétée par la Loi sur les mesures de réparation spécifique de 1950 (Specific Relief Act 1950), la Loi sur la saisie de 1951 (Distress Act 1951) et la Loi sur le droit civil de 1956 (Civil Law Act 1956). Comme la loi fixe si peu de choses, le contrat de bail signé lui-même porte presque tout le poids.
+  - q: Si mon contrat de bail n'a jamais été timbré, est-il nul ?
+    a: 'Non — omettre le timbre ne rend pas le bail nul entre les deux parties. Cela produit un effet plus précis : un contrat non timbré ou insuffisamment timbré ne peut généralement pas être admis comme preuve devant les tribunaux tant que le droit dû et toute pénalité de retard ne sont pas payés. Le contrat doit être présenté au timbrage dans les 30 jours suivant la signature, en vertu de la Loi sur le droit de timbre de 1949 (Stamp Act 1949), et découvrir cette lacune au milieu d''un litige est le pire moment possible.'
+  - q: Un propriétaire peut-il changer les serrures ou couper les services publics si le locataire refuse de partir ?
+    a: Non. L'article 7(2) de la Loi sur les mesures de réparation spécifique de 1950 (Specific Relief Act 1950) interdit au propriétaire l'expulsion par ses propres moyens — pas de changement de serrures, ni de coupure de l'électricité ou de l'eau, ni d'enlèvement des biens tant que le locataire occupe encore les lieux. Récupérer la possession exige une décision de justice. Pour les loyers impayés, le propriétaire demande au tribunal un mandat de saisie en vertu de la Loi sur la saisie de 1951 (Distress Act 1951) afin de saisir les biens mobiliers du locataire, plutôt que d'affronter directement le locataire.
 ---
 
 Demandez à un bailleur et à un locataire en Malaisie quelle loi les protège, et la plupart se tromperont. Il n'existe pas de « loi sur le bail d'habitation » à laquelle se référer, ni de texte unique fixant les délais de préavis, plafonnant les dépôts ou détaillant ce qu'un bailleur peut et ne peut pas faire au moment du départ.

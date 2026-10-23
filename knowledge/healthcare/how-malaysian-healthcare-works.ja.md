@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "6d48887f5e7bc5dd"
+sourceContentHash: "7dd45f5bebbd1f93"
 
 status: "published"
 aiAssisted: true
@@ -71,6 +71,13 @@ relations:
   - { rel: "related-to", to: "socso-perkeso" }
 related: ["klinik-kesihatan", "private-hospitals-and-costs", "medical-insurance", "socso-perkeso"]
 keywords: ["Malaysia healthcare system", "public vs private healthcare Malaysia", "Ministry of Health Malaysia KKM", "klinik kesihatan vs private clinic", "PeKa B40", "MySalam", "SPIKPA foreign worker insurance", "foreigner hospital fees Malaysia", "Fees Act 1951"]
+faq:
+  - q: マレーシアで「公立病院」は無料の医療を意味しますか？
+    a: いいえ——それは国民と永住者に対して大幅に補助されていることを意味し、彼らは実費ではなく名目上の登録料と治療費のみを支払います。非国民は同じ施設で、1951年料金法（Fees Act 1951）の料金（医療）令（Fees (Medical) Order）に基づいて定められた、別個のより高い料金表で請求されます。政府病院に入る観光客や長期パス保持者も依然として公的システムの中にいますが、ただその補助のない側にいるのです。
+  - q: どのマレーシア国民でも PeKa B40 や MySalam を利用できますか？
+    a: いいえ。どちらも一般的な国籍ではなく、B40 現金援助（Sumbangan Tunai Rahmah、STR）受給者の資格に結びついています。資格のある STR 受給者には自動的に適用され——別途の申請は不要です——が、B40 所得層にしか及びません。PeKa B40 は検診に加えて最大 RM20,000 の医療機器援助をカバーし、MySalam は列挙された重病と診断された際に最大 RM8,000 を支払います。STR を受給していない国民は自動的には保障されません。
+  - q: マレーシアの外国人労働者は自分の健康保険が必要ですか？
+    a: はい。正規の外国人労働者は、就労許可を更新するために SPIKPA（Skim Perlindungan Insurans Kesihatan Pekerja Asing、外国人労働者健康保険保障制度）という強制的な入院・手術保険制度に加入していなければなりません——これは入国管理局（Jabatan Imigresen）自身のサイトで確認されている要件です。これは雇用主が手配し支払うもので、政府病院での入院と手術をカバーします。駐在員や観光客はこれによって保障されず、一般に公開市場で購入した民間保険に頼っています。
 ---
 
 胸の痛みを訴えるマレーシア人の年金生活者が救急車を呼び、最寄りの政府病院に搬送される。そこで循環器専門医の診察を受けるが、その費用は実際のコストのごく一部にすぎない。彼の隣人、同じ症状を抱えるインドネシア出身の就労許可保持者も、同じ病院の救急部門に搬送される——だが、そのあとに届く請求書はまったく別の料金表にもとづいて計算される。なぜなら、保健省の目から見れば、この二人は同じ種類の患者ではないからである。

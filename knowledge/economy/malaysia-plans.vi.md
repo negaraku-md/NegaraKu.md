@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Học sinh sinh viên, nhà phân tích chính sách, nhà báo và bất kỳ ai muốn hiểu cách phát triển của quốc gia được hoạch định vượt ra ngoài một năm tài chính."
 
 lang: "vi"
-sourceContentHash: "e044f4eddcd76b63"
+sourceContentHash: "6d304c9b2af203ce"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -78,6 +78,13 @@ relations:
   - { rel: "explained-in", to: "parliament" }
 related: ["federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
+faq:
+  - q: Kế hoạch Malaysia khác với Ngân sách hằng năm như thế nào?
+    a: Kế hoạch Malaysia định ra phương hướng, còn Ngân sách thực thi điều đó. Kế hoạch Malaysia (RMK) là kế hoạch trung hạn năm năm, xác định các trụ cột, ưu tiên và mục tiêu kết quả — chứ không phải một bộ được chi bao nhiêu ringgit trong một năm cụ thể. Những con số hằng năm đó chỉ xuất hiện khi Bộ trưởng Tài chính trình Ngân sách Liên bang vào tháng 10/tháng 11 hằng năm, thông qua Dự toán Chi phát triển vốn cụ thể hóa phần phân bổ của RMK cho năm đó.
+  - q: Kế hoạch Malaysia có được thông qua thành luật như Ngân sách không?
+    a: Không. Kế hoạch Malaysia được trình và thông qua dưới dạng một kiến nghị chính sách để Quốc hội tranh luận, chứ không phải dưới dạng một dự luật. Ngược lại, Ngân sách phải thông qua Dự luật Cung ứng (Supply Bill), trải qua toàn bộ quy trình lập pháp trước khi được ban hành thành Đạo luật Cung ứng (Supply Act). Chẳng hạn, Kế hoạch Malaysia lần thứ 13 (RMK13) đã được trình dưới dạng kiến nghị tại Hạ viện (Dewan Rakyat) vào ngày 31 tháng 7 năm 2025 và tại Thượng viện (Dewan Negara) vào ngày 25 tháng 8 năm 2025.
+  - q: Toàn bộ 611 tỷ RM của RMK13 có đến từ ngân sách Chính phủ không?
+    a: Không. Trong ít nhất 611 tỷ RM vốn đầu tư của RMK13, chỉ 430 tỷ RM là phân bổ phát triển của Chính phủ. Phần còn lại đến từ 120 tỷ RM đầu tư trực tiếp trong nước của các Công ty Liên kết Chính phủ (GLC) và Công ty Đầu tư Liên kết Chính phủ (GLIC), cùng 61 tỷ RM thông qua hình thức đối tác công-tư (PPP).
 ---
 
 Ngày 31 tháng 7 năm 2025, Thủ tướng trình lên Hạ viện một kiến nghị phát triển đòi hỏi mức đầu tư ít nhất RM611 tỷ. Không phải Ngân sách — Ngân sách cho năm đó đã được trình từ nhiều tháng trước đó. Đây là một kiến nghị hoàn toàn khác: Kế hoạch Malaysia lần thứ Mười ba, kế hoạch đặt ra định hướng phát triển của quốc gia không phải cho một năm, mà cho năm năm sắp tới, 2026 đến 2030.

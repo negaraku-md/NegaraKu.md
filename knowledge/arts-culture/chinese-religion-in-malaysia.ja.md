@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "zh"
 translationStatus: "in-sync"
-sourceContentHash: "064f8073d8ee230f"
+sourceContentHash: "ffa309d9ae04f20d"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
@@ -60,6 +60,13 @@ relations:
   - { rel: "related-to", to: "article-3-religion" }
 related: ["buddhism-in-malaysia", "chinese-new-year", "christianity-in-malaysia", "hinduism-in-malaysia", "religion-statistics", "article-3-religion"]
 keywords: ["マレーシア 華人宗教", "マレーシア 道教", "Chinese religion Malaysia", "大伯公", "媽祖 マレーシア", "九皇爺誕", "民間信仰"]
+faq:
+  - q: 道教や民間信仰の神々を祀る華人が、国勢調査では仏教徒に数えられることが多いのはなぜですか。
+    a: マレーシアの国勢調査には「儒教・道教およびその他の中国伝統宗教」という区分がありますが、そこに登録される人数はごくわずかです(多くは約0.9%の「その他の宗教」に含まれます)。日常的に神や祖先を祀る多くの華人は、調査では自らを仏教徒として登録するため、民間信仰や道教の実践者の大半は「仏教18.7%」という数字の中に隠れてしまい、その実際の規模を反映する独立した公式の人数が存在しません。
+  - q: マレーシアでは道教と仏教は互いに対立しているのですか。
+    a: マレーシア華人の日常の実践では、そうではありません。多くの家庭にとって、仏教、道教、儒教の思想、祖先崇拝は互いに排他的な選択肢ではなく、並行して行われる一つの実践の体系です。同じ人が旧暦の一日と十五日に線香をあげ、清明節に墓参りをし、さらに花祭り(ウェサック)の日には寺院へ参り仏を礼拝することもあります。この融合こそが華人の民間信仰の核心的な特徴であり、そのため仏教と民間信仰はしばしばはっきりと分けることが難しいのです。
+  - q: 大伯公とは誰で、最も古い大伯公廟はどこにありますか。
+    a: 大伯公(トゥア・ペッ・コン、Tua Pek Kong)は強い土着色をもつ神で、マレーシア各地の華人寺廟で広く祀られています。最も古い大伯公廟はペナンのタンジョン・トコン(Tanjung Tokong)にあるとされ、その信仰はのちにマレーシア、シンガポール、インドネシア各地へ広まりました。マレー語ではこうした寺廟を tokong と呼びます。その他の著名な廟には、マラッカの青雲亭(Cheng Hoon Teng)やクアラルンプールの天后宮(Thean Hou)があります。
 ---
 
 マレーシアのどの華人寺廟に足を踏み入れても、同じ一つの空間のなかで仏・道・民間の

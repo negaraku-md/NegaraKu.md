@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "027e674e99f0cfb0"
+sourceContentHash: "0160a6b90a992b3e"
 
 status: "published"
 aiAssisted: true
@@ -69,6 +69,13 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["lhdn", "individual-tax-residence", "which-tax-form", "personal-tax-rates", "personal-tax-reliefs"]
 keywords: ["Malaysia personal income tax", "LHDN e-Filing", "MyTax registration", "who must file tax Malaysia", "tax residency Malaysia individual", "e-Daftar TIN", "Form BE deadline", "182 day rule Malaysia tax"]
+faq:
+  - q: 我持有工作准证(Employment Pass)——这难道不决定我的马来西亚税务身份吗?
+    a: 不。《1967年所得税法令》(Income Tax Act 1967)第7条依据实际停留的天数来判定居民身份,而非依据公民身份、MyKad身份或准证类型。最常被引用的标准是在基准年内停留182天或以上,但另有三项标准可以让你在天数较少的情况下成为居民。持工作准证且从不离境的外国人可以从第一天起就是居民;一年中大部分时间身在国外的马来西亚公民则可能属于非居民。
+  - q: 我的雇主每个月已经从我的薪金中扣除PCB了——我还需要报税吗?
+    a: 需要,一旦你的收入超过登记门槛。每月预扣(PCB/MTD)只是预先扣除的一个估算额。年度报税表才是清算——在这里申报各项扣税减免、申报其他收入,并结清实际的税务状况,无论结果是退税还是补税。持有税务档案并提交报税表是一项独立的义务,与你的雇主是否已每月预扣税款无关。
+  - q: 我已经有税务识别号码(Tax Identification Number)了——能直接登入MyTax报税吗?
+    a: 还不行。首次报税者需要依序取得两项凭证。通过e-Daftar取得的税务识别号码(TIN)(许多公民和永久居民已自动拥有一个),本身并不能开通e-Filing。内陆税收局(LHDN)要求另外取得一个PIN码,以启动与该TIN绑定的e-Filing账户——以往须通过分行办理,近来可通过门户网站申请。只有在完成这两个步骤之后,你才能打开并提交正确的报税表。
 ---
 
 一名新雇员持两年期 Employment Pass（就业准证）搬到吉隆坡，以为准证本身就

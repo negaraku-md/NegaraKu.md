@@ -20,7 +20,7 @@ appliesTo: "Sesiapa yang cuba memahami mengapa populasi, bandar dan risiko banji
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1aadf1352cd31f55"
+sourceContentHash: "53f49043897c123b"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "sabah" }
 related: ["what-malaysia-is", "urbanisation", "sabah"]
 keywords: ["Malaysia geography", "Titiwangsa Range", "Peninsular Malaysia geography", "East Malaysia Borneo", "Mount Kinabalu height", "Gunung Tahan", "Malaysia monsoon season", "northeast monsoon", "southwest monsoon", "Malaysia coastal plains", "Malaysia land area"]
+faq:
+  - q: Mengapa 'musim tengkujuh' bermaksud bulan yang berbeza di pantai Malaysia yang berlainan?
+    a: Kerana dua monsun bersilih ganti melanda sisi negara yang bertentangan. Monsun Timur Laut (lebih kurang November hingga Mac) membawa hujan lebat dan banjir ke pantai timur Semenanjung, barat Sarawak dan timur Sabah. Monsun Barat Daya (lebih kurang Mei hingga September) secara relatifnya lebih kering dan menjejaskan sisi yang bertentangan. Jadi musim hujan di pantai timur dan di pantai barat bukanlah pada bulan yang sama, dengan tempoh peralihan monsun yang singkat di antaranya.
+  - q: Apakah perbezaan antara Gunung Tahan dan Gunung Kinabalu?
+    a: Keduanya ialah dua puncak rekod yang berbeza di atas dua jisim daratan yang berbeza, dipisahkan oleh Laut China Selatan. Gunung Tahan, setinggi 2,187 meter di sempadan Pahang–Kelantan dalam Taman Negara, ialah titik tertinggi di Semenanjung Malaysia. Gunung Kinabalu di Sabah menjulang setinggi 4,095 meter — puncak tertinggi di seluruh Malaysia, dan yang tertinggi di mana-mana antara Himalaya dan New Guinea. Mengelirukan keduanya ialah kesilapan biasa.
+  - q: Mengapa kebanyakan rakyat Malaysia tinggal berhampiran pantai berbanding pedalaman?
+    a: Setiap jisim daratan didominasi oleh tulang belakang gunung di tengah — Banjaran Titiwangsa di Semenanjung, Banjaran Crocker di Sabah — yang diapit hanya oleh dataran pantai yang sempit. Tanah tinggi itu menolak penempatan keluar ke dataran pantai dan lembah sungai, meninggalkan pedalaman bergunung yang kurang penduduk. Dataran pantai barat Semenanjung yang terlindung, ditenangkan oleh Selat Melaka, menampung kebanyakan penduduknya dan bandar-bandar terbesar seperti Kuala Lumpur dan George Town.
 ---
 
 Terbang ke Kuala Lumpur dari Kota Kinabalu dan anda melintasi lebih daripada sekadar sempadan dalaman — anda melintasi beberapa ratus kilometer laut terbuka. Malaysia adalah satu negara yang disatukan merentasi dua daratan yang berasingan, dan hakikat bentuk muka bumi yang mudah ini telah senyap-senyap menentukan hampir segala-galanya yang lain: di mana bandar-bandar berada, di mana sawah padi berada, dan pantai mana yang dilanda banjir setiap bulan Disember.

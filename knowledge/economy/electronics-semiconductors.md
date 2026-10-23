@@ -57,6 +57,13 @@ relations:
   - { rel: "affects", to: "external-trade" }
 related: ["external-trade", "gdp-overview", "palm-oil-sector"]
 keywords: ["Malaysia semiconductor", "Malaysia E&E exports", "elektrik dan elektronik Malaysia", "Penang semiconductor", "Malaysia chip industry"]
+faq:
+  - q: Does Malaysia make advanced chips like Taiwan, or something different?
+    a: Something different. Making a semiconductor has two halves, and Malaysia's strength is the back end — assembly, testing and packaging (ATP), the stage where a finished wafer becomes a usable chip. It has very few leading-edge fabrication (front-end) plants. Commentary that treats Malaysia as a rival to Taiwan's fabs is comparing different links in the same chain; Malaysia has done the back-end work since the 1970s.
+  - q: Why is E&E being half of exports called a vulnerability, not just a strength?
+    a: 'Because one product category carrying roughly half the export base concentrates risk three ways. Cyclicality: semiconductors are boom-and-bust, so a sector that grew 39.5% in a year can contract sharply. Position in the chain: back-end assembly and test is more contestable than fabrication, so competitors can build the same capacity. Geopolitics: export controls and reshoring policies written in other economies land directly on Malaysian plants.'
+  - q: Why is Penang, specifically, the centre of Malaysia's chip industry?
+    a: It traces to a 1972 policy decision. Penang established a free trade zone and courted foreign electronics firms with tax incentives, duty-free component imports and an available workforce. American and Japanese semiconductor companies set up assembly operations, and a cluster formed. Clusters deepen over time — suppliers, equipment servicing, locally trained engineers — which is why Penang and Kulim still concentrate so much of the sector half a century later.
 ---
 
 ## At a glance

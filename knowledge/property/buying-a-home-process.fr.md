@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Citoyens malaisiens, résidents permanents, primo-accédants et acheteurs étrangers (soumis à des restrictions et à des taux de droit supplémentaires)"
 
 lang: "fr"
-sourceContentHash: "819188850c359d23"
+sourceContentHash: "9e29133ebe5daedf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -65,6 +65,13 @@ relations:
   - { rel: "related-to", to: "freehold-leasehold-strata-landed" }
 related: ["freehold-leasehold-strata-landed", "national-land-code"]
 keywords: ["how to buy a house in Malaysia", "Sale and Purchase Agreement Malaysia", "stamp duty Malaysia property", "Memorandum of Transfer Malaysia", "Form 14A", "housing loan Malaysia process", "Schedule G Schedule H Malaysia", "lawyer conveyancing Malaysia", "Stamp Act 1949 property transfer"]
+faq:
+  - q: En Malaisie, qui paie légalement le droit de timbre lors du transfert d'un bien immobilier — l'acheteur ou le vendeur ?
+    a: 'L''acheteur. En vertu de la Troisième Annexe de la Loi sur le droit de timbre de 1949 (Stamp Act 1949), la partie légalement redevable du droit de timbre de transfert est l''acheteur, et non le vendeur. Il est perçu sur le Mémorandum de transfert (Memorandum of Transfer) au taux progressif de l''Article 32(a) — 1% sur les premiers RM100 000 et jusqu''à 4% au-delà de RM1 000 000 — calculé sur le plus élevé des deux montants : le prix déclaré ou l''évaluation de marché de la LHDN (administration fiscale).'
+  - q: Un logement de revente (sub-sale) offre-t-il les mêmes protections que l'achat d'un projet neuf ?
+    a: Non. L'achat d'un projet neuf auprès d'un promoteur agréé suit un Contrat de vente légal selon l'Annexe G ou H prévu par la Loi sur le développement du logement (contrôle et licences) de 1966 (Housing Development (Control and Licensing) Act 1966), avec des pourcentages de versements échelonnés fixes, un délai obligatoire de remise de la possession vacante (24 mois pour les biens avec terrain) et des dommages-intérêts forfaitaires automatiques en cas de livraison tardive. Un SPA de revente est un contrat privé dépourvu de tout cela — ses délais et ses clauses de confiscation sont négociés en privé, lisez-le donc avec tout autant d'attention.
+  - q: Pourquoi les acheteurs finissent-ils souvent par payer deux séries de frais juridiques pour un seul achat ?
+    a: Parce que deux documents distincts avancent en parallèle, traités pour le compte de clients différents. Un avocat rédige et timbre le Contrat de vente qui transfère le bien ; un autre — désigné par la banque, parfois le même cabinet coiffant une seconde casquette — prépare le Contrat de prêt et l'Hypothèque (Formulaire 16A) qui garantit l'intérêt de la banque. L'avocat de la banque protège l'hypothèque de la banque, et non l'acompte de l'acheteur, de sorte que leurs rôles et leurs honoraires sont distincts.
 ---
 
 Deux avocats interviennent généralement dans l'achat d'un logement en Malaisie, et la plupart des acheteurs ne remarquent jamais qu'il s'agit de deux personnes différentes. L'un rédige et fait timbrer le Contrat de vente qui transfère le bien. L'autre — désigné par la banque, parfois la même firme — rédige et fait timbrer le prêt et la charge qui permettent à la banque de s'approprier le bien si le prêt n'est pas remboursé. Les acheteurs qui pensent à « l'avocat » comme à un personnage unique de cette histoire sont souvent ceux qui s'étonnent ensuite de voir apparaître deux jeux d'honoraires juridiques, ou de constater que les clés ne sont pas arrivées le jour où le prêt a été approuvé.

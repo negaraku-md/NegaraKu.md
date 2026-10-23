@@ -22,7 +22,7 @@ appliesTo: "持有浮动利率贷款的借款人、储蓄者，以及任何想�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "54922b7bc9867b3f"
+sourceContentHash: "176a9c4deda655ce"
 
 status: "published"
 aiAssisted: true
@@ -57,6 +57,13 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
 related: ["inflation-cpi", "gdp-overview", "external-trade"]
 keywords: ["OPR Malaysia", "Overnight Policy Rate", "kadar dasar semalaman", "Bank Negara interest rate", "BNM MPC"]
+faq:
+  - q: OPR 就是我房屋贷款实际支付的利率吗？
+    a: 不是。OPR（隔夜政策利率）是国家银行（Bank Negara）为银行之间隔夜拆借所设定的目标利率——并不会直接向你收取。马来西亚的房屋贷款通常以基准利率（BR）加上一个利差来报价，而 OPR 是 BR 背后资金成本的最大决定因素。当 BR 变动时，月供也会随之变动，通常在一到两个月内。
+  - q: 当 OPR 变动时，贷款利率和存款利率会朝同一方向变动吗？
+    a: 两者会朝同一方向变动，但并不对称。文章指出一个值得了解的不对称现象：贷款利率往往上升得快、下降得慢，而存款利率则相反，其重新定价比贷款更慢、也更不彻底。文章将此描述为银行利差的商业现实，而非一条规则。
+  - q: OPR 作出「维持不变」的决定，是否意味着货币政策委员会什么都没做？
+    a: 不是——维持利率本身也是一项决定。货币政策委员会每年按公布的时间表开会六次，而一连串「维持不变」的决定反映出一种判断：通胀受控到无需收紧，经济增长稳健到无需支持。随附的声明通常会透露委员会的政策倾向。
 ---
 
 ## 一览

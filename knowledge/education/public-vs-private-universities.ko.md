@@ -23,7 +23,7 @@ verificationNeeded:
   - "이 기사는 어떤 기관의 프로그램 입학 인원, 쿼터 비율, 구체적 수수료 수치를 명시하지 않음 — 이는 프로그램과 캠퍼스에 따라 다르고 입학 회차마다 바뀜; 지원 전에 UPU의 e-Panduan(공립대학) 또는 개별 기관(사립대학)에 직접 확인할 것."
   - "등록된 IPTS 제공기관의 정확한 현재 수는 여기 명시하지 않았는데, MOHE의 공표 통계표(Statistik Pendidikan Tinggi)를 이 기사에서 전부 열어 보지 못했기 때문임 — 정확한 현재 수치는 MOHE의 Statistik Pendidikan Tinggi 발행물을 직접 참고할 것."
 lang: "ko"
-sourceContentHash: "dec278a4f731f767"
+sourceContentHash: "8368ed6f49bb9158"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -68,6 +68,13 @@ entity: "IPTA/IPTS higher education system"
 relations: []
 related: []
 keywords: ["IPTA vs IPTS", "public university Malaysia", "private university Malaysia", "UPU online application", "MQA accreditation", "Malaysian Qualifications Register", "universiti awam Malaysia", "MQF Malaysia"]
+faq:
+  - q: IPTA(국립)인지 IPTS(사립)인지의 표시가 학위가 인정될지 여부를 알려주는가?
+    a: 아니다. 인정 여부는 그 기관이 국립인지 사립인지가 아니라, 말레이시아 자격기구(MQA)의 인증을 통해 프로그램별로 결정된다. MQA는 2007년 말레이시아 자격기구법(Act 679)에 따라 설립되었다. 잘 알려진 대학이라도 신설되었거나 잠정적이거나 아직 인증되지 않은 프로그램을 가지고 있을 수 있다. 어느 유형의 기관에 등록하기 전이든, 말레이시아 자격등록부(MQR)에서 해당 프로그램과 입학 연도를 확인하라.
+  - q: UPU를 통해 사립대학에 지원할 수 있는가?
+    a: 아니다. UPU(Unit Pusat Universiti, 대학 중앙단위)는 고등교육부의 중앙집중식 온라인 시스템으로, 국립대학, MARA 기관, 폴리테크닉, 커뮤니티 칼리지만 포함한다. 사립 기관(IPTS)은 전적으로 UPU 밖에 있어 직접 지원해야 한다. 각 기관은 자체 입학처를 운영하고 프로그램별로 자체 입학 요건을 정하며 며칠 안에 합격을 낼 수 있고, SPM과 STPM 외에 UEC, A-레벨, IB 등 다른 자격도 흔히 인정한다.
+  - q: 어떤 프로그램이 "잠정 인증"에 그친다면, 그것은 인증되지 않았다는 뜻인가?
+    a: 아니다. MQA의 프로그램 인증 실무규범에 따르면, 잠정 인증(Provisional Accreditation)은 프로그램이 합법적으로 제공되기 위한 최소 품질 요건을 충족했음을 확인하는 것이며, 그 자체가 교육부 승인의 조건이다. 전면 인증(Full Accreditation)은 첫 기수 학생들이 프로그램을 마친 뒤에 수행되는 보다 충실한 평가다. 잠정 인증을 받은 프로그램은 정당하며 합법적으로 제공할 수 있다. 다만 전체 주기 평가를 아직 완료하지 않았을 뿐이다.
 ---
 
 같은 SPM 성적을 가진 두 학생이 완전히 다른 시스템에 놓입니다. 한 명은 하나의 중앙 양식을 작성하고 어느 대학교와 과정에 배정되었는지 통보받기까지 몇 달을 기다립니다. 다른 한 명은 같은 주에 세 개의 사립대학에 직접 지원하여 며칠 안에 입학 허가를 받고, 마음에 드는 곳을 고릅니다. 어느 경로도 기본적으로 「더 낫지」 않습니다 — 그러나 그것들이 어떻게 작동하는지를 혼동하는 것이 SPM 이후를 계획할 때 졸업생이 저지르는 가장 흔한 실수입니다.

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Pembayar cukai individu, pekerja, pekerja gig, SME dan majikan, serta sesiapa yang merancang di sekitar perubahan cukai, gaji dan bantuan tunai Belanjawan 2027 Malaysia."
 
 lang: "ms"
-sourceContentHash: "9667ec689364dcd2"
+sourceContentHash: "425e9a866d80e746"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -63,6 +63,13 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["federal-budget", "gdp-overview", "personal-tax-rates", "fuel-subsidies"]
 keywords: ["Belanjawan 2027 Malaysia", "Belanjawan 2027", "cukai pendapatan Belanjawan 2027", "gaji minimum RM2000", "cukai SME Belanjawan 2027", "SARA STR 2027", "pelepasan cukai RM12000", "sorotan Belanjawan 2027"]
+faq:
+  - q: Adakah gaji minimum RM2,000 sudah berkuat kuasa sekarang setelah Belanjawan 2027 dibentangkan?
+    a: Tidak. Belanjawan yang dibentangkan pada 9 Oktober 2026 ialah satu pengumuman, bukan undang-undang. Gaji minimum naik daripada RM1,700 kepada RM2,000 hanya bermula Jun 2027, dan ketika itu pun PMKS dengan jualan tahunan di bawah RM50 juta dikecualikan pada peringkat awal. Seperti setiap langkah lain, ia hanya mengikat selepas Rang Undang-Undang Kewangan, Akta Perbekalan (Belanjawan) 2027 dan sebarang perintah warta yang membolehkannya diluluskan, pada tarikh berkuat kuasa yang dinyatakan dalam ucapan.
+  - q: Adakah Belanjawan 2027 membaharui SST atau memperkenalkan peraturan e-invois baharu?
+    a: Tidak. Artikel ini menjelaskan dengan tegas bahawa pembaharuan SST yang menyeluruh dan langkah e-invois baharu merupakan ramalan pra-belanjawan oleh para penganalisis, bukan pengumuman dalam ucapan 9 Oktober 2026. Ia patut dianggap sebagai jangkaan, bukan dasar, sehingga kerajaan menyatakan sebaliknya. Perubahan cukai sebenar dalam belanjawan tertumpu pada pemotongan satu mata peratusan bagi kadar cukai pendapatan pemastautin dan PKS, serta pelepasan am yang naik daripada RM9,000 kepada RM12,000.
+  - q: Mulai bila pembukaan akaun simpanan atau akaun semasa dikecualikan daripada duti setem di bawah Belanjawan 2027?
+    a: Mulai 1 Januari 2027, pembukaan akaun simpanan atau akaun semasa dikecualikan sepenuhnya daripada duti setem. Tarikh yang sama turut membawa pemotongan cukai perkhidmatan bagi perkhidmatan penjagaan warga tua daripada 8% kepada 6%, serta permulaan hak bekerja bagi pasangan ekspatriat yang memegang pas tanggungan. Tarikh-tarikh ini seperti yang diumumkan pada 9 Oktober 2026 dan hanya berkuat kuasa setelah undang-undang serta perintah warta yang membolehkannya diluluskan.
 ---
 
 Pada 9 Oktober 2026, Perdana Menteri dan Menteri Kewangan Anwar Ibrahim

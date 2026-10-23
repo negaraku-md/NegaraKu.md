@@ -22,7 +22,7 @@ appliesTo: "Anyone who wants to understand the origins of early civilisation on 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e95214b94dacf363"
+sourceContentHash: "37c769aa2420a10a"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: ["langkasuka", "melaka-sultanate"]
 keywords: ["Lembah Bujang", "Bujang Valley", "Kedah Tua", "candi", "Sungai Batu", "Candi Bukit Batu Pahat", "Muzium Arkeologi Lembah Bujang", "arkeologi Kedah"]
+faq:
+  - q: Is "Bujang Valley" the name of an ancient kingdom?
+    a: No. Bujang Valley is the name of a modern archaeological area of about 224 square kilometres around Merbok, Kedah, not the name of a kingdom. The kingdom names associated with it, such as Kedah Tua (Old Kedah), are distinct historical labels still debated among scholars in terms of their actual scope and boundaries. The valley refers to the area that holds more than 50 candi (temples) as well as the iron-smelting site at Sungai Batu.
+  - q: What makes the Sungai Batu site so important?
+    a: According to the Department of National Heritage (Jabatan Warisan Negara), the Sungai Batu site shows large-scale iron smelting that began around the first century CE and operated continuously until the eighth century, with output levels that point to export rather than merely local use. It holds some of the earliest evidence of iron industry ever recorded in Southeast Asia, predating sites such as Angkor Wat and Borobudur in age.
+  - q: Are the candi (temples) in Bujang Valley still in their original state from ancient times?
+    a: No. Most of the candi that can be visited today have been rebuilt (reconstructed) by archaeologists based on the original ruins, rather than being structures that have remained intact. Candi Bukit Batu Pahat is the only ruin reconstructed on its original site, while Candi Pengkalan Bujang has now been rebuilt near the museum. According to the National Archives of Malaysia (Arkib Negara Malaysia), these candi are estimated to have been built between the fourth and twelfth centuries CE.
 ---
 
 On a flat plain near Gunung Jerai, among paddy fields and oil palm plantations, lie ancient bricks laid out centuries before Melaka existed as a port. Some of them form the base of Hindu temples. Others are iron-smelting furnaces. No sultan who ever ruled from here has a name known today — but what the society that built these temples and furnaces left behind makes the Bujang Valley one of the most important archaeological sites in Southeast Asia.

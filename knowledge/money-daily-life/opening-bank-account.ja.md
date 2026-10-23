@@ -27,7 +27,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "52307f4fb8c11cd2"
+sourceContentHash: "0cc7d7d79dcaf765"
 
 status: "published"
 aiAssisted: true
@@ -66,6 +66,13 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
+faq:
+  - q: 観光ビザでマレーシアの銀行口座を開設できますか?
+    a: いいえ。短期の社会訪問(観光)パスは、どの大手銀行でも標準的な個人口座には受け付けられません。これはあなたが訪問を許可されていることを証明するだけで、銀行が確認できる雇用主、機関、長期的な住所、更新可能な資格がないため、銀行が用いるどの書類カテゴリーにもそれに該当する枠がありません。これは構造的な欠落であり、だからこそ観光パスでは単に別の銀行を試してもめったにうまくいかないのです。
+  - q: マレーシア国民が口座を開設するのに実際に必要な書類は何ですか?
+    a: ほとんどの一般的な普通預金口座や当座預金口座では、国民または永住者に必須の書類はMyKadの原本だけです。CIMBが公表している要件によれば、雇用証明書、EPF(従業員積立基金)明細、給与明細、直近の銀行取引明細などの追加の証明は、上位クラスの口座の場合や、登録したい住所がMyKadに記載された住所と異なる場合など、特定の状況でのみ求められます。未成年者は出生証明書に加え、親または保護者のMyKadが必要です。
+  - q: なぜ銀行はビザの種類によって異なる書類を求めるのですか?
+    a: 銀行は、あなたがマレーシアにいる具体的な理由——それはパスが証明するものです——に補足書類を結びつけているからです。CIMBが公表している要件に基づくと、就労パス(Employment Pass)で働く外国人には通常、雇用証明書と銀行の基準額を上回る月収の証明(CIMBはRM10,000としています)が求められます。学生パス(Student Pass)の保持者には学生証と在学証明書、扶養家族パス(Dependant Pass)の保持者には該当する場合は結婚証明書が求められます。いずれも、少なくとも6か月間有効なパスポートとパスが必要です。
 ---
 
 一人のマレーシア国民が、MyKadを手に支店に入り、用紙に署名して、30分もかからずに使える

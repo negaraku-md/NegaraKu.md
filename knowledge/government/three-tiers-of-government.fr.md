@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne essayant de déterminer à quel niveau de gouvernement s'adresser pour un problème donné en Malaisie, ou qui souhaite comprendre pourquoi elle peut voter pour un député au Parlement et pour un député à l'Assemblée de l'État, mais pas pour un conseiller local."
 
 lang: "fr"
-sourceContentHash: "c6bdf9ccfb5d174a"
+sourceContentHash: "2ede7abafa3eb008"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -75,6 +75,13 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["federal-state-division", "federal-constitution", "parliament", "menteri-besar", "how-elections-work", "spr-election-commission"]
 keywords: ["three tiers of government Malaysia", "federal state local government Malaysia", "Ninth Schedule State List local government", "Local Government Act 1976", "Act 171", "local government elections suspended 1965", "city council municipal council district council Malaysia", "KPKT local authority", "Menteri Besar Chief Minister", "kerajaan tempatan"]
+faq:
+  - q: Pourquoi les Malaisiens ne peuvent-ils pas élire leurs conseillers locaux ?
+    a: Les élections des collectivités locales ont été suspendues dans tout le pays par le Règlement d'urgence (suspension des élections des collectivités locales) (modification) de 1965, pris pendant la Confrontation avec l'Indonésie et présenté comme temporaire. Elles n'ont jamais été rétablies. L'article 15 de la loi de 1976 sur les collectivités locales (Local Government Act 1976) a par la suite rendu la suspension permanente, tandis que l'article 10 confère au gouvernement de l'État le pouvoir de nommer les conseillers à la place. Ainsi, depuis lors, les conseillers sont nommés et non élus.
+  - q: Kuala Lumpur dispose-t-elle de son propre gouvernement d'État ?
+    a: Non. Kuala Lumpur, Putrajaya et Labuan sont des Territoires fédéraux, placés sous l'administration fédérale directe par la Liste fédérale (point 27) plutôt que gouvernés par un État. Ils n'ont ni souverain (Ruler), ni Menteri Besar, ni Assemblée législative d'État ; Kuala Lumpur et Putrajaya sont administrés par le ministère des Territoires fédéraux. Seuls les 13 États disposent de leurs propres Constitutions d'État et gouvernements.
+  - q: Si les collectivités locales relèvent de la Liste des États, pourquoi le Parlement légifère-t-il à leur sujet ?
+    a: Les collectivités locales constituent le point 4 de la Liste des États de la Neuvième annexe (Ninth Schedule), ce qui confère aux États l'étiquette législative. Mais le Parlement exerce ce pouvoir de manière uniforme pour la Malaisie péninsulaire au moyen de la loi de 1976 sur les collectivités locales (loi 171), une loi fédérale que les États ont adoptée en vertu du mécanisme d'uniformité de la Constitution. L'article 95A crée également un Conseil national des collectivités locales (National Council for Local Government) dont les décisions peuvent lier les États. Sabah et Sarawak utilisent en revanche leurs propres ordonnances (ordinance) distinctes.
 ---
 
 Les Malaisiens votent pour un député au Parlement. Ils votent pour un député à l'Assemblée de l'État. Ils n'ont jamais voté pour le maire ou les conseillers qui fixent leur taxe d'évaluation, autorisent leur étal ambulant ou approuvent l'agrandissement de leur maison — parce que cette élection ne s'est tenue nulle part en Malaisie depuis 1965.
