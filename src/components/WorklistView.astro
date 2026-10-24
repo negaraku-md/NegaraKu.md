@@ -1,7 +1,8 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { getCategory, loc } from '@/lib/categories';
-import { corpusTopics, effectiveStatus, type Article } from '@/lib/content';
+import { corpusTopics, effectiveStatus, articleKey, type Article } from '@/lib/content';
+import { getAnalytics } from '@/lib/apidata';
 import { REPO } from '@/lib/site';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -23,18 +24,50 @@ const CONTRIB_ONLY = import.meta.env.DEV || process.env.PREVIEW_ALL === '1';
 
 const topics: Article[] = CONTRIB_ONLY ? await corpusTopics() : [];
 const now = new Date();
+const DAY = 86_400_000;
+const SOON_DAYS = 45; // "due soon" lead time — matches scripts/build-review-queue.mjs
 const st = (a: Article) => effectiveStatus(a, now);
 const editUrl = (a: Article) => `${REPO}/edit/main/knowledge/${a.data.category}/${a.data.slug}.md`;
-const ageDays = (d: unknown) => (d ? Math.max(0, Math.round((now.getTime() - new Date(d as string).getTime()) / 86_400_000)) : null);
+const ageDays = (d: unknown) => (d ? Math.max(0, Math.round((now.getTime() - new Date(d as string).getTime()) / DAY)) : null);
 const worker = (a: Article) => a.data.assignee || a.data.revisions?.at(-1)?.contributor || a.data.author || '—';
 const catName = (a: Article) => { const c = getCategory(a.data.category); return c ? loc(c.name, locale) : a.data.category; };
 
-const needsUpdate = topics.filter((a) => st(a) === 'needs-update');
+// Traffic signal for prioritization — refresh the most-read, most-overdue first.
+const analytics = CONTRIB_ONLY ? getAnalytics() : {};
+const readersOf = (a: Article) => { const r = analytics[articleKey(a)]?.readers; return typeof r === 'number' ? r : (r?.total ?? 0); };
+const daysTo = (d: unknown) => (d ? Math.round((new Date(d as string).getTime() - now.getTime()) / DAY) : null); // <0 overdue
+const overdueDays = (a: Article) => { const n = daysTo(a.data.reviewDue); return n != null && n < 0 ? -n : 0; };
+const untilDue = (a: Article) => { const n = daysTo(a.data.reviewDue); return n != null && n > 0 ? n : 0; };
+const priority = (a: Article) => Math.round((readersOf(a) + 1) * (1 + overdueDays(a) / 30));
+
+const needsUpdate = topics
+  .filter((a) => st(a) === 'needs-update')
+  .sort((x, y) => priority(y) - priority(x)); // value-ranked: readership × how overdue
+// Forward-looking: published, review not yet due but within the horizon.
+const dueSoon = topics
+  .filter((a) => a.data.status === 'published' && st(a) === 'published' && a.data.reviewDue)
+  .filter((a) => { const n = daysTo(a.data.reviewDue); return n != null && n > 0 && n <= SOON_DAYS; })
+  .sort((x, y) => untilDue(x) - untilDue(y) || readersOf(y) - readersOf(x));
 const reqRedraft = topics.filter((a) => a.data.status === 'request-redraft');
 const reqArchive = topics.filter((a) => a.data.status === 'request-archive');
 const inProgress = topics.filter((a) => ['in-update', 'in-redraft', 'in-archive', 'in-review'].includes(a.data.status));
 const awaiting = topics.filter((a) => a.data.status === 'reviewed');
 const drafts = topics.filter((a) => a.data.status === 'draft');
+const archived = topics.filter((a) => a.data.status === 'archived');
+// Healthy published (live, review not imminent) — the baseline the pipeline feeds.
+const publishedLive = topics.filter((a) => a.data.status === 'published' && st(a) === 'published');
+
+// Full lifecycle census — one glance across the whole pipeline.
+const census = [
+  { k: 'draft', n: drafts.length, label: L('Draf', 'Draft', '草稿', 'வரைவு', '下書き', '초안', 'ฉบับร่าง', 'Nháp', 'Draf', 'مسودة', 'ड्राफ्ट', 'Borrador', 'Brouillon') },
+  { k: 'in-review', n: inProgress.filter((a) => a.data.status === 'in-review').length, label: L('Semakan', 'In review', '审阅中', 'மதிப்பாய்வில்', 'レビュー中', '검토 중', 'กำลังตรวจ', 'Đang duyệt', 'Ditinjau', 'قيد المراجعة', 'समीक्षाधीन', 'En revisión', 'En révision') },
+  { k: 'reviewed', n: awaiting.length, label: L('Menunggu', 'Approval', '待批准', 'ஒப்புதல்', '承認待ち', '승인 대기', 'รออนุมัติ', 'Chờ duyệt', 'Persetujuan', 'موافقة', 'अनुमोदन', 'Aprobación', 'Approbation') },
+  { k: 'published', n: publishedLive.length, label: L('Terbit', 'Published', '已发布', 'வெளியிட்டது', '公開', '게시됨', 'เผยแพร่', 'Đã đăng', 'Terbit', 'منشور', 'प्रकाशित', 'Publicado', 'Publié'), live: true },
+  { k: 'due-soon', n: dueSoon.length, label: L('Akan tiba', 'Due soon', '即将到期', 'விரைவில்', 'まもなく', '곧 예정', 'ใกล้ครบ', 'Sắp đến hạn', 'Segera', 'قريبًا', 'जल्द देय', 'Pronto', 'Bientôt') },
+  { k: 'needs-update', n: needsUpdate.length, label: L('Perlu kemas kini', 'Needs update', '需更新', 'புதுப்பிப்பு', '要更新', '업데이트', 'ต้องอัปเดต', 'Cần cập nhật', 'Perlu', 'تحديث', 'अपडेट', 'Actualizar', 'À mettre à jour') },
+  { k: 'in-progress', n: topics.filter((a) => ['in-update', 'in-redraft', 'in-archive'].includes(a.data.status)).length, label: L('Dalam proses', 'In progress', '进行中', 'நடைபெறுகிறது', '作業中', '진행 중', 'ดำเนินการ', 'Đang làm', 'Proses', 'قيد العمل', 'प्रगति', 'En curso', 'En cours') },
+  { k: 'archived', n: archived.length, label: L('Arkib', 'Archived', '已归档', 'காப்பகம்', 'アーカイブ', '보관됨', 'จัดเก็บ', 'Lưu trữ', 'Arsip', 'مؤرشف', 'संग्रहीत', 'Archivado', 'Archivé') },
+];
 
 // Assignee tally for the In-progress board (so no one double-claims).
 const byAssignee: Record<string, number> = {};
@@ -46,7 +79,7 @@ const assigneeSummary = Object.entries(byAssignee).map(([k, n]) => `${k}: ${n}`)
 
 const stats = [
   { icon: '🔧', value: needsUpdate.length, label: L('perlu kemas kini', 'needs update', '需更新', 'புதுப்பிக்க வேண்டியவை', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'cần cập nhật', 'perlu diperbarui', 'بحاجة إلى تحديث', 'अपडेट की आवश्यकता', 'requiere actualización', 'mise à jour requise') },
-  { icon: '📨', value: reqRedraft.length + reqArchive.length, label: L('permintaan', 'requests', '请求', 'கோரிக்கைகள்', 'リクエスト', '요청', 'คำร้องขอ', 'yêu cầu', 'permintaan', 'طلبات', 'अनुरोध', 'solicitudes', 'demandes') },
+  { icon: '🗓️', value: dueSoon.length, label: L('akan disemak', 'due soon', '即将到期', 'விரைவில் மதிப்பாய்வு', 'まもなく要レビュー', '검토 임박', 'ใกล้ครบกำหนด', 'sắp đến hạn', 'segera ditinjau', 'مراجعة قريبة', 'जल्द समीक्षा', 'revisión próxima', 'révision proche') },
   { icon: '⏳', value: inProgress.length, label: L('dalam proses', 'in progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'đang tiến hành', 'dalam proses', 'قيد التنفيذ', 'प्रगति पर', 'en curso', 'en cours') },
   { icon: '⏰', value: awaiting.length, label: L('menunggu kelulusan', 'awaiting', '待批准', 'ஒப்புதலுக்குக் காத்திருக்கிறது', '承認待ち', '대기 중', 'รอดำเนินการ', 'chờ phê duyệt', 'menunggu persetujuan', 'في الانتظار', 'प्रतीक्षारत', 'en espera', 'en attente') },
 ];
@@ -111,6 +144,18 @@ const stats = [
 {
   CONTRIB_ONLY && (
     <section class="container block wl">
+      <div class="wl-census" aria-label={L('Kitaran hayat artikel', 'Article lifecycle', '文章生命周期', 'கட்டுரை வாழ்க்கைச் சுழற்சி', '記事のライフサイクル', '기사 수명 주기', 'วงจรชีวิตบทความ', 'Vòng đời bài viết', 'Siklus hidup artikel', 'دورة حياة المقالة', 'लेख जीवनचक्र', 'Ciclo de vida del artículo', "Cycle de vie de l'article")}>
+        {census.map((c, i) => (
+          <>
+            {i > 0 && <span class="wl-c-arr dirx">→</span>}
+            <span class={`wl-c ${c.n > 0 ? 'on' : ''} ${c.k === 'needs-update' && c.n > 0 ? 'warn' : ''} ${c.live ? 'live' : ''}`}>
+              <b>{c.n}</b>
+              <span>{c.label}</span>
+            </span>
+          </>
+        ))}
+      </div>
+
       {[
         { key: 'nu', label: L('Perlu Kemas Kini', 'Needs update', '需更新', 'புதுப்பிக்க வேண்டும்', '要更新', '업데이트 필요', 'ต้องอัปเดต', 'Cần cập nhật', 'Perlu Diperbarui', 'بحاجة إلى تحديث', 'अपडेट की आवश्यकता', 'Requiere actualización', 'Mise à jour requise'), hint: L('auto: semakan tertunggak · atau dilaporkan pembaca', 'auto: review overdue · or reader-flagged', '自动：审阅逾期 · 或读者标记', 'தானியங்கி: மதிப்பாய்வு தாமதம் · அல்லது வாசகரால் குறிக்கப்பட்டது', '自動: レビュー期限超過 · または読者からの指摘', '자동: 검토 기한 초과 · 또는 독자 신고', 'อัตโนมัติ: การตรวจทานเกินกำหนด · หรือผู้อ่านแจ้ง', 'tự động: đánh giá quá hạn · hoặc do người đọc gắn cờ', 'otomatis: tinjauan terlambat · atau dilaporkan pembaca', 'تلقائي: المراجعة متأخرة · أو مُبلّغ عنها من قارئ', 'स्वतः: समीक्षा अतिदेय · या पाठक-चिह्नित', 'auto: revisión vencida · o señalado por lectores', 'auto : révision en retard · ou signalé par des lecteurs'), items: needsUpdate, action: L('Tuntut & sunting', 'Claim & edit', '认领并编辑', 'உரிமை கொண்டு திருத்து', '担当して編集', '담당 후 편집', 'รับงานและแก้ไข', 'Nhận & chỉnh sửa', 'Klaim & sunting', 'المطالبة والتحرير', 'दावा करें और संपादित करें', 'Reclamar y editar', 'Prendre en charge et modifier') },
         { key: 'rr', label: L('Permintaan Tulis Semula', 'Redraft requested', '重写请求', 'மறுவரைவுக் கோரிக்கை', '書き直し依頼', '재작성 요청됨', 'มีคำขอเขียนใหม่', 'Yêu cầu viết lại', 'Permintaan Tulis Ulang', 'طُلبت إعادة الصياغة', 'पुनर्लेखन अनुरोधित', 'Reescritura solicitada', 'Réécriture demandée'), hint: L('diminta manusia', 'human-requested', '人工请求', 'மனிதரால் கோரப்பட்டது', '人による依頼', '사람이 요청', 'ร้องขอโดยมนุษย์', 'do con người yêu cầu', 'diminta manusia', 'بطلب بشري', 'मानव-अनुरोधित', 'solicitado por un humano', 'demandé par un humain'), items: reqRedraft, action: L('Tuntut', 'Claim', '认领', 'உரிமை கொள்', '担当する', '담당', 'รับงาน', 'Nhận', 'Klaim', 'المطالبة', 'दावा करें', 'Reclamar', 'Prendre en charge') },
@@ -132,7 +177,8 @@ const stats = [
                     {catName(a)}
                     {a.data.requestReason && <> · “{a.data.requestReason}”</>}
                     {a.data.requestedBy && <> · {a.data.requestedBy}</>}
-                    {sec.key === 'nu' && a.data.reviewDue && <> · {L('semakan', 'review due', '应审阅', 'மதிப்பாய்வு நிலுவை', '要レビュー', '검토 예정', 'ครบกำหนดตรวจทาน', 'đến hạn đánh giá', 'tinjauan', 'مراجعة مستحقة', 'समीक्षा देय', 'revisión pendiente', 'révision prévue')} {new Date(a.data.reviewDue).toISOString().slice(0, 10)}</>}
+                    {sec.key === 'nu' && overdueDays(a) > 0 && <> · <span class="wl-over">{overdueDays(a)}{L('h lewat', 'd overdue', '天逾期', 'நா தாமதம்', '日超過', '일 초과', 'วันเกิน', 'ng trễ', 'h telat', 'ي متأخر', 'दि विलंब', 'd vencido', 'j de retard')}</span></>}
+                    {sec.key === 'nu' && readersOf(a) > 0 && <> · {readersOf(a)} {L('pembaca', 'readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'độc giả', 'pembaca', 'قارئ', 'पाठक', 'lectores', 'lecteurs')}</>}
                   </span>
                   <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{sec.action} <span class="dirx">↗</span></a>
                 </li>
@@ -141,6 +187,29 @@ const stats = [
           )}
         </div>
       ))}
+
+      <div class="wl-sec">
+        <header>
+          <span>{L('Akan Disemak', 'Due soon', '即将到期审阅', 'விரைவில் மதிப்பாய்வு', 'まもなく要レビュー', '곧 검토 예정', 'ใกล้ครบกำหนดตรวจทาน', 'Sắp đến hạn đánh giá', 'Segera Ditinjau', 'مراجعة قريبة', 'जल्द समीक्षा', 'Revisión próxima', 'Révision proche')} <b>{dueSoon.length}</b></span>
+          <span class="wl-hint">{L(`dalam ${SOON_DAYS} hari · rancang lebih awal`, `within ${SOON_DAYS} days · plan ahead`, `${SOON_DAYS} 天内 · 提前安排`, `${SOON_DAYS} நாட்களுக்குள் · முன்கூட்டியே திட்டமிடு`, `${SOON_DAYS}日以内 · 前もって計画`, `${SOON_DAYS}일 이내 · 미리 계획`, `ภายใน ${SOON_DAYS} วัน · วางแผนล่วงหน้า`, `trong ${SOON_DAYS} ngày · lên kế hoạch trước`, `dalam ${SOON_DAYS} hari · rencanakan lebih awal`, `خلال ${SOON_DAYS} يومًا · خطّط مسبقًا`, `${SOON_DAYS} दिनों में · पहले से योजना`, `en ${SOON_DAYS} días · planifique con antelación`, `sous ${SOON_DAYS} jours · anticipez`)}</span>
+        </header>
+        {dueSoon.length === 0 ? (
+          <p class="wl-empty">{L('Tiada dalam tempoh terdekat.', 'Nothing on the near horizon.', '近期暂无。', 'அண்மைக் காலத்தில் எதுவும் இல்லை.', '近い予定はありません。', '임박한 항목 없음.', 'ยังไม่มีในเร็ว ๆ นี้', 'Không có gì sắp tới.', 'Tidak ada dalam waktu dekat.', 'لا شيء قريبًا.', 'निकट भविष्य में कुछ नहीं।', 'Nada en el horizonte cercano.', "Rien à l'horizon proche.")}</p>
+        ) : (
+          <ul>
+            {dueSoon.map((a) => (
+              <li>
+                <span class="wl-title">{a.data.title}</span>
+                <span class="wl-meta">
+                  {catName(a)} · {L('semak dalam', 'review in', '审阅倒计时', 'மதிப்பாய்வு', 'レビューまで', '검토까지', 'ตรวจใน', 'đánh giá sau', 'tinjau dalam', 'مراجعة خلال', 'समीक्षा', 'revisión en', 'révision dans')} {untilDue(a)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि', 'd', 'j')}
+                  {readersOf(a) > 0 && <> · {readersOf(a)} {L('pembaca', 'readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'độc giả', 'pembaca', 'قارئ', 'पाठक', 'lectores', 'lecteurs')}</>}
+                </span>
+                <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Semak awal', 'Review early', '提前审阅', 'முன்கூட்டியே மதிப்பாய்வு', '早めにレビュー', '미리 검토', 'ตรวจล่วงหน้า', 'Đánh giá sớm', 'Tinjau awal', 'مراجعة مبكرة', 'जल्दी समीक्षा', 'Revisar antes', 'Réviser tôt')} <span class="dirx">↗</span></a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
 
       <div class="wl-sec">
         <header>
@@ -208,6 +277,28 @@ const stats = [
           </ul>
         )}
       </div>
+
+      {archived.length > 0 && (
+        <details class="wl-sec wl-arch">
+          <summary>
+            <span>{L('Diarkibkan', 'Archived', '已归档', 'காப்பகப்படுத்தப்பட்டது', 'アーカイブ済み', '보관됨', 'จัดเก็บถาวรแล้ว', 'Đã lưu trữ', 'Diarsipkan', 'مؤرشف', 'संग्रहीत', 'Archivado', 'Archivé')} <b>{archived.length}</b></span>
+            <span class="wl-hint">{L('ditarik · dialihkan ke pengganti', 'retired · redirected to a successor', '已退役 · 重定向到后继', 'ஓய்வு · வாரிசுக்குத் திருப்பப்பட்டது', '廃止 · 後継へリダイレクト', '폐기 · 후속 문서로 리디렉션', 'เลิกใช้ · เปลี่ยนเส้นทางไปยังบทความที่สืบทอด', 'đã ngừng · chuyển hướng đến bài kế thừa', 'dipensiunkan · dialihkan ke penerus', 'مُتقاعد · مُعاد توجيهه إلى خلف', 'सेवानिवृत्त · उत्तराधिकारी पर पुनर्निर्देशित', 'retirado · redirigido a un sucesor', 'retiré · redirigé vers un successeur')}</span>
+          </summary>
+          <ul>
+            {archived.map((a) => (
+              <li>
+                <span class="wl-title">{a.data.title}</span>
+                <span class="wl-meta">
+                  {catName(a)}
+                  {a.data.supersededBy
+                    ? <> · <span class="dirx">→</span> <a href={localePath(a.data.supersededBy, locale)}>{a.data.supersededBy}</a></>
+                    : <> · <span class="wl-over">{L('tiada pengganti', 'no successor', '无后继', 'வாரிசு இல்லை', '後継なし', '후속 없음', 'ไม่มีผู้สืบทอด', 'không có bài kế thừa', 'tanpa penerus', 'بلا خلف', 'कोई उत्तराधिकारी नहीं', 'sin sucesor', 'sans successeur')}</span></>}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
     </section>
   )
 }
@@ -244,4 +335,40 @@ const stats = [
   .wl-sens { color: var(--gold); }
   .wl-act { margin-inline-start: auto; color: var(--gold); font-weight: 700; font-size: 0.85rem; text-decoration: none; white-space: nowrap; }
   .wl-act:hover { text-decoration: underline; }
+  .wl-over { color: var(--gold); font-weight: 600; }
+
+  /* Lifecycle census — the whole pipeline at a glance. */
+  .wl-census {
+    display: flex; align-items: stretch; flex-wrap: wrap; gap: 0.3rem;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+    padding: 0.7rem 0.85rem;
+  }
+  .wl-c {
+    display: flex; flex-direction: column; align-items: center; gap: 0.1rem;
+    min-width: 4.3rem; padding: 0.35rem 0.5rem; border-radius: 8px; flex: 1;
+    background: var(--surface-2); border: 1px solid transparent; opacity: 0.55;
+  }
+  .wl-c.on { opacity: 1; }
+  .wl-c.live { border-color: color-mix(in srgb, var(--gold) 45%, transparent); }
+  .wl-c.warn { border-color: var(--gold); background: color-mix(in srgb, var(--gold) 12%, var(--surface-2)); }
+  .wl-c b { font-family: var(--font-title); font-size: 1.15rem; color: var(--gold); font-variant-numeric: tabular-nums; line-height: 1; }
+  .wl-c > span { font-size: 0.68rem; color: var(--muted); text-align: center; line-height: 1.15; }
+  .wl-c-arr { align-self: center; color: var(--ink-soft); opacity: 0.5; font-size: 0.8rem; }
+
+  .wl-arch { color: var(--muted); }
+  .wl-arch > summary {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; flex-wrap: wrap;
+    padding: 0.7rem 1.05rem; background: var(--surface-2); cursor: pointer; list-style: none;
+  }
+  .wl-arch > summary::-webkit-details-marker { display: none; }
+  .wl-arch > summary > span:first-child {
+    font-family: var(--font-title); font-size: 1.05rem; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.03em; color: var(--muted);
+  }
+  .wl-arch > summary b { color: var(--gold); margin-inline-start: 0.35rem; font-variant-numeric: tabular-nums; }
+  .wl-arch[open] > summary { border-bottom: 1px solid var(--line); }
+  .wl-arch .wl-meta a { color: var(--gold); text-decoration: none; }
+  .wl-arch .wl-meta a:hover { text-decoration: underline; }
+
+  @media (max-width: 640px) { .wl-c-arr { display: none; } .wl-c { min-width: 4rem; } }
 </style>

@@ -24,6 +24,7 @@ status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
+reviewDue: 2028-01-24
 revision: 0
 revisions:
   - revision: 0

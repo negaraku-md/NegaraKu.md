@@ -1,0 +1,58 @@
+name: Articles due for review
+
+# Lifecycle step 5, made proactive. Once a week this rebuilds the prioritized
+# freshness queue (readership × how overdue) and keeps ONE living GitHub issue in
+# sync with it — so review work finds the reviewer instead of waiting to be
+# noticed. Read-only over content: it generates data + edits an issue, never the
+# corpus. The on-page freshness badge + the contributor Worklist cockpit are the
+# other two surfaces of the same reviewDue fact.
+
+on:
+  schedule:
+    - cron: '0 1 * * 1' # Mondays 01:00 UTC ≈ 09:00 MYT
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: review-due
+  cancel-in-progress: false
+
+jobs:
+  queue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      # Regenerate the manifest + analytics the queue ranks on, then build it.
+      - name: Build the review queue
+        run: |
+          node scripts/sync.mjs
+          node scripts/build-analytics.mjs || true
+          node scripts/build-review-queue.mjs > review-digest.md
+
+      - name: Upsert the living "due for review" issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TITLE="📋 Articles due for review"
+          LABEL="review-queue"
+          # Ensure the label exists (ignore "already exists").
+          gh label create "$LABEL" --color FFC000 --description "Freshness queue — auto-maintained" 2>/dev/null || true
+          # Find an existing open issue carrying the label.
+          NUM=$(gh issue list --state open --label "$LABEL" --limit 1 --json number --jq '.[0].number // empty')
+          if [ -n "$NUM" ]; then
+            gh issue edit "$NUM" --title "$TITLE" --body-file review-digest.md
+            echo "Updated issue #$NUM"
+          else
+            gh issue create --title "$TITLE" --label "$LABEL" --body-file review-digest.md
+            echo "Created the review-queue issue"
+          fi

@@ -24,6 +24,7 @@ status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-07-25"
+reviewDue: 2027-07-24
 publishedBy: "ashton-tan"
 revision: 0
 revisions:

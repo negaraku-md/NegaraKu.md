@@ -1,7 +1,13 @@
 // Publish reviewed articles: flip every `status: "reviewed"` file (masters AND
-// translations) to `status: "published"`. Nothing else is touched — a reviewed
-// file already carries its sign-off (reviewer/reviewed/reviewDue) and the corpus
-// convention leaves `published: null` (that date is derived from git, not hand-set).
+// translations) to `status: "published"`. A reviewed file already carries its
+// sign-off (reviewer/reviewed) and the corpus convention leaves `published: null`
+// (that date is derived from git, not hand-set).
+//
+// One more thing is set here: if a file has NO `reviewDue`, we stamp the policy
+// date (scripts/lib/review-cadence.mjs) from its reviewed/updated/today baseline,
+// so a freshly published page cannot escape the freshness queue by lacking a
+// due-date. A reviewDue already on the file is authoritative and left untouched.
+// reviewDue is not in the translation hash, so stamping it is freshness-neutral.
 //
 // HARD GATE: only files whose status is exactly "reviewed" are flipped, so this
 // can never revert a published page or promote an unreviewed draft. Idempotent.
@@ -12,6 +18,7 @@
 //   node scripts/publish-reviewed.mjs --apply <cat/slug>... # only these bases (+langs)
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { computeReviewDue } from './lib/review-cadence.mjs';
 
 const args = process.argv.slice(2);
 const APPLY = args.includes('--apply');
@@ -45,7 +52,17 @@ for (const f of walk('knowledge')) {
   // HARD GATE — only advance a reviewed file. Never touch draft/in-review/
   // published/archived/update states.
   if (!/^status:\s*"?reviewed"?\s*$/m.test(fm)) continue;
-  const next = fm.replace(/^status:\s*"?reviewed"?\s*$/m, 'status: "published"');
+  let next = fm.replace(/^status:\s*"?reviewed"?\s*$/m, 'status: "published"');
+  // Stamp a policy reviewDue if the file has none — a published page must be in
+  // the freshness queue. An existing reviewDue is authoritative; leave it.
+  if (!/^reviewDue:/m.test(fm)) {
+    const val = (k) => (fm.match(new RegExp(`^${k}:[ \\t]*"?([^"\\n]*)"?`, 'm')) ?? [])[1]?.trim();
+    const baseline = val('reviewed') || val('updated') || new Date().toISOString().slice(0, 10);
+    const due = computeReviewDue(baseline, val('tier') ?? '3', val('sensitivity') ?? 'none');
+    next = /^reviewed:.*$/m.test(next)
+      ? next.replace(/^reviewed:.*$/m, (ln) => `${ln}\nreviewDue: ${due}`)
+      : next.replace(/^status:.*$/m, (ln) => `${ln}\nreviewDue: ${due}`);
+  }
   if (next === fm) continue;
   if (APPLY) writeFileSync(f, raw.replace(fm, next), 'utf8');
   flipped++;

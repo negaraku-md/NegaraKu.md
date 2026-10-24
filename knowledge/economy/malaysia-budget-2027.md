@@ -30,6 +30,7 @@ status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: "2026-10-10"
+reviewDue: 2028-04-10
 published: "2026-10-10"
 publishedBy: "ashton-tan"
 revision: 0

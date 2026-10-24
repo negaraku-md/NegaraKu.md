@@ -73,6 +73,26 @@ its `reviewDue` is shown as needs-update automatically. Only `archived` is termi
 - **P2 — Make review-due proactive (step 5 + #3 + #4).** A scheduled Action that builds the
   **prioritized review-due queue** (traffic × age) and surfaces it (one living GitHub issue +/or a
   dashboard tile). Fix `flag-needs-update.mjs` to 13 langs. Add the cadence policy (#5).
+  - **✅ P2 BUILT (2026-10-24, held for push).** Four parts:
+    1. **Cadence policy** `scripts/lib/review-cadence.mjs` — the ONE place the interval is set, by
+       drift × cost: tier 4 (data) 6 mo · tier 1 (statutory) 12 · tier 2 18 · tier 3 (evergreen) 24 ·
+       any sensitivity ≠ none capped at 12 (annual). Calendar-correct month math.
+    2. **Backfill + mirror repair** `scripts/set-review-due.mjs` — gave the 300 published masters that
+       had no reviewDue a policy date (from their `updated`), and repaired the drifted locale mirror
+       (ar/hi/es/fr etc.): 5,285 files written, reviewDue-only → freshness-neutral (0 stale after).
+       `publish-reviewed.mjs` now stamps the policy date at publish so the gap never reopens.
+    3. **Prioritized queue** `scripts/build-review-queue.mjs` → `public/api/review-queue.json`
+       (ranked readers × how-overdue) + a Markdown digest; wired into predev/prebuild so the JSON is
+       a live `/api/review-queue.json` endpoint. **`.github/workflows/review-due.yml`** (Mon 09:00 MYT)
+       upserts ONE living "📋 Articles due for review" issue from the digest — the queue finds the reviewer.
+    4. **Contributor cockpit** — `WorklistView.astro` rebuilt into the full-lifecycle management surface:
+       a **lifecycle census strip** (draft→in-review→reviewed→published→due-soon→needs-update→in-progress→archived
+       with counts), a new **Due-soon** section (published, review within 45 days — forward-looking), the
+       **Needs-update** queue now **traffic-ranked** with overdue-age + readers shown, and an **Archived**
+       disclosure (with successor / "no successor"). Fixed `flag-needs-update.mjs` to all 13 langs.
+    - Current real signal: 9 overdue (economy pages, Bank Negara 296 readers first), 21 archived, rest fresh.
+    - ▫ Note: the Worklist stays dev/preview-gated (it lists unpublished draft titles). A signed-in
+      public contributor cockpit (published-only, via the org-gated OAuth) is a later option, not needed yet.
 - **P3 — Transition commands (steps 3 + 1→2).** Small, hard-gated CLIs mirroring `publish-reviewed`:
   `claim`/`submit-for-review`/`sign-off` (status flips with the four-eyes check), and
   `scaffold-draft <category/slug>` that seeds a correct draft from an accepted proposal (with a
