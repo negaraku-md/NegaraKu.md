@@ -1,0 +1,172 @@
+---
+// Standalone, chrome-LESS embed widget: "A fact about Malaysia".
+// Designed to be dropped into any site via <iframe src="/embed/fact-of-the-day">.
+// No BaseLayout — this is a self-contained document (own <html>, inline CSS/JS,
+// system fonts, zero web-font loads). It reads ?lang + ?theme at runtime and
+// fetches /api/facts/<lang>.json (same origin as the iframe src). Facts are the
+// first sentence of each article's reviewed `answer` (see scripts/build-facts.mjs),
+// each linking back to its source article. The visible NegaraKu.md credit links
+// home; embedders are asked (on /embed) to keep a matching <a> in their own page
+// for the real backlink.
+export const prerender = true;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>A fact about Malaysia — NegaraKu.md</title>
+    <style>
+      :root {
+        --bg: #ffffff; --surface: #faf9f7; --ink: #14161c; --muted: #5b6472;
+        --line: #e7e6e2; --gold: #FFC000; --accent: #b8860b;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme='light']) {
+          --bg: #0b0c0f; --surface: #14161c; --ink: #f4f4f8; --muted: #9aa4b2;
+          --line: #262a31; --gold: #FFC000; --accent: #FFC000;
+        }
+      }
+      :root[data-theme='dark'] {
+        --bg: #0b0c0f; --surface: #14161c; --ink: #f4f4f8; --muted: #9aa4b2;
+        --line: #262a31; --gold: #FFC000; --accent: #FFC000;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; background: var(--bg); }
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+        color: var(--ink); padding: 14px; -webkit-font-smoothing: antialiased;
+      }
+      [dir='rtl'] body { text-align: right; }
+      .card {
+        background: var(--surface); border: 1px solid var(--line); border-top: 3px solid var(--gold);
+        border-radius: 12px; padding: 16px 18px; min-height: 150px;
+        display: flex; flex-direction: column; gap: 10px;
+      }
+      .top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+      .eyebrow {
+        font-size: 0.7rem; font-weight: 800; letter-spacing: 0.09em; text-transform: uppercase;
+        color: var(--accent);
+      }
+      .flag { font-size: 1.1rem; line-height: 1; }
+      .fact {
+        font-size: 1.02rem; line-height: 1.5; color: var(--ink); text-decoration: none;
+        display: block; flex: 1 1 auto;
+      }
+      a.fact:hover { text-decoration: underline; text-underline-offset: 2px; }
+      .foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: 2px; }
+      .brand {
+        font-weight: 800; font-size: 0.82rem; text-decoration: none; color: var(--ink);
+        letter-spacing: -0.01em;
+      }
+      .brand b { color: var(--gold); font-weight: 800; }
+      .brand:hover { text-decoration: underline; text-underline-offset: 2px; }
+      .refresh {
+        border: 1px solid var(--line); background: var(--bg); color: var(--muted);
+        border-radius: 999px; font: inherit; font-size: 0.74rem; font-weight: 600;
+        padding: 5px 11px; cursor: pointer; display: inline-flex; align-items: center; gap: 5px;
+      }
+      .refresh:hover { border-color: var(--gold); color: var(--ink); }
+      .refresh .ic { transition: transform 0.4s ease; display: inline-block; }
+      .refresh:active .ic { transform: rotate(-180deg); }
+    </style>
+  </head>
+  <body>
+    <div class="card" role="group" aria-label="A fact about Malaysia">
+      <div class="top">
+        <span class="eyebrow" id="eyebrow">Did you know?</span>
+        <span class="flag" aria-hidden="true">🌺</span>
+      </div>
+      <a class="fact" id="fact" href="https://negaraku.md" target="_blank" rel="noopener">—</a>
+      <div class="foot">
+        <a class="brand" id="brand" href="https://negaraku.md" target="_blank" rel="noopener">NegaraKu<b>.md</b></a>
+        <button class="refresh" id="refresh" type="button"><span class="ic" aria-hidden="true">↻</span> <span id="refreshLabel">Another</span></button>
+      </div>
+    </div>
+
+    <script is:inline>
+      (function () {
+        var LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
+        var RTL = { ar: 1 };
+        // UI microcopy per language (eyebrow / "another fact" / tab title).
+        var UI = {
+          ms: ['Tahukah anda?', 'Fakta lain', 'Fakta tentang Malaysia'],
+          en: ['Did you know?', 'Another', 'A fact about Malaysia'],
+          zh: ['你知道吗？', '换一条', '关于马来西亚的小知识'],
+          ta: ['தெரியுமா?', 'மற்றொன்று', 'மலேசியா பற்றிய உண்மை'],
+          ja: ['ご存知ですか？', '別の事実', 'マレーシアの豆知識'],
+          ko: ['알고 계셨나요?', '다른 사실', '말레이시아에 관한 사실'],
+          th: ['รู้หรือไม่?', 'ข้อมูลอื่น', 'ข้อเท็จจริงเกี่ยวกับมาเลเซีย'],
+          vi: ['Bạn có biết?', 'Sự thật khác', 'Một sự thật về Malaysia'],
+          id: ['Tahukah Anda?', 'Fakta lain', 'Fakta tentang Malaysia'],
+          ar: ['هل تعلم؟', 'حقيقة أخرى', 'حقيقة عن ماليزيا'],
+          hi: ['क्या आप जानते हैं?', 'एक और', 'मलेशिया के बारे में एक तथ्य'],
+          es: ['¿Sabías que?', 'Otro dato', 'Un dato sobre Malasia'],
+          fr: ['Le saviez-vous ?', 'Autre fait', 'Un fait sur la Malaisie'],
+        };
+        var qs = new URLSearchParams(location.search);
+        var lang = qs.get('lang');
+        if (LANGS.indexOf(lang) === -1) lang = 'ms';
+        var theme = qs.get('theme');
+        if (theme === 'light' || theme === 'dark') document.documentElement.setAttribute('data-theme', theme);
+        var ui = UI[lang] || UI.en;
+        document.documentElement.lang = lang;
+        if (RTL[lang]) document.documentElement.dir = 'rtl';
+        document.getElementById('eyebrow').textContent = ui[0];
+        document.getElementById('refreshLabel').textContent = ui[1];
+        document.title = ui[2] + ' — NegaraKu.md';
+        var homeHref = lang === 'ms' ? 'https://negaraku.md/' : 'https://negaraku.md/' + lang + '/';
+        document.getElementById('brand').href = homeHref;
+
+        var factEl = document.getElementById('fact');
+        var facts = [];
+        var idx = 0;
+
+        function dayOfYear() {
+          var now = new Date();
+          var start = new Date(now.getFullYear(), 0, 0);
+          return Math.floor((now - start) / 86400000);
+        }
+        function render() {
+          var f = facts[idx];
+          if (!f) return;
+          factEl.textContent = f.t;
+          factEl.href = new URL(f.u, location.origin).href;
+        }
+        function postHeight() {
+          try { parent.postMessage({ type: 'negaraku-embed-height', height: document.body.scrollHeight }, '*'); } catch (e) {}
+        }
+
+        fetch('/api/facts/' + lang + '.json')
+          .then(function (r) { return r.ok ? r.json() : null; })
+          .then(function (data) {
+            facts = (data && data.facts) || [];
+            if (!facts.length) {
+              factEl.textContent = ui[2] + '.';
+              factEl.href = homeHref;
+              postHeight();
+              return;
+            }
+            idx = dayOfYear() % facts.length; // "fact of the day" — stable per day
+            render();
+            postHeight();
+          })
+          .catch(function () {
+            factEl.textContent = ui[2] + '.';
+            factEl.href = homeHref;
+            postHeight();
+          });
+
+        document.getElementById('refresh').addEventListener('click', function () {
+          if (facts.length < 2) return;
+          var next = idx;
+          while (next === idx) next = Math.floor(Math.random() * facts.length);
+          idx = next;
+          render();
+          postHeight();
+        });
+      })();
+    </script>
+  </body>
+</html>

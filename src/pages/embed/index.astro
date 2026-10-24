@@ -1,0 +1,212 @@
+---
+// /embed — builder-facing docs for the embeddable "fact about Malaysia" widget.
+// Standalone page (not part of the localized route system): a dev utility, with
+// a live preview, a lang/theme picker, and a copy-paste snippet. English-first
+// like most widget docs. The snippet pairs the iframe with a visible credit <a>
+// in the HOST page — that anchor is what gives NegaraKu.md a real backlink
+// (an <iframe src> is not an <a href>), so we ask embedders to keep it.
+export const prerender = true;
+const ORIGIN = 'https://negaraku.md';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Embed a Malaysia fact — NegaraKu.md</title>
+    <meta
+      name="description"
+      content="Add a free, auto-updating 'fact about Malaysia' widget to your site in one line. Open-source, 13 languages, light & dark."
+    />
+    <style>
+      :root {
+        --bg: #ffffff; --surface: #faf9f7; --surface2: #f1efea; --ink: #14161c; --muted: #5b6472;
+        --line: #e7e6e2; --gold: #FFC000; --accent: #b8860b;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme='light']) {
+          --bg: #0b0c0f; --surface: #14161c; --surface2: #1b1e25; --ink: #f4f4f8; --muted: #9aa4b2;
+          --line: #262a31; --accent: #FFC000;
+        }
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; }
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        background: var(--bg); color: var(--ink); line-height: 1.6; -webkit-font-smoothing: antialiased;
+      }
+      a { color: var(--accent); }
+      header.bar {
+        display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+        padding: 0.9rem 1.2rem; border-bottom: 1px solid var(--line); background: var(--surface);
+      }
+      .wm { font-weight: 900; font-size: 1.1rem; text-decoration: none; color: var(--ink); letter-spacing: -0.02em; }
+      .wm b { color: var(--gold); }
+      .bar nav a { color: var(--muted); text-decoration: none; font-size: 0.9rem; font-weight: 600; margin-inline-start: 1rem; }
+      .bar nav a:hover { color: var(--ink); }
+      main { max-width: 860px; margin: 0 auto; padding: 2.2rem 1.2rem 4rem; }
+      h1 { font-size: clamp(1.7rem, 4vw, 2.3rem); line-height: 1.15; letter-spacing: -0.02em; margin: 0 0 0.6rem; }
+      .lead { font-size: 1.1rem; color: var(--muted); margin: 0 0 2rem; max-width: 60ch; }
+      h2 { font-size: 1.2rem; margin: 2.4rem 0 0.8rem; }
+      .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; align-items: start; }
+      @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } }
+      .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 1.2rem; }
+      label { display: block; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 0.3rem; }
+      .row { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+      .row > div { flex: 1 1 8rem; }
+      select { width: 100%; padding: 0.5rem 0.6rem; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); font: inherit; }
+      .previewWrap { border: 1px dashed var(--line); border-radius: 12px; padding: 1rem; background: var(--surface2); }
+      iframe.pv { width: 100%; max-width: 440px; height: 200px; border: 0; display: block; margin: 0 auto; }
+      pre {
+        background: var(--surface2); border: 1px solid var(--line); border-radius: 10px;
+        padding: 1rem; overflow: auto; font-size: 0.82rem; line-height: 1.5; margin: 0 0 0.7rem;
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; white-space: pre-wrap; word-break: break-word;
+      }
+      .copy { border: 1px solid var(--line); background: var(--bg); color: var(--ink); border-radius: 999px; font: inherit; font-weight: 600; font-size: 0.85rem; padding: 0.45rem 1rem; cursor: pointer; }
+      .copy:hover { border-color: var(--gold); }
+      .note { font-size: 0.92rem; color: var(--muted); }
+      .note strong { color: var(--ink); }
+      ul.feat { padding-inline-start: 1.1rem; margin: 0.4rem 0 0; color: var(--muted); }
+      ul.feat li { margin: 0.25rem 0; }
+      footer { border-top: 1px solid var(--line); padding: 1.4rem 1.2rem; text-align: center; color: var(--muted); font-size: 0.88rem; }
+    </style>
+  </head>
+  <body>
+    <header class="bar">
+      <a class="wm" href={`${ORIGIN}/`}>NegaraKu<b>.md</b></a>
+      <nav>
+        <a href={`${ORIGIN}/`}>Home</a>
+        <a href={`${ORIGIN}/llms`}>For AI</a>
+        <a href="https://github.com/negaraku-md/NegaraKu.md">GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Put a fact about Malaysia on your site</h1>
+      <p class="lead">
+        A free, open-source widget that shows a different, sourced fact about Malaysia each day — in 13
+        languages, light and dark. One line of HTML. No tracking, no sign-up.
+      </p>
+
+      <div class="grid">
+        <div>
+          <h2>1. Choose</h2>
+          <div class="panel">
+            <div class="row">
+              <div>
+                <label for="lang">Language</label>
+                <select id="lang">
+                  <option value="ms">Bahasa Melayu</option>
+                  <option value="en" selected>English</option>
+                  <option value="zh">中文</option>
+                  <option value="ta">தமிழ்</option>
+                  <option value="ja">日本語</option>
+                  <option value="ko">한국어</option>
+                  <option value="th">ไทย</option>
+                  <option value="vi">Tiếng Việt</option>
+                  <option value="id">Bahasa Indonesia</option>
+                  <option value="ar">العربية</option>
+                  <option value="hi">हिन्दी</option>
+                  <option value="es">Español</option>
+                  <option value="fr">Français</option>
+                </select>
+              </div>
+              <div>
+                <label for="theme">Theme</label>
+                <select id="theme">
+                  <option value="auto" selected>Auto (match site)</option>
+                  <option value="light">Light</option>
+                  <option value="dark">Dark</option>
+                </select>
+              </div>
+            </div>
+            <label>Preview</label>
+            <div class="previewWrap">
+              <iframe class="pv" id="pv" title="A fact about Malaysia" loading="lazy"></iframe>
+            </div>
+          </div>
+        </div>
+
+        <div>
+          <h2>2. Copy</h2>
+          <div class="panel">
+            <pre id="snippet"></pre>
+            <button class="copy" id="copy" type="button">Copy code</button>
+            <p class="note" style="margin-top:1rem">
+              <strong>Please keep the credit link.</strong> The small
+              “Malaysia facts by NegaraKu.md” line below the widget is a normal link in your page — it’s
+              how the project stays discoverable, and it’s the only thing we ask in return for the free widget.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <h2>Why embed it?</h2>
+      <ul class="feat">
+        <li><strong>Always fresh</strong> — a new fact each day, pulled from a 1,000+ article knowledge base.</li>
+        <li><strong>Sourced</strong> — every fact links to a cited article on negaraku.md.</li>
+        <li><strong>13 languages</strong>, automatic light/dark, and it adapts to your container width.</li>
+        <li><strong>Open &amp; free</strong> — CC BY-SA 4.0 content; no scripts run on your page except the iframe.</li>
+      </ul>
+
+      <h2>Tips</h2>
+      <ul class="feat">
+        <li>Adjust <code>height</code> (default 200) if your language wraps to more lines.</li>
+        <li>The widget sends its height to the parent via <code>postMessage</code> (<code>type: "negaraku-embed-height"</code>) if you want to auto-resize.</li>
+        <li>Prefer a fixed language? Set <code>?lang=</code>. Prefer a fixed look? Set <code>?theme=light</code> or <code>dark</code>.</li>
+      </ul>
+    </main>
+
+    <footer>
+      <a href={`${ORIGIN}/`}>NegaraKu.md</a> — the open-source, AI-friendly knowledge base about Malaysia.
+    </footer>
+
+    <script is:inline>
+      (function () {
+        var ORIGIN = 'https://negaraku.md';
+        var langSel = document.getElementById('lang');
+        var themeSel = document.getElementById('theme');
+        var pv = document.getElementById('pv');
+        var snippet = document.getElementById('snippet');
+        var copyBtn = document.getElementById('copy');
+
+        function srcUrl() {
+          return ORIGIN + '/embed/fact-of-the-day/?lang=' + langSel.value + '&theme=' + themeSel.value;
+        }
+        function homeUrl() {
+          return langSel.value === 'ms' ? ORIGIN + '/' : ORIGIN + '/' + langSel.value + '/';
+        }
+        function code() {
+          return (
+            '<iframe src="' + srcUrl() + '"\n' +
+            '  title="A fact about Malaysia" width="100%" height="200"\n' +
+            '  style="border:0;max-width:440px" loading="lazy"></iframe>\n' +
+            '<p style="font:13px/1.4 sans-serif;max-width:440px">\n' +
+            '  <a href="' + homeUrl() + '">Malaysia facts by NegaraKu.md</a>\n' +
+            '</p>'
+          );
+        }
+        function refresh() {
+          pv.src = srcUrl();
+          snippet.textContent = code();
+        }
+        langSel.addEventListener('change', refresh);
+        themeSel.addEventListener('change', refresh);
+        copyBtn.addEventListener('click', function () {
+          navigator.clipboard.writeText(code()).then(function () {
+            copyBtn.textContent = 'Copied ✓';
+            setTimeout(function () { copyBtn.textContent = 'Copy code'; }, 1800);
+          });
+        });
+        refresh();
+
+        // Optional auto-resize of the live preview to match the widget's content.
+        window.addEventListener('message', function (e) {
+          if (e.data && e.data.type === 'negaraku-embed-height' && e.data.height) {
+            pv.style.height = Math.max(150, e.data.height) + 'px';
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>
