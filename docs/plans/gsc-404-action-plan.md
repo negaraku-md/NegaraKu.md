@@ -46,6 +46,9 @@ The "4 unresolved" edge URLs were re-checked now that the content gaps are fille
 **The GSC-404 backlog is now fully worked through.** Open item is user-side only: click *Validate
 Fix* in Search Console for the redirect-errors + the newly-redirected URLs so Google re-crawls.
 
+### Recurrence prevention (2026-10-25, held for push)
+The root cause — `check-internal-links` **skipped** every non-absolute body link (`if (!href.startsWith('/')) continue`), so a bare relative link like `](lhdn)` (which 404s on a leaf article) went uncaught — is now **fixed in the tool itself**. The checker flags any bare-relative body link as a new `relative` broken-link kind and **fails under `--strict`** (prebuild/CI). A re-scan confirmed the corpus is currently clean (0), and a positive test (injected `](bank-negara-malaysia)`) is correctly caught. This class of GSC 404 can no longer land silently in a new article.
+
 ## 1. Redirect errors (3) — already fixed, Validate Fix in GSC
 
 ```

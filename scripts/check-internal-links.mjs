@@ -113,7 +113,15 @@ for (const [, t] of topics) {
   // 1) body markdown links -> internal /[locale/]category/slug
   for (const mt of m.body.matchAll(/\]\(([^)\s]+)\)/g)) {
     let href = mt[1];
-    if (!href.startsWith('/')) continue; // external / anchor / mailto
+    // A BARE RELATIVE link in a leaf article body (e.g. `](lhdn)` or
+    // `](sub/foo)`) resolves to a non-existent child of this page — the exact
+    // 404 class behind the GSC report. Links must be absolute (`/cat/slug/`).
+    // Anchors, full URLs and mail/tel/data are legitimately non-absolute.
+    if (!href.startsWith('/')) {
+      if (/^(https?:|#|mailto:|tel:|data:|\/\/)/.test(href)) continue; // genuinely external/anchor
+      broken.push({ source: rel(m.file), link: href, target: href, kind: 'relative' });
+      continue;
+    }
     href = href.split('#')[0].split('?')[0].replace(/\/+$/, '');
     if (!href) continue;
     const segs = stripLocale(href.split('/').filter(Boolean));
@@ -139,8 +147,9 @@ for (const [, t] of topics) {
 
 const notPublic = broken.filter((b) => b.kind === 'not-public');
 const missing = broken.filter((b) => b.kind === 'missing');
+const relative = broken.filter((b) => b.kind === 'relative');
 console.log(`[check-internal-links] public articles scanned: ${[...topics.values()].filter((t) => isPublic(masterOf(t))).length}`);
-console.log(`[check-internal-links] broken links: ${broken.length}  (to hidden/non-public: ${notPublic.length} · to missing: ${missing.length})`);
+console.log(`[check-internal-links] broken links: ${broken.length}  (to hidden/non-public: ${notPublic.length} · to missing: ${missing.length} · bare-relative: ${relative.length})`);
 for (const b of broken) {
   console.log(`  ✗ ${b.source}\n      -> ${b.link}  [${b.kind}]`);
 }
@@ -156,12 +165,15 @@ if (missing.length && !STRICT) {
       `(warning only — run with --strict to enforce these too).`,
   );
 }
-const failCount = STRICT ? broken.length : ENFORCE ? notPublic.length : 0;
+// Bare-relative links are always a reader-facing 404 (not "not-yet-written"
+// debt), so they fail under --enforce too, alongside the hide-hazard.
+const failCount = STRICT ? broken.length : ENFORCE ? notPublic.length + relative.length : 0;
 if (failCount > 0) {
   console.error(
     `[check-internal-links] FAILED: ${notPublic.length} link(s) to hidden/non-public article(s)` +
+      (relative.length ? ` + ${relative.length} bare-relative link(s) (must be absolute /category/slug/)` : '') +
       (STRICT ? ` + ${missing.length} to missing article(s)` : '') +
-      `. Un-hide the target, or remove/repoint the link.`,
+      `. Un-hide the target, make the link absolute, or remove/repoint it.`,
   );
   process.exit(1);
 }
