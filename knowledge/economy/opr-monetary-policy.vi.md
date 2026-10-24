@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Lãi suất Chính sách Qua đêm (Overnight Policy Rate, OPR) là lãi suất chuẩn của Bank Negara Malaysia — lãi suất mà nó nhắm tới cho việc cho vay qua đêm giữa các ngân hàng. Nó ở mức 2,75% tính đến ngày 7 tháng 5 năm 2026, không đổi qua các quyết định của Ủy ban Chính sách Tiền tệ năm 2026 vào ngày 22 tháng 1, 5 tháng 3 và 7 tháng 5 (BNM Financial Markets Investor Portal). OPR là mỏ neo mà từ đó các ngân hàng ấn định Lãi suất Cơ sở của mình, và do đó là những gì hầu hết người Malaysia trả cho một khoản vay mua nhà và thu được trên một khoản tiền gửi có kỳ hạn."
+answer: "Lãi suất Chính sách Qua đêm (Overnight Policy Rate, OPR) là lãi suất chuẩn của Bank Negara Malaysia — lãi suất mà nó nhắm tới cho việc cho vay qua đêm giữa các ngân hàng. Nó ở mức 2,75% tính đến ngày 3 tháng 9 năm 2026, không đổi qua mọi quyết định của Ủy ban Chính sách Tiền tệ năm 2026 vào ngày 22 tháng 1, 5 tháng 3, 7 tháng 5, 9 tháng 7 và 3 tháng 9 (BNM Financial Markets Investor Portal). OPR là mỏ neo mà từ đó các ngân hàng ấn định Lãi suất Cơ sở của mình, và do đó là những gì hầu hết người Malaysia trả cho một khoản vay mua nhà và thu được trên một khoản tiền gửi có kỳ hạn."
 keyTakeaways:
-  - "OPR là 2,75% tính đến ngày 7 tháng 5 năm 2026, được giữ nguyên tại mọi cuộc họp MPC năm 2026 cho đến ngày đó"
+  - "OPR là 2,75% tính đến ngày 3 tháng 9 năm 2026, được giữ nguyên tại mọi cuộc họp MPC năm 2026 cho đến ngày đó"
   - "Đó là lãi suất mà BNM nhắm tới cho việc cho vay liên ngân hàng qua đêm — không phải một lãi suất bạn bị tính trực tiếp"
   - "Các ngân hàng định giá Lãi suất Cơ sở của mình từ nó, nên nó lan tới các khoản vay mua nhà và tiền gửi trong vòng vài tuần"
   - "MPC họp sáu lần một năm theo một lịch được công bố"
@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "Người vay có các khoản vay lãi suất thả nổi, người tiết kiệm, và bất kỳ ai đang cố hiểu tin tức lãi suất của Malaysia."
 
 lang: "vi"
-sourceContentHash: "176a9c4deda655ce"
+sourceContentHash: "468ccecd722728f7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -71,7 +71,7 @@ faq:
 
 | Chỉ tiêu | Giá trị | Tính đến | Nguồn |
 | --- | --- | --- | --- |
-| Lãi suất Chính sách Qua đêm | 2,75% | 7 tháng 5 năm 2026 | BNM (FMIP) |
+| Lãi suất Chính sách Qua đêm | 2,75% | 3 tháng 9 năm 2026 | BNM (FMIP) |
 | MYOR (lãi suất qua đêm thực tế) | 2,75% | 23 tháng 7 năm 2026 | BNM (FMIP) |
 | Lợi suất MGS kỳ hạn 10 năm | 3,70% | 24 tháng 7 năm 2026 | BNM (FMIP) |
 
@@ -82,6 +82,8 @@ faq:
 | 22 tháng 1 năm 2026 | 2,75% |
 | 5 tháng 3 năm 2026 | 2,75% |
 | 7 tháng 5 năm 2026 | 2,75% |
+| 9 tháng 7 năm 2026 | 2,75% |
+| 3 tháng 9 năm 2026 | 2,75% |
 
 ## Một lãi suất bạn không bao giờ thực sự trả
 

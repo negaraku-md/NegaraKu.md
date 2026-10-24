@@ -10,19 +10,19 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Tingkat pengangguran Malaysia adalah 3.0% pada Mei 2026, dengan 513,400 orang menganggur dari angkatan kerja sebanyak 17.34 juta dan 16.82 juta orang bekerja (DOSM, dirilis 10 Juli 2026). Tingkat partisipasi angkatan kerja adalah 70.9%. Tingkat ini hanya menghitung orang yang tidak memiliki pekerjaan, tersedia untuk bekerja, dan secara aktif mencari kerja — itulah sebabnya ia dapat tetap rendah sementara sekitar tiga dari sepuluh rakyat Malaysia usia kerja tetap berada sepenuhnya di luar angkatan kerja."
+answer: "Tingkat pengangguran Malaysia adalah 2.9% pada Agustus 2026, dengan 511,600 orang menganggur dari angkatan kerja sebanyak 17.39 juta dan 16.87 juta orang bekerja (DOSM, dirilis 9 Oktober 2026). Tingkat partisipasi angkatan kerja adalah 71.0%. Tingkat ini hanya menghitung orang yang tidak memiliki pekerjaan, tersedia untuk bekerja, dan secara aktif mencari kerja — itulah sebabnya ia dapat tetap rendah sementara sekitar tiga dari sepuluh rakyat Malaysia usia kerja tetap berada sepenuhnya di luar angkatan kerja."
 keyTakeaways:
-  - "Pengangguran adalah 3.0% pada Mei 2026 — 513,400 orang dari angkatan kerja sebanyak 17.34 juta"
-  - "16.82 juta orang bekerja; tingkat partisipasi adalah 70.9%"
+  - "Pengangguran adalah 2.9% pada Agustus 2026 — 511,600 orang dari angkatan kerja sebanyak 17.39 juta"
+  - "16.87 juta orang bekerja; tingkat partisipasi adalah 71.0%"
   - "Untuk dihitung sebagai menganggur, Anda harus tidak memiliki pekerjaan, tersedia, DAN secara aktif mencari kerja"
   - "Sekitar 29% dari populasi usia kerja berada di luar angkatan kerja dan sama sekali tidak dihitung"
   - "DOSM menerbitkan statistik angkatan kerja setiap bulan, sekitar enam minggu setelah bulan rujukan"
 appliesTo: "Siapa saja yang menafsirkan data pasar tenaga kerja Malaysia — pencari kerja, pemberi kerja, pembuat kebijakan, dan analis."
 
 lang: "id"
-sourceContentHash: "f1bb9140bdec9bd9"
+sourceContentHash: "e6a8d065e2c62d32"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -40,10 +40,10 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Statistik Angkatan Kerja, Mei 2026 (Labour Force Statistics, May 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026"
+  - title: "Statistik Angkatan Kerja, Agustus 2026 (Labour Force Statistics, August 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
     publisher: "Departemen Statistik Malaysia (DOSM)"
-    date: "2026-07-10"
+    date: "2026-10-09"
   - title: "Laporan Survei Angkatan Kerja, Kuartal Pertama 2026 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "Departemen Statistik Malaysia (DOSM)"
@@ -63,20 +63,20 @@ keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysi
 
 | Metrik | Nilai | Periode | Sumber |
 | --- | --- | --- | --- |
-| Tingkat pengangguran | 3.0% | Mei 2026 | DOSM |
-| Orang menganggur | 513,400 | Mei 2026 | DOSM |
-| Angkatan kerja | 17.34 juta | Mei 2026 | DOSM |
-| Orang bekerja | 16.82 juta | Mei 2026 | DOSM |
-| Tingkat partisipasi angkatan kerja | 70.9% | Mei 2026 | DOSM |
+| Tingkat pengangguran | 2.9% | Agustus 2026 | DOSM |
+| Orang menganggur | 511,600 | Agustus 2026 | DOSM |
+| Angkatan kerja | 17.39 juta | Agustus 2026 | DOSM |
+| Orang bekerja | 16.87 juta | Agustus 2026 | DOSM |
+| Tingkat partisipasi angkatan kerja | 71.0% | Agustus 2026 | DOSM |
 
-*Dirilis pada 10 Juli 2026. Statistik angkatan kerja memiliki jeda yang
-lebih lama dibandingkan harga — angka yang diterbitkan pada bulan Juli
-menggambarkan bulan Mei.*
+*Dirilis pada 9 Oktober 2026. Statistik angkatan kerja memiliki jeda yang
+lebih lama dibandingkan harga — angka yang diterbitkan pada bulan Oktober
+menggambarkan bulan Agustus.*
 
 ## Apa yang sebenarnya dimaksud dengan "menganggur" di sini
 
-Tingkat pengangguran 3.0% tidak berarti 97% rakyat Malaysia memiliki
-pekerjaan. Ia berarti 3.0% dari **angkatan kerja** menganggur — dan
+Tingkat pengangguran 2.9% tidak berarti 97% rakyat Malaysia memiliki
+pekerjaan. Ia berarti 2.9% dari **angkatan kerja** menganggur — dan
 angkatan kerja adalah kelompok yang jauh lebih kecil dibandingkan populasi
 keseluruhan.
 
@@ -96,15 +96,15 @@ untuk dipahami tentang angka ini.
 
 ## Tingkat partisipasi adalah separuh lagi cerita ini
 
-Pada Mei 2026 tingkat partisipasi adalah 70.9%. Perhitungan yang penting:
+Pada Agustus 2026 tingkat partisipasi adalah 71.0%. Perhitungan yang penting:
 
-- **Angkatan kerja** = bekerja + menganggur = 17.34 juta
-- **Tingkat partisipasi** = angkatan kerja ÷ populasi usia kerja = 70.9%
+- **Angkatan kerja** = bekerja + menganggur = 17.39 juta
+- **Tingkat partisipasi** = angkatan kerja ÷ populasi usia kerja = 71.0%
 
 Jadi sekitar **29% rakyat Malaysia usia kerja berada sepenuhnya di
 luar angkatan kerja** — pelajar, ibu rumah tangga, pengasuh, golongan pensiunan,
 mereka yang sakit jangka panjang, dan pencari kerja yang telah
-putus asa. Tidak seorang pun dari mereka muncul dalam angka 3.0%
+putus asa. Tidak seorang pun dari mereka muncul dalam angka 2.9%
 itu.
 
 Inilah alasan tingkat pengangguran tidak seharusnya dibaca secara
@@ -157,4 +157,4 @@ pasar kerja:
 - Baca bersama harga: [Tingkat Inflasi Malaysia](/id/economy/inflation-cpi)
 - Dan output: [Gambaran Umum KDNK Malaysia](/id/economy/gdp-overview)
 - Sumber utama:
-  [Statistik Angkatan Kerja DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026)
+  [Statistik Angkatan Kerja DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)

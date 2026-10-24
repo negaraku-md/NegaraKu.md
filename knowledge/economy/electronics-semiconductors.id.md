@@ -11,19 +11,19 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Produk listrik dan elektronik (E&E) merupakan kategori ekspor terbesar Malaysia dengan selisih yang jauh. Pada Januari 2026, ekspor E&E bernilai RM70.53 miliar — peningkatan 39.5% tahun-ke-tahun dan 48% dari total ekspor Malaysia (MIDA, 20 Februari 2026). Kekuatan Malaysia terpusat pada bagian hujung belakang rantai semikonduktor: perakitan, pengujian, dan pengemasan, bukan fabrikasi cip."
+answer: "Produk listrik dan elektronik (E&E) merupakan kategori ekspor terbesar Malaysia dengan selisih yang jauh. Pada September 2026, ekspor E&E bernilai RM110.23 miliar — peningkatan 69.2% tahun-ke-tahun dan 51.2% dari total ekspor Malaysia (DOSM Statistik Perdagangan Luar Negeri Bulanan, dirilis 19 Oktober 2026). Kekuatan Malaysia terpusat pada bagian hujung belakang rantai semikonduktor: perakitan, pengujian, dan pengemasan, bukan fabrikasi cip."
 keyTakeaways:
-  - "E&E menyumbang 48% dari total ekspor pada Januari 2026, bernilai RM70.53 miliar"
-  - "Ekspor E&E tumbuh 39.5% tahun-ke-tahun pada bulan tersebut, didorong oleh permintaan semikonduktor terkait AI"
+  - "E&E menyumbang 51.2% dari total ekspor pada September 2026, bernilai RM110.23 miliar"
+  - "Ekspor E&E tumbuh 69.2% tahun-ke-tahun pada bulan tersebut, didorong oleh permintaan semikonduktor terkait AI"
   - "Malaysia ahli dalam perakitan, pengujian, dan pengemasan — bagian hujung belakang, bukan fabrikasi"
   - "Pulau Pinang adalah pusat bersejarah, dimulai sejak zona perdagangan bebas yang didirikan pada 1972"
   - "Pemusatan ini merupakan kekuatan sekaligus kelemahan: satu sektor menanggung sekitar separuh dari basis ekspor"
 appliesTo: "Siapa saja yang menilai eksposur ekonomi Malaysia — investor, pencari kerja, perumus kebijakan, dan pelajar perdagangan."
 
 lang: "id"
-sourceContentHash: "fa1a846b1a7d15a8"
+sourceContentHash: "8a0b775a88e8a175"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -45,9 +45,10 @@ sources:
     url: "https://www.investmalaysia.gov.my/resources/latest-announcements/malaysias-trade-hits-historic-high-in-january-2026-ee-exports-continue-to-lead-growth/"
     publisher: "Lembaga Pembangunan Investasi Malaysia (MIDA) / InvestMalaysia"
     date: "2026-02-20"
-  - title: "Statistik Perdagangan Luar Negeri Bulanan (Monthly External Trade Statistics)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
+  - title: "Statistik Perdagangan Luar Negeri Bulanan, September 2026 (Monthly External Trade Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
     publisher: "Departemen Statistik Malaysia (DOSM)"
+    date: "2026-10-19"
   - title: "Kementerian Investasi, Perdagangan, dan Industri (MITI) (Ministry of Investment, Trade and Industry (MITI))"
     url: "https://www.miti.gov.my/"
     publisher: "Kementerian Investasi, Perdagangan, dan Industri (MITI)"
@@ -62,7 +63,7 @@ faq:
   - q: Apakah Malaysia membuat chip canggih seperti Taiwan, atau sesuatu yang berbeda?
     a: Sesuatu yang berbeda. Pembuatan semikonduktor memiliki dua bagian, dan kekuatan Malaysia ada di bagian hilir (back end) — perakitan, pengujian, dan pengemasan (ATP), yaitu tahap ketika wafer jadi berubah menjadi chip yang dapat digunakan. Malaysia memiliki sangat sedikit pabrik fabrikasi mutakhir (bagian hulu/front-end). Ulasan yang menganggap Malaysia sebagai pesaing pabrik fab Taiwan sebenarnya membandingkan mata rantai yang berbeda dalam rantai yang sama; Malaysia telah mengerjakan bagian hilir sejak tahun 1970-an.
   - q: Mengapa E&E (listrik dan elektronik) yang menyumbang separuh ekspor disebut sebagai kerentanan, bukan sekadar kekuatan?
-    a: 'Karena satu kategori produk yang menanggung sekitar separuh basis ekspor memusatkan risiko dalam tiga cara. Siklus: semikonduktor bersifat naik-turun tajam, sehingga sektor yang tumbuh 39,5% dalam setahun bisa menyusut drastis. Posisi dalam rantai: perakitan dan pengujian hilir lebih mudah ditandingi daripada fabrikasi, sehingga pesaing dapat membangun kapasitas yang sama. Geopolitik: kontrol ekspor dan kebijakan pemulangan produksi (reshoring) yang disusun di perekonomian lain berdampak langsung pada pabrik-pabrik di Malaysia.'
+    a: 'Karena satu kategori produk yang menanggung sekitar separuh basis ekspor memusatkan risiko dalam tiga cara. Siklus: semikonduktor bersifat naik-turun tajam, sehingga sektor yang tumbuh 69,2% dalam setahun bisa menyusut drastis. Posisi dalam rantai: perakitan dan pengujian hilir lebih mudah ditandingi daripada fabrikasi, sehingga pesaing dapat membangun kapasitas yang sama. Geopolitik: kontrol ekspor dan kebijakan pemulangan produksi (reshoring) yang disusun di perekonomian lain berdampak langsung pada pabrik-pabrik di Malaysia.'
   - q: Mengapa justru Penang yang menjadi pusat industri chip Malaysia?
     a: Hal ini berawal dari keputusan kebijakan pada tahun 1972. Penang mendirikan zona perdagangan bebas dan menggaet perusahaan elektronik asing dengan insentif pajak, impor komponen bebas bea, dan tenaga kerja yang tersedia. Perusahaan semikonduktor Amerika dan Jepang mendirikan operasi perakitan, dan terbentuklah sebuah klaster. Klaster kian mengakar seiring waktu — pemasok, perawatan peralatan, insinyur yang dilatih secara lokal — itulah sebabnya setengah abad kemudian Penang dan Kulim masih memusatkan begitu banyak bagian dari sektor ini.
 ---
@@ -71,9 +72,9 @@ faq:
 
 | Metrik | Nilai | Periode | Sumber |
 | --- | --- | --- | --- |
-| Ekspor E&E | RM70.53 miliar | Januari 2026 | MIDA |
-| Pangsa dari total ekspor | 48% | Januari 2026 | MIDA |
-| Pertumbuhan tahun-ke-tahun | +39.5% | Januari 2026 | MIDA |
+| Ekspor E&E | RM110.23 miliar | September 2026 | DOSM |
+| Pangsa dari total ekspor | 51.2% | September 2026 | DOSM |
+| Pertumbuhan tahun-ke-tahun | +69.2% | September 2026 | DOSM |
 | Posisi dalam rantai pasok | Perakitan, pengujian, pengemasan (hujung belakang) | — | MIDA / MITI |
 | Pusat bersejarah | Pulau Pinang, zona perdagangan bebas sejak 1972 | — | — |
 
@@ -82,7 +83,7 @@ faq:
 Malaysia sering digambarkan sebagai ekonomi komoditas — kelapa sawit, karet,
 minyak dan gas. Gambaran itu sudah usang sejak berdekade-dekade lamanya. Hal
 tunggal terbesar yang dijual Malaysia kepada dunia adalah **elektronik**, dan
-selisihnya jauh: E&E mencakup **48% dari total ekspor** pada Januari
+selisihnya jauh: E&E mencakup **51.2% dari total ekspor** pada September
 2026.
 
 Dengan kata lain, kira-kira satu dari dua ringgit yang diperoleh Malaysia
@@ -129,9 +130,9 @@ Pinang dan Kulim memusatkan begitu banyak sektor ini.
 
 ## Siklus AI, dan risiko di baliknya
 
-Lonjakan 39.5% pada Januari 2026 didorong sebagian besar oleh
+Lonjakan 69.2% pada September 2026 didorong sebagian besar oleh
 **permintaan global terhadap semikonduktor yang terkait dengan aplikasi
-kecerdasan buatan** serta siklus peningkatan teknologi biasa, menurut MIDA.
+kecerdasan buatan** serta siklus peningkatan teknologi biasa.
 Itu merupakan kabar baik yang tulen bagi pendapatan ekspor, pekerjaan, dan
 investasi.
 
@@ -139,7 +140,7 @@ Ia juga memusatkan risiko. Tiga eksposur berikut mengikuti secara
 langsung dari angka-angka ini:
 
 - **Siklus naik-turun.** Semikonduktor terkenal dengan pola lonjakan dan
-  keruntuhan. Sektor yang dapat tumbuh 39.5% dalam setahun dapat
+  keruntuhan. Sektor yang dapat tumbuh 69.2% dalam setahun dapat
   menyusut secara mendadak pada tahun lain, menyeret separuh dari basis
   ekspor bersamanya.
 - **Posisi dalam rantai.** Pekerjaan hujung belakang lebih mudah

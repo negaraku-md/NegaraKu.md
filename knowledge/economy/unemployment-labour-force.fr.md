@@ -11,19 +11,19 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Le taux de chômage de la Malaisie était de 3.0% en mai 2026, avec 513,400 personnes au chômage sur une population active de 17.34 millions et 16.82 millions de personnes occupées (DOSM, publié le 10 juillet 2026). Le taux d'activité de la population active était de 70.9%. Le taux ne compte que les personnes sans emploi, disponibles pour travailler et à la recherche active d'un emploi, ce qui explique pourquoi il peut rester faible alors qu'environ trois Malaisiens en âge de travailler sur dix demeurent entièrement en dehors de la population active."
+answer: "Le taux de chômage de la Malaisie était de 2.9% en août 2026, avec 511,600 personnes au chômage sur une population active de 17.39 millions et 16.87 millions de personnes occupées (DOSM, publié le 9 octobre 2026). Le taux d'activité de la population active était de 71.0%. Le taux ne compte que les personnes sans emploi, disponibles pour travailler et à la recherche active d'un emploi, ce qui explique pourquoi il peut rester faible alors qu'environ trois Malaisiens en âge de travailler sur dix demeurent entièrement en dehors de la population active."
 keyTakeaways:
-  - "Le chômage était de 3.0% en mai 2026 : 513,400 personnes sur une population active de 17.34 millions"
-  - "16.82 millions de personnes étaient occupées ; le taux d'activité était de 70.9%"
+  - "Le chômage était de 2.9% en août 2026 : 511,600 personnes sur une population active de 17.39 millions"
+  - "16.87 millions de personnes étaient occupées ; le taux d'activité était de 71.0%"
   - "Pour être compté comme chômeur, vous devez être sans emploi, disponible ET à la recherche active d'un emploi"
   - "Environ 29% de la population en âge de travailler se situe en dehors de la population active et n'est pas comptée du tout"
   - "Le DOSM publie les statistiques de la population active chaque mois, environ six semaines après le mois de référence"
 appliesTo: "Toute personne interprétant les données du marché du travail malaisien : demandeurs d'emploi, employeurs, décideurs politiques et analystes."
 
 lang: "fr"
-sourceContentHash: "f1bb9140bdec9bd9"
+sourceContentHash: "e6a8d065e2c62d32"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -41,10 +41,10 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Statistiques de la population active, mai 2026 (Labour Force Statistics, May 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026"
+  - title: "Statistiques de la population active, août 2026 (Labour Force Statistics, August 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
     publisher: "Département des statistiques de Malaisie (DOSM)"
-    date: "2026-07-10"
+    date: "2026-10-09"
   - title: "Rapport de l'enquête sur la population active, premier trimestre 2026 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "Département des statistiques de Malaisie (DOSM)"
@@ -64,19 +64,19 @@ keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysi
 
 | Indicateur | Valeur | Période | Source |
 | --- | --- | --- | --- |
-| Taux de chômage | 3.0% | Mai 2026 | DOSM |
-| Personnes au chômage | 513,400 | Mai 2026 | DOSM |
-| Population active | 17.34 millions | Mai 2026 | DOSM |
-| Personnes occupées | 16.82 millions | Mai 2026 | DOSM |
-| Taux d'activité de la population active | 70.9% | Mai 2026 | DOSM |
+| Taux de chômage | 2.9% | Août 2026 | DOSM |
+| Personnes au chômage | 511,600 | Août 2026 | DOSM |
+| Population active | 17.39 millions | Août 2026 | DOSM |
+| Personnes occupées | 16.87 millions | Août 2026 | DOSM |
+| Taux d'activité de la population active | 71.0% | Août 2026 | DOSM |
 
-*Publié le 10 juillet 2026. Les statistiques de la population active accusent un
-retard plus long que les prix : le chiffre publié en juillet décrit mai.*
+*Publié le 9 octobre 2026. Les statistiques de la population active accusent un
+retard plus long que les prix : le chiffre publié en octobre décrit août.*
 
 ## Ce que « chômeur » signifie réellement ici
 
-Un taux de chômage de 3.0% ne signifie pas que 97% des Malaisiens ont un emploi.
-Il signifie que 3.0% de la **population active** est au chômage, et la population
+Un taux de chômage de 2.9% ne signifie pas que 97% des Malaisiens ont un emploi.
+Il signifie que 2.9% de la **population active** est au chômage, et la population
 active est un groupe bien plus étroit que la population.
 
 Pour être compté comme chômeur par le DOSM, une personne doit remplir trois
@@ -94,16 +94,16 @@ au sujet de ce chiffre.
 
 ## Le taux d'activité est l'autre moitié de l'histoire
 
-En mai 2026, le taux d'activité était de 70.9%. L'arithmétique qui compte :
+En août 2026, le taux d'activité était de 71.0%. L'arithmétique qui compte :
 
-- **Population active** = personnes occupées + chômeurs = 17.34 millions
+- **Population active** = personnes occupées + chômeurs = 17.39 millions
 - **Taux d'activité** = population active ÷ population en âge de travailler =
-  70.9%
+  71.0%
 
 Ainsi, environ **29% des Malaisiens en âge de travailler se situent entièrement
 en dehors de la population active** : étudiants, personnes au foyer, aidants,
 retraités, malades de longue durée et demandeurs d'emploi découragés. Aucun
-d'eux n'apparaît dans les 3.0%.
+d'eux n'apparaît dans les 2.9%.
 
 C'est pourquoi le taux de chômage ne doit jamais se lire seul. Un taux qui baisse
 pendant que le taux d'activité baisse aussi n'est pas une bonne nouvelle ; cela
@@ -154,4 +154,4 @@ de l'emploi :
 - À lire avec les prix : [le taux d'inflation de la Malaisie](/fr/economy/inflation-cpi)
 - Et la production : [aperçu du PIB de la Malaisie](/fr/economy/gdp-overview)
 - Source primaire :
-  [Statistiques de la population active du DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026)
+  [Statistiques de la population active du DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)

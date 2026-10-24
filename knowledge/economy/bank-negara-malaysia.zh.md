@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "zh"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -167,7 +167,7 @@ BNM 的决策刻意分散于多个法定机构之间，而非集中在总裁一�
 
 MPC 每年须至少召开六次会议（First Schedule（第一附表）第 3 段），第 24 条则
 要求该局在每次会议后发布货币政策声明——决议连同理据。隔夜政策利率自 2025 年
-7 月 9 日调降以来一直维持在 2.75%，并在 2026 年 7 月 9 日的会议上维持不变。这
+7 月 9 日调降以来一直维持在 2.75%，并在此后的每一次会议上维持不变——最近一次是在 2026 年 9 月 3 日。这
 个单一数字如何影响你的贷款，详见
 [隔夜政策利率](/zh/economy/opr-monetary-policy)。
 

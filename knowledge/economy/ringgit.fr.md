@@ -10,19 +10,19 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Le ringgit (MYR) est la monnaie de la Malaisie, émise par Bank Negara Malaysia. Il flotte : sa valeur est fixée par le marché, et non par le gouvernement, un changement intervenu après la suppression en 2005 de l'ancrage introduit en 1998. Le taux de référence USD/MYR de KL était de 4.0944 au 24 juillet 2026, et le volume quotidien de change s'élevait à 19.03 milliards de dollars US (BNM Financial Markets Investor Portal)."
+answer: "Le ringgit (MYR) est la monnaie de la Malaisie, émise par Bank Negara Malaysia. Il flotte : sa valeur est fixée par le marché, et non par le gouvernement, un changement intervenu après la suppression en 2005 de l'ancrage introduit en 1998. Le taux de référence USD/MYR de KL était de 4.0841 au 23 octobre 2026, et le volume quotidien de change s'élevait à 20.41 milliards de dollars US (BNM Financial Markets Investor Portal)."
 keyTakeaways:
-  - "Le taux de référence USD/MYR de KL était de 4.0944 au 24 juillet 2026"
-  - "Le volume quotidien de change était de 19.03 milliards de dollars US à cette même date"
+  - "Le taux de référence USD/MYR de KL était de 4.0841 au 23 octobre 2026"
+  - "Le volume quotidien de change était de 20.41 milliards de dollars US à cette même date"
   - "Le ringgit flotte : il a été ancré à 3.80 pour un dollar US de 1998 à 2005"
   - "Il est porté principalement par les prix des matières premières, les écarts de taux d'intérêt et l'appétit pour le risque mondial"
   - "Un ringgit plus faible aide les exportateurs et le tourisme, et renchérit les importations et les études à l'étranger"
 appliesTo: "Toute personne exposée au taux de change : importateurs, exportateurs, voyageurs, étudiants à l'étranger et investisseurs."
 
 lang: "fr"
-sourceContentHash: "a0d224345b9024d5"
+sourceContentHash: "3f4c12c7b0ab0483"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -43,7 +43,7 @@ sources:
   - title: "Portail de l'investisseur sur les marchés financiers — taux de référence et volume (Financial Markets Investor Portal — reference rates and turnover)"
     url: "https://financialmarkets.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
-    date: "2026-07-24"
+    date: "2026-10-23"
   - title: "Politique de change (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
@@ -61,19 +61,19 @@ related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "taux USD MYR", "kadar tukaran ringgit", "monnaie de la Malaisie", "taux de change du ringgit"]
 faq:
   - q: Si le chiffre USD/MYR augmente, le ringgit s'est-il renforcé ou affaibli ?
-    a: Affaibli. Un USD/MYR de 4.0944 signifie qu'un dollar américain achète 4.0944 ringgits, donc quand ce chiffre monte, chaque dollar achète davantage de ringgits et le ringgit s'est affaibli. L'article qualifie cette inversion de l'erreur de lecture la plus courante. « Le ringgit a chuté » n'a par ailleurs aucun sens sans nommer l'autre devise, car il peut s'affaiblir face au dollar tout en se renforçant face au yen ou à l'euro en même temps.
+    a: Affaibli. Un USD/MYR de 4.0841 signifie qu'un dollar américain achète 4.0841 ringgits, donc quand ce chiffre monte, chaque dollar achète davantage de ringgits et le ringgit s'est affaibli. L'article qualifie cette inversion de l'erreur de lecture la plus courante. « Le ringgit a chuté » n'a par ailleurs aucun sens sans nommer l'autre devise, car il peut s'affaiblir face au dollar tout en se renforçant face au yen ou à l'euro en même temps.
   - q: Le ringgit est-il toujours arrimé au dollar américain à 3.80 ?
     a: Non. La Malaisie a arrimé le ringgit à 3.80 pour un dollar américain en septembre 1998 pendant la crise financière asiatique, avec des contrôles des capitaux, et cet arrimage a tenu près de sept ans. Il a été supprimé en 2005, et le ringgit est revenu à un flottement géré — déterminé par le marché, la Banque Negara Malaysia (BNM) n'intervenant que pour lisser les mouvements désordonnés et non pour défendre un niveau donné. Il n'existe aujourd'hui aucun niveau « correct » officiel.
   - q: Pourquoi le taux que me donne ma banque ou mon bureau de change est-il moins bon que le taux publié par la BNM ?
-    a: Parce que le taux de référence USD/MYR de KL de la BNM est un indice de marché calculé à partir du marché interbancaire, utilisé pour les contrats et la valorisation — ce n'est pas un prix de détail. Les banques et les bureaux de change ajoutent leur propre écart (spread) par-dessus, de sorte que vous traiterez toujours à un taux moins favorable que le taux de référence. Le taux de référence était de 4.0944 au 24 juillet 2026, mais c'est l'indice, et non ce qu'un client paie réellement au guichet.
+    a: Parce que le taux de référence USD/MYR de KL de la BNM est un indice de marché calculé à partir du marché interbancaire, utilisé pour les contrats et la valorisation — ce n'est pas un prix de détail. Les banques et les bureaux de change ajoutent leur propre écart (spread) par-dessus, de sorte que vous traiterez toujours à un taux moins favorable que le taux de référence. Le taux de référence était de 4.0841 au 23 octobre 2026, mais c'est l'indice, et non ce qu'un client paie réellement au guichet.
 ---
 
 ## En un coup d'oeil
 
 | Indicateur | Valeur | À la date du | Source |
 | --- | --- | --- | --- |
-| Taux de référence USD/MYR de KL | 4.0944 | 24 juillet 2026 | BNM (FMIP) |
-| Volume quotidien de change | 19.03 milliards de dollars US | 24 juillet 2026 | BNM (FMIP) |
+| Taux de référence USD/MYR de KL | 4.0841 | 23 octobre 2026 | BNM (FMIP) |
+| Volume quotidien de change | 20.41 milliards de dollars US | 23 octobre 2026 | BNM (FMIP) |
 | Régime | Flottement administré | — | BNM |
 | Émetteur | Bank Negara Malaysia | — | BNM |
 
@@ -145,8 +145,8 @@ réellement des choses opposées.
 
 ## Lire correctement une cotation
 
-- **Sens de la cotation.** Un USD/MYR de 4.0944 signifie qu'un dollar US achète
-  4.0944 ringgit. Quand ce *nombre monte*, le ringgit s'est *affaibli*. Cette
+- **Sens de la cotation.** Un USD/MYR de 4.0841 signifie qu'un dollar US achète
+  4.0841 ringgit. Quand ce *nombre monte*, le ringgit s'est *affaibli*. Cette
   inversion est l'erreur de lecture la plus courante.
 - **Taux de référence par rapport à votre taux.** Le taux de référence de la BNM
   est un indice de marché. Les bureaux de change et les banques ajoutent une

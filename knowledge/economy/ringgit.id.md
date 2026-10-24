@@ -10,19 +10,19 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Ringgit (MYR) adalah mata uang Malaysia, yang dikeluarkan oleh Bank Negara Malaysia. Ia mengambang — nilainya ditentukan oleh pasar, bukan ditetapkan oleh pemerintah, suatu perubahan yang dibuat setelah patokan yang diperkenalkan pada 1998 dihapuskan pada 2005. Kurs rujukan KL USD/MYR adalah 4.0944 per 24 Juli 2026, dan perputaran valuta asing harian adalah USD 19.03 miliar (BNM Financial Markets Investor Portal)."
+answer: "Ringgit (MYR) adalah mata uang Malaysia, yang dikeluarkan oleh Bank Negara Malaysia. Ia mengambang — nilainya ditentukan oleh pasar, bukan ditetapkan oleh pemerintah, suatu perubahan yang dibuat setelah patokan yang diperkenalkan pada 1998 dihapuskan pada 2005. Kurs rujukan KL USD/MYR adalah 4.0841 per 23 Oktober 2026, dan perputaran valuta asing harian adalah USD 20.41 miliar (BNM Financial Markets Investor Portal)."
 keyTakeaways:
-  - "Kurs rujukan KL USD/MYR adalah 4.0944 per 24 Juli 2026"
-  - "Perputaran FX harian adalah USD 19.03 miliar pada tanggal yang sama"
+  - "Kurs rujukan KL USD/MYR adalah 4.0841 per 23 Oktober 2026"
+  - "Perputaran FX harian adalah USD 20.41 miliar pada tanggal yang sama"
   - "Ringgit mengambang — ia dipatok pada 3.80 terhadap dolar AS dari 1998 hingga 2005"
   - "Ia digerakkan terutama oleh harga komoditas, perbedaan suku bunga, dan sentimen risiko global"
   - "Ringgit yang lebih lemah membantu pengekspor dan pariwisata, serta menaikkan biaya impor dan studi di luar negeri"
 appliesTo: "Siapa saja yang terpapar nilai tukar — pengimpor, pengekspor, wisatawan, pelajar di luar negeri, dan investor."
 
 lang: "id"
-sourceContentHash: "a0d224345b9024d5"
+sourceContentHash: "3f4c12c7b0ab0483"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -43,7 +43,7 @@ sources:
   - title: "Portal Investor Pasar Keuangan — kurs rujukan dan perputaran (Financial Markets Investor Portal — reference rates and turnover)"
     url: "https://financialmarkets.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
-    date: "2026-07-24"
+    date: "2026-10-23"
   - title: "Kebijakan Valuta Asing (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
@@ -61,19 +61,19 @@ related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
 faq:
   - q: Jika angka USD/MYR naik, apakah ringgit menjadi lebih kuat atau lebih lemah?
-    a: Lebih lemah. USD/MYR 4.0944 berarti satu dolar AS membeli 4.0944 ringgit, jadi ketika angka itu naik setiap dolar membeli lebih banyak ringgit dan ringgit telah melemah. Artikel ini menyebut pembalikan ini sebagai salah baca yang paling umum. "Ringgit jatuh" juga tidak bermakna tanpa menyebut mata uang yang satunya, karena ringgit bisa melemah terhadap dolar sambil menguat terhadap yen atau euro pada saat yang sama.
+    a: Lebih lemah. USD/MYR 4.0841 berarti satu dolar AS membeli 4.0841 ringgit, jadi ketika angka itu naik setiap dolar membeli lebih banyak ringgit dan ringgit telah melemah. Artikel ini menyebut pembalikan ini sebagai salah baca yang paling umum. "Ringgit jatuh" juga tidak bermakna tanpa menyebut mata uang yang satunya, karena ringgit bisa melemah terhadap dolar sambil menguat terhadap yen atau euro pada saat yang sama.
   - q: Apakah ringgit masih dipatok ke dolar AS pada 3.80?
     a: Tidak. Malaysia mematok ringgit pada 3.80 terhadap dolar AS pada September 1998 selama Krisis Keuangan Asia, bersama kontrol modal, dan patokan itu bertahan hampir tujuh tahun. Patokan dicabut pada 2005, dan ringgit kembali ke mengambang terkelola — ditentukan pasar, dengan Bank Negara Malaysia hadir hanya untuk meredam pergerakan yang tidak tertib, bukan untuk mempertahankan suatu tingkat tertentu. Tidak ada tingkat "benar" yang resmi hari ini.
   - q: Mengapa kurs yang diberikan bank atau penukar uang saya lebih buruk daripada kurs yang diterbitkan BNM?
-    a: Karena kurs rujukan USD/MYR KL dari BNM adalah tolok ukur pasar yang dihitung dari pasar antarbank, digunakan untuk kontrak dan penilaian — bukan harga eceran. Bank dan penukar uang menambahkan spread mereka sendiri di atasnya, sehingga Anda akan selalu bertransaksi pada kurs yang lebih buruk daripada kurs rujukan. Kurs rujukan adalah 4.0944 per 24 Juli 2026, tetapi itu tolok ukur, bukan yang sebenarnya dibayar pelanggan di konter.
+    a: Karena kurs rujukan USD/MYR KL dari BNM adalah tolok ukur pasar yang dihitung dari pasar antarbank, digunakan untuk kontrak dan penilaian — bukan harga eceran. Bank dan penukar uang menambahkan spread mereka sendiri di atasnya, sehingga Anda akan selalu bertransaksi pada kurs yang lebih buruk daripada kurs rujukan. Kurs rujukan adalah 4.0841 per 23 Oktober 2026, tetapi itu tolok ukur, bukan yang sebenarnya dibayar pelanggan di konter.
 ---
 
 ## Sekilas pandang
 
 | Metrik | Nilai | Per | Sumber |
 | --- | --- | --- | --- |
-| Kurs rujukan KL USD/MYR | 4.0944 | 24 Juli 2026 | BNM (FMIP) |
-| Perputaran FX harian | USD 19.03 miliar | 24 Juli 2026 | BNM (FMIP) |
+| Kurs rujukan KL USD/MYR | 4.0841 | 23 Oktober 2026 | BNM (FMIP) |
+| Perputaran FX harian | USD 20.41 miliar | 23 Oktober 2026 | BNM (FMIP) |
 | Rezim | Mengambang terkendali | — | BNM |
 | Penerbit | Bank Negara Malaysia | — | BNM |
 
@@ -145,8 +145,8 @@ kepentingan yang berbeda benar-benar menginginkan hal yang bertentangan.
 
 ## Membaca kutipan kurs dengan benar
 
-- **Arah kutipan harga.** USD/MYR pada 4.0944 berarti satu dolar AS
-  membeli 4.0944 ringgit. Ketika *angka itu naik*, ringgit telah
+- **Arah kutipan harga.** USD/MYR pada 4.0841 berarti satu dolar AS
+  membeli 4.0841 ringgit. Ketika *angka itu naik*, ringgit telah
   *melemah*. Pembalikan ini adalah kesalahan baca yang paling umum.
 - **Kurs rujukan dibandingkan kurs Anda.** Kurs rujukan BNM adalah acuan
   pasar. Penukar uang dan bank menambahkan spread, jadi Anda akan

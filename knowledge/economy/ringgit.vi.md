@@ -10,19 +10,19 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Đồng ringgit (MYR) là đồng tiền của Malaysia, do Bank Negara Malaysia phát hành. Nó thả nổi — giá trị của nó do thị trường ấn định, không phải do chính phủ cố định, một thay đổi được thực hiện sau khi cơ chế neo tỷ giá được giới thiệu năm 1998 bị gỡ bỏ vào năm 2005. Tỷ giá tham chiếu KL USD/MYR là 4,0944 tính đến ngày 24 tháng 7 năm 2026, và khối lượng giao dịch ngoại hối hằng ngày là USD 19.03 tỷ (BNM Financial Markets Investor Portal)."
+answer: "Đồng ringgit (MYR) là đồng tiền của Malaysia, do Bank Negara Malaysia phát hành. Nó thả nổi — giá trị của nó do thị trường ấn định, không phải do chính phủ cố định, một thay đổi được thực hiện sau khi cơ chế neo tỷ giá được giới thiệu năm 1998 bị gỡ bỏ vào năm 2005. Tỷ giá tham chiếu KL USD/MYR là 4,0841 tính đến ngày 23 tháng 10 năm 2026, và khối lượng giao dịch ngoại hối hằng ngày là USD 20.41 tỷ (BNM Financial Markets Investor Portal)."
 keyTakeaways:
-  - "Tỷ giá tham chiếu KL USD/MYR là 4,0944 tính đến ngày 24 tháng 7 năm 2026"
-  - "Khối lượng giao dịch ngoại hối hằng ngày là USD 19.03 tỷ vào cùng ngày"
+  - "Tỷ giá tham chiếu KL USD/MYR là 4,0841 tính đến ngày 23 tháng 10 năm 2026"
+  - "Khối lượng giao dịch ngoại hối hằng ngày là USD 20.41 tỷ vào cùng ngày"
   - "Đồng ringgit thả nổi — nó được neo ở mức 3,80 so với đô la Mỹ từ năm 1998 đến năm 2005"
   - "Nó chủ yếu được dẫn dắt bởi giá hàng hóa nguyên liệu, chênh lệch lãi suất và khẩu vị rủi ro toàn cầu"
   - "Một đồng ringgit yếu hơn giúp các nhà xuất khẩu và du lịch, và làm tăng chi phí nhập khẩu và du học"
 appliesTo: "Bất kỳ ai phơi nhiễm với tỷ giá hối đoái — nhà nhập khẩu, nhà xuất khẩu, người đi du lịch, du học sinh và nhà đầu tư."
 
 lang: "vi"
-sourceContentHash: "a0d224345b9024d5"
+sourceContentHash: "3f4c12c7b0ab0483"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -43,7 +43,7 @@ sources:
   - title: "Cổng thông tin Nhà đầu tư Thị trường Tài chính — tỷ giá tham chiếu và khối lượng giao dịch (Financial Markets Investor Portal — reference rates and turnover)"
     url: "https://financialmarkets.bnm.gov.my/"
     publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
-    date: "2026-07-24"
+    date: "2026-10-23"
   - title: "Chính sách Ngoại hối (Foreign Exchange Policy)"
     url: "https://www.bnm.gov.my/"
     publisher: "Ngân hàng Trung ương Malaysia (Bank Negara Malaysia)"
@@ -61,19 +61,19 @@ related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
 faq:
   - q: Nếu con số USD/MYR tăng lên, đồng ringgit mạnh hơn hay yếu đi?
-    a: Yếu đi. USD/MYR bằng 4.0944 nghĩa là một đô la Mỹ mua được 4.0944 ringgit, nên khi con số đó tăng thì mỗi đô la mua được nhiều ringgit hơn và đồng ringgit đã yếu đi. Bài viết gọi sự đảo ngược này là cách hiểu sai phổ biến nhất. Câu "ringgit giảm" cũng vô nghĩa nếu không nêu tên đồng tiền còn lại, vì nó có thể yếu đi so với đô la trong khi đồng thời mạnh lên so với yên hoặc euro.
+    a: Yếu đi. USD/MYR bằng 4.0841 nghĩa là một đô la Mỹ mua được 4.0841 ringgit, nên khi con số đó tăng thì mỗi đô la mua được nhiều ringgit hơn và đồng ringgit đã yếu đi. Bài viết gọi sự đảo ngược này là cách hiểu sai phổ biến nhất. Câu "ringgit giảm" cũng vô nghĩa nếu không nêu tên đồng tiền còn lại, vì nó có thể yếu đi so với đô la trong khi đồng thời mạnh lên so với yên hoặc euro.
   - q: Ringgit có còn được neo vào đô la Mỹ ở mức 3.80 không?
     a: Không. Malaysia neo ringgit ở mức 3.80 so với đô la Mỹ vào tháng 9 năm 1998 trong cuộc Khủng hoảng Tài chính châu Á, cùng với các biện pháp kiểm soát vốn, và mức neo này duy trì gần bảy năm. Nó được dỡ bỏ vào năm 2005, và ringgit trở lại chế độ thả nổi có quản lý — do thị trường quyết định, với Ngân hàng Trung ương Malaysia (BNM) chỉ hiện diện để làm dịu các biến động hỗn loạn chứ không để bảo vệ một mức cụ thể. Ngày nay không có mức "đúng" chính thức nào.
   - q: Vì sao tỷ giá mà ngân hàng hay quầy đổi tiền của tôi đưa ra lại tệ hơn tỷ giá BNM công bố?
-    a: Bởi vì tỷ giá tham chiếu USD/MYR tại KL của BNM là một chuẩn mực thị trường được tính từ thị trường liên ngân hàng, dùng cho hợp đồng và định giá — không phải giá bán lẻ. Ngân hàng và quầy đổi tiền cộng thêm phần chênh lệch (spread) riêng của họ lên trên, nên bạn luôn giao dịch ở mức tệ hơn tỷ giá tham chiếu. Tỷ giá tham chiếu là 4.0944 tính đến ngày 24 tháng 7 năm 2026, nhưng đó là chuẩn mực, không phải cái mà khách hàng thực sự trả tại quầy.
+    a: Bởi vì tỷ giá tham chiếu USD/MYR tại KL của BNM là một chuẩn mực thị trường được tính từ thị trường liên ngân hàng, dùng cho hợp đồng và định giá — không phải giá bán lẻ. Ngân hàng và quầy đổi tiền cộng thêm phần chênh lệch (spread) riêng của họ lên trên, nên bạn luôn giao dịch ở mức tệ hơn tỷ giá tham chiếu. Tỷ giá tham chiếu là 4.0841 tính đến ngày 23 tháng 10 năm 2026, nhưng đó là chuẩn mực, không phải cái mà khách hàng thực sự trả tại quầy.
 ---
 
 ## Tổng quan nhanh
 
 | Chỉ tiêu | Giá trị | Tính đến | Nguồn |
 | --- | --- | --- | --- |
-| Tỷ giá tham chiếu KL USD/MYR | 4,0944 | 24 tháng 7 năm 2026 | BNM (FMIP) |
-| Khối lượng giao dịch ngoại hối hằng ngày | USD 19.03 tỷ | 24 tháng 7 năm 2026 | BNM (FMIP) |
+| Tỷ giá tham chiếu KL USD/MYR | 4,0841 | 23 tháng 10 năm 2026 | BNM (FMIP) |
+| Khối lượng giao dịch ngoại hối hằng ngày | USD 20.41 tỷ | 23 tháng 10 năm 2026 | BNM (FMIP) |
 | Chế độ | Thả nổi có quản lý | — | BNM |
 | Đơn vị phát hành | Bank Negara Malaysia | — | BNM |
 
@@ -117,7 +117,7 @@ Một dịch chuyển của đồng tiền không bao giờ đơn giản là «t
 
 ## Đọc một báo giá tỷ giá cho đúng
 
-- **Hướng của báo giá.** USD/MYR ở mức 4,0944 có nghĩa là một đô la Mỹ mua được 4,0944 ringgit. Khi *con số đó tăng*, đồng ringgit đã *yếu đi*. Sự đảo ngược này là cách đọc sai phổ biến nhất.
+- **Hướng của báo giá.** USD/MYR ở mức 4,0841 có nghĩa là một đô la Mỹ mua được 4,0841 ringgit. Khi *con số đó tăng*, đồng ringgit đã *yếu đi*. Sự đảo ngược này là cách đọc sai phổ biến nhất.
 - **Tỷ giá tham chiếu so với tỷ giá của bạn.** Tỷ giá tham chiếu của BNM là một chuẩn thị trường. Các đại lý đổi tiền và ngân hàng thêm một biên chênh lệch, nên bạn sẽ luôn giao dịch kém hơn tỷ giá tham chiếu.
 - **Chọn phép so sánh của bạn.** Đồng ringgit có thể yếu đi so với đô la trong khi mạnh lên so với yên hoặc euro cùng một lúc. «Đồng ringgit giảm» là vô nghĩa nếu không nêu tên đồng tiền kia.
 

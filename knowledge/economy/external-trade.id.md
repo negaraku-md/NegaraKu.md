@@ -11,19 +11,19 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia mencatatkan ekspor bernilai RM177.9 miliar dan impor bernilai RM163.0 miliar pada Juni 2026, menghasilkan surplus perdagangan RM14.9 miliar — total perdagangan RM340.9 miliar (DOSM, dirilis pada 20 Juli 2026). Malaysia telah mencatatkan surplus perdagangan yang berkelanjutan selama beberapa dekade. Sekitar 22% dari ekspor adalah re-ekspor: barang yang melewati Malaysia dan bukan dihasilkan di sini."
+answer: "Malaysia mencatatkan ekspor bernilai RM215.1 miliar dan impor bernilai RM181.4 miliar pada September 2026, menghasilkan surplus perdagangan RM33.7 miliar — total perdagangan RM396.5 miliar (DOSM, dirilis pada 19 Oktober 2026). Malaysia telah mencatatkan surplus perdagangan yang berkelanjutan selama beberapa dekade. Sekitar 25% dari ekspor adalah re-ekspor: barang yang melewati Malaysia dan bukan dihasilkan di sini."
 keyTakeaways:
-  - "Juni 2026: ekspor RM177.9bn, impor RM163.0bn, surplus RM14.9bn"
-  - "Total perdagangan adalah RM340.9bn — lebih besar dari PDB bulanan, karena perdagangan menghitung arus kotor"
-  - "Re-ekspor berjumlah RM39.3bn, 22.1% dari keseluruhan ekspor — barang yang melewati, bukan dihasilkan di sini"
-  - "Ekspor domestik (yang benar-benar dihasilkan di Malaysia) berjumlah RM138.6bn, 77.9% dari jumlah keseluruhan"
+  - "September 2026: ekspor RM215.1bn, impor RM181.4bn, surplus RM33.7bn"
+  - "Total perdagangan adalah RM396.5bn — lebih besar dari PDB bulanan, karena perdagangan menghitung arus kotor"
+  - "Re-ekspor berjumlah RM53.1bn, 24.7% dari keseluruhan ekspor — barang yang melewati, bukan dihasilkan di sini"
+  - "Ekspor domestik (yang benar-benar dihasilkan di Malaysia) berjumlah RM162.0bn, 75.3% dari jumlah keseluruhan"
   - "DOSM menerbitkan perdagangan luar negeri setiap bulan, sekitar tiga minggu setelah bulan terkait berakhir"
 appliesTo: "Siapa saja yang membaca berita perdagangan Malaysia — eksportir, importir, investor, dan analis."
 
 lang: "id"
-sourceContentHash: "09facf393be3e0fa"
+sourceContentHash: "b4ef299128a9a303"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -41,10 +41,10 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Statistik Perdagangan Luar Negeri Bulanan, Juni 2026 (Monthly External Trade Statistics, June 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
+  - title: "Statistik Perdagangan Luar Negeri Bulanan, September 2026 (Monthly External Trade Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
     publisher: "Departemen Statistik Malaysia (DOSM)"
-    date: "2026-07-20"
+    date: "2026-10-19"
   - title: "Statistik Ekspor Impor menurut Negara Bagian, Mei 2026 (Export Import Statistics by State, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
     publisher: "Departemen Statistik Malaysia (DOSM)"
@@ -62,17 +62,17 @@ keywords: ["Malaysia trade surplus", "Malaysia exports imports", "perdagangan lu
 
 ## Sekilas pandang
 
-| Metrik | Juni 2026 | Perubahan T-ke-T | Sumber |
+| Metrik | September 2026 | Perubahan T-ke-T | Sumber |
 | --- | --- | --- | --- |
-| Total ekspor | RM177.9 miliar | +45.4% | DOSM |
-| Total impor | RM163.0 miliar | +43.9% | DOSM |
-| Total perdagangan | RM340.9 miliar | +44.7% | DOSM |
-| **Surplus perdagangan** | **RM14.9 miliar** | +64.9% | DOSM |
-| Ekspor domestik | RM138.6 miliar (77.9%) | +44.6% | DOSM |
-| Re-ekspor | RM39.3 miliar (22.1%) | +48.7% | DOSM |
+| Total ekspor | RM215.1 miliar | +54.5% | DOSM |
+| Total impor | RM181.4 miliar | +52.7% | DOSM |
+| Total perdagangan | RM396.5 miliar | +53.7% | DOSM |
+| **Surplus perdagangan** | **RM33.7 miliar** | +64.9% | DOSM |
+| Ekspor domestik | RM162.0 miliar (75.3%) | +54.7% | DOSM |
+| Re-ekspor | RM53.1 miliar (24.7%) | +53.7% | DOSM |
 
-*Dirilis pada 20 Juli 2026. Sepanjang Januari–Juni 2026, total
-perdagangan tumbuh 22.4% dan ekspor 27.5% secara kumulatif.*
+*Dirilis pada 19 Oktober 2026. Sepanjang Januari–September 2026, total
+perdagangan tumbuh 30.1% dan ekspor 34.0% secara kumulatif.*
 
 ## Surplus adalah pengurangan, bukan berita utama
 
@@ -80,32 +80,31 @@ Kesalahan paling umum dalam membaca liputan perdagangan adalah menganggap
 surplus sebagai satu angka besar tersendiri. Ia bukan begitu — ia hanyalah
 ekspor dikurangi impor:
 
-> RM177.9bn − RM163.0bn = **RM14.9bn**
+> RM215.1bn − RM181.4bn = **RM33.7bn**
 
 Hal ini penting karena kedua sisi besar dan selisih
-antara keduanya kecil. Lonjakan ekspor sebesar 45% terdengar
-transformatif, tetapi impor juga meningkat 43.9% pada saat yang sama,
+antara keduanya kecil. Lonjakan ekspor sebesar 54.5% terdengar
+transformatif, tetapi impor juga meningkat 52.7% pada saat yang sama,
 jadi kebanyakan hasil ekspor tambahan itu dibelanjakan untuk impor
-tambahan. Surplus itu hanya bergerak beberapa miliar ringgit, bukan
-ratusan.
+tambahan. Surplus itu — RM33.7 miliar dibandingkan arus kotor hampir RM400
+miliar — bergerak jauh lebih sedikit daripada sisi mana pun.
 
 Ini juga berarti surplus itu **tidak stabil secara struktural**. Ketika
 Anda mengurangi dua angka yang besar dan hampir sama, pergerakan persentase
 kecil pada sisi mana pun akan mengayun hasilnya secara
-mendadak. Itulah sebabnya surplus dapat meningkat 64.9% tahun-ke-tahun
-dan pada saat yang sama jatuh mendadak dibandingkan bulan sebelumnya — kedua
-pernyataan itu benar pada Juni 2026.
+mendadak. Itulah sebabnya surplus dapat berayun jauh lebih tajam, dari bulan
+ke bulan, dibandingkan ekspor atau impor itu sendiri.
 
 ## Re-ekspor: angka yang melebih-lebihkan industri Malaysia
 
 DOSM membagi ekspor menjadi dua hal yang sangat berbeda:
 
-- **Ekspor domestik** — RM138.6 miliar, barang yang benar-benar
+- **Ekspor domestik** — RM162.0 miliar, barang yang benar-benar
   dihasilkan di Malaysia.
-- **Re-ekspor** — RM39.3 miliar, barang yang diimpor dan
+- **Re-ekspor** — RM53.1 miliar, barang yang diimpor dan
   kemudian dikirim ulang, dengan sedikit atau tanpa transformasi.
 
-Re-ekspor merupakan **22.1% dari total ekspor** pada Juni 2026.
+Re-ekspor merupakan **24.7% dari total ekspor** pada September 2026.
 Ia menggembungkan angka ekspor dan impor sekaligus, dan
 mencerminkan peran Malaysia sebagai hab perdagangan dan logistik — Port
 Klang, Pulau Pinang, Johor — sama seperti perannya sebagai produsen.
@@ -149,4 +148,4 @@ paling terpapar perdagangan di dunia.
 - Output dan komposisi: [Gambaran Umum PDB Malaysia](/id/economy/gdp-overview)
 - Satu sektor ekspor utama: [Sektor Minyak Sawit Malaysia](/id/economy/palm-oil-sector)
 - Sumber utama:
-  [Statistik Perdagangan Luar Negeri Bulanan DOSM](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026)
+  [Statistik Perdagangan Luar Negeri Bulanan DOSM](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026)

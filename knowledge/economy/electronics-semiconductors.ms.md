@@ -11,10 +11,10 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Produk elektrik dan elektronik (E&E) merupakan kategori eksport terbesar Malaysia dengan jarak yang jauh. Pada Januari 2026, eksport E&E bernilai RM70.53 bilion — peningkatan 39.5% tahun-ke-tahun dan 48% daripada jumlah eksport Malaysia (MIDA, 20 Februari 2026). Kekuatan Malaysia tertumpu pada bahagian hujung belakang rantaian semikonduktor: pemasangan, pengujian dan pembungkusan, bukannya fabrikasi cip."
+answer: "Produk elektrik dan elektronik (E&E) merupakan kategori eksport terbesar Malaysia dengan jarak yang jauh. Pada September 2026, eksport E&E bernilai RM110.23 bilion — peningkatan 69.2% tahun-ke-tahun dan 51.2% daripada jumlah eksport Malaysia (DOSM Statistik Perdagangan Luar Bulanan, dikeluarkan 19 Oktober 2026). Kekuatan Malaysia tertumpu pada bahagian hujung belakang rantaian semikonduktor: pemasangan, pengujian dan pembungkusan, bukannya fabrikasi cip."
 keyTakeaways:
-  - "E&E menyumbang 48% daripada jumlah eksport pada Januari 2026, bernilai RM70.53 bilion"
-  - "Eksport E&E berkembang 39.5% tahun-ke-tahun pada bulan tersebut, didorong oleh permintaan semikonduktor berkaitan AI"
+  - "E&E menyumbang 51.2% daripada jumlah eksport pada September 2026, bernilai RM110.23 bilion"
+  - "Eksport E&E berkembang 69.2% tahun-ke-tahun pada bulan tersebut, didorong oleh permintaan semikonduktor berkaitan AI"
   - "Malaysia pakar dalam pemasangan, pengujian dan pembungkusan — bahagian hujung belakang, bukan fabrikasi"
   - "Pulau Pinang ialah pusat bersejarah, bermula sejak zon perdagangan bebas yang ditubuhkan pada 1972"
   - "Penumpuan ini merupakan kekuatan sekali gus kelemahan: satu sektor menanggung kira-kira separuh daripada asas eksport"
@@ -22,8 +22,8 @@ appliesTo: "Sesiapa yang menilai pendedahan ekonomi Malaysia — pelabur, pencar
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "stale"
-sourceContentHash: "fa1a846b1a7d15a8"
+translationStatus: "in-sync"
+sourceContentHash: "8a0b775a88e8a175"
 
 status: "published"
 aiAssisted: true
@@ -45,9 +45,10 @@ sources:
     url: "https://www.investmalaysia.gov.my/resources/latest-announcements/malaysias-trade-hits-historic-high-in-january-2026-ee-exports-continue-to-lead-growth/"
     publisher: "Lembaga Pembangunan Pelaburan Malaysia (MIDA) / InvestMalaysia"
     date: "2026-02-20"
-  - title: "Statistik Perdagangan Luar Bulanan (Monthly External Trade Statistics)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
+  - title: "Statistik Perdagangan Luar Bulanan, September 2026 (Monthly External Trade Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
+    date: "2026-10-19"
   - title: "Kementerian Pelaburan, Perdagangan dan Industri (MITI) (Ministry of Investment, Trade and Industry (MITI))"
     url: "https://www.miti.gov.my/"
     publisher: "Kementerian Pelaburan, Perdagangan dan Industri (MITI)"
@@ -62,7 +63,7 @@ faq:
   - q: Adakah Malaysia membuat cip canggih seperti Taiwan, atau sesuatu yang berbeza?
     a: Sesuatu yang berbeza. Pembuatan semikonduktor mempunyai dua bahagian, dan kekuatan Malaysia terletak pada bahagian hiliran (back end) — pemasangan, pengujian dan pembungkusan (ATP), iaitu peringkat apabila wafer siap menjadi cip yang boleh digunakan. Malaysia mempunyai sangat sedikit kilang fabrikasi termaju (hadapan/front-end). Ulasan yang menganggap Malaysia sebagai pesaing kepada kilang fab Taiwan sebenarnya membandingkan mata rantai yang berbeza dalam rangkaian yang sama; Malaysia telah melakukan kerja bahagian hiliran sejak 1970-an.
   - q: Mengapa E&E yang menyumbang separuh eksport disebut sebagai kerentanan, bukan sekadar kekuatan?
-    a: 'Kerana satu kategori produk yang membawa kira-kira separuh daripada asas eksport memusatkan risiko dalam tiga cara. Kitaran: semikonduktor bersifat naik-turun, jadi sektor yang berkembang 39.5% dalam setahun boleh mengecut dengan mendadak. Kedudukan dalam rantaian: pemasangan dan pengujian hiliran lebih mudah dicabar berbanding fabrikasi, jadi pesaing boleh membina kapasiti yang sama. Geopolitik: kawalan eksport dan dasar pemindahan semula pengeluaran (reshoring) yang digubal di ekonomi lain memberi kesan langsung kepada kilang di Malaysia.'
+    a: 'Kerana satu kategori produk yang membawa kira-kira separuh daripada asas eksport memusatkan risiko dalam tiga cara. Kitaran: semikonduktor bersifat naik-turun, jadi sektor yang berkembang 69.2% dalam setahun boleh mengecut dengan mendadak. Kedudukan dalam rantaian: pemasangan dan pengujian hiliran lebih mudah dicabar berbanding fabrikasi, jadi pesaing boleh membina kapasiti yang sama. Geopolitik: kawalan eksport dan dasar pemindahan semula pengeluaran (reshoring) yang digubal di ekonomi lain memberi kesan langsung kepada kilang di Malaysia.'
   - q: Mengapa Pulau Pinang, khususnya, menjadi pusat industri cip Malaysia?
     a: Ia berpunca daripada keputusan dasar pada 1972. Pulau Pinang menubuhkan zon perdagangan bebas dan menarik firma elektronik asing dengan insentif cukai, import komponen bebas duti dan tenaga kerja yang tersedia. Syarikat semikonduktor Amerika dan Jepun menubuhkan operasi pemasangan, lalu terbentuklah satu kelompok (cluster). Kelompok semakin mendalam dari semasa ke semasa — pembekal, penyelenggaraan peralatan, jurutera terlatih tempatan — sebab itulah Pulau Pinang dan Kulim masih menumpukan begitu banyak sektor ini setengah abad kemudian.
 ---
@@ -71,9 +72,9 @@ faq:
 
 | Metrik | Nilai | Tempoh | Sumber |
 | --- | --- | --- | --- |
-| Eksport E&E | RM70.53 bilion | Januari 2026 | MIDA |
-| Bahagian daripada jumlah eksport | 48% | Januari 2026 | MIDA |
-| Pertumbuhan tahun-ke-tahun | +39.5% | Januari 2026 | MIDA |
+| Eksport E&E | RM110.23 bilion | September 2026 | DOSM |
+| Bahagian daripada jumlah eksport | 51.2% | September 2026 | DOSM |
+| Pertumbuhan tahun-ke-tahun | +69.2% | September 2026 | DOSM |
 | Kedudukan dalam rantaian bekalan | Pemasangan, ujian, pembungkusan (hujung belakang) | — | MIDA / MITI |
 | Pusat bersejarah | Pulau Pinang, zon perdagangan bebas sejak 1972 | — | — |
 
@@ -82,7 +83,7 @@ faq:
 Malaysia sering digambarkan sebagai ekonomi komoditi — kelapa sawit, getah,
 minyak dan gas. Gambaran itu sudah lapuk berdekad-dekad lamanya. Perkara
 tunggal terbesar yang dijual Malaysia kepada dunia ialah **elektronik**, dan
-jaraknya jauh: E&E merangkumi **48% daripada jumlah eksport** pada Januari
+jaraknya jauh: E&E merangkumi **51.2% daripada jumlah eksport** pada September
 2026.
 
 Dalam erti kata lain, kira-kira setiap satu daripada dua ringgit yang
@@ -129,9 +130,9 @@ Pinang dan Kulim menumpukan begitu banyak sektor ini.
 
 ## Kitaran AI, dan risiko di sebaliknya
 
-Lonjakan 39.5% pada Januari 2026 didorong sebahagian besarnya oleh
+Lonjakan 69.2% pada September 2026 didorong sebahagian besarnya oleh
 **permintaan global terhadap semikonduktor yang berkaitan dengan aplikasi
-kecerdasan buatan** serta kitaran naik taraf teknologi biasa, menurut MIDA.
+kecerdasan buatan** serta kitaran naik taraf teknologi biasa.
 Itu merupakan berita baik yang tulen bagi pendapatan eksport, pekerjaan dan
 pelaburan.
 
@@ -139,7 +140,7 @@ Ia juga menumpukan risiko. Tiga pendedahan berikut mengikuti secara
 langsung daripada angka-angka ini:
 
 - **Kitaran naik-turun.** Semikonduktor terkenal dengan corak lonjakan dan
-  kejatuhan. Sektor yang boleh berkembang 39.5% dalam setahun boleh
+  kejatuhan. Sektor yang boleh berkembang 69.2% dalam setahun boleh
   mengecut secara mendadak pada tahun lain, menarik separuh daripada asas
   eksport bersamanya.
 - **Kedudukan dalam rantaian.** Kerja hujung belakang lebih mudah

@@ -10,10 +10,10 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "马来西亚2026年5月的失业率为3.0%，在17.34 million人的劳动力中有513,400人失业，另有16.82 million人就业（DOSM，2026年7月10日发布）。劳动力参与率为70.9%。该失业率只计算那些无工作、可随时工作且正在积极求职的人——这就是为何即使大约十分之三的适龄劳动人口完全处于劳动力之外，失业率仍能保持在低水平。"
+answer: "马来西亚2026年8月的失业率为2.9%，在17.39 million人的劳动力中有511,600人失业，另有16.87 million人就业（DOSM，2026年10月9日发布）。劳动力参与率为71.0%。该失业率只计算那些无工作、可随时工作且正在积极求职的人——这就是为何即使大约十分之三的适龄劳动人口完全处于劳动力之外，失业率仍能保持在低水平。"
 keyTakeaways:
-  - "2026年5月失业率为3.0%——17.34 million的劳动力中有513,400人失业"
-  - "16.82 million人就业；参与率为70.9%"
+  - "2026年8月失业率为2.9%——17.39 million的劳动力中有511,600人失业"
+  - "16.87 million人就业；参与率为71.0%"
   - "要被计入失业人数，必须同时满足无工作、可工作且正在积极求职三项条件"
   - "大约29%的适龄劳动人口完全处于劳动力之外，根本不被计入统计"
   - "DOSM每月发布劳动力统计，通常在参考月份之后约六周公布"
@@ -21,8 +21,8 @@ appliesTo: "任何需要解读马来西亚劳动市场数据的人——求职�
 
 lang: "zh"
 masterLanguage: "en"
-translationStatus: "stale"
-sourceContentHash: "f1bb9140bdec9bd9"
+translationStatus: "in-sync"
+sourceContentHash: "e6a8d065e2c62d32"
 
 status: "published"
 aiAssisted: true
@@ -40,10 +40,10 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "劳动力统计，2026年5月 (Labour Force Statistics, May 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026"
+  - title: "劳动力统计，2026年8月 (Labour Force Statistics, August 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
     publisher: "马来西亚统计局 (DOSM)"
-    date: "2026-07-10"
+    date: "2026-10-09"
   - title: "劳动力调查报告，2026年第一季度 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "马来西亚统计局 (DOSM)"
@@ -63,19 +63,19 @@ keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysi
 
 | 指标 | 数值 | 期间 | 来源 |
 | --- | --- | --- | --- |
-| 失业率 | 3.0% | 2026年5月 | DOSM |
-| 失业人数 | 513,400 | 2026年5月 | DOSM |
-| 劳动力 | 17.34 million | 2026年5月 | DOSM |
-| 就业人数 | 16.82 million | 2026年5月 | DOSM |
-| 劳动力参与率 | 70.9% | 2026年5月 | DOSM |
+| 失业率 | 2.9% | 2026年8月 | DOSM |
+| 失业人数 | 511,600 | 2026年8月 | DOSM |
+| 劳动力 | 17.39 million | 2026年8月 | DOSM |
+| 就业人数 | 16.87 million | 2026年8月 | DOSM |
+| 劳动力参与率 | 71.0% | 2026年8月 | DOSM |
 
-*2026年7月10日发布。劳动力统计的滞后比物价统计更久——7月发布的数字
-描述的是5月的情况。*
+*2026年10月9日发布。劳动力统计的滞后比物价统计更久——10月发布的数字
+描述的是8月的情况。*
 
 ## "失业"在这里到底指什么
 
-失业率3.0%并不代表97%的马来西亚人有工作。它的意思是**劳动力**中有
-3.0%处于失业状态——而劳动力是一个比总人口小得多的群体。
+失业率2.9%并不代表97%的马来西亚人有工作。它的意思是**劳动力**中有
+2.9%处于失业状态——而劳动力是一个比总人口小得多的群体。
 
 要被DOSM计入失业人数，一个人必须同时满足三项条件：
 
@@ -89,14 +89,14 @@ keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysi
 
 ## 参与率是这个故事的另一半
 
-2026年5月的参与率为70.9%。这里的算术关系很关键：
+2026年8月的参与率为71.0%。这里的算术关系很关键：
 
-- **劳动力** = 就业人数 + 失业人数 = 17.34 million
-- **参与率** = 劳动力 ÷ 适龄劳动人口 = 70.9%
+- **劳动力** = 就业人数 + 失业人数 = 17.39 million
+- **参与率** = 劳动力 ÷ 适龄劳动人口 = 71.0%
 
 也就是说，大约**29%的适龄马来西亚人完全处于劳动力之外**——学生、家庭
 主妇/主夫、照顾者、退休人士、长期患病者，以及已经灰心放弃求职的人。
-他们当中没有一个人出现在那3.0%里。
+他们当中没有一个人出现在那2.9%里。
 
 这正是失业率不该被单独解读的原因。一个失业率下降、但参与率同时下降
 的情况并不是好消息；它通常意味着人们停止求职，而不是找到了工作。
@@ -137,4 +137,4 @@ keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysi
 - 与物价一并阅读：[马来西亚通货膨胀率](/zh/economy/inflation-cpi)
 - 以及产出：[马来西亚 GDP 概览](/zh/economy/gdp-overview)
 - 主要来源：
-  [DOSM 劳动力统计](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026)
+  [DOSM 劳动力统计](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)

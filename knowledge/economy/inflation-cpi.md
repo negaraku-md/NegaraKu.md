@@ -66,13 +66,13 @@ keywords: ["Malaysia inflation rate", "CPI Malaysia", "kadar inflasi Malaysia", 
 
 | Metric | Value | Period | Source |
 | --- | --- | --- | --- |
-| Headline inflation (y-o-y) | 2.0% | May 2026 | DOSM |
-| CPI index | 137.1 (from 134.4) | May 2026 vs May 2025 | DOSM |
-| Transport | +3.8% | May 2026 | DOSM |
-| Food & beverages | +1.4% | May 2026 | DOSM |
-| Housing, water, electricity, gas | +1.2% | May 2026 | DOSM |
-| Highest state | Pahang, 2.8% | May 2026 | DOSM |
-| Lowest state | Sarawak, 0.5% | May 2026 | DOSM |
+| Headline inflation (y-o-y) | 1.8% | September 2026 | DOSM |
+| CPI index | 137.6 (from 135.2) | September 2026 vs September 2025 | DOSM |
+| Transport | +2.5% | September 2026 | DOSM |
+| Food & beverages | +1.8% | September 2026 | DOSM |
+| Housing, water, electricity, gas | +1.4% | September 2026 | DOSM |
+| Highest state | Negeri Sembilan & Labuan, 2.4% | September 2026 | DOSM |
+| Lowest state | Sarawak, 0.5% | September 2026 | DOSM |
 
 *Released 19 June 2026. DOSM publishes the CPI monthly, roughly three weeks
 after the reference month closes — so the "current" inflation figure is always
@@ -85,9 +85,9 @@ trolley says otherwise. Both can be true.
 
 The CPI tracks a **fixed basket** of goods and services weighted by what an
 average household spends. Your household is not the average one. If you drive a
-lot, your personal inflation in May 2026 leaned toward the transport figure of
-3.8%. If you rarely drive but buy a lot of groceries, you sat closer to the 1.4%
-food figure. The headline 2.0% is the weighted blend of every category at once —
+lot, your personal inflation in September 2026 leaned toward the transport figure of
+2.5%. If you rarely drive but buy a lot of groceries, you sat closer to the 1.8%
+food figure. The headline 1.8% is the weighted blend of every category at once —
 a national summary statistic, not a personal one.
 
 Two further gaps explain the rest of the disagreement:
@@ -103,15 +103,15 @@ Two further gaps explain the rest of the disagreement:
 
 Three habits make the monthly release far more informative than the headline:
 
-1. **Check the category table, not just the top line.** A 2.0% headline built on
-   transport at 3.8% is a very different economy from one built on food at 3.8%.
+1. **Check the category table, not just the top line.** A 1.8% headline built on
+   transport at 2.5% is a very different economy from one built on food at 2.5%.
 2. **Distinguish year-on-year from month-on-month.** The commonly quoted figure
    compares against the same month a year earlier. A falling *rate* still means
    prices are rising — just more slowly. Prices only fall when the rate goes
    negative.
-3. **Look at the state breakdown.** In May 2026 the national figure of 2.0%
-   concealed a range from Sarawak at 0.5% to Pahang at 2.8% — a spread wider
-   than the headline number itself.
+3. **Look at the state breakdown.** In September 2026 the national figure of 1.8%
+   concealed a range from Sarawak at 0.5% to Negeri Sembilan and Labuan at 2.4% —
+   a spread wider than the headline number itself.
 
 ## What moves Malaysian inflation
 

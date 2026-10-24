@@ -10,10 +10,10 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Kadar pengangguran Malaysia ialah 3.0% pada Mei 2026, dengan 513,400 orang menganggur daripada tenaga buruh seramai 17.34 juta dan 16.82 juta orang bekerja (DOSM, dikeluarkan 10 Julai 2026). Kadar penyertaan tenaga buruh ialah 70.9%. Kadar ini hanya mengira orang yang tiada pekerjaan, tersedia untuk bekerja dan secara aktif mencari kerja — sebab itulah ia boleh kekal rendah sedangkan kira-kira tiga daripada sepuluh rakyat Malaysia berusia bekerja kekal berada di luar tenaga buruh sepenuhnya."
+answer: "Kadar pengangguran Malaysia ialah 2.9% pada Ogos 2026, dengan 511,600 orang menganggur daripada tenaga buruh seramai 17.39 juta dan 16.87 juta orang bekerja (DOSM, dikeluarkan 9 Oktober 2026). Kadar penyertaan tenaga buruh ialah 71.0%. Kadar ini hanya mengira orang yang tiada pekerjaan, tersedia untuk bekerja dan secara aktif mencari kerja — sebab itulah ia boleh kekal rendah sedangkan kira-kira tiga daripada sepuluh rakyat Malaysia berusia bekerja kekal berada di luar tenaga buruh sepenuhnya."
 keyTakeaways:
-  - "Pengangguran ialah 3.0% pada Mei 2026 — 513,400 orang daripada tenaga buruh seramai 17.34 juta"
-  - "16.82 juta orang bekerja; kadar penyertaan ialah 70.9%"
+  - "Pengangguran ialah 2.9% pada Ogos 2026 — 511,600 orang daripada tenaga buruh seramai 17.39 juta"
+  - "16.87 juta orang bekerja; kadar penyertaan ialah 71.0%"
   - "Untuk dikira menganggur, anda mesti tiada pekerjaan, tersedia DAN secara aktif mencari kerja"
   - "Kira-kira 29% daripada populasi berusia bekerja berada di luar tenaga buruh dan langsung tidak dikira"
   - "DOSM menerbitkan statistik tenaga buruh setiap bulan, kira-kira enam minggu selepas bulan rujukan"
@@ -21,8 +21,8 @@ appliesTo: "Sesiapa yang mentafsir data pasaran buruh Malaysia — pencari kerja
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "stale"
-sourceContentHash: "f1bb9140bdec9bd9"
+translationStatus: "in-sync"
+sourceContentHash: "e6a8d065e2c62d32"
 
 status: "published"
 aiAssisted: true
@@ -40,10 +40,10 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Statistik Tenaga Buruh, Mei 2026 (Labour Force Statistics, May 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026"
+  - title: "Statistik Tenaga Buruh, Ogos 2026 (Labour Force Statistics, August 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-    date: "2026-07-10"
+    date: "2026-10-09"
   - title: "Laporan Tinjauan Tenaga Buruh, Suku Pertama 2026 (Labour Force Survey Report, First Quarter 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
@@ -63,20 +63,20 @@ keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysi
 
 | Metrik | Nilai | Tempoh | Sumber |
 | --- | --- | --- | --- |
-| Kadar pengangguran | 3.0% | Mei 2026 | DOSM |
-| Orang menganggur | 513,400 | Mei 2026 | DOSM |
-| Tenaga buruh | 17.34 juta | Mei 2026 | DOSM |
-| Orang bekerja | 16.82 juta | Mei 2026 | DOSM |
-| Kadar penyertaan tenaga buruh | 70.9% | Mei 2026 | DOSM |
+| Kadar pengangguran | 2.9% | Ogos 2026 | DOSM |
+| Orang menganggur | 511,600 | Ogos 2026 | DOSM |
+| Tenaga buruh | 17.39 juta | Ogos 2026 | DOSM |
+| Orang bekerja | 16.87 juta | Ogos 2026 | DOSM |
+| Kadar penyertaan tenaga buruh | 71.0% | Ogos 2026 | DOSM |
 
-*Dikeluarkan pada 10 Julai 2026. Statistik tenaga buruh mempunyai jeda yang
-lebih lama berbanding harga — angka yang diterbitkan pada bulan Julai
-menggambarkan bulan Mei.*
+*Dikeluarkan pada 9 Oktober 2026. Statistik tenaga buruh mempunyai jeda yang
+lebih lama berbanding harga — angka yang diterbitkan pada bulan Oktober
+menggambarkan bulan Ogos.*
 
 ## Apa yang sebenarnya dimaksudkan dengan "menganggur" di sini
 
-Kadar pengangguran 3.0% tidak bermaksud 97% rakyat Malaysia mempunyai
-pekerjaan. Ia bermaksud 3.0% daripada **tenaga buruh** menganggur — dan
+Kadar pengangguran 2.9% tidak bermaksud 97% rakyat Malaysia mempunyai
+pekerjaan. Ia bermaksud 2.9% daripada **tenaga buruh** menganggur — dan
 tenaga buruh ialah kumpulan yang jauh lebih kecil berbanding populasi
 keseluruhan.
 
@@ -96,15 +96,15 @@ untuk difahami tentang angka ini.
 
 ## Kadar penyertaan ialah separuh lagi cerita ini
 
-Pada Mei 2026 kadar penyertaan ialah 70.9%. Pengiraan yang penting:
+Pada Ogos 2026 kadar penyertaan ialah 71.0%. Pengiraan yang penting:
 
-- **Tenaga buruh** = bekerja + menganggur = 17.34 juta
-- **Kadar penyertaan** = tenaga buruh ÷ populasi berusia bekerja = 70.9%
+- **Tenaga buruh** = bekerja + menganggur = 17.39 juta
+- **Kadar penyertaan** = tenaga buruh ÷ populasi berusia bekerja = 71.0%
 
 Jadi kira-kira **29% rakyat Malaysia berusia bekerja berada sepenuhnya di
 luar tenaga buruh** — pelajar, suri rumah, penjaga, golongan bersara,
 mereka yang sakit jangka panjang, dan pencari kerja yang telah
-berputus asa. Tiada seorang pun daripada mereka muncul dalam angka 3.0%
+berputus asa. Tiada seorang pun daripada mereka muncul dalam angka 2.9%
 itu.
 
 Inilah sebabnya kadar pengangguran tidak sepatutnya dibaca secara
@@ -157,4 +157,4 @@ pasaran kerja:
 - Baca bersama harga: [Kadar Inflasi Malaysia](/economy/inflation-cpi)
 - Dan output: [Gambaran Keseluruhan KDNK Malaysia](/economy/gdp-overview)
 - Sumber utama:
-  [Statistik Tenaga Buruh DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026)
+  [Statistik Tenaga Buruh DOSM](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)

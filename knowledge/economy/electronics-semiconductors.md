@@ -66,7 +66,7 @@ faq:
   - q: Does Malaysia make advanced chips like Taiwan, or something different?
     a: Something different. Making a semiconductor has two halves, and Malaysia's strength is the back end — assembly, testing and packaging (ATP), the stage where a finished wafer becomes a usable chip. It has very few leading-edge fabrication (front-end) plants. Commentary that treats Malaysia as a rival to Taiwan's fabs is comparing different links in the same chain; Malaysia has done the back-end work since the 1970s.
   - q: Why is E&E being half of exports called a vulnerability, not just a strength?
-    a: 'Because one product category carrying roughly half the export base concentrates risk three ways. Cyclicality: semiconductors are boom-and-bust, so a sector that grew 39.5% in a year can contract sharply. Position in the chain: back-end assembly and test is more contestable than fabrication, so competitors can build the same capacity. Geopolitics: export controls and reshoring policies written in other economies land directly on Malaysian plants.'
+    a: 'Because one product category carrying roughly half the export base concentrates risk three ways. Cyclicality: semiconductors are boom-and-bust, so a sector that grew 69.2% in a year can contract sharply. Position in the chain: back-end assembly and test is more contestable than fabrication, so competitors can build the same capacity. Geopolitics: export controls and reshoring policies written in other economies land directly on Malaysian plants.'
   - q: Why is Penang, specifically, the centre of Malaysia's chip industry?
     a: It traces to a 1972 policy decision. Penang established a free trade zone and courted foreign electronics firms with tax incentives, duty-free component imports and an available workforce. American and Japanese semiconductor companies set up assembly operations, and a cluster formed. Clusters deepen over time — suppliers, equipment servicing, locally trained engineers — which is why Penang and Kulim still concentrate so much of the sector half a century later.
 ---
@@ -75,9 +75,9 @@ faq:
 
 | Metric | Value | Period | Source |
 | --- | --- | --- | --- |
-| E&E exports | RM70.53 billion | January 2026 | MIDA |
-| Share of total exports | 48% | January 2026 | MIDA |
-| Y-o-Y growth | +39.5% | January 2026 | MIDA |
+| E&E exports | RM110.23 billion | September 2026 | DOSM |
+| Share of total exports | 51.2% | September 2026 | DOSM |
+| Y-o-Y growth | +69.2% | September 2026 | DOSM |
 | Position in supply chain | Assembly, test, packaging (back end) | — | MIDA / MITI |
 | Historic centre | Penang, free trade zone from 1972 | — | — |
 
@@ -85,8 +85,8 @@ faq:
 
 Malaysia is often described as a commodity economy — palm oil, rubber, oil and
 gas. That description is decades out of date. The single largest thing Malaysia
-sells to the world is **electronics**, and it is not close: E&E made up **48% of
-total exports** in January 2026.
+sells to the world is **electronics**, and it is not close: E&E made up **51.2% of
+total exports** in September 2026.
 
 Put differently, roughly one ringgit in every two that Malaysia earns from
 exports comes from one product category. That fact shapes almost everything else
@@ -127,15 +127,15 @@ concentrate so much of the sector.
 
 ## The AI cycle, and the risk beneath it
 
-The 39.5% surge in January 2026 was driven largely by **global demand for
+The 69.2% surge in September 2026 was driven largely by **global demand for
 semiconductors tied to artificial intelligence applications** and ordinary
-technology upgrade cycles, according to MIDA. That is genuinely good news for
+technology upgrade cycles. That is genuinely good news for
 export earnings, jobs and investment.
 
 It also concentrates risk. Three exposures follow directly from the numbers:
 
 - **Cyclicality.** Semiconductors are famously boom-and-bust. A sector that can
-  grow 39.5% in a year can contract sharply in another, taking half the export
+  grow 69.2% in a year can contract sharply in another, taking half the export
   base with it.
 - **Position in the chain.** Back-end work is more contestable than fabrication.
   Competitors can and do build assembly and test capacity.

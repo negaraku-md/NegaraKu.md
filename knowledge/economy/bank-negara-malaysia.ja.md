@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "ja"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -173,7 +173,7 @@ s.15(4)）。
 MPCは年に少なくとも6回会合を開かなければならず（First Schedule（第一附表）
 第3項）、s.24は、同局に対し、会合のたびに金融政策声明——決定内容とその
 根拠——を公表することを義務付けている。OPRは、2025年7月9日の引き下げ以降
-2.75%で据え置かれており、2026年7月9日の会合でも据え置かれた。この一つの
+2.75%で据え置かれており、それ以降の毎回の会合で据え置かれ、直近では2026年9月3日に据え置かれた。この一つの
 数字がどのようにあなたの融資に影響するかについては、
 [翌日物政策金利](/ja/economy/opr-monetary-policy)を参照。
 

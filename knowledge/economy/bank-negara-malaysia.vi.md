@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "vi"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -160,7 +160,7 @@ Các quyết định của BNM được cố ý phân bổ qua nhiều cơ quan 
 
 Hai quy tắc bổ nhiệm quan trọng: Thống đốc do Yang di-Pertuan Agong bổ nhiệm nhiệm kỳ năm năm, và các Phó Thống đốc do Bộ trưởng Tài chính bổ nhiệm nhiệm kỳ ba năm (mục 15(1), mục 15(4)).
 
-MPC phải họp ít nhất sáu lần một năm (Phụ lục Thứ nhất, đoạn 3), và mục 24 buộc Ngân hàng phải công bố một tuyên bố chính sách tiền tệ — quyết định cộng với lý do — sau mỗi cuộc họp. Lãi suất Chính sách Qua đêm đã ở mức 2,75% kể từ đợt cắt giảm ngày 9 tháng 7 năm 2025 và được giữ nguyên tại cuộc họp ngày 9 tháng 7 năm 2026. Cách con số đơn lẻ đó lan tới khoản vay của bạn được trình bày trong [Lãi suất Chính sách Qua đêm](/vi/economy/opr-monetary-policy).
+MPC phải họp ít nhất sáu lần một năm (Phụ lục Thứ nhất, đoạn 3), và mục 24 buộc Ngân hàng phải công bố một tuyên bố chính sách tiền tệ — quyết định cộng với lý do — sau mỗi cuộc họp. Lãi suất Chính sách Qua đêm đã ở mức 2,75% kể từ đợt cắt giảm ngày 9 tháng 7 năm 2025 và được giữ nguyên tại mọi cuộc họp kể từ đó — gần đây nhất là ngày 3 tháng 9 năm 2026. Cách con số đơn lẻ đó lan tới khoản vay của bạn được trình bày trong [Lãi suất Chính sách Qua đêm](/vi/economy/opr-monetary-policy).
 
 ## Bank Negara độc lập đến mức nào?
 

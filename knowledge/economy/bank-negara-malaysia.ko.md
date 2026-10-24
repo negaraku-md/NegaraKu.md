@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "ko"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -167,7 +167,7 @@ BNM의 결정은 총재에게 집중되지 않고, 의도적으로 여러 법정
 
 MPC는 연 6회 이상 회의를 열어야 하며(부칙 제1, 제3항), 제24조는 은행이 매 회의 후 통화정책
 성명 — 결정과 그 근거 — 을 공표하도록 의무화합니다. 기준금리(OPR)는 2025년 7월 9일 인하
-이후 2.75%를 유지해 왔으며 2026년 7월 9일 회의에서도 변동 없이 유지되었습니다. 그 하나의
+이후 2.75%를 유지해 왔으며 그 이후 매 회의에서 유지되어 왔으며, 가장 최근으로는 2026년 9월 3일에 유지되었습니다. 그 하나의
 숫자가 어떻게 당신의 대출에 도달하는지는 [기준금리(OPR)](/ko/economy/opr-monetary-policy)에서
 다룹니다.
 

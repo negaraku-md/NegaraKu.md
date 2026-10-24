@@ -66,19 +66,19 @@ keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysi
 
 | Metric | Value | Period | Source |
 | --- | --- | --- | --- |
-| Unemployment rate | 3.0% | May 2026 | DOSM |
-| Unemployed persons | 513,400 | May 2026 | DOSM |
-| Labour force | 17.34 million | May 2026 | DOSM |
-| Employed persons | 16.82 million | May 2026 | DOSM |
-| Labour force participation rate | 70.9% | May 2026 | DOSM |
+| Unemployment rate | 2.9% | August 2026 | DOSM |
+| Unemployed persons | 511,600 | August 2026 | DOSM |
+| Labour force | 17.39 million | August 2026 | DOSM |
+| Employed persons | 16.87 million | August 2026 | DOSM |
+| Labour force participation rate | 71.0% | August 2026 | DOSM |
 
 *Released 10 July 2026. Labour force statistics lag further than prices — the
 figure published in July describes May.*
 
 ## What "unemployed" actually means here
 
-A 3.0% unemployment rate does not mean 97% of Malaysians have jobs. It means
-3.0% of the **labour force** is unemployed — and the labour force is a much
+A 2.9% unemployment rate does not mean 97% of Malaysians have jobs. It means
+2.9% of the **labour force** is unemployed — and the labour force is a much
 narrower group than the population.
 
 To be counted as unemployed by DOSM, a person must satisfy three conditions at
@@ -95,14 +95,14 @@ That is the single most important thing to understand about the number.
 
 ## The participation rate is the other half of the story
 
-In May 2026 the participation rate was 70.9%. The arithmetic that matters:
+In August 2026 the participation rate was 71.0%. The arithmetic that matters:
 
-- **Labour force** = employed + unemployed = 17.34 million
-- **Participation rate** = labour force ÷ working-age population = 70.9%
+- **Labour force** = employed + unemployed = 17.39 million
+- **Participation rate** = labour force ÷ working-age population = 71.0%
 
 So roughly **29% of working-age Malaysians are outside the labour force
 altogether** — students, homemakers, carers, the retired, the long-term ill, and
-discouraged jobseekers. None of them appear in the 3.0%.
+discouraged jobseekers. None of them appear in the 2.9%.
 
 This is why the unemployment rate should never be read alone. A rate that falls
 while participation also falls is not good news; it usually means people stopped

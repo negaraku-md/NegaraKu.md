@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Kadar Dasar Semalaman (OPR) ialah kadar faedah penanda aras Bank Negara Malaysia — kadar yang disasarkannya untuk pinjaman semalaman antara bank. Ia berada pada 2.75% setakat 7 Mei 2026, tidak berubah sepanjang keputusan Jawatankuasa Dasar Monetari 2026 pada 22 Januari, 5 Mac dan 7 Mei (BNM Financial Markets Investor Portal). OPR ialah sauh yang menjadi asas bank menetapkan Kadar Asas mereka, dan oleh itu apa yang dibayar oleh kebanyakan rakyat Malaysia untuk pinjaman perumahan dan diperoleh daripada deposit tetap."
+answer: "Kadar Dasar Semalaman (OPR) ialah kadar faedah penanda aras Bank Negara Malaysia — kadar yang disasarkannya untuk pinjaman semalaman antara bank. Ia berada pada 2.75% setakat 3 September 2026, tidak berubah sepanjang setiap keputusan Jawatankuasa Dasar Monetari 2026 — 22 Januari, 5 Mac, 7 Mei, 9 Julai dan 3 September (BNM Financial Markets Investor Portal). OPR ialah sauh yang menjadi asas bank menetapkan Kadar Asas mereka, dan oleh itu apa yang dibayar oleh kebanyakan rakyat Malaysia untuk pinjaman perumahan dan diperoleh daripada deposit tetap."
 keyTakeaways:
-  - "OPR ialah 2.75% setakat 7 Mei 2026, dikekalkan pada setiap mesyuarat MPC 2026 sehingga tarikh tersebut"
+  - "OPR ialah 2.75% setakat 3 September 2026, dikekalkan pada setiap mesyuarat MPC 2026 sehingga tarikh tersebut"
   - "Ia adalah kadar yang disasarkan BNM untuk pinjaman antara bank secara semalaman — bukan kadar yang dikenakan terus ke atas anda"
   - "Bank menetapkan Kadar Asas mereka berdasarkannya, jadi ia sampai kepada pinjaman perumahan dan deposit dalam masa beberapa minggu"
   - "MPC bermesyuarat enam kali setahun mengikut jadual yang diterbitkan"
@@ -22,8 +22,8 @@ appliesTo: "Peminjam dengan pinjaman kadar apungan, penyimpan, dan sesiapa yang 
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "stale"
-sourceContentHash: "176a9c4deda655ce"
+translationStatus: "in-sync"
+sourceContentHash: "468ccecd722728f7"
 
 status: "published"
 aiAssisted: true
@@ -71,7 +71,7 @@ faq:
 
 | Metrik | Nilai | Setakat | Sumber |
 | --- | --- | --- | --- |
-| Kadar Dasar Semalaman | 2.75% | 7 Mei 2026 | BNM (FMIP) |
+| Kadar Dasar Semalaman | 2.75% | 3 September 2026 | BNM (FMIP) |
 | MYOR (kadar semalaman sebenar) | 2.75% | 23 Julai 2026 | BNM (FMIP) |
 | Hasil MGS 10 tahun | 3.70% | 24 Julai 2026 | BNM (FMIP) |
 
@@ -82,6 +82,8 @@ faq:
 | 22 Januari 2026 | 2.75% |
 | 5 Mac 2026 | 2.75% |
 | 7 Mei 2026 | 2.75% |
+| 9 Julai 2026 | 2.75% |
+| 3 September 2026 | 2.75% |
 
 ## Kadar yang anda tidak pernah benar-benar bayar
 

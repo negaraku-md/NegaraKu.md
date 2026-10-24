@@ -65,44 +65,45 @@ keywords: ["Malaysia trade surplus", "Malaysia exports imports", "perdagangan lu
 
 ## At a glance
 
-| Metric | June 2026 | Y-o-Y change | Source |
+| Metric | September 2026 | Y-o-Y change | Source |
 | --- | --- | --- | --- |
-| Total exports | RM177.9 billion | +45.4% | DOSM |
-| Total imports | RM163.0 billion | +43.9% | DOSM |
-| Total trade | RM340.9 billion | +44.7% | DOSM |
-| **Trade surplus** | **RM14.9 billion** | +64.9% | DOSM |
-| Domestic exports | RM138.6 billion (77.9%) | +44.6% | DOSM |
-| Re-exports | RM39.3 billion (22.1%) | +48.7% | DOSM |
+| Total exports | RM215.1 billion | +54.5% | DOSM |
+| Total imports | RM181.4 billion | +52.7% | DOSM |
+| Total trade | RM396.5 billion | +53.7% | DOSM |
+| **Trade surplus** | **RM33.7 billion** | +64.9% | DOSM |
+| Domestic exports | RM162.0 billion (75.3%) | +54.7% | DOSM |
+| Re-exports | RM53.1 billion (24.7%) | +53.7% | DOSM |
 
-*Released 20 July 2026. Over January–June 2026, total trade grew 22.4% and
-exports 27.5% cumulatively.*
+*Released 19 October 2026. Over January–September 2026, total trade grew 30.1% and
+exports 34.0% cumulatively.*
 
 ## The surplus is a subtraction, not a headline
 
 The most common error in reading trade coverage is treating the surplus as its
 own big number. It isn't — it is simply exports minus imports:
 
-> RM177.9bn − RM163.0bn = **RM14.9bn**
+> RM215.1bn − RM181.4bn = **RM33.7bn**
 
 That matters because the two sides are large and the gap between them is small.
-A 45% export surge sounds transformative, but imports rose 43.9% at the same
+A 54.5% export surge sounds transformative, but imports rose 52.7% at the same
 time, so most of the extra export earnings were spent on extra imports. The
-surplus moved by a few billion ringgit, not by hundreds.
+surplus — RM33.7 billion against gross flows of nearly RM400 billion — moved far
+less than either side.
 
 It also means the surplus is **volatile by construction**. When you subtract two
 large, similar numbers, small percentage moves on either side swing the result
-violently. That is why the surplus can rise 64.9% year-on-year and still fall
-sharply from the previous month — both statements were true in June 2026.
+violently. That is why the surplus can swing far more sharply, month to month,
+than exports or imports do on their own.
 
 ## Re-exports: the number that overstates Malaysian industry
 
 DOSM splits exports into two very different things:
 
-- **Domestic exports** — RM138.6 billion, goods actually produced in Malaysia.
-- **Re-exports** — RM39.3 billion, goods imported and then shipped onward, with
+- **Domestic exports** — RM162.0 billion, goods actually produced in Malaysia.
+- **Re-exports** — RM53.1 billion, goods imported and then shipped onward, with
   little or no transformation.
 
-Re-exports were **22.1% of total exports** in June 2026. They inflate both the
+Re-exports were **24.7% of total exports** in September 2026. They inflate both the
 export and import figures simultaneously, and they reflect Malaysia's role as a
 trading and logistics hub — Port Klang, Penang, Johor — as much as its role as a
 manufacturer.

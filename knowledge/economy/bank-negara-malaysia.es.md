@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "es"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -174,7 +174,7 @@ El MPC debe reunirse al menos seis veces al año (Primer Anexo, párrafo 3), y l
 Sección 24 obliga al Banco a publicar una declaración de política monetaria —
 decisión más fundamentación — tras cada reunión. El Tipo de Política a un Día se
 ha situado en el 2.75% desde el recorte del 9 de julio de 2025 y se mantuvo sin
-cambios en la reunión del 9 de julio de 2026. Cómo viaja ese único número hasta
+cambios en cada reunión desde entonces, la más reciente la del 3 de septiembre de 2026. Cómo viaja ese único número hasta
 su préstamo se trata en
 [el Tipo de Política a un Día](/en/economy/opr-monetary-policy).
 

@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Le taux directeur au jour le jour (OPR) est le taux d'intérêt de référence de Bank Negara Malaysia — le taux qu'elle cible pour les prêts au jour le jour entre banques. Il s'établissait à 2,75 % au 7 mai 2026, inchangé au fil des décisions du Comité de politique monétaire de 2026 des 22 janvier, 5 mars et 7 mai (Portail de l'investisseur des marchés financiers de BNM). L'OPR est l'ancrage à partir duquel les banques fixent leur taux de base, et donc ce que la plupart des Malaisiens paient sur un prêt immobilier et gagnent sur un dépôt à terme."
+answer: "Le taux directeur au jour le jour (OPR) est le taux d'intérêt de référence de Bank Negara Malaysia — le taux qu'elle cible pour les prêts au jour le jour entre banques. Il s'établissait à 2,75 % au 3 septembre 2026, inchangé au fil de toutes les décisions du Comité de politique monétaire de 2026 des 22 janvier, 5 mars, 7 mai, 9 juillet et 3 septembre (Portail de l'investisseur des marchés financiers de BNM). L'OPR est l'ancrage à partir duquel les banques fixent leur taux de base, et donc ce que la plupart des Malaisiens paient sur un prêt immobilier et gagnent sur un dépôt à terme."
 keyTakeaways:
-  - "L'OPR était de 2,75 % au 7 mai 2026, maintenu à chaque réunion du MPC de 2026 jusqu'à cette date"
+  - "L'OPR était de 2,75 % au 3 septembre 2026, maintenu à chaque réunion du MPC de 2026 jusqu'à cette date"
   - "C'est le taux que BNM cible pour les prêts interbancaires au jour le jour — pas un taux qui vous est facturé directement"
   - "Les banques fixent leur taux de base à partir de lui, de sorte qu'il atteint les prêts immobiliers et les dépôts en quelques semaines"
   - "Le MPC se réunit six fois par an selon un calendrier publié"
@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "Emprunteurs ayant des prêts à taux variable, épargnants, et quiconque cherche à comprendre l'actualité des taux d'intérêt en Malaisie."
 
 lang: "fr"
-sourceContentHash: "176a9c4deda655ce"
+sourceContentHash: "468ccecd722728f7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -71,7 +71,7 @@ faq:
 
 | Indicateur | Valeur | Au | Source |
 | --- | --- | --- | --- |
-| Taux directeur au jour le jour | 2,75 % | 7 mai 2026 | BNM (FMIP) |
+| Taux directeur au jour le jour | 2,75 % | 3 septembre 2026 | BNM (FMIP) |
 | MYOR (taux réel au jour le jour) | 2,75 % | 23 juillet 2026 | BNM (FMIP) |
 | Rendement des MGS à 10 ans | 3,70 % | 24 juillet 2026 | BNM (FMIP) |
 
@@ -82,6 +82,8 @@ faq:
 | 22 janvier 2026 | 2,75 % |
 | 5 mars 2026 | 2,75 % |
 | 7 mai 2026 | 2,75 % |
+| 9 juillet 2026 | 2,75 % |
+| 3 septembre 2026 | 2,75 % |
 
 ## Un taux que vous ne payez jamais réellement
 

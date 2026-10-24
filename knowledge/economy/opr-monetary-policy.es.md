@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "La Tasa de Política a un Día (OPR) es la tasa de interés de referencia de Bank Negara Malaysia: la tasa que fija como objetivo para los préstamos a un día entre bancos. Se situó en 2.75% a fecha de 7 de mayo de 2026, sin cambios en las decisiones del Comité de Política Monetaria de 2026 del 22 de enero, el 5 de marzo y el 7 de mayo (Portal del Inversor de los Mercados Financieros de BNM). La OPR es el ancla a partir de la cual los bancos fijan su Tasa Base, y por tanto lo que la mayoría de los malasios pagan en una hipoteca y ganan en un depósito a plazo fijo."
+answer: "La Tasa de Política a un Día (OPR) es la tasa de interés de referencia de Bank Negara Malaysia: la tasa que fija como objetivo para los préstamos a un día entre bancos. Se situó en 2.75% a fecha de 3 de septiembre de 2026, sin cambios en todas las decisiones del Comité de Política Monetaria de 2026 del 22 de enero, el 5 de marzo, el 7 de mayo, el 9 de julio y el 3 de septiembre (Portal del Inversor de los Mercados Financieros de BNM). La OPR es el ancla a partir de la cual los bancos fijan su Tasa Base, y por tanto lo que la mayoría de los malasios pagan en una hipoteca y ganan en un depósito a plazo fijo."
 keyTakeaways:
-  - "La OPR era del 2.75% a fecha de 7 de mayo de 2026, mantenida en cada reunión del MPC de 2026 hasta esa fecha"
+  - "La OPR era del 2.75% a fecha de 3 de septiembre de 2026, mantenida en cada reunión del MPC de 2026 hasta esa fecha"
   - "Es la tasa que BNM fija como objetivo para los préstamos interbancarios a un día, no una tasa que se te cobre directamente"
   - "Los bancos fijan su Tasa Base a partir de ella, de modo que llega a hipotecas y depósitos en cuestión de semanas"
   - "El MPC se reúne seis veces al año según un calendario publicado"
@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "Prestatarios con préstamos a tasa variable, ahorradores, y cualquiera que intente entender las noticias sobre tasas de interés en Malasia."
 
 lang: "es"
-sourceContentHash: "176a9c4deda655ce"
+sourceContentHash: "468ccecd722728f7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -71,7 +71,7 @@ faq:
 
 | Indicador | Valor | A fecha de | Fuente |
 | --- | --- | --- | --- |
-| Tasa de Política a un Día | 2.75% | 7 de mayo de 2026 | BNM (FMIP) |
+| Tasa de Política a un Día | 2.75% | 3 de septiembre de 2026 | BNM (FMIP) |
 | MYOR (tasa real a un día) | 2.75% | 23 de julio de 2026 | BNM (FMIP) |
 | Rendimiento del MGS a 10 años | 3.70% | 24 de julio de 2026 | BNM (FMIP) |
 
@@ -82,6 +82,8 @@ faq:
 | 22 de enero de 2026 | 2.75% |
 | 5 de marzo de 2026 | 2.75% |
 | 7 de mayo de 2026 | 2.75% |
+| 9 de julio de 2026 | 2.75% |
+| 3 de septiembre de 2026 | 2.75% |
 
 ## Una tasa que en realidad nunca pagas
 

@@ -11,9 +11,9 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Suku Bunga Kebijakan Semalam (OPR) adalah suku bunga acuan Bank Negara Malaysia — suku bunga yang disasarkannya untuk pinjaman semalam antarbank. Suku bunga ini berada pada 2.75% per 7 Mei 2026, tidak berubah sepanjang keputusan Komite Kebijakan Moneter 2026 pada 22 Januari, 5 Maret, dan 7 Mei (BNM Financial Markets Investor Portal). OPR adalah jangkar yang menjadi dasar bank menetapkan Suku Bunga Dasar mereka, dan karena itu apa yang dibayar kebanyakan rakyat Malaysia untuk pinjaman rumah dan diperoleh dari deposito berjangka."
+answer: "Suku Bunga Kebijakan Semalam (OPR) adalah suku bunga acuan Bank Negara Malaysia — suku bunga yang disasarkannya untuk pinjaman semalam antarbank. Suku bunga ini berada pada 2.75% per 3 September 2026, tidak berubah sepanjang setiap keputusan Komite Kebijakan Moneter 2026 — 22 Januari, 5 Maret, 7 Mei, 9 Juli, dan 3 September (BNM Financial Markets Investor Portal). OPR adalah jangkar yang menjadi dasar bank menetapkan Suku Bunga Dasar mereka, dan karena itu apa yang dibayar kebanyakan rakyat Malaysia untuk pinjaman rumah dan diperoleh dari deposito berjangka."
 keyTakeaways:
-  - "OPR adalah 2.75% per 7 Mei 2026, dipertahankan pada setiap rapat MPC 2026 hingga tanggal tersebut"
+  - "OPR adalah 2.75% per 3 September 2026, dipertahankan pada setiap rapat MPC 2026 hingga tanggal tersebut"
   - "Ini adalah suku bunga yang disasarkan BNM untuk pinjaman antarbank secara semalam — bukan suku bunga yang dikenakan langsung kepada Anda"
   - "Bank menetapkan Suku Bunga Dasar mereka berdasarkannya, jadi ia sampai ke pinjaman rumah dan deposito dalam beberapa minggu"
   - "MPC mengadakan rapat enam kali setahun mengikuti jadwal yang diterbitkan"
@@ -21,9 +21,9 @@ keyTakeaways:
 appliesTo: "Peminjam dengan pinjaman suku bunga mengambang, penabung, dan siapa saja yang mencoba memahami berita suku bunga Malaysia."
 
 lang: "id"
-sourceContentHash: "176a9c4deda655ce"
+sourceContentHash: "468ccecd722728f7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -71,7 +71,7 @@ faq:
 
 | Metrik | Nilai | Per | Sumber |
 | --- | --- | --- | --- |
-| Suku Bunga Kebijakan Semalam | 2.75% | 7 Mei 2026 | BNM (FMIP) |
+| Suku Bunga Kebijakan Semalam | 2.75% | 3 September 2026 | BNM (FMIP) |
 | MYOR (suku bunga semalam sebenarnya) | 2.75% | 23 Juli 2026 | BNM (FMIP) |
 | Imbal hasil MGS 10 tahun | 3.70% | 24 Juli 2026 | BNM (FMIP) |
 
@@ -82,6 +82,8 @@ faq:
 | 22 Januari 2026 | 2.75% |
 | 5 Maret 2026 | 2.75% |
 | 7 Mei 2026 | 2.75% |
+| 9 Juli 2026 | 2.75% |
+| 3 September 2026 | 2.75% |
 
 ## Suku bunga yang tidak pernah benar-benar Anda bayar
 

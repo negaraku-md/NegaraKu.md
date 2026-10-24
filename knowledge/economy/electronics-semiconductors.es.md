@@ -11,19 +11,19 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Los productos eléctricos y electrónicos (E&E) son, con amplio margen, la mayor categoría de exportación de Malasia. En January 2026, las exportaciones de E&E fueron de RM70.53 mil millones — un aumento interanual del 39.5% y el 48% de las exportaciones totales de Malasia (MIDA, 20 February 2026). La fortaleza de Malasia se concentra en el extremo final de la cadena de semiconductores: ensamblaje, prueba y encapsulado, más que la fabricación de chips."
+answer: "Los productos eléctricos y electrónicos (E&E) son, con amplio margen, la mayor categoría de exportación de Malasia. En September 2026, las exportaciones de E&E fueron de RM110.23 mil millones — un aumento interanual del 69.2% y el 51.2% de las exportaciones totales de Malasia (DOSM Monthly External Trade Statistics, released 19 October 2026). La fortaleza de Malasia se concentra en el extremo final de la cadena de semiconductores: ensamblaje, prueba y encapsulado, más que la fabricación de chips."
 keyTakeaways:
-  - "E&E representó el 48% de las exportaciones totales en January 2026, por valor de RM70.53 mil millones"
-  - "Las exportaciones de E&E crecieron un 39.5% interanual ese mes, impulsadas por la demanda de semiconductores vinculada a la IA"
+  - "E&E representó el 51.2% de las exportaciones totales en September 2026, por valor de RM110.23 mil millones"
+  - "Las exportaciones de E&E crecieron un 69.2% interanual ese mes, impulsadas por la demanda de semiconductores vinculada a la IA"
   - "Malasia se especializa en ensamblaje, prueba y encapsulado — el extremo final, no la fabricación"
   - "Penang es el centro histórico, cuyos orígenes se remontan a la zona franca establecida en 1972"
   - "La concentración es a la vez una fortaleza y una vulnerabilidad: un solo sector sostiene aproximadamente la mitad de la base exportadora"
 appliesTo: "Cualquiera que evalúe la exposición económica de Malasia — inversores, buscadores de empleo, responsables de políticas y estudiantes del comercio."
 
 lang: "es"
-sourceContentHash: "fa1a846b1a7d15a8"
+sourceContentHash: "8a0b775a88e8a175"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -45,9 +45,10 @@ sources:
     url: "https://www.investmalaysia.gov.my/resources/latest-announcements/malaysias-trade-hits-historic-high-in-january-2026-ee-exports-continue-to-lead-growth/"
     publisher: "MIDA / InvestMalaysia"
     date: "2026-02-20"
-  - title: "Estadísticas mensuales de comercio exterior (Monthly External Trade Statistics)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
+  - title: "Estadísticas mensuales de comercio exterior, septiembre de 2026 (Monthly External Trade Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
     publisher: "Departamento de Estadística de Malasia (DOSM)"
+    date: "2026-10-19"
   - title: "Ministerio de Inversión, Comercio e Industria (MITI) (Ministry of Investment, Trade and Industry (MITI))"
     url: "https://www.miti.gov.my/"
     publisher: "Ministerio de Inversión, Comercio e Industria (MITI)"
@@ -62,7 +63,7 @@ faq:
   - q: ¿Fabrica Malasia chips avanzados como Taiwán, o algo distinto?
     a: 'Algo distinto. La fabricación de un semiconductor tiene dos mitades, y la fortaleza de Malasia está en la parte final (back end): ensamblaje, prueba y encapsulado (ATP), la etapa en la que una oblea terminada se convierte en un chip utilizable. Tiene muy pocas plantas de fabricación de vanguardia (parte inicial/front-end). Los análisis que presentan a Malasia como rival de las fábricas (fabs) de Taiwán están comparando eslabones distintos de la misma cadena; Malasia realiza el trabajo de la parte final desde la década de 1970.'
   - q: ¿Por qué que el sector eléctrico y electrónico (E&E) sea la mitad de las exportaciones se considera una vulnerabilidad y no solo una fortaleza?
-    a: 'Porque que una sola categoría de productos sostenga aproximadamente la mitad de la base exportadora concentra el riesgo de tres maneras. Ciclicidad: los semiconductores viven auges y caídas, de modo que un sector que creció un 39,5% en un año puede contraerse bruscamente. Posición en la cadena: el ensamblaje y la prueba de la parte final son más disputables que la fabricación, así que los competidores pueden crear la misma capacidad. Geopolítica: los controles de exportación y las políticas de relocalización (reshoring) redactados en otras economías recaen directamente sobre las plantas malasias.'
+    a: 'Porque que una sola categoría de productos sostenga aproximadamente la mitad de la base exportadora concentra el riesgo de tres maneras. Ciclicidad: los semiconductores viven auges y caídas, de modo que un sector que creció un 69,2% en un año puede contraerse bruscamente. Posición en la cadena: el ensamblaje y la prueba de la parte final son más disputables que la fabricación, así que los competidores pueden crear la misma capacidad. Geopolítica: los controles de exportación y las políticas de relocalización (reshoring) redactados en otras economías recaen directamente sobre las plantas malasias.'
   - q: ¿Por qué es Penang, en concreto, el centro de la industria de chips de Malasia?
     a: Se remonta a una decisión de política de 1972. Penang estableció una zona de libre comercio y atrajo a empresas electrónicas extranjeras con incentivos fiscales, importación de componentes libre de aranceles y una mano de obra disponible. Empresas de semiconductores estadounidenses y japonesas montaron operaciones de ensamblaje, y se formó un clúster. Los clústeres se afianzan con el tiempo —proveedores, mantenimiento de equipos, ingenieros formados localmente—, y por eso medio siglo después Penang y Kulim siguen concentrando buena parte del sector.
 ---
@@ -71,9 +72,9 @@ faq:
 
 | Indicador | Valor | Período | Fuente |
 | --- | --- | --- | --- |
-| Exportaciones de E&E | RM70.53 mil millones | January 2026 | MIDA |
-| Cuota de las exportaciones totales | 48% | January 2026 | MIDA |
-| Crecimiento interanual | +39.5% | January 2026 | MIDA |
+| Exportaciones de E&E | RM110.23 mil millones | September 2026 | DOSM |
+| Cuota de las exportaciones totales | 51.2% | September 2026 | DOSM |
+| Crecimiento interanual | +69.2% | September 2026 | DOSM |
 | Posición en la cadena de suministro | Ensamblaje, prueba, encapsulado (extremo final) | — | MIDA / MITI |
 | Centro histórico | Penang, zona franca desde 1972 | — | — |
 
@@ -82,7 +83,7 @@ faq:
 A Malasia se la describe a menudo como una economía de materias primas — aceite
 de palma, caucho, petróleo y gas. Esa descripción lleva décadas desfasada. Lo
 más grande que Malasia vende al mundo es la **electrónica**, y no por poco: E&E
-constituyó el **48% de las exportaciones totales** en January 2026.
+constituyó el **51.2% de las exportaciones totales** en September 2026.
 
 Dicho de otro modo, aproximadamente uno de cada dos ringgit que Malasia gana por
 exportaciones proviene de una sola categoría de producto. Ese hecho configura
@@ -125,9 +126,9 @@ explicando por qué Penang y Kulim concentran una parte tan grande del sector.
 
 ## El ciclo de la IA, y el riesgo que subyace
 
-El repunte del 39.5% en January 2026 se debió en gran medida a la **demanda
+El repunte del 69.2% en September 2026 se debió en gran medida a la **demanda
 mundial de semiconductores ligada a las aplicaciones de inteligencia
-artificial** y a los ciclos ordinarios de actualización tecnológica, según MIDA.
+artificial** y a los ciclos ordinarios de actualización tecnológica.
 Esa es una noticia genuinamente buena para los ingresos por exportación, el
 empleo y la inversión.
 
@@ -135,7 +136,7 @@ También concentra el riesgo. Tres exposiciones se desprenden directamente de la
 cifras:
 
 - **Ciclicidad.** Los semiconductores son famosos por sus auges y caídas. Un
-  sector que puede crecer un 39.5% en un año puede contraerse bruscamente en
+  sector que puede crecer un 69.2% en un año puede contraerse bruscamente en
   otro, arrastrando consigo la mitad de la base exportadora.
 - **Posición en la cadena.** El trabajo del extremo final es más disputable que
   la fabricación. Los competidores pueden construir — y construyen — capacidad de

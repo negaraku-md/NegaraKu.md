@@ -11,19 +11,19 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia mencatatkan eksport bernilai RM177.9 bilion dan import bernilai RM163.0 bilion pada Jun 2026, menghasilkan lebihan perdagangan RM14.9 bilion — jumlah perdagangan RM340.9 bilion (DOSM, dikeluarkan pada 20 Julai 2026). Malaysia telah mencatatkan lebihan perdagangan yang berterusan selama beberapa dekad. Kira-kira 22% daripada eksport adalah eksport semula: barangan yang melalui Malaysia dan bukannya dihasilkan di sini."
+answer: "Malaysia mencatatkan eksport bernilai RM215.1 bilion dan import bernilai RM181.4 bilion pada September 2026, menghasilkan lebihan perdagangan RM33.7 bilion — jumlah perdagangan RM396.5 bilion (DOSM, dikeluarkan pada 19 Oktober 2026). Malaysia telah mencatatkan lebihan perdagangan yang berterusan selama beberapa dekad. Kira-kira 25% daripada eksport adalah eksport semula: barangan yang melalui Malaysia dan bukannya dihasilkan di sini."
 keyTakeaways:
-  - "Jun 2026: eksport RM177.9bn, import RM163.0bn, lebihan RM14.9bn"
-  - "Jumlah perdagangan ialah RM340.9bn — lebih besar daripada KDNK bulanan, kerana perdagangan mengira aliran kasar"
-  - "Eksport semula berjumlah RM39.3bn, 22.1% daripada keseluruhan eksport — barangan yang melalui, bukan dihasilkan di sini"
-  - "Eksport domestik (yang benar-benar dihasilkan di Malaysia) berjumlah RM138.6bn, 77.9% daripada jumlah keseluruhan"
+  - "September 2026: eksport RM215.1bn, import RM181.4bn, lebihan RM33.7bn"
+  - "Jumlah perdagangan ialah RM396.5bn — lebih besar daripada KDNK bulanan, kerana perdagangan mengira aliran kasar"
+  - "Eksport semula berjumlah RM53.1bn, 24.7% daripada keseluruhan eksport — barangan yang melalui, bukan dihasilkan di sini"
+  - "Eksport domestik (yang benar-benar dihasilkan di Malaysia) berjumlah RM162.0bn, 75.3% daripada jumlah keseluruhan"
   - "DOSM menerbitkan perdagangan luar setiap bulan, kira-kira tiga minggu selepas bulan berkenaan berakhir"
 appliesTo: "Sesiapa yang membaca berita perdagangan Malaysia — pengeksport, pengimport, pelabur dan penganalisis."
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "stale"
-sourceContentHash: "09facf393be3e0fa"
+translationStatus: "in-sync"
+sourceContentHash: "b4ef299128a9a303"
 
 status: "published"
 aiAssisted: true
@@ -41,10 +41,10 @@ sensitivity: "none"
 
 updated: 2026-07-24
 sources:
-  - title: "Statistik Perdagangan Luar Bulanan, Jun 2026 (Monthly External Trade Statistics, June 2026)"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
+  - title: "Statistik Perdagangan Luar Bulanan, September 2026 (Monthly External Trade Statistics, September 2026)"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
-    date: "2026-07-20"
+    date: "2026-10-19"
   - title: "Statistik Eksport Import mengikut Negeri, Mei 2026 (Export Import Statistics by State, May 2026)"
     url: "https://www.dosm.gov.my/portal-main/release-content/export-import-statistics-by-state-may2026"
     publisher: "Jabatan Perangkaan Malaysia (DOSM)"
@@ -62,17 +62,17 @@ keywords: ["Malaysia trade surplus", "Malaysia exports imports", "perdagangan lu
 
 ## Sekilas pandang
 
-| Metrik | Jun 2026 | Perubahan T-ke-T | Sumber |
+| Metrik | September 2026 | Perubahan T-ke-T | Sumber |
 | --- | --- | --- | --- |
-| Jumlah eksport | RM177.9 bilion | +45.4% | DOSM |
-| Jumlah import | RM163.0 bilion | +43.9% | DOSM |
-| Jumlah perdagangan | RM340.9 bilion | +44.7% | DOSM |
-| **Lebihan perdagangan** | **RM14.9 bilion** | +64.9% | DOSM |
-| Eksport domestik | RM138.6 bilion (77.9%) | +44.6% | DOSM |
-| Eksport semula | RM39.3 bilion (22.1%) | +48.7% | DOSM |
+| Jumlah eksport | RM215.1 bilion | +54.5% | DOSM |
+| Jumlah import | RM181.4 bilion | +52.7% | DOSM |
+| Jumlah perdagangan | RM396.5 bilion | +53.7% | DOSM |
+| **Lebihan perdagangan** | **RM33.7 bilion** | +64.9% | DOSM |
+| Eksport domestik | RM162.0 bilion (75.3%) | +54.7% | DOSM |
+| Eksport semula | RM53.1 bilion (24.7%) | +53.7% | DOSM |
 
-*Dikeluarkan pada 20 Julai 2026. Sepanjang Januari–Jun 2026, jumlah
-perdagangan berkembang 22.4% dan eksport 27.5% secara kumulatif.*
+*Dikeluarkan pada 19 Oktober 2026. Sepanjang Januari–September 2026, jumlah
+perdagangan berkembang 30.1% dan eksport 34.0% secara kumulatif.*
 
 ## Lebihan adalah tolak, bukan berita utama
 
@@ -80,32 +80,31 @@ Kesilapan paling lazim dalam membaca liputan perdagangan ialah menganggap
 lebihan sebagai satu angka besar tersendiri. Ia bukan begitu — ia hanyalah
 eksport tolak import:
 
-> RM177.9bn − RM163.0bn = **RM14.9bn**
+> RM215.1bn − RM181.4bn = **RM33.7bn**
 
 Perkara ini penting kerana kedua-dua belah pihak adalah besar dan jurang
-antara keduanya adalah kecil. Lonjakan eksport sebanyak 45% kedengaran
-transformatif, tetapi import turut meningkat 43.9% pada masa yang sama,
+antara keduanya adalah kecil. Lonjakan eksport sebanyak 54.5% kedengaran
+transformatif, tetapi import turut meningkat 52.7% pada masa yang sama,
 jadi kebanyakan hasil eksport tambahan itu dibelanjakan untuk import
-tambahan. Lebihan itu hanya bergerak beberapa bilion ringgit, bukan
-beratus-ratus.
+tambahan. Lebihan itu — RM33.7 bilion berbanding aliran kasar hampir RM400
+bilion — bergerak jauh lebih sedikit berbanding mana-mana pihak.
 
 Ini juga bermakna lebihan itu **tidak menentu secara struktur**. Apabila
 anda menolak dua angka yang besar dan hampir sama, pergerakan peratusan
 yang kecil pada mana-mana pihak akan menghayun keputusan itu dengan
-mendadak. Itulah sebabnya lebihan boleh meningkat 64.9% tahun-ke-tahun
-dan pada masa yang sama jatuh mendadak berbanding bulan sebelumnya — kedua-dua
-kenyataan itu benar pada Jun 2026.
+mendadak. Itulah sebabnya lebihan boleh berayun jauh lebih mendadak, dari
+bulan ke bulan, berbanding eksport atau import dengan sendirinya.
 
 ## Eksport semula: angka yang melebih-lebihkan industri Malaysia
 
 DOSM membahagikan eksport kepada dua perkara yang sangat berbeza:
 
-- **Eksport domestik** — RM138.6 bilion, barangan yang benar-benar
+- **Eksport domestik** — RM162.0 bilion, barangan yang benar-benar
   dihasilkan di Malaysia.
-- **Eksport semula** — RM39.3 bilion, barangan yang diimport dan
+- **Eksport semula** — RM53.1 bilion, barangan yang diimport dan
   kemudiannya dihantar semula, dengan sedikit atau tiada transformasi.
 
-Eksport semula merupakan **22.1% daripada jumlah eksport** pada Jun 2026.
+Eksport semula merupakan **24.7% daripada jumlah eksport** pada September 2026.
 Ia menggembungkan kedua-dua angka eksport dan import serentak, dan
 mencerminkan peranan Malaysia sebagai hab perdagangan dan logistik — Port
 Klang, Pulau Pinang, Johor — sama seperti peranannya sebagai pengeluar.
@@ -149,4 +148,4 @@ paling terdedah kepada perdagangan di dunia.
 - Output dan komposisi: [Gambaran Keseluruhan KDNK Malaysia](/economy/gdp-overview)
 - Satu sektor eksport utama: [Sektor Minyak Sawit Malaysia](/economy/palm-oil-sector)
 - Sumber utama:
-  [Statistik Perdagangan Luar Bulanan DOSM](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026)
+  [Statistik Perdagangan Luar Bulanan DOSM](https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026)

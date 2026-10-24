@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "ar"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -170,7 +170,7 @@ keywords: ["Bank Negara Malaysia", "BNM", "بنك نيغارا ماليزيا", 
 يجب أن تجتمع لجنة السياسة النقدية ست مرات على الأقل سنوياً (الجدول الأول،
 الفقرة 3)، وتُلزِم المادة 24 البنكَ بنشر بيان سياسة نقدية — القرار مع مسوّغاته —
 بعد كل اجتماع. وقد ظلّ سعر السياسة لليلة واحدة عند 2.75% منذ الخفض في
-9 يوليو 2025، وتُرِك دون تغيير في اجتماع 9 يوليو 2026. وكيفية وصول هذا الرقم
+9 يوليو 2025، وأُبقِيَ دون تغيير في كل اجتماع منذ ذلك الحين — وآخرها في 3 سبتمبر 2026. وكيفية وصول هذا الرقم
 الواحد إلى قرضك موضّحة في
 [سعر السياسة لليلة واحدة](/economy/opr-monetary-policy).
 

@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "fr"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -173,7 +173,7 @@ Le MPC doit se réunir au moins six fois par an (Première annexe, paragraphe 3)
 et la Section 24 oblige la Banque à publier une déclaration de politique
 monétaire — décision plus justification — après chaque réunion. Le taux directeur
 au jour le jour s'établit à 2.75% depuis la baisse du 9 juillet 2025 et est resté
-inchangé lors de la réunion du 9 juillet 2026. La manière dont ce seul chiffre
+inchangé à chaque réunion depuis lors — la plus récente le 3 septembre 2026. La manière dont ce seul chiffre
 parvient jusqu'à votre prêt est traitée dans
 [le taux directeur au jour le jour](/fr/economy/opr-monetary-policy).
 

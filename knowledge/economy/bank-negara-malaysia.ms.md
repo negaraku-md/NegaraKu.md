@@ -31,9 +31,9 @@ faq:
 
 verificationNeeded: []
 lang: "ms"
-sourceContentHash: "d7cdda88b95f694a"
+sourceContentHash: "1949b4f60e6b2877"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -175,7 +175,7 @@ MPC mesti bermesyuarat sekurang-kurangnya enam kali setahun (Jadual Pertama,
 perenggan 3), dan seksyen 24 mewajibkan Bank menerbitkan penyata dasar
 monetari — keputusan berserta rasionalnya — selepas setiap mesyuarat. Kadar
 Dasar Semalaman telah kekal pada 2.75% sejak pemotongan pada 9 Julai 2025 dan
-tidak diubah pada mesyuarat 9 Julai 2026. Bagaimana angka tunggal itu sampai
+dikekalkan pada setiap mesyuarat sejak itu — yang terbaharu pada 3 September 2026. Bagaimana angka tunggal itu sampai
 kepada pinjaman anda dihuraikan dalam
 [Kadar Dasar Semalaman](/economy/opr-monetary-policy).
 
