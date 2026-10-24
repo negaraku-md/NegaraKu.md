@@ -20,6 +20,8 @@ keyTakeaways:
   - "KPDN 属下机构包括 SSM、MyIPO、MyCC、SKM、MKM、PNS 及 Bank Rakyat；现任部长为 Datuk Armizan Mohd Ali。"
 appliesTo: "被多收费或遭欺骗的消费者、受价格管制约束的商家和零售商，以及在马来西亚处理公司注册、竞争或消费者保护事务的任何人。"
 faq:
+  - q: "KPDN 是什么部门？"
+    a: "KPDN 是「国内贸易及生活成本部」（Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup）的简称，是马来西亚负责发展国内贸易、管控必需品价格及保护消费者的联邦部门。它于 1990 年 10 月 27 日成立，2022 年 12 月加入「生活成本」职能，并监管 SSM、MyIPO、MyCC 等机构；现任部长为 Datuk Armizan Mohd Ali。"
   - q: "如果商家欺骗我，该如何向 KPDN 投诉？"
     a: "您可透过客服热线 1-800-886-800、WhatsApp 019-848 8000、e-Aduan 门户网站 eaduan.kpdn.gov.my、电邮 e-aduan@kpdn.gov.my，或 Ez ADU KPDN 智能手机应用程序提出投诉。"
   - q: "我在消费者索偿仲裁庭最多可索偿多少？"
@@ -35,11 +37,15 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "SEO (zh-only): added a direct 「KPDN 是什么部门？」 FAQ + matched the lead heading to the high-demand Chinese query (GSC near-miss, was position 9); facts unchanged."
     reviewer: null
 verificationNeeded:
   - "该部历次更名的确切时序与年份（KPDNHEP、KPDNKK/MDTCC，其后于 2022 年 12 月改为 KPDN）——在逐一列出之前，请对照官方／国会议事录（Hansard）来源核实每一次更名的年份。"
@@ -47,7 +53,7 @@ verificationNeeded:
   - "消费者投诉渠道号码（1-800-886-800；WhatsApp 019-848 8000；eaduan.kpdn.gov.my；Ez ADU；e-aduan@kpdn.gov.my）——由于热线偶有变动，请在kpdn.gov.my/bantuan上核实是否为最新。"
   - "部门／bahagian的确切数目以及所执掌法令的总数——在给出确切数字前请先核实。"
   - "现任副部长与秘书长——请核实在发布时仍在任。"
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "背景 - KPDN (Latar Belakang - KPDN)"
     url: "https://www.kpdn.gov.my/ms/info-korporat/latar-belakang"
@@ -77,12 +83,12 @@ entity: "Ministry of Domestic Trade and Cost of Living (Kementerian Perdagangan 
 wikidata: "Q12689906"
 relations: []
 related: []
-keywords: ["KPDN", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
+keywords: ["KPDN", "KPDN是什么部门", "国内贸易及生活成本部", "Ministry of Domestic Trade and Cost of Living", "Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup", "KPDN aduan", "Price Control and Anti-Profiteering Act 2011", "Akta Kawalan Harga", "Ez ADU KPDN", "TTPM tribunal tuntutan pengguna", "KPDN hotline", "kawalan harga barang", "consumer protection Malaysia", "Armizan Mohd Ali", "SSM MyIPO MyCC", "Ops Pantau KPDN"]
 ---
 
 当商家在食油上向你多收费、以高于顶价的价格出售受管制商品，或拒绝为有缺陷的产品负责时，负责代你采取行动的联邦机构就是 **KPDN**——**国内贸易及生活成本部**（*Kementerian Perdagangan Dalam Negeri dan Kos Sara Hidup*）。它发展国内贸易、管控日常必需品的价格、保护消费者，并以实实在在的法令、可用的投诉管道，以及一个为普通消费者而设的小额索偿仲裁庭作为后盾。
 
-## KPDN 是什么，其职能为何？
+## KPDN 是什么部门？其职能为何？
 
 KPDN 于 **1990 年 10 月 27 日成立**。其既定目标是促进「可行、具竞争力且可持续」的国内贸易，尤其是在分销贸易领域，同时保护消费者的利益与权益。在实务上，其工作分为两大部分：制定贸易政策——包括确定和监控必需品价格，以及管控必需品、石油和石化产品的销售与分销——以及消费主义，涵盖消费者教育、意识提升、保护，以及对消费者运动的支持。
 

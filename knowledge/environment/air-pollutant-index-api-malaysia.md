@@ -22,6 +22,8 @@ keyTakeaways:
 appliesTo: "Ibu bapa, guru, atlet, warga tua, wanita hamil, kanak-kanak, penghidap komplikasi jantung atau paru-paru, serta sesiapa yang merancang aktiviti luar terutamanya semasa musim jerebu."
 
 faq:
+  - q: "Apa itu indeks pencemaran udara?"
+    a: "«Indeks pencemaran udara» ialah sebutan umum bagi Indeks Pencemar Udara (IPU) — nama rasmi Jabatan Alam Sekitar (JAS) — atau Air Pollutant Index (API). Ia satu nombor 0 ke atas yang disaring daripada enam pencemar (SO2, NO2, CO, O3, PM10 dan PM2.5) untuk menyatakan status kualiti udara sesuatu kawasan, daripada Baik (0–50) sehingga Merbahaya (melebihi 300)."
   - q: "Adakah bacaan IPU 100 bermakna udara 'separuh tercemar'?"
     a: "Tidak. IPU bukan peratusan. Bacaan 0–50 bermaksud Baik dan 51–100 bermaksud Sederhana — kedua-duanya tanpa sekatan aktiviti luar. Bacaan mula membimbangkan apabila melepasi 100 (Tidak sihat), dan lebih 300 dikira Merbahaya."
   - q: "Pencemar mana yang paling kerap menentukan bacaan IPU?"
@@ -40,7 +42,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-10-19
 reviewDue: 2027-10-19
-revision: 1
+revision: 2
 verificationNeeded:
   - "Asma tidak dinamakan secara khusus dalam kedua-dua PDF JAS yang dirujuk (sumber menyebut warga tua, wanita hamil, kanak-kanak dan komplikasi jantung/paru-paru). Rujukan asma di sini ialah inferens editorial sebagai keadaan paru-paru — sahkan dengan sumber nasihat kesihatan rasmi JAS."
   - "Band Kecemasan (>500) tidak diberi warna berasingan pada tolok rasmi JAS (warna hanya ditakrifkan sehingga Merbahaya). Sahkan sama ada satu warna rasmi wujud untuk band ini sebelum menetapkannya."
@@ -53,8 +55,12 @@ revisions:
     date: 2026-10-19
     change: "Refreshed: monitoring network updated to 68 CAQMS (from 52); added FAQ on why app AQI differs from the official API (24-hour PM2.5 average); added DOE-sourced references."
     reviewer: "ashton-tan"
+  - revision: 2
+    date: 2026-10-24
+    change: "SEO (GSC near-miss, was position 36): added an FAQ answering the common public spelling 'indeks pencemaran udara' and clarifying it is the colloquial term for the official Indeks Pencemar Udara (IPU) / API; no facts changed."
+    reviewer: "ashton-tan"
 
-updated: 2026-10-19
+updated: 2026-10-24
 sources:
   - title: "Air Pollutant Index Management System (APIMS) — dataset"
     url: "https://radars.mosti.gov.my/dataset/air-pollutant-index-management-system-apims/"
@@ -82,7 +88,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-alam-sekitar" }
   - { rel: "related-to", to: "jerebu-di-malaysia" }
 related: []
-keywords: ["IPU", "API", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
+keywords: ["IPU", "API", "indeks pencemaran udara", "indeks pencemar udara", "kualiti udara", "jerebu", "PM2.5", "PM10", "Jabatan Alam Sekitar"]
 ---
 
 Apabila jerebu menebal dan sekolah mula bertanya sama ada perhimpunan pagi patut dibatalkan, satu nombor tunggal biasanya menjadi penentu — bacaan IPU. Angka itu nampak ringkas, tetapi di sebaliknya ada enam pencemar yang diukur secara berterusan dan satu formula yang menapis semuanya menjadi satu nilai.
