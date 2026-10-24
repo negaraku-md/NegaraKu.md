@@ -59,6 +59,17 @@ its `reviewDue` is shown as needs-update automatically. Only `archived` is termi
   chosen slug → `archived` + `hidden`, **cascade all 13 langs**, add `supersededBy`, and **auto-write
   the redirect** into `astro.config` (301 to successor, else a noindex archived banner). Decide the
   archived-URL policy (#2). *Highest value: it's the only step with zero automation and an SEO risk.*
+  - **✅ P1a BUILT (2026-10-24, held for push).** `scripts/archive-article.mjs` (dry-run default,
+    hard-gated, idempotent, 13-lang cascade) + `supersededBy` schema field + managed
+    `src/data/archive-redirects.json` expanded to all 13 locales and merged under the curated map in
+    `astro.config.mjs`. Policy: **301 to the successor** — the proven 31/31 real case (merge/replace).
+    A no-successor archive is **refused** (not soft-404'd to a hub, which Google treats as a 404).
+  - **▫ P1b TODO — the no-successor tombstone.** Serve a genuinely obsolete topic (no successor) as a
+    live 200 page carrying an "archived/repealed" banner + `noindex`, so its URL never 404s and the
+    historical content stays readable. Deferred because it is a **render-layer** change (build the
+    page though it's out of listings, banner in `ArticleView`, `noindex` in `BaseLayout`, keep it out
+    of sitemap/graph/OG) that can't be build-verified locally (14k-file build OOMs) — do it once P1a
+    is green on CI, or when a real no-successor case appears.
 - **P2 — Make review-due proactive (step 5 + #3 + #4).** A scheduled Action that builds the
   **prioritized review-due queue** (traffic × age) and surfaces it (one living GitHub issue +/or a
   dashboard tile). Fix `flag-needs-update.mjs` to 13 langs. Add the cadence policy (#5).

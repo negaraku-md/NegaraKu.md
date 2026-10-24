@@ -1,0 +1,4 @@
+{
+  "_comment": "Managed by scripts/archive-article.mjs. Keys are BASE (ms, no locale prefix) paths of archived topics; values are their successor's base path. astro.config.mjs expands each entry to all 13 locales (ms bare, others /<lang>-prefixed) and merges it UNDER the hand-written redirects map (curated entries always win). Do not hand-edit unless you know the expansion rule.",
+  "redirects": {}
+}

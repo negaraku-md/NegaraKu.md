@@ -418,6 +418,29 @@ const redirects = {
   '/zh/online-safety-act-malaysia': '/zh/business/online-safety-act-malaysia/',
 };
 
+// --- Archive redirects (managed by scripts/archive-article.mjs) --------------
+// Each entry maps an archived topic's BASE (ms, unprefixed) path to its
+// successor's base path; here it is expanded to all 13 locales (ms bare, others
+// /<lang>-prefixed) and merged UNDER the curated `redirects` above, so a
+// hand-written entry always wins on collision. Missing/unbuilt file → no-op.
+const ARCHIVE_LOCALES = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
+(() => {
+  let base = {};
+  try {
+    const file = fileURLToPath(new URL('./src/data/archive-redirects.json', import.meta.url));
+    base = JSON.parse(readFileSync(file, 'utf8')).redirects ?? {};
+  } catch {
+    /* no archive redirects yet — skip */
+  }
+  for (const [from, to] of Object.entries(base)) {
+    for (const l of ARCHIVE_LOCALES) {
+      const pfx = l === 'ms' ? '' : `/${l}`;
+      const key = `${pfx}${from}`;
+      if (!(key in redirects)) redirects[key] = `${pfx}${to}`;
+    }
+  }
+})();
+
 export default defineConfig({
   site: SITE,
   trailingSlash: 'ignore',

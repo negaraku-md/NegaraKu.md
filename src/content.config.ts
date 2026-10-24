@@ -286,6 +286,15 @@ const knowledge = defineCollection({
     requestedBy: z.string().nullable().default(null),
     requestReason: z.string().nullable().optional(),
     /**
+     * For an `archived` topic that was merged into / replaced by another: the
+     * canonical BASE path of its successor (ms form, no locale prefix), e.g.
+     * "/companies/petronas". Written by scripts/archive-article.mjs, which also
+     * emits the per-locale 301 redirects (src/data/archive-redirects.json). Null
+     * for a genuinely obsolete topic with no successor (served as a noindex
+     * tombstone instead — a later increment). Not in the translation hash.
+     */
+    supersededBy: z.string().nullable().optional(),
+    /**
      * 3R+1 and other sensitive classes. Anything other than `none` blocks
      * publication until a named human reviewer signs off.
      */
