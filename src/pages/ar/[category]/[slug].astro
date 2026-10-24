@@ -5,6 +5,7 @@ import { articlePaths } from '@/lib/paths';
 import { articleJsonLd, breadcrumbJsonLd, keywordsFor, faqJsonLd, seoTitleFor } from '@/lib/seo';
 import { localePath } from '@/lib/i18n';
 import type { Article } from '@/lib/content';
+import { isTombstone } from '@/lib/content';
 
 export async function getStaticPaths() {
   return articlePaths('ar');
@@ -12,6 +13,7 @@ export async function getStaticPaths() {
 
 const locale = 'ar';
 const { article } = Astro.props as { article: Article };
+const tomb = isTombstone(article);
 const path = `/${article.data.category}/${article.data.slug}`;
 const mdHref = localePath(path, locale) + '.md';
 ---
@@ -23,7 +25,8 @@ const mdHref = localePath(path, locale) + '.md';
   path={path}
   ogType="article"
   image={`/og/${locale}/${article.data.category}/${article.data.slug}.png`}
-  mdHref={mdHref}
+  mdHref={tomb ? undefined : mdHref}
+  noindex={tomb}
   keywords={keywordsFor(article, locale).join(', ')}
   socialTitle={article.data.socialTitle}
   publishedTime={(article.data.created ?? article.data.updated).toISOString()}

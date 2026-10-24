@@ -291,9 +291,19 @@ const knowledge = defineCollection({
      * "/companies/petronas". Written by scripts/archive-article.mjs, which also
      * emits the per-locale 301 redirects (src/data/archive-redirects.json). Null
      * for a genuinely obsolete topic with no successor (served as a noindex
-     * tombstone instead — a later increment). Not in the translation hash.
+     * tombstone instead — see `tombstone`). Not in the translation hash.
      */
     supersededBy: z.string().nullable().optional(),
+    /**
+     * A no-successor TOMBSTONE: an archived topic that is still SERVED (200) at
+     * its URL — carrying an "archived/repealed" banner + `noindex` — so a once-
+     * indexed URL never 404s and the historical text stays readable. Explicit,
+     * never derived: only `archive-article.mjs --tombstone` sets it, so ordinary
+     * archived topics (dropped from the site / redirected) are unaffected. A
+     * tombstone has no `supersededBy`. Kept out of every listing, the sitemap,
+     * the graph, OG and search.
+     */
+    tombstone: z.boolean().default(false),
     /**
      * 3R+1 and other sensitive classes. Anything other than `none` blocks
      * publication until a named human reviewer signs off.

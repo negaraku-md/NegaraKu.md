@@ -49,6 +49,9 @@ interface Props {
   /** Chrome-less page (no header/footer) — used by the standalone /maintenance
       preview. Site-wide maintenance mode (MAINTENANCE=1) takes over regardless. */
   bare?: boolean;
+  /** Force `noindex, nofollow` — set for served tombstones (retired topics kept
+      at 200 so their URL never 404s, but withheld from search). */
+  noindex?: boolean;
 }
 
 const {
@@ -66,6 +69,7 @@ const {
   modifiedTime,
   section,
   bare = false,
+  noindex = false,
 } = Astro.props;
 
 // Point AI agents at the machine index for THIS language.
@@ -114,7 +118,7 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
     {keywords && <meta name="keywords" content={keywords} />}
     <meta
       name="robots"
-      content={MAINTENANCE || bare || softLaunched ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+      content={MAINTENANCE || bare || softLaunched || noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
     />
     <link rel="canonical" href={canonical} />
 
@@ -402,7 +406,7 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
 
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
   </head>
-  <body class:list={[{ 'is-maint': MAINTENANCE }]}>
+  <body class:list={[{ 'is-maint': MAINTENANCE }]} data-pagefind-ignore={noindex || undefined}>
     {MAINTENANCE ? (
       <MaintenanceView locale={locale} />
     ) : (

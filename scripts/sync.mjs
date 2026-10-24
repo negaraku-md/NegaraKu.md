@@ -107,6 +107,9 @@ async function main() {
       slug: data.slug ?? null,
       summary: data.summary ?? '',
       status: data.status ?? 'draft',
+      // A served no-successor tombstone (archive-article.mjs --tombstone): kept
+      // out of the sitemap (astro.config reads this) though its page is built.
+      tombstone: data.tombstone ?? false,
       // Byline + AI-assist disclosure — the credits page (build-credits.mjs)
       // aggregates real people from here + the revision log, and counts how many
       // articles were AI-drafted so the credit is honest.

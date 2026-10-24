@@ -64,12 +64,18 @@ its `reviewDue` is shown as needs-update automatically. Only `archived` is termi
     `src/data/archive-redirects.json` expanded to all 13 locales and merged under the curated map in
     `astro.config.mjs`. Policy: **301 to the successor** — the proven 31/31 real case (merge/replace).
     A no-successor archive is **refused** (not soft-404'd to a hub, which Google treats as a 404).
-  - **▫ P1b TODO — the no-successor tombstone.** Serve a genuinely obsolete topic (no successor) as a
-    live 200 page carrying an "archived/repealed" banner + `noindex`, so its URL never 404s and the
-    historical content stays readable. Deferred because it is a **render-layer** change (build the
-    page though it's out of listings, banner in `ArticleView`, `noindex` in `BaseLayout`, keep it out
-    of sitemap/graph/OG) that can't be build-verified locally (14k-file build OOMs) — do it once P1a
-    is green on CI, or when a real no-successor case appears.
+  - **✅ P1b BUILT (2026-10-24, held for push) — the no-successor tombstone.** A genuinely obsolete
+    topic with no successor is now served at 200 with an "archived/repealed" banner + `noindex`, so its
+    URL never 404s and the text stays readable, while staying out of every listing/sitemap/graph/OG/search.
+    Explicit opt-in (schema `tombstone: boolean`, set only by `archive-article.mjs --tombstone`), so the
+    84 existing hand-archived files are untouched. Wiring: `isTombstone()` + `tombstonesForLocale()` in
+    content.ts; `articlePaths()` routes them (allArticles still drops archived → listings clean);
+    `ArticleView` banner; `BaseLayout` `noindex` prop + `data-pagefind-ignore` on `<body>` (search out);
+    `sync.mjs` emits `tombstone`; `astro.config` sitemap `filter` excludes tombstone URLs. `archive-article.mjs`
+    gained `--tombstone` (no `--into`, no redirect, keeps `hidden:false`). **Also fixed a latent P1a bug:
+    `LANGS` omitted `ms`, so an en/zh/ta-master topic's `slug.ms.md` was never flipped — fixed in
+    archive-article.mjs AND lifecycle.mjs.** E2E verified on a throwaway tombstone (all 13 files flip,
+    manifest flag + sitemap-exclusion correct, validate 0), then reverted. Render build rides on CI (local OOM).
 - **P2 — Make review-due proactive (step 5 + #3 + #4).** A scheduled Action that builds the
   **prioritized review-due queue** (traffic × age) and surfaces it (one living GitHub issue +/or a
   dashboard tile). Fix `flag-needs-update.mjs` to 13 langs. Add the cadence policy (#5).

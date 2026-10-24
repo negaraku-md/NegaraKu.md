@@ -117,6 +117,16 @@ export function isPublishable(a: Article): boolean {
  * keeps the freshness claim tied to the freshness fact (and the flag itself can
  * never go stale). An explicit stored status always wins.
  */
+/**
+ * A no-successor TOMBSTONE — an archived topic that is still served (200) with a
+ * banner + noindex, instead of 404ing a once-indexed URL. Explicit, never
+ * derived (the schema field is set only by archive-article.mjs --tombstone), so
+ * the ordinary archived topics stay dropped from the site.
+ */
+export function isTombstone(a: Article): boolean {
+  return a.data.status === 'archived' && a.data.tombstone === true;
+}
+
 export function effectiveStatus(a: Article, now: Date = new Date()): string {
   const s = a.data.status;
   if (s === 'published' && a.data.reviewDue && new Date(a.data.reviewDue) < now) {
@@ -219,6 +229,25 @@ async function computeArticlesForLocale(locale: Locale): Promise<Article[]> {
   return [...byKey.values()].sort(
     (a, b) => b.data.updated.getTime() - a.data.updated.getTime(),
   );
+}
+
+/**
+ * Served tombstones for a locale — archived no-successor topics that are still
+ * routed (banner + noindex) so their URL never 404s. Built from the RAW
+ * collection (allArticles() deliberately drops archived), one row per topic with
+ * the same locale→master fallback as articlesForLocale. Empty unless a topic was
+ * explicitly retired with `archive-article.mjs --tombstone`.
+ */
+export async function tombstonesForLocale(locale: Locale): Promise<Article[]> {
+  const all = (await getCollection('knowledge')).filter(isTombstone);
+  const byKey = new Map<string, Article>();
+  for (const a of all) {
+    const key = articleKey(a);
+    const existing = byKey.get(key);
+    const score = (x: Article) => (x.data.lang === locale ? 2 : x.data.lang === DEFAULT_LOCALE ? 1 : 0);
+    if (!existing || score(a) > score(existing)) byKey.set(key, a);
+  }
+  return [...byKey.values()];
 }
 
 /** Resolve a single article by category + slug for a locale (with fallback). */

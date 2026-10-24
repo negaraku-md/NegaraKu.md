@@ -1,6 +1,6 @@
 import type { Locale } from './categories';
 import { launchCategories } from './categories';
-import { articlesForLocale } from './content';
+import { articlesForLocale, tombstonesForLocale } from './content';
 import { orderedSubcats } from './subcategories';
 
 /** getStaticPaths entries for category index pages.
@@ -10,10 +10,13 @@ export function categoryPaths() {
   return launchCategories().map((c) => ({ params: { category: c.id } }));
 }
 
-/** getStaticPaths entries for article pages in a given locale. */
+/** getStaticPaths entries for article pages in a given locale. Includes served
+    no-successor tombstones (archived + noindex) so a once-indexed URL never
+    404s; the page component renders them read-only via isTombstone(). */
 export async function articlePaths(locale: Locale) {
   const items = await articlesForLocale(locale);
-  return items.map((article) => ({
+  const tombstones = await tombstonesForLocale(locale);
+  return [...items, ...tombstones].map((article) => ({
     params: { category: article.data.category, slug: article.data.slug },
     props: { article },
   }));

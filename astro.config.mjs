@@ -29,6 +29,29 @@ const lastmodByPath = (() => {
   return map;
 })();
 
+// Served no-successor tombstones (archive-article.mjs --tombstone): their page is
+// built (so the URL never 404s) and is `noindex`, so it must NOT appear in the
+// sitemap. Collect their base `${category}/${slug}` keys from the same manifest.
+const tombstoneKeys = (() => {
+  const set = new Set();
+  try {
+    const file = fileURLToPath(new URL('./public/api/articles.json', import.meta.url));
+    const { articles } = JSON.parse(readFileSync(file, 'utf8'));
+    for (const a of articles) if (a.tombstone && a.category && a.slug) set.add(`${a.category}/${a.slug}`);
+  } catch {
+    /* manifest not built yet — nothing to exclude */
+  }
+  return set;
+})();
+
+/** Is this sitemap URL a served tombstone (any locale)? */
+function isTombstoneUrl(url) {
+  let p = url.replace(SITE, '').replace(/^\/+|\/+$/g, '');
+  const seg = p.split('/');
+  if (['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'].includes(seg[0])) seg.shift();
+  return tombstoneKeys.has(seg.join('/'));
+}
+
 /** Map a sitemap URL back to a manifest key: strip origin, locale prefix, slashes. */
 function lastmodFor(url) {
   let p = url.replace(SITE, '').replace(/^\/+|\/+$/g, ''); // e.g. "en/malaysia/slug"
@@ -518,7 +541,7 @@ export default defineConfig({
       // /maintenance pages are chrome-less + `noindex` (BaseLayout), so listing
       // them in the sitemap made Google report "Excluded by 'noindex' tag" for
       // sitemap URLs. (Every other route is index,follow, so nothing else needs filtering.)
-      filter: (page) => !/\/maintenance\/?$/.test(page),
+      filter: (page) => !/\/maintenance\/?$/.test(page) && !isTombstoneUrl(page),
       serialize(item) {
         const lastmod = lastmodFor(item.url);
         if (lastmod) item.lastmod = lastmod;

@@ -33,7 +33,9 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
 const REVIEWERS_FILE = path.join(ROOT, 'scripts', 'health', 'reviewers.txt');
-const LANGS = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
+// Includes `ms`: when a topic's master is en/zh/ta, its Malay edition is a
+// translation at `slug.ms.md`, and a transition must flip it with the rest.
+const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
 const today = () => new Date().toISOString().slice(0, 10);
 
 // Per-action transition table: current status -> next status.

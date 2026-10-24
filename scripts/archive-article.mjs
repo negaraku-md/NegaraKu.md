@@ -7,8 +7,13 @@
 // locales). Archived topics are already dropped from every listing by content.ts.
 //
 // Usage:
-//   node scripts/archive-article.mjs <category/slug> --into <category/slug> \
-//        [--reason "..."] [--by <name>] [--apply]
+//   MERGE (301 to a successor):
+//     node scripts/archive-article.mjs <category/slug> --into <category/slug> \
+//          [--reason "..."] [--by <name>] [--apply]
+//   TOMBSTONE (no successor — serve the page at 200 + noindex so the URL never
+//   404s, kept out of listings/sitemap/search):
+//     node scripts/archive-article.mjs <category/slug> --tombstone \
+//          [--reason "..."] [--by <name>] [--apply]
 //
 //   (no --apply) dry-run: print the full plan, write nothing.
 //   --apply                 perform it.
@@ -17,14 +22,13 @@
 //   • the topic's master must exist and be in a live/archivable status
 //     (published · needs-update · request-archive · in-archive · reviewed);
 //     draft / in-review / in-redraft are refused (nothing public to retire).
-//   • --into is REQUIRED and must resolve to a DIFFERENT, published master
-//     (no redirect to a missing or non-public page, no self-redirect).
-//   • a genuinely obsolete topic with NO successor is refused here — that case
-//     needs a noindex tombstone page (a later increment), not a soft-404 redirect.
+//   • exactly one of --into / --tombstone. --into must resolve to a DIFFERENT,
+//     published master (no redirect to a missing/non-public page, no self-redirect);
+//     --tombstone takes no successor (nothing to redirect to) and keeps the page served.
 //   • idempotent: an already-archived topic with the same target is a no-op.
 //
-// Only status/hidden/supersededBy/requestedBy/requestReason/updated change — none
-// are in the translation hash, so this is freshness-neutral (no re-stamp needed).
+// Only status/hidden/tombstone/supersededBy/requestedBy/requestReason/updated
+// change — none are in the translation hash, so this is freshness-neutral.
 
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { existsSync, readFileSync } from 'node:fs';
@@ -35,7 +39,10 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
 const REDIRECTS_JSON = path.join(ROOT, 'src', 'data', 'archive-redirects.json');
 const ASTRO_CONFIG = path.join(ROOT, 'astro.config.mjs');
-const LANGS = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
+// All translation languages. `ms` is included because when a topic's master is
+// en/zh/ta, its Malay edition lives at `slug.ms.md` (a translation) — omitting it
+// would leave that one file un-archived and its /<slug> (ms) page out of sync.
+const LANGS = ['ms', 'en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
 const ARCHIVABLE = new Set(['published', 'needs-update', 'request-archive', 'in-archive', 'reviewed']);
 
 const today = () => new Date().toISOString().slice(0, 10);
@@ -54,25 +61,27 @@ const flag = (name) => {
 };
 const positional = argv.find((a) => !a.startsWith('--') && a.includes('/') && argv[argv.indexOf(a) - 1] !== '--into' && argv[argv.indexOf(a) - 1] !== '--reason' && argv[argv.indexOf(a) - 1] !== '--by');
 const into = flag('--into');
+const tombstone = argv.includes('--tombstone');
 const reason = flag('--reason');
 const by = flag('--by');
 
 if (!positional) die('give the topic to archive as <category/slug> (e.g. energy/petronas).');
-if (!into) die('--into <category/slug> is required: every archive must redirect to a live successor. A no-successor obsolete topic needs a noindex tombstone (not built yet).');
+if (!into && !tombstone) die('give either --into <category/slug> (merge: 301 to a live successor) OR --tombstone (no successor: serve the page at 200 with an archived banner + noindex, so the URL never 404s).');
+if (into && tombstone) die('--into and --tombstone are mutually exclusive — a tombstone has no successor to redirect to.');
 
 const [cat, slug] = positional.split('/');
-const [intoCat, intoSlug] = into.split('/');
 if (!cat || !slug) die(`bad topic path "${positional}" — expected <category/slug>.`);
-if (!intoCat || !intoSlug) die(`bad --into path "${into}" — expected <category/slug>.`);
-if (cat === intoCat && slug === intoSlug) die('cannot supersede a topic by itself.');
+let intoCat, intoSlug;
+if (into) {
+  [intoCat, intoSlug] = into.split('/');
+  if (!intoCat || !intoSlug) die(`bad --into path "${into}" — expected <category/slug>.`);
+  if (cat === intoCat && slug === intoSlug) die('cannot supersede a topic by itself.');
+}
 
 // ---- resolve files --------------------------------------------------------
 const masterRel = `${cat}/${slug}.md`;
 const masterAbs = path.join(KNOWLEDGE, cat, `${slug}.md`);
 if (!existsSync(masterAbs)) die(`master not found: knowledge/${masterRel}`);
-
-const intoMasterAbs = path.join(KNOWLEDGE, intoCat, `${intoSlug}.md`);
-if (!existsSync(intoMasterAbs)) die(`--into target not found: knowledge/${intoCat}/${intoSlug}.md`);
 
 // ---- frontmatter helpers (regex line-edits; never reformat the whole block) ----
 const getField = (raw, key) => {
@@ -87,11 +96,15 @@ const setField = (raw, key, token) => {
 };
 const yamlStr = (s) => `"${String(s).replace(/"/g, "'")}"`;
 
-// Validate the successor is public before we point anyone at it.
-const intoRaw = readFileSync(intoMasterAbs, 'utf8');
-const intoStatus = getField(intoRaw, 'status') ?? 'published';
-if (intoStatus === 'archived' || intoStatus === 'draft' || intoStatus === 'in-review') {
-  die(`--into target is "${intoStatus}", not public — refusing to redirect to it.`);
+// Validate the successor is public before we point anyone at it (merge mode only).
+let intoStatus = null;
+if (into) {
+  const intoMasterAbs = path.join(KNOWLEDGE, intoCat, `${intoSlug}.md`);
+  if (!existsSync(intoMasterAbs)) die(`--into target not found: knowledge/${intoCat}/${intoSlug}.md`);
+  intoStatus = getField(readFileSync(intoMasterAbs, 'utf8'), 'status') ?? 'published';
+  if (intoStatus === 'archived' || intoStatus === 'draft' || intoStatus === 'in-review') {
+    die(`--into target is "${intoStatus}", not public — refusing to redirect to it.`);
+  }
 }
 
 // Gather the topic's files: master + any translations present.
@@ -102,7 +115,7 @@ for (const l of LANGS) {
 }
 
 // ---- build the plan -------------------------------------------------------
-const supersededByPath = `/${intoCat}/${intoSlug}`;
+const supersededByPath = into ? `/${intoCat}/${intoSlug}` : null;
 const fromBase = `/${cat}/${slug}`;
 
 const plan = [];
@@ -120,15 +133,37 @@ for (const rel of files) {
   }
   let next = raw;
   next = setField(next, 'status', '"archived"');
-  next = setField(next, 'hidden', 'true');
-  next = setField(next, 'supersededBy', yamlStr(supersededByPath));
+  if (tombstone) {
+    // No successor: keep the page SERVED (not hidden) as a noindex tombstone.
+    next = setField(next, 'hidden', 'false');
+    next = setField(next, 'tombstone', 'true');
+  } else {
+    // Merge: drop from the site and 301 to the successor.
+    next = setField(next, 'hidden', 'true');
+    next = setField(next, 'supersededBy', yamlStr(supersededByPath));
+  }
   if (by) next = setField(next, 'requestedBy', yamlStr(by));
   if (reason) next = setField(next, 'requestReason', yamlStr(reason));
   next = setField(next, 'updated', today());
   plan.push({ rel, abs, from: status, raw, next });
 }
 
-// ---- redirect collision check --------------------------------------------
+// ---- TOMBSTONE mode: no redirect; the page stays served (noindex) ----------
+if (tombstone) {
+  console.log(`\n[archive] ${apply ? 'APPLY' : 'DRY-RUN'} — tombstone ${fromBase} (no successor; served at 200 + noindex)`);
+  console.log(`  files to flip: ${plan.length}${alreadyArchived ? ` (+${alreadyArchived} already archived, skipped)` : ''}`);
+  for (const p of plan) console.log(`    ${p.from.padEnd(14)} → archived (tombstone)   ${p.rel}`);
+  if (reason) console.log(`  reason: ${reason}`);
+  if (by) console.log(`  by: ${by}`);
+  if (plan.length === 0) { console.log('\n[archive] already archived — nothing to do.\n'); process.exit(0); }
+  if (!apply) { console.log('\n[archive] dry-run only. Re-run with --apply to write.\n'); process.exit(0); }
+  for (const p of plan) await writeFile(p.abs, p.next);
+  console.log(`\n[archive] done — ${plan.length} file(s) tombstoned (served + noindex, kept out of listings/sitemap/search).`);
+  console.log('[archive] next: node scripts/sync.mjs ; build on CI; commit (held for push).\n');
+  process.exit(0);
+}
+
+// ---- MERGE mode: redirect collision check ---------------------------------
 const redirData = JSON.parse(readFileSync(REDIRECTS_JSON, 'utf8'));
 redirData.redirects ??= {};
 const existingArchive = redirData.redirects[fromBase];

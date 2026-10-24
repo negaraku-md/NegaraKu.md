@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, loc } from '@/lib/categories';
-import { type Article, relatedArticles, readingTime, articlesForLocale } from '@/lib/content';
+import { type Article, relatedArticles, readingTime, articlesForLocale, isTombstone } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
 import { REPO } from '@/lib/site';
 import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
@@ -35,6 +35,7 @@ const { locale, article } = Astro.props;
 const d = article.data;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
+const tomb = isTombstone(article); // a retired no-successor topic, served read-only
 const cat = getCategory(d.category);
 const path = `/${d.category}/${d.slug}`;
 // The GitHub source file for THIS rendered entry: the master is `<slug>.md`,
@@ -221,6 +222,29 @@ const prev = sIdx > 0 ? siblings[sIdx - 1] : null;
 const next = sIdx >= 0 && sIdx < siblings.length - 1 ? siblings[sIdx + 1] : null;
 const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, locale);
 ---
+
+{tomb && (
+  <aside class="art-tombstone" role="note">
+    <div class="container">
+      <strong>{L('Artikel diarkibkan', 'Archived article', '已归档文章', 'காப்பகப்படுத்தப்பட்ட கட்டுரை', 'アーカイブ済みの記事', '보관된 문서', 'บทความที่จัดเก็บถาวร', 'Bài viết đã lưu trữ', 'Artikel diarsipkan', 'مقالة مؤرشفة', 'संग्रहीत लेख', 'Artículo archivado', 'Article archivé')}</strong>
+      <span>{L(
+        'Topik ini telah ditamatkan atau digantikan dan tidak lagi dikemas kini. Ia dikekalkan untuk rujukan sejarah — maklumatnya mungkin sudah lapuk.',
+        'This topic has been retired or superseded and is no longer maintained. It is kept for historical reference — its information may be out of date.',
+        '本主题已停用或被取代，不再更新。此处保留仅供历史参考——内容可能已过时。',
+        'இந்தத் தலைப்பு நிறுத்தப்பட்டது அல்லது மாற்றப்பட்டது, இனி பராமரிக்கப்படாது. வரலாற்று குறிப்புக்காக வைக்கப்பட்டுள்ளது — தகவல் காலாவதியாகியிருக்கலாம்.',
+        'このトピックは廃止または置き換えられ、更新されていません。履歴参照用に保持されています。情報は古い可能性があります。',
+        '이 주제는 폐기되었거나 대체되어 더 이상 관리되지 않습니다. 기록 참고용으로 보관되며 정보가 오래되었을 수 있습니다.',
+        'หัวข้อนี้ถูกยกเลิกหรือแทนที่แล้วและไม่ได้รับการปรับปรุงอีกต่อไป เก็บไว้เพื่อการอ้างอิงทางประวัติศาสตร์ — ข้อมูลอาจล้าสมัย',
+        'Chủ đề này đã ngừng hoặc được thay thế và không còn được cập nhật. Được giữ lại để tham khảo lịch sử — thông tin có thể đã lỗi thời.',
+        'Topik ini telah dihentikan atau digantikan dan tidak lagi diperbarui. Disimpan untuk referensi historis — informasinya mungkin sudah usang.',
+        'تم إيقاف هذا الموضوع أو استبداله ولم يعد يُحدَّث. يُحتفظ به للرجوع التاريخي — قد تكون المعلومات قديمة.',
+        'इस विषय को वापस ले लिया गया है या प्रतिस्थापित कर दिया गया है और अब इसका रखरखाव नहीं होता। इसे ऐतिहासिक संदर्भ के लिए रखा गया है — जानकारी पुरानी हो सकती है।',
+        'Este tema ha sido retirado o reemplazado y ya no se mantiene. Se conserva como referencia histórica; su información puede estar desactualizada.',
+        'Ce sujet a été retiré ou remplacé et n’est plus maintenu. Il est conservé à titre de référence historique — ses informations peuvent être obsolètes.',
+      )}</span>
+    </div>
+  </aside>
+)}
 
 <header class="art-hero">
   <div class="container">
@@ -698,6 +722,15 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
 <BecomeContributor locale={locale} />
 
 <style>
+  /* Tombstone notice — a retired, no-successor topic served read-only. */
+  .art-tombstone {
+    background: color-mix(in srgb, var(--gold) 12%, var(--surface));
+    border-bottom: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line));
+  }
+  .art-tombstone .container { padding-block: 0.85rem; display: flex; flex-wrap: wrap; gap: 0.3rem 0.9rem; align-items: baseline; }
+  .art-tombstone strong { color: var(--gold); font-family: var(--font-title); text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.82rem; }
+  .art-tombstone span { color: var(--ink-soft); font-size: 0.9rem; }
+
   /* Same hero treatment as the home / section heroes (PageHero): the gold-tinted
      gradient, big 900-weight headline, matched breadcrumb + padding. */
   .art-hero {
