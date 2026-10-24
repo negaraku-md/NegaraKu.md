@@ -86,7 +86,7 @@ function card({ kicker, fact, sourced, caveat }) {
   ${bloom(900, 860, 380, 0.06)}
   <text x="${PAD}" y="132" font-family="${BODY_FONT}" font-size="26" font-weight="600" fill="${GOLD}" letter-spacing="0.5">${esc(kicker)}</text>
   ${factSvg}
-  ${lockup(W - 118, 66, 'AI-friendly Malaysia')}
+  ${lockup(W - 118, 66, 'Explore Malaysia, AI-friendly')}
   ${trust}
 </svg>`;
 }

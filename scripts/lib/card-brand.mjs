@@ -74,8 +74,8 @@ export const badge = (cx, cy, size) => {
     <g transform="translate(${_FTX.toFixed(2)} ${_FTY.toFixed(2)}) scale(${_FSC.toFixed(5)})"><path fill="${GOLD}" fill-rule="evenodd" d="${FLOWER_D}"/></g></g>`;
 };
 
-// The top-right lockup: badge + "NegaraKu.md" wordmark + "AI-friendly Malaysia"
-// tagline, centred on x=cx. Matches the OG card's corner lockup.
+// The top-right lockup: badge + "NegaraKu.md" wordmark + the "Explore Malaysia,
+// AI-friendly" tagline, centred on x=cx. Matches the OG card's corner lockup.
 export const lockup = (cx, topY, tagline, badgeSize = 84) =>
   `${badge(cx, topY, badgeSize)}
   <text x="${cx}" y="${topY + badgeSize / 2 + 34}" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="${INK}">NegaraKu<tspan fill="${GOLD}">.md</tspan></text>

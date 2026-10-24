@@ -226,7 +226,7 @@ function articleSvg(a) {
   <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
   ${badge(RX, 70, 78)}
   <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
-  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Malaysia mesra-AI', 'AI-friendly Malaysia', 'AI 友好的马来西亚', 'AI-நட்பு மலேசியா', 'AIフレンドリーなマレーシア', 'AI 친화적인 말레이시아', 'มาเลเซียที่เป็นมิตรกับ AI', 'Malaysia thân thiện với AI', 'Malaysia ramah-AI', 'ماليزيا صديقة لـ AI', 'AI-अनुकूल मलेशिया', 'Malasia amigable con la IA', "Malaisie adaptée à l'IA")}</text>
+  <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Terokai Malaysia, mesra AI', 'Explore Malaysia, AI-friendly', '探索马来西亚，对 AI 友好', 'மலேசியாவை ஆராயுங்கள், AI-நட்பு', 'マレーシアを探索、AIフレンドリー', '말레이시아 탐색, AI 친화적', 'สำรวจมาเลเซีย เป็นมิตรกับ AI', 'Khám phá Malaysia, thân thiện với AI', 'Jelajahi Malaysia, ramah AI', 'استكشف ماليزيا، صديقة لـ AI', 'मलेशिया को एक्सप्लोर करें, AI-अनुकूल', 'Explora Malasia, compatible con la IA', "Explorez la Malaisie, adaptée à l'IA")}</text>
 </svg>`;
 }
 
