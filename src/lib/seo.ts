@@ -397,9 +397,9 @@ export function datasetJsonLd(locale: Locale = 'en'): Record<string, unknown> {
       },
       {
         '@type': 'DataDownload',
-        name: 'Hugging Face dataset',
-        encodingFormat: 'application/json',
-        contentUrl: 'https://huggingface.co/datasets/negaraku-md/negaraku-md',
+        name: 'Hugging Face dataset (JSON Lines)',
+        encodingFormat: 'application/jsonl',
+        contentUrl: `https://huggingface.co/datasets/negaraku-md/negaraku-md/resolve/main/data/${locale}.jsonl`,
       },
     ],
   };
