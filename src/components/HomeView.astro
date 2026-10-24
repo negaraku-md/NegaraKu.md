@@ -1,6 +1,6 @@
 ---
 import type { Locale } from '@/lib/categories';
-import { PILLARS, getPillarColor, loc } from '@/lib/categories';
+import { PILLARS, getPillarColor, loc, CATEGORY_HUB, getCategory, getCategoryColor } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
 import { articlesForLocale } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
@@ -19,6 +19,26 @@ const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: st
 const items = (await articlesForLocale(locale)).filter((a) => a.data.category !== 'about');
 const STRIP = 4;
 const mrKeys = mostReadKeys(items, STRIP);
+
+// "Key guides" — the head-term HUBS (pillar overviews), surfaced on the homepage
+// (the site's highest-authority page) so each hub collects a top-level internal
+// link and readers reach the canonical entry point for a big topic in one click.
+// Resolve each from the locale-filtered `items` by category + slug, so the title
+// is this locale's and a hub only shows when published & present.
+const hubCards = Object.entries(CATEGORY_HUB)
+  .map(([catId, slug]) => {
+    const art = items.find((a) => a.data.category === catId && a.data.slug === slug);
+    if (!art) return null;
+    const cat = getCategory(catId);
+    return {
+      title: art.data.title,
+      icon: cat?.icon ?? '📄',
+      color: getCategoryColor(catId),
+      catName: cat ? loc(cat.name, locale) : catId,
+      href: localePath(`/${catId}/${slug}`, locale),
+    };
+  })
+  .filter((h): h is NonNullable<typeof h> => h !== null);
 
 // "Malaysia at a glance" stat cards — the shared hero standard, imported above as
 // `stats` from src/lib/heroStats.ts (also PageHero's default on non-article pages).
@@ -107,6 +127,31 @@ const mrKeys = mostReadKeys(items, STRIP);
   </div>
 </section>
 
+{
+  hubCards.length > 0 && (
+    <section class="container block">
+      <h2 class="ways-title">
+        {L('Panduan utama', 'Key guides', '重点指南', 'முக்கிய வழிகாட்டிகள்', '主要ガイド', '주요 가이드', 'คู่มือสำคัญ', 'Hướng dẫn chính', 'Panduan utama', 'أهم الأدلة', 'प्रमुख गाइड', 'Guías clave', 'Guides clés')}
+      </h2>
+      <p class="guides-sub">
+        {L('Gambaran keseluruhan — tempat terbaik untuk mula bagi topik terbesar Malaysia.', "Start-here overviews for Malaysia's biggest topics.", '马来西亚最重要主题的入门总览。', 'மலேசியாவின் மிகப் பெரிய தலைப்புகளுக்கான தொடக்கப் புள்ளி கண்ணோட்டங்கள்.', 'マレーシアの主要トピックの出発点となる概要。', '말레이시아의 주요 주제를 시작하기 좋은 개요.', 'ภาพรวมสำหรับเริ่มต้นในหัวข้อสำคัญที่สุดของมาเลเซีย', 'Tổng quan khởi đầu cho những chủ đề lớn nhất của Malaysia.', 'Ikhtisar awal untuk topik terbesar Malaysia.', 'نظرات عامة لتبدأ منها في أهم موضوعات ماليزيا.', 'मलेशिया के सबसे बड़े विषयों के लिए शुरुआती अवलोकन।', 'Resúmenes de inicio para los temas más importantes de Malasia.', 'Des aperçus pour commencer sur les plus grands sujets de la Malaisie.')}
+      </p>
+      <div class="guides-grid">
+        {hubCards.map((h) => (
+          <a class="card guide-card" href={h.href} style={`--c:${h.color}`}>
+            <span class="gicon" aria-hidden="true">{h.icon}</span>
+            <span class="gtext">
+              <b>{h.title}</b>
+              <span class="gcat">{h.catName}</span>
+            </span>
+            <span class="dirx garrow" aria-hidden="true">→</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  )
+}
+
 <ArticleStrip locale={locale} articles={items} moreHref="/latest" sort="recent" limit={STRIP} exclude={mrKeys} />
 
 <ArticleStrip locale={locale} articles={items} moreHref="/most-read" limit={STRIP} />
@@ -188,5 +233,24 @@ const mrKeys = mostReadKeys(items, STRIP);
   .pillar .pdesc { color: var(--ink-soft); font-size: 0.95rem; flex: 1; }
   .pillar .pgo { color: var(--c); font-weight: 700; font-size: 0.9rem; }
   @media (max-width: 800px) { .pillars { grid-template-columns: 1fr; } }
+
+  /* Key guides — the head-term hubs. Compact row cards with a direction-neutral
+     top accent (matches the pillar cards above) so they read as the specific
+     entry points beneath the broad pillars. */
+  .guides-sub { text-align: center; color: var(--muted); margin: -0.6rem 0 1.4rem; font-size: 0.98rem; }
+  .guides-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1rem; }
+  .guide-card {
+    display: flex; align-items: center; gap: 0.85rem; padding: 1.05rem 1.15rem;
+    border-top-width: 3px; border-top-color: var(--c);
+    transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+  }
+  .guide-card:hover { border-color: var(--c); transform: translateY(-2px); }
+  .guide-card .gicon { font-size: 1.7rem; line-height: 1; flex: 0 0 auto; }
+  .guide-card .gtext { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; flex: 1 1 auto; }
+  .guide-card .gtext b { font-family: var(--font-title); font-size: 1.02rem; font-weight: 700; line-height: 1.25; color: var(--ink); }
+  .guide-card .gcat { font-size: 0.76rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 700; }
+  .guide-card .garrow { color: var(--c); font-weight: 700; flex: 0 0 auto; transition: transform 0.15s ease; }
+  .guide-card:hover .garrow { transform: translateX(3px); }
+  :global([dir='rtl']) .guide-card:hover .garrow { transform: translateX(-3px); }
 
 </style>
