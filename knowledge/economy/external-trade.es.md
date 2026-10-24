@@ -23,7 +23,7 @@ appliesTo: "Cualquiera que lea los titulares del comercio malasio — exportador
 lang: "es"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

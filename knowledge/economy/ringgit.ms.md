@@ -21,7 +21,7 @@ appliesTo: "Sesiapa yang terdedah kepada kadar pertukaran — pengimport, pengek
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "a0d224345b9024d5"
 
 status: "published"

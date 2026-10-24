@@ -21,7 +21,7 @@ appliesTo: "マレーシアの貿易関連ニュースを読むすべての人�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "09facf393be3e0fa"
 
 status: "published"

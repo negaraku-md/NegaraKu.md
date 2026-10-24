@@ -22,7 +22,7 @@ appliesTo: "변동금리 대출을 보유한 차입자, 저축자, 그리고 말
 lang: "ko"
 sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

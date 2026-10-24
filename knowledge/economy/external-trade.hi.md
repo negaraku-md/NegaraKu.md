@@ -23,7 +23,7 @@ appliesTo: "मलेशियाई व्यापार सुर्खिय
 lang: "hi"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

@@ -23,7 +23,7 @@ appliesTo: "Toute personne interprétant les données du marché du travail mala
 lang: "fr"
 sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

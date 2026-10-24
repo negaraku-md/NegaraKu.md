@@ -23,7 +23,7 @@ appliesTo: "Siapa saja yang menilai eksposur ekonomi Malaysia — investor, penc
 lang: "id"
 sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

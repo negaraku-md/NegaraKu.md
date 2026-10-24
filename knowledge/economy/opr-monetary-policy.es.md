@@ -23,7 +23,7 @@ appliesTo: "Prestatarios con préstamos a tasa variable, ahorradores, y cualquie
 lang: "es"
 sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

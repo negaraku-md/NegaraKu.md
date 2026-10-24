@@ -11,10 +11,10 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "Electrical and electronics (E&E) products are Malaysia's largest export category by a wide margin. In January 2026 E&E exports were RM70.53 billion — a 39.5% year-on-year rise and 48% of Malaysia's total exports (MIDA, 20 February 2026). Malaysia's strength is concentrated in the back end of the semiconductor chain: assembly, testing and packaging rather than chip fabrication."
+answer: "Electrical and electronics (E&E) products are Malaysia's largest export category by a wide margin. In September 2026 E&E exports were RM110.23 billion — a 69.2% year-on-year rise and 51.2% of Malaysia's total exports (DOSM Monthly External Trade Statistics, released 19 October 2026). Malaysia's strength is concentrated in the back end of the semiconductor chain: assembly, testing and packaging rather than chip fabrication."
 keyTakeaways:
-  - "E&E was 48% of total exports in January 2026, worth RM70.53 billion"
-  - "E&E exports grew 39.5% year-on-year that month, driven by AI-related semiconductor demand"
+  - "E&E was 51.2% of total exports in September 2026, worth RM110.23 billion"
+  - "E&E exports grew 69.2% year-on-year that month, driven by AI-related semiconductor demand"
   - "Malaysia specialises in assembly, testing and packaging — the back end, not fabrication"
   - "Penang is the historic centre, dating to the free trade zone established in 1972"
   - "The concentration is a strength and a vulnerability: one sector carries roughly half the export base"
@@ -27,26 +27,31 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: null
-reviewed: "2026-07-25"
+reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
-reviewDue: 2026-10-24
-revision: 0
+reviewDue: 2028-04-25
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 E&E export figures."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-10-25
 sources:
   - title: "Malaysia's Trade Hits Historic High in January 2026; E&E Exports Continue to Lead Growth"
     url: "https://www.investmalaysia.gov.my/resources/latest-announcements/malaysias-trade-hits-historic-high-in-january-2026-ee-exports-continue-to-lead-growth/"
     publisher: "MIDA / InvestMalaysia"
     date: "2026-02-20"
-  - title: "Monthly External Trade Statistics"
-    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-june2026"
+  - title: "Monthly External Trade Statistics, September 2026"
+    url: "https://www.dosm.gov.my/portal-main/release-content/monthly-external-trade-statistics-sep2026"
     publisher: "DOSM"
+    date: "2026-10-19"
   - title: "Ministry of Investment, Trade and Industry (MITI)"
     url: "https://www.miti.gov.my/"
     publisher: "MITI"

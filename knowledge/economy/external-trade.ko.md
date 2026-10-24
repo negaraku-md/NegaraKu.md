@@ -22,7 +22,7 @@ appliesTo: "말레이시아 무역 헤드라인을 읽는 모든 사람 — 수�
 lang: "ko"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

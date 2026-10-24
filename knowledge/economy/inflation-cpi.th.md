@@ -22,7 +22,7 @@ appliesTo: "ผู้ที่พยายามอ่านรายงาน�
 lang: "th"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

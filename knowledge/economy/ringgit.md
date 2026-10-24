@@ -10,10 +10,10 @@ tier: "2"
 mode: "practical"
 contentType: "guide"
 
-answer: "The ringgit (MYR) is Malaysia's currency, issued by Bank Negara Malaysia. It floats — its value is set by the market, not fixed by the government, a change made after the peg introduced in 1998 was removed in 2005. The KL USD/MYR reference rate was 4.0944 as at 24 July 2026, and daily foreign exchange turnover was USD 19.03 billion (BNM Financial Markets Investor Portal)."
+answer: "The ringgit (MYR) is Malaysia's currency, issued by Bank Negara Malaysia. It floats — its value is set by the market, not fixed by the government, a change made after the peg introduced in 1998 was removed in 2005. The KL USD/MYR reference rate was 4.0841 as at 23 October 2026, and daily foreign exchange turnover was USD 20.41 billion (BNM Financial Markets Investor Portal)."
 keyTakeaways:
-  - "The KL USD/MYR reference rate was 4.0944 as at 24 July 2026"
-  - "Daily FX turnover was USD 19.03 billion on the same date"
+  - "The KL USD/MYR reference rate was 4.0841 as at 23 October 2026"
+  - "Daily FX turnover was USD 20.41 billion on the same date"
   - "The ringgit floats — it was pegged at 3.80 to the US dollar from 1998 until 2005"
   - "It is driven mainly by commodity prices, interest rate differentials and global risk appetite"
   - "A weaker ringgit helps exporters and tourism, and raises the cost of imports and overseas study"
@@ -26,23 +26,27 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: null
-reviewed: "2026-07-25"
+reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
-reviewDue: 2026-10-24
-revision: 0
+reviewDue: 2028-04-25
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated USD/MYR reference rate + FX turnover to 23 October 2026 (BNM)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-10-25
 sources:
   - title: "Financial Markets Investor Portal — reference rates and turnover"
     url: "https://financialmarkets.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
-    date: "2026-07-24"
+    date: "2026-10-23"
   - title: "Foreign Exchange Policy"
     url: "https://www.bnm.gov.my/"
     publisher: "Bank Negara Malaysia"
@@ -60,19 +64,19 @@ related: ["opr-monetary-policy", "external-trade", "inflation-cpi"]
 keywords: ["ringgit", "MYR", "USD MYR rate", "kadar tukaran ringgit", "Malaysia currency", "ringgit exchange rate"]
 faq:
   - q: If the USD/MYR number goes up, has the ringgit got stronger or weaker?
-    a: Weaker. USD/MYR of 4.0944 means one US dollar buys 4.0944 ringgit, so when that number rises each dollar buys more ringgit and the ringgit has weakened. The article calls this inversion the most common misreading. "The ringgit fell" is also meaningless without naming the other currency, since it can weaken against the dollar while strengthening against the yen or the euro at the same time.
+    a: Weaker. USD/MYR of 4.0841 means one US dollar buys 4.0841 ringgit, so when that number rises each dollar buys more ringgit and the ringgit has weakened. The article calls this inversion the most common misreading. "The ringgit fell" is also meaningless without naming the other currency, since it can weaken against the dollar while strengthening against the yen or the euro at the same time.
   - q: Is the ringgit still pegged to the US dollar at 3.80?
     a: No. Malaysia pegged the ringgit at 3.80 to the US dollar in September 1998 during the Asian Financial Crisis, alongside capital controls, and the peg held for nearly seven years. It was removed in 2005, and the ringgit returned to a managed float — market-determined, with Bank Negara Malaysia present only to smooth disorderly movement rather than to defend a particular level. There is no official "correct" level today.
   - q: Why is the rate my bank or money changer gives me worse than BNM's published rate?
-    a: Because BNM's KL USD/MYR reference rate is a market benchmark computed from the interbank market, used for contracts and valuation — not a retail price. Banks and money changers add their own spread on top, so you will always transact at a worse rate than the reference. The reference rate was 4.0944 as at 24 July 2026, but that is the benchmark, not what a customer actually pays at the counter.
+    a: Because BNM's KL USD/MYR reference rate is a market benchmark computed from the interbank market, used for contracts and valuation — not a retail price. Banks and money changers add their own spread on top, so you will always transact at a worse rate than the reference. The reference rate was 4.0841 as at 23 October 2026, but that is the benchmark, not what a customer actually pays at the counter.
 ---
 
 ## At a glance
 
 | Metric | Value | As at | Source |
 | --- | --- | --- | --- |
-| KL USD/MYR reference rate | 4.0944 | 24 July 2026 | BNM (FMIP) |
-| Daily FX turnover | USD 19.03 billion | 24 July 2026 | BNM (FMIP) |
+| KL USD/MYR reference rate | 4.0841 | 23 October 2026 | BNM (FMIP) |
+| Daily FX turnover | USD 20.41 billion | 23 October 2026 | BNM (FMIP) |
 | Regime | Managed float | — | BNM |
 | Issuer | Bank Negara Malaysia | — | BNM |
 
@@ -138,7 +142,7 @@ opposite things.
 
 ## Reading a rate quote correctly
 
-- **Direction of quotation.** USD/MYR of 4.0944 means one US dollar buys 4.0944
+- **Direction of quotation.** USD/MYR of 4.0841 means one US dollar buys 4.0841
   ringgit. When that *number rises*, the ringgit has *weakened*. This inversion
   is the most common misreading.
 - **Reference rate versus your rate.** BNM's reference rate is a market benchmark.

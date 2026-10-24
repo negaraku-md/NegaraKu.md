@@ -22,7 +22,7 @@ appliesTo: "Sesiapa yang cuba membaca laporan inflasi Malaysia dengan tepat — 
 
 lang: "ms"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "32de1367e3faaa19"
 
 status: "published"

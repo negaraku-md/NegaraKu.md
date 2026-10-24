@@ -21,7 +21,7 @@ appliesTo: "変動金利ローンを利用する借り手、貯蓄者、そし�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "176a9c4deda655ce"
 
 status: "published"

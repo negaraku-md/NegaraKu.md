@@ -23,7 +23,7 @@ appliesTo: "மலேசிய வர்த்தக தலைப்புச்
 lang: "ta"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

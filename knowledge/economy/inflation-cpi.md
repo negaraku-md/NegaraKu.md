@@ -10,12 +10,12 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia's headline inflation rate was 2.0% year-on-year in May 2026, with the Consumer Price Index at 137.1 against 134.4 a year earlier (DOSM, released 19 June 2026). The headline figure is a weighted average across the whole consumption basket, so it rarely matches any individual household's experience — in the same month transport prices rose 3.8% while food and beverages rose only 1.4%."
+answer: "Malaysia's headline inflation rate was 1.8% year-on-year in September 2026, with the Consumer Price Index at 137.6 against 135.2 a year earlier (DOSM, released 19 October 2026). The headline figure is a weighted average across the whole consumption basket, so it rarely matches any individual household's experience — in the same month transport prices rose 2.5% while food and beverages rose 1.8%."
 keyTakeaways:
-  - "Headline inflation was 2.0% year-on-year in May 2026 (CPI 137.1, up from 134.4)"
+  - "Headline inflation was 1.8% year-on-year in September 2026 (CPI 137.6, up from 135.2)"
   - "The CPI is a weighted average of a fixed basket — it is not the price rise of any one product"
-  - "Category rates diverge sharply: transport +3.8% versus food and beverages +1.4% in May 2026"
-  - "Inflation also varies by state — Pahang recorded 2.8% and Sarawak 0.5% in the same month"
+  - "Category rates diverge: transport +2.5% versus food and beverages +1.8% in September 2026"
+  - "Inflation also varies by state — Negeri Sembilan and Labuan recorded 2.4% and Sarawak 0.5% in the same month"
   - "DOSM publishes the CPI monthly, roughly three weeks after the month ends"
 appliesTo: "Anyone trying to read Malaysian inflation reporting accurately — households, employers setting pay, and analysts."
 
@@ -26,23 +26,27 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: null
-reviewed: "2026-07-25"
+reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
-reviewDue: 2026-10-24
-revision: 0
+reviewDue: 2027-04-25
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM September 2026 CPI figures."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-10-25
 sources:
-  - title: "Consumer Price Index, May 2026"
-    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-may2026"
+  - title: "Consumer Price Index, September 2026"
+    url: "https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026"
     publisher: "DOSM"
-    date: "2026-06-19"
+    date: "2026-10-19"
   - title: "Consumer Price Index — OpenDOSM data portal"
     url: "https://open.dosm.gov.my/publications/cpi_2026-04"
     publisher: "DOSM"
@@ -140,6 +144,6 @@ from other economies:
 
 - Compare against output: [Malaysia GDP Overview](/en/economy/gdp-overview)
 - Consult the primary release directly at
-  [DOSM's Consumer Price Index page](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-may2026)
+  [DOSM's Consumer Price Index page](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026)
   or the machine-readable series on
   [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).

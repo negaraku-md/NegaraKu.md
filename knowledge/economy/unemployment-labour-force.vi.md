@@ -23,7 +23,7 @@ appliesTo: "Bất kỳ ai diễn giải dữ liệu thị trường lao động 
 lang: "vi"
 sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

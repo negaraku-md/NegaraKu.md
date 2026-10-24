@@ -22,7 +22,7 @@ appliesTo: "환율에 노출된 모든 사람 — 수입업체, 수출업체, �
 lang: "ko"
 sourceContentHash: "a0d224345b9024d5"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

@@ -23,7 +23,7 @@ appliesTo: "Siapa saja yang mencoba membaca laporan inflasi Malaysia dengan tepa
 lang: "id"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

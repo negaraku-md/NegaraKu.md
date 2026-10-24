@@ -23,7 +23,7 @@ appliesTo: "மலேசியப் பணவீக்க அறிக்கை
 lang: "ta"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

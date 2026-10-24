@@ -22,7 +22,7 @@ appliesTo: "Bất kỳ ai đánh giá mức phơi nhiễm kinh tế của Malays
 lang: "vi"
 sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

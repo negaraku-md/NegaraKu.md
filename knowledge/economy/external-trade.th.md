@@ -23,7 +23,7 @@ appliesTo: "ผู้ที่อ่านข่าวพาดหัวกา�
 lang: "th"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

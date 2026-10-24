@@ -22,7 +22,7 @@ appliesTo: "विनिमय दर के संपर्क में आन
 lang: "hi"
 sourceContentHash: "a0d224345b9024d5"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

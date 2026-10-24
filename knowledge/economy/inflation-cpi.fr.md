@@ -23,7 +23,7 @@ appliesTo: "Toute personne qui cherche à lire avec précision l'information sur
 lang: "fr"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

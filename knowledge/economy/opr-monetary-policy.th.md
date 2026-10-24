@@ -23,7 +23,7 @@ appliesTo: "ผู้กู้ที่มีสินเชื่ออัต�
 lang: "th"
 sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

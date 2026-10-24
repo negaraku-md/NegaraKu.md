@@ -23,7 +23,7 @@ appliesTo: "Emprunteurs ayant des prêts à taux variable, épargnants, et quico
 lang: "fr"
 sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

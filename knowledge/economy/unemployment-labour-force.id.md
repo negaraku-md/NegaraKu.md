@@ -22,7 +22,7 @@ appliesTo: "Siapa saja yang menafsirkan data pasar tenaga kerja Malaysia — pen
 lang: "id"
 sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

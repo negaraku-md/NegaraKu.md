@@ -22,7 +22,7 @@ appliesTo: "المقترضون أصحاب القروض ذات الأسعار ا�
 lang: "ar"
 sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

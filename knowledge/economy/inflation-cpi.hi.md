@@ -22,7 +22,7 @@ appliesTo: "हर वह व्यक्ति जो मलेशियाई 
 lang: "hi"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

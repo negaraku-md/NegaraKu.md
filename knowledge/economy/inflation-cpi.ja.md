@@ -21,7 +21,7 @@ appliesTo: "マレーシアのインフレ報道を正確に読み取ろうと�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "32de1367e3faaa19"
 
 status: "published"

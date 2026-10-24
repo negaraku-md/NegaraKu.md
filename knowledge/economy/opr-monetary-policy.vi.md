@@ -23,7 +23,7 @@ appliesTo: "Người vay có các khoản vay lãi suất thả nổi, người 
 lang: "vi"
 sourceContentHash: "176a9c4deda655ce"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

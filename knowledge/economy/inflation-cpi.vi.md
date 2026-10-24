@@ -22,7 +22,7 @@ appliesTo: "Bất kỳ ai đang cố đọc chính xác các bản tin lạm ph�
 lang: "vi"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

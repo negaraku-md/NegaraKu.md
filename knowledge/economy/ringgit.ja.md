@@ -21,7 +21,7 @@ appliesTo: "為替レートの影響を受けるすべての人——輸入業�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "a0d224345b9024d5"
 
 status: "published"

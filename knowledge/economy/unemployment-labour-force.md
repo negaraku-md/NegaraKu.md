@@ -10,10 +10,10 @@ tier: "4"
 mode: "practical"
 contentType: "data"
 
-answer: "Malaysia's unemployment rate was 3.0% in May 2026, with 513,400 people unemployed out of a labour force of 17.34 million and 16.82 million employed (DOSM, released 10 July 2026). The labour force participation rate was 70.9%. The rate counts only people who are without work, available for work and actively looking — which is why it can stay low while roughly three in ten working-age Malaysians remain outside the labour force entirely."
+answer: "Malaysia's unemployment rate was 2.9% in August 2026, with 511,600 people unemployed out of a labour force of 17.39 million and 16.87 million employed (DOSM, released 9 October 2026). The labour force participation rate was 71.0%. The rate counts only people who are without work, available for work and actively looking — which is why it can stay low while roughly three in ten working-age Malaysians remain outside the labour force entirely."
 keyTakeaways:
-  - "Unemployment was 3.0% in May 2026 — 513,400 people out of a 17.34 million labour force"
-  - "16.82 million people were employed; the participation rate was 70.9%"
+  - "Unemployment was 2.9% in August 2026 — 511,600 people out of a 17.39 million labour force"
+  - "16.87 million people were employed; the participation rate was 71.0%"
   - "To be counted unemployed you must be jobless, available AND actively seeking work"
   - "Roughly 29% of the working-age population sits outside the labour force and is not counted at all"
   - "DOSM publishes labour force statistics monthly, about six weeks after the reference month"
@@ -26,23 +26,27 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: null
-reviewed: "2026-07-25"
+reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
-reviewDue: 2026-10-24
-revision: 0
+reviewDue: 2027-04-25
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-24
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-25
+    change: "Review-due refresh: updated to DOSM August 2026 labour-force figures."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-24
+updated: 2026-10-25
 sources:
-  - title: "Labour Force Statistics, May 2026"
-    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026"
+  - title: "Labour Force Statistics, August 2026"
+    url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026"
     publisher: "DOSM"
-    date: "2026-07-10"
+    date: "2026-10-09"
   - title: "Labour Force Survey Report, First Quarter 2026"
     url: "https://www.dosm.gov.my/portal-main/release-content/labour-force-survey-report-first-q12026"
     publisher: "DOSM"
@@ -145,4 +149,4 @@ complaints about the job market:
 - Read alongside prices: [Malaysia's Inflation Rate](/en/economy/inflation-cpi)
 - And output: [Malaysia GDP Overview](/en/economy/gdp-overview)
 - Primary source:
-  [DOSM Labour Force Statistics](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-may2026)
+  [DOSM Labour Force Statistics](https://www.dosm.gov.my/portal-main/release-content/labour-force-statistics-aug2026)

@@ -23,7 +23,7 @@ appliesTo: "Toute personne qui lit les grands titres du commerce malaisien — e
 lang: "fr"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

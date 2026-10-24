@@ -21,7 +21,7 @@ appliesTo: "マレーシアの労働市場データを読み解くすべての�
 
 lang: "ja"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "f1bb9140bdec9bd9"
 
 status: "published"

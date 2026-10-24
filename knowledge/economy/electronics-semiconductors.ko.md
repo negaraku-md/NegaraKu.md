@@ -22,7 +22,7 @@ appliesTo: "말레이시아의 경제적 노출을 평가하는 모든 사람 �
 lang: "ko"
 sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

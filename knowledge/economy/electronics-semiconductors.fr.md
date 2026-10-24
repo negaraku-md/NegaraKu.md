@@ -23,7 +23,7 @@ appliesTo: "Toute personne évaluant l'exposition économique de la Malaisie —
 lang: "fr"
 sourceContentHash: "fa1a846b1a7d15a8"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

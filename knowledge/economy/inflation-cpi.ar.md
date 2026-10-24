@@ -23,7 +23,7 @@ appliesTo: "كل من يحاول قراءة تقارير التضخم المال
 lang: "ar"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

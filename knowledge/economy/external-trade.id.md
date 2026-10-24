@@ -23,7 +23,7 @@ appliesTo: "Siapa saja yang membaca berita perdagangan Malaysia — eksportir, i
 lang: "id"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

@@ -23,7 +23,7 @@ appliesTo: "Bất kỳ ai đọc các tin tức thương mại của Malaysia �
 lang: "vi"
 sourceContentHash: "09facf393be3e0fa"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

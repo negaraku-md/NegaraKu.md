@@ -23,7 +23,7 @@ appliesTo: "Cualquiera que interprete datos del mercado laboral malasio: quienes
 lang: "es"
 sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

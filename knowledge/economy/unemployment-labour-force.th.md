@@ -22,7 +22,7 @@ appliesTo: "ผู้ที่ตีความข้อมูลตลาด�
 lang: "th"
 sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

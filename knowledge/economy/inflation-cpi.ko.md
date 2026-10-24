@@ -22,7 +22,7 @@ appliesTo: "말레이시아 인플레이션 보도를 정확히 읽으려는 모
 lang: "ko"
 sourceContentHash: "32de1367e3faaa19"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

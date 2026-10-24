@@ -29,9 +29,9 @@ translationStatus: "master"
 status: "published"
 aiAssisted: true
 reviewer: null
-reviewed: "2026-07-25"
+reviewed: "2026-10-25"
 publishedBy: "ashton-tan"
-reviewDue: 2026-10-24
+reviewDue: 2028-04-25
 revision: 0
 revisions:
   - revision: 0

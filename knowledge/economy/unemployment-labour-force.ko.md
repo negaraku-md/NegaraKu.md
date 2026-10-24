@@ -22,7 +22,7 @@ appliesTo: "말레이시아 노동시장 데이터를 해석하는 모든 사람
 lang: "ko"
 sourceContentHash: "f1bb9140bdec9bd9"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
