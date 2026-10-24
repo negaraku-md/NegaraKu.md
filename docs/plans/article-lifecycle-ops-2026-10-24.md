@@ -97,8 +97,26 @@ its `reviewDue` is shown as needs-update automatically. Only `archived` is termi
   `claim`/`submit-for-review`/`sign-off` (status flips with the four-eyes check), and
   `scaffold-draft <category/slug>` that seeds a correct draft from an accepted proposal (with a
   **dedup check** vs the corpus).
+  - **✅ P3 BUILT (2026-10-24, held for push).** Two scripts, both dry-run-default + `--apply`,
+    cascading over master + all 13 langs:
+    1. **`scripts/lifecycle.mjs <action> <cat/slug> --by <handle> [--apply]`** — `claim`
+       (needs-update→in-update · request-redraft→in-redraft · request-archive→in-archive · and an
+       **overdue published** page → in-update; stamps assignee+claimedAt), `submit`
+       (draft/in-update/in-redraft→in-review), `sign-off` (in-review→reviewed; stamps reviewer+reviewed).
+       Hard gates = exactly what `scan.py` enforces, applied *before* the write: reviewer must be in
+       `reviewers.txt`, **four-eyes** (reviewer ≠ assignee / last-revision contributor), sensitive topics
+       sign-off only by a listed reviewer. Illegal transitions abort. (`reviewed→published` stays
+       `publish-reviewed.mjs`; archive stays `archive-article.mjs`.)
+    2. **`scripts/scaffold-draft.mjs <cat/slug> --title "…" [--tier N --type T --master L --by h] [--force] [--apply]`**
+       — seeds a schema-valid draft (fresh globally-unique `topicId` read from the corpus since the
+       manifest drops it, sane defaults, section stubs) after a **dedup check** (exact slug-in-category
+       aborts; stopword-filtered fuzzy title/slug matches warn, `--force` to override).
+    - E2E verified: scaffold→submit→sign-off→publish-reviewed on a throwaway slug produced a clean,
+      validating draft (`MY-ECO-0036`), four-eyes + unknown-reviewer aborts fire, publish auto-stamped
+      `reviewDue` via the P2 cadence (tier 3 → 24 mo). npm aliases: `lifecycle`, `scaffold`.
 - **P4 — Update→re-translate wiring (#1) + lifecycle cockpit (#6).** Make republish emit the
-  re-translation worklist + stamp; finish the dashboard as the ops cockpit.
+  re-translation worklist + stamp; finish the dashboard as the ops cockpit. *(Worklist cockpit already
+  built in P2 — P4 narrows to the update→re-translate trigger + aging/SLA tiles.)*
 
 Everything reuses existing infra (status model, worklist, `publish-reviewed` pattern, the
 Action style of the FB/GSC jobs, the analytics archive). No schema redesign needed — the model
