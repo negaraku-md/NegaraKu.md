@@ -4,7 +4,7 @@ Living tracker of open work toward the mission **"let the world know about Malay
 Owner tags: **[you]** = user action (accounts, credentials, approvals — Claude can't
 do these), **[me]** = Claude.
 
-_Last updated: 2026-10-20._
+_Last updated: 2026-10-24._
 
 The product is mature: **13 languages live** (~1,080 articles each), full analytics
 stack, AI-friendly infra, Facebook auto-posting. The frontier now is **distribution**
@@ -13,9 +13,9 @@ stack, AI-friendly infra, Facebook auto-posting. The frontier now is **distribut
 ---
 
 ## 🔝 Top of mind
-1. **Distribution** — LinkedIn is closest (built, waiting on ~3 credential steps from you).
-2. **Content-quality cleanup** — GSC broken links + verification backlog (both [me], no blockers).
-3. **GA4** — just went live; data accrues over the next day or two, then the panel fills.
+1. **Distribution (off-page) is now the main frontier** — the internal levers are done (13 hubs + homepage/category surfacing, HF dataset ×13 langs, GSC-404 fixed; verification backlog is an exhausted floor). What's left is mostly **[you]**-gated: LinkedIn (~3 credential steps, closest), Instagram (accounts + App Review), and reciprocal **dofollow** links from 1company.com + syarikat.ai.
+2. **Owned backlinks** — the one off-page win with no platform gate: get 1company.com (sponsor) + syarikat.ai to link back dofollow (ready-to-paste snippet in `docs/plans/owned-backlinks.md`); both codebases are user-side to edit.
+3. **GA4** — live since 2026-10-20; run **Actions → "Archive Google Analytics"** once ~24–48h of consented data accrues → `/analytics` panel fills.
 
 ---
 
@@ -48,8 +48,8 @@ is already best-in-class; the gap is **off-page** (third-party citations, backli
 - [ ] **[me]** Wire each account + build the IG branch of the poster engine (2-step Content Publishing API; link-in-bio)
 
 ### Internal SEO levers — purely [me], no blockers
-- [ ] Head-term consolidation: make `knowledge/business/business-structures-malaysia.md` a dense hub internally linking every entity-type article (Sdn Bhd, LLP, Labuan, sole-prop, the `vs` pages)
-- [ ] Expand the Hugging Face dataset to all 13 live languages (currently narrower)
+- [x] **Head-term consolidation — DONE + LIVE.** 13 full bidirectional head-term hubs (business, SST, employment, relocation, government, compliance, healthcare, education, industries, energy, agriculture, cost-of-living, property) — each links out to every spoke and every spoke links back, all 13 languages. Hubs also surfaced as a "Start here" band on their category page and a "Key guides" grid on the homepage (the top-authority internal links). This internal lever is now saturated.
+- [x] **Hugging Face dataset — expanded to all 13 languages** (14,092 rows = 1,084 articles × 13 langs; card facets + parallel-corpus angle + site link added).
 
 ### Wikipedia — playbook + COI disclosure done; execution optional
 - [ ] **[you, sparingly]** Propose only §3-passing citations via Talk-page `{{request edit}}` (`docs/plans/wikipedia-coi-playbook.md`). Highest-risk, lowest-priority. Claude drafts/assesses; never posts to article space.
@@ -65,8 +65,8 @@ is already best-in-class; the gap is **off-page** (third-party citations, backli
 ---
 
 ## 🧹 Content quality & integrity — [me], no blockers
-- [ ] **GSC "Not found (404)"** — ~75 broken *relative* links in ~18 source articles (the real ones, not scanner probes, which are robots-blocked). Plan: `docs/plans/gsc-404-action-plan.md`. `check-internal-links` misses these.
-- [ ] **`verificationNeeded` backlog** — clear remaining unconfirmed-claim items pillar by pillar (taxation tranche done, 20 cleared; reusable multi-agent sweep method exists).
+- [x] **GSC "Not found (404)" — DONE + LIVE.** Robots scanner-probe block + 73 precise redirects + favicon + the 245-file / 744-link source fix (bare body links → absolute locale-aware) + 6 content-gap articles created & inbound-linked. Backlog fully worked through (`docs/plans/gsc-404-action-plan.md`); open item is user-side only (click *Validate Fix* in Search Console).
+- [x] **`verificationNeeded` backlog — EXHAUSTED FLOOR, do NOT sweep.** Full corpus swept (≈231 adversarially-confirmed clears + body-fact corrections, all live). Re-checks 2026-10-09 / 10-19 / 10-22 all confirmed the residual ~790 items are genuine KEEPs (no gazetted source / SME judgment / forward caveats). The *only* remaining yield is new-Budget staleness in specialist articles — re-check pending-gazette + each fresh Budget when revisiting (Budget 2027 Global Services Hub already handled 2026-10-22). See `docs/verification-triage.md`.
 - [ ] **[you/ashton-tan]** Optional human review of the ~196 sensitive articles per language (published AI-assisted under reviewer `ashton-tan`) — most relevant for the newest languages (Arabic especially).
 
 ---
