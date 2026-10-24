@@ -1,6 +1,6 @@
 import type { Article } from './content';
-import type { ContentLocale, Locale } from './categories';
-import { getCategory } from './categories';
+import type { ContentLocale, Locale, Category } from './categories';
+import { getCategory, loc } from './categories';
 import { subcatLabel, SUBCATEGORY_LABELS } from './subcategories';
 import { SITE } from './site';
 import { localePath, withTrailingSlash, LOCALES } from './i18n';
@@ -288,6 +288,7 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
+    '@id': `${SITE}/#website`,
     name: 'NegaraKu.md',
     alternateName: 'negaraku.md',
     url: SITE,
@@ -304,5 +305,102 @@ export function websiteJsonLd(locale: Locale = 'en'): Record<string, unknown> {
       target: `${SITE}/search?q={search_term_string}`,
       'query-input': 'required name=search_term_string',
     },
+  };
+}
+
+/**
+ * CollectionPage + ItemList JSON-LD for a category landing page. Category pages
+ * list every article in the category but previously carried NO structured data,
+ * so engines saw a bare list. This tells them the page is a curated collection
+ * and enumerates its members as an ordered ItemList — each a ListItem pointing
+ * at the article — which is how a listing page earns rich understanding and
+ * feeds the member URLs to crawlers and answer engines.
+ */
+export function categoryCollectionJsonLd(cat: Category, articles: Article[], locale: Locale): Record<string, unknown> {
+  const url = pageUrl(`/${cat.id}`, locale);
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${url}#collection`,
+    url,
+    name: loc(cat.name, locale),
+    description: loc(cat.blurb, locale),
+    inLanguage: BCP47[locale],
+    isPartOf: { '@id': `${SITE}/#website` },
+    publisher: { '@id': ORG_ID },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: articles.length,
+      itemListElement: articles.map((a, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: pageUrl(`/${a.data.category}/${a.data.slug}`, locale),
+        name: a.data.title,
+      })),
+    },
+  };
+}
+
+/**
+ * Dataset JSON-LD for the whole knowledge base. NegaraKu.md is an open,
+ * multilingual, machine-readable corpus — a Dataset is exactly how Google
+ * Dataset Search and AI ingestion pipelines recognise that, with concrete
+ * download distributions (the JSON API, the llms.txt dump, the Hugging Face
+ * dataset). Emitted once on the homepage. This is a discovery surface the site
+ * was not previously claiming, and it reinforces the "AI-friendly" positioning
+ * with an actual, crawlable data offering rather than a claim.
+ */
+export function datasetJsonLd(locale: Locale = 'en'): Record<string, unknown> {
+  const n = LOCALES.length;
+  const description = {
+    ms: `Korpus pengetahuan sumber terbuka, berbilang bahasa dan boleh dibaca mesin tentang Malaysia — perundangan, cukai, perniagaan, kerajaan dan banyak lagi, dalam ${n} bahasa, setiap dakwaan dipetik sumbernya.`,
+    en: `An open, multilingual, machine-readable knowledge corpus about Malaysia — law, tax, business, government and more, in ${n} languages, with every claim sourced.`,
+    zh: `关于马来西亚的开放、多语言、机器可读知识语料库——涵盖法律、税务、商业、政府等，提供 ${n} 种语言，每项陈述均注明来源。`,
+    ta: `மலேசியா பற்றிய திறந்த, பன்மொழி, இயந்திரம் படிக்கக்கூடிய அறிவுத் தொகுப்பு — சட்டம், வரி, வணிகம், அரசாங்கம் மற்றும் பல, ${n} மொழிகளில், ஒவ்வொரு கூற்றும் மூலத்துடன்.`,
+    ja: `マレーシアに関するオープンで多言語・機械可読のナレッジコーパス — 法律、税務、ビジネス、政府など、${n} 言語で、すべての記述に出典付き。`,
+    ko: `말레이시아에 관한 개방형·다국어·기계 판독 가능 지식 코퍼스 — 법률, 세무, 비즈니스, 정부 등, ${n}개 언어, 모든 서술에 출처 표기.`,
+    th: `คลังความรู้เกี่ยวกับมาเลเซียแบบเปิด หลายภาษา และอ่านได้ด้วยเครื่อง — กฎหมาย ภาษี ธุรกิจ รัฐบาล และอื่น ๆ ใน ${n} ภาษา พร้อมอ้างอิงแหล่งที่มาทุกข้อความ`,
+    vi: `Kho tri thức mở, đa ngôn ngữ, máy đọc được về Malaysia — luật, thuế, kinh doanh, chính phủ và hơn thế, bằng ${n} ngôn ngữ, mọi khẳng định đều có nguồn.`,
+    id: `Korpus pengetahuan terbuka, multibahasa, dan terbaca mesin tentang Malaysia — hukum, pajak, bisnis, pemerintahan, dan lainnya, dalam ${n} bahasa, setiap klaim bersumber.`,
+    ar: `مجموعة معرفية مفتوحة ومتعددة اللغات وقابلة للقراءة آلياً عن ماليزيا — القانون والضرائب والأعمال والحكومة وغيرها، بـ ${n} لغات، مع توثيق كل معلومة بمصدرها.`,
+    hi: `मलेशिया के बारे में एक खुला, बहुभाषी, मशीन-पठनीय ज्ञान संग्रह — कानून, कर, व्यवसाय, सरकार और अधिक, ${n} भाषाओं में, हर कथन स्रोत-सहित।`,
+    es: `Un corpus de conocimiento abierto, multilingüe y legible por máquina sobre Malasia — derecho, impuestos, negocios, gobierno y más, en ${n} idiomas, con cada afirmación con fuente.`,
+    fr: `Un corpus de connaissances ouvert, multilingue et lisible par machine sur la Malaisie — droit, fiscalité, affaires, gouvernement et plus, en ${n} langues, chaque affirmation sourcée.`,
+  }[locale] ?? '';
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${SITE}/#dataset`,
+    name: 'NegaraKu.md — Malaysia Knowledge Base',
+    alternateName: 'negaraku.md dataset',
+    description,
+    url: SITE,
+    inLanguage: LOCALES.map((l) => BCP47[l]),
+    license: 'https://creativecommons.org/licenses/by-sa/4.0/',
+    isAccessibleForFree: true,
+    keywords: ['Malaysia', 'knowledge base', 'open data', 'multilingual', 'taxation', 'business', 'law', 'government', 'employment', 'cost of living'],
+    creator: { '@id': ORG_ID },
+    publisher: { '@id': ORG_ID },
+    sameAs: 'https://huggingface.co/datasets/negaraku-md/negaraku-md',
+    distribution: [
+      {
+        '@type': 'DataDownload',
+        name: 'Articles JSON manifest',
+        encodingFormat: 'application/json',
+        contentUrl: `${SITE}/api/articles.json`,
+      },
+      {
+        '@type': 'DataDownload',
+        name: 'Full corpus for LLMs (llms.txt)',
+        encodingFormat: 'text/plain',
+        contentUrl: `${SITE}/llms-full.txt`,
+      },
+      {
+        '@type': 'DataDownload',
+        name: 'Hugging Face dataset',
+        encodingFormat: 'application/json',
+        contentUrl: 'https://huggingface.co/datasets/negaraku-md/negaraku-md',
+      },
+    ],
   };
 }
