@@ -32,7 +32,7 @@ faq:
 verificationNeeded: []
 lang: "ta"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 sourceContentHash: "d7cdda88b95f694a"
 
 status: "published"

@@ -33,7 +33,7 @@ verificationNeeded: []
 lang: "vi"
 sourceContentHash: "d7cdda88b95f694a"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
