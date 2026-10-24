@@ -21,10 +21,11 @@ keyTakeaways:
   - "외국인 근로자는 세 제도 각각에서 다르게 취급됩니다"
 appliesTo: "적합한 법정 기여 안내를 찾는 고용주, 인사 및 급여 관리자."
 
-verificationNeeded: []
+verificationNeeded:
+  - "모든 국민의 만 18세 EPF 회원 자동 등록은 Budget 2027 발표 사항(2026년 10월 9일)으로 아직 시행되지 않았습니다 — EPF가 시행하면 시작일과 방식을 확인할 것; 이는 기여 납부 시점이 아니라 회원 등록을 변경합니다"
 
 lang: "ko"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,14 +34,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Budget 2027 참고 사항을 추가함: 모든 국민이 만 18세에 EPF 회원으로 자동 등록 — 발표되었으나 아직 시행 전이며, 기여 납부 시점이 아니라 회원 등록에 대한 변경임."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "직원공제기금 (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "사회보장기구 (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "사회보장기구 (PERKESO)"
+  - title: "2027년 예산안 (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "말레이시아 재무부 (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -101,6 +110,16 @@ keywords: ["EPF SOCSO EIS Malaysia", "statutory contributions employer Malaysia"
 **외국인 근로자**의 적용 범위는 세 제도에 걸쳐 크게 갈리며, 그 입장은 2024~2026년에 세 제도
 모두에서 바뀌었습니다. 그 이전에 쓰인 것 — 그리고 여전히 상위에 노출되는 상당수 — 은 폐지된
 규칙을 설명합니다. 현지 근로자의 입장에서 일반화하기보다 위의 외국인 근로자 링크를 따르십시오.
+
+## 2027년 발표 사항 (Budget 2027)
+
+Budget 2027(2026년 10월 9일 제출)은 **모든 말레이시아 국민이 만 18세가 되면 EPF 회원으로 자동 등록된다**고
+발표했습니다 — 첫 고용주 기여가 수령될 때에만 등록되던 것과 달리. 이는 적용 범위를 넓히고 더 이른 은퇴
+저축을 장려하기 위한 **회원 자격(membership)** 변경이며, 기여가 18세부터 시작되게 만드는 것은
+**아닙니다**: EPF 기여는 여전히 사람이 고용되어 직원공제기금법 1991(Employees Provident Fund Act 1991)에
+따라 납부 의무를 지게 된 이후에야 비로소 부과되므로, 위의 "첫 기여가 부과되기 전의 등록" 항목에 따른
+고용주의 의무는 바뀌지 않습니다. 이것은 Budget 2027 발표 사항으로, EPF의 시행을 앞둔 **아직 시행되지
+않은** 것입니다.
 
 ## 다음 단계
 

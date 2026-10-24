@@ -21,10 +21,11 @@ keyTakeaways:
   - "Lao động nước ngoài được đối xử khác nhau trong mỗi một trong ba chương trình"
 appliesTo: "Người sử dụng lao động, quản trị viên nhân sự và bảng lương đang tìm hướng dẫn đúng về đóng góp theo luật."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Việc tự động đăng ký tư cách thành viên EPF cho tất cả công dân ở tuổi 18 là một thông báo của Budget 2027 (9 tháng 10 năm 2026), chưa có hiệu lực — xác nhận ngày bắt đầu và cơ chế khi EPF triển khai; nó thay đổi việc đăng ký tư cách thành viên, không phải thời điểm các khoản đóng góp đến hạn"
 
 lang: "vi"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,14 +34,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Thêm một ghi chú Budget 2027: tự động đăng ký tư cách thành viên EPF cho tất cả công dân ở tuổi 18 — được công bố, chưa có hiệu lực; một thay đổi về tư cách thành viên, không phải thay đổi về thời điểm các khoản đóng góp đến hạn."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Quỹ Tiết kiệm Nhân viên (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "Tổ chức An sinh Xã hội (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "Tổ chức An sinh Xã hội (PERKESO)"
+  - title: "Ngân sách 2027 (Cổng thông tin — Văn bản Bài phát biểu, công bố tư cách thành viên EPF tự động ở tuổi 18) (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -90,6 +99,10 @@ Người sử dụng lao động cứ gọi đây là một nghĩa vụ. Nó là
 ## Điều gì khác nhau ở mỗi chương trình
 
 Việc bao phủ **lao động nước ngoài** khác nhau rõ rệt trên cả ba, và vị trí đã thay đổi trong giai đoạn 2024–2026 ở tất cả chúng. Bất cứ điều gì được viết trước đó — và phần lớn những gì vẫn được xếp hạng cao — mô tả các quy tắc đã bị bãi bỏ. Hãy theo các liên kết về lao động nước ngoài ở trên thay vì khái quát hóa từ vị trí của người lao động địa phương.
+
+## Được công bố cho năm 2027 (Budget 2027)
+
+Budget 2027 (trình bày ngày 9 tháng 10 năm 2026) đã công bố rằng **mọi công dân Malaysia sẽ được tự động đăng ký làm thành viên EPF khi bước sang tuổi 18**, thay vì chỉ được đăng ký khi khoản đóng góp đầu tiên của người sử dụng lao động được nhận. Đây là một thay đổi về **tư cách thành viên** nhằm mở rộng phạm vi bao phủ và khuyến khích tiết kiệm hưu trí sớm hơn — nó **không** làm cho các khoản đóng góp bắt đầu từ tuổi 18: các khoản đóng góp EPF vẫn chỉ đến hạn một khi một người được tuyển dụng và có nghĩa vụ theo Employees Provident Fund Act 1991, vì vậy nghĩa vụ của người sử dụng lao động theo điểm "Đăng ký trước khi khoản đóng đầu tiên đến hạn" ở trên là không thay đổi. Đây là một thông báo của Budget 2027, **chưa có hiệu lực**, đang chờ việc triển khai của EPF.
 
 ## Tiếp theo
 

@@ -21,26 +21,31 @@ keyTakeaways:
   - "外国人労働者の扱いは、三つの制度のいずれにおいても異なる"
 appliesTo: "正しい法定拠出金ガイドを探している雇用主、人事担当者、給与管理者。"
 
-verificationNeeded: []
+verificationNeeded:
+  - "全市民を18歳で自動的にEPF会員として登録することは、2027年予算案（2026年10月9日）での発表であり、まだ施行されていない——EPFが実施した時点で開始日と仕組みを確認すること。これは会員登録に関する変更であって、拠出金がいつ発生するかに関する変更ではない"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "2027年予算案に関する注記を追加：全市民を18歳でEPF会員として自動登録する——発表済みだが未施行であり、会員登録に関する変更であって、拠出金がいつ発生するかに関する変更ではない。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "従業員積立基金 (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "社会保障機構 (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "社会保障機構 (PERKESO)"
+  - title: "2027年予算案 (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "マレーシア財務省 (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -107,6 +116,10 @@ Act 452）に基づく退職積立制度である。給与計算の誤りの大�
 いまなお検索上位に残っているものの多く——は、すでに廃止されたルールを説明して
 いる。自国民従業員の立場から一般化するのではなく、上記の外国人労働者向けリンク
 を参照してほしい。
+
+## 2027年に向けた発表（2027年予算案）
+
+2027年予算案（2026年10月9日に上程）は、**すべてのマレーシア市民が18歳に達した時点で自動的にEPF会員として登録される**ことを発表した。これは、最初の雇用主拠出金が受領されて初めて登録されるのではなく、ということである。これは適用範囲を広げ、より早期の退職積立を促すための**会員資格**に関する変更であり、拠出金が18歳から始まるようにするものでは**ない**。EPFの拠出金は、1991年従業員積立基金法（Employees Provident Fund Act 1991）に基づき、人が雇用され納付義務を負って初めて発生するため、上記の「**最初の拠出金が発生する前の登録**」の項目における雇用主の義務は変わらない。これは2027年予算案での発表であり、EPFの実施を待つ段階で、**まだ施行されていない**。
 
 ## 次に読むべきもの
 

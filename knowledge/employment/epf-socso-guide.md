@@ -21,7 +21,8 @@ keyTakeaways:
   - "Foreign workers are treated differently in every one of the three schemes"
 appliesTo: "Employers, HR and payroll administrators looking for the right statutory contribution guide."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Automatic EPF membership registration of all citizens at age 18 is a Budget 2027 announcement (9 Oct 2026), not yet in force — confirm the start date and mechanism once EPF implements it; it changes membership registration, not when contributions become due"
 
 lang: "en"
 masterLanguage: "en"
@@ -32,14 +33,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Added a Budget 2027 note: automatic EPF membership registration of all citizens at age 18 — announced, not yet in force; a membership change, not a change to when contributions become due."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Employees Provident Fund (KWSP)"
     url: "https://www.kwsp.gov.my/"
@@ -47,6 +52,10 @@ sources:
   - title: "Social Security Organisation (PERKESO)"
     url: "https://www.perkeso.gov.my/"
     publisher: "PERKESO"
+  - title: "Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -103,6 +112,18 @@ Coverage of **foreign workers** diverges sharply across the three, and the
 position moved in 2024–2026 in all of them. Anything written before that — and
 much of what still ranks — describes repealed rules. Follow the foreign-worker
 links above rather than generalising from the local-employee position.
+
+## Announced for 2027 (Budget 2027)
+
+Budget 2027 (tabled 9 October 2026) announced that **every Malaysian citizen will
+be automatically registered as an EPF member on turning 18**, instead of being
+registered only when their first employer contribution is received. It is a
+**membership** change to widen coverage and encourage earlier retirement savings
+— it does **not** make contributions start at 18: EPF contributions still fall
+due only once a person is employed and liable under the Employees Provident Fund
+Act 1991, so an employer's duty under "Registration before the first contribution
+falls due" above is unchanged. This is a Budget 2027 announcement, **not yet in
+force**, pending EPF's implementation.
 
 ## What's next
 

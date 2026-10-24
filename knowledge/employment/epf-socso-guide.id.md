@@ -21,10 +21,11 @@ keyTakeaways:
   - "Pekerja asing diperlakukan secara berbeda dalam masing-masing dari tiga skema ini"
 appliesTo: "Pemberi kerja, staf HR dan administrator penggajian yang mencari panduan iuran statutori yang tepat."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Pendaftaran keanggotaan EPF secara otomatis bagi semua warga negara pada usia 18 tahun adalah pengumuman Belanjawan 2027 (9 Okt 2026), belum berlaku — konfirmasikan tanggal mulai dan mekanismenya setelah EPF melaksanakannya; ini mengubah pendaftaran keanggotaan, bukan kapan iuran menjadi wajib disetorkan"
 
 lang: "id"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,14 +34,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambahkan catatan Belanjawan 2027: pendaftaran keanggotaan EPF secara otomatis bagi semua warga negara pada usia 18 tahun — diumumkan, belum berlaku; perubahan keanggotaan, bukan perubahan kapan iuran menjadi wajib disetorkan."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Dana Simpanan Pekerja (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "Organisasi Jaminan Sosial (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "Organisasi Jaminan Sosial (PERKESO)"
+  - title: "Belanjawan 2027 (Portal Belanjawan 2027 — Teks Ucapan, mengumumkan keanggotaan EPF otomatis pada usia 18 tahun) (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -110,6 +119,19 @@ ketiga skema ini, dan posisinya berubah pada 2024–2026 dalam ketiganya. Apa
 pun yang ditulis sebelum itu — dan banyak yang masih menduduki peringkat tinggi
 dalam pencarian — menjelaskan aturan yang telah dicabut. Ikuti tautan pekerja
 asing di atas alih-alih membuat generalisasi dari posisi pekerja lokal.
+
+## Diumumkan untuk 2027 (Belanjawan 2027)
+
+Belanjawan 2027 (dibentangkan 9 Oktober 2026) mengumumkan bahwa **setiap warga
+negara Malaysia akan secara otomatis didaftarkan sebagai anggota EPF saat
+berusia 18 tahun**, alih-alih baru didaftarkan ketika iuran pertama dari pemberi
+kerjanya diterima. Ini adalah perubahan **keanggotaan** untuk memperluas cakupan
+dan mendorong tabungan pensiun lebih dini — ini **tidak** membuat iuran dimulai
+pada usia 18 tahun: iuran EPF tetap baru disetorkan setelah seseorang bekerja dan
+berkewajiban di bawah Akta Kumpulan Wang Simpanan Pekerja 1991 (Employees
+Provident Fund Act 1991), sehingga kewajiban pemberi kerja di bawah poin
+"Pendaftaran sebelum iuran pertama disetorkan" di atas tidak berubah. Ini adalah
+pengumuman Belanjawan 2027, **belum berlaku**, menunggu pelaksanaan oleh EPF.
 
 ## Selanjutnya
 

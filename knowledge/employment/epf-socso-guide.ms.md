@@ -21,26 +21,31 @@ keyTakeaways:
   - "Pekerja asing dilayan secara berbeza dalam setiap satu daripada tiga skim ini"
 appliesTo: "Majikan, kakitangan HR dan pentadbir penggajian yang mencari panduan caruman statutori yang betul."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Pendaftaran keahlian EPF secara automatik bagi semua warganegara pada umur 18 tahun ialah pengumuman Belanjawan 2027 (9 Okt 2026), belum berkuat kuasa — sahkan tarikh permulaan dan mekanismenya setelah EPF melaksanakannya; ia mengubah pendaftaran keahlian, bukan bila caruman mula perlu dijelaskan"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambah nota Belanjawan 2027: pendaftaran keahlian EPF secara automatik bagi semua warganegara pada umur 18 tahun — diumumkan, belum berkuat kuasa; perubahan keahlian, bukan perubahan kepada bila caruman mula perlu dijelaskan."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Kumpulan Wang Simpanan Pekerja (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "Pertubuhan Keselamatan Sosial (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "Pertubuhan Keselamatan Sosial (PERKESO)"
+  - title: "Portal Belanjawan 2027 — Teks Ucapan (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -111,6 +120,20 @@ ketiga-tiganya. Apa jua yang ditulis sebelum itu — dan banyak yang masih
 mendapat kedudukan tinggi dalam carian — menerangkan peraturan yang telah
 dimansuhkan. Ikuti pautan pekerja asing di atas dan bukannya membuat
 generalisasi daripada kedudukan pekerja tempatan.
+
+## Diumumkan untuk 2027 (Belanjawan 2027)
+
+Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) mengumumkan bahawa **setiap
+warganegara Malaysia akan didaftarkan secara automatik sebagai ahli EPF apabila
+mencapai umur 18 tahun**, dan bukannya didaftarkan hanya apabila caruman majikan
+pertama diterima. Ini ialah perubahan **keahlian** untuk meluaskan liputan dan
+menggalakkan simpanan persaraan lebih awal — ia **tidak** menjadikan caruman
+bermula pada umur 18 tahun: caruman EPF masih perlu dijelaskan hanya apabila
+seseorang telah bekerja dan tertakluk di bawah Akta Kumpulan Wang Simpanan
+Pekerja 1991 (Employees Provident Fund Act 1991), jadi kewajipan majikan di bawah
+perkara "Pendaftaran sebelum caruman pertama perlu dijelaskan" di atas adalah
+tidak berubah. Ini ialah pengumuman Belanjawan 2027, **belum berkuat kuasa**,
+sementara menunggu pelaksanaan oleh EPF.
 
 ## Seterusnya
 

@@ -21,10 +21,11 @@ keyTakeaways:
   - "तीनों योजनाओं में से प्रत्येक में विदेशी श्रमिकों के साथ अलग व्यवहार किया जाता है"
 appliesTo: "नियोक्ता, HR और पेरोल प्रशासक जो सही वैधानिक अंशदान मार्गदर्शिका खोज रहे हैं।"
 
-verificationNeeded: []
+verificationNeeded:
+  - "सभी नागरिकों का 18 वर्ष की आयु में स्वचालित EPF सदस्यता पंजीकरण एक Budget 2027 घोषणा है (9 अक्टूबर 2026), जो अभी लागू नहीं हुई है — EPF द्वारा इसे क्रियान्वित करने पर आरंभ-तिथि और तंत्र की पुष्टि करें; यह सदस्यता पंजीकरण को बदलती है, न कि यह कि अंशदान कब देय होते हैं"
 
 lang: "hi"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,14 +34,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Budget 2027 का एक नोट जोड़ा गया: सभी नागरिकों का 18 वर्ष की आयु में स्वचालित EPF सदस्यता पंजीकरण — घोषित, अभी लागू नहीं; यह एक सदस्यता परिवर्तन है, न कि इस बात का परिवर्तन कि अंशदान कब देय होते हैं।"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "कर्मचारी भविष्य निधि (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "सामाजिक सुरक्षा संगठन (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "सामाजिक सुरक्षा संगठन (PERKESO)"
+  - title: "बजट 2027 (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "मलेशिया वित्त मंत्रालय (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -104,6 +113,18 @@ SOCSO के साथ वसूले जाने के बावजूद �
 इन सभी में स्थिति बदली। इससे पहले लिखा गया कुछ भी — और बहुत-सा जो अब भी ऊपर आता है
 — निरस्त नियमों का वर्णन करता है। स्थानीय-कर्मचारी स्थिति से सामान्यीकरण करने के
 बजाय ऊपर दिए विदेशी-श्रमिक लिंक का अनुसरण करें।
+
+## 2027 के लिए घोषित (Budget 2027)
+
+Budget 2027 (9 अक्टूबर 2026 को पेश) ने घोषणा की कि **प्रत्येक मलेशियाई नागरिक 18
+वर्ष का होने पर स्वतः EPF सदस्य के रूप में पंजीकृत हो जाएगा**, बजाय इसके कि वह केवल
+तब पंजीकृत हो जब उसके लिए पहला नियोक्ता-अंशदान प्राप्त हो। यह कवरेज को विस्तृत करने
+और सेवानिवृत्ति बचत को जल्दी प्रोत्साहित करने के लिए एक **सदस्यता** परिवर्तन है — यह
+अंशदानों को 18 वर्ष से शुरू **नहीं** करता: EPF अंशदान तभी देय होते हैं जब कोई
+व्यक्ति रोज़गार में हो और Employees Provident Fund Act 1991 के तहत उत्तरदायी हो,
+इसलिए ऊपर दिए "पहला अंशदान देय होने से पहले पंजीकरण" बिंदु के अंतर्गत नियोक्ता का
+कर्तव्य अपरिवर्तित है। यह एक Budget 2027 घोषणा है, **अभी लागू नहीं हुई है**, जो EPF
+के क्रियान्वयन पर निर्भर है।
 
 ## आगे क्या
 

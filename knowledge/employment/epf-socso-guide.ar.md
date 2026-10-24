@@ -21,10 +21,11 @@ keyTakeaways:
   - "يُعامَل العمّال الأجانب معاملةً مختلفة في كلٍّ من المخططات الثلاثة"
 appliesTo: "أصحاب العمل، وموظفو الموارد البشرية، ومديرو الرواتب الباحثون عن دليل الاشتراكات القانونية الصحيح."
 
-verificationNeeded: []
+verificationNeeded:
+  - "التسجيل التلقائي لجميع المواطنين كأعضاء في EPF عند سنّ 18 هو إعلانٌ ضمن Budget 2027 (9 أكتوبر 2026) لم يدخل حيّز النفاذ بعد — تأكّد من تاريخ البدء والآلية بمجرّد أن تنفّذه EPF؛ فهو يغيّر تسجيل العضوية، لا موعد استحقاق الاشتراكات"
 
 lang: "ar"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,14 +34,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "أُضيفت ملاحظة عن Budget 2027: التسجيل التلقائي لجميع المواطنين كأعضاء في EPF عند سنّ 18 — أُعلن عنه ولم يدخل حيّز النفاذ بعد؛ وهو تغييرٌ في العضوية، لا تغييرٌ لموعد استحقاق الاشتراكات."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "صندوق ادخار الموظفين (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "منظمة الضمان الاجتماعي (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "منظمة الضمان الاجتماعي (PERKESO)"
+  - title: "ميزانية 2027 (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "وزارة المالية الماليزية (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -104,6 +113,10 @@ Act 1969. يعمل على فئتين مرتبطتين بالعمر، وعلى **
 2024–2026 في جميعها. وأيُّ ما كُتب قبل ذلك — وكثيرٌ ممّا لا يزال يتصدّر نتائج
 البحث — يصف قواعد مُلغاة. اتّبع روابط العمّال الأجانب أعلاه بدلاً من التعميم
 انطلاقاً من وضع الموظف المحلّي.
+
+## أُعلن عنه لعام 2027 (Budget 2027)
+
+أعلنت Budget 2027 (المقدَّمة في 9 أكتوبر 2026) أنّ **كلّ مواطنٍ ماليزي سيُسجَّل تلقائياً عضواً في EPF عند بلوغه 18**، بدلاً من تسجيله فقط عند استلام أول اشتراكٍ من صاحب العمل. وهو تغييرٌ في **العضوية** يهدف إلى توسيع التغطية وتشجيع الادخار التقاعدي المبكّر — وهو **لا** يجعل الاشتراكات تبدأ عند سنّ 18: فاشتراكات EPF لا تستحقّ إلّا بعد أن يصبح الشخص موظَّفاً ومُلزَماً تحت Employees Provident Fund Act 1991، لذا يبقى واجب صاحب العمل بموجب بند «**التسجيل قبل استحقاق الاشتراك الأول**» أعلاه دون تغيير. وهذا إعلانٌ ضمن Budget 2027، **لم يدخل حيّز النفاذ بعد**، ريثما تنفّذه EPF.
 
 ## ما التالي
 

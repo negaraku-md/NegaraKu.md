@@ -21,10 +21,11 @@ keyTakeaways:
   - "Les travailleurs étrangers sont traités différemment dans chacun des trois dispositifs"
 appliesTo: "Employeurs, gestionnaires RH et de paie à la recherche du bon guide de cotisation légale."
 
-verificationNeeded: []
+verificationNeeded:
+  - "L'enregistrement automatique de tous les citoyens comme membres de l'EPF à l'âge de 18 ans est une annonce du Budget 2027 (9 oct. 2026), pas encore en vigueur — confirmer la date d'entrée en vigueur et le mécanisme une fois que l'EPF le met en œuvre ; cela modifie l'enregistrement de l'affiliation, et non le moment où les cotisations deviennent exigibles"
 
 lang: "fr"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -33,14 +34,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ajout d'une note sur le Budget 2027 : enregistrement automatique de tous les citoyens comme membres de l'EPF à l'âge de 18 ans — annoncé, pas encore en vigueur ; un changement d'affiliation, et non un changement du moment où les cotisations deviennent exigibles."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Caisse de prévoyance des salariés (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -48,6 +53,10 @@ sources:
   - title: "Organisation de la sécurité sociale (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "Organisation de la sécurité sociale (PERKESO)"
+  - title: "Budget 2027 (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Ministère des Finances de la Malaisie (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -90,6 +99,10 @@ Les employeurs persistent à appeler cela une seule obligation. Il y en a trois,
 ## Ce qui diffère pour chacun
 
 La couverture des **travailleurs étrangers** diverge nettement entre les trois, et la situation a évolué en 2024–2026 pour tous. Tout ce qui a été écrit avant cela — et une bonne partie de ce qui est encore bien positionné — décrit des règles abrogées. Suivez les liens travailleurs étrangers ci-dessus plutôt que de généraliser à partir de la situation du salarié local.
+
+## Annoncé pour 2027 (Budget 2027)
+
+Le Budget 2027 (présenté le 9 octobre 2026) a annoncé que **tout citoyen malaisien sera automatiquement enregistré comme membre de l'EPF à ses 18 ans**, au lieu de n'être enregistré que lorsque la première cotisation de son employeur est reçue. Il s'agit d'un changement d'**affiliation** destiné à élargir la couverture et à encourager une épargne-retraite plus précoce — cela ne fait **pas** commencer les cotisations à 18 ans : les cotisations EPF ne deviennent exigibles qu'une fois qu'une personne est employée et assujettie au titre de l'Employees Provident Fund Act 1991, de sorte que l'obligation de l'employeur au titre du point « Enregistrement avant l'échéance de la première cotisation » ci-dessus est inchangée. Il s'agit d'une annonce du Budget 2027, **pas encore en vigueur**, en attente de la mise en œuvre par l'EPF.
 
 ## La suite
 

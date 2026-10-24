@@ -21,12 +21,13 @@ keyTakeaways:
   - "外劳在三项计划中的处理方式各不相同"
 appliesTo: "正在寻找正确法定缴纳金指南的雇主、人力资源与薪资管理人员。"
 
-verificationNeeded: []
+verificationNeeded:
+  - "全体公民在 18 岁时自动注册成为 EPF 会员是一项 2027 年财政预算案的宣布（2026 年 10 月 9 日），尚未生效——待 EPF 落实后，确认其生效日期与机制；它改变的是会员注册，而非缴纳金的到期时点"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "694bcdea48a05320"
+sourceContentHash: "150d1f695486d304"
 
 status: "published"
 aiAssisted: true
@@ -34,14 +35,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "新增 2027 年财政预算案说明：全体公民在 18 岁时自动注册成为 EPF 会员——已宣布，尚未生效；属会员资格变更，而非缴纳金到期时点的变更。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "雇员公积金局 (KWSP) (Employees Provident Fund (KWSP))"
     url: "https://www.kwsp.gov.my/"
@@ -49,6 +54,10 @@ sources:
   - title: "社会保险机构 (PERKESO) (Social Security Organisation (PERKESO))"
     url: "https://www.perkeso.gov.my/"
     publisher: "社会保险机构 (PERKESO)"
+  - title: "2027 年财政预算案（门户网站——演词全文，宣布 18 岁自动成为 EPF 会员）(Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing automatic EPF membership at age 18))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "马来西亚财政部 (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian statutory contributions"
 relations:
@@ -102,6 +111,15 @@ Schedule（第三附表）的薪金级距查得，只有在月薪超过 RM20,000
 **外劳**的承保范围在三项计划中差异极大，而且在 2024 至 2026 年间三者的立场都
 有所变动。在那之前写成的东西——包括许多至今仍排在搜索前列的内容——描述的是已经
 废除的规定。请循上方的外劳链接查阅，不要从本地雇员的立场类推。
+
+## 2027 年宣布的措施（2027 年财政预算案）
+
+2027 年财政预算案（于 2026 年 10 月 9 日提呈）宣布，**每一名马来西亚公民将在年满
+18 岁时自动注册成为 EPF 会员**，而不再是仅在收到其首笔雇主缴纳金时才注册。这是一项
+旨在扩大覆盖面、鼓励更早开始退休储蓄的**会员资格**变更——它**并不**使缴纳金从 18 岁
+开始计缴：EPF 缴纳金仍只在一个人受雇并依据 Employees Provident Fund Act 1991 负有
+缴纳义务时才到期，因此上文"在首笔缴纳金到期之前完成注册"一项所述的雇主义务维持不变。
+这是一项 2027 年财政预算案的宣布，**尚未生效**，有待 EPF 落实。
 
 ## 下一步
 
