@@ -13,7 +13,7 @@ stack, AI-friendly infra, Facebook auto-posting. The frontier now is **distribut
 ---
 
 ## 🔝 Top of mind
-1. **Distribution (off-page) is now the main frontier** — the internal levers are done (13 hubs + homepage/category surfacing, HF dataset ×13 langs, GSC-404 fixed; verification backlog is an exhausted floor). What's left is mostly **[you]**-gated: LinkedIn (~3 credential steps, closest), Instagram (accounts + App Review), and reciprocal **dofollow** links from 1company.com + syarikat.ai.
+1. **Distribution (off-page) is now the main frontier** — the internal levers are done (13 hubs + homepage/category surfacing, HF dataset ×13 langs, GSC-404 fixed; verification backlog is an exhausted floor). What's left is mostly **[you]**-gated: LinkedIn (~3 credential steps, closest), Instagram (accounts + App Review), and reciprocal **dofollow** links from 1company.com + syarikat.ai. **Ready-to-paste copy + runbooks for all three now in `docs/plans/offpage-prep-pack-2026-10-24.md`** (LinkedIn launch + seed posts, IG bio + first posts, 1company footer line).
 2. **Owned backlinks** — the one off-page win with no platform gate: get 1company.com (sponsor) + syarikat.ai to link back dofollow (ready-to-paste snippet in `docs/plans/owned-backlinks.md`); both codebases are user-side to edit.
 3. **GA4** — live since 2026-10-20; run **Actions → "Archive Google Analytics"** once ~24–48h of consented data accrues → `/analytics` panel fills.
 
