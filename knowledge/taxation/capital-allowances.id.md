@@ -37,7 +37,8 @@ faq:
   - q: "Mengapa elaun modal saya dituntut kembali setelah saya menjual mesin itu lebih awal?"
     a: "Paragraf 71 Jadwal 3 menarik kembali elaun atas aset yang dimiliki kurang dari dua tahun, kecuali disebabkan kematian atau sebab lain apa pun yang dianggap wajar oleh Direktur Jenderal, dan mengenakan caj imbangan setara dengan elaun yang telah diberikan. Pesuruhjaya Khas telah menafsirkannya secara ketat — justifikasi komersial yang dikemukakan setelah peristiwa itu tidak mencukupi."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Peningkatan elaun aset bernilai rendah untuk YA2027 (nilai per aset RM2,000->RM3,000; plafon tahunan selain MSME RM20,000->RM30,000) adalah pengumuman Belanjawan 2027 (MOF tax-measures Appendix 12), belum diundangkan — konfirmasi angka final setelah Finance Act 2027 diwartakan"
 
 obligations:
   - what: "Menuntut elaun modal dalam surat pemberitahuan pajak untuk tahun taksiran saat elaun itu timbul"
@@ -48,7 +49,7 @@ obligations:
     consequence: "Pengeluaran sisa tetap dikurangi oleh elaun tahunan yang dapat dituntut di bawah paragraph 68(c), jadi tahun yang tidak dituntut adalah keringanan yang hilang, bukan ditunda"
 
 lang: "id"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,14 +58,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambahkan catatan YA2027: Belanjawan 2027 meningkatkan elaun aset bernilai rendah (nilai per aset RM2,000->RM3,000; plafon tahunan selain MSME RM20,000->RM30,000) — diumumkan, menunggu Finance Bill."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetak ulang pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Menegaskan Kembali Kasus Tropiland — analisis banding tempat parkir mobil bertingkat SCP Assets (paragraf 70A tidak bersifat retroaktif) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Sorotan Belanjawan 2027 — Langkah-Langkah Perpajakan, Appendix 12 (Peninjauan Elaun Modal bagi Aset Bernilai Rendah) (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations: []
@@ -212,6 +221,8 @@ Plafon itu lenyap bagi perusahaan kecil dan menengah. Paragraf 19A(3) mengeluark
 Anggota keempat itu patut ditandai, karena Public Ruling No. 3/2021 mendahuluinya dan tidak menyebutnya. Anak perusahaan Malaysia bermilik asing yang telah menuntut elaun aset bernilai rendah tanpa batas berdasarkan ruling itu semata-mata patut meninjau ulang statuta tersebut.
 
 Pilihan ini bersifat per aset. Paragraf 19A(2) menghalangi tuntutan kedua elaun khusus dan elaun biasa atas pengeluaran yang sama, dan Public Ruling No. 3/2021 menganggap seseorang telah membuat pilihan hanya dengan menghitung elaun pada tarif khusus.
+
+**Diumumkan untuk YA2027 (Belanjawan 2027).** Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) mengusulkan untuk meningkatkan keringanan ini mulai **tahun taksiran 2027**: nilai setiap aset bernilai rendah yang layak naik dari **RM2,000 menjadi RM3,000**, dan plafon tahunan keseluruhan bagi perusahaan **selain MSME** naik dari **RM20,000 menjadi RM30,000** (perlakuan tanpa batas bagi MSME yang layak tidak berubah). Ini adalah **pengumuman, belum menjadi undang-undang** — menunggu Finance Bill, jadi nilai per aset RM2,000 dan plafon RM20,000 di atas terus berlaku sampai YA2026.
 
 ## Langkah 4: pelepasan, dan sengatannya
 

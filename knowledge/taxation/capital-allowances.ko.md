@@ -37,7 +37,8 @@ faq:
   - q: "기계를 조기에 매각한 후 자본공제가 환수된 이유는 무엇입니까?"
     a: "부칙 3(Schedule 3) 제71항은 2년 미만 소유한 자산에 대한 공제를, 사망 또는 국세청장이 적절하다고 판단하는 그 밖의 사유를 제외하고 취소하며, 이미 부여된 공제와 같은 정산부과(balancing charge)를 부과합니다. 특별심판관(Special Commissioners)은 이를 엄격하게 해석해 왔습니다 — 사후에 제시된 상업적 정당화는 충분하지 않았습니다."
 
-verificationNeeded: []
+verificationNeeded:
+  - "소액 자산 공제의 YA2027 강화(자산당 가치 RM2,000->RM3,000; MSME가 아닌 회사의 연간 한도 RM20,000->RM30,000)는 아직 입법되지 않은 Budget 2027 발표 사항(재무부 조세 조치 Appendix 12)이므로 — 2027 재정법(Finance Act 2027)이 관보에 게재되면 최종 수치를 확인할 것"
 
 obligations:
   - what: "자본공제가 발생하는 과세연도의 세무 신고서에서 자본공제 청구"
@@ -48,7 +49,7 @@ obligations:
     consequence: "잔존 지출은 제68(c)항에 따라 청구될 수 있었던 연간공제만큼 여전히 감소하므로, 청구하지 않은 해는 이연이 아니라 상실된 공제입니다"
 
 lang: "ko"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,14 +58,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "YA2027 관련 주석 추가: Budget 2027이 소액 자산 공제를 강화함(자산당 가치 RM2,000->RM3,000; MSME가 아닌 회사의 연간 한도 RM20,000->RM30,000) — 발표된 사항이며 재정법안(Finance Bill)을 기다리는 중."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 기준 재판 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Tropiland 판례의 재확인 — SCP Assets 다층 주차장 항소 분석 (제70A항은 소급 적용되지 않음) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Budget 2027 주요 사항 — 조세 조치, Appendix 12(소액 자산에 대한 자본공제의 검토) (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "말레이시아 재무부 (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -217,6 +226,8 @@ CNC 기계는 설비·기계입니다. RM250,000에 대해 초기 20퍼센트, �
 그 네 번째 항목은 짚어둘 만한데, 공개 예규 3/2021이 그보다 앞서므로 이를 언급하지 않기 때문입니다. 오직 예규만을 근거로 상한 없는 소액 자산 공제를 청구해 온 외국인 소유 말레이시아 자회사는 법률을 재확인해야 합니다.
 
 선택은 자산별로 이루어집니다. 제19A(2)항은 동일한 지출에 대해 특별공제와 통상공제를 모두 청구하는 것을 막으며, 공개 예규 3/2021은 특별 세율로 공제를 계산하는 것만으로 선택한 것으로 취급합니다.
+
+**YA2027(Budget 2027)을 위해 발표됨.** Budget 2027(2026년 10월 9일 제출)은 이 공제를 **2027 과세연도(year of assessment 2027)**부터 강화할 것을 제안했습니다. 각 적격 소액 자산의 가치가 **RM2,000에서 RM3,000으로** 인상되고, **MSME가 아닌** 회사의 전체 연간 한도가 **RM20,000에서 RM30,000으로** 인상됩니다(적격 MSME에 대한 무제한 취급은 변경되지 않습니다). 이는 **발표일 뿐 아직 법률이 아니며** — 재정법안(Finance Bill)을 기다리고 있으므로, 위의 자산당 RM2,000 가치와 RM20,000 한도는 YA2026까지 계속 적용됩니다.
 
 ## 4단계: 처분, 그리고 뼈아픈 점
 

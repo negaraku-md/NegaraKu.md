@@ -37,7 +37,8 @@ faq:
   - q: "لماذا استُرِدّ بدلي الرأسمالي بعد أن بعتُ الآلة مبكراً؟"
     a: "تسحب الفقرة 71 من الجدول 3 البدلات على أصل مملوك لأقل من سنتين، إلا بسبب الوفاة أو أي سبب آخر يراه المدير العام مناسباً، وتفرض رسم موازنة يساوي البدلات الممنوحة. وقد قرأها المفوّضون الخاصّون قراءةً صارمة — فالتبرير التجاري المطروح بعد الواقعة لم يكن كافياً."
 
-verificationNeeded: []
+verificationNeeded:
+  - "تعزيز بدل الأصول منخفضة القيمة لـYA2027 (قيمة كل أصل RM2,000->RM3,000؛ السقف السنوي لغير MSME من RM20,000->RM30,000) هو إعلان ميزانية 2027 (تدابير ضريبية لوزارة المالية (MOF)، Appendix 12)، لم يُسَنّ بعد — تحقّق من الأرقام النهائية بمجرد نشر قانون المالية لسنة 2027 (Finance Act 2027) في الجريدة الرسمية"
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -48,7 +49,7 @@ obligations:
     consequence: "Residual expenditure is still reduced by an annual allowance that could have been claimed under paragraph 68(c), so an unclaimed year is relief lost, not deferred"
 
 lang: "ar"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,14 +58,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "أُضيفت ملاحظة لـYA2027: تعزّز ميزانية 2027 بدل الأصول منخفضة القيمة (قيمة كل أصل RM2,000->RM3,000؛ السقف السنوي لغير MSME من RM20,000->RM30,000) — معلَن، رهناً بمشروع قانون المالية."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "قانون ضريبة الدخل لسنة 1967 (Act 53)، إعادة طبع حتى 21 مايو 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "إعادة تأكيد قضية Tropiland — تحليل استئناف موقف السيارات متعدد الطوابق لشركة SCP Assets (الفقرة 70A غير رجعية الأثر) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "محطات ميزانية 2027 — التدابير الضريبية، Appendix 12 (مراجعة البدل الرأسمالي للأصول منخفضة القيمة) (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "وزارة المالية الماليزية (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -217,6 +226,8 @@ keywords: ["البدلات الرأسمالية ماليزيا", "الجدول 3
 ويجدر إبراز ذلك الشقّ الرابع، لأن الإرشاد العام رقم 3/2021 يسبقه ولا يذكره. فالشركة التابعة الماليزية المملوكة أجنبياً التي ظلت تطالب ببدلات أصول منخفضة القيمة بلا سقف استناداً إلى الإرشاد وحده ينبغي أن تعيد فحص التشريع.
 
 والخيار لكل أصل. فالفقرة 19A(2) تمنع المطالبة بالبدل الخاص والبدلات العادية على النفقات نفسها، ويعامل الإرشاد العام رقم 3/2021 الشخصَ بأنه اختار بمجرد حسابه البدل بالسعر الخاص.
+
+**مُعلَن لـYA2027 (ميزانية 2027).** اقترحت ميزانية 2027 (المطروحة في 9 October 2026) تعزيز هذا الإعفاء اعتباراً من **سنة التقييم 2027**: ترتفع قيمة كل أصل منخفض القيمة مؤهَّل من **RM2,000 إلى RM3,000**، ويرتفع السقف السنوي الإجمالي للشركات **غير المنشآت الصغيرة والمتوسطة (MSME)** من **RM20,000 إلى RM30,000** (تبقى المعاملة غير المسقوفة لمنشأة صغيرة ومتوسطة مؤهَّلة دون تغيير). وهذه **إعلانات لم تصبح قانوناً بعد** — رهناً بمشروع قانون المالية، فتظل قيمة RM2,000 لكل أصل وسقف RM20,000 أعلاه ساريتين حتى YA2026.
 
 ## الخطوة 4: التصرف، ولدغته
 

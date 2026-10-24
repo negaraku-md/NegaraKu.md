@@ -37,7 +37,8 @@ faq:
   - q: "Mengapa elaun modal saya dituntut semula selepas saya menjual mesin itu awal?"
     a: "Perenggan 71 Jadual 3 menarik balik elaun ke atas aset yang dimiliki kurang daripada dua tahun, kecuali disebabkan kematian atau apa-apa sebab lain yang difikirkan wajar oleh Ketua Pengarah, dan mengenakan caj imbangan bersamaan dengan elaun yang telah diberi. Pesuruhjaya Khas telah mentafsirnya secara ketat — justifikasi komersial yang dikemukakan selepas peristiwa itu tidak mencukupi."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Penambahbaikan elaun aset bernilai rendah bagi tahun taksiran 2027 (nilai setiap aset RM2,000->RM3,000; siling tahunan bukan MSME RM20,000->RM30,000) ialah pengumuman Belanjawan 2027 (langkah-langkah cukai MOF, Appendix 12), belum digubal — sahkan angka muktamad sebaik sahaja Akta Kewangan 2027 diwartakan"
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -50,21 +51,25 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambah nota tahun taksiran 2027: Belanjawan 2027 menambah baik elaun aset bernilai rendah (nilai setiap aset RM2,000->RM3,000; siling tahunan bukan MSME RM20,000->RM30,000) — diumumkan, menunggu Rang Undang-Undang Kewangan."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Mengesahkan Semula Kes Tropiland — analisis rayuan tempat letak kereta bertingkat SCP Assets (perenggan 70A tidak bersifat kebelakangan) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Sentuhan Belanjawan 2027 — Langkah-Langkah Cukai, Appendix 12 (Semakan Semula Elaun Modal bagi Aset Bernilai Rendah) (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations: []
@@ -212,6 +221,8 @@ Siling itu lenyap bagi syarikat kecil dan sederhana. Perenggan 19A(3) mengeluark
 Anggota keempat itu wajar ditandakan, kerana Ketetapan Umum No. 3/2021 mendahuluinya dan tidak menyebutnya. Anak syarikat Malaysia bermilik asing yang telah menuntut elaun aset bernilai rendah tanpa had berdasarkan ketetapan itu semata-mata patut menyemak semula statut tersebut.
 
 Pilihan ini adalah setiap aset. Perenggan 19A(2) menghalang tuntutan kedua-dua elaun khas dan elaun biasa ke atas perbelanjaan yang sama, dan Ketetapan Umum No. 3/2021 menganggap seseorang telah membuat pilihan hanya dengan mengira elaun pada kadar khas.
+
+**Diumumkan untuk tahun taksiran 2027 (Belanjawan 2027).** Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) mencadangkan untuk menambah baik pelepasan ini mulai **tahun taksiran 2027**: nilai setiap aset bernilai rendah yang layak dinaikkan daripada **RM2,000 kepada RM3,000**, dan siling tahunan keseluruhan bagi syarikat **selain MSME** dinaikkan daripada **RM20,000 kepada RM30,000** (layanan tanpa had bagi MSME yang layak kekal tidak berubah). Ini merupakan **pengumuman, belum menjadi undang-undang** — menunggu Rang Undang-Undang Kewangan, jadi nilai setiap aset RM2,000 dan siling RM20,000 di atas terus terpakai sehingga YA2026.
 
 ## Langkah 4: pelupusan, dan sengatannya
 

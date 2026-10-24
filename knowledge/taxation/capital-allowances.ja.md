@@ -37,7 +37,8 @@ faq:
   - q: "機械を早期に売却したら、なぜ資本控除が取り消されたのか。"
     a: "Schedule 3のpara 71は、所有期間が2年未満の資産について控除を撤回し（死亡又は税務局長官が適切と考えるその他の理由による場合を除く）、既に与えられた控除に等しい均衡課税額を課す。特別専門委員会（Special Commissioners）はこれを厳格に解釈してきた——事後に提示された商業上の正当化はこれまで十分と認められていない。"
 
-verificationNeeded: []
+verificationNeeded:
+  - "小額資産控除のYA2027拡充（資産1件あたりの価額RM2,000→RM3,000、MSME以外の年間上限RM20,000→RM30,000）はBudget 2027の発表（MOF税制措置Appendix 12）であり、まだ制定されていない——Finance Act 2027が官報告示された時点で最終的な数字を確認すること"
 
 obligations:
   - what: "資本控除が発生した賦課年度の申告書において、資本控除を申請すること"
@@ -50,21 +51,25 @@ obligations:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "YA2027の注記を追加：Budget 2027は小額資産控除を拡充する（資産1件あたりの価額RM2,000→RM3,000、MSME以外の年間上限RM20,000→RM30,000）——発表済みで、Finance Billの成立待ち。"
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53)、2024年5月21日現在の再版 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Tropiland事件の再確認 — SCP Assets立体駐車場の上訴の分析（第70A項は遡及しない） (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Budget 2027 タッチポイント — 税制措置、Appendix 12（小額資産に対する資本控除の見直し） (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "マレーシア財務省 (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -217,6 +226,8 @@ para 19Aは、価額が**RM2,000を超えない**資産について、通常の�
 この第4の号は特筆に値する。Public Ruling No. 3/2021はそれより前のものであり、これに言及していないからである。同裁定のみを頼りに上限のない小額資産控除を申請してきた外資系マレーシア子会社は、成文法を再確認すべきである。
 
 この選択は資産ごとに行う。para 19A(2)は、同一の支出について特別控除と通常の控除の両方を申請することを禁じており、Public Ruling No. 3/2021は、特別税率で控除を計算しただけで選択したものとみなす。
+
+**YA2027（Budget 2027）で発表済み。** Budget 2027（2026年10月9日提出）は、この優遇措置を**2027賦課年度（year of assessment 2027）**から拡充することを提案した：適格な小額資産1件あたりの価額が**RM2,000からRM3,000**に引き上げられ、**MSME以外の**会社についての年間総額の上限が**RM20,000からRM30,000**に引き上げられる（適格なMSMEに対する上限なしの取り扱いは変わらない）。これらは**発表であって、まだ法律ではない**——Finance Billの成立待ちであり、したがって上記のRM2,000の資産1件あたりの価額及びRM20,000の上限がYA2026まで引き続き適用される。
 
 ## ステップ4：処分、そしてその痛手
 

@@ -38,7 +38,8 @@ faq:
   - q: "为什么我提早出售机器后，资本免税额被追回？"
     a: "附表三第71段就拥有不足两年的资产撤回免税额（因死亡或税务局局长认为适当的任何其他理由者除外），并施加等于已作出免税额的结余课税。特别专员（Special Commissioners）对此从严解读——事后提出的商业理由一直不足以过关。"
 
-verificationNeeded: []
+verificationNeeded:
+  - "小额资产免税额的YA2027加强措施（每项资产价值RM2,000→RM3,000；非中小微企业（MSME）年度上限RM20,000→RM30,000）属2027年财政预算案的公布（财政部税务措施附录12），尚未立法——俟《2027年财政法令》（Finance Act 2027）宪报颁布后，确认最终数字"
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -51,22 +52,30 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "新增YA2027说明：2027年财政预算案加强小额资产免税额（每项资产价值RM2,000→RM3,000；非中小微企业（MSME）年度上限RM20,000→RM30,000）——属公布，有待《财政法案》通过。"
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
+  - title: "2027年财政预算案接触点——税务措施，附录12（检讨小额资产的资本免税额） (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "马来西亚财政部 (MOF)"
+    date: "2026-10-09"
   - title: "Income Tax Act 1967 (Act 53)，2024年5月21日重印本 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "内陆税收局 (LHDN)"
@@ -213,6 +222,8 @@ Kilang Presisi Sdn Bhd 是一家居民制造商，财政年度截至12月31日�
 第四项值得标出，因为第3/2021号公开裁定早于它，且未提及它。仅凭该裁定便一直申领不设上限的小额资产免税额的外资马来西亚子公司，应重新核对成文法。
 
 选择是按资产逐一进行的。第19A(2)段禁止就同一支出同时申领特别免税额与一般免税额，而第3/2021号公开裁定视一个人只要按特别税率计算免税额，即已作出选择。
+
+**已就YA2027公布（2027年财政预算案）。** 2027年财政预算案（于2026年10月9日提呈）建议自**2027课税年（YA2027）**起加强此项宽免：每项合格小额资产的价值由**RM2,000上调至RM3,000**，而**中小微企业（MSME）以外**公司的年度总上限由**RM20,000上调至RM30,000**（合格中小微企业（MSME）不设上限的待遇维持不变）。上述均属**公布，尚未成为法律**——有待《财政法案》（Finance Bill）通过，因此上文每项资产RM2,000的价值与RM20,000的上限截至YA2026仍继续适用。
 
 ## 步骤四：处置，以及那一记刺
 

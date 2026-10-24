@@ -37,7 +37,8 @@ faq:
   - q: "Pourquoi ma capital allowance a-t-elle été reprise après que j'ai vendu la machine trop tôt ?"
     a: "L'alinéa 71 de l'annexe 3 retire les allowances sur un actif détenu depuis moins de deux ans, sauf en raison d'un décès ou de toute autre raison que le Directeur général juge appropriée, et impose une charge d'ajustement égale aux allowances déjà accordées. Les Commissaires spéciaux l'ont lu strictement — une justification commerciale avancée après coup n'a pas suffi."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Le renforcement pour la YA2027 de l'allowance pour actifs de faible valeur (valeur par actif RM2,000->RM3,000 ; plafond annuel pour les non-MSME RM20,000->RM30,000) est une annonce du Budget 2027 (mesures fiscales du MOF, Appendix 12), pas encore promulguée — confirmer les chiffres définitifs une fois la loi de finances de 2027 publiée au journal officiel"
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -48,7 +49,7 @@ obligations:
     consequence: "Residual expenditure is still reduced by an annual allowance that could have been claimed under paragraph 68(c), so an unclaimed year is relief lost, not deferred"
 
 lang: "fr"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,14 +58,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ajout d'une note YA2027 : le Budget 2027 renforce l'allowance pour actifs de faible valeur (valeur par actif RM2,000->RM3,000 ; plafond annuel pour les non-MSME RM20,000->RM30,000) — annoncé, en attente du projet de loi de finances."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Loi relative à l'impôt sur le revenu de 1967 (loi 53), réimpression au 21 mai 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Réaffirmant l'affaire Tropiland — analyse de l'appel du parking à étages de SCP Assets (l'alinéa 70A n'est pas rétroactif) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Points saillants du Budget 2027 — Mesures fiscales, annexe 12 (Révision de la capital allowance pour les actifs de faible valeur) (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances de Malaisie (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -217,6 +226,8 @@ Le plafond disparaît pour une petite et moyenne société. L'alinéa 19A(3) le 
 Ce quatrième cas mérite d'être signalé, car la décision publique n° 3/2021 lui est antérieure et ne le mentionne pas. Une filiale malaisienne à participation étrangère qui réclamait des allowances sans plafond pour actifs de faible valeur sur la seule foi de la décision devrait revérifier la loi.
 
 Le choix se fait par actif. L'alinéa 19A(2) empêche de réclamer à la fois l'allowance spéciale et les allowances normales sur la même dépense, et la décision publique n° 3/2021 considère qu'une personne a opté simplement en calculant l'allowance au taux spécial.
+
+**Annoncé pour la YA2027 (Budget 2027).** Le Budget 2027 (déposé le 9 octobre 2026) a proposé de renforcer ce dégrèvement à partir de l'**année d'évaluation 2027** : la valeur de chaque actif de faible valeur admissible passe de **RM2,000 à RM3,000**, et le plafond annuel global pour les sociétés **autres que les MSME** passe de **RM20,000 à RM30,000** (le traitement sans plafond pour une MSME admissible reste inchangé). Il s'agit d'**annonces, pas encore de la loi** — en attente du projet de loi de finances, de sorte que la valeur de RM2,000 par actif et le plafond de RM20,000 ci-dessus continuent de s'appliquer jusqu'à la YA2026.
 
 ## Étape 4 : la cession, et l'aiguillon
 

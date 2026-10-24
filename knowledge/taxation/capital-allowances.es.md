@@ -37,7 +37,8 @@ faq:
   - q: "¿Por qué me recuperaron la capital allowance tras vender la máquina antes de tiempo?"
     a: "El párrafo 71 del Anexo 3 retira las allowances sobre un activo poseído durante menos de dos años, salvo por causa de fallecimiento o cualquier otra razón que el Director General considere apropiada, e impone un cargo de ajuste igual a las allowances ya concedidas. Los Comisionados Especiales lo han leído de forma estricta — una justificación comercial aducida con posterioridad al hecho no ha bastado."
 
-verificationNeeded: []
+verificationNeeded:
+  - "La mejora del YA2027 de la allowance para activos de bajo valor (valor por activo RM2,000->RM3,000; tope anual para no PYME RM20,000->RM30,000) es un anuncio del Presupuesto 2027 (medidas fiscales del MOF, Apéndice 12), aún no promulgado — confirme las cifras definitivas una vez que se publique en el boletín la Finance Act 2027"
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -48,7 +49,7 @@ obligations:
     consequence: "Residual expenditure is still reduced by an annual allowance that could have been claimed under paragraph 68(c), so an unclaimed year is relief lost, not deferred"
 
 lang: "es"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,14 +58,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Se añadió una nota sobre el YA2027: el Presupuesto 2027 refuerza la allowance para activos de bajo valor (valor por activo RM2,000->RM3,000; tope anual para no PYME RM20,000->RM30,000) — anunciado, pendiente del Finance Bill."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Ley del Impuesto sobre la Renta de 1967 (Ley 53), reimpresión a 21 de mayo de 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Reafirmando el caso Tropiland — análisis de la apelación del aparcamiento de varias plantas de SCP Assets (el párrafo 70A no es retroactivo) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Puntos destacados del Presupuesto 2027 — Medidas fiscales, Apéndice 12 (Revisión de la capital allowance para activos de bajo valor) (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministerio de Finanzas de Malasia (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -217,6 +226,8 @@ El tope desaparece para una pequeña y mediana empresa. El párrafo 19A(3) lo el
 Ese cuarto supuesto merece señalarse, porque la Public Ruling No. 3/2021 es anterior a él y no lo menciona. Una filial malasia de propiedad extranjera que haya venido reclamando allowances sin tope para activos de bajo valor apoyándose solo en la resolución debería volver a verificar la ley.
 
 La elección es por activo. El párrafo 19A(2) impide reclamar a la vez la allowance especial y las allowances normales sobre el mismo gasto, y la Public Ruling No. 3/2021 considera que una persona ha optado simplemente por calcular la allowance al tipo especial.
+
+**Anunciado para el YA2027 (Presupuesto 2027).** El Presupuesto 2027 (presentado el 9 de octubre de 2026) propuso reforzar esta desgravación desde el **año de evaluación 2027**: el valor de cada activo de bajo valor computable sube de **RM2,000 a RM3,000**, y el tope anual global para las empresas **distintas de las PYME** sube de **RM20,000 a RM30,000** (el tratamiento sin tope para una PYME computable no varía). Se trata de **anuncios, aún no de ley** — pendientes del Finance Bill, de modo que el valor por activo de RM2,000 y el tope de RM20,000 anteriores siguen aplicándose hasta el YA2026.
 
 ## Paso 4: la baja, y el aguijón
 

@@ -37,7 +37,8 @@ faq:
   - q: "Why was my capital allowance clawed back after I sold the machine early?"
     a: "Paragraph 71 of Schedule 3 withdraws allowances on an asset owned for less than two years, except by reason of death or any other reason the Director General thinks appropriate, and imposes a balancing charge equal to the allowances already made. The Special Commissioners have read this strictly — commercial justification advanced after the event has not been enough."
 
-verificationNeeded: []
+verificationNeeded:
+  - "The YA2027 enhancement of the small value asset allowance (per-asset value RM2,000->RM3,000; non-MSME annual ceiling RM20,000->RM30,000) is a Budget 2027 announcement (MOF tax-measures Appendix 12), not yet enacted — confirm the final figures once the Finance Act 2027 is gazetted"
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -56,14 +57,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Added a YA2027 note: Budget 2027 enhances the small value asset allowance (per-asset value RM2,000->RM3,000; non-MSME annual ceiling RM20,000->RM30,000) — announced, pending the Finance Bill."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -116,6 +121,10 @@ sources:
   - title: "Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective)"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -216,6 +225,8 @@ The ceiling disappears for a small and medium company. Paragraph 19A(3) removes 
 That fourth limb is worth flagging, because Public Ruling No. 3/2021 predates it and does not mention it. A foreign-owned Malaysian subsidiary that has been claiming uncapped small value asset allowances on the strength of the ruling alone should recheck the statute.
 
 The election is per asset. Paragraph 19A(2) prevents claiming both the special allowance and the normal allowances on the same expenditure, and Public Ruling No. 3/2021 treats a person as having elected simply by computing the allowance at the special rate.
+
+**Announced for YA2027 (Budget 2027).** Budget 2027 (tabled 9 October 2026) proposed to enhance this relief from the **year of assessment 2027**: the value of each qualifying small value asset rises from **RM2,000 to RM3,000**, and the overall annual ceiling for companies **other than MSMEs** rises from **RM20,000 to RM30,000** (the uncapped treatment for a qualifying MSME is unchanged). These are **announcements, not yet law** — pending the Finance Bill, so the RM2,000 per-asset value and the RM20,000 ceiling above continue to apply up to YA2026.
 
 ## Step 4: disposal, and the sting
 

@@ -37,7 +37,8 @@ faq:
   - q: "मशीन जल्दी बेचने के बाद मेरा पूंजी भत्ता वापस क्यों खींच लिया गया?"
     a: "अनुसूची 3 का अनुच्छेद 71 दो वर्ष से कम समय तक स्वामित्व में रही संपत्ति पर भत्ते वापस लेता है, सिवाय मृत्यु के कारण या किसी अन्य ऐसे कारण के जिसे महानिदेशक उपयुक्त समझे, और पहले से किए गए भत्तों के बराबर एक संतुलन-प्रभार लगाता है। विशेष आयुक्तों ने इसे सख़्ती से पढ़ा है — घटना के बाद प्रस्तुत किया गया व्यावसायिक औचित्य पर्याप्त नहीं रहा है।"
 
-verificationNeeded: []
+verificationNeeded:
+  - "लघु-मूल्य संपत्ति भत्ते का YA2027 विस्तार (प्रति-संपत्ति मूल्य RM2,000->RM3,000; गैर-MSME वार्षिक सीमा RM20,000->RM30,000) एक बजट 2027 घोषणा है (MOF कर-उपाय, Appendix 12), अभी अधिनियमित नहीं — वित्त अधिनियम 2027 के राजपत्रित होने पर अंतिम आँकड़ों की पुष्टि करें"
 
 obligations:
   - what: "Claim capital allowances in the tax return for the year of assessment in which they arise"
@@ -48,7 +49,7 @@ obligations:
     consequence: "Residual expenditure is still reduced by an annual allowance that could have been claimed under paragraph 68(c), so an unclaimed year is relief lost, not deferred"
 
 lang: "hi"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,14 +58,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "YA2027 नोट जोड़ा गया: बजट 2027 लघु-मूल्य संपत्ति भत्ते को बढ़ाता है (प्रति-संपत्ति मूल्य RM2,000->RM3,000; गैर-MSME वार्षिक सीमा RM20,000->RM30,000) — घोषित, वित्त विधेयक लंबित।"
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "आयकर अधिनियम 1967 (अधिनियम 53), 21 मई 2024 तक का पुनर्मुद्रण (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Tropiland मामले की पुनः पुष्टि — SCP Assets बहु-मंज़िला कार पार्क अपील का विश्लेषण (अनुच्छेद 70A भूतलक्षी नहीं) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "लघु-मूल्य संपत्तियों के पूंजी भत्ते की समीक्षा (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "मलेशिया का वित्त मंत्रालय (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -298,6 +307,14 @@ RM2,000 और प्रति निर्धारण वर्ष कुल �
 चुनाव प्रति संपत्ति है। अनुच्छेद 19A(2) एक ही व्यय पर विशेष भत्ता और सामान्य भत्ते
 दोनों का दावा करने से रोकता है, और सार्वजनिक निर्णय संख्या 3/2021 किसी व्यक्ति को
 विशेष दर पर भत्ते की गणना करते ही चुनाव किया हुआ मानता है।
+
+**YA2027 के लिए घोषित (बजट 2027)।** बजट 2027 (9 अक्टूबर 2026 को प्रस्तुत) ने
+**निर्धारण वर्ष 2027** से इस राहत को बढ़ाने का प्रस्ताव रखा: प्रत्येक पात्र लघु-
+मूल्य संपत्ति का मूल्य **RM2,000 से बढ़कर RM3,000** हो जाता है, और **MSME से इतर**
+कंपनियों के लिए समग्र वार्षिक सीमा **RM20,000 से बढ़कर RM30,000** हो जाती है (किसी
+पात्र MSME के लिए असीमित उपचार अपरिवर्तित रहता है)। ये **घोषणाएँ हैं, अभी कानून
+नहीं** — वित्त विधेयक लंबित होने तक, इसलिए उपरोक्त प्रति-संपत्ति RM2,000 मूल्य और
+RM20,000 की सीमा निर्धारण वर्ष 2026 तक लागू रहती है।
 
 ## चरण 4: निपटान, और डंक
 

@@ -37,7 +37,8 @@ faq:
   - q: "Vì sao khấu hao vốn của tôi bị đòi lại sau khi tôi bán cỗ máy sớm?"
     a: "Đoạn 71 của Schedule 3 rút lại các khoản khấu hao trên một tài sản được sở hữu dưới hai năm, ngoại trừ vì lý do tử vong hoặc bất kỳ lý do nào khác mà Tổng Giám đốc cho là thích hợp, và áp đặt một khoản thu cân đối bằng với các khoản khấu hao đã được cho. Các Ủy viên Đặc biệt đã đọc điều này một cách nghiêm ngặt — sự biện minh về mặt thương mại được đưa ra sau sự việc đã không đủ."
 
-verificationNeeded: []
+verificationNeeded:
+  - "Việc tăng cường khấu hao tài sản giá trị nhỏ cho năm tính thuế 2027 (giá trị mỗi tài sản RM2,000->RM3,000; mức trần hằng năm cho công ty không phải MSME RM20,000->RM30,000) là một công bố trong Ngân sách 2027 (các biện pháp thuế của MOF, Appendix 12), chưa được ban hành — hãy xác nhận các con số cuối cùng khi Finance Act 2027 được đăng công báo"
 
 obligations:
   - what: "Yêu cầu khấu hao vốn trong tờ khai thuế cho năm tính thuế mà chúng phát sinh"
@@ -48,7 +49,7 @@ obligations:
     consequence: "Chi phí còn lại vẫn bị giảm đi một khoản khấu hao hằng năm mà lẽ ra có thể được yêu cầu theo đoạn 68(c), nên một năm không yêu cầu là ưu đãi bị mất, không phải hoãn lại"
 
 lang: "vi"
-sourceContentHash: "f3aa2542969476e2"
+sourceContentHash: "449b43d8cc06ad8b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -57,14 +58,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-08-14
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Đã thêm ghi chú cho năm tính thuế 2027: Ngân sách 2027 tăng cường khấu hao tài sản giá trị nhỏ (giá trị mỗi tài sản RM2,000->RM3,000; mức trần hằng năm cho công ty không phải MSME RM20,000->RM30,000) — đã công bố, đang chờ Dự luật Tài chính (Finance Bill)."
+    reviewer: null
 
-updated: 2026-08-14
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -117,6 +122,10 @@ sources:
   - title: "Tái khẳng định Vụ Tropiland — phân tích kháng cáo bãi đỗ xe nhiều tầng của SCP Assets (khoản 70A không hồi tố) (Reaffirming the Tropiland Case — analysis of the SCP Assets multi-storey car park appeal (paragraph 70A not retrospective))"
     url: "https://www.rdslawpartners.com/post/reaffirming-the-tropiland-case"
     publisher: "RDS Law Partners"
+  - title: "Các điểm nhấn Ngân sách 2027 — Các biện pháp thuế, Appendix 12 (Rà soát Khấu hao Vốn cho Tài sản Giá trị nhỏ) (Budget 2027 Touchpoints — Tax Measures, Appendix 12 (Review of Capital Allowance for Small Value Assets))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Capital allowances under Schedule 3 of the Income Tax Act 1967"
 relations:
@@ -217,6 +226,8 @@ Mức trần biến mất đối với một công ty vừa và nhỏ. Đoạn 1
 Nhánh thứ tư đó đáng được lưu ý, bởi vì Public Ruling No. 3/2021 có trước nó và không đề cập đến nó. Một công ty con Malaysia có vốn nước ngoài vốn đang yêu cầu khấu hao tài sản giá trị nhỏ không giới hạn chỉ dựa vào ruling nên kiểm tra lại luật định.
 
 Việc lựa chọn là theo từng tài sản. Đoạn 19A(2) ngăn việc yêu cầu cả khấu hao đặc biệt và khấu hao thông thường trên cùng chi phí, và Public Ruling No. 3/2021 coi một người là đã lựa chọn đơn giản bằng cách tính khấu hao ở mức đặc biệt.
+
+**Được công bố cho năm tính thuế 2027 (Ngân sách 2027).** Ngân sách 2027 (trình ngày 9 tháng 10 năm 2026) đã đề xuất tăng cường ưu đãi này kể từ **năm tính thuế 2027**: giá trị của mỗi tài sản giá trị nhỏ đủ điều kiện tăng từ **RM2,000 lên RM3,000**, và mức trần hằng năm tổng thể cho các công ty **không phải là MSME** tăng từ **RM20,000 lên RM30,000** (cách xử lý không giới hạn đối với một MSME đủ điều kiện không thay đổi). Đây là **những công bố, chưa phải là luật** — đang chờ Dự luật Tài chính (Finance Bill), nên giá trị RM2,000 mỗi tài sản và mức trần RM20,000 nói trên tiếp tục áp dụng cho đến hết năm tính thuế 2026 (YA2026).
 
 ## Bước 4: thanh lý, và điểm gay gắt
 
