@@ -28,18 +28,19 @@ verificationNeeded:
   - "現に効力を有する印紙税の免除命令及び減免命令は、網羅的に列挙したものではない。LHDN自身の印紙税命令索引はP.U.(A) 470/2024より後の項目を一件も掲載しておらず、更新が止まっているように見えるため、初回住宅取得その他の現行の免除閾値は、連邦官報（Federal Gazette）から読み取るべきである"
   - "item 12（譲渡、assignment）はAct 862により置き換えられており、その改訂後の生命保険にかかる区分は本稿では再掲していない"
   - "2027年1月1日から2030年12月31日までに作成された売買契約（SPA）に係る、強化された初回住宅取得の印紙税免除（RM500,000までは100%、加えてRM500,001–750,000には50%）は、Budget 2027の発表（MOFの税制措置 Appendix 16）であり、まだ官報告示されていない——P.U.(A)命令が制定され次第、確認すること"
+  - "貯蓄口座又は当座口座の開設にかかる法律文書に対する100%の免除（税制措置 Appendix 18）、及び外貨建て貸付契約にかかるRM2,000／RM5,000の上限（Appendix 19）は、いずれも2027年1月1日から施行され、Budget 2027の発表であって、まだ官報告示されていない——P.U.(A)命令が制定され次第、確認すること"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "db3a3267830562a2"
+sourceContentHash: "c2e3244306610cdb"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -48,6 +49,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "Budget 2027で発表された、強化された初回住宅取得の印紙税免除（RM500,001–750,000に対する新設の50%区分）及び放棄住宅プロジェクト再生の免除を注記した（発表済み、官報告示は未了）。"
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "Budget 2027の印紙税措置をさらに二つ追加した：貯蓄口座又は当座口座の開設にかかる法律文書に対する100%の免除（Appendix 18）、及び外貨建て貸付契約にかかるRM2,000／RM5,000の上限（Appendix 19）であり、いずれも2027年1月1日から施行される——発表済み、官報告示は未了。"
     reviewer: null
 
 updated: 2026-10-24
@@ -70,7 +75,7 @@ sources:
   - title: "印紙税の免除および軽減 (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "内国歳入庁 (LHDN)"
-  - title: "Budget 2027 タッチポイント — 税制措置、Appendices 16–17（初回住宅取得に対する印紙税免除；放棄住宅プロジェクトの再生） (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+  - title: "Budget 2027 タッチポイント — 税制措置、Appendices 16–19（初回住宅取得に対する印紙税免除；放棄住宅プロジェクトの再生；貯蓄口座及び当座口座の開設；外貨建て貸付又はファイナンス契約） (Budget 2027 Touchpoints — Tax Measures, Appendices 16–19 (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements))"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "マレーシア財務省 (MOF)"
     date: "2026-10-09"
@@ -189,7 +194,7 @@ Act 862により追加され、**2025年1月1日**から施行されているsec
 
 **初回住宅取得（現行）：** マレーシア市民が、価格**RM500,000**までの初めての住宅を購入する場合、2021年1月1日から2027年12月31日までに作成された売買契約について、移転証書及び貸付契約に**100%**の免除が適用される。
 
-**2027年に向けて発表（Budget 2027）：** **2027年1月1日から2030年12月31日まで**に作成された売買契約については、初回住宅取得の免除が強化される——RM500,000までの住宅は**100%**の免除を維持し、**RM750,000**までの住宅は**最初のRM500,000に100%、加えてRM500,001からRM750,000までの部分に50%**を受けられる。放棄住宅プロジェクトの再生に対する別途の100%免除が、2027年1月1日から2030年12月31日までに作成された法律文書について再導入される。これらはBudget 2027の発表（税制措置 Appendices 16–17）であり、まだ官報告示されていない。
+**2027年に向けて発表（Budget 2027）：** **2027年1月1日から2030年12月31日まで**に作成された売買契約については、初回住宅取得の免除が強化される——RM500,000までの住宅は**100%**の免除を維持し、**RM750,000**までの住宅は**最初のRM500,000に100%、加えてRM500,001からRM750,000までの部分に50%**を受けられる。放棄住宅プロジェクトの再生に対する別途の100%免除が、2027年1月1日から2030年12月31日までに作成された法律文書について再導入される。さらに二つの措置が**2027年1月1日から**施行される：法的義務、補償、保証又は債務を生じさせる誓約を含む、**貯蓄口座又は当座口座の開設**にかかる法律文書に対する**100%の免除**（現行ではRM10が課される）；及びマレーシア国内の銀行による**外貨建て貸付又はファイナンス契約にかかる0.5%の従価税額の上限設定**——RM100 millionまでのファイナンスについては**RM2,000**、それを超える場合は**RM5,000**（上記のitem 27(a)(ii)）。これらはBudget 2027の発表（税制措置 Appendices 16–19）であり、まだ官報告示されていない。
 
 ## よくある誤り
 

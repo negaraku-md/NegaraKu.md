@@ -28,6 +28,7 @@ verificationNeeded:
   - "Currently-in-force stamp duty exemption and remission orders were not enumerated exhaustively; LHDN's own stamp duty order index lists nothing after P.U.(A) 470/2024 and appears stale, so first-home and other current exemption thresholds should be read from the Federal Gazette"
   - "Item 12 (assignment) was substituted by Act 862 and its revised life-insurance bands are not reproduced here"
   - "The enhanced first-home stamp duty exemption (100% to RM500,000, plus 50% on RM500,001–750,000) for SPAs executed 1 Jan 2027–31 Dec 2030 is a Budget 2027 announcement (MOF tax-measures Appendix 16), not yet gazetted — confirm the P.U.(A) order once made"
+  - "The 100% exemption on savings/current-account opening instruments (tax-measures Appendix 18) and the RM2,000/RM5,000 cap on foreign-currency loan agreements (Appendix 19), both effective 1 January 2027, are Budget 2027 announcements not yet gazetted — confirm the P.U.(A) orders once made"
 
 lang: "en"
 masterLanguage: "en"
@@ -38,7 +39,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -47,6 +48,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "Noted the enhanced first-home stamp duty exemption (new 50% tier for RM500,001–750,000) and the abandoned-housing revival exemption announced in Budget 2027 (announced, pending the gazette)."
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "Added two more Budget 2027 stamp duty measures: the 100% exemption on savings/current-account opening instruments (Appendix 18) and the RM2,000/RM5,000 cap on foreign-currency loan agreements (Appendix 19), both from 1 Jan 2027 — announced, pending the gazette."
     reviewer: null
 
 updated: 2026-10-24
@@ -69,7 +74,7 @@ sources:
   - title: "Stamp Duty Exemptions and Relief"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
-  - title: "Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects)"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendices 16–19 (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "Ministry of Finance Malaysia"
     date: "2026-10-09"
@@ -234,8 +239,14 @@ from **1 January 2027 to 31 December 2030**, the first-home exemption is enhance
 get **100% on the first RM500,000 plus 50% on the portion from RM500,001 to
 RM750,000**. A separate 100% exemption for the revival of abandoned housing
 projects is reintroduced for instruments executed 1 January 2027 to 31 December
-2030. These are Budget 2027 announcements (tax-measures Appendices 16–17), not
-yet gazetted.
+2030. Two further measures take effect **from 1 January 2027**: a **100%
+exemption** on the instrument for **opening a savings or current account** that
+contains an undertaking creating a legal obligation, indemnity, guarantee or
+liability (currently dutiable at RM10); and a **cap on the 0.5% ad valorem duty
+on foreign-currency loan or financing agreements** from banks in Malaysia — at
+**RM2,000** for financing up to RM100 million and **RM5,000** above that (item
+27(a)(ii) above). These are Budget 2027 announcements (tax-measures Appendices
+16–19), not yet gazetted.
 
 ## Common mistakes
 

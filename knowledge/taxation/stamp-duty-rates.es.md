@@ -29,9 +29,10 @@ verificationNeeded:
   - "Currently-in-force stamp duty exemption and remission orders were not enumerated exhaustively; LHDN's own stamp duty order index lists nothing after P.U.(A) 470/2024 and appears stale, so first-home and other current exemption thresholds should be read from the Federal Gazette"
   - "Item 12 (assignment) was substituted by Act 862 and its revised life-insurance bands are not reproduced here"
   - "The enhanced first-home stamp duty exemption (100% to RM500,000, plus 50% on RM500,001–750,000) for SPAs executed 1 Jan 2027–31 Dec 2030 is a Budget 2027 announcement (MOF tax-measures Appendix 16), not yet gazetted — confirm the P.U.(A) order once made"
+  - "The 100% exemption on savings/current-account opening instruments (tax-measures Appendix 18) and the RM2,000/RM5,000 cap on foreign-currency loan agreements (Appendix 19), both effective 1 January 2027, are Budget 2027 announcements not yet gazetted — confirm the P.U.(A) orders once made"
 
 lang: "es"
-sourceContentHash: "db3a3267830562a2"
+sourceContentHash: "c2e3244306610cdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -40,7 +41,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -49,6 +50,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "Se anotó la exención mejorada del impuesto del timbre para la primera vivienda (nuevo tramo del 50% para RM500,001–750,000) y la exención por revitalización de vivienda abandonada anunciadas en el Presupuesto 2027 (anunciadas, pendientes de su publicación en el boletín oficial)."
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "Se añadieron dos medidas más del impuesto del timbre del Presupuesto 2027: la exención del 100% sobre los instrumentos de apertura de cuentas de ahorros/corrientes (Apéndice 18) y el tope de RM2,000/RM5,000 sobre los acuerdos de préstamo en moneda extranjera (Apéndice 19), ambas a partir del 1 de enero de 2027 — anunciadas, pendientes de su publicación en el boletín oficial."
     reviewer: null
 
 updated: 2026-10-24
@@ -71,7 +76,7 @@ sources:
   - title: "Exenciones y alivios del impuesto del timbre (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
-  - title: "Puntos de contacto del Presupuesto 2027 — Medidas fiscales, Apéndices 16–17 (Exención del impuesto del timbre para la primera vivienda residencial; revitalización de proyectos de vivienda abandonados) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+  - title: "Puntos de contacto del Presupuesto 2027 — Medidas fiscales, Apéndices 16–19 (Exención del impuesto del timbre para la primera vivienda residencial; revitalización de proyectos de vivienda abandonados; apertura de cuentas de ahorros y corrientes; acuerdos de préstamo o financiación en moneda extranjera) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–19 (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements))"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "Ministerio de Finanzas de Malasia (Ministry of Finance Malaysia)"
     date: "2026-10-09"
@@ -190,7 +195,7 @@ Por separado, el **alivio bajo la s.15 y la s.15A** cubre la reconstrucción y l
 
 **Primera vivienda residencial (vigente):** los ciudadanos malasios que compran su primera vivienda con un precio de hasta **RM500,000** obtienen una exención del **100%** sobre el instrumento de transferencia y el acuerdo de préstamo, para los acuerdos de compraventa otorgados entre el 1 de enero de 2021 y el 31 de diciembre de 2027.
 
-**Anunciado para 2027 (Presupuesto 2027):** para los acuerdos de compraventa otorgados entre el **1 de enero de 2027 y el 31 de diciembre de 2030**, la exención de primera vivienda se amplía — las viviendas de hasta RM500,000 conservan la exención del **100%**, y las viviendas de hasta **RM750,000** obtienen el **100% sobre los primeros RM500,000 más el 50% sobre la porción de RM500,001 a RM750,000**. Una exención separada del 100% para la revitalización de proyectos de vivienda abandonados se reintroduce para los instrumentos otorgados entre el 1 de enero de 2027 y el 31 de diciembre de 2030. Estos son anuncios del Presupuesto 2027 (Apéndices 16–17 de las medidas fiscales), aún no publicados en el boletín oficial.
+**Anunciado para 2027 (Presupuesto 2027):** para los acuerdos de compraventa otorgados entre el **1 de enero de 2027 y el 31 de diciembre de 2030**, la exención de primera vivienda se amplía — las viviendas de hasta RM500,000 conservan la exención del **100%**, y las viviendas de hasta **RM750,000** obtienen el **100% sobre los primeros RM500,000 más el 50% sobre la porción de RM500,001 a RM750,000**. Una exención separada del 100% para la revitalización de proyectos de vivienda abandonados se reintroduce para los instrumentos otorgados entre el 1 de enero de 2027 y el 31 de diciembre de 2030. Dos medidas adicionales entran en vigor **a partir del 1 de enero de 2027**: una **exención del 100%** sobre el instrumento para la **apertura de una cuenta de ahorros o corriente** que contenga un compromiso que cree una obligación legal, indemnización, garantía o responsabilidad (actualmente gravado con RM10); y un **tope sobre el impuesto ad valorem del 0.5% sobre los acuerdos de préstamo o financiación en moneda extranjera** de bancos en Malasia — de **RM2,000** para financiación de hasta RM100 million y **RM5,000** por encima de esa cantidad (punto 27(a)(ii) anterior). Estos son anuncios del Presupuesto 2027 (Apéndices 16–19 de las medidas fiscales), aún no publicados en el boletín oficial.
 
 ## Errores comunes
 

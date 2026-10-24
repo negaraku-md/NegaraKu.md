@@ -28,9 +28,10 @@ verificationNeeded:
   - "Perintah pengecualian dan pembebasan bea meterai yang berlaku saat ini tidak tercantum secara menyeluruh; indeks perintah bea meterai LHDN sendiri tidak mencantumkan apa pun setelah P.U.(A) 470/2024 dan tampaknya usang, jadi ambang pengecualian rumah pertama dan lainnya yang terkini perlu dibaca dari Warta Persekutuan"
   - "Item 12 (penyerahan hak) telah diganti oleh Act 862 dan jalur asuransi jiwanya yang direvisi tidak diterbitkan ulang di sini"
   - "Pengecualian bea meterai rumah pertama yang ditingkatkan (100% hingga RM500,000, ditambah 50% atas RM500,001–750,000) bagi perjanjian jual beli (SPA) yang ditandatangani 1 Jan 2027–31 Des 2030 adalah pengumuman Anggaran 2027 (Appendix 16 langkah pajak MOF), belum diwartakan — konfirmasikan perintah P.U.(A) begitu dibuat"
+  - "Pengecualian 100% atas instrumen pembukaan rekening tabungan/giro (Appendix 18 langkah pajak) dan plafon RM2,000/RM5,000 atas perjanjian pinjaman mata uang asing (Appendix 19), keduanya berlaku mulai 1 Januari 2027, adalah pengumuman Anggaran 2027 yang belum diwartakan — konfirmasikan perintah P.U.(A) begitu dibuat"
 
 lang: "id"
-sourceContentHash: "db3a3267830562a2"
+sourceContentHash: "c2e3244306610cdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,7 +40,7 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -48,6 +49,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "Mencatat pengecualian bea meterai rumah pertama yang ditingkatkan (lapisan baru 50% bagi RM500,001–750,000) dan pengecualian revitalisasi perumahan terbengkalai sebagaimana diumumkan dalam Anggaran 2027 (diumumkan, menunggu warta)."
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "Menambahkan dua langkah bea meterai Anggaran 2027 lagi: pengecualian 100% atas instrumen pembukaan rekening tabungan/giro (Appendix 18) dan plafon RM2,000/RM5,000 atas perjanjian pinjaman mata uang asing (Appendix 19), keduanya mulai 1 Jan 2027 — diumumkan, menunggu warta."
     reviewer: null
 
 updated: 2026-10-24
@@ -70,7 +75,7 @@ sources:
   - title: "Pengecualian dan Pembebasan Bea Meterai (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/duti-setem/pengecualian-dan-relief/"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
-  - title: "Titik Sentuh Anggaran 2027 — Langkah Pajak, Appendix 16–17 (Pengecualian Bea Meterai bagi Rumah Hunian Pertama; Revitalisasi Proyek Perumahan Terbengkalai) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+  - title: "Titik Sentuh Anggaran 2027 — Langkah Pajak, Appendix 16–19 (Pengecualian Bea Meterai bagi Rumah Hunian Pertama; Revitalisasi Proyek Perumahan Terbengkalai; Pembukaan Rekening Tabungan dan Giro; Perjanjian Pinjaman atau Pembiayaan Mata Uang Asing) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–19 (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements))"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "Kementerian Keuangan Malaysia (MOF)"
     date: "2026-10-09"
@@ -241,8 +246,15 @@ pertama ditingkatkan — rumah hingga RM500,000 tetap mendapat pengecualian **10
 dan rumah hingga **RM750,000** mendapat **100% atas RM500,000 pertama ditambah 50%
 atas bagian dari RM500,001 hingga RM750,000**. Pengecualian 100% terpisah bagi
 revitalisasi proyek perumahan terbengkalai diperkenalkan kembali bagi instrumen
-yang ditandatangani 1 Januari 2027 hingga 31 Desember 2030. Ini adalah pengumuman
-Anggaran 2027 (Appendix 16–17 langkah pajak), belum diwartakan.
+yang ditandatangani 1 Januari 2027 hingga 31 Desember 2030. Dua langkah tambahan
+berlaku **mulai 1 Januari 2027**: pengecualian **100%** atas instrumen untuk
+**membuka rekening tabungan atau rekening giro** yang memuat suatu janji yang
+menimbulkan kewajiban hukum, indemnitas, jaminan, atau liabilitas (saat ini
+dikenakan bea RM10); dan **plafon atas bea ad valorem 0.5% pada perjanjian
+pinjaman atau pembiayaan dalam mata uang asing** dari bank di Malaysia — sebesar
+**RM2,000** bagi pembiayaan hingga RM100 million dan **RM5,000** di atasnya (item
+27(a)(ii) di atas). Ini adalah pengumuman Anggaran 2027 (Appendix 16–19 langkah
+pajak), belum diwartakan.
 
 ## Kesalahan umum
 

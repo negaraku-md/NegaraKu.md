@@ -29,9 +29,10 @@ verificationNeeded:
   - "Les ordonnances d'exemption et de remise du droit de timbre actuellement en vigueur n'ont pas été énumérées de manière exhaustive ; l'index des ordonnances de droit de timbre du LHDN lui-même ne répertorie rien après le P.U.(A) 470/2024 et paraît obsolète, de sorte que les seuils d'exemption pour la première résidence et les autres seuils d'exemption en vigueur devraient être lus dans le Journal officiel fédéral"
   - "Le point 12 (cession) a été remplacé par l'Act 862 et ses tranches révisées d'assurance-vie ne sont pas reproduites ici"
   - "L'exemption renforcée du droit de timbre pour la première résidence (100% jusqu'à RM500,000, plus 50% sur RM500,001–750,000) pour les accords de vente et d'achat signés du 1er janvier 2027 au 31 décembre 2030 est une annonce du Budget 2027 (MOF tax-measures Appendix 16), pas encore publiée au journal officiel — confirmer l'ordonnance P.U.(A) une fois prise"
+  - "L'exemption de 100% sur les instruments d'ouverture d'un compte d'épargne ou d'un compte courant (tax-measures Appendix 18) et le plafonnement de RM2,000/RM5,000 sur les accords de prêt en devise étrangère (Appendix 19), tous deux applicables à compter du 1er janvier 2027, sont des annonces du Budget 2027 pas encore publiées au journal officiel — confirmer les ordonnances P.U.(A) une fois prises"
 
 lang: "fr"
-sourceContentHash: "db3a3267830562a2"
+sourceContentHash: "c2e3244306610cdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -40,7 +41,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -49,6 +50,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "Signalement de l'exemption renforcée du droit de timbre pour la première résidence (nouvelle tranche de 50% pour RM500,001–750,000) et de l'exemption pour la revitalisation des logements abandonnés annoncées dans le Budget 2027 (annoncées, en attente de la publication au journal officiel)."
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "Ajout de deux mesures supplémentaires du Budget 2027 relatives au droit de timbre : l'exemption de 100% sur les instruments d'ouverture d'un compte d'épargne ou d'un compte courant (Annexe 18) et le plafonnement de RM2,000/RM5,000 sur les accords de prêt en devise étrangère (Annexe 19), tous deux à compter du 1er janvier 2027 — annoncées, en attente de la publication au journal officiel."
     reviewer: null
 
 updated: 2026-10-24
@@ -71,7 +76,7 @@ sources:
   - title: "Exemptions et allègements du droit de timbre (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
-  - title: "Budget 2027 Touchpoints — Mesures fiscales, Annexes 16–17 (Exemption du droit de timbre pour la première résidence ; revitalisation des projets de logement abandonnés) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+  - title: "Budget 2027 Touchpoints — Mesures fiscales, Annexes 16–19 (Exemption du droit de timbre pour la première résidence ; revitalisation des projets de logement abandonnés ; ouverture de comptes d'épargne et de comptes courants ; accords de prêt ou de financement en devise étrangère) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–19 (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements))"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "Ministère des Finances de Malaisie (Ministry of Finance Malaysia)"
     date: "2026-10-09"
@@ -200,8 +205,16 @@ est renforcée — les résidences jusqu'à RM500,000 conservent l'exemption de
 premiers RM500,000 plus 50% sur la portion de RM500,001 à RM750,000**. Une
 exemption distincte de 100% pour la revitalisation des projets de logement
 abandonnés est réintroduite pour les instruments signés du 1er janvier 2027 au
-31 décembre 2030. Il s'agit d'annonces du Budget 2027 (tax-measures Appendices
-16–17), pas encore publiées au journal officiel.
+31 décembre 2030. Deux mesures supplémentaires prennent effet **à compter du
+1er janvier 2027** : une **exemption de 100%** sur l'instrument d'**ouverture
+d'un compte d'épargne ou d'un compte courant** qui contient un engagement créant
+une obligation légale, une indemnité, une garantie ou une responsabilité
+(actuellement soumis à un droit de RM10) ; et un **plafonnement du droit ad
+valorem de 0.5% sur les accords de prêt ou de financement en devise étrangère**
+octroyés par des banques en Malaisie — à **RM2,000** pour un financement jusqu'à
+RM100 million et **RM5,000** au-delà (point 27(a)(ii) ci-dessus). Il s'agit
+d'annonces du Budget 2027 (tax-measures Appendices 16–19), pas encore publiées
+au journal officiel.
 
 ## Erreurs courantes
 

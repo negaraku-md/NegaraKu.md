@@ -28,18 +28,19 @@ verificationNeeded:
   - "Perintah pengecualian dan pelepasan duti setem yang berkuat kuasa semasa tidak disenaraikan secara menyeluruh; indeks perintah duti setem LHDN sendiri tidak menyenaraikan apa-apa selepas P.U.(A) 470/2024 dan nampaknya lapuk, jadi ambang pengecualian rumah pertama dan lain-lain semasa perlu dibaca daripada Warta Persekutuan"
   - "Item 12 (penyerahan hak) telah diganti oleh Act 862 dan jalur insurans hayatnya yang disemak semula tidak dikeluarkan semula di sini"
   - "Pengecualian duti setem rumah pertama yang dipertingkatkan (100% sehingga RM500,000, serta 50% ke atas RM500,001–750,000) bagi perjanjian jual beli yang disempurnakan 1 Januari 2027–31 Disember 2030 ialah pengumuman Bajet 2027 (Appendix 16 langkah cukai MOF), belum diwartakan — sahkan perintah P.U.(A) sebaik sahaja dibuat"
+  - "Pengecualian 100% ke atas suratcara pembukaan akaun simpanan/semasa (Appendix 18 langkah cukai) dan siling RM2,000/RM5,000 ke atas perjanjian pinjaman mata wang asing (Appendix 19), kedua-duanya berkuat kuasa 1 Januari 2027, ialah pengumuman Bajet 2027 yang belum diwartakan — sahkan perintah P.U.(A) sebaik sahaja dibuat"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "db3a3267830562a2"
+sourceContentHash: "c2e3244306610cdb"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -48,6 +49,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "Mencatatkan pengecualian duti setem rumah pertama yang dipertingkatkan (lapisan 50% baharu bagi RM500,001–750,000) dan pengecualian pemulihan perumahan terbengkalai yang diumumkan dalam Bajet 2027 (diumumkan, menunggu warta)."
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "Menambah dua lagi langkah duti setem Bajet 2027: pengecualian 100% ke atas suratcara pembukaan akaun simpanan/semasa (Appendix 18) dan siling RM2,000/RM5,000 ke atas perjanjian pinjaman mata wang asing (Appendix 19), kedua-duanya mulai 1 Jan 2027 — diumumkan, menunggu warta."
     reviewer: null
 
 updated: 2026-10-24
@@ -70,7 +75,7 @@ sources:
   - title: "Pengecualian dan Pelepasan Duti Setem (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/duti-setem/pengecualian-dan-relief/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
-  - title: "Sentuhan Belanjawan 2027 — Langkah Cukai, Appendices 16–17 (Pengecualian Duti Setem bagi Rumah Kediaman Pertama; Pemulihan Projek Perumahan Terbengkalai) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+  - title: "Sentuhan Belanjawan 2027 — Langkah Cukai, Appendices 16–19 (Pengecualian Duti Setem bagi Rumah Kediaman Pertama; Pemulihan Projek Perumahan Terbengkalai; Pembukaan Akaun Simpanan dan Akaun Semasa; Perjanjian Pinjaman atau Pembiayaan Mata Wang Asing) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–19 (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements))"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "Kementerian Kewangan Malaysia (MOF)"
     date: "2026-10-09"
@@ -247,8 +252,15 @@ pertama dipertingkatkan — rumah sehingga RM500,000 mengekalkan pengecualian
 pertama serta 50% ke atas bahagian dari RM500,001 hingga RM750,000**. Satu
 pengecualian 100% berasingan bagi pemulihan projek perumahan terbengkalai
 diperkenalkan semula bagi suratcara yang disempurnakan 1 Januari 2027 hingga
-31 Disember 2030. Ini ialah pengumuman Bajet 2027 (Appendices 16–17 langkah
-cukai), belum diwartakan.
+31 Disember 2030. Dua langkah lanjut berkuat kuasa **mulai 1 Januari 2027**:
+**pengecualian 100%** ke atas suratcara bagi **pembukaan akaun simpanan atau
+akaun semasa** yang mengandungi suatu akujanji yang mewujudkan obligasi
+undang-undang, indemniti, jaminan atau liabiliti (kini dikenakan duti RM10);
+dan satu **siling ke atas duti ad valorem 0.5% bagi perjanjian pinjaman atau
+pembiayaan mata wang asing** daripada bank di Malaysia — pada **RM2,000** bagi
+pembiayaan sehingga RM100 juta dan **RM5,000** bagi jumlah melebihi itu
+(perkara 27(a)(ii) di atas). Ini ialah pengumuman Bajet 2027 (Appendices 16–19
+langkah cukai), belum diwartakan.
 
 ## Kesilapan biasa
 

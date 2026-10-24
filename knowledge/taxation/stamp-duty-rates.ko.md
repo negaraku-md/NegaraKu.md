@@ -28,9 +28,10 @@ verificationNeeded:
   - "현재 유효한 인지세 면제 및 감면 명령을 빠짐없이 열거하지는 않았음; 말레이시아 국세청(LHDN)의 인지세 명령 색인에는 P.U.(A) 470/2024 이후로 아무것도 등재되어 있지 않고 갱신되지 않은 것으로 보이므로, 생애 첫 주택 및 기타 현행 면제 기준액은 연방 관보에서 확인할 것"
   - "12항(양도, assignment)은 Act 862에 의해 대체되었으며 그 개정된 생명보험 구간은 여기에 재현하지 않음"
   - "2027년 1월 1일~2030년 12월 31일에 체결되는 매매계약(SPA)에 대한 강화된 생애 첫 주택 인지세 면제(RM500,000까지 100%, RM500,001~750,000에 추가 50%)는 2027년 예산안 발표(MOF tax-measures Appendix 16)로 아직 관보에 게재되지 않았음 — P.U.(A) 명령이 제정되면 확인할 것"
+  - "예금계좌·당좌계좌 개설 증서에 대한 100% 면제(tax-measures Appendix 18)와 외화 대출 계약에 대한 RM2,000/RM5,000 상한(Appendix 19)은 모두 2027년 1월 1일부터 시행되며, 2027년 예산안 발표로 아직 관보에 게재되지 않았음 — P.U.(A) 명령이 제정되면 확인할 것"
 
 lang: "ko"
-sourceContentHash: "db3a3267830562a2"
+sourceContentHash: "c2e3244306610cdb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,7 +40,7 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -48,6 +49,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "2027년 예산안에서 발표된 강화된 생애 첫 주택 인지세 면제(RM500,001~750,000에 대한 신규 50% 구간)와 방치 주택 사업 재개 면제를 반영(발표 단계로, 관보 게재 대기 중)."
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "2027년 예산안의 인지세 조치 2건 추가: 예금계좌·당좌계좌 개설 증서에 대한 100% 면제(Appendix 18)와 외화 대출 계약에 대한 RM2,000/RM5,000 상한(Appendix 19), 모두 2027년 1월 1일부터 시행 — 발표 단계로, 관보 게재 대기 중."
     reviewer: null
 
 updated: 2026-10-24
@@ -70,7 +75,7 @@ sources:
   - title: "인지세 면제 및 경감 (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "말레이시아 국내세입청 (LHDN)"
-  - title: "2027년 예산안 세부지침 — 조세 조치, Appendices 16–17 (생애 첫 주택 인지세 면제; 방치 주택 사업 재개) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17)"
+  - title: "2027년 예산안 세부지침 — 조세 조치, Appendices 16–19 (생애 첫 주택 인지세 면제; 방치 주택 사업 재개; 예금계좌·당좌계좌 개설; 외화 대출 또는 금융 계약) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–19) (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements)"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "말레이시아 재무부"
     date: "2026-10-09"
@@ -221,8 +226,13 @@ note)는 제외입니다. 따라서 소액 종가세 계산은 몇 링깃을 산
 매매계약에 대해 생애 첫 주택 면제가 강화됩니다 — RM500,000까지의 주택은 **100%** 면제를
 유지하고, RM750,000까지의 주택은 **처음 RM500,000에 대해 100%, RM500,001부터 RM750,000까지의
 부분에 대해 50%**를 받습니다. 방치 주택 사업 재개를 위한 별도의 100% 면제도 2027년 1월
-1일부터 2030년 12월 31일까지 체결되는 증서에 대해 재도입됩니다. 이는 2027년 예산안
-발표(tax-measures Appendices 16–17)로, 아직 관보에 게재되지 않았습니다.
+1일부터 2030년 12월 31일까지 체결되는 증서에 대해 재도입됩니다. **2027년 1월 1일부터**
+두 가지 추가 조치가 시행됩니다: 법적 의무, 면책, 보증 또는 책임을 발생시키는
+확약(undertaking)을 포함하는 **예금계좌 또는 당좌계좌 개설** 증서에 대한 **100% 면제**(현재
+RM10 과세); 그리고 말레이시아 소재 은행의 **외화 대출 또는 금융 계약에 부과되는 0.5%
+종가세의 상한** — RM100 million까지의 금융에 대해 **RM2,000**, 그 초과분에 대해
+**RM5,000**(위 항목 27(a)(ii)). 이는 2027년 예산안 발표(tax-measures Appendices 16–19)로,
+아직 관보에 게재되지 않았습니다.
 
 ## 흔한 실수
 

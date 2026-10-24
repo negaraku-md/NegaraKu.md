@@ -28,11 +28,12 @@ verificationNeeded:
   - "现行有效的印花税豁免与宽免命令未曾详尽列举；LHDN 自己的印花税命令索引在 P.U.(A) 470/2024 之后就没有任何项目，看来已经过时，因此首购屋与其他现行豁免门槛，应从联邦宪报读取"
   - "Item 12（转让权益）已由 Act 862 替换，其修订后的人寿保险级距在此并未重现"
   - "针对 2027 年 1 月 1 日至 2030 年 12 月 31 日签立的买卖协议，首购屋印花税豁免增强版（至 RM500,000 为 100%，另加 RM500,001–750,000 的 50%）属 Budget 2027 的宣布（MOF 税务措施 Appendix 16），尚未刊宪——一旦相关 P.U.(A) 命令作出，请确认"
+  - "就开立储蓄或往来账户的法律文书给予的 100% 豁免（税务措施 Appendix 18），以及就外币贷款协议所课税设 RM2,000／RM5,000 上限（Appendix 19），两者均自 2027 年 1 月 1 日起生效，属 Budget 2027 的宣布，尚未刊宪——一旦相关 P.U.(A) 命令作出，请确认"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "db3a3267830562a2"
+sourceContentHash: "c2e3244306610cdb"
 
 status: "published"
 aiAssisted: true
@@ -40,7 +41,7 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 1
+revision: 2
 revisions:
   - revision: 0
     date: 2026-07-20
@@ -49,6 +50,10 @@ revisions:
   - revision: 1
     date: 2026-10-24
     change: "记录 Budget 2027 宣布的首购屋印花税豁免增强版（RM500,001–750,000 的新 50% 级）与荒废房屋项目复兴豁免（已宣布，待刊宪）。"
+    reviewer: null
+  - revision: 2
+    date: 2026-10-24
+    change: "新增 Budget 2027 的另两项印花税措施：就开立储蓄或往来账户的法律文书给予的 100% 豁免（Appendix 18），以及就外币贷款协议所课税设的 RM2,000／RM5,000 上限（Appendix 19），两者均自 2027 年 1 月 1 日起生效——已宣布，待刊宪。"
     reviewer: null
 
 updated: 2026-10-24
@@ -71,7 +76,7 @@ sources:
   - title: "印花税豁免与减免 (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "马来西亚内陆税收局 (LHDN)"
-  - title: "2027年财政预算案要点 — 税务措施，Appendices 16–17（首间住宅房屋印花税豁免；荒废房屋项目复兴） (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+  - title: "2027年财政预算案要点 — 税务措施，Appendices 16–19（首间住宅房屋印花税豁免；荒废房屋项目复兴；开立储蓄与往来账户；外币贷款或融资协议） (Budget 2027 Touchpoints — Tax Measures, Appendices 16–19 (First Residential Home; Revival of Abandoned Housing Projects; Opening of Savings and Current Accounts; Foreign Currency Loan or Financing Agreements))"
     url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
     publisher: "马来西亚财政部 (MOF)"
     date: "2026-10-09"
@@ -215,8 +220,12 @@ Item 4 是那个包罗万象的协议项目，而它自己的豁免清单，比�
 签立的买卖协议，首购屋豁免获增强——价格不超过 RM500,000 的房屋维持 **100%** 豁免，
 价格不超过 **RM750,000** 的房屋则获 **首 RM500,000 的 100%，另加 RM500,001 至
 RM750,000 部分的 50%**。另有一项针对荒废房屋项目复兴的 100% 豁免，就 2027 年 1 月
-1 日至 2030 年 12 月 31 日签立的法律文书重新实施。这些是 Budget 2027 的宣布（税务
-措施 Appendices 16–17），尚未刊宪。
+1 日至 2030 年 12 月 31 日签立的法律文书重新实施。另有两项措施自 **2027 年 1 月 1 日**
+起生效：其一，就**开立储蓄或往来账户**而含有设立法律义务、弥偿、担保或法律责任之
+承诺的法律文书，给予 **100% 豁免**（现行应课 RM10）；其二，就马来西亚银行提供的
+**外币贷款或融资协议**所课 **0.5% 从价税设上限**——融资额至 RM100 million 者为
+**RM2,000**，其上者为 **RM5,000**（见上文 item 27(a)(ii)）。这些是 Budget 2027 的
+宣布（税务措施 Appendices 16–19），尚未刊宪。
 
 ## 常见错误
 
