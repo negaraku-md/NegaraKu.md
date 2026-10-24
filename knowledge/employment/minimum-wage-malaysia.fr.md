@@ -24,7 +24,7 @@ appliesTo: "Employeurs qui fixent les taux de rémunération, et salariés qui v
 
 faq:
   - q: "Une Minimum Wages Order 2026 a-t-elle été publiée au Journal officiel ?"
-    a: "Non. L'instrument en vigueur reste la Minimum Wages Order 2024, P.U.(A) 376, qui a abrogé l'Order de 2022. Le portail du secrétariat du National Wages Consultative Council affiche RM1,700 comme taux actuel et mentionne une révision en cours de l'Order de 2024, mais aucun nouveau taux n'a été publié au Journal officiel."
+    a: "Non. L'instrument en vigueur reste la Minimum Wages Order 2024, P.U.(A) 376, qui a abrogé l'Order de 2022. Le portail du secrétariat du National Wages Consultative Council affiche RM1,700 comme taux actuel et mentionne une révision en cours de l'Order de 2024, mais aucun nouveau taux n'a été publié au Journal officiel. Le Budget 2027 (présenté le 9 octobre 2026) a annoncé une hausse à RM2,000 par mois à partir de juin 2027, les employeurs dont le chiffre d'affaires annuel est inférieur à RM50 millions étant exemptés dans un premier temps — mais il s'agit d'une annonce en attente d'un nouvel Order, qui ne modifie pas le taux de RM1,700 actuellement en vigueur."
   - q: "Le salaire minimum diffère-t-il encore pour les petits employeurs ?"
     a: "Non. Le paragraphe 4 de l'Order a fixé un taux transitoire de RM1,500 pour les employeurs comptant moins de cinq salariés, mais seulement pour la période du 1er février 2025 au 31 juillet 2025. Le paragraphe 5 l'a remplacé par RM1,700 à partir du 1er août 2025."
   - q: "Quand les salaires doivent-ils être payés ?"
@@ -35,7 +35,7 @@ faq:
     a: "Oui. Au titre de l'art. 24(8), le total des déductions sur un même mois ne doit pas dépasser 50 % du salaire de ce mois. Le plafond ne s'applique pas à l'indemnité de l'art. 13(1), aux déductions du paiement final en cas de fin de contrat, ni aux remboursements de prêts au logement, qui, avec l'autorisation écrite du Directeur général, peuvent aller jusqu'à 25 % supplémentaires."
 
 verificationNeeded:
-  - "Monitor gajiminimum.mohr.gov.my for the outcome of the announced review of the Minimum Wages Order 2024 and any 2026 or 2027 Order"
+  - "Le Budget 2027 (9 oct. 2026) a annoncé une hausse à RM2,000 à partir de juin 2027 (les employeurs dont le chiffre d'affaires annuel est inférieur à RM50 millions étant exemptés dans un premier temps) ainsi qu'un plancher de RM2,500 pour les travailleurs semi-qualifiés et les diplômés — annoncé, pas encore publié au Journal officiel. Confirmer les chiffres, la date d'entrée en vigueur et le champ de l'exemption une fois qu'une nouvelle Minimum Wages Order sera publiée au Journal officiel ; surveiller gajiminimum.mohr.gov.my"
 
 obligations:
   - what: "Pay at least the gazetted minimum wage of RM1,700 a month"
@@ -59,7 +59,7 @@ obligations:
     consequence: "Offence under the Employment Act 1955"
 
 lang: "fr"
-sourceContentHash: "874dea06578740cb"
+sourceContentHash: "596264086a5277dc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,15 +68,19 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ajout de l'annonce du Budget 2027 (salaire minimum RM1,700 -> RM2,000 à partir de juin 2027, les entreprises dont le chiffre d'affaires est inférieur à RM50 millions exemptées dans un premier temps, plancher de RM2,500 pour les travailleurs semi-qualifiés et les diplômés) — annoncé, en attente d'un nouvel Order ; RM1,700 (MWO 2024) conservé comme taux en vigueur."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Ordonnance sur le salaire minimum 2024 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
@@ -91,6 +95,10 @@ sources:
   - title: "National Wages Consultative Council Act 2011 (Act 732)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/3.%20National%20Wages%20Consultative%20Council%20Act%202011.pdf"
     publisher: "JTKSM"
+  - title: "Budget 2027 (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Ministère des Finances de Malaisie (MOF)"
+    date: "2026-10-09"
 
 entity: "Malaysian minimum wage"
 relations:
@@ -138,6 +146,18 @@ Aucune Minimum Wages Order 2026 n'a été publiée au Journal officiel. Le porta
 secrétariat du National Wages Consultative Council affiche RM1,700 comme taux en
 vigueur et consigne des séances de consultation sur une révision de l'Order de
 2024 tenues au cours de 2026.
+
+**Annoncé dans le Budget 2027.** Le discours du Budget 2027 (présenté le 9 octobre
+2026) a annoncé que le salaire minimum national passera de RM1,700 à **RM2,000 par
+mois à partir de juin 2027**, les employeurs dont le chiffre d'affaires annuel est
+inférieur à **RM50 millions** étant exemptés dans un premier temps pour leur
+laisser le temps de s'adapter. Un plancher mensuel distinct de **RM2,500** a été
+annoncé pour les travailleurs semi-qualifiés et les diplômés (sans date d'entrée en
+vigueur), et le seuil de salaire décent des GLIC/GLC doit passer de RM3,100 à
+RM3,400. Il s'agit d'**annonces, pas encore de loi** — l'instrument en vigueur
+reste la Minimum Wages Order 2024 à RM1,700 jusqu'à ce qu'un nouvel Order soit
+publié au Journal officiel au titre de la National Wages Consultative Council Act
+2011. D'ici là, RM1,700 reste le taux que vous devez payer.
 
 ## Le payer à temps : l'art. 19
 

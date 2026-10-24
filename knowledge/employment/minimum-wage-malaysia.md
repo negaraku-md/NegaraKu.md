@@ -24,7 +24,7 @@ appliesTo: "Employers setting pay rates, and employees checking whether their pa
 
 faq:
   - q: "Has a Minimum Wages Order 2026 been gazetted?"
-    a: "No. The operative instrument remains the Minimum Wages Order 2024, P.U.(A) 376, which revoked the 2022 Order. The National Wages Consultative Council secretariat portal shows RM1,700 as the current rate and refers to an ongoing review of the 2024 Order, but no new rate has been gazetted."
+    a: "No. The operative instrument remains the Minimum Wages Order 2024, P.U.(A) 376, which revoked the 2022 Order. The National Wages Consultative Council secretariat portal shows RM1,700 as the current rate and refers to an ongoing review of the 2024 Order, but no new rate has been gazetted. Budget 2027 (tabled 9 October 2026) announced a rise to RM2,000 a month from June 2027, with employers whose annual sales are below RM50 million exempted initially — but that is an announcement pending a new Order, and does not change the RM1,700 rate now in force."
   - q: "Does the minimum wage still differ for small employers?"
     a: "No. Paragraph 4 of the Order set a transitional RM1,500 rate for employers with fewer than five employees, but only for the period 1 February 2025 to 31 July 2025. Paragraph 5 replaced it with RM1,700 from 1 August 2025."
   - q: "When must wages be paid?"
@@ -35,7 +35,7 @@ faq:
     a: "Yes. Under s.24(8) total deductions in any one month must not exceed 50% of that month's wages. The cap does not apply to s.13(1) indemnity, to final-payment deductions on termination, or to housing loan repayments, which with the Director General's written permission may go up to a further 25%."
 
 verificationNeeded:
-  - "Monitor gajiminimum.mohr.gov.my for the outcome of the announced review of the Minimum Wages Order 2024 and any 2026 or 2027 Order"
+  - "Budget 2027 (9 Oct 2026) announced a rise to RM2,000 from June 2027 (employers with annual sales below RM50 million exempted initially) plus a RM2,500 floor for semi-skilled workers and graduates — announced, not yet gazetted. Confirm the figures, effective date and exemption scope once a new Minimum Wages Order is gazetted; monitor gajiminimum.mohr.gov.my"
 
 obligations:
   - what: "Pay at least the gazetted minimum wage of RM1,700 a month"
@@ -67,15 +67,19 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Added the Budget 2027 announcement (minimum wage RM1,700 -> RM2,000 from June 2027, firms under RM50m sales exempted initially, RM2,500 floor for semi-skilled workers and graduates) — announced, pending a new Order; kept RM1,700 (MWO 2024) as the operative rate."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Perintah Gaji Minimum 2024 — P.U.(A) 376"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
@@ -90,6 +94,10 @@ sources:
   - title: "National Wages Consultative Council Act 2011 (Act 732)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/3.%20National%20Wages%20Consultative%20Council%20Act%202011.pdf"
     publisher: "JTKSM"
+  - title: "Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027)"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian minimum wage"
 relations:
@@ -134,6 +142,17 @@ RM1,700 from 1 February 2025 regardless of headcount.
 No Minimum Wages Order 2026 has been gazetted. The National Wages Consultative
 Council secretariat portal shows RM1,700 as the operative rate and records
 engagement sessions on a review of the 2024 Order held during 2026.
+
+**Announced in Budget 2027.** The Budget 2027 speech (tabled 9 October 2026)
+announced that the national minimum wage will rise from RM1,700 to **RM2,000 a
+month from June 2027**, with employers whose annual sales are below **RM50
+million** exempted initially to give them time to adjust. A separate **RM2,500**
+monthly floor was announced for semi-skilled workers and graduates (no start date
+given), and the GLIC/GLC living-wage benchmark is to rise from RM3,100 to RM3,400.
+These are **announcements, not yet law** — the operative instrument remains the
+Minimum Wages Order 2024 at RM1,700 until a new Order is gazetted under the
+National Wages Consultative Council Act 2011. Until then, RM1,700 is still the
+rate you must pay.
 
 ## Paying it on time: s.19
 

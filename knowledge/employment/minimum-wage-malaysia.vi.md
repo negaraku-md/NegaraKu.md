@@ -24,7 +24,7 @@ appliesTo: "Người sử dụng lao động đặt các mức lương, và ngư
 
 faq:
   - q: "Đã có một Minimum Wages Order 2026 được đăng công báo chưa?"
-    a: "Chưa. Văn bản đang có hiệu lực vẫn là Minimum Wages Order 2024, P.U.(A) 376, đã hủy bỏ Lệnh năm 2022. Cổng của ban thư ký Hội đồng Tư vấn Lương Quốc gia hiển thị RM1,700 là mức hiện hành và dẫn chiếu đến một cuộc rà soát đang diễn ra đối với Lệnh năm 2024, nhưng chưa có mức mới nào được đăng công báo."
+    a: "Chưa. Văn bản đang có hiệu lực vẫn là Minimum Wages Order 2024, P.U.(A) 376, đã hủy bỏ Lệnh năm 2022. Cổng của ban thư ký Hội đồng Tư vấn Lương Quốc gia hiển thị RM1,700 là mức hiện hành và dẫn chiếu đến một cuộc rà soát đang diễn ra đối với Lệnh năm 2024, nhưng chưa có mức mới nào được đăng công báo. Belanjawan 2027 (trình bày ngày 9 tháng 10 năm 2026) công bố mức tăng lên RM2,000 một tháng từ tháng 6 năm 2027, với những người sử dụng lao động có doanh thu hằng năm dưới RM50 triệu được miễn trừ ban đầu — nhưng đó là một công bố đang chờ một Lệnh mới, và không làm thay đổi mức RM1,700 hiện đang có hiệu lực."
   - q: "Lương tối thiểu có còn khác nhau đối với người sử dụng lao động nhỏ không?"
     a: "Không. Đoạn 4 của Lệnh đặt một mức chuyển tiếp RM1,500 cho người sử dụng lao động có ít hơn năm lao động, nhưng chỉ trong thời kỳ từ ngày 1 tháng 2 năm 2025 đến ngày 31 tháng 7 năm 2025. Đoạn 5 thay thế nó bằng RM1,700 từ ngày 1 tháng 8 năm 2025."
   - q: "Lương phải được trả khi nào?"
@@ -35,7 +35,7 @@ faq:
     a: "Có. Theo s.24(8) tổng khấu trừ trong bất kỳ một tháng nào không được vượt quá 50% lương của tháng đó. Mức trần không áp dụng cho khoản bồi thường s.13(1), cho các khấu trừ thanh toán cuối khi chấm dứt, hoặc cho việc trả nợ vay nhà ở, mà với sự cho phép bằng văn bản của Tổng Giám đốc có thể lên thêm 25%."
 
 verificationNeeded:
-  - "Theo dõi gajiminimum.mohr.gov.my về kết quả của cuộc rà soát đã công bố đối với Minimum Wages Order 2024 và bất kỳ Lệnh năm 2026 hoặc 2027 nào"
+  - "Belanjawan 2027 (9 tháng 10 năm 2026) công bố mức tăng lên RM2,000 từ tháng 6 năm 2027 (những người sử dụng lao động có doanh thu hằng năm dưới RM50 triệu được miễn trừ ban đầu) cùng một mức sàn RM2,500 cho người lao động bán lành nghề và người tốt nghiệp đại học — đã công bố, chưa đăng công báo. Xác nhận các con số, ngày có hiệu lực và phạm vi miễn trừ một khi một Minimum Wages Order mới được đăng công báo; theo dõi gajiminimum.mohr.gov.my"
 
 obligations:
   - what: "Trả ít nhất mức lương tối thiểu đã đăng công báo là RM1,700 một tháng"
@@ -59,7 +59,7 @@ obligations:
     consequence: "Là tội danh theo Employment Act 1955"
 
 lang: "vi"
-sourceContentHash: "874dea06578740cb"
+sourceContentHash: "596264086a5277dc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -68,16 +68,24 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Đã thêm công bố Belanjawan 2027 (lương tối thiểu RM1,700 -> RM2,000 từ tháng 6 năm 2027, doanh nghiệp có doanh thu dưới RM50 triệu được miễn trừ ban đầu, mức sàn RM2,500 cho người lao động bán lành nghề và người tốt nghiệp đại học) — đã công bố, đang chờ một Lệnh mới; giữ RM1,700 (MWO 2024) là mức đang có hiệu lực."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
+  - title: "Belanjawan 2027 (Cổng Belanjawan 2027 — Nội dung Bài phát biểu, công bố mức lương tối thiểu RM2,000 từ tháng 6 năm 2027) (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+    date: "2026-10-09"
   - title: "Lệnh Lương Tối thiểu 2024 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
     publisher: "Văn phòng Tổng Chưởng lý / MOHR"
@@ -135,6 +143,8 @@ RM1,700 từ ngày 1 tháng 2 năm 2025 bất kể quân số.
 Chưa có Minimum Wages Order 2026 nào được đăng công báo. Cổng của ban thư ký Hội đồng
 Tư vấn Lương Quốc gia hiển thị RM1,700 là mức đang có hiệu lực và ghi nhận
 các phiên tham vấn về một cuộc rà soát Lệnh năm 2024 được tổ chức trong năm 2026.
+
+**Được công bố trong Belanjawan 2027.** Bài phát biểu Belanjawan 2027 (trình bày ngày 9 tháng 10 năm 2026) công bố rằng mức lương tối thiểu quốc gia sẽ tăng từ RM1,700 lên **RM2,000 một tháng từ tháng 6 năm 2027**, với những người sử dụng lao động có doanh thu hằng năm dưới **RM50 triệu** được miễn trừ ban đầu để có thời gian điều chỉnh. Một mức sàn riêng **RM2,500** một tháng được công bố cho người lao động bán lành nghề và người tốt nghiệp đại học (chưa nêu ngày bắt đầu), và mốc lương đủ sống GLIC/GLC sẽ tăng từ RM3,100 lên RM3,400. Đây là **các công bố, chưa phải là luật** — văn bản đang có hiệu lực vẫn là Minimum Wages Order 2024 ở mức RM1,700 cho đến khi một Lệnh mới được đăng công báo theo National Wages Consultative Council Act 2011. Cho đến lúc đó, RM1,700 vẫn là mức bạn phải trả.
 
 ## Trả đúng hạn: s.19
 

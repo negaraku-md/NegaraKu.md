@@ -24,7 +24,7 @@ appliesTo: "Majikan yang menetapkan kadar gaji, dan pekerja yang menyemak sama a
 
 faq:
   - q: "Adakah Perintah Gaji Minimum 2026 telah digazetkan?"
-    a: "Tidak. Instrumen yang berkuat kuasa masih Perintah Gaji Minimum 2024, P.U.(A) 376, yang memansuhkan Perintah 2022. Portal sekretariat Majlis Perundingan Gaji Negara menunjukkan RM1,700 sebagai kadar semasa dan merujuk kepada semakan yang sedang dijalankan ke atas Perintah 2024, tetapi tiada kadar baharu telah digazetkan."
+    a: "Tidak. Instrumen yang berkuat kuasa masih Perintah Gaji Minimum 2024, P.U.(A) 376, yang memansuhkan Perintah 2022. Portal sekretariat Majlis Perundingan Gaji Negara menunjukkan RM1,700 sebagai kadar semasa dan merujuk kepada semakan yang sedang dijalankan ke atas Perintah 2024, tetapi tiada kadar baharu telah digazetkan. Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) mengumumkan kenaikan kepada RM2,000 sebulan mulai Jun 2027, dengan majikan yang jualan tahunannya di bawah RM50 juta dikecualikan pada mulanya — tetapi itu adalah pengumuman yang masih menunggu suatu Perintah baharu, dan tidak mengubah kadar RM1,700 yang berkuat kuasa sekarang."
   - q: "Adakah gaji minimum masih berbeza untuk majikan kecil?"
     a: "Tidak. Perenggan 4 Perintah tersebut menetapkan kadar peralihan RM1,500 untuk majikan yang mempunyai kurang daripada lima pekerja, tetapi hanya untuk tempoh 1 Februari 2025 hingga 31 Julai 2025. Perenggan 5 menggantikannya dengan RM1,700 mulai 1 Ogos 2025."
   - q: "Bila gaji mesti dibayar?"
@@ -35,7 +35,7 @@ faq:
     a: "Ya. Di bawah s.24(8), jumlah potongan dalam mana-mana satu bulan tidak boleh melebihi 50% daripada gaji bulan itu. Had ini tidak terpakai kepada ganti rugi s.13(1), potongan bayaran akhir semasa penamatan, atau bayaran balik pinjaman perumahan, yang dengan kebenaran bertulis Ketua Pengarah boleh mencapai tambahan 25% lagi."
 
 verificationNeeded:
-  - "Pantau gajiminimum.mohr.gov.my untuk hasil semakan yang diumumkan terhadap Minimum Wages Order 2024 dan sebarang Perintah 2026 atau 2027"
+  - "Belanjawan 2027 (9 Okt 2026) mengumumkan kenaikan kepada RM2,000 mulai Jun 2027 (majikan dengan jualan tahunan di bawah RM50 juta dikecualikan pada mulanya) serta lantai RM2,500 untuk pekerja separuh mahir dan graduan — diumumkan, belum digazetkan. Sahkan angka, tarikh kuat kuasa dan skop pengecualian apabila suatu Perintah Gaji Minimum baharu digazetkan; pantau gajiminimum.mohr.gov.my"
 
 obligations:
   - what: "Pay at least the gazetted minimum wage of RM1,700 a month"
@@ -61,23 +61,31 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "874dea06578740cb"
+sourceContentHash: "596264086a5277dc"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambah pengumuman Belanjawan 2027 (gaji minimum RM1,700 -> RM2,000 mulai Jun 2027, firma dengan jualan di bawah RM50 juta dikecualikan pada mulanya, lantai RM2,500 untuk pekerja separuh mahir dan graduan) — diumumkan, menunggu suatu Perintah baharu; mengekalkan RM1,700 (Perintah Gaji Minimum 2024) sebagai kadar yang berkuat kuasa."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
+  - title: "Belanjawan 2027 (Portal Belanjawan 2027 — Teks Ucapan, mengumumkan gaji minimum RM2,000 mulai Jun 2027) (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
   - title: "Perintah Gaji Minimum 2024 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
     publisher: "Jabatan Peguam Negara / Kementerian Sumber Manusia (MOHR)"
@@ -138,6 +146,18 @@ Tiada Perintah Gaji Minimum 2026 telah digazetkan. Portal sekretariat Majlis
 Perundingan Gaji Negara menunjukkan RM1,700 sebagai kadar yang berkuat kuasa
 dan merekodkan sesi libat urus mengenai semakan Perintah 2024 yang diadakan
 sepanjang tahun 2026.
+
+**Diumumkan dalam Belanjawan 2027.** Ucapan Belanjawan 2027 (dibentangkan pada
+9 Oktober 2026) mengumumkan bahawa gaji minimum nasional akan naik daripada
+RM1,700 kepada **RM2,000 sebulan mulai Jun 2027**, dengan majikan yang jualan
+tahunannya di bawah **RM50 juta** dikecualikan pada mulanya untuk memberi mereka
+masa menyesuaikan diri. Satu lantai bulanan **RM2,500** yang berasingan
+diumumkan untuk pekerja separuh mahir dan graduan (tiada tarikh mula diberikan),
+dan penanda aras gaji sara hidup GLIC/GLC akan naik daripada RM3,100 kepada
+RM3,400. Ini adalah **pengumuman, belum menjadi undang-undang** — instrumen yang
+berkuat kuasa masih Perintah Gaji Minimum 2024 pada RM1,700 sehingga suatu
+Perintah baharu digazetkan di bawah Akta Majlis Perundingan Gaji Negara 2011.
+Sehingga itu, RM1,700 masih merupakan kadar yang mesti anda bayar.
 
 ## Membayarnya tepat pada masa: s.19
 

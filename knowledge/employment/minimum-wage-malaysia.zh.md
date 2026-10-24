@@ -24,7 +24,7 @@ appliesTo: "订定薪酬水平的雇主，以及查核自己的薪酬与扣除�
 
 faq:
   - q: "Minimum Wages Order 2026 颁布了吗？"
-    a: "没有。有效的法律文书仍是 Minimum Wages Order 2024，即 P.U.(A) 376，它废除了 2022 年的命令。全国薪金咨询理事会秘书处的门户网站显示 RM1,700 为现行费率，并提到 2024 年命令的检讨仍在进行，但并无新费率经宪报颁布。"
+    a: "没有。有效的法律文书仍是 Minimum Wages Order 2024，即 P.U.(A) 376，它废除了 2022 年的命令。全国薪金咨询理事会秘书处的门户网站显示 RM1,700 为现行费率，并提到 2024 年命令的检讨仍在进行，但并无新费率经宪报颁布。2027 年财政预算案（于 2026 年 10 月 9 日提呈）宣布，自 2027 年 6 月起上调至每月 RM2,000，年营业额低于 RM50 million 的雇主初期获豁免——但那只是一项有待新命令颁布的宣布，并不改变现行的 RM1,700 费率。"
   - q: "最低薪金对小雇主还有分别吗？"
     a: "没有了。该命令的 paragraph 4 为雇员少于五名的雇主设定了过渡性的 RM1,500 费率，但仅适用于 2025 年 2 月 1 日至 2025 年 7 月 31 日期间。Paragraph 5 自 2025 年 8 月 1 日起以 RM1,700 取而代之。"
   - q: "薪金必须在什么时候支付？"
@@ -35,7 +35,7 @@ faq:
     a: "有。依 s.24(8)，任何一个月内的扣除总额不得超过该月薪金的 50%。该上限不适用于 s.13(1) 的赔偿、终止服务时的最终付款扣除，或房屋贷款还款——后者在取得总监书面许可后可再多扣 25%。"
 
 verificationNeeded:
-  - "关注 gajiminimum.mohr.gov.my，以了解已宣布的 Minimum Wages Order 2024 检讨结果以及任何 2026 或 2027 年的命令。"
+  - "2027 年财政预算案（2026 年 10 月 9 日）宣布自 2027 年 6 月起上调至 RM2,000（年营业额低于 RM50 million 的雇主初期获豁免），并为半技术工人与毕业生设立 RM2,500 下限——已宣布，尚未经宪报颁布。待新的 Minimum Wages Order 经宪报颁布后，确认有关数字、生效日期与豁免范围；关注 gajiminimum.mohr.gov.my"
 
 obligations:
   - what: "至少按经宪报颁布的最低薪金每月 RM1,700 支薪"
@@ -61,7 +61,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "874dea06578740cb"
+sourceContentHash: "596264086a5277dc"
 
 status: "published"
 aiAssisted: true
@@ -69,16 +69,24 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "新增 2027 年财政预算案的宣布（最低薪金自 2027 年 6 月起由 RM1,700 上调至 RM2,000，年营业额低于 RM50 million 的雇主初期获豁免，半技术工人与毕业生另设 RM2,500 下限）——已宣布，有待新命令颁布；RM1,700（MWO 2024）仍为有效费率。"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
+  - title: "2027 年财政预算案 (Belanjawan 2027 (Budget 2027 Portal — Speech Text, announcing the RM2,000 minimum wage from June 2027))"
+    url: "https://belanjawan.mof.gov.my/en"
+    publisher: "马来西亚财政部 (MOF)"
+    date: "2026-10-09"
   - title: "2024年最低薪金令 — P.U.(A) 376 (Perintah Gaji Minimum 2024 — P.U.(A) 376)"
     url: "https://gajiminimum.mohr.gov.my/wp-content/uploads/PUA%20376.pdf"
     publisher: "总检察署 / 人力资源部 (MOHR)"
@@ -130,6 +138,14 @@ Sarawak Labour Ordinance s.2(1) 所定义的家庭佣人。
 
 并无 Minimum Wages Order 2026 经宪报颁布。全国薪金咨询理事会秘书处的门户网站显示
 RM1,700 为有效费率，并记录了 2026 年间就 2024 年命令的检讨所举行的交流会议。
+
+**2027 年财政预算案已宣布。** 2027 年财政预算案演词（于 2026 年 10 月 9 日提呈）宣布，
+全国最低薪金将自 **2027 年 6 月起由每月 RM1,700 上调至 RM2,000**，年营业额低于
+**RM50 million** 的雇主初期获豁免，让他们有时间作出调整。另宣布为半技术工人与毕业生
+设立 **RM2,500** 的每月下限（未订定生效日期），而 GLIC/GLC 的生活薪金基准则将由
+RM3,100 上调至 RM3,400。这些**只是宣布，尚未成为法律**——在依 National Wages
+Consultative Council Act 2011 颁布新命令之前，有效的法律文书仍是把最低薪金定为
+RM1,700 的 Minimum Wages Order 2024。在此之前，RM1,700 仍是你必须支付的费率。
 
 ## 准时支付：s.19
 
