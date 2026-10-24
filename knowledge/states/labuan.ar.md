@@ -163,4 +163,3 @@ Financial Services Authority Act 1996، Act 545)، وهي تعمل منذ 15 ف�
 هيكلاً بهيكل. وللاطلاع على خطّ الأساس الذي تقارن به، انظر [معدلات ضريبة
 الشركات](/taxation/corporate-tax-rates)، وللإقليم الآخر المقتطع من ولاية،
 [كوالالمبور](/states/kuala-lumpur).
-</content>

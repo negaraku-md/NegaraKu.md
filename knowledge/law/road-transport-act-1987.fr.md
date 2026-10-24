@@ -118,5 +118,3 @@ La réforme de 2020 a abaissé les taux d'alcool prescrits aux normes de l'Organ
 ## Et ensuite
 
 Avant de vous fonder sur un numéro d'article exact, une amende ou une sanction d'assurance obligatoire dans une affaire juridique, consultez la réimpression faisant autorité de l'Act 333 de la Chambre du Procureur général (AGC/LOM) et le portail officiel de la JPJ pour connaître les catégories de permis et les règles d'application en vigueur.
-</content>
-</invoke>

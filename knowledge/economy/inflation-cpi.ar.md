@@ -138,5 +138,3 @@ keywords: ["معدل التضخم في ماليزيا", "مؤشر أسعار ا�
   [صفحة مؤشر أسعار المستهلك لدائرة الإحصاء الماليزية (DOSM)](https://www.dosm.gov.my/portal-main/release-content/consumer-price-index-sep2026)
   أو السلسلة القابلة للقراءة آليًا على
   [OpenDOSM](https://open.dosm.gov.my/publications/cpi_2026-04).
-</content>
-</invoke>

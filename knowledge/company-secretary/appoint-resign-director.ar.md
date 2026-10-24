@@ -296,6 +296,5 @@ Sdn Bhd للخارج بصفة دائمة، لم يعد للشركة مدير م�
 [واجبات المديرين](/company-secretary/directors-duties) وتزويده بـ
 [إشعار المساهمة بموجب المادة 219](/company-secretary/director-shareholding-notification)
 ليستوفيه خلال أربعة عشر يوماً الأولى.
-</content>
 
 هل أسّست شركتك للتو؟ اطّلع على [تقويم الامتثال للسنة الأولى لشركتك Sdn Bhd](/ar/business/sdn-bhd-first-year-compliance/).

@@ -173,4 +173,3 @@ La fiche des AGC Laws of Malaysia pour l'Act 747 énumère la Loi principale de 
 Cette page fixe ce qu'*est* la SOSMA et les mesures spéciales qu'elle *contient*. Les mécanismes individuels — détention d'enquête, interception, témoins protégés et les règles spéciales de preuve — se situent chacun face à la procédure pénale ordinaire du [Code pénal](/fr/law/penal-code) et aux garanties de la [Constitution fédérale](/fr/law/federal-constitution), et peuvent être retracés plus en détail à partir de là.
 
 Pour toute disposition précise, commencez par la Première annexe : si l'infraction n'y est pas énumérée, aucune des mesures spéciales de l'Act 747 ne s'y applique.
-</content>

@@ -371,5 +371,3 @@ sites et les chiffres d'abonnés les plus récents, consultez directement les
 déclarations de la MCMC et du ministère des Communications. Pour un regard plus
 approfondi sur les opérateurs de détail et sur la façon dont la fusion a remodelé le
 marché, voir le guide complémentaire sur les opérateurs et la 5G de la Malaisie.
-</content>
-</invoke>

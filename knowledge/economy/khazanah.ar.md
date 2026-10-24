@@ -219,4 +219,3 @@ keywords: ["خزانة ناسيونال", "Khazanah Nasional", "صندوق ال�
 - ما هي شركة GLC، وكيف تختلف عن شركة GLIC: [GLC](/glossary/glc)
 - البنك المركزي الماليزي، وهو هيئة قانونية منفصلة كليًّا:
   [بنك نيغارا ماليزيا](/economy/bank-negara-malaysia)
-</content>

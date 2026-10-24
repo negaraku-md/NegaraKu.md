@@ -154,4 +154,3 @@ La section 17A, introduite par l'amendement de 2018 et en vigueur depuis le 1er 
 - Lisez la Loi elle-même dans la réimpression du Commissaire à la révision des lois liée dans les sources — la numérotation des sections utilisée ci-dessus correspond à ce texte.
 - Pour le contexte constitutionnel des nominations par le Yang di-Pertuan Agong sur l'avis du Premier ministre, voir la [Constitution fédérale](/fr/law/federal-constitution).
 - Pour le volet parlementaire de la chaîne de responsabilité, voir le [Parlement](/fr/government/parliament).
-</content>

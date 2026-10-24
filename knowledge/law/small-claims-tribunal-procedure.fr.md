@@ -260,4 +260,3 @@ Avant de déposer, rassemblez tous les documents qui étayent votre créance et 
 Si le montant dépasse RM5,000, ou si le litige implique des questions complexes, sollicitez l'avis d'un avocat sur la voie de l'action civile ordinaire. Pour les litiges de consommation, vérifiez d'abord si le Tribunal des réclamations du consommateur de Malaisie offre une voie moins chère et plus rapide.
 
 Note : ce guide est une information générale et non un conseil juridique. Les frais et les formulaires peuvent changer — vérifiez les chiffres actuels auprès du Greffe du tribunal ou du portail officiel des Tribunaux de Malaisie avant de déposer.
-</content>

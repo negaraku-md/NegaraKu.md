@@ -253,4 +253,3 @@ Si vous pensez que votre entreprise a peut-être franchi un seuil, l'étape prat
 Comme l'extension de 2025 est encore en train de se stabiliser, attendez-vous à d'autres clarifications du RMCD et à des arrêtés de réforme. Traitez les taux et les seuils présentés ici comme la position en vigueur, mais vérifiez tout chiffre précis au regard du guide MySST le plus récent avant de vous y fier pour la tarification, les contrats ou les déclarations, et consultez un agent fiscal agréé pour les cas limites, comme les fournitures mixtes, les services numériques transfrontaliers ou l'allègement intragroupe.
 
 Pour les obligations connexes, consultez nos guides sur la **Loi sur l'impôt sur le revenu de 1967** et la **Loi sur les sociétés de 2016**, qui, avec la SST, constituent le socle de conformité de la plupart des entreprises malaisiennes.
-</content>

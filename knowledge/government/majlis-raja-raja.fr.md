@@ -203,4 +203,3 @@ Pour comprendre où se situe la Conférence des Souverains dans le cadre constit
 Son contexte historique, à son tour, repose sur deux événements : [Merdeka 1957](/fr/malaysia/independence-1957), lorsque la Constitution est entrée en vigueur, et la [Formation de la Malaisie 1963](/fr/malaysia/formation-of-malaysia-1963), lorsque le cadre de composition a été étendu aux États qui n'ont pas de Souverain, y compris le [Sarawak](/fr/states/sarawak).
 
 Le texte intégral de l'Article 38, de la Troisième Annexe et de la Cinquième Annexe peut être consulté dans la réimpression officielle de la Constitution fédérale sur le portail de la Chambre du Procureur général, et un exposé officiel du rôle de la Conférence est publié par le Bureau du Gardien du Sceau des Souverains.
-</content>

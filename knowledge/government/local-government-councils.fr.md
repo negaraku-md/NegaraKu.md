@@ -189,5 +189,3 @@ Pour voir où se situent les PBT dans la structure plus large du gouvernement, c
 Pour l'organe législatif au niveau de l'État qui réglemente les textes relatifs au gouvernement local, voir l'[Assemblée législative de l'État](/government/state-assemblies-dun). Pour l'organe qui conduit les élections fédérales et des États — et le contexte de la discussion sur les élections locales — voir la [Commission électorale](/government/spr-election-commission).
 
 Le texte intégral de la Local Government Act 1976 (Act 171) peut être consulté via le portail officiel de la législation, tandis que les définitions, les catégories et les statistiques des PBT sont publiées par le Département du Gouvernement local (JKT) relevant du Ministère du Logement et du Gouvernement local (KPKT).
-</content>
-</invoke>

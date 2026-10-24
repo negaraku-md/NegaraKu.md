@@ -127,4 +127,3 @@ L'Act 333 a été réformée à de nombreuses reprises depuis 1988 — la fiche 
 ## Et ensuite
 
 Cette page fixe l'identité et la structure de l'Act 333. Le lieu où une affaire de circulation finit par être jugée — et jusqu'où elle peut aller en appel — relève de la [hiérarchie des tribunaux](/fr/law/court-hierarchy) ; lorsqu'un incident routier entraîne aussi une inculpation pénale générale, comme le fait de causer la mort ou des blessures par un acte négligent, les dispositions pertinentes se trouvent dans le [Code pénal](/fr/law/penal-code). La manière dont les véhicules d'une entreprise sont traités aux fins de l'amortissement fiscal — une question distincte de l'immatriculation en vertu de l'Act 333 — est abordée dans [les véhicules à moteur et la restriction de la déduction pour capital](/fr/taxation/motor-vehicle-capital-allowance).
-</content>

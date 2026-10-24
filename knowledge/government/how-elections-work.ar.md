@@ -215,6 +215,5 @@ keywords: ["الانتخابات الماليزية", "pilihan raya Malaysia", "
 لفهم المجلس الذي يُملأ بهذا الانتخاب وكيف تتحول المقاعد إلى قانون، اقرأ [مجلس النواب](/government/dewan-rakyat) و[البرلمان الماليزي](/government/parliament). ودور يانغ دي-بِرتوان أݢونغ في حل البرلمان وتعيين لجنة الانتخابات موصوف في [يانغ دي-بِرتوان أݢونغ](/government/yang-di-pertuan-agong) و[مجلس الحكام](/government/majlis-raja-raja). وللوثيقة البنيوية التي تضع جميع الأحكام الواردة أعلاه، اقرأ [الدستور الاتحادي](/law/federal-constitution).
 
 وللتحقق من أي حكم في هذه الصفحة، ارجع إلى نص الجزء VIII من الدستور الاتحادي المنشور من قِبل لجنة الانتخابات على [spr.gov.my](https://spr.gov.my/wp-content/uploads/2024/10/perkara-113-penjalanan-pilihanraya.pdf) والنص الكامل للدستور على [lom.agc.gov.my](https://lom.agc.gov.my/federal-constitution.php).
-</content>
 
 تريد معرفة كيف تُحكم ماليزيا؟ اطّلع على [مستويات الحكم الثلاثة في ماليزيا](/ar/government/three-tiers-of-government/).

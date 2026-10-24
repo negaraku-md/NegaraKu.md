@@ -151,4 +151,3 @@ Autrement dit, la souveraineté de l'État appartient à chaque Souverain indivi
 ## Et ensuite
 
 Ce brouillon explique la position des Souverains des États en termes généraux. Pour comprendre avec précision les règles de succession d'un État particulier, consultez la constitution de cet État (Undang-Undang Tubuh), car les détails diffèrent d'un État à l'autre. Les articles connexes exposent la fonction du Yang di-Pertuan Agong tournant et la Conférence des Souverains en tant qu'organe collectif. Ce brouillon a été préparé avec l'assistance de l'IA et est encore en attente de révision humaine avant sa publication.
-</content>

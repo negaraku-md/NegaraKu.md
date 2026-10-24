@@ -286,7 +286,5 @@ keywords: ["الجمعية العمومية السنوية ماليزيا", "AGM
 `financial-statements-lodgement`. وللتمديدات، انظر `extension-of-time-ssm`.
 ولمدد الإشعار في جدول واحد، انظر `resolution-notice-periods`. وللأعضاء الذين
 يريدون اجتماعاً يرفض المجلس الدعوة إليه، انظر `egm-requisition`.
-</content>
-</invoke>
 
 هل أسّست شركتك للتو؟ اطّلع على [تقويم الامتثال للسنة الأولى لشركتك Sdn Bhd](/ar/business/sdn-bhd-first-year-compliance/).

@@ -186,4 +186,3 @@ Quiconque cite l'article 3 ou les sanctions de l'article 4 devrait confirmer que
 Cette page fixe le texte de l'Act 15 : sa définition, ses infractions et son mécanisme. La manière dont la Loi se situe face à la garantie de liberté d'expression de l'[Article 10 et des libertés fondamentales](/fr/law/fundamental-liberties), et la manière dont la sédition se rapporte aux infractions contre l'État du [Code pénal](/fr/law/penal-code), sont des questions distinctes qui seront reliées à partir d'ici à mesure qu'elles seront rédigées.
 
 Pour toute question d'actualité, consultez la version en vigueur de l'Act 15 sur le portail Laws of Malaysia de l'AGC plutôt qu'une copie mise en cache ou un résumé de tiers.
-</content>

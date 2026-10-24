@@ -227,4 +227,3 @@ keywords: ["الحكومة المحلية في ماليزيا", "local governmen
 الاتحادي](/law/federal-constitution)، حيث تقع قائمة الولايات والمادة 95A. ولمعرفة كيف
 يدير الإقليمان الاتحاديان إدارتهما المحلية خارج هذا النظام، انظر
 [كوالالمبور](/states/kuala-lumpur) و[بوتراجايا](/states/putrajaya).
-</content>
