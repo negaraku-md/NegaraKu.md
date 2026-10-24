@@ -39,6 +39,7 @@ faq:
 
 verificationNeeded:
   - "Confirm whether directors fees paid to a non-executive director outside a contract of service are wages for EPF purposes; EPF confirms salaried directors contribute but does not address fees directly"
+  - "The YA2027 SME (14%/16%) and individual-scale changes are Budget 2027 announcements (MOF tax-measures Appendices 1 and 11), not yet enacted — confirm the final rates once the Finance Act 2027 is gazetted, and re-run the worked crossover"
 
 lang: "en"
 masterLanguage: "en"
@@ -49,19 +50,27 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Added a YA2027 note reflecting Budget 2027 (SME tiers to 14%/16%, restructured individual scale with the 30% top rate from RM1m) — announced, pending the Finance Bill; kept the worked YA2025/2026 examples as current."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "LHDN"
     date: "2024-05-21"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
   - title: "Tax Rate — Resident Individual (table captioned Year of Assessment 2023, 2024 & 2025; unchanged for YA2026 per Budget 2026)"
     url: "https://www.hasil.gov.my/en/individu/kadar-cukai/"
     publisher: "LHDN"
@@ -276,6 +285,30 @@ where the business is treated as continuous.
   is small or negative, and the secretarial, accounting and audit bill is not.
 - **Assuming a partnership behaves like an LLP.** One is transparent and taxed on
   the partners; the other is an entity taxed on the corporate tiers.
+
+## Announced for YA2027 (Budget 2027)
+
+Budget 2027 (tabled 9 October 2026) announced changes to **both sides** of this
+comparison, effective from the **year of assessment 2027**. These are
+**announcements, not yet law** — they take effect only once the Finance Bill 2027
+is passed, so the worked examples above, which use the YA2025/2026 rates, are
+unchanged for those years.
+
+- **The SME company tiers fall.** The paragraph 2A preferential rates drop to
+  **14% on the first RM150,000** (from 15%) and **16% on the next RM450,000** (from
+  17%); the 24% rate above RM600,000 is unchanged.
+- **The individual scale is restructured.** The RM70,001–RM100,000 band falls from
+  19% to **18%**, a new **24% band** is carved out at RM100,001–RM150,000 (the
+  RM150,001–RM400,000 range stays at 25%), and the top **30%** rate now begins
+  **above RM1,000,000** (down from RM2,000,000). See the personal income tax rates
+  article for the full YA2027 table.
+
+Both moves widen the company's advantage slightly at SME profit levels and pull the
+crossover a little lower, but not by enough to reorder the examples above. Re-run
+the arithmetic with the YA2027 figures once the Finance Bill is passed.
+
+Announced source: Budget 2027 Touchpoints, Tax Measures (Ministry of Finance),
+Appendix 1 (individual scale) and Appendix 11 (SME rates).
 
 ## What's next
 

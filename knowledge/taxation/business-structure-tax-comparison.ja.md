@@ -39,25 +39,30 @@ faq:
 
 verificationNeeded:
   - "役務契約（contract of service）によらずに非執行取締役へ支払われる取締役報酬（フィー）が、EPF上の賃金に当たるかどうかを確認すること；EPFは給与を受ける取締役の拠出義務を確認しているが、報酬（フィー）については直接扱っていない"
+  - "YA2027のSME（14%/16%）及び個人税率表の変更は2027年度予算の発表（財務省税務措置のAppendix 1及びAppendix 11）であり、まだ法制化されていない——2027年財政法（Finance Act 2027）が官報告示された時点で最終税率を確認し、実算した交差点を計算し直すこと"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "2027年度予算を反映したYA2027の注記を追加（SME段階を14%/16%へ、最高30%税率をRM100万超からとする個人税率表の再編）——発表であり財政法案待ち；実算したYA2025/2026の例は現行のまま維持。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53)、2024年5月21日現在の再版 — 第39条、附則1第I編第1, 2, 2A, 2B, 2C・2D項 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -82,6 +87,10 @@ sources:
   - title: "雇用主の強制拠出 (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "従業員積立基金 (EPF)"
+  - title: "2027年度予算タッチポイント — 税務措置、Appendix 1（個人の税率表）及びAppendix 11（SME税率） (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "マレーシア財務省 (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -277,6 +286,17 @@ paragraph 6.6.3は、s.107C(4A)が会社のみを対象とし、新たに登録�
 - **パートナーシップがLLPと同じように振る舞うと思い込むこと。** 一方は
   透明体であり組合員の側で課税されるが、他方は実体であり会社の段階税率
   で課税される。
+
+## YA2027（2027年度予算）で発表された内容
+
+2027年度予算（2026年10月9日提出）は、この比較の**双方**に賦課年度2027からの変更を発表した。これらは**発表であって、まだ法ではない**——2027年財政法案（Finance Bill 2027）が可決されて初めて効力を生じるため、YA2025/2026の税率を用いた上記の実算例は、それらの年については変わらない。
+
+- **SME会社の税率段階が下がる。** paragraph 2Aの優遇税率は、最初のRM150,000に対して15%から**14%**へ、続くRM450,000に対して17%から**16%**へと引き下げられる；RM600,000超の24%税率は変わらない。
+- **個人の税率表が再編される。** RM70,001〜RM100,000の帯は19%から**18%**へ下がり、RM100,001〜RM150,000に新たな**24%の帯**が設けられ（RM150,001〜RM400,000の範囲は25%のまま）、最高**30%**税率は**RM1,000,000超**から適用されるようになる（RM2,000,000超からの引き下げ）。YA2027の完全な税率表については個人所得税率の記事を参照のこと。
+
+この二つの動きはいずれも、SME水準の利益において会社の優位をわずかに広げ、交差点をいくらか下へ引き下げるが、上記の例の順序を入れ替えるほどではない。財政法案が可決されたら、YA2027の数値で計算をやり直すこと。
+
+発表出典：2027年度予算タッチポイント、税務措置（財務省）、Appendix 1（個人の税率表）及びAppendix 11（SME税率）。
 
 ## 次のステップ
 

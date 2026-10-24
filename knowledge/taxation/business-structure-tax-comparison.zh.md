@@ -39,11 +39,12 @@ faq:
 
 verificationNeeded:
   - "确认在服务合约之外付予非执行董事的董事袍金，就 EPF 而言是否属工资；EPF 确认支薪董事须缴纳，但未直接处理袍金"
+  - "YA2027 的 SME（14%/16%）与个人税阶调整属 2027 年财政预算案公布事项（财政部税务措施 Appendix 1 与 Appendix 11），尚未立法——待 2027 年财政法令（Finance Act 2027）刊宪后确认最终税率，并重跑实算交叉点"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 
 status: "published"
 aiAssisted: true
@@ -51,14 +52,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "新增 YA2027 说明，反映 2027 年财政预算案（SME 各级税率降至 14%/16%，个人税阶重新划分、30% 最高税率自 RM1m 起）——属公布事项，尚待财政法案通过；保留 YA2025/2026 的实算例子作为现行依据。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53)，2024年5月21日重印本——第39条、附表1第I部分第1、2、2A、2B、2C及2D段 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -83,6 +88,10 @@ sources:
   - title: "雇主强制缴费 (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "雇员公积金 (EPF)"
+  - title: "2027年财政预算案要点——税务措施，附录1（个人税阶）与附录11（SME税率） (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "财政部 (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -202,6 +211,17 @@ LLP 依 paragraph 2D 取得公司式的分级税率，测试的是资本出资�
 - **以为在马来西亚注册的公司自动享有 SME 税率。** 居民身份、实缴资本、商业总收入、50% 关联公司测试与 20% 外资持股测试，全部都得成立。
 - **忽视合规成本。** 在盈利大约 RM200,000 以下，省下的税很小甚至是负数，而秘书、会计与审计的账单可不小。
 - **以为合伙的行为跟 LLP 一样。** 一个是透明体、在合伙人身上课税；另一个是实体、按公司分级税率课税。
+
+## 已就 YA2027 公布的调整（Budget 2027）
+
+2027年财政预算案（于 2026 年 10 月 9 日提呈）宣布对本比较的**两端**都作出调整，自 **2027 课税年**起生效。这些都是**公布事项，尚未成为法律**——须待 2027 年财政法案（Finance Bill 2027）通过后方才生效，因此上文采用 YA2025/2026 税率的实算例子，就那些年份而言维持不变。
+
+- **SME 公司各级税率下调。** paragraph 2A 的优惠税率，首 RM150,000 由 15% 降至 **14%**，接下来的 RM450,000 由 17% 降至 **16%**；超过 RM600,000 的 24% 税率维持不变。
+- **个人税阶重新划分。** RM70,001–RM100,000 这一级由 19% 降至 **18%**，在 RM100,001–RM150,000 另辟一个新的 **24% 级距**（RM150,001–RM400,000 区间维持 25%），而最高的 **30%** 税率现在自 **超过 RM1,000,000** 起适用（由 RM2,000,000 下调）。完整的 YA2027 税阶表见个人所得税税率一文。
+
+这两项调整在 SME 盈利水平上略微扩大了公司的优势，并把交叉点稍稍往下拉，但幅度不足以改变上文例子的排序。待 2027 年财政法案通过后，再以 YA2027 的数字重跑一遍算式。
+
+公布来源：Budget 2027 Touchpoints, Tax Measures（财政部），Appendix 1（个人税阶）与 Appendix 11（SME 税率）。
 
 ## 下一步
 

@@ -39,9 +39,10 @@ faq:
 
 verificationNeeded:
   - "Confirm whether directors fees paid to a non-executive director outside a contract of service are wages for EPF purposes; EPF confirms salaried directors contribute but does not address fees directly"
+  - "Les changements de YA2027 pour les PME (14 %/16 %) et le barème individuel sont des annonces du Budget 2027 (annexes 1 et 11 des mesures fiscales du ministère des Finances), non encore adoptées — confirmer les taux définitifs une fois la loi de finances 2027 publiée au journal officiel, et refaire le calcul du point de bascule résolu"
 
 lang: "fr"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +51,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ajout d'une note YA2027 reflétant le Budget 2027 (tranches des PME à 14 %/16 %, barème individuel restructuré avec le taux supérieur de 30 % à partir de RM1m) — annoncé, en attente du projet de loi de finances ; les exemples résolus de YA2025/2026 sont conservés comme actuels."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Loi relative à l'impôt sur le revenu de 1967 (loi 53), réimpression au 21 mai 2024 — article 39, annexe 1 partie I alinéas 1, 2, 2A, 2B, 2C et 2D (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -82,6 +87,10 @@ sources:
   - title: "Cotisation obligatoire de l'employeur (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "Fonds de prévoyance des employés (EPF)"
+  - title: "Points de contact du Budget 2027 — Mesures fiscales, Appendix 1 (barème individuel) et Appendix 11 (taux des PME) (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances de Malaisie (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -296,6 +305,33 @@ même lorsque l'activité est traitée comme continue.
 - **Supposer qu'une société de personnes se comporte comme une LLP.** L'une est
   transparente et imposée chez les associés ; l'autre est une entité imposée sur
   les tranches corporatives.
+
+## Annoncé pour YA2027 (Budget 2027)
+
+Le Budget 2027 (déposé le 9 octobre 2026) a annoncé des changements des **deux
+côtés** de cette comparaison, à effet à partir de l'**année d'évaluation 2027**. Ce
+sont des **annonces, pas encore la loi** — elles ne prennent effet qu'une fois le
+projet de loi de finances 2027 adopté, de sorte que les exemples résolus ci-dessus,
+qui utilisent les taux de YA2025/2026, restent inchangés pour ces années.
+
+- **Les tranches des sociétés PME baissent.** Les taux préférentiels de l'alinéa 2A
+  tombent à **14 % sur les premiers RM150,000** (contre 15 %) et à **16 % sur les
+  RM450,000 suivants** (contre 17 %) ; le taux de 24 % au-delà de RM600,000 est
+  inchangé.
+- **Le barème individuel est restructuré.** La tranche de RM70,001 à RM100,000 passe
+  de 19 % à **18 %**, une nouvelle **tranche de 24 %** est créée de RM100,001 à
+  RM150,000 (la fourchette de RM150,001 à RM400,000 reste à 25 %), et le taux
+  supérieur de **30 %** commence désormais **au-delà de RM1,000,000** (contre
+  RM2,000,000). Voir l'article sur les taux de l'impôt sur le revenu des personnes
+  physiques pour le tableau complet de YA2027.
+
+Les deux mesures élargissent légèrement l'avantage de la société aux niveaux de
+bénéfice des PME et abaissent un peu le point de bascule, mais pas assez pour
+réordonner les exemples ci-dessus. Refaites l'arithmétique avec les chiffres de
+YA2027 une fois le projet de loi de finances adopté.
+
+Source annoncée : Budget 2027 Touchpoints, Tax Measures (ministère des Finances),
+Appendix 1 (barème individuel) et Appendix 11 (taux des PME).
 
 ## Et ensuite
 

@@ -39,9 +39,10 @@ faq:
 
 verificationNeeded:
   - "Confirm whether directors fees paid to a non-executive director outside a contract of service are wages for EPF purposes; EPF confirms salaried directors contribute but does not address fees directly"
+  - "Los cambios de YA2027 de PYME (14%/16%) y de la escala individual son anuncios del Budget 2027 (Appendices 1 y 11 de las medidas fiscales del MOF), todavía no promulgados — confirme los tipos finales una vez que se publique en el boletín la Finance Act 2027, y vuelva a calcular el cruce resuelto"
 
 lang: "es"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +51,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Se añadió una nota de YA2027 que refleja el Budget 2027 (tramos de PYME al 14%/16%, escala individual reestructurada con el tipo máximo del 30% a partir de RM1m) — anunciado, pendiente de la Finance Bill; se mantuvieron los ejemplos resueltos de YA2025/2026 como vigentes."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Ley del Impuesto sobre la Renta de 1967 (Ley 53), reimpresión a 21 de mayo de 2024 — sección 39, Anexo 1 Parte I párrafos 1, 2, 2A, 2B, 2C y 2D (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -82,6 +87,10 @@ sources:
   - title: "Cotización obligatoria del empleador (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "Fondo de Previsión de los Empleados (EPF)"
+  - title: "Medidas Fiscales del Presupuesto 2027 (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministerio de Finanzas de Malasia (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -295,6 +304,33 @@ negocio se trate como continuo.
 - **Suponer que una sociedad se comporta como una LLP.** Una es transparente y
   tributa en los socios; la otra es una entidad que tributa en los tramos
   corporativos.
+
+## Anunciado para YA2027 (Budget 2027)
+
+El Budget 2027 (presentado el 9 de octubre de 2026) anunció cambios en **ambos
+lados** de esta comparación, con efecto a partir del **año de evaluación 2027**.
+Son **anuncios, todavía no ley** — solo surten efecto una vez que se apruebe la
+Finance Bill 2027, por lo que los ejemplos resueltos anteriores, que usan los tipos
+de YA2025/2026, no cambian para esos años.
+
+- **Los tramos de la empresa PYME bajan.** Los tipos preferentes del párrafo 2A
+  bajan al **14% sobre los primeros RM150,000** (desde el 15%) y al **16% sobre los
+  siguientes RM450,000** (desde el 17%); el tipo del 24% por encima de RM600,000 no
+  cambia.
+- **La escala individual se reestructura.** El tramo de RM70,001–RM100,000 baja del
+  19% al **18%**, se crea un nuevo **tramo del 24%** en RM100,001–RM150,000 (el
+  intervalo RM150,001–RM400,000 se mantiene en el 25%), y el tipo máximo del **30%**
+  ahora empieza **por encima de RM1,000,000** (desde RM2,000,000). Consulte el
+  artículo sobre los tipos del impuesto sobre la renta de las personas físicas para
+  la tabla completa de YA2027.
+
+Ambos movimientos amplían ligeramente la ventaja de la empresa a niveles de
+beneficio de PYME y bajan un poco el punto de cruce, pero no lo suficiente para
+reordenar los ejemplos anteriores. Vuelva a hacer la aritmética con las cifras de
+YA2027 una vez que se apruebe la Finance Bill.
+
+Fuente anunciada: Budget 2027 Touchpoints, Tax Measures (Ministerio de Finanzas),
+Appendix 1 (escala individual) y Appendix 11 (tipos de PYME).
 
 ## Qué sigue
 

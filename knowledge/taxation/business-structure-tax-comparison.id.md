@@ -39,9 +39,10 @@ faq:
 
 verificationNeeded:
   - "Pastikan apakah honorarium direktur yang dibayarkan kepada direktur non-eksekutif di luar kontrak kerja merupakan upah untuk tujuan EPF; EPF menegaskan direktur bergaji membayar iuran tetapi tidak membahas honorarium secara langsung"
+  - "Perubahan UKM YA2027 (14%/16%) dan perubahan skala individu merupakan pengumuman Budget 2027 (Lampiran 1 dan 11 tax-measures MOF), belum diundangkan — pastikan tarif final setelah Finance Act 2027 diwartakan, dan jalankan ulang perhitungan titik silang"
 
 lang: "id"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +51,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambahkan catatan YA2027 yang mencerminkan Budget 2027 (tingkat UKM menjadi 14%/16%, skala individu ditata ulang dengan tarif tertinggi 30% mulai RM1 juta) — diumumkan, menunggu Finance Bill; mempertahankan contoh perhitungan YA2025/2026 sebagai yang berlaku."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetak ulang per 21 Mei 2024 — Pasal 39, Jadwal 1 Bagian I paragraf 1, 2, 2A, 2B, 2C, dan 2D (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -82,6 +87,10 @@ sources:
   - title: "Iuran Wajib Pemberi Kerja (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "Dana Simpanan Pekerja (EPF)"
+  - title: "Langkah-Langkah Pajak Anggaran 2027 (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -295,6 +304,32 @@ dianggap berlanjut.
 - **Menganggap persekutuan bekerja seperti LLP.** Yang satu bersifat transparan
   dan dikenai pajak atas sekutu; yang lain adalah entitas yang dikenai pajak
   menurut tangga korporat.
+
+## Diumumkan untuk YA2027 (Budget 2027)
+
+Budget 2027 (dibentangkan pada 9 October 2026) mengumumkan perubahan pada
+**kedua sisi** perbandingan ini, berlaku mulai **tahun taksiran 2027**. Ini
+merupakan **pengumuman, belum menjadi undang-undang** — semuanya baru berlaku
+setelah Finance Bill 2027 disahkan, sehingga contoh perhitungan di atas, yang
+memakai tarif YA2025/2026, tidak berubah untuk tahun-tahun tersebut.
+
+- **Tingkat tarif perusahaan UKM turun.** Tarif preferensial paragraf 2A turun
+  menjadi **14% untuk RM150,000 pertama** (dari 15%) dan **16% untuk RM450,000
+  berikutnya** (dari 17%); tarif 24% untuk jumlah melebihi RM600,000 tidak
+  berubah.
+- **Skala individu ditata ulang.** Lapisan RM70,001–RM100,000 turun dari 19%
+  menjadi **18%**, lapisan **24%** baru dipisahkan pada RM100,001–RM150,000
+  (rentang RM150,001–RM400,000 tetap 25%), dan tarif tertinggi **30%** kini
+  dimulai **di atas RM1,000,000** (turun dari RM2,000,000). Lihat artikel tarif
+  pajak pendapatan pribadi untuk tabel YA2027 lengkap.
+
+Kedua langkah ini sedikit memperlebar keunggulan perusahaan pada tingkat
+keuntungan UKM dan menarik titik silang sedikit lebih rendah, tetapi tidak cukup
+untuk mengubah urutan contoh di atas. Jalankan ulang perhitungannya dengan angka
+YA2027 setelah Finance Bill disahkan.
+
+Sumber pengumuman: Budget 2027 Touchpoints, Tax Measures (Kementerian Keuangan),
+Appendix 1 (skala individu) dan Appendix 11 (tarif UKM).
 
 ## Langkah selanjutnya
 

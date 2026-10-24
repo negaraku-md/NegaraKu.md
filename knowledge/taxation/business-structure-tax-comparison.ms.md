@@ -39,25 +39,30 @@ faq:
 
 verificationNeeded:
   - "Sahkan sama ada yuran pengarah yang dibayar kepada pengarah bukan eksekutif di luar kontrak perkhidmatan merupakan upah bagi tujuan EPF; EPF mengesahkan pengarah bergaji mencarum tetapi tidak menangani yuran secara langsung"
+  - "Perubahan PKS YA2027 (14%/16%) dan skala individu adalah pengumuman Belanjawan 2027 (Lampiran 1 dan 11 langkah-langkah percukaian MOF), belum digubal — sahkan kadar muktamad setelah Akta Kewangan 2027 diwartakan, dan kira semula titik silang yang ditunjukkan"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambah nota YA2027 yang mencerminkan Belanjawan 2027 (tangga PKS kepada 14%/16%, skala individu disusun semula dengan kadar tertinggi 30% mulai RM1 juta) — diumumkan, menunggu Rang Undang-Undang Kewangan; mengekalkan contoh pengiraan YA2025/2026 sebagai semasa."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 — seksyen 39, Jadual 1 Bahagian I perenggan 1, 2, 2A, 2B, 2C dan 2D (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -82,6 +87,10 @@ sources:
   - title: "Caruman Wajib Majikan (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "Kumpulan Wang Simpanan Pekerja (EPF)"
+  - title: "Langkah-Langkah Percukaian Belanjawan 2027, Lampiran 1 (skala individu) dan Lampiran 11 (kadar PKS) (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -295,6 +304,34 @@ walaupun perniagaan itu dianggap berterusan.
 - **Menganggap perkongsian berfungsi seperti LLP.** Satu bersifat telus dan
   dikenakan cukai ke atas rakan kongsi; yang satu lagi adalah entiti yang
   dikenakan cukai mengikut tangga korporat.
+
+## Diumumkan untuk YA2027 (Belanjawan 2027)
+
+Belanjawan 2027 (dibentangkan 9 Oktober 2026) mengumumkan perubahan kepada
+**kedua-dua belah** perbandingan ini, berkuat kuasa mulai **tahun taksiran
+2027**. Ini adalah **pengumuman, belum menjadi undang-undang** — ia hanya
+berkuat kuasa setelah Rang Undang-Undang Kewangan 2027 diluluskan, jadi contoh
+pengiraan di atas, yang menggunakan kadar YA2025/2026, kekal tidak berubah bagi
+tahun-tahun tersebut.
+
+- **Tangga PKS syarikat diturunkan.** Kadar keistimewaan perenggan 2A turun
+  kepada **14% bagi RM150,000 pertama** (daripada 15%) dan **16% bagi RM450,000
+  seterusnya** (daripada 17%); kadar 24% bagi jumlah melebihi RM600,000 kekal
+  tidak berubah.
+- **Skala individu disusun semula.** Jenjang RM70,001–RM100,000 turun daripada
+  19% kepada **18%**, satu **jenjang 24%** baharu diwujudkan pada
+  RM100,001–RM150,000 (julat RM150,001–RM400,000 kekal pada 25%), dan kadar
+  tertinggi **30%** kini bermula **melebihi RM1,000,000** (turun daripada
+  RM2,000,000). Lihat artikel kadar cukai pendapatan individu untuk jadual
+  YA2027 yang penuh.
+
+Kedua-dua langkah ini melebarkan sedikit kelebihan syarikat pada tahap
+keuntungan PKS dan menarik titik silang sedikit lebih rendah, tetapi tidak cukup
+untuk menyusun semula contoh-contoh di atas. Kira semula aritmetiknya dengan
+angka YA2027 setelah Rang Undang-Undang Kewangan diluluskan.
+
+Sumber yang diumumkan: Belanjawan 2027 Touchpoints, Langkah-Langkah Percukaian
+(Kementerian Kewangan), Lampiran 1 (skala individu) dan Lampiran 11 (kadar PKS).
 
 ## Langkah seterusnya
 

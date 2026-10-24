@@ -39,9 +39,10 @@ faq:
 
 verificationNeeded:
   - "고용계약 밖에서 비상임이사에게 지급되는 이사 보수가 EPF 목적상 임금에 해당하는지 확인하십시오. EPF는 급여를 받는 이사가 기여한다는 점은 확인하지만 보수에 대해서는 직접 다루지 않습니다"
+  - "YA2027 SME(14%/16%) 및 개인 세율표 변경은 아직 법제화되지 않은 Budget 2027 발표 사항(재무부 세제 조치 부록 1 및 부록 11)입니다. 2027년 재정법(Finance Act 2027)이 관보에 게재되면 최종 세율을 확인하고 실례 교차점 계산을 다시 실행하십시오"
 
 lang: "ko"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +51,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Budget 2027(SME 구간 14%/16%, 30% 최고세율이 RM100만 초과분부터 적용되도록 재조정된 개인 세율표)을 반영한 YA2027 주석 추가 — 발표 사항이며 재정법안 대기 중. 실례로 제시한 YA2025/2026 예시는 현행으로 유지."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 기준 재판 — 제39조, 별표 1 제I편 제1, 2, 2A, 2B, 2C 및 2D항 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -82,6 +87,10 @@ sources:
   - title: "고용주 의무 납입 (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "직원적립기금 (EPF)"
+  - title: "2027년 예산안 세제 조치 — 부록 1(개인 세율표) 및 부록 11(SME 세율) (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "말레이시아 재무부 (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -201,6 +210,17 @@ EPF 수치에 대한 한 가지 유의점: 기여금은 월 급여 RM20,000 초�
 - **말레이시아에 등록된 회사가 자동으로 중소기업 세율을 적용받는다고 가정하는 것.** 거주지, 납입자본, 총 사업소득, 50% 관계회사 판정, 20% 외국인 소유 판정이 모두 충족되어야 합니다.
 - **준수 비용을 무시하는 것.** 이익이 약 RM200,000 미만이면 세금 절감액은 작거나 마이너스이며, 비서·회계·감사 비용은 그렇지 않습니다.
 - **조합이 유한책임조합처럼 작동한다고 가정하는 것.** 하나는 도관이며 조합원에게 과세되고, 다른 하나는 법인 구간으로 과세되는 법인입니다.
+
+## YA2027(Budget 2027)에 발표된 사항
+
+Budget 2027(2026년 10월 9일 제출)은 이 비교의 **양쪽 모두**에 대한 변경을 발표했으며, 이는 **과세연도 2027(year of assessment 2027)**부터 적용됩니다. 이는 **발표일 뿐 아직 법제화되지 않았습니다** — 2027년 재정법안(Finance Bill 2027)이 통과되어야 비로소 효력이 발생하므로, YA2025/2026 세율을 사용하는 위의 실례 계산들은 해당 연도에 대해 변동이 없습니다.
+
+- **SME 회사 구간이 낮아집니다.** 제2A항 우대 세율은 처음 **RM150,000에 대해 14%**(기존 15%), 다음 **RM450,000에 대해 16%**(기존 17%)로 인하되며, RM600,000 초과분에 대한 24% 세율은 변동이 없습니다.
+- **개인 세율표가 재조정됩니다.** RM70,001–RM100,000 구간은 19%에서 **18%**로 낮아지고, RM100,001–RM150,000에 새로운 **24% 구간**이 신설되며(RM150,001–RM400,000 구간은 25%로 유지), 최고 **30%** 세율은 이제 **RM1,000,000 초과분**부터 시작합니다(기존 RM2,000,000). 전체 YA2027 표는 개인소득세율 문서를 참조하십시오.
+
+두 변경 모두 SME 이익 수준에서 회사의 우위를 소폭 확대하고 교차점을 다소 낮추지만, 위의 예시 순서를 뒤바꿀 정도는 아닙니다. 재정법안이 통과되면 YA2027 수치로 계산을 다시 실행하십시오.
+
+발표 출처: Budget 2027 Touchpoints, Tax Measures(재무부), 부록 1(Appendix 1, 개인 세율표) 및 부록 11(Appendix 11, SME 세율).
 
 ## 다음 단계
 

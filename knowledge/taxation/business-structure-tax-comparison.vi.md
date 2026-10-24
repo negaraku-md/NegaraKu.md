@@ -39,9 +39,10 @@ faq:
 
 verificationNeeded:
   - "Xác nhận liệu thù lao giám đốc trả cho một giám đốc không điều hành ngoài một hợp đồng lao động có phải là tiền lương cho mục đích EPF hay không; EPF xác nhận các giám đốc hưởng lương phải đóng góp nhưng không đề cập trực tiếp đến khoản thù lao"
+  - "Các thay đổi YA2027 về SME (14%/16%) và biểu thuế cá nhân là các công bố của Ngân sách 2027 (Appendix 1 và 11 trong tax-measures của Bộ Tài chính), chưa được ban hành — hãy xác nhận các mức thuế cuối cùng khi Đạo luật Tài chính 2027 (Finance Act 2027) được đăng công báo, và chạy lại phép tính điểm giao nhau"
 
 lang: "vi"
-sourceContentHash: "b476e81782042301"
+sourceContentHash: "45aee7b154cdb532"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -50,14 +51,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Thêm ghi chú YA2027 phản ánh Ngân sách 2027 (các bậc SME xuống 14%/16%, biểu thuế cá nhân tái cơ cấu với mức cao nhất 30% từ RM1 triệu) — đã công bố, đang chờ Dự luật Tài chính; giữ các ví dụ có tính toán của YA2025/2026 làm hiện hành."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 — điều 39, Phụ lục 1 Phần I khoản 1, 2, 2A, 2B, 2C và 2D (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024 — section 39, Schedule 1 Part I paragraphs 1, 2, 2A, 2B, 2C and 2D)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -82,6 +87,10 @@ sources:
   - title: "Đóng góp Bắt buộc của Người sử dụng lao động (Employer Mandatory Contribution)"
     url: "https://www.kwsp.gov.my/en/employer/responsibilities/mandatory-contribution"
     publisher: "Quỹ Tiết kiệm Nhân viên (EPF)"
+  - title: "Các Điểm nhấn Ngân sách 2027 — Các Biện pháp Thuế, Appendix 1 (biểu thuế cá nhân) và Appendix 11 (mức thuế SME) (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (individual scale) and Appendix 11 (SME rates))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Business structure tax comparison"
 relations:
@@ -277,6 +286,17 @@ khi doanh nghiệp được coi là liên tục.
   là nhỏ hoặc âm, còn hóa đơn thư ký, kế toán và kiểm toán thì không.
 - **Giả định rằng một hợp danh hành xử giống một LLP.** Một cái là minh bạch về thuế và bị đánh thuế trên
   các thành viên hợp danh; cái kia là một thực thể bị đánh thuế theo các bậc công ty.
+
+## Được công bố cho YA2027 (Ngân sách 2027)
+
+Ngân sách 2027 (đệ trình ngày 9 October 2026) đã công bố các thay đổi đối với **cả hai phía** của sự so sánh này, có hiệu lực từ **năm tính thuế 2027**. Đây là các **công bố, chưa phải là luật** — chúng chỉ có hiệu lực khi Dự luật Tài chính 2027 (Finance Bill 2027) được thông qua, nên các ví dụ có tính toán ở trên, vốn sử dụng các mức thuế của YA2025/2026, không đổi cho những năm đó.
+
+- **Các bậc thuế công ty SME giảm xuống.** Các mức ưu đãi theo đoạn 2A giảm xuống còn **14% trên RM150,000 đầu tiên** (từ 15%) và **16% trên RM450,000 tiếp theo** (từ 17%); mức 24% trên RM600,000 không đổi.
+- **Biểu thuế cá nhân được tái cơ cấu.** Bậc RM70,001–RM100,000 giảm từ 19% xuống **18%**, một **bậc 24%** mới được tách ra ở mức RM100,001–RM150,000 (khoảng RM150,001–RM400,000 giữ nguyên ở mức 25%), và mức **30%** cao nhất giờ bắt đầu **trên RM1,000,000** (giảm từ RM2,000,000). Hãy xem bài viết về thuế suất thu nhập cá nhân để biết bảng YA2027 đầy đủ.
+
+Cả hai động thái đều nới rộng lợi thế của công ty một chút ở các mức lợi nhuận SME và kéo điểm giao nhau xuống thấp hơn một ít, nhưng không đủ để sắp xếp lại các ví dụ ở trên. Hãy chạy lại phép tính với các con số của YA2027 khi Dự luật Tài chính được thông qua.
+
+Nguồn công bố: Budget 2027 Touchpoints, Tax Measures (Bộ Tài chính), Appendix 1 (biểu thuế cá nhân) và Appendix 11 (mức thuế SME).
 
 ## Tiếp theo
 
