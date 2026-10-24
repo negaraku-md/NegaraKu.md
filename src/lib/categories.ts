@@ -1032,6 +1032,37 @@ export function getCategory(id: string): Category | undefined {
   return CATEGORIES.find((c) => c.id === id);
 }
 
+/**
+ * Head-term HUB (pillar overview) article per category — the canonical entry
+ * point for the category's head term. Surfaced as a "Start here" band at the
+ * top of the category page so the hub collects the page's highest-equity
+ * internal link and readers get a natural starting point. Value = the hub
+ * article's slug (the category is the key). Only categories that have a genuine
+ * overview article appear here; keep in sync with the topic-hub builder
+ * (scripts/build-topic-hubs.mjs + the earlier hub set). `business` points at
+ * the broad structures overview (its second hub, first-year compliance, is a
+ * sub-topic, not the category pillar).
+ */
+export const CATEGORY_HUB: Record<string, string> = {
+  business: 'business-structures-malaysia',
+  taxation: 'sst-explained',
+  employment: 'labour-law-map-malaysia',
+  'settling-in': 'moving-to-malaysia-first-steps',
+  government: 'three-tiers-of-government',
+  healthcare: 'how-malaysian-healthcare-works',
+  education: 'malaysian-education-system',
+  industries: 'industries-overview',
+  energy: 'energy-sector-overview',
+  agriculture: 'agriculture-sector-overview',
+  'cost-of-living': 'cost-of-living-overview',
+  property: 'buying-a-home-process',
+};
+
+/** The hub (pillar-overview) article slug for a category, if it has one. */
+export function hubSlug(categoryId: string): string | undefined {
+  return CATEGORY_HUB[categoryId];
+}
+
 /** Categories visible publicly. */
 export function launchCategories(): Category[] {
   return CATEGORIES.filter((c) => c.launch);

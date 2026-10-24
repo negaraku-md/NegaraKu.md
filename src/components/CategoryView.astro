@@ -1,6 +1,6 @@
 ---
 import type { Locale, Category } from '@/lib/categories';
-import { getPillar, getPillarDef, categoriesInPillar, PILLARS, loc } from '@/lib/categories';
+import { getPillar, getPillarDef, categoriesInPillar, PILLARS, loc, hubSlug, getCategoryColor } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
@@ -42,6 +42,18 @@ const heroStats = [
 // Every category uses the service archetype now — one uniform, scalable body.
 const Body = ServiceCategory;
 
+// "Start here" band — the category's head-term HUB (pillar overview), surfaced
+// above the body so it takes the page's top internal link and gives readers a
+// canonical entry point. Resolve from the already-locale-filtered `articles`
+// (so we get this locale's title/summary, and only show it when published &
+// present). Falls back silently when a category has no hub.
+const hub = (() => {
+  const slug = hubSlug(category.id);
+  if (!slug) return undefined;
+  return articles.find((a) => a.data.slug === slug);
+})();
+const hubColor = getCategoryColor(category.id);
+
 // Most-read + Latest strips, but only on substantial categories — on a short one
 // the strips would just repeat the list the body shows right below. Latest
 // excludes the Most-read picks so the two strips never overlap.
@@ -63,6 +75,28 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
   stats={heroStats}
 />
 
+{
+  hub && (
+    <section class="container block">
+      <a
+        class="hub-band"
+        href={localePath(`/${hub.data.category}/${hub.data.slug}`, locale)}
+        style={`--c:${hubColor}`}
+      >
+        <span class="bar" aria-hidden="true" />
+        <span class="hub-band__text">
+          <span class="hub-band__eyebrow">
+            {L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작하기', 'เริ่มต้นที่นี่', 'Bắt đầu tại đây', 'Mulai di sini', 'ابدأ من هنا', 'यहाँ से शुरू करें', 'Empieza aquí', 'Commencez ici')}
+          </span>
+          <span class="hub-band__title">{hub.data.title}</span>
+          {hub.data.summary && <span class="hub-band__summary">{hub.data.summary}</span>}
+        </span>
+        <span class="hub-band__cue dirx" aria-hidden="true">→</span>
+      </a>
+    </section>
+  )
+}
+
 <Body locale={locale} category={category} articles={articles} />
 
 {pillar && <HubGroups locale={locale} pillar={pillar} activeCategory={category.id} topSeparator />}
@@ -75,3 +109,45 @@ const mrKeys = showStrips ? mostReadKeys(articles, STRIP) : [];
     </>
   )
 }
+
+<style>
+  /* "Start here" band — the category's head-term hub, given the prime slot above
+     the topic body. A single wide card: category-coloured accent bar, an all-caps
+     eyebrow, the hub title, and the summary. Reuses the site's surface/line tokens
+     so it reads as part of the section-box family. */
+  .hub-band {
+    display: flex; align-items: stretch; gap: 0;
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+  }
+  .hub-band:hover {
+    border-color: var(--c, var(--gold));
+    box-shadow: 0 0 0 1px var(--c, var(--gold)) inset;
+  }
+  .hub-band .bar {
+    flex: 0 0 4px; align-self: stretch; background: var(--c, var(--gold));
+  }
+  .hub-band__text {
+    display: flex; flex-direction: column; gap: 0.3rem;
+    padding: 1rem 1.15rem; min-width: 0; flex: 1 1 auto;
+  }
+  .hub-band__eyebrow {
+    font-size: 0.66rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--c, var(--gold));
+  }
+  .hub-band__title {
+    font-family: var(--font-title); font-size: 1.2rem; font-weight: 700; line-height: 1.25;
+    color: var(--ink);
+  }
+  .hub-band__summary {
+    font-size: 0.92rem; line-height: 1.5; color: var(--muted);
+  }
+  .hub-band__cue {
+    display: flex; align-items: center; padding: 0 1.15rem; flex: 0 0 auto;
+    font-size: 1.3rem; color: var(--c, var(--gold));
+    transition: transform 0.15s ease;
+  }
+  .hub-band:hover .hub-band__cue { transform: translateX(3px); }
+  :global([dir='rtl']) .hub-band:hover .hub-band__cue { transform: translateX(-3px); }
+</style>
