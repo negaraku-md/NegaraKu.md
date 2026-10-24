@@ -118,6 +118,19 @@ export function getAnalytics(): Analytics {
   return read<Analytics>('analytics.json', {});
 }
 
+// Re-translation debt (scripts/translation-sync.mjs, report mode): when a master
+// is updated & republished its translations fall stale — this is the worklist of
+// what needs re-translating, by topic. Empty when the corpus is fully in-sync.
+export type TranslationDebt = {
+  generatedAt?: string;
+  counts?: { topics: number; staleTopics: number; staleTranslations: number; orphans: number };
+  topics: { key: string; staleLangs: string[] }[];
+  orphans: string[];
+};
+export function getTranslationDebt(): TranslationDebt {
+  return read<TranslationDebt>('translation-debt.json', { topics: [], orphans: [] });
+}
+
 // Per-day site-level trend series (build-analytics.mjs → analytics-series.json):
 // visitors/search/AI + channel + language over time, for the Analytics trend
 // charts. Accumulates permanently (committed snapshot), so it outlives AE's

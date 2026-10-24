@@ -117,6 +117,25 @@ its `reviewDue` is shown as needs-update automatically. Only `archived` is termi
 - **P4 — Update→re-translate wiring (#1) + lifecycle cockpit (#6).** Make republish emit the
   re-translation worklist + stamp; finish the dashboard as the ops cockpit. *(Worklist cockpit already
   built in P2 — P4 narrows to the update→re-translate trigger + aging/SLA tiles.)*
+  - **✅ P4 BUILT (2026-10-24, held for push).** Closes the last lifecycle gap — when a master is
+    updated & republished, its translations fall stale and someone must re-translate them; that debt
+    was invisible. Now:
+    1. **`translation-sync.mjs`** (report mode, already in predev/prebuild) also emits
+       **`public/api/translation-debt.json`** — the re-translation worklist by topic (staleLangs +
+       orphans), reusing its own authoritative hash comparison. `apidata.ts` gains `getTranslationDebt()`.
+    2. **Worklist cockpit** gains a **"Translations to refresh"** section (traffic-ranked, shows the
+       stale langs per topic + a Re-translate link) and **workflow aging/SLA** flags — a ⚠ "stalled"
+       marker on any draft > 30d, in-review > 14d, reviewed > 7d, or in-update/redraft/archive > 21d,
+       so a stuck pipeline is visible, not just stale content.
+    3. **`build-translation-digest.mjs`** + the weekly Action (now "Weekly maintenance digest") upserts
+       a second living issue **"🌐 Translations to refresh"** alongside the review-due one.
+    - E2E verified: dirtying a master's `answer` surfaced all 12 stale langs in the debt JSON + counts,
+      then reverted clean; aging-SLA math checked; validate 0 errors. reviewDue/translationStatus both
+      freshness-neutral to each other.
+  - **Lifecycle is now fully operationalized end to end** — propose → `scaffold-draft` → write →
+    `lifecycle submit` → `lifecycle sign-off` → `publish-reviewed` → review-due engine → `lifecycle claim`
+    → update → re-translate (debt surfaced) → `archive-article`. Remaining optional: **P1b** (no-successor
+    noindex tombstone) and a dedicated /dashboard ops view (the /worklist cockpit already covers it).
 
 Everything reuses existing infra (status model, worklist, `publish-reviewed` pattern, the
 Action style of the FB/GSC jobs, the analytics archive). No schema redesign needed — the model

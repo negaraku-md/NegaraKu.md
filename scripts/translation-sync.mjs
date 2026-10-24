@@ -91,10 +91,12 @@ let stamped = 0;
 let stale = 0;
 let orphan = 0;
 const report = [];
+const debtByTopic = new Map(); // key -> Set(langs) that are stale — the re-translate worklist
+const orphanFiles = [];
 
 for (const [key, { master, translations }] of topics) {
   if (!master) {
-    for (const t of translations) report.push(`[orphan]  ${path.relative(ROOT, t.file)} — no master`);
+    for (const t of translations) { report.push(`[orphan]  ${path.relative(ROOT, t.file)} — no master`); orphanFiles.push(`${key}.${t.lang}`); }
     orphan += translations.length;
     continue;
   }
@@ -115,6 +117,8 @@ for (const [key, { master, translations }] of topics) {
       report.push(
         `[stale]   ${path.relative(ROOT, t.file)} — master ${key} changed since translation`,
       );
+      if (!debtByTopic.has(key)) debtByTopic.set(key, new Set());
+      debtByTopic.get(key).add(t.lang);
       stale++;
     }
   }
@@ -126,4 +130,19 @@ console.log(
     ? `[translation-sync] stamped ${stamped} translation(s) as in-sync.`
     : `[translation-sync] ${stale} stale, ${orphan} orphaned across ${topics.size} topic(s).`,
 );
+
+// Report mode also emits the re-translation worklist as data: when a master is
+// updated & republished, its translations fall stale here, and this is how the
+// contributor cockpit (/worklist) and any tool sees that debt. Stamp mode never
+// writes it — stamping clears debt, and the report-mode truth should survive.
+if (!STAMP) {
+  const out = {
+    generatedAt: new Date().toISOString(),
+    counts: { topics: topics.size, staleTopics: debtByTopic.size, staleTranslations: stale, orphans: orphan },
+    topics: [...debtByTopic.entries()].map(([key, langs]) => ({ key, staleLangs: [...langs].sort() })).sort((a, b) => b.staleLangs.length - a.staleLangs.length),
+    orphans: orphanFiles.sort(),
+  };
+  const outDir = path.join(ROOT, 'public', 'api');
+  await writeFile(path.join(outDir, 'translation-debt.json'), JSON.stringify(out, null, 2) + '\n', 'utf8');
+}
 if (!STAMP && (stale || orphan)) process.exitCode = 0; // reporting only; scan.py gates

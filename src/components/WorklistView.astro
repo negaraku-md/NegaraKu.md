@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { getCategory, loc } from '@/lib/categories';
 import { corpusTopics, effectiveStatus, articleKey, type Article } from '@/lib/content';
-import { getAnalytics } from '@/lib/apidata';
+import { getAnalytics, getTranslationDebt } from '@/lib/apidata';
 import { REPO } from '@/lib/site';
 import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
@@ -39,6 +39,24 @@ const daysTo = (d: unknown) => (d ? Math.round((new Date(d as string).getTime() 
 const overdueDays = (a: Article) => { const n = daysTo(a.data.reviewDue); return n != null && n < 0 ? -n : 0; };
 const untilDue = (a: Article) => { const n = daysTo(a.data.reviewDue); return n != null && n > 0 ? n : 0; };
 const priority = (a: Article) => Math.round((readersOf(a) + 1) * (1 + overdueDays(a) / 30));
+
+// Workflow aging (SLA) — how long an item has sat in a non-terminal work state.
+// Not content-staleness (that is reviewDue); this catches a stalled PIPELINE.
+const SLA_DAYS: Record<string, number> = { draft: 30, 'in-review': 14, reviewed: 7, 'in-update': 21, 'in-redraft': 21, 'in-archive': 21 };
+const slaDate = (a: Article) => a.data.claimedAt ?? a.data.reviewed ?? a.data.updated ?? a.data.created;
+const agingDays = (a: Article) => ageDays(slaDate(a)) ?? 0;
+const isStalled = (a: Article) => { const limit = SLA_DAYS[a.data.status]; return limit != null && agingDays(a) > limit; };
+
+// Re-translation debt — when a master is updated its translations fall stale
+// (scripts/translation-sync.mjs). This is the worklist of what to re-translate,
+// ranked by readership so the most-read topics are refreshed first.
+const debtRaw = CONTRIB_ONLY ? getTranslationDebt() : { topics: [], orphans: [] };
+const byKey = new Map(topics.map((a) => [articleKey(a), a]));
+const transDebt = debtRaw.topics
+  .map((d) => ({ ...d, article: byKey.get(d.key), readers: analytics[d.key]?.readers }))
+  .map((d) => ({ ...d, readerN: typeof d.readers === 'number' ? d.readers : (d.readers?.total ?? 0) }))
+  .sort((x, y) => y.readerN - x.readerN || y.staleLangs.length - x.staleLangs.length);
+const staleTranslationCount = debtRaw.counts?.staleTranslations ?? 0;
 
 const needsUpdate = topics
   .filter((a) => st(a) === 'needs-update')
@@ -213,6 +231,31 @@ const stats = [
 
       <div class="wl-sec">
         <header>
+          <span>{L('Terjemahan Perlu Disegarkan', 'Translations to refresh', '待刷新翻译', 'புதுப்பிக்க வேண்டிய மொழிபெயர்ப்புகள்', '要更新の翻訳', '갱신할 번역', 'คำแปลที่ต้องรีเฟรช', 'Bản dịch cần làm mới', 'Terjemahan untuk Disegarkan', 'ترجمات بحاجة إلى تحديث', 'ताज़ा करने योग्य अनुवाद', 'Traducciones a actualizar', 'Traductions à rafraîchir')} <b>{transDebt.length}</b></span>
+          <span class="wl-hint">{staleTranslationCount > 0
+            ? L(`${staleTranslationCount} fail stale · induk berubah sejak diterjemah`, `${staleTranslationCount} stale files · master changed since translated`, `${staleTranslationCount} 个过期文件 · 原文已变更`, `${staleTranslationCount} காலாவதி கோப்புகள் · மூலம் மாறிவிட்டது`, `${staleTranslationCount} 件の古い翻訳 · 原文が変更`, `오래된 파일 ${staleTranslationCount}개 · 원문 변경됨`, `ไฟล์ล้าสมัย ${staleTranslationCount} · ต้นฉบับเปลี่ยน`, `${staleTranslationCount} tệp cũ · bản gốc đã đổi`, `${staleTranslationCount} berkas usang · master berubah`, `${staleTranslationCount} ملفات قديمة · تغيّر الأصل`, `${staleTranslationCount} पुरानी फ़ाइलें · मास्टर बदला`, `${staleTranslationCount} archivos obsoletos · el original cambió`, `${staleTranslationCount} fichiers obsolètes · l'original a changé`)
+            : L('semua segerak · jalankan translate:stamp selepas menterjemah', 'all in sync · run translate:stamp after translating', '全部同步 · 翻译后运行 translate:stamp', 'அனைத்தும் ஒத்திசைவு · மொழிபெயர்த்த பின் translate:stamp', 'すべて同期 · 翻訳後に translate:stamp', '모두 동기화 · 번역 후 translate:stamp 실행', 'ซิงค์ทั้งหมด · รัน translate:stamp หลังแปล', 'tất cả đồng bộ · chạy translate:stamp sau khi dịch', 'semua sinkron · jalankan translate:stamp', 'الكل متزامن · شغّل translate:stamp', 'सभी समन्वयित · अनुवाद के बाद translate:stamp', 'todo sincronizado · ejecute translate:stamp', 'tout est synchronisé · lancez translate:stamp')}</span>
+        </header>
+        {transDebt.length === 0 ? (
+          <p class="wl-empty">{L('Semua terjemahan terkini.', 'Every translation is current.', '所有翻译均为最新。', 'அனைத்து மொழிபெயர்ப்புகளும் புதியவை.', 'すべての翻訳が最新です。', '모든 번역이 최신입니다.', 'คำแปลทั้งหมดเป็นปัจจุบัน', 'Mọi bản dịch đều cập nhật.', 'Semua terjemahan terkini.', 'كل الترجمات محدّثة.', 'सभी अनुवाद अद्यतन हैं।', 'Todas las traducciones están al día.', 'Toutes les traductions sont à jour.')}</p>
+        ) : (
+          <ul>
+            {transDebt.map((d) => (
+              <li>
+                <span class="wl-title">{d.article?.data.title ?? d.key}</span>
+                <span class="wl-meta">
+                  {d.article ? catName(d.article) : d.key} · <span class="wl-over">{d.staleLangs.length} {L('bahasa', 'langs', '语言', 'மொழிகள்', '言語', '언어', 'ภาษา', 'ngôn ngữ', 'bahasa', 'لغات', 'भाषाएँ', 'idiomas', 'langues')}</span> <span class="wl-langs">{d.staleLangs.join(' ')}</span>
+                  {d.readerN > 0 && <> · {d.readerN} {L('pembaca', 'readers', '读者', 'வாசகர்கள்', '読者', '독자', 'ผู้อ่าน', 'độc giả', 'pembaca', 'قارئ', 'पाठक', 'lectores', 'lecteurs')}</>}
+                </span>
+                <a class="wl-act" href={`${REPO}/blob/main/knowledge/${d.key}.md`} target="_blank" rel="noopener">{L('Terjemah semula', 'Re-translate', '重新翻译', 'மீண்டும் மொழிபெயர்', '再翻訳', '재번역', 'แปลใหม่', 'Dịch lại', 'Terjemahkan ulang', 'إعادة الترجمة', 'पुनः अनुवाद', 'Retraducir', 'Retraduire')} <span class="dirx">↗</span></a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+
+      <div class="wl-sec">
+        <header>
           <span>{L('Dalam Proses', 'In progress', '进行中', 'நடைபெறுகிறது', '進行中', '진행 중', 'กำลังดำเนินการ', 'Đang tiến hành', 'Dalam Proses', 'قيد التنفيذ', 'प्रगति पर', 'En curso', 'En cours')} <b>{inProgress.length}</b></span>
           {assigneeSummary && <span class="wl-hint">{assigneeSummary}</span>}
         </header>
@@ -226,6 +269,7 @@ const stats = [
                 <span class="wl-meta">
                   <span class="wl-status">{a.data.status}</span> · {worker(a)}
                   {ageDays(a.data.claimedAt) != null && <> · {ageDays(a.data.claimedAt)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि', 'd', 'j')}</>}
+                  {isStalled(a) && <> · <span class="wl-over">⚠ {L('tersekat', 'stalled', '停滞', 'தேக்கம்', '停滞', '정체', 'ค้าง', 'bị kẹt', 'macet', 'متوقف', 'अटका', 'estancado', 'bloqué')}</span></>}
                 </span>
                 <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير', 'संपादित करें', 'Editar', 'Modifier')} <span class="dirx">↗</span></a>
               </li>
@@ -246,7 +290,7 @@ const stats = [
             {awaiting.map((a) => (
               <li>
                 <span class="wl-title">{a.data.title}</span>
-                <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者', 'செய்தவர்', '作業者', '작업자', 'ทำโดย', 'thực hiện bởi', 'dibuat oleh', 'أنجزها', 'किया', 'realizado por', 'réalisé par')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠', 'அங்கீகரிப்பவர் தேவை ≠', '承認者が必要 ≠', '승인자 필요 ≠', 'ต้องมีผู้อนุมัติ ≠', 'cần người phê duyệt ≠', 'perlu penyetuju ≠', 'يلزم مُوافِق ≠', 'अनुमोदक चाहिए ≠', 'requiere aprobador ≠', 'approbateur requis ≠')} {worker(a)}</span>
+                <span class="wl-meta">{catName(a)} · {L('dibuat oleh', 'did', '完成者', 'செய்தவர்', '作業者', '작업자', 'ทำโดย', 'thực hiện bởi', 'dibuat oleh', 'أنجزها', 'किया', 'realizado por', 'réalisé par')}: {worker(a)} · {L('perlu pelulus ≠', 'needs approver ≠', '需批准者≠', 'அங்கீகரிப்பவர் தேவை ≠', '承認者が必要 ≠', '승인자 필요 ≠', 'ต้องมีผู้อนุมัติ ≠', 'cần người phê duyệt ≠', 'perlu penyetuju ≠', 'يلزم مُوافِق ≠', 'अनुमोदक चाहिए ≠', 'requiere aprobador ≠', 'approbateur requis ≠')} {worker(a)}{isStalled(a) && <> · <span class="wl-over">⚠ {agingDays(a)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि', 'd', 'j')}</span></>}</span>
                 <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Luluskan', 'Approve', '批准', 'ஒப்புதலளி', '承認', '승인', 'อนุมัติ', 'Phê duyệt', 'Setujui', 'الموافقة', 'अनुमोदित करें', 'Aprobar', 'Approuver')} <span class="dirx">↗</span></a>
               </li>
             ))}
@@ -270,6 +314,7 @@ const stats = [
                   {catName(a)}
                   {a.data.sensitivity !== 'none' && <> · <span class="wl-sens">🔒 {a.data.sensitivity}</span></>}
                   {ageDays(a.data.created) != null && <> · {ageDays(a.data.created)}{L('h', 'd', '天', 'நா', '日', '일', 'วัน', 'ng', 'h', 'ي', 'दि', 'd', 'j')}</>}
+                  {isStalled(a) && <> · <span class="wl-over">⚠ {L('tersekat', 'stalled', '停滞', 'தேக்கம்', '停滞', '정체', 'ค้าง', 'bị kẹt', 'macet', 'متوقف', 'अटका', 'estancado', 'bloqué')}</span></>}
                 </span>
                 <a class="wl-act" href={editUrl(a)} target="_blank" rel="noopener">{L('Sunting', 'Edit', '编辑', 'திருத்து', '編集', '편집', 'แก้ไข', 'Chỉnh sửa', 'Sunting', 'تحرير', 'संपादित करें', 'Editar', 'Modifier')} <span class="dirx">↗</span></a>
               </li>
@@ -336,6 +381,7 @@ const stats = [
   .wl-act { margin-inline-start: auto; color: var(--gold); font-weight: 700; font-size: 0.85rem; text-decoration: none; white-space: nowrap; }
   .wl-act:hover { text-decoration: underline; }
   .wl-over { color: var(--gold); font-weight: 600; }
+  .wl-langs { font-family: var(--font-mono, monospace); font-size: 0.78rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.02em; }
 
   /* Lifecycle census — the whole pipeline at a glance. */
   .wl-census {
