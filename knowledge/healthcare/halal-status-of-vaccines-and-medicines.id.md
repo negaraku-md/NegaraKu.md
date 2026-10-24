@@ -29,7 +29,7 @@ faq:
     a: "Muzakarah Khas pada 3 Desember 2020 memutuskan penggunaan vaksin COVID-19 adalah harus dan wajib diambil oleh golongan yang ditetapkan pemerintah, dengan syarat vaksin yang digunakan bersifat halal dan tayyiban."
 
 lang: "id"
-sourceContentHash: "a63cd25d7840519b"
+sourceContentHash: "27955639bf723dbf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

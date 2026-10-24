@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "वे सभी जो किसी मलेशियाई वेतन के विरुद्ध बजट बना रहे हैं, वेतन की तुलना कर रहे हैं, या किसी विशिष्ट आय आँकड़े को राष्ट्रीय संदर्भ में रखने का प्रयास कर रहे हैं।"
 
 lang: "hi"
-sourceContentHash: "b4e7cfa473ebf879"
+sourceContentHash: "fde2e01f1a9acb7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -23,7 +23,7 @@ appliesTo: "マレーシアで物件を購入、売却または評価する人�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 
 status: "published"
 aiAssisted: true

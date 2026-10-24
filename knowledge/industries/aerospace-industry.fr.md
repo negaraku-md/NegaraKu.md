@@ -34,7 +34,7 @@ faq:
     a: "Les deux, mais son centre de gravité, ce sont les services. La MRO et la fabrication de composants dominent ; la Malaisie construit des structures, des matériaux composites et des pièces de moteur et entretient des avions, mais elle a une capacité plus faible de conception et de développement au niveau de l'aéronef."
 
 lang: "fr"
-sourceContentHash: "5b97e205090548e0"
+sourceContentHash: "83587e970bd1abf9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -37,7 +37,7 @@ faq:
     a: "Diesel di Sabah, Sarawak dan Labuan dipertahankan pada RM2.15 per liter dan tidak diapungkan seperti di Semenanjung. RON95 bersubsidi RM1.99 berlaku untuk warga negara yang layak di seluruh negara."
 
 lang: "id"
-sourceContentHash: "b4fd92803516f862"
+sourceContentHash: "b0726e746e504bf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

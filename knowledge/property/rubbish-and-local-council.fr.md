@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne vivant en Malaisie qui a besoin de comprendre qui ramasse les ordures dans sa région, si elle est tenue de trier les déchets à la source et quel est le risque si elle ne le fait pas."
 
 lang: "fr"
-sourceContentHash: "0280d12a6ccc5b9e"
+sourceContentHash: "e61c9e41571bda53"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

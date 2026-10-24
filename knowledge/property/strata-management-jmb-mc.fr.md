@@ -34,7 +34,7 @@ faq:
     a: "Le non-respect d'une sentence est une infraction pénale en vertu de l'article 123 — une amende ne dépassant pas RM250,000 ou une peine d'emprisonnement ne dépassant pas 3 ans, ou les deux, avec une amende supplémentaire pouvant atteindre RM5,000 par jour pour une infraction continue. La plainte est déposée auprès du Commissaire aux bâtiments (COB)."
 
 lang: "fr"
-sourceContentHash: "f0b9ecff267db2f3"
+sourceContentHash: "c33c12700672ddab"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

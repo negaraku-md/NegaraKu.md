@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "ผู้ที่ต้องการความเข้าใจเชิงโครงสร้างและเชิงพรรณนาของกรอบรัฐธรรมนูญของมาเลเซีย"
 
 lang: "th"
-sourceContentHash: "3635bd9fdb569d2e"
+sourceContentHash: "cceecfcd59d19112"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

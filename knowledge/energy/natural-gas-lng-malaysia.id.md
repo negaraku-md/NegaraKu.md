@@ -34,7 +34,7 @@ faq:
     a: "Akses Pihak Ketiga (TPA) memungkinkan pengangkut yang layak, bukan hanya PETRONAS, memesan kapasitas pada terminal regasifikasi, pipa transmisi, dan pipa distribusi dengan syarat yang sama. Ini dimulai pada 16 Januari 2017 di bawah Akta Bekalan Gas (Pindaan) 2016 dan diregulasi oleh Suruhanjaya Tenaga."
 
 lang: "id"
-sourceContentHash: "20fa31d4431394c5"
+sourceContentHash: "4e24ddc5a51e8881"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

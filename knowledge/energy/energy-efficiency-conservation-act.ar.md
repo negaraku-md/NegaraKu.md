@@ -31,7 +31,7 @@ faq:
     a: "يوسّع الإطار الجديد لـ Act 861 ولوائح كفاءة الطاقة والحفاظ عليها لسنة 2024 نطاق التنظيم من الكهرباء وحدها إلى جميع أشكال الطاقة. ويُفهَم أن هذا الإطار يحلّ محلّ لوائح الإدارة الكفؤة للطاقة الكهربائية لسنة 2008 (Efficient Management of Electrical Energy Regulations 2008، EMEER) القديمة، لكن ينبغي التحقّق من تفاصيل ذلك الإلغاء مقابل النص الرسمي للوائح."
 
 lang: "ar"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

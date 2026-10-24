@@ -30,7 +30,7 @@ faq:
     a: "No. Act 852 bans the sale of all tobacco and vape products through online platforms and vending machines."
 
 lang: "en"
-sourceContentHash: "41eadbd4f391ff30"
+sourceContentHash: "47453ebb80993a06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

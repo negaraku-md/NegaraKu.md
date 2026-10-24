@@ -23,7 +23,7 @@ appliesTo: "居住在大马、需要了解自己所在地区由谁收垃圾、�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0280d12a6ccc5b9e"
+sourceContentHash: "e61c9e41571bda53"
 
 status: "published"
 aiAssisted: true

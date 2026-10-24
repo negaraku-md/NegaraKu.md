@@ -32,7 +32,7 @@ faq:
     a: "இது 15 ஜூன் 2023 அன்று நாடாளுமன்றத்தால் நிறைவேற்றப்பட்ட ஒரு கொள்கை ஆவணம் ஆகும்; இது மலேசியாவின் சுகாதார அமைப்பின் 15 ஆண்டு படிநிலை சீர்திருத்தத்தை வரையறுக்கிறது."
 
 lang: "ta"
-sourceContentHash: "635c9f97868b06be"
+sourceContentHash: "6b5ead408a9cf117"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

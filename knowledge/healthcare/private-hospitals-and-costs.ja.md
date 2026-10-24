@@ -23,7 +23,7 @@ appliesTo: "マレーシアで専門医の診察や私立施設への入院に�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ae428a676e96d0c6"
+sourceContentHash: "dfd6a5748ec5074b"
 
 status: "published"
 aiAssisted: true

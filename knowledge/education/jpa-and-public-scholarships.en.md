@@ -29,7 +29,7 @@ faq:
     a: "Usually not. Full scholarships such as JPA and MARA typically require students to give up PTPTN for the same level of study. Check the terms of the respective sponsor's agreement."
 
 lang: "en"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -25,7 +25,7 @@ appliesTo: "マレーシアで選挙を執行する機関の憲法上の位置�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6a46ae533ead9e08"
+sourceContentHash: "75351af1712639a4"
 
 status: "published"
 aiAssisted: true

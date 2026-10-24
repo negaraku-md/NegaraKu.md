@@ -22,7 +22,7 @@ appliesTo: "サバやサラワクへの移住や、そのための予算編成�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "327dd8ebe6d5d915"
+sourceContentHash: "8986bf13945d0128"
 
 status: "published"
 aiAssisted: true

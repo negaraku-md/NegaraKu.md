@@ -27,7 +27,7 @@ verificationNeeded:
   - "Việc miễn/giảm phí riêng cho công dân từ 60 tuổi trở lên — được đưa tin rộng rãi là miễn phí đăng ký phòng khám chuyên khoa RM5 và giảm 50% phí Hạng 3 — không thể xác minh trực tiếp trên trang chính thức moh.gov.my (403 Forbidden khi thử truy cập), do đó con số này cố ý không được nêu như một sự thật đã xác minh; chỉ mô tả cơ chế một cách khái quát."
   - "Số liệu thống kê thời gian chờ (ví dụ số ngày/giờ trung bình cho lịch hẹn chuyên khoa hoặc phẫu thuật theo kế hoạch) không được nêu vì không tìm thấy con số chính thức nào của KKM có thể xác minh tại thời điểm soạn thảo; thực tế thời gian chờ chỉ được mô tả một cách định tính."
 lang: "vi"
-sourceContentHash: "e787862480b6ac9a"
+sourceContentHash: "fad2707d6e797e31"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

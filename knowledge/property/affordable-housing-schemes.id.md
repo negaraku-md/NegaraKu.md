@@ -31,7 +31,7 @@ faq:
     a: "Moratorium adalah jangka waktu Anda dilarang menjual kembali rumah tanpa izin. Residensi Wilayah mengenakan moratorium 10 tahun dan Rumah Selangorku 5 tahun, untuk mencegah spekulasi dan memastikan rumah tetap untuk golongan sasaran."
 
 lang: "id"
-sourceContentHash: "c2d113c9f6018d12"
+sourceContentHash: "1484e1d16671dc8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

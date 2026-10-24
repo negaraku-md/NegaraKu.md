@@ -36,7 +36,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "9e29133ebe5daedf"
+sourceContentHash: "7bbb4ca3cdb29e8e"
 sources:
   - title: "1949年印紙税法附表1の対象となる証書に対する印紙税賦課ガイドライン（LHDN.AG.600-1/10/3）— セクションC、不動産の所有権移転証書に対する印紙税の賦課 (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"

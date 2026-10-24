@@ -21,7 +21,7 @@ appliesTo: "初等または中等教育年齢の子どものホームスクー�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9978c9d61a0e0de"
+sourceContentHash: "a0dbea0e18298c21"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -32,7 +32,7 @@ faq:
     a: "FGV是一家综合性农业企业，业务涵盖种植园（油棕、橡胶与可再生能源）、油脂、糖、物流与支援服务，以及消费产品。据其自述，它贡献了全球约3%的原棕油产量。"
 
 lang: "zh"
-sourceContentHash: "f7515e7869f5fdd6"
+sourceContentHash: "9db31d21c6785747"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

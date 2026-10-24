@@ -32,7 +32,7 @@ faq:
     a: "Peraturan Penyahhutanan EU mentakrifkan produk sebagai 'bebas-penyahhutanan' hanya jika ditanam di atas tanah yang tidak dinyahhutan selepas 31 Disember 2020 (Peraturan (EU) 2023/1115, Perkara 2). Ia memerlukan geolokasi peringkat lot (pemetaan poligon), yang secara teknikal sukar untuk dihasilkan sendiri oleh petani kecil, yang sering berusia lanjut dan terpencil."
 
 lang: "ms"
-sourceContentHash: "88d679107671675c"
+sourceContentHash: "f19a6853ff95da87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

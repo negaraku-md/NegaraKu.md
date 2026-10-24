@@ -32,7 +32,7 @@ faq:
     a: "Cục Lãnh thổ Liên bang (JWP) thuộc Văn phòng Thủ tướng điều phối chính sách và phát triển cả ba lãnh thổ ở cấp liên bang, trong khi DBKL, Perbadanan Putrajaya và Perbadanan Labuan là các cơ quan địa phương thực hiện công việc hằng ngày như cấp phép, quy hoạch đô thị và dịch vụ đô thị tại lãnh thổ của mình."
 
 lang: "vi"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,3 +153,5 @@ Chức năng này từng do một bộ đầy đủ nắm giữ — Bộ Lãnh t
 ## Tiếp theo
 
 Để hiểu vì sao "mọi vấn đề liên quan đến Lãnh thổ Liên bang" thuộc về Liên bang chứ không phải bang, đọc [sự phân chia quyền lực Liên bang–Bang](/vi/government/federal-state-division). Để thấy thiết chế không tồn tại ở các lãnh thổ này, xem [Hội đồng Lập pháp Bang (DUN)](/vi/government/state-assemblies-dun). Về các viện đại diện cho cư dân lãnh thổ tại Nghị viện, xem [Dewan Rakyat](/vi/government/dewan-rakyat) và [Dewan Negara](/vi/government/dewan-negara). Và để có cái nhìn tổng thể về các tầng quản trị của Malaysia, xem [ba tầng chính quyền](/vi/government/three-tiers-of-government).
+
+Muốn hiểu Malaysia được quản trị thế nào? Xem [ba cấp chính quyền của Malaysia](/vi/government/three-tiers-of-government/).

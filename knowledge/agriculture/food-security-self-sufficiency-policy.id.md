@@ -31,7 +31,7 @@ faq:
     a: "Penurunan itu sebagian besar dampak perubahan metode penghitungan, bukan semata-mata jatuhnya produksi. Metode baru hanya menghitung padi bersih yang diproses menjadi beras dan tidak lagi memasukkan padi untuk benih dalam tahun yang sama."
 
 lang: "id"
-sourceContentHash: "fcd35063d281dbc6"
+sourceContentHash: "f5844b5eb0a2c6ba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

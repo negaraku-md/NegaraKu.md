@@ -30,7 +30,7 @@ faq:
     a: "根据教育部，经营未注册的私立教育机构可被处以 RM30,000 罚款或 2 年监禁，或两者兼施。"
 
 lang: "zh"
-sourceContentHash: "2879304f7041420a"
+sourceContentHash: "7a7bd84a3f614a0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f7515e7869f5fdd6"
+sourceContentHash: "9db31d21c6785747"
 
 status: "published"
 aiAssisted: true

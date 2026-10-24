@@ -29,7 +29,7 @@ faq:
     a: "Los enfermeros son registrados por la Junta de Enfermería de Malasia conforme a la Ley de Enfermería de 1950; los farmacéuticos por la Junta de Farmacia de Malasia conforme a la Ley de Registro de Farmacéuticos de 1951 (Act 371); y las profesiones de salud aliada como la fisioterapia por el MAHPC conforme a la Ley de Profesiones de Salud Aliada de 2016 (Act 774)."
 
 lang: "es"
-sourceContentHash: "3615da4185af8269"
+sourceContentHash: "d115e96de8bf4353"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

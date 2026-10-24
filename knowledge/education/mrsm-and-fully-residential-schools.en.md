@@ -29,7 +29,7 @@ faq:
     a: "Applications are made online through the MOE portal, and students are screened through the Special School Admission Assessment (PKSK), together with academic and co-curricular achievement."
 
 lang: "en"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

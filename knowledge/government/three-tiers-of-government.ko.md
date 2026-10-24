@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 특정 문제에 대해 어느 층위의 정부에 접근해야 하는지를 판단하려는 모든 사람, 또는 왜 국회의원과 주의회 의원은 뽑을 수 있으나 지방의회 의원은 뽑을 수 없는지를 이해하고자 하는 사람."
 
 lang: "ko"
-sourceContentHash: "2ede7abafa3eb008"
+sourceContentHash: "3aeed48391a5a422"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

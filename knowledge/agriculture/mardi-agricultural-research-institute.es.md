@@ -31,7 +31,7 @@ faq:
     a: "Entre muchas, MARDI ha liberado la serie MR (como MR 297 y MR 219), las variedades aromáticas MRQ y KADARIA 1, el primer arroz híbrido de Malasia."
 
 lang: "es"
-sourceContentHash: "29fcbde70a256bf1"
+sourceContentHash: "9bb5af4c19ea1667"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

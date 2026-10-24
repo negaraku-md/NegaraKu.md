@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "감사원(Jabatan Audit Negara, National Audit Department)과 감사원장 보고서(Laporan Ketua Audit Negara)의 헌법적 근거와 기능을 이해하고자 하는 학생, 연구자, 기자 및 모든 사람."
 
 lang: "ko"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

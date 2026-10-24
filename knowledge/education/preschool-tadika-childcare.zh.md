@@ -22,7 +22,7 @@ appliesTo: "马来西亚的父母或监护人，若正试图了解孩子在进�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5be629c8e1fa0846"
+sourceContentHash: "9f44a6a22be9e0f4"
 
 status: "published"
 aiAssisted: true

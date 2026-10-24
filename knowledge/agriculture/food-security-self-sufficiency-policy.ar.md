@@ -31,7 +31,7 @@ faq:
     a: "يعود الانخفاض في معظمه إلى أثر تغيير طريقة الحساب، لا إلى مجرد تراجع الإنتاج. فالطريقة الجديدة لا تحتسب سوى الأرز الخام النظيف المُعالَج إلى أرز، ولم تعد تشمل الأرز الخام المستخدم كبذور خلال العام نفسه."
 
 lang: "ar"
-sourceContentHash: "fcd35063d281dbc6"
+sourceContentHash: "f5844b5eb0a2c6ba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -23,7 +23,7 @@ appliesTo: "任何在马来西亚购买、出售或评估房产、需要弄清�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 
 status: "published"
 aiAssisted: true

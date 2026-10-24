@@ -29,7 +29,7 @@ faq:
     a: "通常不可以。如JPA和MARA等全额奖学金一般要求学生在同一学习阶段放弃PTPTN。请查阅各赞助方的协议条款。"
 
 lang: "zh"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

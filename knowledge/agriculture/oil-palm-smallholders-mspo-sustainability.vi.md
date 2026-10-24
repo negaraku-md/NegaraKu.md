@@ -32,7 +32,7 @@ faq:
     a: "Quy định về Không phá rừng của EU định nghĩa các sản phẩm là 'không phá rừng' chỉ khi được trồng trên đất không bị phá rừng sau ngày 31 tháng 12 năm 2020 (Regulation (EU) 2023/1115, Article 2). Nó đòi hỏi định vị địa lý ở cấp mảnh đất (lập bản đồ đa giác), điều khó về mặt kỹ thuật đối với các nông dân nhỏ, thường cao tuổi, ở vùng xa tự tạo ra."
 
 lang: "vi"
-sourceContentHash: "88d679107671675c"
+sourceContentHash: "f19a6853ff95da87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

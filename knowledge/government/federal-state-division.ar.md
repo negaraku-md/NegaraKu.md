@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل من يحتاج أن يعرف، موضوعًا موضوعًا، ما إذا كان للاتحاد أو للولاية سلطة سنّ قانون معين في ماليزيا."
 
 lang: "ar"
-sourceContentHash: "d234775add600d74"
+sourceContentHash: "a1e4d48e96f45459"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

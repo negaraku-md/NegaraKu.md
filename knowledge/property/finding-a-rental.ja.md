@@ -23,7 +23,7 @@ appliesTo: "マレーシアで賃貸住宅を探しているすべての人。�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 
 status: "published"
 aiAssisted: true

@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures（現FGV Holdings）は、FELDAの農園を管理する投資部門である。2012年6月28日にブルサ・マレーシアに上場し、IPO当時は約112,600名の入植者が経営する約500,000ヘクタールを管理していた。"
 
 lang: "ja"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

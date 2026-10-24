@@ -37,7 +37,7 @@ faq:
     a: "DE Rantau एक मलेशिया डिजिटल उत्प्रेरक कार्यक्रम है जो मलेशिया को आसियान में डिजिटल-नोमैड केंद्र बनाने के लिए है। यह मलेशिया डिजिटल नोमैड पास जारी करता है, जो 12 महीने तक वैध और नवीकरणीय है।"
 
 lang: "hi"
-sourceContentHash: "bfede7bb53cd6174"
+sourceContentHash: "8060843a4455d16b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

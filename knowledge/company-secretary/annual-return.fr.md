@@ -41,7 +41,7 @@ verificationNeeded:
   - "Confirmer ce que la Companies (Amendment) Act 2024 (Act A1701) a modifié à l'art. 68, ce qui relève de sa portée modificative, et si toute modification est déjà en vigueur"
 
 lang: "fr"
-sourceContentHash: "333c372fcdca64b9"
+sourceContentHash: "6b555ea5ac7d9563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

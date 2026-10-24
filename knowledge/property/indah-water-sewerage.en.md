@@ -24,7 +24,7 @@ appliesTo: "Homeowners, tenants, strata management bodies and business operators
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b457bd9b79e09115"
+sourceContentHash: "86c5f583e8e5025c"
 
 status: "published"
 aiAssisted: true

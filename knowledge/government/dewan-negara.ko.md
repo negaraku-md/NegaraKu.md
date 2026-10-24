@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "말레이시아의 상원의원이 어떻게 선출·임명되는지, 그리고 상원(Dewan Negara)이 법안의 진행에 어느 정도까지 영향을 미칠 수 있는지를 서술적으로 이해하고자 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "795be8860e769da6"
+sourceContentHash: "344b9bed4a29fc5f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -24,7 +24,7 @@ appliesTo: "マレーシアの上院議員がどのように選出・任命さ�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "795be8860e769da6"
+sourceContentHash: "344b9bed4a29fc5f"
 
 status: "published"
 aiAssisted: true

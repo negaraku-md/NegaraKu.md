@@ -29,7 +29,7 @@ faq:
     a: "Il s'agit notamment des personnes qui participent à des activités à haut risque, des donneuses enceintes, menstruées ou allaitantes, de toute personne ayant vécu au Royaume-Uni pendant 6 mois ou plus (cumulés) entre 1980 et 1996, ou ayant vécu dans un pays européen pendant 5 ans ou plus (cumulés) de 1980 à aujourd'hui, dans les deux cas en raison du risque de vMCJ."
 
 lang: "fr"
-sourceContentHash: "241fb7f03a5cd3d3"
+sourceContentHash: "5468a77cc086e2e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

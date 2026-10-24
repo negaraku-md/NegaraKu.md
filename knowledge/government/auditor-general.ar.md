@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "الطلاب، والباحثون، والصحفيون، وكل من يريد فهم الأساس الدستوري ووظائف دائرة التدقيق الوطنية (Jabatan Audit Negara) وتقرير المدقّق العام."
 
 lang: "ar"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

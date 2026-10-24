@@ -26,7 +26,7 @@ verificationNeeded:
   - "Rincian vaksin tambahan/pilihan (misalnya vaksin tidak wajib yang disediakan secara berbayar) tidak dapat diverifikasi pada sumber resmi KKM saat penulisan dan oleh karena itu tidak dinyatakan secara khusus dalam artikel ini."
 
 lang: "id"
-sourceContentHash: "e3c51524a621f167"
+sourceContentHash: "82fc03d17115b374"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

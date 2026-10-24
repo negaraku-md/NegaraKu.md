@@ -34,7 +34,7 @@ faq:
     a: "कृषि एवं खाद्य सुरक्षा मंत्रालय (KPKM), धान उद्योग विकास प्रभाग के माध्यम से, किसान संगठन प्राधिकरण (LPP), MADA और KADA जैसी कार्यान्वयन एजेंसियों के साथ, जो अपने-अपने अन्न-भंडार क्षेत्रों में काम करती हैं।"
 
 lang: "hi"
-sourceContentHash: "0db45e7ee2f93134"
+sourceContentHash: "9f58d81c18221355"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

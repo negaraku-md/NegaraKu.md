@@ -29,7 +29,7 @@ faq:
     a: "いいえ。Belanjawanku は「適正生活賃金」すなわち快適な生活のための支出を測定するものであり、生存に必要な基本的ニーズのみを反映する貧困線よりも高い水準である。"
 
 lang: "ja"
-sourceContentHash: "178a5bff85bb62f4"
+sourceContentHash: "384e7d4c05e2a6eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

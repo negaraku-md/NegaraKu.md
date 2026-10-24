@@ -29,7 +29,7 @@ faq:
     a: "Primary jurisdiction lies with the state Islamic religious departments/councils, because Islamic religious affairs are a state matter under the Constitution. JAKIM coordinates at the federal level, while building safety requirements involve the Local Authorities and the Fire Department."
 
 lang: "en"
-sourceContentHash: "e8c71a5517740e23"
+sourceContentHash: "b8ecf4cacb65882a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

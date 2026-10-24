@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो यह तय करने का प्रयास कर रहा है कि मलेशिया में किसी दी गई समस्या के लिए सरकार के किस स्तर से संपर्क करना है, या जो समझना चाहता है कि वह एक सांसद और एक राज्य विधायक के लिए मतदान क्यों कर सकता है लेकिन एक स्थानीय पार्षद के लिए नहीं।"
 
 lang: "hi"
-sourceContentHash: "2ede7abafa3eb008"
+sourceContentHash: "3aeed48391a5a422"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

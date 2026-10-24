@@ -38,7 +38,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "9e29133ebe5daedf"
+sourceContentHash: "7bbb4ca3cdb29e8e"
 sources:
   - title: "Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Seksyen C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah (Garis Panduan Pengenaan Duti Setem Bagi Surat Cara Yang Tertakluk Kepada Jadual Pertama Akta Setem 1949 (LHDN.AG.600-1/10/3) — Section C, Pengenaan Duti Setem Ke Atas Surat Cara Pindah Milik Harta Tanah)"
     url: "https://www.hasil.gov.my/wp-content/uploads/garis-panduan-pengenaan-duti-setem-jadual-pertama-as-1949.pdf"

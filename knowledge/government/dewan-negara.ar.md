@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل من يريد أن يفهم، وصفياً، كيف يُنتخَب السيناتورات الماليزيون ويُعيَّنون، وإلى أي مدى يستطيع مجلس الشيوخ أن يؤثّر في مرور مشروع قانون."
 
 lang: "ar"
-sourceContentHash: "795be8860e769da6"
+sourceContentHash: "344b9bed4a29fc5f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

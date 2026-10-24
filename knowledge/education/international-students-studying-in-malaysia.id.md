@@ -33,7 +33,7 @@ faq:
     a: "Kedua jenis dapat disetujui untuk menerima mahasiswa internasional, tetapi ia berada di bawah bagian kerangka Pas Pelajar yang berbeda dan biasanya berbeda dari segi program dan kapasitas pengambilan yang terbuka untuk pemohon asing dibandingkan pemohon lokal. Sahkan langsung dengan kantor internasional institusi tersebut program sasaran mana yang terbuka untuk pendaftaran bukan warga negara sebelum melamar."
 
 lang: "id"
-sourceContentHash: "b1b055e68d2a5111"
+sourceContentHash: "7261a5b72201747a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

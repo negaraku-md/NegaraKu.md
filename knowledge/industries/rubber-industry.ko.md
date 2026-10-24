@@ -34,7 +34,7 @@ faq:
     a: "중국이 단연 최대 대상지로, 2024년 12월 천연고무 수출의 약 49%를 차지했으며, 그다음으로 독일(12.9%), 아랍에미리트(7.3%), 미국, 포르투갈이 뒤따랐습니다."
 
 lang: "ko"
-sourceContentHash: "8dca8d58fbcc1a41"
+sourceContentHash: "26170231d376fbab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

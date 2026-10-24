@@ -40,7 +40,7 @@ verificationNeeded:
   - "Verifikasi formulir yang ditetapkan SSM terkini dan biaya apa pun untuk pemberitahuan s.58 penunjukan sekretaris terhadap panduan pengajuan langsung SSM, mengingat MBRS 2.0 telah mengubah jalur penyerahan"
 
 lang: "id"
-sourceContentHash: "87bd6be0702424fa"
+sourceContentHash: "3fa25b3879bb1c66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

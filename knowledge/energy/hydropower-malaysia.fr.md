@@ -32,7 +32,7 @@ faq:
     a: "Non. Le barrage de Baram, qui devait inonder 412 km² et déplacer ~20,000 personnes, a été suspendu par un moratoire en 2015 et officiellement annulé en 2016 à la suite de protestations autochtones soutenues."
 
 lang: "fr"
-sourceContentHash: "3900760aacdbc30f"
+sourceContentHash: "1464aa447b7252c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

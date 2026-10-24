@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne à la recherche d'un logement en location en Malaisie, qu'elle loue pour la première fois sur place ou organise une location depuis l'étranger."
 
 lang: "fr"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

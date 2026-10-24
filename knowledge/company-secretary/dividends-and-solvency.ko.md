@@ -45,7 +45,7 @@ obligations:
     statute: "Companies Act 2016, s.132(4)"
     consequence: "s.132(5)에 따라 최대 5년의 징역 또는 RM3,000,000 이하의 벌금 또는 그 병과의 책임, 그리고 s.133(2)에 따른 개인 책임"
 lang: "ko"
-sourceContentHash: "0f48f4bee9e4e684"
+sourceContentHash: "b43e6c4ddfee7b65"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

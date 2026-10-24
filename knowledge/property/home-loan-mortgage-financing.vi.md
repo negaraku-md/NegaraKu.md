@@ -35,7 +35,7 @@ faq:
     a: "Thuế trước bạ là 0,5% trên tổng khoản vay theo Luật Thuế trước bạ 1949 (Stamp Act 1949). Ví dụ, khoản vay RM450,000 chịu thuế RM2,250. Việc nộp phải được thực hiện trong vòng 30 ngày kể từ ngày ký hợp đồng."
 
 lang: "vi"
-sourceContentHash: "9739f168cee000e2"
+sourceContentHash: "b1c14566767fa9fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

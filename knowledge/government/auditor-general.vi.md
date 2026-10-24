@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Sinh viên, nhà nghiên cứu, nhà báo và bất kỳ ai muốn hiểu cơ sở hiến định và chức năng của Cục Kiểm toán Nhà nước cùng Báo cáo của Tổng Kiểm toán Nhà nước."
 
 lang: "vi"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

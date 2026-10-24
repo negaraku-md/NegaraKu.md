@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كلّ من يبحث عن مسكن للإيجار في ماليزيا، سواء كان يستأجر محليًا للمرّة الأولى أو يرتّب عقد إيجار من الخارج."
 
 lang: "ar"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

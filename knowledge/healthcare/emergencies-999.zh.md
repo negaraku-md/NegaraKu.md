@@ -46,7 +46,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "492fe31c078f6681"
+sourceContentHash: "2f1b3605919630fa"
 sources:
   - title: "马来西亚紧急应变服务（MERS）999 (Malaysia Emergency Response Services (MERS) 999)"
     url: "https://www.malaysia.gov.my/my/my-initiative/keselamatan-siber-dan-tindak-balas-serta-pemulihan-bencana/tindak-balas-serta-pemulihan-bencana/malaysia-emergency-response-services-mers-999"

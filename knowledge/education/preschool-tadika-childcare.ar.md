@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "الآباء أو الأوصياء في ماليزيا الذين يحاولون فهم خيارات رعاية الطفل والتعليم المبكر قبل السنة الأولى، وكذلك كل من يريد إنشاء taska أو tadika ويحتاج إلى معرفة السلطات المعنية."
 
 lang: "ar"
-sourceContentHash: "5be629c8e1fa0846"
+sourceContentHash: "9f44a6a22be9e0f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

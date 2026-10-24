@@ -29,7 +29,7 @@ faq:
     a: "2023 年 2 月提呈国会的总审计长报告披露，300 万名疫苗接种者的个人信息在 2021 年 10 月 28 至 31 日期间，通过 MyVAS 系统的一个「Super Admin」超级管理员账户被下载。"
 
 lang: "zh"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

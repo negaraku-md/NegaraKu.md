@@ -31,7 +31,7 @@ faq:
     a: "لجنة الطاقة (Suruhanjaya Tenaga) هي المنظّم الرئيسي. وتنفّذ SEDA ماليزيا برنامج NEM، في حين ينسّق Single Buyer (التابع لـ TNB) برامج السوق مثل CGPP وCRESS وCREAM."
 
 lang: "ar"
-sourceContentHash: "6c4b5196403b953f"
+sourceContentHash: "69ed2a98233b72ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

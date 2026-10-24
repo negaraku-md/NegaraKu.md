@@ -29,7 +29,7 @@ faq:
     a: "Los límites en ringgit se actualizan en cada ronda de la encuesta (aproximadamente cada dos años) y suben con el crecimiento de los ingresos. Muchas de las cifras de «hasta RMx,xxx» que circulan en internet son en realidad de rondas más antiguas."
 
 lang: "es"
-sourceContentHash: "26ffee570df18e65"
+sourceContentHash: "0bad0b514a07b6bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

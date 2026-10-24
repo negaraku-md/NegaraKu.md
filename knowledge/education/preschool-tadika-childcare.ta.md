@@ -23,7 +23,7 @@ appliesTo: "பள்ளியின் முதலாம் ஆண்டுக
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5be629c8e1fa0846"
+sourceContentHash: "9f44a6a22be9e0f4"
 
 status: "published"
 aiAssisted: true

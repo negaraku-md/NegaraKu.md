@@ -29,7 +29,7 @@ faq:
     a: "Pour les particuliers, une amende pouvant atteindre RM100,000 et/ou une peine d'emprisonnement pouvant atteindre 3 ans pour une première infraction, et jusqu'à RM250,000 et/ou 5 ans pour une infraction ultérieure. Pour les personnes morales, une amende pouvant atteindre RM500,000, et jusqu'à RM1 million pour une infraction ultérieure."
 
 lang: "fr"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

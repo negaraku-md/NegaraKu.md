@@ -28,7 +28,7 @@ faq:
     a: "The CCC confirms that the house was built in accordance with the approved plans and is safe to occupy. Without the CCC, the building is officially not fit for occupation and utility supply can be affected."
 
 lang: "en"
-sourceContentHash: "47b5179ed98be754"
+sourceContentHash: "a8a8202635252bef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

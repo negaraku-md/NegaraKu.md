@@ -27,7 +27,7 @@ faq:
   - q: "Một công ty có thể mua năng lượng tái tạo mà không cần lắp đặt các tấm pin của riêng mình như thế nào?"
     a: "Chương trình Điện Xanh Doanh nghiệp (CGPP) cho phép một người tiêu dùng doanh nghiệp ký một thỏa thuận mua điện ảo với một nhà sản xuất điện mặt trời để mua năng lượng tái tạo và các thuộc tính xanh của nó, với nguồn cung ổn định được tiện ích hậu thuẫn. Hạn ngạch 800 MW của nó được đăng ký hết vào tháng 11 năm 2023. Các doanh nghiệp bỏ lỡ nó có thể dùng Chương trình Cung cấp Năng lượng Tái tạo cho Doanh nghiệp (CRESS), được khởi động vào tháng 9 năm 2024, vốn giao điện xanh qua lưới điện của TNB với một Phí Tiếp cận Hệ thống."
 lang: "vi"
-sourceContentHash: "739ef0391be9be93"
+sourceContentHash: "d9838f1e57d307b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

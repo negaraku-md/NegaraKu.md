@@ -31,7 +31,7 @@ faq:
     a: "여러 품종 중에서 MARDI는 MR 계열(예: MR 297, MR 219), 향미(香米) MRQ 품종, 그리고 말레이시아 최초의 하이브리드 벼인 KADARIA 1을 보급했습니다."
 
 lang: "ko"
-sourceContentHash: "29fcbde70a256bf1"
+sourceContentHash: "9bb5af4c19ea1667"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "La Chine est de loin la première destination, absorbant environ 49% des exportations de caoutchouc naturel en décembre 2024, suivie de l'Allemagne (12.9%), des Émirats arabes unis (7.3%), des États-Unis et du Portugal."
 
 lang: "fr"
-sourceContentHash: "8dca8d58fbcc1a41"
+sourceContentHash: "26170231d376fbab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

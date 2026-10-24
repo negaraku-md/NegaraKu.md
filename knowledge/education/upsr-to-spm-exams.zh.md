@@ -23,7 +23,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4ac5d1a1458b81d6"
+sourceContentHash: "19a7917a0ffae099"
 status: "published"
 aiAssisted: true
 reviewer: null

@@ -29,7 +29,7 @@ faq:
     a: "Lazimnya tidak. Beasiswa penuh seperti JPA dan MARA biasanya mengharuskan pelajar melepaskan PTPTN untuk jenjang pendidikan yang sama. Periksa syarat perjanjian penaja masing-masing."
 
 lang: "id"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

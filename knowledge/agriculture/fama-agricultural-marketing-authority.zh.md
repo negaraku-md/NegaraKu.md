@@ -31,7 +31,7 @@ faq:
     a: "生产者可透过 FAMA 的渠道直接销售给消费者，例如固定农民市集（Pasar Tani Kekal）、Agrobazaar、My Farm Outlet 及鲜果摊（Gerai Buah-buahan Segar），或参与合约农耕（Ladang Kontrak）及 RANTAI 等计划。参与详情请在 fama.gov.my 查证。"
 
 lang: "zh"
-sourceContentHash: "f18be1d4180f5dbb"
+sourceContentHash: "63ddd6b5ce85bb78"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

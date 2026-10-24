@@ -23,7 +23,7 @@ appliesTo: "在马来西亚面临专科会诊或私立机构住院的任何人�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ae428a676e96d0c6"
+sourceContentHash: "dfd6a5748ec5074b"
 
 status: "published"
 aiAssisted: true

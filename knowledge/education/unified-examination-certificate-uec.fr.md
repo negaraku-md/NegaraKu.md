@@ -30,7 +30,7 @@ faq:
     a: "Oui. Le malais est une matière obligatoire dans le système UEC. De nombreux élèves de l'UEC se présentent aussi au SPM en tant que candidats libres ; Dong Zong rapporte que le taux de réussite en malais au SPM parmi les élèves des écoles secondaires chinoises indépendantes a dépassé 96% pour les années 2022-2024 (97.38% en 2022, 97.11% en 2023 et 96.65% en 2024), en utilisant la même épreuve SPM que les autres candidats."
 
 lang: "fr"
-sourceContentHash: "899b0fd9ce10c90d"
+sourceContentHash: "1f2605f6949b7811"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

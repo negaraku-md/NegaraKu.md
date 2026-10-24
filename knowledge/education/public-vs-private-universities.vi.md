@@ -23,7 +23,7 @@ verificationNeeded:
   - "Bài viết này không nêu số lượng tuyển sinh của chương trình, tỷ lệ chỉ tiêu, hay con số học phí cụ thể cho bất kỳ cơ sở nào — những điều này thay đổi theo chương trình và cơ sở và thay đổi mỗi đợt tuyển; hãy xác nhận trực tiếp với e-Panduan của UPU (đối với các trường đại học công lập) hoặc từng cơ sở (đối với các trường đại học tư thục) trước khi nộp đơn."
   - "Con số chính xác hiện tại của các cơ sở IPTS đã đăng ký không được nêu ở đây vì các bảng thống kê công bố của MOHE (Statistik Pendidikan Tinggi) chưa được mở đầy đủ cho bài viết này — để có một con số chính xác, hiện hành, hãy tham khảo trực tiếp ấn phẩm Statistik Pendidikan Tinggi của MOHE."
 lang: "vi"
-sourceContentHash: "8368ed6f49bb9158"
+sourceContentHash: "6b715cdf26e90660"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

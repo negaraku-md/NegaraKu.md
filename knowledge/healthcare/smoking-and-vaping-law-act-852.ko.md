@@ -30,7 +30,7 @@ faq:
     a: "아닙니다. 852법은 모든 담배 및 베이프 제품을 온라인 플랫폼과 자판기를 통해 판매하는 것을 금지합니다."
 
 lang: "ko"
-sourceContentHash: "41eadbd4f391ff30"
+sourceContentHash: "47453ebb80993a06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

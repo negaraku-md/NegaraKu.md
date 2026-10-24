@@ -32,7 +32,7 @@ faq:
     a: "El Reglamento de la UE sobre Deforestación define los productos como «libres de deforestación» solo si se cultivan en tierras no deforestadas después del 31 de diciembre de 2020 (Reglamento (UE) 2023/1115, artículo 2). Exige geolocalización a nivel de parcela (cartografía de polígonos), algo técnicamente difícil de producir por sí mismos para agricultores pequeños, a menudo de edad avanzada y remotos."
 
 lang: "es"
-sourceContentHash: "88d679107671675c"
+sourceContentHash: "f19a6853ff95da87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

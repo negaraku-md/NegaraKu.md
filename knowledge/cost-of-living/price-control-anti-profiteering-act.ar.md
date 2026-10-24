@@ -29,7 +29,7 @@ faq:
     a: "بالنسبة للأفراد، غرامة تصل إلى RM100,000 و/أو السجن حتى 3 سنوات عن المخالفة الأولى، وحتى RM250,000 و/أو 5 سنوات عن المخالفة اللاحقة. وبالنسبة للأشخاص الاعتباريين، غرامة تصل إلى RM500,000، وحتى RM1 مليون عن المخالفة اللاحقة."
 
 lang: "ar"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

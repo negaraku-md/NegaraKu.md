@@ -36,7 +36,7 @@ faq:
     a: "3층 구조입니다. 즉 총리가 의장인 국가위원회, MITI 장관이 이끄는 운영위원회, 그리고 MITI 사무총장(KSU)이 이끄는 전달관리단입니다."
 
 lang: "ko"
-sourceContentHash: "edde30241ce67971"
+sourceContentHash: "e162231616cff40d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

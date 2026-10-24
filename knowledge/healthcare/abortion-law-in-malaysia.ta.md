@@ -31,7 +31,7 @@ faq:
     a: "சுகாதார அமைச்சின் (Ministry of Health, KKM) 2012 வழிகாட்டுதல்கள், கர்ப்பம் நிறுத்துதலை 22 வாரங்களுக்குக் குறைவான கர்ப்பகால வயதில் செய்யப்படும் ஒரு செயல்முறையாக, அல்லது வயது தெரியாதபோது கரு 500 கிராமுக்குக் குறைவாக இருக்கும் என மதிப்பிடப்படும்போது வரையறுக்கின்றன."
 
 lang: "ta"
-sourceContentHash: "58e08ea86f967964"
+sourceContentHash: "ae2bf4ced7e95cfe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

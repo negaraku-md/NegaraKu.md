@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "प्रायद्वीपीय मलेशिया के घर-स्वामी, भूमि-स्वामी और संपत्ति-ख़रीदार जिन्हें अपने वार्षिक संपत्ति-कर बिलों को समझना है।"
 
 lang: "hi"
-sourceContentHash: "466dc843a0553a23"
+sourceContentHash: "b2facf160acd431e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

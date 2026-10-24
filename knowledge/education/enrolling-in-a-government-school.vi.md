@@ -20,7 +20,7 @@ keyTakeaways:
   - "Nhập học sớm (dưới tuổi) và hoãn nhập học Lớp 1 đều tồn tại như các chính sách chính thức riêng biệt — đơn xin được nộp qua JPN, không qua hệ thống idMe thông thường, và việc hoãn là một đặc ân (privilege), không phải một quyền tự động"
 appliesTo: "Cha mẹ hoặc người giám hộ là công dân Malaysia có con sắp vào Lớp 1 trường tiểu học công lập hoặc Khối 1 trường trung học công lập."
 lang: "vi"
-sourceContentHash: "0c89415b8941ca0c"
+sourceContentHash: "10e50c8f9bbc2e3a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

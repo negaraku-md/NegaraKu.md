@@ -30,7 +30,7 @@ faq:
     a: "NEM 3.0 计划已于 2025 年 6 月底结束。它由自 2026 年 1 月 1 日起生效的 Solar ATAP 取代，Solar ATAP 没有总配额上限，通过 SEDA 的 eATAP 门户 atap.seda.gov.my 管理。"
 
 lang: "zh"
-sourceContentHash: "2d635eb062db955f"
+sourceContentHash: "be2f436c93cd6331"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

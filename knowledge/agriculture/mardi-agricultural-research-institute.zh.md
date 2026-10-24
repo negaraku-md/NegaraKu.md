@@ -31,7 +31,7 @@ faq:
     a: "在众多品种中，MARDI 释放了 MR 系列（如 MR 297 和 MR 219）、香米 MRQ 系列，以及马来西亚首个杂交水稻 KADARIA 1。"
 
 lang: "zh"
-sourceContentHash: "29fcbde70a256bf1"
+sourceContentHash: "9bb5af4c19ea1667"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

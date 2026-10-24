@@ -24,7 +24,7 @@ appliesTo: "毎年の不動産税の請求書を理解する必要がある、�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "466dc843a0553a23"
+sourceContentHash: "b2facf160acd431e"
 
 status: "published"
 aiAssisted: true

@@ -62,7 +62,7 @@ obligations:
     consequence: "Phạt tiền không quá RM10,000 và một khoản tiền phạt thêm không quá RM500 mỗi ngày cho một tội danh tiếp diễn"
 
 lang: "vi"
-sourceContentHash: "f0ea473a322d2106"
+sourceContentHash: "0425dfb1cc783762"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

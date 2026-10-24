@@ -30,7 +30,7 @@ faq:
     a: "يتوقّف ذلك على إعلان البيع. فالمشترون يرثون عادةً متأخّرات ريع الأرض (quit rent) وضريبة التقييم (cukai pintu) ورسوم الصيانة والمرافق ما لم ينصّ إعلان البيع (POS) على أن المصرف سيسدّدها من الحصيلة. اقرأ إعلان البيع دائمًا قبل تقديم العطاء."
 
 lang: "ar"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

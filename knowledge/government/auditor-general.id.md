@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Pelajar, peneliti, wartawan dan siapa saja yang ingin memahami dasar konstitusional dan fungsi Jabatan Audit Negara serta Laporan Ketua Audit Negara."
 
 lang: "id"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

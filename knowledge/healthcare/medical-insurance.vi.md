@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Người lao động đang cân nhắc giữa bảo hiểm y tế của người sử dụng lao động và một thẻ y tế cá nhân, cùng bất kỳ ai đang cố hiểu 'đồng chi trả' nghĩa là gì trước khi mua hoặc gia hạn một hợp đồng."
 
 lang: "vi"
-sourceContentHash: "7e22fc5e8613df5f"
+sourceContentHash: "f3d82432e2ef0103"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

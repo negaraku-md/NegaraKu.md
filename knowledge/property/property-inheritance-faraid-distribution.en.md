@@ -30,7 +30,7 @@ faq:
     a: "A small estate containing immovable property and valued below RM5 million is handled by the Land Administrator through the District Land Office, which issues a Distribution Order."
 
 lang: "en"
-sourceContentHash: "569aa98893242689"
+sourceContentHash: "34023c075e010a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

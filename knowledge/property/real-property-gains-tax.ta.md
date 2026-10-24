@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 
 status: "published"
 aiAssisted: true

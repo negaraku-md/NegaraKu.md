@@ -34,7 +34,7 @@ faq:
     a: "Yes. ASF was declared endemic in Malaysia in August 2025. Major outbreaks occurred in Selangor (76,000 pigs across 57 farms) and Penang, with infected livestock culled to contain the spread (CodeBlue)."
 
 lang: "en"
-sourceContentHash: "28ee8ace3a3090da"
+sourceContentHash: "bc890674eee634f7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

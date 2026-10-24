@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ผู้ใดก็ตามในมาเลเซียที่กำลังเผชิญการปรึกษาผู้เชี่ยวชาญหรือการเข้ารักษาในโรงพยาบาลที่สถานพยาบาลเอกชน — ผู้ป่วย ผู้ดูแล และลูกจ้างที่พึ่งพาบัตรการแพทย์หรือประกันที่นายจ้างจัดให้"
 
 lang: "th"
-sourceContentHash: "ae428a676e96d0c6"
+sourceContentHash: "dfd6a5748ec5074b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

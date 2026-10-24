@@ -29,7 +29,7 @@ faq:
     a: "เส้นแบ่งริงกิตได้รับการปรับปรุงทุกรอบการสำรวจ (ประมาณสองปี) และเพิ่มขึ้นตามการเติบโตของรายได้ ตัวเลข 'สูงถึง RMx,xxx' จำนวนมากที่เผยแพร่ทางออนไลน์แท้จริงแล้วมาจากรอบเก่า"
 
 lang: "th"
-sourceContentHash: "26ffee570df18e65"
+sourceContentHash: "0bad0b514a07b6bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

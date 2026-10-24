@@ -34,7 +34,7 @@ faq:
     a: "Ya. ASF dinyatakan berstatus endemik di Malaysia pada Agustus 2025. Wabah besar terjadi di Selangor (76,000 babi di 57 ladang) dan Pulau Pinang, dengan ternak yang terinfeksi dimusnahkan untuk membendung penularan (CodeBlue)."
 
 lang: "id"
-sourceContentHash: "28ee8ace3a3090da"
+sourceContentHash: "bc890674eee634f7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

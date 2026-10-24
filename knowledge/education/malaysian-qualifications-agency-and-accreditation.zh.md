@@ -32,7 +32,7 @@ faq:
     a: "需要。任何在马来西亚运营的高等教育提供者所开办的课程，包括外国分校，都在 MQF 之下接受素质保证，并出现在 MQR 中。一些具规模的大学拥有自我认证资格，这使它们有权依据 MQF 认证自己的课程，并将这些课程登记于 MQR。"
 
 lang: "zh"
-sourceContentHash: "ce3f16b64b60d59b"
+sourceContentHash: "35dc11bf078ce7cc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -24,7 +24,7 @@ appliesTo: "Sesiapa yang menyewa atau menyewakan hartanah kediaman di Malaysia â
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d779e96ef436f16d"
+sourceContentHash: "846d66a2a34a7e98"
 
 status: "published"
 aiAssisted: true

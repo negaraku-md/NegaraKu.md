@@ -26,7 +26,7 @@ faq:
     a: "पहली गलती के लिए, RM30,000 से अनधिक जुर्माना या 2 वर्ष से अनधिक कारावास, या दोनों। उसके बाद की गलतियों पर RM50,000 तक या 3 वर्ष तक कारावास।"
 
 lang: "hi"
-sourceContentHash: "86f8ad16efa02a93"
+sourceContentHash: "63b512945cff4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

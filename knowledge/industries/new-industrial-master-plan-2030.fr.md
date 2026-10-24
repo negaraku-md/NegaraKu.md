@@ -36,7 +36,7 @@ faq:
     a: "Une structure à trois niveaux : un Conseil national présidé par le Premier ministre, un Comité directeur dirigé par le ministre du MITI et une Unité de gestion de l'exécution dirigée par le Secrétaire général (KSU) du MITI."
 
 lang: "fr"
-sourceContentHash: "edde30241ce67971"
+sourceContentHash: "e162231616cff40d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

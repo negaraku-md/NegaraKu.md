@@ -30,7 +30,7 @@ faq:
     a: "According to the MOE, operating an unregistered private educational institution can incur a penalty of RM30,000 or 2 years' imprisonment or both."
 
 lang: "en"
-sourceContentHash: "2879304f7041420a"
+sourceContentHash: "7a7bd84a3f614a0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

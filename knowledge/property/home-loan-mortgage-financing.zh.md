@@ -35,7 +35,7 @@ faq:
     a: "根据《1949年印花税法令》（Akta Setem 1949），印花税为贷款总额的0.5%。例如，RM450,000的贷款须缴付RM2,250的印花税。缴款须在协议签署之日起30天内完成。"
 
 lang: "zh"
-sourceContentHash: "9739f168cee000e2"
+sourceContentHash: "b1c14566767fa9fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membeli, menjual atau menilai properti di Malaysia yang perlu memahami apa sebenarnya yang dijanjikan oleh jangka kepemilikan dan jenis hak milik dalam suatu listing."
 
 lang: "id"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

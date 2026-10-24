@@ -34,7 +34,7 @@ faq:
     a: "Không có luật riêng về HIV. Các điều khoản chung của Bộ luật Hình sự như mục 269 và 270 có thể áp dụng cho việc lây lan bệnh nguy hiểm, tuy nhiên chưa có vụ truy tố HIV nào được biết đến cho đến nay."
 
 lang: "vi"
-sourceContentHash: "c335daac63ec7a97"
+sourceContentHash: "1cab11648c701e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

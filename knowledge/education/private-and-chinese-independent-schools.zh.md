@@ -23,7 +23,7 @@ appliesTo: "正在国民学校、私立国民课程学校与华文独立中学�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ea334d9ab0b14453"
+sourceContentHash: "6e235692a71d508a"
 
 status: "published"
 aiAssisted: true

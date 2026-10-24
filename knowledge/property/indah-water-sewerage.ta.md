@@ -24,7 +24,7 @@ appliesTo: "IWK உண்மையில் யார், அவர்கள் 
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b457bd9b79e09115"
+sourceContentHash: "86c5f583e8e5025c"
 
 status: "published"
 aiAssisted: true

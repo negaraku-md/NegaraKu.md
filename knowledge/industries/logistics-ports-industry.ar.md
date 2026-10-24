@@ -34,7 +34,7 @@ faq:
     a: "احتلت ماليزيا المرتبة الـ26 في مؤشر أداء الخدمات اللوجستية للبنك الدولي 2023، صعوداً من الـ41 في 2018، والثانية بين دول آسيان بعد سنغافورة."
 
 lang: "ar"
-sourceContentHash: "5308f8757b834449"
+sourceContentHash: "28b83f8fb5bdfc96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "تؤكّد الحكومة أنها ليست كذلك. فمبادرات مثل Rakan KKM تُقدَّم بوصفها نموذجًا للاحتفاظ بالأخصائيين في القطاع العام، لا خصخصةً، مع أن بعض المراقبين يظلّون حذرين إزاء آثارها على المدى الطويل."
 
 lang: "ar"
-sourceContentHash: "f5aff2ea91b18549"
+sourceContentHash: "cbb5bd100c475cf3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

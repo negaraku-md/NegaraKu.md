@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "국내에서 처음 임차하든 해외에서 임차를 마련하든, 말레이시아에서 임차 주택을 찾는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

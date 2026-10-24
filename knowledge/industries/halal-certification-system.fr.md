@@ -36,7 +36,7 @@ faq:
     a: "Le Manuel de procédure stipule que l'autorité compétente traite directement avec l'entreprise ou le demandeur, sans passer par un tiers ou un intermédiaire tel qu'un consultant. Les consultants peuvent aider à préparer les documents, mais la demande et les communications officielles restent entre le demandeur et JAKIM/MAIN/JAIN."
 
 lang: "fr"
-sourceContentHash: "7bb5b6fb5326f994"
+sourceContentHash: "7e400c117bf0341f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

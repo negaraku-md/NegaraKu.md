@@ -32,7 +32,7 @@ faq:
     a: "Kadangkala. MMC lebih mengutamakan perundingan maya sebagai susulan selepas hubungan doktor-pesakit yang sedia ada, tetapi membenarkan perundingan kali pertama dalam talian, terutamanya dalam penjagaan primer, jika doktor mendokumenkan alasannya. Doktor diarahkan untuk berhati-hati tentang menetapkan preskripsi kepada pesakit yang belum mereka periksa secara peribadi dan untuk merujuk anda secara bersemuka apabila medium dalam talian tidak mencukupi untuk menilai anda dengan selamat."
 
 lang: "ms"
-sourceContentHash: "abe1f652bf3edc8b"
+sourceContentHash: "d63421290bd45b29"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

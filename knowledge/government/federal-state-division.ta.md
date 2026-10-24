@@ -25,7 +25,7 @@ appliesTo: "மலேசியாவில் ஒரு குறிப்பி
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d234775add600d74"
+sourceContentHash: "a1e4d48e96f45459"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

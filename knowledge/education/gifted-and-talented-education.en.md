@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar is UKM's pre-university foundation programme for gifted and talented students, offered in three streams: Perdana, Commercial and International."
 
 lang: "en"
-sourceContentHash: "35e2f3422be13be3"
+sourceContentHash: "e8dbefcac0cbb3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

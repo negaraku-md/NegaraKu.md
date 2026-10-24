@@ -32,7 +32,7 @@ faq:
     a: "Le Département des territoires fédéraux (JWP), relevant du Département du Premier ministre, coordonne la politique et le développement dans les trois territoires au niveau fédéral, tandis que DBKL, la Corporation de Putrajaya et la Corporation de Labuan sont les autorités locales qui mènent les affaires quotidiennes telles que la délivrance de licences, l'urbanisme et les services municipaux dans leurs territoires respectifs."
 
 lang: "fr"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,3 +153,5 @@ Cette fonction a jadis été détenue par un ministère à part entière — le 
 ## Ce qui suit
 
 Pour comprendre pourquoi « toutes les matières relatives aux Territoires fédéraux » relèvent de la Fédération plutôt que des États, lisez la [répartition des compétences Fédération–État](/fr/government/federal-state-division). Pour voir l'institution qui n'existe pas dans ces territoires, voir l'[Assemblée législative d'État (DUN)](/fr/government/state-assemblies-dun). Pour les chambres qui représentent les résidents des territoires au Parlement, voir le [Dewan Rakyat](/fr/government/dewan-rakyat) et le [Dewan Negara](/fr/government/dewan-negara). Et pour la vue d'ensemble des niveaux de gouvernement de la Malaisie, voir les [trois niveaux de gouvernement](/fr/government/three-tiers-of-government).
+
+Vous voulez comprendre comment la Malaisie est gouvernée ? Voyez [les trois niveaux de gouvernement de la Malaisie](/fr/government/three-tiers-of-government/).

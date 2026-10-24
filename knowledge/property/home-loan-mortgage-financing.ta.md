@@ -35,7 +35,7 @@ faq:
     a: "முத்திரை வரி Akta Setem 1949-இன் கீழ் கடன் தொகையில் 0.5%. எடுத்துக்காட்டாக, RM450,000 கடனுக்கு RM2,250 வரி விதிக்கப்படுகிறது. ஒப்பந்தம் கையெழுத்திடப்பட்ட தேதியிலிருந்து 30 நாட்களுக்குள் செலுத்த வேண்டும்."
 
 lang: "ta"
-sourceContentHash: "9739f168cee000e2"
+sourceContentHash: "b1c14566767fa9fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

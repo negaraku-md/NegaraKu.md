@@ -34,7 +34,7 @@ faq:
     a: "يتيح وصول الأطراف الثالثة (TPA) للناقلين المؤهّلين، لا بيتروناس وحدها، حجز سعة على محطات إعادة التغويز وأنابيب النقل وأنابيب التوزيع بالشروط نفسها. وقد بدأ في 16 يناير 2017 بموجب قانون إمداد الغاز (المعدِّل) لسنة 2016 (Gas Supply (Amendment) Act 2016) وتنظّمه لجنة الطاقة (Suruhanjaya Tenaga)."
 
 lang: "ar"
-sourceContentHash: "20fa31d4431394c5"
+sourceContentHash: "4e24ddc5a51e8881"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

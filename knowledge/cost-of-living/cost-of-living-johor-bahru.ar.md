@@ -27,7 +27,7 @@ verificationNeeded:
   - "لم يمكن العثور على مؤشر إيجار رسمي خاص بجوهور بهرو؛ والعبارات بشأن ضغط الإيجار الناشئ عن الطلب المرتبط بسنغافورة نوعية، غير مدعومة برقم منشور."
 
 lang: "ar"
-sourceContentHash: "8dc6ca7c0ae8183c"
+sourceContentHash: "b3fe7bab59216408"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

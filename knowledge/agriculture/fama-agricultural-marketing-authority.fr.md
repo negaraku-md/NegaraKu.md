@@ -31,7 +31,7 @@ faq:
     a: "Les producteurs peuvent commercialiser directement auprès des consommateurs par le biais des canaux de la FAMA, tels que les marchés permanents de producteurs, Agrobazaar, My Farm Outlet et les étals de fruits frais, ou participer à des programmes comme l'agriculture sous contrat et RANTAI. Les modalités de participation sont confirmées sur fama.gov.my."
 
 lang: "fr"
-sourceContentHash: "f18be1d4180f5dbb"
+sourceContentHash: "63ddd6b5ce85bb78"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

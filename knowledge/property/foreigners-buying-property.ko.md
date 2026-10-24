@@ -26,7 +26,7 @@ verificationNeeded:
   - "이전의 산업용지에 대한 주 당국 동의 면제를 폐지한 국가토지법 개정의 정확한 인용과 연도는 개정법 자체의 원문과 대조하여 확인할 수 없었습니다. 이는 직접 읽은 1차 조항이 아니라 서로 수렴하는 2차 법률 해설에 근거하여 여기에 기술됩니다."
 
 lang: "ko"
-sourceContentHash: "1bbfaf63848e0696"
+sourceContentHash: "108b77146a2f6cd9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

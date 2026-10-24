@@ -27,7 +27,7 @@ faq:
     a: "Không. Phí Bán lẻ RM10 mỗi tháng được miễn cho các hộ gia đình sử dụng 600 kWh hoặc ít hơn mỗi tháng."
 
 lang: "vi"
-sourceContentHash: "6f49b99389da2c61"
+sourceContentHash: "b885e498c8215018"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

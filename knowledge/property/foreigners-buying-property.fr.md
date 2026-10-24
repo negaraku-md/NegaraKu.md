@@ -27,7 +27,7 @@ verificationNeeded:
   - "La citation et l'année exactes de l'amendement au National Land Code qui a supprimé l'ancienne exemption des terres industrielles du consentement de l'Autorité de l'État n'ont pas pu être confirmées par rapport au texte même de la loi modificative ; elles sont décrites ici sur la base de commentaires juridiques secondaires convergents plutôt que d'une clause primaire lue directement."
 
 lang: "fr"
-sourceContentHash: "1bbfaf63848e0696"
+sourceContentHash: "108b77146a2f6cd9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

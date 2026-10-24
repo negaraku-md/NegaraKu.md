@@ -29,7 +29,7 @@ faq:
     a: "The Auditor General's Report tabled in Parliament in February 2023 revealed that the personal information of 3 million vaccine recipients had been downloaded through a 'Super Admin' account of the MyVAS system between 28 and 31 October 2021."
 
 lang: "en"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

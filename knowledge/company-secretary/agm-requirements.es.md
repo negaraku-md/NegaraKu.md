@@ -63,7 +63,7 @@ obligations:
     consequence: "La junta no queda válidamente convocada en virtud del art. 309"
 
 lang: "es"
-sourceContentHash: "51eee5534e5ccee0"
+sourceContentHash: "eee01adb6e2f742c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

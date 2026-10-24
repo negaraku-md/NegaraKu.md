@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8dc6ca7c0ae8183c"
+sourceContentHash: "b3fe7bab59216408"
 
 status: "published"
 aiAssisted: true

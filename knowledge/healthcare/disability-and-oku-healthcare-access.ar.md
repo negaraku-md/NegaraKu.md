@@ -31,7 +31,7 @@ faq:
     a: "تشمل مساعدة الأجهزة المساعِدة/الأطراف الصناعية (BAT) التابعة لـ JKM الكراسي المتحركة اليدوية أو الكهربائية، والأطراف الصناعية للساقين والذراعين، والمعينات السمعية، والعصي البيضاء، وآلات برايل، وفق السعر الفعلي المحدّد للجهاز."
 
 lang: "ar"
-sourceContentHash: "eb1c377cbf19305d"
+sourceContentHash: "f4c391c1dbfcea33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

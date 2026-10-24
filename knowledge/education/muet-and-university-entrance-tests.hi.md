@@ -34,7 +34,7 @@ faq:
     a: "निजी विश्वविद्यालय सामान्यतः अंग्रेज़ी भाषा दक्षता का प्रमाण भी माँगते हैं। स्थानीय छात्र आमतौर पर MUET परिणाम प्रस्तुत करते हैं, जबकि कार्यक्रम और संस्थान के अनुसार IELTS या TOEFL जैसी समकक्ष योग्यताएँ स्वीकार की जा सकती हैं।"
 
 lang: "hi"
-sourceContentHash: "06e545a5dcaf1477"
+sourceContentHash: "a815609cdc3d3e77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

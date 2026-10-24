@@ -43,7 +43,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "7dd45f5bebbd1f93"
+sourceContentHash: "f35156bb0be8d93f"
 sources:
   - title: "Fakta Kesihatan 2024 (Data Rujukan bagi Tahun 2023) (Health Facts 2024 (Reference Data for Year 2023))"
     url: "https://myhdw.moh.gov.my/public/documents/20186/150084/HEALTH+FACTS+2024/52a11e45-a0ed-4379-b226-1bd2786cc11e?version=1.0&download=true"

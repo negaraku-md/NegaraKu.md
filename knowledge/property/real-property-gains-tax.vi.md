@@ -34,7 +34,7 @@ faq:
     a: "Có. Các khoản chi phí làm tăng hoặc bảo tồn giá trị bất động sản, như chi phí cải tạo và nâng cấp, có thể được khấu trừ miễn là được hỗ trợ bằng biên lai và giấy tờ hợp lệ."
 
 lang: "vi"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

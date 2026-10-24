@@ -31,7 +31,7 @@ faq:
 
 verificationNeeded: []
 lang: "ar"
-sourceContentHash: "30909c3a1cc5a5b8"
+sourceContentHash: "27b8a16cc9d69e45"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

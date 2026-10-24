@@ -30,7 +30,7 @@ faq:
     a: "The current concession is in force for the period 2021 to 2031. In July 2026 the government confirmed it would review BERNAS's role as sole importer before the concession expires."
 
 lang: "en"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

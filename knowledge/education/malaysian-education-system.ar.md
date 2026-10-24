@@ -34,7 +34,7 @@ faq:
     a: "يجري التعليم التقني والمهني جزئياً عبر الكليات المهنية التابعة لوزارة التعليم وجزئياً عبر مسار شهادات منفصل — شهادة المهارات الماليزية (SKM) ودبلوم المهارات الماليزية (DKM/DLKM) — تصدره دائرة تنمية المهارات (Jabatan Pembangunan Kemahiran) التابعة لوزارة الموارد البشرية، لا وزارة التعليم ولا وزارة التعليم العالي."
 
 lang: "ar"
-sourceContentHash: "936fe1b2918f6934"
+sourceContentHash: "613eb3145a3df62e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

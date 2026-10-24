@@ -31,7 +31,7 @@ faq:
     a: "Sự giảm đó phần lớn là tác động của việc thay đổi phương pháp tính, chứ không chỉ đơn thuần là sự sụt giảm sản lượng. Phương pháp mới chỉ tính lúa ròng được chế biến thành gạo và không còn tính lúa để làm giống trong cùng năm."
 
 lang: "vi"
-sourceContentHash: "fcd35063d281dbc6"
+sourceContentHash: "f5844b5eb0a2c6ba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

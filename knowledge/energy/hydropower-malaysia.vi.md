@@ -32,7 +32,7 @@ faq:
     a: "Không. Đập Baram, dự kiến nhấn chìm 412 km vuông và di dời ~20,000 người, bị hoãn qua một lệnh tạm ngừng vào năm 2015 và bị hủy bỏ chính thức vào năm 2016 sau các phản đối kéo dài của người bản địa."
 
 lang: "vi"
-sourceContentHash: "3900760aacdbc30f"
+sourceContentHash: "1464aa447b7252c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

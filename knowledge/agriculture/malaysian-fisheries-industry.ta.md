@@ -36,7 +36,7 @@ faq:
     a: "Akta Perikanan 1985க்கு 2019ல் திருத்தம் (Akta A1601) செய்யப்பட்ட பின், ஊடுருவும் அயல்நாட்டுப் படகின் உரிமையாளர் அல்லது சாரதிக்கான அதிகபட்ச அபராதம் RM1 மில்லியனிலிருந்து RM6 மில்லியனாகவும், ஒவ்வொரு கப்பல் பணியாளருக்கும் RM100,000லிருந்து RM600,000 ஆகவும் உயர்த்தப்பட்டது."
 
 lang: "ta"
-sourceContentHash: "f5794964e422efce"
+sourceContentHash: "fa3345cedd03dd8d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

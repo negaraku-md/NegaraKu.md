@@ -31,7 +31,7 @@ faq:
     a: "Producers can market directly to consumers through FAMA channels such as Permanent Farmers' Markets, Agrobazaar, My Farm Outlet and Fresh Fruit Stalls, or take part in programmes such as Contract Farming and RANTAI. Participation details are confirmed at fama.gov.my."
 
 lang: "en"
-sourceContentHash: "f18be1d4180f5dbb"
+sourceContentHash: "63ddd6b5ce85bb78"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

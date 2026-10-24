@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang pindah ke rumah atau premis baru di Malaysia dan perlu membuka, memindahkan, atau menutup akun pasokan listrik — baik di Semenanjung, Sabah maupun Sarawak."
 
 lang: "id"
-sourceContentHash: "6891503e50f70d6b"
+sourceContentHash: "d7658ca7c2a68725"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

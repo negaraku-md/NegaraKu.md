@@ -36,7 +36,7 @@ faq:
     a: "بعد تعديل عام 2019 لقانون مصايد الأسماك 1985 (القانون A1601)، رُفعت الغرامة القصوى لمالك أو ربّان السفينة الأجنبية المتسلّلة من RM1 مليون إلى RM6 مليون، ولكل فرد من الطاقم من RM100,000 إلى RM600,000."
 
 lang: "ar"
-sourceContentHash: "f5794964e422efce"
+sourceContentHash: "fa3345cedd03dd8d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

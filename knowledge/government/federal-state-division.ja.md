@@ -24,7 +24,7 @@ appliesTo: "マレーシアにおいて、ある法律を制定する権限が�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d234775add600d74"
+sourceContentHash: "a1e4d48e96f45459"
 
 status: "published"
 aiAssisted: true

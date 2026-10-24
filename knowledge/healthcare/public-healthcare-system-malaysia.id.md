@@ -27,7 +27,7 @@ faq:
   - q: "Apa itu PeKa B40?"
     a: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40) adalah skema MOH yang dikelola oleh ProtectHealth Corporation. Ia memberi rakyat Malaysia berpenghasilan rendah yang memenuhi syarat berumur 40 tahun ke atas — penerima Sumbangan Tunai Rahmah dan pasangan mereka — pemeriksaan kesehatan gratis, bantuan alat medis hingga RM20,000, insentif perawatan kanker RM1,000, dan bantuan transportasi. Hingga 31 Maret 2025, sekitar 1.6 juta dari sekitar 6.9 juta penerima yang memenuhi syarat telah menjalani pemeriksaan."
 lang: "id"
-sourceContentHash: "e44d3a318b3a6bbb"
+sourceContentHash: "62dfb914192fc51a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

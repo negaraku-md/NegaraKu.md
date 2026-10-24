@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang tìm một căn nhà thuê tại Malaysia, dù thuê lần đầu tại địa phương hay thu xếp một hợp đồng thuê từ nước ngoài."
 
 lang: "vi"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Estudiantes, investigadores, periodistas y cualquiera que desee una comprensión descriptiva de la posición constitucional del Yang di-Pertuan Agong y del mecanismo de elección por el Consejo de Gobernantes."
 
 lang: "es"
-sourceContentHash: "b3f6c2ddc1104e50"
+sourceContentHash: "aa9b406156a426e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

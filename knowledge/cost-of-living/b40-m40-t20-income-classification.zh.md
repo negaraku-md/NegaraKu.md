@@ -29,7 +29,7 @@ faq:
     a: "令吉分界线每一轮调查（约两年）更新一次，并随收入增长而上升。网上流传的许多 '高达 RMx,xxx' 数字其实来自较旧的调查轮次。"
 
 lang: "zh"
-sourceContentHash: "26ffee570df18e65"
+sourceContentHash: "0bad0b514a07b6bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

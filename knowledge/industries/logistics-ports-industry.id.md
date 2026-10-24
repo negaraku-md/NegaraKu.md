@@ -34,7 +34,7 @@ faq:
     a: "Malaysia menduduki tempat ke-26 dalam Indeks Kinerja Logistik Bank Dunia 2023, naik dari ke-41 pada 2018 dan kedua di antara negara ASEAN setelah Singapura."
 
 lang: "id"
-sourceContentHash: "5308f8757b834449"
+sourceContentHash: "28b83f8fb5bdfc96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

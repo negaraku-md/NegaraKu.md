@@ -36,7 +36,7 @@ faq:
     a: "After the 2019 amendment to the Fisheries Act 1985 (Act A1601), the maximum fine for the owner or skipper of an intruding foreign vessel was raised from RM1 million to RM6 million, and for each crew member from RM100,000 to RM600,000."
 
 lang: "en"
-sourceContentHash: "f5794964e422efce"
+sourceContentHash: "fa3345cedd03dd8d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

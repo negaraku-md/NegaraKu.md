@@ -34,7 +34,7 @@ faq:
     a: "La Section 3 place Petronas sous le contrôle et la direction du Premier ministre, dont les instructions lient la société. La Section 6 exige l'autorisation du Premier ministre avant que toute personne autre que Petronas ne procède au traitement, au raffinage ou à la fabrication de produits pétrochimiques, et la Section 7 confère au Premier ministre le pouvoir d'édicter des règlements."
 
 lang: "fr"
-sourceContentHash: "7e742ec88e8babf9"
+sourceContentHash: "bc9ab1d1d905cd8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

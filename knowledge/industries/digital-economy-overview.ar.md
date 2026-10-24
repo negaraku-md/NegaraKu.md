@@ -37,7 +37,7 @@ faq:
     a: "DE Rantau هو برنامج محفِّز ضمن ماليزيا الرقمية لجعل ماليزيا مركزاً للرُحَّل الرقميين (digital nomads) في آسيان. ويصدر عنه تصريح الرُّحَّل الرقميين الماليزي (Malaysia Digital Nomad Pass)، الصالح لمدة تصل إلى 12 شهراً وقابل للتجديد."
 
 lang: "ar"
-sourceContentHash: "bfede7bb53cd6174"
+sourceContentHash: "8060843a4455d16b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

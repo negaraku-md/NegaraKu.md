@@ -24,7 +24,7 @@ appliesTo: "マレーシアで妊娠している人、妊娠を計画してい�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8182db0933e495e5"
+sourceContentHash: "f82d2d99c31a083b"
 
 status: "published"
 aiAssisted: true

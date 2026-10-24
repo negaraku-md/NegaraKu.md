@@ -22,7 +22,7 @@ appliesTo: "任何搬入马来西亚新住宅或新场所、需要开通、过�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6891503e50f70d6b"
+sourceContentHash: "d7658ca7c2a68725"
 
 status: "published"
 aiAssisted: true

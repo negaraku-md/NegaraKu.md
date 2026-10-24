@@ -28,7 +28,7 @@ faq:
     a: "Une RA est une société enregistrée sous la Societies Act 1966, et non un organisme légal — elle n'a aucun pouvoir comparable à celui d'un Joint Management Body ou d'une Management Corporation pour contraindre au paiement. Les tribunaux ont autorisé une RA à exiger d'un résident défaillant qu'il actionne lui-même une barrière levante partagée, mais refuser l'entrée à un résident purement et simplement risque de constituer un trouble susceptible de recours."
 
 lang: "fr"
-sourceContentHash: "03cf0cac851c0421"
+sourceContentHash: "5d0d6e50f897a3e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

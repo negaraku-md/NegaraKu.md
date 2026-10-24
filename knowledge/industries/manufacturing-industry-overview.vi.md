@@ -34,7 +34,7 @@ faq:
     a: "Cục Thống kê Malaysia (DOSM) công bố thống kê chế tạo hằng tháng và hằng năm cùng dữ liệu GDP. Cục Phát triển Đầu tư Malaysia (MIDA) xúc tiến và phê duyệt đầu tư chế tạo, trong khi Bộ Đầu tư, Thương mại và Công nghiệp (MITI) làm chủ NIMP 2030."
 
 lang: "vi"
-sourceContentHash: "688fcd61cdea1a88"
+sourceContentHash: "00a67f4ef7e6555a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

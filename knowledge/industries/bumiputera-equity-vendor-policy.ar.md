@@ -29,7 +29,7 @@ faq:
     a: "يجب على الشركات المتقدمة للحصول على ترخيص من PETRONAS استيفاء متطلبات مشاركة البوميبوترا وفقاً لرمز SWEC ذي الصلة. وبالنسبة إلى برنامج تطوير المورّدين التابع لـ PETRONAS، يُشترط حد أدنى من ملكية البوميبوترا نسبته 51% (المصدر: Low & Partners؛ PETRONAS)."
 
 lang: "ar"
-sourceContentHash: "8653f4f58e0534c5"
+sourceContentHash: "827cfd2ac62b2b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

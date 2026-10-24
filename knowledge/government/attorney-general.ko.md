@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "연방헌법(Federal Constitution) 제145조의 본문 그 자체로부터 법무장관(Attorney General)이라는 헌법상의 직위를 이해하고자 하는 학생, 연구자, 기자 및 모든 사람."
 
 lang: "ko"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

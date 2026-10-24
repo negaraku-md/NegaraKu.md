@@ -30,7 +30,7 @@ faq:
     a: "Có. Tiếng Mã Lai là môn học bắt buộc trong hệ thống UEC. Nhiều học sinh UEC cũng dự thi SPM với tư cách thí sinh tự do; Dong Zong cho biết tỷ lệ đỗ môn Tiếng Mã Lai SPM trong số học sinh SMPC vượt 96% trong các năm 2022–2024 (97.38% năm 2022, 97.11% năm 2023 và 96.65% năm 2024), sử dụng cùng đề thi SPM như các thí sinh khác."
 
 lang: "vi"
-sourceContentHash: "899b0fd9ce10c90d"
+sourceContentHash: "1f2605f6949b7811"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

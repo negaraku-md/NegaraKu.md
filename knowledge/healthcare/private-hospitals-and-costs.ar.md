@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يواجه في ماليزيا استشارة اختصاصي أو إقامة في مستشفى بمرفق خاص — المرضى ومقدّمو الرعاية والموظفون المعتمدون على البطاقات الطبية أو التأمين الذي توفّره جهة العمل."
 
 lang: "ar"
-sourceContentHash: "ae428a676e96d0c6"
+sourceContentHash: "dfd6a5748ec5074b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

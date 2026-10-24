@@ -30,7 +30,7 @@ faq:
     a: "PETRA（能源转型与水务转型部）是制定国家能源与水务政策的部门。能源委员会是执行和执法能源供应法律的法定监管机构。根据第610号法令第16条，ST 对部长负责，并须落实部长的一般性指示。"
 
 lang: "zh"
-sourceContentHash: "0a1f3c6792f9255a"
+sourceContentHash: "1283bee73757d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

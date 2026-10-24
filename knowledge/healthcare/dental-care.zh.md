@@ -41,7 +41,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "4e874b9f524ab414"
+sourceContentHash: "eeddef6e54a39b44"
 sources:
   - title: "马来西亚法律 - 第804号法令 - 2018年牙科法令（AGC联邦立法门户网站）(Laws of Malaysia - Act 804 - Dental Act 2018 (AGC Federal Legislation Portal))"
     url: "https://lom.agc.gov.my/act-detail.php?type=principal&lang=BI&act=804"

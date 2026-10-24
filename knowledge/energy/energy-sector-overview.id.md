@@ -34,7 +34,7 @@ faq:
     a: "PETRA (Kementerian Peralihan Tenaga dan Transformasi Air) adalah kementerian yang merumuskan kebijakan energi dan air negara serta memacu peralihan ke arah emisi karbon nol menjelang 2050. Suruhanjaya Tenaga adalah badan statutori regulator di bawah PETRA yang melisensikan, menetapkan tarif, dan menegakkan undang-undang pasokan listrik dan gas."
 
 lang: "id"
-sourceContentHash: "fc167e2fbc6949c3"
+sourceContentHash: "13e97e8a9ffe1cf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

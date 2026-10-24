@@ -30,7 +30,7 @@ faq:
     a: "세 기관의 소규모 자작농을 통합하려는 제안이 제기되었으나(예: 2009년 총리, 2023년 FGV), 참조한 자료에 따르면 완전한 합병은 실행되지 않았습니다."
 
 lang: "ko"
-sourceContentHash: "a5eeffb434131b29"
+sourceContentHash: "3a519c8adad9a4c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -30,7 +30,7 @@ faq:
     a: "PETRA (Bộ Chuyển đổi Năng lượng và Chuyển đổi Nước) là bộ soạn thảo chính sách năng lượng và nước của đất nước. Suruhanjaya Tenaga là cơ quan quản lý theo luật định thực hiện và thực thi luật cung cấp năng lượng. Theo section 16 của Act 610, ST chịu trách nhiệm trước Bộ trưởng và phải thực hiện các chỉ thị mang tính chung từ Bộ trưởng."
 
 lang: "vi"
-sourceContentHash: "0a1f3c6792f9255a"
+sourceContentHash: "1283bee73757d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

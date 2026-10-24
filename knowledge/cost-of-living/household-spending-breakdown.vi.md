@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang cố gắng hiểu cách một ngân sách hộ gia đình Malaysia điển hình được cấu trúc, hoặc so sánh chi tiêu của chính mình với mô hình quốc gia."
 
 lang: "vi"
-sourceContentHash: "4c5994da7bcbecd8"
+sourceContentHash: "cd6140755840f27a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

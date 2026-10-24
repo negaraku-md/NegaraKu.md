@@ -29,7 +29,7 @@ faq:
     a: "不能。根据政府说法，因法律限制，PADU 的数据收集不涉及银行资料系统。"
 
 lang: "zh"
-sourceContentHash: "47282ce02fd5a43d"
+sourceContentHash: "e8105c96d9e01007"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

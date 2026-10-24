@@ -30,7 +30,7 @@ faq:
     a: "不。852号法令禁止通过网上平台及自动贩卖机销售所有烟草及电子烟产品。"
 
 lang: "zh"
-sourceContentHash: "41eadbd4f391ff30"
+sourceContentHash: "47453ebb80993a06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

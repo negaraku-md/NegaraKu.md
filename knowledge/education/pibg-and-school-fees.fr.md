@@ -29,7 +29,7 @@ faq:
     a: "Non. L'enseignement dans les écoles publiques primaires et secondaires ne comporte pas de frais de scolarité. Les frais spéciaux, quant à eux, sont supprimés depuis 2008 par la SPI no 13/2007."
 
 lang: "fr"
-sourceContentHash: "ae00ce2b2c55df71"
+sourceContentHash: "c71280cc876e703d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

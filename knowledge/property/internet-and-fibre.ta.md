@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் வீடு வாடகைக்கு எடுக்கும், வாங்கும் அல்லது குடியேறும், நிலையான பிராட்பேண்டை இணைக்க வேண்டிய எவரும்."
 
 lang: "ta"
-sourceContentHash: "651bab79a176221b"
+sourceContentHash: "19befa5847e8b8f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

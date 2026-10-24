@@ -29,7 +29,7 @@ faq:
     a: "The Special Muzakarah on 3 December 2020 ruled that the use of COVID-19 vaccines is permissible and obligatory for groups designated by the government, on condition that the vaccines used are halal and wholesome (tayyiban)."
 
 lang: "en"
-sourceContentHash: "a63cd25d7840519b"
+sourceContentHash: "27955639bf723dbf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

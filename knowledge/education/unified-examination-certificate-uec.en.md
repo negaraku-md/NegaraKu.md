@@ -30,7 +30,7 @@ faq:
     a: "Yes. Malay is a compulsory subject in the UEC system. Many UEC students also sit for the SPM as private candidates; Dong Zong reports that the SPM Malay pass rate among Chinese Independent High School students exceeded 96% for the years 2022–2024 (97.38% in 2022, 97.11% in 2023 and 96.65% in 2024), using the same SPM paper as other candidates."
 
 lang: "en"
-sourceContentHash: "899b0fd9ce10c90d"
+sourceContentHash: "1f2605f6949b7811"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में किसी निदानित दिव्यांगता या अधिगम कठिनाई वाले बच्चे के माता-पिता और देखभालकर्ता जो यह जानने का प्रयास कर रहे हैं कि कौन-सा विद्यालय नियोजन और कौन-से पंजीकरण चरण लागू होते हैं।"
 
 lang: "hi"
-sourceContentHash: "e0164ad51b29c01a"
+sourceContentHash: "9436b58ec227f7f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

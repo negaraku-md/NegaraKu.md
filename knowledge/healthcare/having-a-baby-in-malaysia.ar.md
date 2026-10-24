@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "كل مَن في ماليزيا حاملٌ أو يخطّط للحمل أو يرافق شريكًا أو أحد أفراد الأسرة خلال الحمل، ويرغب في فهم كيف يتكامل نظام الرعاية العامة السابقة للولادة والرعاية الخاصة وتسجيل المواليد."
 
 lang: "ar"
-sourceContentHash: "8182db0933e495e5"
+sourceContentHash: "f82d2d99c31a083b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

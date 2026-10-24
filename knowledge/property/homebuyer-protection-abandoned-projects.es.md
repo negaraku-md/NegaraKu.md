@@ -33,7 +33,7 @@ faq:
     a: "Un laudo del Tribunal es firme y vinculante y puede ejecutarse como una orden judicial. El incumplimiento de un laudo es un delito castigado con una multa de RM10,000 a RM50,000 o prisión de hasta dos años, o ambos."
 
 lang: "es"
-sourceContentHash: "f08885d66ba27130"
+sourceContentHash: "df503ce18f77fc3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

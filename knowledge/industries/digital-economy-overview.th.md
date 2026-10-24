@@ -37,7 +37,7 @@ faq:
     a: "DE Rantau คือโครงการเร่งปฏิกิริยาของ Malaysia Digital เพื่อทำให้มาเลเซียเป็นศูนย์กลางดิจิทัลโนแมด (digital nomad) ในอาเซียน โดยออก Malaysia Digital Nomad Pass ซึ่งมีอายุสูงสุด 12 เดือนและต่ออายุได้"
 
 lang: "th"
-sourceContentHash: "bfede7bb53cd6174"
+sourceContentHash: "8060843a4455d16b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

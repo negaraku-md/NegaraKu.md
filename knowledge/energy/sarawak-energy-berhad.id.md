@@ -30,7 +30,7 @@ faq:
     a: "Pembangkit Hidroelektrik Bakun dengan kapasitas tersedia 2,520MW adalah fasilitas pembangkitan terbesar di Sarawak."
 
 lang: "id"
-sourceContentHash: "585f9d0a1ccc7faf"
+sourceContentHash: "7830394fcb9de25a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

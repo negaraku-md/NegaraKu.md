@@ -29,7 +29,7 @@ faq:
     a: "The official calendar is issued through MOE Circulars and the moe.gov.my portal each year before the session begins. Refer to official sources for the exact dates, as they change every year."
 
 lang: "en"
-sourceContentHash: "57e2351ff40e3792"
+sourceContentHash: "d8dc796d9fea25f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

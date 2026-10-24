@@ -31,7 +31,7 @@ faq:
     a: "두 차례 연기 후, 대·중 사업자에게는 2026년 12월 30일부터, 미소·소기업에게는 2027년 6월 30일부터 적용됩니다. 삼림 파괴 기준일은 2020년 12월 31일입니다."
 
 lang: "ko"
-sourceContentHash: "7368557f33452c6b"
+sourceContentHash: "8402e69b6d7b51cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

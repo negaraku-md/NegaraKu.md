@@ -41,7 +41,7 @@ verificationNeeded:
   - "Xác nhận Companies (Amendment) Act 2024 (Act A1701) đã thay đổi gì trong s.68, vốn nằm trong phạm vi sửa đổi của nó, và liệu bất kỳ thay đổi nào đã có hiệu lực hay chưa"
 
 lang: "vi"
-sourceContentHash: "333c372fcdca64b9"
+sourceContentHash: "6b555ea5ac7d9563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

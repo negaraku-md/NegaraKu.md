@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que posea, esté comprando o esté alquilando una unidad en un condominio, apartamento u otra propiedad en régimen de estratos (con título de estratos) de Malasia, en Malasia Peninsular o en el Territorio Federal de Labuan."
 
 lang: "es"
-sourceContentHash: "cb88d8015d2b5a82"
+sourceContentHash: "02c5304754ea1783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

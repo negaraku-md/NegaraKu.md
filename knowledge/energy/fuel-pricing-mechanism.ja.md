@@ -48,7 +48,7 @@ revisions:
     reviewer: null
 
 updated: 2026-08-01
-sourceContentHash: "77fbc98bce7fd506"
+sourceContentHash: "31beae2d3f6af51b"
 sources:
   - title: "BUDI95開始に伴い、無補助RON95の小売価格を1リットルRM2.60に設定 (Non-Subsidised RON95 Retail Price Set At RM2.60 Per Litre As BUDI95 Commences)"
     url: "https://www.mof.gov.my/portal/en/news/press-release/non-subsidised-ron95-retail-price-set-at-rm2-60-per-litre-as-budi95-commences"

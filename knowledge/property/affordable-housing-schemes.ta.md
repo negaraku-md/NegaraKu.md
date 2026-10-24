@@ -31,7 +31,7 @@ faq:
     a: "விற்பனைத் தடை என்பது அனுமதியின்றி வீட்டை மறுவிற்பனை செய்வது தடைசெய்யப்பட்ட காலப்பகுதி. ஊகவணிகத்தைத் தவிர்க்கவும், வீடு இலக்குப் பிரிவினருக்கே இருப்பதை உறுதிசெய்யவும், Residensi Wilayah 10 ஆண்டு தடையையும் Rumah Selangorku 5 ஆண்டு தடையையும் விதிக்கின்றன."
 
 lang: "ta"
-sourceContentHash: "c2d113c9f6018d12"
+sourceContentHash: "1484e1d16671dc8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

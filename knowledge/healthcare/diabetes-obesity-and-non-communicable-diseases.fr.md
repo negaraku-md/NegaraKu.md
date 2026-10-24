@@ -32,7 +32,7 @@ faq:
     a: "Les bénéficiaires de la Sumbangan Tunai Rahmah (STR) âgés de 40 ans et plus ont droit à un dépistage gratuit dans le cadre de PeKa B40, dans des cliniques publiques ou privées enregistrées. Les cliniques de santé publiques proposent également des bilans de base."
 
 lang: "fr"
-sourceContentHash: "bbc5ab5d7d67181c"
+sourceContentHash: "19ab4b4f804b4515"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

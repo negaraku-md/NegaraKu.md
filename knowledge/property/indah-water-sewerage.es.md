@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Propietarios, inquilinos, cuerpos de gestión de estratos y operadores de negocios en la Malasia Peninsular que quieren entender quién es realmente IWK, por qué están pagando, y por qué es algo separado de la factura del agua."
 
 lang: "es"
-sourceContentHash: "b457bd9b79e09115"
+sourceContentHash: "86c5f583e8e5025c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

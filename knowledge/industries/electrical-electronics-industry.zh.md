@@ -36,7 +36,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d78e4c480094f7da"
+sourceContentHash: "981590959ca6617e"
 
 status: "published"
 aiAssisted: true

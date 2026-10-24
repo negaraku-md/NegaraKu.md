@@ -35,7 +35,7 @@ revisions:
 sensitivity: "none"
 
 updated: 2026-07-24
-sourceContentHash: "4c5994da7bcbecd8"
+sourceContentHash: "cd6140755840f27a"
 sources:
   - title: "世帯支出調査報告書 2024 (Household Expenditure Survey Report 2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-expenditure-survey-report--malaysia--states"

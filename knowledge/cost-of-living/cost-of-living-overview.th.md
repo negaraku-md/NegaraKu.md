@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังจัดงบประมาณสำหรับมาเลเซีย เปรียบเทียบข้อเสนอค่าจ้างกับค่าครองชีพจริง หรือกำลังมองหาข้อมูล DOSM หลักที่อยู่เบื้องหลังข้ออ้างเรื่องค่าครองชีพ"
 
 lang: "th"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

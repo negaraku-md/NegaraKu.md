@@ -33,7 +33,7 @@ faq:
     a: "CCS Kasawari menargetkan injeksi CO2 pertama seawal 2027 (dipercepat dari rencana awal 2029-2030). Proyek hidrogen hijau Sarawak kini secara umum diperkirakan mulai beroperasi sekitar 2029."
 
 lang: "id"
-sourceContentHash: "cf65984906bccf4e"
+sourceContentHash: "ca85c8c91975c8e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

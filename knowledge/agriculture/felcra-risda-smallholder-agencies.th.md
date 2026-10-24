@@ -30,7 +30,7 @@ faq:
     a: "ข้อเสนอที่จะรวมเกษตรกรรายย่อยของทั้งสามหน่วยงานถูกหยิบยกขึ้นมา (เช่น โดยนายกรัฐมนตรีในปี 2009 และโดย FGV ในปี 2023) แต่เท่าที่แหล่งข้อมูลที่อ้างอิงระบุ ยังไม่มีการควบรวมอย่างเต็มรูปแบบเกิดขึ้น"
 
 lang: "th"
-sourceContentHash: "a5eeffb434131b29"
+sourceContentHash: "3a519c8adad9a4c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

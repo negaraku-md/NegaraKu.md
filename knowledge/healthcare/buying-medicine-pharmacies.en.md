@@ -21,7 +21,7 @@ appliesTo: "Anyone buying medicine at a government or private pharmacy in Malays
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "4ae828e3e8725114"
+sourceContentHash: "d1d06d1d72ea0e4b"
 status: "published"
 aiAssisted: true
 reviewer: null

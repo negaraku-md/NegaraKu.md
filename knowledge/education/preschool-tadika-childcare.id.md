@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Orang tua atau wali di Malaysia yang berupaya memahami pilihan penitipan dan pendidikan dini anak sebelum Tahun 1, serta siapa pun yang ingin mendirikan taska atau tadika dan perlu tahu otoritas yang berwenang."
 
 lang: "id"
-sourceContentHash: "5be629c8e1fa0846"
+sourceContentHash: "9f44a6a22be9e0f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

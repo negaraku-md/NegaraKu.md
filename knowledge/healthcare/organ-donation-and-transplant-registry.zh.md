@@ -31,7 +31,7 @@ faq:
     a: "国家法特瓦理事会在 1970 年 6 月 23 至 24 日的会议上裁定器官捐赠为‘许可（被允许）’，附带条件包括救命的紧急情况、不涉及买卖，以及取得捐献者或其继承人的同意。此法特瓦其后扩展至其他器官与组织。"
 
 lang: "zh"
-sourceContentHash: "55867275b6260a32"
+sourceContentHash: "0ec5bd2f879c8b3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "كل من يضع ميزانيةً للعيش في ماليزيا، أو يقارن عروض الأجور بتكاليف المعيشة الفعلية، أو يبحث عن بيانات DOSM الأولية وراء أي ادعاء بشأن تكلفة المعيشة."
 
 lang: "ar"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

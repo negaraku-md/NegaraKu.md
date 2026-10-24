@@ -29,7 +29,7 @@ faq:
     a: "일반적으로 불가능합니다. JPA와 MARA 같은 전액 장학금은 보통 같은 학업 단계에 대해 PTPTN을 포기하도록 요구합니다. 각 후원자의 협약 조건을 확인하십시오."
 
 lang: "ko"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

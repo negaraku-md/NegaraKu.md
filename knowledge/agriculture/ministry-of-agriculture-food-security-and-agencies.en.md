@@ -30,7 +30,7 @@ faq:
     a: "The Control of Padi and Rice Act 1994 (Act 522). Rice is a controlled commodity; the Director-General of the Padi and Rice Regulatory issues licences and permits for milling, wholesaling, retailing, importing, exporting and inter-state movement."
 
 lang: "en"
-sourceContentHash: "88877cb8976d9b28"
+sourceContentHash: "57032872a3092c06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

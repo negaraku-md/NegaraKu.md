@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne cherchant une compréhension structurelle et descriptive du cadre constitutionnel de la Malaisie."
 
 lang: "fr"
-sourceContentHash: "3635bd9fdb569d2e"
+sourceContentHash: "cceecfcd59d19112"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

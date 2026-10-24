@@ -22,7 +22,7 @@ appliesTo: "Anak dewasa dan anggota keluarga di Malaysia yang sedang menimbang p
 verificationNeeded:
   - "Artikel ini tidak menyatakan biaya panti perawatan swasta, kapasitas tempat tidur, atau lama daftar tunggu bagi Rumah Seri Kenangan, karena angka-angka ini sering berubah dan tidak disahkan dari sumber resmi pada saat penulisan — konfirmasikan biaya dan ketersediaan terkini langsung dengan pengelola atau Departemen Kesejahteraan Masyarakat Daerah."
 lang: "id"
-sourceContentHash: "7ae419cbd6a2d437"
+sourceContentHash: "f10aac9439fe1e51"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

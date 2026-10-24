@@ -30,7 +30,7 @@ faq:
     a: "현행 양허는 2021년부터 2031년까지 유효합니다. 2026년 7월 정부는 그 양허가 만료되기 전에 BERNAS의 단독 수입업체 역할을 재검토하겠다고 확인했습니다."
 
 lang: "ko"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

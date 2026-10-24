@@ -29,7 +29,7 @@ faq:
     a: "Thẩm quyền chính thuộc về sở/hội đồng tôn giáo Hồi giáo của bang, vì các vấn đề tôn giáo Hồi giáo là vấn đề của bang theo Hiến pháp. JAKIM điều phối ở cấp liên bang, trong khi các yêu cầu về an toàn công trình liên quan đến Chính quyền Địa phương và Cục Cứu hỏa (Bomba)."
 
 lang: "vi"
-sourceContentHash: "e8c71a5517740e23"
+sourceContentHash: "b8ecf4cacb65882a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

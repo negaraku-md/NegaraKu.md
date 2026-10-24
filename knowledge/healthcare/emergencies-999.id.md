@@ -31,7 +31,7 @@ faq:
     a: "Ambulans pemerintah dikirim gratis melalui saluran 999 dan dikelola oleh KKM bersama badan sukarela seperti St John Ambulance dan Bulan Sabit Merah Malaysia. Ambulans swasta pula dikelola oleh perusahaan atau rumah sakit swasta melalui saluran hotline masing-masing, dan mengenakan biaya layanan menurut kebutuhan panggilan."
 
 lang: "id"
-sourceContentHash: "492fe31c078f6681"
+sourceContentHash: "2f1b3605919630fa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

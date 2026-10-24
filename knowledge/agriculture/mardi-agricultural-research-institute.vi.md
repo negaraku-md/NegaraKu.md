@@ -31,7 +31,7 @@ faq:
     a: "Trong số nhiều giống, MARDI đã công bố dòng MR (như MR 297 và MR 219), các giống thơm MRQ, và KADARIA 1, giống lúa lai đầu tiên của Malaysia."
 
 lang: "vi"
-sourceContentHash: "29fcbde70a256bf1"
+sourceContentHash: "9bb5af4c19ea1667"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "عادة لا. فالمنح الكاملة مثل JPA وMARA تتطلب عادة أن يتخلى الطالب عن PTPTN للمستوى الدراسي نفسه. راجع شروط اتفاقية الجهة الراعية المعنية."
 
 lang: "ar"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

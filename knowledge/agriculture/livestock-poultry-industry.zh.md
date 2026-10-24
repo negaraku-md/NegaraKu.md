@@ -34,7 +34,7 @@ faq:
     a: "是的。ASF于2025年8月在马来西亚被宣布为地方性流行病。雪兰莪（57个农场76,000头猪）与槟城曾发生大规模疫情，受感染的牲畜被扑杀以遏制传播（CodeBlue）。"
 
 lang: "zh"
-sourceContentHash: "28ee8ace3a3090da"
+sourceContentHash: "bc890674eee634f7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

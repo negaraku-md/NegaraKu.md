@@ -31,7 +31,7 @@ faq:
     a: "The Ministry of Health's 2012 guidelines define termination of pregnancy as a procedure at a gestational age of under 22 weeks, or, where the age is unknown, where the fetus is estimated to weigh less than 500 grams."
 
 lang: "en"
-sourceContentHash: "58e08ea86f967964"
+sourceContentHash: "ae2bf4ced7e95cfe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

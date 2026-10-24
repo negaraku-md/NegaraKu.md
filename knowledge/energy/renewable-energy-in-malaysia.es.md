@@ -27,7 +27,7 @@ faq:
   - q: "¿Cómo puede una empresa comprar energía renovable sin instalar sus propios paneles?"
     a: "El Corporate Green Power Programme (CGPP) permite a un consumidor corporativo firmar un acuerdo virtual de compra de energía con un productor de energía solar por la energía renovable y sus atributos verdes, con un suministro firme respaldado por la empresa de servicios públicos. Su cuota de 800 MW quedó totalmente suscrita en noviembre de 2023. Las corporaciones que no la alcanzaron pueden usar el Corporate Renewable Energy Supply Scheme (CRESS), lanzado en septiembre de 2024, que entrega energía verde a través de la red de TNB a cambio de un Cargo de Acceso al Sistema."
 lang: "es"
-sourceContentHash: "739ef0391be9be93"
+sourceContentHash: "d9838f1e57d307b7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

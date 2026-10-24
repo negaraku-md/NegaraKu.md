@@ -34,7 +34,7 @@ faq:
     a: "มหาวิทยาลัยเอกชนโดยทั่วไปก็ต้องการหลักฐานความสามารถทางภาษาอังกฤษ นักเรียนในประเทศมักยื่นผล MUET ขณะที่คุณวุฒิเทียบเท่าเช่น IELTS หรือ TOEFL อาจได้รับการยอมรับขึ้นอยู่กับหลักสูตรและสถาบัน"
 
 lang: "th"
-sourceContentHash: "06e545a5dcaf1477"
+sourceContentHash: "a815609cdc3d3e77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

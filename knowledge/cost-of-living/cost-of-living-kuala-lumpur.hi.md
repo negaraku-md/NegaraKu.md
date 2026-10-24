@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "कोई भी जो कुआलालंपुर या क्लांग घाटी में स्थानांतरण के लिए बजट बना रहा हो, शहरों के बीच नौकरी के प्रस्तावों की तुलना कर रहा हो, या यह समझने की कोशिश कर रहा हो कि राजधानी लगातार मलेशिया की रहन-सहन-लागत रैंकिंग में शीर्ष पर क्यों रहती है।"
 
 lang: "hi"
-sourceContentHash: "5a6f8510ce30c077"
+sourceContentHash: "9ee948a5f080e34c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

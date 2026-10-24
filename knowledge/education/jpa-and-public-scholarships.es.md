@@ -29,7 +29,7 @@ faq:
     a: "Normalmente no. Las becas completas como las del JPA y MARA suelen exigir que los estudiantes renuncien al PTPTN para el mismo nivel de estudios. Verifique los términos del acuerdo del patrocinador correspondiente."
 
 lang: "es"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -30,7 +30,7 @@ faq:
     a: "तीनों एजेंसियों के लघु-धारकों को एकीकृत करने के प्रस्ताव उठाए गए हैं (उदाहरण के लिए 2009 में प्रधानमंत्री द्वारा और 2023 में FGV द्वारा), लेकिन जहाँ तक संदर्भित स्रोत संकेत देते हैं, कोई पूर्ण विलय लागू नहीं किया गया है।"
 
 lang: "hi"
-sourceContentHash: "a5eeffb434131b29"
+sourceContentHash: "3a519c8adad9a4c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

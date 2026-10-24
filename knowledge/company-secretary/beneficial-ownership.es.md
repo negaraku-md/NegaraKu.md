@@ -75,7 +75,7 @@ obligations:
     consequence: "Offence under s.60C(7)"
 
 lang: "es"
-sourceContentHash: "5960cbcc31d84c2e"
+sourceContentHash: "14eb3e1aad20bc80"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

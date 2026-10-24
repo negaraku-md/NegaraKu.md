@@ -31,7 +31,7 @@ faq:
     a: "Après deux reports, il s'applique aux grands et moyens opérateurs à partir du 30 décembre 2026, et aux micro et petites entreprises à partir du 30 juin 2027. La date limite de déforestation est le 31 décembre 2020."
 
 lang: "fr"
-sourceContentHash: "7368557f33452c6b"
+sourceContentHash: "8402e69b6d7b51cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

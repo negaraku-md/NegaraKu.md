@@ -22,7 +22,7 @@ verificationNeeded:
   - "The full format and subject details of the Form 3 Learning Matrix (starting 2027) had not been confirmed in detail on the Malaysian Examinations Syndicate's official website at the time this draft was prepared; only the Year 4 2026 schedule (4 core subjects) was confirmed. Recheck at lp.moe.gov.my once the Form 3 draft is published."
   - "Whether the National Education Advisory Council (MPPK) has published the full UPSR/PT3 review report to Cabinet could not be confirmed against official sources at the time this draft was prepared; the minister's January 2026 statement is taken as the latest available position."
 lang: "es"
-sourceContentHash: "4ac5d1a1458b81d6"
+sourceContentHash: "19a7917a0ffae099"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

@@ -34,7 +34,7 @@ faq:
     a: "ได้ ค่าใช้จ่ายที่เพิ่มหรือรักษามูลค่าของอสังหาริมทรัพย์ เช่น ค่าปรับปรุงและค่าต่อเติม สามารถหักได้ตราบใดที่มีใบเสร็จและเอกสารที่ถูกต้องรองรับ"
 
 lang: "th"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

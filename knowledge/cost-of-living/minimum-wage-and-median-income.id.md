@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang menyusun anggaran berdasarkan gaji Malaysia, membandingkan tingkat gaji, atau mencoba menempatkan suatu angka pendapatan dalam konteks nasional."
 
 lang: "id"
-sourceContentHash: "b4e7cfa473ebf879"
+sourceContentHash: "fde2e01f1a9acb7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

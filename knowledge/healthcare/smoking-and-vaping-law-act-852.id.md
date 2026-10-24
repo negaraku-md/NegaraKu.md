@@ -30,7 +30,7 @@ faq:
     a: "Tidak. Act 852 melarang penjualan semua produk tembakau dan vape melalui platform daring dan mesin penjual otomatis."
 
 lang: "id"
-sourceContentHash: "41eadbd4f391ff30"
+sourceContentHash: "47453ebb80993a06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

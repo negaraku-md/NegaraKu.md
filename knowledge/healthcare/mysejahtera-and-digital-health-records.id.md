@@ -29,7 +29,7 @@ faq:
     a: "Laporan Ketua Audit Negara yang dipresentasikan di Parlemen pada Februari 2023 mengungkapkan bahwa informasi pribadi 3 juta penerima vaksin telah diunduh melalui akun 'Super Admin' sistem MyVAS antara 28 hingga 31 Oktober 2021."
 
 lang: "id"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

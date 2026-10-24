@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (nay là FGV Holdings) là cánh tay đầu tư quản lý các đồn điền của FELDA. Nó được niêm yết tại Bursa Malaysia vào ngày 28 tháng 6 năm 2012 và tại thời điểm IPO quản lý khoảng 500,000 hecta được canh tác bởi khoảng 112,600 người khai hoang."
 
 lang: "vi"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

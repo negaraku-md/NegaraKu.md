@@ -27,7 +27,7 @@ faq:
     a: "மானியம் பெறும் RON95 விலை BUDI95 கீழ் தகுதியுள்ள மக்களுக்கு ஒரு லிட்டருக்கு RM1.99 என நிலைநிறுத்தப்படுகிறது, ஆனால் மானியமற்ற பொது சந்தை விலை APM படி ஏறி இறங்குகிறது."
 
 lang: "ta"
-sourceContentHash: "77fbc98bce7fd506"
+sourceContentHash: "31beae2d3f6af51b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

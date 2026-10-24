@@ -23,7 +23,7 @@ verificationNeeded:
   - "Este artículo no indica números de admisión por programa, proporciones de cuota ni cifras de cuotas específicas para ninguna institución — estas varían según el programa y el campus y cambian en cada admisión; confirma directamente con el e-Panduan de la UPU (para las universidades públicas) o con la institución concreta (para las universidades privadas) antes de solicitar."
   - "El recuento actual exacto de proveedores IPTS registrados no se indica aquí porque las tablas estadísticas publicadas por el MOHE (Statistik Pendidikan Tinggi) no se abrieron por completo para este artículo — para una cifra precisa y actual, consulta directamente la publicación Statistik Pendidikan Tinggi del MOHE."
 lang: "es"
-sourceContentHash: "8368ed6f49bb9158"
+sourceContentHash: "6b715cdf26e90660"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

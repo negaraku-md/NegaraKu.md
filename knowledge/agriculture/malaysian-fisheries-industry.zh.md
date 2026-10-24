@@ -36,7 +36,7 @@ faq:
     a: "在《1985 年渔业法令》于 2019 年修正（A1601 号法令）之后，越界侵入的外国渔船船东或船长的最高罚款从 100 万令吉提高至 600 万令吉，每名船员则从 10 万令吉提高至 60 万令吉。"
 
 lang: "zh"
-sourceContentHash: "f5794964e422efce"
+sourceContentHash: "fa3345cedd03dd8d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

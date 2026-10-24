@@ -37,7 +37,7 @@ verificationNeeded:
   - "여기에서 인용한 하원 의사규칙(Standing Orders of the Dewan Rakyat)은 제13판(2013년 4월)이다. 의사규칙은 제62조 제(1)항에 따라 하원(Dewan Rakyat) 스스로 수시로 개정하므로 — 의존하기 전에 parlimen.gov.my의 최신 판본과 대조하여 규칙 번호와 절차 수치를 확인할 것."
 
 lang: "ko"
-sourceContentHash: "ce348e711538fac4"
+sourceContentHash: "6f2cb5c42d2667a5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

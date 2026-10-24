@@ -53,7 +53,7 @@ obligations:
     statute: "Companies Act 2016, s.348(3)"
     consequence: "허가가 실효됨"
 lang: "ko"
-sourceContentHash: "03035b145c07011e"
+sourceContentHash: "61f0317d05814ffd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

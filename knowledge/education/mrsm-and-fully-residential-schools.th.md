@@ -29,7 +29,7 @@ faq:
     a: "การสมัครทำทางออนไลน์ผ่านพอร์ทัลของ KPM และนักเรียนถูกคัดกรองผ่านการประเมินการรับเข้าโรงเรียนเฉพาะทาง (PKSK) ควบคู่กับผลการเรียนและกิจกรรมนอกหลักสูตร"
 
 lang: "th"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

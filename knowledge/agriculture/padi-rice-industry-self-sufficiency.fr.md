@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) détient le rôle d'importateur unique de riz du pays, un rôle hérité du Conseil national du padi et du riz (LPN), qui a repris les importations de riz et est devenu l'importateur unique en 1974 à la suite de la crise alimentaire mondiale de 1973. BERNAS gère aussi le stock tampon national de riz et soutient les meuniers bumiputera. Elle a été privatisée le 12 janvier 1996."
 
 lang: "fr"
-sourceContentHash: "fb620a1ce6fe2341"
+sourceContentHash: "ed4546075e84eef3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

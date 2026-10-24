@@ -29,7 +29,7 @@ faq:
     a: "No. Belanjawanku mide el gasto necesario para un nivel de vida «razonable» o cómodo, que es más alto que la línea de pobreza, la cual refleja solo las necesidades básicas para sobrevivir."
 
 lang: "es"
-sourceContentHash: "178a5bff85bb62f4"
+sourceContentHash: "384e7d4c05e2a6eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

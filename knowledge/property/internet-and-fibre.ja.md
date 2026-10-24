@@ -24,7 +24,7 @@ appliesTo: "マレーシアで住まいを賃借、購入、または引っ越�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "651bab79a176221b"
+sourceContentHash: "19befa5847e8b8f0"
 
 status: "published"
 aiAssisted: true

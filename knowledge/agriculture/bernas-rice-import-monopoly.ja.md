@@ -30,7 +30,7 @@ faq:
     a: "現行の特許権は2021年から2031年までの期間で効力を有する。2026年7月、政府は特許権の失効前にBERNASの唯一輸入業者としての役割を見直すことを確認した。"
 
 lang: "ja"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -28,7 +28,7 @@ verificationNeeded:
   - "Le titre de chef de l'État pour chaque État monarchique (Sultan, Yang di-Pertuan Besar, Raja) est tiré du portail MyGovernment et de la définition de « Souverain » (Ruler) à l'article 160(2). Vérifier par rapport à la constitution propre de chaque État pour l'usage officiel."
 
 lang: "fr"
-sourceContentHash: "56751778ff042f02"
+sourceContentHash: "9fbc657f47f5ec76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

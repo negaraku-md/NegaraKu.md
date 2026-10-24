@@ -29,7 +29,7 @@ faq:
     a: "لا. وفقاً للحكومة، لا يشمل جمع بيانات PADU أنظمة المعلومات المصرفية بسبب قيود قانونية."
 
 lang: "ar"
-sourceContentHash: "47282ce02fd5a43d"
+sourceContentHash: "e8105c96d9e01007"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

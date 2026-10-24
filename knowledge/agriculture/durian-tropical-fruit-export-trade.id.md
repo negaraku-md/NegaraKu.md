@@ -32,7 +32,7 @@ faq:
     a: "Menurut satu jawaban parlemen, Malaysia mengekspor 115,359 ton durian bernilai RM6.37 miliar ke China antara 2018 dan pertengahan 2025. Ekspor durian segar utuh mencapai 773 ton (hampir RM50 juta) dalam paruh pertama 2025 saja."
 
 lang: "id"
-sourceContentHash: "31afd040d92018fe"
+sourceContentHash: "9178bc8f1052043f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

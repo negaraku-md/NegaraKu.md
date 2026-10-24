@@ -31,7 +31,7 @@ faq:
     a: "ऊर्जा आयोग (Suruhanjaya Tenaga) मुख्य नियामक है। SEDA मलेशिया NEM को कार्यान्वित करता है, जबकि सिंगल बायर (TNB के अधीन) CGPP, CRESS और CREAM जैसे बाज़ार कार्यक्रमों का समन्वय करता है।"
 
 lang: "hi"
-sourceContentHash: "6c4b5196403b953f"
+sourceContentHash: "69ed2a98233b72ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

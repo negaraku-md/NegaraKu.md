@@ -35,7 +35,7 @@ faq:
     a: "L'enseignement technique et professionnel passe en partie par les collèges professionnels du ministère de l'Éducation et en partie par une filière de certification distincte — le Certificat de compétences de Malaisie (SKM) et le Diplôme de compétences de Malaisie (DKM/DLKM) — délivrés par le Département du développement des compétences (Jabatan Pembangunan Kemahiran), relevant du ministère des Ressources humaines, et non du ministère de l'Éducation ni du ministère de l'Enseignement supérieur."
 
 lang: "fr"
-sourceContentHash: "936fe1b2918f6934"
+sourceContentHash: "613eb3145a3df62e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

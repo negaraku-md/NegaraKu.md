@@ -29,7 +29,7 @@ faq:
     a: "La Muzakarah spéciale du 3 décembre 2020 a statué que l'usage des vaccins contre la COVID-19 est licite et obligatoire pour les groupes désignés par le gouvernement, à condition que les vaccins utilisés soient halal et sains (tayyiban)."
 
 lang: "fr"
-sourceContentHash: "a63cd25d7840519b"
+sourceContentHash: "27955639bf723dbf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

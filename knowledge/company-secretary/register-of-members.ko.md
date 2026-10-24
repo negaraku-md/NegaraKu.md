@@ -57,7 +57,7 @@ obligations:
     statute: "Companies Act 2016, s.55(2)"
     consequence: "RM10,000 이하의 벌금과 계속 위반 시 1일당 RM500 이하의 추가 벌금"
 lang: "ko"
-sourceContentHash: "f0ea473a322d2106"
+sourceContentHash: "0425dfb1cc783762"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

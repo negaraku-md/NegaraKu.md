@@ -31,7 +31,7 @@ faq:
     a: "Majlis Fatwa Kebangsaan memutuskan donasi organ sebagai harus (dibolehkan) dalam persidangan pada 23-24 Juni 1970, dengan syarat seperti keadaan darurat untuk menyelamatkan nyawa, tanpa unsur jual beli, dan mendapat izin pendonor atau ahli warisnya. Fatwa ini kemudian diperluas ke organ dan jaringan lain."
 
 lang: "id"
-sourceContentHash: "55867275b6260a32"
+sourceContentHash: "0ec5bd2f879c8b3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

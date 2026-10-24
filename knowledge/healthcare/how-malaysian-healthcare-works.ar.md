@@ -26,7 +26,7 @@ verificationNeeded:
   - "لم يُؤكَّد القسط الدقيق لـ SPIKPA وسقف التغطية السنوي من مصدر أوّلي رسمي (لم يُعثَر إلا على مصادر ثانوية أكاديمية ومن وسطاء التأمين)؛ ويصف هذا المقال وظيفة المخطّط — تأمين إلزامي مرتبط بتجديد تصريح العمل، مؤكَّد على موقع إدارة الهجرة (Jabatan Imigresen) نفسه — دون ذكر قسط أو مبلغ تغطية غير مُتحقَّق منه."
 
 lang: "ar"
-sourceContentHash: "7dd45f5bebbd1f93"
+sourceContentHash: "f35156bb0be8d93f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "นักเรียนนักศึกษา นักวิจัย นักข่าว และผู้ที่ต้องการเข้าใจฐานทางรัฐธรรมนูญและภารกิจของกรมตรวจเงินแผ่นดิน ตลอดจนรายงานของผู้ตรวจการแผ่นดินฝ่ายบัญชี"
 
 lang: "th"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

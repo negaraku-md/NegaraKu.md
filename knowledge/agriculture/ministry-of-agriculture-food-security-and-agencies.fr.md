@@ -30,7 +30,7 @@ faq:
     a: "La Loi sur le contrôle du paddy et du riz de 1994 (Loi 522). Le riz est un produit contrôlé ; le Directeur général de la régulation du paddy et du riz délivre des licences et des permis pour le décorticage, la vente en gros, la vente au détail, l'importation, l'exportation et le transport entre États."
 
 lang: "fr"
-sourceContentHash: "88877cb8976d9b28"
+sourceContentHash: "57032872a3092c06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

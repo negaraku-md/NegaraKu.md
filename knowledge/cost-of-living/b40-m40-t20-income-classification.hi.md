@@ -29,7 +29,7 @@ faq:
     a: "रिंगिट सीमाएँ हर सर्वेक्षण-दौर में (लगभग हर दो वर्ष में) अद्यतन की जाती हैं और आय-वृद्धि के साथ बढ़ती हैं। ऑनलाइन घूमते 'RMx,xxx तक' के कई आँकड़े वास्तव में पुराने दौरों से हैं।"
 
 lang: "hi"
-sourceContentHash: "26ffee570df18e65"
+sourceContentHash: "0bad0b514a07b6bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

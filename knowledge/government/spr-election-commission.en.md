@@ -26,7 +26,7 @@ appliesTo: "Anyone who wants to understand the constitutional standing of the bo
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6a46ae533ead9e08"
+sourceContentHash: "75351af1712639a4"
 
 status: "published"
 aiAssisted: true

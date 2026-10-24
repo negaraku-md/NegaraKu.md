@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "वे सभी जो मलेशिया के संवैधानिक ढाँचे की संरचनात्मक, वर्णनात्मक समझ चाहते हैं।"
 
 lang: "hi"
-sourceContentHash: "3635bd9fdb569d2e"
+sourceContentHash: "cceecfcd59d19112"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

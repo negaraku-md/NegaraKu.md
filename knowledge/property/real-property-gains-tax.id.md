@@ -34,7 +34,7 @@ faq:
     a: "Ya. Pengeluaran yang menambah atau memelihara nilai properti, seperti biaya renovasi dan perbaikan, dapat dikurangi asalkan didukung dengan bukti dan dokumen yang sah."
 
 lang: "id"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

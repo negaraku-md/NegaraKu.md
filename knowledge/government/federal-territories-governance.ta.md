@@ -34,7 +34,7 @@ faq:
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 
 status: "published"
 aiAssisted: true
@@ -153,3 +153,5 @@ keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan 
 ## அடுத்து என்ன
 
 "கூட்டாட்சிப் பிரதேசங்கள் தொடர்பான அனைத்து விவகாரங்களும்" ஏன் மாநிலத்திற்கு அல்லாமல் கூட்டாட்சிக்கு விழுகின்றன என்பதைப் புரிந்துகொள்ள, [கூட்டாட்சி–மாநில அதிகாரப் பகிர்வு](/ta/government/federal-state-division) படிக்கவும். இந்தப் பிரதேசங்களில் இல்லாத நிறுவனத்தைப் பார்க்க, [மாநில சட்டமன்றம் (Dewan Undangan Negeri / DUN)](/ta/government/state-assemblies-dun) பார்க்கவும். நாடாளுமன்றத்தில் பிரதேசக் குடியிருப்பாளர்களைப் பிரதிநிதித்துவப்படுத்தும் அவைகளுக்கு, [மக்களவை](/ta/government/dewan-rakyat) மற்றும் [மாநிலங்களவை](/ta/government/dewan-negara) பார்க்கவும். மேலும் மலேசிய ஆட்சி அமைப்பின் அடுக்குகளின் பெரும் படத்திற்கு, [மூன்று அடுக்கு அரசாங்கம்](/ta/government/three-tiers-of-government) பார்க்கவும்.
+
+மலேசியா எவ்வாறு ஆளப்படுகிறது என அறிய விரும்புகிறீர்களா? [மலேசியாவின் மூன்று அடுக்கு அரசாங்கத்தைப்](/ta/government/three-tiers-of-government/) பார்க்கவும்.

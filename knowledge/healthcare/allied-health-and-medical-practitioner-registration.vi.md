@@ -29,7 +29,7 @@ faq:
     a: "Điều dưỡng viên được đăng ký bởi Ban Điều dưỡng Malaysia theo Nurses Act 1950; dược sĩ bởi Ban Dược Malaysia theo Registration of Pharmacists Act 1951 (Act 371); và các nghề y tế liên kết như vật lý trị liệu bởi MAHPC theo Allied Health Professions Act 2016 (Act 774)."
 
 lang: "vi"
-sourceContentHash: "3615da4185af8269"
+sourceContentHash: "d115e96de8bf4353"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

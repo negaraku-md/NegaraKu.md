@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cha mẹ hoặc người giám hộ tại Malaysia đang cố hiểu các lựa chọn trông nom và giáo dục mầm non trước Lớp 1, cùng bất kỳ ai muốn thành lập một taska hoặc tadika và cần biết cơ quan chức năng liên quan."
 
 lang: "vi"
-sourceContentHash: "5be629c8e1fa0846"
+sourceContentHash: "9f44a6a22be9e0f4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

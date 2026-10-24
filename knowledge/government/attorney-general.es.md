@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Estudiantes, investigadores, periodistas y cualquiera que desee entender el cargo constitucional del Fiscal General a partir del propio texto del Artículo 145 de la Constitución Federal."
 
 lang: "es"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "禁售期是指你在此期间未经批准不得转售房屋的时段。联邦直辖区房屋（Residensi Wilayah）设有 10 年禁售期，雪兰莪我的房屋（Rumah Selangorku）为 5 年，以防止炒作并确保房屋留给目标群体。"
 
 lang: "zh"
-sourceContentHash: "c2d113c9f6018d12"
+sourceContentHash: "1484e1d16671dc8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

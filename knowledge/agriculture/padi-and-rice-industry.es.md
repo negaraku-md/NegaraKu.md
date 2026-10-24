@@ -27,7 +27,7 @@ faq:
   - q: "¿De dónde proviene el arroz importado de Malasia?"
     a: "El grueso de las importaciones proviene de Vietnam, Tailandia, Pakistán, India y Myanmar, según BERNAS."
 lang: "es"
-sourceContentHash: "8a715f161404c46b"
+sourceContentHash: "522e3a6274830936"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

@@ -29,7 +29,7 @@ faq:
     a: "不相同。Belanjawanku 衡量的是达到‘合理生活水平’或舒适生活的开支，高于仅反映维持生存基本需求的贫穷线。"
 
 lang: "zh"
-sourceContentHash: "178a5bff85bb62f4"
+sourceContentHash: "384e7d4c05e2a6eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

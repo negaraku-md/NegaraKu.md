@@ -36,7 +36,7 @@ faq:
     a: "Après l'amendement de 2019 à la Loi sur les pêches de 1985 (Loi A1601), l'amende maximale pour le propriétaire ou le capitaine d'un navire étranger intrus a été portée de RM1 million à RM6 millions, et pour chaque membre d'équipage de RM100,000 à RM600,000."
 
 lang: "fr"
-sourceContentHash: "f5794964e422efce"
+sourceContentHash: "fa3345cedd03dd8d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

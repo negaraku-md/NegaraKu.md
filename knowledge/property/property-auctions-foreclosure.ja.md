@@ -30,7 +30,7 @@ faq:
     a: "競売公告による。買主は通常、未払いの地代（quit rent）、賦課金（cukai pintu）、管理費、公共料金を引き継ぐが、POSに銀行が売却代金から決済すると記載されている場合はこの限りではない。入札前には必ずPOSを読むこと。"
 
 lang: "ja"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

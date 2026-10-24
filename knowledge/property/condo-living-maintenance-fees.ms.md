@@ -25,7 +25,7 @@ appliesTo: "Sesiapa sahaja yang memiliki, sedang membeli, atau menyewa unit di s
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cb88d8015d2b5a82"
+sourceContentHash: "02c5304754ea1783"
 
 status: "published"
 aiAssisted: true

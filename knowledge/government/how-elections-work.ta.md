@@ -37,7 +37,7 @@ verificationNeeded:
   - "வாக்குப்பதிவு நாளின் நடைமுறை விவரங்கள் (வேட்பாளர் பரிந்துரை நேரம், பிரச்சாரக் காலம், வேட்பாளர் வைப்புத் தொகை) Akta Pilihan Raya 1958 மற்றும் Peraturan-Peraturan Pilihan Raya (Perjalanan Pilihan Raya) 1981 ஆல் ஆளப்படுகின்றன, அவை அவ்வப்போது திருத்தப்படலாம். இவற்றை நம்பியிருப்பதற்கு முன், தற்போதைய நேரம் மற்றும் வைப்புத் தொகை எண்ணிக்கையை spr.gov.my-இல் உள்ள விதிமுறை உரை மற்றும் SPR-இன் அதிகாரப்பூர்வ அறிவிப்புகளுடன் ஒப்பிட்டு உறுதிப்படுத்தவும்."
 
 lang: "ta"
-sourceContentHash: "d5825383db9e28fe"
+sourceContentHash: "3ee738dfe81731a1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

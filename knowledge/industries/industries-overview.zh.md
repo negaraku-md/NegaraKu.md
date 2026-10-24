@@ -34,7 +34,7 @@ faq:
     a: "2024年，服务业吸引了2527亿令吉获批投资（占总额的66.8%），制造业吸引了1205亿令吉（占31.8%），总额创下3785亿令吉的纪录（MIDA）。"
 
 lang: "zh"
-sourceContentHash: "fd46cc26349bd735"
+sourceContentHash: "f17027d368c200a7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

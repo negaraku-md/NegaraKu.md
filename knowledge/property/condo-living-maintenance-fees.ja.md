@@ -24,7 +24,7 @@ appliesTo: "マレーシア半島またはラブアン連邦直轄区におい�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "cb88d8015d2b5a82"
+sourceContentHash: "02c5304754ea1783"
 
 status: "published"
 aiAssisted: true

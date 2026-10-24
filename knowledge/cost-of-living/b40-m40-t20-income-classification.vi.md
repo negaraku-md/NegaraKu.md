@@ -29,7 +29,7 @@ faq:
     a: "Các ranh giới ringgit được cập nhật theo mỗi vòng khảo sát (khoảng hai năm) và tăng cùng với tăng trưởng thu nhập. Nhiều con số 'lên đến RMx,xxx' đang lan truyền trên mạng thực ra là từ những vòng khảo sát cũ."
 
 lang: "vi"
-sourceContentHash: "26ffee570df18e65"
+sourceContentHash: "0bad0b514a07b6bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

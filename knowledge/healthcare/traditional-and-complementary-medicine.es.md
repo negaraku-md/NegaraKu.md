@@ -26,7 +26,7 @@ faq:
     a: "Por una primera infracción, una multa no superior a RM30,000 o prisión no superior a 2 años, o ambas. Las infracciones posteriores conllevan hasta RM50,000 o prisión de hasta 3 años."
 
 lang: "es"
-sourceContentHash: "86f8ad16efa02a93"
+sourceContentHash: "63b512945cff4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

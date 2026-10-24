@@ -34,7 +34,7 @@ faq:
     a: "HIV-க்கு குறிப்பிட்ட சட்டம் எதுவும் இல்லை. ஆபத்தான நோய்களைப் பரப்புவதற்கு Kanun Keseksaan (Penal Code) இன் பொதுவான பிரிவுகளான Seksyen 269 மற்றும் 270 பொருந்தக்கூடும், ஆனால் இதுவரை அறியப்பட்ட HIV வழக்குத் தொடர்பான தண்டனை நடவடிக்கை எதுவும் இல்லை."
 
 lang: "ta"
-sourceContentHash: "c335daac63ec7a97"
+sourceContentHash: "1cab11648c701e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

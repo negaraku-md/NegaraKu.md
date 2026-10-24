@@ -38,7 +38,7 @@ faq:
 obligations: []
 
 lang: "es"
-sourceContentHash: "536e73b2ed782672"
+sourceContentHash: "6a197673bd82eb62"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Pelajar, peneliti, wartawan dan siapa saja yang ingin memahami jabatan konstitusional Peguam Negara dari teks Pasal 145 Konstitusi Federal itu sendiri."
 
 lang: "id"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

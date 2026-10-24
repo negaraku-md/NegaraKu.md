@@ -34,7 +34,7 @@ faq:
     a: "El Departamento de Estadística de Malasia (DOSM) publica las estadísticas manufactureras mensuales y anuales y los datos del PIB. La Autoridad de Desarrollo de Inversiones de Malasia (MIDA) promueve y aprueba la inversión manufacturera, mientras que el Ministerio de Inversión, Comercio e Industria (MITI) es el titular del NIMP 2030."
 
 lang: "es"
-sourceContentHash: "688fcd61cdea1a88"
+sourceContentHash: "00a67f4ef7e6555a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

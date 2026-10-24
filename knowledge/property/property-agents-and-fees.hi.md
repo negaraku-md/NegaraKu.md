@@ -28,7 +28,7 @@ faq:
     a: "आधिकारिक पैमाने के तहत किराया शुल्क किराया अवधि के आधार पर सकल किराए का 1.25 से 1.75 महीने है (न्यूनतम शुल्क 1 महीने के किराए के साथ); इसे कौन वहन करता है यह पक्षों के बीच सहमति का मामला है।"
 
 lang: "hi"
-sourceContentHash: "d09e304bd5589019"
+sourceContentHash: "9b3350b7ffce400c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

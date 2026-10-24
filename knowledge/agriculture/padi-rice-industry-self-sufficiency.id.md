@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) memegang peran importir tunggal beras negara, satu peran yang diwarisi dari Lembaga Padi dan Beras Negara (LPN), yang mengambil alih impor beras dan menjadi importir tunggal pada 1974 menyusul krisis pangan dunia 1973. BERNAS juga mengelola stok penyangga beras negara dan mendukung penggiling Bumiputera. Ia diprivatisasi pada 12 Januari 1996."
 
 lang: "id"
-sourceContentHash: "fb620a1ce6fe2341"
+sourceContentHash: "ed4546075e84eef3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

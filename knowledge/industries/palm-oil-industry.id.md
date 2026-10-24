@@ -37,7 +37,7 @@ faq:
     a: "Lembaga Minyak Sawit Malaysia (MPOB), sebuah badan berstatuta di bawah Kementerian Perladangan dan Komoditi, melisensikan dan mengawasi setiap tahap dari penanaman hingga ekspor, dan menjalankan penelitian dan pengembangan industri."
 
 lang: "id"
-sourceContentHash: "6df254d9cadb68a3"
+sourceContentHash: "e7701d74a9145bd8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

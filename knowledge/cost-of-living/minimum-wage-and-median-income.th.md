@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังจัดงบประมาณเทียบกับเงินเดือนมาเลเซีย เทียบเคียงค่าจ้าง หรือพยายามวางตัวเลขรายได้หนึ่งในบริบทระดับชาติ"
 
 lang: "th"
-sourceContentHash: "b4e7cfa473ebf879"
+sourceContentHash: "fde2e01f1a9acb7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

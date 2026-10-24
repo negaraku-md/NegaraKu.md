@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang mencoba memahami bagaimana anggaran rumah tangga Malaysia yang tipikal disusun, atau ingin membandingkan pengeluaran mereka sendiri dengan pola nasional."
 
 lang: "id"
-sourceContentHash: "4c5994da7bcbecd8"
+sourceContentHash: "cd6140755840f27a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

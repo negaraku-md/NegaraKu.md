@@ -24,7 +24,7 @@ appliesTo: "需要了解每年房产税账单的马来西亚半岛屋主、地�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "466dc843a0553a23"
+sourceContentHash: "b2facf160acd431e"
 
 status: "published"
 aiAssisted: true

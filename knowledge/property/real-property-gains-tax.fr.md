@@ -34,7 +34,7 @@ faq:
     a: "Oui. Les dépenses qui augmentent ou préservent la valeur du bien, comme les coûts de rénovation et d'amélioration, peuvent être déduites à condition d'être justifiées par des reçus et documents valables."
 
 lang: "fr"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

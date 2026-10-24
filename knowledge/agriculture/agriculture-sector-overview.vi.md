@@ -35,7 +35,7 @@ faq:
     a: "Vì cả hai được quản lý như những ngành kinh doanh khác nhau. Cọ là một mặt hàng xuất khẩu quy mô lớn sinh lời trên đất phù hợp, trong khi lúa là một cây lương thực biên lợi nhuận thấp phụ thuộc vào trợ cấp và tưới tiêu. Đất đai, vốn và lao động có xu hướng chảy về các cây hàng hóa sinh lời hơn."
 
 lang: "vi"
-sourceContentHash: "c5cc2c29dde16362"
+sourceContentHash: "4c51e3f219f976bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -26,7 +26,7 @@ verificationNeeded:
   - "클리닉 크시하탄, 클리닉 코무니티, 클리닉 데사(Klinik Desa) 간의 인력과 정확한 진료 범위상의 세부 차이는 집필 시점에 KKM 공식 출처에서 완전히 확인할 수 없었으므로, 이 글은 셋이 별개의 시설이라는 점만 밝힙니다."
 
 lang: "ko"
-sourceContentHash: "a763d53f069e94c3"
+sourceContentHash: "b45c68aeb8d6fe25"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

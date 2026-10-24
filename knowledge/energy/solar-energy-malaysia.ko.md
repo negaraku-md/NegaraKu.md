@@ -31,7 +31,7 @@ faq:
     a: "에너지위원회(Energy Commission)가 주된 규제 기관입니다. SEDA Malaysia가 NEM을 실행하고, 단일구매자(TNB 산하)가 CGPP, CRESS, CREAM 같은 시장 프로그램을 조정합니다."
 
 lang: "ko"
-sourceContentHash: "6c4b5196403b953f"
+sourceContentHash: "69ed2a98233b72ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -36,7 +36,7 @@ faq:
     a: "2019년 수산법 1985 개정(Act A1601) 후, 침범하는 외국 선박의 소유주나 선장에 대한 최대 벌금이 RM100만에서 RM600만로, 선원 1인당 RM100,000에서 RM600,000으로 인상되었습니다."
 
 lang: "ko"
-sourceContentHash: "f5794964e422efce"
+sourceContentHash: "fa3345cedd03dd8d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

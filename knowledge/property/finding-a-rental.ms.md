@@ -24,7 +24,7 @@ appliesTo: "Sesiapa sahaja yang sedang mencari rumah sewa di Malaysia, sama ada 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 
 status: "published"
 aiAssisted: true

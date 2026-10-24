@@ -22,7 +22,7 @@ appliesTo: "任何为搬迁到吉隆坡或巴生谷做预算规划的人，正�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "5a6f8510ce30c077"
+sourceContentHash: "9ee948a5f080e34c"
 
 status: "published"
 aiAssisted: true

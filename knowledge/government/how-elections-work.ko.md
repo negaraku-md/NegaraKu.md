@@ -36,7 +36,7 @@ verificationNeeded:
   - "투표일 절차의 세부사항(후보 지명 시간, 선거운동 기간, 후보 기탁금)은 선거법(Election Act 1958)과 선거(선거 시행) 규정(Elections (Conduct of Elections) Regulations 1981)이 규율하며, 이는 수시로 개정될 수 있다. 의존하기 전에 규정 본문과 spr.gov.my의 선거관리위원회(SPR) 공식 발표와 대조하여 시간 수치와 최신 기탁금 액수를 확인할 것."
 
 lang: "ko"
-sourceContentHash: "d5825383db9e28fe"
+sourceContentHash: "3ee738dfe81731a1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -27,7 +27,7 @@ faq:
     a: "受补贴的 RON95 在 BUDI95 计划下为合格国民维持在每升 RM1.99，但不补贴的一般市场价格则依据 APM 上下波动。"
 
 lang: "zh"
-sourceContentHash: "77fbc98bce7fd506"
+sourceContentHash: "31beae2d3f6af51b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

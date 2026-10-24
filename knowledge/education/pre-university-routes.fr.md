@@ -22,7 +22,7 @@ verificationNeeded:
   - "La capacité d'admission annuelle actuelle (nombre de places) pour les cohortes de STPM, de matriculation et d'A-Level n'est pas indiquée ici — ces chiffres changent à chaque cycle d'admission ; confirmez les chiffres de la session actuelle directement auprès du MPM, de la Division de la matriculation ou du collège concerné avant de vous fier à un chiffre précis."
   - "Les directives de la MQA sur la structure des programmes de foundation (Garis Panduan Kurikulum Asasi) n'ont pas pu être extraites intégralement pour cet article — la règle précise d'heures de crédit minimales ou de durée fixée par la MQA pour les programmes de foundation n'est décrite ici qu'en termes généraux ; confirmez les chiffres exacts auprès de la MQA ou de l'établissement offrant le programme avant de les citer."
 lang: "fr"
-sourceContentHash: "d0b49a1aee8b9177"
+sourceContentHash: "65caf030dac83024"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

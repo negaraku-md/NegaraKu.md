@@ -22,7 +22,7 @@ appliesTo: "任何以马来西亚薪金为基础做预算、比较薪酬水平�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4e7cfa473ebf879"
+sourceContentHash: "fde2e01f1a9acb7a"
 
 status: "published"
 aiAssisted: true

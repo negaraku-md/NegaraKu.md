@@ -32,7 +32,7 @@ faq:
     a: "FGV est une agro-industrie intégrée couvrant la plantation (palmier à huile, caoutchouc et énergie renouvelable), les huiles et graisses, le sucre, la logistique et les services d'appui, ainsi que les produits de consommation. Selon ses propres chiffres, il contribue à hauteur d'environ 3% de la production mondiale d'huile de palme brute."
 
 lang: "fr"
-sourceContentHash: "f7515e7869f5fdd6"
+sourceContentHash: "9db31d21c6785747"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -63,7 +63,7 @@ obligations:
     consequence: "لا يُعدّ الاجتماع منعقداً بصفة صحيحة بموجب المادة 309"
 
 lang: "ar"
-sourceContentHash: "51eee5534e5ccee0"
+sourceContentHash: "eee01adb6e2f742c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

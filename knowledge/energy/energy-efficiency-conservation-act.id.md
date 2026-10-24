@@ -31,7 +31,7 @@ faq:
     a: "Kerangka baru Akta 861 dan Peraturan Efisiensi dan Konservasi Energi 2024 memperluas cakupan regulasi dari listrik saja kepada semua bentuk energi. Kerangka ini dipahami menggantikan Efficient Management of Electrical Energy Regulations 2008 (EMEER) yang lama, tetapi rincian pencabutan itu perlu diverifikasi terhadap teks peraturan resmi."
 
 lang: "id"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

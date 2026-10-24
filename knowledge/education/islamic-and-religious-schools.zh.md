@@ -29,7 +29,7 @@ faq:
     a: "主要管辖权在于州伊斯兰宗教局／宗教理事会，因为伊斯兰宗教事务在宪法下属于州权事项。伊斯兰发展局（JAKIM）在联邦层面进行协调，而建筑安全要求则涉及地方政府（Pihak Berkuasa Tempatan）与消防局。"
 
 lang: "zh"
-sourceContentHash: "e8c71a5517740e23"
+sourceContentHash: "b8ecf4cacb65882a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Công dân Malaysia, thường trú nhân, người mua nhà lần đầu, và người mua nước ngoài (chịu các hạn chế và mức thuế bổ sung)"
 
 lang: "vi"
-sourceContentHash: "9e29133ebe5daedf"
+sourceContentHash: "7bbb4ca3cdb29e8e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

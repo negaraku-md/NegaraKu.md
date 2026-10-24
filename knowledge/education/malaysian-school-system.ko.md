@@ -73,7 +73,7 @@ keywords:
   - SPM
   - Education Act 1996
   - Ministry of Education Malaysia
-sourceContentHash: "4002ddcea89a998a"
+sourceContentHash: "963327281cb05deb"
 reviewed: '2026-10-19'
 published: '2026-10-19'
 publishedBy: ashton-tan

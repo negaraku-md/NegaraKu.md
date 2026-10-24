@@ -38,7 +38,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "edde30241ce67971"
+sourceContentHash: "e162231616cff40d"
 
 status: "published"
 aiAssisted: true

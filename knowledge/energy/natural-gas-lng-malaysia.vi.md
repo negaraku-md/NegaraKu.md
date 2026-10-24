@@ -34,7 +34,7 @@ faq:
     a: "Tiếp cận Bên thứ ba (TPA) cho phép các nhà vận chuyển đủ điều kiện, không chỉ PETRONAS, đặt công suất trên các terminal tái hóa khí, các đường ống truyền tải, và các đường ống phân phối theo cùng điều kiện. Nó bắt đầu vào ngày 16 tháng 1 năm 2017 theo Gas Supply (Amendment) Act 2016 và do Ủy ban Năng lượng quản lý."
 
 lang: "vi"
-sourceContentHash: "20fa31d4431394c5"
+sourceContentHash: "4e24ddc5a51e8881"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

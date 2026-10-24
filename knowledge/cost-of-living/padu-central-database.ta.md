@@ -29,7 +29,7 @@ faq:
     a: "இல்லை. அரசாங்கத்தின் கூற்றுப்படி, சட்டக் கட்டுப்பாடுகள் காரணமாக PADU இன் தரவு சேகரிப்பு வங்கித் தகவல் அமைப்புகளை உள்ளடக்கவில்லை."
 
 lang: "ta"
-sourceContentHash: "47282ce02fd5a43d"
+sourceContentHash: "e8105c96d9e01007"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

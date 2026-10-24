@@ -32,7 +32,7 @@ faq:
     a: "Theo một phúc đáp trước nghị viện, Malaysia đã xuất khẩu 115,359 tấn sầu riêng trị giá RM6.37 tỷ sang Trung Quốc trong khoảng từ 2018 đến giữa 2025. Riêng xuất khẩu sầu riêng tươi nguyên trái đạt 773 tấn (gần RM50 triệu) trong nửa đầu năm 2025."
 
 lang: "vi"
-sourceContentHash: "31afd040d92018fe"
+sourceContentHash: "9178bc8f1052043f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

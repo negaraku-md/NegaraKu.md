@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่กำลังหาบ้านเช่าในมาเลเซีย ไม่ว่าจะเช่าในประเทศเป็นครั้งแรกหรือจัดการการเช่าจากต่างประเทศ"
 
 lang: "th"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

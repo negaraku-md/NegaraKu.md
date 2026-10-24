@@ -20,7 +20,7 @@ appliesTo: "中学3年（Tingkatan 3）またはSPM修了後の学生、子ど�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "75531562551211f2"
+sourceContentHash: "1f78c1d4c5cb8fba"
 status: "published"
 aiAssisted: true
 reviewer: null

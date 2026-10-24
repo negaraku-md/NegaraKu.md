@@ -29,7 +29,7 @@ faq:
     a: "Entre ellos están quienes participan en actividades de alto riesgo, las donantes que están embarazadas, menstruando o en periodo de lactancia, cualquier persona que haya vivido en el Reino Unido durante 6 meses o más (acumulados) entre 1980 y 1996, o que haya vivido en un país europeo durante 5 años o más (acumulados) desde 1980 hasta la actualidad, ambos casos por el riesgo de vECJ."
 
 lang: "es"
-sourceContentHash: "241fb7f03a5cd3d3"
+sourceContentHash: "5468a77cc086e2e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -25,7 +25,7 @@ appliesTo: "தங்கள் ஆண்டு சொத்து வரி ப�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "466dc843a0553a23"
+sourceContentHash: "b2facf160acd431e"
 
 status: "published"
 aiAssisted: true

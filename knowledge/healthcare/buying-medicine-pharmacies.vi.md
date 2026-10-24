@@ -19,7 +19,7 @@ keyTakeaways:
   - "Các chất hướng thần theo Biểu Thứ ba của Poisons Act 1952 chịu các quy định riêng, với hình phạt lên tới RM100,000 hoặc năm năm tù cho hành vi không được phép (Mục 30)"
 appliesTo: "Bất kỳ ai mua thuốc ở nhà thuốc chính phủ hoặc tư nhân tại Malaysia, và muốn hiểu vì sao một số thuốc cần đơn trong khi các thuốc khác thì không, cùng vai trò của dược sĩ đã đăng ký trong quá trình đó."
 lang: "vi"
-sourceContentHash: "4ae828e3e8725114"
+sourceContentHash: "d1d06d1d72ea0e4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

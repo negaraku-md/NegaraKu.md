@@ -32,7 +32,7 @@ faq:
     a: "联土全球创投（今FGV控股）是管理FELDA种植园的投资臂膀。它于2012年6月28日在马来西亚交易所上市，IPO当时管理着约500,000公顷、由约112,600名垦殖民经营的土地。"
 
 lang: "zh"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "IWK가 실제로 누구인지, 무엇을 내는 것인지, 그리고 왜 수도 요금과 별개인지를 이해하려는 반도 말레이시아의 주택 소유자, 임차인, 구분소유 관리 기구, 사업자."
 
 lang: "ko"
-sourceContentHash: "b457bd9b79e09115"
+sourceContentHash: "86c5f583e8e5025c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

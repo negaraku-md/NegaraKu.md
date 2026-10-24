@@ -29,7 +29,7 @@ faq:
     a: "在 2025 年 1 月的会晤后，双方已同意 Petros 担任砂拉越的天然气聚合商（不包括 LNG），Petros 自 2025 年 3 月 1 日起开始履行聚合商职能。不过，若干法律诠释分歧与商业细节仍在谈判之中。"
 
 lang: "zh"
-sourceContentHash: "9fa405873e618d18"
+sourceContentHash: "1026083c1716ec2d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "第3条将Petronas置于首相的控制与指示之下，其指示对该法人具有约束力。第6条规定，Petronas以外的任何人在进行加工、提炼或制造石化产品之前须获得首相批准，而第7条则赋予首相制定条例的权力。"
 
 lang: "zh"
-sourceContentHash: "7e742ec88e8babf9"
+sourceContentHash: "bc9ab1d1d905cd8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

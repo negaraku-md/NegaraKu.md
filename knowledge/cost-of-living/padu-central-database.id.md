@@ -29,7 +29,7 @@ faq:
     a: "Tidak. Menurut pemerintah, pengumpulan data PADU tidak melibatkan sistem informasi perbankan karena pembatasan undang-undang."
 
 lang: "id"
-sourceContentHash: "47282ce02fd5a43d"
+sourceContentHash: "e8105c96d9e01007"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "في 2024، جذبت الخدمات RM252.7 مليار من الاستثمارات المعتمَدة (66.8% من الإجمالي)، والتصنيع RM120.5 مليار (31.8%)، من إجمالي قياسي قدره RM378.5 مليار (MIDA)."
 
 lang: "ar"
-sourceContentHash: "fd46cc26349bd735"
+sourceContentHash: "f17027d368c200a7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

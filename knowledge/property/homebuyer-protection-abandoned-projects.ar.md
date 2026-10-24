@@ -33,7 +33,7 @@ faq:
     a: "حكم المحكمة نهائي وملزم ويمكن إنفاذه كأمر قضائي. وعدم الامتثال للحكم جريمة يعاقَب عليها بغرامة تتراوح بين RM10,000 وRM50,000 أو بالسجن حتى سنتين، أو بكليهما."
 
 lang: "ar"
-sourceContentHash: "f08885d66ba27130"
+sourceContentHash: "df503ce18f77fc3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

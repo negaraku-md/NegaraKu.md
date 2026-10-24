@@ -33,7 +33,7 @@ faq:
     a: "Makanan membawa persyaratan kesehatan tambahan di atas pendaftaran SSM dan otoritas lokal. Daftar periksa kategori makanan dalam pedoman memerlukan premis memiliki perangkap lemak, tercantum di bawah kategori makanan dari rumah dalam Sistem Maklumat Keselamatan Makanan Malaysia (FoSIM), dan penjamah makanan memegang sertifikat pelatihan penjamah makanan dari sekolah yang diakui KKM serta bukti vaksinasi anti-tifoid. Sebagian makanan tidak boleh dibuat di rumah sama sekali, seperti susu formula bayi dan air minum/es kemasan yang memerlukan lisensi tersendiri."
 
 lang: "id"
-sourceContentHash: "c4c8831642a77988"
+sourceContentHash: "699957f6b80deec2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

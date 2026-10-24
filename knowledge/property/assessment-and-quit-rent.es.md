@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Propietarios de viviendas, propietarios de tierras y compradores de propiedades en la Malasia Peninsular que necesiten entender sus facturas anuales de impuestos a la propiedad."
 
 lang: "es"
-sourceContentHash: "466dc843a0553a23"
+sourceContentHash: "b2facf160acd431e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

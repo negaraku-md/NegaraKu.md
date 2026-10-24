@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "विद्यार्थी, शोधकर्ता, पत्रकार और वे सभी जो राष्ट्रीय लेखा परीक्षा विभाग तथा महालेखा परीक्षक की रिपोर्ट के संवैधानिक आधार और कार्यों को समझना चाहते हैं।"
 
 lang: "hi"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -55,7 +55,7 @@ obligations:
     consequence: "No specific penalty is attached to the paragraph"
 
 lang: "es"
-sourceContentHash: "a750870631fb7040"
+sourceContentHash: "6cf2737b180a666d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

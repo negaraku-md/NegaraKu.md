@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Empleados que sopesan la cobertura médica del empleador frente a una tarjeta médica personal, y cualquiera que intente entender qué significa «copago» antes de comprar o renovar una póliza."
 
 lang: "es"
-sourceContentHash: "7e22fc5e8613df5f"
+sourceContentHash: "f3d82432e2ef0103"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

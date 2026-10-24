@@ -34,7 +34,7 @@ faq:
     a: "نعم. أُعلن عن توطّن حمى الخنازير الأفريقية في ماليزيا في أغسطس 2025. ووقعت تفشّيات كبرى في سيلانغور (76,000 خنزير في 57 مزرعة) وبينانغ، مع إعدام الماشية المصابة لاحتواء الانتشار (CodeBlue)."
 
 lang: "ar"
-sourceContentHash: "28ee8ace3a3090da"
+sourceContentHash: "bc890674eee634f7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

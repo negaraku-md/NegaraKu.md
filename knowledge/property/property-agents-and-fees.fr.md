@@ -28,7 +28,7 @@ faq:
     a: "L'honoraire de location selon le barème officiel est de 1.25 à 1.75 mois du loyer brut (avec un honoraire minimal de 1 mois de loyer) selon la durée du bail ; qui le supporte relève d'un accord entre les parties."
 
 lang: "fr"
-sourceContentHash: "d09e304bd5589019"
+sourceContentHash: "9b3350b7ffce400c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

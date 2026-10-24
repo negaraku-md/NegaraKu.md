@@ -31,7 +31,7 @@ faq:
     a: "Parmi beaucoup d'autres, MARDI a homologué la série MR (comme MR 297 et MR 219), les variétés aromatiques MRQ et KADARIA 1, le premier riz hybride de la Malaisie."
 
 lang: "fr"
-sourceContentHash: "29fcbde70a256bf1"
+sourceContentHash: "9bb5af4c19ea1667"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

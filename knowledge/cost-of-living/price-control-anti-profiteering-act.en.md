@@ -29,7 +29,7 @@ faq:
     a: "For individuals, a fine of up to RM100,000 and/or imprisonment of up to 3 years for a first offence, and up to RM250,000 and/or 5 years for a subsequent offence. For corporate bodies, a fine of up to RM500,000, and up to RM1 million for a subsequent offence."
 
 lang: "en"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

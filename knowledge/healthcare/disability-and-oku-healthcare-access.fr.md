@@ -31,7 +31,7 @@ faq:
     a: "L'Aide aux dispositifs d'assistance/prothèses (BAT) du JKM couvre les fauteuils roulants manuels ou électriques, les prothèses de jambe et de bras, les aides auditives, les cannes blanches et les machines à braille, selon le prix réel fixé du dispositif."
 
 lang: "fr"
-sourceContentHash: "eb1c377cbf19305d"
+sourceContentHash: "f4c391c1dbfcea33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

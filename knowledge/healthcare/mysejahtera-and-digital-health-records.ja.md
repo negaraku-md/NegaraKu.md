@@ -29,7 +29,7 @@ faq:
     a: "2023年2月に国会へ提出された会計検査院長の報告書は、2021年10月28日から31日の間に、MyVASシステムの「Super Admin」アカウントを通じてワクチン接種者300万人分の個人情報がダウンロードされたことを明らかにした。"
 
 lang: "ja"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

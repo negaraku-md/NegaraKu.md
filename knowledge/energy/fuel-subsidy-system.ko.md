@@ -37,7 +37,7 @@ faq:
     a: "사바, 사라왁, 라부안의 디젤은 리터당 RM2.15로 유지되며 반도처럼 변동화되지 않습니다. 보조 RON95 RM1.99는 전국의 자격 있는 국민에게 적용됩니다."
 
 lang: "ko"
-sourceContentHash: "b4fd92803516f862"
+sourceContentHash: "b0726e746e504bf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

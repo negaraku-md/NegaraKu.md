@@ -34,7 +34,7 @@ faq:
     a: "En 2024, los servicios atrajeron RM252.7 mil millones de inversión aprobada (el 66.8% del total) y la manufactura RM120.5 mil millones (31.8%), de un récord global de RM378.5 mil millones (MIDA)."
 
 lang: "es"
-sourceContentHash: "fd46cc26349bd735"
+sourceContentHash: "f17027d368c200a7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

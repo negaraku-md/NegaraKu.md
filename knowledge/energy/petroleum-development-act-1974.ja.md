@@ -34,7 +34,7 @@ faq:
     a: "s.3はPetronasを首相の統制および指示のもとに置いており、首相の指示は当該法人を拘束する。s.6は、Petronas以外の者が加工、精製または石油化学製品の製造を行う前に首相の許可を得ることを求めており、s.7は首相に規則制定権を付与している。"
 
 lang: "ja"
-sourceContentHash: "7e742ec88e8babf9"
+sourceContentHash: "bc9ab1d1d905cd8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -23,7 +23,7 @@ appliesTo: "任何在马来西亚寻找租房住所的人，无论是首次在�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 
 status: "published"
 aiAssisted: true

@@ -38,7 +38,7 @@ faq:
     a: "2024年，国家石油公司以股息、税款、现金支付及其他承诺形式缴纳了724亿令吉，其中包括320亿令吉的股息。这还不包括该领域其他承包商和服务公司所缴纳的税款。"
 
 lang: "zh"
-sourceContentHash: "7404112e163ed546"
+sourceContentHash: "6af871c9f37f1bbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

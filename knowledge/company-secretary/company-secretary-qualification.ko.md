@@ -52,7 +52,7 @@ obligations:
     statute: "Companies Act 2016, s.241"
     consequence: "유죄 확정 시 RM10,000 이하의 벌금"
 lang: "ko"
-sourceContentHash: "ed068401ca2edfe2"
+sourceContentHash: "e2e61d0597cf5908"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -30,7 +30,7 @@ faq:
     a: "全球指数衡量的是外派人员或外派篮子——进口商品、外派住房、国际学校教育——并且往往以美元计价。马来西亚自身的消费者物价数据追踪的是国内家庭篮子，因此两种衡量方式的走势各不相同。"
 
 lang: "zh"
-sourceContentHash: "a05c3ce9b85bce7e"
+sourceContentHash: "42aa8cddf2f66fe6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

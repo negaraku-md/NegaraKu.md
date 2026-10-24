@@ -30,7 +30,7 @@ faq:
     a: "现行特许权有效期为 2021 年至 2031 年。2026 年 7 月，政府确认将在特许权到期前检讨 BERNAS 作为唯一进口商的角色。"
 
 lang: "zh"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -51,7 +51,7 @@ obligations:
     statute: "Companies Act 2016, Third Schedule paragraph 17"
     consequence: "그 항에는 특정한 벌칙이 부과되어 있지 않음"
 lang: "ko"
-sourceContentHash: "a750870631fb7040"
+sourceContentHash: "6cf2737b180a666d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

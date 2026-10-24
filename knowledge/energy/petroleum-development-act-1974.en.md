@@ -34,7 +34,7 @@ faq:
     a: "Section 3 places Petronas under the control and direction of the Prime Minister, whose directions bind the corporation. Section 6 requires the Prime Minister's permission before anyone other than Petronas carries out processing, refining or the manufacture of petrochemical products, and Section 7 gives the Prime Minister the power to make regulations."
 
 lang: "en"
-sourceContentHash: "7e742ec88e8babf9"
+sourceContentHash: "bc9ab1d1d905cd8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "The Federal Territories Department (JWP) under the Prime Minister's Department coordinates policy and development across the three territories at the federal level, whereas DBKL, Putrajaya Corporation and Labuan Corporation are the local authorities that carry out day-to-day matters such as licensing, town planning and municipal services in their respective territories."
 
 lang: "en"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,3 +153,5 @@ This function was once held by a full ministry — the Ministry of Federal Terri
 ## What's next
 
 To understand why "all matters relating to the Federal Territories" fall to the Federation rather than the states, read the [division of Federal–State powers](/en/government/federal-state-division). To see the institution that does not exist in these territories, see the [State Legislative Assembly (DUN)](/en/government/state-assemblies-dun). For the houses that represent territory residents in Parliament, see the [Dewan Rakyat](/en/government/dewan-rakyat) and the [Dewan Negara](/en/government/dewan-negara). And for the big picture of Malaysia's tiers of government, see the [three tiers of government](/en/government/three-tiers-of-government).
+
+New to how Malaysia is governed? See [Malaysia’s three tiers of government](/en/government/three-tiers-of-government/).

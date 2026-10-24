@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يعيش في ماليزيا ويحتاج إلى فهم من الذي يجمع النفايات في منطقته، وما إذا كان مُلزَمًا بفصل النفايات من المنبع، وما المخاطرة إن لم يفعل."
 
 lang: "ar"
-sourceContentHash: "0280d12a6ccc5b9e"
+sourceContentHash: "e61c9e41571bda53"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 특정 법률을 제정할 권한이 연방과 주(state) 가운데 어느 쪽에 있는지를 사항별로 알아야 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "d234775add600d74"
+sourceContentHash: "a1e4d48e96f45459"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

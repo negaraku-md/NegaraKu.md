@@ -22,7 +22,7 @@ appliesTo: "小学校入学（Tahun 1）前の保育・幼児教育の選択肢�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "5be629c8e1fa0846"
+sourceContentHash: "9f44a6a22be9e0f4"
 
 status: "published"
 aiAssisted: true

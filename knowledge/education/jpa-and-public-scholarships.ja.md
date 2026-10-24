@@ -29,7 +29,7 @@ faq:
     a: "通常はできない。JPAやMARAなどの全額奨学金は、通常、同じ就学段階についてPTPTNを放棄することを学生に求める。各スポンサーの契約条件を確認すること。"
 
 lang: "ja"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

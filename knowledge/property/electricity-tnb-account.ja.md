@@ -22,7 +22,7 @@ appliesTo: "マレーシアの新居や新しい物件へ引っ越し、電力�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6891503e50f70d6b"
+sourceContentHash: "d7658ca7c2a68725"
 
 status: "published"
 aiAssisted: true

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Warga negara Malaysia, penduduk tetap, pembeli rumah pertama kali, dan pembeli asing (tunduk pada pembatasan dan tarif bea tambahan)"
 
 lang: "id"
-sourceContentHash: "9e29133ebe5daedf"
+sourceContentHash: "7bbb4ca3cdb29e8e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui loue ou donne à bail un bien à usage d'habitation en Malaisie : locataires signant leur premier contrat de bail, et bailleurs qui le rédigent, en Malaisie péninsulaire, au Sabah ou au Sarawak."
 
 lang: "fr"
-sourceContentHash: "d779e96ef436f16d"
+sourceContentHash: "846d66a2a34a7e98"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

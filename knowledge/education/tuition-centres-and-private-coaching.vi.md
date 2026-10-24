@@ -30,7 +30,7 @@ faq:
     a: "Theo KPM, việc vận hành một cơ sở giáo dục tư thục không đăng ký có thể bị phạt RM30,000 hoặc 2 năm tù hoặc cả hai."
 
 lang: "vi"
-sourceContentHash: "2879304f7041420a"
+sourceContentHash: "7a7bd84a3f614a0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

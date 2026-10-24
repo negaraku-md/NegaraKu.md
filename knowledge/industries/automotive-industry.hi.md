@@ -36,7 +36,7 @@ faq:
     a: "हाँ। Proton ने December 2024 में अपनी पहली EV, e.MAS 7, लॉन्च की, जिसकी कीमत RM109,800 से शुरू होती है। Perodua ने December 2025 में QV-E — जिसे मलेशिया की पहली घरेलू-निर्मित EV बताया गया — बैटरी को छोड़कर RM80,000 में लॉन्च की, जिसे RM800 मिलियन की लागत से विकसित किया गया।"
 
 lang: "hi"
-sourceContentHash: "67619f9b70d97b83"
+sourceContentHash: "f19ad32bca0374d3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

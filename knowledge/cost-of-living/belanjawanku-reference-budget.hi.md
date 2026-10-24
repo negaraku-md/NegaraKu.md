@@ -29,7 +29,7 @@ faq:
     a: "नहीं। Belanjawanku एक 'उचित' या आरामदायक जीवन-स्तर के लिए आवश्यक खर्च को मापता है, जो गरीबी रेखा से अधिक है, जो केवल जीवित रहने की बुनियादी आवश्यकताओं को दर्शाती है।"
 
 lang: "hi"
-sourceContentHash: "178a5bff85bb62f4"
+sourceContentHash: "384e7d4c05e2a6eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

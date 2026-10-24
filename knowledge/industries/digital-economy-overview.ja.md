@@ -37,7 +37,7 @@ faq:
     a: "DE Rantauは、マレーシアをASEANにおけるデジタルノマド拠点にすることを目的とした、マレーシア・デジタルの触媒的プログラムである。最長12か月有効で更新可能なマレーシア・デジタル・ノマドパス（Malaysia Digital Nomad Pass）を発給する。"
 
 lang: "ja"
-sourceContentHash: "bfede7bb53cd6174"
+sourceContentHash: "8060843a4455d16b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

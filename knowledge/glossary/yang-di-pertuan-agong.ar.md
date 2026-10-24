@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "الطلاب والباحثون والصحفيون وكل من يريد فهمًا وصفيًا للمكانة الدستورية ليانغ دي-بيرتوان أغونغ وآلية الانتخاب من قِبَل مجلس الحكام (Majlis Raja-Raja)."
 
 lang: "ar"
-sourceContentHash: "b3f6c2ddc1104e50"
+sourceContentHash: "aa9b406156a426e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

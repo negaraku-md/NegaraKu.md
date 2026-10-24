@@ -22,7 +22,7 @@ appliesTo: "任何搬迁至沙巴或砂拉越、或为此编列预算的人，�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "327dd8ebe6d5d915"
+sourceContentHash: "8986bf13945d0128"
 
 status: "published"
 aiAssisted: true

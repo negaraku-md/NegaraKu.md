@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่อาศัยอยู่ในมาเลเซียและต้องเข้าใจว่าใครเก็บขยะในพื้นที่ของพวกเขา ต้องแยกขยะที่ต้นทางหรือไม่ และมีความเสี่ยงอะไรหากไม่ทำ"
 
 lang: "th"
-sourceContentHash: "0280d12a6ccc5b9e"
+sourceContentHash: "e61c9e41571bda53"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

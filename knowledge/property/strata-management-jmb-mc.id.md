@@ -34,7 +34,7 @@ faq:
     a: "Ketidakpatuhan terhadap putusan adalah tindak pidana di bawah Pasal 123 — denda tidak melebihi RM250,000 atau penjara tidak melebihi 3 tahun atau keduanya, dengan denda tambahan hingga RM5,000 per hari bagi pelanggaran berkelanjutan. Pengaduan dibuat kepada Komisioner Bangunan (COB)."
 
 lang: "id"
-sourceContentHash: "f0b9ecff267db2f3"
+sourceContentHash: "c33c12700672ddab"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

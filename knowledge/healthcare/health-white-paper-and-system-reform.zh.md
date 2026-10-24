@@ -32,7 +32,7 @@ faq:
     a: "政府强调并非如此。像Rakan KKM这样的举措被定位为一种将专科医生留在公共部门的模式，而非私有化，尽管一些观察者对其长期影响仍持谨慎态度。"
 
 lang: "zh"
-sourceContentHash: "f5aff2ea91b18549"
+sourceContentHash: "cbb5bd100c475cf3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

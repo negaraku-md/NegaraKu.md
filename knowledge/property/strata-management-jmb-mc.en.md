@@ -34,7 +34,7 @@ faq:
     a: "Non-compliance with an award is a criminal offence under Section 123 — a fine not exceeding RM250,000 or imprisonment not exceeding 3 years or both, with a further fine of up to RM5,000 a day for a continuing offence. A complaint is made to the Commissioner of Buildings (COB)."
 
 lang: "en"
-sourceContentHash: "f0b9ecff267db2f3"
+sourceContentHash: "c33c12700672ddab"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

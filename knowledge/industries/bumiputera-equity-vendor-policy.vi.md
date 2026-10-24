@@ -29,7 +29,7 @@ faq:
     a: "Các công ty nộp đơn xin giấy phép PETRONAS phải đáp ứng các yêu cầu tham gia Bumiputera theo mã SWEC liên quan. Đối với Chương trình Phát triển Nhà cung cấp của PETRONAS, cần tối thiểu 51% sở hữu Bumiputera (nguồn: Low & Partners; PETRONAS)."
 
 lang: "vi"
-sourceContentHash: "8653f4f58e0534c5"
+sourceContentHash: "827cfd2ac62b2b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

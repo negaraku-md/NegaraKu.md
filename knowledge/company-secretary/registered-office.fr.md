@@ -62,7 +62,7 @@ obligations:
     consequence: "Fine not exceeding RM50,000 on the company and every officer"
 
 lang: "fr"
-sourceContentHash: "0c5ee4a6c8f640ee"
+sourceContentHash: "88185cb64c84e0a8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

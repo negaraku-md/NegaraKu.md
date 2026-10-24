@@ -30,7 +30,7 @@ faq:
     a: "La concession actuelle est en vigueur pour la période de 2021 à 2031. En juillet 2026, le gouvernement a confirmé qu'il réexaminerait le rôle de BERNAS en tant que seul importateur avant l'expiration de la concession."
 
 lang: "fr"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

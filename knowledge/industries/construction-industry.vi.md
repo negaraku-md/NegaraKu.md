@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 là chính sách được ra mắt tại ICW 2021, sau khi kết thúc Chương trình Chuyển đổi Ngành Xây dựng (CITP) 2016–2020. Nó phác thảo sáu trụ cột chiến lược để chuyển đổi khu vực xây dựng về phía kỷ nguyên số vào năm 2030, bao gồm mục tiêu số hóa 50% chu trình ngành."
 
 lang: "vi"
-sourceContentHash: "77fa6bf333c3fa74"
+sourceContentHash: "6895d1dde5da9e4f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

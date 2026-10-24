@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que alquile, compre o se mude a una vivienda en Malasia y necesite conectar banda ancha fija."
 
 lang: "es"
-sourceContentHash: "651bab79a176221b"
+sourceContentHash: "19befa5847e8b8f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

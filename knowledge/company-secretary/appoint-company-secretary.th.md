@@ -40,7 +40,7 @@ verificationNeeded:
   - "ตรวจสอบแบบฟอร์มที่ SSM กำหนดในปัจจุบันและค่าธรรมเนียมใด ๆ สำหรับการแจ้งการแต่งตั้งเลขานุการตามมาตรา 58 เทียบกับคำแนะนำการยื่นล่าสุดของ SSM เนื่องจาก MBRS 2.0 เปลี่ยนช่องทางการยื่น"
 
 lang: "th"
-sourceContentHash: "87bd6be0702424fa"
+sourceContentHash: "3fa25b3879bb1c66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

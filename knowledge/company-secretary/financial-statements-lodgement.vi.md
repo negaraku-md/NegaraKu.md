@@ -56,7 +56,7 @@ obligations:
     consequence: "Khoản phạt nộp muộn theo Practice Directive 1/2017; tội danh của mọi cán bộ với một khoản tiền phạt lên tới RM50,000 cộng với lên tới RM1,000 mỗi ngày theo s.259(3)"
 
 lang: "vi"
-sourceContentHash: "031f69c170d97650"
+sourceContentHash: "a135eb5aeede2e99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "Los cuidados paliativos se centran en el confort y el control de los síntomas de pacientes con enfermedades que limitan la vida, con independencia de la edad, incluidos los niños. La atención geriátrica, en cambio, es una atención general para personas mayores que pueden no tener una enfermedad en fase terminal."
 
 lang: "es"
-sourceContentHash: "ff994cbda9925abc"
+sourceContentHash: "f3444e3062b1aac2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

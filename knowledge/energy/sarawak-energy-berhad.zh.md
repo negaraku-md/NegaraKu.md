@@ -30,7 +30,7 @@ faq:
     a: "峇贡水力发电站（Bakun）可用装机容量为2,520MW，是砂拉越最大的发电设施。"
 
 lang: "zh"
-sourceContentHash: "585f9d0a1ccc7faf"
+sourceContentHash: "7830394fcb9de25a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

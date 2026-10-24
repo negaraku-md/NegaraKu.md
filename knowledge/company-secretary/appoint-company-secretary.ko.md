@@ -37,7 +37,7 @@ faq:
 verificationNeeded:
   - "MBRS 2.0이 제출 경로를 변경하였으므로, 비서 선임의 s.58 통지에 관한 현행 SSM 소정 양식과 수수료를 SSM의 최신 제출 안내와 대조하여 확인하십시오"
 lang: "ko"
-sourceContentHash: "87bd6be0702424fa"
+sourceContentHash: "3fa25b3879bb1c66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "The new framework of Act 861 and the Energy Efficiency and Conservation Regulations 2024 expands the scope of regulation from electricity alone to all forms of energy. This framework is understood to replace the old Efficient Management of Electrical Energy Regulations 2008 (EMEER), but the details of that repeal should be verified against the official text of the regulations."
 
 lang: "en"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai thuê hoặc cho thuê một bất động sản nhà ở tại Malaysia — người thuê ký hợp đồng thuê đầu tiên của mình, và chủ nhà soạn thảo một hợp đồng, tại Bán đảo Malaysia, Sabah hoặc Sarawak."
 
 lang: "vi"
-sourceContentHash: "d779e96ef436f16d"
+sourceContentHash: "846d66a2a34a7e98"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

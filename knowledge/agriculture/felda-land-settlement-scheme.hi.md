@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (अब FGV Holdings) वह निवेश शाखा है जो FELDA के बागानों का प्रबंधन करती है। इसे 28 जून 2012 को Bursa Malaysia पर सूचीबद्ध किया गया और, IPO के समय, यह लगभग 112,600 बसने वालों द्वारा जोते जाने वाले लगभग 500,000 हेक्टेयर का प्रबंधन करती थी।"
 
 lang: "hi"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "แนวปฏิบัติของกระทรวงสาธารณสุขปี 2012 นิยามการยุติการตั้งครรภ์ว่าเป็นหัตถการที่อายุครรภ์น้อยกว่า 22 สัปดาห์ หรือเมื่อไม่ทราบอายุครรภ์ ให้ประมาณว่าทารกในครรภ์น้อยกว่า 500 กรัม"
 
 lang: "th"
-sourceContentHash: "58e08ea86f967964"
+sourceContentHash: "ae2bf4ced7e95cfe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

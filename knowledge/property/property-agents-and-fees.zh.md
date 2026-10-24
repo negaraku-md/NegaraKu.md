@@ -28,7 +28,7 @@ faq:
     a: "根据官方收费表，出租收费为 1.25 至 1.75 个月毛租金（最低收费 1 个月租金），视租期而定；由谁承担则是双方之间协议的事项。"
 
 lang: "zh"
-sourceContentHash: "d09e304bd5589019"
+sourceContentHash: "9b3350b7ffce400c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

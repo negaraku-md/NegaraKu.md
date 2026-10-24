@@ -38,7 +38,7 @@ verificationNeeded:
   - "The Standing Orders of the Dewan Rakyat referred to here are the Thirteenth Print (April 2013). The Standing Orders are amended from time to time by the Dewan Rakyat itself under Article 62(1) — verify the Standing Order numbers and procedural figures against the current print at parlimen.gov.my before relying on them."
 
 lang: "fr"
-sourceContentHash: "ce348e711538fac4"
+sourceContentHash: "6f2cb5c42d2667a5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

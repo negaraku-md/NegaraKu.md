@@ -19,7 +19,7 @@ keyTakeaways:
   - "Kolej Komuniti berfokus pada sertifikat jenjang lebih rendah dengan penerimaan yang lebih fleksibel, sedangkan Politeknik berfokus pada diploma — keduanya diawasi oleh JPPKK di bawah Kementerian Pendidikan Tinggi"
 appliesTo: "Pelajar setelah Tingkatan 3 atau SPM, orang tua yang membuat perencanaan karier anak, dan pekerja dewasa yang ingin menyertifikasi keterampilan yang sudah ada melalui SKM."
 lang: "id"
-sourceContentHash: "75531562551211f2"
+sourceContentHash: "1f78c1d4c5cb8fba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

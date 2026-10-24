@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كلّ من يشتري عقارًا في ماليزيا أو يبيعه أو يقيّمه ويحتاج إلى فهم ما يلزمه به نوع الحيازة ونوع السند في قائمة ما فعلًا."
 
 lang: "ar"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

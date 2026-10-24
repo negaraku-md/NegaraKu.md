@@ -25,7 +25,7 @@ verificationNeeded:
   - "Les références aux pouvoirs d'exécution (par exemple, les restrictions de voyage à l'étranger pour les emprunteurs défaillants) ne sont mentionnées qu'en termes généraux sur la base de l'existence de tels pouvoirs au titre de l'Act 566 ; le numéro de section précis et ses conditions de déclenchement (comme la période d'arriérés) n'ont pas été vérifiés directement à partir du texte de la Loi ni du portail officiel et doivent être revérifiés."
 
 lang: "fr"
-sourceContentHash: "36c7c223a86b45ee"
+sourceContentHash: "c276a6a6034e9c91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

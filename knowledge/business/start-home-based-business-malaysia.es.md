@@ -33,7 +33,7 @@ faq:
     a: "La alimentación conlleva requisitos sanitarios adicionales por encima del registro ante la SSM y el consejo. La lista de comprobación de la categoría de alimentación de la directriz exige que el local tenga una trampa de grasa, que esté inscrito en la categoría de alimentación doméstica del Sistema de Información de Seguridad Alimentaria de Malasia (Food Safety Information System of Malaysia, FoSIM), y que el operador posea un certificado de formación de manipulador de alimentos de una escuela reconocida por el KKM, además de la prueba de una vacuna contra la fiebre tifoidea. Algunos alimentos no pueden elaborarse en casa en absoluto, como la fórmula infantil y el agua/hielo potable envasados, que requieren su propia licencia."
 
 lang: "es"
-sourceContentHash: "c4c8831642a77988"
+sourceContentHash: "699957f6b80deec2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

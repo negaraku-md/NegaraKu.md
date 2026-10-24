@@ -32,7 +32,7 @@ faq:
     a: "欧盟《零毁林法规》（EUDR）将产品定义为'零毁林'的条件是：种植于 2020 年 12 月 31 日之后未遭毁林的土地（法规 (EU) 2023/1115 第 2 条）。它要求提供地块级别的地理定位（多边形测绘），而对于地处偏远、往往年事已高的小农来说，靠自己完成这项工作在技术上十分困难。"
 
 lang: "zh"
-sourceContentHash: "88d679107671675c"
+sourceContentHash: "f19a6853ff95da87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

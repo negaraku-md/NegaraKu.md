@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar là chương trình dự bị đại học của UKM dành cho học sinh năng khiếu tài năng, được cung cấp trong ba phân ban là Perdana, Komersial và Antarabangsa."
 
 lang: "vi"
-sourceContentHash: "35e2f3422be13be3"
+sourceContentHash: "e8dbefcac0cbb3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

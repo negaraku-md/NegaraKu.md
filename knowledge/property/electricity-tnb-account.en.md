@@ -23,7 +23,7 @@ appliesTo: "Anyone moving into a new house or premises in Malaysia who needs to 
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6891503e50f70d6b"
+sourceContentHash: "d7658ca7c2a68725"
 
 status: "published"
 aiAssisted: true

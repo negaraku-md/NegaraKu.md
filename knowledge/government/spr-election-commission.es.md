@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que quiera entender la posición constitucional del organismo que celebra las elecciones en Malasia — estudiantes, investigadores, periodistas y lectores en general — así como las disposiciones constitucionales que establecen el mandato, la composición y las protecciones del mandato de la Comisión Electoral."
 
 lang: "es"
-sourceContentHash: "6a46ae533ead9e08"
+sourceContentHash: "75351af1712639a4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

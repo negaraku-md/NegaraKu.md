@@ -29,7 +29,7 @@ faq:
     a: "आवेदन KPM पोर्टल के माध्यम से ऑनलाइन किए जाते हैं, और छात्रों को विशेष विद्यालय प्रवेश मूल्यांकन (PKSK) के माध्यम से, शैक्षणिक और सह-पाठ्यचर्या उपलब्धि के साथ जाँचा जाता है।"
 
 lang: "hi"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

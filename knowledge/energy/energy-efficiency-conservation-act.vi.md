@@ -31,7 +31,7 @@ faq:
     a: "Khung mới của Act 861 và Energy Efficiency and Conservation Regulations 2024 mở rộng phạm vi quản lý từ chỉ điện sang mọi hình thức năng lượng. Khung này được hiểu là thay thế Efficient Management of Electrical Energy Regulations 2008 (EMEER) cũ, nhưng chi tiết của việc bãi bỏ đó cần được xác nhận với văn bản quy định chính thức."
 
 lang: "vi"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

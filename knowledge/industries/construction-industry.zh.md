@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 是在 ICW 2021 上推出的政策，紧接建筑工业转型计划（CITP）2016–2020 结束之后。它列出六大战略支柱，以推动建筑领域在 2030 年前迈向数码时代，包括将 50% 产业周期数码化的目标。"
 
 lang: "zh"
-sourceContentHash: "77fa6bf333c3fa74"
+sourceContentHash: "6895d1dde5da9e4f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

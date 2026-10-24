@@ -30,7 +30,7 @@ faq:
   - q: "Pourquoi le gouvernement local est-il une matière de l'État et non fédérale ?"
     a: "Parce que la Constitution fédérale place le gouvernement local sur la Liste des États (item 4 de la Liste II, Neuvième Annexe). Pour maintenir la cohérence de la politique, l'Article 95A établit un Conseil national pour le Gouvernement local qui formule la politique nationale que les gouvernements fédéral et des États doivent suivre."
 lang: "fr"
-sourceContentHash: "78de95ae401b9cbb"
+sourceContentHash: "8106a6c84bc7a419"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

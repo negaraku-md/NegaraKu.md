@@ -27,7 +27,7 @@ faq:
   - q: "DOF quản lý luật nào?"
     a: "Đạo luật chính của cục là Fisheries Act 1985 (Act 317), bao trùm việc bảo tồn, quản lý và phát triển đánh bắt cá và nghề cá trong vùng nước Malaysia, bao gồm cấp phép, nuôi trồng thủy sản, động vật có vú dưới nước và rùa."
 lang: "vi"
-sourceContentHash: "8e62e7e42b18280c"
+sourceContentHash: "0a6f38093e7691ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

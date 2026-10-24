@@ -25,7 +25,7 @@ appliesTo: "适合学生、研究人员、新闻工作者，以及任何想要�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 
 status: "published"
 aiAssisted: true

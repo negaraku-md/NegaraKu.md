@@ -20,7 +20,7 @@ keyTakeaways:
   - "Sửa đổi giáo dục trung học năm 2025 đã được Quốc hội thông qua nhưng chưa được đưa vào hiệu lực bằng thông báo trên Công báo tại thời điểm bài viết này được viết — Bộ trưởng ấn định ngày có hiệu lực đó một cách riêng biệt"
 appliesTo: "Cha mẹ Malaysia đang cân nhắc giáo dục tại nhà cho một đứa trẻ ở độ tuổi tiểu học hoặc trung học, và các gia đình (bao gồm cả các hộ MM2H hoặc người nước ngoài lưu trú dài hạn) cân nhắc giữa sự miễn chính thức và việc không ghi danh con vào trường một cách không chính thức."
 lang: "vi"
-sourceContentHash: "f9978c9d61a0e0de"
+sourceContentHash: "a0dbea0e18298c21"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

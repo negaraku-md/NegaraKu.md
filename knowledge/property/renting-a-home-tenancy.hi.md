@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में आवासीय संपत्ति किराए पर लेने या देने वाला कोई भी व्यक्ति — प्रायद्वीपीय मलेशिया, सबाह या सारावाक में अपना पहला किराएदारी अनुबंध हस्ताक्षरित करने वाले किराएदार, और इसे तैयार करने वाले मकान मालिक।"
 
 lang: "hi"
-sourceContentHash: "d779e96ef436f16d"
+sourceContentHash: "846d66a2a34a7e98"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

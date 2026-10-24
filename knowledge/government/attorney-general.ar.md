@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "الطلاب والباحثون والصحفيون وكل من يريد فهم منصب النائب العام الدستوري من نص المادة 145 من الدستور الاتحادي نفسه."
 
 lang: "ar"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

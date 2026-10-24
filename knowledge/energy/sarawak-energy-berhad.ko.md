@@ -30,7 +30,7 @@ faq:
     a: "이용 가능 용량 2,520MW의 바쿤 수력발전소가 사라왁 최대의 발전 시설입니다."
 
 lang: "ko"
-sourceContentHash: "585f9d0a1ccc7faf"
+sourceContentHash: "7830394fcb9de25a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

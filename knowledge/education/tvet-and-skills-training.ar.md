@@ -19,7 +19,7 @@ keyTakeaways:
   - "تركّز الكليات المجتمعية على شهادات المستوى الأدنى مع قبول أكثر مرونة، بينما يركّز البوليتكنيك على الدبلومات — وكلاهما تحت إشراف JPPKK في وزارة التعليم العالي"
 appliesTo: "الطلاب بعد الصف الثالث الثانوي (Form 3) أو بعد SPM، وأولياء الأمور الذين يخططون لمسار أبنائهم المهني، والعاملون البالغون الراغبون في اعتماد مهاراتهم القائمة عبر SKM."
 lang: "ar"
-sourceContentHash: "75531562551211f2"
+sourceContentHash: "1f78c1d4c5cb8fba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

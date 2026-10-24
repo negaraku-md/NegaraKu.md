@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que necesite saber, materia por materia, si la Federación o un estado tiene la potestad de dictar una ley determinada en Malasia."
 
 lang: "es"
-sourceContentHash: "d234775add600d74"
+sourceContentHash: "a1e4d48e96f45459"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

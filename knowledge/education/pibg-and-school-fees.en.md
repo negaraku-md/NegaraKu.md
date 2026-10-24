@@ -29,7 +29,7 @@ faq:
     a: "No. Education at government primary and secondary schools carries no tuition fees. Special fees, meanwhile, have been abolished since 2008 through SPI No. 13/2007."
 
 lang: "en"
-sourceContentHash: "ae00ce2b2c55df71"
+sourceContentHash: "c71280cc876e703d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

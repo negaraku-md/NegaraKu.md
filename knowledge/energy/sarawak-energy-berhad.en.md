@@ -30,7 +30,7 @@ faq:
     a: "The Bakun Hydroelectric Plant, with an available capacity of 2,520MW, is the largest generation facility in Sarawak."
 
 lang: "en"
-sourceContentHash: "585f9d0a1ccc7faf"
+sourceContentHash: "7830394fcb9de25a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

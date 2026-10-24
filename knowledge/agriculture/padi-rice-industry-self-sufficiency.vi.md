@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) giữ vai trò nhà nhập khẩu gạo duy nhất của đất nước, một vai trò được kế thừa từ Ủy ban Lúa và Gạo Quốc gia (LPN), vốn tiếp quản việc nhập khẩu gạo và trở thành nhà nhập khẩu duy nhất vào năm 1974 sau cuộc khủng hoảng lương thực thế giới 1973. BERNAS cũng quản lý kho đệm gạo quốc gia và hỗ trợ các nhà xay xát Bumiputera. Nó được tư nhân hóa vào ngày 12 tháng 1 năm 1996."
 
 lang: "vi"
-sourceContentHash: "fb620a1ce6fe2341"
+sourceContentHash: "ed4546075e84eef3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

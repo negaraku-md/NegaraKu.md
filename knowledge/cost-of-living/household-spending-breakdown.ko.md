@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "전형적인 말레이시아 가계 예산이 어떻게 구성되는지 이해하려 하거나, 자신의 지출을 전국 패턴과 비교하려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "4c5994da7bcbecd8"
+sourceContentHash: "cd6140755840f27a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

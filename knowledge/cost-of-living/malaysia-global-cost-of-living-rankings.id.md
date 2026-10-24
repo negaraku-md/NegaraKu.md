@@ -30,7 +30,7 @@ faq:
     a: "Indeks global menetapkan harga untuk keranjang ekspatriat atau mobilitas — barang impor, perumahan ekspatriat, sekolah internasional — dan sering menyatakan biaya dalam dolar AS. Data harga konsumen Malaysia sendiri melacak keranjang rumah tangga domestik, sehingga kedua ukuran itu bergerak secara berbeda."
 
 lang: "id"
-sourceContentHash: "a05c3ce9b85bce7e"
+sourceContentHash: "42aa8cddf2f66fe6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

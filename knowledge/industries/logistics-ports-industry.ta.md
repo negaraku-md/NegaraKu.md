@@ -34,7 +34,7 @@ faq:
     a: "World Bank Logistics Performance Index 2023-இல் மலேசியா 26-வது இடத்தில் இருந்தது, 2018-இல் இருந்த 41-வது இடத்திலிருந்து முன்னேறியது, மேலும் Singapore-க்குப் பிறகு ASEAN நாடுகளில் இரண்டாவது இடத்தைப் பிடித்தது."
 
 lang: "ta"
-sourceContentHash: "5308f8757b834449"
+sourceContentHash: "28b83f8fb5bdfc96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

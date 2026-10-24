@@ -34,7 +34,7 @@ faq:
     a: "Las universidades privadas también suelen exigir una prueba de dominio del inglés. Los estudiantes locales normalmente presentan los resultados del MUET, mientras que, según el programa y la institución, pueden aceptarse cualificaciones equivalentes como el IELTS o el TOEFL."
 
 lang: "es"
-sourceContentHash: "06e545a5dcaf1477"
+sourceContentHash: "a815609cdc3d3e77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

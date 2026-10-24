@@ -23,7 +23,7 @@ appliesTo: "任何为在马来西亚生活编列预算、比较薪资待遇与�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 
 status: "published"
 aiAssisted: true

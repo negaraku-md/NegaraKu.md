@@ -29,7 +29,7 @@ faq:
     a: "Thường là không. Các học bổng toàn phần như JPA và MARA thường yêu cầu sinh viên từ bỏ PTPTN cho cùng một cấp học. Hãy kiểm tra các điều kiện thỏa thuận của từng nhà tài trợ."
 
 lang: "vi"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

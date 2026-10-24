@@ -27,7 +27,7 @@ verificationNeeded:
   - "ไม่พบดัชนีค่าเช่าอย่างเป็นทางการที่เฉพาะเจาะจงสำหรับยะโฮร์บาห์รู (Johor Bahru); ข้อความเกี่ยวกับแรงกดดันด้านค่าเช่าจากอุปสงค์ที่เชื่อมโยงกับสิงคโปร์เป็นเชิงคุณภาพ ไม่ได้มีตัวเลขที่เผยแพร่รองรับ."
 
 lang: "th"
-sourceContentHash: "8dc6ca7c0ae8183c"
+sourceContentHash: "b3fe7bab59216408"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

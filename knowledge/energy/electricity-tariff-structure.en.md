@@ -27,7 +27,7 @@ faq:
     a: "No. The RM10 monthly Retail Charge is waived for households using 600 kWh or less per month."
 
 lang: "en"
-sourceContentHash: "6f49b99389da2c61"
+sourceContentHash: "b885e498c8215018"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

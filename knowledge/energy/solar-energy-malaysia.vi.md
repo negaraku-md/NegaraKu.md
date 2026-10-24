@@ -31,7 +31,7 @@ faq:
     a: "Ủy ban Năng lượng (Energy Commission) là cơ quan quản lý chính. SEDA Malaysia triển khai NEM, trong khi Single Buyer (thuộc TNB) điều phối các chương trình thị trường như CGPP, CRESS và CREAM."
 
 lang: "vi"
-sourceContentHash: "6c4b5196403b953f"
+sourceContentHash: "69ed2a98233b72ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

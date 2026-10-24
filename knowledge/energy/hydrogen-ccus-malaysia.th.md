@@ -33,7 +33,7 @@ faq:
     a: "Kasawari CCS ตั้งเป้าการอัด CO2 ครั้งแรกให้เร็วที่สุดในปี 2027 (เลื่อนขึ้นมาจากแผนเดิมปี 2029-2030) โครงการไฮโดรเจนสีเขียวของซาราวักในปัจจุบันโดยทั่วไปคาดว่าจะเริ่มดำเนินการราวปี 2029"
 
 lang: "th"
-sourceContentHash: "cf65984906bccf4e"
+sourceContentHash: "ca85c8c91975c8e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "第861号法令与《2024年能源效率与节约条例》所建立的新框架，将监管范围从仅限电力扩大到所有形式的能源。据了解，该框架取代了旧的《2008年电能高效管理条例》（EMEER），但废除的具体细节仍须对照官方条例文本加以核实。"
 
 lang: "zh"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

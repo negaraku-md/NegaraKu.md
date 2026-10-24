@@ -29,7 +29,7 @@ faq:
     a: "不收。政府小学与中学的教育不收取学费。至于特别费，则已自2008年起通过《2007年第13号专业通令》（SPI Bil. 13/2007）废除。"
 
 lang: "zh"
-sourceContentHash: "ae00ce2b2c55df71"
+sourceContentHash: "c71280cc876e703d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

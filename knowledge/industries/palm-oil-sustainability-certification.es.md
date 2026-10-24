@@ -31,7 +31,7 @@ faq:
     a: "Tras dos aplazamientos, se aplica a los grandes y medianos operadores desde el 30 de diciembre de 2026, y a las microempresas y pequeñas empresas desde el 30 de junio de 2027. La fecha límite de deforestación es el 31 de diciembre de 2020."
 
 lang: "es"
-sourceContentHash: "7368557f33452c6b"
+sourceContentHash: "8402e69b6d7b51cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

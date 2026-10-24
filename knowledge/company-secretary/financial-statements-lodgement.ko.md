@@ -52,7 +52,7 @@ obligations:
     statute: "Companies Act 2016, s.259(1)"
     consequence: "실무지침 1/2017호(Practice Directive 1/2017)에 따른 지연 제출 벌금; s.259(3)에 따라 모든 임원의 범죄로 RM50,000 이하의 벌금과 1일당 RM1,000 이하"
 lang: "ko"
-sourceContentHash: "031f69c170d97650"
+sourceContentHash: "a135eb5aeede2e99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

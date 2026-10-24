@@ -30,7 +30,7 @@ faq:
     a: "PETRA (the Ministry of Energy Transition and Water Transformation) is the ministry that formulates the nation's energy and water policy. The Energy Commission is the statutory regulatory body that implements and enforces the energy supply laws. Under section 16 of Act 610, ST is answerable to the Minister and must give effect to directions of a general character from the Minister."
 
 lang: "en"
-sourceContentHash: "0a1f3c6792f9255a"
+sourceContentHash: "1283bee73757d3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

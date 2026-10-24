@@ -29,7 +29,7 @@ faq:
     a: "விண்ணப்பங்கள் KPM இணையதளம் வழியாக ஆன்லைனில் செய்யப்படுகின்றன; மாணவர்கள் சிறப்புப் பள்ளி சேர்க்கை மதிப்பீட்டு (Pentaksiran Kemasukan Sekolah Khusus, PKSK) மூலம், கல்வி மற்றும் இணைப்பாடத் திட்ட சாதனையுடன் சேர்த்து வடிகட்டப்படுகிறார்கள்."
 
 lang: "ta"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

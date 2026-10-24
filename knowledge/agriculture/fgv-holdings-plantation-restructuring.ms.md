@@ -32,7 +32,7 @@ faq:
     a: "FGV ialah agroperniagaan bersepadu yang merangkumi perladangan (kelapa sawit, getah dan tenaga boleh diperbaharui), minyak dan lemak, gula, logistik dan perkhidmatan sokongan, serta produk pengguna. Menurut kenyataannya sendiri, ia menyumbang kira-kira 3% daripada pengeluaran minyak sawit mentah global."
 
 lang: "ms"
-sourceContentHash: "f7515e7869f5fdd6"
+sourceContentHash: "9db31d21c6785747"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

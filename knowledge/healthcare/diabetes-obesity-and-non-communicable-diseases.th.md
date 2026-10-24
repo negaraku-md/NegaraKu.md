@@ -32,7 +32,7 @@ faq:
     a: "ผู้รับเงินช่วยเหลือ Sumbangan Tunai Rahmah (STR) ที่มีอายุ 40 ปีขึ้นไปมีสิทธิ์รับการคัดกรองฟรีภายใต้ PeKa B40 ที่คลินิกของรัฐหรือเอกชนที่ขึ้นทะเบียน คลินิกสุขภาพของรัฐก็ให้บริการตรวจขั้นพื้นฐานเช่นกัน"
 
 lang: "th"
-sourceContentHash: "bbc5ab5d7d67181c"
+sourceContentHash: "19ab4b4f804b4515"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -30,7 +30,7 @@ faq:
     a: "தற்போதைய சலுகை 2021 முதல் 2031 வரை நடைமுறையில் உள்ளது. ஜூலை 2026-இல், சலுகை முடிவடைவதற்கு முன் ஒரே இறக்குமதியாளராக BERNAS-இன் பங்கை மறுஆய்வு செய்வதாக அரசாங்கம் உறுதிப்படுத்தியது."
 
 lang: "ta"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

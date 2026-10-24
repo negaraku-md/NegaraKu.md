@@ -23,7 +23,7 @@ appliesTo: "மலேசியக் குடிமக்கள், நிர�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "9e29133ebe5daedf"
+sourceContentHash: "7bbb4ca3cdb29e8e"
 
 status: "published"
 aiAssisted: true

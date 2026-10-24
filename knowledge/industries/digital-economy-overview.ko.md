@@ -37,7 +37,7 @@ faq:
     a: "DE Rantau는 말레이시아를 ASEAN의 디지털 노마드 허브로 만들기 위한 말레이시아 디지털 촉매 프로그램입니다. 최대 12개월간 유효하고 갱신 가능한 말레이시아 디지털 노마드 패스를 발급합니다."
 
 lang: "ko"
-sourceContentHash: "bfede7bb53cd6174"
+sourceContentHash: "8060843a4455d16b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

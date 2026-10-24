@@ -34,7 +34,7 @@ faq:
     a: "Las Directrices para el Desarrollo Sostenible de Centros de Datos del MITI (30 de diciembre de 2024) exigen a los operadores declarar el PUE, el WUE y el CUE de diseño conforme a las normas ISO/IEC 30134, y considerar emplazamientos de la Malasia peninsular con un índice de estrés hídrico (WSI) inferior a 0,8, según redacta la directriz su condición de ubicación."
 
 lang: "es"
-sourceContentHash: "58d8713ab3d5317e"
+sourceContentHash: "06223fcd2dad5f61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

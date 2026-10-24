@@ -31,7 +31,7 @@ faq:
     a: "Di antara banyak lainnya, MARDI telah melepas seri MR (seperti MR 297 dan MR 219), varietas wangi MRQ, dan KADARIA 1, padi hibrida pertama Malaysia."
 
 lang: "id"
-sourceContentHash: "29fcbde70a256bf1"
+sourceContentHash: "9bb5af4c19ea1667"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

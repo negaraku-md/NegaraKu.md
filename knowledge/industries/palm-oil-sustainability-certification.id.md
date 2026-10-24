@@ -31,7 +31,7 @@ faq:
     a: "Setelah dua penundaan, ia berlaku untuk operator besar dan menengah mulai 30 Desember 2026, dan untuk usaha mikro dan kecil mulai 30 Juni 2027. Tanggal batas deforestasi adalah 31 Desember 2020."
 
 lang: "id"
-sourceContentHash: "7368557f33452c6b"
+sourceContentHash: "8402e69b6d7b51cb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

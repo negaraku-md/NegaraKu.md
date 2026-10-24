@@ -32,7 +32,7 @@ faq:
     a: "首相府傘下の連邦直轄区局（JWP）は、三つの直轄区の政策と開発を連邦レベルで調整する。一方、DBKL、プトラジャヤ公社、ラブアン公社は、それぞれの直轄区で発行業務、都市計画、市政サービスといった日常業務を行う地方自治体である。"
 
 lang: "ja"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,3 +153,5 @@ keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan 
 ## 次に読むべきもの
 
 「連邦直轄区に関するすべての事項」がなぜ州ではなく連邦に帰属するのかを理解するには、[連邦と州の権限分担](/ja/government/federal-state-division)を参照。この直轄区に存在しない制度を見るには、[州議会（DUN）](/ja/government/state-assemblies-dun)を参照。国会で直轄区の住民を代表する両院については、[下院](/ja/government/dewan-rakyat)と[上院](/ja/government/dewan-negara)を参照。そしてマレーシアの統治の全体的な階層構造については、[三層の政府](/ja/government/three-tiers-of-government)を参照。
+
+マレーシアの統治の仕組みを知りたいですか？[マレーシアの三層の政府](/ja/government/three-tiers-of-government/)をご覧ください。

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "हर वह व्यक्ति जो वर्णनात्मक रूप से समझना चाहता है कि मलेशियाई सीनेटर कैसे निर्वाचित और नियुक्त होते हैं, और देवान नेगारा किसी विधेयक के पारित होने को कहाँ तक प्रभावित कर सकता है।"
 
 lang: "hi"
-sourceContentHash: "795be8860e769da6"
+sourceContentHash: "344b9bed4a29fc5f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

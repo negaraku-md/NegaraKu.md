@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "أولياء أمور ومقدّمو رعاية لطفل في ماليزيا مشخَّص بإعاقة أو صعوبة تعلّم ممّن يحاولون تحديد الإلحاق المدرسي وخطوات التسجيل المنطبقة."
 
 lang: "ar"
-sourceContentHash: "e0164ad51b29c01a"
+sourceContentHash: "9436b58ec227f7f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

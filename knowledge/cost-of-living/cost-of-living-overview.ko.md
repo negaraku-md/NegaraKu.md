@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "말레이시아 생활 예산을 세우는 사람, 급여 제안을 실제 생활비와 비교하는 사람, 또는 생활비 주장 뒤에 있는 1차 DOSM 자료를 찾는 사람."
 
 lang: "ko"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

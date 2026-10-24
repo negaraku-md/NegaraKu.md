@@ -30,7 +30,7 @@ faq:
     a: "โรงไฟฟ้าพลังน้ำ Bakun ด้วยกำลังการผลิตที่มีอยู่ 2,520MW เป็นสิ่งอำนวยความสะดวกการผลิตที่ใหญ่ที่สุดในซาราวัก"
 
 lang: "th"
-sourceContentHash: "585f9d0a1ccc7faf"
+sourceContentHash: "7830394fcb9de25a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

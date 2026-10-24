@@ -27,7 +27,7 @@ faq:
     a: "不是。每月用电600千瓦时或以下的家庭，可获豁免每月RM10的零售费。"
 
 lang: "zh"
-sourceContentHash: "6f49b99389da2c61"
+sourceContentHash: "b885e498c8215018"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

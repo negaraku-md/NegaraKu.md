@@ -27,7 +27,7 @@ faq:
   - q: "Undang-undang apa yang dikelola oleh DOF?"
     a: "Statuta utamanya adalah Akta Perikanan 1985 (Akta 317), yang mencakup konservasi, pengelolaan dan pengembangan penangkapan ikan dan perikanan di perairan Malaysia, termasuk pelisensian, akuakultur, mamalia akuatik dan penyu."
 lang: "id"
-sourceContentHash: "8e62e7e42b18280c"
+sourceContentHash: "0a6f38093e7691ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

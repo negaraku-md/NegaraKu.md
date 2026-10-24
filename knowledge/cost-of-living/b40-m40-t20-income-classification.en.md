@@ -29,7 +29,7 @@ faq:
     a: "The ringgit boundaries are updated every survey round (about every two years) and rise with income growth. Many of the 'up to RMx,xxx' figures circulating online are actually from older rounds."
 
 lang: "en"
-sourceContentHash: "26ffee570df18e65"
+sourceContentHash: "0bad0b514a07b6bf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

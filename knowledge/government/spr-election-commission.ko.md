@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 선거를 관리하는 기관의 헌법적 지위를 이해하고자 하는 모든 사람 — 학생, 연구자, 기자 및 일반 독자 — 그리고 선거관리위원회(SPR)의 권한, 구성 및 재임 보장을 정하는 헌법 조항을 이해하고자 하는 사람."
 
 lang: "ko"
-sourceContentHash: "6a46ae533ead9e08"
+sourceContentHash: "75351af1712639a4"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

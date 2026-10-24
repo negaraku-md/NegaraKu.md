@@ -23,7 +23,7 @@ verificationNeeded:
   - "لا يذكر هذا المقال أعداد القبول في البرامج، أو نسب الحصص، أو أرقام رسوم محددة لأيّ مؤسسة — فهذه تختلف بحسب البرنامج والحرم الجامعي وتتغيّر كل دفعة؛ تأكّد مباشرة من e-Panduan التابع لـ UPU (للجامعات العامة) أو من المؤسسة المعنية (للجامعات الخاصة) قبل التقديم."
   - "لم يُذكر هنا العدد الحالي الدقيق لمزوّدي IPTS المسجَّلين لأن جداول الإحصاءات المنشورة من MOHE (Statistik Pendidikan Tinggi) لم تُفتح بالكامل لهذا المقال — للحصول على رقم دقيق وحالي ارجع مباشرة إلى منشور Statistik Pendidikan Tinggi الصادر عن MOHE."
 lang: "ar"
-sourceContentHash: "8368ed6f49bb9158"
+sourceContentHash: "6b715cdf26e90660"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

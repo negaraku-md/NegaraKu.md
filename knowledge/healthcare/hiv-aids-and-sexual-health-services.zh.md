@@ -34,7 +34,7 @@ faq:
     a: "没有专门针对艾滋病毒的法律。《刑事法典》如第 269 与 270 条的一般条文可适用于危险疾病的传播，但迄今没有已知的艾滋病毒起诉案例。"
 
 lang: "zh"
-sourceContentHash: "c335daac63ec7a97"
+sourceContentHash: "1cab11648c701e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

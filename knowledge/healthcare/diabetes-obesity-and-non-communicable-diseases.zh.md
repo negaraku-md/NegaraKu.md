@@ -32,7 +32,7 @@ faq:
     a: "40 岁及以上的拉玛现金援助（Sumbangan Tunai Rahmah，STR）受益人有资格在 PeKa B40 计划下于注册的政府或私人诊所获得免费筛查。公立卫生诊所（Klinik Kesihatan）也提供基础检查。"
 
 lang: "zh"
-sourceContentHash: "bbc5ab5d7d67181c"
+sourceContentHash: "19ab4b4f804b4515"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

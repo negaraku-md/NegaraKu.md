@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में किसी नए घर या परिसर में जाने वाला कोई भी व्यक्ति जिसे बिजली आपूर्ति खाता खोलना, स्थानांतरित करना या बंद करना है — चाहे प्रायद्वीपीय मलेशिया, सबाह या सारावाक में।"
 
 lang: "hi"
-sourceContentHash: "6891503e50f70d6b"
+sourceContentHash: "d7658ca7c2a68725"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

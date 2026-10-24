@@ -33,7 +33,7 @@ faq:
     a: "Une décision du Tribunal est définitive et contraignante et peut être exécutée comme une ordonnance de justice. Le non-respect d'une décision est une infraction passible d'une amende de RM10,000 à RM50,000 ou d'un emprisonnement maximal de deux ans, ou des deux."
 
 lang: "fr"
-sourceContentHash: "f08885d66ba27130"
+sourceContentHash: "df503ce18f77fc3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

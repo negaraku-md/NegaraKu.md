@@ -30,7 +30,7 @@ faq:
     a: "Menurut KPM, menyelenggarakan institusi pendidikan swasta yang tidak terdaftar dapat dikenakan penalti sebesar RM30,000 atau penjara 2 tahun atau keduanya."
 
 lang: "id"
-sourceContentHash: "2879304f7041420a"
+sourceContentHash: "7a7bd84a3f614a0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "Non. Selon le gouvernement, la collecte de données de PADU n'implique pas les systèmes d'information bancaire en raison de restrictions légales."
 
 lang: "fr"
-sourceContentHash: "47282ce02fd5a43d"
+sourceContentHash: "e8105c96d9e01007"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

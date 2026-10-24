@@ -37,7 +37,7 @@ faq:
     a: "मलेशियाई पाम ऑयल बोर्ड (MPOB), बागान एवं जिंस मंत्रालय के अधीन एक वैधानिक निकाय, रोपण से लेकर निर्यात तक हर चरण को लाइसेंस देता और उसकी देखरेख करता है, और उद्योग का अनुसंधान व विकास चलाता है।"
 
 lang: "hi"
-sourceContentHash: "6df254d9cadb68a3"
+sourceContentHash: "e7701d74a9145bd8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

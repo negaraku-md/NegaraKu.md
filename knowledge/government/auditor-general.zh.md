@@ -24,7 +24,7 @@ appliesTo: "学生、研究人员、新闻工作者，以及任何想要理解�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 
 status: "published"
 aiAssisted: true

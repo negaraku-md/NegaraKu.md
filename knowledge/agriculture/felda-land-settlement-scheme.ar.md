@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (المعروفة الآن باسم FGV Holdings) هي الذراع الاستثمارية التي تدير مزارع FELDA. أُدرجت في بورصة ماليزيا في 28 يونيو 2012، وكانت وقت الاكتتاب تدير نحو 500,000 هكتار يعمل فيها نحو 112,600 مستوطن."
 
 lang: "ar"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

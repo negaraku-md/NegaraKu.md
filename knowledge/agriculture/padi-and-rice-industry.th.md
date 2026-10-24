@@ -27,7 +27,7 @@ faq:
   - q: "ข้าวนำเข้าของมาเลเซียมาจากไหน?"
     a: "การนำเข้าส่วนใหญ่มาจากเวียดนาม ไทย ปากีสถาน อินเดีย และเมียนมา ตามข้อมูลของ BERNAS"
 lang: "th"
-sourceContentHash: "8a715f161404c46b"
+sourceContentHash: "522e3a6274830936"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

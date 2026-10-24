@@ -34,7 +34,7 @@ faq:
     a: "Les universités privées exigent elles aussi généralement une preuve de maîtrise de l'anglais. Les étudiants locaux soumettent habituellement les résultats du MUET, tandis que des qualifications équivalentes comme l'IELTS ou le TOEFL peuvent être acceptées selon le programme et l'établissement."
 
 lang: "fr"
-sourceContentHash: "06e545a5dcaf1477"
+sourceContentHash: "a815609cdc3d3e77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

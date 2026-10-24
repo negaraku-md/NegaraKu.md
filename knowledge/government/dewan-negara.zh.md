@@ -24,7 +24,7 @@ appliesTo: "任何想要从描述性角度了解马来西亚上议员如何选�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "795be8860e769da6"
+sourceContentHash: "344b9bed4a29fc5f"
 
 status: "published"
 aiAssisted: true

@@ -24,7 +24,7 @@ appliesTo: "移住前に、西側の給与・支出水準と比較してマレ�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "4843205b62ed2e41"
+sourceContentHash: "3f8f25704fed84c5"
 
 status: "published"
 aiAssisted: true

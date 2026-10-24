@@ -35,7 +35,7 @@ faq:
     a: "อากรแสตมป์คือ 0.5% ของจำนวนสินเชื่อภายใต้พระราชบัญญัติอากรแสตมป์ 1949 ตัวอย่างเช่น สินเชื่อ RM450,000 เสียอากร RM2,250 ต้องชำระภายใน 30 วันนับจากวันที่ลงนามในสัญญา"
 
 lang: "th"
-sourceContentHash: "9739f168cee000e2"
+sourceContentHash: "b1c14566767fa9fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

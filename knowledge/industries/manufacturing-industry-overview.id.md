@@ -34,7 +34,7 @@ faq:
     a: "Jabatan Perangkaan Malaysia (DOSM) menerbitkan statistik manufaktur bulanan dan tahunan serta data PDB. Lembaga Pembangunan Pelaburan Malaysia (MIDA) mempromosikan dan menyetujui investasi manufaktur, sementara Kementerian Pelaburan, Perdagangan dan Industri (MITI) memiliki NIMP 2030."
 
 lang: "id"
-sourceContentHash: "688fcd61cdea1a88"
+sourceContentHash: "00a67f4ef7e6555a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

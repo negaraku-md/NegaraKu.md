@@ -30,7 +30,7 @@ faq:
     a: "KPM에 따르면, 미등록 사립 교육기관을 운영하면 RM30,000의 벌금 또는 2년의 징역, 또는 둘 다에 처해질 수 있습니다."
 
 lang: "ko"
-sourceContentHash: "2879304f7041420a"
+sourceContentHash: "7a7bd84a3f614a0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que viva en Malasia y necesite entender quién recoge la basura en su zona, si está obligada a separar los residuos en origen y cuál es el riesgo si no lo hace."
 
 lang: "es"
-sourceContentHash: "0280d12a6ccc5b9e"
+sourceContentHash: "e61c9e41571bda53"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

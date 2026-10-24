@@ -38,7 +38,7 @@ verificationNeeded:
   - "اللائحة الداخلية لمجلس النواب (Standing Orders) المشار إليها هنا هي الطبعة الثالثة عشرة (أبريل 2013). وتُعدَّل اللائحة من وقت لآخر من مجلس النواب نفسه بموجب المادة 62(1) — تحقّق من أرقام مواد اللائحة والأرقام الإجرائية مقابل الطبعة الحالية على parlimen.gov.my قبل الاعتماد عليها."
 
 lang: "ar"
-sourceContentHash: "ce348e711538fac4"
+sourceContentHash: "6f2cb5c42d2667a5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

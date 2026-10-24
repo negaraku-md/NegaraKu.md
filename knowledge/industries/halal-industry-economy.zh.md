@@ -34,7 +34,7 @@ faq:
     a: "不是。清真认证象征着卫生、可追溯性和质量标准，这个领域同时向穆斯林与非穆斯林消费者，以及非穆斯林占多数的出口目的地推广。"
 
 lang: "zh"
-sourceContentHash: "e86c482e092e1722"
+sourceContentHash: "94481a23df67c89e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

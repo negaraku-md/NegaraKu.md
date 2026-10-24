@@ -26,7 +26,7 @@ faq:
     a: "For a first offence, a fine not exceeding RM30,000 or imprisonment not exceeding 2 years, or both. Subsequent offences carry up to RM50,000 or imprisonment of up to 3 years."
 
 lang: "en"
-sourceContentHash: "86f8ad16efa02a93"
+sourceContentHash: "63b512945cff4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

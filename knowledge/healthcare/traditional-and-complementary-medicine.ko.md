@@ -26,7 +26,7 @@ faq:
     a: "초범의 경우 RM30,000을 넘지 않는 벌금 또는 2년을 넘지 않는 징역 또는 두 가지 병과입니다. 이후의 위반은 최대 RM50,000의 벌금 또는 최대 3년의 징역입니다."
 
 lang: "ko"
-sourceContentHash: "86f8ad16efa02a93"
+sourceContentHash: "63b512945cff4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

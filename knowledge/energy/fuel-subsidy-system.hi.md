@@ -37,7 +37,7 @@ faq:
     a: "सबाह, सारावाक और लाबुआन में डीज़ल RM2.15 प्रति लीटर पर रखा जाता है और प्रायद्वीप की तरह स्वतंत्र नहीं किया जाता। RM1.99 वाली सब्सिडी वाली RON95 कीमत पूरे देश में पात्र नागरिकों पर लागू होती है।"
 
 lang: "hi"
-sourceContentHash: "b4fd92803516f862"
+sourceContentHash: "b0726e746e504bf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

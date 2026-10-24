@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Sinh viên, nhà nghiên cứu, nhà báo và bất kỳ ai muốn hiểu một cách khách quan vị thế hiến pháp của Yang di-Pertuan Agong cùng cơ chế bầu chọn bởi Hội đồng Quân vương."
 
 lang: "vi"
-sourceContentHash: "b3f6c2ddc1104e50"
+sourceContentHash: "aa9b406156a426e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

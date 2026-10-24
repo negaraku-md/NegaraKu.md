@@ -28,7 +28,7 @@ faq:
     a: "Una RA es una sociedad registrada bajo el Societies Act 1966, no un organismo legal — no tiene un poder comparable al de un Joint Management Body o una Management Corporation para obligar al pago. Los tribunales han permitido que una RA exija a un residente moroso operar él mismo una barrera de pluma compartida, pero negar la entrada a un residente directamente corre el riesgo de ser una molestia accionable judicialmente."
 
 lang: "es"
-sourceContentHash: "03cf0cac851c0421"
+sourceContentHash: "5d0d6e50f897a3e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "卫生部2012年指南将终止妊娠界定为在孕龄不足22周时进行的程序，或在孕龄未知时，胎儿估计不足500克。"
 
 lang: "zh"
-sourceContentHash: "58e08ea86f967964"
+sourceContentHash: "ae2bf4ced7e95cfe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -28,7 +28,7 @@ verificationNeeded:
   - "ชื่อตำแหน่งประมุขของแต่ละรัฐที่มีราชา (Sultan, Yang di-Pertuan Besar, Raja) นำมาจากพอร์ทัล MyGovernment และคำนิยาม 'Raja' ในมาตรา 160(2) โปรดตรวจสอบเทียบกับรัฐธรรมนูญของแต่ละรัฐสำหรับการใช้อย่างเป็นทางการ"
 
 lang: "th"
-sourceContentHash: "56751778ff042f02"
+sourceContentHash: "9fbc657f47f5ec76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

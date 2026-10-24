@@ -25,7 +25,7 @@ appliesTo: "任何想要理解马来西亚执行选举的机构之宪法地位�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6a46ae533ead9e08"
+sourceContentHash: "75351af1712639a4"
 
 status: "published"
 aiAssisted: true

@@ -29,7 +29,7 @@ faq:
     a: "Para individuos, una multa de hasta RM100,000 y/o prisión de hasta 3 años por un primer delito, y de hasta RM250,000 y/o 5 años por un delito posterior. Para personas jurídicas, una multa de hasta RM500,000, y de hasta RM1 millón por un delito posterior."
 
 lang: "es"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -28,7 +28,7 @@ faq:
     a: "تؤكّد شهادة CCC أن المنزل بُني وفق المخططات المعتمَدة وأنه آمن للسكنى. وبدونها، يكون المبنى رسميًا غير صالح للسكنى وقد يتأثّر توصيل المرافق."
 
 lang: "ar"
-sourceContentHash: "47b5179ed98be754"
+sourceContentHash: "a8a8202635252bef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

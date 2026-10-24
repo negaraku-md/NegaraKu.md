@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아 헌법 체계에 대한 구조적·서술적 이해를 찾는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "3635bd9fdb569d2e"
+sourceContentHash: "cceecfcd59d19112"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (aujourd'hui FGV Holdings) est le bras d'investissement qui gère les plantations de FELDA. Elle a été cotée à la Bursa Malaysia le 28 juin 2012 et, au moment de l'introduction en bourse, gérait environ 500,000 hectares exploités par quelque 112,600 colons."
 
 lang: "fr"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

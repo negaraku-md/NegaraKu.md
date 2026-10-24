@@ -31,7 +31,7 @@ faq:
     a: "Suruhanjaya Tenaga (Energy Commission) adalah regulator utama. SEDA Malaysia melaksanakan NEM, sementara Single Buyer (di bawah TNB) mengoordinasikan program pasar seperti CGPP, CRESS dan CREAM."
 
 lang: "id"
-sourceContentHash: "6c4b5196403b953f"
+sourceContentHash: "69ed2a98233b72ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

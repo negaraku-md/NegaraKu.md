@@ -30,7 +30,7 @@ faq:
     a: "الامتياز الحالي نافذ للفترة من 2021 إلى 2031. وفي يوليو 2026 أكّدت الحكومة أنها ستراجع دور BERNAS بوصفها المستورد الوحيد قبل انتهاء الامتياز."
 
 lang: "ar"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

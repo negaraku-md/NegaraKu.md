@@ -30,7 +30,7 @@ faq:
     a: "Les indices mondiaux évaluent un panier d'expatrié ou de mobilité — biens importés, logement pour expatriés, scolarité internationale — et expriment souvent les coûts en dollars américains. Les propres données de prix à la consommation de la Malaisie suivent un panier de ménage domestique, de sorte que les deux mesures évoluent différemment."
 
 lang: "fr"
-sourceContentHash: "a05c3ce9b85bce7e"
+sourceContentHash: "42aa8cddf2f66fe6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

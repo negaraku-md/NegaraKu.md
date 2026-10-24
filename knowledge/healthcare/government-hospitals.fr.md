@@ -27,7 +27,7 @@ verificationNeeded:
   - "L'exonération/réduction de frais spécifique pour les citoyens âgés de 60 ans et plus — largement rapportée comme une exonération des frais d'inscription de RM5 à la consultation de spécialistes et une réduction de 50 % sur les frais de Classe 3 — n'a pas pu être confirmée directement sur le site officiel moh.gov.my (403 Forbidden lors de la tentative d'accès), de sorte que ces chiffres ne sont délibérément pas présentés comme des faits confirmés ; seul le mécanisme est décrit en termes généraux."
   - "Les statistiques de délais d'attente (par exemple le nombre moyen de jours/heures pour un rendez-vous de spécialiste ou une chirurgie programmée) ne sont pas indiquées, car aucun chiffre officiel vérifiable du KKM n'a pu être trouvé au moment de la rédaction ; la réalité des délais d'attente est décrite de manière qualitative uniquement."
 lang: "fr"
-sourceContentHash: "e787862480b6ac9a"
+sourceContentHash: "fad2707d6e797e31"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -35,7 +35,7 @@ faq:
     a: "Stamp duty is 0.5% of the loan amount under the Stamp Act 1949. For example, a loan of RM450,000 attracts a duty of RM2,250. Payment must be made within 30 days from the date the agreement is signed."
 
 lang: "en"
-sourceContentHash: "9739f168cee000e2"
+sourceContentHash: "b1c14566767fa9fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

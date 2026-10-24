@@ -32,7 +32,7 @@ faq:
     a: "Le Règlement de l'UE sur la déforestation définit les produits comme « sans déforestation » uniquement s'ils sont cultivés sur des terres non déboisées après le 31 décembre 2020 (Règlement (UE) 2023/1115, article 2). Il exige une géolocalisation au niveau de la parcelle (cartographie de polygones), ce qui est techniquement difficile à produire par eux-mêmes pour des agriculteurs petits, souvent âgés et isolés."
 
 lang: "fr"
-sourceContentHash: "88d679107671675c"
+sourceContentHash: "f19a6853ff95da87"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

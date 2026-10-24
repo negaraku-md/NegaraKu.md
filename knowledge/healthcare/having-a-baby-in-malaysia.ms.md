@@ -25,7 +25,7 @@ appliesTo: "Sesiapa di Malaysia yang sedang hamil, merancang untuk hamil, atau m
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8182db0933e495e5"
+sourceContentHash: "f82d2d99c31a083b"
 
 status: "published"
 aiAssisted: true

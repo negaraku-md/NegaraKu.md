@@ -29,7 +29,7 @@ faq:
     a: "护士由马来西亚护士局根据《1950 年护士法令》注册；药剂师由马来西亚药剂局根据《1951 年药剂师注册法令》（第 371 号法令）注册；而物理治疗等联合医疗专业则由 MAHPC 根据《2016 年联合医疗专业法令》（第 774 号法令）监管。"
 
 lang: "zh"
-sourceContentHash: "3615da4185af8269"
+sourceContentHash: "d115e96de8bf4353"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

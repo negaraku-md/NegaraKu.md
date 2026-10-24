@@ -37,7 +37,7 @@ faq:
     a: "مجلس زيت النخيل الماليزي (MPOB)، وهو هيئة نظامية تابعة لوزارة المزارع والسلع، يرخّص ويشرف على كل مرحلة من الزراعة إلى التصدير، ويدير بحث الصناعة وتطويرها."
 
 lang: "ar"
-sourceContentHash: "6df254d9cadb68a3"
+sourceContentHash: "e7701d74a9145bd8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

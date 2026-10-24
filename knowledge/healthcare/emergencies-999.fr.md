@@ -31,7 +31,7 @@ faq:
     a: "Les ambulances publiques sont dépêchées gratuitement via la ligne 999 et sont gérées par le KKM conjointement avec des organismes bénévoles comme St John Ambulance et la Société du Croissant-Rouge de Malaisie. Les ambulances privées, quant à elles, sont exploitées par des entreprises ou des hôpitaux privés via leurs propres lignes directes, et facturent des frais de service selon la nature de l'appel."
 
 lang: "fr"
-sourceContentHash: "492fe31c078f6681"
+sourceContentHash: "2f1b3605919630fa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

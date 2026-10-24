@@ -33,7 +33,7 @@ faq:
     a: "Cả hai loại đều có thể được phê duyệt để nhận sinh viên quốc tế, nhưng chúng nằm dưới các phần khác nhau của khung Thẻ Sinh viên và thường khác nhau về việc chương trình và năng lực tiếp nhận nào mở cho ứng viên nước ngoài so với ứng viên trong nước. Hãy xác nhận trực tiếp với văn phòng quốc tế của cơ sở xem chương trình mục tiêu nào của bạn mở cho việc tuyển người không phải công dân trước khi nộp đơn."
 
 lang: "vi"
-sourceContentHash: "b1b055e68d2a5111"
+sourceContentHash: "7261a5b72201747a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

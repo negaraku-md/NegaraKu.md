@@ -32,7 +32,7 @@ faq:
     a: "Ia dokumen kebijakan yang disetujui Parlemen pada 15 Juni 2023, menguraikan pembaruan sistem kesehatan Malaysia secara bertahap selama 15 tahun."
 
 lang: "id"
-sourceContentHash: "635c9f97868b06be"
+sourceContentHash: "6b5ead408a9cf117"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

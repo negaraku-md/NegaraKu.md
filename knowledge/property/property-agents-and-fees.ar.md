@@ -28,7 +28,7 @@ faq:
     a: "أتعاب الإيجار بموجب الجدول الرسمي هي 1.25 إلى 1.75 من الإيجار الشهري الإجمالي (بحد أدنى للأتعاب قدره إيجار شهر واحد) بحسب مدة الإيجار؛ ومن يتحمّلها أمرٌ متروك للاتفاق بين الطرفين."
 
 lang: "ar"
-sourceContentHash: "d09e304bd5589019"
+sourceContentHash: "9b3350b7ffce400c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Sertifikasi halal menandakan standar kebersihan, keterlacakan dan kualitas, dan sektor ini memasarkan kepada konsumen Muslim dan non-Muslim serta ke destinasi ekspor mayoritas non-Islam."
 
 lang: "id"
-sourceContentHash: "e86c482e092e1722"
+sourceContentHash: "94481a23df67c89e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

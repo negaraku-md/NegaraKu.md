@@ -30,7 +30,7 @@ faq:
     a: "是的。马来文是 UEC 系统中的必修科目。许多 UEC 学生也以私人考生身份报考 SPM；董总报告称，2022至2024年华文独中学生的 SPM 马来文及格率超过96%（2022年为97.38%，2023年为97.11%，2024年为96.65%），采用的是与其他考生相同的 SPM 试卷。"
 
 lang: "zh"
-sourceContentHash: "899b0fd9ce10c90d"
+sourceContentHash: "1f2605f6949b7811"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

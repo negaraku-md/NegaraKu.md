@@ -21,7 +21,7 @@ verificationNeeded:
   - "中学3年生（Tingkatan 3、2027年開始）の学習マトリックスの完全な形式と科目の詳細は、本稿の作成時点で試験局の公式サイト上で詳細に確認されていない。確認されているのは2026年の小学4年生の時間割（必修科目4科目）のみである。中学3年生の草案が公開され次第、lp.moe.gov.myで再確認すること。"
   - "国家教育諮問理事会（Majlis Penasihat Pendidikan Kebangsaan、MPPK）がUPSR／PT3見直しの完全な報告書を内閣に提出済みかどうかは、本稿の作成時点で公式情報源において確認できなかった。2026年1月の大臣の発言を、現時点で入手可能な最新の立場として扱っている。"
 lang: "ja"
-sourceContentHash: "4ac5d1a1458b81d6"
+sourceContentHash: "19a7917a0ffae099"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

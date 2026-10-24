@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "페낭 생활비를 클랑밸리와 비교하는 사람, 또는 이주, 임차, 창업에 앞서 페낭섬과 스브랑프라이 사이에서 결정하는 사람."
 
 lang: "ko"
-sourceContentHash: "060d0c1609863cd7"
+sourceContentHash: "be67d52caf0f3908"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

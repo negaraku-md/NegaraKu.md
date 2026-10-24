@@ -34,7 +34,7 @@ faq:
     a: "Universitas swasta umumnya juga memerlukan bukti kemampuan bahasa Inggris. Pelajar lokal biasanya menyerahkan hasil MUET, sedangkan kualifikasi setara seperti IELTS atau TOEFL dapat diterima tergantung program dan institusi."
 
 lang: "id"
-sourceContentHash: "06e545a5dcaf1477"
+sourceContentHash: "a815609cdc3d3e77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

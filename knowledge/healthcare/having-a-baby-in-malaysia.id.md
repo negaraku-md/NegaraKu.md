@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa pun di Malaysia yang sedang hamil, berencana untuk hamil, atau mendukung pasangan atau anggota keluarga sepanjang masa kehamilan, dan ingin memahami bagaimana sistem antenatal publik, perawatan swasta, dan pendaftaran kelahiran saling berkaitan."
 
 lang: "id"
-sourceContentHash: "8182db0933e495e5"
+sourceContentHash: "f82d2d99c31a083b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

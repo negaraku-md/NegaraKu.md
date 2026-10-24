@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "कोई भी जो मलेशिया के लिए बजट बना रहा हो, वास्तविक रहन-सहन-लागत के मुक़ाबले वेतन-प्रस्तावों की तुलना कर रहा हो, या किसी रहन-सहन-लागत दावे के पीछे के प्राथमिक DOSM डेटा की तलाश में हो।"
 
 lang: "hi"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

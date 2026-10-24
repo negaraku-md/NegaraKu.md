@@ -34,7 +34,7 @@ faq:
     a: "Giáo dục kỹ thuật và nghề nghiệp chạy một phần qua các cao đẳng nghề của Bộ Giáo dục và một phần qua một tuyến chứng nhận riêng biệt — Chứng chỉ Kỹ năng Malaysia (Malaysian Skills Certificate, SKM) và Diploma Kỹ năng Malaysia (DKM/DLKM) — được cấp bởi Cục Phát triển Kỹ năng (Jabatan Pembangunan Kemahiran) thuộc Bộ Nhân lực, không phải Bộ Giáo dục hay Bộ Giáo dục Đại học."
 
 lang: "vi"
-sourceContentHash: "936fe1b2918f6934"
+sourceContentHash: "613eb3145a3df62e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

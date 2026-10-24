@@ -27,7 +27,7 @@ verificationNeeded:
   - "Tidak ada indeks sewa resmi khusus untuk Johor Bahru yang dapat ditemukan; pernyataan tentang tekanan sewa dari permintaan terkait Singapura bersifat kualitatif, tidak didukung oleh angka yang diterbitkan."
 
 lang: "id"
-sourceContentHash: "8dc6ca7c0ae8183c"
+sourceContentHash: "b3fe7bab59216408"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

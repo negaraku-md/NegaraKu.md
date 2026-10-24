@@ -29,7 +29,7 @@ faq:
     a: "இல்லை. அரசாங்க தொடக்கப் பள்ளி மற்றும் இடைநிலைப் பள்ளிக் கல்வி கல்விக் கட்டணம் விதிப்பதில்லை. சிறப்புக் கட்டணமோ SPI Bil. 13/2007 மூலம் 2008 முதல் ஒழிக்கப்பட்டுவிட்டது."
 
 lang: "ta"
-sourceContentHash: "ae00ce2b2c55df71"
+sourceContentHash: "c71280cc876e703d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

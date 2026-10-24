@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "fc167e2fbc6949c3"
+sourceContentHash: "13e97e8a9ffe1cf9"
 
 status: "published"
 aiAssisted: true

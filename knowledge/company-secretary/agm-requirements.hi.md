@@ -63,7 +63,7 @@ obligations:
     consequence: "s.309 के तहत बैठक वैध रूप से आहूत नहीं मानी जाती"
 
 lang: "hi"
-sourceContentHash: "51eee5534e5ccee0"
+sourceContentHash: "eee01adb6e2f742c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

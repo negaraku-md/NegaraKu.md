@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아 국민, 영주권자, 생애 첫 주택 매수인, 그리고 외국인 매수인(추가 제한 및 세율 적용 대상)"
 
 lang: "ko"
-sourceContentHash: "9e29133ebe5daedf"
+sourceContentHash: "7bbb4ca3cdb29e8e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

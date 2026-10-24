@@ -27,7 +27,7 @@ verificationNeeded:
   - "Kutipan dan tahun tepat amendemen National Land Code yang menutup pengecualian tanah industri terdahulu dari persetujuan Pihak Berwenang Negeri tidak dapat dipastikan dibandingkan teks Act amendemen itu sendiri; ia digambarkan di sini berdasarkan komentar hukum sekunder yang paralel, bukan dari ketentuan primer yang dibaca langsung."
 
 lang: "id"
-sourceContentHash: "1bbfaf63848e0696"
+sourceContentHash: "108b77146a2f6cd9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

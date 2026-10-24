@@ -29,7 +29,7 @@ faq:
     a: "Perawatan paliatif berfokus pada kenyamanan dan pengendalian gejala bagi pasien dengan penyakit yang membatasi usia harapan hidup, tanpa memandang umur, bahkan termasuk anak-anak. Perawatan lansia justru merupakan perawatan umum untuk orang tua yang mungkin tidak mengidap penyakit tahap akhir."
 
 lang: "id"
-sourceContentHash: "ff994cbda9925abc"
+sourceContentHash: "f3444e3062b1aac2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

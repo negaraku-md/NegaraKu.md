@@ -27,7 +27,7 @@ faq:
     a: "No. El Cargo Minorista mensual de RM10 se exime para los hogares que usan 600 kWh o menos al mes."
 
 lang: "es"
-sourceContentHash: "6f49b99389da2c61"
+sourceContentHash: "b885e498c8215018"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

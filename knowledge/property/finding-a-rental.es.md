@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que busque una vivienda de alquiler en Malasia, ya sea alquilando por primera vez localmente o gestionando un arrendamiento desde el extranjero."
 
 lang: "es"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

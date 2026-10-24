@@ -36,7 +36,7 @@ faq:
     a: "En 2020, el entonces Ministro de Energía y Recursos Naturales, Datuk Dr Shamsul Anuar Nasarah, dijo al Parlamento que el plan debía revisarse por su costo — una implicación financiera de unos RM5 mil millones para el gobierno, más obligaciones de compra de energía de RM60–80 mil millones que el gobierno habría tenido que asumir. Desde entonces, la reforma ha continuado en pasos más pequeños y específicos, en lugar de una única liberalización de gran alcance."
 
 lang: "es"
-sourceContentHash: "5e135be7df9c9a11"
+sourceContentHash: "06296dd44c284dbc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

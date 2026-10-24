@@ -33,7 +33,7 @@ faq:
     a: "仲裁庭的裁决为最终裁决并具约束力，可像法庭命令一样强制执行。未能遵从裁决属于一项罪行，可处以 RM10,000 至 RM50,000 罚款，或最长两年监禁，或两者兼施。"
 
 lang: "zh"
-sourceContentHash: "f08885d66ba27130"
+sourceContentHash: "df503ce18f77fc3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

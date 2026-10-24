@@ -32,7 +32,7 @@ faq:
     a: "총리실(Jabatan Perdana Menteri) 산하의 연방직할구청(Jabatan Wilayah Persekutuan, JWP)은 세 직할구의 정책과 개발을 연방 차원에서 조정하는 반면, 쿠알라룸푸르시청(DBKL), 푸트라자야공사(Perbadanan Putrajaya), 라부안공사(Perbadanan Labuan)는 각 직할구에서 인허가, 도시계획, 시정 서비스 같은 일상 업무를 수행하는 지방자치단체입니다."
 
 lang: "ko"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

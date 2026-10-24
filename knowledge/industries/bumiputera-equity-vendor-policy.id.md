@@ -29,7 +29,7 @@ faq:
     a: "Perusahaan yang mengajukan lisensi PETRONAS perlu memenuhi persyaratan partisipasi Bumiputera menurut kode SWEC yang berkaitan. Untuk Program Pembangunan Vendor PETRONAS, kepemilikan Bumiputera minimum 51% diperlukan (sumber: Low & Partners; PETRONAS)."
 
 lang: "id"
-sourceContentHash: "8653f4f58e0534c5"
+sourceContentHash: "827cfd2ac62b2b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

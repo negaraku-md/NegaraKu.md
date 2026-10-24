@@ -29,7 +29,7 @@ faq:
     a: "Nurses are registered by the Malaysian Nursing Board under the Nurses Act 1950; pharmacists by the Pharmacy Board Malaysia under the Registration of Pharmacists Act 1951 (Act 371); and allied health professions such as physiotherapy by the MAHPC under the Allied Health Professions Act 2016 (Act 774)."
 
 lang: "en"
-sourceContentHash: "3615da4185af8269"
+sourceContentHash: "d115e96de8bf4353"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

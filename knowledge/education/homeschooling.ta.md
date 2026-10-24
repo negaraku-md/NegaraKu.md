@@ -22,7 +22,7 @@ appliesTo: "ஆரம்ப அல்லது இடைநிலை வயத�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f9978c9d61a0e0de"
+sourceContentHash: "a0dbea0e18298c21"
 status: "published"
 aiAssisted: true
 reviewer: null

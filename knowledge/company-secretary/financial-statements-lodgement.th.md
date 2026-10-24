@@ -56,7 +56,7 @@ obligations:
     consequence: "ค่าปรับยื่นล่าช้าภายใต้ Practice Directive 1/2017; ความผิดโดยเจ้าหน้าที่ทุกคนพร้อมปรับไม่เกิน RM50,000 บวกไม่เกิน RM1,000 ต่อวันภายใต้มาตรา 259(3)"
 
 lang: "th"
-sourceContentHash: "031f69c170d97650"
+sourceContentHash: "a135eb5aeede2e99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -36,7 +36,7 @@ faq:
     a: "La NSS vise à former et à monter en compétences 60,000 ingénieurs malaisiens hautement qualifiés — environ 30,000 cultivés par le ministère de l'Éducation et environ 30,000 talents techniques et professionnels (TVET) relevant d'autres ministères."
 
 lang: "fr"
-sourceContentHash: "1463f5cc1d397718"
+sourceContentHash: "eab529a902099839"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

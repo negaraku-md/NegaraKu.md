@@ -21,7 +21,7 @@ appliesTo: "适用于马来西亚境内、孩子被诊断有残疾或学习困�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0164ad51b29c01a"
+sourceContentHash: "9436b58ec227f7f0"
 
 status: "published"
 aiAssisted: true

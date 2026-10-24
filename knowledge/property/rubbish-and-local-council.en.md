@@ -24,7 +24,7 @@ appliesTo: "Anyone living in Malaysia who needs to understand who collects rubbi
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "0280d12a6ccc5b9e"
+sourceContentHash: "e61c9e41571bda53"
 
 status: "published"
 aiAssisted: true

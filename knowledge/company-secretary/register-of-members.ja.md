@@ -100,7 +100,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["statutory-registers", "registered-office", "register-of-directors", "annual-return"]
 keywords: ["register of members Malaysia", "section 50 Companies Act 2016", "section 51 notification SSM", "daftar ahli syarikat", "share transfer register Sdn Bhd", "ROM lodgement 14 days"]
-sourceContentHash: "f0ea473a322d2106"
+sourceContentHash: "0425dfb1cc783762"
 ---
 
 ある株主が弁護士の前で株式を振りかざし、自分は会社の30%を所有していると言う。

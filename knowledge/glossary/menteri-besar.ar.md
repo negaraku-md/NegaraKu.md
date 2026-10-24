@@ -28,7 +28,7 @@ verificationNeeded:
   - "لقب رئيس الولاية لكل ولاية ملكية (Sultan أو Yang di-Pertuan Besar أو Raja) مأخوذ من بوابة MyGovernment وتعريف «Ruler» في المادة 160(2). تحقّق من دستور كل ولاية للاستعمال الرسمي."
 
 lang: "ar"
-sourceContentHash: "56751778ff042f02"
+sourceContentHash: "9fbc657f47f5ec76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

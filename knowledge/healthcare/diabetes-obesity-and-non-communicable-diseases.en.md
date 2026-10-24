@@ -32,7 +32,7 @@ faq:
     a: "Recipients of Sumbangan Tunai Rahmah (STR) aged 40 and above are eligible for free screening under PeKa B40 at registered government or private clinics. Public Health Clinics also offer basic check-ups."
 
 lang: "en"
-sourceContentHash: "bbc5ab5d7d67181c"
+sourceContentHash: "19ab4b4f804b4515"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

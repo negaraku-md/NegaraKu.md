@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아에서 새 주택이나 건물로 이사하여 — 반도, 사바, 사라왁 어디서든 — 전기 공급 계정을 새로 열거나, 명의를 이전하거나, 해지해야 하는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "6891503e50f70d6b"
+sourceContentHash: "d7658ca7c2a68725"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

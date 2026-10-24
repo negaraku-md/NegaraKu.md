@@ -31,7 +31,7 @@ faq:
     a: "Una moratoria es un período durante el cual tienes prohibido revender la vivienda sin aprobación. Residensi Wilayah impone una moratoria de 10 años y Rumah Selangorku una de 5 años, para evitar la especulación y asegurar que las viviendas sigan disponibles para el grupo destinatario."
 
 lang: "es"
-sourceContentHash: "c2d113c9f6018d12"
+sourceContentHash: "1484e1d16671dc8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

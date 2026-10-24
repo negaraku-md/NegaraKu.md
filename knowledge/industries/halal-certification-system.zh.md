@@ -36,7 +36,7 @@ faq:
     a: "程序手册规定主管权威机构应直接与公司或申请人打交道，而不通过第三方或中介（如顾问）。顾问可协助准备文件，但正式申请与沟通仍须由申请人与 JAKIM/MAIN/JAIN 之间直接进行。"
 
 lang: "zh"
-sourceContentHash: "7bb5b6fb5326f994"
+sourceContentHash: "7e400c117bf0341f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

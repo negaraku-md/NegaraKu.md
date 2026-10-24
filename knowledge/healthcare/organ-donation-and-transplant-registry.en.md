@@ -31,7 +31,7 @@ faq:
     a: "The National Fatwa Council ruled organ donation as harus (permissible) at its conference on 23-24 June 1970, under conditions such as a life-saving emergency, no element of buying or selling, and obtaining the consent of the donor or their heirs. This fatwa was later expanded to other organs and tissues."
 
 lang: "en"
-sourceContentHash: "55867275b6260a32"
+sourceContentHash: "0ec5bd2f879c8b3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

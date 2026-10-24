@@ -30,7 +30,7 @@ faq:
     a: "Ia bergantung pada Perisytiharan Jualan. Pembeli lazimnya mewarisi cukai tanah, cukai taksiran (cukai pintu), caj penyelenggaraan dan utiliti yang tertunggak melainkan POS menyatakan bank akan menjelaskannya daripada hasil jualan. Sentiasa baca POS sebelum membida."
 
 lang: "ms"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

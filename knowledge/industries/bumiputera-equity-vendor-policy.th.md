@@ -29,7 +29,7 @@ faq:
     a: "บริษัทที่ยื่นขอใบอนุญาต PETRONAS ต้องเป็นไปตามข้อกำหนดการมีส่วนร่วมของภูมิบุตรตามรหัส SWEC ที่เกี่ยวข้อง สำหรับโครงการพัฒนาผู้จัดจำหน่ายของ PETRONAS ต้องมีความเป็นเจ้าของภูมิบุตรขั้นต่ำ 51% (แหล่งที่มา: Low & Partners; PETRONAS)"
 
 lang: "th"
-sourceContentHash: "8653f4f58e0534c5"
+sourceContentHash: "827cfd2ac62b2b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

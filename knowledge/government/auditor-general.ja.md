@@ -24,7 +24,7 @@ appliesTo: "学生、研究者、記者、そして国家監査局及び会計�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 
 status: "published"
 aiAssisted: true

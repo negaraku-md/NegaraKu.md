@@ -25,7 +25,7 @@ appliesTo: "மலேசிய senator-கள் எவ்வாறு தேர
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "795be8860e769da6"
+sourceContentHash: "344b9bed4a29fc5f"
 
 status: "published"
 aiAssisted: true

@@ -34,7 +34,7 @@ faq:
     a: "चीन अब तक का सबसे बड़ा गंतव्य है, जिसने दिसंबर 2024 में प्राकृतिक-रबर निर्यात का लगभग 49% लिया, इसके बाद जर्मनी (12.9%), संयुक्त अरब अमीरात (7.3%), संयुक्त राज्य अमेरिका और पुर्तगाल हैं।"
 
 lang: "hi"
-sourceContentHash: "8dca8d58fbcc1a41"
+sourceContentHash: "26170231d376fbab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

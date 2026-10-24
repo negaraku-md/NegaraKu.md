@@ -37,7 +37,7 @@ faq:
     a: "คณะกรรมการน้ำมันปาล์มมาเลเซีย (MPOB) หน่วยงานตามกฎหมายภายใต้กระทรวงสวนและสินค้าโภคภัณฑ์ ออกใบอนุญาตและกำกับทุกขั้นตอนตั้งแต่การปลูกจนถึงการส่งออก และดำเนินการวิจัยและพัฒนาของอุตสาหกรรม"
 
 lang: "th"
-sourceContentHash: "6df254d9cadb68a3"
+sourceContentHash: "e7701d74a9145bd8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

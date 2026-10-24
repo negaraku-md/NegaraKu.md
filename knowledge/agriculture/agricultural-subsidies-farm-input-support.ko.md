@@ -34,7 +34,7 @@ faq:
     a: "농업식량안보부(KPKM)가 벼산업개발부서를 통해 관리하며, 농민조직청(LPP), MADA, KADA 같은 시행 기관이 각자의 곡창지대에서 집행합니다."
 
 lang: "ko"
-sourceContentHash: "0db45e7ee2f93134"
+sourceContentHash: "9f58d81c18221355"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

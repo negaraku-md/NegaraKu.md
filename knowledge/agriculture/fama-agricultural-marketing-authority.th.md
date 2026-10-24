@@ -31,7 +31,7 @@ faq:
     a: "ผู้ผลิตสามารถทำการตลาดตรงสู่ผู้บริโภคผ่านช่องทางของ FAMA เช่น Pasar Tani Kekal, Agrobazaar, My Farm Outlet และ Gerai Buah-buahan Segar หรือเข้าร่วมโครงการต่าง ๆ เช่น Ladang Kontrak และ RANTAI รายละเอียดการเข้าร่วมยืนยันได้ที่ fama.gov.my"
 
 lang: "th"
-sourceContentHash: "f18be1d4180f5dbb"
+sourceContentHash: "63ddd6b5ce85bb78"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

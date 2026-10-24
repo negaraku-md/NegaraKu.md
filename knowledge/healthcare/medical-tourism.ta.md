@@ -32,7 +32,7 @@ faq:
     a: "சுகாதார அமைச்சு தனியார் சுகாதார வசதிகளுக்கு உரிமம் வழங்குகிறது மற்றும் மலேசிய மருத்துவ மன்றம் (Malaysian Medical Council) மருத்துவர்களைப் பதிவு செய்து ஒழுங்குநடவடிக்கை எடுக்கிறது. பல மருத்துவமனைகள் Malaysian Society for Quality in Health (MSQH) அல்லது Joint Commission International (JCI) இடமிருந்து தன்னார்வ அங்கீகாரத்தையும் வைத்திருக்கின்றன. MHTC அந்த ஒழுங்குமுறை சங்கிலிக்கு வெளியே அமர்ந்துள்ளது."
 
 lang: "ta"
-sourceContentHash: "f3db9e92168dd3e0"
+sourceContentHash: "e1a643f3053ee673"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

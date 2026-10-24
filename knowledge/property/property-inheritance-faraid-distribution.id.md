@@ -30,7 +30,7 @@ faq:
     a: "Harta pusaka kecil yang mengandung harta tidak bergerak dan bernilai di bawah RM5 juta ditangani oleh Administrator Tanah melalui Kantor Pertanahan Daerah, yang mengeluarkan Perintah Pembagian."
 
 lang: "id"
-sourceContentHash: "569aa98893242689"
+sourceContentHash: "34023c075e010a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

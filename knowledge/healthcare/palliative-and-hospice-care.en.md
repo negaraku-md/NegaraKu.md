@@ -29,7 +29,7 @@ faq:
     a: "Palliative care focuses on comfort and symptom control for patients with life-limiting illnesses, regardless of age, including children. Elderly care, by contrast, is general care for older people who may not have an end-stage illness."
 
 lang: "en"
-sourceContentHash: "ff994cbda9925abc"
+sourceContentHash: "f3444e3062b1aac2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

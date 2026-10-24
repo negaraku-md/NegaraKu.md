@@ -38,7 +38,7 @@ faq:
     a: "Energy Exchange Malaysia (ENEGEM) เปิดตัวเมื่อ 15 เมษายน 2024 โดยกระทรวงการเปลี่ยนผ่านพลังงานและการเปลี่ยนแปลงน้ำ เป็นแพลตฟอร์มข้ามพรมแดนแห่งแรกของมาเลเซียสำหรับการขายไฟฟ้าหมุนเวียนไปยังประเทศอาเซียนเพื่อนบ้าน การประมูลนำร่องของมันเสนอพลังงานหมุนเวียน 100 MW ให้สิงคโปร์"
 
 lang: "th"
-sourceContentHash: "d6cf99b70fef6280"
+sourceContentHash: "68201345c562dfbd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

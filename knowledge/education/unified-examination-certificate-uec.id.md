@@ -30,7 +30,7 @@ faq:
     a: "Ya. Bahasa Melayu adalah mata pelajaran wajib dalam sistem UEC. Banyak pelajar UEC juga mengikuti SPM sebagai calon mandiri; Dong Zong melaporkan tingkat kelulusan Bahasa Melayu SPM di kalangan pelajar SMPC melebihi 96% untuk tahun 2022–2024 (97.38% pada 2022, 97.11% pada 2023, dan 96.65% pada 2024), menggunakan kertas SPM yang sama seperti calon lain."
 
 lang: "id"
-sourceContentHash: "899b0fd9ce10c90d"
+sourceContentHash: "1f2605f6949b7811"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

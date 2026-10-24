@@ -30,7 +30,7 @@ faq:
     a: "Nhà máy Thủy điện Bakun với công suất có sẵn 2,520MW là cơ sở phát điện lớn nhất ở Sarawak."
 
 lang: "vi"
-sourceContentHash: "585f9d0a1ccc7faf"
+sourceContentHash: "7830394fcb9de25a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

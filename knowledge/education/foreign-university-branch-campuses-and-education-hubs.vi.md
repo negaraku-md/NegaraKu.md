@@ -34,7 +34,7 @@ faq:
     a: "Không. Trong khi Monash, Nottingham, Xiamen và Heriot-Watt tập trung quanh Klang Valley và Putrajaya, EduCity Iskandar tập trung một số cơ sở ở Johor gần Singapore, và Curtin cùng Swinburne hoạt động ở Sarawak."
 
 lang: "vi"
-sourceContentHash: "eb5708a4ddb8ff8d"
+sourceContentHash: "9e905749ebddb35e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

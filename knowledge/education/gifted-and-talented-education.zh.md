@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar是UKM为资优生开设的大学预科课程，分三个源流开办，即Perdana、Komersial和Antarabangsa。"
 
 lang: "zh"
-sourceContentHash: "35e2f3422be13be3"
+sourceContentHash: "e8dbefcac0cbb3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "El Ministerio de Agricultura y Seguridad Alimentaria (KPKM), a través de la División de Desarrollo de la Industria del Arroz, con organismos ejecutores como la Autoridad de Organizaciones de Agricultores (LPP), MADA y KADA en sus respectivas zonas graneras."
 
 lang: "es"
-sourceContentHash: "0db45e7ee2f93134"
+sourceContentHash: "9f58d81c18221355"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

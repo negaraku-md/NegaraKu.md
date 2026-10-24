@@ -23,7 +23,7 @@ appliesTo: "马来西亚半岛的屋主、租户、分层管理机构与商家�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b457bd9b79e09115"
+sourceContentHash: "86c5f583e8e5025c"
 
 status: "published"
 aiAssisted: true

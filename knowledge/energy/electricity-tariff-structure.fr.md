@@ -27,7 +27,7 @@ faq:
     a: "Non. La Redevance de détail mensuelle de RM10 est exonérée pour les foyers consommant 600 kWh ou moins par mois."
 
 lang: "fr"
-sourceContentHash: "6f49b99389da2c61"
+sourceContentHash: "b885e498c8215018"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

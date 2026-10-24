@@ -34,7 +34,7 @@ faq:
     a: "Section 3 đặt Petronas dưới sự kiểm soát và chỉ đạo của Thủ tướng, mà các chỉ đạo của ông ràng buộc pháp nhân đó. Section 6 đòi hỏi sự cho phép của Thủ tướng trước khi bất kỳ ai ngoài Petronas tiến hành việc chế biến, tinh luyện hoặc sản xuất các sản phẩm hóa dầu, và Section 7 trao cho Thủ tướng quyền làm quy định."
 
 lang: "vi"
-sourceContentHash: "7e742ec88e8babf9"
+sourceContentHash: "bc9ab1d1d905cd8f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

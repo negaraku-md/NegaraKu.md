@@ -23,7 +23,7 @@ appliesTo: "மலேசியாவில் புதிய வீடு அ�
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6891503e50f70d6b"
+sourceContentHash: "d7658ca7c2a68725"
 
 status: "published"
 aiAssisted: true

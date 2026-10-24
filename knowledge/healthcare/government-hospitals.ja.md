@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "e787862480b6ac9a"
+sourceContentHash: "fad2707d6e797e31"
 
 status: "published"
 aiAssisted: true

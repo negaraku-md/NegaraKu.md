@@ -55,7 +55,7 @@ obligations:
     consequence: "Không có khoản phạt cụ thể nào gắn với đoạn này"
 
 lang: "vi"
-sourceContentHash: "a750870631fb7040"
+sourceContentHash: "6cf2737b180a666d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

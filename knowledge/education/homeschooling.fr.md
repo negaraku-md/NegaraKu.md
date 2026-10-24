@@ -20,7 +20,7 @@ keyTakeaways:
   - "L'amendement sur l'éducation secondaire de 2025 avait été adopté par le Parlement mais n'était pas encore entré en vigueur par notification au Journal officiel au moment de la rédaction de cet article — le ministre fixe cette date d'entrée en vigueur séparément"
 appliesTo: "Les parents malaisiens qui envisagent d'éduquer à domicile un enfant en âge de primaire ou de secondaire, et les familles (y compris les foyers d'expatriés MM2H ou en long séjour) qui pèsent l'exemption formelle face au fait de ne pas inscrire un enfant à l'école de façon informelle."
 lang: "fr"
-sourceContentHash: "f9978c9d61a0e0de"
+sourceContentHash: "a0dbea0e18298c21"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

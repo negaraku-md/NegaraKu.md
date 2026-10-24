@@ -19,7 +19,7 @@ keyTakeaways:
   - "Les Collèges communautaires se concentrent sur les certificats de niveau inférieur avec une entrée plus souple, tandis que les Polytechniques se concentrent sur les diplômes ; les deux sont supervisés par le JPPKK sous le ministère de l'Enseignement supérieur"
 appliesTo: "Élèves après la Form 3 ou le SPM, parents planifiant la carrière de leur enfant et travailleurs adultes souhaitant certifier des compétences existantes via le SKM."
 lang: "fr"
-sourceContentHash: "75531562551211f2"
+sourceContentHash: "1f78c1d4c5cb8fba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

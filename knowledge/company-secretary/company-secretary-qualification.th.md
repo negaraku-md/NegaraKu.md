@@ -56,7 +56,7 @@ obligations:
     consequence: "ปรับไม่เกิน RM10,000 เมื่อถูกพิพากษา"
 
 lang: "th"
-sourceContentHash: "ed068401ca2edfe2"
+sourceContentHash: "e2e61d0597cf5908"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

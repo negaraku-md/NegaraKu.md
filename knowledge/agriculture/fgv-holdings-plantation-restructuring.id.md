@@ -32,7 +32,7 @@ faq:
     a: "FGV adalah agrobisnis terpadu yang mencakup perkebunan (kelapa sawit, karet dan energi terbarukan), minyak dan lemak, gula, logistik dan layanan pendukung, serta produk konsumen. Menurut pernyataannya sendiri, ia menyumbang sekitar 3% dari produksi minyak sawit mentah global."
 
 lang: "id"
-sourceContentHash: "f7515e7869f5fdd6"
+sourceContentHash: "9db31d21c6785747"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

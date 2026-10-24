@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa saja yang perlu mengetahui, subjek demi subjek, apakah Persekutuan atau suatu Negeri memiliki kuasa untuk membuat suatu undang-undang tertentu di Malaysia."
 
 lang: "id"
-sourceContentHash: "d234775add600d74"
+sourceContentHash: "a1e4d48e96f45459"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

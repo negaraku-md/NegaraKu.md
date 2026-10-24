@@ -31,7 +31,7 @@ faq:
     a: "अनेक में से, MARDI ने MR शृंखला (जैसे MR 297 और MR 219), सुगंधित MRQ किस्में, और मलेशिया का पहला संकर चावल KADARIA 1 जारी किया है।"
 
 lang: "hi"
-sourceContentHash: "29fcbde70a256bf1"
+sourceContentHash: "9bb5af4c19ea1667"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

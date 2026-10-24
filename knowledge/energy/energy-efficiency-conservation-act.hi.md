@@ -31,7 +31,7 @@ faq:
     a: "Act 861 और Energy Efficiency and Conservation Regulations 2024 का नया ढाँचा विनियमन के दायरे को केवल बिजली से विस्तृत कर ऊर्जा के सभी रूपों तक ले जाता है। समझा जाता है कि यह ढाँचा पुराने Efficient Management of Electrical Energy Regulations 2008 (EMEER) की जगह लेता है, पर उस निरसन के विवरण की पुष्टि विनियमों के आधिकारिक पाठ के विरुद्ध की जानी चाहिए।"
 
 lang: "hi"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

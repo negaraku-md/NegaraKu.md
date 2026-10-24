@@ -32,7 +32,7 @@ faq:
     a: "Parfois. Le MMC privilégie les consultations virtuelles en tant que suivi après une relation médecin-patient déjà établie, mais autorise une première consultation en ligne, en particulier en soins primaires, si le médecin en documente les raisons. Les médecins sont invités à la prudence lorsqu'ils prescrivent à des patients qu'ils n'ont pas examinés personnellement et à vous orienter en personne lorsque le moyen en ligne ne suffit pas à vous évaluer en toute sécurité."
 
 lang: "fr"
-sourceContentHash: "abe1f652bf3edc8b"
+sourceContentHash: "d63421290bd45b29"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

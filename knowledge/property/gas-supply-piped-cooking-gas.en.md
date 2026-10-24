@@ -31,7 +31,7 @@ faq:
     a: "The LPG subsidy is targeted at household use, not trade. Larger businesses must use non-subsidised, more expensive commercial cylinders (purple cylinders). KPDN has stated that micro and small traders may still use subsidised LPG within certain limits."
 
 lang: "en"
-sourceContentHash: "7fc238e7f93ed817"
+sourceContentHash: "b11646a6057ac6f5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

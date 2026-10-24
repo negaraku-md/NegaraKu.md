@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintarは、才能児のためのUKMの大学進学準備課程で、Perdana、Komersial、Antarabangsaの三つのストリームで提供されています。"
 
 lang: "ja"
-sourceContentHash: "35e2f3422be13be3"
+sourceContentHash: "e8dbefcac0cbb3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

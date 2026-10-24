@@ -31,7 +31,7 @@ faq:
     a: "Bantuan Alat Sokongan/Alat Tiruan (BAT) di bawah JKM meliputi kursi roda manual atau elektrik, kaki dan tangan palsu, alat bantu dengar, tongkat putih, dan mesin braille, menurut harga sebenarnya alat yang ditetapkan."
 
 lang: "id"
-sourceContentHash: "eb1c377cbf19305d"
+sourceContentHash: "f4c391c1dbfcea33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

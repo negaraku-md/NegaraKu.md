@@ -63,7 +63,7 @@ obligations:
     consequence: "Rapat tidak sah diselenggarakan di bawah s.309"
 
 lang: "id"
-sourceContentHash: "51eee5534e5ccee0"
+sourceContentHash: "eee01adb6e2f742c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

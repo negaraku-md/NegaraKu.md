@@ -26,7 +26,7 @@ verificationNeeded:
   - "Premi yang tepat dan batas perlindungan tahunan SPIKPA tidak disahkan pada sumber utama resmi (hanya sumber sekunder akademik dan broker asuransi yang ditemukan); artikel ini menjelaskan fungsi skema itu — asuransi wajib yang berkaitan dengan pembaruan izin kerja, disahkan pada laman Jabatan Imigresen sendiri — tanpa menyatakan premi atau jumlah perlindungan yang tidak disahkan."
 
 lang: "id"
-sourceContentHash: "7dd45f5bebbd1f93"
+sourceContentHash: "f35156bb0be8d93f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

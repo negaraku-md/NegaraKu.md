@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में संपत्ति खरीदने, बेचने या उसका आकलन करने वाला कोई भी व्यक्ति जिसे यह समझने की ज़रूरत है कि किसी सूची का कार्यकाल (tenure) और सनद का प्रकार असल में उसे किस बात के लिए बाध्य करता है।"
 
 lang: "hi"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

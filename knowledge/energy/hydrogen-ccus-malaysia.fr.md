@@ -33,7 +33,7 @@ faq:
     a: "Le CCS Kasawari vise la première injection de CO2 dès 2027 (avancée par rapport à un plan antérieur de 2029-2030). Les projets d'hydrogène vert du Sarawak devraient désormais, de manière générale, commencer à fonctionner vers 2029."
 
 lang: "fr"
-sourceContentHash: "cf65984906bccf4e"
+sourceContentHash: "ca85c8c91975c8e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

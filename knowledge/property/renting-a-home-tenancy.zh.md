@@ -23,7 +23,7 @@ appliesTo: "在马来西亚半岛、沙巴或砂拉越租住或出租住宅物�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d779e96ef436f16d"
+sourceContentHash: "846d66a2a34a7e98"
 
 status: "published"
 aiAssisted: true

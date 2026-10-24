@@ -32,7 +32,7 @@ faq:
     a: "กรมดินแดนสหพันธ์ (Jabatan Wilayah Persekutuan, JWP) ภายใต้สำนักนายกรัฐมนตรีทำหน้าที่ประสานงานด้านนโยบายและการพัฒนาของทั้งสามดินแดนในระดับสหพันธ์ ในขณะที่ DBKL องค์การปุตราจายา และองค์การลาบวนเป็นองค์กรปกครองส่วนท้องถิ่นที่ดำเนินกิจการประจำวัน เช่น การออกใบอนุญาต การวางผังเมือง และบริการเทศบาลในดินแดนของตน"
 
 lang: "th"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,3 +153,5 @@ keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan 
 ## อ่านต่อ
 
 หากต้องการเข้าใจว่าเหตุใด "เรื่องทั้งปวงที่เกี่ยวกับดินแดนสหพันธ์" จึงตกอยู่กับสหพันธ์มิใช่รัฐ อ่าน [การแบ่งอำนาจระหว่างสหพันธ์–รัฐ](/th/government/federal-state-division) หากต้องการดูสถาบันที่ไม่มีอยู่ในดินแดนเหล่านี้ ดู [สภานิติบัญญัติแห่งรัฐ (DUN)](/th/government/state-assemblies-dun) สำหรับสภาที่เป็นตัวแทนผู้อยู่อาศัยในดินแดนภายในรัฐสภา ดู [Dewan Rakyat](/th/government/dewan-rakyat) และ [Dewan Negara](/th/government/dewan-negara) และสำหรับภาพใหญ่ของชั้นการปกครองของมาเลเซีย ดู [สามชั้นของการปกครอง](/th/government/three-tiers-of-government)
+
+อยากรู้ว่ามาเลเซียปกครองอย่างไร ดู[สามระดับการปกครองของมาเลเซีย](/th/government/three-tiers-of-government/)

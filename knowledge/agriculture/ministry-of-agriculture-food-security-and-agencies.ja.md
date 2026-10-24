@@ -30,7 +30,7 @@ faq:
     a: "1994年稲・米統制法（Control of Padi and Rice Act 1994、Act 522）である。米は統制商品であり、稲・米統制総局長が精米、卸売、小売、輸入、輸出及び州間移送についてライセンス及び許可を発給する。"
 
 lang: "ja"
-sourceContentHash: "88877cb8976d9b28"
+sourceContentHash: "57032872a3092c06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

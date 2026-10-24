@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang sedang mencari rumah sewa di Malaysia, baik menyewa untuk pertama kalinya secara lokal maupun mengurus penyewaan dari luar negeri."
 
 lang: "id"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -30,7 +30,7 @@ faq:
     a: "وفق MOE، فإن تشغيل مؤسسة تعليمية خاصة غير مسجَّلة قد يستوجب غرامة RM30,000 أو السجن سنتين أو كليهما."
 
 lang: "ar"
-sourceContentHash: "2879304f7041420a"
+sourceContentHash: "7a7bd84a3f614a0f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

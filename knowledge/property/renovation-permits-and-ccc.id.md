@@ -28,7 +28,7 @@ faq:
     a: "CCC mengesahkan rumah dibangun menurut rencana yang disetujui dan aman dihuni. Tanpa CCC, bangunan secara resmi tidak layak dihuni dan pasokan utilitas dapat terdampak."
 
 lang: "id"
-sourceContentHash: "47b5179ed98be754"
+sourceContentHash: "a8a8202635252bef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

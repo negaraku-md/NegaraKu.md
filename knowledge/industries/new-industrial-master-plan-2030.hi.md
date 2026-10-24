@@ -36,7 +36,7 @@ faq:
     a: "एक तीन-स्तरीय संरचना: प्रधानमंत्री की अध्यक्षता वाली एक राष्ट्रीय परिषद, MITI मंत्री के नेतृत्व वाली एक संचालन समिति, और MITI के महासचिव (KSU) के नेतृत्व वाली एक क्रियान्वयन प्रबंधन इकाई।"
 
 lang: "hi"
-sourceContentHash: "edde30241ce67971"
+sourceContentHash: "e162231616cff40d"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "La Comisión de Energía (Suruhanjaya Tenaga) es el principal regulador. SEDA Malasia implementa el NEM, mientras que el Single Buyer (bajo TNB) coordina programas de mercado como CGPP, CRESS y CREAM."
 
 lang: "es"
-sourceContentHash: "6c4b5196403b953f"
+sourceContentHash: "69ed2a98233b72ad"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

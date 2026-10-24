@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai cần biết, theo từng đối tượng, liệu Liên bang hay một Bang có quyền làm ra một luật nhất định ở Malaysia."
 
 lang: "vi"
-sourceContentHash: "d234775add600d74"
+sourceContentHash: "a1e4d48e96f45459"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

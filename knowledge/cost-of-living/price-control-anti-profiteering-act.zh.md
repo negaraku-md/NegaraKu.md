@@ -29,7 +29,7 @@ faq:
     a: "对个人而言，首次犯罪可被罚款高达10万令吉及/或监禁高达3年，再次犯罪则可被罚款高达25万令吉及/或监禁5年。对法人团体而言，可被罚款高达50万令吉，再次犯罪则高达100万令吉。"
 
 lang: "zh"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

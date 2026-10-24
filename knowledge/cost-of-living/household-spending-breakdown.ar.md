@@ -19,7 +19,7 @@ keyTakeaways:
 appliesTo: "كل من يحاول فهم كيفية بناء ميزانية الأسرة الماليزية النمطية، أو قياس إنفاقه الخاص مقابل النمط الوطني."
 
 lang: "ar"
-sourceContentHash: "4c5994da7bcbecd8"
+sourceContentHash: "cd6140755840f27a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

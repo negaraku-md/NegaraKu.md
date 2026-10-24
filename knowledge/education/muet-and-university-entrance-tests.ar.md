@@ -34,7 +34,7 @@ faq:
     a: "تطلب الجامعات الخاصة عمومًا كذلك إثباتًا لإتقان اللغة الإنجليزية. ويقدّم الطلبة المحليون عادةً نتائج MUET، فيما قد تُقبل مؤهلات معادِلة مثل IELTS أو TOEFL بحسب البرنامج والمؤسسة."
 
 lang: "ar"
-sourceContentHash: "06e545a5dcaf1477"
+sourceContentHash: "a815609cdc3d3e77"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

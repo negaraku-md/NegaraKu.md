@@ -19,7 +19,7 @@ keyTakeaways:
   - "Bahan psikotropika di bawah Jadwal Ketiga Poisons Act 1952 tunduk pada peraturan terpisah, dengan hukuman hingga RM100,000 atau penjara lima tahun bagi pelanggaran tanpa izin (Pasal 30)"
 appliesTo: "Siapa saja yang membeli obat di farmasi pemerintah atau swasta di Malaysia, dan ingin memahami mengapa sebagian obat memerlukan resep sementara yang lain tidak, serta peran apoteker terdaftar dalam proses itu."
 lang: "id"
-sourceContentHash: "4ae828e3e8725114"
+sourceContentHash: "d1d06d1d72ea0e4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

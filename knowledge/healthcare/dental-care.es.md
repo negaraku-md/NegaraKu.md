@@ -26,7 +26,7 @@ verificationNeeded:
   - "The exact number of dental specialty fields at KKM hospitals and the detailed scope of specialist dental clinics could not be verified directly, because the official site hq.moh.gov.my/ohp was inaccessible (connection refused) at the time of writing; the description in this article remains general and does not state specific numbers."
   - "The policy on charge exemptions for senior citizens, children and certain groups at government dental clinics is widely mentioned in secondary sources, but is not verified here because this article deliberately does not state charges — please check with the registration counter of the relevant clinic for current information."
 lang: "es"
-sourceContentHash: "4e874b9f524ab414"
+sourceContentHash: "eeddef6e54a39b44"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

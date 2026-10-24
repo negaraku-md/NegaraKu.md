@@ -29,7 +29,7 @@ faq:
     a: "Las solicitudes se presentan en línea a través del portal del MOE, y los estudiantes se filtran mediante la Evaluación de Admisión a Escuelas Especiales (PKSK), junto con el rendimiento académico y cocurricular."
 
 lang: "es"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

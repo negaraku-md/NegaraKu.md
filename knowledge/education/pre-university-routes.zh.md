@@ -24,7 +24,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d0b49a1aee8b9177"
+sourceContentHash: "65caf030dac83024"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"

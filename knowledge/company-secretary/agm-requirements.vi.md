@@ -63,7 +63,7 @@ obligations:
     consequence: "Cuộc họp không được triệu tập hợp lệ theo s.309"
 
 lang: "vi"
-sourceContentHash: "51eee5534e5ccee0"
+sourceContentHash: "eee01adb6e2f742c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

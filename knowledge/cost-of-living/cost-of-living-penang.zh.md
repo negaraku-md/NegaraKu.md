@@ -41,7 +41,7 @@ verificationNeeded:
   - "州级消费者物价指数是月度系列数据；本页引用的2025年1月数据，在用于当月比较之前，应对照DOSM最新公布的消费者物价指数更新。"
 
 updated: 2026-07-24
-sourceContentHash: "060d0c1609863cd7"
+sourceContentHash: "be67d52caf0f3908"
 sources:
   - title: "家庭收入调查报告 2024（马来西亚及各州）(Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"

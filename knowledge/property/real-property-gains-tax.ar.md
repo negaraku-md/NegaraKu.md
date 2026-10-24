@@ -34,7 +34,7 @@ faq:
     a: "نعم. يمكن خصم المصروفات التي تزيد قيمة العقار أو تحافظ عليها، مثل تكاليف التجديد والتحسين، بشرط أن تكون مدعومة بإيصالات ووثائق صحيحة."
 
 lang: "ar"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

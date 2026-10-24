@@ -32,7 +32,7 @@ faq:
     a: "وفق ردّ برلماني، صدّرت ماليزيا 115,359 طنًا من الدوريان بقيمة RM6.37 مليار إلى الصين بين 2018 ومنتصف 2025. وبلغت صادرات الدوريان الطازج الكامل 773 طنًا (نحو RM50 مليون) في النصف الأول من 2025 وحده."
 
 lang: "ar"
-sourceContentHash: "31afd040d92018fe"
+sourceContentHash: "9178bc8f1052043f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

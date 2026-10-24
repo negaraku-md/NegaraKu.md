@@ -31,7 +31,7 @@ faq:
     a: "Xe cứu thương nhà nước được điều động miễn phí qua đường dây 999 và do KKM cùng các tổ chức tình nguyện như St John Ambulance và Trăng lưỡi liềm đỏ Malaysia quản lý. Xe cứu thương tư nhân do các công ty hoặc bệnh viện tư điều hành qua đường dây nóng riêng, và thu phí dịch vụ tùy theo yêu cầu của cuộc gọi."
 
 lang: "vi"
-sourceContentHash: "492fe31c078f6681"
+sourceContentHash: "2f1b3605919630fa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

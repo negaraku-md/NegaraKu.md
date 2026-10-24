@@ -34,7 +34,7 @@ faq:
     a: "可以。凡是增加或维持房地产价值的开支，例如装修和改良费用，只要有有效收据和文件佐证，均可扣除。"
 
 lang: "zh"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

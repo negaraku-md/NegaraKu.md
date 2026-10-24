@@ -37,7 +37,7 @@ faq:
     a: "El diésel en Sabah, Sarawak y Labuan se mantiene en RM2.15 por litro y no se hace flotar como en la península. El precio del RON95 subsidiado de RM1.99 se aplica a los ciudadanos elegibles de todo el país."
 
 lang: "es"
-sourceContentHash: "b4fd92803516f862"
+sourceContentHash: "b0726e746e504bf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

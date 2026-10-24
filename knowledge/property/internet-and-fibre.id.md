@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang menyewa, membeli atau pindah ke sebuah rumah di Malaysia yang perlu menyambungkan jalur lebar tetap."
 
 lang: "id"
-sourceContentHash: "651bab79a176221b"
+sourceContentHash: "19befa5847e8b8f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

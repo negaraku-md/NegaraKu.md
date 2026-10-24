@@ -26,7 +26,7 @@ faq:
     a: "初犯者，罚款不超过RM30,000或监禁不超过2年，或两者兼施。再犯者罚款最高RM50,000或最长3年监禁。"
 
 lang: "zh"
-sourceContentHash: "86f8ad16efa02a93"
+sourceContentHash: "63b512945cff4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

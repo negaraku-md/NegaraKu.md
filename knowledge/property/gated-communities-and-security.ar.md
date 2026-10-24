@@ -28,7 +28,7 @@ faq:
     a: "رابطة السكان جمعية مسجّلة بموجب قانون الجمعيات لسنة 1966 (Societies Act 1966)، وليست هيئة قانونية — فلا تملك سلطة تماثل سلطة هيئة الإدارة المشتركة (Joint Management Body) أو مؤسسة الإدارة (Management Corporation) لإجبارك على الدفع. وقد سمحت المحاكم لرابطة سكان بأن تطالب ساكنًا غير دافع بأن يشغّل بوابة مشتركة بنفسه، لكن حرمان ساكن من الدخول حرمانًا تامًا يخاطر بأن يكون إزعاجًا (nuisance) قابلًا للتقاضي."
 
 lang: "ar"
-sourceContentHash: "03cf0cac851c0421"
+sourceContentHash: "5d0d6e50f897a3e0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "首相署辖下的联邦直辖区局（JWP）在联邦层面协调这三个直辖区的政策与发展，而吉隆坡市政局、布城机构和纳闽机构则是地方政府，负责各自直辖区内的日常事务，如发照、城市规划和市政服务。"
 
 lang: "zh"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,3 +153,5 @@ keywords: ["Wilayah Persekutuan", "Kuala Lumpur Putrajaya Labuan", "tiada Dewan 
 ## 接下来
 
 要了解为什么"一切与联邦直辖区有关的事项"归联邦而非州属，请阅读[联邦与州的权力划分](/zh/government/federal-state-division)。要了解这些直辖区所不存在的机构，请参阅[州立法议会（DUN）](/zh/government/state-assemblies-dun)。要了解在国会代表直辖区居民的议院，请参阅[下议院](/zh/government/dewan-rakyat)和[上议院](/zh/government/dewan-negara)。而要纵观马来西亚的政府层级，请参阅[三级政府](/zh/government/three-tiers-of-government)。
+
+想了解马来西亚如何治理？查看[马来西亚三级政府](/zh/government/three-tiers-of-government/)。

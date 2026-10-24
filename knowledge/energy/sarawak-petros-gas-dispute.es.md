@@ -29,7 +29,7 @@ faq:
     a: "Las dos partes acordaron que Petros se convertiría en el agregador de gas de Sarawak (excluido el GNL) tras una reunión en enero de 2025, y Petros comenzó a actuar como agregador el 1 de marzo de 2025. No obstante, varias diferencias de interpretación jurídica y detalles comerciales siguen bajo negociación."
 
 lang: "es"
-sourceContentHash: "9fa405873e618d18"
+sourceContentHash: "1026083c1716ec2d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "La baisse résulte en grande partie d'un changement de la méthode de calcul, et non d'une simple chute de la production. La nouvelle méthode ne comptabilise que le riz propre transformé en grain et n'inclut plus le paddy utilisé comme semence au cours de la même année."
 
 lang: "fr"
-sourceContentHash: "fcd35063d281dbc6"
+sourceContentHash: "f5844b5eb0a2c6ba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

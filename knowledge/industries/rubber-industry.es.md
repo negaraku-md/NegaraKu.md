@@ -34,7 +34,7 @@ faq:
     a: "China es con diferencia el mayor destino, llevándose alrededor del 49% de las exportaciones de caucho natural en diciembre de 2024, seguida de Alemania (12.9%), los Emiratos Árabes Unidos (7.3%), Estados Unidos y Portugal."
 
 lang: "es"
-sourceContentHash: "8dca8d58fbcc1a41"
+sourceContentHash: "26170231d376fbab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

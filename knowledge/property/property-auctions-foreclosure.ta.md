@@ -30,7 +30,7 @@ faq:
     a: "இது Proclamation of Sale-ஐப் பொறுத்தது. வாதிக்கான தொகையிலிருந்து வங்கி அவற்றைத் தீர்க்கும் என POS கூறாவிட்டால், வாங்குநர்கள் பொதுவாக நிலுவையிலுள்ள தரைவரி (quit rent), மதிப்பீட்டு வரி (cukai pintu), பராமரிப்புக் கட்டணங்கள் மற்றும் பயன்பாட்டுக் கட்டணங்களை ஏற்கிறார்கள். ஏலத்திற்கு முன் எப்போதும் POS-ஐப் படியுங்கள்."
 
 lang: "ta"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

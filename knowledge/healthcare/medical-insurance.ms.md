@@ -23,7 +23,7 @@ appliesTo: "Pekerja yang menimbang perlindungan perubatan majikan berbanding kad
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7e22fc5e8613df5f"
+sourceContentHash: "f3d82432e2ef0103"
 
 status: "published"
 aiAssisted: true

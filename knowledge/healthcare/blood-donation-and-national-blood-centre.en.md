@@ -29,7 +29,7 @@ faq:
     a: "These include those involved in high-risk activities, female donors who are pregnant/menstruating/breastfeeding, anyone who lived in the UK for 6 months or more (cumulative) between 1980 and 1996, or who has lived in a European country for 5 years or more (cumulative) from 1980 to the present — both on account of vCJD risk."
 
 lang: "en"
-sourceContentHash: "241fb7f03a5cd3d3"
+sourceContentHash: "5468a77cc086e2e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

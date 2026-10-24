@@ -75,7 +75,7 @@ obligations:
     consequence: "Vi phạm theo s.60C(7)"
 
 lang: "vi"
-sourceContentHash: "5960cbcc31d84c2e"
+sourceContentHash: "14eb3e1aad20bc80"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

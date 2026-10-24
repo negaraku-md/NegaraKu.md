@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "वे कर्मचारी जो नियोक्ता चिकित्सा कवर और एक व्यक्तिगत चिकित्सा कार्ड के बीच तुलना कर रहे हैं, और वे सभी जो कोई पॉलिसी खरीदने या नवीनीकृत करने से पहले «को-पेमेंट» का अर्थ समझना चाहते हैं।"
 
 lang: "hi"
-sourceContentHash: "7e22fc5e8613df5f"
+sourceContentHash: "f3d82432e2ef0103"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

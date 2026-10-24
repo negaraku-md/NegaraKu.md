@@ -38,7 +38,7 @@ faq:
     a: "En 2024, PETRONAS a versé RM72.4 milliards en dividendes, impôts, paiements en espèces et autres engagements, dont un dividende de RM32.0 milliards. Cela s'ajoute aux impôts payés par les autres contractants et entreprises de services du secteur."
 
 lang: "fr"
-sourceContentHash: "7404112e163ed546"
+sourceContentHash: "6af871c9f37f1bbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

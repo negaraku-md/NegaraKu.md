@@ -29,7 +29,7 @@ faq:
     a: "Đối với cá nhân, phạt tới RM100,000 và/hoặc phạt tù tới 3 năm đối với lần vi phạm đầu, và tới RM250,000 và/hoặc 5 năm đối với các lần vi phạm tiếp theo. Đối với pháp nhân, phạt tới RM500,000, và tới RM1 triệu đối với các lần vi phạm tiếp theo."
 
 lang: "vi"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

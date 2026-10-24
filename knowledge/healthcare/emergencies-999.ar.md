@@ -31,7 +31,7 @@ faq:
     a: "تُرسَل سيارات الإسعاف الحكومية مجانًا عبر خط 999 وتديرها KKM مع هيئات طوعية مثل St John Ambulance وجمعية الهلال الأحمر الماليزية. أما سيارات الإسعاف الخاصة فتشغّلها شركات أو مستشفيات خاصة عبر خطوطها الساخنة، وتفرض رسم خدمة بحسب طبيعة المكالمة."
 
 lang: "ar"
-sourceContentHash: "492fe31c078f6681"
+sourceContentHash: "2f1b3605919630fa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

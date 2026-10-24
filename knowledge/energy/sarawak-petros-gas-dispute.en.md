@@ -29,7 +29,7 @@ faq:
     a: "The two sides have agreed that Petros would become Sarawak's gas aggregator (excluding LNG) following a meeting in January 2025, with Petros beginning to act as aggregator on 1 March 2025. However, several differences in legal interpretation and commercial details are still under negotiation."
 
 lang: "en"
-sourceContentHash: "9fa405873e618d18"
+sourceContentHash: "1026083c1716ec2d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -36,7 +36,7 @@ faq:
     a: "NSS menargetkan untuk melatih dan meningkatkan keterampilan 60,000 insinyur Malaysia berketerampilan tinggi — sekitar 30,000 dibina melalui Kementerian Pendidikan dan sekitar 30,000 talenta teknis dan vokasional (TVET) dari kementerian lain."
 
 lang: "id"
-sourceContentHash: "1463f5cc1d397718"
+sourceContentHash: "eab529a902099839"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

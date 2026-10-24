@@ -24,7 +24,7 @@ appliesTo: "தேசியப் பள்ளிகள், தனியார�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "ea334d9ab0b14453"
+sourceContentHash: "6e235692a71d508a"
 
 status: "published"
 aiAssisted: true

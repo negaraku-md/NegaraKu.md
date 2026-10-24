@@ -36,7 +36,7 @@ faq:
     a: "2020 年，时任能源与天然资源部长拿督沙姆苏安努亚纳沙拉（Datuk Dr Shamsul Anuar Nasarah）在国会表示，该规划应予检讨，原因在于其成本——对政府约 50 亿令吉的财务影响，外加政府本需承接的 600 亿至 800 亿令吉购电义务。此后，改革以更小、更有针对性的步伐推进，而非一次性的大爆炸式自由化。"
 
 lang: "zh"
-sourceContentHash: "5e135be7df9c9a11"
+sourceContentHash: "06296dd44c284dbc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

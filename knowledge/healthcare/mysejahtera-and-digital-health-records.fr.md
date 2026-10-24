@@ -29,7 +29,7 @@ faq:
     a: "Le Rapport de l'Auditeur général présenté au Parlement en février 2023 a révélé que les informations personnelles de 3 millions de bénéficiaires de vaccins avaient été téléchargées via un compte « Super Admin » du système MyVAS entre le 28 et le 31 octobre 2021."
 
 lang: "fr"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

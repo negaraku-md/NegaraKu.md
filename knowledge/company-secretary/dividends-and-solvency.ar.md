@@ -49,7 +49,7 @@ obligations:
     consequence: "المسؤولية بموجب s.132(5) بالسجن حتى خمس سنوات أو غرامة تصل إلى RM3 مليون أو بكليهما، والمسؤولية الشخصية بموجب s.133(2)"
 
 lang: "ar"
-sourceContentHash: "0f48f4bee9e4e684"
+sourceContentHash: "b43e6c4ddfee7b65"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

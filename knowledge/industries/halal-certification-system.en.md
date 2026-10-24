@@ -36,7 +36,7 @@ faq:
     a: "The Procedure Manual stipulates that the competent authority shall deal directly with the company or applicant without going through a third party or intermediary such as a consultant. Consultants may help prepare documents, but the application and official communications remain between the applicant and JAKIM/MAIN/JAIN."
 
 lang: "en"
-sourceContentHash: "7bb5b6fb5326f994"
+sourceContentHash: "7e400c117bf0341f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

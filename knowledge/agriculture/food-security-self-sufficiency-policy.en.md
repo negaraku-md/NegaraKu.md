@@ -31,7 +31,7 @@ faq:
     a: "The decline is largely the effect of a change in the calculation method, not simply a fall in production. The new method only counts clean paddy processed into rice and no longer includes paddy used for seed within the same year."
 
 lang: "en"
-sourceContentHash: "fcd35063d281dbc6"
+sourceContentHash: "f5844b5eb0a2c6ba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -31,7 +31,7 @@ faq:
     a: "Las ambulancias públicas se envían de forma gratuita a través de la línea 999 y las gestiona el KKM junto con organismos voluntarios como St John Ambulance y la Sociedad de la Media Luna Roja de Malasia. Las ambulancias privadas, por su parte, son operadas por empresas u hospitales privados a través de sus propias líneas directas, y cobran una tarifa de servicio según la naturaleza de la llamada."
 
 lang: "es"
-sourceContentHash: "492fe31c078f6681"
+sourceContentHash: "2f1b3605919630fa"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

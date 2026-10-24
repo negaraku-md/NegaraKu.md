@@ -36,7 +36,7 @@ faq:
     a: "Pada 2020, Menteri Tenaga dan Sumber Asli ketika itu, Datuk Dr Shamsul Anuar Nasarah, memberitahu Parlimen bahawa pelan itu patut disemak semula kerana kosnya — implikasi kewangan kira-kira RM5 bilion kepada kerajaan, ditambah obligasi belian kuasa RM60–80 bilion yang terpaksa ditanggung oleh kerajaan. Reformasi sejak itu diteruskan dalam langkah-langkah yang lebih kecil dan bersasar dan bukannya satu liberalisasi besar-besaran sekali gus."
 
 lang: "ms"
-sourceContentHash: "5e135be7df9c9a11"
+sourceContentHash: "06296dd44c284dbc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

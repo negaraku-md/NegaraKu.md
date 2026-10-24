@@ -30,7 +30,7 @@ faq:
     a: "มรดกขนาดเล็กที่มีอสังหาริมทรัพย์และมีมูลค่าต่ำกว่า RM5 ล้านดำเนินการโดยผู้จัดการที่ดิน (Pentadbir Tanah) ผ่านสำนักงานที่ดินอำเภอ ซึ่งออกคำสั่งแบ่งมรดก (Perintah Pembahagian)"
 
 lang: "th"
-sourceContentHash: "569aa98893242689"
+sourceContentHash: "34023c075e010a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

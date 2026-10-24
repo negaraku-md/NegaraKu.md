@@ -39,7 +39,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "4843205b62ed2e41"
+sourceContentHash: "3f8f25704fed84c5"
 sources:
   - title: "Laporan Tinjauan Pendapatan Isi Rumah, Malaysia & Negeri, 2024 (Household Income Survey Report, Malaysia & States, 2024)"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"

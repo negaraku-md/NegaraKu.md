@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Citoyens malaisiens, résidents permanents, primo-accédants et acheteurs étrangers (soumis à des restrictions et à des taux de droit supplémentaires)"
 
 lang: "fr"
-sourceContentHash: "9e29133ebe5daedf"
+sourceContentHash: "7bbb4ca3cdb29e8e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

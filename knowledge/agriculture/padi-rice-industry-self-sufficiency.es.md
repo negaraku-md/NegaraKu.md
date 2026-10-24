@@ -34,7 +34,7 @@ faq:
     a: "Padiberas Nasional Berhad (BERNAS) posee el rol de único importador de arroz del país, un rol heredado de la Junta Nacional del Padi y el Arroz (LPN), que asumió las importaciones de arroz y se convirtió en el único importador en 1974 tras la crisis alimentaria mundial de 1973. BERNAS también gestiona el stock de reserva nacional de arroz y apoya a los molineros bumiputera. Fue privatizada el 12 de enero de 1996."
 
 lang: "es"
-sourceContentHash: "fb620a1ce6fe2341"
+sourceContentHash: "ed4546075e84eef3"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

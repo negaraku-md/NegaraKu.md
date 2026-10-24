@@ -31,7 +31,7 @@ faq:
     a: "A moratorium is a period during which you are prohibited from reselling the home without approval. Residensi Wilayah imposes a 10-year moratorium and Rumah Selangorku a 5-year one, to prevent speculation and ensure the homes remain available for the target group."
 
 lang: "en"
-sourceContentHash: "c2d113c9f6018d12"
+sourceContentHash: "1484e1d16671dc8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

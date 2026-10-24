@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "जो कोई सबा या सारावाक में स्थानांतरित हो रहा है या उनके लिए बजट बना रहा है, पूर्वी मलेशियाई कीमतों की प्रायद्वीपीय मलेशिया से तुलना कर रहा है, या यह शोध कर रहा है कि वही उत्पाद दक्षिण चीन सागर के दोनों ओर अलग मूल्य-टैग क्यों रख सकता है।"
 
 lang: "hi"
-sourceContentHash: "327dd8ebe6d5d915"
+sourceContentHash: "8986bf13945d0128"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "नर्सों को मलेशियन नर्सिंग बोर्ड (Lembaga Jururawat Malaysia) द्वारा नर्स अधिनियम 1950 (Nurses Act 1950) के तहत पंजीकृत किया जाता है; फार्मासिस्टों को फार्मेसी बोर्ड मलेशिया (Lembaga Farmasi Malaysia) द्वारा फार्मासिस्ट पंजीकरण अधिनियम 1951 (Registration of Pharmacists Act 1951) (Act 371) के तहत; और फिजियोथेरेपी जैसे संबद्ध स्वास्थ्य पेशों को MAHPC द्वारा संबद्ध स्वास्थ्य पेशा अधिनियम 2016 (Allied Health Professions Act 2016) (Act 774) के तहत।"
 
 lang: "hi"
-sourceContentHash: "3615da4185af8269"
+sourceContentHash: "d115e96de8bf4353"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

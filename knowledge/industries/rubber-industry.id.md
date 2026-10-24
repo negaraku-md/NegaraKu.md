@@ -34,7 +34,7 @@ faq:
     a: "Tiongkok adalah destinasi terbesar sejauh ini, mengambil sekitar 49% dari ekspor karet alam pada Desember 2024, diikuti Jerman (12.9%), Uni Emirat Arab (7.3%), Amerika Serikat dan Portugal."
 
 lang: "id"
-sourceContentHash: "8dca8d58fbcc1a41"
+sourceContentHash: "26170231d376fbab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

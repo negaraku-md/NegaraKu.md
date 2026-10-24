@@ -32,7 +32,7 @@ faq:
     a: "这是一份于 2023 年 6 月 15 日获国会通过的政策文件，勾勒出马来西亚卫生系统为期 15 年的分阶段改革蓝图。"
 
 lang: "zh"
-sourceContentHash: "635c9f97868b06be"
+sourceContentHash: "6b5ead408a9cf117"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

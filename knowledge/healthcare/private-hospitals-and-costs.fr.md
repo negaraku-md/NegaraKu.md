@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Toute personne en Malaisie confrontée à une consultation de spécialiste ou à une admission hospitalière dans un établissement privé — patients, aidants et salariés qui dépendent de cartes médicales ou d'assurances fournies par l'employeur."
 
 lang: "fr"
-sourceContentHash: "ae428a676e96d0c6"
+sourceContentHash: "dfd6a5748ec5074b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

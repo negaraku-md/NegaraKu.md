@@ -31,7 +31,7 @@ faq:
     a: "La subvention du GPL vise l'usage domestique, et non le commerce. Les plus grandes entreprises doivent utiliser des bouteilles commerciales non subventionnées et plus chères (bouteilles violettes). Le KPDN a déclaré que les micro-commerçants et petits commerçants peuvent encore utiliser du GPL subventionné dans certaines limites."
 
 lang: "fr"
-sourceContentHash: "7fc238e7f93ed817"
+sourceContentHash: "b11646a6057ac6f5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

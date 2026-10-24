@@ -29,7 +29,7 @@ faq:
     a: "Trong số đó có những người tham gia các hoạt động rủi ro cao, người hiến nữ đang mang thai/hành kinh/cho con bú, từng sống ở Anh giai đoạn 1980-1996 trong 6 tháng trở lên (tích lũy), hoặc từng sống ở các nước châu Âu từ năm 1980 đến nay trong 5 năm trở lên (tích lũy) — cả hai đều vì rủi ro vCJD."
 
 lang: "vi"
-sourceContentHash: "241fb7f03a5cd3d3"
+sourceContentHash: "5468a77cc086e2e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

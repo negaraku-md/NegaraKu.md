@@ -29,7 +29,7 @@ faq:
     a: "아닙니다. 공립 초등·중등학교 교육은 수업료를 부과하지 않습니다. 특별 요금도 SPI Bil. 13/2007을 통해 2008년부터 폐지되었습니다."
 
 lang: "ko"
-sourceContentHash: "ae00ce2b2c55df71"
+sourceContentHash: "c71280cc876e703d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

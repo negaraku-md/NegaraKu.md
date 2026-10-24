@@ -20,7 +20,7 @@ keyTakeaways:
   - "Amendemen pendidikan menengah 2025 telah disahkan oleh Parlemen tetapi masih belum diberlakukan melalui pemberitahuan Warta pada saat artikel ini ditulis — Menteri menetapkan tanggal mulai berlakunya secara terpisah"
 appliesTo: "Orang tua Malaysia yang mempertimbangkan pendidikan di rumah untuk anak berusia sekolah rendah atau menengah, dan keluarga (termasuk rumah tangga ekspatriat MM2H atau tinggal jangka panjang) yang menimbang antara pengecualian resmi dibandingkan tidak mendaftarkan anak ke sekolah secara tidak resmi."
 lang: "id"
-sourceContentHash: "f9978c9d61a0e0de"
+sourceContentHash: "a0dbea0e18298c21"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

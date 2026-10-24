@@ -36,7 +36,7 @@ faq:
     a: "En 2020, le ministre de l'Énergie et des Ressources naturelles de l'époque, Datuk Dr Shamsul Anuar Nasarah, a déclaré au Parlement que le plan devait être révisé en raison de son coût — une incidence financière d'environ RM5 milliards pour le gouvernement, plus des obligations d'achat d'électricité de RM60–80 milliards que le gouvernement aurait dû assumer. La réforme s'est depuis poursuivie par étapes plus petites et ciblées plutôt que par une unique libéralisation de grande ampleur."
 
 lang: "fr"
-sourceContentHash: "5e135be7df9c9a11"
+sourceContentHash: "06296dd44c284dbc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

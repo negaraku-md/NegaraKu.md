@@ -36,7 +36,7 @@ faq:
     a: "2020年、当時のエネルギー・天然資源大臣であったダトゥ・シャムスル・アヌアル・ナサラ博士（Datuk Dr Shamsul Anuar Nasarah）は、国会でこの計画を見直すべきだと述べた。その理由は明快で、計画を推し進めれば政府に約RM50億の財政負担が生じるうえ、政府が引き受けることになるRM600億～800億の電力購入義務がTNBに残っていたためである。以降の改革は、一度きりのビッグバン型自由化ではなく、より小規模で的を絞った段階的な取り組みとして進められている。"
 
 lang: "ja"
-sourceContentHash: "5e135be7df9c9a11"
+sourceContentHash: "06296dd44c284dbc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

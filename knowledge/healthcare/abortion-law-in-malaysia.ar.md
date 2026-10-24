@@ -31,7 +31,7 @@ faq:
     a: "تعرّف إرشادات وزارة الصحة لسنة 2012 إنهاءَ الحمل بأنه إجراء يتم عند عمر حمل دون 22 أسبوعًا، أو — حيث يكون العمر مجهولًا — حيث يُقدَّر وزن الجنين بأقل من 500 غرام."
 
 lang: "ar"
-sourceContentHash: "58e08ea86f967964"
+sourceContentHash: "ae2bf4ced7e95cfe"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "Companies applying for a PETRONAS licence must meet Bumiputera participation requirements according to the relevant SWEC code. For the PETRONAS Vendor Development Programme, a minimum of 51% Bumiputera ownership is required (source: Low & Partners; PETRONAS)."
 
 lang: "en"
-sourceContentHash: "8653f4f58e0534c5"
+sourceContentHash: "827cfd2ac62b2b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

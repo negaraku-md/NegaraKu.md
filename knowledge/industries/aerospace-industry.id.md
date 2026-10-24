@@ -34,7 +34,7 @@ faq:
     a: "Keduanya, tetapi pusat gravitasi aktivitasnya adalah layanan. MRO dan manufaktur komponen mendominasi; Malaysia membangun struktur, komposit, dan bagian mesin serta memelihara pesawat, tetapi memiliki kemampuan desain dan pengembangan pada tingkat pesawat yang lebih lemah."
 
 lang: "id"
-sourceContentHash: "5b97e205090548e0"
+sourceContentHash: "83587e970bd1abf9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

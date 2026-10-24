@@ -41,7 +41,7 @@ verificationNeeded:
   - "Verifikasi apa yang diubah oleh Companies (Amendment) Act 2024 (Act A1701) dalam s.68, apa yang termasuk dalam cakupan amendemennya, dan apakah perubahan tersebut sudah berlaku"
 
 lang: "id"
-sourceContentHash: "333c372fcdca64b9"
+sourceContentHash: "6b555ea5ac7d9563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

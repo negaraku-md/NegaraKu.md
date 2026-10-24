@@ -34,7 +34,7 @@ faq:
     a: "NCP 2030 एक नीति है जो Construction Industry Transformation Programme (CITP) 2016–2020 के समापन के बाद ICW 2021 में लॉन्च की गई। यह 2030 तक निर्माण क्षेत्र को डिजिटल युग की ओर रूपांतरित करने के लिए छह रणनीतिक धुरियाँ निर्धारित करती है, जिसमें उद्योग-चक्र के 50% के डिजिटलीकरण का लक्ष्य शामिल है।"
 
 lang: "hi"
-sourceContentHash: "77fa6bf333c3fa74"
+sourceContentHash: "6895d1dde5da9e4f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

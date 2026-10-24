@@ -35,7 +35,7 @@ faq:
     a: "Stamp Act 1949 के तहत स्टांप शुल्क ऋण राशि का 0.5% है। उदाहरण के लिए, RM450,000 के ऋण पर RM2,250 का शुल्क लगता है। भुगतान अनुबंध पर हस्ताक्षर की तारीख से 30 दिनों के भीतर करना होता है।"
 
 lang: "hi"
-sourceContentHash: "9739f168cee000e2"
+sourceContentHash: "b1c14566767fa9fb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

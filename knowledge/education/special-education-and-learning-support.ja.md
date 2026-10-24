@@ -21,7 +21,7 @@ appliesTo: "マレーシアで、障害または学習困難と診断された�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e0164ad51b29c01a"
+sourceContentHash: "9436b58ec227f7f0"
 
 status: "published"
 aiAssisted: true

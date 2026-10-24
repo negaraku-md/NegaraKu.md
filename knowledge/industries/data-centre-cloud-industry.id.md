@@ -34,7 +34,7 @@ faq:
     a: "Pedoman Pembangunan Berkelanjutan Pusat Data MITI (30 Desember 2024) mengharuskan operator mendeklarasikan desain PUE, WUE, dan CUE sesuai standar ISO/IEC 30134, dan mempertimbangkan lokasi di Semenanjung Malaysia yang memiliki indeks tekanan air (WSI) kurang dari 0.8, sebagaimana pedoman itu merumuskan syarat penempatannya."
 
 lang: "id"
-sourceContentHash: "58d8713ab3d5317e"
+sourceContentHash: "06223fcd2dad5f61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -33,7 +33,7 @@ faq:
     a: "L'alimentation s'accompagne d'exigences sanitaires supplémentaires par-dessus l'enregistrement auprès de la SSM et du conseil. La liste de contrôle de la catégorie alimentation de la directive exige que le local dispose d'un bac à graisse, qu'il soit inscrit dans la catégorie alimentation à domicile du Système d'information sur la sécurité alimentaire de Malaisie (Food Safety Information System of Malaysia, FoSIM), et que l'exploitant détienne un certificat de formation de manipulateur d'aliments délivré par une école reconnue par le KKM, en plus de la preuve d'un vaccin contre la typhoïde. Certains aliments ne peuvent pas du tout être produits à domicile, comme les préparations pour nourrissons et l'eau/la glace potable conditionnées, qui requièrent leur propre licence."
 
 lang: "fr"
-sourceContentHash: "c4c8831642a77988"
+sourceContentHash: "699957f6b80deec2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -22,7 +22,7 @@ appliesTo: "வயதான பெற்றோர் அல்லது உற�
 verificationNeeded:
   - "இக்கட்டுரை தனியார் தாதி இல்லங்களின் கட்டணங்கள், படுக்கை வசதி எண்ணிக்கை, அல்லது Rumah Seri Kenangan-க்கான காத்திருப்புப் பட்டியல் நீளம் ஆகியவற்றைக் கூறவில்லை; இவை அடிக்கடி மாறுவதோடு, எழுதப்பட்ட நேரத்தில் அதிகாரப்பூர்வ ஆதாரத்தில் உறுதிப்படுத்தப்படவில்லை — தற்போதைய கட்டணங்களையும் கிடைப்பையும் நேரடியாக இயக்குநரிடமோ அல்லது மாவட்ட சமூக நல அலுவலகத்திடமோ (Jabatan Kebajikan Masyarakat Daerah) உறுதிப்படுத்திக் கொள்ளுங்கள்."
 lang: "ta"
-sourceContentHash: "7ae419cbd6a2d437"
+sourceContentHash: "f10aac9439fe1e51"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

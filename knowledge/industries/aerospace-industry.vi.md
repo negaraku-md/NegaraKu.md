@@ -34,7 +34,7 @@ faq:
     a: "Cả hai, nhưng trọng tâm của nó là dịch vụ. MRO và chế tạo linh kiện chiếm ưu thế; Malaysia xây dựng các kết cấu, vật liệu composite và bộ phận động cơ và bảo trì máy bay, nhưng có năng lực thiết kế và phát triển ở cấp máy bay yếu hơn."
 
 lang: "vi"
-sourceContentHash: "5b97e205090548e0"
+sourceContentHash: "83587e970bd1abf9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

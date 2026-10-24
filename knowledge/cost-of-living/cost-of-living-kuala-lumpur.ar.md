@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "كل من يضع ميزانيةً للانتقال إلى كوالالمبور أو وادي كلانغ، أو يقارن عروض العمل بين المدن، أو يحاول فهم سبب تصدّر العاصمة الدائم لتصنيفات تكلفة المعيشة في ماليزيا."
 
 lang: "ar"
-sourceContentHash: "5a6f8510ce30c077"
+sourceContentHash: "9ee948a5f080e34c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

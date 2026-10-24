@@ -27,7 +27,7 @@ faq:
     a: "Giá RON95 được trợ cấp giữ ở mức RM1.99 mỗi lít cho người dân đủ điều kiện theo BUDI95, nhưng giá thị trường chung không được trợ cấp biến động theo APM."
 
 lang: "vi"
-sourceContentHash: "77fbc98bce7fd506"
+sourceContentHash: "31beae2d3f6af51b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

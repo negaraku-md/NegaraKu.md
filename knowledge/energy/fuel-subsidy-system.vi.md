@@ -37,7 +37,7 @@ faq:
     a: "Diesel ở Sabah, Sarawak và Labuan giữ ở mức RM2.15 mỗi lít và không được thả nổi như ở Bán đảo. RON95 được trợ cấp RM1.99 áp dụng cho công dân đủ điều kiện trên toàn quốc."
 
 lang: "vi"
-sourceContentHash: "b4fd92803516f862"
+sourceContentHash: "b0726e746e504bf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

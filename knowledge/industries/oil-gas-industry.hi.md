@@ -38,7 +38,7 @@ faq:
     a: "2024 में, PETRONAS ने RM32.0 बिलियन के लाभांश सहित, लाभांश, कर, नक़द भुगतान और अन्य प्रतिबद्धताओं के रूप में RM72.4 बिलियन का योगदान दिया। यह क्षेत्र के अन्य ठेकेदारों और सेवा-कंपनियों द्वारा चुकाए गए करों के अतिरिक्त है।"
 
 lang: "hi"
-sourceContentHash: "7404112e163ed546"
+sourceContentHash: "6af871c9f37f1bbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

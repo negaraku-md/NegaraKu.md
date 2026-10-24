@@ -29,7 +29,7 @@ faq:
     a: "個人の場合、初犯はRM100,000以下の罰金及び/又は3年以下の禁錮、再犯はRM250,000以下の罰金及び/又は5年以下の禁錮に処される。法人の場合、初犯はRM500,000以下の罰金、再犯はRM100万以下の罰金に処される。"
 
 lang: "ja"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

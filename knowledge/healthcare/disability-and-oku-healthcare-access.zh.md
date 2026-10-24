@@ -31,7 +31,7 @@ faq:
     a: "JKM旗下的辅助器具／假肢援助（BAT）涵盖手动或电动轮椅、假腿与假手、助听器、白手杖和盲文机，按所核定的器具实际价格提供。"
 
 lang: "zh"
-sourceContentHash: "eb1c377cbf19305d"
+sourceContentHash: "f4c391c1dbfcea33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

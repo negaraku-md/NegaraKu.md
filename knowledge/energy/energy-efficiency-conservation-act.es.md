@@ -31,7 +31,7 @@ faq:
     a: "El nuevo marco de la Act 861 y el Reglamento de Eficiencia y Conservación Energética de 2024 amplía el alcance de la regulación, que pasa de la electricidad únicamente a todas las formas de energía. Se entiende que este marco sustituye al antiguo Reglamento de Gestión Eficiente de la Energía Eléctrica de 2008 (EMEER), pero los detalles de esa derogación deben verificarse con el texto oficial del reglamento."
 
 lang: "es"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

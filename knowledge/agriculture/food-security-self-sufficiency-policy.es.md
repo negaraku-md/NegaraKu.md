@@ -31,7 +31,7 @@ faq:
     a: "El descenso es en gran medida el efecto de un cambio en el método de cálculo, no simplemente una caída de la producción. El nuevo método solo contabiliza el arroz limpio procesado en grano y ya no incluye el arroz paddy utilizado como semilla dentro del mismo año."
 
 lang: "es"
-sourceContentHash: "fcd35063d281dbc6"
+sourceContentHash: "f5844b5eb0a2c6ba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

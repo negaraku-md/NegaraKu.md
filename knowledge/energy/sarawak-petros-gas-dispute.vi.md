@@ -29,7 +29,7 @@ faq:
     a: "Cả hai bên đã đồng ý Petros trở thành nhà tập hợp khí đốt của Sarawak (không bao gồm LNG) sau cuộc họp vào tháng 1 năm 2025, với Petros bắt đầu đóng vai trò nhà tập hợp vào ngày 1 tháng 3 năm 2025. Tuy nhiên một số khác biệt về diễn giải pháp lý và các chi tiết thương mại vẫn đang trong đàm phán."
 
 lang: "vi"
-sourceContentHash: "9fa405873e618d18"
+sourceContentHash: "1026083c1716ec2d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

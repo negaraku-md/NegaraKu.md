@@ -27,7 +27,7 @@ faq:
   - q: "말레이시아의 수입 쌀은 어디서 옵니까?"
     a: "BERNAS에 따르면, 수입의 대부분은 베트남, 태국, 파키스탄, 인도, 미얀마에서 조달됩니다."
 lang: "ko"
-sourceContentHash: "8a715f161404c46b"
+sourceContentHash: "522e3a6274830936"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

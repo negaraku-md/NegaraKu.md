@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang ingin memperoleh pemahaman terstruktur dan deskriptif tentang kerangka kerja konstitusi Malaysia."
 
 lang: "id"
-sourceContentHash: "3635bd9fdb569d2e"
+sourceContentHash: "cceecfcd59d19112"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

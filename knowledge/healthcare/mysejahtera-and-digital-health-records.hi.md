@@ -29,7 +29,7 @@ faq:
     a: "फ़रवरी 2023 में संसद में पेश महालेखा परीक्षक की रिपोर्ट ने उजागर किया कि 28 से 31 अक्टूबर 2021 के बीच MyVAS प्रणाली के एक 'Super Admin' खाते के माध्यम से 30 लाख वैक्सीन-प्राप्तकर्ताओं की व्यक्तिगत जानकारी डाउनलोड की गई थी।"
 
 lang: "hi"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

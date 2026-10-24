@@ -36,7 +36,7 @@ faq:
     a: "NSS ตั้งเป้าฝึกและเพิ่มทักษะวิศวกรมาเลเซียที่มีทักษะสูง 60,000 คน — ราว 30,000 คนบ่มเพาะผ่านกระทรวงศึกษาธิการ และราว 30,000 คนเป็นบุคลากรด้านเทคนิคและอาชีวศึกษา (TVET) จากกระทรวงอื่น ๆ"
 
 lang: "th"
-sourceContentHash: "1463f5cc1d397718"
+sourceContentHash: "eab529a902099839"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

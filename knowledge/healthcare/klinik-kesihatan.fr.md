@@ -27,7 +27,7 @@ verificationNeeded:
   - "Les différences détaillées entre la Klinik Kesihatan, la Klinik Komuniti et la Klinik Desa en matière de personnel et d'étendue précise du traitement n'ont pu être pleinement vérifiées auprès de sources officielles du KKM au moment de la rédaction ; cet article indique seulement que les trois sont des établissements distincts."
 
 lang: "fr"
-sourceContentHash: "a763d53f069e94c3"
+sourceContentHash: "b45c68aeb8d6fe25"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

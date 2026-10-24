@@ -40,7 +40,7 @@ verificationNeeded:
   - "تأكَّد من النموذج الحالي الذي تقرّره SSM وأي رسم للإخطار بموجب المادة 58 بتعيين أمين سر مقابل إرشادات الإيداع الحيّة لدى SSM، إذ غيّر MBRS 2.0 مسار التقديم"
 
 lang: "ar"
-sourceContentHash: "87bd6be0702424fa"
+sourceContentHash: "3fa25b3879bb1c66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

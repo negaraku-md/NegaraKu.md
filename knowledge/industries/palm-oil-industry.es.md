@@ -37,7 +37,7 @@ faq:
     a: "La Junta de Aceite de Palma de Malasia (MPOB), un organismo estatutario dependiente del Ministerio de Plantaciones y Materias Primas, concede licencias y supervisa cada etapa, desde la siembra hasta la exportación, y dirige la investigación y el desarrollo de la industria."
 
 lang: "es"
-sourceContentHash: "6df254d9cadb68a3"
+sourceContentHash: "e7701d74a9145bd8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

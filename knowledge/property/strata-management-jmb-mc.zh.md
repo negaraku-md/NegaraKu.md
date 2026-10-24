@@ -34,7 +34,7 @@ faq:
     a: "不遵守裁决属第123条下的刑事罪——罚款不超过 RM250,000 或监禁不超过 3 年或两者兼施，持续违犯者每日另处最高 RM5,000 罚款。投诉向建筑物专员（COB）提出。"
 
 lang: "zh"
-sourceContentHash: "f0b9ecff267db2f3"
+sourceContentHash: "c33c12700672ddab"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

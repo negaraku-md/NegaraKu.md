@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang lập ngân sách dựa trên một mức lương Malaysia, so chuẩn tiền lương, hoặc cố gắng đặt một con số thu nhập cụ thể vào bối cảnh quốc gia."
 
 lang: "vi"
-sourceContentHash: "b4e7cfa473ebf879"
+sourceContentHash: "fde2e01f1a9acb7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

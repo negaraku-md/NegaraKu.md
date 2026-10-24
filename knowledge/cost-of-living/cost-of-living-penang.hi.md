@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "कोई भी जो पेनांग की रहन-सहन-लागत की तुलना क्लांग घाटी से कर रहा हो, या स्थानांतरण, किराए पर लेने या व्यवसाय खोलने से पहले पेनांग द्वीप और सेबेरांग पेराई के बीच निर्णय ले रहा हो।"
 
 lang: "hi"
-sourceContentHash: "060d0c1609863cd7"
+sourceContentHash: "be67d52caf0f3908"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -30,7 +30,7 @@ faq:
     a: "இல்லை. அனைத்து புகையிலை மற்றும் வேப் பொருட்களை ஆன்லைன் தளங்கள் மற்றும் தானியங்கி விற்பனை இயந்திரங்கள் மூலம் விற்பனை செய்வதை Akta 852 தடைசெய்கிறது."
 
 lang: "ta"
-sourceContentHash: "41eadbd4f391ff30"
+sourceContentHash: "47453ebb80993a06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

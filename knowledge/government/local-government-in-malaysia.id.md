@@ -30,7 +30,7 @@ faq:
   - q: "Mengapa pemerintahan lokal adalah perkara negeri dan bukan federal?"
     a: "Karena Konstitusi Federal menempatkan pemerintahan lokal dalam Daftar Negeri (butir 4 Daftar II, Jadwal Kesembilan). Untuk mempertahankan kebijakan yang konsisten, Pasal 95A membentuk Majlis Negara bagi Kerajaan Tempatan untuk menyusun kebijakan nasional yang harus dipatuhi oleh baik Pemerintah Federal maupun Negeri."
 lang: "id"
-sourceContentHash: "78de95ae401b9cbb"
+sourceContentHash: "8106a6c84bc7a419"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

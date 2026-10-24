@@ -29,7 +29,7 @@ faq:
     a: "Không. Belanjawanku đo lường chi tiêu cho một 'mức sống hợp lý' hoặc thoải mái, cao hơn ngưỡng nghèo vốn chỉ phản ánh các nhu cầu cơ bản để tồn tại."
 
 lang: "vi"
-sourceContentHash: "178a5bff85bb62f4"
+sourceContentHash: "384e7d4c05e2a6eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

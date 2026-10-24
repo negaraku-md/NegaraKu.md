@@ -38,7 +38,7 @@ faq:
     a: "Vào năm 2024, PETRONAS đóng góp RM72.4 tỷ dưới dạng cổ tức, thuế, các khoản thanh toán tiền mặt và các cam kết khác, bao gồm một khoản cổ tức RM32.0 tỷ. Điều này nằm trên các khoản thuế do các nhà thầu và công ty dịch vụ khác trong khu vực này trả."
 
 lang: "vi"
-sourceContentHash: "7404112e163ed546"
+sourceContentHash: "6af871c9f37f1bbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

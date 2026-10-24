@@ -40,7 +40,7 @@ verificationNeeded:
   - "州レベルの消費者物価指数（CPI）は月次系列データである。当月比較のために本ページを利用する前に、ここに引用されている2025年1月の数値は、DOSMの最新のCPI発表と照合して更新すべきである。"
 
 updated: 2026-07-24
-sourceContentHash: "060d0c1609863cd7"
+sourceContentHash: "be67d52caf0f3908"
 sources:
   - title: "世帯所得調査報告書 2024（マレーシア及び各州）(Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"

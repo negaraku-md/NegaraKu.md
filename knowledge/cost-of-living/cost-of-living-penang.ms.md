@@ -42,7 +42,7 @@ verificationNeeded:
   - "IHP peringkat negeri adalah siri bulanan; angka Januari 2025 yang dipetik di sini perlu dikemas kini berdasarkan keluaran IHP DOSM terkini sebelum halaman ini digunakan untuk perbandingan bulan semasa."
 
 updated: 2026-07-24
-sourceContentHash: "060d0c1609863cd7"
+sourceContentHash: "be67d52caf0f3908"
 sources:
   - title: "Laporan Tinjauan Pendapatan Isi Rumah 2024 (Malaysia & Negeri) (Household Income Survey Report 2024 (Malaysia & States))"
     url: "https://www.dosm.gov.my/portal-main/release-content/household-income-survey-report--malaysia--states-2024"

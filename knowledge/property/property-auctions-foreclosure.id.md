@@ -30,7 +30,7 @@ faq:
     a: "Ia bergantung pada Proklamasi Penjualan. Pembeli lazimnya mewarisi pajak tanah, pajak taksiran (pajak pintu), biaya pemeliharaan dan utilitas yang tertunggak kecuali POS menyatakan bank akan melunasinya dari hasil penjualan. Selalu baca POS sebelum menawar."
 
 lang: "id"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

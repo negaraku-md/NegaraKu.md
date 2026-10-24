@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में किराये का घर खोजने वाला कोई भी व्यक्ति, चाहे स्थानीय रूप से पहली बार किराये पर ले रहा हो या विदेश से किरायेदारी की व्यवस्था कर रहा हो।"
 
 lang: "hi"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

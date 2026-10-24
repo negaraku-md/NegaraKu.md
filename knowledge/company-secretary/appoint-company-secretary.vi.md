@@ -40,7 +40,7 @@ verificationNeeded:
   - "Xác nhận mẫu theo quy định hiện hành của SSM và bất kỳ khoản phí nào cho thông báo s.58 về một lần bổ nhiệm thư ký so với hướng dẫn nộp còn hoạt động của SSM, vì MBRS 2.0 đã thay đổi tuyến nộp"
 
 lang: "vi"
-sourceContentHash: "87bd6be0702424fa"
+sourceContentHash: "3fa25b3879bb1c66"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

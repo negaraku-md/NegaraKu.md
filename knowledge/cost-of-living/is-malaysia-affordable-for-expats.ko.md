@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "이주 전에 말레이시아의 생활비를 서구 급여 및 지출 기준선과 견주어 보는 외국인, 원격 근무자, 신규 정착민."
 
 lang: "ko"
-sourceContentHash: "4843205b62ed2e41"
+sourceContentHash: "3f8f25704fed84c5"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

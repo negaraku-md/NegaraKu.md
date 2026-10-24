@@ -29,7 +29,7 @@ faq:
     a: "Les deux parties ont convenu que Petros deviendrait l'agrégateur de gaz du Sarawak (GNL exclu) à la suite d'une réunion en janvier 2025, Petros commençant à faire office d'agrégateur le 1er mars 2025. Toutefois, plusieurs différences d'interprétation juridique et détails commerciaux demeurent en cours de négociation."
 
 lang: "fr"
-sourceContentHash: "9fa405873e618d18"
+sourceContentHash: "1026083c1716ec2d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

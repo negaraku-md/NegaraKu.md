@@ -30,7 +30,7 @@ faq:
     a: "Proposals to unite the smallholders of all three agencies have been raised (for example by the Prime Minister in 2009 and by FGV in 2023), but as far as the referenced sources indicate, no full merger has been implemented."
 
 lang: "en"
-sourceContentHash: "a5eeffb434131b29"
+sourceContentHash: "3a519c8adad9a4c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

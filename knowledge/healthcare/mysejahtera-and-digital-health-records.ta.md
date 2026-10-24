@@ -29,7 +29,7 @@ faq:
     a: "2023 பிப்ரவரியில் நாடாளுமன்றத்தில் (Parliament) சமர்ப்பிக்கப்பட்ட தலைமைத் தணிக்கையாளர் அறிக்கை, 30 லட்சம் (3 million) தடுப்பூசி பெறுநர்களின் தனிப்பட்ட தகவல் 2021 அக்டோபர் 28 முதல் 31 வரை MyVAS அமைப்பின் ஒரு ‘Super Admin’ கணக்கு மூலம் பதிவிறக்கம் செய்யப்பட்டதை வெளிப்படுத்தியது."
 
 lang: "ta"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

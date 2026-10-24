@@ -36,7 +36,7 @@ faq:
     a: "Sí. Proton lanzó el e.MAS 7 en diciembre de 2024, su primer EV, con un precio desde RM109,800. Perodua lanzó el QV-E — descrito como el primer EV de cosecha propia de Malasia — en diciembre de 2025 por RM80,000 sin la batería, desarrollado con un coste de RM800 millones."
 
 lang: "es"
-sourceContentHash: "67619f9b70d97b83"
+sourceContentHash: "f19ad32bca0374d3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

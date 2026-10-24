@@ -29,7 +29,7 @@ faq:
     a: "يسجّل الممرضين مجلس التمريض الماليزي (Lembaga Jururawat Malaysia) بموجب قانون الممرضات لسنة 1950 (Nurses Act 1950)؛ والصيادلة مجلس الصيدلة في ماليزيا (Lembaga Farmasi Malaysia) بموجب قانون تسجيل الصيادلة لسنة 1951 (Registration of Pharmacists Act 1951) (Act 371)؛ ومهن الصحة المساندة مثل العلاج الطبيعي مجلس MAHPC بموجب قانون مهن الصحة المساندة لسنة 2016 (Allied Health Professions Act 2016) (Act 774)."
 
 lang: "ar"
-sourceContentHash: "3615da4185af8269"
+sourceContentHash: "d115e96de8bf4353"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

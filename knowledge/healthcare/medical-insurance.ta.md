@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "முதலாளியின் மருத்துவ காப்பீட்டை ஒரு தனிப்பட்ட மருத்துவ அட்டைக்கு எதிராக எடைபோடும் ஊழியர்கள், மற்றும் ஒரு பாலிசியை வாங்குவதற்கு அல்லது புதுப்பிப்பதற்கு முன் ‘இணை-கட்டணம்’ என்றால் என்ன என்பதைப் புரிந்துகொள்ள முயலும் எவரும்."
 
 lang: "ta"
-sourceContentHash: "7e22fc5e8613df5f"
+sourceContentHash: "f3d82432e2ef0103"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

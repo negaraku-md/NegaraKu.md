@@ -31,7 +31,7 @@ faq:
     a: "这一下跌很大程度上是计算方法改变的结果，而非单纯因为产量下滑。新方法只计算真正加工成米的净稻谷，不再把同一年用作种子的稻谷计算在内。"
 
 lang: "zh"
-sourceContentHash: "fcd35063d281dbc6"
+sourceContentHash: "f5844b5eb0a2c6ba"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "말레이시아는 세계은행 물류성과지수 2023에서 26위로, 2018년 41위에서 상승했고 ASEAN 국가 중 싱가포르에 이어 2위였습니다."
 
 lang: "ko"
-sourceContentHash: "5308f8757b834449"
+sourceContentHash: "28b83f8fb5bdfc96"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

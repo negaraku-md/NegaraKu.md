@@ -34,7 +34,7 @@ faq:
     a: "Tidak. Pensijilan halal menandakan standard kebersihan, kebolehkesanan dan kualiti, dan sektor ini memasarkan kepada pengguna Muslim dan bukan Muslim serta ke destinasi eksport majoriti bukan Islam."
 
 lang: "ms"
-sourceContentHash: "e86c482e092e1722"
+sourceContentHash: "94481a23df67c89e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

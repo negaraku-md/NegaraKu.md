@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (now FGV Holdings) is the investment arm that manages FELDA's plantations. It was listed on Bursa Malaysia on 28 June 2012 and, at the time of the IPO, managed around 500,000 hectares worked by about 112,600 settlers."
 
 lang: "en"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

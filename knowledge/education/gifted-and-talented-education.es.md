@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar es el programa preuniversitario de fundamento de la UKM para estudiantes superdotados y talentosos, ofrecido en tres corrientes: Perdana, Commercial e International."
 
 lang: "es"
-sourceContentHash: "35e2f3422be13be3"
+sourceContentHash: "e8dbefcac0cbb3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

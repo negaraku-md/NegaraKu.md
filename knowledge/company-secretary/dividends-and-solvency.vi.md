@@ -49,7 +49,7 @@ obligations:
     consequence: "Trách nhiệm theo s.132(5) lên tới năm năm tù hoặc một khoản tiền phạt lên tới RM3 triệu hoặc cả hai, và trách nhiệm cá nhân theo s.133(2)"
 
 lang: "vi"
-sourceContentHash: "0f48f4bee9e4e684"
+sourceContentHash: "b43e6c4ddfee7b65"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

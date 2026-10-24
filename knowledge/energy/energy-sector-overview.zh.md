@@ -34,7 +34,7 @@ faq:
     a: "PETRA（能源转型与水务转型部）是制定国家能源与水务政策、并推动迈向 2050 年净零排放转型的部门。能源委员会则是隶属 PETRA 的法定监管机构，负责发放执照、制定电费，并执行电力与天然气供应的相关法律。"
 
 lang: "zh"
-sourceContentHash: "fc167e2fbc6949c3"
+sourceContentHash: "13e97e8a9ffe1cf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

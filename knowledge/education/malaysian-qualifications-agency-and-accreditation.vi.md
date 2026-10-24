@@ -32,7 +32,7 @@ faq:
     a: "Có. Các chương trình do bất kỳ nhà cung cấp giáo dục đại học nào hoạt động tại Malaysia cung cấp, bao gồm các cơ sở chi nhánh nước ngoài, đều được đảm bảo chất lượng theo MQF và xuất hiện trong MQR. Một số đại học có uy tín có tình trạng tự kiểm định, cho phép họ kiểm định các chương trình của chính mình trên MQF và đăng ký các chương trình đó trong MQR."
 
 lang: "vi"
-sourceContentHash: "ce3f16b64b60d59b"
+sourceContentHash: "35dc11bf078ce7cc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

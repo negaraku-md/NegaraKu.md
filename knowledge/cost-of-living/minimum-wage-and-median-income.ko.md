@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "말레이시아 급여로 예산을 세우거나, 급여를 벤치마킹하거나, 특정 소득 수치를 전국적 맥락에 놓으려는 모든 사람."
 
 lang: "ko"
-sourceContentHash: "b4e7cfa473ebf879"
+sourceContentHash: "fde2e01f1a9acb7a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "舒缓治疗专注于为患有限制寿命疾病的病患提供舒适与症状控制，无论年龄大小，甚至包括儿童。乐龄照护则是为可能并未患末期疾病的年长者提供的一般照护。"
 
 lang: "zh"
-sourceContentHash: "ff994cbda9925abc"
+sourceContentHash: "f3444e3062b1aac2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

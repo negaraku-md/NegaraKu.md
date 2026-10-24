@@ -25,7 +25,7 @@ appliesTo: "மாணவர்கள், ஆராய்ச்சியாளர
 lang: "ta"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "a99d9463d1497fd3"
+sourceContentHash: "d3ed34cda4b61dd3"
 
 status: "published"
 aiAssisted: true

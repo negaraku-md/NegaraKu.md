@@ -34,7 +34,7 @@ faq:
     a: "PETRA (the Ministry of Energy Transition and Water Transformation) is the ministry that formulates national energy and water policy and drives the transition toward net-zero emissions by 2050. The Energy Commission is the statutory regulatory body under PETRA that licenses, sets tariffs and enforces the laws governing electricity and gas supply."
 
 lang: "en"
-sourceContentHash: "fc167e2fbc6949c3"
+sourceContentHash: "13e97e8a9ffe1cf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

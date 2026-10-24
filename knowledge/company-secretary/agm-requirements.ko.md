@@ -63,7 +63,7 @@ obligations:
     consequence: "s.309에 따라 회의가 유효하게 소집되지 않음"
 
 lang: "ko"
-sourceContentHash: "51eee5534e5ccee0"
+sourceContentHash: "eee01adb6e2f742c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

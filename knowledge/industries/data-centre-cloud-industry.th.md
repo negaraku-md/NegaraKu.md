@@ -34,7 +34,7 @@ faq:
     a: "แนวทางเพื่อการพัฒนาศูนย์ข้อมูลอย่างยั่งยืน (Guidelines for Sustainable Development of Data Centre) ของ MITI (30 December 2024) กำหนดให้ผู้ดำเนินการประกาศค่า PUE, WUE และ CUE ของการออกแบบเทียบกับมาตรฐาน ISO/IEC 30134 และให้พิจารณาที่ตั้งในคาบสมุทรมาเลเซียที่มีดัชนีความเครียดของน้ำ (water stress index, WSI) น้อยกว่า 0.8 ตามที่แนวทางระบุเงื่อนไขการเลือกที่ตั้ง"
 
 lang: "th"
-sourceContentHash: "58d8713ab3d5317e"
+sourceContentHash: "06223fcd2dad5f61"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

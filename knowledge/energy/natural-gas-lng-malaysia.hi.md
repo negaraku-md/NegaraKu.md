@@ -34,7 +34,7 @@ faq:
     a: "तृतीय-पक्ष पहुँच (TPA) योग्य शिपरों को, केवल PETRONAS को नहीं, पुनर्गैसीकरण टर्मिनलों, संचरण पाइपलाइनों और वितरण पाइपलाइनों पर समान शर्तों पर क्षमता आरक्षित करने देती है। यह Gas Supply (Amendment) Act 2016 के तहत 16 जनवरी 2017 को शुरू हुई और इसे ऊर्जा आयोग विनियमित करता है।"
 
 lang: "hi"
-sourceContentHash: "20fa31d4431394c5"
+sourceContentHash: "4e24ddc5a51e8881"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

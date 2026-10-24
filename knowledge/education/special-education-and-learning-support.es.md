@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Padres y cuidadores de un niño en Malasia con una discapacidad o dificultad de aprendizaje diagnosticada que intentan averiguar qué ubicación escolar y qué pasos de registro corresponden."
 
 lang: "es"
-sourceContentHash: "e0164ad51b29c01a"
+sourceContentHash: "9436b58ec227f7f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

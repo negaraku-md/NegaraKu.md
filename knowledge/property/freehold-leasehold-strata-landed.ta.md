@@ -24,7 +24,7 @@ appliesTo: "ஒரு விளம்பரத்தின் உரிமைக
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 
 status: "published"
 aiAssisted: true

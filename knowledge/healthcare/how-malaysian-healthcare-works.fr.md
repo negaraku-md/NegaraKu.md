@@ -26,7 +26,7 @@ verificationNeeded:
   - "La prime exacte et le plafond annuel de couverture du SPIKPA n'ont pas été confirmés auprès d'une source primaire officielle (seules des sources secondaires universitaires et de courtiers en assurance ont été trouvées) ; cet article décrit la fonction du dispositif — assurance obligatoire liée au renouvellement du permis de travail, confirmée sur le site même du Département de l'immigration — sans indiquer une prime ou un montant de couverture non vérifiés."
 
 lang: "fr"
-sourceContentHash: "7dd45f5bebbd1f93"
+sourceContentHash: "f35156bb0be8d93f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

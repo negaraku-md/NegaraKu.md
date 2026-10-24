@@ -30,7 +30,7 @@ faq:
     a: "包含不动产且价值低于 500 万令吉的小额遗产，由土地管理官（Pentadbir Tanah）透过县土地局处理，并发出分配令（Perintah Pembahagian）。"
 
 lang: "zh"
-sourceContentHash: "569aa98893242689"
+sourceContentHash: "34023c075e010a0d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

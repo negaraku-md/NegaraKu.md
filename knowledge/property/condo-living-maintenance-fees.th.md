@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "ทุกคนที่เป็นเจ้าของ กำลังซื้อ หรือกำลังเช่าหน่วยในคอนโดมิเนียม อพาร์ตเมนต์ หรืออสังหาริมทรัพย์แบบแบ่งชั้น (strata-titled) อื่น ๆ ในมาเลเซียในคาบสมุทรมาเลเซียหรือเขตสหพันธ์ลาบวน"
 
 lang: "th"
-sourceContentHash: "cb88d8015d2b5a82"
+sourceContentHash: "02c5304754ea1783"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

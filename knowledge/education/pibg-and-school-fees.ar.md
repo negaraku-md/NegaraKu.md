@@ -29,7 +29,7 @@ faq:
     a: "لا. التعليم في المدارس الابتدائية والثانوية الحكومية لا يحمل رسوم تعليم. أما الرسوم الخاصة فقد أُلغيت منذ 2008 بموجب SPI رقم 13/2007."
 
 lang: "ar"
-sourceContentHash: "ae00ce2b2c55df71"
+sourceContentHash: "c71280cc876e703d"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

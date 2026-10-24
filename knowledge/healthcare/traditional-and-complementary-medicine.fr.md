@@ -26,7 +26,7 @@ faq:
     a: "Pour une première infraction, une amende n'excédant pas RM30,000 ou un emprisonnement n'excédant pas 2 ans, ou les deux. Les infractions ultérieures entraînent jusqu'à RM50,000 ou un emprisonnement pouvant aller jusqu'à 3 ans."
 
 lang: "fr"
-sourceContentHash: "86f8ad16efa02a93"
+sourceContentHash: "63b512945cff4dd9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

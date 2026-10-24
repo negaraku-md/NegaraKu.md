@@ -30,7 +30,7 @@ faq:
     a: "世界的な指数は、駐在員やモビリティ向けのバスケット——輸入品、駐在員向け住宅、インターナショナルスクールの学費など——を価格評価しており、しばしば費用を米ドルで表す。一方、マレーシア自身の消費者物価データは国内の家計バスケットを追跡しているため、両者の動きは異なる。"
 
 lang: "ja"
-sourceContentHash: "a05c3ce9b85bce7e"
+sourceContentHash: "42aa8cddf2f66fe6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

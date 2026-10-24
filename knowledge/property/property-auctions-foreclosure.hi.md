@@ -30,7 +30,7 @@ faq:
     a: "यह बिक्री उद्घोषणा पर निर्भर करता है। खरीदार आमतौर पर बकाया quit rent, निर्धारण कर (cukai pintu), रखरखाव शुल्क और उपयोगिताएँ विरासत में पाते हैं, जब तक POS यह न कहे कि बैंक उन्हें प्राप्त राशि से निपटाएगा। बोली लगाने से पहले हमेशा POS पढ़ें।"
 
 lang: "hi"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

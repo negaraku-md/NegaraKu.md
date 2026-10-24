@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Orang tua dan pelajar di Malaysia yang sedang memutuskan antara sekolah kebangsaan, sekolah swasta berkurikulum kebangsaan, dan sekolah menengah swasta Tionghoa, dan siapa pun yang berupaya memahami apa sebenarnya yang dimaksud dengan SMJK, sekolah swasta, atau sertifikat UEC."
 
 lang: "id"
-sourceContentHash: "ea334d9ab0b14453"
+sourceContentHash: "6e235692a71d508a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

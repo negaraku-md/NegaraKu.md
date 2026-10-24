@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Toute personne qui cherche à comprendre comment est structuré le budget d'un ménage malaisien type, ou à comparer sa propre dépense au schéma national."
 
 lang: "fr"
-sourceContentHash: "4c5994da7bcbecd8"
+sourceContentHash: "cd6140755840f27a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

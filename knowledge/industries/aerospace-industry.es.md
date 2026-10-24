@@ -34,7 +34,7 @@ faq:
     a: "Ambas cosas, pero su centro de gravedad son los servicios. El MRO y la fabricación de componentes dominan; Malasia construye estructuras, materiales compuestos y piezas de motor y mantiene aviones, pero tiene una capacidad más débil de diseño y desarrollo a nivel de aeronave."
 
 lang: "es"
-sourceContentHash: "5b97e205090548e0"
+sourceContentHash: "83587e970bd1abf9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

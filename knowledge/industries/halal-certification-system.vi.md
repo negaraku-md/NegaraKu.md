@@ -36,7 +36,7 @@ faq:
     a: "Sổ tay Quy trình quy định cơ quan có thẩm quyền phải làm việc trực tiếp với công ty hoặc người nộp đơn mà không thông qua bên thứ ba hay trung gian như tư vấn viên. Tư vấn viên có thể hỗ trợ chuẩn bị hồ sơ, nhưng đơn xin và liên lạc chính thức vẫn giữa người nộp đơn với JAKIM/MAIN/JAIN."
 
 lang: "vi"
-sourceContentHash: "7bb5b6fb5326f994"
+sourceContentHash: "7e400c117bf0341f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

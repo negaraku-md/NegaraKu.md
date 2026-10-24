@@ -29,7 +29,7 @@ faq:
     a: "नहीं। सरकार के अनुसार, क़ानूनी प्रतिबंधों के कारण PADU के आँकड़ा संग्रह में बैंकिंग सूचना प्रणालियाँ शामिल नहीं हैं।"
 
 lang: "hi"
-sourceContentHash: "47282ce02fd5a43d"
+sourceContentHash: "e8105c96d9e01007"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

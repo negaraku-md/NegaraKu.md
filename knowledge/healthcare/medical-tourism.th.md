@@ -32,7 +32,7 @@ faq:
     a: "กระทรวงสาธารณสุขออกใบอนุญาตสถานพยาบาลเอกชนและสภาการแพทย์มาเลเซียขึ้นทะเบียนและลงโทษทางวินัยแพทย์ โรงพยาบาลหลายแห่งยังถือการรับรองโดยสมัครใจจาก Malaysian Society for Quality in Health (MSQH) หรือ Joint Commission International (JCI) MHTC อยู่นอกสายการกำกับดูแลนั้น"
 
 lang: "th"
-sourceContentHash: "f3db9e92168dd3e0"
+sourceContentHash: "e1a643f3053ee673"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

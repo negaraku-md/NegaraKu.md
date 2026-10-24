@@ -25,7 +25,7 @@ appliesTo: "学生、研究者、ジャーナリスト、そして連邦憲法�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 
 status: "published"
 aiAssisted: true

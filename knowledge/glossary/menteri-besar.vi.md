@@ -28,7 +28,7 @@ verificationNeeded:
   - "Danh hiệu người Đứng đầu Bang của mỗi bang có Quân vương (Sultan, Yang di-Pertuan Besar, Raja) được lấy từ cổng MyGovernment và định nghĩa 'Raja' trong Điều 160(2). Hãy xác minh đối chiếu với hiến pháp của từng bang về cách dùng chính thức."
 
 lang: "vi"
-sourceContentHash: "56751778ff042f02"
+sourceContentHash: "9fbc657f47f5ec76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

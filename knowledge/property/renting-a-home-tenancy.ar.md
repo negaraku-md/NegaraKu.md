@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "كل من يستأجر أو يؤجّر عقارًا سكنيًا في ماليزيا — المستأجرون الذين يوقّعون أول اتفاقية إيجار لهم، والمُلّاك الذين يصوغونها، في شبه جزيرة ماليزيا أو صباح أو ساراواك."
 
 lang: "ar"
-sourceContentHash: "d779e96ef436f16d"
+sourceContentHash: "846d66a2a34a7e98"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

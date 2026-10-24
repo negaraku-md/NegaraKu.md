@@ -27,7 +27,7 @@ faq:
     a: "El precio subsidiado del RON95 se mantiene en RM1.99 por litro para los ciudadanos elegibles en el marco de BUDI95, pero el precio general de mercado no subsidiado fluctúa en línea con el APM."
 
 lang: "es"
-sourceContentHash: "77fbc98bce7fd506"
+sourceContentHash: "31beae2d3f6af51b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

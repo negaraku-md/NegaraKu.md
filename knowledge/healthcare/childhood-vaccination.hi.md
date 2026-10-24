@@ -26,7 +26,7 @@ verificationNeeded:
   - "अतिरिक्त/वैकल्पिक टीकों (उदाहरण के लिए, शुल्क के बदले प्रदान किए जाने वाले गैर-अनिवार्य टीके) के विवरण की लेखन के समय KKM के आधिकारिक स्रोतों के विरुद्ध पुष्टि नहीं की जा सकी, और इसलिए इस लेख में उन्हें विशेष रूप से नहीं बताया गया है।"
 
 lang: "hi"
-sourceContentHash: "e3c51524a621f167"
+sourceContentHash: "82fc03d17115b374"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

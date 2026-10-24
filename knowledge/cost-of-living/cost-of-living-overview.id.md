@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Siapa pun yang membuat anggaran untuk hidup di Malaysia, membandingkan tawaran gaji dengan biaya hidup nyata, atau mencari data DOSM primer di balik suatu klaim biaya hidup."
 
 lang: "id"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

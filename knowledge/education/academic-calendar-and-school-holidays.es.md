@@ -29,7 +29,7 @@ faq:
     a: "El calendario oficial se emite mediante circulares del MOE y el portal moe.gov.my cada año antes de que comience la sesión. Consulte las fuentes oficiales para las fechas exactas, ya que cambian cada año."
 
 lang: "es"
-sourceContentHash: "57e2351ff40e3792"
+sourceContentHash: "d8dc796d9fea25f6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -22,7 +22,7 @@ appliesTo: "Con cái trưởng thành và người thân tại Malaysia đang c�
 verificationNeeded:
   - "Bài viết này không nêu phí nhà dưỡng lão tư nhân, sức chứa giường, hay độ dài danh sách chờ của Rumah Seri Kenangan, vì những con số này thay đổi thường xuyên và không được xác nhận tại một nguồn chính thức tại thời điểm soạn thảo — hãy xác nhận phí và tình trạng còn chỗ hiện tại trực tiếp với đơn vị điều hành hoặc Văn phòng Phúc lợi Xã hội cấp huyện (Jabatan Kebajikan Masyarakat Daerah)."
 lang: "vi"
-sourceContentHash: "7ae419cbd6a2d437"
+sourceContentHash: "f10aac9439fe1e51"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

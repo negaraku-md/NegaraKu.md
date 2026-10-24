@@ -26,7 +26,7 @@ verificationNeeded:
   - "Số lượng chính xác các lĩnh vực chuyên khoa nha khoa tại bệnh viện KKM và chi tiết phạm vi của phòng khám nha khoa chuyên khoa không thể được xác nhận trực tiếp vì trang chính thức hq.moh.gov.my/ohp không thể truy cập (connection refused) tại thời điểm viết; các mô tả trong bài viết này giữ ở mức chung và không nêu con số cụ thể."
   - "Chính sách miễn phí cho người cao tuổi, trẻ em và các nhóm nhất định tại các phòng khám nha khoa chính phủ được đề cập rộng rãi trong các nguồn thứ cấp, nhưng không được xác nhận ở đây vì bài viết này cố ý không nêu phí — vui lòng tham khảo quầy đăng ký của phòng khám liên quan để có thông tin hiện hành."
 lang: "vi"
-sourceContentHash: "4e874b9f524ab414"
+sourceContentHash: "eeddef6e54a39b44"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

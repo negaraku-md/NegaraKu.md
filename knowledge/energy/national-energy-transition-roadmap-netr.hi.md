@@ -38,7 +38,7 @@ faq:
     a: "Energy Exchange Malaysia (ENEGEM), जिसे 15 अप्रैल 2024 को ऊर्जा संक्रमण एवं जल रूपांतरण मंत्रालय द्वारा शुरू किया गया, पड़ोसी आसियान देशों को नवीकरणीय बिजली बेचने के लिए मलेशिया का पहला सीमा-पार मंच है। इसकी पायलट नीलामी ने सिंगापुर को 100 MW नवीकरणीय ऊर्जा की पेशकश की।"
 
 lang: "hi"
-sourceContentHash: "d6cf99b70fef6280"
+sourceContentHash: "68201345c562dfbd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

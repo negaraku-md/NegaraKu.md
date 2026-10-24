@@ -30,7 +30,7 @@ faq:
     a: "ขึ้นอยู่กับประกาศขาย ผู้ซื้อมักรับภาษีที่ดิน ภาษีประเมิน (cukai pintu) ค่าส่วนกลาง และค่าสาธารณูปโภคที่ค้างชำระ เว้นแต่ประกาศขายจะระบุว่าธนาคารจะชำระจากเงินที่ได้ อ่านประกาศขายก่อนเข้าประมูลเสมอ"
 
 lang: "th"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

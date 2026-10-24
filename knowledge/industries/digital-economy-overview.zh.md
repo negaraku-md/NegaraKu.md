@@ -37,7 +37,7 @@ faq:
     a: "DE Rantau 是一项马来西亚数字催化性计划，旨在将马来西亚打造为东盟（ASEAN）的数字游民（digital nomad）枢纽。它签发马来西亚数字游民准证（Malaysia Digital Nomad Pass），有效期最长12个月且可续签。"
 
 lang: "zh"
-sourceContentHash: "bfede7bb53cd6174"
+sourceContentHash: "8060843a4455d16b"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

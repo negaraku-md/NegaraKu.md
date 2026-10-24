@@ -30,7 +30,7 @@ faq:
     a: "Indeks global menetapkan harga bagi bakul ekspatriat atau mobiliti — barangan import, perumahan ekspatriat, persekolahan antarabangsa — dan sering menyatakan kos dalam dolar AS. Data harga pengguna Malaysia sendiri pula menjejaki bakul isi rumah domestik, jadi kedua-dua ukuran itu bergerak secara berbeza."
 
 lang: "ms"
-sourceContentHash: "a05c3ce9b85bce7e"
+sourceContentHash: "42aa8cddf2f66fe6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

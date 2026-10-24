@@ -30,7 +30,7 @@ faq:
     a: "3機関の小規模農家を統合する提案は（例えば2009年に首相、2023年にFGVによって）提起されてきたが、参照した情報源の時点では、全面的な合併は実施されていない。"
 
 lang: "ja"
-sourceContentHash: "a5eeffb434131b29"
+sourceContentHash: "3a519c8adad9a4c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

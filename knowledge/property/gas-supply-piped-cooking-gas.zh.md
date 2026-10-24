@@ -31,7 +31,7 @@ faq:
     a: "LPG 补贴的目标对象是家庭用途，而非商业用途。规模较大的商家须使用不受补贴、价格较高的商用煤气瓶（紫色瓶）。KPDN 表示，微型和小型商家在一定限额内仍可使用受补贴的 LPG。"
 
 lang: "zh"
-sourceContentHash: "7fc238e7f93ed817"
+sourceContentHash: "b11646a6057ac6f5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -38,7 +38,7 @@ faq:
     a: "En 2024, PETRONAS aportó RM72.4 mil millones en dividendos, impuestos, pagos en efectivo y otros compromisos, incluido un dividendo de RM32.0 mil millones. Esto se suma a los impuestos pagados por otros contratistas y empresas de servicios del sector."
 
 lang: "es"
-sourceContentHash: "7404112e163ed546"
+sourceContentHash: "6af871c9f37f1bbf"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "Los beneficiarios de la Sumbangan Tunai Rahmah (STR) de 40 años en adelante tienen derecho a un cribado gratuito bajo PeKa B40 en clínicas públicas o privadas registradas. Las Clínicas de Salud públicas también ofrecen chequeos básicos."
 
 lang: "es"
-sourceContentHash: "bbc5ab5d7d67181c"
+sourceContentHash: "19ab4b4f804b4515"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

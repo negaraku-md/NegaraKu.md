@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pemilik rumah, penyewa, badan pengelola strata dan pedagang di Semenanjung Malaysia yang ingin memahami siapa sebenarnya IWK, apa yang mereka bayar, dan mengapa ia terpisah dari tagihan air."
 
 lang: "id"
-sourceContentHash: "b457bd9b79e09115"
+sourceContentHash: "86c5f583e8e5025c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

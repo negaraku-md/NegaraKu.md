@@ -29,7 +29,7 @@ faq:
     a: "โดยทั่วไปไม่ได้ ทุนเต็มจำนวนเช่น JPA และ MARA มักกำหนดให้นักเรียนสละ PTPTN สำหรับระดับการศึกษาเดียวกัน ตรวจสอบเงื่อนไขข้อตกลงของผู้อุปถัมภ์แต่ละราย"
 
 lang: "th"
-sourceContentHash: "8c6acea4f3592816"
+sourceContentHash: "df0ebd67e147cbc0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "Yes. Expenses that enhance or preserve the value of the property, such as renovation and improvement costs, can be deducted provided they are supported by valid receipts and documents."
 
 lang: "en"
-sourceContentHash: "86d17a7e3d5558a5"
+sourceContentHash: "d30bca1500940866"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

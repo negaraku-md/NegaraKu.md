@@ -31,7 +31,7 @@ faq:
     a: "Assistive/Prosthetic Device Aid (BAT) under JKM covers manual or electric wheelchairs, prosthetic legs and arms, hearing aids, white canes and braille machines, according to the fixed actual price of the device."
 
 lang: "en"
-sourceContentHash: "eb1c377cbf19305d"
+sourceContentHash: "f4c391c1dbfcea33"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

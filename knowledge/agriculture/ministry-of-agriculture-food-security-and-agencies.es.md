@@ -30,7 +30,7 @@ faq:
     a: "La Ley de Control del Arroz Paddy y el Arroz 1994 (Ley 522). El arroz es un producto controlado; el Director General de la Regulación del Arroz Paddy y el Arroz expide licencias y permisos para el molido, la venta mayorista, la venta minorista, la importación, la exportación y el traslado entre estados."
 
 lang: "es"
-sourceContentHash: "88877cb8976d9b28"
+sourceContentHash: "57032872a3092c06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

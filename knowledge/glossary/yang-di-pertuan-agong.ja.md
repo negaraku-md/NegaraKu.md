@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "学生、研究者、記者、そして国王の憲法上の地位及び統治者会議による選出の仕組みを、記述的に理解したいすべての人。"
 
 lang: "ja"
-sourceContentHash: "b3f6c2ddc1104e50"
+sourceContentHash: "aa9b406156a426e0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

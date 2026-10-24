@@ -28,7 +28,7 @@ verificationNeeded:
   - "The title of Head of State for each monarchical state (Sultan, Yang di-Pertuan Besar, Raja) is taken from the MyGovernment portal and the definition of 'Ruler' in Article 160(2). Verify against each state's own constitution for official usage."
 
 lang: "es"
-sourceContentHash: "56751778ff042f02"
+sourceContentHash: "9fbc657f47f5ec76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

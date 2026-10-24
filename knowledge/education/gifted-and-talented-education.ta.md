@@ -29,7 +29,7 @@ faq:
     a: "ASASIpintar என்பது நுண்ணறிவும் திறமையும் மிக்க மாணவர்களுக்கான UKM இன் பல்கலைக்கழக முன் அடிப்படைத் திட்டம் ஆகும்; Perdana, Komersial மற்றும் Antarabangsa என மூன்று பிரிவுகளில் வழங்கப்படுகிறது."
 
 lang: "ta"
-sourceContentHash: "35e2f3422be13be3"
+sourceContentHash: "e8dbefcac0cbb3a6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

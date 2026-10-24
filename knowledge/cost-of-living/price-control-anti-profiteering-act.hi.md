@@ -29,7 +29,7 @@ faq:
     a: "व्यक्तियों के लिए, पहले अपराध पर RM100,000 तक का जुर्माना और/या 3 वर्ष तक का कारावास, और बाद के अपराध पर RM250,000 तक और/या 5 वर्ष। निगमित निकायों के लिए, RM500,000 तक का जुर्माना, और बाद के अपराध पर RM1 मिलियन तक।"
 
 lang: "hi"
-sourceContentHash: "8699ed0e058e98c7"
+sourceContentHash: "2ee80db2ec6c8845"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

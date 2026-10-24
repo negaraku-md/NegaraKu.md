@@ -32,7 +32,7 @@ faq:
     a: "Bộ Y tế cấp phép cho các cơ sở y tế tư nhân và Hội đồng Y khoa Malaysia (Malaysian Medical Council) đăng ký và kỷ luật bác sĩ. Nhiều bệnh viện cũng có công nhận tự nguyện từ Hiệp hội Malaysia về Chất lượng trong Y tế (Malaysian Society for Quality in Health, MSQH) hoặc Joint Commission International (JCI). MHTC nằm ngoài chuỗi quản lý đó."
 
 lang: "vi"
-sourceContentHash: "f3db9e92168dd3e0"
+sourceContentHash: "e1a643f3053ee673"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

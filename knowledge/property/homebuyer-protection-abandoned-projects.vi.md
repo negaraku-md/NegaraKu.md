@@ -33,7 +33,7 @@ faq:
     a: "Phán quyết của Tòa Tài phán là chung thẩm và ràng buộc, và có thể được thực thi như một lệnh của tòa án. Việc không tuân thủ phán quyết là một hành vi phạm tội có thể bị phạt từ RM10,000 đến RM50,000 hoặc phạt tù đến hai năm, hoặc cả hai."
 
 lang: "vi"
-sourceContentHash: "f08885d66ba27130"
+sourceContentHash: "df503ce18f77fc3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

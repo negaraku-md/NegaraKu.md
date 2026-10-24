@@ -41,7 +41,7 @@ verificationNeeded:
   - "ตรวจสอบว่า Companies (Amendment) Act 2024 (Act A1701) เปลี่ยนแปลงอะไรในมาตรา 68 ซึ่งอยู่ในขอบเขตของการแก้ไข และการเปลี่ยนแปลงใดมีผลบังคับใช้แล้วหรือไม่"
 
 lang: "th"
-sourceContentHash: "333c372fcdca64b9"
+sourceContentHash: "6b555ea5ac7d9563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

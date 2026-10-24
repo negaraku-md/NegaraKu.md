@@ -29,7 +29,7 @@ faq:
     a: "申请PETRONAS执照的公司须按相关的SWEC代码满足土著参与要求。就PETRONAS供应商发展计划而言，土著持股须至少达到51%（来源：Low & Partners；PETRONAS）。"
 
 lang: "zh"
-sourceContentHash: "8653f4f58e0534c5"
+sourceContentHash: "827cfd2ac62b2b23"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

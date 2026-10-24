@@ -29,7 +29,7 @@ faq:
     a: "其中包括从事高风险活动者、怀孕／经期／哺乳期的女性献血者、曾于1980至1996年间在英国累计居住6个月或以上者，或曾于1980年至今在欧洲国家累计居住5年或以上者——后两者均因vCJD（变异型克雅氏病）风险。"
 
 lang: "zh"
-sourceContentHash: "241fb7f03a5cd3d3"
+sourceContentHash: "5468a77cc086e2e7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

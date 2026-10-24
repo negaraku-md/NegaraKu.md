@@ -29,7 +29,7 @@ faq:
     a: "主要な管轄権は州宗教局または州イスラム宗教理事会（Majlis Agama Islam Negeri、MAIN）にある。これは、憲法のもとでイスラム宗教事務が州の権限事項であるためである。JAKIMは連邦レベルで調整を行い、建物の安全要件には地方自治体と消防局（Bomba）が関わる。"
 
 lang: "ja"
-sourceContentHash: "e8c71a5517740e23"
+sourceContentHash: "b8ecf4cacb65882a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

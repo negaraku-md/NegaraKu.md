@@ -30,7 +30,7 @@ faq:
     a: "Konsesi saat ini berlaku untuk periode 2021 hingga 2031. Pada Juli 2026 pemerintah mengonfirmasi bahwa ia akan meninjau peran BERNAS sebagai importir tunggal sebelum konsesi itu berakhir."
 
 lang: "id"
-sourceContentHash: "887cca88638d8c9f"
+sourceContentHash: "9cc09e4898ad7771"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

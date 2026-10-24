@@ -29,7 +29,7 @@ faq:
     a: "قرّرت المذاكرة الخاصة في 3 ديسمبر 2020 أن استخدام لقاحات كوفيد-19 مباح وواجب على الفئات التي تحدّدها الحكومة، بشرط أن تكون اللقاحات المستخدمة حلالًا وطيّبة (tayyiban)."
 
 lang: "ar"
-sourceContentHash: "a63cd25d7840519b"
+sourceContentHash: "27955639bf723dbf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

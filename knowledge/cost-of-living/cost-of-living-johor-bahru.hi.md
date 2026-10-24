@@ -27,7 +27,7 @@ verificationNeeded:
   - "जोहोर बहरू के लिए विशिष्ट कोई आधिकारिक किराया सूचकांक नहीं मिल सका; सिंगापुर-जुड़ी माँग से उपजे किराया दबाव के बारे में कथन गुणात्मक हैं, किसी प्रकाशित आँकड़े से समर्थित नहीं।"
 
 lang: "hi"
-sourceContentHash: "8dc6ca7c0ae8183c"
+sourceContentHash: "b3fe7bab59216408"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -37,7 +37,7 @@ faq:
     a: "L'Office malaisien de l'huile de palme (MPOB), un organisme statutaire relevant du ministère des Plantations et des Matières premières, délivre les licences et supervise chaque étape, de la plantation à l'exportation, et dirige la recherche et le développement de l'industrie."
 
 lang: "fr"
-sourceContentHash: "6df254d9cadb68a3"
+sourceContentHash: "e7701d74a9145bd8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que esté presupuestando para Malasia, comparando ofertas salariales con el costo real de vida, o buscando los datos primarios de DOSM que respaldan una afirmación sobre el costo de vida."
 
 lang: "es"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

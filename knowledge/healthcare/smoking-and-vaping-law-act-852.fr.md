@@ -30,7 +30,7 @@ faq:
     a: "Non. L'Act 852 interdit la vente de tous les produits du tabac et de vapotage via les plateformes en ligne et les distributeurs automatiques."
 
 lang: "fr"
-sourceContentHash: "41eadbd4f391ff30"
+sourceContentHash: "47453ebb80993a06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

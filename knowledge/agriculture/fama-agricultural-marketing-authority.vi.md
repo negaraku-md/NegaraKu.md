@@ -31,7 +31,7 @@ faq:
     a: "Nhà sản xuất có thể tiếp thị trực tiếp cho người tiêu dùng qua các kênh của FAMA như Pasar Tani Kekal, Agrobazaar, My Farm Outlet và Gerai Buah-buahan Segar, hoặc tham gia các chương trình như Ladang Kontrak và RANTAI. Chi tiết tham gia được xác nhận tại fama.gov.my."
 
 lang: "vi"
-sourceContentHash: "f18be1d4180f5dbb"
+sourceContentHash: "63ddd6b5ce85bb78"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

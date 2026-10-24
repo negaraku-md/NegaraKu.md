@@ -32,7 +32,7 @@ faq:
     a: "Jabatan Wilayah Persekutuan (JWP) di bawah Jabatan Perdana Menteri mengoordinasikan kebijakan dan pembangunan ketiga wilayah di tingkat federal, sedangkan DBKL, Perbadanan Putrajaya dan Perbadanan Labuan adalah otoritas lokal yang menjalankan urusan harian seperti perizinan, perencanaan kota dan layanan munisipal di wilayah masing-masing."
 
 lang: "id"
-sourceContentHash: "5739f9cd1afe168b"
+sourceContentHash: "ef54e164ff586fe9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -153,3 +153,5 @@ Fungsi ini pernah dipegang oleh sebuah kementerian penuh — Kementerian Wilayah
 ## Apa selanjutnya
 
 Untuk memahami mengapa "segala perkara berhubung dengan Wilayah Persekutuan" jatuh kepada Persekutuan dan bukan negeri, baca [pembagian kuasa Persekutuan–Negeri](/id/government/federal-state-division). Untuk melihat institusi yang tidak ada di wilayah ini, lihat [Dewan Undangan Negeri (DUN)](/id/government/state-assemblies-dun). Untuk dewan yang mewakili penduduk wilayah di Parlimen, lihat [Dewan Rakyat](/id/government/dewan-rakyat) dan [Dewan Negara](/id/government/dewan-negara). Dan untuk gambaran besar susun lapis pemerintahan Malaysia, lihat [tiga lapis pemerintahan](/id/government/three-tiers-of-government).
+
+Ingin tahu bagaimana Malaysia diperintah? Lihat [tiga tingkat pemerintahan Malaysia](/id/government/three-tiers-of-government/).

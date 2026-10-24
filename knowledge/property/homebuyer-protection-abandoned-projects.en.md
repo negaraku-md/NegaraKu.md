@@ -33,7 +33,7 @@ faq:
     a: "A Tribunal award is final and binding and can be enforced like a court order. Failure to comply with an award is an offence punishable by a fine of RM10,000 to RM50,000 or imprisonment of up to two years, or both."
 
 lang: "en"
-sourceContentHash: "f08885d66ba27130"
+sourceContentHash: "df503ce18f77fc3f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

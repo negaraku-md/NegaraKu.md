@@ -29,7 +29,7 @@ faq:
     a: "申请通过教育部门户网站在线进行，学生通过特定学校入学评估（PKSK）筛选，同时考量学业成绩与课外活动表现。"
 
 lang: "zh"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

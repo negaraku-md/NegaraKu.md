@@ -59,7 +59,7 @@ obligations:
     statute: "Companies Act 2016, s.259(1)(a)"
     consequence: "회사와 모든 위반 임원의 범죄, 그리고 개정된 SSM 실무지침 1/2017호(Practice Directive 1/2017)에 따른 지연 제출 벌칙"
 lang: "ko"
-sourceContentHash: "49a0af6107cdceff"
+sourceContentHash: "6e5f6b1849ebcf3f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

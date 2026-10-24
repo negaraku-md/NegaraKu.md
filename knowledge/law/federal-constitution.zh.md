@@ -22,7 +22,7 @@ appliesTo: "任何寻求对马来西亚宪法框架作结构性、描述性理�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3635bd9fdb569d2e"
+sourceContentHash: "cceecfcd59d19112"
 
 status: "published"
 aiAssisted: true

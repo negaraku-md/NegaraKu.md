@@ -28,7 +28,7 @@ faq:
     a: "The rental fee under the official scale is 1.25 to 1.75 months of gross rent (with a minimum fee of 1 month's rent) depending on the tenancy period; who bears it is a matter of agreement between the parties."
 
 lang: "en"
-sourceContentHash: "d09e304bd5589019"
+sourceContentHash: "9b3350b7ffce400c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

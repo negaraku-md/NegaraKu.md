@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Cualquiera que se traslade a Sabah o Sarawak o elabore un presupuesto para ello, que compare los precios de Malasia Oriental con los de Malasia Peninsular, o que investigue por qué un mismo producto puede llevar una etiqueta de precio distinta a cada lado del mar de China Meridional."
 
 lang: "es"
-sourceContentHash: "327dd8ebe6d5d915"
+sourceContentHash: "8986bf13945d0128"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

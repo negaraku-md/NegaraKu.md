@@ -34,7 +34,7 @@ faq:
     a: "Trung Quốc là điểm đến lớn nhất cho tới nay, mua khoảng 49% xuất khẩu cao su tự nhiên vào tháng 12 năm 2024, tiếp theo là Đức (12.9%), Các Tiểu vương quốc Ả Rập Thống nhất (7.3%), Hoa Kỳ và Bồ Đào Nha."
 
 lang: "vi"
-sourceContentHash: "8dca8d58fbcc1a41"
+sourceContentHash: "26170231d376fbab"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

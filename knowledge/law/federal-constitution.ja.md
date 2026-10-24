@@ -22,7 +22,7 @@ appliesTo: "マレーシアの憲法枠組みについて、構造的かつ記�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3635bd9fdb569d2e"
+sourceContentHash: "cceecfcd59d19112"
 
 status: "published"
 aiAssisted: true

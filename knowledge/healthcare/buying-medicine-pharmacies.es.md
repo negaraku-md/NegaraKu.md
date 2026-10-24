@@ -19,7 +19,7 @@ keyTakeaways:
   - "Las sustancias psicotrópicas bajo la Jadual Ketiga (Tercer Anexo) de la Akta Racun 1952 están sujetas a regulaciones separadas, con penas de hasta RM100,000 o cinco años de prisión por infracciones no autorizadas (Seksyen 30)"
 appliesTo: "Cualquier persona que compre medicamentos en una farmacia pública o privada en Malasia y que quiera entender por qué algunos medicamentos requieren receta mientras que otros no, y el papel del farmacéutico registrado en ese proceso."
 lang: "es"
-sourceContentHash: "4ae828e3e8725114"
+sourceContentHash: "d1d06d1d72ea0e4b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

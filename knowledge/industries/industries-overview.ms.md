@@ -34,7 +34,7 @@ faq:
     a: "Pada 2024, perkhidmatan menarik RM252.7 bilion pelaburan diluluskan (66.8% daripada jumlah keseluruhan) dan pembuatan RM120.5 bilion (31.8%), daripada rekod RM378.5 bilion secara keseluruhan (MIDA)."
 
 lang: "ms"
-sourceContentHash: "fd46cc26349bd735"
+sourceContentHash: "f17027d368c200a7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -38,7 +38,7 @@ revisions:
 sensitivity: "royalty"
 
 updated: 2026-07-24
-sourceContentHash: "b3f6c2ddc1104e50"
+sourceContentHash: "aa9b406156a426e0"
 sources:
   - title: "Federal Constitution (Reprint as at 15 October 2020)"
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/Federal%20Constitution%20(Reprint%202020).pdf"

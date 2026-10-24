@@ -32,7 +32,7 @@ faq:
     a: "Penerima Sumbangan Tunai Rahmah (STR) berusia 40 tahun ke atas layak mendapat skrining gratis di bawah PeKa B40 di klinik pemerintah atau swasta yang terdaftar. Klinik Kesihatan publik juga menawarkan pemeriksaan dasar."
 
 lang: "id"
-sourceContentHash: "bbc5ab5d7d67181c"
+sourceContentHash: "19ab4b4f804b4515"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

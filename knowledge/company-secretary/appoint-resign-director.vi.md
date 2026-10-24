@@ -64,7 +64,7 @@ obligations:
     consequence: "Cơ quan Đăng ký có thể chỉ đạo xóa tên công ty theo Subdivision 1 của Division 4 của Part IV"
 
 lang: "vi"
-sourceContentHash: "55df0bf1e950a993"
+sourceContentHash: "8c3ccf6915ba1ce3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

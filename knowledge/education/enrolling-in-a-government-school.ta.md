@@ -34,7 +34,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 updated: 2026-07-24
-sourceContentHash: "0c89415b8941ca0c"
+sourceContentHash: "10e50c8f9bbc2e3a"
 sources:
   - title: "பதிவு (ஆண்டு 1 மாணவர் பதிவு) (Pendaftaran (Pendaftaran Murid Tahun 1))"
     url: "https://www.moe.gov.my/pendaftaran-sr"

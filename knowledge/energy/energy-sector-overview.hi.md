@@ -34,7 +34,7 @@ faq:
     a: "PETRA (Ministry of Energy Transition and Water Transformation) वह मंत्रालय है जो राष्ट्रीय ऊर्जा और जल नीति तैयार करता है और 2050 तक शुद्ध-शून्य उत्सर्जन की ओर संक्रमण को चलाता है। ऊर्जा आयोग PETRA के अधीन वह वैधानिक नियामक निकाय है जो बिजली और गैस आपूर्ति को नियंत्रित करने वाले कानूनों को लाइसेंस देता है, टैरिफ निर्धारित करता है और प्रवर्तित करता है।"
 
 lang: "hi"
-sourceContentHash: "fc167e2fbc6949c3"
+sourceContentHash: "13e97e8a9ffe1cf9"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

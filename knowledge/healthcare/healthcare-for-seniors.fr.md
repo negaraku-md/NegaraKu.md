@@ -22,7 +22,7 @@ appliesTo: "Enfants adultes et proches en Malaisie pesant les options de prise e
 verificationNeeded:
   - "This article does not state private nursing home fees, bed capacity, or waiting-list length for Rumah Seri Kenangan, since these change often and were not confirmed at an official source at time of writing — confirm current fees and availability directly with the operator or the district Social Welfare Office (Jabatan Kebajikan Masyarakat Daerah)."
 lang: "fr"
-sourceContentHash: "7ae419cbd6a2d437"
+sourceContentHash: "f10aac9439fe1e51"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

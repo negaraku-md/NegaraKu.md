@@ -39,7 +39,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "ce348e711538fac4"
+sourceContentHash: "6f2cb5c42d2667a5"
 
 status: "published"
 aiAssisted: true

@@ -30,7 +30,7 @@ faq:
     a: "《1994 年稻米与白米管制法令》（第 522 号法令）。白米属于受管制商品；稻米与白米管制总监就碾米、批发、零售、进口、出口及跨州转运发出准证和执照。"
 
 lang: "zh"
-sourceContentHash: "88877cb8976d9b28"
+sourceContentHash: "57032872a3092c06"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

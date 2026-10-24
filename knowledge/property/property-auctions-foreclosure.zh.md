@@ -30,7 +30,7 @@ faq:
     a: "这取决于《拍卖公告》。买方通常会承接未缴的地税（quit rent）、门牌税（cukai pintu）、管理费及水电费，除非POS注明银行将从售卖所得中结清这些款项。竞标前务必阅读POS。"
 
 lang: "zh"
-sourceContentHash: "2fa3e76f153f5816"
+sourceContentHash: "9489f72f071b86d7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

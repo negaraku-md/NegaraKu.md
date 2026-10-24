@@ -28,7 +28,7 @@ faq:
     a: "CCC 确认房屋已按核准图纸建成并可安全入住。没有 CCC，建筑物在正式意义上不适合入住，公用设施供应也可能受影响。"
 
 lang: "zh"
-sourceContentHash: "47b5179ed98be754"
+sourceContentHash: "a8a8202635252bef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

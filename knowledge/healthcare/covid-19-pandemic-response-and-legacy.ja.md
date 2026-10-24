@@ -32,7 +32,7 @@ faq:
     a: "これは2023年6月15日に国会で可決された政策文書であり、マレーシアの保健医療制度について15年間にわたる段階的な改革の方針を示している。"
 
 lang: "ja"
-sourceContentHash: "635c9f97868b06be"
+sourceContentHash: "6b5ead408a9cf117"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

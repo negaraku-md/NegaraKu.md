@@ -29,7 +29,7 @@ faq:
     a: "تُقدَّم الطلبات إلكترونيًا عبر بوابة وزارة التعليم، ويُفحَص الطلاب عبر تقييم القبول في المدارس الخاصة (PKSK)، إلى جانب التحصيل الأكاديمي والأنشطة اللامنهجية."
 
 lang: "ar"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

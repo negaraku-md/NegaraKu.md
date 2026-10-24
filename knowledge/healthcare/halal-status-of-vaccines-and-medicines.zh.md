@@ -29,7 +29,7 @@ faq:
     a: "2020 年 12 月 3 日的特别咨询会议裁定，COVID-19 疫苗的使用属许可，且政府指定群体有义务接种，条件是所用疫苗为清真且佳美（tayyiban）。"
 
 lang: "zh"
-sourceContentHash: "a63cd25d7840519b"
+sourceContentHash: "27955639bf723dbf"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

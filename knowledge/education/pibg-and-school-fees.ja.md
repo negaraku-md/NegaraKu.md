@@ -49,7 +49,7 @@ revisions:
     reviewer: null
 
 updated: 2026-08-08
-sourceContentHash: "ae00ce2b2c55df71"
+sourceContentHash: "c71280cc876e703d"
 sources:
   - title: "専門通達第4/2004号：保護者・教員協会（PIBG）規約 (Surat Pekeliling Ikhtisas Bil. 4/2004: Perlembagaan Persatuan Ibu Bapa-Guru (PIBG))"
     url: "https://jpwpkl.moe.gov.my/muat-turun/sektor-pengurusan-sekolah/surat-pekeliling-iktisas-surat-pekeliling/556-surat-pekeliling-ikhtisas-bil-4-2004-perlembagaan-persatuan-ibu-bapa-guru/file"

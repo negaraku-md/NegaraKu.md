@@ -24,7 +24,7 @@ appliesTo: "மலேசியாவில் வாடகை வீடு த�
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f6c07580a3e9b049"
+sourceContentHash: "668777ccfb0c0a99"
 
 status: "published"
 aiAssisted: true

@@ -23,7 +23,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai đang thuê, mua hoặc dọn vào một ngôi nhà ở Malaysia cần đấu nối internet cố định."
 
 lang: "vi"
-sourceContentHash: "651bab79a176221b"
+sourceContentHash: "19befa5847e8b8f0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

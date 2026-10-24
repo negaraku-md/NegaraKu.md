@@ -24,7 +24,7 @@ keyTakeaways:
 appliesTo: "Étudiants, chercheurs, journalistes et toute personne qui souhaite comprendre la charge constitutionnelle du Procureur général à partir du texte même de l'Article 145 de la Constitution fédérale."
 
 lang: "fr"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

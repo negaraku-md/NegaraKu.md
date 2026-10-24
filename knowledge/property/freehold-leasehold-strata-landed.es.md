@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Cualquier persona que compre, venda o evalúe propiedad en Malasia y que necesite entender a qué le comprometen realmente el tipo de tenencia y de título de un anuncio."
 
 lang: "es"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

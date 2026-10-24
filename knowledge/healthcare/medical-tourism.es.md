@@ -32,7 +32,7 @@ faq:
     a: "El Ministerio de Salud concede licencias a las instalaciones sanitarias privadas y el Malaysian Medical Council registra y sanciona a los médicos. Muchos hospitales también cuentan con la acreditación voluntaria de la Malaysian Society for Quality in Health (MSQH) o de la Joint Commission International (JCI). El MHTC queda fuera de esa cadena reguladora."
 
 lang: "es"
-sourceContentHash: "f3db9e92168dd3e0"
+sourceContentHash: "e1a643f3053ee673"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -20,7 +20,7 @@ keyTakeaways:
   - "El ingreso anticipado (menor de edad) y el aplazamiento del Año 1 existen como políticas oficiales distintas: las solicitudes se hacen a través del JPN, no del sistema idMe habitual, y el aplazamiento es un privilegio, no un derecho automático"
 appliesTo: "Padres, madres o tutores de ciudadanía malasia cuyo hijo está por ingresar al Año 1 de la escuela primaria pública o al Formulario 1 de la escuela secundaria pública."
 lang: "es"
-sourceContentHash: "0c89415b8941ca0c"
+sourceContentHash: "10e50c8f9bbc2e3a"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 status: "published"

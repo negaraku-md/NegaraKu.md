@@ -31,7 +31,7 @@ faq:
     a: "กรอบใหม่ของ Akta 861 และกฎประสิทธิภาพพลังงานและการอนุรักษ์พลังงาน ปี 2024 ขยายขอบเขตการกำกับดูแลจากไฟฟ้าเพียงอย่างเดียวไปยังพลังงานทุกรูปแบบ กรอบนี้เป็นที่เข้าใจว่าแทนที่ Efficient Management of Electrical Energy Regulations 2008 (EMEER) เก่า แต่รายละเอียดของการยกเลิกนั้นต้องได้รับการยืนยันเทียบกับข้อความกฎทางการ"
 
 lang: "th"
-sourceContentHash: "699d30a5f2841e54"
+sourceContentHash: "d65efeb2555b61d5"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

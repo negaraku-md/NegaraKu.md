@@ -27,7 +27,7 @@ status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
-sourceContentHash: "fb8c6f5861721815"
+sourceContentHash: "cd6088681198b24d"
 revision: 0
 revisions:
   - revision: 0

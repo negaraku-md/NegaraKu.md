@@ -29,7 +29,7 @@ faq:
     a: "لا. يقيس Belanjawanku الإنفاق اللازم لمستوى معيشي «معقول» أو مريح، وهو أعلى من خط الفقر الذي لا يعكس سوى الاحتياجات الأساسية للبقاء."
 
 lang: "ar"
-sourceContentHash: "178a5bff85bb62f4"
+sourceContentHash: "384e7d4c05e2a6eb"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

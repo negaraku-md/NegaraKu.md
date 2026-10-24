@@ -22,7 +22,7 @@ appliesTo: "雇用主の医療保障と個人の医療カードを比較検討�
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "7e22fc5e8613df5f"
+sourceContentHash: "f3d82432e2ef0103"
 
 status: "published"
 aiAssisted: true

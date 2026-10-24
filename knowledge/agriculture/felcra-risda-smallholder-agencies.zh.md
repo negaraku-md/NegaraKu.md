@@ -30,7 +30,7 @@ faq:
     a: "将这三家机构的小园主整合的建议曾被提出（例如时任首相在2009年、以及 FGV 在2023年提出），但据所引用的资料，尚未落实任何全面合并。"
 
 lang: "zh"
-sourceContentHash: "a5eeffb434131b29"
+sourceContentHash: "3a519c8adad9a4c1"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "El Informe del Auditor General presentado en el Parlamento en febrero de 2023 reveló que la información personal de 3 millones de receptores de vacunas había sido descargada a través de una cuenta «Super Admin» del sistema MyVAS entre el 28 y el 31 de octubre de 2021."
 
 lang: "es"
-sourceContentHash: "1889bed64a5f738d"
+sourceContentHash: "bd72fa179eba1629"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

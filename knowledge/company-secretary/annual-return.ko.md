@@ -38,7 +38,7 @@ verificationNeeded:
   - "체크리스트로 재현하기 전에 s.68(3)이 요구하는 명세의 정확한 목록을 법 조문과 대조하여 확인하십시오"
   - "2024년 회사(개정)법(Companies (Amendment) Act 2024, Act A1701)이 그 개정 범위에 속하는 s.68에서 무엇을 변경했는지, 그리고 그 변경이 이미 시행 중인지 확인하십시오"
 lang: "ko"
-sourceContentHash: "333c372fcdca64b9"
+sourceContentHash: "6b555ea5ac7d9563"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

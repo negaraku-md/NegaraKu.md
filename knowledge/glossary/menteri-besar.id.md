@@ -28,7 +28,7 @@ verificationNeeded:
   - "Gelar Ketua Negeri bagi setiap negeri beraja (Sultan, Yang di-Pertuan Besar, Raja) diambil dari portal MyGovernment dan definisi 'Raja' dalam Pasal 160(2). Verifikasi terhadap konstitusi negeri masing-masing untuk penggunaan resmi."
 
 lang: "id"
-sourceContentHash: "56751778ff042f02"
+sourceContentHash: "9fbc657f47f5ec76"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

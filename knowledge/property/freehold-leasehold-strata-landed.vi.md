@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Bất kỳ ai mua, bán hoặc đánh giá bất động sản tại Malaysia cần hiểu quyền sở hữu và loại quyền sở hữu của một tin đăng thực sự ràng buộc họ vào điều gì."
 
 lang: "vi"
-sourceContentHash: "35465664913b0ad9"
+sourceContentHash: "81ade88de6968b5f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

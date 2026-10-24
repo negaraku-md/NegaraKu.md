@@ -31,7 +31,7 @@ faq:
     a: "الحظر هو مدة يُمنَع خلالها بيع المنزل من جديد دون موافقة. يفرض Residensi Wilayah حظراً مدته 10 سنوات ويفرض Rumah Selangorku حظراً مدته 5 سنوات، منعاً للمضاربة وضماناً لبقاء المنازل متاحة للفئة المستهدفة."
 
 lang: "ar"
-sourceContentHash: "c2d113c9f6018d12"
+sourceContentHash: "1484e1d16671dc8b"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

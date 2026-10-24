@@ -34,7 +34,7 @@ faq:
     a: "HIV에 관한 별도의 법은 없습니다. 형법 제269조와 제270조 같은 일반 조항이 위험한 질병의 전파에 적용될 수 있으나, 지금까지 알려진 HIV 관련 기소는 없습니다."
 
 lang: "ko"
-sourceContentHash: "c335daac63ec7a97"
+sourceContentHash: "1cab11648c701e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -28,7 +28,7 @@ faq:
     a: "CCC รับรองว่าบ้านสร้างตามแบบที่อนุมัติและปลอดภัยที่จะเข้าอยู่อาศัย หากไม่มี CCC อาคารอย่างเป็นทางการจะไม่มีคุณสมบัติที่จะเข้าอยู่อาศัยและการจ่ายสาธารณูปโภคอาจได้รับผลกระทบ"
 
 lang: "th"
-sourceContentHash: "47b5179ed98be754"
+sourceContentHash: "a8a8202635252bef"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

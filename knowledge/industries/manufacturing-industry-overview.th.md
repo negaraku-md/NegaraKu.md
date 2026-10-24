@@ -34,7 +34,7 @@ faq:
     a: "กรมสถิติมาเลเซีย (DOSM) เผยแพร่สถิติการผลิตรายเดือนและรายปีและข้อมูล GDP สำนักงานพัฒนาการลงทุนมาเลเซีย (MIDA) ส่งเสริมและอนุมัติการลงทุนการผลิต ขณะที่กระทรวงการลงทุน การค้า และอุตสาหกรรม (MITI) เป็นเจ้าของ NIMP 2030"
 
 lang: "th"
-sourceContentHash: "688fcd61cdea1a88"
+sourceContentHash: "00a67f4ef7e6555a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -60,7 +60,7 @@ obligations:
     statute: "Companies Act 2016, s.209(5)"
     consequence: "등기관은 제IV편 제4장 제1세부(Subdivision 1 of Division 4 of Part IV)에 따라 회사의 말소를 지시할 수 있음"
 lang: "ko"
-sourceContentHash: "55df0bf1e950a993"
+sourceContentHash: "8c3ccf6915ba1ce3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

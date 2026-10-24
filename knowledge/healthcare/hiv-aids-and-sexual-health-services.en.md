@@ -34,7 +34,7 @@ faq:
     a: "There is no HIV-specific law. General Penal Code provisions such as Sections 269 and 270 may apply to the spread of dangerous diseases, but there have been no known HIV prosecutions to date."
 
 lang: "en"
-sourceContentHash: "c335daac63ec7a97"
+sourceContentHash: "1cab11648c701e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -32,7 +32,7 @@ faq:
     a: "It is a policy document passed by Parliament on 15 June 2023, outlining a phased 15-year reform of Malaysia's health system."
 
 lang: "en"
-sourceContentHash: "635c9f97868b06be"
+sourceContentHash: "6b5ead408a9cf117"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

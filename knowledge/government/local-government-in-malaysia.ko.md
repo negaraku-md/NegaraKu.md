@@ -30,7 +30,7 @@ faq:
   - q: "지방자치는 왜 연방이 아니라 주(state)의 사항입니까?"
     a: "연방헌법이 지방자치를 주 목록(제9부칙 제II목록의 제4항목)에 두기 때문입니다. 정책의 일관성을 유지하기 위하여, 제95A조는 연방정부와 주정부가 모두 따라야 하는 국가 정책을 수립하도록 국가지방정부위원회(National Council for Local Government)를 설치합니다."
 lang: "ko"
-sourceContentHash: "78de95ae401b9cbb"
+sourceContentHash: "8106a6c84bc7a419"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

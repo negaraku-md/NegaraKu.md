@@ -26,7 +26,7 @@ verificationNeeded:
   - "Mức phí bảo hiểm và trần bảo hiểm hằng năm chính xác của SPIKPA không được xác nhận tại một nguồn chính thức gốc (chỉ tìm thấy các nguồn thứ cấp học thuật và của môi giới bảo hiểm); bài viết này mô tả chức năng của chương trình — bảo hiểm bắt buộc gắn với việc gia hạn giấy phép lao động, được xác nhận trên trang của chính Cục Di trú — mà không nêu mức phí hoặc số tiền bảo hiểm chưa được xác minh."
 
 lang: "vi"
-sourceContentHash: "7dd45f5bebbd1f93"
+sourceContentHash: "f35156bb0be8d93f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

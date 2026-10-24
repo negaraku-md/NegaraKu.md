@@ -32,7 +32,7 @@ faq:
     a: "Tidak. Bendungan Baram, yang diperkirakan menenggelamkan 412 km persegi dan memindahkan ~20,000 orang, ditangguhkan melalui moratorium pada 2015 dan dibatalkan secara resmi pada 2016 setelah protes masyarakat adat yang berlarut-larut."
 
 lang: "id"
-sourceContentHash: "3900760aacdbc30f"
+sourceContentHash: "1464aa447b7252c6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

@@ -34,7 +34,7 @@ faq:
     a: "Il n'existe pas de loi spécifique au VIH. Des dispositions générales du Code pénal telles que les articles 269 et 270 peuvent s'appliquer à la propagation de maladies dangereuses, mais aucune poursuite connue liée au VIH n'a eu lieu à ce jour."
 
 lang: "fr"
-sourceContentHash: "c335daac63ec7a97"
+sourceContentHash: "1cab11648c701e91"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

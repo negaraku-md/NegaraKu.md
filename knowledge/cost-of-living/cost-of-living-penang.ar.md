@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "كل من يقارن تكاليف المعيشة في بينانغ بوادي كلانغ، أو من يختار بين جزيرة بينانغ وسيبيرانغ بيراي قبل الانتقال أو الاستئجار أو فتح عمل تجاري."
 
 lang: "ar"
-sourceContentHash: "060d0c1609863cd7"
+sourceContentHash: "be67d52caf0f3908"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

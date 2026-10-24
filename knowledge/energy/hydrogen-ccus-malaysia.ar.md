@@ -33,7 +33,7 @@ faq:
     a: "يستهدف Kasawari CCS أول حقن لثاني أكسيد الكربون في وقت مبكر قد يصل إلى 2027 (قُدِّم من خطة سابقة لعامَي 2029-2030). أما مشاريع الهيدروجين الأخضر في ساراواك، فمن المتوقَّع عموماً الآن أن تبدأ العمل نحو 2029."
 
 lang: "ar"
-sourceContentHash: "cf65984906bccf4e"
+sourceContentHash: "ca85c8c91975c8e9"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

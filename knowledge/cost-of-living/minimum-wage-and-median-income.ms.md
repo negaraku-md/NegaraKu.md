@@ -23,7 +23,7 @@ appliesTo: "Sesiapa yang membuat belanjawan berdasarkan gaji Malaysia, membandin
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "b4e7cfa473ebf879"
+sourceContentHash: "fde2e01f1a9acb7a"
 
 status: "published"
 aiAssisted: true

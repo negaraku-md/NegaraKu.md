@@ -58,7 +58,7 @@ obligations:
     statute: "Companies Act 2016, s.46(2)"
     consequence: "회사와 모든 임원에게 RM50,000 이하의 벌금"
 lang: "ko"
-sourceContentHash: "0c5ee4a6c8f640ee"
+sourceContentHash: "88185cb64c84e0a8"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -23,7 +23,7 @@ verificationNeeded:
   - "Cet article n'indique pas les effectifs d'admission par programme, les proportions de quotas ni des montants de frais précis pour un quelconque établissement — ceux-ci varient selon le programme et le campus et changent à chaque admission ; confirmez directement auprès de l'e-Panduan de l'UPU (pour les universités publiques) ou de l'établissement concerné (pour les universités privées) avant de postuler."
   - "Le nombre exact actuel de prestataires IPTS enregistrés n'est pas indiqué ici car les tableaux statistiques publiés par le MOHE (Statistik Pendidikan Tinggi) n'ont pas été ouverts en totalité pour cet article — pour un chiffre précis et actuel, consultez directement la publication Statistik Pendidikan Tinggi du MOHE."
 lang: "fr"
-sourceContentHash: "8368ed6f49bb9158"
+sourceContentHash: "6b715cdf26e90660"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

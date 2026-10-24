@@ -26,7 +26,7 @@ appliesTo: "கூட்டரசு அரசியலமைப்பின் 
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "1cdb5bbdd1308bf3"
+sourceContentHash: "c2f07a2d952f32f7"
 
 status: "published"
 aiAssisted: true

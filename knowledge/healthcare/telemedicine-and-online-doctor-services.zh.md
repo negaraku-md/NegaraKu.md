@@ -32,7 +32,7 @@ faq:
     a: "有时可以。MMC 倾向于将虚拟问诊作为已有医患关系之后的复诊，但也允许首次在线问诊，尤其是在基层医疗中，前提是医生记录理由。医生被要求对未曾亲自检查的病人开处方保持谨慎，并在在线媒介不足以安全评估你时转介你进行面对面就诊。"
 
 lang: "zh"
-sourceContentHash: "abe1f652bf3edc8b"
+sourceContentHash: "d63421290bd45b29"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

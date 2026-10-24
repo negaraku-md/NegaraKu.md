@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में रहने वाला कोई भी व्यक्ति जिसे यह समझने की आवश्यकता है कि उसके क्षेत्र में कचरा कौन उठाता है, क्या उसे स्रोत पर कचरा अलग करना आवश्यक है, और यदि वह न करे तो क्या जोखिम है।"
 
 lang: "hi"
-sourceContentHash: "0280d12a6ccc5b9e"
+sourceContentHash: "e61c9e41571bda53"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

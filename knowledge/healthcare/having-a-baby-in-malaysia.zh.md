@@ -24,7 +24,7 @@ appliesTo: "适用于马来西亚境内正在怀孕、计划怀孕，或在怀�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8182db0933e495e5"
+sourceContentHash: "f82d2d99c31a083b"
 
 status: "published"
 aiAssisted: true

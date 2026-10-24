@@ -34,7 +34,7 @@ faq:
     a: "Sí. La PPA se declaró endémica en Malasia en agosto de 2025. Se produjeron grandes brotes en Selangor (76.000 cerdos en 57 granjas) y Penang, y se sacrificó el ganado infectado para contener la propagación (CodeBlue)."
 
 lang: "es"
-sourceContentHash: "28ee8ace3a3090da"
+sourceContentHash: "bc890674eee634f7"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

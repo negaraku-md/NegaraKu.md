@@ -40,7 +40,7 @@ revisions:
     reviewer: null
 
 updated: 2026-07-24
-sourceContentHash: "e3c51524a621f167"
+sourceContentHash: "82fc03d17115b374"
 sources:
   - title: "国家予防接種スケジュール（2023年8月更新）(Jadual Imunisasi Kebangsaan (Kemaskini Ogos 2023))"
     url: "https://infosihat.moh.gov.my/penerbitan-multimedia/infografik/item/jadual-imunisasi-kebangsaan-kemaskini-ogos-2023.html"

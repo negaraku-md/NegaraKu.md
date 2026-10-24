@@ -23,7 +23,7 @@ appliesTo: "Sesiapa sahaja yang membuat belanjawan untuk hidup di Malaysia, memb
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0b3015ed818343fb"
+sourceContentHash: "614561924539b020"
 
 status: "published"
 aiAssisted: true

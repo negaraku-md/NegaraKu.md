@@ -71,7 +71,7 @@ obligations:
     statute: "Guidelines for the Reporting Framework for Beneficial Ownership of Companies, para 21(c)"
     consequence: "s.60C(7)에 따른 범죄"
 lang: "ko"
-sourceContentHash: "5960cbcc31d84c2e"
+sourceContentHash: "14eb3e1aad20bc80"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -27,7 +27,7 @@ faq:
   - q: "DOF บังคับใช้กฎหมายใด?"
     a: "กฎหมายหลักคือพระราชบัญญัติการประมง (Fisheries Act 1985, Act 317) ครอบคลุมการอนุรักษ์ การจัดการ และการพัฒนาการประมงและกิจการประมงในน่านน้ำมาเลเซีย รวมถึงการออกใบอนุญาต การเพาะเลี้ยงสัตว์น้ำ สัตว์เลี้ยงลูกด้วยนมในน้ำ และเต่า"
 lang: "th"
-sourceContentHash: "8e62e7e42b18280c"
+sourceContentHash: "0a6f38093e7691ce"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"

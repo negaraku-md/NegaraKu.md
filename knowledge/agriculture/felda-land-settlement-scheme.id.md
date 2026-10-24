@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (kini FGV Holdings) adalah lengan investasi yang mengelola ladang FELDA. Ia dicatatkan di Bursa Malaysia pada 28 Juni 2012 dan pada masa IPO mengelola sekitar 500,000 hektar yang diusahakan oleh sekitar 112,600 peneroka."
 
 lang: "id"
-sourceContentHash: "e2d45ce88c57dcc0"
+sourceContentHash: "dea25bf8a34a057f"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 

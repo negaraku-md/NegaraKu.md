@@ -34,7 +34,7 @@ faq:
     a: "2024 में, सेवाओं ने RM252.7 बिलियन स्वीकृत निवेश (कुल का 66.8%) और विनिर्माण ने RM120.5 बिलियन (31.8%) आकर्षित किया, कुल रिकॉर्ड RM378.5 बिलियन में से (MIDA)।"
 
 lang: "hi"
-sourceContentHash: "fd46cc26349bd735"
+sourceContentHash: "f17027d368c200a7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 

@@ -29,7 +29,7 @@ faq:
     a: "申請はKPMのポータルを通じてオンラインで行われ、生徒は特別学校入学評価（PKSK）を通じて、学業成績や課外活動とあわせて選抜される。"
 
 lang: "ja"
-sourceContentHash: "8256668a3fad86ff"
+sourceContentHash: "d9161aa5a0f5aff2"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
