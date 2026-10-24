@@ -28,9 +28,10 @@ verificationNeeded:
   - "The duty on item 2, affidavits and statutory declarations, could not be read cleanly from the consolidated text due to column misalignment and is therefore omitted from the table"
   - "Currently-in-force stamp duty exemption and remission orders were not enumerated exhaustively; LHDN's own stamp duty order index lists nothing after P.U.(A) 470/2024 and appears stale, so first-home and other current exemption thresholds should be read from the Federal Gazette"
   - "Item 12 (assignment) was substituted by Act 862 and its revised life-insurance bands are not reproduced here"
+  - "The enhanced first-home stamp duty exemption (100% to RM500,000, plus 50% on RM500,001–750,000) for SPAs executed 1 Jan 2027–31 Dec 2030 is a Budget 2027 announcement (MOF tax-measures Appendix 16), not yet gazetted — confirm the P.U.(A) order once made"
 
 lang: "es"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,14 +40,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Se anotó la exención mejorada del impuesto del timbre para la primera vivienda (nuevo tramo del 50% para RM500,001–750,000) y la exención por revitalización de vivienda abandonada anunciadas en el Presupuesto 2027 (anunciadas, pendientes de su publicación en el boletín oficial)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Ley del Timbre de 1949 (Act 378), Primer Anexo, texto vigente al 1 de enero de 2024 (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -66,6 +71,10 @@ sources:
   - title: "Exenciones y alivios del impuesto del timbre (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
+  - title: "Puntos de contacto del Presupuesto 2027 — Medidas fiscales, Apéndices 16–17 (Exención del impuesto del timbre para la primera vivienda residencial; revitalización de proyectos de vivienda abandonados) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministerio de Finanzas de Malasia (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -178,6 +187,10 @@ Tres mecanismos distintos, y no son intercambiables:
 - **Exención o remisión ministerial bajo la s.80**, concedida por el Ministro de Finanzas y publicada como una orden P.U.(A). Al reclamar una, debe citar la referencia del boletín oficial o presentar la carta de exención del Ministerio.
 
 Por separado, el **alivio bajo la s.15 y la s.15A** cubre la reconstrucción y la fusión de empresas, y las transferencias de propiedad entre empresas asociadas. Las solicitudes van a la Oficina del Director Estatal correspondiente, no a través del canal de timbrado ordinario.
+
+**Primera vivienda residencial (vigente):** los ciudadanos malasios que compran su primera vivienda con un precio de hasta **RM500,000** obtienen una exención del **100%** sobre el instrumento de transferencia y el acuerdo de préstamo, para los acuerdos de compraventa otorgados entre el 1 de enero de 2021 y el 31 de diciembre de 2027.
+
+**Anunciado para 2027 (Presupuesto 2027):** para los acuerdos de compraventa otorgados entre el **1 de enero de 2027 y el 31 de diciembre de 2030**, la exención de primera vivienda se amplía — las viviendas de hasta RM500,000 conservan la exención del **100%**, y las viviendas de hasta **RM750,000** obtienen el **100% sobre los primeros RM500,000 más el 50% sobre la porción de RM500,001 a RM750,000**. Una exención separada del 100% para la revitalización de proyectos de vivienda abandonados se reintroduce para los instrumentos otorgados entre el 1 de enero de 2027 y el 31 de diciembre de 2030. Estos son anuncios del Presupuesto 2027 (Apéndices 16–17 de las medidas fiscales), aún no publicados en el boletín oficial.
 
 ## Errores comunes
 

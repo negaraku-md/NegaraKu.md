@@ -27,6 +27,7 @@ verificationNeeded:
   - "The duty on item 2, affidavits and statutory declarations, could not be read cleanly from the consolidated text due to column misalignment and is therefore omitted from the table"
   - "Currently-in-force stamp duty exemption and remission orders were not enumerated exhaustively; LHDN's own stamp duty order index lists nothing after P.U.(A) 470/2024 and appears stale, so first-home and other current exemption thresholds should be read from the Federal Gazette"
   - "Item 12 (assignment) was substituted by Act 862 and its revised life-insurance bands are not reproduced here"
+  - "The enhanced first-home stamp duty exemption (100% to RM500,000, plus 50% on RM500,001–750,000) for SPAs executed 1 Jan 2027–31 Dec 2030 is a Budget 2027 announcement (MOF tax-measures Appendix 16), not yet gazetted — confirm the P.U.(A) order once made"
 
 lang: "en"
 masterLanguage: "en"
@@ -37,14 +38,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Noted the enhanced first-home stamp duty exemption (new 50% tier for RM500,001–750,000) and the abandoned-housing revival exemption announced in Budget 2027 (announced, pending the gazette)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -64,6 +69,10 @@ sources:
   - title: "Stamp Duty Exemptions and Relief"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -213,6 +222,20 @@ Separately, **relief under s.15 and s.15A** covers company reconstruction and
 amalgamation, and transfers of property between associated companies.
 Applications go to the relevant State Director's Office, not through the
 ordinary stamping channel.
+
+**First residential home (current):** Malaysian citizens buying their first home
+priced up to **RM500,000** get a **100%** exemption on the transfer instrument
+and the loan agreement, for sale-and-purchase agreements executed from 1 January
+2021 to 31 December 2027.
+
+**Announced for 2027 (Budget 2027):** for sale-and-purchase agreements executed
+from **1 January 2027 to 31 December 2030**, the first-home exemption is enhanced
+— homes up to RM500,000 keep the **100%** exemption, and homes up to **RM750,000**
+get **100% on the first RM500,000 plus 50% on the portion from RM500,001 to
+RM750,000**. A separate 100% exemption for the revival of abandoned housing
+projects is reintroduced for instruments executed 1 January 2027 to 31 December
+2030. These are Budget 2027 announcements (tax-measures Appendices 16–17), not
+yet gazetted.
 
 ## Common mistakes
 

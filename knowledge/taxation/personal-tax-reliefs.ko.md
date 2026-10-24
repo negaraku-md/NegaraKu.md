@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "연례 Form BE/B 신고를 준비하며 청구할 수 있는 공제를 확인하는 개인 납세자."
 
 lang: "ko"
-sourceContentHash: "3aaef5bbc4ffdb87"
+sourceContentHash: "dd101bcd8f9b2a8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -29,10 +29,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "2027년 예산안에서 발표된 YA2027 공제 변경(인적 공제 RM9,000→RM12,000, 부모·의료·교육/기술·라이프스타일·스포츠·관광·SOCSO 공제의 범위 변경 포함)을 추가 — 발표 단계로, 재정법안 통과 대기 중."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "YA2027 공제 변경은 2027년 예산안 발표(MOF tax-measures Appendices 2–9)로 아직 입법되지 않았음 — Finance Act 2027이 관보에 게재되면 최종 금액과 범위를 확인할 것"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — 개인 소득공제 (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/en/individual/"
@@ -40,6 +52,10 @@ sources:
   - title: "Income Tax Act 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "말레이시아 법무장관실"
+  - title: "2027년 예산안 세부지침 — 조세 조치, Appendices 2–9 (개인 소득세 공제 검토) (Budget 2027 Touchpoints — Tax Measures, Appendices 2–9)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "말레이시아 재무부"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -113,6 +129,34 @@ keywords: ["Malaysia tax relief", "pelepasan cukai individu", "tax relief checkl
   경우 분리과세가 더 효율적일 때도 있습니다.
 - 공제 신고 기한 자체를 놓치는 것. 공제는 BE/B 양식 제출 후 수정 기간을
   벗어나면 소급하여 청구할 수 없습니다.
+
+## YA2027 발표 (2027년 예산안)
+
+2027년 예산안(2026년 10월 9일 상정)은 **YA2027부터** 적용되는 여러 공제 변경을
+발표했습니다. 이는 **발표 단계로, 아직 법률이 아닙니다** — Finance Bill 2027이
+통과되어야만 효력이 발생하므로, YA2025 또는 YA2026에 청구하는 내용은 바뀌지
+않습니다.
+
+- **본인 및 부양 친족** — 본인 공제가 **RM9,000에서 RM12,000으로** 인상됩니다.
+- **부모 및 조부모(RM8,000)** — 간병비 항목이 (의료 간병뿐만 아니라) 가정·주간
+  돌봄·상주 돌봄 시설에서의 **모든 유형의 돌봄**을 포괄하도록 확대되며, 서류
+  요건도 간소화됩니다(등록 의료인 확인 없이 간병인 신고서 또는 취업허가증과
+  영수증).
+- **의료 치료(RM10,000)** — 한도는 유지되고 범위가 "건강 및 웰빙(Health and
+  Well-being)" 공제로 넓어져, 모유수유 장비 공제를 통합합니다.
+- **교육비(RM7,000)** — "교육 및 기술(Education and skills)" 공제로 재편되며, 본인
+  또는 배우자의 역량 강화·자기 계발 과정 수강료를 RM7,000 한도 내에서 **RM3,000**까지
+  청구할 수 있습니다(기존 라이프스타일 역량 강화 하위 한도가 통합됨).
+- **라이프스타일(RM2,500)** — 범위가 **구독료**를 포함하도록 확대되며, RM2,500
+  한도는 변동 없습니다.
+- **스포츠 관련 라이프스타일(RM1,000)** — 범위가 **RM300까지의 운동화** 구입을
+  포함하도록 확대되며, RM1,000 한도는 변동 없습니다.
+- **관광 지출(RM1,000까지)** — 공제가 **YA2027까지 1년 더 연장**됩니다.
+- **SOCSO 납입금(RM350)** — 범위가 세 개의 의무 자영업 부문(여객 운송,
+  물품/음식 배달, 노점상)에 대한 의무 자영업 사회보장(LINDUNG KENDIRI) 납입금을
+  포괄하도록 확대되며, RM350 한도는 변동 없습니다.
+
+발표 출처: 2027년 예산안 세부지침, 조세 조치 Appendices 2–9 (말레이시아 재무부).
 
 ## 다음 단계
 

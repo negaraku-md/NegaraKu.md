@@ -27,25 +27,30 @@ verificationNeeded:
   - "item 2（宣誓供述書及び法定宣言書）にかかる税額は、統合テキストの欄のずれのため正確に読み取ることができず、そのため表からは省略している"
   - "現に効力を有する印紙税の免除命令及び減免命令は、網羅的に列挙したものではない。LHDN自身の印紙税命令索引はP.U.(A) 470/2024より後の項目を一件も掲載しておらず、更新が止まっているように見えるため、初回住宅取得その他の現行の免除閾値は、連邦官報（Federal Gazette）から読み取るべきである"
   - "item 12（譲渡、assignment）はAct 862により置き換えられており、その改訂後の生命保険にかかる区分は本稿では再掲していない"
+  - "2027年1月1日から2030年12月31日までに作成された売買契約（SPA）に係る、強化された初回住宅取得の印紙税免除（RM500,000までは100%、加えてRM500,001–750,000には50%）は、Budget 2027の発表（MOFの税制措置 Appendix 16）であり、まだ官報告示されていない——P.U.(A)命令が制定され次第、確認すること"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Budget 2027で発表された、強化された初回住宅取得の印紙税免除（RM500,001–750,000に対する新設の50%区分）及び放棄住宅プロジェクト再生の免除を注記した（発表済み、官報告示は未了）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), 第一附則、2024年1月1日現在のテキスト (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -65,6 +70,10 @@ sources:
   - title: "印紙税の免除および軽減 (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "内国歳入庁 (LHDN)"
+  - title: "Budget 2027 タッチポイント — 税制措置、Appendices 16–17（初回住宅取得に対する印紙税免除；放棄住宅プロジェクトの再生） (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "マレーシア財務省 (MOF)"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -177,6 +186,10 @@ Act 862により追加され、**2025年1月1日**から施行されているsec
 - **s.80のもとでの大臣による免除又は減免**——財務大臣により付与され、P.U.(A)命令として官報告示される。これを申し立てる際は、官報番号を引用するか、財務省の免除書を提示しなければならない。
 
 別途、**s.15及びs.15Aのもとでの減免**は、会社の再編及び合併、並びに関連会社間の不動産の移転を対象とする。申請は、通常の押印手続ではなく、関係する州局長事務所（State Director's Office）へ提出する。
+
+**初回住宅取得（現行）：** マレーシア市民が、価格**RM500,000**までの初めての住宅を購入する場合、2021年1月1日から2027年12月31日までに作成された売買契約について、移転証書及び貸付契約に**100%**の免除が適用される。
+
+**2027年に向けて発表（Budget 2027）：** **2027年1月1日から2030年12月31日まで**に作成された売買契約については、初回住宅取得の免除が強化される——RM500,000までの住宅は**100%**の免除を維持し、**RM750,000**までの住宅は**最初のRM500,000に100%、加えてRM500,001からRM750,000までの部分に50%**を受けられる。放棄住宅プロジェクトの再生に対する別途の100%免除が、2027年1月1日から2030年12月31日までに作成された法律文書について再導入される。これらはBudget 2027の発表（税制措置 Appendices 16–17）であり、まだ官報告示されていない。
 
 ## よくある誤り
 

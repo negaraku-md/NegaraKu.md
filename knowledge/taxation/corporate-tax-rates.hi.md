@@ -36,7 +36,8 @@ faq:
     a: "एक मौजूदा कंपनी आधार-अवधि की शुरुआत से कम-से-कम 30 दिन पहले फ़ाइल करती है। एक नई कंपनी जिसकी पहली आधार-अवधि कम-से-कम छह माह की है, वह परिचालन आरंभ करने के तीन माह के भीतर फ़ाइल करती है, और किश्तें छठे माह से शुरू होती हैं। संशोधन छठे, नौवें या ग्यारहवें माह में अनुमत हैं।"
 
 verificationNeeded:
-  - "पुष्टि करें कि Budget 2027 या कोई बाद का Finance Act SME श्रेणियों या 20% विदेशी-स्वामित्व वाली शर्त को बदलता है या नहीं"
+  - "बजट 2027 ने YA2027 से SME/MSME निचली-श्रेणी दरों के घटकर 14% (पहले RM150,000) और 16% (अगले RM450,000) होने की घोषणा की (MOF tax-measures Appendix 11) — Finance Act 2027 के राजपत्रित होने पर अंतिम दरों की पुष्टि करें"
+  - "पुष्टि करें कि कोई बाद का Finance Act 20% विदेशी-स्वामित्व वाली शर्त को बदलता है या नहीं"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"
@@ -53,7 +54,7 @@ obligations:
     consequence: "Penalty up to treble the tax under s.112(3); LHDN's published rates run 15% to 45% by lateness"
 
 lang: "hi"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "बजट 2027 में घोषित YA2027 SME/MSME दर-कटौती (14% / 16%) को नोट किया (घोषित, वित्त विधेयक लंबित)।"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "आयकर अधिनियम 1967 (अधिनियम 53), 21 मई 2024 तक का पुनर्मुद्रण (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "मलेशियाई आंतरिक राजस्व बोर्ड (LHDN)"
     date: "2025-12-30"
+  - title: "बजट 2027 टचपॉइंट्स — कर उपाय, Appendix 11 (सूक्ष्म, लघु और मध्यम उद्यमों के लिए आयकर दरों की समीक्षा) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "मलेशिया वित्त मंत्रालय (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -115,6 +124,12 @@ keywords: ["मलेशिया कॉर्पोरेट कर दर", "�
 | पात्र SME | अगले RM450,000 (RM600,000 तक) | **17%** |
 | पात्र SME | RM600,000 से ऊपर | 24% |
 | बाकी सभी, और गैर-निवासी | सम्पूर्ण कर-योग्य आय | **24%** |
+
+**YA2027 के लिए घोषित (बजट 2027):** SME/MSME की दो निचली श्रेणियों की दरें प्रत्येक
+1 प्रतिशत-अंक घटने वाली हैं — पहले RM150,000 पर **14%** और अगले RM450,000 पर **16%**
+(RM600,000 तक); RM600,000 से ऊपर 24% बना रहता है। यह एक बजट 2027 घोषणा है
+(tax-measures Appendix 11), जो मूल्यांकन-वर्ष 2027 से प्रभावी है और **अभी कानून
+नहीं** — ऊपर दी गई 15% / 17% दरें YA2026 तक लागू होती हैं।
 
 ## पात्र होने की तीन शर्तें
 

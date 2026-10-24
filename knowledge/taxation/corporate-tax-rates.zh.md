@@ -36,7 +36,8 @@ faq:
     a: "既有公司须在基期开始前 30 天之前呈交。首个基期至少有六个月的新公司，须在开始营运后三个月内呈交，分期付款则自第六个月起开始。修订可在第 6、9 或 11 个月进行。"
 
 verificationNeeded:
-  - "确认 Budget 2027 或任何后续 Finance Act 是否改动了 SME 级距或 20% 外资持股一项"
+  - "Budget 2027 宣布 SME/MSME 较低级距的税率自 YA2027 起下调至 14%（首 RM150,000）与 16%（接下来的 RM450,000）（MOF 税务措施 Appendix 11）——一旦 Finance Act 2027 刊宪，请确认最终税率"
+  - "确认任何后续 Finance Act 是否改动了 20% 外资持股一项"
 
 obligations:
   - what: "呈交 CP204 应缴税款预估"
@@ -55,7 +56,7 @@ obligations:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 
 status: "published"
 aiAssisted: true
@@ -63,15 +64,19 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "记录 Budget 2027 宣布的 YA2027 SME/MSME 税率下调（14% / 16%）（已宣布，待《财政法案》通过）。"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53)，2024年5月21日重印本 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -91,6 +96,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "内陆税收局 (LHDN)"
     date: "2025-12-30"
+  - title: "2027年财政预算案要点 — 税务措施，Appendix 11（检讨微型、小型及中型企业所得税税率） (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "财政部 (MOF)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -115,6 +124,11 @@ keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai 
 | 符合资格的 SME | 接下来的 RM450,000（至 RM600,000） | **17%** |
 | 符合资格的 SME | 超过 RM600,000 | 24% |
 | 其他所有公司，以及非居民 | 全部应课税收入 | **24%** |
+
+**YA2027 宣布（Budget 2027）：** SME/MSME 在两个较低级距的税率各下调 1 个百分点
+——首 RM150,000 课 **14%**，接下来的 RM450,000（至 RM600,000）课 **16%**；超过
+RM600,000 维持 24%。这是 Budget 2027 的宣布（税务措施 Appendix 11），自 2027 课税
+年起生效，且**尚未成为法律**——上表的 15% / 17% 税率适用至 YA2026。
 
 ## 符合资格的三项条件
 

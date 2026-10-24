@@ -27,11 +27,12 @@ verificationNeeded:
   - "Item 2（誓章与法定声明）的税额，因栏位错位而无法从综合文本中干净地读出，因此从表中略去"
   - "现行有效的印花税豁免与宽免命令未曾详尽列举；LHDN 自己的印花税命令索引在 P.U.(A) 470/2024 之后就没有任何项目，看来已经过时，因此首购屋与其他现行豁免门槛，应从联邦宪报读取"
   - "Item 12（转让权益）已由 Act 862 替换，其修订后的人寿保险级距在此并未重现"
+  - "针对 2027 年 1 月 1 日至 2030 年 12 月 31 日签立的买卖协议，首购屋印花税豁免增强版（至 RM500,000 为 100%，另加 RM500,001–750,000 的 50%）属 Budget 2027 的宣布（MOF 税务措施 Appendix 16），尚未刊宪——一旦相关 P.U.(A) 命令作出，请确认"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 
 status: "published"
 aiAssisted: true
@@ -39,14 +40,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "记录 Budget 2027 宣布的首购屋印花税豁免增强版（RM500,001–750,000 的新 50% 级）与荒废房屋项目复兴豁免（已宣布，待刊宪）。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), 第一附表，截至2024年1月1日的文本 (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -66,6 +71,10 @@ sources:
   - title: "印花税豁免与减免 (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "马来西亚内陆税收局 (LHDN)"
+  - title: "2027年财政预算案要点 — 税务措施，Appendices 16–17（首间住宅房屋印花税豁免；荒废房屋项目复兴） (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "马来西亚财政部 (MOF)"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -197,6 +206,17 @@ Item 4 是那个包罗万象的协议项目，而它自己的豁免清单，比�
 
 另外，**s.15 与 s.15A 下的减免**涵盖公司重组与合并，以及联营公司之间的产业转让。
 申请须递交相关的州总监办公室，而不是走一般的盖印渠道。
+
+**首间住宅房屋（现行）：** 马来西亚公民购买价格不超过 **RM500,000** 的首间房屋，
+就转易文书与贷款协议可获 **100%** 豁免，适用于 2021 年 1 月 1 日至 2027 年 12 月
+31 日签立的买卖协议。
+
+**2027 年宣布（Budget 2027）：** 针对 **2027 年 1 月 1 日至 2030 年 12 月 31 日**
+签立的买卖协议，首购屋豁免获增强——价格不超过 RM500,000 的房屋维持 **100%** 豁免，
+价格不超过 **RM750,000** 的房屋则获 **首 RM500,000 的 100%，另加 RM500,001 至
+RM750,000 部分的 50%**。另有一项针对荒废房屋项目复兴的 100% 豁免，就 2027 年 1 月
+1 日至 2030 年 12 月 31 日签立的法律文书重新实施。这些是 Budget 2027 的宣布（税务
+措施 Appendices 16–17），尚未刊宪。
 
 ## 常见错误
 

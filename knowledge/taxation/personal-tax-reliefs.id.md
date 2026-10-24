@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Wajib pajak individu yang menyiapkan penyampaian Borang BE/B tahunan mereka dan memeriksa keringanan yang dapat mereka klaim."
 
 lang: "id"
-sourceContentHash: "3aaef5bbc4ffdb87"
+sourceContentHash: "dd101bcd8f9b2a8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -29,10 +29,22 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambahkan perubahan keringanan YA2027 sebagaimana diumumkan dalam Anggaran 2027 (keringanan individu RM9,000→RM12,000, serta perubahan cakupan pada keringanan orang tua, pengobatan, pendidikan/keterampilan, gaya hidup, olahraga, pariwisata dan SOCSO) — diumumkan, menunggu Finance Bill."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "Perubahan keringanan YA2027 adalah pengumuman Anggaran 2027 (Appendix 2–9 langkah pajak MOF), belum diberlakukan — konfirmasikan jumlah dan cakupan final begitu Finance Act 2027 diwartakan"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — Keringanan Pajak Individu (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/individu/"
@@ -40,6 +52,10 @@ sources:
   - title: "Income Tax Act 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "Kantor Jaksa Agung (Jabatan Peguam Negara)"
+  - title: "Titik Sentuh Anggaran 2027 — Langkah Pajak, Appendix 2–9 (Tinjauan Keringanan Pajak Penghasilan Individu) (Budget 2027 Touchpoints — Tax Measures, Appendices 2–9 (Review of Individual Income Tax Reliefs))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -121,6 +137,41 @@ menyampaikan laporan pajak.
   dengan pendapatan yang hampir sama, taksiran terpisah kadang lebih efisien.
 - Melewatkan batas waktu penyampaian itu sendiri — keringanan tidak dapat diklaim
   secara retroaktif di luar periode amendemen setelah Borang BE/B disampaikan.
+
+## Diumumkan bagi YA2027 (Anggaran 2027)
+
+Anggaran 2027 (dibentangkan 9 Oktober 2026) mengumumkan beberapa perubahan
+keringanan **mulai tahun taksiran 2027**. Ini adalah **pengumuman, belum menjadi
+undang-undang** — perubahan ini baru berlaku setelah Finance Bill 2027 disahkan,
+sehingga tidak mengubah apa yang Anda klaim untuk YA2025 atau YA2026.
+
+- **Individu dan tanggungan** — keringanan diri sendiri naik dari **RM9,000
+  menjadi RM12,000**.
+- **Orang tua dan kakek-nenek (RM8,000)** — bagian biaya perawatan diperluas untuk
+  mencakup **semua jenis perawatan** di rumah, pusat penitipan harian dan pusat
+  perawatan residensial (bukan hanya perawatan medis), dengan dokumentasi yang
+  lebih sederhana (deklarasi perawat atau izin kerja ditambah struk, tanpa
+  verifikasi praktisi terdaftar).
+- **Perawatan medis (RM10,000)** — batasnya dipertahankan dan cakupannya diperluas
+  menjadi keringanan "Kesehatan dan Kesejahteraan", dengan menggabungkan keringanan
+  peralatan menyusui.
+- **Biaya pendidikan (RM7,000)** — difokuskan ulang sebagai keringanan "Pendidikan
+  dan Keterampilan"; biaya kursus peningkatan keterampilan dan pengembangan diri
+  untuk diri sendiri atau pasangan dapat diklaim hingga **RM3,000** dalam plafon
+  RM7,000 (sub-batas peningkatan keterampilan gaya hidup yang lama digabungkan ke
+  dalamnya).
+- **Gaya hidup (RM2,500)** — cakupan diperluas untuk mencakup **langganan**; plafon
+  RM2,500 tidak berubah.
+- **Gaya hidup terkait olahraga (RM1,000)** — cakupan diperluas untuk mencakup
+  pembelian **sepatu olahraga hingga RM300**; plafon RM1,000 tidak berubah.
+- **Biaya pariwisata (hingga RM1,000)** — keringanan ini **diperpanjang satu tahun
+  lagi, hingga YA2027**.
+- **Iuran SOCSO (RM350)** — cakupan diperluas untuk mencakup iuran wajib Jaminan
+  Sosial Wiraswasta (LINDUNG KENDIRI) bagi tiga sektor wiraswasta wajib (angkutan
+  penumpang, pengiriman barang/makanan dan pedagang kaki lima); plafon RM350 tidak
+  berubah.
+
+Sumber pengumuman: Titik Sentuh Anggaran 2027, Langkah Pajak Appendix 2–9 (Kementerian Keuangan Malaysia).
 
 ## Langkah selanjutnya
 

@@ -20,7 +20,7 @@ keyTakeaways:
 appliesTo: "Người nộp thuế cá nhân chuẩn bị việc nộp Form BE/B hằng năm của họ và kiểm tra những khoản giảm trừ nào họ có thể yêu cầu."
 
 lang: "vi"
-sourceContentHash: "3aaef5bbc4ffdb87"
+sourceContentHash: "dd101bcd8f9b2a8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -29,10 +29,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Bổ sung các thay đổi về giảm trừ cho YA2027 được thông báo trong Ngân sách 2027 (giảm trừ cá nhân RM9,000→RM12,000, cùng các thay đổi phạm vi đối với các khoản giảm trừ cha mẹ, y tế, giáo dục/kỹ năng, lối sống, thể thao, du lịch và SOCSO) — đã thông báo, đang chờ Finance Bill."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "Các thay đổi về giảm trừ cho YA2027 là các thông báo của Ngân sách 2027 (MOF tax-measures Appendices 2–9), chưa được ban hành — xác nhận các số tiền và phạm vi cuối cùng một khi Finance Act 2027 được đăng công báo"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — Giảm trừ thuế cá nhân (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/en/individual/"
@@ -40,6 +52,10 @@ sources:
   - title: "Income Tax Act 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "Văn phòng Tổng Chưởng lý Malaysia"
+  - title: "Các điểm nhấn Ngân sách 2027 — Các biện pháp thuế, Phụ lục 2–9 (Rà soát các Khoản giảm trừ Thuế thu nhập Cá nhân) (Budget 2027 Touchpoints — Tax Measures, Appendices 2–9 (Review of Individual Income Tax Reliefs))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -117,6 +133,40 @@ khoản giảm trừ tùy thuộc vào bậc thuế mà nó rơi vào. Hãy dùn
   thu nhập tương tự, đánh giá riêng đôi khi hiệu quả hơn.
 - Bỏ lỡ chính thời hạn nộp khoản giảm trừ — các khoản giảm trừ không thể được yêu
   cầu hồi tố ngoài cửa sổ điều chỉnh sau khi Form BE/B được nộp.
+
+## Được thông báo cho YA2027 (Ngân sách 2027)
+
+Ngân sách 2027 (trình ngày 9 tháng 10 năm 2026) đã thông báo một số thay đổi về
+giảm trừ **từ năm tính thuế 2027**. Đây là các **thông báo, chưa phải là luật** —
+chúng chỉ có hiệu lực một khi Finance Bill 2027 được thông qua, nên chúng không làm
+thay đổi những gì bạn yêu cầu cho YA2025 hoặc YA2026.
+
+- **Cá nhân và thân nhân phụ thuộc** — khoản giảm trừ bản thân tăng từ **RM9,000
+  lên RM12,000**.
+- **Cha mẹ và ông bà (RM8,000)** — nhánh chi phí chăm sóc được mở rộng để bao phủ
+  **mọi loại hình chăm sóc** tại nhà, tại trung tâm ban ngày và tại các trung tâm
+  lưu trú (không chỉ chăm sóc y tế), với chứng từ đơn giản hơn (một bản khai của
+  người chăm sóc hoặc giấy phép lao động cộng với biên lai, không cần xác minh của
+  người hành nghề đã đăng ký).
+- **Điều trị y tế (RM10,000)** — giới hạn được giữ nguyên và phạm vi được mở rộng
+  thành một khoản giảm trừ «Sức khỏe và Thể trạng» (Health and Well-being), gộp cả
+  khoản giảm trừ thiết bị cho con bú.
+- **Học phí giáo dục (RM7,000)** — được tái định hướng thành một khoản giảm trừ
+  «Giáo dục và kỹ năng» (Education and skills); học phí các khóa nâng cao kỹ năng và
+  tự hoàn thiện cho bản thân hoặc vợ/chồng được yêu cầu tới **RM3,000** trong trần
+  RM7,000 (tiểu hạn mức nâng cao kỹ năng cũ thuộc lối sống được gộp vào).
+- **Lối sống (RM2,500)** — phạm vi được mở rộng để bao gồm các **gói đăng ký
+  (subscriptions)**; trần RM2,500 không thay đổi.
+- **Lối sống liên quan đến thể thao (RM1,000)** — phạm vi được mở rộng để bao gồm
+  việc mua **giày thể thao tới RM300**; trần RM1,000 không thay đổi.
+- **Chi phí du lịch (tới RM1,000)** — khoản giảm trừ được **gia hạn thêm một năm,
+  đến YA2027**.
+- **Các khoản đóng góp SOCSO (RM350)** — phạm vi được mở rộng để bao phủ các khoản
+  đóng góp An sinh Xã hội Tự doanh (LINDUNG KENDIRI) bắt buộc cho ba ngành tự doanh
+  bắt buộc (vận tải hành khách, giao hàng hóa/thực phẩm và người bán hàng rong); trần
+  RM350 không thay đổi.
+
+Nguồn thông báo: Budget 2027 Touchpoints, Tax Measures Appendices 2–9 (Bộ Tài chính).
 
 ## Tiếp theo
 

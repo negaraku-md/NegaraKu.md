@@ -36,7 +36,8 @@ faq:
     a: "An existing company files no later than 30 days before the beginning of the basis period. A new company whose first basis period is at least six months files within three months of commencing operations, with instalments beginning in the sixth month. Revisions are permitted in the 6th, 9th or 11th month."
 
 verificationNeeded:
-  - "Confirm whether Budget 2027 or any subsequent Finance Act alters the SME bands or the 20% foreign-ownership limb"
+  - "Budget 2027 announced the SME/MSME lower-band rates falling to 14% (first RM150,000) and 16% (next RM450,000) from YA2027 (MOF tax-measures Appendix 11) — confirm the final rates once the Finance Act 2027 is gazetted"
+  - "Confirm whether any subsequent Finance Act alters the 20% foreign-ownership limb"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"
@@ -61,15 +62,19 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Noted the YA2027 SME/MSME rate reduction (14% / 16%) announced in Budget 2027 (announced, pending the Finance Bill)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), reprint as at 21 May 2024"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -89,6 +94,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "LHDN"
     date: "2025-12-30"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -114,6 +123,13 @@ and is missing from most published guidance.
 | Qualifying SME | Next RM450,000 (to RM600,000) | **17%** |
 | Qualifying SME | Above RM600,000 | 24% |
 | Everyone else, and non-residents | All chargeable income | **24%** |
+
+**Announced for YA2027 (Budget 2027):** the SME/MSME rates on the two lower bands
+are set to fall by 1 percentage point each — **14%** on the first RM150,000 and
+**16%** on the next RM450,000 (to RM600,000); above RM600,000 stays at 24%. This
+is a Budget 2027 announcement (tax-measures Appendix 11), effective from the year
+of assessment 2027 and **not yet law** — the 15% / 17% rates above apply through
+YA2026.
 
 ## The three conditions to qualify
 

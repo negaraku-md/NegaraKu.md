@@ -22,17 +22,29 @@ appliesTo: "Pembayar cukai individu yang menyediakan pemfailan Borang BE/B tahun
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3aaef5bbc4ffdb87"
+sourceContentHash: "dd101bcd8f9b2a8a"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambah perubahan pelepasan YA2027 yang diumumkan dalam Bajet 2027 (pelepasan individu RM9,000→RM12,000, serta perubahan skop kepada pelepasan ibu bapa, perubatan, pendidikan/kemahiran, gaya hidup, sukan, pelancongan dan SOCSO) — diumumkan, menunggu Rang Undang-Undang Kewangan."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "Perubahan pelepasan YA2027 ialah pengumuman Bajet 2027 (Appendices 2–9 langkah cukai MOF), belum digubal — sahkan jumlah dan skop muktamad sebaik sahaja Finance Act 2027 diwartakan"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — Pelepasan Cukai Individu (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/individu/"
@@ -40,6 +52,10 @@ sources:
   - title: "Income Tax Act 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "Jabatan Peguam Negara"
+  - title: "Sentuhan Belanjawan 2027 — Langkah Cukai, Appendices 2–9 (Semakan Pelepasan Cukai Pendapatan Individu) (Budget 2027 Touchpoints — Tax Measures, Appendices 2–9 (Review of Individual Income Tax Reliefs))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -127,6 +143,42 @@ terlepas sebelum memfailkan cukai.
 - Terlepas tarikh akhir pemfailan itu sendiri — pelepasan tidak boleh
   dituntut secara retroaktif di luar tempoh pindaan selepas Borang BE/B
   difailkan.
+
+## Diumumkan untuk YA2027 (Bajet 2027)
+
+Bajet 2027 (dibentangkan pada 9 Oktober 2026) mengumumkan beberapa perubahan
+pelepasan **bermula tahun taksiran 2027**. Ini ialah **pengumuman, belum menjadi
+undang-undang** — ia hanya berkuat kuasa sebaik sahaja Rang Undang-Undang
+Kewangan 2027 diluluskan, jadi ia tidak mengubah apa yang anda tuntut bagi
+YA2025 atau YA2026.
+
+- **Individu dan tanggungan** — pelepasan diri naik dari **RM9,000 kepada
+  RM12,000**.
+- **Ibu bapa dan datuk nenek (RM8,000)** — bahagian perbelanjaan penjagaan
+  diperluas untuk meliputi **semua jenis penjagaan** di rumah, pusat jagaan
+  harian dan pusat kediaman (bukan sekadar rawatan perubatan), dengan dokumentasi
+  yang lebih ringkas (perakuan penjaga atau permit kerja berserta resit, tanpa
+  pengesahan pengamal berdaftar).
+- **Rawatan perubatan (RM10,000)** — had dikekalkan dan skop diperluas menjadi
+  pelepasan "Kesihatan dan Kesejahteraan", menggabungkan pelepasan peralatan
+  penyusuan susu ibu.
+- **Yuran pendidikan (RM7,000)** — difokuskan semula sebagai pelepasan
+  "Pendidikan dan kemahiran"; yuran kursus peningkatan kemahiran dan
+  penambahbaikan diri untuk diri sendiri atau pasangan boleh dituntut sehingga
+  **RM3,000** dalam siling RM7,000 (sub-had peningkatan kemahiran gaya hidup yang
+  lama digabungkan ke dalamnya).
+- **Gaya hidup (RM2,500)** — skop diperluas untuk meliputi **langganan**; siling
+  RM2,500 tidak berubah.
+- **Gaya hidup berkaitan sukan (RM1,000)** — skop diperluas untuk meliputi
+  pembelian **kasut sukan sehingga RM300**; siling RM1,000 tidak berubah.
+- **Perbelanjaan pelancongan (sehingga RM1,000)** — pelepasan ini **dilanjutkan
+  untuk satu tahun lagi, kepada YA2027**.
+- **Caruman SOCSO (RM350)** — skop diperluas untuk meliputi caruman Keselamatan
+  Sosial Pekerjaan Sendiri (LINDUNG KENDIRI) yang mandatori bagi tiga sektor
+  pekerjaan sendiri yang mandatori (pengangkutan penumpang, penghantaran
+  barangan/makanan dan penjaja); siling RM350 tidak berubah.
+
+Sumber pengumuman: Budget 2027 Touchpoints, Tax Measures Appendices 2–9 (Ministry of Finance).
 
 ## Langkah seterusnya
 

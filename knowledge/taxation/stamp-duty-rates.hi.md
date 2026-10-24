@@ -27,9 +27,10 @@ verificationNeeded:
   - "मद 2, शपथपत्रों और वैधानिक घोषणाओं, पर ड्यूटी स्तंभों की गलत पंक्तिबद्धता के कारण समेकित पाठ से स्पष्ट रूप से नहीं पढ़ी जा सकी और इसलिए तालिका से छोड़ दी गई है"
   - "वर्तमान में लागू स्टांप ड्यूटी छूट और माफी आदेशों की संपूर्ण गणना नहीं की गई; LHDN का अपना स्टांप ड्यूटी आदेश सूचकांक P.U.(A) 470/2024 के बाद कुछ भी सूचीबद्ध नहीं करता और पुराना प्रतीत होता है, इसलिए पहले-घर और अन्य वर्तमान छूट सीमाएँ संघीय राजपत्र (Federal Gazette) से पढ़ी जानी चाहिए"
   - "मद 12 (समनुदेशन/assignment) Act 862 द्वारा प्रतिस्थापित की गई और इसकी संशोधित जीवन-बीमा स्लैबें यहाँ पुनरुत्पादित नहीं की गई हैं"
+  - "पहले-घर के लिए उन्नत स्टांप ड्यूटी छूट (RM500,000 तक 100%, साथ ही RM500,001–750,000 पर 50%), जो 1 Jan 2027–31 Dec 2030 के बीच निष्पादित SPA पर लागू है, एक बजट 2027 घोषणा है (MOF tax-measures Appendix 16), जो अभी राजपत्रित नहीं हुई — आदेश बनने पर P.U.(A) आदेश की पुष्टि करें"
 
 lang: "hi"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,14 +39,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "बजट 2027 में घोषित उन्नत पहले-घर स्टांप ड्यूटी छूट (RM500,001–750,000 के लिए नई 50% श्रेणी) और परित्यक्त-आवास पुनरुद्धार छूट को नोट किया (घोषित, राजपत्र लंबित)।"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), प्रथम अनुसूची, 1 January 2024 तक का पाठ (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -65,6 +70,10 @@ sources:
   - title: "स्टांप ड्यूटी छूट और राहत (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "मलेशिया आंतरिक राजस्व बोर्ड (LHDN)"
+  - title: "बजट 2027 टचपॉइंट्स — कर उपाय, Appendices 16–17 (पहले आवासीय घर के लिए स्टांप ड्यूटी छूट; परित्यक्त आवास परियोजनाओं का पुनरुद्धार) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "मलेशिया वित्त मंत्रालय (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -212,6 +221,19 @@ Section 36CB, जो Act 862 द्वारा **1 January 2025** से जो
 इससे अलग, **s.15 और s.15A के तहत राहत** कंपनी के पुनर्गठन और समामेलन, तथा संबद्ध
 कंपनियों के बीच संपत्ति हस्तांतरण को कवर करती है। आवेदन संबंधित राज्य निदेशक
 कार्यालय (State Director's Office) को जाते हैं, न कि सामान्य स्टांपिंग माध्यम से।
+
+**पहला आवासीय घर (वर्तमान):** अपना पहला घर **RM500,000** तक की कीमत पर खरीदने वाले
+मलेशियाई नागरिकों को हस्तांतरण-दस्तावेज़ और ऋण-अनुबंध पर **100%** छूट मिलती है, उन
+बिक्री-और-खरीद अनुबंधों (SPA) के लिए जो 1 January 2021 से 31 December 2027 के बीच
+निष्पादित हों।
+
+**2027 के लिए घोषित (बजट 2027):** **1 January 2027 से 31 December 2030** के बीच
+निष्पादित बिक्री-और-खरीद अनुबंधों के लिए पहले-घर की छूट को उन्नत किया गया है —
+RM500,000 तक के घर **100%** छूट बनाए रखते हैं, और **RM750,000** तक के घरों को **पहले
+RM500,000 पर 100% और RM500,001 से RM750,000 वाले हिस्से पर 50%** मिलता है। परित्यक्त
+आवास परियोजनाओं के पुनरुद्धार के लिए एक पृथक 100% छूट 1 January 2027 से 31 December
+2030 के बीच निष्पादित दस्तावेज़ों हेतु पुनः प्रस्तुत की गई है। ये बजट 2027 घोषणाएँ
+हैं (tax-measures Appendices 16–17), जो अभी राजपत्रित नहीं हुईं।
 
 ## सामान्य गलतियाँ
 

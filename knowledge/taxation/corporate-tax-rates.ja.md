@@ -36,7 +36,8 @@ faq:
     a: "既存の法人は、基期開始の30日前までに提出する。最初の基期が6か月以上である新設法人は、営業開始から3か月以内に提出し、分割納付は第6月から開始する。修正は第6月、第9月又は第11月に認められる。"
 
 verificationNeeded:
-  - "Budget 2027又はそれ以降のFinance ActがSME税率の段階区分又は20%の外資持株要件を変更していないか確認すること"
+  - "Budget 2027は、YA2027からSME／MSMEの下位二区分の税率を14%（最初のRM150,000）及び16%（次のRM450,000）に引き下げることを発表した（MOFの税制措置 Appendix 11）——Finance Act 2027が官報告示され次第、最終的な税率を確認すること"
+  - "それ以降のいかなるFinance Actも20%の外資持株要件を変更していないか確認すること"
 
 obligations:
   - what: "CP204による納付予定税額の見積りを提出する"
@@ -55,22 +56,26 @@ obligations:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Budget 2027で発表されたYA2027のSME／MSME税率の引き下げ（14%／16%）を注記した（発表済み、Finance Billは未成立）。"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53)、2024年5月21日現在の再版 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "内国歳入庁 (LHDN)"
     date: "2025-12-30"
+  - title: "Budget 2027 タッチポイント — 税制措置、Appendix 11（零細・中小企業に対する所得税率の見直し） (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "マレーシア財務省 (MOF)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -115,6 +124,8 @@ keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai 
 | 資格を満たすSME | 次のRM450,000（RM600,000まで） | **17%** |
 | 資格を満たすSME | RM600,000超 | 24% |
 | その他すべての法人、及び非居住法人 | 全課税所得 | **24%** |
+
+**YA2027に向けて発表（Budget 2027）：** SME／MSMEの下位二区分の税率は、それぞれ1パーセンテージポイント引き下げられる予定である——最初のRM150,000に**14%**、次のRM450,000（RM600,000まで）に**16%**であり；RM600,000超は24%のままである。これはBudget 2027の発表（税制措置 Appendix 11）であり、賦課年度2027から適用されるが**まだ法律ではない**——上記の15%／17%の税率はYA2026まで適用される。
 
 ## 資格を得るための三つの条件
 

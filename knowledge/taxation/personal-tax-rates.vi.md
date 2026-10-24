@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0055
-title: "Thuế suất thuế thu nhập cá nhân Malaysia — YA2023 đến YA2026"
+title: "Thuế suất thuế thu nhập cá nhân Malaysia — YA2023 đến YA2027"
 seoTitle: "Thuế suất thuế thu nhập cá nhân Malaysia theo YA"
 slug: "personal-tax-rates"
 category: "taxation"
@@ -12,10 +12,10 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Cá nhân cư trú bị đánh thuế trên một thang chín bậc từ 0% trên RM5,000 thu nhập chịu thuế đầu tiên đến 30% trên RM2,000,000. LHDN chú thích bảng hiện hành cho các năm tính thuế 2023, 2024 và 2025, và Ngân sách 2026 thông báo không có thay đổi nào đối với các dải. Người không cư trú nộp mức phẳng 30% theo Schedule 1 Part I paragraph 1A."
+answer: "Cá nhân cư trú bị đánh thuế trên một thang lũy tiến từ 0% trên RM5,000 thu nhập chịu thuế đầu tiên đến mức cao nhất là 30%. Đối với YA2023 đến YA2026, mức 30% áp dụng trên RM2,000,000; Ngân sách 2026 giữ nguyên các dải. Ngân sách 2027 đã thông báo một thang được tái cấu trúc từ YA2027 — dải 70,001–100,000 giảm xuống 18%, một dải mới 100,001–150,000 chịu thuế 24%, và mức cao nhất 30% áp dụng trên RM1,000,000 (đã thông báo, đang chờ Finance Bill). Người không cư trú nộp mức phẳng 30% theo Schedule 1 Part I paragraph 1A."
 keyTakeaways:
-  - "Cấu trúc dải không thay đổi kể từ YA2023 và Ngân sách 2026 không thay đổi nó"
-  - "Thuế suất biên cao nhất là 30% trên RM2,000,000 thu nhập chịu thuế"
+  - "Cấu trúc dải không thay đổi từ YA2023 đến YA2026; Ngân sách 2027 đã thông báo một thang được tái cấu trúc từ YA2027 (đang chờ Finance Bill)"
+  - "Thuế suất biên cao nhất là 30% trên RM2,000,000 (YA2023–YA2026), giảm xuống còn trên RM1,000,000 từ YA2027 như được thông báo trong Ngân sách 2027"
   - "Cá nhân không cư trú nộp mức phẳng 30% không có khoản giảm trừ cá nhân nào và không có khoản hoàn thuế"
   - "Khoản hoàn thuế RM400 chỉ áp dụng khi thu nhập chịu thuế không vượt quá RM35,000"
   - "Từ YA2025 thu nhập cổ tức của cá nhân trên RM100,000 chịu thêm 2%"
@@ -24,7 +24,7 @@ appliesTo: "Bất kỳ cá nhân nào tính thuế thu nhập Malaysia, và các
 
 faq:
   - q: "Thuế suất thuế thu nhập cá nhân tại Malaysia là bao nhiêu?"
-    a: "Thang cư trú chạy 0%, 1%, 3%, 6%, 11%, 19%, 25%, 26%, 28% và 30%. Thuế suất 30% áp dụng cho thu nhập chịu thuế trên RM2,000,000. LHDN công bố bảng này cho các năm tính thuế 2023, 2024 và 2025, và Ngân sách 2026 thông báo không có thay đổi nào đối với các dải."
+    a: "Đối với YA2023 đến YA2026, thang cư trú chạy 0%, 1%, 3%, 6%, 11%, 19%, 25%, 26%, 28% và 30%, với mức 30% trên RM2,000,000; LHDN công bố bảng này cho các năm tính thuế 2023, 2024 và 2025 và Ngân sách 2026 thông báo không có thay đổi. Ngân sách 2027 đã thông báo một thang được tái cấu trúc từ YA2027: dải 70,001–100,000 giảm xuống 18%, một dải mới 100,001–150,000 chịu thuế 24% (150,001–400,000 vẫn giữ ở 25%), và mức cao nhất 30% áp dụng trên RM1,000,000 — đã thông báo, đang chờ Finance Bill."
   - q: "Ở mức thu nhập nào thì bạn bắt đầu nộp thuế tại Malaysia?"
     a: "Thuế được đánh từ đồng ringgit đầu tiên trên RM5,000 thu nhập chịu thuế, nhưng thu nhập chịu thuế là những gì còn lại sau khoản giảm trừ cá nhân RM9,000 theo s.46(1)(a) và mọi khoản giảm trừ khác. Một người cư trú có thu nhập chịu thuế từ RM35,000 trở xuống cũng nhận khoản hoàn thuế RM400 theo s.6A(2), vốn triệt tiêu thuế ở mức đó."
   - q: "Thuế suất cho người nước ngoài tại Malaysia là bao nhiêu?"
@@ -34,10 +34,11 @@ faq:
 
 verificationNeeded:
   - "LHDN vẫn chú thích bảng thuế suất của mình là Tahun Taksiran 2023, 2024 và 2025. Lập trường YA2026 ở đây dựa trên thông báo Ngân sách 2026 rằng các dải không thay đổi, không phải trên một bảng LHDN được chú thích lại — hãy kiểm tra lại trang Kadar Cukai một khi việc nộp YA2026 mở"
+  - "Thang được tái cấu trúc YA2027 là một thông báo của Ngân sách 2027 (MOF tax-measures Appendix 1), chưa được ban hành — xác nhận các dải cuối cùng một khi Finance Act 2027 được đăng công báo và LHDN chú thích lại bảng Kadar Cukai của mình"
   - "Xác nhận liệu tầng thuế cổ tức 2% theo Schedule 1 Part XXII có áp dụng cho cả cá nhân không cư trú lẫn người cư trú hay không; chính bảng thuế suất không nói"
 
 lang: "vi"
-sourceContentHash: "8166bbfff56fa0fe"
+sourceContentHash: "371047566bf2d3a1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -46,14 +47,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Bổ sung thang cư trú được tái cấu trúc cho YA2027 được thông báo trong Ngân sách 2027 (đã thông báo, đang chờ Finance Bill); giữ bảng YA2023–YA2026 làm bảng hiện hành."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Thuế suất — Cá nhân (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
@@ -67,6 +72,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Văn phòng Tổng Chưởng lý Malaysia"
     date: "2024-05-21"
+  - title: "Các điểm nhấn Ngân sách 2027 — Các biện pháp thuế, Phụ lục 1 (Rà soát Thuế suất Thuế thu nhập cho Cá nhân Cư trú) (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (Review of Income Tax Rates for Resident Individual))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian individual income tax rates"
 relations:
@@ -81,10 +90,41 @@ Các thuế suất áp dụng cho **thu nhập chịu thuế** — tổng thu nh
 được phép, trừ đi mọi khoản giảm trừ mà bạn đủ điều kiện. Không ai bị đánh thuế trên
 tiền lương.
 
+## Thuế suất cá nhân cư trú, YA2027 (được thông báo trong Ngân sách 2027)
+
+Ngân sách 2027 (trình ngày 9 tháng 10 năm 2026) đã thông báo một thang cư trú được
+**tái cấu trúc** **từ năm tính thuế 2027**, nhằm làm cho các dải giữa lũy tiến hơn.
+Các thay đổi: dải **70,001–100,000** giảm từ 19% xuống **18%**; một dải **mới
+100,001–150,000** chịu thuế **24%** (150,001–400,000 vẫn giữ ở 25%); dải cũ
+600,001–2,000,000 được tách ra nên **600,001–1,000,000 vẫn giữ ở 28%**; và **mức
+cao nhất 30% nay áp dụng trên RM1,000,000** (trước đây trên RM2,000,000).
+
+Đây là một **thông báo, chưa phải là luật** — nó chỉ có hiệu lực khi Finance Bill
+2027 được thông qua và đăng công báo. Bảng YA2023–YA2026 bên dưới vẫn chi phối cho
+đến lúc đó.
+
+| Thu nhập chịu thuế (RM) | Trên phần đầu (RM) | Thuế trên phần đó (RM) | Trên phần tiếp theo (RM) | Thuế suất trên phần vượt |
+| --- | --- | --- | --- | --- |
+| 0 – 5,000 | 5,000 | 0 | — | 0% |
+| 5,001 – 20,000 | 5,000 | 0 | 15,000 | 1% |
+| 20,001 – 35,000 | 20,000 | 150 | 15,000 | 3% |
+| 35,001 – 50,000 | 35,000 | 600 | 15,000 | 6% |
+| 50,001 – 70,000 | 50,000 | 1,500 | 20,000 | 11% |
+| 70,001 – 100,000 | 70,000 | 3,700 | 30,000 | 18% |
+| 100,001 – 150,000 | 100,000 | 9,100 | 50,000 | 24% |
+| 150,001 – 400,000 | 150,000 | 21,100 | 250,000 | 25% |
+| 400,001 – 600,000 | 400,000 | 83,600 | 200,000 | 26% |
+| 600,001 – 1,000,000 | 600,000 | 135,600 | 400,000 | 28% |
+| Trên 1,000,000 | 1,000,000 | 247,600 | mỗi đồng ringgit tiếp theo | 30% |
+
+Nguồn thông báo: Budget 2027 Touchpoints, Tax Measures Appendix 1 (Bộ Tài chính).
+
 ## Thuế suất cá nhân cư trú, YA2023 đến YA2026
 
 LHDN chú thích bảng này là **Tahun Taksiran 2023, 2024 & 2025**. Ngân sách 2026
 thông báo không có thay đổi nào đối với các dải, nên cùng thang này áp sang YA2026.
+Các mức này áp dụng **đến hết YA2026**; từ YA2027 thang được tái cấu trúc ở trên áp
+dụng một khi được ban hành.
 
 | Thu nhập chịu thuế (RM) | Trên phần đầu (RM) | Thuế trên phần đó (RM) | Trên phần tiếp theo (RM) | Thuế suất trên phần vượt |
 | --- | --- | --- | --- | --- |

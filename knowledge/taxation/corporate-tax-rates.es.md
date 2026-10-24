@@ -36,7 +36,8 @@ faq:
     a: "Una empresa existente presenta a más tardar 30 días antes del inicio del período base. Una empresa nueva cuyo primer período base sea de al menos seis meses presenta dentro de los tres meses de iniciar operaciones, con los plazos comenzando en el sexto mes. Se permiten revisiones en el 6.º, 9.º u 11.º mes."
 
 verificationNeeded:
-  - "Confirm whether Budget 2027 or any subsequent Finance Act alters the SME bands or the 20% foreign-ownership limb"
+  - "Budget 2027 announced the SME/MSME lower-band rates falling to 14% (first RM150,000) and 16% (next RM450,000) from YA2027 (MOF tax-measures Appendix 11) — confirm the final rates once the Finance Act 2027 is gazetted"
+  - "Confirm whether any subsequent Finance Act alters the 20% foreign-ownership limb"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"
@@ -53,7 +54,7 @@ obligations:
     consequence: "Penalty up to treble the tax under s.112(3); LHDN's published rates run 15% to 45% by lateness"
 
 lang: "es"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Se anotó la reducción de tipos para pymes/micropymes del YA2027 (14% / 16%) anunciada en el Presupuesto 2027 (anunciada, pendiente del Proyecto de Ley de Finanzas)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Ley 53), reimpresión al 21 de mayo de 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Junta de Ingresos Internos de Malasia (LHDN)"
     date: "2025-12-30"
+  - title: "Puntos de contacto del Presupuesto 2027 — Medidas fiscales, Apéndice 11 (Revisión de los tipos del impuesto sobre la renta para microempresas y pequeñas y medianas empresas) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministerio de Finanzas de Malasia (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -116,6 +125,14 @@ orientación publicada.
 | Pyme cualificada | Siguientes RM450,000 (hasta RM600,000) | **17%** |
 | Pyme cualificada | Por encima de RM600,000 | 24% |
 | Todas las demás, y no residentes | Toda la renta gravable | **24%** |
+
+**Anunciado para el YA2027 (Presupuesto 2027):** los tipos para pymes/micropymes
+en los dos tramos inferiores van a bajar 1 punto porcentual cada uno — **14%**
+sobre los primeros RM150,000 y **16%** sobre los siguientes RM450,000 (hasta
+RM600,000); por encima de RM600,000 se mantiene en el 24%. Este es un anuncio del
+Presupuesto 2027 (Apéndice 11 de las medidas fiscales), con efecto desde el año de
+evaluación 2027 y **aún no es ley** — los tipos del 15% / 17% de más arriba se
+aplican hasta el YA2026.
 
 ## Las tres condiciones para cualificar
 

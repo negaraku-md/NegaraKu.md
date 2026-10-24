@@ -28,10 +28,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Added the YA2027 relief changes announced in Budget 2027 (individual relief RM9,000→RM12,000, plus scope changes to parents, medical, education/skills, lifestyle, sports, tourism and SOCSO reliefs) — announced, pending the Finance Bill."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "The YA2027 relief changes are Budget 2027 announcements (MOF tax-measures Appendices 2–9), not yet enacted — confirm the final amounts and scope once the Finance Act 2027 is gazetted"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — Individual Tax Relief"
     url: "https://www.hasil.gov.my/en/individual/"
@@ -39,6 +51,10 @@ sources:
   - title: "Income Tax Act 1967"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "Attorney General's Chambers"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendices 2–9 (Review of Individual Income Tax Reliefs)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -117,6 +133,39 @@ you may be missing before you file.
   similar income, separate assessment is sometimes more efficient.
 - Missing the relief filing deadline itself — reliefs cannot be claimed
   retroactively outside the amendment window after Form BE/B is filed.
+
+## Announced for YA2027 (Budget 2027)
+
+Budget 2027 (tabled 9 October 2026) announced several relief changes **from the
+year of assessment 2027**. These are **announcements, not yet law** — they take
+effect only once the Finance Bill 2027 is passed, so they do not change what you
+claim for YA2025 or YA2026.
+
+- **Individual and dependent relatives** — the self relief rises from **RM9,000
+  to RM12,000**.
+- **Parents and grandparents (RM8,000)** — the care-expenses limb is widened to
+  cover **all types of care** at home, day-care and residential centres (not only
+  medical care), with simpler documentation (a carer declaration or work permit
+  plus receipts, no registered-practitioner verification).
+- **Medical treatment (RM10,000)** — the limit is kept and the scope broadened
+  into a "Health and Well-being" relief, folding in the breastfeeding-equipment
+  relief.
+- **Education fees (RM7,000)** — refocused as an "Education and skills" relief;
+  up-skilling and self-enhancement course fees for self or spouse are claimable
+  up to **RM3,000** within the RM7,000 cap (the old lifestyle up-skilling sub-limit
+  is merged in).
+- **Lifestyle (RM2,500)** — scope expanded to include **subscriptions**; the
+  RM2,500 cap is unchanged.
+- **Sports-related lifestyle (RM1,000)** — scope expanded to include the purchase
+  of **sports shoes up to RM300**; the RM1,000 cap is unchanged.
+- **Tourism expenses (up to RM1,000)** — the relief is **extended for one more
+  year, to YA2027**.
+- **SOCSO contributions (RM350)** — scope expanded to cover mandatory
+  Self-Employment Social Security (LINDUNG KENDIRI) contributions for the three
+  mandatory self-employment sectors (passenger transport, goods/food delivery and
+  hawkers); the RM350 cap is unchanged.
+
+Announced source: Budget 2027 Touchpoints, Tax Measures Appendices 2–9 (Ministry of Finance).
 
 ## What's next
 

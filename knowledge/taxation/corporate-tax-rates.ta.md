@@ -36,7 +36,8 @@ faq:
     a: "தற்போதுள்ள ஒரு கம்பெனி, அடிப்படைக் காலம் தொடங்குவதற்கு 30 நாட்களுக்கு முன்னதாகத் தாக்கல் செய்ய வேண்டும். முதல் அடிப்படைக் காலம் குறைந்தது ஆறு மாதங்கள் உள்ள ஒரு புதிய கம்பெனி, செயல்பாடுகளைத் தொடங்கிய மூன்று மாதங்களுக்குள் தாக்கல் செய்கிறது, தவணைகள் ஆறாவது மாதத்தில் தொடங்குகின்றன. திருத்தங்கள் 6ஆவது, 9ஆவது அல்லது 11ஆவது மாதத்தில் அனுமதிக்கப்படுகின்றன."
 
 verificationNeeded:
-  - "Budget 2027 அல்லது அதைத் தொடர்ந்து வரும் எந்த Finance Act-ஆவது SME அடுக்குகளையோ அல்லது 20% வெளிநாட்டு-உரிமையாண்மைக் கூறையோ மாற்றுகிறதா என்பதை உறுதிப்படுத்தவும்"
+  - "Budget 2027, SME/MSME கீழ்-அடுக்கு விகிதங்கள் YA2027 முதல் 14% (முதல் RM150,000) மற்றும் 16% (அடுத்த RM450,000) என்றாகக் குறைவதை அறிவித்தது (MOF tax-measures Appendix 11) — Finance Act 2027 வர்த்தமானியில் வெளியிடப்பட்டவுடன் இறுதி விகிதங்களை உறுதிப்படுத்தவும்"
+  - "அதைத் தொடர்ந்து வரும் எந்த Finance Act-ஆவது 20% வெளிநாட்டு-உரிமையாண்மைக் கூறை மாற்றுகிறதா என்பதை உறுதிப்படுத்தவும்"
 
 obligations:
   - what: "செலுத்தத்தக்க வரியின் CP204 மதிப்பீட்டைச் சமர்ப்பிக்கவும்"
@@ -53,7 +54,7 @@ obligations:
     consequence: "Penalty up to treble the tax under s.112(3); LHDN's published rates run 15% to 45% by lateness"
 
 lang: "ta"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Budget 2027-இல் அறிவிக்கப்பட்ட YA2027 SME/MSME விகிதக் குறைப்பை (14% / 16%) குறிப்பிட்டது (அறிவிக்கப்பட்டது, Finance Bill நிலுவையில்)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), 21 மே 2024 நிலவரப்படி மறுபதிப்பு (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "உள்நாட்டு வருவாய் வாரியம் (LHDN)"
     date: "2025-12-30"
+  - title: "Budget 2027 Touchpoints — வரி நடவடிக்கைகள், Appendix 11 (நுண், சிறு மற்றும் நடுத்தர நிறுவனங்களுக்கான வருமான வரி விகிதங்களின் மறுஆய்வு) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "நிதி அமைச்சகம் (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -116,6 +125,13 @@ keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai 
 | தகுதியுள்ள SME | அடுத்த RM450,000 (RM600,000 வரை) | **17%** |
 | தகுதியுள்ள SME | RM600,000-க்கு மேல் | 24% |
 | மற்ற அனைவரும், மற்றும் குடியிருப்பாளரல்லாதவர்கள் | வரி விதிக்கத்தக்க வருமானம் அனைத்தும் | **24%** |
+
+**YA2027-க்கு அறிவிக்கப்பட்டது (Budget 2027):** இரு கீழ்-அடுக்குகளின் மீதான
+SME/MSME விகிதங்கள் தலா 1 சதவீதப் புள்ளி குறைய உள்ளன — முதல் RM150,000-க்கு
+**14%**, அடுத்த RM450,000-க்கு (RM600,000 வரை) **16%**; RM600,000-க்கு மேல்
+24%-இல் தொடர்கிறது. இது ஒரு Budget 2027 அறிவிப்பு (tax-measures Appendix 11),
+மதிப்பீட்டு ஆண்டு 2027 முதல் நடைமுறைக்கு வருகிறது, மேலும் **இன்னும் சட்டம்
+அல்ல** — மேலுள்ள 15% / 17% விகிதங்கள் YA2026 வரை பொருந்தும்.
 
 ## தகுதி பெற வேண்டிய மூன்று நிபந்தனைகள்
 

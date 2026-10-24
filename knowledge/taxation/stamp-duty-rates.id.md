@@ -27,9 +27,10 @@ verificationNeeded:
   - "Bea pada item 2, afidavit dan deklarasi statutori, tidak dapat dibaca dengan jelas dari teks terpadu akibat ketidaksejajaran kolom dan oleh karena itu ditinggalkan dari tabel"
   - "Perintah pengecualian dan pembebasan bea meterai yang berlaku saat ini tidak tercantum secara menyeluruh; indeks perintah bea meterai LHDN sendiri tidak mencantumkan apa pun setelah P.U.(A) 470/2024 dan tampaknya usang, jadi ambang pengecualian rumah pertama dan lainnya yang terkini perlu dibaca dari Warta Persekutuan"
   - "Item 12 (penyerahan hak) telah diganti oleh Act 862 dan jalur asuransi jiwanya yang direvisi tidak diterbitkan ulang di sini"
+  - "Pengecualian bea meterai rumah pertama yang ditingkatkan (100% hingga RM500,000, ditambah 50% atas RM500,001–750,000) bagi perjanjian jual beli (SPA) yang ditandatangani 1 Jan 2027–31 Des 2030 adalah pengumuman Anggaran 2027 (Appendix 16 langkah pajak MOF), belum diwartakan — konfirmasikan perintah P.U.(A) begitu dibuat"
 
 lang: "id"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,14 +39,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Mencatat pengecualian bea meterai rumah pertama yang ditingkatkan (lapisan baru 50% bagi RM500,001–750,000) dan pengecualian revitalisasi perumahan terbengkalai sebagaimana diumumkan dalam Anggaran 2027 (diumumkan, menunggu warta)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), Jadwal Pertama, teks per 1 Januari 2024 (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -65,6 +70,10 @@ sources:
   - title: "Pengecualian dan Pembebasan Bea Meterai (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/duti-setem/pengecualian-dan-relief/"
     publisher: "Badan Pendapatan Dalam Negeri Malaysia (LHDN)"
+  - title: "Titik Sentuh Anggaran 2027 — Langkah Pajak, Appendix 16–17 (Pengecualian Bea Meterai bagi Rumah Hunian Pertama; Revitalisasi Proyek Perumahan Terbengkalai) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -220,6 +229,20 @@ Terpisah dari itu, **pembebasan di bawah Pasal 15 dan Pasal 15A** mencakup
 rekonstruksi dan penggabungan perusahaan, serta pengalihan harta tanah antara
 perusahaan terkait. Permohonan diajukan kepada Kantor Direktur Negeri yang
 berkenaan, bukan melalui jalur pemeteraian biasa.
+
+**Rumah hunian pertama (saat ini):** warga negara Malaysia yang membeli rumah
+pertama mereka dengan harga hingga **RM500,000** mendapat pengecualian **100%**
+atas instrumen pengalihan dan perjanjian pinjaman, bagi perjanjian jual beli yang
+ditandatangani dari 1 Januari 2021 hingga 31 Desember 2027.
+
+**Diumumkan bagi 2027 (Anggaran 2027):** bagi perjanjian jual beli yang
+ditandatangani dari **1 Januari 2027 hingga 31 Desember 2030**, pengecualian rumah
+pertama ditingkatkan — rumah hingga RM500,000 tetap mendapat pengecualian **100%**,
+dan rumah hingga **RM750,000** mendapat **100% atas RM500,000 pertama ditambah 50%
+atas bagian dari RM500,001 hingga RM750,000**. Pengecualian 100% terpisah bagi
+revitalisasi proyek perumahan terbengkalai diperkenalkan kembali bagi instrumen
+yang ditandatangani 1 Januari 2027 hingga 31 Desember 2030. Ini adalah pengumuman
+Anggaran 2027 (Appendix 16–17 langkah pajak), belum diwartakan.
 
 ## Kesalahan umum
 

@@ -28,9 +28,10 @@ verificationNeeded:
   - "Thuế đối với mục 2, bản khai có tuyên thệ (affidavits) và tuyên bố theo luật định (statutory declarations), không thể đọc được rõ ràng từ văn bản hợp nhất do lệch cột và do đó bị bỏ khỏi bảng"
   - "Các lệnh miễn trừ và giảm thuế trước bạ hiện đang có hiệu lực không được liệt kê đầy đủ; chỉ mục lệnh thuế trước bạ của chính LHDN không liệt kê gì sau P.U.(A) 470/2024 và có vẻ đã cũ, nên các ngưỡng miễn trừ nhà đầu tiên và các miễn trừ hiện hành khác nên được đọc từ Công báo Liên bang"
   - "Mục 12 (chuyển giao quyền, assignment) đã được thay thế bởi Act 862 và các khoảng bảo hiểm nhân thọ đã sửa đổi của nó không được tái hiện ở đây"
+  - "Việc miễn thuế trước bạ nhà đầu tiên được tăng cường (100% đến RM500,000, cộng 50% trên RM500,001–750,000) cho các thỏa thuận mua bán (SPA) được ký từ ngày 1 tháng 1 năm 2027 đến ngày 31 tháng 12 năm 2030 là một thông báo của Ngân sách 2027 (MOF tax-measures Appendix 16), chưa được đăng công báo — xác nhận lệnh P.U.(A) một khi được ban hành"
 
 lang: "vi"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,14 +40,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ghi nhận việc miễn thuế trước bạ nhà đầu tiên được tăng cường (tầng 50% mới cho RM500,001–750,000) và việc miễn thuế hồi sinh dự án nhà ở bị bỏ hoang được thông báo trong Ngân sách 2027 (đã thông báo, đang chờ đăng công báo)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), Phụ lục Thứ nhất, văn bản tính đến ngày 1 tháng 1 năm 2024 (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -66,6 +71,10 @@ sources:
   - title: "Miễn và Giảm Thuế tem (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "Cục Thuế Nội địa Malaysia (LHDN)"
+  - title: "Các điểm nhấn Ngân sách 2027 — Các biện pháp thuế, Phụ lục 16–17 (Miễn Thuế trước bạ cho Nhà ở Đầu tiên; Hồi sinh các Dự án Nhà ở Bị bỏ hoang) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -217,6 +226,20 @@ Riêng biệt, **giảm trừ theo s.15 và s.15A** áp dụng cho việc tái c
 nhất công ty, và chuyển nhượng bất động sản giữa các công ty liên kết. Đơn được
 nộp đến Văn phòng Giám đốc bang liên quan, chứ không qua kênh đóng dấu thông
 thường.
+
+**Nhà ở đầu tiên (hiện hành):** công dân Malaysia mua căn nhà đầu tiên của mình có
+giá tới **RM500,000** được **miễn 100%** trên chứng thư chuyển nhượng và thỏa thuận
+vay, đối với các thỏa thuận mua bán được ký từ ngày 1 tháng 1 năm 2021 đến ngày 31
+tháng 12 năm 2027.
+
+**Được thông báo cho năm 2027 (Ngân sách 2027):** đối với các thỏa thuận mua bán
+được ký từ **ngày 1 tháng 1 năm 2027 đến ngày 31 tháng 12 năm 2030**, việc miễn thuế
+nhà đầu tiên được tăng cường — nhà có giá tới RM500,000 giữ mức **miễn 100%**, và nhà
+có giá tới **RM750,000** được **miễn 100% trên RM500,000 đầu tiên cộng 50% trên phần
+từ RM500,001 đến RM750,000**. Một khoản miễn 100% riêng cho việc hồi sinh các dự án
+nhà ở bị bỏ hoang được tái áp dụng cho các chứng thư được ký từ ngày 1 tháng 1 năm
+2027 đến ngày 31 tháng 12 năm 2030. Đây là các thông báo của Ngân sách 2027
+(tax-measures Appendices 16–17), chưa được đăng công báo.
 
 ## Những sai lầm phổ biến
 

@@ -27,25 +27,30 @@ verificationNeeded:
   - "Duti pada item 2, afidavit dan akuan berkanun, tidak dapat dibaca dengan jelas daripada teks bersepadu disebabkan ketaksejajaran lajur dan oleh itu ditinggalkan daripada jadual"
   - "Perintah pengecualian dan pelepasan duti setem yang berkuat kuasa semasa tidak disenaraikan secara menyeluruh; indeks perintah duti setem LHDN sendiri tidak menyenaraikan apa-apa selepas P.U.(A) 470/2024 dan nampaknya lapuk, jadi ambang pengecualian rumah pertama dan lain-lain semasa perlu dibaca daripada Warta Persekutuan"
   - "Item 12 (penyerahan hak) telah diganti oleh Act 862 dan jalur insurans hayatnya yang disemak semula tidak dikeluarkan semula di sini"
+  - "Pengecualian duti setem rumah pertama yang dipertingkatkan (100% sehingga RM500,000, serta 50% ke atas RM500,001–750,000) bagi perjanjian jual beli yang disempurnakan 1 Januari 2027–31 Disember 2030 ialah pengumuman Bajet 2027 (Appendix 16 langkah cukai MOF), belum diwartakan — sahkan perintah P.U.(A) sebaik sahaja dibuat"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Mencatatkan pengecualian duti setem rumah pertama yang dipertingkatkan (lapisan 50% baharu bagi RM500,001–750,000) dan pengecualian pemulihan perumahan terbengkalai yang diumumkan dalam Bajet 2027 (diumumkan, menunggu warta)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), Jadual Pertama, teks setakat 1 Januari 2024 (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -65,6 +70,10 @@ sources:
   - title: "Pengecualian dan Pelepasan Duti Setem (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/duti-setem/pengecualian-dan-relief/"
     publisher: "Lembaga Hasil Dalam Negeri Malaysia (LHDN)"
+  - title: "Sentuhan Belanjawan 2027 — Langkah Cukai, Appendices 16–17 (Pengecualian Duti Setem bagi Rumah Kediaman Pertama; Pemulihan Projek Perumahan Terbengkalai) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -225,6 +234,21 @@ Berasingan daripada itu, **pelepasan di bawah s.15 dan s.15A** meliputi
 pembinaan semula dan penggabungan syarikat, serta pindahan harta tanah antara
 syarikat berkaitan. Permohonan dikemukakan kepada Pejabat Pengarah Negeri
 yang berkenaan, bukan melalui saluran penyeteman biasa.
+
+**Rumah kediaman pertama (semasa):** warganegara Malaysia yang membeli rumah
+pertama mereka berharga sehingga **RM500,000** mendapat pengecualian **100%** ke
+atas suratcara pindah milik dan perjanjian pinjaman, bagi perjanjian jual beli
+yang disempurnakan dari 1 Januari 2021 hingga 31 Disember 2027.
+
+**Diumumkan untuk 2027 (Bajet 2027):** bagi perjanjian jual beli yang
+disempurnakan dari **1 Januari 2027 hingga 31 Disember 2030**, pengecualian rumah
+pertama dipertingkatkan — rumah sehingga RM500,000 mengekalkan pengecualian
+**100%**, dan rumah sehingga **RM750,000** mendapat **100% ke atas RM500,000
+pertama serta 50% ke atas bahagian dari RM500,001 hingga RM750,000**. Satu
+pengecualian 100% berasingan bagi pemulihan projek perumahan terbengkalai
+diperkenalkan semula bagi suratcara yang disempurnakan 1 Januari 2027 hingga
+31 Disember 2030. Ini ialah pengumuman Bajet 2027 (Appendices 16–17 langkah
+cukai), belum diwartakan.
 
 ## Kesilapan biasa
 

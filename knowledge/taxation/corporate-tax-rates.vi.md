@@ -36,7 +36,8 @@ faq:
     a: "Một công ty hiện hữu nộp không muộn hơn 30 ngày trước khi kỳ cơ sở bắt đầu. Một công ty mới có kỳ cơ sở đầu tiên ít nhất sáu tháng nộp trong vòng ba tháng kể từ khi bắt đầu hoạt động, với các đợt nộp bắt đầu từ tháng thứ sáu. Các sửa đổi được phép trong tháng thứ 6, thứ 9 hoặc thứ 11."
 
 verificationNeeded:
-  - "Xác nhận liệu Budget 2027 hay bất kỳ Finance Act nào sau đó có thay đổi các bậc thuế áp dụng cho SME hoặc nhánh sở hữu nước ngoài 20% hay không"
+  - "Ngân sách 2027 đã thông báo các mức thuế bậc thấp của SME/MSME giảm xuống 14% (RM150,000 đầu tiên) và 16% (RM450,000 tiếp theo) từ YA2027 (MOF tax-measures Appendix 11) — xác nhận các mức thuế cuối cùng một khi Finance Act 2027 được đăng công báo"
+  - "Xác nhận liệu bất kỳ Finance Act nào sau đó có thay đổi nhánh sở hữu nước ngoài 20% hay không"
 
 obligations:
   - what: "Nộp dự toán thuế phải nộp CP204"
@@ -53,7 +54,7 @@ obligations:
     consequence: "Hình phạt lên tới gấp ba số thuế theo s.112(3); các mức được LHDN công bố chạy từ 15% đến 45% theo mức độ muộn"
 
 lang: "vi"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ghi nhận việc giảm mức thuế SME/MSME cho YA2027 (14% / 16%) được thông báo trong Ngân sách 2027 (đã thông báo, đang chờ Finance Bill)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), bản in lại tính đến ngày 21 tháng 5 năm 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Cục Thuế Nội địa (LHDN)"
     date: "2025-12-30"
+  - title: "Các điểm nhấn Ngân sách 2027 — Các biện pháp thuế, Phụ lục 11 (Rà soát Thuế suất Thuế thu nhập cho Doanh nghiệp Siêu nhỏ, Nhỏ và Vừa) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -115,6 +124,13 @@ và thiếu trong hầu hết các hướng dẫn được công bố.
 | SME đủ điều kiện | RM450,000 tiếp theo (đến RM600,000) | **17%** |
 | SME đủ điều kiện | Trên RM600,000 | 24% |
 | Mọi người khác, và người không cư trú | Toàn bộ thu nhập chịu thuế | **24%** |
+
+**Được thông báo cho YA2027 (Ngân sách 2027):** các mức thuế SME/MSME trên hai bậc
+thấp được ấn định giảm 1 điểm phần trăm mỗi bậc — **14%** trên RM150,000 đầu tiên và
+**16%** trên RM450,000 tiếp theo (đến RM600,000); trên RM600,000 vẫn giữ ở 24%. Đây
+là một thông báo của Ngân sách 2027 (tax-measures Appendix 11), có hiệu lực từ năm
+tính thuế 2027 và **chưa phải là luật** — các mức 15% / 17% ở trên áp dụng đến hết
+YA2026.
 
 ## Ba điều kiện để đủ điều kiện
 

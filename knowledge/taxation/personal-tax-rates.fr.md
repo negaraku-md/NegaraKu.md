@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0055
-title: "Taux de l'impôt sur le revenu des personnes physiques en Malaisie — de l'AE2023 à l'AE2026"
+title: "Taux de l'impôt sur le revenu des personnes physiques en Malaisie — de l'AE2023 à l'AE2027"
 seoTitle: "Taux de l'impôt sur le revenu des personnes physiques en Malaisie par année d'imposition"
 slug: "personal-tax-rates"
 category: "taxation"
@@ -12,10 +12,10 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Les personnes physiques résidentes sont imposées selon un barème à neuf échelons, de 0 % sur les premiers RM5,000 de revenu imposable à 30 % au-delà de RM2,000,000. La LHDN intitule la table actuelle pour les années d'imposition 2023, 2024 et 2025, et le Budget 2026 n'a annoncé aucun changement des tranches. Les non-résidents paient 30 % forfaitaire en vertu du Schedule 1 Part I paragraph 1A."
+answer: "Les personnes physiques résidentes sont imposées selon un barème progressif, de 0 % sur les premiers RM5,000 de revenu imposable à un taux supérieur de 30 %. Pour l'AE2023 à l'AE2026, le taux de 30 % s'applique au-delà de RM2,000,000 ; le Budget 2026 a laissé les tranches inchangées. Le Budget 2027 a annoncé un barème restructuré à partir de l'AE2027 — la tranche 70,001–100,000 tombe à 18 %, une nouvelle tranche 100,001–150,000 est imposée à 24 %, et le taux supérieur de 30 % s'applique au-delà de RM1,000,000 (annoncé, en attente du Finance Bill). Les non-résidents paient 30 % forfaitaire en vertu du Schedule 1 Part I paragraph 1A."
 keyTakeaways:
-  - "La structure des tranches est inchangée depuis l'AE2023 et le Budget 2026 ne l'a pas modifiée"
-  - "Le taux marginal supérieur est de 30 % au-delà de RM2,000,000 de revenu imposable"
+  - "La structure des tranches est restée inchangée de l'AE2023 à l'AE2026 ; le Budget 2027 a annoncé un barème restructuré à partir de l'AE2027 (en attente du Finance Bill)"
+  - "Le taux marginal supérieur est de 30 % au-delà de RM2,000,000 (AE2023–AE2026), et s'applique au-delà de RM1,000,000 à partir de l'AE2027 comme annoncé dans le Budget 2027"
   - "Les personnes physiques non-résidentes paient 30 % forfaitaire sans réduction personnelle et sans ristourne"
   - "La ristourne de RM400 ne s'applique que lorsque le revenu imposable n'excède pas RM35,000"
   - "À partir de l'AE2025, le revenu de dividendes des personnes physiques au-delà de RM100,000 supporte 2 % supplémentaires"
@@ -24,7 +24,7 @@ appliesTo: "Toute personne physique calculant l'impôt malaisien sur le revenu, 
 
 faq:
   - q: "Quels sont les taux de l'impôt sur le revenu des personnes physiques en Malaisie ?"
-    a: "Le barème des résidents est de 0 %, 1 %, 3 %, 6 %, 11 %, 19 %, 25 %, 26 %, 28 % et 30 %. Le taux de 30 % s'applique au revenu imposable au-delà de RM2,000,000. La LHDN publie cette table pour les années d'imposition 2023, 2024 et 2025, et le Budget 2026 n'a annoncé aucun changement des tranches."
+    a: "Pour l'AE2023 à l'AE2026, le barème des résidents est de 0 %, 1 %, 3 %, 6 %, 11 %, 19 %, 25 %, 26 %, 28 % et 30 %, le taux de 30 % s'appliquant au-delà de RM2,000,000 ; la LHDN publie cette table pour les années d'imposition 2023, 2024 et 2025 et le Budget 2026 n'a annoncé aucun changement. Le Budget 2027 a annoncé un barème restructuré à partir de l'AE2027 : la tranche 70,001–100,000 tombe à 18 %, une nouvelle tranche 100,001–150,000 est imposée à 24 % (150,001–400,000 reste à 25 %), et le taux supérieur de 30 % s'applique au-delà de RM1,000,000 — annoncé, en attente du Finance Bill."
   - q: "À partir de quel revenu commence-t-on à payer l'impôt en Malaisie ?"
     a: "L'impôt est prélevé dès le premier ringgit au-delà de RM5,000 de revenu imposable, mais le revenu imposable est ce qui reste après la réduction individuelle de RM9,000 de la s.46(1)(a) et toutes les autres réductions. Un résident dont le revenu imposable est de RM35,000 ou moins reçoit en outre la ristourne de RM400 de la s.6A(2), qui annule l'impôt à ce niveau."
   - q: "Quel est le taux d'imposition pour les étrangers en Malaisie ?"
@@ -34,10 +34,11 @@ faq:
 
 verificationNeeded:
   - "LHDN still captions its rate table Tahun Taksiran 2023, 2024 and 2025. The YA2026 position here rests on the Budget 2026 announcement that the bands are unchanged, not on a re-captioned LHDN table — re-check the Kadar Cukai page once YA2026 filing opens"
+  - "The YA2027 restructured scale is a Budget 2027 announcement (MOF tax-measures Appendix 1), not yet enacted — confirm the final bands once the Finance Act 2027 is gazetted and LHDN re-captions its Kadar Cukai table"
   - "Confirm whether the 2% dividend layer under Schedule 1 Part XXII applies to non-resident individuals as well as residents; the rate table itself does not say"
 
 lang: "fr"
-sourceContentHash: "8166bbfff56fa0fe"
+sourceContentHash: "371047566bf2d3a1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -46,14 +47,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ajout du barème restructuré pour les résidents à partir de l'AE2027 annoncé dans le Budget 2027 (annoncé, en attente du Finance Bill) ; conservation de la table AE2023–AE2026 comme table en vigueur."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Taux d'imposition — Personnes physiques (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
@@ -67,6 +72,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Cabinet du Procureur général (Attorney General's Chambers)"
     date: "2024-05-21"
+  - title: "Budget 2027 Touchpoints — Mesures fiscales, Annexe 1 (Révision des taux de l'impôt sur le revenu des personnes physiques résidentes) (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (Review of Income Tax Rates for Resident Individual))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances de Malaisie (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Malaysian individual income tax rates"
 relations:
@@ -81,11 +90,43 @@ Les taux s'appliquent au **revenu imposable** — le revenu brut moins les dépe
 déductibles, moins chaque réduction à laquelle vous avez droit. Personne n'est
 imposé sur son salaire.
 
+## Taux pour les personnes physiques résidentes, AE2027 (annoncé dans le Budget 2027)
+
+Le Budget 2027 (déposé le 9 octobre 2026) a annoncé un barème résident
+**restructuré** **à partir de l'année d'imposition 2027**, afin de rendre les
+tranches intermédiaires plus progressives. Les changements : la tranche
+**70,001–100,000** tombe de 19 % à **18 %** ; une **nouvelle tranche
+100,001–150,000** est imposée à **24 %** (150,001–400,000 reste à 25 %) ;
+l'ancienne tranche 600,001–2,000,000 est scindée de sorte que
+**600,001–1,000,000 reste à 28 %** ; et le **taux supérieur de 30 % s'applique
+désormais au-delà de RM1,000,000** (auparavant au-delà de RM2,000,000).
+
+Il s'agit d'une **annonce, pas encore en vigueur** — elle ne prend effet que
+lorsque le Finance Bill 2027 est adopté et publié au journal officiel. La table
+AE2023–AE2026 ci-dessous continue de régir jusqu'à cette date.
+
+| Revenu imposable (RM) | Sur les premiers (RM) | Impôt sur ce montant (RM) | Sur les suivants (RM) | Taux sur l'excédent |
+| --- | --- | --- | --- | --- |
+| 0 – 5,000 | 5,000 | 0 | — | 0% |
+| 5,001 – 20,000 | 5,000 | 0 | 15,000 | 1% |
+| 20,001 – 35,000 | 20,000 | 150 | 15,000 | 3% |
+| 35,001 – 50,000 | 35,000 | 600 | 15,000 | 6% |
+| 50,001 – 70,000 | 50,000 | 1,500 | 20,000 | 11% |
+| 70,001 – 100,000 | 70,000 | 3,700 | 30,000 | 18% |
+| 100,001 – 150,000 | 100,000 | 9,100 | 50,000 | 24% |
+| 150,001 – 400,000 | 150,000 | 21,100 | 250,000 | 25% |
+| 400,001 – 600,000 | 400,000 | 83,600 | 200,000 | 26% |
+| 600,001 – 1,000,000 | 600,000 | 135,600 | 400,000 | 28% |
+| Au-delà de 1,000,000 | 1,000,000 | 247,600 | chaque ringgit supplémentaire | 30% |
+
+Source annoncée : Budget 2027 Touchpoints, Tax Measures Appendix 1 (Ministère des Finances).
+
 ## Taux pour les personnes physiques résidentes, de l'AE2023 à l'AE2026
 
 La LHDN intitule cette table **Tahun Taksiran 2023, 2024 & 2025**. Le Budget 2026
 n'a annoncé aucun changement des tranches, de sorte que le même barème se reporte
-sur l'AE2026.
+sur l'AE2026. Ces taux s'appliquent **jusqu'à l'AE2026** ; à partir de l'AE2027,
+le barème restructuré ci-dessus s'applique une fois adopté.
 
 | Revenu imposable (RM) | Sur les premiers (RM) | Impôt sur ce montant (RM) | Sur les suivants (RM) | Taux sur l'excédent |
 | --- | --- | --- | --- | --- |

@@ -36,7 +36,8 @@ faq:
     a: "기존 회사는 기준기간 시작 30일 전보다 늦지 않게 제출합니다. 첫 기준기간이 6개월 이상인 신규 회사는 영업 개시 후 3개월 이내에 제출하며, 분납은 여섯 번째 달에 시작됩니다. 수정은 6번째, 9번째 또는 11번째 달에 허용됩니다."
 
 verificationNeeded:
-  - "2027년 예산안 또는 이후의 재정법이 중소기업 구간이나 20% 외국인 소유 요건을 변경하는지 확인하십시오"
+  - "2027년 예산안은 YA2027부터 중소기업/마이크로·중소기업 하위 구간 세율이 14%(처음 RM150,000)와 16%(다음 RM450,000)로 낮아진다고 발표했습니다(MOF tax-measures Appendix 11) — Finance Act 2027이 관보에 게재되면 최종 세율을 확인하십시오"
+  - "이후의 재정법이 20% 외국인 소유 요건을 변경하는지 확인하십시오"
 
 obligations:
   - what: "CP204 납부세액 추정 제출"
@@ -53,7 +54,7 @@ obligations:
     consequence: "제112(3)조에 따라 세액의 최대 3배의 벌금; 말레이시아 국세청(LHDN)의 공표 세율은 지연 정도에 따라 15%에서 45%에 이릅니다"
 
 lang: "ko"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "2027년 예산안에서 발표된 YA2027 중소기업/마이크로·중소기업 세율 인하(14% / 16%)를 반영(발표 단계로, 재정법안 통과 대기 중)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), 2024년 5월 21일 기준 재판 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "내국세입청 (LHDN)"
     date: "2025-12-30"
+  - title: "2027년 예산안 세부지침 — 조세 조치, Appendix 11 (마이크로·중소기업 소득세율 검토) (Budget 2027 Touchpoints — Tax Measures, Appendix 11)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "말레이시아 재무부"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -112,6 +121,12 @@ keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai 
 | 자격을 갖춘 중소기업 | 다음 RM450,000(RM600,000까지) | **17%** |
 | 자격을 갖춘 중소기업 | RM600,000 초과 | 24% |
 | 그 밖의 모두, 그리고 비거주자 | 전체 과세소득 | **24%** |
+
+**YA2027 발표 (2027년 예산안):** 중소기업/마이크로·중소기업 세율은 두 개의 하위
+구간에서 각각 1%포인트씩 낮아질 예정입니다 — 처음 RM150,000에 대해 **14%**, 다음
+RM450,000(RM600,000까지)에 대해 **16%**이며, RM600,000 초과분은 24%로 유지됩니다.
+이는 2027년 예산안 발표(tax-measures Appendix 11)로, YA2027부터 효력이 발생하며
+**아직 법률이 아닙니다** — 위의 15% / 17% 세율은 YA2026까지 적용됩니다.
 
 ## 자격을 갖추기 위한 세 가지 조건
 

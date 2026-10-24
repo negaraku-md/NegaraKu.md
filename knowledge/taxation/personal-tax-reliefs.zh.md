@@ -22,7 +22,7 @@ appliesTo: "正在准备年度 Form BE／B 呈报、并在查看自己可以申�
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "3aaef5bbc4ffdb87"
+sourceContentHash: "dd101bcd8f9b2a8a"
 
 status: "published"
 aiAssisted: true
@@ -30,10 +30,22 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "加入 Budget 2027 宣布的 YA2027 减免改动（个人减免 RM9,000→RM12,000，以及父母、医疗、教育／技能、生活方式、运动、旅游与 SOCSO 减免的范围改动）——已宣布，待《财政法案》通过。"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "YA2027 的减免改动属 Budget 2027 的宣布（MOF 税务措施 Appendices 2–9），尚未立法——一旦 Finance Act 2027 刊宪，请确认最终金额与范围"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — 个人税务减免 (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/en/individual/"
@@ -41,6 +53,10 @@ sources:
   - title: "Income Tax Act 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "马来西亚总检察署"
+  - title: "2027年财政预算案要点 — 税务措施，Appendices 2–9（检讨个人所得税减免） (Budget 2027 Touchpoints — Tax Measures, Appendices 2–9 (Review of Individual Income Tax Reliefs))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "马来西亚财政部 (MOF)"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -102,6 +118,30 @@ keywords: ["Malaysia tax relief", "pelepasan cukai individu", "tax relief checkl
 - 以为联合评税永远比较好——对两名收入相近的双薪配偶而言，个别评税有时更有效率。
 - 错过减免的呈报期限本身——在 Form BE／B 呈报之后的修订窗口之外，减免不能追溯
   申索。
+
+## YA2027 宣布（Budget 2027）
+
+Budget 2027（于 2026 年 10 月 9 日提呈）宣布了多项**自 2027 课税年起**的减免改动。
+这些是**宣布，尚未成为法律**——它们只在《2027 年财政法案》通过后才生效，因此不会
+改变你就 YA2025 或 YA2026 所申索的内容。
+
+- **个人与受抚养亲属**——本人减免由 **RM9,000 提高至 RM12,000**。
+- **父母与祖父母（RM8,000）**——看护开支一项扩大至涵盖在家中、日间看护及留宿中心
+  的**所有类型看护**（不限于医疗看护），并简化文件要求（看护者声明或工作准证加
+  收据，无须注册执业人员核证）。
+- **医疗（RM10,000）**——上限维持，范围扩大为「健康与福祉」（Health and
+  Well-being）减免，并把哺乳器材减免并入其中。
+- **教育费用（RM7,000）**——重新定位为「教育与技能」（Education and skills）减免；
+  本人或配偶的技能提升与自我增值课程费用，可在 RM7,000 上限内申索最多 **RM3,000**
+  （旧有生活方式项下的技能提升子上限并入其中）。
+- **生活方式（RM2,500）**——范围扩大至涵盖**订阅**；RM2,500 上限不变。
+- **运动相关生活方式（RM1,000）**——范围扩大至涵盖购买**最多 RM300 的运动鞋**；
+  RM1,000 上限不变。
+- **旅游开支（最多 RM1,000）**——该减免**延长一年，至 YA2027**。
+- **SOCSO 缴纳（RM350）**——范围扩大至涵盖三个强制自雇领域（载客运输、货物／食物
+  递送及小贩）的强制自雇社会保障（LINDUNG KENDIRI）缴纳；RM350 上限不变。
+
+宣布来源：Budget 2027 要点，税务措施 Appendices 2–9（财政部）。
 
 ## 下一步
 

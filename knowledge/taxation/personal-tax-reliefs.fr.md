@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Contribuables individuels préparant leur déclaration annuelle sur le Formulaire BE/B et vérifiant quelles réductions ils peuvent réclamer."
 
 lang: "fr"
-sourceContentHash: "3aaef5bbc4ffdb87"
+sourceContentHash: "dd101bcd8f9b2a8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,10 +30,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ajout des modifications des réductions pour l'AE2027 annoncées dans le Budget 2027 (réduction individuelle RM9,000→RM12,000, plus modifications de la portée des réductions pour parents, frais médicaux, éducation/compétences, mode de vie, sport, tourisme et SOCSO) — annoncées, en attente du Finance Bill."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "Les modifications des réductions pour l'AE2027 sont des annonces du Budget 2027 (MOF tax-measures Appendices 2–9), pas encore en vigueur — confirmer les montants et la portée définitifs une fois la Finance Act 2027 publiée au journal officiel"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — Réduction d'impôt individuelle (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/en/individual/"
@@ -41,6 +53,10 @@ sources:
   - title: "Loi de 1967 sur l'impôt sur le revenu (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "Cabinet du Procureur général (Attorney General's Chambers)"
+  - title: "Budget 2027 Touchpoints — Mesures fiscales, Annexes 2–9 (Révision des réductions de l'impôt sur le revenu des personnes physiques) (Budget 2027 Touchpoints — Tax Measures, Appendices 2–9 (Review of Individual Income Tax Reliefs))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances de Malaisie (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -126,6 +142,44 @@ pourriez oublier avant de déposer la déclaration.
 - Manquer le délai de dépôt lui-même — les réductions ne peuvent pas être réclamées
   rétroactivement en dehors de la fenêtre de rectification une fois le Formulaire
   BE/B déposé.
+
+## Annoncé pour l'AE2027 (Budget 2027)
+
+Le Budget 2027 (déposé le 9 octobre 2026) a annoncé plusieurs modifications des
+réductions **à partir de l'année d'imposition 2027**. Il s'agit d'**annonces, pas
+encore en vigueur** — elles ne prennent effet qu'une fois le Finance Bill 2027
+adopté, de sorte qu'elles ne changent rien à ce que vous réclamez pour l'AE2025 ou
+l'AE2026.
+
+- **Soi-même et personnes à charge** — la réduction individuelle passe de
+  **RM9,000 à RM12,000**.
+- **Parents et grands-parents (RM8,000)** — le volet des frais de prise en charge
+  est élargi pour couvrir **tous les types de prise en charge** à domicile, en
+  garderie et en centre résidentiel (et non les seuls soins médicaux), avec une
+  documentation simplifiée (une déclaration de l'aidant ou un permis de travail,
+  accompagné des reçus, sans vérification par un praticien enregistré).
+- **Traitement médical (RM10,000)** — le plafond est maintenu et la portée élargie
+  en une réduction « Santé et bien-être », qui intègre la réduction pour équipement
+  d'allaitement.
+- **Frais d'éducation (RM7,000)** — recentrés en une réduction « Éducation et
+  compétences » ; les frais de cours de perfectionnement et de développement
+  personnel pour soi-même ou le conjoint sont réclamables jusqu'à **RM3,000** dans
+  la limite de RM7,000 (l'ancien sous-plafond de perfectionnement du volet mode de
+  vie y est fusionné).
+- **Mode de vie (RM2,500)** — la portée est étendue pour inclure les
+  **abonnements** ; le plafond de RM2,500 est inchangé.
+- **Mode de vie dédié au sport (RM1,000)** — la portée est étendue pour inclure
+  l'achat de **chaussures de sport jusqu'à RM300** ; le plafond de RM1,000 est
+  inchangé.
+- **Dépenses de tourisme (jusqu'à RM1,000)** — la réduction est **prolongée d'une
+  année supplémentaire, jusqu'à l'AE2027**.
+- **Cotisations SOCSO (RM350)** — la portée est étendue pour couvrir les
+  cotisations obligatoires à la Sécurité sociale des travailleurs indépendants
+  (LINDUNG KENDIRI) pour les trois secteurs obligatoires du travail indépendant
+  (transport de passagers, livraison de biens/nourriture et vendeurs ambulants) ;
+  le plafond de RM350 est inchangé.
+
+Source annoncée : Budget 2027 Touchpoints, Tax Measures Appendices 2–9 (Ministère des Finances).
 
 ## Et ensuite
 

@@ -36,7 +36,8 @@ faq:
     a: "Sebuah perusahaan yang sudah ada harus mengajukan tidak lebih dari 30 hari sebelum permulaan periode dasar. Sebuah perusahaan baru yang periode dasar pertamanya sekurang-kurangnya enam bulan harus mengajukan dalam jangka tiga bulan dari memulai operasi, dengan cicilan dimulai pada bulan keenam. Revisi diizinkan pada bulan ke-6, ke-9 atau ke-11."
 
 verificationNeeded:
-  - "Pastikan apakah Bajet 2027 atau Finance Act berikutnya mana pun mengubah jalur UKM atau menggeser batas kepemilikan asing 20%"
+  - "Bajet 2027 mengumumkan tarif jalur bawah UKM/MSME turun menjadi 14% (RM150,000 pertama) dan 16% (RM450,000 berikutnya) mulai YA2027 (Appendix 11 langkah pajak MOF) — konfirmasikan tarif final begitu Finance Act 2027 diwartakan"
+  - "Pastikan apakah Finance Act berikutnya mana pun mengubah batas kepemilikan asing 20%"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"
@@ -53,7 +54,7 @@ obligations:
     consequence: "Penalty up to treble the tax under s.112(3); LHDN's published rates run 15% to 45% by lateness"
 
 lang: "id"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Mencatat pengurangan tarif UKM/MSME YA2027 (14% / 16%) sebagaimana diumumkan dalam Bajet 2027 (diumumkan, menunggu Finance Bill)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2025-12-30"
+  - title: "Titik Sentuh Bajet 2027 — Langkah Pajak, Appendix 11 (Tinjauan Tarif Pajak Penghasilan bagi Perusahaan Mikro, Kecil dan Sederhana) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -116,6 +125,13 @@ dalam sebagian besar panduan yang diterbitkan.
 | UKM yang memenuhi syarat | RM450,000 berikutnya (sampai RM600,000) | **17%** |
 | UKM yang memenuhi syarat | Melebihi RM600,000 | 24% |
 | Selain itu, dan bukan domisili | Semua pendapatan kena pajak | **24%** |
+
+**Diumumkan bagi YA2027 (Bajet 2027):** tarif UKM/MSME atas dua jalur bawah
+dijadwalkan turun masing-masing 1 poin persentase — **14%** atas RM150,000
+pertama dan **16%** atas RM450,000 berikutnya (hingga RM600,000); jumlah
+melebihi RM600,000 tetap 24%. Ini adalah pengumuman Bajet 2027 (Appendix 11
+langkah pajak), berlaku mulai tahun taksiran 2027 dan **belum menjadi
+undang-undang** — tarif 15% / 17% di atas berlaku hingga YA2026.
 
 ## Tiga syarat untuk memenuhi kelayakan
 

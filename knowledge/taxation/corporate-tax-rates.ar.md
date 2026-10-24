@@ -36,7 +36,8 @@ faq:
     a: "تقدّم الشركة القائمة نموذجها في موعد لا يتجاوز 30 يومًا قبل بداية فترة الأساس. أما الشركة الجديدة التي تبلغ فترة أساسها الأولى ستة أشهر على الأقل فتقدّم خلال ثلاثة أشهر من بدء العمليات، مع بدء الأقساط في الشهر السادس. ويُسمح بالتعديلات في الشهر السادس أو التاسع أو الحادي عشر."
 
 verificationNeeded:
-  - "التأكد مما إذا كانت ميزانية 2027 أو أي قانون مالية لاحق يُعدّل شرائح المنشآت الصغيرة والمتوسطة أو شرط الملكية الأجنبية بنسبة 20%"
+  - "أعلنت ميزانية 2027 خفض معدلَي الشريحتين الأدنى للمنشآت الصغيرة والمتوسطة ومتناهية الصغر إلى 14% (أول RM150,000) و16% (الـ RM450,000 التالية) اعتباراً من YA2027 (الملحق 11 من إجراءات وزارة المالية الضريبية) — فأكّد المعدلات النهائية بمجرد نشر قانون المالية 2027 في الجريدة الرسمية"
+  - "التأكد مما إذا كان أي قانون مالية لاحق يُعدّل شرط الملكية الأجنبية بنسبة 20%"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"
@@ -53,7 +54,7 @@ obligations:
     consequence: "Penalty up to treble the tax under s.112(3); LHDN's published rates run 15% to 45% by lateness"
 
 lang: "ar"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "نُوِّه بخفض معدل ضريبة المنشآت الصغيرة والمتوسطة ومتناهية الصغر لـ YA2027 (14% / 16%) المُعلَن في ميزانية 2027 (مُعلَن، بانتظار مشروع قانون المالية)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "قانون ضريبة الدخل لسنة 1967 (القانون 53)، إعادة طبع بتاريخ 21 مايو 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "الهيئة الماليزية للإيرادات الداخلية (LHDN)"
     date: "2025-12-30"
+  - title: "لمحات ميزانية 2027 — الإجراءات الضريبية، الملحق 11 (مراجعة معدلات ضريبة الدخل للمنشآت متناهية الصغر والصغيرة والمتوسطة) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "وزارة المالية الماليزية (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -115,6 +124,13 @@ keywords: ["معدل ضريبة الشركات في ماليزيا", "معدل �
 | منشأة صغيرة ومتوسطة مؤهَّلة | الـ RM450,000 التالية (حتى RM600,000) | **17%** |
 | منشأة صغيرة ومتوسطة مؤهَّلة | ما يزيد عن RM600,000 | 24% |
 | كل من عداها، وغير المقيمين | كامل الدخل الخاضع للضريبة | **24%** |
+
+**مُعلَن لـ YA2027 (ميزانية 2027):** من المقرَّر أن ينخفض معدلا المنشآت الصغيرة
+والمتوسطة ومتناهية الصغر على الشريحتين الأدنى بمقدار نقطة مئوية واحدة لكل منهما —
+**14%** على أول RM150,000 و**16%** على الـ RM450,000 التالية (حتى RM600,000)؛
+ويبقى ما يزيد عن RM600,000 عند 24%. وهذا إعلان في ميزانية 2027 (الملحق 11 من
+الإجراءات الضريبية)، يسري اعتباراً من سنة التقدير 2027 و**ليس قانوناً بعد** —
+فمعدلا 15% / 17% أعلاه يسريان حتى YA2026.
 
 ## الشروط الثلاثة للتأهل
 

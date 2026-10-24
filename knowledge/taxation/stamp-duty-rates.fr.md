@@ -28,9 +28,10 @@ verificationNeeded:
   - "Le droit sur le point 2, les affidavits et les déclarations solennelles, n'a pas pu être lu clairement dans le texte consolidé en raison d'un décalage de colonnes et est donc omis du tableau"
   - "Les ordonnances d'exemption et de remise du droit de timbre actuellement en vigueur n'ont pas été énumérées de manière exhaustive ; l'index des ordonnances de droit de timbre du LHDN lui-même ne répertorie rien après le P.U.(A) 470/2024 et paraît obsolète, de sorte que les seuils d'exemption pour la première résidence et les autres seuils d'exemption en vigueur devraient être lus dans le Journal officiel fédéral"
   - "Le point 12 (cession) a été remplacé par l'Act 862 et ses tranches révisées d'assurance-vie ne sont pas reproduites ici"
+  - "L'exemption renforcée du droit de timbre pour la première résidence (100% jusqu'à RM500,000, plus 50% sur RM500,001–750,000) pour les accords de vente et d'achat signés du 1er janvier 2027 au 31 décembre 2030 est une annonce du Budget 2027 (MOF tax-measures Appendix 16), pas encore publiée au journal officiel — confirmer l'ordonnance P.U.(A) une fois prise"
 
 lang: "fr"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -39,14 +40,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Signalement de l'exemption renforcée du droit de timbre pour la première résidence (nouvelle tranche de 50% pour RM500,001–750,000) et de l'exemption pour la revitalisation des logements abandonnés annoncées dans le Budget 2027 (annoncées, en attente de la publication au journal officiel)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), première annexe, texte en vigueur au 1er janvier 2024 (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -66,6 +71,10 @@ sources:
   - title: "Exemptions et allègements du droit de timbre (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "LHDN"
+  - title: "Budget 2027 Touchpoints — Mesures fiscales, Annexes 16–17 (Exemption du droit de timbre pour la première résidence ; revitalisation des projets de logement abandonnés) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17 (Stamp Duty Exemption for First Residential Home; Revival of Abandoned Housing Projects))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances de Malaisie (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -178,6 +187,21 @@ Trois mécanismes distincts, et ils ne sont pas interchangeables :
 - **L'exemption ou remise ministérielle au titre de l'art. 80**, accordée par le ministre des Finances et publiée sous forme d'ordonnance P.U.(A). Pour en réclamer une, vous devez citer la référence au Journal officiel ou produire la lettre d'exemption du ministère.
 
 Par ailleurs, l'**allègement au titre des art. 15 et 15A** couvre la reconstruction et la fusion de sociétés, ainsi que les transferts de biens entre sociétés associées. Les demandes sont adressées au Bureau du Directeur de l'État compétent, et non via le canal de timbrage ordinaire.
+
+**Première résidence (actuel) :** les citoyens malaisiens achetant leur première
+résidence d'un prix allant jusqu'à **RM500,000** bénéficient d'une exemption de
+**100%** sur l'instrument de transfert et l'accord de prêt, pour les accords de
+vente et d'achat signés du 1er janvier 2021 au 31 décembre 2027.
+
+**Annoncé pour 2027 (Budget 2027) :** pour les accords de vente et d'achat signés
+du **1er janvier 2027 au 31 décembre 2030**, l'exemption pour la première résidence
+est renforcée — les résidences jusqu'à RM500,000 conservent l'exemption de
+**100%**, et les résidences jusqu'à **RM750,000** bénéficient de **100% sur les
+premiers RM500,000 plus 50% sur la portion de RM500,001 à RM750,000**. Une
+exemption distincte de 100% pour la revitalisation des projets de logement
+abandonnés est réintroduite pour les instruments signés du 1er janvier 2027 au
+31 décembre 2030. Il s'agit d'annonces du Budget 2027 (tax-measures Appendices
+16–17), pas encore publiées au journal officiel.
 
 ## Erreurs courantes
 

@@ -36,7 +36,8 @@ faq:
     a: "Une entreprise existante dépose au plus tard 30 jours avant le début de la période de base. Une nouvelle entreprise dont la première période de base est d'au moins six mois dépose dans les trois mois suivant le début de ses activités, les acomptes commençant au sixième mois. Les révisions sont autorisées au 6e, 9e ou 11e mois."
 
 verificationNeeded:
-  - "Confirmer si le Budget 2027 ou toute Finance Act ultérieure modifie les tranches PME ou le critère de propriété étrangère de 20%"
+  - "Le Budget 2027 a annoncé la baisse des taux PME/MPME des tranches inférieures à 14% (premiers RM150,000) et 16% (RM450,000 suivants) à partir de YA2027 (MOF tax-measures Appendix 11) — confirmer les taux définitifs une fois la Finance Act 2027 publiée au journal officiel"
+  - "Confirmer si toute Finance Act ultérieure modifie le critère de propriété étrangère de 20%"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"
@@ -53,7 +54,7 @@ obligations:
     consequence: "Penalty up to treble the tax under s.112(3); LHDN's published rates run 15% to 45% by lateness"
 
 lang: "fr"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Signalement de la réduction des taux PME/MPME pour YA2027 (14% / 16%) annoncée dans le Budget 2027 (annoncée, en attente du Finance Bill)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Loi 53), réimpression au 21 mai 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Direction générale des impôts de Malaisie (LHDN)"
     date: "2025-12-30"
+  - title: "Budget 2027 Touchpoints — Mesures fiscales, Annexe 11 (Révision des taux de l'impôt sur le revenu des micro, petites et moyennes entreprises) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances de Malaisie (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -116,6 +125,14 @@ documents publiés.
 | PME qualifiée | RM450,000 suivants (jusqu'à RM600,000) | **17%** |
 | PME qualifiée | Au-dessus de RM600,000 | 24% |
 | Toutes les autres, et non-résidentes | Tout le revenu imposable | **24%** |
+
+**Annoncé pour YA2027 (Budget 2027) :** les taux PME/MPME sur les deux tranches
+inférieures doivent baisser de 1 point de pourcentage chacun — **14%** sur les
+premiers RM150,000 et **16%** sur les RM450,000 suivants (jusqu'à RM600,000) ;
+au-delà de RM600,000 reste à 24%. Il s'agit d'une annonce du Budget 2027
+(tax-measures Appendix 11), avec effet à partir de l'année d'imposition 2027 et
+**pas encore en vigueur** — les taux de 15% / 17% ci-dessus s'appliquent jusqu'à
+YA2026.
 
 ## Les trois conditions pour être qualifiée
 

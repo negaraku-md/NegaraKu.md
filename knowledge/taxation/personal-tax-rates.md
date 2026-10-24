@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0055
-title: "Malaysia Personal Income Tax Rates — YA2023 to YA2026"
+title: "Malaysia Personal Income Tax Rates — YA2023 to YA2027"
 seoTitle: "Personal Income Tax Rates Malaysia by YA"
 slug: "personal-tax-rates"
 category: "taxation"
@@ -12,10 +12,10 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Resident individuals are taxed on a nine-step scale from 0% on the first RM5,000 of chargeable income to 30% above RM2,000,000. LHDN captions the current table for years of assessment 2023, 2024 and 2025, and Budget 2026 announced no change to the bands. Non-residents pay a flat 30% under Schedule 1 Part I paragraph 1A."
+answer: "Resident individuals are taxed on a progressive scale from 0% on the first RM5,000 of chargeable income to a top rate of 30%. For YA2023 to YA2026 the 30% rate applies above RM2,000,000; Budget 2026 left the bands unchanged. Budget 2027 announced a restructured scale from YA2027 — the 70,001–100,000 band falls to 18%, a new 100,001–150,000 band is taxed at 24%, and the 30% top rate applies above RM1,000,000 (announced, pending the Finance Bill). Non-residents pay a flat 30% under Schedule 1 Part I paragraph 1A."
 keyTakeaways:
-  - "The band structure has been unchanged since YA2023 and Budget 2026 did not alter it"
-  - "Top marginal rate is 30% above RM2,000,000 of chargeable income"
+  - "The band structure was unchanged from YA2023 to YA2026; Budget 2027 announced a restructured scale from YA2027 (pending the Finance Bill)"
+  - "Top marginal rate is 30% above RM2,000,000 (YA2023–YA2026), dropping to above RM1,000,000 from YA2027 as announced in Budget 2027"
   - "Non-resident individuals pay a flat 30% with no personal reliefs and no rebate"
   - "The RM400 rebate applies only where chargeable income does not exceed RM35,000"
   - "From YA2025 individual dividend income above RM100,000 carries an extra 2%"
@@ -24,7 +24,7 @@ appliesTo: "Any individual computing Malaysian income tax, and AI agents needing
 
 faq:
   - q: "What are the personal income tax rates in Malaysia?"
-    a: "The resident scale runs 0%, 1%, 3%, 6%, 11%, 19%, 25%, 26%, 28% and 30%. The 30% rate applies to chargeable income above RM2,000,000. LHDN publishes this table for years of assessment 2023, 2024 and 2025, and Budget 2026 announced no change to the bands."
+    a: "For YA2023 to YA2026 the resident scale runs 0%, 1%, 3%, 6%, 11%, 19%, 25%, 26%, 28% and 30%, with the 30% rate above RM2,000,000; LHDN publishes this table for years of assessment 2023, 2024 and 2025 and Budget 2026 announced no change. Budget 2027 announced a restructured scale from YA2027: the 70,001–100,000 band falls to 18%, a new 100,001–150,000 band is taxed at 24% (150,001–400,000 stays at 25%), and the 30% top rate applies above RM1,000,000 — announced, pending the Finance Bill."
   - q: "At what income do you start paying tax in Malaysia?"
     a: "Tax is charged from the first ringgit above RM5,000 of chargeable income, but chargeable income is what remains after the RM9,000 individual relief under s.46(1)(a) and every other relief. A resident with chargeable income of RM35,000 or less also receives the RM400 rebate under s.6A(2), which cancels the tax at that level."
   - q: "What is the tax rate for foreigners in Malaysia?"
@@ -34,6 +34,7 @@ faq:
 
 verificationNeeded:
   - "LHDN still captions its rate table Tahun Taksiran 2023, 2024 and 2025. The YA2026 position here rests on the Budget 2026 announcement that the bands are unchanged, not on a re-captioned LHDN table — re-check the Kadar Cukai page once YA2026 filing opens"
+  - "The YA2027 restructured scale is a Budget 2027 announcement (MOF tax-measures Appendix 1), not yet enacted — confirm the final bands once the Finance Act 2027 is gazetted and LHDN re-captions its Kadar Cukai table"
   - "Confirm whether the 2% dividend layer under Schedule 1 Part XXII applies to non-resident individuals as well as residents; the rate table itself does not say"
 
 lang: "en"
@@ -45,14 +46,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Added the YA2027 restructured resident scale announced in Budget 2027 (announced, pending the Finance Bill); kept the YA2023–YA2026 table as current."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Kadar Cukai — Individu"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
@@ -66,6 +71,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Attorney General's Chambers"
     date: "2024-05-21"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendix 1 (Review of Income Tax Rates for Resident Individual)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian individual income tax rates"
 relations:
@@ -79,10 +88,41 @@ keywords: ["personal income tax rate Malaysia", "kadar cukai individu", "tax bra
 Rates apply to **chargeable income** — gross income less allowable expenses,
 less every relief you qualify for. Nobody is taxed on salary.
 
+## Resident individual rates, YA2027 (announced in Budget 2027)
+
+Budget 2027 (tabled 9 October 2026) announced a **restructured** resident scale
+**from the year of assessment 2027**, to make the middle bands more progressive.
+The changes: the **70,001–100,000** band falls from 19% to **18%**; a **new
+100,001–150,000** band is taxed at **24%** (150,001–400,000 stays at 25%); the
+old 600,001–2,000,000 band is split so **600,001–1,000,000 stays at 28%**; and
+the **30% top rate now applies above RM1,000,000** (previously above RM2,000,000).
+
+This is an **announcement, not yet law** — it takes effect only when the Finance
+Bill 2027 is passed and gazetted. The YA2023–YA2026 table below still governs
+until then.
+
+| Chargeable income (RM) | On the first (RM) | Tax on that (RM) | On the next (RM) | Rate on the excess |
+| --- | --- | --- | --- | --- |
+| 0 – 5,000 | 5,000 | 0 | — | 0% |
+| 5,001 – 20,000 | 5,000 | 0 | 15,000 | 1% |
+| 20,001 – 35,000 | 20,000 | 150 | 15,000 | 3% |
+| 35,001 – 50,000 | 35,000 | 600 | 15,000 | 6% |
+| 50,001 – 70,000 | 50,000 | 1,500 | 20,000 | 11% |
+| 70,001 – 100,000 | 70,000 | 3,700 | 30,000 | 18% |
+| 100,001 – 150,000 | 100,000 | 9,100 | 50,000 | 24% |
+| 150,001 – 400,000 | 150,000 | 21,100 | 250,000 | 25% |
+| 400,001 – 600,000 | 400,000 | 83,600 | 200,000 | 26% |
+| 600,001 – 1,000,000 | 600,000 | 135,600 | 400,000 | 28% |
+| Above 1,000,000 | 1,000,000 | 247,600 | every further ringgit | 30% |
+
+Announced source: Budget 2027 Touchpoints, Tax Measures Appendix 1 (Ministry of Finance).
+
 ## Resident individual rates, YA2023 to YA2026
 
 LHDN captions this table **Tahun Taksiran 2023, 2024 & 2025**. Budget 2026
-announced no change to the bands, so the same scale carries into YA2026.
+announced no change to the bands, so the same scale carries into YA2026. These
+rates apply **through YA2026**; from YA2027 the restructured scale above applies
+once enacted.
 
 | Chargeable income (RM) | On the first (RM) | Tax on that (RM) | On the next (RM) | Rate on the excess |
 | --- | --- | --- | --- | --- |

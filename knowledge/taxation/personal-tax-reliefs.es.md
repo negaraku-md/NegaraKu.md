@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "Contribuyentes individuales que preparan su declaración anual en el Formulario BE/B y comprueban qué desgravaciones pueden reclamar."
 
 lang: "es"
-sourceContentHash: "3aaef5bbc4ffdb87"
+sourceContentHash: "dd101bcd8f9b2a8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -30,10 +30,22 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
+revisions:
+  - revision: 0
+    date: 2026-07-10
+    change: "Approved and published."
+    reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Se añadieron los cambios en las desgravaciones del YA2027 anunciados en el Presupuesto 2027 (desgravación individual RM9,000→RM12,000, además de cambios de alcance en las desgravaciones por padres, médica, educación/competencias, estilo de vida, deporte, turismo y SOCSO) — anunciados, pendientes del Proyecto de Ley de Finanzas."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-10
+verificationNeeded:
+  - "The YA2027 relief changes are Budget 2027 announcements (MOF tax-measures Appendices 2–9), not yet enacted — confirm the final amounts and scope once the Finance Act 2027 is gazetted"
+
+updated: 2026-10-24
 sources:
   - title: "LHDN — Desgravación fiscal individual (LHDN — Individual Tax Relief)"
     url: "https://www.hasil.gov.my/en/individual/"
@@ -41,6 +53,10 @@ sources:
   - title: "Ley del Impuesto sobre la Renta de 1967 (Income Tax Act 1967)"
     url: "https://lom.agc.gov.my/act-detail.php?act=53"
     publisher: "Cámara del Fiscal General (Attorney General's Chambers)"
+  - title: "Puntos de contacto del Presupuesto 2027 — Medidas fiscales, Apéndices 2–9 (Revisión de las desgravaciones del impuesto sobre la renta de las personas físicas) (Budget 2027 Touchpoints — Tax Measures, Appendices 2–9 (Review of Individual Income Tax Reliefs))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministerio de Finanzas de Malasia (Ministry of Finance Malaysia)"
+    date: "2026-10-09"
 
 entity: "Personal income tax relief"
 relations:
@@ -125,6 +141,43 @@ la declaración.
 - Pasar por alto el propio plazo de presentación — las desgravaciones no pueden
   reclamarse con carácter retroactivo fuera de la ventana de rectificación una vez
   presentado el Formulario BE/B.
+
+## Anunciado para el YA2027 (Presupuesto 2027)
+
+El Presupuesto 2027 (presentado el 9 de octubre de 2026) anunció varios cambios en
+las desgravaciones **desde el año de evaluación 2027**. Estos son **anuncios, aún
+no son ley** — solo surten efecto una vez que se apruebe el Proyecto de Ley de
+Finanzas de 2027, por lo que no cambian lo que usted reclama para el YA2025 o el
+YA2026.
+
+- **Uno mismo y familiares dependientes** — la desgravación individual sube de
+  **RM9,000 a RM12,000**.
+- **Padres y abuelos (RM8,000)** — el apartado de gastos de cuidado se amplía para
+  cubrir **todos los tipos de cuidado** en el hogar, en centros de día y en centros
+  residenciales (no solo el cuidado médico), con documentación más sencilla (una
+  declaración del cuidador o un permiso de trabajo más los recibos, sin verificación
+  de un profesional registrado).
+- **Tratamiento médico (RM10,000)** — se mantiene el límite y se amplía el alcance
+  a una desgravación de «Salud y Bienestar», incorporando la desgravación por
+  equipos de lactancia.
+- **Tasas de educación (RM7,000)** — reenfocada como una desgravación de «Educación
+  y competencias»; las tasas de cursos de perfeccionamiento y de superación personal
+  para uno mismo o el cónyuge son reclamables hasta **RM3,000** dentro del tope de
+  RM7,000 (el antiguo sublímite de perfeccionamiento del estilo de vida se integra
+  aquí).
+- **Estilo de vida (RM2,500)** — el alcance se amplía para incluir las
+  **suscripciones**; el tope de RM2,500 no cambia.
+- **Estilo de vida relacionado con el deporte (RM1,000)** — el alcance se amplía
+  para incluir la compra de **calzado deportivo hasta RM300**; el tope de RM1,000 no
+  cambia.
+- **Gastos de turismo (hasta RM1,000)** — la desgravación se **prorroga un año más,
+  hasta el YA2027**.
+- **Aportaciones a SOCSO (RM350)** — el alcance se amplía para cubrir las
+  aportaciones obligatorias a la Seguridad Social de Autoempleo (LINDUNG KENDIRI)
+  para los tres sectores de autoempleo obligatorios (transporte de pasajeros,
+  entrega de mercancías/comida y vendedores ambulantes); el tope de RM350 no cambia.
+
+Fuente anunciada: Puntos de contacto del Presupuesto 2027, Medidas fiscales Apéndices 2–9 (Ministerio de Finanzas).
 
 ## Qué sigue
 

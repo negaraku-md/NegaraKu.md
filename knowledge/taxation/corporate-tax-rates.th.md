@@ -36,7 +36,8 @@ faq:
     a: "บริษัทที่มีอยู่ยื่นไม่เกิน 30 วันก่อนวันเริ่มรอบระยะเวลาฐาน บริษัทใหม่ที่รอบระยะเวลาฐานแรกอย่างน้อยหกเดือนยื่นภายในสามเดือนของการเริ่มดำเนินการ โดยการผ่อนชำระเริ่มในเดือนที่หก อนุญาตให้แก้ไขในเดือนที่ 6, 9 หรือ 11"
 
 verificationNeeded:
-  - "ยืนยันว่า Budget 2027 หรือ Finance Act ถัด ๆ ไปเปลี่ยนแปลงช่วง SME หรืออนุมาตราการเป็นเจ้าของโดยต่างชาติ 20% หรือไม่"
+  - "งบประมาณ 2027 ประกาศว่าอัตราช่วงล่างสำหรับ SME/MSME จะลดเหลือ 14% (RM150,000 แรก) และ 16% (RM450,000 ถัดไป) ตั้งแต่ YA2027 (มาตรการภาษีของ MOF ภาคผนวก 11) — ยืนยันอัตราสุดท้ายเมื่อ Finance Act 2027 ประกาศในราชกิจจานุเบกษา"
+  - "ยืนยันว่า Finance Act ถัด ๆ ไปเปลี่ยนแปลงอนุมาตราการเป็นเจ้าของโดยต่างชาติ 20% หรือไม่"
 
 obligations:
   - what: "ยื่นประมาณการภาษีที่ต้องชำระ CP204"
@@ -53,7 +54,7 @@ obligations:
     consequence: "ค่าปรับสูงสุดสามเท่าของภาษีภายใต้ s.112(3); อัตราที่ LHDN เผยแพร่อยู่ที่ 15% ถึง 45% ตามความล่าช้า"
 
 lang: "th"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -62,15 +63,19 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "บันทึกการลดอัตราภาษี SME/MSME สำหรับ YA2027 (14% / 16%) ที่ประกาศในงบประมาณ 2027 (ประกาศแล้ว รอ Finance Bill)"
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53) ฉบับพิมพ์ซ้ำ ณ วันที่ 21 พฤษภาคม 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "กรมสรรพากร (LHDN)"
     date: "2025-12-30"
+  - title: "งบประมาณ 2027 Touchpoints — มาตรการภาษี ภาคผนวก 11 (ทบทวนอัตราภาษีเงินได้สำหรับวิสาหกิจขนาดจิ๋ว ขนาดเล็ก และขนาดกลาง) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "กระทรวงการคลังมาเลเซีย"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -114,6 +123,8 @@ keywords: ["Malaysia corporate tax rate", "SME tax rate Malaysia", "kadar cukai 
 | SME ที่เข้าเกณฑ์ | RM450,000 ถัดไป (ถึง RM600,000) | **17%** |
 | SME ที่เข้าเกณฑ์ | สูงกว่า RM600,000 | 24% |
 | ที่เหลือทั้งหมด และผู้ไม่มีถิ่นที่อยู่ | เงินได้ที่ต้องเสียภาษีทั้งหมด | **24%** |
+
+**ประกาศสำหรับ YA2027 (งบประมาณ 2027):** อัตรา SME/MSME บนสองช่วงล่างมีกำหนดลดลงช่วงละ 1 จุดเปอร์เซ็นต์ — **14%** สำหรับ RM150,000 แรก และ **16%** สำหรับ RM450,000 ถัดไป (ถึง RM600,000); ส่วนที่เกิน RM600,000 ยังคงอยู่ที่ 24% นี่เป็นประกาศงบประมาณ 2027 (มาตรการภาษี ภาคผนวก 11) มีผลตั้งแต่ปีประเมินภาษี 2027 และ **ยังไม่เป็นกฎหมาย** — อัตรา 15% / 17% ข้างต้นใช้บังคับจนถึง YA2026
 
 ## เงื่อนไขสามข้อในการเข้าเกณฑ์
 

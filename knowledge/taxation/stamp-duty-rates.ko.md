@@ -27,9 +27,10 @@ verificationNeeded:
   - "2항인 선서진술서 및 법정선언서에 대한 세액은 열 정렬 오류로 인해 통합 본문에서 명확히 읽을 수 없어 표에서 제외함"
   - "현재 유효한 인지세 면제 및 감면 명령을 빠짐없이 열거하지는 않았음; 말레이시아 국세청(LHDN)의 인지세 명령 색인에는 P.U.(A) 470/2024 이후로 아무것도 등재되어 있지 않고 갱신되지 않은 것으로 보이므로, 생애 첫 주택 및 기타 현행 면제 기준액은 연방 관보에서 확인할 것"
   - "12항(양도, assignment)은 Act 862에 의해 대체되었으며 그 개정된 생명보험 구간은 여기에 재현하지 않음"
+  - "2027년 1월 1일~2030년 12월 31일에 체결되는 매매계약(SPA)에 대한 강화된 생애 첫 주택 인지세 면제(RM500,000까지 100%, RM500,001~750,000에 추가 50%)는 2027년 예산안 발표(MOF tax-measures Appendix 16)로 아직 관보에 게재되지 않았음 — P.U.(A) 명령이 제정되면 확인할 것"
 
 lang: "ko"
-sourceContentHash: "bade86680d1436e5"
+sourceContentHash: "db3a3267830562a2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -38,14 +39,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "2027년 예산안에서 발표된 강화된 생애 첫 주택 인지세 면제(RM500,001~750,000에 대한 신규 50% 구간)와 방치 주택 사업 재개 면제를 반영(발표 단계로, 관보 게재 대기 중)."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Stamp Act 1949 (Act 378), 제1부표, 2024년 1월 1일 기준 원문 (Stamp Act 1949 (Act 378), First Schedule, text as at 1 January 2024)"
     url: "https://lom.agc.gov.my/act-detail.php?act=378"
@@ -65,6 +70,10 @@ sources:
   - title: "인지세 면제 및 경감 (Stamp Duty Exemptions and Relief)"
     url: "https://www.hasil.gov.my/en/duti-setem/pengecualian-dan-relief/"
     publisher: "말레이시아 국내세입청 (LHDN)"
+  - title: "2027년 예산안 세부지침 — 조세 조치, Appendices 16–17 (생애 첫 주택 인지세 면제; 방치 주택 사업 재개) (Budget 2027 Touchpoints — Tax Measures, Appendices 16–17)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "말레이시아 재무부"
+    date: "2026-10-09"
 
 entity: "Stamp duty rates"
 relations:
@@ -203,6 +212,17 @@ note)는 제외입니다. 따라서 소액 종가세 계산은 몇 링깃을 산
 별도로, **제15조 및 제15A조에 따른 감면**은 회사 재구성과 합병, 그리고 관계회사 간
 부동산 이전을 다룹니다. 신청은 일반 날인 경로가 아니라 해당 주(州) 국장
 사무소(State Director's Office)로 갑니다.
+
+**생애 첫 주택 (현행):** 생애 첫 주택을 가격 **RM500,000**까지 구입하는 말레이시아
+국민은, 2021년 1월 1일부터 2027년 12월 31일까지 체결되는 매매계약에 대해 이전 증서와
+대출 계약에 **100%** 면제를 받습니다.
+
+**2027년 발표 (2027년 예산안):** **2027년 1월 1일부터 2030년 12월 31일까지** 체결되는
+매매계약에 대해 생애 첫 주택 면제가 강화됩니다 — RM500,000까지의 주택은 **100%** 면제를
+유지하고, RM750,000까지의 주택은 **처음 RM500,000에 대해 100%, RM500,001부터 RM750,000까지의
+부분에 대해 50%**를 받습니다. 방치 주택 사업 재개를 위한 별도의 100% 면제도 2027년 1월
+1일부터 2030년 12월 31일까지 체결되는 증서에 대해 재도입됩니다. 이는 2027년 예산안
+발표(tax-measures Appendices 16–17)로, 아직 관보에 게재되지 않았습니다.
 
 ## 흔한 실수
 

@@ -1,6 +1,6 @@
 ---
 topicId: MY-TAX-0055
-title: "Kadar Cukai Pendapatan Individu Malaysia — YA2023 hingga YA2026"
+title: "Kadar Cukai Pendapatan Individu Malaysia — YA2023 hingga YA2027"
 seoTitle: "Kadar Cukai Pendapatan Individu Malaysia Mengikut YA"
 slug: "personal-tax-rates"
 category: "taxation"
@@ -12,10 +12,10 @@ mode: "practical"
 contentType: "data"
 sensitivity: "none"
 
-answer: "Individu pemastautin dikenakan cukai mengikut skala sembilan peringkat, dari 0% bagi RM5,000 pertama pendapatan bercukai sehingga 30% bagi jumlah melebihi RM2,000,000. LHDN memaparkan jadual semasa untuk tahun taksiran 2023, 2024 dan 2025, dan Bajet 2026 mengumumkan tiada perubahan kepada jalur tersebut. Bukan pemastautin dikenakan kadar rata 30% di bawah Schedule 1 Part I paragraph 1A."
+answer: "Individu pemastautin dikenakan cukai mengikut skala progresif, dari 0% bagi RM5,000 pertama pendapatan bercukai sehingga kadar tertinggi 30%. Bagi YA2023 hingga YA2026, kadar 30% terpakai bagi jumlah melebihi RM2,000,000; Bajet 2026 mengekalkan jalur tersebut tanpa perubahan. Bajet 2027 mengumumkan skala yang distruktur semula bermula YA2027 — jalur 70,001–100,000 turun kepada 18%, jalur baharu 100,001–150,000 dikenakan cukai 24%, dan kadar tertinggi 30% terpakai bagi jumlah melebihi RM1,000,000 (diumumkan, menunggu Rang Undang-Undang Kewangan). Bukan pemastautin dikenakan kadar rata 30% di bawah Schedule 1 Part I paragraph 1A."
 keyTakeaways:
-  - "Struktur jalur cukai tidak berubah sejak YA2023 dan Bajet 2026 tidak mengubahnya"
-  - "Kadar marginal tertinggi ialah 30% bagi pendapatan bercukai melebihi RM2,000,000"
+  - "Struktur jalur cukai tidak berubah dari YA2023 hingga YA2026; Bajet 2027 mengumumkan skala yang distruktur semula bermula YA2027 (menunggu Rang Undang-Undang Kewangan)"
+  - "Kadar marginal tertinggi ialah 30% bagi jumlah melebihi RM2,000,000 (YA2023–YA2026), turun kepada melebihi RM1,000,000 bermula YA2027 seperti yang diumumkan dalam Bajet 2027"
   - "Individu bukan pemastautin dikenakan kadar rata 30% tanpa sebarang pelepasan peribadi dan tanpa rebat"
   - "Rebat RM400 hanya terpakai jika pendapatan bercukai tidak melebihi RM35,000"
   - "Bermula YA2025, pendapatan dividen individu melebihi RM100,000 dikenakan tambahan 2%"
@@ -24,7 +24,7 @@ appliesTo: "Sesiapa sahaja yang mengira cukai pendapatan Malaysia, dan ejen AI y
 
 faq:
   - q: "Apakah kadar cukai pendapatan individu di Malaysia?"
-    a: "Skala pemastautin berjalan pada 0%, 1%, 3%, 6%, 11%, 19%, 25%, 26%, 28% dan 30%. Kadar 30% terpakai bagi pendapatan bercukai melebihi RM2,000,000. LHDN menerbitkan jadual ini untuk tahun taksiran 2023, 2024 dan 2025, dan Bajet 2026 mengumumkan tiada perubahan kepada jalur tersebut."
+    a: "Bagi YA2023 hingga YA2026, skala pemastautin berjalan pada 0%, 1%, 3%, 6%, 11%, 19%, 25%, 26%, 28% dan 30%, dengan kadar 30% bagi jumlah melebihi RM2,000,000; LHDN menerbitkan jadual ini untuk tahun taksiran 2023, 2024 dan 2025 dan Bajet 2026 mengumumkan tiada perubahan. Bajet 2027 mengumumkan skala yang distruktur semula bermula YA2027: jalur 70,001–100,000 turun kepada 18%, jalur baharu 100,001–150,000 dikenakan cukai 24% (150,001–400,000 kekal pada 25%), dan kadar tertinggi 30% terpakai bagi jumlah melebihi RM1,000,000 — diumumkan, menunggu Rang Undang-Undang Kewangan."
   - q: "Pada tahap pendapatan berapakah seseorang mula membayar cukai di Malaysia?"
     a: "Cukai dikenakan bermula daripada ringgit pertama melebihi RM5,000 pendapatan bercukai, tetapi pendapatan bercukai ialah baki selepas ditolak pelepasan individu RM9,000 di bawah s.46(1)(a) dan setiap pelepasan lain. Pemastautin dengan pendapatan bercukai RM35,000 atau kurang turut menerima rebat RM400 di bawah s.6A(2), yang membatalkan cukai pada tahap tersebut."
   - q: "Apakah kadar cukai bagi warga asing di Malaysia?"
@@ -34,26 +34,31 @@ faq:
 
 verificationNeeded:
   - "LHDN masih memaparkan jadual kadarnya sebagai Tahun Taksiran 2023, 2024 dan 2025. Kedudukan YA2026 di sini bergantung kepada pengumuman Bajet 2026 bahawa jalur cukai tidak berubah, bukan berdasarkan jadual LHDN yang caption-nya telah dikemas kini — semak semula halaman Kadar Cukai sebaik sahaja pemfailan YA2026 dibuka"
+  - "Skala yang distruktur semula YA2027 ialah pengumuman Bajet 2027 (Appendix 1 langkah cukai MOF), belum digubal — sahkan jalur muktamad sebaik sahaja Finance Act 2027 diwartakan dan LHDN memapar semula caption jadual Kadar Cukainya"
   - "Sahkan sama ada lapisan dividen 2% di bawah Schedule 1 Part XXII terpakai kepada individu bukan pemastautin selain pemastautin; jadual kadar itu sendiri tidak menyatakannya"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "8166bbfff56fa0fe"
+sourceContentHash: "371047566bf2d3a1"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambah skala pemastautin YA2027 yang distruktur semula seperti diumumkan dalam Bajet 2027 (diumumkan, menunggu Rang Undang-Undang Kewangan); mengekalkan jadual YA2023–YA2026 sebagai semasa."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Kadar Cukai — Individu (Kadar Cukai — Individu)"
     url: "https://www.hasil.gov.my/individu/kadar-cukai/"
@@ -67,6 +72,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
     publisher: "Jabatan Peguam Negara"
     date: "2024-05-21"
+  - title: "Sentuhan Belanjawan 2027 — Langkah Cukai, Appendix 1 (Semakan Kadar Cukai Pendapatan Individu Pemastautin) (Budget 2027 Touchpoints — Tax Measures, Appendix 1 (Review of Income Tax Rates for Resident Individual))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia"
+    date: "2026-10-09"
 
 entity: "Malaysian individual income tax rates"
 relations:
@@ -81,11 +90,42 @@ Kadar terpakai kepada **pendapatan bercukai** — pendapatan kasar tolak
 perbelanjaan yang dibenarkan, tolak setiap pelepasan yang anda layak. Tiada
 sesiapa dikenakan cukai atas gaji.
 
+## Kadar individu pemastautin, YA2027 (diumumkan dalam Bajet 2027)
+
+Bajet 2027 (dibentangkan pada 9 Oktober 2026) mengumumkan skala pemastautin
+yang **distruktur semula** **bermula tahun taksiran 2027**, untuk menjadikan
+jalur pertengahan lebih progresif. Perubahannya: jalur **70,001–100,000** turun
+dari 19% kepada **18%**; jalur **baharu 100,001–150,000** dikenakan cukai
+**24%** (150,001–400,000 kekal pada 25%); jalur lama 600,001–2,000,000 dipecah
+supaya **600,001–1,000,000 kekal pada 28%**; dan **kadar tertinggi 30% kini
+terpakai bagi jumlah melebihi RM1,000,000** (sebelum ini melebihi RM2,000,000).
+
+Ini ialah **pengumuman, belum menjadi undang-undang** — ia hanya berkuat kuasa
+apabila Rang Undang-Undang Kewangan 2027 diluluskan dan diwartakan. Jadual
+YA2023–YA2026 di bawah masih terpakai sehingga itu.
+
+| Pendapatan bercukai (RM) | Bagi RM pertama | Cukai atasnya (RM) | Bagi RM seterusnya | Kadar atas lebihan |
+| --- | --- | --- | --- | --- |
+| 0 – 5,000 | 5,000 | 0 | — | 0% |
+| 5,001 – 20,000 | 5,000 | 0 | 15,000 | 1% |
+| 20,001 – 35,000 | 20,000 | 150 | 15,000 | 3% |
+| 35,001 – 50,000 | 35,000 | 600 | 15,000 | 6% |
+| 50,001 – 70,000 | 50,000 | 1,500 | 20,000 | 11% |
+| 70,001 – 100,000 | 70,000 | 3,700 | 30,000 | 18% |
+| 100,001 – 150,000 | 100,000 | 9,100 | 50,000 | 24% |
+| 150,001 – 400,000 | 150,000 | 21,100 | 250,000 | 25% |
+| 400,001 – 600,000 | 400,000 | 83,600 | 200,000 | 26% |
+| 600,001 – 1,000,000 | 600,000 | 135,600 | 400,000 | 28% |
+| Above 1,000,000 | 1,000,000 | 247,600 | every further ringgit | 30% |
+
+Sumber pengumuman: Budget 2027 Touchpoints, Tax Measures Appendix 1 (Ministry of Finance).
+
 ## Kadar individu pemastautin, YA2023 hingga YA2026
 
 LHDN memaparkan jadual ini sebagai **Tahun Taksiran 2023, 2024 & 2025**.
 Bajet 2026 mengumumkan tiada perubahan kepada jalur tersebut, jadi skala yang
-sama diteruskan ke YA2026.
+sama diteruskan ke YA2026. Kadar ini terpakai **sehingga YA2026**; bermula
+YA2027 skala yang distruktur semula di atas terpakai sebaik sahaja digubal.
 
 | Pendapatan bercukai (RM) | Bagi RM pertama | Cukai atasnya (RM) | Bagi RM seterusnya | Kadar atas lebihan |
 | --- | --- | --- | --- | --- |

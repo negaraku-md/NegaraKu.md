@@ -36,7 +36,8 @@ faq:
     a: "Sebuah syarikat sedia ada perlu memfailkan tidak lewat daripada 30 hari sebelum permulaan tempoh asas. Sebuah syarikat baharu yang tempoh asas pertamanya sekurang-kurangnya enam bulan perlu memfailkan dalam tempoh tiga bulan dari memulakan operasi, dengan ansuran bermula pada bulan keenam. Semakan semula dibenarkan pada bulan ke-6, ke-9 atau ke-11."
 
 verificationNeeded:
-  - "Sahkan sama ada Bajet 2027 atau mana-mana Finance Act seterusnya mengubah jalur SME atau limbung had pemilikan asing 20%"
+  - "Bajet 2027 mengumumkan kadar jalur bawah SME/MSME turun kepada 14% (RM150,000 pertama) dan 16% (RM450,000 seterusnya) bermula YA2027 (Appendix 11 langkah cukai MOF) — sahkan kadar muktamad sebaik sahaja Finance Act 2027 diwartakan"
+  - "Sahkan sama ada mana-mana Finance Act seterusnya mengubah syarat pemilikan asing 20%"
 
 obligations:
   - what: "Submit CP204 estimate of tax payable"
@@ -55,22 +56,26 @@ obligations:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "00342b1e35f45f25"
+sourceContentHash: "27f51457124f7ec3"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Mencatatkan pengurangan kadar SME/MSME YA2027 (14% / 16%) yang diumumkan dalam Bajet 2027 (diumumkan, menunggu Rang Undang-Undang Kewangan)."
+    reviewer: null
 sensitivity: "none"
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Income Tax Act 1967 (Act 53), cetakan semula pada 21 Mei 2024 (Income Tax Act 1967 (Act 53), reprint as at 21 May 2024)"
     url: "https://www.hasil.gov.my/wp-content/uploads/20240521-akta-cukai-pendapatan-1967-akta-53.pdf"
@@ -90,6 +95,10 @@ sources:
     url: "https://www.hasil.gov.my/wp-content/uploads/program-memfail-bn-bagi-tahun-2026.pdf"
     publisher: "Lembaga Hasil Dalam Negeri (LHDN)"
     date: "2025-12-30"
+  - title: "Sentuhan Belanjawan 2027 — Langkah Cukai, Appendix 11 (Semakan Kadar Cukai Pendapatan bagi Perusahaan Mikro, Kecil dan Sederhana) (Budget 2027 Touchpoints — Tax Measures, Appendix 11 (Review of Income Tax Rates for Micro, Small and Medium Enterprises))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Corporate income tax"
 relations:
@@ -116,6 +125,13 @@ dalam kebanyakan panduan yang diterbitkan.
 | SME yang layak | RM450,000 seterusnya (sehingga RM600,000) | **17%** |
 | SME yang layak | Melebihi RM600,000 | 24% |
 | Selain daripada itu, dan bukan pemastautin | Semua pendapatan boleh cukai | **24%** |
+
+**Diumumkan untuk YA2027 (Bajet 2027):** kadar SME/MSME pada dua jalur bawah
+dijangka turun sebanyak 1 mata peratusan setiap satu — **14%** ke atas RM150,000
+pertama dan **16%** ke atas RM450,000 seterusnya (sehingga RM600,000); jumlah
+melebihi RM600,000 kekal pada 24%. Ini ialah pengumuman Bajet 2027 (Appendix 11
+langkah cukai), berkuat kuasa bermula tahun taksiran 2027 dan **belum menjadi
+undang-undang** — kadar 15% / 17% di atas terpakai sehingga YA2026.
 
 ## Tiga syarat untuk layak
 
