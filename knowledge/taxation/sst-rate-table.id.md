@@ -24,9 +24,10 @@ appliesTo: "Siapa saja yang mengklasifikasikan jasa kena pajak, dan agen AI yang
 verificationNeeded:
   - "Ambang bagi Kelompok A hingga J dibaca dari P.U.(A) 214/2018 sebagaimana asalnya diwartakan bersama instrumen amendemen yang dikutip, bukan dari cetak ulang konsolidasi — pastikan terhadap First Schedule konsolidasi saat ini"
   - "Teks penuh P.U.(A) 125/2026 tidak diperoleh; judulnya dan keberlakuan 1 Januari 2026 dipastikan dari portal perundangan AGC dan pengecualian 2% yang sepadan dalam Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "Jasa perawatan lansia yang beralih dari Kelompok C (8%) menjadi item Kelompok I baru pada 6%, dengan pengecualian pajak jasa bagi nilai perawatan tahunan hingga RM96,000, berlaku mulai 1 January 2027 (Budget 2027 tax-measures Appendix 34), telah diumumkan dan belum diwartakan — pastikan perintah P.U.(A) pengubah atas Service Tax Regulations 2018 begitu ia dibuat"
 
 lang: "id"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +36,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambahkan catatan Budget 2027: jasa perawatan lansia beralih dari Kelompok C (8%) menjadi item Kelompok I baru pada 6% dengan pengecualian nilai perawatan tahunan RM96,000, mulai 1 Jan 2027 — diumumkan, menunggu warta."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule (Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — tarif umum dinaikkan dari 6% menjadi 8% mulai 1 Maret 2024 (Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+  - title: "Titik Sentuh Anggaran 2027 — Langkah Pajak, Appendix 34 (Peningkatan Perlakuan Pajak Jasa bagi Jasa Perawatan Lansia) (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Keuangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -154,6 +163,20 @@ sehari sebelum ia berlaku. Panduan yang diterbitkan dalam periode itu sudah usan
 | --- | --- | --- | --- | --- |
 | Tarif umum | 6% | 8% | P.U.(A) 64/2024 | 1 Mar 2024 |
 | Kelompok K penyewaan atau sewa guna usaha | 8% | 6% | P.U.(A) 125/2026 | 1 Jan 2026 |
+
+## Diumumkan untuk 2027 (Budget 2027)
+
+Budget 2027 (dibentangkan pada 9 October 2026) mengumumkan perubahan atas cara
+**jasa perawatan lansia** dikenai pajak, berlaku mulai **1 January 2027**. Saat ini
+jasa tersebut dikenai **8%** di bawah kategori pusat kesehatan (wellness centre)
+dalam **Kelompok C**. Mulai 1 January 2027, jasa itu akan **dikeluarkan dari
+Kelompok C dan diperkenalkan sebagai item baru di bawah Kelompok I**, dikenai **6%**
+(ambang pendaftaran **RM500,000** bagi pusat perawatan lansia tidak berubah), dengan
+**pengecualian pajak jasa apabila nilai perawatan tahunan tidak melebihi RM96,000**;
+di atas jumlah itu, penyedia dikenai 6%. Ini adalah pengumuman Budget 2027
+(tax-measures Appendix 34), **belum diwartakan** — ia baru berlaku setelah Service
+Tax Regulations 2018 diubah oleh perintah P.U.(A), sehingga tarif 8% Kelompok C
+dalam tabel di atas berlaku hingga saat itu.
 
 ## Catatan
 

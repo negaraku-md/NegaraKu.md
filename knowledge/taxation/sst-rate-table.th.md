@@ -24,9 +24,10 @@ appliesTo: "ผู้ที่จำแนกบริการที่ต้�
 verificationNeeded:
   - "เกณฑ์สำหรับ Groups A ถึง J อ่านจาก P.U.(A) 214/2018 ตามที่ประกาศในราชกิจจานุเบกษาเดิมร่วมกับตราสารแก้ไขที่อ้าง ไม่ใช่จากฉบับพิมพ์ซ้ำรวม — ยืนยันเทียบกับ First Schedule รวมปัจจุบัน"
   - "ไม่สามารถดึงข้อความเต็มของ P.U.(A) 125/2026 ได้; ชื่อและผลบังคับใช้วันที่ 1 มกราคม 2026 ยืนยันจากพอร์ทัลกฎหมายของ AGC และการยกเว้น 2% ที่สอดคล้องใน Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "การย้ายบริการดูแลผู้สูงอายุจาก Group C (8%) ไปเป็นรายการใหม่ใน Group I ที่ 6% พร้อมการยกเว้นภาษีบริการสำหรับมูลค่าการดูแลต่อปีไม่เกิน RM96,000 มีผลตั้งแต่วันที่ 1 มกราคม 2027 (มาตรการภาษีงบประมาณ 2027 Appendix 34) เป็นการประกาศและยังไม่ได้ประกาศในราชกิจจานุเบกษา — ยืนยันคำสั่ง P.U.(A) ที่แก้ไข Service Tax Regulations 2018 เมื่อออกแล้ว"
 
 lang: "th"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +36,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "เพิ่มหมายเหตุงบประมาณ 2027: บริการดูแลผู้สูงอายุย้ายจาก Group C (8%) ไปเป็นรายการใหม่ใน Group I ที่ 6% พร้อมการยกเว้นมูลค่าการดูแลต่อปี RM96,000 ตั้งแต่วันที่ 1 ม.ค. 2027 — เป็นการประกาศ รอการประกาศในราชกิจจานุเบกษา"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — บัญชีแนบท้ายที่หนึ่ง (Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — อัตราทั่วไปปรับขึ้นจาก 6% เป็น 8% ตั้งแต่วันที่ 1 มีนาคม 2024 (Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (AGC)"
+  - title: "จุดสัมผัสงบประมาณ 2027 — มาตรการภาษี Appendix 34 (การปรับปรุงการจัดเก็บภาษีบริการสำหรับบริการดูแลผู้สูงอายุ) (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "กระทรวงการคลังมาเลเซีย (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -144,6 +153,10 @@ keywords: ["SST rate table", "service tax groups Malaysia", "Group A to M servic
 | --- | --- | --- | --- | --- |
 | อัตราทั่วไป | 6% | 8% | P.U.(A) 64/2024 | 1 มี.ค. 2024 |
 | Group K การเช่าหรือให้เช่า | 8% | 6% | P.U.(A) 125/2026 | 1 ม.ค. 2026 |
+
+## ประกาศสำหรับปี 2027 (งบประมาณ 2027)
+
+งบประมาณ 2027 (เสนอต่อสภาเมื่อวันที่ 9 ตุลาคม 2026) ประกาศการเปลี่ยนแปลงวิธีการเก็บภาษี**บริการดูแลผู้สูงอายุ** โดยมีผลตั้งแต่วันที่ **1 มกราคม 2027** ปัจจุบันบริการเหล่านี้ถูกเก็บภาษีที่ **8%** ภายใต้หมวดศูนย์สุขภาพใน **Group C** ตั้งแต่วันที่ 1 มกราคม 2027 บริการเหล่านี้จะถูก**ย้ายออกจาก Group C และนำมาจัดเป็นรายการใหม่ภายใต้ Group I** โดยเก็บภาษีที่ **6%** (เกณฑ์การจดทะเบียน **RM500,000** สำหรับศูนย์ดูแลผู้สูงอายุไม่เปลี่ยนแปลง) พร้อมกับ**การยกเว้นภาษีบริการเมื่อมูลค่าการดูแลต่อปีไม่เกิน RM96,000** หากเกินจากนั้น ผู้ให้บริการจะถูกเก็บภาษีที่ 6% นี่เป็นการประกาศในงบประมาณ 2027 (มาตรการภาษี Appendix 34) ซึ่ง**ยังไม่ได้ประกาศในราชกิจจานุเบกษา** — จะมีผลก็ต่อเมื่อมีการแก้ไข Service Tax Regulations 2018 โดยคำสั่ง P.U.(A) ดังนั้นอัตรา 8% ของ Group C ในตารางด้านบนจึงยังคงใช้อยู่จนกว่าจะถึงเวลานั้น
 
 ## หมายเหตุ
 

@@ -24,9 +24,10 @@ appliesTo: "Toute personne classant un service imposable, et les agents d'IA aya
 verificationNeeded:
   - "Les seuils des Groupes A à J ont été lus dans P.U.(A) 214/2018 tel que publié à l'origine au journal officiel, avec les instruments modificatifs cités, et non dans une réimpression consolidée — vérifier par rapport à une Première Annexe consolidée à jour"
   - "Le texte intégral de P.U.(A) 125/2026 n'a pas été récupéré ; son intitulé et son effet au 1er janvier 2026 ont été confirmés à partir du portail législatif de l'AGC et de l'exonération correspondante de 2% dans la Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "Le passage des services de soins aux personnes âgées du Groupe C (8%) à un nouveau poste du Groupe I à 6%, assorti d'une exonération de la taxe sur les services pour une valeur annuelle des soins pouvant atteindre RM96,000, avec effet au 1er janvier 2027 (Budget 2027, mesures fiscales, annexe 34), est annoncé et non encore publié au journal officiel — confirmer l'arrêté P.U.(A) modifiant les Service Tax Regulations 2018 une fois pris"
 
 lang: "fr"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +36,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Ajout d'une note Budget 2027 : les services de soins aux personnes âgées passent du Groupe C (8%) à un nouveau poste du Groupe I à 6%, avec une exonération pour une valeur annuelle des soins de RM96,000, à compter du 1er janvier 2027 — annoncé, en attente de la publication au journal officiel."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — Première Annexe (First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — taux général relevé de 6% à 8% à compter du 1er mars 2024 (general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "Cabinet du Procureur général (AGC)"
+  - title: "Points de contact du Budget 2027 — Mesures fiscales, annexe 34 (Amélioration du traitement de la taxe sur les services pour les services de soins aux personnes âgées) (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministère des Finances de la Malaisie (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -155,6 +164,22 @@ cette fenêtre sont dépassées.
 | --- | --- | --- | --- | --- |
 | Taux général | 6% | 8% | P.U.(A) 64/2024 | 1 mars 2024 |
 | Groupe K location ou crédit-bail | 8% | 6% | P.U.(A) 125/2026 | 1 janv. 2026 |
+
+## Annoncé pour 2027 (Budget 2027)
+
+Le Budget 2027 (présenté le 9 octobre 2026) a annoncé une modification de la
+manière dont les **services de soins aux personnes âgées** sont taxés, avec effet
+au **1er janvier 2027**. Ils sont actuellement taxés à **8%** dans la catégorie
+des centres de bien-être du **Groupe C**. À compter du 1er janvier 2027, ils
+doivent être **retirés du Groupe C et introduits comme un nouveau poste dans le
+Groupe I**, taxés à **6%** (le seuil d'enregistrement de **RM500,000** pour les
+centres de soins aux personnes âgées reste inchangé), avec une **exonération de la
+taxe sur les services lorsque la valeur annuelle des soins ne dépasse pas
+RM96,000** ; au-delà, les prestataires sont facturés à 6%. Il s'agit d'une annonce
+du Budget 2027 (mesures fiscales, annexe 34), **non encore publiée au journal
+officiel** — elle ne prend effet qu'une fois les Service Tax Regulations 2018
+modifiées par un arrêté P.U.(A), de sorte que le taux de 8% du Groupe C figurant
+dans la table ci-dessus s'applique jusque-là.
 
 ## Notes
 

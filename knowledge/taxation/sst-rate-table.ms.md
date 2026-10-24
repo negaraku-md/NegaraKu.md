@@ -24,25 +24,30 @@ appliesTo: "Sesiapa yang mengklasifikasikan perkhidmatan bercukai, dan ejen AI y
 verificationNeeded:
   - "Ambang bagi Kumpulan A hingga J dibaca daripada P.U.(A) 214/2018 sebagaimana asalnya diwartakan bersama instrumen pindaan yang dipetik, bukan daripada cetakan semula bersepadu — sahkan terhadap First Schedule bersepadu semasa"
   - "Teks penuh P.U.(A) 125/2026 tidak diperoleh; tajuknya dan kuat kuasa 1 January 2026 disahkan daripada portal perundangan AGC dan pengecualian 2% yang sepadan dalam Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "Perkhidmatan penjagaan warga tua yang beralih daripada Kumpulan C (8%) kepada item baharu Kumpulan I pada 6%, dengan pengecualian cukai perkhidmatan bagi nilai penjagaan tahunan sehingga RM96,000, berkuat kuasa 1 Januari 2027 (Belanjawan 2027 tax-measures Appendix 34), ialah pengumuman dan belum digazetkan — sahkan perintah P.U.(A) pindaan kepada Peraturan-Peraturan Cukai Perkhidmatan 2018 (Service Tax Regulations 2018) setelah dibuat"
 
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Menambah nota Belanjawan 2027: perkhidmatan penjagaan warga tua beralih daripada Kumpulan C (8%) kepada item baharu Kumpulan I pada 6% dengan pengecualian nilai penjagaan tahunan RM96,000, mulai 1 Jan 2027 — diumumkan, menunggu pewartaan."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — Jadual Pertama (Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — kadar am dinaikkan daripada 6% kepada 8% mulai 1 Mac 2024 (Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "Jabatan Peguam Negara Malaysia (AGC)"
+  - title: "Sentuhan Belanjawan 2027 — Langkah-Langkah Cukai, Appendix 34 (Penambahbaikan Layanan Cukai Perkhidmatan bagi Perkhidmatan Penjagaan Warga Tua) (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Kementerian Kewangan Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -156,6 +165,22 @@ tempoh itu sudah lapuk.
 | --- | --- | --- | --- | --- |
 | Kadar am | 6% | 8% | P.U.(A) 64/2024 | 1 Mar 2024 |
 | Kumpulan K sewaan atau pajakan | 8% | 6% | P.U.(A) 125/2026 | 1 Jan 2026 |
+
+## Diumumkan untuk 2027 (Belanjawan 2027)
+
+Belanjawan 2027 (dibentangkan pada 9 Oktober 2026) mengumumkan perubahan cara
+**perkhidmatan penjagaan warga tua** dikenakan cukai, berkuat kuasa
+**1 Januari 2027**. Pada masa ini ia dikenakan cukai pada **8%** di bawah
+kategori pusat kesihatan (wellness centre) dalam **Kumpulan C**. Mulai
+1 Januari 2027, ia akan **dikeluarkan daripada Kumpulan C dan diperkenalkan
+sebagai item baharu di bawah Kumpulan I**, dikenakan cukai pada **6%** (ambang
+pendaftaran **RM500,000** bagi pusat penjagaan warga tua kekal tidak berubah),
+dengan **pengecualian cukai perkhidmatan apabila nilai penjagaan tahunan tidak
+melebihi RM96,000**; melebihi jumlah itu, penyedia dikenakan cukai pada 6%. Ini
+ialah pengumuman Belanjawan 2027 (tax-measures Appendix 34), **belum
+digazetkan** — ia hanya berkuat kuasa setelah Peraturan-Peraturan Cukai
+Perkhidmatan 2018 (Service Tax Regulations 2018) dipinda melalui perintah
+P.U.(A), jadi kadar 8% Kumpulan C dalam jadual di atas terpakai sehingga itu.
 
 ## Nota
 

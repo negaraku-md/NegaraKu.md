@@ -24,25 +24,30 @@ appliesTo: "課税対象サービスを分類する必要があるすべての�
 verificationNeeded:
   - "A組からJ組の基準額は、統合再版ではなく、P.U.(A) 214/2018の原始官報告示テキスト及び引用された改正法律文書から読み取ったものである——現行の統合First Scheduleに照らして確認すること"
   - "P.U.(A) 125/2026の全文は取得できなかった。その標題及び2026年1月1日の効力は、AGC立法ポータル、並びにService Tax Policy No. 2/2025 (Amendment No. 3)における対応する2%の免除から確認した"
+  - "高齢者ケアサービスがC組（8%）からI組の新たな項目へ移り6%となり、年間ケア価額がRM96,000までの場合にサービス税が免除される変更は、2027年1月1日から施行され（Budget 2027の税制措置 Appendix 34）、発表済みであってまだ官報告示されていない——2018年サービス税規則（Service Tax Regulations 2018）を改正するP.U.(A)が制定され次第、確認すること"
 
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 
 status: "published"
 aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Budget 2027の注記を追加した：高齢者ケアサービスがC組（8%）からI組の新たな項目へ6%で移り、年間ケア価額RM96,000までの免除が付される（2027年1月1日から）——発表済み、官報告示待ち。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — 第一附則 (Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — 一般税率が2024年3月1日から6％から8％へ引き上げ (Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "マレーシア司法長官府 (AGC)"
+  - title: "Budget 2027 タッチポイント — 税制措置、Appendix 34（高齢者ケアサービスに対するサービス税の取扱いの改善） (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "マレーシア財務省 (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -144,6 +153,10 @@ Paragraph 3(2)(b)は、クレジットカード及びチャージカードのみ
 | --- | --- | --- | --- | --- |
 | 一般税率 | 6% | 8% | P.U.(A) 64/2024 | 1 Mar 2024 |
 | K組（賃貸借） | 8% | 6% | P.U.(A) 125/2026 | 1 Jan 2026 |
+
+## 2027年に向けて発表（Budget 2027）
+
+Budget 2027（2026年10月9日提出）は、**高齢者ケアサービス**の課税方法に関する変更を発表した。発効日は**2027年1月1日**である。これらのサービスは現在、**C組**のウェルネスセンターのカテゴリーのもとで**8%**で課税されている。2027年1月1日からは、**C組から除外され、I組の新たな項目として導入**され、**6%**で課税される予定である（高齢者ケアセンターの**RM500,000**という登録基準額は変わらない）。あわせて、**年間ケア価額がRM96,000を超えない場合にはサービス税が免除される**；これを超える分については、提供者は6%で課税される。これはBudget 2027の発表（税制措置 Appendix 34）であり、**まだ官報告示されていない**——2018年サービス税規則（Service Tax Regulations 2018）がP.U.(A)命令により改正されて初めて施行されるため、それまでは上記の表における8%のC組税率が適用される。
 
 ## 注記
 

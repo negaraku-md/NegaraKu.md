@@ -24,9 +24,10 @@ appliesTo: "Cualquiera que clasifique un servicio imponible, y los agentes de IA
 verificationNeeded:
   - "Thresholds for Groups A to J were read from P.U.(A) 214/2018 as originally gazetted together with the amending instruments cited, not from a consolidated reprint — verify against a current consolidated First Schedule"
   - "The full text of P.U.(A) 125/2026 was not retrieved; its title and 1 January 2026 effect were confirmed from the AGC legislation portal and the corresponding 2% exemption in Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "Los servicios de cuidado de ancianos pasan del Grupo C (8%) a una nueva partida del Grupo I al 6%, con una exención del impuesto de servicios para el valor anual del cuidado de hasta RM96,000, con efecto desde el 1 de enero de 2027 (Presupuesto 2027, medidas fiscales, Apéndice 34), está anunciado y aún no publicado en el boletín oficial — confirmar la orden P.U.(A) modificatoria de las Service Tax Regulations 2018 una vez dictada"
 
 lang: "es"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +36,18 @@ aiAssisted: true
 reviewer: null
 reviewed: "2026-07-22"
 publishedBy: "ashton-tan"
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Se añadió una nota del Presupuesto 2027: los servicios de cuidado de ancianos pasan del Grupo C (8%) a una nueva partida del Grupo I al 6%, con una exención para el valor anual del cuidado de hasta RM96,000, desde el 1 de enero de 2027 — anunciado, pendiente de publicación en el boletín oficial."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — Primera Lista (First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — tasa general elevada del 6% al 8% desde el 1 de marzo de 2024 (general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "Cámara del Fiscal General (AGC)"
+  - title: "Puntos clave del Presupuesto 2027 — Medidas fiscales, Apéndice 34 (Mejora del tratamiento del impuesto de servicios para los servicios de cuidado de ancianos) (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministerio de Finanzas de Malasia (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -155,6 +164,21 @@ orientación publicada en esa ventana está desactualizada.
 | --- | --- | --- | --- | --- |
 | Tasa general | 6% | 8% | P.U.(A) 64/2024 | 1 mar 2024 |
 | Grupo K arrendamiento o leasing | 8% | 6% | P.U.(A) 125/2026 | 1 ene 2026 |
+
+## Anunciado para 2027 (Presupuesto 2027)
+
+El Presupuesto 2027 (presentado el 9 de octubre de 2026) anunció un cambio en cómo
+se gravan los **servicios de cuidado de ancianos**, con efecto desde el **1 de enero
+de 2027**. Actualmente se gravan al **8%** dentro de la categoría de centros de
+bienestar del **Grupo C**. A partir del 1 de enero de 2027 serán **eliminados del
+Grupo C e introducidos como una nueva partida en el Grupo I**, gravados al **6%** (el
+umbral de registro de **RM500,000** para los centros de cuidado de ancianos no
+cambia), con una **exención del impuesto de servicios cuando el valor anual del
+cuidado no supere RM96,000**; por encima de esa cifra, los proveedores tributan al
+6%. Se trata de un anuncio del Presupuesto 2027 (medidas fiscales, Apéndice 34),
+**aún no publicado en el boletín oficial** — solo surtirá efecto una vez que las
+Service Tax Regulations 2018 se modifiquen mediante una orden P.U.(A), por lo que la
+tasa del 8% del Grupo C de la tabla anterior se aplica hasta entonces.
 
 ## Notas
 

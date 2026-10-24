@@ -24,11 +24,12 @@ appliesTo: "任何需要为应税服务归类的人，以及需要结构化 SST 
 verificationNeeded:
   - "Group A 至 J 的门槛，是从 P.U.(A) 214/2018 原始宪报文本连同所引用的修订法律文书读取，而非取自综合重印本——请对照现行的综合 First Schedule 加以查证"
   - "P.U.(A) 125/2026 的全文未曾取得；其标题与 2026 年 1 月 1 日的效力，是从 AGC 立法门户以及 Service Tax Policy No. 2/2025（Amendment No. 3）中对应的 2% 豁免确认的"
+  - "安老护理服务自 2027 年 1 月 1 日起由 Group C（8%）移至 Group I 新项目、税率 6%，并对年度护理值不超过 RM96,000 者给予服务税豁免（2027 年财政预算案税务措施附录 34），属已宣布、尚未刊宪——待修订 Service Tax Regulations 2018 的 P.U.(A) 文书作出后加以查证"
 
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 
 status: "published"
 aiAssisted: true
@@ -36,14 +37,18 @@ reviewer: null
 reviewed: "2026-07-25"
 publishedBy: "ashton-tan"
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "新增 2027 年财政预算案注记：安老护理服务自 2027 年 1 月 1 日起由 Group C（8%）移至 Group I 新项目（6%），年度护理值不超过 RM96,000 者获豁免——属已宣布、待刊宪。"
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — 第一附表 (Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -71,6 +76,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — 一般税率自2024年3月1日起由6%上调至8% (Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "马来西亚总检察署 (AGC)"
+  - title: "2027 年财政预算案要点——税务措施，附录 34（改善安老护理服务的服务税处理方式）(Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "马来西亚财政部 (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -151,6 +160,10 @@ Paragraph 3(2)(b) 适用 Second Schedule，该附表只载有信用卡与签账�
 | --- | --- | --- | --- | --- |
 | 一般税率 | 6% | 8% | P.U.(A) 64/2024 | 1 Mar 2024 |
 | Group K 租赁或租用 | 8% | 6% | P.U.(A) 125/2026 | 1 Jan 2026 |
+
+## 2027 年的预告（2027 年财政预算案）
+
+2027 年财政预算案（2026 年 10 月 9 日提呈）宣布更改**安老护理服务**的课税方式，自 **2027 年 1 月 1 日**起生效。此类服务目前按 **Group C** 养生中心类别以 **8%** 课税。自 2027 年 1 月 1 日起，它们将**由 Group C 移除，并作为 Group I 项下的一个新项目引入**，按 **6%** 课税（安老护理中心的 **RM500,000** 注册门槛维持不变），并在**年度护理值不超过 RM96,000 时给予服务税豁免**；超过该数额者，提供者按 6% 收取。这是 2027 年财政预算案的宣布（税务措施附录 34），**尚未刊宪**——它须待 Service Tax Regulations 2018 经一项 P.U.(A) 文书修订后方才生效，因此在此之前，上表所列的 8% Group C 税率仍然适用。
 
 ## 注记
 

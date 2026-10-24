@@ -24,6 +24,7 @@ appliesTo: "Anyone classifying a taxable service, and AI agents needing structur
 verificationNeeded:
   - "Thresholds for Groups A to J were read from P.U.(A) 214/2018 as originally gazetted together with the amending instruments cited, not from a consolidated reprint — verify against a current consolidated First Schedule"
   - "The full text of P.U.(A) 125/2026 was not retrieved; its title and 1 January 2026 effect were confirmed from the AGC legislation portal and the corresponding 2% exemption in Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "Elderly care services moving from Group C (8%) to a new Group I item at 6%, with a service-tax exemption for annual care value up to RM96,000, effective 1 January 2027 (Budget 2027 tax-measures Appendix 34), is announced and not yet gazetted — confirm the amending P.U.(A) to the Service Tax Regulations 2018 once made"
 
 lang: "en"
 masterLanguage: "en"
@@ -34,14 +35,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Added a Budget 2027 note: elderly care services move from Group C (8%) to a new Group I item at 6% with a RM96,000 annual-care-value exemption, from 1 Jan 2027 — announced, pending the gazette."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -69,6 +74,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "Attorney General's Chambers"
+  - title: "Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services)"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Ministry of Finance Malaysia"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -151,6 +160,19 @@ day before commencement. Guidance published in that window is out of date.
 | --- | --- | --- | --- | --- |
 | General rate | 6% | 8% | P.U.(A) 64/2024 | 1 Mar 2024 |
 | Group K rental or leasing | 8% | 6% | P.U.(A) 125/2026 | 1 Jan 2026 |
+
+## Announced for 2027 (Budget 2027)
+
+Budget 2027 (tabled 9 October 2026) announced a change to how **elderly care
+services** are taxed, effective **1 January 2027**. They are currently taxed at
+**8%** under the wellness-centres category in **Group C**. From 1 January 2027
+they are to be **removed from Group C and introduced as a new item under Group
+I**, taxed at **6%** (the **RM500,000** registration threshold for elderly care
+centres is unchanged), with a **service tax exemption where the annual care value
+does not exceed RM96,000**; above that, providers are charged at 6%. This is a
+Budget 2027 announcement (tax-measures Appendix 34), **not yet gazetted** — it
+takes effect only once the Service Tax Regulations 2018 are amended by a P.U.(A)
+order, so the 8% Group C rate in the table above applies until then.
 
 ## Notes
 

@@ -24,9 +24,10 @@ appliesTo: "Bất kỳ ai phân loại một dịch vụ chịu thuế, và các
 verificationNeeded:
   - "Các ngưỡng cho các Group A đến J được đọc từ P.U.(A) 214/2018 như được đăng công báo ban đầu cùng với các công cụ sửa đổi được trích dẫn, không phải từ một bản in lại hợp nhất — hãy kiểm chứng so với một First Schedule hợp nhất hiện hành"
   - "Toàn văn của P.U.(A) 125/2026 chưa được trích xuất; tiêu đề của nó và hiệu lực ngày 1 tháng 1 năm 2026 được xác nhận từ cổng pháp luật AGC và khoản miễn 2% tương ứng trong Service Tax Policy No. 2/2025 (Amendment No. 3)"
+  - "Việc các dịch vụ chăm sóc người cao tuổi chuyển từ Group C (8%) sang một mục mới thuộc Group I ở mức 6%, cùng với một khoản miễn thuế dịch vụ đối với giá trị chăm sóc hằng năm lên đến RM96,000, có hiệu lực từ ngày 1 tháng 1 năm 2027 (Ngân sách 2027, các biện pháp thuế, Phụ lục 34), là đã được công bố và chưa được đăng công báo — hãy kiểm chứng công cụ P.U.(A) sửa đổi Service Tax Regulations 2018 một khi được ban hành"
 
 lang: "vi"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +36,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "Thêm ghi chú Ngân sách 2027: các dịch vụ chăm sóc người cao tuổi chuyển từ Group C (8%) sang một mục mới thuộc Group I ở mức 6% cùng với khoản miễn giá trị chăm sóc hằng năm RM96,000, từ ngày 1 tháng 1 năm 2027 — đã công bố, đang chờ đăng công báo."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — Phụ lục Thứ nhất (Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — thuế suất chung tăng từ 6% lên 8% từ ngày 1 tháng 3 năm 2024 (Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "Văn phòng Tổng Chưởng lý Malaysia (AGC)"
+  - title: "Các điểm chính của Ngân sách 2027 — Các biện pháp thuế, Phụ lục 34 (Cải thiện cách xử lý thuế dịch vụ đối với các dịch vụ chăm sóc người cao tuổi) (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "Bộ Tài chính Malaysia (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -153,6 +162,20 @@ trong cửa sổ đó đã lỗi thời.
 | --- | --- | --- | --- | --- |
 | Thuế suất chung | 6% | 8% | P.U.(A) 64/2024 | 1 tháng 3 năm 2024 |
 | Group K cho thuê | 8% | 6% | P.U.(A) 125/2026 | 1 tháng 1 năm 2026 |
+
+## Được công bố cho năm 2027 (Ngân sách 2027)
+
+Ngân sách 2027 (trình bày ngày 9 tháng 10 năm 2026) đã công bố một thay đổi về cách đánh
+thuế **các dịch vụ chăm sóc người cao tuổi**, có hiệu lực từ **ngày 1 tháng 1 năm 2027**.
+Hiện tại chúng chịu thuế ở mức **8%** theo hạng mục trung tâm chăm sóc sức khỏe (wellness
+centre) trong **Group C**. Từ ngày 1 tháng 1 năm 2027, chúng sẽ được **loại khỏi Group C
+và được đưa vào như một mục mới thuộc Group I**, chịu thuế ở mức **6%** (ngưỡng đăng ký
+**RM500,000** đối với các trung tâm chăm sóc người cao tuổi không thay đổi), cùng với một
+**khoản miễn thuế dịch vụ khi giá trị chăm sóc hằng năm không vượt quá RM96,000**; trên
+mức đó, các nhà cung cấp bị tính thuế ở mức 6%. Đây là một công bố của Ngân sách 2027 (các
+biện pháp thuế, Phụ lục 34), **chưa được đăng công báo** — nó chỉ có hiệu lực khi Service
+Tax Regulations 2018 được sửa đổi bởi một công cụ P.U.(A), vì vậy thuế suất 8% của Group C
+trong bảng ở trên được áp dụng cho đến lúc đó.
 
 ## Ghi chú
 

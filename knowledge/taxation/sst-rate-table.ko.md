@@ -24,9 +24,10 @@ appliesTo: "과세 대상 서비스를 분류하는 모든 사람과, 구조화�
 verificationNeeded:
   - "그룹 A부터 J까지의 기준액은 통합 재판본이 아니라, 최초 관보에 게재된 P.U.(A) 214/2018과 함께 인용된 개정 법령에서 읽은 것임 — 현행 통합 제1별표와 대조하여 확인할 것"
   - "P.U.(A) 125/2026의 전체 본문은 입수하지 못했으며, 그 제목과 2026년 1월 1일 발효는 법무장관실(AGC) 입법 포털과 서비스세 정책 제2/2025호(개정 제3호)의 해당 2% 면제로부터 확인함"
+  - "노인 돌봄 서비스가 그룹 C(8%)에서 그룹 I의 신규 항목(6%)으로 이동하고, 연간 돌봄 가치 RM96,000까지 서비스세 면제가 적용되며, 2027년 1월 1일부터 시행된다는 것(2027년 예산안 조세 조치 별표 34)은 발표되었을 뿐 아직 관보에 게재되지 않았음 — 서비스세 규정 2018(Service Tax Regulations 2018)을 개정하는 P.U.(A) 명령이 제정되면 확인할 것"
 
 lang: "ko"
-sourceContentHash: "efabafee1422fbc0"
+sourceContentHash: "6b53023d2901255c"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -35,14 +36,18 @@ aiAssisted: true
 reviewer: null
 reviewed: 2026-07-22
 reviewDue: 2027-07-22
-revision: 0
+revision: 1
 revisions:
   - revision: 0
     date: 2026-07-20
     change: "Approved and published."
     reviewer: null
+  - revision: 1
+    date: 2026-10-24
+    change: "2027년 예산안 주석 추가: 노인 돌봄 서비스가 2027년 1월 1일부터 그룹 C(8%)에서 그룹 I의 신규 항목(6%)으로 이동하며 연간 돌봄 가치 RM96,000 면제가 적용됨 — 발표되었으나 관보 게재 대기 중."
+    reviewer: null
 
-updated: 2026-07-20
+updated: 2026-10-24
 sources:
   - title: "Service Tax Regulations 2018, P.U.(A) 214/2018 — 제1부표 (Service Tax Regulations 2018, P.U.(A) 214/2018 — First Schedule)"
     url: "https://mysst.customs.gov.my/wp-content/uploads/2025/03/Service-Tax-Regulations-2018.pdf"
@@ -70,6 +75,10 @@ sources:
   - title: "Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — 일반 세율이 2024년 3월 1일부터 6%에서 8%로 인상 (Service Tax (Rate of Tax) (Amendment) Order 2024, P.U.(A) 64/2024 — general rate raised from 6% to 8% from 1 March 2024)"
     url: "https://lom.agc.gov.my/act-view.php?type=pua&language=BI&no=P.U.+%28A%29+64%2F2024"
     publisher: "말레이시아 법무장관실 (AGC)"
+  - title: "2027년 예산안 접점 — 조세 조치, 별표 34(노인 돌봄 서비스에 대한 서비스세 처리 개선) (Budget 2027 Touchpoints — Tax Measures, Appendix 34 (Improvement on Service Tax Treatment for Elderly Care Services))"
+    url: "https://belanjawan.mof.gov.my/pdf/belanjawan2027/ucapan/tax-measures.pdf"
+    publisher: "말레이시아 재무부 (MOF)"
+    date: "2026-10-09"
 
 entity: "Service tax rate and threshold table"
 relations:
@@ -152,6 +161,18 @@ keywords: ["SST rate table", "service tax groups Malaysia", "Group A to M servic
 | --- | --- | --- | --- | --- |
 | 일반 세율 | 6% | 8% | P.U.(A) 64/2024 | 2024년 3월 1일 |
 | 그룹 K 임대 또는 리스 | 8% | 6% | P.U.(A) 125/2026 | 2026년 1월 1일 |
+
+## 2027년 발표 사항 (2027년 예산안)
+
+2027년 예산안(2026년 10월 9일 상정)은 **노인 돌봄 서비스**의 과세 방식 변경을
+**2027년 1월 1일**부터 발표했습니다. 현재 이들은 **그룹 C**의 웰니스 센터 범주에
+따라 **8%**로 과세됩니다. 2027년 1월 1일부터는 **그룹 C에서 제외되어 그룹 I의
+신규 항목으로 도입**되며 **6%**로 과세됩니다(노인 돌봄 센터의 **RM500,000** 등록
+기준은 변동 없음). 또한 **연간 돌봄 가치가 RM96,000을 초과하지 않는 경우 서비스세
+면제**가 적용되며, 그 이상인 경우 제공자는 6%로 과세됩니다. 이는 2027년 예산안
+발표 사항(조세 조치 별표 34)으로 **아직 관보에 게재되지 않았습니다** — 서비스세
+규정 2018(Service Tax Regulations 2018)이 P.U.(A) 명령으로 개정될 때에만
+발효되므로, 그때까지는 위 표의 그룹 C 8% 세율이 적용됩니다.
 
 ## 참고
 
