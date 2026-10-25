@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "ECRL भूमि-पुल के लिए ~1.5-दिन की यात्रा-समय बचत एक Kuantan Port अनुमान है जो मूल रूप से 2017 के एक लेख में रिपोर्ट हुआ था; इस आँकड़े की वर्तमान रूटिंग विश्लेषण के विरुद्ध पुष्टि करें।"
 
 updated: 2026-08-14
 sources:

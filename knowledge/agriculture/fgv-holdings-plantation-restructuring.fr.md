@@ -32,7 +32,7 @@ faq:
     a: "FGV est une agro-industrie intégrée couvrant la plantation (palmier à huile, caoutchouc et énergie renouvelable), les huiles et graisses, le sucre, la logistique et les services d'appui, ainsi que les produits de consommation. Selon ses propres chiffres, il contribue à hauteur d'environ 3% de la production mondiale d'huile de palme brute."
 
 lang: "fr"
-sourceContentHash: "9db31d21c6785747"
+sourceContentHash: "2d6d408c100487d2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Malgré le drame corporatif, FGV demeure une grande entreprise opérationnelle. 
 - **Logistique et appui** — stockage, transport, services informatiques et de voyage.
 - **Produits de consommation** — produits alimentaires de marque.
 
-Selon ses propres chiffres, FGV contribue à hauteur d'environ **3% de la production mondiale et 14% de la production nationale d'huile de palme brute**, opère dans **sept pays** d'Asie, d'Europe et d'Amérique du Nord, et emploie **plus de 51,000 personnes**. Son communiqué de retrait de la cote note également que **plus de 70% de ses régimes de fruits frais** proviennent des colons et des petits producteurs de FELDA — le groupe au cœur de l'argument de la privatisation.
+Selon ses propres chiffres, FGV contribue à hauteur d'environ **3% de la production mondiale et 15% de la production nationale d'huile de palme brute**, opère dans **sept pays** d'Asie, d'Europe et d'Amérique du Nord, et emploie **plus de 51,000 personnes**. Son communiqué de retrait de la cote note également que **plus de 70% de ses régimes de fruits frais** proviennent des colons et des petits producteurs de FELDA — le groupe au cœur de l'argument de la privatisation.
 
 ## Que signifie la restructuration ?
 

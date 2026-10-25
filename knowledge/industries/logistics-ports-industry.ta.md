@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "ECRL நிலப்பாலத்திற்கான ~1.5-நாள் பயணநேரச் சேமிப்பு என்பது 2017-ஆம் ஆண்டு கட்டுரையில் முதலில் அறிக்கையிடப்பட்ட ஒரு Kuantan Port மதிப்பீடு; தற்போதைய பாதை பகுப்பாய்வுக்கு எதிராக அந்த எண்ணை உறுதிப்படுத்தவும்."
 
 updated: 2026-08-14
 sources:

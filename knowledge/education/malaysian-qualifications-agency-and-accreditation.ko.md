@@ -42,9 +42,6 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
-verificationNeeded:
-  - "자체 인증 기관의 프로그램이 MQR에 자동으로 등록되는지 신청을 통해 등록되는지(MQA의 qanew.cfm은 HEP가 '등록을 신청할 수 있다'고 함; 2차 요약은 기관 감사 후 자동 등록으로 설명)."
-  - "MQF 최소 학점 수치와 8개 단계 명칭을 현행 MQF 2판에 대조 — MQA가 개정판을 낼 경우에 대비."
 revisions:
   - revision: 0
     date: 2026-08-08

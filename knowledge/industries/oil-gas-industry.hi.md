@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "बिना हवाले वाले वर्णनात्मक दावे: Melaka रिफ़ाइनरियाँ, Petron/BHPetrol खुदरा नेटवर्क, Peninsular Gas Utilisation पाइपलाइन ग्रिड, और MISC द्वारा संचालित टैंकर/LNG-कैरियर बेड़ा — प्राथमिक स्रोत के बिना बताए गए सामान्य-उद्योग तथ्य।"
-  - "Bintulu LNG Complex के ट्रेन-गिनती/नामकरण (आठ भौतिक ट्रेन बनाम 'Train 9' लेबल) और वर्तमान ~29.3 mtpa क्षमता एक व्यापार-स्रोत (Offshore Technology) से लिए गए हैं; वर्तमान PETRONAS प्राथमिक सामग्री के विरुद्ध पुष्टि करें।"
-  - "Pengerang Integrated Complex के आँकड़े (300,000 bpd रिफ़ाइनरी, ~3.4 mtpa स्टीम क्रैकर, ~3.3 mtpa पेट्रोकेमिकल्स) किसी प्राप्त मद-वार स्रोत के बिना बताए गए हैं; PETRONAS PIC पृष्ठ या Integrated Report के विरुद्ध पुष्टि करें।"
-  - "अनुबंध-प्रकार परिवार-विवरण (R/C, SFA, LLA, EPT, RSC) को वर्तमान Malaysia Petroleum Management वित्तीय-शर्त पृष्ठों के विरुद्ध मिलाया जाना चाहिए, जो समय-समय पर संशोधित होते हैं।"
 
 updated: 2026-07-28
 sources:

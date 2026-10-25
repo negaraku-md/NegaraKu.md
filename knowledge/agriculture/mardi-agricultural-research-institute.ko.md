@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "MR 297의 반도 재배 면적 비중 ~50%는 MARDI 벼-쌀 페이지에 2021년 데이터로 명시됨; 그 수치가 여전히 유효한지 확인할 것."
-  - "KADARIA 1의 '말레이시아 최초의 하이브리드 벼' 지위와 비옥 지역 9.7~12 t/ha 수확량 범위."
-  - "국가 작물 유전자은행 수집 총계(16,000 이상; 벼 ~13,020) — Genesys-PGR 파트너 프로필이 MARDI의 최신 집계보다 뒤처질 수 있음; MARDI에 직접 확인할 것."
 updated: 2026-08-01
 sources:
   - title: "MARDI 소개 — 배경과 역사 (MARDI Profile — Background and History)"

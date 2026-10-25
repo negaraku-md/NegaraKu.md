@@ -40,10 +40,6 @@ assignee: null
 revision: 0
 created: '2026-10-19T00:00:00.000Z'
 updated: '2026-10-19T00:00:00.000Z'
-verificationNeeded:
-  - UPSR (Primary School Achievement Test) is understood to have been abolished around 2021 and replaced by school-based assessment; confirm the current primary-level assessment arrangement against the MOE before publication.
-  - Confirm the current compulsory-schooling age rule and whether compulsory education has been extended beyond primary level under any recent MOE policy.
-  - Confirm current post-secondary structure (Form Six/STPM, matriculation intake) against the MOE, as policy details change between cohorts.
 sources:
   - title: Education Act 1996 (Act 550)
     publisher: Attorney General's Chambers of Malaysia (AGC)

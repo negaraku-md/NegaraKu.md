@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Date exacte de l'action de notation de S&P de septembre 2025 : l'instantané d'InvestMalaysia indique « au 20 septembre 2025 », tandis que The Edge a rapporté la confirmation le 19 septembre 2025."
-  - "Un communiqué dédié de Moody's ou du MoF confirmant la confirmation A3 du 14 juillet 2026. Seul l'instantané d'InvestMalaysia documente actuellement cette date ; les chiffres de déficit de 3.8%/4.3%, l'attribution de la Public Finance and Fiscal Responsibility Act 2023 et la mention « économie notée A à la croissance la plus rapide » proviennent tous de la confirmation antérieure de Moody's du 25 janvier 2025."
-  - "Date exacte de l'action de Fitch de décembre 2025 : Xinhua a rapporté la confirmation le 8 décembre 2025, tandis que l'instantané d'InvestMalaysia indique « au 9 décembre 2025 »."
-  - "La formulation exacte de Moody's reconnaissant la Public Finance and Fiscal Responsibility Act 2023 dans la confirmation du 25 janvier 2025 (une requête de vérification a signalé cette attribution ; le texte du communiqué du MoF devrait être cité mot pour mot par un humain)."
 
 updated: 2026-08-08
 sources:

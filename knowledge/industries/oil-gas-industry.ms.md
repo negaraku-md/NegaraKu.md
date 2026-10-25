@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Dakwaan deskriptif tanpa petikan: loji penapisan Melaka, rangkaian runcit Petron/BHPetrol, grid saluran paip Peninsular Gas Utilisation, dan armada tangki/pengangkut LNG yang dikendalikan MISC — fakta industri umum yang dinyatakan tanpa sumber primer."
-  - "Kiraan/penamaan train Bintulu LNG Complex (lapan train fizikal berbanding label 'Train 9') dan kapasiti ~29.3 mtpa semasa diambil daripada sumber perdagangan (Offshore Technology); sahkan terhadap bahan utama PETRONAS semasa."
-  - "Angka Pengerang Integrated Complex (kilang penapisan 300,000 bpd, pemecah stim ~3.4 mtpa, petrokimia ~3.3 mtpa) dinyatakan tanpa sumber baris demi baris yang diperoleh; sahkan terhadap laman PIC PETRONAS atau Laporan Bersepadu."
-  - "Penerangan keluarga jenis kontrak (R/C, SFA, LLA, EPT, RSC) perlu diselaraskan terhadap halaman terma fiskal Malaysia Petroleum Management semasa, yang disemak semula secara berkala."
 
 updated: 2026-07-28
 sources:

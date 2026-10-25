@@ -50,10 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Les parts individuelles du PIB pour les services (~59 %) et l'industrie manufacturière (~23 %) sont dérivées du total combiné de 82,5 % publié par le DOSM ; confirmer la répartition exacte à partir des tableaux détaillés du PIB par secteur du DOSM avant de les présenter comme des chiffres précis."
-  - "Excédent commercial : les Statistiques du commerce extérieur 2024 du DOSM indiquent RM139.1 milliards ; le communiqué de performance commerciale de MATRADE aurait cité un chiffre légèrement différent (~RM136.9 milliards). Confirmer le chiffre final/révisé et l'organisme dont le chiffre doit figurer en premier."
-  - "« La Chine est restée le premier partenaire commercial de la Malaisie depuis plus d'une décennie » — confirmer le nombre exact d'années consécutives à partir de la dernière déclaration du DOSM (les « 16 ans » du brouillon antérieur n'étaient pas vérifiables dans les sources citées)."
 updated: 2026-07-28
 sources:
   - title: "Performance économique de l'huile de palme en Malaisie et progrès de la R&D en 2023 (Oil Palm Economic Performance in Malaysia and R&D Progress in 2023)"

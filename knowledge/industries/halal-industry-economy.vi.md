@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ngành công nghiệp halal được đặt mục tiêu đóng góp 10.8% GDP (khoảng RM231 tỷ) vào năm 2030."
   - "Malaysia vận hành khoảng 14 khu công nghiệp halal được chứng nhận HALMAS, với các ưu đãi thuế xếp chồng lên trên chứng nhận."
   - "Kế hoạch Tổng thể Ngành công nghiệp Halal 2030 đề ra 7 trụ cột chiến lược, 23 sáng kiến và 5 kết quả mục tiêu dưới sự chủ trì của MITI, với sự hỗ trợ của HDC."
-  - "Malaysia đã đứng đầu Chỉ số Kinh tế Hồi giáo Toàn cầu (Global Islamic Economy Indicator) trong mười năm liên tiếp."
+  - "Malaysia đã đứng đầu Chỉ số Kinh tế Hồi giáo Toàn cầu (Global Islamic Economy Indicator) trong mười hai năm liên tiếp."
 appliesTo: "Nhà xuất khẩu, doanh nghiệp vừa và nhỏ, nhà đầu tư, và bất kỳ ai nghiên cứu cách Malaysia biến halal thành một chính sách công nghiệp chứ không chỉ là một tiêu chuẩn tôn giáo."
 
 faq:
@@ -27,14 +27,14 @@ faq:
   - q: "Malaysia xuất khẩu bao nhiêu sản phẩm halal?"
     a: "Xuất khẩu sản phẩm halal đạt RM61.79 tỷ vào năm 2024, tăng 15% so với RM53.72 tỷ năm 2023. Chỉ riêng chín tháng đầu năm 2024, xuất khẩu đã là RM45.04 tỷ."
   - q: "Khu công nghiệp halal HALMAS là gì?"
-    a: "HALMAS là một trạng thái do HDC cấp cho các khu công nghiệp halal đủ điều kiện. Các công ty hoạt động trong đó có thể tiếp cận miễn thuế thu nhập, miễn thuế đối với máy móc và nguyên liệu, cùng các ưu đãi khác. Malaysia có khoảng 14 khu như vậy, được các bản tổng hợp ngành báo cáo là bao phủ tổng cộng hơn 200,000 mẫu Anh (con số đang chờ xác nhận từ nguồn gốc)."
+    a: "HALMAS là một trạng thái do HDC cấp cho các khu công nghiệp halal đủ điều kiện. Các công ty hoạt động trong đó có thể tiếp cận miễn thuế thu nhập, miễn thuế đối với máy móc và nguyên liệu, cùng các ưu đãi khác. Malaysia có khoảng 14 khu như vậy, bao phủ tổng cộng khoảng 13,550 mẫu Anh (khoảng 5,485 hecta)."
   - q: "Ai điều hành chương trình nghị sự ngành công nghiệp halal của Malaysia?"
     a: "Tổng công ty Phát triển Halal (HDC) là cơ quan điều phối của chính phủ. Chính sách thuộc về Bộ Đầu tư, Thương mại và Công nghiệp (MITI) thông qua Kế hoạch Tổng thể Ngành công nghiệp Halal 2030."
   - q: "Ngành công nghiệp halal có phải chỉ dành cho người Hồi giáo không?"
     a: "Không. Chứng nhận halal báo hiệu các tiêu chuẩn vệ sinh, truy xuất nguồn gốc và chất lượng, và khu vực này tiếp thị tới cả người tiêu dùng Hồi giáo lẫn không theo Hồi giáo và tới các thị trường xuất khẩu không có đa số dân theo Hồi giáo."
 
 lang: "vi"
-sourceContentHash: "94481a23df67c89e"
+sourceContentHash: "9d04292f801ee238"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ Hãy hình dung nó như ba lớp xếp chồng lên nhau.
 | Tăng trưởng xuất khẩu so với cùng kỳ | 15% | 2023 đến 2024 |
 | Xuất khẩu halal (9 tháng đầu) | RM45.04 tỷ | Tháng 1–9 2024 |
 | Mức đóng góp GDP mục tiêu | 10.8% (khoảng RM231 tỷ) | trước 2030 |
-| Xếp hạng Chỉ số Kinh tế Hồi giáo Toàn cầu | Thứ 1, mười năm liên tiếp | — |
+| Xếp hạng Chỉ số Kinh tế Hồi giáo Toàn cầu | Thứ 1, mười hai năm liên tiếp | — |
 
 Con số xuất khẩu RM61.79 tỷ của năm 2024 là một kỷ lục, và nó nằm trong một phần thưởng toàn cầu lớn hơn nhiều: nhu cầu sản phẩm halal trên toàn thế giới được định giá hơn US$3 nghìn tỷ hiện nay và dự kiến đạt khoảng US$5 nghìn tỷ vào năm 2030. Lời chào của Malaysia với các nhà đầu tư là nó có thể là cơ sở tuân thủ, đáng tin cậy để phục vụ thị trường đó.
 
@@ -117,7 +117,7 @@ Con số xuất khẩu RM61.79 tỷ của năm 2024 là một kỷ lục, và n�
 
 Nếu bạn muốn nhìn ngành công nghiệp như một cơ sở hạ tầng, hãy nhìn vào các khu công nghiệp halal.
 
-Malaysia vận hành khoảng 14 khu công nghiệp halal được chứng nhận HALMAS — các khu công nghiệp chuyên biệt mang trạng thái do Tổng công ty Phát triển Halal cấp — được các bản tổng hợp ngành báo cáo là trải rộng tổng cộng hơn 200,000 mẫu Anh. (Cả số lượng khu và diện tích đều bắt nguồn từ các bài viết ngành thương mại chứ không phải một nguồn gốc từ HDC, và được đánh dấu để xác nhận.) HALMAS không chỉ là một nhãn hiệu; nó là cánh cửa dẫn tới một gói ưu đãi được thiết kế để giảm chi phí xây dựng một hoạt động tuân thủ halal. Các khu được nêu tên thường được nhắc đến trong mạng lưới này bao gồm Selangor Halal Hub tại Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park và POIC Tanjung Langsat.
+Malaysia vận hành khoảng 14 khu công nghiệp halal được chứng nhận HALMAS — các khu công nghiệp chuyên biệt mang trạng thái do Tổng công ty Phát triển Halal cấp — trải rộng khoảng 13,550 mẫu Anh (khoảng 5,485 hecta) tổng cộng. HALMAS không chỉ là một nhãn hiệu; nó là cánh cửa dẫn tới một gói ưu đãi được thiết kế để giảm chi phí xây dựng một hoạt động tuân thủ halal. Các khu được nêu tên thường được nhắc đến trong mạng lưới này bao gồm Selangor Halal Hub tại Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park và POIC Tanjung Langsat.
 
 Các ưu đãi xếp chồng lên trên trạng thái khu công nghiệp thường bao gồm:
 

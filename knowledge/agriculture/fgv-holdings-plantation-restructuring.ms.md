@@ -32,7 +32,7 @@ faq:
     a: "FGV ialah agroperniagaan bersepadu yang merangkumi perladangan (kelapa sawit, getah dan tenaga boleh diperbaharui), minyak dan lemak, gula, logistik dan perkhidmatan sokongan, serta produk pengguna. Menurut kenyataannya sendiri, ia menyumbang kira-kira 3% daripada pengeluaran minyak sawit mentah global."
 
 lang: "ms"
-sourceContentHash: "9db31d21c6785747"
+sourceContentHash: "2d6d408c100487d2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Walaupun berlaku drama korporat, FGV kekal sebagai perniagaan operasi yang besar
 - **Logistik & Sokongan** — penyimpanan, pengangkutan, IT dan perkhidmatan perjalanan.
 - **Produk Pengguna** — barangan makanan berjenama.
 
-Menurut kenyataannya sendiri, FGV menyumbang kira-kira **3% daripada pengeluaran minyak sawit mentah global dan 14% pengeluaran negara**, beroperasi di **tujuh buah negara** di Asia, Eropah dan Amerika Utara, serta menggaji **lebih 51,000 orang**. Kenyataan penyahsenaraiannya turut menyebut bahawa **lebih 70% daripada buah tandan segarnya** datang daripada peneroka dan pekebun kecil FELDA — golongan yang menjadi teras hujah pemersendirian itu.
+Menurut kenyataannya sendiri, FGV menyumbang kira-kira **3% daripada pengeluaran minyak sawit mentah global dan 15% pengeluaran negara**, beroperasi di **tujuh buah negara** di Asia, Eropah dan Amerika Utara, serta menggaji **lebih 51,000 orang**. Kenyataan penyahsenaraiannya turut menyebut bahawa **lebih 70% daripada buah tandan segarnya** datang daripada peneroka dan pekebun kecil FELDA — golongan yang menjadi teras hujah pemersendirian itu.
 
 ## Apakah maksud penstrukturan semula ini?
 

@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "ECRL陸橋による約1.5日の航行時間節約という数字は、2017年の記事で最初に報じられたクアンタン港の試算である；この数字は現行の航路分析に照らして確認する必要がある。"
 
 updated: 2026-08-14
 sources:

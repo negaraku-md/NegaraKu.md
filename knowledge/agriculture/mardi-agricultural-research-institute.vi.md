@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Độ phủ ~50% ở bán đảo của MR 297 được nêu là dữ liệu năm 2021 trên trang lúa-gạo của MARDI; hãy xác nhận con số vẫn còn hiện hành."
-  - "Tình trạng của KADARIA 1 là 'giống lúa lai đầu tiên của Malaysia' và khoảng sản lượng 9.7-12 tấn/ha ở khu vực màu mỡ."
-  - "Tổng số accession của ngân hàng gene cây trồng quốc gia (hơn 16,000; lúa ~13,020) — hồ sơ đối tác Genesys-PGR có thể tụt hậu so với con số mới nhất của MARDI; hãy xác nhận trực tiếp với MARDI."
 updated: 2026-08-01
 sources:
   - title: "Hồ sơ MARDI — Bối cảnh và Lịch sử (MARDI Profile — Background and History)"

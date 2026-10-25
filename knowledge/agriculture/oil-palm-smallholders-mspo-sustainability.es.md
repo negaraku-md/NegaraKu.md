@@ -29,10 +29,10 @@ faq:
   - q: "¿Qué parte de la palma aceitera de Malasia cultivan los pequeños productores?"
     a: "En 2023, los pequeños productores independientes plantaron 822,073 hectáreas (14.5%) y los organizados 674,453 hectáreas (11.9%). Juntos representan alrededor del 26% del total nacional de 5.65 millones de hectáreas; las fincas privadas y gubernamentales tienen el resto."
   - q: "¿Qué es el EUDR y por qué importa a los pequeños productores?"
-    a: "El Reglamento de la UE sobre Deforestación define los productos como «libres de deforestación» solo si se cultivan en tierras no deforestadas después del 31 de diciembre de 2020 (Reglamento (UE) 2023/1115, artículo 2). Exige geolocalización a nivel de parcela (cartografía de polígonos), algo técnicamente difícil de producir por sí mismos para agricultores pequeños, a menudo de edad avanzada y remotos."
+    a: "El Reglamento de la UE sobre Deforestación define los productos como «libres de deforestación» solo si se cultivan en tierras no deforestadas después del 31 de diciembre de 2020 (Reglamento (UE) 2023/1115, artículo 2). Exige geolocalización a nivel de parcela —cartografía de polígonos para las parcelas de más de 4 hectáreas, admitiéndose un único punto GPS para las parcelas de 4 hectáreas o menos—, algo técnicamente difícil de producir por sí mismos para agricultores pequeños, a menudo de edad avanzada y remotos."
 
 lang: "es"
-sourceContentHash: "f19a6853ff95da87"
+sourceContentHash: "ebff3a00ed279872"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Currency of the ~250,000 independent smallholder licence figure (MSPO cites it as of December 2021); confirm the latest MSPO licence count."
-  - "EUDR application dates (30 Dec 2026 / 30 June 2027) are subject to further EU legislative change; confirm they still hold at time of human review."
-  - "Whether EUDR requires polygon geolocation for all smallholder plots or permits single-point coordinates below a size threshold."
-  - "Wilmar's ~190 smallholders in Bintulu and the attributed conservation-lead quote (via Eco-Business) — confirm figure and attribution are still accurate."
 
 updated: 2026-08-01
 sources:
@@ -130,7 +125,7 @@ Una parte dedicada a los pequeños productores reduce la carga de documentación
 
 Porque el cumplimiento ya no es solo nacional. El **Reglamento de la UE sobre Deforestación (EUDR)** prohíbe el aceite de palma (y otros productos básicos) en el mercado de la UE a menos que el vendedor pueda demostrar que el producto está «libre de deforestación» — cultivado en tierras no deforestadas después del **31 de diciembre de 2020**, la fecha de referencia establecida en el artículo 2 del Reglamento (UE) 2023/1115. Tras varios aplazamientos, la Comisión Europea confirmó que el reglamento se aplica desde el **30 de diciembre de 2026** para los operadores y comerciantes grandes y medianos, y desde el **30 de junio de 2027** para las microempresas, las pequeñas empresas y las personas físicas.
 
-El aguijón para los pequeños productores es el mecanismo de prueba. El EUDR exige **geolocalización** a nivel de parcela — cartografía de polígonos que registra como coordenadas los límites exactos de cada explotación. Un responsable de conservación de Wilmar describió la dificultad con llaneza: los pequeños productores «saben exactamente dónde están sus límites», pero trazar esos límites en polígonos limpios «es el mayor desafío». La barrera es la pericia técnica, no la voluntad.
+El aguijón para los pequeños productores es el mecanismo de prueba. El EUDR exige **geolocalización** a nivel de parcela: cartografía de polígonos que registra los límites exactos de las parcelas de más de 4 hectáreas, admitiéndose una única coordenada GPS para las parcelas de 4 hectáreas o menos. Un responsable de conservación de Wilmar describió la dificultad con llaneza: los pequeños productores «saben exactamente dónde están sus límites», pero trazar esos límites en polígonos limpios «es el mayor desafío». La barrera es la pericia técnica, no la voluntad.
 
 ## ¿En qué posición queda el agricultor individual?
 

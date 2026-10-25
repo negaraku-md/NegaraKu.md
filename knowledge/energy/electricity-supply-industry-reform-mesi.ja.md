@@ -46,10 +46,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "区分（ring-fenced）されたSingle Buyerの正確な設立年（一般には2012年と報じられている）——Single Buyer自身のサイトやEnergy Commissionに照らして確認できなかったため、一次資料が見つかるまで具体的な年は削除している。"
-  - "Shamsul Anuar Nasarah大臣がMESI 2.0の見直しを勧告した国会発言の正確な日付——2020年7月21日（KeTSA在任中の火曜日）とみられるが、The Edgeの記事は動的な日付表示のため署名日付を正確に読み取れなかった。年については2020年のまま維持している。"
-  - "グリッドシステムオペレーター（Grid System Operator）がTNB内部の区分（ring-fenced）された組織として正式に設立された日付、および正確な法的・組織的地位——公式サイトにより当該組織の存在は確認できたが、引用元の出典には設立日が記載されていない。"
 revisions:
   - revision: 0
     date: 2026-08-01

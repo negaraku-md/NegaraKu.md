@@ -18,7 +18,7 @@ keyTakeaways:
   - "The halal industry is targeted to contribute 10.8% of GDP (about RM231 billion) by 2030."
   - "Malaysia runs around 14 HALMAS-certified halal parks, with tax incentives layered on top of certification."
   - "The Halal Industry Master Plan 2030 sets out 7 strategic thrusts, 23 initiatives and 5 target outcomes under MITI, with HDC support."
-  - "Malaysia has topped the Global Islamic Economy Indicator for ten consecutive years."
+  - "Malaysia has topped the Global Islamic Economy Indicator for twelve consecutive years."
 appliesTo: "Exporters, SMEs, investors, and anyone researching how Malaysia turns halal into an industrial policy rather than only a religious standard."
 
 faq:
@@ -27,7 +27,7 @@ faq:
   - q: "How much does Malaysia export in halal products?"
     a: "Halal product exports reached RM61.79 billion in 2024, a 15% rise from RM53.72 billion in 2023. In the first nine months of 2024 alone, exports were RM45.04 billion."
   - q: "What is a HALMAS halal park?"
-    a: "HALMAS is a status awarded by HDC to qualifying halal parks. Companies operating in them can access income tax exemptions, duty exemptions on machinery and raw materials, and other incentives. Malaysia has around 14 such parks, reported by industry summaries to cover more than 200,000 acres in total (figure pending primary confirmation)."
+    a: "HALMAS is a status awarded by HDC to qualifying halal parks. Companies operating in them can access income tax exemptions, duty exemptions on machinery and raw materials, and other incentives. Malaysia has around 14 such parks, covering about 13,550 acres (roughly 5,485 hectares) in total."
   - q: "Who runs Malaysia's halal industry agenda?"
     a: "The Halal Development Corporation (HDC) is the government's coordinating body. Policy sits with the Ministry of Investment, Trade and Industry (MITI) through the Halal Industry Master Plan 2030."
   - q: "Is the halal industry only for Muslims?"
@@ -50,7 +50,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Exact count (stated as 14) and total area (stated as 200,000+ acres) of HALMAS-certified halal parks — currently sourced only to commercial industry summaries; confirm against a primary HDC or MITI source."
   - "Current HALMAS-certified status of the named parks (Selangor Halal Hub / Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park, POIC Tanjung Langsat)."
   - "Breadth of international recognition of JAKIM halal certification — the previously stated 'over 100 countries' figure could not be confirmed against a JAKIM/HDC primary source and has been removed; confirm the correct figure before restating a number."
   - "Full list of quality standards eligible for the double-deduction incentive — HACCP and GMP are confirmed by the cited source; any additional standards (e.g. Codex) are unverified."
@@ -108,7 +107,7 @@ Big enough that the government treats it as a national growth sector rather than
 | Year-on-year export growth | 15% | 2023 to 2024 |
 | Halal exports (first 9 months) | RM45.04 billion | Jan–Sep 2024 |
 | Targeted GDP contribution | 10.8% (about RM231 billion) | by 2030 |
-| Global Islamic Economy Indicator rank | 1st, ten years running | — |
+| Global Islamic Economy Indicator rank | 1st, twelve years running | — |
 
 The RM61.79 billion export figure for 2024 is a record, and it sits inside a much larger global prize: worldwide demand for halal products is valued at over US$3 trillion today and is expected to reach roughly US$5 trillion by 2030. Malaysia's pitch to investors is that it can be the compliant, credible base from which to serve that market.
 
@@ -116,7 +115,7 @@ The RM61.79 billion export figure for 2024 is a record, and it sits inside a muc
 
 If you want to see the industry as infrastructure, look at the halal parks.
 
-Malaysia operates around 14 HALMAS-certified halal parks — dedicated industrial estates that carry a status awarded by the Halal Development Corporation — reported by industry summaries to span more than 200,000 acres in total. (Both the park count and the acreage trace to commercial industry write-ups rather than a primary HDC source, and are flagged for confirmation.) HALMAS is not merely a label; it is a gateway to a package of incentives designed to lower the cost of building a halal-compliant operation. Named parks commonly cited in the network include Selangor Halal Hub at Pulau Indah, Penang International Halal Hub, the PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park and POIC Tanjung Langsat.
+Malaysia operates around 14 HALMAS-certified halal parks — dedicated industrial estates that carry a status awarded by the Halal Development Corporation — spanning about 13,550 acres (roughly 5,485 hectares) in total. HALMAS is not merely a label; it is a gateway to a package of incentives designed to lower the cost of building a halal-compliant operation. Named parks commonly cited in the network include Selangor Halal Hub at Pulau Indah, Penang International Halal Hub, the PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park and POIC Tanjung Langsat.
 
 The incentives layered on top of park status typically include:
 

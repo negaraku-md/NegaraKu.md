@@ -29,10 +29,10 @@ faq:
   - q: "Tiểu điền chủ canh tác bao nhiêu phần cọ dầu của Malaysia?"
     a: "Năm 2023, các tiểu điền chủ độc lập trồng 822,073 hecta (14.5%) và các tiểu điền chủ có tổ chức 674,453 hecta (11.9%). Cùng nhau, họ chiếm khoảng 26% trong tổng 5.65 triệu hecta của cả nước; các điền trang tư nhân và của chính phủ nắm giữ phần còn lại."
   - q: "EUDR là gì và tại sao nó quan trọng với tiểu điền chủ?"
-    a: "Quy định về Không phá rừng của EU định nghĩa các sản phẩm là 'không phá rừng' chỉ khi được trồng trên đất không bị phá rừng sau ngày 31 tháng 12 năm 2020 (Regulation (EU) 2023/1115, Article 2). Nó đòi hỏi định vị địa lý ở cấp mảnh đất (lập bản đồ đa giác), điều khó về mặt kỹ thuật đối với các nông dân nhỏ, thường cao tuổi, ở vùng xa tự tạo ra."
+    a: "Quy định về Không phá rừng của EU định nghĩa các sản phẩm là 'không phá rừng' chỉ khi được trồng trên đất không bị phá rừng sau ngày 31 tháng 12 năm 2020 (Regulation (EU) 2023/1115, Article 2). Nó đòi hỏi định vị địa lý ở cấp mảnh đất — lập bản đồ đa giác đối với các mảnh đất lớn hơn 4 hecta, với một điểm GPS đơn được cho phép đối với các mảnh đất từ 4 hecta trở xuống — điều khó về mặt kỹ thuật đối với các nông dân nhỏ, thường cao tuổi, ở vùng xa tự tạo ra."
 
 lang: "vi"
-sourceContentHash: "f19a6853ff95da87"
+sourceContentHash: "ebff3a00ed279872"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tính hiện hành của con số ~250,000 giấy phép tiểu điền chủ độc lập (MSPO trích dẫn tính đến tháng 12 năm 2021); hãy xác nhận số giấy phép MSPO mới nhất."
-  - "Các ngày áp dụng EUDR (30 tháng 12 năm 2026 / 30 tháng 6 năm 2027) có thể thay đổi do các thay đổi lập pháp thêm của EU; hãy xác nhận chúng vẫn còn hiệu lực vào thời điểm người rà soát."
-  - "Liệu EUDR có đòi hỏi định vị địa lý đa giác cho tất cả các mảnh đất của tiểu điền chủ hay cho phép tọa độ điểm đơn dưới một ngưỡng kích thước."
-  - "Khoảng 190 tiểu điền chủ của Wilmar ở Bintulu và câu nói được quy cho người phụ trách bảo tồn (qua Eco-Business) — hãy xác nhận con số và việc quy dẫn vẫn còn chính xác."
 
 updated: 2026-08-01
 sources:
@@ -130,7 +125,7 @@ Một phần dành riêng cho tiểu điền chủ làm giảm gánh nặng ghi 
 
 Vì việc tuân thủ không còn chỉ mang tính quốc gia. **Quy định về Không phá rừng của EU (EUDR)** cấm dầu cọ (và các mặt hàng khác) khỏi thị trường EU trừ khi người bán có thể cho thấy sản phẩm là "không phá rừng" — được trồng trên đất không bị phá rừng sau ngày **31 tháng 12 năm 2020**, ngày tham chiếu được đặt ra trong Article 2 của Regulation (EU) 2023/1115. Sau nhiều lần trì hoãn, Ủy ban châu Âu xác nhận quy định áp dụng từ ngày **30 tháng 12 năm 2026** đối với các nhà điều hành và thương nhân lớn và trung bình, và từ ngày **30 tháng 6 năm 2027** đối với các doanh nghiệp vi mô và nhỏ cùng thể nhân.
 
-Điểm gây khó cho tiểu điền chủ là cơ chế chứng minh. EUDR đòi hỏi **định vị địa lý** ở cấp mảnh đất — lập bản đồ đa giác ghi lại ranh giới chính xác của mỗi trang trại dưới dạng tọa độ. Một người phụ trách bảo tồn tại Wilmar mô tả khó khăn một cách thẳng thắn: các tiểu điền chủ "biết chính xác ranh giới của họ ở đâu," nhưng vẽ những ranh giới đó thành các đa giác sạch "là thách thức lớn nhất." Rào cản là chuyên môn kỹ thuật chứ không phải sự sẵn lòng.
+Điểm gây khó cho tiểu điền chủ là cơ chế chứng minh. EUDR đòi hỏi **định vị địa lý** ở cấp mảnh đất — lập bản đồ đa giác ghi lại ranh giới chính xác đối với các mảnh đất lớn hơn 4 hecta, với một tọa độ GPS đơn được cho phép đối với các mảnh đất từ 4 hecta trở xuống. Một người phụ trách bảo tồn tại Wilmar mô tả khó khăn một cách thẳng thắn: các tiểu điền chủ "biết chính xác ranh giới của họ ở đâu," nhưng vẽ những ranh giới đó thành các đa giác sạch "là thách thức lớn nhất." Rào cản là chuyên môn kỹ thuật chứ không phải sự sẵn lòng.
 
 ## Điều đó đặt người nông dân cá nhân vào đâu?
 

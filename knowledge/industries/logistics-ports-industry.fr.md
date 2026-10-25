@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "L'économie d'environ 1.5 jour de navigation pour le pont terrestre de l'ECRL est une estimation de Kuantan Port, rapportée à l'origine dans un article de 2017 ; confirmer le chiffre par rapport à une analyse de routage actuelle."
 
 updated: 2026-08-14
 sources:

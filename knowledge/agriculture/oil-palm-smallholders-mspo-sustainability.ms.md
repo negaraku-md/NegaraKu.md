@@ -29,10 +29,10 @@ faq:
   - q: "Berapa banyak kelapa sawit Malaysia yang diusahakan oleh pekebun kecil?"
     a: "Pada 2023, pekebun kecil persendirian menanam 822,073 hektar (14.5%) dan pekebun kecil tersusun 674,453 hektar (11.9%). Bersama-sama mereka mewakili kira-kira 26% daripada jumlah kebangsaan 5.65 juta hektar; ladang persendirian dan kerajaan memegang selebihnya."
   - q: "Apakah EUDR dan mengapa ia penting kepada pekebun kecil?"
-    a: "Peraturan Penyahhutanan EU mentakrifkan produk sebagai 'bebas-penyahhutanan' hanya jika ditanam di atas tanah yang tidak dinyahhutan selepas 31 Disember 2020 (Peraturan (EU) 2023/1115, Perkara 2). Ia memerlukan geolokasi peringkat lot (pemetaan poligon), yang secara teknikal sukar untuk dihasilkan sendiri oleh petani kecil, yang sering berusia lanjut dan terpencil."
+    a: "Peraturan Penyahhutanan EU mentakrifkan produk sebagai 'bebas-penyahhutanan' hanya jika ditanam di atas tanah yang tidak dinyahhutan selepas 31 Disember 2020 (Peraturan (EU) 2023/1115, Perkara 2). Ia memerlukan geolokasi peringkat lot — pemetaan poligon bagi lot yang melebihi 4 hektar, dengan satu titik GPS tunggal dibenarkan bagi lot seluas 4 hektar atau kurang — yang secara teknikal sukar untuk dihasilkan sendiri oleh petani kecil, yang sering berusia lanjut dan terpencil."
 
 lang: "ms"
-sourceContentHash: "f19a6853ff95da87"
+sourceContentHash: "ebff3a00ed279872"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Kesahihan semasa angka ~250,000 lesen pekebun kecil bebas (MSPO memetiknya setakat Disember 2021); sahkan kiraan lesen MSPO terkini."
-  - "Tarikh pemakaian EUDR (30 Dis 2026 / 30 Jun 2027) tertakluk kepada perubahan perundangan EU yang lanjut; sahkan bahawa ia masih terpakai pada masa semakan oleh manusia."
-  - "Whether EUDR requires polygon geolocation for all smallholder plots or permits single-point coordinates below a size threshold."
-  - "Kira-kira 190 pekebun kecil Wilmar di Bintulu dan petikan ketua pemuliharaan yang dikaitkan (melalui Eco-Business) — sahkan angka dan atribusi masih tepat."
 
 updated: 2026-08-01
 sources:
@@ -130,7 +125,7 @@ Bahagian khusus untuk pekebun kecil mengurangkan beban dokumentasi berbanding pi
 
 Kerana pematuhan bukan lagi hanya di peringkat kebangsaan. **Peraturan Penyahhutanan EU (EUDR)** menyekat minyak sawit (dan komoditi lain) daripada pasaran EU melainkan penjual boleh membuktikan produk itu "bebas-penyahhutanan" — ditanam di atas tanah yang tidak dinyahhutan selepas **31 Disember 2020**, tarikh rujukan yang ditetapkan dalam Perkara 2 Peraturan (EU) 2023/1115. Selepas beberapa penangguhan, Suruhanjaya Eropah mengesahkan peraturan itu terpakai mulai **30 Disember 2026** untuk pengendali dan pedagang besar dan sederhana, dan mulai **30 Jun 2027** untuk perusahaan mikro dan kecil serta orang perseorangan.
 
-Cabaran bagi pekebun kecil ialah mekanisme pembuktian. EUDR memerlukan **geolokasi** peringkat lot — pemetaan poligon yang merekodkan sempadan tepat setiap ladang sebagai koordinat. Seorang ketua pemuliharaan di Wilmar menggambarkan kesukaran itu secara jelas: pekebun kecil "tahu dengan tepat di mana sempadan mereka," tetapi melukis sempadan itu menjadi poligon yang kemas "ialah cabaran terbesar." Halangan itu ialah kepakaran teknikal, bukannya kesediaan.
+Cabaran bagi pekebun kecil ialah mekanisme pembuktian. EUDR memerlukan **geolokasi** peringkat lot: pemetaan poligon yang merekodkan sempadan tepat bagi lot yang melebihi 4 hektar, dengan satu koordinat GPS tunggal dibenarkan bagi lot seluas 4 hektar atau kurang. Seorang ketua pemuliharaan di Wilmar menggambarkan kesukaran itu secara jelas: pekebun kecil "tahu dengan tepat di mana sempadan mereka," tetapi melukis sempadan itu menjadi poligon yang kemas "ialah cabaran terbesar." Halangan itu ialah kepakaran teknikal, bukannya kesediaan.
 
 ## Di manakah kedudukan petani individu?
 

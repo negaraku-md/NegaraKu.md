@@ -29,10 +29,10 @@ faq:
   - q: "Quelle part du palmier à huile de la Malaisie les petits exploitants cultivent-ils ?"
     a: "En 2023, les petits exploitants indépendants ont planté 822,073 hectares (14.5%) et les exploitants organisés 674,453 hectares (11.9%). Ensemble, ils représentent environ 26% du total national de 5.65 millions d'hectares ; les domaines privés et gouvernementaux détiennent le reste."
   - q: "Qu'est-ce que l'EUDR et pourquoi importe-t-il aux petits exploitants ?"
-    a: "Le Règlement de l'UE sur la déforestation définit les produits comme « sans déforestation » uniquement s'ils sont cultivés sur des terres non déboisées après le 31 décembre 2020 (Règlement (UE) 2023/1115, article 2). Il exige une géolocalisation au niveau de la parcelle (cartographie de polygones), ce qui est techniquement difficile à produire par eux-mêmes pour des agriculteurs petits, souvent âgés et isolés."
+    a: "Le Règlement de l'UE sur la déforestation définit les produits comme « sans déforestation » uniquement s'ils sont cultivés sur des terres non déboisées après le 31 décembre 2020 (Règlement (UE) 2023/1115, article 2). Il exige une géolocalisation au niveau de la parcelle — une cartographie de polygones pour les parcelles de plus de 4 hectares, un seul point GPS étant admis pour les parcelles de 4 hectares ou moins —, ce qui est techniquement difficile à produire par eux-mêmes pour des agriculteurs petits, souvent âgés et isolés."
 
 lang: "fr"
-sourceContentHash: "f19a6853ff95da87"
+sourceContentHash: "ebff3a00ed279872"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "L'actualité du chiffre d'environ 250,000 licences de petits exploitants indépendants (la MSPO le cite en date de décembre 2021) ; confirmer le dernier décompte de licences MSPO."
-  - "Les dates d'application de l'EUDR (30 déc. 2026 / 30 juin 2027) sont susceptibles d'évoluer selon la législation de l'UE ; confirmer qu'elles tiennent toujours au moment de la révision humaine."
-  - "Si l'EUDR exige une géolocalisation par polygone pour toutes les parcelles de petits exploitants ou autorise des coordonnées à point unique en dessous d'un seuil de taille."
-  - "Les ~190 petits exploitants de Wilmar à Bintulu et la citation attribuée au responsable de la conservation (via Eco-Business) — confirmer que le chiffre et l'attribution restent exacts."
 
 updated: 2026-08-01
 sources:
@@ -130,7 +125,7 @@ Une partie dédiée aux petits exploitants réduit la charge de documentation pa
 
 Parce que la conformité n'est plus seulement nationale. Le **Règlement de l'UE sur la déforestation (EUDR)** interdit l'huile de palme (et d'autres produits de base) sur le marché de l'UE à moins que le vendeur ne puisse démontrer que le produit est « sans déforestation » — cultivé sur des terres non déboisées après le **31 décembre 2020**, la date de référence fixée à l'article 2 du Règlement (UE) 2023/1115. Après plusieurs reports, la Commission européenne a confirmé que le règlement s'applique à partir du **30 décembre 2026** pour les grands et moyens opérateurs et négociants, et à partir du **30 juin 2027** pour les micro et petites entreprises et les personnes physiques.
 
-L'aiguillon pour les petits exploitants est le mécanisme de preuve. L'EUDR exige une **géolocalisation** au niveau de la parcelle — une cartographie de polygones qui enregistre comme coordonnées les limites exactes de chaque exploitation. Un responsable de la conservation chez Wilmar a décrit la difficulté sans détour : les petits exploitants « savent exactement où se trouvent leurs limites », mais tracer ces limites en polygones nets « est le plus grand défi ». L'obstacle est l'expertise technique, et non la volonté.
+L'aiguillon pour les petits exploitants est le mécanisme de preuve. L'EUDR exige une **géolocalisation** au niveau de la parcelle : une cartographie de polygones qui enregistre les limites exactes pour les parcelles de plus de 4 hectares, une seule coordonnée GPS étant admise pour les parcelles de 4 hectares ou moins. Un responsable de la conservation chez Wilmar a décrit la difficulté sans détour : les petits exploitants « savent exactement où se trouvent leurs limites », mais tracer ces limites en polygones nets « est le plus grand défi ». L'obstacle est l'expertise technique, et non la volonté.
 
 ## Où cela laisse-t-il l'agriculteur individuel ?
 

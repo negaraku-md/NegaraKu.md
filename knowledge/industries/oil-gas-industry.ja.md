@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "出典未記載の記述的主張：マラッカ製油所、Petron／BHPetrolの小売網、半島ガス利用（Peninsular Gas Utilisation）パイプライン網、およびMISCが運航するタンカー／LNG輸送船団——一次資料の裏付けなしに述べられた、業界一般に関する事実。"
-  - "ビントゥルLNGコンプレックスのトレイン数／呼称（実体としては8基のトレインに対し「トレイン9」という呼称が用いられている点）、および現在の約29.3 mtpaという能力は、業界系情報源（Offshore Technology）に基づくものである。Petronasの現行の一次資料と照合して確認すること。"
-  - "ペンゲラン総合石油コンプレックスの数値（日量300,000バレルの製油所、約3.4 mtpaのスチームクラッカー、約3.3 mtpaの石油化学製品）は、逐一の出典を確認しないまま記載されている。PetronasのPICページまたはIntegrated Reportと照合して確認すること。"
-  - "契約類型ファミリーの説明（R/C、SFA、LLA、EPT、RSC）は、定期的に改訂されるマレーシア石油管理局の現行の財政条件ページと突き合わせて確認する必要がある。"
 
 updated: 2026-07-28
 sources:

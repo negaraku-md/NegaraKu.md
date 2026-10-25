@@ -44,8 +44,6 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-14
 revision: 0
-verificationNeeded:
-  - "การประหยัดเวลาเดินเรือ ~1.5 วันสำหรับสะพานบก ECRL เป็นค่าประมาณของ Kuantan Port ที่รายงานครั้งแรกในบทความปี 2017; ยืนยันตัวเลขกับการวิเคราะห์เส้นทางปัจจุบัน"
 
 updated: 2026-08-14
 sources:

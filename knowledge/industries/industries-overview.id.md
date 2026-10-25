@@ -50,10 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Porsi PDB individu untuk jasa (~59%) dan manufaktur (~23%) diperoleh dari gabungan 82.5% yang diterbitkan DOSM; konfirmasikan pembagian tepat terhadap tabel PDB-menurut-sektor terperinci DOSM sebelum menyajikannya sebagai angka yang tepat."
-  - "Surplus perdagangan: External Trade Statistics 2024 DOSM melaporkan RM139.1 miliar; siaran kinerja perdagangan MATRADE dilaporkan mengutip angka yang sedikit berbeda (~RM136.9 miliar). Konfirmasikan angka final/revisi dan angka badan yang mana harus ditonjolkan."
-  - "'Tiongkok telah tetap menjadi mitra dagang terbesar Malaysia selama lebih dari satu dekade' — konfirmasikan jumlah tahun berturut-turut yang tepat terhadap pernyataan DOSM terkini (draf sebelumnya '16 tahun' tidak dapat dikonfirmasi dalam sumber yang dikutip)."
 updated: 2026-07-28
 sources:
   - title: "Kinerja Ekonomi Kelapa Sawit di Malaysia dan Kemajuan R&D pada 2023 (Oil Palm Economic Performance in Malaysia and R&D Progress in 2023)"

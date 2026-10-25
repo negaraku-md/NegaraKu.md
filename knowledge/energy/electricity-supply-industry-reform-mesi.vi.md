@@ -46,10 +46,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "Năm thành lập chính xác của Người Mua Duy nhất được rào chắn (được báo cáo rộng rãi là 2012) — không thể được xác nhận với trang riêng của Người Mua Duy nhất hoặc Ủy ban Năng lượng; năm cụ thể đã bị loại chờ một nguồn sơ cấp."
-  - "Ngày chính xác của tuyên bố trước nghị viện của Bộ trưởng Shamsul Anuar Nasarah khuyến nghị rà soát MESI 2.0 — có vẻ là ngày 21 tháng 7 năm 2020 (một thứ Ba trong nhiệm kỳ KeTSA của ông), nhưng bài báo của The Edge hiển thị một ngày động, nên dòng ghi tác giả không thể đọc rõ; năm được giữ là 2020."
-  - "Ngày thành lập chính thức và tình trạng pháp lý/tổ chức chính xác của Nhà Điều hành Hệ thống Lưới điện như một đơn vị được rào chắn của TNB — sự tồn tại của thực thể được xác nhận qua trang chính thức của nó, nhưng ngày thành lập không được ghi trong các nguồn được dẫn."
 revisions:
   - revision: 0
     date: 2026-08-01

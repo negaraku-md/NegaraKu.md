@@ -32,7 +32,7 @@ faq:
     a: "FGV là một doanh nghiệp kinh doanh nông nghiệp tích hợp trải rộng đồn điền (cọ dầu, cao su và năng lượng tái tạo), dầu và mỡ, đường, hậu cần và dịch vụ hỗ trợ, cùng các sản phẩm tiêu dùng. Theo tường trình của chính mình, nó đóng góp khoảng 3% sản lượng dầu cọ thô toàn cầu."
 
 lang: "vi"
-sourceContentHash: "9db31d21c6785747"
+sourceContentHash: "2d6d408c100487d2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Bất chấp kịch tính doanh nghiệp, FGV vẫn là một doanh nghiệp v�
 - **Hậu cần & Hỗ trợ** — lưu kho, vận tải, dịch vụ CNTT và du lịch.
 - **Sản phẩm Tiêu dùng** — hàng thực phẩm có thương hiệu.
 
-Theo tường trình của chính mình, FGV đóng góp khoảng **3% sản lượng dầu cọ thô toàn cầu và 14% quốc gia**, hoạt động trên **bảy quốc gia** ở châu Á, châu Âu và Bắc Mỹ, và tạo việc làm cho **hơn 51,000 người**. Tuyên bố hủy niêm yết của nó cũng lưu ý rằng **hơn 70% buồng quả tươi của nó** đến từ người khai hoang FELDA và tiểu điền chủ — nhóm nằm ở trung tâm của lập luận tư nhân hóa.
+Theo tường trình của chính mình, FGV đóng góp khoảng **3% sản lượng dầu cọ thô toàn cầu và 15% quốc gia**, hoạt động trên **bảy quốc gia** ở châu Á, châu Âu và Bắc Mỹ, và tạo việc làm cho **hơn 51,000 người**. Tuyên bố hủy niêm yết của nó cũng lưu ý rằng **hơn 70% buồng quả tươi của nó** đến từ người khai hoang FELDA và tiểu điền chủ — nhóm nằm ở trung tâm của lập luận tư nhân hóa.
 
 ## Việc tái cấu trúc có ý nghĩa gì?
 

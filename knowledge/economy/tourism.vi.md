@@ -40,10 +40,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "none"
-verificationNeeded:
-  - "Các bảng lượt-khách-theo-thị-trường, nguồn-thu-theo-thị-trường và chi-tiêu-theo-mục cho năm 2024 của Tourism Malaysia — các tệp PDF nguồn trên data.tourism.gov.my không thể đọc lại vào thời điểm soạn thảo; các con số nhất quán nội bộ và tổng RM106.8 tỷ được DOSM chứng thực, nhưng mỗi hàng vẫn cần một lần kiểm tra trực tiếp với tệp PDF đã công bố"
-  - "Sự phân chia khách du lịch/khách tham quan tháng 1-4 năm 2025, tỷ trọng phương thức nhập cảnh và số lượt đến Tambak Johor — cùng nguồn, cùng ràng buộc"
-  - "Các con số khách sạn, phòng, công suất, giá phòng và khách của Paid Accommodation Survey tháng 1-12 năm 2025 — tệp PDF cả năm không thể đọc lại; bản công bố tháng 1-9 năm 2025 trong cùng chuỗi nhất quán với chúng"
 
 updated: 2026-07-24
 sources:

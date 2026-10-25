@@ -29,10 +29,10 @@ faq:
   - q: "Berapa banyak kelapa sawit Malaysia yang diusahakan oleh pekebun kecil?"
     a: "Pada 2023, pekebun kecil mandiri menanam 822,073 hektar (14.5%) dan pekebun kecil terorganisasi 674,453 hektar (11.9%). Bersama-sama mereka mewakili sekitar 26% dari total nasional 5.65 juta hektar; ladang swasta dan pemerintah memegang sisanya."
   - q: "Apa itu EUDR dan mengapa penting bagi pekebun kecil?"
-    a: "Peraturan Deforestasi Uni Eropa mendefinisikan produk sebagai 'bebas-deforestasi' hanya jika ditanam di atas tanah yang tidak dideforestasi setelah 31 Desember 2020 (Peraturan (EU) 2023/1115, Pasal 2). Ia memerlukan geolokasi tingkat lot (pemetaan poligon), yang secara teknis sulit dihasilkan sendiri oleh petani kecil, yang sering lanjut usia dan terpencil."
+    a: "Peraturan Deforestasi Uni Eropa mendefinisikan produk sebagai 'bebas-deforestasi' hanya jika ditanam di atas tanah yang tidak dideforestasi setelah 31 Desember 2020 (Peraturan (EU) 2023/1115, Pasal 2). Ia memerlukan geolokasi tingkat lot — pemetaan poligon untuk lot yang lebih besar dari 4 hektar, dengan satu titik GPS diperbolehkan untuk lot seluas 4 hektar atau kurang — yang secara teknis sulit dihasilkan sendiri oleh petani kecil, yang sering lanjut usia dan terpencil."
 
 lang: "id"
-sourceContentHash: "f19a6853ff95da87"
+sourceContentHash: "ebff3a00ed279872"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Keabsahan terkini angka ~250,000 lisensi pekebun kecil mandiri (MSPO mengutipnya per Desember 2021); konfirmasikan hitungan lisensi MSPO terkini."
-  - "Tanggal berlaku EUDR (30 Des 2026 / 30 Juni 2027) tunduk pada perubahan legislasi UE lebih lanjut; konfirmasikan bahwa ia masih berlaku pada saat peninjauan oleh manusia."
-  - "Whether EUDR requires polygon geolocation for all smallholder plots or permits single-point coordinates below a size threshold."
-  - "Sekitar 190 pekebun kecil Wilmar di Bintulu dan kutipan kepala konservasi yang dikaitkan (melalui Eco-Business) — konfirmasikan angka dan atribusi masih tepat."
 
 updated: 2026-08-01
 sources:
@@ -130,7 +125,7 @@ Bagian khusus untuk pekebun kecil mengurangi beban dokumentasi dibanding standar
 
 Karena kepatuhan bukan lagi hanya di tingkat nasional. **Peraturan Deforestasi Uni Eropa (EUDR)** memblokir minyak sawit (dan komoditas lain) dari pasar UE kecuali penjual bisa membuktikan produk itu "bebas-deforestasi" — ditanam di atas tanah yang tidak dideforestasi setelah **31 Desember 2020**, tanggal acuan yang ditetapkan dalam Pasal 2 Peraturan (EU) 2023/1115. Setelah beberapa penundaan, Komisi Eropa mengonfirmasi peraturan itu berlaku mulai **30 Desember 2026** untuk operator dan pedagang besar dan menengah, dan mulai **30 Juni 2027** untuk perusahaan mikro dan kecil serta perseorangan.
 
-Tantangan bagi pekebun kecil adalah mekanisme pembuktian. EUDR memerlukan **geolokasi** tingkat lot — pemetaan poligon yang merekam batas tepat setiap ladang sebagai koordinat. Seorang kepala konservasi di Wilmar menggambarkan kesulitan itu secara jelas: pekebun kecil "tahu dengan tepat di mana batas mereka," tetapi menggambar batas itu menjadi poligon yang rapi "adalah tantangan terbesar." Hambatan itu adalah keahlian teknis, bukan kesediaan.
+Tantangan bagi pekebun kecil adalah mekanisme pembuktian. EUDR memerlukan **geolokasi** tingkat lot: pemetaan poligon yang merekam batas tepat untuk lot yang lebih besar dari 4 hektar, dengan satu koordinat GPS diperbolehkan untuk lot seluas 4 hektar atau kurang. Seorang kepala konservasi di Wilmar menggambarkan kesulitan itu secara jelas: pekebun kecil "tahu dengan tepat di mana batas mereka," tetapi menggambar batas itu menjadi poligon yang rapi "adalah tantangan terbesar." Hambatan itu adalah keahlian teknis, bukan kesediaan.
 
 ## Di mana kedudukan petani individu?
 

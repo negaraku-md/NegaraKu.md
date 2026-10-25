@@ -39,10 +39,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "none"
-verificationNeeded:
-  - "Tourism Malaysiaの2024年市場別到着数表、市場別収入表、項目別支出表——data.tourism.gov.my上の元PDFは執筆時点で再読み込みできなかった。数値は内部的に整合しており、RM1,068億の合計はDOSMによっても裏付けられているが、各行について公開PDFとの直接照合が依然として必要である"
-  - "2025年1〜4月の観光客（宿泊）／日帰り訪問者の内訳、入境手段別シェア、およびTambak Johor（ジョホール長堤）の到着数——出典・制約は同上"
-  - "2025年1〜12月の有料宿泊施設調査によるホテル数、客室数、稼働率、客室単価、宿泊客数——通年PDFは再読み込みできなかった。同シリーズの2025年1〜9月発表データはこれらと整合している"
 
 updated: 2026-07-24
 sources:

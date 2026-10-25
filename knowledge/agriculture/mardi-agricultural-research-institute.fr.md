@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "La couverture péninsulaire du MR 297 d'environ 50% est indiquée comme donnée de 2021 sur la page padi-beras de MARDI ; confirmer que le chiffre est toujours d'actualité."
-  - "Le statut de KADARIA 1 comme « premier riz hybride de la Malaisie » et sa fourchette de rendement de 9.7-12 t/ha en zone fertile."
-  - "Le total des accessions de la banque nationale de gènes de cultures (plus de 16,000 ; riz ~13,020) — le profil partenaire Genesys-PGR peut être en retard sur le dernier décompte de MARDI ; à confirmer directement auprès de MARDI."
 updated: 2026-08-01
 sources:
   - title: "Profil de MARDI — Historique et histoire (MARDI Profile — Background and History)"

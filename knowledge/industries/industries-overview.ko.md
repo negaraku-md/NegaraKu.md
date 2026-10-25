@@ -50,10 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "서비스(~59%)와 제조(~23%)의 개별 GDP 비중은 DOSM이 공표한 합산 82.5%에서 도출된 것임; 정확한 수치로 제시하기 전에 DOSM의 상세 부문별 GDP 표와 대조해 정확한 분할을 확인할 것."
-  - "무역흑자: DOSM의 External Trade Statistics 2024는 RM1,391억 링깃을 보고함; MATRADE의 무역 실적 발표는 약간 다른 수치(~RM1,369억 링깃)를 인용한 것으로 알려짐. 최종/수정 수치와 어느 기관의 수치를 앞세울지 확인할 것."
-  - "'중국은 10년 넘게 말레이시아의 최대 교역 상대국으로 남아 있다' — 최신 DOSM 성명과 대조해 정확한 연속 연수를 확인할 것(이전 초안의 '16년'은 인용된 출처에서 검증 불가능했음)."
 updated: 2026-07-28
 sources:
   - title: "말레이시아 기름야자의 경제 성과와 2023년 R&D 진전 (Oil Palm Economic Performance in Malaysia and R&D Progress in 2023)"

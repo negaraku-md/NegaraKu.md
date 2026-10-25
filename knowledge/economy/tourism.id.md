@@ -40,10 +40,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "none"
-verificationNeeded:
-  - "Tabel kedatangan menurut pasar, penerimaan menurut pasar dan pengeluaran menurut item Tourism Malaysia untuk 2024 — PDF sumber di data.tourism.gov.my tidak dapat dibaca ulang pada saat draf ditulis; angka-angkanya konsisten secara internal dan total RM106.8bn didukung oleh DOSM, tetapi setiap baris masih perlu diperiksa secara langsung terhadap PDF yang diterbitkan"
-  - "Rincian wisatawan/pengunjung harian Jan-Apr 2025, pangsa moda masuk dan jumlah kedatangan Tambak Johor — sumber sama, kendala sama"
-  - "Angka hotel, kamar, tingkat hunian, tarif kamar dan tamu Kajian Penginapan Berbayar Jan-Des 2025 — PDF setahun penuh tidak dapat dibaca ulang; rilis Jan-Sep 2025 dalam seri yang sama konsisten dengannya"
 
 updated: 2026-07-24
 sources:

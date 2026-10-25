@@ -125,7 +125,7 @@ Despite the corporate drama, FGV remains a large operating business. It is an **
 - **Logistics & Support** — storage, transport, IT and travel services.
 - **Consumer Products** — branded food goods.
 
-By its own account, FGV contributes about **3% of global and 14% of national crude palm oil production**, operates across **seven countries** in Asia, Europe and North America, and employs **more than 51,000 people**. Its delisting statement also notes that **more than 70% of its fresh fruit bunches** come from FELDA settlers and smallholders — the constituency at the heart of the privatisation argument.
+By its own account, FGV contributes about **3% of global and 15% of national crude palm oil production**, operates across **seven countries** in Asia, Europe and North America, and employs **more than 51,000 people**. Its delisting statement also notes that **more than 70% of its fresh fruit bunches** come from FELDA settlers and smallholders — the constituency at the heart of the privatisation argument.
 
 ## What does the restructuring mean?
 

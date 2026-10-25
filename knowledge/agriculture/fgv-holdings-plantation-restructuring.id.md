@@ -32,7 +32,7 @@ faq:
     a: "FGV adalah agrobisnis terpadu yang mencakup perkebunan (kelapa sawit, karet dan energi terbarukan), minyak dan lemak, gula, logistik dan layanan pendukung, serta produk konsumen. Menurut pernyataannya sendiri, ia menyumbang sekitar 3% dari produksi minyak sawit mentah global."
 
 lang: "id"
-sourceContentHash: "9db31d21c6785747"
+sourceContentHash: "2d6d408c100487d2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ Meski terjadi drama korporat, FGV tetap menjadi bisnis operasi yang besar. Ia me
 - **Logistik & Dukungan** — penyimpanan, transportasi, TI dan layanan perjalanan.
 - **Produk Konsumen** — barang makanan bermerek.
 
-Menurut pernyataannya sendiri, FGV menyumbang sekitar **3% dari produksi minyak sawit mentah global dan 14% produksi negara**, beroperasi di **tujuh negara** di Asia, Eropa dan Amerika Utara, serta mempekerjakan **lebih dari 51,000 orang**. Pernyataan penghapusan pencatatannya turut menyebut bahwa **lebih dari 70% dari tandan buah segarnya** berasal dari peneroka dan pekebun kecil FELDA — golongan yang menjadi inti argumen privatisasi itu.
+Menurut pernyataannya sendiri, FGV menyumbang sekitar **3% dari produksi minyak sawit mentah global dan 15% produksi negara**, beroperasi di **tujuh negara** di Asia, Eropa dan Amerika Utara, serta mempekerjakan **lebih dari 51,000 orang**. Pernyataan penghapusan pencatatannya turut menyebut bahwa **lebih dari 70% dari tandan buah segarnya** berasal dari peneroka dan pekebun kecil FELDA — golongan yang menjadi inti argumen privatisasi itu.
 
 ## Apa arti restrukturisasi ini?
 

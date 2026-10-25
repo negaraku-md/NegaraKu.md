@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Penghematan waktu pelayaran ~1.5 hari bagi jembatan darat ECRL adalah perkiraan Pelabuhan Kuantan yang aslinya dilaporkan dalam artikel 2017; konfirmasikan angka itu terhadap analisis rute terkini."
 
 updated: 2026-08-14
 sources:

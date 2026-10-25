@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "التوفير في وقت الإبحار البالغ نحو 1.5 يوم لجسر ECRL البري تقدير من ميناء كوانتان وَرَد أصلاً في مقال عام 2017؛ يجب تأكيد الرقم مقابل تحليل مسارات حديث."
 
 updated: 2026-08-14
 sources:

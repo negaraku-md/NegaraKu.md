@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "ข้อกล่าวอ้างเชิงพรรณนาที่ไม่ได้อ้างอิง: โรงกลั่นมะละกา เครือข่ายค้าปลีก Petron/BHPetrol โครงข่ายท่อ Peninsular Gas Utilisation และกองเรือบรรทุก/เรือ LNG ที่ดำเนินการโดย MISC — ข้อเท็จจริงทั่วไปของอุตสาหกรรมที่ระบุโดยไม่มีแหล่งปฐมภูมิ"
-  - "จำนวน/การตั้งชื่อ train ของ Bintulu LNG Complex (แปด train ทางกายภาพเทียบกับฉลาก 'Train 9') และกำลังการผลิตปัจจุบัน ~29.3 mtpa นำมาจากแหล่งการค้า (Offshore Technology); ยืนยันกับเอกสารปฐมภูมิของ PETRONAS ปัจจุบัน"
-  - "ตัวเลข Pengerang Integrated Complex (โรงกลั่น 300,000 bpd, steam cracker ~3.4 mtpa, ปิโตรเคมี ~3.3 mtpa) ระบุโดยไม่มีแหล่งรายบรรทัดที่ดึงมา; ยืนยันกับหน้า PIC ของ PETRONAS หรือ Integrated Report"
-  - "คำอธิบายกลุ่มประเภทสัญญา (R/C, SFA, LLA, EPT, RSC) ควรกระทบยอดกับหน้าเงื่อนไขทางการคลังของ Malaysia Petroleum Management ปัจจุบัน ซึ่งได้รับการปรับปรุงเป็นระยะ ๆ"
 
 updated: 2026-07-28
 sources:

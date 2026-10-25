@@ -40,10 +40,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "none"
-verificationNeeded:
-  - "2024년 시장별 도착객, 시장별 수입, 항목별 지출에 대한 Tourism Malaysia 표 — data.tourism.gov.my의 원본 PDF를 초안 작성 시점에 다시 읽을 수 없었음. 수치는 내부적으로 일관되고 RM1,068억 총액은 DOSM으로 확증되지만, 각 행은 여전히 공표된 PDF와 직접 대조 확인이 필요함"
-  - "2025년 1~4월 관광객/여행객 구분, 입국 수단별 비중, 탐박 조호르(Tambak Johor) 도착 수 — 같은 출처, 같은 제약"
-  - "유료 숙박 조사 2025년 1~12월 호텔, 객실, 점유율, 객실 요금, 투숙객 수치 — 연간 PDF를 다시 읽을 수 없었음. 같은 시계열의 2025년 1~9월 발표가 이와 일관됨"
 
 updated: 2026-07-24
 sources:

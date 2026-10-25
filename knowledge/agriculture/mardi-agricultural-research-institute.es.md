@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "MR 297 peninsular coverage of ~50% is stated as 2021 data on the MARDI padi-beras page; confirm the figure is still current."
-  - "KADARIA 1's status as 'Malaysia's first hybrid rice' and its 9.7-12 t/ha fertile-area yield range."
-  - "National crop genebank accession total (more than 16,000; rice ~13,020) — Genesys-PGR partner profile may lag MARDI's latest count; confirm against MARDI directly."
 updated: 2026-08-01
 sources:
   - title: "Perfil de MARDI — Antecedentes e historia (MARDI Profile — Background and History)"

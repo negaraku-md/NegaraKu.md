@@ -40,10 +40,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "none"
-verificationNeeded:
-  - "Les tableaux de Tourism Malaysia sur les arrivées par marché, les recettes par marché et les dépenses par poste pour 2024 — les PDF sources sur data.tourism.gov.my n'ont pas pu être relus au moment de la rédaction ; les chiffres sont cohérents entre eux et le total de RM106.8 mds est corroboré par le DOSM, mais chaque ligne doit encore être vérifiée directement par rapport au PDF publié"
-  - "La répartition touristes/excursionnistes de janv.-avr. 2025, les parts par mode d'entrée et le nombre d'arrivées à Tambak Johor — même source, même contrainte"
-  - "Les chiffres d'hôtels, de chambres, d'occupation, de tarif par chambre et de clients de l'enquête sur l'hébergement payant janv.-déc. 2025 — le PDF de l'année complète n'a pas pu être relu ; la publication janv.-sept. 2025 de la même série leur est cohérente"
 
 updated: 2026-07-24
 sources:

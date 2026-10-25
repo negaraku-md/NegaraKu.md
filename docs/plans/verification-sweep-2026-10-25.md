@@ -59,6 +59,37 @@ time market cap, moving), glc-dominance (pin the RM451.3bn/25.6% as-at date to t
 date); sime-UMW 100% completion dated 21 Mar 2026 (Bernama/FMT, as in article) vs 21 May 2026
 (The Edge) — source discrepancy.
 
+---
+
+# 2nd tranche — 2026-10-25 (states/sports/tourism/industries/healthcare/education/energy/agriculture/companies/economy)
+
+Fact-checked **24 more en-master articles** via 4 parallel research agents. Tally: **9 fully clear,
+3 fix-then-keep-partial-flag, the rest keep (deliberate TODO / unverifiable)**. 4 real corrections.
+
+## Cleared entirely (flags removed, all 13 variants) — every item verified
+oil-gas-industry · sovereign-credit-rating-malaysia · malaysian-school-system · industries-overview ·
+malaysian-qualifications-agency-and-accreditation · electricity-supply-industry-reform-mesi ·
+mardi-agricultural-research-institute · tourism · logistics-ports-industry · **oil-palm-smallholders-mspo-sustainability** (after EUDR fix below)  **(10 articles ×13 = 130 files)**
+
+## Corrections applied (en master + all 12 translations)
+- **oil-palm-smallholders-mspo-sustainability — EUDR polygon overstatement FIXED** (×13): body + FAQ
+  previously implied polygon mapping for *all* plots. EUDR allows a **single GPS point for plots ≤4 ha**;
+  polygon required only for **plots >4 ha**. Reworded both spots. All other flags confirmed → flag cleared.
+- **fgv-holdings-plantation-restructuring — 14%→15% FIXED** (×13): national crude palm oil production
+  share corrected to 15% (FGV's own Company Overview). Flag KEPT (seven-countries / 51,000-employees
+  figures still trace only to FGV's undated self-description — confirm vs latest annual report).
+- **halal-industry-economy — acreage + GIEI FIXED** (×13): HALMAS park area **"more than 200,000 acres"
+  → "about 13,550 acres (~5,485 ha)"** (the 200k figure was ~15× too high, traced only to commercial
+  write-ups); Global Islamic Economy Indicator streak **"ten"→"twelve" consecutive years** (2025/26 SGIE).
+  Count+area flag item removed; flag KEPT for remaining unverifiable items (per-park HALMAS status,
+  JAKIM recognition count, double-deduction standards list, MIHAS 2025 dates, HDC–MATRADE merger status).
+
+## Method
+`scratchpad/vn-clear3.mjs` cleared the 10; per-language agents mirrored the 3 body fixes into
+translations; translate:stamp (floor-revert) re-baselined only the 3 changed articles.
+
+---
+
 ## Method (reusable)
 `scratchpad/vn-tranche.mjs` (assemble en-master flagged articles by verifiable category) →
 split into batches → parallel general-purpose agents return per-flag CONFIRMED/CORRECTED/

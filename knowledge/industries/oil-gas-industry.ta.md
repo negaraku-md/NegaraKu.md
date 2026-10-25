@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "மேற்கோள் காட்டப்படாத விளக்கக் கூற்றுகள்: Melaka சுத்திகரிப்பு நிலையங்கள், Petron/BHPetrol சில்லறை வலைப்பின்னல்கள், Peninsular Gas Utilisation குழாய் வலையமைப்பு, மற்றும் MISC இயக்கும் டேங்கர்/LNG-கேரியர் கடற்படை — முதன்மை மூலம் இன்றி கூறப்பட்ட பொது-தொழில் உண்மைகள்."
-  - "Bintulu LNG Complex-இன் ரயில் எண்ணிக்கை/பெயரிடல் (எட்டு உண்மையான ரயில்கள் vs 'Train 9' சிட்டை) மற்றும் தற்போதைய ~29.3 mtpa கொள்ளளவு ஒரு வர்த்தக மூலத்திலிருந்து (Offshore Technology) எடுக்கப்பட்டவை; தற்போதைய PETRONAS முதன்மைப் பொருளுடன் உறுதிப்படுத்தவும்."
-  - "Pengerang Integrated Complex எண்கள் (300,000 bpd சுத்திகரிப்பு நிலையம், ~3.4 mtpa steam cracker, ~3.3 mtpa பெட்ரோகெமிக்கல்ஸ்) ஒரு பெறப்பட்ட வரி-வாரி மூலம் இன்றி கூறப்பட்டுள்ளன; PETRONAS PIC பக்கம் அல்லது Integrated Report உடன் உறுதிப்படுத்தவும்."
-  - "ஒப்பந்த-வகை குடும்ப விளக்கங்கள் (R/C, SFA, LLA, EPT, RSC) தற்போதைய Malaysia Petroleum Management நிதி-நிபந்தனை பக்கங்களுடன் இணக்கப்படுத்தப்பட வேண்டும்; அவை காலம்தோறும் திருத்தப்படுகின்றன."
 
 updated: 2026-07-28
 sources:

@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Các tuyên bố mô tả không có trích dẫn: các nhà máy lọc dầu Melaka, mạng lưới bán lẻ Petron/BHPetrol, lưới đường ống Peninsular Gas Utilisation, và đội tàu chở dầu/tàu chở LNG do MISC vận hành — các dữ kiện ngành chung được nêu mà không có nguồn gốc."
-  - "Số lượng/cách đặt tên các dây chuyền của Bintulu LNG Complex (tám dây chuyền vật lý so với nhãn 'Train 9') và công suất ~29.3 mtpa hiện tại được lấy từ một nguồn thương mại (Offshore Technology); xác nhận đối chiếu với tài liệu gốc hiện tại của PETRONAS."
-  - "Các con số của Pengerang Integrated Complex (nhà máy lọc dầu 300,000 bpd, ~3.4 mtpa steam cracker, ~3.3 mtpa hóa dầu) được nêu mà không có nguồn theo từng dòng; xác nhận đối chiếu với trang PIC của PETRONAS hoặc Báo cáo Tích hợp."
-  - "Các mô tả họ loại hợp đồng (R/C, SFA, LLA, EPT, RSC) nên được đối chiếu với các trang điều khoản tài khóa hiện tại của Malaysia Petroleum Management, vốn được sửa đổi định kỳ."
 
 updated: 2026-07-28
 sources:

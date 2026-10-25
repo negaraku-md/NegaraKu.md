@@ -42,9 +42,6 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
-verificationNeeded:
-  - "Savoir si les programmes d'un établissement auto-accréditant sont inscrits au MQR automatiquement ou par demande (la page qanew.cfm de la MQA dit que le HEP « peut demander à s'inscrire » ; des synthèses secondaires décrivent une inscription automatique après l'audit institutionnel)."
-  - "Les chiffres de crédits minimaux du MQF et les intitulés des huit niveaux au regard de l'actuelle 2e édition du MQF, au cas où la MQA publierait une édition révisée."
 revisions:
   - revision: 0
     date: 2026-08-08

@@ -47,11 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Exact date of S&P's September 2025 rating action: the InvestMalaysia snapshot shows 'as of 20 September 2025', while The Edge reported the affirmation on 19 September 2025."
-  - "A dedicated Moody's or MoF press release confirming the 14 July 2026 A3 affirmation. Only the InvestMalaysia snapshot currently documents that date; the 3.8%/4.3% deficit figures, the Public Finance and Fiscal Responsibility Act 2023 attribution and the 'fastest-growing A-rated economy' line all derive from Moody's earlier 25 January 2025 affirmation."
-  - "Exact date of Fitch's December 2025 action: Xinhua reported the affirmation on 8 December 2025, while the InvestMalaysia snapshot shows 'as of 9 December 2025'."
-  - "The exact Moody's wording recognising the Public Finance and Fiscal Responsibility Act 2023 in the 25 January 2025 affirmation (a fact-checker query flagged this attribution; the MoF release text should be quoted verbatim by a human)."
 
 updated: 2026-08-08
 sources:

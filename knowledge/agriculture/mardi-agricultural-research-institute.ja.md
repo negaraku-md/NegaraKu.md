@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "MR 297の半島部での作付面積シェア約50%は、MARDIのpadi-berasページで2021年データとされている。この数値が現在も有効かを確認する必要がある。"
-  - "KADARIA 1が「マレーシア初の交配種」であるという位置づけ、および肥沃な地域における9.7〜12トン/haという単収の範囲。"
-  - "国家作物遺伝子バンクの登録総数（16,000件超、うち稲は約13,020件）——Genesys-PGRのパートナープロフィールはMARDIの最新の集計より遅れている可能性があるため、MARDIに直接確認すること。"
 updated: 2026-08-01
 sources:
   - title: "MARDIプロフィール — 背景と沿革 (MARDI Profile — Background and History)"

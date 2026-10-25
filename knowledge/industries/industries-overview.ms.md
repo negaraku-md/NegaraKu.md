@@ -50,10 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Bahagian KDNK individu untuk perkhidmatan (~59%) dan pembuatan (~23%) diperoleh daripada gabungan 82.5% yang diterbitkan DOSM; sahkan pembahagian tepat terhadap jadual KDNK-mengikut-sektor terperinci DOSM sebelum membentangkannya sebagai angka yang tepat."
-  - "Lebihan dagangan: External Trade Statistics 2024 DOSM melaporkan RM139.1 bilion; siaran prestasi dagangan MATRADE dilaporkan memetik angka yang sedikit berbeza (~RM136.9 bilion). Sahkan angka muktamad/disemak semula dan angka badan yang mana harus diketengahkan."
-  - "'China telah kekal sebagai rakan dagang terbesar Malaysia selama lebih sedekad' — sahkan kiraan tahun berturut-turut yang tepat terhadap kenyataan DOSM terkini (draf terdahulu '16 tahun' tidak dapat disahkan dalam sumber yang dipetik)."
 updated: 2026-07-28
 sources:
   - title: "Prestasi Ekonomi Kelapa Sawit di Malaysia dan Kemajuan R&D pada 2023 (Oil Palm Economic Performance in Malaysia and R&D Progress in 2023)"

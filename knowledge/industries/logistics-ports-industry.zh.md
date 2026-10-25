@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "ECRL陆桥节省约1.5天航行时间是Kuantan Port的估计，最初于2017年的一篇文章中报道；须对照当前的航线分析核实该数字。"
 
 updated: 2026-08-14
 sources:

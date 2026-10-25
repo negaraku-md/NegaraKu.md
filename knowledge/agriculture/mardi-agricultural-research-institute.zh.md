@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "MARDI padi-beras 页面上将 MR 297 在半岛约 50% 的覆盖率标注为 2021 年数据；请确认该数字是否仍然有效。"
-  - "KADARIA 1 作为「马来西亚首个杂交水稻」的地位，及其在肥沃地区 9.7-12 t/ha 的产量区间。"
-  - "国家作物基因库入库总数（超过 16,000；稻米约 13,020）——Genesys-PGR 伙伴资料可能滞后于 MARDI 的最新统计；请直接向 MARDI 核实。"
 updated: 2026-08-01
 sources:
   - title: "MARDI简介 — 背景与历史 (MARDI Profile — Background and History)"

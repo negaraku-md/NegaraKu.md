@@ -50,10 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tỷ trọng GDP riêng lẻ của dịch vụ (~59%) và chế tạo (~23%) được suy ra từ mức 82.5% cộng gộp mà DOSM công bố; xác nhận tỷ lệ chính xác đối chiếu với các bảng GDP-theo-khu-vực chi tiết của DOSM trước khi trình bày chúng như những con số chính xác."
-  - "Thặng dư thương mại: Thống kê Ngoại thương 2024 của DOSM báo cáo RM139.1 tỷ; bản công bố hiệu suất thương mại của MATRADE được cho là đã dẫn một con số hơi khác (~RM136.9 tỷ). Xác nhận con số cuối cùng/được điều chỉnh và nên dẫn con số của cơ quan nào."
-  - "'Trung Quốc vẫn là đối tác thương mại lớn nhất của Malaysia trong hơn một thập kỷ' — xác nhận số năm liên tiếp chính xác đối chiếu với tuyên bố mới nhất của DOSM (con số '16 năm' trong bản nháp trước đó không thể xác minh trong các nguồn đã trích dẫn)."
 updated: 2026-07-28
 sources:
   - title: "Hiệu suất Kinh tế Dầu cọ tại Malaysia và Tiến độ R&D năm 2023 (Oil Palm Economic Performance in Malaysia and R&D Progress in 2023)"

@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "S&P의 2025년 9월 등급 조치의 정확한 날짜: InvestMalaysia 스냅숏은 「2025년 9월 20일 기준」으로 표시하지만, The Edge는 2025년 9월 19일에 등급 유지를 보도했습니다."
-  - "2026년 7월 14일 A3 유지를 확인하는 무디스 또는 재무부의 별도 보도자료. 현재 그 날짜를 문서화한 것은 InvestMalaysia 스냅숏뿐이며, 3.8%/4.3% 적자 수치, 공공재정·재정책임법(Public Finance and Fiscal Responsibility Act 2023) 귀속, 그리고 「가장 빠르게 성장하는 A등급 경제」라는 문구는 모두 무디스의 이전 2025년 1월 25일 유지에서 파생된 것입니다."
-  - "피치의 2025년 12월 조치의 정확한 날짜: 신화통신은 2025년 12월 8일 등급 유지를 보도했으나, InvestMalaysia 스냅숏은 「2025년 12월 9일 기준」으로 표시합니다."
-  - "2025년 1월 25일 유지에서 공공재정·재정책임법(Public Finance and Fiscal Responsibility Act 2023)을 인정하는 무디스의 정확한 표현(팩트체크 질의가 이 귀속을 지적했으며, 재무부 보도자료 원문을 사람이 그대로 인용해야 함)."
 
 updated: 2026-08-08
 sources:

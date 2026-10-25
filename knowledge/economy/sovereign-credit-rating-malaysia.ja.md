@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "S&Pの2025年9月の格付け行動の正確な日付：InvestMalaysiaのスナップショットでは「as of 20 September 2025」とあるが、The Edgeは2025年9月19日に確認が行われたと報じている。"
-  - "2026年7月14日のA3評価確認を裏付ける、ムーディーズまたは財務省（MoF）による専用のプレスリリース。現時点ではInvestMalaysiaのスナップショットのみがこの日付を記録しており、3.8%／4.3%の赤字数値、Public Finance and Fiscal Responsibility Act 2023への帰属、および「最も成長の速いA格付け経済」という記述は、いずれもムーディーズによるそれ以前の2025年1月25日の評価確認に由来する。"
-  - "フィッチの2025年12月の行動の正確な日付：新華社（Xinhua）は2025年12月8日に確認が行われたと報じているが、InvestMalaysiaのスナップショットでは「as of 9 December 2025」となっている。"
-  - "2025年1月25日の評価確認においてPublic Finance and Fiscal Responsibility Act 2023を認めたムーディーズの正確な文言（ファクトチェッカーの照会でこの帰属が指摘されており、MoFのリリース原文を人手で逐語的に引用する必要がある）。"
 
 updated: 2026-08-08
 sources:

@@ -29,7 +29,7 @@ faq:
   - q: "How much of Malaysia's oil palm do smallholders farm?"
     a: "In 2023, independent smallholders planted 822,073 hectares (14.5%) and organised smallholders 674,453 hectares (11.9%). Together they account for about 26% of the 5.65 million hectare national total; private and government estates hold the rest."
   - q: "What is the EUDR and why does it matter to smallholders?"
-    a: "The EU Deforestation Regulation defines products as 'deforestation-free' only if grown on land not deforested after 31 December 2020 (Regulation (EU) 2023/1115, Article 2). It requires plot-level geolocation (polygon mapping), which is technically difficult for small, often elderly, remote farmers to produce on their own."
+    a: "The EU Deforestation Regulation defines products as 'deforestation-free' only if grown on land not deforested after 31 December 2020 (Regulation (EU) 2023/1115, Article 2). It requires plot-level geolocation — polygon mapping for plots larger than 4 hectares, with a single GPS point allowed for plots of 4 hectares or less — which is technically difficult for small, often elderly, remote farmers to produce on their own."
 
 lang: "en"
 masterLanguage: "en"
@@ -47,11 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Currency of the ~250,000 independent smallholder licence figure (MSPO cites it as of December 2021); confirm the latest MSPO licence count."
-  - "EUDR application dates (30 Dec 2026 / 30 June 2027) are subject to further EU legislative change; confirm they still hold at time of human review."
-  - "Whether EUDR requires polygon geolocation for all smallholder plots or permits single-point coordinates below a size threshold."
-  - "Wilmar's ~190 smallholders in Bintulu and the attributed conservation-lead quote (via Eco-Business) — confirm figure and attribution are still accurate."
 
 updated: 2026-08-01
 sources:
@@ -129,7 +124,7 @@ A dedicated smallholder part lowers the documentation burden compared with the e
 
 Because compliance is no longer just national. The **EU Deforestation Regulation (EUDR)** bars palm oil (and other commodities) from the EU market unless the seller can show the product is "deforestation-free" — grown on land not deforested after **31 December 2020**, the reference date set in Article 2 of Regulation (EU) 2023/1115. After several postponements, the European Commission confirmed the regulation applies from **30 December 2026** for large and medium operators and traders, and from **30 June 2027** for micro and small enterprises and natural persons.
 
-The sting for smallholders is the proof mechanism. EUDR requires plot-level **geolocation** — polygon mapping that records the exact boundaries of each farm as coordinates. A conservation lead at Wilmar described the difficulty plainly: smallholders "know exactly where their boundaries are," but drawing those boundaries into clean polygons "is the biggest challenge." The barrier is technical expertise rather than willingness.
+The sting for smallholders is the proof mechanism. EUDR requires plot-level **geolocation**: polygon mapping that records the exact boundaries for plots larger than 4 hectares, with a single GPS coordinate permitted for plots of 4 hectares or less. A conservation lead at Wilmar described the difficulty plainly: smallholders "know exactly where their boundaries are," but drawing those boundaries into clean polygons "is the biggest challenge." The barrier is technical expertise rather than willingness.
 
 ## Where does that leave the individual farmer?
 

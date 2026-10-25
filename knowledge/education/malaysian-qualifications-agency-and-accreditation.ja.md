@@ -42,9 +42,6 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
-verificationNeeded:
-  - "自己認定資格を持つ機関のプログラムが、MQRに自動的に登録されるのか、それとも申請を通じて登録されるのか（MQAのqanew.cfmでは、HEPが「登録を申請することができる（may apply to register）」とされている一方、二次的な要約では機関監査後に自動登録されると説明されている）。"
-  - "MQAが改訂版を発行した場合に備え、現行のMQF第2版に照らしたMQFの最低単位数および8つのレベル名称の確認。"
 revisions:
   - revision: 0
     date: 2026-08-08

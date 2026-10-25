@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "인용되지 않은 서술적 주장: 믈라카 정유소, Petron/BHPetrol 소매망, 반도 가스 활용 파이프라인 그리드, MISC 운영 유조선/LNG선 선단 — 1차 출처 없이 기술된 일반 산업 사실."
-  - "빈툴루 LNG 단지의 트레인 수/명칭('트레인 9' 라벨 대 물리적 트레인 8기)과 현재 약 29.3mtpa 용량은 무역 출처(Offshore Technology)에서 가져왔습니다. 현행 PETRONAS 1차 자료와 대조해 확인."
-  - "펜게랑 통합 단지 수치(30만 bpd 정유소, 약 3.4mtpa 스팀 크래커, 약 3.3mtpa 석유화학)는 가져온 항목별 출처 없이 기술되었습니다. PETRONAS PIC 페이지나 통합 보고서와 대조해 확인."
-  - "계약 유형 계열 설명(R/C, SFA, LLA, EPT, RSC)은 주기적으로 개정되는 현행 말레이시아 석유관리 재정 조건 페이지와 대조해 조정해야 합니다."
 
 updated: 2026-07-28
 sources:

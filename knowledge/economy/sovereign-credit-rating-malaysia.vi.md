@@ -48,11 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Ngày chính xác của hành động xếp hạng tháng 9 năm 2025 của S&P: bản chụp nhanh InvestMalaysia cho thấy 'tính đến ngày 20 tháng 9 năm 2025', trong khi The Edge báo cáo việc khẳng định vào ngày 19 tháng 9 năm 2025."
-  - "Một thông cáo báo chí riêng của Moody's hoặc MoF xác nhận việc khẳng định A3 ngày 14 tháng 7 năm 2026. Chỉ bản chụp nhanh InvestMalaysia hiện ghi ngày đó; các con số thâm hụt 3,8%/4,3%, việc quy cho Public Finance and Fiscal Responsibility Act 2023 và dòng 'nền kinh tế hạng A tăng trưởng nhanh nhất' đều rút từ lần khẳng định trước đó ngày 25 tháng 1 năm 2025 của Moody's."
-  - "Ngày chính xác của hành động tháng 12 năm 2025 của Fitch: Xinhua báo cáo việc khẳng định vào ngày 8 tháng 12 năm 2025, trong khi bản chụp nhanh InvestMalaysia cho thấy 'tính đến ngày 9 tháng 12 năm 2025'."
-  - "Câu chữ chính xác của Moody's ghi nhận Public Finance and Fiscal Responsibility Act 2023 trong lần khẳng định ngày 25 tháng 1 năm 2025 (một truy vấn kiểm chứng đã nêu việc quy này; văn bản thông cáo của MoF nên được một người trích dẫn nguyên văn)."
 
 updated: 2026-08-08
 sources:

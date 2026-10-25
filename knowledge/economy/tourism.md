@@ -39,10 +39,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "none"
-verificationNeeded:
-  - "Tourism Malaysia's arrivals-by-market, receipts-by-market and expenditure-by-item tables for 2024 — the source PDFs on data.tourism.gov.my could not be re-read at draft time; figures are internally consistent and the RM106.8bn total is corroborated by DOSM, but each row still needs a direct check against the published PDF"
-  - "Jan-Apr 2025 tourist/excursionist split, mode-of-entry shares and the Tambak Johor arrival count — same source, same constraint"
-  - "Paid Accommodation Survey Jan-Dec 2025 hotel, room, occupancy, room-rate and guest figures — the full-year PDF could not be re-read; the Jan-Sep 2025 release in the same series is consistent with them"
 
 updated: 2026-07-24
 sources:

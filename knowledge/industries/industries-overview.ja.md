@@ -50,10 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "サービス業（約59%）と製造業（約23%）それぞれのGDP占有率は、DOSMが公表した合計82.5%から推算したものである。正確な数値として提示する前に、DOSMの詳細な分野別GDP表に照らして正確な内訳を確認すること。"
-  - "貿易黒字：DOSMのExternal Trade Statistics 2024はRM1,391億と報告しているが、MATRADEの貿易実績発表ではわずかに異なる数字（約RM1,369億）が引用されたと報じられている。最終的な、あるいは修正後の数字、およびどちらの機関の数字を主として用いるべきかを確認すること。"
-  - "「中国は10年以上にわたりマレーシア最大の貿易相手国であり続けている」——最新のDOSM声明に照らして正確な連続年数を確認すること（以前の草稿にあった「16年」は、引用元の資料では確認できなかった）。"
 updated: 2026-07-28
 sources:
   - title: "マレーシアにおけるアブラヤシの経済的パフォーマンスと2023年のR&D進展 (Oil Palm Economic Performance in Malaysia and R&D Progress in 2023)"

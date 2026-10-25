@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Mức tiết kiệm thời gian hải trình ~1.5 ngày cho cầu đường bộ ECRL là một ước tính của Kuantan Port ban đầu được nêu trong một bài báo năm 2017; xác nhận con số này đối chiếu với phân tích định tuyến hiện tại."
 
 updated: 2026-08-14
 sources:

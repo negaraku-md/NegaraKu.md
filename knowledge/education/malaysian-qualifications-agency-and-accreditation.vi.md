@@ -42,9 +42,6 @@ reviewer: null
 reviewed: 2026-08-08
 reviewDue: 2027-08-08
 revision: 0
-verificationNeeded:
-  - "Liệu các chương trình của một cơ sở tự kiểm định có được đăng ký trong MQR tự động hay qua đơn xin (qanew.cfm của MQA nói HEP 'có thể nộp đơn để đăng ký'; các tóm tắt thứ cấp mô tả việc đăng ký tự động sau khi kiểm toán cơ sở)."
-  - "Các con số tín chỉ tối thiểu của MQF và các tên tám cấp so với Ấn bản 2 của MQF hiện hành, phòng khi MQA ban hành một ấn bản sửa đổi."
 revisions:
   - revision: 0
     date: 2026-08-08

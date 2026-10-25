@@ -32,7 +32,7 @@ faq:
     a: "FGV es un agronegocio integrado que abarca plantación (palma aceitera, caucho y energía renovable), aceites y grasas, azúcar, logística y servicios de apoyo, y productos de consumo. Según sus propias cifras, aporta alrededor del 3% de la producción mundial de aceite de palma crudo."
 
 lang: "es"
-sourceContentHash: "9db31d21c6785747"
+sourceContentHash: "2d6d408c100487d2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -126,7 +126,7 @@ A pesar del drama corporativo, FGV sigue siendo un gran negocio operativo. Es un
 - **Logística y apoyo** — almacenamiento, transporte, servicios de TI y de viajes.
 - **Productos de consumo** — productos alimentarios de marca.
 
-Según sus propias cifras, FGV aporta alrededor del **3% de la producción mundial y el 14% de la nacional de aceite de palma crudo**, opera en **siete países** de Asia, Europa y Norteamérica, y emplea a **más de 51,000 personas**. Su comunicado de exclusión también señala que **más del 70% de sus racimos de fruta fresca** proceden de los colonos y pequeños productores de FELDA — el colectivo que está en el centro del argumento de la privatización.
+Según sus propias cifras, FGV aporta alrededor del **3% de la producción mundial y el 15% de la nacional de aceite de palma crudo**, opera en **siete países** de Asia, Europa y Norteamérica, y emplea a **más de 51,000 personas**. Su comunicado de exclusión también señala que **más del 70% de sus racimos de fruta fresca** proceden de los colonos y pequeños productores de FELDA — el colectivo que está en el centro del argumento de la privatización.
 
 ## ¿Qué significa la reestructuración?
 

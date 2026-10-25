@@ -18,7 +18,7 @@ keyTakeaways:
   - "Industri halal ditargetkan menyumbang 10.8% dari PDB (sekitar RM231 miliar) menjelang 2030."
   - "Malaysia mengoperasikan sekitar 14 kawasan halal berstatus HALMAS, dengan insentif pajak ditambahkan di atas sertifikasi."
   - "Rencana Induk Industri Halal 2030 menggariskan 7 teras strategis, 23 inisiatif dan 5 hasil sasaran di bawah MITI, dengan dukungan HDC."
-  - "Malaysia telah menduduki tempat teratas Global Islamic Economy Indicator selama sepuluh tahun berturut-turut."
+  - "Malaysia telah menduduki tempat teratas Global Islamic Economy Indicator selama dua belas tahun berturut-turut."
 appliesTo: "Pengekspor, UKM, investor, dan siapa pun yang mengkaji bagaimana Malaysia menjadikan halal sebagai kebijakan perindustrian, bukan sekadar standar keagamaan."
 
 faq:
@@ -27,14 +27,14 @@ faq:
   - q: "Berapa nilai ekspor produk halal Malaysia?"
     a: "Ekspor produk halal mencapai RM61.79 miliar pada 2024, kenaikan 15% dari RM53.72 miliar pada 2023. Dalam sembilan bulan pertama 2024 saja, ekspor mencapai RM45.04 miliar."
   - q: "Apa itu kawasan halal HALMAS?"
-    a: "HALMAS adalah status yang dianugerahkan oleh HDC kepada kawasan halal yang memenuhi syarat. Perusahaan yang beroperasi di dalamnya dapat mengakses pembebasan pajak penghasilan, pembebasan bea atas mesin dan bahan mentah, serta insentif lain. Malaysia mempunyai sekitar 14 kawasan sejenis ini, yang dilaporkan oleh ringkasan industri meliputi lebih dari 200,000 ekar keseluruhannya (angka menunggu konfirmasi sumber utama)."
+    a: "HALMAS adalah status yang dianugerahkan oleh HDC kepada kawasan halal yang memenuhi syarat. Perusahaan yang beroperasi di dalamnya dapat mengakses pembebasan pajak penghasilan, pembebasan bea atas mesin dan bahan mentah, serta insentif lain. Malaysia mempunyai sekitar 14 kawasan sejenis ini, yang meliputi sekitar 13,550 ekar (kira-kira 5,485 hektar) keseluruhannya."
   - q: "Siapa yang menggerakkan agenda industri halal Malaysia?"
     a: "Perbadanan Pembangunan Halal (HDC) adalah badan koordinator pemerintah. Kebijakan berada di bawah Kementerian Pelaburan, Perdagangan dan Industri (MITI) melalui Rencana Induk Industri Halal 2030."
   - q: "Apakah industri halal hanya untuk orang Islam?"
     a: "Tidak. Sertifikasi halal menandakan standar kebersihan, keterlacakan dan kualitas, dan sektor ini memasarkan kepada konsumen Muslim dan non-Muslim serta ke destinasi ekspor mayoritas non-Islam."
 
 lang: "id"
-sourceContentHash: "94481a23df67c89e"
+sourceContentHash: "9d04292f801ee238"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ Cukup besar sehingga pemerintah memperlakukannya sebagai sektor pertumbuhan nasi
 | Pertumbuhan ekspor tahun ke tahun | 15% | 2023 hingga 2024 |
 | Ekspor halal (9 bulan pertama) | RM45.04 miliar | Jan–Sep 2024 |
 | Target kontribusi PDB | 10.8% (sekitar RM231 miliar) | menjelang 2030 |
-| Peringkat Global Islamic Economy Indicator | ke-1, sepuluh tahun berturut-turut | — |
+| Peringkat Global Islamic Economy Indicator | ke-1, dua belas tahun berturut-turut | — |
 
 Angka ekspor RM61.79 miliar untuk 2024 adalah rekor, dan ia terletak dalam ganjaran global yang jauh lebih besar: permintaan sedunia terhadap produk halal dinilai melampaui US$3 triliun pada hari ini dan diperkirakan mencapai sekitar US$5 triliun menjelang 2030. Tawaran Malaysia kepada investor adalah negara ini dapat menjadi basis yang patuh dan tepercaya untuk menyalurkan produk ke pasar itu.
 
@@ -117,7 +117,7 @@ Angka ekspor RM61.79 miliar untuk 2024 adalah rekor, dan ia terletak dalam ganja
 
 Jika Anda mau melihat industri ini sebagai infrastruktur, lihatlah kawasan-kawasan halal.
 
-Malaysia mengoperasikan sekitar 14 kawasan halal berstatus HALMAS — estat industri khusus yang membawa status yang dianugerahkan oleh Perbadanan Pembangunan Halal — yang dilaporkan oleh ringkasan industri meliputi lebih dari 200,000 ekar keseluruhannya. (Baik jumlah kawasan maupun luas ekar bersumber dari tulisan industri komersial dan bukan sumber utama HDC, dan ditandai untuk konfirmasi.) HALMAS bukan sekadar satu label; ia adalah pintu masuk kepada satu paket insentif yang dirancang untuk merendahkan biaya membangun operasi yang patuh halal. Kawasan yang kerap disebut dalam jaringan ini termasuk Selangor Halal Hub di Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park dan POIC Tanjung Langsat.
+Malaysia mengoperasikan sekitar 14 kawasan halal berstatus HALMAS — estat industri khusus yang membawa status yang dianugerahkan oleh Perbadanan Pembangunan Halal — yang meliputi sekitar 13,550 ekar (kira-kira 5,485 hektar) keseluruhannya. HALMAS bukan sekadar satu label; ia adalah pintu masuk kepada satu paket insentif yang dirancang untuk merendahkan biaya membangun operasi yang patuh halal. Kawasan yang kerap disebut dalam jaringan ini termasuk Selangor Halal Hub di Pulau Indah, Penang International Halal Hub, PKFZ National Halal Park, Techpark @ Enstek, Iskandar Business Park dan POIC Tanjung Langsat.
 
 Insentif yang ditambahkan di atas status kawasan lazimnya termasuk:
 

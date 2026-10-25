@@ -18,7 +18,7 @@ keyTakeaways:
   - "La industria halal tiene como objetivo contribuir con el 10.8% del PIB (unos RM231 mil millones) para 2030."
   - "Malasia opera alrededor de 14 parques halal certificados HALMAS, con incentivos fiscales superpuestos a la certificación."
   - "El Plan Maestro de la Industria Halal 2030 establece 7 ejes estratégicos, 23 iniciativas y 5 resultados objetivo bajo el MITI, con el apoyo de la HDC."
-  - "Malasia ha encabezado el Indicador Global de Economía Islámica durante diez años consecutivos."
+  - "Malasia ha encabezado el Indicador Global de Economía Islámica durante doce años consecutivos."
 appliesTo: "Exportadores, pymes, inversores y cualquiera que investigue cómo Malasia convierte lo halal en una política industrial y no solo en una norma religiosa."
 
 faq:
@@ -27,14 +27,14 @@ faq:
   - q: "¿Cuánto exporta Malasia en productos halal?"
     a: "Las exportaciones de productos halal alcanzaron RM61.79 mil millones en 2024, un aumento del 15% respecto a los RM53.72 mil millones de 2023. Solo en los primeros nueve meses de 2024, las exportaciones fueron de RM45.04 mil millones."
   - q: "¿Qué es un parque halal HALMAS?"
-    a: "HALMAS es un estatus otorgado por la HDC a los parques halal que cumplen los requisitos. Las empresas que operan en ellos pueden acceder a exenciones del impuesto sobre la renta, exenciones de aranceles sobre maquinaria y materias primas, y otros incentivos. Malasia tiene alrededor de 14 parques de este tipo, que según los resúmenes del sector abarcan en total más de 200,000 acres (cifra pendiente de confirmación primaria)."
+    a: "HALMAS es un estatus otorgado por la HDC a los parques halal que cumplen los requisitos. Las empresas que operan en ellos pueden acceder a exenciones del impuesto sobre la renta, exenciones de aranceles sobre maquinaria y materias primas, y otros incentivos. Malasia tiene alrededor de 14 parques de este tipo, que abarcan en total unos 13,550 acres (aproximadamente 5,485 hectáreas)."
   - q: "¿Quién dirige la agenda de la industria halal de Malasia?"
     a: "La Halal Development Corporation (HDC) es el organismo coordinador del gobierno. La política recae en el Ministerio de Inversión, Comercio e Industria (MITI) a través del Plan Maestro de la Industria Halal 2030."
   - q: "¿Es la industria halal solo para musulmanes?"
     a: "No. La certificación halal señala higiene, trazabilidad y normas de calidad, y el sector se dirige tanto a consumidores musulmanes como no musulmanes y a destinos de exportación de mayoría no musulmana."
 
 lang: "es"
-sourceContentHash: "94481a23df67c89e"
+sourceContentHash: "9d04292f801ee238"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -109,7 +109,7 @@ Lo bastante grande como para que el gobierno la trate como un sector de crecimie
 | Crecimiento interanual de las exportaciones | 15% | 2023 a 2024 |
 | Exportaciones halal (primeros 9 meses) | RM45.04 mil millones | ene–sep 2024 |
 | Contribución objetivo al PIB | 10.8% (unos RM231 mil millones) | para 2030 |
-| Puesto en el Indicador Global de Economía Islámica | 1.º, diez años seguidos | — |
+| Puesto en el Indicador Global de Economía Islámica | 1.º, doce años seguidos | — |
 
 La cifra de exportación de RM61.79 mil millones para 2024 es un récord, y se inscribe dentro de un premio mundial mucho mayor: la demanda mundial de productos halal se valora hoy en más de US$3 billones y se espera que alcance aproximadamente US$5 billones para 2030. El argumento de Malasia ante los inversores es que puede ser la base conforme y fiable desde la cual atender ese mercado.
 
@@ -117,7 +117,7 @@ La cifra de exportación de RM61.79 mil millones para 2024 es un récord, y se i
 
 Si quieres ver la industria como infraestructura, fíjate en los parques halal.
 
-Malasia opera alrededor de 14 parques halal certificados HALMAS —polígonos industriales dedicados que ostentan un estatus otorgado por la Halal Development Corporation—, que según los resúmenes del sector abarcan en total más de 200,000 acres. (Tanto el recuento de parques como la superficie proceden de artículos comerciales del sector y no de una fuente primaria de la HDC, y están señalados para confirmación.) HALMAS no es un mero rótulo; es la puerta de entrada a un paquete de incentivos diseñado para reducir el coste de montar una operación conforme a la norma halal. Entre los parques nombrados que suelen citarse en la red figuran el Selangor Halal Hub en Pulau Indah, el Penang International Halal Hub, el PKFZ National Halal Park, el Techpark @ Enstek, el Iskandar Business Park y el POIC Tanjung Langsat.
+Malasia opera alrededor de 14 parques halal certificados HALMAS —polígonos industriales dedicados que ostentan un estatus otorgado por la Halal Development Corporation—, que abarcan en total unos 13,550 acres (aproximadamente 5,485 hectáreas). HALMAS no es un mero rótulo; es la puerta de entrada a un paquete de incentivos diseñado para reducir el coste de montar una operación conforme a la norma halal. Entre los parques nombrados que suelen citarse en la red figuran el Selangor Halal Hub en Pulau Indah, el Penang International Halal Hub, el PKFZ National Halal Park, el Techpark @ Enstek, el Iskandar Business Park y el POIC Tanjung Langsat.
 
 Los incentivos superpuestos al estatus de parque suelen incluir:
 

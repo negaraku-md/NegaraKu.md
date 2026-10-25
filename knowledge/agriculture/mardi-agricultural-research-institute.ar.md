@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "تغطية MR 297 في شبه الجزيرة بنحو 50% مذكورة كبيانات 2021 على صفحة الأرز الخام والأرز لدى MARDI؛ يجب تأكيد أن الرقم لا يزال حديثًا."
-  - "وضع KADARIA 1 بوصفه «أول أرز هجين في ماليزيا» ونطاق غلّته 9.7-12 طن/هكتار في المناطق الخصبة."
-  - "إجمالي مُدخلات بنك الجينات الوطني للمحاصيل (أكثر من 16,000؛ الأرز ~13,020) — قد يتأخر ملف شريك Genesys-PGR عن أحدث إحصاء لدى MARDI؛ يجب التأكد من MARDI مباشرةً."
 updated: 2026-08-01
 sources:
   - title: "ملف MARDI — الخلفية والتاريخ (MARDI Profile — Background and History)"

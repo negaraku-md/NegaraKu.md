@@ -54,11 +54,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Affirmations descriptives non citées : les raffineries de Melaka, les réseaux de distribution Petron/BHPetrol, le réseau de gazoducs Peninsular Gas Utilisation et la flotte de pétroliers/méthaniers exploitée par MISC — faits d'industrie générale énoncés sans source primaire."
-  - "Le nombre/la dénomination des trains du complexe de GNL de Bintulu (huit trains physiques contre l'étiquette « Train 9 ») et la capacité actuelle d'environ 29.3 mtpa proviennent d'une source professionnelle (Offshore Technology) ; à confirmer par rapport au matériel primaire actuel de PETRONAS."
-  - "Les chiffres du Pengerang Integrated Complex (raffinerie de 300,000 bpd, vapocraqueur d'environ 3.4 mtpa, pétrochimie d'environ 3.3 mtpa) sont énoncés sans source ligne par ligne récupérée ; à confirmer par rapport à la page PIC de PETRONAS ou au Rapport intégré."
-  - "Les descriptions des familles de types de contrats (R/C, SFA, LLA, EPT, RSC) devraient être rapprochées des pages actuelles sur les conditions fiscales de Malaysia Petroleum Management, qui sont périodiquement révisées."
 
 updated: 2026-07-28
 sources:

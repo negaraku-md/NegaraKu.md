@@ -50,8 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "ECRL 육상 교량의 약 1.5일 항해 시간 절약은 2017년 기사에 처음 보도된 콴탄항 추정치입니다. 현재 항로 분석과 대조해 수치를 확인."
 
 updated: 2026-08-14
 sources:

@@ -40,10 +40,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 sensitivity: "none"
-verificationNeeded:
-  - "Tourism Malaysia按市场划分的入境人次表、按市场划分的收入表，以及2024年按项目划分的支出表——data.tourism.gov.my上的源PDF在撰写本文时无法重新读取；各项数字内部一致，且RM106.8bn的总数得到DOSM印证，但每一行数据仍需直接对照已发布的PDF核实"
-  - "2025年1—4月的过夜旅客／不过夜旅客细分、入境方式占比，以及Tambak Johor的入境人次——来源相同，限制相同"
-  - "2025年1—12月付费住宿调查中的酒店数、客房数、入住率、房价与住客人数——全年度PDF无法重新读取；同系列2025年1—9月的发布数据与之一致"
 
 updated: 2026-07-24
 sources:
