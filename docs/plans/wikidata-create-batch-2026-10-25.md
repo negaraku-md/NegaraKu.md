@@ -25,6 +25,13 @@ batch for you to run; then I wire the new QIDs back into the articles (step 2).
 > PeKa B40 **Q141851815**. Each carries instance-of (Act of the Parliament of Malaysia / government
 > agency / government program), country=Malaysia, applies-to-jurisdiction (acts), inception, and
 > en+ms labels. All 15 linked back into the articles (19 topics, since some Acts span multiple).
+>
+> **Hardened with references (same day):** added reference URL (P854) + retrieved date (P813) to each
+> item's `instance of` statement via QuickStatements — 9 Acts + BOVAEP → AGC Laws of Malaysia
+> (`lom.agc.gov.my`); MASB → masb.org.my; AOB → sc.com.my/aob; REP → talentcorp.com.my; PeKa B40 →
+> protecthealth.com.my. 14 of 15 referenced (NSRC left unreferenced — no verifiable official URL;
+> its lppeh/bnm/nsrc domains returned 503/403/401). All URLs HTTP-verified before use; no fabricated
+> deep-links (the AGC `?act=` pattern returns "Invalid request", so the authoritative DB root was used).
 
 ## How to run (QuickStatements)
 
