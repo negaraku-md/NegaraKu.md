@@ -60,6 +60,7 @@ sources:
     publisher: "Conventus Law"
 
 entity: "Company Limited by Guarantee"
+wikidata: "Q113548336"
 relations:
   - { rel: "governs", to: "sdn-bhd-vs-berhad" }
   - { rel: "related-to", to: "register-sdn-bhd" }

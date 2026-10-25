@@ -33,6 +33,7 @@ verificationNeeded:
 lang: "es"
 sourceContentHash: "2b8cc04016656090"
 masterLanguage: "en"
+wikidata: "Q181383"
 translationStatus: "in-sync"
 
 status: "published"

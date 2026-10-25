@@ -20,6 +20,7 @@ appliesTo: "Lectores curiosos por saber qué existía en la Península Malaya an
 lang: "es"
 sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true

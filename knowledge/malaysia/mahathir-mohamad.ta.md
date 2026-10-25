@@ -32,6 +32,7 @@ verificationNeeded:
 
 lang: "ta"
 masterLanguage: "en"
+wikidata: "Q181383"
 translationStatus: "in-sync"
 sourceContentHash: "2b8cc04016656090"
 

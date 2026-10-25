@@ -74,6 +74,7 @@ sources:
     publisher: "马来西亚内陆税收局 (LHDN)"
 
 entity: "Sole Proprietorship"
+wikidata: "Q64816476"
 relations:
   - { rel: "compares-with", to: "sdn-bhd" }
   - { rel: "compares-with", to: "llp" }

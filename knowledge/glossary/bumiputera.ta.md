@@ -68,6 +68,7 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?act=134&lang=BM"
     publisher: "அட்டர்னி ஜெனரல் அலுவலகம் (AGC)"
 entity: "Bumiputera"
+wikidata: "Q1004875"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

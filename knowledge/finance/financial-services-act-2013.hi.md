@@ -59,6 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
     publisher: "मलेशिया का महान्यायवादी कार्यालय — मलेशिया के कानून (Laws of Malaysia)"
 entity: "Financial Services Act 2013"
+wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "वित्तीय सेवा अधिनियम 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia वित्तीय विनियमन", "वित्तीय संस्थान विनियमन मलेशिया", "उपभोक्ता संरक्षण वित्तीय सेवा मलेशिया", "बिना लाइसेंस वित्तीय व्यवसाय दंड मलेशिया", "IFSA 2013", "भुगतान प्रणाली विनियमन मलेशिया"]

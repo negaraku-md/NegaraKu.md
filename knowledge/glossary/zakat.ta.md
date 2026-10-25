@@ -78,6 +78,7 @@ sources:
     publisher: "சபா மாநில அட்டர்னி ஜெனரல் அறையகம்"
 
 entity: "Zakat"
+wikidata: "Q124058"
 relations:
   - { rel: "related-to", to: "cukai-pendapatan" }
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }

@@ -72,6 +72,7 @@ sources:
     publisher: "Commission des sociétés de Malaisie (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad"
+wikidata: "Q113157032"
 relations:
   - { rel: "governs", to: "register-llp-malaysia" }
   - { rel: "compares-with", to: "llp-vs-sdn-bhd" }

@@ -51,6 +51,7 @@ sources:
     publisher: "マレーシア国立銀行（バンク・ヌガラ・マレーシア）"
 
 entity: "Overnight Policy Rate"
+wikidata: "Q7113843"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "affects", to: "inflation-cpi" }

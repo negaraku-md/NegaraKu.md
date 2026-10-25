@@ -19,6 +19,7 @@ keyTakeaways:
 appliesTo: "好奇马六甲之前的马来半岛上有过什么，以及那段早期历史有多少是真正定论、多少仍在争论中的读者。"
 lang: "zh"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 sourceContentHash: "9a72c46b6d9e02d0"
 status: "published"

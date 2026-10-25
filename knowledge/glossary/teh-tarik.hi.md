@@ -63,6 +63,7 @@ sources:
     publisher: "राष्ट्रीय धरोहर विभाग (Jabatan Warisan Negara)"
 
 entity: "Teh Tarik"
+wikidata: "Q3174775"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "warisan-kebangsaan" }

@@ -53,6 +53,7 @@ sources:
     publisher: "மலேசிய மத்திய வங்கி (பான்க் நெகாரா மலேசியா)"
 
 entity: "Overnight Policy Rate"
+wikidata: "Q7113843"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "affects", to: "inflation-cpi" }

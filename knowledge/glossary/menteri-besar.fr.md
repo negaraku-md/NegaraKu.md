@@ -64,6 +64,7 @@ sources:
     date: "2022-03-01"
 
 entity: "Menteri Besar"
+wikidata: "Q5096858"
 relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "related-to", to: "parliament" }

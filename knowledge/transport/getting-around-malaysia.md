@@ -78,6 +78,7 @@ sources:
     publisher: "Maju Terminal Management Services Sdn Bhd (TBS)"
 
 entity: "Transport in Malaysia"
+wikidata: "Q1005348"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "klang-valley-rail" }

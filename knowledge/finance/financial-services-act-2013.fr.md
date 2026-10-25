@@ -59,6 +59,7 @@ sources:
     url: "https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1691496_BI/ACT%20758_2.8.2021.pdf"
     publisher: "Attorney General's Chambers of Malaysia — Lois de la Malaisie (Laws of Malaysia)"
 entity: "Financial Services Act 2013"
+wikidata: "Q28163620"
 relations: []
 related: []
 keywords: ["Financial Services Act 2013", "Loi sur les services financiers de 2013", "FSA 2013", "FSA Malaysia", "Act 758", "Bank Negara Malaysia réglementation financière", "réglementation des institutions financières Malaisie", "protection du consommateur services financiers Malaisie", "sanction activité financière sans agrément Malaisie", "IFSA 2013", "réglementation des systèmes de paiement Malaisie"]

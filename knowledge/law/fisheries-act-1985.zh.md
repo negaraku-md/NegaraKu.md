@@ -54,6 +54,7 @@ sources:
     url: https://leap.unep.org/en/countries/my/national-legislation/fisheries-act-1985-no-317-1985
     publisher: UNEP Law and Environment Assistance Platform (secondary reference)
 entity: Fisheries Act 1985
+wikidata: "Q5454877"
 relations:
   - rel: administered-by
     to: department-of-fisheries-malaysia

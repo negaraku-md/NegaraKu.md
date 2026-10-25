@@ -46,6 +46,7 @@ sources:
     publisher: "司法長官府"
 
 entity: "Wilayah Persekutuan"
+wikidata: "Q1008803"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["mykad"]

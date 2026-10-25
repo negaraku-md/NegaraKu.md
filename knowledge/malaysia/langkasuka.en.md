@@ -19,6 +19,7 @@ keyTakeaways:
 appliesTo: "Readers curious about what existed on the Malay Peninsula before Melaka, and how much of that early history is genuinely settled versus still debated."
 lang: "en"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 sourceContentHash: "9a72c46b6d9e02d0"
 status: "published"

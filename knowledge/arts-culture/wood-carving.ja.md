@@ -68,6 +68,7 @@ sources:
     url: "https://mdb.terengganu.gov.my/index.php/ms/pelawat/destinasi-menarik/desa-ukiran-kayu"
     publisher: "ブスット県評議会"
 entity: "Ukiran Kayu Melayu"
+wikidata: "Q129811409"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "located-in", to: "terengganu" }

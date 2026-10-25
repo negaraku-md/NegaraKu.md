@@ -74,6 +74,7 @@ sources:
     url: "https://dbp.gov.my/"
     publisher: "国家语文局 (DBP)"
 entity: "Languages of Malaysia"
+wikidata: "Q6486859"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "bahasa-melayu" }

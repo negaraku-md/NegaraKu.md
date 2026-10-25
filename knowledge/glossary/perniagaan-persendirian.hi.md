@@ -74,6 +74,7 @@ sources:
     publisher: "मलेशिया अंतर्देशीय राजस्व बोर्ड (LHDN)"
 
 entity: "Sole Proprietorship"
+wikidata: "Q64816476"
 relations:
   - { rel: "compares-with", to: "sdn-bhd" }
   - { rel: "compares-with", to: "llp" }

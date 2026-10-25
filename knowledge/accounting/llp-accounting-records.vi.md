@@ -72,6 +72,7 @@ sources:
     publisher: "Ủy ban Công ty Malaysia (SSM)"
 
 entity: "Perkongsian Liabiliti Terhad"
+wikidata: "Q113157032"
 relations:
   - { rel: "governs", to: "register-llp-malaysia" }
   - { rel: "compares-with", to: "llp-vs-sdn-bhd" }

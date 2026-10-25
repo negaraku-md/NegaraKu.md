@@ -63,6 +63,7 @@ sources:
     publisher: "தேசிய பாரம்பரியத் துறை"
 
 entity: "Teh Tarik"
+wikidata: "Q3174775"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "warisan-kebangsaan" }

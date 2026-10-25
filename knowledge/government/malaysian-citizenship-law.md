@@ -74,6 +74,7 @@ sources:
     date: "2026-01"
 
 entity: "Kewarganegaraan Malaysia (Bahagian III, Perlembagaan Persekutuan)"
+wikidata: "Q6742066"
 relations:
   - { rel: "part-of", to: "federal-constitution" }
   - { rel: "administered-by", to: "jpn" }

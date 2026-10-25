@@ -78,6 +78,7 @@ sources:
     publisher: "Cabinet du Procureur général de l'État de Sabah (Sabah State Attorney-General's Chambers)"
 
 entity: "Zakat"
+wikidata: "Q124058"
 relations:
   - { rel: "related-to", to: "cukai-pendapatan" }
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }

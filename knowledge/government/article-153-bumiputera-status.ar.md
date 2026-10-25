@@ -64,6 +64,7 @@ sources:
     publisher: "دائرة النائب العام الماليزية (Attorney General's Chambers)"
 
 entity: "Perkara 153, Perlembagaan Persekutuan Malaysia"
+wikidata: "Q4800873"
 relations:
   - { rel: "part-of", to: "federal-constitution" }
   - { rel: "related-to", to: "majlis-raja-raja" }

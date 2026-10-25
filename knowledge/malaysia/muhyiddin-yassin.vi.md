@@ -34,6 +34,7 @@ verificationNeeded:
 lang: "vi"
 sourceContentHash: "b981e60c4f8e26f9"
 masterLanguage: "en"
+wikidata: "Q1060949"
 translationStatus: "in-sync"
 
 status: "published"

@@ -33,6 +33,7 @@ verificationNeeded:
 
 lang: "en"
 masterLanguage: "en"
+wikidata: "Q1060949"
 translationStatus: "master"
 
 status: "published"

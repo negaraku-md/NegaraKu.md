@@ -20,6 +20,7 @@ appliesTo: "말라카 이전에 말레이 반도에 무엇이 존재하였는지
 lang: "ko"
 sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true

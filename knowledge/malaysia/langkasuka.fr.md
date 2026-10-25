@@ -20,6 +20,7 @@ appliesTo: "Lecteurs curieux de savoir ce qui existait sur la Péninsule malaise
 lang: "fr"
 sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true

@@ -52,6 +52,7 @@ sources:
     publisher: "马来西亚国家银行"
 
 entity: "Overnight Policy Rate"
+wikidata: "Q7113843"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "affects", to: "inflation-cpi" }

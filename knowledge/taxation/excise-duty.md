@@ -109,6 +109,7 @@ sources:
     publisher: "Bernama"
 
 entity: "Excise Act 1976"
+wikidata: "Q26869451"
 relations:
   - { rel: "administered-by", to: "royal-malaysian-customs-department" }
   - { rel: "related-to", to: "sales-and-service-tax" }

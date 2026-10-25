@@ -20,6 +20,7 @@ appliesTo: "القرّاء المهتمون بما كان قائمًا في شب
 lang: "ar"
 sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true

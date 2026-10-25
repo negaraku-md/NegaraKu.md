@@ -66,6 +66,7 @@ sources:
     date: "2014"
 
 entity: "Government of Malaysia — federal, state and local tiers"
+wikidata: "Q5589240"
 relations:
   - { rel: "explained-in", to: "federal-state-division" }
   - { rel: "part-of", to: "federal-constitution" }

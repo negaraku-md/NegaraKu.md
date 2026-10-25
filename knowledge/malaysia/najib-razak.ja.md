@@ -33,6 +33,7 @@ verificationNeeded:
 
 lang: "ja"
 masterLanguage: "en"
+wikidata: "Q57675"
 translationStatus: "in-sync"
 sourceContentHash: "b57664a883ee2959"
 

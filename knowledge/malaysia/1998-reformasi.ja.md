@@ -56,6 +56,7 @@ sources:
     publisher: "Human Rights Watch"
     date: "1998-10-23"
 entity: "1998 in Malaysia (Asian Financial Crisis, capital controls and Reformasi)"
+wikidata: "Q4594166"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "new-economic-policy" }

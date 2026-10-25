@@ -82,6 +82,7 @@ sources:
     url: "https://www.malaysianbar.org.my/article/news/legal-and-general-news/general-news/check-and-balance-with-elected-councillors"
     publisher: "The Malaysian Bar"
 entity: "Local government in Malaysia (Pihak Berkuasa Tempatan / PBT)"
+wikidata: "Q6664408"
 relations: []
 related: []
 keywords: ["मलेशिया में स्थानीय सरकार", "local government Malaysia", "PBT", "pihak berkuasa tempatan", "नगरपालिका परिषद", "majlis perbandaran", "ज़िला परिषद", "majlis daerah", "नगर परिषद", "dewan bandaraya", "Local Government Act 1976", "Act 171", "स्थानीय परिषद", "cukai taksiran", "मूल्यांकन कर", "KPKT", "स्थानीय सरकार चुनाव", "Datuk Bandar", "Yang Dipertua"]

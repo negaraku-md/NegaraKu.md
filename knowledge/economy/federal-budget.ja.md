@@ -67,6 +67,7 @@ sources:
     publisher: "マレーシア財務省"
 
 entity: "Belanjawan Persekutuan Malaysia"
+wikidata: "Q24935390"
 relations:
   - { rel: "related-to", to: "parliament" }
   - { rel: "related-to", to: "federal-constitution" }

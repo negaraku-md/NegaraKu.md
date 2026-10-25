@@ -89,6 +89,7 @@ sources:
     publisher: "Cámara del Fiscal General de Malasia (Attorney General's Chambers of Malaysia)"
 
 entity: "Islamic finance in Malaysia"
+wikidata: "Q6082441"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "administered-by", to: "bank-negara-malaysia" }

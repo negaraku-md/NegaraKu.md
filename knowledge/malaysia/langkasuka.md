@@ -19,6 +19,7 @@ keyTakeaways:
 appliesTo: "Pembaca yang ingin tahu apa yang wujud di Semenanjung Tanah Melayu sebelum Melaka, dan sejauh mana sejarah awal itu benar-benar muktamad berbanding masih diperdebatkan."
 lang: "ms"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "master"
 status: "published"
 aiAssisted: true

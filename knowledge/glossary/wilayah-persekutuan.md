@@ -46,6 +46,7 @@ sources:
     publisher: "Jabatan Peguam Negara"
 
 entity: "Wilayah Persekutuan"
+wikidata: "Q1008803"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["mykad"]

@@ -19,6 +19,7 @@ keyTakeaways:
 appliesTo: "மலாக்காவுக்கு முன் மலாய் தீபகற்பத்தில் என்ன இருந்தது என்பதையும், அந்த ஆரம்பகால வரலாறு எந்த அளவுக்கு உண்மையிலேயே முடிவுசெய்யப்பட்டது, எந்த அளவுக்கு இன்னும் விவாதத்திற்குரியது என்பதையும் அறிய விரும்பும் வாசகர்கள்."
 lang: "ta"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 sourceContentHash: "9a72c46b6d9e02d0"
 status: "published"

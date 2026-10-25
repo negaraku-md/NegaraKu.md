@@ -89,6 +89,7 @@ sources:
     publisher: "Phòng Tổng Chưởng lý Malaysia"
 
 entity: "Islamic finance in Malaysia"
+wikidata: "Q6082441"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "administered-by", to: "bank-negara-malaysia" }

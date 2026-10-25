@@ -34,6 +34,7 @@ verificationNeeded:
 lang: "hi"
 sourceContentHash: "b57664a883ee2959"
 masterLanguage: "en"
+wikidata: "Q57675"
 translationStatus: "in-sync"
 
 status: "published"

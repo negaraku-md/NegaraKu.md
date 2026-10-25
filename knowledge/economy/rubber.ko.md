@@ -73,6 +73,7 @@ sources:
     publisher: "말레이시아 고무청 (MRB)"
 
 entity: "Malaysia Rubber Industry"
+wikidata: "Q55744392"
 relations:
   - { rel: "part-of", to: "gdp-overview" }
   - { rel: "compares-with", to: "palm-oil-sector" }

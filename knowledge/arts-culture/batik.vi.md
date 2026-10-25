@@ -31,6 +31,7 @@ faq:
 lang: "vi"
 sourceContentHash: "239aa5ec5e035842"
 masterLanguage: "ms"
+wikidata: "Q63442113"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true

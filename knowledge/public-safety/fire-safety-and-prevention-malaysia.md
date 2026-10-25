@@ -63,6 +63,7 @@ sources:
     publisher: "BERNAMA"
 
 entity: "Jabatan Bomba dan Penyelamat Malaysia (JBPM)"
+wikidata: "Q13646141"
 relations:
   - { rel: "administered-by", to: "jabatan-bomba-dan-penyelamat-malaysia" }
   - { rel: "governs", to: "akta-perkhidmatan-bomba-1988" }

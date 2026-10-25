@@ -55,6 +55,7 @@ sources:
     date: "2019"
 
 entity: "Dewan Undangan Negeri"
+wikidata: "Q7603709"
 relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "compares-with", to: "dewan-rakyat" }

@@ -87,6 +87,7 @@ sources:
     publisher: "マレーシア司法長官府"
 
 entity: "Islamic finance in Malaysia"
+wikidata: "Q6082441"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "administered-by", to: "bank-negara-malaysia" }

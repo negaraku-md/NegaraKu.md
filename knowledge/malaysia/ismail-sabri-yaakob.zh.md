@@ -33,6 +33,7 @@ verificationNeeded:
 
 lang: "zh"
 masterLanguage: "en"
+wikidata: "Q6084858"
 translationStatus: "in-sync"
 sourceContentHash: "01485efbacf83246"
 

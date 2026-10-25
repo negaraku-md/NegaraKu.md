@@ -47,6 +47,7 @@ sources:
     publisher: "Phòng Tổng Chưởng lý (AGC)"
 
 entity: "Wilayah Persekutuan"
+wikidata: "Q1008803"
 relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["mykad"]

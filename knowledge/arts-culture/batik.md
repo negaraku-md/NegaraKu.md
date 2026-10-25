@@ -30,6 +30,7 @@ faq:
 
 lang: "ms"
 masterLanguage: "ms"
+wikidata: "Q63442113"
 translationStatus: "master"
 status: "published"
 aiAssisted: true

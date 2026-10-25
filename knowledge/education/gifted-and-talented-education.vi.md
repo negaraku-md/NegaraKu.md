@@ -75,6 +75,7 @@ sources:
     publisher: "Đại học Quốc gia Malaysia (Universiti Kebangsaan Malaysia)"
 
 entity: "Pusat PERMATA@Pintar Negara, Universiti Kebangsaan Malaysia"
+wikidata: "Q55864306"
 relations:
   - { rel: "administered-by", to: "universiti-kebangsaan-malaysia" }
   - { rel: "part-of", to: "permata-programme" }

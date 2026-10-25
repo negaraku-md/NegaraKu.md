@@ -74,6 +74,7 @@ sources:
     publisher: "말레이시아 국내세입청 (LHDN)"
 
 entity: "Sole Proprietorship"
+wikidata: "Q64816476"
 relations:
   - { rel: "compares-with", to: "sdn-bhd" }
   - { rel: "compares-with", to: "llp" }

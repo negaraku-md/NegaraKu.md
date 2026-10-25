@@ -30,6 +30,7 @@ faq:
 
 lang: "zh"
 masterLanguage: "ms"
+wikidata: "Q63442113"
 translationStatus: "in-sync"
 sourceContentHash: "239aa5ec5e035842"
 status: "published"

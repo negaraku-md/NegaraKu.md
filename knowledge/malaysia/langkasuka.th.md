@@ -20,6 +20,7 @@ appliesTo: "ผู้อ่านที่ต้องการรู้ว่�
 lang: "th"
 sourceContentHash: "9a72c46b6d9e02d0"
 masterLanguage: "ms"
+wikidata: "Q2320075"
 translationStatus: "in-sync"
 status: "published"
 aiAssisted: true

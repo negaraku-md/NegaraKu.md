@@ -63,6 +63,7 @@ sources:
     publisher: "국가유산부"
 
 entity: "Teh Tarik"
+wikidata: "Q3174775"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "warisan-kebangsaan" }

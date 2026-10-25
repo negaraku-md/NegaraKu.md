@@ -75,6 +75,7 @@ sources:
     url: "https://dbp.gov.my/"
     publisher: "देवान बहासा दान पुस्तका (DBP)"
 entity: "Languages of Malaysia"
+wikidata: "Q6486859"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "bahasa-melayu" }

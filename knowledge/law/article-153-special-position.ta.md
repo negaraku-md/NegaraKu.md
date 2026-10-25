@@ -64,6 +64,7 @@ sources:
     date: "2021-12-01"
 
 entity: "Article 153 of the Federal Constitution"
+wikidata: "Q4800873"
 relations:
   - { rel: "part-of", to: "federal-constitution" }
   - { rel: "explained-in", to: "fundamental-liberties" }

@@ -69,6 +69,7 @@ sources:
     publisher: "กระทรวงการคลังมาเลเซีย"
 
 entity: "Belanjawan Persekutuan Malaysia"
+wikidata: "Q24935390"
 relations:
   - { rel: "related-to", to: "parliament" }
   - { rel: "related-to", to: "federal-constitution" }
