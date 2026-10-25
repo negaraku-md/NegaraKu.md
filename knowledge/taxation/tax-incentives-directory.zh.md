@@ -79,6 +79,7 @@ sources:
     date: "2024-05-21"
 
 entity: "Malaysian tax incentives"
+wikidata: "Q19840902"
 relations:
   - { rel: "administered-by", to: "mida" }
   - { rel: "governs", to: "income-tax-act-1967" }

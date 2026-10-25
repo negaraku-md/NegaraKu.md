@@ -65,6 +65,7 @@ sources:
     publisher: "मलेशिया का Syariah न्याय विभाग (Jabatan Kehakiman Syariah Malaysia)"
 
 entity: "Syariah (undang-undang Islam dalam sistem perundangan Malaysia)"
+wikidata: "Q482752"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "civil-and-syariah-courts" }

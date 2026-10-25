@@ -72,6 +72,7 @@ sources:
     url: "https://kl.antaranews.com/berita/16947/tradisi-saat-bulan-ramadhan-yang-dinanti-di-malaysia"
     publisher: "ANTARA Kuala Lumpur"
 
+wikidata: "Q12683680"
 relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
   - { rel: "related-to", to: "halal-certification-jakim" }

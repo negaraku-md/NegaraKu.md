@@ -60,6 +60,7 @@ sources:
     publisher: "Pejabat Penyimpan Mohor Besar Raja-Raja"
 
 entity: "Raja-Raja Melayu"
+wikidata: "Q2658454"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "majlis-raja-raja" }

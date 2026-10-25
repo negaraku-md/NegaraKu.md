@@ -49,6 +49,7 @@ sources:
     publisher: "महान्यायवादी विभाग (Jabatan Peguam Negara)"
 
 entity: "Mahkamah"
+wikidata: "Q41487"
 relations:
   - { rel: "explained-in", to: "court-hierarchy" }
   - { rel: "related-to", to: "kehakiman-mahkamah" }

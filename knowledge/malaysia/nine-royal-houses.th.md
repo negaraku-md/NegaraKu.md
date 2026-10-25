@@ -60,6 +60,7 @@ sources:
     publisher: "สำนักงานผู้เก็บรักษาตราแผ่นดินของเจ้าผู้ครองรัฐ"
 
 entity: "Raja-Raja Melayu"
+wikidata: "Q2658454"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "majlis-raja-raja" }

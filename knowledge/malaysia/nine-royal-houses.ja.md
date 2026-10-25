@@ -58,6 +58,7 @@ sources:
     publisher: "統治者国璽保管官事務所"
 
 entity: "Raja-Raja Melayu"
+wikidata: "Q2658454"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "majlis-raja-raja" }

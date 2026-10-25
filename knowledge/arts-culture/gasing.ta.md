@@ -53,6 +53,7 @@ sources:
     url: "https://trdi.my/index.php/kuala-nerus-pertahan-seni-warisan-pembuatan-gasing-pangkah"
     publisher: "TRDI (திரெங்கானு மாநில அதிகாரப்பூர்வ ஊடகம்)"
 entity: "Gasing"
+wikidata: "Q12686816"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "located-in", to: "kelantan" }

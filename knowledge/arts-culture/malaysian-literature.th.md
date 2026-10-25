@@ -66,6 +66,7 @@ sources:
     publisher: "Utusan Malaysia"
 
 entity: "Anugerah Sastera Negara"
+wikidata: "Q5016762"
 relations:
   - { rel: "administered-by", to: "dewan-bahasa-dan-pustaka" }
   - { rel: "related-to", to: "bahasa-melayu" }

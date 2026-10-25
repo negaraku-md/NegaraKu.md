@@ -58,6 +58,7 @@ sources:
     date: "2023-11-01"
 
 entity: "Limited Liability Partnership"
+wikidata: "Q1588658"
 relations:
   - { rel: "administered-by", to: "ssm" }
   - { rel: "compares-with", to: "sdn-bhd" }

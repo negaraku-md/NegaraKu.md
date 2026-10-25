@@ -86,6 +86,7 @@ sources:
     date: "2024-12-24"
 
 entity: "Country-by-country reporting"
+wikidata: "Q116265723"
 relations:
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }

@@ -47,6 +47,7 @@ sources:
     publisher: "법무장관실 (AGC)"
 
 entity: "Akta"
+wikidata: "Q1076579"
 relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "wilayah-persekutuan"]

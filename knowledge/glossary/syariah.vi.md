@@ -65,6 +65,7 @@ sources:
     publisher: "Cục Tư pháp Syariah Malaysia (JKSM)"
 
 entity: "Syariah (undang-undang Islam dalam sistem perundangan Malaysia)"
+wikidata: "Q482752"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "civil-and-syariah-courts" }

@@ -77,6 +77,7 @@ sources:
     publisher: "Malay Mail"
 
 entity: "Raja-Raja Melayu"
+wikidata: "Q2658454"
 relations:
   - { rel: "compares-with", to: "yang-di-pertuan-agong" }
   - { rel: "related-to", to: "conference-of-rulers-majlis-raja-raja" }

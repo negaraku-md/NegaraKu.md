@@ -55,6 +55,7 @@ sources:
     url: "https://www.perpaduan.gov.my/index.php/en/"
     publisher: "국민통합부 (KPN)"
 entity: "Rumah terbuka"
+wikidata: "Q7419651"
 relations:
   - { rel: "related-to", to: "hari-raya-aidilfitri" }
   - { rel: "related-to", to: "deepavali" }

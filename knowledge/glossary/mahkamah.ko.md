@@ -48,6 +48,7 @@ sources:
     publisher: "법무장관실 (AGC)"
 
 entity: "Mahkamah"
+wikidata: "Q41487"
 relations:
   - { rel: "explained-in", to: "court-hierarchy" }
   - { rel: "related-to", to: "kehakiman-mahkamah" }

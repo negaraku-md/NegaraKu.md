@@ -60,6 +60,7 @@ sources:
     publisher: "Văn phòng Quan giữ Ấn tín của các Quốc vương"
 
 entity: "Raja-Raja Melayu"
+wikidata: "Q2658454"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "majlis-raja-raja" }

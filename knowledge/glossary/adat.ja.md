@@ -58,6 +58,7 @@ sources:
     publisher: "Wikipedia Bahasa Melayu"
 
 entity: "Adat"
+wikidata: "Q352664"
 relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "related-to", to: "negeri-sembilan" }

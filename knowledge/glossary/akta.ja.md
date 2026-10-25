@@ -46,6 +46,7 @@ sources:
     publisher: "司法長官府 (AGC)"
 
 entity: "Akta"
+wikidata: "Q1076579"
 relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "wilayah-persekutuan"]

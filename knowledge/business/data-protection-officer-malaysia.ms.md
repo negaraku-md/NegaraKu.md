@@ -89,6 +89,7 @@ sources:
     date: "2025-02-25"
 
 entity: "Data protection officer"
+wikidata: "Q30682903"
 relations:
   - { rel: "requires", to: "pdpa-compliance-malaysia" }
   - { rel: "administered-by", to: "jpdp" }

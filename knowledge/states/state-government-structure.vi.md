@@ -60,6 +60,7 @@ sources:
     publisher: "Đoàn Luật sư Malaysia"
 
 entity: "Malaysian state government"
+wikidata: "Q7603690"
 relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "compares-with", to: "kabinet-perdana-menteri" }

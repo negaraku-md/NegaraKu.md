@@ -60,6 +60,7 @@ sources:
     publisher: "शासकों की महान मुहर के रक्षक का कार्यालय (Pejabat Penyimpan Mohor Besar Raja-Raja)"
 
 entity: "Raja-Raja Melayu"
+wikidata: "Q2658454"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "majlis-raja-raja" }

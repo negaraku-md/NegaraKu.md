@@ -89,6 +89,7 @@ sources:
     date: "2026-01-01"
 
 entity: "Domestic inquiry"
+wikidata: "Q5290184"
 relations:
   - { rel: "governs", to: "employment" }
   - { rel: "administered-by", to: "jtksm" }

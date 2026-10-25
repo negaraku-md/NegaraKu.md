@@ -47,6 +47,7 @@ sources:
     publisher: "महान्यायवादी विभाग (Jabatan Peguam Negara)"
 
 entity: "Akta"
+wikidata: "Q1076579"
 relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "wilayah-persekutuan"]

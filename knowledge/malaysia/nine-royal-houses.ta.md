@@ -60,6 +60,7 @@ sources:
     publisher: "அரசர்களின் பேரிலச்சினை காப்பாளர் அலுவலகம்"
 
 entity: "Raja-Raja Melayu"
+wikidata: "Q2658454"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "majlis-raja-raja" }
