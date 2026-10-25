@@ -72,6 +72,7 @@ sources:
     publisher: "Malay Mail"
 
 entity: "Malaysia Competition Commission (MyCC)"
+wikidata: "Q110133506"
 relations:
   - { rel: "administered-by", to: "malaysia-competition-commission" }
   - { rel: "related-to", to: "starting-a-business-malaysia" }

@@ -79,6 +79,7 @@ sources:
     publisher: "Departamento de Estadística de Malasia (DOSM)"
 
 entity: "Lembaga Pembangunan Industri Pembinaan Malaysia (CIDB)"
+wikidata: "Q12695816"
 relations:
   - { rel: "administered-by", to: "cidb" }
   - { rel: "governs", to: "cidb-act-520" }

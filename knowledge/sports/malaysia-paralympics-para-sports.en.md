@@ -88,6 +88,7 @@ sources:
     publisher: "Bernama"
 
 entity: "Paralympic Council Malaysia"
+wikidata: "Q6742000"
 relations:
   - { rel: "related-to", to: "malaysia-olympic-council" }
   - { rel: "governs", to: "malaysia-para-athletics" }
