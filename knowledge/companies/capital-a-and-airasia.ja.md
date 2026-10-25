@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "処分の法的完了日の正確な日付：AirAsiaのニュースルームは完了日を「2026-01-18」としているが、The Starは移管を「2026-01-16」、新AAX株式の上場を「2026-01-19」としている。同社がどの日付を完了日として扱っているか確認が必要。"
-  - "Capital Aの非航空事業部門の現在の構成：2025年3月の整理計画ではBigPayやABC Internationalを含む六つの事業が言及されていたが、2026年の報道では五つ（ADE、Teleport、AirAsia MOVE、AirAsia Next、Santan）が挙げられている。Capital Aの最新の開示情報に照らして、この五事業構成を確認する必要がある。"
-  - "AirAsia Group Berhadが2026年7月の改称後もティッカーAAGBおよび証券コード5238を維持したこと——現行のBursa Malaysia上場情報に照らして確認する必要がある。"
-  - "統合後のAirAsia Group Berhadの運営指標（機材規模、路線網、収益性）はまだ申告書類に反映されていない。公表され次第、確認する必要がある。"
 
 updated: 2026-07-28
 sources:

@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Dates d'entrée en vigueur de divisions précises de la CMSA 2007 (p. ex. la division 2 de la partie VI) si ce niveau de détail est réintroduit — citer le journal officiel / l'avis d'entrée en vigueur."
 updated: 2026-08-08
 sources:
   - title: "À propos de la SC (About the SC)"

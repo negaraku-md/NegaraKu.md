@@ -52,9 +52,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Daftar tepat negara bagian yang menetapkan Thaipusam sebagai hari libur umum dapat berbeda dari tahun ke tahun; pastikan terhadap pemberitahuan libur resmi setiap negara bagian untuk tahun yang bersangkutan."
-  - "Angka kehadiran penganut merupakan perkiraan yang berbeda secara signifikan antarsumber; hanya angka Tourism Selangor (hingga 1.5 juta) yang dikutip di sini."
 
 updated: 2026-07-24
 sources:

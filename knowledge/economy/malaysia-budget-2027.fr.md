@@ -55,8 +55,6 @@ sources:
     publisher: "The Sun"
     date: "2026-10-09"
 
-verificationNeeded:
-  - "Tous les chiffres du Budget 2027 présentés ici sont ceux annoncés dans le discours du Budget du 9 octobre 2026 et compilés à partir de la couverture du MOF et des grands médias — à confirmer chacun au regard des documents officiels du Budget 2027 (texte du discours, Perspectives économiques, Estimations des recettes et dépenses sur belanjawan.mof.gov.my) et de la loi d'application (Finance Bill 2026/2027, Supply Act 2027, et toute ordonnance P.U.(A)) une fois publiés au journal officiel. Chiffres rapportés avec de légères variations selon les médias : les taux exacts des PME (14 %/16 %), les changements de taux par tranche pour les particuliers, l'estimation des recettes totales, et l'objectif de déficit (3,3 % contre 3,4 %)."
 
 entity: "Malaysia Budget 2027"
 relations:

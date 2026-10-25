@@ -29,11 +29,6 @@ faq:
   - q: "¿El dinero en ASB está cubierto por un seguro de depósitos?"
     a: "No. ASB y ASN son fondos de inversión autorizados por la Securities Commission Malaysia bajo sus Directrices sobre Fondos de Inversión: no son depósitos bancarios, y el seguro de depósitos cubre depósitos y no participaciones en fondos de inversión. La propia divulgación de ASNB afirma que un fondo de precio fijo no es un fondo con capital garantizado ni con capital protegido, y la tasa de distribución no está garantizada."
 
-verificationNeeded:
-  - "PNB's AUM (RM364 billion) and the FY2025 distribution figures are point-in-time — re-check against PNB's next annual press release before citing"
-  - "The 300,000-unit ASB investment limit and fee schedule are current as at the review date; ASNB's product pages and Product Highlights Sheets are the source of truth for any change"
-  - "The statement that deposit insurance does not extend to unit trust holdings is not backed by a PIDM source in the list below — add a PIDM citation, or drop the claim, before publication"
-  - "The 6 fixed-price / 12 variable-price split is derived from PNB's 19 December 2025 press release (18 funds in total, 12 of them variable-price) — reconfirm against ASNB's fund list at the next review"
 
 lang: "es"
 sourceContentHash: "1c4aaf1e059aa22b"

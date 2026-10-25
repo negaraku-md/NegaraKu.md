@@ -42,8 +42,6 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "Press Metalの生産コストを「グローバルコストカーブの第一四分位」と特徴づけている記述――2019年のRAMのノートのみを出典としており、現在も妥当かどうかの確認が必要。"
 revisions:
   - revision: 0
     date: 2026-07-28

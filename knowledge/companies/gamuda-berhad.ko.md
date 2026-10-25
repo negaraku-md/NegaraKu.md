@@ -42,11 +42,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "2025 회계연도 매출은 The Star와 Gamuda 자체 실적 발표에서 RM159.7억(+20%)으로 보도되나, 일부 매체는 약 RM164억의 그룹 매출 수치를 인용합니다. 최종 기사가 어느 기준(법정 매출 대 공동기업/관계기업 지분 포함)을 사용해야 하는지 확인 필요."
-  - "Xizhi Donghu MRT 표 행은 호주 행들과의 일관성을 위해 전체 계약 금액 RM43억을 표시합니다. Gamuda의 75% 합작 지분은 약 RM32억입니다. 인간 편집자가 어느 기준으로 제시하기를 선호하는지 확인 필요."
-  - "Gamuda의 과거 대만 지하철 실적: 2024년 10월 보도자료는 Xizhi Donghu를 대만에서의 지금까지 최대 수주로 부르며 이전 수주가 있었음을 확인하나, 그 실적이 언제 시작되었는지는 밝히지 않습니다. 삭제된 2000년대 초 시작일은 검증되지 않았으므로 재추가 전에 확인 필요."
-  - "Sydney Metro West에 대해 인용된 자율 TBM은 표의 Stations Package West 행(A$27억)과는 다른 패키지인 이전의 Western Tunnelling Package(2022년 수주)에 투입되었습니다. 최종 원고에서 이 둘이 혼동되지 않았는지 확인 필요."
 revisions:
   - revision: 0
     date: 2026-07-28

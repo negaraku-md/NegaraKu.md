@@ -49,9 +49,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "카아마탄을 공휴일로 지정한 관보의 정확한 원래 날짜(역사 기록에서는 널리 1960년으로 매겨짐). 여기서는 문서에 못박지 않고 정성적으로 서술합니다."
-  - "카아마탄이 국가유산국(Jabatan Warisan Negara)의 공식 국가유산으로 등재되어 있는지 여부 — 집필 시점에 공식 자료로 확인되지 않았습니다."
 
 updated: 2026-07-24
 sources:

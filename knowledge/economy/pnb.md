@@ -29,11 +29,6 @@ faq:
   - q: "Is money in ASB covered by deposit insurance?"
     a: "No. ASB and ASN are unit trust funds authorised by the Securities Commission Malaysia under its Guidelines on Unit Trust Funds — they are not bank deposits, and deposit insurance covers deposits rather than unit trust holdings. ASNB's own disclosure states a fixed-price fund is not a capital guaranteed or capital protected fund, and the distribution rate is not guaranteed."
 
-verificationNeeded:
-  - "PNB's AUM (RM364 billion) and the FY2025 distribution figures are point-in-time — re-check against PNB's next annual press release before citing"
-  - "The 300,000-unit ASB investment limit and fee schedule are current as at the review date; ASNB's product pages and Product Highlights Sheets are the source of truth for any change"
-  - "The statement that deposit insurance does not extend to unit trust holdings is not backed by a PIDM source in the list below — add a PIDM citation, or drop the claim, before publication"
-  - "The 6 fixed-price / 12 variable-price split is derived from PNB's 19 December 2025 press release (18 funds in total, 12 of them variable-price) — reconfirm against ASNB's fund list at the next review"
 
 lang: "en"
 masterLanguage: "en"

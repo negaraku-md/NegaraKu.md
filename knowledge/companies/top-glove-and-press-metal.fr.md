@@ -43,8 +43,6 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "La caractérisation des coûts de production de Press Metal comme se situant dans le « premier quartile de la courbe de coûts mondiale » — issue uniquement de la note RAM de 2019 ; confirmer qu'elle tient toujours."
 revisions:
   - revision: 0
     date: 2026-07-28

@@ -55,8 +55,6 @@ sources:
     publisher: "The Sun"
     date: "2026-10-09"
 
-verificationNeeded:
-  - "Semua angka Budget 2027 di sini adalah sebagaimana diumumkan dalam pidato Budget pada 9 Oktober 2026 dan dihimpun dari liputan MOF serta media besar — konfirmasikan masing-masing terhadap dokumen resmi Budget 2027 (Teks Pidato, Prospek Ekonomi, Perkiraan Pendapatan & Belanja di belanjawan.mof.gov.my) dan undang-undang pelaksana (Finance Bill 2026/2027, Supply Act 2027, dan perintah P.U.(A) apa pun) setelah diwartakan. Angka yang dilaporkan dengan sedikit perbedaan antarmedia: tarif SME yang persis (14%/16%), perubahan tarif pribadi per lapisan, perkiraan total pendapatan, dan target defisit (3.3% vs 3.4%)."
 
 entity: "Malaysia Budget 2027"
 relations:

@@ -49,9 +49,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tanggal sebenarnya warta asli Kaamatan sebagai hari libur umum (secara luas tercatat sebagai tahun 1960 dalam rekaman sejarah); dijelaskan secara kualitatif di sini dan bukan bersumber pada suatu dokumen tertentu."
-  - "Apakah Kaamatan memiliki pendaftaran warisan negara resmi oleh Departemen Warisan Negara — tidak dipastikan di sumber resmi pada saat penulisan."
 
 updated: 2026-07-24
 sources:

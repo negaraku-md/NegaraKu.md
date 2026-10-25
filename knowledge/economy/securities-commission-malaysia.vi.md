@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Các ngày có hiệu lực của các phần cụ thể của CMSA 2007 (ví dụ Division 2 of Part VI) nếu mức chi tiết đó được đưa lại — dẫn công báo/thông báo có hiệu lực."
 updated: 2026-08-08
 sources:
   - title: "Giới thiệu về SC (About the SC)"

@@ -55,8 +55,6 @@ sources:
     publisher: "The Sun"
     date: "2026-10-09"
 
-verificationNeeded:
-  - "Semua angka Belanjawan 2027 di sini adalah seperti yang diumumkan dalam ucapan Belanjawan pada 9 Oktober 2026 dan dihimpunkan daripada liputan MOF serta media utama — sahkan setiap satu terhadap dokumen rasmi Belanjawan 2027 (Teks Ucapan, Tinjauan Ekonomi, Anggaran Hasil & Perbelanjaan di belanjawan.mof.gov.my) dan undang-undang pemboleh (Rang Undang-undang Kewangan 2026/2027, Akta Perbekalan 2027, dan apa-apa perintah P.U.(A)) sebaik sahaja diwartakan. Angka yang dilaporkan dengan sedikit perbezaan antara media: kadar SME yang tepat (14%/16%), perubahan kadar individu bagi setiap tangga, anggaran jumlah hasil, dan sasaran defisit (3.3% berbanding 3.4%)."
 
 entity: "Malaysia Budget 2027"
 relations:

@@ -30,11 +30,6 @@ faq:
   - q: "Tiền trong ASB có được bảo hiểm tiền gửi bảo vệ không?"
     a: "Không. ASB và ASN là các quỹ tín thác đơn vị được Ủy ban Chứng khoán Malaysia cấp phép theo Guidelines on Unit Trust Funds của nó — chúng không phải là tiền gửi ngân hàng, và bảo hiểm tiền gửi bảo vệ tiền gửi chứ không phải các khoản nắm giữ quỹ tín thác đơn vị. Chính công bố của ASNB nêu rằng một quỹ giá cố định không phải là một quỹ được bảo đảm vốn hay được bảo vệ vốn, và tỷ lệ phân phối không được bảo đảm."
 
-verificationNeeded:
-  - "AUM của PNB (RM364 tỷ) và các con số phân phối năm tài chính 2025 là tại thời điểm — kiểm tra lại với thông cáo báo chí thường niên tiếp theo của PNB trước khi trích dẫn"
-  - "Hạn mức đầu tư ASB 300.000 đơn vị và biểu phí là hiện hành tính đến ngày rà soát; các trang sản phẩm và Product Highlights Sheet của ASNB là nguồn chân lý cho bất kỳ thay đổi nào"
-  - "Phát biểu rằng bảo hiểm tiền gửi không mở rộng tới các khoản nắm giữ quỹ tín thác đơn vị không được một nguồn PIDM trong danh sách dưới đây hậu thuẫn — bổ sung một trích dẫn PIDM, hoặc bỏ tuyên bố, trước khi xuất bản"
-  - "Sự phân chia 6 giá cố định / 12 giá biến đổi được rút ra từ thông cáo báo chí ngày 19 tháng 12 năm 2025 của PNB (18 quỹ tổng cộng, 12 trong số đó giá biến đổi) — xác nhận lại với danh sách quỹ của ASNB tại lần rà soát tiếp theo"
 
 lang: "vi"
 sourceContentHash: "1c4aaf1e059aa22b"

@@ -29,11 +29,6 @@ faq:
   - q: "Apakah uang dalam ASB dilindungi oleh asuransi simpanan?"
     a: "Tidak. ASB dan ASN adalah reksa dana saham yang diotorisasi oleh Komisi Sekuritas Malaysia (Securities Commission Malaysia) di bawah Guidelines on Unit Trust Funds — ia bukan simpanan bank, dan asuransi simpanan melindungi simpanan dan bukan kepemilikan reksa dana. Pengungkapan ASNB sendiri menyatakan bahwa dana harga tetap bukanlah dana yang dijamin modal atau dilindungi modal, dan tingkat distribusi tidak dijamin."
 
-verificationNeeded:
-  - "AUM PNB (RM364 miliar) dan angka distribusi FY2025 adalah data pada satu titik waktu — periksa ulang berdasarkan konferensi pers tahunan PNB berikutnya sebelum dikutip"
-  - "Batas investasi ASB sebanyak 300,000 unit dan jadwal biaya adalah terkini per tanggal peninjauan; halaman produk ASNB dan Product Highlights Sheet merupakan sumber rujukan sebenarnya untuk perubahan apa pun"
-  - "Pernyataan bahwa asuransi simpanan tidak mencakup kepemilikan amanah saham tidak didukung oleh sumber PIDM dalam daftar di bawah — tambahkan kutipan PIDM, atau hapus pernyataan itu, sebelum publikasi"
-  - "Pembagian 6 dana harga tetap / 12 dana harga berubah diperoleh dari konferensi pers PNB bertanggal 19 Desember 2025 (18 dana secara keseluruhan, 12 di antaranya harga berubah) — verifikasi ulang berdasarkan daftar dana ASNB pada peninjauan berikutnya"
 
 lang: "id"
 sourceContentHash: "1c4aaf1e059aa22b"

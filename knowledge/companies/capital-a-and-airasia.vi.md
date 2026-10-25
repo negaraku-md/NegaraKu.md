@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Ngày hoàn tất pháp lý chính xác của việc chuyển nhượng: phòng tin tức của AirAsia ghi ngày hoàn tất là \"2026-01-18\", trong khi The Star mô tả việc chuyển giao là \"2026-01-16\" với cổ phiếu AAX mới được niêm yết vào \"2026-01-19\". Hãy xác nhận công ty coi ngày nào là ngày hoàn tất."
-  - "Thành phần hiện tại của các đơn vị không phải hãng hàng không của Capital A: kế hoạch chỉnh đốn tháng 3 năm 2025 đề cập sáu hoạt động kinh doanh (bao gồm BigPay và ABC International), trong khi báo cáo năm 2026 liệt kê năm (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan). Hãy xác nhận danh sách năm đơn vị với các công bố mới nhất của Capital A."
-  - "Việc AirAsia Group Berhad giữ mã giao dịch AAGB và mã cổ phiếu 5238 sau khi đổi tên tháng 7 năm 2026 — hãy đối chiếu với niêm yết hiện tại của Bursa Malaysia."
-  - "Các chỉ số vận hành sau hợp nhất của AirAsia Group Berhad (quy mô đội bay, mạng lưới tuyến, khả năng sinh lời) chưa có trong các hồ sơ; hãy xác nhận khi được công bố."
 
 updated: 2026-07-28
 sources:

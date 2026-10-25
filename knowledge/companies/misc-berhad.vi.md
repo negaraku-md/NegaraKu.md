@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Cần xác nhận tỷ lệ sở hữu hiện tại chính xác của PETRONAS so với mục 'Phân tích Sở hữu cổ phần' trong Báo cáo Tích hợp/Thường niên mới nhất của MISC (được đưa tin là 2.276.583.900 cổ phiếu = 51% tính đến \"2025-03-05\"); con số ở đây được lấy từ dữ liệu Simply Wall St đề ngày \"2024-09-15\"."
-  - "Cần xác nhận năm thành lập 1968, việc đổi thương hiệu thành MISC Berhad vào tháng 9 năm 2005, và mã cổ phiếu Bursa 3816 so với một nguồn sơ cấp của MISC hoặc Bursa (chưa lấy về cho bản nháp này)."
-  - "Cần xác nhận các định nghĩa của bốn mảng và các quan hệ công ty con AET Tankers / Malaysia Marine and Heavy Engineering (MMHE) so với báo cáo thường niên mới nhất của MISC."
-  - "Con số 36.0 sen được nêu là cổ tức tổng đề xuất trong bản công bố được dẫn; cần xác nhận số tiền tuyên bố cuối cùng."
 
 updated: 2026-07-28
 sources:

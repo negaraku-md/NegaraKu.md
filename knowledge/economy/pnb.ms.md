@@ -29,11 +29,6 @@ faq:
   - q: "Adakah wang dalam ASB dilindungi oleh insurans deposit?"
     a: "Tidak. ASB dan ASN ialah dana amanah saham yang dibenarkan oleh Suruhanjaya Sekuriti Malaysia (Securities Commission Malaysia) di bawah Guidelines on Unit Trust Funds — ia bukan deposit bank, dan insurans deposit melindungi deposit dan bukannya pegangan amanah saham. Pendedahan ASNB sendiri menyatakan bahawa dana harga tetap bukanlah dana yang dijamin modal atau dilindungi modal, dan kadar pengagihan tidak dijamin."
 
-verificationNeeded:
-  - "AUM PNB (RM364 bilion) dan angka pengagihan FY2025 adalah data pada satu-satu masa — semak semula berdasarkan sidang akhbar tahunan PNB yang seterusnya sebelum dipetik"
-  - "Had pelaburan ASB sebanyak 300,000 unit dan jadual yuran adalah terkini setakat tarikh semakan; laman produk ASNB dan Product Highlights Sheet ialah sumber rujukan sebenar bagi sebarang perubahan"
-  - "Kenyataan bahawa insurans deposit tidak meliputi pegangan amanah saham tidak disokong oleh sumber PIDM dalam senarai di bawah — tambahkan petikan PIDM, atau gugurkan kenyataan itu, sebelum penerbitan"
-  - "Pembahagian 6 dana harga tetap / 12 dana harga berubah diperoleh daripada sidang akhbar PNB bertarikh 19 Disember 2025 (18 dana secara keseluruhan, 12 daripadanya harga berubah) — sahkan semula berdasarkan senarai dana ASNB pada semakan seterusnya"
 
 lang: "ms"
 masterLanguage: "en"

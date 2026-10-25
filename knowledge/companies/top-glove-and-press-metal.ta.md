@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "Press Metal-இன் உற்பத்திச் செலவுகள் ‘உலகளாவிய செலவு வளைவின் முதல் காலாண்டில்’ (first quartile of the global cost curve) இருப்பதாகக் குறிப்பிடப்பட்டுள்ளது — இது 2019 RAM குறிப்பிலிருந்து மட்டுமே பெறப்பட்டது; அது இன்னும் பொருந்துகிறதா எனச் சரிபார்க்கவும்."
 revisions:
   - revision: 0
     date: 2026-07-28

@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Jour exact de l'achèvement juridique de la cession : la newsroom d'AirAsia date l'achèvement au «2026-01-18», tandis que The Star situe le transfert au «2026-01-16» avec les nouvelles actions AAX cotées le «2026-01-19». Confirmer quelle date la société considère comme l'achèvement."
-  - "Composition actuelle des unités non aériennes de Capital A : le plan de régularisation de mars 2025 faisait référence à six activités (dont BigPay et ABC International), tandis que les communications de 2026 en listent cinq (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan). Confirmer la liste des cinq unités par rapport aux dernières publications de Capital A."
-  - "Qu'AirAsia Group Berhad a conservé le ticker AAGB et le code boursier 5238 après le changement de nom de juillet 2026 — confirmer par rapport à la cotation actuelle de Bursa Malaysia."
-  - "Les indicateurs d'exploitation post-consolidation d'AirAsia Group Berhad (taille de la flotte, réseau de routes, rentabilité) ne figurent pas encore dans les dépôts réglementaires ; confirmer lors de leur publication."
 
 updated: 2026-07-28
 sources:

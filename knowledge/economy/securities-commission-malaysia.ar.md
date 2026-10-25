@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "تواريخ بدء العمل بأقسام محددة من CMSA 2007 (مثل Division 2 of Part VI) إذا أُعيد هذا المستوى من التفصيل — استشهد بالجريدة الرسمية / إشعار بدء العمل."
 updated: 2026-08-08
 sources:
   - title: "عن SC (About the SC)"

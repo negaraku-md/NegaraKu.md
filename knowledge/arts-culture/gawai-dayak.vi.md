@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Văn bản gốc chính xác của công báo năm 1964 chỉ định Gawai Dayak là ngày nghỉ lễ công cộng — ngày 25 tháng 9 năm 1964 được lấy từ các bản ghi của cơ quan du lịch và bách khoa thư chứ không phải từ bản thân văn bản công báo."
-  - "Liệu Gawai Dayak có được liệt kê di sản quốc gia chính thức nào theo Cục Di sản Quốc gia (Jabatan Warisan Negara) hay không — chưa được xác nhận tại nguồn chính thức vào thời điểm viết bài."
 
 updated: 2026-07-24
 sources:

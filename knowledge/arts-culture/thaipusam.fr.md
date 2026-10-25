@@ -52,9 +52,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "La liste exacte des États publiant le Thaipusam au journal officiel comme jour férié peut varier d'une année à l'autre ; à confirmer par rapport à l'avis officiel des jours fériés de chaque État pour l'année concernée."
-  - "Les chiffres de fréquentation des fidèles sont des estimations qui diffèrent largement d'une source à l'autre ; seul le chiffre de Tourism Selangor (jusqu'à 1.5 million) est cité ici."
 
 updated: 2026-07-24
 sources:

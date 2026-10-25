@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "DNB가 2021년 몇 월에 설립되었는지 정확한 월 — DNB 자체 웹사이트는 2021년이라는 연도만 명시함(회사 등록번호 201701005338은 2017년으로 거슬러 올라감). 이전에 초안에 있던 2021년 3월은 1차 출처와 대조해 확인할 수 없었음."
 revisions:
   - revision: 0
     date: 2026-07-28

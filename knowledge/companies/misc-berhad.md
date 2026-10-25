@@ -44,11 +44,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Confirm PETRONAS's exact current shareholding against MISC's latest Integrated/Annual Report 'Analysis of Shareholdings' (reported as 2,276,583,900 shares = 51% as of \"2025-03-05\"); the figure here is sourced to Simply Wall St data dated \"2024-09-15\"."
-  - "Confirm the 1968 incorporation year, the September 2005 rebranding to MISC Berhad, and Bursa stock code 3816 against a primary MISC or Bursa source (not fetched for this draft)."
-  - "Confirm the four segment definitions and the AET Tankers / Malaysia Marine and Heavy Engineering (MMHE) subsidiary relationships against MISC's latest annual report."
-  - "The 36.0 sen figure is stated as a proposed total dividend in the cited release; confirm the final declared amount."
 
 updated: 2026-07-28
 sources:

@@ -22,9 +22,6 @@ keyTakeaways:
   - "Christmas is a nationwide public holiday; Good Friday is a public holiday only in Sabah and Sarawak. Religious freedom sits under Article 11, with Article 11(4) permitting state control of propagation among Muslims"
 appliesTo: "Anyone wanting to understand Christianity in Malaysia — its demographics, where it is concentrated, its denominations, mission history and legal framework."
 
-verificationNeeded:
-  - "CFM's 'more than 95% of churches' figure is CFM's own self-description (per cfmsia.org), not an independently audited statistic — presented as such in the text"
-  - "The 'Allah' legal position is confirmed to 2023 (the 2021 Jill Ireland ruling stands, the federal appeal was withdrawn, and the earlier Herald precedent differs) but remains an evolving matter — recheck the current position at publication"
 
 lang: "en"
 masterLanguage: "en"

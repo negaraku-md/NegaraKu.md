@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "PETRONAS의 정확한 현재 지분율을 MISC 최신 통합/연차보고서의 지분 분석(Analysis of Shareholdings)과 대조하여 확인(2025-03-05 기준 2,276,583,900주 = 51%로 보고됨). 여기의 수치는 2024-09-15자 Simply Wall St 데이터에 근거함."
-  - "1968년 설립 연도, 2005년 9월 MISC Berhad로의 리브랜딩, Bursa 종목코드 3816을 1차 MISC 또는 Bursa 출처와 대조하여 확인(이 초안에서는 확보하지 않음)."
-  - "네 개 부문 정의와 AET Tankers / Malaysia Marine and Heavy Engineering(MMHE) 자회사 관계를 MISC 최신 연차보고서와 대조하여 확인."
-  - "36.0센 수치는 인용된 발표문에서 제안된 총 배당으로 기재됨. 최종 선언된 금액 확인 필요."
 
 updated: 2026-07-28
 sources:

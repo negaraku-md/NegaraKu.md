@@ -29,11 +29,6 @@ faq:
   - q: "ASB里的钱受存款保险保障吗？"
     a: "不受保障。ASB与ASN是根据大马证券监督委员会（Securities Commission Malaysia，SC）的 Guidelines on Unit Trust Funds 获准运作的单位信托基金——它们不是银行存款，而存款保险保障的是存款，并非单位信托持仓。ASNB自身的披露文件指出，固定价格基金「并非保本或资本保障基金」，分配率也不获保证。"
 
-verificationNeeded:
-  - "PNB的AUM（RM364亿）与2025财政年度的分配数字均为特定时点的数据——引用前应对照PNB下一次的年度新闻稿重新核实"
-  - "ASB的30万单位投资限额与收费表为审阅日当时的最新资料；如有任何变动，应以ASNB的产品页面与 Product Highlights Sheet 为准"
-  - "「存款保险不涵盖单位信托持仓」这一说法在下方来源清单中没有PIDM的资料支持——发表前应加入PIDM的引用，或删除此说法"
-  - "6个固定价格／12个浮动价格的划分，取自PNB于2025年12月19日发布的新闻稿（共18个基金，其中12个为浮动价格）——下次审阅时应对照ASNB的基金清单重新确认"
 
 lang: "zh"
 masterLanguage: "en"

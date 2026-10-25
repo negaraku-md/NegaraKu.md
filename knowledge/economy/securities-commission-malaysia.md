@@ -44,8 +44,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Commencement dates of specific CMSA 2007 divisions (e.g. Division 2 of Part VI) if that level of detail is reinstated — cite the gazette/commencement notice."
 updated: 2026-08-08
 sources:
   - title: "About the SC"

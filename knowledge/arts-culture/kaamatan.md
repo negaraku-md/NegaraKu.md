@@ -48,9 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Exact original gazette date of Kaamatan as a public holiday (widely dated to 1960 in the historical record); described qualitatively here rather than pinned to a document."
-  - "Whether Kaamatan carries a formal Jabatan Warisan Negara national-heritage listing — not confirmed at an official source at the time of writing."
 
 updated: 2026-07-24
 sources:

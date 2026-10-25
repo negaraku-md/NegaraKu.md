@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "MISCの最新の統合報告書／年次報告書の「Analysis of Shareholdings」に照らして、PETRONASの現在の正確な持株比率を確認すること（2025年3月5日時点で2,276,583,900株＝51%と報告されている）。本稿の数値は2024年9月15日付のSimply Wall Stのデータに基づいている。"
-  - "1968年の設立年、2005年9月のMISC Berhadへの社名変更、およびBursa銘柄コード3816について、MISCまたはBursaの一次資料に照らして確認すること（本稿の作成にあたっては取得していない）。"
-  - "4つのセグメントの定義、およびAET Tankers／Malaysia Marine and Heavy Engineering（MMHE）の子会社関係について、MISCの最新の年次報告書に照らして確認すること。"
-  - "36.0 senという数値は引用元のリリースにおいて提案された配当総額として記載されている。最終的に宣言された金額を確認すること。"
 
 updated: 2026-07-28
 sources:

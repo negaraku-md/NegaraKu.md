@@ -22,9 +22,6 @@ keyTakeaways:
   - "La Navidad es día festivo nacional; el Viernes Santo solo es festivo en Sabah y Sarawak. La libertad religiosa se enmarca en el artículo 11, mientras que el artículo 11(4) permite el control estatal de la propagación entre los musulmanes"
 appliesTo: "Cualquiera que quiera comprender el cristianismo en Malasia: su demografía, dónde se concentra, sus confesiones, su historia misionera y su marco jurídico."
 
-verificationNeeded:
-  - "La cifra de la CFM de «más del 95 % de las iglesias» es una autodescripción de la propia CFM (según cfmsia.org), no auditada de forma independiente; se presenta como tal"
-  - "La posición jurídica sobre «Allah» está confirmada hasta 2023 (el fallo de Jill Ireland de 2021 se mantiene, el recurso federal fue retirado y el precedente anterior del Herald difiere), pero sigue evolucionando; revísese en el momento de publicar"
 
 lang: "es"
 masterLanguage: "en"

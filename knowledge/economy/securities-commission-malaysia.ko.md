@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "특정 CMSA 2007 편(division)의 시행일(예: Part VI의 Division 2)이 그 수준의 세부까지 복원되는 경우 — 관보/시행 고시를 인용할 것."
 updated: 2026-08-08
 sources:
   - title: "SC 소개 (About the SC)"

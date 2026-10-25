@@ -43,8 +43,6 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "Pencirian kos pengeluaran Press Metal sebagai 'kuartil pertama keluk kos global' — hanya bersumberkan nota RAM 2019; sahkan ia masih berkuat kuasa."
 revisions:
   - revision: 0
     date: 2026-07-28

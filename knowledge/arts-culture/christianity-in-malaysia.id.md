@@ -22,9 +22,6 @@ keyTakeaways:
   - "Natal adalah hari libur umum secara nasional; Jumat Agung adalah hari libur umum hanya di Sabah dan Sarawak. Kebebasan beragama berada di bawah Perkara 11, dengan Perkara 11(4) membenarkan pengawasan negeri atas penyebaran ajaran di kalangan umat Islam"
 appliesTo: "Siapa saja yang ingin memahami Kekristenan di Malaysia — demografinya, di mana ia terkonsentrasi, denominasinya, sejarah misi, dan kerangka hukumnya."
 
-verificationNeeded:
-  - "Angka 'lebih dari 95% gereja' dari CFM adalah deskripsi CFM tentang dirinya sendiri (menurut cfmsia.org), bukan hasil audit independen — disajikan sebagaimana adanya"
-  - "Posisi hukum atas kata 'Allah' terkonfirmasi hingga 2023 (putusan Jill Ireland 2021 tetap berlaku, banding persekutuan ditarik, preseden Herald sebelumnya berbeda) tetapi masih terus berkembang — mohon diperiksa ulang saat penerbitan"
 
 lang: "id"
 masterLanguage: "en"

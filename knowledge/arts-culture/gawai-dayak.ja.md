@@ -50,9 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "ガワイ・ダヤックを祝日と定めた1964年の官報告示の正確な原文——1964年9月25日という日付は、官報文書そのものではなく、観光機関や百科事典の記録から採られている。"
-  - "ガワイ・ダヤックがJabatan Warisan Negara（国家遺産局）のもとで正式な国家遺産としての登録を有しているか否か——執筆時点で公式な情報源による確認は取れていない。"
 
 updated: 2026-07-24
 sources:

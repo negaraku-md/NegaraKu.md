@@ -50,9 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Exact original text of the 1964 gazette designating Gawai Dayak a public holiday — the 25 September 1964 date is taken from tourism-body and encyclopaedic records rather than the gazette document itself."
-  - "Whether Gawai Dayak carries any formal national-heritage listing under the Jabatan Warisan Negara — not confirmed at an official source at the time of writing."
 
 updated: 2026-07-24
 sources:

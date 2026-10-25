@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "The exact list of states gazetting Thaipusam as a public holiday can vary year to year; confirm against each state's official holiday notice for the year in question."
-  - "Devotee attendance figures are estimates that differ widely between sources; only the Tourism Selangor figure (up to 1.5 million) is cited here."
 
 updated: 2026-07-24
 sources:

@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "1964年将达雅节列为公共假期的宪报原文——1964年9月25日这一日期取自旅游机构与百科全书记录，而非宪报文件本身。"
-  - "达雅节是否在 Jabatan Warisan Negara（国家文物局）下拥有正式的国家文化遗产名录地位——撰写本文时尚未在官方来源中获得证实。"
 
 updated: 2026-07-24
 sources:

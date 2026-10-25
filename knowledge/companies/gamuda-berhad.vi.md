@@ -42,11 +42,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "Doanh thu FY2025 được The Star và bản công bố kết quả của chính Gamuda báo cáo là RM15.97 tỷ (+20%), nhưng một số cơ quan báo chí dẫn con số doanh thu tập đoàn khoảng RM16.4 tỷ. Cần xác nhận bài viết cuối cùng nên dùng cơ sở nào (doanh thu theo luật định so với gồm cả phần chia từ liên doanh/công ty liên kết)."
-  - "Dòng bảng Xizhi Donghu MRT thể hiện toàn bộ giá trị hợp đồng RM4.3 tỷ để nhất quán với các dòng của Úc; phần chia liên doanh 75% của Gamuda là khoảng RM3.2 tỷ. Cần xác nhận biên tập viên là con người thích trình bày theo cơ sở nào."
-  - "Thành tích đường sắt đô thị Đài Loan trước đây của Gamuda: thông cáo báo chí tháng 10 năm 2024 gọi Xizhi Donghu là 'hợp đồng lớn nhất từ trước đến nay tại Đài Loan', xác nhận có các hợp đồng thắng thầu trước đó, nhưng không nêu thành tích đó bắt đầu từ khi nào. Mốc bắt đầu 'đầu những năm 2000' đã bị gỡ bỏ là chưa được kiểm chứng và cần được xác nhận trước khi thêm lại."
-  - "Các TBM tự hành được dẫn cho Sydney Metro West đã được triển khai trên Western Tunnelling Package trước đó (trao thầu năm 2022), một gói khác với dòng Stations Package West (A$2.7 tỷ) trong bảng. Cần xác nhận hai gói không bị lẫn lộn trong bản cuối."
 revisions:
   - revision: 0
     date: 2026-07-28

@@ -50,9 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Việc phân loại phả hệ của các ngôn ngữ này (Austronesian, North Bornean, Dusunic/Murutic/Paitanic/Sama-Bajau, North Sarawakan/Melanau-Kajang/Bidayuhic/Malayic) theo các tài liệu tham chiếu ngôn ngữ học chuẩn (Ethnologue/SIL và Glottolog), không phải một sự phân loại chính thức của chính phủ Malaysia — chính phủ Malaysia không công bố một cây phả hệ chính thức của các ngôn ngữ này."
-  - "Con số người nói chính xác cho từng ngôn ngữ không được công bố như một con số chính thức duy nhất; bài viết dùng các con số dân số nhóm sắc tộc (Điều tra Dân số DOSM) như một đại lượng thay thế cho quy mô ngôn ngữ, vốn là một sự xấp xỉ."
 
 updated: 2026-07-24
 sources:

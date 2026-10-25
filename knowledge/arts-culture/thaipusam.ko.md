@@ -52,9 +52,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "타이푸삼을 공휴일로 관보에 고시하는 주의 정확한 목록은 해마다 다를 수 있습니다. 해당 연도의 각 주 공식 공휴일 공고와 대조하여 확인하십시오."
-  - "신자 참가 인원 수치는 자료마다 크게 다른 추정치입니다. 여기서는 슬랑오르 관광청의 수치(최대 150만 명)만 인용합니다."
 
 updated: 2026-07-24
 sources:

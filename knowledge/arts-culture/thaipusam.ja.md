@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "タイプーサムを公共の祝日として官報告示する州の正確な一覧は年によって異なる場合がある。該当年の各州の公式な祝日告示に照らして確認すること。"
-  - "信者の出席者数は情報源によって大きく異なる推計値である。本稿ではTourism Selangorの数値（最大150万人）のみを引用している。"
 
 updated: 2026-07-24
 sources:

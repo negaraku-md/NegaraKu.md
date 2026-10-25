@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Teks asal sebenar warta 1964 yang menetapkan Gawai Dayak sebagai cuti umum — tarikh 25 September 1964 diambil daripada rekod badan pelancongan dan ensiklopedia, bukan daripada dokumen warta itu sendiri."
-  - "Sama ada Gawai Dayak mempunyai sebarang penyenaraian warisan negara secara rasmi di bawah Jabatan Warisan Negara — tidak disahkan pada mana-mana sumber rasmi pada masa penulisan."
 
 updated: 2026-07-24
 sources:

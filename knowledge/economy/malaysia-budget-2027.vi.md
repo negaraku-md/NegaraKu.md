@@ -55,8 +55,6 @@ sources:
     publisher: "The Sun"
     date: "2026-10-09"
 
-verificationNeeded:
-  - "Mọi con số của Ngân sách 2027 ở đây là như được công bố trong bài phát biểu Ngân sách ngày 9 tháng 10 năm 2026 và được tổng hợp từ MOF cùng các hãng tin lớn — hãy xác nhận từng con số với các tài liệu chính thức của Ngân sách 2027 (Văn bản Bài phát biểu, Triển vọng Kinh tế, Dự toán Thu & Chi tại belanjawan.mof.gov.my) và luật thi hành (Dự luật Tài chính 2026/2027, Đạo luật Cung ứng 2027, và bất kỳ lệnh P.U.(A) nào) một khi được công báo. Các con số được đưa tin có chênh lệch nhẹ giữa các hãng: thuế suất SME chính xác (14%/16%), các thay đổi thuế suất cá nhân theo từng bậc, dự toán tổng thu, và mục tiêu thâm hụt (3.3% so với 3.4%)."
 
 entity: "Malaysia Budget 2027"
 relations:

@@ -55,8 +55,6 @@ sources:
     publisher: "The Sun"
     date: "2026-10-09"
 
-verificationNeeded:
-  - "All Budget 2027 figures here are as announced in the 9 October 2026 Budget speech and compiled from MOF and major-outlet coverage — confirm each against the official Budget 2027 documents (Speech Text, Economic Outlook, Revenue & Expenditure Estimates at belanjawan.mof.gov.my) and the enabling law (Finance Bill 2026/2027, Supply Act 2027, and any P.U.(A) orders) once gazetted. Figures reported with slight variance across outlets: the exact SME rates (14%/16%), the per-bracket personal-rate changes, the total-revenue estimate, and the deficit target (3.3% vs 3.4%)."
 
 entity: "Malaysia Budget 2027"
 relations:

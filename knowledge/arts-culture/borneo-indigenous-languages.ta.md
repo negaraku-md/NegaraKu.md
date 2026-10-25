@@ -50,9 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "இம்மொழிகளின் மரபணு வகைப்பாடு (Austronesian, North Bornean, Dusunic/Murutic/Paitanic/Sama-Bajau, North Sarawakan/Melanau-Kajang/Bidayuhic/Malayic) நிலையான மொழியியல் குறிப்பு நூல்களை (Ethnologue/SIL மற்றும் Glottolog) பின்பற்றுகிறது, மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ வகைப்பாட்டை அல்ல — மலேசிய அரசாங்கம் இம்மொழிகளின் முறையான மரபணு மரத்தை வெளியிடவில்லை."
-  - "தனிப்பட்ட மொழிகளுக்கான துல்லியமான பேச்சாளர் எண்ணிக்கைகள் ஒற்றை அதிகாரப்பூர்வ புள்ளிவிவரமாக வெளியிடப்படவில்லை; இக்கட்டுரை மொழியின் அளவுக்கான தோராயமாக இனக்குழு மக்கள்தொகை எண்ணிக்கைகளை (DOSM Census) பயன்படுத்துகிறது, இது ஒரு தோராயமே."
 
 updated: 2026-07-24
 sources:

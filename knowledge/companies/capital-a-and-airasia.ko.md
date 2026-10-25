@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "처분의 정확한 법적 완료일: AirAsia 뉴스룸은 완료일을 2026-01-18로 기재하는 반면, The Star는 이전을 2026-01-16으로, 신규 AAX 주식 상장을 2026-01-19로 표현합니다. 회사가 어느 날짜를 완료일로 취급하는지 확인이 필요합니다."
-  - "Capital A의 비항공 부문 현재 구성: 2025년 3월 정상화 계획은 여섯 개 사업(BigPay 및 ABC International 포함)을 언급했으나, 2026년 보도는 다섯 개(ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan)를 나열합니다. 다섯 개 부문 구성을 Capital A의 최신 공시와 대조하여 확인이 필요합니다."
-  - "2026년 7월 사명 변경 이후 AirAsia Group Berhad가 종목명 AAGB와 종목코드 5238을 유지했다는 점 — 현재 Bursa Malaysia 상장 정보와 대조하여 확인이 필요합니다."
-  - "AirAsia Group Berhad의 통합 이후 운영 지표(기단 규모, 노선망, 수익성)는 아직 공시에 반영되지 않았습니다. 공개되는 대로 확인이 필요합니다."
 
 updated: 2026-07-28
 sources:

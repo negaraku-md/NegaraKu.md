@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Usia minimum masuk ke lantai permainan kasino (lazim dilaporkan sebagai 21) — tidak ada sumber primer yang dibuka yang mengonfirmasinya; halaman kasino resmi Resorts World Genting sedang dalam pemeliharaan saat ditinjau."
-  - "Apakah Resorts World Genting secara operasional menolak masuknya orang Islam di pintu, berbeda dari larangan hukum Syariah terhadap orang Islam berjudi — tidak ditetapkan oleh sumber mana pun yang dikutip (Fortune secara eksplisit tidak menyatakan orang Islam dihalangi dari lantai kasino)."
-  - "Persentase kepemilikan saham yang tepat sebelum dan setelah penawaran yang dipegang oleh Genting Berhad dalam Genting Malaysia — The Edge mengonfirmasi harga RM2.35/saham dan kepemilikan awal di bawah 50% tetapi bukan angka yang tepat."
-  - "Penalti Syariah (jumlah denda dan masa penjara) bagi orang Islam yang ditangkap berjudi — hanya diuraikan secara kualitatif di sini; angka statutori yang tepat tidak diperoleh dari sumber."
 
 updated: 2026-07-28
 sources:

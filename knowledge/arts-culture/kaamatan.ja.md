@@ -48,9 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "カアマタンが祝日として官報告示された正確な原初の日付（歴史記録では広く1960年とされている）。ここでは特定の文書に基づくのではなく、定性的に記述している。"
-  - "カアマタンが国家遺産局（Jabatan Warisan Negara）による正式な国家遺産の登録対象となっているかどうか——執筆時点では公式な情報源で確認されていない。"
 
 updated: 2026-07-24
 sources:

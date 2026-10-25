@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "การอธิบายต้นทุนการผลิตของ Press Metal ว่าเป็น 'ควอไทล์แรกของเส้นต้นทุนโลก' — อ้างอิงเฉพาะบันทึก RAM ปี 2019; ให้ยืนยันว่ายังคงเป็นจริงอยู่"
 revisions:
   - revision: 0
     date: 2026-07-28

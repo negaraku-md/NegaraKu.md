@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "यदि वह स्तर का विवरण पुनः जोड़ा जाए तो CMSA 2007 के विशिष्ट प्रभागों (जैसे Division 2 of Part VI) के प्रारंभ की तिथियाँ — राजपत्र/प्रारंभ सूचना का हवाला दें।"
 updated: 2026-08-08
 sources:
   - title: "SC के बारे में (About the SC)"

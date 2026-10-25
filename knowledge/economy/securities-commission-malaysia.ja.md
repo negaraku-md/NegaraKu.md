@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "CMSA 2007の特定の部（例：Part VIのDivision 2）の施行日について、その詳細レベルを再度記載する場合は、官報／施行告示を引用すること。"
 updated: 2026-08-08
 sources:
   - title: "SCについて (About the SC)"

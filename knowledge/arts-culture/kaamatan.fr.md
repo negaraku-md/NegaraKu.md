@@ -49,9 +49,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Date exacte de la publication initiale au journal officiel du Kaamatan comme jour férié (largement datée de 1960 dans les archives historiques) ; décrite ici de façon qualitative plutôt que rattachée à un document."
-  - "Savoir si le Kaamatan fait l'objet d'un classement officiel au patrimoine national du Jabatan Warisan Negara — non confirmé auprès d'une source officielle au moment de la rédaction."
 
 updated: 2026-07-24
 sources:

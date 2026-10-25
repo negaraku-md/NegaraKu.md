@@ -22,9 +22,6 @@ keyTakeaways:
   - "Noël est un jour férié national ; le Vendredi saint n'est férié qu'au Sabah et au Sarawak. La liberté de religion relève de l'article 11, l'article 11(4) permettant aux États d'encadrer la propagation auprès des musulmans"
 appliesTo: "Toute personne souhaitant comprendre le christianisme en Malaisie — sa démographie, ses zones de concentration, ses confessions, son histoire missionnaire et son cadre juridique."
 
-verificationNeeded:
-  - "Le chiffre de « plus de 95 % des Églises » avancé par la CFM est une auto-description de la CFM elle-même (selon cfmsia.org), non auditée de façon indépendante — présentée comme telle"
-  - "La position juridique sur le mot « Allah » est confirmée jusqu'en 2023 (la décision Jill Ireland de 2021 tient, l'appel fédéral a été retiré, le précédent antérieur de l'affaire Herald diffère) mais demeure évolutive — à revérifier au moment de la publication"
 
 lang: "fr"
 masterLanguage: "en"

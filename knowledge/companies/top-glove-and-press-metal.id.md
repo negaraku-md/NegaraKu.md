@@ -43,8 +43,6 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "Karakterisasi biaya produksi Press Metal sebagai 'kuartil pertama kurva biaya global' — hanya bersumber dari catatan RAM 2019; verifikasi apakah masih berlaku."
 revisions:
   - revision: 0
     date: 2026-07-28

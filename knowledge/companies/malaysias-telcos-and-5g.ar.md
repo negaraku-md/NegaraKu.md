@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "الشهر الفعلي لتأسيس DNB عام 2021 — يذكر موقع DNB نفسه عام 2021 فقط (ورقم تسجيل شركتها 201701005338 يعود إلى 2017)؛ وتعذّر التأكد من «مارس 2021» الذي صيغ سابقًا مقابل مصدر أولي."
 revisions:
   - revision: 0
     date: 2026-07-28

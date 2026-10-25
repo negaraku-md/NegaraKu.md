@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "Bulan sebenarnya DNB didirikan pada 2021 — situs web DNB sendiri hanya menyatakan tahun 2021 (nomor pendaftaran perusahaannya 201701005338 bertanggal 2017); 'March 2021' yang disusun sebelumnya tidak dapat diverifikasi terhadap sumber primer."
 revisions:
   - revision: 0
     date: 2026-07-28

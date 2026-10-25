@@ -52,9 +52,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Danh sách chính xác các bang công bố công báo Thaipusam là ngày nghỉ lễ công cộng có thể thay đổi qua từng năm; xác nhận với thông báo ngày nghỉ chính thức của mỗi bang cho năm liên quan."
-  - "Các con số về số lượng tín đồ tham dự là ước tính khác nhau rất nhiều giữa các nguồn; chỉ con số của Tourism Selangor (lên đến 1,5 triệu) được viện dẫn ở đây."
 
 updated: 2026-07-24
 sources:

@@ -30,11 +30,6 @@ faq:
   - q: "L'argent placé dans l'ASB est-il couvert par une assurance des dépôts ?"
     a: "Non. L'ASB et l'ASN sont des fonds communs de placement autorisés par la Securities Commission Malaysia au titre de ses Lignes directrices sur les fonds communs de placement — ce ne sont pas des dépôts bancaires, et l'assurance des dépôts couvre les dépôts et non les parts de fonds communs. La propre divulgation de l'ASNB affirme qu'un fonds à prix fixe n'est pas un fonds à capital garanti ni à capital protégé, et que le taux de distribution n'est pas garanti."
 
-verificationNeeded:
-  - "L'AUM de PNB (RM364 milliards) et les chiffres de distribution de l'exercice 2025 sont ponctuels — revérifier auprès du prochain communiqué annuel de PNB avant de citer"
-  - "La limite d'investissement ASB de 300,000 parts et la grille de frais sont à jour à la date de révision ; les pages produit de l'ASNB et les fiches de présentation des produits (Product Highlights Sheets) font foi en cas de changement"
-  - "L'affirmation selon laquelle l'assurance des dépôts ne s'étend pas aux parts de fonds communs n'est pas étayée par une source PIDM dans la liste ci-dessous — ajouter une citation PIDM, ou retirer l'affirmation, avant publication"
-  - "La répartition 6 à prix fixe / 12 à prix variable est dérivée du communiqué de PNB du 19 décembre 2025 (18 fonds au total, dont 12 à prix variable) — reconfirmer auprès de la liste des fonds de l'ASNB à la prochaine révision"
 
 lang: "fr"
 sourceContentHash: "1c4aaf1e059aa22b"

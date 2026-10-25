@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "குறிப்பிட்ட CMSA 2007 பிரிவுகளின் (எ.கா. Part VI இன் Division 2) அமலாக்கத் தேதிகள் — அந்த அளவிலான விவரம் மீண்டும் சேர்க்கப்பட்டால், வர்த்தமானி/அமலாக்க அறிவிப்பை மேற்கோள் காட்டவும்."
 updated: 2026-08-08
 sources:
   - title: "SC பற்றி (About the SC)"

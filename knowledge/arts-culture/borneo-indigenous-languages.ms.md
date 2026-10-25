@@ -50,9 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Klasifikasi genetik bahasa-bahasa ini (Austronesia, Borneo Utara, Dusunik/Murutik/Paitanik/Sama-Bajau, Sarawak Utara/Melanau-Kajang/Bidayuhik/Melayik) mengikut rujukan linguistik standard (Ethnologue/SIL dan Glottolog), bukan klasifikasi rasmi kerajaan Malaysia — kerajaan Malaysia tidak menerbitkan pepohon genetik formal bagi bahasa-bahasa ini."
-  - "Bilangan penutur tepat bagi setiap bahasa tidak diterbitkan sebagai satu angka rasmi tunggal; artikel ini menggunakan kiraan populasi kumpulan etnik (Banci DOSM) sebagai proksi bagi saiz bahasa, yang merupakan satu anggaran."
 
 updated: 2026-07-24
 sources:

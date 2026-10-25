@@ -22,9 +22,6 @@ keyTakeaways:
   - "Giáng Sinh là ngày nghỉ lễ công cộng trên toàn quốc; Thứ Sáu Tuần Thánh chỉ là ngày nghỉ lễ công cộng ở Sabah và Sarawak. Tự do tôn giáo nằm trong Điều 11, với Điều 11(4) cho phép bang kiểm soát việc truyền đạo trong cộng đồng người Hồi giáo"
 appliesTo: "Bất kỳ ai muốn tìm hiểu về Kitô giáo tại Malaysia — nhân khẩu học, nơi tập trung, các hệ phái, lịch sử truyền giáo và khung pháp lý."
 
-verificationNeeded:
-  - "Con số 'hơn 95% số giáo hội' của CFM là mô tả do chính CFM tự đưa ra (theo cfmsia.org), không được kiểm toán độc lập — được trình bày đúng như vậy"
-  - "Lập trường pháp lý về từ 'Allah' được xác nhận đến năm 2023 (phán quyết Jill Ireland năm 2021 vẫn còn hiệu lực, kháng cáo của liên bang đã được rút, án lệ Herald trước đó thì khác) nhưng vẫn đang diễn biến — hãy kiểm tra lại khi xuất bản"
 
 lang: "vi"
 masterLanguage: "en"

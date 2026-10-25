@@ -52,9 +52,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Senarai tepat negeri yang mewartakan Thaipusam sebagai cuti umum boleh berbeza dari tahun ke tahun; sahkan terhadap notis cuti rasmi setiap negeri bagi tahun berkenaan."
-  - "Angka kehadiran penganut ialah anggaran yang berbeza secara ketara antara sumber; hanya angka Tourism Selangor (sehingga 1.5 juta) dipetik di sini."
 
 updated: 2026-07-24
 sources:

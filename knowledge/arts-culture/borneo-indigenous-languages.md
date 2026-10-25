@@ -49,9 +49,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "The genetic classification of these languages (Austronesian, North Bornean, Dusunic/Murutic/Paitanic/Sama-Bajau, North Sarawakan/Melanau-Kajang/Bidayuhic/Malayic) follows standard linguistic references (Ethnologue/SIL and Glottolog), not an official Malaysian government classification — the Malaysian government does not publish a formal genetic tree of these languages."
-  - "Exact speaker numbers for individual languages are not published as a single official figure; the article uses ethnic-group population counts (DOSM Census) as a proxy for language size, which is an approximation."
 
 updated: 2026-07-24
 sources:

@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "请对照 MISC 最新的综合／年度报告中的「Analysis of Shareholdings」核实 PETRONAS 目前确切的持股（报告显示截至 2025-03-05 为 2,276,583,900 股 = 51%）；此处的数字来源于日期为 2024-09-15 的 Simply Wall St 数据。"
-  - "请对照 MISC 或 Bursa 的第一手来源（本稿未获取）确认 1968 年的注册成立年份、2005 年 9 月更名为 MISC Berhad，以及 Bursa 股票代码 3816。"
-  - "请对照 MISC 最新年报核实四个业务分部的定义，以及 AET Tankers／Malaysia Marine and Heavy Engineering (MMHE) 的子公司关系。"
-  - "所引新闻稿将 36.0 sen 列为拟派发的股息总额；请核实最终宣布的金额。"
 
 updated: 2026-07-28
 sources:

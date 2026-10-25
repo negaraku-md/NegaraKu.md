@@ -43,8 +43,6 @@ reviewed: "2026-08-14"
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "توصيف تكاليف إنتاج Press Metal بأنها «في الربع الأول من منحنى التكلفة العالمي» — مصدره فقط مذكرة RAM لعام 2019؛ يؤكَّد ما إذا كان لا يزال قائماً."
 revisions:
   - revision: 0
     date: 2026-07-28

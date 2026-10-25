@@ -50,9 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "这些语言的系属分类（南岛语系、北婆罗洲语支、杜孙／姆鲁／派丹／萨马－巴瑶语族、砂拉越北部／米拉瑙－加让／比达友／马来语族）依据标准语言学参考文献（Ethnologue/SIL 与 Glottolog），并非马来西亚政府的官方分类——马来西亚政府并未发布这些语言的正式系属分类树。"
-  - "各语言的确切使用人数并未以单一官方数字发布；本文以民族人口统计（DOSM 人口普查）作为语言规模的替代指标，这只是一种近似估算。"
 
 updated: 2026-07-24
 sources:

@@ -42,11 +42,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "Le chiffre d'affaires du FY2025 est rapporté à RM15.97 milliards (+20 %) par The Star et par le communiqué de résultats de Gamuda elle-même, mais certains médias citent un chiffre d'affaires de groupe d'environ RM16.4 milliards. Confirmer la base (chiffre d'affaires statutaire vs. incluant la quote-part des coentreprises/sociétés associées) que l'article final doit retenir."
-  - "La ligne du tableau relative au Xizhi Donghu MRT affiche la valeur complète du contrat de RM4.3 milliards par cohérence avec les lignes australiennes ; la quote-part de 75 % de Gamuda dans la coentreprise est d'environ RM3.2 milliards. Confirmer la base qu'un éditeur humain préfère présenter."
-  - "L'expérience antérieure de Gamuda dans le métro taïwanais : le communiqué d'octobre 2024 qualifie le Xizhi Donghu de « plus grand contrat à ce jour à Taïwan », confirmant des contrats antérieurs, mais ne précise pas quand cette expérience a commencé. La date de début « début des années 2000 » supprimée n'est pas vérifiée et devrait être confirmée avant d'être réintroduite."
-  - "Les tunneliers autonomes cités pour le Sydney Metro West ont été déployés sur le Western Tunnelling Package antérieur (attribué en 2022), un lot différent de la ligne Stations Package West (A$2.7 milliards) du tableau. Confirmer que les deux ne sont pas confondus dans la version finale."
 revisions:
   - revision: 0
     date: 2026-07-28

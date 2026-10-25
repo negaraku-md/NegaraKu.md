@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Âge minimum d'entrée sur l'aire de jeu du casino (couramment rapporté comme 21 ans) — aucune source primaire consultée ne le confirme ; les pages officielles du casino de Resorts World Genting étaient en maintenance lors de la vérification."
-  - "La question de savoir si Resorts World Genting refuse concrètement l'entrée aux musulmans à la porte, distincte de l'interdiction faite aux musulmans de jouer par la loi Syariah — non établie par aucune source citée (Fortune n'affirme pas explicitement que les musulmans sont exclus de l'aire de jeu)."
-  - "Pourcentages exacts de participation détenus par Genting Berhad dans Genting Malaysia avant et après l'offre — The Edge confirme le prix de RM2.35/action et une participation de départ inférieure à 50 % mais pas les chiffres précis."
-  - "Peines prévues par la Syariah (montant de l'amende et durée d'emprisonnement) pour les musulmans surpris en train de jouer — décrites ici seulement de façon qualitative ; les chiffres statutaires exacts n'ont pas été sourcés."
 
 updated: 2026-07-28
 sources:

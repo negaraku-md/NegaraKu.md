@@ -49,9 +49,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Kaamatan被列为公共假期的确切原始宪报日期（历史记录普遍将其定于1960年）；此处以定性方式描述，而非引用具体文件。"
-  - "Kaamatan是否获得国家文物局（Jabatan Warisan Negara）正式的国家文化遗产列名——截至撰写时尚未在官方来源中得到证实。"
 
 updated: 2026-07-24
 sources:

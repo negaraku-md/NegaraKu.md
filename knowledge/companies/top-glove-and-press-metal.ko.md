@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "Press Metal의 생산 원가를 「글로벌 원가 곡선의 1분위」로 규정한 것 — 2019년 RAM 노트에만 출처가 있음. 여전히 유효한지 확인."
 revisions:
   - revision: 0
     date: 2026-07-28

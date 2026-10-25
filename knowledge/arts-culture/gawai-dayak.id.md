@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Teks asli sebenarnya warta 1964 yang menetapkan Gawai Dayak sebagai hari libur umum — tanggal 25 September 1964 diambil dari rekaman badan pariwisata dan ensiklopedia, bukan dari dokumen warta itu sendiri."
-  - "Apakah Gawai Dayak memiliki pendaftaran warisan negara secara resmi di bawah Departemen Warisan Negara — tidak dipastikan pada sumber resmi mana pun pada saat penulisan."
 
 updated: 2026-07-24
 sources:

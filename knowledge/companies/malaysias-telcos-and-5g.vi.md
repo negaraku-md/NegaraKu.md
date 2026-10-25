@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "Tháng chính xác DNB được thành lập năm 2021 — trang web của chính DNB chỉ nêu năm 2021 (số đăng ký doanh nghiệp 201701005338 của nó có từ năm 2017); mốc 'tháng 3 năm 2021' đã được soạn trước đó không thể xác nhận với một nguồn sơ cấp."
 revisions:
   - revision: 0
     date: 2026-07-28

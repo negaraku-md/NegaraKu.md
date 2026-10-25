@@ -43,8 +43,6 @@ reviewed: 2026-08-14
 reviewDue: 2027-08-03
 publishedBy: "ashton-tan"
 revision: 0
-verificationNeeded:
-  - "Việc mô tả chi phí sản xuất của Press Metal là 'nằm trong phần tư đầu của đường cong chi phí toàn cầu' — chỉ được tìm nguồn từ ghi chú RAM năm 2019; cần xác nhận nó vẫn đúng."
 revisions:
   - revision: 0
     date: 2026-07-28

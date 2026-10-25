@@ -49,9 +49,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tarikh sebenar warta asal Kaamatan sebagai cuti umum (secara meluas direkodkan sebagai tahun 1960 dalam rekod sejarah); diterangkan secara kualitatif di sini dan bukan disandarkan kepada sesuatu dokumen tertentu."
-  - "Sama ada Kaamatan mempunyai pensenaraian warisan negara rasmi oleh Jabatan Warisan Negara — tidak disahkan di sumber rasmi pada masa penulisan."
 
 updated: 2026-07-24
 sources:

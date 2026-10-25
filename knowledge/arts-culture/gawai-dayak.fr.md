@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Texte original exact du journal officiel de 1964 désignant le Gawai Dayak comme jour férié — la date du 25 septembre 1964 provient de sources touristiques et encyclopédiques plutôt que du document du journal officiel lui-même."
-  - "Déterminer si le Gawai Dayak fait l'objet d'une inscription formelle au patrimoine national auprès du Jabatan Warisan Negara — non confirmé auprès d'une source officielle au moment de la rédaction."
 
 updated: 2026-07-24
 sources:

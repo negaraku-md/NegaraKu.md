@@ -29,11 +29,6 @@ faq:
   - q: "क्या ASB में रखा धन जमा बीमा द्वारा कवर है?"
     a: "नहीं। ASB और ASN सिक्योरिटीज़ कमीशन मलेशिया (Securities Commission Malaysia) द्वारा उसके यूनिट ट्रस्ट फ़ंड दिशानिर्देशों के तहत अधिकृत यूनिट ट्रस्ट फ़ंड हैं — ये बैंक जमा नहीं हैं, और जमा बीमा यूनिट ट्रस्ट धारिताओं के बजाय जमाओं को कवर करता है। ASNB का अपना प्रकटीकरण कहता है कि स्थिर-मूल्य फ़ंड पूँजी गारंटीकृत या पूँजी संरक्षित फ़ंड नहीं है, और वितरण दर गारंटीकृत नहीं है।"
 
-verificationNeeded:
-  - "PNB's AUM (RM364 billion) and the FY2025 distribution figures are point-in-time — re-check against PNB's next annual press release before citing"
-  - "The 300,000-unit ASB investment limit and fee schedule are current as at the review date; ASNB's product pages and Product Highlights Sheets are the source of truth for any change"
-  - "The statement that deposit insurance does not extend to unit trust holdings is not backed by a PIDM source in the list below — add a PIDM citation, or drop the claim, before publication"
-  - "The 6 fixed-price / 12 variable-price split is derived from PNB's 19 December 2025 press release (18 funds in total, 12 of them variable-price) — reconfirm against ASNB's fund list at the next review"
 
 lang: "hi"
 sourceContentHash: "1c4aaf1e059aa22b"

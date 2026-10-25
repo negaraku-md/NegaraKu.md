@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Độ tuổi tối thiểu để vào sàn chơi của sòng bạc (thường được đưa tin là 21) — không có nguồn sơ cấp nào được mở ra xác nhận điều này; các trang chính thức về sòng bạc của Resorts World Genting đang bảo trì khi được kiểm tra."
-  - "Liệu Resorts World Genting về mặt vận hành có từ chối cho người Hồi giáo vào ngay tại cửa hay không, khác với lệnh cấm theo luật Syariah đối với việc người Hồi giáo đánh bạc — không được thiết lập bởi bất kỳ nguồn nào được dẫn (Fortune nêu rõ không khẳng định người Hồi giáo bị cấm vào sàn)."
-  - "Tỷ lệ sở hữu chính xác trước và sau chào mua mà Genting Berhad nắm tại Genting Malaysia — The Edge xác nhận mức giá RM2.35/cổ phiếu và một tỷ lệ khởi điểm dưới 50% nhưng không nêu các con số chính xác."
-  - "Các hình phạt Syariah (mức phạt tiền và thời hạn phạt tù) đối với người Hồi giáo bị bắt gặp đánh bạc — chỉ được mô tả định tính ở đây; các con số theo luật định chính xác chưa được tìm nguồn."
 
 updated: 2026-07-28
 sources:

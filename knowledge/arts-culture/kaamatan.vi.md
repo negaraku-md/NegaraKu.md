@@ -49,9 +49,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Ngày công báo gốc chính xác của Kaamatan như một ngày nghỉ lễ công cộng (thường được ghi là năm 1960 trong sử liệu); được mô tả định tính ở đây chứ không gắn vào một văn bản cụ thể."
-  - "Liệu Kaamatan có được liệt kê di sản quốc gia chính thức của Cục Di sản Quốc gia (Jabatan Warisan Negara) hay không — chưa được xác nhận tại nguồn chính thức vào thời điểm viết bài."
 
 updated: 2026-07-24
 sources:

@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "若恢复到该细节程度，需列明 CMSA 2007 特定分部（例如 Part VI 的 Division 2）的生效日期 — 请引用刊宪／生效公告。"
 updated: 2026-08-08
 sources:
   - title: "关于证监会 (About the SC)"

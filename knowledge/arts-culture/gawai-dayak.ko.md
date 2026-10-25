@@ -51,9 +51,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "가와이 다약을 공휴일로 지정한 1964년 관보의 정확한 원문 — 1964년 9월 25일이라는 날짜는 관보 문서 자체가 아니라 관광 기관과 백과사전 기록에서 취한 것입니다."
-  - "가와이 다약이 국가유산국(Jabatan Warisan Negara) 아래 공식 국가유산으로 등재되어 있는지 여부 — 집필 시점에 공식 자료로 확인되지 않았습니다."
 
 updated: 2026-07-24
 sources:

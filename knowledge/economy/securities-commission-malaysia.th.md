@@ -45,8 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "วันที่เริ่มมีผลบังคับใช้ของหมวดเฉพาะของ CMSA 2007 (เช่น หมวด 2 ของภาค VI) หากมีการนำรายละเอียดระดับนั้นกลับมา ให้อ้างอิงราชกิจจานุเบกษา/ประกาศการเริ่มมีผลบังคับใช้"
 updated: 2026-08-08
 sources:
   - title: "เกี่ยวกับ SC (About the SC)"

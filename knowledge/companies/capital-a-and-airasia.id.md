@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Hari penyelesaian sah divestasi yang tepat: ruang berita AirAsia menetapkan penyelesaian pada '2026-01-18', sementara The Star membingkai pengalihan sebagai '2026-01-16' dengan saham AAX baru dicatatkan pada '2026-01-19'. Verifikasi tanggal mana yang dianggap perusahaan sebagai penyelesaian."
-  - "Komposisi terkini unit non-penerbangan Capital A: rencana restrukturisasi Maret 2025 merujuk pada enam bisnis (termasuk BigPay dan ABC International), sementara pelaporan 2026 mencantumkan lima (ADE, Teleport, AirAsia MOVE, AirAsia Next, Santan). Verifikasi susunan lima unit tersebut terhadap pengungkapan terkini Capital A."
-  - "Bahwa AirAsia Group Berhad mempertahankan ticker AAGB dan kode saham 5238 setelah penamaan ulang Juli 2026 — verifikasi terhadap pencatatan Bursa Malaysia terkini."
-  - "Metrik operasi pasca-konsolidasi untuk AirAsia Group Berhad (ukuran armada, jaringan rute, keuntungan) masih belum tersedia dalam pengajuan; verifikasi ketika diterbitkan."
 
 updated: 2026-07-28
 sources:

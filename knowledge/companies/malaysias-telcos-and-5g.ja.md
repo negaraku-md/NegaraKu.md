@@ -42,8 +42,6 @@ reviewer: null
 reviewed: 2026-08-14
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "DNBが2021年に設立された正確な月——DNB自身のウェブサイトには2021年としか記載されておらず（同社の会社登録番号201701005338は2017年に遡る）、以前草稿にあった「2021年3月」は一次資料で確認できなかった。"
 revisions:
   - revision: 0
     date: 2026-07-28

@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "카지노 게이밍 플로어 최소 입장 연령(흔히 21세로 보도됨) — 이를 확인하는 확보된 1차 출처가 없음. 확인 시점에 Resorts World Genting 공식 카지노 페이지가 점검 중이었음."
-  - "무슬림 도박에 대한 샤리아법상 금지와는 구별되는, Resorts World Genting이 입구에서 무슬림의 입장을 운영상 거부하는지 여부 — 인용된 어느 출처로도 확립되지 않음(Fortune은 무슬림이 플로어에서 배제된다고 명시하지 않음)."
-  - "Genting Berhad가 Genting Malaysia에 보유한 정확한 공개매수 전후 지분율 — The Edge는 주당 RM2.35 가격과 50% 미만의 시작 지분을 확인하나 정확한 수치는 확인하지 않음."
-  - "도박하다 적발된 무슬림에 대한 샤리아 처벌(벌금액 및 징역 기간) — 여기서는 정성적으로만 서술됨. 정확한 법정 수치는 출처가 확보되지 않음."
 
 updated: 2026-07-28
 sources:

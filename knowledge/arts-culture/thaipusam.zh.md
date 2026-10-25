@@ -52,9 +52,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "将 Thaipusam 列为公共假期的确切州属名单可能逐年不同；请对照相关年份各州的官方假期公告加以确认。"
-  - "信徒出席人数为估计值，各来源之间差异极大；此处仅引用Tourism Selangor的数字（多达150万）。"
 
 updated: 2026-07-24
 sources:

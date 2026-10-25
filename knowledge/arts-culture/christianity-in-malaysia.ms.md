@@ -22,9 +22,6 @@ keyTakeaways:
   - "Krismas ialah cuti umum seluruh negara; Good Friday hanya menjadi cuti umum di Sabah dan Sarawak. Kebebasan beragama terletak di bawah Perkara 11, dengan Perkara 11(4) membenarkan kawalan negeri terhadap penyebaran dalam kalangan orang Islam"
 appliesTo: "Sesiapa sahaja yang ingin memahami agama Kristian di Malaysia — demografinya, di mana ia tertumpu, denominasinya, sejarah mubaligh dan rangka kerja undang-undangnya."
 
-verificationNeeded:
-  - "Angka lebih 95% gereja oleh CFM ialah keterangan diri CFM sendiri (menurut cfmsia.org), bukan diaudit secara bebas — dinyatakan sedemikian"
-  - "Kedudukan undang-undang berkenaan perkataan «Allah» disahkan sehingga 2023 (keputusan Jill Ireland 2021 kekal, rayuan persekutuan ditarik balik, duluan Herald terdahulu berbeza) tetapi masih berkembang — semak semula semasa penerbitan"
 
 lang: "ms"
 masterLanguage: "en"

@@ -50,9 +50,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "La classification génétique de ces langues (austronésiennes, nord-bornéennes, dusunique/murutique/paitanique/sama-bajau, nord du Sarawak/melanau-kajang/bidayuhique/malayique) suit des références linguistiques standard (Ethnologue/SIL et Glottolog), et non une classification officielle du gouvernement malaisien — le gouvernement malaisien ne publie pas d'arbre génétique formel de ces langues."
-  - "Les chiffres exacts de locuteurs pour chaque langue ne sont pas publiés sous la forme d'un chiffre officiel unique ; l'article utilise les effectifs de population par groupe ethnique (recensement du DOSM) comme approximation de la taille des langues, ce qui reste une estimation."
 
 updated: 2026-07-24
 sources:
