@@ -2,6 +2,11 @@
 
 _Date: 2026-10-25. Sweep over the 661 untagged entity-candidate topics (of 1,104 total; 346 were already tagged)._
 
+> **Follow-up (same day, commit 2):** after the 36 high matches shipped (59a195553, pushed), 8 of the 34 mediums below were QA-verified as unambiguous Malaysian named entities (P17=Malaysia / Malaysian description / ms.wikipedia sitelink) and **applied** — MY-BIZ-0065 (Contracts Act 1950), MY-LIV-0121 (AKPK), MY-GLO-0011 (Government Gazette of Malaysia), MY-AGR-0006 (FELCRA Berhad), MY-ART-0041 (Joget), MY-IND-0018 (rubber industry in Malaysia), MY-STA-0022 + MY-GOV-0053 (local government in Malaysia). Tagged coverage now **390 topics**.
+> **Wayang kulit (MY-ART-0001):** resolved — no Malaysia-specific Wikidata item exists (search returns only Thai Nang yai); **stays blank** rather than link the Indonesian item.
+> **Anugerah Sastera Negara (MY-ART-0055):** deferred — the item (Q138846881) has no country, no sitelink and a bot/DB-artifact description; name is unambiguous but item quality is doubtful. Left for a human call or a better canonical item.
+> The remaining ~25 mediums (generic-concept-for-glossary, governing-body-for-a-process, aspect/list items, dual-subject partials) were intentionally NOT applied.
+
 ## Method
 
 Deterministic live-Wikidata candidate fetch (`wbsearchentities` + `instance-of`) → 8 parallel adjudication agents (strict rubric: assign only a named proper-noun entity that IS the subject or its governing body; reject generic concepts, law sections, numbered standards, wrong-country namesakes) → independent QA re-fetch of every high match (label + description + country P17 + P31).

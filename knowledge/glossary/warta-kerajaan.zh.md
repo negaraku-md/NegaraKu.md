@@ -66,6 +66,7 @@ sources:
     publisher: "总检察署"
 
 entity: "Warta Kerajaan"
+wikidata: "Q116505608"
 relations:
   - { rel: "related-to", to: "akta" }
   - { rel: "related-to", to: "federal-constitution" }

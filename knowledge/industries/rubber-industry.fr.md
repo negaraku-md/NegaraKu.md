@@ -95,6 +95,7 @@ sources:
     publisher: "Bureau des douanes et de la protection des frontières des États-Unis"
 
 entity: "Malaysian Rubber Industry"
+wikidata: "Q55744392"
 relations:
   - { rel: "administered-by", to: "malaysian-rubber-board" }
   - { rel: "related-to", to: "palm-oil-industry" }

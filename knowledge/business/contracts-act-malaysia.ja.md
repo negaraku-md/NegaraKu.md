@@ -75,6 +75,7 @@ sources:
     publisher: "マレーシア司法長官府 (AGC)"
 
 entity: "Contracts Act 1950 (Act 136)"
+wikidata: "Q123977368"
 relations:
   - { rel: "governs", to: "business" }
   - { rel: "related-to", to: "shareholders-agreement-malaysia" }

@@ -66,6 +66,7 @@ sources:
     publisher: "महान्यायवादी विभाग (Jabatan Peguam Negara)"
 
 entity: "Warta Kerajaan"
+wikidata: "Q116505608"
 relations:
   - { rel: "related-to", to: "akta" }
   - { rel: "related-to", to: "federal-constitution" }

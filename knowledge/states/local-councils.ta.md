@@ -72,6 +72,7 @@ sources:
     publisher: "கல்விசார் கட்டுரை (சக மதிப்பாய்வு செய்யப்பட்ட இதழ் கட்டுரை)"
 
 entity: "Local government in Malaysia"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

@@ -72,6 +72,7 @@ sources:
     publisher: "Article universitaire (article de revue à comité de lecture)"
 
 entity: "Local government in Malaysia"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

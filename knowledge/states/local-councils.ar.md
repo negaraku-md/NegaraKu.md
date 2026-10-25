@@ -72,6 +72,7 @@ sources:
     publisher: "ورقة أكاديمية (مقالة في دورية محكّمة)"
 
 entity: "Local government in Malaysia"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

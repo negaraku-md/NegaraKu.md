@@ -57,6 +57,7 @@ sources:
     url: "https://pemetaanbudaya.jkkn.gov.my/senibudaya/detail/972"
     publisher: "กรมวัฒนธรรมและศิลปะแห่งชาติ (JKKN)"
 entity: "Joget dan Zapin"
+wikidata: "Q6214746"
 relations:
   - { rel: "compares-with", to: "mak-yong" }
   - { rel: "related-to", to: "wayang-kulit" }

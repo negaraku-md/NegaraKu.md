@@ -72,6 +72,7 @@ sources:
     publisher: "Bài báo học thuật (bài đăng tạp chí bình duyệt)"
 
 entity: "Local government in Malaysia"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

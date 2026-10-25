@@ -74,6 +74,7 @@ sources:
     publisher: "马来西亚破产局 (MdI)"
 
 entity: "Agensi Kaunseling dan Pengurusan Kredit (AKPK)"
+wikidata: "Q65219704"
 relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "personal-bankruptcy-malaysia" }

@@ -72,6 +72,7 @@ sources:
     publisher: "शैक्षणिक शोधपत्र (सहकर्मी-समीक्षित जर्नल लेख)"
 
 entity: "Local government in Malaysia"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

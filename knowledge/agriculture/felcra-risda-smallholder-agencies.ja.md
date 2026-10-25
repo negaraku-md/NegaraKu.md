@@ -66,6 +66,7 @@ sources:
     publisher: "マレーシアパーム油庁 (Prestasi Sawit)"
 
 entity: "FELCRA Berhad dan RISDA"
+wikidata: "Q30633665"
 relations:
   - { rel: "related-to", to: "felda-land-settlement-scheme" }
   - { rel: "related-to", to: "mspo-palm-oil-certification" }

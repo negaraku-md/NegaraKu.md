@@ -71,6 +71,7 @@ sources:
     date: "2026-02-10"
 
 entity: "Pihak Berkuasa Tempatan"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "three-tiers-of-government" }

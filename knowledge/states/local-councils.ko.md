@@ -71,6 +71,7 @@ sources:
     publisher: "학술 논문 (동료 심사 학술지 논문)"
 
 entity: "Local government in Malaysia"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

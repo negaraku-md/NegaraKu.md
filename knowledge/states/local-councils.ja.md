@@ -70,6 +70,7 @@ sources:
     publisher: "学術論文(査読付き学術誌論文)"
 
 entity: "Local government in Malaysia"
+wikidata: "Q6664408"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "explained-in", to: "federal-constitution" }

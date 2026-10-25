@@ -95,6 +95,7 @@ sources:
     publisher: "Oficina de Aduanas y Protección Fronteriza de EE. UU."
 
 entity: "Malaysian Rubber Industry"
+wikidata: "Q55744392"
 relations:
   - { rel: "administered-by", to: "malaysian-rubber-board" }
   - { rel: "related-to", to: "palm-oil-industry" }

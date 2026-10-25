@@ -66,6 +66,7 @@ sources:
     publisher: "Phòng Tổng Chưởng lý (AGC)"
 
 entity: "Warta Kerajaan"
+wikidata: "Q116505608"
 relations:
   - { rel: "related-to", to: "akta" }
   - { rel: "related-to", to: "federal-constitution" }

@@ -94,6 +94,7 @@ sources:
     publisher: "Cơ quan Hải quan và Bảo vệ Biên giới Hoa Kỳ (U.S. Customs and Border Protection)"
 
 entity: "Malaysian Rubber Industry"
+wikidata: "Q55744392"
 relations:
   - { rel: "administered-by", to: "malaysian-rubber-board" }
   - { rel: "related-to", to: "palm-oil-industry" }

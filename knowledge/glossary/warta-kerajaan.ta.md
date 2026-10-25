@@ -66,6 +66,7 @@ sources:
     publisher: "அட்டர்னி ஜெனரல் அறையகம்"
 
 entity: "Warta Kerajaan"
+wikidata: "Q116505608"
 relations:
   - { rel: "related-to", to: "akta" }
   - { rel: "related-to", to: "federal-constitution" }
