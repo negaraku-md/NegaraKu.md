@@ -69,6 +69,7 @@ sources:
     publisher: "Timber Trade Portal (ATIBT/EU)"
 
 entity: "Akta Perhutanan Negara 1984"
+wikidata: "Q141851318"
 relations:
   - { rel: "governs", to: "malaysias-rainforests-and-permanent-forest-reserves" }
   - { rel: "administered-by", to: "jabatan-perhutanan-semenanjung-malaysia" }

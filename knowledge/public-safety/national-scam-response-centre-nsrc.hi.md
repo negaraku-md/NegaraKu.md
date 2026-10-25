@@ -55,6 +55,7 @@ sources:
     url: https://www.malaymail.com/news/malaysia/2026/03/03/call-997-right-away-if-you-suspect-a-scam-fahmi-tells-malaysians/211156
     publisher: Malay Mail
 entity: National Scam Response Centre (NSRC)
+wikidata: "Q141851812"
 relations:
   - rel: related-to
     to: commercial-crime-investigation-department-ccid

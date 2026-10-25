@@ -87,6 +87,7 @@ sources:
     publisher: "அட்டர்னி ஜெனரல் அலுவலகம் (மலேசியச் சட்டங்கள்)"
 
 entity: "Audit Oversight Board (AOB)"
+wikidata: "Q141851810"
 relations:
   - { rel: "part-of", to: "securities-commission-malaysia" }
   - { rel: "related-to", to: "appointing-an-auditor" }

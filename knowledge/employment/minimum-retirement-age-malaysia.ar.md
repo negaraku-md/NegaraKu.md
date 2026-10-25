@@ -77,6 +77,7 @@ sources:
     publisher: "AJobThing"
 
 entity: "Minimum Retirement Age Act 2012 (Act 753)"
+wikidata: "Q141851341"
 relations:
   - { rel: "governs", to: "employment-termination-malaysia" }
   - { rel: "related-to", to: "employment-act-1955-malaysia" }

@@ -73,6 +73,7 @@ sources:
     publisher: "말레이시아 산업법원 (Industrial Court of Malaysia)"
 
 entity: "Akta Perhubungan Perusahaan 1967"
+wikidata: "Q141851272"
 relations:
   - { rel: "compares-with", to: "employment-act-1955" }
   - { rel: "related-to", to: "trade-unions-act-1959" }

@@ -72,6 +72,7 @@ sources:
     publisher: "Donovan & Ho"
 
 entity: "Industrial Relations Act 1967"
+wikidata: "Q141851272"
 relations:
   - { rel: "governs", to: "trade-unions-malaysia" }
   - { rel: "related-to", to: "unfair-dismissal-industrial-court-malaysia" }

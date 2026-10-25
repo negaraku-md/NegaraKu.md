@@ -81,6 +81,7 @@ sources:
     url: "https://web.archive.org/web/20250213232920/https://www.pdp.gov.my/ppdpv1/wp-content/uploads/2024/12/PENETAPAN-TARIKH-PERMULAAN-KUAT-KUASA-2.pdf"
     publisher: "Department of Personal Data Protection (JPDP) / AGC Federal Gazette"
 entity: "Personal Data Protection Act 2010 (Act 709)"
+wikidata: "Q141851243"
 relations: []
 related: []
 keywords: ["PDPA", "PDPA Malaysia", "Personal Data Protection Act 2010", "Act 709", "PDPA amendment 2024", "data protection Malaysia", "seven principles PDPA", "sensitive personal data Malaysia", "data protection officer Malaysia", "data breach notification Malaysia", "Personal Data Protection Commissioner", "Jabatan Perlindungan Data Peribadi", "cross-border data transfer Malaysia", "data subject rights Malaysia"]

@@ -87,6 +87,7 @@ sources:
     publisher: "สำนักงานอัยการสูงสุดมาเลเซีย (กฎหมายแห่งมาเลเซีย)"
 
 entity: "Audit Oversight Board (AOB)"
+wikidata: "Q141851810"
 relations:
   - { rel: "part-of", to: "securities-commission-malaysia" }
   - { rel: "related-to", to: "appointing-an-auditor" }

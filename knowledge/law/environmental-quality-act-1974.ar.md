@@ -71,6 +71,7 @@ sources:
     publisher: "Portal Berita RTM"
 
 entity: "Akta Kualiti Alam Sekeliling 1974"
+wikidata: "Q141851301"
 relations:
   - { rel: "administered-by", to: "department-of-environment" }
   - { rel: "requires", to: "environmental-impact-assessment" }

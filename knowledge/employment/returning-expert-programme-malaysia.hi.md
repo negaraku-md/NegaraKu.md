@@ -60,6 +60,7 @@ revisions:
     reviewer: null
 
 entity: "Returning Expert Programme"
+wikidata: "Q141851814"
 relations:
   - { rel: "administered-by", to: "talentcorp-malaysia" }
   - { rel: "related-to", to: "income-tax-rates-malaysia" }

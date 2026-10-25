@@ -62,6 +62,7 @@ sources:
     publisher: "評価士・鑑定士・不動産仲介士・不動産管理士委員会（LPEPH/BOVAEP）"
 
 entity: "Lembaga Penilai, Pentaksir, Ejen Harta Tanah dan Pengurus Harta (LPEPH/BOVAEP)"
+wikidata: "Q141851811"
 relations:
   - { rel: "governs", to: "property-agents-and-fees" }
   - { rel: "related-to", to: "tenancy-agreement-malaysia" }

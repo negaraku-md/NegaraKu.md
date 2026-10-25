@@ -63,6 +63,7 @@ sources:
     publisher: "The Vibes"
 
 entity: "Akta Kawalan Harga dan Antipencatutan 2011"
+wikidata: "Q141851356"
 relations:
   - { rel: "administered-by", to: "kementerian-perdagangan-dalam-negeri-kpdn" }
   - { rel: "related-to", to: "sales-and-service-tax-sst" }

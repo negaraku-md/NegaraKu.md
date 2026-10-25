@@ -70,6 +70,7 @@ sources:
     url: "https://www.masb.org.my/press_list.php?id=455"
     publisher: "말레이시아 회계기준위원회 (MASB)"
 entity: "Malaysian Accounting Standards Board (MASB)"
+wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "Malaysian Accounting Standards Board", "MFRS", "MPERS", "Financial Reporting Act 1997", "approved accounting standards Malaysia", "MFRS framework", "Financial Reporting Foundation", "IFRS Malaysia", "MFRS 18", "private entity reporting standard", "MASB standards force of law"]

@@ -87,6 +87,7 @@ sources:
     publisher: "马来西亚总检察署（马来西亚法律）"
 
 entity: "Audit Oversight Board (AOB)"
+wikidata: "Q141851810"
 relations:
   - { rel: "part-of", to: "securities-commission-malaysia" }
   - { rel: "related-to", to: "appointing-an-auditor" }

@@ -87,6 +87,7 @@ sources:
     publisher: "말레이시아 법무장관실 (말레이시아 법률)"
 
 entity: "감사감독위원회 (AOB)"
+wikidata: "Q141851810"
 relations:
   - { rel: "part-of", to: "securities-commission-malaysia" }
   - { rel: "related-to", to: "appointing-an-auditor" }

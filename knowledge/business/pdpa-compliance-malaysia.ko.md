@@ -129,6 +129,7 @@ sources:
     date: "2013-11-14"
 
 entity: "Personal Data Protection Act 2010"
+wikidata: "Q141851243"
 relations:
   - { rel: "administered-by", to: "jpdp" }
   - { rel: "governs", to: "personal-data-protection-act-2010" }

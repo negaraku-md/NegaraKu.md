@@ -87,6 +87,7 @@ sources:
     publisher: "Văn phòng Tổng Chưởng lý (AGC) (Laws of Malaysia)"
 
 entity: "Audit Oversight Board (AOB)"
+wikidata: "Q141851810"
 relations:
   - { rel: "part-of", to: "securities-commission-malaysia" }
   - { rel: "related-to", to: "appointing-an-auditor" }

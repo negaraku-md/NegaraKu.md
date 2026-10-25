@@ -70,6 +70,7 @@ sources:
     url: "https://www.masb.org.my/press_list.php?id=455"
     publisher: "مجلس المعايير المحاسبية الماليزي (MASB)"
 entity: "Malaysian Accounting Standards Board (MASB)"
+wikidata: "Q141851366"
 relations: []
 related: []
 keywords: ["MASB", "مجلس المعايير المحاسبية الماليزي", "MFRS", "MPERS", "قانون الإبلاغ المالي 1997 Financial Reporting Act 1997", "المعايير المحاسبية المعتمدة في ماليزيا", "إطار MFRS", "مؤسسة الإبلاغ المالي Financial Reporting Foundation", "IFRS في ماليزيا", "MFRS 18", "معيار إبلاغ الكيانات الخاصة", "قوة القانون لمعايير MASB"]

@@ -13,6 +13,19 @@ clean GEO play: it seeds the global graph and gives our pages a `sameAs` anchor.
 **I cannot create these — Wikidata writes need your logged-in account.** This is a reviewed
 batch for you to run; then I wire the new QIDs back into the articles (step 2).
 
+> **DONE 2026-10-25** — all 15 items were created on Wikidata (via your `Ai.negaraku.md` account
+> in Chrome: 10 made through Special:NewItem, then the account crossed the 50-edit autoconfirmed
+> threshold and the remaining 5 + all statements/Malay labels were run through QuickStatements).
+> Created QIDs: PDPA 2010 **Q141851243**, Industrial Relations Act 1967 **Q141851272**,
+> Environmental Quality Act 1974 **Q141851301**, National Forestry Act 1984 **Q141851318**,
+> CIPAA 2012 **Q141851326**, Children & Young Persons (Employment) Act 1966 **Q141851333**,
+> Minimum Retirement Age Act 2012 **Q141851341**, Islamic Family Law (FT) Act 1984 **Q141851348**,
+> Price Control & Anti-Profiteering Act 2011 **Q141851356**, MASB **Q141851366**, AOB **Q141851810**,
+> BOVAEP **Q141851811**, NSRC **Q141851812**, Returning Expert Programme **Q141851814**,
+> PeKa B40 **Q141851815**. Each carries instance-of (Act of the Parliament of Malaysia / government
+> agency / government program), country=Malaysia, applies-to-jurisdiction (acts), inception, and
+> en+ms labels. All 15 linked back into the articles (19 topics, since some Acts span multiple).
+
 ## How to run (QuickStatements)
 
 1. Open https://quickstatements.toolforge.org/ and log in with your Wikidata account

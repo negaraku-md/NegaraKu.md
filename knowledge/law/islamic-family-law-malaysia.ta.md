@@ -64,6 +64,7 @@ sources:
     publisher: "மலேசிய அரசாங்கத்தின் அதிகாரப்பூர்வ போர்டல் (MyGovernment)"
 
 entity: "Islamic Family Law (Federal Territories) Act 1984"
+wikidata: "Q141851348"
 relations:
   - { rel: "administered-by", to: "syariah-courts-malaysia" }
   - { rel: "related-to", to: "harta-sepencarian-malaysia" }

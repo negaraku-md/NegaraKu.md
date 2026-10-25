@@ -54,6 +54,7 @@ sources:
     url: "https://www.mysalam.com.my/mys/info/?url=faq_kelayakan"
     publisher: "mySalam, मलेशिया वित्त मंत्रालय के अधीन Great Eastern Takaful Berhad द्वारा संचालित"
 entity: "PeKa B40 (Skim Peduli Kesihatan untuk Kumpulan B40)"
+wikidata: "Q141851815"
 relations:
   - { rel: "administered-by", to: "kementerian-kesihatan-malaysia" }
   - { rel: "administered-by", to: "protecthealth-corporation" }

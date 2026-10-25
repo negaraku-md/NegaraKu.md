@@ -76,6 +76,7 @@ sources:
     publisher: "Free Malaysia Today"
 
 entity: "Children and Young Persons (Employment) Act 1966"
+wikidata: "Q141851333"
 relations:
   - { rel: "related-to", to: "employment-act-1955-malaysia" }
   - { rel: "administered-by", to: "jabatan-tenaga-kerja-semenanjung-malaysia" }

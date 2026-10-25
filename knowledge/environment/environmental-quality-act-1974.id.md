@@ -75,6 +75,7 @@ sources:
     publisher: "Aqran Vijandran (Advocates & Solicitors)"
 
 entity: "Environmental Quality Act 1974"
+wikidata: "Q141851301"
 relations:
   - { rel: "administered-by", to: "department-of-environment-malaysia" }
   - { rel: "governs", to: "environmental-impact-assessment-malaysia" }

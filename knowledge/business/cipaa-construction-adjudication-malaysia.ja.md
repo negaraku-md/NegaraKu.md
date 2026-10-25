@@ -76,6 +76,7 @@ sources:
     publisher: "DayakDaily"
 
 entity: "Construction Industry Payment and Adjudication Act 2012"
+wikidata: "Q141851326"
 relations:
   - { rel: "administered-by", to: "arbitration-vs-litigation-malaysia" }
   - { rel: "compares-with", to: "arbitration-vs-litigation-malaysia" }
