@@ -117,7 +117,7 @@ async function main() {
     [byDate, byPage, byQuery, totalsRows] = await Promise.all([
       query(token, { startDate: start16mo, endDate: end, dimensions: ['date'], rowLimit: 500 }),
       query(token, { startDate: start90, endDate: end, dimensions: ['page'], rowLimit: 1000 }),
-      query(token, { startDate: start90, endDate: end, dimensions: ['query'], rowLimit: 25 }),
+      query(token, { startDate: start90, endDate: end, dimensions: ['query'], rowLimit: 1000 }),
       query(token, { startDate: start90, endDate: end, rowLimit: 1 }),
     ]);
   } catch (err) {
@@ -187,12 +187,44 @@ async function main() {
     le.clicks += clicks;
     le.impressions += impressions;
   }
-  const topQueries = byQuery.map((r) => ({
+  const topQueries = byQuery.slice(0, 50).map((r) => ({
     query: r.keys?.[0] || '',
     clicks: Math.round(r.clicks || 0),
     impressions: Math.round(r.impressions || 0),
     position: Math.round((r.position || 0) * 10) / 10,
   }));
+
+  // nearMisses — the SEO ranking lever. A query×page pull maps every searched
+  // phrase to the exact URL it surfaces for, so each row already carries its
+  // article (via the path) and language (via the locale prefix) — no manual
+  // "which article is this?" step. We keep rows sitting just off, or on the weak
+  // edge of, page 1 (position 5–40) with real impressions (≥5): phrases we nearly
+  // rank for on pages we already own, where an on-page fix (query-exact H2 + FAQ
+  // in that language) can move the needle. Captured broadly so the analysis step,
+  // not the pull, picks thresholds. Fail-safe: on error, an empty list.
+  let nearMisses = [];
+  try {
+    const byQueryPage = await query(token, { startDate: start90, endDate: end, dimensions: ['query', 'page'], rowLimit: 25000 });
+    nearMisses = byQueryPage
+      .map((r) => {
+        const url = r.keys?.[1] || '';
+        return {
+          query: r.keys?.[0] || '',
+          page: url,
+          lang: langOf(url),
+          category: categoryOf(url),
+          clicks: Math.round(r.clicks || 0),
+          impressions: Math.round(r.impressions || 0),
+          ctr: Math.round((r.ctr || 0) * 1000) / 10, // %
+          position: Math.round((r.position || 0) * 10) / 10,
+        };
+      })
+      .filter((r) => r.query && r.page && r.impressions >= 5 && r.position >= 5 && r.position <= 40)
+      .sort((a, b) => b.impressions - a.impressions)
+      .slice(0, 500);
+  } catch (err) {
+    console.warn(`[gsc] query×page near-miss pull failed, nearMisses empty: ${err.message}`);
+  }
   const t = totalsRows[0] || {};
   const totals = {
     clicks: Math.round(t.clicks || 0),
@@ -205,11 +237,11 @@ async function main() {
     updatedAt: new Date().toISOString(),
     property: SITE,
     byMonth,
-    latest: { window: { start: start90, end }, totals, byCategory, byLang, topQueries },
+    latest: { window: { start: start90, end }, totals, byCategory, byLang, topQueries, nearMisses },
   };
   await mkdir(path.dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(snapshot, null, 2) + '\n', 'utf8');
-  console.log(`[gsc] wrote ${path.relative(ROOT, OUT)} — 90d: ${totals.clicks} clicks · ${totals.impressions} impressions · pos ${totals.position}; ${Object.keys(byMonth).length} month(s) archived.`);
+  console.log(`[gsc] wrote ${path.relative(ROOT, OUT)} — 90d: ${totals.clicks} clicks · ${totals.impressions} impressions · pos ${totals.position}; ${topQueries.length} top queries, ${nearMisses.length} near-miss rows; ${Object.keys(byMonth).length} month(s) archived.`);
 }
 
 main().catch((e) => { console.warn('[gsc] unexpected error, snapshot unchanged:', e.message); });

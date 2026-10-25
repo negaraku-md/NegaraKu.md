@@ -210,7 +210,11 @@ export type SearchConsole = {
     window?: { start: string; end: string };
     totals?: { clicks: number; impressions: number; ctr: number; position: number };
     byCategory?: Record<string, { clicks: number; impressions: number }>;
+    byLang?: Record<string, { byCategory?: Record<string, { clicks: number; impressions: number }> }>;
     topQueries?: { query: string; clicks: number; impressions: number; position: number }[];
+    // Query×page near-miss opportunities: each phrase mapped to the exact URL,
+    // language and category it surfaces for (position 5–40, ≥5 impressions).
+    nearMisses?: { query: string; page: string; lang: string; category: string; clicks: number; impressions: number; ctr: number; position: number }[];
   };
 };
 export function getSearchConsole(): SearchConsole {
