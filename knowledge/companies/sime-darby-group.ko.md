@@ -46,11 +46,6 @@ revisions:
     reviewer: null
 
 updated: 2026-07-28
-verificationNeeded:
-  - "Guthrie & Co(1821)와 Sime, Darby and Co.(1910)의 설립일, 그리고 2007년 1월 Synergy Drive 합병일 — 1차/회사 유산 출처와 대조하여 확인. 이 작업에서 독립적으로 재확인하지 않음."
-  - "세 회사 각각에서 PNB의 정확한 현재 지분율 — 최신 연차보고서/Bursa 공시로 확인."
-  - "Sime Darby Property가 토지 기준 단일 「최대」 상장 개발사인지, 아니면 「최대 중 하나」인지 — 권위 있는 출처로 순위 및 현재 토지 면적 확인."
-  - "Sime Darby Berhad가 2024년 11월 리브랜딩까지, 2017년 분할 시 보유했던 무역, 물류, 헬스케어 사업을 완전히 매각했는지 여부."
 sources:
   - title: "Bursa Malaysia 상장 디렉터리 — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

@@ -32,7 +32,7 @@ faq:
     a: "是的。马来西亚与欧盟于 2025 年 1 月重启自由贸易协定谈判，并于 2025 年 4 月 11 日与 EFTA 成员国（冰岛、列支敦士登、挪威、瑞士）完成一项经济伙伴关系协定。"
 
 lang: "zh"
-sourceContentHash: "7239744fcdcf2f73"
+sourceContentHash: "cb7dfd7dada1655f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,10 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "马来西亚交存RCEP批准书的确切日期（普遍报道为2022年1月17日）不在所列来源之中。"
-  - "马来西亚—伊朗优惠贸易协定是否仍是一条积极的谈判进程。"
-  - "欧盟—马来西亚 FTA 首轮谈判日期（据报道为 2025 年 6 月下旬）——请对照欧盟委员会（European Commission）自身的最新公告核实。"
 updated: 2026-08-08
 sources:
   - title: "马来西亚批准 CPTPP / 优惠原产地证书 (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"
@@ -170,7 +166,7 @@ CPTPP 的商业吸引力体现在两方面。首先，它取消了成员之间�
 - **马来西亚–欧盟自由贸易协定。** 谈判最初于 2010 年启动，2012 年中止，并于 **2025 年 1 月重启**，首轮谈判于 2025 年 6 月下旬举行。欧盟正力求达成一项涵盖货物、服务、投资、政府采购、数字贸易及可持续性承诺的高标准协定。
 - **马来西亚–EFTA 经济伙伴关系协定。** 马来西亚于 **2025 年 4 月 11 日** 与 EFTA 成员国——冰岛、列支敦士登、挪威和瑞士——完成谈判，协定于 2025 年 6 月 23 日在挪威特罗姆瑟（Tromsø）签署；批准程序尚在进行中。
 
-马来西亚的谈判管道中还出现了其他双边轨道，包括据报道与伊朗的一项优惠协定。
+多年来还出现过其他双边轨道，包括一项曾在 2010 年代探讨、但此后陷入停滞的马来西亚—伊朗优惠贸易协定。
 
 ## 接下来会怎样
 

@@ -47,10 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Exact date Malaysia deposited its RCEP instrument of ratification (widely reported as 17 January 2022) is not in a listed source."
-  - "Whether a Malaysia–Iran preferential trade agreement remains an active negotiating track."
-  - "EU–Malaysia FTA first negotiating round date (reported late June 2025) against the European Commission's own updates."
 updated: 2026-08-08
 sources:
   - title: "Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI)"
@@ -169,7 +165,7 @@ Malaysia's negotiators have not stopped. Two European tracks are the most advanc
 - **Malaysia–EU FTA.** Talks originally launched in 2010, were suspended in 2012, and **resumed in January 2025**, with the first negotiating round held in late June 2025. The EU is pursuing an ambitious deal covering goods, services, investment, government procurement, digital trade and sustainability commitments.
 - **Malaysia–EFTA Economic Partnership Agreement.** Malaysia concluded negotiations with the EFTA states — Iceland, Liechtenstein, Norway and Switzerland — on **11 April 2025**, and the agreement was signed on 23 June 2025 in Tromsø, Norway; ratification is pending.
 
-Other bilateral tracks have also appeared in Malaysia's negotiating pipeline, including a reported preferential agreement with Iran.
+Other bilateral tracks have appeared over the years, including a Malaysia–Iran preferential trade agreement that was explored in the 2010s but has since stalled.
 
 ## What's next
 

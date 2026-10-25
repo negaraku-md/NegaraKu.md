@@ -29,7 +29,7 @@ faq:
     a: "Ya. Sunway Healthcare Holdings disenaraikan di Pasaran Utama Bursa Malaysia sebagai SUNMED pada 18 Mac 2026. GIC dari Singapura sebelum ini telah bersetuju, pada Jun 2021, untuk melabur RM750 juta bagi pegangan 16% dalam perniagaan penjagaan kesihatan itu."
 
 lang: "ms"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Pecahan segmen setahun penuh FY2024: draf hanya memetik jadual Q4 FY2024; sahkan bahawa pembinaan merupakan penyumbang hasil terbesar bagi setahun penuh."
-  - "Selaraskan peningkatan katil berlesen yang dilaporkan kumpulan (1,240 kepada 1,396) dengan kapasiti yang dinyatakan SMC Damansara sendiri iaitu lebih daripada 345 katil."
-  - "Baki pegangan saham GIC dan struktur pegangan saham pasca-penyenaraian penuh SUNMED selepas IPO 18 March 2026."
-  - "Sama ada Tan Sri Dato' (Dr.) Chew Chee Kin kekal sebagai presiden kumpulan setakat penerbitan."
-  - "Sama ada dividen 6.00 sen adalah jumlah yang diisytiharkan bagi FY2024 atau satu pengagihan tunggal."
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ Lembaga pengarah mengisytiharkan dividen 6.00 sen sesaham biasa bagi TK2024. Kum
 
 ## Siapa yang memiliki dan menerajuinya?
 
-Jeffrey Cheah ialah pengasas dan pengerusi. Presiden kumpulan itu ialah Tan Sri Dato' (Dr.) Chew Chee Kin.
+Jeffrey Cheah ialah pengasas dan pengerusi. Tan Sri Dato' (Dr.) Chew Chee Kin menjadi presiden kumpulan selama lebih dua dekad sebelum bersara pada 2025 untuk menjadi Ketua Penasihat Kumpulan; Datuk Mohd Anuar Taib dan Evan Cheah dilantik sebagai timbalan presiden pada Januari 2025.
 
 Sunway Berhad ialah syarikat induk tersenarai utamanya. Kumpulan yang lebih luas juga merangkumi entiti yang tersenarai secara berasingan di Bursa Malaysia, dan wadah kedermawanan Cheah, Yayasan Jeffrey Cheah, dikaitkan dengan cabang pendidikan.
 

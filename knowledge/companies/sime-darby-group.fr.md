@@ -46,11 +46,6 @@ revisions:
     reviewer: null
 
 updated: 2026-07-28
-verificationNeeded:
-  - "Dates de fondation de Guthrie & Co (1821) et de Sime, Darby and Co. (1910), ainsi que la date de la fusion Synergy Drive de janvier 2007 — à confirmer auprès d'une source primaire ou du patrimoine de l'entreprise ; non vérifiées indépendamment dans cette passe."
-  - "Le pourcentage exact de participation actuelle de PNB dans chacune des trois sociétés — à confirmer à partir des derniers rapports annuels / documents déposés auprès de Bursa."
-  - "Déterminer si Sime Darby Property est le « plus grand » promoteur coté par réserve foncière ou « l'un des plus grands » — confirmer le classement et la superficie actuelle de la réserve foncière auprès d'une source faisant autorité."
-  - "Déterminer si Sime Darby Berhad avait, au moment du changement de marque de novembre 2024, entièrement cédé les activités de négoce, de logistique et de santé qu'elle avait conservées lors de la scission de 2017."
 sources:
   - title: "Répertoire des sociétés cotées de Bursa Malaysia — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

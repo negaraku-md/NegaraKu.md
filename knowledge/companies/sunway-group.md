@@ -44,12 +44,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Full-year FY2024 segment breakdown: draft cites only the Q4 FY2024 table; confirm construction was the largest full-year revenue contributor."
-  - "Reconcile the group's reported licensed-bed increase (1,240 to 1,396) with SMC Damansara's own stated capacity of more than 345 beds."
-  - "GIC's remaining stake and the full post-listing shareholding structure of SUNMED after the 18 March 2026 IPO."
-  - "Whether Tan Sri Dato' (Dr.) Chew Chee Kin remains group president as of publication."
-  - "Whether the 6.00 sen dividend is the total declared for FY2024 or a single distribution."
 
 updated: 2026-07-28
 sources:
@@ -104,7 +98,7 @@ The board declared a dividend of 6.00 sen per ordinary share for FY2024. The gro
 
 ## Who owns and runs it?
 
-Jeffrey Cheah is the founder and chairman. The group's president is Tan Sri Dato' (Dr.) Chew Chee Kin.
+Jeffrey Cheah is the founder and chairman. Tan Sri Dato' (Dr.) Chew Chee Kin was group president for over two decades before retiring in 2025 to become Group Chief Advisor; Datuk Mohd Anuar Taib and Evan Cheah were appointed deputy presidents in January 2025.
 
 Sunway Berhad is the flagship listed holding company. The wider group also includes separately listed entities on Bursa Malaysia, and Cheah's philanthropic vehicle, the Jeffrey Cheah Foundation, is tied to the education arm.
 

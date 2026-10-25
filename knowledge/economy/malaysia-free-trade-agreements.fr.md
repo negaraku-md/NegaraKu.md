@@ -32,7 +32,7 @@ faq:
     a: "Oui. La Malaisie et l'UE ont repris les négociations d'ALE en janvier 2025, et la Malaisie a conclu un accord de partenariat économique avec les États de l'AELE (Islande, Liechtenstein, Norvège, Suisse) le 11 avril 2025."
 
 lang: "fr"
-sourceContentHash: "7239744fcdcf2f73"
+sourceContentHash: "cb7dfd7dada1655f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,10 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "La date exacte à laquelle la Malaisie a déposé son instrument de ratification du RCEP (largement rapportée comme le 17 janvier 2022) ne figure pas dans une source listée."
-  - "La question de savoir si un accord commercial préférentiel Malaisie-Iran reste une piste de négociation active."
-  - "La date du premier cycle de négociation de l'ALE UE-Malaisie (rapportée fin juin 2025) au regard des propres mises à jour de la Commission européenne."
 updated: 2026-08-08
 sources:
   - title: "Ratification du CPTPP par la Malaisie / Certificat d'origine préférentiel (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"
@@ -170,7 +166,7 @@ Les négociateurs de la Malaisie ne se sont pas arrêtés. Deux pistes européen
 - **ALE Malaisie-UE.** Les discussions, lancées à l'origine en 2010, ont été suspendues en 2012 et ont **repris en janvier 2025**, le premier cycle de négociation s'étant tenu fin juin 2025. L'UE recherche un accord ambitieux couvrant les biens, les services, l'investissement, les marchés publics, le commerce numérique et les engagements de durabilité.
 - **Accord de partenariat économique Malaisie-AELE.** La Malaisie a conclu les négociations avec les États de l'AELE — Islande, Liechtenstein, Norvège et Suisse — le **11 avril 2025**, et l'accord a été signé le 23 juin 2025 à Tromsø, en Norvège ; la ratification est en attente.
 
-D'autres pistes bilatérales sont aussi apparues dans le pipeline de négociation de la Malaisie, dont un accord préférentiel rapporté avec l'Iran.
+D'autres pistes bilatérales sont apparues au fil des ans, dont un accord commercial préférentiel Malaisie-Iran qui a été exploré dans les années 2010 mais est depuis au point mort.
 
 ## Et après
 

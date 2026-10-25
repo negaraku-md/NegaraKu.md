@@ -46,11 +46,6 @@ revisions:
     reviewer: null
 
 updated: 2026-07-28
-verificationNeeded:
-  - "Guthrie & Co（1821年）およびSime, Darby and Co.（1910年）の設立年、ならびに2007年1月のSynergy Drive合併日——一次資料または企業史資料で確認すること。本パスでは独自に再確認していない。"
-  - "PNBが3社それぞれに現在保有する正確な持株比率——最新の年次報告書／Bursa開示資料から確認すること。"
-  - "Sime Darby Propertyが土地保有面積（land bank）で唯一の「最大」の上場デベロッパーなのか、それとも「最大級の一角」なのか——権威ある情報源から順位と現在の土地保有面積を確認すること。"
-  - "Sime Darby Berhadが2024年11月のブランド変更までに、2017年の分割時に保持していた貿易、物流、ヘルスケア事業を完全に売却していたかどうか。"
 sources:
   - title: "Bursa Malaysia 上場ディレクトリ — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

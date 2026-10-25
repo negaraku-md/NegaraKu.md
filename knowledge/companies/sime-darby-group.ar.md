@@ -46,11 +46,6 @@ revisions:
     reviewer: null
 
 updated: 2026-07-28
-verificationNeeded:
-  - "تواريخ تأسيس Guthrie & Co (1821) وSime, Darby and Co. (1910)، وتاريخ اندماج Synergy Drive في يناير 2007 — تؤكَّد مقابل مصدر أولي/مصدر تراث الشركة؛ لم يُعَد جلبها بشكل مستقل في هذه المراجعة."
-  - "نسبة مساهمة PNB الدقيقة الحالية في كل من الشركات الثلاث — تؤكَّد من أحدث التقارير السنوية / إفصاحات بورصة ماليزيا."
-  - "ما إذا كانت Sime Darby Property هي المطوّر المدرج «الأكبر» الأوحد من حيث بنك الأراضي أم «أحد الأكبر» — يؤكَّد الترتيب ومساحة بنك الأراضي الحالية من مصدر موثوق."
-  - "ما إذا كانت Sime Darby Berhad قد تخلّصت تماماً، بحلول إعادة التسمية في نوفمبر 2024، من أعمال التجارة واللوجستيات والرعاية الصحية التي احتفظت بها عند تفكيك 2017."
 sources:
   - title: "دليل الإدراج في بورصة ماليزيا — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

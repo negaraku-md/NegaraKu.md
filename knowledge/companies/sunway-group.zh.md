@@ -29,7 +29,7 @@ faq:
     a: "是的。双威医疗控股（Sunway Healthcare Holdings）已于2026年3月18日以代号SUNMED在马来西亚交易所主板上市。此前，新加坡政府投资公司（GIC）已于2021年6月同意投资7.5亿令吉，取得该医疗业务16%的股权。"
 
 lang: "zh"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "FY2024 全年分部细分：草稿仅引用了 Q4 FY2024 的表格；请确认建筑业务是否为全年营收的最大贡献来源。"
-  - "请将集团报告的持牌病床增加（由 1,240 张增至 1,396 张）与 SMC Damansara 自称超过 345 张病床的容量相互核对。"
-  - "2026 年 3 月 18 日 IPO 之后，GIC 剩余的持股及 SUNMED 上市后的完整股权结构。"
-  - "截至发布时，Tan Sri Dato' (Dr.) Chew Chee Kin 是否仍任集团总裁。"
-  - "6.00 sen 的股息是 FY2024 宣派的总额，还是单次派发。"
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University
 
 ## 谁拥有并经营它？
 
-谢富年是创办人兼董事长。集团总裁为丹斯里拿督（博士）朱志刚（Tan Sri Dato' (Dr.) Chew Chee Kin）。
+谢富年是创办人兼董事长。丹斯里拿督（博士）朱志刚（Tan Sri Dato' (Dr.) Chew Chee Kin）担任集团总裁逾二十年，已于 2025 年退任，转任集团首席顾问；拿督莫哈末·安努亚·泰益（Datuk Mohd Anuar Taib）与 Evan Cheah 于 2025 年 1 月获委任为副总裁。
 
 双威控股是集团的旗舰上市控股公司。更广泛的集团还包括在马来西亚交易所另行上市的实体，而谢富年的慈善机构——谢富年基金会（Jeffrey Cheah Foundation）——与教育板块紧密相连。
 

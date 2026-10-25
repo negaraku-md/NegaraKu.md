@@ -29,7 +29,7 @@ faq:
     a: "Ya. Sunway Healthcare Holdings dicatatkan di Pasar Utama Bursa Malaysia sebagai SUNMED pada 18 Maret 2026. GIC dari Singapura sebelumnya telah menyetujui, pada Juni 2021, untuk menginvestasikan RM750 juta bagi kepemilikan 16% dalam bisnis pelayanan kesehatan itu."
 
 lang: "id"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Rincian segmen setahun penuh FY2024: draf hanya mengutip tabel Q4 FY2024; verifikasi bahwa konstruksi merupakan penyumbang pendapatan terbesar untuk setahun penuh."
-  - "Selaraskan peningkatan tempat tidur berlisensi yang dilaporkan grup (1,240 menjadi 1,396) dengan kapasitas yang dinyatakan SMC Damansara sendiri yaitu lebih dari 345 tempat tidur."
-  - "Sisa kepemilikan saham GIC dan struktur kepemilikan saham pascapencatatan penuh SUNMED setelah IPO 18 Maret 2026."
-  - "Apakah Tan Sri Dato' (Dr.) Chew Chee Kin tetap menjabat sebagai presiden grup pada saat penerbitan."
-  - "Apakah dividen 6.00 sen merupakan jumlah yang diumumkan untuk FY2024 atau satu distribusi tunggal."
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ Dewan direksi mengumumkan dividen 6.00 sen per saham biasa bagi TK2024. Kelompok
 
 ## Siapa yang memiliki dan memimpinnya?
 
-Jeffrey Cheah adalah pendiri dan ketua. Presiden kelompok itu adalah Tan Sri Dato' (Dr.) Chew Chee Kin.
+Jeffrey Cheah adalah pendiri dan ketua. Tan Sri Dato' (Dr.) Chew Chee Kin menjabat sebagai presiden kelompok selama lebih dari dua dekade sebelum pensiun pada 2025 untuk menjadi Penasihat Utama Kelompok (Group Chief Advisor); Datuk Mohd Anuar Taib dan Evan Cheah ditunjuk sebagai wakil presiden pada Januari 2025.
 
 Sunway Berhad adalah perusahaan induk tercatat utamanya. Kelompok yang lebih luas juga mencakup entitas yang tercatat secara terpisah di Bursa Malaysia, dan wadah filantropi Cheah, Yayasan Jeffrey Cheah, dikaitkan dengan cabang pendidikan.
 

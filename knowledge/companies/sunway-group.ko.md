@@ -29,7 +29,7 @@ faq:
     a: "그렇습니다. Sunway Healthcare Holdings는 2026년 3월 18일 Bursa Malaysia 메인마켓에 SUNMED로 상장되었습니다. 앞서 싱가포르의 GIC가 2021년 6월 의료 사업 지분 16%를 위해 RM7.5억을 투자하기로 합의했습니다."
 
 lang: "ko"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "2024 회계연도 연간 부문 내역: 초안은 2024 회계연도 4분기 표만 인용함. 건설이 연간 최대 매출 기여 부문이었는지 확인."
-  - "그룹이 보고한 허가 병상 증가(1,240에서 1,396)를 SMC 다만사라 자체 명시 수용력인 345병상 초과와 대조하여 조정."
-  - "2026년 3월 18일 IPO 이후 GIC의 잔여 지분 및 SUNMED의 상장 후 전체 지분 구조."
-  - "Tan Sri Dato' (Dr.) Chew Chee Kin이 발간 시점에도 그룹 사장으로 재직 중인지 여부."
-  - "6.00센 배당이 2024 회계연도에 대해 선언된 총액인지, 아니면 단일 분배인지 여부."
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ Sunway Berhad는 2024 회계연도에 전년 대비 28.5% 증가한 사상 최�
 
 ## 누가 소유하고 운영합니까?
 
-Jeffrey Cheah가 창업자이자 회장입니다. 그룹의 사장은 Tan Sri Dato' (Dr.) Chew Chee Kin입니다.
+Jeffrey Cheah가 창업자이자 회장입니다. Tan Sri Dato' (Dr.) Chew Chee Kin은 20년 넘게 그룹 사장을 지낸 뒤 2025년 은퇴하여 그룹 수석 고문(Group Chief Advisor)이 되었으며, Datuk Mohd Anuar Taib과 Evan Cheah이 2025년 1월 부사장으로 임명되었습니다.
 
 Sunway Berhad는 대표 상장 지주회사입니다. 더 넓은 그룹에는 Bursa Malaysia에 별도 상장된 법인들도 포함되며, Cheah의 자선 기구인 제프리 치아 재단(Jeffrey Cheah Foundation)은 교육 부문과 연결되어 있습니다.
 

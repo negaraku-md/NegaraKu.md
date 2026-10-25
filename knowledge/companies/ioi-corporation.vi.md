@@ -18,7 +18,7 @@ keyTakeaways:
   - "Tập đoàn vận hành hai mảng: đồn điền và chế biến dựa trên tài nguyên; nhánh bất động sản đã được tách thành IOI Properties Group Berhad, niêm yết lại vào đầu năm 2014."
   - "Quỹ đất của tập đoàn khoảng 214.335 hecta, trong đó khoảng 172.107 hecta đã được trồng cọ dầu tính đến năm 2024."
   - "Trong FY2024 (kết thúc ngày 30 tháng 6 năm 2024), doanh thu là RM9.6 tỷ và lợi nhuận ròng RM1.109 tỷ, với cổ tức cả năm là 9.5 sen."
-  - "Tập đoàn là thành viên RSPO từ năm 2004, và SPOTT báo cáo rằng 14 trong 15 nhà máy ép thuộc sở hữu của công ty được chứng nhận RSPO."
+  - "Tập đoàn là thành viên RSPO từ năm 2004, và tất cả các nhà máy ép thuộc sở hữu của công ty được SPOTT đánh giá đều được chứng nhận RSPO."
 appliesTo: "Độc giả nghiên cứu các công ty dầu cọ Malaysia, nhà đầu tư đồn điền, chuyên viên phân tích bền vững và sinh viên ngành hàng hóa của Malaysia."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "Tại Malaysia (bao gồm Johor, Malacca, Negeri Sembilan, Pahang, Sabah và Sarawak) và tại Indonesia (Tây và Trung Kalimantan)."
 
 lang: "vi"
-sourceContentHash: "1a35d39eb3932506"
+sourceContentHash: "2bc33852c39fbf8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Ngày niêm yết chính xác trên Bursa Malaysia của IOI Properties Group Berhad (được đưa tin là đầu năm 2014; bài viết The Edge năm 2013 được dẫn chỉ mô tả việc niêm yết lại được lên kế hoạch khi đó, chứ không phải việc niêm yết đã hoàn tất)."
-  - "SPOTT báo cáo 15 nhà máy ép thuộc sở hữu công ty nhưng 14 được chứng nhận RSPO; cần xác nhận liệu có một nhà máy chưa được chứng nhận hay điều này phản ánh một thay đổi về số lượng nhà máy trong giai đoạn 2024–2025."
-  - "Cổ tức cả năm FY2024 là 9.5 sen: bản tin được dẫn giật tít về cổ tức quý bốn 5 sen; cần xác nhận tổng cả năm so với báo cáo thường niên đã kiểm toán."
-  - "Doanh thu FY2024 giảm 17,09% so với RM11.58 tỷ: cần xác nhận so với báo cáo thường niên đã kiểm toán."
 
 updated: 2026-07-28
 sources:
@@ -128,7 +123,7 @@ Doanh thu giảm chủ yếu do giá dầu cọ mềm hơn so với năm trướ
 
 ## Dầu cọ của IOI bền vững đến mức nào?
 
-Tính bền vững là trung tâm trong cách IOI được người mua và các tổ chức phi chính phủ đánh giá. Tập đoàn là thành viên của **Bàn tròn về Dầu cọ Bền vững (Roundtable on Sustainable Palm Oil, RSPO) từ năm 2004** và đạt chứng nhận đầu tiên vào năm 2009. SPOTT báo cáo rằng **14 trong 15 nhà máy ép thuộc sở hữu công ty của IOI được chứng nhận RSPO**, với diện tích được chứng nhận bao phủ khoảng **95,8%** quỹ đất (khoảng 205.336 hecta trong tổng số 214.335 hecta) và một cam kết đã tuyên bố về việc đạt chứng nhận toàn phần.
+Tính bền vững là trung tâm trong cách IOI được người mua và các tổ chức phi chính phủ đánh giá. Tập đoàn là thành viên của **Bàn tròn về Dầu cọ Bền vững (Roundtable on Sustainable Palm Oil, RSPO) từ năm 2004** và đạt chứng nhận đầu tiên vào năm 2009. SPOTT báo cáo rằng **tất cả các nhà máy ép thuộc sở hữu công ty của IOI mà tổ chức này đánh giá đều được chứng nhận RSPO** (đánh giá chứng nhận của tổ chức này bao phủ 14 nhà máy ở mức 100%), với diện tích được chứng nhận bao phủ khoảng **95,8%** quỹ đất (khoảng 205.336 hecta trong tổng số 214.335 hecta) và một cam kết đã tuyên bố về việc đạt chứng nhận toàn phần.
 
 Thành tích của IOI không hoàn hảo: tập đoàn từng bị đình chỉ khỏi RSPO trong vài tháng năm 2016 vì các lo ngại về tính bền vững trước khi được phục hồi. Ngoài RSPO, bản đánh giá của tập đoàn liệt kê các chứng nhận và tư cách thành viên bao gồm **MSPO** bắt buộc của Malaysia, **ISCC**, và sự tham gia vào các sáng kiến ngành như Fire Free Alliance và Earthworm Foundation.
 

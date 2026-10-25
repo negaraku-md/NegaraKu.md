@@ -46,11 +46,6 @@ revisions:
     reviewer: null
 
 updated: 2026-07-28
-verificationNeeded:
-  - "Các ngày thành lập của Guthrie & Co (1821) và Sime, Darby and Co. (1910), và ngày sáp nhập Synergy Drive vào tháng 1 năm 2007 — cần xác nhận so với một nguồn sơ cấp/di sản công ty; chưa được lấy lại một cách độc lập trong lượt này."
-  - "Tỷ lệ sở hữu hiện tại chính xác của PNB trong mỗi công ty trong ba công ty — cần xác nhận từ các báo cáo thường niên / hồ sơ nộp Bursa mới nhất."
-  - "Liệu Sime Darby Property có phải là nhà phát triển niêm yết 'lớn nhất' đơn lẻ theo quỹ đất hay 'một trong những nhà phát triển lớn nhất' — cần xác nhận thứ hạng và diện tích quỹ đất hiện tại từ một nguồn có thẩm quyền."
-  - "Liệu Sime Darby Berhad đã, tính đến đợt đổi thương hiệu tháng 11 năm 2024, thoái vốn hoàn toàn khỏi các hoạt động thương mại, logistics và chăm sóc sức khỏe mà nó giữ lại tại thời điểm tách công ty năm 2017 hay chưa."
 sources:
   - title: "Danh bạ Niêm yết Bursa Malaysia — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

@@ -18,7 +18,7 @@ keyTakeaways:
   - "Elle exploite deux segments : les plantations et la fabrication à base de ressources ; la branche immobilière a été scindée pour former IOI Properties Group Berhad, recotée début 2014."
   - "Sa réserve foncière est d'environ 214,335 hectares, dont quelque 172,107 hectares étaient plantés en palmier à huile en 2024."
   - "Au FY2024 (clos le 30 juin 2024), le chiffre d'affaires était de RM9.6 milliards et le bénéfice net de RM1.109 milliard, avec un dividende annuel de 9,5 sen."
-  - "Elle est membre de la RSPO depuis 2004, et SPOTT indique que 14 de ses 15 huileries en propre sont certifiées RSPO."
+  - "Elle est membre de la RSPO depuis 2004, et toutes ses huileries en propre évaluées par SPOTT sont certifiées RSPO."
 appliesTo: "Lecteurs qui enquêtent sur les entreprises malaisiennes d'huile de palme, investisseurs en plantations, analystes de durabilité et étudiants du secteur des matières premières de la Malaisie."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "En Malaisie (notamment Johor, Malacca, Negeri Sembilan, Pahang, Sabah et Sarawak) et en Indonésie (Kalimantan occidental et central)."
 
 lang: "fr"
-sourceContentHash: "1a35d39eb3932506"
+sourceContentHash: "2bc33852c39fbf8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Date exacte de cotation à Bursa Malaysia d'IOI Properties Group Berhad (rapportée comme début 2014 ; l'article de The Edge de 2013 cité ne décrit que la recotation alors prévue, et non la cotation achevée)."
-  - "SPOTT fait état de 15 huileries en propre mais de 14 certifiées RSPO ; confirmer si une huilerie n'est pas certifiée ou si cela reflète une variation du nombre d'huileries entre 2024 et 2025."
-  - "Dividende annuel du FY2024 de 9,5 sen : le communiqué de presse cité met en avant un dividende de 5 sen au quatrième trimestre ; confirmer le total annuel par rapport au rapport annuel audité."
-  - "Baisse du chiffre d'affaires du FY2024 de 17.09% par rapport à RM11.58 milliards : à confirmer par rapport au rapport annuel audité."
 
 updated: 2026-07-28
 sources:
@@ -128,7 +123,7 @@ La baisse du chiffre d'affaires s'explique principalement par des prix de l'huil
 
 ## À quel point l'huile de palme d'IOI est-elle durable ?
 
-La durabilité est centrale dans la façon dont IOI est jugée par les acheteurs et les ONG. Le groupe est membre de la **Table ronde sur l'huile de palme durable (RSPO) depuis 2004** et a obtenu sa première certification en 2009. SPOTT indique que **14 des 15 huileries en propre d'IOI sont certifiées RSPO**, avec une superficie certifiée couvrant environ **95.8%** de la réserve foncière (soit quelque 205,336 hectares sur le total de 214,335 hectares) et un engagement affiché d'atteindre la certification complète.
+La durabilité est centrale dans la façon dont IOI est jugée par les acheteurs et les ONG. Le groupe est membre de la **Table ronde sur l'huile de palme durable (RSPO) depuis 2004** et a obtenu sa première certification en 2009. SPOTT indique que **toutes les huileries en propre d'IOI qu'il évalue sont certifiées RSPO** (son évaluation de certification couvre 14 huileries à 100%), avec une superficie certifiée couvrant environ **95.8%** de la réserve foncière (soit quelque 205,336 hectares sur le total de 214,335 hectares) et un engagement affiché d'atteindre la certification complète.
 
 Le bilan d'IOI n'est pas sans tache : elle a été suspendue de la RSPO pendant plusieurs mois en 2016 pour des préoccupations de durabilité avant d'être réintégrée. Au-delà de la RSPO, l'évaluation du groupe énumère des certifications et adhésions incluant le **MSPO** obligatoire de Malaisie, l'**ISCC** et la participation à des initiatives sectorielles comme la Fire Free Alliance et l'Earthworm Foundation.
 

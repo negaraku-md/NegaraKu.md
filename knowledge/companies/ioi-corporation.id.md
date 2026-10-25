@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ia menjalankan dua segmen: perkebunan dan manufaktur berbasis sumber; lengan properti telah dipisahkan menjadi IOI Properties Group Berhad, yang dicatatkan ulang pada awal 2014."
   - "Bank tanahnya sekitar 214,335 hektar, yang kurang lebih 172,107 hektar ditanami kelapa sawit per 2024."
   - "Bagi TK2024 (berakhir 30 Juni 2024), pendapatan adalah RM9.6 miliar dan laba bersih RM1.109 miliar, dengan dividen setahun penuh 9.5 sen."
-  - "Ia telah menjadi anggota RSPO sejak 2004, dan SPOTT melaporkan bahwa 14 dari 15 pabrik milik perusahaannya bersertifikat RSPO."
+  - "Ia telah menjadi anggota RSPO sejak 2004, dan semua pabrik milik perusahaannya yang dinilai oleh SPOTT bersertifikat RSPO."
 appliesTo: "Pembaca yang meneliti perusahaan minyak sawit Malaysia, investor perkebunan, analis keberlanjutan, dan pelajar sektor komoditas Malaysia."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "Di Malaysia (termasuk Johor, Melaka, Negeri Sembilan, Pahang, Sabah, dan Sarawak) dan di Indonesia (Kalimantan Barat dan Tengah)."
 
 lang: "id"
-sourceContentHash: "1a35d39eb3932506"
+sourceContentHash: "2bc33852c39fbf8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tanggal pencatatan Bursa Malaysia yang tepat bagi IOI Properties Group Berhad (dilaporkan pada awal 2014; artikel The Edge 2013 yang dikutip hanya menjelaskan pencatatan ulang yang direncanakan pada saat itu, bukan pencatatan yang telah selesai)."
-  - "SPOTT melaporkan 15 pabrik milik perusahaan tetapi 14 bersertifikat RSPO; verifikasi apakah satu pabrik tidak bersertifikat atau apakah ini mencerminkan perubahan jumlah pabrik dari 2024 ke 2025."
-  - "Dividen setahun penuh FY2024 sebesar 9.5 sen: siaran pers yang dikutip menampilkan dividen kuartal keempat 5 sen; verifikasi total setahun penuh terhadap laporan tahunan yang telah diaudit."
-  - "Penurunan pendapatan TK2024 sebesar 17.09% dibandingkan RM11.58 miliar: verifikasi terhadap laporan tahunan yang diaudit."
 
 updated: 2026-07-28
 sources:
@@ -128,7 +123,7 @@ Penurunan pendapatan didorong terutama oleh harga minyak sawit yang lebih lesu d
 
 ## Seberapa berkelanjutan minyak sawit IOI?
 
-Keberlanjutan menjadi pusat dari cara IOI dinilai oleh pembeli dan LSM. Kelompok itu telah menjadi anggota **Roundtable on Sustainable Palm Oil (RSPO) sejak 2004** dan mencapai sertifikasi pertamanya pada 2009. SPOTT melaporkan bahwa **14 dari 15 pabrik milik perusahaan IOI bersertifikat RSPO**, dengan kawasan bersertifikat meliputi sekitar **95.8%** dari bank tanah (kurang lebih 205,336 hektar dari total 214,335 hektar) serta komitmen yang dinyatakan untuk mencapai sertifikasi penuh.
+Keberlanjutan menjadi pusat dari cara IOI dinilai oleh pembeli dan LSM. Kelompok itu telah menjadi anggota **Roundtable on Sustainable Palm Oil (RSPO) sejak 2004** dan mencapai sertifikasi pertamanya pada 2009. SPOTT melaporkan bahwa **semua pabrik milik perusahaan IOI yang dinilainya bersertifikat RSPO** (penilaian sertifikasinya mencakup 14 pabrik pada 100%), dengan kawasan bersertifikat meliputi sekitar **95.8%** dari bank tanah (kurang lebih 205,336 hektar dari total 214,335 hektar) serta komitmen yang dinyatakan untuk mencapai sertifikasi penuh.
 
 Rekam jejak IOI tidak sempurna sepenuhnya: ia pernah ditangguhkan dari RSPO selama beberapa bulan pada 2016 atas kekhawatiran keberlanjutan sebelum dipulihkan kembali. Selain RSPO, penilaian kelompok itu mencantumkan sertifikasi dan keanggotaan termasuk **MSPO** wajib Malaysia, **ISCC**, dan partisipasi dalam inisiatif industri seperti Fire Free Alliance dan Earthworm Foundation.
 

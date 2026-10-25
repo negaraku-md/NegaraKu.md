@@ -32,7 +32,7 @@ faq:
     a: "Có. Malaysia và EU nối lại các cuộc đàm phán FTA vào tháng 1 năm 2025, và Malaysia đã hoàn tất một hiệp định đối tác kinh tế với các nước EFTA (Iceland, Liechtenstein, Na Uy, Thụy Sĩ) vào ngày 11 tháng 4 năm 2025."
 
 lang: "vi"
-sourceContentHash: "7239744fcdcf2f73"
+sourceContentHash: "cb7dfd7dada1655f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,10 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Ngày chính xác Malaysia gửi lưu chiểu văn kiện phê chuẩn RCEP của mình (được đưa tin rộng rãi là ngày 17 tháng 1 năm 2022) không có trong một nguồn được liệt kê."
-  - "Liệu một hiệp định thương mại ưu đãi Malaysia–Iran có còn là một hướng đàm phán đang hoạt động hay không."
-  - "Ngày vòng đàm phán FTA EU–Malaysia đầu tiên (được đưa tin là cuối tháng 6 năm 2025) đối chiếu với các cập nhật của chính Ủy ban châu Âu."
 updated: 2026-08-08
 sources:
   - title: "Việc Malaysia phê chuẩn CPTPP / Giấy chứng nhận Xuất xứ Ưu đãi (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"
@@ -170,7 +166,7 @@ Các nhà đàm phán của Malaysia chưa dừng lại. Hai hướng châu Âu 
 - **FTA Malaysia–EU.** Các cuộc đàm phán ban đầu khởi động năm 2010, bị đình chỉ năm 2012, và **được nối lại vào tháng 1 năm 2025**, với vòng đàm phán đầu tiên diễn ra cuối tháng 6 năm 2025. EU đang theo đuổi một thỏa thuận đầy tham vọng bao phủ hàng hóa, dịch vụ, đầu tư, mua sắm chính phủ, thương mại số và các cam kết về bền vững.
 - **Hiệp định Đối tác Kinh tế Malaysia–EFTA.** Malaysia hoàn tất các cuộc đàm phán với các nước EFTA — Iceland, Liechtenstein, Na Uy và Thụy Sĩ — vào ngày **11 tháng 4 năm 2025**, và hiệp định được ký vào ngày 23 tháng 6 năm 2025 tại Tromsø, Na Uy; việc phê chuẩn đang chờ.
 
-Các hướng song phương khác cũng đã xuất hiện trong đường ống đàm phán của Malaysia, bao gồm một hiệp định ưu đãi được đưa tin với Iran.
+Các hướng song phương khác đã xuất hiện qua nhiều năm, bao gồm một hiệp định thương mại ưu đãi Malaysia–Iran từng được thăm dò trong thập niên 2010 nhưng từ đó đã đình trệ.
 
 ## Tiếp theo
 

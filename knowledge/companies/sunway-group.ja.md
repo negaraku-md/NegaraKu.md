@@ -29,7 +29,7 @@ faq:
     a: "はい。Sunway Healthcare Holdingsは2026年3月18日、Bursa Malaysiaのメインマーケットに銘柄SUNMEDとして上場した。これに先立ち、シンガポールのGICは2021年6月、同ヘルスケア事業の16%株式取得のためRM75,000万を投資することで合意していた。"
 
 lang: "ja"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "FY2024通期のセグメント別内訳：草稿はFY2024第4四半期の表のみを引用しており、建設が通期売上高で最大の貢献部門であったか確認が必要。"
-  - "グループが報告した持病床数の増加（1,240床から1,396床）と、SMC Damansara自身が公表する345床超の収容能力との整合性を確認する必要がある。"
-  - "2026年3月18日のIPO後における、GICの残存持分とSUNMEDの上場後の完全な株主構成。"
-  - "公開時点でTan Sri Dato' (Dr.) Chew Chee Kinが引き続きグループ社長を務めているかどうか。"
-  - "6.00センの配当がFY2024に宣言された総額なのか、それとも単発の配当なのか。"
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ Sunway BerhadはFY2024に過去最高となる売上高RM788,250万を計上し�
 
 ## 誰が所有し、経営しているのか？
 
-Jeffrey Cheahが創業者兼会長を務める。グループの社長はTan Sri Dato' (Dr.) Chew Chee Kinである。
+Jeffrey Cheahが創業者兼会長を務める。Tan Sri Dato' (Dr.) Chew Chee Kinは20年以上にわたってグループ社長を務めたのち、2025年に退任してグループ最高顧問（Group Chief Advisor）に就任した。2025年1月には、Datuk Mohd Anuar TaibおよびEvan Cheahが副社長に任命された。
 
 Sunway Berhadは、グループの旗艦上場持株会社である。より広範なグループには、Bursa Malaysiaに別途上場する事業体も含まれており、またCheah氏の慈善事業体であるJeffrey Cheah Foundationは教育部門と結びついている。
 

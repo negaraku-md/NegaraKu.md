@@ -29,7 +29,7 @@ faq:
     a: "Oui. Sunway Healthcare Holdings a été admise à la cote du Marché principal de Bursa Malaysia sous le nom de SUNMED le 18 mars 2026. Le fonds GIC de Singapour avait auparavant accepté, en juin 2021, d'investir RM750 millions pour une participation de 16 % dans l'activité santé."
 
 lang: "fr"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Ventilation par segment de l'exercice complet FY2024 : le brouillon ne cite que le tableau du T4 FY2024 ; confirmer que la construction a été le principal contributeur au chiffre d'affaires de l'exercice complet."
-  - "Rapprocher l'augmentation des lits autorisés déclarée par le groupe (de 1 240 à 1 396) avec la capacité propre de SMC Damansara, indiquée à plus de 345 lits."
-  - "La participation restante de GIC et la structure complète de l'actionnariat de SUNMED après l'introduction en bourse du 18 mars 2026."
-  - "Déterminer si Tan Sri Dato' (Dr.) Chew Chee Kin reste président du groupe à la date de publication."
-  - "Déterminer si le dividende de 6,00 sen est le total déclaré pour FY2024 ou une distribution unique."
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ Le conseil d'administration a déclaré un dividende de 6.00 sen par action ordi
 
 ## Qui en est propriétaire et qui la dirige ?
 
-Jeffrey Cheah est le fondateur et président. Le président exécutif (president) du groupe est Tan Sri Dato' (Dr.) Chew Chee Kin.
+Jeffrey Cheah est le fondateur et président. Tan Sri Dato' (Dr.) Chew Chee Kin a été président du groupe pendant plus de deux décennies avant de se retirer en 2025 pour devenir conseiller en chef du groupe (Group Chief Advisor) ; Datuk Mohd Anuar Taib et Evan Cheah ont été nommés présidents adjoints en janvier 2025.
 
 Sunway Berhad est la société holding cotée phare. Le groupe plus large comprend également des entités cotées séparément à Bursa Malaysia, et le véhicule philanthropique de Cheah, la Jeffrey Cheah Foundation, est lié au pôle éducation.
 

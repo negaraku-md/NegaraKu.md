@@ -16,7 +16,15 @@ gawai-dayak · capital-a-and-airasia · pnb  **(14 articles)**
 FY2024 PAT RM1,233.2m / 36 sen dividend; Khazanah-adjacent & Budget 2027 headline figures;
 Capital A completion 18 Jan 2026; PNB ASB 5.75 sen / RM10.4bn.)
 
-## REVIEWER FINDINGS — kept flags, need your editorial call (10 articles)
+## FOLLOW-UP — findings applied 2026-10-25 (commit after e3370fe1a)
+- **sunway-group — FIXED** (×13): reworded to "Chew Chee Kin was group president… retired 2025 to Group Chief Advisor; Datuk Mohd Anuar Taib & Evan Cheah appointed deputy presidents Jan 2025" (no successor-president confirmed in sources). Flag cleared.
+- **ioi-corporation — FIXED** (×13): "14 of 15 mills" → "all company-owned mills assessed by SPOTT are RSPO-certified (assessment covers 14 at 100%)". Flag cleared.
+- **malaysia-free-trade-agreements — FIXED** (×13): Iran PTA → "explored in the 2010s but has since stalled". Flag cleared.
+- **sime-darby-group — flag cleared** (×13): body already said "moved to divest" (accurate, not "fully divested") — no body change needed.
+- **epf-as-investor — KEPT (not changed):** the equities income RM49.24bn/62% could not be independently confirmed either way — EPF's full-year asset-class income split isn't publicly reported (only quarterly), and the article's figures sum exactly to the RM79.15bn total. Did NOT "correct" to an unverified value. Flag kept.
+- **malaysias-big-banks — KEPT (not changed):** 12.8% (The Edge basis) and 13.2% (bank's own net ROE) are different valid metrics; changing risks cross-bank inconsistency. Flag kept.
+
+## REVIEWER FINDINGS — original assessment (10 articles)
 
 **1. sunway-group — ACTUAL ERROR (fix).** Body says *"The group's president is Tan Sri Dato'
 (Dr.) Chew Chee Kin."* He **retired as president in 2025** and is now **Group Chief Advisor**

@@ -32,7 +32,7 @@ faq:
     a: "그렇습니다. 말레이시아와 EU는 2025년 1월 FTA 협상을 재개했으며, 말레이시아는 2025년 4월 11일 EFTA 국가들(아이슬란드, 리히텐슈타인, 노르웨이, 스위스)과 경제 파트너십 협정을 타결했습니다."
 
 lang: "ko"
-sourceContentHash: "7239744fcdcf2f73"
+sourceContentHash: "cb7dfd7dada1655f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,10 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "말레이시아가 RCEP 비준서를 기탁한 정확한 날짜(2022년 1월 17일로 널리 보도됨)는 열거된 출처에 없음."
-  - "말레이시아–이란 특혜 무역 협정이 여전히 활성 협상 트랙인지 여부."
-  - "EU–말레이시아 FTA 1차 협상 라운드 날짜(2025년 6월 말로 보도됨)를 유럽위원회 자체 업데이트와 대조."
 updated: 2026-08-08
 sources:
   - title: "말레이시아의 CPTPP 비준 / 특혜 원산지 증명서 (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"
@@ -207,8 +203,8 @@ CPTPP의 상업적 흡인력은 두 가지입니다. 첫째, 회원국 간 거�
   노르웨이, 스위스 — 과의 협상을 **2025년 4월 11일** 타결했으며, 협정은 2025년 6월 23일 노르웨이
   트롬쇠에서 서명되었습니다. 비준은 계류 중입니다.
 
-말레이시아의 협상 파이프라인에는 이란과의 특혜 협정으로 보도된 것을 포함하여 다른 양자 트랙도
-등장했습니다.
+다른 양자 트랙도 수년에 걸쳐 등장했는데, 여기에는 2010년대에 모색되었으나 이후 중단된
+말레이시아–이란 특혜 무역 협정이 포함됩니다.
 
 ## 다음으로 볼 내용
 

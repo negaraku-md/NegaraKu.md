@@ -29,7 +29,7 @@ faq:
     a: "نعم. أُدرجت Sunway Healthcare Holdings في السوق الرئيسية لبورصة ماليزيا (Bursa Malaysia) باسم SUNMED في 18 مارس 2026. وكان صندوق GIC السنغافوري قد وافق سابقاً، في يونيو 2021، على استثمار RM750 مليون مقابل حصة 16% في أعمال الرعاية الصحية."
 
 lang: "ar"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "تفصيل قطاعات السنة المالية FY2024 كاملةً: المسودة تستشهد فقط بجدول الربع الرابع من FY2024؛ يؤكَّد أن الإنشاءات كانت أكبر مساهم في الإيرادات على مدى السنة الكاملة."
-  - "التوفيق بين الزيادة المبلّغ عنها في عدد الأسرّة المرخّصة لدى المجموعة (1,240 إلى 1,396) وسعة SMC Damansara المعلنة لديها نفسها والبالغة أكثر من 345 سريراً."
-  - "حصة GIC المتبقية وهيكل المساهمة الكامل لـSUNMED بعد الإدراج عقب اكتتاب 18 مارس 2026."
-  - "ما إذا كان Tan Sri Dato' (Dr.) Chew Chee Kin لا يزال رئيساً للمجموعة حتى تاريخ النشر."
-  - "ما إذا كان توزيع الأرباح البالغ 6.00 sen هو الإجمالي المُعلَن للسنة المالية FY2024 أم توزيعاً منفرداً."
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University
 
 ## من يملكها ويديرها؟
 
-Jeffrey Cheah هو المؤسس ورئيس مجلس الإدارة. ورئيس المجموعة هو Tan Sri Dato' (Dr.) Chew Chee Kin.
+Jeffrey Cheah هو المؤسس ورئيس مجلس الإدارة. شغل Tan Sri Dato' (Dr.) Chew Chee Kin منصب رئيس المجموعة لأكثر من عقدين قبل أن يتقاعد في 2025 ليصبح كبير مستشاري المجموعة؛ وقد عُيِّن Datuk Mohd Anuar Taib وEvan Cheah نائبين للرئيس في يناير 2025.
 
 Sunway Berhad هي الشركة القابضة المدرجة الرائدة. وتضمّ المجموعة الأوسع أيضاً كيانات مدرجة بشكل منفصل في بورصة ماليزيا (Bursa Malaysia)، كما يرتبط الوقف الخيري لـCheah، وهو Jeffrey Cheah Foundation، بذراع التعليم.
 

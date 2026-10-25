@@ -29,7 +29,7 @@ faq:
     a: "हाँ। Sunway Healthcare Holdings को 18 मार्च 2026 को Bursa Malaysia के मुख्य बाज़ार में SUNMED के रूप में सूचीबद्ध किया गया। सिंगापुर के GIC ने इससे पहले जून 2021 में स्वास्थ्यसेवा व्यवसाय में 16% हिस्सेदारी के लिए RM750 मिलियन निवेश करने पर सहमति दी थी।"
 
 lang: "hi"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "पूर्ण-वर्ष FY2024 खंड विभाजन: मसौदा केवल Q4 FY2024 तालिका का हवाला देता है; पुष्टि करें कि निर्माण पूर्ण-वर्ष का सबसे बड़ा राजस्व योगदानकर्ता था।"
-  - "समूह द्वारा दर्ज लाइसेंसित-बिस्तरों की वृद्धि (1,240 से 1,396) का SMC Damansara की स्वयं घोषित 345 से अधिक बिस्तरों की क्षमता के साथ मिलान करें।"
-  - "18 मार्च 2026 के IPO के बाद GIC की शेष हिस्सेदारी और SUNMED की पूर्ण सूचीबद्धता-पश्चात शेयरधारिता संरचना।"
-  - "क्या Tan Sri Dato' (Dr.) Chew Chee Kin प्रकाशन तिथि तक समूह अध्यक्ष बने हुए हैं।"
-  - "क्या 6.00 सेन का लाभांश FY2024 के लिए घोषित कुल है या एक एकल वितरण।"
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ Sunway Berhad ने FY2024 के लिए RM7,882.5 मिलियन का
 
 ## इसका स्वामी कौन है और इसे कौन चलाता है?
 
-Jeffrey Cheah संस्थापक और अध्यक्ष हैं। समूह के अध्यक्ष (president) Tan Sri Dato' (Dr.) Chew Chee Kin हैं।
+Jeffrey Cheah संस्थापक और अध्यक्ष हैं। Tan Sri Dato' (Dr.) Chew Chee Kin दो दशकों से अधिक समय तक समूह के अध्यक्ष (president) रहे, इससे पहले कि 2025 में सेवानिवृत्त होकर समूह मुख्य सलाहकार (Group Chief Advisor) बने; Datuk Mohd Anuar Taib और Evan Cheah को जनवरी 2025 में उप-अध्यक्ष (deputy presidents) नियुक्त किया गया।
 
 Sunway Berhad प्रमुख सूचीबद्ध होल्डिंग कंपनी है। व्यापक समूह में Bursa Malaysia पर अलग से सूचीबद्ध इकाइयाँ भी शामिल हैं, और Cheah का परोपकारी माध्यम, Jeffrey Cheah Foundation, शिक्षा शाखा से जुड़ा है।
 

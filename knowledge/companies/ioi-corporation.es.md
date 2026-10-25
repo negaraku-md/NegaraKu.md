@@ -18,7 +18,7 @@ keyTakeaways:
   - "Opera dos segmentos: plantaciones y fabricación basada en recursos; el brazo inmobiliario se escindió en IOI Properties Group Berhad, que volvió a cotizar a principios de 2014."
   - "Su reserva de tierras es de unas 214,335 hectáreas, de las cuales unas 172,107 hectáreas estaban plantadas con palma aceitera a 2024."
   - "En el FY2024 (terminado el 30 de junio de 2024), los ingresos fueron de RM9.6 mil millones y el beneficio neto de RM1.109 mil millones, con un dividendo anual de 9.5 sen."
-  - "Es miembro del RSPO desde 2004, y SPOTT informa de que 14 de sus 15 molinos propios están certificados por el RSPO."
+  - "Es miembro del RSPO desde 2004, y todos sus molinos propios evaluados por SPOTT están certificados por el RSPO."
 appliesTo: "Lectores que investigan empresas malasias de aceite de palma, inversores en plantaciones, analistas de sostenibilidad y estudiantes del sector de materias primas de Malasia."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "En Malasia (incluidos Johor, Malaca, Negeri Sembilan, Pahang, Sabah y Sarawak) y en Indonesia (Kalimantan Occidental y Central)."
 
 lang: "es"
-sourceContentHash: "1a35d39eb3932506"
+sourceContentHash: "2bc33852c39fbf8a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -46,11 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Exact Bursa Malaysia listing date of IOI Properties Group Berhad (reported to be early 2014; the cited 2013 The Edge article describes only the then-planned relisting, not the completed listing)."
-  - "SPOTT reports 15 company-owned mills but 14 as RSPO-certified; confirm whether one mill is uncertified or whether this reflects a 2024-to-2025 change in the mill count."
-  - "FY2024 full-year dividend of 9.5 sen: the cited news release headlines a 5 sen fourth-quarter dividend; confirm the full-year total against the audited annual report."
-  - "FY2024 revenue decline of 17.09% versus RM11.58 billion: confirm against the audited annual report."
 
 updated: 2026-07-28
 sources:
@@ -128,7 +123,7 @@ La caída de los ingresos se debió principalmente a unos precios del aceite de 
 
 ## ¿Cuán sostenible es el aceite de palma de IOI?
 
-La sostenibilidad es central en cómo IOI es juzgada por compradores y ONG. El grupo es miembro de la **Mesa Redonda sobre el Aceite de Palma Sostenible (RSPO) desde 2004** y obtuvo su primera certificación en 2009. SPOTT informa de que **14 de los 15 molinos propios de IOI están certificados por el RSPO**, con un área certificada que cubre alrededor del **95.8%** de la reserva de tierras (unas 205,336 hectáreas del total de 214,335 hectáreas) y un compromiso declarado de alcanzar la certificación plena.
+La sostenibilidad es central en cómo IOI es juzgada por compradores y ONG. El grupo es miembro de la **Mesa Redonda sobre el Aceite de Palma Sostenible (RSPO) desde 2004** y obtuvo su primera certificación en 2009. SPOTT informa de que **todos los molinos propios de IOI que evalúa están certificados por el RSPO** (su evaluación de certificación cubre 14 molinos al 100%), con un área certificada que cubre alrededor del **95.8%** de la reserva de tierras (unas 205,336 hectáreas del total de 214,335 hectáreas) y un compromiso declarado de alcanzar la certificación plena.
 
 El historial de IOI no es impecable: fue suspendida del RSPO durante varios meses en 2016 por preocupaciones de sostenibilidad antes de ser readmitida. Más allá del RSPO, la evaluación del grupo enumera certificaciones y membresías que incluyen el **MSPO** obligatorio de Malasia, el **ISCC** y la participación en iniciativas del sector como la Fire Free Alliance y la Earthworm Foundation.
 

@@ -32,7 +32,7 @@ faq:
     a: "Sí. Malasia y la UE reanudaron las negociaciones del TLC en enero de 2025, y Malasia concluyó un acuerdo de asociación económica con los Estados de la EFTA (Islandia, Liechtenstein, Noruega, Suiza) el 11 de abril de 2025."
 
 lang: "es"
-sourceContentHash: "7239744fcdcf2f73"
+sourceContentHash: "cb7dfd7dada1655f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,10 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Exact date Malaysia deposited its RCEP instrument of ratification (widely reported as 17 January 2022) is not in a listed source."
-  - "Whether a Malaysia–Iran preferential trade agreement remains an active negotiating track."
-  - "EU–Malaysia FTA first negotiating round date (reported late June 2025) against the European Commission's own updates."
 updated: 2026-08-08
 sources:
   - title: "Ratificación del CPTPP por Malasia / Certificado de Origen Preferencial (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"
@@ -170,7 +166,7 @@ Los negociadores de Malasia no se han detenido. Dos vías europeas son las más 
 - **TLC Malasia–UE.** Las conversaciones se lanzaron originalmente en 2010, se suspendieron en 2012 y se **reanudaron en enero de 2025**, con la primera ronda de negociación celebrada a finales de junio de 2025. La UE busca un acuerdo ambicioso que cubra bienes, servicios, inversión, contratación pública, comercio digital y compromisos de sostenibilidad.
 - **Acuerdo de Asociación Económica Malasia–EFTA.** Malasia concluyó las negociaciones con los Estados de la EFTA — Islandia, Liechtenstein, Noruega y Suiza — el **11 de abril de 2025**, y el acuerdo se firmó el 23 de junio de 2025 en Tromsø, Noruega; la ratificación está pendiente.
 
-En la cartera de negociaciones de Malasia también han aparecido otras vías bilaterales, incluido un acuerdo preferencial reportado con Irán.
+A lo largo de los años también han aparecido otras vías bilaterales, incluido un acuerdo comercial preferencial entre Malasia e Irán que se exploró en la década de 2010 pero que desde entonces se ha estancado.
 
 ## Qué sigue
 

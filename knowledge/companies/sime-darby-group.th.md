@@ -46,11 +46,6 @@ revisions:
     reviewer: null
 
 updated: 2026-07-28
-verificationNeeded:
-  - "วันก่อตั้งของ Guthrie & Co (1821) และ Sime, Darby and Co. (1910) และวันควบรวม Synergy Drive ในเดือนมกราคม 2007 — ให้ยืนยันกับแหล่งข้อมูลหลัก/มรดกของบริษัท; ไม่ได้ดึงมาซ้ำอย่างอิสระในรอบนี้"
-  - "เปอร์เซ็นต์การถือหุ้นปัจจุบันที่แน่นอนของ PNB ในแต่ละบริษัททั้งสาม — ให้ยืนยันจากรายงานประจำปี / เอกสารยื่นต่อ Bursa ล่าสุด"
-  - "ว่า Sime Darby Property เป็นผู้พัฒนาจดทะเบียนที่ 'ใหญ่ที่สุด' รายเดียวในแง่ที่ดินสำรอง หรือ 'หนึ่งในรายใหญ่ที่สุด' — ให้ยืนยันการจัดอันดับและพื้นที่ที่ดินสำรองปัจจุบันจากแหล่งข้อมูลที่น่าเชื่อถือ"
-  - "ว่า Sime Darby Berhad ได้จำหน่ายธุรกิจการค้า โลจิสติกส์ และการดูแลสุขภาพที่คงไว้ในการแยกกิจการปี 2017 ทั้งหมดแล้วหรือไม่ ภายในการเปลี่ยนแบรนด์เดือนพฤศจิกายน 2024"
 sources:
   - title: "ทำเนียบบริษัทจดทะเบียน Bursa Malaysia — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

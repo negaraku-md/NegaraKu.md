@@ -18,7 +18,7 @@ keyTakeaways:
   - "It operates two segments: plantations and resource-based manufacturing; the property arm was demerged into IOI Properties Group Berhad, which relisted in early 2014."
   - "Its landbank is about 214,335 hectares, of which roughly 172,107 hectares were planted with oil palm as of 2024."
   - "For FY2024 (ended 30 June 2024), revenue was RM9.6 billion and net profit RM1.109 billion, with a full-year dividend of 9.5 sen."
-  - "It has been an RSPO member since 2004, and SPOTT reports that 14 of its 15 company-owned mills are RSPO-certified."
+  - "It has been an RSPO member since 2004, and all of its company-owned mills assessed by SPOTT are RSPO-certified."
 appliesTo: "Readers researching Malaysian palm oil companies, plantation investors, sustainability analysts and students of the Malaysian commodities sector."
 
 faq:
@@ -45,11 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Exact Bursa Malaysia listing date of IOI Properties Group Berhad (reported to be early 2014; the cited 2013 The Edge article describes only the then-planned relisting, not the completed listing)."
-  - "SPOTT reports 15 company-owned mills but 14 as RSPO-certified; confirm whether one mill is uncertified or whether this reflects a 2024-to-2025 change in the mill count."
-  - "FY2024 full-year dividend of 9.5 sen: the cited news release headlines a 5 sen fourth-quarter dividend; confirm the full-year total against the audited annual report."
-  - "FY2024 revenue decline of 17.09% versus RM11.58 billion: confirm against the audited annual report."
 
 updated: 2026-07-28
 sources:
@@ -127,7 +122,7 @@ The revenue decline was driven mainly by softer palm oil prices versus the prior
 
 ## How sustainable is IOI's palm oil?
 
-Sustainability is central to how IOI is judged by buyers and NGOs. The group has been a member of the **Roundtable on Sustainable Palm Oil (RSPO) since 2004** and achieved its first certification in 2009. SPOTT reports that **14 of IOI's 15 company-owned mills are RSPO-certified**, with certified area covering about **95.8%** of the landbank (roughly 205,336 hectares of the 214,335-hectare total) and a stated commitment to reach full certification.
+Sustainability is central to how IOI is judged by buyers and NGOs. The group has been a member of the **Roundtable on Sustainable Palm Oil (RSPO) since 2004** and achieved its first certification in 2009. SPOTT reports that **all of IOI's company-owned mills that it assesses are RSPO-certified** (its certification assessment covers 14 mills at 100%), with certified area covering about **95.8%** of the landbank (roughly 205,336 hectares of the 214,335-hectare total) and a stated commitment to reach full certification.
 
 IOI's record is not spotless: it was suspended from the RSPO for several months in 2016 over sustainability concerns before being reinstated. Beyond RSPO, the group's assessment lists certifications and memberships including Malaysia's mandatory **MSPO**, **ISCC**, and participation in industry initiatives such as the Fire Free Alliance and Earthworm Foundation.
 

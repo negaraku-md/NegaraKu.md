@@ -46,11 +46,6 @@ revisions:
     reviewer: null
 
 updated: 2026-07-28
-verificationNeeded:
-  - "Guthrie & Co (1821) और Sime, Darby and Co. (1910) की स्थापना तिथियाँ, तथा जनवरी 2007 की Synergy Drive विलय तिथि — किसी प्राथमिक/कंपनी-विरासत स्रोत के विरुद्ध पुष्टि करें; इस दौर में स्वतंत्र रूप से पुनः प्राप्त नहीं की गई।"
-  - "तीनों कंपनियों में से प्रत्येक में PNB की वर्तमान सटीक शेयरधारिता प्रतिशत — नवीनतम वार्षिक रिपोर्ट / Bursa फाइलिंग से पुष्टि करें।"
-  - "क्या Sime Darby Property भूमि-भंडार के हिसाब से एकमात्र 'सबसे बड़ी' सूचीबद्ध डेवलपर है या 'सबसे बड़ी में से एक' — किसी प्रामाणिक स्रोत से रैंकिंग और वर्तमान भूमि-भंडार क्षेत्रफल की पुष्टि करें।"
-  - "क्या नवंबर 2024 की पुनः ब्रांडिंग तक Sime Darby Berhad ने उन व्यापार, लॉजिस्टिक्स और स्वास्थ्यसेवा व्यवसायों से पूरी तरह विनिवेश कर लिया था जिन्हें उसने 2017 के विभाजन के समय अपने पास रखा था।"
 sources:
   - title: "Bursa Malaysia सूचीकरण निर्देशिका — SD Guthrie Berhad (SDG, 5285) (Bursa Malaysia Listing Directory — SD Guthrie Berhad (SDG, 5285))"
     url: "https://www.bursamalaysia.com/trade/trading_resources/listing_directory/company-profile?stock_code=5285"

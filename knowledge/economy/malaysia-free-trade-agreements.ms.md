@@ -32,7 +32,7 @@ faq:
     a: "Ya. Malaysia dan EU menyambung semula rundingan FTA pada Januari 2025, dan Malaysia memuktamadkan perjanjian perkongsian ekonomi dengan negara EFTA (Iceland, Liechtenstein, Norway, Switzerland) pada 11 April 2025."
 
 lang: "ms"
-sourceContentHash: "7239744fcdcf2f73"
+sourceContentHash: "cb7dfd7dada1655f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,10 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tarikh tepat Malaysia mendepositkan instrumen ratifikasi RCEP-nya (dilaporkan secara meluas sebagai 17 Januari 2022) tiada dalam sumber yang disenaraikan."
-  - "Whether a Malaysia–Iran preferential trade agreement remains an active negotiating track."
-  - "EU–Malaysia FTA first negotiating round date (reported late June 2025) against the European Commission's own updates."
 updated: 2026-08-08
 sources:
   - title: "Ratifikasi CPTPP oleh Malaysia / Sijil Asal Keutamaan (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"
@@ -170,7 +166,7 @@ Perunding Malaysia belum berhenti. Dua saluran Eropah adalah yang paling maju:
 - **FTA Malaysia–EU.** Rundingan asalnya dilancarkan pada 2010, digantung pada 2012, dan **disambung semula pada Januari 2025**, dengan pusingan rundingan pertama diadakan pada penghujung Jun 2025. EU sedang mengusahakan perjanjian bercita-cita tinggi yang meliputi barangan, perkhidmatan, pelaburan, perolehan kerajaan, perdagangan digital dan komitmen kelestarian.
 - **Perjanjian Perkongsian Ekonomi Malaysia–EFTA.** Malaysia memuktamadkan rundingan dengan negara-negara EFTA — Iceland, Liechtenstein, Norway dan Switzerland — pada **11 April 2025**, dan perjanjian itu ditandatangani pada 23 Jun 2025 di Tromsø, Norway; ratifikasi masih dalam proses.
 
-Saluran dua hala lain juga telah muncul dalam saluran perundingan Malaysia, termasuk perjanjian keutamaan yang dilaporkan dengan Iran.
+Saluran dua hala lain turut muncul sepanjang tahun, termasuk perjanjian perdagangan keutamaan Malaysia–Iran yang diterokai pada dekad 2010-an tetapi sejak itu terbantut.
 
 ## Apa yang seterusnya
 

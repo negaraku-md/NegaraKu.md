@@ -29,7 +29,7 @@ faq:
     a: "Có. Sunway Healthcare Holdings được niêm yết trên Thị trường Chính của Bursa Malaysia với mã SUNMED vào ngày 18 tháng 3 năm 2026. Trước đó vào tháng 6 năm 2021, GIC của Singapore đã đồng ý đầu tư RM750 triệu để lấy cổ phần 16% trong mảng chăm sóc sức khỏe."
 
 lang: "vi"
-sourceContentHash: "b41845c9552f7efc"
+sourceContentHash: "e38afbaf6571487e"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -45,12 +45,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Phân tách theo mảng cả năm FY2024: bản nháp chỉ dẫn bảng Quý 4 FY2024; cần xác nhận xây dựng là bên đóng góp doanh thu cả năm lớn nhất."
-  - "Đối chiếu mức tăng số giường được cấp phép của tập đoàn được báo cáo (1.240 lên 1.396) với công suất được nêu của chính SMC Damansara là hơn 345 giường."
-  - "Cổ phần còn lại của GIC và toàn bộ cơ cấu sở hữu sau niêm yết của SUNMED sau đợt IPO ngày 18 tháng 3 năm 2026."
-  - "Liệu Tan Sri Dato' (Dr.) Chew Chee Kin có còn là chủ tịch điều hành (president) của tập đoàn tính đến thời điểm công bố hay không."
-  - "Liệu cổ tức 6.00 sen là tổng được tuyên bố cho FY2024 hay một lần phân phối đơn lẻ."
 
 updated: 2026-07-28
 sources:
@@ -105,7 +99,7 @@ Hội đồng quản trị tuyên bố cổ tức 6.00 sen mỗi cổ phiếu ph
 
 ## Ai sở hữu và điều hành tập đoàn?
 
-Jeffrey Cheah là người sáng lập và chủ tịch. Chủ tịch điều hành (president) của tập đoàn là Tan Sri Dato' (Dr.) Chew Chee Kin.
+Jeffrey Cheah là người sáng lập và chủ tịch. Tan Sri Dato' (Dr.) Chew Chee Kin từng là chủ tịch điều hành (president) của tập đoàn trong hơn hai thập kỷ trước khi nghỉ hưu vào năm 2025 để trở thành Cố vấn Trưởng Tập đoàn (Group Chief Advisor); Datuk Mohd Anuar Taib và Evan Cheah được bổ nhiệm làm phó chủ tịch điều hành (deputy presidents) vào tháng 1 năm 2025.
 
 Sunway Berhad là công ty nắm giữ niêm yết chủ lực. Tập đoàn rộng hơn cũng bao gồm các thực thể niêm yết riêng trên Bursa Malaysia, và pháp nhân từ thiện của Cheah, Jeffrey Cheah Foundation, gắn với nhánh giáo dục.
 

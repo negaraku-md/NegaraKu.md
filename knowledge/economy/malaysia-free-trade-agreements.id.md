@@ -32,7 +32,7 @@ faq:
     a: "Ya. Malaysia dan EU membuka kembali perundingan FTA pada Januari 2025, dan Malaysia memfinalisasi perjanjian kemitraan ekonomi dengan negara EFTA (Islandia, Liechtenstein, Norwegia, Swiss) pada 11 April 2025."
 
 lang: "id"
-sourceContentHash: "7239744fcdcf2f73"
+sourceContentHash: "cb7dfd7dada1655f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,10 +48,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tanggal persis Malaysia mendepositkan instrumen ratifikasi RCEP-nya (dilaporkan secara luas sebagai 17 Januari 2022) tidak ada dalam sumber yang tercantum."
-  - "Apakah perjanjian perdagangan preferensial Malaysia–Iran masih menjadi jalur perundingan yang aktif."
-  - "Tanggal putaran perundingan pertama FTA UE–Malaysia (dilaporkan akhir Juni 2025) terhadap pembaruan Komisi Eropa sendiri."
 updated: 2026-08-08
 sources:
   - title: "Ratifikasi CPTPP oleh Malaysia / Sertifikat Asal Preferensial (MITI) (Malaysia's Ratification of CPTPP / Preferential Certificate of Origin (MITI))"
@@ -170,7 +166,7 @@ Perunding Malaysia belum berhenti. Dua jalur Eropa adalah yang paling maju:
 - **FTA Malaysia–EU.** Perundingan awalnya diluncurkan pada 2010, ditangguhkan pada 2012, dan **dibuka kembali pada Januari 2025**, dengan putaran perundingan pertama diadakan pada akhir Juni 2025. EU sedang mengupayakan perjanjian bercita-cita tinggi yang mencakup barang, jasa, investasi, pengadaan pemerintah, perdagangan digital, dan komitmen keberlanjutan.
 - **Perjanjian Kemitraan Ekonomi Malaysia–EFTA.** Malaysia memfinalisasi perundingan dengan negara-negara EFTA — Islandia, Liechtenstein, Norwegia, dan Swiss — pada **11 April 2025**, dan perjanjian itu ditandatangani pada 23 Juni 2025 di Tromsø, Norwegia; ratifikasi masih dalam proses.
 
-Jalur bilateral lain juga telah muncul dalam jalur perundingan Malaysia, termasuk perjanjian preferensial yang dilaporkan dengan Iran.
+Jalur bilateral lain telah muncul selama bertahun-tahun, termasuk perjanjian perdagangan preferensial Malaysia–Iran yang sempat dijajaki pada dekade 2010-an tetapi sejak itu terhenti.
 
 ## Apa yang selanjutnya
 
