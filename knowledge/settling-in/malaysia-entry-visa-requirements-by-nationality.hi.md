@@ -84,7 +84,7 @@ sources:
 relations:
   - { rel: "administered-by", to: "immigration-department-of-malaysia" }
   - { rel: "related-to", to: "malaysia-digital-arrival-card-mdac" }
-related: []
+related: ["moving-to-malaysia-first-steps", ]
 keywords: ["मलेशिया वीज़ा", "मलेशिया वीज़ा-मुक्त देश", "मलेशिया eVisa", "Malaysia Digital Arrival Card", "सामाजिक यात्रा तस्दीक", "malaysia visa", "visa-free countries malaysia", "malaysia evisa", "eNTRI", "malaysia digital arrival card", "social visit pass"]
 ---
 

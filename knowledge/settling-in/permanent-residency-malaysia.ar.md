@@ -82,7 +82,7 @@ relations:
   - { rel: "governs", to: "immigration-act-1959-63" }
   - { rel: "compares-with", to: "malaysia-my-second-home-mm2h" }
   - { rel: "related-to", to: "malaysian-citizenship" }
-related: []
+related: ["moving-to-malaysia-first-steps", ]
 keywords: ["الإقامة الدائمة في ماليزيا", "permanent residency Malaysia", "MyPR", "بطاقة الهوية الحمراء", "تصريح الدخول", "Entry Permit Malaysia", "Immigration Act 1959/63", "Regulation 4 Immigration Regulations 1963"]
 ---
 

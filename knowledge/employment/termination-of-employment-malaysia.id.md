@@ -143,7 +143,7 @@ sources:
 
 entity: "Termination of employment"
 relations: []
-related: []
+related: ["labour-law-map-malaysia", ]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
 ---
 

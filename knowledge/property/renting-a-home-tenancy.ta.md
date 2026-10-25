@@ -72,7 +72,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
   - { rel: "related-to", to: "electricity-tnb-account" }
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
-related: ["finding-a-rental", "electricity-tnb-account"]
+related: ["cost-of-living-overview", "finding-a-rental", "electricity-tnb-account"]
 keywords: ["tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
 faq:
   - q: மலேசியாவில் வாடகைதாரர்களைப் பாதுகாக்கும் குத்தகைச் சட்டம் (Tenancy Act) ஏதேனும் உள்ளதா?

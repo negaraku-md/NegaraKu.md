@@ -57,7 +57,7 @@ relations:
   - { rel: "related-to", to: "civil-and-syariah-courts" }
   - { rel: "related-to", to: "constitutional-amendment" }
   - { rel: "related-to", to: "parliament" }
-related: ["federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
+related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["الجدول التاسع الدستور الاتحادي", "Ninth Schedule Federal Constitution", "القائمة الاتحادية قائمة الولايات القائمة المشتركة", "تقسيم السلطة التشريعية في ماليزيا", "المادة 74 من الدستور", "المادة 77 السلطة المتبقية", "القائمة I القائمة II القائمة III", "ملحق صباح وساراواك التشريعي", "Jadual Kesembilan", "من يسنّ القانون في ماليزيا"]
 ---
 

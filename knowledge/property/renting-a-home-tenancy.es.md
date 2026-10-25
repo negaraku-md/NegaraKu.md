@@ -72,7 +72,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
   - { rel: "related-to", to: "electricity-tnb-account" }
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
-related: ["finding-a-rental", "electricity-tnb-account"]
+related: ["cost-of-living-overview", "finding-a-rental", "electricity-tnb-account"]
 keywords: ["contrato de arrendamiento Malasia", "depósito de alquiler Malasia", "depósito de reserva", "fianza", "depósito de servicios", "impuesto de timbre contrato de arrendamiento", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "sin ley de arrendamiento Malasia", "e-Duti Setem"]
 faq:
   - q: ¿Existe una Ley de Arrendamiento (Tenancy Act) que proteja a los inquilinos en Malasia?

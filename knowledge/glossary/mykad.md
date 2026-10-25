@@ -53,7 +53,7 @@ entity: "MyKad"
 wikidata: "Q985846"
 relations:
   - { rel: "administered-by", to: "jpn" }
-related: []
+related: ["moving-to-malaysia-first-steps", ]
 keywords: ["MyKad", "kad pengenalan Malaysia", "IC Malaysia", "JPN MyKad", "MyKad umur 12"]
 ---
 

@@ -70,7 +70,7 @@ relations:
   - { rel: "compares-with", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
-related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
+related: ["moving-to-malaysia-first-steps", "employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "expatriate work visa", "i-Kad", "dependant pass malaysia", "employment pass categories", "ePASS Malaysia"]
 faq:
   - q: 제 취업 패스(Employment Pass)를 제가 직접 신청할 수 있습니까?

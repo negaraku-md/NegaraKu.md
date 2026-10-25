@@ -82,7 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "governs", to: "federal-constitution-part-iii-citizenship" }
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
-related: []
+related: ["moving-to-malaysia-first-steps", ]
 keywords: ["الجنسية", "التسجيل", "المادة 15", "الزوج الأجنبي", "الدستور الاتحادي", "citizenship by registration", "Article 15", "Federal Constitution", "JPN", "مواطن ماليزي"]
 ---
 

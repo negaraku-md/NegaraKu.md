@@ -62,7 +62,7 @@ sources:
 entity: "Property tenure and title types in Malaysia"
 relations:
   - { rel: "explained-in", to: "national-land-code" }
-related: ["national-land-code"]
+related: ["buying-a-home-process", "national-land-code"]
 keywords: ["الملكية الحرّة مقابل الحقّ الإيجاري في ماليزيا", "السند الطبقي في ماليزيا", "السند الفردي مقابل السند الطبقي", "العقار التابعي في ماليزيا", "هيئة الإدارة في ماليزيا", "National Land Code tenure", "Strata Titles Act 1985", "ضريبة القطعة في ماليزيا", "freehold vs leasehold Malaysia"]
 ---
 

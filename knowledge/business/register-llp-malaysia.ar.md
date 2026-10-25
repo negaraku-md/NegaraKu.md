@@ -109,7 +109,7 @@ relations:
   - { rel: "compares-with", to: "llp-vs-sdn-bhd" }
   - { rel: "related-to", to: "register-enterprise-ezbiz" }
   - { rel: "related-to", to: "ssm-fees-malaysia" }
-related: ["register-sdn-bhd", "company-secretary-malaysia", "ssm-glossary"]
+related: ["business-structures-malaysia", "register-sdn-bhd", "company-secretary-malaysia", "ssm-glossary"]
 keywords:
   - "تسجيل LLP ماليزيا"
   - "register LLP Malaysia"

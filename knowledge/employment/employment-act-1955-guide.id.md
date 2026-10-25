@@ -104,7 +104,7 @@ sources:
 
 entity: "Employment Act 1955"
 relations: []
-related: []
+related: ["labour-law-map-malaysia", ]
 keywords: ["employment act 1955", "employment act malaysia", "act 265", "employment amendment act 2022", "malaysia labour law", "45 hour week malaysia"]
 ---
 

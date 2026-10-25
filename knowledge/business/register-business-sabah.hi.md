@@ -122,7 +122,7 @@ relations:
   - { rel: "compares-with", to: "register-enterprise-ezbiz" }
   - { rel: "related-to", to: "register-business-sarawak" }
   - { rel: "administered-by", to: "dbkk" }
-related: ["register-sdn-bhd", "sole-prop-vs-sdn-bhd", "ssm-glossary"]
+related: ["business-structures-malaysia", "register-sdn-bhd", "sole-prop-vs-sdn-bhd", "ssm-glossary"]
 keywords:
   - "सबाह में व्यवसाय पंजीकरण"
   - "सबाह व्यापार लाइसेंस"

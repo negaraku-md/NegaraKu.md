@@ -67,7 +67,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "requires", to: "mykad" }
   - { rel: "related-to", to: "imigresen" }
-related: ["bank-negara-malaysia", "mykad", "imigresen"]
+related: ["moving-to-malaysia-first-steps", "bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["open bank account Malaysia", "bank account foreigner Malaysia", "documents to open bank account Malaysia", "Employment Pass bank account", "PIDM deposit insurance", "CIMB Maybank account opening requirements", "MM2H bank account"]
 faq:
   - q: Puis-je ouvrir un compte bancaire malaisien avec un visa de touriste ?

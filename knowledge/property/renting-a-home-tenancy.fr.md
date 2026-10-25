@@ -72,7 +72,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
   - { rel: "related-to", to: "electricity-tnb-account" }
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
-related: ["finding-a-rental", "electricity-tnb-account"]
+related: ["cost-of-living-overview", "finding-a-rental", "electricity-tnb-account"]
 keywords: ["contrat de bail Malaisie", "dépôt de location Malaisie", "dépôt de réservation", "dépôt de garantie", "dépôt pour services", "droit de timbre contrat de bail", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "pas de loi sur les baux Malaisie", "e-Duti Setem"]
 faq:
   - q: Existe-t-il une loi sur les baux (Tenancy Act) qui protège les locataires en Malaisie ?

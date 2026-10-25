@@ -60,7 +60,7 @@ sources:
 entity: "Property tenure and title types in Malaysia"
 relations:
   - { rel: "explained-in", to: "national-land-code" }
-related: ["national-land-code"]
+related: ["buying-a-home-process", "national-land-code"]
 keywords: ["freehold vs leasehold Malaysia", "strata title Malaysia", "individual title vs strata title", "landed property Malaysia", "management corporation Malaysia", "National Land Code tenure", "Strata Titles Act 1985", "parcel tax Malaysia"]
 ---
 

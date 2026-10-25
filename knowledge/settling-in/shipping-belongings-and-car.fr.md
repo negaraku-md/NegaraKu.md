@@ -58,7 +58,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
   - { rel: "related-to", to: "road-tax-renewal" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }
-related: ["driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
+related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["expédier des biens en Malaisie", "importer des effets domestiques douanes Malaisie", "formulaire douanier K1 Malaisie", "importer une voiture en Malaisie", "Approved Permit AP Malaisie", "MITI AP importation véhicule", "JPJ immatriculation véhicule importé", "PUSPAKOM voiture importée", "expatrié déménagement en Malaisie voiture"]
 ---
 

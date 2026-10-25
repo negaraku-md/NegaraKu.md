@@ -106,7 +106,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
   - { rel: "governs", to: "employment-act-1955" }
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
-related: ["employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
+related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["gaji minimum Malaysia 2026", "RM1700 gaji minimum", "gaji minimum sejam Malaysia", "Akta Kerja seksyen 19", "potongan sah seksyen 24", "Perintah Gaji Minimum 2024"]
 ---
 

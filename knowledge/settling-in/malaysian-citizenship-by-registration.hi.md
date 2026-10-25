@@ -82,7 +82,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "governs", to: "federal-constitution-part-iii-citizenship" }
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
-related: []
+related: ["moving-to-malaysia-first-steps", ]
 keywords: ["नागरिकता", "पंजीकरण", "अनुच्छेद 15", "विदेशी जीवनसाथी", "संघीय संविधान", "citizenship by registration", "Article 15", "Federal Constitution", "JPN", "मलेशियाई नागरिक"]
 ---
 

@@ -68,7 +68,7 @@ entity: "DE Rantau Nomad Pass"
 relations:
   - { rel: "administered-by", to: "mdec" }
   - { rel: "compares-with", to: "employment-pass" }
-related: ["employment-pass", "professional-visit-pass"]
+related: ["moving-to-malaysia-first-steps", "employment-pass", "professional-visit-pass"]
 keywords: ["DE Rantau", "تأشيرة الرحّالة الرقميين ماليزيا", "تصريح الرحّالة", "digital nomad visa Malaysia", "MDEC", "Professional Visit Pass", "العمل عن بُعد في ماليزيا", "remote work Malaysia"]
 ---
 

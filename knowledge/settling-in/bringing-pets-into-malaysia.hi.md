@@ -62,7 +62,7 @@ relations:
   - { rel: "administered-by", to: "maqis" }
   - { rel: "administered-by", to: "department-of-veterinary-services" }
   - { rel: "part-of", to: "settling-in" }
-related: ["dependant-social-visit-passes"]
+related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["मलेशिया में पालतू जानवर लाना", "MAQIS आयात परमिट", "DVS पालतू आयात नियम", "मलेशिया कुत्ता बिल्ली संगरोध", "मलेशिया प्रतिबंधित कुत्ता नस्लें", "ISO microchip pet import"]
 ---
 

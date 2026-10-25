@@ -90,7 +90,7 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
   - { rel: "related-to", to: "ringgit" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["inflation-cpi", "ringgit", "gdp-overview"]
+related: ["cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["دعم الوقود في ماليزيا", "آلية التسعير التلقائي", "APM", "سعر النفط", "BUDI95", "BUDI Diesel", "الدعم الموجَّه", "سعر RON95", "SKDS SKPS"]
 ---
 

@@ -53,7 +53,7 @@ entity: "Employment Act 1955 First Schedule"
 relations:
   - { rel: "part-of", to: "employment-act-1955-guide" }
   - { rel: "administered-by", to: "jtksm" }
-related: ["employment-act-1955-guide", "working-hours-overtime-malaysia"]
+related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["रोज़गार अधिनियम कवरेज", "रोज़गार अधिनियम RM4000", "रोज़गार अधिनियम RM2000", "रोज़गार अधिनियम मलेशिया किसे समेटता है", "First Schedule रोज़गार अधिनियम", "Employment Act coverage"]
 ---
 

@@ -81,7 +81,7 @@ relations:
   - { rel: "administered-by", to: "jabatan-pendaftaran-negara" }
   - { rel: "governs", to: "federal-constitution-part-iii-citizenship" }
   - { rel: "compares-with", to: "malaysian-citizenship-by-naturalisation" }
-related: []
+related: ["moving-to-malaysia-first-steps", ]
 keywords: ["kewarganegaraan", "pendaftaran", "Perkara 15", "pasangan asing", "Perlembagaan Persekutuan", "JPN", "warganegara Malaysia"]
 ---
 

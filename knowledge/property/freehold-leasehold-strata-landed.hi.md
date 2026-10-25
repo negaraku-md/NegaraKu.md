@@ -62,7 +62,7 @@ sources:
 entity: "Property tenure and title types in Malaysia"
 relations:
   - { rel: "explained-in", to: "national-land-code" }
-related: ["national-land-code"]
+related: ["buying-a-home-process", "national-land-code"]
 keywords: ["फ्रीहोल्ड बनाम लीज़होल्ड मलेशिया", "स्ट्रैटा सनद मलेशिया", "व्यक्तिगत सनद बनाम स्ट्रैटा सनद", "लैंडेड संपत्ति मलेशिया", "प्रबंधन निगम मलेशिया", "National Land Code tenure", "Strata Titles Act 1985", "पार्सल कर मलेशिया", "freehold vs leasehold Malaysia"]
 ---
 

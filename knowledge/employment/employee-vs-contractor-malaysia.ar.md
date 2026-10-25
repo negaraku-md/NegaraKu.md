@@ -82,7 +82,7 @@ relations:
   - { rel: "compares-with", to: "gig-workers-act-2025" }
   - { rel: "governs", to: "employment-contract-malaysia" }
   - { rel: "related-to", to: "socso-eis-employer-guide" }
-related: ["gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
+related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["الموظف مقابل المقاول ماليزيا", "المقاول المستقل ماليزيا", "تصنيف العامل ماليزيا", "contract for service vs contract of service", "تصنيف عامل الوظائف المؤقتة ماليزيا", "employee vs contractor malaysia"]
 ---
 

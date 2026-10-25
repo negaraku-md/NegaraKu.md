@@ -193,7 +193,7 @@ relations:
   - { rel: "explained-in", to: "socso-eis-employer-guide" }
   - { rel: "explained-in", to: "pcb-mtd-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
-related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
+related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["conformité de la paie Malaisie", "payroll compliance Malaysia", "délai cotisation légale Malaisie", "date limite EPF SOCSO EIS PCB", "obligations de paie de l'employeur Malaisie", "délai prélèvement HRD Corp"]
 ---
 

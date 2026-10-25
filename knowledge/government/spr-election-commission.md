@@ -70,7 +70,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
   - { rel: "related-to", to: "majlis-raja-raja" }
-related: ["federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
+related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["Suruhanjaya Pilihan Raya", "SPR", "Election Commission", "Perkara 113", "Perkara 114", "Perlembagaan Persekutuan", "persempadanan semula", "daftar pemilih", "Jadual Ketiga Belas"]
 ---
 

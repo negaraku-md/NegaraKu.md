@@ -77,7 +77,7 @@ entity: "Labour Ordinances of Sabah and Sarawak"
 relations:
   - { rel: "compares-with", to: "employment-act-1955-guide" }
   - { rel: "administered-by", to: "employment" }
-related: ["employment-act-1955-guide", "employment-act-coverage"]
+related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage"]
 keywords: ["ordinan buruh sabah", "ordinan buruh sarawak", "bab 67", "bab 76", "undang-undang penggajian malaysia timur", "jtk sabah", "jtk sarawak"]
 ---
 

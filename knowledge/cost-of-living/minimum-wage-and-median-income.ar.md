@@ -61,7 +61,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
   - { rel: "related-to", to: "unemployment-labour-force" }
   - { rel: "part-of", to: "malaysia" }
-related: ["minimum-wage-malaysia", "unemployment-labour-force", "gdp-overview"]
+related: ["cost-of-living-overview", "minimum-wage-malaysia", "unemployment-labour-force", "gdp-overview"]
 keywords: ["الحدّ الأدنى للأجور ماليزيا", "Malaysia minimum wage", "gaji minimum Malaysia", "الراتب الوسيط ماليزيا", "Malaysia median salary", "الدخل الوسيط ماليزيا", "RM1700 minimum wage", "دخل الأسرة DOSM", "الراتب الماليزي النمطي"]
 ---
 

@@ -71,7 +71,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
   - { rel: "related-to", to: "majlis-raja-raja" }
-related: ["federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
+related: ["three-tiers-of-government", "federal-constitution", "parliament", "dewan-rakyat", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["निर्वाचन आयोग", "Suruhanjaya Pilihan Raya", "Election Commission", "SPR", "अनुच्छेद 113", "अनुच्छेद 114", "Perkara 113", "Perkara 114", "संघीय संविधान", "Perlembagaan Persekutuan", "परिसीमन", "मतदाता सूची", "तेरहवीं अनुसूची", "Jadual Ketiga Belas"]
 ---
 

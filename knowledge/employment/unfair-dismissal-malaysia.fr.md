@@ -105,7 +105,7 @@ relations:
   - { rel: "administered-by", to: "jppm" }
   - { rel: "related-to", to: "termination-of-employment-malaysia" }
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
-related: ["termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
+related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["licenciement abusif malaisie", "article 20 loi relations professionnelles", "60 jours dépôt licenciement", "tribunal du travail malaisie", "plafond arriérés de salaire 24 mois", "indemnisation tenant lieu de réintégration", "unfair dismissal malaysia", "section 20 industrial relations act"]
 ---
 

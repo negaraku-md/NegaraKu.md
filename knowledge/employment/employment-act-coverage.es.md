@@ -53,7 +53,7 @@ entity: "Employment Act 1955 First Schedule"
 relations:
   - { rel: "part-of", to: "employment-act-1955-guide" }
   - { rel: "administered-by", to: "jtksm" }
-related: ["employment-act-1955-guide", "working-hours-overtime-malaysia"]
+related: ["labour-law-map-malaysia", "employment-act-1955-guide", "working-hours-overtime-malaysia"]
 keywords: ["cobertura ley de empleo", "ley de empleo RM4000", "ley de empleo RM2000", "a quién cubre la ley de empleo malasia", "primer anexo ley de empleo", "Employment Act coverage"]
 ---
 

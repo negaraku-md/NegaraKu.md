@@ -55,7 +55,7 @@ entity: "Malaysia Consumer Price Index"
 relations:
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["gdp-overview"]
+related: ["cost-of-living-overview", "gdp-overview"]
 keywords: ["मलेशिया मुद्रास्फीति दर", "CPI मलेशिया", "kadar inflasi Malaysia", "Indeks Harga Pengguna", "मलेशिया जीवन-यापन की लागत"]
 ---
 

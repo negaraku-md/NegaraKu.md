@@ -71,7 +71,7 @@ relations:
   - { rel: "compares-with", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
-related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
+related: ["moving-to-malaysia-first-steps", "employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "تأشيرة عمل المغترب", "i-Kad", "تصريح العمل ماليزيا", "فئات تصريح العمل", "ePASS Malaysia"]
 faq:
   - q: هل يمكنني التقدّم بطلب الحصول على تصريح العمل (Employment Pass) الخاص بي بنفسي؟

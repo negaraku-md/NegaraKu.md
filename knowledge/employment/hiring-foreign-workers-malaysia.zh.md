@@ -143,7 +143,7 @@ relations:
   - { rel: "requires", to: "worker-accommodation-act-446" }
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
   - { rel: "compares-with", to: "employment-pass-malaysia" }
-related: ["worker-accommodation-act-446", "employment-pass-malaysia"]
+related: ["labour-law-map-malaysia", "worker-accommodation-act-446", "employment-pass-malaysia"]
 keywords: ["hiring foreign workers malaysia", "section 60k", "plks", "eppax", "fwcms", "fomema", "visa dengan rujukan", "foreign worker quota malaysia"]
 ---
 

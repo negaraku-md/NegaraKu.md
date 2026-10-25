@@ -56,7 +56,7 @@ relations:
   - { rel: "related-to", to: "civil-and-syariah-courts" }
   - { rel: "related-to", to: "constitutional-amendment" }
   - { rel: "related-to", to: "parliament" }
-related: ["federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
+related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["Ninth Schedule Federal Constitution", "Federal List State List Concurrent List", "division of legislative power Malaysia", "Article 74 Federal Constitution", "Article 77 residual power", "List I List II List III Malaysia", "Sabah Sarawak legislative supplement", "Jadual Kesembilan", "who can make law Malaysia"]
 ---
 

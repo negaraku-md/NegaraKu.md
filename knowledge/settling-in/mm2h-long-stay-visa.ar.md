@@ -76,7 +76,7 @@ relations:
   - { rel: "requires", to: "imigresen" }
   - { rel: "compares-with", to: "malaysia-business-visa-comparison" }
   - { rel: "related-to", to: "opening-bank-account" }
-related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
+related: ["moving-to-malaysia-first-steps", "imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "تأشيرة الإقامة الطويلة", "متطلبات MM2H", "فئات MM2H", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "الوديعة الثابتة", "شراء عقار MM2H"]
 faq:
   - q: هل يمكنني العمل أو إدارة عمل تجاري ببطاقة MM2H؟

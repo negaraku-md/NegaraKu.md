@@ -193,7 +193,7 @@ relations:
   - { rel: "explained-in", to: "socso-eis-employer-guide" }
   - { rel: "explained-in", to: "pcb-mtd-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
-related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
+related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["الامتثال لكشوف الرواتب ماليزيا", "payroll compliance Malaysia", "موعد الاشتراك القانوني ماليزيا", "statutory contribution deadline Malaysia", "موعد استحقاق EPF SOCSO EIS PCB", "التزامات صاحب العمل في كشوف الرواتب", "موعد رسم HRD Corp"]
 ---
 

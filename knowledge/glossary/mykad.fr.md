@@ -54,7 +54,7 @@ entity: "MyKad"
 wikidata: "Q985846"
 relations:
   - { rel: "administered-by", to: "jpn" }
-related: []
+related: ["moving-to-malaysia-first-steps", ]
 keywords: ["MyKad", "carte d'identité de Malaisie", "IC Malaisie", "JPN MyKad", "MyKad 12 ans"]
 ---
 

@@ -72,7 +72,7 @@ relations:
   - { rel: "related-to", to: "mykad" }
   - { rel: "related-to", to: "employment-pass" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }
-related: ["jpn", "mykad", "employment-pass", "dependant-social-visit-passes", "registering-a-birth"]
+related: ["moving-to-malaysia-first-steps", "jpn", "mykad", "employment-pass", "dependant-social-visit-passes", "registering-a-birth"]
 keywords:
   - "MyKad Malaysia"
   - "MyPR pemastautin tetap"

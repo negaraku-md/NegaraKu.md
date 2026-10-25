@@ -65,7 +65,7 @@ relations:
   - { rel: "administered-by", to: "mcmc" }
   - { rel: "requires", to: "mykad" }
   - { rel: "related-to", to: "imigresen" }
-related: ["mykad", "imigresen"]
+related: ["moving-to-malaysia-first-steps", "mykad", "imigresen"]
 keywords: ["شريحة الهاتف المحمول في ماليزيا", "تسجيل الشريحة المدفوعة مسبقًا في ماليزيا", "mobile sim malaysia", "MCMC sim registration", "postpaid vs prepaid malaysia", "شراء شريحة في ماليزيا للأجنبي", "CelcomDigi Maxis U Mobile"]
 ---
 

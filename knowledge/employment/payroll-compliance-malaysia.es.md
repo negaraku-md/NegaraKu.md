@@ -193,7 +193,7 @@ relations:
   - { rel: "explained-in", to: "socso-eis-employer-guide" }
   - { rel: "explained-in", to: "pcb-mtd-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
-related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
+related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["cumplimiento de nómina Malasia", "payroll compliance Malaysia", "plazo aportación estatutaria Malasia", "fecha límite EPF SOCSO EIS PCB", "obligaciones de nómina del empleador Malasia", "plazo gravamen HRD Corp"]
 ---
 

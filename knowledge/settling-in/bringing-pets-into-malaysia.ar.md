@@ -61,7 +61,7 @@ relations:
   - { rel: "administered-by", to: "maqis" }
   - { rel: "administered-by", to: "department-of-veterinary-services" }
   - { rel: "part-of", to: "settling-in" }
-related: ["dependant-social-visit-passes"]
+related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["إدخال الحيوانات الأليفة إلى ماليزيا", "تصريح استيراد MAQIS", "قواعد استيراد الحيوانات DVS", "حجر الكلاب والقطط في ماليزيا", "سلالات الكلاب المقيدة في ماليزيا", "ISO microchip pet import"]
 ---
 

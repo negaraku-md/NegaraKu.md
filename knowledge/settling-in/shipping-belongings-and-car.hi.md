@@ -58,7 +58,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
   - { rel: "related-to", to: "road-tax-renewal" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }
-related: ["driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
+related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["मलेशिया में सामान भेजना", "घरेलू सामान आयात मलेशिया जकात", "जकात फॉर्म K1 मलेशिया", "मलेशिया में कार आयात", "Approved Permit AP मलेशिया", "MITI AP वाहन आयात", "JPJ आयात वाहन पंजीकरण", "PUSPAKOM आयातित कार", "प्रवासी मलेशिया स्थानांतरण कार"]
 ---
 

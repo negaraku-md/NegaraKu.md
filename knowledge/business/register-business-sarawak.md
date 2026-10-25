@@ -128,7 +128,7 @@ relations:
   - { rel: "compares-with", to: "register-enterprise-ezbiz" }
   - { rel: "related-to", to: "register-business-sabah" }
   - { rel: "part-of", to: "sarawak-business-guide" }
-related: ["register-sdn-bhd", "sole-prop-vs-sdn-bhd", "ssm-glossary", "register-business-sabah"]
+related: ["business-structures-malaysia", "register-sdn-bhd", "sole-prop-vs-sdn-bhd", "ssm-glossary", "register-business-sabah"]
 keywords:
   - "daftar perniagaan Sarawak"
   - "business registration Sarawak"

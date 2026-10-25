@@ -81,7 +81,7 @@ wikidata: "Q5260346"
 relations:
   - { rel: "governs", to: "employment-pass" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }
-related: ["employment-pass", "dependant-social-visit-passes", "student-pass"]
+related: ["moving-to-malaysia-first-steps", "employment-pass", "dependant-social-visit-passes", "student-pass"]
 keywords: ["ओवरस्टे मलेशिया", "आव्रजन ब्लैकलिस्ट", "स्पेशल पास", "Immigration Act 1959/63", "कंपाउंड जुर्माना", "पुनः-प्रवेश प्रतिबंध", "section 15", "Overstay Management Programme"]
 ---
 

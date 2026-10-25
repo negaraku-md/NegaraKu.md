@@ -71,7 +71,7 @@ relations:
   - { rel: "compares-with", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
-related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
+related: ["moving-to-malaysia-first-steps", "employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "visa de travail pour expatriés", "i-Kad", "dependant pass malaisie", "catégories de l'employment pass", "ePASS Malaysia"]
 faq:
   - q: Puis-je demander moi-même mon permis de travail (Employment Pass) ?

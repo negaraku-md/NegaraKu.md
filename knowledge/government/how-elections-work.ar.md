@@ -87,7 +87,7 @@ relations:
   - { rel: "explained-in", to: "federal-constitution" }
   - { rel: "related-to", to: "dewan-rakyat" }
   - { rel: "related-to", to: "parliament" }
-related: ["dewan-rakyat", "parliament", "federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja"]
+related: ["three-tiers-of-government", "dewan-rakyat", "parliament", "federal-constitution", "yang-di-pertuan-agong", "majlis-raja-raja"]
 keywords: ["الانتخابات الماليزية", "pilihan raya Malaysia", "first-past-the-post", "الدوائر الانتخابية", "لجنة الانتخابات", "Suruhanjaya Pilihan Raya", "SPR", "Dewan Rakyat", "المجلس التشريعي للولاية", "المادة 113", "المادة 119", "أهلية الناخب", "how Malaysian elections work"]
 ---
 

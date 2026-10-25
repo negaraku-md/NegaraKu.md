@@ -87,7 +87,7 @@ entity: "Overtime under the Employment Act 1955"
 relations:
   - { rel: "part-of", to: "employment-act-1955-guide" }
   - { rel: "administered-by", to: "jtksm" }
-related: ["employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
+related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "minimum-wage-malaysia"]
 keywords: ["मलेशिया ओवरटाइम वेतन", "ओवरटाइम दर", "45-घंटे का सप्ताह", "विश्राम-दिवस वेतन", "सार्वजनिक-अवकाश वेतन", "overtime pay malaysia", "104 hours overtime", "Employment Act 1955"]
 ---
 

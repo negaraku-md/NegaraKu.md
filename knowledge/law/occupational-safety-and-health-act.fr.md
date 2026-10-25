@@ -78,7 +78,7 @@ wikidata: "Q7075788"
 relations:
   - { rel: "administered-by", to: "department-of-occupational-safety-and-health" }
   - { rel: "supersedes", to: "factories-and-machinery-act-1967" }
-related: []
+related: ["labour-law-map-malaysia", ]
 keywords: ["OSHA 1994", "Akta 514", "tanggungjawab majikan", "DOSH", "évaluation des risques", "JKKP 6", "sécurité au travail"]
 ---
 

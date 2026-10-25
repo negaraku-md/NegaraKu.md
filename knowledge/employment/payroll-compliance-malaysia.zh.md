@@ -185,7 +185,7 @@ sources:
 
 entity: "Malaysian statutory payroll compliance"
 relations: []
-related: []
+related: ["labour-law-map-malaysia", ]
 keywords: ["payroll compliance Malaysia", "statutory contribution deadline Malaysia", "EPF SOCSO EIS PCB due date", "employer payroll obligations Malaysia", "HRD Corp levy deadline"]
 ---
 

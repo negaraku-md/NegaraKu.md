@@ -76,7 +76,7 @@ relations:
   - { rel: "requires", to: "imigresen" }
   - { rel: "compares-with", to: "malaysia-business-visa-comparison" }
   - { rel: "related-to", to: "opening-bank-account" }
-related: ["imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
+related: ["moving-to-malaysia-first-steps", "imigresen", "malaysia-business-visa-comparison", "opening-bank-account"]
 keywords: ["MM2H", "Malaysia My Second Home", "MM2H visa", "MM2H requirements", "MM2H tiers", "MM2H Platinum Gold Silver SEZ", "long stay visa Malaysia", "MM2H fixed deposit", "MM2H property purchase", "MM2H pass duration"]
 faq:
   - q: Tôi có thể làm việc hoặc kinh doanh với thẻ MM2H không?

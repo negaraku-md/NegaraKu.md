@@ -70,7 +70,7 @@ relations:
   - { rel: "compares-with", to: "employment-pass" }
   - { rel: "part-of", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }
-related: ["employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
+related: ["moving-to-malaysia-first-steps", "employment-pass", "work-passes-malaysia", "dependant-social-visit-passes", "imigresen"]
 keywords: ["professional visit pass malaysia", "pvp malaysia", "pvp vs employment pass", "esd professional visit pass", "myxpats pvp", "foreign expert pass malaysia", "expert transfer pass malaysia", "short term work pass malaysia"]
 ---
 

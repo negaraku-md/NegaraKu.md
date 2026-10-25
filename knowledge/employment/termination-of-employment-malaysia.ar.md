@@ -148,7 +148,7 @@ relations:
   - { rel: "explained-in", to: "domestic-inquiry-malaysia" }
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
   - { rel: "related-to", to: "retrenchment-malaysia" }
-related: ["domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
+related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["إنهاء العمل في ماليزيا", "مدة الإشعار في ماليزيا", "التوظيف بالإرادة المنفردة في ماليزيا", "الدفع بدل الإشعار", "سبب أو عذر عادل", "الراتب النهائي بعد الاستقالة في ماليزيا", "المادة 12 قانون العمل", "termination of employment malaysia", "section 12 employment act"]
 ---
 

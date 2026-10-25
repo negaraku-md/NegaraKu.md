@@ -105,7 +105,7 @@ relations:
   - { rel: "administered-by", to: "jppm" }
   - { rel: "related-to", to: "termination-of-employment-malaysia" }
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
-related: ["termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
+related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["मलेशिया अनुचित बर्खास्तगी", "धारा 20 औद्योगिक संबंध अधिनियम", "60 दिन बर्खास्तगी दाखिल", "मलेशिया औद्योगिक न्यायालय", "बकाया वेतन सीमा 24 महीने", "पुनर्नियुक्ति के बदले मुआवज़ा", "unfair dismissal malaysia", "section 20 industrial relations act"]
 ---
 

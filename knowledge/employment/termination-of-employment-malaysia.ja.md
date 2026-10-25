@@ -147,7 +147,7 @@ relations:
   - { rel: "explained-in", to: "domestic-inquiry-malaysia" }
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
   - { rel: "related-to", to: "retrenchment-malaysia" }
-related: ["domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
+related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["termination of employment malaysia", "notice period malaysia", "at will employment malaysia", "payment in lieu of notice", "just cause or excuse", "final salary after resignation malaysia", "section 12 employment act"]
 ---
 

@@ -79,7 +79,7 @@ relations:
   - { rel: "related-to", to: "foreign-worker-levy-malaysia" }
   - { rel: "related-to", to: "jpn" }
   - { rel: "related-to", to: "rmcd-kastam" }
-related: ["work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
+related: ["moving-to-malaysia-first-steps", "work-passes-malaysia", "employment-pass-malaysia", "hiring-foreign-workers-malaysia", "foreign-worker-levy-malaysia", "jpn", "rmcd-kastam"]
 keywords: ["دائرة الهجرة الماليزية", "Jabatan Imigresen Malaysia", "JIM", "imigresen", "جواز سفر ماليزي", "تأشيرة ماليزيا", "تصريح الزيارة الاجتماعية", "إذن الدخول", "ESD", "MDAC", "imi.gov.my"]
 ---
 

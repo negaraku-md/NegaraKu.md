@@ -148,7 +148,7 @@ relations:
   - { rel: "explained-in", to: "domestic-inquiry-malaysia" }
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
   - { rel: "related-to", to: "retrenchment-malaysia" }
-related: ["domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
+related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["terminación del empleo malasia", "período de preaviso malasia", "empleo a voluntad malasia", "pago en lugar de preaviso", "causa o motivo justo", "salario final tras la renuncia malasia", "artículo 12 ley de empleo", "termination of employment malaysia", "section 12 employment act"]
 ---
 

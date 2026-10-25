@@ -71,7 +71,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
   - { rel: "related-to", to: "penang" }
   - { rel: "related-to", to: "wilayah-persekutuan" }
-related: ["federal-constitution", "parliament", "sarawak", "selangor", "penang", "wilayah-persekutuan"]
+related: ["three-tiers-of-government", "federal-constitution", "parliament", "sarawak", "selangor", "penang", "wilayah-persekutuan"]
 keywords: ["Menteri Besar", "Ketua Menteri", "Premier Sarawak", "ketua kerajaan negeri", "Yang di-Pertua Negeri", "Majlis Mesyuarat Kerajaan", "Exco negeri", "Jadual Kelapan", "Dewan Undangan Negeri", "pelantikan Menteri Besar"]
 ---
 

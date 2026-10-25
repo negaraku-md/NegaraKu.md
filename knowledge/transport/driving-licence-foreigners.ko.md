@@ -66,7 +66,7 @@ entity: "운전면허 전환 (JPJ)"
 relations:
   - { rel: "related-to", to: "malaysia-business-visa-comparison" }
   - { rel: "related-to", to: "expatriate-and-non-resident-tax" }
-related: ["malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
+related: ["moving-to-malaysia-first-steps", "malaysia-business-visa-comparison", "expatriate-and-non-resident-tax"]
 keywords: ["driving licence foreigner Malaysia", "international driving permit Malaysia", "JPJ foreign licence conversion", "convert driving licence Malaysia expat", "MM2H driving licence", "driving in Malaysia as an expat"]
 ---
 

@@ -56,7 +56,7 @@ relations:
   - { rel: "administered-by", to: "imigresen" }
   - { rel: "part-of", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
-related: ["imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
+related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["मलेशिया आश्रित पास", "दीर्घकालिक सामाजिक भ्रमण पास", "LTSVP मलेशिया", "रोज़गार पास परिवार", "मलेशिया वीज़ा पति/पत्नी प्रायोजन", "मलेशिया प्रवासी माता-पिता वीज़ा", "मलेशिया पारिवारिक वीज़ा विकल्प"]
 ---
 

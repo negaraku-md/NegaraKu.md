@@ -56,7 +56,7 @@ relations:
   - { rel: "administered-by", to: "imigresen" }
   - { rel: "part-of", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
-related: ["imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
+related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass Malasia", "Long-Term Social Visit Pass", "LTSVP Malasia", "familia Employment Pass", "patrocinar cónyuge visado Malasia", "visado padres Malasia expatriado", "opciones de visado familiar Malasia"]
 ---
 

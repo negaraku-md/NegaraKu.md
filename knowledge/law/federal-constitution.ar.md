@@ -46,7 +46,7 @@ entity: "Federal Constitution"
 wikidata: "Q1003080"
 relations:
   - { rel: "part-of", to: "malaysia" }
-related: ["parliament"]
+related: ["three-tiers-of-government", "parliament"]
 keywords: ["الدستور الاتحادي الماليزي", "Federal Constitution", "Perlembagaan Persekutuan", "القانون الدستوري الماليزي", "القانون الأعلى في ماليزيا"]
 ---
 

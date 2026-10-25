@@ -106,7 +106,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
   - { rel: "governs", to: "employment-act-1955" }
   - { rel: "related-to", to: "payroll-rates-deadlines-malaysia" }
-related: ["employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
+related: ["labour-law-map-malaysia", "employment-act-1955", "payroll-rates-deadlines-malaysia", "payroll-compliance-malaysia"]
 keywords: ["salaire minimum Malaisie 2026", "RM1700 gaji minimum", "salaire minimum horaire Malaisie", "Employment Act section 19", "déductions licites section 24", "Minimum Wages Order 2024"]
 ---
 

@@ -105,7 +105,7 @@ relations:
   - { rel: "administered-by", to: "jppm" }
   - { rel: "related-to", to: "termination-of-employment-malaysia" }
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
-related: ["termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
+related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["الفصل التعسفي في ماليزيا", "المادة 20 قانون العلاقات الصناعية", "تقديم مطالبة الفصل خلال 60 يومًا", "المحكمة الصناعية في ماليزيا", "سقف الأجور المتأخرة 24 شهرًا", "التعويض بدل الإعادة إلى العمل", "unfair dismissal malaysia", "section 20 industrial relations act"]
 ---
 

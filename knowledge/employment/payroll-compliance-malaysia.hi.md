@@ -193,7 +193,7 @@ relations:
   - { rel: "explained-in", to: "socso-eis-employer-guide" }
   - { rel: "explained-in", to: "pcb-mtd-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
-related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
+related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia", "epf-foreign-workers-malaysia"]
 keywords: ["पेरोल अनुपालन मलेशिया", "payroll compliance Malaysia", "वैधानिक अंशदान समय-सीमा मलेशिया", "statutory contribution deadline Malaysia", "EPF SOCSO EIS PCB देय तिथि", "नियोक्ता पेरोल दायित्व मलेशिया", "HRD Corp लेवी समय-सीमा"]
 ---
 

@@ -62,7 +62,7 @@ relations:
   - { rel: "administered-by", to: "maqis" }
   - { rel: "administered-by", to: "department-of-veterinary-services" }
   - { rel: "part-of", to: "settling-in" }
-related: ["dependant-social-visit-passes"]
+related: ["moving-to-malaysia-first-steps", "dependant-social-visit-passes"]
 keywords: ["bringing pets to Malaysia", "MAQIS import permit", "DVS pet import rules", "dog cat quarantine Malaysia", "restricted dog breeds Malaysia", "ISO microchip pet import"]
 ---
 

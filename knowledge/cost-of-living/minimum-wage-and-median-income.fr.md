@@ -61,7 +61,7 @@ relations:
   - { rel: "related-to", to: "minimum-wage-malaysia" }
   - { rel: "related-to", to: "unemployment-labour-force" }
   - { rel: "part-of", to: "malaysia" }
-related: ["minimum-wage-malaysia", "unemployment-labour-force", "gdp-overview"]
+related: ["cost-of-living-overview", "minimum-wage-malaysia", "unemployment-labour-force", "gdp-overview"]
 keywords: ["salaire minimum Malaisie", "gaji minimum Malaysia", "salaire médian Malaisie", "revenu médian Malaisie", "salaire moyen Malaisie", "salaire minimum RM1700", "revenu des ménages DOSM", "salaire malaisien typique"]
 ---
 

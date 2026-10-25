@@ -76,7 +76,7 @@ wikidata: "Q61674270"
 relations:
   - { rel: "compares-with", to: "epf" }
   - { rel: "related-to", to: "employment-act-1955" }
-related: ["epf", "employment-act-1955", "akta"]
+related: ["how-malaysian-healthcare-works", "epf", "employment-act-1955", "akta"]
 keywords: ["PERKESO", "SOCSO", "Pertubuhan Keselamatan Sosial", "différence PERKESO et KWSP", "taux de cotisation PERKESO", "Akta 4 1969", "LINDUNG 24 Jam"]
 ---
 

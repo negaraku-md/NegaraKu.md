@@ -122,7 +122,7 @@ sources:
 
 entity: "Employment Pass (Malaysia)"
 relations: []
-related: []
+related: ["labour-law-map-malaysia", ]
 keywords: ["employment pass malaysia", "راتب Employment Pass 2026", "فئات راتب EP", "تسجيل ESD", "myxpats", "المغتربون في ماليزيا", "تجديد Employment Pass"]
 ---
 

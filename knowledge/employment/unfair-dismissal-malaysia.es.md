@@ -105,7 +105,7 @@ relations:
   - { rel: "administered-by", to: "jppm" }
   - { rel: "related-to", to: "termination-of-employment-malaysia" }
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
-related: ["termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
+related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["despido improcedente malasia", "artículo 20 ley de relaciones laborales", "60 días presentación despido", "tribunal laboral malasia", "tope salarios atrasados 24 meses", "compensación en lugar de reincorporación", "unfair dismissal malaysia", "section 20 industrial relations act"]
 ---
 

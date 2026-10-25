@@ -108,7 +108,7 @@ relations:
   - { rel: "governs", to: "employment" }
   - { rel: "explained-in", to: "employment-act-coverage" }
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
-related: ["employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
+related: ["labour-law-map-malaysia", "employment-act-coverage", "working-hours-overtime-malaysia", "minimum-wage-malaysia"]
 keywords: ["ley de empleo 1955", "ley de empleo malasia", "act 265", "ley de empleo enmienda 2022", "derecho laboral malasia", "semana de 45 horas malasia", "employment act 1955"]
 ---
 

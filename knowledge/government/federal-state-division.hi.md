@@ -57,7 +57,7 @@ relations:
   - { rel: "related-to", to: "civil-and-syariah-courts" }
   - { rel: "related-to", to: "constitutional-amendment" }
   - { rel: "related-to", to: "parliament" }
-related: ["federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
+related: ["three-tiers-of-government", "federal-constitution", "civil-and-syariah-courts", "constitutional-amendment", "parliament", "ma63"]
 keywords: ["नौवीं अनुसूची संघीय संविधान", "Ninth Schedule Federal Constitution", "संघीय सूची राज्य सूची समवर्ती सूची", "मलेशिया में विधायी शक्ति का विभाजन", "संविधान का अनुच्छेद 74", "अनुच्छेद 77 अवशिष्ट शक्ति", "सूची I सूची II सूची III", "साबाह साराक विधायी पूरक", "Jadual Kesembilan", "मलेशिया में कौन कानून बना सकता है"]
 ---
 

@@ -72,7 +72,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
   - { rel: "related-to", to: "electricity-tnb-account" }
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
-related: ["finding-a-rental", "electricity-tnb-account"]
+related: ["cost-of-living-overview", "finding-a-rental", "electricity-tnb-account"]
 keywords: ["किराएदारी अनुबंध मलेशिया", "किराया जमा मलेशिया", "बयाना जमा", "जमानत जमा", "उपयोगिता जमा", "स्टाम्प ड्यूटी किराएदारी अनुबंध", "tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
 faq:
   - q: क्या मलेशिया में किरायेदारों की रक्षा करने वाला कोई किरायेदारी अधिनियम (Tenancy Act) है?

@@ -65,7 +65,7 @@ relations:
   - { rel: "related-to", to: "sole-prop-vs-sdn-bhd" }
   - { rel: "related-to", to: "close-a-company" }
   - { rel: "related-to", to: "tax-clearance" }
-related: ["register-enterprise-ezbiz", "sole-prop-vs-sdn-bhd", "close-a-company", "strike-off-company-malaysia", "tax-clearance", "income-tax-individuals", "business-structure-tax-comparison", "ssm-fees-malaysia"]
+related: ["business-structures-malaysia", "register-enterprise-ezbiz", "sole-prop-vs-sdn-bhd", "close-a-company", "strike-off-company-malaysia", "tax-clearance", "income-tax-individuals", "business-structure-tax-comparison", "ssm-fees-malaysia"]
 keywords: ["close sole proprietorship malaysia", "terminate business registration ssm", "notice of termination of business", "ezbiz business termination", "tutup perniagaan ssm", "registration of businesses act 1956 termination", "close partnership malaysia", "sole proprietor tax clearance"]
 social:
   hashtags:

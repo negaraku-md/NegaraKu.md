@@ -66,7 +66,7 @@ relations:
   - { rel: "part-of", to: "payroll-compliance-malaysia" }
   - { rel: "administered-by", to: "epf" }
   - { rel: "administered-by", to: "perkeso" }
-related: ["epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
+related: ["labour-law-map-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "payroll-compliance-malaysia", "payroll-rates-deadlines-malaysia", "epf-foreign-workers-malaysia", "new-hire-statutory-checklist"]
 keywords: ["EPF SOCSO EIS Malaysia", "वैधानिक अंशदान नियोक्ता मलेशिया", "KWSP PERKESO नियोक्ता", "KWSP अंशदान नियोक्ता", "पेरोल वैधानिक मलेशिया"]
 ---
 

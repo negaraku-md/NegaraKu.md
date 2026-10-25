@@ -148,7 +148,7 @@ relations:
   - { rel: "explained-in", to: "domestic-inquiry-malaysia" }
   - { rel: "related-to", to: "unfair-dismissal-malaysia" }
   - { rel: "related-to", to: "retrenchment-malaysia" }
-related: ["domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
+related: ["labour-law-map-malaysia", "domestic-inquiry-malaysia", "unfair-dismissal-malaysia", "retrenchment-malaysia", "termination-benefits-malaysia", "offboarding-statutory-checklist"]
 keywords: ["रोज़गार-समाप्ति मलेशिया", "नोटिस-अवधि मलेशिया", "इच्छानुसार रोज़गार मलेशिया", "नोटिस के बदले भुगतान", "उचित कारण या बहाना", "इस्तीफ़े के बाद अंतिम वेतन मलेशिया", "धारा 12 रोज़गार अधिनियम", "termination of employment malaysia", "section 12 employment act"]
 ---
 

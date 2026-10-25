@@ -67,7 +67,7 @@ relations:
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "requires", to: "mykad" }
   - { rel: "related-to", to: "imigresen" }
-related: ["bank-negara-malaysia", "mykad", "imigresen"]
+related: ["moving-to-malaysia-first-steps", "bank-negara-malaysia", "mykad", "imigresen"]
 keywords: ["فتح حساب مصرفي في ماليزيا", "حساب مصرفي للأجنبي في ماليزيا", "open bank account Malaysia", "وثائق فتح حساب مصرفي في ماليزيا", "Employment Pass bank account", "PIDM deposit insurance", "متطلبات فتح حساب CIMB Maybank", "MM2H bank account"]
 faq:
   - q: هل يمكنني فتح حساب مصرفي ماليزي بتأشيرة سياحية؟

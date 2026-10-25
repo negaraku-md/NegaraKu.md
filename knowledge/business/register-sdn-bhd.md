@@ -128,7 +128,7 @@ relations:
   - { rel: "requires", to: "company-secretary" }
   - { rel: "compares-with", to: "sole-prop-vs-sdn-bhd" }
   - { rel: "affects", to: "annual-return" }
-related: ["what-is-sdn-bhd", "appoint-company-secretary", "companies-act-2016", "sole-prop-vs-sdn-bhd"]
+related: ["business-structures-malaysia", "what-is-sdn-bhd", "appoint-company-secretary", "companies-act-2016", "sole-prop-vs-sdn-bhd"]
 keywords:
   - "register company Malaysia"
   - "Sdn Bhd registration"

@@ -89,7 +89,7 @@ relations:
   - { rel: "affects", to: "inflation-cpi" }
   - { rel: "related-to", to: "ringgit" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["inflation-cpi", "ringgit", "gdp-overview"]
+related: ["cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
 ---
 

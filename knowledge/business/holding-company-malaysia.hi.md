@@ -68,7 +68,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
   - { rel: "related-to", to: "branch-vs-subsidiary-malaysia" }
   - { rel: "related-to", to: "sole-prop-vs-sdn-bhd" }
-related: ["companies-act-2016"]
+related: ["business-structures-malaysia", "companies-act-2016"]
 keywords: ["होल्डिंग कंपनी मलेशिया", "निवेश होल्डिंग कंपनी मलेशिया", "IHC कर मलेशिया", "समूह संरचना मलेशिया", "समेकित वित्तीय विवरण मलेशिया", "holding company malaysia", "investment holding company malaysia", "IHC tax malaysia", "group relief section 44A", "section 60F income tax"]
 social:
   hashtags:

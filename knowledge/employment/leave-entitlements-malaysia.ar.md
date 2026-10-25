@@ -78,7 +78,7 @@ entity: "Statutory leave under the Employment Act 1955"
 relations:
   - { rel: "part-of", to: "employment-act-1955-guide" }
   - { rel: "administered-by", to: "jtksm" }
-related: ["employment-act-1955-guide", "employment-act-coverage", "maternity-leave-malaysia", "paternity-leave-malaysia", "public-holidays-malaysia", "working-hours-overtime-malaysia"]
+related: ["labour-law-map-malaysia", "employment-act-1955-guide", "employment-act-coverage", "maternity-leave-malaysia", "paternity-leave-malaysia", "public-holidays-malaysia", "working-hours-overtime-malaysia"]
 keywords: ["الإجازة السنوية في ماليزيا annual leave", "الإجازة المرضية في ماليزيا sick leave", "إجازة الاستشفاء في ماليزيا hospitalisation leave", "استحقاق الإجازات في ماليزيا 2026", "60 يوماً إجازة استشفاء"]
 ---
 

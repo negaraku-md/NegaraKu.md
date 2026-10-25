@@ -103,7 +103,7 @@ relations:
   - { rel: "administered-by", to: "jppm" }
   - { rel: "related-to", to: "termination-of-employment-malaysia" }
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
-related: ["termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
+related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["unfair dismissal malaysia", "section 20 industrial relations act", "60 days filing dismissal", "industrial court malaysia", "backwages cap 24 months", "compensation in lieu of reinstatement"]
 ---
 

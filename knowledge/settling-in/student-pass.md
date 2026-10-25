@@ -87,7 +87,7 @@ relations:
   - { rel: "administered-by", to: "imigresen" }
   - { rel: "related-to", to: "opening-bank-account" }
   - { rel: "related-to", to: "driving-licence-foreigners" }
-related: ["imigresen", "opening-bank-account", "driving-licence-foreigners"]
+related: ["moving-to-malaysia-first-steps", "imigresen", "opening-bank-account", "driving-licence-foreigners"]
 keywords:
   - "Student Pass Malaysia"
   - "EMGS Malaysia"

@@ -71,7 +71,7 @@ relations:
   - { rel: "compares-with", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
   - { rel: "related-to", to: "sabah-sarawak-labour-ordinance" }
-related: ["employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
+related: ["moving-to-malaysia-first-steps", "employment-pass-malaysia", "work-passes-malaysia", "malaysia-business-visa-comparison"]
 keywords: ["employment pass malaysia", "ESD", "MYXpats", "प्रवासी वर्क वीज़ा", "i-Kad", "डिपेंडेंट पास मलेशिया", "एम्प्लॉयमेंट पास श्रेणियाँ", "ePASS Malaysia"]
 faq:
   - q: क्या मैं अपने रोज़गार पास (Employment Pass) के लिए स्वयं आवेदन कर सकता हूँ?

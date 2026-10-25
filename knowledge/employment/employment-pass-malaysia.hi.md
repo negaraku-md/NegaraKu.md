@@ -122,7 +122,7 @@ sources:
 
 entity: "Employment Pass (Malaysia)"
 relations: []
-related: []
+related: ["labour-law-map-malaysia", ]
 keywords: ["employment pass malaysia", "EP category 1 वेतन", "Employment Pass वेतन 2026", "ESD पंजीकरण", "myxpats", "प्रवासी मलेशिया", "Employment Pass नवीनीकरण"]
 ---
 

@@ -72,7 +72,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
   - { rel: "related-to", to: "penang" }
   - { rel: "related-to", to: "wilayah-persekutuan" }
-related: ["federal-constitution", "parliament", "sarawak", "selangor", "penang", "wilayah-persekutuan"]
+related: ["three-tiers-of-government", "federal-constitution", "parliament", "sarawak", "selangor", "penang", "wilayah-persekutuan"]
 keywords: ["Menteri Besar", "Chief Minister", "Premier Sarawak", "jefe del gobierno estatal", "Yang di-Pertua Negeri", "Consejo Ejecutivo estatal", "Exco estatal", "Octavo Anexo", "Dewan Undangan Negeri", "nombramiento del Menteri Besar"]
 ---
 

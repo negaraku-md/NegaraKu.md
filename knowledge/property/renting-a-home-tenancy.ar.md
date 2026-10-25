@@ -72,7 +72,7 @@ relations:
   - { rel: "related-to", to: "finding-a-rental" }
   - { rel: "related-to", to: "electricity-tnb-account" }
   - { rel: "related-to", to: "condo-living-maintenance-fees" }
-related: ["finding-a-rental", "electricity-tnb-account"]
+related: ["cost-of-living-overview", "finding-a-rental", "electricity-tnb-account"]
 keywords: ["اتفاقية الإيجار ماليزيا", "وديعة الإيجار ماليزيا", "وديعة الحجز", "وديعة الضمان", "وديعة المرافق", "رسم الدمغة اتفاقية الإيجار", "tenancy agreement Malaysia", "rental deposit Malaysia", "earnest deposit", "security deposit", "utility deposit", "stamp duty tenancy agreement", "Contracts Act 1950", "Specific Relief Act 1950", "Distress Act 1951", "no tenancy act Malaysia", "e-Duti Setem"]
 faq:
   - q: هل يوجد قانون إيجار (Tenancy Act) يحمي المستأجرين في ماليزيا؟

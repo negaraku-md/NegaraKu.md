@@ -115,7 +115,7 @@ relations:
   - { rel: "related-to", to: "register-business-sabah" }
   - { rel: "related-to", to: "register-business-sarawak" }
   - { rel: "requires", to: "msic-codes-malaysia" }
-related: ["sole-prop-vs-sdn-bhd", "register-sdn-bhd", "ssm-glossary", "msic-codes-malaysia"]
+related: ["business-structures-malaysia", "sole-prop-vs-sdn-bhd", "register-sdn-bhd", "ssm-glossary", "msic-codes-malaysia"]
 keywords:
   - "تسجيل الأعمال SSM"
   - "تسجيل EzBiz عبر الإنترنت"

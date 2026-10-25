@@ -58,7 +58,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
   - { rel: "related-to", to: "road-tax-renewal" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }
-related: ["driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
+related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["shipping belongings to Malaysia", "import household goods Malaysia customs", "Customs Form K1 Malaysia", "import car to Malaysia", "Approved Permit AP Malaysia", "MITI AP vehicle import", "JPJ import vehicle registration", "PUSPAKOM imported car", "expatriate moving to Malaysia car"]
 ---
 

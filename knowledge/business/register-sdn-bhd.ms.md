@@ -124,7 +124,7 @@ sources:
 
 entity: "Sdn Bhd"
 relations: []
-related: []
+related: ["business-structures-malaysia", ]
 keywords:
   - "register company Malaysia"
   - "Sdn Bhd registration"

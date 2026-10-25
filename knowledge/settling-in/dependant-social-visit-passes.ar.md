@@ -56,7 +56,7 @@ relations:
   - { rel: "administered-by", to: "imigresen" }
   - { rel: "part-of", to: "work-passes-malaysia" }
   - { rel: "related-to", to: "employment-pass-malaysia" }
-related: ["imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
+related: ["moving-to-malaysia-first-steps", "imigresen", "employment-pass-malaysia", "work-passes-malaysia", "opening-bank-account"]
 keywords: ["Dependant Pass", "Long-Term Social Visit Pass", "LTSVP", "تصريح المرافق ماليزيا", "تصريح الزيارة الاجتماعية طويلة الأمد", "كفالة الزوج تأشيرة ماليزيا", "تأشيرة عائلة المغترب ماليزيا", "Employment Pass family"]
 ---
 

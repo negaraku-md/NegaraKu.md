@@ -115,7 +115,7 @@ relations:
   - { rel: "compares-with", to: "branch-vs-subsidiary-malaysia" }
   - { rel: "related-to", to: "ssm-fees-malaysia" }
   - { rel: "related-to", to: "company-name-search-ssm" }
-related: ["register-sdn-bhd", "what-is-sdn-bhd", "company-name-search-ssm"]
+related: ["business-structures-malaysia", "register-sdn-bhd", "what-is-sdn-bhd", "company-name-search-ssm"]
 keywords:
   - "cawangan syarikat asing Malaysia"
   - "seksyen 561 Akta Syarikat 2016"

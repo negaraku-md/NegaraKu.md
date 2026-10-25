@@ -58,7 +58,7 @@ relations:
   - { rel: "related-to", to: "driving-licence-foreigners" }
   - { rel: "related-to", to: "road-tax-renewal" }
   - { rel: "related-to", to: "dependant-social-visit-passes" }
-related: ["driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
+related: ["moving-to-malaysia-first-steps", "driving-licence-foreigners", "road-tax-renewal", "dependant-social-visit-passes", "motor-insurance"]
 keywords: ["شحن الأمتعة إلى ماليزيا", "استيراد الأمتعة المنزلية الجمارك", "نموذج الجمارك K1", "استيراد سيارة إلى ماليزيا", "Approved Permit AP", "MITI استيراد المركبات", "JPJ تسجيل المركبات المستوردة", "PUSPAKOM السيارة المستوردة", "انتقال المغترب إلى ماليزيا سيارة"]
 ---
 

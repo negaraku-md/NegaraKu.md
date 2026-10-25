@@ -64,7 +64,7 @@ relations:
   - { rel: "governs", to: "sdn-bhd-vs-berhad" }
   - { rel: "related-to", to: "register-sdn-bhd" }
   - { rel: "related-to", to: "company-secretary-malaysia" }
-related: ["sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
+related: ["business-structures-malaysia", "sdn-bhd-vs-berhad", "register-sdn-bhd", "what-is-sdn-bhd", "company-secretary-malaysia"]
 keywords: ["company limited by guarantee", "CLBG", "berhad menurut jaminan", "section 45 Companies Act 2016", "non-profit company Malaysia", "SSM CLBG", "omit Berhad licence"]
 ---
 

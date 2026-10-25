@@ -105,7 +105,7 @@ relations:
   - { rel: "administered-by", to: "jppm" }
   - { rel: "related-to", to: "termination-of-employment-malaysia" }
   - { rel: "related-to", to: "domestic-inquiry-malaysia" }
-related: ["termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
+related: ["labour-law-map-malaysia", "termination-of-employment-malaysia", "domestic-inquiry-malaysia", "retrenchment-malaysia"]
 keywords: ["pembuangan kerja tanpa sebab adil malaysia", "seksyen 20 akta perhubungan perusahaan", "60 hari memfailkan tuntutan pembuangan kerja", "mahkamah perusahaan malaysia", "had gaji balik 24 bulan", "pampasan ganti pengembalian kerja"]
 ---
 
