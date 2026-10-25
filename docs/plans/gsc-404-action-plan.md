@@ -2,6 +2,8 @@
 
 _Generated 2026-10-19 from Google Search Console (sc-domain:negaraku.md). Source lists + resolver in scratchpad; targets resolved against `public/api/articles.json`._
 
+> **✅ VERIFIED COMPLETE & LIVE (re-audit 2026-10-25).** Every remediation below is committed and pushed. A fresh full audit confirms: `check-internal-links --strict` = **0 broken** (0 missing / 0 not-public / 0 bare-relative); 347 redirects live in `astro.config.mjs` + worker catch-all; robots scanner-block live; `public/favicon.ico` present; the root-cause fix (checker now flags bare-relative links and fails CI) is active. Audit also extended **beyond** the original GSC list: hardcoded self-URLs in content (0), `related` frontmatter refs (0), and **all hardcoded site-chrome/component links resolve to real routes** (0). Nothing left to fix in-repo. Open items are user-side only: (a) click *Validate Fix* in GSC for the redirected URLs; (b) a FRESH 404 sweep needs a manual GSC **Index Coverage** export — the automated `pull-search-console.mjs` fetches Search-Analytics performance only (`public/api/gsc.json`), not index-coverage 404s.
+
 ## TL;DR
 
 GSC flagged **221 "Not found (404)"** + **3 "Redirect error"**. They are NOT all redirect candidates:
