@@ -1,5 +1,14 @@
 # Wikipedia username-block fix — shortlist + rename request
 
+> **STATUS 2026-10-25 — appeal filed, PENDING ADMIN.** The `{{unblock-un|1=Ashton Tan}}` request was
+> already filed on `User talk:Ai.negaraku.md` (22 Oct). Admin **331dot** replied asking the user to
+> confirm the **WP:REALNAME** implications of using a real name. On 25 Oct the user (via Chrome,
+> informed consent) **confirmed "Ashton Tan" and asked the admin to proceed**. Now waiting on an admin
+> to action the unblock + global rename — no further editor action needed meanwhile.
+> **AFTER the rename lands:** (1) switch recovery email to `ashton.tan@gmail.com` via Special:ChangeEmail;
+> (2) keep the COI disclosure on the (renamed) user page; (3) the citation workflow stays low-ROI /
+> high-risk — see `wikipedia-coi-playbook.md` (Wikidata, now fully done, is the real GEO win).
+
 **Situation (2026-10-22):** the account `Ai.negaraku.md` was **soft-blocked on English Wikipedia**
 (admin Acroterion) under the username policy — the name reads as a website/organization, and must
 represent one individual. No behavioural issue; the COI disclosure on the user page was correct.
