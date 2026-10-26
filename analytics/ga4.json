@@ -1,0 +1,168 @@
+{
+  "updatedAt": "2026-10-26T11:20:52.345Z",
+  "property": "properties/559513299",
+  "byMonth": {
+    "2026-10": {
+      "users": 184,
+      "sessions": 217,
+      "views": 281
+    }
+  },
+  "latest": {
+    "window": {
+      "start": "2026-07-28",
+      "end": "2026-10-25"
+    },
+    "totals": {
+      "users": 184,
+      "sessions": 217,
+      "views": 281,
+      "avgEngagementSec": 116,
+      "engagementRate": 44.2
+    },
+    "byChannel": [
+      [
+        "Organic Search",
+        110
+      ],
+      [
+        "Organic Social",
+        74
+      ],
+      [
+        "Direct",
+        26
+      ],
+      [
+        "AI Assistant",
+        7
+      ]
+    ],
+    "byCountry": [
+      [
+        "Malaysia",
+        68
+      ],
+      [
+        "United States",
+        59
+      ],
+      [
+        "Sweden",
+        9
+      ],
+      [
+        "Japan",
+        8
+      ],
+      [
+        "Indonesia",
+        5
+      ],
+      [
+        "Ireland",
+        5
+      ],
+      [
+        "Singapore",
+        5
+      ],
+      [
+        "Brunei",
+        3
+      ],
+      [
+        "India",
+        2
+      ],
+      [
+        "New Zealand",
+        2
+      ],
+      [
+        "South Korea",
+        2
+      ],
+      [
+        "Taiwan",
+        2
+      ]
+    ],
+    "byDevice": [
+      [
+        "mobile",
+        125
+      ],
+      [
+        "desktop",
+        91
+      ],
+      [
+        "tablet",
+        1
+      ]
+    ],
+    "topPages": [
+      [
+        "/en/",
+        15
+      ],
+      [
+        "/",
+        9
+      ],
+      [
+        "/en/malaysia/melaka-sultanate/",
+        8
+      ],
+      [
+        "/zh/law/anti-money-laundering-act/",
+        8
+      ],
+      [
+        "/en/malaysia/federated-unfederated-states/",
+        6
+      ],
+      [
+        "/en/malaysia/gangga-negara/",
+        6
+      ],
+      [
+        "/en/malaysia/geography-overview/",
+        6
+      ],
+      [
+        "/en/malaysia/jalur-gemilang/",
+        6
+      ],
+      [
+        "/en/malaysia/bujang-valley/",
+        5
+      ],
+      [
+        "/en/malaysia/coat-of-arms/",
+        5
+      ],
+      [
+        "/en/malaysia/japanese-occupation/",
+        5
+      ],
+      [
+        "/arts-culture/chinese-dialects/",
+        4
+      ],
+      [
+        "/en/malaysia/13-may-1969/",
+        4
+      ],
+      [
+        "/en/malaysia/2018-change-of-government/",
+        4
+      ],
+      [
+        "/en/malaysia/formation-of-malaysia-1963/",
+        4
+      ]
+    ]
+  }
+}
