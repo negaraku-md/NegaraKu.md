@@ -148,11 +148,16 @@ export function articleJsonLd(article: Article, locale: Locale): Record<string, 
     // liftable answer AI assistants and answer engines quote — previously it
     // only existed as on-page text, invisible to structured-data consumers.
     ...(d.answer ? { abstract: d.answer } : {}),
-    inLanguage: locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : locale === 'id' ? 'id' : locale === 'ar' ? 'ar' : locale === 'hi' ? 'hi' : locale === 'es' ? 'es' : locale === 'fr' ? 'fr' : 'en',
+    // Use the single BCP-47 map — the previous inline ternary silently omitted
+    // `th` and `vi`, so Thai and Vietnamese articles declared inLanguage "en".
+    inLanguage: BCP47[locale],
     datePublished: (d.created ?? d.updated).toISOString(),
     dateModified: d.updated.toISOString(),
     mainEntityOfPage: url,
     url,
+    // Tie every article into the site's knowledge graph by @id (the WebSite node
+    // is defined on the homepage), the same cross-page @id pattern as publisher.
+    isPartOf: { '@id': `${SITE}/#website` },
     author: authorFor(d),
     isAccessibleForFree: true,
     license: 'https://creativecommons.org/licenses/by-sa/4.0/',

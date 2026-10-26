@@ -83,23 +83,38 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
     byCat.get(a.data.category)!.push(a);
   }
 
-  const out: string[] = ['# negaraku.md', ''];
+  const out: string[] = ['# NegaraKu.md', ''];
   out.push(...(INTRO[locale] ?? INTRO.ms), '');
 
   for (const cat of CATEGORIES) {
     const arts = byCat.get(cat.id);
     if (!arts?.length) continue;
     out.push(`## ${loc(cat.name, locale)}`, '');
-    for (const a of arts) {
+    // Surface the authoritative guides (tier 1 — the pillar/hub overviews) first
+    // within each category so a crawler skimming top-down hits the key articles
+    // before the long tail. Array.sort is stable, so the rest keep their incoming
+    // freshness order (articlesForLocale sorts by `updated` desc).
+    const ordered = [...arts].sort(
+      (a, b) => (a.data.tier === '1' ? 0 : 1) - (b.data.tier === '1' ? 0 : 1),
+    );
+    for (const a of ordered) {
       const url = `${SITE}${localePath(`/${a.data.category}/${a.data.slug}.md`, locale)}`;
       out.push(`- [${a.data.title}](${url}): ${a.data.summary}`);
     }
     out.push('');
   }
 
+  // Per the llmstxt.org convention, `## Optional` lists bulk/secondary resources
+  // an agent may skip when it needs a shorter context. These are the whole-corpus
+  // machine surfaces that make the "AI-friendly" claim concrete: the full Markdown
+  // dump, the JSON manifest, and the Hugging Face dataset (same distributions the
+  // homepage Dataset JSON-LD advertises).
   const fullUrl = `${SITE}${localePath('/llms-full.txt', locale)}`;
-  out.push('## Full text', '');
-  out.push(`- [Complete corpus](${fullUrl}): every article concatenated as Markdown.`, '');
+  out.push('## Optional', '');
+  out.push(`- [Full corpus (Markdown)](${fullUrl}): every article in this language concatenated as one Markdown document.`);
+  out.push(`- [Article metadata (JSON)](${SITE}/api/articles.json): machine-readable manifest of every article — title, category, dates and sources, all languages.`);
+  out.push(`- [Dataset (JSON Lines)](https://huggingface.co/datasets/negaraku-md/negaraku-md/resolve/main/data/${locale}.jsonl): the corpus as a Hugging Face dataset, one JSON object per article.`);
+  out.push('');
 
   return out.join('\n');
 }
@@ -124,7 +139,7 @@ const CORPUS_HEADER: Record<Locale, string> = {
 export async function buildLlmsFull(locale: Locale): Promise<string> {
   const items = await articlesForLocale(locale);
   const parts: string[] = [
-    '# negaraku.md — full corpus',
+    '# NegaraKu.md — full corpus',
     '',
     loc(CORPUS_HEADER, locale),
     '',

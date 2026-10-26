@@ -34,12 +34,41 @@ export function articleToMarkdown(article: Article, locale: Locale): string {
     `- Language: ${d.lang}`,
     `- Status: ${d.status}`,
     `- Updated: ${d.updated.toISOString().slice(0, 10)}`,
+    ...(d.reviewed ? [`- Reviewed: ${new Date(d.reviewed).toISOString().slice(0, 10)}`] : []),
     `- Canonical: ${url}`,
     '',
-    '---',
-    '',
   );
+
+  // Layer 1 — the curated, liftable answer surface. The 30-second `answer`, the
+  // scannable `keyTakeaways` and the `faq` Q&A live in frontmatter, NOT in the
+  // body, so `sourceBody()` strips them. Without re-emitting them here, the single
+  // most quotable units — exactly what answer engines and AI assistants cite —
+  // would be absent from the raw Markdown and the llms-full corpus. They lead the
+  // document (the answer is the first thing a crawler should see) and the FAQ
+  // follows the body, mirroring the on-page three-layer reading model. Each field
+  // is already in the article's own language, so the raw output stays monolingual.
+  if (d.answer) {
+    lines.push('## Answer', '', d.answer, '');
+  }
+  if (d.appliesTo) {
+    lines.push(`**Applies to:** ${d.appliesTo}`, '');
+  }
+  if (d.keyTakeaways.length) {
+    lines.push('## Key takeaways', '');
+    for (const k of d.keyTakeaways) lines.push(`- ${k}`);
+    lines.push('');
+  }
+
+  lines.push('---', '');
   lines.push(sourceBody(article));
+
+  if (d.faq.length) {
+    lines.push('', '## Frequently asked questions', '');
+    for (const f of d.faq) {
+      lines.push(`### ${f.q}`, '', f.a, '');
+    }
+  }
+
   if (d.sources.length) {
     lines.push('', '## Sources', '');
     for (const s of d.sources) {
