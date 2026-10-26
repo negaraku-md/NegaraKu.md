@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 
 status: "published"
 aiAssisted: true
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "s.33Aの5年免責トリガーの正確な法定起算点を、1967年破産法の現行の重印本に照らして確認すること——引用元は、これを破産宣告が失効した日から5年と説明しており、上表はこれに従っている。"
+  - "s.33Aの免責は、その者が少なくとも5年間破産者であった後に、破産局長（DGI）の証明書によって行われる（2023年破産（改正）法により導入された）；完全かつ現行の適格要件を、マレーシア破産局の指針に照らして確認すること。"
   - "依拠する前に、現行のs.466(1)(a)の負債基準額（RM50,000を超える額、2021年4月1日以降効力を有し失効期限なし）を、最新の官報規定命令に照らして確認すること。"
   - "企業再生の各条文及びその引用（司法管理 ss.403-430、CVA s.395、整理計画 s.366、180日間の期間、価値にして75%の多数）を、2016年会社法の現行の重印本に照らして確認すること。"
   - "管理機関（マレーシア破産局／破産局長）についての正しいナレッジグラフのターゲットを確認すること。以前の、司法長官府（Attorney General's Chambers）への「管理」関係は、裏付けがないため削除された。"
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "マレーシア破産局 (Jabatan Insolvensi Malaysia) — 公式ポータル (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "もはや破産者ではない(パート2) — 破産命令の免責 (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "1967年破産法s.33A：慈悲か、それとも債権者の権利の妥協か (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Insolvency Act 1967 はいかに刷新されたか:Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ MdIは会社の清算を管理するのと同じ機関であり、そのため�
 | 免責の方式 | 条文 | 利用可能となる時期 | 主要な条件 |
 | --- | --- | --- | --- |
 | 裁判所命令による免責 | s.33 | 申立てにより、いつでも | 裁判所が破産者の行状及び破産の原因を考慮する |
-| DGI証明書による免責 | s.33A | 破産宣告が失効した日から5年 | DGIが、原因及び破産者の行状を考慮した上で証明書を発行する |
+| DGI証明書による免責 | s.33A | その者が少なくとも5年間破産者であった後 | DGIが、原因及び破産者の行状を考慮した上で証明書を発行する |
 | 自動免責 | s.33C | 財産状況報告書の提出から3年 | 破産者がDGIの定める金額を支払い、全面的に協力する |
 
 **s.33Cによる自動免責**は、この改革の目玉である。協力的な破産者が財産状況報告書の提出から3年後に自由の身となることを認めるものであり、ただし、DGIが定める分担金——現在では、債務の固定割合ではなく、破産者の実際の資力に連動する金額——を支払っていることが条件となる。

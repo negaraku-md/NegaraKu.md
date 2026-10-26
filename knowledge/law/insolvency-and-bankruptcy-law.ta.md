@@ -36,7 +36,7 @@ faq:
 lang: "ta"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 
 status: "published"
 aiAssisted: true
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Insolvency Act 1967-இன் தற்போதைய மறுபதிப்புக்கு எதிராக, Section 33A ஐந்தாண்டு விடுவிப்புத் தூண்டுதலின் சரியான சட்டப்பூர்வ தொடக்கப் புள்ளியை உறுதிப்படுத்தவும் — மேற்கோள் காட்டப்பட்ட மூலம் இதை திவால்நிலை ஆணை காலாவதியாகும் தேதியிலிருந்து ஐந்து ஆண்டுகள் என வடிவமைக்கிறது; அட்டவணை இப்போது அதைப் பின்பற்றுகிறது."
+  - "Section 33A விடுவிப்பு என்பது, அந்த நபர் குறைந்தபட்சம் ஐந்து ஆண்டுகள் திவாலாளராக இருந்தவுடன் திவால்நிலை இயக்குநர் ஜெனரலின் (Director General of Insolvency) சான்றிதழ் மூலம் வழங்கப்படுவதாகும் (Insolvency (Amendment) Act 2023-ஆல் அறிமுகப்படுத்தப்பட்டது); முழு தற்போதைய தகுதி நிபந்தனைகளை மலேசிய திவால்நிலைத் துறையின் (Malaysian Department of Insolvency) வழிகாட்டுதலுக்கு எதிராக உறுதிப்படுத்தவும்."
   - "தற்போதைய Section 466(1)(a) கடன்பாட்டு வரம்பை (RM50,000-ஐ மிஞ்சுதல், 1 April 2021 முதல் நடைமுறையில், எந்த முடிவுத் தேதியும் இன்றி) நம்பியிருப்பதற்கு முன், அண்மைய வர்த்தமானிப்படுத்தப்பட்ட நிர்ணய ஆணைக்கு எதிராக உறுதிப்படுத்தவும்."
   - "நிறுவன மீட்பு விதிகளையும் அவற்றின் குறிப்புகளையும் (judicial management ss.403-430, CVA s.395, scheme of arrangement s.366, 180-நாள் காலம், மதிப்பில் 75% பெரும்பான்மை) Companies Act 2016-இன் தற்போதைய மறுபதிப்புக்கு எதிராக உறுதிப்படுத்தவும்."
   - "நிர்வகிக்கும் அமைப்புக்கான (Malaysian Department of Insolvency / Director General of Insolvency) சரியான அறிவு-வரைபடக் இலக்கை உறுதிப்படுத்தவும்; Attorney General's Chambers-உடனான முந்தைய administered-by தொடர்பு ஆதாரமற்றது என நீக்கப்பட்டது."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "மலேசியா திவால்நிலைத் துறை (Jabatan Insolvensi Malaysia) — அதிகாரப்பூர்வ போர்டல் (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "இனி திவாலாளர் அல்ல (பகுதி 2) — திவால்நிலை ஆணையிலிருந்து விடுவிப்பு (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "Section 33A Insolvency Act 1967: இரக்கமா அல்லது கடன்தந்தோர் உரிமைகளின் சமரசமா? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Insolvency Act 1967 எவ்வாறு புதுப்பிக்கப்பட்டது: Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Mal
 | விடுவிப்பு முறை | சட்டப் பிரிவு | எப்போது கிடைக்கிறது | முக்கிய நிபந்தனை |
 | --- | --- | --- | --- |
 | நீதிமன்ற ஆணை மூலம் விடுவிப்பு | Section 33 | மனு செய்யும் எந்த நேரத்திலும் | திவாலானவரின் நடத்தையையும் திவால்நிலைக்கான காரணத்தையும் நீதிமன்றம் எடைபோடுகிறது |
-| DGI சான்றிதழ் மூலம் விடுவிப்பு | Section 33A | திவால்நிலை ஆணை காலாவதியாகும் தேதியிலிருந்து 5 ஆண்டுகள் | காரணத்தையும் திவாலானவரின் நடத்தையையும் கருத்தில் கொண்டு DGI ஒரு சான்றிதழை வழங்குகிறது |
+| DGI சான்றிதழ் மூலம் விடுவிப்பு | Section 33A | அந்த நபர் குறைந்தபட்சம் 5 ஆண்டுகள் திவாலாளராக இருந்த பிறகு | காரணத்தையும் திவாலானவரின் நடத்தையையும் கருத்தில் கொண்டு DGI ஒரு சான்றிதழை வழங்குகிறது |
 | தானியங்கி விடுவிப்பு | Section 33C | நிலைமை அறிக்கை சமர்ப்பிக்கப்பட்ட 3 ஆண்டுகளுக்குப் பிறகு | DGI நிர்ணயிக்கும் தொகையைத் திவாலானவர் செலுத்தி முழுமையாக ஒத்துழைக்க வேண்டும் |
 
 **Section 33C-இன் கீழான தானியங்கி விடுவிப்பே** தலைப்புச் சீர்திருத்தம். நிலைமை அறிக்கையைச் சமர்ப்பித்த மூன்று ஆண்டுகளுக்குப் பிறகு, DGI நிர்ணயிக்கும் பங்களிப்பைச் செலுத்தியிருந்தால், ஒத்துழைக்கும் ஒரு திவாலானவர் விடுதலையாக அது அனுமதிக்கிறது — இந்தத் தொகை இப்போது கடனின் ஒரு நிலையான பங்கை விடத் திவாலானவரின் உண்மையான நிதி ஆற்றலுடன் இணைக்கப்பட்டுள்ளது.

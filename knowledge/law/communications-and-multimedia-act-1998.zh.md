@@ -30,7 +30,7 @@ faq:
     a: "受牌照规管的活动分为四大类。透过2024年的指令，在马来西亚拥有至少八百万名用户的社交媒体及互联网通讯服务提供者，须向SKMM申请类别牌照，自2025年1月1日起生效。"
 
 lang: "zh"
-sourceContentHash: "6cd84d5baa9c3ad8"
+sourceContentHash: "e6a81ea888e06a3e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ revisions:
 verificationNeeded:
   - "Seksyen 233修订刑罚的分节标注（哪一分节对一般滥用规定RM500,000罚款／2年监禁，哪一分节对涉及儿童的罪行规定RM500,000罚款／5年监禁）——请对照已宪报的Akta Komunikasi dan Multimedia (Pindaan)文本核查。"
   - "涉及儿童罪行的刑罚数额（RM500,000／5年）——请对照已宪报的修订文本核实。"
-  - "2024 年修正案的状态及生效开始日期——法案已于 2024 年 12 月获两院通过，但自部长通过宪报所定的日期起生效；请核实其是否以及何时已经生效。"
   - "社交媒体类别牌照的「八百万用户」门槛及 1 Januari 2025 的生效日期——请对照 SKMM 官方指示／命令核实。"
 updated: 2026-08-07
 sources:
@@ -71,6 +70,9 @@ sources:
   - title: "2024年通讯及多媒体法案在下议院通过 (Communications and Multimedia Bill 2024 passed in Dewan Rakyat)"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "更严厉的网络安全法律生效：通讯法令修正案如今开始实施 (Stricter online safety laws kick in: amendments to Communications Act now in force)"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "Malay Mail"
   - title: "马来西亚国会通过Communications and Multimedia Act 1998的修订（更新） (Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update))"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -128,7 +130,7 @@ keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC",
 
 ## 2024年修正案如何改变格局？
 
-2024年通讯与多媒体（修正）法案于2024年12月9日获下议院（Dewan Rakyat）通过——以记录为59票赞成、40票反对及一票弃权的分组表决——并于2024年12月16日获上议院（Dewan Negara）通过。根据律师事务所的说明，经国会通过的修正案还须获得御准与宪报颁布，并于部长所指定的日期生效。
+2024年通讯与多媒体（修正）法案于2024年12月9日获下议院（Dewan Rakyat）通过——以记录为59票赞成、40票反对及一票弃权的分组表决——并于2024年12月16日获上议院（Dewan Negara）通过。经国会通过后，该修正案获得御准并于2025年2月7日宪报颁布，随后于2025年2月11日开始生效——惟第92条（未经请求的商业电子讯息）与第112条（通讯数据的保存与披露）将于部长日后所指定的日期生效。
 
 据报道的变化包括：
 
@@ -151,4 +153,4 @@ keywords: ["akta komunikasi dan multimedia 1998", "seksyen 233", "SKMM", "MCMC",
 
 ## What's next
 
-第233条与第588号法令整体上正处于变动之中。2024年修正法案已于2024年12月获两院通过，并于部长透过宪报所指定的日期生效；上诉庭在Heidy Quah一案中的裁决已收窄第233(1)(a)条的部分内容；而社交媒体牌照制度仍处于早期实施阶段。希望了解现况的读者，应参阅SKMM门户网站上已更新的法令文本，密切关注修正案的宪报颁布与生效状态以及任何进一步上诉至联邦法院的动态，并就任何具体情况寻求法律咨询。本文为描述性的概览，而非法律咨询。
+第233条与第588号法令整体上正处于变动之中。2024年修正案如今已经生效——它于2025年2月7日宪报颁布，并于2025年2月11日开始生效（惟第92条与第112条将于日后生效）；上诉庭在Heidy Quah一案中的裁决已收窄第233(1)(a)条的部分内容；而社交媒体类别牌照制度已于2025年1月1日起生效。希望了解现况的读者，应参阅SKMM门户网站上已更新的法令文本，密切关注任何进一步上诉至联邦法院的动态，并就任何具体情况寻求法律咨询。本文为描述性的概览，而非法律咨询。

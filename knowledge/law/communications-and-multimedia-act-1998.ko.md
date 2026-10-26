@@ -30,7 +30,7 @@ faq:
     a: "라이선스 대상 활동은 네 개의 범주로 나뉩니다. 2024년 지시를 통하여, 말레이시아에 최소 800만 명의 사용자를 둔 소셜미디어 및 인터넷 메시징 제공자는 SKMM으로부터 등급 라이선스를 신청하여야 하며, 이는 2025년 1월 1일에 시행되었습니다."
 
 lang: "ko"
-sourceContentHash: "6cd84d5baa9c3ad8"
+sourceContentHash: "e6a81ea888e06a3e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ revisions:
 verificationNeeded:
   - "제233조 개정 형벌의 항 표기(일반 오용에 대해 RM500,000 벌금/2년 금고를 규정하는 항, 그리고 아동이 관련된 범죄에 대해 RM500,000 벌금/5년 금고를 규정하는 항) — 관보에 게재된 통신멀티미디어(개정)법 본문에 대조하여 확인하여야 합니다."
   - "아동이 관련된 범죄의 형벌 수치(RM500,000 / 5년) — 관보에 게재된 개정 본문에 대조하여 확인하여야 합니다."
-  - "2024년 개정의 상태 및 시행일 — 법안은 2024년 12월 양원에서 통과되었으나 장관이 관보로 정하는 날짜에 시행되며; 그것이 시행되었는지, 그리고 언제 시행되었는지를 확인하여야 합니다."
   - "소셜미디어 등급 라이선스의 '800만 사용자' 기준과 2025년 1월 1일 시행일 — SKMM의 공식 지시/명령에 대조하여 확인하여야 합니다."
 updated: 2026-08-07
 sources:
@@ -71,6 +70,9 @@ sources:
   - title: "2024년 통신멀티미디어 법안이 하원에서 통과 (Communications and Multimedia Bill 2024 passed in Dewan Rakyat)"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "더 엄격한 온라인 안전법 시행: 통신법 개정이 이제 발효 (Stricter online safety laws kick in: amendments to Communications Act now in force)"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "Malay Mail"
   - title: "Communications and Multimedia Act 1998의 개정이 말레이시아 의회에서 통과(업데이트) (Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update))"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -128,7 +130,7 @@ SKMM에 따르면, 이 법은 투명성, 경쟁 촉진, 규제의 유연성, 그
 
 ## 2024년 개정은 지형을 어떻게 바꾸는가?
 
-통신멀티미디어(개정)법안 2024는 하원(Dewan Rakyat)에서 2024년 12월 9일 — 찬성 59, 반대 40, 기권 1로 기록된 기명 표결로 — 통과되었고, 상원(Dewan Negara)에서 2024년 12월 16일 통과되었습니다. 법률사무소의 메모에 따르면, 국회가 통과시킨 개정은 이어서 국왕의 재가와 관보 게재가 필요하며, 장관이 정하는 날짜에 시행됩니다.
+통신멀티미디어(개정)법안 2024는 하원(Dewan Rakyat)에서 2024년 12월 9일 — 찬성 59, 반대 40, 기권 1로 기록된 기명 표결로 — 통과되었고, 상원(Dewan Negara)에서 2024년 12월 16일 통과되었습니다. 국회를 통과한 뒤, 이 개정은 국왕의 재가를 받고 2025년 2월 7일에 관보에 게재되어 2025년 2월 11일에 시행되었습니다 — 다만 제92조(요청하지 아니한 상업적 전자 메시지)와 제112조(통신 데이터의 보존 및 공개)는 장관이 정하는 추후의 날짜에 시행됩니다.
 
 보고된 변경 사항 가운데는 다음이 있습니다.
 
@@ -151,4 +153,4 @@ SKMM에 따르면, 이 법은 투명성, 경쟁 촉진, 규제의 유연성, 그
 
 ## 다음 단계
 
-제233조와 Akta 588은 전반적으로 변화하는 상태에 있습니다. 2024년 개정법안은 2024년 12월 양원에서 통과되어 장관이 관보로 정하는 날짜에 시행되며; Heidy Quah 사건의 항소법원 판결은 제233조 제1항 (a)호의 일부를 좁혔고; 소셜미디어 라이선스 체제는 여전히 초기 시행 단계에 있습니다. 현재의 상태를 이해하려는 독자는 SKMM 포털에 갱신된 법 본문을 참조하고, 개정의 관보 게재 및 시행 상태와 연방법원으로의 추가 상소 여부를 주시하며, 특정 상황에 대해서는 법률 자문을 받아야 합니다. 이 문서는 서술적 개관이며 법적 조언이 아닙니다.
+제233조와 Akta 588은 전반적으로 변화하는 상태에 있습니다. 2024년 개정은 이제 시행되었습니다 — 2025년 2월 7일에 관보에 게재되어 2025년 2월 11일에 시행되었으며(제92조와 제112조는 추후의 날짜에 시행); Heidy Quah 사건의 항소법원 판결은 제233조 제1항 (a)호의 일부를 좁혔고; 소셜미디어 라이선스 체제는 2025년 1월 1일에 시행되었습니다. 현재의 상태를 이해하려는 독자는 SKMM 포털에 갱신된 법 본문을 참조하고, 연방법원으로의 추가 상소 여부를 주시하며, 특정 상황에 대해서는 법률 자문을 받아야 합니다. 이 문서는 서술적 개관이며 법적 조언이 아닙니다.

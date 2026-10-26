@@ -34,7 +34,7 @@ faq:
     a: "예. 회사법 2016은 회생 수단을 도입하였습니다. 즉 법원이 선임한 관리인이 모라토리엄 하에 회사를 운영하는 관리명령(제403조~제430조)과, 회사 임의정리(제395조)입니다. 제366조에 따른 화의도 가액 기준 75%의 찬성과 법원의 인가로 회사가 채권자를 화해에 구속하게 합니다."
 
 lang: "ko"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "제33A조 5년 면책 발동의 정확한 법정 기산점을 도산법 1967의 현행 재발행판에 대조하여 확인하여야 합니다 — 인용된 출처는 이를 파산 명령이 실효된 날로부터 5년으로 규정하며, 표는 이제 이를 따릅니다."
+  - "제33A조 면책은 그 사람이 파산자가 된 지 최소 5년이 지나면 도산청장(Director General of Insolvency)의 증명서에 의하여 이루어집니다(도산(개정)법 2023(Insolvency (Amendment) Act 2023)으로 도입됨); 현행 전체 적격 요건을 말레이시아 도산청(Malaysian Department of Insolvency)의 지침에 대조하여 확인하여야 합니다."
   - "현행 제466조 제1항 (a)호 채무 기준(RM50,000 초과, 2021년 4월 1일부터 종료일 없이 시행)을 이에 의존하기 전에 최신 관보 고시 명령에 대조하여 확인하여야 합니다."
   - "회사 회생 규정과 그 참조(관리명령 제403조~제430조, CVA 제395조, 화의 제366조, 180일 기간, 가액 기준 75% 다수)를 회사법 2016의 현행 재발행판에 대조하여 확인하여야 합니다."
   - "운용 기관(말레이시아 도산청 / 도산청장)에 대한 올바른 지식 그래프 대상을 확인하여야 합니다; 이전의 법무장관실에 대한 administered-by 관계는 근거가 없어 삭제되었습니다."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "말레이시아 파산국 (Jabatan Insolvensi Malaysia) — 공식 포털 (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "더 이상 파산자가 아니다 (제2부) — 파산 명령의 면책 (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "제33A조 도산법 1967: 연민인가 아니면 채권자 권리의 타협인가? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Insolvency Act 1967은 어떻게 개편되었나: Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ MdI는 회사 청산도 운용하는 동일한 기관이므로, 두 체제 모�
 | 면책 방식 | 근거 | 가능해지는 시점 | 핵심 조건 |
 | --- | --- | --- | --- |
 | 법원 명령에 의한 면책 | 제33조 | 언제든지, 신청에 의해 | 법원이 파산자의 행위와 파산 원인을 형량 |
-| DGI 증명서에 의한 면책 | 제33A조 | 파산 명령이 실효된 날로부터 5년 | DGI가 원인과 파산자의 행위를 고려하여 증명서 발급 |
+| DGI 증명서에 의한 면책 | 제33A조 | 그 사람이 파산자가 된 지 최소 5년이 지난 후 | DGI가 원인과 파산자의 행위를 고려하여 증명서 발급 |
 | 자동 면책 | 제33C조 | 재산 상태 진술서 제출 후 3년 | 파산자가 DGI가 정한 금액을 납부하고 완전히 협조 |
 
 **제33C조에 따른 자동 면책**이 주요 개혁입니다. 그것은 협조적인 파산자가 재산 상태 진술서를 제출한 후 3년이 지나면, DGI가 정한 분담금을 납부하였음을 조건으로 자유로워지게 합니다 — 그 금액은 이제 채무의 고정 비율이 아니라 파산자의 실제 지급 능력에 연동됩니다.

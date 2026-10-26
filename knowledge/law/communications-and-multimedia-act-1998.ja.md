@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "6cd84d5baa9c3ad8"
+sourceContentHash: "e6a81ea888e06a3e"
 
 status: "published"
 aiAssisted: true
@@ -49,7 +49,6 @@ revisions:
 verificationNeeded:
   - "s.233改正刑罰の分節標示（一般的な不適切使用に対するRM500,000の罰金／2年の禁錮を規定する分節、及び子どもが関わる犯罪に対するRM500,000の罰金／5年の禁錮を規定する分節はそれぞれどれか）——官報告示された通信・マルチメディア（改正）法の文本に照らして確認すること。"
   - "子どもが関わる犯罪の刑罰数額（RM500,000／5年）——官報告示された改正法の文本に照らして確認すること。"
-  - "2024年改正の状況及び施行開始日——法案は2024年12月に両院で可決されたが、大臣が官報告示を通じて定める日に施行される；施行されたか否か、及びいつ施行されたかを確認すること。"
   - "ソーシャルメディアのクラスライセンスに関する「800万人の利用者」という閾値、及び2025年1月1日の施行日——MCMCの公式な指示／命令に照らして確認すること。"
 updated: 2026-08-07
 sources:
@@ -71,6 +70,9 @@ sources:
   - title: "2024年通信・マルチメディア法案が下院で可決 (Communications and Multimedia Bill 2024 passed in Dewan Rakyat)"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "オンライン安全法の厳格化：通信法の改正がいま施行 (Stricter online safety laws kick in: amendments to Communications Act now in force)"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "マレー・メール (Malay Mail)"
   - title: "Communications and Multimedia Act 1998の改正がマレーシア国会で可決（アップデート） (Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update))"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -128,7 +130,7 @@ s.233は「ネットワーク設備又はネットワークサービスの不適
 
 ## 2024年改正は状況をどのように変えたのか？
 
-2024年通信・マルチメディア（改正）法案（Communications and Multimedia (Amendment) Bill 2024）は、2024年12月9日に下院（Dewan Rakyat）で可決され——賛成59票、反対40票、棄権1票の記名投票として記録された——2024年12月16日に上院（Dewan Negara）で可決された。法律事務所の解説によれば、国会で可決された改正法は、その後、国王の裁可及び官報告示を必要とし、大臣が定める日に施行される。
+2024年通信・マルチメディア（改正）法案（Communications and Multimedia (Amendment) Bill 2024）は、2024年12月9日に下院（Dewan Rakyat）で可決され——賛成59票、反対40票、棄権1票の記名投票として記録された——2024年12月16日に上院（Dewan Negara）で可決された。国会で可決された後、この改正は国王の裁可を受け、2025年2月7日に官報告示され、2025年2月11日に施行された——ただし、s.92（求められていない商業用電子メッセージ）及びs.112（通信データの保存及び開示）は、大臣が定めるそれ以降の日に施行される。
 
 報道された変更点には、次のものが含まれる：
 
@@ -151,4 +153,4 @@ s.233は「ネットワーク設備又はネットワークサービスの不適
 
 ## 次のステップ
 
-s.233及びAct 588は全体として変化の途上にある。2024年改正法案は2024年12月に両院で可決され、大臣が官報告示を通じて定める日に施行される。Heidy Quah事件における控訴院の判決は、s.233(1)(a)の一部を狭めた。そして、ソーシャルメディアのライセンス制度は、依然として実施の初期段階にある。現在の状況を理解しようとする読者は、MCMCのポータルで更新された法令文本を参照し、改正の官報告示及び施行の状況、並びに連邦裁判所へのさらなる上訴の有無を注視し、具体的な状況については法律相談を求めるべきである。本記事は記述的な概観であり、法的助言ではない。
+s.233及びAct 588は全体として変化の途上にある。2024年改正はいまや施行されている——2025年2月7日に官報告示され、2025年2月11日に施行された（s.92及びs.112は、それ以降の日に施行される点を除く）。Heidy Quah事件における控訴院の判決は、s.233(1)(a)の一部を狭めた。そして、ソーシャルメディアのライセンス制度は、2025年1月1日に施行された。現在の状況を理解しようとする読者は、MCMCのポータルで更新された法令文本を参照し、連邦裁判所へのさらなる上訴の有無を注視し、具体的な状況については法律相談を求めるべきである。本記事は記述的な概観であり、法的助言ではない。

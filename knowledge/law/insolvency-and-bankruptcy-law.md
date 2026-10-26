@@ -50,10 +50,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the exact statutory starting point of the Section 33A five-year discharge trigger against the current reprint of the Insolvency Act 1967 — the cited source frames it as five years from the date the bankruptcy order lapses, which the table now follows."
+  - "The Section 33A discharge is by the Director General of Insolvency's certificate once the person has been a bankrupt for at least five years (introduced by the Insolvency (Amendment) Act 2023); confirm the full current eligibility conditions against the Malaysian Department of Insolvency's guidance."
   - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal"
     url: "https://www.mdi.gov.my/"
@@ -67,6 +67,9 @@ sources:
   - title: "A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -114,7 +117,7 @@ Bankruptcy is not meant to be permanent. The Insolvency Act 1967 provides three 
 | Mode of discharge | Provision | When it becomes available | Key condition |
 | --- | --- | --- | --- |
 | Discharge by court order | Section 33 | Any time, on application | The court weighs the bankrupt's conduct and the cause of bankruptcy |
-| Discharge by DGI certificate | Section 33A | 5 years from the date the bankruptcy order lapses | The DGI issues a certificate, considering the cause and the bankrupt's conduct |
+| Discharge by DGI certificate | Section 33A | After the person has been a bankrupt for at least 5 years | The DGI issues a certificate, considering the cause and the bankrupt's conduct |
 | Automatic discharge | Section 33C | 3 years after the statement of affairs is submitted | The bankrupt pays the sum the DGI determines and cooperates fully |
 
 The **automatic discharge under Section 33C** is the headline reform. It lets a cooperative bankrupt walk free three years after submitting the statement of affairs, provided they have paid the contribution the DGI sets — an amount now pegged to the bankrupt's actual financial ability rather than a fixed slice of the debt.

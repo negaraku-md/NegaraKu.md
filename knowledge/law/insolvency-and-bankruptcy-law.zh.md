@@ -34,7 +34,7 @@ faq:
     a: "有。《2016年公司法》引入了拯救机制：司法管理（第403至430条），由法庭委任的司法管理人在暂缓令（moratorium）下经营公司；以及公司自愿安排（第395条）。此外，第366条下的债务重组安排也允许公司在获得按价值计75%的批准并经法庭认可后，约束债权人接受和解方案。"
 
 lang: "zh"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "请对照 Insolvency Act 1967 的现行重印本，核实 Section 33A 五年解除破产触发点的确切法定起算点——所引用的来源将其表述为自破产令失效之日起五年，本表现已依此。"
+  - "第33A条的解除是由破产总监（Director General of Insolvency）在当事人破产至少五年之后签发证书而作出（由《2023年无力偿债（修正）法》引入）；请对照马来西亚破产局的指引核实现行的完整资格条件。"
   - "在依赖之前，请对照最新的宪报规定令核实现行 Section 466(1)(a) 的负债门槛（超过 RM50,000，自 1 April 2021 起生效且无日落条款）。"
   - "对照 Companies Act 2016 现行重印本，核实公司拯救条文及其引注（司法管理 ss.403-430、CVA s.395、债务重整方案 s.366、180 天期限、按价值 75% 的多数）。"
   - "请核实主管机构（Malaysian Department of Insolvency / Director General of Insolvency）在知识图谱中的正确目标；先前指向 Attorney General's Chambers 的「由…管理」关系因缺乏依据已被移除。"
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "马来西亚破产局 (Jabatan Insolvensi Malaysia) — 官方门户网站 (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "不再破产(第2部分) — 破产令的解除 (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "1967年无力偿债法第33A条：悲悯，抑或对债权人权利的妥协？(Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Insolvency Act 1967 如何焕然一新:Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ keywords: ["bankruptcy Malaysia", "insolvency act 1967", "winding up company Mal
 | 解除方式 | 条文 | 何时可适用 | 关键条件 |
 | --- | --- | --- | --- |
 | 通过法庭命令解除 | 第33条 | 任何时候，经申请 | 法庭权衡破产者的行为及破产的成因 |
-| 通过破产总监证书解除 | 第33A条 | 自破产令失效之日起5年 | 破产总监签发证书，考量成因及破产者的行为 |
+| 通过破产总监证书解除 | 第33A条 | 在当事人破产至少5年之后 | 破产总监签发证书，考量成因及破产者的行为 |
 | 自动解除 | 第33C条 | 提交财产状况报告后3年 | 破产者缴付破产总监所裁定的款项并全面配合 |
 
 **第33C条下的自动解除**是最引人注目的改革。它让配合的破产者在提交财产状况报告三年后即可脱身，前提是他已缴付破产总监所设定的分摊款——这一金额如今按破产者的实际经济能力厘定，而非债务的固定比例。

@@ -34,7 +34,7 @@ faq:
     a: "Ya. Akta Syarikat 2016 memperkenalkan mekanisme penyelamatan: pengurusan kehakiman (Seksyen 403-430), di mana pengurus kehakiman yang dilantik mahkamah menjalankan syarikat di bawah satu moratorium, dan aturan sukarela korporat (Seksyen 395). Skim susunan di bawah Seksyen 366 juga membolehkan sesebuah syarikat mengikat pemiutang kepada satu kompromi dengan kelulusan 75% mengikut nilai dan pengesahan mahkamah."
 
 lang: "ms"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Sahkan titik permulaan statutori sebenar bagi pencetus pelepasan lima tahun Section 33A terhadap cetakan semula semasa Insolvency Act 1967 — sumber yang dipetik merangkanya sebagai lima tahun dari tarikh perintah kebankrapan luput, yang kini diikuti oleh jadual itu."
+  - "Pelepasan Section 33A ialah melalui sijil Ketua Pengarah Insolvensi sebaik sahaja seseorang itu telah menjadi bankrap sekurang-kurangnya lima tahun (diperkenalkan oleh Akta Insolvensi (Pindaan) 2023); sahkan syarat kelayakan semasa yang lengkap terhadap panduan Jabatan Insolvensi Malaysia."
   - "Sahkan ambang keberhutangan seksyen 466(1)(a) semasa (melebihi RM50,000, berkuat kuasa sejak 1 April 2021 tanpa tarikh luput) terhadap perintah preskripsi terkini yang diwartakan sebelum bergantung padanya."
   - "Sahkan peruntukan penyelamatan korporat dan rujukannya (pengurusan kehakiman ss.403-430, CVA s.395, skim susunan s.366, tempoh 180 hari, majoriti 75% mengikut nilai) terhadap cetakan semula Companies Act 2016 semasa."
   - "Sahkan sasaran graf pengetahuan yang betul bagi badan pentadbir (Jabatan Insolvensi Malaysia / Ketua Pengarah Insolvensi); hubungan ditadbir-oleh yang terdahulu kepada Jabatan Peguam Negara telah dikeluarkan kerana tidak disokong."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "Jabatan Insolvensi Malaysia — portal rasmi (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "Bukan Lagi Bankrap (Bahagian 2) — Pelepasan Perintah Kebankrapan (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "Seksyen 33A Akta Insolvensi 1967: belas kasihan atau kompromi hak pemiutang? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Bagaimana Insolvency Act 1967 Diperbaharui: The Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ Kebankrapan tidak dimaksudkan untuk kekal selama-lamanya. Akta Insolvensi 1967 m
 | Cara pelepasan | Peruntukan | Bila ia tersedia | Syarat utama |
 | --- | --- | --- | --- |
 | Pelepasan melalui perintah mahkamah | Seksyen 33 | Pada bila-bila masa, atas permohonan | Mahkamah menimbang kelakuan bankrap dan punca kebankrapan |
-| Pelepasan melalui sijil KPI | Seksyen 33A | 5 tahun dari tarikh perintah kebankrapan luput | KPI mengeluarkan sijil, dengan mengambil kira punca dan kelakuan bankrap |
+| Pelepasan melalui sijil KPI | Seksyen 33A | Selepas seseorang itu menjadi bankrap sekurang-kurangnya 5 tahun | KPI mengeluarkan sijil, dengan mengambil kira punca dan kelakuan bankrap |
 | Pelepasan automatik | Seksyen 33C | 3 tahun selepas penyata hal ehwal dikemukakan | Bankrap membayar jumlah yang ditentukan KPI dan bekerjasama sepenuhnya |
 
 **Pelepasan automatik di bawah Seksyen 33C** ialah pembaharuan utama. Ia membolehkan bankrap yang bekerjasama bebas tiga tahun selepas mengemukakan penyata hal ehwal, dengan syarat mereka telah membayar sumbangan yang ditetapkan KPI — satu amaun yang kini dipatok kepada kemampuan kewangan sebenar bankrap dan bukannya bahagian tetap daripada hutang.

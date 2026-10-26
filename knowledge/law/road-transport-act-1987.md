@@ -18,6 +18,7 @@ keyTakeaways:
   - "Section 26(1) prohibits driving a motor vehicle on a road without a valid driving licence."
   - "The 2020 amendment made causing death by reckless or dangerous driving (s.41) carry 5-10 years' jail and a RM20,000-RM50,000 fine for a first offence."
   - "The same amendment lowered the legal breath-alcohol limit from 35 to 22 micrograms per 100 ml, matching WHO standards."
+  - "The Road Transport (Amendment) Act 2026 (in force 16 October 2026) created new offences for illegal street racing (s.42A) and acting as a racing lookout or 'tonto' (s.110B)."
 appliesTo: "Drivers, motorcyclists, vehicle owners, transport operators, law students, and anyone needing a plain-language reference to Malaysian road-traffic law."
 faq:
   - q: "What is the Road Transport Act 1987?"
@@ -26,6 +27,8 @@ faq:
     a: "Yes. Section 26(1) prohibits any person from driving a motor vehicle on a road without a valid driving licence."
   - q: "What changed with the 2020 amendment?"
     a: "The Road Transport (Amendment) Act 2020 came into force on 23 October 2020. It raised penalties and disqualification periods for reckless and dangerous driving and drink-driving (sections 41-45A), lowered the prescribed alcohol limits to WHO standards, and added a definition of 'micromobility vehicle'."
+  - q: "What did the Road Transport (Amendment) Act 2026 change?"
+    a: "The 2026 amendment came into force on 16 October 2026. It created a specific offence for illegal street racing (Section 42A, fine RM2,000-RM10,000 and/or up to two years' jail for a first offence) and a new 'tonto'/obstruction offence for acting as a racing lookout or interfering with enforcement (Section 110B, fine RM10,000-RM50,000 and/or one to five years' jail). It also raises the maximum compound for selected offences from RM300 to RM500, but only from 1 January 2029."
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
@@ -42,9 +45,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
-  - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
-updated: 2026-08-14
+  - "Complete authoritative list and citation numbers of all amending Acts (now including the Road Transport (Amendment) Act 2026) — confirm via the AGC 'Amendments' listing for Act 333."
+updated: 2026-10-26
 sources:
   - title: "Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023"
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/668-act-333-road-transport-act-1987/file"
@@ -64,6 +66,9 @@ sources:
   - title: "Road Transport Act amendments detailed — increased fines and longer jail terms"
     url: "https://paultan.org/2020/07/29/road-transport-act-amendments-detailed-increased-fines-and-longer-jail-terms-not-just-for-drink-driving/"
     publisher: "paultan.org"
+  - title: "Road Transport (Amendment) Act 2026 comes into force today, says Transport Ministry"
+    url: "https://www.thestar.com.my/news/nation/2026/10/16/road-transport-amendment-act-2026-comes-into-force-today-says-transport-ministry"
+    publisher: "The Star"
 entity: "Road Transport Act 1987 (Act 333)"
 wikidata: "Q27962026"
 relations: []
@@ -77,7 +82,7 @@ Almost every JPJ *saman*, every driving-licence class, and every third-party ins
 
 Its long title describes an Act to regulate motor vehicles and traffic on roads and other matters relating to roads and vehicles; to provide third-party protection against risks arising from the use of motor vehicles; and to co-ordinate and control the means and facilities for transport and for the construction and adaptation of motor vehicles. In short: it ties together licensing, road use, insurance and enforcement in a single framework.
 
-The Act was passed by the Dewan Rakyat on 10 July 1987 and the Dewan Negara on 17 July 1987, received Royal Assent on **30 August 1987**, and commenced on **24 September 1987**. JPJ maintains the current consolidated text; the latest reprint is the version amended as at 15 October 2023.
+The Act was passed by the Dewan Rakyat on 10 July 1987 and the Dewan Negara on 17 July 1987, received Royal Assent on **30 August 1987**, and commenced on **24 September 1987**. JPJ maintains the current consolidated text; the last consolidated reprint was amended as at 15 October 2023, and the most recent change is the Road Transport (Amendment) Act 2026, in force from 16 October 2026 (see below).
 
 ## How is the Act structured?
 
@@ -112,6 +117,15 @@ For section 41, that first-offence band is a sharp rise from the previous RM5,00
 ## How did drink-driving limits change?
 
 The 2020 amendment lowered the prescribed alcohol limits to World Health Organization standards. The breath-alcohol limit fell from **35 to 22 micrograms** per 100 ml, the blood-alcohol limit from **80 to 50 milligrams** per 100 ml, and the urine limit from **107 to 67 milligrams** per 100 ml. In practice, this means a lower threshold at which a driver is legally over the limit than before October 2020.
+
+## What did the Road Transport (Amendment) Act 2026 change?
+
+The **Road Transport (Amendment) Act 2026** was passed by the Dewan Rakyat on 24 June 2026 and **came into force on 16 October 2026**. Where the 2020 amendment focused on reckless-driving and drink-driving penalties, the 2026 amendment targets illegal street racing and the "tonto" (lookout) syndicates that support it, and tightens camera-enforcement accountability:
+
+- **Illegal street racing — new Section 42A.** Racing or conducting a speed trial on a public road is now a specific offence in its own right, so enforcement no longer has to wait for a crash. A first conviction carries a fine of **RM2,000–RM10,000**, up to **two years' jail**, or both; a repeat conviction rises to **RM5,000–RM20,000** and up to **five years' jail**.
+- **"Tonto" / obstruction — new Section 110B.** Acting as a lookout or otherwise obstructing or interfering with enforcement — for example tailing enforcement vehicles or relaying information about operations — is an arrestable offence punishable by a fine of **RM10,000–RM50,000**, **one to five years' jail**, or both.
+- **Owner accountability and digitalisation.** The Act places more responsibility on the registered owner for offences caught by enforcement cameras and extends JPJ's digitalisation of licensing and summonses.
+- **Higher compound ceiling (from 2029).** The maximum compound for selected traffic offences rises from **RM300 to RM500**, but only **from 1 January 2029**, not from the Act's commencement.
 
 ## What's next
 

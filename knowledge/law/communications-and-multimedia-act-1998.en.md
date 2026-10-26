@@ -30,7 +30,7 @@ faq:
     a: "Licensed activities are divided into four categories. Through a 2024 directive, social media and Internet messaging providers with at least eight million users in Malaysia are required to apply for a class licence from the MCMC, effective 1 January 2025."
 
 lang: "en"
-sourceContentHash: "6cd84d5baa9c3ad8"
+sourceContentHash: "e6a81ea888e06a3e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ revisions:
 verificationNeeded:
   - "The subsection labelling for the amended Section 233 penalties (which subsection carries the RM500,000 fine / 2 years' imprisonment for general misuse, and which subsection carries the penalty for offences involving children of RM500,000 / 5 years' imprisonment) — check against the gazetted text of the Communications and Multimedia (Amendment) Act."
   - "The penalty figures for offences involving children (RM500,000 / 5 years) — confirm against the gazetted amendment text."
-  - "The status and commencement date of the 2024 Amendment — the Bill was passed by both Houses in December 2024 but comes into force on a date appointed by the Minister via the gazette; confirm whether and when it has come into force."
   - "The 'eight million users' threshold and the 1 January 2025 effective date for the social-media class licence — confirm against an official SKMM directive/order."
 updated: 2026-08-07
 sources:
@@ -71,6 +70,9 @@ sources:
   - title: "Communications and Multimedia Bill 2024 passed in Dewan Rakyat"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "Stricter online safety laws kick in: amendments to Communications Act now in force"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "Malay Mail"
   - title: "Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update)"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -128,7 +130,7 @@ This provision is frequently used because of its broad scope: it applies to near
 
 ## How did the 2024 amendments change the landscape?
 
-The Communications and Multimedia (Amendment) Bill 2024 was passed by the Dewan Rakyat on 9 December 2024 — by a bloc vote recorded as 59 in favour, 40 against and one abstention — and by the Dewan Negara on 16 December 2024. According to law-firm notes, amendments passed by Parliament next require royal assent and gazettement, and come into force on a date appointed by the Minister.
+The Communications and Multimedia (Amendment) Bill 2024 was passed by the Dewan Rakyat on 9 December 2024 — by a bloc vote recorded as 59 in favour, 40 against and one abstention — and by the Dewan Negara on 16 December 2024. After being passed by Parliament, the amendments received royal assent and were gazetted on 7 February 2025, and came into force on 11 February 2025 — except for Section 92 (unsolicited commercial electronic messages) and Section 112 (preservation and disclosure of communications data), which will come into force on a later date appointed by the Minister.
 
 Among the reported changes:
 
@@ -151,4 +153,4 @@ The issue has also reached the courts. In *Heidy Quah Gaik Li v Government of Ma
 
 ## What's next
 
-Section 233 and Act 588 generally are in a state of flux. The 2024 Amendment Bill was passed by both Houses in December 2024 and comes into force on a date appointed by the Minister through gazettement; the Court of Appeal's ruling in the Heidy Quah case has narrowed part of Section 233(1)(a); and the social media licensing regime is still in its early stages of implementation. Readers seeking to understand the current position should refer to the updated text of the Act on the MCMC portal, monitor the gazettement and commencement status of the amendments as well as any further appeals to the Federal Court, and obtain legal advice for any specific situation. This article is a descriptive overview and not legal advice.
+Section 233 and Act 588 generally are in a state of flux. The 2024 Amendment is now in force — it was gazetted on 7 February 2025 and came into force on 11 February 2025 (except for Sections 92 and 112, which come into force on a later date); the Court of Appeal's ruling in the Heidy Quah case has narrowed part of Section 233(1)(a); and the social media class-licensing regime came into force on 1 January 2025. Readers seeking to understand the current position should refer to the updated text of the Act on the MCMC portal, monitor any further appeals to the Federal Court, and obtain legal advice for any specific situation. This article is a descriptive overview and not legal advice.

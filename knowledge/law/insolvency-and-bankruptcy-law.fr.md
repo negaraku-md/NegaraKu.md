@@ -34,7 +34,7 @@ faq:
     a: "Oui. La Companies Act 2016 a introduit des mécanismes de sauvetage : l'administration judiciaire (Sections 403-430), où un administrateur judiciaire désigné par le tribunal dirige l'entreprise sous une moratoire, et l'arrangement volontaire d'entreprise (Section 395). Un concordat au titre de la Section 366 permet également à une entreprise de lier ses créanciers à un compromis avec l'approbation de 75 % en valeur et la sanction du tribunal."
 
 lang: "fr"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,10 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirmer le point de départ légal exact du déclencheur de réhabilitation de cinq ans de la Section 33A par rapport à la réimpression actuelle de l'Insolvency Act 1967 — la source citée le présente comme cinq ans à compter de la date à laquelle l'ordonnance de faillite expire, ce que le tableau suit désormais."
-  - "Confirmer le seuil d'endettement actuel de la Section 466(1)(a) (supérieur à RM50,000, en vigueur depuis le 1er avril 2021 sans date de caducité) par rapport au dernier arrêté de prescription publié au journal officiel avant de s'y fier."
-  - "Confirmer les dispositions de sauvetage des entreprises et leurs références (administration judiciaire ss.403-430, CVA s.395, concordat s.366, période de 180 jours, majorité de 75 % en valeur) par rapport à la réimpression actuelle de la Companies Act 2016."
+  - "La réhabilitation au titre de la Section 33A s'effectue par certificat du Directeur général de l'insolvabilité une fois que la personne a été en faillite pendant au moins cinq ans (introduite par l'Insolvency (Amendment) Act 2023) ; confirmer l'ensemble des conditions d'éligibilité actuelles par rapport aux directives du Département de l'insolvabilité de Malaisie."
   - "Confirmer la cible correcte du graphe de connaissances pour l'organe administrateur (Département de l'insolvabilité de Malaisie / Directeur général de l'insolvabilité) ; la précédente relation administré-par avec le Cabinet du Procureur général a été supprimée car non étayée."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "Département de l'insolvabilité de Malaisie (Jabatan Insolvensi Malaysia) — portail officiel (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +68,9 @@ sources:
   - title: "Plus un failli (Partie 2) — La réhabilitation d'une ordonnance de faillite (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "La Section 33A de l'Insolvency Act 1967 : compassion ou compromis des droits des créanciers ? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Comment l'Insolvency Act 1967 a fait peau neuve : l'Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +118,7 @@ La faillite n'est pas censée être permanente. L'Insolvency Act 1967 prévoit t
 | Mode de réhabilitation | Disposition | Quand elle devient disponible | Condition clé |
 | --- | --- | --- | --- |
 | Réhabilitation par ordonnance du tribunal | Section 33 | À tout moment, sur demande | Le tribunal pèse la conduite du failli et la cause de la faillite |
-| Réhabilitation par certificat du DGI | Section 33A | 5 ans à compter de la date à laquelle l'ordonnance de faillite expire | Le DGI délivre un certificat, en tenant compte de la cause et de la conduite du failli |
+| Réhabilitation par certificat du DGI | Section 33A | Après que la personne a été en faillite pendant au moins 5 ans | Le DGI délivre un certificat, en tenant compte de la cause et de la conduite du failli |
 | Réhabilitation automatique | Section 33C | 3 ans après le dépôt de la déclaration de situation | Le failli paie la somme déterminée par le DGI et coopère pleinement |
 
 La **réhabilitation automatique au titre de la Section 33C** est la réforme phare. Elle permet à un failli coopératif d'être libéré trois ans après le dépôt de la déclaration de situation, à condition qu'il ait payé la contribution fixée par le DGI, un montant désormais indexé sur la capacité financière réelle du failli plutôt que sur une fraction fixe de la dette.

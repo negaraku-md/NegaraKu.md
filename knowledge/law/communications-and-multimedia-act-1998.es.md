@@ -30,7 +30,7 @@ faq:
     a: "Las actividades sujetas a licencia se dividen en cuatro categorías. Mediante una directiva de 2024, los proveedores de redes sociales y de mensajería por Internet con al menos ocho millones de usuarios en Malasia deben solicitar una licencia de clase (class licence) a la MCMC, con efecto desde el 1 de enero de 2025."
 
 lang: "es"
-sourceContentHash: "6cd84d5baa9c3ad8"
+sourceContentHash: "e6a81ea888e06a3e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ revisions:
 verificationNeeded:
   - "The subsection labelling for the amended Section 233 penalties (which subsection carries the RM500,000 fine / 2 years' imprisonment for general misuse, and which subsection carries the penalty for offences involving children of RM500,000 / 5 years' imprisonment) — check against the gazetted text of the Communications and Multimedia (Amendment) Act."
   - "The penalty figures for offences involving children (RM500,000 / 5 years) — confirm against the gazetted amendment text."
-  - "The status and commencement date of the 2024 Amendment — the Bill was passed by both Houses in December 2024 but comes into force on a date appointed by the Minister via the gazette; confirm whether and when it has come into force."
   - "The 'eight million users' threshold and the 1 January 2025 effective date for the social-media class licence — confirm against an official SKMM directive/order."
 updated: 2026-08-07
 sources:
@@ -71,6 +70,9 @@ sources:
   - title: "El Communications and Multimedia Bill 2024 aprobado en el Dewan Rakyat (Communications and Multimedia Bill 2024 passed in Dewan Rakyat)"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "Entran en vigor leyes más estrictas de seguridad en línea: las enmiendas a la Communications Act ya están vigentes (Stricter online safety laws kick in: amendments to Communications Act now in force)"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "Malay Mail"
   - title: "El Parlamento de Malasia aprueba las enmiendas a la Communications and Multimedia Act 1998 (actualización) (Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update))"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -128,7 +130,7 @@ Esta disposición se emplea con frecuencia por su amplio alcance: se aplica a ca
 
 ## ¿Cómo cambiaron el panorama las enmiendas de 2024?
 
-El Communications and Multimedia (Amendment) Bill 2024 fue aprobado por el Dewan Rakyat el 9 de diciembre de 2024 — en una votación por bloque registrada como 59 a favor, 40 en contra y una abstención — y por el Dewan Negara el 16 de diciembre de 2024. Según las notas de despachos de abogados, las enmiendas aprobadas por el Parlamento requieren a continuación la sanción real y la publicación en la gaceta, y entran en vigor en una fecha fijada por el Ministro.
+El Communications and Multimedia (Amendment) Bill 2024 fue aprobado por el Dewan Rakyat el 9 de diciembre de 2024 — en una votación por bloque registrada como 59 a favor, 40 en contra y una abstención — y por el Dewan Negara el 16 de diciembre de 2024. Tras ser aprobadas por el Parlamento, las enmiendas recibieron la sanción real y se publicaron en la gaceta el 7 de febrero de 2025, y entraron en vigor el 11 de febrero de 2025 — con excepción de la sección 92 (mensajes comerciales electrónicos no solicitados) y la sección 112 (conservación y divulgación de datos de comunicaciones), que entrarán en vigor en una fecha posterior fijada por el Ministro.
 
 Entre los cambios reportados:
 
@@ -151,4 +153,4 @@ El asunto también ha llegado a los tribunales. En *Heidy Quah Gaik Li contra el
 
 ## Qué sigue
 
-La sección 233 y el Act 588 en general se encuentran en un estado de cambio. El proyecto de ley de enmienda de 2024 fue aprobado por ambas Cámaras en diciembre de 2024 y entra en vigor en una fecha fijada por el Ministro mediante su publicación en la gaceta; la resolución del Tribunal de Apelación en el caso Heidy Quah ha estrechado parte de la sección 233(1)(a); y el régimen de concesión de licencias para redes sociales se halla todavía en sus primeras etapas de implementación. Los lectores que deseen entender la situación actual deben remitirse al texto actualizado del Act en el portal de la MCMC, vigilar el estado de publicación en la gaceta y de entrada en vigor de las enmiendas, así como cualquier apelación posterior ante el Tribunal Federal, y obtener asesoramiento jurídico para cualquier situación específica. Este artículo es una panorámica descriptiva y no asesoramiento jurídico.
+La sección 233 y el Act 588 en general se encuentran en un estado de cambio. Las enmiendas de 2024 ya están en vigor — se publicaron en la gaceta el 7 de febrero de 2025 y entraron en vigor el 11 de febrero de 2025 (salvo las secciones 92 y 112, que entran en vigor en una fecha posterior); la resolución del Tribunal de Apelación en el caso Heidy Quah ha estrechado parte de la sección 233(1)(a); y el régimen de concesión de licencias para redes sociales entró en vigor el 1 de enero de 2025. Los lectores que deseen entender la situación actual deben remitirse al texto actualizado del Act en el portal de la MCMC, vigilar cualquier apelación posterior ante el Tribunal Federal, y obtener asesoramiento jurídico para cualquier situación específica. Este artículo es una panorámica descriptiva y no asesoramiento jurídico.

@@ -30,7 +30,7 @@ faq:
     a: "Aktivitas berlisensi dibagi menjadi empat kategori. Melalui arahan 2024, penyedia media sosial dan perpesanan Internet dengan setidaknya delapan juta pengguna di Malaysia diwajibkan mengajukan lisensi kelas dari SKMM, berlaku 1 Januari 2025."
 
 lang: "id"
-sourceContentHash: "6cd84d5baa9c3ad8"
+sourceContentHash: "e6a81ea888e06a3e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ revisions:
 verificationNeeded:
   - "Pelabelan subpasal bagi hukuman perubahan Pasal 233 (subpasal mana yang membawa denda RM500,000 / penjara 2 tahun bagi penyalahgunaan umum, dan subpasal mana yang membawa hukuman pelanggaran yang melibatkan anak RM500,000 / penjara 5 tahun) — periksa terhadap teks Communications and Multimedia (Amendment) Act yang telah diundangkan."
   - "Angka hukuman pelanggaran yang melibatkan anak (RM500,000 / 5 tahun) — pastikan terhadap teks perubahan yang diundangkan."
-  - "Status dan tanggal mulai berlakunya Perubahan 2024 — Rancangan Undang-Undang disahkan kedua Dewan pada Desember 2024 tetapi mulai berlaku pada tanggal yang ditetapkan Menteri melalui lembaran negara; pastikan apakah dan kapan ia telah berlaku."
   - "Ambang 'delapan juta pengguna' dan tanggal berlaku 1 Januari 2025 bagi lisensi kelas media sosial — pastikan terhadap arahan/perintah resmi SKMM."
 updated: 2026-08-07
 sources:
@@ -71,6 +70,9 @@ sources:
   - title: "Communications and Multimedia Bill 2024 passed in Dewan Rakyat"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "Undang-undang keselamatan daring yang lebih ketat mulai berlaku: perubahan terhadap Communications Act kini berlaku (Stricter online safety laws kick in: amendments to Communications Act now in force)"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "Malay Mail"
   - title: "Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update)"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -128,7 +130,7 @@ Ketentuan ini sering digunakan karena cakupannya yang luas: ia berlaku pada hamp
 
 ## Bagaimana Perubahan 2024 mengubah lanskap?
 
-Communications and Multimedia (Amendment) Bill 2024 disahkan oleh Dewan Rakyat pada 9 Desember 2024 — melalui pemungutan suara blok yang dicatat sebagai 59 mendukung, 40 menentang dan satu abstain — dan oleh Dewan Negara pada 16 Desember 2024. Menurut catatan firma hukum, perubahan yang disahkan Parlemen selanjutnya memerlukan perkenan diraja dan pengundangan, dan mulai berlaku pada tanggal yang ditetapkan oleh Menteri.
+Communications and Multimedia (Amendment) Bill 2024 disahkan oleh Dewan Rakyat pada 9 Desember 2024 — melalui pemungutan suara blok yang dicatat sebagai 59 mendukung, 40 menentang dan satu abstain — dan oleh Dewan Negara pada 16 Desember 2024. Setelah disahkan Parlemen, perubahan itu menerima perkenan diraja dan diundangkan pada 7 Februari 2025, lalu mulai berlaku pada 11 Februari 2025 — kecuali Pasal 92 (pesan komersial elektronik yang tidak diminta) dan Pasal 112 (pemeliharaan dan pengungkapan data komunikasi) yang akan berlaku pada tanggal kemudian yang ditetapkan oleh Menteri.
 
 Di antara perubahan yang dilaporkan:
 
@@ -151,4 +153,4 @@ Isu ini juga sampai ke pengadilan. Dalam kasus *Heidy Quah Gaik Li lwn Kerajaan 
 
 ## Apa yang selanjutnya
 
-Pasal 233 dan Act 588 secara umum berada dalam keadaan berubah. Communications and Multimedia (Amendment) Bill 2024 telah disahkan oleh kedua Dewan pada Desember 2024 dan mulai berlaku pada tanggal yang ditetapkan oleh Menteri melalui lembaran negara; putusan Mahkamah Rayuan dalam kasus Heidy Quah telah mempersempit sebagian dari Pasal 233(1)(a); dan rezim perizinan media sosial masih dalam tahap pelaksanaan awal. Pembaca yang ingin memahami kedudukan saat ini harus merujuk teks Akta yang telah diperbarui di portal SKMM, memantau status pengundangan dan mulai berlakunya perubahan serta setiap banding lanjutan ke Mahkamah Persekutuan, dan memperoleh nasihat hukum bagi situasi khusus apa pun. Artikel ini adalah gambaran umum deskriptif dan bukan nasihat hukum.
+Pasal 233 dan Act 588 secara umum berada dalam keadaan berubah. Perubahan 2024 kini telah berlaku — ia diundangkan pada 7 Februari 2025 dan mulai berlaku pada 11 Februari 2025 (kecuali Pasal 92 dan 112 yang berlaku pada tanggal kemudian); putusan Mahkamah Rayuan dalam kasus Heidy Quah telah mempersempit sebagian dari Pasal 233(1)(a); dan rezim perizinan media sosial telah berlaku pada 1 Januari 2025. Pembaca yang ingin memahami kedudukan saat ini harus merujuk teks Akta yang telah diperbarui di portal SKMM, memantau setiap banding lanjutan ke Mahkamah Persekutuan, dan memperoleh nasihat hukum bagi situasi khusus apa pun. Artikel ini adalah gambaran umum deskriptif dan bukan nasihat hukum.

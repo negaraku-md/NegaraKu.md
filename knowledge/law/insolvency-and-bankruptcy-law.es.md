@@ -34,7 +34,7 @@ faq:
     a: "Sí. La Companies Act 2016 introdujo mecanismos de rescate: la administración judicial (Sections 403-430), en virtud de la cual un administrador judicial designado por el tribunal dirige la empresa bajo una moratoria, y el convenio voluntario corporativo (Section 395). Un convenio de arreglo en virtud de la Section 366 también permite a una empresa vincular a los acreedores a un acuerdo con la aprobación del 75% por valor y la sanción del tribunal."
 
 lang: "es"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the exact statutory starting point of the Section 33A five-year discharge trigger against the current reprint of the Insolvency Act 1967 — the cited source frames it as five years from the date the bankruptcy order lapses, which the table now follows."
+  - "The Section 33A discharge is by the Director General of Insolvency's certificate once the person has been a bankrupt for at least five years (introduced by the Insolvency (Amendment) Act 2023); confirm the full current eligibility conditions against the Malaysian Department of Insolvency's guidance."
   - "Confirm the current Section 466(1)(a) indebtedness threshold (exceeding RM50,000, in force since 1 April 2021 with no sunset) against the latest gazetted prescription order before relying on it."
   - "Confirm the corporate rescue provisions and their references (judicial management ss.403-430, CVA s.395, scheme of arrangement s.366, 180-day period, 75%-by-value majority) against the current reprint of the Companies Act 2016."
   - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "Departamento de Insolvencia de Malasia (Jabatan Insolvensi Malaysia) — portal oficial (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "Ya no un quebrado (Parte 2) — La rehabilitación de una orden de quiebra (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "Section 33A de la Insolvency Act 1967: ¿compasión o menoscabo de los derechos de los acreedores? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Cómo la Insolvency Act 1967 recibió un lavado de cara: la Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ La quiebra no está pensada para ser permanente. La Insolvency Act 1967 prevé t
 | Modo de rehabilitación | Disposición | Cuándo queda disponible | Condición clave |
 | --- | --- | --- | --- |
 | Rehabilitación por orden judicial | Section 33 | En cualquier momento, previa solicitud | El tribunal pondera la conducta del quebrado y la causa de la quiebra |
-| Rehabilitación por certificado del DGI | Section 33A | 5 años desde la fecha en que caduca la orden de quiebra | El DGI emite un certificado, considerando la causa y la conducta del quebrado |
+| Rehabilitación por certificado del DGI | Section 33A | Una vez que la persona ha sido un quebrado durante al menos 5 años | El DGI emite un certificado, considerando la causa y la conducta del quebrado |
 | Rehabilitación automática | Section 33C | 3 años después de presentar la declaración de bienes | El quebrado paga la suma que determine el DGI y coopera plenamente |
 
 La **rehabilitación automática en virtud de la Section 33C** es la reforma estrella. Permite que un quebrado cooperador quede libre tres años después de presentar la declaración de bienes, siempre que haya pagado la contribución que fije el DGI, un importe ahora vinculado a la capacidad financiera real del quebrado en lugar de a una fracción fija de la deuda.

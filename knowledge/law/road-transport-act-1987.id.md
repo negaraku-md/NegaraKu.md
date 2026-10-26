@@ -18,6 +18,7 @@ keyTakeaways:
   - "Pasal 26(1) melarang seseorang mengemudi kendaraan bermotor di jalan tanpa lisensi mengemudi yang sah."
   - "Amandemen 2020 menjadikan tindak pidana menyebabkan kematian akibat mengemudi secara ugal-ugalan atau berbahaya (s.41) membawa pidana penjara 5-10 tahun dan denda RM20,000-RM50,000 bagi pelanggaran pertama."
   - "Amandemen yang sama menurunkan batas alkohol napas yang sah dari 35 menjadi 22 mikrogram per 100 ml, sesuai dengan standar WHO."
+  - "Road Transport (Amendment) Act 2026 (berlaku 16 Oktober 2026) menciptakan pelanggaran baru bagi balapan jalanan liar (s.42A) dan bertindak sebagai pengintai balapan atau 'tonto' (s.110B)."
 appliesTo: "Pengemudi, pengendara sepeda motor, pemilik kendaraan, operator transportasi, mahasiswa hukum, dan siapa saja yang memerlukan rujukan bahasa sederhana tentang undang-undang lalu lintas jalan raya Malaysia."
 faq:
   - q: "Apa itu Akta Pengangkutan Jalan 1987?"
@@ -26,8 +27,10 @@ faq:
     a: "Ya. Pasal 26(1) melarang siapa pun mengemudi kendaraan bermotor di jalan tanpa lisensi mengemudi yang sah."
   - q: "Apa yang berubah dengan amandemen 2020?"
     a: "Akta Pengangkutan Jalan (Pindaan) 2020 mulai berlaku pada 23 Oktober 2020. Ia menaikkan penalti dan masa pencabutan kelayakan bagi mengemudi secara ugal-ugalan dan berbahaya serta mengemudi dalam keadaan mabuk (Pasal 41-45A), menurunkan batas alkohol yang ditetapkan ke standar WHO, dan menambah definisi 'kendaraan mikromobilitas'."
+  - q: "Apa yang diubah oleh Road Transport (Amendment) Act 2026?"
+    a: "Amandemen 2026 mulai berlaku pada 16 Oktober 2026. Ia menciptakan pelanggaran khusus bagi balapan jalanan liar (Pasal 42A, denda RM2,000-RM10,000 dan/atau penjara hingga dua tahun bagi pelanggaran pertama) dan pelanggaran 'tonto'/obstruksi baru bagi bertindak sebagai pengintai balapan atau mengganggu penegakan (Pasal 110B, denda RM10,000-RM50,000 dan/atau penjara satu hingga lima tahun). Ia juga menaikkan kompaun maksimum bagi pelanggaran tertentu dari RM300 menjadi RM500, tetapi hanya mulai 1 Januari 2029."
 lang: "id"
-sourceContentHash: "e438c79ab71a1dba"
+sourceContentHash: "34ec34fd8949132f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,9 +47,8 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "Rumusan lengkap yang tepat dari batas DUI yang ditetapkan (s.45G) dan penalti berjenjang di bawah s.44/45/45A — selaraskan laporan paultan dengan teks amandemen yang disiarkan dalam Warta."
-  - "Apakah pembaruan penalti lalu lintas Juni 2026 yang lebih lanjut telah disahkan dan disiarkan dalam Warta — jaga agar halaman ini tetap pada undang-undang yang sedang berlaku dan tangani usulan kenaikan apa pun secara terpisah."
-  - "Daftar autoritatif lengkap dan nomor sitasi semua Akta amandemen — pastikan melalui daftar 'Amendments' AGC bagi Act 333."
-updated: 2026-08-14
+  - "Daftar autoritatif lengkap dan nomor sitasi semua Akta amandemen (kini termasuk Road Transport (Amendment) Act 2026) — pastikan melalui daftar 'Amendments' AGC bagi Act 333."
+updated: 2026-10-26
 sources:
   - title: "Road Transport Act 1987 (Act 333) — teks cetak ulang yang dimutakhirkan oleh AGC, per 15 Oktober 2023 (Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023)"
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/668-act-333-road-transport-act-1987/file"
@@ -66,6 +68,9 @@ sources:
   - title: "Rincian amandemen Road Transport Act — denda dinaikkan dan hukuman penjara diperpanjang (Road Transport Act amendments detailed — increased fines and longer jail terms)"
     url: "https://paultan.org/2020/07/29/road-transport-act-amendments-detailed-increased-fines-and-longer-jail-terms-not-just-for-drink-driving/"
     publisher: "paultan.org"
+  - title: "Road Transport (Amendment) Act 2026 mulai berlaku hari ini, kata Kementerian Pengangkutan (Road Transport (Amendment) Act 2026 comes into force today, says Transport Ministry)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/16/road-transport-amendment-act-2026-comes-into-force-today-says-transport-ministry"
+    publisher: "The Star"
 entity: "Road Transport Act 1987 (Act 333)"
 wikidata: "Q27962026"
 relations: []
@@ -79,7 +84,7 @@ Hampir setiap *tilang* JPJ, setiap kelas lisensi mengemudi, dan setiap polis ins
 
 Judul panjangnya menguraikan suatu Akta untuk mengatur kendaraan bermotor dan lalu lintas di jalan serta hal-hal lain yang berkaitan dengan jalan dan kendaraan; untuk mengadakan perlindungan pihak ketiga terhadap risiko yang timbul dari penggunaan kendaraan bermotor; dan untuk menyelaraskan serta mengatur cara dan fasilitas bagi transportasi serta bagi konstruksi dan penyesuaian kendaraan bermotor. Ringkasnya: ia menyatukan perizinan, penggunaan jalan, asuransi, dan penegakan dalam satu kerangka tunggal.
 
-Akta ini disahkan oleh Dewan Rakyat pada 10 Juli 1987 dan Dewan Negara pada 17 Juli 1987, menerima Perkenan Diraja pada **30 Agustus 1987**, dan mulai berlaku pada **24 September 1987**. JPJ memelihara teks terkonsolidasi yang terkini; cetak ulang terbaru adalah versi yang diubah per 15 Oktober 2023.
+Akta ini disahkan oleh Dewan Rakyat pada 10 Juli 1987 dan Dewan Negara pada 17 Juli 1987, menerima Perkenan Diraja pada **30 Agustus 1987**, dan mulai berlaku pada **24 September 1987**. JPJ memelihara teks terkonsolidasi yang terkini; cetak ulang terbaru adalah versi yang diubah per 15 Oktober 2023, dan perubahan terbaru adalah Road Transport (Amendment) Act 2026, yang berlaku mulai 16 Oktober 2026 (lihat di bawah).
 
 ## Bagaimana Akta ini disusun?
 
@@ -114,6 +119,15 @@ Bagi Pasal 41, jalur pelanggaran pertama itu merupakan kenaikan mendadak dibandi
 ## Bagaimana batas mengemudi dalam keadaan mabuk berubah?
 
 Amandemen 2020 menurunkan batas alkohol yang ditetapkan ke standar Organisasi Kesehatan Dunia (WHO). Batas alkohol napas turun dari **35 menjadi 22 mikrogram** per 100 ml, batas alkohol darah dari **80 menjadi 50 miligram** per 100 ml, dan batas urine dari **107 menjadi 67 miligram** per 100 ml. Dalam praktiknya, ini berarti ambang yang lebih rendah bagi seorang pengemudi untuk dianggap melebihi batas menurut hukum dibandingkan sebelum Oktober 2020.
+
+## Apa yang diubah oleh Road Transport (Amendment) Act 2026?
+
+**Road Transport (Amendment) Act 2026** disahkan oleh Dewan Rakyat pada 24 Juni 2026 dan **mulai berlaku pada 16 Oktober 2026**. Jika amandemen 2020 berfokus pada penalti mengemudi ugal-ugalan dan mengemudi dalam keadaan mabuk, amandemen 2026 menyasar balapan jalanan liar serta sindikat "tonto" (pengintai) yang mendukungnya, dan memperketat akuntabilitas penegakan berbasis kamera:
+
+- **Balapan jalanan liar — Pasal 42A baru.** Berlumba atau melakukan uji kecepatan di jalan umum kini menjadi pelanggaran tersendiri, sehingga penegakan tidak perlu lagi menunggu terjadinya kecelakaan. Vonis pertama membawa denda **RM2,000–RM10,000**, penjara hingga **dua tahun**, atau keduanya; vonis berulang naik menjadi **RM5,000–RM20,000** dan penjara hingga **lima tahun**.
+- **"Tonto" / obstruksi — Pasal 110B baru.** Bertindak sebagai pengintai atau sebaliknya menghalangi atau mengganggu penegakan — misalnya membuntuti kendaraan penegak hukum atau meneruskan informasi tentang operasi — merupakan pelanggaran yang dapat ditangkap (arrestable) dengan ancaman denda **RM10,000–RM50,000**, penjara **satu hingga lima tahun**, atau keduanya.
+- **Akuntabilitas pemilik dan digitalisasi.** Akta ini menempatkan lebih banyak tanggung jawab pada pemilik terdaftar atas pelanggaran yang terekam oleh kamera penegakan dan memperluas digitalisasi perizinan dan tilang oleh JPJ.
+- **Plafon kompaun yang lebih tinggi (mulai 2029).** Kompaun maksimum bagi pelanggaran lalu lintas tertentu naik dari **RM300 menjadi RM500**, tetapi hanya **mulai 1 Januari 2029**, bukan sejak Akta mulai berlaku.
 
 ## Apa selanjutnya
 

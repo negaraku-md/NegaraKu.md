@@ -34,7 +34,7 @@ faq:
     a: "हाँ। कंपनी अधिनियम 2016 ने बचाव तंत्र पेश किए: न्यायिक प्रबंधन (धारा 403-430), जिसके तहत न्यायालय-नियुक्त न्यायिक प्रबंधक एक रोक (moratorium) के तहत कंपनी चलाता है, और कॉर्पोरेट स्वैच्छिक व्यवस्था (धारा 395)। धारा 366 के तहत व्यवस्था की एक योजना भी किसी कंपनी को मूल्य के आधार पर 75% अनुमोदन और न्यायालय की स्वीकृति से लेनदारों को समझौते में बाँधने देती है।"
 
 lang: "hi"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Confirm the exact statutory starting point of the Section 33A five-year discharge trigger against the current reprint of the Insolvency Act 1967 — the cited source frames it as five years from the date the bankruptcy order lapses, which the table now follows."
+  - "The Section 33A discharge is by the Director General of Insolvency's certificate once the person has been a bankrupt for at least five years (introduced by the Insolvency (Amendment) Act 2023); confirm the full current eligibility conditions against the Malaysian Department of Insolvency's guidance."
   - "Confirm the current Section 466(1)(a) indebtedness threshold (exceeding RM50,000, in force since 1 April 2021 with no sunset) against the latest gazetted prescription order before relying on it."
   - "Confirm the corporate rescue provisions and their references (judicial management ss.403-430, CVA s.395, scheme of arrangement s.366, 180-day period, 75%-by-value majority) against the current reprint of the Companies Act 2016."
   - "Confirm the correct knowledge-graph target for the administering body (Malaysian Department of Insolvency / Director General of Insolvency); the previous administered-by relation to the Attorney General's Chambers was removed as unsupported."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "मलेशियाई दिवालियापन विभाग (Jabatan Insolvensi Malaysia) — आधिकारिक पोर्टल (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "अब दिवालिया नहीं (भाग 2) — दिवालियापन आदेश की उन्मुक्ति (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "धारा 33A दिवालियापन अधिनियम 1967: करुणा या लेनदार अधिकारों से समझौता? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "दिवालियापन अधिनियम 1967 का कायाकल्प कैसे हुआ: दिवालियापन (संशोधन) अधिनियम 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ MdI वही एजेंसी है जो कंपनी परिसम�
 | उन्मुक्ति का तरीका | प्रावधान | कब उपलब्ध होता है | मुख्य शर्त |
 | --- | --- | --- | --- |
 | न्यायालय आदेश द्वारा उन्मुक्ति | धारा 33 | कभी भी, आवेदन पर | न्यायालय दिवालिया के आचरण और दिवालियापन के कारण को तोलता है |
-| DGI प्रमाणपत्र द्वारा उन्मुक्ति | धारा 33A | दिवालियापन आदेश समाप्त होने की तारीख से 5 वर्ष | DGI एक प्रमाणपत्र जारी करता है, कारण और दिवालिया के आचरण पर विचार करते हुए |
+| DGI प्रमाणपत्र द्वारा उन्मुक्ति | धारा 33A | व्यक्ति के कम-से-कम 5 वर्ष तक दिवालिया रहने के बाद | DGI एक प्रमाणपत्र जारी करता है, कारण और दिवालिया के आचरण पर विचार करते हुए |
 | स्वतः उन्मुक्ति | धारा 33C | मामलों का विवरण प्रस्तुत होने के 3 वर्ष बाद | दिवालिया DGI द्वारा निर्धारित राशि चुकाता है और पूरी तरह सहयोग करता है |
 
 **धारा 33C के तहत स्वतः उन्मुक्ति** प्रमुख सुधार है। यह एक सहयोगी दिवालिया को मामलों का विवरण प्रस्तुत करने के तीन वर्ष बाद मुक्त होने देती है, बशर्ते उसने DGI द्वारा निर्धारित अंशदान चुकाया हो — एक राशि जो अब कर्ज़ के निश्चित हिस्से के बजाय दिवालिया की वास्तविक वित्तीय क्षमता से जुड़ी है।

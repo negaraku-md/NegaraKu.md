@@ -18,6 +18,7 @@ keyTakeaways:
   - "Seksyen 26(1) melarang seseorang memandu kenderaan bermotor di atas jalan tanpa lesen memandu yang sah."
   - "Pindaan 2020 menjadikan kesalahan menyebabkan kematian akibat memandu secara melulu atau berbahaya (s.41) membawa hukuman penjara 5-10 tahun dan denda RM20,000-RM50,000 bagi kesalahan pertama."
   - "Pindaan yang sama menurunkan had alkohol nafas yang sah daripada 35 kepada 22 mikrogram bagi setiap 100 ml, sepadan dengan piawaian WHO."
+  - "Akta Pengangkutan Jalan (Pindaan) 2026 (berkuat kuasa 16 Oktober 2026) mewujudkan kesalahan baharu bagi perlumbaan haram di jalan raya (s.42A) dan bertindak sebagai pengintai perlumbaan atau 'tonto' (s.110B)."
 appliesTo: "Pemandu, penunggang motosikal, pemilik kenderaan, pengendali pengangkutan, pelajar undang-undang, dan sesiapa yang memerlukan rujukan bahasa mudah tentang undang-undang trafik jalan raya Malaysia."
 faq:
   - q: "Apakah Akta Pengangkutan Jalan 1987?"
@@ -26,10 +27,12 @@ faq:
     a: "Ya. Seksyen 26(1) melarang mana-mana orang memandu kenderaan bermotor di atas jalan tanpa lesen memandu yang sah."
   - q: "Apakah yang berubah dengan pindaan 2020?"
     a: "Akta Pengangkutan Jalan (Pindaan) 2020 mula berkuat kuasa pada 23 Oktober 2020. Ia menaikkan penalti dan tempoh hilang kelayakan bagi memandu secara melulu dan berbahaya serta memandu dalam keadaan mabuk (seksyen 41-45A), menurunkan had alkohol yang ditetapkan kepada piawaian WHO, dan menambah takrif 'kenderaan mikromobiliti'."
+  - q: "Apakah yang diubah oleh Akta Pengangkutan Jalan (Pindaan) 2026?"
+    a: "Pindaan 2026 mula berkuat kuasa pada 16 Oktober 2026. Ia mewujudkan kesalahan khusus bagi perlumbaan haram di jalan raya (Seksyen 42A, denda RM2,000-RM10,000 dan/atau penjara sehingga dua tahun bagi kesalahan pertama) dan kesalahan 'tonto'/halangan baharu bagi bertindak sebagai pengintai perlumbaan atau mengganggu penguatkuasaan (Seksyen 110B, denda RM10,000-RM50,000 dan/atau penjara satu hingga lima tahun). Ia juga menaikkan kompaun maksimum bagi kesalahan terpilih daripada RM300 kepada RM500, tetapi hanya mulai 1 Januari 2029."
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e438c79ab71a1dba"
+sourceContentHash: "34ec34fd8949132f"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -43,10 +46,8 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Perkataan tepat penuh had ditetapkan DUI (s.45G) dan penalti berperingkat di bawah s.44/45/45A — selaraskan laporan paultan dengan teks pindaan yang diwartakan."
-  - "Sama ada pembaharuan penalti trafik Jun 2026 yang lanjut telah digubal dan diwartakan — kekalkan halaman ini kepada undang-undang yang sedang berkuat kuasa dan uruskan sebarang cadangan kenaikan secara berasingan."
-  - "Senarai berwibawa lengkap dan nombor petikan semua Akta pindaan — sahkan melalui penyenaraian 'Amendments' AGC bagi Act 333."
-updated: 2026-08-14
+  - "Senarai berwibawa lengkap dan nombor petikan semua Akta pindaan (kini termasuk Akta Pengangkutan Jalan (Pindaan) 2026) — sahkan melalui penyenaraian 'Amendments' AGC bagi Act 333."
+updated: 2026-10-26
 sources:
   - title: "Road Transport Act 1987 (Act 333) — teks cetakan semula yang dikemas kini oleh AGC, sehingga 15 Oktober 2023 (Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023)"
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/668-act-333-road-transport-act-1987/file"
@@ -66,6 +67,9 @@ sources:
   - title: "Butiran pindaan Road Transport Act — denda dinaikkan dan hukuman penjara diperpanjang (Road Transport Act amendments detailed — increased fines and longer jail terms)"
     url: "https://paultan.org/2020/07/29/road-transport-act-amendments-detailed-increased-fines-and-longer-jail-terms-not-just-for-drink-driving/"
     publisher: "paultan.org"
+  - title: "Akta Pengangkutan Jalan (Pindaan) 2026 berkuat kuasa hari ini, kata Kementerian Pengangkutan (Road Transport (Amendment) Act 2026 comes into force today, says Transport Ministry)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/16/road-transport-amendment-act-2026-comes-into-force-today-says-transport-ministry"
+    publisher: "The Star"
 entity: "Road Transport Act 1987 (Act 333)"
 wikidata: "Q27962026"
 relations: []
@@ -79,7 +83,7 @@ Hampir setiap *saman* JPJ, setiap kelas lesen memandu, dan setiap polisi insuran
 
 Tajuk panjangnya menghuraikan suatu Akta untuk mengawal selia kenderaan bermotor dan trafik di atas jalan serta perkara-perkara lain yang berkaitan dengan jalan dan kenderaan; untuk mengadakan perlindungan pihak ketiga terhadap risiko yang timbul daripada penggunaan kenderaan bermotor; dan untuk menyelaras serta mengawal cara dan kemudahan bagi pengangkutan dan bagi pembinaan dan penyesuaian kenderaan bermotor. Ringkasnya: ia mengikat pelesenan, penggunaan jalan, insurans dan penguatkuasaan dalam satu rangka kerja tunggal.
 
-Akta ini diluluskan oleh Dewan Rakyat pada 10 Julai 1987 dan Dewan Negara pada 17 Julai 1987, menerima Perkenan Diraja pada **30 Ogos 1987**, dan mula berkuat kuasa pada **24 September 1987**. JPJ menyelenggara teks disatukan yang terkini; cetakan semula terbaharu ialah versi yang dipinda setakat 15 Oktober 2023.
+Akta ini diluluskan oleh Dewan Rakyat pada 10 Julai 1987 dan Dewan Negara pada 17 Julai 1987, menerima Perkenan Diraja pada **30 Ogos 1987**, dan mula berkuat kuasa pada **24 September 1987**. JPJ menyelenggara teks disatukan yang terkini; cetakan semula terbaharu ialah versi yang dipinda setakat 15 Oktober 2023, dan perubahan terkini ialah Akta Pengangkutan Jalan (Pindaan) 2026, berkuat kuasa mulai 16 Oktober 2026 (lihat di bawah).
 
 ## Bagaimanakah Akta ini disusun?
 
@@ -114,6 +118,15 @@ Bagi seksyen 41, jaluran kesalahan pertama itu ialah kenaikan mendadak berbandin
 ## Bagaimanakah had memandu dalam keadaan mabuk berubah?
 
 Pindaan 2020 menurunkan had alkohol yang ditetapkan kepada piawaian Pertubuhan Kesihatan Sedunia (WHO). Had alkohol nafas turun daripada **35 kepada 22 mikrogram** bagi setiap 100 ml, had alkohol darah daripada **80 kepada 50 miligram** bagi setiap 100 ml, dan had air kencing daripada **107 kepada 67 miligram** bagi setiap 100 ml. Dalam praktiknya, ini bermakna ambang yang lebih rendah untuk seseorang pemandu dianggap melebihi had di sisi undang-undang berbanding sebelum Oktober 2020.
+
+## Apakah yang diubah oleh Akta Pengangkutan Jalan (Pindaan) 2026?
+
+**Akta Pengangkutan Jalan (Pindaan) 2026** telah diluluskan oleh Dewan Rakyat pada 24 Jun 2026 dan **mula berkuat kuasa pada 16 Oktober 2026**. Jika pindaan 2020 menumpukan pada penalti memandu secara melulu dan memandu dalam keadaan mabuk, pindaan 2026 pula menyasarkan perlumbaan haram di jalan raya dan sindiket "tonto" (pengintai) yang menyokongnya, serta memperketat akauntabiliti penguatkuasaan kamera:
+
+- **Perlumbaan haram di jalan raya — Seksyen 42A baharu.** Berlumba atau menjalankan ujian kelajuan di atas jalan awam kini menjadi kesalahan khusus dengan sendirinya, jadi penguatkuasaan tidak perlu lagi menunggu berlakunya kemalangan. Sabitan pertama membawa denda **RM2,000–RM10,000**, penjara sehingga **dua tahun**, atau kedua-duanya; sabitan berulang meningkat kepada **RM5,000–RM20,000** dan penjara sehingga **lima tahun**.
+- **"Tonto" / halangan — Seksyen 110B baharu.** Bertindak sebagai pengintai atau sebaliknya menghalang atau mengganggu penguatkuasaan — contohnya mengekori kenderaan penguatkuasaan atau menyampaikan maklumat tentang operasi — ialah kesalahan boleh tangkap yang boleh dihukum dengan denda **RM10,000–RM50,000**, penjara **satu hingga lima tahun**, atau kedua-duanya.
+- **Akauntabiliti pemilik dan pendigitalan.** Akta ini meletakkan lebih banyak tanggungjawab kepada pemilik berdaftar bagi kesalahan yang dirakam oleh kamera penguatkuasaan dan meluaskan pendigitalan pelesenan dan saman oleh JPJ.
+- **Siling kompaun yang lebih tinggi (mulai 2029).** Kompaun maksimum bagi kesalahan trafik terpilih dinaikkan daripada **RM300 kepada RM500**, tetapi hanya **mulai 1 Januari 2029**, bukan dari permulaan kuat kuasa Akta.
 
 ## Apa seterusnya
 

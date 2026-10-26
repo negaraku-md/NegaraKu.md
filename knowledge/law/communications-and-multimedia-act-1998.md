@@ -48,7 +48,6 @@ revisions:
 verificationNeeded:
   - "Pelabelan subseksyen bagi hukuman pindaan Seksyen 233 (subseksyen mana yang membawa denda RM500,000 / penjara 2 tahun bagi penyalahgunaan am, dan subseksyen mana yang membawa hukuman kesalahan melibatkan kanak-kanak RM500,000 / penjara 5 tahun) — semak terhadap teks Akta Komunikasi dan Multimedia (Pindaan) yang telah diwartakan."
   - "Angka hukuman kesalahan melibatkan kanak-kanak (RM500,000 / 5 tahun) — sahkan terhadap teks pindaan yang diwartakan."
-  - "Status dan tarikh permulaan kuat kuasa Pindaan 2024 — Rang Undang-Undang diluluskan kedua-dua Dewan pada Disember 2024 tetapi mula berkuat kuasa pada tarikh yang ditetapkan Menteri melalui warta; sahkan sama ada dan bila ia telah berkuat kuasa."
 updated: 2026-08-07
 sources:
   - title: "Laws of Malaysia Act 588 — Communications and Multimedia Act 1998 (official text)"
@@ -69,6 +68,9 @@ sources:
   - title: "Communications and Multimedia Bill 2024 passed in Dewan Rakyat"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "Stricter online safety laws kick in: amendments to Communications Act now in force"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "Malay Mail"
   - title: "Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update)"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -129,7 +131,7 @@ Peruntukan ini kerap digunakan kerana skopnya yang luas: ia terpakai kepada hamp
 
 ## Bagaimana Pindaan 2024 mengubah landskap?
 
-Rang Undang-Undang Komunikasi dan Multimedia (Pindaan) 2024 diluluskan oleh Dewan Rakyat pada 9 Disember 2024 — melalui undian blok yang direkodkan sebagai 59 menyokong, 40 membantah dan satu berkecuali — dan oleh Dewan Negara pada 16 Disember 2024. Menurut nota firma guaman, pindaan yang diluluskan Parlimen seterusnya memerlukan perkenan diraja dan pewartaan, dan mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri.
+Rang Undang-Undang Komunikasi dan Multimedia (Pindaan) 2024 diluluskan oleh Dewan Rakyat pada 9 Disember 2024 — melalui undian blok yang direkodkan sebagai 59 menyokong, 40 membantah dan satu berkecuali — dan oleh Dewan Negara pada 16 Disember 2024. Selepas diluluskan Parlimen, pindaan itu menerima perkenan diraja dan diwartakan pada 7 Februari 2025, lalu mula berkuat kuasa pada 11 Februari 2025 — kecuali Seksyen 92 (mesej komersial elektronik yang tidak diminta) dan Seksyen 112 (pemeliharaan dan pendedahan data komunikasi) yang akan berkuat kuasa pada tarikh kemudian yang ditetapkan oleh Menteri.
 
 Antara perubahan yang dilaporkan:
 
@@ -152,4 +154,4 @@ Isu ini turut sampai ke mahkamah. Dalam kes *Heidy Quah Gaik Li lwn Kerajaan Mal
 
 ## What's next
 
-Seksyen 233 dan Akta 588 secara amnya berada dalam keadaan berubah. Rang Undang-Undang Pindaan 2024 telah diluluskan oleh kedua-dua Dewan pada Disember 2024 dan mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui warta; keputusan Mahkamah Rayuan dalam kes Heidy Quah telah menyempitkan sebahagian daripada Seksyen 233(1)(a); dan rejim pelesenan media sosial masih dalam peringkat pelaksanaan awal. Pembaca yang ingin memahami kedudukan semasa harus merujuk teks Akta yang telah dikemas kini di portal SKMM, memantau status pewartaan dan permulaan kuat kuasa pindaan serta sebarang rayuan lanjut ke Mahkamah Persekutuan, dan mendapatkan nasihat guaman bagi apa-apa situasi khusus. Artikel ini adalah gambaran umum deskriptif dan bukan nasihat undang-undang.
+Seksyen 233 dan Akta 588 secara amnya berada dalam keadaan berubah. Pindaan 2024 kini telah berkuat kuasa — ia diwartakan pada 7 Februari 2025 dan mula berkuat kuasa pada 11 Februari 2025 (kecuali Seksyen 92 dan 112 yang berkuat kuasa pada tarikh kemudian); keputusan Mahkamah Rayuan dalam kes Heidy Quah telah menyempitkan sebahagian daripada Seksyen 233(1)(a); dan rejim pelesenan media sosial telah berkuat kuasa pada 1 Januari 2025. Pembaca yang ingin memahami kedudukan semasa harus merujuk teks Akta yang telah dikemas kini di portal SKMM, memantau sebarang rayuan lanjut ke Mahkamah Persekutuan, dan mendapatkan nasihat guaman bagi apa-apa situasi khusus. Artikel ini adalah gambaran umum deskriptif dan bukan nasihat undang-undang.

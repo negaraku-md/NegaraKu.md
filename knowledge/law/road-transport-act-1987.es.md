@@ -18,6 +18,7 @@ keyTakeaways:
   - "La Sección 26(1) prohíbe conducir un vehículo de motor en una vía pública sin una licencia de conducir válida."
   - "La reforma de 2020 hizo que causar la muerte por conducción temeraria o peligrosa (s.41) conlleve de 5 a 10 años de prisión y una multa de RM20,000 a RM50,000 para una primera infracción."
   - "La misma reforma redujo el límite legal de alcohol en el aliento de 35 a 22 microgramos por 100 ml, ajustándose a las normas de la OMS."
+  - "La Ley de Transporte por Carretera (Reforma) de 2026 (en vigor el 16 de octubre de 2026) creó nuevas infracciones para las carreras callejeras ilegales (s.42A) y para actuar como vigía de carreras o «tonto» (s.110B)."
 appliesTo: "Conductores, motociclistas, propietarios de vehículos, operadores de transporte, estudiantes de Derecho y cualquier persona que necesite una referencia en lenguaje sencillo sobre la ley de tráfico vial de Malasia."
 faq:
   - q: "¿Qué es la Ley de Transporte por Carretera de 1987?"
@@ -26,8 +27,10 @@ faq:
     a: "Sí. La Sección 26(1) prohíbe a cualquier persona conducir un vehículo de motor en una vía pública sin una licencia de conducir válida."
   - q: "¿Qué cambió con la reforma de 2020?"
     a: "La Ley de Transporte por Carretera (Reforma) de 2020 entró en vigor el 23 de octubre de 2020. Aumentó las sanciones y los periodos de inhabilitación para la conducción temeraria y peligrosa y la conducción bajo los efectos del alcohol (secciones 41-45A), redujo los límites de alcohol prescritos a las normas de la OMS y añadió una definición de «vehículo de micromovilidad»."
+  - q: "¿Qué cambió la Ley de Transporte por Carretera (Reforma) de 2026?"
+    a: "La reforma de 2026 entró en vigor el 16 de octubre de 2026. Creó una infracción específica para las carreras callejeras ilegales (Sección 42A, multa de RM2,000-RM10,000 o hasta dos años de prisión, o ambas, para una primera infracción) y una nueva infracción de «tonto»/obstrucción por actuar como vigía de carreras o interferir en la aplicación de la ley (Sección 110B, multa de RM10,000-RM50,000 o de uno a cinco años de prisión, o ambas). También eleva la multa de composición máxima para determinadas infracciones de RM300 a RM500, pero solo a partir del 1 de enero de 2029."
 lang: "es"
-sourceContentHash: "e438c79ab71a1dba"
+sourceContentHash: "34ec34fd8949132f"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,9 +47,8 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
-  - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
-  - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
-updated: 2026-08-14
+  - "Complete authoritative list and citation numbers of all amending Acts (now including the Road Transport (Amendment) Act 2026) — confirm via the AGC 'Amendments' listing for Act 333."
+updated: 2026-10-26
 sources:
   - title: "Ley de Transporte por Carretera de 1987 (Act 333) — texto actualizado de la reimpresión del AGC, a 15 de octubre de 2023 (Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023)"
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/668-act-333-road-transport-act-1987/file"
@@ -66,6 +68,9 @@ sources:
   - title: "Reformas a la Ley de Transporte por Carretera detalladas — multas más altas y penas de prisión más largas (Road Transport Act amendments detailed — increased fines and longer jail terms)"
     url: "https://paultan.org/2020/07/29/road-transport-act-amendments-detailed-increased-fines-and-longer-jail-terms-not-just-for-drink-driving/"
     publisher: "paultan.org"
+  - title: "La Ley de Transporte por Carretera (Reforma) de 2026 entra hoy en vigor, afirma el Ministerio de Transporte (Road Transport (Amendment) Act 2026 comes into force today, says Transport Ministry)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/16/road-transport-amendment-act-2026-comes-into-force-today-says-transport-ministry"
+    publisher: "The Star"
 entity: "Road Transport Act 1987 (Act 333)"
 wikidata: "Q27962026"
 relations: []
@@ -79,7 +84,7 @@ Casi todo *saman* de la JPJ, toda clase de licencia de conducir y toda póliza d
 
 Su título largo describe una ley para regular los vehículos de motor y el tráfico en las vías públicas y otras cuestiones relativas a las carreteras y los vehículos; para proporcionar protección frente a terceros contra los riesgos derivados del uso de vehículos de motor; y para coordinar y controlar los medios e instalaciones de transporte y la construcción y adaptación de vehículos de motor. En resumen: enlaza en un único marco la expedición de licencias, el uso de la vía, el seguro y la aplicación de la ley.
 
-La Ley fue aprobada por el Dewan Rakyat el 10 de julio de 1987 y por el Dewan Negara el 17 de julio de 1987, recibió la Sanción Real el **30 de agosto de 1987** y entró en vigor el **24 de septiembre de 1987**. La JPJ mantiene el texto consolidado vigente; la reimpresión más reciente es la versión reformada a 15 de octubre de 2023.
+La Ley fue aprobada por el Dewan Rakyat el 10 de julio de 1987 y por el Dewan Negara el 17 de julio de 1987, recibió la Sanción Real el **30 de agosto de 1987** y entró en vigor el **24 de septiembre de 1987**. La JPJ mantiene el texto consolidado vigente; la reimpresión consolidada más reciente es la versión reformada a 15 de octubre de 2023, y el cambio más reciente es la Ley de Transporte por Carretera (Reforma) de 2026, en vigor desde el 16 de octubre de 2026 (véase más abajo).
 
 ## ¿Cómo está estructurada la Ley?
 
@@ -114,6 +119,15 @@ Para la sección 41, esa banda de primera infracción es un fuerte aumento respe
 ## ¿Cómo cambiaron los límites de la conducción bajo los efectos del alcohol?
 
 La reforma de 2020 redujo los límites de alcohol prescritos a las normas de la Organización Mundial de la Salud. El límite de alcohol en el aliento bajó de **35 a 22 microgramos** por 100 ml, el límite de alcohol en sangre de **80 a 50 miligramos** por 100 ml, y el límite en la orina de **107 a 67 miligramos** por 100 ml. En la práctica, esto significa un umbral más bajo a partir del cual un conductor está legalmente por encima del límite que antes de octubre de 2020.
+
+## ¿Qué cambió la Ley de Transporte por Carretera (Reforma) de 2026?
+
+La **Ley de Transporte por Carretera (Reforma) de 2026** fue aprobada por el Dewan Rakyat el 24 de junio de 2026 y **entró en vigor el 16 de octubre de 2026**. Mientras que la reforma de 2020 se centró en las sanciones por conducción temeraria y conducción bajo los efectos del alcohol, la reforma de 2026 tiene por objetivo las carreras callejeras ilegales y los sindicatos de «tonto» (vigías) que las apoyan, y endurece la responsabilidad por la aplicación mediante cámaras:
+
+- **Carreras callejeras ilegales — nueva Sección 42A.** Correr o realizar una prueba de velocidad en una vía pública es ahora una infracción específica por derecho propio, de modo que la aplicación de la ley ya no tiene que esperar a que se produzca un accidente. Una primera condena conlleva una multa de **RM2,000–RM10,000**, hasta **dos años de prisión**, o ambas; una condena reincidente asciende a **RM5,000–RM20,000** y hasta **cinco años de prisión**.
+- **«Tonto» / obstrucción — nueva Sección 110B.** Actuar como vigía o de otro modo obstruir o interferir en la aplicación de la ley — por ejemplo, siguiendo a los vehículos de los agentes o transmitiendo información sobre los operativos — es una infracción que permite la detención, castigada con una multa de **RM10,000–RM50,000**, **de uno a cinco años de prisión**, o ambas.
+- **Responsabilidad del propietario y digitalización.** La Ley atribuye más responsabilidad al propietario registrado por las infracciones captadas por las cámaras de vigilancia y amplía la digitalización por parte de la JPJ de la expedición de licencias y de las citaciones.
+- **Límite más alto de la multa de composición (desde 2029).** La multa de composición máxima (compound) para determinadas infracciones de tráfico sube de **RM300 a RM500**, pero solo **a partir del 1 de enero de 2029**, no desde la entrada en vigor de la Ley.
 
 ## Qué sigue
 

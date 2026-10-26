@@ -18,6 +18,7 @@ keyTakeaways:
   - "第26(1)条禁止在没有有效驾驶执照的情况下在道路上驾驶机动车辆。"
   - "2020年修正案规定，因莽撞或危险驾驶致死（第41条）首次犯罪者处5至10年监禁及RM20,000至RM50,000罚款。"
   - "同一修正案将法定呼气酒精含量上限从每100毫升35微克降至22微克，与世界卫生组织（WHO）标准一致。"
+  - "2026年陆路交通（修正）法令（自2026年10月16日生效）新增了非法街头赛车（第42A条）以及充当赛车把风者或「tonto」（第110B条）的罪行。"
 appliesTo: "驾驶者、摩托车骑士、车主、运输业者、法律系学生，以及任何需要以浅白语言查阅马来西亚道路交通法律的人。"
 faq:
   - q: "什么是1987年陆路交通法令？"
@@ -26,10 +27,12 @@ faq:
     a: "需要。第26(1)条禁止任何人在没有有效驾驶执照的情况下在道路上驾驶机动车辆。"
   - q: "2020年修正案带来了哪些改变？"
     a: "2020年陆路交通（修正）法令于2020年10月23日生效。它提高了莽撞与危险驾驶以及酒后驾驶（第41至45A条）的刑罚和吊销执照期限，将规定的酒精含量上限降至WHO标准，并新增了「微型移动车辆」（micromobility vehicle）的定义。"
+  - q: "2026年陆路交通（修正）法令带来了哪些改变？"
+    a: "2026年修正案于2026年10月16日生效。它为非法街头赛车设立了一项具体罪行（第42A条，首次犯罪罚款RM2,000至RM10,000及／或最高两年监禁），以及一项充当赛车把风者或干扰执法的新「tonto」／妨碍罪（第110B条，罚款RM10,000至RM50,000及／或一至五年监禁）。它还将特定罪行的最高复合罚款由RM300调高至RM500，但仅自2029年1月1日起适用。"
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "e438c79ab71a1dba"
+sourceContentHash: "34ec34fd8949132f"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -44,9 +47,8 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "酒驾（DUI）法定限值（s.45G）以及 s.44/45/45A 项下分级罚则的完整确切措辞——请将 paultan 的报道与该修订经宪报公布的原文相互核对。"
-  - "2026 年 6 月进一步的交通罚则改革是否已经制定并刊宪 — 本页面应仅限于当前生效的法律，并将任何拟议的加重另作处理。"
-  - "所有修订法令的完整权威清单及引注编号——请通过AGC针对Act 333的「Amendments」列表确认。"
-updated: 2026-08-14
+  - "所有修订法令的完整权威清单及引注编号（现包括2026年陆路交通（修正）法令）——请通过AGC针对Act 333的「Amendments」列表确认。"
+updated: 2026-10-26
 sources:
   - title: "Road Transport Act 1987 (Act 333) — AGC 更新的重印文本，截至2023年10月15日 (Road Transport Act 1987 (Act 333) — AGC updated text of reprint, as at 15 October 2023)"
     url: "https://www.apad.gov.my/index.php/en/source-of-information/akta/668-act-333-road-transport-act-1987/file"
@@ -66,6 +68,9 @@ sources:
   - title: "Road Transport Act 修正详情 — 罚款提高、监禁刑期延长 (Road Transport Act amendments detailed — increased fines and longer jail terms)"
     url: "https://paultan.org/2020/07/29/road-transport-act-amendments-detailed-increased-fines-and-longer-jail-terms-not-just-for-drink-driving/"
     publisher: "paultan.org"
+  - title: "2026年陆路交通（修正）法令今日起生效，交通部表示 (Road Transport (Amendment) Act 2026 comes into force today, says Transport Ministry)"
+    url: "https://www.thestar.com.my/news/nation/2026/10/16/road-transport-amendment-act-2026-comes-into-force-today-says-transport-ministry"
+    publisher: "The Star"
 entity: "Road Transport Act 1987 (Act 333)"
 wikidata: "Q27962026"
 relations: []
@@ -79,7 +84,7 @@ keywords: ["Road Transport Act 1987", "Act 333", "Akta Pengangkutan Jalan 1987",
 
 其长标题将本法令描述为：一部规范机动车辆及道路交通、以及有关道路与车辆其他事项的法令；提供针对因使用机动车辆而产生的风险的第三者保障；并协调与管制运输的方式和设施，以及机动车辆的制造与改装。简而言之：它把发照、道路使用、保险和执法整合进一个单一的框架之中。
 
-该法令由下议院（Dewan Rakyat）于1987年7月10日通过，上议院（Dewan Negara）于1987年7月17日通过，并于**1987年8月30日**获得御准，随后于**1987年9月24日**生效。JPJ负责维护现行的综合文本；最新的重印版本是修订至2023年10月15日的版本。
+该法令由下议院（Dewan Rakyat）于1987年7月10日通过，上议院（Dewan Negara）于1987年7月17日通过，并于**1987年8月30日**获得御准，随后于**1987年9月24日**生效。JPJ负责维护现行的综合文本；最新的综合重印版本是修订至2023年10月15日的版本，而最近的一次修订是2026年陆路交通（修正）法令，自2026年10月16日起生效（详见下文）。
 
 ## 该法令的结构如何？
 
@@ -114,6 +119,15 @@ Act 333分为五个主要部分（另有两个插入的子部分），据报由1
 ## 酒后驾驶的上限如何改变？
 
 2020年修正案将规定的酒精含量上限降至世界卫生组织（WHO）标准。呼气酒精含量上限从每100毫升**35微克降至22微克**，血液酒精含量上限从每100毫升**80毫克降至50毫克**，尿液上限从每100毫升**107毫克降至67毫克**。实际上，这意味着相较2020年10月之前，驾驶者在法律上被判定超标的门槛更低了。
+
+## 2026年陆路交通（修正）法令带来了哪些改变？
+
+**2026年陆路交通（修正）法令**由下议院（Dewan Rakyat）于2026年6月24日通过，并**于2026年10月16日生效**。2020年修正案聚焦于莽撞驾驶与酒后驾驶的刑罚，而2026年修正案针对非法街头赛车以及为其提供支援的「tonto」（把风者）集团，并收紧了摄像执法的问责：
+
+- **非法街头赛车——新增第42A条。** 在公共道路上赛车或进行竞速测试，如今本身即属一项具体罪行，执法无须再等到发生车祸。首次定罪者处**RM2,000至RM10,000**罚款、最高**两年监禁**，或两者兼施；再次定罪者提高至**RM5,000至RM20,000**罚款及最高**五年监禁**。
+- **「tonto」／妨碍——新增第110B条。** 担任把风者，或以其他方式妨碍、干扰执法——例如尾随执法车辆或通报执法行动的情报——属可逮捕罪行，可处**RM10,000至RM50,000**罚款、**一至五年监禁**，或两者兼施。
+- **车主问责与数字化。** 该法令就执法摄像机所拍摄的罪行，向注册车主课以更大的责任，并扩大JPJ在发照与传票方面的数字化。
+- **更高的复合罚款上限（自2029年起）。** 特定交通罪行的最高复合罚款（compound）由**RM300调高至RM500**，但仅**自2029年1月1日起**适用，而非自该法令生效之日起。
 
 ## 下一步
 

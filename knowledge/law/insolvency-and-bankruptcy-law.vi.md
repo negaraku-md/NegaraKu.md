@@ -34,7 +34,7 @@ faq:
     a: "Có. Luật Công ty 2016 giới thiệu các cơ chế cứu vãn: quản lý tư pháp (Điều 403-430), theo đó một quản lý viên tư pháp do tòa chỉ định điều hành công ty dưới một lệnh hoãn thi hành, và thỏa thuận tự nguyện của doanh nghiệp (Điều 395). Một kế hoạch dàn xếp theo Điều 366 cũng cho phép một công ty ràng buộc các chủ nợ vào một thỏa hiệp với 75% chấp thuận theo giá trị và sự phê chuẩn của tòa."
 
 lang: "vi"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Xác nhận điểm khởi đầu luật định chính xác của yếu tố kích hoạt giải trừ năm năm theo Điều 33A so với bản in lại hiện hành của Luật Mất khả năng Thanh toán 1967 — nguồn được dẫn diễn giải nó là năm năm kể từ ngày lệnh phá sản hết hiệu lực, mà bảng nay theo đó."
+  - "Việc giải trừ theo Điều 33A là bằng giấy chứng nhận của Tổng Giám đốc Mất khả năng Thanh toán một khi người đó đã là người phá sản trong ít nhất năm năm (được giới thiệu bởi Luật Mất khả năng Thanh toán (Sửa đổi) 2023); hãy xác nhận đầy đủ các điều kiện đủ tư cách hiện hành so với hướng dẫn của Cục Mất khả năng Thanh toán Malaysia."
   - "Xác nhận ngưỡng nợ hiện hành theo Điều 466(1)(a) (vượt quá RM50,000, có hiệu lực kể từ 1 April 2021 không có ngày hết hạn) so với lệnh quy định được đăng công báo mới nhất trước khi dựa vào nó."
   - "Xác nhận các điều khoản cứu vãn doanh nghiệp và các tham chiếu của chúng (quản lý tư pháp ss.403-430, CVA s.395, kế hoạch dàn xếp s.366, thời hạn 180 ngày, đa số 75% theo giá trị) so với bản in lại hiện hành của Luật Công ty 2016."
   - "Xác nhận đích đồ thị tri thức đúng cho cơ quan quản lý (Cục Mất khả năng Thanh toán Malaysia / Tổng Giám đốc Mất khả năng Thanh toán); quan hệ administered-by trước đó với Attorney General's Chambers đã bị loại bỏ do không có căn cứ."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "Cục Phá sản Malaysia (Jabatan Insolvensi Malaysia) — cổng thông tin chính thức (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "Không còn Phá sản (Phần 2) — Giải trừ Lệnh Phá sản (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "Điều 33A Insolvency Act 1967: lòng trắc ẩn hay sự thỏa hiệp quyền của chủ nợ? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Insolvency Act 1967 đã được đổi mới như thế nào: Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ Phá sản không nhằm là vĩnh viễn. Luật Mất khả năng Thanh toán 
 | Cách giải trừ | Điều khoản | Khi nào có sẵn | Điều kiện chính |
 | --- | --- | --- | --- |
 | Giải trừ theo lệnh của tòa | Điều 33 | Bất kỳ lúc nào, theo đơn | Tòa cân nhắc hành vi của người phá sản và nguyên nhân phá sản |
-| Giải trừ theo giấy chứng nhận của DGI | Điều 33A | 5 năm kể từ ngày lệnh phá sản hết hiệu lực | DGI cấp giấy chứng nhận, xem xét nguyên nhân và hành vi của người phá sản |
+| Giải trừ theo giấy chứng nhận của DGI | Điều 33A | Sau khi người đó đã là người phá sản trong ít nhất 5 năm | DGI cấp giấy chứng nhận, xem xét nguyên nhân và hành vi của người phá sản |
 | Giải trừ tự động | Điều 33C | 3 năm sau khi nộp bản kê khai tình hình tài sản | Người phá sản trả khoản tiền DGI ấn định và hợp tác đầy đủ |
 
 **Giải trừ tự động theo Điều 33C** là cải cách nổi bật. Nó cho phép một người phá sản hợp tác được tự do ba năm sau khi nộp bản kê khai tình hình tài sản, với điều kiện họ đã trả khoản đóng góp DGI ấn định — một số tiền nay được gắn với khả năng tài chính thực tế của người phá sản chứ không phải một phần cố định của khoản nợ.

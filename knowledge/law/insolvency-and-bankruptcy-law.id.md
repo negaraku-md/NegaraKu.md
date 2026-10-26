@@ -34,7 +34,7 @@ faq:
     a: "Ya. Companies Act 2016 memperkenalkan mekanisme penyelamatan: pengurusan kehakiman (Pasal 403-430), di mana pengurus kehakiman yang ditunjuk pengadilan menjalankan perusahaan di bawah satu moratorium, dan aturan sukarela korporat (Pasal 395). Skema penataan di bawah Pasal 366 juga memungkinkan suatu perusahaan mengikat kreditor pada satu kompromi dengan persetujuan 75% menurut nilai dan pengesahan pengadilan."
 
 lang: "id"
-sourceContentHash: "a85ad7d5133bf9fc"
+sourceContentHash: "b7a5e72bb5b7b503"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -51,12 +51,12 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Pastikan titik awal statutori sebenarnya bagi pemicu pembebasan lima tahun Section 33A terhadap cetak ulang terkini Insolvency Act 1967 — sumber yang dikutip merangkanya sebagai lima tahun dari tanggal perintah kepailitan berakhir, yang kini diikuti oleh tabel itu."
+  - "Pembebasan Pasal 33A dilakukan melalui sertifikat Ketua Pengarah Insolvensi setelah orang tersebut menjadi pailit selama sekurang-kurangnya lima tahun (diperkenalkan oleh Insolvency (Amendment) Act 2023); pastikan syarat kelayakan terkini yang lengkap terhadap panduan Jabatan Insolvensi Malaysia."
   - "Pastikan ambang keberutangan Pasal 466(1)(a) terkini (melebihi RM50,000, berlaku efektif sejak 1 April 2021 tanpa tanggal berakhir) terhadap perintah preskripsi terkini yang diwartakan sebelum bergantung padanya."
   - "Pastikan ketentuan penyelamatan korporat dan rujukannya (pengurusan kehakiman ss.403-430, CVA s.395, skema penataan s.366, masa 180 hari, mayoritas 75% menurut nilai) terhadap cetak ulang Companies Act 2016 terkini."
   - "Pastikan target graf pengetahuan yang benar bagi badan pengelola (Jabatan Insolvensi Malaysia / Ketua Pengarah Insolvensi); hubungan dikelola-oleh yang terdahulu kepada Jabatan Peguam Negara telah dihapus karena tidak didukung."
 
-updated: 2026-08-07
+updated: 2026-10-26
 sources:
   - title: "Jabatan Insolvensi Malaysia — portal rasmi (Malaysian Department of Insolvency (Jabatan Insolvensi Malaysia) — official portal)"
     url: "https://www.mdi.gov.my/"
@@ -70,6 +70,9 @@ sources:
   - title: "Bukan Lagi Bankrap (Bahagian 2) — Pelepasan Perintah Kebankrapan (A Bankrupt No More (Part 2) — Discharge of a Bankruptcy Order)"
     url: "https://www.thomasphilip.com.my/articles/a-bankrupt-no-more-part-2-discharge-of-bankruptcy-order/"
     publisher: "Thomas Philip Advocates and Solicitors"
+  - title: "Section 33A Insolvency Act 1967: belas kasihan atau kompromi hak kreditor? (Section 33A Insolvency Act 1967: compassion or compromise of creditor rights?)"
+    url: "https://www.edgeprop.my/content/1913844/section-33a-insolvency-act-1967-compassion-or-compromise-creditor-rights"
+    publisher: "EdgeProp"
   - title: "Bagaimana Insolvency Act 1967 Diperbaharui: The Insolvency (Amendment) Act 2023 (How The Insolvency Act 1967 Got A Makeover: The Insolvency (Amendment) Act 2023)"
     url: "https://www.thomasphilip.com.my/articles/how-the-insolvency-act-1967-got-a-makeover-a-brief-analysis-on-the-insolvency-amendment-act-2023-and-its-implications/"
     publisher: "Thomas Philip Advocates and Solicitors"
@@ -117,7 +120,7 @@ Kepailitan tidak dimaksudkan untuk kekal selamanya. Insolvency Act 1967 menyedia
 | Cara pembebasan | Ketentuan | Kapan tersedia | Syarat utama |
 | --- | --- | --- | --- |
 | Pembebasan melalui perintah pengadilan | Pasal 33 | Kapan saja, atas permohonan | Pengadilan menimbang perilaku orang pailit dan penyebab kepailitan |
-| Pembebasan melalui sertifikat KPI | Pasal 33A | 5 tahun dari tanggal perintah kepailitan berakhir | KPI mengeluarkan sertifikat, dengan mempertimbangkan penyebab dan perilaku orang pailit |
+| Pembebasan melalui sertifikat KPI | Pasal 33A | Setelah orang tersebut menjadi pailit selama sekurang-kurangnya 5 tahun | KPI mengeluarkan sertifikat, dengan mempertimbangkan penyebab dan perilaku orang pailit |
 | Pembebasan otomatis | Pasal 33C | 3 tahun setelah pernyataan keadaan diajukan | Orang pailit membayar jumlah yang ditentukan KPI dan bekerja sama sepenuhnya |
 
 **Pembebasan otomatis di bawah Pasal 33C** adalah pembaruan utama. Ia memungkinkan orang pailit yang bekerja sama bebas tiga tahun setelah mengajukan pernyataan keadaan, dengan syarat mereka telah membayar kontribusi yang ditetapkan KPI — suatu jumlah yang kini dipatok pada kemampuan keuangan sebenarnya orang pailit dan bukan bagian tetap dari utang.

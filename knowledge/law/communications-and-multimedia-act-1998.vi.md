@@ -30,7 +30,7 @@ faq:
     a: "Các hoạt động cần giấy phép được chia thành bốn nhóm. Qua chỉ thị năm 2024, các nhà cung cấp mạng xã hội và nhắn tin Internet có ít nhất tám triệu người dùng ở Malaysia được yêu cầu xin một giấy phép loại từ SKMM, có hiệu lực từ ngày 1 tháng 1 năm 2025."
 
 lang: "vi"
-sourceContentHash: "6cd84d5baa9c3ad8"
+sourceContentHash: "e6a81ea888e06a3e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -49,7 +49,6 @@ revisions:
 verificationNeeded:
   - "Cách gán nhãn tiểu mục cho hình phạt sửa đổi của Mục 233 (tiểu mục nào mang mức phạt RM500,000 / phạt tù 2 năm cho hành vi lạm dụng chung, và tiểu mục nào mang hình phạt cho tội liên quan đến trẻ em RM500,000 / phạt tù 5 năm) — hãy đối chiếu với văn bản Đạo luật Truyền thông và Đa phương tiện (Sửa đổi) đã được đăng công báo."
   - "Con số hình phạt cho tội liên quan đến trẻ em (RM500,000 / 5 năm) — hãy xác nhận đối chiếu với văn bản sửa đổi đã được đăng công báo."
-  - "Tình trạng và ngày bắt đầu có hiệu lực của Bản sửa đổi năm 2024 — Dự luật đã được cả hai Viện thông qua vào tháng 12 năm 2024 nhưng bắt đầu có hiệu lực vào ngày do Bộ trưởng ấn định thông qua công báo; hãy xác nhận liệu nó đã có hiệu lực hay chưa và khi nào."
   - "Ngưỡng 'tám triệu người dùng' và ngày có hiệu lực 1 tháng 1 năm 2025 cho giấy phép loại đối với mạng xã hội — hãy xác nhận đối chiếu với chỉ thị/lệnh chính thức của SKMM."
 updated: 2026-08-07
 sources:
@@ -71,6 +70,9 @@ sources:
   - title: "Dự luật Truyền thông và Đa phương tiện 2024 được thông qua tại Hạ viện (Communications and Multimedia Bill 2024 passed in Dewan Rakyat)"
     url: "https://www.thestar.com.my/news/nation/2024/12/09/communications-and-multimedia-bill-2024-passed-in-dewan-rakyat"
     publisher: "The Star"
+  - title: "Luật an toàn trực tuyến nghiêm ngặt hơn bắt đầu có hiệu lực: các sửa đổi Đạo luật Truyền thông nay đã có hiệu lực (Stricter online safety laws kick in: amendments to Communications Act now in force)"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/11/stricter-online-safety-laws-kick-in-amendments-to-communications-act-now-in-force/166325"
+    publisher: "Malay Mail"
   - title: "Các sửa đổi đối với Communications and Multimedia Act 1998 được Quốc hội Malaysia thông qua (Cập nhật) (Amendments to the Communications and Multimedia Act 1998 Passed by Malaysian Parliament (Update))"
     url: "https://www.lexology.com/library/detail.aspx?g=0a3fd766-4378-4b5e-af5c-5b406a424c21"
     publisher: "Lexology"
@@ -128,7 +130,7 @@ Quy định này thường được dùng vì phạm vi rộng của nó: nó á
 
 ## Sửa đổi năm 2024 đã thay đổi bối cảnh như thế nào?
 
-Dự luật Truyền thông và Đa phương tiện (Sửa đổi) 2024 được Dewan Rakyat thông qua vào ngày 9 tháng 12 năm 2024 — qua một cuộc bỏ phiếu khối được ghi là 59 ủng hộ, 40 phản đối và một phiếu trắng — và bởi Dewan Negara vào ngày 16 tháng 12 năm 2024. Theo ghi chú của các hãng luật, tu chính được Nghị viện thông qua tiếp theo cần ngự chuẩn và đăng công báo, và bắt đầu có hiệu lực vào ngày được Bộ trưởng ấn định.
+Dự luật Truyền thông và Đa phương tiện (Sửa đổi) 2024 được Dewan Rakyat thông qua vào ngày 9 tháng 12 năm 2024 — qua một cuộc bỏ phiếu khối được ghi là 59 ủng hộ, 40 phản đối và một phiếu trắng — và bởi Dewan Negara vào ngày 16 tháng 12 năm 2024. Sau khi được Nghị viện thông qua, tu chính nhận được ngự chuẩn và được đăng công báo vào ngày 7 tháng 2 năm 2025, rồi bắt đầu có hiệu lực vào ngày 11 tháng 2 năm 2025 — ngoại trừ Mục 92 (tin nhắn thương mại điện tử không mời mà đến) và Mục 112 (lưu giữ và tiết lộ dữ liệu liên lạc) sẽ có hiệu lực vào ngày muộn hơn do Bộ trưởng ấn định.
 
 Trong số các thay đổi được báo cáo:
 
@@ -151,4 +153,4 @@ Vấn đề này cũng đến tòa án. Trong vụ *Heidy Quah Gaik Li lwn Keraj
 
 ## Tiếp theo
 
-Mục 233 và Act 588 nói chung đang trong trạng thái thay đổi. Dự luật Sửa đổi 2024 đã được cả hai Viện thông qua vào tháng 12 năm 2024 và bắt đầu có hiệu lực vào ngày được Bộ trưởng ấn định qua công báo; phán quyết của Tòa Phúc thẩm trong vụ Heidy Quah đã thu hẹp một phần của Mục 233(1)(a); và chế độ cấp phép mạng xã hội vẫn đang ở giai đoạn thực thi ban đầu. Độc giả muốn hiểu tình trạng hiện tại nên tham khảo văn bản Đạo luật đã được cập nhật trên cổng thông tin của SKMM, theo dõi tình trạng đăng công báo và việc bắt đầu có hiệu lực của tu chính cùng bất kỳ kháng cáo tiếp theo nào lên Tòa án Liên bang, và nhận tư vấn pháp lý cho bất kỳ tình huống cụ thể nào. Bài viết này là một cái nhìn tổng quan mô tả và không phải là tư vấn pháp lý.
+Mục 233 và Act 588 nói chung đang trong trạng thái thay đổi. Sửa đổi năm 2024 nay đã có hiệu lực — nó được đăng công báo vào ngày 7 tháng 2 năm 2025 và bắt đầu có hiệu lực vào ngày 11 tháng 2 năm 2025 (ngoại trừ Mục 92 và 112 sẽ có hiệu lực vào ngày muộn hơn); phán quyết của Tòa Phúc thẩm trong vụ Heidy Quah đã thu hẹp một phần của Mục 233(1)(a); và chế độ cấp phép mạng xã hội đã có hiệu lực vào ngày 1 tháng 1 năm 2025. Độc giả muốn hiểu tình trạng hiện tại nên tham khảo văn bản Đạo luật đã được cập nhật trên cổng thông tin của SKMM, theo dõi bất kỳ kháng cáo tiếp theo nào lên Tòa án Liên bang, và nhận tư vấn pháp lý cho bất kỳ tình huống cụ thể nào. Bài viết này là một cái nhìn tổng quan mô tả và không phải là tư vấn pháp lý.
