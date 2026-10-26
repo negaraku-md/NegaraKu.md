@@ -84,10 +84,11 @@ sources:
 
 entity: "Malaysian withholding tax rates"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
-related: ["withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
+related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["معدل ضريبة الاستقطاع في ماليزيا", "withholding tax rate Malaysia", "معدل المادة 109B", "ضريبة الاستقطاع المادة 107A", "CP37D", "جدول ضريبة الاستقطاع الماليزي", "ضريبة الاستقطاع LHDN", "withholding tax Malaysia"]
 ---
 

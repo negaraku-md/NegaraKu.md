@@ -91,13 +91,14 @@ sources:
 entity: "Islamic finance in Malaysia"
 wikidata: "Q6082441"
 relations:
+  - { rel: "related-to", to: "waqf-islamic-endowment-malaysia" }
   - { rel: "part-of", to: "malaysia" }
   - { rel: "administered-by", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "bursa-malaysia" }
   - { rel: "related-to", to: "federal-budget" }
   - { rel: "related-to", to: "opr-monetary-policy" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["bank-negara-malaysia", "bursa-malaysia", "federal-budget", "opr-monetary-policy"]
+related: ["waqf-islamic-endowment-malaysia", "bank-negara-malaysia", "bursa-malaysia", "federal-budget", "opr-monetary-policy"]
 keywords: ["التمويل الإسلامي ماليزيا", "Islamic finance Malaysia", "صكوك", "sukuk", "تكافل", "takaful", "مرابحة", "murabahah", "إجارة", "ijarah", "تورق", "tawarruq", "المصرفية الإسلامية ماليزيا", "المجلس الاستشاري الشرعي"]
 ---
 

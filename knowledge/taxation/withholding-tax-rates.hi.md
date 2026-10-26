@@ -84,10 +84,11 @@ sources:
 
 entity: "Malaysian withholding tax rates"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
-related: ["withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
+related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["रोक-कर दर मलेशिया", "withholding tax rate Malaysia", "धारा 109B दर", "section 109B rate", "धारा 107A रोक-कर", "CP37D", "रोक-कर तालिका मलेशिया", "LHDN रोक-कर"]
 ---
 

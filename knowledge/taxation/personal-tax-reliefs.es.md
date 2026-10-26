@@ -60,11 +60,12 @@ sources:
 
 entity: "Personal income tax relief"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "corporate-tax-rates" }
   - { rel: "compares-with", to: "corporate-tax-rates" }
-related: ["corporate-tax-rates", "sst-explained", "epf-socso-guide"]
+related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["desgravación fiscal Malasia", "Malaysia tax relief", "pelepasan cukai individu", "lista de comprobación de desgravaciones fiscales Malasia", "desgravaciones Formulario BE", "desgravación individual LHDN"]
 ---
 

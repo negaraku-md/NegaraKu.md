@@ -78,12 +78,13 @@ sources:
 
 entity: "Business loss relief"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "requires", to: "company-tax-residence" }
   - { rel: "related-to", to: "corporate-tax-rates" }
   - { rel: "affects", to: "capital-allowances" }
-related: ["corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
+related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["ترحيل الخسائر التجارية في ماليزيا", "business loss carry forward Malaysia", "إعفاء المجموعة المادة 44A", "section 44A group relief", "بدلات رأس المال غير المستوعبة", "unabsorbed capital allowances", "سقف الخسائر 10 سنوات", "التغيّر الجوهري في المساهمة"]
 ---
 

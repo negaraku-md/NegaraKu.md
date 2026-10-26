@@ -82,11 +82,12 @@ sources:
 
 entity: "Double and further deduction gazette orders"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "section-33-deductibility" }
   - { rel: "related-to", to: "non-deductible-expenses" }
-related: ["corporate-tax-rates", "form-c-and-cp204"]
+related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["deducción doble Malasia", "deducción adicional impuesto sobre la renta", "lista de deducción doble P.U.(A)", "orden del boletín oficial de incentivos fiscales Malasia", "double deduction Malaysia", "further deduction income tax"]
 ---
 

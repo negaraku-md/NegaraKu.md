@@ -73,11 +73,12 @@ sources:
 
 entity: "Monthly Tax Deduction (PCB / MTD)"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "explained-in", to: "pcb-mtd-malaysia" }
   - { rel: "affects", to: "personal-tax-reliefs" }
-related: ["pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
+related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB cukai muktamad", "potongan cukai bulanan Malaysia", "potongan cukai bulanan", "seksyen 77C Akta Cukai Pendapatan", "adakah saya perlu memfailkan jika PCB dipotong", "bayaran balik PCB Malaysia"]
 ---
 

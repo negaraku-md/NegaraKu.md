@@ -122,11 +122,12 @@ sources:
 
 entity: "Foreign-source income received in Malaysia"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "company-tax-residence" }
   - { rel: "compares-with", to: "capital-gains-tax" }
-related: ["company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
+related: ["income-tax-in-malaysia", "company-tax-residence", "capital-gains-tax", "labuan-tax-regime", "corporate-tax-rates"]
 keywords: ["मलेशिया में विदेशी स्रोत आय", "foreign source income Malaysia", "FSI छूट मलेशिया", "FSI exemption Malaysia", "विदेशी लाभांश छूट", "foreign dividend exemption Malaysia", "P.U.(A) 235/2022", "आर्थिक सार FSI मलेशिया", "economic substance Malaysia FSI", "प्रेषण कर मलेशिया", "remittance tax Malaysia"]
 ---
 

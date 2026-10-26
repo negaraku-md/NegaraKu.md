@@ -59,10 +59,11 @@ sources:
 
 entity: "Joint and separate assessment of spouses"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "affects", to: "personal-tax-reliefs" }
-related: ["personal-tax-reliefs", "personal-tax-rates", "which-tax-form", "pcb-monthly-tax-deduction"]
+related: ["income-tax-in-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form", "pcb-monthly-tax-deduction"]
 keywords: ["taksiran bersama Malaysia", "taksiran berasingan cukai Malaysia", "pilihan seksyen 45(2)", "potongan pasangan RM4000", "patutkah kami memfailkan bersama Malaysia", "taksiran suami isteri cukai pendapatan"]
 ---
 

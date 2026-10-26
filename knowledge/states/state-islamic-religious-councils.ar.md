@@ -67,9 +67,10 @@ sources:
 
 entity: "Majlis Agama Islam Negeri"
 relations:
+  - { rel: "related-to", to: "waqf-islamic-endowment-malaysia" }
   - { rel: "related-to", to: "federal-constitution-malaysia" }
   - { rel: "related-to", to: "syariah-courts-malaysia" }
-related: ["federal-constitution"]
+related: ["waqf-islamic-endowment-malaysia", "federal-constitution"]
 keywords: ["المجلس الديني الإسلامي للولاية", "Majlis Agama Islam Negeri", "MAIN", "الزكاة zakat", "الوقف wakaf", "الفتوى fatwa", "المادة 3", "قائمة الولاية", "الإدارة الإسلامية"]
 ---
 

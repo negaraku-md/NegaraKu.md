@@ -79,10 +79,11 @@ sources:
 
 entity: "Malaysian individual income tax rates"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "personal-tax-reliefs" }
-related: ["personal-tax-reliefs", "corporate-tax-rates"]
+related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["tipo del impuesto sobre la renta personal Malasia", "personal income tax rate Malaysia", "kadar cukai individu", "tramo impositivo Malasia", "tabla de tipos LHDN", "tipo impositivo no residente Malasia 30", "tipo impositivo individual YA2025"]
 ---
 

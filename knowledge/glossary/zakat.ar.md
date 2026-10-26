@@ -80,9 +80,10 @@ sources:
 entity: "Zakat"
 wikidata: "Q124058"
 relations:
+  - { rel: "related-to", to: "waqf-islamic-endowment-malaysia" }
   - { rel: "related-to", to: "cukai-pendapatan" }
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
-related: ["lhdn"]
+related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["الزكاة", "zakat", "زكاة الدخل", "النصاب", "nisab", "الأصناف", "asnaf", "الرد الضريبي", "المادة 6A", "Section 6A", "الحول", "زكاة الفطر"]
 ---
 

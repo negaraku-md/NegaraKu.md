@@ -84,10 +84,11 @@ sources:
 
 entity: "Malaysian withholding tax rates"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
-related: ["withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
+related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["tasa de retención de impuestos Malasia", "withholding tax rate Malaysia", "tasa sección 109B", "section 109B rate", "retención sección 107A", "CP37D", "tabla de retención de impuestos Malasia", "LHDN retención de impuestos"]
 ---
 

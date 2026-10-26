@@ -62,10 +62,12 @@ sources:
 
 entity: "Section 44(6) donation deduction"
 relations:
+  - { rel: "related-to", to: "waqf-islamic-endowment-malaysia" }
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "personal-tax-reliefs" }
-related: ["personal-tax-reliefs", "corporate-tax-rates"]
+related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["don déductible d'impôt Malaisie", "institution agréée section 44(6)", "plafond de 10% du revenu agrégé pour les dons", "vérifier organisme caritatif agréé LHDN", "derma potongan cukai"]
 ---
 

@@ -103,12 +103,13 @@ sources:
 
 entity: "Corporate income tax"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "explained-in", to: "form-c-and-cp204" }
   - { rel: "compares-with", to: "business-structure-tax-comparison" }
   - { rel: "related-to", to: "losses-and-group-relief" }
-related: ["form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
+related: ["income-tax-in-malaysia", "form-c-and-cp204", "company-tax-residence", "losses-and-group-relief"]
 keywords: ["मलेशिया कॉर्पोरेट कर दर", "मलेशिया SME कर दर", "Malaysia corporate tax rate", "SME tax rate Malaysia", "कंपनी आयकर"]
 ---
 

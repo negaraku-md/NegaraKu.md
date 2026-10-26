@@ -79,10 +79,11 @@ sources:
 
 entity: "Non-resident and expatriate income tax in Malaysia"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "requires", to: "individual-tax-residence" }
-related: ["individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
+related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["प्रवासी कर मलेशिया", "expatriate tax Malaysia", "अनिवासी कर दर मलेशिया 30", "non-resident tax rate Malaysia 30", "60 दिन छूट मलेशिया कर", "60 day exemption Malaysia tax", "ज्ञान-कर्मी कर दर 15", "knowledge worker tax rate 15", "प्रत्यावर्ती विशेषज्ञ कार्यक्रम कर", "Returning Expert Programme tax", "रोज़गार पास कर निवास", "Employment Pass tax residence"]
 ---
 

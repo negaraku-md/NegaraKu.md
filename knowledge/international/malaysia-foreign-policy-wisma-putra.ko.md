@@ -86,10 +86,11 @@ sources:
 entity: "Kementerian Luar Negeri Malaysia (Wisma Putra)"
 wikidata: "Q3527309"
 relations:
+  - { rel: "related-to", to: "ekonomi-madani-framework" }
   - { rel: "related-to", to: "konfrontasi" }
   - { rel: "related-to", to: "miti" }
   - { rel: "related-to", to: "kabinet-perdana-menteri" }
-related: ["konfrontasi", "miti", "matrade"]
+related: ["ekonomi-madani-framework", "konfrontasi", "miti", "matrade"]
 keywords: ["dasar luar Malaysia", "Wisma Putra", "Kementerian Luar Negeri", "ZOPFAN", "dasar berkecuali", "diplomasi Malaysia", "ASEAN", "Pelan Strategik 2026-2030", "non-alignment"]
 ---
 

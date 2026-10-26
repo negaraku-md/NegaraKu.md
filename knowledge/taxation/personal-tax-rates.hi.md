@@ -80,10 +80,11 @@ sources:
 
 entity: "Malaysian individual income tax rates"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "personal-tax-reliefs" }
-related: ["personal-tax-reliefs", "corporate-tax-rates"]
+related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["व्यक्तिगत आयकर दर मलेशिया", "personal income tax rate Malaysia", "kadar cukai individu", "कर शृंखला मलेशिया", "LHDN कर दर तालिका", "अनिवासी कर दर मलेशिया 30", "व्यक्तिगत कर दर YA2025"]
 ---
 

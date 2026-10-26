@@ -95,11 +95,12 @@ sources:
 
 entity: "Doing business in Kuala Lumpur"
 relations:
+  - { rel: "related-to", to: "tun-razak-exchange-trx" }
   - { rel: "administered-by", to: "dbkl" }
   - { rel: "located-in", to: "kuala-lumpur" }
   - { rel: "governs", to: "local-government-act-1976" }
   - { rel: "explained-in", to: "premise-licence-malaysia" }
-related: ["kuala-lumpur", "premise-licence-malaysia", "signboard-licence-malaysia", "business-licence-malaysia", "register-sdn-bhd", "economic-corridors-compared"]
+related: ["tun-razak-exchange-trx", "kuala-lumpur", "premise-licence-malaysia", "signboard-licence-malaysia", "business-licence-malaysia", "register-sdn-bhd", "economic-corridors-compared"]
 keywords:
   - "doing business in Kuala Lumpur"
   - "DBKL business licence"

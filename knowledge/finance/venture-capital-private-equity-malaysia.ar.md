@@ -71,10 +71,11 @@ sources:
 
 entity: "Venture Capital and Private Equity (Malaysia)"
 relations:
+  - { rel: "related-to", to: "kl20-startup-ecosystem" }
   - { rel: "administered-by", to: "securities-commission-malaysia" }
   - { rel: "related-to", to: "sme-financing-malaysia" }
   - { rel: "related-to", to: "equity-crowdfunding-p2p-malaysia" }
-related: ["securities-commission-malaysia"]
+related: ["kl20-startup-ecosystem", "securities-commission-malaysia"]
 keywords: ["رأس المال الجريء ماليزيا", "venture capital malaysia", "الأسهم الخاصة ماليزيا", "private equity malaysia", "VCC VCMC malaysia", "تسجيل هيئة الأوراق المالية", "SC registration venture capital", "جمع تمويل شركة ناشئة ماليزيا", "raise funding startup malaysia", "MAVCAP", "Penjana Kapital", "الحافز الضريبي لرأس المال الجريء", "VC tax incentive malaysia"]
 ---
 

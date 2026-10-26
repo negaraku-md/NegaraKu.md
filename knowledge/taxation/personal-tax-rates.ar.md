@@ -80,10 +80,11 @@ sources:
 
 entity: "Malaysian individual income tax rates"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "personal-tax-reliefs" }
-related: ["personal-tax-reliefs", "corporate-tax-rates"]
+related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["معدل ضريبة الدخل الشخصي ماليزيا", "personal income tax rate Malaysia", "kadar cukai individu", "شريحة ضريبية ماليزيا", "جدول معدلات ضريبة LHDN", "معدل ضريبة غير المقيم ماليزيا 30", "معدل ضريبة الفرد YA2025"]
 ---
 

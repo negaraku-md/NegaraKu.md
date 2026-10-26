@@ -62,10 +62,12 @@ sources:
 
 entity: "Section 44(6) donation deduction"
 relations:
+  - { rel: "related-to", to: "waqf-islamic-endowment-malaysia" }
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "personal-tax-reliefs" }
-related: ["personal-tax-reliefs", "corporate-tax-rates"]
+related: ["waqf-islamic-endowment-malaysia", "income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["मलेशिया कर-कटौती योग्य दान", "धारा 44(6) अनुमोदित संस्थान", "समग्र आय का 10% दान सीमा", "LHDN अनुमोदित धर्मार्थ संस्था जाँच", "tax deductible donation Malaysia", "section 44(6) approved institution"]
 ---
 

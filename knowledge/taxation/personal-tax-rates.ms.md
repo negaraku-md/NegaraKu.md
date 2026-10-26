@@ -80,10 +80,11 @@ sources:
 
 entity: "Malaysian individual income tax rates"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "related-to", to: "personal-tax-reliefs" }
-related: ["personal-tax-reliefs", "corporate-tax-rates"]
+related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["kadar cukai pendapatan individu Malaysia", "kadar cukai individu", "jalur cukai Malaysia", "jadual kadar cukai LHDN", "kadar cukai bukan pemastautin Malaysia 30", "kadar cukai individu YA2025"]
 ---
 

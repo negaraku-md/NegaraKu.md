@@ -79,10 +79,11 @@ sources:
 
 entity: "Non-resident and expatriate income tax in Malaysia"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "requires", to: "individual-tax-residence" }
-related: ["individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
+related: ["income-tax-in-malaysia", "individual-tax-residence", "personal-tax-rates", "which-tax-form", "epf-foreign-workers-malaysia"]
 keywords: ["cukai ekspatriat Malaysia", "kadar cukai bukan pemastautin Malaysia 30", "pengecualian 60 hari cukai Malaysia", "kadar cukai pekerja pengetahuan 15", "cukai Returning Expert Programme", "taraf mastautin cukai Employment Pass"]
 ---
 

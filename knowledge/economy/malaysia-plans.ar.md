@@ -73,10 +73,11 @@ sources:
 entity: "Rancangan Malaysia"
 wikidata: "Q7415174"
 relations:
+  - { rel: "related-to", to: "ekonomi-madani-framework" }
   - { rel: "related-to", to: "federal-budget" }
   - { rel: "related-to", to: "gdp-overview" }
   - { rel: "explained-in", to: "parliament" }
-related: ["federal-budget", "gdp-overview", "parliament"]
+related: ["ekonomi-madani-framework", "federal-budget", "gdp-overview", "parliament"]
 keywords: ["الخطة الماليزية", "Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "وزارة الاقتصاد", "Kementerian Ekonomi", "EPU", "التخطيط الإنمائي الخماسي", "مراجعة منتصف المدة", "الميزانية السنوية"]
 faq:
   - q: ما الفرق بين الخطة الماليزية والميزانية السنوية؟

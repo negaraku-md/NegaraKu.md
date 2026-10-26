@@ -78,12 +78,13 @@ sources:
 
 entity: "Business loss relief"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "requires", to: "company-tax-residence" }
   - { rel: "related-to", to: "corporate-tax-rates" }
   - { rel: "affects", to: "capital-allowances" }
-related: ["corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
+related: ["income-tax-in-malaysia", "corporate-tax-rates", "company-tax-residence", "income-tax-act-1967", "dormant-company-audit-exemption"]
 keywords: ["report des pertes d'exploitation Malaisie", "dégrèvement de groupe section 44A", "déductions pour amortissement du capital non absorbées", "limite de 10 ans des pertes", "changement substantiel de l'actionnariat"]
 ---
 

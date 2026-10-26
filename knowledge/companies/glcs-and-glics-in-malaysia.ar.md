@@ -79,10 +79,11 @@ sources:
 
 entity: "Government-Linked Investment Companies (GLICs) Malaysia"
 relations:
+  - { rel: "related-to", to: "ekonomi-madani-framework" }
   - { rel: "administered-by", to: "ministry-of-finance-malaysia" }
   - { rel: "related-to", to: "khazanah" }
   - { rel: "related-to", to: "bursa-malaysia" }
-related: ["khazanah", "bursa-malaysia"]
+related: ["ekonomi-madani-framework", "khazanah", "bursa-malaysia"]
 keywords: ["GLC", "GLIC", "Khazanah", "KWSP", "PNB", "KWAP", "LTAT", "Tabung Haji", "GEAR-uP", "PERKUKUH", "الشركات المرتبطة بالحكومة", "برنامج تحويل GLC", "Bursa Malaysia"]
 ---
 

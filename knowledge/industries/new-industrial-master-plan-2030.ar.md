@@ -87,10 +87,11 @@ sources:
 
 entity: "New Industrial Master Plan 2030"
 relations:
+  - { rel: "related-to", to: "ekonomi-madani-framework" }
   - { rel: "administered-by", to: "ministry-of-investment-trade-and-industry" }
   - { rel: "supersedes", to: "third-industrial-master-plan-imp3" }
   - { rel: "related-to", to: "madani-economy" }
-related: []
+related: ["ekonomi-madani-framework"]
 keywords: ["NIMP 2030", "الخطة الصناعية الرئيسية الجديدة", "New Industrial Master Plan", "MITI", "السياسة الصناعية لماليزيا", "Malaysia industrial policy", "النهج القائم على المهام", "mission-based approach", "التصنيع", "manufacturing", "التعقيد الاقتصادي", "economic complexity", "الحياد الكربوني", "Net Zero", "اقتصاد مدني", "MADANI economy"]
 ---
 

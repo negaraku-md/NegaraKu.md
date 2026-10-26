@@ -80,9 +80,10 @@ sources:
 entity: "Zakat"
 wikidata: "Q124058"
 relations:
+  - { rel: "related-to", to: "waqf-islamic-endowment-malaysia" }
   - { rel: "related-to", to: "cukai-pendapatan" }
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
-related: ["lhdn"]
+related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["ज़कात", "zakat", "आय पर ज़कात", "निसाब", "nisab", "असनाफ़", "asnaf", "कर रिबेट", "धारा 6A", "Section 6A", "हौल", "ज़कात फ़ितरह"]
 ---
 

@@ -112,6 +112,7 @@ sources:
 
 entity: "Digital Free Trade Zone"
 relations:
+  - { rel: "related-to", to: "ekonomi-madani-framework" }
   - { rel: "administered-by", to: "mdec" }
   - { rel: "governs", to: "free-zones-act-1990" }
   - { rel: "located-in", to: "selangor" }
@@ -121,7 +122,7 @@ relations:
   - { rel: "related-to", to: "mdec-digital-status" }
   - { rel: "related-to", to: "tax-incentives-directory" }
   - { rel: "related-to", to: "manufacturing-licence-malaysia" }
-related: ["mdec-digital-status", "cyberjaya-tech-hub", "bayan-lepas-free-industrial-zone", "js-sez-guide", "ncer-guide", "tax-incentives-directory", "sales-tax-explained"]
+related: ["ekonomi-madani-framework", "mdec-digital-status", "cyberjaya-tech-hub", "bayan-lepas-free-industrial-zone", "js-sez-guide", "ncer-guide", "tax-incentives-directory", "sales-tax-explained"]
 keywords:
   - "Digital Free Trade Zone Malaysia"
   - "DFTZ status"

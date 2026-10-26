@@ -55,10 +55,11 @@ sources:
 
 entity: "Taxation of rental income in Malaysia"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "section-33-deductibility" }
-related: ["section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
+related: ["income-tax-in-malaysia", "section-33-deductibility", "non-deductible-expenses", "personal-tax-rates", "which-tax-form"]
 keywords: ["cukai pendapatan sewa Malaysia", "perbelanjaan pra-penyewaan Malaysia", "bolehkah saya tolak komisen ejen sewa", "Ketetapan Umum 12/2018", "tolakan cukai tanah (quit rent)", "cukai sewa harta"]
 ---
 

@@ -66,10 +66,11 @@ sources:
 
 entity: "Dasar ekonomi Bumiputera"
 relations:
+  - { rel: "related-to", to: "ekonomi-madani-framework" }
   - { rel: "related-to", to: "malaysia-plans" }
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["malaysia-plans", "bumiputera-equity-requirements", "gdp-overview", "federal-budget"]
+related: ["ekonomi-madani-framework", "malaysia-plans", "bumiputera-equity-requirements", "gdp-overview", "federal-budget"]
 keywords: ["política económica Bumiputera", "Dasar Ekonomi Baru", "DEB", "reestructuración de la sociedad", "PuTERA35", "Pelan Transformasi Ekonomi Bumiputera 2035", "Majlis Ekonomi Bumiputera", "Economía MADANI", "participación propiedad control"]
 ---
 

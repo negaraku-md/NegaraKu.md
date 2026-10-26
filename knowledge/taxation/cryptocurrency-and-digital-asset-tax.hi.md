@@ -75,9 +75,10 @@ sources:
 entity: "Inland Revenue Board of Malaysia (LHDN)"
 wikidata: "Q7377230"
 relations:
+  - { rel: "related-to", to: "service-tax-on-digital-services-stods" }
   - { rel: "related-to", to: "capital-or-revenue" }
   - { rel: "related-to", to: "capital-gains-tax" }
-related: ["capital-or-revenue", "capital-gains-tax"]
+related: ["service-tax-on-digital-services-stods", "capital-or-revenue", "capital-gains-tax"]
 keywords: ["मलेशिया क्रिप्टोकरेंसी कर", "crypto tax LHDN", "डिजिटल मुद्रा कर", "badges of trade crypto", "मलेशिया बिटकॉइन कर"]
 ---
 

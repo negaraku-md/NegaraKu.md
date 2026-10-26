@@ -74,10 +74,11 @@ sources:
 entity: "Rancangan Malaysia"
 wikidata: "Q7415174"
 relations:
+  - { rel: "related-to", to: "ekonomi-madani-framework" }
   - { rel: "related-to", to: "federal-budget" }
   - { rel: "related-to", to: "gdp-overview" }
   - { rel: "explained-in", to: "parliament" }
-related: ["federal-budget", "gdp-overview", "parliament"]
+related: ["ekonomi-madani-framework", "federal-budget", "gdp-overview", "parliament"]
 keywords: ["Rancangan Malaysia", "RMK13", "Rancangan Malaysia Ketiga Belas", "Kementerian Ekonomi", "EPU", "perancangan pembangunan lima tahun", "kajian separuh penggal", "belanjawan tahunan"]
 faq:
   - q: மலேசியத் திட்டத்திற்கும் ஆண்டு பட்ஜெட்டுக்கும் இடையிலான வேறுபாடு என்ன?

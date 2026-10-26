@@ -72,11 +72,12 @@ sources:
 
 entity: "Monthly Tax Deduction (PCB / MTD)"
 relations:
+  - { rel: "related-to", to: "income-tax-in-malaysia" }
   - { rel: "governs", to: "income-tax-act-1967" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "explained-in", to: "pcb-mtd-malaysia" }
   - { rel: "affects", to: "personal-tax-reliefs" }
-related: ["pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
+related: ["income-tax-in-malaysia", "pcb-mtd-malaysia", "personal-tax-reliefs", "personal-tax-rates", "which-tax-form"]
 keywords: ["PCB impôt définitif", "retenue mensuelle d'impôt Malaisie", "potongan cukai bulanan", "section 77C Income Tax Act", "dois-je déclarer si le PCB est retenu", "remboursement PCB Malaisie"]
 ---
 
