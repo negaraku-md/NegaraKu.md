@@ -99,9 +99,10 @@ sources:
 
 entity: "Gig Workers Act 2025"
 relations:
+  - { rel: "related-to", to: "i-saraan-epf-voluntary-contribution" }
   - { rel: "administered-by", to: "perkeso" }
   - { rel: "compares-with", to: "employment-act-1955-guide" }
-related: ["employment-act-1955-guide", "socso-eis-employer-guide"]
+related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955-guide", "socso-eis-employer-guide"]
 keywords: ["قانون عمال العمل المؤقت 2025", "gig workers act 2025", "Act 872", "محكمة عمال العمل المؤقت", "gig workers tribunal", "ضمان اجتماعي لعمال العمل المؤقت", "gig worker socso", "مزوّد المنصّة", "platform provider malaysia", "قانون اقتصاد العمل المؤقت في ماليزيا"]
 ---
 

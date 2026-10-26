@@ -94,12 +94,13 @@ sources:
 
 entity: "Malaysian economic corridors"
 relations:
+  - { rel: "related-to", to: "east-coast-rail-link-ecrl" }
   - { rel: "compares-with", to: "ncer-guide" }
   - { rel: "compares-with", to: "ecer-guide" }
   - { rel: "compares-with", to: "iskandar-malaysia-guide" }
   - { rel: "compares-with", to: "sarawak-business-guide" }
   - { rel: "related-to", to: "js-sez-guide" }
-related: ["ncer-guide", "ecer-guide", "iskandar-malaysia-guide", "js-sez-guide", "forest-city-sfz", "sarawak-business-guide", "investment-agency-directory"]
+related: ["east-coast-rail-link-ecrl", "ncer-guide", "ecer-guide", "iskandar-malaysia-guide", "js-sez-guide", "forest-city-sfz", "sarawak-business-guide", "investment-agency-directory"]
 keywords:
   - "Malaysia economic corridors"
   - "NCER ECER Iskandar SDC SCORE"

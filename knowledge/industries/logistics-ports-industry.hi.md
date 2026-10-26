@@ -110,11 +110,12 @@ sources:
 
 entity: "Malaysia logistics and ports sector"
 relations:
+  - { rel: "related-to", to: "east-coast-rail-link-ecrl" }
   - { rel: "located-in", to: "strait-of-malacca" }
   - { rel: "related-to", to: "port-klang" }
   - { rel: "related-to", to: "port-of-tanjung-pelepas" }
   - { rel: "administered-by", to: "ministry-of-transport-malaysia" }
-related: []
+related: ["east-coast-rail-link-ecrl"]
 keywords: ["मलेशिया के बंदरगाह", "Malaysia ports", "Port Klang", "Port of Tanjung Pelepas", "PTP", "ट्रांसशिपमेंट", "transhipment", "container port", "मलेशिया लॉजिस्टिक्स", "freight forwarding", "ECRL", "free zone", "TEU", "Strait of Malacca"]
 ---
 

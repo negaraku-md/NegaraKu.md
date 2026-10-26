@@ -121,11 +121,12 @@ sources:
 entity: "East Coast Economic Region"
 wikidata: "Q5328112"
 relations:
+  - { rel: "related-to", to: "east-coast-rail-link-ecrl" }
   - { rel: "administered-by", to: "ecerdc" }
   - { rel: "governs", to: "east-coast-economic-region-development-council-act-2008" }
   - { rel: "compares-with", to: "ncer-guide" }
   - { rel: "compares-with", to: "economic-corridors-compared" }
-related: ["ncer-guide", "manufacturing-licence-malaysia", "corporate-tax-rates"]
+related: ["east-coast-rail-link-ecrl", "ncer-guide", "manufacturing-licence-malaysia", "corporate-tax-rates"]
 keywords:
   - "ECER प्रोत्साहन"
   - "ECERDC कर प्रोत्साहन"

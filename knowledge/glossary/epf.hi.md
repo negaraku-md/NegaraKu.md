@@ -41,8 +41,9 @@ sources:
 entity: "EPF"
 wikidata: "Q5374309"
 relations:
+  - { rel: "related-to", to: "i-saraan-epf-voluntary-contribution" }
   - { rel: "related-to", to: "employment-act-1955" }
-related: ["employment-act-1955"]
+related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955"]
 keywords: ["कर्मचारी भविष्य निधि", "EPF", "KWSP", "Employees Provident Fund", "मलेशिया सेवानिवृत्ति बचत", "EPF Malaysia"]
 ---
 

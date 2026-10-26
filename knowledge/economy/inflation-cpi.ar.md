@@ -54,9 +54,10 @@ sources:
 
 entity: "Malaysia Consumer Price Index"
 relations:
+  - { rel: "related-to", to: "program-rahmah-cost-of-living" }
   - { rel: "part-of", to: "malaysia" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["cost-of-living-overview", "gdp-overview"]
+related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "gdp-overview"]
 keywords: ["معدل التضخم في ماليزيا", "مؤشر أسعار المستهلك ماليزيا", "CPI Malaysia", "Malaysia inflation rate", "تكلفة المعيشة في ماليزيا", "Indeks Harga Pengguna"]
 ---
 

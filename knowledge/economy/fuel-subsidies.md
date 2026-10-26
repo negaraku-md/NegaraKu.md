@@ -85,11 +85,12 @@ sources:
 
 entity: "Subsidi bahan api Malaysia"
 relations:
+  - { rel: "related-to", to: "program-rahmah-cost-of-living" }
   - { rel: "part-of", to: "malaysia" }
   - { rel: "affects", to: "inflation-cpi" }
   - { rel: "related-to", to: "ringgit" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
+related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["subsidi bahan api Malaysia", "Mekanisme Harga Automatik", "APM harga minyak", "BUDI95", "BUDI Diesel", "subsidi bersasar", "harga RON95", "SKDS SKPS"]
 ---
 

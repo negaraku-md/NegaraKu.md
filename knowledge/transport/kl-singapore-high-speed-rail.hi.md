@@ -73,9 +73,10 @@ sources:
 entity: "Kuala Lumpur-Singapore High-Speed Rail"
 wikidata: "Q7162252"
 relations:
+  - { rel: "related-to", to: "east-coast-rail-link-ecrl" }
   - { rel: "administered-by", to: "myhsr-corporation" }
   - { rel: "compares-with", to: "johor-bahru-singapore-rts-link" }
-related: []
+related: ["east-coast-rail-link-ecrl"]
 keywords: ["KL सिंगापुर HSR", "मलेशिया में हाई-स्पीड रेल", "MyHSR Corp", "HSR समाप्ति मुआवज़ा", "HSR पुनर्जीवन RFP", "high-speed rail Malaysia"]
 ---
 

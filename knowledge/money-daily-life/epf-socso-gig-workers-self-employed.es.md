@@ -76,10 +76,11 @@ sources:
     publisher: "People Matters"
 
 relations:
+  - { rel: "related-to", to: "i-saraan-epf-voluntary-contribution" }
   - { rel: "compares-with", to: "epf-socso-employees" }
   - { rel: "related-to", to: "income-tax-individuals" }
   - { rel: "related-to", to: "str-cash-aid" }
-related: ["epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
+related: ["i-saraan-epf-voluntary-contribution", "epf-socso-employees", "income-tax-individuals", "str-cash-aid"]
 keywords: ["i-Saraan", "i-Saraan Plus", "KWSP", "PERKESO", "Lindung Kendiri", "trabajadores gig", "pekerja gig", "trabajo por cuenta propia", "Ley de Trabajadores Gig 2025", "Akta Pekerja Gig 2025", "Akta 872", "SKSPS", "freelancer"]
 ---
 

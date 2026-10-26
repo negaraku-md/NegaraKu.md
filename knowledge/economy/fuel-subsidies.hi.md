@@ -86,11 +86,12 @@ sources:
 
 entity: "Subsidi bahan api Malaysia"
 relations:
+  - { rel: "related-to", to: "program-rahmah-cost-of-living" }
   - { rel: "part-of", to: "malaysia" }
   - { rel: "affects", to: "inflation-cpi" }
   - { rel: "related-to", to: "ringgit" }
   - { rel: "related-to", to: "gdp-overview" }
-related: ["cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
+related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "inflation-cpi", "ringgit", "gdp-overview"]
 keywords: ["मलेशिया में ईंधन सब्सिडी", "स्वचालित मूल्य निर्धारण तंत्र", "APM", "तेल की कीमत", "BUDI95", "BUDI Diesel", "लक्षित सब्सिडी", "RON95 कीमत", "SKDS SKPS"]
 ---
 

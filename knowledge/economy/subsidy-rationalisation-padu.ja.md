@@ -103,9 +103,10 @@ sources:
 entity: "PADU (Pangkalan Data Utama)"
 wikidata: "Q124170682"
 relations:
+  - { rel: "related-to", to: "program-rahmah-cost-of-living" }
   - { rel: "related-to", to: "budi-madani-fuel-subsidy" }
   - { rel: "related-to", to: "sumbangan-tunai-rahmah-str" }
-related: []
+related: ["program-rahmah-cost-of-living"]
 keywords: ["PADU", "Pangkalan Data Utama", "rasionalisasi subsidi", "subsidi bersasar", "BUDI MADANI", "RON95", "subsidi diesel", "subsidi elektrik", "T15"]
 ---
 

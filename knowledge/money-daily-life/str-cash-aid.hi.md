@@ -65,10 +65,12 @@ sources:
 
 entity: "Sumbangan Tunai Rahmah (STR)"
 relations:
+  - { rel: "related-to", to: "program-rahmah-cost-of-living" }
+  - { rel: "related-to", to: "i-saraan-epf-voluntary-contribution" }
   - { rel: "administered-by", to: "lhdn" }
   - { rel: "related-to", to: "income-tax-individuals" }
   - { rel: "related-to", to: "mykad" }
-related: ["lhdn", "income-tax-individuals", "mykad"]
+related: ["program-rahmah-cost-of-living", "i-saraan-epf-voluntary-contribution", "lhdn", "income-tax-individuals", "mykad"]
 keywords: ["Sumbangan Tunai Rahmah", "STR", "मलेशिया सरकारी नकद सहायता", "MySTR", "bantuantunai.hasil.gov.my", "STR जाँच", "STR आवेदन", "मलेशिया जीवन-यापन लागत सहायता"]
 ---
 
