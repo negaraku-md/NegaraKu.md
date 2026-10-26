@@ -79,6 +79,7 @@ for (const file of walk(KNOWLEDGE)) {
     summary: d.summary ?? '',
     answer: d.answer ?? '',
     key_takeaways: Array.isArray(d.keyTakeaways) ? d.keyTakeaways : [],
+    keywords: Array.isArray(d.keywords) ? d.keywords : [],
     category: d.category ?? '',
     subcategory: Array.isArray(d.subcategory) ? d.subcategory : [],
     tier: String(d.tier ?? ''),
