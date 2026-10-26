@@ -41,8 +41,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 verificationNeeded:
   - "أصل وتأثيل مطبخ Peranakan/Nyonya — مصطلحا Baba/Nyonya وقصة التزاوج بين التجار الصينيين والنساء المحلّيات في مستوطنات المضيق؛ يحتاج إلى مصدر موثوق (لا ويكيبيديا)."
   - "الادعاء بأن مطبخ الساحل الشرقي (كلنتان/ترينغانو) «أكثر حلاوة» واستعمال gula kabung/gula melaka وbudu؛ يحتاج إلى مصدر."

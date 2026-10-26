@@ -36,8 +36,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "الاسم الرسمي الحالي لبرنامج Tunas التابع لمؤسسة بنيراجو (تذكر مراجع عامة «Tunas Potensi»، لكن الموقع الرسمي يدرج الآن «Peneraju Tunas») إلى جانب شروط الدخل/الأسرة الحالية."

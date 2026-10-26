@@ -38,8 +38,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "معدلات الضريبة على الأفراد في الجدول 1 منقولة من نص Act 53 حتى إعادة طبعة 1 نوفمبر 2023؛ تأكّد من عدم وجود تعديل حديث يغيّر الشرائح أو المعدلات لسنة التقدير الجارية."

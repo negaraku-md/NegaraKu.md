@@ -37,8 +37,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "مصطلح الفقه «شقاق» (syiqaq) للمادة 48 — العنوان الإنجليزي الرسمي لـ Act 303 هو فقط «التحكيم بواسطة الحَكَم» (Arbitration by Hakam)؛ والإشارة إلى «شقاق» توضيح فقهي (يستخدم النص الملايوي الرسمي كلمة «syiqaq»). يُتحقَّق من المصطلح المكافئ في تشريع الولاية المعني."

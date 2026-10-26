@@ -43,8 +43,8 @@ status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 published: 2026-08-18
-reviewed: 2026-08-18
-reviewDue: 2027-08-18
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 2
 revisions:
   - revision: 2

@@ -37,8 +37,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "ترقيم بند كوفيد-19 في نص الجريدة الرسمية باللغة الملايوية من الجدول الأول (النص الإنجليزي المحدَّث الصادر عن دائرة النائب العام يعطيه البند 3A؛ وبعض المراجع تذكر 17A وفقاً للترتيب الأبجدي للنص الملايوي). يُتحقّق من ترقيم النص الملايوي قبل النشر."

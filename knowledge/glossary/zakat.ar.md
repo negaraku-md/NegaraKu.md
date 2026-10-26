@@ -39,8 +39,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "أرقام النصاب الحالية لكل ولاية (أمثلة في المقال: الولايات الاتحادية RM33,996 لسنة 2026 وبينانغ RM31,000 لسنة 2025) — تأكَّد مباشرةً من هيئات الزكاة في الولايات لأن هذه الأرقام تُحدَّث كل سنة وفق سعر الذهب."

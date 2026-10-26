@@ -30,8 +30,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 revisions:
   - revision: 0

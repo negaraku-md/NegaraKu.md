@@ -36,8 +36,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "نسبة نحو 800 مركز تحفيظ غير مسجّل في سلانغور من أصل نحو 1,000 على مستوى البلاد (رقم من Bernama؛ يبدو غير متوازن داخلياً وينبغي التحقق منه مقابل أحدث بيانات JAIS/JAKIM)."

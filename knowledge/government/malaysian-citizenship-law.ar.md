@@ -42,8 +42,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "الوضع التشريعي الكامل لمشروع قانون الدستور (التعديل) لسنة 2024 بعد موافقة مجلس النواب (17 أكتوبر 2024): تأكيد تاريخ موافقة مجلس الشيوخ (Dewan Negara)، وتاريخ موافقة اليانغ دي-بيرتوان أغونغ، وتاريخ النشر/النفاذ الفعلي (المستهدَف نفاذه منتصف 2026)."

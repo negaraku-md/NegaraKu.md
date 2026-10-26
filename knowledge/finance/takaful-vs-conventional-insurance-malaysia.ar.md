@@ -36,8 +36,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "جميع أرقام الصناعة لعام 2024 هي أرقام الجمعية الماليزية للتكافل (Malaysian Takaful Association, MTA) كما نقلتها وكالة برناما (Bernama)؛ تحقّق منها مقابل الإصدار السنوي الخاص بالجمعية و/أو إحصاءات التأمين والتكافل لبنك نيغارا ماليزيا قبل النشر."

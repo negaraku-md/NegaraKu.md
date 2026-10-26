@@ -37,8 +37,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "رقم لائحة الإجراءات (Standing Order) الذي استند إليه إحالة مشروع قانون حرية المعلومات لسنة 2026 إلى اللجنة المختارة — إذ لا يذكر المصدر الإخباري المستشهَد به ذلك الرقم، وإحالات مشاريع القوانين في مجلس النواب (Dewan Rakyat) تكون عادةً بموجب لائحة الإجراءات 54. يُتحقَّق منه مقابل المحضر الرسمي (Hansard) لمجلس النواب."

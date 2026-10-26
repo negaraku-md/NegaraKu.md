@@ -33,9 +33,9 @@ faq:
 lang: ar
 masterLanguage: en
 translationStatus: "in-sync"
-status: published
+status: "published"
 aiAssisted: true
-reviewer: ashton-tan
+reviewer: "ashton-tan"
 assignee: null
 revision: 0
 created: '2026-10-19T00:00:00.000Z'
@@ -70,10 +70,10 @@ keywords:
   - Education Act 1996
   - Ministry of Education Malaysia
 sourceContentHash: "963327281cb05deb"
-reviewed: '2026-10-19'
+reviewed: 2026-10-26
 published: '2026-10-19'
 publishedBy: ashton-tan
-reviewDue: '2027-10-19'
+reviewDue: 2027-10-26
 revisions:
   - revision: 0
     date: '2026-10-19'

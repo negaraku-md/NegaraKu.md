@@ -42,8 +42,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "حصّة تصاريح سيبادان اليومية البالغة 252 وتخصيص نحو 6 تصاريح لكل منتجع — ذُكرت أرقامًا ثابتة لكنها تستند حاليًا إلى مصدر إخباري ثانوي عن الغوص؛ تأكّد منها مباشرةً مع Sabah Parks قبل النشر."

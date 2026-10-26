@@ -37,8 +37,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "دقّة كل رقم من أرقام ISEAS (RM926 إيراد الولاية للفرد؛ RM8,969 الإيراد الاتحادي للفرد؛ RM4,414 الإيراد للفرد في ساراواك؛ حصة الأراضي في سلانغور 82%؛ إيرادات الغابات في باهانغ/كلنتان 18–20%؛ منحة الرؤوس لسلانغور RM77.2 مليون) والسنة المرجعية الدقيقة لكلٍّ منها، مقابل الجداول الأصلية للدراسة."

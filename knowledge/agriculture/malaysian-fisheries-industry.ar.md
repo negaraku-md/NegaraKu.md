@@ -43,8 +43,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "تأتي الخسائر المقدّرة بـ RM3–6 مليار ونحو 980,000 طن سنويًا من بيان لدائرة مصايد الأسماك عام 2019 (Malay Mail)؛ يجب التأكد مما إذا كان هناك تقدير أحدث من DOF."

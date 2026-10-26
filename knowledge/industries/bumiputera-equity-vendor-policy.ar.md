@@ -36,8 +36,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "التأكد من أن خطوط الأساس وأهداف خطة PuTERA35 (30% ملكية؛ 70% للعمالة عالية المهارة بخط أساس 61%/2022؛ 15% من الناتج المحلي الإجمالي بخط أساس 9.1%/2022) لا تزال كما نشرتها TERAJU ولم تُحدَّث بعد عام 2024."

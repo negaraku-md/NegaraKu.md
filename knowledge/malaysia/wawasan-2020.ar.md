@@ -39,8 +39,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "الصياغة الرسمية لعنوان ورقة العمل بالملايوية («Malaysia: Melangkah Ke Hadapan»): النص الأصلي المُشار إليه بالإنجليزية («Malaysia: The Way Forward»). يجب التحقق من العنوان الملايوي الرسمي من أرشيف الحكومة."

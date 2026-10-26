@@ -36,8 +36,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "قيمة المخاطر لدى لجنة الحسابات العامة (PAC): يذكر المصدر (The Edge node 745683) «حتى نصف الصندوق» / نحو RM5 مليار من إجمالي أصول تُدار بنحو RM11.5 مليار (2023)؛ يُرجى التأكد من الرقم والسياق مقابل تقرير PAC الأصلي الصادر في نوفمبر 2024."

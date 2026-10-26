@@ -36,8 +36,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "صيغة الاستشهاد الحالية الدقيقة بالعنوان المختصر: أُضيفت عبارة «Anti-Restricted Activity Financing» إلى عنوان القانون بموجب Act A1761 (ساري المفعول في 1 مارس 2026)؛ يُتحقَّق من الصياغة الدقيقة مقابل أحدث إعادة طبع رسمية بعد نشرها."

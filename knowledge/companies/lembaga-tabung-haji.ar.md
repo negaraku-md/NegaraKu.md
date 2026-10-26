@@ -37,8 +37,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "تصنيف TH بوصفها إحدى «شركات الاستثمار المرتبطة بالحكومة» (GLICs) و«أحد المستثمرين المؤسسيين الكبار» — تحقَّق منه مقابل قائمة/تعريف GLIC الرسمي من وزارة المالية أو مصدر موثوق آخر قبل النشر."

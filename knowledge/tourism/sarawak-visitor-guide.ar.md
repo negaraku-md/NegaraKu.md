@@ -43,8 +43,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "ارتفاع قمة جبل مولو: موقع المنتزه نفسه متناقض — إذ يذكر mulupark.com/mulu-world-heritage-area/ ارتفاع 2,376 م، بينما تذكر الصفحة الرئيسية mulupark.com ارتفاع 2,377 م. وتستخدم المسوّدة نحو 2,376 م؛ يجب التأكد من الرقم الموثوق."

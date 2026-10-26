@@ -39,8 +39,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "تصريح JPN بتاريخ 17 ديسمبر 2025 (Bernama id=2503691) — تحقّق من التاريخ والسياق واسم/لقب المدير العام لـ JPN (Datuk Badrul Hisham Alias)."

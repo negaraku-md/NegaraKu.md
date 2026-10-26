@@ -38,8 +38,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "ما إذا كانت قاعة ساراواك (Sarawak Chamber) في متنزّه جبل مولو الوطني أكبر قاعة كهف في العالم (حُذِفت هذه الصفة التفضيلية من المقدّمة بانتظار مصدر أوّلي؛ تعذّر جلب صفحة الإدراج لدى اليونسكو خلال هذه المراجعة)."

@@ -36,8 +36,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "التأكد من أن ترقيم المواد المُشار إليها (3 و5 و6 و7 و12 و13 و13A و13B) لا يزال كما هو في نص Act 301 النافذ اليوم بعد تعديل 2012 وأي تعديلات لاحقة."

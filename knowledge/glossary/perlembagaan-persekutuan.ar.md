@@ -37,8 +37,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "تحقق من الاقتباسات الحرفية للمواد 4(1) و159(3) و159(4) و159(5) و161E(2) مقابل النص المطبوع للدستور الاتحادي (إعادة الطبع 2020) النسخة بلغة الملايو — يستخدم هذا المقال العبارتين القانونيتين «tidak sah setakat ketidakselarasan itu» و«jumlah bilangan ahli»، لا صياغة مترجمة."

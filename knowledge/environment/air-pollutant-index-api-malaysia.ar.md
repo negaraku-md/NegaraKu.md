@@ -39,8 +39,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-10-19
-reviewDue: 2027-10-19
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 1
 verificationNeeded:
   - "لا يُذكر الربو تحديدًا في أيٍّ من ملفَّي JAS المرجعيَّين (تذكر المصادر كبار السن والحوامل والأطفال ومضاعفات القلب/الرئة). والإشارة إلى الربو هنا استنتاج تحريري بوصفه حالة رئوية — تحقق من ذلك مع مصدر رسمي لإرشادات JAS الصحية."

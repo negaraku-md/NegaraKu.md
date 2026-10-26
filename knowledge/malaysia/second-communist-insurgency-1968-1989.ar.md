@@ -37,8 +37,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-08
-reviewDue: 2027-08-08
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "التاريخ والمكان الدقيقان لتسوية عام 1990 التي أنهت تمرد ساراواك. تورد التقارير الصحفية والمداخل الموسوعية 17 أكتوبر 1990 في ويسما بابا ماليزيا (Wisma Bapa Malaysia) بكوتشينغ، لكن هذا غير مؤكَّد في المصادر الموثوقة المستشهَد بها؛ ويكتفي Kyoto Review بذكر «1990»."

@@ -42,8 +42,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-08-03
-reviewDue: 2027-08-03
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 verificationNeeded:
   - "الأرقام المالية الدقيقة لعام 2024 (إيرادات ~RM320 مليار، صافي ربح ~RM55.1 مليار، ومقارنة 2023 البالغة RM343.6 مليار / RM80.7 مليار) — تحقّق منها مقابل النتائج المالية لمجموعة PETRONAS للسنة المالية 2024 المُعلنة في 5 فبراير 2025 (وثيقة PDF رسمية)."

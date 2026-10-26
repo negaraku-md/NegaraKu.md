@@ -32,8 +32,8 @@ sourceContentHash: "48f4e6165d3f9202"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-10-21
-reviewDue: 2027-10-21
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 revisions:
   - revision: 0

@@ -35,8 +35,8 @@ translationStatus: "in-sync"
 status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
-reviewed: 2026-07-22
-reviewDue: 2027-07-20
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 revision: 0
 revisions:
   - revision: 0
