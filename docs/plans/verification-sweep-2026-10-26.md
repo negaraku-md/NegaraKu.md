@@ -73,6 +73,16 @@ The value of this tranche is the **6 real corrections + 2 staleness items** it s
 - **sports/fam-heritage-players-controversy** — FIFA 26 Sep / CAS 25 Sep 2025 dual-date is correct
   (editorial-only residue); plus the malaysia-cup HMS-Malaya origin (NLB + JMM).
 
+## ✅ APPLIED 2026-10-26 (commit d3bfb4de9, held for push)
+Corrections 1–6 **plus** the electricity AFA reword were applied to all 7 masters + 84 translations
+(13 per-language agents), each now-confirmed verificationNeeded flag resolved; `translate:stamp`
+re-synced 84 (0 floor spillover); validate-frontmatter + check-internal-links --strict green.
+Re-verification before applying changed two items:
+- **jpa "Peneraju Tunas ended" was FALSE** (June-2026 Bernama shows it active, 2,800+ graduates) → dropped, no edit.
+- **tenaga "Genco ~54%"** — no primary either way → left flagged (no silent change).
+s.233 caveat resolved: the general s.233(1) penalty rose to RM500k/2yr/RM5k-day; the RM1m/5yr figure
+is the separate child-content provision — so the tourist article's s.233 figure is correct as applied.
+
 ## Recommended next step
 Apply corrections 1–3 (HIGH) and, after a quick primary re-verify, 4–6 (MEDIUM) — each as EN/MS-master
 edit → 12 parallel 1-lang agents → `translate:stamp` with floor-revert (the proven method). Items 7–9
