@@ -38,9 +38,11 @@ sourceContentHash: "7d60e008fe446f64"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "in-review"
+status: "published"
 aiAssisted: true
-reviewer: null
+reviewer: "ashton-tan"
+reviewed: 2026-10-26
+reviewDue: 2027-10-26
 assignee: "ashton-tan"
 revision: 0
 revisions:
@@ -78,8 +80,8 @@ entity: "Approved Permit (AP)"
 relations:
   - { rel: "related-to", to: "import-export-licence-malaysia" }
   - { rel: "related-to", to: "automotive-industry-malaysia" }
-  - { rel: "related-to", to: "ministry-of-investment-trade-industry-miti" }
-related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "ministry-of-investment-trade-industry-miti"]
+  - { rel: "related-to", to: "miti" }
+related: ["import-export-licence-malaysia", "automotive-industry-malaysia", "miti"]
 keywords: ["approved permit", "AP Malaysia", "open AP", "franchise AP", "car import permit", "permit import kenderaan", "MITI AP", "parallel import car Malaysia"]
 ---
 
