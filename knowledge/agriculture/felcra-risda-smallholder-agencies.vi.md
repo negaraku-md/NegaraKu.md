@@ -46,10 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Tên chính thức đầy đủ và số của đạo luật thành lập công ty năm 1997: nguồn FELCRA hiển thị biến thể 'Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997' so với dạng 'Tanah Persekutuan' được dùng ở đây — hãy xác nhận với đạo luật liên bang chính thức (e-Federal Gazette / AGC)."
-  - "Cấu trúc giám sát chính sách hiện tại của FELCRA Berhad với tư cách GLC (thuộc sở hữu hoàn toàn của Bộ trưởng Tài chính Được thành lập công ty) so với bộ giám sát hoạt động của nó — hãy xác nhận bộ giám sát mới nhất."
-  - "Tình trạng hợp nhất/sáp nhập FELDA, FELCRA và RISDA sau tháng 3 năm 2023 — hãy xác nhận liệu nó có còn là một thảo luận chính sách không có sự sáp nhập đầy đủ hay không."
 updated: 2026-08-01
 sources:
   - title: "Tổng quan công ty — FELCRA Berhad (Company Overview — FELCRA Berhad)"

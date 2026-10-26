@@ -41,8 +41,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "Xác nhận rằng mục tiêu trung gian SSR gạo 75% (vào năm 2025) bắt nguồn cụ thể từ Kế hoạch Malaysia lần thứ 12 (chứ không chỉ là mục tiêu chung của chính phủ) — cần được rà soát với tài liệu chính thức RMK-12; bản thân các con số 75%/80% được The Edge Malaysia xác nhận."
 revisions:
   - revision: 0
     date: 2026-08-01

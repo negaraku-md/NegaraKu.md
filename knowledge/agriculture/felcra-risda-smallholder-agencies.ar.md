@@ -46,10 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "الاسم الرسمي الكامل ورقم قانون الإدماج لعام 1997: تُظهر مصادر FELCRA صيغة «Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997» مقابل صيغة «Tanah Persekutuan» المستخدمة هنا — تحقّق مقابل التشريع الاتحادي الرسمي (الجريدة الرسمية الإلكترونية / AGC)."
-  - "بنية الإشراف السياساتي الحالية لـ FELCRA Berhad بوصفها GLC (مملوكة بالكامل لوزير المالية المُدمَج) مقابل الوزارة التي تشرف على عملياتها — تحقّق من الوزارة المشرفة الحالية."
-  - "حالة توحيد/دمج FELDA وFELCRA وRISDA بعد مارس 2023 — تحقّق مما إذا كانت لا تزال نقاشًا سياساتيًا دون دمج كامل."
 updated: 2026-08-01
 sources:
   - title: "نبذة عن الشركة — FELCRA Berhad (Company Overview — FELCRA Berhad)"

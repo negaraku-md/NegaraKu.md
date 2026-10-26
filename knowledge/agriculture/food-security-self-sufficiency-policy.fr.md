@@ -41,8 +41,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "Confirmation que l'objectif intermédiaire de SSR du riz de 75% (d'ici 2025) découle spécifiquement du 12e Plan de la Malaisie (plutôt que d'un simple objectif gouvernemental général) — à vérifier par rapport au document officiel RMK-12 ; les chiffres de 75%/80% eux-mêmes sont confirmés par The Edge Malaysia."
 revisions:
   - revision: 0
     date: 2026-08-01

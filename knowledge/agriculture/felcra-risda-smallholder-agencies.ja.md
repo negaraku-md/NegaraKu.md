@@ -46,10 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "1997年の法人化法令の正式名称と番号：FELCRA の情報源では「Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997」という表記が見られ、本記事で用いた「Tanah Persekutuan」という形式とは異なる——公式の連邦法規（e-Federal Gazette / AGC）と照合して確認すること。"
-  - "GLCとしてのFELCRA Berhad（財務大臣法人が全株式を保有）の現行の政策監督体制と、その運営を監督する省庁との関係——最新の所管省庁を確認すること。"
-  - "2023年3月以降のFELDA、FELCRA、RISDAの統合・合併状況——全面的な合併のない政策議論のままであるかどうかを確認すること。"
 updated: 2026-08-01
 sources:
   - title: "会社概要 — FELCRA Berhad (Company Overview — FELCRA Berhad)"

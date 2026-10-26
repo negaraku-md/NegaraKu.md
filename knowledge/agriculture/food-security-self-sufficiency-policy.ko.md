@@ -41,8 +41,6 @@ reviewer: null
 reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
-verificationNeeded:
-  - "쌀 SSR 중간 목표 75%(2025년까지)가 (단순한 정부의 일반 목표가 아니라) 제12차 말레이시아 계획에서 구체적으로 비롯되는지 확인 — RMK-12 공식 문서와 대조하여 검토 필요; 75%/80% 수치 자체는 The Edge Malaysia가 확인함."
 revisions:
   - revision: 0
     date: 2026-08-01

@@ -46,10 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "1997년 법인화 법의 정식 명칭과 법 번호: FELCRA 자료는 여기서 사용한 '연방(Persekutuan)' 형태 대신 '국가토지통합재생청(대체 및 해산)법 1997' 변형을 표시함 — 공식 연방 법령(e-Federal Gazette / AGC)과 대조하여 확인할 것."
-  - "GLC(재무부법인이 전액 소유)로서 FELCRA Berhad의 현행 정책 감독 구조와 그 운영을 감독하는 부처 — 최신 감독 부처를 확인할 것."
-  - "2023년 3월 이후 FELDA, FELCRA, RISDA의 통합/합병 상태 — 완전한 합병 없이 여전히 정책 논의로 남아 있는지 확인할 것."
 updated: 2026-08-01
 sources:
   - title: "회사 개요 — FELCRA Berhad (Company Overview — FELCRA Berhad)"

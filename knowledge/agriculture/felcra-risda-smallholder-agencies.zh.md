@@ -46,10 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "1997 年公司化法令的完整官方名称与编号：FELCRA 来源显示的版本为「Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997」，与此处使用的「Tanah Persekutuan」形式不同——请对照官方联邦法规（e-Federal Gazette / AGC）核实。"
-  - "FELCRA Berhad作为官联公司（由Menteri Kewangan Diperbadankan全资持有）目前的政策监管架构，以及监管其运作的部门——须核实最新的主管部门。"
-  - "FELDA、FELCRA与RISDA于Mac 2023之后的整合/合并状态——核实是否仍停留在政策讨论阶段而未完成全面合并。"
 updated: 2026-08-01
 sources:
   - title: "公司概况 — FELCRA Berhad (Company Overview — FELCRA Berhad)"

@@ -47,8 +47,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "米のSSR中間目標75%（2025年まで）が、政府の一般的な目標にとどまらず、第12次マレーシア計画に特に由来するものであることの確認——RMK-12の公式文書と照合する必要がある。75%/80%という数字自体はThe Edge Malaysiaにより確認済み。"
 
 updated: 2026-08-01
 sources:

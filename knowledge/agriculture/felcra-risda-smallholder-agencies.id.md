@@ -46,10 +46,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-verificationNeeded:
-  - "Nama resmi lengkap dan nomor akta inkorporasi 1997: sumber FELCRA menampilkan varian 'Akta Lembaga Penyatuan dan Pemulihan Tanah Negara (Penggantian dan Pembubaran) 1997' dibanding bentuk 'Tanah Persekutuan' yang digunakan di sini — konfirmasikan terhadap statuta federal resmi (e-Federal Gazette / AGC)."
-  - "Struktur pengawasan kebijakan terkini FELCRA Berhad sebagai GLC (dimiliki penuh Menteri Keuangan Diperbadankan) dibanding kementerian yang mengawasi operasinya — konfirmasikan kementerian pengawas terkini."
-  - "Status penyatuan/penggabungan FELDA, FELCRA dan RISDA setelah Maret 2023 — konfirmasikan apakah masih tetap sebagai pembahasan kebijakan tanpa penggabungan penuh."
 updated: 2026-08-01
 sources:
   - title: "Company Overview — FELCRA Berhad"
