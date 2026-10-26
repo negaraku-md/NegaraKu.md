@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T10:21:53.467Z",
+  "updatedAt": "2026-10-26T10:36:14.500Z",
   "property": "sc-domain:negaraku.md",
   "byMonth": {
     "2026-09": {
@@ -8,147 +8,139 @@
       "byCategory": {
         "glossary": {
           "clicks": 26,
-          "impressions": 2583
+          "impressions": 2477
         },
         "company-secretary": {
           "clicks": 81,
-          "impressions": 3688
+          "impressions": 3561
         },
         "malaysia": {
-          "clicks": 33,
-          "impressions": 4425
+          "clicks": 38,
+          "impressions": 4243
         },
         "accounting": {
           "clicks": 23,
-          "impressions": 1043
+          "impressions": 1042
         },
-        "th": {
-          "clicks": 30,
-          "impressions": 144
+        "government": {
+          "clicks": 39,
+          "impressions": 5132
         },
         "taxation": {
-          "clicks": 113,
-          "impressions": 5518
+          "clicks": 115,
+          "impressions": 5286
         },
         "law": {
           "clicks": 69,
-          "impressions": 4311
+          "impressions": 4150
         },
         "public-safety": {
-          "clicks": 55,
-          "impressions": 2971
+          "clicks": 56,
+          "impressions": 2891
         },
         "arts-culture": {
-          "clicks": 39,
-          "impressions": 2405
-        },
-        "government": {
-          "clicks": 36,
-          "impressions": 5358
+          "clicks": 49,
+          "impressions": 2407
         },
         "sports": {
           "clicks": 14,
-          "impressions": 1166
+          "impressions": 1133
         },
         "business": {
-          "clicks": 93,
-          "impressions": 7901
+          "clicks": 95,
+          "impressions": 7654
         },
         "transport": {
           "clicks": 20,
-          "impressions": 1554
+          "impressions": 1499
         },
         "settling-in": {
-          "clicks": 42,
-          "impressions": 2645
+          "clicks": 46,
+          "impressions": 2573
         },
         "audit": {
           "clicks": 5,
-          "impressions": 601
+          "impressions": 587
         },
         "employment": {
-          "clicks": 26,
-          "impressions": 1379
+          "clicks": 27,
+          "impressions": 1332
         },
         "agriculture": {
           "clicks": 13,
-          "impressions": 2501
+          "impressions": 2500
         },
         "technology": {
           "clicks": 9,
-          "impressions": 696
+          "impressions": 682
         },
         "healthcare": {
-          "clicks": 26,
-          "impressions": 1553
+          "clicks": 29,
+          "impressions": 1479
         },
         "money-daily-life": {
-          "clicks": 23,
-          "impressions": 1489
+          "clicks": 24,
+          "impressions": 1425
         },
         "cost-of-living": {
           "clicks": 8,
-          "impressions": 682
+          "impressions": 665
         },
         "education": {
           "clicks": 22,
-          "impressions": 1528
+          "impressions": 1467
         },
         "food-lifestyle": {
           "clicks": 11,
-          "impressions": 938
+          "impressions": 897
         },
         "energy": {
           "clicks": 8,
-          "impressions": 1869
+          "impressions": 1753
         },
         "industries": {
           "clicks": 7,
-          "impressions": 467
+          "impressions": 442
         },
         "property": {
-          "clicks": 9,
-          "impressions": 1096
+          "clicks": 10,
+          "impressions": 1046
         },
         "states": {
-          "clicks": 21,
-          "impressions": 3509
+          "clicks": 22,
+          "impressions": 3403
         },
         "economy": {
           "clicks": 6,
-          "impressions": 833
+          "impressions": 807
         },
         "international": {
           "clicks": 3,
-          "impressions": 673
+          "impressions": 638
         },
         "environment": {
           "clicks": 10,
-          "impressions": 716
+          "impressions": 681
         },
         "companies": {
-          "clicks": 14,
-          "impressions": 1409
+          "clicks": 15,
+          "impressions": 1389
         },
         "donate": {
           "clicks": 1,
-          "impressions": 16
+          "impressions": 12
         },
         "finance": {
-          "clicks": 4,
-          "impressions": 680
+          "clicks": 5,
+          "impressions": 661
         },
         "tourism": {
           "clicks": 5,
-          "impressions": 639
-        },
-        "vi": {
-          "clicks": 6,
-          "impressions": 38
+          "impressions": 598
         },
         "doing-business": {
           "clicks": 0,
-          "impressions": 14
+          "impressions": 13
         },
         "articles": {
           "clicks": 0,
@@ -160,7 +152,7 @@
         },
         "start": {
           "clicks": 0,
-          "impressions": 10
+          "impressions": 8
         },
         "cookies": {
           "clicks": 0,
@@ -172,7 +164,7 @@
         },
         "graph": {
           "clicks": 0,
-          "impressions": 7
+          "impressions": 2
         },
         "privacy": {
           "clicks": 0,
@@ -180,15 +172,15 @@
         },
         "explore": {
           "clicks": 0,
-          "impressions": 4
+          "impressions": 2
         },
         "about": {
           "clicks": 0,
-          "impressions": 12
+          "impressions": 11
         },
         "contribute": {
           "clicks": 0,
-          "impressions": 6
+          "impressions": 5
         },
         "terms": {
           "clicks": 0,
@@ -237,178 +229,174 @@
           "impressions": 11442
         },
         "ms": {
-          "clicks": 232,
-          "impressions": 17659
+          "clicks": 196,
+          "impressions": 16961
         },
         "en": {
           "clicks": 406,
-          "impressions": 39485
+          "impressions": 37662
+        },
+        "th": {
+          "clicks": 30,
+          "impressions": 144
         },
         "ta": {
           "clicks": 9,
-          "impressions": 996
+          "impressions": 917
         },
         "ko": {
           "clicks": 12,
-          "impressions": 89
+          "impressions": 42
         },
         "ja": {
           "clicks": 6,
-          "impressions": 200
+          "impressions": 141
+        },
+        "vi": {
+          "clicks": 6,
+          "impressions": 38
         }
       }
     },
     "2026-10": {
-      "clicks": 1829,
-      "impressions": 170524,
+      "clicks": 2897,
+      "impressions": 269582,
       "byCategory": {
         "sports": {
-          "clicks": 40,
-          "impressions": 2583
-        },
-        "public-safety": {
-          "clicks": 64,
-          "impressions": 607
-        },
-        "taxation": {
-          "clicks": 135,
-          "impressions": 1193
-        },
-        "company-secretary": {
-          "clicks": 91,
-          "impressions": 808
-        },
-        "settling-in": {
-          "clicks": 90,
-          "impressions": 1077
-        },
-        "th": {
-          "clicks": 168,
-          "impressions": 1294
-        },
-        "employment": {
-          "clicks": 83,
-          "impressions": 563
-        },
-        "arts-culture": {
-          "clicks": 93,
-          "impressions": 1291
-        },
-        "business": {
-          "clicks": 151,
-          "impressions": 1119
-        },
-        "government": {
-          "clicks": 91,
-          "impressions": 1244
-        },
-        "transport": {
-          "clicks": 42,
-          "impressions": 294
-        },
-        "industries": {
-          "clicks": 16,
-          "impressions": 51
-        },
-        "law": {
-          "clicks": 119,
-          "impressions": 783
+          "clicks": 56,
+          "impressions": 3085
         },
         "environment": {
-          "clicks": 36,
-          "impressions": 1556
+          "clicks": 78,
+          "impressions": 2567
         },
-        "malaysia": {
-          "clicks": 87,
-          "impressions": 1519
-        },
-        "audit": {
-          "clicks": 22,
-          "impressions": 145
-        },
-        "cost-of-living": {
-          "clicks": 16,
-          "impressions": 235
-        },
-        "vi": {
+        "public-safety": {
           "clicks": 125,
-          "impressions": 570
+          "impressions": 1443
         },
-        "accounting": {
-          "clicks": 22,
-          "impressions": 91
+        "taxation": {
+          "clicks": 240,
+          "impressions": 2062
         },
-        "states": {
-          "clicks": 27,
-          "impressions": 427
+        "company-secretary": {
+          "clicks": 140,
+          "impressions": 1373
         },
-        "money-daily-life": {
-          "clicks": 27,
-          "impressions": 270
+        "business": {
+          "clicks": 295,
+          "impressions": 2135
         },
-        "healthcare": {
-          "clicks": 47,
-          "impressions": 291
-        },
-        "property": {
-          "clicks": 23,
-          "impressions": 139
+        "settling-in": {
+          "clicks": 201,
+          "impressions": 2005
         },
         "energy": {
-          "clicks": 21,
-          "impressions": 99
+          "clicks": 43,
+          "impressions": 172
         },
-        "agriculture": {
-          "clicks": 14,
-          "impressions": 87
+        "employment": {
+          "clicks": 128,
+          "impressions": 822
         },
-        "economy": {
-          "clicks": 12,
-          "impressions": 135
+        "arts-culture": {
+          "clicks": 204,
+          "impressions": 2345
         },
-        "education": {
-          "clicks": 25,
-          "impressions": 614
+        "government": {
+          "clicks": 168,
+          "impressions": 2148
         },
-        "glossary": {
-          "clicks": 28,
-          "impressions": 262
+        "audit": {
+          "clicks": 43,
+          "impressions": 439
         },
-        "international": {
-          "clicks": 16,
-          "impressions": 177
+        "law": {
+          "clicks": 200,
+          "impressions": 1401
         },
-        "technology": {
-          "clicks": 17,
-          "impressions": 74
+        "industries": {
+          "clicks": 29,
+          "impressions": 200
+        },
+        "malaysia": {
+          "clicks": 194,
+          "impressions": 2960
+        },
+        "transport": {
+          "clicks": 66,
+          "impressions": 478
+        },
+        "cost-of-living": {
+          "clicks": 24,
+          "impressions": 278
+        },
+        "healthcare": {
+          "clicks": 100,
+          "impressions": 520
+        },
+        "accounting": {
+          "clicks": 44,
+          "impressions": 192
+        },
+        "states": {
+          "clicks": 48,
+          "impressions": 587
+        },
+        "money-daily-life": {
+          "clicks": 49,
+          "impressions": 563
+        },
+        "property": {
+          "clicks": 39,
+          "impressions": 222
         },
         "finance": {
-          "clicks": 15,
-          "impressions": 161
+          "clicks": 34,
+          "impressions": 217
         },
-        "tourism": {
-          "clicks": 12,
-          "impressions": 42
+        "glossary": {
+          "clicks": 55,
+          "impressions": 499
         },
-        "food-lifestyle": {
-          "clicks": 14,
-          "impressions": 123
+        "agriculture": {
+          "clicks": 45,
+          "impressions": 242
         },
         "companies": {
-          "clicks": 14,
-          "impressions": 161
+          "clicks": 39,
+          "impressions": 297
         },
-        "id": {
-          "clicks": 26,
-          "impressions": 271
+        "food-lifestyle": {
+          "clicks": 29,
+          "impressions": 273
+        },
+        "international": {
+          "clicks": 37,
+          "impressions": 262
+        },
+        "economy": {
+          "clicks": 34,
+          "impressions": 204
+        },
+        "tourism": {
+          "clicks": 24,
+          "impressions": 112
+        },
+        "education": {
+          "clicks": 56,
+          "impressions": 1039
+        },
+        "technology": {
+          "clicks": 32,
+          "impressions": 115
         },
         "doing-business": {
           "clicks": 1,
           "impressions": 2
         },
-        "ar": {
-          "clicks": 3,
-          "impressions": 7
+        "donate": {
+          "clicks": 2,
+          "impressions": 2
         },
         "about": {
           "clicks": 1,
@@ -421,627 +409,959 @@
       },
       "byLang": {
         "ms": {
-          "clicks": 786,
-          "impressions": 10398
-        },
-        "zh": {
-          "clicks": 245,
-          "impressions": 1737
+          "clicks": 737,
+          "impressions": 11531
         },
         "en": {
-          "clicks": 596,
-          "impressions": 7670
+          "clicks": 960,
+          "impressions": 12738
+        },
+        "zh": {
+          "clicks": 365,
+          "impressions": 3009
+        },
+        "es": {
+          "clicks": 12,
+          "impressions": 26
+        },
+        "th": {
+          "clicks": 236,
+          "impressions": 1541
         },
         "ko": {
-          "clicks": 103,
-          "impressions": 375
+          "clicks": 161,
+          "impressions": 672
         },
         "ja": {
-          "clicks": 84,
-          "impressions": 219
+          "clicks": 148,
+          "impressions": 506
+        },
+        "vi": {
+          "clicks": 170,
+          "impressions": 695
+        },
+        "id": {
+          "clicks": 60,
+          "impressions": 501
+        },
+        "fr": {
+          "clicks": 7,
+          "impressions": 19
         },
         "ta": {
-          "clicks": 21,
-          "impressions": 32
+          "clicks": 28,
+          "impressions": 43
+        },
+        "ar": {
+          "clicks": 19,
+          "impressions": 45
+        },
+        "hi": {
+          "clicks": 1,
+          "impressions": 1
         }
       }
     }
   },
   "latest": {
     "window": {
-      "start": "2026-07-21",
-      "end": "2026-10-16"
+      "start": "2026-07-28",
+      "end": "2026-10-23"
     },
     "totals": {
-      "clicks": 2740,
-      "impressions": 257097,
+      "clicks": 3808,
+      "impressions": 356155,
       "ctr": 1.1,
-      "position": 9.3
+      "position": 9.2
     },
     "byCategory": {
       "sports": {
-        "clicks": 44,
-        "impressions": 4040
+        "clicks": 51,
+        "impressions": 5362
       },
       "company-secretary": {
-        "clicks": 162,
-        "impressions": 7268
+        "clicks": 206,
+        "impressions": 10552
       },
       "law": {
-        "clicks": 162,
-        "impressions": 6527
+        "clicks": 219,
+        "impressions": 8381
       },
       "public-safety": {
-        "clicks": 108,
-        "impressions": 5447
-      },
-      "arts-culture": {
-        "clicks": 118,
-        "impressions": 7667
+        "clicks": 156,
+        "impressions": 7794
       },
       "business": {
-        "clicks": 220,
-        "impressions": 10431
-      },
-      "government": {
-        "clicks": 108,
-        "impressions": 11595
-      },
-      "settling-in": {
-        "clicks": 105,
-        "impressions": 5921
-      },
-      "taxation": {
-        "clicks": 200,
-        "impressions": 8560
-      },
-      "malaysia": {
-        "clicks": 81,
-        "impressions": 13683
-      },
-      "accounting": {
-        "clicks": 43,
-        "impressions": 1262
-      },
-      "glossary": {
-        "clicks": 48,
-        "impressions": 6908
-      },
-      "employment": {
-        "clicks": 100,
-        "impressions": 3766
-      },
-      "property": {
-        "clicks": 19,
-        "impressions": 692
-      },
-      "agriculture": {
-        "clicks": 24,
-        "impressions": 1958
-      },
-      "th": {
-        "clicks": 99,
-        "impressions": 3549
-      },
-      "vi": {
-        "clicks": 55,
-        "impressions": 1472
-      },
-      "companies": {
-        "clicks": 24,
-        "impressions": 3446
+        "clicks": 326,
+        "impressions": 15445
       },
       "environment": {
-        "clicks": 42,
-        "impressions": 3490
+        "clicks": 66,
+        "impressions": 4385
       },
-      "food-lifestyle": {
-        "clicks": 21,
-        "impressions": 1204
+      "government": {
+        "clicks": 134,
+        "impressions": 13816
       },
-      "cost-of-living": {
-        "clicks": 18,
-        "impressions": 1598
+      "arts-culture": {
+        "clicks": 200,
+        "impressions": 13244
       },
       "audit": {
-        "clicks": 23,
-        "impressions": 1398
+        "clicks": 43,
+        "impressions": 2116
       },
-      "healthcare": {
-        "clicks": 64,
-        "impressions": 2621
+      "settling-in": {
+        "clicks": 190,
+        "impressions": 8903
       },
-      "money-daily-life": {
-        "clicks": 35,
-        "impressions": 2229
+      "malaysia": {
+        "clicks": 144,
+        "impressions": 12339
+      },
+      "glossary": {
+        "clicks": 45,
+        "impressions": 2494
+      },
+      "accounting": {
+        "clicks": 60,
+        "impressions": 2105
+      },
+      "taxation": {
+        "clicks": 261,
+        "impressions": 10287
+      },
+      "property": {
+        "clicks": 22,
+        "impressions": 484
+      },
+      "agriculture": {
+        "clicks": 43,
+        "impressions": 2574
+      },
+      "employment": {
+        "clicks": 130,
+        "impressions": 5898
+      },
+      "food-lifestyle": {
+        "clicks": 25,
+        "impressions": 1499
       },
       "states": {
-        "clicks": 35,
-        "impressions": 3856
-      },
-      "transport": {
-        "clicks": 50,
-        "impressions": 2468
+        "clicks": 44,
+        "impressions": 6033
       },
       "energy": {
-        "clicks": 25,
-        "impressions": 1575
+        "clicks": 36,
+        "impressions": 1800
       },
-      "technology": {
-        "clicks": 12,
-        "impressions": 697
+      "healthcare": {
+        "clicks": 95,
+        "impressions": 3269
+      },
+      "transport": {
+        "clicks": 66,
+        "impressions": 4058
+      },
+      "money-daily-life": {
+        "clicks": 51,
+        "impressions": 4208
+      },
+      "companies": {
+        "clicks": 36,
+        "impressions": 4654
       },
       "education": {
-        "clicks": 43,
-        "impressions": 3579
+        "clicks": 70,
+        "impressions": 6424
       },
-      "finance": {
-        "clicks": 16,
-        "impressions": 1146
+      "cost-of-living": {
+        "clicks": 21,
+        "impressions": 2100
       },
-      "international": {
-        "clicks": 15,
-        "impressions": 1345
-      },
-      "id": {
-        "clicks": 26,
-        "impressions": 962
-      },
-      "ar": {
-        "clicks": 3,
-        "impressions": 8
-      },
-      "economy": {
-        "clicks": 14,
-        "impressions": 766
+      "technology": {
+        "clicks": 21,
+        "impressions": 693
       },
       "industries": {
-        "clicks": 22,
-        "impressions": 560
+        "clicks": 26,
+        "impressions": 843
+      },
+      "international": {
+        "clicks": 20,
+        "impressions": 1587
       },
       "tourism": {
-        "clicks": 10,
-        "impressions": 442
+        "clicks": 14,
+        "impressions": 539
+      },
+      "economy": {
+        "clicks": 25,
+        "impressions": 1056
+      },
+      "finance": {
+        "clicks": 24,
+        "impressions": 1250
       },
       "donate": {
-        "clicks": 1,
-        "impressions": 7
+        "clicks": 2,
+        "impressions": 41
       }
     },
     "byLang": {
       "ms": {
         "byCategory": {
           "sports": {
-            "clicks": 34,
-            "impressions": 3219
+            "clicks": 36,
+            "impressions": 3521
           },
           "glossary": {
-            "clicks": 26,
-            "impressions": 1682
-          },
-          "arts-culture": {
-            "clicks": 48,
-            "impressions": 3230
-          },
-          "law": {
-            "clicks": 47,
-            "impressions": 1950
+            "clicks": 25,
+            "impressions": 1817
           },
           "settling-in": {
-            "clicks": 30,
-            "impressions": 1903
+            "clicks": 45,
+            "impressions": 2878
+          },
+          "law": {
+            "clicks": 74,
+            "impressions": 3591
           },
           "taxation": {
-            "clicks": 66,
-            "impressions": 2689
+            "clicks": 93,
+            "impressions": 4280
+          },
+          "arts-culture": {
+            "clicks": 85,
+            "impressions": 4966
           },
           "agriculture": {
-            "clicks": 16,
-            "impressions": 522
-          },
-          "malaysia": {
-            "clicks": 24,
-            "impressions": 1902
-          },
-          "th": {
-            "clicks": 99,
-            "impressions": 3549
-          },
-          "vi": {
-            "clicks": 55,
-            "impressions": 1472
-          },
-          "cost-of-living": {
-            "clicks": 7,
-            "impressions": 976
-          },
-          "money-daily-life": {
-            "clicks": 7,
-            "impressions": 301
-          },
-          "public-safety": {
-            "clicks": 15,
-            "impressions": 1170
-          },
-          "business": {
-            "clicks": 59,
-            "impressions": 3149
-          },
-          "employment": {
-            "clicks": 46,
-            "impressions": 1663
-          },
-          "environment": {
-            "clicks": 14,
-            "impressions": 1967
+            "clicks": 21,
+            "impressions": 728
           },
           "food-lifestyle": {
-            "clicks": 8,
-            "impressions": 353
+            "clicks": 11,
+            "impressions": 502
           },
-          "company-secretary": {
-            "clicks": 25,
-            "impressions": 1000
+          "malaysia": {
+            "clicks": 41,
+            "impressions": 4806
           },
-          "education": {
-            "clicks": 22,
-            "impressions": 2005
+          "public-safety": {
+            "clicks": 21,
+            "impressions": 1975
           },
-          "government": {
-            "clicks": 29,
-            "impressions": 2337
+          "business": {
+            "clicks": 97,
+            "impressions": 5456
           },
-          "healthcare": {
-            "clicks": 10,
-            "impressions": 316
-          },
-          "id": {
-            "clicks": 26,
-            "impressions": 962
+          "employment": {
+            "clicks": 60,
+            "impressions": 2702
           },
           "states": {
-            "clicks": 10,
-            "impressions": 1329
+            "clicks": 16,
+            "impressions": 3787
+          },
+          "cost-of-living": {
+            "clicks": 8,
+            "impressions": 1153
+          },
+          "government": {
+            "clicks": 25,
+            "impressions": 2361
+          },
+          "money-daily-life": {
+            "clicks": 13,
+            "impressions": 1257
           },
           "transport": {
-            "clicks": 3,
-            "impressions": 438
+            "clicks": 7,
+            "impressions": 1163
           },
-          "ar": {
+          "education": {
+            "clicks": 35,
+            "impressions": 3576
+          },
+          "environment": {
+            "clicks": 10,
+            "impressions": 1898
+          },
+          "healthcare": {
+            "clicks": 8,
+            "impressions": 248
+          },
+          "companies": {
+            "clicks": 8,
+            "impressions": 2351
+          },
+          "company-secretary": {
+            "clicks": 30,
+            "impressions": 1858
+          },
+          "international": {
             "clicks": 3,
-            "impressions": 8
+            "impressions": 69
+          },
+          "accounting": {
+            "clicks": 8,
+            "impressions": 339
+          },
+          "audit": {
+            "clicks": 7,
+            "impressions": 249
+          },
+          "energy": {
+            "clicks": 2,
+            "impressions": 130
           },
           "industries": {
             "clicks": 4,
-            "impressions": 62
+            "impressions": 75
           },
           "technology": {
             "clicks": 2,
-            "impressions": 89
+            "impressions": 130
           },
           "tourism": {
             "clicks": 2,
-            "impressions": 114
-          },
-          "accounting": {
-            "clicks": 2,
-            "impressions": 68
-          },
-          "audit": {
-            "clicks": 4,
-            "impressions": 100
-          },
-          "companies": {
-            "clicks": 6,
-            "impressions": 1933
+            "impressions": 155
           },
           "economy": {
             "clicks": 1,
-            "impressions": 52
-          },
-          "energy": {
-            "clicks": 4,
-            "impressions": 222
-          },
-          "finance": {
-            "clicks": 3,
-            "impressions": 274
-          },
-          "international": {
-            "clicks": 4,
-            "impressions": 141
+            "impressions": 68
           }
         }
       },
       "en": {
         "byCategory": {
           "company-secretary": {
-            "clicks": 132,
-            "impressions": 6235
-          },
-          "arts-culture": {
-            "clicks": 53,
-            "impressions": 3647
-          },
-          "business": {
-            "clicks": 129,
-            "impressions": 6973
-          },
-          "government": {
-            "clicks": 50,
-            "impressions": 5183
+            "clicks": 167,
+            "impressions": 8599
           },
           "public-safety": {
-            "clicks": 32,
-            "impressions": 2285
+            "clicks": 45,
+            "impressions": 2856
           },
-          "settling-in": {
-            "clicks": 51,
-            "impressions": 3199
+          "business": {
+            "clicks": 168,
+            "impressions": 9278
           },
-          "taxation": {
-            "clicks": 112,
-            "impressions": 5624
+          "environment": {
+            "clicks": 36,
+            "impressions": 2005
           },
-          "accounting": {
-            "clicks": 35,
-            "impressions": 1144
+          "government": {
+            "clicks": 54,
+            "impressions": 5399
           },
-          "employment": {
-            "clicks": 50,
-            "impressions": 2056
-          },
-          "malaysia": {
-            "clicks": 33,
-            "impressions": 10797
-          },
-          "law": {
-            "clicks": 70,
-            "impressions": 3881
+          "arts-culture": {
+            "clicks": 65,
+            "impressions": 5701
           },
           "audit": {
-            "clicks": 17,
-            "impressions": 1286
+            "clicks": 34,
+            "impressions": 1847
           },
-          "healthcare": {
-            "clicks": 29,
-            "impressions": 1808
+          "settling-in": {
+            "clicks": 62,
+            "impressions": 3829
           },
-          "money-daily-life": {
-            "clicks": 20,
-            "impressions": 1659
+          "accounting": {
+            "clicks": 45,
+            "impressions": 1615
+          },
+          "taxation": {
+            "clicks": 124,
+            "impressions": 5355
+          },
+          "law": {
+            "clicks": 82,
+            "impressions": 3680
+          },
+          "employment": {
+            "clicks": 56,
+            "impressions": 2946
+          },
+          "malaysia": {
+            "clicks": 38,
+            "impressions": 2856
           },
           "states": {
             "clicks": 23,
-            "impressions": 2252
+            "impressions": 1878
           },
-          "transport": {
-            "clicks": 19,
-            "impressions": 1126
+          "agriculture": {
+            "clicks": 18,
+            "impressions": 1798
           },
-          "environment": {
-            "clicks": 14,
-            "impressions": 1208
+          "money-daily-life": {
+            "clicks": 18,
+            "impressions": 1588
+          },
+          "healthcare": {
+            "clicks": 32,
+            "impressions": 1957
           },
           "technology": {
             "clicks": 10,
-            "impressions": 608
+            "impressions": 429
+          },
+          "transport": {
+            "clicks": 19,
+            "impressions": 1416
           },
           "companies": {
-            "clicks": 9,
-            "impressions": 936
-          },
-          "finance": {
-            "clicks": 11,
-            "impressions": 865
-          },
-          "food-lifestyle": {
-            "clicks": 7,
-            "impressions": 738
-          },
-          "glossary": {
             "clicks": 13,
-            "impressions": 4890
+            "impressions": 1341
+          },
+          "education": {
+            "clicks": 25,
+            "impressions": 2665
+          },
+          "industries": {
+            "clicks": 6,
+            "impressions": 302
           },
           "international": {
-            "clicks": 11,
-            "impressions": 1204
+            "clicks": 15,
+            "impressions": 1508
           },
-          "agriculture": {
+          "economy": {
+            "clicks": 16,
+            "impressions": 673
+          },
+          "energy": {
+            "clicks": 15,
+            "impressions": 1514
+          },
+          "finance": {
+            "clicks": 9,
+            "impressions": 931
+          },
+          "food-lifestyle": {
             "clicks": 6,
-            "impressions": 1428
+            "impressions": 768
+          },
+          "glossary": {
+            "clicks": 5,
+            "impressions": 253
           },
           "cost-of-living": {
             "clicks": 9,
-            "impressions": 617
-          },
-          "economy": {
-            "clicks": 10,
-            "impressions": 513
-          },
-          "education": {
-            "clicks": 15,
-            "impressions": 1486
-          },
-          "energy": {
-            "clicks": 12,
-            "impressions": 1276
+            "impressions": 750
           },
           "sports": {
-            "clicks": 6,
-            "impressions": 367
+            "clicks": 2,
+            "impressions": 27
           },
           "donate": {
-            "clicks": 1,
-            "impressions": 7
-          },
-          "industries": {
-            "clicks": 7,
-            "impressions": 361
-          },
-          "property": {
-            "clicks": 4,
-            "impressions": 377
-          },
-          "tourism": {
             "clicks": 2,
-            "impressions": 134
+            "impressions": 41
           }
         }
       },
       "zh": {
         "byCategory": {
           "law": {
-            "clicks": 42,
-            "impressions": 686
+            "clicks": 57,
+            "impressions": 1092
           },
           "public-safety": {
-            "clicks": 56,
-            "impressions": 1962
-          },
-          "settling-in": {
-            "clicks": 24,
-            "impressions": 819
+            "clicks": 73,
+            "impressions": 2717
           },
           "malaysia": {
-            "clicks": 12,
-            "impressions": 757
+            "clicks": 23,
+            "impressions": 1767
+          },
+          "settling-in": {
+            "clicks": 30,
+            "impressions": 1078
           },
           "property": {
-            "clicks": 13,
-            "impressions": 292
+            "clicks": 15,
+            "impressions": 418
+          },
+          "government": {
+            "clicks": 26,
+            "impressions": 5301
+          },
+          "environment": {
+            "clicks": 7,
+            "impressions": 230
+          },
+          "transport": {
+            "clicks": 32,
+            "impressions": 1401
           },
           "companies": {
             "clicks": 8,
-            "impressions": 560
+            "impressions": 605
           },
-          "environment": {
+          "education": {
             "clicks": 6,
-            "impressions": 181
+            "impressions": 128
           },
           "food-lifestyle": {
             "clicks": 6,
-            "impressions": 113
+            "impressions": 189
           },
-          "government": {
-            "clicks": 21,
-            "impressions": 4004
+          "healthcare": {
+            "clicks": 29,
+            "impressions": 780
           },
           "taxation": {
-            "clicks": 18,
-            "impressions": 219
+            "clicks": 22,
+            "impressions": 466
           },
           "glossary": {
             "clicks": 9,
-            "impressions": 336
-          },
-          "healthcare": {
-            "clicks": 18,
-            "impressions": 453
-          },
-          "transport": {
-            "clicks": 24,
-            "impressions": 878
+            "impressions": 357
           },
           "business": {
-            "clicks": 24,
-            "impressions": 255
+            "clicks": 35,
+            "impressions": 472
           },
-          "education": {
-            "clicks": 4,
-            "impressions": 78
+          "tourism": {
+            "clicks": 6,
+            "impressions": 195
           },
           "accounting": {
-            "clicks": 3,
-            "impressions": 36
+            "clicks": 5,
+            "impressions": 144
           },
           "arts-culture": {
-            "clicks": 8,
-            "impressions": 619
+            "clicks": 11,
+            "impressions": 685
+          },
+          "employment": {
+            "clicks": 5,
+            "impressions": 98
+          },
+          "energy": {
+            "clicks": 5,
+            "impressions": 57
           },
           "company-secretary": {
-            "clicks": 4,
-            "impressions": 32
+            "clicks": 6,
+            "impressions": 91
           },
           "cost-of-living": {
             "clicks": 2,
-            "impressions": 5
+            "impressions": 6
           },
           "economy": {
             "clicks": 2,
-            "impressions": 193
+            "impressions": 209
           },
-          "employment": {
+          "finance": {
             "clicks": 2,
-            "impressions": 8
-          },
-          "energy": {
-            "clicks": 2,
-            "impressions": 31
+            "impressions": 164
           },
           "industries": {
             "clicks": 2,
-            "impressions": 33
+            "impressions": 40
           },
           "money-daily-life": {
-            "clicks": 6,
-            "impressions": 208
+            "clicks": 8,
+            "impressions": 536
           },
           "sports": {
-            "clicks": 4,
-            "impressions": 454
+            "clicks": 6,
+            "impressions": 577
           },
           "states": {
             "clicks": 2,
-            "impressions": 275
+            "impressions": 309
           },
-          "tourism": {
+          "technology": {
             "clicks": 2,
-            "impressions": 77
+            "impressions": 46
+          }
+        }
+      },
+      "th": {
+        "byCategory": {
+          "settling-in": {
+            "clicks": 33,
+            "impressions": 797
+          },
+          "healthcare": {
+            "clicks": 21,
+            "impressions": 244
+          },
+          "business": {
+            "clicks": 16,
+            "impressions": 204
+          },
+          "government": {
+            "clicks": 14,
+            "impressions": 263
+          },
+          "arts-culture": {
+            "clicks": 18,
+            "impressions": 1433
+          },
+          "glossary": {
+            "clicks": 6,
+            "impressions": 67
+          },
+          "malaysia": {
+            "clicks": 6,
+            "impressions": 170
+          },
+          "companies": {
+            "clicks": 3,
+            "impressions": 91
+          },
+          "economy": {
+            "clicks": 3,
+            "impressions": 76
+          },
+          "employment": {
+            "clicks": 5,
+            "impressions": 82
+          },
+          "energy": {
+            "clicks": 3,
+            "impressions": 19
+          },
+          "sports": {
+            "clicks": 7,
+            "impressions": 1237
+          },
+          "agriculture": {
+            "clicks": 2,
+            "impressions": 37
+          },
+          "industries": {
+            "clicks": 2,
+            "impressions": 272
+          },
+          "property": {
+            "clicks": 2,
+            "impressions": 25
+          },
+          "public-safety": {
+            "clicks": 2,
+            "impressions": 91
+          },
+          "taxation": {
+            "clicks": 6,
+            "impressions": 61
+          }
+        }
+      },
+      "vi": {
+        "byCategory": {
+          "settling-in": {
+            "clicks": 13,
+            "impressions": 229
+          },
+          "malaysia": {
+            "clicks": 10,
+            "impressions": 1103
+          },
+          "arts-culture": {
+            "clicks": 5,
+            "impressions": 210
+          },
+          "finance": {
+            "clicks": 3,
+            "impressions": 54
+          },
+          "public-safety": {
+            "clicks": 7,
+            "impressions": 90
+          },
+          "agriculture": {
+            "clicks": 2,
+            "impressions": 11
+          },
+          "companies": {
+            "clicks": 2,
+            "impressions": 99
+          },
+          "economy": {
+            "clicks": 2,
+            "impressions": 23
+          },
+          "education": {
+            "clicks": 2,
+            "impressions": 45
+          },
+          "employment": {
+            "clicks": 4,
+            "impressions": 70
+          },
+          "government": {
+            "clicks": 4,
+            "impressions": 386
+          },
+          "healthcare": {
+            "clicks": 2,
+            "impressions": 33
+          },
+          "industries": {
+            "clicks": 2,
+            "impressions": 3
+          },
+          "international": {
+            "clicks": 2,
+            "impressions": 10
+          },
+          "money-daily-life": {
+            "clicks": 4,
+            "impressions": 71
+          },
+          "property": {
+            "clicks": 2,
+            "impressions": 9
+          },
+          "taxation": {
+            "clicks": 4,
+            "impressions": 20
+          },
+          "technology": {
+            "clicks": 2,
+            "impressions": 34
+          },
+          "transport": {
+            "clicks": 2,
+            "impressions": 17
           }
         }
       },
       "ko": {
         "byCategory": {
           "energy": {
-            "clicks": 5,
-            "impressions": 30
-          },
-          "malaysia": {
-            "clicks": 6,
-            "impressions": 94
+            "clicks": 7,
+            "impressions": 54
           },
           "arts-culture": {
-            "clicks": 3,
-            "impressions": 92
+            "clicks": 6,
+            "impressions": 141
           },
-          "public-safety": {
-            "clicks": 3,
-            "impressions": 24
+          "malaysia": {
+            "clicks": 12,
+            "impressions": 1182
           },
           "environment": {
+            "clicks": 8,
+            "impressions": 226
+          },
+          "technology": {
             "clicks": 4,
-            "impressions": 104
+            "impressions": 53
+          },
+          "finance": {
+            "clicks": 3,
+            "impressions": 9
           },
           "healthcare": {
+            "clicks": 3,
+            "impressions": 7
+          },
+          "property": {
+            "clicks": 3,
+            "impressions": 32
+          },
+          "public-safety": {
+            "clicks": 5,
+            "impressions": 48
+          },
+          "food-lifestyle": {
             "clicks": 2,
-            "impressions": 6
+            "impressions": 40
+          },
+          "government": {
+            "clicks": 4,
+            "impressions": 56
           },
           "industries": {
             "clicks": 6,
-            "impressions": 79
+            "impressions": 123
           },
-          "property": {
+          "taxation": {
+            "clicks": 6,
+            "impressions": 56
+          },
+          "transport": {
+            "clicks": 6,
+            "impressions": 61
+          }
+        }
+      },
+      "ja": {
+        "byCategory": {
+          "arts-culture": {
+            "clicks": 9,
+            "impressions": 106
+          },
+          "malaysia": {
+            "clicks": 9,
+            "impressions": 394
+          },
+          "settling-in": {
+            "clicks": 3,
+            "impressions": 74
+          },
+          "accounting": {
             "clicks": 2,
-            "impressions": 23
+            "impressions": 7
+          },
+          "audit": {
+            "clicks": 2,
+            "impressions": 20
+          },
+          "business": {
+            "clicks": 4,
+            "impressions": 13
+          },
+          "education": {
+            "clicks": 2,
+            "impressions": 10
+          },
+          "energy": {
+            "clicks": 4,
+            "impressions": 26
+          },
+          "environment": {
+            "clicks": 4,
+            "impressions": 20
+          },
+          "finance": {
+            "clicks": 2,
+            "impressions": 7
+          },
+          "government": {
+            "clicks": 2,
+            "impressions": 17
+          },
+          "industries": {
+            "clicks": 2,
+            "impressions": 21
+          },
+          "law": {
+            "clicks": 2,
+            "impressions": 4
+          },
+          "money-daily-life": {
+            "clicks": 2,
+            "impressions": 65
+          },
+          "public-safety": {
+            "clicks": 2,
+            "impressions": 6
           },
           "taxation": {
             "clicks": 4,
-            "impressions": 28
+            "impressions": 47
           },
-          "transport": {
+          "tourism": {
             "clicks": 4,
+            "impressions": 131
+          }
+        }
+      },
+      "es": {
+        "byCategory": {
+          "business": {
+            "clicks": 4,
+            "impressions": 14
+          },
+          "company-secretary": {
+            "clicks": 3,
+            "impressions": 4
+          },
+          "finance": {
+            "clicks": 2,
+            "impressions": 4
+          }
+        }
+      },
+      "ar": {
+        "byCategory": {
+          "settling-in": {
+            "clicks": 4,
+            "impressions": 18
+          },
+          "arts-culture": {
+            "clicks": 1,
+            "impressions": 2
+          },
+          "business": {
+            "clicks": 2,
+            "impressions": 8
+          },
+          "economy": {
+            "clicks": 1,
+            "impressions": 7
+          },
+          "environment": {
+            "clicks": 1,
+            "impressions": 6
+          },
+          "government": {
+            "clicks": 2,
+            "impressions": 17
+          },
+          "law": {
+            "clicks": 2,
+            "impressions": 5
+          },
+          "malaysia": {
+            "clicks": 3,
+            "impressions": 40
+          },
+          "public-safety": {
+            "clicks": 1,
+            "impressions": 11
+          },
+          "states": {
+            "clicks": 1,
             "impressions": 26
+          },
+          "technology": {
+            "clicks": 1,
+            "impressions": 1
+          }
+        }
+      },
+      "id": {
+        "byCategory": {
+          "finance": {
+            "clicks": 3,
+            "impressions": 81
+          },
+          "money-daily-life": {
+            "clicks": 6,
+            "impressions": 691
+          },
+          "companies": {
+            "clicks": 2,
+            "impressions": 167
+          },
+          "cost-of-living": {
+            "clicks": 2,
+            "impressions": 191
+          },
+          "law": {
+            "clicks": 2,
+            "impressions": 9
+          },
+          "states": {
+            "clicks": 2,
+            "impressions": 33
+          },
+          "taxation": {
+            "clicks": 2,
+            "impressions": 2
+          },
+          "tourism": {
+            "clicks": 2,
+            "impressions": 58
           }
         }
       },
@@ -1053,95 +1373,15 @@
           },
           "malaysia": {
             "clicks": 2,
-            "impressions": 19
+            "impressions": 21
           }
         }
       },
-      "ja": {
+      "fr": {
         "byCategory": {
-          "accounting": {
-            "clicks": 3,
-            "impressions": 14
-          },
-          "audit": {
-            "clicks": 2,
-            "impressions": 12
-          },
-          "business": {
-            "clicks": 8,
-            "impressions": 54
-          },
-          "education": {
-            "clicks": 2,
-            "impressions": 10
-          },
-          "energy": {
-            "clicks": 2,
-            "impressions": 16
-          },
-          "environment": {
-            "clicks": 4,
-            "impressions": 30
-          },
-          "finance": {
+          "industries": {
             "clicks": 2,
             "impressions": 7
-          },
-          "government": {
-            "clicks": 5,
-            "impressions": 55
-          },
-          "industries": {
-            "clicks": 3,
-            "impressions": 25
-          },
-          "law": {
-            "clicks": 3,
-            "impressions": 10
-          },
-          "malaysia": {
-            "clicks": 4,
-            "impressions": 114
-          },
-          "money-daily-life": {
-            "clicks": 2,
-            "impressions": 61
-          },
-          "public-safety": {
-            "clicks": 2,
-            "impressions": 6
-          },
-          "tourism": {
-            "clicks": 4,
-            "impressions": 117
-          },
-          "agriculture": {
-            "clicks": 2,
-            "impressions": 8
-          },
-          "arts-culture": {
-            "clicks": 6,
-            "impressions": 79
-          },
-          "companies": {
-            "clicks": 1,
-            "impressions": 17
-          },
-          "company-secretary": {
-            "clicks": 1,
-            "impressions": 1
-          },
-          "economy": {
-            "clicks": 1,
-            "impressions": 8
-          },
-          "employment": {
-            "clicks": 2,
-            "impressions": 39
-          },
-          "healthcare": {
-            "clicks": 5,
-            "impressions": 38
           }
         }
       }
@@ -1150,14 +1390,14 @@
       {
         "query": "hari sukan negara",
         "clicks": 3,
-        "impressions": 317,
+        "impressions": 329,
         "position": 7.6
       },
       {
         "query": "kpdn是什么部门",
         "clicks": 3,
-        "impressions": 1052,
-        "position": 9
+        "impressions": 1309,
+        "position": 8.9
       },
       {
         "query": "马来传统乐器",
@@ -1166,82 +1406,118 @@
         "position": 6.1
       },
       {
+        "query": "马来西亚欠多少钱破产2026",
+        "clicks": 3,
+        "impressions": 69,
+        "position": 8.4
+      },
+      {
         "query": "akpk",
         "clicks": 2,
-        "impressions": 31,
-        "position": 3.7
+        "impressions": 48,
+        "position": 5.4
       },
       {
         "query": "akta 777",
         "clicks": 2,
-        "impressions": 41,
-        "position": 3.1
+        "impressions": 62,
+        "position": 4.7
       },
       {
         "query": "apa itu warta kerajaan",
         "clicks": 2,
-        "impressions": 44,
-        "position": 5.5
+        "impressions": 48,
+        "position": 5.4
+      },
+      {
+        "query": "berhad",
+        "clicks": 2,
+        "impressions": 96,
+        "position": 20.3
       },
       {
         "query": "duitnow qr",
         "clicks": 2,
-        "impressions": 112,
-        "position": 10.2
+        "impressions": 119,
+        "position": 10.6
       },
       {
         "query": "hari sukan negara 2026",
         "clicks": 2,
-        "impressions": 89,
-        "position": 10.4
+        "impressions": 90,
+        "position": 10.5
       },
       {
         "query": "indeks pencemaran udara",
         "clicks": 2,
-        "impressions": 14,
-        "position": 36.4
+        "impressions": 16,
+        "position": 37.6
       },
       {
         "query": "jakim คือ",
         "clicks": 2,
-        "impressions": 18,
-        "position": 1.7
+        "impressions": 19,
+        "position": 1.6
+      },
+      {
+        "query": "malaysia monsoon season 2026",
+        "clicks": 2,
+        "impressions": 13,
+        "position": 9.6
       },
       {
         "query": "malaysia timeline",
         "clicks": 2,
-        "impressions": 8,
-        "position": 15.8
+        "impressions": 11,
+        "position": 13.3
+      },
+      {
+        "query": "northeast monsoon malaysia",
+        "clicks": 2,
+        "impressions": 23,
+        "position": 4.7
       },
       {
         "query": "objektif hari sukan negara 2026",
         "clicks": 2,
-        "impressions": 41,
+        "impressions": 51,
         "position": 5
       },
       {
         "query": "padu malaysia",
         "clicks": 2,
-        "impressions": 12,
-        "position": 6.3
+        "impressions": 14,
+        "position": 6.4
+      },
+      {
+        "query": "peranan dewan bahasa dan pustaka",
+        "clicks": 2,
+        "impressions": 2,
+        "position": 36.5
       },
       {
         "query": "rela意思",
         "clicks": 2,
-        "impressions": 41,
-        "position": 6.5
+        "impressions": 51,
+        "position": 6.4
       },
       {
         "query": "seksyen 107c(10)/(10a)",
         "clicks": 2,
-        "impressions": 37,
-        "position": 2.7
+        "impressions": 44,
+        "position": 3.1
       },
       {
         "query": "นายก มาเลเซีย ทั้งหมด",
         "clicks": 2,
-        "impressions": 33,
+        "impressions": 34,
         "position": 4.5
+      },
+      {
+        "query": "マレーシア 楽器",
+        "clicks": 2,
+        "impressions": 8,
+        "position": 5.6
       },
       {
         "query": "什么是宪报",
@@ -1250,22 +1526,34 @@
         "position": 5.8
       },
       {
-        "query": "马来西亚欠多少钱破产2026",
+        "query": "国家原则",
         "clicks": 2,
-        "impressions": 33,
-        "position": 8.8
+        "impressions": 121,
+        "position": 9.1
+      },
+      {
+        "query": "马来西亚历代首相",
+        "clicks": 2,
+        "impressions": 28,
+        "position": 5.3
       },
       {
         "query": "말라야 비상사태",
         "clicks": 2,
-        "impressions": 15,
-        "position": 4.4
+        "impressions": 21,
+        "position": 4.5
       },
       {
         "query": "말레이시아 경찰 번호",
         "clicks": 2,
-        "impressions": 11,
-        "position": 1.4
+        "impressions": 14,
+        "position": 1.5
+      },
+      {
+        "query": "3",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 5.3
       },
       {
         "query": "4年",
@@ -1278,6 +1566,12 @@
         "clicks": 1,
         "impressions": 1,
         "position": 4
+      },
+      {
+        "query": "550",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 27
       },
       {
         "query": "act 777 companies act 2016",
@@ -1296,6 +1590,5104 @@
         "clicks": 1,
         "impressions": 1,
         "position": 30
+      },
+      {
+        "query": "agama hindu",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 7
+      },
+      {
+        "query": "akta 221 apm",
+        "clicks": 1,
+        "impressions": 2,
+        "position": 11
+      },
+      {
+        "query": "akta 613 amla",
+        "clicks": 1,
+        "impressions": 11,
+        "position": 8.7
+      },
+      {
+        "query": "akta imigresen 1959/63",
+        "clicks": 1,
+        "impressions": 18,
+        "position": 11.9
+      },
+      {
+        "query": "akta kerajaan tempatan 1976",
+        "clicks": 1,
+        "impressions": 7,
+        "position": 11.6
+      },
+      {
+        "query": "akta kontrak 1950 bahasa melayu",
+        "clicks": 1,
+        "impressions": 18,
+        "position": 9.9
+      },
+      {
+        "query": "akta kontrak 1950 pdf",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 39
+      },
+      {
+        "query": "akta perhubungan perusahaan 1967",
+        "clicks": 1,
+        "impressions": 81,
+        "position": 9.9
+      },
+      {
+        "query": "any case law on this",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 3
+      },
+      {
+        "query": "apa itu jawi",
+        "clicks": 1,
+        "impressions": 1,
+        "position": 18
+      },
+      {
+        "query": "apa itu lhdn malaysia",
+        "clicks": 1,
+        "impressions": 5,
+        "position": 6
+      },
+      {
+        "query": "apa itu myipo",
+        "clicks": 1,
+        "impressions": 27,
+        "position": 9.2
+      },
+      {
+        "query": "apa itu skmm",
+        "clicks": 1,
+        "impressions": 18,
+        "position": 9.1
+      },
+      {
+        "query": "apa maksud warta kerajaan",
+        "clicks": 1,
+        "impressions": 26,
+        "position": 4.8
+      },
+      {
+        "query": "apakah ibu negeri melaka",
+        "clicks": 1,
+        "impressions": 3,
+        "position": 7.3
+      },
+      {
+        "query": "apm是什么",
+        "clicks": 1,
+        "impressions": 101,
+        "position": 8.1
+      }
+    ],
+    "nearMisses": [
+      {
+        "query": "johor sultanate",
+        "page": "https://negaraku.md/en/malaysia/johor-riau-sultanate/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 7687,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "muhyiddin yassin",
+        "page": "https://negaraku.md/es/malaysia/muhyiddin-yassin/",
+        "lang": "es",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 1955,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "johor sultanate",
+        "page": "https://negaraku.md/es/malaysia/johor-riau-sultanate/",
+        "lang": "es",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 1878,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "query": "ai49208",
+        "page": "https://negaraku.md/vi/analytics",
+        "lang": "vi",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 1407,
+        "ctr": 0,
+        "position": 5.6
+      },
+      {
+        "query": "kpdn是什么部门",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 3,
+        "impressions": 1269,
+        "ctr": 0.2,
+        "position": 8.9
+      },
+      {
+        "query": "ai66616",
+        "page": "https://negaraku.md/vi/analytics/",
+        "lang": "vi",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 1159,
+        "ctr": 0,
+        "position": 6.7
+      },
+      {
+        "query": "ai87304",
+        "page": "https://negaraku.md/analytics/",
+        "lang": "ms",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 1040,
+        "ctr": 0,
+        "position": 6.3
+      },
+      {
+        "query": "rakyat in english",
+        "page": "https://negaraku.md/en/glossary/rakyat/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 819,
+        "ctr": 0,
+        "position": 11.6
+      },
+      {
+        "query": "malacca sultanate",
+        "page": "https://negaraku.md/en/malaysia/melaka-sultanate/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 816,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "말레이시아 언어",
+        "page": "https://negaraku.md/ko/malaysia/languages-spoken/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 721,
+        "ctr": 0.1,
+        "position": 8.6
+      },
+      {
+        "query": "ai68485",
+        "page": "https://negaraku.md/analytics",
+        "lang": "ms",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 670,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "ibu negeri melaka",
+        "page": "https://negaraku.md/states/melaka/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 608,
+        "ctr": 0,
+        "position": 10.9
+      },
+      {
+        "query": "hutan simpanan kekal serasa",
+        "page": "https://negaraku.md/environment/malaysias-rainforests-and-permanent-forest-reserves/",
+        "lang": "ms",
+        "category": "environment",
+        "clicks": 1,
+        "impressions": 597,
+        "ctr": 0.2,
+        "position": 5
+      },
+      {
+        "query": "malayan union",
+        "page": "https://negaraku.md/es/malaysia/rise-of-malay-nationalism/",
+        "lang": "es",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 467,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "banjaran titiwangsa",
+        "page": "https://negaraku.md/malaysia/titiwangsa-range/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 348,
+        "ctr": 0,
+        "position": 10.9
+      },
+      {
+        "query": "kpdn是什么",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 346,
+        "ctr": 0,
+        "position": 8.4
+      },
+      {
+        "query": "hari sukan negara",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 3,
+        "impressions": 327,
+        "ctr": 0.9,
+        "position": 7.6
+      },
+      {
+        "query": "negeri terkecil di malaysia",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 1,
+        "impressions": 325,
+        "ctr": 0.3,
+        "position": 8.1
+      },
+      {
+        "query": "กริช",
+        "page": "https://negaraku.md/th/arts-culture/keris/",
+        "lang": "th",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 279,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "maksud glc dan glic",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 247,
+        "ctr": 0,
+        "position": 10.2
+      },
+      {
+        "query": "ketua kampung in english",
+        "page": "https://negaraku.md/en/glossary/kampung/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 240,
+        "ctr": 0,
+        "position": 10.9
+      },
+      {
+        "query": "genting group",
+        "page": "https://negaraku.md/fr/companies/genting-group",
+        "lang": "fr",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 237,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "negeri paling kecil di malaysia",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 219,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "query": "malaysian cantonese",
+        "page": "https://negaraku.md/en/arts-culture/chinese-dialects/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 218,
+        "ctr": 0,
+        "position": 7.1
+      },
+      {
+        "query": "genting group",
+        "page": "https://negaraku.md/th/companies/genting-group",
+        "lang": "th",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 195,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "inheriting shares without stamp duty",
+        "page": "https://negaraku.md/en/taxation/inheritance-and-estate-tax/",
+        "lang": "en",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 192,
+        "ctr": 0,
+        "position": 11.1
+      },
+      {
+        "query": "dân số malaysia năm 2026",
+        "page": "https://negaraku.md/vi/malaysia/population-composition",
+        "lang": "vi",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 191,
+        "ctr": 0,
+        "position": 5.8
+      },
+      {
+        "query": "什么是官联公司",
+        "page": "https://negaraku.md/zh/companies/glcs-and-glics-in-malaysia/",
+        "lang": "zh",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 184,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "pertahanan awam是什么",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 1,
+        "impressions": 183,
+        "ctr": 0.5,
+        "position": 5.6
+      },
+      {
+        "query": "hutan simpanan kekal",
+        "page": "https://negaraku.md/environment/malaysias-rainforests-and-permanent-forest-reserves/",
+        "lang": "ms",
+        "category": "environment",
+        "clicks": 0,
+        "impressions": 183,
+        "ctr": 0,
+        "position": 5.3
+      },
+      {
+        "query": "rumah ppr monthly payment under rm182",
+        "page": "https://negaraku.md/en/property/affordable-housing-schemes/",
+        "lang": "en",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 180,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "umur ismail sabri",
+        "page": "https://negaraku.md/malaysia/ismail-sabri-yaakob/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 179,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "cp37",
+        "page": "https://negaraku.md/taxation/cp37-forms/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 1,
+        "impressions": 178,
+        "ctr": 0.6,
+        "position": 8
+      },
+      {
+        "query": "pdrm是什么",
+        "page": "https://negaraku.md/zh/government/pdrm/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 1,
+        "impressions": 175,
+        "ctr": 0.6,
+        "position": 8
+      },
+      {
+        "query": "wilayah persekutuan in english",
+        "page": "https://negaraku.md/en/glossary/wilayah-persekutuan/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 170,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "apa itu glic",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 165,
+        "ctr": 0,
+        "position": 9.8
+      },
+      {
+        "query": "kpkt是什么",
+        "page": "https://negaraku.md/zh/government/ministry-of-housing-local-government-kpkt/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 165,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "what is pdrm",
+        "page": "https://negaraku.md/en/government/pdrm/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 161,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "manglish",
+        "page": "https://negaraku.md/ko/arts-culture/manglish/",
+        "lang": "ko",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 159,
+        "ctr": 0,
+        "position": 7.3
+      },
+      {
+        "query": "สนามเซปัง",
+        "page": "https://negaraku.md/th/sports/sepang-circuit-motorsport-legacy/",
+        "lang": "th",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 157,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "மகாதீர் முகமது",
+        "page": "https://negaraku.md/ta/malaysia/mahathir-mohamad/",
+        "lang": "ta",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 156,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "kpdn 是 做 什么 的",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 143,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "马来西亚历任首相",
+        "page": "https://negaraku.md/zh/government/prime-ministers-of-malaysia/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 1,
+        "impressions": 142,
+        "ctr": 0.7,
+        "position": 8.2
+      },
+      {
+        "query": "putrajaya negeri mana",
+        "page": "https://negaraku.md/states/putrajaya/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 141,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "menteri besar in english",
+        "page": "https://negaraku.md/en/glossary/menteri-besar",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 138,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "iwk是什么",
+        "page": "https://negaraku.md/zh/property/indah-water-sewerage/",
+        "lang": "zh",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 133,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "pdrm是什么部门",
+        "page": "https://negaraku.md/zh/government/pdrm/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 133,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "sukma games",
+        "page": "https://negaraku.md/fr/sports/sukma-games/",
+        "lang": "fr",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 130,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "pdrm full name",
+        "page": "https://negaraku.md/en/government/pdrm/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 129,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "国家原则",
+        "page": "https://negaraku.md/zh/malaysia/rukun-negara/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 2,
+        "impressions": 121,
+        "ctr": 1.7,
+        "position": 9.1
+      },
+      {
+        "query": "kpdn 是 什么 部门",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 121,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "is putrajaya a state",
+        "page": "https://negaraku.md/en/states/putrajaya/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 117,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "sukma 是什么",
+        "page": "https://negaraku.md/zh/sports/sukma-games/",
+        "lang": "zh",
+        "category": "sports",
+        "clicks": 1,
+        "impressions": 116,
+        "ctr": 0.9,
+        "position": 7.5
+      },
+      {
+        "query": "dân số malaysia năm 2026",
+        "page": "https://negaraku.md/vi/malaysia/population-composition/",
+        "lang": "vi",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 109,
+        "ctr": 0,
+        "position": 5.9
+      },
+      {
+        "query": "mcmc tu apa",
+        "page": "https://negaraku.md/government/mcmc-communications-multimedia-commission/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 1,
+        "impressions": 106,
+        "ctr": 0.9,
+        "position": 10.2
+      },
+      {
+        "query": "duitnow qr",
+        "page": "https://negaraku.md/id/money-daily-life/duitnow-qr-payments/",
+        "lang": "id",
+        "category": "money-daily-life",
+        "clicks": 2,
+        "impressions": 105,
+        "ctr": 1.9,
+        "position": 7.9
+      },
+      {
+        "query": "gangga negara",
+        "page": "https://negaraku.md/malaysia/gangga-negara/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 105,
+        "ctr": 1,
+        "position": 11.4
+      },
+      {
+        "query": "merdeka",
+        "page": "https://negaraku.md/th/glossary/merdeka/",
+        "lang": "th",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 105,
+        "ctr": 0,
+        "position": 6.4
+      },
+      {
+        "query": "merdeka",
+        "page": "https://negaraku.md/es/glossary/merdeka/",
+        "lang": "es",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 104,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "hutan simpanan",
+        "page": "https://negaraku.md/environment/malaysias-rainforests-and-permanent-forest-reserves/",
+        "lang": "ms",
+        "category": "environment",
+        "clicks": 0,
+        "impressions": 101,
+        "ctr": 0,
+        "position": 6.7
+      },
+      {
+        "query": "jawi script",
+        "page": "https://negaraku.md/es/arts-culture/jawi-script/",
+        "lang": "es",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 99,
+        "ctr": 0,
+        "position": 7.2
+      },
+      {
+        "query": "maksud glic dan glc",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 98,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "jata negara in english",
+        "page": "https://negaraku.md/en/malaysia/coat-of-arms/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 97,
+        "ctr": 0,
+        "position": 7.3
+      },
+      {
+        "query": "muhyiddin yassin",
+        "page": "https://negaraku.md/ar/malaysia/muhyiddin-yassin/",
+        "lang": "ar",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 97,
+        "ctr": 0,
+        "position": 7.4
+      },
+      {
+        "query": "duitnow",
+        "page": "https://negaraku.md/id/money-daily-life/duitnow-qr-payments/",
+        "lang": "id",
+        "category": "money-daily-life",
+        "clicks": 0,
+        "impressions": 96,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "hasil意思",
+        "page": "https://negaraku.md/zh/government/lhdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 96,
+        "ctr": 0,
+        "position": 11.2
+      },
+      {
+        "query": "tarikh hari sukan negara 2026",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 95,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "tnb kerajaan atau swasta",
+        "page": "https://negaraku.md/companies/tenaga-nasional/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 92,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "orang asli意思",
+        "page": "https://negaraku.md/zh/arts-culture/orang-asli/",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 91,
+        "ctr": 0,
+        "position": 6.1
+      },
+      {
+        "query": "sistem pensijilan halal malaysia",
+        "page": "https://negaraku.md/industries/halal-certification-system/",
+        "lang": "ms",
+        "category": "industries",
+        "clicks": 0,
+        "impressions": 91,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "keluasan pahang",
+        "page": "https://negaraku.md/states/pahang/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 90,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "cdl lesen是什么",
+        "page": "https://negaraku.md/zh/transport/driving-licence-malaysians/",
+        "lang": "zh",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 89,
+        "ctr": 0,
+        "position": 7.7
+      },
+      {
+        "query": "copyright in malay",
+        "page": "https://negaraku.md/business/copyright-malaysia/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 89,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "hari sukan negara 2026",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 2,
+        "impressions": 88,
+        "ctr": 2.3,
+        "position": 10.7
+      },
+      {
+        "query": "bomba bawah kementerian apa",
+        "page": "https://negaraku.md/public-safety/fire-and-rescue-department-bomba/",
+        "lang": "ms",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 87,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "maksud mcmc",
+        "page": "https://negaraku.md/government/mcmc-communications-multimedia-commission/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 83,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "ai44192",
+        "page": "https://negaraku.md/th/analytics/",
+        "lang": "th",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 82,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "ai68485",
+        "page": "https://negaraku.md/analytics/",
+        "lang": "ms",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 81,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "statutory declaration in malay",
+        "page": "https://negaraku.md/company-secretary/statutory-declaration-malaysia/",
+        "lang": "ms",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 81,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "apm是什么",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 1,
+        "impressions": 80,
+        "ctr": 1.3,
+        "position": 7.9
+      },
+      {
+        "query": "bila hari sukan negara",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 80,
+        "ctr": 0,
+        "position": 7.4
+      },
+      {
+        "query": "マレーシア 宗教 割合",
+        "page": "https://negaraku.md/ja/malaysia/religion-statistics/",
+        "lang": "ja",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 80,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "akta perhubungan perusahaan 1967",
+        "page": "https://negaraku.md/law/industrial-relations-act-1967/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 1,
+        "impressions": 79,
+        "ctr": 1.3,
+        "position": 9.6
+      },
+      {
+        "query": "rakyat malaysia in english",
+        "page": "https://negaraku.md/en/glossary/rakyat/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 78,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "tenaga nasional",
+        "page": "https://negaraku.md/ar/companies/tenaga-nasional/",
+        "lang": "ar",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 78,
+        "ctr": 0,
+        "position": 9.4
+      },
+      {
+        "query": "johor kumpulan a atau b",
+        "page": "https://negaraku.md/education/academic-calendar-and-school-holidays/",
+        "lang": "ms",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 77,
+        "ctr": 0,
+        "position": 7.4
+      },
+      {
+        "query": "company resolutions in malaysia",
+        "page": "https://negaraku.md/en/company-secretary/special-resolution/",
+        "lang": "en",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 76,
+        "ctr": 0,
+        "position": 25.9
+      },
+      {
+        "query": "kenaikan cukai sek 107c(10)/(10a)",
+        "page": "https://negaraku.md/taxation/tax-penalties/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 75,
+        "ctr": 0,
+        "position": 5.9
+      },
+      {
+        "query": "hotel registration malaysia",
+        "page": "https://negaraku.md/en/business/start-hotel-business-malaysia/",
+        "lang": "en",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 74,
+        "ctr": 0,
+        "position": 25.3
+      },
+      {
+        "query": "宪报是什么",
+        "page": "https://negaraku.md/zh/glossary/warta-kerajaan/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 74,
+        "ctr": 0,
+        "position": 5.5
+      },
+      {
+        "query": "말레이시아 종교 비율",
+        "page": "https://negaraku.md/ko/malaysia/religion-statistics/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 74,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "rukun negara terbahagi kepada berapa bahagian",
+        "page": "https://negaraku.md/malaysia/rukun-negara/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 73,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "kompang意思",
+        "page": "https://negaraku.md/zh/arts-culture/traditional-musical-instruments/",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 72,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "cp37",
+        "page": "https://negaraku.md/en/taxation/cp37-forms/",
+        "lang": "en",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 71,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "jpdp malaysia",
+        "page": "https://negaraku.md/law/data-protection-department-jpdp/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 71,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "akta syarikat 2016",
+        "page": "https://negaraku.md/law/companies-act-2016/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 70,
+        "ctr": 0,
+        "position": 9.6
+      },
+      {
+        "query": "apakah negeri yang paling kecil di malaysia dari segi keluasan?",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 70,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "马来西亚欠多少钱破产2026",
+        "page": "https://negaraku.md/zh/law/insolvency-and-bankruptcy-law/",
+        "lang": "zh",
+        "category": "law",
+        "clicks": 3,
+        "impressions": 69,
+        "ctr": 4.3,
+        "position": 8.4
+      },
+      {
+        "query": "beza glc dan glic",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 69,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "hari sukan negara bila",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 69,
+        "ctr": 0,
+        "position": 6.4
+      },
+      {
+        "query": "pahang population",
+        "page": "https://negaraku.md/en/states/pahang/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 69,
+        "ctr": 0,
+        "position": 8.6
+      },
+      {
+        "query": "sprm",
+        "page": "https://negaraku.md/id/glossary/suruhanjaya-pencegahan-rasuah-malaysia/",
+        "lang": "id",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 69,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "dân số malaysia hiện nay",
+        "page": "https://negaraku.md/vi/malaysia/population-composition",
+        "lang": "vi",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 68,
+        "ctr": 0,
+        "position": 9.8
+      },
+      {
+        "query": "luas kuala lumpur",
+        "page": "https://negaraku.md/id/states/kuala-lumpur/",
+        "lang": "id",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 68,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "tnb是什么",
+        "page": "https://negaraku.md/zh/companies/tenaga-nasional/",
+        "lang": "zh",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 68,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "skmm是什么",
+        "page": "https://negaraku.md/zh/government/mcmc-communications-multimedia-commission/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 66,
+        "ctr": 0,
+        "position": 6.8
+      },
+      {
+        "query": "sunway group",
+        "page": "https://negaraku.md/th/companies/sunway-group/",
+        "lang": "th",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 65,
+        "ctr": 0,
+        "position": 5.3
+      },
+      {
+        "query": "pdrm in english",
+        "page": "https://negaraku.md/en/government/pdrm/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 64,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "ジョホール王国",
+        "page": "https://negaraku.md/ja/malaysia/johor-riau-sultanate",
+        "lang": "ja",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 63,
+        "ctr": 0,
+        "position": 7.1
+      },
+      {
+        "query": "perkara 3",
+        "page": "https://negaraku.md/law/article-3-religion/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 62,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "pertahanan awam是什么",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 62,
+        "ctr": 0,
+        "position": 6.3
+      },
+      {
+        "query": "sprm adalah",
+        "page": "https://negaraku.md/id/glossary/suruhanjaya-pencegahan-rasuah-malaysia/",
+        "lang": "id",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 62,
+        "ctr": 0,
+        "position": 5.2
+      },
+      {
+        "query": "hierarki mahkamah",
+        "page": "https://negaraku.md/law/court-hierarchy/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 61,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "kpdn 是什么",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 61,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "uec full name",
+        "page": "https://negaraku.md/en/education/unified-examination-certificate-uec/",
+        "lang": "en",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 61,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "putrajaya ialah pusat",
+        "page": "https://negaraku.md/states/putrajaya/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 60,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "smallest state in malaysia",
+        "page": "https://negaraku.md/en/states/perlis/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 60,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "maksud adun",
+        "page": "https://negaraku.md/glossary/dewan-undangan-negeri/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 59,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "is putrajaya in selangor",
+        "page": "https://negaraku.md/en/states/putrajaya/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 58,
+        "ctr": 0,
+        "position": 9.6
+      },
+      {
+        "query": "kpdnkk是什么部门",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 58,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "lhdn",
+        "page": "https://negaraku.md/id/government/lhdn/",
+        "lang": "id",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 57,
+        "ctr": 0,
+        "position": 5.7
+      },
+      {
+        "query": "maksud warta kerajaan",
+        "page": "https://negaraku.md/glossary/warta-kerajaan",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 57,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "negeri sembilan",
+        "page": "https://negaraku.md/th/states/negeri-sembilan/",
+        "lang": "th",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 57,
+        "ctr": 0,
+        "position": 10.3
+      },
+      {
+        "query": "tenaga nasional",
+        "page": "https://negaraku.md/fr/companies/tenaga-nasional",
+        "lang": "fr",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 57,
+        "ctr": 0,
+        "position": 9.4
+      },
+      {
+        "query": "ai84025",
+        "page": "https://negaraku.md/analytics/",
+        "lang": "ms",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 56,
+        "ctr": 0,
+        "position": 5.1
+      },
+      {
+        "query": "keluasan negeri pahang",
+        "page": "https://negaraku.md/states/pahang/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 56,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "kpm in english",
+        "page": "https://negaraku.md/en/government/ministry-of-education-moe/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 56,
+        "ctr": 0,
+        "position": 9.4
+      },
+      {
+        "query": "sabah negeri di bawah bayu",
+        "page": "https://negaraku.md/states/sabah/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 56,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "query": "ctos report",
+        "page": "https://negaraku.md/en/finance/credit-reporting-ccris-ctos-malaysia/",
+        "lang": "en",
+        "category": "finance",
+        "clicks": 1,
+        "impressions": 55,
+        "ctr": 1.8,
+        "position": 26.9
+      },
+      {
+        "query": "mykad是什么",
+        "page": "https://negaraku.md/zh/glossary/mykad/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 55,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "syariah 意思",
+        "page": "https://negaraku.md/zh/glossary/syariah/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 55,
+        "ctr": 0,
+        "position": 7.2
+      },
+      {
+        "query": "adun maksud",
+        "page": "https://negaraku.md/glossary/dewan-undangan-negeri/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 54,
+        "ctr": 0,
+        "position": 12.1
+      },
+      {
+        "query": "kapasiti stadium bukit jalil",
+        "page": "https://negaraku.md/sports/national-sports-venues/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 54,
+        "ctr": 0,
+        "position": 12.2
+      },
+      {
+        "query": "rakyat meaning",
+        "page": "https://negaraku.md/en/glossary/rakyat/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 54,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "kpkt 是 什么 部门",
+        "page": "https://negaraku.md/zh/government/ministry-of-housing-local-government-kpkt/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 53,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "lpeph",
+        "page": "https://negaraku.md/en/property/property-agents-and-fees/",
+        "lang": "en",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 53,
+        "ctr": 0,
+        "position": 8.6
+      },
+      {
+        "query": "馬來西亞歷任首相",
+        "page": "https://negaraku.md/zh/government/prime-ministers-of-malaysia/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 53,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "jpj是什么",
+        "page": "https://negaraku.md/zh/transport/road-transport-department-jpj/",
+        "lang": "zh",
+        "category": "transport",
+        "clicks": 1,
+        "impressions": 52,
+        "ctr": 1.9,
+        "position": 7.4
+      },
+      {
+        "query": "jpn full form",
+        "page": "https://negaraku.md/en/government/jpn/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 52,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "mahkamah意思",
+        "page": "https://negaraku.md/zh/glossary/mahkamah/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 52,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "objektif hari sukan negara 2026",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 2,
+        "impressions": 51,
+        "ctr": 3.9,
+        "position": 5
+      },
+      {
+        "query": "rela意思",
+        "page": "https://negaraku.md/zh/public-safety/rela-peoples-volunteer-corps/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 2,
+        "impressions": 51,
+        "ctr": 3.9,
+        "position": 6.4
+      },
+      {
+        "query": "dewan bahasa dan pustaka",
+        "page": "https://negaraku.md/en/arts-culture/dewan-bahasa-dan-pustaka/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 51,
+        "ctr": 0,
+        "position": 19.6
+      },
+      {
+        "query": "maksud warta kerajaan",
+        "page": "https://negaraku.md/glossary/warta-kerajaan/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 51,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "query": "objektif hari sukan negara",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 1,
+        "impressions": 50,
+        "ctr": 2,
+        "position": 7
+      },
+      {
+        "query": "adat perpatih 意思",
+        "page": "https://negaraku.md/zh/states/negeri-sembilan/",
+        "lang": "zh",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 50,
+        "ctr": 0,
+        "position": 8.3
+      },
+      {
+        "query": "insurans pihak ketiga",
+        "page": "https://negaraku.md/transport/motor-insurance/",
+        "lang": "ms",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 50,
+        "ctr": 0,
+        "position": 6.1
+      },
+      {
+        "query": "กริช คือ",
+        "page": "https://negaraku.md/th/arts-culture/keris/",
+        "lang": "th",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 50,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "马来西亚堕胎是合法的吗",
+        "page": "https://negaraku.md/zh/healthcare/abortion-law-in-malaysia/",
+        "lang": "zh",
+        "category": "healthcare",
+        "clicks": 0,
+        "impressions": 50,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "manglish",
+        "page": "https://negaraku.md/en/arts-culture/manglish/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 49,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "putrajaya negeri apa",
+        "page": "https://negaraku.md/states/putrajaya/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 49,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "18 suku kaum orang asli",
+        "page": "https://negaraku.md/arts-culture/orang-asli/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 48,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "pemain squash malaysia",
+        "page": "https://negaraku.md/sports/squash-in-malaysia-nicol-david/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 48,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "perlis sultan atau raja",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 48,
+        "ctr": 0,
+        "position": 8.4
+      },
+      {
+        "query": "wilayah persekutuan",
+        "page": "https://negaraku.md/en/glossary/wilayah-persekutuan/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 48,
+        "ctr": 0,
+        "position": 15.8
+      },
+      {
+        "query": "sukma games",
+        "page": "https://negaraku.md/ar/sports/sukma-games/",
+        "lang": "ar",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 47,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "ชุดบาจูกูรงเป็นชุดแต่งกายของเชื้อชาติใดในสิงคโปร์ * 1 point ก.อินเดีย ข.จีน ค.มลายู ง.ชวา จ.ยุโรป",
+        "page": "https://negaraku.md/th/arts-culture/traditional-malay-attire/",
+        "lang": "th",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 47,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "apa itu warta kerajaan",
+        "page": "https://negaraku.md/glossary/warta-kerajaan/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 2,
+        "impressions": 46,
+        "ctr": 4.3,
+        "position": 5.3
+      },
+      {
+        "query": "doe malaysia",
+        "page": "https://negaraku.md/en/environment/department-of-environment-doe/",
+        "lang": "en",
+        "category": "environment",
+        "clicks": 0,
+        "impressions": 46,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "jpj bawah kementerian apa",
+        "page": "https://negaraku.md/transport/road-transport-department-jpj/",
+        "lang": "ms",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 46,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "tarikh hari sukan negara",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 46,
+        "ctr": 0,
+        "position": 5.9
+      },
+      {
+        "query": "cdl lesen是什么",
+        "page": "https://negaraku.md/zh/transport/driving-licence-malaysians",
+        "lang": "zh",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "e residence lhdn",
+        "page": "https://negaraku.md/taxation/certificate-of-residence/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "mcmc maksud",
+        "page": "https://negaraku.md/government/mcmc-communications-multimedia-commission/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "modal berbayar in english",
+        "page": "https://negaraku.md/glossary/paid-up-capital/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "pdrm是什么",
+        "page": "https://negaraku.md/zh/public-safety/royal-malaysia-police-pdrm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "seksyen 15 osha 1994",
+        "page": "https://negaraku.md/law/occupational-safety-and-health-act/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 10.8
+      },
+      {
+        "query": "tenaga nasional",
+        "page": "https://negaraku.md/fr/companies/tenaga-nasional/",
+        "lang": "fr",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 45,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "berapa lama jepun menjajah tanah melayu",
+        "page": "https://negaraku.md/malaysia/japanese-occupation/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "lord reid",
+        "page": "https://negaraku.md/malaysia/reid-commission/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 5.2
+      },
+      {
+        "query": "maksud statutory declaration",
+        "page": "https://negaraku.md/company-secretary/statutory-declaration-malaysia/",
+        "lang": "ms",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 8.6
+      },
+      {
+        "query": "puspakom",
+        "page": "https://negaraku.md/id/transport/topic/puspakom",
+        "lang": "id",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "tnb swasta atau kerajaan",
+        "page": "https://negaraku.md/companies/tenaga-nasional/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "มาเลเซียใช้ภาษาอะไร",
+        "page": "https://negaraku.md/th/malaysia/languages-spoken/",
+        "lang": "th",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "国阵成员党",
+        "page": "https://negaraku.md/zh/malaysia/barisan-nasional/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 6.4
+      },
+      {
+        "query": "马来西亚欠多少钱破产2026",
+        "page": "https://negaraku.md/zh/law/insolvency-and-bankruptcy-law/#%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%A6%82%E4%BD%95%E8%A7%A3%E9%99%A4%E7%A0%B4%E4%BA%A7",
+        "lang": "zh",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "马来西亚欠多少钱破产2026",
+        "page": "https://negaraku.md/zh/law/insolvency-and-bankruptcy-law/#%E4%B8%80%E6%97%A6%E5%AE%A3%E5%91%8A%E7%A0%B4%E4%BA%A7%E7%94%B1%E8%B0%81%E6%8E%A5%E7%AE%A1",
+        "lang": "zh",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "马来西亚欠多少钱破产2026",
+        "page": "https://negaraku.md/zh/law/insolvency-and-bankruptcy-law/#%E4%B8%AA%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%89%8D%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E5%88%A4%E7%A0%B4%E4%BA%A7",
+        "lang": "zh",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "马来西亚欠多少钱破产2026",
+        "page": "https://negaraku.md/zh/law/insolvency-and-bankruptcy-law/#%E5%85%AC%E5%8F%B8%E6%97%A0%E5%8A%9B%E5%81%BF%E5%80%BA%E6%97%B6%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88",
+        "lang": "zh",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 44,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "dân số malaysia hiện nay",
+        "page": "https://negaraku.md/vi/malaysia/population-composition/",
+        "lang": "vi",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 43,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "ytl corporation",
+        "page": "https://negaraku.md/es/companies/ytl-group/",
+        "lang": "es",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 43,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "langkasuka",
+        "page": "https://negaraku.md/en/malaysia/langkasuka/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 42,
+        "ctr": 2.4,
+        "position": 8.2
+      },
+      {
+        "query": "miceca duty free status 2024 2025 malaysia india",
+        "page": "https://negaraku.md/en/international/malaysia-free-trade-agreements-network/",
+        "lang": "en",
+        "category": "international",
+        "clicks": 0,
+        "impressions": 42,
+        "ctr": 0,
+        "position": 6.5
+      },
+      {
+        "query": "pahang size",
+        "page": "https://negaraku.md/en/states/pahang/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 42,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "sukma games",
+        "page": "https://negaraku.md/id/sports/sukma-games",
+        "lang": "id",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 42,
+        "ctr": 0,
+        "position": 5.3
+      },
+      {
+        "query": "ytl corporation",
+        "page": "https://negaraku.md/es/companies/ytl-group",
+        "lang": "es",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 42,
+        "ctr": 0,
+        "position": 10.6
+      },
+      {
+        "query": "apm malaysia 是 什么",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 41,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "northeast monsoon",
+        "page": "https://negaraku.md/en/environment/northeast-monsoon/",
+        "lang": "en",
+        "category": "environment",
+        "clicks": 0,
+        "impressions": 41,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "pdrm 是什么",
+        "page": "https://negaraku.md/zh/government/pdrm/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 41,
+        "ctr": 0,
+        "position": 6.6
+      },
+      {
+        "query": "wau",
+        "page": "https://negaraku.md/arts-culture/wau/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 41,
+        "ctr": 0,
+        "position": 11.6
+      },
+      {
+        "query": "dewan bahasa dan pustaka",
+        "page": "https://negaraku.md/arts-culture/dewan-bahasa-dan-pustaka/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 1,
+        "impressions": 40,
+        "ctr": 2.5,
+        "position": 24.2
+      },
+      {
+        "query": "ai49208",
+        "page": "https://negaraku.md/vi/analytics/",
+        "lang": "vi",
+        "category": "analytics",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 5.5
+      },
+      {
+        "query": "berhad meaning",
+        "page": "https://negaraku.md/en/glossary/berhad-bhd/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "keluasan negeri perlis",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "kenaikan cukai sek 107c(9)",
+        "page": "https://negaraku.md/taxation/form-c-and-cp204/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 7.4
+      },
+      {
+        "query": "kpdn是什么部门",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 11.1
+      },
+      {
+        "query": "nama penuh bomba",
+        "page": "https://negaraku.md/public-safety/fire-and-rescue-department-bomba/",
+        "lang": "ms",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "negeri yang ada raja",
+        "page": "https://negaraku.md/malaysia/nine-royal-houses/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "piuter是什么",
+        "page": "https://negaraku.md/zh/arts-culture/pewter/",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "ジョホール王国",
+        "page": "https://negaraku.md/ja/malaysia/johor-riau-sultanate/",
+        "lang": "ja",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 40,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "jadual ketiga kwsp 2026",
+        "page": "https://negaraku.md/employment/epf-employer-guide/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 39,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "ยะโฮร์",
+        "page": "https://negaraku.md/th/states/johor/",
+        "lang": "th",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 39,
+        "ctr": 0,
+        "position": 9.6
+      },
+      {
+        "query": "말레이시아 국화",
+        "page": "https://negaraku.md/ko/malaysia/bunga-raya-national-flower/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 38,
+        "ctr": 2.6,
+        "position": 5.2
+      },
+      {
+        "query": "akta in english",
+        "page": "https://negaraku.md/en/glossary/akta",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 6.3
+      },
+      {
+        "query": "e residence",
+        "page": "https://negaraku.md/taxation/certificate-of-residence/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 12.7
+      },
+      {
+        "query": "e-residence lhdn",
+        "page": "https://negaraku.md/taxation/certificate-of-residence/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 9.6
+      },
+      {
+        "query": "glic",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 24.3
+      },
+      {
+        "query": "skmm是什么部门",
+        "page": "https://negaraku.md/zh/government/mcmc-communications-multimedia-commission/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 6.7
+      },
+      {
+        "query": "str 查询",
+        "page": "https://negaraku.md/zh/money-daily-life/str-cash-aid/",
+        "lang": "zh",
+        "category": "money-daily-life",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "慕尤丁·雅辛",
+        "page": "https://negaraku.md/zh/malaysia/muhyiddin-yassin/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "콤팡",
+        "page": "https://negaraku.md/ko/arts-culture/traditional-musical-instruments/",
+        "lang": "ko",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 38,
+        "ctr": 0,
+        "position": 7.3
+      },
+      {
+        "query": "akta cukai pendapatan 1967",
+        "page": "https://negaraku.md/law/income-tax-act-1967/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "genting group",
+        "page": "https://negaraku.md/es/companies/genting-group/",
+        "lang": "es",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "lpeph malaysia",
+        "page": "https://negaraku.md/en/property/property-agents-and-fees/",
+        "lang": "en",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 7.7
+      },
+      {
+        "query": "mcmc是什么部门",
+        "page": "https://negaraku.md/zh/government/mcmc-communications-multimedia-commission/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 10.2
+      },
+      {
+        "query": "merdeka แปลว่า",
+        "page": "https://negaraku.md/th/glossary/merdeka/",
+        "lang": "th",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 5.4
+      },
+      {
+        "query": "paid up capital in malay",
+        "page": "https://negaraku.md/glossary/paid-up-capital",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 10.2
+      },
+      {
+        "query": "zon perindustrian bebas",
+        "page": "https://negaraku.md/business/bayan-lepas-free-industrial-zone/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "สนามเซปัง มาเลเซีย",
+        "page": "https://negaraku.md/th/sports/sepang-circuit-motorsport-legacy/",
+        "lang": "th",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "納吉·阿都拉薩",
+        "page": "https://negaraku.md/zh/malaysia/najib-razak/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 37,
+        "ctr": 0,
+        "position": 12.1
+      },
+      {
+        "query": "audit majikan seksyen 107",
+        "page": "https://negaraku.md/taxation/tax-audit/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 1,
+        "impressions": 36,
+        "ctr": 2.8,
+        "position": 8.4
+      },
+      {
+        "query": "borang pk jtk",
+        "page": "https://negaraku.md/employment/retrenchment-malaysia/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 1,
+        "impressions": 36,
+        "ctr": 2.8,
+        "position": 11.5
+      },
+      {
+        "query": "peka b40",
+        "page": "https://negaraku.md/en/healthcare/peka-b40-and-health-schemes/",
+        "lang": "en",
+        "category": "healthcare",
+        "clicks": 1,
+        "impressions": 36,
+        "ctr": 2.8,
+        "position": 10
+      },
+      {
+        "query": "environmental quality (prescribed activities) (environmental impact assessment) order 2015",
+        "page": "https://negaraku.md/en/environment/environmental-impact-assessment-eia-malaysia",
+        "lang": "en",
+        "category": "environment",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 7.7
+      },
+      {
+        "query": "jawi script",
+        "page": "https://negaraku.md/fr/arts-culture/jawi-script/",
+        "lang": "fr",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 5.4
+      },
+      {
+        "query": "kumpulan a negeri mana",
+        "page": "https://negaraku.md/education/academic-calendar-and-school-holidays/",
+        "lang": "ms",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "maksud rakyat",
+        "page": "https://negaraku.md/glossary/rakyat/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "sdn bhd",
+        "page": "https://negaraku.md/th/business/what-is-sdn-bhd/",
+        "lang": "th",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 13.3
+      },
+      {
+        "query": "seksyen 550 akta syarikat 2016",
+        "page": "https://negaraku.md/business/strike-off-company-malaysia/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 6.5
+      },
+      {
+        "query": "马来西亚警察职位表",
+        "page": "https://negaraku.md/zh/government/pdrm/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 8.3
+      },
+      {
+        "query": "말레이시아 총리",
+        "page": "https://negaraku.md/ko/government/prime-ministers-of-malaysia/",
+        "lang": "ko",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 36,
+        "ctr": 0,
+        "position": 7.1
+      },
+      {
+        "query": "jwn",
+        "page": "https://negaraku.md/government/department-of-national-heritage/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 1,
+        "impressions": 35,
+        "ctr": 2.9,
+        "position": 7.5
+      },
+      {
+        "query": "ipta是什么",
+        "page": "https://negaraku.md/zh/education/public-vs-private-universities/",
+        "lang": "zh",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "is malaysia a federation",
+        "page": "https://negaraku.md/en/malaysia/what-malaysia-is/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 6.6
+      },
+      {
+        "query": "ptptn adalah",
+        "page": "https://negaraku.md/id/education/ptptn-student-loan/",
+        "lang": "id",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "query": "rumah terbuka意思",
+        "page": "https://negaraku.md/zh/glossary/open-house/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 5.1
+      },
+      {
+        "query": "syariah意思",
+        "page": "https://negaraku.md/zh/glossary/syariah/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 7.1
+      },
+      {
+        "query": "wang tak dituntut",
+        "page": "https://negaraku.md/money-daily-life/unclaimed-moneys-egumis/",
+        "lang": "ms",
+        "category": "money-daily-life",
+        "clicks": 0,
+        "impressions": 35,
+        "ctr": 0,
+        "position": 22.5
+      },
+      {
+        "query": "什么是宪报",
+        "page": "https://negaraku.md/zh/glossary/warta-kerajaan/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 2,
+        "impressions": 34,
+        "ctr": 5.9,
+        "position": 5.8
+      },
+      {
+        "query": "gasing",
+        "page": "https://negaraku.md/en/arts-culture/gasing/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 9.6
+      },
+      {
+        "query": "mykad是什麼",
+        "page": "https://negaraku.md/zh/glossary/mykad/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 5.9
+      },
+      {
+        "query": "paternity leave in malay",
+        "page": "https://negaraku.md/employment/paternity-leave-malaysia/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 10.7
+      },
+      {
+        "query": "seksyen 312 kanun keseksaan",
+        "page": "https://negaraku.md/healthcare/abortion-law-in-malaysia/",
+        "lang": "ms",
+        "category": "healthcare",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "tanjung pelepas ประเทศ",
+        "page": "https://negaraku.md/th/industries/logistics-ports-industry",
+        "lang": "th",
+        "category": "industries",
+        "clicks": 0,
+        "impressions": 34,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "말레이시아 언어 비율",
+        "page": "https://negaraku.md/ko/malaysia/languages-spoken/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 33,
+        "ctr": 3,
+        "position": 8.3
+      },
+      {
+        "query": "헤이즈 수치",
+        "page": "https://negaraku.md/ko/environment/air-pollutant-index-api-malaysia/",
+        "lang": "ko",
+        "category": "environment",
+        "clicks": 1,
+        "impressions": 33,
+        "ctr": 3,
+        "position": 7.4
+      },
+      {
+        "query": "apa beza glc dan glic",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "apa itu mcmc",
+        "page": "https://negaraku.md/government/mcmc-communications-multimedia-commission/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 11.8
+      },
+      {
+        "query": "dân số malaysia năm 2025",
+        "page": "https://negaraku.md/vi/malaysia/population-composition",
+        "lang": "vi",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 5.8
+      },
+      {
+        "query": "egumis",
+        "page": "https://negaraku.md/th/money-daily-life/unclaimed-moneys-egumis/",
+        "lang": "th",
+        "category": "money-daily-life",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "hari senin sekolah atau tidak",
+        "page": "https://negaraku.md/education/academic-calendar-and-school-holidays/",
+        "lang": "ms",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 8.3
+      },
+      {
+        "query": "ministry of education malaysia",
+        "page": "https://negaraku.md/en/government/ministry-of-education-moe/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "negara terkecil di malaysia",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 5.1
+      },
+      {
+        "query": "民防部队",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 33,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "apa itu glic dan glc",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "apm是什么部门",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "duti eksais",
+        "page": "https://negaraku.md/taxation/excise-duty/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "iwk 是什么",
+        "page": "https://negaraku.md/zh/property/indah-water-sewerage/",
+        "lang": "zh",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "northwestern malaysia floods emergency resources",
+        "page": "https://negaraku.md/en/public-safety/household-disaster-preparedness-malaysia/",
+        "lang": "en",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "sukma games",
+        "page": "https://negaraku.md/en/sports/sukma-games/",
+        "lang": "en",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 10.6
+      },
+      {
+        "query": "马来西亚国家原则",
+        "page": "https://negaraku.md/zh/malaysia/rukun-negara/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 32,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "apa itu dun",
+        "page": "https://negaraku.md/glossary/dewan-undangan-negeri/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "glic malaysia",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 22.5
+      },
+      {
+        "query": "negeri paling kecil",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "pdrm意思",
+        "page": "https://negaraku.md/zh/government/pdrm/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "sukma 是什么",
+        "page": "https://negaraku.md/zh/sports/sukma-games",
+        "lang": "zh",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "titiwangsa 山脉",
+        "page": "https://negaraku.md/zh/malaysia/titiwangsa-range/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 11.2
+      },
+      {
+        "query": "말레이시아 대표 음식",
+        "page": "https://negaraku.md/ko/food-lifestyle/national-dishes-of-malaysia/",
+        "lang": "ko",
+        "category": "food-lifestyle",
+        "clicks": 0,
+        "impressions": 31,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "section 24 employment act 1955",
+        "page": "https://negaraku.md/en/employment/wage-deductions-malaysia/",
+        "lang": "en",
+        "category": "employment",
+        "clicks": 1,
+        "impressions": 30,
+        "ctr": 3.3,
+        "position": 8
+      },
+      {
+        "query": "말레이시아 지형",
+        "page": "https://negaraku.md/ko/malaysia/titiwangsa-range/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 30,
+        "ctr": 3.3,
+        "position": 9.6
+      },
+      {
+        "query": "balik kampung meaning",
+        "page": "https://negaraku.md/en/glossary/balik-kampung/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 13.1
+      },
+      {
+        "query": "berhad",
+        "page": "https://negaraku.md/en/glossary/berhad-bhd/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 16.9
+      },
+      {
+        "query": "ibu negeri melaka apa",
+        "page": "https://negaraku.md/states/melaka/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "insurans perubatan dan kesihatan",
+        "page": "https://negaraku.md/healthcare/medical-insurance/",
+        "lang": "ms",
+        "category": "healthcare",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 34.6
+      },
+      {
+        "query": "melaka ibu negeri",
+        "page": "https://negaraku.md/states/melaka/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 11.3
+      },
+      {
+        "query": "mykad no คือ",
+        "page": "https://negaraku.md/th/settling-in/mykad-and-identity-documents/",
+        "lang": "th",
+        "category": "settling-in",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 5.9
+      },
+      {
+        "query": "sedition in malay",
+        "page": "https://negaraku.md/law/sedition-act/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "sime darby",
+        "page": "https://negaraku.md/id/companies/sime-darby-group/",
+        "lang": "id",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 7.5
+      },
+      {
+        "query": "sukma是什么",
+        "page": "https://negaraku.md/zh/sports/sukma-games/",
+        "lang": "zh",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "umur muhyiddin yassin 2026",
+        "page": "https://negaraku.md/malaysia/muhyiddin-yassin/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "wp kuala lumpur คือ",
+        "page": "https://negaraku.md/th/business/doing-business-kuala-lumpur",
+        "lang": "th",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "马来西亚首相历任",
+        "page": "https://negaraku.md/zh/government/prime-ministers-of-malaysia/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 5.4
+      },
+      {
+        "query": "马来西亚首相历史",
+        "page": "https://negaraku.md/zh/government/prime-ministers-of-malaysia/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 30,
+        "ctr": 0,
+        "position": 6.9
+      },
+      {
+        "query": "akta perkhidmatan kewangan 2013",
+        "page": "https://negaraku.md/finance/financial-services-act-2013/",
+        "lang": "ms",
+        "category": "finance",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 6.8
+      },
+      {
+        "query": "bila hari sukan negara 2026",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "cdl lesen 是 什么",
+        "page": "https://negaraku.md/zh/transport/driving-licence-malaysians/",
+        "lang": "zh",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "ctos",
+        "page": "https://negaraku.md/en/finance/credit-reporting-ccris-ctos-malaysia/",
+        "lang": "en",
+        "category": "finance",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 32.8
+      },
+      {
+        "query": "egumis",
+        "page": "https://negaraku.md/money-daily-life/unclaimed-moneys-egumis/",
+        "lang": "ms",
+        "category": "money-daily-life",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 18.9
+      },
+      {
+        "query": "ipts是什么",
+        "page": "https://negaraku.md/zh/education/public-vs-private-universities/",
+        "lang": "zh",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "keluasan putrajaya",
+        "page": "https://negaraku.md/states/putrajaya/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "negeri paling kecil di malaysia dari segi keluasan",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "pengkelasan b40 m40 t20",
+        "page": "https://negaraku.md/cost-of-living/b40-m40-t20-income-classification/",
+        "lang": "ms",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "quốc tịch malaysia",
+        "page": "https://negaraku.md/vi/government/malaysian-citizenship-law",
+        "lang": "vi",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "resolusi syarikat",
+        "page": "https://negaraku.md/company-secretary/special-resolution/",
+        "lang": "ms",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "share capital in malay",
+        "page": "https://negaraku.md/business/share-capital-malaysia/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 7.3
+      },
+      {
+        "query": "sukan negara bila",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "wang tidak dituntut",
+        "page": "https://negaraku.md/money-daily-life/unclaimed-moneys-egumis/",
+        "lang": "ms",
+        "category": "money-daily-life",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 31.3
+      },
+      {
+        "query": "wisma putra是什么",
+        "page": "https://negaraku.md/zh/international/malaysia-foreign-policy-wisma-putra/",
+        "lang": "zh",
+        "category": "international",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "điều kiện nhập tịch malaysia",
+        "page": "https://negaraku.md/vi/government/malaysian-citizenship-law",
+        "lang": "vi",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 7.1
+      },
+      {
+        "query": "โลจิิสติกส์ มาเลเซีย",
+        "page": "https://negaraku.md/th/industries/logistics-ports-industry/",
+        "lang": "th",
+        "category": "industries",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 33.5
+      },
+      {
+        "query": "말레이시아 공용어",
+        "page": "https://negaraku.md/ko/malaysia/languages-spoken/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 29,
+        "ctr": 0,
+        "position": 8.3
+      },
+      {
+        "query": "马来西亚历代首相",
+        "page": "https://negaraku.md/zh/government/prime-ministers-of-malaysia/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 2,
+        "impressions": 28,
+        "ctr": 7.1,
+        "position": 5.3
+      },
+      {
+        "query": "apa maksud glic",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 10.3
+      },
+      {
+        "query": "dialect group in malaysia",
+        "page": "https://negaraku.md/en/arts-culture/chinese-dialects/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 6.1
+      },
+      {
+        "query": "how big is perlis",
+        "page": "https://negaraku.md/en/states/perlis/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "jata negara",
+        "page": "https://negaraku.md/en/malaysia/coat-of-arms/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "kristang people",
+        "page": "https://negaraku.md/id/arts-culture/kristang-eurasian-culture/",
+        "lang": "id",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "lhdn badan berkanun atau kerajaan",
+        "page": "https://negaraku.md/government/lhdn/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "pdrm meaning",
+        "page": "https://negaraku.md/en/government/pdrm/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "perlis ada sultan atau tidak",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "pesta kaamatan 意思",
+        "page": "https://negaraku.md/zh/arts-culture/kaamatan/",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "rukun negara 中文",
+        "page": "https://negaraku.md/zh/malaysia/rukun-negara/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 6.3
+      },
+      {
+        "query": "マレーシア 宗教割合",
+        "page": "https://negaraku.md/ja/malaysia/religion-statistics/",
+        "lang": "ja",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "民防部队是什么",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 28,
+        "ctr": 0,
+        "position": 5.6
+      },
+      {
+        "query": "apa itu myipo",
+        "page": "https://negaraku.md/business/myipo-intellectual-property-corporation/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 1,
+        "impressions": 27,
+        "ctr": 3.7,
+        "position": 9.2
+      },
+      {
+        "query": "bunga kebangsaan malaysia",
+        "page": "https://negaraku.md/id/malaysia/bunga-raya-national-flower/",
+        "lang": "id",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 7.3
+      },
+      {
+        "query": "perlis raja atau sultan",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "putrajaya dalam negeri mana",
+        "page": "https://negaraku.md/states/putrajaya/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 8.3
+      },
+      {
+        "query": "rela是什么",
+        "page": "https://negaraku.md/zh/public-safety/rela-peoples-volunteer-corps/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "warta kerajaan maksud",
+        "page": "https://negaraku.md/glossary/warta-kerajaan/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 6.3
+      },
+      {
+        "query": "安華·依布拉欣",
+        "page": "https://negaraku.md/zh/malaysia/anwar-ibrahim/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 27,
+        "ctr": 0,
+        "position": 11.9
+      },
+      {
+        "query": "sdn bhd malaysia",
+        "page": "https://negaraku.md/id/glossary/sdn-bhd/",
+        "lang": "id",
+        "category": "glossary",
+        "clicks": 1,
+        "impressions": 26,
+        "ctr": 3.8,
+        "position": 5.1
+      },
+      {
+        "query": "apa maksud mcmc",
+        "page": "https://negaraku.md/government/mcmc-communications-multimedia-commission/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "b40 m40 t20",
+        "page": "https://negaraku.md/cost-of-living/b40-m40-t20-income-classification/",
+        "lang": "ms",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 32.4
+      },
+      {
+        "query": "bahasa kristang",
+        "page": "https://negaraku.md/arts-culture/kristang-eurasian-culture/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 10.2
+      },
+      {
+        "query": "cách nhập tịch malaysia",
+        "page": "https://negaraku.md/vi/government/malaysian-citizenship-law",
+        "lang": "vi",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "jata negara malaysia",
+        "page": "https://negaraku.md/en/malaysia/coat-of-arms/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "kpdn 是什么部门",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 8.3
+      },
+      {
+        "query": "lhdn是什么",
+        "page": "https://negaraku.md/zh/government/lhdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "naturalisation malaysia article 19 permanent resident requirement 10 of 12 years bahasa malaysia jpn kewarganegaraan naturalisasi 2026",
+        "page": "https://negaraku.md/en/government/malaysian-citizenship-law/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 8.6
+      },
+      {
+        "query": "pendapatan isi rumah b40 m40 t20",
+        "page": "https://negaraku.md/cost-of-living/b40-m40-t20-income-classification/",
+        "lang": "ms",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 6.8
+      },
+      {
+        "query": "perlembagaan 意思",
+        "page": "https://negaraku.md/zh/glossary/perlembagaan-persekutuan/",
+        "lang": "zh",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "proses melahirkan. anak di malaysia",
+        "page": "https://negaraku.md/healthcare/having-a-baby-in-malaysia/",
+        "lang": "ms",
+        "category": "healthcare",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "ssm in english",
+        "page": "https://negaraku.md/en/glossary/suruhanjaya-syarikat-malaysia/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 26,
+        "ctr": 0,
+        "position": 12.4
+      },
+      {
+        "query": "borang ac2",
+        "page": "https://negaraku.md/employment/worker-accommodation-act-446/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 1,
+        "impressions": 25,
+        "ctr": 4,
+        "position": 8.2
+      },
+      {
+        "query": "hierarki mahkamah di malaysia",
+        "page": "https://negaraku.md/government/kehakiman-mahkamah/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 1,
+        "impressions": 25,
+        "ctr": 4,
+        "position": 12.4
+      },
+      {
+        "query": "ภาษาประจําชาติมาเลเซีย",
+        "page": "https://negaraku.md/th/malaysia/languages-spoken/",
+        "lang": "th",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 25,
+        "ctr": 4,
+        "position": 8
+      },
+      {
+        "query": "马来西亚警察局报案",
+        "page": "https://negaraku.md/zh/public-safety/how-to-report-a-crime-malaysia/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 1,
+        "impressions": 25,
+        "ctr": 4,
+        "position": 7.3
+      },
+      {
+        "query": "audit majikan seksyen 83",
+        "page": "https://negaraku.md/taxation/tax-audit/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "b40 malaysia adalah",
+        "page": "https://negaraku.md/id/cost-of-living/b40-m40-t20-income-classification/",
+        "lang": "id",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 5.7
+      },
+      {
+        "query": "berhad",
+        "page": "https://negaraku.md/ko/glossary/berhad-bhd/",
+        "lang": "ko",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 29.6
+      },
+      {
+        "query": "berhad แปล",
+        "page": "https://negaraku.md/th/business/what-is-sdn-bhd/",
+        "lang": "th",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "query": "e-hailing 意味",
+        "page": "https://negaraku.md/ja/transport/e-hailing-grab/",
+        "lang": "ja",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "is putrajaya a state",
+        "page": "https://negaraku.md/en/states/putrajaya",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "iwk คือ",
+        "page": "https://negaraku.md/th/property/indah-water-sewerage/",
+        "lang": "th",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "query": "levi pekerja asing 2026",
+        "page": "https://negaraku.md/employment/foreign-worker-levy-malaysia/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 10.3
+      },
+      {
+        "query": "mykad",
+        "page": "https://negaraku.md/id/glossary/mykad/",
+        "lang": "id",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "pahang population 2026",
+        "page": "https://negaraku.md/en/states/pahang",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 7.1
+      },
+      {
+        "query": "pdb malaysia 2026",
+        "page": "https://negaraku.md/id/economy/gdp-overview/",
+        "lang": "id",
+        "category": "economy",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "sdn bhd meaning",
+        "page": "https://negaraku.md/id/glossary/sdn-bhd/",
+        "lang": "id",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "sukma games",
+        "page": "https://negaraku.md/vi/sports/sukma-games",
+        "lang": "vi",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 5.9
+      },
+      {
+        "query": "uec malaysia",
+        "page": "https://negaraku.md/en/education/unified-examination-certificate-uec/",
+        "lang": "en",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 16.9
+      },
+      {
+        "query": "wilayah persekutuan is a state or city",
+        "page": "https://negaraku.md/en/glossary/wilayah-persekutuan/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 6.3
+      },
+      {
+        "query": "yenisabah",
+        "page": "https://negaraku.md/vi/states/sabah/",
+        "lang": "vi",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 6.6
+      },
+      {
+        "query": "เทศกาลทาเดา คาอามาตัน (tadau kaamatan) เป็นเทศกาลประจำปีในรัฐใดของมาเลเซีย",
+        "page": "https://negaraku.md/th/arts-culture/kaamatan",
+        "lang": "th",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 6.4
+      },
+      {
+        "query": "马来西亚上市条件",
+        "page": "https://negaraku.md/zh/finance/initial-public-offering-malaysia/",
+        "lang": "zh",
+        "category": "finance",
+        "clicks": 0,
+        "impressions": 25,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "negeri beraja di malaysia",
+        "page": "https://negaraku.md/malaysia/nine-royal-houses/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 24,
+        "ctr": 4.2,
+        "position": 9.2
+      },
+      {
+        "query": "akta syarikat 2016 akta 777",
+        "page": "https://negaraku.md/law/companies-act-2016/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "berapakah kos yang diperlukan untuk memperoleh hak cipta",
+        "page": "https://negaraku.md/business/myipo-intellectual-property-corporation/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 6.8
+      },
+      {
+        "query": "borang 32a akta syarikat",
+        "page": "https://negaraku.md/company-secretary/share-transfer/",
+        "lang": "ms",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "eia order 2015",
+        "page": "https://negaraku.md/en/environment/environmental-impact-assessment-eia-malaysia",
+        "lang": "en",
+        "category": "environment",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 9.8
+      },
+      {
+        "query": "hari sukan negara 2026 tarikh",
+        "page": "https://negaraku.md/sports/national-sports-day-malaysia/",
+        "lang": "ms",
+        "category": "sports",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "iwk là gì",
+        "page": "https://negaraku.md/vi/property/indah-water-sewerage/",
+        "lang": "vi",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "query": "lkm jpj是什么",
+        "page": "https://negaraku.md/zh/transport/road-tax-renewal/",
+        "lang": "zh",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "lkm tu apa",
+        "page": "https://negaraku.md/transport/road-tax-renewal/",
+        "lang": "ms",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "m40",
+        "page": "https://negaraku.md/cost-of-living/b40-m40-t20-income-classification/",
+        "lang": "ms",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 34.8
+      },
+      {
+        "query": "malaysia national emblem",
+        "page": "https://negaraku.md/en/malaysia/coat-of-arms/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "melaka kumpulan a atau b",
+        "page": "https://negaraku.md/education/academic-calendar-and-school-holidays/",
+        "lang": "ms",
+        "category": "education",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "petronas là công ty gì",
+        "page": "https://negaraku.md/vi/companies/petronas/",
+        "lang": "vi",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "petronas là gì",
+        "page": "https://negaraku.md/vi/companies/petronas/",
+        "lang": "vi",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 7.3
+      },
+      {
+        "query": "pewter是什么",
+        "page": "https://negaraku.md/zh/arts-culture/pewter/",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "putrajaya under which state",
+        "page": "https://negaraku.md/en/states/putrajaya/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 14.2
+      },
+      {
+        "query": "smallest state in malaysia",
+        "page": "https://negaraku.md/en/states/perlis",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 10.8
+      },
+      {
+        "query": "statutory declaration act malaysia",
+        "page": "https://negaraku.md/en/company-secretary/statutory-declaration-malaysia/",
+        "lang": "en",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 30.9
+      },
+      {
+        "query": "warna merah bunga raya melambangkan",
+        "page": "https://negaraku.md/malaysia/bunga-raya-national-flower/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "มาเลเซียพูดภาษาอะไร",
+        "page": "https://negaraku.md/th/malaysia/languages-spoken/",
+        "lang": "th",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 10.3
+      },
+      {
+        "query": "シュリーヴィジャヤ どこ",
+        "page": "https://negaraku.md/ja/malaysia/srivijaya/",
+        "lang": "ja",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "马来西亚企业融资",
+        "page": "https://negaraku.md/zh/business/sme-financing-malaysia/",
+        "lang": "zh",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 24,
+        "ctr": 0,
+        "position": 35.4
+      },
+      {
+        "query": "\"isa 580\" \"not after\"",
+        "page": "https://negaraku.md/en/audit/management-representation-letter/",
+        "lang": "en",
+        "category": "audit",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10.8
+      },
+      {
+        "query": "aapg 2",
+        "page": "https://negaraku.md/audit/auditors-report-anatomy/",
+        "lang": "ms",
+        "category": "audit",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10.2
+      },
+      {
+        "query": "apa itu cukai jalan",
+        "page": "https://negaraku.md/transport/road-tax-renewal/",
+        "lang": "ms",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 24.7
+      },
+      {
+        "query": "beza menteri besar dan ketua menteri",
+        "page": "https://negaraku.md/glossary/menteri-besar/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 5.8
+      },
+      {
+        "query": "contract",
+        "page": "https://negaraku.md/en/business/contracts-act-malaysia/",
+        "lang": "en",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 6.1
+      },
+      {
+        "query": "fungsi dbp",
+        "page": "https://negaraku.md/arts-culture/dewan-bahasa-dan-pustaka/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "government linked investment corporation",
+        "page": "https://negaraku.md/en/companies/glcs-and-glics-in-malaysia/",
+        "lang": "en",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 26.1
+      },
+      {
+        "query": "hierarki mahkamah di malaysia",
+        "page": "https://negaraku.md/law/court-hierarchy/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10.7
+      },
+      {
+        "query": "jumlah penduduk pahang 2026",
+        "page": "https://negaraku.md/states/pahang/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "query": "kdn是什么部门",
+        "page": "https://negaraku.md/zh/government/ministry-of-home-affairs-kdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 5.5
+      },
+      {
+        "query": "kementerian kesihatan malaysia -filetype:pdf -site:tiktok.com -site:wikipedia.org -site:baidu.com -site:douyin.com -site:google.com -site:bing.com -site:youtube.com -site:alibaba.com -site:amazon.* -site:amazon.*.* -site:ebay.* -site:ubuy.* -site:ubuy.com.* -site:linkedin.* -site:facebook.*",
+        "page": "https://negaraku.md/government/ministry-of-health-moh/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10.7
+      },
+      {
+        "query": "lkm renewal is allowed only 2 months before expiry date",
+        "page": "https://negaraku.md/en/transport/road-tax-renewal/",
+        "lang": "en",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 5.5
+      },
+      {
+        "query": "maksud mcmc dalam bahasa melayu",
+        "page": "https://negaraku.md/government/mcmc-communications-multimedia-commission/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "malaysia coat of arms",
+        "page": "https://negaraku.md/en/malaysia/coat-of-arms/",
+        "lang": "en",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10.3
+      },
+      {
+        "query": "negeri terkecil di semenanjung malaysia",
+        "page": "https://negaraku.md/states/perlis/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "orang asli 是 什么",
+        "page": "https://negaraku.md/zh/arts-culture/orang-asli/",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "pahang",
+        "page": "https://negaraku.md/en/states/pahang/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 33.4
+      },
+      {
+        "query": "penyata tahunan in english",
+        "page": "https://negaraku.md/glossary/annual-return/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 10.6
+      },
+      {
+        "query": "suruhanjaya syarikat malaysia",
+        "page": "https://negaraku.md/en/government/ssm/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 32.9
+      },
+      {
+        "query": "syariah",
+        "page": "https://negaraku.md/en/glossary/syariah/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 13.6
+      },
+      {
+        "query": "tenaga nasional",
+        "page": "https://negaraku.md/ko/companies/tenaga-nasional/",
+        "lang": "ko",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 8.4
+      },
+      {
+        "query": "ตัวอักษรที่ใช้บันทึกภาษามาเลย์คืออักษรชนิดใด",
+        "page": "https://negaraku.md/th/arts-culture/jawi-script/",
+        "lang": "th",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "나집 라작",
+        "page": "https://negaraku.md/ko/malaysia/najib-razak/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 23,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "query": "9 raja raja melayu",
+        "page": "https://negaraku.md/malaysia/nine-royal-houses/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 9.4
+      },
+      {
+        "query": "akta kerja 1955 penggantungan kerja tanpa siasatan",
+        "page": "https://negaraku.md/employment/domestic-inquiry-malaysia/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "apm malaysia",
+        "page": "https://negaraku.md/public-safety/civil-defence-force-apm/",
+        "lang": "ms",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 25.4
+      },
+      {
+        "query": "asean chairmanship rotation",
+        "page": "https://negaraku.md/en/international/asean-chairmanship-mechanism/",
+        "lang": "en",
+        "category": "international",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "dialect group",
+        "page": "https://negaraku.md/en/arts-culture/chinese-dialects/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 7.4
+      },
+      {
+        "query": "e hailing 意味",
+        "page": "https://negaraku.md/ja/transport/e-hailing-grab/",
+        "lang": "ja",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "empangan hidroelektrik terbesar di malaysia",
+        "page": "https://negaraku.md/energy/hydropower-malaysia/",
+        "lang": "ms",
+        "category": "energy",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 11
+      },
+      {
+        "query": "gasing pangkah",
+        "page": "https://negaraku.md/en/arts-culture/gasing/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 8.4
+      },
+      {
+        "query": "glic dan glc maksud",
+        "page": "https://negaraku.md/companies/glcs-and-glics-in-malaysia/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "negeri yang mempunyai raja",
+        "page": "https://negaraku.md/malaysia/nine-royal-houses/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 7.3
+      },
+      {
+        "query": "orang asli意思",
+        "page": "https://negaraku.md/zh/arts-culture/orang-asli",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "pdrm是什么部门",
+        "page": "https://negaraku.md/zh/public-safety/royal-malaysia-police-pdrm/",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 10.1
+      },
+      {
+        "query": "sprm malaysia",
+        "page": "https://negaraku.md/id/glossary/suruhanjaya-pencegahan-rasuah-malaysia/",
+        "lang": "id",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 9.9
+      },
+      {
+        "query": "tnb bawah kerajaan atau swasta",
+        "page": "https://negaraku.md/companies/tenaga-nasional/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "zon perindustrian bebas",
+        "page": "https://negaraku.md/business/bayan-lepas-free-industrial-zone",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 11.1
+      },
+      {
+        "query": "มะโย่ง",
+        "page": "https://negaraku.md/th/arts-culture/mak-yong",
+        "lang": "th",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 6.7
+      },
+      {
+        "query": "大马公司委员会",
+        "page": "https://negaraku.md/zh/government/ssm/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "政府屋子申请条件",
+        "page": "https://negaraku.md/zh/property/affordable-housing-schemes/",
+        "lang": "zh",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "말레이시아 최저임금",
+        "page": "https://negaraku.md/ko/employment/minimum-wage-malaysia/",
+        "lang": "ko",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "말레이시아언어",
+        "page": "https://negaraku.md/ko/malaysia/languages-spoken/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 22,
+        "ctr": 0,
+        "position": 8.4
+      },
+      {
+        "query": "9 negeri yang ada sultan",
+        "page": "https://negaraku.md/malaysia/nine-royal-houses/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "akta umur persaraan minimum 2012 (akta 753)",
+        "page": "https://negaraku.md/employment/minimum-retirement-age-malaysia/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 6.5
+      },
+      {
+        "query": "akuan berkanun in english",
+        "page": "https://negaraku.md/en/company-secretary/statutory-declaration-malaysia/",
+        "lang": "en",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 6.2
+      },
+      {
+        "query": "api マレーシア",
+        "page": "https://negaraku.md/ja/environment/air-pollutant-index-api-malaysia/",
+        "lang": "ja",
+        "category": "environment",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "apm是什么",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "bila putrajaya ditubuhkan",
+        "page": "https://negaraku.md/states/putrajaya/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 9.5
+      },
+      {
+        "query": "dân số malaysia 2025",
+        "page": "https://negaraku.md/vi/malaysia/population-composition",
+        "lang": "vi",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 5.3
+      },
+      {
+        "query": "kwsp dan perkeso sama ke",
+        "page": "https://negaraku.md/money-daily-life/epf-socso-employees/",
+        "lang": "ms",
+        "category": "money-daily-life",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "negeri yang tiada raja",
+        "page": "https://negaraku.md/states/rulers-and-governors/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 9.4
+      },
+      {
+        "query": "ordinan nama-nama perniagaan (bab 64)",
+        "page": "https://negaraku.md/business/register-business-sarawak/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "padu",
+        "page": "https://negaraku.md/zh/cost-of-living/padu-central-database/",
+        "lang": "zh",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 5.1
+      },
+      {
+        "query": "petronas là gì",
+        "page": "https://negaraku.md/vi/companies/petronas",
+        "lang": "vi",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "seksyen 550",
+        "page": "https://negaraku.md/business/strike-off-company-malaysia/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 5.6
+      },
+      {
+        "query": "sme finance",
+        "page": "https://negaraku.md/business/sme-financing-malaysia/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 16.9
+      },
+      {
+        "query": "syarikat air",
+        "page": "https://negaraku.md/property/water-supply/",
+        "lang": "ms",
+        "category": "property",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 11.1
+      },
+      {
+        "query": "tanjung pelepas ประเทศ",
+        "page": "https://negaraku.md/th/industries/logistics-ports-industry/",
+        "lang": "th",
+        "category": "industries",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "tnb syarikat swasta atau kerajaan",
+        "page": "https://negaraku.md/companies/tenaga-nasional/",
+        "lang": "ms",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 9.6
+      },
+      {
+        "query": "wawasan 2020",
+        "page": "https://negaraku.md/malaysia/wawasan-2020/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 12.5
+      },
+      {
+        "query": "wisma putra 是 什么",
+        "page": "https://negaraku.md/zh/government/ministry-of-foreign-affairs-wisma-putra/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 5.8
+      },
+      {
+        "query": "wisma putra是什么",
+        "page": "https://negaraku.md/zh/government/ministry-of-foreign-affairs-wisma-putra/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "query": "ค่าครองชีพ มาเลเซีย",
+        "page": "https://negaraku.md/th/cost-of-living/malaysia-global-cost-of-living-rankings/",
+        "lang": "th",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "マレーシア宗教割合",
+        "page": "https://negaraku.md/ja/malaysia/religion-statistics/",
+        "lang": "ja",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "国内贸易及生活成本部",
+        "page": "https://negaraku.md/zh/government/ministry-of-domestic-trade-kpdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 8.6
+      },
+      {
+        "query": "말레이시아 대표음식",
+        "page": "https://negaraku.md/ko/food-lifestyle/national-dishes-of-malaysia",
+        "lang": "ko",
+        "category": "food-lifestyle",
+        "clicks": 0,
+        "impressions": 21,
+        "ctr": 0,
+        "position": 10.6
+      },
+      {
+        "query": "apm是什么部门",
+        "page": "https://negaraku.md/zh/public-safety/civil-defence-force-apm",
+        "lang": "zh",
+        "category": "public-safety",
+        "clicks": 1,
+        "impressions": 20,
+        "ctr": 5,
+        "position": 6.8
+      },
+      {
+        "query": "berhad",
+        "page": "https://negaraku.md/ja/glossary/berhad-bhd/",
+        "lang": "ja",
+        "category": "glossary",
+        "clicks": 1,
+        "impressions": 20,
+        "ctr": 5,
+        "position": 13.8
+      },
+      {
+        "query": "banjaran titiwangsa di mana",
+        "page": "https://negaraku.md/malaysia/titiwangsa-range/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 10.2
+      },
+      {
+        "query": "beza wau dan layang layang",
+        "page": "https://negaraku.md/arts-culture/wau/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 6.6
+      },
+      {
+        "query": "cip sprint",
+        "page": "https://negaraku.md/en/business/cradle-cip-grant/",
+        "lang": "en",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 9.3
+      },
+      {
+        "query": "dewan bahasa dan pustaka in english",
+        "page": "https://negaraku.md/en/arts-culture/dewan-bahasa-dan-pustaka/",
+        "lang": "en",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 10.4
+      },
+      {
+        "query": "dewan undangan negeri",
+        "page": "https://negaraku.md/glossary/dewan-undangan-negeri/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 17.1
+      },
+      {
+        "query": "going concern in malay",
+        "page": "https://negaraku.md/audit/going-concern-audit/",
+        "lang": "ms",
+        "category": "audit",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "jpj di bawah kementerian apa",
+        "page": "https://negaraku.md/transport/road-transport-department-jpj/",
+        "lang": "ms",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8.7
+      },
+      {
+        "query": "kaum sikh di malaysia",
+        "page": "https://negaraku.md/arts-culture/sikh-community-malaysia/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 9.8
+      },
+      {
+        "query": "lhdn malaysia adalah",
+        "page": "https://negaraku.md/id/government/lhdn/",
+        "lang": "id",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 6.1
+      },
+      {
+        "query": "lhdn是什么部门",
+        "page": "https://negaraku.md/zh/government/lhdn/",
+        "lang": "zh",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 9.2
+      },
+      {
+        "query": "luas pahang",
+        "page": "https://negaraku.md/states/pahang/",
+        "lang": "ms",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "mardi bawah kementerian apa",
+        "page": "https://negaraku.md/agriculture/mardi-agricultural-research-institute/",
+        "lang": "ms",
+        "category": "agriculture",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "miti malaysia",
+        "page": "https://negaraku.md/id/government/miti/",
+        "lang": "id",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "nisab zakat wilayah persekutuan 2026",
+        "page": "https://negaraku.md/glossary/zakat/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 10.4
+      },
+      {
+        "query": "pendapatan isi rumah m40",
+        "page": "https://negaraku.md/cost-of-living/b40-m40-t20-income-classification/",
+        "lang": "ms",
+        "category": "cost-of-living",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 10.4
+      },
+      {
+        "query": "perkara 152",
+        "page": "https://negaraku.md/law/article-152-language/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 11.7
+      },
+      {
+        "query": "perlembagaan persekutuan perkara 3",
+        "page": "https://negaraku.md/law/article-3-religion/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "petronas là công ty gì",
+        "page": "https://negaraku.md/vi/companies/petronas",
+        "lang": "vi",
+        "category": "companies",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "polis bawah kementerian apa",
+        "page": "https://negaraku.md/public-safety/royal-malaysia-police-pdrm/",
+        "lang": "ms",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 10
+      },
+      {
+        "query": "section 297 of the companies act 2016",
+        "page": "https://negaraku.md/en/company-secretary/written-resolutions/",
+        "lang": "en",
+        "category": "company-secretary",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 6.3
+      },
+      {
+        "query": "seda tu apa",
+        "page": "https://negaraku.md/energy/seda-malaysia/",
+        "lang": "ms",
+        "category": "energy",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "sektor ekonomi manakah yang menyumbang paling banyak kepada kdnk malaysia",
+        "page": "https://negaraku.md/industries/industries-overview/",
+        "lang": "ms",
+        "category": "industries",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 6
+      },
+      {
+        "query": "thuốc lá malaysia",
+        "page": "https://negaraku.md/vi/healthcare/smoking-and-vaping-law-act-852",
+        "lang": "vi",
+        "category": "healthcare",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 7.6
+      },
+      {
+        "query": "warta kerajaan maksud",
+        "page": "https://negaraku.md/glossary/warta-kerajaan",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 6.4
+      },
+      {
+        "query": "what is jpj",
+        "page": "https://negaraku.md/en/transport/road-transport-department-jpj/",
+        "lang": "en",
+        "category": "transport",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8.6
+      },
+      {
+        "query": "عدد سكان ماليزيا المسلمين",
+        "page": "https://negaraku.md/ar/malaysia/religion-statistics/",
+        "lang": "ar",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "มาเลเซีย ใช้ภาษา อะไร เป็น หลัก",
+        "page": "https://negaraku.md/th/malaysia/languages-spoken/",
+        "lang": "th",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 7.9
+      },
+      {
+        "query": "ยังดีเปอร์ตวนอากง",
+        "page": "https://negaraku.md/th/law/yang-di-pertuan-agong-and-conference-of-rulers/",
+        "lang": "th",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 7
+      },
+      {
+        "query": "ジョホール王",
+        "page": "https://negaraku.md/ja/malaysia/johor-riau-sultanate",
+        "lang": "ja",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8.5
+      },
+      {
+        "query": "马来西亚上市服务",
+        "page": "https://negaraku.md/zh/finance/initial-public-offering-malaysia/",
+        "lang": "zh",
+        "category": "finance",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 25.6
+      },
+      {
+        "query": "말라야 연방",
+        "page": "https://negaraku.md/ko/malaysia/malayan-union/",
+        "lang": "ko",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 8
+      },
+      {
+        "query": "马来传统乐器",
+        "page": "https://negaraku.md/zh/arts-culture/traditional-musical-instruments/",
+        "lang": "zh",
+        "category": "arts-culture",
+        "clicks": 3,
+        "impressions": 19,
+        "ctr": 15.8,
+        "position": 6.1
+      },
+      {
+        "query": "perkeso vs kwsp",
+        "page": "https://negaraku.md/money-daily-life/epf-socso-employees/",
+        "lang": "ms",
+        "category": "money-daily-life",
+        "clicks": 1,
+        "impressions": 19,
+        "ctr": 5.3,
+        "position": 8.8
+      },
+      {
+        "query": "马来西亚有几个苏丹",
+        "page": "https://negaraku.md/zh/malaysia/nine-royal-houses/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 1,
+        "impressions": 19,
+        "ctr": 5.3,
+        "position": 9.1
+      },
+      {
+        "query": "apa itu kelantan",
+        "page": "https://negaraku.md/id/states/kelantan/",
+        "lang": "id",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 5
+      },
+      {
+        "query": "apm bawah kementerian apa",
+        "page": "https://negaraku.md/public-safety/civil-defence-force-apm/",
+        "lang": "ms",
+        "category": "public-safety",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.8
+      },
+      {
+        "query": "berapa tempoh yang diperuntukkan kepada pengawal data untuk melaksanakan pemberitahuan pelanggaran data (dbn) kepada pesuruhjaya apabila insiden melibatkan atau berkemungkinan mengakibatkan kemudaratan yang ketara?",
+        "page": "https://negaraku.md/business/data-breach-notification-malaysia/",
+        "lang": "ms",
+        "category": "business",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "borang pk",
+        "page": "https://negaraku.md/employment/retrenchment-malaysia/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.6
+      },
+      {
+        "query": "companies commission of malaysia",
+        "page": "https://negaraku.md/en/government/ssm/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 16.5
+      },
+      {
+        "query": "dun maksud",
+        "page": "https://negaraku.md/glossary/dewan-undangan-negeri/",
+        "lang": "ms",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 7.8
+      },
+      {
+        "query": "fungsi wisma putra",
+        "page": "https://negaraku.md/government/ministry-of-foreign-affairs-wisma-putra/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 8.8
+      },
+      {
+        "query": "how big is pahang",
+        "page": "https://negaraku.md/en/states/pahang/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9
+      },
+      {
+        "query": "is wilayah persekutuan a state",
+        "page": "https://negaraku.md/en/glossary/wilayah-persekutuan/",
+        "lang": "en",
+        "category": "glossary",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "kementerian pendidikan malaysia",
+        "page": "https://negaraku.md/en/government/ministry-of-education-moe/",
+        "lang": "en",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.1
+      },
+      {
+        "query": "kenaikan cukai sek 107(c)9",
+        "page": "https://negaraku.md/taxation/form-c-and-cp204/",
+        "lang": "ms",
+        "category": "taxation",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 8.2
+      },
+      {
+        "query": "konfrontasi 意思",
+        "page": "https://negaraku.md/zh/malaysia/konfrontasi/",
+        "lang": "zh",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 10.3
+      },
+      {
+        "query": "maksud bunga raya",
+        "page": "https://negaraku.md/malaysia/bunga-raya-national-flower/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.7
+      },
+      {
+        "query": "negeri yang ada raja di malaysia",
+        "page": "https://negaraku.md/malaysia/nine-royal-houses/",
+        "lang": "ms",
+        "category": "malaysia",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 8.1
+      },
+      {
+        "query": "orang kristang",
+        "page": "https://negaraku.md/arts-culture/kristang-eurasian-culture/",
+        "lang": "ms",
+        "category": "arts-culture",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.8
+      },
+      {
+        "query": "paternity leave meaning in malay",
+        "page": "https://negaraku.md/employment/paternity-leave-malaysia/",
+        "lang": "ms",
+        "category": "employment",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.4
+      },
+      {
+        "query": "peranan wisma putra",
+        "page": "https://negaraku.md/government/ministry-of-foreign-affairs-wisma-putra/",
+        "lang": "ms",
+        "category": "government",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 8.9
+      },
+      {
+        "query": "perkara 3 dalam perlembagaan persekutuan",
+        "page": "https://negaraku.md/law/article-3-religion/",
+        "lang": "ms",
+        "category": "law",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 8.4
+      },
+      {
+        "query": "putrajaya is under which state",
+        "page": "https://negaraku.md/en/states/putrajaya/",
+        "lang": "en",
+        "category": "states",
+        "clicks": 0,
+        "impressions": 19,
+        "ctr": 0,
+        "position": 9.2
       }
     ]
   }
