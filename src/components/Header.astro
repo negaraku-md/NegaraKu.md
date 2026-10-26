@@ -657,6 +657,27 @@ const NAV_GROUPS = [
       height: 2px;
       background: var(--ink);
     }
+    /* The menu is toggled by a checkbox the label drives. `display:none` (above)
+       removes it from the tab order, so keyboard users could never open the mobile
+       nav. At menu widths, keep it visually hidden but focusable (1px, opacity 0,
+       no pointer surface — the label still handles clicks) and surface a focus ring
+       on the hamburger when it is keyboard-focused. */
+    .nav-toggle {
+      display: block;
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      opacity: 0;
+      pointer-events: none;
+    }
+    .nav-toggle:focus-visible + .hamburger {
+      outline: 3px solid var(--gold);
+      outline-offset: 2px;
+      border-radius: 6px;
+    }
     .nav {
       display: none;
       position: absolute;

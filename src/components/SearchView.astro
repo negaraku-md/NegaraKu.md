@@ -21,6 +21,16 @@ const I18N = {
   rows: L('Baris', 'Rows', '每页', 'வரிசைகள்', '行', '행', 'แถว', 'Hàng', 'Baris', 'الصفوف', 'पंक्तियाँ', 'Filas', "Lignes"),
   page: L('Halaman', 'Page', '第', 'பக்கம்', 'ページ', '페이지', 'หน้า', 'Trang', 'Halaman', 'صفحة', 'पृष्ठ', 'Página', "Page"),
 };
+
+// Accessible names for the icon-only pager controls (the glyphs « ‹ › » carry no
+// meaningful text for assistive tech).
+const pg = {
+  first: L('Halaman pertama', 'First page', '第一页', 'முதல் பக்கம்', '最初のページ', '첫 페이지', 'หน้าแรก', 'Trang đầu', 'Halaman pertama', 'الصفحة الأولى', 'पहला पृष्ठ', 'Primera página', 'Première page'),
+  prev: L('Halaman sebelumnya', 'Previous page', '上一页', 'முந்தைய பக்கம்', '前のページ', '이전 페이지', 'หน้าก่อนหน้า', 'Trang trước', 'Halaman sebelumnya', 'الصفحة السابقة', 'पिछला पृष्ठ', 'Página anterior', 'Page précédente'),
+  next: L('Halaman seterusnya', 'Next page', '下一页', 'அடுத்த பக்கம்', '次のページ', '다음 페이지', 'หน้าถัดไป', 'Trang sau', 'Halaman berikutnya', 'الصفحة التالية', 'अगला पृष्ठ', 'Página siguiente', 'Page suivante'),
+  last: L('Halaman terakhir', 'Last page', '最后一页', 'கடைசி பக்கம்', '最後のページ', '마지막 페이지', 'หน้าสุดท้าย', 'Trang cuối', 'Halaman terakhir', 'الصفحة الأخيرة', 'अंतिम पृष्ठ', 'Última página', 'Dernière page'),
+  pageNum: L('Nombor halaman', 'Page number', '页码', 'பக்க எண்', 'ページ番号', '페이지 번호', 'หมายเลขหน้า', 'Số trang', 'Nomor halaman', 'رقم الصفحة', 'पृष्ठ संख्या', 'Número de página', 'Numéro de page'),
+};
 ---
 
 <PageHero
@@ -68,11 +78,11 @@ const I18N = {
       <span class="pg-count"></span>
     </div>
     <div class="pg-nav">
-      <button class="pg-first" title="«">«</button>
-      <button class="pg-prev" title="‹">‹</button>
-      <span class="pg-of">{I18N.page} <input class="pg-no" type="number" min="1" value="1" /> / <span class="pg-total">1</span></span>
-      <button class="pg-next" title="›">›</button>
-      <button class="pg-last" title="»">»</button>
+      <button type="button" class="pg-first" aria-label={pg.first} title={pg.first}>«</button>
+      <button type="button" class="pg-prev" aria-label={pg.prev} title={pg.prev}>‹</button>
+      <span class="pg-of">{I18N.page} <input class="pg-no" type="number" min="1" value="1" aria-label={pg.pageNum} /> / <span class="pg-total">1</span></span>
+      <button type="button" class="pg-next" aria-label={pg.next} title={pg.next}>›</button>
+      <button type="button" class="pg-last" aria-label={pg.last} title={pg.last}>»</button>
     </div>
   </div>
 
@@ -88,11 +98,11 @@ const I18N = {
       <span class="pg-count"></span>
     </div>
     <div class="pg-nav">
-      <button class="pg-first" title="«">«</button>
-      <button class="pg-prev" title="‹">‹</button>
-      <span class="pg-of">{I18N.page} <input class="pg-no" type="number" min="1" value="1" /> / <span class="pg-total">1</span></span>
-      <button class="pg-next" title="›">›</button>
-      <button class="pg-last" title="»">»</button>
+      <button type="button" class="pg-first" aria-label={pg.first} title={pg.first}>«</button>
+      <button type="button" class="pg-prev" aria-label={pg.prev} title={pg.prev}>‹</button>
+      <span class="pg-of">{I18N.page} <input class="pg-no" type="number" min="1" value="1" aria-label={pg.pageNum} /> / <span class="pg-total">1</span></span>
+      <button type="button" class="pg-next" aria-label={pg.next} title={pg.next}>›</button>
+      <button type="button" class="pg-last" aria-label={pg.last} title={pg.last}>»</button>
     </div>
   </div>
 
