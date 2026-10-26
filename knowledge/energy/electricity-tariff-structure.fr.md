@@ -17,7 +17,7 @@ keyTakeaways:
   - "Le tarif de base moyen sous RP4 est de 45.40 sen/kWh, en vigueur pour le nouveau tarif depuis le 1er juillet 2025 ; la période réglementaire RP4 elle-même court de janvier 2025 à décembre 2027."
   - "Les factures domestiques comportent désormais cinq composantes : redevances d'Énergie, de Capacité, de Réseau, de Détail et AFA."
   - "La Redevance d'énergie domestique est de 27.03 sen/kWh pour la consommation jusqu'à 1,500 kWh et de 37.03 sen/kWh pour l'excédent au-delà."
-  - "L'AFA remplace l'ICPT et est calculé mensuellement ; par exemple, l'AFA d'août 2025 a été fixé par la Commission de l'énergie à -1.45 sen/kWh (un remboursement), avec un plafond de fluctuation de ±3 sen/kWh."
+  - "L'AFA remplace l'ICPT et est calculé mensuellement ; par exemple, l'AFA d'août 2025 a été fixé par la Commission de l'énergie à -1.45 sen/kWh (un remboursement). Les hausses mensuelles de l'AFA sont plafonnées à 3 sen/kWh — toute hausse au-delà de ce plafond nécessite l'approbation du Cabinet."
 appliesTo: "Consommateurs domestiques d'électricité de TNB en Malaisie péninsulaire qui souhaitent comprendre leur facture mensuelle."
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "Non. La Redevance de détail mensuelle de RM10 est exonérée pour les foyers consommant 600 kWh ou moins par mois."
 
 lang: "fr"
-sourceContentHash: "b885e498c8215018"
+sourceContentHash: "7346638db9f1ac3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ verificationNeeded:
   - "Les tarifs par plage horaire (pointe 28.52 / heures creuses 24.43 sen/kWh) et les fenêtres horaires de pointe et creuses — à confirmer auprès du barème ToU officiel ST/TNB (The Time-of-Use rates (peak 28.52 / off-peak 24.43 sen/kWh) and the peak and off-peak time windows — confirm against the official ST/TNB ToU schedule.)"
   - "L'AFA change chaque mois ; -1.45 sen/kWh n'est valable que pour août 2025 — les consommateurs doivent vérifier la valeur du mois en cours annoncée par la Commission de l'énergie (Suruhanjaya Tenaga) (AFA berubah setiap bulan; -1.45 sen/kWj hanya sah untuk Ogos 2025 — pengguna perlu menyemak nilai bulan semasa yang diumumkan Suruhanjaya Tenaga.)"
   - "Le remboursement de l'Incitation à l'efficacité énergétique (Energy Efficiency Incentive, EEI) pouvant atteindre 25 sen/kWh pour une consommation ≤1,000 kWh et l'exonération de la Redevance de détail de RM10 pour ≤600 kWh — confirmer les conditions et les taux auprès des documents officiels ST (The Energy Efficiency Incentive (EEI) rebate of up to 25 sen/kWh for consumption ≤1,000 kWh and the RM10 Retail Charge exemption for ≤600 kWh — confirm the conditions and rates against official ST documents.)"
-  - "Le plafond de fluctuation de l'AFA de ±3 sen/kWh par mois — à confirmer auprès des documents réglementaires officiels RP4 (Had turun naik AFA ±3 sen/kWj sebulan — sahkan terhadap dokumen kawal selia RP4 rasmi.)"
 
 updated: 2026-08-01
 sources:
@@ -112,7 +111,7 @@ Deux formes d'aide importantes réduisent la facture d'un foyer typique :
 
 ## Qu'est-ce que l'AFA et en quoi diffère-t-il de l'ICPT ?
 
-L'AFA ajuste votre tarif chaque mois en fonction des prix mondiaux du combustible et du taux de change, remplaçant la révision semestrielle de l'ICPT. Il peut s'agir soit d'une redevance supplémentaire, soit d'un remboursement, avec un plafond de fluctuation de ±3 sen/kWh par mois. Par exemple, la Commission de l'énergie a fixé l'AFA d'août 2025 à -1.45 sen/kWh — un remboursement qui réduit la facture. Comme cette valeur change chaque mois, consultez la valeur AFA actuelle annoncée par la Commission de l'énergie.
+L'AFA ajuste votre tarif chaque mois en fonction des prix mondiaux du combustible et du taux de change, remplaçant la révision semestrielle de l'ICPT. Il peut s'agir soit d'une redevance supplémentaire, soit d'un remboursement ; les hausses mensuelles de l'AFA sont plafonnées à 3 sen/kWh, et toute hausse au-delà de ce plafond nécessite l'approbation du Cabinet (les remboursements ne sont pas liés à ce plafond). Par exemple, la Commission de l'énergie a fixé l'AFA d'août 2025 à -1.45 sen/kWh — un remboursement qui réduit la facture. Comme cette valeur change chaque mois, consultez la valeur AFA actuelle annoncée par la Commission de l'énergie.
 
 ## Devriez-vous choisir le tarif par plage horaire (Time-of-Use) ?
 

@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "industry"
 sensitivity: "none"
 
-answer: "Ngành sự kiện kinh doanh của Malaysia được điều phối trên toàn quốc bởi Cục Hội nghị & Triển lãm Malaysia (Malaysia Convention & Exhibition Bureau, MyCEB), một cơ quan trực thuộc Bộ Du lịch, Nghệ thuật và Văn hóa, đấu thầu và hỗ trợ tổ chức các hội họp, chương trình khen thưởng, hội nghị, triển lãm và sự kiện thể thao quốc tế. MyCEB báo cáo rằng Malaysia đã tổ chức 3,105 sự kiện kinh doanh thu hút 3,223,491 đại biểu quốc tế và tạo ra tác động kinh tế ước tính RM20.18 tỷ kể từ năm 2009. Lĩnh vực này được củng cố bởi các địa điểm được xây dựng chuyên biệt như Kuala Lumpur Convention Centre, Malaysia International Trade & Exhibition Centre (MITEC), và Borneo Convention Centre Kuching, đang được mở rộng để phục vụ Đông Malaysia."
+answer: "Ngành sự kiện kinh doanh của Malaysia được điều phối trên toàn quốc bởi Cục Hội nghị & Triển lãm Malaysia (Malaysia Convention & Exhibition Bureau, MyCEB), một cơ quan trực thuộc Bộ Du lịch, Nghệ thuật và Văn hóa, đấu thầu và hỗ trợ tổ chức các hội họp, chương trình khen thưởng, hội nghị, triển lãm và sự kiện thể thao quốc tế. MyCEB báo cáo rằng Malaysia đã tổ chức 3,105 sự kiện kinh doanh thu hút 3,223,491 đại biểu (1,656,942 trong số đó là quốc tế) và tạo ra tác động kinh tế ước tính RM20.18 tỷ kể từ năm 2009. Lĩnh vực này được củng cố bởi các địa điểm được xây dựng chuyên biệt như Kuala Lumpur Convention Centre, Malaysia International Trade & Exhibition Centre (MITEC), và Borneo Convention Centre Kuching, đang được mở rộng để phục vụ Đông Malaysia."
 keyTakeaways:
   - "MyCEB, một cơ quan trực thuộc Bộ Du lịch, Nghệ thuật và Văn hóa (MOTAC), là cục hội nghị trung ương của Malaysia cho các sự kiện kinh doanh và thể thao quốc tế."
-  - "Kể từ năm 2009, MyCEB báo cáo 3,105 sự kiện kinh doanh, 3,223,491 đại biểu quốc tế và tác động kinh tế ước tính RM20.18 tỷ."
+  - "Kể từ năm 2009, MyCEB báo cáo 3,105 sự kiện kinh doanh, 3,223,491 đại biểu (1,656,942 trong số đó là quốc tế) và tác động kinh tế ước tính RM20.18 tỷ."
   - "MITEC, khai trương năm 2016, có 11 đại sảnh triển lãm và 52,000 mét vuông không gian triển lãm; CIDB ghi nhận một không gian không cột rộng 12,530 mét vuông bên trong."
   - "Borneo Convention Centre Kuching đang bổ sung một tòa nhà thứ hai (BCCK2) với đại sảnh chính rộng 5,936 mét vuông có sức chứa tới 9,500 người, dự kiến hoàn thành vào năm 2028."
 appliesTo: "Nhà tổ chức sự kiện, hiệp hội, nhà tổ chức triển lãm, người mua chương trình khen thưởng doanh nghiệp và nhà nghiên cứu đánh giá Malaysia như một điểm đến MICE."
@@ -24,14 +24,14 @@ faq:
   - q: "MyCEB là gì và làm những việc gì?"
     a: "Cục Hội nghị & Triển lãm Malaysia (Malaysia Convention & Exhibition Bureau, MyCEB) là cục hội nghị quốc gia trực thuộc Bộ Du lịch, Nghệ thuật và Văn hóa. Cơ quan này hoạt động như một trung tâm một cửa giúp các nhà tổ chức hội họp và sự kiện đấu thầu, giành được và tổ chức các hội nghị, triển lãm, hội họp doanh nghiệp, chuyến đi khen thưởng và sự kiện thể thao quốc tế tại Malaysia."
   - q: "Lĩnh vực sự kiện kinh doanh của Malaysia lớn đến mức nào?"
-    a: "MyCEB báo cáo rằng kể từ năm 2009, Malaysia đã tổ chức 3,105 sự kiện kinh doanh, thu hút 3,223,491 đại biểu quốc tế và tạo ra tác động kinh tế ước tính RM20.18 tỷ."
+    a: "MyCEB báo cáo rằng kể từ năm 2009, Malaysia đã tổ chức 3,105 sự kiện kinh doanh, thu hút 3,223,491 đại biểu (1,656,942 trong số đó là quốc tế) và tạo ra tác động kinh tế ước tính RM20.18 tỷ."
   - q: "Các địa điểm hội nghị và triển lãm chính của Malaysia là gì?"
     a: "Kuala Lumpur Convention Centre (KLCC) nằm trong khu thương mại trung tâm của thủ đô; MITEC, gần Dutamas ở KL Metropolis, là địa điểm triển lãm lớn nhất của đất nước; và Borneo Convention Centre Kuching phục vụ Sarawak và Đông Malaysia."
   - q: "Địa điểm triển lãm lớn nhất của Malaysia là gì?"
     a: "MITEC, tức Malaysia International Trade & Exhibition Centre, khai trương năm 2016 với 11 đại sảnh triển lãm và 52,000 mét vuông không gian triển lãm. CIDB ghi nhận một khu vực không cột rộng 12,530 mét vuông bên trong tòa nhà."
 
 lang: "vi"
-sourceContentHash: "25f7bdfa80a0bc8e"
+sourceContentHash: "32e28b750d1e2860"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -42,7 +42,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "MyCEB gắn nhãn con số RM20.18 tỷ là 'Estimated Economic Impact' (Tác động Kinh tế Ước tính) trên trang chủ của mình, nơi cũng hiển thị một con số riêng biệt được gắn nhãn mơ hồ (1,656,942); hãy xác nhận nhãn và giá trị dự định trực tiếp với MyCEB."
   - "Các số liệu của The Meetings Show London (6,625 đại biểu, RM116 triệu, 2017–2023) lấy từ một thông cáo báo chí của MyCEB và chưa được truy xuất lại trong đợt hiệu đính này; hãy xác nhận trước khi dựa vào chúng."
   - "Khu vực không cột rộng 12,530 mét vuông của MITEC (theo CIDB) nằm trong — chứ không phải cộng thêm vào — tổng không gian triển lãm 52,000 mét vuông được nêu trên trang chính thức của MITEC; hãy xác nhận mối quan hệ giữa hai con số."
   - "Tổng không gian triển lãm khác nhau tùy nguồn: trang chính thức của MITEC nêu 52,000 mét vuông, trong khi CIDB mô tả 'một triệu bộ vuông' (~92,900 mét vuông), có thể là diện tích sàn gộp so với diện tích triển lãm ròng; hãy xác nhận cơ sở nào được áp dụng."
@@ -98,7 +97,8 @@ Quy mô mà cục báo cáo là đáng kể. Kể từ năm 2009, MyCEB cho bi�
 | Chỉ số (kể từ 2009) | Con số |
 | --- | --- |
 | Sự kiện kinh doanh được tổ chức | 3,105 |
-| Đại biểu quốc tế | 3,223,491 |
+| Đại biểu (tổng cộng) | 3,223,491 |
+| Đại biểu quốc tế | 1,656,942 |
 | Tác động kinh tế ước tính | RM20.18 tỷ |
 
 Một khung thời gian hẹp hơn cho thấy việc tham gia đều đặn mang lại hiệu quả như thế nào: MyCEB báo cáo rằng từ năm 2017 đến 2023, riêng sự hiện diện của cục tại The Meetings Show ở London đã giúp mang lại 6,625 đại biểu với tác động kinh tế ước tính RM116 triệu.

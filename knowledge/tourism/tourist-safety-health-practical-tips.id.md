@@ -31,7 +31,7 @@ faq:
     a: "Tiada persyaratan vaksin masuk universal, tetapi CDC Amerika Serikat menasihati wisatawan agar terkini dengan vaksin rutin dan mempertimbangkan hepatitis A dan tifoid; bahas pil rabies, ensefalitis Jepang dan malaria dengan klinik perjalanan berdasarkan rencana perjalanan Anda."
 
 lang: "id"
-sourceContentHash: "e99fd08a031d5f4f"
+sourceContentHash: "d1207a56295ee523"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Denda RM50,000 / penjara sampai satu tahun bagi panggilan 999 palsu (dikaitkan dengan Section 233 Communications and Multimedia Act 1998 di civildefence.gov.my) — verifikasi pasal dan jumlah terhadap statut saat ini sebelum penerbitan."
   - "Apakah batas dua SIM setiap telco dan masa berlaku SIM wisatawan tiga bulan berlaku sepenuhnya pada tanggal perjalanan pengunjung (standar mandatori MCMC didaftarkan pada 26 Februari 2026; verifikasi tanggal penguatkuasaan/berlakunya)."
   - "Aturan dokumen pendaftaran SIM di luar 'paspor asli / verifikasi biometrik' — sumber yang dikutip tidak membahas apakah fotokopi atau pindaian pernah diterima; verifikasi dengan setiap telco jika berkaitan."
   - "Gangguan operasi perahu dan resort pulau pantai timur selama Monsun Timur Laut adalah panduan perjalanan umum, tidak dinyatakan dalam sumber MET Malaysia yang dikutip; verifikasi jadwal operator secara langsung."
@@ -80,7 +79,7 @@ Anda baru mendarat, Anda kelelahan akibat jet lag, dan ponsel Anda tidak menunju
 
 ## Nomor apa yang perlu saya hubungi dalam keadaan darurat?
 
-**999.** Malaysia mengoperasikan satu saluran terpadu tunggal yang disebut Sistem Respons Darurat Malaysia (MERS), yang menggabungkan nomor lama 991, 994 dan 999 menjadi satu ketika ia diluncurkan pada 1 Oktober 2007. Satu panggilan menghubungi polisi (PDRM), layanan ambulans di bawah Kementerian Kesehatan, Jabatan Bomba dan Penyelamat (JBPM), serta Angkatan Pertahanan Sipil (JPAM). Panggilan gratis. Panggilan iseng atau palsu adalah sebuah pelanggaran: Angkatan Pertahanan Sipil menyatakan bahwa di bawah Pasal 233 [Communications and Multimedia Act 1998](/id/law/communications-and-multimedia-act-1998), panggilan palsu dapat membawa denda sampai RM50,000, penjara sampai satu tahun, atau keduanya — jadi gunakan hanya untuk keadaan darurat yang sebenarnya.
+**999.** Malaysia mengoperasikan satu saluran terpadu tunggal yang disebut Sistem Respons Darurat Malaysia (MERS), yang menggabungkan nomor lama 991, 994 dan 999 menjadi satu ketika ia diluncurkan pada 1 Oktober 2007. Satu panggilan menghubungi polisi (PDRM), layanan ambulans di bawah Kementerian Kesehatan, Jabatan Bomba dan Penyelamat (JBPM), serta Angkatan Pertahanan Sipil (JPAM). Panggilan gratis. Panggilan iseng atau palsu adalah sebuah pelanggaran: Angkatan Pertahanan Sipil menyatakan bahwa di bawah Pasal 233 [Communications and Multimedia Act 1998](/id/law/communications-and-multimedia-act-1998) — sebagaimana diamendemen pada 2025, berlaku 11 Februari 2025 — panggilan palsu dapat membawa denda sampai RM500,000, penjara sampai dua tahun, atau keduanya, dengan tambahan RM5,000 untuk setiap hari pelanggaran yang berlanjut — jadi gunakan hanya untuk keadaan darurat yang sebenarnya.
 
 Simpan 999 di ponsel Anda sebelum Anda memerlukannya.
 

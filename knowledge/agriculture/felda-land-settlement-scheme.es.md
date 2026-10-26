@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (ahora FGV Holdings) es el brazo de inversión que gestiona las plantaciones de FELDA. Cotizó en Bursa Malaysia el 28 de junio de 2012 y, en el momento de la OPV, gestionaba alrededor de 500,000 hectáreas trabajadas por unos 112,600 colonos."
 
 lang: "es"
-sourceContentHash: "dea25bf8a34a057f"
+sourceContentHash: "827c6da5e0f2c397"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ Imagine a una familia pobre trasladada a un bosque recién desbrozado, a la que 
 
 La Autoridad Federal de Desarrollo de Tierras (FELDA) se estableció el **1 de julio de 1956** en virtud de la **Ordenanza de Desarrollo de Tierras de 1956**. Esa ordenanza se revisó posteriormente en 1991 y fue sustituida por la **Ley de Desarrollo de Tierras de 1956 (Act 474)**. Su objetivo era claro y urgente en los primeros años de la independencia: erradicar la pobreza rural abriendo tierras nuevas para la agricultura y asentando a familias pobres como colonos.
 
-El esquema fue la respuesta política de la primera era posterior a la independencia a los problemas de tierra y pobreza que atenazaban a las comunidades rurales. El primer esquema, el **Esquema de Desarrollo de Tierras de Air Lanas, en Kelantan**, se abrió en **marzo de 1957** y asentó a unos 400 colonos en 1,680 hectáreas. De esa semilla, FELDA creció hasta convertirse en uno de los mayores programas de reasentamiento rural del mundo.
+El esquema fue la respuesta política de la primera era posterior a la independencia a los problemas de tierra y pobreza que atenazaban a las comunidades rurales. El primer esquema, el **Esquema de Desarrollo de Tierras de Air Lanas, en Kelantan**, se abrió en **marzo de 1957** y asentó a unos 400 colonos en 1,620 hectáreas. De esa semilla, FELDA creció hasta convertirse en uno de los mayores programas de reasentamiento rural del mundo.
 
 En esta etapa temprana, FELDA actuaba solo como un intermediario que canalizaba fondos del Gobierno Federal a los esquemas de tierras de los gobiernos estatales. Abrió su **propio** esquema de tierras por primera vez en **Lurah Bilut, Pahang, en 1958** — un esquema de caucho de 2,631 hectáreas que asentó a 616 colonos. Unos años después, FELDA abrió su primer esquema de tierras de palma aceitera, **FELDA Taib Andak, en Kulai, Johor, en 1961**, que abarcaba 3,385 hectáreas con 628 colonos. Según el Libro Blanco de FELDA de 2019, a lo largo de seis décadas FELDA desarrolló alrededor de **870,000 hectáreas** (incluidas plantaciones comerciales y zonas de aldea) y asentó a **112,635 colonos en 317 esquemas de tierras**.
 
@@ -116,7 +116,7 @@ A continuación, los acontecimientos clave en el desarrollo de FELDA:
 | Año | Acontecimiento |
 | --- | --- |
 | 1956 | FELDA establecida (1 de julio) en virtud de la Ordenanza de Desarrollo de Tierras de 1956 (más tarde Act 474) |
-| 1957 | Primer esquema, Esquema de Air Lanas, Kelantan (marzo) — unos 400 colonos, 1,680 hectáreas |
+| 1957 | Primer esquema, Esquema de Air Lanas, Kelantan (marzo) — unos 400 colonos, 1,620 hectáreas |
 | 1958 | Primer esquema de tierra propio, Lurah Bilut, Pahang — 2,631 hectáreas de caucho, 616 colonos |
 | 1961 | Primer esquema de tierra de palma aceitera, FELDA Taib Andak, Johor — 3,385 hectáreas, 628 colonos |
 | 1988 | Introducción de la Política de Ingreso Mínimo de los Colonos |

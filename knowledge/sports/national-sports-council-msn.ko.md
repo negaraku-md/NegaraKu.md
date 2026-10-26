@@ -27,7 +27,7 @@ faq:
   - q: "MSN은 어디에 있습니까?"
     a: "쿠알라룸푸르 부킷잘릴의 국가체육단지(Kompleks Sukan Negara), 57000 Sri Petaling, Kuala Lumpur에 있습니다. 또한 여러 다른 주에도 훈련 단지를 운영합니다."
 lang: "ko"
-sourceContentHash: "d519f370c717d10a"
+sourceContentHash: "80305dfafe9710fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -45,7 +45,7 @@ revisions:
 verificationNeeded:
   - "공식 비전(Visi)과 미션(Misi)의 원문 그대로의 문구 — nsc.gov.my는 이를 이미지로만 게시하므로, 인용에 앞서 OCR 또는 직접 판독이 필요함."
   - "국가스포츠원(Institut Sukan Negara, ISN) 설립 연도와 MSN 대 ISN의 정확한 업무 분담(MSN의 프로그램 운영 대 ISN의 경기력/스포츠과학) — 1차 자료로 아직 확인되지 않음."
-  - "2026년 현재 사무총장 — 위키백과는 아마드 샤파위 이스마일(Ahmad Shapawi Ismail)을 기재하고 있으나, 현직으로 취급하기 전에 nsc.gov.my를 통해 여전히 재직 중인지 확인 필요."
+  - "고위 직책 보유자는 부처 개편에 따라 바뀜; 현직으로 취급하기 전에 현재 사무총장과 차장을 nsc.gov.my를 통해 재확인할 것."
   - "이 법에 따라 조정되는 주 체육위원회(Majlis Sukan Negeri)의 수와 명칭 — 1차 목록으로 아직 확인되지 않음."
   - "부차적 페이지의 요약된 기능이 아니라, 법 자체에서 정한 위원회 기능의 완전한 법정 원문 목록."
 updated: 2026-08-14
@@ -87,7 +87,7 @@ MSN은 **국가체육위원회법(National Sports Council of Malaysia Act 1971)*
 
 | 직책 | 담당자 |
 | --- | --- |
-| 사무총장 | Ahmad Shapawi Ismail |
+| 사무총장 | Arrifin Mohd Ghani (2026년 10월 15일부터) |
 | 청소년체육부 장관 | Hannah Yeoh |
 | 차관 | Adam Adli |
 

@@ -27,7 +27,7 @@ faq:
   - q: "MSN đặt trụ sở ở đâu?"
     a: "Tại Khu phức hợp Thể thao Quốc gia (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Nó cũng vận hành các khu phức hợp huấn luyện ở một số bang khác."
 lang: "vi"
-sourceContentHash: "d519f370c717d10a"
+sourceContentHash: "80305dfafe9710fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -45,7 +45,7 @@ revisions:
 verificationNeeded:
   - "Văn bản Tầm nhìn (Visi) và Sứ mệnh (Misi) chính thức nguyên văn — nsc.gov.my chỉ công bố chúng dưới dạng hình ảnh; cần OCR hoặc đọc trực tiếp trước khi trích dẫn."
   - "Năm thành lập Institut Sukan Negara (ISN) và sự phân chia công việc chính xác giữa MSN và ISN (quản lý chương trình bởi MSN so với thành tích/khoa học thể thao bởi ISN) — chưa được xác nhận đối chiếu với một nguồn gốc."
-  - "Tổng Giám đốc hiện tại tính đến năm 2026 — Wikipedia liệt kê Ahmad Shapawi Ismail; xác nhận ông vẫn giữ chức vụ qua nsc.gov.my trước khi coi là hiện tại."
+  - "Những người giữ chức vụ cấp cao thay đổi theo các đợt cải tổ bộ; xác nhận lại Tổng Giám đốc và các cấp phó hiện tại đối chiếu với nsc.gov.my trước khi coi là cập nhật."
   - "Số lượng và tên của các hội đồng thể thao cấp bang (Majlis Sukan Negeri) được điều phối theo Luật — chưa được xác nhận từ một danh sách gốc."
   - "Danh sách luật định nguyên văn đầy đủ về các chức năng của Hội đồng từ chính Luật, khác với các chức năng được diễn giải trên các trang thứ cấp."
 updated: 2026-08-14
@@ -87,7 +87,7 @@ Sau đó nó được **tái cơ cấu vào năm 1981**, sau đó nó mở rộn
 
 | Vai trò | Người đảm nhiệm |
 | --- | --- |
-| Tổng Giám đốc | Ahmad Shapawi Ismail |
+| Tổng Giám đốc | Arrifin Mohd Ghani (từ ngày 15 tháng 10 năm 2026) |
 | Bộ trưởng Thanh niên và Thể thao | Hannah Yeoh |
 | Thứ trưởng | Adam Adli |
 

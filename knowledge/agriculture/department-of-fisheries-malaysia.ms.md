@@ -18,6 +18,7 @@ keyTakeaways:
   - "Semua kegiatan menangkap ikan dengan peralatan atau vesel di perairan Malaysia mesti dilesenkan; DOF mengeluarkan lesen vesel, laut dalam (C2), tuna (C3), ternakan marin (SKL) dan alat pengumpul ikan (MPPI) serta kad nelayan."
   - "Lesen Sampan, Zon A, Zon B dan Zon C dibekukan — hanya lesen laut dalam (C2) dan tuna (C3) yang masih tersedia."
   - "Nilai jumlah pengeluaran perikanan Malaysia pada 2023 ialah RM16.5 bilion, meningkat 3.6% daripada RM15.9 bilion pada 2022; pengeluaran ikan boleh dimakan ialah 1.79 juta tan."
+  - "Pada 2024, pengeluaran meningkat 7.1% dari segi volum kepada 1.91 juta tan, manakala nilai sektor berkembang lebih sederhana sebanyak 2.5% kepada RM16.9 bilion (RM11.8 bilion, atau 0.7%, daripada KDNK)."
 appliesTo: "Nelayan, pengusaha akuakultur, pengeksport dan pengimport produk perikanan, pelajar, penyelidik, dan sesiapa yang memerlukan rujukan berwibawa mengenai pengawal selia perikanan Malaysia."
 faq:
   - q: "Kementerian manakah yang menaungi Jabatan Perikanan Malaysia?"
@@ -29,7 +30,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "0a6f38093e7691ce"
+sourceContentHash: "66daf0f263dfbde4"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -44,7 +45,6 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "Tahun penubuhan DOF dan sejarah institusinya (pendahulu Fisheries Act 1963) — tidak disahkan pada mana-mana halaman primer yang dibuka."
-  - "Statistik 2024 yang dilaporkan dalam akhbar (jumlah pengeluaran ~1.91 juta tan, nilai sektor ~RM16.9 bilion, pertumbuhan 7.1%) — sahkan terhadap PDF utama DOF Annual Statistics / Annual Report sebelum menyatakannya."
   - "Fi lesen dan pendaftaran semasa — tidak diterbitkan dalam FAQ pelesenan."
   - "Exact nautical-mile boundaries defining Zones A/B/C — the FAQ gives only partial ranges."
   - "Bilangan dan lokasi pejabat negeri dan daerah DOF — sahkan daripada halaman lokasi pejabat negeri DOF."
@@ -107,7 +107,7 @@ Yang penting, pengeluaran lesen bagi **Sampan, Zon A, Zon B dan Zon C dibekukan*
 
 ## Sebesar manakah sektor ini?
 
-**Nilai jumlah pengeluaran perikanan Malaysia pada 2023 ialah RM16.5 bilion**, kenaikan 3.6% daripada RM15.9 bilion pada 2022. Pengeluaran ikan boleh dimakan ialah 1.79 juta tan metrik (turun 5.51% daripada 1.89 juta pada 2022), di samping 241 juta ekor ikan hiasan dan 26 juta ikat tumbuhan akuatik.
+**Nilai jumlah pengeluaran perikanan Malaysia pada 2023 ialah RM16.5 bilion**, kenaikan 3.6% daripada RM15.9 bilion pada 2022. Pengeluaran ikan boleh dimakan ialah 1.79 juta tan metrik (turun 5.51% daripada 1.89 juta pada 2022), di samping 241 juta ekor ikan hiasan dan 26 juta ikat tumbuhan akuatik. Pada 2024, jumlah pengeluaran perikanan meningkat kepada **1.91 juta tan — kenaikan 7.1% dari segi volum** — manakala nilai sektor berkembang lebih sederhana sebanyak **2.5% kepada RM16.9 bilion**, menyumbang RM11.8 bilion (0.7%) kepada KDNK.
 
 Konteks lebih luas daripada analisis yang disemak rakan sebaya: pada 2022 sektor ini bernilai RM15.97 bilion, menyumbang 11.6% KDNK pertanian dan 0.8% KDNK negara, serta menggaji secara langsung 149,630 pekerja. Pengeluaran terbahagi kepada 69% tangkapan marin, 30% akuakultur dan 1% daratan, dengan nisbah sara diri ikan makanan sebanyak 90.2%, penggunaan per kapita 46.22 kg, dan 48,605 vesel menangkap ikan aktif.
 

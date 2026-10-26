@@ -27,7 +27,7 @@ faq:
   - q: "Di mana MSN berkantor pusat?"
     a: "Di Kompleks Sukan Negara, Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. Ia juga mengelola kompleks pelatihan di beberapa negeri lain."
 lang: "id"
-sourceContentHash: "d519f370c717d10a"
+sourceContentHash: "80305dfafe9710fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -45,7 +45,7 @@ revisions:
 verificationNeeded:
   - "Teks resmi Visi dan Misi kata demi kata — nsc.gov.my menerbitkannya hanya sebagai gambar; OCR atau pembacaan langsung diperlukan sebelum mengutip."
   - "Tahun pembentukan Institut Sukan Negara (ISN) dan pembagian tugas MSN versus ISN yang tepat (pengelolaan program oleh MSN dibandingkan prestasi/sains olahraga oleh ISN) — belum dipastikan terhadap sumber utama."
-  - "Ketua Pengarah saat ini per 2026 — Wikipedia mencantumkan Ahmad Shapawi Ismail; pastikan ia masih memegang jabatan melalui nsc.gov.my sebelum menganggapnya terkini."
+  - "Pemegang jabatan senior berubah seiring perombakan kementerian; pastikan ulang Ketua Pengarah dan para wakil saat ini terhadap nsc.gov.my sebelum menganggapnya terkini."
   - "Jumlah dan nama majelis olahraga negeri (Majlis Sukan Negeri) yang dikoordinasi di bawah undang-undang itu — belum dipastikan dari daftar utama."
   - "Daftar statutori kata demi kata lengkap fungsi Majlis dari undang-undang itu sendiri, dibandingkan fungsi yang diparafrasekan pada halaman sekunder."
 updated: 2026-08-14
@@ -87,7 +87,7 @@ Ia kemudian **direstrukturisasi pada 1981**, dan setelah itu program serta aktiv
 
 | Peran | Pemegang jabatan |
 | --- | --- |
-| Ketua Pengarah | Ahmad Shapawi Ismail |
+| Ketua Pengarah | Arrifin Mohd Ghani (sejak 15 Oktober 2026) |
 | Menteri Belia dan Sukan | Hannah Yeoh |
 | Wakil Menteri | Adam Adli |
 

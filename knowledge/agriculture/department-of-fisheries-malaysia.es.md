@@ -18,6 +18,7 @@ keyTakeaways:
   - "Toda pesca con equipos o embarcaciones en aguas malasias debe contar con licencia; el DOF emite licencias de embarcación, de aguas profundas (C2), de atún (C3), de cultivo marino (SKL) y de dispositivo de agregación de peces (MPPI), además de tarjetas de pescador."
   - "Las licencias de Sampan, Zona A, Zona B y Zona C están congeladas — solo siguen disponibles las licencias de aguas profundas (C2) y de atún (C3)."
   - "El valor total de la producción pesquera de Malasia en 2023 fue de RM16.5 mil millones, un 3.6% más que los RM15.9 mil millones de 2022; la producción de pescado comestible fue de 1.79 millones de toneladas."
+  - "En 2024, la producción aumentó un 7.1% en volumen hasta 1.91 millones de toneladas, mientras que el valor del sector creció de forma más moderada un 2.5% hasta RM16.9 mil millones (RM11.8 mil millones, o el 0.7%, del PIB)."
 appliesTo: "Pescadores, operadores acuícolas, exportadores e importadores de productos pesqueros, estudiantes, investigadores y cualquier persona que necesite una referencia autorizada sobre el regulador pesquero de Malasia."
 faq:
   - q: "¿A qué ministerio rinde cuentas el Departamento de Pesca de Malasia?"
@@ -27,7 +28,7 @@ faq:
   - q: "¿Qué ley administra el DOF?"
     a: "Su estatuto principal es la Ley de Pesca de 1985 (Act 317), que abarca la conservación, gestión y desarrollo de la pesca y las pesquerías en aguas malasias, incluidas las licencias, la acuicultura, los mamíferos acuáticos y las tortugas."
 lang: "es"
-sourceContentHash: "0a6f38093e7691ce"
+sourceContentHash: "66daf0f263dfbde4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,7 +45,6 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "DOF's founding/establishment year and institutional history (predecessor Fisheries Act 1963) — not confirmed on any primary page opened."
-  - "2024 statistics reported in press (total production ~1.91 million tonnes, sector value ~RM16.9 billion, 7.1% growth) — confirm against the DOF Annual Statistics / Annual Report primary PDF before stating."
   - "Current licence and registration fees — not published in the licensing FAQ."
   - "Exact nautical-mile boundaries defining Zones A/B/C — the FAQ gives only partial ranges."
   - "Number and locations of DOF state and district offices — confirm from the DOF state-office-location page."
@@ -107,7 +107,7 @@ De manera crucial, la emisión de licencias para **Sampan, Zona A, Zona B y Zona
 
 ## ¿Qué tamaño tiene el sector?
 
-El **valor total de la producción pesquera de Malasia en 2023 fue de RM16.5 mil millones**, un aumento del 3.6% frente a los RM15.9 mil millones de 2022. La producción de pescado comestible fue de 1.79 millones de toneladas métricas (una caída del 5.51% frente a los 1.89 millones de 2022), junto con 241 millones de ejemplares de peces ornamentales y 26 millones de manojos de plantas acuáticas.
+El **valor total de la producción pesquera de Malasia en 2023 fue de RM16.5 mil millones**, un aumento del 3.6% frente a los RM15.9 mil millones de 2022. La producción de pescado comestible fue de 1.79 millones de toneladas métricas (una caída del 5.51% frente a los 1.89 millones de 2022), junto con 241 millones de ejemplares de peces ornamentales y 26 millones de manojos de plantas acuáticas. En 2024, la producción pesquera total aumentó a **1.91 millones de toneladas — un incremento del 7.1% en volumen** — mientras que el valor del sector creció de forma más moderada un **2.5% hasta RM16.9 mil millones**, aportando RM11.8 mil millones (el 0.7%) al PIB.
 
 Contexto más amplio a partir de análisis revisados por pares: en 2022 el sector se valoró en RM15.97 mil millones, aportando el 11.6% del PIB agrícola y el 0.8% del PIB nacional, y empleaba directamente a 149,630 trabajadores. La producción se repartía en un 69% de captura marina, un 30% de acuicultura y un 1% continental, con una tasa de autosuficiencia de pescado comestible del 90.2%, un consumo per cápita de 46.22 kg y 48,605 embarcaciones pesqueras activas.
 

@@ -17,7 +17,7 @@ keyTakeaways:
   - "Tarif dasar rata-rata di bawah RP4 adalah 45.40 sen/kWh, berlaku untuk tarif baru mulai 1 Juli 2025; periode regulasi RP4 sendiri berjalan Januari 2025 hingga Desember 2027."
   - "Tagihan domestik kini memiliki lima komponen: Biaya Energi, Kapasitas, Jaringan, Ritel, dan AFA."
   - "Biaya Energi domestik adalah 27.03 sen/kWh untuk penggunaan hingga 1,500 kWh dan 37.03 sen/kWh untuk kelebihan di atasnya."
-  - "AFA menggantikan ICPT dan dihitung bulanan; misalnya AFA Agustus 2025 ditetapkan Suruhanjaya Tenaga pada -1.45 sen/kWh (rabat), dengan batas fluktuasi ±3 sen/kWh."
+  - "AFA menggantikan ICPT dan dihitung bulanan; misalnya AFA Agustus 2025 ditetapkan Suruhanjaya Tenaga pada -1.45 sen/kWh (rabat). Kenaikan AFA bulanan dibatasi pada 3 sen/kWh — kenaikan melebihi batas itu memerlukan persetujuan Kabinet."
 appliesTo: "Pengguna listrik domestik TNB di Semenanjung Malaysia yang ingin memahami tagihan bulanan mereka."
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "Tidak. Biaya Ritel RM10 sebulan dikecualikan bagi rumah tangga yang menggunakan 600 kWh atau kurang sebulan."
 
 lang: "id"
-sourceContentHash: "b885e498c8215018"
+sourceContentHash: "7346638db9f1ac3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ verificationNeeded:
   - "Tarif Time-of-Use (puncak 28.52 / luar puncak 24.43 sen/kWh) serta jendela waktu puncak dan luar puncak — verifikasi terhadap jadwal ToU resmi ST/TNB."
   - "AFA berubah setiap bulan; -1.45 sen/kWh hanya sah untuk Agustus 2025 — pengguna perlu memeriksa nilai bulan berjalan yang diumumkan Suruhanjaya Tenaga."
   - "Rabat Insentif Efisiensi Energi (EEI) hingga 25 sen/kWh bagi penggunaan ≤1,000 kWh dan pengecualian Biaya Ritel RM10 bagi ≤600 kWh — verifikasi syarat dan tarif terhadap dokumen resmi ST."
-  - "Batas fluktuasi AFA ±3 sen/kWh sebulan — verifikasi terhadap dokumen regulasi RP4 resmi."
 
 updated: 2026-08-01
 sources:
@@ -112,7 +111,7 @@ Dua bantuan penting mengurangi tagihan rumah tangga biasa:
 
 ## Apa itu AFA dan bagaimana ia berbeda dari ICPT?
 
-AFA menyesuaikan tarif Anda setiap bulan menurut harga bahan bakar global dan nilai tukar, menggantikan peninjauan enam bulanan ICPT. Ia dapat berupa biaya tambahan atau rabat, dengan batas fluktuasi ±3 sen/kWh sebulan. Sebagai contoh, Suruhanjaya Tenaga menetapkan AFA untuk Agustus 2025 pada -1.45 sen/kWh — yaitu rabat yang menurunkan tagihan. Karena nilai ini berubah setiap bulan, periksa nilai AFA berjalan yang diumumkan Suruhanjaya Tenaga.
+AFA menyesuaikan tarif Anda setiap bulan menurut harga bahan bakar global dan nilai tukar, menggantikan peninjauan enam bulanan ICPT. Ia dapat berupa biaya tambahan atau rabat; kenaikan AFA bulanan dibatasi pada 3 sen/kWh, dan setiap kenaikan melebihi batas itu memerlukan persetujuan Kabinet (rabat tidak terikat pada batas ini). Sebagai contoh, Suruhanjaya Tenaga menetapkan AFA untuk Agustus 2025 pada -1.45 sen/kWh — yaitu rabat yang menurunkan tagihan. Karena nilai ini berubah setiap bulan, periksa nilai AFA berjalan yang diumumkan Suruhanjaya Tenaga.
 
 ## Haruskah Anda memilih tarif Time-of-Use?
 

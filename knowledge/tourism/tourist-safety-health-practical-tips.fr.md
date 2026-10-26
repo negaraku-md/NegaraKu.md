@@ -31,7 +31,7 @@ faq:
     a: "Il n'existe pas d'exigence universelle de vaccination à l'entrée, mais le CDC américain conseille aux voyageurs d'être à jour de leurs vaccins de routine et d'envisager l'hépatite A et la fièvre typhoïde ; discutez de la rage, de l'encéphalite japonaise et des comprimés antipaludiques avec une clinique de voyage en fonction de votre itinéraire."
 
 lang: "fr"
-sourceContentHash: "e99fd08a031d5f4f"
+sourceContentHash: "d1207a56295ee523"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM50,000 fine / up to one year imprisonment penalty for false 999 calls (attributed to Section 233 of the Communications and Multimedia Act 1998 on civildefence.gov.my) — confirm the section and amount against the current statute before publication."
   - "Whether the two-SIM-per-telco cap and three-month tourist-SIM validity are fully in force at the visitor's travel date (the MCMC mandatory standard was registered 26 February 2026; confirm the enforcement/effective date)."
   - "SIM registration document rules beyond 'original passport / biometric verification' — the cited source does not address whether photocopies or scans are ever accepted; confirm with each telco if relevant."
   - "Disruption of east-coast island boat and resort operations during the Northeast Monsoon is general travel guidance, not stated in the cited MET Malaysia source; confirm operator schedules directly."
@@ -80,7 +79,7 @@ Vous avez atterri, vous avez le décalage horaire et votre téléphone n'affiche
 
 ## Quel numéro dois-je appeler en cas d'urgence ?
 
-**999.** La Malaisie exploite une unique ligne intégrée appelée Système malaisien de réponse aux urgences (MERS), qui a fusionné les anciens numéros 991, 994 et 999 en un seul lors de son lancement le 1er octobre 2007. Un seul appel joint la police (PDRM), le service d'ambulance relevant du ministère de la Santé, le Département des pompiers et du secours (JBPM) et la Force de défense civile (JPAM). Les appels sont gratuits. Les appels de farce ou faux sont une infraction : la Force de défense civile relève qu'en vertu de la Section 233 de la [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) un faux appel peut entraîner une amende pouvant atteindre RM50,000, jusqu'à un an d'emprisonnement, ou les deux — ne l'utilisez donc que pour de véritables urgences.
+**999.** La Malaisie exploite une unique ligne intégrée appelée Système malaisien de réponse aux urgences (MERS), qui a fusionné les anciens numéros 991, 994 et 999 en un seul lors de son lancement le 1er octobre 2007. Un seul appel joint la police (PDRM), le service d'ambulance relevant du ministère de la Santé, le Département des pompiers et du secours (JBPM) et la Force de défense civile (JPAM). Les appels sont gratuits. Les appels de farce ou faux sont une infraction : la Force de défense civile relève qu'en vertu de la Section 233 de la [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) — telle qu'amendée en 2025, en vigueur le 11 février 2025 — un faux appel peut entraîner une amende pouvant atteindre RM500,000, jusqu'à deux ans d'emprisonnement, ou les deux, avec RM5,000 supplémentaires pour chaque jour où une infraction continue persiste — ne l'utilisez donc que pour de véritables urgences.
 
 Enregistrez le 999 dans votre téléphone avant d'en avoir besoin.
 

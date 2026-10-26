@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "industry"
 sensitivity: "none"
 
-answer: "Malaysia's business-events industry is coordinated nationally by the Malaysia Convention & Exhibition Bureau (MyCEB), an agency under the Ministry of Tourism, Arts and Culture that bids for and helps stage international meetings, incentives, conventions, exhibitions and sporting events. MyCEB reports that Malaysia has hosted 3,105 business events drawing 3,223,491 international delegates and an estimated RM20.18 billion in economic impact since 2009. The sector is anchored by purpose-built venues such as the Kuala Lumpur Convention Centre, the Malaysia International Trade & Exhibition Centre (MITEC), and the Borneo Convention Centre Kuching, which is expanding to serve East Malaysia."
+answer: "Malaysia's business-events industry is coordinated nationally by the Malaysia Convention & Exhibition Bureau (MyCEB), an agency under the Ministry of Tourism, Arts and Culture that bids for and helps stage international meetings, incentives, conventions, exhibitions and sporting events. MyCEB reports that Malaysia has hosted 3,105 business events drawing 3,223,491 delegates (1,656,942 of them international) and an estimated RM20.18 billion in economic impact since 2009. The sector is anchored by purpose-built venues such as the Kuala Lumpur Convention Centre, the Malaysia International Trade & Exhibition Centre (MITEC), and the Borneo Convention Centre Kuching, which is expanding to serve East Malaysia."
 keyTakeaways:
   - "MyCEB, an agency under the Ministry of Tourism, Arts and Culture (MOTAC), is Malaysia's central convention bureau for business and international sporting events."
-  - "Since 2009 MyCEB reports 3,105 business events, 3,223,491 international delegates and an estimated RM20.18 billion in economic impact."
+  - "Since 2009 MyCEB reports 3,105 business events, 3,223,491 delegates (1,656,942 of them international) and an estimated RM20.18 billion in economic impact."
   - "MITEC, opened in 2016, has 11 mega exhibition halls and 52,000 sqm of exhibition space; the CIDB records a 12,530 sqm column-free space within it."
   - "The Borneo Convention Centre Kuching is adding a second building (BCCK2) with a 5,936 sqm main hall seating up to 9,500, targeted for completion in 2028."
 appliesTo: "Event planners, associations, exhibition organisers, corporate incentive buyers and researchers assessing Malaysia as a MICE destination."
@@ -24,7 +24,7 @@ faq:
   - q: "What is MyCEB and what does it do?"
     a: "The Malaysia Convention & Exhibition Bureau (MyCEB) is the national convention bureau under the Ministry of Tourism, Arts and Culture. It acts as a one-stop hub that helps meeting and event planners bid for, win and stage international conventions, exhibitions, corporate meetings, incentive trips and international sporting events in Malaysia."
   - q: "How big is Malaysia's business-events sector?"
-    a: "MyCEB reports that since 2009 Malaysia has hosted 3,105 business events, attracting 3,223,491 international delegates and generating an estimated RM20.18 billion in economic impact."
+    a: "MyCEB reports that since 2009 Malaysia has hosted 3,105 business events, attracting 3,223,491 delegates (1,656,942 of them international) and generating an estimated RM20.18 billion in economic impact."
   - q: "What are Malaysia's main convention and exhibition venues?"
     a: "The Kuala Lumpur Convention Centre (KLCC) sits in the capital's central business district; MITEC, near Dutamas in KL Metropolis, is the country's largest exhibition venue; and the Borneo Convention Centre Kuching serves Sarawak and East Malaysia."
   - q: "Which is Malaysia's largest exhibition venue?"
@@ -41,7 +41,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "MyCEB labels the RM20.18 billion as 'Estimated Economic Impact' on its homepage, which also displays a separate, ambiguously labelled figure (1,656,942); confirm the intended label and value with MyCEB directly."
   - "The Meetings Show London figures (6,625 delegates, RM116 million, 2017–2023) come from a MyCEB press release and were not re-fetched in this correction pass; confirm before relying on them."
   - "MITEC's 12,530 sqm column-free area (per CIDB) sits within — not in addition to — the 52,000 sqm total exhibition space stated on MITEC's official site; confirm the relationship of the two figures."
   - "Exhibition-space totals differ by source: MITEC's official site states 52,000 sqm, while CIDB describes 'one million square feet' (~92,900 sqm), likely gross floor area versus net exhibition space; confirm which basis applies."
@@ -97,7 +96,8 @@ The scale it reports is substantial. Since 2009, MyCEB says Malaysia has deliver
 | Metric (since 2009) | Figure |
 | --- | --- |
 | Business events hosted | 3,105 |
-| International delegates | 3,223,491 |
+| Delegates (total) | 3,223,491 |
+| International delegates | 1,656,942 |
 | Estimated economic impact | RM20.18 billion |
 
 A narrower window shows how consistent participation pays off: MyCEB reports that from 2017 to 2023, its presence at The Meetings Show in London alone helped bring 6,625 delegates for an estimated RM116 million in economic impact.

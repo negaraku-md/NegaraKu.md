@@ -47,7 +47,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM50,000 fine / up to one year imprisonment penalty for false 999 calls (attributed to Section 233 of the Communications and Multimedia Act 1998 on civildefence.gov.my) — confirm the section and amount against the current statute before publication."
   - "Whether the two-SIM-per-telco cap and three-month tourist-SIM validity are fully in force at the visitor's travel date (the MCMC mandatory standard was registered 26 February 2026; confirm the enforcement/effective date)."
   - "SIM registration document rules beyond 'original passport / biometric verification' — the cited source does not address whether photocopies or scans are ever accepted; confirm with each telco if relevant."
   - "Disruption of east-coast island boat and resort operations during the Northeast Monsoon is general travel guidance, not stated in the cited MET Malaysia source; confirm operator schedules directly."
@@ -79,7 +78,7 @@ You have landed, you are jet-lagged, and your phone shows no signal. Before you 
 
 ## What number do I call in an emergency?
 
-**999.** Malaysia runs a single integrated line called the Malaysia Emergency Response System (MERS), which combined the old 991, 994 and 999 numbers into one when it launched on 1 October 2007. A single call reaches the police (PDRM), the ambulance service under the Ministry of Health, the Fire and Rescue Department (JBPM), and the Civil Defence Force (JPAM). Calls are free. Prank or false calls are an offence: the Civil Defence Force notes that under Section 233 of the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) a fake call can carry a fine of up to RM50,000, up to one year's imprisonment, or both — so use it only for genuine emergencies.
+**999.** Malaysia runs a single integrated line called the Malaysia Emergency Response System (MERS), which combined the old 991, 994 and 999 numbers into one when it launched on 1 October 2007. A single call reaches the police (PDRM), the ambulance service under the Ministry of Health, the Fire and Rescue Department (JBPM), and the Civil Defence Force (JPAM). Calls are free. Prank or false calls are an offence: the Civil Defence Force notes that under Section 233 of the [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) — as amended in 2025, in force 11 February 2025 — a fake call can carry a fine of up to RM500,000, up to two years' imprisonment, or both, with a further RM5,000 for each day a continuing offence persists — so use it only for genuine emergencies.
 
 Save 999 in your phone before you need it.
 

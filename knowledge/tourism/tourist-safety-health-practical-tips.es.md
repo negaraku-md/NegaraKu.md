@@ -31,7 +31,7 @@ faq:
     a: "No hay un requisito universal de vacunación para entrar, pero los CDC de EE. UU. aconsejan a los viajeros estar al día con las vacunas rutinarias y considerar la hepatitis A y la fiebre tifoidea; consulta sobre la rabia, la encefalitis japonesa y las pastillas antipalúdicas con una clínica de viajes según tu itinerario."
 
 lang: "es"
-sourceContentHash: "e99fd08a031d5f4f"
+sourceContentHash: "d1207a56295ee523"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM50,000 fine / up to one year imprisonment penalty for false 999 calls (attributed to Section 233 of the Communications and Multimedia Act 1998 on civildefence.gov.my) — confirm the section and amount against the current statute before publication."
   - "Whether the two-SIM-per-telco cap and three-month tourist-SIM validity are fully in force at the visitor's travel date (the MCMC mandatory standard was registered 26 February 2026; confirm the enforcement/effective date)."
   - "SIM registration document rules beyond 'original passport / biometric verification' — the cited source does not address whether photocopies or scans are ever accepted; confirm with each telco if relevant."
   - "Disruption of east-coast island boat and resort operations during the Northeast Monsoon is general travel guidance, not stated in the cited MET Malaysia source; confirm operator schedules directly."
@@ -80,7 +79,7 @@ Has aterrizado, tienes jet lag y tu teléfono no muestra señal. Antes de preocu
 
 ## ¿A qué número llamo en una emergencia?
 
-**999.** Malasia opera una única línea integrada llamada Sistema de Respuesta a Emergencias de Malasia (MERS), que fusionó los antiguos números 991, 994 y 999 en uno cuando se lanzó el 1 de octubre de 2007. Una sola llamada llega a la policía (PDRM), el servicio de ambulancias bajo el Ministerio de Salud, el Departamento de Bomberos y Rescate (JBPM) y la Fuerza de Defensa Civil (JPAM). Las llamadas son gratuitas. Las llamadas de broma o falsas son un delito: la Fuerza de Defensa Civil señala que, bajo la Section 233 de la [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998), una llamada falsa puede conllevar una multa de hasta RM50,000, hasta un año de prisión, o ambas — así que úsalo solo para emergencias genuinas.
+**999.** Malasia opera una única línea integrada llamada Sistema de Respuesta a Emergencias de Malasia (MERS), que fusionó los antiguos números 991, 994 y 999 en uno cuando se lanzó el 1 de octubre de 2007. Una sola llamada llega a la policía (PDRM), el servicio de ambulancias bajo el Ministerio de Salud, el Departamento de Bomberos y Rescate (JBPM) y la Fuerza de Defensa Civil (JPAM). Las llamadas son gratuitas. Las llamadas de broma o falsas son un delito: la Fuerza de Defensa Civil señala que, bajo la Section 233 de la [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) — modificada en 2025, en vigor desde el 11 de febrero de 2025 —, una llamada falsa puede conllevar una multa de hasta RM500,000, hasta dos años de prisión, o ambas, con RM5,000 adicionales por cada día que persista una infracción continuada — así que úsalo solo para emergencias genuinas.
 
 Guarda el 999 en tu teléfono antes de necesitarlo.
 

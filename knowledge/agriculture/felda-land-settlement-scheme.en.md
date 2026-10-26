@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (now FGV Holdings) is the investment arm that manages FELDA's plantations. It was listed on Bursa Malaysia on 28 June 2012 and, at the time of the IPO, managed around 500,000 hectares worked by about 112,600 settlers."
 
 lang: "en"
-sourceContentHash: "dea25bf8a34a057f"
+sourceContentHash: "827c6da5e0f2c397"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ Imagine a poor family moved to a freshly cleared forest, given a plot of land an
 
 The Federal Land Development Authority (FELDA) was established on **1 July 1956** under the **Land Development Ordinance 1956**. That ordinance was later revised in 1991 and replaced by the **Land Development Act 1956 (Act 474)**. Its aim was clear and urgent in the early years of independence: to eradicate rural poverty by opening up new land for agriculture and settling poor families as settlers.
 
-The scheme was the early post-independence era's policy answer to the land and poverty problems that gripped rural communities. The first scheme, the **Air Lanas Land Development Scheme in Kelantan**, opened in **March 1957** and settled about 400 settlers across 1,680 hectares. From that seed, FELDA grew into one of the largest rural resettlement programmes in the world.
+The scheme was the early post-independence era's policy answer to the land and poverty problems that gripped rural communities. The first scheme, the **Air Lanas Land Development Scheme in Kelantan**, opened in **March 1957** and settled about 400 settlers across 1,620 hectares. From that seed, FELDA grew into one of the largest rural resettlement programmes in the world.
 
 At this early stage, FELDA acted only as an intermediary channelling Federal Government funds to state government land schemes. It opened its **own** land scheme for the first time at **Lurah Bilut, Pahang in 1958** — a 2,631-hectare rubber scheme that settled 616 settlers. A few years later, FELDA opened its first oil palm land scheme, **FELDA Taib Andak in Kulai, Johor in 1961**, covering 3,385 hectares with 628 settlers. According to the 2019 FELDA White Paper, over six decades FELDA developed about **870,000 hectares** (including commercial plantations and village areas) and settled **112,635 settlers across 317 land schemes**.
 
@@ -116,7 +116,7 @@ Below are key events in FELDA's development:
 | Year | Event |
 | --- | --- |
 | 1956 | FELDA established (1 July) under the Land Development Ordinance 1956 (later Act 474) |
-| 1957 | First scheme, Air Lanas Scheme, Kelantan (March) — about 400 settlers, 1,680 hectares |
+| 1957 | First scheme, Air Lanas Scheme, Kelantan (March) — about 400 settlers, 1,620 hectares |
 | 1958 | First own land scheme, Lurah Bilut, Pahang — 2,631 hectares of rubber, 616 settlers |
 | 1961 | First oil palm land scheme, FELDA Taib Andak, Johor — 3,385 hectares, 628 settlers |
 | 1988 | Settlers' Minimum Income Policy introduced |

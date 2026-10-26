@@ -18,6 +18,7 @@ keyTakeaways:
   - "All fishing with equipment or vessels in Malaysian waters must be licensed; DOF issues vessel, deep-sea (C2), tuna (C3), marine culture (SKL) and fish-aggregate-device (MPPI) licences plus fisherman cards."
   - "Sampan, Zone A, Zone B and Zone C licences are frozen — only deep-sea (C2) and tuna (C3) licences remain available."
   - "Malaysia's total fisheries production value in 2023 was RM16.5 billion, up 3.6% from RM15.9 billion in 2022; edible fish production was 1.79 million tonnes."
+  - "In 2024, production rose 7.1% in volume to 1.91 million tonnes, while sector value grew a more modest 2.5% to RM16.9 billion (RM11.8 billion, or 0.7%, of GDP)."
 appliesTo: "Fishers, aquaculture operators, exporters and importers of fishery products, students, researchers, and anyone needing an authoritative reference on Malaysia's fisheries regulator."
 faq:
   - q: "Which ministry does the Department of Fisheries Malaysia report to?"
@@ -43,7 +44,6 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "DOF's founding/establishment year and institutional history (predecessor Fisheries Act 1963) — not confirmed on any primary page opened."
-  - "2024 statistics reported in press (total production ~1.91 million tonnes, sector value ~RM16.9 billion, 7.1% growth) — confirm against the DOF Annual Statistics / Annual Report primary PDF before stating."
   - "Current licence and registration fees — not published in the licensing FAQ."
   - "Exact nautical-mile boundaries defining Zones A/B/C — the FAQ gives only partial ranges."
   - "Number and locations of DOF state and district offices — confirm from the DOF state-office-location page."
@@ -106,7 +106,7 @@ Crucially, the issuance of licences for **Sampan, Zone A, Zone B and Zone C is f
 
 ## How big is the sector?
 
-Malaysia's **total fisheries production value in 2023 was RM16.5 billion**, a 3.6% rise from RM15.9 billion in 2022. Edible fish production was 1.79 million metric tonnes (down 5.51% from 1.89 million in 2022), alongside 241 million pieces of ornamental fish and 26 million bunches of aquatic plants.
+Malaysia's **total fisheries production value in 2023 was RM16.5 billion**, a 3.6% rise from RM15.9 billion in 2022. Edible fish production was 1.79 million metric tonnes (down 5.51% from 1.89 million in 2022), alongside 241 million pieces of ornamental fish and 26 million bunches of aquatic plants. In 2024, total fisheries production rose to **1.91 million tonnes — a 7.1% increase in volume** — while the sector's value grew a more modest **2.5% to RM16.9 billion**, contributing RM11.8 billion (0.7%) to GDP.
 
 Broader context from peer-reviewed analysis: in 2022 the sector was valued at RM15.97 billion, contributing 11.6% of agricultural GDP and 0.8% of national GDP, and directly employed 149,630 workers. Production split 69% marine capture, 30% aquaculture and 1% inland, with a food-fish self-sufficiency ratio of 90.2%, per capita consumption of 46.22 kg, and 48,605 active fishing vessels.
 

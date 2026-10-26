@@ -29,7 +29,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d519f370c717d10a"
+sourceContentHash: "80305dfafe9710fb"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -44,7 +44,7 @@ revisions:
 verificationNeeded:
   - "公式のビジョン（Visi）とミッション（Misi）の逐語的な文言——nsc.gov.my は画像としてのみ掲載しており、引用の前にOCRか直接の読み取りが必要。"
   - "国家スポーツ院（ISN）の設立年と、MSNとISNの正確な役割分担（MSNによるプログラム管理と、ISNによる競技成績・スポーツ科学）——一次資料に照らしてまだ確認されていない。"
-  - "2026年時点の現職の事務局長——WikipediaはAhmad Shapawi Ismailと記載しているが、現職とみなす前にnsc.gov.myで在任を確認すること。"
+  - "幹部の就任者は省庁の改組に伴って交代する。現職の事務局長および副職者については、最新とみなす前にnsc.gov.myに照らして再確認すること。"
   - "同法のもとで調整される州スポーツ評議会（Majlis Sukan Negeri）の数と名称——一次的な一覧からまだ確認されていない。"
   - "同法そのものから取った評議会の職能の完全な逐語的法定一覧。二次的なページで言い換えられた職能ではないもの。"
 updated: 2026-08-14
@@ -86,7 +86,7 @@ MSNは**1971年国家スポーツ評議会法**に基づき設立され、同法
 
 | 役職 | 就任者 |
 | --- | --- |
-| 事務局長 | Ahmad Shapawi Ismail |
+| 事務局長 | Arrifin Mohd Ghani（2026年10月15日就任） |
 | 青年スポーツ大臣 | Hannah Yeoh |
 | 副大臣 | Adam Adli |
 

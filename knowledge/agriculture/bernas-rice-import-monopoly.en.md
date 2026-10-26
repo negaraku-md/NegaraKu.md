@@ -18,7 +18,7 @@ keyTakeaways:
   - "It was listed on Bursa Malaysia on 25 August 1997 and delisted (taken private) on 18 April 2014."
   - "Rice imports are regulated under the Control of Paddy and Rice Act 1994 (Act 522), which covers rice, paddy, glutinous rice flour and vermicelli."
   - "The current sole-importer concession is in force for a ten-year period from 2021 to 2031, with a mandatory buffer stock of 200,000 tonnes and ten social obligations."
-  - "The paddy purchase floor price in Peninsular Malaysia was raised to RM1,500 per metric tonne effective 16 February 2025, up from RM1,300 previously; Sabah and Sarawak are handled separately."
+  - "The paddy purchase floor price was standardised nationwide to RM1,500 per metric tonne effective 16 February 2025, up from RM1,300 previously (a nationwide standardisation that also covers Sabah and Sarawak)."
 appliesTo: "Readers studying paddy and rice policy, food security, paddy farmers, policy analysts and students of Malaysian agricultural economics."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "The current concession is in force for the period 2021 to 2031. In July 2026 the government confirmed it would review BERNAS's role as sole importer before the concession expires."
 
 lang: "en"
-sourceContentHash: "9cc09e4898ad7771"
+sourceContentHash: "9b3393caa807d543"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
 
 verificationNeeded:
   - "The TK2021 financial figures (revenue ~RM4.67 billion, profit after tax RM182.26 million, rice sales ~RM3.42 billion / 73%) — confirm against the official BERNAS annual report; could not be independently re-verified in this correction pass."
-  - "The specific paddy floor purchase price in Sabah and Sarawak (reported to remain RM1,300 per metric tonne) — confirm the figure and effective date against the official KPKM announcement before stating it."
   - "The year LPN/BERNAS began holding sole-importer status — sources conflict (Free Malaysia Today cites 1973; the BERNAS legacy page says LPN took over rice importation in 1974). The article deliberately omits the year; confirm before adding any year."
   - "The origin history of the guaranteed minimum price policy (claimed to have begun in 1949 in the academic literature) — confirm with a citable academic/primary source before stating a specific year."
   - "The exact number of social obligations (ten, doubled from five) and the buffer stock figure (200,000 tonnes, raised from 150,000) — confirm against the official 2021–2031 concession document."
@@ -117,7 +116,7 @@ The monopoly comes with conditions. In return for the exclusive import right, BE
 - **Channelling subsidies** — distributing paddy price subsidies to farmers on the government's behalf.
 - **Support for Bumiputera millers** — programmes such as Rakan Kilang to assist Bumiputera rice millers.
 
-This guaranteed minimum price policy is not a new concept; it has long been a policy tool to stimulate paddy production. More recently, the government raised the paddy purchase floor price in Peninsular Malaysia to **RM1,500 per metric tonne**, effective 16 February 2025, up from RM1,300 previously. This adjustment applies only in Peninsular Malaysia; the floor prices in Sabah and Sarawak are handled separately because of differences in production costs, productivity and market structure.
+This guaranteed minimum price policy is not a new concept; it has long been a policy tool to stimulate paddy production. More recently, the government standardised the paddy purchase floor price nationwide to **RM1,500 per metric tonne**, effective 16 February 2025, up from RM1,300 previously. This standardisation applies nationwide — including Sabah and Sarawak, which were themselves standardised to RM1,300 in 2024 — to account for rising labour, fertiliser and pesticide costs.
 
 ## How big is this business?
 

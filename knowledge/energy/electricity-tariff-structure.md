@@ -17,7 +17,7 @@ keyTakeaways:
   - "Kadar tarif asas purata di bawah RP4 ialah 45.40 sen/kWj, berkuat kuasa untuk tarif baharu mulai 1 Julai 2025; tempoh kawal selia RP4 sendiri berjalan Januari 2025 hingga Disember 2027."
   - "Bil domestik kini mempunyai lima komponen: Caj Tenaga, Kapasiti, Rangkaian, Runcit dan AFA."
   - "Caj Tenaga domestik ialah 27.03 sen/kWj bagi penggunaan sehingga 1,500 kWj dan 37.03 sen/kWj bagi lebihan di atasnya."
-  - "AFA menggantikan ICPT dan dikira bulanan; contohnya AFA Ogos 2025 ditetapkan Suruhanjaya Tenaga pada -1.45 sen/kWj (rebat), dengan had turun naik ±3 sen/kWj."
+  - "AFA menggantikan ICPT dan dikira bulanan; contohnya AFA Ogos 2025 ditetapkan Suruhanjaya Tenaga pada -1.45 sen/kWj (rebat). Kenaikan AFA bulanan dihadkan pada 3 sen/kWj — kenaikan melebihi had itu memerlukan kelulusan Kabinet."
 appliesTo: "Pengguna elektrik domestik TNB di Semenanjung Malaysia yang mahu memahami bil bulanan mereka."
 
 faq:
@@ -47,8 +47,6 @@ verificationNeeded:
   - "Kadar Time-of-Use (puncak 28.52 / luar puncak 24.43 sen/kWj) serta tetingkap waktu puncak dan luar puncak — sahkan terhadap jadual ToU rasmi ST/TNB."
   - "AFA berubah setiap bulan; -1.45 sen/kWj hanya sah untuk Ogos 2025 — pengguna perlu menyemak nilai bulan semasa yang diumumkan Suruhanjaya Tenaga."
   - "Rebat Insentif Kecekapan Tenaga (EEI) sehingga 25 sen/kWj bagi penggunaan ≤1,000 kWj dan pengecualian Caj Runcit RM10 bagi ≤600 kWj — sahkan syarat dan kadar terhadap dokumen rasmi ST."
-  - "Had turun naik AFA ±3 sen/kWj sebulan — sahkan terhadap dokumen kawal selia RP4 rasmi."
-
 updated: 2026-08-01
 sources:
   - title: "Jadual Elektrik Baharu: Lebih 23.6 Juta Pengguna Domestik Semenanjung Nikmati Kadar Lebih Adil"
@@ -111,7 +109,7 @@ Dua bantuan penting mengurangkan bil isi rumah biasa:
 
 ## Apakah AFA dan bagaimana ia berbeza daripada ICPT?
 
-AFA melaraskan tarif anda setiap bulan mengikut harga bahan api global dan kadar tukaran, menggantikan semakan enam bulanan ICPT. Ia boleh berupa caj tambahan atau rebat, dengan had turun naik ±3 sen/kWj sebulan. Sebagai contoh, Suruhanjaya Tenaga menetapkan AFA bagi Ogos 2025 pada -1.45 sen/kWj — iaitu rebat yang menurunkan bil. Oleh sebab nilai ini berubah setiap bulan, semak nilai AFA semasa yang diumumkan Suruhanjaya Tenaga.
+AFA melaraskan tarif anda setiap bulan mengikut harga bahan api global dan kadar tukaran, menggantikan semakan enam bulanan ICPT. Ia boleh berupa caj tambahan atau rebat; kenaikan AFA bulanan dihadkan pada 3 sen/kWj, dan sebarang kenaikan melebihi had itu memerlukan kelulusan Kabinet (rebat tidak terikat pada had ini). Sebagai contoh, Suruhanjaya Tenaga menetapkan AFA bagi Ogos 2025 pada -1.45 sen/kWj — iaitu rebat yang menurunkan bil. Oleh sebab nilai ini berubah setiap bulan, semak nilai AFA semasa yang diumumkan Suruhanjaya Tenaga.
 
 ## Patutkah anda pilih tarif Time-of-Use?
 

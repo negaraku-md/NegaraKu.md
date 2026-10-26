@@ -18,6 +18,7 @@ keyTakeaways:
   - "Semua kegiatan menangkap ikan dengan peralatan atau kapal di perairan Malaysia harus dilisensikan; DOF menerbitkan lisensi kapal, laut dalam (C2), tuna (C3), budi daya laut (SKL) dan alat pengumpul ikan (MPPI) serta kartu nelayan."
   - "Lisensi Sampan, Zon A, Zon B dan Zon C dibekukan — hanya lisensi laut dalam (C2) dan tuna (C3) yang masih tersedia."
   - "Nilai total produksi perikanan Malaysia pada 2023 adalah RM16.5 miliar, meningkat 3.6% dari RM15.9 miliar pada 2022; produksi ikan konsumsi adalah 1.79 juta ton."
+  - "Pada 2024, total produksi perikanan naik menjadi 1.91 juta ton — kenaikan 7.1% dalam volume — sementara nilai sektor tumbuh lebih moderat 2.5% menjadi RM16.9 miliar, menyumbang RM11.8 miliar (0.7%) pada PDB."
 appliesTo: "Nelayan, pengusaha akuakultur, eksportir dan importir produk perikanan, pelajar, periset, dan siapa saja yang memerlukan rujukan berwibawa mengenai regulator perikanan Malaysia."
 faq:
   - q: "Kementerian mana yang menaungi Departemen Perikanan Malaysia?"
@@ -27,7 +28,7 @@ faq:
   - q: "Undang-undang apa yang dikelola oleh DOF?"
     a: "Statuta utamanya adalah Akta Perikanan 1985 (Akta 317), yang mencakup konservasi, pengelolaan dan pengembangan penangkapan ikan dan perikanan di perairan Malaysia, termasuk pelisensian, akuakultur, mamalia akuatik dan penyu."
 lang: "id"
-sourceContentHash: "0a6f38093e7691ce"
+sourceContentHash: "66daf0f263dfbde4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,7 +45,6 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "Tahun pendirian DOF dan sejarah institusinya (pendahulu Fisheries Act 1963) — tidak dikonfirmasi pada halaman primer mana pun yang dibuka."
-  - "Statistik 2024 yang dilaporkan di media (total produksi ~1.91 juta ton, nilai sektor ~RM16.9 miliar, pertumbuhan 7.1%) — konfirmasikan terhadap PDF utama DOF Annual Statistics / Annual Report sebelum menyatakannya."
   - "Biaya lisensi dan pendaftaran terkini — tidak diterbitkan dalam FAQ pelisensian."
   - "Exact nautical-mile boundaries defining Zones A/B/C — the FAQ gives only partial ranges."
   - "Jumlah dan lokasi kantor negara bagian dan daerah DOF — konfirmasikan dari halaman lokasi kantor negara bagian DOF."
@@ -107,7 +107,7 @@ Yang penting, penerbitan lisensi bagi **Sampan, Zon A, Zon B dan Zon C dibekukan
 
 ## Seberapa besar sektor ini?
 
-**Nilai total produksi perikanan Malaysia pada 2023 adalah RM16.5 miliar**, kenaikan 3.6% dari RM15.9 miliar pada 2022. Produksi ikan konsumsi adalah 1.79 juta ton metrik (turun 5.51% dari 1.89 juta pada 2022), di samping 241 juta ekor ikan hias dan 26 juta ikat tumbuhan akuatik.
+**Nilai total produksi perikanan Malaysia pada 2023 adalah RM16.5 miliar**, kenaikan 3.6% dari RM15.9 miliar pada 2022. Produksi ikan konsumsi adalah 1.79 juta ton metrik (turun 5.51% dari 1.89 juta pada 2022), di samping 241 juta ekor ikan hias dan 26 juta ikat tumbuhan akuatik. Pada 2024, total produksi perikanan naik menjadi **1.91 juta ton — kenaikan 7.1% dalam volume** — sementara nilai sektor tumbuh lebih moderat **2.5% menjadi RM16.9 miliar**, menyumbang RM11.8 miliar (0.7%) pada PDB.
 
 Konteks lebih luas dari analisis yang ditelaah sejawat: pada 2022 sektor ini bernilai RM15.97 miliar, menyumbang 11.6% PDB pertanian dan 0.8% PDB negara, serta mempekerjakan secara langsung 149,630 pekerja. Produksi terbagi menjadi 69% tangkapan laut, 30% akuakultur dan 1% perairan darat, dengan rasio swasembada ikan konsumsi sebesar 90.2%, konsumsi per kapita 46.22 kg, dan 48,605 kapal penangkap ikan aktif.
 

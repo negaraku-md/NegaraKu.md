@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ia disenaraikan di Bursa Malaysia pada 25 Ogos 1997 dan dinyahsenarai (diambil persendirian) pada 18 April 2014."
   - "Import beras dikawal di bawah Akta Kawalan Padi dan Beras 1994 (Akta 522), yang meliputi beras, padi, tepung pulut dan bihun."
   - "Konsesi pengimport tunggal semasa berkuat kuasa untuk tempoh sepuluh tahun dari 2021 hingga 2031, dengan stok penimbal wajib 200,000 tan dan sepuluh obligasi sosial."
-  - "Harga lantai belian padi di Semenanjung Malaysia dinaikkan kepada RM1,500 setan metrik berkuat kuasa 16 Februari 2025, daripada RM1,300 sebelumnya; Sabah dan Sarawak dikendalikan secara berasingan."
+  - "Harga lantai belian padi diselaraskan ke seluruh negara kepada RM1,500 setan metrik berkuat kuasa 16 Februari 2025, dinaikkan daripada RM1,300 sebelumnya (penyelarasan nasional yang turut merangkumi Sabah dan Sarawak)."
 appliesTo: "Pembaca yang mengkaji dasar padi dan beras, sekuriti makanan, petani padi, penganalisis dasar dan pelajar ekonomi pertanian Malaysia."
 
 faq:
@@ -47,7 +47,6 @@ revisions:
 
 verificationNeeded:
   - "Angka kewangan TK2021 (hasil ~RM4.67 bilion, keuntungan selepas cukai RM182.26 juta, jualan beras ~RM3.42 bilion / 73%) — sahkan terhadap laporan tahunan rasmi BERNAS; tidak dapat diverifikasi semula secara bebas dalam pas pembetulan ini."
-  - "Harga lantai belian padi khusus di Sabah dan Sarawak (dilaporkan kekal RM1,300 setan metrik) — sahkan angka dan tarikh berkuat kuasa terhadap pengumuman KPKM rasmi sebelum menyatakannya."
   - "Tahun LPN/BERNAS mula memegang status pengimport tunggal — sumber bercanggah (Free Malaysia Today menyebut 1973; halaman legasi BERNAS menyebut LPN mengambil alih pengimportan beras pada 1974). Artikel sengaja tidak menyatakan tahun; sahkan sebelum menambah mana-mana tahun."
   - "Sejarah asal dasar harga minimum dijamin (didakwa bermula 1949 dalam literatur akademik) — sahkan dengan sumber akademik/primer yang boleh dipetik sebelum menyatakan tahun tertentu."
   - "Bilangan tepat obligasi sosial (sepuluh, digandakan daripada lima) dan angka stok penimbal (200,000 tan, dinaikkan daripada 150,000) — sahkan terhadap dokumen konsesi rasmi 2021–2031."
@@ -116,7 +115,7 @@ Monopoli itu datang dengan syarat. Sebagai balasan hak import eksklusif, BERNAS 
 - **Penyaluran subsidi** — mengagihkan subsidi harga padi kepada petani bagi pihak kerajaan.
 - **Sokongan pengilang Bumiputera** — program seperti Rakan Kilang untuk membantu pengilang beras Bumiputera.
 
-Dasar harga minimum dijamin ini bukan konsep baharu; ia telah lama menjadi alat dasar untuk merangsang pengeluaran padi. Baru-baru ini, kerajaan menaikkan harga lantai belian padi di Semenanjung Malaysia kepada **RM1,500 setan metrik**, berkuat kuasa 16 Februari 2025, daripada RM1,300 sebelumnya. Penyelarasan ini terpakai hanya di Semenanjung Malaysia; harga lantai di Sabah dan Sarawak dikendalikan secara berasingan kerana perbezaan kos pengeluaran, produktiviti dan struktur pasaran.
+Dasar harga minimum dijamin ini bukan konsep baharu; ia telah lama menjadi alat dasar untuk merangsang pengeluaran padi. Baru-baru ini, kerajaan menyelaraskan harga lantai belian padi ke seluruh negara kepada **RM1,500 setan metrik**, berkuat kuasa 16 Februari 2025, dinaikkan daripada RM1,300 sebelumnya. Penyelarasan ini terpakai di seluruh negara — termasuk Sabah dan Sarawak, yang turut diselaraskan pada RM1,300 pada 2024 — bagi mengambil kira kenaikan kos buruh, baja dan racun perosak.
 
 ## Sejauh mana besar perniagaan ini?
 

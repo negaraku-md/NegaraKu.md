@@ -29,7 +29,7 @@ faq:
 lang: "ms"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d519f370c717d10a"
+sourceContentHash: "80305dfafe9710fb"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -45,7 +45,7 @@ revisions:
 verificationNeeded:
   - "Teks rasmi Visi dan Misi kata demi kata — nsc.gov.my menerbitkannya hanya sebagai imej; OCR atau bacaan langsung diperlukan sebelum memetik."
   - "Tahun penubuhan Institut Sukan Negara (ISN) dan pembahagian tugas MSN lawan ISN yang tepat (pengurusan program oleh MSN berbanding prestasi/sains sukan oleh ISN) — belum disahkan terhadap sumber utama."
-  - "Ketua Pengarah semasa setakat 2026 — Wikipedia menyenaraikan Ahmad Shapawi Ismail; sahkan beliau masih memegang jawatan melalui nsc.gov.my sebelum menganggapnya semasa."
+  - "Pemegang jawatan kanan berubah dengan penyusunan semula kementerian; sahkan semula Ketua Pengarah dan timbalan semasa terhadap nsc.gov.my sebelum menganggapnya terkini."
   - "Bilangan dan nama majlis sukan negeri (Majlis Sukan Negeri) yang diselaraskan di bawah Akta itu — belum disahkan daripada senarai utama."
   - "Senarai statutori kata demi kata penuh fungsi Majlis daripada Akta itu sendiri, berbanding fungsi yang diparafrasa pada halaman sekunder."
 updated: 2026-08-14
@@ -87,7 +87,7 @@ Ia kemudian **distruktur semula pada 1981**, dan selepas itu program serta aktiv
 
 | Peranan | Pemegang jawatan |
 | --- | --- |
-| Ketua Pengarah | Ahmad Shapawi Ismail |
+| Ketua Pengarah | Arrifin Mohd Ghani (sejak 15 Oktober 2026) |
 | Menteri Belia dan Sukan | Hannah Yeoh |
 | Timbalan Menteri | Adam Adli |
 

@@ -18,7 +18,7 @@ keyTakeaways:
   - "Cotizó en Bursa Malaysia el 25 de agosto de 1997 y fue excluida de cotización (pasó a ser privada) el 18 de abril de 2014."
   - "Las importaciones de arroz se regulan bajo la Control of Paddy and Rice Act 1994 (Ley 522), que abarca el arroz, el padi, la harina de arroz glutinoso y los fideos (vermicelli)."
   - "La concesión actual de único importador está en vigor para un periodo de diez años, de 2021 a 2031, con una reserva reguladora obligatoria de 200,000 toneladas y diez obligaciones sociales."
-  - "El precio suelo de compra del padi en la Malasia Peninsular se elevó a RM1,500 por tonelada métrica con efecto desde el 16 de febrero de 2025, frente a los RM1,300 anteriores; Sabah y Sarawak se gestionan por separado."
+  - "El precio suelo de compra del padi se ajustó a nivel nacional a RM1,500 por tonelada métrica con efecto desde el 16 de febrero de 2025, frente a los RM1,300 anteriores (un ajuste nacional que abarca también Sabah y Sarawak)."
 appliesTo: "Lectores que estudian la política del padi y el arroz, la seguridad alimentaria, arroceros, analistas de políticas y estudiantes de economía agrícola malasia."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "La concesión actual está en vigor para el periodo de 2021 a 2031. En julio de 2026 el gobierno confirmó que revisaría el papel de BERNAS como único importador antes de que expire la concesión."
 
 lang: "es"
-sourceContentHash: "9cc09e4898ad7771"
+sourceContentHash: "9b3393caa807d543"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
 
 verificationNeeded:
   - "The TK2021 financial figures (revenue ~RM4.67 billion, profit after tax RM182.26 million, rice sales ~RM3.42 billion / 73%) — confirm against the official BERNAS annual report; could not be independently re-verified in this correction pass."
-  - "The specific paddy floor purchase price in Sabah and Sarawak (reported to remain RM1,300 per metric tonne) — confirm the figure and effective date against the official KPKM announcement before stating it."
   - "The year LPN/BERNAS began holding sole-importer status — sources conflict (Free Malaysia Today cites 1973; the BERNAS legacy page says LPN took over rice importation in 1974). The article deliberately omits the year; confirm before adding any year."
   - "The origin history of the guaranteed minimum price policy (claimed to have begun in 1949 in the academic literature) — confirm with a citable academic/primary source before stating a specific year."
   - "The exact number of social obligations (ten, doubled from five) and the buffer stock figure (200,000 tonnes, raised from 150,000) — confirm against the official 2021–2031 concession document."
@@ -142,12 +141,11 @@ prórroga de la concesión, el doble de las cinco anteriores. Entre las principa
 
 Esta política de precio mínimo garantizado no es un concepto nuevo; ha sido durante
 mucho tiempo una herramienta de política para estimular la producción de padi. Más
-recientemente, el gobierno elevó el precio suelo de compra del padi en la Malasia
-Peninsular a **RM1,500 por tonelada métrica**, con efecto desde el 16 de febrero de
-2025, frente a los RM1,300 anteriores. Este ajuste se aplica solo en la Malasia
-Peninsular; los precios suelo en Sabah y Sarawak se gestionan por separado debido a
-las diferencias en los costes de producción, la productividad y la estructura del
-mercado.
+recientemente, el gobierno ajustó el precio suelo de compra del padi a nivel
+nacional a **RM1,500 por tonelada métrica**, con efecto desde el 16 de febrero de
+2025, frente a los RM1,300 anteriores. Este ajuste se aplica en todo el país —
+incluidos Sabah y Sarawak, que también se ajustaron a RM1,300 en 2024 — para tener
+en cuenta el aumento de los costes de mano de obra, fertilizantes y pesticidas.
 
 ## ¿Qué magnitud tiene este negocio?
 

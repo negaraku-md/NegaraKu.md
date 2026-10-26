@@ -18,7 +18,7 @@ keyTakeaways:
   - "Nó được niêm yết tại Bursa Malaysia vào ngày 25 tháng 8 năm 1997 và hủy niêm yết (đưa về tư nhân) vào ngày 18 tháng 4 năm 2014."
   - "Nhập khẩu gạo được kiểm soát theo Control of Paddy and Rice Act 1994 (Act 522), bao trùm gạo, lúa, bột nếp và bún."
   - "Nhượng quyền nhà nhập khẩu duy nhất hiện tại có hiệu lực cho giai đoạn mười năm từ 2021 đến 2031, với kho đệm bắt buộc 200,000 tấn và mười nghĩa vụ xã hội."
-  - "Giá sàn thu mua lúa ở Bán đảo Malaysia được nâng lên RM1,500 mỗi tấn mét có hiệu lực từ ngày 16 tháng 2 năm 2025, từ RM1,300 trước đó; Sabah và Sarawak được xử lý riêng biệt."
+  - "Giá sàn thu mua lúa được điều chỉnh trên toàn quốc lên RM1,500 mỗi tấn mét có hiệu lực từ ngày 16 tháng 2 năm 2025, từ RM1,300 trước đó (điều chỉnh toàn quốc bao gồm cả Sabah và Sarawak)."
 appliesTo: "Người đọc nghiên cứu chính sách lúa và gạo, an ninh lương thực, nông dân trồng lúa, nhà phân tích chính sách và sinh viên kinh tế nông nghiệp Malaysia."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "Nhượng quyền hiện tại có hiệu lực cho giai đoạn 2021 đến 2031. Vào tháng 7 năm 2026, chính phủ xác nhận sẽ rà soát vai trò nhà nhập khẩu duy nhất của BERNAS trước khi nhượng quyền đó kết thúc."
 
 lang: "vi"
-sourceContentHash: "9cc09e4898ad7771"
+sourceContentHash: "9b3393caa807d543"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
 
 verificationNeeded:
   - "Các con số tài chính NTC2021 (doanh thu ~RM4.67 tỷ, lợi nhuận sau thuế RM182.26 triệu, doanh số bán gạo ~RM3.42 tỷ / 73%) — hãy xác nhận với báo cáo thường niên chính thức của BERNAS; không thể kiểm chứng lại độc lập trong đợt hiệu đính này."
-  - "Giá sàn thu mua lúa cụ thể ở Sabah và Sarawak (được báo cáo là giữ ở RM1,300 mỗi tấn mét) — hãy xác nhận con số và ngày có hiệu lực với thông báo chính thức của KPKM trước khi nêu."
   - "Năm mà LPN/BERNAS bắt đầu giữ vị thế nhà nhập khẩu duy nhất — các nguồn mâu thuẫn (Free Malaysia Today nêu 1973; trang legacy của BERNAS nêu LPN tiếp quản việc nhập khẩu gạo vào 1974). Bài viết cố ý không nêu năm; hãy xác nhận trước khi thêm bất kỳ năm nào."
   - "Nguồn gốc lịch sử của chính sách giá tối thiểu được bảo đảm (được cho là bắt đầu năm 1949 trong tài liệu học thuật) — hãy xác nhận với một nguồn học thuật/sơ cấp có thể trích dẫn trước khi nêu một năm cụ thể."
   - "Số lượng chính xác các nghĩa vụ xã hội (mười, tăng gấp đôi từ năm) và con số kho đệm (200,000 tấn, tăng từ 150,000) — hãy xác nhận với tài liệu nhượng quyền chính thức 2021–2031."
@@ -117,7 +116,7 @@ Thế độc quyền đi kèm điều kiện. Đổi lại quyền nhập khẩu
 - **Cấp phát trợ cấp** — phân phối trợ cấp giá lúa cho nông dân thay mặt chính phủ.
 - **Hỗ trợ nhà xay xát Bumiputera** — các chương trình như Rakan Kilang để giúp các nhà xay xát gạo Bumiputera.
 
-Chính sách giá tối thiểu được bảo đảm này không phải là một khái niệm mới; nó từ lâu đã là một công cụ chính sách để kích thích sản xuất lúa. Gần đây, chính phủ nâng giá sàn thu mua lúa ở Bán đảo Malaysia lên **RM1,500 mỗi tấn mét**, có hiệu lực từ ngày 16 tháng 2 năm 2025, từ RM1,300 trước đó. Việc điều chỉnh này chỉ áp dụng ở Bán đảo Malaysia; giá sàn ở Sabah và Sarawak được xử lý riêng biệt do khác biệt về chi phí sản xuất, năng suất và cấu trúc thị trường.
+Chính sách giá tối thiểu được bảo đảm này không phải là một khái niệm mới; nó từ lâu đã là một công cụ chính sách để kích thích sản xuất lúa. Gần đây, chính phủ điều chỉnh giá sàn thu mua lúa trên toàn quốc lên **RM1,500 mỗi tấn mét**, có hiệu lực từ ngày 16 tháng 2 năm 2025, từ RM1,300 trước đó. Việc điều chỉnh này áp dụng trên toàn quốc — bao gồm cả Sabah và Sarawak, vốn cũng đã được điều chỉnh lên RM1,300 vào năm 2024 — nhằm tính đến chi phí lao động, phân bón và thuốc trừ sâu tăng cao.
 
 ## Hoạt động kinh doanh này lớn đến mức nào?
 

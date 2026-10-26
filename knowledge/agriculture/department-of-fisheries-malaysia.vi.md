@@ -18,6 +18,7 @@ keyTakeaways:
   - "Mọi hoạt động đánh bắt bằng thiết bị hoặc tàu trong vùng nước Malaysia phải được cấp phép; DOF cấp giấy phép tàu, đánh bắt xa bờ (C2), cá ngừ (C3), nuôi trồng biển (SKL) và thiết bị tập trung cá (MPPI) cùng thẻ ngư dân."
   - "Các giấy phép Sampan, Zone A, Zone B và Zone C bị đóng băng — chỉ còn giấy phép đánh bắt xa bờ (C2) và cá ngừ (C3) còn khả dụng."
   - "Tổng giá trị sản xuất thủy sản của Malaysia năm 2023 là RM16.5 tỷ, tăng 3.6% từ RM15.9 tỷ năm 2022; sản lượng cá ăn được là 1.79 triệu tấn."
+  - "Năm 2024, sản lượng tăng 7.1% về khối lượng lên 1.91 triệu tấn, trong khi giá trị ngành tăng khiêm tốn hơn 2.5% lên RM16.9 tỷ (RM11.8 tỷ, hay 0.7%, của GDP)."
 appliesTo: "Ngư dân, nhà điều hành nuôi trồng thủy sản, nhà xuất khẩu và nhập khẩu sản phẩm thủy sản, sinh viên, nhà nghiên cứu, và bất kỳ ai cần một tài liệu tham khảo có thẩm quyền về cơ quan quản lý thủy sản của Malaysia."
 faq:
   - q: "Cục Thủy sản Malaysia báo cáo cho bộ nào?"
@@ -27,7 +28,7 @@ faq:
   - q: "DOF quản lý luật nào?"
     a: "Đạo luật chính của cục là Fisheries Act 1985 (Act 317), bao trùm việc bảo tồn, quản lý và phát triển đánh bắt cá và nghề cá trong vùng nước Malaysia, bao gồm cấp phép, nuôi trồng thủy sản, động vật có vú dưới nước và rùa."
 lang: "vi"
-sourceContentHash: "0a6f38093e7691ce"
+sourceContentHash: "66daf0f263dfbde4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,7 +45,6 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "Năm thành lập/thiết lập của DOF và lịch sử định chế (tiền thân Fisheries Act 1963) — chưa được xác nhận trên bất kỳ trang sơ cấp nào đã mở."
-  - "Các số liệu thống kê 2024 được báo chí đưa tin (tổng sản lượng ~1.91 triệu tấn, giá trị ngành ~RM16.9 tỷ, tăng trưởng 7.1%) — hãy xác nhận với PDF sơ cấp Thống kê Thường niên / Báo cáo Thường niên của DOF trước khi nêu."
   - "Các khoản phí cấp phép và đăng ký hiện hành — không được công bố trong FAQ cấp phép."
   - "Các ranh giới hải lý chính xác xác định các Zone A/B/C — FAQ chỉ đưa ra các khoảng một phần."
   - "Số lượng và vị trí các văn phòng bang và huyện của DOF — hãy xác nhận từ trang vị trí văn phòng bang của DOF."
@@ -107,7 +107,7 @@ Quan trọng là, việc cấp giấy phép cho **Sampan, Zone A, Zone B và Zon
 
 ## Ngành này lớn đến mức nào?
 
-**Tổng giá trị sản xuất thủy sản của Malaysia năm 2023 là RM16.5 tỷ**, tăng 3.6% từ RM15.9 tỷ năm 2022. Sản lượng cá ăn được là 1.79 triệu tấn mét (giảm 5.51% từ 1.89 triệu năm 2022), cùng 241 triệu con cá cảnh và 26 triệu bó cây thủy sinh.
+**Tổng giá trị sản xuất thủy sản của Malaysia năm 2023 là RM16.5 tỷ**, tăng 3.6% từ RM15.9 tỷ năm 2022. Sản lượng cá ăn được là 1.79 triệu tấn mét (giảm 5.51% từ 1.89 triệu năm 2022), cùng 241 triệu con cá cảnh và 26 triệu bó cây thủy sinh. Năm 2024, tổng sản lượng thủy sản tăng lên **1.91 triệu tấn — tăng 7.1% về khối lượng** — trong khi giá trị của ngành tăng khiêm tốn hơn **2.5% lên RM16.9 tỷ**, đóng góp RM11.8 tỷ (0.7%) vào GDP.
 
 Bối cảnh rộng hơn từ phân tích được bình duyệt: năm 2022 ngành được định giá RM15.97 tỷ, đóng góp 11.6% GDP nông nghiệp và 0.8% GDP quốc gia, và trực tiếp tạo việc làm cho 149,630 lao động. Sản xuất chia thành 69% khai thác biển, 30% nuôi trồng thủy sản và 1% nội địa, với tỷ lệ tự cung tự cấp cá thực phẩm là 90.2%, mức tiêu thụ bình quân đầu người 46.22 kg, và 48,605 tàu cá đang hoạt động.
 

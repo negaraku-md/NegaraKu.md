@@ -31,7 +31,7 @@ faq:
     a: "कोई सार्वभौमिक प्रवेश टीका आवश्यकता नहीं है, पर US CDC यात्रियों को नियमित टीकों पर अद्यतन रहने और हेपेटाइटिस A तथा टाइफाइड पर विचार करने की सलाह देता है; अपने यात्रा-कार्यक्रम के आधार पर रेबीज़, जापानी एन्सेफ़लाइटिस और मलेरिया की गोलियों के बारे में एक यात्रा क्लिनिक से चर्चा करें।"
 
 lang: "hi"
-sourceContentHash: "e99fd08a031d5f4f"
+sourceContentHash: "d1207a56295ee523"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "The RM50,000 fine / up to one year imprisonment penalty for false 999 calls (attributed to Section 233 of the Communications and Multimedia Act 1998 on civildefence.gov.my) — confirm the section and amount against the current statute before publication."
   - "Whether the two-SIM-per-telco cap and three-month tourist-SIM validity are fully in force at the visitor's travel date (the MCMC mandatory standard was registered 26 February 2026; confirm the enforcement/effective date)."
   - "SIM registration document rules beyond 'original passport / biometric verification' — the cited source does not address whether photocopies or scans are ever accepted; confirm with each telco if relevant."
   - "Disruption of east-coast island boat and resort operations during the Northeast Monsoon is general travel guidance, not stated in the cited MET Malaysia source; confirm operator schedules directly."
@@ -80,7 +79,7 @@ keywords: ["मलेशिया यात्रा सुझाव", "999 आ�
 
 ## आपात स्थिति में मैं कौन सा नंबर कॉल करूँ?
 
-**999.** मलेशिया मलेशिया आपातकालीन प्रतिक्रिया प्रणाली (MERS) नामक एक अकेली एकीकृत लाइन चलाता है, जिसने 1 October 2007 को शुरू होने पर पुराने 991, 994 और 999 नंबरों को एक में मिला दिया। एक अकेली कॉल पुलिस (PDRM), स्वास्थ्य मंत्रालय के तहत एम्बुलेंस सेवा, अग्निशमन तथा बचाव विभाग (JBPM), और नागरिक सुरक्षा बल (JPAM) तक पहुँचती है। कॉल मुफ़्त हैं। मज़ाक़ या झूठी कॉल एक अपराध है: नागरिक सुरक्षा बल नोट करता है कि [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) की Section 233 के तहत एक झूठी कॉल RM50,000 तक का जुर्माना, एक साल तक की क़ैद, या दोनों ला सकती है — इसलिए इसका उपयोग केवल वास्तविक आपात स्थितियों के लिए करें।
+**999.** मलेशिया मलेशिया आपातकालीन प्रतिक्रिया प्रणाली (MERS) नामक एक अकेली एकीकृत लाइन चलाता है, जिसने 1 October 2007 को शुरू होने पर पुराने 991, 994 और 999 नंबरों को एक में मिला दिया। एक अकेली कॉल पुलिस (PDRM), स्वास्थ्य मंत्रालय के तहत एम्बुलेंस सेवा, अग्निशमन तथा बचाव विभाग (JBPM), और नागरिक सुरक्षा बल (JPAM) तक पहुँचती है। कॉल मुफ़्त हैं। मज़ाक़ या झूठी कॉल एक अपराध है: नागरिक सुरक्षा बल नोट करता है कि [Communications and Multimedia Act 1998](/law/communications-and-multimedia-act-1998) की Section 233 के तहत — 2025 में संशोधित, 11 February 2025 से प्रभावी — एक झूठी कॉल RM500,000 तक का जुर्माना, दो साल तक की क़ैद, या दोनों ला सकती है, साथ ही निरंतर अपराध के जारी रहने पर प्रत्येक दिन के लिए अतिरिक्त RM5,000 — इसलिए इसका उपयोग केवल वास्तविक आपात स्थितियों के लिए करें।
 
 ज़रूरत पड़ने से पहले अपने फ़ोन में 999 सहेज लें।
 

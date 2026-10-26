@@ -17,7 +17,7 @@ keyTakeaways:
   - "RP4 के तहत औसत आधार टैरिफ दर 45.40 sen/kWh है, जो 1 जुलाई 2025 से नई टैरिफ के लिए प्रभावी है; RP4 विनियामक अवधि स्वयं जनवरी 2025 से दिसंबर 2027 तक चलती है।"
   - "घरेलू बिलों में अब पाँच घटक हैं: ऊर्जा, क्षमता, नेटवर्क, खुदरा और AFA शुल्क।"
   - "घरेलू ऊर्जा शुल्क 1,500 kWh तक के उपयोग के लिए 27.03 sen/kWh और उससे ऊपर की अधिकता के लिए 37.03 sen/kWh है।"
-  - "AFA, ICPT की जगह लेता है और मासिक रूप से परिकलित होता है; उदाहरण के लिए, अगस्त 2025 का AFA Energy Commission द्वारा -1.45 sen/kWh (एक छूट) निर्धारित किया गया, जिसकी उतार-चढ़ाव सीमा ±3 sen/kWh है।"
+  - "AFA, ICPT की जगह लेता है और मासिक रूप से परिकलित होता है; उदाहरण के लिए, अगस्त 2025 का AFA Energy Commission द्वारा -1.45 sen/kWh (एक छूट) निर्धारित किया गया। मासिक AFA वृद्धि 3 sen/kWh पर सीमित है — इस सीमा से अधिक की वृद्धि के लिए कैबिनेट की स्वीकृति आवश्यक है।"
 appliesTo: "प्रायद्वीपीय मलेशिया में TNB के घरेलू बिजली उपभोक्ता जो अपना मासिक बिल समझना चाहते हैं।"
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "नहीं। प्रति माह 600 kWh या उससे कम उपयोग करने वाले घरों के लिए RM10 मासिक खुदरा शुल्क माफ़ कर दिया जाता है।"
 
 lang: "hi"
-sourceContentHash: "b885e498c8215018"
+sourceContentHash: "7346638db9f1ac3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ verificationNeeded:
   - "The Time-of-Use rates (peak 28.52 / off-peak 24.43 sen/kWh) and the peak and off-peak time windows — confirm against the official ST/TNB ToU schedule."
   - "AFA berubah setiap bulan; -1.45 sen/kWj hanya sah untuk Ogos 2025 — pengguna perlu menyemak nilai bulan semasa yang diumumkan Suruhanjaya Tenaga."
   - "The Energy Efficiency Incentive (EEI) rebate of up to 25 sen/kWh for consumption ≤1,000 kWh and the RM10 Retail Charge exemption for ≤600 kWh — confirm the conditions and rates against official ST documents."
-  - "Had turun naik AFA ±3 sen/kWj sebulan — sahkan terhadap dokumen kawal selia RP4 rasmi."
 
 updated: 2026-08-01
 sources:
@@ -112,7 +111,7 @@ RP4 के तहत औसत आधार टैरिफ दर 45.40 sen/kWh
 
 ## AFA क्या है और यह ICPT से कैसे भिन्न है?
 
-AFA आपकी टैरिफ को हर महीने वैश्विक ईंधन कीमतों और विनिमय दर के अनुसार समायोजित करता है, जो छमाही ICPT समीक्षा की जगह लेता है। यह या तो एक अतिरिक्त शुल्क हो सकता है या छूट, जिसकी उतार-चढ़ाव सीमा प्रति माह ±3 sen/kWh है। उदाहरण के लिए, Energy Commission ने अगस्त 2025 के लिए AFA -1.45 sen/kWh निर्धारित किया — एक छूट जो बिल को कम करती है। चूँकि यह मान हर महीने बदलता है, Energy Commission द्वारा घोषित वर्तमान AFA मान की जाँच करें।
+AFA आपकी टैरिफ को हर महीने वैश्विक ईंधन कीमतों और विनिमय दर के अनुसार समायोजित करता है, जो छमाही ICPT समीक्षा की जगह लेता है। यह या तो एक अतिरिक्त शुल्क हो सकता है या छूट; मासिक AFA वृद्धि 3 sen/kWh पर सीमित है, और इस सीमा से अधिक की कोई भी वृद्धि कैबिनेट की स्वीकृति आवश्यक करती है (छूट इस सीमा से बंधी नहीं हैं)। उदाहरण के लिए, Energy Commission ने अगस्त 2025 के लिए AFA -1.45 sen/kWh निर्धारित किया — एक छूट जो बिल को कम करती है। चूँकि यह मान हर महीने बदलता है, Energy Commission द्वारा घोषित वर्तमान AFA मान की जाँच करें।
 
 ## क्या आपको टाइम-ऑफ-यूज़ टैरिफ चुनना चाहिए?
 

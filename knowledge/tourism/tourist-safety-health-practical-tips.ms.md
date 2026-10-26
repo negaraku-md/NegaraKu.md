@@ -31,7 +31,7 @@ faq:
     a: "Tiada keperluan vaksin kemasukan sejagat, tetapi CDC Amerika Syarikat menasihati pelancong supaya terkini dengan vaksin rutin dan mempertimbangkan hepatitis A dan tifoid; bincangkan pil rabies, ensefalitis Jepun dan malaria dengan klinik perjalanan berdasarkan pelan perjalanan anda."
 
 lang: "ms"
-sourceContentHash: "e99fd08a031d5f4f"
+sourceContentHash: "d1207a56295ee523"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Denda RM50,000 / penjara sehingga satu tahun bagi panggilan 999 palsu (dikaitkan dengan Section 233 Communications and Multimedia Act 1998 di civildefence.gov.my) — sahkan seksyen dan jumlah terhadap statut semasa sebelum penerbitan."
   - "Sama ada had dua SIM setiap telko dan tempoh sah SIM pelancong tiga bulan berkuat kuasa sepenuhnya pada tarikh perjalanan pelawat (standard mandatori MCMC didaftarkan pada 26 Februari 2026; sahkan tarikh penguatkuasaan/berkuat kuasa)."
   - "Peraturan dokumen pendaftaran SIM melebihi 'pasport asal / pengesahan biometrik' — sumber yang dipetik tidak menangani sama ada salinan fotostat atau imbasan pernah diterima; sahkan dengan setiap telko jika berkaitan."
   - "Gangguan operasi bot dan resort pulau pantai timur semasa Monsun Timur Laut ialah panduan perjalanan umum, tidak dinyatakan dalam sumber MET Malaysia yang dipetik; sahkan jadual pengendali secara langsung."
@@ -80,7 +79,7 @@ Anda baru mendarat, anda keletihan akibat jet lag, dan telefon anda tidak menunj
 
 ## Nombor apa yang saya perlu dail dalam kecemasan?
 
-**999.** Malaysia mengendalikan satu talian bersepadu tunggal yang dipanggil Sistem Respons Kecemasan Malaysia (MERS), yang menggabungkan nombor lama 991, 994 dan 999 menjadi satu apabila ia dilancarkan pada 1 Oktober 2007. Satu panggilan menghubungi polis (PDRM), perkhidmatan ambulans di bawah Kementerian Kesihatan, Jabatan Bomba dan Penyelamat (JBPM), serta Angkatan Pertahanan Awam (JPAM). Panggilan adalah percuma. Panggilan usikan atau palsu adalah satu kesalahan: Angkatan Pertahanan Awam menyatakan bahawa di bawah Seksyen 233 [Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998), panggilan palsu boleh membawa denda sehingga RM50,000, penjara sehingga satu tahun, atau kedua-duanya — jadi gunakannya hanya untuk kecemasan yang benar.
+**999.** Malaysia mengendalikan satu talian bersepadu tunggal yang dipanggil Sistem Respons Kecemasan Malaysia (MERS), yang menggabungkan nombor lama 991, 994 dan 999 menjadi satu apabila ia dilancarkan pada 1 Oktober 2007. Satu panggilan menghubungi polis (PDRM), perkhidmatan ambulans di bawah Kementerian Kesihatan, Jabatan Bomba dan Penyelamat (JBPM), serta Angkatan Pertahanan Awam (JPAM). Panggilan adalah percuma. Panggilan usikan atau palsu adalah satu kesalahan: Angkatan Pertahanan Awam menyatakan bahawa di bawah Seksyen 233 [Akta Komunikasi dan Multimedia 1998](/law/communications-and-multimedia-act-1998) — sebagaimana dipinda pada 2025, berkuat kuasa 11 Februari 2025 — panggilan palsu boleh membawa denda sehingga RM500,000, penjara sehingga dua tahun, atau kedua-duanya, dengan tambahan RM5,000 bagi setiap hari kesalahan berterusan berlaku — jadi gunakannya hanya untuk kecemasan yang benar.
 
 Simpan 999 dalam telefon anda sebelum anda memerlukannya.
 

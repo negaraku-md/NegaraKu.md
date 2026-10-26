@@ -96,7 +96,7 @@ Bayangkan sebuah keluarga miskin dipindahkan ke hutan yang baru ditebang, diberi
 
 Lembaga Kemajuan Tanah Persekutuan (FELDA) ditubuhkan pada **1 Julai 1956** di bawah **Ordinan Kemajuan Tanah 1956**. Ordinan itu kemudian disemak semula pada 1991 dan digantikan dengan **Akta Pembangunan Tanah 1956 (Akta 474)**. Matlamatnya jelas dan mendesak pada zaman awal kemerdekaan: membasmi kemiskinan luar bandar dengan membuka tanah baharu untuk pertanian dan menempatkan keluarga miskin sebagai peneroka.
 
-Skim ini merupakan jawapan dasar era awal kemerdekaan kepada masalah tanah dan kemiskinan yang membelenggu penduduk luar bandar. Skim pertama, **Rancangan Kemajuan Tanah Air Lanas di Kelantan**, dibuka pada **Mac 1957** dan menempatkan kira-kira 400 peneroka merentasi 1,680 hektar. Dari benih itu, FELDA berkembang menjadi salah satu program penempatan semula luar bandar terbesar di dunia.
+Skim ini merupakan jawapan dasar era awal kemerdekaan kepada masalah tanah dan kemiskinan yang membelenggu penduduk luar bandar. Skim pertama, **Rancangan Kemajuan Tanah Air Lanas di Kelantan**, dibuka pada **Mac 1957** dan menempatkan kira-kira 400 peneroka merentasi 1,620 hektar. Dari benih itu, FELDA berkembang menjadi salah satu program penempatan semula luar bandar terbesar di dunia.
 
 Pada peringkat awal ini, FELDA hanya bertindak sebagai pengantara yang menyalurkan dana Kerajaan Persekutuan kepada rancangan tanah kerajaan negeri. FELDA membuka tanah rancangannya **sendiri** buat pertama kali di **Lurah Bilut, Pahang pada 1958** — sebuah rancangan getah seluas 2,631 hektar yang menempatkan 616 peneroka. Beberapa tahun kemudian, FELDA membuka tanah rancangan kelapa sawit pertamanya, **FELDA Taib Andak di Kulai, Johor pada 1961**, seluas 3,385 hektar dengan 628 peneroka. Menurut Kertas Putih FELDA 2019, sepanjang enam dekad FELDA membangunkan kira-kira **870,000 hektar** (termasuk ladang komersial dan kawasan kampung) dan menempatkan **112,635 peneroka di 317 tanah rancangan**.
 
@@ -115,7 +115,7 @@ Berikut ialah peristiwa penting dalam perkembangan FELDA:
 | Tahun | Peristiwa |
 | --- | --- |
 | 1956 | FELDA ditubuhkan (1 Julai) di bawah Ordinan Kemajuan Tanah 1956 (kemudian Akta 474) |
-| 1957 | Skim pertama, Rancangan Air Lanas, Kelantan (Mac) — kira-kira 400 peneroka, 1,680 hektar |
+| 1957 | Skim pertama, Rancangan Air Lanas, Kelantan (Mac) — kira-kira 400 peneroka, 1,620 hektar |
 | 1958 | Tanah rancangan sendiri pertama, Lurah Bilut, Pahang — 2,631 hektar getah, 616 peneroka |
 | 1961 | Tanah rancangan kelapa sawit pertama, FELDA Taib Andak, Johor — 3,385 hektar, 628 peneroka |
 | 1988 | Dasar Pendapatan Minima Peneroka diperkenalkan |

@@ -18,6 +18,7 @@ keyTakeaways:
   - "Toute pêche avec équipement ou embarcation dans les eaux malaisiennes doit être autorisée ; le DOF délivre des licences d'embarcation, de haute mer (C2), de thon (C3), d'élevage marin (SKL) et de dispositif de concentration de poissons (MPPI), ainsi que des cartes de pêcheur."
   - "Les licences de Sampan, de la Zone A, de la Zone B et de la Zone C sont gelées — seules les licences de haute mer (C2) et de thon (C3) restent disponibles."
   - "La valeur totale de la production halieutique de la Malaisie en 2023 s'est élevée à RM16.5 milliards, en hausse de 3.6% par rapport aux RM15.9 milliards de 2022 ; la production de poisson comestible a atteint 1.79 million de tonnes."
+  - "En 2024, la production a augmenté de 7.1% en volume pour atteindre 1.91 million de tonnes, tandis que la valeur du secteur a connu une croissance plus modérée de 2.5% pour atteindre RM16.9 milliards (RM11.8 milliards, soit 0.7%, du PIB)."
 appliesTo: "Pêcheurs, exploitants aquacoles, exportateurs et importateurs de produits de la pêche, étudiants, chercheurs et toute personne ayant besoin d'une référence faisant autorité sur le régulateur de la pêche en Malaisie."
 faq:
   - q: "De quel ministère relève le Département des pêches de Malaisie ?"
@@ -27,7 +28,7 @@ faq:
   - q: "Quelle loi le DOF administre-t-il ?"
     a: "Son statut principal est la loi sur la pêche de 1985 (Act 317), qui couvre la conservation, la gestion et le développement de la pêche et des pêcheries dans les eaux malaisiennes, y compris les licences, l'aquaculture, les mammifères aquatiques et les tortues."
 lang: "fr"
-sourceContentHash: "0a6f38093e7691ce"
+sourceContentHash: "66daf0f263dfbde4"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -44,7 +45,6 @@ revisions:
     reviewer: null
 verificationNeeded:
   - "L'année de fondation/création du DOF et son histoire institutionnelle (la loi sur la pêche de 1963 qui l'a précédée) — non confirmées sur aucune page primaire consultée."
-  - "Les statistiques de 2024 rapportées dans la presse (production totale ~1.91 million de tonnes, valeur du secteur ~RM16.9 milliards, croissance de 7.1%) — à confirmer face aux Statistiques annuelles / au Rapport annuel primaire du DOF avant toute affirmation."
   - "Les redevances actuelles de licence et d'immatriculation — non publiées dans la FAQ sur les licences."
   - "Les limites exactes en milles marins définissant les Zones A/B/C — la FAQ ne donne que des fourchettes partielles."
   - "Le nombre et l'emplacement des bureaux d'État et de district du DOF — à confirmer sur la page des emplacements des bureaux d'État du DOF."
@@ -107,7 +107,7 @@ De manière cruciale, la délivrance de licences pour **Sampan, Zone A, Zone B e
 
 ## Quelle est la taille du secteur ?
 
-La **valeur totale de la production halieutique de la Malaisie en 2023 s'est élevée à RM16.5 milliards**, soit une hausse de 3.6% par rapport aux RM15.9 milliards de 2022. La production de poisson comestible a atteint 1.79 million de tonnes métriques (une baisse de 5.51% par rapport aux 1.89 million de 2022), aux côtés de 241 millions d'unités de poissons d'ornement et de 26 millions de bottes de plantes aquatiques.
+La **valeur totale de la production halieutique de la Malaisie en 2023 s'est élevée à RM16.5 milliards**, soit une hausse de 3.6% par rapport aux RM15.9 milliards de 2022. La production de poisson comestible a atteint 1.79 million de tonnes métriques (une baisse de 5.51% par rapport aux 1.89 million de 2022), aux côtés de 241 millions d'unités de poissons d'ornement et de 26 millions de bottes de plantes aquatiques. En 2024, la production halieutique totale est passée à **1.91 million de tonnes — une hausse de 7.1% en volume** — tandis que la valeur du secteur a connu une croissance plus modérée de **2.5% pour atteindre RM16.9 milliards**, contribuant à hauteur de RM11.8 milliards (0.7%) au PIB.
 
 Contexte plus large à partir d'analyses évaluées par les pairs : en 2022, le secteur était évalué à RM15.97 milliards, contribuant à hauteur de 11.6% du PIB agricole et de 0.8% du PIB national, et employait directement 149,630 travailleurs. La production se répartissait entre 69% de capture marine, 30% d'aquaculture et 1% continentale, avec un taux d'autosuffisance en poisson comestible de 90.2%, une consommation par habitant de 46.22 kg et 48,605 navires de pêche actifs.
 

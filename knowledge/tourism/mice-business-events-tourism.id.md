@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "industry"
 sensitivity: "none"
 
-answer: "Industri acara bisnis Malaysia dikoordinasikan pada tingkat nasional oleh Biro Konvensi & Pameran Malaysia (MyCEB), sebuah lembaga di bawah Kementerian Pariwisata, Seni dan Budaya yang mengajukan tawaran serta membantu menyelenggarakan pertemuan, insentif, konvensi, pameran dan acara olahraga internasional. MyCEB melaporkan bahwa Malaysia telah menyelenggarakan 3,105 acara bisnis yang menarik 3,223,491 delegasi internasional dan memperkirakan dampak ekonomi sebesar RM20.18 miliar sejak 2009. Sektor ini didukung oleh tempat yang dibangun khusus seperti Pusat Konvensi Kuala Lumpur, Pusat Perdagangan & Pameran Internasional Malaysia (MITEC), dan Pusat Konvensi Borneo Kuching, yang sedang berkembang untuk memenuhi kebutuhan Malaysia Timur."
+answer: "Industri acara bisnis Malaysia dikoordinasikan pada tingkat nasional oleh Biro Konvensi & Pameran Malaysia (MyCEB), sebuah lembaga di bawah Kementerian Pariwisata, Seni dan Budaya yang mengajukan tawaran serta membantu menyelenggarakan pertemuan, insentif, konvensi, pameran dan acara olahraga internasional. MyCEB melaporkan bahwa Malaysia telah menyelenggarakan 3,105 acara bisnis yang menarik 3,223,491 delegasi (1,656,942 di antaranya internasional) dan memperkirakan dampak ekonomi sebesar RM20.18 miliar sejak 2009. Sektor ini didukung oleh tempat yang dibangun khusus seperti Pusat Konvensi Kuala Lumpur, Pusat Perdagangan & Pameran Internasional Malaysia (MITEC), dan Pusat Konvensi Borneo Kuching, yang sedang berkembang untuk memenuhi kebutuhan Malaysia Timur."
 keyTakeaways:
   - "MyCEB, sebuah lembaga di bawah Kementerian Pariwisata, Seni dan Budaya (MOTAC), adalah biro konvensi pusat Malaysia untuk acara bisnis dan olahraga internasional."
-  - "Sejak 2009 MyCEB melaporkan 3,105 acara bisnis, 3,223,491 delegasi internasional dan perkiraan dampak ekonomi sebesar RM20.18 miliar."
+  - "Sejak 2009 MyCEB melaporkan 3,105 acara bisnis, 3,223,491 delegasi (1,656,942 di antaranya internasional) dan perkiraan dampak ekonomi sebesar RM20.18 miliar."
   - "MITEC, yang dibuka pada 2016, memiliki 11 aula pameran mega dan 52,000 m² ruang pameran; CIDB mencatat ruang tanpa tiang seluas 12,530 m² di dalamnya."
   - "Pusat Konvensi Borneo Kuching sedang menambah bangunan kedua (BCCK2) dengan aula utama seluas 5,936 m² yang menampung hingga 9,500 orang, ditargetkan selesai pada 2028."
 appliesTo: "Perencana acara, asosiasi, penyelenggara pameran, pembeli insentif korporat dan peneliti yang menilai Malaysia sebagai destinasi MICE."
@@ -24,14 +24,14 @@ faq:
   - q: "Apa itu MyCEB dan apa fungsinya?"
     a: "Biro Konvensi & Pameran Malaysia (MyCEB) adalah biro konvensi nasional di bawah Kementerian Pariwisata, Seni dan Budaya. Ia bertindak sebagai hub satu atap yang membantu perencana pertemuan dan acara mengajukan tawaran, memenangi serta menyelenggarakan konvensi internasional, pameran, pertemuan korporat, perjalanan insentif dan acara olahraga internasional di Malaysia."
   - q: "Sebesar apa sektor acara bisnis Malaysia?"
-    a: "MyCEB melaporkan bahwa sejak 2009 Malaysia telah menyelenggarakan 3,105 acara bisnis, menarik 3,223,491 delegasi internasional dan menghasilkan perkiraan dampak ekonomi sebesar RM20.18 miliar."
+    a: "MyCEB melaporkan bahwa sejak 2009 Malaysia telah menyelenggarakan 3,105 acara bisnis, menarik 3,223,491 delegasi (1,656,942 di antaranya internasional) dan menghasilkan perkiraan dampak ekonomi sebesar RM20.18 miliar."
   - q: "Apa saja tempat konvensi dan pameran utama Malaysia?"
     a: "Pusat Konvensi Kuala Lumpur (KLCC) terletak di distrik bisnis pusat ibu kota; MITEC, dekat Dutamas di KL Metropolis, adalah tempat pameran terbesar negara; dan Pusat Konvensi Borneo Kuching memenuhi kebutuhan Sarawak dan Malaysia Timur."
   - q: "Mana tempat pameran terbesar di Malaysia?"
     a: "MITEC, yaitu Pusat Perdagangan & Pameran Internasional Malaysia, yang dibuka pada 2016 dengan 11 aula pameran mega dan 52,000 m² ruang pameran. CIDB mencatat ruang tanpa tiang seluas 12,530 m² di dalam bangunan tersebut."
 
 lang: "id"
-sourceContentHash: "25f7bdfa80a0bc8e"
+sourceContentHash: "32e28b750d1e2860"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -42,7 +42,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "MyCEB melabeli RM20.18 miliar sebagai 'Estimated Economic Impact' pada halaman utamanya, yang juga menampilkan angka terpisah yang dilabeli secara samar (1,656,942); konfirmasikan label dan nilai yang dimaksudkan dengan MyCEB langsung."
   - "Angka Meetings Show London (6,625 delegasi, RM116 juta, 2017–2023) berasal dari siaran pers MyCEB dan tidak diperoleh kembali dalam putaran koreksi ini; konfirmasikan sebelum bergantung padanya."
   - "Kawasan bebas tiang 12,530 meter persegi MITEC (menurut CIDB) terletak di dalam — bukan sebagai tambahan atas — total ruang pameran 52,000 meter persegi yang dinyatakan di situs resmi MITEC; konfirmasikan hubungan kedua angka."
   - "Total ruang pameran berbeda menurut sumber: situs resmi MITEC menyatakan 52,000 meter persegi, sedangkan CIDB menjelaskan 'satu juta kaki persegi' (~92,900 meter persegi), kemungkinan luas lantai kotor dibandingkan ruang pameran bersih; konfirmasikan dasar yang mana berlaku."
@@ -98,7 +97,8 @@ Skala yang dilaporkannya besar. Sejak 2009, MyCEB menyatakan Malaysia telah meny
 | Metrik (sejak 2009) | Angka |
 | --- | --- |
 | Acara bisnis diselenggarakan | 3,105 |
-| Delegasi internasional | 3,223,491 |
+| Delegasi (total) | 3,223,491 |
+| Delegasi internasional | 1,656,942 |
 | Perkiraan dampak ekonomi | RM20.18 miliar |
 
 Periode yang lebih sempit menunjukkan bagaimana partisipasi yang konsisten membuahkan hasil: MyCEB melaporkan bahwa dari 2017 hingga 2023, kehadirannya di The Meetings Show di London saja telah membantu membawa 6,625 delegasi bagi perkiraan dampak ekonomi sebesar RM116 juta.

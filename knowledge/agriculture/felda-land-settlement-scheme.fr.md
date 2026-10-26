@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (aujourd'hui FGV Holdings) est le bras d'investissement qui gère les plantations de FELDA. Elle a été cotée à la Bursa Malaysia le 28 juin 2012 et, au moment de l'introduction en bourse, gérait environ 500,000 hectares exploités par quelque 112,600 colons."
 
 lang: "fr"
-sourceContentHash: "dea25bf8a34a057f"
+sourceContentHash: "827c6da5e0f2c397"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ Imaginez une famille pauvre déplacée vers une forêt fraîchement défrichée,
 
 L'Autorité fédérale de développement des terres (FELDA) a été créée le **1er juillet 1956** en vertu de l'**ordonnance sur le développement des terres de 1956**. Cette ordonnance a ensuite été révisée en 1991 et remplacée par la **loi sur le développement des terres de 1956 (Act 474)**. Son objectif était clair et urgent dans les premières années de l'indépendance : éradiquer la pauvreté rurale en ouvrant de nouvelles terres à l'agriculture et en installant des familles pauvres comme colons.
 
-Le programme fut la réponse politique de l'ère du début de l'indépendance aux problèmes de terre et de pauvreté qui étreignaient les communautés rurales. Le premier programme, le **Programme de développement des terres d'Air Lanas, dans le Kelantan**, a été ouvert en **mars 1957** et a installé environ 400 colons sur 1,680 hectares. À partir de cette graine, FELDA est devenue l'un des plus grands programmes de réinstallation rurale au monde.
+Le programme fut la réponse politique de l'ère du début de l'indépendance aux problèmes de terre et de pauvreté qui étreignaient les communautés rurales. Le premier programme, le **Programme de développement des terres d'Air Lanas, dans le Kelantan**, a été ouvert en **mars 1957** et a installé environ 400 colons sur 1,620 hectares. À partir de cette graine, FELDA est devenue l'un des plus grands programmes de réinstallation rurale au monde.
 
 À ce stade précoce, FELDA n'agissait que comme un intermédiaire canalisant les fonds du gouvernement fédéral vers les programmes fonciers des gouvernements des États. Elle a ouvert son **propre** programme foncier pour la première fois à **Lurah Bilut, Pahang, en 1958** — un programme de caoutchouc de 2,631 hectares qui a installé 616 colons. Quelques années plus tard, FELDA a ouvert son premier programme foncier de palmier à huile, **FELDA Taib Andak, à Kulai, Johor, en 1961**, couvrant 3,385 hectares avec 628 colons. Selon le Livre blanc de FELDA de 2019, au cours de six décennies, FELDA a développé environ **870,000 hectares** (y compris les plantations commerciales et les zones de village) et installé **112,635 colons dans 317 programmes fonciers**.
 
@@ -116,7 +116,7 @@ Voici les événements clés du développement de FELDA :
 | Année | Événement |
 | --- | --- |
 | 1956 | FELDA créée (1er juillet) en vertu de l'ordonnance sur le développement des terres de 1956 (plus tard Act 474) |
-| 1957 | Premier programme, programme d'Air Lanas, Kelantan (mars) — environ 400 colons, 1,680 hectares |
+| 1957 | Premier programme, programme d'Air Lanas, Kelantan (mars) — environ 400 colons, 1,620 hectares |
 | 1958 | Premier programme foncier propre, Lurah Bilut, Pahang — 2,631 hectares de caoutchouc, 616 colons |
 | 1961 | Premier programme foncier de palmier à huile, FELDA Taib Andak, Johor — 3,385 hectares, 628 colons |
 | 1988 | Introduction de la Politique de revenu minimum des colons |

@@ -27,7 +27,7 @@ faq:
   - q: "¿Dónde tiene su sede el MSN?"
     a: "En el Complejo Deportivo Nacional (Kompleks Sukan Negara), Bukit Jalil, 57000 Sri Petaling, Kuala Lumpur. También opera complejos de entrenamiento en varios otros estados."
 lang: "es"
-sourceContentHash: "d519f370c717d10a"
+sourceContentHash: "80305dfafe9710fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -45,7 +45,7 @@ revisions:
 verificationNeeded:
   - "Verbatim official Vision (Visi) and Mission (Misi) text — nsc.gov.my publishes them only as images; OCR or a direct read is needed before quoting."
   - "Institut Sukan Negara (ISN) founding year and the precise MSN-vs-ISN division of labour (programme management by MSN vs performance/sports-science by ISN) — not yet confirmed against a primary source."
-  - "Current Director General as of 2026 — Wikipedia lists Ahmad Shapawi Ismail; confirm he still holds the post via nsc.gov.my before treating as current."
+  - "Senior office-holders change with ministry reshuffles; re-confirm the current Director General and deputies against nsc.gov.my before treating as up to date."
   - "Number and names of the state sports councils (Majlis Sukan Negeri) coordinated under the Act — not yet confirmed from a primary list."
   - "Full verbatim statutory list of the Council's functions from the Act itself, as opposed to paraphrased functions on secondary pages."
 updated: 2026-08-14
@@ -87,7 +87,7 @@ Después fue **reestructurado en 1981**, tras lo cual amplió considerablemente 
 
 | Cargo | Titular |
 | --- | --- |
-| Director General | Ahmad Shapawi Ismail |
+| Director General | Arrifin Mohd Ghani (desde el 15 de octubre de 2026) |
 | Ministra de Juventud y Deportes | Hannah Yeoh |
 | Viceministro | Adam Adli |
 

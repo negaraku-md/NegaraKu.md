@@ -17,7 +17,7 @@ keyTakeaways:
   - "The average base tariff rate under RP4 is 45.40 sen/kWh, effective for the new tariff from 1 July 2025; the RP4 regulatory period itself runs January 2025 to December 2027."
   - "Domestic bills now have five components: Energy, Capacity, Network, Retail and AFA charges."
   - "The domestic Energy Charge is 27.03 sen/kWh for usage up to 1,500 kWh and 37.03 sen/kWh for the excess above that."
-  - "AFA replaces ICPT and is calculated monthly; for example, the August 2025 AFA was set by the Energy Commission at -1.45 sen/kWh (a rebate), with a fluctuation cap of ±3 sen/kWh."
+  - "AFA replaces ICPT and is calculated monthly; for example, the August 2025 AFA was set by the Energy Commission at -1.45 sen/kWh (a rebate). Monthly AFA increases are capped at 3 sen/kWh — any increase beyond that cap requires Cabinet approval."
 appliesTo: "TNB domestic electricity consumers in Peninsular Malaysia who want to understand their monthly bill."
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "No. The RM10 monthly Retail Charge is waived for households using 600 kWh or less per month."
 
 lang: "en"
-sourceContentHash: "b885e498c8215018"
+sourceContentHash: "7346638db9f1ac3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ verificationNeeded:
   - "The Time-of-Use rates (peak 28.52 / off-peak 24.43 sen/kWh) and the peak and off-peak time windows — confirm against the official ST/TNB ToU schedule."
   - "AFA berubah setiap bulan; -1.45 sen/kWj hanya sah untuk Ogos 2025 — pengguna perlu menyemak nilai bulan semasa yang diumumkan Suruhanjaya Tenaga."
   - "The Energy Efficiency Incentive (EEI) rebate of up to 25 sen/kWh for consumption ≤1,000 kWh and the RM10 Retail Charge exemption for ≤600 kWh — confirm the conditions and rates against official ST documents."
-  - "Had turun naik AFA ±3 sen/kWj sebulan — sahkan terhadap dokumen kawal selia RP4 rasmi."
 
 updated: 2026-08-01
 sources:
@@ -112,7 +111,7 @@ Two important forms of assistance reduce the bill for a typical household:
 
 ## What is AFA and how does it differ from ICPT?
 
-AFA adjusts your tariff every month according to global fuel prices and the exchange rate, replacing the six-monthly ICPT review. It can be either an additional charge or a rebate, with a fluctuation cap of ±3 sen/kWh per month. For example, the Energy Commission set the AFA for August 2025 at -1.45 sen/kWh — a rebate that lowers the bill. Because this value changes every month, check the current AFA value announced by the Energy Commission.
+AFA adjusts your tariff every month according to global fuel prices and the exchange rate, replacing the six-monthly ICPT review. It can be either an additional charge or a rebate; monthly AFA increases are capped at 3 sen/kWh, and any increase beyond that cap requires Cabinet approval (rebates are not bound by this cap). For example, the Energy Commission set the AFA for August 2025 at -1.45 sen/kWh — a rebate that lowers the bill. Because this value changes every month, check the current AFA value announced by the Energy Commission.
 
 ## Should you choose the Time-of-Use tariff?
 

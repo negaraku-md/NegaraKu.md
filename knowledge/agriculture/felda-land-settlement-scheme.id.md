@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (kini FGV Holdings) adalah lengan investasi yang mengelola ladang FELDA. Ia dicatatkan di Bursa Malaysia pada 28 Juni 2012 dan pada masa IPO mengelola sekitar 500,000 hektar yang diusahakan oleh sekitar 112,600 peneroka."
 
 lang: "id"
-sourceContentHash: "dea25bf8a34a057f"
+sourceContentHash: "827c6da5e0f2c397"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ Bayangkan sebuah keluarga miskin dipindahkan ke hutan yang baru ditebang, diberi
 
 Lembaga Kemajuan Tanah Federal (FELDA) didirikan pada **1 Juli 1956** di bawah **Ordinan Kemajuan Tanah 1956**. Ordinan itu kemudian ditinjau ulang pada 1991 dan digantikan dengan **Akta Pembangunan Tanah 1956 (Akta 474)**. Tujuannya jelas dan mendesak pada masa awal kemerdekaan: membasmi kemiskinan perdesaan dengan membuka tanah baru untuk pertanian dan menempatkan keluarga miskin sebagai peneroka.
 
-Skema ini merupakan jawaban kebijakan era awal kemerdekaan terhadap masalah tanah dan kemiskinan yang membelenggu penduduk perdesaan. Skema pertama, **Rancangan Kemajuan Tanah Air Lanas di Kelantan**, dibuka pada **Maret 1957** dan menempatkan sekitar 400 peneroka di 1,680 hektar. Dari benih itu, FELDA berkembang menjadi salah satu program penempatan kembali perdesaan terbesar di dunia.
+Skema ini merupakan jawaban kebijakan era awal kemerdekaan terhadap masalah tanah dan kemiskinan yang membelenggu penduduk perdesaan. Skema pertama, **Rancangan Kemajuan Tanah Air Lanas di Kelantan**, dibuka pada **Maret 1957** dan menempatkan sekitar 400 peneroka di 1,620 hektar. Dari benih itu, FELDA berkembang menjadi salah satu program penempatan kembali perdesaan terbesar di dunia.
 
 Pada tahap awal ini, FELDA hanya bertindak sebagai perantara yang menyalurkan dana Pemerintah Federal kepada rancangan tanah pemerintah negara bagian. FELDA membuka tanah rancangannya **sendiri** untuk pertama kali di **Lurah Bilut, Pahang pada 1958** — sebuah rancangan karet seluas 2,631 hektar yang menempatkan 616 peneroka. Beberapa tahun kemudian, FELDA membuka tanah rancangan kelapa sawit pertamanya, **FELDA Taib Andak di Kulai, Johor pada 1961**, seluas 3,385 hektar dengan 628 peneroka. Menurut Kertas Putih FELDA 2019, sepanjang enam dekade FELDA mengembangkan sekitar **870,000 hektar** (termasuk ladang komersial dan kawasan kampung) dan menempatkan **112,635 peneroka di 317 tanah rancangan**.
 
@@ -116,7 +116,7 @@ Berikut adalah peristiwa penting dalam perkembangan FELDA:
 | Tahun | Peristiwa |
 | --- | --- |
 | 1956 | FELDA didirikan (1 Juli) di bawah Ordinan Kemajuan Tanah 1956 (kemudian Akta 474) |
-| 1957 | Skema pertama, Rancangan Air Lanas, Kelantan (Maret) — sekitar 400 peneroka, 1,680 hektar |
+| 1957 | Skema pertama, Rancangan Air Lanas, Kelantan (Maret) — sekitar 400 peneroka, 1,620 hektar |
 | 1958 | Tanah rancangan sendiri pertama, Lurah Bilut, Pahang — 2,631 hektar karet, 616 peneroka |
 | 1961 | Tanah rancangan kelapa sawit pertama, FELDA Taib Andak, Johor — 3,385 hektar, 628 peneroka |
 | 1988 | Dasar Pendapatan Minima Peneroka diperkenalkan |

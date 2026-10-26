@@ -31,7 +31,7 @@ faq:
     a: "Không có yêu cầu vắc-xin nhập cảnh phổ quát, nhưng CDC của Hoa Kỳ khuyên du khách nên cập nhật các vắc-xin thường quy và cân nhắc viêm gan A và thương hàn; hãy trao đổi về bệnh dại, viêm não Nhật Bản và thuốc sốt rét với một phòng khám du lịch dựa trên hành trình của bạn."
 
 lang: "vi"
-sourceContentHash: "e99fd08a031d5f4f"
+sourceContentHash: "d1207a56295ee523"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "Mức phạt RM50,000 / tối đa một năm tù cho các cuộc gọi 999 giả (được quy cho Section 233 của Communications and Multimedia Act 1998 trên civildefence.gov.my) — hãy xác nhận section và số tiền với đạo luật hiện hành trước khi công bố."
   - "Liệu giới hạn hai SIM mỗi nhà mạng và thời hạn ba tháng của SIM du lịch có hiệu lực đầy đủ vào ngày đi du lịch của du khách hay không (chuẩn bắt buộc của MCMC được đăng ký ngày 26 tháng 2 năm 2026; hãy xác nhận ngày thực thi/có hiệu lực)."
   - "Các quy định về giấy tờ đăng ký SIM ngoài 'hộ chiếu gốc / xác minh sinh trắc học' — nguồn được dẫn không đề cập liệu bản sao hoặc bản quét có bao giờ được chấp nhận hay không; hãy xác nhận với từng nhà mạng nếu có liên quan."
   - "Việc gián đoạn hoạt động thuyền và khu nghỉ dưỡng ở các đảo bờ đông trong mùa Gió mùa Đông Bắc là hướng dẫn du lịch chung, không được nêu trong nguồn MET Malaysia được dẫn; hãy xác nhận lịch trình của nhà điều hành trực tiếp."
@@ -80,7 +79,7 @@ Bạn đã hạ cánh, bạn mệt vì lệch múi giờ, và điện thoại c�
 
 ## Tôi gọi số nào trong trường hợp khẩn cấp?
 
-**999.** Malaysia vận hành một đường dây tích hợp duy nhất tên là Malaysia Emergency Response System (MERS), đã gộp các số cũ 991, 994 và 999 thành một khi nó ra mắt vào ngày 1 tháng 10 năm 2007. Một cuộc gọi duy nhất kết nối tới cảnh sát (PDRM), dịch vụ xe cứu thương thuộc Bộ Y tế, Cục Cứu hỏa và Cứu hộ (JBPM), và Lực lượng Phòng vệ Dân sự (JPAM). Cuộc gọi miễn phí. Các cuộc gọi đùa hoặc giả là một hành vi phạm tội: Lực lượng Phòng vệ Dân sự lưu ý rằng theo Section 233 của [Communications and Multimedia Act 1998](/vi/law/communications-and-multimedia-act-1998), một cuộc gọi giả có thể chịu mức phạt lên tới RM50,000, tối đa một năm tù, hoặc cả hai — nên chỉ dùng nó cho các trường hợp khẩn cấp thực sự.
+**999.** Malaysia vận hành một đường dây tích hợp duy nhất tên là Malaysia Emergency Response System (MERS), đã gộp các số cũ 991, 994 và 999 thành một khi nó ra mắt vào ngày 1 tháng 10 năm 2007. Một cuộc gọi duy nhất kết nối tới cảnh sát (PDRM), dịch vụ xe cứu thương thuộc Bộ Y tế, Cục Cứu hỏa và Cứu hộ (JBPM), và Lực lượng Phòng vệ Dân sự (JPAM). Cuộc gọi miễn phí. Các cuộc gọi đùa hoặc giả là một hành vi phạm tội: Lực lượng Phòng vệ Dân sự lưu ý rằng theo Section 233 của [Communications and Multimedia Act 1998](/vi/law/communications-and-multimedia-act-1998) — được sửa đổi năm 2025, có hiệu lực từ ngày 11 tháng 2 năm 2025 — một cuộc gọi giả có thể chịu mức phạt lên tới RM500,000, tối đa hai năm tù, hoặc cả hai, cùng thêm RM5,000 cho mỗi ngày nếu hành vi phạm tội tiếp diễn — nên chỉ dùng nó cho các trường hợp khẩn cấp thực sự.
 
 Hãy lưu 999 vào điện thoại của bạn trước khi bạn cần đến nó.
 

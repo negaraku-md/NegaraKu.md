@@ -17,7 +17,7 @@ keyTakeaways:
   - "La tarifa base media bajo RP4 es de 45.40 sen/kWh, vigente para la nueva tarifa desde el 1 de julio de 2025; el período regulatorio RP4 en sí va de enero de 2025 a diciembre de 2027."
   - "Las facturas domésticas tienen ahora cinco componentes: cargos de Energía, Capacidad, Red, Minorista y AFA."
   - "El Cargo de Energía doméstico es de 27.03 sen/kWh para el consumo de hasta 1,500 kWh y de 37.03 sen/kWh para el exceso por encima de esa cifra."
-  - "El AFA sustituye al ICPT y se calcula mensualmente; por ejemplo, el AFA de agosto de 2025 fue fijado por la Comisión de Energía en -1.45 sen/kWh (un reembolso), con un tope de fluctuación de ±3 sen/kWh."
+  - "El AFA sustituye al ICPT y se calcula mensualmente; por ejemplo, el AFA de agosto de 2025 fue fijado por la Comisión de Energía en -1.45 sen/kWh (un reembolso). Los aumentos mensuales del AFA están limitados a 3 sen/kWh — un aumento por encima de ese tope requiere la aprobación del Gabinete."
 appliesTo: "Consumidores domésticos de electricidad de TNB en Malasia Peninsular que quieren entender su factura mensual."
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "No. El Cargo Minorista mensual de RM10 se exime para los hogares que usan 600 kWh o menos al mes."
 
 lang: "es"
-sourceContentHash: "b885e498c8215018"
+sourceContentHash: "7346638db9f1ac3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ verificationNeeded:
   - "The Time-of-Use rates (peak 28.52 / off-peak 24.43 sen/kWh) and the peak and off-peak time windows — confirm against the official ST/TNB ToU schedule."
   - "AFA berubah setiap bulan; -1.45 sen/kWj hanya sah untuk Ogos 2025 — pengguna perlu menyemak nilai bulan semasa yang diumumkan Suruhanjaya Tenaga."
   - "The Energy Efficiency Incentive (EEI) rebate of up to 25 sen/kWh for consumption ≤1,000 kWh and the RM10 Retail Charge exemption for ≤600 kWh — confirm the conditions and rates against official ST documents."
-  - "Had turun naik AFA ±3 sen/kWj sebulan — sahkan terhadap dokumen kawal selia RP4 rasmi."
 
 updated: 2026-08-01
 sources:
@@ -112,7 +111,7 @@ Dos formas importantes de ayuda reducen la factura de un hogar típico:
 
 ## ¿Qué es el AFA y en qué se diferencia del ICPT?
 
-El AFA ajusta su tarifa cada mes según los precios mundiales del combustible y el tipo de cambio, sustituyendo la revisión semestral del ICPT. Puede ser un cargo adicional o un reembolso, con un tope de fluctuación de ±3 sen/kWh al mes. Por ejemplo, la Comisión de Energía fijó el AFA de agosto de 2025 en -1.45 sen/kWh — un reembolso que reduce la factura. Como este valor cambia cada mes, consulte el valor actual del AFA anunciado por la Comisión de Energía.
+El AFA ajusta su tarifa cada mes según los precios mundiales del combustible y el tipo de cambio, sustituyendo la revisión semestral del ICPT. Puede ser un cargo adicional o un reembolso; los aumentos mensuales del AFA están limitados a 3 sen/kWh, y cualquier aumento por encima de ese tope requiere la aprobación del Gabinete (los reembolsos no están sujetos a este límite). Por ejemplo, la Comisión de Energía fijó el AFA de agosto de 2025 en -1.45 sen/kWh — un reembolso que reduce la factura. Como este valor cambia cada mes, consulte el valor actual del AFA anunciado por la Comisión de Energía.
 
 ## ¿Debería elegir la tarifa por franja horaria (Time-of-Use)?
 

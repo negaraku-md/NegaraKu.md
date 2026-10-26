@@ -32,7 +32,7 @@ faq:
     a: "Felda Global Ventures (nay là FGV Holdings) là cánh tay đầu tư quản lý các đồn điền của FELDA. Nó được niêm yết tại Bursa Malaysia vào ngày 28 tháng 6 năm 2012 và tại thời điểm IPO quản lý khoảng 500,000 hecta được canh tác bởi khoảng 112,600 người khai hoang."
 
 lang: "vi"
-sourceContentHash: "dea25bf8a34a057f"
+sourceContentHash: "827c6da5e0f2c397"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -97,7 +97,7 @@ Hãy hình dung một gia đình nghèo được chuyển đến một khu rừn
 
 Cục Phát triển Đất đai Liên bang (Lembaga Kemajuan Tanah Persekutuan, FELDA) được thành lập vào ngày **1 tháng 7 năm 1956** theo **Land Development Ordinance 1956**. Sắc lệnh này sau đó được rà soát lại vào năm 1991 và được thay thế bằng **Land Development Act 1956 (Act 474)**. Mục tiêu của nó rõ ràng và cấp bách trong thời kỳ đầu độc lập: xóa nghèo nông thôn bằng cách khai mở đất mới cho nông nghiệp và định cư các gia đình nghèo như những người khai hoang.
 
-Chương trình này là câu trả lời chính sách của thời kỳ đầu độc lập cho vấn đề đất đai và nghèo đói vốn ràng buộc cư dân nông thôn. Chương trình đầu tiên, **Rancangan Kemajuan Tanah Air Lanas ở Kelantan**, được khai mở vào **tháng 3 năm 1957** và định cư khoảng 400 người khai hoang trên 1,680 hecta. Từ hạt giống đó, FELDA phát triển thành một trong những chương trình tái định cư nông thôn lớn nhất thế giới.
+Chương trình này là câu trả lời chính sách của thời kỳ đầu độc lập cho vấn đề đất đai và nghèo đói vốn ràng buộc cư dân nông thôn. Chương trình đầu tiên, **Rancangan Kemajuan Tanah Air Lanas ở Kelantan**, được khai mở vào **tháng 3 năm 1957** và định cư khoảng 400 người khai hoang trên 1,620 hecta. Từ hạt giống đó, FELDA phát triển thành một trong những chương trình tái định cư nông thôn lớn nhất thế giới.
 
 Ở giai đoạn ban đầu này, FELDA chỉ đóng vai trò là bên trung gian chuyển vốn của Chính phủ Liên bang cho các chương trình đất của chính quyền bang. FELDA khai mở chương trình đất của **chính mình** lần đầu tiên tại **Lurah Bilut, Pahang vào năm 1958** — một chương trình cao su rộng 2,631 hecta định cư 616 người khai hoang. Vài năm sau, FELDA khai mở chương trình đất dầu cọ đầu tiên của mình, **FELDA Taib Andak ở Kulai, Johor vào năm 1961**, rộng 3,385 hecta với 628 người khai hoang. Theo Sách Trắng FELDA 2019, suốt sáu thập kỷ FELDA đã phát triển khoảng **870,000 hecta** (bao gồm đồn điền thương mại và khu vực làng) và định cư **112,635 người khai hoang tại 317 chương trình đất**.
 
@@ -116,7 +116,7 @@ Dưới đây là các sự kiện quan trọng trong quá trình phát triển 
 | Năm | Sự kiện |
 | --- | --- |
 | 1956 | FELDA được thành lập (1 tháng 7) theo Land Development Ordinance 1956 (sau này là Act 474) |
-| 1957 | Chương trình đầu tiên, Rancangan Air Lanas, Kelantan (tháng 3) — khoảng 400 người khai hoang, 1,680 hecta |
+| 1957 | Chương trình đầu tiên, Rancangan Air Lanas, Kelantan (tháng 3) — khoảng 400 người khai hoang, 1,620 hecta |
 | 1958 | Chương trình đất của riêng mình đầu tiên, Lurah Bilut, Pahang — 2,631 hecta cao su, 616 người khai hoang |
 | 1961 | Chương trình đất dầu cọ đầu tiên, FELDA Taib Andak, Johor — 3,385 hecta, 628 người khai hoang |
 | 1988 | Chính sách Thu nhập Tối thiểu cho Người khai hoang được giới thiệu |

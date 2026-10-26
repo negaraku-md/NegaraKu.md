@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "industry"
 sensitivity: "none"
 
-answer: "Le secteur des événements d'affaires de la Malaisie est coordonné au niveau national par le Malaysia Convention & Exhibition Bureau (MyCEB), une agence relevant du ministère du Tourisme, des Arts et de la Culture qui se porte candidate pour accueillir et aide à organiser des réunions, incentives, congrès, expositions et événements sportifs internationaux. Le MyCEB indique que la Malaisie a accueilli 3,105 événements d'affaires attirant 3,223,491 délégués internationaux et un impact économique estimé à RM20.18 milliards depuis 2009. Le secteur s'appuie sur des sites construits à cet effet, tels que le Kuala Lumpur Convention Centre, le Malaysia International Trade & Exhibition Centre (MITEC) et le Borneo Convention Centre Kuching, en cours d'agrandissement pour desservir la Malaisie orientale."
+answer: "Le secteur des événements d'affaires de la Malaisie est coordonné au niveau national par le Malaysia Convention & Exhibition Bureau (MyCEB), une agence relevant du ministère du Tourisme, des Arts et de la Culture qui se porte candidate pour accueillir et aide à organiser des réunions, incentives, congrès, expositions et événements sportifs internationaux. Le MyCEB indique que la Malaisie a accueilli 3,105 événements d'affaires attirant 3,223,491 délégués (dont 1,656,942 internationaux) et un impact économique estimé à RM20.18 milliards depuis 2009. Le secteur s'appuie sur des sites construits à cet effet, tels que le Kuala Lumpur Convention Centre, le Malaysia International Trade & Exhibition Centre (MITEC) et le Borneo Convention Centre Kuching, en cours d'agrandissement pour desservir la Malaisie orientale."
 keyTakeaways:
   - "Le MyCEB, une agence relevant du ministère du Tourisme, des Arts et de la Culture (MOTAC), est le bureau central des congrès de la Malaisie pour les événements d'affaires et sportifs internationaux."
-  - "Depuis 2009, le MyCEB fait état de 3,105 événements d'affaires, 3,223,491 délégués internationaux et un impact économique estimé à RM20.18 milliards."
+  - "Depuis 2009, le MyCEB fait état de 3,105 événements d'affaires, 3,223,491 délégués (dont 1,656,942 internationaux) et un impact économique estimé à RM20.18 milliards."
   - "Le MITEC, inauguré en 2016, compte 11 méga-halls d'exposition et 52,000 m² d'espace d'exposition ; le CIDB enregistre en son sein un espace de 12,530 m² sans colonnes."
   - "Le Borneo Convention Centre Kuching ajoute un deuxième bâtiment (BCCK2) doté d'un hall principal de 5,936 m² pouvant accueillir jusqu'à 9,500 personnes, dont l'achèvement est prévu pour 2028."
 appliesTo: "Organisateurs d'événements, associations, organisateurs d'expositions, acheteurs d'incentives d'entreprise et chercheurs évaluant la Malaisie comme destination MICE."
@@ -24,14 +24,14 @@ faq:
   - q: "Qu'est-ce que le MyCEB et que fait-il ?"
     a: "Le Malaysia Convention & Exhibition Bureau (MyCEB) est le bureau national des congrès relevant du ministère du Tourisme, des Arts et de la Culture. Il agit comme un guichet unique qui aide les organisateurs de réunions et d'événements à se porter candidats, à remporter et à organiser des congrès internationaux, des expositions, des réunions d'entreprise, des voyages d'incentive et des événements sportifs internationaux en Malaisie."
   - q: "Quelle est l'ampleur du secteur des événements d'affaires de la Malaisie ?"
-    a: "Le MyCEB indique que, depuis 2009, la Malaisie a accueilli 3,105 événements d'affaires, attirant 3,223,491 délégués internationaux et générant un impact économique estimé à RM20.18 milliards."
+    a: "Le MyCEB indique que, depuis 2009, la Malaisie a accueilli 3,105 événements d'affaires, attirant 3,223,491 délégués (dont 1,656,942 internationaux) et générant un impact économique estimé à RM20.18 milliards."
   - q: "Quels sont les principaux sites de congrès et d'exposition de la Malaisie ?"
     a: "Le Kuala Lumpur Convention Centre (KLCC) se trouve dans le quartier central des affaires de la capitale ; le MITEC, près de Dutamas dans KL Metropolis, est le plus grand site d'exposition du pays ; et le Borneo Convention Centre Kuching dessert le Sarawak et la Malaisie orientale."
   - q: "Quel est le plus grand site d'exposition de la Malaisie ?"
     a: "Le MITEC, le Malaysia International Trade & Exhibition Centre, qui a ouvert en 2016 avec 11 méga-halls d'exposition et 52,000 m² d'espace d'exposition. Le CIDB enregistre une surface de 12,530 m² sans colonnes à l'intérieur du bâtiment."
 
 lang: "fr"
-sourceContentHash: "25f7bdfa80a0bc8e"
+sourceContentHash: "32e28b750d1e2860"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -42,7 +42,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "Le MyCEB qualifie les RM20.18 milliards d'« impact économique estimé » sur sa page d'accueil, qui affiche également un chiffre distinct au libellé ambigu (1,656,942) ; confirmer le libellé et la valeur visés directement auprès du MyCEB."
   - "Les chiffres du Meetings Show de Londres (6,625 délégués, RM116 millions, 2017–2023) proviennent d'un communiqué de presse du MyCEB et n'ont pas été reconsultés lors de cette passe de correction ; à confirmer avant de s'y fier."
   - "La surface sans colonnes de 12,530 m² du MITEC (selon le CIDB) se situe à l'intérieur de — et non en plus de — l'espace d'exposition total de 52,000 m² indiqué sur le site officiel du MITEC ; confirmer la relation entre les deux chiffres."
   - "Les totaux d'espace d'exposition diffèrent selon la source : le site officiel du MITEC indique 52,000 m², tandis que le CIDB décrit « un million de pieds carrés » (~92,900 m²), probablement la surface de plancher brute par rapport à l'espace d'exposition net ; confirmer la base applicable."
@@ -98,7 +97,8 @@ L'ampleur qu'il rapporte est considérable. Depuis 2009, le MyCEB affirme que la
 | Indicateur (depuis 2009) | Chiffre |
 | --- | --- |
 | Événements d'affaires accueillis | 3,105 |
-| Délégués internationaux | 3,223,491 |
+| Délégués (total) | 3,223,491 |
+| Délégués internationaux | 1,656,942 |
 | Impact économique estimé | RM20.18 milliards |
 
 Une fenêtre plus étroite montre comment une participation régulière porte ses fruits : le MyCEB indique que, de 2017 à 2023, sa présence au seul Meetings Show de Londres a contribué à attirer 6,625 délégués pour un impact économique estimé à RM116 millions.

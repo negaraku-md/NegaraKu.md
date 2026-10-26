@@ -29,7 +29,7 @@ faq:
 lang: "zh"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "d519f370c717d10a"
+sourceContentHash: "80305dfafe9710fb"
 status: "published"
 aiAssisted: true
 reviewer: null
@@ -45,7 +45,7 @@ revisions:
 verificationNeeded:
   - "官方愿景（Visi）与使命（Misi）的逐字文本——nsc.gov.my 仅以图片形式发布；引用前需 OCR 或直接读取。"
   - "Institut Sukan Negara（ISN）的成立年份，以及MSN与ISN之间确切的分工（由MSN负责计划管理，ISN负责竞技表现／运动科学）——尚未对照主要来源证实。"
-  - "截至2026年的现任总监——Wikipedia列为Ahmad Shapawi Ismail；在视为现任之前，须通过nsc.gov.my确认他仍在任。"
+  - "高级任职者会随部门改组而变动；在视为最新信息之前，须对照nsc.gov.my重新确认现任总监及副职。"
   - "该法令之下所协调的各州体育理事会（Majlis Sukan Negeri）的数量与名称——尚未从原始名单获得证实。"
   - "直接取自该法令本身的理事会职能的完整逐字法定列表，而非次要页面上经改写的职能。"
 updated: 2026-08-14
@@ -87,7 +87,7 @@ MSN 根据《**1971年马来西亚国家体育理事会法令**》设立，该�
 
 | 职位 | 任职者 |
 | --- | --- |
-| 总监 | Ahmad Shapawi Ismail |
+| 总监 | Arrifin Mohd Ghani（自2026年10月15日起） |
 | 青年及体育部长 | Hannah Yeoh |
 | 副部长 | Adam Adli |
 

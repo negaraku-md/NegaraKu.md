@@ -18,7 +18,7 @@ keyTakeaways:
   - "Ia dicatatkan di Bursa Malaysia pada 25 Agustus 1997 dan dihapus dari pencatatan (dijadikan perusahaan privat) pada 18 April 2014."
   - "Impor beras diatur di bawah Akta Kawalan Padi dan Beras 1994 (Akta 522), yang mencakup beras, padi, tepung ketan dan bihun."
   - "Konsesi importir tunggal saat ini berlaku untuk periode sepuluh tahun dari 2021 hingga 2031, dengan stok penyangga wajib 200,000 ton dan sepuluh kewajiban sosial."
-  - "Harga dasar pembelian padi di Semenanjung Malaysia dinaikkan menjadi RM1,500 per ton metrik berlaku 16 Februari 2025, dari RM1,300 sebelumnya; Sabah dan Sarawak dikelola secara terpisah."
+  - "Harga dasar pembelian padi diselaraskan ke seluruh negara menjadi RM1,500 per ton metrik berlaku 16 Februari 2025, dinaikkan dari RM1,300 sebelumnya (penyelarasan nasional yang juga mencakup Sabah dan Sarawak)."
 appliesTo: "Pembaca yang mengkaji kebijakan padi dan beras, ketahanan pangan, petani padi, analis kebijakan dan pelajar ekonomi pertanian Malaysia."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "Konsesi saat ini berlaku untuk periode 2021 hingga 2031. Pada Juli 2026 pemerintah mengonfirmasi bahwa ia akan meninjau peran BERNAS sebagai importir tunggal sebelum konsesi itu berakhir."
 
 lang: "id"
-sourceContentHash: "9cc09e4898ad7771"
+sourceContentHash: "9b3393caa807d543"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
 
 verificationNeeded:
   - "Angka keuangan TK2021 (pendapatan ~RM4.67 miliar, laba setelah pajak RM182.26 juta, penjualan beras ~RM3.42 miliar / 73%) — konfirmasikan terhadap laporan tahunan resmi BERNAS; tidak dapat diverifikasi ulang secara independen dalam pas perbaikan ini."
-  - "Harga dasar pembelian padi khusus di Sabah dan Sarawak (dilaporkan tetap RM1,300 per ton metrik) — konfirmasikan angka dan tanggal berlaku terhadap pengumuman KPKM resmi sebelum menyatakannya."
   - "Tahun LPN/BERNAS mulai memegang status importir tunggal — sumber bertentangan (Free Malaysia Today menyebut 1973; halaman legasi BERNAS menyebut LPN mengambil alih pengimporan beras pada 1974). Artikel sengaja tidak menyatakan tahun; konfirmasikan sebelum menambahkan tahun mana pun."
   - "Sejarah asal kebijakan harga minimum yang dijamin (diklaim bermula 1949 dalam literatur akademik) — konfirmasikan dengan sumber akademik/primer yang dapat dikutip sebelum menyatakan tahun tertentu."
   - "Jumlah tepat kewajiban sosial (sepuluh, dilipatduakan dari lima) dan angka stok penyangga (200,000 ton, dinaikkan dari 150,000) — konfirmasikan terhadap dokumen konsesi resmi 2021–2031."
@@ -117,7 +116,7 @@ Monopoli itu datang dengan syarat. Sebagai imbalan hak impor eksklusif, BERNAS m
 - **Penyaluran subsidi** — menyalurkan subsidi harga padi kepada petani atas nama pemerintah.
 - **Dukungan penggiling Bumiputera** — program seperti Rakan Kilang untuk membantu penggiling beras Bumiputera.
 
-Kebijakan harga minimum yang dijamin ini bukan konsep baru; ia telah lama menjadi alat kebijakan untuk merangsang produksi padi. Baru-baru ini, pemerintah menaikkan harga dasar pembelian padi di Semenanjung Malaysia menjadi **RM1,500 per ton metrik**, berlaku 16 Februari 2025, dari RM1,300 sebelumnya. Penyelarasan ini berlaku hanya di Semenanjung Malaysia; harga dasar di Sabah dan Sarawak dikelola secara terpisah karena perbedaan biaya produksi, produktivitas dan struktur pasar.
+Kebijakan harga minimum yang dijamin ini bukan konsep baru; ia telah lama menjadi alat kebijakan untuk merangsang produksi padi. Baru-baru ini, pemerintah menyelaraskan harga dasar pembelian padi ke seluruh negara menjadi **RM1,500 per ton metrik**, berlaku 16 Februari 2025, dinaikkan dari RM1,300 sebelumnya. Penyelarasan ini berlaku di seluruh negara — termasuk Sabah dan Sarawak, yang juga diselaraskan pada RM1,300 pada 2024 — untuk memperhitungkan kenaikan biaya tenaga kerja, pupuk dan pestisida.
 
 ## Seberapa besar bisnis ini?
 

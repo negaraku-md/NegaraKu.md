@@ -18,7 +18,7 @@ keyTakeaways:
   - "Elle a été cotée à Bursa Malaysia le 25 août 1997 et retirée de la cote (devenue privée) le 18 avril 2014."
   - "Les importations de riz sont régies par la Control of Paddy and Rice Act 1994 (Loi 522), qui couvre le riz, le padi, la farine de riz gluant et les vermicelles."
   - "La concession actuelle de seul importateur est en vigueur pour une période de dix ans, de 2021 à 2031, avec une réserve régulatrice obligatoire de 200,000 tonnes et dix obligations sociales."
-  - "Le prix plancher d'achat du padi en Malaisie péninsulaire a été relevé à RM1,500 par tonne métrique avec effet au 16 février 2025, contre RM1,300 auparavant ; Sabah et Sarawak sont gérés séparément."
+  - "Le prix plancher d'achat du padi a été relevé à l'échelle nationale à RM1,500 par tonne métrique avec effet au 16 février 2025, contre RM1,300 auparavant (un ajustement national qui englobe également Sabah et Sarawak)."
 appliesTo: "Lecteurs étudiant la politique du padi et du riz, la sécurité alimentaire, riziculteurs, analystes des politiques publiques et étudiants en économie agricole malaisienne."
 
 faq:
@@ -30,7 +30,7 @@ faq:
     a: "La concession actuelle est en vigueur pour la période de 2021 à 2031. En juillet 2026, le gouvernement a confirmé qu'il réexaminerait le rôle de BERNAS en tant que seul importateur avant l'expiration de la concession."
 
 lang: "fr"
-sourceContentHash: "9cc09e4898ad7771"
+sourceContentHash: "9b3393caa807d543"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
 
 verificationNeeded:
   - "Les chiffres financiers de l'EF2021 (chiffre d'affaires ~RM4.67 milliards, bénéfice après impôt RM182.26 millions, ventes de riz ~RM3.42 milliards / 73%) — à confirmer au regard du rapport annuel officiel de BERNAS ; n'ont pas pu être revérifiés de façon indépendante lors de cette passe de correction."
-  - "Le prix plancher d'achat spécifique du padi à Sabah et Sarawak (rapporté comme restant à RM1,300 par tonne métrique) — confirmer le chiffre et la date d'effet au regard de l'annonce officielle du KPKM avant de l'énoncer."
   - "L'année où la LPN/BERNAS a commencé à détenir le statut de seul importateur — les sources divergent (Free Malaysia Today cite 1973 ; la page héritage de BERNAS indique que la LPN a repris l'importation de riz en 1974). L'article omet délibérément l'année ; à confirmer avant d'ajouter toute année."
   - "L'origine historique de la politique de prix minimum garanti (présentée comme ayant débuté en 1949 dans la littérature universitaire) — à confirmer auprès d'une source universitaire/primaire citable avant d'énoncer une année précise."
   - "Le nombre exact d'obligations sociales (dix, doublé par rapport à cinq) et le chiffre de la réserve régulatrice (200,000 tonnes, relevé depuis 150,000) — à confirmer au regard du document officiel de concession 2021–2031."
@@ -144,11 +143,11 @@ Parmi les principales :
 
 Cette politique de prix minimum garanti n'est pas un concept nouveau ; elle est
 depuis longtemps un outil de politique pour stimuler la production de padi. Plus
-récemment, le gouvernement a relevé le prix plancher d'achat du padi en Malaisie
-péninsulaire à **RM1,500 par tonne métrique**, avec effet au 16 février 2025, contre
-RM1,300 auparavant. Cet ajustement ne s'applique qu'en Malaisie péninsulaire ; les
-prix planchers à Sabah et Sarawak sont gérés séparément en raison des différences de
-coûts de production, de productivité et de structure du marché.
+récemment, le gouvernement a relevé le prix plancher d'achat du padi à l'échelle
+nationale à **RM1,500 par tonne métrique**, avec effet au 16 février 2025, contre
+RM1,300 auparavant. Cet ajustement s'applique dans tout le pays — y compris Sabah et
+Sarawak, qui avaient également été ajustés à RM1,300 en 2024 — afin de tenir compte
+de la hausse des coûts de main-d'œuvre, d'engrais et de pesticides.
 
 ## Quelle est l'ampleur de cette activité ?
 

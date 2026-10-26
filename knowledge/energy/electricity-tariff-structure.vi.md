@@ -17,7 +17,7 @@ keyTakeaways:
   - "Mức biểu giá cơ sở trung bình theo RP4 là 45.40 sen/kWh, có hiệu lực cho biểu giá mới từ ngày 1 tháng 7 năm 2025; bản thân kỳ quản lý RP4 chạy từ tháng 1 năm 2025 đến tháng 12 năm 2027."
   - "Hóa đơn gia dụng nay có năm thành phần: Phí Năng lượng, Công suất, Mạng lưới, Bán lẻ và AFA."
   - "Phí Năng lượng gia dụng là 27.03 sen/kWh cho mức tiêu thụ tới 1,500 kWh và 37.03 sen/kWh cho phần vượt trên đó."
-  - "AFA thay thế ICPT và được tính hằng tháng; ví dụ AFA tháng 8 năm 2025 được Ủy ban Năng lượng đặt ở mức -1.45 sen/kWh (hoàn tiền), với giới hạn biến động ±3 sen/kWh."
+  - "AFA thay thế ICPT và được tính hằng tháng; ví dụ AFA tháng 8 năm 2025 được Ủy ban Năng lượng đặt ở mức -1.45 sen/kWh (hoàn tiền). Mức tăng AFA hằng tháng bị giới hạn ở 3 sen/kWh — mức tăng vượt quá giới hạn đó cần Nội các phê duyệt."
 appliesTo: "Người tiêu dùng điện gia dụng của TNB ở Bán đảo Malaysia muốn hiểu hóa đơn hằng tháng của mình."
 
 faq:
@@ -27,7 +27,7 @@ faq:
     a: "Không. Phí Bán lẻ RM10 mỗi tháng được miễn cho các hộ gia đình sử dụng 600 kWh hoặc ít hơn mỗi tháng."
 
 lang: "vi"
-sourceContentHash: "b885e498c8215018"
+sourceContentHash: "7346638db9f1ac3c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ verificationNeeded:
   - "Các mức Time-of-Use (cao điểm 28.52 / ngoài cao điểm 24.43 sen/kWh) cùng các khung giờ cao điểm và ngoài cao điểm — hãy xác nhận với biểu ToU chính thức của ST/TNB."
   - "AFA thay đổi mỗi tháng; -1.45 sen/kWh chỉ có hiệu lực cho tháng 8 năm 2025 — người tiêu dùng cần kiểm tra giá trị tháng hiện tại do Suruhanjaya Tenaga công bố."
   - "Hoàn tiền Khuyến khích Hiệu quả Năng lượng (EEI) lên tới 25 sen/kWh cho mức tiêu thụ ≤1,000 kWh và miễn Phí Bán lẻ RM10 cho ≤600 kWh — hãy xác nhận điều kiện và mức với tài liệu chính thức của ST."
-  - "Giới hạn biến động AFA ±3 sen/kWh mỗi tháng — hãy xác nhận với tài liệu quản lý RP4 chính thức."
 
 updated: 2026-08-01
 sources:
@@ -112,7 +111,7 @@ Hai khoản hỗ trợ quan trọng làm giảm hóa đơn của hộ gia đình
 
 ## AFA là gì và nó khác ICPT như thế nào?
 
-AFA điều chỉnh biểu giá của bạn mỗi tháng theo giá nhiên liệu toàn cầu và tỷ giá hối đoái, thay thế việc rà soát sáu tháng một lần của ICPT. Nó có thể là một khoản phí thêm hoặc một khoản hoàn tiền, với giới hạn biến động ±3 sen/kWh mỗi tháng. Ví dụ, Suruhanjaya Tenaga đặt AFA cho tháng 8 năm 2025 ở mức -1.45 sen/kWh — tức một khoản hoàn tiền làm giảm hóa đơn. Vì giá trị này thay đổi mỗi tháng, hãy kiểm tra giá trị AFA hiện tại do Suruhanjaya Tenaga công bố.
+AFA điều chỉnh biểu giá của bạn mỗi tháng theo giá nhiên liệu toàn cầu và tỷ giá hối đoái, thay thế việc rà soát sáu tháng một lần của ICPT. Nó có thể là một khoản phí thêm hoặc một khoản hoàn tiền; mức tăng AFA hằng tháng bị giới hạn ở 3 sen/kWh, và bất kỳ mức tăng nào vượt quá giới hạn đó đều cần Nội các phê duyệt (khoản hoàn tiền không bị ràng buộc bởi giới hạn này). Ví dụ, Suruhanjaya Tenaga đặt AFA cho tháng 8 năm 2025 ở mức -1.45 sen/kWh — tức một khoản hoàn tiền làm giảm hóa đơn. Vì giá trị này thay đổi mỗi tháng, hãy kiểm tra giá trị AFA hiện tại do Suruhanjaya Tenaga công bố.
 
 ## Bạn có nên chọn biểu giá Time-of-Use không?
 

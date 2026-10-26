@@ -12,10 +12,10 @@ mode: "narrative"
 contentType: "industry"
 sensitivity: "none"
 
-answer: "La industria de eventos de negocios de Malasia está coordinada a nivel nacional por el Malaysia Convention & Exhibition Bureau (MyCEB), una agencia dependiente del Ministerio de Turismo, Artes y Cultura que opta por acoger y ayuda a organizar reuniones, incentivos, convenciones, exposiciones y eventos deportivos internacionales. El MyCEB informa de que Malasia ha acogido 3.105 eventos de negocios que atrajeron a 3.223.491 delegados internacionales y un impacto económico estimado de RM20.180 millones desde 2009. El sector se sustenta en recintos construidos a tal fin, como el Kuala Lumpur Convention Centre, el Malaysia International Trade & Exhibition Centre (MITEC) y el Borneo Convention Centre Kuching, que se está ampliando para dar servicio a Malasia Oriental."
+answer: "La industria de eventos de negocios de Malasia está coordinada a nivel nacional por el Malaysia Convention & Exhibition Bureau (MyCEB), una agencia dependiente del Ministerio de Turismo, Artes y Cultura que opta por acoger y ayuda a organizar reuniones, incentivos, convenciones, exposiciones y eventos deportivos internacionales. El MyCEB informa de que Malasia ha acogido 3.105 eventos de negocios que atrajeron a 3.223.491 delegados (1.656.942 de ellos internacionales) y un impacto económico estimado de RM20.180 millones desde 2009. El sector se sustenta en recintos construidos a tal fin, como el Kuala Lumpur Convention Centre, el Malaysia International Trade & Exhibition Centre (MITEC) y el Borneo Convention Centre Kuching, que se está ampliando para dar servicio a Malasia Oriental."
 keyTakeaways:
   - "El MyCEB, una agencia dependiente del Ministerio de Turismo, Artes y Cultura (MOTAC), es la oficina central de convenciones de Malasia para eventos de negocios y deportivos internacionales."
-  - "Desde 2009, el MyCEB informa de 3.105 eventos de negocios, 3.223.491 delegados internacionales y un impacto económico estimado de RM20.180 millones."
+  - "Desde 2009, el MyCEB informa de 3.105 eventos de negocios, 3.223.491 delegados (1.656.942 de ellos internacionales) y un impacto económico estimado de RM20.180 millones."
   - "El MITEC, inaugurado en 2016, cuenta con 11 megapabellones de exposición y 52.000 m² de espacio expositivo; el CIDB registra en su interior un espacio de 12.530 m² sin columnas."
   - "El Borneo Convention Centre Kuching está añadiendo un segundo edificio (BCCK2) con un pabellón principal de 5.936 m² con capacidad para hasta 9.500 personas, cuya finalización está prevista para 2028."
 appliesTo: "Organizadores de eventos, asociaciones, organizadores de exposiciones, compradores de incentivos corporativos e investigadores que evalúan Malasia como destino MICE."
@@ -24,14 +24,14 @@ faq:
   - q: "¿Qué es el MyCEB y qué hace?"
     a: "El Malaysia Convention & Exhibition Bureau (MyCEB) es la oficina nacional de convenciones dependiente del Ministerio de Turismo, Artes y Cultura. Actúa como un centro integral que ayuda a los organizadores de reuniones y eventos a optar por acoger, ganar y organizar convenciones internacionales, exposiciones, reuniones corporativas, viajes de incentivo y eventos deportivos internacionales en Malasia."
   - q: "¿Cuán grande es el sector de eventos de negocios de Malasia?"
-    a: "El MyCEB informa de que, desde 2009, Malasia ha acogido 3.105 eventos de negocios, atrayendo a 3.223.491 delegados internacionales y generando un impacto económico estimado de RM20.180 millones."
+    a: "El MyCEB informa de que, desde 2009, Malasia ha acogido 3.105 eventos de negocios, atrayendo a 3.223.491 delegados (1.656.942 de ellos internacionales) y generando un impacto económico estimado de RM20.180 millones."
   - q: "¿Cuáles son los principales recintos de convenciones y exposiciones de Malasia?"
     a: "El Kuala Lumpur Convention Centre (KLCC) se encuentra en el distrito central de negocios de la capital; el MITEC, cerca de Dutamas en KL Metropolis, es el mayor recinto expositivo del país; y el Borneo Convention Centre Kuching da servicio a Sarawak y a Malasia Oriental."
   - q: "¿Cuál es el mayor recinto expositivo de Malasia?"
     a: "El MITEC, el Malaysia International Trade & Exhibition Centre, que abrió en 2016 con 11 megapabellones de exposición y 52.000 m² de espacio expositivo. El CIDB registra un área de 12.530 m² sin columnas dentro del edificio."
 
 lang: "es"
-sourceContentHash: "25f7bdfa80a0bc8e"
+sourceContentHash: "32e28b750d1e2860"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -42,7 +42,6 @@ reviewed: 2026-08-03
 reviewDue: 2027-08-03
 revision: 0
 verificationNeeded:
-  - "MyCEB labels the RM20.18 billion as 'Estimated Economic Impact' on its homepage, which also displays a separate, ambiguously labelled figure (1,656,942); confirm the intended label and value with MyCEB directly."
   - "The Meetings Show London figures (6,625 delegates, RM116 million, 2017–2023) come from a MyCEB press release and were not re-fetched in this correction pass; confirm before relying on them."
   - "MITEC's 12,530 sqm column-free area (per CIDB) sits within — not in addition to — the 52,000 sqm total exhibition space stated on MITEC's official site; confirm the relationship of the two figures."
   - "Exhibition-space totals differ by source: MITEC's official site states 52,000 sqm, while CIDB describes 'one million square feet' (~92,900 sqm), likely gross floor area versus net exhibition space; confirm which basis applies."
@@ -98,7 +97,8 @@ La escala que informa es considerable. Desde 2009, el MyCEB afirma que Malasia h
 | Indicador (desde 2009) | Cifra |
 | --- | --- |
 | Eventos de negocios acogidos | 3.105 |
-| Delegados internacionales | 3.223.491 |
+| Delegados (total) | 3.223.491 |
+| Delegados internacionales | 1.656.942 |
 | Impacto económico estimado | RM20.180 millones |
 
 Una ventana más estrecha muestra cómo rinde una participación constante: el MyCEB informa de que, de 2017 a 2023, su presencia solo en The Meetings Show de Londres ayudó a atraer a 6.625 delegados por un impacto económico estimado de RM116 millones.

@@ -31,7 +31,7 @@ faq:
     a: "보편적인 입국 백신 요건은 없지만, 미국 CDC는 여행자에게 정기 예방접종을 최신 상태로 유지하고 A형 간염과 장티푸스를 고려할 것을 권고합니다; 광견병, 일본뇌염, 말라리아 약은 일정에 따라 여행 클리닉과 상의하십시오."
 
 lang: "ko"
-sourceContentHash: "e99fd08a031d5f4f"
+sourceContentHash: "d1207a56295ee523"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -48,7 +48,6 @@ revisions:
     reviewer: null
 
 verificationNeeded:
-  - "허위 999 신고에 대한 RM50,000 벌금 / 최대 1년 징역 벌칙(civildefence.gov.my에서 통신멀티미디어법 1998 제233조에 귀속됨) — 공표 전에 현행 법령과 대조하여 조항과 금액을 확인할 것."
   - "통신사당 SIM 2개 상한과 관광객 SIM 3개월 유효 기간이 방문객 여행 시점에 완전히 시행 중인지 여부(MCMC 의무 표준은 2026년 2월 26일 등록됨; 집행/발효일을 확인할 것)."
   - "'원본 여권 / 생체 인증'을 넘어서는 SIM 등록 서류 규정 — 인용된 출처는 사본이나 스캔이 인정되는지 다루지 않음; 해당 시 각 통신사에 확인할 것."
   - "북동 몬순 동안 동해안 섬 보트와 리조트 운영 차질은 일반 여행 안내이며 인용된 MET Malaysia 출처에 명시되어 있지 않음; 운영업체 일정을 직접 확인할 것."
@@ -80,7 +79,7 @@ keywords: ["Malaysia travel tips", "999 emergency Malaysia", "Malaysia SIM card 
 
 ## 비상시 어떤 번호로 전화합니까?
 
-**999.** 말레이시아는 말레이시아 비상대응체계(Malaysia Emergency Response System, MERS)라는 단일 통합 회선을 운영하며, 2007년 10월 1일 출범할 때 기존의 991, 994, 999 번호를 하나로 합쳤습니다. 한 통의 전화로 경찰(PDRM), 보건부 산하 구급차 서비스, 소방·구조청(JBPM), 민방위청(JPAM)에 연결됩니다. 통화는 무료입니다. 장난이나 허위 신고는 범죄입니다: 민방위청은 [통신멀티미디어법 1998(Communications and Multimedia Act 1998)](/law/communications-and-multimedia-act-1998) 제233조에 따라 허위 신고가 최대 RM50,000의 벌금, 최대 1년의 징역 또는 이 둘의 병과를 받을 수 있다고 밝힙니다 — 그러니 진짜 비상시에만 사용하십시오.
+**999.** 말레이시아는 말레이시아 비상대응체계(Malaysia Emergency Response System, MERS)라는 단일 통합 회선을 운영하며, 2007년 10월 1일 출범할 때 기존의 991, 994, 999 번호를 하나로 합쳤습니다. 한 통의 전화로 경찰(PDRM), 보건부 산하 구급차 서비스, 소방·구조청(JBPM), 민방위청(JPAM)에 연결됩니다. 통화는 무료입니다. 장난이나 허위 신고는 범죄입니다: 민방위청은 [통신멀티미디어법 1998(Communications and Multimedia Act 1998)](/law/communications-and-multimedia-act-1998) 제233조 — 2025년 개정, 2025년 2월 11일 발효 — 에 따라 허위 신고가 최대 RM500,000의 벌금, 최대 2년의 징역 또는 이 둘의 병과를 받을 수 있으며, 계속되는 범죄가 지속되는 경우 하루당 추가로 RM5,000이 부과된다고 밝힙니다 — 그러니 진짜 비상시에만 사용하십시오.
 
 필요해지기 전에 999를 휴대전화에 저장해 두십시오.
 
