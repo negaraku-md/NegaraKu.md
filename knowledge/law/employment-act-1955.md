@@ -29,8 +29,7 @@ faq:
   - q: "Does Act 265 apply in Sabah and Sarawak?"
     a: "No. Act 265 extends to Peninsular Malaysia and the Federal Territory of Labuan. Sabah and Sarawak are governed by their own Labour Ordinances, broadly similar in structure but different in detail, including on coverage thresholds and some procedural steps."
 
-verificationNeeded:
-  - "Confirm the exact commencement instrument for Act A1651 against the Federal Gazette; the project source register records P.U.(B) 394/2022 for the 1 January 2023 date."
+verificationNeeded: []
 
 lang: "en"
 masterLanguage: "en"
@@ -54,6 +53,9 @@ sources:
     url: "https://lom.agc.gov.my/act-detail.php?act=265"
     publisher: "Attorney General's Chambers of Malaysia"
     date: "2023-08-01"
+  - title: "P.U. (B) 394/2022 — Employment (Amendment) Act 2022: appointment of 1 January 2023 as date of coming into operation (revoking P.U. (B) 368/2022)"
+    url: "https://jtksm.mohr.gov.my/sites/default/files/2023-03/60.%20P.U.%20%28B%29%20394_2022%20PENETAPAN%20%20PEMBATALAN%20PENETAPAN%20TARIKH%20KUAT%20KUASA%20AKTA%20KERJA%20%28PINDAAN%29%202022.pdf"
+    publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia (official gazette instrument)"
   - title: "Akta Kerja 1955 (Akta 265)"
     url: "https://jtksm.mohr.gov.my/sites/default/files/2023-11/Akta%20Kerja%201955%20(Akta%20265)_0.pdf"
     publisher: "Jabatan Tenaga Kerja Semenanjung Malaysia"

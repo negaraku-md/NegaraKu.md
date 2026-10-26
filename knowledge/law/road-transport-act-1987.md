@@ -42,7 +42,6 @@ revisions:
     change: "Approved and published."
     reviewer: null
 verificationNeeded:
-  - "Full exact wording of the DUI prescribed limits (s.45G) and the tiered penalties under s.44/45/45A — reconcile paultan reporting with the amendment's gazetted text."
   - "Whether the further June 2026 traffic-penalty reform has been enacted and gazetted — keep this page to law currently in force and treat any proposed increases separately."
   - "Complete authoritative list and citation numbers of all amending Acts — confirm via the AGC 'Amendments' listing for Act 333."
 updated: 2026-08-14

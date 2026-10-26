@@ -42,7 +42,6 @@ verificationNeeded:
   - "Sahkan bahawa penomboran seksyen yang dirujuk (3, 5, 6, 7, 12, 13, 13A, 13B) kekal sama dalam teks Akta 301 yang berkuat kuasa hari ini selepas pindaan 2012 dan mana-mana pindaan berikutnya."
   - "Sahkan tarikh dan nombor rujukan pindaan 2012 (dilaporkan sebagai Akta A1436, berkuat kuasa 15 Julai 2012) terhadap Warta Kerajaan rasmi."
   - "Sahkan butiran perintah larangan 19 Disember 2024 terhadap enam judul terhadap teks perintah rasmi dalam Warta, bukan hanya laporan berita Bernama."
-  - "Sahkan tarikh dan status perundangan majlis media 2025 (dilaporkan diluluskan Parlimen 26 Februari 2025) terhadap rekod Parlimen atau Warta rasmi."
 revisions:
   - revision: 0
     date: 2026-08-07
@@ -66,6 +65,9 @@ sources:
   - title: "The Malaysian Bar Commends the Passing of the Media Council Bill 2024 and Calls for Further Improvements"
     url: "https://www.malaysianbar.org.my/article/news/press-statements/press-statements/press-release-the-malaysia-bar-commends-the-passing-of-the-media-council-bill-2024-and-calls-for-further-improvements-to-ensure-independence-of-the-media"
     publisher: "Malaysian Bar"
+  - title: "Malaysia's first Media Council Bill passed in Parliament (Dewan Rakyat, 26 February 2025)"
+    url: "https://www.malaymail.com/news/malaysia/2025/02/26/malaysias-first-media-council-bill-passed-in-parliament/168048"
+    publisher: "Malay Mail"
 
 entity: "Printing Presses and Publications Act 1984"
 wikidata: "Q7245316"

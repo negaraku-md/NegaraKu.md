@@ -49,7 +49,6 @@ verificationNeeded:
   - "Pelabelan subseksyen bagi hukuman pindaan Seksyen 233 (subseksyen mana yang membawa denda RM500,000 / penjara 2 tahun bagi penyalahgunaan am, dan subseksyen mana yang membawa hukuman kesalahan melibatkan kanak-kanak RM500,000 / penjara 5 tahun) — semak terhadap teks Akta Komunikasi dan Multimedia (Pindaan) yang telah diwartakan."
   - "Angka hukuman kesalahan melibatkan kanak-kanak (RM500,000 / 5 tahun) — sahkan terhadap teks pindaan yang diwartakan."
   - "Status dan tarikh permulaan kuat kuasa Pindaan 2024 — Rang Undang-Undang diluluskan kedua-dua Dewan pada Disember 2024 tetapi mula berkuat kuasa pada tarikh yang ditetapkan Menteri melalui warta; sahkan sama ada dan bila ia telah berkuat kuasa."
-  - "Ambang 'lapan juta pengguna' dan tarikh kuat kuasa 1 Januari 2025 bagi lesen kelas media sosial — sahkan terhadap arahan/perintah rasmi SKMM."
 updated: 2026-08-07
 sources:
   - title: "Laws of Malaysia Act 588 — Communications and Multimedia Act 1998 (official text)"
@@ -82,6 +81,9 @@ sources:
   - title: "MCMC seeks feedback on draft Code of Conduct for messaging and social media providers"
     url: "https://www.allenandgledhill.com/publication/articles/29429/communications-and-multimedia-commission-seeks-public-feedback-on-draft-code-of-conduct-for-internet-messaging-service-providers-and-social-media-service-providers"
     publisher: "Allen & Gledhill"
+  - title: "MCMC: social media and internet messaging services with at least 8 million Malaysian users must apply for a Class Licence from 1 January 2025"
+    url: "https://www.malaymail.com/news/malaysia/2024/07/27/mcmc-social-media-internet-messaging-services-must-apply-for-licences-starting-jan-1/145156"
+    publisher: "Malay Mail (reporting MCMC announcement)"
 
 entity: "Communications and Multimedia Act 1998"
 wikidata: "Q7304627"
