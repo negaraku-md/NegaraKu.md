@@ -458,7 +458,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               </div>
             )
           }
-          <h3>{L('Sumber', 'Sources', '来源', 'ஆதாரங்கள்', '出典', '출처', 'แหล่งข้อมูล', 'Nguồn', 'Sumber', 'المصادر', 'स्रोत', 'Fuentes', "Sources")}</h3>
+          <h2 class="sec-h">{L('Sumber', 'Sources', '来源', 'ஆதாரங்கள்', '出典', '출처', 'แหล่งข้อมูล', 'Nguồn', 'Sumber', 'المصادر', 'स्रोत', 'Fuentes', "Sources")}</h2>
           {
             d.sources.length > 0 ? (
               <ol class="src">
@@ -483,7 +483,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           {
             d.revisions.length > 0 && (
               <div>
-                <h3>{L('Sejarah perubahan', 'Change history', '修订历史', 'மாற்ற வரலாறு', '変更履歴', '변경 이력', 'ประวัติการเปลี่ยนแปลง', 'Lịch sử thay đổi', 'Riwayat perubahan', 'سجل التغييرات', 'परिवर्तन इतिहास', 'Historial de cambios', "Historique des modifications")}</h3>
+                <h2 class="sec-h">{L('Sejarah perubahan', 'Change history', '修订历史', 'மாற்ற வரலாறு', '変更履歴', '변경 이력', 'ประวัติการเปลี่ยนแปลง', 'Lịch sử thay đổi', 'Riwayat perubahan', 'سجل التغييرات', 'परिवर्तन इतिहास', 'Historial de cambios', "Historique des modifications")}</h2>
                 <div class="tblwrap">
                   <table>
                     <thead>
@@ -875,7 +875,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .src { padding-inline-start: 1.2rem; margin: 0.4rem 0 1.2rem; font-size: 0.89rem; }
   .src a { color: var(--gold); }
   .pub { color: var(--muted); }
-  h3 { font-size: 1rem; margin: 0 0 0.4rem; }
+  h3, .sec-h { font-size: 1rem; margin: 0 0 0.4rem; }
   .muted { color: var(--muted); font-size: 0.88rem; }
   .tblwrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; }
   .tblwrap table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }

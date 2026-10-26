@@ -50,7 +50,7 @@ const NAV_GROUPS = [
             {grp.menus.map((menu) =>
               menu.items ? (
                 <div class="menu" data-nav-key={menu.label}>
-                  <button type="button" class="menu-btn" aria-haspopup="true">
+                  <button type="button" class="menu-btn" aria-haspopup="true" aria-expanded="false">
                     {t(menu.label, locale)}
                     <span class="caret" aria-hidden="true">▾</span>
                   </button>
@@ -192,6 +192,22 @@ const NAV_GROUPS = [
       if (e instanceof PointerEvent && e.pointerType === 'mouse') e.preventDefault();
     }),
   );
+
+  // Expose each dropdown's open/close state to assistive tech. The menus are
+  // CSS-driven (open on :hover + :focus-within), so mirror that state into
+  // aria-expanded on the .menu-btn as the pointer/focus enters and leaves.
+  document.querySelectorAll('.menu').forEach((menu) => {
+    const btn = menu.querySelector('.menu-btn');
+    if (!btn) return;
+    const set = (open: boolean) => btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    const close = () => {
+      if (!menu.contains(document.activeElement)) set(false);
+    };
+    menu.addEventListener('mouseenter', () => set(true));
+    menu.addEventListener('mouseleave', close);
+    menu.addEventListener('focusin', () => set(true));
+    menu.addEventListener('focusout', close);
+  });
 
   // Reader / Contributor view mode. Both navs ship in the page; <html data-view>
   // decides which shows (set pre-paint by the inline script in BaseLayout). The
