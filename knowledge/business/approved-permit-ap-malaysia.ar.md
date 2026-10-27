@@ -43,7 +43,7 @@ aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-10-26
 reviewDue: 2027-10-26
-assignee: "ashton-tan"
+assignee: null
 revision: 0
 revisions:
   - revision: 0
