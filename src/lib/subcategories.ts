@@ -492,6 +492,7 @@ export const SUBCATEGORY_LABELS: Record<string, Localized> = {
   visas: { ms: "Visa", en: "Visas", zh: "签证", ta: "விசாக்கள்", ko: "비자", th: 'วีซ่า', vi: 'Thị thực', id: 'Visa', ar: 'التأشيرات', hi: 'वीज़ा', es: 'Visados', fr: 'Visas' },
   wawasan: { ms: "Wawasan Negara", en: "National vision", zh: "国家愿景", ta: "தேசிய தொலைநோக்கு", ko: "국가 비전", th: 'วิสัยทัศน์แห่งชาติ', vi: 'Tầm nhìn quốc gia', id: 'Visi Nasional', ar: 'الرؤية الوطنية', hi: 'राष्ट्रीय दृष्टिकोण', es: 'Visión nacional', fr: 'Vision nationale' },
   whistleblowing: { ms: "Perlindungan Pemberi Maklumat", en: "Whistleblower protection", zh: "举报人保护", ta: "தகவல் அறிவிப்பாளர் பாதுகாப்பு", ko: "내부고발자 보호", th: 'การคุ้มครองผู้แจ้งเบาะแส', vi: 'Bảo vệ người tố giác', id: 'Perlindungan Pelapor', ar: 'حماية المبلّغين عن المخالفات', hi: 'मुखबिर संरक्षण', es: 'Protección de denunciantes', fr: "Protection des lanceurs d'alerte" },
+  'corporate-services': { ms: 'Khidmat Korporat', en: 'Corporate services', zh: '企业服务', ta: 'நிறுவன சேவைகள்', ja: '企業向けサービス', ko: '기업 서비스', th: 'บริการองค์กร', vi: 'Dịch vụ doanh nghiệp', id: 'Layanan Korporat', ar: 'الخدمات المؤسسية', hi: 'कॉर्पोरेट सेवाएं', es: 'Servicios corporativos', fr: 'Services aux entreprises' },
 };
 
 /** Display order per category. Anything unlisted sorts to the end. */
@@ -504,6 +505,7 @@ export const SUBCATEGORY_ORDER: Record<string, string[]> = {
     'structuring',
     'registration',
     'licensing',
+    'corporate-services',
     'foreign-ownership',
     'ownership',
     'banking-finance',
