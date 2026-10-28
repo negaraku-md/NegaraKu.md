@@ -366,6 +366,50 @@ const more = [
 
 <section class="container block">
   <div class="psec">
+    <header><span>{L('Tadbir urus & petikan', 'Governance & citation', '治理与引用', 'நிர்வாகம் & மேற்கோள்', 'ガバナンスと引用', '거버넌스와 인용', 'การกำกับดูแลและการอ้างอิง', 'Quản trị & trích dẫn', 'Tata kelola & sitasi', 'الحوكمة والاستشهاد', 'अभिशासन और उद्धरण', 'Gobernanza y citación', 'Gouvernance et citation')}</span></header>
+    <div class="psec-body">
+      <p class="lead">{L(
+        'Bagaimana projek ini diuruskan, ke mana ia menuju, dan cara memetiknya — semuanya secara terbuka.',
+        'How the project is run, where it is headed, and how to cite it — all in the open.',
+        '项目如何运作、走向何方，以及如何引用它——一切公开透明。',
+        'இந்தத் திட்டம் எவ்வாறு நடத்தப்படுகிறது, எங்கே செல்கிறது, அதை எப்படி மேற்கோள் காட்டுவது — அனைத்தும் வெளிப்படையாக.',
+        'このプロジェクトがどう運営され、どこへ向かい、どう引用するか — すべて公開の場で。',
+        '이 프로젝트가 어떻게 운영되고, 어디로 향하며, 어떻게 인용하는지 — 모두 공개된 곳에서.',
+        'โครงการนี้ดำเนินการอย่างไร มุ่งหน้าไปทางไหน และจะอ้างอิงอย่างไร — ทั้งหมดอย่างเปิดเผย',
+        'Dự án được vận hành ra sao, hướng tới đâu, và cách trích dẫn — tất cả đều công khai.',
+        'Bagaimana proyek ini dijalankan, ke mana arahnya, dan cara menyitasinya — semua secara terbuka.',
+        'كيف يُدار المشروع، وإلى أين يتجه، وكيف تستشهد به — كل ذلك في العلن.',
+        'यह परियोजना कैसे चलती है, किस दिशा में जा रही है, और इसे कैसे उद्धृत करें — सब कुछ खुले में।',
+        'Cómo se gestiona el proyecto, hacia dónde va y cómo citarlo, todo de forma abierta.', "Comment le projet est géré, où il va, et comment le citer — le tout en toute transparence.",
+      )}</p>
+      <p class="gov-links">
+        <a class="btn btn-ghost" href={`${REPO}/blob/main/GOVERNANCE.md`} rel="noopener">{L('Tadbir urus', 'Governance', '治理', 'நிர்வாகம்', 'ガバナンス', '거버넌스', 'การกำกับดูแล', 'Quản trị', 'Tata kelola', 'الحوكمة', 'अभिशासन', 'Gobernanza', 'Gouvernance')} <span class="dirx">↗</span></a>
+        <a class="btn btn-ghost" href={`${REPO}/blob/main/ROADMAP.md`} rel="noopener">{L('Peta jalan', 'Roadmap', '路线图', 'வழித்திட்டம்', 'ロードマップ', '로드맵', 'แผนงาน', 'Lộ trình', 'Peta jalan', 'خارطة الطريق', 'रोडमैप', 'Hoja de ruta', 'Feuille de route')} <span class="dirx">↗</span></a>
+      </p>
+      <div class="cite">
+        <b class="cite-title">{L('Petik pangkalan pengetahuan ini', 'Cite this knowledge base', '引用本知识库', 'இந்த அறிவுத் தளத்தை மேற்கோள் காட்டுங்கள்', 'この知識ベースを引用する', '이 지식 베이스 인용하기', 'อ้างอิงฐานความรู้นี้', 'Trích dẫn cơ sở tri thức này', 'Sitasi basis pengetahuan ini', 'استشهد بقاعدة المعرفة هذه', 'इस ज्ञान आधार को उद्धृत करें', 'Cita esta base de conocimiento', 'Citer cette base de connaissances')}</b>
+        <pre class="cite-snippet" dir="ltr"><code>NegaraKu.md — an open, AI-friendly knowledge base about Malaysia. https://negaraku.md. CC BY-SA 4.0.</code></pre>
+        <p class="muted">{L(
+          'Kandungan dilesenkan di bawah CC BY-SA 4.0 — guna semula dengan atribusi. Petikan penuh ada dalam',
+          'Content is licensed CC BY-SA 4.0 — reuse it with attribution. The full citation is in',
+          '内容以 CC BY-SA 4.0 授权——署名后即可再利用。完整引用见',
+          'உள்ளடக்கம் CC BY-SA 4.0 உரிமத்தின் கீழ் — சான்றளிப்புடன் மீண்டும் பயன்படுத்தலாம். முழு மேற்கோள்',
+          'コンテンツは CC BY-SA 4.0 ライセンスです — 出典表示のうえ再利用できます。完全な引用情報は',
+          '콘텐츠는 CC BY-SA 4.0 라이선스입니다 — 출처를 밝히면 재사용할 수 있습니다. 전체 인용 정보는',
+          'เนื้อหาอยู่ภายใต้สัญญาอนุญาต CC BY-SA 4.0 — นำไปใช้ซ้ำได้โดยให้เครดิต การอ้างอิงฉบับเต็มอยู่ใน',
+          'Nội dung được cấp phép CC BY-SA 4.0 — có thể tái sử dụng kèm ghi công. Trích dẫn đầy đủ nằm trong',
+          'Konten dilisensikan CC BY-SA 4.0 — gunakan kembali dengan atribusi. Sitasi lengkap ada di',
+          'المحتوى مرخّص بموجب CC BY-SA 4.0 — أعد استخدامه مع نسبة المصدر. الاستشهاد الكامل في',
+          'सामग्री CC BY-SA 4.0 के तहत लाइसेंस प्राप्त है — श्रेय देकर पुनः उपयोग करें। पूर्ण उद्धरण',
+          'El contenido tiene licencia CC BY-SA 4.0: reutilízalo con atribución. La cita completa está en', 'Le contenu est sous licence CC BY-SA 4.0 — réutilisez-le avec attribution. La citation complète figure dans',
+        )} <a href={`${REPO}/blob/main/CITATION.cff`} rel="noopener">CITATION.cff <span class="dirx">↗</span></a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container block">
+  <div class="psec">
     <header><span>{L('Ketahui lebih lanjut', 'Explore more', '了解更多', 'மேலும் அறிக', 'もっと見る', '더 살펴보기', 'สำรวจเพิ่มเติม', 'Khám phá thêm', 'Jelajahi lebih lanjut', 'استكشف المزيد', 'और जानें', 'Explora más', 'Explorer davantage')}</span></header>
     <div class="psec-body">
       <div class="morecards">
@@ -418,6 +462,17 @@ const more = [
   .psec > header span { color: var(--gold); }
   .psec-body { padding: 1.2rem; }
   .psec-body.prose p { margin: 0 0 0.9rem; line-height: 1.75; color: var(--ink-soft); }
+
+  /* Governance & citation: link buttons + a copy-pasteable citation line. */
+  .gov-links { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0.4rem 0 1.2rem; }
+  .cite { border-top: 1px solid var(--line); padding-top: 1rem; }
+  .cite-title { display: block; margin-bottom: 0.55rem; color: var(--ink); }
+  .cite-snippet {
+    background: var(--surface-2); border: 1px solid var(--line); border-radius: 8px;
+    padding: 0.7rem 0.9rem; margin: 0 0 0.6rem; overflow-x: auto;
+    white-space: pre-wrap; word-break: break-word;
+  }
+  .cite-snippet code { font-size: 0.85rem; line-height: 1.55; color: var(--ink-soft); }
   .psec-body.prose p:last-child { margin-bottom: 0; }
 
   /* "Our story": cap the prose to a reading column and fill the open right with
