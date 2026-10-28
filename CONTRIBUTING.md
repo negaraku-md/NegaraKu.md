@@ -1,7 +1,15 @@
 # Contributing to negaraku.md
 
 Thank you for helping build a trustworthy, open knowledge base about Malaysia. Contributions
-happen through GitHub pull requests.
+happen through GitHub pull requests — and reporting a gap or correction as an
+[issue](https://github.com/negaraku-md/NegaraKu.md/issues) counts too; you do not
+have to write the fix to flag it.
+
+New here? [GOVERNANCE.md](GOVERNANCE.md) explains how the project is run (roles, how
+a change becomes live, and how to become a reviewer), and [ROADMAP.md](ROADMAP.md)
+shows what is open to work on. **Not a developer?** You can still contribute: use
+the "Edit on GitHub" link on any article, or open an issue describing the change —
+a maintainer can take it from there.
 
 ## Adding or editing an article
 
@@ -41,7 +49,8 @@ masterLanguage: "en"             # the topic's source-of-truth language
 status: "draft"                  # draft → in-review → reviewed → published (see lifecycle)
 aiAssisted: true                 # disclose AI drafting (default true)
 reviewer: null                   # a GitHub handle from reviewers.txt, once signed off
-version: "0.1"
+assignee: null                   # leave null — the reviewer must not also be the worker (four-eyes)
+revision: null                   # null until first published; then an integer, 0-based (maintained in revisions[])
 updated: 2026-08-08
 sources:                         # required beyond draft; keep titles/URLs untranslated
   - title: "Source title"
@@ -79,7 +88,7 @@ draft → in-review → reviewed → published
                                    ▼
                               in-update        ← still LIVE for readers
                                    ▼
-                              in-review → published   (version 0.1 → 0.2)
+                              in-review → published   (revision 0 → 1)
 
 published → archived    (repealed or superseded — retired from the site)
 ```
@@ -92,9 +101,11 @@ Two rules matter:
 - **`needs-update` is derived, not typed.** A published article whose `reviewDue` has
   passed is overdue by definition, so the site computes it. You don't set it by hand.
 
-When you land a change, bump `version` and add a `revisions[]` entry recording what
-changed and **who** changed it (`contributor`). That entry is rendered in the article's
-public change history — it is how you get credit.
+When you land a published change, increment `revision` (an integer; `null` means
+never published) and add a `revisions[]` entry recording what changed and **who**
+changed it (`contributor`). That entry is rendered in the article's public change
+history — it is how you get credit. (The old string `version` field was retired by
+`scripts/migrate-version-to-revision.mjs`; do not reintroduce it.)
 
 ## What you can contribute
 

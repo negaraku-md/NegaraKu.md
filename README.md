@@ -48,7 +48,19 @@ Other scripts: `npm run sync` (rebuild manifest), `npm run build:graph`, `npm ru
 Create `knowledge/<category>/<slug>.md` with the frontmatter shown in
 [CONTRIBUTING.md](CONTRIBUTING.md). Translations are siblings: `<slug>.en.md`, `<slug>.zh.md`.
 
-## Licensing
+## Contributing & governance
+
+Anyone can help — and you don't need to be a developer or write code.
+
+- [CONTRIBUTING.md](CONTRIBUTING.md) — how to add/edit/translate, step by step
+- [GOVERNANCE.md](GOVERNANCE.md) — how the project is run, roles, and how a change becomes live
+- [ROADMAP.md](ROADMAP.md) — where it's going and what's open to work on
+- [`good first issue`](https://github.com/negaraku-md/NegaraKu.md/labels/good%20first%20issue) · [Discussions](https://github.com/negaraku-md/NegaraKu.md/discussions)
+
+Reporting a coverage gap is a first-class contribution — you don't have to write the article to flag it.
+
+## Licensing & citation
 
 - **Content**: [CC BY-SA 4.0](LICENSE-CONTENT)
 - **Code**: [MIT](LICENSE)
+- **Cite this work**: [CITATION.cff](CITATION.cff)

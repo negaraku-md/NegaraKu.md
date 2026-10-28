@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "NegaraKu.md — an open, AI-friendly knowledge base about Malaysia"
+message: >-
+  If you use NegaraKu.md content or data, please cite it as below and retain
+  attribution as required by the CC BY-SA 4.0 licence on the content.
+type: dataset
+abstract: >-
+  NegaraKu.md is an open-source, curated and cited knowledge base about Malaysia,
+  written as Markdown that both people and large language models can read. It
+  spans law, taxation, business, government, culture and daily life across 13
+  languages, with every factual claim sourced to primary authorities and a
+  human-review trust model. Article content is licensed CC BY-SA 4.0; the site
+  source code is MIT.
+authors:
+  - name: "The NegaraKu.md contributors"
+    website: "https://negaraku.md"
+repository-code: "https://github.com/negaraku-md/NegaraKu.md"
+url: "https://negaraku.md"
+repository-artifact: "https://huggingface.co/datasets/negaraku-md/negaraku-md"
+license: CC-BY-SA-4.0
+version: "0.1.0"
+keywords:
+  - Malaysia
+  - knowledge base
+  - open data
+  - AI-friendly
+  - LLM
+  - multilingual
+  - Bahasa Malaysia
+  - law
+  - taxation
+  - government
+identifiers:
+  - type: url
+    value: "https://www.wikidata.org/wiki/Q141449495"
+    description: "Wikidata entity for NegaraKu.md"
