@@ -33,7 +33,7 @@ faq:
 lang: en
 masterLanguage: en
 translationStatus: master
-status: draft
+status: in-review
 aiAssisted: true
 reviewer: null
 assignee: null
