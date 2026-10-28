@@ -49,7 +49,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-07-28
+updated: 2026-10-28
 sources:
   - title: "Oil Palm Economic Performance in Malaysia and R&D Progress in 2023"
     url: "https://jopr.mpob.gov.my/oil-palm-economic-performance-in-malaysia-and-rd-progress-in-2023/"
@@ -187,26 +187,50 @@ A quick decision map:
 
 ## Explore this topic in depth
 
-The key guides in this area:
+Malaysia's industries, mapped by where they sit in the economy. Each guide goes deep on one sector — its size, key players, regulator, incentives and outlook.
 
-- [The Aerospace & MRO Industry in Malaysia](/en/industries/aerospace-industry/)
-- [The Automotive Industry](/en/industries/automotive-industry/)
-- [Bumiputera Equity Policy and Vendor Development in Strategic Industries](/en/industries/bumiputera-equity-vendor-policy/)
-- [Malaysia's Construction Industry](/en/industries/construction-industry/)
-- [Data Centres & Cloud Infrastructure in Malaysia](/en/industries/data-centre-cloud-industry/)
-- [Malaysia's Digital Economy](/en/industries/digital-economy-overview/)
-- [The Electrical & Electronics (E&E) Industry](/en/industries/electrical-electronics-industry/)
-- [Malaysia's Halal Certification System](/en/industries/halal-certification-system/)
-- [The Halal Industry and Malaysia's Global Halal Hub Ambition](/en/industries/halal-industry-economy/)
-- [Malaysia's Logistics & Ports Industry](/en/industries/logistics-ports-industry/)
+### Cross-cutting guides
+
 - [Manufacturing Beyond E&E and Autos](/en/industries/manufacturing-industry-overview/)
 - [New Industrial Master Plan 2030 (NIMP 2030)](/en/industries/new-industrial-master-plan-2030/)
+- [Malaysia's Digital Economy](/en/industries/digital-economy-overview/)
+- [Bumiputera Equity Policy and Vendor Development in Strategic Industries](/en/industries/bumiputera-equity-vendor-policy/)
+
+### Manufacturing
+
+- [The Electrical & Electronics (E&E) Industry](/en/industries/electrical-electronics-industry/)
+- [Malaysia's Semiconductor Industry](/en/industries/semiconductor-industry/)
+- [The Semiconductor Industry & National Semiconductor Strategy](/en/industries/semiconductor-industry-national-strategy/)
+- [The Automotive Industry](/en/industries/automotive-industry/)
+- [The Electric Vehicle (EV) & Battery Ecosystem](/en/industries/electric-vehicle-battery-industry/)
+- [The Aerospace & MRO Industry in Malaysia](/en/industries/aerospace-industry/)
+- [The Chemicals & Petrochemicals Industry](/en/industries/chemicals-petrochemicals-industry/)
+- [The Pharmaceutical Industry](/en/industries/pharmaceutical-industry/)
+- [The Medical Devices Industry](/en/industries/medical-devices-industry/)
+- [The Machinery & Equipment Industry](/en/industries/machinery-equipment-industry/)
+- [The Food & Beverage Manufacturing Industry](/en/industries/food-beverage-manufacturing-industry/)
+- [Malaysia's Rubber Industry](/en/industries/rubber-industry/)
+
+### Services
+
+- [Malaysia's Construction Industry](/en/industries/construction-industry/)
+- [Malaysia's Logistics & Ports Industry](/en/industries/logistics-ports-industry/)
+- [Data Centres & Cloud Infrastructure in Malaysia](/en/industries/data-centre-cloud-industry/)
+- [The Global Business Services (GBS) Industry](/en/industries/global-business-services-industry/)
+- [The Telecommunications Industry](/en/industries/telecommunications-industry/)
+- [The Oil & Gas Services & Equipment (OGSE) Industry](/en/industries/oil-gas-services-equipment-industry/)
+
+### Primary & extractive
+
 - [The Oil & Gas Industry in Malaysia](/en/industries/oil-gas-industry/)
 - [Malaysia's Palm Oil Industry](/en/industries/palm-oil-industry/)
 - [Palm Oil Sustainability and Certification in Malaysia](/en/industries/palm-oil-sustainability-certification/)
-- [Malaysia's Rubber Industry](/en/industries/rubber-industry/)
-- [Malaysia's Semiconductor Industry](/en/industries/semiconductor-industry/)
-- [The Semiconductor Industry & National Semiconductor Strategy](/en/industries/semiconductor-industry-national-strategy/)
+- [The Minerals & Mining Industry](/en/industries/minerals-mining-industry/)
+
+### The halal economy
+
+- [The Halal Industry and Malaysia's Global Halal Hub Ambition](/en/industries/halal-industry-economy/)
+- [Malaysia's Halal Certification System](/en/industries/halal-certification-system/)
 
 ## What's next
 
