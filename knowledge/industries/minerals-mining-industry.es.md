@@ -16,7 +16,7 @@ keyTakeaways:
   - Malasia fue el principal productor de estaño del mundo durante buena parte del siglo XX, suministrando un estimado 40% del estaño mundial antes de que el desplome del mercado del estaño de 1985 pusiera fin a ese dominio.
   - Los minerales son legalmente propiedad de los estados, que conceden arrendamientos mineros; el Departamento de Minerales y Geociencia (JMG) regula el sector a nivel federal conforme a la Ley de Desarrollo Mineral de 1994.
   - La producción actual está diversificada entre bauxita (concentrada en Pahang), oro (Pahang y Kelantan), mineral de hierro, arena de sílice y caolín, sin que ninguna materia prima domine como lo hizo en su día el estaño.
-  - Los elementos de tierras raras son la ambición insignia del sector: el gobierno aplica una moratoria a la exportación de tierras raras en bruto (desde el 1 de enero de 2024) para impulsar el procesamiento y la aportación de valor en el país.
+  - "Los elementos de tierras raras son la ambición insignia del sector: el gobierno aplica una moratoria a la exportación de tierras raras en bruto (desde el 1 de enero de 2024) para impulsar el procesamiento y la aportación de valor en el país."
   - La Planta de Materiales Avanzados de Lynas en Gebeng, cerca de Kuantan, es una de las mayores plantas de separación de tierras raras del mundo, pero procesa mineral enviado desde Australia y no yacimientos malasios.
 appliesTo: Estudiantes, inversores, exportadores, geólogos y responsables de políticas que intentan entender qué extrae Malasia, quién lo regula y hacia dónde se dirige el impulso de las tierras raras.
 faq:

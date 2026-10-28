@@ -16,7 +16,7 @@ keyTakeaways:
   - La fortaleza farmacéutica de Malasia son los medicamentos genéricos; según se informa, los fabricantes locales abastecen aproximadamente el 70-80% de la demanda nacional de genéricos, mientras que los fármacos patentados y especializados se importan en su mayoría.
   - La Organización Malasia de Industrias Farmacéuticas (MOPI) representa a unos 60 fabricantes licenciados por la NPRA; entre los principales nombres locales están Pharmaniaga, Duopharma Biotech, CCM, Kotra Pharma y Hovid.
   - Malasia se está posicionando como un centro de fármacos halal, construido sobre la MS 2424, descrita como la primera norma del mundo para la fabricación de fármacos halal (2012, revisada después para las vacunas halal).
-  - El llenado y acabado de vacunas y los biosimilares son la frontera de mayor valor de la industria: Pharmaniaga hizo el llenado y acabado de la vacuna contra la COVID-19 de Sinovac, y Duopharma Biotech produjo uno de los primeros biosimilares fabricados localmente.
+  - "El llenado y acabado de vacunas y los biosimilares son la frontera de mayor valor de la industria: Pharmaniaga hizo el llenado y acabado de la vacuna contra la COVID-19 de Sinovac, y Duopharma Biotech produjo uno de los primeros biosimilares fabricados localmente."
   - Los medicamentos están regulados por la Agencia Nacional de Regulación Farmacéutica (NPRA) bajo la Autoridad de Control de Fármacos; Malasia es miembro del PIC/S, por lo que los fabricantes trabajan conforme a las BPM del PIC/S.
 appliesTo: Estudiantes, inversores, exportadores, farmacéuticos, responsables de políticas sanitarias y fabricantes que intentan entender el sector farmacéutico de Malasia y su regulación.
 faq:

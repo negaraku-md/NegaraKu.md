@@ -36,6 +36,7 @@ translationStatus: master
 status: published
 reviewed: 2026-10-28
 reviewDue: 2028-04-28
+updated: 2026-10-28
 aiAssisted: true
 reviewer: null
 assignee: null

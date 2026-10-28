@@ -17,7 +17,7 @@ keyTakeaways:
   - La marca unifi de Telekom Malaysia lidera la banda ancha fija, compitiendo con Maxis Fibre, TIME dotCom e YTL Communications (Yes).
   - La penetración móvil está muy por encima del 100% sobre la base de tarjetas SIM, y tanto la banda ancha fija como la móvil están ampliamente adoptadas, lo que hace de Malasia un mercado casi saturado donde el crecimiento proviene del valor y no de nuevos abonados.
   - El sector está regulado por la MCMC conforme a la Ley de Comunicaciones y Multimedia de 1998, una ley de convergencia que abarca las telecomunicaciones, la radiodifusión y el contenido en línea.
-  - Malasia opera un modelo de 5G de doble red: el mayorista estatal Digital Nasional Berhad (DNB) construyó la primera red, y U Mobile fue seleccionada en 2024 para construir una segunda red competidora.
+  - "Malasia opera un modelo de 5G de doble red: el mayorista estatal Digital Nasional Berhad (DNB) construyó la primera red, y U Mobile fue seleccionada en 2024 para construir una segunda red competidora."
 appliesTo: Estudiantes, inversores, consumidores, responsables de políticas y empresas que intentan entender quiénes son los operadores de telecomunicaciones, cómo se estructura el mercado y cómo está regulado.
 faq:
   - q: ¿Quiénes son los principales operadores de telecomunicaciones en Malasia?

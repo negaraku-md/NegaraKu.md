@@ -13,7 +13,7 @@ contentType: industry
 sensitivity: none
 answer: 'La industria de maquinaria y equipos (M&E) fabrica las máquinas que otras industrias usan para producir bienes: maquinaria de producción, maquinaria para trabajar metales y máquinas herramienta, automatización y robótica, y equipos de potencia e industriales generales. En Malasia es un sector prioritario de alta tecnología designado y promovido por la Autoridad de Desarrollo de Inversiones de Malasia (MIDA), dominado por pequeñas y medianas empresas, y anclado en la maquinaria de proceso especializada para semiconductores, aceite de palma y procesamiento de alimentos. MIDA informa de unas exportaciones totales de M&E de alrededor de RM78,2 mil millones en 2025, frente a RM41,6 mil millones en 2019. Su dirección de política la fijan el Nuevo Plan Maestro Industrial (NIMP) 2030 e Industry4WRD.'
 keyTakeaways:
-  - La M&E es una industria "habilitadora": suministra las máquinas, el utillaje y la automatización que permiten que los sectores de semiconductores, aceite de palma, alimentos y otros de Malasia fabriquen en absoluto.
+  - "La M&E es una industria \"habilitadora\": suministra las máquinas, el utillaje y la automatización que permiten que los sectores de semiconductores, aceite de palma, alimentos y otros de Malasia fabriquen en absoluto."
   - MIDA informa de que las exportaciones totales de M&E subieron de unos RM41,6 mil millones en 2019 a unos RM78,2 mil millones en 2025, con las exportaciones de maquinaria especializada más que duplicándose hasta aproximadamente RM42,1 mil millones.
   - El sector está compuesto de forma abrumadora por pequeñas y medianas empresas (MIDA cita más del 90% de pymes) y se trata como una industria de alta tecnología prioritaria de MIDA.
   - Las fortalezas destacadas de Malasia son la maquinaria de proceso especializada para semiconductores, aceite de palma y procesamiento de alimentos, además del trabajo de metales de precisión y una creciente base de automatización y robótica.
@@ -37,6 +37,7 @@ translationStatus: "in-sync"
 status: published
 reviewed: 2026-10-28
 reviewDue: 2028-04-28
+updated: 2026-10-28
 aiAssisted: true
 reviewer: null
 assignee: null
