@@ -105,7 +105,31 @@ housekeeping.
 
 ## Execution status (2026-10-28)
 
-- P0 items 1–4: **written, committed locally, held for push.**
-- P0 item 5: **list prepared** in `docs/plans/good-first-issues-seed.md`; issues
-  **not opened** (awaiting go-ahead + label creation).
-- P1/P2: **not started** (awaiting direction after P0 lands).
+**P0 — pushed & live** (commit `ceb167f9a`): `GOVERNANCE.md`, `ROADMAP.md`,
+`CITATION.cff`, fixed `CONTRIBUTING.md`, `README.md` wiring.
+
+**P1/P2 — operating in public (done, on a go-ahead from the owner):**
+
+- **Good-first-issues opened** (using the existing label taxonomy, not parallel
+  labels): #4 strengthen a citation (pinned), #5 add an FAQ, #6 translate a short
+  article, #7 fix a typo/link. The two pre-existing issues (#2 review-queue,
+  #3 translation-debt) are automation-maintained and were left alone.
+- **Discussions seeded:** #8 Announcement "operating in the open" (links
+  GOVERNANCE/ROADMAP/CITATION + how to help), #9 Ideas "propose a topic". The
+  default welcome (#1) was left as is.
+- **Release cadence** (P2-10): `RELEASING.md` documents the monthly/milestone
+  tagged-release heartbeat on top of continuous deploys; first release `v0.1.0`
+  cut as the baseline.
+- **Already in place, verified not rebuilt:** contributor pages
+  (`contribute`, `contributor-guide`, `contributors`), `roles`, the About→GitHub
+  explainer (non-developer on-ramp, 13-lang), `changelog`, and the rich label set.
+
+**Still open (needs humans / later):**
+
+- Grow the reviewer + maintainer set (social; `reviewers.txt` criteria) — the
+  single-steward bus factor.
+- On-site surfacing of CITATION/GOVERNANCE was judged low marginal value vs. the
+  13-language cost, since the About/GitHub section + README already carry the
+  story; revisit if desired.
+- P1 Discussions can be grown (Q&A seed); contributor-recognition page already
+  exists.

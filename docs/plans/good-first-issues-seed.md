@@ -1,9 +1,17 @@
 # Good-First-Issues Seed
 
-_Drafted 2026-10-28. A prepared set of small, well-scoped tasks to open as GitHub
-Issues when the project goes public-operating (P0 item 5 of
-`open-source-operating-plan.md`). These are **not yet opened** — opening public
-issues needs an explicit go-ahead, and the labels below should be created first._
+_Drafted 2026-10-28. A prepared set of small, well-scoped tasks for GitHub Issues._
+
+> **UPDATE 2026-10-28 — partially executed.** On the owner's go-ahead, four
+> evergreen good-first-issues were opened using the repo's **existing** label
+> taxonomy (not the parallel labels proposed below): #4 strengthen a citation
+> (pinned), #5 add an FAQ, #6 translate a short article, #7 fix a typo/link. Topic
+> proposals were routed to Discussions #9 (Ideas) rather than an issue. The repo
+> already had `good first issue`, `help wanted`, `article-request`,
+> `translation-issue`, `documentation`, `scope:*`, `site-*`, `review-queue`, and
+> `translation-debt` labels — so **do not create the parallel label set below**;
+> map to the existing ones. The candidate list below remains a backlog to draw
+> from for future batches.
 
 ## Labels to create first
 
