@@ -34,7 +34,9 @@ lang: zh
 sourceContentHash: "610641d5d177ffdc"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-29
+reviewDue: 2028-04-29
 aiAssisted: true
 reviewer: null
 assignee: null

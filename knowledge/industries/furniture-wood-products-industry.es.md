@@ -34,7 +34,9 @@ lang: es
 sourceContentHash: "b880b17a37c872c5"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-29
+reviewDue: 2028-04-29
 aiAssisted: true
 reviewer: null
 assignee: null

@@ -34,7 +34,8 @@ lang: es
 sourceContentHash: "613e62dc50c4f5a9"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-29
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -88,7 +89,7 @@ keywords:
   - halal biotechnology
   - biosimilars
   - bio-based industry
-reviewDue: '2027-10-28'
+reviewDue: 2028-04-29
 revisions:
   - revision: 0
     date: '2026-10-28'
