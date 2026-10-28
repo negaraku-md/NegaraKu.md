@@ -49,7 +49,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-10-28
+updated: 2026-10-29
 sources:
   - title: "Oil Palm Economic Performance in Malaysia and R&D Progress in 2023"
     url: "https://jopr.mpob.gov.my/oil-palm-economic-performance-in-malaysia-and-rd-progress-in-2023/"
@@ -209,6 +209,11 @@ Malaysia's industries, mapped by where they sit in the economy. Each guide goes 
 - [The Medical Devices Industry](/en/industries/medical-devices-industry/)
 - [The Machinery & Equipment Industry](/en/industries/machinery-equipment-industry/)
 - [The Food & Beverage Manufacturing Industry](/en/industries/food-beverage-manufacturing-industry/)
+- [The Textiles, Apparel & Footwear Industry](/en/industries/textiles-apparel-industry/)
+- [The Iron, Steel & Metals Industry](/en/industries/iron-steel-metals-industry/)
+- [The Plastics & Packaging Industry](/en/industries/plastics-packaging-industry/)
+- [The Furniture & Wood Products Industry](/en/industries/furniture-wood-products-industry/)
+- [The Shipbuilding & Marine Industry](/en/industries/shipbuilding-marine-industry/)
 - [Malaysia's Rubber Industry](/en/industries/rubber-industry/)
 
 ### Services
@@ -219,6 +224,9 @@ Malaysia's industries, mapped by where they sit in the economy. Each guide goes 
 - [The Global Business Services (GBS) Industry](/en/industries/global-business-services-industry/)
 - [The Telecommunications Industry](/en/industries/telecommunications-industry/)
 - [The Oil & Gas Services & Equipment (OGSE) Industry](/en/industries/oil-gas-services-equipment-industry/)
+- [The Retail & Wholesale Trade Industry](/en/industries/retail-wholesale-trade-industry/)
+- [The Media & Broadcasting Industry](/en/industries/media-broadcasting-industry/)
+- [The Gig & Platform Economy](/en/industries/gig-platform-economy-industry/)
 
 ### Primary & extractive
 
@@ -226,6 +234,11 @@ Malaysia's industries, mapped by where they sit in the economy. Each guide goes 
 - [Malaysia's Palm Oil Industry](/en/industries/palm-oil-industry/)
 - [Palm Oil Sustainability and Certification in Malaysia](/en/industries/palm-oil-sustainability-certification/)
 - [The Minerals & Mining Industry](/en/industries/minerals-mining-industry/)
+- [The Forestry & Timber Industry](/en/industries/forestry-timber-industry/)
+
+### Emerging & life sciences
+
+- [The Biotechnology & Life Sciences Industry](/en/industries/biotechnology-life-sciences-industry/)
 
 ### The halal economy
 
