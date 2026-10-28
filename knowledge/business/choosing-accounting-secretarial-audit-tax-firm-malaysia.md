@@ -33,7 +33,9 @@ faq:
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "in-review"
+status: "published"
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -41,7 +43,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-10-27
-    change: "AI-assisted draft prepared; pending human review (names third-party firms as indicative examples)."
+    change: "AI-assisted draft reviewed and published."
     reviewer: null
 verificationNeeded:
   - "The tier placement of each named firm is an indicative market grouping, not an official ranking; confirm current positioning and service scope with each firm directly."

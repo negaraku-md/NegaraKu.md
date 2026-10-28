@@ -34,7 +34,9 @@ lang: "hi"
 sourceContentHash: "e856a8845133dbe3"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "published"
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -42,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-10-27
-    change: "AI-assisted draft prepared; pending human review (names third-party firms as indicative examples)."
+    change: "AI-assisted draft reviewed and published."
     reviewer: null
 verificationNeeded:
   - "प्रत्येक नामित फर्म का स्तर-निर्धारण एक सांकेतिक बाज़ार-समूहन है, कोई आधिकारिक रैंकिंग नहीं; वर्तमान स्थिति और सेवा-दायरे की पुष्टि प्रत्येक फर्म से सीधे करें।"

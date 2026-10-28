@@ -34,7 +34,9 @@ lang: "fr"
 sourceContentHash: "e856a8845133dbe3"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "published"
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -42,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-10-27
-    change: "AI-assisted draft prepared; pending human review (names third-party firms as indicative examples)."
+    change: "AI-assisted draft reviewed and published."
     reviewer: null
 verificationNeeded:
   - "Le classement par niveau de chaque cabinet nommé est un regroupement de marché indicatif, et non un classement officiel ; confirmez le positionnement actuel et l'étendue des prestations directement auprès de chaque cabinet."

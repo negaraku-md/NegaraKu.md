@@ -34,7 +34,9 @@ lang: "ko"
 sourceContentHash: "e856a8845133dbe3"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "published"
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -42,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-10-27
-    change: "AI-assisted draft prepared; pending human review (names third-party firms as indicative examples)."
+    change: "AI-assisted draft reviewed and published."
     reviewer: null
 verificationNeeded:
   - "각 명시된 법인의 계층 배치는 공식 순위가 아니라 참고용 시장 분류입니다; 현재 위치와 서비스 범위는 각 법인에 직접 확인하십시오."

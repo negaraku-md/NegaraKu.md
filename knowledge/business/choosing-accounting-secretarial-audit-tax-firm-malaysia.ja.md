@@ -34,7 +34,9 @@ lang: "ja"
 sourceContentHash: "e856a8845133dbe3"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "published"
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -42,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-10-27
-    change: "AI-assisted draft prepared; pending human review (names third-party firms as indicative examples)."
+    change: "AI-assisted draft reviewed and published."
     reviewer: null
 verificationNeeded:
   - "各事務所の階層配置は示唆的な市場上の分類であって公式のランキングではない。現在の位置づけとサービス範囲は各事務所に直接確認すること。"

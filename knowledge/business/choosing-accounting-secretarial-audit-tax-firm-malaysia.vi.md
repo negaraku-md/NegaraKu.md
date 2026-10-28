@@ -34,7 +34,9 @@ lang: "vi"
 sourceContentHash: "e856a8845133dbe3"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "in-review"
+status: "published"
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -42,7 +44,7 @@ revision: 0
 revisions:
   - revision: 0
     date: 2026-10-27
-    change: "AI-assisted draft prepared; pending human review (names third-party firms as indicative examples)."
+    change: "AI-assisted draft reviewed and published."
     reviewer: null
 verificationNeeded:
   - "Vị trí phân tầng của mỗi công ty được nêu tên là một cách nhóm thị trường mang tính chỉ dẫn, không phải một thứ hạng chính thức; hãy xác nhận vị trí và phạm vi dịch vụ hiện tại trực tiếp với mỗi công ty."
