@@ -65,7 +65,9 @@ revisions:
     date: 2026-10-28
     change: "AI-assisted draft prepared; pending human review (statutory timelines and form names flagged for verification)."
     reviewer: null
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null

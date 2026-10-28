@@ -31,10 +31,12 @@ faq:
   - q: 말레이시아에서 식품 제조는 어떻게 규제되나요?
     a: 식품 안전과 표시는 보건부가 집행하는 1983년 식품법과 그 하위 규정(1985년 식품규정, 2009년 식품위생규정 등)이 관장합니다. 할랄 표시는 별도로 말레이시아 이슬람개발부(JAKIM)가 통제하며, 공식 할랄 인증을 발급합니다.
 lang: ko
-sourceContentHash: "65b7948a45bacfff"
+sourceContentHash: "ac70589426331148"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -104,7 +106,7 @@ keywords:
 
 ## 식음료 제조 산업이란 무엇인가?
 
-F&B 제조란 원재 농산·수산 투입물 — 곡물, 코코아, 팜유, 설탕, 과일, 생선, 유제품 — 을 상점, 식당, 수출을 위한 가공·포장 제품으로 바꾸는 것을 말합니다. 농업과 어업([농업 부문 개요](/ko/industries/agriculture-sector-overview/) 참고)의 다운스트림에, 그리고 소매·외식의 업스트림에 자리합니다.
+F&B 제조란 원재 농산·수산 투입물 — 곡물, 코코아, 팜유, 설탕, 과일, 생선, 유제품 — 을 상점, 식당, 수출을 위한 가공·포장 제품으로 바꾸는 것을 말합니다. 농업과 어업([농업 부문 개요](/ko/agriculture/agriculture-sector-overview/) 참고)의 다운스트림에, 그리고 소매·외식의 업스트림에 자리합니다.
 
 이는 주로 **내수 지향** 산업으로, 생산량의 많은 부분이 말레이시아 안에서 소비되지만 수출 비중이 오르고 있습니다. 그 이중적 성격이 전략적으로 중요합니다. 식량안보를 떠받치는 동시에 외화도 벌기 때문입니다.
 
@@ -132,7 +134,7 @@ F&B 제조란 원재 농산·수산 투입물 — 곡물, 코코아, 팜유, 설
 
 규모는 의미 있습니다. 말레이시아의 전체 할랄 제품 수출은 통상부에 따르면 전년의 RM537.2억 링깃에서 약 15% 늘어 **2024년 약 RM617.9억 링깃**에 이르렀습니다 ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). 가공식품은 그 바구니의 핵심 일부이며, 정부는 그 상(賞)으로 2030년까지 약 US$5조 규모의 세계 할랄 시장 전망을 인용해 왔습니다.
 
-수출 추진력은 새 지역에서 강했습니다. MATRADE는 2024년 유럽으로의 가공식품 수출을 약 RM34.8억 링깃 — 약 70% 급증 — 으로, 코코아 제품·비유제품 크리머·제과·비스킷이 이끌었다고 보고했고, 중동·북아프리카로의 수출을 약 RM23.2억 링깃으로, 그중 UAE가 단일 최대 시장이라고 밝혔습니다 ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). 할랄개발공사(HDC)와 MATRADE 같은 기관은 걸프푸드와 아누가 같은 무역박람회에서 말레이시아 식음료를 적극 알립니다. 더 넓은 그림은 [할랄 산업과 경제](/ko/industries/halal-industry-economy/) 가이드와 [할랄 인증](/ko/business/halal-certification-system/)이 어떻게 작동하는지를 참고하세요.
+수출 추진력은 새 지역에서 강했습니다. MATRADE는 2024년 유럽으로의 가공식품 수출을 약 RM34.8억 링깃 — 약 70% 급증 — 으로, 코코아 제품·비유제품 크리머·제과·비스킷이 이끌었다고 보고했고, 중동·북아프리카로의 수출을 약 RM23.2억 링깃으로, 그중 UAE가 단일 최대 시장이라고 밝혔습니다 ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). 할랄개발공사(HDC)와 MATRADE 같은 기관은 걸프푸드와 아누가 같은 무역박람회에서 말레이시아 식음료를 적극 알립니다. 더 넓은 그림은 [할랄 산업과 경제](/ko/industries/halal-industry-economy/) 가이드와 [할랄 인증](/ko/industries/halal-certification-system/)이 어떻게 작동하는지를 참고하세요.
 
 ## 주요 사업자는 누구인가?
 

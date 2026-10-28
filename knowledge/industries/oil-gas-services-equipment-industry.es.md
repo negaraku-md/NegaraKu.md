@@ -31,10 +31,12 @@ faq:
   - q: ¿Qué es el Plan Nacional de la Industria OGSE?
     a: Lanzado en abril de 2021 y revisado a medio término en 2024, es el plan a 10 años (2021-2030) del gobierno para hacer el sector más competitivo, resiliente y sostenible. Sus objetivos incluyen duplicar los ingresos por exportación, sostener una contribución al PIB de aproximadamente RM50 mil millones y empujar a las firmas hacia servicios de transición energética como la captura de carbono, el hidrógeno y las renovables.
 lang: es
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -156,4 +158,4 @@ El viraje aprovecha fortalezas reales: la ingeniería en alta mar, las operacion
 
 El panorama a corto plazo es cíclico pero más firme que durante la caída, apoyado por una renovada actividad de PETRONAS y una cartera de trabajo de mantenimiento, reurbanización y nuevos pozos. La pregunta a más largo plazo es si las firmas OGSE de Malasia pueden convertir décadas de experiencia en alta mar en posiciones duraderas en la energía de transición y los mercados de exportación antes de que se agote el trabajo doméstico de petróleo y gas. Esa es la apuesta explícita detrás del plan, y la razón por la que el OGSE, tratado durante mucho tiempo como un acto secundario del recurso, se discute cada vez más como una industria con su propio futuro que dar forma.
 
-Para el lado del recurso de la historia, lee la guía de la [industria del petróleo y gas](/es/industries/oil-gas-industry/) y el [perfil de la industria de PETRONAS](/es/industries/petronas-industry-profile/). Consulta también la guía completa de [Las principales industrias de Malasia](/es/industries/industries-overview/).
+Para el lado del recurso de la historia, lee la guía de la [industria del petróleo y gas](/es/industries/oil-gas-industry/) y el [perfil de la industria de PETRONAS](/es/economy/oil-gas-petronas/). Consulta también la guía completa de [Las principales industrias de Malasia](/es/industries/industries-overview/).

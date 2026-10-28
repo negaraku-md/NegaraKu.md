@@ -31,10 +31,12 @@ faq:
   - q: ¿Cómo se regula la fabricación de alimentos en Malasia?
     a: La seguridad y el etiquetado de los alimentos se rigen por la Ley de Alimentos de 1983 y sus reglas subsidiarias (como el Reglamento de Alimentos de 1985 y el Reglamento de Higiene de los Alimentos de 2009), administrados por el Ministerio de Salud. Las declaraciones halal las controla por separado el Departamento de Desarrollo Islámico de Malasia (JAKIM), que emite la certificación halal oficial.
 lang: es
-sourceContentHash: "65b7948a45bacfff"
+sourceContentHash: "ac70589426331148"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -104,7 +106,7 @@ Esta guía explica qué fabrica la industria, qué tamaño tiene, sus principale
 
 ## ¿Qué es la industria de fabricación de alimentos y bebidas?
 
-La fabricación de A&B significa convertir insumos agrícolas y marinos brutos —granos, cacao, aceite de palma, azúcar, fruta, pescado y lácteos— en productos procesados y envasados listos para las tiendas, los restaurantes y la exportación. Se sitúa aguas abajo de la agricultura y la pesca (véase el [resumen del sector agrícola](/es/industries/agriculture-sector-overview/)) y aguas arriba del comercio minorista y la restauración.
+La fabricación de A&B significa convertir insumos agrícolas y marinos brutos —granos, cacao, aceite de palma, azúcar, fruta, pescado y lácteos— en productos procesados y envasados listos para las tiendas, los restaurantes y la exportación. Se sitúa aguas abajo de la agricultura y la pesca (véase el [resumen del sector agrícola](/es/agriculture/agriculture-sector-overview/)) y aguas arriba del comercio minorista y la restauración.
 
 Es en gran medida una industria de **orientación nacional**, lo que significa que gran parte de su producción se consume dentro de Malasia, pero una parte creciente se exporta. Esa doble naturaleza la hace estratégicamente importante: sustenta la seguridad alimentaria al tiempo que genera divisas.
 
@@ -132,7 +134,7 @@ Si algo distingue a los alimentos y bebidas malasios a nivel internacional, es e
 
 La escala es significativa. Las exportaciones totales de productos halal de Malasia alcanzaron unos **RM61,79 mil millones en 2024**, un alza de aproximadamente el 15% frente a los RM53,72 mil millones del año anterior, según el ministerio de comercio ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). Los alimentos procesados son una parte central de esa cesta, y el gobierno ha citado proyecciones del mercado halal mundial de alrededor de 5 billones de dólares estadounidenses para 2030 como el premio.
 
-El impulso exportador ha sido fuerte en nuevas regiones. MATRADE ha informado de exportaciones de alimentos procesados a Europa de unos RM3,48 mil millones en 2024 —un salto de aproximadamente el 70%—, lideradas por los productos de cacao, la crema no láctea, la confitería y las galletas, y de exportaciones a Oriente Medio y el norte de África de unos RM2,32 mil millones, con los Emiratos Árabes Unidos como el mayor mercado individual allí ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Agencias como la Corporación de Desarrollo Halal (HDC) y MATRADE impulsan activamente los alimentos y bebidas malasios en ferias comerciales como Gulfood y Anuga. Para el panorama más amplio, consulta la guía de la [industria y la economía halal](/es/industries/halal-industry-economy/) y cómo funciona la [certificación halal](/es/business/halal-certification-system/).
+El impulso exportador ha sido fuerte en nuevas regiones. MATRADE ha informado de exportaciones de alimentos procesados a Europa de unos RM3,48 mil millones en 2024 —un salto de aproximadamente el 70%—, lideradas por los productos de cacao, la crema no láctea, la confitería y las galletas, y de exportaciones a Oriente Medio y el norte de África de unos RM2,32 mil millones, con los Emiratos Árabes Unidos como el mayor mercado individual allí ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Agencias como la Corporación de Desarrollo Halal (HDC) y MATRADE impulsan activamente los alimentos y bebidas malasios en ferias comerciales como Gulfood y Anuga. Para el panorama más amplio, consulta la guía de la [industria y la economía halal](/es/industries/halal-industry-economy/) y cómo funciona la [certificación halal](/es/industries/halal-certification-system/).
 
 ## ¿Quiénes son los actores clave?
 

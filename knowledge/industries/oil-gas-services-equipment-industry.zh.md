@@ -31,10 +31,12 @@ faq:
   - q: 什么是国家 OGSE 产业蓝图？
     a: 它于 2021 年 4 月推出、2024 年进行中期检讨，是政府让该领域更具竞争力、更具韧性与更可持续的 10 年计划（2021—2030）。其目标包括把出口收入翻倍、维持约 RM50 billion 的国内生产总值贡献，并推动企业进入碳捕集、氢能与可再生能源等能源转型服务。
 lang: zh
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -156,4 +158,4 @@ OGSE 工作集聚在近海盆地与服务它们的港口附近：
 
 近期图景具周期性，但比下行期更为稳固，受益于国家石油公司活动的回升，以及维护、重新开发与新井工作的储备。更长期的问题是：马来西亚的 OGSE 企业能否在本国油气工作逐渐收缩之前，把数十年的海上专长转化为在转型能源与出口市场中的持久地位。这正是蓝图背后的明确押注——也是 OGSE 这个长期被视为资源配角的产业，如今越来越被当作一个拥有自身未来、有待自己塑造的产业来讨论的原因。
 
-关于故事的资源一侧，请阅读[油气产业](/zh/industries/oil-gas-industry/)指南与 [PETRONAS 产业介绍](/zh/industries/petronas-industry-profile/)。另请参阅[马来西亚的关键产业](/zh/industries/industries-overview/)完整指南。
+关于故事的资源一侧，请阅读[油气产业](/zh/industries/oil-gas-industry/)指南与 [PETRONAS 产业介绍](/zh/economy/oil-gas-petronas/)。另请参阅[马来西亚的关键产业](/zh/industries/industries-overview/)完整指南。

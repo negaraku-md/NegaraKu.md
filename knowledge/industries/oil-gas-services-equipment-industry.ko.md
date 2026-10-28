@@ -31,10 +31,12 @@ faq:
   - q: 국가 OGSE 산업 청사진이란 무엇인가요?
     a: 2021년 4월 출범하고 2024년 중간검토된, 이 부문을 더 경쟁력 있고 회복력 있으며 지속가능하게 만들려는 정부의 10년 계획(2021–2030)입니다. 목표에는 수출 매출 두 배, 약 RM500억 링깃의 GDP 기여 유지, 그리고 탄소포집·수소·재생에너지 같은 에너지 전환 서비스로 기업을 밀어 넣는 것이 포함됩니다.
 lang: ko
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -156,4 +158,4 @@ OGSE 작업은 해양 분지와 이를 섬기는 항만 인근에 집중됩니�
 
 단기 전망은 주기적이지만 하락기보다는 단단하며, 되살아난 PETRONAS 활동과 유지보수·재개발·신규 유정 작업의 파이프라인이 뒷받침합니다. 더 장기적 질문은, 국내 석유·가스 작업이 줄어들기 전에 말레이시아 OGSE 기업들이 수십 년의 해양 전문성을 전환 에너지와 수출시장에서의 지속 가능한 위치로 바꿀 수 있을지입니다. 그것이 청사진 뒤의 명시적 베팅이며 — 오랫동안 자원의 조연으로 취급되던 OGSE가 점점 스스로의 미래를 빚어 갈 산업으로 거론되는 이유입니다.
 
-자원 쪽 이야기는 [석유·가스 산업](/ko/industries/oil-gas-industry/) 가이드와 [PETRONAS 산업 프로필](/ko/industries/petronas-industry-profile/)을 읽어 보세요. [말레이시아의 주요 산업](/ko/industries/industries-overview/) 전체 가이드도 참고하세요.
+자원 쪽 이야기는 [석유·가스 산업](/ko/industries/oil-gas-industry/) 가이드와 [PETRONAS 산업 프로필](/ko/economy/oil-gas-petronas/)을 읽어 보세요. [말레이시아의 주요 산업](/ko/industries/industries-overview/) 전체 가이드도 참고하세요.

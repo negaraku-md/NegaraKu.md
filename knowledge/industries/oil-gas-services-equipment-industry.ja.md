@@ -31,10 +31,12 @@ faq:
   - q: 国家OGSE産業ブループリントとは何ですか。
     a: 2021年4月に立ち上げられ、2024年に中間レビューが行われた、この部門をより競争力があり、強靭で、持続可能にするための政府の10年計画（2021～2030）です。その目標には、輸出収入の倍増、およそRM500億のGDP貢献の維持、そして企業を炭素回収・水素・再生可能エネルギーといったエネルギー移行サービスへ押し進めることが含まれます。
 lang: ja
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -156,4 +158,4 @@ OGSEの仕事は、沖合の堆積盆地とそれに資する港の近くに集�
 
 短期の状況は循環的だが、下落局面よりは堅調で、PETRONASの活動の再開と、保守・再開発・新規坑井の仕事のパイプラインに支えられている。より長期の問いは、国内の石油・ガスの仕事が細る前に、マレーシアのOGSE企業が数十年の洋上の専門知識を、移行エネルギーと輸出市場における持続的な地位へと転換できるかどうかだ。それがブループリントの背後にある明確な賭けであり――長らく資源の脇役として扱われてきたOGSEが、ますます、自らの将来を形づくる産業として語られる理由である。
 
-物語の資源側については、[石油・ガス産業](/ja/industries/oil-gas-industry/)のガイドと[PETRONAS産業プロフィール](/ja/industries/petronas-industry-profile/)を読んでほしい。[マレーシアの主要産業](/ja/industries/industries-overview/)の全体ガイドも参照してほしい。
+物語の資源側については、[石油・ガス産業](/ja/industries/oil-gas-industry/)のガイドと[PETRONAS産業プロフィール](/ja/economy/oil-gas-petronas/)を読んでほしい。[マレーシアの主要産業](/ja/industries/industries-overview/)の全体ガイドも参照してほしい。

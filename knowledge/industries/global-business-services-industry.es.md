@@ -31,10 +31,12 @@ faq:
   - q: ¿Qué incentivos ofrece Malasia a los inversores en GBS?
     a: La vía principal es el estatus Malaysia Digital (MD), administrado por MDEC, que puede desbloquear incentivos fiscales para actividades digitales y de servicios aprobadas. En 2024 MDEC introdujo dos esquemas basados en resultados —el Incentivo a la Nueva Inversión y el Incentivo a la Expansión—, con solicitudes abiertas hasta 2027. Los términos cambian, así que confirma la elegibilidad actual con MDEC o un asesor fiscal.
 lang: es
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ El sector GBS de Malasia se encuentra en un momento confiado pero competitivo. H
 
 Los desafíos son igual de claros: una persistente escasez de talento a medida que la demanda de competencias digitales supera a la oferta, la inflación salarial que erosiona la ventaja de coste y una competencia cada vez más afilada de India, Filipinas, Vietnam y otros. El futuro del sector depende menos de ganar el próximo centro de llamadas que de convertirse en el lugar donde las multinacionales basan el cerebro de sus operaciones regionales.
 
-Para profundizar, consulta el resumen de la [economía digital de Malasia](/es/industries/digital-economy-overview/) y la agencia que impulsa el sector, [MDEC](/es/government/mdec-digital-economy-corporation/).
+Para profundizar, consulta el resumen de la [economía digital de Malasia](/es/industries/digital-economy-overview/) y la agencia que impulsa el sector, [MDEC](/es/technology/mdec-digital-economy-corporation/).
 
 Consulta la guía completa: [Las principales industrias de Malasia](/es/industries/industries-overview/).

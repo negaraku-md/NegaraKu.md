@@ -31,10 +31,12 @@ faq:
   - q: मलेशिया GBS निवेशकों को कौन-से प्रोत्साहन प्रदान करता है?
     a: मुख्य मार्ग Malaysia Digital (MD) स्थिति है, जो MDEC द्वारा प्रशासित है, और जो स्वीकृत डिजिटल और सेवा गतिविधियों के लिए कर प्रोत्साहन खोल सकती है। 2024 में MDEC ने दो परिणाम-आधारित योजनाएँ पेश कीं — New Investment Incentive और Expansion Incentive — जिनके आवेदन 2027 तक खुले हैं। शर्तें बदलती हैं, इसलिए वर्तमान पात्रता की पुष्टि MDEC या एक कर सलाहकार से करें।
 lang: hi
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ GBS किसी बहुराष्ट्रीय कंपनी के आ
 
 चुनौतियाँ भी उतनी ही स्पष्ट हैं: एक लगातार प्रतिभा संकट क्योंकि डिजिटल कौशल की माँग आपूर्ति से आगे निकल जाती है, वेतन मुद्रास्फीति लागत लाभ को क्षीण करती है, और भारत, फिलीपींस, वियतनाम तथा अन्य से तेज़ होती प्रतिस्पर्धा। क्षेत्र का भविष्य अगले कॉल सेंटर को जीतने पर कम और उस स्थान बनने पर अधिक निर्भर करता है जहाँ बहुराष्ट्रीय कंपनियाँ अपने क्षेत्रीय परिचालनों का मस्तिष्क आधारित करती हैं।
 
-और गहराई में जाने के लिए, [मलेशिया की डिजिटल अर्थव्यवस्था](/hi/industries/digital-economy-overview/) का अवलोकन और क्षेत्र को आगे बढ़ाने वाली एजेंसी [MDEC](/hi/government/mdec-digital-economy-corporation/) देखें।
+और गहराई में जाने के लिए, [मलेशिया की डिजिटल अर्थव्यवस्था](/hi/industries/digital-economy-overview/) का अवलोकन और क्षेत्र को आगे बढ़ाने वाली एजेंसी [MDEC](/hi/technology/mdec-digital-economy-corporation/) देखें।
 
 पूरी गाइड देखें: [मलेशिया के प्रमुख उद्योग](/hi/industries/industries-overview/)।

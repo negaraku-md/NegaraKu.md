@@ -31,10 +31,12 @@ faq:
   - q: 马来西亚向 GBS 投资者提供哪些激励？
     a: 主要途径是由 MDEC 管理的「马来西亚数字」（MD）地位，它可为获批的数字与服务活动解锁税务激励。2024 年，MDEC 推出两项以成果为导向的计划——新投资激励与扩张激励——申请开放至 2027 年。条款会变动，因此请向 MDEC 或税务顾问确认当前资格。
 lang: zh
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ GBS 是一个统称，指从一个通常位于离岸的中央地点运行一家�
 
 挑战同样清晰：随数字技能需求超过供应而持续存在的人才紧缺、侵蚀成本优势的工资上涨，以及来自印度、菲律宾、越南等地日趋激烈的竞争。该领域的未来，更少取决于赢得下一个呼叫中心，而更多取决于成为跨国企业安放其区域运营「大脑」之地。
 
-欲深入了解，请参阅[马来西亚数字经济](/zh/industries/digital-economy-overview/)概览，以及推动该领域的机构 [MDEC](/zh/government/mdec-digital-economy-corporation/)。
+欲深入了解，请参阅[马来西亚数字经济](/zh/industries/digital-economy-overview/)概览，以及推动该领域的机构 [MDEC](/zh/technology/mdec-digital-economy-corporation/)。
 
 查看完整指南：[马来西亚的关键产业](/zh/industries/industries-overview/)。

@@ -31,10 +31,12 @@ faq:
   - q: Apakah Pelan Tindakan Industri OGSE Negara?
     a: Dilancarkan pada April 2021 dan disemak pertengahan penggal pada 2024, ia ialah pelan 10 tahun (2021–2030) kerajaan untuk menjadikan sektor ini lebih berdaya saing, berdaya tahan dan mampan. Sasarannya termasuk menggandakan hasil eksport, mengekalkan sumbangan KDNK kira-kira RM50 bilion dan mendorong firma ke arah perkhidmatan peralihan tenaga seperti penangkapan karbon, hidrogen dan tenaga boleh diperbaharui.
 lang: ms
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -156,4 +158,4 @@ Peralihan ini bermain kepada kekuatan sebenar: kejuruteraan luar pesisir, operas
 
 Gambaran jangka pendek bersifat kitaran tetapi lebih kukuh berbanding semasa kemerosotan, disokong oleh aktiviti PETRONAS yang diperbaharui dan saluran kerja penyelenggaraan, pembangunan semula dan telaga baharu. Persoalan jangka panjang ialah sama ada firma OGSE Malaysia boleh menukar kepakaran luar pesisir berdekad menjadi kedudukan yang kekal dalam tenaga peralihan dan pasaran eksport sebelum kerja minyak dan gas domestik semakin berkurangan. Itulah pertaruhan jelas di sebalik pelan tindakan itu — dan sebab OGSE, yang telah lama dikendalikan sebagai sokongan kepada sumber, semakin dibincangkan sebagai industri dengan masa depannya sendiri untuk dibentuk.
 
-Untuk sebelah sumber kisah ini, baca panduan [industri minyak & gas](/industries/oil-gas-industry/) dan [profil industri PETRONAS](/industries/petronas-industry-profile/). Lihat juga panduan penuh kepada [Industri Utama Malaysia](/industries/industries-overview/).
+Untuk sebelah sumber kisah ini, baca panduan [industri minyak & gas](/industries/oil-gas-industry/) dan [profil industri PETRONAS](/economy/oil-gas-petronas/). Lihat juga panduan penuh kepada [Industri Utama Malaysia](/industries/industries-overview/).

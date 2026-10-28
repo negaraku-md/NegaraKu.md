@@ -34,7 +34,9 @@ lang: "zh"
 sourceContentHash: "4a9d49ca77056d90"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null

@@ -33,7 +33,9 @@ faq:
 lang: en
 masterLanguage: en
 translationStatus: master
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null

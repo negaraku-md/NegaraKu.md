@@ -31,10 +31,12 @@ faq:
   - q: 정부는 화학 산업을 어떻게 지원하나요?
     a: 말레이시아투자개발청(MIDA)은 화학·첨단소재부를 통해 제조 면허를 심사하고 파이어니어 스테이터스(Pioneer Status)와 투자세액공제(Investment Tax Allowance) 같은 인센티브를 제공합니다. 석유 및 석유화학 프로젝트는 1974년 석유개발법의 적용도 받습니다. 화학산업 로드맵 2030과 신산업마스터플랜 2030은 특수·고부가가치 화학으로 나아가는 전략적 방향을 제시합니다.
 lang: ko
-sourceContentHash: "e9243db29dcca80d"
+sourceContentHash: "1c45aa3fcee5cc05"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -78,7 +80,7 @@ relations:
     to: mida
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - manufacturing-industry-overview
 keywords:
   - 화학 산업
@@ -125,7 +127,7 @@ revisions:
 
 ## 주요 사업자와 정부 연계기업(GLC)
 
-중심축은 **PETRONAS 케미칼 그룹(PCG)**으로, 국영 석유회사 [PETRONAS](/ko/industries/petronas-industry-profile/)의 상장 석유화학 부문입니다. PCG는 올레핀·폴리머·비료의 지배적 통합 생산자이며, 그 규모는 국내 가스 원료에 대한 특권적 접근에서 나옵니다.
+중심축은 **PETRONAS 케미칼 그룹(PCG)**으로, 국영 석유회사 [PETRONAS](/ko/economy/oil-gas-petronas/)의 상장 석유화학 부문입니다. PCG는 올레핀·폴리머·비료의 지배적 통합 생산자이며, 그 규모는 국내 가스 원료에 대한 특권적 접근에서 나옵니다.
 
 한국 롯데케미칼이 다수 지분을 보유한 **롯데케미칼 타이탄**이 또 다른 중량급 사업자입니다. 1991년 말레이시아 최초의 독립형 폴리올레핀 생산자로 설립된 이 회사는 조호르의 두 개 사업장에 걸친 생산능력(정확한 수치는 자료마다 다릅니다)을 갖춘 국내 최대 올레핀·폴리올레핀 통합 생산자로 평가되어 왔습니다. 산업가스·코팅·농화학·특수제품 분야의 폭넓은 다국적 기업들과, 팜 기반 유지화학 생산자들의 큰 기반이 이 부문을 완성합니다.
 
@@ -152,6 +154,6 @@ revisions:
 
 CIR2030의 목표가 달성될지는 실행에 달려 있습니다 — 특수화학 투자를 유치하고, 에너지 집약 공장을 탈탄소화하며, 더 큰 역내 경쟁자들과 겨루는 것입니다. 그래도 방향은 분명합니다. 말레이시아는 자국 화학 산업이 벌크 플라스틱과 팜 유지화학뿐 아니라, 그 위에 자리한 더 높은 부가가치의 화학으로 알려지기를 바랍니다.
 
-더 깊이 들어가려면, 원료를 공급하는 [석유·가스 산업](/ko/industries/oil-gas-industry/), 최대 생산자 뒤의 [PETRONAS 프로필](/ko/industries/petronas-industry-profile/), 그리고 더 넓은 [제조 산업](/ko/industries/manufacturing-industry-overview/) 가이드를 참고하세요.
+더 깊이 들어가려면, 원료를 공급하는 [석유·가스 산업](/ko/industries/oil-gas-industry/), 최대 생산자 뒤의 [PETRONAS 프로필](/ko/economy/oil-gas-petronas/), 그리고 더 넓은 [제조 산업](/ko/industries/manufacturing-industry-overview/) 가이드를 참고하세요.
 
 전체 가이드 보기: [말레이시아의 주요 산업](/ko/industries/industries-overview/).

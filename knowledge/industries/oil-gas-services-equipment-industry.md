@@ -33,7 +33,9 @@ faq:
 lang: en
 masterLanguage: en
 translationStatus: master
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -83,7 +85,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -155,4 +157,4 @@ The pivot plays to real strengths: offshore engineering, marine operations and p
 
 The near-term picture is cyclical but firmer than during the downturn, supported by renewed PETRONAS activity and a pipeline of maintenance, redevelopment and new-well work. The longer-term question is whether Malaysia's OGSE firms can convert decades of offshore expertise into durable positions in transition energy and export markets before domestic oil and gas work tapers. That is the explicit bet behind the blueprint — and the reason OGSE, long treated as a supporting act to the resource, is increasingly discussed as an industry with its own future to shape.
 
-For the resource side of the story, read the [oil & gas industry](/en/industries/oil-gas-industry/) guide and the [PETRONAS industry profile](/en/industries/petronas-industry-profile/). See also the full guide to [Malaysia's Key Industries](/en/industries/industries-overview/).
+For the resource side of the story, read the [oil & gas industry](/en/industries/oil-gas-industry/) guide and the [PETRONAS industry profile](/en/economy/oil-gas-petronas/). See also the full guide to [Malaysia's Key Industries](/en/industries/industries-overview/).

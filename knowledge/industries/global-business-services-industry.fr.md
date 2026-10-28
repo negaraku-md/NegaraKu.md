@@ -31,10 +31,12 @@ faq:
   - q: "Quelles incitations la Malaisie offre-t-elle aux investisseurs GBS ?"
     a: "La principale voie est le statut Malaysia Digital (MD), administré par la MDEC, qui peut débloquer des incitations fiscales pour les activités numériques et de services approuvées. En 2024, la MDEC a introduit deux programmes fondés sur les résultats — le New Investment Incentive et l'Expansion Incentive — dont les demandes sont ouvertes jusqu'en 2027. Les conditions évoluent, alors confirmez l'éligibilité actuelle auprès de la MDEC ou d'un conseiller fiscal."
 lang: fr
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ Le secteur GBS de la Malaisie se trouve à un moment confiant mais compétitif. 
 
 Les défis sont tout aussi clairs : une pénurie persistante de talents à mesure que la demande de compétences numériques dépasse l'offre, une inflation salariale érodant l'avantage de coût, et une concurrence qui s'aiguise avec l'Inde, les Philippines, le Vietnam et d'autres. L'avenir du secteur dépend moins de gagner le prochain centre d'appels que de devenir le lieu où les multinationales basent le cerveau de leurs opérations régionales.
 
-Pour aller plus loin, voir l'aperçu de l'[économie numérique de la Malaisie](/fr/industries/digital-economy-overview/) et l'agence qui pilote le secteur, la [MDEC](/fr/government/mdec-digital-economy-corporation/).
+Pour aller plus loin, voir l'aperçu de l'[économie numérique de la Malaisie](/fr/industries/digital-economy-overview/) et l'agence qui pilote le secteur, la [MDEC](/fr/technology/mdec-digital-economy-corporation/).
 
 Voir le guide complet : [Les principales industries de la Malaisie](/fr/industries/industries-overview/).

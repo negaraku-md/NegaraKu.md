@@ -31,10 +31,12 @@ faq:
   - q: マレーシアはGBS投資家にどのような優遇措置を提供していますか。
     a: 主な経路はMDECが運営するMalaysia Digital（MD）ステータスで、承認されたデジタル・サービス活動に税優遇を解放できます。2024年、MDECは二つの成果連動型制度――New Investment IncentiveとExpansion Incentive――を導入し、2027年まで申請を受け付けています。条件は変わるため、現行の適格要件をMDECまたは税務アドバイザーに確認してください。
 lang: ja
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ GBSは、多国籍企業の内部業務を、通常はオフショアの中央�
 
 課題も同じくらい明確だ。デジタルスキルの需要が供給を上回る中での根強い人材不足、コスト優位を侵食する賃金上昇、そしてインド、フィリピン、ベトナムその他との先鋭化する競争である。この部門の将来は、次のコールセンターを勝ち取ることより、多国籍企業が地域業務の頭脳を置く場所になれるかどうかにかかっている。
 
-さらに深く知るには、[マレーシアのデジタル経済](/ja/industries/digital-economy-overview/)の概要と、この部門を推進する機関[MDEC](/ja/government/mdec-digital-economy-corporation/)を参照してほしい。
+さらに深く知るには、[マレーシアのデジタル経済](/ja/industries/digital-economy-overview/)の概要と、この部門を推進する機関[MDEC](/ja/technology/mdec-digital-economy-corporation/)を参照してほしい。
 
 詳しくは全体ガイドをご覧ください：[マレーシアの主要産業](/ja/industries/industries-overview/)。

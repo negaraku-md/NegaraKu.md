@@ -31,10 +31,12 @@ faq:
   - q: 말레이시아의 통신 시장은 여전히 성장하나요?
     a: 시장이 거의 포화되어 가입자 성장은 대체로 멈췄습니다. 향후 성장은 많은 신규 사용자를 확보하는 데서가 아니라 더 높은 부가가치의 서비스 — 5G, 광케이블 업그레이드, 기업 연결성, 디지털 서비스 — 에서 나올 것으로 예상됩니다.
 lang: ko
-sourceContentHash: "135d833f59842509"
+sourceContentHash: "01292aba5d43284f"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -74,12 +76,12 @@ sources:
 entity: Telecommunications in Malaysia
 relations:
   - rel: administered-by
-    to: mcmc-malaysia
+    to: mcmc-communications-multimedia-commission
   - rel: part-of
     to: digital-economy-overview
 related:
   - 5g-jendela-dnb-malaysia
-  - mcmc-malaysia
+  - mcmc-communications-multimedia-commission
   - digital-economy-overview
 keywords:
   - 통신 산업
@@ -144,7 +146,7 @@ revisions:
 
 ## 규제기관: MCMC와 1998년 통신멀티미디어법
 
-이 부문의 심판은 **1998년 통신멀티미디어법(CMA)** 아래 활동하는 **[말레이시아 통신멀티미디어위원회(MCMC)](/ko/technology/mcmc-malaysia/)**입니다. CMA는 통신·방송·온라인 콘텐츠를 별개의 사일로가 아니라 하나의 규제 산업으로 취급하는 현대적 "융합" 체계를 만들었고, 1950년 통신법 같은 옛 법률을 대체했습니다.
+이 부문의 심판은 **1998년 통신멀티미디어법(CMA)** 아래 활동하는 **[말레이시아 통신멀티미디어위원회(MCMC)](/ko/government/mcmc-communications-multimedia-commission/)**입니다. CMA는 통신·방송·온라인 콘텐츠를 별개의 사일로가 아니라 하나의 규제 산업으로 취급하는 현대적 "융합" 체계를 만들었고, 1950년 통신법 같은 옛 법률을 대체했습니다.
 
 MCMC의 권한은 광범위합니다. **라이선스**(이 법은 네트워크 설비, 네트워크 서비스, 응용 서비스, 콘텐츠를 아우르는 계층 구조를 사용)를 발급하고, **경쟁**과 소비자 보호 규칙을 집행하며, **서비스 품질 기준**을 정하고, **주파수**를 관리하며 — 가격에 중요하게 — **도매 접속 요금**을 결정합니다. **접속요금 의무표준(MSAP)**을 통해 MCMC는 TM 같은 망 소유자가 경쟁사에 인프라 접속 대가로 부과할 수 있는 도매 요율에 상한을 둡니다. 2018년과 2023년 MSAP 라운드는 소매 광케이블 가격을 끌어내린 것으로 평가되나, 정확한 요율과 소비자로의 전가는 현재 MCMC 결정과 대조해 확인해야 합니다.
 
@@ -154,4 +156,4 @@ MCMC의 권한은 광범위합니다. **라이선스**(이 법은 네트워크 �
 
 말레이시아의 통신 산업은 새 국면으로 들어섰습니다. 통합되고, 포화되며, 가입자 성장에서 가치로 옮겨 가고 있습니다. 이제 큰 질문은, 이중망 5G 모델이 진정한 경쟁과 투자를 가져올지, 광케이블·이동통신 커버리지가 농촌과 소외 지역에 공정하게 확장될 수 있을지, 그리고 MCMC가 1998년 법을 스트리밍 플랫폼과 국경 간 디지털 서비스의 시대에 맞게 어떻게 현대화할지입니다. 당신의 요금 청구서에 적힌 브랜드 이름은 다시 바뀔 수 있지만 — 더 적고, 더 크고, 융합된 사업자와 적극적인 규제기관을 향한 방향은 이미 확립되어 있습니다.
 
-더 깊이 들어가려면, 이 부문에 라이선스를 주고 감독하는 기관 [MCMC](/ko/technology/mcmc-malaysia/)와, 그 아래 네트워크를 재편하는 [5G·JENDELA](/ko/technology/5g-jendela-dnb-malaysia/) 프로그램에 대해 읽어 보세요. 더 넓은 그림은 [디지털 경제 개요](/ko/industries/digital-economy-overview/)를 참고하세요.
+더 깊이 들어가려면, 이 부문에 라이선스를 주고 감독하는 기관 [MCMC](/ko/government/mcmc-communications-multimedia-commission/)와, 그 아래 네트워크를 재편하는 [5G·JENDELA](/ko/technology/5g-jendela-dnb-malaysia/) 프로그램에 대해 읽어 보세요. 더 넓은 그림은 [디지털 경제 개요](/ko/industries/digital-economy-overview/)를 참고하세요.

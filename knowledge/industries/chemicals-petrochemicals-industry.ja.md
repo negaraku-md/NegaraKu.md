@@ -31,10 +31,12 @@ faq:
   - q: 政府はどのように化学産業を支援していますか。
     a: マレーシア投資開発庁（MIDA）は、その化学・先端材料部門（Chemical and Advanced Material Division）を通じて製造免許を審査し、パイオニア・ステータス（Pioneer Status）や投資税額控除（Investment Tax Allowance）といった優遇措置を提供しています。石油・石油化学の活動は1974年石油開発法（Petroleum Development Act 1974）の下でも規律されます。化学産業ロードマップ2030と新産業マスタープラン2030が、スペシャルティで付加価値の高い化学品へ向けた戦略的方向性を定めています。
 lang: ja
-sourceContentHash: "e9243db29dcca80d"
+sourceContentHash: "1c45aa3fcee5cc05"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -78,7 +80,7 @@ relations:
     to: mida
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - manufacturing-industry-overview
 keywords:
   - chemicals industry
@@ -125,7 +127,7 @@ CIR2030に示された同産業の戦略的野心は、最も付加価値の高�
 
 ## 主要プレーヤーとGLC
 
-中核をなすのは、国営石油会社[PETRONAS](/ja/industries/petronas-industry-profile/)の上場石油化学部門である**PETRONAS Chemicals Group（PCG）**だ。PCGはオレフィン、ポリマー、肥料における支配的な統合生産者であり、その規模は国内のガス原料への優先的アクセスから生まれている。
+中核をなすのは、国営石油会社[PETRONAS](/ja/economy/oil-gas-petronas/)の上場石油化学部門である**PETRONAS Chemicals Group（PCG）**だ。PCGはオレフィン、ポリマー、肥料における支配的な統合生産者であり、その規模は国内のガス原料への優先的アクセスから生まれている。
 
 **Lotte Chemical Titan**は、韓国のLotte Chemicalが過半を所有するもう一つの重量級である。1991年にマレーシア初の独立系ポリオレフィン生産者として設立され、同国最大のオレフィン・ポリオレフィンの統合生産者と評されてきた。能力は二つのジョホール州サイトにまたがる（正確な数字は資料によって異なる）。産業用ガス、塗料、農薬、スペシャルティ製品にわたる多国籍企業の広い顔ぶれと、パーム由来オレオケミカル生産者の大きな基盤が、この部門を仕上げている。
 
@@ -152,6 +154,6 @@ CIR2030に示された同産業の戦略的野心は、最も付加価値の高�
 
 CIR2030の目標が達成されるかどうかは実行次第である――スペシャルティケミカル投資の誘致、エネルギー集約的なプラントの脱炭素化、そしてより大きな域内のライバルとの競争である。もっとも方向性は明確だ。マレーシアは、自国の化学産業を、バルクプラスチックやパーム・オレオケミカルだけでなく、その上に位置するより付加価値の高い化学によっても知られる存在にしたいと考えている。
 
-さらに深く知るには、原料を供給する[石油・ガス産業](/ja/industries/oil-gas-industry/)、最大の生産者の背後にある[PETRONASのプロフィール](/ja/industries/petronas-industry-profile/)、そしてより広範な[製造業](/ja/industries/manufacturing-industry-overview/)のガイドを参照してほしい。
+さらに深く知るには、原料を供給する[石油・ガス産業](/ja/industries/oil-gas-industry/)、最大の生産者の背後にある[PETRONASのプロフィール](/ja/economy/oil-gas-petronas/)、そしてより広範な[製造業](/ja/industries/manufacturing-industry-overview/)のガイドを参照してほしい。
 
 詳しくは全体ガイドをご覧ください：[マレーシアの主要産業](/ja/industries/industries-overview/)。

@@ -31,10 +31,12 @@ faq:
   - q: 马来西亚如何监管食品制造？
     a: 食品安全与标签受《1983 年食品法令》及其附属规则（如《1985 年食品条例》与《2009 年食品卫生条例》）规管，由卫生部管理。清真声明则由马来西亚伊斯兰发展局（JAKIM）单独掌控，由其发出官方清真认证。
 lang: zh
-sourceContentHash: "65b7948a45bacfff"
+sourceContentHash: "ac70589426331148"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -104,7 +106,7 @@ keywords:
 
 ## 什么是食品与饮料制造业？
 
-F&B 制造意味着把原始的农业与海产投入——谷物、可可、棕榈油、糖、水果、鱼与乳制品——转化为可供商店、餐厅与出口的加工、包装产品。它位于种植与捕捞的下游（参见[农业领域概览](/zh/industries/agriculture-sector-overview/)），以及零售与餐饮服务的上游。
+F&B 制造意味着把原始的农业与海产投入——谷物、可可、棕榈油、糖、水果、鱼与乳制品——转化为可供商店、餐厅与出口的加工、包装产品。它位于种植与捕捞的下游（参见[农业领域概览](/zh/agriculture/agriculture-sector-overview/)），以及零售与餐饮服务的上游。
 
 它在很大程度上是一个**内需导向**的产业，意即其大部分产出在马来西亚境内消费，但出口份额正在上升。这种双重属性使它具有战略重要性：它既支撑粮食安全，又赚取外汇。
 
@@ -132,7 +134,7 @@ F&B 制造意味着把原始的农业与海产投入——谷物、可可、棕�
 
 其规模相当可观。据贸易部称，马来西亚清真产品出口总额在 2024 年达约 **RM61.79 billion**，较前一年的 RM53.72 billion 增长约 15%（[The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024)；[MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)）。加工食品是这个篮子的核心部分，政府引述全球清真市场到 2030 年约 5 万亿美元的预测作为奖赏。
 
-出口势头在新区域表现强劲。MATRADE 报告称，2024 年加工食品对欧洲的出口约为 RM3.48 billion——跃升约 70%——由可可产品、非乳制奶精、糖果与饼干领衔，而对中东与北非的出口约为 RM2.32 billion，其中阿联酋是那里最大的单一市场（[MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)）。清真发展机构（HDC）与 MATRADE 等机构在 Gulfood 与 Anuga 等贸易展上积极推广马来西亚 F&B。欲一窥更宏观的图景，请参阅[清真产业与经济](/zh/industries/halal-industry-economy/)指南，以及[清真认证](/zh/business/halal-certification-system/)如何运作。
+出口势头在新区域表现强劲。MATRADE 报告称，2024 年加工食品对欧洲的出口约为 RM3.48 billion——跃升约 70%——由可可产品、非乳制奶精、糖果与饼干领衔，而对中东与北非的出口约为 RM2.32 billion，其中阿联酋是那里最大的单一市场（[MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)）。清真发展机构（HDC）与 MATRADE 等机构在 Gulfood 与 Anuga 等贸易展上积极推广马来西亚 F&B。欲一窥更宏观的图景，请参阅[清真产业与经济](/zh/industries/halal-industry-economy/)指南，以及[清真认证](/zh/industries/halal-certification-system/)如何运作。
 
 ## 主要参与者有哪些？
 

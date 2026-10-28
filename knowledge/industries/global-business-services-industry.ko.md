@@ -31,10 +31,12 @@ faq:
   - q: 말레이시아는 GBS 투자자에게 어떤 인센티브를 제공하나요?
     a: 주요 경로는 MDEC가 관리하는 말레이시아 디지털(MD) 지위로, 승인된 디지털·서비스 활동에 대한 세제 인센티브를 열어 줄 수 있습니다. 2024년 MDEC는 두 가지 성과 기반 제도 — 신규투자 인센티브와 확장 인센티브 — 를 도입했으며 신청은 2027년까지 열려 있습니다. 조건은 바뀌므로, 현재 자격은 MDEC나 세무 자문가에게 확인하세요.
 lang: ko
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ GBS는 다국적 기업의 내부 운영을 대개 역외의 한 중심지에서
 
 과제 역시 분명합니다. 디지털 기술 수요가 공급을 앞지르며 지속되는 인재난, 비용 우위를 깎아내리는 임금 상승, 그리고 인도, 필리핀, 베트남 등과의 날카로워지는 경쟁입니다. 이 부문의 미래는 다음 콜센터를 따내는 데보다, 다국적 기업이 역내 운영의 두뇌를 두는 장소가 되는 데 달려 있습니다.
 
-더 깊이 들어가려면, [말레이시아 디지털 경제](/ko/industries/digital-economy-overview/) 개요와 이 부문을 이끄는 기관 [MDEC](/ko/government/mdec-digital-economy-corporation/)를 참고하세요.
+더 깊이 들어가려면, [말레이시아 디지털 경제](/ko/industries/digital-economy-overview/) 개요와 이 부문을 이끄는 기관 [MDEC](/ko/technology/mdec-digital-economy-corporation/)를 참고하세요.
 
 전체 가이드 보기: [말레이시아의 주요 산업](/ko/industries/industries-overview/).

@@ -31,10 +31,12 @@ faq:
   - q: Malaysia đưa ra những ưu đãi gì cho nhà đầu tư GBS?
     a: Lộ trình chính là vị thế Malaysia Digital (MD), do MDEC quản lý, có thể mở ra các ưu đãi thuế cho các hoạt động số và dịch vụ được duyệt. Năm 2024 MDEC giới thiệu hai chương trình dựa trên kết quả — Ưu đãi Đầu tư Mới và Ưu đãi Mở rộng — với thời gian nộp đơn mở đến năm 2027. Các điều khoản thay đổi, nên hãy xác nhận điều kiện hiện hành với MDEC hoặc một cố vấn thuế.
 lang: vi
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ Ngành GBS của Malaysia đang ở một thời điểm tự tin nhưng cạnh 
 
 Các thách thức cũng rõ ràng không kém: một cuộc khủng hoảng nhân tài dai dẳng khi nhu cầu về kỹ năng số vượt nguồn cung, lạm phát lương bào mòn lợi thế chi phí, và cạnh tranh sắc bén hơn từ Ấn Độ, Philippines, Việt Nam và các nước khác. Tương lai của lĩnh vực này phụ thuộc ít vào việc thắng trung tâm cuộc gọi tiếp theo hơn là vào việc trở thành nơi các đa quốc gia đặt bộ não cho hoạt động khu vực của họ.
 
-Để tìm hiểu sâu hơn, xem tổng quan về [kinh tế số của Malaysia](/vi/industries/digital-economy-overview/) và cơ quan dẫn dắt lĩnh vực này, [MDEC](/vi/government/mdec-digital-economy-corporation/).
+Để tìm hiểu sâu hơn, xem tổng quan về [kinh tế số của Malaysia](/vi/industries/digital-economy-overview/) và cơ quan dẫn dắt lĩnh vực này, [MDEC](/vi/technology/mdec-digital-economy-corporation/).
 
 Xem hướng dẫn đầy đủ: [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

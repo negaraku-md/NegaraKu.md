@@ -31,10 +31,12 @@ faq:
   - q: Adakah pasaran telekomunikasi Malaysia masih berkembang?
     a: Pertumbuhan pelanggan sebahagian besarnya telah mendatar kerana pasaran hampir tepu. Pertumbuhan masa depan dijangka datang daripada perkhidmatan bernilai lebih tinggi — 5G, naik taraf fiber, ketersambungan perusahaan dan perkhidmatan digital — dan bukannya daripada mendaftarkan sejumlah besar pengguna baharu.
 lang: ms
-sourceContentHash: "135d833f59842509"
+sourceContentHash: "01292aba5d43284f"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -74,12 +76,12 @@ sources:
 entity: Telecommunications in Malaysia
 relations:
   - rel: administered-by
-    to: mcmc-malaysia
+    to: mcmc-communications-multimedia-commission
   - rel: part-of
     to: digital-economy-overview
 related:
   - 5g-jendela-dnb-malaysia
-  - mcmc-malaysia
+  - mcmc-communications-multimedia-commission
   - digital-economy-overview
 keywords:
   - industri telekomunikasi
@@ -144,7 +146,7 @@ Pelancaran 5G Malaysia tersendiri dan wajar difahami sebagai konteks untuk penge
 
 ## Pengawal selia: MCMC dan Akta Komunikasi dan Multimedia 1998
 
-Pengadil sektor ini ialah **[Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)](/technology/mcmc-malaysia/)**, yang beroperasi di bawah **Akta Komunikasi dan Multimedia 1998 (CMA)**. CMA mencipta rangka kerja "penumpuan" moden yang mengendalikan telekomunikasi, penyiaran dan kandungan dalam talian sebagai satu industri yang dikawal selia dan bukannya silo berasingan, serta menggantikan undang-undang lama seperti Akta Telekomunikasi 1950.
+Pengadil sektor ini ialah **[Suruhanjaya Komunikasi dan Multimedia Malaysia (MCMC)](/government/mcmc-communications-multimedia-commission/)**, yang beroperasi di bawah **Akta Komunikasi dan Multimedia 1998 (CMA)**. CMA mencipta rangka kerja "penumpuan" moden yang mengendalikan telekomunikasi, penyiaran dan kandungan dalam talian sebagai satu industri yang dikawal selia dan bukannya silo berasingan, serta menggantikan undang-undang lama seperti Akta Telekomunikasi 1950.
 
 Kuasa MCMC adalah luas. Ia mengeluarkan **lesen** (Akta ini menggunakan struktur berlapis yang meliputi kemudahan rangkaian, perkhidmatan rangkaian, perkhidmatan aplikasi dan kandungan), menguatkuasakan peraturan **persaingan** dan perlindungan pengguna, menetapkan **standard kualiti perkhidmatan**, menguruskan **spektrum**, dan — pentingnya bagi harga — menentukan **penetapan harga akses borong**. Melalui **Standard Mandatori Penetapan Harga Akses (MSAP)**, MCMC menghadkan kadar borong yang boleh dikenakan pemilik rangkaian seperti TM kepada pesaing untuk akses kepada infrastruktur mereka; pusingan MSAP 2018 dan 2023 dikreditkan dengan menolak harga fiber runcit turun, walaupun kadar tepat dan limpahannya kepada pengguna harus disemak terhadap penentuan MCMC semasa.
 
@@ -154,4 +156,4 @@ Pada 2026 MCMC membuka rundingan awam mengenai cadangan pindaan kepada CMA, meli
 
 Industri telekomunikasi Malaysia telah bergerak ke fasa baharu: menyatu, tepu dan beralih daripada pertumbuhan pelanggan kepada nilai. Persoalan besar kini ialah sama ada model 5G dwi-rangkaian menyampaikan persaingan dan pelaburan yang tulen, sama ada liputan fiber dan mudah alih boleh dilanjutkan secara adil kepada komuniti luar bandar dan terpinggir, dan bagaimana MCMC memodenkan undang-undang era 1998 untuk zaman platform penstriman dan perkhidmatan digital rentas sempadan. Nama jenama pada bil telefon anda mungkin berubah lagi — tetapi arahnya, ke arah pengendali yang lebih sedikit, lebih besar dan menyatu di bawah pengawal selia yang aktivis, telah mantap.
 
-Untuk mendalami lagi, baca mengenai [MCMC](/technology/mcmc-malaysia/), agensi yang melesenkan dan mengawasi sektor ini, dan program [5G dan JENDELA](/technology/5g-jendela-dnb-malaysia/) yang membentuk semula rangkaian di bawahnya. Untuk gambaran yang lebih luas, lihat [gambaran keseluruhan ekonomi digital](/industries/digital-economy-overview/).
+Untuk mendalami lagi, baca mengenai [MCMC](/government/mcmc-communications-multimedia-commission/), agensi yang melesenkan dan mengawasi sektor ini, dan program [5G dan JENDELA](/technology/5g-jendela-dnb-malaysia/) yang membentuk semula rangkaian di bawahnya. Untuk gambaran yang lebih luas, lihat [gambaran keseluruhan ekonomi digital](/industries/digital-economy-overview/).

@@ -31,10 +31,12 @@ faq:
   - q: सरकार रसायन उद्योग का समर्थन कैसे करती है?
     a: मलेशियन इन्वेस्टमेंट डेवलपमेंट अथॉरिटी (MIDA), अपने Chemical and Advanced Material Division के माध्यम से, विनिर्माण लाइसेंसों का मूल्यांकन करती है और Pioneer Status तथा Investment Tax Allowance जैसे प्रोत्साहन प्रदान करती है। पेट्रोलियम और पेट्रोरसायन परियोजनाएँ Petroleum Development Act 1974 के अंतर्गत भी शासित होती हैं। Chemical Industry Roadmap 2030 और New Industrial Master Plan 2030 विशिष्ट, उच्च-मूल्य रसायनों की ओर रणनीतिक दिशा तय करते हैं।
 lang: hi
-sourceContentHash: "e9243db29dcca80d"
+sourceContentHash: "1c45aa3fcee5cc05"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -78,7 +80,7 @@ relations:
     to: mida
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - manufacturing-industry-overview
 keywords:
   - रसायन उद्योग
@@ -125,7 +127,7 @@ revisions:
 
 ## प्रमुख खिलाड़ी और GLC
 
-आधार है **PETRONAS Chemicals Group (PCG)**, राष्ट्रीय तेल कंपनी [PETRONAS](/hi/industries/petronas-industry-profile/) की सूचीबद्ध पेट्रोरसायन शाखा। PCG ओलेफिन, पॉलिमर और उर्वरकों का प्रमुख एकीकृत उत्पादक है, और इसका पैमाना घरेलू गैस फीडस्टॉक तक विशेषाधिकार-प्राप्त पहुँच से आता है।
+आधार है **PETRONAS Chemicals Group (PCG)**, राष्ट्रीय तेल कंपनी [PETRONAS](/hi/economy/oil-gas-petronas/) की सूचीबद्ध पेट्रोरसायन शाखा। PCG ओलेफिन, पॉलिमर और उर्वरकों का प्रमुख एकीकृत उत्पादक है, और इसका पैमाना घरेलू गैस फीडस्टॉक तक विशेषाधिकार-प्राप्त पहुँच से आता है।
 
 **Lotte Chemical Titan**, जिसका बहुमत स्वामित्व दक्षिण कोरिया की Lotte Chemical के पास है, दूसरा दिग्गज है। 1991 में मलेशिया के पहले स्टैंडअलोन पॉलिओलेफिन उत्पादक के रूप में स्थापित, इसे देश का ओलेफिन और पॉलिओलेफिन का सबसे बड़ा एकीकृत उत्पादक बताया गया है, जिसकी क्षमता दो जोहोर स्थलों में फैली है (सटीक आँकड़ा स्रोतों के बीच भिन्न होता है)। बहुराष्ट्रीय कंपनियों का एक विस्तृत क्षेत्र — औद्योगिक गैसों, कोटिंग्स, कृषि-रसायनों और विशिष्ट उत्पादों में — और पाम-आधारित ओलियोरसायन उत्पादकों का एक बड़ा आधार इस क्षेत्र को पूरा करता है।
 
@@ -152,6 +154,6 @@ revisions:
 
 CIR2030 के लक्ष्य पूरे होते हैं या नहीं, यह क्रियान्वयन पर निर्भर करेगा — विशिष्ट-रसायन निवेश आकर्षित करना, ऊर्जा-गहन संयंत्रों को डीकार्बनाइज़ करना, और बड़े क्षेत्रीय प्रतिद्वंद्वियों के साथ प्रतिस्पर्धा करना। हालाँकि दिशा स्पष्ट है: मलेशिया चाहता है कि उसका रसायन उद्योग केवल थोक प्लास्टिक और पाम ओलियोरसायन के लिए ही नहीं, बल्कि उनके ऊपर बैठने वाली उच्च-मूल्य रसायन-विद्या के लिए भी जाना जाए।
 
-और गहराई में जाने के लिए, वह [तेल एवं गैस उद्योग](/hi/industries/oil-gas-industry/) देखें जो फीडस्टॉक की आपूर्ति करता है, सबसे बड़े उत्पादक के पीछे की [PETRONAS प्रोफ़ाइल](/hi/industries/petronas-industry-profile/), और व्यापक [विनिर्माण उद्योग](/hi/industries/manufacturing-industry-overview/) मार्गदर्शिका।
+और गहराई में जाने के लिए, वह [तेल एवं गैस उद्योग](/hi/industries/oil-gas-industry/) देखें जो फीडस्टॉक की आपूर्ति करता है, सबसे बड़े उत्पादक के पीछे की [PETRONAS प्रोफ़ाइल](/hi/economy/oil-gas-petronas/), और व्यापक [विनिर्माण उद्योग](/hi/industries/manufacturing-industry-overview/) मार्गदर्शिका।
 
 पूरी गाइड देखें: [मलेशिया के प्रमुख उद्योग](/hi/industries/industries-overview/)।

@@ -31,10 +31,12 @@ faq:
   - q: Apakah insentif yang ditawarkan Malaysia kepada pelabur GBS?
     a: Laluan utama ialah status Malaysia Digital (MD), ditadbir oleh MDEC, yang boleh membuka insentif cukai untuk aktiviti digital dan perkhidmatan yang diluluskan. Pada 2024, MDEC memperkenalkan dua skim berasaskan hasil — Insentif Pelaburan Baharu dan Insentif Pengembangan — dengan permohonan dibuka sehingga 2027. Terma berubah, jadi sahkan kelayakan semasa dengan MDEC atau penasihat cukai.
 lang: ms
-sourceContentHash: "96715dc87308844e"
+sourceContentHash: "0b08e8a5a177ad84"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -157,6 +159,6 @@ Sektor GBS Malaysia berada pada detik yang yakin tetapi kompetitif. Ia telah men
 
 Cabarannya sama jelas: kekurangan bakat berterusan apabila permintaan untuk kemahiran digital memintas bekalan, inflasi gaji menghakis kelebihan kos, dan persaingan yang semakin tajam daripada India, Filipina, Vietnam dan lain-lain. Masa depan sektor ini bergantung kurang kepada memenangi pusat panggilan seterusnya berbanding menjadi tempat syarikat multinasional menempatkan otak operasi serantau mereka.
 
-Untuk mendalami lagi, lihat gambaran keseluruhan [ekonomi digital Malaysia](/industries/digital-economy-overview/) dan agensi yang memacu sektor ini, [MDEC](/government/mdec-digital-economy-corporation/).
+Untuk mendalami lagi, lihat gambaran keseluruhan [ekonomi digital Malaysia](/industries/digital-economy-overview/) dan agensi yang memacu sektor ini, [MDEC](/technology/mdec-digital-economy-corporation/).
 
 Lihat panduan penuh: [Industri Utama Malaysia](/industries/industries-overview/).

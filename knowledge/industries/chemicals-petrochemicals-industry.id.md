@@ -31,10 +31,12 @@ faq:
   - q: Bagaimana pemerintah mendukung industri kimia?
     a: Malaysian Investment Development Authority (MIDA), melalui Chemical and Advanced Material Division-nya, mengevaluasi lisensi manufaktur dan menawarkan insentif seperti Pioneer Status dan Investment Tax Allowance. Proyek minyak bumi dan petrokimia juga diatur di bawah Petroleum Development Act 1974. Chemical Industry Roadmap 2030 dan New Industrial Master Plan 2030 menetapkan arah strategis menuju kimia khusus yang bernilai lebih tinggi.
 lang: id
-sourceContentHash: "e9243db29dcca80d"
+sourceContentHash: "1c45aa3fcee5cc05"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -78,7 +80,7 @@ relations:
     to: mida
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - manufacturing-industry-overview
 keywords:
   - industri kimia
@@ -125,7 +127,7 @@ Ambisi strategis industri ini, yang tertuang dalam CIR2030, adalah menggeser bob
 
 ## Pemain utama dan GLC
 
-Jangkarnya adalah **PETRONAS Chemicals Group (PCG)**, lengan petrokimia tercatat dari perusahaan minyak nasional [PETRONAS](/id/industries/petronas-industry-profile/). PCG adalah produsen terintegrasi dominan dalam olefin, polimer, dan pupuk, dan skalanya berasal dari akses istimewa terhadap bahan baku gas domestik.
+Jangkarnya adalah **PETRONAS Chemicals Group (PCG)**, lengan petrokimia tercatat dari perusahaan minyak nasional [PETRONAS](/id/economy/oil-gas-petronas/). PCG adalah produsen terintegrasi dominan dalam olefin, polimer, dan pupuk, dan skalanya berasal dari akses istimewa terhadap bahan baku gas domestik.
 
 **Lotte Chemical Titan**, yang mayoritas sahamnya dimiliki Lotte Chemical dari Korea Selatan, adalah pemain berat lainnya. Didirikan pada 1991 sebagai produsen poliolefin mandiri pertama di Malaysia, perusahaan ini telah digambarkan sebagai produsen olefin dan poliolefin terintegrasi terbesar di negara ini, dengan kapasitas tersebar di dua lokasi di Johor (angka pastinya bervariasi antar sumber). Deretan luas perusahaan multinasional — di bidang gas industri, pelapis, agrokimia, dan produk khusus — serta basis besar produsen oleokimia berbasis sawit melengkapi sektor ini.
 
@@ -152,6 +154,6 @@ Gambaran jangka pendek bercampur. Margin petrokimia global tertekan oleh kelebih
 
 Apakah target CIR2030 tercapai akan bergantung pada eksekusi — menarik investasi kimia khusus, mendekarbonisasi pabrik-pabrik yang intensif energi, dan bersaing dengan rival regional yang lebih besar. Arahnya, bagaimanapun, jelas: Malaysia ingin industri kimianya dikenal bukan hanya untuk plastik curah dan oleokimia sawit, tetapi juga untuk kimia bernilai lebih tinggi yang berada di atasnya.
 
-Untuk mendalami lebih jauh, lihat [industri minyak & gas](/id/industries/oil-gas-industry/) yang memasok bahan bakunya, [profil PETRONAS](/id/industries/petronas-industry-profile/) di balik produsen terbesar, dan panduan [industri manufaktur](/id/industries/manufacturing-industry-overview/) yang lebih luas.
+Untuk mendalami lebih jauh, lihat [industri minyak & gas](/id/industries/oil-gas-industry/) yang memasok bahan bakunya, [profil PETRONAS](/id/economy/oil-gas-petronas/) di balik produsen terbesar, dan panduan [industri manufaktur](/id/industries/manufacturing-industry-overview/) yang lebih luas.
 
 Lihat panduan lengkap: [Industri Utama Malaysia](/id/industries/industries-overview/).

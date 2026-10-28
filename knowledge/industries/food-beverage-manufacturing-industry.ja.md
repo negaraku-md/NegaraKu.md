@@ -31,10 +31,12 @@ faq:
   - q: マレーシアで食品製造はどのように規制されていますか。
     a: 食品の安全性と表示は、1983年食品法（Food Act 1983）とその下位規則（1985年食品規則、2009年食品衛生規則など）が規律し、保健省が運用します。ハラルの表示は別途、マレーシア・イスラム開発局（JAKIM）が管理し、公式のハラル認証を発行します。
 lang: ja
-sourceContentHash: "65b7948a45bacfff"
+sourceContentHash: "ac70589426331148"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -104,7 +106,7 @@ keywords:
 
 ## 食品・飲料製造業とは何か
 
-F&B製造とは、未加工の農業・海洋の投入物――穀物、カカオ、パーム油、砂糖、果物、魚、乳製品――を、店舗、レストラン、輸出向けの加工・包装された製品へと変えることを意味する。農業・漁業（[農業部門の概要](/ja/industries/agriculture-sector-overview/)を参照）の下流に位置し、小売・外食の上流に位置する。
+F&B製造とは、未加工の農業・海洋の投入物――穀物、カカオ、パーム油、砂糖、果物、魚、乳製品――を、店舗、レストラン、輸出向けの加工・包装された製品へと変えることを意味する。農業・漁業（[農業部門の概要](/ja/agriculture/agriculture-sector-overview/)を参照）の下流に位置し、小売・外食の上流に位置する。
 
 これは主に**国内向け**の産業であり、生産物の多くはマレーシア国内で消費されるが、輸出される割合が上昇している。この二面性ゆえに戦略的に重要だ。食料安全保障を支えると同時に、外貨を稼ぐのである。
 
@@ -132,7 +134,7 @@ F&B製造とは、未加工の農業・海洋の投入物――穀物、カカ�
 
 その規模は意味あるものだ。マレーシアのハラル製品輸出全体は、貿易省によれば、前年のRM537.2億からおよそ15%増え、**2024年に約RM617.9億**に達した（[The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024)、[MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)）。加工食品はそのバスケットの中核部分であり、政府は2030年までに約5兆米ドルという世界のハラル市場予測を、その賞品として挙げてきた。
 
-輸出の勢いは新たな地域で強かった。MATRADEは、2024年の欧州向け加工食品輸出を約RM34.8億――およそ70%の急増――とし、カカオ製品、非乳性クリーマー、菓子、ビスケットが牽引したと報告し、中東・北アフリカ向け輸出を約RM23.2億、UAEがそこでの単一最大市場だとした（[MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)）。ハラル開発公社（HDC）やMATRADEといった機関は、GulfoodやAnugaのような見本市でマレーシアのF&Bを積極的に売り込んでいる。より広い全体像については、[ハラル産業と経済](/ja/industries/halal-industry-economy/)のガイドと、[ハラル認証](/ja/business/halal-certification-system/)がどのように機能するかを参照してほしい。
+輸出の勢いは新たな地域で強かった。MATRADEは、2024年の欧州向け加工食品輸出を約RM34.8億――およそ70%の急増――とし、カカオ製品、非乳性クリーマー、菓子、ビスケットが牽引したと報告し、中東・北アフリカ向け輸出を約RM23.2億、UAEがそこでの単一最大市場だとした（[MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)）。ハラル開発公社（HDC）やMATRADEといった機関は、GulfoodやAnugaのような見本市でマレーシアのF&Bを積極的に売り込んでいる。より広い全体像については、[ハラル産業と経済](/ja/industries/halal-industry-economy/)のガイドと、[ハラル認証](/ja/industries/halal-certification-system/)がどのように機能するかを参照してほしい。
 
 ## 主要プレーヤーは誰か
 

@@ -33,7 +33,9 @@ faq:
 lang: en
 masterLanguage: en
 translationStatus: master
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -73,12 +75,12 @@ sources:
 entity: Telecommunications in Malaysia
 relations:
   - rel: administered-by
-    to: mcmc-malaysia
+    to: mcmc-communications-multimedia-commission
   - rel: part-of
     to: digital-economy-overview
 related:
   - 5g-jendela-dnb-malaysia
-  - mcmc-malaysia
+  - mcmc-communications-multimedia-commission
   - digital-economy-overview
 keywords:
   - telecommunications industry
@@ -143,7 +145,7 @@ Malaysia's 5G rollout is distinctive and worth understanding as context for the 
 
 ## The regulator: MCMC and the Communications and Multimedia Act 1998
 
-The sector's referee is the **[Malaysian Communications and Multimedia Commission (MCMC)](/en/technology/mcmc-malaysia/)**, which operates under the **Communications and Multimedia Act 1998 (CMA)**. The CMA created a modern "convergence" framework that treats telecommunications, broadcasting and online content as one regulated industry rather than separate silos, and it replaced older laws such as the Telecommunications Act 1950.
+The sector's referee is the **[Malaysian Communications and Multimedia Commission (MCMC)](/en/government/mcmc-communications-multimedia-commission/)**, which operates under the **Communications and Multimedia Act 1998 (CMA)**. The CMA created a modern "convergence" framework that treats telecommunications, broadcasting and online content as one regulated industry rather than separate silos, and it replaced older laws such as the Telecommunications Act 1950.
 
 The MCMC's powers are wide. It issues **licences** (the Act uses a tiered structure covering network facilities, network services, applications services and content), enforces **competition** and consumer-protection rules, sets **quality-of-service standards**, manages **spectrum**, and — importantly for prices — determines **wholesale access pricing**. Through the **Mandatory Standard on Access Pricing (MSAP)**, the MCMC caps the wholesale rates that network owners such as TM can charge rivals for access to their infrastructure; the 2018 and 2023 MSAP rounds were credited with pushing retail fibre prices down, though the exact rates and their pass-through to consumers should be checked against current MCMC determinations.
 
@@ -153,4 +155,4 @@ In 2026 the MCMC opened a public consultation on proposed amendments to the CMA,
 
 Malaysia's telecommunications industry has moved into a new phase: consolidated, saturated and shifting from subscriber growth to value. The big questions now are whether the dual-network 5G model delivers genuine competition and investment, whether fibre and mobile coverage can be extended fairly to rural and underserved communities, and how the MCMC modernises a 1998-era law for an age of streaming platforms and cross-border digital services. The brand names on your phone bill may change again — but the direction, toward fewer, larger, converged operators under an activist regulator, is well established.
 
-To go deeper, read about the [MCMC](/en/technology/mcmc-malaysia/), the agency that licenses and polices the sector, and the [5G and JENDELA](/en/technology/5g-jendela-dnb-malaysia/) programme that is reshaping the networks underneath it. For the wider picture, see the [digital economy overview](/en/industries/digital-economy-overview/).
+To go deeper, read about the [MCMC](/en/government/mcmc-communications-multimedia-commission/), the agency that licenses and polices the sector, and the [5G and JENDELA](/en/technology/5g-jendela-dnb-malaysia/) programme that is reshaping the networks underneath it. For the wider picture, see the [digital economy overview](/en/industries/digital-economy-overview/).

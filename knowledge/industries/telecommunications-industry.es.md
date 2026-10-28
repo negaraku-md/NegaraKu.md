@@ -31,10 +31,12 @@ faq:
   - q: ¿Sigue creciendo el mercado de telecomunicaciones de Malasia?
     a: El crecimiento de abonados se ha estancado en gran medida porque el mercado está casi saturado. Se espera que el crecimiento futuro provenga de servicios de mayor valor —5G, mejoras de fibra, conectividad empresarial y servicios digitales— y no de dar de alta a grandes cantidades de nuevos usuarios.
 lang: es
-sourceContentHash: "135d833f59842509"
+sourceContentHash: "01292aba5d43284f"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -74,12 +76,12 @@ sources:
 entity: Telecommunications in Malaysia
 relations:
   - rel: administered-by
-    to: mcmc-malaysia
+    to: mcmc-communications-multimedia-commission
   - rel: part-of
     to: digital-economy-overview
 related:
   - 5g-jendela-dnb-malaysia
-  - mcmc-malaysia
+  - mcmc-communications-multimedia-commission
   - digital-economy-overview
 keywords:
   - industria de telecomunicaciones
@@ -144,7 +146,7 @@ El despliegue del 5G de Malasia es distintivo y vale la pena entenderlo como con
 
 ## El regulador: la MCMC y la Ley de Comunicaciones y Multimedia de 1998
 
-El árbitro del sector es la **[Comisión de Comunicaciones y Multimedia de Malasia (MCMC)](/es/technology/mcmc-malaysia/)**, que opera conforme a la **Ley de Comunicaciones y Multimedia de 1998 (CMA)**. La CMA creó un marco moderno de "convergencia" que trata las telecomunicaciones, la radiodifusión y el contenido en línea como una única industria regulada en lugar de silos separados, y sustituyó a leyes más antiguas como la Ley de Telecomunicaciones de 1950.
+El árbitro del sector es la **[Comisión de Comunicaciones y Multimedia de Malasia (MCMC)](/es/government/mcmc-communications-multimedia-commission/)**, que opera conforme a la **Ley de Comunicaciones y Multimedia de 1998 (CMA)**. La CMA creó un marco moderno de "convergencia" que trata las telecomunicaciones, la radiodifusión y el contenido en línea como una única industria regulada en lugar de silos separados, y sustituyó a leyes más antiguas como la Ley de Telecomunicaciones de 1950.
 
 Los poderes de la MCMC son amplios. Emite **licencias** (la Ley usa una estructura escalonada que cubre las instalaciones de red, los servicios de red, los servicios de aplicaciones y el contenido), hace cumplir las reglas de **competencia** y de protección del consumidor, fija **normas de calidad de servicio**, gestiona el **espectro** y —algo importante para los precios— determina los **precios de acceso mayorista**. A través de la **Norma Obligatoria sobre Precios de Acceso (MSAP)**, la MCMC limita las tarifas mayoristas que los propietarios de red como TM pueden cobrar a sus rivales por el acceso a su infraestructura; las rondas de MSAP de 2018 y 2023 fueron acreditadas con empujar a la baja los precios minoristas de la fibra, aunque las tasas exactas y su traslado a los consumidores deberían comprobarse con las determinaciones actuales de la MCMC.
 
@@ -154,4 +156,4 @@ En 2026 la MCMC abrió una consulta pública sobre las enmiendas propuestas a la
 
 La industria de telecomunicaciones de Malasia ha entrado en una nueva fase: consolidada, saturada y desplazándose del crecimiento de abonados hacia el valor. Las grandes preguntas ahora son si el modelo de 5G de doble red ofrece una competencia y una inversión genuinas, si la cobertura de fibra y móvil puede extenderse de forma justa a las comunidades rurales y desatendidas, y cómo la MCMC moderniza una ley de la era de 1998 para una época de plataformas de streaming y servicios digitales transfronterizos. Los nombres de marca en tu factura telefónica pueden cambiar de nuevo, pero la dirección —hacia operadores menos numerosos, más grandes y convergentes bajo un regulador activista— está bien establecida.
 
-Para profundizar, lee sobre la [MCMC](/es/technology/mcmc-malaysia/), la agencia que licencia y vigila el sector, y el programa [5G y JENDELA](/es/technology/5g-jendela-dnb-malaysia/) que está reconfigurando las redes que hay debajo. Para el panorama más amplio, consulta el [resumen de la economía digital](/es/industries/digital-economy-overview/).
+Para profundizar, lee sobre la [MCMC](/es/government/mcmc-communications-multimedia-commission/), la agencia que licencia y vigila el sector, y el programa [5G y JENDELA](/es/technology/5g-jendela-dnb-malaysia/) que está reconfigurando las redes que hay debajo. Para el panorama más amplio, consulta el [resumen de la economía digital](/es/industries/digital-economy-overview/).

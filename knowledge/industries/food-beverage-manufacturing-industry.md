@@ -33,7 +33,9 @@ faq:
 lang: en
 masterLanguage: en
 translationStatus: master
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -103,7 +105,7 @@ This guide explains what the industry makes, how large it is, its main segments,
 
 ## What is the food & beverage manufacturing industry?
 
-F&B manufacturing means turning raw agricultural and marine inputs — grains, cocoa, palm oil, sugar, fruit, fish and dairy — into processed, packaged products ready for shops, restaurants and export. It sits downstream of farming and fishing (see the [agriculture sector overview](/en/industries/agriculture-sector-overview/)) and upstream of retail and food service.
+F&B manufacturing means turning raw agricultural and marine inputs — grains, cocoa, palm oil, sugar, fruit, fish and dairy — into processed, packaged products ready for shops, restaurants and export. It sits downstream of farming and fishing (see the [agriculture sector overview](/en/agriculture/agriculture-sector-overview/)) and upstream of retail and food service.
 
 It is largely a **domestic-oriented** industry, meaning much of its output is consumed inside Malaysia, but a rising share is exported. That dual nature makes it strategically important: it underpins food security while also earning foreign exchange.
 
@@ -131,7 +133,7 @@ If one thing sets Malaysian F&B apart internationally, it is **halal**. Malaysia
 
 The scale is meaningful. Malaysia's total halal product exports reached about **RM61.79 billion in 2024**, up roughly 15% from RM53.72 billion the year before, according to the trade ministry ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). Processed food is a core part of that basket, and government has cited global-halal-market projections of around US$5 trillion by 2030 as the prize.
 
-Export momentum has been strong in new regions. MATRADE has reported processed-food exports to Europe of about RM3.48 billion in 2024 — a roughly 70% jump — led by cocoa products, non-dairy creamer, confectionery and biscuits, and exports to the Middle East and North Africa of about RM2.32 billion, with the UAE the single largest market there ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Agencies such as the Halal Development Corporation (HDC) and MATRADE actively push Malaysian F&B at trade fairs like Gulfood and Anuga. For the wider picture, see the [halal industry and economy](/en/industries/halal-industry-economy/) guide and how [halal certification](/en/business/halal-certification-system/) works.
+Export momentum has been strong in new regions. MATRADE has reported processed-food exports to Europe of about RM3.48 billion in 2024 — a roughly 70% jump — led by cocoa products, non-dairy creamer, confectionery and biscuits, and exports to the Middle East and North Africa of about RM2.32 billion, with the UAE the single largest market there ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Agencies such as the Halal Development Corporation (HDC) and MATRADE actively push Malaysian F&B at trade fairs like Gulfood and Anuga. For the wider picture, see the [halal industry and economy](/en/industries/halal-industry-economy/) guide and how [halal certification](/en/industries/halal-certification-system/) works.
 
 ## Who are the key players?
 

@@ -31,10 +31,12 @@ faq:
   - q: マレーシアの通信市場はまだ成長していますか。
     a: 市場が飽和に近いため、加入者の伸びはおおむね頭打ちになっています。今後の成長は、多数の新規利用者の獲得ではなく、より付加価値の高いサービス――5G、光ファイバーの高速化、企業向け接続、デジタルサービス――から生まれると見込まれます。
 lang: ja
-sourceContentHash: "135d833f59842509"
+sourceContentHash: "01292aba5d43284f"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -74,12 +76,12 @@ sources:
 entity: Telecommunications in Malaysia
 relations:
   - rel: administered-by
-    to: mcmc-malaysia
+    to: mcmc-communications-multimedia-commission
   - rel: part-of
     to: digital-economy-overview
 related:
   - 5g-jendela-dnb-malaysia
-  - mcmc-malaysia
+  - mcmc-communications-multimedia-commission
   - digital-economy-overview
 keywords:
   - telecommunications industry
@@ -144,7 +146,7 @@ revisions:
 
 ## 規制当局：MCMCと1998年通信・マルチメディア法
 
-この部門の審判役は**[マレーシア通信・マルチメディア委員会（MCMC）](/ja/technology/mcmc-malaysia/)**で、**1998年通信・マルチメディア法（CMA）**の下で運営される。CMAは、電気通信、放送、オンラインコンテンツを別々のサイロではなく一つの規制産業として扱う近代的な「コンバージェンス」枠組みを作り、1950年電気通信法のような古い法律に取って代わった。
+この部門の審判役は**[マレーシア通信・マルチメディア委員会（MCMC）](/ja/government/mcmc-communications-multimedia-commission/)**で、**1998年通信・マルチメディア法（CMA）**の下で運営される。CMAは、電気通信、放送、オンラインコンテンツを別々のサイロではなく一つの規制産業として扱う近代的な「コンバージェンス」枠組みを作り、1950年電気通信法のような古い法律に取って代わった。
 
 MCMCの権限は広い。**免許**を発行し（同法はネットワーク設備、ネットワークサービス、アプリケーションサービス、コンテンツをカバーする階層構造を用いる）、**競争**と消費者保護の規則を執行し、**サービス品質基準**を設定し、**周波数**を管理し、そして――価格にとって重要なことに――**卸売アクセス料金**を決定する。**アクセス料金の強制標準（Mandatory Standard on Access Pricing、MSAP）**を通じて、MCMCはTMのような網所有者がインフラへのアクセスについてライバルに課せる卸売料率に上限を設ける。2018年と2023年のMSAPのラウンドは小売の光ファイバー価格を押し下げたと評価されたが、正確な料率とその消費者への波及は、現行のMCMCの決定と照合して確認すべきである。
 
@@ -154,4 +156,4 @@ MCMCの権限は広い。**免許**を発行し（同法はネットワーク設
 
 マレーシアの電気通信産業は新たな局面に入った。すなわち、統合され、飽和し、加入者の成長から価値へと移行している。今の大きな問いは、二重ネットワークの5Gモデルが真の競争と投資をもたらすか、光ファイバーとモバイルのカバレッジを地方や恵まれない地域へ公平に広げられるか、そしてMCMCが1998年当時の法律を、ストリーミングプラットフォームと国境を越えるデジタルサービスの時代に向けてどう近代化するかである。あなたの請求書のブランド名はまた変わるかもしれない――だが方向性、すなわち活動的な規制当局の下での、より少なく、より大きく、統合された事業者へ向かう流れは、しっかり確立されている。
 
-さらに深く知るには、この部門に免許を与え取り締まる機関[MCMC](/ja/technology/mcmc-malaysia/)と、その下のネットワークを作り変えつつある[5G・JENDELA](/ja/technology/5g-jendela-dnb-malaysia/)プログラムについて読んでほしい。より広い全体像については、[デジタル経済の概要](/ja/industries/digital-economy-overview/)を参照してほしい。
+さらに深く知るには、この部門に免許を与え取り締まる機関[MCMC](/ja/government/mcmc-communications-multimedia-commission/)と、その下のネットワークを作り変えつつある[5G・JENDELA](/ja/technology/5g-jendela-dnb-malaysia/)プログラムについて読んでほしい。より広い全体像については、[デジタル経済の概要](/ja/industries/digital-economy-overview/)を参照してほしい。

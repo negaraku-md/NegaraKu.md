@@ -31,10 +31,12 @@ faq:
   - q: Bản thiết kế Ngành OGSE Quốc gia là gì?
     a: Ra mắt tháng 4/2021 và rà soát giữa kỳ năm 2024, đây là kế hoạch 10 năm (2021–2030) của chính phủ nhằm làm cho lĩnh vực này cạnh tranh, kiên cường và bền vững hơn. Các mục tiêu của nó bao gồm tăng gấp đôi doanh thu xuất khẩu, duy trì đóng góp GDP khoảng RM50 tỷ và đẩy các hãng vào các dịch vụ chuyển đổi năng lượng như thu giữ carbon, hydro và năng lượng tái tạo.
 lang: vi
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -156,4 +158,4 @@ Cú xoay trục tận dụng các thế mạnh thực: kỹ thuật ngoài khơi
 
 Bức tranh ngắn hạn mang tính chu kỳ nhưng vững hơn so với thời suy thoái, được hỗ trợ bởi hoạt động PETRONAS được làm mới và một loạt công việc bảo trì, tái phát triển và giếng mới. Câu hỏi dài hạn hơn là liệu các hãng OGSE của Malaysia có thể biến hàng thập niên chuyên môn ngoài khơi thành các vị thế bền vững trong năng lượng chuyển đổi và các thị trường xuất khẩu trước khi công việc dầu khí trong nước thu hẹp hay không. Đó là canh bạc rõ ràng đằng sau bản thiết kế — và là lý do OGSE, vốn từ lâu được xem như một màn phụ cho tài nguyên, ngày càng được bàn đến như một ngành có tương lai của riêng mình để định hình.
 
-Về phía tài nguyên của câu chuyện, đọc hướng dẫn về [ngành dầu khí](/vi/industries/oil-gas-industry/) và [hồ sơ ngành PETRONAS](/vi/industries/petronas-industry-profile/). Xem thêm hướng dẫn đầy đủ về [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).
+Về phía tài nguyên của câu chuyện, đọc hướng dẫn về [ngành dầu khí](/vi/industries/oil-gas-industry/) và [hồ sơ ngành PETRONAS](/vi/economy/oil-gas-petronas/). Xem thêm hướng dẫn đầy đủ về [Các ngành công nghiệp chủ chốt của Malaysia](/vi/industries/industries-overview/).

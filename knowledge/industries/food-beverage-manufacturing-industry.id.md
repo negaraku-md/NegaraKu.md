@@ -31,10 +31,12 @@ faq:
   - q: Bagaimana manufaktur makanan diatur di Malaysia?
     a: Keamanan dan pelabelan pangan diatur oleh Food Act 1983 dan aturan turunannya (seperti Food Regulations 1985 dan Food Hygiene Regulations 2009), yang dikelola oleh Kementerian Kesehatan. Klaim halal secara terpisah dikendalikan oleh Department of Islamic Development Malaysia (JAKIM), yang menerbitkan sertifikasi halal resmi.
 lang: id
-sourceContentHash: "65b7948a45bacfff"
+sourceContentHash: "ac70589426331148"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -104,7 +106,7 @@ Panduan ini menjelaskan apa yang dibuat industri ini, seberapa besar, segmen uta
 
 ## Apa itu industri manufaktur makanan & minuman?
 
-Manufaktur F&B berarti mengubah masukan pertanian dan kelautan mentah — biji-bijian, kakao, minyak sawit, gula, buah, ikan, dan susu — menjadi produk olahan dan kemasan yang siap untuk toko, restoran, dan ekspor. Ia berada di hilir dari pertanian dan perikanan (lihat [ikhtisar sektor pertanian](/id/industries/agriculture-sector-overview/)) dan di hulu dari ritel serta layanan makanan.
+Manufaktur F&B berarti mengubah masukan pertanian dan kelautan mentah — biji-bijian, kakao, minyak sawit, gula, buah, ikan, dan susu — menjadi produk olahan dan kemasan yang siap untuk toko, restoran, dan ekspor. Ia berada di hilir dari pertanian dan perikanan (lihat [ikhtisar sektor pertanian](/id/agriculture/agriculture-sector-overview/)) dan di hulu dari ritel serta layanan makanan.
 
 Ini sebagian besar adalah industri yang **berorientasi domestik**, artinya sebagian besar keluarannya dikonsumsi di dalam Malaysia, tetapi pangsa yang meningkat diekspor. Sifat ganda itu membuatnya penting secara strategis: ia menopang ketahanan pangan sekaligus menghasilkan devisa.
 
@@ -132,7 +134,7 @@ Jika ada satu hal yang membuat F&B Malaysia berbeda secara internasional, itu ad
 
 Skalanya berarti. Total ekspor produk halal Malaysia mencapai sekitar **RM61,79 miliar pada 2024**, naik kurang lebih 15% dari RM53,72 miliar pada tahun sebelumnya, menurut kementerian perdagangan ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). Makanan olahan adalah bagian inti dari keranjang itu, dan pemerintah telah mengutip proyeksi pasar-halal-global sekitar US$5 triliun pada 2030 sebagai hadiahnya.
 
-Momentum ekspor kuat di kawasan-kawasan baru. MATRADE telah melaporkan ekspor makanan olahan ke Eropa sekitar RM3,48 miliar pada 2024 — lonjakan kurang lebih 70% — dipimpin oleh produk kakao, krimer non-susu, kembang gula, dan biskuit, serta ekspor ke Timur Tengah dan Afrika Utara sekitar RM2,32 miliar, dengan UEA sebagai pasar tunggal terbesar di sana ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Lembaga seperti Halal Development Corporation (HDC) dan MATRADE secara aktif mempromosikan F&B Malaysia di pameran dagang seperti Gulfood dan Anuga. Untuk gambaran yang lebih luas, lihat panduan [industri dan ekonomi halal](/id/industries/halal-industry-economy/) dan cara kerja [sertifikasi halal](/id/business/halal-certification-system/).
+Momentum ekspor kuat di kawasan-kawasan baru. MATRADE telah melaporkan ekspor makanan olahan ke Eropa sekitar RM3,48 miliar pada 2024 — lonjakan kurang lebih 70% — dipimpin oleh produk kakao, krimer non-susu, kembang gula, dan biskuit, serta ekspor ke Timur Tengah dan Afrika Utara sekitar RM2,32 miliar, dengan UEA sebagai pasar tunggal terbesar di sana ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Lembaga seperti Halal Development Corporation (HDC) dan MATRADE secara aktif mempromosikan F&B Malaysia di pameran dagang seperti Gulfood dan Anuga. Untuk gambaran yang lebih luas, lihat panduan [industri dan ekonomi halal](/id/industries/halal-industry-economy/) dan cara kerja [sertifikasi halal](/id/industries/halal-certification-system/).
 
 ## Siapa pemain utamanya?
 

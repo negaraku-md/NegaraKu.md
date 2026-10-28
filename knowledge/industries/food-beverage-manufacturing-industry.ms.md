@@ -31,10 +31,12 @@ faq:
   - q: Bagaimana pembuatan makanan dikawal selia di Malaysia?
     a: Keselamatan dan pelabelan makanan dikawal oleh Akta Makanan 1983 dan peraturan subsidiarinya (seperti Peraturan-Peraturan Makanan 1985 dan Peraturan-Peraturan Kebersihan Makanan 2009), ditadbir oleh Kementerian Kesihatan. Tuntutan halal pula dikawal secara berasingan oleh Jabatan Kemajuan Islam Malaysia (JAKIM), yang mengeluarkan pensijilan halal rasmi.
 lang: ms
-sourceContentHash: "65b7948a45bacfff"
+sourceContentHash: "ac70589426331148"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -104,7 +106,7 @@ Panduan ini menerangkan apa yang dibuat industri ini, sebesar mana ia, segmen ut
 
 ## Apakah industri pembuatan makanan & minuman?
 
-Pembuatan F&B bermaksud menukarkan input pertanian dan marin mentah — bijirin, koko, minyak sawit, gula, buah, ikan dan tenusu — menjadi produk diproses dan dibungkus yang sedia untuk kedai, restoran dan eksport. Ia terletak di hiliran pertanian dan perikanan (lihat [gambaran keseluruhan sektor pertanian](/industries/agriculture-sector-overview/)) dan di huluan runcit dan perkhidmatan makanan.
+Pembuatan F&B bermaksud menukarkan input pertanian dan marin mentah — bijirin, koko, minyak sawit, gula, buah, ikan dan tenusu — menjadi produk diproses dan dibungkus yang sedia untuk kedai, restoran dan eksport. Ia terletak di hiliran pertanian dan perikanan (lihat [gambaran keseluruhan sektor pertanian](/agriculture/agriculture-sector-overview/)) dan di huluan runcit dan perkhidmatan makanan.
 
 Ia sebahagian besarnya industri **berorientasikan domestik**, bermakna sebahagian besar keluarannya digunakan di dalam Malaysia, tetapi bahagian yang semakin meningkat dieksport. Sifat dwi itu menjadikannya penting secara strategik: ia menyokong keselamatan makanan sambil juga memperoleh pertukaran asing.
 
@@ -132,7 +134,7 @@ Jika satu perkara membezakan F&B Malaysia di peringkat antarabangsa, ia ialah **
 
 Skalanya bermakna. Jumlah eksport produk halal Malaysia mencapai kira-kira **RM61.79 bilion pada 2024**, naik kira-kira 15% daripada RM53.72 bilion tahun sebelumnya, menurut kementerian perdagangan ([The Star](https://www.thestar.com.my/business/business-news/2025/05/01/malaysias-halal-product-exports-up-15-to-rm6179bil-in-2024); [MIDA](https://www.mida.gov.my/mida-news/malaysia-records-rm45-04b-in-halal-product-exports-from-january-to-september-2024-miti/)). Makanan diproses ialah sebahagian teras bakul itu, dan kerajaan telah memetik unjuran pasaran halal global sekitar AS$5 trilion menjelang 2030 sebagai hadiahnya.
 
-Momentum eksport telah kuat di rantau baharu. MATRADE telah melaporkan eksport makanan diproses ke Eropah kira-kira RM3.48 bilion pada 2024 — lonjakan kira-kira 70% — diterajui produk koko, pengganti susu, konfeksi dan biskut, serta eksport ke Timur Tengah dan Afrika Utara kira-kira RM2.32 bilion, dengan UAE sebagai pasaran tunggal terbesar di sana ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Agensi seperti Perbadanan Pembangunan Halal (HDC) dan MATRADE secara aktif mempromosikan F&B Malaysia di pameran dagangan seperti Gulfood dan Anuga. Untuk gambaran yang lebih luas, lihat panduan [industri dan ekonomi halal](/industries/halal-industry-economy/) dan cara [pensijilan halal](/business/halal-certification-system/) berfungsi.
+Momentum eksport telah kuat di rantau baharu. MATRADE telah melaporkan eksport makanan diproses ke Eropah kira-kira RM3.48 bilion pada 2024 — lonjakan kira-kira 70% — diterajui produk koko, pengganti susu, konfeksi dan biskut, serta eksport ke Timur Tengah dan Afrika Utara kira-kira RM2.32 bilion, dengan UAE sebagai pasaran tunggal terbesar di sana ([MATRADE](https://www.matrade.gov.my/en/about-matrade/press-release/malaysian-f-b-innovation-to-take-the-spotlight-at-anuga-2025-in-germany)). Agensi seperti Perbadanan Pembangunan Halal (HDC) dan MATRADE secara aktif mempromosikan F&B Malaysia di pameran dagangan seperti Gulfood dan Anuga. Untuk gambaran yang lebih luas, lihat panduan [industri dan ekonomi halal](/industries/halal-industry-economy/) dan cara [pensijilan halal](/industries/halal-certification-system/) berfungsi.
 
 ## Siapa pemain utama?
 

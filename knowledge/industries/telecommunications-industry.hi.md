@@ -31,10 +31,12 @@ faq:
   - q: क्या मलेशिया का दूरसंचार बाज़ार अब भी बढ़ रहा है?
     a: ग्राहक वृद्धि काफी हद तक स्थिर हो गई है क्योंकि बाज़ार लगभग-संतृप्त है। भविष्य की वृद्धि नए उपयोगकर्ताओं की बड़ी संख्या को साइन अप करने के बजाय उच्च-मूल्य सेवाओं — 5G, फ़ाइबर उन्नयन, एंटरप्राइज़ कनेक्टिविटी और डिजिटल सेवाओं — से आने की उम्मीद है।
 lang: hi
-sourceContentHash: "135d833f59842509"
+sourceContentHash: "01292aba5d43284f"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -74,12 +76,12 @@ sources:
 entity: Telecommunications in Malaysia
 relations:
   - rel: administered-by
-    to: mcmc-malaysia
+    to: mcmc-communications-multimedia-commission
   - rel: part-of
     to: digital-economy-overview
 related:
   - 5g-jendela-dnb-malaysia
-  - mcmc-malaysia
+  - mcmc-communications-multimedia-commission
   - digital-economy-overview
 keywords:
   - दूरसंचार उद्योग
@@ -144,7 +146,7 @@ revisions:
 
 ## नियामक: MCMC और Communications and Multimedia Act 1998
 
-इस क्षेत्र का रेफरी है **[Malaysian Communications and Multimedia Commission (MCMC)](/hi/technology/mcmc-malaysia/)**, जो **Communications and Multimedia Act 1998 (CMA)** के अंतर्गत संचालित होता है। CMA ने एक आधुनिक "अभिसरण" ढाँचा बनाया जो दूरसंचार, प्रसारण और ऑनलाइन सामग्री को अलग-अलग साइलो के बजाय एक विनियमित उद्योग के रूप में मानता है, और इसने Telecommunications Act 1950 जैसे पुराने कानूनों की जगह ली।
+इस क्षेत्र का रेफरी है **[Malaysian Communications and Multimedia Commission (MCMC)](/hi/government/mcmc-communications-multimedia-commission/)**, जो **Communications and Multimedia Act 1998 (CMA)** के अंतर्गत संचालित होता है। CMA ने एक आधुनिक "अभिसरण" ढाँचा बनाया जो दूरसंचार, प्रसारण और ऑनलाइन सामग्री को अलग-अलग साइलो के बजाय एक विनियमित उद्योग के रूप में मानता है, और इसने Telecommunications Act 1950 जैसे पुराने कानूनों की जगह ली।
 
 MCMC की शक्तियाँ व्यापक हैं। यह **लाइसेंस** जारी करता है (अधिनियम नेटवर्क सुविधाओं, नेटवर्क सेवाओं, अनुप्रयोग सेवाओं और सामग्री को कवर करने वाली एक स्तरीय संरचना का उपयोग करता है), **प्रतिस्पर्धा** और उपभोक्ता-संरक्षण नियमों को लागू करता है, **सेवा-गुणवत्ता मानक** तय करता है, **स्पेक्ट्रम** का प्रबंधन करता है, और — कीमतों के लिए महत्वपूर्ण — **थोक-पहुँच मूल्य निर्धारण** निर्धारित करता है। **Mandatory Standard on Access Pricing (MSAP)** के माध्यम से, MCMC उन थोक दरों को सीमित करता है जो TM जैसे नेटवर्क स्वामी प्रतिद्वंद्वियों से अपनी अवसंरचना तक पहुँच के लिए वसूल सकते हैं; 2018 और 2023 के MSAP दौरों को खुदरा फ़ाइबर कीमतें नीचे धकेलने का श्रेय दिया गया, हालाँकि सटीक दरों और उपभोक्ताओं तक उनके पास-थ्रू को वर्तमान MCMC निर्धारणों के विरुद्ध जाँचा जाना चाहिए।
 
@@ -154,4 +156,4 @@ MCMC की शक्तियाँ व्यापक हैं। यह **�
 
 मलेशिया का दूरसंचार उद्योग एक नए चरण में चला गया है: समेकित, संतृप्त और ग्राहक वृद्धि से मूल्य की ओर स्थानांतरित। अब बड़े प्रश्न यह हैं कि क्या दोहरे-नेटवर्क 5G मॉडल वास्तविक प्रतिस्पर्धा और निवेश देता है, क्या फ़ाइबर और मोबाइल कवरेज को ग्रामीण तथा वंचित समुदायों तक निष्पक्ष रूप से बढ़ाया जा सकता है, और MCMC स्ट्रीमिंग प्लेटफ़ॉर्मों और सीमा-पार डिजिटल सेवाओं के युग के लिए 1998-युग के कानून को कैसे आधुनिक बनाता है। आपके फ़ोन बिल पर ब्रांड नाम फिर से बदल सकते हैं — लेकिन दिशा, एक सक्रिय नियामक के अंतर्गत कम, बड़े, संयोजित ऑपरेटरों की ओर, अच्छी तरह स्थापित है।
 
-और गहराई में जाने के लिए, [MCMC](/hi/technology/mcmc-malaysia/) के बारे में पढ़ें, वह एजेंसी जो इस क्षेत्र को लाइसेंस और नियंत्रित करती है, और [5G और JENDELA](/hi/technology/5g-jendela-dnb-malaysia/) कार्यक्रम जो इसके नीचे के नेटवर्कों को नया आकार दे रहा है। व्यापक तस्वीर के लिए, [डिजिटल अर्थव्यवस्था अवलोकन](/hi/industries/digital-economy-overview/) देखें।
+और गहराई में जाने के लिए, [MCMC](/hi/government/mcmc-communications-multimedia-commission/) के बारे में पढ़ें, वह एजेंसी जो इस क्षेत्र को लाइसेंस और नियंत्रित करती है, और [5G और JENDELA](/hi/technology/5g-jendela-dnb-malaysia/) कार्यक्रम जो इसके नीचे के नेटवर्कों को नया आकार दे रहा है। व्यापक तस्वीर के लिए, [डिजिटल अर्थव्यवस्था अवलोकन](/hi/industries/digital-economy-overview/) देखें।

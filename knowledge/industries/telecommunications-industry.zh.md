@@ -31,10 +31,12 @@ faq:
   - q: 马来西亚的电信市场还在增长吗？
     a: 由于市场近乎饱和，用户增长已大体见顶。未来增长预期将来自更高价值的服务——5G、光纤升级、企业连接与数字服务——而非签下大量新用户。
 lang: zh
-sourceContentHash: "135d833f59842509"
+sourceContentHash: "01292aba5d43284f"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -74,12 +76,12 @@ sources:
 entity: Telecommunications in Malaysia
 relations:
   - rel: administered-by
-    to: mcmc-malaysia
+    to: mcmc-communications-multimedia-commission
   - rel: part-of
     to: digital-economy-overview
 related:
   - 5g-jendela-dnb-malaysia
-  - mcmc-malaysia
+  - mcmc-communications-multimedia-commission
   - digital-economy-overview
 keywords:
   - 电信产业
@@ -144,7 +146,7 @@ revisions:
 
 ## 监管机构：MCMC 与《1998 年通讯与多媒体法令》
 
-该领域的裁判是**[马来西亚通讯及多媒体委员会（MCMC）](/zh/technology/mcmc-malaysia/)**，依据**《1998 年通讯与多媒体法令》（CMA）**运作。CMA 创立了一个现代的「融合」框架，把电信、广播与在线内容视为一个受监管的产业，而非彼此分立的孤岛，并取代了《1950 年电信法令》等旧法。
+该领域的裁判是**[马来西亚通讯及多媒体委员会（MCMC）](/zh/government/mcmc-communications-multimedia-commission/)**，依据**《1998 年通讯与多媒体法令》（CMA）**运作。CMA 创立了一个现代的「融合」框架，把电信、广播与在线内容视为一个受监管的产业，而非彼此分立的孤岛，并取代了《1950 年电信法令》等旧法。
 
 MCMC 的权力很广。它发放**牌照**（该法采用分级结构，涵盖网络设施、网络服务、应用服务与内容）、执行**竞争**与消费者保护规则、设定**服务质量标准**、管理**频谱**，并且——对价格至关重要——裁定**批发接入定价**。通过**《强制性接入定价标准》（MSAP）**，MCMC 对 TM 等网络所有者向竞争对手收取的基础设施接入批发费率设定上限；2018 与 2023 两轮 MSAP 被认为推动了零售光纤价格下降，不过确切费率及其向消费者的传导，应对照当前 MCMC 裁定查核。
 
@@ -154,4 +156,4 @@ MCMC 的权力很广。它发放**牌照**（该法采用分级结构，涵盖�
 
 马来西亚的电信产业已进入一个新阶段：整合、饱和，并从用户增长转向价值。如今的重大问题是：双网络 5G 模式能否带来真正的竞争与投资、光纤与移动覆盖能否公平地延伸至乡村与服务不足的社区，以及 MCMC 如何为流媒体平台与跨境数字服务的时代，让一部 1998 年代的法律现代化。你话费单上的品牌名称或许还会再变——但方向，即走向更少、更大、融合的运营商，并由一个积极作为的监管机构统辖，已稳稳确立。
 
-欲深入了解，请阅读为该领域发牌并监管的机构 [MCMC](/zh/technology/mcmc-malaysia/)，以及正在重塑其底层网络的 [5G 与 JENDELA](/zh/technology/5g-jendela-dnb-malaysia/) 计划。欲一窥更宏观的图景，请参阅[数字经济概览](/zh/industries/digital-economy-overview/)。
+欲深入了解，请阅读为该领域发牌并监管的机构 [MCMC](/zh/government/mcmc-communications-multimedia-commission/)，以及正在重塑其底层网络的 [5G 与 JENDELA](/zh/technology/5g-jendela-dnb-malaysia/) 计划。欲一窥更宏观的图景，请参阅[数字经济概览](/zh/industries/digital-economy-overview/)。

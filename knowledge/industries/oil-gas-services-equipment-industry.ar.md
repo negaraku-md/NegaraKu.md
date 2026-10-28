@@ -31,10 +31,12 @@ faq:
   - q: "ما هو المخطط الوطني لصناعة OGSE؟"
     a: "أُطلق في أبريل 2021 وروجِع منتصف المدة في 2024، وهو خطة الحكومة لعشر سنوات (2021–2030) لجعل القطاع أكثر تنافسيةً ومرونةً واستدامةً. وتشمل أهدافه مضاعفة إيرادات التصدير، والحفاظ على مساهمة نحو RM50 مليار في الناتج المحلي الإجمالي، ودفع الشركات نحو خدمات تحوّل الطاقة مثل احتجاز الكربون والهيدروجين والطاقات المتجددة."
 lang: ar
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - "OGSE"
@@ -162,4 +164,4 @@ OGSE ليست عملًا واحدًا بل عنقودًا من الأعمال ا
 
 الصورة قريبة المدى دورية لكنها أمتن منها أثناء الهبوط، مدعومةً بنشاط PETRONAS المتجدّد وخطّ من أعمال الصيانة وإعادة التطوير والآبار الجديدة. أما السؤال الأبعد مدى فهو ما إذا كانت شركات OGSE الماليزية قادرة على تحويل عقود من الخبرة البحرية إلى مواقع راسخة في طاقة التحوّل وأسواق التصدير قبل أن يتناقص عمل النفط والغاز المحلي. ذلك هو الرهان الصريح خلف المخطط — وسبب أن OGSE، التي طالما عُوملت دورًا داعمًا للمورد، تُناقَش بتزايد بوصفها صناعة لها مستقبلها الذي تشكّله بنفسها.
 
-لجانب المورد من القصة، اقرأ دليل [صناعة النفط والغاز](/ar/industries/oil-gas-industry/) و[ملف PETRONAS الصناعي](/ar/industries/petronas-industry-profile/). راجع أيضًا الدليل الكامل لـ[الصناعات الرئيسية في ماليزيا](/ar/industries/industries-overview/).
+لجانب المورد من القصة، اقرأ دليل [صناعة النفط والغاز](/ar/industries/oil-gas-industry/) و[ملف PETRONAS الصناعي](/ar/economy/oil-gas-petronas/). راجع أيضًا الدليل الكامل لـ[الصناعات الرئيسية في ماليزيا](/ar/industries/industries-overview/).

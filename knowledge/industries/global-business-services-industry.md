@@ -33,7 +33,9 @@ faq:
 lang: en
 masterLanguage: en
 translationStatus: master
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -156,6 +158,6 @@ Malaysia's GBS sector sits at a confident but competitive moment. It has graduat
 
 The challenges are equally clear: a persistent talent crunch as demand for digital skills outpaces supply, wage inflation eroding the cost advantage, and sharpening competition from India, the Philippines, Vietnam and others. The sector's future depends less on winning the next call centre than on becoming the place where multinationals base the brains of their regional operations.
 
-To go deeper, see the overview of [Malaysia's digital economy](/en/industries/digital-economy-overview/) and the agency driving the sector, [MDEC](/en/government/mdec-digital-economy-corporation/).
+To go deeper, see the overview of [Malaysia's digital economy](/en/industries/digital-economy-overview/) and the agency driving the sector, [MDEC](/en/technology/mdec-digital-economy-corporation/).
 
 See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

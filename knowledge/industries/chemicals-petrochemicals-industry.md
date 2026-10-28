@@ -33,7 +33,9 @@ faq:
 lang: en
 masterLanguage: en
 translationStatus: master
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -77,7 +79,7 @@ relations:
     to: mida
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - manufacturing-industry-overview
 keywords:
   - chemicals industry
@@ -124,7 +126,7 @@ The industry's strategic ambition, set out in CIR2030, is to shift weight toward
 
 ## Key players and GLCs
 
-The anchor is **PETRONAS Chemicals Group (PCG)**, the listed petrochemical arm of national oil company [PETRONAS](/en/industries/petronas-industry-profile/). PCG is the dominant integrated producer of olefins, polymers and fertilisers, and its scale comes from privileged access to domestic gas feedstock.
+The anchor is **PETRONAS Chemicals Group (PCG)**, the listed petrochemical arm of national oil company [PETRONAS](/en/economy/oil-gas-petronas/). PCG is the dominant integrated producer of olefins, polymers and fertilisers, and its scale comes from privileged access to domestic gas feedstock.
 
 **Lotte Chemical Titan**, majority-owned by South Korea's Lotte Chemical, is the other heavyweight. Established in 1991 as Malaysia's first standalone polyolefins producer, it has been described as the country's largest integrated producer of olefins and polyolefins, with capacity across two Johor sites (the precise figure varies between sources). A wide field of multinationals — in industrial gases, coatings, agrochemicals and specialty products — and a large base of palm-based oleochemical producers round out the sector.
 
@@ -151,6 +153,6 @@ The near-term picture is mixed. Global petrochemical margins have been squeezed 
 
 Whether CIR2030's targets are met will depend on execution — attracting specialty-chemical investment, decarbonising energy-intensive plants, and competing with larger regional rivals. The direction, though, is clear: Malaysia wants its chemicals industry to be known not only for bulk plastics and palm oleochemicals, but for the higher-value chemistry that sits above them.
 
-To go deeper, see the [oil & gas industry](/en/industries/oil-gas-industry/) that supplies the feedstock, the [PETRONAS profile](/en/industries/petronas-industry-profile/) behind the largest producer, and the broader [manufacturing industry](/en/industries/manufacturing-industry-overview/) guide.
+To go deeper, see the [oil & gas industry](/en/industries/oil-gas-industry/) that supplies the feedstock, the [PETRONAS profile](/en/economy/oil-gas-petronas/) behind the largest producer, and the broader [manufacturing industry](/en/industries/manufacturing-industry-overview/) guide.
 
 See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).

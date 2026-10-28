@@ -31,10 +31,12 @@ faq:
   - q: National OGSE Industry Blueprint क्या है?
     a: अप्रैल 2021 में शुरू और 2024 में मध्यावधि समीक्षा की गई, यह इस क्षेत्र को अधिक प्रतिस्पर्धी, लचीला और टिकाऊ बनाने के लिए सरकार की 10-वर्षीय योजना (2021–2030) है। इसके लक्ष्यों में निर्यात राजस्व को दोगुना करना, लगभग RM50 बिलियन का GDP योगदान बनाए रखना और फर्मों को कार्बन कैप्चर, हाइड्रोजन तथा नवीकरणीय जैसी ऊर्जा-संक्रमण सेवाओं में धकेलना शामिल है।
 lang: hi
-sourceContentHash: "965f53ebd634b718"
+sourceContentHash: "4135d2cdb598faa4"
 masterLanguage: en
 translationStatus: "in-sync"
-status: in-review
+status: published
+reviewed: 2026-10-28
+reviewDue: 2028-04-28
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -84,7 +86,7 @@ relations:
     to: petronas
 related:
   - oil-gas-industry
-  - petronas-industry-profile
+  - oil-gas-petronas
   - petronas
 keywords:
   - OGSE
@@ -156,4 +158,4 @@ OGSE कार्य अपतटीय बेसिनों और उनक�
 
 निकट-भविष्य की तस्वीर चक्रीय है लेकिन मंदी के दौरान की तुलना में मज़बूत है, जिसे नवीनीकृत PETRONAS गतिविधि और रखरखाव, पुनर्विकास तथा नए-कुएँ कार्य की एक पाइपलाइन का समर्थन प्राप्त है। दीर्घकालिक प्रश्न यह है कि क्या मलेशिया की OGSE फर्में घरेलू तेल और गैस कार्य के कम होने से पहले अपतटीय विशेषज्ञता के दशकों को संक्रमण ऊर्जा और निर्यात बाज़ारों में टिकाऊ स्थितियों में बदल सकती हैं। वही है ब्लूप्रिंट के पीछे का स्पष्ट दाँव — और वह कारण कि OGSE, जिसे लंबे समय से संसाधन के एक सहायक कार्य के रूप में माना जाता था, तेज़ी से अपने स्वयं के भविष्य को आकार देने वाले एक उद्योग के रूप में चर्चित हो रहा है।
 
-कहानी के संसाधन पक्ष के लिए, [तेल एवं गैस उद्योग](/hi/industries/oil-gas-industry/) मार्गदर्शिका और [PETRONAS उद्योग प्रोफ़ाइल](/hi/industries/petronas-industry-profile/) पढ़ें। [मलेशिया के प्रमुख उद्योग](/hi/industries/industries-overview/) की पूरी गाइड भी देखें।
+कहानी के संसाधन पक्ष के लिए, [तेल एवं गैस उद्योग](/hi/industries/oil-gas-industry/) मार्गदर्शिका और [PETRONAS उद्योग प्रोफ़ाइल](/hi/economy/oil-gas-petronas/) पढ़ें। [मलेशिया के प्रमुख उद्योग](/hi/industries/industries-overview/) की पूरी गाइड भी देखें।
