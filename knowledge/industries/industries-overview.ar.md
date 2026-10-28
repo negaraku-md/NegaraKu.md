@@ -34,7 +34,7 @@ faq:
     a: "في 2024، جذبت الخدمات RM252.7 مليار من الاستثمارات المعتمَدة (66.8% من الإجمالي)، والتصنيع RM120.5 مليار (31.8%)، من إجمالي قياسي قدره RM378.5 مليار (MIDA)."
 
 lang: "ar"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ keywords: ["صناعات ماليزيا", "Malaysia industries", "قطاعات �
 
 ## استكشف هذا الموضوع بعمق
 
-أهم الأدلة في هذا المجال:
+صناعات ماليزيا، مرتّبة وفق موقعها في الاقتصاد. يتناول كل دليل قطاعاً واحداً بعمق — حجمه، وأبرز الفاعلين فيه، والجهة المنظِّمة له، وحوافزه، وآفاقه المستقبلية.
 
-- [صناعة الطيران والصيانة والإصلاح والعُمرة (MRO) في ماليزيا](/ar/industries/aerospace-industry/)
-- [صناعة السيارات](/ar/industries/automotive-industry/)
-- [سياسة ملكية البوميبوترا وتطوير المورّدين في الصناعات الاستراتيجية](/ar/industries/bumiputera-equity-vendor-policy/)
-- [صناعة الإنشاءات في ماليزيا](/ar/industries/construction-industry/)
-- [مراكز البيانات والبنية التحتية السحابية في ماليزيا](/ar/industries/data-centre-cloud-industry/)
-- [الاقتصاد الرقمي في ماليزيا](/ar/industries/digital-economy-overview/)
-- [صناعة الكهرباء والإلكترونيات (E&E)](/ar/industries/electrical-electronics-industry/)
-- [نظام اعتماد الحلال في ماليزيا](/ar/industries/halal-certification-system/)
-- [صناعة الحلال وطموح ماليزيا لتكون مركزاً عالمياً للحلال](/ar/industries/halal-industry-economy/)
-- [صناعة الخدمات اللوجستية والموانئ في ماليزيا](/ar/industries/logistics-ports-industry/)
+### أدلة شاملة
+
 - [التصنيع فيما وراء الكهربائيات والإلكترونيات والسيارات](/ar/industries/manufacturing-industry-overview/)
 - [الخطة الصناعية الرئيسية الجديدة 2030 (NIMP 2030)](/ar/industries/new-industrial-master-plan-2030/)
+- [الاقتصاد الرقمي في ماليزيا](/ar/industries/digital-economy-overview/)
+- [سياسة ملكية البوميبوترا وتطوير المورّدين في الصناعات الاستراتيجية](/ar/industries/bumiputera-equity-vendor-policy/)
+
+### التصنيع
+
+- [صناعة الكهرباء والإلكترونيات (E&E)](/ar/industries/electrical-electronics-industry/)
+- [صناعة أشباه الموصلات في ماليزيا](/ar/industries/semiconductor-industry/)
+- [صناعة أشباه الموصلات والاستراتيجية الوطنية لأشباه الموصلات](/ar/industries/semiconductor-industry-national-strategy/)
+- [صناعة السيارات](/ar/industries/automotive-industry/)
+- [منظومة المركبات الكهربائية (EV) والبطاريات](/ar/industries/electric-vehicle-battery-industry/)
+- [صناعة الطيران والصيانة والإصلاح والعُمرة (MRO) في ماليزيا](/ar/industries/aerospace-industry/)
+- [صناعة الكيماويات والبتروكيماويات](/ar/industries/chemicals-petrochemicals-industry/)
+- [صناعة الأدوية](/ar/industries/pharmaceutical-industry/)
+- [صناعة الأجهزة الطبية](/ar/industries/medical-devices-industry/)
+- [صناعة الآلات والمعدات](/ar/industries/machinery-equipment-industry/)
+- [صناعة تصنيع الأغذية والمشروبات](/ar/industries/food-beverage-manufacturing-industry/)
+- [صناعة المنسوجات والملابس والأحذية](/ar/industries/textiles-apparel-industry/)
+- [صناعة الحديد والصلب والمعادن](/ar/industries/iron-steel-metals-industry/)
+- [صناعة البلاستيك والتغليف](/ar/industries/plastics-packaging-industry/)
+- [صناعة الأثاث والمنتجات الخشبية](/ar/industries/furniture-wood-products-industry/)
+- [صناعة بناء السفن والصناعات البحرية](/ar/industries/shipbuilding-marine-industry/)
+- [صناعة المطاط في ماليزيا](/ar/industries/rubber-industry/)
+
+### الخدمات
+
+- [صناعة الإنشاءات في ماليزيا](/ar/industries/construction-industry/)
+- [صناعة الخدمات اللوجستية والموانئ في ماليزيا](/ar/industries/logistics-ports-industry/)
+- [مراكز البيانات والبنية التحتية السحابية في ماليزيا](/ar/industries/data-centre-cloud-industry/)
+- [صناعة الخدمات التجارية العالمية (GBS)](/ar/industries/global-business-services-industry/)
+- [صناعة الاتصالات](/ar/industries/telecommunications-industry/)
+- [صناعة خدمات ومعدات النفط والغاز (OGSE)](/ar/industries/oil-gas-services-equipment-industry/)
+- [صناعة تجارة التجزئة والجملة](/ar/industries/retail-wholesale-trade-industry/)
+- [صناعة الإعلام والبث](/ar/industries/media-broadcasting-industry/)
+- [اقتصاد العمل الحر والمنصّات](/ar/industries/gig-platform-economy-industry/)
+
+### القطاعات الأولية والاستخراجية
+
 - [صناعة النفط والغاز في ماليزيا](/ar/industries/oil-gas-industry/)
 - [صناعة زيت النخيل في ماليزيا](/ar/industries/palm-oil-industry/)
 - [استدامة زيت النخيل واعتماده في ماليزيا](/ar/industries/palm-oil-sustainability-certification/)
-- [صناعة المطاط في ماليزيا](/ar/industries/rubber-industry/)
-- [صناعة أشباه الموصلات في ماليزيا](/ar/industries/semiconductor-industry/)
-- [صناعة أشباه الموصلات والاستراتيجية الوطنية لأشباه الموصلات](/ar/industries/semiconductor-industry-national-strategy/)
+- [صناعة المعادن والتعدين](/ar/industries/minerals-mining-industry/)
+- [صناعة الغابات والأخشاب](/ar/industries/forestry-timber-industry/)
+
+### القطاعات الناشئة وعلوم الحياة
+
+- [صناعة التكنولوجيا الحيوية وعلوم الحياة](/ar/industries/biotechnology-life-sciences-industry/)
+
+### اقتصاد الحلال
+
+- [صناعة الحلال وطموح ماليزيا لتكون مركزاً عالمياً للحلال](/ar/industries/halal-industry-economy/)
+- [نظام اعتماد الحلال في ماليزيا](/ar/industries/halal-certification-system/)
 
 ## ما التالي
 

@@ -34,7 +34,7 @@ faq:
     a: "ในปี 2024 บริการดึงการลงทุนที่ได้รับอนุมัติ RM252.7 พันล้าน (66.8% ของยอดรวม) และการผลิต RM120.5 พันล้าน (31.8%) จากยอดรวมที่ทำสถิติ RM378.5 พันล้าน (MIDA)"
 
 lang: "th"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by s
 
 ## สำรวจหัวข้อนี้เชิงลึก
 
-คู่มือสำคัญในด้านนี้:
+อุตสาหกรรมของมาเลเซีย จัดวางตามตำแหน่งที่อยู่ในเศรษฐกิจ แต่ละคู่มือเจาะลึกหนึ่งภาคส่วน — ขนาด ผู้เล่นหลัก หน่วยงานกำกับดูแล สิ่งจูงใจ และแนวโน้ม
 
-- [อุตสาหกรรมการบินและอวกาศและ MRO ในมาเลเซีย](/th/industries/aerospace-industry/)
-- [อุตสาหกรรมยานยนต์](/th/industries/automotive-industry/)
-- [นโยบายส่วนทุนภูมิบุตรและการพัฒนาผู้จัดจำหน่ายในอุตสาหกรรมยุทธศาสตร์](/th/industries/bumiputera-equity-vendor-policy/)
-- [อุตสาหกรรมการก่อสร้างของมาเลเซีย](/th/industries/construction-industry/)
-- [ศูนย์ข้อมูลและโครงสร้างพื้นฐานคลาวด์ในมาเลเซีย](/th/industries/data-centre-cloud-industry/)
-- [เศรษฐกิจดิจิทัลของมาเลเซีย](/th/industries/digital-economy-overview/)
-- [อุตสาหกรรมไฟฟ้าและอิเล็กทรอนิกส์ (E&E)](/th/industries/electrical-electronics-industry/)
-- [ระบบการรับรองฮาลาลของมาเลเซีย](/th/industries/halal-certification-system/)
-- [อุตสาหกรรมฮาลาลและความทะเยอทะยานสู่การเป็นศูนย์กลางฮาลาลโลกของมาเลเซีย](/th/industries/halal-industry-economy/)
-- [อุตสาหกรรมโลจิสติกส์และท่าเรือของมาเลเซีย](/th/industries/logistics-ports-industry/)
+### คู่มือข้ามภาคส่วน
+
 - [การผลิตนอกเหนือจาก E&E และยานยนต์](/th/industries/manufacturing-industry-overview/)
 - [แผนแม่บทอุตสาหกรรมใหม่ 2030 (NIMP 2030)](/th/industries/new-industrial-master-plan-2030/)
+- [เศรษฐกิจดิจิทัลของมาเลเซีย](/th/industries/digital-economy-overview/)
+- [นโยบายส่วนทุนภูมิบุตรและการพัฒนาผู้จัดจำหน่ายในอุตสาหกรรมยุทธศาสตร์](/th/industries/bumiputera-equity-vendor-policy/)
+
+### การผลิต
+
+- [อุตสาหกรรมไฟฟ้าและอิเล็กทรอนิกส์ (E&E)](/th/industries/electrical-electronics-industry/)
+- [อุตสาหกรรมเซมิคอนดักเตอร์ของมาเลเซีย](/th/industries/semiconductor-industry/)
+- [อุตสาหกรรมเซมิคอนดักเตอร์และยุทธศาสตร์เซมิคอนดักเตอร์แห่งชาติ](/th/industries/semiconductor-industry-national-strategy/)
+- [อุตสาหกรรมยานยนต์](/th/industries/automotive-industry/)
+- [ระบบนิเวศยานยนต์ไฟฟ้า (EV) และแบตเตอรี่](/th/industries/electric-vehicle-battery-industry/)
+- [อุตสาหกรรมการบินและอวกาศและ MRO ในมาเลเซีย](/th/industries/aerospace-industry/)
+- [อุตสาหกรรมเคมีและปิโตรเคมี](/th/industries/chemicals-petrochemicals-industry/)
+- [อุตสาหกรรมเภสัชกรรม](/th/industries/pharmaceutical-industry/)
+- [อุตสาหกรรมเครื่องมือแพทย์](/th/industries/medical-devices-industry/)
+- [อุตสาหกรรมเครื่องจักรและอุปกรณ์](/th/industries/machinery-equipment-industry/)
+- [อุตสาหกรรมการผลิตอาหารและเครื่องดื่ม](/th/industries/food-beverage-manufacturing-industry/)
+- [อุตสาหกรรมสิ่งทอ เครื่องนุ่งห่ม และรองเท้า](/th/industries/textiles-apparel-industry/)
+- [อุตสาหกรรมเหล็ก เหล็กกล้า และโลหะ](/th/industries/iron-steel-metals-industry/)
+- [อุตสาหกรรมพลาสติกและบรรจุภัณฑ์](/th/industries/plastics-packaging-industry/)
+- [อุตสาหกรรมเฟอร์นิเจอร์และผลิตภัณฑ์ไม้](/th/industries/furniture-wood-products-industry/)
+- [อุตสาหกรรมต่อเรือและกิจการทางทะเล](/th/industries/shipbuilding-marine-industry/)
+- [อุตสาหกรรมยางพาราของมาเลเซีย](/th/industries/rubber-industry/)
+
+### บริการ
+
+- [อุตสาหกรรมการก่อสร้างของมาเลเซีย](/th/industries/construction-industry/)
+- [อุตสาหกรรมโลจิสติกส์และท่าเรือของมาเลเซีย](/th/industries/logistics-ports-industry/)
+- [ศูนย์ข้อมูลและโครงสร้างพื้นฐานคลาวด์ในมาเลเซีย](/th/industries/data-centre-cloud-industry/)
+- [อุตสาหกรรมบริการธุรกิจระดับโลก (GBS)](/th/industries/global-business-services-industry/)
+- [อุตสาหกรรมโทรคมนาคม](/th/industries/telecommunications-industry/)
+- [อุตสาหกรรมบริการและอุปกรณ์น้ำมันและก๊าซ (OGSE)](/th/industries/oil-gas-services-equipment-industry/)
+- [อุตสาหกรรมการค้าปลีกและค้าส่ง](/th/industries/retail-wholesale-trade-industry/)
+- [อุตสาหกรรมสื่อและการแพร่ภาพกระจายเสียง](/th/industries/media-broadcasting-industry/)
+- [เศรษฐกิจกิกและแพลตฟอร์ม](/th/industries/gig-platform-economy-industry/)
+
+### ขั้นปฐมและการสกัดทรัพยากร
+
 - [อุตสาหกรรมน้ำมันและก๊าซในมาเลเซีย](/th/industries/oil-gas-industry/)
 - [อุตสาหกรรมน้ำมันปาล์มของมาเลเซีย](/th/industries/palm-oil-industry/)
 - [ความยั่งยืนและการรับรองน้ำมันปาล์มในมาเลเซีย](/th/industries/palm-oil-sustainability-certification/)
-- [อุตสาหกรรมยางพาราของมาเลเซีย](/th/industries/rubber-industry/)
-- [อุตสาหกรรมเซมิคอนดักเตอร์ของมาเลเซีย](/th/industries/semiconductor-industry/)
-- [อุตสาหกรรมเซมิคอนดักเตอร์และยุทธศาสตร์เซมิคอนดักเตอร์แห่งชาติ](/th/industries/semiconductor-industry-national-strategy/)
+- [อุตสาหกรรมแร่และเหมืองแร่](/th/industries/minerals-mining-industry/)
+- [อุตสาหกรรมป่าไม้และไม้ซุง](/th/industries/forestry-timber-industry/)
+
+### อุตสาหกรรมเกิดใหม่และวิทยาศาสตร์ชีวภาพ
+
+- [อุตสาหกรรมเทคโนโลยีชีวภาพและวิทยาศาสตร์ชีวภาพ](/th/industries/biotechnology-life-sciences-industry/)
+
+### เศรษฐกิจฮาลาล
+
+- [อุตสาหกรรมฮาลาลและความทะเยอทะยานสู่การเป็นศูนย์กลางฮาลาลโลกของมาเลเซีย](/th/industries/halal-industry-economy/)
+- [ระบบการรับรองฮาลาลของมาเลเซีย](/th/industries/halal-certification-system/)
 
 ## อ่านต่อ
 

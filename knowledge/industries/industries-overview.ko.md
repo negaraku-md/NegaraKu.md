@@ -34,7 +34,7 @@ faq:
     a: "2024년, 서비스가 RM2,527억 링깃의 승인 투자(전체의 66.8%)를, 제조가 RM1,205억 링깃(31.8%)을 끌어들였으며, 이는 전체 사상 최대인 RM3,785억 링깃 중 일부입니다(MIDA)."
 
 lang: "ko"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ E&E의 지배력이 체득해야 할 이야기입니다. 이는 말레이시아�
 
 ## 이 주제 자세히 살펴보기
 
-이 분야의 주요 가이드:
+경제 안에서 자리한 위치에 따라 지도화한 말레이시아의 산업들. 각 안내서는 한 부문 — 그 규모, 주요 기업, 규제 기관, 인센티브, 전망 — 을 깊이 다룹니다.
 
-- [말레이시아의 항공우주 및 MRO 산업](/ko/industries/aerospace-industry/)
-- [자동차 산업](/ko/industries/automotive-industry/)
-- [전략 산업의 부미푸트라 지분 정책과 벤더 육성](/ko/industries/bumiputera-equity-vendor-policy/)
-- [말레이시아 건설 산업](/ko/industries/construction-industry/)
-- [말레이시아의 데이터센터 및 클라우드 인프라](/ko/industries/data-centre-cloud-industry/)
-- [말레이시아의 디지털 경제](/ko/industries/digital-economy-overview/)
-- [전기·전자(E&E) 산업](/ko/industries/electrical-electronics-industry/)
-- [말레이시아 할랄 인증 제도](/ko/industries/halal-certification-system/)
-- [할랄 산업과 말레이시아의 글로벌 할랄 허브 야망](/ko/industries/halal-industry-economy/)
-- [말레이시아의 물류·항만 산업](/ko/industries/logistics-ports-industry/)
+### 분야 전반 가이드
+
 - [E&E와 자동차를 넘어서는 제조업](/ko/industries/manufacturing-industry-overview/)
 - [신산업마스터플랜 2030(NIMP 2030)](/ko/industries/new-industrial-master-plan-2030/)
+- [말레이시아의 디지털 경제](/ko/industries/digital-economy-overview/)
+- [전략 산업의 부미푸트라 지분 정책과 벤더 육성](/ko/industries/bumiputera-equity-vendor-policy/)
+
+### 제조
+
+- [전기·전자(E&E) 산업](/ko/industries/electrical-electronics-industry/)
+- [말레이시아의 반도체 산업](/ko/industries/semiconductor-industry/)
+- [반도체 산업 & 국가반도체전략](/ko/industries/semiconductor-industry-national-strategy/)
+- [자동차 산업](/ko/industries/automotive-industry/)
+- [전기차(EV) 및 배터리 생태계](/ko/industries/electric-vehicle-battery-industry/)
+- [말레이시아의 항공우주 및 MRO 산업](/ko/industries/aerospace-industry/)
+- [화학 및 석유화학 산업](/ko/industries/chemicals-petrochemicals-industry/)
+- [제약 산업](/ko/industries/pharmaceutical-industry/)
+- [의료기기 산업](/ko/industries/medical-devices-industry/)
+- [기계 및 장비 산업](/ko/industries/machinery-equipment-industry/)
+- [식음료 제조 산업](/ko/industries/food-beverage-manufacturing-industry/)
+- [섬유, 의류 및 신발 산업](/ko/industries/textiles-apparel-industry/)
+- [철강 및 금속 산업](/ko/industries/iron-steel-metals-industry/)
+- [플라스틱 및 포장 산업](/ko/industries/plastics-packaging-industry/)
+- [가구 및 목제품 산업](/ko/industries/furniture-wood-products-industry/)
+- [조선 및 해양 산업](/ko/industries/shipbuilding-marine-industry/)
+- [말레이시아의 고무 산업](/ko/industries/rubber-industry/)
+
+### 서비스
+
+- [말레이시아 건설 산업](/ko/industries/construction-industry/)
+- [말레이시아의 물류·항만 산업](/ko/industries/logistics-ports-industry/)
+- [말레이시아의 데이터센터 및 클라우드 인프라](/ko/industries/data-centre-cloud-industry/)
+- [글로벌 비즈니스 서비스(GBS) 산업](/ko/industries/global-business-services-industry/)
+- [통신 산업](/ko/industries/telecommunications-industry/)
+- [석유·가스 서비스 및 장비(OGSE) 산업](/ko/industries/oil-gas-services-equipment-industry/)
+- [소매 및 도매업](/ko/industries/retail-wholesale-trade-industry/)
+- [미디어 및 방송 산업](/ko/industries/media-broadcasting-industry/)
+- [긱 및 플랫폼 경제](/ko/industries/gig-platform-economy-industry/)
+
+### 1차 및 채취 산업
+
 - [말레이시아의 석유·가스 산업](/ko/industries/oil-gas-industry/)
 - [말레이시아의 팜유 산업](/ko/industries/palm-oil-industry/)
 - [말레이시아의 팜유 지속가능성과 인증](/ko/industries/palm-oil-sustainability-certification/)
-- [말레이시아의 고무 산업](/ko/industries/rubber-industry/)
-- [말레이시아의 반도체 산업](/ko/industries/semiconductor-industry/)
-- [반도체 산업 & 국가반도체전략](/ko/industries/semiconductor-industry-national-strategy/)
+- [광물 및 광업 산업](/ko/industries/minerals-mining-industry/)
+- [임업 및 목재 산업](/ko/industries/forestry-timber-industry/)
+
+### 신흥 및 생명과학
+
+- [생명공학 및 생명과학 산업](/ko/industries/biotechnology-life-sciences-industry/)
+
+### 할랄 경제
+
+- [할랄 산업과 말레이시아의 글로벌 할랄 허브 야망](/ko/industries/halal-industry-economy/)
+- [말레이시아 할랄 인증 제도](/ko/industries/halal-certification-system/)
 
 ## 다음 단계
 

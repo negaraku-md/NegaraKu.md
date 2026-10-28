@@ -34,7 +34,7 @@ faq:
     a: "En 2024, los servicios atrajeron RM252.7 mil millones de inversión aprobada (el 66.8% del total) y la manufactura RM120.5 mil millones (31.8%), de un récord global de RM378.5 mil millones (MIDA)."
 
 lang: "es"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ Un mapa rápido de decisión:
 
 ## Explora este tema en profundidad
 
-Las guías clave de esta área:
+Las industrias de Malasia, cartografiadas según el lugar que ocupan en la economía. Cada guía profundiza en un sector: su tamaño, actores clave, regulador, incentivos y perspectivas.
 
-- [La industria aeroespacial y de MRO en Malasia](/es/industries/aerospace-industry/)
-- [La industria automotriz](/es/industries/automotive-industry/)
-- [Política de equidad bumiputera y desarrollo de proveedores en industrias estratégicas](/es/industries/bumiputera-equity-vendor-policy/)
-- [La industria de la construcción de Malasia](/es/industries/construction-industry/)
-- [Centros de datos e infraestructura en la nube en Malasia](/es/industries/data-centre-cloud-industry/)
-- [La economía digital de Malasia](/es/industries/digital-economy-overview/)
-- [La industria eléctrica y electrónica (E&E)](/es/industries/electrical-electronics-industry/)
-- [El sistema de certificación halal de Malasia](/es/industries/halal-certification-system/)
-- [La industria halal y la ambición de Malasia de ser el centro halal mundial](/es/industries/halal-industry-economy/)
-- [La industria de logística y puertos de Malasia](/es/industries/logistics-ports-industry/)
+### Guías transversales
+
 - [La manufactura más allá de la E&E y los automóviles](/es/industries/manufacturing-industry-overview/)
 - [Nuevo Plan Maestro Industrial 2030 (NIMP 2030)](/es/industries/new-industrial-master-plan-2030/)
+- [La economía digital de Malasia](/es/industries/digital-economy-overview/)
+- [Política de equidad bumiputera y desarrollo de proveedores en industrias estratégicas](/es/industries/bumiputera-equity-vendor-policy/)
+
+### Manufactura
+
+- [La industria eléctrica y electrónica (E&E)](/es/industries/electrical-electronics-industry/)
+- [La industria de semiconductores de Malasia](/es/industries/semiconductor-industry/)
+- [La industria de los semiconductores y la Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy/)
+- [La industria automotriz](/es/industries/automotive-industry/)
+- [El ecosistema de vehículos eléctricos (VE) y baterías](/es/industries/electric-vehicle-battery-industry/)
+- [La industria aeroespacial y de MRO en Malasia](/es/industries/aerospace-industry/)
+- [La industria química y petroquímica](/es/industries/chemicals-petrochemicals-industry/)
+- [La industria farmacéutica](/es/industries/pharmaceutical-industry/)
+- [La industria de dispositivos médicos](/es/industries/medical-devices-industry/)
+- [La industria de maquinaria y equipos](/es/industries/machinery-equipment-industry/)
+- [La industria de manufactura de alimentos y bebidas](/es/industries/food-beverage-manufacturing-industry/)
+- [La industria textil, de confección y calzado](/es/industries/textiles-apparel-industry/)
+- [La industria del hierro, el acero y los metales](/es/industries/iron-steel-metals-industry/)
+- [La industria del plástico y el envasado](/es/industries/plastics-packaging-industry/)
+- [La industria del mueble y los productos de madera](/es/industries/furniture-wood-products-industry/)
+- [La industria naval y marítima](/es/industries/shipbuilding-marine-industry/)
+- [La industria del caucho de Malasia](/es/industries/rubber-industry/)
+
+### Servicios
+
+- [La industria de la construcción de Malasia](/es/industries/construction-industry/)
+- [La industria de logística y puertos de Malasia](/es/industries/logistics-ports-industry/)
+- [Centros de datos e infraestructura en la nube en Malasia](/es/industries/data-centre-cloud-industry/)
+- [La industria de servicios empresariales globales (GBS)](/es/industries/global-business-services-industry/)
+- [La industria de las telecomunicaciones](/es/industries/telecommunications-industry/)
+- [La industria de servicios y equipos para petróleo y gas (OGSE)](/es/industries/oil-gas-services-equipment-industry/)
+- [La industria del comercio minorista y mayorista](/es/industries/retail-wholesale-trade-industry/)
+- [La industria de los medios y la radiodifusión](/es/industries/media-broadcasting-industry/)
+- [La economía de plataformas y trabajos esporádicos](/es/industries/gig-platform-economy-industry/)
+
+### Primario y extractivo
+
 - [La industria del petróleo y el gas en Malasia](/es/industries/oil-gas-industry/)
 - [La industria del aceite de palma de Malasia](/es/industries/palm-oil-industry/)
 - [Sostenibilidad y certificación del aceite de palma en Malasia](/es/industries/palm-oil-sustainability-certification/)
-- [La industria del caucho de Malasia](/es/industries/rubber-industry/)
-- [La industria de semiconductores de Malasia](/es/industries/semiconductor-industry/)
-- [La industria de los semiconductores y la Estrategia Nacional de Semiconductores](/es/industries/semiconductor-industry-national-strategy/)
+- [La industria de los minerales y la minería](/es/industries/minerals-mining-industry/)
+- [La industria forestal y de la madera](/es/industries/forestry-timber-industry/)
+
+### Emergentes y ciencias de la vida
+
+- [La industria de la biotecnología y las ciencias de la vida](/es/industries/biotechnology-life-sciences-industry/)
+
+### La economía halal
+
+- [La industria halal y la ambición de Malasia de ser el centro halal mundial](/es/industries/halal-industry-economy/)
+- [El sistema de certificación halal de Malasia](/es/industries/halal-certification-system/)
 
 ## Qué viene después
 

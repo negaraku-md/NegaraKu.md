@@ -34,7 +34,7 @@ faq:
     a: "2024 में, सेवाओं ने RM252.7 बिलियन स्वीकृत निवेश (कुल का 66.8%) और विनिर्माण ने RM120.5 बिलियन (31.8%) आकर्षित किया, कुल रिकॉर्ड RM378.5 बिलियन में से (MIDA)।"
 
 lang: "hi"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ E&E का प्रभुत्व वह कहानी है जिसे �
 
 ## इस विषय को विस्तार से जानें
 
-इस क्षेत्र की प्रमुख गाइड:
+मलेशिया के उद्योग, इस आधार पर मानचित्रित कि वे अर्थव्यवस्था में कहाँ बैठते हैं। प्रत्येक मार्गदर्शिका एक क्षेत्र पर गहराई से जाती है — उसका आकार, प्रमुख खिलाड़ी, नियामक, प्रोत्साहन और दृष्टिकोण।
 
-- [मलेशिया में एयरोस्पेस और MRO उद्योग](/hi/industries/aerospace-industry/)
-- [ऑटोमोटिव उद्योग](/hi/industries/automotive-industry/)
-- [रणनीतिक उद्योगों में बुमिपुत्र इक्विटी नीति और विक्रेता विकास](/hi/industries/bumiputera-equity-vendor-policy/)
-- [मलेशिया का निर्माण उद्योग](/hi/industries/construction-industry/)
-- [मलेशिया में डेटा सेंटर और क्लाउड अवसंरचना](/hi/industries/data-centre-cloud-industry/)
-- [मलेशिया की डिजिटल अर्थव्यवस्था](/hi/industries/digital-economy-overview/)
-- [विद्युत एवं इलेक्ट्रॉनिक्स (E&E) उद्योग](/hi/industries/electrical-electronics-industry/)
-- [मलेशिया की हलाल प्रमाणन प्रणाली](/hi/industries/halal-certification-system/)
-- [हलाल उद्योग और मलेशिया की वैश्विक हलाल केंद्र बनने की महत्वाकांक्षा](/hi/industries/halal-industry-economy/)
-- [मलेशिया का लॉजिस्टिक्स और बंदरगाह उद्योग](/hi/industries/logistics-ports-industry/)
+### अनुप्रस्थ (क्रॉस-कटिंग) मार्गदर्शिकाएँ
+
 - [E&E और ऑटो से परे विनिर्माण](/hi/industries/manufacturing-industry-overview/)
 - [New Industrial Master Plan 2030 (NIMP 2030)](/hi/industries/new-industrial-master-plan-2030/)
+- [मलेशिया की डिजिटल अर्थव्यवस्था](/hi/industries/digital-economy-overview/)
+- [रणनीतिक उद्योगों में बुमिपुत्र इक्विटी नीति और विक्रेता विकास](/hi/industries/bumiputera-equity-vendor-policy/)
+
+### विनिर्माण
+
+- [विद्युत एवं इलेक्ट्रॉनिक्स (E&E) उद्योग](/hi/industries/electrical-electronics-industry/)
+- [मलेशिया का सेमीकंडक्टर उद्योग](/hi/industries/semiconductor-industry/)
+- [अर्धचालक उद्योग और राष्ट्रीय अर्धचालक रणनीति](/hi/industries/semiconductor-industry-national-strategy/)
+- [ऑटोमोटिव उद्योग](/hi/industries/automotive-industry/)
+- [विद्युत वाहन (EV) और बैटरी पारिस्थितिकी तंत्र](/hi/industries/electric-vehicle-battery-industry/)
+- [मलेशिया में एयरोस्पेस और MRO उद्योग](/hi/industries/aerospace-industry/)
+- [रसायन और पेट्रोरसायन उद्योग](/hi/industries/chemicals-petrochemicals-industry/)
+- [फार्मास्युटिकल उद्योग](/hi/industries/pharmaceutical-industry/)
+- [चिकित्सा उपकरण उद्योग](/hi/industries/medical-devices-industry/)
+- [मशीनरी और उपकरण उद्योग](/hi/industries/machinery-equipment-industry/)
+- [खाद्य व पेय विनिर्माण उद्योग](/hi/industries/food-beverage-manufacturing-industry/)
+- [वस्त्र, परिधान और जूता-चप्पल उद्योग](/hi/industries/textiles-apparel-industry/)
+- [लोहा, इस्पात और धातु उद्योग](/hi/industries/iron-steel-metals-industry/)
+- [प्लास्टिक और पैकेजिंग उद्योग](/hi/industries/plastics-packaging-industry/)
+- [फर्नीचर और लकड़ी उत्पाद उद्योग](/hi/industries/furniture-wood-products-industry/)
+- [जहाज़-निर्माण और समुद्री उद्योग](/hi/industries/shipbuilding-marine-industry/)
+- [मलेशिया का रबर उद्योग](/hi/industries/rubber-industry/)
+
+### सेवाएँ
+
+- [मलेशिया का निर्माण उद्योग](/hi/industries/construction-industry/)
+- [मलेशिया का लॉजिस्टिक्स और बंदरगाह उद्योग](/hi/industries/logistics-ports-industry/)
+- [मलेशिया में डेटा सेंटर और क्लाउड अवसंरचना](/hi/industries/data-centre-cloud-industry/)
+- [ग्लोबल बिज़नेस सर्विसेज़ (GBS) उद्योग](/hi/industries/global-business-services-industry/)
+- [दूरसंचार उद्योग](/hi/industries/telecommunications-industry/)
+- [तेल व गैस सेवाएँ और उपकरण (OGSE) उद्योग](/hi/industries/oil-gas-services-equipment-industry/)
+- [खुदरा और थोक व्यापार उद्योग](/hi/industries/retail-wholesale-trade-industry/)
+- [मीडिया और प्रसारण उद्योग](/hi/industries/media-broadcasting-industry/)
+- [गिग और प्लेटफ़ॉर्म अर्थव्यवस्था](/hi/industries/gig-platform-economy-industry/)
+
+### प्राथमिक व निष्कर्षण
+
 - [मलेशिया में तेल और गैस उद्योग](/hi/industries/oil-gas-industry/)
 - [मलेशिया का पाम ऑयल उद्योग](/hi/industries/palm-oil-industry/)
 - [मलेशिया में पाम ऑयल स्थिरता और प्रमाणन](/hi/industries/palm-oil-sustainability-certification/)
-- [मलेशिया का रबर उद्योग](/hi/industries/rubber-industry/)
-- [मलेशिया का सेमीकंडक्टर उद्योग](/hi/industries/semiconductor-industry/)
-- [अर्धचालक उद्योग और राष्ट्रीय अर्धचालक रणनीति](/hi/industries/semiconductor-industry-national-strategy/)
+- [खनिज और खनन उद्योग](/hi/industries/minerals-mining-industry/)
+- [वानिकी और लकड़ी उद्योग](/hi/industries/forestry-timber-industry/)
+
+### उभरते क्षेत्र व जीवन विज्ञान
+
+- [जैव प्रौद्योगिकी और जीवन विज्ञान उद्योग](/hi/industries/biotechnology-life-sciences-industry/)
+
+### हलाल अर्थव्यवस्था
+
+- [हलाल उद्योग और मलेशिया की वैश्विक हलाल केंद्र बनने की महत्वाकांक्षा](/hi/industries/halal-industry-economy/)
+- [मलेशिया की हलाल प्रमाणन प्रणाली](/hi/industries/halal-certification-system/)
 
 ## आगे क्या
 

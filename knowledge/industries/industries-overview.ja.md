@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 
 status: "published"
 aiAssisted: true
@@ -188,26 +188,63 @@ E&Eの優位性こそ、心に留めておくべき物語である。それは�
 
 ## このトピックを詳しく見る
 
-この分野の主要ガイド:
+マレーシアの各産業を、経済におけるその位置づけで整理した地図。各ガイドは一つの分野を掘り下げ、その規模、主要企業、規制当局、インセンティブ、見通しを解説する。
 
-- [マレーシアの航空宇宙・MRO産業](/ja/industries/aerospace-industry/)
-- [自動車産業](/ja/industries/automotive-industry/)
-- [戦略産業におけるブミプトラ資本（株式保有）政策とベンダー育成](/ja/industries/bumiputera-equity-vendor-policy/)
-- [マレーシアの建設産業](/ja/industries/construction-industry/)
-- [マレーシアのデータセンター及びクラウドインフラ](/ja/industries/data-centre-cloud-industry/)
-- [マレーシアのデジタル経済](/ja/industries/digital-economy-overview/)
-- [電気・電子（E&E）産業](/ja/industries/electrical-electronics-industry/)
-- [マレーシアのハラル認証制度](/ja/industries/halal-certification-system/)
-- [ハラル産業とマレーシアのグローバル・ハラルハブへの野心](/ja/industries/halal-industry-economy/)
-- [マレーシアの物流・港湾産業](/ja/industries/logistics-ports-industry/)
+### 横断的ガイド
+
 - [電気・電子と自動車を超えた製造業](/ja/industries/manufacturing-industry-overview/)
 - [新産業マスタープラン2030（NIMP 2030）](/ja/industries/new-industrial-master-plan-2030/)
+- [マレーシアのデジタル経済](/ja/industries/digital-economy-overview/)
+- [戦略産業におけるブミプトラ資本（株式保有）政策とベンダー育成](/ja/industries/bumiputera-equity-vendor-policy/)
+
+### 製造業
+
+- [電気・電子（E&E）産業](/ja/industries/electrical-electronics-industry/)
+- [マレーシアの半導体産業](/ja/industries/semiconductor-industry/)
+- [半導体産業と国家半導体戦略](/ja/industries/semiconductor-industry-national-strategy/)
+- [自動車産業](/ja/industries/automotive-industry/)
+- [電気自動車（EV）・バッテリーエコシステム](/ja/industries/electric-vehicle-battery-industry/)
+- [マレーシアの航空宇宙・MRO産業](/ja/industries/aerospace-industry/)
+- [化学・石油化学産業](/ja/industries/chemicals-petrochemicals-industry/)
+- [製薬産業](/ja/industries/pharmaceutical-industry/)
+- [医療機器産業](/ja/industries/medical-devices-industry/)
+- [機械・設備産業](/ja/industries/machinery-equipment-industry/)
+- [食品・飲料製造業](/ja/industries/food-beverage-manufacturing-industry/)
+- [繊維・アパレル・履物産業](/ja/industries/textiles-apparel-industry/)
+- [鉄鋼・金属産業](/ja/industries/iron-steel-metals-industry/)
+- [プラスチック・包装産業](/ja/industries/plastics-packaging-industry/)
+- [家具・木製品産業](/ja/industries/furniture-wood-products-industry/)
+- [造船・海洋産業](/ja/industries/shipbuilding-marine-industry/)
+- [マレーシアのゴム産業](/ja/industries/rubber-industry/)
+
+### サービス業
+
+- [マレーシアの建設産業](/ja/industries/construction-industry/)
+- [マレーシアの物流・港湾産業](/ja/industries/logistics-ports-industry/)
+- [マレーシアのデータセンター及びクラウドインフラ](/ja/industries/data-centre-cloud-industry/)
+- [グローバルビジネスサービス（GBS）産業](/ja/industries/global-business-services-industry/)
+- [電気通信産業](/ja/industries/telecommunications-industry/)
+- [石油・ガスサービス・機器（OGSE）産業](/ja/industries/oil-gas-services-equipment-industry/)
+- [小売・卸売業](/ja/industries/retail-wholesale-trade-industry/)
+- [メディア・放送産業](/ja/industries/media-broadcasting-industry/)
+- [ギグ・プラットフォームエコノミー](/ja/industries/gig-platform-economy-industry/)
+
+### 一次産品・採取産業
+
 - [マレーシアの石油・ガス産業](/ja/industries/oil-gas-industry/)
 - [マレーシアのパーム油産業](/ja/industries/palm-oil-industry/)
 - [マレーシアにおけるパーム油の持続可能性と認証](/ja/industries/palm-oil-sustainability-certification/)
-- [マレーシアのゴム産業](/ja/industries/rubber-industry/)
-- [マレーシアの半導体産業](/ja/industries/semiconductor-industry/)
-- [半導体産業と国家半導体戦略](/ja/industries/semiconductor-industry-national-strategy/)
+- [鉱物・鉱業産業](/ja/industries/minerals-mining-industry/)
+- [林業・木材産業](/ja/industries/forestry-timber-industry/)
+
+### 新興分野・ライフサイエンス
+
+- [バイオテクノロジー・ライフサイエンス産業](/ja/industries/biotechnology-life-sciences-industry/)
+
+### ハラル経済
+
+- [ハラル産業とマレーシアのグローバル・ハラルハブへの野心](/ja/industries/halal-industry-economy/)
+- [マレーシアのハラル認証制度](/ja/industries/halal-certification-system/)
 
 ## 次のステップ
 

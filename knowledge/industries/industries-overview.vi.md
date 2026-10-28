@@ -34,7 +34,7 @@ faq:
     a: "Vào năm 2024, dịch vụ thu hút RM252.7 tỷ đầu tư được phê duyệt (66.8% tổng số) và chế tạo RM120.5 tỷ (31.8%), trong tổng số kỷ lục RM378.5 tỷ (MIDA)."
 
 lang: "vi"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ Một bản đồ quyết định nhanh:
 
 ## Tìm hiểu sâu về chủ đề này
 
-Các hướng dẫn chính trong lĩnh vực này:
+Các ngành công nghiệp của Malaysia, được lập bản đồ theo vị trí của chúng trong nền kinh tế. Mỗi hướng dẫn đi sâu vào một khu vực — quy mô, các doanh nghiệp chủ chốt, cơ quan quản lý, ưu đãi và triển vọng của nó.
 
-- [Ngành hàng không vũ trụ & MRO tại Malaysia](/vi/industries/aerospace-industry/)
-- [Ngành ô tô](/vi/industries/automotive-industry/)
-- [Chính sách vốn cổ phần Bumiputera và phát triển nhà cung cấp trong các ngành chiến lược](/vi/industries/bumiputera-equity-vendor-policy/)
-- [Ngành xây dựng Malaysia](/vi/industries/construction-industry/)
-- [Trung tâm dữ liệu & hạ tầng đám mây tại Malaysia](/vi/industries/data-centre-cloud-industry/)
-- [Kinh tế số của Malaysia](/vi/industries/digital-economy-overview/)
-- [Ngành điện & điện tử (E&E)](/vi/industries/electrical-electronics-industry/)
-- [Hệ thống Chứng nhận Halal Malaysia](/vi/industries/halal-certification-system/)
-- [Ngành công nghiệp Halal và tham vọng trở thành Trung tâm Halal Toàn cầu của Malaysia](/vi/industries/halal-industry-economy/)
-- [Ngành Logistics & Cảng biển của Malaysia](/vi/industries/logistics-ports-industry/)
+### Hướng dẫn xuyên suốt
+
 - [Chế tạo vượt ra ngoài E&E và Ô tô](/vi/industries/manufacturing-industry-overview/)
 - [Kế hoạch Tổng thể Công nghiệp Mới 2030 (NIMP 2030)](/vi/industries/new-industrial-master-plan-2030/)
+- [Kinh tế số của Malaysia](/vi/industries/digital-economy-overview/)
+- [Chính sách vốn cổ phần Bumiputera và phát triển nhà cung cấp trong các ngành chiến lược](/vi/industries/bumiputera-equity-vendor-policy/)
+
+### Chế tạo
+
+- [Ngành điện & điện tử (E&E)](/vi/industries/electrical-electronics-industry/)
+- [Ngành bán dẫn của Malaysia](/vi/industries/semiconductor-industry/)
+- [Ngành Bán dẫn & Chiến lược Bán dẫn Quốc gia](/vi/industries/semiconductor-industry-national-strategy/)
+- [Ngành ô tô](/vi/industries/automotive-industry/)
+- [Hệ sinh thái Xe điện (EV) & Pin](/vi/industries/electric-vehicle-battery-industry/)
+- [Ngành hàng không vũ trụ & MRO tại Malaysia](/vi/industries/aerospace-industry/)
+- [Ngành Hóa chất & Hóa dầu](/vi/industries/chemicals-petrochemicals-industry/)
+- [Ngành Dược phẩm](/vi/industries/pharmaceutical-industry/)
+- [Ngành Thiết bị Y tế](/vi/industries/medical-devices-industry/)
+- [Ngành Máy móc & Thiết bị](/vi/industries/machinery-equipment-industry/)
+- [Ngành Chế tạo Thực phẩm & Đồ uống](/vi/industries/food-beverage-manufacturing-industry/)
+- [Ngành Dệt may, May mặc & Giày dép](/vi/industries/textiles-apparel-industry/)
+- [Ngành Sắt, Thép & Kim loại](/vi/industries/iron-steel-metals-industry/)
+- [Ngành Nhựa & Bao bì](/vi/industries/plastics-packaging-industry/)
+- [Ngành Nội thất & Sản phẩm Gỗ](/vi/industries/furniture-wood-products-industry/)
+- [Ngành Đóng tàu & Hàng hải](/vi/industries/shipbuilding-marine-industry/)
+- [Ngành Cao su của Malaysia](/vi/industries/rubber-industry/)
+
+### Dịch vụ
+
+- [Ngành xây dựng Malaysia](/vi/industries/construction-industry/)
+- [Ngành Logistics & Cảng biển của Malaysia](/vi/industries/logistics-ports-industry/)
+- [Trung tâm dữ liệu & hạ tầng đám mây tại Malaysia](/vi/industries/data-centre-cloud-industry/)
+- [Ngành Dịch vụ Kinh doanh Toàn cầu (GBS)](/vi/industries/global-business-services-industry/)
+- [Ngành Viễn thông](/vi/industries/telecommunications-industry/)
+- [Ngành Dịch vụ & Thiết bị Dầu khí (OGSE)](/vi/industries/oil-gas-services-equipment-industry/)
+- [Ngành Thương mại Bán lẻ & Bán buôn](/vi/industries/retail-wholesale-trade-industry/)
+- [Ngành Truyền thông & Phát sóng](/vi/industries/media-broadcasting-industry/)
+- [Kinh tế Gig & Nền tảng](/vi/industries/gig-platform-economy-industry/)
+
+### Sơ cấp & khai thác
+
 - [Ngành Dầu khí tại Malaysia](/vi/industries/oil-gas-industry/)
 - [Ngành Dầu cọ của Malaysia](/vi/industries/palm-oil-industry/)
 - [Tính bền vững và Chứng nhận Dầu cọ tại Malaysia](/vi/industries/palm-oil-sustainability-certification/)
-- [Ngành Cao su của Malaysia](/vi/industries/rubber-industry/)
-- [Ngành bán dẫn của Malaysia](/vi/industries/semiconductor-industry/)
-- [Ngành Bán dẫn & Chiến lược Bán dẫn Quốc gia](/vi/industries/semiconductor-industry-national-strategy/)
+- [Ngành Khoáng sản & Khai khoáng](/vi/industries/minerals-mining-industry/)
+- [Ngành Lâm nghiệp & Gỗ](/vi/industries/forestry-timber-industry/)
+
+### Mới nổi & khoa học đời sống
+
+- [Ngành Công nghệ sinh học & Khoa học đời sống](/vi/industries/biotechnology-life-sciences-industry/)
+
+### Nền kinh tế Halal
+
+- [Ngành công nghiệp Halal và tham vọng trở thành Trung tâm Halal Toàn cầu của Malaysia](/vi/industries/halal-industry-economy/)
+- [Hệ thống Chứng nhận Halal Malaysia](/vi/industries/halal-certification-system/)
 
 ## Tiếp theo
 

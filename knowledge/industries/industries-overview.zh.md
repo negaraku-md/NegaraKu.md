@@ -34,7 +34,7 @@ faq:
     a: "2024年，服务业吸引了2527亿令吉获批投资（占总额的66.8%），制造业吸引了1205亿令吉（占31.8%），总额创下3785亿令吉的纪录（MIDA）。"
 
 lang: "zh"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ E&E的主导地位是需要深刻理解的核心。它将马来西亚的制造�
 
 ## 深入了解本主题
 
-本领域的重点指南：
+马来西亚的各产业，按其在经济中的位置绘制成图。每份指南都深入剖析一个领域——其规模、关键参与者、监管机构、激励措施与前景。
 
-- [马来西亚的航空航天与维修（MRO）产业](/zh/industries/aerospace-industry/)
-- [汽车工业](/zh/industries/automotive-industry/)
-- [战略产业中的土著股权政策与供应商发展](/zh/industries/bumiputera-equity-vendor-policy/)
-- [马来西亚建筑业](/zh/industries/construction-industry/)
-- [马来西亚的数据中心与云端基础设施](/zh/industries/data-centre-cloud-industry/)
-- [马来西亚的数字经济](/zh/industries/digital-economy-overview/)
-- [电气与电子（E&E）产业](/zh/industries/electrical-electronics-industry/)
-- [马来西亚清真认证体系](/zh/industries/halal-certification-system/)
-- [清真产业与马来西亚打造全球清真枢纽的雄心](/zh/industries/halal-industry-economy/)
-- [马来西亚物流与港口业](/zh/industries/logistics-ports-industry/)
+### 跨领域指南
+
 - [电子电气与汽车之外的制造业](/zh/industries/manufacturing-industry-overview/)
 - [2030 年新工业大蓝图（NIMP 2030）](/zh/industries/new-industrial-master-plan-2030/)
+- [马来西亚的数字经济](/zh/industries/digital-economy-overview/)
+- [战略产业中的土著股权政策与供应商发展](/zh/industries/bumiputera-equity-vendor-policy/)
+
+### 制造业
+
+- [电气与电子（E&E）产业](/zh/industries/electrical-electronics-industry/)
+- [马来西亚的半导体产业](/zh/industries/semiconductor-industry/)
+- [半导体产业与国家半导体战略](/zh/industries/semiconductor-industry-national-strategy/)
+- [汽车工业](/zh/industries/automotive-industry/)
+- [电动车（EV）与电池生态系统](/zh/industries/electric-vehicle-battery-industry/)
+- [马来西亚的航空航天与维修（MRO）产业](/zh/industries/aerospace-industry/)
+- [化学品与石化产业](/zh/industries/chemicals-petrochemicals-industry/)
+- [制药产业](/zh/industries/pharmaceutical-industry/)
+- [医疗器械产业](/zh/industries/medical-devices-industry/)
+- [机械与设备产业](/zh/industries/machinery-equipment-industry/)
+- [食品与饮料制造业](/zh/industries/food-beverage-manufacturing-industry/)
+- [纺织、服装与鞋类产业](/zh/industries/textiles-apparel-industry/)
+- [钢铁与金属产业](/zh/industries/iron-steel-metals-industry/)
+- [塑料与包装产业](/zh/industries/plastics-packaging-industry/)
+- [家具与木制品产业](/zh/industries/furniture-wood-products-industry/)
+- [造船与海事产业](/zh/industries/shipbuilding-marine-industry/)
+- [马来西亚的橡胶产业](/zh/industries/rubber-industry/)
+
+### 服务业
+
+- [马来西亚建筑业](/zh/industries/construction-industry/)
+- [马来西亚物流与港口业](/zh/industries/logistics-ports-industry/)
+- [马来西亚的数据中心与云端基础设施](/zh/industries/data-centre-cloud-industry/)
+- [全球商业服务（GBS）产业](/zh/industries/global-business-services-industry/)
+- [电信产业](/zh/industries/telecommunications-industry/)
+- [石油与天然气服务及设备（OGSE）产业](/zh/industries/oil-gas-services-equipment-industry/)
+- [零售与批发贸易业](/zh/industries/retail-wholesale-trade-industry/)
+- [媒体与广播产业](/zh/industries/media-broadcasting-industry/)
+- [零工与平台经济](/zh/industries/gig-platform-economy-industry/)
+
+### 初级与采掘产业
+
 - [马来西亚的石油与天然气产业](/zh/industries/oil-gas-industry/)
 - [马来西亚棕榈油产业](/zh/industries/palm-oil-industry/)
 - [马来西亚棕榈油可持续性与认证](/zh/industries/palm-oil-sustainability-certification/)
-- [马来西亚的橡胶产业](/zh/industries/rubber-industry/)
-- [马来西亚的半导体产业](/zh/industries/semiconductor-industry/)
-- [半导体产业与国家半导体战略](/zh/industries/semiconductor-industry-national-strategy/)
+- [矿产与采矿产业](/zh/industries/minerals-mining-industry/)
+- [林业与木材产业](/zh/industries/forestry-timber-industry/)
+
+### 新兴与生命科学
+
+- [生物技术与生命科学产业](/zh/industries/biotechnology-life-sciences-industry/)
+
+### 清真经济
+
+- [清真产业与马来西亚打造全球清真枢纽的雄心](/zh/industries/halal-industry-economy/)
+- [马来西亚清真认证体系](/zh/industries/halal-certification-system/)
 
 ## 接下来
 

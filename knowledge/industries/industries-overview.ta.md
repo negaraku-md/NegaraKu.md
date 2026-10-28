@@ -34,7 +34,7 @@ faq:
     a: "2024-ல், சேவைகள் RM252.7 பில்லியன் அங்கீகரிக்கப்பட்ட முதலீட்டை (மொத்தத்தில் 66.8%) ஈர்த்தன, மேலும் உற்பத்தி RM120.5 பில்லியன் (31.8%), ஒட்டுமொத்தமாக சாதனையளவிலான RM378.5 பில்லியனில் இருந்து (MIDA)."
 
 lang: "ta"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ E&E-யின் ஆதிக்கமே உள்வாங்க வேண்�
 
 ## இந்தத் தலைப்பை ஆழமாக ஆராயுங்கள்
 
-இந்தத் துறையின் முக்கிய வழிகாட்டிகள்:
+மலேசியாவின் தொழில்கள், அவை பொருளாதாரத்தில் எங்கு அமைந்துள்ளன என்பதன் அடிப்படையில் வரைபடமாக்கப்பட்டவை. ஒவ்வொரு வழிகாட்டியும் ஒரு துறையை ஆழமாக ஆராய்கிறது — அதன் அளவு, முக்கிய வீரர்கள், ஒழுங்குமுறையாளர், சலுகைகள் மற்றும் எதிர்காலப் பார்வை.
 
-- [மலேசியாவின் விண்வெளி (Aerospace) மற்றும் MRO தொழில்](/ta/industries/aerospace-industry/)
-- [வாகனத் தொழில்](/ta/industries/automotive-industry/)
-- [மூலோபாய தொழில்களில் பூமிபுத்ரா ஈக்விட்டி கொள்கை மற்றும் விற்பனையாளர் மேம்பாடு](/ta/industries/bumiputera-equity-vendor-policy/)
-- [மலேசியாவின் கட்டுமானத் தொழில்](/ta/industries/construction-industry/)
-- [மலேசியாவில் தரவு மையங்கள் & கிளவுட் உள்கட்டமைப்பு](/ta/industries/data-centre-cloud-industry/)
-- [மலேசியாவின் டிஜிட்டல் பொருளாதாரம்](/ta/industries/digital-economy-overview/)
-- [மின்சார & மின்னணு (E&E) தொழில்](/ta/industries/electrical-electronics-industry/)
-- [மலேசியாவின் ஹலால் சான்றிதழ் அமைப்பு](/ta/industries/halal-certification-system/)
-- [ஹலால் தொழில் மற்றும் உலகளாவிய ஹலால் மையமாக மாற மலேசியாவின் இலக்கு](/ta/industries/halal-industry-economy/)
-- [மலேசியாவின் தளவாடம் & துறைமுகத் தொழில்](/ta/industries/logistics-ports-industry/)
+### குறுக்குவெட்டு வழிகாட்டிகள்
+
 - [E&E மற்றும் கார்களுக்கு அப்பாலான உற்பத்தித் துறை](/ta/industries/manufacturing-industry-overview/)
 - [புதிய தொழில்துறை மாஸ்டர் திட்டம் 2030 (New Industrial Master Plan, NIMP 2030)](/ta/industries/new-industrial-master-plan-2030/)
+- [மலேசியாவின் டிஜிட்டல் பொருளாதாரம்](/ta/industries/digital-economy-overview/)
+- [மூலோபாய தொழில்களில் பூமிபுத்ரா ஈக்விட்டி கொள்கை மற்றும் விற்பனையாளர் மேம்பாடு](/ta/industries/bumiputera-equity-vendor-policy/)
+
+### உற்பத்தி
+
+- [மின்சார & மின்னணு (E&E) தொழில்](/ta/industries/electrical-electronics-industry/)
+- [மலேசியாவின் குறைக்கடத்தித் தொழில்](/ta/industries/semiconductor-industry/)
+- [குறைக்கடத்தித் தொழில் & National Semiconductor Strategy](/ta/industries/semiconductor-industry-national-strategy/)
+- [வாகனத் தொழில்](/ta/industries/automotive-industry/)
+- [மின்சார வாகனம் (EV) & பேட்டரி சூழலமைப்பு](/ta/industries/electric-vehicle-battery-industry/)
+- [மலேசியாவின் விண்வெளி (Aerospace) மற்றும் MRO தொழில்](/ta/industries/aerospace-industry/)
+- [இரசாயனங்கள் & பெட்ரோ இரசாயனத் தொழில்](/ta/industries/chemicals-petrochemicals-industry/)
+- [மருந்துத் தொழில்](/ta/industries/pharmaceutical-industry/)
+- [மருத்துவ சாதனங்கள் தொழில்](/ta/industries/medical-devices-industry/)
+- [இயந்திரங்கள் & உபகரணத் தொழில்](/ta/industries/machinery-equipment-industry/)
+- [உணவு & பானம் உற்பத்தித் தொழில்](/ta/industries/food-beverage-manufacturing-industry/)
+- [ஜவுளி, ஆடை & காலணித் தொழில்](/ta/industries/textiles-apparel-industry/)
+- [இரும்பு, எஃகு & உலோகத் தொழில்](/ta/industries/iron-steel-metals-industry/)
+- [பிளாஸ்டிக் & பேக்கேஜிங் தொழில்](/ta/industries/plastics-packaging-industry/)
+- [தளபாடம் & மரப் பொருட்கள் தொழில்](/ta/industries/furniture-wood-products-industry/)
+- [கப்பல் கட்டுதல் & கடல்சார் தொழில்](/ta/industries/shipbuilding-marine-industry/)
+- [மலேசியாவின் ரப்பர் தொழில்](/ta/industries/rubber-industry/)
+
+### சேவைகள்
+
+- [மலேசியாவின் கட்டுமானத் தொழில்](/ta/industries/construction-industry/)
+- [மலேசியாவின் தளவாடம் & துறைமுகத் தொழில்](/ta/industries/logistics-ports-industry/)
+- [மலேசியாவில் தரவு மையங்கள் & கிளவுட் உள்கட்டமைப்பு](/ta/industries/data-centre-cloud-industry/)
+- [உலகளாவிய வணிக சேவைகள் (GBS) தொழில்](/ta/industries/global-business-services-industry/)
+- [தொலைத்தொடர்புத் தொழில்](/ta/industries/telecommunications-industry/)
+- [எண்ணெய் & எரிவாயு சேவைகள் & உபகரணங்கள் (OGSE) தொழில்](/ta/industries/oil-gas-services-equipment-industry/)
+- [சில்லறை & மொத்த வர்த்தகத் தொழில்](/ta/industries/retail-wholesale-trade-industry/)
+- [ஊடகம் & ஒளிபரப்புத் தொழில்](/ta/industries/media-broadcasting-industry/)
+- [கிக் & தளப் பொருளாதாரம்](/ta/industries/gig-platform-economy-industry/)
+
+### முதன்மை & பிரித்தெடுப்புத் துறைகள்
+
 - [மலேசியாவில் எண்ணெய் மற்றும் எரிவாயுத் தொழில்](/ta/industries/oil-gas-industry/)
 - [மலேசியாவின் பாமாயில் தொழில்துறை](/ta/industries/palm-oil-industry/)
 - [மலேசியாவில் பாமாயில் நிலைத்தன்மை மற்றும் சான்றளிப்பு](/ta/industries/palm-oil-sustainability-certification/)
-- [மலேசியாவின் ரப்பர் தொழில்](/ta/industries/rubber-industry/)
-- [மலேசியாவின் குறைக்கடத்தித் தொழில்](/ta/industries/semiconductor-industry/)
-- [குறைக்கடத்தித் தொழில் & National Semiconductor Strategy](/ta/industries/semiconductor-industry-national-strategy/)
+- [கனிமங்கள் & சுரங்கத் தொழில்](/ta/industries/minerals-mining-industry/)
+- [வனவியல் & மரத் தொழில்](/ta/industries/forestry-timber-industry/)
+
+### வளர்ந்து வரும் & உயிர் அறிவியல்
+
+- [உயிரி தொழில்நுட்பம் & உயிர் அறிவியல் தொழில்](/ta/industries/biotechnology-life-sciences-industry/)
+
+### ஹலால் பொருளாதாரம்
+
+- [ஹலால் தொழில் மற்றும் உலகளாவிய ஹலால் மையமாக மாற மலேசியாவின் இலக்கு](/ta/industries/halal-industry-economy/)
+- [மலேசியாவின் ஹலால் சான்றிதழ் அமைப்பு](/ta/industries/halal-certification-system/)
 
 ## அடுத்து என்ன
 

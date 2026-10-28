@@ -34,7 +34,7 @@ faq:
     a: "Pada 2024, jasa menarik RM252.7 miliar investasi yang disetujui (66.8% dari jumlah keseluruhan) dan manufaktur RM120.5 miliar (31.8%), dari rekor RM378.5 miliar secara keseluruhan (MIDA)."
 
 lang: "id"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ Peta keputusan cepat:
 
 ## Jelajahi topik ini lebih dalam
 
-Panduan utama di bidang ini:
+Industri-industri Malaysia, dipetakan berdasarkan posisinya dalam ekonomi. Setiap panduan menyelami satu sektor secara mendalam — ukurannya, pemain utama, regulator, insentif dan prospeknya.
 
-- [Industri Kedirgantaraan & MRO di Malaysia](/id/industries/aerospace-industry/)
-- [Industri Otomotif](/id/industries/automotive-industry/)
-- [Kebijakan Ekuitas Bumiputera dan Pembangunan Vendor dalam Industri Strategis](/id/industries/bumiputera-equity-vendor-policy/)
-- [Industri Konstruksi Malaysia](/id/industries/construction-industry/)
-- [Pusat Data & Infrastruktur Awan di Malaysia](/id/industries/data-centre-cloud-industry/)
-- [Ekonomi Digital Malaysia](/id/industries/digital-economy-overview/)
-- [Industri Listrik & Elektronik (E&E)](/id/industries/electrical-electronics-industry/)
-- [Sistem Sertifikasi Halal Malaysia](/id/industries/halal-certification-system/)
-- [Industri Halal dan Cita-cita Malaysia Menjadi Hub Halal Global](/id/industries/halal-industry-economy/)
-- [Industri Logistik & Pelabuhan Malaysia](/id/industries/logistics-ports-industry/)
+### Panduan lintas-sektor
+
 - [Manufaktur Melampaui E&E dan Otomotif](/id/industries/manufacturing-industry-overview/)
 - [Rencana Induk Perindustrian Baru 2030 (NIMP 2030)](/id/industries/new-industrial-master-plan-2030/)
+- [Ekonomi Digital Malaysia](/id/industries/digital-economy-overview/)
+- [Kebijakan Ekuitas Bumiputera dan Pembangunan Vendor dalam Industri Strategis](/id/industries/bumiputera-equity-vendor-policy/)
+
+### Manufaktur
+
+- [Industri Listrik & Elektronik (E&E)](/id/industries/electrical-electronics-industry/)
+- [Industri Semikonduktor Malaysia](/id/industries/semiconductor-industry/)
+- [Industri Semikonduktor & Strategi Semikonduktor Nasional](/id/industries/semiconductor-industry-national-strategy/)
+- [Industri Otomotif](/id/industries/automotive-industry/)
+- [Ekosistem Kendaraan Listrik (EV) & Baterai](/id/industries/electric-vehicle-battery-industry/)
+- [Industri Kedirgantaraan & MRO di Malaysia](/id/industries/aerospace-industry/)
+- [Industri Bahan Kimia & Petrokimia](/id/industries/chemicals-petrochemicals-industry/)
+- [Industri Farmasi](/id/industries/pharmaceutical-industry/)
+- [Industri Alat Kesehatan](/id/industries/medical-devices-industry/)
+- [Industri Mesin & Peralatan](/id/industries/machinery-equipment-industry/)
+- [Industri Manufaktur Makanan & Minuman](/id/industries/food-beverage-manufacturing-industry/)
+- [Industri Tekstil, Pakaian & Alas Kaki](/id/industries/textiles-apparel-industry/)
+- [Industri Besi, Baja & Logam](/id/industries/iron-steel-metals-industry/)
+- [Industri Plastik & Pengemasan](/id/industries/plastics-packaging-industry/)
+- [Industri Furnitur & Produk Kayu](/id/industries/furniture-wood-products-industry/)
+- [Industri Pembuatan Kapal & Kemaritiman](/id/industries/shipbuilding-marine-industry/)
+- [Industri Karet Malaysia](/id/industries/rubber-industry/)
+
+### Jasa
+
+- [Industri Konstruksi Malaysia](/id/industries/construction-industry/)
+- [Industri Logistik & Pelabuhan Malaysia](/id/industries/logistics-ports-industry/)
+- [Pusat Data & Infrastruktur Awan di Malaysia](/id/industries/data-centre-cloud-industry/)
+- [Industri Layanan Bisnis Global (GBS)](/id/industries/global-business-services-industry/)
+- [Industri Telekomunikasi](/id/industries/telecommunications-industry/)
+- [Industri Jasa & Peralatan Minyak & Gas (OGSE)](/id/industries/oil-gas-services-equipment-industry/)
+- [Industri Perdagangan Ritel & Grosir](/id/industries/retail-wholesale-trade-industry/)
+- [Industri Media & Penyiaran](/id/industries/media-broadcasting-industry/)
+- [Ekonomi Gig & Platform](/id/industries/gig-platform-economy-industry/)
+
+### Primer & ekstraktif
+
 - [Industri Minyak & Gas di Malaysia](/id/industries/oil-gas-industry/)
 - [Industri Minyak Sawit Malaysia](/id/industries/palm-oil-industry/)
 - [Keberlanjutan dan Sertifikasi Minyak Sawit di Malaysia](/id/industries/palm-oil-sustainability-certification/)
-- [Industri Karet Malaysia](/id/industries/rubber-industry/)
-- [Industri Semikonduktor Malaysia](/id/industries/semiconductor-industry/)
-- [Industri Semikonduktor & Strategi Semikonduktor Nasional](/id/industries/semiconductor-industry-national-strategy/)
+- [Industri Mineral & Pertambangan](/id/industries/minerals-mining-industry/)
+- [Industri Kehutanan & Kayu](/id/industries/forestry-timber-industry/)
+
+### Bangkit & ilmu hayati
+
+- [Industri Bioteknologi & Ilmu Hayati](/id/industries/biotechnology-life-sciences-industry/)
+
+### Ekonomi halal
+
+- [Industri Halal dan Cita-cita Malaysia Menjadi Hub Halal Global](/id/industries/halal-industry-economy/)
+- [Sistem Sertifikasi Halal Malaysia](/id/industries/halal-certification-system/)
 
 ## Apa selanjutnya
 

@@ -34,7 +34,7 @@ faq:
     a: "Pada 2024, perkhidmatan menarik RM252.7 bilion pelaburan diluluskan (66.8% daripada jumlah keseluruhan) dan pembuatan RM120.5 bilion (31.8%), daripada rekod RM378.5 bilion secara keseluruhan (MIDA)."
 
 lang: "ms"
-sourceContentHash: "f17027d368c200a7"
+sourceContentHash: "12c6500a90743553"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -188,26 +188,63 @@ Peta keputusan pantas:
 
 ## Terokai topik ini dengan lebih mendalam
 
-Panduan utama dalam bidang ini:
+Industri Malaysia, dipetakan mengikut kedudukannya dalam ekonomi. Setiap panduan menyelami satu sektor secara mendalam — saiznya, pemain utama, pengawal selia, insentif dan tinjauan masa depan.
 
-- [Industri Aeroangkasa & MRO di Malaysia](/industries/aerospace-industry/)
-- [Industri Automotif](/industries/automotive-industry/)
-- [Dasar Ekuiti Bumiputera dan Pembangunan Vendor dalam Industri Strategik](/industries/bumiputera-equity-vendor-policy/)
-- [Industri Pembinaan Malaysia](/industries/construction-industry/)
-- [Pusat Data & Infrastruktur Awan di Malaysia](/industries/data-centre-cloud-industry/)
-- [Ekonomi Digital Malaysia](/industries/digital-economy-overview/)
-- [Industri Elektrik & Elektronik (E&E)](/industries/electrical-electronics-industry/)
-- [Sistem Pensijilan Halal Malaysia](/industries/halal-certification-system/)
-- [Industri Halal dan Cita-cita Malaysia Menjadi Hab Halal Global](/industries/halal-industry-economy/)
-- [Industri Logistik & Pelabuhan Malaysia](/industries/logistics-ports-industry/)
+### Panduan merentas bidang
+
 - [Pembuatan Melangkaui E&E dan Automotif](/industries/manufacturing-industry-overview/)
 - [Pelan Induk Perindustrian Baharu 2030 (NIMP 2030)](/industries/new-industrial-master-plan-2030/)
-- [Industri Minyak & Gas di Malaysia](/industries/oil-gas-industry/)
-- [Industri Minyak Sawit Malaysia](/industries/palm-oil-industry/)
-- [Kelestarian dan Persijilan Minyak Sawit di Malaysia](/industries/palm-oil-sustainability-certification/)
-- [Industri Getah Malaysia](/industries/rubber-industry/)
+- [Ekonomi Digital Malaysia](/industries/digital-economy-overview/)
+- [Dasar Ekuiti Bumiputera dan Pembangunan Vendor dalam Industri Strategik](/industries/bumiputera-equity-vendor-policy/)
+
+### Pembuatan
+
+- [Industri Elektrik & Elektronik (E&E)](/industries/electrical-electronics-industry/)
 - [Industri Semikonduktor Malaysia](/industries/semiconductor-industry/)
 - [Industri Semikonduktor & Strategi Semikonduktor Kebangsaan](/industries/semiconductor-industry-national-strategy/)
+- [Industri Automotif](/industries/automotive-industry/)
+- [Ekosistem Kenderaan Elektrik (EV) & Bateri](/industries/electric-vehicle-battery-industry/)
+- [Industri Aeroangkasa & MRO di Malaysia](/industries/aerospace-industry/)
+- [Industri Bahan Kimia & Petrokimia](/industries/chemicals-petrochemicals-industry/)
+- [Industri Farmaseutikal](/industries/pharmaceutical-industry/)
+- [Industri Peranti Perubatan](/industries/medical-devices-industry/)
+- [Industri Jentera & Peralatan](/industries/machinery-equipment-industry/)
+- [Industri Pembuatan Makanan & Minuman](/industries/food-beverage-manufacturing-industry/)
+- [Industri Tekstil, Pakaian & Alas Kaki](/industries/textiles-apparel-industry/)
+- [Industri Besi, Keluli & Logam](/industries/iron-steel-metals-industry/)
+- [Industri Plastik & Pembungkusan](/industries/plastics-packaging-industry/)
+- [Industri Perabot & Produk Kayu](/industries/furniture-wood-products-industry/)
+- [Industri Pembinaan Kapal & Maritim](/industries/shipbuilding-marine-industry/)
+- [Industri Getah Malaysia](/industries/rubber-industry/)
+
+### Perkhidmatan
+
+- [Industri Pembinaan Malaysia](/industries/construction-industry/)
+- [Industri Logistik & Pelabuhan Malaysia](/industries/logistics-ports-industry/)
+- [Pusat Data & Infrastruktur Awan di Malaysia](/industries/data-centre-cloud-industry/)
+- [Industri Perkhidmatan Perniagaan Global (GBS)](/industries/global-business-services-industry/)
+- [Industri Telekomunikasi](/industries/telecommunications-industry/)
+- [Industri Perkhidmatan & Peralatan Minyak & Gas (OGSE)](/industries/oil-gas-services-equipment-industry/)
+- [Industri Perdagangan Runcit & Borong](/industries/retail-wholesale-trade-industry/)
+- [Industri Media & Penyiaran](/industries/media-broadcasting-industry/)
+- [Ekonomi Gig & Platform](/industries/gig-platform-economy-industry/)
+
+### Primer & ekstraktif
+
+- [Industri Minyak & Gas di Malaysia](/industries/oil-gas-industry/)
+- [Industri Minyak Sawit Malaysia](/industries/palm-oil-industry/)
+- [Kelestarian dan Pensijilan Minyak Sawit di Malaysia](/industries/palm-oil-sustainability-certification/)
+- [Industri Mineral & Perlombongan](/industries/minerals-mining-industry/)
+- [Industri Perhutanan & Kayu Balak](/industries/forestry-timber-industry/)
+
+### Baru muncul & sains hayat
+
+- [Industri Bioteknologi & Sains Hayat](/industries/biotechnology-life-sciences-industry/)
+
+### Ekonomi halal
+
+- [Industri Halal dan Cita-cita Malaysia Menjadi Hab Halal Global](/industries/halal-industry-economy/)
+- [Sistem Pensijilan Halal Malaysia](/industries/halal-certification-system/)
 
 ## Apa seterusnya
 
