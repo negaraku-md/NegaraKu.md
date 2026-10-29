@@ -163,6 +163,4 @@ Growth is not guaranteed. The sector faces several structural pressures:
 
 The direction of travel is clear: Malaysia intends to farm a larger share of its fish, consolidate farmers into managed zones, and climb toward higher-value, better-certified products for both export and domestic tables. Whether it hits the 60:40 aquaculture-to-capture ambition depends less on ponds and cages than on controlling disease, taming feed costs and making sustainability credible to buyers. The raw potential — a long coastline, year-round warmth and strong regional demand — is not in doubt; execution is the variable to watch.
 
-*This is an AI-assisted draft and has not yet been reviewed by a subject-matter expert. Aquaculture figures shift with each DOF annual release and some totals differ by whether seaweed and ornamental fish are counted; treat the numbers here as a 2023–24 snapshot and verify against the latest DOF statistics before relying on them.*
-
 See the full guide: [Malaysia's Key Industries](/en/industries/industries-overview/).
