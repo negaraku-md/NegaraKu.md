@@ -33,9 +33,11 @@ _Created 2026-10-29. Prioritised by ROI for NegaraKu.md (13-language, AI-friendl
 - **Lever 2 (later, optional):** cite `negaraku.md` in the *references* section of relevant Malaysia Wikipedia articles where it is a genuinely reliable source (WP:RS), done sparingly by a neutral editor, never as self-promo.
 - Status: Lever 1 DONE (paused); Lever 2 TODO.
 
-### T4 — Verify Google Dataset Search presence
-- `Dataset` JSON-LD is already emitted, so confirm the corpus / HF dataset actually surfaces in Google Dataset Search and the node is complete (license, distribution/DataDownload). Near-zero effort.
-- Status: TODO.
+### T4 — Google Dataset Search presence (DONE)
+- Audited the emitted `Dataset` node: name, description (13-lang), url, inLanguage, license (CC-BY-SA-4.0), isAccessibleForFree, keywords, creator/publisher, sameAs (HF), and 3 `DataDownload` distributions (articles.json, llms-full.txt, HF jsonl) — all present and all distribution URLs resolve (200).
+- **Enriched 2026-10-29** with the two recommended properties it lacked: `spatialCoverage` (Place "Malaysia" + Wikidata Q833 + GeoShape bounding box, so Dataset Search can filter by place) and `dateModified` (latest commit date via `getGitInfo()`, regenerated every build — a real freshness signal). `src/lib/seo.ts`, commit `832a46077` (held for push).
+- Discovery itself is passive: once the enriched node is live + recrawled, confirm the corpus surfaces at datasetsearch.research.google.com (search "NegaraKu" / "Malaysia knowledge base") — no submission step exists; it is crawl-driven.
+- Status: DONE (verify surfacing after the next deploy is indexed).
 
 ### T5 (optional) — Yandex Webmaster
 - Already IndexNow-pinged; console adds minor index-coverage diagnostics + Turkic/CIS/ar reach. Verify-only (meta tag, same mechanism as Naver). Low value for the current audience.
