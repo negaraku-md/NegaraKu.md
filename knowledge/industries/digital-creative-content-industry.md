@@ -38,7 +38,7 @@ lang: en
 masterLanguage: en
 translationStatus: master
 
-status: draft
+status: in-review
 reviewed: null
 aiAssisted: true
 reviewer: null
