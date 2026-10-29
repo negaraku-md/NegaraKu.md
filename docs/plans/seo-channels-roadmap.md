@@ -18,14 +18,14 @@ _Created 2026-10-29. Prioritised by ROI for NegaraKu.md (13-language, AI-friendl
 - **Register:** the apex `https://negaraku.md` (matches canonical + sitemap), not www.
 - **Steps:** account → register site → meta-tag verify (AI adds tag on the verification code) → submit `https://negaraku.md/sitemap-index.xml` → optional URL-collection requests for priority /ko pages.
 - **AI-doable:** add the verification meta tag + confirm sitemap URL. **User-side:** Naver account (may need phone verification), site registration, clicking verify, sitemap submission.
-- Status: **IN PROGRESS** (awaiting Naver verification code from user).
+- Status: **DONE & LIVE 2026-10-29** — verified (HTML-tag meta, commit 750ff94bb) + sitemap-index.xml submitted.
 
 ### T2 — Reciprocal backlinks from owned properties (HIGHEST authority ROI)
 - Dofollow links **1company.com → negaraku.md** and **syarikat.ai → negaraku.md** (footer / resources / about). Directly addresses Bing's "lacks inbound links from high-quality domains" + the crawl-authority gap. Fully in your control.
 - **AI-doable:** draft the link blocks/anchor text + placement plan. **User-side:** add to those sites.
 - Status: TODO.
 
-### T3 — Wikipedia citations
+### T3 — Wikipedia/Wikidata presence (IN PROGRESS)
 - Add `negaraku.md` as a citation/external link on relevant Malaysia Wikipedia articles (build on existing Wikidata QIDs). Referral traffic + E-E-A-T authority signal that lifts all engines.
 - **AI-doable:** draft a prioritised target list (articles × which NegaraKu page is a valid citation). **User-side:** make the edits (needs a Wikipedia account; follow WP:RS / no self-promo norms).
 - Status: TODO.
