@@ -526,6 +526,13 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
+      // Split the sitemap into multiple files. A single sitemap-0.xml had grown to
+      // ~22k URLs / ~33 MB, which crawlers under-read: Bing Webmaster Tools reported
+      // "important pages missing in sitemaps" for URLs that were in fact present
+      // (verified 2026-10-29). entryLimit caps URLs per file so the index fans out to
+      // sitemap-0..N.xml (~a few MB each) — reliably parsed, well under the 50k/50MB
+      // sitemaps.org limit. Purely a packaging change; every URL stays listed.
+      entryLimit: 5000,
       // ms/en/zh/ta/ja/ko/th/vi/id are all fully launched (in LOCALES, indexed, in this
       // sitemap). Indonesian (`id`) opened 2026-10-04 (Phase 3): the soft-launch filter that
       // held /id out of the sitemap was removed and id added to LOCALES + the locales map.
