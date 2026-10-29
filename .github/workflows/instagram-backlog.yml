@@ -1,0 +1,80 @@
+name: Post backlog to Instagram
+
+# Drains the published corpus to the per-language Instagram Business accounts as
+# native OG-card feed posts (scripts/post-backlog-to-instagram.mjs, queue mode).
+# Reuses the Facebook queue's demand ranking + warm-up ramp; Instagram tracks its
+# own posted-manifest (analytics/posted-ig.json). Committing that file does NOT
+# trigger a deploy (deploy.yml ignores analytics/**).
+#
+# ⏸ GO-LIVE IS PAUSED (built, dry-run verified). Before the automatic drip can run:
+#   1. App Review / Advanced Access for `instagram_content_publish` on the
+#      "NegaraKu.md Poster" app (per-app; covers all language accounts).
+#   2. The system-user token (FB_PAGE_ACCESS_TOKEN) must carry the IG scopes.
+#   3. OG cards must be served as JPEG (IG rejects PNG on container-create) — set
+#      IG_IMAGE_URL_TEMPLATE or emit .jpg from the OG pipeline.
+#   4. Create the en/zh/ta IG accounts (user) + connect each to its Page (ms is live).
+# When ready, mirror facebook-backlog.yml: add the Cloudflare Worker trigger
+# (repository_dispatch type ig-backlog with client_payload.window) and flip the
+# manual dry_run default to false. Until then, only manual dry-run dispatch runs.
+on:
+  repository_dispatch:
+    types: [ig-backlog]
+  workflow_dispatch:
+    inputs:
+      files:
+        description: 'Space-separated knowledge/*.md paths (blank = next ranked queue batch)'
+        required: false
+      only_langs:
+        description: 'Restrict to these languages, comma-separated (e.g. "ms"). Blank = all enabled.'
+        required: false
+      dry_run:
+        description: 'Dry run — log what would be posted, do NOT call the Instagram API'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-backlog
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Post backlog to Instagram
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          SITE_URL: https://negaraku.md
+          IG_BACKLOG_QUEUE: '1'
+          IG_SCHEDULED: ${{ (github.event_name == 'repository_dispatch' || github.event_name == 'schedule') && '1' || '' }}
+          IG_WINDOW: ${{ github.event.client_payload.window }}
+          # Dry run by default on manual dispatch (go-live paused); also honours a
+          # repository_dispatch client_payload.dry_run so the trigger path can be tested.
+          IG_DRY_RUN: ${{ (github.event.inputs.dry_run != 'false' || github.event.client_payload.dry_run) && '1' || '' }}
+          IG_ONLY_LANGS: ${{ github.event.inputs.only_langs }}
+          IG_IMAGE_URL_TEMPLATE: ${{ vars.IG_IMAGE_URL_TEMPLATE }}
+        run: node scripts/post-backlog-to-instagram.mjs ${{ github.event.inputs.files }}
+
+      - name: Commit the posted-manifest if it changed
+        if: ${{ always() && github.event.inputs.dry_run == 'false' }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add analytics/posted-ig.json 2>/dev/null || true
+          if git diff --cached --quiet -- analytics/posted-ig.json; then
+            echo "manifest unchanged — nothing to commit"
+          else
+            git commit -m "chore(ig): advance backlog posted-manifest [skip deploy]"
+            git push
+          fi
