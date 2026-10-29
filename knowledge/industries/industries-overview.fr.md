@@ -34,7 +34,7 @@ faq:
     a: "En 2024, les services ont attiré RM252.7 milliards d'investissement approuvé (66,8 % du total) et l'industrie manufacturière RM120.5 milliards (31,8 %), sur un record global de RM378.5 milliards (MIDA)."
 
 lang: "fr"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ Les industries de la Malaisie, cartographiées selon leur place dans l'économie
 - [L'industrie du meuble et des produits du bois](/fr/industries/furniture-wood-products-industry/)
 - [L'industrie de la construction navale et maritime](/fr/industries/shipbuilding-marine-industry/)
 - [L'industrie du caoutchouc de la Malaisie](/fr/industries/rubber-industry/)
+- [L'industrie de fabrication de panneaux solaires photovoltaïques en Malaisie](/fr/industries/solar-pv-manufacturing-industry/)
 
 ### Services
 
@@ -228,6 +229,7 @@ Les industries de la Malaisie, cartographiées selon leur place dans l'économie
 - [L'industrie du commerce de détail et de gros](/fr/industries/retail-wholesale-trade-industry/)
 - [L'industrie des médias et de la radiodiffusion](/fr/industries/media-broadcasting-industry/)
 - [L'économie des petits boulots et des plateformes](/fr/industries/gig-platform-economy-industry/)
+- [L'industrie du contenu créatif numérique en Malaisie](/fr/industries/digital-creative-content-industry/)
 
 ### Primaire et extractif
 
@@ -236,10 +238,14 @@ Les industries de la Malaisie, cartographiées selon leur place dans l'économie
 - [Durabilité et certification de l'huile de palme en Malaisie](/fr/industries/palm-oil-sustainability-certification/)
 - [L'industrie des minéraux et des mines](/fr/industries/minerals-mining-industry/)
 - [L'industrie forestière et du bois](/fr/industries/forestry-timber-industry/)
+- [L'industrie de l'aquaculture en Malaisie](/fr/industries/aquaculture-industry/)
+- [L'industrie du cacao en Malaisie](/fr/industries/cocoa-industry/)
+- [L'industrie du poivre en Malaisie](/fr/industries/pepper-industry/)
 
 ### Émergent et sciences de la vie
 
 - [L'industrie de la biotechnologie et des sciences de la vie](/fr/industries/biotechnology-life-sciences-industry/)
+- [L'industrie spatiale en Malaisie](/fr/industries/space-industry/)
 
 ### L'économie halal
 

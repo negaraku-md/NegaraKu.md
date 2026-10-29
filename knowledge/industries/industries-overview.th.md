@@ -34,7 +34,7 @@ faq:
     a: "ในปี 2024 บริการดึงการลงทุนที่ได้รับอนุมัติ RM252.7 พันล้าน (66.8% ของยอดรวม) และการผลิต RM120.5 พันล้าน (31.8%) จากยอดรวมที่ทำสถิติ RM378.5 พันล้าน (MIDA)"
 
 lang: "th"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by s
 - [อุตสาหกรรมเฟอร์นิเจอร์และผลิตภัณฑ์ไม้](/th/industries/furniture-wood-products-industry/)
 - [อุตสาหกรรมต่อเรือและกิจการทางทะเล](/th/industries/shipbuilding-marine-industry/)
 - [อุตสาหกรรมยางพาราของมาเลเซีย](/th/industries/rubber-industry/)
+- [อุตสาหกรรมการผลิตโซลาร์เซลล์ PV ของมาเลเซีย](/th/industries/solar-pv-manufacturing-industry/)
 
 ### บริการ
 
@@ -228,6 +229,7 @@ keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by s
 - [อุตสาหกรรมการค้าปลีกและค้าส่ง](/th/industries/retail-wholesale-trade-industry/)
 - [อุตสาหกรรมสื่อและการแพร่ภาพกระจายเสียง](/th/industries/media-broadcasting-industry/)
 - [เศรษฐกิจกิกและแพลตฟอร์ม](/th/industries/gig-platform-economy-industry/)
+- [อุตสาหกรรมเนื้อหาสร้างสรรค์ดิจิทัลของมาเลเซีย](/th/industries/digital-creative-content-industry/)
 
 ### ขั้นปฐมและการสกัดทรัพยากร
 
@@ -236,10 +238,14 @@ keywords: ["Malaysia industries", "Malaysia economy sectors", "Malaysia GDP by s
 - [ความยั่งยืนและการรับรองน้ำมันปาล์มในมาเลเซีย](/th/industries/palm-oil-sustainability-certification/)
 - [อุตสาหกรรมแร่และเหมืองแร่](/th/industries/minerals-mining-industry/)
 - [อุตสาหกรรมป่าไม้และไม้ซุง](/th/industries/forestry-timber-industry/)
+- [อุตสาหกรรมเพาะเลี้ยงสัตว์น้ำของมาเลเซีย](/th/industries/aquaculture-industry/)
+- [อุตสาหกรรมโกโก้ของมาเลเซีย](/th/industries/cocoa-industry/)
+- [อุตสาหกรรมพริกไทยของมาเลเซีย](/th/industries/pepper-industry/)
 
 ### อุตสาหกรรมเกิดใหม่และวิทยาศาสตร์ชีวภาพ
 
 - [อุตสาหกรรมเทคโนโลยีชีวภาพและวิทยาศาสตร์ชีวภาพ](/th/industries/biotechnology-life-sciences-industry/)
+- [อุตสาหกรรมอวกาศของมาเลเซีย](/th/industries/space-industry/)
 
 ### เศรษฐกิจฮาลาล
 

@@ -34,7 +34,7 @@ faq:
     a: "Pada 2024, jasa menarik RM252.7 miliar investasi yang disetujui (66.8% dari jumlah keseluruhan) dan manufaktur RM120.5 miliar (31.8%), dari rekor RM378.5 miliar secara keseluruhan (MIDA)."
 
 lang: "id"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ Industri-industri Malaysia, dipetakan berdasarkan posisinya dalam ekonomi. Setia
 - [Industri Furnitur & Produk Kayu](/id/industries/furniture-wood-products-industry/)
 - [Industri Pembuatan Kapal & Kemaritiman](/id/industries/shipbuilding-marine-industry/)
 - [Industri Karet Malaysia](/id/industries/rubber-industry/)
+- [Industri Manufaktur Panel Surya PV Malaysia](/id/industries/solar-pv-manufacturing-industry/)
 
 ### Jasa
 
@@ -228,6 +229,7 @@ Industri-industri Malaysia, dipetakan berdasarkan posisinya dalam ekonomi. Setia
 - [Industri Perdagangan Ritel & Grosir](/id/industries/retail-wholesale-trade-industry/)
 - [Industri Media & Penyiaran](/id/industries/media-broadcasting-industry/)
 - [Ekonomi Gig & Platform](/id/industries/gig-platform-economy-industry/)
+- [Industri Konten Kreatif Digital Malaysia](/id/industries/digital-creative-content-industry/)
 
 ### Primer & ekstraktif
 
@@ -236,10 +238,14 @@ Industri-industri Malaysia, dipetakan berdasarkan posisinya dalam ekonomi. Setia
 - [Keberlanjutan dan Sertifikasi Minyak Sawit di Malaysia](/id/industries/palm-oil-sustainability-certification/)
 - [Industri Mineral & Pertambangan](/id/industries/minerals-mining-industry/)
 - [Industri Kehutanan & Kayu](/id/industries/forestry-timber-industry/)
+- [Industri Akuakultur Malaysia](/id/industries/aquaculture-industry/)
+- [Industri Kakao Malaysia](/id/industries/cocoa-industry/)
+- [Industri Lada Malaysia](/id/industries/pepper-industry/)
 
 ### Bangkit & ilmu hayati
 
 - [Industri Bioteknologi & Ilmu Hayati](/id/industries/biotechnology-life-sciences-industry/)
+- [Industri Antariksa Malaysia](/id/industries/space-industry/)
 
 ### Ekonomi halal
 

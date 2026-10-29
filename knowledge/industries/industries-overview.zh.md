@@ -34,7 +34,7 @@ faq:
     a: "2024年，服务业吸引了2527亿令吉获批投资（占总额的66.8%），制造业吸引了1205亿令吉（占31.8%），总额创下3785亿令吉的纪录（MIDA）。"
 
 lang: "zh"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ E&E的主导地位是需要深刻理解的核心。它将马来西亚的制造�
 - [家具与木制品产业](/zh/industries/furniture-wood-products-industry/)
 - [造船与海事产业](/zh/industries/shipbuilding-marine-industry/)
 - [马来西亚的橡胶产业](/zh/industries/rubber-industry/)
+- [马来西亚的太阳能光伏制造业](/zh/industries/solar-pv-manufacturing-industry/)
 
 ### 服务业
 
@@ -228,6 +229,7 @@ E&E的主导地位是需要深刻理解的核心。它将马来西亚的制造�
 - [零售与批发贸易业](/zh/industries/retail-wholesale-trade-industry/)
 - [媒体与广播产业](/zh/industries/media-broadcasting-industry/)
 - [零工与平台经济](/zh/industries/gig-platform-economy-industry/)
+- [马来西亚的数字创意内容产业](/zh/industries/digital-creative-content-industry/)
 
 ### 初级与采掘产业
 
@@ -236,10 +238,14 @@ E&E的主导地位是需要深刻理解的核心。它将马来西亚的制造�
 - [马来西亚棕榈油可持续性与认证](/zh/industries/palm-oil-sustainability-certification/)
 - [矿产与采矿产业](/zh/industries/minerals-mining-industry/)
 - [林业与木材产业](/zh/industries/forestry-timber-industry/)
+- [马来西亚的水产养殖业](/zh/industries/aquaculture-industry/)
+- [马来西亚的可可产业](/zh/industries/cocoa-industry/)
+- [马来西亚的胡椒产业](/zh/industries/pepper-industry/)
 
 ### 新兴与生命科学
 
 - [生物技术与生命科学产业](/zh/industries/biotechnology-life-sciences-industry/)
+- [马来西亚的太空产业](/zh/industries/space-industry/)
 
 ### 清真经济
 

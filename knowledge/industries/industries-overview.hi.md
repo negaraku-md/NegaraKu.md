@@ -34,7 +34,7 @@ faq:
     a: "2024 में, सेवाओं ने RM252.7 बिलियन स्वीकृत निवेश (कुल का 66.8%) और विनिर्माण ने RM120.5 बिलियन (31.8%) आकर्षित किया, कुल रिकॉर्ड RM378.5 बिलियन में से (MIDA)।"
 
 lang: "hi"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ E&E का प्रभुत्व वह कहानी है जिसे �
 - [फर्नीचर और लकड़ी उत्पाद उद्योग](/hi/industries/furniture-wood-products-industry/)
 - [जहाज़-निर्माण और समुद्री उद्योग](/hi/industries/shipbuilding-marine-industry/)
 - [मलेशिया का रबर उद्योग](/hi/industries/rubber-industry/)
+- [मलेशिया का सोलर PV विनिर्माण उद्योग](/hi/industries/solar-pv-manufacturing-industry/)
 
 ### सेवाएँ
 
@@ -228,6 +229,7 @@ E&E का प्रभुत्व वह कहानी है जिसे �
 - [खुदरा और थोक व्यापार उद्योग](/hi/industries/retail-wholesale-trade-industry/)
 - [मीडिया और प्रसारण उद्योग](/hi/industries/media-broadcasting-industry/)
 - [गिग और प्लेटफ़ॉर्म अर्थव्यवस्था](/hi/industries/gig-platform-economy-industry/)
+- [मलेशिया का डिजिटल क्रिएटिव कंटेंट उद्योग](/hi/industries/digital-creative-content-industry/)
 
 ### प्राथमिक व निष्कर्षण
 
@@ -236,10 +238,14 @@ E&E का प्रभुत्व वह कहानी है जिसे �
 - [मलेशिया में पाम ऑयल स्थिरता और प्रमाणन](/hi/industries/palm-oil-sustainability-certification/)
 - [खनिज और खनन उद्योग](/hi/industries/minerals-mining-industry/)
 - [वानिकी और लकड़ी उद्योग](/hi/industries/forestry-timber-industry/)
+- [मलेशिया का जलकृषि उद्योग](/hi/industries/aquaculture-industry/)
+- [मलेशिया का कोको उद्योग](/hi/industries/cocoa-industry/)
+- [मलेशिया का काली मिर्च उद्योग](/hi/industries/pepper-industry/)
 
 ### उभरते क्षेत्र व जीवन विज्ञान
 
 - [जैव प्रौद्योगिकी और जीवन विज्ञान उद्योग](/hi/industries/biotechnology-life-sciences-industry/)
+- [मलेशिया का अंतरिक्ष उद्योग](/hi/industries/space-industry/)
 
 ### हलाल अर्थव्यवस्था
 

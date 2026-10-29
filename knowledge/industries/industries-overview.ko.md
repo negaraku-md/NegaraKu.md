@@ -34,7 +34,7 @@ faq:
     a: "2024년, 서비스가 RM2,527억 링깃의 승인 투자(전체의 66.8%)를, 제조가 RM1,205억 링깃(31.8%)을 끌어들였으며, 이는 전체 사상 최대인 RM3,785억 링깃 중 일부입니다(MIDA)."
 
 lang: "ko"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ E&E의 지배력이 체득해야 할 이야기입니다. 이는 말레이시아�
 - [가구 및 목제품 산업](/ko/industries/furniture-wood-products-industry/)
 - [조선 및 해양 산업](/ko/industries/shipbuilding-marine-industry/)
 - [말레이시아의 고무 산업](/ko/industries/rubber-industry/)
+- [말레이시아의 태양광 PV 제조 산업](/ko/industries/solar-pv-manufacturing-industry/)
 
 ### 서비스
 
@@ -228,6 +229,7 @@ E&E의 지배력이 체득해야 할 이야기입니다. 이는 말레이시아�
 - [소매 및 도매업](/ko/industries/retail-wholesale-trade-industry/)
 - [미디어 및 방송 산업](/ko/industries/media-broadcasting-industry/)
 - [긱 및 플랫폼 경제](/ko/industries/gig-platform-economy-industry/)
+- [말레이시아의 디지털 크리에이티브 콘텐츠 산업](/ko/industries/digital-creative-content-industry/)
 
 ### 1차 및 채취 산업
 
@@ -236,10 +238,14 @@ E&E의 지배력이 체득해야 할 이야기입니다. 이는 말레이시아�
 - [말레이시아의 팜유 지속가능성과 인증](/ko/industries/palm-oil-sustainability-certification/)
 - [광물 및 광업 산업](/ko/industries/minerals-mining-industry/)
 - [임업 및 목재 산업](/ko/industries/forestry-timber-industry/)
+- [말레이시아의 양식업](/ko/industries/aquaculture-industry/)
+- [말레이시아의 코코아 산업](/ko/industries/cocoa-industry/)
+- [말레이시아의 후추 산업](/ko/industries/pepper-industry/)
 
 ### 신흥 및 생명과학
 
 - [생명공학 및 생명과학 산업](/ko/industries/biotechnology-life-sciences-industry/)
+- [말레이시아의 우주 산업](/ko/industries/space-industry/)
 
 ### 할랄 경제
 

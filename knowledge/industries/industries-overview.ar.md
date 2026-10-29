@@ -34,7 +34,7 @@ faq:
     a: "في 2024، جذبت الخدمات RM252.7 مليار من الاستثمارات المعتمَدة (66.8% من الإجمالي)، والتصنيع RM120.5 مليار (31.8%)، من إجمالي قياسي قدره RM378.5 مليار (MIDA)."
 
 lang: "ar"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ keywords: ["صناعات ماليزيا", "Malaysia industries", "قطاعات �
 - [صناعة الأثاث والمنتجات الخشبية](/ar/industries/furniture-wood-products-industry/)
 - [صناعة بناء السفن والصناعات البحرية](/ar/industries/shipbuilding-marine-industry/)
 - [صناعة المطاط في ماليزيا](/ar/industries/rubber-industry/)
+- [صناعة تصنيع الألواح الكهروضوئية الشمسية في ماليزيا](/ar/industries/solar-pv-manufacturing-industry/)
 
 ### الخدمات
 
@@ -228,6 +229,7 @@ keywords: ["صناعات ماليزيا", "Malaysia industries", "قطاعات �
 - [صناعة تجارة التجزئة والجملة](/ar/industries/retail-wholesale-trade-industry/)
 - [صناعة الإعلام والبث](/ar/industries/media-broadcasting-industry/)
 - [اقتصاد العمل الحر والمنصّات](/ar/industries/gig-platform-economy-industry/)
+- [صناعة المحتوى الإبداعي الرقمي في ماليزيا](/ar/industries/digital-creative-content-industry/)
 
 ### القطاعات الأولية والاستخراجية
 
@@ -236,10 +238,14 @@ keywords: ["صناعات ماليزيا", "Malaysia industries", "قطاعات �
 - [استدامة زيت النخيل واعتماده في ماليزيا](/ar/industries/palm-oil-sustainability-certification/)
 - [صناعة المعادن والتعدين](/ar/industries/minerals-mining-industry/)
 - [صناعة الغابات والأخشاب](/ar/industries/forestry-timber-industry/)
+- [صناعة الاستزراع المائي في ماليزيا](/ar/industries/aquaculture-industry/)
+- [صناعة الكاكاو في ماليزيا](/ar/industries/cocoa-industry/)
+- [صناعة الفلفل في ماليزيا](/ar/industries/pepper-industry/)
 
 ### القطاعات الناشئة وعلوم الحياة
 
 - [صناعة التكنولوجيا الحيوية وعلوم الحياة](/ar/industries/biotechnology-life-sciences-industry/)
+- [صناعة الفضاء في ماليزيا](/ar/industries/space-industry/)
 
 ### اقتصاد الحلال
 

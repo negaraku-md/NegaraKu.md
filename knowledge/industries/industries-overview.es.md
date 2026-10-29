@@ -34,7 +34,7 @@ faq:
     a: "En 2024, los servicios atrajeron RM252.7 mil millones de inversión aprobada (el 66.8% del total) y la manufactura RM120.5 mil millones (31.8%), de un récord global de RM378.5 mil millones (MIDA)."
 
 lang: "es"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ Las industrias de Malasia, cartografiadas según el lugar que ocupan en la econo
 - [La industria del mueble y los productos de madera](/es/industries/furniture-wood-products-industry/)
 - [La industria naval y marítima](/es/industries/shipbuilding-marine-industry/)
 - [La industria del caucho de Malasia](/es/industries/rubber-industry/)
+- [La industria de fabricación solar fotovoltaica de Malasia](/es/industries/solar-pv-manufacturing-industry/)
 
 ### Servicios
 
@@ -228,6 +229,7 @@ Las industrias de Malasia, cartografiadas según el lugar que ocupan en la econo
 - [La industria del comercio minorista y mayorista](/es/industries/retail-wholesale-trade-industry/)
 - [La industria de los medios y la radiodifusión](/es/industries/media-broadcasting-industry/)
 - [La economía de plataformas y trabajos esporádicos](/es/industries/gig-platform-economy-industry/)
+- [La industria de contenido creativo digital de Malasia](/es/industries/digital-creative-content-industry/)
 
 ### Primario y extractivo
 
@@ -236,10 +238,14 @@ Las industrias de Malasia, cartografiadas según el lugar que ocupan en la econo
 - [Sostenibilidad y certificación del aceite de palma en Malasia](/es/industries/palm-oil-sustainability-certification/)
 - [La industria de los minerales y la minería](/es/industries/minerals-mining-industry/)
 - [La industria forestal y de la madera](/es/industries/forestry-timber-industry/)
+- [La industria de la acuicultura de Malasia](/es/industries/aquaculture-industry/)
+- [La industria del cacao de Malasia](/es/industries/cocoa-industry/)
+- [La industria de la pimienta de Malasia](/es/industries/pepper-industry/)
 
 ### Emergentes y ciencias de la vida
 
 - [La industria de la biotecnología y las ciencias de la vida](/es/industries/biotechnology-life-sciences-industry/)
+- [La industria espacial de Malasia](/es/industries/space-industry/)
 
 ### La economía halal
 

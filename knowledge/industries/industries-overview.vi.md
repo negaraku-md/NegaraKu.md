@@ -34,7 +34,7 @@ faq:
     a: "Vào năm 2024, dịch vụ thu hút RM252.7 tỷ đầu tư được phê duyệt (66.8% tổng số) và chế tạo RM120.5 tỷ (31.8%), trong tổng số kỷ lục RM378.5 tỷ (MIDA)."
 
 lang: "vi"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ Các ngành công nghiệp của Malaysia, được lập bản đồ theo vị 
 - [Ngành Nội thất & Sản phẩm Gỗ](/vi/industries/furniture-wood-products-industry/)
 - [Ngành Đóng tàu & Hàng hải](/vi/industries/shipbuilding-marine-industry/)
 - [Ngành Cao su của Malaysia](/vi/industries/rubber-industry/)
+- [Ngành sản xuất pin mặt trời (PV) của Malaysia](/vi/industries/solar-pv-manufacturing-industry/)
 
 ### Dịch vụ
 
@@ -228,6 +229,7 @@ Các ngành công nghiệp của Malaysia, được lập bản đồ theo vị 
 - [Ngành Thương mại Bán lẻ & Bán buôn](/vi/industries/retail-wholesale-trade-industry/)
 - [Ngành Truyền thông & Phát sóng](/vi/industries/media-broadcasting-industry/)
 - [Kinh tế Gig & Nền tảng](/vi/industries/gig-platform-economy-industry/)
+- [Ngành nội dung sáng tạo số của Malaysia](/vi/industries/digital-creative-content-industry/)
 
 ### Sơ cấp & khai thác
 
@@ -236,10 +238,14 @@ Các ngành công nghiệp của Malaysia, được lập bản đồ theo vị 
 - [Tính bền vững và Chứng nhận Dầu cọ tại Malaysia](/vi/industries/palm-oil-sustainability-certification/)
 - [Ngành Khoáng sản & Khai khoáng](/vi/industries/minerals-mining-industry/)
 - [Ngành Lâm nghiệp & Gỗ](/vi/industries/forestry-timber-industry/)
+- [Ngành nuôi trồng thủy sản của Malaysia](/vi/industries/aquaculture-industry/)
+- [Ngành ca cao của Malaysia](/vi/industries/cocoa-industry/)
+- [Ngành hồ tiêu của Malaysia](/vi/industries/pepper-industry/)
 
 ### Mới nổi & khoa học đời sống
 
 - [Ngành Công nghệ sinh học & Khoa học đời sống](/vi/industries/biotechnology-life-sciences-industry/)
+- [Ngành vũ trụ của Malaysia](/vi/industries/space-industry/)
 
 ### Nền kinh tế Halal
 

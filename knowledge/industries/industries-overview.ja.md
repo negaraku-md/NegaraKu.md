@@ -36,7 +36,7 @@ faq:
 lang: "ja"
 masterLanguage: "en"
 translationStatus: "in-sync"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 
 status: "published"
 aiAssisted: true
@@ -216,6 +216,7 @@ E&Eの優位性こそ、心に留めておくべき物語である。それは�
 - [家具・木製品産業](/ja/industries/furniture-wood-products-industry/)
 - [造船・海洋産業](/ja/industries/shipbuilding-marine-industry/)
 - [マレーシアのゴム産業](/ja/industries/rubber-industry/)
+- [マレーシアの太陽光発電（PV）製造業](/ja/industries/solar-pv-manufacturing-industry/)
 
 ### サービス業
 
@@ -228,6 +229,7 @@ E&Eの優位性こそ、心に留めておくべき物語である。それは�
 - [小売・卸売業](/ja/industries/retail-wholesale-trade-industry/)
 - [メディア・放送産業](/ja/industries/media-broadcasting-industry/)
 - [ギグ・プラットフォームエコノミー](/ja/industries/gig-platform-economy-industry/)
+- [マレーシアのデジタルクリエイティブコンテンツ産業](/ja/industries/digital-creative-content-industry/)
 
 ### 一次産品・採取産業
 
@@ -236,10 +238,14 @@ E&Eの優位性こそ、心に留めておくべき物語である。それは�
 - [マレーシアにおけるパーム油の持続可能性と認証](/ja/industries/palm-oil-sustainability-certification/)
 - [鉱物・鉱業産業](/ja/industries/minerals-mining-industry/)
 - [林業・木材産業](/ja/industries/forestry-timber-industry/)
+- [マレーシアの養殖産業](/ja/industries/aquaculture-industry/)
+- [マレーシアのカカオ産業](/ja/industries/cocoa-industry/)
+- [マレーシアのコショウ産業](/ja/industries/pepper-industry/)
 
 ### 新興分野・ライフサイエンス
 
 - [バイオテクノロジー・ライフサイエンス産業](/ja/industries/biotechnology-life-sciences-industry/)
+- [マレーシアの宇宙産業](/ja/industries/space-industry/)
 
 ### ハラル経済
 

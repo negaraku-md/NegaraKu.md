@@ -215,6 +215,7 @@ Malaysia's industries, mapped by where they sit in the economy. Each guide goes 
 - [The Furniture & Wood Products Industry](/en/industries/furniture-wood-products-industry/)
 - [The Shipbuilding & Marine Industry](/en/industries/shipbuilding-marine-industry/)
 - [Malaysia's Rubber Industry](/en/industries/rubber-industry/)
+- [The Solar PV Manufacturing Industry](/en/industries/solar-pv-manufacturing-industry/)
 
 ### Services
 
@@ -227,6 +228,7 @@ Malaysia's industries, mapped by where they sit in the economy. Each guide goes 
 - [The Retail & Wholesale Trade Industry](/en/industries/retail-wholesale-trade-industry/)
 - [The Media & Broadcasting Industry](/en/industries/media-broadcasting-industry/)
 - [The Gig & Platform Economy](/en/industries/gig-platform-economy-industry/)
+- [The Digital Creative Content Industry](/en/industries/digital-creative-content-industry/)
 
 ### Primary & extractive
 
@@ -235,10 +237,14 @@ Malaysia's industries, mapped by where they sit in the economy. Each guide goes 
 - [Palm Oil Sustainability and Certification in Malaysia](/en/industries/palm-oil-sustainability-certification/)
 - [The Minerals & Mining Industry](/en/industries/minerals-mining-industry/)
 - [The Forestry & Timber Industry](/en/industries/forestry-timber-industry/)
+- [Malaysia's Aquaculture Industry](/en/industries/aquaculture-industry/)
+- [Malaysia's Cocoa Industry](/en/industries/cocoa-industry/)
+- [Malaysia's Pepper Industry](/en/industries/pepper-industry/)
 
 ### Emerging & life sciences
 
 - [The Biotechnology & Life Sciences Industry](/en/industries/biotechnology-life-sciences-industry/)
+- [Malaysia's Space Industry](/en/industries/space-industry/)
 
 ### The halal economy
 

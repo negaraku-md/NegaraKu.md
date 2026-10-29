@@ -34,7 +34,7 @@ faq:
     a: "Pada 2024, perkhidmatan menarik RM252.7 bilion pelaburan diluluskan (66.8% daripada jumlah keseluruhan) dan pembuatan RM120.5 bilion (31.8%), daripada rekod RM378.5 bilion secara keseluruhan (MIDA)."
 
 lang: "ms"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ Industri Malaysia, dipetakan mengikut kedudukannya dalam ekonomi. Setiap panduan
 - [Industri Perabot & Produk Kayu](/industries/furniture-wood-products-industry/)
 - [Industri Pembinaan Kapal & Maritim](/industries/shipbuilding-marine-industry/)
 - [Industri Getah Malaysia](/industries/rubber-industry/)
+- [Industri Pembuatan Solar PV Malaysia](/industries/solar-pv-manufacturing-industry/)
 
 ### Perkhidmatan
 
@@ -228,6 +229,7 @@ Industri Malaysia, dipetakan mengikut kedudukannya dalam ekonomi. Setiap panduan
 - [Industri Perdagangan Runcit & Borong](/industries/retail-wholesale-trade-industry/)
 - [Industri Media & Penyiaran](/industries/media-broadcasting-industry/)
 - [Ekonomi Gig & Platform](/industries/gig-platform-economy-industry/)
+- [Industri Kandungan Kreatif Digital Malaysia](/industries/digital-creative-content-industry/)
 
 ### Primer & ekstraktif
 
@@ -236,10 +238,14 @@ Industri Malaysia, dipetakan mengikut kedudukannya dalam ekonomi. Setiap panduan
 - [Kelestarian dan Pensijilan Minyak Sawit di Malaysia](/industries/palm-oil-sustainability-certification/)
 - [Industri Mineral & Perlombongan](/industries/minerals-mining-industry/)
 - [Industri Perhutanan & Kayu Balak](/industries/forestry-timber-industry/)
+- [Industri Akuakultur Malaysia](/industries/aquaculture-industry/)
+- [Industri Koko Malaysia](/industries/cocoa-industry/)
+- [Industri Lada Malaysia](/industries/pepper-industry/)
 
 ### Baru muncul & sains hayat
 
 - [Industri Bioteknologi & Sains Hayat](/industries/biotechnology-life-sciences-industry/)
+- [Industri Angkasa Malaysia](/industries/space-industry/)
 
 ### Ekonomi halal
 

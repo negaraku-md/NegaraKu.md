@@ -34,7 +34,7 @@ faq:
     a: "2024-ல், சேவைகள் RM252.7 பில்லியன் அங்கீகரிக்கப்பட்ட முதலீட்டை (மொத்தத்தில் 66.8%) ஈர்த்தன, மேலும் உற்பத்தி RM120.5 பில்லியன் (31.8%), ஒட்டுமொத்தமாக சாதனையளவிலான RM378.5 பில்லியனில் இருந்து (MIDA)."
 
 lang: "ta"
-sourceContentHash: "12c6500a90743553"
+sourceContentHash: "fa0890191bc73ab2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -216,6 +216,7 @@ E&E-யின் ஆதிக்கமே உள்வாங்க வேண்�
 - [தளபாடம் & மரப் பொருட்கள் தொழில்](/ta/industries/furniture-wood-products-industry/)
 - [கப்பல் கட்டுதல் & கடல்சார் தொழில்](/ta/industries/shipbuilding-marine-industry/)
 - [மலேசியாவின் ரப்பர் தொழில்](/ta/industries/rubber-industry/)
+- [மலேசியாவின் சூரிய PV உற்பத்தித் தொழில்](/ta/industries/solar-pv-manufacturing-industry/)
 
 ### சேவைகள்
 
@@ -228,6 +229,7 @@ E&E-யின் ஆதிக்கமே உள்வாங்க வேண்�
 - [சில்லறை & மொத்த வர்த்தகத் தொழில்](/ta/industries/retail-wholesale-trade-industry/)
 - [ஊடகம் & ஒளிபரப்புத் தொழில்](/ta/industries/media-broadcasting-industry/)
 - [கிக் & தளப் பொருளாதாரம்](/ta/industries/gig-platform-economy-industry/)
+- [மலேசியாவின் டிஜிட்டல் படைப்பு உள்ளடக்கத் தொழில்](/ta/industries/digital-creative-content-industry/)
 
 ### முதன்மை & பிரித்தெடுப்புத் துறைகள்
 
@@ -236,10 +238,14 @@ E&E-யின் ஆதிக்கமே உள்வாங்க வேண்�
 - [மலேசியாவில் பாமாயில் நிலைத்தன்மை மற்றும் சான்றளிப்பு](/ta/industries/palm-oil-sustainability-certification/)
 - [கனிமங்கள் & சுரங்கத் தொழில்](/ta/industries/minerals-mining-industry/)
 - [வனவியல் & மரத் தொழில்](/ta/industries/forestry-timber-industry/)
+- [மலேசியாவின் நீர்வாழ் வளர்ப்புத் தொழில்](/ta/industries/aquaculture-industry/)
+- [மலேசியாவின் கோகோ தொழில்](/ta/industries/cocoa-industry/)
+- [மலேசியாவின் மிளகுத் தொழில்](/ta/industries/pepper-industry/)
 
 ### வளர்ந்து வரும் & உயிர் அறிவியல்
 
 - [உயிரி தொழில்நுட்பம் & உயிர் அறிவியல் தொழில்](/ta/industries/biotechnology-life-sciences-industry/)
+- [மலேசியாவின் விண்வெளித் தொழில்](/ta/industries/space-industry/)
 
 ### ஹலால் பொருளாதாரம்
 
