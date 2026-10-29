@@ -4,6 +4,7 @@ import { getCategory, loc } from './categories';
 import { subcatLabel, SUBCATEGORY_LABELS } from './subcategories';
 import { SITE } from './site';
 import { localePath, withTrailingSlash, LOCALES } from './i18n';
+import { getGitInfo } from './apidata';
 
 // BCP-47 language tags for every launched locale (for schema.org inLanguage).
 const BCP47: Record<Locale, string> = { ms: 'ms-MY', en: 'en', zh: 'zh-Hans', ta: 'ta', ja: 'ja', ko: 'ko', th: 'th', vi: 'vi', id: 'id', ar: 'ar', hi: 'hi', es: 'es', fr: 'fr' };
@@ -372,6 +373,10 @@ export function datasetJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     es: `Un corpus de conocimiento abierto, multilingüe y legible por máquina sobre Malasia — derecho, impuestos, negocios, gobierno y más, en ${n} idiomas, con cada afirmación con fuente.`,
     fr: `Un corpus de connaissances ouvert, multilingue et lisible par machine sur la Malaisie — droit, fiscalité, affaires, gouvernement et plus, en ${n} langues, chaque affirmation sourcée.`,
   }[locale] ?? '';
+  // Last corpus update — the latest commit date, regenerated every build
+  // (scripts/build-git-info.mjs). A real freshness signal for Dataset Search,
+  // not a hardcoded date.
+  const lastModified = getGitInfo().commits[0]?.date;
   return {
     '@context': 'https://schema.org',
     '@type': 'Dataset',
@@ -384,6 +389,19 @@ export function datasetJsonLd(locale: Locale = 'en'): Record<string, unknown> {
     license: 'https://creativecommons.org/licenses/by-sa/4.0/',
     isAccessibleForFree: true,
     keywords: ['Malaysia', 'knowledge base', 'open data', 'multilingual', 'taxation', 'business', 'law', 'government', 'employment', 'cost of living'],
+    // The corpus is entirely about Malaysia — an explicit spatial scope Google
+    // Dataset Search uses for place-based filtering; Wikidata Q833 disambiguates.
+    spatialCoverage: {
+      '@type': 'Place',
+      name: 'Malaysia',
+      sameAs: 'https://www.wikidata.org/wiki/Q833',
+      geo: {
+        '@type': 'GeoShape',
+        // bounding box: "southwest-lat southwest-lng northeast-lat northeast-lng"
+        box: '0.77 99.64 7.55 119.27',
+      },
+    },
+    ...(lastModified ? { dateModified: lastModified } : {}),
     creator: { '@id': ORG_ID },
     publisher: { '@id': ORG_ID },
     sameAs: 'https://huggingface.co/datasets/negaraku-md/negaraku-md',
