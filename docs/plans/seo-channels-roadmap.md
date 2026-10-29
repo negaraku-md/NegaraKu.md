@@ -25,10 +25,13 @@ _Created 2026-10-29. Prioritised by ROI for NegaraKu.md (13-language, AI-friendl
 - **AI-doable:** draft the link blocks/anchor text + placement plan. **User-side:** add to those sites.
 - Status: TODO.
 
-### T3 — Wikipedia/Wikidata presence (IN PROGRESS)
-- Add `negaraku.md` as a citation/external link on relevant Malaysia Wikipedia articles (build on existing Wikidata QIDs). Referral traffic + E-E-A-T authority signal that lifts all engines.
-- **AI-doable:** draft a prioritised target list (articles × which NegaraKu page is a valid citation). **User-side:** make the edits (needs a Wikipedia account; follow WP:RS / no self-promo norms).
-- Status: TODO.
+### T3 — Wikipedia/Wikidata presence (Lever 1 DONE; paused for pacing)
+- **Reframed:** Wikipedia external links are `nofollow` (no link equity) and self-citation on Wikipedia = COI/refspam risk. So **Lever 1 = Wikidata `P973` "described at URL" references** instead — low-risk, feeds the Knowledge Graph + LLM grounding, and is the structured-data equivalent of a citation.
+- **Done 2026-10-29:** COI disclosure published on `User:Ashton Tan`, then **33 `P973` references** added (18 Batch 1 + 15 Batch 2) across GLCs/companies, heritage items, and statutes — each pointing at the matching `negaraku.md` article. All verified `current` (none reverted). Candidate list: `docs/plans/wikidata-reference-candidates.md` (410 QID-tagged articles).
+- **Quality rule applied:** skip entities whose scope/country doesn't match the article (skipped global gamelan Q194492, generalized silat Q569801 → used the correct Silat Melayu Q7436924). Two article `wikidata:` fields were found mis-assigned during this pass: silat-melayu (fixed → Q7436924), competition-act-2010 (tagged the Commission Q110133506, not the Act — no Act item exists; needs a decision).
+- **Pacing guardrail:** 33 edits/day on a young account is already a visible burst — **pause** and space any further candidates over days/weeks.
+- **Lever 2 (later, optional):** cite `negaraku.md` in the *references* section of relevant Malaysia Wikipedia articles where it is a genuinely reliable source (WP:RS), done sparingly by a neutral editor, never as self-promo.
+- Status: Lever 1 DONE (paused); Lever 2 TODO.
 
 ### T4 — Verify Google Dataset Search presence
 - `Dataset` JSON-LD is already emitted, so confirm the corpus / HF dataset actually surfaces in Google Dataset Search and the node is complete (license, distribution/DataDownload). Near-zero effort.
