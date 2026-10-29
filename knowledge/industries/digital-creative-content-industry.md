@@ -38,8 +38,8 @@ lang: en
 masterLanguage: en
 translationStatus: master
 
-status: in-review
-reviewed: null
+status: published
+reviewed: 2026-10-29
 aiAssisted: true
 reviewer: null
 assignee: null
@@ -105,7 +105,7 @@ keywords:
   - "MDEC Malaysia Digital status"
   - "Upin & Ipin"
   - "Lemon Sky Studios"
-reviewDue: null
+reviewDue: 2028-04-29
 revisions:
   - revision: 0
     date: '2026-10-29'
