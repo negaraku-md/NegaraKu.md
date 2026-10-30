@@ -1,0 +1,9 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import GetHelpView from "@/components/GetHelpView.astro";
+const locale = "ko";
+---
+
+<BaseLayout locale={locale} title="도움받기" path="/get-help">
+  <GetHelpView locale={locale} />
+</BaseLayout>

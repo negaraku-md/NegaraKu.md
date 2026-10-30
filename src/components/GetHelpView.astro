@@ -1,0 +1,74 @@
+---
+// /get-help — a simple routing page to the sponsor services, disclosed and
+// UTM-tagged. Reuses the sponsors.ts data model so copy stays in one place.
+import type { Locale } from '@/lib/categories';
+import { SPONSORS, sponsorUrl } from '@/lib/sponsors';
+import PageHero from './PageHero.astro';
+
+interface Props { locale: Locale }
+const { locale } = Astro.props;
+const l = locale as Locale;
+const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) =>
+  (locale === 'fr' ? (fr ?? en) : locale === 'es' ? (es ?? en) : locale === 'hi' ? (hi ?? en) : locale === 'ar' ? (ar ?? en) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? en) : locale === 'th' ? (th ?? en) : locale === 'ko' ? (ko ?? en) : locale === 'ja' ? (ja ?? en) : locale === 'ta' ? (ta ?? en) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
+
+const title = L('Dapatkan bantuan', 'Get help', '获取帮助', 'உதவி பெறுங்கள்', 'サポートを受ける', '도움받기', 'ขอความช่วยเหลือ', 'Nhận trợ giúp', 'Dapatkan bantuan', 'احصل على المساعدة', 'मदद पाएं', 'Obtener ayuda', 'Obtenir de l’aide');
+const intro = L(
+  'NegaraKu.md ialah pengetahuan am, bukan nasihat profesional. Apabila anda perlu seseorang menguruskannya, penaja kami boleh membantu.',
+  'NegaraKu.md is general knowledge, not professional advice. When you need someone to handle it, our sponsors can help.',
+  'NegaraKu.md 提供的是通用知识，而非专业建议。当您需要专人处理时，我们的赞助方可以提供协助。',
+  'NegaraKu.md என்பது பொது அறிவு, தொழில்முறை ஆலோசனை அல்ல. யாராவது அதைக் கையாள வேண்டும் எனில், எங்கள் வழங்குநர்கள் உதவ முடியும்.',
+  'NegaraKu.md は一般的な知識であり、専門的な助言ではありません。対応を任せたいときは、スポンサーがお手伝いできます。',
+  'NegaraKu.md는 일반 지식이며 전문적인 조언이 아닙니다. 누군가 처리해 주길 원하신다면 스폰서가 도와드릴 수 있습니다.',
+  'NegaraKu.md เป็นความรู้ทั่วไป ไม่ใช่คำแนะนำจากผู้เชี่ยวชาญ หากต้องการให้มีผู้ดำเนินการให้ ผู้สนับสนุนของเราช่วยได้',
+  'NegaraKu.md là kiến thức tổng quát, không phải tư vấn chuyên nghiệp. Khi bạn cần ai đó xử lý, nhà tài trợ của chúng tôi có thể giúp.',
+  'NegaraKu.md adalah pengetahuan umum, bukan nasihat profesional. Saat Anda butuh seseorang menanganinya, sponsor kami dapat membantu.',
+  'NegaraKu.md هو معرفة عامة وليس استشارة مهنية. عندما تحتاج إلى من يتولى الأمر، يمكن لرعاتنا المساعدة.',
+  'NegaraKu.md सामान्य जानकारी है, पेशेवर सलाह नहीं। जब आपको किसी से इसे संभालवाना हो, तो हमारे प्रायोजक मदद कर सकते हैं।',
+  'NegaraKu.md es conocimiento general, no asesoramiento profesional. Cuando necesite que alguien se encargue, nuestros patrocinadores pueden ayudar.',
+  "NegaraKu.md est une connaissance générale, pas un conseil professionnel. Quand vous avez besoin que quelqu’un s’en charge, nos sponsors peuvent aider.");
+const disclosure = L('Penaja NegaraKu.md.', 'Sponsors of NegaraKu.md.', 'NegaraKu.md 的赞助方。', 'NegaraKu.md இன் வழங்குநர்கள்.', 'NegaraKu.md のスポンサー。', 'NegaraKu.md의 스폰서입니다.', 'ผู้สนับสนุนของ NegaraKu.md', 'Nhà tài trợ của NegaraKu.md.', 'Sponsor NegaraKu.md.', 'رعاة NegaraKu.md.', 'NegaraKu.md के प्रायोजक।', 'Patrocinadores de NegaraKu.md.', 'Sponsors de NegaraKu.md.');
+
+const cards = [SPONSORS['1company'], SPONSORS['1financing']].filter(Boolean).map((s) => ({
+  sponsor: s,
+  href: sponsorUrl(s, 'get-help', 'page'),
+}));
+---
+
+<PageHero locale={locale} title={title} description={intro} />
+
+<section class="container block gethelp" data-pagefind-ignore>
+  <p class="gh-disc">{disclosure}</p>
+  <div class="gh-grid">
+    {cards.map(({ sponsor, href }) => (
+      <article class="gh-card">
+        <p class="gh-head">{sponsor.heading[l]}</p>
+        <p class="gh-text"><a class="oneco gh-name" href={href} target="_blank" rel="sponsored noopener">{sponsor.name}</a>{sponsor.blurb[l]}</p>
+        <a class="gh-cta" href={href} target="_blank" rel="sponsored noopener">{sponsor.cta[l]} <span class="dirx">→</span></a>
+      </article>
+    ))}
+  </div>
+</section>
+
+<style>
+  .gethelp { max-width: 960px; }
+  .gh-disc { color: var(--muted, #9a9ab8); font-size: 0.85rem; margin: 0 0 1rem; }
+  .gh-grid { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+  .gh-card {
+    display: grid; gap: 0.9rem; align-content: start;
+    padding: 1.75rem;
+    border: 1px solid color-mix(in srgb, var(--gold) 45%, transparent);
+    border-radius: 14px;
+    background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent));
+  }
+  .gh-head { margin: 0; font-weight: 700; font-size: 1.15rem; color: var(--gold); }
+  .gh-text { margin: 0; color: var(--text-2, inherit); line-height: 1.6; }
+  .gh-name { color: var(--gold); font-weight: 700; text-transform: lowercase !important; text-decoration: none; }
+  .gh-name:hover { text-decoration: underline; }
+  .gh-cta {
+    justify-self: start; display: inline-flex; align-items: center; gap: 0.4rem;
+    font-weight: 600; text-decoration: none; padding: 0.55rem 1rem;
+    border-radius: 8px; background: var(--gold); color: #000;
+  }
+  .gh-cta:hover { filter: brightness(1.05); }
+  [dir='rtl'] .dirx { display: inline-block; transform: scaleX(-1); }
+</style>

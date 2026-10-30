@@ -1,6 +1,6 @@
 ---
 import type { Locale, Category } from '@/lib/categories';
-import { getPillar, getPillarDef, categoriesInPillar, PILLARS, loc, hubSlug, getCategoryColor } from '@/lib/categories';
+import { getPillar, getPillarDef, categoriesInPillar, pillarGridCategories, PILLARS, loc, hubSlug, getCategoryColor } from '@/lib/categories';
 import type { Article } from '@/lib/content';
 import { mostReadKeys } from '@/lib/apidata';
 import { localePath } from '@/lib/i18n';
@@ -28,7 +28,7 @@ const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const topicCount = new Set(articles.flatMap((a) => a.data.subcategory)).size;
 // Follow the section-page hero: Sections (site total) · Categories (siblings in
 // this section) · Topics · Articles.
-const catCount = pillar ? categoriesInPillar(pillar).length : 0;
+const catCount = pillar ? pillarGridCategories(pillar).length : 0;
 
 // Hero stats: drop the "categories" tile for a category with no parent pillar,
 // rather than showing a meaningless "0 categories".
