@@ -4,6 +4,7 @@ title: "شراء عقار بالمزاد (Bank Lelong)"
 seoTitle: "Bank Lelong في ماليزيا: كيف يعمل شراء العقارات بالمزاد"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "كيف تعمل مزادات حبس الرهن المصرفية والقضائية (lelong) في ماليزيا — العربون الذي تدفعه في اليوم نفسه، والموعد النهائي لسداد الرصيد، ولماذا يحمل الشراء بالمزاد (lelong) مخاطر لا يحملها الشراء العادي باتفاقية بيع وشراء (SPA)."
 

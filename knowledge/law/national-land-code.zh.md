@@ -3,6 +3,7 @@ topicId: MY-LAW-0031
 title: "National Land Code 1965——让马来西亚半岛每一份地契都写明姓名的法令"
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 828，即 National Land Code 1965，是在马来西亚半岛十一个州属施行托伦斯地契登记制度（Torrens system）的法令——由登记册本身，而非锁在抽屉里的地契文件，来最终裁定一块地究竟归谁所有。沙巴与砂拉越则各自施行本身独立的土地法律。"
 tier: "4"

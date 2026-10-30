@@ -4,6 +4,7 @@ title: "산업안전보건법: 고용주의 책임"
 seoTitle: "OSHA 1994(Act 514)에 따른 고용주의 책임"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "산업안전보건법(OSHA 1994, Act 514)에 따라 고용주는 실행 가능한 범위에서 근로자의 안전과 보건을 보장할 의무가 있습니다. 2024년 6월 1일에 시행된 2022년 개정은 적용 범위를 확대하고, 새로운 의무를 추가하였으며, 최고 벌금을 RM500,000으로 인상하였습니다."
 

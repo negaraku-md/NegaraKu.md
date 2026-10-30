@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "Employment Act 1955 (Act 265)"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "Statute entity page for Malaysia's principal employment statute — what Act 265 governs, who administers it, its amendment history, and the articles that explain each duty in practice."
 

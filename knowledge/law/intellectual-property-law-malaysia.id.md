@@ -4,6 +4,7 @@ title: "Hukum Kekayaan Intelektual: Merek Dagang, Paten dan Hak Cipta"
 seoTitle: "Hukum Kekayaan Intelektual Malaysia: Merek Dagang, Paten"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "Bagaimana Malaysia melindungi merek dagang, paten dan hak cipta — tiga Undang-undang yang mengatur, apa yang didaftarkan oleh MyIPO, berapa lama perlindungan bertahan, dan keputusan yang perlu dibuat dengan benar oleh bisnis atau investor."
 

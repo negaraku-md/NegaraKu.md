@@ -4,6 +4,7 @@ title: "Membeli Rumah di Malaysia: Apa yang Sebenarnya Terjadi Antara Biaya Peme
 seoTitle: Membeli Rumah di Malaysia
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Satu pembelian rumah di Malaysia berjalan di atas dua jalur paralel — jalur Perjanjian Jual Beli dan jalur pinjaman — yang bertemu saat pencairan dan berakhir pada Memorandum Pindah Milik. Mengetahui pengacara mana melakukan apa, dan di mana bea meterai sebenarnya dikenakan, itulah yang menjadikan beberapa bulan yang menegangkan itu suatu proses yang dapat diprediksi."
 tier: "2"

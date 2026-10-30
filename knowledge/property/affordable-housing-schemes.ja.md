@@ -4,6 +4,7 @@ title: "政府の手頃な価格の住宅制度（PR1MA、Residensi Wilayah、Ru
 seoTitle: "マレーシア政府の手頃な価格の住宅制度：資格と申請方法"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "政府の主要な手頃な価格の住宅制度——PR1MA、Residensi Wilayah、Residensi MADANI、PPR、Rumah Mesra Rakyat、Rumah Selangorku——の所得区分、価格の上限、申請方法を簡潔にまとめたガイド。"
 

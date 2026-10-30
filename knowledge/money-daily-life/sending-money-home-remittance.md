@@ -4,6 +4,7 @@ title: "Sending Money Home From Malaysia: How to Tell a Licensed Remittance Chan
 seoTitle: Sending Money Home From Malaysia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking-payments"]
 summary: "Malaysia's remittance market runs on two lawful channels — bank international transfers and licensed non-bank money services businesses — both supervised by Bank Negara Malaysia. The one thing separating a legitimate operator from an illegal one is a licence you can actually verify before you hand over cash."
 

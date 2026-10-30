@@ -4,6 +4,7 @@ title: "CCRIS 与 CTOS：马来西亚信用报告如何运作以及如何查询"
 seoTitle: "CCRIS vs CTOS：免费查询马来西亚信用报告"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS 是马来西亚国家银行（Bank Negara Malaysia）持有的原始信用记录，可通过 eCCRIS 门户免费查询；而 CTOS 是持牌的私营机构，会生成 300–850 的信用评分。本指南说明两者的区别、如何索取各自的报告，以及如何更正错误。"
 

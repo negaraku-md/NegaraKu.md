@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "Luật Thuế thu nhập 1967 (Income Tax Act 1967, Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Trang thực thể về luật thuế trực thu chính của Malaysia — Act 53 điều chỉnh những gì, ai quản lý, nó được sửa đổi ra sao, và các bài viết giải thích từng phần của nó trên thực tế."
 

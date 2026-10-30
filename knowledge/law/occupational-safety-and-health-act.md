@@ -4,6 +4,7 @@ title: "Akta Keselamatan dan Kesihatan Pekerjaan: Tanggungjawab Majikan"
 seoTitle: "Tanggungjawab Majikan di Bawah OSHA 1994 (Akta 514)"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "Di bawah OSHA 1994 (Akta 514), majikan wajib memastikan keselamatan dan kesihatan pekerja setakat yang praktik. Pindaan 2022 yang berkuat kuasa 1 Jun 2024 meluaskan skop, menambah kewajipan baharu, dan menaikkan denda maksimum kepada RM500,000."
 

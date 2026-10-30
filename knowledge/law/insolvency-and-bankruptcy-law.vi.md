@@ -4,6 +4,7 @@ title: "Luật Mất khả năng Thanh toán và Phá sản tại Malaysia"
 seoTitle: "Luật Mất khả năng Thanh toán và Phá sản tại Malaysia: Hướng dẫn thực hành"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "Cách Malaysia xử lý một cá nhân hoặc công ty không thể trả nợ — phá sản cá nhân theo Luật Mất khả năng Thanh toán 1967, giải thể và cứu vãn doanh nghiệp theo Luật Công ty 2016, và Cục Mất khả năng Thanh toán quản lý cả hai."
 

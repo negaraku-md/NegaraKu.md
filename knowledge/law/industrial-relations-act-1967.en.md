@@ -4,6 +4,7 @@ title: "Industrial Relations Act 1967: Trade Unions and Unfair Dismissal"
 seoTitle: "Malaysia Industrial Relations Act 1967 (IRA): Unions & Unfair Dismissal"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "The Industrial Relations Act 1967 governs trade union recognition, collective bargaining, and claims of dismissal without just cause or excuse at the Industrial Court — the layer of labour relations not covered by the Employment Act 1955."
 

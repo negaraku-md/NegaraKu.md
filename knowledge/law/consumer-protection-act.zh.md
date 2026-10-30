@@ -3,6 +3,7 @@ topicId: "MY-LAW-0040"
 title: "Consumer Protection Act 1999：马来西亚消费者权利法令及其 RM5 仲裁庭"
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 599 的法令记录页——它针对误导行为、不安全商品与保证所赋予的权利，以及消费人索偿仲裁庭：一个免律师、只需 RM5 存档费、可受理最高 RM50,000 申索的仲裁庭。"
 tier: "4"

@@ -4,6 +4,7 @@ title: "경매로 부동산 사기(Bank Lelong)"
 seoTitle: "말레이시아 Bank Lelong: 경매 부동산 매수는 어떻게 작동하는가"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "말레이시아에서 은행 및 법원 담보권 실행 경매(lelong)가 어떻게 작동하는가 — 당일 내는 보증금, 잔금 기한, 그리고 lelong 매수가 일반 SPA 매수에는 없는 위험을 수반하는 이유."
 

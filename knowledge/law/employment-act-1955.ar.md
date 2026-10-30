@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "Employment Act 1955 (Act 265)"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "صفحة كيان تشريعي لقانون التوظيف الرئيسي في ماليزيا — ما ينظّمه Act 265، ومن يديره، وتاريخ تعديلاته، والمقالات التي تشرح كل واجب عملياً."
 

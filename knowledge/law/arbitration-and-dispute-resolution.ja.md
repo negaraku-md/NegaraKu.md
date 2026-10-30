@@ -4,6 +4,7 @@ title: "仲裁及び裁判外紛争解決"
 seoTitle: "マレーシアの仲裁とADR：2005年仲裁法、AIAC、調停"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "マレーシアが裁判所以外の場でどのように商事紛争を解決するか——2005年仲裁法（Arbitration Act 2005）のもとでの仲裁、アジア国際仲裁センター（AIAC）、及び調停を通じて。"
 

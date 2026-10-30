@@ -4,6 +4,7 @@ title: "Arbitration and Alternative Dispute Resolution"
 seoTitle: "Arbitration & ADR in Malaysia: Act 2005, AIAC, Mediation"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "How Malaysia resolves commercial disputes outside the courts — through arbitration under the Arbitration Act 2005, the Asian International Arbitration Centre (AIAC), and mediation."
 

@@ -4,6 +4,7 @@ title: "Do You Have to File Income Tax in Malaysia? Start With the Residency Tes
 seoTitle: "Malaysia Personal Income Tax: Residency Test & How to e-File"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "Whether you owe Malaysian income tax turns first on a statutory day-count residency test, not on citizenship or visa type. This walks through that test, when registering a tax file becomes mandatory, and the actual e-Daftar-to-e-Filing sequence on LHDN's MyTax portal."
 

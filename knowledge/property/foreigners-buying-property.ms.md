@@ -4,6 +4,7 @@ title: "Bolehkah Warga Asing Membeli Hartanah di Malaysia? Harga Minimum dan Keb
 seoTitle: Bolehkah Warga Asing Membeli Hartanah di Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Warga asing boleh membeli kebanyakan hartanah Malaysia, tetapi hanya melebihi harga minimum yang ditetapkan sendiri oleh setiap negeri, dan hanya selepas Pihak Berkuasa Negeri memberikan kebenaran bertulis di bawah Kanun Tanah Negara — dua pintu berasingan, bukan satu, dan bukan satu angka kebangsaan yang tetap."
 

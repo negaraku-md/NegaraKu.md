@@ -4,6 +4,7 @@ title: "CCRIS dan CTOS: Cara Laporan Kredit Malaysia Berfungsi dan Cara Menyemak
 seoTitle: "CCRIS vs CTOS: Semak Laporan Kredit Malaysia Secara Percuma"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS ialah rekod kredit mentah milik Bank Negara Malaysia yang boleh disemak percuma melalui portal eCCRIS, manakala CTOS ialah agensi swasta berlesen yang menjana skor kredit 300-850. Panduan ini menerangkan perbezaannya, cara meminta setiap laporan, dan cara membetulkan kesilapan."
 

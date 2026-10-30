@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "Income Tax Act 1967 (Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "मलेशिया के प्रमुख प्रत्यक्ष-कर कानून के लिए संविधि इकाई पृष्ठ — Act 53 किसे शासित करता है, इसे कौन प्रशासित करता है, इसमें संशोधन कैसे होता है, और वे लेख जो व्यवहार में इसके प्रत्येक भाग को समझाते हैं।"
 

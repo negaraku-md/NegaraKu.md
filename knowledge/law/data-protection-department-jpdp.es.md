@@ -5,6 +5,7 @@ seoTitle: "JPDP: el Departamento de Protección de Datos Personales de Malasia"
 socialTitle: "¿Quién hace cumplir realmente la ley de privacidad de datos de Malasia? Conoce a JPDP"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "El Departamento de Protección de Datos Personales (Jabatan Perlindungan Data Peribadi, JPDP) es la agencia federal, dependiente del Ministerio Digital, que administra y hace cumplir la Ley de Protección de Datos Personales de 2010 de Malasia, registrando a los controladores de datos, gestionando quejas y supervisando las reformas de 2025 sobre notificación de brechas y delegados de protección de datos."
 tier: "3"

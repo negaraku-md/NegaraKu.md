@@ -5,6 +5,7 @@ seoTitle: "JPDP：マレーシアの個人データ保護局"
 socialTitle: "マレーシアのデータ保護法を実際に執行しているのは誰か？JPDPを知る"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "個人データ保護局（Jabatan Perlindungan Data Peribadi、JPDP）は、デジタル省傘下の連邦機関であり、マレーシアの2010年個人データ保護法を執行・運用する。データ管理者の登録、苦情対応、そしてデータ侵害通知とデータ保護責任者に関する2025年の改革の監督を行う。"
 tier: "3"

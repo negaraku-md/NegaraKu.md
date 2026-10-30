@@ -4,6 +4,7 @@ title: "공익신고자보호법 2010: 무엇을 보호하며 그 한계는 무�
 seoTitle: "말레이시아 공익신고자보호법 2010: 보호와 한계"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "말레이시아의 공익신고자보호법 2010(Whistleblower Protection Act 2010, Act 711)은 부적절한 행위를 집행 기관에 신고하는 사람을 비밀 보장, 면책 및 보복으로부터의 보호로 감쌉니다. 그러나 신고자가 그 위법 행위에 가담하였거나, 먼저 공개하였거나, 그 밖에 제11조에 저촉되는 경우 그 보호는 무너집니다."
 

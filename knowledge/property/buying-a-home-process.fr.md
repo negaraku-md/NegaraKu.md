@@ -4,6 +4,7 @@ title: "Acheter un logement en Malaisie : ce qui se passe réellement entre les 
 seoTitle: Acheter un logement en Malaisie
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "L'achat d'un logement en Malaisie avance sur deux voies parallèles — la voie du Contrat de vente (SPA) et la voie du prêt — qui se rejoignent au décaissement et s'achèvent avec le Mémorandum de transfert. Savoir quel avocat fait quoi, et où le droit de timbre est réellement prélevé, est ce qui transforme quelques mois stressants en des mois prévisibles."
 tier: "2"

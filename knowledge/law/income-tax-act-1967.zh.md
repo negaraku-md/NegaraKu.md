@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "1967年所得税法令（第53号法令）"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "马来西亚主要直接税法的法令实体页——Act 53 管辖什么、由谁执行、它如何被修订，以及在实务上解释其每一部分的文章。"
 

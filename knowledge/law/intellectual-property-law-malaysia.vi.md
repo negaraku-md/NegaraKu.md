@@ -4,6 +4,7 @@ title: "Luật Sở hữu Trí tuệ: Nhãn hiệu, sáng chế và bản quyề
 seoTitle: "Luật Sở hữu Trí tuệ Malaysia: Hướng dẫn về nhãn hiệu, sáng chế, bản quyền"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "Cách Malaysia bảo hộ nhãn hiệu, sáng chế và bản quyền — ba đạo luật điều chỉnh, những gì MyIPO đăng ký, thời gian bảo hộ kéo dài bao lâu, và các quyết định mà một doanh nghiệp hoặc nhà đầu tư phải làm đúng."
 

@@ -4,6 +4,7 @@ title: "The Strata Titles Act and Living in a Strata Scheme"
 seoTitle: "Malaysia Strata Titles Act & Strata Management Act"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "Two laws govern condominium living in Malaysia: the Strata Titles Act 1985 gives you title to your parcel, while the Strata Management Act 2013 regulates the management body, maintenance charges and dispute resolution."
 

@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "قانون الشركات لسنة 2016 (Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "صفحة تعريف نظامي بقانون الشركات الرئيسي في ماليزيا — ماذا يحكم Act 777، ومن يتولى إدارته، وتاريخ تعديلاته بما في ذلك Act A1701، والمقالات التي تشرح كل واجب في الممارسة العملية."
 

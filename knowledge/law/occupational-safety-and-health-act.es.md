@@ -4,6 +4,7 @@ title: "Ley de Seguridad y Salud en el Trabajo: deberes del empleador"
 seoTitle: "Deberes del empleador bajo la OSHA 1994 (Act 514)"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "Bajo la OSHA 1994 (Act 514), los empleadores deben garantizar la seguridad y la salud de sus trabajadores en la medida en que sea factible. Las enmiendas de 2022, que entraron en vigor el 1 de junio de 2024, ampliaron el alcance, añadieron nuevos deberes y elevaron la multa máxima a RM500,000."
 

@@ -4,6 +4,7 @@ title: "Consumer Protection Act 1999: قانون حقوق المستهلك ال�
 seoTitle: Consumer Protection Act 1999
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "صفحة تعريفية بقانون Act 599 — الحقوق التي يمنحها في مواجهة الممارسات المضلِّلة والسلع غير الآمنة والضمانات، ومحكمة مطالبات المستهلكين (Tribunal for Consumer Claims): منتدى بلا محامٍ برسم RM5 للمطالبات حتى RM50,000."
 tier: "4"

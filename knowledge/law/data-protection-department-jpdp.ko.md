@@ -5,6 +5,7 @@ seoTitle: "JPDP: 말레이시아 개인정보보호청"
 socialTitle: "말레이시아의 개인정보 보호법은 실제로 누가 집행하는가? JPDP를 소개합니다"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "개인정보보호청(Jabatan Perlindungan Data Peribadi, JPDP)은 디지털부(Digital Ministry) 산하의 연방 기관으로, 말레이시아의 2010년 개인정보보호법(Personal Data Protection Act 2010)을 관장·집행하며, 데이터 컨트롤러를 등록하고, 민원을 처리하며, 유출 통지 및 개인정보보호책임자에 관한 2025년 개혁을 감독합니다."
 tier: "3"

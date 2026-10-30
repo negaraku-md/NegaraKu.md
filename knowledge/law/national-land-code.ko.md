@@ -4,6 +4,7 @@ title: "국가토지법 1965(National Land Code) — 말레이시아 반도의 �
 seoTitle: 국가토지법 1965(National Land Code)
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 828, 즉 국가토지법 1965(National Land Code)은 말레이시아 반도 11개 주 전역에서 등록 권원의 토런스 제도(Torrens system)를 운영하는 법률로서, 서랍 속 증서가 아니라 등기부 자체가 토지의 소유자를 확정하는 최종 근거가 됩니다. 사바와 사라왁은 각기 별도의 토지법을 운영합니다."
 tier: "4"

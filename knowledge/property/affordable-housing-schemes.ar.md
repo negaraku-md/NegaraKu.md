@@ -4,6 +4,7 @@ title: "برامج الإسكان الميسّر الحكومية (PR1MA وResid
 seoTitle: "برامج الإسكان الميسّر الحكومية في ماليزيا: الأهلية وكيفية التقدّم"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "دليل موجز لشرائح الدخل وسقوف الأسعار وخطوات التقدّم لأبرز برامج الإسكان الميسّر الحكومية — PR1MA وResidensi Wilayah وResidensi MADANI وPPR وRumah Mesra Rakyat وRumah Selangorku."
 

@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "2016年公司法令（第777号法令）"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "马来西亚主要公司法的法令实体页——Act 777 管辖什么、由谁执行、它的修订沿革（包括 Act A1701），以及在实务上解释其每一项责任的文章。"
 

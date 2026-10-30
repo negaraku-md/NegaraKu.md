@@ -4,6 +4,7 @@ title: "拍卖购置房产（银行拍卖 Bank Lelong）"
 seoTitle: "马来西亚银行拍卖（Bank Lelong）：拍卖房产买卖如何运作"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "马来西亚银行及法庭止赎拍卖（lelong）如何运作——当天须缴付的订金、余款期限，以及为何拍卖购置所承担的风险高于一般买卖合约（SPA）购置。"
 

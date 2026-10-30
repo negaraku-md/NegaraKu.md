@@ -4,6 +4,7 @@ title: "Đạo luật Tín dụng Tiêu dùng 2025 và việc quản lý Thuê m
 seoTitle: "Đạo luật Tín dụng Tiêu dùng 2025 & Đạo luật Thuê mua Malaysia: Hướng dẫn"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "Đạo luật Tín dụng Tiêu dùng 2025 đưa các bên cho vay phi ngân hàng và BNPL vào dưới một ủy ban mới, trong khi Đạo luật Thuê mua 1967 tiếp tục quản lý việc tài trợ xe cộ và hàng hóa — hai khuôn khổ nay được làm mới đồng thời."
 

@@ -4,6 +4,7 @@ title: "Comprar una vivienda en Malasia: qué ocurre realmente entre la cuota de
 seoTitle: Comprar una vivienda en Malasia
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "La compra de una vivienda en Malasia avanza por dos vías paralelas — la vía del Contrato de Compraventa (SPA) y la vía del préstamo — que se encuentran en el desembolso y concluyen con el Memorándum de Transferencia. Saber qué abogado hace qué, y dónde se cobra realmente el impuesto de timbre, es lo que convierte unos meses estresantes en unos predecibles."
 tier: "2"

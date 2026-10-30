@@ -4,6 +4,7 @@ title: "Luật An toàn và Sức khỏe Nghề nghiệp: Trách nhiệm của n
 seoTitle: "Trách nhiệm của người sử dụng lao động theo OSHA 1994 (Act 514)"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "Theo OSHA 1994 (Act 514), người sử dụng lao động bắt buộc phải bảo đảm an toàn và sức khỏe của người lao động trong mức khả thi. Sửa đổi 2022 có hiệu lực ngày 1 Jun 2024 mở rộng phạm vi, bổ sung các nghĩa vụ mới, và nâng mức phạt tối đa lên RM500,000."
 

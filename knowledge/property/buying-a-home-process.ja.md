@@ -3,6 +3,7 @@ topicId: "MY-LIV-0032"
 title: "マレーシアで家を買う：予約金から鍵を受け取るまでに実際に何が起きるのか"
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "マレーシアの住宅購入は二本の並行する道筋で進む——売買契約（SPA）の道筋と、住宅ローンの道筋——であり、両者は資金実行の時点で交わり、移転覚書の完成をもって終わる。どの弁護士が何を担うのか、そして印紙税が実際どこで課されるのかを理解することこそ、緊張の数か月を予見可能なものへと変える鍵である。"
 tier: "2"

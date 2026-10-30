@@ -4,6 +4,7 @@ title: "Luật Chứng thư Phân tầng và Cuộc sống trong Chương trình
 seoTitle: "Luật Chứng thư Phân tầng & Luật Quản lý Phân tầng Malaysia"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "Hai đạo luật điều chỉnh cuộc sống chung cư ở Malaysia: Luật Chứng thư Phân tầng (Strata Titles Act 1985) trao cho bạn chứng thư đối với căn hộ (petak), còn Luật Quản lý Phân tầng (Strata Management Act 2013) điều chỉnh cơ quan quản lý, phí bảo trì và giải quyết tranh chấp."
 

@@ -4,6 +4,7 @@ title: "அரசாங்க மலிவு வீட்டுத் திட
 seoTitle: "மலேசிய அரசாங்க மலிவு வீட்டுத் திட்டங்கள்: தகுதி மற்றும் விண்ணப்பிக்கும் முறை"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "அரசாங்கத்தின் முக்கிய மலிவு வீட்டுத் திட்டங்களின் வருமான வரம்புகள், விலை உச்சவரம்பு மற்றும் விண்ணப்பிக்கும் முறை பற்றிய சுருக்கமான வழிகாட்டி — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat மற்றும் Rumah Selangorku."
 

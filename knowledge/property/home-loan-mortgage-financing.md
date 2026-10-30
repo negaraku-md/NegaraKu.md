@@ -4,6 +4,7 @@ title: "Pinjaman Perumahan dan Pembiayaan Gadai Janji di Malaysia"
 seoTitle: "Pinjaman Perumahan Malaysia: Margin, KWSP, SJKP & Duti Setem"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "Panduan pembiayaan rumah di Malaysia — margin pembiayaan, garis panduan pembiayaan bertanggungjawab BNM, MRTA/MLTA, pengeluaran KWSP Akaun Sejahtera, skim jaminan SJKP dan duti setem perjanjian pinjaman."
 

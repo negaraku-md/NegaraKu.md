@@ -4,6 +4,7 @@ title: "你是否需要在马来西亚缴付所得税？从居民身份测试着
 seoTitle: "马来西亚个人所得税：居民身份测试与 e-Filing 报税方法"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "你是否须缴付马来西亚所得税，首先取决于一项法定的天数居民身份测试，而不是取决于国籍或签证类型。本文走一遍这项测试、几时登记税务档案变成强制性，以及在 LHDN 的 MyTax 门户上，从 e-Daftar 到 e-Filing 的实际顺序。"
 

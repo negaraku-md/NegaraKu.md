@@ -4,6 +4,7 @@ title: "Skema Rumah Terjangkau Pemerintah (PR1MA, Residensi Wilayah, Rumah Mesra
 seoTitle: "Skema Rumah Terjangkau Pemerintah Malaysia: Kelayakan & Cara Memohon"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "Panduan ringkas jalur pendapatan, harga plafon dan cara memohon skema rumah terjangkau utama pemerintah — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat dan Rumah Selangorku."
 

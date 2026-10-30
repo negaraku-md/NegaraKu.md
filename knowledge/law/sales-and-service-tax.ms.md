@@ -4,6 +4,7 @@ title: "Cukai Jualan dan Perkhidmatan (SST)"
 seoTitle: "Cukai Jualan & Perkhidmatan Malaysia (SST): Kadar & Ambang"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Cukai Jualan dan Perkhidmatan (SST) Malaysia ialah cukai penggunaan dua bahagian yang ditadbir oleh Jabatan Kastam Diraja Malaysia di bawah Akta Cukai Jualan 2018 dan Akta Cukai Perkhidmatan 2018. Panduan ini merangkumi siapa yang perlu berdaftar, ambang RM500,000/RM1,000,000/RM1,500,000, kadar 5%/10% dan 6%/8%, serta cara penyata dan bayaran berfungsi selepas peluasan skop pada 1 Julai 2025."
 

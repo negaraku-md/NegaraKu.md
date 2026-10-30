@@ -4,6 +4,7 @@ title: "Hukum Insolvensi dan Kepailitan di Malaysia"
 seoTitle: "Hukum Insolvensi dan Kepailitan di Malaysia: Panduan Praktis"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "Bagaimana Malaysia menangani seseorang atau perusahaan yang tidak mampu membayar utang — kepailitan individu di bawah Insolvency Act 1967, pembubaran dan penyelamatan korporat di bawah Companies Act 2016, serta Jabatan Insolvensi yang mengelola keduanya."
 

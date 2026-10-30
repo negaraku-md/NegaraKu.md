@@ -4,6 +4,7 @@ title: "Timbang Tara dan Penyelesaian Pertikaian Alternatif"
 seoTitle: "Timbang Tara & ADR di Malaysia: Akta 2005, AIAC, Pengantaraan"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "Bagaimana Malaysia menyelesaikan pertikaian komersial di luar mahkamah — melalui timbang tara di bawah Akta Timbang Tara 2005, Pusat Timbang Tara Antarabangsa Asia (AIAC), dan pengantaraan."
 

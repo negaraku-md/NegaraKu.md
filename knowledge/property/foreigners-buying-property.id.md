@@ -4,6 +4,7 @@ title: "Bisakah Warga Asing Membeli Properti di Malaysia? Harga Minimum dan Pers
 seoTitle: Bisakah Warga Asing Membeli Properti di Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Warga asing dapat membeli kebanyakan properti Malaysia, tetapi hanya di atas harga minimum yang ditetapkan sendiri oleh setiap negeri, dan hanya setelah Pihak Berwenang Negeri memberikan persetujuan tertulis di bawah National Land Code — dua pintu terpisah, bukan satu, dan bukan satu angka nasional yang tetap."
 

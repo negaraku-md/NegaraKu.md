@@ -4,6 +4,7 @@ title: "Droit de l'insolvabilité et de la faillite en Malaisie"
 seoTitle: "Droit de l'insolvabilité et de la faillite en Malaisie : un guide pratique"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "Comment la Malaisie traite une personne ou une entreprise qui ne peut pas payer ses dettes : la faillite personnelle au titre de l'Insolvency Act 1967, la liquidation et le sauvetage des entreprises au titre de la Companies Act 2016, et le Département de l'insolvabilité qui administre les deux."
 

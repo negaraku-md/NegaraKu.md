@@ -4,6 +4,7 @@ title: "Housing Development (Control and Licensing) Act 1966"
 seoTitle: "Housing Development Act 1966 (HDA): गृह-क्रेता संरक्षण गाइड"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "HDA 1966 (Act 118) प्रायद्वीपीय मलेशिया में निर्माण-पूर्व (off-plan) घरों के क्रेताओं की रक्षा करने वाला मूल कानून है — डेवलपर लाइसेंसिंग, अनिवार्य बिक्री एवं क्रय अनुबंध (Schedule G/H), विलंबित सुपुर्दगी पर 10% वार्षिक क्षतिपूर्ति, और गृह-क्रेता दावों के लिए अधिकरण (Tribunal) के माध्यम से।"
 

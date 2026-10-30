@@ -4,6 +4,7 @@ title: "Housing Development (Control and Licensing) Act 1966"
 seoTitle: "Akta Pemajuan Perumahan 1966 (HDA): Panduan Perlindungan Pembeli Rumah"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "HDA 1966 (Akta 118) ialah undang-undang teras yang melindungi pembeli rumah beli-belum-siap di Semenanjung Malaysia — melalui pelesenan pemaju, perjanjian jual beli wajib (Jadual G/H), ganti rugi lewat 10% setahun, dan Tribunal Tuntutan Pembeli Rumah."
 

@@ -3,6 +3,7 @@ topicId: MY-LAW-0031
 title: "1965年国家土地法典——マレーシア半島のすべての土地権原に名前を記した法令"
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 828、すなわち1965年国家土地法典（National Land Code 1965）は、マレーシア半島の十一州においてトーレンス制度（Torrens system）による登記制の土地権原制度を運用する法令である——引き出しの中の権原証書ではなく、登記そのものが、誰がその土地を所有するかについての最終的な決め手となる。サバとサラワクはそれぞれ独自の土地法を施行している。"
 tier: "4"

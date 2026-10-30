@@ -4,6 +4,7 @@ title: "CCRIS와 CTOS: 말레이시아 신용 보고서의 작동 방식과 확�
 seoTitle: "CCRIS 대 CTOS: 말레이시아 신용 보고서 무료 확인"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS는 eCCRIS 포털을 통해 무료로 확인할 수 있는 말레이시아 중앙은행(Bank Negara Malaysia) 소유의 원본 신용 기록이며, CTOS는 300-850점의 신용 점수를 산출하는 허가받은 민간 기관입니다. 이 안내서는 그 차이, 각 보고서를 요청하는 방법, 그리고 오류를 정정하는 방법을 설명합니다."
 

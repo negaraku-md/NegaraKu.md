@@ -4,6 +4,7 @@ title: "Mua bất động sản qua đấu giá (Bank Lelong)"
 seoTitle: "Bank Lelong Malaysia: Cách mua bất động sản đấu giá vận hành"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "Cách các phiên đấu giá tịch biên của ngân hàng và tòa án (lelong) vận hành ở Malaysia — khoản đặt cọc bạn trả trong ngày, hạn chót trả số dư, và vì sao mua qua lelong mang những rủi ro mà một giao dịch mua SPA thông thường không có."
 

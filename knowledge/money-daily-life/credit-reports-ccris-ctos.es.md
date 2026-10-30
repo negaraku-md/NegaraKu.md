@@ -4,6 +4,7 @@ title: "CCRIS y CTOS: cómo funcionan los informes de crédito de Malasia y cóm
 seoTitle: "CCRIS frente a CTOS: consulta gratis tu informe de crédito malasio"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS es el registro de crédito en bruto del Bank Negara Malaysia, que puedes consultar gratis a través del portal eCCRIS, mientras que CTOS es una agencia privada con licencia que genera una puntuación de crédito de 300 a 850. Esta guía explica las diferencias, cómo solicitar cada informe y cómo corregir errores."
 

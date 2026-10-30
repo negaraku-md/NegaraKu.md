@@ -4,6 +4,7 @@ title: "Devez-vous déclarer l'impôt sur le revenu en Malaisie ? Commencez par 
 seoTitle: "Impôt sur le revenu des personnes physiques en Malaisie : test de résidence et comment faire l'e-Filing"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "Que vous deviez ou non l'impôt sur le revenu malaisien dépend d'abord d'un test de résidence légal fondé sur le décompte des jours, et non de la citoyenneté ni du type de visa. Cet article parcourt ce test, explique quand l'enregistrement d'un dossier fiscal devient obligatoire, et détaille la séquence réelle d'e-Daftar à e-Filing sur le portail MyTax de LHDN."
 

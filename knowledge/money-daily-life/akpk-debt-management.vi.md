@@ -4,6 +4,7 @@ title: "AKPK: Cơ quan Tư vấn Nợ Miễn phí của Malaysia và Chương tr
 seoTitle: "AKPK & Chương trình Quản lý Tín dụng (PPK): Tư vấn nợ miễn phí"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK là công ty con thuộc sở hữu hoàn toàn của Ngân hàng Trung ương Malaysia, cung cấp tư vấn tài chính miễn phí và Chương trình Quản lý Tín dụng (PPK) để cơ cấu lại các khoản nợ nhà ở, mua trả góp và thẻ tín dụng thành một khoản thanh toán hằng tháng."
 

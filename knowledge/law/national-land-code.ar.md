@@ -4,6 +4,7 @@ title: "National Land Code 1965 — القانون الذي وضع اسمًا ع
 seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "إن Act 828، أي National Land Code 1965، هو القانون الذي يُدير نظام توريِنز (Torrens) للملكية المسجَّلة عبر ولايات شبه جزيرة ماليزيا الإحدى عشرة — حيث السجل نفسه، لا سند الملكية المحفوظ في درج، هو الفيصل في من يملك قطعة أرض. أما صباح وساراواك فتُدير كلٌّ منهما قوانين أراضيها المنفصلة الخاصة."
 tier: "4"

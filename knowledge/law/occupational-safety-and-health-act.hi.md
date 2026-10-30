@@ -4,6 +4,7 @@ title: "Occupational Safety and Health Act: नियोक्ता के क�
 seoTitle: "OSHA 1994 (Act 514) के तहत नियोक्ता के कर्तव्य"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "OSHA 1994 (Act 514) के तहत, नियोक्ताओं को जहाँ तक व्यवहार्य हो, अपने श्रमिकों की सुरक्षा और स्वास्थ्य सुनिश्चित करना होता है। 2022 के संशोधन, जो 1 जून 2024 को प्रभावी हुए, ने दायरा व्यापक किया, नए कर्तव्य जोड़े, और अधिकतम जुर्माना बढ़ाकर RM500,000 कर दिया।"
 

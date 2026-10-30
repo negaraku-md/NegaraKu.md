@@ -4,6 +4,7 @@ title: "Undang-Undang Harta Intelek: Cap Dagangan, Paten dan Hak Cipta"
 seoTitle: "Undang-Undang Harta Intelek Malaysia: Cap Dagang, Paten"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "Bagaimana Malaysia melindungi cap dagangan, paten dan hak cipta — tiga Akta yang mentadbir, apa yang didaftarkan oleh MyIPO, berapa lama perlindungan bertahan, dan keputusan yang perlu dibuat dengan betul oleh perniagaan atau pelabur."
 

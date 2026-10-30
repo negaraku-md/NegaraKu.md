@@ -4,6 +4,7 @@ title: "Insolvency and Bankruptcy Law in Malaysia"
 seoTitle: "Insolvency and Bankruptcy Law in Malaysia: A Practical Guide"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "How Malaysia handles a person or company that cannot pay its debts — personal bankruptcy under the Insolvency Act 1967, corporate winding-up and rescue under the Companies Act 2016, and the Insolvency Department that administers both."
 

@@ -4,6 +4,7 @@ title: "1966年房屋发展（管制与执照）法令"
 seoTitle: "1966年房屋发展法令（HDA）：购屋者保障指南"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "1966年房屋发展法令（第118号法令，HDA）是保护西马半岛未建成购屋者的核心法律——通过发展商执照、强制买卖合约（附表G／H）、每年10%的迟交赔偿，以及购屋者索偿仲裁庭来实现保障。"
 

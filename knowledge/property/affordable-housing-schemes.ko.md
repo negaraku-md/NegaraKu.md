@@ -4,6 +4,7 @@ title: "정부 부담가능주택 제도(PR1MA, Residensi Wilayah, Rumah Mesra R
 seoTitle: "말레이시아 정부 부담가능주택 제도: 자격 요건과 신청 방법"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "정부의 주요 부담가능주택 제도 — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat, Rumah Selangorku — 의 소득 구간, 가격 상한, 신청 방법을 간략히 정리한 안내입니다."
 

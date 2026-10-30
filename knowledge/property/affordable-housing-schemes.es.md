@@ -4,6 +4,7 @@ title: "Programas gubernamentales de vivienda asequible (PR1MA, Residensi Wilaya
 seoTitle: "Programas gubernamentales de vivienda asequible en Malasia: elegibilidad y cómo solicitar"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "Una guía concisa de los tramos de ingresos, los topes de precio y los pasos de solicitud de los principales programas gubernamentales de vivienda asequible — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat y Rumah Selangorku."
 

@@ -4,6 +4,7 @@ title: "Whistleblower Protection Act 2010: What It Covers and Its Limits"
 seoTitle: "Whistleblower Protection Act 2010 Malaysia: Protections and Limits"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "Malaysia's Whistleblower Protection Act 2010 (Act 711) shields people who report improper conduct to an enforcement agency with confidentiality, immunity and protection against reprisal, but the protection collapses if the whistleblower took part in the wrongdoing, went public first, or otherwise falls foul of Section 11."
 

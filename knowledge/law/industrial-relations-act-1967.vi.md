@@ -4,6 +4,7 @@ title: "Luật Quan hệ Lao động Công nghiệp 1967: Công đoàn và sa th
 seoTitle: "Luật Quan hệ Lao động Công nghiệp 1967 Malaysia: Công đoàn & sa thải không công bằng"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "Luật Quan hệ Lao động Công nghiệp 1967 điều chỉnh việc công nhận công đoàn, thương lượng tập thể, và các yêu cầu về sa thải không có lý do chính đáng tại Tòa án Lao động Công nghiệp — lớp quan hệ lao động không được Luật Lao động 1955 bao trùm."
 

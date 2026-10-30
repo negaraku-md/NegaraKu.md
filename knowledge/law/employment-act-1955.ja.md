@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "1955年雇用法（Employment Act 1955、Act 265）"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "マレーシアの主要な雇用法令の法令エンティティページ——Employment Act 1955（Act 265）が何を規律し、誰が所管し、その改正の沿革、そして実務上その各義務を解説する記事。"
 

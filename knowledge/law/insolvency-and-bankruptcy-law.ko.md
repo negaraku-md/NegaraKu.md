@@ -4,6 +4,7 @@ title: "말레이시아의 도산 및 파산법"
 seoTitle: "말레이시아의 도산 및 파산법: 실무 안내"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "말레이시아가 채무를 갚을 수 없는 개인이나 회사를 다루는 방식 — 도산법 1967(Insolvency Act 1967)에 따른 개인 파산, 회사법 2016(Companies Act 2016)에 따른 회사 청산 및 회생, 그리고 이 둘을 모두 운용하는 도산청을 다룹니다."
 

@@ -4,6 +4,7 @@ title: "อนุญาโตตุลาการและการระงั
 seoTitle: "อนุญาโตตุลาการและ ADR ในมาเลเซีย: Act 2005, AIAC, การไกล่เกลี่ย"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "มาเลเซียระงับข้อพิพาททางการค้านอกศาลอย่างไร — ผ่านอนุญาโตตุลาการภายใต้พระราชบัญญัติอนุญาโตตุลาการ (Arbitration Act 2005), ศูนย์อนุญาโตตุลาการระหว่างประเทศแห่งเอเชีย (AIAC) และการไกล่เกลี่ย"
 

@@ -4,6 +4,7 @@ title: "National Land Code 1965 — वह क़ानून जिसने �
 seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 828, यानी National Land Code 1965, वह क़ानून है जो प्रायद्वीपीय मलेशिया के ग्यारह राज्यों में पंजीकृत स्वामित्व की टोरेंस (Torrens) प्रणाली चलाता है — जहाँ दराज़ में रखा दस्तावेज़ नहीं, बल्कि रजिस्टर ही यह अंतिम रूप से तय करता है कि किसी ज़मीन के टुकड़े का मालिक कौन है। सबा और सारावाक अपने-अपने अलग भूमि-कानून चलाते हैं।"
 tier: "4"

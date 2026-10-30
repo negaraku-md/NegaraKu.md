@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "2016年会社法（Companies Act 2016、Act 777）"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "マレーシアの主要な会社法の法令エンティティページ——Act 777 が何を規律し、誰が所管し、その改正沿革（Act A1701 を含む）はどうなっているか、そして各義務を実務で解説する記事はどれかをまとめる。"
 

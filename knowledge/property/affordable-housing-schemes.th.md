@@ -4,6 +4,7 @@ title: "โครงการบ้านที่อยู่อาศัยร
 seoTitle: "โครงการบ้านราคาประหยัดของรัฐบาลมาเลเซีย: คุณสมบัติและวิธีการยื่นขอ"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "คู่มือฉบับย่อเกี่ยวกับช่วงรายได้ เพดานราคา และวิธีการยื่นขอโครงการบ้านราคาประหยัดหลักของรัฐบาล ได้แก่ PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat และ Rumah Selangorku"
 

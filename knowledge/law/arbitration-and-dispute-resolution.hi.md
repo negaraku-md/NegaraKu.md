@@ -4,6 +4,7 @@ title: "मध्यस्थता और वैकल्पिक विवा
 seoTitle: "मलेशिया में मध्यस्थता एवं ADR: Act 2005, AIAC, मध्यस्थता-सुलह"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "मलेशिया अदालतों के बाहर वाणिज्यिक विवादों को कैसे सुलझाता है — मध्यस्थता अधिनियम 2005 (Arbitration Act 2005) के तहत मध्यस्थता, एशियाई अंतरराष्ट्रीय मध्यस्थता केंद्र (AIAC), और मध्यस्थता-सुलह (mediation) के माध्यम से।"
 

@@ -4,6 +4,7 @@ title: "Undang-Undang Insolvensi dan Kebankrapan di Malaysia"
 seoTitle: "Undang-Undang Insolvensi dan Kebankrapan di Malaysia: Panduan Praktikal"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "Bagaimana Malaysia menangani seseorang atau syarikat yang tidak mampu membayar hutang — kebankrapan individu di bawah Akta Insolvensi 1967, penggulungan dan penyelamatan korporat di bawah Akta Syarikat 2016, serta Jabatan Insolvensi yang mentadbir kedua-duanya."
 

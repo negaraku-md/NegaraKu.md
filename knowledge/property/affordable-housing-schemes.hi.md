@@ -4,6 +4,7 @@ title: "सरकारी किफ़ायती आवास योजना
 seoTitle: "मलेशिया की सरकारी किफ़ायती आवास योजनाएँ: पात्रता और आवेदन कैसे करें"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "सरकार की प्रमुख किफ़ायती आवास योजनाओं — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat और Rumah Selangorku — के आय-बैंड, मूल्य-सीमा और आवेदन-चरणों की एक संक्षिप्त मार्गदर्शिका।"
 

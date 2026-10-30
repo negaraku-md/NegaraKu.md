@@ -4,6 +4,7 @@ title: "Arbitrase dan Penyelesaian Sengketa Alternatif"
 seoTitle: "Arbitrase & ADR di Malaysia: Act 2005, AIAC, Mediasi"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "Bagaimana Malaysia menyelesaikan sengketa komersial di luar pengadilan — melalui arbitrase di bawah Arbitration Act 2005, Pusat Arbitrase Internasional Asia (AIAC), dan mediasi."
 

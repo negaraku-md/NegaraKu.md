@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "Income Tax Act 1967 (Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Statute entity page for Malaysia's principal direct tax law — what Act 53 governs, who administers it, how it is amended, and the articles that explain each part of it in practice."
 

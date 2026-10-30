@@ -4,6 +4,7 @@ title: "马来西亚房屋贷款与按揭融资"
 seoTitle: "马来西亚房屋贷款：融资额度、EPF公积金、SJKP与印花税"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "马来西亚购房融资指南——融资额度（margin）、国家银行（BNM）负责任贷款准则、MRTA/MLTA、公积金（KWSP）安康账户（Akaun Sejahtera）提款、SJKP房屋信贷担保计划以及贷款协议印花税。"
 

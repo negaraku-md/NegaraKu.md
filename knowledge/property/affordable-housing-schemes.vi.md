@@ -4,6 +4,7 @@ title: "Các chương trình nhà ở giá phải chăng của chính phủ (PR1
 seoTitle: "Chương trình nhà ở giá phải chăng của chính phủ Malaysia: Điều kiện & Cách nộp đơn"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "Hướng dẫn ngắn gọn về các mức thu nhập, giá trần và cách nộp đơn cho các chương trình nhà ở giá phải chăng chính của chính phủ — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat và Rumah Selangorku."
 

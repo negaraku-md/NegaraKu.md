@@ -4,6 +4,7 @@ title: "Prêts immobiliers et financement hypothécaire en Malaisie"
 seoTitle: "Prêts immobiliers en Malaisie : marge, EPF, SJKP et droit de timbre"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "Un guide sur le financement immobilier en Malaisie — marge de financement, directives de prêt responsable de la BNM, MRTA/MLTA, retraits de l'EPF Akaun Sejahtera, le dispositif de garantie SJKP et le droit de timbre sur les contrats de prêt."
 

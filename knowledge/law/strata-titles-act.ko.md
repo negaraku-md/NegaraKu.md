@@ -4,6 +4,7 @@ title: "분층소유권법과 분층 단지에서의 생활"
 seoTitle: "말레이시아 분층소유권법 및 분층관리법"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "두 개의 법이 말레이시아의 콘도미니엄 생활을 규율합니다. 분층소유권법 1985(Strata Titles Act 1985)는 여러분에게 구획(petak) 소유권을 부여하고, 분층관리법 2013(Strata Management Act 2013)은 관리 기구, 관리비 및 분쟁 해결을 규율합니다."
 

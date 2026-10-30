@@ -4,6 +4,7 @@ title: "2025년 소비자신용법(Consumer Credit Act 2025)과 할부구매 규
 seoTitle: "2025년 소비자신용법과 말레이시아 할부구매법: 안내"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "2025년 소비자신용법(Consumer Credit Act 2025)은 은행이 아닌 신용 제공자와 BNPL을 하나의 새로운 위원회 아래로 편입하며, 그동안 1967년 할부구매법(Hire Purchase Act 1967)은 계속해서 차량 및 물품 금융을 규율합니다 — 두 제도가 이제 동시에 정비되고 있습니다."
 

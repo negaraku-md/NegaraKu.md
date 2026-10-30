@@ -4,6 +4,7 @@ title: "Taxe sur les ventes et les services (SST)"
 seoTitle: "Taxe sur les ventes et les services (SST) de la Malaisie : taux, seuils et conformité"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "La Taxe sur les ventes et les services (SST) de la Malaisie est une taxe à la consommation en deux volets, administrée par le Département royal des douanes de Malaisie en vertu de la Loi sur la taxe sur les ventes de 2018 et de la Loi sur la taxe sur les services de 2018. Ce guide couvre qui doit s'enregistrer, les seuils de RM500,000/RM1,000,000/RM1,500,000, les taux de 5 %/10 % et de 6 %/8 %, et le fonctionnement des déclarations et des paiements après l'extension du 1 juillet 2025."
 

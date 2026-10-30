@@ -4,6 +4,7 @@ title: "CCRIS et CTOS : comment fonctionnent les rapports de crédit de la Malai
 seoTitle: "CCRIS contre CTOS : consultez gratuitement votre rapport de crédit malaisien"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS est le registre de crédit brut de Bank Negara Malaysia, que vous pouvez consulter gratuitement via le portail eCCRIS, tandis que CTOS est une agence privée agréée qui génère une cote de crédit de 300 à 850. Ce guide explique les différences, comment demander chaque rapport et comment corriger les erreurs."
 

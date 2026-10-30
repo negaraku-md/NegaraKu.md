@@ -4,6 +4,7 @@ title: "Apakah Anda Perlu Mengajukan Pajak Penghasilan di Malaysia? Mulai dengan
 seoTitle: "Pajak Penghasilan Individu Malaysia: Uji Residensi & Cara e-Filing"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "Apakah Anda perlu membayar pajak penghasilan Malaysia bergantung pertama-tama pada uji residensi berdasarkan hitungan hari yang berstatus statutori, bukan pada kewarganegaraan atau jenis visa. Ini menguraikan uji tersebut, kapan pendaftaran berkas pajak menjadi wajib, dan urutan sebenarnya e-Daftar-ke-e-Filing pada portal MyTax LHDN."
 

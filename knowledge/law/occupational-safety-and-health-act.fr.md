@@ -4,6 +4,7 @@ title: "Occupational Safety and Health Act : les obligations de l'employeur"
 seoTitle: "Obligations de l'employeur en vertu de l'OSHA 1994 (Act 514)"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "En vertu de l'OSHA 1994 (Act 514), les employeurs doivent assurer la sécurité et la santé de leurs travailleurs dans la mesure du possible. Les modifications de 2022, entrées en vigueur le 1er juin 2024, ont élargi le champ d'application, ajouté de nouvelles obligations et porté l'amende maximale à RM500,000."
 

@@ -4,6 +4,7 @@ title: "Akta Perlindungan Pemberi Maklumat 2010: Apa yang Dilindungi dan Batasan
 seoTitle: "Akta Perlindungan Pemberi Maklumat 2010 Malaysia: Perlindungan dan Batasan"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "Akta Perlindungan Pemberi Maklumat 2010 (Akta 711) Malaysia melindungi orang yang melaporkan kelakuan tidak wajar kepada agensi penguatkuasaan dengan kerahsiaan, imuniti dan perlindungan terhadap tindakan balas, tetapi perlindungan itu runtuh jika pemberi maklumat turut terlibat dalam kesalahan, mendedahkannya kepada umum terlebih dahulu, atau melanggar Seksyen 11."
 

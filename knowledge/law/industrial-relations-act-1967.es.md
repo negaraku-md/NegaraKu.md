@@ -4,6 +4,7 @@ title: "Industrial Relations Act 1967: sindicatos y despido improcedente"
 seoTitle: "Industrial Relations Act 1967 de Malasia (IRA): sindicatos y despido improcedente"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "La Industrial Relations Act 1967 regula el reconocimiento de sindicatos, la negociación colectiva y las reclamaciones por despido sin causa ni excusa justa ante el Tribunal Laboral (Industrial Court): la capa de las relaciones laborales que la Employment Act 1955 no cubre."
 

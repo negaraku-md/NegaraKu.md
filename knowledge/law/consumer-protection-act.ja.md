@@ -4,6 +4,7 @@ title: "1999年消費者保護法（Consumer Protection Act 1999、Act 599）：
 seoTitle: 1999年消費者保護法（Consumer Protection Act 1999、Act 599）
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 599の法令記録ページ——誤認を招く行為、不安全な商品及び保証に対して同法が与える権利、並びに消費者請求審判所（Tribunal for Consumer Claims、TTPM）：弁護士不要、RM5でRM50,000までの請求を扱う審判所。"
 tier: "4"

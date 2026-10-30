@@ -4,6 +4,7 @@ title: "ஸ்ட்ராடா உரிமைச் சட்டமும் 
 seoTitle: "மலேசியா ஸ்ட்ராடா உரிமைச் சட்டம் & ஸ்ட்ராடா மேலாண்மைச் சட்டம் (Strata Titles Act & Strata Management Act)"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "மலேசியாவில் கொண்டோமினியம் வாழ்க்கையை இரு சட்டங்கள் நிர்வகிக்கின்றன: Strata Titles Act 1985 உங்களுக்கு பெட்டகத்தின் (petak) உரிமையை வழங்குகிறது, அதே வேளையில் Strata Management Act 2013 மேலாண்மை அமைப்பு, பராமரிப்புக் கட்டணங்கள் மற்றும் தகராறு தீர்வை ஒழுங்குபடுத்துகிறது."
 

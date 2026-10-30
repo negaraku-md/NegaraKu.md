@@ -4,6 +4,7 @@ title: "สินเชื่อที่อยู่อาศัยและก
 seoTitle: "สินเชื่อที่อยู่อาศัยมาเลเซีย: มาร์จิน KWSP, SJKP และอากรแสตมป์"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "คู่มือการจัดหาเงินทุนบ้านในมาเลเซีย มาร์จินการจัดหาเงินทุน แนวปฏิบัติการให้สินเชื่ออย่างรับผิดชอบของ BNM, MRTA/MLTA, การถอน KWSP บัญชี Akaun Sejahtera, โครงการค้ำประกัน SJKP และอากรแสตมป์สัญญาสินเชื่อ"
 

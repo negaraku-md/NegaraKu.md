@@ -3,6 +3,7 @@ topicId: MY-LIV-0031
 title: "外国人可以在马来西亚购买产业吗？最低价格与州同意详解"
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "外国人可以购买马来西亚大多数产业，但只能购买高于各州自行设定的最低价格的产业，并且只有在州政府当局依据 National Land Code 给予书面同意之后才能完成——这是两道各自独立的关卡，而不是一道，也不存在一个全国统一的固定数字。"
 

@@ -103,20 +103,37 @@ export const PILLAR_SPONSOR: Partial<Record<Pillar, string>> = {
   'doing-business': '1company',
 };
 
-// Category/topic routing (covers articles outside the doing-business pillar).
+// Routing is slug-curated for the "mixed" categories (law, property,
+// money-daily-life hold both relevant and irrelevant topics) and category-wide
+// only for the categories that are wholly business-relevant. This keeps the
+// funnel accurate — no CTA on water-supply, public-holidays, criminal law, etc.
 const COMPANY_CATEGORIES = new Set(['company-secretary', 'accounting', 'audit', 'taxation', 'business', 'finance']);
-const FINANCING_CATEGORIES = new Set(['property', 'money-daily-life']);
+
+// Corporate/commercial-law + cross-category tax articles -> 1company (they live
+// in `law` / `money-daily-life`, categories we don't route wholesale).
+const COMPANY_SLUGS = new Set([
+  'companies-act-2016', 'contracts-act-1950', 'competition-act-2010', 'employment-act-1955',
+  'industrial-relations-act-1967', 'pdpa-2010', 'data-protection-department-jpdp',
+  'intellectual-property-law-malaysia', 'consumer-protection-act', 'consumer-credit-act-2025',
+  'insolvency-and-bankruptcy-law', 'occupational-safety-and-health-act', 'income-tax-act-1967',
+  'sales-and-service-tax', 'real-property-gains-tax', 'arbitration-and-dispute-resolution',
+  'environmental-quality-act-1974', 'whistleblower-protection-act-2010', 'housing-developers-act-hda',
+  'strata-titles-act', 'national-land-code', 'income-tax-individuals',
+]);
+
+// Genuinely financing-specific topics (across business/property/money) -> 1financing.
 const FINANCING_SLUGS = new Set([
   'sme-financing-malaysia', 'equity-crowdfunding-p2p-malaysia', 'foreign-currency-borrowing-malaysia',
-  'business-loan', 'business-loans-malaysia', 'working-capital', 'invoice-financing', 'trade-financing',
-  'trade-finance', 'startup-funding', 'venture-capital-malaysia', 'microfinance-malaysia',
+  'home-loan-mortgage-financing', 'buying-a-home-process', 'foreigners-buying-property',
+  'affordable-housing-schemes', 'property-auctions-foreclosure', 'akpk-debt-management',
+  'credit-reports-ccris-ctos', 'malaysia-digital-banks', 'sending-money-home-remittance',
 ]);
 
 /**
  * Resolve the sponsor for an article. Precedence: explicit `sponsor: "none"` opts
- * out; an explicit sponsor id wins; then a financing-specific topic -> 1financing;
- * then company categories / the pillar default -> 1company. Sensitive (3R+1)
- * content is NEVER sponsored.
+ * out; an explicit sponsor id wins; then a financing-specific slug -> 1financing;
+ * then a company category or curated company slug / the pillar default ->
+ * 1company. Sensitive (3R+1) content is NEVER sponsored.
  */
 export function resolveSponsor(
   articleSponsor: string | null | undefined,
@@ -128,8 +145,8 @@ export function resolveSponsor(
   if (sensitive) return undefined;
   if (articleSponsor === 'none') return undefined;
   if (articleSponsor) return SPONSORS[articleSponsor];
-  if (category && ((slug && FINANCING_SLUGS.has(slug)) || FINANCING_CATEGORIES.has(category))) return SPONSORS['1financing'];
-  if (category && COMPANY_CATEGORIES.has(category)) return SPONSORS['1company'];
+  if (slug && FINANCING_SLUGS.has(slug)) return SPONSORS['1financing'];
+  if ((category && COMPANY_CATEGORIES.has(category)) || (slug && COMPANY_SLUGS.has(slug))) return SPONSORS['1company'];
   const id = pillar ? PILLAR_SPONSOR[pillar] : undefined;
   return id ? SPONSORS[id] : undefined;
 }

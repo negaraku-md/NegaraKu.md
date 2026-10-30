@@ -4,6 +4,7 @@ title: "Vay mua nhà và tài trợ thế chấp ở Malaysia"
 seoTitle: "Vay mua nhà ở Malaysia: Biên độ, KWSP, SJKP & Thuế trước bạ"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "Hướng dẫn về tài trợ mua nhà ở Malaysia — biên độ tài trợ, hướng dẫn cho vay có trách nhiệm của BNM, MRTA/MLTA, rút quỹ KWSP Akaun Sejahtera, chương trình bảo lãnh SJKP và thuế trước bạ hợp đồng vay."
 

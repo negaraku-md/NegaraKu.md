@@ -4,6 +4,7 @@ title: "Housing Development (Control and Licensing) Act 1966"
 seoTitle: "Housing Development Act 1966 (HDA): دليل حماية مشتري المنزل"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "قانون HDA لسنة 1966 (Act 118) هو القانون الأساسي الذي يحمي مشتري المنازل قبل الإنشاء في شبه جزيرة ماليزيا — عبر ترخيص المطوّرين، واتفاقيات البيع والشراء الإلزامية (الجدول G/H)، وتعويضات التأخر في التسليم بنسبة 10% سنويًا، ومحكمة مطالبات مشتري المنازل."
 

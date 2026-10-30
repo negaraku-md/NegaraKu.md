@@ -4,6 +4,7 @@ title: "马来西亚的破产与无力偿债法"
 seoTitle: "马来西亚破产与无力偿债法：实用指南"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "马来西亚如何处理无力偿债的个人或公司——依据《1967年无力偿债法》（Insolvency Act 1967）处理个人破产，依据《2016年公司法》（Companies Act 2016）处理公司清盘与拯救，以及同时管理这两套制度的破产局。"
 

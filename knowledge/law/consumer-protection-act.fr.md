@@ -4,6 +4,7 @@ title: "Loi de 1999 sur la protection du consommateur : le statut des droits du 
 seoTitle: Loi de 1999 sur la protection du consommateur
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Page de fiche statutaire de l'Act 599 : les droits qu'elle confère face aux pratiques trompeuses, aux biens dangereux et aux garanties, et le Tribunal des réclamations de consommation : un forum à RM5, sans avocat, pour les réclamations jusqu'à RM50,000."
 tier: "4"

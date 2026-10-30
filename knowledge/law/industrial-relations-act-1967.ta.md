@@ -4,6 +4,7 @@ title: "தொழில் உறவுச் சட்டம் 1967 (Akta Perh
 seoTitle: "மலேசியாவின் தொழில் உறவுச் சட்டம் 1967 (Akta Perhubungan Perusahaan 1967): தொழிற்சங்கம் & நியாயமற்ற பணிநீக்கம்"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "Akta Perhubungan Perusahaan 1967 தொழிற்சங்க அங்கீகாரம், கூட்டு பேரம் மற்றும் நியாயமான காரணமின்றி செய்யப்படும் பணிநீக்கத்துக்கு எதிராக தொழில் நீதிமன்றத்தில் (Mahkamah Perusahaan) தாக்கல் செய்யப்படும் உரிமைகோரல்களை ஒழுங்குபடுத்துகிறது — Akta Kerja 1955 உள்ளடக்காத தொழிலாளர் உறவுத் தளம் இது."
 

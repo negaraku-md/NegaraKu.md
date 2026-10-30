@@ -4,6 +4,7 @@ title: "மலேசியாவில் வீட்டுக் கடன் 
 seoTitle: "மலேசிய வீட்டுக் கடன்: மார்ஜின், KWSP, SJKP & முத்திரை வரி"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "மலேசியாவில் வீட்டு நிதியளிப்புக்கான வழிகாட்டி — நிதியளிப்பு மார்ஜின், BNM-இன் பொறுப்பான கடனளிப்பு வழிகாட்டு நெறிமுறைகள், MRTA/MLTA, KWSP Akaun Sejahtera பணம் எடுப்பு, SJKP உத்தரவாதத் திட்டம் மற்றும் கடன் ஒப்பந்த முத்திரை வரி."
 

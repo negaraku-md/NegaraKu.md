@@ -4,6 +4,7 @@ title: "1967年劳资关系法令：工会与不公平解雇"
 seoTitle: "马来西亚1967年劳资关系法令（IRA）：工会与不公平解雇"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "1967年劳资关系法令规范工会的承认、集体谈判，以及在劳资法庭提出的「无正当理由解雇」申索——这是1955年雇佣法令所未涵盖的劳资关系层面。"
 

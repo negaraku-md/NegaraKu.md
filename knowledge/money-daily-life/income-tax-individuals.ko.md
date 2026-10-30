@@ -4,6 +4,7 @@ title: "말레이시아에서 소득세를 신고해야 하는가? 급여 액수
 seoTitle: "말레이시아 개인 소득세: 거주자 판정 & 전자 신고 방법"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "말레이시아 소득세를 낼 의무가 있는지는 시민권이나 비자 유형이 아니라, 먼저 법정 체류일수 거주자 판정에 달려 있습니다. 이 글은 그 판정, 세무 파일 등록이 의무가 되는 시점, 그리고 LHDN MyTax 포털에서의 실제 e-Daftar부터 e-Filing까지의 순서를 짚습니다."
 

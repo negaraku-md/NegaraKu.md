@@ -4,6 +4,7 @@ title: "Occupational Safety and Health Act: Tanggung Jawab Pemberi Kerja"
 seoTitle: "Tanggung Jawab Pemberi Kerja di Bawah OSHA 1994 (Act 514)"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "Di bawah OSHA 1994 (Act 514), pemberi kerja wajib memastikan keselamatan dan kesehatan pekerja sejauh yang praktis. Perubahan 2022 yang berlaku 1 Juni 2024 memperluas cakupan, menambah kewajiban baru, dan menaikkan denda maksimum menjadi RM500,000."
 

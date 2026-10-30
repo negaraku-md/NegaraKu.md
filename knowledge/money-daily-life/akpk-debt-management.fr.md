@@ -4,6 +4,7 @@ title: "AKPK : l'agence de conseil en dette gratuit de la Malaisie et le Program
 seoTitle: "AKPK et le Programme de gestion de la dette (DMP) : conseil en dette gratuit"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK est une filiale à part entière de Bank Negara Malaysia qui propose un conseil financier gratuit et un Programme de gestion de la dette (DMP) pour restructurer les dettes de logement, de location-vente et de carte de crédit en un seul paiement mensuel."
 

@@ -4,6 +4,7 @@ title: "उपभोक्ता संरक्षण अधिनियम 199
 seoTitle: उपभोक्ता संरक्षण अधिनियम 1999
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 599 का क़ानून-परिचय पृष्ठ — यह भ्रामक प्रथाओं, असुरक्षित वस्तुओं और गारंटियों के विरुद्ध जो अधिकार देता है, तथा उपभोक्ता दावा ट्रिब्यूनल (Tribunal for Consumer Claims): RM50,000 तक के दावों के लिए RM5 का, वकील-रहित मंच।"
 tier: "4"

@@ -5,6 +5,7 @@ seoTitle: "JPDP: Cục Bảo vệ Dữ liệu Cá nhân của Malaysia"
 socialTitle: "Ai thực sự thực thi luật bảo mật dữ liệu của Malaysia? Gặp gỡ JPDP"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "Cục Bảo vệ Dữ liệu Cá nhân (Jabatan Perlindungan Data Peribadi, JPDP) là cơ quan liên bang thuộc Bộ Kỹ thuật số, có nhiệm vụ quản lý và thực thi Luật Bảo vệ Dữ liệu Cá nhân (Personal Data Protection Act 2010) của Malaysia, đăng ký các bên kiểm soát dữ liệu, xử lý khiếu nại, và giám sát các cải cách năm 2025 về thông báo vi phạm và cán bộ bảo vệ dữ liệu."
 tier: "3"

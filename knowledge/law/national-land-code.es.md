@@ -4,6 +4,7 @@ title: "National Land Code 1965 — el estatuto que puso un nombre en cada títu
 seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "La Act 828, el National Land Code 1965, es el estatuto que rige el sistema Torrens de título registrado en los once estados de Malasia Peninsular — donde el registro, y no la escritura guardada en un cajón, tiene la última palabra sobre quién es dueño de una parcela. Sabah y Sarawak rigen sus propias leyes de tierras, separadas."
 tier: "4"

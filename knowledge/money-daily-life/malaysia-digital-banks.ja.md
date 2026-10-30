@@ -4,6 +4,7 @@ title: "マレーシアの5つのデジタル銀行：GXBank、Boost Bank、AEON
 seoTitle: "マレーシアのデジタル銀行：BNM免許の5行とPIDM預金保護"
 slug: "malaysia-digital-banks"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking"]
 summary: "マレーシアには現在、BNMの免許を受けた5つのデジタル銀行——3つの従来型と2つのイスラム型——があり、いずれも支店を持たずアプリで完全に運営され、あなたの預金は依然としてPIDMによって最大RM250,000まで保護されます。"
 

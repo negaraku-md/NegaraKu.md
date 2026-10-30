@@ -4,6 +4,7 @@ title: "La Loi de 2025 sur le crédit à la consommation et la réglementation d
 seoTitle: "Loi sur le crédit à la consommation 2025 et Loi sur la location-vente : guide Malaisie"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "La Loi de 2025 sur le crédit à la consommation soumet les fournisseurs de crédit non bancaire et le BNPL à une nouvelle commission unique, tandis que la Loi de 1967 sur la location-vente continue de régir le financement des véhicules et des biens : deux cadres désormais rénovés en parallèle."
 

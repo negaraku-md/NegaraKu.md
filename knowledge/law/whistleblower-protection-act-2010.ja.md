@@ -4,6 +4,7 @@ title: "2010年内部告発者保護法：保護の内容とその限界"
 seoTitle: "マレーシア2010年内部告発者保護法：保護と限界"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "マレーシアの2010年内部告発者保護法（Act 711）は、執行機関に不正行為を報告する者を、秘密保持、免責及び報復からの保護によって守る。しかし内部告発者がその不正行為に関与していた場合、先に公表した場合、又はその他の形でs.11に抵触する場合、その保護は失われる。"
 

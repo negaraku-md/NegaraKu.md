@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "Akta Kerja 1955 (Akta 265) (Akta Kerja 1955 (Akta 265))"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "Halaman entiti statut untuk statut pekerjaan utama Malaysia — apa yang diperuntukkan oleh Akta 265, siapa yang mentadbirnya, sejarah pindaannya, dan artikel-artikel yang menghuraikan setiap kewajipan secara praktikal."
 

@@ -5,6 +5,7 @@ seoTitle: "JPDP: மலேசியாவின் தனிப்பட்ட �
 socialTitle: "மலேசியாவின் தரவு தனியுரிமைச் சட்டத்தை உண்மையில் யார் அமல்படுத்துகிறார்கள்? JPDP-ஐ சந்திக்கவும்"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "தனிப்பட்ட தரவுப் பாதுகாப்புத் துறை (Jabatan Perlindungan Data Peribadi, JPDP) என்பது டிஜிட்டல் அமைச்சகத்தின் (Digital Ministry) கீழ் உள்ள கூட்டாட்சி நிறுவனமாகும்; இது மலேசியாவின் Personal Data Protection Act 2010-ஐ நிர்வகித்து அமல்படுத்துகிறது, தரவுக் கட்டுப்படுத்திகளை (data controllers) பதிவு செய்கிறது, முறையீடுகளைக் கையாள்கிறது, மேலும் தரவு மீறல் அறிவிப்பு (breach notification) மற்றும் தரவுப் பாதுகாப்பு அதிகாரிகள் (data protection officers) குறித்த 2025 சீர்திருத்தங்களை மேற்பார்வையிடுகிறது."
 tier: "3"

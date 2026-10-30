@@ -4,6 +4,7 @@ title: "நடுவர் தீர்ப்பும் மாற்றுத�
 seoTitle: "மலேசியாவில் நடுவர் தீர்ப்பும் ADR-உம்: Act 2005, AIAC, சமரசம்"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "மலேசியா வணிகத் தகராறுகளை நீதிமன்றங்களுக்கு வெளியே எப்படித் தீர்க்கிறது — Arbitration Act 2005-இன் கீழான நடுவர் தீர்ப்பு, ஆசிய சர்வதேச நடுவர் தீர்ப்பு மையம் (Asian International Arbitration Centre, AIAC), மற்றும் சமரசம் (mediation) மூலம்."
 

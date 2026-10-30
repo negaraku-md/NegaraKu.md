@@ -4,6 +4,7 @@ title: "Membeli Properti di Pelelangan (Bank Lelong)"
 seoTitle: "Bank Lelong Malaysia: Cara Kerja Pembelian Properti Lelang"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "Bagaimana pelelangan sitaan bank dan pengadilan (lelong) bekerja di Malaysia — deposit yang Anda bayar pada hari itu, tenggat sisa pembayaran, dan mengapa pembelian lelang membawa risiko yang tidak ada dalam pembelian SPA biasa."
 

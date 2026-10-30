@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "Companies Act 2016 (Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "Halaman rekaman statuta untuk undang-undang korporat utama Malaysia — apa yang diatur oleh Act 777, siapa yang mengelolanya, riwayat perubahannya termasuk Act A1701, dan artikel-artikel yang menguraikan setiap tanggung jawab secara praktis."
 

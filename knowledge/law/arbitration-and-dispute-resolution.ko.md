@@ -4,6 +4,7 @@ title: "중재 및 대체적 분쟁 해결"
 seoTitle: "말레이시아의 중재 및 ADR: 2005년법, AIAC, 조정"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "말레이시아가 법원 밖에서 상사 분쟁을 해결하는 방식 — 중재법 2005(Arbitration Act 2005)에 따른 중재, 아시아 국제중재센터(AIAC), 그리고 조정을 통한 방식입니다."
 

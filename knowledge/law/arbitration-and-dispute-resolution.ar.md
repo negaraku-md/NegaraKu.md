@@ -4,6 +4,7 @@ title: "التحكيم والتسوية البديلة للمنازعات"
 seoTitle: "التحكيم وتسوية المنازعات في ماليزيا: Act 2005، AIAC، الوساطة"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "كيف تسوّي ماليزيا المنازعات التجارية خارج المحاكم — عبر التحكيم بموجب قانون التحكيم لسنة 2005 (Arbitration Act 2005)، والمركز الآسيوي الدولي للتحكيم (AIAC)، والوساطة."
 

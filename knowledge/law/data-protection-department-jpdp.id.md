@@ -5,6 +5,7 @@ seoTitle: "JPDP: Departemen Perlindungan Data Pribadi Malaysia"
 socialTitle: "Siapa sebenarnya yang menegakkan undang-undang privasi data Malaysia? Kenali JPDP"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "Departemen Perlindungan Data Pribadi (JPDP) adalah lembaga federal di bawah Kementerian Digital yang mengelola dan menegakkan Personal Data Protection Act 2010 di Malaysia, mendaftarkan pengendali data, menangani pengaduan, dan mengawasi reformasi 2025 berkenaan pemberitahuan pelanggaran data dan petugas perlindungan data."
 tier: "3"

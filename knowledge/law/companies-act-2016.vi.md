@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "Đạo luật Công ty 2016 (Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "Trang thực thể luật định cho luật công ty chính của Malaysia — Act 777 quản lý gì, ai quản lý nó, lịch sử sửa đổi của nó bao gồm Act A1701, và các bài viết giải thích từng nghĩa vụ trong thực tế."
 

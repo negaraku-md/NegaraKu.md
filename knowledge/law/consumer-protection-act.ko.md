@@ -3,6 +3,7 @@ topicId: "MY-LAW-0040"
 title: "1999년 소비자보호법: 말레이시아의 소비자 권리 법령과 RM5 심판원"
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 599에 관한 법령 개요 페이지 — 오인 유발 관행, 안전하지 않은 상품 및 보증에 대해 부여하는 권리, 그리고 소비자청구심판원(Tribunal for Consumer Claims): RM50,000까지의 청구를 RM5로, 변호사 없이 다룰 수 있는 포럼."
 tier: "4"

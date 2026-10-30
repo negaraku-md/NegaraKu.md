@@ -4,6 +4,7 @@ title: "Les étrangers peuvent-ils acheter un bien immobilier en Malaisie ? Le p
 seoTitle: Les étrangers peuvent-ils acheter un bien en Malaisie ?
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Les étrangers peuvent acheter la plupart des biens malaisiens, mais uniquement au-dessus d'un prix plancher que chaque État fixe de son côté, et seulement après que l'Autorité de l'État a accordé son consentement écrit sous le National Land Code — deux guichets distincts, et non un, et aucun n'est un chiffre national fixe."
 

@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "Income Tax Act 1967 (Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Halaman entitas statuta untuk undang-undang pajak langsung utama Malaysia — apa yang diatur oleh Act 53, siapa yang mengelolanya, bagaimana ia diubah, dan artikel-artikel yang menguraikan setiap bagiannya dalam praktik."
 

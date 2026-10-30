@@ -4,6 +4,7 @@ title: "Menghantar Wang Pulang Dari Malaysia: Cara Mengenal Pasti Saluran Kirima
 seoTitle: Menghantar Wang Pulang Dari Malaysia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking-payments"]
 summary: "Pasaran kiriman wang Malaysia beroperasi melalui dua saluran yang sah — pemindahan antarabangsa oleh bank, dan perniagaan perkhidmatan wang (MSB) bukan bank yang berlesen — kedua-duanya diselia oleh Bank Negara Malaysia. Satu perkara yang membezakan pengendali yang sah daripada yang haram ialah lesen yang boleh anda sahkan sendiri sebelum menyerahkan wang tunai."
 

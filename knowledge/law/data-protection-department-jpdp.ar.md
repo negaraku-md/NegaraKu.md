@@ -5,6 +5,7 @@ seoTitle: "JPDP: دائرة حماية البيانات الشخصية في ما
 socialTitle: "من الذي يُنفِّذ فعليًّا قانون خصوصية البيانات في ماليزيا؟ تعرَّف إلى JPDP"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "دائرة حماية البيانات الشخصية (Jabatan Perlindungan Data Peribadi، JPDP) هي الوكالة الاتحادية التابعة لوزارة الرقمنة (Digital Ministry) التي تدير وتُنفِّذ قانون حماية البيانات الشخصية الماليزي لسنة 2010، وتسجِّل مراقبي البيانات، وتعالج الشكاوى، وتشرف على إصلاحات 2025 المتعلقة بالإخطار بالاختراق ومسؤولي حماية البيانات."
 tier: "3"

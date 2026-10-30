@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "พระราชบัญญัติบริษัท (Companies Act 2016, Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "หน้าเอนทิตีกฎหมายสำหรับกฎหมายบริษัทหลักของมาเลเซีย — Act 777 กำกับอะไร ใครบริหาร ประวัติการแก้ไขรวมถึง Act A1701 และบทความที่อธิบายแต่ละหน้าที่ในทางปฏิบัติ"
 

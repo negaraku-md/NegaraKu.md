@@ -4,6 +4,7 @@ title: "Industrial Relations Act 1967: النقابات العمالية وال�
 seoTitle: "قانون العلاقات الصناعية الماليزي 1967 (IRA): النقابات والفصل التعسفي"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "ينظّم قانون العلاقات الصناعية لسنة 1967 (Industrial Relations Act 1967) الاعتراف بالنقابات العمالية، والمفاوضة الجماعية، ودعاوى الفصل «دون سبب أو مسوّغ عادل» أمام المحكمة الصناعية — وهي طبقة علاقات العمل التي لا يغطيها قانون التوظيف لسنة 1955 (Employment Act 1955)."
 

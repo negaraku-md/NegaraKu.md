@@ -4,6 +4,7 @@ title: "Derecho de insolvencia y quiebra en Malasia"
 seoTitle: "Derecho de insolvencia y quiebra en Malasia: una guía práctica"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "Cómo gestiona Malasia a una persona o una empresa que no puede pagar sus deudas: la quiebra personal en virtud de la Insolvency Act 1967, la liquidación y el rescate corporativos en virtud de la Companies Act 2016, y el Departamento de Insolvencia que administra ambos."
 

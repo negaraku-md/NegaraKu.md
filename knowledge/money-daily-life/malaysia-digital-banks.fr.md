@@ -4,6 +4,7 @@ title: "Les cinq banques numériques de la Malaisie : GXBank, Boost Bank, AEON B
 seoTitle: "Banques numériques de la Malaisie : 5 banques agréées par BNM et protection de PIDM"
 slug: "malaysia-digital-banks"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking"]
 summary: "La Malaisie compte désormais cinq banques numériques agréées par BNM — trois conventionnelles et deux islamiques — qui fonctionnent entièrement via des applications, sans agences, et votre épargne reste protégée par PIDM jusqu'à RM250,000."
 

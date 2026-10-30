@@ -4,6 +4,7 @@ title: "知的財産法：商標、特許、著作権"
 seoTitle: "マレーシア知的財産法：商標・特許・著作権ガイド"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "マレーシアが商標、特許、著作権をどのように保護しているか——三つの主管法令、MyIPOが登録するもの、保護期間の長さ、そして企業や投資家が正しく判断しなければならない決定。"
 

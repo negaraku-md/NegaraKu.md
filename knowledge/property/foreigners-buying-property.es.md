@@ -4,6 +4,7 @@ title: "¿Pueden los extranjeros comprar propiedad en Malasia? El precio mínimo
 seoTitle: ¿Pueden los extranjeros comprar propiedad en Malasia?
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Los extranjeros pueden comprar la mayoría de las propiedades malasias, pero solo por encima de un precio mínimo que cada estado fija por su cuenta, y solo después de que la Autoridad Estatal otorgue su consentimiento por escrito bajo el National Land Code — dos puertas separadas, no una, y ninguna es una cifra nacional fija."
 

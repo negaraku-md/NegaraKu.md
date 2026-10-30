@@ -4,6 +4,7 @@ title: "Sales and Service Tax (SST)"
 seoTitle: "Malaysia Sales and Service Tax (SST): Rates, Thresholds & Compliance"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Malaysia's Sales and Service Tax (SST) is a two-part consumption tax administered by the Royal Malaysian Customs Department under the Sales Tax Act 2018 and the Service Tax Act 2018. This guide covers who must register, the RM500,000/RM1,000,000/RM1,500,000 thresholds, the 5%/10% and 6%/8% rates, and how the returns and payments work after the 1 July 2025 expansion."
 

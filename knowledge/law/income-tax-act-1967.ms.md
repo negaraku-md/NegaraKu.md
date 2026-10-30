@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "Akta Cukai Pendapatan 1967 (Akta 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Halaman entiti statut untuk undang-undang cukai langsung utama Malaysia — apa yang ditadbir oleh Akta 53, siapa yang mentadbirnya, bagaimana ia dipinda, dan artikel-artikel yang menghuraikan setiap bahagiannya dalam praktik."
 

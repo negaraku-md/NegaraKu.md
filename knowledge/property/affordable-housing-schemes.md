@@ -4,6 +4,7 @@ title: "Skim Rumah Mampu Milik Kerajaan (PR1MA, Residensi Wilayah, Rumah Mesra R
 seoTitle: "Skim Rumah Mampu Milik Kerajaan Malaysia: Kelayakan & Cara Mohon"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "Panduan ringkas jalur pendapatan, harga siling dan cara memohon skim rumah mampu milik utama kerajaan — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat dan Rumah Selangorku."
 

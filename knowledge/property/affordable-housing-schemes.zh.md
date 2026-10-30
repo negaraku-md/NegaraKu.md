@@ -4,6 +4,7 @@ title: "政府可负担房屋计划（PR1MA、联邦直辖区房屋 Residensi Wi
 seoTitle: "马来西亚政府可负担房屋计划：资格与申请方式"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "简明介绍主要政府可负担房屋计划的收入区间、价格顶限与申请方式——PR1MA、联邦直辖区房屋（Residensi Wilayah）、昌明房屋（Residensi MADANI）、人民房屋计划（PPR）、亲民组屋（Rumah Mesra Rakyat）与雪兰莪我的房屋（Rumah Selangorku）。"
 

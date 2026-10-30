@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "Income Tax Act 1967 (Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Page d'entité législative de la principale loi d'impôts directs de la Malaisie : ce que régit l'Act 53, qui l'administre, comment elle est modifiée et les articles qui expliquent chacune de ses parties en pratique."
 

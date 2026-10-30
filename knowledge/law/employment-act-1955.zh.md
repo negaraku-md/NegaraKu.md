@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "1955年雇佣法令（第265号法令）"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "马来西亚主要雇佣法令的法令实体页——Act 265 管辖什么、由谁执行、它的修订沿革，以及在实务上解释其每一项责任的文章。"
 

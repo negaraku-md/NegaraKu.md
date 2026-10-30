@@ -4,6 +4,7 @@ title: "Occupational Safety and Health Act: Employer Duties"
 seoTitle: "Employer Duties Under OSHA 1994 (Act 514)"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "Under OSHA 1994 (Act 514), employers must ensure the safety and health of their workers so far as is practicable. The 2022 amendments, which came into force on 1 June 2024, broadened the scope, added new duties, and raised the maximum fine to RM500,000."
 

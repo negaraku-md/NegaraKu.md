@@ -4,6 +4,7 @@ title: "Whistleblower Protection Act 2010: Apa yang Dilindungi dan Batasannya"
 seoTitle: "Whistleblower Protection Act 2010 Malaysia: Perlindungan dan Batasan"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "Whistleblower Protection Act 2010 (Act 711) Malaysia melindungi orang yang melaporkan perilaku tidak patut kepada lembaga penegak hukum dengan kerahasiaan, imunitas, dan perlindungan terhadap pembalasan, tetapi perlindungan itu runtuh jika pemberi informasi turut terlibat dalam kesalahan, mengungkapkannya kepada publik lebih dulu, atau melanggar Pasal 11."
 

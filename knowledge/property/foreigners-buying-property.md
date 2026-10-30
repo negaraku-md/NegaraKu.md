@@ -4,6 +4,7 @@ title: "Can Foreigners Buy Property in Malaysia? The Price Floor and State Conse
 seoTitle: Can Foreigners Buy Property in Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Foreigners can buy most Malaysian property, but only above a minimum price that each state sets for itself, and only after the State Authority grants written consent under the National Land Code — two separate gates, not one, and neither is a fixed national number."
 

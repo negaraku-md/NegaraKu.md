@@ -4,6 +4,7 @@ title: "Consumer Protection Act 1999: Statut Hak Pengguna Malaysia dan Tribunal 
 seoTitle: Consumer Protection Act 1999
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Halaman rekod statut untuk Akta 599 — hak yang diberikannya terhadap amalan mengelirukan, barangan tidak selamat dan jaminan, serta Tribunal Tuntutan Pengguna: suatu forum RM5, tanpa peguam, untuk tuntutan sehingga RM50,000."
 tier: "4"

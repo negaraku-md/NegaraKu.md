@@ -4,6 +4,7 @@ title: "Người nước ngoài có mua được bất động sản tại Malay
 seoTitle: Người nước ngoài có mua được bất động sản tại Malaysia?
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Người nước ngoài có thể mua hầu hết bất động sản Malaysia, nhưng chỉ trên một mức giá tối thiểu mà mỗi bang tự đặt ra, và chỉ sau khi Chính quyền Bang cấp sự đồng ý bằng văn bản theo National Land Code — hai cửa riêng biệt, không phải một, và không cửa nào là một con số quốc gia cố định."
 

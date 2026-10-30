@@ -4,6 +4,7 @@ title: "주택개발(통제·인가)법(Housing Development (Control and Licensi
 seoTitle: "주택개발법(HDA 1966, Akta 118): 주택 구매자 보호 안내"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "HDA 1966(Akta 118)은 말레이반도의 선분양 주택 구매자를 보호하는 핵심 법률입니다 — 개발자 인가, 의무 매매계약(부칙 G/H), 연 10%의 지연 손해배상, 그리고 주택구매자청구심판원을 통해서입니다."
 

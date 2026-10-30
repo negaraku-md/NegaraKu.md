@@ -4,6 +4,7 @@ title: "CCRISとCTOS：マレーシアの信用報告書の仕組みと確認方
 seoTitle: "CCRIS対CTOS：マレーシアの信用報告書を無料で確認する"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRISはマレーシア国立銀行（Bank Negara Malaysia）が保有する生の信用記録で、eCCRISポータルを通じて無料で確認できる。一方CTOSは、300〜850の信用スコアを生成する、ライセンスを受けた民間機関である。本ガイドでは、両者の違い、それぞれの報告書の請求方法、および誤りの訂正方法を説明する。"
 

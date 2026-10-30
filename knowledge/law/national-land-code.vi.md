@@ -4,6 +4,7 @@ title: "Bộ luật Đất đai Quốc gia 1965 — đạo luật đặt một c
 seoTitle: Bộ luật Đất đai Quốc gia 1965
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 828, Bộ luật Đất đai Quốc gia 1965, là đạo luật vận hành hệ thống Torrens về quyền sở hữu đã đăng ký trên khắp mười một bang của Bán đảo Malaysia — nơi sổ đăng ký, chứ không phải chứng thư trong ngăn kéo, là tiếng nói cuối cùng về việc ai sở hữu một mảnh đất. Sabah và Sarawak vận hành luật đất đai riêng biệt của họ."
 tier: "4"

@@ -4,6 +4,7 @@ title: "Intellectual Property Law: Trademarks, Patents and Copyright"
 seoTitle: "Malaysia Intellectual Property Law: Trademarks, Patents, Copyright Guide"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "How Malaysia protects trademarks, patents and copyright — the three governing Acts, what MyIPO registers, how long protection lasts, and the decisions a business or investor has to get right."
 

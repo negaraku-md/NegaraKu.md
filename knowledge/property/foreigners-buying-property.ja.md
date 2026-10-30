@@ -3,6 +3,7 @@ topicId: MY-LIV-0031
 title: "外国人はマレーシアで不動産を購入できるか？最低購入価格と州政府の承認を解説"
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "外国人はマレーシアのほとんどの不動産を購入できるが、各州が独自に定める最低価格を上回る場合に限られ、しかも州政府当局が国家土地法典（National Land Code）に基づいて書面による承認を与えた後でなければならない——これは一つではなく二つの別々の関門であり、いずれも全国一律の固定された数字ではない。"
 

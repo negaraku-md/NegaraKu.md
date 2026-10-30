@@ -4,6 +4,7 @@ title: "Comprar una propiedad en subasta (Bank Lelong)"
 seoTitle: "Bank Lelong en Malasia: cómo funciona la compra de propiedad en subasta"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "Cómo funcionan las subastas por ejecución hipotecaria de bancos y tribunales (lelong) en Malasia: el depósito que se paga el mismo día, el plazo para el saldo y por qué una compra en lelong conlleva riesgos que una compra normal con SPA no tiene."
 

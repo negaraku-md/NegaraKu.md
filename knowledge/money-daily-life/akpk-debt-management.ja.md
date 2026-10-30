@@ -4,6 +4,7 @@ title: "AKPK：マレーシアの無料債務相談機関と信用管理計画�
 seoTitle: "AKPK と信用管理計画（PPK）：無料の債務相談"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPKはマレーシア国立銀行（Bank Negara Malaysia）の完全子会社で、無料の家計相談と信用管理計画（PPK）を提供し、住宅ローン、分割購入、クレジットカードなどの債務を一本化した毎月の返済にまとめ直します。"
 

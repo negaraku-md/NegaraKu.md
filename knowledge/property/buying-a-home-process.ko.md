@@ -3,6 +3,7 @@ topicId: "MY-LIV-0032"
 title: "말레이시아에서 집 사기: 예약금과 열쇠 사이에 실제로 벌어지는 일"
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "말레이시아의 주택 매수는 두 개의 병행 트랙 — 매매계약(SPA) 트랙과 대출 트랙 — 으로 진행되며, 두 트랙은 자금 지급 시점에서 만나 소유권 이전 각서(Memorandum of Transfer)로 마무리됩니다. 어느 변호사가 무엇을 하는지, 인지세가 실제로 어디에 부과되는지를 아는 것이 스트레스 가득한 몇 달을 예측 가능한 몇 달로 바꿉니다."
 tier: "2"

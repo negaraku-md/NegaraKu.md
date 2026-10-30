@@ -4,6 +4,7 @@ title: "Đạo luật Bảo vệ Người tiêu dùng 1999: Luật quyền ngư�
 seoTitle: Đạo luật Bảo vệ Người tiêu dùng 1999
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Trang thực thể luật định cho Act 599 — các quyền mà nó trao chống lại các hành vi gây hiểu lầm, hàng hóa không an toàn và các bảo đảm, cùng Tòa Trọng tài Khiếu nại Người tiêu dùng: một diễn đàn phí RM5, không cần luật sư, cho các khiếu nại lên đến RM50,000."
 tier: "4"

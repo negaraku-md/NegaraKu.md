@@ -4,6 +4,7 @@ title: "National Land Code 1965 — the statute that put a name on every title i
 seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Act 828, the National Land Code 1965, is the statute that runs the Torrens system of registered title across the eleven states of Peninsular Malaysia — where the register, not the deed in a drawer, is the final word on who owns a piece of land. Sabah and Sarawak run their own separate land laws."
 tier: "4"

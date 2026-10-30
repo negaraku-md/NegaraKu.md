@@ -4,6 +4,7 @@ title: "2010年举报人保护法令：保护什么与其局限"
 seoTitle: "马来西亚2010年举报人保护法令：保护范围与局限"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "马来西亚《2010年举报人保护法令》（第711号法令）为向执法机构举报不当行为者提供身份保密、豁免权及免受报复的保护，但若举报人本身参与了不当行为、先行公开，或以其他方式触犯第11条，保护便会随之瓦解。"
 

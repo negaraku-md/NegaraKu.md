@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "1967年所得税法（Income Tax Act 1967、Act 53）"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "マレーシアの主要な直接税法令の法令エンティティページ——Act 53 が何を規律し、誰が所管し、どのように改正されるか、そして実務でその各部分を解説する記事群をまとめる。"
 

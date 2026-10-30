@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "2016년 회사법(Companies Act 2016, Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "말레이시아의 주요 회사법에 관한 법령 개요 페이지로, Act 777이 규율하는 사항, 이를 관장하는 기관, Act A1701을 포함한 개정 이력, 그리고 각 의무를 실무에서 설명하는 문서들을 다룹니다."
 

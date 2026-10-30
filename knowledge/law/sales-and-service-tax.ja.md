@@ -4,6 +4,7 @@ title: "売上・サービス税（SST）"
 seoTitle: "マレーシアの売上・サービス税（SST）：税率・基準額・コンプライアンス"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "マレーシアの売上・サービス税（SST）は、2018年売上税法（Sales Tax Act 2018）及び2018年サービス税法（Service Tax Act 2018）のもとでマレーシア王立関税局が管理する、二部構成の消費税である。本ガイドは、誰が登録しなければならないか、RM500,000／RM1,000,000／RM1,500,000の基準額、5%／10%及び6%／8%の税率、そして2025年7月1日の対象拡大後の申告と納付の仕組みを解説する。"
 

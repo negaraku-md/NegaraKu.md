@@ -4,6 +4,7 @@ title: "Consumer Credit Act 2025 and the Regulation of Hire Purchase"
 seoTitle: "Consumer Credit Act 2025 & Hire Purchase Act Malaysia Guide"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "The Consumer Credit Act 2025 brings non-bank credit providers and BNPL under a new single commission, while the Hire-Purchase Act 1967 continues to govern vehicle and goods financing — two frameworks now being refreshed in parallel."
 

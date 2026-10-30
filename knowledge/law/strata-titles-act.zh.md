@@ -4,6 +4,7 @@ title: "分层地契法令与分层地产计划中的生活"
 seoTitle: "马来西亚分层地契法令与分层管理法令"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "两部法律规范马来西亚公寓生活：1985年分层地契法令赋予你单元（petak）的所有权，而2013年分层管理法令则规范管理机构、维护费及纠纷解决。"
 

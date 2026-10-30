@@ -4,6 +4,7 @@ title: "Ley de Protección del Consumidor de 1999: el estatuto de derechos del c
 seoTitle: Ley de Protección del Consumidor de 1999
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Página de ficha estatutaria de la Act 599: los derechos que confiere frente a prácticas engañosas, bienes inseguros y garantías, y el Tribunal de Reclamaciones de Consumo: un foro de RM5, sin abogado, para reclamaciones de hasta RM50,000."
 tier: "4"

@@ -4,6 +4,7 @@ title: "Akta Perhubungan Perusahaan 1967: Kesatuan Sekerja dan Pembuangan Kerja 
 seoTitle: "Akta Perhubungan Perusahaan 1967 Malaysia: Kesatuan & Pembuangan Tidak Adil"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "Akta Perhubungan Perusahaan 1967 mengawal pengiktirafan kesatuan sekerja, rundingan kolektif, dan tuntutan pembuangan kerja tanpa sebab munasabah di Mahkamah Perusahaan — lapisan perhubungan buruh yang tidak diliputi Akta Kerja 1955."
 

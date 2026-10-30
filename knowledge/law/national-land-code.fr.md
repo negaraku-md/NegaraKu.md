@@ -4,6 +4,7 @@ title: "National Land Code 1965 — la loi qui a inscrit un nom sur chaque titre
 seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "L'Act 828, le National Land Code 1965, est la loi qui régit le système Torrens du titre enregistré dans les onze États de Malaisie péninsulaire — où le registre, et non l'acte rangé dans un tiroir, a le dernier mot sur le propriétaire d'une parcelle. Sabah et Sarawak régissent leurs propres lois foncières distinctes."
 tier: "4"

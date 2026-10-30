@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "Employment Act 1955 (Act 265)"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "मलेशिया के प्रमुख रोज़गार अधिनियम का विधि-कायिक (statute) पृष्ठ — Act 265 क्या नियंत्रित करता है, इसका प्रशासन कौन करता है, इसका संशोधन-इतिहास, और वे लेख जो प्रत्येक कर्तव्य को व्यवहार में समझाते हैं।"
 

@@ -4,6 +4,7 @@ title: "การซื้ออสังหาริมทรัพย์จา
 seoTitle: "Bank Lelong มาเลเซีย: การซื้ออสังหาริมทรัพย์จากการประมูลทำงานอย่างไร"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "การประมูลยึดทรัพย์ของธนาคารและศาล (lelong) ในมาเลเซียทำงานอย่างไร ทั้งเงินมัดจำที่คุณจ่ายในวันประมูล กำหนดเส้นตายยอดคงเหลือ และเหตุใดการซื้อ lelong จึงมีความเสี่ยงที่การซื้อด้วย SPA ปกติไม่มี"
 

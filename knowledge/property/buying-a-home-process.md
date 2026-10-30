@@ -4,6 +4,7 @@ title: "Buying a Home in Malaysia: What Actually Happens Between the Booking Fee
 seoTitle: Buying a Home in Malaysia
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "A Malaysian home purchase runs on two parallel tracks — the Sale and Purchase Agreement track and the loan track — that meet at disbursement and finish at the Memorandum of Transfer. Knowing which lawyer does what, and where stamp duty actually gets charged, is what turns a stressful few months into a predictable one."
 tier: "2"

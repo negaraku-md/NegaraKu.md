@@ -4,6 +4,7 @@ title: "Government Affordable Housing Schemes (PR1MA, Residensi Wilayah, Rumah M
 seoTitle: "Malaysia Government Affordable Housing Schemes: Eligibility & How to Apply"
 slug: "affordable-housing-schemes"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "A concise guide to the income bands, price ceilings and application steps for the government's main affordable housing schemes — PR1MA, Residensi Wilayah, Residensi MADANI, PPR, Rumah Mesra Rakyat and Rumah Selangorku."
 

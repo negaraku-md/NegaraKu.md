@@ -4,6 +4,7 @@ title: "Mua nhà tại Malaysia: Điều gì thực sự diễn ra giữa phí �
 seoTitle: Mua nhà tại Malaysia
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Một giao dịch mua nhà tại Malaysia chạy trên hai đường song song — đường Hợp đồng Mua bán và đường khoản vay — gặp nhau ở việc giải ngân và kết thúc ở Bản ghi nhớ Chuyển nhượng. Biết luật sư nào làm việc gì, và thuế trước bạ thực sự bị tính ở đâu, là điều biến một vài tháng căng thẳng thành một quá trình có thể dự đoán."
 tier: "2"

@@ -4,6 +4,7 @@ title: "Membeli Hartanah di Lelongan (Bank Lelong)"
 seoTitle: "Bank Lelong Malaysia: Cara Pembelian Hartanah Lelongan Berfungsi"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "Bagaimana lelongan rampasan bank dan mahkamah (lelong) berfungsi di Malaysia — deposit yang anda bayar pada hari itu, tarikh akhir baki bayaran, dan sebab pembelian lelong membawa risiko yang tidak wujud dalam pembelian SPA biasa."
 

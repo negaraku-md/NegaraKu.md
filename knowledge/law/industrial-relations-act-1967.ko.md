@@ -4,6 +4,7 @@ title: "노사관계법 1967: 노동조합과 부당해고"
 seoTitle: "말레이시아 노사관계법 1967: 노동조합 및 부당해고"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "노사관계법 1967(Industrial Relations Act 1967)은 노동조합의 인정, 단체교섭, 그리고 산업법원(Industrial Court)에서의 정당한 사유 없는 해고 청구를 규율합니다 — 고용법 1955(Employment Act 1955)가 다루지 아니하는 노동관계의 층위입니다."
 

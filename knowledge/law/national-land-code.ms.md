@@ -4,6 +4,7 @@ title: "National Land Code 1965 — statut yang meletakkan nama pada setiap hakm
 seoTitle: National Land Code 1965
 slug: "national-land-code"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Akta 828, iaitu National Land Code 1965, ialah statut yang menjalankan sistem Torrens bagi hakmilik berdaftar di sebelas buah negeri Semenanjung Malaysia — di mana daftar itu sendiri, bukan surat ikatan yang tersimpan dalam laci, menjadi penentu muktamad tentang siapa memiliki sesuatu tanah. Sabah dan Sarawak masing-masing menjalankan undang-undang tanah mereka sendiri yang berasingan."
 tier: "4"

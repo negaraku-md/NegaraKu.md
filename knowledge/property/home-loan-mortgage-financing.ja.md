@@ -4,6 +4,7 @@ title: "マレーシアの住宅ローンと担保融資（gadai janji）"
 seoTitle: "マレーシア住宅ローン：融資比率、KWSP、SJKP、印紙税"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "マレーシアの住宅融資ガイド——融資比率、BNMの責任ある融資ガイドライン、MRTA/MLTA、KWSP安心口座（Akaun Sejahtera）からの引き出し、SJKP信用保証スキーム、そしてローン契約の印紙税。"
 

@@ -4,6 +4,7 @@ title: "Occupational Safety and Health Act: واجبات صاحب العمل"
 seoTitle: "واجبات صاحب العمل بموجب OSHA 1994 (Act 514)"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "بموجب OSHA 1994 (Act 514)، يجب على أصحاب العمل ضمان سلامة عمالهم وصحتهم بالقدر الممكن عمليًّا. وقد وسّعت تعديلات 2022، التي دخلت حيّز النفاذ في 1 يونيو 2024، النطاقَ، وأضافت واجبات جديدة، ورفعت الغرامة القصوى إلى RM500,000."
 

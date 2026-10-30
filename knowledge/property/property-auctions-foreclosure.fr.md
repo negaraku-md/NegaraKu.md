@@ -4,6 +4,7 @@ title: "Acheter un bien aux enchères (Bank Lelong)"
 seoTitle: "Bank Lelong en Malaisie : comment fonctionne l'achat de bien aux enchères"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "Comment fonctionnent les enchères par exécution hypothécaire des banques et des tribunaux (lelong) en Malaisie : le dépôt payé le jour même, le délai pour le solde, et pourquoi un achat en lelong comporte des risques qu'un achat normal avec SPA n'a pas."
 

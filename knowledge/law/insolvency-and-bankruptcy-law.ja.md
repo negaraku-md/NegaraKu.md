@@ -4,6 +4,7 @@ title: "マレーシアにおける倒産法・破産法"
 seoTitle: "マレーシアにおける倒産法・破産法：実務ガイド"
 slug: "insolvency-and-bankruptcy-law"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["insolvency"]
 summary: "マレーシアが、債務を支払えない個人又は会社をどのように扱うか——1967年破産法のもとでの個人の破産、2016年会社法のもとでの会社の清算及び再生、そして両方を管理する破産局について。"
 

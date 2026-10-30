@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "कंपनी अधिनियम 2016 (Companies Act 2016, Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "मलेशिया के मुख्य कॉर्पोरेट कानून के लिए क़ानून-इकाई पृष्ठ — Act 777 क्या शासित करता है, इसका प्रशासन कौन करता है, Act A1701 सहित इसका संशोधन इतिहास, और वे लेख जो प्रत्येक कर्तव्य को व्यवहार में समझाते हैं।"
 

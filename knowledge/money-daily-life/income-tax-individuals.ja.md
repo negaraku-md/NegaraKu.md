@@ -4,6 +4,7 @@ title: "マレーシアで所得税を申告する必要があるか？給与の
 seoTitle: "マレーシア個人所得税：居住者判定とe-Filingでの申告方法"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "マレーシアの所得税を負担するかどうかは、まず国籍やビザの種類ではなく、法定の日数による居住者判定によって決まる。本稿では、その判定、税務ファイルの登録がいつ義務となるか、そしてLHDNのMyTaxポータル上でのe-Daftarからe-Filingまでの実際の手順を解説する。"
 

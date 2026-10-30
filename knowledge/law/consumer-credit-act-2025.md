@@ -4,6 +4,7 @@ title: "Akta Kredit Pengguna 2025 dan Pengawalan Sewa Beli"
 seoTitle: "Akta Kredit Pengguna 2025 & Akta Sewa Beli Malaysia: Panduan"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "Akta Kredit Pengguna 2025 membawa pemberi kredit bukan bank dan BNPL di bawah satu suruhanjaya baharu, sementara Akta Sewa Beli 1967 terus mengawal pembiayaan kenderaan dan barangan — dua rangka kerja yang kini disegarkan serentak."
 

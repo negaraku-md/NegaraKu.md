@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "Companies Act 2016 (Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "Statute entity page for Malaysia's principal corporate law — what Act 777 governs, who administers it, its amendment history including Act A1701, and the articles that explain each duty in practice."
 

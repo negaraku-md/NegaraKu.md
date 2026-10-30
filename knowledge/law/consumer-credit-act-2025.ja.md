@@ -4,6 +4,7 @@ title: "2025年消費者信用法と割賦販売規制"
 seoTitle: "2025年消費者信用法とマレーシア割賦販売法：ガイド"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "2025年消費者信用法（Consumer Credit Act 2025）は、非銀行系の与信提供者とBNPL（後払い決済）を新設の委員会の管轄下に置く一方、1967年割賦販売法は引き続き車両・物品の割賦融資を規制する——二つの枠組みが今、同時に刷新されている。"
 

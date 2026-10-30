@@ -4,6 +4,7 @@ title: "CCRIS وCTOS: كيف تعمل تقارير الائتمان في مال�
 seoTitle: "CCRIS مقابل CTOS: تحقّق من تقرير ائتمانك الماليزي مجانًا"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS هو السجل الائتماني الخام لدى بنك نيغارا ماليزيا (Bank Negara Malaysia)، ويمكنك التحقق منه مجانًا عبر بوابة eCCRIS، بينما CTOS وكالة خاصة مرخَّصة تُنتج درجة ائتمانية تتراوح بين 300 و850. يشرح هذا الدليل الفروق بينهما، وكيفية طلب كل تقرير، وكيفية تصحيح الأخطاء."
 

@@ -4,6 +4,7 @@ title: "CCRIS and CTOS: How Malaysia's Credit Reports Work and How to Check Them
 seoTitle: "CCRIS vs CTOS: Check Your Malaysian Credit Report for Free"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS is Bank Negara Malaysia's raw credit record, which you can check for free through the eCCRIS portal, while CTOS is a licensed private agency that generates a 300-850 credit score. This guide explains the differences, how to request each report, and how to correct mistakes."
 

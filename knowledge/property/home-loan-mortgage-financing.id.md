@@ -4,6 +4,7 @@ title: "Pinjaman Perumahan dan Pembiayaan Hipotek di Malaysia"
 seoTitle: "Pinjaman Perumahan Malaysia: Margin, KWSP, SJKP & Bea Meterai"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "Panduan pembiayaan rumah di Malaysia — margin pembiayaan, pedoman pembiayaan bertanggung jawab BNM, MRTA/MLTA, penarikan KWSP Akun Sejahtera, skema jaminan SJKP dan bea meterai perjanjian pinjaman."
 

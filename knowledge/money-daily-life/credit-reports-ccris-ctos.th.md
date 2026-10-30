@@ -4,6 +4,7 @@ title: "CCRIS และ CTOS: รายงานเครดิตของม�
 seoTitle: "CCRIS vs CTOS: ตรวจสอบรายงานเครดิตของมาเลเซียฟรี"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS เป็นบันทึกเครดิตดิบของธนาคารกลางมาเลเซียที่ตรวจสอบได้ฟรีผ่านพอร์ทัล eCCRIS ในขณะที่ CTOS เป็นหน่วยงานเอกชนที่ได้รับใบอนุญาตซึ่งสร้างคะแนนเครดิต 300-850 คู่มือนี้อธิบายความแตกต่าง วิธีขอรายงานแต่ละฉบับ และวิธีแก้ไขข้อผิดพลาด"
 

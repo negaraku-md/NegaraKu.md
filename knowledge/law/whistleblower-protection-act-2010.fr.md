@@ -4,6 +4,7 @@ title: "Loi de 2010 sur la protection des lanceurs d'alerte : ce qu'elle couvre 
 seoTitle: "Loi de 2010 sur la protection des lanceurs d'alerte en Malaisie : protections et limites"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "La loi de 2010 sur la protection des lanceurs d'alerte en Malaisie (Act 711) protège les personnes qui signalent une conduite répréhensible à un organisme d'application de la loi par la confidentialité, l'immunité et une protection contre les représailles, mais la protection s'effondre si le lanceur d'alerte a pris part à la faute, a d'abord rendu l'affaire publique, ou tombe autrement sous le coup de l'article 11."
 

@@ -4,6 +4,7 @@ title: "Derecho de propiedad intelectual: marcas, patentes y derechos de autor"
 seoTitle: "Derecho de propiedad intelectual de Malasia: marcas, patentes y derechos de autor"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "Cómo protege Malasia las marcas, las patentes y los derechos de autor: las tres leyes que los rigen, qué registra MyIPO, cuánto dura la protección y las decisiones que un negocio o un inversor debe acertar."
 

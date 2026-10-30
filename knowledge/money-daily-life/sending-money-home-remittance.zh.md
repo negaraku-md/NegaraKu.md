@@ -3,6 +3,7 @@ topicId: "MY-LIV-0070"
 title: "从马来西亚汇款回家：如何分辨持牌汇款渠道与非法渠道"
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking-payments"]
 summary: "马来西亚的汇款市场依靠两条合法渠道运作——银行的国际汇款服务，以及持牌的非银行货币服务业务（money services business，MSB）——两者都受国家银行（BNM）监管。区分合法经营者与非法经营者的唯一关键，是你在交出现金之前就能实际核实的执照。"
 

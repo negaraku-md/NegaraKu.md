@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "Akta Syarikat 2016 (Akta 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "Halaman rekod statut untuk undang-undang korporat utama Malaysia — apa yang ditadbir oleh Akta 777, siapa yang mentadbirnya, sejarah pindaannya termasuk Akta A1701, dan artikel-artikel yang menghuraikan setiap tanggungjawab secara praktikal."
 

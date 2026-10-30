@@ -5,6 +5,7 @@ seoTitle: "JPDP：马来西亚个人资料保护局"
 socialTitle: "究竟是谁在执行马来西亚的资料隐私法？认识 JPDP"
 slug: "data-protection-department-jpdp"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["legal-system"]
 summary: "个人资料保护局（Jabatan Perlindungan Data Peribadi，JPDP）是隶属数字部的联邦机构，负责执掌与执行马来西亚《2010年个人资料保护法令》，登记资料控制者、处理投诉，并监督2025年关于资料外泄通报与资料保护官的改革。"
 tier: "3"

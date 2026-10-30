@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "고용법(Employment Act 1955, Act 265)"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "말레이시아의 주요 고용 관련 법률에 대한 법령 개요 페이지로, Act 265가 무엇을 규율하는지, 누가 이를 관장하는지, 개정 연혁, 그리고 각 의무를 실무적으로 설명하는 문서들을 다룹니다."
 

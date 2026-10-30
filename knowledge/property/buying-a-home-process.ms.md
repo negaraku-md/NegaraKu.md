@@ -4,6 +4,7 @@ title: "Membeli Rumah di Malaysia: Apa yang Sebenarnya Berlaku Antara Yuran Temp
 seoTitle: Membeli Rumah di Malaysia
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "Satu pembelian rumah di Malaysia berjalan atas dua landasan selari — landasan Perjanjian Jual Beli dan landasan pinjaman — yang bertemu semasa pencairan dan berakhir pada Memorandum Pindah Milik. Mengetahui peguam mana melakukan apa, dan di mana duti setem sebenarnya dikenakan, itulah yang menjadikan beberapa bulan yang tertekan itu satu proses yang boleh dijangka."
 tier: "2"

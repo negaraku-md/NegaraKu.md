@@ -4,6 +4,7 @@ title: "Akta Hakmilik Strata dan Hidup dalam Skim Strata"
 seoTitle: "Akta Hakmilik Strata & Akta Pengurusan Strata Malaysia"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "Dua undang-undang mengawal kehidupan kondominium di Malaysia: Akta Hakmilik Strata 1985 memberi anda hakmilik petak, manakala Akta Pengurusan Strata 2013 mengatur badan pengurusan, caj penyelenggaraan dan penyelesaian pertikaian."
 

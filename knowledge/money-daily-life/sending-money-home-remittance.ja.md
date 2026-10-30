@@ -3,6 +3,7 @@ topicId: "MY-LIV-0070"
 title: "マレーシアから故郷へ送金する：免許を受けた送金チャネルと違法なチャネルの見分け方"
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking-payments"]
 summary: "マレーシアの送金市場は、二つの合法的なチャネル――銀行の国際送金と、免許を受けた非銀行のマネーサービス事業（money services business、MSB）――で成り立っており、いずれもマレーシア国立銀行（Bank Negara Malaysia、BNM）の監督下にある。合法な業者と違法な業者を分ける唯一の決め手は、現金を渡す前に実際に確認できる免許である。"
 

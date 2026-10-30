@@ -4,6 +4,7 @@ title: "职业安全与卫生法令：雇主的责任"
 seoTitle: "1994年职业安全与卫生法令（第514号法令）下雇主的责任"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "根据1994年职业安全与卫生法令（OSHA 1994，第514号法令），雇主必须在切实可行的范围内确保员工的安全与卫生。2022年修订案于2024年6月1日生效，扩大了适用范围，增加了新的义务，并将最高罚款额提高至50万令吉。"
 

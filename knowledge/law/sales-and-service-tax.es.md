@@ -4,6 +4,7 @@ title: "Impuesto sobre Ventas y Servicios (SST)"
 seoTitle: "Impuesto sobre Ventas y Servicios (SST) de Malasia: tasas, umbrales y cumplimiento"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "El Impuesto sobre Ventas y Servicios (SST) de Malasia es un impuesto al consumo de dos partes, administrado por el Departamento Real de Aduanas de Malasia en virtud de la Ley del Impuesto sobre Ventas de 2018 y la Ley del Impuesto sobre Servicios de 2018. Esta guía cubre quién debe registrarse, los umbrales de RM500,000/RM1,000,000/RM1,500,000, las tasas del 5%/10% y del 6%/8%, y cómo funcionan las declaraciones y los pagos tras la ampliación del 1 de julio de 2025."
 

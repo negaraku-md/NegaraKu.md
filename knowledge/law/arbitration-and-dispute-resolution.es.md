@@ -4,6 +4,7 @@ title: "Arbitraje y resolución alternativa de conflictos"
 seoTitle: "Arbitraje y ADR en Malasia: Act 2005, AIAC, mediación"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "Cómo resuelve Malasia los conflictos comerciales fuera de los tribunales: mediante el arbitraje al amparo de la Ley de Arbitraje de 2005 (Arbitration Act 2005), el Centro Internacional de Arbitraje de Asia (AIAC) y la mediación."
 

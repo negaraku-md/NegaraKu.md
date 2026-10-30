@@ -4,6 +4,7 @@ title: "Trọng tài và Giải quyết Tranh chấp Thay thế"
 seoTitle: "Trọng tài & ADR ở Malaysia: Đạo luật 2005, AIAC, hòa giải"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "Cách Malaysia giải quyết tranh chấp thương mại ngoài tòa án — thông qua trọng tài theo Đạo luật Trọng tài (Arbitration Act 2005), Trung tâm Trọng tài Quốc tế châu Á (Asian International Arbitration Centre, AIAC), và hòa giải."
 

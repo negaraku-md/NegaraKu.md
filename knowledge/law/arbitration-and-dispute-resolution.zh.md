@@ -4,6 +4,7 @@ title: "仲裁与替代性纠纷解决"
 seoTitle: "马来西亚仲裁与替代性纠纷解决：2005年法令、AIAC、调解"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "马来西亚如何在法院之外解决商业纠纷——通过《2005年仲裁法令》下的仲裁、亚洲国际仲裁中心（AIAC）以及调解。"
 

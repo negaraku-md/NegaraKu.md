@@ -4,6 +4,7 @@ title: "La Strata Titles Act (titres stratifiés) et vivre dans un régime de st
 seoTitle: "Malaisie : Strata Titles Act et Strata Management Act"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "Deux lois régissent la vie en copropriété en Malaisie : la Strata Titles Act 1985 vous donne le titre de votre lot (parcel), tandis que la Strata Management Act 2013 régit l'organe de gestion, les charges d'entretien et le règlement des litiges."
 

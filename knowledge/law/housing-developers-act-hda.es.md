@@ -4,6 +4,7 @@ title: "Ley de Desarrollo de la Vivienda (Control y Licencias) de 1966"
 seoTitle: "Housing Development Act 1966 (HDA): guía de protección del comprador de vivienda"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "La HDA 1966 (Act 118) es la ley central que protege a los compradores de viviendas sobre plano en la Malasia Peninsular: mediante la licencia del promotor, los contratos de compraventa obligatorios (Schedule G/H), una indemnización del 10% anual por entrega tardía y el Tribunal de Reclamaciones del Comprador de Vivienda."
 

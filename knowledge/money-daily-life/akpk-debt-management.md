@@ -4,6 +4,7 @@ title: "AKPK: Agensi Kaunseling Hutang Percuma Malaysia dan Program Pengurusan K
 seoTitle: "AKPK & Program Pengurusan Kredit (PPK): Kaunseling Hutang Percuma"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK ialah anak syarikat milik penuh Bank Negara Malaysia yang menawarkan kaunseling kewangan percuma dan Program Pengurusan Kredit (PPK) untuk menyusun semula hutang perumahan, sewa beli dan kad kredit menjadi satu bayaran bulanan."
 

@@ -4,6 +4,7 @@ title: "Arbitrage et résolution alternative des litiges"
 seoTitle: "Arbitrage et ADR en Malaisie : Act 2005, AIAC, médiation"
 slug: "arbitration-and-dispute-resolution"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["arbitration"]
 summary: "Comment la Malaisie résout les litiges commerciaux en dehors des tribunaux : par l'arbitrage au titre de la loi sur l'arbitrage de 2005 (Arbitration Act 2005), le Centre international d'arbitrage d'Asie (AIAC) et la médiation."
 

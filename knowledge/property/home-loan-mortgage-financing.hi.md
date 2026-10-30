@@ -4,6 +4,7 @@ title: "मलेशिया में गृह ऋण और बंधक व
 seoTitle: "मलेशिया गृह ऋण: मार्जिन, EPF, SJKP और स्टांप शुल्क"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "मलेशिया में गृह वित्तपोषण की एक मार्गदर्शिका — वित्तपोषण मार्जिन, BNM के ज़िम्मेदार ऋण दिशानिर्देश, MRTA/MLTA, EPF Akaun Sejahtera से निकासी, SJKP गारंटी योजना और ऋण अनुबंध पर स्टांप शुल्क।"
 

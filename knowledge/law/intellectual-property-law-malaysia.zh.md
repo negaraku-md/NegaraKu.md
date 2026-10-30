@@ -4,6 +4,7 @@ title: "知识产权法：商标、专利与版权"
 seoTitle: "马来西亚知识产权法：商标、专利、版权指南"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "马来西亚如何保护商标、专利与版权——三部主管法令、马来西亚知识产权局（MyIPO）注册哪些权利、保护期有多长，以及企业或投资者必须做对的关键决策。"
 

@@ -4,6 +4,7 @@ title: "말레이시아의 주택 대출과 모기지 금융"
 seoTitle: "말레이시아 주택 대출: 대출 한도, EPF, SJKP, 인지세"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "말레이시아의 주택 금융 안내 — 대출 한도 비율, BNM의 책임 대출 지침, MRTA/MLTA, EPF Akaun Sejahtera 인출, SJKP 보증제도, 대출계약 인지세."
 

@@ -4,6 +4,7 @@ title: "Ley de Protección del Denunciante de 2010: qué cubre y sus límites"
 seoTitle: "Ley de Protección del Denunciante de 2010 Malasia: protecciones y límites"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "La Ley de Protección del Denunciante de 2010 de Malasia (Act 711) ampara a quienes denuncian conductas indebidas ante un organismo de aplicación de la ley con confidencialidad, inmunidad y protección contra represalias, pero la protección se desmorona si el denunciante participó en la irregularidad, se hizo público primero, o incurre de otro modo en el Artículo 11."
 

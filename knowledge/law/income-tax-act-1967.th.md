@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "พระราชบัญญัติภาษีเงินได้ 1967 (Income Tax Act 1967, Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "หน้าเอนทิตีกฎหมายสำหรับกฎหมายภาษีทางตรงหลักของมาเลเซีย — Act 53 กำกับอะไร ใครบริหาร แก้ไขอย่างไร และบทความที่อธิบายแต่ละส่วนในทางปฏิบัติ"
 

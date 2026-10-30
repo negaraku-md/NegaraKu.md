@@ -3,6 +3,7 @@ topicId: "MY-LIV-0032"
 title: "在马来西亚买房：从预订金到拿到钥匙之间究竟发生了什么"
 slug: "buying-a-home-process"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "马来西亚的房屋买卖走在两条并行的轨道上——买卖合约（SPA）轨道与贷款轨道——两者在放款时交会，并在转让备忘录完成时终结。弄清楚哪位律师负责什么、印花税究竟落在哪里，才能把原本紧张的几个月变成一段可预见的过程。"
 tier: "2"

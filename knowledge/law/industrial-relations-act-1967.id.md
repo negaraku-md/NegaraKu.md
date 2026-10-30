@@ -4,6 +4,7 @@ title: "Industrial Relations Act 1967: Serikat Pekerja dan Pemecatan Tidak Adil"
 seoTitle: "Industrial Relations Act 1967 Malaysia: Serikat & Pemecatan Tidak Adil"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "Industrial Relations Act 1967 mengatur pengakuan serikat pekerja, perundingan kolektif, dan tuntutan pemecatan tanpa sebab yang wajar di Mahkamah Perusahaan — lapisan hubungan perburuhan yang tidak dicakup Employment Act 1955."
 

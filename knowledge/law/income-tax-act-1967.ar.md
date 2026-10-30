@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "Income Tax Act 1967 (Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "صفحة الكيان القانوني للتشريع الضريبي المباشر الرئيسي في ماليزيا — ما الذي ينظمه Act 53، ومن يديره، وكيف يُعدَّل، والمقالات التي تشرح كل جزء منه في الممارسة العملية."
 

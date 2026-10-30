@@ -4,6 +4,7 @@ title: "AKPK: Malaysia's Free Debt Counselling Agency and the Debt Management Pr
 seoTitle: "AKPK & the Debt Management Programme (DMP): Free Debt Counselling"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK is a wholly owned subsidiary of Bank Negara Malaysia that offers free financial counselling and a Debt Management Programme (DMP) to restructure housing, hire-purchase and credit card debts into a single monthly payment."
 

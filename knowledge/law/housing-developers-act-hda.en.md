@@ -4,6 +4,7 @@ title: "Housing Development (Control and Licensing) Act 1966"
 seoTitle: "Housing Development Act 1966 (HDA): Homebuyer Protection Guide"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "The HDA 1966 (Act 118) is the core law protecting buyers of off-plan homes in Peninsular Malaysia — through developer licensing, mandatory sale and purchase agreements (Schedule G/H), 10%-a-year late-delivery damages, and the Tribunal for Homebuyer Claims."
 

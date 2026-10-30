@@ -4,6 +4,7 @@ title: "Consumer Credit Act 2025 dan Pengaturan Sewa Beli"
 seoTitle: "Consumer Credit Act 2025 & Hire-Purchase Act Malaysia: Panduan"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "Consumer Credit Act 2025 membawa pemberi kredit non-bank dan BNPL di bawah satu komisi baru, sementara Hire-Purchase Act 1967 terus mengatur pembiayaan kendaraan dan barang — dua kerangka yang kini disegarkan bersamaan."
 

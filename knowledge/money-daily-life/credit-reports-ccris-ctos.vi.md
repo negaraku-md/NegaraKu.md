@@ -4,6 +4,7 @@ title: "CCRIS và CTOS: Cách báo cáo tín dụng của Malaysia vận hành v
 seoTitle: "CCRIS so với CTOS: Kiểm tra báo cáo tín dụng Malaysia miễn phí"
 slug: "credit-reports-ccris-ctos"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "CCRIS là hồ sơ tín dụng thô thuộc sở hữu của Ngân hàng Trung ương Malaysia có thể được kiểm tra miễn phí qua cổng eCCRIS, trong khi CTOS là một cơ quan tư nhân được cấp phép tạo ra điểm tín dụng 300-850. Hướng dẫn này giải thích sự khác biệt của chúng, cách yêu cầu mỗi báo cáo, và cách sửa các lỗi."
 

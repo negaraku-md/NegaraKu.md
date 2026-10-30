@@ -4,6 +4,7 @@ title: "Năm ngân hàng số của Malaysia: GXBank, Boost Bank, AEON Bank, KAF
 seoTitle: "Ngân hàng số Malaysia: 5 ngân hàng được BNM cấp phép & bảo vệ của PIDM"
 slug: "malaysia-digital-banks"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking"]
 summary: "Malaysia hiện có năm ngân hàng số được BNM cấp phép — ba ngân hàng thông thường và hai ngân hàng Hồi giáo — hoạt động hoàn toàn qua ứng dụng không có chi nhánh, và tiền gửi của bạn vẫn được PIDM bảo vệ lên đến RM250,000."
 

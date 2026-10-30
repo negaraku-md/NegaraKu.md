@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "Luật Lao động 1955 (Employment Act 1955, Act 265)"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "Trang thực thể về đạo luật lao động chính của Malaysia — Act 265 điều chỉnh những gì, ai quản lý, lịch sử sửa đổi của nó, và các bài viết giải thích từng nghĩa vụ trên thực tế."
 

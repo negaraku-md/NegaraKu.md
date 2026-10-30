@@ -4,6 +4,7 @@ title: "Home Loans and Mortgage Financing in Malaysia"
 seoTitle: "Malaysia Home Loans: Margin, EPF, SJKP & Stamp Duty"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "A guide to home financing in Malaysia — financing margin, BNM's responsible lending guidelines, MRTA/MLTA, EPF Akaun Sejahtera withdrawals, the SJKP guarantee scheme and stamp duty on loan agreements."
 

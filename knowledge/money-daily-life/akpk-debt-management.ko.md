@@ -4,6 +4,7 @@ title: "AKPK: 말레이시아 무료 부채 상담 기관 및 신용관리 프�
 seoTitle: "AKPK 및 신용관리 프로그램(PPK): 무료 부채 상담"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK는 말레이시아 중앙은행(Bank Negara Malaysia)의 완전 자회사로, 무료 재무 상담과 신용관리 프로그램(PPK)을 제공하여 주택 대출, 할부 구매, 신용카드 부채를 하나의 월 상환액으로 재조정해 줍니다."
 

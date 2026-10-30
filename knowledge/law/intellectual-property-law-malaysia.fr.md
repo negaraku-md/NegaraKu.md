@@ -4,6 +4,7 @@ title: "Droit de la propriété intellectuelle : marques, brevets et droits d'au
 seoTitle: "Droit de la propriété intellectuelle de Malaisie : marques, brevets et droits d'auteur"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "Comment la Malaisie protège les marques, les brevets et les droits d'auteur : les trois lois qui les régissent, ce que MyIPO enregistre, la durée de la protection et les décisions qu'une entreprise ou un investisseur doit réussir."
 

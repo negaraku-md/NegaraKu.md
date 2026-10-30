@@ -4,6 +4,7 @@ title: "Los cinco bancos digitales de Malasia: GXBank, Boost Bank, AEON Bank, KA
 seoTitle: "Bancos digitales de Malasia: 5 bancos con licencia de BNM y protección de PIDM"
 slug: "malaysia-digital-banks"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking"]
 summary: "Malasia cuenta ahora con cinco bancos digitales con licencia de BNM —tres convencionales y dos islámicos— que operan íntegramente a través de aplicaciones sin sucursales, y sus ahorros siguen protegidos por PIDM hasta RM250,000."
 

@@ -4,6 +4,7 @@ title: "2025年消费信贷法令与租购管制"
 seoTitle: "2025年消费信贷法令与马来西亚租购法令指南"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "2025年消费信贷法令将非银行信贷提供者与先买后付（BNPL）纳入一个全新委员会之下，而1967年租购法令继续管制车辆与货品融资——两套框架如今同步更新。"
 

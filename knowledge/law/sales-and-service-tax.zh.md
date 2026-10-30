@@ -4,6 +4,7 @@ title: "销售与服务税（SST）"
 seoTitle: "马来西亚销售与服务税（SST）：税率、门槛与合规"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "马来西亚的销售与服务税（SST）是一种由马来西亚皇家关税局依据《2018年销售税法令》和《2018年服务税法令》管理的两部分消费税。本指南涵盖谁必须注册、RM500,000／RM1,000,000／RM1,500,000 的门槛、5%／10% 与 6%／8% 的税率，以及在 2025 年 7 月 1 日扩大范围后申报与缴纳的运作方式。"
 

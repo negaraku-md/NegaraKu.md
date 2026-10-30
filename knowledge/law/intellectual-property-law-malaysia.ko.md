@@ -4,6 +4,7 @@ title: "지식재산법: 상표, 특허 및 저작권"
 seoTitle: "말레이시아 지식재산법: 상표, 특허, 저작권 안내"
 slug: "intellectual-property-law-malaysia"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["ip"]
 summary: "말레이시아가 상표·특허·저작권을 보호하는 방식 — 세 개의 규율 법률, MyIPO가 등록하는 것, 보호가 얼마나 지속되는지, 그리고 기업이나 투자자가 올바르게 판단하여야 하는 결정을 다룹니다."
 

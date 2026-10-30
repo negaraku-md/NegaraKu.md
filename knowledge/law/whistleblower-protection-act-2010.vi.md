@@ -4,6 +4,7 @@ title: "Luật Bảo vệ Người tố giác 2010: Phạm vi bảo vệ và nh�
 seoTitle: "Luật Bảo vệ Người tố giác 2010 Malaysia: Bảo vệ và giới hạn"
 slug: "whistleblower-protection-act-2010"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["whistleblowing"]
 summary: "Luật Bảo vệ Người tố giác của Malaysia (Whistleblower Protection Act 2010, Act 711) bảo vệ những người tố giác hành vi sai trái với một cơ quan thực thi bằng sự bảo mật, quyền miễn trừ và bảo vệ khỏi trả đũa, nhưng sự bảo vệ đó sụp đổ nếu người tố giác đã tham gia vào chính hành vi sai trái đó, đã công khai trước, hoặc rơi vào các trường hợp khác của Điều 11."
 

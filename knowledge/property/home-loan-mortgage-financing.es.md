@@ -4,6 +4,7 @@ title: "Préstamos de vivienda y financiación hipotecaria en Malasia"
 seoTitle: "Préstamos de vivienda en Malasia: margen, EPF, SJKP y timbre"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "Una guía sobre la financiación de vivienda en Malasia — margen de financiación, directrices de préstamo responsable del BNM, MRTA/MLTA, retiros de la EPF Akaun Sejahtera, el esquema de garantía SJKP y el impuesto de timbre sobre los contratos de préstamo."
 

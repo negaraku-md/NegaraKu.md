@@ -4,6 +4,7 @@ title: "La Ley de Crédito al Consumo de 2025 y la regulación del arrendamiento
 seoTitle: "Ley de Crédito al Consumo 2025 y Ley de Arrendamiento con Opción de Compra: guía Malasia"
 slug: "consumer-credit-act-2025"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["kredit"]
 summary: "La Ley de Crédito al Consumo de 2025 somete a los proveedores de crédito no bancario y al BNPL a una nueva comisión única, mientras que la Ley de Arrendamiento con Opción de Compra de 1967 sigue rigiendo la financiación de vehículos y bienes: dos marcos que ahora se renuevan en paralelo."
 

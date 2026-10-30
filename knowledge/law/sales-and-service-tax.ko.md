@@ -4,6 +4,7 @@ title: "판매세 및 서비스세(SST)"
 seoTitle: "말레이시아 판매세 및 서비스세(SST): 세율, 기준 및 준수"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "말레이시아의 판매세 및 서비스세(SST)는 판매세법 2018(Sales Tax Act 2018)과 서비스세법 2018(Service Tax Act 2018)에 따라 말레이시아 왕립관세청이 운용하는 두 부분으로 된 소비세입니다. 이 안내서는 누가 등록하여야 하는지, RM500,000/RM1,000,000/RM1,500,000 기준, 5%/10% 및 6%/8% 세율, 그리고 2025년 7월 1일 확대 이후 신고와 납부가 어떻게 작동하는지를 다룹니다."
 

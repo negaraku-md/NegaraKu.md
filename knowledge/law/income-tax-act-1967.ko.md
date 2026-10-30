@@ -3,6 +3,7 @@ topicId: MY-LAW-0002
 title: "소득세법 1967(Income Tax Act 1967, Act 53)"
 slug: "income-tax-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "말레이시아의 주된 직접세 법률에 대한 법령 개체 페이지입니다 — Act 53이 무엇을 규율하는지, 누가 운용하는지, 어떻게 개정되는지, 그리고 그 각 부분을 실무에서 설명하는 문서들을 다룹니다."
 

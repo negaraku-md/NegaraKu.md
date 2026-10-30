@@ -4,6 +4,7 @@ title: "Strata Titles Act dan Kehidupan dalam Skema Strata"
 seoTitle: "Strata Titles Act & Strata Management Act Malaysia"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "Dua undang-undang mengatur kehidupan kondominium di Malaysia: Strata Titles Act 1985 memberi Anda hak milik petak, sementara Strata Management Act 2013 mengatur badan pengelola, biaya pemeliharaan, dan penyelesaian sengketa."
 

@@ -4,6 +4,7 @@ title: "قروض السكن وتمويل الرهن العقاري في مالي
 seoTitle: "قروض السكن في ماليزيا: نسبة التمويل، EPF، SJKP ورسوم الدمغة"
 slug: "home-loan-mortgage-financing"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["pembiayaan"]
 summary: "دليل لتمويل السكن في ماليزيا — نسبة التمويل، وإرشادات الإقراض المسؤول لبنك نيغارا ماليزيا (BNM)، وتأمين MRTA/MLTA، والسحب من حساب EPF Akaun Sejahtera، ومخطط الضمان SJKP، ورسوم الدمغة على اتفاقيات القرض."
 

@@ -4,6 +4,7 @@ title: "Industrial Relations Act 1967: ट्रेड यूनियन और
 seoTitle: "मलेशिया औद्योगिक संबंध अधिनियम 1967 (IRA): यूनियन और अनुचित बर्खास्तगी"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "औद्योगिक संबंध अधिनियम 1967 (Industrial Relations Act 1967) ट्रेड यूनियन की मान्यता, सामूहिक सौदेबाज़ी, और औद्योगिक न्यायालय में «उचित कारण या बहाने के बिना» बर्खास्तगी के दावों को नियंत्रित करता है — यह श्रम संबंधों की वह परत है जिसे रोज़गार अधिनियम 1955 (Employment Act 1955) कवर नहीं करता।"
 

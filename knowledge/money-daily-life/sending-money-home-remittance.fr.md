@@ -4,6 +4,7 @@ title: "Envoyer de l'argent au pays depuis la Malaisie : comment distinguer un c
 seoTitle: Envoyer de l'argent au pays depuis la Malaisie
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking-payments"]
 summary: "Le marché des transferts de fonds de la Malaisie repose sur deux canaux licites — les virements internationaux bancaires et les entreprises de services monétaires non bancaires agréées — tous deux supervisés par Bank Negara Malaysia. La seule chose qui sépare un opérateur légitime d'un opérateur illégal est une licence que vous pouvez réellement vérifier avant de remettre votre argent."
 

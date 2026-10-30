@@ -4,6 +4,7 @@ title: "Malaysia's Five Digital Banks: GXBank, Boost Bank, AEON Bank, KAF Digita
 seoTitle: "Malaysia Digital Banks: 5 BNM-Licensed Banks & PIDM Protection"
 slug: "malaysia-digital-banks"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking"]
 summary: "Malaysia now has five BNM-licensed digital banks — three conventional and two Islamic — that operate entirely through apps with no branches, and your savings remain protected by PIDM up to RM250,000."
 

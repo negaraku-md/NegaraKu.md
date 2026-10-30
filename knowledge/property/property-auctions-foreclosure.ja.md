@@ -4,6 +4,7 @@ title: "競売による不動産の購入（銀行競売 Bank Lelong）"
 seoTitle: "マレーシアの銀行競売（Bank Lelong）：競売不動産の購入はどう機能するか"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "マレーシアにおける銀行および裁判所の担保権実行競売（lelong）がどう機能するか——当日支払う手付金、残代金の期限、そしてなぜ競売での購入が通常の売買契約（SPA）による購入にはないリスクを伴うのか。"
 

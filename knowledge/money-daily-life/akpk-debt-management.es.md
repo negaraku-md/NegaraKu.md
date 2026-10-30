@@ -4,6 +4,7 @@ title: "AKPK: la agencia de asesoramiento de deuda gratuito de Malasia y el Prog
 seoTitle: "AKPK y el Programa de Gestión de Deuda (DMP): asesoramiento de deuda gratuito"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK es una filial de propiedad total de Bank Negara Malaysia que ofrece asesoramiento financiero gratuito y un Programa de Gestión de Deuda (DMP) para reestructurar deudas de vivienda, arrendamiento con opción de compra y tarjetas de crédito en un único pago mensual."
 

@@ -4,6 +4,7 @@ title: "Luật Phát triển Nhà ở (Kiểm soát và Cấp phép) 1966"
 seoTitle: "Luật Phát triển Nhà ở 1966 (HDA): Hướng dẫn bảo vệ người mua nhà"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "HDA 1966 (Act 118) là luật cốt lõi bảo vệ người mua nhà hình thành trong tương lai tại Bán đảo Malaysia — thông qua việc cấp phép cho nhà phát triển, hợp đồng mua bán bắt buộc (Phụ lục G/H), bồi thường chậm bàn giao 10% mỗi năm, và Tòa án Khiếu nại Người mua nhà."
 

@@ -4,6 +4,7 @@ title: "말레이시아의 다섯 디지털 은행: GXBank, Boost Bank, AEON Ban
 seoTitle: "말레이시아 디지털 은행: BNM 면허 5개 은행 & PIDM 보호"
 slug: "malaysia-digital-banks"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking"]
 summary: "말레이시아는 이제 BNM 면허 디지털 은행 다섯 곳 — 세 곳은 재래식, 두 곳은 이슬람 — 을 두고 있으며, 이들은 지점 없이 앱을 통해 완전히 운영되고, 당신의 저축은 여전히 RM250,000까지 PIDM의 보호를 받습니다."
 

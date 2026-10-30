@@ -4,6 +4,7 @@ title: "La Ley de Títulos Estratificados (Strata) y vivir en un régimen de est
 seoTitle: "Malasia: Ley de Títulos Estratificados y Ley de Gestión de Estratos"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "Dos leyes rigen la vida en condominio en Malasia: la Strata Titles Act 1985 le otorga el título de su unidad (parcel), mientras que la Strata Management Act 2013 regula el órgano de gestión, los cargos de mantenimiento y la resolución de disputas."
 

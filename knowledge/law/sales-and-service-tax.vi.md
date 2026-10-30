@@ -4,6 +4,7 @@ title: "Thuế Bán hàng và Dịch vụ (SST)"
 seoTitle: "Thuế Bán hàng và Dịch vụ Malaysia (SST): Thuế suất, ngưỡng & tuân thủ"
 slug: "sales-and-service-tax"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["tax"]
 summary: "Thuế Bán hàng và Dịch vụ (SST) của Malaysia là một loại thuế tiêu dùng gồm hai phần do Cục Hải quan Hoàng gia Malaysia quản lý theo Luật Thuế Bán hàng 2018 và Luật Thuế Dịch vụ 2018. Hướng dẫn này bao trùm ai phải đăng ký, các ngưỡng RM500,000/RM1,000,000/RM1,500,000, các thuế suất 5%/10% và 6%/8%, và cách các tờ khai cùng thanh toán hoạt động sau đợt mở rộng ngày 1 July 2025."
 

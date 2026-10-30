@@ -4,6 +4,7 @@ title: "1966年住宅開発（統制・免許）法（Housing Development (Contr
 seoTitle: "1966年住宅開発法（HDA）：住宅購入者保護ガイド"
 slug: "housing-developers-act-hda"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["perumahan"]
 summary: "1966年住宅開発（統制・免許）法（Act 118、HDA）は、半島マレーシアの未完成物件購入者を保護する中核法である——住宅開発業者の許可、強制的な売買契約（附則G／H）、年10%の遅延損害賠償、そして住宅購入者請求審判所を通じて。"
 

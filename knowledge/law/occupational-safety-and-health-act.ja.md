@@ -4,6 +4,7 @@ title: "労働安全衛生法：使用者の責任"
 seoTitle: "1994年労働安全衛生法（Act 514）における使用者の責任"
 slug: "occupational-safety-and-health-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["keselamatan"]
 summary: "OSHA 1994（Act 514）のもとでは、使用者は実行可能な限り従業員の安全及び健康を確保しなければならない。2024年6月1日に施行された2022年改正は、適用範囲を拡大し、新たな義務を追加し、最高罰金額をRM500,000に引き上げた。"
 

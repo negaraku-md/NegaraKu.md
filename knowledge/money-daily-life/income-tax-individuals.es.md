@@ -4,6 +4,7 @@ title: "¿Tiene que presentar declaración de impuesto sobre la renta en Malasia
 seoTitle: "Impuesto sobre la renta personal en Malasia: prueba de residencia y cómo hacer la e-Filing"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "Que deba o no el impuesto sobre la renta malasio depende en primer lugar de una prueba de residencia legal basada en el recuento de días, no de la ciudadanía ni del tipo de visado. Este artículo recorre esa prueba, explica cuándo pasa a ser obligatorio registrar un expediente fiscal, y detalla la secuencia real de e-Daftar a e-Filing en el portal MyTax de LHDN."
 

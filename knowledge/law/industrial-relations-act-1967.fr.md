@@ -4,6 +4,7 @@ title: "Industrial Relations Act 1967 : syndicats et licenciement abusif"
 seoTitle: "Industrial Relations Act 1967 de Malaisie (IRA) : syndicats et licenciement abusif"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "L'Industrial Relations Act 1967 régit la reconnaissance des syndicats, la négociation collective et les réclamations pour licenciement sans cause ni excuse valable devant le Tribunal du travail (Industrial Court) : le volet des relations professionnelles que l'Employment Act 1955 ne couvre pas."
 

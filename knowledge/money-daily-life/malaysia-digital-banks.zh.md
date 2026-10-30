@@ -4,6 +4,7 @@ title: "马来西亚五家数字银行：GXBank、Boost Bank、AEON Bank、KAF D
 seoTitle: "马来西亚数字银行：5家BNM持牌银行与PIDM存款保障"
 slug: "malaysia-digital-banks"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking"]
 summary: "马来西亚目前拥有五家由马来西亚国家银行（BNM）发牌的数字银行——三家传统型、两家伊斯兰型——全部通过应用程序运营、没有实体分行，而您的存款依然受马来西亚存款保险公司（PIDM）保障，最高达 RM250,000。"
 

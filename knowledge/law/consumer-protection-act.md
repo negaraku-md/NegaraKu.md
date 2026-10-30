@@ -4,6 +4,7 @@ title: "Consumer Protection Act 1999: Malaysia's Consumer Rights Statute and Its
 seoTitle: Consumer Protection Act 1999
 slug: "consumer-protection-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["key-acts"]
 summary: "Statute entity page for Act 599 — the rights it confers against misleading practices, unsafe goods and guarantees, and the Tribunal for Consumer Claims: a RM5, lawyer-free forum for claims up to RM50,000."
 tier: "4"

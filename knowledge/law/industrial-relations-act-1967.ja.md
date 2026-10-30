@@ -4,6 +4,7 @@ title: "1967年労使関係法：労働組合と不当解雇"
 seoTitle: "マレーシア1967年労使関係法：労働組合と不当解雇"
 slug: "industrial-relations-act-1967"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["buruh"]
 summary: "1967年労使関係法は、労働組合の承認、団体交渉、そして労使裁判所における正当な理由のない解雇の申立てを規律する——1955年雇用法がカバーしない労使関係の層である。"
 

@@ -4,6 +4,7 @@ title: "Adakah Anda Perlu Memfailkan Cukai Pendapatan di Malaysia? Mulakan denga
 seoTitle: "Cukai Pendapatan Individu Malaysia: Ujian Pemastautin & Cara e-Filing"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "Sama ada anda perlu membayar cukai pendapatan Malaysia bergantung mula-mula kepada ujian pemastautin berasaskan kiraan hari yang berstatus statutori, bukan kepada kewarganegaraan atau jenis visa. Ini menghuraikan ujian tersebut, bila pendaftaran fail cukai menjadi wajib, dan urutan sebenar e-Daftar-ke-e-Filing pada portal MyTax LHDN."
 

@@ -3,6 +3,7 @@ topicId: MY-LIV-0031
 title: "외국인은 말레이시아에서 부동산을 살 수 있는가? 최저가 기준과 주(州) 동의 설명"
 slug: "foreigners-buying-property"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["buying"]
 summary: "외국인은 대부분의 말레이시아 부동산을 살 수 있으나, 각 주(州)가 스스로 정하는 최저 가격 이상이어야 하고, 국가토지법에 따라 주 당국이 서면 동의를 부여한 뒤에만 가능합니다 — 하나가 아니라 두 개의 별개 관문이며, 어느 쪽도 전국 공통의 고정된 숫자가 아닙니다."
 

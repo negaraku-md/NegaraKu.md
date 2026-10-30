@@ -4,6 +4,7 @@ title: "AKPK: மலேசியாவின் இலவசக் கடன் 
 seoTitle: "AKPK & PPK (கடன் மேலாண்மைத் திட்டம்): இலவசக் கடன் ஆலோசனை"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK என்பது Bank Negara Malaysia-வின் முழு உரிமையிலான துணை நிறுவனமாகும். இது இலவச நிதி ஆலோசனையையும், வீட்டுக் கடன், வாடகை-கொள்முதல் மற்றும் கடன் அட்டைக் கடன்களை ஒரே மாதாந்திரக் கட்டணமாக மறுசீரமைக்கும் கடன் மேலாண்மைத் திட்டத்தையும் (Program Pengurusan Kredit, PPK) வழங்குகிறது."
 

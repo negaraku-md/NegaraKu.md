@@ -4,6 +4,7 @@ title: "Enviar dinero a casa desde Malasia: cómo distinguir un canal de remesas
 seoTitle: Enviar dinero a casa desde Malasia
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking-payments"]
 summary: "El mercado de remesas de Malasia funciona con dos canales lícitos —las transferencias internacionales bancarias y los negocios de servicios monetarios no bancarios con licencia—, ambos supervisados por Bank Negara Malaysia. Lo único que separa a un operador legítimo de uno ilegal es una licencia que usted puede verificar de verdad antes de entregar el efectivo."
 

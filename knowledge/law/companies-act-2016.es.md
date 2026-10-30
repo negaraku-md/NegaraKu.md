@@ -3,6 +3,7 @@ topicId: MY-LAW-0001
 title: "Companies Act 2016 (Act 777)"
 slug: "companies-act-2016"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["corporate"]
 summary: "Página de entidad-estatuto del principal derecho de sociedades de Malasia — qué rige el Act 777, quién lo administra, su historial de enmiendas incluido el Act A1701, y los artículos que explican cada deber en la práctica."
 

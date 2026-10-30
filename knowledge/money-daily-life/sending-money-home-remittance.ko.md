@@ -3,6 +3,7 @@ topicId: "MY-LIV-0070"
 title: "말레이시아에서 본국으로 송금하기: 합법 송금 채널과 불법 채널을 구별하는 법"
 slug: "sending-money-home-remittance"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["banking-payments"]
 summary: "말레이시아의 송금 시장은 두 개의 합법 채널 — 은행 국제 이체와 면허받은 비은행 자금서비스사업(MSB) — 위에서 돌아가며, 둘 다 말레이시아 중앙은행의 감독을 받습니다. 합법 사업자를 불법 사업자와 가르는 유일한 것은, 현금을 건네기 전에 실제로 확인할 수 있는 면허입니다."
 

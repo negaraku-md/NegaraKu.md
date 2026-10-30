@@ -4,6 +4,7 @@ title: "Bạn có phải khai thuế thu nhập tại Malaysia không? Bắt đ�
 seoTitle: "Thuế thu nhập cá nhân Malaysia: Phép thử cư trú & cách e-File"
 slug: "income-tax-individuals"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["personal-tax-statutory"]
 summary: "Việc bạn có nợ thuế thu nhập Malaysia hay không trước hết phụ thuộc vào một phép thử cư trú theo luật dựa trên đếm ngày, chứ không phải quốc tịch hay loại visa. Bài này đi qua phép thử đó, khi nào việc đăng ký hồ sơ thuế trở thành bắt buộc, và trình tự thực tế từ e-Daftar đến e-Filing trên cổng MyTax của LHDN."
 

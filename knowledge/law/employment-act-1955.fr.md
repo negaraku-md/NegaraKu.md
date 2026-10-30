@@ -3,6 +3,7 @@ topicId: MY-LAW-0003
 title: "Loi sur l'emploi de 1955 (Act 265)"
 slug: "employment-act-1955"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["employment"]
 summary: "Page d'entité législative de la principale loi sur l'emploi de la Malaisie — ce que régit l'Act 265, qui l'administre, son historique de modifications, et les articles qui expliquent chaque obligation en pratique."
 

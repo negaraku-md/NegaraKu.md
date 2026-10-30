@@ -4,6 +4,7 @@ title: "区分所有権法と区分所有物件での暮らし"
 seoTitle: "マレーシアの区分所有権法と区分所有管理法"
 slug: "strata-titles-act"
 category: "law"
+alsoIn: ["business"]
 subcategory: ["strata"]
 summary: "マレーシアのコンドミニアム生活を規律するのは二つの法律である。1985年区分所有権法（Strata Titles Act 1985、Act 318）は専有部分（parcel）の区分所有権（strata title）を付与し、2013年区分所有管理法（Strata Management Act 2013、Act 757）は管理団体、管理費及び紛争解決を規定する。"
 

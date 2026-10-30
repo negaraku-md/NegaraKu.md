@@ -4,6 +4,7 @@ title: "AKPK：马来西亚免费债务辅导机构与信贷管理计划"
 seoTitle: "AKPK 与信贷管理计划（PPK）：免费债务辅导"
 slug: "akpk-debt-management"
 category: "money-daily-life"
+alsoIn: ["business"]
 subcategory: ["hutang"]
 summary: "AKPK 是马来西亚国家银行（Bank Negara Malaysia）的全资子公司，提供免费的财务辅导以及信贷管理计划（PPK），把房屋贷款、租购（分期）和信用卡等债务重组为单一的每月还款。"
 

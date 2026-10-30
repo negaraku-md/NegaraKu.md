@@ -4,6 +4,7 @@ title: "Buying a Property at Auction (Bank Lelong)"
 seoTitle: "Bank Lelong Malaysia: How Auction Property Buying Works"
 slug: "property-auctions-foreclosure"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["auction"]
 summary: "How bank and court foreclosure auctions (lelong) work in Malaysia — the deposit you pay on the day, the balance deadline, and why a lelong buy carries risks a normal SPA purchase does not."
 
