@@ -11,6 +11,7 @@ import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import BecomeContributor from './BecomeContributor.astro';
+import SponsorCTA from './SponsorCTA.astro';
 import { getAnalytics, type AnalyticsBucket } from '@/lib/apidata';
 
 // Visitor analytics (see docs/ANALYTICS.md): three buckets — human readers,
@@ -560,6 +561,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           </section>
         )
       }
+
+      <SponsorCTA locale={locale} category={d.category} slug={d.slug} />
 
       <FeedbackBar locale={locale} title={d.title} />
 

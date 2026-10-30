@@ -3,6 +3,15 @@
 export const SITE = 'https://negaraku.md';
 export const REPO = 'https://github.com/negaraku-md/NegaraKu.md';
 
+/** Sponsor properties. NegaraKu.md is sponsored by 1company; high-intent
+    business/finance articles carry a disclosed, UTM-tagged call-to-action to the
+    relevant sponsor service (see src/lib/sponsor.ts + SponsorCTA.astro).
+    1company = professional firm services (company secretary, accounting, audit,
+    tax). 1financing = financing marketplace (SME/business loans, trade/invoice
+    finance, property/personal financing, equity/P2P). */
+export const BRAND_1COMPANY = 'https://1company.com';
+export const BRAND_1FINANCING = 'https://1financing.com';
+
 /** The open-data mirror: the corpus as a Hugging Face dataset (see
     scripts/export-hf-dataset.mjs). Surfaced in the footer's "For AI" column so
     both people and crawlers can find it. */
