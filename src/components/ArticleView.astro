@@ -12,6 +12,7 @@ import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
 import BecomeContributor from './BecomeContributor.astro';
 import SponsorCTA from './SponsorCTA.astro';
+import { resolveSponsor, sponsorUrl } from '@/lib/sponsors';
 import { getAnalytics, type AnalyticsBucket } from '@/lib/apidata';
 
 // Visitor analytics (see docs/ANALYTICS.md): three buckets — human readers,
@@ -96,6 +97,9 @@ const mins = readingTime(article);
 const pillar = getPillar(d.category);
 const pillarDef = pillar ? getPillarDef(pillar) : undefined;
 const sensitive = d.sensitivity !== 'none';
+// Disclosed sponsor CTA (sensitive content is never sponsored — see sponsors.ts).
+const sponsor = resolveSponsor(d.sponsor, pillar, sensitive, d.category, d.slug);
+const sponsorHref = sponsor ? sponsorUrl(sponsor, d.category, d.slug) : '';
 // A sensitive article that is already live gets a calmer, accurate notice — not
 // the "requires review before publication" warning, which only fits pre-live states.
 const sensitiveLive = sensitive && (d.status === 'published' || d.status === 'reviewed');
@@ -408,7 +412,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
 
-      <SponsorCTA locale={locale} category={d.category} slug={d.slug} />
+      {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} />}
 
       <section class="layer">
         <header>

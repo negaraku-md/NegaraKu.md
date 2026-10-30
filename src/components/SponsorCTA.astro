@@ -1,77 +1,28 @@
 ---
-// SponsorCTA — a disclosed, UTM-tagged call-to-action to the relevant sponsor
-// service, shown only on commercially-relevant articles (see src/lib/sponsor.ts).
-// It is visually distinct from editorial content and clearly labelled "Sponsored"
-// so the stewarded-knowledge-base trust is preserved: the content stays neutral;
-// this is an honest, marked offer. Links carry rel="sponsored".
+// SponsorCTA — a disclosed call-to-action to the article's resolved sponsor
+// (src/lib/sponsors.ts). ArticleView resolves the sponsor (sensitive content is
+// never sponsored) and passes it in with a UTM-tagged href. Visually distinct
+// from editorial content; the link carries rel="sponsored".
 import type { Locale } from '@/lib/categories';
-import { sponsorFor, sponsorUrl } from '@/lib/sponsor';
+import type { Sponsor } from '@/lib/sponsors';
 
-interface Props { locale: Locale; category: string; slug: string; }
-const { locale, category, slug } = Astro.props;
-
-const kind = sponsorFor(category, slug);
-const href = kind ? sponsorUrl(kind, category, slug) : '';
-
-const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) =>
-  (locale === 'fr' ? (fr ?? en) : locale === 'es' ? (es ?? en) : locale === 'hi' ? (hi ?? en) : locale === 'ar' ? (ar ?? en) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? en) : locale === 'th' ? (th ?? en) : locale === 'ko' ? (ko ?? en) : locale === 'ja' ? (ja ?? en) : locale === 'ta' ? (ta ?? en) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
-
-const COPY = kind === 'financing'
-  ? {
-      brand: '1financing.com',
-      head: L('Perlukan pembiayaan?', 'Need financing?', '需要融资？', 'நிதி தேவையா?', '資金調達が必要ですか？', '자금이 필요하신가요?', 'ต้องการเงินทุนหรือไม่?', 'Cần tài trợ vốn?', 'Butuh pembiayaan?', 'هل تحتاج إلى تمويل؟', 'वित्तपोषण चाहिए?', '¿Necesita financiación?', 'Besoin de financement ?'),
-      body: L(
-        '1financing menghubungkan perniagaan dan individu Malaysia dengan pinjaman, pembiayaan dagangan, pembiayaan hartanah dan dana ekuiti.',
-        '1financing connects Malaysian businesses and individuals to loans, trade finance, property financing and equity funding.',
-        '1financing 为马来西亚的企业和个人对接贷款、贸易融资、房地产融资与股权资金。',
-        '1financing மலேசிய வணிகங்கள் மற்றும் தனிநபர்களை கடன், வர்த்தக நிதி, சொத்து நிதி மற்றும் பங்கு நிதியுடன் இணைக்கிறது.',
-        '1financing は、マレーシアの企業や個人を融資・貿易金融・不動産金融・エクイティ資金につなげます。',
-        '1financing은 말레이시아의 기업과 개인을 대출, 무역 금융, 부동산 금융, 지분 자금과 연결합니다.',
-        '1financing เชื่อมโยงธุรกิจและบุคคลในมาเลเซียกับสินเชื่อ การเงินการค้า การเงินอสังหาริมทรัพย์ และเงินทุนแบบตราสารทุน',
-        '1financing kết nối doanh nghiệp và cá nhân Malaysia với các khoản vay, tài trợ thương mại, tài trợ bất động sản và vốn cổ phần.',
-        '1financing menghubungkan bisnis dan individu Malaysia dengan pinjaman, pembiayaan perdagangan, pembiayaan properti, dan pendanaan ekuitas.',
-        'يربط 1financing الشركات والأفراد في ماليزيا بالقروض وتمويل التجارة وتمويل العقارات وتمويل الأسهم.',
-        '1financing मलेशियाई व्यवसायों और व्यक्तियों को ऋण, व्यापार वित्त, संपत्ति वित्त और इक्विटी फंडिंग से जोड़ता है।',
-        '1financing conecta a empresas y particulares de Malasia con préstamos, financiación comercial, financiación inmobiliaria y capital.',
-        "1financing met en relation les entreprises et les particuliers malaisiens avec des prêts, du financement commercial, du financement immobilier et des fonds propres."),
-      cta: L('Terokai 1financing', 'Explore 1financing', '了解 1financing', '1financing ஐ ஆராயுங்கள்', '1financing を見る', '1financing 살펴보기', 'สำรวจ 1financing', 'Khám phá 1financing', 'Jelajahi 1financing', 'استكشف 1financing', '1financing देखें', 'Explorar 1financing', 'Découvrir 1financing'),
-    }
-  : {
-      brand: '1company.com',
-      head: L('Perlukan khidmat nasihat profesional?', 'Need professional advisory?', '需要专业咨询服务？', 'தொழில்முறை ஆலோசனை தேவையா?', '専門的なアドバイザリーが必要ですか？', '전문 자문이 필요하신가요?', 'ต้องการบริการที่ปรึกษามืออาชีพหรือไม่?', 'Cần tư vấn chuyên nghiệp?', 'Butuh layanan advisori profesional?', 'هل تحتاج إلى استشارة مهنية؟', 'पेशेवर सलाहकार सेवा चाहिए?', '¿Necesita asesoría profesional?', 'Besoin de conseil professionnel ?'),
-      body: L(
-        '1company menyediakan perkhidmatan setiausaha syarikat, perakaunan, audit dan cukai untuk perniagaan di Malaysia.',
-        '1company provides company secretary, accounting, audit and tax services for businesses in Malaysia.',
-        '1company 为马来西亚企业提供公司秘书、会计、审计与税务服务。',
-        '1company மலேசியாவில் உள்ள வணிகங்களுக்கு நிறுவனச் செயலாளர், கணக்கியல், தணிக்கை மற்றும் வரி சேவைகளை வழங்குகிறது.',
-        '1company は、マレーシアの企業に会社秘書役・会計・監査・税務サービスを提供します。',
-        '1company는 말레이시아 기업에 회사 비서, 회계, 감사, 세무 서비스를 제공합니다.',
-        '1company ให้บริการเลขานุการบริษัท บัญชี การตรวจสอบ และภาษี สำหรับธุรกิจในมาเลเซีย',
-        '1company cung cấp dịch vụ thư ký công ty, kế toán, kiểm toán và thuế cho doanh nghiệp tại Malaysia.',
-        '1company menyediakan layanan sekretaris perusahaan, akuntansi, audit, dan pajak untuk bisnis di Malaysia.',
-        'يقدّم 1company خدمات سكرتارية الشركات والمحاسبة والتدقيق والضرائب للشركات في ماليزيا.',
-        '1company मलेशिया में व्यवसायों के लिए कंपनी सचिव, लेखांकन, लेखा परीक्षा और कर सेवाएँ प्रदान करता है।',
-        '1company ofrece servicios de secretaría de empresa, contabilidad, auditoría e impuestos para empresas en Malasia.',
-        "1company fournit des services de secrétariat d’entreprise, de comptabilité, d’audit et de fiscalité aux entreprises en Malaisie."),
-      cta: L('Dapatkan bantuan 1company', 'Get help from 1company', '获取 1company 协助', '1company உதவியைப் பெறுங்கள்', '1company に相談する', '1company의 도움받기', 'ขอความช่วยเหลือจาก 1company', 'Nhận hỗ trợ từ 1company', 'Dapatkan bantuan 1company', 'احصل على مساعدة 1company', '1company से मदद लें', 'Obtener ayuda de 1company', 'Obtenir l’aide de 1company'),
-    };
+interface Props { locale: Locale; sponsor: Sponsor; href: string; }
+const { locale, sponsor, href } = Astro.props;
+const l = locale as Locale;
 ---
 
-{kind && (
-  <aside class="spon" aria-label={COPY.brand} data-pagefind-ignore>
-    <div class="spon-body">
-      <p class="spon-head">{COPY.head}</p>
-      <p class="spon-text">{COPY.body}</p>
-    </div>
-    <a class="spon-cta" href={href} target="_blank" rel="sponsored noopener">
-      {COPY.cta} <span class="dirx">→</span>
-    </a>
-  </aside>
-)}
+<aside class="spon" aria-label={sponsor.name} data-pagefind-ignore>
+  <div class="spon-body">
+    <p class="spon-head">{sponsor.heading[l]}</p>
+    <p class="spon-text"><b class="oneco">{sponsor.name}</b>{sponsor.blurb[l]}</p>
+  </div>
+  <a class="spon-cta" href={href} target="_blank" rel="sponsored noopener">
+    {sponsor.cta[l]} <span class="dirx">→</span>
+  </a>
+</aside>
 
 <style>
   .spon {
-    position: relative;
     display: grid;
     gap: 0.6rem;
     margin: 2rem 0 0;
@@ -82,6 +33,7 @@ const COPY = kind === 'financing'
   }
   .spon-head { margin: 0; font-weight: 700; }
   .spon-text { margin: 0.25rem 0 0; color: var(--text-2, inherit); font-size: 0.95rem; }
+  .spon-text .oneco { color: var(--gold); text-transform: lowercase !important; }
   .spon-cta {
     justify-self: start;
     display: inline-flex;
