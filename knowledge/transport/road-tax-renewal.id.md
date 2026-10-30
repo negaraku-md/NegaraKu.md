@@ -30,7 +30,7 @@ faq:
     a: "Jika LKM tidak diperbarui lebih dari tiga tahun, JPJ mensyaratkan kendaraan dibawa untuk pemeriksaan di Puspakom guna mendapatkan laporan B2 (atau pemeriksaan PG10 khusus bagi sepeda motor milik individu) sebelum permohonan pembaruan dapat diproses di kantor JPJ."
 
 lang: "id"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -84,7 +84,7 @@ Banyak orang menyebutnya "pajak jalan" dan menganggapnya serupa dengan pajak pen
 
 ## Apa sebenarnya "pajak jalan" itu
 
-LKM adalah lisensi di bawah Akta Pengangkutan Jalan 1987 yang memungkinkan sebuah kendaraan digunakan secara sah di jalan umum di Malaysia — undang-undang yang sama yang mewajibkan pendaftaran kendaraan dan lisensi mengemudi. Baca lebih lanjut mengenai struktur Akta ini di [/id/law/road-transport-act](/id/law/road-transport-act).
+LKM adalah lisensi di bawah Akta Pengangkutan Jalan 1987 yang memungkinkan sebuah kendaraan digunakan secara sah di jalan umum di Malaysia — undang-undang yang sama yang mewajibkan pendaftaran kendaraan dan lisensi mengemudi. Baca lebih lanjut mengenai struktur Akta ini di [/id/law/road-transport-act-1987](/id/law/road-transport-act-1987).
 
 Sejak beberapa tahun terakhir ini, JPJ turut memperkenalkan e-LKM — rekam digital LKM yang disimpan dan dapat ditampilkan langsung melalui aplikasi MyJPJ, selain format cetak yang masih dapat dipilih saat pembaruan.
 

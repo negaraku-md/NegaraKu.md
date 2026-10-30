@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 
 status: "published"
 aiAssisted: true
@@ -66,9 +66,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -87,7 +87,7 @@ keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS
 | **AES / AwAS** | 固定地点の自動カメラ | 官の介入なしに24時間稼働；通知は車両所有者の登録住所へ郵送される |
 | **PBT**（地方自治体） | 違法駐車などの違反 | JPJやPDRMではなく、各市／町／県の自治体によって発行される |
 
-PDRMとJPJはともに1987年道路交通法（Act 333）——車両を登録し有効な運転免許を保持する義務を定める法律——のもとで執行権限を持つ。同法自体の構造の詳細は[1987年道路交通法](/law/road-transport-act)で論じている。
+PDRMとJPJはともに1987年道路交通法（Act 333）——車両を登録し有効な運転免許を保持する義務を定める法律——のもとで執行権限を持つ。同法自体の構造の詳細は[1987年道路交通法](/law/road-transport-act-1987)で論じている。
 
 ## 自動カメラ：AES/AwASの仕組み
 
@@ -130,4 +130,4 @@ AwAS切符が60日の期間内にまったく清算されない場合、案件�
 
 ## 次のステップ
 
-本ページでは、切符の種類と、その照会・支払いの一般的な方法を概説した。車両登録、運転免許、および道路交通違反の法的根拠は[1987年道路交通法](/law/road-transport-act)でより詳しく説明しており、PDRM自体の構造と取締り権限は[マレーシア王立警察（PDRM）](/government/pdrm)で論じている。
+本ページでは、切符の種類と、その照会・支払いの一般的な方法を概説した。車両登録、運転免許、および道路交通違反の法的根拠は[1987年道路交通法](/law/road-transport-act-1987)でより詳しく説明しており、PDRM自体の構造と取締り権限は[マレーシア王立警察（PDRM）](/government/pdrm)で論じている。

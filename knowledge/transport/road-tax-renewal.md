@@ -73,9 +73,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -83,7 +83,7 @@ Ramai orang menyebutnya "cukai jalan" dan menganggapnya serupa dengan cukai pend
 
 ## Apa sebenarnya "cukai jalan" itu
 
-LKM ialah lesen di bawah Akta Pengangkutan Jalan 1987 yang membolehkan sesebuah kenderaan digunakan secara sah di jalan awam di Malaysia — undang-undang yang sama yang mewajibkan pendaftaran kenderaan dan lesen memandu. Baca lebih lanjut mengenai struktur Akta ini di [/law/road-transport-act](/law/road-transport-act).
+LKM ialah lesen di bawah Akta Pengangkutan Jalan 1987 yang membolehkan sesebuah kenderaan digunakan secara sah di jalan awam di Malaysia — undang-undang yang sama yang mewajibkan pendaftaran kenderaan dan lesen memandu. Baca lebih lanjut mengenai struktur Akta ini di [/law/road-transport-act-1987](/law/road-transport-act-1987).
 
 Sejak beberapa tahun kebelakangan ini, JPJ turut memperkenalkan e-LKM — rekod digital LKM yang disimpan dan boleh dipaparkan terus melalui aplikasi MyJPJ, selain format bercetak yang masih boleh dipilih semasa pembaharuan.
 

@@ -23,7 +23,7 @@ appliesTo: "保険の保障の種類とその法的要件を理解したいと�
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 
 status: "published"
 aiAssisted: true
@@ -55,10 +55,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -74,7 +74,7 @@ keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengang
 
 ## なぜ第三者保険のみが義務づけられているのか
 
-[1987年道路交通法](/law/road-transport-act)の第IV部は「Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles」——自動車の使用から生じる第三者リスクに対する規定——と題されている。その表題そのものが法律の焦点を示している：車両の所有者を保護することではなく、自らに過失のない事故の経済的影響から**他人**を保護することである。
+[1987年道路交通法](/law/road-transport-act-1987)の第IV部は「Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles」——自動車の使用から生じる第三者リスクに対する規定——と題されている。その表題そのものが法律の焦点を示している：車両の所有者を保護することではなく、自らに過失のない事故の経済的影響から**他人**を保護することである。
 
 その論理は単純である。一台の車両は、所有者に賠償を支払う能力があるか否かにかかわらず、一般市民を負傷させ、あるいは死亡させることがあり、また他人の財産——他の車両、建物、街灯——を損壊させることがある。第三者保険がなければ、無実の被害者がその費用を自ら負担するか、運転者を個人的に提訴せざるを得なくなり、そして何も回収できないかもしれない。
 

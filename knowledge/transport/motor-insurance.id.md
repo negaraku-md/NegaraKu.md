@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Pemilik dan pengemudi kendaraan bermotor di Malaysia — mobil, sepeda motor dan kendaraan komersial — yang ingin memahami jenis perlindungan asuransi dan persyaratan undang-undangnya."
 
 lang: "id"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -76,7 +76,7 @@ Dua jenis lain — pihak ketiga kebakaran & pencurian, dan komprehensif — adal
 
 ## Mengapa hanya pihak ketiga yang diwajibkan
 
-Bagian IV [Akta Pengangkutan Jalan 1987](/id/law/road-transport-act) berjudul "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — ketentuan terhadap risiko pihak ketiga akibat penggunaan kendaraan bermotor. Judul itu sendiri menunjukkan fokus undang-undang: bukan melindungi pemilik kendaraan, tetapi melindungi **orang lain** dari dampak keuangan kecelakaan yang tidak ada kaitannya dengan kesalahan mereka.
+Bagian IV [Akta Pengangkutan Jalan 1987](/id/law/road-transport-act-1987) berjudul "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — ketentuan terhadap risiko pihak ketiga akibat penggunaan kendaraan bermotor. Judul itu sendiri menunjukkan fokus undang-undang: bukan melindungi pemilik kendaraan, tetapi melindungi **orang lain** dari dampak keuangan kecelakaan yang tidak ada kaitannya dengan kesalahan mereka.
 
 Logikanya sederhana. Sebuah kendaraan dapat mencederai atau membunuh orang awam, dan dapat merusak harta orang lain — kendaraan lain, bangunan, tiang lampu — tanpa memandang apakah pemiliknya mampu membayar kompensasi. Jika asuransi pihak ketiga tidak ada, korban yang tidak bersalah menanggung biaya itu sendiri, atau terpaksa menggugat pengemudi secara pribadi dan mungkin tidak pernah memperoleh apa pun.
 

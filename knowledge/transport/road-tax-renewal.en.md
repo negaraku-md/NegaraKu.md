@@ -32,7 +32,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 
 status: "published"
 aiAssisted: true
@@ -74,9 +74,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -84,7 +84,7 @@ Many people call it "road tax" and treat it the way they treat income tax or sal
 
 ## What "road tax" actually is
 
-The LKM is a licence under the Road Transport Act 1987 that allows a vehicle to be used lawfully on public roads in Malaysia — the same law that requires vehicle registration and a driving licence. Read more about the structure of this Act at [/en/law/road-transport-act](/en/law/road-transport-act).
+The LKM is a licence under the Road Transport Act 1987 that allows a vehicle to be used lawfully on public roads in Malaysia — the same law that requires vehicle registration and a driving licence. Read more about the structure of this Act at [/en/law/road-transport-act-1987](/en/law/road-transport-act-1987).
 
 In recent years, JPJ has also introduced e-LKM — a digital LKM record that is stored and can be displayed directly through the MyJPJ app, alongside the printed format which can still be chosen at renewal.
 

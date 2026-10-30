@@ -27,7 +27,7 @@ verificationNeeded:
   - "क्या CDL आवेदन अब MyJPJ ऐप के माध्यम से पूरी तरह ऑनलाइन किया जा सकता है — जाँची गई JPJ सेवा पृष्ठ बताता है कि आवेदन केवल राज्य JPJ काउंटर पर किए जाते हैं, पर यह जाँचे जाने की तिथि से बदल गया हो सकता है"
 
 lang: "hi"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "मलेशिया में ड्राइविंग लाइसेंस"
   - "JPJ L लाइसेंस"
@@ -189,6 +189,6 @@ CDL को केवल JPJ के महानिदेशक द्वार�
 अपने P लाइसेंस की समाप्ति तिथि कहीं ऐसी जगह रखें जहाँ आसानी से जाँची जा सके,
 क्योंकि CDL आवेदन खिड़की — 7 दिन पहले से लेकर 12 महीने बाद तक — एक कड़ी सीमा है,
 कोई दिशानिर्देश नहीं। स्वयं ड्राइविंग लाइसेंस आवश्यकता के पीछे के कानूनी आधार के
-लिए, देखें [सड़क परिवहन अधिनियम 1987 (Road Transport Act 1987) (अधिनियम 333)](/law/road-transport-act),
+लिए, देखें [सड़क परिवहन अधिनियम 1987 (Road Transport Act 1987) (अधिनियम 333)](/law/road-transport-act-1987),
 वह क़ानून जो हर चालक से सड़क का उपयोग करने से पहले एक वैध लाइसेंस रखने की माँग
 करता है।

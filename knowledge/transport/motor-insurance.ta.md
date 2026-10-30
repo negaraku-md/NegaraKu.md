@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "மலேசியாவில் வாகனங்களை — கார்கள், மோட்டார்சைக்கிள்கள் மற்றும் வணிக வாகனங்கள் — சொந்தமாக வைத்திருப்பவர்கள் மற்றும் ஓட்டுநர்கள், காப்பீட்டு வகைகளையும் அவற்றின் சட்டத் தேவைகளையும் புரிந்துகொள்ள விரும்புவோர்."
 
 lang: "ta"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -76,7 +76,7 @@ keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengang
 
 ## மூன்றாம் தரப்புக் காப்பீடு மட்டும் ஏன் கட்டாயமாக்கப்பட்டுள்ளது
 
-[Road Transport Act 1987](/ta/law/road-transport-act) இன் Part IV க்கு "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" (வாகனப் பயன்பாட்டால் எழும் மூன்றாம் தரப்பு இடர்களுக்கு எதிரான ஏற்பாடுகள்) என்று தலைப்பிடப்பட்டுள்ளது. அந்தத் தலைப்பே சட்டத்தின் கவனத்தைக் காட்டுகிறது: வாகன உரிமையாளரைப் பாதுகாப்பது அல்ல, மாறாக **மற்றவர்களை** — தங்கள் தவறின்றி நடக்கும் விபத்தின் நிதி விளைவுகளிலிருந்து — பாதுகாப்பதே.
+[Road Transport Act 1987](/ta/law/road-transport-act-1987) இன் Part IV க்கு "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" (வாகனப் பயன்பாட்டால் எழும் மூன்றாம் தரப்பு இடர்களுக்கு எதிரான ஏற்பாடுகள்) என்று தலைப்பிடப்பட்டுள்ளது. அந்தத் தலைப்பே சட்டத்தின் கவனத்தைக் காட்டுகிறது: வாகன உரிமையாளரைப் பாதுகாப்பது அல்ல, மாறாக **மற்றவர்களை** — தங்கள் தவறின்றி நடக்கும் விபத்தின் நிதி விளைவுகளிலிருந்து — பாதுகாப்பதே.
 
 இதன் தர்க்கம் எளிது. ஒரு வாகனம் பொது மக்களைக் காயப்படுத்தலாம் அல்லது கொல்லலாம், மற்றவர்களின் சொத்துக்கு — மற்ற வாகனங்கள், கட்டிடங்கள், விளக்குக் கம்பங்கள் — சேதம் விளைவிக்கலாம்; அதற்கு இழப்பீடு வழங்கும் திறன் அதன் உரிமையாளருக்கு இருந்தாலும் இல்லாவிட்டாலும். மூன்றாம் தரப்புக் காப்பீடு இல்லாவிட்டால், தவறில்லாத பாதிக்கப்பட்டவர் அந்தச் செலவைத் தானே சுமக்க வேண்டியிருக்கும், அல்லது ஓட்டுநரைத் தனிப்பட்ட முறையில் வழக்குத் தொடர வேண்டியிருக்கும், மேலும் ஒருபோதும் எதையும் பெறாமல் போகலாம்.
 

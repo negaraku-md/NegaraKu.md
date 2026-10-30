@@ -31,7 +31,7 @@ faq:
     a: "Menurut JPJ, notis AwAS yang tidak dibereskan dalam masa 60 hari dari tanggal dikeluarkan dapat membawa ke tindakan pengadilan, dengan denda antara RM300 hingga RM2,000 jika terbukti bersalah."
 
 lang: "id"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -89,7 +89,7 @@ Tilang lalu lintas bukan satu sistem tunggal yang dikelola satu agensi. Ia berga
 | **AES / AwAS** | Kamera otomatis di lokasi tetap | Beroperasi 24 jam tanpa campur tangan petugas; notis dikirim melalui pos ke alamat terdaftar pemilik kendaraan |
 | **PBT** (pihak berkuasa tempatan) | Pelanggaran seperti parkir salah tempat | Dikeluarkan oleh majelis kota/perbandaran/daerah masing-masing, bukan JPJ atau PDRM |
 
-PDRM dan JPJ sama-sama berwenang di bawah Akta Pengangkutan Jalan 1987 (Akta 333) — statuta yang menetapkan kewajiban mendaftar kendaraan dan memegang lisensi mengemudi yang sah. Rincian struktur Akta itu sendiri dibahas dalam [Akta Pengangkutan Jalan 1987](/id/law/road-transport-act).
+PDRM dan JPJ sama-sama berwenang di bawah Akta Pengangkutan Jalan 1987 (Akta 333) — statuta yang menetapkan kewajiban mendaftar kendaraan dan memegang lisensi mengemudi yang sah. Rincian struktur Akta itu sendiri dibahas dalam [Akta Pengangkutan Jalan 1987](/id/law/road-transport-act-1987).
 
 ## Kamera otomatis: bagaimana AES/AwAS berfungsi
 
@@ -132,4 +132,4 @@ Setelah tilang dikenali, pembayaran dapat dilakukan melalui portal terkait mengg
 
 ## Apa berikutnya
 
-Halaman ini menjelaskan jenis tilang dan cara memeriksa serta membayarnya secara umum. Dasar hukum bagi pendaftaran kendaraan, lisensi mengemudi dan pelanggaran jalan raya diuraikan dengan lebih terperinci dalam [Akta Pengangkutan Jalan 1987](/id/law/road-transport-act), sementara struktur dan kuasa penegakan PDRM sendiri dibahas dalam [Polis Diraja Malaysia (PDRM)](/id/government/pdrm).
+Halaman ini menjelaskan jenis tilang dan cara memeriksa serta membayarnya secara umum. Dasar hukum bagi pendaftaran kendaraan, lisensi mengemudi dan pelanggaran jalan raya diuraikan dengan lebih terperinci dalam [Akta Pengangkutan Jalan 1987](/id/law/road-transport-act-1987), sementara struktur dan kuasa penegakan PDRM sendiri dibahas dalam [Polis Diraja Malaysia (PDRM)](/id/government/pdrm).

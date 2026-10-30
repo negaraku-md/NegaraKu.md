@@ -31,7 +31,7 @@ faq:
     a: "LKM மூன்று ஆண்டுகளுக்கு மேல் புதுப்பிக்கப்படாமல் இருந்தால், புதுப்பித்தல் விண்ணப்பம் JPJ அலுவலகத்தில் செயலாக்கப்படுவதற்கு முன், B2 அறிக்கையைப் பெற வாகனத்தை Puspakom-இல் பரிசோதனைக்குக் கொண்டு வர வேண்டும் என JPJ கோருகிறது (அல்லது தனிநபர் சொந்தமான மோட்டார் சைக்கிள்களுக்கு குறிப்பாக PG10 பரிசோதனை)."
 
 lang: "ta"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -85,7 +85,7 @@ keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJP
 
 ## "சாலை வரி" உண்மையில் என்ன
 
-LKM என்பது Road Transport Act 1987-இன் கீழ் ஒரு வாகனத்தை மலேசியாவில் பொது சாலைகளில் சட்டப்பூர்வமாகப் பயன்படுத்த அனுமதிக்கும் ஒரு உரிமம் — வாகனப் பதிவு மற்றும் ஓட்டுநர் உரிமத்தையும் கட்டாயமாக்கும் அதே சட்டம். இந்தச் சட்டத்தின் அமைப்பு பற்றி மேலும் [/ta/law/road-transport-act](/ta/law/road-transport-act)-இல் படிக்கவும்.
+LKM என்பது Road Transport Act 1987-இன் கீழ் ஒரு வாகனத்தை மலேசியாவில் பொது சாலைகளில் சட்டப்பூர்வமாகப் பயன்படுத்த அனுமதிக்கும் ஒரு உரிமம் — வாகனப் பதிவு மற்றும் ஓட்டுநர் உரிமத்தையும் கட்டாயமாக்கும் அதே சட்டம். இந்தச் சட்டத்தின் அமைப்பு பற்றி மேலும் [/ta/law/road-transport-act-1987](/ta/law/road-transport-act-1987)-இல் படிக்கவும்.
 
 சமீப ஆண்டுகளில், JPJ e-LKM-ஐயும் அறிமுகப்படுத்தியுள்ளது — இது சேமிக்கப்பட்டு நேரடியாக MyJPJ செயலி மூலம் காட்டக்கூடிய ஒரு டிஜிட்டல் LKM பதிவு; புதுப்பித்தலின் போது இன்னும் தேர்ந்தெடுக்கக்கூடிய அச்சிடப்பட்ட வடிவத்திற்கு அப்பால் இது கிடைக்கிறது.
 

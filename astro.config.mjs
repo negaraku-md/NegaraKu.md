@@ -71,6 +71,21 @@ function lastmodFor(url) {
 // The retired slugs are archived in content, so the article route no longer
 // emits them and these redirects own the paths with no collision.
 const redirects = {
+  // Dedup 2026-10-30: road-transport-act (MY-LAW-0041) merged into the more
+  // comprehensive road-transport-act-1987 (MY-LAW-0099), both in law/.
+  '/law/road-transport-act': '/law/road-transport-act-1987',
+  '/en/law/road-transport-act': '/en/law/road-transport-act-1987',
+  '/zh/law/road-transport-act': '/zh/law/road-transport-act-1987',
+  '/ta/law/road-transport-act': '/ta/law/road-transport-act-1987',
+  '/ja/law/road-transport-act': '/ja/law/road-transport-act-1987',
+  '/ko/law/road-transport-act': '/ko/law/road-transport-act-1987',
+  '/th/law/road-transport-act': '/th/law/road-transport-act-1987',
+  '/vi/law/road-transport-act': '/vi/law/road-transport-act-1987',
+  '/id/law/road-transport-act': '/id/law/road-transport-act-1987',
+  '/ar/law/road-transport-act': '/ar/law/road-transport-act-1987',
+  '/hi/law/road-transport-act': '/hi/law/road-transport-act-1987',
+  '/es/law/road-transport-act': '/es/law/road-transport-act-1987',
+  '/fr/law/road-transport-act': '/fr/law/road-transport-act-1987',
   '/government/national-registration-department-jpn': '/government/jpn',
   '/en/government/national-registration-department-jpn': '/en/government/jpn',
   '/zh/government/national-registration-department-jpn': '/zh/government/jpn',

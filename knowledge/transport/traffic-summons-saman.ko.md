@@ -30,7 +30,7 @@ faq:
     a: "JPJ에 따르면, 발부일로부터 60일 이내에 해결되지 않은 AwAS 통지서는 법원 조치로 이어질 수 있으며, 유죄가 확정되면 RM300에서 RM2,000 사이의 벌금이 부과됩니다."
 
 lang: "ko"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -67,9 +67,9 @@ sources:
 
 entity: "말레이시아 교통 딱지"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -96,7 +96,7 @@ keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS
 PDRM과 JPJ는 모두 도로교통법 1987(Road Transport Act 1987, Act 333) —
 차량 등록과 유효한 운전면허 소지 의무를 정하는 법률 — 아래에서 권한을
 가집니다. 그 법 자체의 구조에 대한 세부 내용은
-[도로교통법 1987(Road Transport Act 1987)](/ko/law/road-transport-act)에서
+[도로교통법 1987(Road Transport Act 1987)](/ko/law/road-transport-act-1987)에서
 다룹니다.
 
 ## 자동 카메라: AES/AwAS는 어떻게 작동하는가
@@ -166,6 +166,6 @@ FPX(인터넷 뱅킹), 직불/신용카드, 또는 디지털 지갑 — 을 사�
 
 이 페이지는 딱지의 유형과 이를 일반적으로 확인하고 납부하는 방법을
 설명합니다. 차량 등록, 운전면허, 도로 위반의 법적 근거는
-[도로교통법 1987(Road Transport Act 1987)](/ko/law/road-transport-act)에서
+[도로교통법 1987(Road Transport Act 1987)](/ko/law/road-transport-act-1987)에서
 더 자세히 다루며, PDRM 자체의 구조와 집행 권한은
 [말레이시아 왕립 경찰(PDRM)](/ko/government/pdrm)에서 다룹니다.

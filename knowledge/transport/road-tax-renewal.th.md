@@ -30,7 +30,7 @@ faq:
     a: "หาก LKM ไม่ได้ต่ออายุเกินสามปี JPJ กำหนดให้นำยานพาหนะไปตรวจสภาพที่ Puspakom เพื่อขอรายงาน B2 (หรือการตรวจสภาพ PG10 เฉพาะสำหรับรถจักรยานยนต์ที่เป็นของบุคคล) ก่อนที่การยื่นขอต่ออายุจะสามารถดำเนินการได้ที่สำนักงาน JPJ"
 
 lang: "th"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -84,7 +84,7 @@ keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJP
 
 ## "ภาษีถนน" คืออะไรจริง ๆ
 
-LKM คือใบอนุญาตภายใต้พระราชบัญญัติการขนส่งทางบก 1987 (Akta Pengangkutan Jalan 1987) ที่ทำให้ยานพาหนะสามารถใช้บนถนนสาธารณะในมาเลเซียได้อย่างถูกกฎหมาย — กฎหมายเดียวกันที่กำหนดให้จดทะเบียนยานพาหนะและใบอนุญาตขับขี่ อ่านเพิ่มเติมเกี่ยวกับโครงสร้างของพระราชบัญญัตินี้ได้ที่ [/law/road-transport-act](/law/road-transport-act)
+LKM คือใบอนุญาตภายใต้พระราชบัญญัติการขนส่งทางบก 1987 (Akta Pengangkutan Jalan 1987) ที่ทำให้ยานพาหนะสามารถใช้บนถนนสาธารณะในมาเลเซียได้อย่างถูกกฎหมาย — กฎหมายเดียวกันที่กำหนดให้จดทะเบียนยานพาหนะและใบอนุญาตขับขี่ อ่านเพิ่มเติมเกี่ยวกับโครงสร้างของพระราชบัญญัตินี้ได้ที่ [/law/road-transport-act-1987](/law/road-transport-act-1987)
 
 ในช่วงไม่กี่ปีที่ผ่านมา JPJ ยังได้แนะนำ e-LKM — บันทึกดิจิทัลของ LKM ที่จัดเก็บและสามารถแสดงได้โดยตรงผ่านแอปพลิเคชัน MyJPJ นอกเหนือจากรูปแบบที่พิมพ์ออกมาซึ่งยังสามารถเลือกได้ระหว่างการต่ออายุ
 

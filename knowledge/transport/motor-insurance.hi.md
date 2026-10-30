@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "मलेशिया में मोटर वाहनों के मालिक और चालक — कारें, मोटरसाइकिलें और वाणिज्यिक वाहन — जो बीमा कवर के प्रकार और क़ानूनी आवश्यकताओं को समझना चाहते हैं।"
 
 lang: "hi"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["मलेशिया में मोटर बीमा", "तृतीय-पक्ष बीमा", "सड़क परिवहन अधिनियम 1987", "व्यापक बीमा", "सड़क कर", "धारा 90", "PIAM", "मोटरसाइकिल बीमा", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 ---
 
@@ -76,7 +76,7 @@ keywords: ["मलेशिया में मोटर बीमा", "तृ�
 
 ## केवल तृतीय-पक्ष कवर ही अनिवार्य क्यों है
 
-[सड़क परिवहन अधिनियम 1987](/en/law/road-transport-act) के भाग IV का शीर्षक है "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" (मोटर वाहनों के उपयोग से उत्पन्न तृतीय-पक्ष जोखिमों के विरुद्ध प्रावधान)। शीर्षक स्वयं क़ानून का केंद्र-बिंदु दिखाता है: वाहन मालिक की रक्षा करना नहीं, बल्कि एक ऐसी दुर्घटना के वित्तीय प्रभाव से **दूसरों** की रक्षा करना जिसमें उनका कोई दोष नहीं।
+[सड़क परिवहन अधिनियम 1987](/en/law/road-transport-act-1987) के भाग IV का शीर्षक है "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" (मोटर वाहनों के उपयोग से उत्पन्न तृतीय-पक्ष जोखिमों के विरुद्ध प्रावधान)। शीर्षक स्वयं क़ानून का केंद्र-बिंदु दिखाता है: वाहन मालिक की रक्षा करना नहीं, बल्कि एक ऐसी दुर्घटना के वित्तीय प्रभाव से **दूसरों** की रक्षा करना जिसमें उनका कोई दोष नहीं।
 
 तर्क सरल है। एक वाहन जनता के सदस्यों को चोट पहुँचा सकता है या मार सकता है, और दूसरों की संपत्ति को नुकसान पहुँचा सकता है — अन्य वाहन, इमारतें, लैंप पोस्ट — चाहे उसका मालिक उसके लिए मुआवज़ा देने में सक्षम हो या न हो। अगर तृतीय-पक्ष बीमा मौजूद न होता, तो एक निर्दोष पीड़ित को वह लागत स्वयं उठानी पड़ती, या उसे चालक पर व्यक्तिगत रूप से मुक़दमा करना पड़ता और शायद कभी कुछ भी वसूल न कर पाता।
 

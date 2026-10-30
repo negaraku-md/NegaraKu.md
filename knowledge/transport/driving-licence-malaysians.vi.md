@@ -27,7 +27,7 @@ verificationNeeded:
   - "Liệu đơn xin CDL hiện có thể được nộp hoàn toàn trực tuyến qua ứng dụng MyJPJ hay không — trang dịch vụ JPJ được rà soát nêu rằng đơn được nộp chỉ tại quầy JPJ của bang, nhưng điều này có thể đã thay đổi sau ngày rà soát"
 
 lang: "vi"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -191,6 +191,6 @@ Hai chi tiết khiến nhiều người lái bất ngờ:
 Hãy lưu ngày hết hạn giấy phép P của bạn ở nơi dễ tra cứu, vì
 khung đơn xin CDL — 7 ngày trước cho đến 12 tháng sau — là
 một giới hạn cứng, không phải một hướng dẫn. Về cơ sở pháp lý đằng sau chính yêu cầu
-giấy phép lái xe, xem [Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) (Luật 333)](/vi/law/road-transport-act),
+giấy phép lái xe, xem [Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) (Luật 333)](/vi/law/road-transport-act-1987),
 luật buộc mọi người lái phải giữ một giấy phép hợp lệ trước khi
 sử dụng đường bộ.

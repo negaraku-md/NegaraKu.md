@@ -31,7 +31,7 @@ faq:
     a: "Según JPJ, un aviso AwAS no liquidado en un plazo de 60 días desde la fecha de emisión puede llevar a una acción judicial, con una multa de entre RM300 y RM2,000 en caso de condena."
 
 lang: "es"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -89,7 +89,7 @@ Las multas de tráfico no son un sistema único gestionado por una sola agencia.
 | **AES / AwAS** | Cámaras automatizadas en ubicaciones fijas | Funciona las 24 horas sin la intervención de un agente; el aviso se envía por correo postal a la dirección registrada del propietario del vehículo |
 | **PBT** (autoridad local) | Infracciones como estacionar en un lugar indebido | Emitida por el concejo de ciudad/municipal/de distrito correspondiente, no por JPJ ni PDRM |
 
-Tanto PDRM como JPJ hacen cumplir la Ley de Transporte por Carretera de 1987 (Road Transport Act 1987, Act 333), el estatuto que establece la obligación de registrar un vehículo y tener un permiso de conducir válido. Los detalles estructurales de la propia Ley se tratan en [Ley de Transporte por Carretera de 1987](/en/law/road-transport-act).
+Tanto PDRM como JPJ hacen cumplir la Ley de Transporte por Carretera de 1987 (Road Transport Act 1987, Act 333), el estatuto que establece la obligación de registrar un vehículo y tener un permiso de conducir válido. Los detalles estructurales de la propia Ley se tratan en [Ley de Transporte por Carretera de 1987](/en/law/road-transport-act-1987).
 
 ## Cámaras automatizadas: cómo funciona AES/AwAS
 
@@ -132,4 +132,4 @@ Una vez identificada la multa, el pago puede hacerse a través del portal corres
 
 ## Qué sigue
 
-Esta página explica los tipos de multa y cómo consultarlas y pagarlas en general. La base legal para el registro de vehículos, los permisos de conducir y las infracciones de tráfico se trata con más detalle en [Ley de Transporte por Carretera de 1987](/en/law/road-transport-act), mientras que la propia estructura de PDRM y sus facultades de control se tratan en [Policía Real de Malasia (PDRM)](/en/government/pdrm).
+Esta página explica los tipos de multa y cómo consultarlas y pagarlas en general. La base legal para el registro de vehículos, los permisos de conducir y las infracciones de tráfico se trata con más detalle en [Ley de Transporte por Carretera de 1987](/en/law/road-transport-act-1987), mientras que la propia estructura de PDRM y sus facultades de control se tratan en [Policía Real de Malasia (PDRM)](/en/government/pdrm).

@@ -63,8 +63,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -190,6 +190,6 @@ Dua butiran yang mengejutkan ramai pemandu:
 Simpan tarikh tamat lesen P anda di tempat yang mudah dirujuk, kerana
 tetingkap permohonan CDL — 7 hari sebelum sehingga 12 bulan selepas — adalah
 had yang keras, bukan panduan. Untuk asas undang-undang di sebalik keperluan
-lesen memandu itu sendiri, lihat [Akta Pengangkutan Jalan 1987 (Akta 333)](/law/road-transport-act),
+lesen memandu itu sendiri, lihat [Akta Pengangkutan Jalan 1987 (Akta 333)](/law/road-transport-act-1987),
 statut yang mewajibkan setiap pemandu memegang lesen yang sah sebelum
 menggunakan jalan raya.

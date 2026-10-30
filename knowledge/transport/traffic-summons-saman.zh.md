@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 
 status: "published"
 aiAssisted: true
@@ -67,9 +67,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -88,7 +88,7 @@ keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS
 | **AES / AwAS** | 固定地点的自动摄像机 | 全天候 24 小时运作，无需人员介入；通知以邮寄方式寄往车主的注册地址 |
 | **PBT**（地方政府当局） | 违例停车等罪行 | 由各自的市政局/市议会/县议会发出，而非 JPJ 或 PDRM |
 
-PDRM 与 JPJ 皆有权执行 Road Transport Act 1987（Act 333）——这项法令规定了注册车辆与持有有效驾驶执照的义务。该法令本身的结构详情，见 [Road Transport Act 1987](/zh/law/road-transport-act)。
+PDRM 与 JPJ 皆有权执行 Road Transport Act 1987（Act 333）——这项法令规定了注册车辆与持有有效驾驶执照的义务。该法令本身的结构详情，见 [Road Transport Act 1987](/zh/law/road-transport-act-1987)。
 
 ## 自动摄像机：AES/AwAS 如何运作
 
@@ -131,4 +131,4 @@ PDRM 与 JPJ 皆有权执行 Road Transport Act 1987（Act 333）——这项法
 
 ## 下一步
 
-本页概述了罚单的类型，以及一般的查询与缴付方式。有关车辆注册、驾驶执照与道路违例行为的法律基础，在 [Road Transport Act 1987](/zh/law/road-transport-act) 中有更详细的说明，而 PDRM 本身的架构与执法权力，则在 [皇家马来西亚警察（PDRM）](/zh/government/pdrm) 中讨论。
+本页概述了罚单的类型，以及一般的查询与缴付方式。有关车辆注册、驾驶执照与道路违例行为的法律基础，在 [Road Transport Act 1987](/zh/law/road-transport-act-1987) 中有更详细的说明，而 PDRM 本身的架构与执法权力，则在 [皇家马来西亚警察（PDRM）](/zh/government/pdrm) 中讨论。

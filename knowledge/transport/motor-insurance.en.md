@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Owners and drivers of motor vehicles in Malaysia — cars, motorcycles and commercial vehicles — who want to understand the types of insurance cover and the legal requirements."
 
 lang: "en"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -76,7 +76,7 @@ Two other types — third party, fire & theft, and comprehensive — are commerc
 
 ## Why only third-party cover is mandatory
 
-Part IV of the [Road Transport Act 1987](/en/law/road-transport-act) is titled "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles." The title itself shows the law's focus: not protecting the vehicle owner, but protecting **other people** from the financial impact of an accident that is no fault of their own.
+Part IV of the [Road Transport Act 1987](/en/law/road-transport-act-1987) is titled "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles." The title itself shows the law's focus: not protecting the vehicle owner, but protecting **other people** from the financial impact of an accident that is no fault of their own.
 
 The logic is simple. A vehicle can injure or kill members of the public, and can damage other people's property — other vehicles, buildings, lamp posts — regardless of whether its owner can afford to compensate for it. If third-party insurance did not exist, an innocent victim would bear that cost themselves, or would have to sue the driver personally and might never collect anything.
 

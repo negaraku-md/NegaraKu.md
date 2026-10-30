@@ -31,7 +31,7 @@ faq:
     a: "यदि LKM 3 साल से अधिक समय से नवीनीकृत नहीं हुआ है, तो JPJ आवश्यकता रखता है कि नवीनीकरण आवेदन को JPJ कार्यालय में संसाधित किए जाने से पहले वाहन को Puspakom में निरीक्षण के लिए लाया जाए ताकि B2 रिपोर्ट प्राप्त की जा सके (या विशेष रूप से व्यक्तिगत स्वामित्व वाली मोटरसाइकिलों के लिए PG10 निरीक्षण)।"
 
 lang: "hi"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["सड़क कर", "मोटर वाहन लाइसेंस", "सड़क कर नवीनीकरण", "cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -85,7 +85,7 @@ keywords: ["सड़क कर", "मोटर वाहन लाइसें�
 
 ## «सड़क कर» असल में है क्या
 
-LKM, सड़क परिवहन अधिनियम 1987 (Road Transport Act 1987) के अंतर्गत एक लाइसेंस है जो किसी वाहन को मलेशिया की सार्वजनिक सड़कों पर वैध रूप से चलाने की अनुमति देता है — यही वह कानून है जो वाहन पंजीकरण और ड्राइविंग लाइसेंस को अनिवार्य बनाता है। इस अधिनियम की संरचना के बारे में और पढ़ें: [/law/road-transport-act](/law/road-transport-act)।
+LKM, सड़क परिवहन अधिनियम 1987 (Road Transport Act 1987) के अंतर्गत एक लाइसेंस है जो किसी वाहन को मलेशिया की सार्वजनिक सड़कों पर वैध रूप से चलाने की अनुमति देता है — यही वह कानून है जो वाहन पंजीकरण और ड्राइविंग लाइसेंस को अनिवार्य बनाता है। इस अधिनियम की संरचना के बारे में और पढ़ें: [/law/road-transport-act-1987](/law/road-transport-act-1987)।
 
 हाल के वर्षों में, JPJ ने e-LKM भी शुरू किया है — LKM का एक डिजिटल रिकॉर्ड जो MyJPJ ऐप के माध्यम से सीधे संग्रहीत और प्रदर्शित किया जा सकता है, छपे हुए प्रारूप के साथ-साथ जिसे नवीनीकरण के समय अब भी चुना जा सकता है।
 

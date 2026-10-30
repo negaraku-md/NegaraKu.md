@@ -31,7 +31,7 @@ faq:
     a: "Si la LKM n'a pas été renouvelée depuis plus de trois ans, le JPJ exige que le véhicule soit présenté à une inspection chez Puspakom pour obtenir un rapport B2 (ou une inspection PG10 spécifiquement pour les motos de propriété individuelle) avant que la demande de renouvellement puisse être traitée dans un bureau du JPJ."
 
 lang: "fr"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -85,7 +85,7 @@ Beaucoup de gens l'appellent « taxe de circulation » et la traitent comme l'im
 
 ## Ce qu'est réellement la « taxe de circulation »
 
-La LKM est une licence au titre de la loi sur les transports routiers de 1987 qui autorise l'usage légal d'un véhicule sur les routes publiques en Malaisie — la même loi qui exige l'immatriculation du véhicule et un permis de conduire. Pour en savoir plus sur la structure de cette loi, consultez [/fr/law/road-transport-act](/fr/law/road-transport-act).
+La LKM est une licence au titre de la loi sur les transports routiers de 1987 qui autorise l'usage légal d'un véhicule sur les routes publiques en Malaisie — la même loi qui exige l'immatriculation du véhicule et un permis de conduire. Pour en savoir plus sur la structure de cette loi, consultez [/fr/law/road-transport-act-1987](/fr/law/road-transport-act-1987).
 
 Ces dernières années, le JPJ a également introduit l'e-LKM : un enregistrement numérique de la LKM qui est stocké et peut être présenté directement via l'appli MyJPJ, en plus du format imprimé que l'on peut encore choisir au moment du renouvellement.
 

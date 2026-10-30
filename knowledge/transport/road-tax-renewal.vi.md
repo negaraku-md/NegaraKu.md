@@ -31,7 +31,7 @@ faq:
     a: "Nếu LKM không được gia hạn hơn ba năm, JPJ yêu cầu phương tiện được đưa đi kiểm định tại Puspakom để có báo cáo B2 (hoặc kiểm định PG10 riêng cho xe máy thuộc sở hữu cá nhân) trước khi đơn gia hạn có thể được xử lý tại văn phòng JPJ."
 
 lang: "vi"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -85,7 +85,7 @@ Nhiều người gọi nó là "thuế đường bộ" và xem nó tương tự 
 
 ## "Thuế đường bộ" thực sự là gì
 
-LKM là một giấy phép theo Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) cho phép một phương tiện được dùng hợp pháp trên đường công cộng ở Malaysia — cùng luật bắt buộc đăng ký phương tiện và giấy phép lái xe. Đọc thêm về cấu trúc của Luật này tại [/vi/law/road-transport-act](/vi/law/road-transport-act).
+LKM là một giấy phép theo Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) cho phép một phương tiện được dùng hợp pháp trên đường công cộng ở Malaysia — cùng luật bắt buộc đăng ký phương tiện và giấy phép lái xe. Đọc thêm về cấu trúc của Luật này tại [/vi/law/road-transport-act-1987](/vi/law/road-transport-act-1987).
 
 Trong vài năm gần đây, JPJ cũng giới thiệu e-LKM — hồ sơ số của LKM được lưu và có thể hiển thị trực tiếp qua ứng dụng MyJPJ, bên cạnh định dạng in vẫn có thể được chọn khi gia hạn.
 

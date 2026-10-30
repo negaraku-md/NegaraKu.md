@@ -26,7 +26,7 @@ verificationNeeded:
   - "CDL 신청을 이제 MyJPJ 앱을 통해 전면적으로 온라인으로 할 수 있는지 여부 — 검토한 JPJ 서비스 페이지는 신청이 주 JPJ 창구에서만 이루어진다고 명시하지만, 이는 검토일 이후 변경되었을 수 있습니다"
 
 lang: "ko"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -63,8 +63,8 @@ sources:
 
 entity: "말레이시아 운전면허 취득 과정 (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -185,5 +185,5 @@ CDL은 5년 안에 세 차례 정지된 후에야 JPJ 청장(Ketua Pengarah)에 
 창 — 7일 전부터 12개월 후까지 — 은 안내가 아니라 엄격한 제한이기
 때문입니다. 운전면허 요건 자체의 법적 근거에 대해서는, 모든 운전자가
 도로를 사용하기 전에 유효한 면허를 소지하도록 의무화한 법률인
-[도로교통법 1987(Road Transport Act 1987, Act 333)](/ko/law/road-transport-act)을
+[도로교통법 1987(Road Transport Act 1987, Act 333)](/ko/law/road-transport-act-1987)을
 참고하십시오.

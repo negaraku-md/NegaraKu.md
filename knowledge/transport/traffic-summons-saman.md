@@ -67,9 +67,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -88,7 +88,7 @@ Saman trafik bukan satu sistem tunggal yang dikendalikan satu agensi. Ia bergant
 | **AES / AwAS** | Kamera automatik di lokasi tetap | Beroperasi 24 jam tanpa campur tangan pegawai; notis dihantar melalui pos ke alamat berdaftar pemilik kenderaan |
 | **PBT** (pihak berkuasa tempatan) | Kesalahan seperti letak kereta salah tempat | Dikeluarkan oleh majlis bandaraya/perbandaran/daerah masing-masing, bukan JPJ atau PDRM |
 
-PDRM dan JPJ sama-sama berkuat kuasa di bawah Akta Pengangkutan Jalan 1987 (Akta 333) — statut yang menetapkan kewajipan mendaftar kenderaan dan memegang lesen memandu yang sah. Butiran struktur Akta itu sendiri dibincangkan dalam [Akta Pengangkutan Jalan 1987](/law/road-transport-act).
+PDRM dan JPJ sama-sama berkuat kuasa di bawah Akta Pengangkutan Jalan 1987 (Akta 333) — statut yang menetapkan kewajipan mendaftar kenderaan dan memegang lesen memandu yang sah. Butiran struktur Akta itu sendiri dibincangkan dalam [Akta Pengangkutan Jalan 1987](/law/road-transport-act-1987).
 
 ## Kamera automatik: bagaimana AES/AwAS berfungsi
 
@@ -131,4 +131,4 @@ Setelah saman dikenal pasti, bayaran boleh dibuat melalui portal berkenaan mengg
 
 ## Apa yang seterusnya
 
-Halaman ini menerangkan jenis saman dan cara menyemak serta membayarnya secara am. Asas perundangan bagi pendaftaran kenderaan, lesen memandu dan kesalahan jalan raya dihuraikan dengan lebih terperinci dalam [Akta Pengangkutan Jalan 1987](/law/road-transport-act), manakala struktur dan kuasa penguatkuasaan PDRM sendiri dibincangkan dalam [Polis Diraja Malaysia (PDRM)](/government/pdrm).
+Halaman ini menerangkan jenis saman dan cara menyemak serta membayarnya secara am. Asas perundangan bagi pendaftaran kenderaan, lesen memandu dan kesalahan jalan raya dihuraikan dengan lebih terperinci dalam [Akta Pengangkutan Jalan 1987](/law/road-transport-act-1987), manakala struktur dan kuasa penguatkuasaan PDRM sendiri dibincangkan dalam [Polis Diraja Malaysia (PDRM)](/government/pdrm).

@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "เจ้าของและผู้ขับขี่ยานยนต์ในมาเลเซีย — รถยนต์ รถจักรยานยนต์ และยานพาหนะเชิงพาณิชย์ — ที่ต้องการเข้าใจประเภทความคุ้มครองประกันภัยและข้อกำหนดทางกฎหมาย"
 
 lang: "th"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -76,7 +76,7 @@ keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengang
 
 ## เหตุใดจึงบังคับเฉพาะประกันบุคคลที่สาม
 
-ส่วนที่ IV ของ [พระราชบัญญัติการขนส่งทางบก 1987](/law/road-transport-act) มีชื่อว่า "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — บทบัญญัติต่อความเสี่ยงของบุคคลที่สามอันเกิดจากการใช้ยานยนต์ ชื่อนี้เองแสดงจุดเน้นของกฎหมาย: ไม่ใช่การคุ้มครองเจ้าของยานพาหนะ แต่คือการคุ้มครอง **ผู้อื่น** จากผลกระทบทางการเงินของอุบัติเหตุที่ไม่มีส่วนเกี่ยวข้องกับความผิดของพวกเขา
+ส่วนที่ IV ของ [พระราชบัญญัติการขนส่งทางบก 1987](/law/road-transport-act-1987) มีชื่อว่า "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — บทบัญญัติต่อความเสี่ยงของบุคคลที่สามอันเกิดจากการใช้ยานยนต์ ชื่อนี้เองแสดงจุดเน้นของกฎหมาย: ไม่ใช่การคุ้มครองเจ้าของยานพาหนะ แต่คือการคุ้มครอง **ผู้อื่น** จากผลกระทบทางการเงินของอุบัติเหตุที่ไม่มีส่วนเกี่ยวข้องกับความผิดของพวกเขา
 
 ตรรกะนั้นเรียบง่าย ยานพาหนะสามารถทำให้ประชาชนบาดเจ็บหรือเสียชีวิต และสามารถทำให้ทรัพย์สินของผู้อื่นเสียหาย — ยานพาหนะอื่น อาคาร เสาไฟ — โดยไม่คำนึงว่าเจ้าของจะสามารถจ่ายค่าชดเชยได้หรือไม่ หากไม่มีประกันบุคคลที่สาม เหยื่อผู้บริสุทธิ์จะต้องแบกรับค่าใช้จ่ายนั้นเอง หรือถูกบังคับให้ฟ้องผู้ขับขี่เป็นการส่วนตัวและอาจไม่ได้รับอะไรเลย
 

@@ -27,7 +27,7 @@ verificationNeeded:
   - "Apakah permohonan CDL kini dapat diajukan sepenuhnya secara daring melalui aplikasi MyJPJ — laman layanan JPJ yang diperiksa menyatakan permohonan diajukan di konter JPJ negara bagian saja, tetapi ini mungkin telah berubah setelah tanggal pemeriksaan"
 
 lang: "id"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lisensi mengemudi Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -191,6 +191,6 @@ Dua detail yang mengejutkan banyak pengemudi:
 Simpan tanggal habis lisensi P Anda di tempat yang mudah dirujuk, karena
 jendela permohonan CDL — 7 hari sebelum sampai 12 bulan setelah — adalah
 batas yang ketat, bukan panduan. Untuk dasar hukum di balik keharusan
-lisensi mengemudi itu sendiri, lihat [Road Transport Act 1987 (Act 333)](/id/law/road-transport-act),
+lisensi mengemudi itu sendiri, lihat [Road Transport Act 1987 (Act 333)](/id/law/road-transport-act-1987),
 statut yang mewajibkan setiap pengemudi memegang lisensi yang sah sebelum
 menggunakan jalan raya.

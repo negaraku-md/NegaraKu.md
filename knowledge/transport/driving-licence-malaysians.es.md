@@ -27,7 +27,7 @@ verificationNeeded:
   - "Whether a CDL application can now be made fully online via the MyJPJ app — the JPJ service page checked states that applications are made at the state JPJ counter only, but this may have changed since the date it was checked"
 
 lang: "es"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -199,6 +199,6 @@ Mantén la fecha de caducidad de tu licencia P en algún lugar fácil de consult
 porque la ventana de solicitud de la CDL — 7 días antes hasta 12 meses después —
 es un límite estricto, no una orientación. Para la base legal detrás del propio
 requisito de la licencia de conducción, consulta la [Ley de Transporte por
-Carretera de 1987 (Road Transport Act 1987) (Act 333)](/en/law/road-transport-act),
+Carretera de 1987 (Road Transport Act 1987) (Act 333)](/en/law/road-transport-act-1987),
 la ley que exige que todo conductor tenga una licencia válida antes de usar la
 carretera.

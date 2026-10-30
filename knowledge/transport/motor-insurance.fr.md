@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Propriétaires et conducteurs de véhicules à moteur en Malaisie — voitures, motos et véhicules commerciaux — qui veulent comprendre les types de garantie d'assurance et les exigences légales."
 
 lang: "fr"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["assurance automobile Malaisie", "assurance au tiers", "loi sur les transports routiers 1987", "assurance tous risques", "taxe de circulation", "Section 90", "PIAM", "assurance moto", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 ---
 
@@ -76,7 +76,7 @@ Deux autres types — au tiers, incendie et vol, et tous risques — sont des op
 
 ## Pourquoi seule la garantie au tiers est obligatoire
 
-La partie IV de la [loi sur les transports routiers de 1987](/fr/law/road-transport-act) est intitulée « Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles » (Dispositions contre les risques envers les tiers découlant de l'usage de véhicules à moteur). Le titre lui-même montre l'objet de la loi : non pas protéger le propriétaire du véhicule, mais protéger **autrui** de l'impact financier d'un accident dont ces personnes ne sont nullement responsables.
+La partie IV de la [loi sur les transports routiers de 1987](/fr/law/road-transport-act-1987) est intitulée « Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles » (Dispositions contre les risques envers les tiers découlant de l'usage de véhicules à moteur). Le titre lui-même montre l'objet de la loi : non pas protéger le propriétaire du véhicule, mais protéger **autrui** de l'impact financier d'un accident dont ces personnes ne sont nullement responsables.
 
 La logique est simple. Un véhicule peut blesser ou tuer des membres du public, et peut endommager les biens d'autrui — d'autres véhicules, des bâtiments, des lampadaires — indépendamment de la capacité de son propriétaire à les indemniser. Si l'assurance au tiers n'existait pas, une victime innocente supporterait elle-même ce coût, ou devrait poursuivre le conducteur personnellement et pourrait ne jamais rien percevoir.
 

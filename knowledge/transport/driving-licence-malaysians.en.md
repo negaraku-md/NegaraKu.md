@@ -29,7 +29,7 @@ verificationNeeded:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 
 status: "published"
 aiAssisted: true
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -196,6 +196,6 @@ Two details that surprise many drivers:
 Keep your P licence's expiry date somewhere easy to check, because the CDL
 application window — 7 days before up to 12 months after — is a hard
 limit, not a guideline. For the legal basis behind the driving licence
-requirement itself, see the [Road Transport Act 1987 (Act 333)](/en/law/road-transport-act),
+requirement itself, see the [Road Transport Act 1987 (Act 333)](/en/law/road-transport-act-1987),
 the statute that requires every driver to hold a valid licence before
 using the road.

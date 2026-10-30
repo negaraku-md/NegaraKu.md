@@ -32,7 +32,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 
 status: "published"
 aiAssisted: true
@@ -74,9 +74,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -84,7 +84,7 @@ keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJP
 
 ## 「路税」到底是什么
 
-LKM 是《1987年道路交通法令》下的一种牌照，让车辆得以在马来西亚的公路上合法使用——同一部法令也规定了车辆注册与驾驶执照的强制要求。有关该法令结构的详细介绍，请见 [/zh/law/road-transport-act](/zh/law/road-transport-act)。
+LKM 是《1987年道路交通法令》下的一种牌照，让车辆得以在马来西亚的公路上合法使用——同一部法令也规定了车辆注册与驾驶执照的强制要求。有关该法令结构的详细介绍，请见 [/zh/law/road-transport-act-1987](/zh/law/road-transport-act-1987)。
 
 近年来，JPJ 也推出了 e-LKM——一种储存的数码 LKM 记录，可直接透过 MyJPJ 应用程序显示，续期时仍可选择印刷格式。
 

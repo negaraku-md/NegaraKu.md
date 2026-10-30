@@ -32,7 +32,7 @@ faq:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 
 status: "published"
 aiAssisted: true
@@ -73,9 +73,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -83,7 +83,7 @@ keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJP
 
 ## 「道路税」とは実際には何なのか
 
-LKMは、車両をマレーシアの公道で合法的に使用することを可能にする、道路交通法1987のもとでの免許である——同じ法令が、車両の登録と運転免許を義務付けている。この法令の構造については、[/law/road-transport-act](/law/road-transport-act) で詳しく読める。
+LKMは、車両をマレーシアの公道で合法的に使用することを可能にする、道路交通法1987のもとでの免許である——同じ法令が、車両の登録と運転免許を義務付けている。この法令の構造については、[/law/road-transport-act-1987](/law/road-transport-act-1987) で詳しく読める。
 
 ここ数年、JPJはe-LKM——保存されるデジタルのLKM記録で、MyJPJアプリを通じて直接表示でき、更新の際には依然として印刷形式も選択できる——も導入している。
 

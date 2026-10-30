@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "ja"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 
 status: "published"
 aiAssisted: true
@@ -62,8 +62,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -179,6 +179,6 @@ JPJ）によってのみである。
 
 P免許の期限日を参照しやすい場所に控えておこう。CDLの申請窓口——期限前7日から期
 限後12か月まで——は参考の指針ではなく、厳格な制限だからである。運転免許の要件そ
-のものの背後にある法的根拠については、[1987年道路交通法（Act 333）](/law/road-transport-act)を
+のものの背後にある法的根拠については、[1987年道路交通法（Act 333）](/law/road-transport-act-1987)を
 参照してほしい。この法律は、すべての運転者が道路を使用する前に有効な免許を保有
 することを義務づける法令である。

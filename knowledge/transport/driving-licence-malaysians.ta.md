@@ -27,7 +27,7 @@ verificationNeeded:
   - "CDL விண்ணப்பத்தை இப்போது MyJPJ செயலி வழியாக முழுமையாக ஆன்லைனில் செய்ய முடியுமா — சரிபார்க்கப்பட்ட JPJ சேவைப் பக்கம் விண்ணப்பங்கள் மாநில JPJ கவுண்டரில் மட்டுமே செய்யப்படுகின்றன எனக் கூறுகிறது, ஆனால் இது சரிபார்க்கப்பட்ட தேதிக்குப் பிறகு மாறியிருக்கலாம்"
 
 lang: "ta"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -210,4 +210,4 @@ P உரிமம் CDL-ஐ விட தனித்தனியாக மி�
 உரிமத் தேவைக்குப் பின்னால் உள்ள சட்ட அடிப்படைக்கு, சாலையைப்
 பயன்படுத்துவதற்கு முன் ஒவ்வொரு ஓட்டுநரும் செல்லுபடியாகும் உரிமத்தை
 வைத்திருக்க வேண்டும் என்று கோரும் சட்டமான [Road Transport Act 1987 (Act
-333)](/ta/law/road-transport-act)-ஐப் பார்க்கவும்.
+333)](/ta/law/road-transport-act-1987)-ஐப் பார்க்கவும்.

@@ -78,10 +78,10 @@ sources:
 entity: "Car buying and ownership transfer process (Malaysia)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "requires", to: "motor-insurance" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "motor-insurance", "road-tax-renewal"]
+related: ["road-transport-act-1987", "motor-insurance", "road-tax-renewal"]
 keywords: ["acheter voiture Malaisie", "location-vente Malaisie", "transfert de propriété JPJ", "Puspakom B5 B7", "Proton Perodua voiture nationale", "transfert voiture occasion Malaisie", "Hire Purchase Act 1967", "Hire Purchase Amendment Act 2026", "prêt auto Malaisie"]
 ---
 

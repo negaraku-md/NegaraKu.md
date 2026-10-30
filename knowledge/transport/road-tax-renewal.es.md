@@ -31,7 +31,7 @@ faq:
     a: "Si la LKM lleva sin renovarse más de tres años, el JPJ exige que el vehículo se lleve a inspección en Puspakom para obtener un informe B2 (o una inspección PG10 específicamente para las motocicletas de propiedad individual) antes de que la solicitud de renovación pueda tramitarse en una oficina del JPJ."
 
 lang: "es"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -75,9 +75,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -85,7 +85,7 @@ Mucha gente lo llama «impuesto de circulación» y lo trata igual que el impues
 
 ## Qué es realmente el «impuesto de circulación»
 
-La LKM es una licencia en virtud de la Ley de Transporte por Carretera de 1987 que permite usar legalmente un vehículo en las vías públicas de Malasia, la misma ley que exige la matriculación del vehículo y una licencia de conducir. Lee más sobre la estructura de esta ley en [/law/road-transport-act](/law/road-transport-act).
+La LKM es una licencia en virtud de la Ley de Transporte por Carretera de 1987 que permite usar legalmente un vehículo en las vías públicas de Malasia, la misma ley que exige la matriculación del vehículo y una licencia de conducir. Lee más sobre la estructura de esta ley en [/law/road-transport-act-1987](/law/road-transport-act-1987).
 
 En los últimos años, el JPJ también ha introducido la e-LKM: un registro digital de la LKM que se almacena y puede mostrarse directamente a través de la app MyJPJ, junto al formato impreso que todavía puede elegirse al renovar.
 

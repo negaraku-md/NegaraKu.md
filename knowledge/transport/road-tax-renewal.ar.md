@@ -30,7 +30,7 @@ faq:
     a: "إذا لم تُجدَّد LKM منذ أكثر من ثلاث سنوات، تشترط JPJ إحضار المركبة للفحص لدى Puspakom للحصول على تقرير B2 (أو فحص PG10 المخصص للدراجات النارية المملوكة للأفراد) قبل أن يُعالَج طلب التجديد في مكتب JPJ."
 
 lang: "ar"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,9 @@ sources:
 entity: "Lesen Kenderaan Motor (LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "رخصة المركبة الآلية", "تجديد ضريبة الطريق", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2", "road tax"]
 ---
 
@@ -84,7 +84,7 @@ keywords: ["cukai jalan", "LKM", "رخصة المركبة الآلية", "تجد
 
 ## ما هي «ضريبة الطريق» في الواقع
 
-LKM رخصة بموجب قانون النقل البري لسنة 1987 (Road Transport Act 1987) تتيح استخدام المركبة بصورة قانونية على الطرق العامة في ماليزيا — وهو القانون نفسه الذي يشترط تسجيل المركبة ورخصة القيادة. اقرأ المزيد عن بنية هذا القانون على [/law/road-transport-act](/law/road-transport-act).
+LKM رخصة بموجب قانون النقل البري لسنة 1987 (Road Transport Act 1987) تتيح استخدام المركبة بصورة قانونية على الطرق العامة في ماليزيا — وهو القانون نفسه الذي يشترط تسجيل المركبة ورخصة القيادة. اقرأ المزيد عن بنية هذا القانون على [/law/road-transport-act-1987](/law/road-transport-act-1987).
 
 وفي السنوات الأخيرة، أطلقت JPJ أيضًا e-LKM — سجلًا رقميًا لـ LKM يُحفظ ويمكن عرضه مباشرةً عبر تطبيق MyJPJ، إلى جانب الصيغة المطبوعة التي لا يزال يمكن اختيارها عند التجديد.
 

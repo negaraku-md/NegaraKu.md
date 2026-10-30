@@ -31,7 +31,7 @@ faq:
     a: "Theo JPJ, thông báo AwAS không được thanh toán trong vòng 60 ngày kể từ ngày nó được cấp có thể dẫn đến hành động của tòa án, với mức phạt từ RM300 đến RM2,000 nếu bị kết tội."
 
 lang: "vi"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -89,7 +89,7 @@ Giấy phạt giao thông không phải một hệ thống duy nhất do một c
 | **AES / AwAS** | Camera tự động tại vị trí cố định | Vận hành 24 giờ không có sự can thiệp của cán bộ; thông báo được gửi qua bưu điện đến địa chỉ đăng ký của chủ phương tiện |
 | **PBT** (chính quyền địa phương) | Lỗi như đậu xe sai chỗ | Do hội đồng đô thị/thị trấn/quận tương ứng cấp, không phải JPJ hay PDRM |
 
-PDRM và JPJ cùng có hiệu lực theo Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) (Luật 333) — luật quy định nghĩa vụ đăng ký phương tiện và giữ một giấy phép lái xe hợp lệ. Chi tiết về cấu trúc của chính Luật được bàn trong [Luật Giao thông Đường bộ 1987](/vi/law/road-transport-act).
+PDRM và JPJ cùng có hiệu lực theo Luật Giao thông Đường bộ 1987 (Road Transport Act 1987) (Luật 333) — luật quy định nghĩa vụ đăng ký phương tiện và giữ một giấy phép lái xe hợp lệ. Chi tiết về cấu trúc của chính Luật được bàn trong [Luật Giao thông Đường bộ 1987](/vi/law/road-transport-act-1987).
 
 ## Camera tự động: AES/AwAS vận hành như thế nào
 
@@ -132,4 +132,4 @@ Sau khi giấy phạt được nhận diện, việc thanh toán có thể đư�
 
 ## Tiếp theo
 
-Trang này giải thích các loại giấy phạt và cách kiểm tra cùng trả chúng một cách tổng quát. Cơ sở pháp lý cho việc đăng ký phương tiện, giấy phép lái xe và các lỗi đường bộ được trình bày chi tiết hơn trong [Luật Giao thông Đường bộ 1987](/vi/law/road-transport-act), trong khi cấu trúc và quyền thực thi của chính PDRM được bàn trong [Cảnh sát Hoàng gia Malaysia (PDRM)](/vi/government/pdrm).
+Trang này giải thích các loại giấy phạt và cách kiểm tra cùng trả chúng một cách tổng quát. Cơ sở pháp lý cho việc đăng ký phương tiện, giấy phép lái xe và các lỗi đường bộ được trình bày chi tiết hơn trong [Luật Giao thông Đường bộ 1987](/vi/law/road-transport-act-1987), trong khi cấu trúc và quyền thực thi của chính PDRM được bàn trong [Cảnh sát Hoàng gia Malaysia (PDRM)](/vi/government/pdrm).

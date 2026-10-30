@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Propietarios y conductores de vehículos de motor en Malasia — coches, motocicletas y vehículos comerciales — que quieran entender los tipos de cobertura de seguro y los requisitos legales."
 
 lang: "es"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["seguro de coche Malasia", "seguro a terceros", "Ley de Transporte por Carretera 1987", "seguro a todo riesgo", "impuesto de circulación", "Sección 90", "PIAM", "seguro de motocicleta", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 ---
 
@@ -76,7 +76,7 @@ Otros dos tipos — a terceros, incendio y robo, y a todo riesgo — son opcione
 
 ## Por qué solo la cobertura a terceros es obligatoria
 
-La Parte IV de la [Ley de Transporte por Carretera de 1987](/en/law/road-transport-act) se titula "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" (Disposiciones contra los riesgos frente a terceros derivados del uso de vehículos de motor). El propio título muestra el foco de la ley: no proteger al propietario del vehículo, sino proteger a **otras personas** del impacto económico de un accidente del que no tienen culpa alguna.
+La Parte IV de la [Ley de Transporte por Carretera de 1987](/en/law/road-transport-act-1987) se titula "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" (Disposiciones contra los riesgos frente a terceros derivados del uso de vehículos de motor). El propio título muestra el foco de la ley: no proteger al propietario del vehículo, sino proteger a **otras personas** del impacto económico de un accidente del que no tienen culpa alguna.
 
 La lógica es sencilla. Un vehículo puede lesionar o matar a miembros del público y puede dañar la propiedad de otras personas — otros vehículos, edificios, farolas — con independencia de que su propietario pueda permitirse indemnizarlo. Si el seguro a terceros no existiera, una víctima inocente cargaría ella misma con ese coste, o tendría que demandar personalmente al conductor y quizá nunca cobraría nada.
 

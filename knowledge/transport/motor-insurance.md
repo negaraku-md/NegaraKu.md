@@ -56,10 +56,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -75,7 +75,7 @@ Dua jenis lain — pihak ketiga kebakaran & kecurian, dan komprehensif — adala
 
 ## Mengapa pihak ketiga sahaja yang diwajibkan
 
-Bahagian IV [Akta Pengangkutan Jalan 1987](/law/road-transport-act) bertajuk "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — peruntukan terhadap risiko pihak ketiga akibat penggunaan kenderaan motor. Tajuk itu sendiri menunjukkan fokus undang-undang: bukan melindungi pemilik kenderaan, tetapi melindungi **orang lain** daripada kesan kewangan kemalangan yang tiada kaitan dengan kesalahan mereka.
+Bahagian IV [Akta Pengangkutan Jalan 1987](/law/road-transport-act-1987) bertajuk "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — peruntukan terhadap risiko pihak ketiga akibat penggunaan kenderaan motor. Tajuk itu sendiri menunjukkan fokus undang-undang: bukan melindungi pemilik kenderaan, tetapi melindungi **orang lain** daripada kesan kewangan kemalangan yang tiada kaitan dengan kesalahan mereka.
 
 Logiknya mudah. Sebuah kenderaan boleh mencederakan atau membunuh orang awam, dan boleh merosakkan harta orang lain — kenderaan lain, bangunan, tiang lampu — tanpa mengira sama ada pemiliknya mampu membayar pampasan. Jika insurans pihak ketiga tiada, mangsa yang tidak bersalah menanggung kos itu sendiri, atau terpaksa menyaman pemandu secara peribadi dan mungkin tidak pernah memungut apa-apa.
 

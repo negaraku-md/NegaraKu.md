@@ -28,7 +28,7 @@ verificationNeeded:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 
 status: "published"
 aiAssisted: true
@@ -63,8 +63,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -140,4 +140,4 @@ CDL 只有在 5 年期间内累计吊销三次后，才会由 JPJ 总监（Ketua
 
 ## 下一步
 
-把你 P 驾照的到期日记在容易查阅的地方，因为 CDL 申请窗口——到期前 7 天起至到期后 12 个月内——是一项硬性限制，而非参考指引。至于驾驶执照要求本身背后的法律依据，请参阅[《1987年道路交通法令》（第333号法令）](/zh/law/road-transport-act)，该法令规定每位驾驶人在使用道路之前，必须持有有效的驾驶执照。
+把你 P 驾照的到期日记在容易查阅的地方，因为 CDL 申请窗口——到期前 7 天起至到期后 12 个月内——是一项硬性限制，而非参考指引。至于驾驶执照要求本身背后的法律依据，请参阅[《1987年道路交通法令》（第333号法令）](/zh/law/road-transport-act-1987)，该法令规定每位驾驶人在使用道路之前，必须持有有效的驾驶执照。

@@ -27,7 +27,7 @@ verificationNeeded:
   - "La possibilité de faire désormais une demande de CDL entièrement en ligne via l'application MyJPJ — la page de services du JPJ consultée indique que les demandes se font uniquement au guichet du JPJ de l'État, mais cela a pu changer depuis la date de consultation"
 
 lang: "fr"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "lesen memandu Malaysia"
   - "lesen L JPJ"
@@ -207,5 +207,5 @@ consultable, car la fenêtre de demande de la CDL — de 7 jours avant à 12
 mois après — est une limite stricte, et non une simple indication. Pour le
 fondement juridique du propre exigence du permis de conduire, consultez la
 [loi de 1987 sur les transports routiers (Road Transport Act 1987) (Act
-333)](/fr/law/road-transport-act), la loi qui exige que tout conducteur
+333)](/fr/law/road-transport-act-1987), la loi qui exige que tout conducteur
 détienne un permis valide avant d'emprunter la route.

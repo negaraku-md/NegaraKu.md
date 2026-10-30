@@ -21,7 +21,7 @@ keyTakeaways:
 appliesTo: "보험 담보 유형과 그 법적 요건을 이해하려는 말레이시아의 자동차 소유자와 운전자 — 승용차, 오토바이, 상용차."
 
 lang: "ko"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -56,10 +56,10 @@ sources:
 
 entity: "말레이시아 자동차 보험"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -83,7 +83,7 @@ keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengang
 
 ## 왜 제3자 보험만 의무인가
 
-[도로교통법 1987(Road Transport Act 1987)](/ko/law/road-transport-act) 제4부의
+[도로교통법 1987(Road Transport Act 1987)](/ko/law/road-transport-act-1987) 제4부의
 제목은 「Provisions Against Third Party Risks Arising Out Of The Use Of
 Motor Vehicles」 — 자동차 사용으로 인해 발생하는 제3자 위험에 대한 규정 —
 입니다. 그 제목 자체가 법의 초점을 보여줍니다: 차량 소유자를 보호하는 것이

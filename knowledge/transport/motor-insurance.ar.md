@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "مالكو المركبات وسائقوها في ماليزيا — السيارات والدرّاجات النارية والمركبات التجارية — الذين يرغبون في فهم أنواع التغطية التأمينية والمتطلّبات القانونية."
 
 lang: "ar"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["تأمين المركبات الماليزي", "تأمين الطرف الثالث", "قانون النقل البري 1987", "التأمين الشامل", "ضريبة الطريق", "المادة 90", "PIAM", "تأمين الدرّاجات النارية", "Road Transport Act 1987", "insurans kenderaan Malaysia"]
 ---
 
@@ -76,7 +76,7 @@ keywords: ["تأمين المركبات الماليزي", "تأمين الطر�
 
 ## لماذا تغطية الطرف الثالث وحدها إلزامية
 
-يحمل الجزء الرابع من [قانون النقل البري لسنة 1987](/law/road-transport-act) عنوان «Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles» (أحكام ضد مخاطر الطرف الثالث الناشئة عن استخدام المركبات). والعنوان نفسه يُظهر محور القانون: ليس حماية مالك المركبة، بل حماية **الآخرين** من الأثر المالي لحادث لا ذنب لهم فيه.
+يحمل الجزء الرابع من [قانون النقل البري لسنة 1987](/law/road-transport-act-1987) عنوان «Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles» (أحكام ضد مخاطر الطرف الثالث الناشئة عن استخدام المركبات). والعنوان نفسه يُظهر محور القانون: ليس حماية مالك المركبة، بل حماية **الآخرين** من الأثر المالي لحادث لا ذنب لهم فيه.
 
 والمنطق بسيط. فالمركبة قد تُصيب أفراد الجمهور أو تقتلهم، وقد تُلحِق الضرر بممتلكات الآخرين — مركبات أخرى، أو مبانٍ، أو أعمدة إنارة — بصرف النظر عمّا إذا كان مالكها قادراً على التعويض عنها. ولو لم يوجد تأمين الطرف الثالث، لتحمّلت الضحية البريئة تلك الكلفة بنفسها، أو اضطُرّت إلى مقاضاة السائق شخصياً وقد لا تحصّل شيئاً أبداً.
 

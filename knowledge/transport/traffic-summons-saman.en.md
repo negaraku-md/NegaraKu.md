@@ -33,7 +33,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 
 status: "published"
 aiAssisted: true
@@ -68,9 +68,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -89,7 +89,7 @@ Traffic summonses are not a single system run by one agency. It depends on who i
 | **AES / AwAS** | Automated cameras at fixed locations | Operates 24 hours without officer involvement; the notice is sent by post to the vehicle owner's registered address |
 | **PBT** (local authority) | Offences such as parking in the wrong place | Issued by the respective city/municipal/district council, not JPJ or PDRM |
 
-PDRM and JPJ both enforce the Road Transport Act 1987 (Act 333) — the statute that sets out the obligation to register a vehicle and hold a valid driving licence. The structural details of the Act itself are discussed in [Road Transport Act 1987](/en/law/road-transport-act).
+PDRM and JPJ both enforce the Road Transport Act 1987 (Act 333) — the statute that sets out the obligation to register a vehicle and hold a valid driving licence. The structural details of the Act itself are discussed in [Road Transport Act 1987](/en/law/road-transport-act-1987).
 
 ## Automated cameras: how AES/AwAS works
 
@@ -132,4 +132,4 @@ Once the summons has been identified, payment can be made through the relevant p
 
 ## What's next
 
-This page explains the types of summons and how to check and pay them in general. The legal basis for vehicle registration, driving licences and road traffic offences is discussed in more detail in [Road Transport Act 1987](/en/law/road-transport-act), while PDRM's own structure and enforcement powers are discussed in [Royal Malaysia Police (PDRM)](/en/government/pdrm).
+This page explains the types of summons and how to check and pay them in general. The legal basis for vehicle registration, driving licences and road traffic offences is discussed in more detail in [Road Transport Act 1987](/en/law/road-transport-act-1987), while PDRM's own structure and enforcement powers are discussed in [Royal Malaysia Police (PDRM)](/en/government/pdrm).

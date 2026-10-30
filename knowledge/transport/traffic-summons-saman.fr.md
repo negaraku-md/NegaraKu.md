@@ -31,7 +31,7 @@ faq:
     a: "Selon le JPJ, un avis AwAS non réglé dans un délai de 60 jours à compter de la date d'émission peut conduire à une action en justice, avec une amende comprise entre RM300 et RM2,000 en cas de condamnation."
 
 lang: "fr"
-sourceContentHash: "b08ee8ca24ef947b"
+sourceContentHash: "98e5e951fdd86713"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -68,9 +68,9 @@ sources:
 
 entity: "Saman trafik Malaysia"
 relations:
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "pdrm" }
-related: ["road-transport-act", "pdrm"]
+related: ["road-transport-act-1987", "pdrm"]
 keywords: ["saman trafik Malaysia", "semak saman JPJ", "MyBayar PDRM", "AES AwAS", "PBTPay", "mySIKAP", "myJPJ", "kompaun trafik"]
 ---
 
@@ -89,7 +89,7 @@ Les contraventions de circulation ne forment pas un système unique géré par u
 | **AES / AwAS** | Caméras automatisées à des emplacements fixes | Fonctionne 24 heures sur 24 sans intervention d'un agent ; l'avis est envoyé par voie postale à l'adresse enregistrée du propriétaire du véhicule |
 | **PBT** (autorité locale) | Infractions telles que le stationnement au mauvais endroit | Émise par le conseil municipal/urbain/de district concerné, et non par le JPJ ou la PDRM |
 
-La PDRM et le JPJ appliquent tous deux la loi sur les transports routiers de 1987 (Road Transport Act 1987, Act 333), le texte qui établit l'obligation d'immatriculer un véhicule et de détenir un permis de conduire valide. Les détails structurels de la loi elle-même sont traités dans [Loi sur les transports routiers de 1987](/fr/law/road-transport-act).
+La PDRM et le JPJ appliquent tous deux la loi sur les transports routiers de 1987 (Road Transport Act 1987, Act 333), le texte qui établit l'obligation d'immatriculer un véhicule et de détenir un permis de conduire valide. Les détails structurels de la loi elle-même sont traités dans [Loi sur les transports routiers de 1987](/fr/law/road-transport-act-1987).
 
 ## Caméras automatisées : comment fonctionne l'AES/AwAS
 
@@ -132,4 +132,4 @@ Une fois la contravention identifiée, le paiement peut se faire via le portail 
 
 ## Et ensuite
 
-Cette page explique les types de contravention et la façon de les consulter et de les payer en général. La base légale de l'immatriculation des véhicules, des permis de conduire et des infractions au code de la route est traitée plus en détail dans [Loi sur les transports routiers de 1987](/fr/law/road-transport-act), tandis que la structure propre de la PDRM et ses pouvoirs de contrôle sont traités dans [Police royale de Malaisie (PDRM)](/fr/government/pdrm).
+Cette page explique les types de contravention et la façon de les consulter et de les payer en général. La base légale de l'immatriculation des véhicules, des permis de conduire et des infractions au code de la route est traitée plus en détail dans [Loi sur les transports routiers de 1987](/fr/law/road-transport-act-1987), tandis que la structure propre de la PDRM et ses pouvoirs de contrôle sont traités dans [Police royale de Malaisie (PDRM)](/fr/government/pdrm).

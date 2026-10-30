@@ -30,7 +30,7 @@ faq:
     a: "LKM을 3년 넘게 갱신하지 않으면, JPJ는 갱신 신청이 JPJ 사무소에서 처리되기 전에 차량을 푸스파콤(Puspakom)에서 검사받아 B2 보고서(또는 개인 소유 오토바이의 경우 전용 PG10 검사)를 받도록 요구합니다."
 
 lang: "ko"
-sourceContentHash: "20fe200c2e49f4f8"
+sourceContentHash: "20ff86fa7188caf6"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -74,9 +74,9 @@ sources:
 entity: "자동차등록세(LKM)"
 relations:
   - { rel: "administered-by", to: "jpj" }
-  - { rel: "explained-in", to: "road-transport-act" }
+  - { rel: "explained-in", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "traffic-summons-saman" }
-related: ["road-transport-act", "traffic-summons-saman"]
+related: ["road-transport-act-1987", "traffic-summons-saman"]
 keywords: ["cukai jalan", "LKM", "Lesen Kenderaan Motor", "renew roadtax", "MyJPJ", "e-LKM", "Pos Malaysia JPJ", "MyEG roadtax", "Puspakom B2"]
 ---
 
@@ -92,7 +92,7 @@ JPJ에서의 공식 명칭은 자동차등록세(LKM)입니다: 세금이 아니
 LKM은 차량을 말레이시아 공공 도로에서 합법적으로 사용할 수 있게 하는
 도로교통법 1987(Road Transport Act 1987)에 따른 등록증입니다 — 차량 등록과
 운전면허를 의무화하는 것과 같은 법률입니다. 이 법의 구조에 대한 자세한
-내용은 [/ko/law/road-transport-act](/ko/law/road-transport-act)에서
+내용은 [/ko/law/road-transport-act-1987](/ko/law/road-transport-act-1987)에서
 읽어보십시오.
 
 최근 몇 년 사이, JPJ는 e-LKM도 도입했습니다 — 갱신 시 여전히 선택할 수 있는

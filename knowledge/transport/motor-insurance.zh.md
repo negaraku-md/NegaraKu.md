@@ -23,7 +23,7 @@ appliesTo: "马来西亚机动车辆的车主与驾驶人——包括汽车、�
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 
 status: "published"
 aiAssisted: true
@@ -56,10 +56,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -75,7 +75,7 @@ keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengang
 
 ## 为何只有第三者保险是强制性的
 
-[Road Transport Act 1987](/zh/law/road-transport-act) Part IV（第四部分）题为「Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles」——即针对因使用机动车辆而产生的第三者风险的规定。这个标题本身就显示了法律的重点：并非保护车主，而是保护**其他人**免受与他们本身过失无关的意外所带来的经济冲击。
+[Road Transport Act 1987](/zh/law/road-transport-act-1987) Part IV（第四部分）题为「Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles」——即针对因使用机动车辆而产生的第三者风险的规定。这个标题本身就显示了法律的重点：并非保护车主，而是保护**其他人**免受与他们本身过失无关的意外所带来的经济冲击。
 
 道理很简单。一辆车可能使公众受伤或死亡，也可能损坏他人的财产——其他车辆、建筑物、灯柱——而不论车主是否有能力支付赔偿。如果没有第三者保险，无辜的受害者就得自行承担这笔费用，或被迫亲自起诉驾驶者，而且可能永远得不到任何赔偿。
 

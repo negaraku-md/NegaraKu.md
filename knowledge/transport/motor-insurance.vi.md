@@ -22,7 +22,7 @@ keyTakeaways:
 appliesTo: "Chủ và người lái phương tiện cơ giới ở Malaysia — ô tô, xe máy và phương tiện thương mại — muốn hiểu các loại bảo vệ bảo hiểm và yêu cầu pháp lý của chúng."
 
 lang: "vi"
-sourceContentHash: "d879ba5dcb3bf1ff"
+sourceContentHash: "b169a3f86c365797"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -57,10 +57,10 @@ sources:
 
 entity: "Insurans Kenderaan Malaysia"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
+  - { rel: "related-to", to: "road-transport-act-1987" }
   - { rel: "related-to", to: "bank-negara-malaysia" }
   - { rel: "related-to", to: "road-tax-renewal" }
-related: ["road-transport-act", "bank-negara-malaysia", "road-tax-renewal"]
+related: ["road-transport-act-1987", "bank-negara-malaysia", "road-tax-renewal"]
 keywords: ["insurans kenderaan Malaysia", "insurans pihak ketiga", "Akta Pengangkutan Jalan 1987", "insurans komprehensif", "cukai jalan", "Seksyen 90", "PIAM", "insurans motosikal"]
 ---
 
@@ -76,7 +76,7 @@ Hai loại khác — bên thứ ba cháy & trộm cắp, và toàn diện — l�
 
 ## Vì sao chỉ bên thứ ba là bắt buộc
 
-Phần IV của [Luật Giao thông Đường bộ 1987](/vi/law/road-transport-act) có tiêu đề "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — các quy định chống lại rủi ro của bên thứ ba phát sinh từ việc sử dụng phương tiện cơ giới. Bản thân tiêu đề cho thấy trọng tâm của luật: không phải bảo vệ chủ xe, mà bảo vệ **người khác** khỏi hậu quả tài chính của tai nạn không liên quan gì đến lỗi của họ.
+Phần IV của [Luật Giao thông Đường bộ 1987](/vi/law/road-transport-act-1987) có tiêu đề "Provisions Against Third Party Risks Arising Out Of The Use Of Motor Vehicles" — các quy định chống lại rủi ro của bên thứ ba phát sinh từ việc sử dụng phương tiện cơ giới. Bản thân tiêu đề cho thấy trọng tâm của luật: không phải bảo vệ chủ xe, mà bảo vệ **người khác** khỏi hậu quả tài chính của tai nạn không liên quan gì đến lỗi của họ.
 
 Logic rất đơn giản. Một chiếc xe có thể gây thương tích hoặc giết một người dân, và có thể làm hư hại tài sản của người khác — phương tiện khác, tòa nhà, cột đèn — bất kể chủ của nó có đủ khả năng trả tiền bồi thường hay không. Nếu không có bảo hiểm bên thứ ba, nạn nhân vô tội gánh chi phí đó, hoặc buộc phải kiện người lái một cách cá nhân và có thể không bao giờ thu được gì.
 

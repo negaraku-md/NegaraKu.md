@@ -27,7 +27,7 @@ verificationNeeded:
   - "ما إذا كان يمكن الآن تقديم طلب CDL بالكامل عبر الإنترنت من خلال تطبيق MyJPJ — تذكر صفحة خدمة JPJ التي جرى فحصها أن الطلبات تُقدَّم عند شبّاك JPJ في الولاية فقط، لكن هذا قد يكون تغيّر منذ تاريخ الفحص"
 
 lang: "ar"
-sourceContentHash: "994f31cbd16cea0e"
+sourceContentHash: "75160a6ad518e3c0"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -64,8 +64,8 @@ sources:
 
 entity: "Proses lesen memandu Malaysia (JPJ)"
 relations:
-  - { rel: "related-to", to: "road-transport-act" }
-related: ["road-transport-act"]
+  - { rel: "related-to", to: "road-transport-act-1987" }
+related: ["road-transport-act-1987"]
 keywords:
   - "رخصة القيادة في ماليزيا"
   - "رخصة L لدى JPJ"
@@ -143,4 +143,4 @@ keywords:
 
 ## الخطوة التالية
 
-احفظ تاريخ انتهاء رخصة P الخاصة بك في مكان يسهل الرجوع إليه، لأن نافذة طلب CDL — 7 أيام قبل وحتى 12 شهرًا بعد — حدٌّ صارم لا إرشاد. وللأساس القانوني وراء اشتراط رخصة القيادة نفسه، انظر [قانون النقل البري لسنة 1987 (Road Transport Act 1987) (القانون 333)](/law/road-transport-act)، وهو القانون الذي يُلزم كل سائق بحمل رخصة سارية قبل استخدام الطريق.
+احفظ تاريخ انتهاء رخصة P الخاصة بك في مكان يسهل الرجوع إليه، لأن نافذة طلب CDL — 7 أيام قبل وحتى 12 شهرًا بعد — حدٌّ صارم لا إرشاد. وللأساس القانوني وراء اشتراط رخصة القيادة نفسه، انظر [قانون النقل البري لسنة 1987 (Road Transport Act 1987) (القانون 333)](/law/road-transport-act-1987)، وهو القانون الذي يُلزم كل سائق بحمل رخصة سارية قبل استخدام الطريق.
