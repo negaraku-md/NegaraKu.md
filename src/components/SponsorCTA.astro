@@ -16,11 +16,9 @@ const href = kind ? sponsorUrl(kind, category, slug) : '';
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) =>
   (locale === 'fr' ? (fr ?? en) : locale === 'es' ? (es ?? en) : locale === 'hi' ? (hi ?? en) : locale === 'ar' ? (ar ?? en) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? en) : locale === 'th' ? (th ?? en) : locale === 'ko' ? (ko ?? en) : locale === 'ja' ? (ja ?? en) : locale === 'ta' ? (ta ?? en) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-const DISCLOSURE = L('Ditaja', 'Sponsored', '赞助', 'வழங்குநர்', '広告', '스폰서', 'ได้รับการสนับสนุน', 'Được tài trợ', 'Disponsori', 'إعلان مُموَّل', 'प्रायोजित', 'Patrocinado', 'Sponsorisé');
-
 const COPY = kind === 'financing'
   ? {
-      brand: '1financing',
+      brand: '1financing.com',
       head: L('Perlukan pembiayaan?', 'Need financing?', '需要融资？', 'நிதி தேவையா?', '資金調達が必要ですか？', '자금이 필요하신가요?', 'ต้องการเงินทุนหรือไม่?', 'Cần tài trợ vốn?', 'Butuh pembiayaan?', 'هل تحتاج إلى تمويل؟', 'वित्तपोषण चाहिए?', '¿Necesita financiación?', 'Besoin de financement ?'),
       body: L(
         '1financing menghubungkan perniagaan dan individu Malaysia dengan pinjaman, pembiayaan dagangan, pembiayaan hartanah dan dana ekuiti.',
@@ -39,8 +37,8 @@ const COPY = kind === 'financing'
       cta: L('Terokai 1financing', 'Explore 1financing', '了解 1financing', '1financing ஐ ஆராயுங்கள்', '1financing を見る', '1financing 살펴보기', 'สำรวจ 1financing', 'Khám phá 1financing', 'Jelajahi 1financing', 'استكشف 1financing', '1financing देखें', 'Explorar 1financing', 'Découvrir 1financing'),
     }
   : {
-      brand: '1company',
-      head: L('Perlukan bantuan untuk uruskan ini?', 'Need help getting this done?', '需要协助处理吗？', 'இதைச் செய்ய உதவி தேவையா?', '手続きのサポートが必要ですか？', '이 일을 처리하는 데 도움이 필요하신가요?', 'ต้องการความช่วยเหลือในการดำเนินการหรือไม่?', 'Cần hỗ trợ thực hiện việc này?', 'Butuh bantuan menyelesaikan ini?', 'هل تحتاج مساعدة في إنجاز ذلك؟', 'इसे पूरा करने में मदद चाहिए?', '¿Necesita ayuda para gestionarlo?', 'Besoin d’aide pour le faire ?'),
+      brand: '1company.com',
+      head: L('Perlukan khidmat nasihat profesional?', 'Need professional advisory?', '需要专业咨询服务？', 'தொழில்முறை ஆலோசனை தேவையா?', '専門的なアドバイザリーが必要ですか？', '전문 자문이 필요하신가요?', 'ต้องการบริการที่ปรึกษามืออาชีพหรือไม่?', 'Cần tư vấn chuyên nghiệp?', 'Butuh layanan advisori profesional?', 'هل تحتاج إلى استشارة مهنية؟', 'पेशेवर सलाहकार सेवा चाहिए?', '¿Necesita asesoría profesional?', 'Besoin de conseil professionnel ?'),
       body: L(
         '1company menyediakan perkhidmatan setiausaha syarikat, perakaunan, audit dan cukai untuk perniagaan di Malaysia.',
         '1company provides company secretary, accounting, audit and tax services for businesses in Malaysia.',
@@ -60,8 +58,7 @@ const COPY = kind === 'financing'
 ---
 
 {kind && (
-  <aside class="spon" aria-label={DISCLOSURE} data-pagefind-ignore>
-    <span class="spon-tag">{DISCLOSURE}</span>
+  <aside class="spon" aria-label={COPY.brand} data-pagefind-ignore>
     <div class="spon-body">
       <p class="spon-head">{COPY.head}</p>
       <p class="spon-text">{COPY.body}</p>
@@ -69,7 +66,6 @@ const COPY = kind === 'financing'
     <a class="spon-cta" href={href} target="_blank" rel="sponsored noopener">
       {COPY.cta} <span class="dirx">→</span>
     </a>
-    <span class="spon-mark oneco">{COPY.brand}</span>
   </aside>
 )}
 
@@ -83,16 +79,6 @@ const COPY = kind === 'financing'
     border: 1px solid color-mix(in srgb, var(--gold) 45%, transparent);
     border-radius: 12px;
     background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent));
-  }
-  .spon-tag {
-    align-self: start;
-    font-size: 0.68rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--muted, #9a9ab8);
-    border: 1px solid color-mix(in srgb, var(--muted, #9a9ab8) 40%, transparent);
-    border-radius: 999px;
-    padding: 0.1rem 0.5rem;
   }
   .spon-head { margin: 0; font-weight: 700; }
   .spon-text { margin: 0.25rem 0 0; color: var(--text-2, inherit); font-size: 0.95rem; }
@@ -109,13 +95,5 @@ const COPY = kind === 'financing'
     color: #000;
   }
   .spon-cta:hover { filter: brightness(1.05); }
-  .spon-mark {
-    position: absolute;
-    top: 1.1rem;
-    inset-inline-end: 1.25rem;
-    font-weight: 700;
-    color: var(--gold);
-    text-transform: lowercase !important;
-  }
   [dir='rtl'] .dirx { display: inline-block; transform: scaleX(-1); }
 </style>

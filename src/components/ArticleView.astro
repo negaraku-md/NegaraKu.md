@@ -408,6 +408,8 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
 
+      <SponsorCTA locale={locale} category={d.category} slug={d.slug} />
+
       <section class="layer">
         <header>
           <span class="sec-h"><span class="ico" set:html={ICON.sources} />{L('Sumber & sejarah', 'Sources & history', '来源与历史', 'ஆதாரங்கள் & வரலாறு', '出典と履歴', '출처 및 이력', 'แหล่งข้อมูลและประวัติ', 'Nguồn & lịch sử', 'Sumber & sejarah', 'المصادر والتاريخ', 'स्रोत और इतिहास', 'Fuentes e historia', "Sources et historique")}</span>
@@ -561,8 +563,6 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           </section>
         )
       }
-
-      <SponsorCTA locale={locale} category={d.category} slug={d.slug} />
 
       <FeedbackBar locale={locale} title={d.title} />
 
