@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0205
 title: "Muhyiddin Yassin"
+seoTitle: "Muhyiddin Yassin: 8.º Primer Ministro de Malasia (2020–2021)"
 slug: "muhyiddin-yassin"
 category: "malaysia"
 subcategory: ["modern"]

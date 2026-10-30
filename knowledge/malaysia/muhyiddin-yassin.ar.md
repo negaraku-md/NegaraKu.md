@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0205
 title: "محيي الدين ياسين"
+seoTitle: "محيي الدين ياسين: رئيس الوزراء الثامن لماليزيا (2020–2021)"
 slug: "muhyiddin-yassin"
 category: "malaysia"
 subcategory: ["modern"]

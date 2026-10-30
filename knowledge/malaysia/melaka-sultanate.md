@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0001
 title: "The Melaka Sultanate: The Port That Built a Civilisation"
+seoTitle: "Malacca Sultanate (Melaka): History of the 1400–1511 Port Kingdom"
 slug: "melaka-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

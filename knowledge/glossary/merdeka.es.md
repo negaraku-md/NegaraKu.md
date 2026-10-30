@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GLO-0026"
 title: "Merdeka: el significado tras el grito nacional de Malasia"
+seoTitle: "Merdeka: qué significa y su origen (independencia de Malasia)"
 slug: "merdeka"
 category: "glossary"
 subcategory: ["culture"]

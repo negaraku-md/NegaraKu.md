@@ -1,7 +1,7 @@
 ---
 topicId: MY-HIS-0051
 title: "El Sultanato de Johor-Riau: cómo el trono de Melaka continuó hacia el sur"
-seoTitle: El Sultanato de Johor-Riau
+seoTitle: "Sultanato de Johor: historia y linaje real (Johor-Riau)"
 slug: "johor-riau-sultanate"
 category: "malaysia"
 subcategory: ["sultanates"]

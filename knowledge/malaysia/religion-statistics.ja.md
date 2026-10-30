@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0031
 title: "マレーシアの宗教別人口：国勢調査が記録したこと"
+seoTitle: "マレーシアの宗教別人口：国勢調査2020の内訳（イスラム教・仏教ほか）"
 slug: "religion-statistics"
 category: "malaysia"
 subcategory: ["demographics"]

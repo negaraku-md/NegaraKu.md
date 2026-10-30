@@ -237,7 +237,12 @@ async function main() {
           position: Math.round((r.position || 0) * 10) / 10,
         };
       })
+      // Drop noindexed utility pages (analytics/dashboard/graph): they aren't
+      // on-page-optimizable article targets, and the analytics route is a
+      // bot-spam magnet (random "ai#####" query strings) that otherwise floods
+      // the top of this list and buries the real article near-misses.
       .filter((r) => r.query && r.page && r.impressions >= 5 && r.position >= 5 && r.position <= 40)
+      .filter((r) => !/\/(analytics|dashboard|graph)(\/|$)/.test(r.page))
       .sort((a, b) => b.impressions - a.impressions)
       .slice(0, 500);
   } catch (err) {

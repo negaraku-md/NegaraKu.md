@@ -1,6 +1,7 @@
 ---
 topicId: MY-LAW-0001
 title: "Akta Syarikat 2016 (Akta 777)"
+seoTitle: "Akta Syarikat 2016 (Akta 777): statut korporat utama Malaysia"
 slug: "companies-act-2016"
 category: "law"
 alsoIn: ["business"]

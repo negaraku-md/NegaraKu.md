@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0002
 title: "LHDN——马来西亚内陆税收局"
+seoTitle: "Hasil（LHDN）是什么？马来西亚内陆税收局解释"
 slug: "lhdn"
 category: "government"
 subcategory: ["agencies"]

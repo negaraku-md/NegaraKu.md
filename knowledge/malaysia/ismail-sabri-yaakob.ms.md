@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0206
 title: "Ismail Sabri Yaakob"
+seoTitle: "Ismail Sabri Yaakob: Perdana Menteri Malaysia ke-9, lahir 1960"
 slug: "ismail-sabri-yaakob"
 category: "malaysia"
 subcategory: ["modern"]

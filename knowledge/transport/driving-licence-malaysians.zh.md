@@ -1,6 +1,7 @@
 ---
 topicId: MY-LIV-0005
 title: "L、P、CDL 驾照：JPJ 驾驶执照流程实际上如何运作"
+seoTitle: "CDL 是什么？马来西亚 L、P、CDL 驾照级别与 JPJ 流程"
 slug: "driving-licence-malaysians"
 category: "transport"
 subcategory: ["driving"]

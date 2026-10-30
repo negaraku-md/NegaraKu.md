@@ -1,6 +1,7 @@
 ---
 topicId: MY-ART-0028
 title: "망글리시(Manglish): 말레이시아 일상 영어 뒤의 문법, 어조사, 차용어"
+seoTitle: "Manglish(망글리시)란? 말레이시아 구어체 영어의 뜻과 특징"
 slug: "manglish"
 category: "arts-culture"
 subcategory: ["languages"]

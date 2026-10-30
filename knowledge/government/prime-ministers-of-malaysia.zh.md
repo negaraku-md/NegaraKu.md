@@ -1,6 +1,7 @@
 ---
 topicId: "MY-GOV-0101"
 title: "马来西亚历任首相"
+seoTitle: "马来西亚历任首相：十任任期、九位首相完整列表"
 slug: "prime-ministers-of-malaysia"
 category: "government"
 subcategory: ["institutions"]
