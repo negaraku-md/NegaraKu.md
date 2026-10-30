@@ -1,7 +1,7 @@
 ---
 topicId: "MY-GOV-0096"
 title: "房屋及地方政府部（KPKT）：职能、机构及其所执行的法律"
-seoTitle: "KPKT：房屋及地方政府部"
+seoTitle: "KPKT是什么？房屋及地方政府部"
 socialTitle: "同一个部门管理着马来西亚的消防队、你的垃圾收集，以及处理你房屋纠纷的仲裁庭"
 slug: "ministry-of-housing-local-government-kpkt"
 category: "government"

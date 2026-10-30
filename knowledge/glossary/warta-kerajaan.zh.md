@@ -19,7 +19,7 @@ keyTakeaways:
   - "经授权印刷的宪报副本，依 Akta 388 第61条，在法庭上具有初步证据（prima facie）的地位"
 appliesTo: "任何须了解某项法律、法规、税务措施或委任何时开始生效的人——律师、公司秘书、合规人员、记者、法律系学生及研究人员。"
 
-seoTitle: "政府宪报（Warta Kerajaan）：颁布的含义与效力"
+seoTitle: "宪报是什么？政府宪报（Warta Kerajaan）的含义"
 
 verificationNeeded:
   - "核实总检察署是否仍运营一个独立的联邦 e-Warta 门户网站——本文撰写时 federalgazette.agc.gov.my 这个域名无法访问，而 lom.agc.gov.my 则将自己标示为联邦立法门户网站（Portal Perundangan Persekutuan）。"

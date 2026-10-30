@@ -1,7 +1,7 @@
 ---
 topicId: MY-GOV-0081
 title: "MCMC — Suruhanjaya Komunikasi dan Multimedia Malaysia"
-seoTitle: "MCMC (SKMM): pelesenan, penyiaran dan kandungan internet"
+seoTitle: "MCMC Tu Apa? Maksud & Fungsi SKMM Malaysia"
 slug: "mcmc-communications-multimedia-commission"
 category: "government"
 subcategory: ["agencies"]

@@ -1,7 +1,7 @@
 ---
 topicId: "MY-GOV-0094"
 title: "国内贸易及生活成本部（KPDN）"
-seoTitle: "KPDN：国内贸易及生活成本部"
+seoTitle: "KPDN是什么部门？国内贸易及生活成本部"
 socialTitle: "被商家坑了？这个部门的职责就是替你讨回公道"
 slug: "ministry-of-domestic-trade-kpdn"
 category: "government"

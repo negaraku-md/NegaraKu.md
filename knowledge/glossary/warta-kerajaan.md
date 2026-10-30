@@ -19,7 +19,7 @@ keyTakeaways:
   - "Salinan Warta yang dicetak dengan kuasa ialah keterangan prima facie di mahkamah di bawah seksyen 61 Akta 388"
 appliesTo: "Sesiapa yang perlu mengetahui bila sesuatu undang-undang, peraturan, cukai atau pelantikan mula berkuat kuasa — peguam, setiausaha syarikat, pegawai pematuhan, wartawan, pelajar undang-undang dan penyelidik."
 
-seoTitle: "Warta Kerajaan: maksud dan kesan pewartaan"
+seoTitle: "Maksud Warta Kerajaan: Apa Itu & Kesan Pewartaan"
 
 verificationNeeded:
   - "Sahkan sama ada Jabatan Peguam Negara masih mengendalikan portal e-Warta Persekutuan yang berasingan — domain federalgazette.agc.gov.my tidak dapat dicapai pada tarikh draf ini, dan lom.agc.gov.my melabelkan dirinya sebagai Portal Perundangan Persekutuan."

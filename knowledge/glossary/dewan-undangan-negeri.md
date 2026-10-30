@@ -1,7 +1,7 @@
 ---
 topicId: MY-GLO-0036
 title: "Dewan Undangan Negeri (DUN) dan peranan ADUN"
-seoTitle: "Dewan Undangan Negeri (DUN): apa itu, ADUN dan bezanya dengan Parlimen"
+seoTitle: "Maksud ADUN dan Dewan Undangan Negeri (DUN)"
 slug: "dewan-undangan-negeri"
 category: "glossary"
 subcategory: ["government"]

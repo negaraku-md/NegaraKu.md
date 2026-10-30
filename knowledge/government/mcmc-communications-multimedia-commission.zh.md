@@ -1,7 +1,7 @@
 ---
 topicId: MY-GOV-0081
 title: "MCMC — 马来西亚通讯及多媒体委员会"
-seoTitle: "MCMC（SKMM）：牌照、广播与互联网内容监管"
+seoTitle: "SKMM是什么？马来西亚通讯及多媒体委员会（MCMC）"
 slug: "mcmc-communications-multimedia-commission"
 category: "government"
 subcategory: ["agencies"]

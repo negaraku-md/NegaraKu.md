@@ -1,7 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "Royal Malaysia Police: Chain of Command, Core Functions and Legal Basis"
-seoTitle: Royal Malaysia Police
+seoTitle: "What Is PDRM? Royal Malaysia Police Explained"
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]

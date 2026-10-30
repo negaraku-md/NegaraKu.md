@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0007
 title: "MyKad"
+seoTitle: "MyKad是什么？马来西亚身份证说明"
 slug: "mykad"
 category: "glossary"
 subcategory: ["government"]

@@ -1,7 +1,7 @@
 ---
 topicId: MY-CO-0019
 title: "国家能源有限公司（Tenaga Nasional Berhad）：国家电力公用事业"
-seoTitle: "国家能源有限公司（TNB）：历史、电网垄断与 NETR 角色"
+seoTitle: "TNB是什么？国家能源有限公司（Tenaga Nasional）"
 slug: "tenaga-nasional"
 category: "companies"
 subcategory: ["utiliti"]

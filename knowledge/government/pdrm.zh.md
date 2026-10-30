@@ -1,6 +1,7 @@
 ---
 topicId: MY-GOV-0041
 title: "皇家马来西亚警察部队（PDRM）：指挥架构、核心职能与法律依据"
+seoTitle: "PDRM是什么？皇家马来西亚警察部队"
 slug: "pdrm"
 category: "government"
 subcategory: ["agencies"]
