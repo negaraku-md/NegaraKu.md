@@ -95,7 +95,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
@@ -158,4 +158,4 @@ keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", 
 
 2036-2037年度竞选的命运，将取决于任期开始前数年的大会投票，马来西亚需要赢得出席并参与投票的国家中三分之二的支持。与此同时，从UNIFIL撤离——其任务授权于2026年12月31日结束，撤离预计在2027年底之前完成——将标志着马来西亚维和贡献格局的重大转变，尽管领导人已表示愿意在受邀时参与新的任务。
 
-若要了解更广阔的背景，请阅读[马来西亚外交政策](/zh/malaysia-foreign-policy)以及[马来西亚在东盟的会籍](/zh/malaysia-asean-membership)。本文将在安全理事会选举结果和维和任务进展公布后更新。
+若要了解更广阔的背景，请阅读[马来西亚外交政策](/zh/malaysia-foreign-policy-wisma-putra)以及[马来西亚在东盟的会籍](/zh/malaysia-asean-membership)。本文将在安全理事会选举结果和维和任务进展公布后更新。

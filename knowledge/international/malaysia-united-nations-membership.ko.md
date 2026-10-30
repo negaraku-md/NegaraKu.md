@@ -94,7 +94,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
@@ -157,4 +157,4 @@ keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", 
 
 2036~2037년 입후보의 운명은 그 임기가 시작되기 몇 년 전 총회 투표에 달려 있으며, 말레이시아는 출석하여 투표하는 국가의 3분의 2 지지를 얻어야 합니다. 한편, UNIFIL로부터의 철수 — 그 임무는 2026년 12월 31일 종료되며 철수는 2027년 말까지 완료될 것으로 예상됨 — 는 지도자들이 요청 시 새로운 임무에 대한 준비 태세를 밝혀왔음에도, 말레이시아의 평화유지 기여 양상에서 중요한 전환을 표시할 것입니다.
 
-보다 넓은 맥락을 이해하려면, [말레이시아의 외교 정책](/ko/international/malaysia-foreign-policy/)과 [말레이시아의 아세안 회원 활동](/ko/international/malaysia-asean-membership/)에 관해 읽어보십시오. 이 글은 안전보장이사회 선거 결과와 평화유지 임무의 진전이 발표되면 갱신될 것입니다.
+보다 넓은 맥락을 이해하려면, [말레이시아의 외교 정책](/ko/international/malaysia-foreign-policy-wisma-putra/)과 [말레이시아의 아세안 회원 활동](/ko/international/malaysia-asean-membership/)에 관해 읽어보십시오. 이 글은 안전보장이사회 선거 결과와 평화유지 임무의 진전이 발표되면 갱신될 것입니다.

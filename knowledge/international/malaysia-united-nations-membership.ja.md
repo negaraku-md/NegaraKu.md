@@ -94,7 +94,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
@@ -157,4 +157,4 @@ keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", 
 
 2036-2037年度への立候補の行方は、任期開始の数年前に行われる国連総会の投票にかかっており、マレーシアは出席し投票する国の3分の2の支持を得る必要がある。一方、UNIFILからの撤収——その任務は2026年12月31日に終了し、撤収は2027年末までに完了する見込み——は、マレーシアの平和維持活動における貢献パターンの重要な転換点となる。ただし、指導者たちは要請があれば新たな任務に参加する用意があると表明している。
 
-より広い文脈を理解するには、[マレーシアの外交政策](/ja/international/malaysia-foreign-policy/)および[マレーシアのASEAN加盟](/ja/international/malaysia-asean-membership/)を参照されたい。本稿は、安保理選挙の結果および平和維持任務の進展が発表され次第、更新される予定である。
+より広い文脈を理解するには、[マレーシアの外交政策](/ja/international/malaysia-foreign-policy-wisma-putra/)および[マレーシアのASEAN加盟](/ja/international/malaysia-asean-membership/)を参照されたい。本稿は、安保理選挙の結果および平和維持任務の進展が発表され次第、更新される予定である。

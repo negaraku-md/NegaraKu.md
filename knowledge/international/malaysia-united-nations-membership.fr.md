@@ -95,7 +95,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaisie ONU", "United Nations Malaysia", "Conseil de sécurité de l'ONU", "casques bleus", "UNIFIL", "adhésion à l'ONU", "diplomatie de la Malaisie"]
@@ -158,4 +158,4 @@ Cette présence soutient la politique nationale dans des domaines tels que les O
 
 Le sort de la candidature 2036-2037 dépendra d'un vote de l'Assemblée générale plusieurs années avant le début du mandat, et la Malaisie devra obtenir le soutien des deux tiers des États présents et votants. Entre-temps, le retrait de la FINUL — dont le mandat s'achève le 31 décembre 2026, l'achèvement du retrait étant attendu d'ici la fin de 2027 — marquera un changement important dans le schéma des contributions de la Malaisie au maintien de la paix, même si ses dirigeants ont exprimé leur disposition à assumer de nouvelles missions si on le leur demande.
 
-Pour comprendre le contexte plus large, lisez à propos de [la politique étrangère de la Malaisie](/fr/malaysia-foreign-policy) et de [l'adhésion de la Malaisie à l'ASEAN](/fr/malaysia-asean-membership). Cet article sera mis à jour au fur et à mesure de l'annonce des résultats de l'élection au Conseil de sécurité et des développements dans les missions de maintien de la paix.
+Pour comprendre le contexte plus large, lisez à propos de [la politique étrangère de la Malaisie](/fr/malaysia-foreign-policy-wisma-putra) et de [l'adhésion de la Malaisie à l'ASEAN](/fr/malaysia-asean-membership). Cet article sera mis à jour au fur et à mesure de l'annonce des résultats de l'élection au Conseil de sécurité et des développements dans les missions de maintien de la paix.

@@ -95,7 +95,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
@@ -158,4 +158,4 @@ This presence supports national policy in areas such as the Sustainable Developm
 
 The fate of the 2036-2037 candidacy will depend on a General Assembly vote several years before the term begins, and Malaysia will need to win the support of two-thirds of the states present and voting. In the meantime, the withdrawal from UNIFIL — whose mandate ends on 31 December 2026 with the withdrawal expected to be completed by the end of 2027 — will mark an important shift in the pattern of Malaysia's peacekeeping contributions, even though leaders have expressed readiness for new missions if requested.
 
-To understand the broader context, read about [Malaysia's foreign policy](/en/malaysia-foreign-policy) and [Malaysia's membership in ASEAN](/en/malaysia-asean-membership). This article will be updated as the results of the Security Council election and developments in peacekeeping missions are announced.
+To understand the broader context, read about [Malaysia's foreign policy](/en/malaysia-foreign-policy-wisma-putra) and [Malaysia's membership in ASEAN](/en/malaysia-asean-membership). This article will be updated as the results of the Security Council election and developments in peacekeeping missions are announced.

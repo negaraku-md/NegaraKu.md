@@ -94,7 +94,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
@@ -157,4 +157,4 @@ Sự hiện diện này hỗ trợ chính sách quốc gia trong các lĩnh vự
 
 Số phận của ứng cử 2036-2037 sẽ phụ thuộc vào cuộc bỏ phiếu của Đại hội đồng vài năm trước khi nhiệm kỳ đó bắt đầu, và Malaysia cần giành được sự ủng hộ của hai phần ba các quốc gia có mặt và bỏ phiếu. Trong khi đó, việc rút khỏi UNIFIL — mà nhiệm vụ của nó kết thúc vào ngày 31 tháng 12 năm 2026 với việc rút quân dự kiến hoàn tất vào cuối năm 2027 — sẽ đánh dấu một sự chuyển đổi quan trọng trong mô thức đóng góp gìn giữ hòa bình của Malaysia, dù các nhà lãnh đạo đã tỏ ý sẵn sàng cho các phái bộ mới nếu được yêu cầu.
 
-Để hiểu bối cảnh rộng hơn, hãy đọc về [chính sách đối ngoại của Malaysia](/vi/international/malaysia-foreign-policy/) và [tư cách thành viên của Malaysia trong ASEAN](/vi/international/malaysia-asean-membership/). Bài viết này sẽ được cập nhật khi kết quả bầu cử Hội đồng Bảo an và các diễn biến của phái bộ gìn giữ hòa bình được công bố.
+Để hiểu bối cảnh rộng hơn, hãy đọc về [chính sách đối ngoại của Malaysia](/vi/international/malaysia-foreign-policy-wisma-putra/) và [tư cách thành viên của Malaysia trong ASEAN](/vi/international/malaysia-asean-membership/). Bài viết này sẽ được cập nhật khi kết quả bầu cử Hội đồng Bảo an và các diễn biến của phái bộ gìn giữ hòa bình được công bố.

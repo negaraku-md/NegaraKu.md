@@ -193,6 +193,16 @@ Tiada formula rasmi yang diterbitkan, tetapi corak keputusan dasar luar Malaysia
 
 Rangka ini menjelaskan sesuatu yang kelihatan berlawanan: bagaimana Malaysia boleh berkecuali antara kuasa besar namun lantang mengenai isu prinsip. Kedua-duanya keluar daripada logik yang sama — melindungi kepentingan negara terbuka sambil kekal setia pada nilai yang diisytiharkan.
 
+## Di mana dasar luar Malaysia menjadi nyata?
+
+Prinsip mudah dinyatakan tetapi sukar diuji. Dua pendirian semasa menunjukkan di mana nilai yang diisytiharkan Malaysia diterjemahkan kepada tindakan konkrit, kadangkala dengan kos.
+
+**Israel dan Palestin.** Malaysia tidak pernah mengiktiraf Israel dan tiada hubungan diplomatik dengannya; pasport Malaysia menyatakan ia sah *untuk semua negara kecuali Israel*. Sebaliknya, Malaysia mengiktiraf Palestin sebagai sebuah negara berdaulat, dan pendiriannya ialah sebarang pengiktirafan Israel bergantung pada penarikan diri Israel dari wilayah Palestin yang diduduki serta penubuhan negara Palestin dalam sempadan sebelum 1967, dengan Baitulmuqaddis Timur sebagai ibu negaranya. Pada Disember 2023, Perdana Menteri Anwar Ibrahim mengisytiharkan semua kapal berbendera Israel dilarang berlabuh di pelabuhan Malaysia.
+
+**Imbangan China–AS.** Malaysia menjalin hubungan diplomatik dengan Republik Rakyat China pada 31 Mei 1974 — negara ASEAN pertama berbuat demikian, apabila Perdana Menteri Tun Abdul Razak dan Premier Zhou Enlai menandatangani Komunike Bersama di Beijing. Sejak itu Malaysia mengamalkan kesamaan jarak yang disengajakan: mengukuhkan hubungan ekonomi dengan Beijing sambil mengekalkan pintu terbuka kepada Washington dan negara lain, tanpa menukar perdagangan menjadi pakatan tetap. China kekal rakan dagang terbesar Malaysia bagi tahun ke-16 berturut-turut pada 2024 (kedudukan dipegang sejak 2009), menurut Jabatan Perangkaan Malaysia. Inilah doktrin tidak sejajar dalam bentuk modennya — penglibatan tanpa terperangkap.
+
+Di luar ASEAN, pendirian tidak sejajar ini turut disalurkan melalui jaringan keahlian pelbagai hala yang luas — Pertubuhan Bangsa-Bangsa Bersatu (menyertai pada 1957), [Pertubuhan Kerjasama Islam, Komanwel dan Gerakan Negara-Negara Berkecuali](/international/malaysia-oic-commonwealth-nam-membership) — dengan hubungan diplomatik rasmi dengan 189 negara.
+
 ## Apakah salah faham yang paling biasa tentang dasar luar Malaysia?
 
 Beberapa kesilapan sering muncul dalam perbualan awam:

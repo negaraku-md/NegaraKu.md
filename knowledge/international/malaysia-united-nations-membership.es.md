@@ -95,7 +95,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malasia ONU", "United Nations Malaysia", "Consejo de Seguridad de la ONU", "cascos azules", "UNIFIL", "membresía de la ONU", "diplomacia de Malasia"]
@@ -158,4 +158,4 @@ Esta presencia respalda la política nacional en ámbitos como los Objetivos de 
 
 La suerte de la candidatura 2036-2037 dependerá de una votación de la Asamblea General varios años antes del inicio del mandato, y Malasia necesitará ganarse el apoyo de dos tercios de los Estados presentes y votantes. Mientras tanto, la retirada de la FPNUL —cuyo mandato termina el 31 de diciembre de 2026, con la retirada prevista para completarse a finales de 2027— marcará un cambio importante en el patrón de las contribuciones de Malasia al mantenimiento de la paz, aunque sus dirigentes hayan expresado su disposición a asumir nuevas misiones si se les solicita.
 
-Para entender el contexto más amplio, lea sobre [la política exterior de Malasia](/en/malaysia-foreign-policy) y [la membresía de Malasia en la ASEAN](/en/malaysia-asean-membership). Este artículo se actualizará a medida que se anuncien los resultados de la elección del Consejo de Seguridad y los acontecimientos en las misiones de mantenimiento de la paz.
+Para entender el contexto más amplio, lea sobre [la política exterior de Malasia](/en/malaysia-foreign-policy-wisma-putra) y [la membresía de Malasia en la ASEAN](/en/malaysia-asean-membership). Este artículo se actualizará a medida que se anuncien los resultados de la elección del Consejo de Seguridad y los acontecimientos en las misiones de mantenimiento de la paz.

@@ -94,7 +94,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
@@ -157,4 +157,4 @@ keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", 
 
 ชะตากรรมของการลงสมัครวาระ 2036-2037 จะขึ้นอยู่กับการลงคะแนนของสมัชชาใหญ่หลายปีก่อนวาระนั้นจะเริ่ม และมาเลเซียต้องได้รับการสนับสนุนสองในสามของประเทศที่เข้าร่วมและลงคะแนน ในระหว่างนี้ การถอนตัวจาก UNIFIL ซึ่งอาณัติสิ้นสุดในวันที่ 31 ธันวาคม 2026 โดยการถอนคาดว่าจะเสร็จสิ้นภายในปลายปี 2027 จะเป็นการเปลี่ยนแปลงสำคัญในรูปแบบการสนับสนุนการรักษาสันติภาพของมาเลเซีย แม้ผู้นำจะได้แสดงความพร้อมสำหรับภารกิจใหม่หากได้รับการร้องขอ
 
-เพื่อเข้าใจบริบทในวงกว้าง โปรดอ่านเกี่ยวกับ [นโยบายต่างประเทศของมาเลเซีย](/th/international/malaysia-foreign-policy/) และ [การเป็นสมาชิกอาเซียนของมาเลเซีย](/th/international/malaysia-asean-membership/) บทความนี้จะได้รับการปรับปรุงเมื่อมีการประกาศผลการเลือกตั้งคณะมนตรีความมั่นคงและพัฒนาการของภารกิจรักษาสันติภาพ
+เพื่อเข้าใจบริบทในวงกว้าง โปรดอ่านเกี่ยวกับ [นโยบายต่างประเทศของมาเลเซีย](/th/international/malaysia-foreign-policy-wisma-putra/) และ [การเป็นสมาชิกอาเซียนของมาเลเซีย](/th/international/malaysia-asean-membership/) บทความนี้จะได้รับการปรับปรุงเมื่อมีการประกาศผลการเลือกตั้งคณะมนตรีความมั่นคงและพัฒนาการของภารกิจรักษาสันติภาพ

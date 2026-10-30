@@ -95,7 +95,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["ماليزيا الأمم المتحدة", "United Nations Malaysia", "مجلس الأمن الدولي", "قوات حفظ السلام", "UNIFIL", "عضوية الأمم المتحدة", "الدبلوماسية الماليزية"]
@@ -208,6 +208,6 @@ UNIFIL البالغ قوامها 7,448 شخصاً، بانخفاض عن 830 فر
 أن يكتمل الانسحاب بحلول نهاية 2027 — سيمثّل تحوّلاً مهماً في نمط مساهمات ماليزيا
 في حفظ السلام، رغم أن القادة أبدوا استعداداً لبعثات جديدة إذا طُلب ذلك.
 
-ولفهم السياق الأوسع، اطّلع على [السياسة الخارجية لماليزيا](/malaysia-foreign-policy)
+ولفهم السياق الأوسع، اطّلع على [السياسة الخارجية لماليزيا](/malaysia-foreign-policy-wisma-putra)
 و[عضوية ماليزيا في آسيان](/malaysia-asean-membership). وسيُحدَّث هذا المقال مع
 إعلان نتائج انتخابات مجلس الأمن وتطورات بعثات حفظ السلام.

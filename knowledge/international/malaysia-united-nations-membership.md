@@ -93,7 +93,7 @@ sources:
 entity: "Malaysia"
 wikidata: "Q833"
 relations:
-  - { rel: "related-to", to: "malaysia-foreign-policy" }
+  - { rel: "related-to", to: "malaysia-foreign-policy-wisma-putra" }
   - { rel: "related-to", to: "malaysia-asean-membership" }
 related: ["malaysia-asean-membership"]
 keywords: ["Malaysia PBB", "United Nations Malaysia", "Majlis Keselamatan PBB", "pasukan pengaman", "UNIFIL", "keahlian PBB", "diplomasi Malaysia"]
@@ -156,4 +156,4 @@ Kehadiran ini menyokong dasar negara dalam bidang seperti Matlamat Pembangunan M
 
 Nasib pencalonan 2036-2037 akan bergantung pada undian Perhimpunan Agung beberapa tahun sebelum penggal itu bermula, dan Malaysia perlu meraih sokongan dua pertiga daripada negara yang hadir dan mengundi. Sementara itu, penarikan diri daripada UNIFIL — yang mandatnya berakhir pada 31 Disember 2026 dengan penarikan dijangka selesai menjelang penghujung 2027 — akan menandakan peralihan penting dalam corak sumbangan pengaman Malaysia, walaupun para pemimpin telah menyatakan kesediaan untuk misi baharu jika diminta.
 
-Untuk memahami konteks yang lebih luas, baca tentang [dasar luar Malaysia](/international/malaysia-foreign-policy/) dan [keahlian Malaysia dalam ASEAN](/international/malaysia-asean-membership/). Artikel ini akan dikemas kini apabila keputusan pilihan raya Majlis Keselamatan dan perkembangan misi pengaman diumumkan.
+Untuk memahami konteks yang lebih luas, baca tentang [dasar luar Malaysia](/international/malaysia-foreign-policy-wisma-putra/) dan [keahlian Malaysia dalam ASEAN](/international/malaysia-asean-membership/). Artikel ini akan dikemas kini apabila keputusan pilihan raya Majlis Keselamatan dan perkembangan misi pengaman diumumkan.
