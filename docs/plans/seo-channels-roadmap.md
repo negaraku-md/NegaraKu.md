@@ -39,9 +39,11 @@ _Created 2026-10-29. Prioritised by ROI for NegaraKu.md (13-language, AI-friendl
 - Discovery itself is passive: once the enriched node is live + recrawled, confirm the corpus surfaces at datasetsearch.research.google.com (search "NegaraKu" / "Malaysia knowledge base") — no submission step exists; it is crawl-driven.
 - Status: DONE (verify surfacing after the next deploy is indexed).
 
-### T5 (optional) — Yandex Webmaster
-- Already IndexNow-pinged; console adds minor index-coverage diagnostics + Turkic/CIS/ar reach. Verify-only (meta tag, same mechanism as Naver). Low value for the current audience.
-- Status: OPTIONAL.
+### T5 — Yandex Webmaster (DONE)
+- Registered apex `https://negaraku.md` and **verified ownership 2026-10-30** via HTML meta tag (`<meta name="yandex-verification" content="171b6293ac48a58f">` in `BaseLayout.astro`, commit `8a396f000`, pushed + live). Role: Owner (ashton.tan@gmail.com).
+- **Sitemap:** manual submission was blocked by a temporary Yandex outage ("Sitemap files tool is in read-only mode"). Not a problem — Yandex auto-discovers from our `robots.txt` (`Sitemap: https://negaraku.md/sitemap-index.xml`), and IndexNow already pings Yandex on every push. **Retry the manual submit** at Indexing → Sitemap files once Yandex restores the tool (optional belt-and-braces).
+- Honest ROI: low (no CIS audience; Yandex already IndexNow-pinged) but near-zero cost; completes the "claim every major console" posture.
+- Status: DONE (verified; manual sitemap submit pending Yandex tool restoration).
 
 ### T6 (optional) — Kaggle dataset mirror
 - Mirror the HF dataset on Kaggle for data-science discovery. Minor.
