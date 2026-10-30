@@ -14,7 +14,7 @@ const l = locale as Locale;
 <aside class="spon" aria-label={sponsor.name} data-pagefind-ignore>
   <div class="spon-body">
     <p class="spon-head">{sponsor.heading[l]}</p>
-    <p class="spon-text"><b class="oneco">{sponsor.name}</b>{sponsor.blurb[l]}</p>
+    <p class="spon-text"><a class="oneco spon-name" href={href} target="_blank" rel="sponsored noopener">{sponsor.name}</a>{sponsor.blurb[l]}</p>
   </div>
   <a class="spon-cta" href={href} target="_blank" rel="sponsored noopener">
     {sponsor.cta[l]} <span class="dirx">→</span>
@@ -24,16 +24,17 @@ const l = locale as Locale;
 <style>
   .spon {
     display: grid;
-    gap: 0.6rem;
-    margin: 2rem 0 0;
-    padding: 1.1rem 1.25rem 1.25rem;
+    gap: 1.1rem;
+    margin: 2.5rem 0 1rem;
+    padding: 1.75rem 1.75rem 1.9rem;
     border: 1px solid color-mix(in srgb, var(--gold) 45%, transparent);
-    border-radius: 12px;
+    border-radius: 14px;
     background: color-mix(in srgb, var(--gold) 6%, var(--surface, transparent));
   }
-  .spon-head { margin: 0; font-weight: 700; }
-  .spon-text { margin: 0.25rem 0 0; color: var(--text-2, inherit); font-size: 0.95rem; }
-  .spon-text .oneco { color: var(--gold); text-transform: lowercase !important; }
+  .spon-head { margin: 0; font-weight: 700; font-size: 1.1rem; color: var(--gold); }
+  .spon-text { margin: 0.5rem 0 0; color: var(--text-2, inherit); font-size: 0.95rem; line-height: 1.6; }
+  .spon-name { color: var(--gold); font-weight: 700; text-transform: lowercase !important; text-decoration: none; }
+  .spon-name:hover { text-decoration: underline; }
   .spon-cta {
     justify-self: start;
     display: inline-flex;
