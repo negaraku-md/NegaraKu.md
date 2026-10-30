@@ -39,7 +39,7 @@ faq:
     a: "Le Supply Bill est un test de confiance financière envers le gouvernement. Comme c'est un projet de loi de finances, il doit prendre naissance au Dewan Rakyat et ne peut être présenté que par un ministre. Si le Dewan Rakyat rejette la dotation du gouvernement, cela est conventionnellement interprété comme une perte de la confiance majoritaire — voir les pouvoirs financiers du Dewan Rakyat en vertu des articles 67 et 68 de la Constitution fédérale."
 
 lang: "fr"
-sourceContentHash: "40747e3f92b37352"
+sourceContentHash: "669255c561437b72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -279,6 +279,14 @@ Comme tant de fonctions financières du pays sont réunies sous un seul ministè
 - **Investissement sur le marché des capitaux, plaintes concernant les courtiers** → Commission des valeurs mobilières de la Malaisie.
 - **Politique monétaire, taux d'intérêt, réglementation bancaire** → Bank Negara Malaysia.
 - **Budget général et politique budgétaire** → Ministère des Finances (Trésor).
+
+## Qu'est-ce que le ministre des Finances constitué en société (MOF Inc) ?
+
+Le ministre des Finances constitué en société (*Minister of Finance (Incorporated)*, MOF Inc) est une personne morale au nom du ministre des Finances, établie en vertu de la Minister of Finance (Incorporation) Act 1957. Elle peut conclure des contrats, effectuer des acquisitions et détenir des actifs corporels et incorporels pour le compte du gouvernement. MOF Inc est le véhicule juridique qui permet au gouvernement fédéral de posséder des actifs commerciaux, et elle se distingue de l'administration quotidienne du ministère.
+
+## L'« enregistrement MOF » est-il la même chose que le Ministère ?
+
+Non — et c'est là une confusion qui reste souvent sans réponse. **ePerolehan** est le portail de passation électronique des marchés publics de la Malaisie, exploité par le ministère des Finances, où les fournisseurs s'enregistrent pour faire affaire avec le gouvernement. Le **compte de base** (Akaun Asas) pour les citoyens malaisiens couvre les transactions jusqu'à RM20,000, sans frais ; le **compte MOF** (Akaun MOF) couvre les transactions de RM20,000 et plus, réparti entre les catégories Entrepreneur et Consultant. Le compte MOF coûte **RM450** pour un nouvel enregistrement ou un renouvellement, valable **3 ans**. Ainsi, la « licence MOF » dont une entreprise a besoin est en réalité l'enregistrement du fournisseur via ePerolehan — et non une affaire relevant du bureau des politiques du ministère.
 
 ## Erreurs courantes
 

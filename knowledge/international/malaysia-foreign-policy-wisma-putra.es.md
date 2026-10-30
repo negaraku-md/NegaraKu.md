@@ -37,7 +37,7 @@ faq:
     a: "La ASEAN es la piedra angular o el cimiento de la política exterior de Malasia. Malasia es uno de los países fundadores de la ASEAN y da prioridad de manera sistemática a la integridad y la centralidad de la ASEAN, al tiempo que permanece activa en otros foros como las Naciones Unidas (ONU), la Organización de Cooperación Islámica (OCI) y el Movimiento de Países No Alineados (MNOAL)."
 
 lang: "es"
-sourceContentHash: "4cb0c08e4d974a16"
+sourceContentHash: "500f0f356d6c239e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -193,6 +193,16 @@ No se ha publicado una fórmula oficial, pero el patrón de las decisiones de po
 4. **¿Puede gestionarse colectivamente?** Si es así, Malasia prefiere actuar a través de la ASEAN o de foros multilaterales en lugar de sola, porque una voz colectiva es más fuerte y menos arriesgada.
 
 Este marco explica algo que parece contradictorio: cómo Malasia puede ser neutral entre las grandes potencias y, a la vez, franca en asuntos de principio. Ambas cosas fluyen de la misma lógica: proteger los intereses de un país abierto a la vez que se mantiene fiel a sus valores declarados.
+
+## ¿Dónde se vuelve real la política exterior de Malasia?
+
+Los principios son fáciles de enunciar pero difíciles de poner a prueba. Dos posturas actuales muestran dónde los valores declarados de Malasia se traducen en acciones concretas, a veces con un costo.
+
+**Israel y Palestina.** Malasia nunca ha reconocido a Israel y no tiene relaciones diplomáticas con él; el pasaporte malasio indica que es válido *para todos los países excepto Israel*. En cambio, Malasia reconoce a Palestina como un Estado soberano, y su postura es que cualquier reconocimiento de Israel depende de la retirada de Israel de los territorios palestinos ocupados y del establecimiento de un Estado palestino dentro de las fronteras anteriores a 1967, con Jerusalén Oriental como su capital. En diciembre de 2023, el Primer Ministro Anwar Ibrahim declaró que se prohíbe a todos los buques con bandera israelí atracar en los puertos de Malasia.
+
+**El equilibrio China–EE. UU.** Malasia estableció relaciones diplomáticas con la República Popular China el 31 de mayo de 1974 —el primer país de la ASEAN en hacerlo—, cuando el Primer Ministro Tun Abdul Razak y el Premier Zhou Enlai firmaron un Comunicado Conjunto en Pekín. Desde entonces, Malasia practica una equidistancia deliberada: fortalecer los lazos económicos con Pekín mientras mantiene la puerta abierta a Washington y a otros países, sin convertir el comercio en una alianza permanente. China siguió siendo el mayor socio comercial de Malasia por decimosexto año consecutivo en 2024 (posición que ocupa desde 2009), según el Departamento de Estadística de Malasia. Esta es la doctrina del no alineamiento en su forma moderna — participación sin quedar atrapado.
+
+Más allá de la ASEAN, esta postura de no alineamiento también se canaliza a través de una amplia red de membresías multilaterales — las Naciones Unidas (a las que se unió en 1957), [la Organización de Cooperación Islámica, la Commonwealth y el Movimiento de Países No Alineados](/es/international/malaysia-oic-commonwealth-nam-membership) — con relaciones diplomáticas oficiales con 189 países.
 
 ## ¿Cuáles son las ideas erróneas más comunes sobre la política exterior de Malasia?
 

@@ -39,7 +39,7 @@ faq:
     a: "Dự luật Cấp phát là một phép thử về sự tín nhiệm tài chính đối với chính phủ. Vì nó là dự luật ngân sách, nó phải bắt đầu tại Dewan Rakyat và chỉ có thể do một Bộ trưởng đưa ra. Nếu Dewan Rakyat bác bỏ khoản cấp phát của chính phủ, điều đó thường được diễn giải là mất sự tín nhiệm của đa số — xem quyền lực tài chính của Dewan Rakyat theo Điều 67 và 68 của Hiến pháp Liên bang."
 
 lang: "vi"
-sourceContentHash: "40747e3f92b37352"
+sourceContentHash: "669255c561437b72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -279,6 +279,14 @@ Vì quá nhiều chức năng tài chính của quốc gia tập trung dưới m
 - **Đầu tư thị trường vốn, khiếu nại về môi giới** → Ủy ban Chứng khoán Malaysia.
 - **Chính sách tiền tệ, lãi suất, điều chỉnh ngân hàng** → Bank Negara Malaysia.
 - **Chính sách Ngân sách và tài khóa tổng thể** → Bộ Tài chính (Kho bạc).
+
+## Menteri Kewangan Diperbadankan (MOF Inc) là gì?
+
+Menteri Kewangan Diperbadankan (*Minister of Finance (Incorporated)*, MOF Inc) là một pháp nhân nhân danh Bộ trưởng Tài chính, được thành lập theo Luật Bộ trưởng Tài chính (Pháp nhân hóa) 1957 (Minister of Finance (Incorporation) Act 1957). Nó có thể ký kết hợp đồng, thực hiện mua sắm, cũng như nắm giữ tài sản hữu hình và vô hình thay mặt chính phủ. MOF Inc là phương tiện pháp lý cho phép chính phủ liên bang sở hữu tài sản thương mại, và nó khác với việc quản lý hằng ngày của bộ.
+
+## "Đăng ký MOF" có giống với Bộ không?
+
+Không — và đây là sự nhầm lẫn thường không được giải đáp. **ePerolehan** là cổng mua sắm điện tử của Malaysia do Bộ Tài chính vận hành, nơi các nhà cung cấp đăng ký để giao dịch với chính phủ. **Tài khoản Cơ bản** (Akaun Asas) cho công dân Malaysia bao gồm các giao dịch lên đến RM20,000, miễn phí; **Tài khoản MOF** (Akaun MOF) bao gồm các giao dịch từ RM20,000 trở lên, chia thành các hạng mục Nhà thầu (Kontraktor) và Nhà tư vấn (Perunding). Tài khoản MOF có giá **RM450** cho đăng ký mới hoặc gia hạn, có hiệu lực trong **3 năm**. Vì vậy "giấy phép MOF" mà một doanh nghiệp cần thực ra là việc đăng ký nhà cung cấp qua ePerolehan — chứ không phải việc của văn phòng chính sách của bộ.
 
 ## Những nhầm lẫn thường gặp
 

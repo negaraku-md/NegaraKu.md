@@ -37,7 +37,7 @@ faq:
     a: "ASEAN adalah pilar atau dasar kebijakan luar negeri Malaysia. Malaysia adalah salah satu negara pendiri ASEAN dan selalu mengutamakan keutuhan serta kedudukan sentral (centrality) ASEAN, sambil aktif dalam forum lain seperti Perserikatan Bangsa-Bangsa (PBB), Organisasi Kerja Sama Islam (OKI) dan Gerakan Non-Blok (NAM)."
 
 lang: "id"
-sourceContentHash: "4cb0c08e4d974a16"
+sourceContentHash: "500f0f356d6c239e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -193,6 +193,16 @@ Tidak ada formula resmi yang diterbitkan, tetapi pola keputusan kebijakan luar n
 4. **Bisakah ia dikelola secara kolektif?** Jika bisa, Malaysia lebih suka bertindak melalui ASEAN atau forum multilateral daripada sendirian, karena suara kolektif lebih kuat dan kurang berisiko.
 
 Kerangka ini menjelaskan sesuatu yang kelihatan berlawanan: bagaimana Malaysia bisa netral antarkekuatan besar namun lantang mengenai isu prinsip. Keduanya keluar dari logika yang sama — melindungi kepentingan negara terbuka sambil tetap setia pada nilai yang dideklarasikan.
+
+## Di mana kebijakan luar negeri Malaysia menjadi nyata?
+
+Prinsip mudah dinyatakan tetapi sukar diuji. Dua posisi terkini menunjukkan di mana nilai yang dideklarasikan Malaysia diterjemahkan menjadi tindakan konkret, kadang dengan biaya.
+
+**Israel dan Palestina.** Malaysia tidak pernah mengakui Israel dan tidak memiliki hubungan diplomatik dengannya; paspor Malaysia menyatakan ia berlaku *untuk semua negara kecuali Israel*. Sebaliknya, Malaysia mengakui Palestina sebagai sebuah negara berdaulat, dan posisinya adalah bahwa pengakuan apa pun terhadap Israel bergantung pada penarikan diri Israel dari wilayah Palestina yang diduduki serta pembentukan negara Palestina dalam perbatasan sebelum 1967, dengan Baitulmakdis Timur sebagai ibu kotanya. Pada Desember 2023, Perdana Menteri Anwar Ibrahim mengumumkan semua kapal berbendera Israel dilarang berlabuh di pelabuhan Malaysia.
+
+**Keseimbangan Tiongkok–AS.** Malaysia menjalin hubungan diplomatik dengan Republik Rakyat Tiongkok pada 31 Mei 1974 — negara ASEAN pertama yang melakukannya, ketika Perdana Menteri Tun Abdul Razak dan Perdana Menteri Zhou Enlai menandatangani Komunike Bersama di Beijing. Sejak itu Malaysia menerapkan kesetaraan jarak yang disengaja: memperkuat hubungan ekonomi dengan Beijing sambil mempertahankan pintu terbuka kepada Washington dan negara lain, tanpa mengubah perdagangan menjadi aliansi tetap. Tiongkok tetap mitra dagang terbesar Malaysia untuk tahun ke-16 berturut-turut pada 2024 (posisi yang dipegang sejak 2009), menurut Jabatan Perangkaan Malaysia. Inilah doktrin non-blok dalam bentuk modernnya — keterlibatan tanpa terjebak.
+
+Di luar ASEAN, sikap non-blok ini turut disalurkan melalui jaringan keanggotaan multilateral yang luas — Perserikatan Bangsa-Bangsa (bergabung pada 1957), [Organisasi Kerja Sama Islam, Persemakmuran dan Gerakan Non-Blok](/id/international/malaysia-oic-commonwealth-nam-membership) — dengan hubungan diplomatik resmi dengan 189 negara.
 
 ## Apa salah paham yang paling biasa tentang kebijakan luar negeri Malaysia?
 

@@ -37,7 +37,7 @@ faq:
     a: "L'ASEAN est la pierre angulaire ou le socle de la politique étrangère de la Malaisie. La Malaisie est l'un des pays fondateurs de l'ASEAN et donne systématiquement la priorité à l'intégrité et à la centralité de l'ASEAN, tout en restant active dans d'autres forums comme les Nations unies (ONU), l'Organisation de la coopération islamique (OCI) et le Mouvement des pays non alignés (MNA)."
 
 lang: "fr"
-sourceContentHash: "4cb0c08e4d974a16"
+sourceContentHash: "500f0f356d6c239e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -193,6 +193,16 @@ Aucune formule officielle n'a été publiée, mais le schéma des décisions de 
 4. **Cela peut-il être géré collectivement ?** Si oui, la Malaisie préfère agir à travers l'ASEAN ou des forums multilatéraux plutôt que seule, car une voix collective est plus forte et moins risquée.
 
 Ce cadre explique quelque chose qui semble contradictoire : comment la Malaisie peut être neutre entre les grandes puissances tout en étant franche sur les questions de principe. Les deux découlent de la même logique : protéger les intérêts d'un pays ouvert tout en restant fidèle à ses valeurs déclarées.
+
+## Où la politique étrangère de la Malaisie devient-elle concrète ?
+
+Les principes sont faciles à énoncer mais difficiles à éprouver. Deux positions actuelles montrent où les valeurs déclarées de la Malaisie se traduisent en actions concrètes, parfois à un certain coût.
+
+**Israël et la Palestine.** La Malaisie n'a jamais reconnu Israël et n'entretient aucune relation diplomatique avec lui ; le passeport malaisien précise qu'il est valable *pour tous les pays sauf Israël*. En revanche, la Malaisie reconnaît la Palestine comme un État souverain, et sa position est que toute reconnaissance d'Israël dépend du retrait d'Israël des territoires palestiniens occupés ainsi que de l'établissement d'un État palestinien dans les frontières d'avant 1967, avec Jérusalem-Est pour capitale. En décembre 2023, le Premier ministre Anwar Ibrahim a déclaré que tous les navires battant pavillon israélien étaient interdits d'accostage dans les ports malaisiens.
+
+**L'équilibre Chine–États-Unis.** La Malaisie a établi des relations diplomatiques avec la République populaire de Chine le 31 mai 1974 — le premier pays de l'ASEAN à le faire, lorsque le Premier ministre Tun Abdul Razak et le Premier ministre Zhou Enlai ont signé un communiqué conjoint à Pékin. Depuis lors, la Malaisie pratique une équidistance délibérée : renforcer les liens économiques avec Pékin tout en gardant la porte ouverte à Washington et à d'autres pays, sans transformer le commerce en une alliance permanente. La Chine est restée le plus grand partenaire commercial de la Malaisie pour la 16e année consécutive en 2024 (rang détenu depuis 2009), selon le Département des statistiques de la Malaisie. C'est la doctrine du non-alignement sous sa forme moderne — l'engagement sans l'enfermement.
+
+Au-delà de l'ASEAN, cette position de non-alignement passe aussi par un vaste réseau d'adhésions multilatérales — les Nations unies (adhésion en 1957), [l'Organisation de la coopération islamique, le Commonwealth et le Mouvement des pays non alignés](/fr/international/malaysia-oic-commonwealth-nam-membership) — avec des relations diplomatiques officielles avec 189 pays.
 
 ## Quelles sont les idées fausses les plus courantes sur la politique étrangère de la Malaisie ?
 

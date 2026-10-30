@@ -41,7 +41,7 @@ faq:
 lang: "en"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "40747e3f92b37352"
+sourceContentHash: "669255c561437b72"
 
 status: "published"
 aiAssisted: true
@@ -279,6 +279,14 @@ Because so many of the country's financial functions are gathered under one mini
 - **Capital market investment, broker complaints** → Securities Commission Malaysia.
 - **Monetary policy, interest rates, banking regulation** → Bank Negara Malaysia.
 - **Overall Budget and fiscal policy** → Ministry of Finance (Treasury).
+
+## What is the Minister of Finance (Incorporated) (MOF Inc)?
+
+The Minister of Finance (Incorporated) (MOF Inc) is a body corporate in the name of the Minister of Finance, established under the Minister of Finance (Incorporation) Act 1957. It may enter into contracts, carry out procurement, and hold tangible and intangible assets on behalf of the government. MOF Inc is the legal vehicle that enables the federal government to own commercial assets, and it is distinct from the day-to-day administration of the ministry.
+
+## Is "MOF registration" the same as the Ministry?
+
+No — and this is a confusion that often goes unanswered. **ePerolehan** is Malaysia's e-procurement portal operated by the Ministry of Finance, where suppliers register to do business with the government. The **Basic Account** for Malaysian citizens covers transactions up to RM20,000, free of charge; the **MOF Account** covers transactions of RM20,000 and above, divided into the Contractor and Consultant categories. The MOF Account costs **RM450** for a new registration or renewal, valid for **3 years**. So the "MOF licence" a business needs is actually supplier registration through ePerolehan — not a matter for the ministry's policy office.
 
 ## Common mistakes
 

@@ -39,7 +39,7 @@ faq:
     a: "Rang Undang-Undang Perbekalan adalah uji kepercayaan keuangan terhadap pemerintah. Karena ia rang undang-undang wang, ia harus bermula di Dewan Rakyat dan hanya dapat dibawa oleh seorang Menteri. Jika Dewan Rakyat menolak peruntukan pemerintah, itu lazimnya ditafsirkan sebagai kehilangan kepercayaan mayoritas — lihat kuasa keuangan Dewan Rakyat di bawah Pasal 67 dan 68 Konstitusi Federal."
 
 lang: "id"
-sourceContentHash: "40747e3f92b37352"
+sourceContentHash: "669255c561437b72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -279,6 +279,14 @@ Karena begitu banyak fungsi keuangan negara berkumpul di bawah satu kementerian,
 - **Investasi pasar modal, aduan broker** → Suruhanjaya Sekuriti Malaysia.
 - **Kebijakan moneter, suku bunga, regulasi bank** → Bank Negara Malaysia.
 - **Kebijakan Belanjawan dan fiskal keseluruhan** → Kementerian Kewangan (Perbendaharaan).
+
+## Apakah Menteri Kewangan Diperbadankan (MOF Inc)?
+
+Menteri Kewangan Diperbadankan (*Minister of Finance (Incorporated)*, MOF Inc) adalah sebuah badan korporat atas nama Menteri Kewangan, dibentuk di bawah Akta Menteri Kewangan (Pemerbadanan) 1957. Ia dapat membuat kontrak, melakukan pengadaan, serta memegang aset berwujud dan tidak berwujud bagi pihak pemerintah. MOF Inc adalah wahana hukum yang membolehkan pemerintah federal memiliki aset komersial, dan ia berbeda dari administrasi harian kementerian.
+
+## Apakah "pendaftaran MOF" sama dengan Kementerian?
+
+Tidak — dan inilah kekeliruan yang kerap tidak terjawab. **ePerolehan** adalah portal e-pengadaan Malaysia yang dikelola oleh Kementerian Kewangan, tempat pemasok mendaftar untuk berurus niaga dengan pemerintah. **Akaun Asas** untuk warga negara Malaysia mencakup transaksi hingga RM20,000, tanpa biaya; **Akaun MOF** mencakup transaksi RM20,000 ke atas, terbagi menjadi kategori Kontraktor dan Konsultan. Akaun MOF berharga **RM450** bagi pendaftaran baru atau pembaruan, berlaku selama **3 tahun**. Jadi "lisensi MOF" yang diperlukan suatu bisnis sebenarnya adalah pendaftaran pemasok melalui ePerolehan — bukan urusan kantor kebijakan kementerian.
 
 ## Kesalahan lazim
 

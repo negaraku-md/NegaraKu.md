@@ -37,7 +37,7 @@ faq:
     a: "ASEAN is the cornerstone or foundation of Malaysia's foreign policy. Malaysia is one of ASEAN's founding countries and consistently prioritises ASEAN's integrity and centrality, while remaining active in other forums such as the United Nations (UN), the Organisation of Islamic Cooperation (OIC) and the Non-Aligned Movement (NAM)."
 
 lang: "en"
-sourceContentHash: "4cb0c08e4d974a16"
+sourceContentHash: "500f0f356d6c239e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -193,6 +193,16 @@ No official formula has been published, but the pattern of Malaysia's foreign-po
 4. **Can it be managed collectively?** If so, Malaysia prefers to act through ASEAN or multilateral forums rather than alone, because a collective voice is stronger and less risky.
 
 This framework explains something that seems contradictory: how Malaysia can be neutral between great powers yet outspoken on issues of principle. Both flow from the same logic — protecting the interests of an open country while staying loyal to its declared values.
+
+## Where does Malaysia's foreign policy become real?
+
+Principles are easy to state but hard to test. Two current positions show where Malaysia's declared values are translated into concrete action, sometimes at a cost.
+
+**Israel and Palestine.** Malaysia has never recognised Israel and has no diplomatic relations with it; the Malaysian passport states that it is valid *for all countries except Israel*. Conversely, Malaysia recognises Palestine as a sovereign state, and its position is that any recognition of Israel depends on Israel's withdrawal from the occupied Palestinian territories and the establishment of a Palestinian state within the pre-1967 borders, with East Jerusalem as its capital. In December 2023, Prime Minister Anwar Ibrahim declared that all Israeli-flagged ships are barred from docking at Malaysian ports.
+
+**The China–US balance.** Malaysia established diplomatic relations with the People's Republic of China on 31 May 1974 — the first ASEAN country to do so, when Prime Minister Tun Abdul Razak and Premier Zhou Enlai signed a Joint Communiqué in Beijing. Since then Malaysia has practised a deliberate equidistance: strengthening economic ties with Beijing while keeping the door open to Washington and other countries, without turning trade into a fixed alliance. China remained Malaysia's largest trading partner for the 16th consecutive year in 2024 (a position held since 2009), according to the Department of Statistics Malaysia. This is the non-alignment doctrine in its modern form — engagement without entrapment.
+
+Beyond ASEAN, this non-aligned stance is also channelled through a broad network of multilateral memberships — the United Nations (joined in 1957), [the Organisation of Islamic Cooperation, the Commonwealth and the Non-Aligned Movement](/en/international/malaysia-oic-commonwealth-nam-membership) — with formal diplomatic relations with 189 countries.
 
 ## What are the most common misconceptions about Malaysia's foreign policy?
 

@@ -39,7 +39,7 @@ faq:
     a: "El Supply Bill es una prueba de confianza financiera en el gobierno. Como es un proyecto de ley de carácter financiero, debe originarse en el Dewan Rakyat y solo puede presentarlo un Ministro. Si el Dewan Rakyat rechaza la asignación del gobierno, eso se interpreta convencionalmente como una pérdida de la confianza mayoritaria — véanse las facultades financieras del Dewan Rakyat en virtud de los Artículos 67 y 68 de la Constitución Federal."
 
 lang: "es"
-sourceContentHash: "40747e3f92b37352"
+sourceContentHash: "669255c561437b72"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -279,6 +279,14 @@ Dado que tantas de las funciones financieras del país se reúnen bajo un solo m
 - **Inversión en el mercado de capitales, quejas sobre corredores** → Comisión de Valores de Malasia.
 - **Política monetaria, tipos de interés, regulación bancaria** → Bank Negara Malaysia.
 - **Presupuesto general y política fiscal** → Ministerio de Finanzas (Tesoro).
+
+## ¿Qué es el Ministro de Finanzas (Incorporado) (MOF Inc)?
+
+El Ministro de Finanzas (Incorporado) (*Minister of Finance (Incorporated)*, MOF Inc) es un ente corporativo a nombre del Ministro de Finanzas, creado en virtud de la Minister of Finance (Incorporation) Act 1957. Puede celebrar contratos, realizar adquisiciones y poseer activos tangibles e intangibles en nombre del gobierno. MOF Inc es el vehículo jurídico que permite al gobierno federal poseer activos comerciales, y es distinto de la administración diaria del ministerio.
+
+## ¿Es el «registro MOF» lo mismo que el Ministerio?
+
+No — y esta es una confusión que a menudo queda sin resolver. **ePerolehan** es el portal de contratación electrónica de Malasia gestionado por el Ministerio de Finanzas, donde los proveedores se registran para hacer negocios con el gobierno. La **Cuenta Básica** (Akaun Asas) para los ciudadanos malasios abarca transacciones de hasta RM20,000, sin cargo; la **Cuenta MOF** (Akaun MOF) abarca transacciones de RM20,000 en adelante, dividida en las categorías de Contratista y Consultor. La Cuenta MOF cuesta **RM450** por registro nuevo o renovación, válida durante **3 años**. Así que la «licencia MOF» que necesita un negocio es en realidad el registro de proveedor a través de ePerolehan — no un trámite de la oficina de política del ministerio.
 
 ## Errores comunes
 

@@ -41,7 +41,7 @@ faq:
 lang: "zh"
 masterLanguage: "ms"
 translationStatus: "in-sync"
-sourceContentHash: "40747e3f92b37352"
+sourceContentHash: "669255c561437b72"
 
 status: "published"
 aiAssisted: true
@@ -279,6 +279,14 @@ keywords: ["Kementerian Kewangan Malaysia", "Ministry of Finance Malaysia", "Per
 - **资本市场投资、经纪投诉** → 马来西亚证券委员会。
 - **货币政策、利率、银行监管** → 马来西亚国家银行。
 - **整体预算与财政政策** → 财政部（国库）。
+
+## 什么是财政部长（法团）（MOF Inc）？
+
+财政部长（法团）（*Minister of Finance (Incorporated)*，MOF Inc）是以财政部长名义设立的一个法人团体，依据《1957年财政部长（法团化）法令》成立。它可以订立合约、进行采购，并代表政府持有有形与无形资产。MOF Inc 是让联邦政府得以拥有商业资产的法律载体，有别于该部的日常行政。
+
+## 「MOF 注册」与财政部是同一回事吗？
+
+不是——而这正是常常得不到解答的困惑。**ePerolehan（电子采购）** 是由财政部运营的马来西亚电子采购门户，供应商在此注册以便与政府交易。供马来西亚公民使用的**基本账户（Akaun Asas）**涵盖高达 RM20,000 的交易，免费；**MOF 账户（Akaun MOF）**涵盖 RM20,000 及以上的交易，分为承包商（Kontraktor）与顾问（Perunding）两类。MOF 账户新注册或续约收费 **RM450**，有效期 **3 年**。因此，一家企业所需的「MOF 执照」其实是通过 ePerolehan 进行的供应商注册——而非该部政策办公室的事务。
 
 ## 常见误解
 

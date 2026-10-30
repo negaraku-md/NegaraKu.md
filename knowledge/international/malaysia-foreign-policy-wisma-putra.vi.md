@@ -37,7 +37,7 @@ faq:
     a: "ASEAN là trụ cột hay nền tảng của chính sách đối ngoại Malaysia. Malaysia là một trong những quốc gia sáng lập ASEAN và luôn ưu tiên sự bền vững cũng như vị trí trung tâm (centrality) của ASEAN, đồng thời tích cực trong các diễn đàn khác như Liên Hợp Quốc (UN), Tổ chức Hợp tác Hồi giáo (OIC) và Phong trào Không Liên kết (NAM)."
 
 lang: "vi"
-sourceContentHash: "4cb0c08e4d974a16"
+sourceContentHash: "500f0f356d6c239e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
@@ -193,6 +193,16 @@ Không có công thức chính thức nào được công bố, nhưng mô thứ
 4. **Nó có thể được quản lý một cách tập thể không?** Nếu có thể, Malaysia thích hành động thông qua ASEAN hoặc các diễn đàn đa phương hơn là đơn độc, vì tiếng nói tập thể mạnh hơn và ít rủi ro hơn.
 
 Khung này giải thích một điều thoạt trông có vẻ mâu thuẫn: làm thế nào Malaysia có thể trung lập giữa các cường quốc nhưng lại lớn tiếng về các vấn đề nguyên tắc. Cả hai đều xuất phát từ cùng một logic — bảo vệ lợi ích của một quốc gia mở trong khi vẫn trung thành với các giá trị đã tuyên bố.
+
+## Chính sách đối ngoại của Malaysia trở thành hiện thực ở đâu?
+
+Nguyên tắc thì dễ nêu nhưng khó thử nghiệm. Hai lập trường hiện tại cho thấy nơi những giá trị mà Malaysia đã tuyên bố được chuyển thành hành động cụ thể, đôi khi có cái giá của nó.
+
+**Israel và Palestine.** Malaysia chưa bao giờ công nhận Israel và không có quan hệ ngoại giao với nước này; hộ chiếu Malaysia ghi rằng nó có giá trị *cho tất cả các quốc gia trừ Israel*. Ngược lại, Malaysia công nhận Palestine là một quốc gia có chủ quyền, và lập trường của nó là bất kỳ sự công nhận Israel nào cũng phụ thuộc vào việc Israel rút khỏi các vùng lãnh thổ Palestine bị chiếm đóng cũng như việc thành lập một nhà nước Palestine trong các đường biên giới trước năm 1967, với Đông Jerusalem làm thủ đô của nó. Vào tháng 12 năm 2023, Thủ tướng Anwar Ibrahim tuyên bố tất cả các tàu mang cờ Israel bị cấm cập cảng Malaysia.
+
+**Sự cân bằng China–Hoa Kỳ.** Malaysia thiết lập quan hệ ngoại giao với Cộng hòa Nhân dân Trung Hoa vào ngày 31 tháng 5 năm 1974 — quốc gia ASEAN đầu tiên làm như vậy, khi Thủ tướng Tun Abdul Razak và Thủ tướng Chu Ân Lai ký Thông cáo Chung tại Bắc Kinh. Kể từ đó Malaysia thực hành một sự cách đều có chủ ý: củng cố quan hệ kinh tế với Bắc Kinh trong khi vẫn để ngỏ cánh cửa với Washington và các quốc gia khác, mà không biến thương mại thành một liên minh cố định. China vẫn là đối tác thương mại lớn nhất của Malaysia năm thứ 16 liên tiếp vào năm 2024 (vị trí được giữ từ năm 2009), theo Cục Thống kê Malaysia. Đây chính là học thuyết không liên kết dưới hình thức hiện đại của nó — can dự mà không bị mắc kẹt.
+
+Ngoài ASEAN, lập trường không liên kết này cũng được truyền tải qua một mạng lưới rộng lớn các tư cách thành viên đa phương — Liên Hợp Quốc (gia nhập năm 1957), [Tổ chức Hợp tác Hồi giáo, Khối Thịnh vượng chung và Phong trào Không Liên kết](/vi/international/malaysia-oic-commonwealth-nam-membership) — với quan hệ ngoại giao chính thức với 189 quốc gia.
 
 ## Những hiểu lầm phổ biến nhất về chính sách đối ngoại của Malaysia là gì?
 
