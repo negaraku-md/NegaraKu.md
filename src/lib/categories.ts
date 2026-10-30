@@ -1072,6 +1072,25 @@ export function categoriesInPillar(pillar: Pillar, onlyLaunched = true): Categor
   return CATEGORIES.filter((c) => c.pillar === pillar && (!onlyLaunched || c.launch));
 }
 
+/**
+ * Categories "featured" in a pillar's navigation although homed in another pillar
+ * — so a reader of that pillar can discover them. e.g. Law (home: Understand) and
+ * Property (home: Living) are essential to Doing Business. Display-only: it does
+ * NOT change an article's own pillar (getPillar) or the other category listings.
+ */
+export const PILLAR_GUEST_CATEGORIES: Partial<Record<Pillar, string[]>> = {
+  'doing-business': ['law', 'property'],
+};
+
+/** A pillar's own categories plus its featured guests — for the pillar/nav grid. */
+export function pillarGridCategories(pillar: Pillar, onlyLaunched = true): Category[] {
+  const own = categoriesInPillar(pillar, onlyLaunched);
+  const guests = (PILLAR_GUEST_CATEGORIES[pillar] ?? [])
+    .map((id) => getCategory(id))
+    .filter((c): c is Category => !!c && c.pillar !== pillar && (!onlyLaunched || c.launch));
+  return [...own, ...guests];
+}
+
 export function categoriesWithArchetype(a: Archetype, onlyLaunched = true): Category[] {
   return CATEGORIES.filter((c) => c.archetype === a && (!onlyLaunched || c.launch));
 }

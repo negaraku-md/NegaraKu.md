@@ -1,6 +1,6 @@
 ---
 import type { Locale, Pillar } from '@/lib/categories';
-import { categoriesInPillar, PILLARS, getPillar, getCategoryColor, getPillarColor, loc } from '@/lib/categories';
+import { categoriesInPillar, pillarGridCategories, PILLARS, getPillar, getCategoryColor, getPillarColor, loc } from '@/lib/categories';
 import { articlesForLocale } from '@/lib/content';
 import { orderedSubcats, subcatLabel } from '@/lib/subcategories';
 import { localePath } from '@/lib/i18n';
@@ -24,7 +24,7 @@ interface Props {
 const { locale, pillar, activeCategory, categoryId, activeTopic, topSeparator } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
-const cats = categoriesInPillar(pillar);
+const cats = pillarGridCategories(pillar);
 const items = await articlesForLocale(locale);
 const catCounts: Record<string, number> = {};
 const sectionCounts: Record<string, number> = {};
