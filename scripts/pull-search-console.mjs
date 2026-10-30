@@ -64,6 +64,22 @@ async function query(token, body) {
   return j.rows || [];
 }
 
+// Paginate a query to completeness. GSC caps rowLimit at 25000 per request, so a
+// single fixed limit silently truncates large result sets — e.g. a 1000-row page
+// pull over a ~15k-page corpus captured only the top 1000 pages by traffic, which
+// made the byCategory/byLang aggregates sum to roughly half of the real totals.
+// This walks startRow until a short page comes back (or the safety cap is hit).
+async function queryAll(token, body, cap = 200000) {
+  const PAGE = 25000;
+  const out = [];
+  for (let startRow = 0; startRow < cap; startRow += PAGE) {
+    const rows = await query(token, { ...body, rowLimit: PAGE, startRow });
+    out.push(...rows);
+    if (rows.length < PAGE) break;
+  }
+  return out;
+}
+
 // Non-default locale prefixes the site serves (ms is the default at "/"). Keep in
 // sync with i18n LOCALES. `ta` was missing here, so Tamil URLs mis-parsed.
 const URL_LOCALES = ['en', 'zh', 'ta', 'ja', 'ko', 'th', 'vi', 'id', 'ar', 'hi', 'es', 'fr'];
@@ -116,7 +132,9 @@ async function main() {
     token = await accessToken(sa);
     [byDate, byPage, byQuery, totalsRows] = await Promise.all([
       query(token, { startDate: start16mo, endDate: end, dimensions: ['date'], rowLimit: 500 }),
-      query(token, { startDate: start90, endDate: end, dimensions: ['page'], rowLimit: 1000 }),
+      // Paginated to completeness — byPage feeds the byCategory/byLang aggregates,
+      // so a truncated pull undercounts every per-category/per-language total.
+      queryAll(token, { startDate: start90, endDate: end, dimensions: ['page'] }),
       query(token, { startDate: start90, endDate: end, dimensions: ['query'], rowLimit: 1000 }),
       query(token, { startDate: start90, endDate: end, rowLimit: 1 }),
     ]);
@@ -241,7 +259,9 @@ async function main() {
   };
   await mkdir(path.dirname(OUT), { recursive: true });
   await writeFile(OUT, JSON.stringify(snapshot, null, 2) + '\n', 'utf8');
-  console.log(`[gsc] wrote ${path.relative(ROOT, OUT)} — 90d: ${totals.clicks} clicks · ${totals.impressions} impressions · pos ${totals.position}; ${topQueries.length} top queries, ${nearMisses.length} near-miss rows; ${Object.keys(byMonth).length} month(s) archived.`);
+  const splitImp = Object.values(byCategory).reduce((s, c) => s + c.impressions, 0);
+  const coverage = totals.impressions ? Math.round((100 * splitImp) / totals.impressions) : 0;
+  console.log(`[gsc] wrote ${path.relative(ROOT, OUT)} — 90d: ${totals.clicks} clicks · ${totals.impressions} impressions · pos ${totals.position}; ${byPage.length} pages (byCategory covers ${coverage}% of impressions), ${topQueries.length} top queries, ${nearMisses.length} near-miss rows; ${Object.keys(byMonth).length} month(s) archived.`);
 }
 
 main().catch((e) => { console.warn('[gsc] unexpected error, snapshot unchanged:', e.message); });
