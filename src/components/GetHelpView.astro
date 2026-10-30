@@ -3,6 +3,7 @@
 // UTM-tagged. Reuses the sponsors.ts data model so copy stays in one place.
 import type { Locale } from '@/lib/categories';
 import { SPONSORS, sponsorUrl } from '@/lib/sponsors';
+import { localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
 interface Props { locale: Locale }
@@ -34,7 +35,12 @@ const cards = [SPONSORS['1company'], SPONSORS['1financing']].filter(Boolean).map
 }));
 ---
 
-<PageHero locale={locale} title={title} description={intro} />
+<PageHero
+  locale={locale}
+  crumb={[{ label: L('Laman Utama', 'Home', '首页', 'முகப்பு', 'ホーム', '홈', 'หน้าแรก', 'Trang chủ', 'Beranda', 'الصفحة الرئيسية', 'होम', 'Inicio', 'Accueil'), href: localePath('/', locale) }, { label: title }]}
+  title={title}
+  desc={intro}
+/>
 
 <section class="container block gethelp" data-pagefind-ignore>
   <p class="gh-disc">{disclosure}</p>
