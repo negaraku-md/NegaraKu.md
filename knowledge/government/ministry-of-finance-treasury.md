@@ -279,6 +279,14 @@ Kerana begitu banyak fungsi kewangan negara berkumpul di bawah satu kementerian,
 - **Dasar monetari, kadar faedah, kawal selia bank** → Bank Negara Malaysia.
 - **Dasar Belanjawan dan fiskal keseluruhan** → Kementerian Kewangan (Perbendaharaan).
 
+## Apakah Menteri Kewangan Diperbadankan (MOF Inc)?
+
+Menteri Kewangan Diperbadankan (*Minister of Finance (Incorporated)*, MOF Inc) ialah sebuah badan korporat atas nama Menteri Kewangan, ditubuhkan di bawah Akta Menteri Kewangan (Pemerbadanan) 1957. Ia boleh membuat kontrak, melakukan perolehan, serta memegang aset ketara dan tidak ketara bagi pihak kerajaan. MOF Inc ialah wahana undang-undang yang membolehkan kerajaan persekutuan memiliki aset komersial, dan ia berbeza daripada pentadbiran harian kementerian.
+
+## Adakah "pendaftaran MOF" sama dengan Kementerian?
+
+Tidak — dan inilah kekeliruan yang kerap tidak terjawab. **ePerolehan** ialah portal e-perolehan Malaysia yang dikendalikan oleh Kementerian Kewangan, tempat pembekal mendaftar untuk berurus niaga dengan kerajaan. **Akaun Asas** untuk warganegara Malaysia meliputi transaksi sehingga RM20,000, tanpa bayaran; **Akaun MOF** meliputi transaksi RM20,000 ke atas, terbahagi kepada kategori Kontraktor dan Perunding. Akaun MOF berharga **RM450** bagi pendaftaran baharu atau pembaharuan, sah selama **3 tahun**. Jadi "lesen MOF" yang diperlukan sesebuah perniagaan sebenarnya ialah pendaftaran pembekal melalui ePerolehan — bukan urusan pejabat dasar kementerian.
+
 ## Kesilapan lazim
 
 **"Kementerian Kewangan mengutip cukai."** Kementerian menetapkan dasar cukai, tetapi kutipan dilakukan oleh agensi di bawahnya — LHDN untuk cukai langsung dan Kastam untuk cukai tidak langsung. Menghantar pertanyaan cukai kepada kementerian akan hanya dihalakan semula.

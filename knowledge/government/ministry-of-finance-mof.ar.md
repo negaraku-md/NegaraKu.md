@@ -30,7 +30,7 @@ lang: "ar"
 sourceContentHash: "d725c73359a7391e"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "published"
+status: "archived"
 aiAssisted: true
 reviewer: null
 reviewed: "2026-08-14"
