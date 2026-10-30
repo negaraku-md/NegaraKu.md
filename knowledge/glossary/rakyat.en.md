@@ -1,7 +1,7 @@
 ---
 topicId: MY-GLO-0030
 title: "Rakyat: why Malaysia has two words for 'the people' — and another for 'citizen'"
-seoTitle: 'Rakyat: why Malaysia has two words for ''the people'''
+seoTitle: "Rakyat in English: meaning — 'the people' / populace"
 slug: "rakyat"
 category: "glossary"
 subcategory: ["government"]

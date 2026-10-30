@@ -1,7 +1,7 @@
 ---
 topicId: MY-STA-0014
 title: "Putrajaya: pusat pentadbiran persekutuan yang bukan sebuah negeri"
-seoTitle: 'Putrajaya: pusat pentadbiran persekutuan, bukan negeri'
+seoTitle: "Putrajaya Negeri Mana? Wilayah Persekutuan (Bukan Negeri)"
 slug: "putrajaya"
 category: "states"
 subcategory: ["territories"]

@@ -10,7 +10,7 @@ tier: "S"
 mode: "practical"
 contentType: "place"
 
-seoTitle: "森美兰：玻璃甲习俗（Adat Perpatih）与最高元首（Yang di-Pertuan Besar）"
+seoTitle: "Adat Perpatih是什么意思？森美兰的母系习俗与最高元首"
 
 answer: "森美兰是马来西亚半岛西海岸的一个州属，首府为芝兰镇（Seremban），下辖七个行政县。该州的州元首称号为最高元首（Yang di-Pertuan Besar），而非苏丹（Sultan），此职位是依据玻璃甲习俗（Adat Perpatih）与《1959年森美兰州宪法》（Undang-Undang Tubuh Kerajaan Negeri Sembilan 1959）由四位酋长（Undang Yang Empat）推选产生——有别于大多数其他马来州属的直接世袭制。该州也奉行玻璃甲习俗，一种源自米南加保（Minangkabau）的母系习俗制度。"
 keyTakeaways:

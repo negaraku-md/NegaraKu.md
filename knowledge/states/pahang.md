@@ -10,7 +10,7 @@ tier: "S"
 mode: "practical"
 contentType: "place"
 
-seoTitle: "Pahang: keluasan, penduduk, ekonomi & Taman Negara"
+seoTitle: "Keluasan Pahang: Negeri Terluas Semenanjung & Penduduk"
 
 answer: "Pahang ialah negeri terbesar di Semenanjung Malaysia dengan keluasan 35,965 kilometer persegi dan 11 daerah pentadbiran. Ibu negerinya ialah Kuantan dan bandar dirajanya ialah Pekan; ketua negeri bergelar Sultan Pahang. Penduduknya dianggarkan 1.68 juta orang pada 2025 — hanya 4.9 peratus daripada penduduk Malaysia — memberikan kepadatan 46 orang bagi setiap kilometer persegi, kedua terendah di negara ini selepas Sarawak. Ekonominya bernilai RM71.0 bilion pada 2025, dengan sektor pertanian menyumbang bahagian terbesar berbanding mana-mana negeri lain."
 keyTakeaways:

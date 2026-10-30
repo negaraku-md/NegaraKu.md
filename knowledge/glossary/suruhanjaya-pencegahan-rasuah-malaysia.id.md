@@ -1,7 +1,7 @@
 ---
 topicId: MY-GLO-0047
 title: "Komisi Pencegahan Korupsi Malaysia (SPRM / MACC)"
-seoTitle: "SPRM / MACC — Komisi Pencegahan Korupsi Malaysia"
+seoTitle: "SPRM adalah: Komisi Pencegahan Korupsi Malaysia (MACC)"
 slug: "suruhanjaya-pencegahan-rasuah-malaysia"
 category: "glossary"
 subcategory: ["governance"]

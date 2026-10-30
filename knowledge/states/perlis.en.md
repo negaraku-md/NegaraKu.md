@@ -1,7 +1,7 @@
 ---
 topicId: MY-STA-0012
 title: "Perlis: Malaysia's smallest state, and the only one headed by a Raja"
-seoTitle: 'Perlis: Malaysia''s smallest state, ruled by a Raja'
+seoTitle: "Smallest State in Malaysia: Perlis (ruled by a Raja)"
 slug: "perlis"
 category: "states"
 subcategory: ["peninsular"]

@@ -1,7 +1,7 @@
 ---
 topicId: MY-ART-0064
 title: "马来西亚传统乐器"
-seoTitle: "马来西亚传统乐器：手鼓（Kompang）、鼓（Gendang）、唢呐（Serunai）、沙贝琴（Sape）"
+seoTitle: "Kompang是什么？马来西亚传统乐器一览"
 slug: "traditional-musical-instruments"
 category: "arts-culture"
 subcategory: ["music"]

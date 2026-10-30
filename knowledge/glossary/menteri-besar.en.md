@@ -20,7 +20,7 @@ keyTakeaways:
   - "Sarawak has used the title Premier since 1 March 2022, after an amendment to the Sarawak State Constitution was passed on 15 February 2022"
 appliesTo: "Anyone who needs to understand the structure of Malaysian state government — law and political science students, journalists, civil servants, drafters of official documents, and general readers confused by the difference in titles."
 
-seoTitle: "Menteri Besar vs Chief Minister: the difference and the appointment process"
+seoTitle: "Menteri Besar in English: Chief Minister (and the Difference)"
 
 verificationNeeded:
   - "Additional eligibility requirements for a Menteri Besar (for example, requirements relating to race and religion) sit in the respective state constitutions, not in the Federal Constitution. The official text of several states' Undang-Undang Tubuh (state constitution) was available only as scanned images as at the date of this draft, so no state clause is quoted here. Verify against each state's official printed copy before stating a specific requirement."

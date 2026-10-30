@@ -1,6 +1,7 @@
 ---
 topicId: MY-HIS-0032
 title: "말레이시아의 국어, 그리고 그 곁에서 쓰이는 수많은 다른 언어들"
+seoTitle: "말레이시아 언어: 국어와 함께 쓰이는 여러 언어"
 slug: "languages-spoken"
 category: "malaysia"
 subcategory: ["demographics"]

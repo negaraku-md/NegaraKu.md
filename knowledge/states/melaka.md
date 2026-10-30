@@ -10,7 +10,7 @@ tier: "4"
 mode: "practical"
 contentType: "place"
 
-seoTitle: "Melaka: Yang di-Pertua Negeri, Warisan UNESCO & Ekonomi"
+seoTitle: "Ibu Negeri Melaka: Bandaraya Melaka & Warisan UNESCO"
 
 answer: "Melaka ialah negeri di pantai barat Semenanjung Malaysia dengan ibu negeri Bandaraya Melaka dan tiga daerah pentadbiran — Melaka Tengah, Alor Gajah dan Jasin. Ketua negerinya bergelar Yang di-Pertua Negeri, bukan Sultan: jawatan itu dilantik oleh Yang di-Pertuan Agong bagi tempoh empat tahun di bawah seksyen 19A Jadual Kelapan Perlembagaan Persekutuan, dan bukan diwarisi. Bandaraya Melaka disenaraikan bersama George Town sebagai Tapak Warisan Dunia UNESCO pada 2008 di bawah kriteria (ii), (iii) dan (iv) kerana lapisan warisan kesultanan Melayu, Portugis dan Belanda yang masih kekal."
 keyTakeaways:

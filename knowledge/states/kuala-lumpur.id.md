@@ -1,6 +1,7 @@
 ---
 topicId: MY-ST-0002
 title: "Kuala Lumpur"
+seoTitle: "Luas Kuala Lumpur: Wilayah Persekutuan & Ibu Kota Malaysia"
 slug: "kuala-lumpur"
 category: "states"
 subcategory: ["peninsular"]

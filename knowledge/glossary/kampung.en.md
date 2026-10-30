@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0012
 title: "Kampung"
+seoTitle: "Kampung & Ketua Kampung in English: Village & Village Head"
 slug: "kampung"
 category: "glossary"
 subcategory: ["culture"]

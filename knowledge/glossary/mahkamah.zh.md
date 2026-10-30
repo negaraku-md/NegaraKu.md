@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0031
 title: "Mahkamah——司法机构用语及其在马来西亚的审级概览"
+seoTitle: "Mahkamah是什么意思？马来西亚法院体系"
 slug: "mahkamah"
 category: "glossary"
 subcategory: ["legal"]

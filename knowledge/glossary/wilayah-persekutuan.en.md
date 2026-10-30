@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0008
 title: "Wilayah Persekutuan"
+seoTitle: "Wilayah Persekutuan in English: Federal Territory"
 slug: "wilayah-persekutuan"
 category: "glossary"
 subcategory: ["government"]

@@ -1,6 +1,7 @@
 ---
 topicId: MY-GLO-0024
 title: "Syariah——马来西亚体系中作为州事务的伊斯兰法"
+seoTitle: "Syariah是什么意思？马来西亚的伊斯兰法（州事务）"
 slug: "syariah"
 category: "glossary"
 subcategory: ["legal"]

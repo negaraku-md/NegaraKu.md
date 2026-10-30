@@ -10,7 +10,7 @@ tier: "S"
 mode: "practical"
 contentType: "place"
 
-seoTitle: "Pahang: area, population, economy & Taman Negara"
+seoTitle: "Pahang: Population, Size & Largest State in Peninsular Malaysia"
 
 answer: "Pahang is the largest state in Peninsular Malaysia with an area of 35,965 square kilometres and 11 administrative districts. Its state capital is Kuantan and its royal town is Pekan; the head of state holds the title Sultan of Pahang. Its population is estimated at 1.68 million people in 2025 — only 4.9 percent of Malaysia's population — giving a density of 46 people per square kilometre, the second-lowest in the country after Sarawak. Its economy was worth RM71.0 billion in 2025, with the agriculture sector contributing the largest share compared to any other state."
 keyTakeaways:
