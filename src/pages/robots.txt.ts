@@ -24,6 +24,16 @@ const AI_AGENTS = [
   'DuckAssistBot',
 ];
 
+// Search engines (discovery value) explicitly allowed. PetalBot is Huawei's
+// Petal Search crawler — a real search engine (Huawei devices have no Google
+// services) with reach in the Chinese/Huawei ecosystem and emerging markets.
+// Allowing it serves the "let the world know Malaysia" goal into the
+// Chinese-speaking world without Baidu's ICP/GFW friction. (Baiduspider itself
+// is already covered by the `*` group above.)
+const SEARCH_ENGINES = [
+  'PetalBot',
+];
+
 // Backlink / SEO-index crawlers with no discovery value here (they feed
 // third-party SEO databases). Disallowed to reclaim bandwidth.
 const SEO_SCRAPERS = [
@@ -33,7 +43,6 @@ const SEO_SCRAPERS = [
   'DotBot',
   'BLEXBot',
   'DataForSeoBot',
-  'PetalBot',
 ];
 
 // Vulnerability-scanner probe paths. This is a static Astro build — no PHP, no
@@ -86,6 +95,12 @@ export const GET: APIRoute = () => {
 
   // Named AI agents, explicitly allowed (some operators only honour named rules).
   for (const ua of AI_AGENTS) {
+    lines.push(`User-agent: ${ua}`, 'Allow: /', '');
+  }
+
+  // Named search engines, explicitly allowed (same reason — some only honour
+  // named rules, and this overrides the WAF scraper block for them).
+  for (const ua of SEARCH_ENGINES) {
     lines.push(`User-agent: ${ua}`, 'Allow: /', '');
   }
 
