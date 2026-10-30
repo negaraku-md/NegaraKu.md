@@ -1,0 +1,74 @@
+name: Publish Kaggle dataset
+
+# Mirrors the knowledge corpus to a Kaggle dataset (data-science discovery +
+# a Google Dataset Search node + a provenance backlink to negaraku.md). Reuses
+# the Hugging Face export's output so the two mirrors never drift. Refreshes
+# whenever content changes, plus a weekly self-healing run.
+#
+# Requires:
+#   secret  KAGGLE_KEY        a Kaggle API key (from kaggle.json)
+#   var     KAGGLE_USERNAME   the Kaggle account that owns the dataset
+# Without KAGGLE_KEY the publish step is skipped, not failed (same as HF_TOKEN).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'knowledge/**'
+      - 'scripts/export-hf-dataset.mjs'
+      - 'scripts/export-kaggle-dataset.mjs'
+      - '.github/workflows/kaggle-dataset.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '41 2 * * 1' # weekly, Mondays 02:41 UTC (:41 so GitHub doesn't drop it)
+
+concurrency:
+  group: kaggle-dataset
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Export dataset (dataset/data/*.jsonl + README) then flatten for Kaggle
+        env:
+          KAGGLE_USERNAME: ${{ vars.KAGGLE_USERNAME }}
+        run: |
+          node scripts/export-hf-dataset.mjs
+          node scripts/export-kaggle-dataset.mjs
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install --upgrade kaggle
+
+      - name: Publish to Kaggle (create on first run, version after)
+        env:
+          KAGGLE_USERNAME: ${{ vars.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+          KAGGLE_SLUG: negaraku-md
+        run: |
+          if [ -z "$KAGGLE_KEY" ] || [ -z "$KAGGLE_USERNAME" ]; then
+            echo "::warning::KAGGLE_KEY secret or KAGGLE_USERNAME var not set — skipping publish. Add them in repo Settings to enable."
+            exit 0
+          fi
+          msg="Refresh from negaraku.md ($(date -u +%Y-%m-%d))"
+          # Try to version an existing dataset; if it does not exist yet, create it.
+          if kaggle datasets version -p kaggle -m "$msg" 2> kaggle-err.log; then
+            echo "Updated existing dataset."
+          elif grep -qiE "not found|does not exist|404|could not find" kaggle-err.log; then
+            echo "Dataset not found — creating it (public) for the first time."
+            kaggle datasets create -p kaggle --public
+          else
+            echo "::error::Kaggle publish failed:"; cat kaggle-err.log; exit 1
+          fi

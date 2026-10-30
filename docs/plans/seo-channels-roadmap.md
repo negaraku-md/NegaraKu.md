@@ -45,9 +45,11 @@ _Created 2026-10-29. Prioritised by ROI for NegaraKu.md (13-language, AI-friendl
 - Honest ROI: low (no CIS audience; Yandex already IndexNow-pinged) but near-zero cost; completes the "claim every major console" posture.
 - Status: DONE (verified; manual sitemap submit pending Yandex tool restoration).
 
-### T6 (optional) — Kaggle dataset mirror
-- Mirror the HF dataset on Kaggle for data-science discovery. Minor.
-- Status: OPTIONAL.
+### T6 — Kaggle dataset mirror (automation built; needs account + secret)
+- Mirrors the corpus to a public Kaggle dataset for data-science discovery + a second Google Dataset Search node + a provenance backlink to negaraku.md. Automated, reuses the HF export's output so the two mirrors never drift; skips cleanly if the secret is absent (same pattern as `HF_TOKEN`).
+- **Built 2026-10-30 (held for push):** `scripts/export-kaggle-dataset.mjs` (flattens `dataset/data/*.jsonl` → `kaggle/<lang>.jsonl` + README + `dataset-metadata.json`, owner/slug from env) and `.github/workflows/kaggle-dataset.yml` (export → kaggle CLI create-on-first-run-`--public`-else-version, gated on `KAGGLE_KEY`). Tested locally: 15,054 rows / 13 files / ~252 MB. `kaggle/` git-ignored.
+- **User steps to activate:** (1) create a Kaggle account (phone-verify — required for the API); (2) Settings → API → *Create New API Token* → downloads `kaggle.json` = `{username, key}`; (3) in GitHub repo Settings → Secrets and variables → Actions: add **variable** `KAGGLE_USERNAME` = the username, and **secret** `KAGGLE_KEY` = the key; (4) trigger the workflow (Actions → *Publish Kaggle dataset* → Run workflow, or any `knowledge/**` push). First run creates `https://www.kaggle.com/datasets/<username>/negaraku-md`.
+- Status: automation DONE (held for push); publishing pending the user's Kaggle account + `KAGGLE_KEY` secret.
 
 ## Evaluated and de-prioritised (advise against)
 - **Baidu Ziyuan** — zh corpus, but audience is Malaysian Chinese (Google users); Baidu favours ICP-licensed China-hosted sites, so overseas GitHub Pages indexes poorly. High friction, low ROI. Skip unless targeting mainland China.

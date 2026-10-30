@@ -47,6 +47,8 @@ docs/TA-PIPELINE-RUNBOOK.md
 
 # Hugging Face dataset export (published to the HF dataset repo, not here)
 /dataset/
+# Kaggle dataset export (published to Kaggle, not here)
+/kaggle/
 
 # Local dev secrets for the Workers (wrangler dev loads these) — NEVER commit
 .dev.vars
