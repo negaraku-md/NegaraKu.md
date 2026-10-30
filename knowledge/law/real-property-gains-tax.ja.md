@@ -38,7 +38,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "d2bddb3b32ef2960"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "2024年1月1日より前に取得した株式については、CGT税率は純利益の10%又は総売却価格の2%の選択制である——LHDNのCGTガイドラインで完全な仕組みを確認すること。"
   - "2025年の変更（e-CKHTの義務化、自己賦課制度、90日の納付期限、10%の加算税、7年間の記録保存）——LHDNの2025年CKHT運用ガイドラインで確認すること。"
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "不動産譲渡益税（CKHT、Cukai Keuntungan Harta Tanah）— 概要、沿革およびCGTへの移行 (CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT)"
     url: "https://www.hasil.gov.my/en/ckht/"

@@ -4,6 +4,7 @@ title: "Thuế lãi vốn bất động sản (RPGT) khi bán bất động sả
 seoTitle: "RPGT Malaysia: Mức thuế, cách tính & kê khai thuế của người bán"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "Hướng dẫn cho người bán bất động sản ở Malaysia về Thuế lãi vốn bất động sản (RPGT) — mức thuế theo thời gian nắm giữ và tình trạng công dân, cách tính khoản lãi chịu thuế, miễn thuế tự động, và cách kê khai với LHDN."
 

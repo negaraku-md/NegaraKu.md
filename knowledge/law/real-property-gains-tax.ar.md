@@ -38,7 +38,11 @@ sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "معدل CGT البالغ 10% على صافي الأرباح أو خيار 2% على إجمالي سعر البيع للأسهم المتملَّكة قبل 1 يناير 2024 — يُتحقّق من الآلية الكاملة مع إرشادات CGT الصادرة عن LHDN."
   - "تغييرات 2025 (إلزامية e-CKHT، ونظام التقييم الذاتي، ومهلة الدفع البالغة 90 يوماً، وزيادة 10%، وحفظ السجلات 7 سنوات) — يُتحقّق منها مع إرشادات عمليات CKHT لعام 2025 الصادرة عن LHDN."
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "CKHT (ضريبة أرباح الممتلكات العقارية) — التعريف والتاريخ والانتقال إلى CGT (CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT)"
     url: "https://www.hasil.gov.my/en/ckht/"

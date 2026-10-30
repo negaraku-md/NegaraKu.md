@@ -4,6 +4,7 @@ title: "Environmental Quality Act 1974: Undang-Undang Lingkungan Inti Malaysia"
 seoTitle: "Environmental Quality Act 1974 Malaysia: Pelisensian dan Penalti"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "Environmental Quality Act 1974 (Act 127) merupakan tulang punggung pengendalian pencemaran di Malaysia, dikelola oleh Jabatan Alam Sekitar melalui pelisensian, premis yang ditetapkan dan EIA. Undang-undang amendemen A1712, berlaku 7 Juli 2024, menaikkan denda maksimum menjadi RM10 juta dan menjadikan beberapa pelanggaran membawa hukuman penjara wajib."
 

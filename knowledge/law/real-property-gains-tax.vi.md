@@ -38,7 +38,11 @@ sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "Thuế suất CGT 10% lãi ròng hoặc lựa chọn 2% giá bán gộp đối với cổ phần được thủ đắc trước 1 Januari 2024 — xác nhận cơ chế đầy đủ với Hướng dẫn CGT của LHDN."
   - "Các thay đổi 2025 (e-CKHT bắt buộc, Hệ thống Tự Định thuế, thời hạn thanh toán 90 ngày, tăng 10%, lưu hồ sơ 7 năm) — xác nhận với Hướng dẫn Vận hành CKHT 2025 của LHDN."
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "Thuế Lãi Bất động sản (CKHT, Cukai Keuntungan Harta Tanah) — giới thiệu, lịch sử và quá trình chuyển sang CGT (CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT)"
     url: "https://www.hasil.gov.my/en/ckht/"

@@ -4,6 +4,7 @@ title: "Pajak Keuntungan Harta Tanah (RPGT) Saat Menjual Properti"
 seoTitle: "RPGT Malaysia: Tarif, Penghitungan & Pelaporan Pajak Penjual"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "Panduan bagi penjual properti di Malaysia tentang Pajak Keuntungan Harta Tanah (RPGT) — tarif menurut masa kepemilikan dan status kewarganegaraan, penghitungan keuntungan kena pajak, pembebasan otomatis, dan cara melaporkan ke LHDN."
 

@@ -38,7 +38,11 @@ sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "CGT 세율 순이익의 10% 또는 2024년 1월 1일 이전에 취득한 주식에 대한 총판매가격의 2% 선택지 — LHDN의 CGT 지침으로 전체 메커니즘을 확인하여야 합니다."
   - "2025년 변경 사항(e-CKHT 의무화, 자진신고제도, 90일 납부 기간, 10% 가산, 7년 기록 보관) — LHDN의 2025년 CKHT 운영 지침으로 확인하여야 합니다."
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "부동산 양도소득세(CKHT, Cukai Keuntungan Harta Tanah) — 소개, 역사 및 CGT로의 전환 (CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT)"
     url: "https://www.hasil.gov.my/en/ckht/"

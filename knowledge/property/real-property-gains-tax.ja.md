@@ -4,6 +4,7 @@ title: "不動産売却時の不動産譲渡益税（RPGT）"
 seoTitle: "マレーシアのRPGT：売主の税率・計算・申告"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "マレーシアの不動産売主向けの不動産譲渡益税（RPGT）ガイド——保有期間と国籍区分による税率、課税対象利得の計算、自動免除、そしてLHDNへの申告方法。"
 

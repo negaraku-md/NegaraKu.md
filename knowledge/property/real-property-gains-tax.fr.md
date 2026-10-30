@@ -4,6 +4,7 @@ title: "L'impôt sur les plus-values immobilières (RPGT) lors de la vente d'un 
 seoTitle: "RPGT en Malaisie : taux, calcul et déclaration du vendeur"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "Un guide à l'intention des vendeurs de biens immobiliers en Malaisie sur l'impôt sur les plus-values immobilières (RPGT) : taux selon la durée de détention et le statut de citoyenneté, calcul de la plus-value imposable, exonérations automatiques, et comment déclarer auprès de la LHDN."
 

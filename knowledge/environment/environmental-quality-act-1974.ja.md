@@ -4,6 +4,7 @@ title: "1974年環境質法：マレーシアの中核環境法"
 seoTitle: "マレーシア1974年環境質法：ライセンス発行と罰則"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "1974年環境質法（Environmental Quality Act 1974、Act 127）は、環境局がライセンス発行、指定施設及びEIAを通じて執行する、マレーシアの汚染管理の背骨である。2024年環境質（改正）法（Environmental Quality (Amendment) Act 2024、Act A1712）は2024年7月7日に施行され、最高罰金をRM1,000万に引き上げ、複数の違反行為に強制禁錮を科すこととした。"
 

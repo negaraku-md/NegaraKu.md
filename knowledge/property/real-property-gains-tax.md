@@ -4,6 +4,7 @@ title: "Cukai Keuntungan Harta Tanah (RPGT) Semasa Menjual Hartanah"
 seoTitle: "RPGT Malaysia: Kadar, Pengiraan & Pemfailan Cukai Penjual"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "Panduan bagi penjual hartanah di Malaysia tentang Cukai Keuntungan Harta Tanah (RPGT) — kadar mengikut tempoh pegangan dan taraf kewarganegaraan, pengiraan keuntungan boleh dikenakan cukai, pengecualian automatik, dan cara memfailkan dengan LHDN."
 

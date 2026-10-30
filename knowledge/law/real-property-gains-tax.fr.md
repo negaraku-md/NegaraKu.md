@@ -38,7 +38,11 @@ sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "The CGT rate of 10% on net gains or the option of 2% on gross sale price for shares acquired before 1 January 2024 — confirm the full mechanics with the LHDN CGT Guidelines."
   - "Perubahan 2025 (e-CKHT wajib, Sistem Taksir Sendiri, tempoh bayaran 90 hari, kenaikan 10%, simpanan rekod 7 tahun) — sahkan dengan Garis Panduan Operasi CKHT 2025 LHDN."
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "CKHT (impôt sur les plus-values immobilières) — introduction, histoire et transition vers le CGT (CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT)"
     url: "https://www.hasil.gov.my/en/ckht/"

@@ -38,7 +38,11 @@ sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller government/ article (more comprehensive: complaint process, independence, statutory limits); consolidated to one canonical page."
+requestedBy: "ashton-tan"
+supersededBy: "/government/suhakam-human-rights-commission"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -53,7 +57,7 @@ revisions:
 verificationNeeded:
   - "请确认截至出版日期，SUHAKAM 现有成员人数处于法定的 7 至 20 人范围内。"
   - "请确认自 2022 年以来没有再提呈过任何年度报告，以致须更新关于报告积压的陈述。"
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "GANHRI 认证的国家机构地位一览表 — 截至2025年12月4日 (Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025)"
     url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"

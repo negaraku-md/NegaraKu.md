@@ -38,7 +38,11 @@ sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller government/ article (more comprehensive: complaint process, independence, statutory limits); consolidated to one canonical page."
+requestedBy: "ashton-tan"
+supersededBy: "/government/suhakam-human-rights-commission"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -53,7 +57,7 @@ revisions:
 verificationNeeded:
   - "Confirm current SUHAKAM membership count sits within the statutory 7-20 range as at publication date."
   - "Confirm no annual reports beyond 2022 have since been tabled that would update the reporting-backlog statement."
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "Cuadro del estatus de las instituciones nacionales acreditadas por GANHRI — a fecha de 4 de diciembre de 2025 (Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025)"
     url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"

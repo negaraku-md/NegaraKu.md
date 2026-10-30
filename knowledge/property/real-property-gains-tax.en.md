@@ -4,6 +4,7 @@ title: "Real Property Gains Tax (RPGT) When Selling Property"
 seoTitle: "Malaysia RPGT: Rates, Calculation & Seller Tax Filing"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "A guide for property sellers in Malaysia on Real Property Gains Tax (RPGT) — rates by holding period and citizenship status, calculating the chargeable gain, automatic exemptions, and how to file with LHDN."
 

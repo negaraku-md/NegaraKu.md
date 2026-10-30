@@ -4,6 +4,7 @@ title: "Impuesto sobre ganancias de bienes inmuebles (RPGT) al vender una propie
 seoTitle: "RPGT en Malasia: tasas, cálculo y declaración del vendedor"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "Una guía para vendedores de propiedades en Malasia sobre el Impuesto sobre Ganancias de Bienes Inmuebles (RPGT): tasas según el período de tenencia y el estatus de ciudadanía, el cálculo de la ganancia imponible, las exenciones automáticas, y cómo declarar ante la LHDN."
 

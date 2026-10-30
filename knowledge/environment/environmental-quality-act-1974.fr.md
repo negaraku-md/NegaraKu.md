@@ -4,6 +4,7 @@ title: "La loi sur la qualité de l'environnement de 1974 : la loi environnement
 seoTitle: "Loi sur la qualité de l'environnement de 1974 Malaisie : licences et sanctions"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "La loi sur la qualité de l'environnement de 1974 (Act 127) est la colonne vertébrale de la lutte contre la pollution en Malaisie, gérée par le Département de l'environnement au moyen de licences, de locaux prescrits et de l'EIE. La loi modificative A1712, en vigueur le 7 juillet 2024, a relevé les amendes maximales à RM10 millions et rendu plusieurs infractions passibles d'une peine d'emprisonnement obligatoire."
 

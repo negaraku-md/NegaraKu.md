@@ -4,6 +4,7 @@ title: "The Environmental Quality Act 1974: Malaysia's Core Environmental Law"
 seoTitle: "Environmental Quality Act 1974 Malaysia: Licensing and Penalties"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "The Environmental Quality Act 1974 (Act 127) is the backbone of pollution control in Malaysia, run by the Department of Environment through licensing, prescribed premises and EIA. Amendment Act A1712, in force 7 July 2024, lifted maximum fines to RM10 million and made several offences carry mandatory imprisonment."
 

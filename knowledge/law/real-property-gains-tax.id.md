@@ -38,7 +38,11 @@ sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "Tarif CGT 10% keuntungan bersih atau opsi 2% harga jual kotor bagi saham yang diperoleh sebelum 1 Januari 2024 — pastikan mekanisme lengkap dengan Garis Panduan CGT LHDN."
   - "Perubahan 2025 (e-CKHT wajib, Sistem Taksir Sendiri, jangka waktu pembayaran 90 hari, kenaikan 10%, penyimpanan catatan 7 tahun) — pastikan dengan Garis Panduan Operasi CKHT 2025 LHDN."
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT"
     url: "https://www.hasil.gov.my/en/ckht/"

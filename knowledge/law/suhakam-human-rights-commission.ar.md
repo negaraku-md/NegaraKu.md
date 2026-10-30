@@ -38,7 +38,11 @@ sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller government/ article (more comprehensive: complaint process, independence, statutory limits); consolidated to one canonical page."
+requestedBy: "ashton-tan"
+supersededBy: "/government/suhakam-human-rights-commission"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -53,7 +57,7 @@ revisions:
 verificationNeeded:
   - "التأكد من أن عدد أعضاء SUHAKAM الحالي يقع ضمن النطاق القانوني من 7 إلى 20 عضوًا حتى تاريخ النشر."
   - "التأكد من عدم عرض أي تقارير سنوية لاحقة لعام 2022 منذ ذلك الحين من شأنها تحديث البيان المتعلق بتراكم التقارير المتأخرة."
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "جدول وضع المؤسسات الوطنية المعتمدة لدى GANHRI — حتى 4 ديسمبر 2025 (Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025)"
     url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"

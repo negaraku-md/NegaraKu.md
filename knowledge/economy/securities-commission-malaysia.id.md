@@ -33,7 +33,11 @@ sourceContentHash: "d90c41e40d0daaa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller finance/ article; the SC is a financial regulator, so finance is the canonical home. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/finance/securities-commission-malaysia"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -45,7 +49,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-08
+updated: 2026-10-30
 sources:
   - title: "Tentang SC (About the SC)"
     url: "https://www.sc.com.my/about/about-the-sc"

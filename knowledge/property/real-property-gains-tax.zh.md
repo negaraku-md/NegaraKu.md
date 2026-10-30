@@ -4,6 +4,7 @@ title: "出售房地产时的房地产盈利税（RPGT）"
 seoTitle: "马来西亚 RPGT：卖方税率、计算方法与申报"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "为马来西亚房地产卖方而设的房地产盈利税（RPGT）指南——依持有期限与国籍身份而定的税率、应课税盈利的计算、自动豁免，以及如何向内陆税收局（LHDN）申报。"
 

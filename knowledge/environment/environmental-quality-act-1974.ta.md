@@ -4,6 +4,7 @@ title: "சுற்றுச்சூழல் தர சட்டம் 1974 (
 seoTitle: "Environmental Quality Act 1974 மலேசியா: உரிமம் வழங்கல் மற்றும் தண்டனைகள்"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "Environmental Quality Act 1974 (Act 127) என்பது மலேசியாவில் மாசுக் கட்டுப்பாட்டின் முதுகெலும்பாகும்; இது சுற்றுச்சூழல் துறை (Department of Environment) மூலம் உரிமம் வழங்கல், நிர்ணயிக்கப்பட்ட வளாகங்கள் (prescribed premises) மற்றும் EIA வழியாக நடைமுறைப்படுத்தப்படுகிறது. 7 சூலை 2024 அன்று நடைமுறைக்கு வந்த திருத்தச் சட்டம் Act A1712, அதிகபட்ச அபராதங்களை RM10 million வரை உயர்த்தி, பல குற்றங்களுக்கு கட்டாய சிறைத்தண்டனையை விதித்தது."
 

@@ -38,7 +38,11 @@ sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller government/ article (more comprehensive: complaint process, independence, statutory limits); consolidated to one canonical page."
+requestedBy: "ashton-tan"
+supersededBy: "/government/suhakam-human-rights-commission"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -53,7 +57,7 @@ revisions:
 verificationNeeded:
   - "게재일 기준 현재 SUHAKAM 위원 수가 법정 7-20인 범위 내에 있는지 확인하여야 합니다."
   - "보고 적체 서술을 갱신할 만한, 2022년 이후의 연차 보고서가 그 이후 제출되지 아니하였는지 확인하여야 합니다."
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "GANHRI 인증 국가기구 지위 도표 — 2025년 12월 4일 기준 (Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025)"
     url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"

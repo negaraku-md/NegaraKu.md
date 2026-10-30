@@ -4,6 +4,7 @@ title: "Akta Kualiti Alam Sekeliling 1974: Undang-Undang Alam Sekitar Teras Mala
 seoTitle: "Akta Kualiti Alam Sekeliling 1974 Malaysia: Pelesenan dan Penalti"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "Akta Kualiti Alam Sekeliling 1974 (Akta 127) merupakan tulang belakang kawalan pencemaran di Malaysia, dikendalikan oleh Jabatan Alam Sekitar melalui pelesenan, premis yang ditetapkan dan EIA. Akta Pindaan A1712, berkuat kuasa 7 Julai 2024, menaikkan denda maksimum kepada RM10 juta dan menjadikan beberapa kesalahan membawa hukuman penjara mandatori."
 

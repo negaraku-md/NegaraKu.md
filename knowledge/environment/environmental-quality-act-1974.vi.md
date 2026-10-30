@@ -4,6 +4,7 @@ title: "Đạo luật Chất lượng Môi trường 1974: Luật môi trường
 seoTitle: "Đạo luật Chất lượng Môi trường 1974 Malaysia: Cấp phép và các hình phạt"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "Đạo luật Chất lượng Môi trường (Environmental Quality Act 1974, Act 127) là xương sống của việc kiểm soát ô nhiễm ở Malaysia, do Cục Môi trường điều hành thông qua cấp phép, các cơ sở được quy định và EIA. Đạo luật Sửa đổi A1712, có hiệu lực ngày 7 tháng 7 năm 2024, đã nâng mức phạt tối đa lên RM10 triệu và khiến một số hành vi phạm tội mang án phạt tù bắt buộc."
 

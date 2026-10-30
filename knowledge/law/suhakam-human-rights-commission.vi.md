@@ -38,7 +38,11 @@ sourceContentHash: "2df4f39dea43703c"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller government/ article (more comprehensive: complaint process, independence, statutory limits); consolidated to one canonical page."
+requestedBy: "ashton-tan"
+supersededBy: "/government/suhakam-human-rights-commission"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -53,7 +57,7 @@ revisions:
 verificationNeeded:
   - "Xác nhận số lượng thành viên SUHAKAM hiện tại nằm trong khoảng luật định 7-20 tính đến ngày xuất bản."
   - "Xác nhận không có báo cáo thường niên nào sau năm 2022 đã được trình từ đó đến nay mà sẽ cập nhật lại nhận định về tồn đọng báo cáo."
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "Biểu đồ tình trạng các cơ quan quốc gia được GANHRI công nhận — tính đến ngày 4 tháng 12 năm 2025 (Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025)"
     url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"

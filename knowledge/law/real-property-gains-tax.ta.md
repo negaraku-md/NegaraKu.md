@@ -38,7 +38,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "d2bddb3b32ef2960"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "2024 ஜனவரி 1க்கு முன் பெறப்பட்ட பங்குகளுக்கு CGT விகிதம் நிகர ஆதாயத்தில் 10% அல்லது மொத்த விற்பனை விலையில் 2% எனும் தேர்வு — முழு இயங்கமைப்பையும் LHDN இன் CGT வழிகாட்டியுடன் உறுதிப்படுத்தவும்."
   - "2025 ஆம் ஆண்டு மாற்றங்கள் (கட்டாய e-CKHT, சுய மதிப்பீட்டு முறை, 90 நாள் கட்டணக் காலம், 10% உயர்வு, 7 ஆண்டு பதிவுப் பராமரிப்பு) — LHDN இன் 2025 ஆம் ஆண்டு CKHT இயக்க வழிகாட்டியுடன் உறுதிப்படுத்தவும்."
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "அசையா சொத்து ஆதாய வரி (CKHT, Cukai Keuntungan Harta Tanah) — அறிமுகம், வரலாறு மற்றும் CGT-க்கு மாற்றம் (CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT)"
     url: "https://www.hasil.gov.my/en/ckht/"

@@ -38,7 +38,11 @@ sourceContentHash: "d2bddb3b32ef2960"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the property/ article, which is the canonical home (every inbound link points to property/taxation). RPC-share CGT nuance is covered by the taxation/rpgt + capital-gains-tax cluster. Consolidated."
+requestedBy: "ashton-tan"
+supersededBy: "/property/real-property-gains-tax"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -56,7 +60,7 @@ verificationNeeded:
   - "शुद्ध लाभ पर 10% की CGT दर या 1 जनवरी 2024 से पहले अर्जित शेयरों के लिए सकल विक्रय मूल्य पर 2% का विकल्प — LHDN CGT मार्गदर्शिका के साथ पूर्ण तंत्र की पुष्टि करें।"
   - "2025 के परिवर्तन (e-CKHT अनिवार्य, स्व-निर्धारण प्रणाली, 90-दिवसीय भुगतान अवधि, 10% वृद्धि, 7-वर्षीय अभिलेख-रक्षण) — LHDN की 2025 CKHT परिचालन मार्गदर्शिका के साथ पुष्टि करें।"
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "CKHT (अचल संपत्ति लाभ कर) — परिचय, इतिहास एवं CGT में संक्रमण (CKHT (Cukai Keuntungan Harta Tanah) — pengenalan, sejarah & peralihan CGT)"
     url: "https://www.hasil.gov.my/en/ckht/"

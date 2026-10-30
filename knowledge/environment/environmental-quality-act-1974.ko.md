@@ -4,6 +4,7 @@ title: "환경질법(Environmental Quality Act 1974): 말레이시아의 핵심 
 seoTitle: "말레이시아 환경질법 1974: 허가와 처벌"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "환경질법(Environmental Quality Act 1974, Act 127)은 말레이시아 오염 통제의 근간으로, 환경부가 허가, 규제 대상 시설, 환경영향평가를 통해 운영합니다. 2024년 7월 7일 시행된 개정법 Act A1712는 최고 벌금을 RM10,000,000으로 상향하고 여러 위반에 필수 징역형을 도입했습니다."
 

@@ -4,6 +4,7 @@ title: "부동산 매각 시 부동산양도소득세(RPGT)"
 seoTitle: "말레이시아 RPGT: 요율, 계산, 매도인의 신고"
 slug: "real-property-gains-tax"
 category: "property"
+alsoIn: ["business"]
 subcategory: ["cukai"]
 summary: "말레이시아 부동산 매도인을 위한 부동산양도소득세(RPGT) 안내 — 보유 기간과 국적 지위에 따른 요율, 과세 대상 양도차익 계산, 자동 면제, 그리고 LHDN에 신고하는 방법."
 

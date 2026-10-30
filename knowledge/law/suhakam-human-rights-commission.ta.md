@@ -38,7 +38,11 @@ masterLanguage: "ms"
 translationStatus: "in-sync"
 sourceContentHash: "2df4f39dea43703c"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller government/ article (more comprehensive: complaint process, independence, statutory limits); consolidated to one canonical page."
+requestedBy: "ashton-tan"
+supersededBy: "/government/suhakam-human-rights-commission"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -53,7 +57,7 @@ revisions:
 verificationNeeded:
   - "வெளியீட்டுத் தேதியின் நிலவரப்படி தற்போதைய SUHAKAM உறுப்பினர் எண்ணிக்கை சட்டப்பூர்வ 7-20 வரம்பிற்குள் உள்ளதா என்பதை உறுதிப்படுத்தவும்."
   - "அறிக்கை-நிலுவை குறித்த கூற்றைப் புதுப்பிக்கக்கூடிய 2022க்குப் பிறகான ஆண்டறிக்கைகள் எதுவும் அதன் பின்னர் சமர்ப்பிக்கப்படவில்லை என்பதை உறுதிப்படுத்தவும்."
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "GANHRI அங்கீகரித்த தேசிய நிறுவனங்களின் நிலை விளக்கப்படம் — 2025 டிசம்பர் 4 நிலவரப்படி (Chart of the Status of National Institutions Accredited by GANHRI — as of 4 December 2025)"
     url: "https://ganhri.org/wp-content/uploads/2025/12/Accreditation-Status-Chart_Dec2025.pdf"

@@ -37,7 +37,11 @@ sourceContentHash: "cd3834c25795a67e"
 masterLanguage: "ms"
 translationStatus: "in-sync"
 
-status: "published"
+status: "archived"
+requestReason: "Duplicate of the fuller environment/ article (tier-1, covers the 2024 amendments); consolidated to one canonical page."
+requestedBy: "ashton-tan"
+supersededBy: "/environment/environmental-quality-act-1974"
+hidden: true
 aiAssisted: true
 reviewer: null
 reviewed: 2026-08-08
@@ -52,7 +56,7 @@ revisions:
     change: "Approved and published."
     reviewer: null
 
-updated: 2026-08-07
+updated: 2026-10-30
 sources:
   - title: "马来西亚法律 — Act 127 Environmental Quality Act 1974(综合文本) (Laws of Malaysia — Act 127 Environmental Quality Act 1974 (teks disatukan))"
     url: "https://www.doe.gov.my/wp-content/uploads/2022/11/Environmental_Quality_Act_1974_-_ACT_127.pdf"

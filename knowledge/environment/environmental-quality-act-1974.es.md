@@ -4,6 +4,7 @@ title: "La Ley de Calidad Ambiental de 1974: la ley ambiental central de Malasia
 seoTitle: "Ley de Calidad Ambiental de 1974 Malasia: Licencias y Sanciones"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "La Ley de Calidad Ambiental de 1974 (Act 127) es la columna vertebral del control de la contaminación en Malasia, gestionada por el Departamento de Medio Ambiente mediante licencias, locales prescritos y la EIA. La Ley de Modificación A1712, en vigor el 7 de julio de 2024, elevó las multas máximas a RM10 millones e hizo que varios delitos conlleven prisión obligatoria."
 

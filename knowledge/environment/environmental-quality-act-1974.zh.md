@@ -4,6 +4,7 @@ title: "1974年环境质量法令：马来西亚的核心环境法律"
 seoTitle: "马来西亚1974年环境质量法令：许可证与刑罚"
 slug: "environmental-quality-act-1974"
 category: "environment"
+alsoIn: ["business"]
 subcategory: ["pollution"]
 summary: "1974年环境质量法令（第127号法令）是马来西亚污染管制的支柱，由环境局通过许可证制度、指定处所和环境影响评估（EIA）加以执行。修正法令A1712已于2024年7月7日生效，将最高罚款提高至1,000万令吉，并使多项罪行强制附带监禁。"
 
