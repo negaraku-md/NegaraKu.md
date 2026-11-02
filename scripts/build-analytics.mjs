@@ -24,6 +24,7 @@ import {
   loadArticleKeys, filterToArticles, OUT_FILE, CUMULATIVE_FILE, queryEngagement,
   SERIES_OUT_FILE, queryDailyTotals, addDayRow, queryReaderCube, queryReaderPaths,
   queryClicks,
+  querySponsorFunnel,
 } from './lib/analytics-store.mjs';
 
 const CUBE_OUT_FILE = path.join(path.dirname(OUT_FILE), 'reader-cube.json');
@@ -142,6 +143,41 @@ async function main() {
     }
   }
   await writeFile(path.join(path.dirname(OUT_FILE), 'clicks.json'), JSON.stringify(clicks) + '\n', 'utf8');
+
+  // Sponsor funnel (blob2='click', blob3='outbound' to a sponsor host) over the
+  // same 90-day live window, attributed to the SOURCE article (blob1) — so the
+  // monetization funnel is measurable per article, not just as a site-wide
+  // outbound total. Hostnames only (no PII); canonicalised (drop leading www.).
+  // Empty until the edge capture accrues; the panel shows a "still accruing" note.
+  const SPONSOR_HOSTS = ['1company.com', 'www.1company.com', '1financing.com', 'www.1financing.com'];
+  const funnel = { updatedAt: new Date().toISOString(), total: 0, sponsors: {} };
+  if (ACCOUNT && TOKEN) {
+    try {
+      const rows = await querySponsorFunnel({ account: ACCOUNT, token: TOKEN, dataset: DATASET, days: 90, hosts: SPONSOR_HOSTS });
+      const agg = {}; // canonical host -> { total, articles: {key: n} }
+      for (const r of rows) {
+        const n = Math.round(Number(r.n) || 0);
+        if (n <= 0) continue;
+        const host = String(r.sponsor || '').replace(/^www\./, '');
+        if (!host) continue;
+        const src = r.source || '';
+        const s = (agg[host] ??= { total: 0, articles: {} });
+        s.total += n;
+        funnel.total += n;
+        if (src && src !== 'home' && (!keys || keys.has(src))) s.articles[src] = (s.articles[src] || 0) + n;
+      }
+      for (const [host, s] of Object.entries(agg)) {
+        funnel.sponsors[host] = {
+          total: s.total,
+          articles: Object.entries(s.articles).sort((a, b) => b[1] - a[1]).slice(0, 15),
+        };
+      }
+      console.log(`[analytics] funnel — ${Object.keys(funnel.sponsors).length} sponsor(s), ${funnel.total} click(s).`);
+    } catch (err) {
+      console.warn(`[analytics] funnel query failed (non-fatal): ${err.message}`);
+    }
+  }
+  await writeFile(path.join(path.dirname(OUT_FILE), 'funnel.json'), JSON.stringify(funnel) + '\n', 'utf8');
 
   // Serve the committed archive snapshots (Facebook / Search Console), written by
   // their own scheduled workflows into analytics/. Copy each into public/api/ so

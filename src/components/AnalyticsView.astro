@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { getPillar, getCategory, PILLARS, loc } from '@/lib/categories';
-import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries, getCfTraffic, getReaderCube, getClicks, getGA4 } from '@/lib/apidata';
+import { getDashboard, getAnalytics, getFacebook, getSearchConsole, getBing, getAnalyticsSeries, getCfTraffic, getReaderCube, getClicks, getFunnel, getGA4 } from '@/lib/apidata';
 import { t, localePath } from '@/lib/i18n';
 import PageHero from './PageHero.astro';
 
@@ -185,6 +185,20 @@ const clickOutbound = (clicks.outbound ?? []).slice(0, 8).map(([host, n]) => ({ 
 const clickIntMax = Math.max(1, ...clickInternal.map((x) => x.n));
 const clickOutMax = Math.max(1, ...clickOutbound.map((x) => x.n));
 const clicksHas = clickInternal.length > 0 || clickOutbound.length > 0;
+
+// Sponsor funnel (beacon → funnel.json): outbound clicks to the sponsor sites
+// (1company.com / 1financing.com), attributed to the source article — the
+// monetization funnel, measurable per article. 90-day live window.
+const funnel = getFunnel();
+const funnelSponsors = Object.entries(funnel.sponsors ?? {})
+  .map(([host, s]) => ({
+    host,
+    total: s?.total ?? 0,
+    articles: (s?.articles ?? []).slice(0, 8).map(([key, n]) => ({ key, n, title: titleByKey.get(key) ?? key })),
+  }))
+  .sort((a, b) => b.total - a.total);
+const funnelMax = Math.max(1, ...funnelSponsors.flatMap((s) => s.articles.map((a) => a.n)));
+const funnelHas = (funnel.total ?? 0) > 0;
 
 // Bing Webmaster (archive: analytics/bing.json) — also backs Copilot & ChatGPT-search.
 const bing = getBing();
@@ -1609,6 +1623,46 @@ const anyTraffic = aiTotal > 0 || refTotal > 0 || gscHas || bingHas || fbHas || 
               ))}
             </div>
           </div>
+        </div>
+      )}
+    </div>
+  </div>
+
+  <div class="psec">
+    <header><span>{L('Corong penaja', 'Sponsor funnel', '赞助商漏斗', 'ஸ்பான்சர் வழித்தடம்', 'スポンサー導線', '스폰서 유입 경로', 'กรวยผู้สนับสนุน', 'Phễu nhà tài trợ', 'Corong sponsor', 'مسار الرعاة', 'प्रायोजक फ़नल', 'Embudo de patrocinadores', 'Entonnoir des sponsors')}</span></header>
+    <div class="psec-body">
+      {!funnelHas ? (
+        <p class="hint">{L(
+          'Belum ada klik CTA penaja — direkod apabila pelawat mengklik CTA 1company.com / 1financing.com.',
+          'No sponsor-CTA clicks yet — recorded once visitors click a 1company.com / 1financing.com CTA.',
+          '暂无赞助商 CTA 点击——访客点击 1company.com / 1financing.com 的 CTA 后开始记录。',
+          'இதுவரை ஸ்பான்சர் CTA கிளிக் இல்லை — பார்வையாளர்கள் 1company.com / 1financing.com CTA-ஐ கிளிக் செய்தவுடன் பதிவாகும்.',
+          'スポンサーCTAのクリックはまだありません — 訪問者が 1company.com / 1financing.com の CTA をクリックすると記録されます。',
+          '아직 스폰서 CTA 클릭이 없습니다 — 방문자가 1company.com / 1financing.com CTA를 클릭하면 기록됩니다.',
+          'ยังไม่มีการคลิก CTA ผู้สนับสนุน — จะบันทึกเมื่อผู้เข้าชมคลิก CTA ของ 1company.com / 1financing.com',
+          'Chưa có lượt nhấp CTA nhà tài trợ — được ghi nhận khi khách nhấp vào CTA 1company.com / 1financing.com.',
+          'Belum ada klik CTA sponsor — dicatat setelah pengunjung mengeklik CTA 1company.com / 1financing.com.',
+          'لا توجد نقرات على دعوة الرعاة بعد — تُسجَّل عندما ينقر الزوّار على زر 1company.com / 1financing.com.',
+          'अभी तक कोई प्रायोजक CTA क्लिक नहीं — आगंतुकों द्वारा 1company.com / 1financing.com CTA क्लिक करने पर दर्ज होगा।',
+          'Aún no hay clics en CTA de patrocinadores: se registran cuando los visitantes hacen clic en un CTA de 1company.com / 1financing.com.',
+          "Aucun clic sur un CTA sponsor pour l'instant : enregistré dès qu'un visiteur clique sur un CTA 1company.com / 1financing.com.",
+        )}</p>
+      ) : (
+        <div class="ai-grid">
+          {funnelSponsors.map((s) => (
+            <div>
+              <p class="ai-h">{s.host} · {s.total.toLocaleString()} {L('klik', 'clicks', '点击', 'கிளிக்', 'クリック', '클릭', 'คลิก', 'lượt nhấp', 'klik', 'نقرة', 'क्लिक', 'clics', 'clics')}</p>
+              <div class="cov-cats">
+                {s.articles.map((a) => (
+                  <a class="cov-row" href={localePath(`/${a.key}`, locale)}>
+                    <span class="cov-name" title={a.title}>{a.title}</span>
+                    <span class="track"><span class="fill" style={`width:${Math.max(3, Math.round((a.n / funnelMax) * 100))}%`} /></span>
+                    <span class="cov-num">{a.n.toLocaleString()}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          ))}
         </div>
       )}
     </div>

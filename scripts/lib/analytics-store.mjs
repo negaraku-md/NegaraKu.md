@@ -303,3 +303,26 @@ export async function queryClicks({ account, token, dataset, days = 90 }) {
   if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
   return (await res.json()).data || [];
 }
+
+/**
+ * Sponsor-funnel clicks: outbound click rows (blob2='click', blob3='outbound')
+ * whose destination hostname is one of the sponsor sites, grouped BY SOURCE
+ * ARTICLE (blob1) as well as sponsor (blob4) — so we see which articles drive
+ * clicks to 1company.com / 1financing.com, not just the site-wide total that
+ * queryClicks returns. `hosts` is the allow-list of sponsor hostnames. Returns
+ * [{source, sponsor, n}]. Live-window only; best-effort.
+ */
+export async function querySponsorFunnel({ account, token, dataset, days = 90, hosts = [] }) {
+  if (!hosts.length) return [];
+  const inList = hosts.map((h) => `'${String(h).replace(/[^a-z0-9.\-]/gi, '')}'`).join(', ');
+  const sql =
+    `SELECT blob1 AS source, blob4 AS sponsor, SUM(_sample_interval) AS n ` +
+    `FROM ${dataset} WHERE blob2 = 'click' AND blob3 = 'outbound' AND blob4 IN (${inList}) ` +
+    `AND timestamp > NOW() - INTERVAL '${days}' DAY GROUP BY source, sponsor ORDER BY n DESC`;
+  const res = await fetch(
+    `https://api.cloudflare.com/client/v4/accounts/${account}/analytics_engine/sql`,
+    { method: 'POST', headers: { Authorization: `Bearer ${token}` }, body: sql },
+  );
+  if (!res.ok) throw new Error(`AE SQL API ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  return (await res.json()).data || [];
+}

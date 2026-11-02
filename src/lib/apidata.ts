@@ -189,6 +189,19 @@ export function getClicks(): Clicks {
   return read<Clicks>('clicks.json', { internal: [], outbound: [] });
 }
 
+// Sponsor funnel (build-analytics.mjs → funnel.json): outbound clicks to the
+// sponsor sites (1company.com / 1financing.com) over the 90-day live window,
+// attributed to the source article — the monetization funnel, per article.
+// Empty until the edge click capture accrues.
+export type Funnel = {
+  updatedAt?: string;
+  total?: number;
+  sponsors?: Record<string, { total: number; articles: [string, number][] }>; // host -> { total, [articleKey, count][] }
+};
+export function getFunnel(): Funnel {
+  return read<Funnel>('funnel.json', { total: 0, sponsors: {} });
+}
+
 // Facebook reach archive (analytics/facebook.json, served into public/api at build).
 export type Facebook = {
   updatedAt?: string;
