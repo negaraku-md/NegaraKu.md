@@ -1,167 +1,180 @@
 {
-  "updatedAt": "2026-10-26T11:20:52.345Z",
+  "updatedAt": "2026-11-02T13:43:34.875Z",
   "property": "properties/559513299",
   "byMonth": {
     "2026-10": {
-      "users": 184,
-      "sessions": 217,
-      "views": 281
+      "users": 623,
+      "sessions": 786,
+      "views": 1076
+    },
+    "2026-11": {
+      "users": 61,
+      "sessions": 68,
+      "views": 129
     }
   },
   "latest": {
     "window": {
-      "start": "2026-07-28",
-      "end": "2026-10-25"
+      "start": "2026-08-04",
+      "end": "2026-11-01"
     },
     "totals": {
-      "users": 184,
-      "sessions": 217,
-      "views": 281,
-      "avgEngagementSec": 116,
-      "engagementRate": 44.2
+      "users": 681,
+      "sessions": 855,
+      "views": 1205,
+      "avgEngagementSec": 139,
+      "engagementRate": 42.8
     },
     "byChannel": [
       [
         "Organic Search",
-        110
+        526
       ],
       [
         "Organic Social",
-        74
+        199
       ],
       [
         "Direct",
-        26
+        101
       ],
       [
         "AI Assistant",
+        18
+      ],
+      [
+        "Referral",
         7
+      ],
+      [
+        "Unassigned",
+        4
       ]
     ],
     "byCountry": [
       [
         "Malaysia",
-        68
+        292
       ],
       [
         "United States",
-        59
-      ],
-      [
-        "Sweden",
-        9
-      ],
-      [
-        "Japan",
-        8
+        156
       ],
       [
         "Indonesia",
-        5
+        35
       ],
       [
         "Ireland",
-        5
+        24
+      ],
+      [
+        "Sweden",
+        23
+      ],
+      [
+        "Japan",
+        22
       ],
       [
         "Singapore",
-        5
+        20
       ],
       [
-        "Brunei",
-        3
-      ],
-      [
-        "India",
-        2
-      ],
-      [
-        "New Zealand",
-        2
-      ],
-      [
-        "South Korea",
-        2
+        "Thailand",
+        18
       ],
       [
         "Taiwan",
-        2
+        9
+      ],
+      [
+        "South Korea",
+        7
+      ],
+      [
+        "China",
+        6
+      ],
+      [
+        "India",
+        6
       ]
     ],
     "byDevice": [
       [
         "mobile",
-        125
+        480
       ],
       [
         "desktop",
-        91
+        367
       ],
       [
         "tablet",
-        1
+        7
       ]
     ],
     "topPages": [
       [
         "/en/",
-        15
+        35
       ],
       [
         "/",
+        22
+      ],
+      [
+        "/en/search/",
+        18
+      ],
+      [
+        "/zh/law/anti-money-laundering-act/",
+        18
+      ],
+      [
+        "/en/government/syariah-court-system/",
+        15
+      ],
+      [
+        "/en/law/faraid-and-islamic-inheritance/",
+        13
+      ],
+      [
+        "/zh/settling-in/registering-a-muslim-marriage/",
+        13
+      ],
+      [
+        "/en/settling-in/immigration-overstay-and-blacklist/",
+        12
+      ],
+      [
+        "/en/law/wills-and-probate-in-malaysia/",
         9
+      ],
+      [
+        "/en/public-safety/how-to-report-a-crime-malaysia/",
+        9
+      ],
+      [
+        "/en/public-safety/how-to-report-a-scam-malaysia/",
+        9
+      ],
+      [
+        "/arts-culture/chinese-dialects/",
+        8
       ],
       [
         "/en/malaysia/melaka-sultanate/",
         8
       ],
       [
-        "/zh/law/anti-money-laundering-act/",
+        "/glossary/perdana-menteri/",
         8
       ],
       [
-        "/en/malaysia/federated-unfederated-states/",
-        6
-      ],
-      [
-        "/en/malaysia/gangga-negara/",
-        6
-      ],
-      [
-        "/en/malaysia/geography-overview/",
-        6
-      ],
-      [
-        "/en/malaysia/jalur-gemilang/",
-        6
-      ],
-      [
-        "/en/malaysia/bujang-valley/",
-        5
-      ],
-      [
-        "/en/malaysia/coat-of-arms/",
-        5
-      ],
-      [
-        "/en/malaysia/japanese-occupation/",
-        5
-      ],
-      [
-        "/arts-culture/chinese-dialects/",
-        4
-      ],
-      [
-        "/en/malaysia/13-may-1969/",
-        4
-      ],
-      [
-        "/en/malaysia/2018-change-of-government/",
-        4
-      ],
-      [
-        "/en/malaysia/formation-of-malaysia-1963/",
-        4
+        "/en/business/approved-permit-ap-malaysia/",
+        7
       ]
     ]
   }
