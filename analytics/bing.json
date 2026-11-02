@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:56:20.676Z",
+  "updatedAt": "2026-11-02T14:17:57.631Z",
   "site": "https://www.negaraku.md/",
   "byMonth": {
     "2026-09": {
@@ -8,13 +8,13 @@
     },
     "2026-10": {
       "clicks": 509,
-      "impressions": 13249
+      "impressions": 13250
     }
   },
   "latest": {
     "totals": {
       "clicks": 554,
-      "impressions": 14251
+      "impressions": 14252
     },
     "topQueries": [
       {
@@ -126,18 +126,6 @@
         "position": 4
       },
       {
-        "query": "muet band 4.0 university admissions indonesia",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 5
-      },
-      {
-        "query": "sjkt primary school curriculum",
-        "clicks": 0,
-        "impressions": 4,
-        "position": 1
-      },
-      {
         "query": "malaysia vernacular schools sjkc sjkt political reasons",
         "clicks": 0,
         "impressions": 4,
@@ -156,16 +144,28 @@
         "position": 4
       },
       {
+        "query": "sjkt primary school curriculum",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 1
+      },
+      {
         "query": "lembaga pemasaran pertanian fama terengganu",
         "clicks": 0,
         "impressions": 4,
         "position": 5
       },
       {
-        "query": "雪邦赛道为什么退出f1",
+        "query": "muet band 4.0 university admissions indonesia",
         "clicks": 0,
         "impressions": 4,
-        "position": 6
+        "position": 5
+      },
+      {
+        "query": "yuran permohonan pendaftaran trademark malaysia myipo",
+        "clicks": 0,
+        "impressions": 4,
+        "position": 5
       }
     ]
   }
