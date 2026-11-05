@@ -3,6 +3,16 @@
 export const SITE = 'https://negaraku.md';
 export const REPO = 'https://github.com/negaraku-md/NegaraKu.md';
 
+/** Contribution pause switch. When true, the site presents as a read-only
+    knowledge base: the "Contribute" menu is removed, the per-article
+    suggest/report/translation links (which open GitHub issues — now disabled) and
+    the "Become a contributor" CTA are hidden, and /contribute shows a paused
+    notice instead of its forms. Mirrors the GitHub-side pause (Issues &
+    Discussions disabled + branch protection on). Set back to false to re-open —
+    every contributor page, component and translation stays in place, so it's a
+    one-line reversal. */
+export const CONTRIBUTIONS_PAUSED = true;
+
 /** Sponsor properties. NegaraKu.md is sponsored by 1company; high-intent
     business/finance articles carry a disclosed, UTM-tagged call-to-action to the
     relevant sponsor service (see src/lib/sponsor.ts + SponsorCTA.astro).

@@ -3,7 +3,7 @@ import type { Locale } from '@/lib/categories';
 import { PILLARS, categoriesInPillar, loc } from '@/lib/categories';
 import { siteStats, articlesForLocale } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
-import { REPO } from '@/lib/site';
+import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { FEEDBACK_LABELS, newIssueUrl } from '@/lib/feedback';
 import PageHero from './PageHero.astro';
 import { stat } from '@/lib/pageStats';
@@ -177,6 +177,28 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
   stats={[stat.pillars(stats.sections, locale), stat.categories(stats.categories, locale), stat.subcategories(stats.topics, locale), stat.topics(stats.articles, locale)]}
 />
 
+{CONTRIBUTIONS_PAUSED ? (
+  <section class="container block">
+    <div class="paused-note">
+      <p class="pn-title">{L('Sumbangan ditangguhkan', 'Contributions are paused', '暂停接受贡献', 'பங்களிப்புகள் இடைநிறுத்தப்பட்டுள்ளன', '寄稿を一時停止しています', '기여가 일시 중단되었습니다', 'พักรับการมีส่วนร่วมชั่วคราว', 'Tạm dừng nhận đóng góp', 'Kontribusi dijeda', 'المساهمات متوقفة مؤقتًا', 'योगदान फ़िलहाल रोके गए हैं', 'Las contribuciones están en pausa', 'Les contributions sont suspendues')}</p>
+      <p class="pn-body">{L(
+        'NegaraKu.md kini sebuah pangkalan pengetahuan baca-sahaja. Kami tidak menerima sumbangan baharu buat masa ini — terima kasih atas minat anda.',
+        'NegaraKu.md is currently a read-only knowledge base. We are not accepting new contributions right now — thank you for your interest.',
+        'NegaraKu.md 目前为只读知识库。我们暂时不接受新的贡献——感谢您的关注。',
+        'NegaraKu.md தற்போது படிக்க-மட்டும் அறிவுத் தளமாக உள்ளது. தற்போது புதிய பங்களிப்புகளை நாங்கள் ஏற்கவில்லை — உங்கள் ஆர்வத்திற்கு நன்றி.',
+        'NegaraKu.md は現在、読み取り専用の知識ベースです。現在、新しい寄稿は受け付けておりません。ご関心ありがとうございます。',
+        'NegaraKu.md는 현재 읽기 전용 지식 베이스입니다. 지금은 새로운 기여를 받지 않습니다 — 관심 가져주셔서 감사합니다.',
+        'ขณะนี้ NegaraKu.md เป็นฐานความรู้แบบอ่านอย่างเดียว เรายังไม่รับการมีส่วนร่วมใหม่ในขณะนี้ — ขอบคุณสำหรับความสนใจ',
+        'NegaraKu.md hiện là một cơ sở tri thức chỉ đọc. Chúng tôi hiện không nhận đóng góp mới — cảm ơn bạn đã quan tâm.',
+        'NegaraKu.md saat ini adalah basis pengetahuan hanya-baca. Kami tidak menerima kontribusi baru untuk saat ini — terima kasih atas minat Anda.',
+        'موقع NegaraKu.md حاليًا قاعدة معرفية للقراءة فقط. لا نقبل مساهمات جديدة في الوقت الحالي — شكرًا لاهتمامك.',
+        'NegaraKu.md फ़िलहाल केवल-पढ़ने के लिए एक ज्ञान-आधार है। हम अभी नए योगदान स्वीकार नहीं कर रहे हैं — आपकी रुचि के लिए धन्यवाद।',
+        'NegaraKu.md es actualmente una base de conocimiento de solo lectura. Por ahora no aceptamos nuevas contribuciones; gracias por tu interés.',
+        'NegaraKu.md est actuellement une base de connaissances en lecture seule. Nous n’acceptons pas de nouvelles contributions pour le moment — merci de votre intérêt.',
+      )}</p>
+    </div>
+  </section>
+) : (<Fragment>
 <!-- Three paths -->
 <section class="container block">
   <div class="paths">
@@ -376,6 +398,7 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
     </div>
   </div>
 </section>
+</Fragment>)}
 
 <script type="application/json" id="taxonomy" set:html={JSON.stringify(taxonomy)} />
 
@@ -516,6 +539,18 @@ const REPORT_LABELS = FEEDBACK_LABELS['article-issue'].join(',');
 </script>
 
 <style>
+  /* Read-only pause notice (shown instead of the forms when CONTRIBUTIONS_PAUSED). */
+  .paused-note {
+    max-width: 62ch; margin: 1rem auto; padding: 1.6rem 1.8rem;
+    border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line));
+    border-radius: 14px; background: color-mix(in srgb, var(--gold) 6%, var(--surface));
+    text-align: center;
+  }
+  .paused-note .pn-title {
+    margin: 0 0 0.5rem; font-family: var(--font-title); font-weight: 800;
+    font-size: 1.2rem; color: var(--gold);
+  }
+  .paused-note .pn-body { margin: 0; color: var(--ink-soft); line-height: 1.6; }
   .block { margin-top: 1.6rem; }
   .psec { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
   .psec > header {

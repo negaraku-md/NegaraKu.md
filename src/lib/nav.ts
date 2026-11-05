@@ -1,5 +1,5 @@
 import type { StringKey } from './i18n';
-import { REPO } from './site';
+import { REPO, CONTRIBUTIONS_PAUSED } from './site';
 
 export interface NavItem {
   label: StringKey;
@@ -38,7 +38,7 @@ export interface NavMenu {
 // take part, grouped), Site (the website itself). All destinations are real pages
 // or /contribute anchors; the Contribute menu is grouped with headings the way
 // Explore is, so it stays scannable at ~9 items.
-export const NAV: NavMenu[] = [
+const NAV_FULL: NavMenu[] = [
   { label: 'nav.understand', href: '/understand' },
   { label: 'nav.living', href: '/living' },
   { label: 'nav.business', href: '/doing-business' },
@@ -105,6 +105,17 @@ export const NAV: NavMenu[] = [
     ],
   },
 ];
+
+// When contributions are paused, present a read-only knowledge base: drop the
+// whole "Contribute" door, and the lone GitHub-issue link ("Report a site bug")
+// that lives under About. Reversible — flip CONTRIBUTIONS_PAUSED in site.ts.
+export const NAV: NavMenu[] = CONTRIBUTIONS_PAUSED
+  ? NAV_FULL.filter((m) => m.label !== 'nav.contribute').map((m) =>
+      m.label === 'nav.about'
+        ? { ...m, items: m.items?.filter((it) => it.href !== '/contribute#site') }
+        : m,
+    )
+  : NAV_FULL;
 
 /** The Reader nav is the default nav (everyone, incl. bots). Alias for clarity. */
 export const READER_NAV = NAV;

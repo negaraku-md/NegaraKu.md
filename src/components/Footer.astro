@@ -1,7 +1,7 @@
 ---
 import type { Locale } from '@/lib/categories';
 import { t, localePath } from '@/lib/i18n';
-import { REPO, HF_DATASET, GA_MEASUREMENT_ID } from '@/lib/site';
+import { REPO, HF_DATASET, GA_MEASUREMENT_ID, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 
 interface Props {
   locale: Locale;
@@ -26,7 +26,7 @@ const cols = [
       { label: t('nav.aboutPage', locale), href: localePath('/about', locale) },
       { label: t('nav.dashboard', locale), href: localePath('/dashboard', locale) },
       { label: t('nav.changelog', locale), href: localePath('/changelog', locale) },
-      { label: t('nav.contribute', locale), href: localePath('/contribute', locale) },
+      ...(CONTRIBUTIONS_PAUSED ? [] : [{ label: t('nav.contribute', locale), href: localePath('/contribute', locale) }]),
       { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt', 'Pengaturan', 'الإعدادات', 'सेटिंग्स', 'Configuración', 'Paramètres'), href: localePath('/settings', locale) },
     ],
   },
