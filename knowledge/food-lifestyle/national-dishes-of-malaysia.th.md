@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "อาหารประจำชาติของมาเลเซีย: นาซีเลอมัก โรตีจาไน ชาร์กุ๊ยเตี๋ยว และลักซา"
 seoTitle: "อาหารประจำชาติของมาเลเซีย — นาซีเลอมัก โรตีจาไน ลักซา"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "นาซีเลอมัก โรตีจาไน ชาร์กุ๊ยเตี๋ยว และลักซา คืออาหารเอกลักษณ์ของมาเลเซีย คู่มือนี้อธิบายที่มา ความหลากหลายตามภูมิภาค และสถานะมรดกอย่างเป็นทางการ รวมถึงการยอมรับของ UNESCO ในปี 2024"

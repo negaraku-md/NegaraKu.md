@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "Plats nationaux de la Malaisie : nasi lemak, roti canai, char kuey teow et laksa"
 seoTitle: "Plats nationaux de la Malaisie — nasi lemak, roti canai, laksa"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "Le nasi lemak, le roti canai, le char kuey teow et le laksa sont les signatures culinaires de la Malaisie. Ce guide explique leurs origines, leurs variantes régionales et leur statut patrimonial officiel — y compris la reconnaissance de l'UNESCO de 2024."

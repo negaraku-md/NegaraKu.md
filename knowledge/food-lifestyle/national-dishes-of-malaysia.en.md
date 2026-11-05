@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "National Dishes of Malaysia: Nasi Lemak, Roti Canai, Char Kuey Teow & Laksa"
 seoTitle: "National Dishes of Malaysia — Nasi Lemak, Roti Canai, Laksa"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "Nasi lemak, roti canai, char kuey teow and laksa are Malaysia's culinary signatures. This guide explains their origins, regional variations and official heritage status — including the 2024 UNESCO recognition."

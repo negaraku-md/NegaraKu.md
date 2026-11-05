@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "மலேசியாவின் தேசிய உணவுகள்: நசி லெமாக், ரொட்டி சானாய், சார் குவே தியாவ் & லக்சா"
 seoTitle: "மலேசியாவின் தேசிய உணவுகள் — நசி லெமாக், ரொட்டி சானாய், லக்சா"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "நசி லெமாக் (nasi lemak), ரொட்டி சானாய் (roti canai), சார் குவே தியாவ் (char kuey teow) மற்றும் லக்சா (laksa) ஆகியவை மலேசியாவின் சமையல் அடையாளங்கள். இந்த வழிகாட்டி அவற்றின் தோற்றம், பிராந்திய வேறுபாடுகள் மற்றும் அதிகாரப்பூர்வ பாரம்பரிய அந்தஸ்தை — 2024 UNESCO அங்கீகாரம் உட்பட — விளக்குகிறது."

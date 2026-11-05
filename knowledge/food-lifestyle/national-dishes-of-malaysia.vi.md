@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "Các Món ăn Quốc gia của Malaysia: Nasi Lemak, Roti Canai, Char Kuey Teow & Laksa"
 seoTitle: "Các Món ăn Quốc gia của Malaysia — Nasi Lemak, Roti Canai, Laksa"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "Nasi lemak, roti canai, char kuey teow và laksa là những dấu ấn ẩm thực của Malaysia. Hướng dẫn này giải thích nguồn gốc, các biến thể vùng miền và tình trạng di sản chính thức của chúng — bao gồm sự công nhận của UNESCO năm 2024."

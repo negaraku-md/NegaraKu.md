@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "말레이시아의 대표 음식: 나시 르막, 로티 차나이, 차 쿠에이 테오, 락사"
 seoTitle: "말레이시아 대표 음식 — 나시 르막, 로티 차나이, 락사"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "나시 르막, 로티 차나이, 차 쿠에이 테오, 락사는 말레이시아 요리의 상징입니다. 이 안내서는 그 유래, 지역별 변형, 그리고 2024년 유네스코 인정을 포함한 공식 유산 지위를 설명합니다."

@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "मलेशिया के राष्ट्रीय व्यंजन: Nasi Lemak, Roti Canai, Char Kuey Teow और Laksa"
 seoTitle: "मलेशिया के राष्ट्रीय व्यंजन — Nasi Lemak, Roti Canai, Laksa"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "nasi lemak, roti canai, char kuey teow और laksa मलेशिया की पाक-कला की पहचान हैं। यह मार्गदर्शिका उनके मूल, क्षेत्रीय विविधताओं और आधिकारिक विरासत-दर्जे की व्याख्या करती है — 2024 की UNESCO मान्यता सहित।"

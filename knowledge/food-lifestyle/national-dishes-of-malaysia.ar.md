@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "الأطباق الوطنية في ماليزيا: Nasi Lemak وRoti Canai وChar Kuey Teow وLaksa"
 seoTitle: "الأطباق الوطنية في ماليزيا — Nasi Lemak وRoti Canai وLaksa"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "nasi lemak وroti canai وchar kuey teow وlaksa هي بصمات ماليزيا في فنّ الطهي. يشرح هذا الدليل أصولها وتنوّعاتها الإقليمية ومكانتها التراثية الرسمية — بما في ذلك اعتراف اليونسكو عام 2024."

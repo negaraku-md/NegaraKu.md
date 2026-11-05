@@ -3,6 +3,11 @@ topicId: MY-FDL-0011
 title: "马来西亚国民美食：椰浆饭、印度煎饼、炒粿条与叻沙"
 seoTitle: "马来西亚国民美食 — 椰浆饭、印度煎饼、叻沙"
 slug: "national-dishes-of-malaysia"
+hero: "/media/food/national-dishes-of-malaysia/hero.webp"
+heroAlt: "A banana-leaf serving of nasi lemak with sambal, fried anchovies, roasted peanuts, cucumber and a boiled egg"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["makanan"]
 summary: "椰浆饭（nasi lemak）、印度煎饼（roti canai）、炒粿条（char kuey teow）和叻沙（laksa）是马来西亚的招牌美食。本指南阐述它们的起源、地方变体及其官方遗产地位——包括2024年联合国教科文组织（UNESCO）的认定。"
