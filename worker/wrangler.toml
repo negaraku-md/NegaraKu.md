@@ -29,6 +29,20 @@ dataset = "negaraku_analytics"
 
 # Run on every request to the live site. REQUIRES the zone's DNS records to be
 # PROXIED (orange cloud) — a DNS-only record never reaches the Worker.
+#
+# COST CARVE-OUT (dashboard-managed, 2026-11-05): to stay under the Free plan's
+# 100k Worker-requests/day limit, three MORE-SPECIFIC routes are set to "no worker"
+# in the Cloudflare dashboard (Workers Routes), so static assets skip this Worker
+# and serve straight from the edge cache (the "Long-cache static assets" Cache Rule,
+# 1y edge+browser TTL, finally applies once the Worker is out of the way):
+#     negaraku.md/_astro/*   → (none)    hashed JS/CSS/fonts — immutable
+#     negaraku.md/og/*       → (none)    ~28k OG card PNGs (unfurl traffic)
+#     negaraku.md/brand/*    → (none)    logos / social art
+# These are NOT expressible here (wrangler.toml can't declare no-worker routes) and
+# `wrangler deploy` does NOT remove them (they belong to no worker). If you ever need
+# analytics/redirects back on an asset path, delete that route in the dashboard.
+# Also on this route: "Request limit failure mode = Fail open" — if the daily cap is
+# hit, requests pass through to GitHub Pages instead of erroring (site stays up).
 [[routes]]
 pattern = "negaraku.md/*"
 zone_name = "negaraku.md"
