@@ -19,17 +19,6 @@ const SOCIAL = [
 
 const cols = [
   {
-    title: t('nav.explore', locale),
-    links: [
-      { label: t('nav.understand', locale), href: localePath('/understand', locale) },
-      { label: t('nav.living', locale), href: localePath('/living', locale) },
-      { label: t('nav.business', locale), href: localePath('/doing-business', locale) },
-      { label: t('nav.articles', locale), href: localePath('/articles', locale) },
-      { label: t('nav.categories', locale), href: localePath('/categories', locale) },
-      { label: t('nav.trending', locale), href: localePath('/most-read', locale) },
-    ],
-  },
-  {
     title: L('Projek', 'Project', '项目', 'திட்டம்', 'プロジェクト', '프로젝트', 'โครงการ', 'Dự án', 'Proyek', 'المشروع', 'परियोजना', 'Proyecto', 'Projet'),
     links: [
       { label: t('nav.aboutPage', locale), href: localePath('/about', locale) },
@@ -109,7 +98,7 @@ const cols = [
     padding-top: 2.5rem;
   }
   .foot-grid {
-    display: grid; grid-template-columns: 1.7fr repeat(3, 1fr); gap: 1.5rem 2rem;
+    display: grid; grid-template-columns: 1.7fr repeat(2, 1fr); gap: 1.5rem 2rem;
     padding-bottom: 2.2rem;
   }
   /* Match the header/title wordmark exactly: same font, weight, size and colour. */
