@@ -237,4 +237,3 @@ ditelusuri NegaraKu.md di tempat lain.
   hari.
 - [Masakan daerah dan etnis](/id/food-lifestyle/regional-and-ethnic-cuisines) —
   peta yang lebih luas tentang cara komunitas Malaysia makan.
-</content>

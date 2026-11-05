@@ -230,4 +230,3 @@ mee。（Time Out是与Time杂志不同的刊物，两者有时会被混淆。�
 - [Nasi kandar](/zh/food-lifestyle/nasi-kandar)——槟城全天供应的印度穆斯林饭食。
 - [地方与族群菜系](/zh/food-lifestyle/regional-and-ethnic-cuisines)——槟城这座大熔炉
   厨房所属的全国版图。
-</content>

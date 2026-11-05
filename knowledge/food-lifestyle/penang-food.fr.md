@@ -275,4 +275,3 @@ une seule petite île affamée.
   servi à toute heure.
 - [Cuisines régionales et ethniques](/fr/food-lifestyle/regional-and-ethnic-cuisines) — la
   carte nationale à laquelle appartient la cuisine-creuset de Penang.
-</content>

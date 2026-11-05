@@ -266,4 +266,3 @@ Malaysia yang terpusatkan ke dalam satu pulau kecil yang lapar.
   tersaji sepanjang waktu.
 - [Masakan daerah dan etnik](/id/food-lifestyle/regional-and-ethnic-cuisines) — peta
   nasional tempat dapur periuk-peleburan Penang bernaung.
-</content>

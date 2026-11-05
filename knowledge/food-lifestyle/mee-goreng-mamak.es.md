@@ -237,4 +237,3 @@ que NegaraKu.md traza en otros lugares.
   día.
 - [Cocinas regionales y étnicas](/es/food-lifestyle/regional-and-ethnic-cuisines)
   — el mapa más amplio de cómo comen las comunidades de Malasia.
-</content>

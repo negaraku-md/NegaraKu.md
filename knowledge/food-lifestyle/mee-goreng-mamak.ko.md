@@ -220,4 +220,3 @@ Madras 해안에서 온 Chulia 상인으로 묘사된다 — 이들이 자신의
 - [로티 차나이](/ko/food-lifestyle/roti-canai) — 하루를 여는 마막의 납작빵.
 - [지역 및 민족 요리](/ko/food-lifestyle/regional-and-ethnic-cuisines) —
   말레이시아 공동체들이 어떻게 먹는지의 더 넓은 지도.
-</content>

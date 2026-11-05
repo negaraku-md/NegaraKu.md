@@ -264,4 +264,3 @@ hòn đảo nhỏ, đói bụng.
   của Penang.
 - [Các nền ẩm thực vùng miền và sắc tộc](/vi/food-lifestyle/regional-and-ethnic-cuisines) —
   bản đồ toàn quốc mà căn bếp nồi lẩu của Penang thuộc về.
-</content>

@@ -250,4 +250,3 @@ Singapore ตามที่ The Star รายงาน บทความข�
   ตลอดทั้งวัน
 - [อาหารประจำภูมิภาคและชาติพันธุ์](/th/food-lifestyle/regional-and-ethnic-cuisines) —
   แผนที่ระดับชาติที่ครัวเบ้าหลอมของปีนังสังกัดอยู่
-</content>

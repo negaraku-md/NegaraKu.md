@@ -228,4 +228,3 @@ verificationNeeded:
   平たいパン。
 - [地方料理・民族料理](/ja/food-lifestyle/regional-and-ethnic-cuisines) ——
   マレーシアの各コミュニティがどう食べるかの、より広い地図。
-</content>

@@ -247,4 +247,3 @@ Hanoi와 Singapore를 제치고, 아시아 최고의 길거리 음식 도시로 
   요리.
 - [지역·종족 요리](/ko/food-lifestyle/regional-and-ethnic-cuisines) — 페낭의 용광로 주방이
   속한 전국의 지도.
-</content>

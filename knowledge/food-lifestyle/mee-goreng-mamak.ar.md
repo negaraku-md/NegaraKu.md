@@ -217,4 +217,3 @@ verificationNeeded:
   يفتتح اليوم.
 - [المطابخ الإقليمية والعرقية](/ar/food-lifestyle/regional-and-ethnic-cuisines) —
   الخريطة الأوسع لكيفية أكل طوائف ماليزيا.
-</content>

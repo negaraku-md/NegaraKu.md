@@ -273,4 +273,3 @@ Guide](/ta/food-lifestyle/michelin-guide-malaysia) வழிகாட்டி�
   இந்திய-முஸ்லிம் சோற்றுணவு.
 - [பிராந்திய மற்றும் இன சமையல்கள்](/ta/food-lifestyle/regional-and-ethnic-cuisines) —
   பினாங்கின் கலவைப்-பாத்திரச் சமையலறை சேரும் தேசிய வரைபடம்.
-</content>

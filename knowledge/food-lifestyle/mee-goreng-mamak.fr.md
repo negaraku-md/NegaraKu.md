@@ -245,4 +245,3 @@ que NegaraKu.md trace ailleurs.
   journée.
 - [Cuisines régionales et ethniques](/fr/food-lifestyle/regional-and-ethnic-cuisines)
   — la carte plus vaste de la façon dont mangent les communautés de Malaisie.
-</content>

@@ -1,0 +1,189 @@
+---
+topicId: MY-FDL-0046
+title: "Rojak: 말레이시아의 버무림 샐러드 — 그리고 한 나라의 은유"
+seoTitle: "Rojak"
+slug: "rojak"
+hero: "/media/food/rojak/hero.webp"
+heroAlt: "말레이시아 rojak 한 접시"
+heroCredit: "Unilokman25 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File%3ARojak_Pasembur.jpg"
+category: "food-lifestyle"
+subcategory: ["dishes"]
+summary: "rojak은 말레이어로 '섞음'을 뜻하며, 이 음식은 그 이름에 걸맞다 — 진하고 달고 짭짤한 소스에 버무린 버무림 샐러드의 한 집안이다. 이 안내서는 주요 종류를 다룬다 — 진한 발효 새우장 소스의 과일(중국식) rojak, 튀김이 가득하고 북부에서는 pasembur라 불리는 인도식 또는 mamak rojak, 그리고 시큼하고 토피처럼 검은 페낭 판 — 아울러 'rojak'이 어떻게 말레이시아인이 자신들의 다문화적 뒤섞임을 가리키는 가장 즐겨 쓰는 표현이 되었는지를 설명한다."
+
+tier: "2"
+mode: "narrative"
+contentType: "guide"
+sensitivity: "none"
+
+answer: "rojak은 말레이시아의 버무림 샐러드로, 그 이름은 문자 그대로 '섞음'을 뜻하며 여러 뚜렷이 다른 양식이 있다. 과일 rojak 또는 중국식 rojak은 히카마(sengkuang/얌빈), 오이, 파인애플, 풋망고, 밀가루 튀김을 발효 새우장(hae ko), 타마린드, 설탕, 고추로 만든 진하고 달고 짭짤한 소스에 버무리고 으깬 땅콩을 뿌린다. 인도식 또는 mamak rojak — 북부에서는 pasembur라 불린다 — 은 튀김, 감자, 갑오징어, 두부, 오이를 쌓고 달고 매운 땅콩-고구마 그레이비를 끼얹는다. 페낭 rojak은 시큼하고 토피처럼 검은 지역판이다. 이 단어는 또한 말레이시아가 자신들의 다문화적 뒤섞임을 가리키는 가장 즐겨 쓰는 은유이기도 하다."
+keyTakeaways:
+  - "'rojak'은 '섞음'을 뜻하는 말레이어 단어이며, 이 음식이 바로 그러하다 — 고정된 조리법이 아니라, 진한 소스에 버무린 버무림 샐러드다."
+  - "과일(중국식) rojak은 히카마, 오이, 파인애플, 풋망고, 밀가루 튀김을 발효 새우장(hae ko), 타마린드, 설탕, 고추의 진한 소스에 버무리고 으깬 땅콩으로 마무리한다."
+  - "인도식 또는 mamak rojak — 페낭과 북부에서는 pasembur로 알려진 — 은 튀김, 감자, 갑오징어, 두부, 새우 튀김, 오이를 바탕으로 달고 매운 땅콩-고구마 그레이비를 끼얹는다."
+  - "페낭 rojak은 높이 평가받는 지역판으로, 거의 토피에 가까운 매우 진한 소스와 풋망고·풋사과 같은 시큼한 과일이 특징이다."
+  - "말레이시아인은 'rojak'을 잡다하게 뒤섞인 모든 것을 가리키는 비유로 쓴다 — 이 나라 자신의 다민족 사회와, 뒤죽박죽 섞인 'bahasa rojak' 말투까지 포함해서."
+appliesTo: "여행자, 음식 애호가, 요리하는 사람, 그리고 말레이시아의 rojak 종류를 구분하거나 이 단어의 문화적 의미를 이해하고자 하는 모든 이."
+
+faq:
+  - q: "과일 rojak과 인도식(mamak) rojak의 차이는 무엇인가요?"
+    a: "과일 rojak은 흔히 중국식 rojak이라 불리며, 과일과 채소의 차가운 샐러드 — 히카마, 오이, 파인애플, 풋망고, 밀가루 튀김 — 를 발효 새우장(hae ko), 타마린드, 설탕, 고추로 만든 진하고 검은 달고 짭짤한 소스에 버무린 뒤 으깬 땅콩을 뿌린 것입니다. 인도식 또는 mamak rojak은 전혀 다른 음식입니다. 튀김, 삶은 감자, 갑오징어, 두부, 새우 튀김, 오이를 썰어, 진하고 달고 매운 땅콩-고구마 그레이비를 끼얹어 냅니다."
+  - q: "pasembur란 무엇인가요?"
+    a: "pasembur는 나라의 다른 지역에서 rojak mamak이라 부르는 것 — 인도계 무슬림의 튀김 rojak — 을 페낭과 말레이반도 북부에서 부르는 이름입니다. 둘은 본질적으로 같은 발상으로, 튀김, 감자, 갑오징어, 두부, 오이를 바탕으로 달고 매운 땅콩 소스에 버무린 것이며, 지역에 따라 이름만 바뀝니다."
+  - q: "말레이시아인은 왜 자신들의 사회를 'rojak'으로 묘사하나요?"
+    a: "그 단어가 단지 '섞음'을 뜻하고, 이 음식이 함께 버무린 뒤에도 각 재료가 여전히 알아볼 수 있는 혼합이기 때문입니다. 말레이시아인은 이를 잡다하게 뒤섞인 모든 것의 비유로 — 가장 흔히는 자신들의 다민족 사회와, 한 문장 안에 말레이어, 영어, 중국어 방언, 타밀어를 섞는 일상의 'bahasa rojak'을 가리켜 — 씁니다."
+
+lang: "ko"
+sourceContentHash: "d16b32dff8d49ac3"
+masterLanguage: "en"
+translationStatus: "in-sync"
+
+status: "reviewed"
+aiAssisted: true
+reviewer: "ashton-tan"
+reviewed: 2026-11-06
+reviewDue: null
+publishedBy: null
+revision: null
+revisions: []
+
+updated: 2026-11-06
+sources:
+  - title: "로작(Rojak)"
+    url: "https://en.wikipedia.org/wiki/Rojak"
+    publisher: "위키백과"
+  - title: "파셈부르(Pasembur)"
+    url: "https://en.wikipedia.org/wiki/Pasembur"
+    publisher: "위키백과"
+  - title: "우리 북부 사람들이 pasembur라 부르는 rojak (Meet the rojak we northerners call pasembur)"
+    url: "https://www.malaymail.com/news/eat-drink/2014/05/11/meet-the-rojak-we-northerners-call-pasembur/664961"
+    publisher: "Malay Mail"
+    date: "2014-05-11"
+  - title: "로작(Rojak)"
+    url: "https://www.penang-traveltips.com/rojak.htm"
+    publisher: "Penang Travel Tips"
+  - title: "Rojak: 말레이시아 현대 작곡가들의 선별된 작품(2001-2014)에 동화된 문화적 요소에 관한 연구 (Rojak: a study of cultural elements assimilated in selected works of Malaysian contemporary composers (2001-2014))"
+    url: "https://digital.library.adelaide.edu.au/dspace/handle/2440/115182"
+    publisher: "애들레이드 대학교"
+
+relations:
+  - { rel: "part-of", to: "malaysia" }
+related:
+  - "national-dishes-of-malaysia"
+  - "regional-and-ethnic-cuisines"
+  - "penang-food"
+keywords:
+  - "rojak"
+  - "rojak buah"
+  - "fruit rojak"
+  - "Chinese rojak"
+  - "pasembur"
+  - "rojak mamak"
+  - "Indian rojak"
+  - "Penang rojak"
+  - "hae ko"
+  - "bahasa rojak"
+social:
+  hashtags: ["#Rojak", "#Pasembur", "#MalaysianFood", "#Makanan", "#Malaysia"]
+verificationNeeded:
+  - "rojak의 기원. 참고 문헌은 이 단어와 음식을 고대 자바어로 거슬러 올라가 추적한다(Zoetmulder는 이를 anrujak/rinujak, 곧 '작은 조각으로 썰다'에서 유래한 것으로 보았다). 그러나 말레이시아에 존재하는 형태로서 이 음식은 여러 문화에 걸쳐 있고, 단일한 창안자나 확정된 연대는 기록되어 있지 않다 — 음식 매체가 아니라 요리 역사나 어원학 자료로 확인할 것."
+  - "특히 인도식/mamak rojak(pasembur)의 기원과 연대. 음식 필자들은 mamak 판이 언제 어디서 생겨났는지에 대한 확실한 근거가 없다고 지적한다 — 연대나 창안자를 확신에 차 말하지 말 것."
+  - "발효 새우장(hae ko)이 과일 rojak에 보편적으로 쓰이는지 여부. 일부 자료는 소스를 그저 새우장, 설탕, 고추, 라임즙으로 설명하며, 일부 상인은 타마린드나 흑두장을 더한다. hae ko의 구체적 사용과 명칭은 제각각이다 — 지역 자료로 확인할 것."
+---
+
+어느 가판대에서 "rojak"을 주문하면, 진하고 검으며 톡 쏘면서도 단 소스를 입힌, 차가운
+과일과 밀가루 튀김 더미가 나온다. 바로 옆 가판대에서 주문하면, 주황빛 땅콩 그레이비에
+잠긴, 튀김·감자·갑오징어의 뜨거운 한 접시가 나온다. 둘은 이름 말고는 거의 아무것도
+공유하지 않는다 — 그리고 바로 그 점이 핵심이다. *rojak*이 그저 **섞음**을 뜻하기
+때문이다.
+
+## 한 단어, 숱한 섞음
+
+rojak은 조리법이라기보다 하나의 방법이다. 잡다한 재료를 가져다 썰고, 강한 — 대개 달고
+짭짤한 — 소스로 묶는다. 따라서 "rojak"으로 치는 것은 요리 갈래와 공동체를 가로질러
+뻗어 있다. 중국 노점상이 파는 과일 샐러드부터 인도계 무슬림 요리사가 만드는 튀김
+모둠까지. 공통의 실마리는 대비다 — 아삭함과 부드러움, 단맛과 소금·고추, 신선함과 튀김
+— 이를 하나의 선명한 소스가 한데 묶는다.
+
+단어 자체는 널리 고대 자바어로 거슬러 올라간다고 여겨진다. 사전편찬자 Petrus Josephus
+Zoetmulder는 이를 *anrujak* 또는 *rinujak*, 곧 "작은 조각으로 썰다"에서 유래한 것으로
+보았고, 이 음식은 지역 전역으로 퍼지기 전에 자바에서 기원한 것으로 흔히 설명된다. 그것이
+오늘날 말레이시아인이 먹는, 여러 문화에 걸친 주식으로 어떻게 되었는지는 훨씬 덜 기록되어
+있으며, 단일한 창안자나 창시 연대에 관한 주장은 신중히 다루어야 한다(*확인이 필요한 것*
+참조). 의심의 여지가 없는 것은 rojak이 이 나라의 [길거리 음식과 야시장](/ko/food-lifestyle/pasar-malam-and-street-food)
+문화에 얼마나 철저히 자리 잡았는가이며, 그곳에서는 그 여러 형태가 나란히 팔린다.
+
+## 과일 rojak: 중국 노점상의 샐러드
+
+많은 말레이시아인이 가장 먼저 떠올리는 판이 **과일 rojak**(*rojak buah*)으로, 중국
+노점상과 가장 깊이 연관되어 **중국식 rojak**이라고도 불린다. 아삭하고 물기가 많으며 신
+농산물을 바탕으로 한 차가운 샐러드다. 히카마(*sengkuang*/얌빈), 오이, 파인애플,
+풋(덜 익은)망고, 그리고 숙주에, 밀가루 튀김(*yau char kwai*) 깍둑썰기, 때로는 씹는
+맛을 위해 튀긴 유부를 섞어 넣는다.
+
+모두 한입 크기로 썰어 소스에 버무려 입히고, 내기 직전 으깬 볶은 땅콩을 듬뿍 뿌린다.
+결과물은 차갑게, 간식이나 나눠 먹는 한 접시로 먹으며, 소스를 입혀도 각 재료가 또렷이
+남는 점에서 귀히 여겨진다.
+
+## 그것을 rojak으로 만드는 소스
+
+썬 과일 한 그릇을 rojak으로 바꾸는 것은 소스다. 과일 판에서 그것은 진하고 검으며
+강렬하게 짭짤하고 달다. **발효 새우(또는 작은 새우)장**을 중심으로 만들어진다 — 북부와
+중국식의 많은 조리에서는 *hae ko*(일부 지역에서는 *petis*)라 불리는 빽빽하고 당밀 같은
+장 — 물로 묽혀, **설탕**, 신맛을 내는 **타마린드**(*asam*), 매운맛을 내는 **고추**,
+그리고 라임 한 줄기로 균형을 맞춘다. 어떤 상인은 더 수수한 새우장 소스를 쓰며 취향에
+따라 타마린드나 흑두장을 더하기도 해서, 정확한 배합은 가판대마다 다르다. 조리법이
+무엇이든 목표는 같다 — 쿰쿰함, 단맛, 신맛, 매운맛의 균형 — 그리고 위에 뿌린 으깬 땅콩이
+마지막 짭짤한 아삭함을 더한다.
+
+## 인도식 rojak과 pasembur: 튀김 한 접시
+
+이 집안의 또 다른 큰 갈래가 인도계 무슬림, 곧 **mamak**의 rojak이다 — 차가운 샐러드가
+아니라 뜨겁고 든든한 음식이다. **rojak mamak**은 튀김(새우 튀김, *cucur udang* 포함),
+튀긴 두부와 두부, 삶은 감자, 갑오징어나 오징어, 완숙 달걀, 숙주, 오이를 수북이 쌓아
+모두 썬 다음 **간 땅콩과 고구마**를 바탕으로 한 진하고 달고 매운 그레이비를 끼얹는다.
+[인도계 말레이시아 요리](/ko/food-lifestyle/indian-malaysian-cuisine)와 전국에 있는
+mamak 노점의 단골 메뉴다.
+
+여기서 이름이 지역에 따라 갈린다. 페낭과 북부에서는 같은 음식을 **pasembur**라 부르고,
+말레이시아의 다른 곳에서는 **rojak mamak** 또는 그냥 "인도 rojak"이라 부른다. 2014년
+북부에서 나온 한 기록은 그 구별을 분명히 짚었다 — 그곳에서 "rojak"은 대개 과일과 검은
+소스 판을 뜻하고, 진하고 풍부한 주황색 소스를 입힌 튀김 접시가 pasembur라는 것이다.
+이름을 빼면 두 음식은 같은 발상이다. 누가 처음 그것을 짜 맞췄는지, 언제인지는 확실히
+기록되어 있지 않으며, 평판 있는 음식 필자들도 mamak 판의 기원에 확실한 근거가 없다고
+지적해 왔다.
+
+## 페낭 rojak: 섬의 시큼하고 토피처럼 검은 판
+
+페낭 — [노점 음식](/ko/food-lifestyle/penang-food)의 대명사 — 은 과일 판에 가장 이름난
+지역 형태를 선사한다. **페낭 rojak**은 덜 익은 망고와 풋사과 같은 시큼한 과일에 크게
+기대며, 흔히 물사과(*jambu air*), 구아바, 오징어 튀김을 더하는 한편, 다른 판의 숙주와
+유부는 자주 빠진다. 그 결정적 특징은 소스다. 대개 그 어느 것보다 진하고 검으며, 거의
+토피 같은 농도로, 때로 약간의 꿀로 풍미를 더한다. 그 결과는 날카롭고 달며 동시에 깊이
+짭짤한 샐러드 — rojak이 마땅히 그래야 할 모든 것을 농축한 판이다.
+
+## 말레이시아의 은유로서의 rojak
+
+음식 단어 가운데 접시 바깥으로 이토록 멀리 여행한 것은 드물다. *rojak*이 각 부분이
+여전히 알아볼 수 있는 채로 남는 혼합을 뜻하기에, 말레이시아인은 이를 잡다한 모든 것의
+일상적 비유로 — 그리고 가장 상징적으로는 자신들의 다민족 사회를 가리켜 — 쓴다. 이
+이미지가 매력적인 것은 바로 rojak이 퓌레가 아니기 때문이다. 말레이계, 중국계, 인도계와
+그 밖의 공동체가 한 음식에 섞이면서도 각자가 알아볼 수 있는 채로, 공유된 소스로 묶여
+있다.
+
+같은 은유가 하나의 말투에도 이름을 붙인다. **"bahasa rojak"**은 한 문장 안에 말레이어,
+영어, 중국어 방언, 타밀어를 섞는 말레이시아인의 습관을 가리키는 구어다. 이 음식이 언어와
+정체성에까지 미친다는 점이야말로 그것이 요리책을 훌쩍 넘어 등장하는 이유이며 — 말레이시아
+예술에 관한 학술 연구에서조차 섞이되 각기 뚜렷한 작품들이 이 국민적 샐러드에 견주어지는
+하나의 표상이 된다. 말레이시아에서 무언가를 "rojak"이라 부르는 것은, 결국, 이 나라에 그
+자신에 관한 조용한 찬사를 건네는 일이다.
+
+## 다음으로 볼 것
+
+- [말레이시아의 국민 음식](/ko/food-lifestyle/national-dishes-of-malaysia) — 이 나라의
+  요리 상징들 가운데 rojak이 어디에 자리하는지.
+- [페낭 음식](/ko/food-lifestyle/penang-food) — rojak과 pasembur에 가장 유명한 형태를 준
+  섬의 노점 풍경.
+- [지역·민족 요리](/ko/food-lifestyle/regional-and-ethnic-cuisines) — 말레이시아의
+  공동체와 각 주가 어떻게 먹는지에 관한 더 넓은 지도.

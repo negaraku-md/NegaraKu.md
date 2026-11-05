@@ -229,4 +229,3 @@ mà NegaraKu.md phác họa ở nơi khác.
   ngày.
 - [Ẩm thực vùng miền và sắc tộc](/vi/food-lifestyle/regional-and-ethnic-cuisines)
   — tấm bản đồ rộng hơn về cách các cộng đồng của Malaysia ăn uống.
-</content>

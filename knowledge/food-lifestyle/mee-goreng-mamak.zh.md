@@ -196,4 +196,3 @@ Mee goreng mamak 与它被烹煮的地方密不可分。「嘛嘛」（mamak）�
 - [Roti canai](/zh/food-lifestyle/roti-canai)——开启一天的嘛嘛烙饼。
 - [地方与族群菜系](/zh/food-lifestyle/regional-and-ethnic-cuisines)——马来西亚各
   社群饮食方式的更广阔版图。
-</content>

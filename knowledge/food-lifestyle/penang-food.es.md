@@ -269,4 +269,3 @@ isla pequeña y hambrienta.
   Penang, disponible a todas horas.
 - [Cocinas regionales y étnicas](/es/food-lifestyle/regional-and-ethnic-cuisines): el mapa
   nacional al que pertenece la cocina de crisol de Penang.
-</content>

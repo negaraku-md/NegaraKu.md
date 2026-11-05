@@ -247,4 +247,3 @@ MICHELIN Guide](/ja/food-lifestyle/michelin-guide-malaysia)のガイドで追跡
   ムスリムのご飯料理。
 - [地方・民族料理](/ja/food-lifestyle/regional-and-ethnic-cuisines) — ペナンのるつぼの
   厨房が属する、国全体の地図。
-</content>

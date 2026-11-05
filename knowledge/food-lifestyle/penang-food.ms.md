@@ -270,5 +270,3 @@ Malaysia yang tertumpu ke dalam satu pulau yang kecil dan lapar.
   yang dihidangkan sepanjang masa.
 - [Masakan serantau dan etnik](/ms/food-lifestyle/regional-and-ethnic-cuisines) — peta
   nasional yang dapur kuali lebur Pulau Pinang tergolong di dalamnya.
-</content>
-</invoke>
