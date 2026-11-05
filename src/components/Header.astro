@@ -13,8 +13,10 @@ interface Props {
   locale: Locale;
   /** Current path WITHOUT locale prefix, e.g. "/graph" or "/history/kesultanan-melaka". */
   path: string;
+  /** Hide the language switcher — for single-locale pages (e.g. the English /embed). */
+  hideLangSwitch?: boolean;
 }
-const { locale, path } = Astro.props;
+const { locale, path, hideLangSwitch = false } = Astro.props;
 
 // Reader + Contributor navs both ship in every page; the browser shows one based
 // on <html data-view> (set client-side, no flash). Same template renders both.
@@ -116,6 +118,7 @@ const NAV_GROUPS = [
           Each option is a real <a href> with hreflang, so it works without JS and
           keeps the SEO alternate-language signal. Summary shows the current
           language's native name (wide) or its code (narrow). */}
+      {!hideLangSwitch && (
       <details class="lang-menu">
         <summary aria-label={LOCALE_NAMES[locale]} title={LOCALE_NAMES[locale]}>
           <svg class="lang-globe" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
@@ -142,6 +145,7 @@ const NAV_GROUPS = [
           }
         </div>
       </details>
+      )}
     </div>
   </div>
 </header>
