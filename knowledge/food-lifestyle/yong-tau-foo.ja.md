@@ -39,13 +39,13 @@ sourceContentHash: "930b538aa7b8e107"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06
