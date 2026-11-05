@@ -54,14 +54,6 @@ const cols = [
     ],
   },
 ];
-
-// Trust strip — what makes the knowledge base distinctive, at a glance.
-const trust = [
-  L('13 bahasa', '13 languages', '13 种语言', '13 மொழிகள்', '13の言語', '13개 언어', '13 ภาษา', '13 ngôn ngữ', '13 bahasa', '13 لغة', '13 भाषाएँ', '13 idiomas', '13 langues'),
-  L('Bersumber & dipetik', 'Sourced & cited', '有来源·有引用', 'ஆதாரம் & மேற்கோள்', '出典付き・引用付き', '출처·인용 명시', 'มีแหล่งอ้างอิง', 'Có nguồn & trích dẫn', 'Bersumber & dikutip', 'موثّق ومُستشهَد', 'स्रोत-सहित', 'Con fuentes y citas', 'Sourcé et cité'),
-  L('Mesra-AI', 'AI-friendly', 'AI 友好', 'AI-நட்பு', 'AIフレンドリー', 'AI 친화적', 'เป็นมิตรกับ AI', 'Thân thiện với AI', 'Ramah-AI', 'ملائم لـ AI', 'AI-अनुकूल', 'Compatible con IA', "Adapté à l'IA"),
-  'CC BY-SA 4.0',
-];
 ---
 
 <footer class="site-footer" data-pagefind-ignore>
@@ -93,15 +85,6 @@ const trust = [
         ))
       }
     </div>
-
-    <div class="foot-trust" aria-hidden="true">
-      {trust.map((b, i) => (
-        <>
-          {i > 0 && <span class="ts-sep">·</span>}
-          <span class="ts-badge">{b}</span>
-        </>
-      ))}
-    </div>
   </div>
 
   <div class="container legal">
@@ -127,7 +110,7 @@ const trust = [
   }
   .foot-grid {
     display: grid; grid-template-columns: 1.7fr repeat(3, 1fr); gap: 1.5rem 2rem;
-    padding-bottom: 1.6rem;
+    padding-bottom: 2.2rem;
   }
   /* Match the header/title wordmark exactly: same font, weight, size and colour. */
   .name { font-family: var(--font-title); font-weight: 700; font-size: 1.2rem; margin: 0; color: var(--ink); }
@@ -153,15 +136,6 @@ const trust = [
   }
   .foot-col a { color: var(--ink-soft); text-decoration: none; font-size: 0.92rem; }
   .foot-col a:hover { color: var(--gold); }
-
-  /* Trust strip — distinctive signals, between the link grid and the legal bar. */
-  .foot-trust {
-    display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem 0.85rem;
-    padding: 0.95rem 0; border-top: 1px solid var(--line);
-    font-size: 0.8rem; color: var(--muted);
-  }
-  .ts-badge { font-weight: 600; letter-spacing: 0.01em; }
-  .ts-sep { opacity: 0.5; }
 
   .legal {
     border-top: 1px solid var(--line);
