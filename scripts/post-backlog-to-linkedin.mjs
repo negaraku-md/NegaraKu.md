@@ -8,9 +8,13 @@
 // Invoked with article files/bases (post exactly those, in every language), or in
 // queue mode (the cron path: drain the next rotated batch up to the day's target).
 //
-// Env:
-//   LINKEDIN_ACCESS_TOKEN — Community-Management token (w_organization_social),
-//                           minted for a member who ADMINS the org. Absent → dry run.
+// Env — token (either form):
+//   LINKEDIN_ACCESS_TOKEN — a ready Community-Management token (w_organization_social,
+//                           org ADMIN). Simplest, but expires ~60 days → manual re-paste.
+//   — OR the auto-refresh triplet (hands-off; mints a fresh 60-day token each run) —
+//   LINKEDIN_REFRESH_TOKEN + LINKEDIN_CLIENT_ID + LINKEDIN_CLIENT_SECRET (365-day
+//                           refresh token + the LinkedIn app credentials).
+//   Neither set → dry run (preview only, posts nothing).
 //   SITE_URL              — default https://negaraku.md
 //   LINKEDIN_DRY_RUN=1    — log what would be posted, don't call the API.
 //   LINKEDIN_BACKLOG_QUEUE=1 — with no files, drain the ranked queue (cron path).
@@ -20,14 +24,16 @@ import { readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import matter from 'gray-matter';
 import { articleBases, langFile, isPublishedBase } from './lib/facebook.mjs';
-import { buildPost, postArticle, ORG_URN, LANGS } from './lib/linkedin.mjs';
+import { buildPost, postArticle, getAccessToken, ORG_URN, LANGS } from './lib/linkedin.mjs';
 import {
   loadManifest, saveManifest, isDone, markPost,
   listPublishedBases, nextBatch, perDay, postedTodayCountMYT,
 } from './lib/li-queue.mjs';
 
 const SITE_URL = process.env.SITE_URL ?? 'https://negaraku.md';
-const TOKEN = process.env.LINKEDIN_ACCESS_TOKEN;
+// Resolved in main() (only when NOT dry-run) via getAccessToken(): the explicit
+// LINKEDIN_ACCESS_TOKEN, else a token minted from the refresh triplet, else null.
+let TOKEN = null;
 const DRY_RUN = process.env.LINKEDIN_DRY_RUN === '1';
 const QUEUE = process.env.LINKEDIN_BACKLOG_QUEUE === '1';
 const SCHEDULED = process.env.LINKEDIN_SCHEDULED === '1';
@@ -146,6 +152,10 @@ async function main() {
   const manifest = loadManifest();
   const targets = resolveTargets(files, manifest, { scheduled: SCHEDULED && !files.length });
   if (!targets.length) { console.log('[li-backlog] nothing to do (all caught up).'); return; }
+
+  // Acquire the access token only when we actually intend to post (skip the network
+  // refresh on dry runs). Explicit token > refresh-minted token > null.
+  if (!DRY_RUN) TOKEN = await getAccessToken();
 
   // Dry run / no token: preview only, never call the API, exit 0.
   if (DRY_RUN || !TOKEN) { for (const t of targets) await preview(t); return; }

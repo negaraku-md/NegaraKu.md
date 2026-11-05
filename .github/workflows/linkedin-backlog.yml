@@ -9,9 +9,11 @@ name: Post backlog to LinkedIn
 # Committing analytics/posted-linkedin.json does NOT trigger a deploy (deploy.yml
 # ignores analytics/**).
 #
-# POSTING IS GATED on LinkedIn's Community Management API: the LINKEDIN_ACCESS_TOKEN
-# secret (scope w_organization_social, minted for an org ADMIN) must be set. Until
-# then the script runs in preview and posts nothing, so this is safe to run early.
+# POSTING IS GATED on LinkedIn's Community Management API: set EITHER the
+# LINKEDIN_ACCESS_TOKEN secret (scope w_organization_social, minted for an org
+# ADMIN; expires ~60 days) OR the auto-refresh triplet LINKEDIN_REFRESH_TOKEN +
+# LINKEDIN_CLIENT_ID + LINKEDIN_CLIENT_SECRET (hands-off — mints a fresh token each
+# run). Until one is set the script runs in preview and posts nothing — safe early.
 #
 # The daily `schedule:` is intentionally COMMENTED OUT until the token is in place
 # and posting is approved to go live. Test now with a manual dispatch + dry_run.
@@ -53,7 +55,12 @@ jobs:
 
       - name: Post backlog to LinkedIn
         env:
+          # Token: set EITHER a ready LINKEDIN_ACCESS_TOKEN (expires ~60d) OR the
+          # auto-refresh triplet below (hands-off; mints a fresh token each run).
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_REFRESH_TOKEN: ${{ secrets.LINKEDIN_REFRESH_TOKEN }}
+          LINKEDIN_CLIENT_ID: ${{ secrets.LINKEDIN_CLIENT_ID }}
+          LINKEDIN_CLIENT_SECRET: ${{ secrets.LINKEDIN_CLIENT_SECRET }}
           SITE_URL: https://negaraku.md
           # Empty "files" input → queue mode (post the next ranked batch).
           LINKEDIN_BACKLOG_QUEUE: '1'

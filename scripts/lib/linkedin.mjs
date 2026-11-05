@@ -112,3 +112,50 @@ export async function postArticle(body, token) {
   }
   return res.headers.get('x-restli-id') || res.headers.get('x-linkedin-id') || '(created)';
 }
+
+// Access-token acquisition for the posters. A LinkedIn access token lasts ~60 days,
+// so a static LINKEDIN_ACCESS_TOKEN needs a manual re-paste every ~2 months. Set the
+// refresh triplet instead — LINKEDIN_REFRESH_TOKEN (365-day) + LINKEDIN_CLIENT_ID +
+// LINKEDIN_CLIENT_SECRET (the LinkedIn app's credentials) — and each run mints a
+// fresh 60-day access token from it: hands-off until the yearly re-auth. Precedence:
+//   1. LINKEDIN_ACCESS_TOKEN  (explicit override — handy for a one-off manual run)
+//   2. refresh triplet         → mint a fresh access token
+//   3. none                    → null (the caller runs in dry-run/preview)
+export const OAUTH_TOKEN_URL = 'https://www.linkedin.com/oauth/v2/accessToken';
+
+export async function getAccessToken({ fetchImpl = fetch } = {}) {
+  const explicit = process.env.LINKEDIN_ACCESS_TOKEN;
+  if (explicit) return explicit;
+
+  const refreshToken = process.env.LINKEDIN_REFRESH_TOKEN;
+  const clientId = process.env.LINKEDIN_CLIENT_ID;
+  const clientSecret = process.env.LINKEDIN_CLIENT_SECRET;
+  if (!refreshToken || !clientId || !clientSecret) return null; // → dry-run/preview
+
+  const res = await fetchImpl(OAUTH_TOKEN_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams({
+      grant_type: 'refresh_token',
+      refresh_token: refreshToken,
+      client_id: clientId,
+      client_secret: clientSecret,
+    }),
+  });
+  const json = await res.json().catch(() => ({}));
+  if (!res.ok || !json.access_token) {
+    // Fail loudly: a dead refresh means we post nothing, and the cause — usually a
+    // 400 invalid_grant (the 365-day refresh token expired or was revoked → re-auth) —
+    // must surface, not be swallowed into a silent no-op.
+    throw new Error(`LinkedIn token refresh ${res.status}: ${JSON.stringify(json).slice(0, 300)}`);
+  }
+  // LinkedIn's 365-day refresh token is reusable for its fixed TTL and normally does
+  // NOT rotate. If a different one ever comes back, warn so the secret gets updated —
+  // a CI job can't safely rewrite its own secret.
+  if (json.refresh_token && json.refresh_token !== refreshToken) {
+    console.warn('[linkedin] ⚠ a NEW refresh_token was returned — update the LINKEDIN_REFRESH_TOKEN secret before the old one lapses.');
+  }
+  const days = json.expires_in ? Math.round(json.expires_in / 86400) : '?';
+  console.log(`[linkedin] minted a fresh access token (~${days}d) from the refresh token.`);
+  return json.access_token;
+}
