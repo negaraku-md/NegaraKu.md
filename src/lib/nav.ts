@@ -107,12 +107,14 @@ const NAV_FULL: NavMenu[] = [
 ];
 
 // When contributions are paused, present a read-only knowledge base: drop the
-// whole "Contribute" door, and the lone GitHub-issue link ("Report a site bug")
-// that lives under About. Reversible — flip CONTRIBUTIONS_PAUSED in site.ts.
+// whole "Contribute" door, and — under About — the lone GitHub-issue link
+// ("Report a site bug") and the "Contributors" credits page (no external
+// contributors to honour; it only implies a community we're not inviting while
+// paused). Reversible — flip CONTRIBUTIONS_PAUSED in site.ts.
 export const NAV: NavMenu[] = CONTRIBUTIONS_PAUSED
   ? NAV_FULL.filter((m) => m.label !== 'nav.contribute').map((m) =>
       m.label === 'nav.about'
-        ? { ...m, items: m.items?.filter((it) => it.href !== '/contribute#site') }
+        ? { ...m, items: m.items?.filter((it) => it.href !== '/contribute#site' && it.label !== 'nav.contributors') }
         : m,
     )
   : NAV_FULL;
