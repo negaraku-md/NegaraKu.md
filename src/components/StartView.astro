@@ -185,7 +185,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
 
 <!-- Explainers — collapsible, so the page stays short -->
 <section class="container block">
-  <div class="explainers">
+  <div class:list={['explainers', CONTRIBUTIONS_PAUSED && 'explainers--solo']}>
     <details class="xpl">
       <summary>
         <span class="xico" aria-hidden="true">👁️</span>
@@ -262,7 +262,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
   .paths { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; align-items: start; }
   /* When contributions are paused only the Explore card remains — centre it at a
      comfortable reading width instead of stretched across the full row. */
-  .paths--solo { grid-template-columns: minmax(0, 760px); justify-content: center; }
+  .paths--solo { grid-template-columns: minmax(0, 820px); justify-content: center; }
   @media (max-width: 820px) { .paths { grid-template-columns: 1fr; } }
   .pcol {
     background: var(--surface); border: 1px solid var(--line);
@@ -329,6 +329,9 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
 
   /* Collapsible explainers below the two columns. */
   .explainers { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; align-items: start; }
+  /* Paused: a single centered column that lines up with the solo Explore card,
+     so the page reads as one intentional column rather than a missing card. */
+  .explainers--solo { grid-template-columns: minmax(0, 820px); justify-content: center; }
   @media (max-width: 820px) { .explainers { grid-template-columns: 1fr; } }
   .xpl { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
   .xpl > summary {
