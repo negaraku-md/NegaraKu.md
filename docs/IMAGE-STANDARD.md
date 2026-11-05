@@ -47,6 +47,22 @@ scraped web photos. Two allowed sources, both **disclosed** via `heroLicense`:
    were a real photograph of them.
 
 If neither is available, ship the article with no hero rather than an unlicensed image.
+(A guide/overview article with no single photographic subject — e.g. `michelin-guide-malaysia` — is fine with no hero.)
+
+### Sourcing QA — never trust a search's first hit
+
+Picking "the first free landscape image" for a dish name is **not safe**. A real run of
+the Wikimedia Commons search returned an airBaltic **aircraft** for "ais kacang", a Ya Kun
+**storefront** for "kaya toast", a street **cart** ("ES CENDOL") for "cendol", and a wall
+**mural** ("Noi amb ais kacang") — every one correctly licensed, none usable. So:
+
+1. **Score candidates by filename**, not just orientation: +match the dish keyword in the
+   title; **−penalise** `storefront|exterior|restaurant|building|signage|aircraft|airline|cart|stall|mural|painting|logo|menu|interior|history`; prefer `bowl|plate|dish|served|food`.
+2. **Always eyeball the final set.** Build a contact sheet (sharp montage of every chosen
+   WebP + its slug) and look at it before committing. This is the only reliable check that
+   the photo actually shows the dish; it caught all four wrong images above.
+3. Reject anything that isn't the food itself served to eat (no shopfronts, art, vehicles,
+   people-first shots, or packaging).
 
 ## 5. Checklist before publishing an article with an image
 
