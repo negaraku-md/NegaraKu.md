@@ -677,10 +677,12 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       </div>
 
       <div class="side-box">
-        <b><span class="ico" set:html={ICON.edit} />{L('Sunting & sumber', 'Edit & source', '编辑与源码', 'திருத்து & மூலம்', '編集とソース', '편집 및 소스', 'แก้ไขและแหล่งที่มา', 'Chỉnh sửa & nguồn', 'Sunting & sumber', 'التحرير والمصدر', 'संपादन और स्रोत', 'Edición y fuente', "Modifier et source")}</b>
+        <b><span class="ico" set:html={ICON.edit} />{CONTRIBUTIONS_PAUSED ? L('Sumber', 'Source', '源码', 'மூலம்', 'ソース', '소스', 'แหล่งที่มา', 'Nguồn', 'Sumber', 'المصدر', 'स्रोत', 'Fuente', 'Source') : L('Sunting & sumber', 'Edit & source', '编辑与源码', 'திருத்து & மூலம்', '編集とソース', '편집 및 소스', 'แก้ไขและแหล่งที่มา', 'Chỉnh sửa & nguồn', 'Sunting & sumber', 'التحرير والمصدر', 'संपादन और स्रोत', 'Edición y fuente', "Modifier et source")}</b>
+        {!CONTRIBUTIONS_PAUSED && (
         <a class="edit" href={`${REPO}/blob/main/${sourceFile}`} rel="noopener">
           {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑', 'GitHub-இல் திருத்து', 'GitHub で編集', 'GitHub에서 편집', 'แก้ไขบน GitHub', 'Chỉnh sửa trên GitHub', 'Sunting di GitHub', 'التحرير على GitHub', 'GitHub पर संपादित करें', 'Editar en GitHub', "Modifier sur GitHub")} <span class="dirx">↗</span>
         </a>
+        )}
         {!CONTRIBUTIONS_PAUSED && (<Fragment>
         <a class="edit" href={suggestUrl} rel="noopener">
           {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'மேம்பாட்டைப் பரிந்துரைக்கவும்', '改善を提案', '개선 제안', 'เสนอการปรับปรุง', 'Đề xuất cải thiện', 'Sarankan perbaikan', 'اقتراح تحسين', 'सुधार सुझाएँ', 'Sugerir una mejora', "Suggérer une amélioration")} <span class="dirx">↗</span>

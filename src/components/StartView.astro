@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { PILLARS, getPillarColor, loc } from '@/lib/categories';
 import { localePath, t, LOCALES } from '@/lib/i18n';
-import { REPO } from '@/lib/site';
+import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { exploreFeatures } from '@/lib/exploreFeatures';
 import PageHero from './PageHero.astro';
 
@@ -79,7 +79,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
     { label: L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작', 'เริ่มต้นที่นี่', 'Bắt đầu tại đây', 'Mulai di sini', 'ابدأ من هنا', 'यहाँ से शुरू करें', 'Empieza aquí', "Commencer ici") },
   ]}
   title={L('Mula di sini', 'Start here', '从这里开始', 'இங்கே தொடங்குங்கள்', 'ここから始める', '여기서 시작', 'เริ่มต้นที่นี่', 'Bắt đầu tại đây', 'Mulai di sini', 'ابدأ من هنا', 'यहाँ से शुरू करें', 'Empieza aquí', "Commencer ici")}
-  desc={L(
+  desc={CONTRIBUTIONS_PAUSED ? L('Terokai Malaysia — panduan bersumber untuk manusia dan AI.', 'Explore Malaysia — sourced guides for people and AI.', '探索马来西亚——为人类与 AI 打造的注明来源指南。', 'மலேசியாவை ஆராயுங்கள் — மனிதர்களுக்கும் AI-க்கும் ஆதாரம் காட்டப்பட்ட வழிகாட்டிகள்.', 'マレーシアを探索 — 人にも AI にも、出典付きガイド。', '말레이시아를 탐색하세요 — 사람과 AI를 위한 출처 기반 안내서.', 'สำรวจมาเลเซีย — คู่มือที่มีแหล่งอ้างอิง สำหรับคนและ AI', 'Khám phá Malaysia — hướng dẫn có nguồn, cho con người và AI.', 'Jelajahi Malaysia — panduan bersumber untuk manusia dan AI.', 'استكشف ماليزيا — أدلّة موثّقة للبشر وAI.', 'मलेशिया का अन्वेषण करें — लोगों और AI के लिए स्रोत-सहित मार्गदर्शिकाएँ।', 'Explora Malasia — guías con fuentes para personas y AI.', "Explorez la Malaisie — des guides sourcés pour les humains et pour l'IA.") : L(
     'Dua cara untuk bermula — terokai Malaysia, atau bantu bina pangkalan pengetahuannya. Semuanya bersumber, untuk manusia dan AI.',
     "Two ways to begin — explore Malaysia, or help build its knowledge base. All sourced, for people and AI.",
     '两种开始方式——探索马来西亚，或帮助建设它的知识库。全部注明来源，为人类与 AI 打造。',
@@ -98,7 +98,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
 
 <!-- Two paths, side by side -->
 <section class="container block">
-  <div class="paths">
+  <div class:list={['paths', CONTRIBUTIONS_PAUSED && 'paths--solo']}>
 
     <div class="pcol pc-explore anchor" id="explore">
       <div class="phead">
@@ -143,6 +143,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
       </div>
     </div>
 
+    {!CONTRIBUTIONS_PAUSED && (
     <div class="pcol pc-contribute anchor" id="contribute">
       <div class="phead">
         <span class="phico" aria-hidden="true">✍️</span>
@@ -177,6 +178,7 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
         </div>
       </div>
     </div>
+    )}
 
   </div>
 </section>
@@ -258,6 +260,9 @@ const support = contributeFeatures.filter((f) => !takeKeys.has(f.key));
 
   /* Two columns = the two paths. */
   .paths { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; align-items: start; }
+  /* When contributions are paused only the Explore card remains — centre it at a
+     comfortable reading width instead of stretched across the full row. */
+  .paths--solo { grid-template-columns: minmax(0, 760px); justify-content: center; }
   @media (max-width: 820px) { .paths { grid-template-columns: 1fr; } }
   .pcol {
     background: var(--surface); border: 1px solid var(--line);

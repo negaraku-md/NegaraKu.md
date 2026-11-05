@@ -2,7 +2,7 @@
 import type { Locale } from '@/lib/categories';
 import { siteStats } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
-import { REPO } from '@/lib/site';
+import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { FLOWER_D } from '@/lib/logo';
 import PageHero from './PageHero.astro';
 import { stat } from '@/lib/pageStats';
@@ -177,12 +177,12 @@ const more = [
     desc: L('Apa yang berubah — terus daripada sejarah GitHub.', 'What’s changed — straight from the GitHub history.', '有何变化——直接来自 GitHub 历史。', 'என்ன மாறியது — நேரடியாக GitHub வரலாற்றிலிருந்து.', '何が変わったか — GitHub の履歴から直接。', '무엇이 바뀌었는지 — GitHub 이력에서 바로.', 'อะไรเปลี่ยนไปบ้าง — ตรงจากประวัติของ GitHub', 'Điều gì đã thay đổi — trực tiếp từ lịch sử GitHub.', 'Apa yang berubah — langsung dari riwayat GitHub.', 'ما الذي تغيّر — مباشرةً من سجل GitHub.', 'क्या बदला — सीधे GitHub इतिहास से।', 'Qué ha cambiado, directamente del historial de GitHub.', "Ce qui a changé, directement depuis l'historique GitHub."),
     href: localePath('/changelog', locale),
   },
-  {
+  ...(CONTRIBUTIONS_PAUSED ? [] : [{
     icon: '👥',
     title: L('Penyumbang', 'Contributors', '贡献者', 'பங்களிப்பாளர்கள்', '貢献者', '기여자', 'ผู้ร่วมสนับสนุน', 'Người đóng góp', 'Kontributor', 'المساهمون', 'योगदानकर्ता', 'Colaboradores', 'Contributeurs'),
     desc: L('Orang yang menulis dan menyemak korpus ini.', 'The people who write and review this corpus.', '撰写和审阅本语料库的人。', 'இந்தத் தொகுப்பை எழுதி மதிப்பாய்வு செய்யும் மக்கள்.', 'このコーパスを書き、査読する人々。', '이 코퍼스를 작성하고 검토하는 사람들.', 'ผู้คนที่เขียนและตรวจทานคลังเนื้อหานี้', 'Những người viết và rà soát kho tư liệu này.', 'Orang-orang yang menulis dan meninjau korpus ini.', 'الأشخاص الذين يكتبون هذه المجموعة ويراجعونها.', 'वे लोग जो इस संग्रह को लिखते और समीक्षा करते हैं।', 'Las personas que escriben y revisan este corpus.', 'Les personnes qui rédigent et relisent ce corpus.'),
     href: localePath('/contributors', locale),
-  },
+  }]),
 ];
 ---
 
@@ -425,6 +425,7 @@ const more = [
   </div>
 </section>
 
+{!CONTRIBUTIONS_PAUSED && (
 <section class="container block" data-pre-contributor>
   <div class="psec">
     <header><span>{L('Sumbang', 'Contribute', '贡献', 'பங்களியுங்கள்', '貢献', '기여', 'ร่วมสนับสนุน', 'Đóng góp', 'Berkontribusi', 'ساهم', 'योगदान करें', 'Contribuye', 'Contribuer')}</span></header>
@@ -437,6 +438,7 @@ const more = [
     </div>
   </div>
 </section>
+)}
 
 <section class="container block sponsor-block">
   <div class="psec">
