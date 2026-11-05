@@ -10,22 +10,33 @@ const { locale } = Astro.props;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 const year = 2026;
 
+// Public social presence (drives readers to the site — distinct from the paused
+// contribution channels, so these stay regardless of CONTRIBUTIONS_PAUSED).
+const SOCIAL = [
+  { name: 'Facebook', href: 'https://www.facebook.com/negaraku.md', path: 'M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.05V9.41c0-3.02 1.79-4.69 4.53-4.69 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.96.93-1.96 1.89v2.25h3.33l-.53 3.49h-2.8V24C19.61 23.1 24 18.1 24 12.07z' },
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/company/negaraku-md', path: 'M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z' },
+];
+
 const cols = [
   {
-    title: L('Terokai', 'Explore', '探索', 'ஆராயுங்கள்', '探索', '탐색', 'สำรวจ', 'Khám phá', 'Jelajahi', 'استكشف', 'अन्वेषण करें', 'Explorar', 'Explorer'),
+    title: t('nav.explore', locale),
     links: [
       { label: t('nav.understand', locale), href: localePath('/understand', locale) },
       { label: t('nav.living', locale), href: localePath('/living', locale) },
       { label: t('nav.business', locale), href: localePath('/doing-business', locale) },
       { label: t('nav.articles', locale), href: localePath('/articles', locale) },
+      { label: t('nav.categories', locale), href: localePath('/categories', locale) },
+      { label: t('nav.trending', locale), href: localePath('/most-read', locale) },
     ],
   },
   {
     title: L('Projek', 'Project', '项目', 'திட்டம்', 'プロジェクト', '프로젝트', 'โครงการ', 'Dự án', 'Proyek', 'المشروع', 'परियोजना', 'Proyecto', 'Projet'),
     links: [
       { label: t('nav.aboutPage', locale), href: localePath('/about', locale) },
-      { label: t('nav.dashboard', locale), href: localePath('/dashboard', locale) },
+      { label: t('nav.milestones', locale), href: localePath('/milestones', locale) },
       { label: t('nav.changelog', locale), href: localePath('/changelog', locale) },
+      { label: t('nav.dashboard', locale), href: localePath('/dashboard', locale) },
+      { label: t('nav.analytics', locale), href: localePath('/analytics', locale) },
       ...(CONTRIBUTIONS_PAUSED ? [] : [{ label: t('nav.contribute', locale), href: localePath('/contribute', locale) }]),
       { label: L('Tetapan', 'Settings', '设置', 'அமைப்புகள்', '設定', '설정', 'การตั้งค่า', 'Cài đặt', 'Pengaturan', 'الإعدادات', 'सेटिंग्स', 'Configuración', 'Paramètres'), href: localePath('/settings', locale) },
     ],
@@ -43,6 +54,14 @@ const cols = [
     ],
   },
 ];
+
+// Trust strip — what makes the knowledge base distinctive, at a glance.
+const trust = [
+  L('13 bahasa', '13 languages', '13 种语言', '13 மொழிகள்', '13の言語', '13개 언어', '13 ภาษา', '13 ngôn ngữ', '13 bahasa', '13 لغة', '13 भाषाएँ', '13 idiomas', '13 langues'),
+  L('Bersumber & dipetik', 'Sourced & cited', '有来源·有引用', 'ஆதாரம் & மேற்கோள்', '出典付き・引用付き', '출처·인용 명시', 'มีแหล่งอ้างอิง', 'Có nguồn & trích dẫn', 'Bersumber & dikutip', 'موثّق ومُستشهَد', 'स्रोत-सहित', 'Con fuentes y citas', 'Sourcé et cité'),
+  L('Mesra-AI', 'AI-friendly', 'AI 友好', 'AI-நட்பு', 'AIフレンドリー', 'AI 친화적', 'เป็นมิตรกับ AI', 'Thân thiện với AI', 'Ramah-AI', 'ملائم لـ AI', 'AI-अनुकूल', 'Compatible con IA', "Adapté à l'IA"),
+  'CC BY-SA 4.0',
+];
 ---
 
 <footer class="site-footer" data-pagefind-ignore>
@@ -55,17 +74,33 @@ const cols = [
           {t('footer.sponsoredBy', locale)}{' '}
           <a href="https://www.1company.com" rel="noopener"><span class="oneco">1company.com</span></a>
         </p>
+        <div class="foot-social">
+          {SOCIAL.map((s) => (
+            <a href={s.href} target="_blank" rel="noopener" aria-label={s.name} title={s.name}>
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><path d={s.path} /></svg>
+            </a>
+          ))}
+        </div>
       </div>
       {
         cols.map((col) => (
           <nav class="foot-col" aria-label={col.title}>
             <p class="col-title">{col.title}</p>
             {col.links.map((l) => (
-              <a href={l.href} rel={l.ext ? 'noopener' : undefined}>{l.label}{l.ext ? ' ↗' : ''}</a>
+              <a href={l.href} rel={l.ext ? 'noopener' : undefined} target={l.ext ? '_blank' : undefined}>{l.label}{l.ext ? ' ↗' : ''}</a>
             ))}
           </nav>
         ))
       }
+    </div>
+
+    <div class="foot-trust" aria-hidden="true">
+      {trust.map((b, i) => (
+        <>
+          {i > 0 && <span class="ts-sep">·</span>}
+          <span class="ts-badge">{b}</span>
+        </>
+      ))}
     </div>
   </div>
 
@@ -85,13 +120,14 @@ const cols = [
 <style>
   .site-footer {
     margin-top: 4rem;
-    border-top: 1px solid var(--line);
+    /* Subtle gold top-rule — an accent hint, not a flood (brand guard). */
+    border-top: 1px solid color-mix(in srgb, var(--gold) 32%, var(--line));
     background: var(--bg-soft);
     padding-top: 2.5rem;
   }
   .foot-grid {
-    display: grid; grid-template-columns: 1.6fr repeat(3, 1fr); gap: 1.5rem 2rem;
-    padding-bottom: 2rem;
+    display: grid; grid-template-columns: 1.7fr repeat(3, 1fr); gap: 1.5rem 2rem;
+    padding-bottom: 1.6rem;
   }
   /* Match the header/title wordmark exactly: same font, weight, size and colour. */
   .name { font-family: var(--font-title); font-weight: 700; font-size: 1.2rem; margin: 0; color: var(--ink); }
@@ -99,9 +135,16 @@ const cols = [
   /* Copyright wordmark follows the brand standard: NegaraKu in ink, .md in gold. */
   .legal .wm { color: var(--ink); font-weight: 700; }
   .legal .dot { color: var(--gold); }
-  .tagline { color: var(--muted); margin: 0.4rem 0 0; font-size: 0.9rem; max-width: 34ch; }
+  .tagline { color: var(--muted); margin: 0.4rem 0 0; font-size: 0.9rem; max-width: 36ch; line-height: 1.5; }
   .sponsor { margin: 0.7rem 0 0; font-size: 0.9rem; color: var(--ink-soft); }
   .sponsor a { color: var(--gold); font-weight: 700; text-decoration: none; }
+
+  .foot-social { display: flex; gap: 0.55rem; margin-top: 1.1rem; }
+  .foot-social a {
+    display: grid; place-items: center; width: 34px; height: 34px;
+    border: 1px solid var(--line); border-radius: 8px; color: var(--ink-soft);
+  }
+  .foot-social a:hover { border-color: var(--gold); color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, transparent); }
 
   .foot-col { display: flex; flex-direction: column; gap: 0.55rem; }
   .col-title {
@@ -110,6 +153,15 @@ const cols = [
   }
   .foot-col a { color: var(--ink-soft); text-decoration: none; font-size: 0.92rem; }
   .foot-col a:hover { color: var(--gold); }
+
+  /* Trust strip — distinctive signals, between the link grid and the legal bar. */
+  .foot-trust {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.45rem 0.85rem;
+    padding: 0.95rem 0; border-top: 1px solid var(--line);
+    font-size: 0.8rem; color: var(--muted);
+  }
+  .ts-badge { font-weight: 600; letter-spacing: 0.01em; }
+  .ts-sep { opacity: 0.5; }
 
   .legal {
     border-top: 1px solid var(--line);
