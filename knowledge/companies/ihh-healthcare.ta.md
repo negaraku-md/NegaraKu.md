@@ -35,13 +35,13 @@ masterLanguage: "en"
 translationStatus: "in-sync"
 sourceContentHash: "887f8009ba99f585"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
-publishedBy: null
-revision: null
+publishedBy: "ashton-tan"
+revision: 0
 revisions: []
 
 updated: 2026-11-05
