@@ -44,6 +44,9 @@ __pycache__/
 docs/LIFECYCLE-AND-CONTRIBUTION-SPEC.md
 docs/READER-CONTRIBUTOR-VIEW-SPEC.md
 docs/TA-PIPELINE-RUNBOOK.md
+docs/3R-RISK-STUDY.md
+docs/GO-PRIVATE-IMPACT.md
+docs/EMAIL-SCHEME.md
 
 # Hugging Face dataset export (published to the HF dataset repo, not here)
 /dataset/
