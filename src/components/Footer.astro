@@ -122,12 +122,19 @@ const cols = [
   .sponsor { margin: 0.7rem 0 0; font-size: 0.9rem; color: var(--ink-soft); }
   .sponsor a { color: var(--gold); font-weight: 700; text-decoration: none; }
 
-  .foot-social { display: flex; gap: 0.55rem; margin-top: 1.1rem; }
+  .foot-social { display: flex; gap: 0.5rem; margin-top: 1.1rem; }
+  /* Match the article SHARE icons — gold-tinted ring, surface fill, gold hover
+     with a lift — but a rounded box, not a full circle. */
   .foot-social a {
-    display: grid; place-items: center; width: 34px; height: 34px;
-    border: 1px solid var(--line); border-radius: 8px; color: var(--ink-soft);
+    display: grid; place-items: center; width: 40px; height: 40px;
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    border-radius: 10px; background: var(--surface-2); color: var(--ink-soft);
+    transition: border-color 0.15s, background 0.15s, color 0.15s, transform 0.15s;
   }
-  .foot-social a:hover { border-color: var(--gold); color: var(--gold); background: color-mix(in srgb, var(--gold) 8%, transparent); }
+  .foot-social a:hover {
+    border-color: var(--gold); color: var(--gold);
+    background: color-mix(in srgb, var(--gold) 10%, var(--surface)); transform: translateY(-2px);
+  }
 
   .foot-col { display: flex; flex-direction: column; gap: 0.55rem; }
   .col-title {
