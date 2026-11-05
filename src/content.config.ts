@@ -350,7 +350,19 @@ const knowledge = defineCollection({
     social: z.object({ hashtags: z.array(z.string()).default([]) }).optional(),
 
     // ---- misc ---------------------------------------------------------
+    /** Hero / lead image. Path under public/, e.g. "/media/food/nasi-lemak/hero.webp".
+     *  WebP, 16:9, ~1600×900, ≤180 KB. Sourcing + rules: docs/IMAGE-STANDARD.md. */
     hero: z.string().optional(),
+    /** Accessible alt text for `hero`. REQUIRED whenever `hero` is set (WCAG). */
+    heroAlt: z.string().optional(),
+    /** Image credit / attribution shown in the caption, e.g. "Photo: Jane Doe",
+     *  "Wikimedia Commons", or "AI-generated". */
+    heroCredit: z.string().optional(),
+    /** Licence of the hero image — e.g. "CC BY-SA 4.0", "CC0", "AI-generated",
+     *  "© 1company". Part of the hybrid sourcing policy (docs/IMAGE-STANDARD.md). */
+    heroLicense: z.string().optional(),
+    /** Provenance URL for the hero image (where it was obtained). */
+    heroSource: z.string().optional(),
     featured: z.boolean().default(false),
     /**
      * Sponsor id from src/lib/sponsors.ts. Omit to inherit the pillar default;

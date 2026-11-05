@@ -12,7 +12,7 @@ interface Props {
   row?: boolean;
 }
 const { article, locale, row = false } = Astro.props;
-const { category, slug, title, summary, status, hero } = article.data;
+const { category, slug, title, summary, status, hero, heroAlt } = article.data;
 const cat = getCategory(category);
 const href = localePath(`/${category}/${slug}`, locale);
 const color = getCategoryColor(category);
@@ -41,7 +41,7 @@ const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிட
   <div class="thumb">
     {
       hero ? (
-        <img src={hero} alt="" loading="lazy" />
+        <img src={hero} alt={heroAlt ?? ''} width="640" height="336" loading="lazy" decoding="async" />
       ) : (
         <>
           <span class="glyph" aria-hidden="true">{cat?.icon}</span>

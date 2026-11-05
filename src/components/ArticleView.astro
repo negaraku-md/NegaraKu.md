@@ -304,6 +304,35 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   </div>
 </header>
 
+{
+  d.hero && (
+    <div class="container">
+      <figure class="art-photo" data-pagefind-ignore>
+        <img
+          src={d.hero}
+          alt={d.heroAlt ?? ''}
+          width="1600"
+          height="900"
+          fetchpriority="high"
+          decoding="async"
+        />
+        {(d.heroCredit || d.heroSource || d.heroLicense) && (
+          <figcaption>
+            {d.heroSource ? (
+              <a href={d.heroSource} target="_blank" rel="noopener noreferrer">
+                {d.heroCredit ?? d.heroSource}
+              </a>
+            ) : (
+              d.heroCredit
+            )}
+            {d.heroLicense && <span class="lic">{(d.heroCredit || d.heroSource) ? ' · ' : ''}{d.heroLicense}</span>}
+          </figcaption>
+        )}
+      </figure>
+    </div>
+  )
+}
+
 <article class="art container">
 
   {
@@ -742,6 +771,28 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .art-tombstone .container { padding-block: 0.85rem; display: flex; flex-wrap: wrap; gap: 0.3rem 0.9rem; align-items: baseline; }
   .art-tombstone strong { color: var(--gold); font-family: var(--font-title); text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.82rem; }
   .art-tombstone span { color: var(--ink-soft); font-size: 0.9rem; }
+
+  /* Hero / lead photo (docs/IMAGE-STANDARD.md). CLS-safe: the 16:9 aspect-ratio
+     reserves space before the image loads, so no layout shift. */
+  .art-photo { margin: 1.5rem 0 0.5rem; }
+  .art-photo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 14px;
+    border: 1px solid var(--line);
+    background: var(--surface-2);
+  }
+  .art-photo figcaption {
+    margin-top: 0.45rem;
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+    text-align: end;
+  }
+  .art-photo figcaption a { color: inherit; text-decoration: underline; }
+  .art-photo figcaption .lic { opacity: 0.85; }
 
   /* Same hero treatment as the home / section heroes (PageHero): the gold-tinted
      gradient, big 900-weight headline, matched breadcrumb + padding. */
