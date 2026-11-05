@@ -341,8 +341,10 @@ const NAV_GROUPS = [
       .then((d) => {
         if (!d) return;
         if (d.isContributor) {
-          setContributor(true);
           localStorage.setItem(CONTRIB_KEY, '1');
+          // Contribution is a desktop activity: remember recognition, but don't
+          // reveal the view switch on phones (≤900px). A wider screen shows it.
+          if (!window.matchMedia('(max-width: 900px)').matches) setContributor(true);
         } else {
           setContributor(false);
           localStorage.removeItem(CONTRIB_KEY);
@@ -844,11 +846,16 @@ const NAV_GROUPS = [
   :global(html[data-view='contributor']) .vs-seg[data-view-seg='contributor'] {
     background: var(--gold); color: var(--accent-contrast, #07070a); cursor: default;
   }
-  /* Phones: icons only, so the two-segment control stays compact in the bar
-     (the group's aria-label + each button keep it named for assistive tech). */
+  /* Contribution is a desktop activity. On phones (≤900px, where the nav
+     collapses into the hamburger) never surface contributor chrome: hide the
+     view switch + the contributor-only GitHub icon, and always present the
+     Reader nav — whatever view or contributor flag is saved. Pre-paint in
+     HeadInlineScripts already forces Reader on mobile; these rules are the
+     belt-and-braces that also cover a desktop→mobile resize with no reload. */
   @media (max-width: 900px) {
-    .vs-seg { padding: 0 0.5rem; }
-    .vs-label { display: none; }
-    .vs-ico { font-size: 1.05em; }
+    .view-switch { display: none !important; }
+    .gh-link { display: none !important; }
+    [data-view-nav='contributor'] { display: none !important; }
+    :global(html[data-view='contributor']) [data-view-nav='reader'] { display: contents !important; }
   }
 </style>

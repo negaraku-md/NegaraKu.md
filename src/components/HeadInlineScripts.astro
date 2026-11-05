@@ -14,8 +14,13 @@
       // Reader / Contributor view mode (see Header.astro). Set before paint so the
       // right nav shows with no flash. In P1, contributor recognition is a manual
       // preview flag (Ctrl+Alt+Shift+C); P2 gates it on /api/auth/me org membership.
-      d.dataset.view = localStorage.getItem('nk:view') === 'contributor' ? 'contributor' : 'reader';
-      if (localStorage.getItem('nk:contributor') === '1') d.dataset.contributor = 'true';
+      // Contribution is a desktop activity: on phones (≤900px, the nav-collapse
+      // breakpoint) always present Reader and never reveal the contributor switch,
+      // regardless of the saved view/flag. The desktop preference is left intact in
+      // localStorage, so a wider screen still restores Contributor view.
+      var cvDesktop = !(window.matchMedia && window.matchMedia('(max-width: 900px)').matches);
+      d.dataset.view = cvDesktop && localStorage.getItem('nk:view') === 'contributor' ? 'contributor' : 'reader';
+      if (cvDesktop && localStorage.getItem('nk:contributor') === '1') d.dataset.contributor = 'true';
       // First-visit welcome card (home): hide pre-paint for returning visitors.
       if (localStorage.getItem('nk:welcomed') === '1') d.dataset.welcomed = '1';
       // Contributor-View first-switch orientation: hide once dismissed.
