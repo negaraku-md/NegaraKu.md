@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "相互竞争的起源理论及其日期（例如纳莱王时期约 1672–1688 年的早期泰国甜品 nokploi；12 世纪爪哇手稿的提及；经由印度 falooda 与波斯 faloodeh 的联系）——这些概括自维基百科，在被视为定论前应对照一手学术研究加以查核。"
   - "非物质文化遗产与遗产食品的承认（印尼的 dawet／es cendol／cendol 列名；马来西亚国家文物局的指定；新加坡把它纳入其小贩文化的联合国教科文组织申报）——向相关官方机构确认范围与日期。"

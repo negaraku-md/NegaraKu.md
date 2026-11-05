@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "The precise origin of the word 'canai' — competing theories (a Malay term for rolling dough thin, the Tamil/North Indian chickpea dish 'channa', or the city of Chennai) are reported by popular food writing but there is no settled scholarly consensus."
   - "The claimed timeline for roti canai's arrival and spread (introduction in the 19th century, said to be 'firmly established throughout the country by the 1920s', first popularised in Penang/Melaka or Penang/Singapore) — sourced to food journalism and encyclopaedic summaries, not primary historical scholarship; dates and places vary by source."

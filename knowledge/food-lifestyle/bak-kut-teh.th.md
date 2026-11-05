@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "มาตราที่แน่ชัดของ National Heritage Act 2005 [Act 645] ที่ใช้เป็นฐานในการประกาศบะกุ๊ดเต๋ในราชกิจจานุเบกษาเมื่อเดือนกุมภาพันธ์ 2024 (รายงานบางฉบับอ้างอิงอนุมาตรา 49(1) แต่ยังไม่ได้รับการยืนยันเทียบกับประกาศต้นฉบับใน Government Gazette)"
   - "วันที่ประกาศในราชกิจจานุเบกษาที่แน่ชัดของการประกาศมรดกแห่งชาติ——รายงานต่างกันระหว่างวันที่ 23 และ 24 กุมภาพันธ์ 2024; โปรดยืนยันเทียบกับประกาศทางการ"

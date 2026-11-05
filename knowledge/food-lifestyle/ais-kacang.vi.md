@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Nguồn gốc của ais kacang — các tài liệu mâu thuẫn nhau: Wikipedia ghi công cho người Mã Lai ở Malaysia và truy nguyên các phiên bản đá bào thời kỳ đầu ở Singapore vào khoảng Thế chiến thứ nhất, trong khi một số trang ẩm thực thứ cấp lại cho rằng nó có nguồn gốc Peranakan (Baba Nyonya) ở Malacca. Không có người khởi xướng hay mốc thời gian có thẩm quyền duy nhất nào được xác nhận; hãy xem lịch sử là gần đúng."
   - "Dòng thời gian theo từng thập niên (đá rẻ hơn vào khoảng Thế chiến 1; phiên bản đậu adzuki (đậu đỏ) đóng hộp vào thập niên 1930; hình dạng chất đống hiện đại hình thành vào thập niên 1940; kiểu viên đá bóng phổ biến trong thập niên 1950–60) lấy từ Wikipedia và nên được kiểm chứng với một nguồn lịch sử ẩm thực sơ cấp trước khi nêu thành sự thật."

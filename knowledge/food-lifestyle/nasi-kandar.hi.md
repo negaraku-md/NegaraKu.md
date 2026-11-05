@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Line Clear की स्थापना तिथि और पारिवारिक इतिहास — प्रतिष्ठित स्रोत इसकी शुरुआत को अलग-अलग 1940 या 1950 के दशक में रखते हैं और परिवार में बारी-बारी से स्वामित्व का वर्णन करते हैं; कोई विशिष्ट वर्ष बताने से पहले किसी प्राथमिक स्रोत या रेस्तराँ के स्रोत से पुष्टि करें।"
   - "Hameediyah की सटीक स्थापना कथा — व्यापक रूप से उद्धृत '1907, Lebuh Campbell पर एक पेड़ के नीचे' बनाम मसाले की दुकान वाली कथा के बीच; वर्ष और Malaysia Book of Records की 'सबसे पुराना नासी कंदार' मान्यता की सीधे रेस्तराँ या Book of Records से पुष्टि करें।"

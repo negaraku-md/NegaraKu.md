@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "تاريخ تأسيس Line Clear وتاريخ العائلة — تضع المصادر الموثوقة بدايته على نحو متباين في أربعينيات أو خمسينيات القرن العشرين وتصف ملكية عائلية متناوبة؛ تحقّق من مصدر أولي أو من مصدر المطعم قبل ذكر سنة محدّدة."
   - "رواية التأسيس الدقيقة لـHameediyah — بين الرواية الشائعة '1907، تحت شجرة في Lebuh Campbell' ورواية متجر التوابل؛ تحقّق من السنة ومن اعتراف Malaysia Book of Records بأنه 'أقدم ناسي كاندار' مباشرة من المطعم أو من Book of Records."

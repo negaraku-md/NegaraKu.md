@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "The exact section of the National Heritage Act 2005 [Act 645] under which the February 2024 bak kut teh declaration was gazetted (some reports cite subsection 49(1), but this is not confirmed against the primary Government Gazette notice)."
   - "The exact gazette date of the national heritage declaration — reports vary between 23 and 24 February 2024; confirm against the official notice."

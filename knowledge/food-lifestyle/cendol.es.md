@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Las teorías de origen en competencia y sus fechas (p. ej., un postre tailandés temprano llamado nokploi bajo el rey Narai, hacia 1672–1688; una referencia a un manuscrito javanés del siglo XII; vínculos con el faloodeh persa a través del falooda indio): están resumidas de Wikipedia y deberían cotejarse con investigación académica primaria antes de darlas por zanjadas."
   - "Los reconocimientos de patrimonio cultural inmaterial y de alimento patrimonial (los registros de dawet/es cendol/cendol de Indonesia; la designación del Departamento de Patrimonio Nacional de Malasia; la inclusión por parte de Singapur en su candidatura de la cultura de los puestos ambulantes ante la UNESCO): confirmar alcance y fechas con los organismos oficiales pertinentes."

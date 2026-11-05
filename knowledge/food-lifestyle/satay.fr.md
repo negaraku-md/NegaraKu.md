@@ -58,13 +58,13 @@ sourceContentHash: "c180287207fc82d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "L'origine et la date de fondation du satay celup / Capitol Satay à Melaka sont rapportées de façon incohérente (divers récits donnent les années 1950, les années 1960, ou « plus de 30 ans » dans un reportage de fermeture de 2021 laissant supposer le début des années 1990 environ) — à confirmer auprès d'une source primaire ou faisant autorité de Melaka avant d'indiquer une date ferme."
   - "La façon dont la cacahuète et la sauce aux cacahuètes sont entrées dans la tradition régionale du satay est contestée : certains récits populaires l'attribuent à la période coloniale néerlandaise, tandis que Wikipedia attribue l'arrivée de la cacahuète au commerce transpacifique du galion de Manille en provenance du continent américain — à confirmer auprès d'une source savante d'histoire de l'alimentation."

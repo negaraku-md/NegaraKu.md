@@ -34,13 +34,13 @@ sourceContentHash: "f6fd0ed1213828de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Các số liệu của MICHELIN Guide Kuala Lumpur & Penang ấn bản 2027 được trích dẫn ở đây (được cho là khoảng 159 cơ sở, 1 hai-Star, 9 một-Star, 60 Bib Gourmand, 89 MICHELIN Selected, một-Star mới tại Potager, công bố ngày 4 tháng 11 năm 2026) đến từ báo chí Malaysia (SAYS) và không thể xác nhận với guide.michelin.com tại thời điểm viết bài — hãy xác minh tổng số 2027, các mục mới và ấn bản hiện tại với trang tuyển chọn chính thức 2027."
   - "Về việc liệu MICHELIN Green Star có được trao trong ấn bản 2027 hay không: các bản tin 2027 không đề cập đến Green Star, và MICHELIN được cho là đã bỏ Green Star khỏi bộ lọc tìm kiếm trên trang web vào năm 2025; hãy xác nhận tình trạng Green Star hiện tại của Dewakan với guide.michelin.com."

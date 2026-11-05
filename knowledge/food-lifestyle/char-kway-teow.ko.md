@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "char kway teow의 정확한 기원 시기와 지리 — 그것이 페낭에서 특정하여 생겨났는지, 아니면 동남아시아의 중국인 노동자 공동체 전반에서 더 넓게 생겨났는지는 자료마다 견해가 갈린다. 어떤 시기를 언급하기 전에 일차 음식 역사 자료와 대조해 확인할 것."
   - "char kway teow가 2009년 Visit Penang 설문에서 1위 'must eat' 노점 음식으로 뽑혔다는 것, 그리고 페낭이 CNNGo(2012)에 의해 아시아 최고의 길거리 음식 도시 중 하나로 꼽혔다는 주장은 단일 2차 자료(Adrian Cheah)에 근거한다. 원래의 설문/기사와 대조해 검증할 것."

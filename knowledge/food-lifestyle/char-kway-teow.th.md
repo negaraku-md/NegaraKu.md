@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "วันที่และภูมิศาสตร์ของต้นกำเนิดที่แน่นอนของ char kway teow — ว่ามันเกิดขึ้นเฉพาะในปีนังหรือเกิดขึ้นในวงกว้างกว่านั้นทั่วชุมชนแรงงานชาวจีนในเอเชียตะวันออกเฉียงใต้ ยังเป็นที่ถกเถียงกันในหลายแหล่ง ควรตรวจสอบกับแหล่งข้อมูลประวัติศาสตร์การทำอาหารชั้นปฐมภูมิก่อนระบุวันที่ใด ๆ"
   - "ข้ออ้างที่ว่า char kway teow ได้รับการโหวตให้เป็นอาหารริมทาง 'must eat' อันดับ 1 ในการสำรวจของ Visit Penang ปี 2009 และปีนังได้รับการจัดอันดับโดย CNNGo (2012) ให้เป็นหนึ่งในเมืองอาหารริมทางที่ยอดเยี่ยมที่สุดของเอเชีย อาศัยแหล่งข้อมูลทุติยภูมิเพียงแหล่งเดียว (Adrian Cheah) ควรตรวจสอบกับผลสำรวจ/บทความต้นฉบับ"

@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "「canai」一词的确切起源——相互竞争的说法（一个意为把面团擀薄的马来语词、泰米尔／北印度的鹰嘴豆料理「channa」，或金奈（Chennai）这座城市）见于大众美食写作，但并无定论性的学术共识。"
   - "关于 roti canai 传入与传播的所谓时间线（19 世纪传入，据称「到 1920 年代已在全国稳固确立」，最初在槟城／马六甲或槟城／新加坡流行）——出自美食报道与百科式概述，而非第一手历史研究；日期与地点因来源而异。"

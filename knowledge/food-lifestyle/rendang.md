@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "CNN 'World's 50 Best Foods' year-by-year placements for rendang (the 2011 editors' list ranked it around No. 11, while a 2011 reader poll placed it first; later 2017 and 2021 editions are also cited) — confirm the exact rank and year against CNN's own published lists before stating a specific position."
   - "The three-stage gulai → kalio → rendang cooking progression is widely described in popular sources but is not uniformly framed that way in scholarly work — confirm the terminology against the Journal of Ethnic Foods origin study."

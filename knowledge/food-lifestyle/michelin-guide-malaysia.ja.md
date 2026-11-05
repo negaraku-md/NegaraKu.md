@@ -34,13 +34,13 @@ sourceContentHash: "f6fd0ed1213828de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "ここで引用したMICHELIN Guide Kuala Lumpur & Penang 2027年版の数値（約159軒、二つStar 1軒、一つStar 9軒、Bib Gourmand 60軒、MICHELIN Selected 89軒、Potagerに新たな一つStar、2026年11月4日発表、と報じられている）はマレーシアの報道（SAYS）に基づくもので、執筆時点でguide.michelin.comに照らして確認できなかった——2027年の総数、新規掲載、現行版を公式の2027年セレクションページに照らして確認すること。"
   - "2027年版でMICHELIN Green Starが授与されたかどうか：2027年の報道はGreen Starに触れておらず、MICHELINは2025年にGreen Starをウェブサイトの検索フィルターから外したと報じられている；Dewakanの現在のGreen Starの状況をguide.michelin.comに照らして確認すること。"

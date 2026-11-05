@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "仁当在CNN『World's 50 Best Foods』榜单中逐年的排名（2011年编辑榜将它列为约第11位，而2011年一项读者投票则将它列为第一；此后2017年和2021年的版本亦被引用）——在陈述具体名次之前，请对照CNN自身发布的榜单核实确切的名次与年份。"
   - "gulai → kalio → 仁当这三阶段的烹煮进程在通俗来源中被广泛描述，但在学术研究中并未一律如此表述——请对照 Journal of Ethnic Foods 的起源研究核实这一术语。"

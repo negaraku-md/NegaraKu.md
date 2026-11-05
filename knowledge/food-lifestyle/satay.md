@@ -57,13 +57,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "The origin and founding date of satay celup / Capitol Satay in Melaka are reported inconsistently (various accounts give the 1950s, the 1960s, or 'over 30 years' in a 2021 closure report implying roughly the early 1990s) — confirm with a primary or authoritative Melaka source before stating a firm date."
   - "How peanuts and peanut sauce entered the regional satay tradition is contested: some popular accounts credit the Dutch colonial period, while Wikipedia attributes peanuts' arrival to the trans-Pacific Manila galleon trade from the Americas — confirm against a scholarly food-history source."

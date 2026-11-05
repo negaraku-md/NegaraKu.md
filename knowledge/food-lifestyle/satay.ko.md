@@ -58,13 +58,13 @@ sourceContentHash: "c180287207fc82d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "믈라카의 사테 쩔룹 / Capitol Satay의 기원과 창업 연도는 일관되지 않게 보도된다(여러 설이 1950년대, 1960년대, 또는 2021년 폐업 보도의 '30년 넘게'로 대략 1990년대 초를 시사한다) — 확정된 날짜를 밝히기 전에 일차 자료 또는 권위 있는 믈라카 자료로 확인할 것."
   - "땅콩과 땅콩 소스가 이 지역의 사테 전통에 어떻게 들어왔는지는 논쟁적이다: 일부 통속적인 설명은 네덜란드 식민지 시기에 공을 돌리는 반면, Wikipedia는 땅콩의 도래를 아메리카 대륙에서 온 환태평양 마닐라 갈레온 무역에 돌린다 — 학술적인 음식사 자료에 대조해 확인할 것."

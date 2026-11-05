@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "競合する起源の説とその年代（例：ナーラーイ王治下の1672〜1688年頃の初期タイのデザートnokploi、12世紀のジャワ写本の言及、インドのfaloodaを介したペルシアのfaloodehとの関連）——これらはWikipediaから要約したもので、確定したものとして扱う前に一次学術研究と照合すべきである。"
   - "無形文化遺産および遺産食品の認定（インドネシアのdawet／es cendol／cendolの登録、マレーシアの国家遺産局の指定、シンガポールの屋台文化のUNESCO申請への包含）——関連する公式機関に範囲と年代を確認すること。"

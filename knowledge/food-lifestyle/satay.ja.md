@@ -58,13 +58,13 @@ sourceContentHash: "c180287207fc82d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "マラッカのサテ・チェルップ／Capitol Satay の起源と創業年は一貫せずに報じられている（諸説が1950年代、1960年代、または2021年の閉店報道では「30年以上」としており、おおむね1990年代初頭を示唆する）——確定した年を述べる前に、一次資料または権威あるマラッカの資料で確認すること。"
   - "ピーナッツとピーナッツソースがこの地域のサテの伝統にどのように入ったかは争いがある。通俗的な説の一部はオランダ植民地時代に帰し、Wikipedia はピーナッツの到来を南北アメリカ大陸からの環太平洋のマニラ・ガレオン貿易に帰している——学術的な食文化史の資料に照らして確認すること。"

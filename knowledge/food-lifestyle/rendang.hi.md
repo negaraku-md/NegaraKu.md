@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "CNN की 'World's 50 Best Foods' में रेंदांग के वर्ष-दर-वर्ष स्थान (2011 की संपादकीय सूची ने इसे लगभग 11वें स्थान पर रखा, जबकि 2011 के एक पाठक मतदान ने इसे पहले स्थान पर रखा; बाद के 2017 और 2021 संस्करण भी उद्धृत हैं) — कोई विशिष्ट स्थान बताने से पहले CNN की स्वयं प्रकाशित सूचियों से सटीक रैंक और वर्ष की पुष्टि करें।"
   - "gulai → kalio → रेंदांग की तीन-चरणीय पाक-प्रगति लोकप्रिय स्रोतों में व्यापक रूप से वर्णित है परंतु विद्वत्तापूर्ण कार्य में इसे एकसमान रूप से इस तरह नहीं रखा जाता — इस शब्दावली की पुष्टि Journal of Ethnic Foods के मूल-अध्ययन से करें।"

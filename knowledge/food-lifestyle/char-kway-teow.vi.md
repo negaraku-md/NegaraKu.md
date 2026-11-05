@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Niên đại và địa lý nguồn gốc chính xác của char kway teow — liệu nó xuất hiện cụ thể ở Penang hay rộng hơn trên khắp các cộng đồng công nhân người Hoa ở Đông Nam Á vẫn còn tranh cãi giữa các nguồn; hãy xác minh với một nguồn lịch sử ẩm thực sơ cấp trước khi nêu bất kỳ niên đại nào."
   - "Tuyên bố rằng char kway teow được bình chọn là món ăn hàng rong 'must eat' số 1 trong một cuộc khảo sát Visit Penang năm 2009, và rằng Penang được CNNGo (2012) nêu tên trong số các thành phố ẩm thực đường phố vĩ đại nhất châu Á, dựa trên một nguồn thứ cấp duy nhất (Adrian Cheah); hãy xác minh với các cuộc khảo sát/bài báo gốc."

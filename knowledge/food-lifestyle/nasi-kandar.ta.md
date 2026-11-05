@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Line Clear-ன் நிறுவன தேதி மற்றும் குடும்ப வரலாறு — நம்பகமான ஆதாரங்கள் அதன் தொடக்கத்தை 1940கள் அல்லது 1950கள் என்று பலவாறு கூறுகின்றன, சுழற்சி முறையிலான குடும்ப உரிமையை விவரிக்கின்றன; ஒரு குறிப்பிட்ட ஆண்டைக் கூறுவதற்கு முன் முதன்மை ஆதாரம் அல்லது உணவக ஆதாரத்துடன் உறுதிப்படுத்தவும்."
   - "Hameediyah-ன் சரியான நிறுவன விவரிப்பு — பரவலாக மேற்கோள் காட்டப்படும் '1907, Lebuh Campbell-ல் ஒரு மரத்தடியில்' என்பதற்கும் வாசனைப் பொருள் கடை விவரிப்புக்கும் இடையே; ஆண்டையும், Malaysia Book of Records-ன் 'மிகப் பழமையான nasi kandar' அங்கீகாரத்தையும் நேரடியாக உணவகத்துடன் அல்லது Book of Records-உடன் உறுதிப்படுத்தவும்."

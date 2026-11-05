@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Precise origin date and geography of char kway teow — whether it emerged specifically in Penang or more broadly across Southeast Asia's Chinese labourer communities is contested across sources; confirm against a primary culinary-history source before stating any date."
   - "The claim that char kway teow was voted the No.1 'must eat' hawker food in a 2009 Visit Penang poll, and that Penang was named by CNNGo (2012) among Asia's greatest street-food cities, rests on a single secondary source (Adrian Cheah); verify against the original polls/articles."

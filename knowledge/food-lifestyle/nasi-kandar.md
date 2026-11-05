@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Line Clear's founding date and family history — reputable sources variously place its start in the 1940s or 1950s and describe rotating family ownership; confirm with a primary or restaurant source before stating a specific year."
   - "Hameediyah's exact founding narrative — the widely cited '1907, under a tree on Lebuh Campbell' versus the spice-shop account; confirm the year and the Malaysia Book of Records 'oldest nasi kandar' recognition directly with the restaurant or the Book of Records."

@@ -58,13 +58,13 @@ sourceContentHash: "c180287207fc82d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "El origen y la fecha de fundación del satay celup / Capitol Satay en Melaka se relatan de forma incoherente (diversos relatos dan los años cincuenta, los sesenta, o 'más de 30 años' en un informe de cierre de 2021 que implica aproximadamente comienzos de los años noventa) — confírmese con una fuente primaria o autorizada de Melaka antes de indicar una fecha firme."
   - "Cómo entraron el cacahuete y la salsa de cacahuete en la tradición regional del satay es objeto de disputa: algunos relatos populares lo atribuyen al período colonial neerlandés, mientras que Wikipedia atribuye la llegada del cacahuete al comercio transpacífico del galeón de Manila procedente del continente americano — confírmese con una fuente académica de historia de la alimentación."

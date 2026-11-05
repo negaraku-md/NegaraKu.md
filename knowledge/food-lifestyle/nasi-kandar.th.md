@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "ปีก่อตั้งและประวัติครอบครัวของ Line Clear — แหล่งข้อมูลที่น่าเชื่อถือระบุจุดเริ่มต้นแตกต่างกันไปทั้งในคริสต์ทศวรรษ 1940 หรือ 1950 และอธิบายถึงการเป็นเจ้าของที่หมุนเวียนกันในครอบครัว โปรดยืนยันกับแหล่งข้อมูลปฐมภูมิหรือแหล่งข้อมูลของร้านก่อนระบุปีที่เฉพาะเจาะจง"
   - "เรื่องเล่าการก่อตั้งที่แน่ชัดของ Hameediyah — ระหว่างเรื่องที่อ้างถึงกันอย่างกว้างขวางว่า '1907 ใต้ต้นไม้ที่ Lebuh Campbell' กับเรื่องร้านเครื่องเทศ โปรดยืนยันปีและการรับรอง 'nasi kandar ที่เก่าแก่ที่สุด' ของ Malaysia Book of Records โดยตรงกับร้านหรือกับ Book of Records"

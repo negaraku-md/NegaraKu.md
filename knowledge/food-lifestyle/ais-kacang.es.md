@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "El origen del ais kacang — los relatos no coinciden: Wikipedia lo atribuye a los malayos de Malasia y rastrea las primeras versiones de hielo raspado en Singapur hacia la Primera Guerra Mundial, mientras que algunos sitios de comida secundarios afirman un origen peranakan (Peranakan) en Malaca. No se confirma ningún originador ni fecha autorizada única; trata la historia como aproximada."
   - "La cronología década a década (hielo más barato hacia la Primera Guerra Mundial; versiones de judía adzuki (adzuki) enlatada en los años 1930; la forma amontonada moderna hacia los años 1940; el estilo de bola de hielo popular en los años 1950-60) procede de Wikipedia y debería verificarse con una fuente primaria de historia culinaria antes de afirmarse como un hecho."

@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "อันดับรายปีของเรินดังในรายการ 'World's 50 Best Foods' ของ CNN (รายการของกองบรรณาธิการปี 2011 จัดให้อยู่ราวอันดับที่ 11 ขณะที่โพลผู้อ่านปี 2011 จัดให้อยู่อันดับหนึ่ง ส่วนฉบับปี 2017 และ 2021 ที่ตามมาก็ถูกอ้างอิงด้วย) — ก่อนจะระบุอันดับที่เจาะจง โปรดยืนยันอันดับและปีที่ถูกต้องเทียบกับรายการที่ CNN เผยแพร่เอง"
   - "ลำดับการปรุงสามขั้น gulai → kalio → เรินดัง ถูกอธิบายอย่างแพร่หลายในแหล่งข้อมูลทั่วไป แต่ไม่ได้ถูกวางกรอบในลักษณะเดียวกันอย่างสม่ำเสมอในงานวิชาการ — โปรดยืนยันคำศัพท์นี้เทียบกับงานศึกษาต้นกำเนิดของ Journal of Ethnic Foods"

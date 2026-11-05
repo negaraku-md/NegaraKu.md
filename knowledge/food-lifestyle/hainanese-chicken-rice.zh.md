@@ -39,13 +39,13 @@ sourceContentHash: "b55a92ae48cc7ea6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "海南鸡饭最早在马来西亚出现的确切日期。流行说法引用1920年代至1930年代（以及被广泛复述的'1939年'说法），但这些都建立在低质量或轶闻性的来源上，在被陈述为事实之前，应对照有据可查的历史加以证实。"
   - "马六甲饭团形式的起源故事（码头工人／寡妇的'便于携带'传说和'保温'的解释）是口传且轶闻性的，在美食媒体间被复述而非有据可查；应视为流行传统，而非确立的历史。"

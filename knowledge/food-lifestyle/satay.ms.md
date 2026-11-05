@@ -58,13 +58,13 @@ sourceContentHash: "c180287207fc82d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Asal usul dan tarikh penubuhan satay celup / Capitol Satay di Melaka dilaporkan secara tidak konsisten (pelbagai catatan memberikan tahun 1950-an, 1960-an, atau 'lebih 30 tahun' dalam laporan penutupan 2021 yang membayangkan sekitar awal 1990-an) — sahkan dengan sumber Melaka yang primer atau berwibawa sebelum menyatakan sebarang tarikh yang muktamad."
   - "Bagaimana kacang tanah dan kuah kacang memasuki tradisi satay serantau masih dipertikaikan: sesetengah catatan popular mengaitkannya dengan zaman penjajahan Belanda, manakala Wikipedia mengaitkan kedatangan kacang tanah dengan perdagangan galleon Manila trans-Pasifik dari benua Amerika — sahkan terhadap sumber sejarah makanan yang bersifat ilmiah."

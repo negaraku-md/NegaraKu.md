@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Line Clear의 창업 연도와 가족 내력——믿을 만한 자료들이 시작 시점을 1940년대 또는 1950년대로 제각각 두고, 가족 간 소유권이 돌아가며 바뀌었다고 설명한다. 특정 연도를 말하기 전에 일차 자료나 식당 측 자료로 확인할 것."
   - "Hameediyah의 정확한 창업 서사——널리 인용되는 '1907년, Lebuh Campbell의 나무 아래'라는 이야기와 향신료 가게라는 설명. 그 연도와 Malaysia Book of Records의 '가장 오래된 나시 깐다르' 인정을 식당이나 Book of Records에 직접 확인할 것."

@@ -39,13 +39,13 @@ sourceContentHash: "b55a92ae48cc7ea6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "하이난 치킨라이스가 말레이시아에 처음 등장한 정확한 시기. 통속적인 설명은 1920년대~1930년대(그리고 널리 반복되는 '1939년' 주장)를 인용하지만, 이는 질 낮거나 일화적인 출처에 근거하므로 사실로 서술되기 전에 문서화된 역사에 비추어 확인해야 한다."
   - "믈라카 라이스볼 형태의 기원 이야기(항만 노동자/과부의 '휴대성' 전설과 '밥을 따뜻하게 유지' 설명)는 구전되고 일화적이며, 문서화되기보다 음식 매체에서 반복된다; 확립된 역사가 아니라 통속적 전통으로 다루어야 한다."

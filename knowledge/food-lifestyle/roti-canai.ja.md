@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "「canai」という語の正確な起源——競合する諸説（生地を薄く延ばすことを指すマレー語、タミル／北インドのひよこ豆料理「channa」、あるいはチェンナイという都市）は大衆向けの食の文章で報じられているが、学術的に定まった合意はない。"
   - "roti canai の到来と広がりについて主張される年表（19 世紀に伝わり、「1920 年代までに全国にしっかり定着した」とされ、最初にペナン／マラッカまたはペナン／シンガポールで普及したとされる）——一次的な歴史研究ではなく、食のジャーナリズムや百科事典的な要約に基づいており、日付や場所は出典によって異なる。"

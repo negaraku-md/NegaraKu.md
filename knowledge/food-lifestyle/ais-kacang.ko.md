@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "아이스 카창의 기원 — 설명이 엇갈린다: 위키백과는 말레이시아 말레이인에게 공을 돌리며, 싱가포르의 초기 빙수 형태를 제1차 세계대전 무렵으로 추적한다. 반면 일부 2차 음식 사이트는 말라카의 Peranakan(바바뇨냐) 기원을 주장한다. 단일한 권위 있는 창시자나 연대는 확인되지 않았으므로, 역사는 대략적인 것으로 다룰 것."
   - "10년 단위 연표(제1차 대전 무렵 저렴해진 얼음; 1930년대 통조림 adzuki(팥) 버전; 1940년대까지 현대적인 산 모양 형태; 1950~60년대에 인기였던 얼음 공 방식)는 위키백과에서 가져온 것으로, 사실로 서술하기 전에 1차 요리사 자료와 대조해야 한다."

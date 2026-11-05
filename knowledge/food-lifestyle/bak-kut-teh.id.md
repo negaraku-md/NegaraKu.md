@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Pasal persis dari National Heritage Act 2005 [Act 645] yang menjadi dasar diwartakannya deklarasi bak kut teh pada Februari 2024 (sejumlah laporan menyebut subseksi 49(1), tetapi hal ini belum dikonfirmasi terhadap pemberitahuan Government Gazette yang asli)."
   - "Tanggal warta persis dari deklarasi warisan nasional itu — laporan berbeda-beda antara 23 dan 24 Februari 2024; konfirmasikan terhadap pemberitahuan resmi."

@@ -58,13 +58,13 @@ sourceContentHash: "c180287207fc82d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Nguồn gốc và năm thành lập của satay celup / Capitol Satay ở Melaka được tường thuật không nhất quán (các lời kể khác nhau đưa ra thập niên 1950, thập niên 1960, hoặc 'hơn 30 năm' trong một bản tin đóng cửa năm 2021 ngụ ý vào khoảng đầu thập niên 1990) — hãy xác nhận với một nguồn Melaka sơ cấp hoặc có thẩm quyền trước khi nêu một ngày tháng chắc chắn."
   - "Việc đậu phộng và sốt đậu phộng gia nhập truyền thống satay của khu vực như thế nào vẫn còn tranh cãi: một số lời kể phổ biến quy cho thời kỳ thuộc địa Hà Lan, trong khi Wikipedia quy sự xuất hiện của đậu phộng cho hoạt động thương mại tàu galleon Manila xuyên Thái Bình Dương từ châu Mỹ — hãy xác nhận với một nguồn sử ẩm thực mang tính học thuật."

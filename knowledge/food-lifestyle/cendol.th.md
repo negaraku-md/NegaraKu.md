@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "ทฤษฎีต้นกำเนิดที่แข่งขันกันและวันที่ของมัน (เช่น ของหวานไทยยุคแรก nokploi ในรัชสมัยพระนารายณ์ราวปี 1672–1688 การอ้างถึงต้นฉบับชวาในศตวรรษที่ 12 ความเชื่อมโยงกับ faloodeh เปอร์เซียผ่าน falooda อินเดีย) — สิ่งเหล่านี้สรุปมาจาก Wikipedia และควรตรวจสอบกับงานวิชาการชั้นต้นก่อนจะถือว่าเป็นข้อยุติ"
   - "การรับรองมรดกวัฒนธรรมที่จับต้องไม่ได้และอาหารมรดก (การขึ้นทะเบียน dawet/es cendol/cendol ของอินโดนีเซีย การกำหนดของกรมมรดกแห่งชาติของมาเลเซีย การที่สิงคโปร์รวมไว้ในการเสนอวัฒนธรรมหาบเร่แผงลอยต่อ UNESCO) — ยืนยันขอบเขตและวันที่กับหน่วยงานทางการที่เกี่ยวข้อง"

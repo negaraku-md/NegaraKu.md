@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Tarikh penubuhan dan sejarah keluarga Line Clear — sumber berwibawa pelbagai meletakkan permulaannya pada 1940-an atau 1950-an dan menggambarkan pemilikan keluarga yang bergilir; sahkan dengan sumber primer atau sumber restoran sebelum menyatakan tahun tertentu."
   - "Naratif penubuhan tepat Hameediyah — yang kerap disebut '1907, di bawah sebatang pokok di Lebuh Campbell' berbanding kisah kedai rempah; sahkan tahun itu dan pengiktirafan 'nasi kandar tertua' Malaysia Book of Records terus dengan restoran atau Book of Records."

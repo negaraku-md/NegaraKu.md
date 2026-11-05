@@ -58,13 +58,13 @@ sourceContentHash: "c180287207fc82d1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "马六甲沙爹朱律／Capitol Satay 的起源与创办日期报道不一（各种说法分别给出 1950 年代、1960 年代，或 2021 年一则停业报道中的「超过 30 年」，即大约 1990 年代初）——在给出确定日期之前，请以马六甲的原始或权威来源核实。"
   - "花生及花生酱如何进入本区域沙爹传统存在争议：一些流行说法归因于荷兰殖民时期，而 Wikipedia 则将花生的传入归于跨太平洋的马尼拉大帆船贸易，来自美洲——请对照学术性的饮食史来源核实。"

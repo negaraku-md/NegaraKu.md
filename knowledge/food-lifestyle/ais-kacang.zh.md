@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Ais kacang 的起源——各种说法互相矛盾：维基百科将其归功于马来西亚马来人，并将新加坡的早期刨冰版本追溯到第一次世界大战前后，而一些二手美食网站则声称其源自马六甲的 Peranakan（峇峇娘惹）。没有确认任何单一权威的起源者或日期；其历史应视为约略。"
   - "逐十年的时间线（一战前后冰变得较便宜；1930 年代出现罐装 adzuki（红豆）版本；现代堆成山的形态到 1940 年代成形；1950–60 年代流行冰球式样）取自维基百科，在作为事实陈述之前应与一手烹饪史料核对。"

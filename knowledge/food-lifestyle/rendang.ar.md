@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "مراتب رندانغ عامًا بعد عام في قائمة CNN 'World's 50 Best Foods' (وضعته قائمة المحرّرين عام 2011 في المرتبة 11 تقريبًا، بينما وضعه استطلاع للقرّاء عام 2011 في المرتبة الأولى؛ كما تُستشهد النسختان اللاحقتان لعامَي 2017 و2021) — تحقّق من المرتبة والسنة الدقيقتين مقابل القوائم التي نشرتها CNN نفسها قبل ذكر موضع محدّد."
   - "يُوصَف تسلسل الطهي الثلاثي المراحل gulai → kalio → رندانغ على نطاق واسع في المصادر الشائعة، لكنه لا يُؤطَّر على هذا النحو بصورة موحّدة في العمل الأكاديمي — تحقّق من هذا المصطلح مقابل دراسة الأصول في Journal of Ethnic Foods."

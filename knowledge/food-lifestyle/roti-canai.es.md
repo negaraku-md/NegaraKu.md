@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "El origen preciso de la palabra 'canai' — las teorías rivales (un término malayo para enrollar la masa fina, el plato de garbanzos tamil/norindio 'channa', o la ciudad de Chennai) las recoge la escritura gastronómica popular, pero no hay un consenso académico establecido."
   - "La cronología que se atribuye a la llegada y difusión del roti canai (introducido en el siglo XIX, del que se dice que estaba 'firmemente establecido en todo el país hacia la década de 1920', popularizado primero en Penang/Melaka o Penang/Singapur) — procede del periodismo gastronómico y de resúmenes enciclopédicos, no de investigación histórica primaria; las fechas y los lugares varían según la fuente."

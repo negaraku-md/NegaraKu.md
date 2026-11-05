@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Asal-usul pasti kata 'canai' — teori-teori yang bersaing (istilah Melayu untuk menggulung adonan tipis, hidangan kacang arab Tamil/India Utara 'channa', atau kota Chennai) dilaporkan oleh tulisan kuliner populer tetapi belum ada konsensus ilmiah yang mapan."
   - "Lini masa yang diklaim atas kedatangan dan penyebaran roti canai (diperkenalkan pada abad ke-19, disebut 'telah mantap mapan di seluruh negeri pada 1920-an', mula-mula dipopulerkan di Penang/Melaka atau Penang/Singapura) — bersumber dari jurnalisme kuliner dan ringkasan ensiklopedis, bukan kajian sejarah primer; tanggal dan tempat berbeda-beda menurut sumber."

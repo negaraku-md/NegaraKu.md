@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "La sección exacta del National Heritage Act 2005 [Act 645] bajo la cual se inscribió en la gaceta la declaración del bak kut teh de febrero de 2024 (algunos reportes citan el subapartado 49(1), pero esto no está confirmado frente al aviso primario del Government Gazette)."
   - "La fecha exacta de publicación en la gaceta de la declaración del patrimonio nacional: los reportes varían entre el 23 y el 24 de febrero de 2024; confírmese frente al aviso oficial."

@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Seksyen tepat National Heritage Act 2005 [Act 645] yang di bawahnya pengisytiharan bak kut teh pada Februari 2024 diwartakan (sesetengah laporan memetik subseksyen 49(1), tetapi ini tidak disahkan terhadap notis Government Gazette yang utama)."
   - "Tarikh warta tepat bagi pengisytiharan warisan negara itu — laporan berbeza antara 23 dan 24 Februari 2024; sahkan terhadap notis rasmi."

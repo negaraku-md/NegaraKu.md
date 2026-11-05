@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "نظريات الأصل المتنافسة وتواريخها (مثل حلوى تايلندية مبكرة اسمها nokploi في عهد الملك ناراي نحو 1672–1688؛ إشارة في مخطوط جاوي من القرن الثاني عشر؛ صلات بالفالوده الفارسية faloodeh عبر الفالودا الهندية falooda) — هذه ملخّصة من Wikipedia وينبغي مراجعتها مقابل بحث علمي أولي قبل اعتبارها محسومة."
   - "اعترافات التراث الثقافي غير المادي والطعام التراثي (إدراج إندونيسيا لـ dawet/es cendol/cendol؛ تصنيف دائرة التراث الوطني الماليزية؛ إدراج سنغافورة له ضمن ترشيحها لثقافة الباعة الجائلين لدى UNESCO) — يُرجى تأكيد النطاق والتواريخ مع الهيئات الرسمية المعنية."

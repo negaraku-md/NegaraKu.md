@@ -34,13 +34,13 @@ sourceContentHash: "f6fd0ed1213828de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Angka MICHELIN Guide Kuala Lumpur & Penang edisi 2027 yang dikutip di sini (dilaporkan sekitar 159 establismen, 1 dua-Star, 9 satu-Star, 60 Bib Gourmand, 89 MICHELIN Selected, satu-Star baru di Potager, diumumkan 4 November 2026) berasal dari pers Malaysia (SAYS) dan tidak dapat dikonfirmasi terhadap guide.michelin.com pada saat penulisan — verifikasi total 2027, entri baru, dan edisi terkini terhadap halaman seleksi resmi 2027."
   - "Apakah MICHELIN Green Star diberikan pada edisi 2027: liputan pers 2027 tidak menyebutkan Green Star, dan MICHELIN dilaporkan menghapus Green Star sebagai filter pencarian situs web pada 2025; konfirmasi status Green Star Dewakan terkini terhadap guide.michelin.com."

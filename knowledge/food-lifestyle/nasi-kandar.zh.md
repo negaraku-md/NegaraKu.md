@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Line Clear 的创立年份与家族历史——可靠来源对其起始年代各有说法，或为1940年代或1950年代，并描述家族经营权轮替；在陈述具体年份前，请以一手来源或餐馆本身加以确认。"
   - "Hameediyah 确切的创立叙述——广为引用的『1907年，在 Lebuh Campbell 一棵树下』与香料店的说法；请就年份以及马来西亚纪录大全（Malaysia Book of Records）的『最老 nasi kandar』认定，直接向餐馆或纪录大全确认。"

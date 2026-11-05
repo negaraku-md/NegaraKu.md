@@ -39,13 +39,13 @@ sourceContentHash: "b55a92ae48cc7ea6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "La date exacte de la première apparition du riz au poulet hainanais en Malaisie. Les récits populaires citent les années 1920-1930 (et une affirmation très répétée de « 1939 »), mais ils reposent sur des sources de faible qualité ou anecdotiques et devraient être confirmés face à une histoire documentée avant d'être énoncés comme un fait."
   - "Le récit d'origine de la forme en boule de riz de Melaka (la légende de la « portabilité » du docker/de la veuve et l'explication du « maintien du riz au chaud ») est oral et anecdotique, répété par les médias gastronomiques plutôt que documenté ; à traiter comme une tradition populaire, non comme une histoire établie."

@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Tanggal dan geografi asal-usul char kway teow yang tepat — apakah ia muncul khusus di Penang atau lebih luas di seluruh komunitas buruh Tionghoa Asia Tenggara masih diperdebatkan di berbagai sumber; verifikasi dengan sumber sejarah kuliner primer sebelum menyatakan tanggal apa pun."
   - "Klaim bahwa char kway teow terpilih sebagai jajanan kaki lima 'must eat' No.1 dalam jajak pendapat Visit Penang 2009, dan bahwa Penang disebut oleh CNNGo (2012) di antara kota jajanan kaki lima terhebat Asia, bertumpu pada satu sumber sekunder (Adrian Cheah); verifikasi dengan jajak pendapat/artikel asli."

@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Line Clear の創業年と一族の歴史——信頼できる情報源は創業を1940年代または1950年代とまちまちに置き、一族内で持ち回りの所有だと述べている。特定の年を述べる前に、一次資料または店の情報源で確認すること。"
   - "Hameediyah の正確な創業の経緯——広く引用される『1907年、Lebuh Campbell の木の下で』という話と、香辛料店という話。その年と、Malaysia Book of Records の『最古のナシ・カンダー』認定を、店または Book of Records に直接確認すること。"

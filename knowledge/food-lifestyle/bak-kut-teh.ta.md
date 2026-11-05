@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "பெப்ரவரி 2024 பக் குட் தே அறிவிப்பு எந்தப் பிரிவின் கீழ் அரசிதழில் வெளியிடப்பட்டது என்பதற்கான National Heritage Act 2005 [Act 645]-இன் துல்லியமான பிரிவு (சில அறிக்கைகள் துணைப்பிரிவு 49(1)-ஐச் சுட்டுகின்றன, ஆனால் இது Government Gazette-இன் மூல அறிவிப்புக்கு எதிராக உறுதிப்படுத்தப்படவில்லை)."
   - "தேசியப் பாரம்பரிய அறிவிப்பின் துல்லியமான அரசிதழ் தேதி——அறிக்கைகள் 23 மற்றும் 24 பெப்ரவரி 2024-க்கு இடையே வேறுபடுகின்றன; அதிகாரபூர்வ அறிவிப்புக்கு எதிராக உறுதிப்படுத்தவும்."

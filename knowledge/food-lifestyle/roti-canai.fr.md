@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "L'origine précise du mot 'canai' — les théories concurrentes (un terme malais désignant le fait de rouler la pâte finement, le plat de pois chiches tamoul/nord-indien 'channa', ou la ville de Chennai) sont rapportées par les écrits culinaires populaires, mais il n'existe pas de consensus savant établi."
   - "La chronologie attribuée à l'arrivée et à la diffusion du roti canai (introduction au XIXe siècle, dont on dit qu'il était 'solidement établi dans tout le pays dans les années 1920', d'abord popularisé à Penang/Melaka ou à Penang/Singapour) — provient du journalisme culinaire et de résumés encyclopédiques, non de recherches historiques de première main ; les dates et les lieux varient selon les sources."

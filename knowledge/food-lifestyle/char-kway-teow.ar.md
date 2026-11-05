@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "تاريخ وجغرافيا نشأة char kway teow بدقّة — سواء ظهر تحديداً في بينانغ أم على نطاق أوسع عبر مجتمعات العمّال الصينيين في جنوب شرق آسيا، أمر متنازَع عليه بين المصادر؛ تحقّق من مصدر أولي في تاريخ الطهي قبل ذكر أي تاريخ."
   - "الادّعاء بأنّ char kway teow اختير أفضل طعام شارع 'must eat' رقم 1 في استطلاع Visit Penang عام 2009، وأنّ بينانغ سُمّيت من قِبَل CNNGo (2012) ضمن أعظم مدن طعام الشارع في آسيا، يستند إلى مصدر ثانوي واحد (Adrian Cheah)؛ تحقّق من الاستطلاعات/المقالات الأصلية."

@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Nguồn gốc chính xác của từ 'canai' — các giả thuyết cạnh tranh nhau (một thuật ngữ tiếng Mã Lai chỉ việc cán bột mỏng, món đậu gà 'channa' của người Tamil/Bắc Ấn, hoặc thành phố Chennai) được tường thuật bởi các bài viết ẩm thực đại chúng nhưng chưa có sự đồng thuận học thuật dứt khoát."
   - "Mốc thời gian được cho là về sự du nhập và lan tỏa của roti canai (du nhập vào thế kỷ 19, được cho là 'đã bén rễ vững chắc trên khắp cả nước vào thập niên 1920', lần đầu phổ biến ở Penang/Melaka hoặc Penang/Singapore) — dựa trên báo chí ẩm thực và các bản tóm lược kiểu bách khoa, không phải nghiên cứu lịch sử gốc; ngày tháng và địa điểm khác nhau tùy nguồn."

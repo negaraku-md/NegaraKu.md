@@ -39,13 +39,13 @@ sourceContentHash: "b55a92ae48cc7ea6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "海南鶏飯がマレーシアに初めて登場した正確な時期。通俗的な説明は1920年代〜1930年代（および広く繰り返される「1939年」説）を挙げるが、これらは質の低い、または逸話的な情報源に基づいており、事実として述べる前に、文書化された歴史に照らして確認すべきである。"
   - "マラッカのライスボール形式の起源の物語（港湾労働者／未亡人の「携帯性」の伝説と「ご飯を温かく保つ」という説明）は口承的かつ逸話的であり、文書化されるよりも食メディアで繰り返されている。確立された歴史ではなく、通俗的な伝統として扱うべきである。"

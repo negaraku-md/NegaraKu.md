@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Teori asal usul yang bersaing dan tarikhnya (cth. pencuci mulut Thai awal nokploi pada zaman Raja Narai sekitar 1672–1688; rujukan manuskrip Jawa abad ke-12; kaitan dengan faloodeh Parsi melalui falooda India) — ini diringkaskan daripada Wikipedia dan harus disemak terhadap kesarjanaan primer sebelum dianggap muktamad."
   - "Pengiktirafan warisan budaya tidak ketara dan makanan warisan (penyenaraian dawet/es cendol/cendol di Indonesia; pengisytiharan Jabatan Warisan Negara Malaysia; kemasukan Singapura dalam penyerahan budaya penjaja UNESCO-nya) — sahkan skop dan tarikh dengan badan rasmi yang berkaitan."

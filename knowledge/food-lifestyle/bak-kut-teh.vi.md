@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Điều khoản chính xác của National Heritage Act 2005 [Act 645] mà theo đó tuyên bố về bak kut teh tháng 2 năm 2024 được công báo (một số nguồn trích dẫn tiểu mục 49(1), nhưng điều này chưa được xác nhận đối chiếu với thông báo gốc trên Government Gazette)."
   - "Ngày công báo chính xác của tuyên bố di sản quốc gia — các nguồn khác nhau giữa ngày 23 và 24 tháng 2 năm 2024; hãy xác nhận đối chiếu với thông báo chính thức."

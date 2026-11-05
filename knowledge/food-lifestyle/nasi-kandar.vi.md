@@ -39,13 +39,13 @@ sourceContentHash: "ddbbb47a5d5e7c5a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Năm thành lập và lịch sử gia đình của Line Clear — các nguồn đáng tin cậy đặt điểm khởi đầu của nó khác nhau, vào thập niên 1940 hoặc 1950, và mô tả quyền sở hữu luân phiên trong gia đình; hãy xác nhận với một nguồn gốc hoặc nguồn của chính nhà hàng trước khi nêu một năm cụ thể."
   - "Câu chuyện thành lập chính xác của Hameediyah — giữa chuyện được trích dẫn rộng rãi '1907, dưới một gốc cây trên Lebuh Campbell' và câu chuyện cửa hàng gia vị; hãy xác nhận năm đó và sự công nhận 'nasi kandar lâu đời nhất' của Malaysia Book of Records trực tiếp với nhà hàng hoặc với Book of Records."

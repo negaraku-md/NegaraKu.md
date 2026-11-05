@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "char kway teow की सटीक उत्पत्ति तिथि और भूगोल — क्या यह विशेष रूप से पेनांग में उभरा या अधिक व्यापक रूप से दक्षिण-पूर्व एशिया के चीनी मज़दूर समुदायों में, स्रोतों के बीच विवादित है; कोई भी तिथि बताने से पहले किसी प्राथमिक पाक-इतिहास स्रोत से सत्यापित करें।"
   - "यह दावा कि char kway teow को 2009 के Visit Penang सर्वेक्षण में नंबर 1 'must eat' हॉकर भोजन चुना गया, और यह कि पेनांग को CNNGo (2012) द्वारा एशिया के सबसे बेहतरीन स्ट्रीट-फ़ूड शहरों में नामित किया गया, एक ही द्वितीयक स्रोत (Adrian Cheah) पर टिका है; मूल सर्वेक्षणों/लेखों से सत्यापित करें।"

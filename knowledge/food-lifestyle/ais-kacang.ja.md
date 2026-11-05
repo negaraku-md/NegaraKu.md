@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "アイス・カチャンの起源——諸説が食い違う：ウィキペディアはマレーシアのマレー人に帰し、シンガポールでの初期のかき氷版を第一次世界大戦前後にさかのぼるとする一方、一部の二次的な食のサイトはマラッカの Peranakan（ババ・ニョニャ）起源を主張する。単一の権威ある起源者も年代も確認されておらず、歴史はおおよそのものとして扱うべきである。"
   - "十年ごとの年表（第一次大戦前後に氷が安価に；1930 年代に缶詰の adzuki（小豆）版；1940 年代までに現代的な山盛り形態；1950〜60 年代に人気のあった氷玉スタイル）はウィキペディアに基づくもので、事実として述べる前に一次的な料理史の資料と照合すべきである。"

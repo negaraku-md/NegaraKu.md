@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "المادة الدقيقة من قانون التراث الوطني لسنة 2005 (National Heritage Act 2005) [Act 645] التي نُشِر بموجبها إعلان باك كوت تيه في فبراير 2024 في الجريدة الرسمية (تذكر بعض التقارير البند الفرعي 49(1)، لكن هذا غير مؤكَّد مقابل الإشعار الأصلي في Government Gazette)."
   - "التاريخ الدقيق لنشر إعلان التراث الوطني في الجريدة الرسمية——تتباين التقارير بين 23 و24 فبراير 2024؛ يُرجى التأكّد مقابل الإشعار الرسمي."

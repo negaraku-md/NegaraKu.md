@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "2024年2月のバクテー宣言が官報告示された根拠となる National Heritage Act 2005 [Act 645] の正確な条項（一部の報道は第49(1)項を挙げるが、これは Government Gazette の原告示に照らして確認されていない）。"
   - "国家遺産宣言の正確な官報告示日——報道は2024年2月23日と24日の間で分かれている；公式告示に照らして確認すること。"

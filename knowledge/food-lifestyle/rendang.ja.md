@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "CNNの『World's 50 Best Foods』におけるルンダンの年ごとの順位（2011年の編集部リストでは約11位、一方2011年の読者投票では1位；その後の2017年版と2021年版も引用されている）——具体的な順位を述べる前に、CNN自身が公表したリストと照らして正確な順位と年を確認すること。"
   - "gulai → kalio → ルンダンという3段階の調理の進行は一般的な情報源で広く説明されているが、学術的研究では一様にそのように枠づけられているわけではない——Journal of Ethnic Foodsの起源研究と照らしてこの用語を確認すること。"

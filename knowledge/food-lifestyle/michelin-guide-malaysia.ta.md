@@ -34,13 +34,13 @@ sourceContentHash: "f6fd0ed1213828de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "இங்கு மேற்கோள் காட்டப்பட்ட MICHELIN Guide Kuala Lumpur & Penang 2027 பதிப்பின் புள்ளிவிவரங்கள் (சுமார் 159 நிறுவனங்கள், 1 இரு-Star, 9 ஒரு-Star, 60 Bib Gourmand, 89 MICHELIN Selected, Potager-இல் புதிய ஒரு-Star, 4 நவம்பர் 2026 அன்று அறிவிக்கப்பட்டது எனப் பதிவாகியுள்ளன) மலேசிய ஊடகத்திலிருந்து (SAYS) பெறப்பட்டவை; எழுதும் நேரத்தில் guide.michelin.com-க்கு எதிராக உறுதிப்படுத்த முடியவில்லை — 2027 மொத்தங்கள், புதிய சேர்க்கைகள் மற்றும் தற்போதைய பதிப்பை அதிகாரபூர்வ 2027 தேர்வுப் பக்கத்துக்கு எதிராக சரிபார்க்கவும்."
   - "2027 பதிப்பில் MICHELIN Green Star வழங்கப்பட்டதா என்பது: 2027 ஊடகச் செய்திகள் Green Star பற்றி குறிப்பிடவில்லை, மேலும் MICHELIN 2025-இல் Green Star-ஐ இணையதள தேடல் வடிகட்டியாக நீக்கியதாகப் பதிவாகியுள்ளது; Dewakan-இன் தற்போதைய Green Star நிலையை guide.michelin.com-க்கு எதிராக உறுதிப்படுத்தவும்."

@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Competing origin theories and their dates (e.g. an early Thai dessert nokploi under King Narai c. 1672–1688; a 12th-century Javanese manuscript reference; links to Persian faloodeh via Indian falooda) — these are summarised from Wikipedia and should be checked against primary scholarship before being treated as settled."
   - "Intangible-cultural-heritage and heritage-food recognitions (Indonesia's dawet/es cendol/cendol listings; Malaysia's Department of National Heritage designation; Singapore's inclusion in its hawker-culture UNESCO submission) — confirm scope and dates with the relevant official bodies."

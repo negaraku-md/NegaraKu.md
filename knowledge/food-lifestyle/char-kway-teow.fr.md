@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "La date et la géographie précises de l'origine du char kway teow — qu'il soit apparu spécifiquement à Penang ou plus largement dans les communautés de travailleurs chinois d'Asie du Sud-Est fait débat entre les sources ; vérifier auprès d'une source primaire d'histoire culinaire avant d'avancer une quelconque date."
   - "L'affirmation selon laquelle le char kway teow a été élu plat de hawker « must eat » n°1 lors d'un sondage Visit Penang de 2009, et que Penang a été citée par CNNGo (2012) parmi les plus grandes villes de cuisine de rue d'Asie, repose sur une seule source secondaire (Adrian Cheah) ; vérifier auprès des sondages/articles d'origine."

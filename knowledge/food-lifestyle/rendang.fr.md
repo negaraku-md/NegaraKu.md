@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Les classements année par année du rendang dans la liste « World's 50 Best Foods » de CNN (la liste des rédacteurs de 2011 le plaçait autour du n° 11, tandis qu'un sondage de lecteurs de 2011 le plaçait en premier ; les éditions ultérieures de 2017 et 2021 sont également citées) — confirmer le rang et l'année exacts par rapport aux listes publiées par CNN elle-même avant d'indiquer une position précise."
   - "La progression de cuisson en trois étapes gulai → kalio → rendang est largement décrite dans les sources populaires mais n'est pas présentée de manière uniforme ainsi dans les travaux universitaires — confirmer la terminologie par rapport à l'étude sur les origines du Journal of Ethnic Foods."

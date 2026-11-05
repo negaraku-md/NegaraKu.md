@@ -39,13 +39,13 @@ sourceContentHash: "b55a92ae48cc7ea6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Tarikh tepat nasi ayam Hainan mula muncul di Malaysia. Catatan popular menyebut tahun 1920-an–1930-an (dan dakwaan '1939' yang kerap diulang), tetapi ini berdasarkan sumber berkualiti rendah atau anekdot dan perlu disahkan terhadap sejarah berdokumen sebelum dinyatakan sebagai fakta."
   - "Kisah asal usul bentuk bola nasi Melaka (legenda 'kemudahbawaan' pekerja pelabuhan/balu dan penjelasan 'mengekalkan nasi panas') bersifat lisan dan anekdot, diulang merentas media makanan dan bukannya berdokumen; anggap sebagai tradisi popular, bukan sejarah yang mapan."

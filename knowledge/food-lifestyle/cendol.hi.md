@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "प्रतिस्पर्धी उद्गम सिद्धांत और उनकी तिथियाँ (जैसे राजा नारई के शासन में लगभग 1672–1688 का एक प्रारंभिक थाई मिठाई nokploi; 12वीं शताब्दी के जावानी पांडुलिपि का संदर्भ; भारतीय falooda के माध्यम से फ़ारसी faloodeh से संबंध) — ये Wikipedia से संक्षेपित हैं और इन्हें निर्णायक मानने से पहले प्राथमिक विद्वता के विरुद्ध जाँचा जाना चाहिए।"
   - "अमूर्त सांस्कृतिक धरोहर और धरोहर-भोजन मान्यताएँ (इंडोनेशिया की dawet/es cendol/cendol सूचियाँ; मलेशिया के राष्ट्रीय धरोहर विभाग की नियुक्ति; सिंगापुर द्वारा अपने हॉकर-संस्कृति UNESCO प्रस्ताव में इसका समावेश) — संबंधित आधिकारिक निकायों के साथ दायरे और तिथियों की पुष्टि करें।"

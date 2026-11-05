@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Teori-teori asal-usul yang bersaing dan tanggalnya (mis. hidangan penutup Thai awal nokploi pada masa Raja Narai sekitar 1672–1688; sebuah rujukan naskah Jawa abad ke-12; kaitan dengan faloodeh Persia melalui falooda India) — ini diringkas dari Wikipedia dan harus diperiksa terhadap keilmuan primer sebelum dianggap final."
   - "Pengakuan warisan budaya takbenda dan makanan warisan (pendaftaran dawet/es cendol/cendol oleh Indonesia; penetapan oleh Departemen Warisan Nasional Malaysia; penyertaan Singapura dalam pengajuan budaya pedagang kaki lima ke UNESCO) — konfirmasikan cakupan dan tanggal dengan badan resmi terkait."

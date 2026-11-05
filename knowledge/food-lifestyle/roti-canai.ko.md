@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "'canai'라는 단어의 정확한 기원 — 서로 경합하는 설(반죽을 얇게 미는 것을 뜻하는 말레이어, 타밀/북인도의 병아리콩 요리 'channa', 또는 첸나이라는 도시)은 대중 음식 글에서 전해지지만 정해진 학술적 합의는 없다."
   - "roti canai의 전래와 확산에 대해 주장되는 연표(19세기에 전래, '1920년대까지 전국에 확고히 자리 잡았다'고 일컬어지며, 페낭/믈라카 또는 페낭/싱가포르에서 처음 대중화됨) — 일차 역사 연구가 아니라 음식 저널리즘과 백과사전식 요약에 근거하며, 날짜와 장소는 출처마다 다르다."

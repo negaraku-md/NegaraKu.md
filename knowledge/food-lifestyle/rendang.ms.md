@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Kedudukan rendang tahun demi tahun dalam senarai 'World's 50 Best Foods' CNN (senarai editor 2011 meletakkannya sekitar No. 11, manakala undian pembaca 2011 meletakkannya di tempat pertama; edisi 2017 dan 2021 yang kemudian turut dipetik) — sahkan kedudukan dan tahun yang tepat dengan senarai terbitan CNN sendiri sebelum menyatakan kedudukan tertentu."
   - "Peringkat memasak tiga tahap gulai → kalio → rendang digambarkan secara meluas dalam sumber popular tetapi tidak dibingkaikan secara seragam sedemikian dalam kerja ilmiah — sahkan istilah ini dengan kajian asal usul Journal of Ethnic Foods."

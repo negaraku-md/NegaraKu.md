@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Thứ hạng theo từng năm của rendang trong danh sách 'World's 50 Best Foods' của CNN (danh sách của ban biên tập năm 2011 xếp nó khoảng hạng 11, trong khi một cuộc thăm dò độc giả năm 2011 xếp nó hạng nhất; các phiên bản 2017 và 2021 sau này cũng được trích dẫn) — hãy xác nhận thứ hạng và năm chính xác đối chiếu với các danh sách do chính CNN công bố trước khi nêu một vị trí cụ thể."
   - "Tiến trình nấu ba giai đoạn gulai → kalio → rendang được mô tả rộng rãi trong các nguồn phổ thông nhưng không được định khung một cách nhất quán như vậy trong công trình học thuật — hãy xác nhận thuật ngữ này đối chiếu với nghiên cứu về nguồn gốc của Journal of Ethnic Foods."

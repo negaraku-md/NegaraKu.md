@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "2024年2月肉骨茶宣告所依据的《2005年国家文化遗产法令》[Act 645] 的确切条文（有报道引述为第49(1)款，但未对照Government Gazette的原始公告加以证实）。"
   - "国家文化遗产宣告的确切宪报日期——各报道在2024年2月23日与24日之间不一；请对照官方公告证实。"

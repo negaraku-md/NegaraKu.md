@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Các giả thuyết nguồn gốc cạnh tranh và niên đại của chúng (ví dụ: món tráng miệng Thái thời kỳ đầu nokploi dưới thời Vua Narai khoảng 1672–1688; một tham chiếu bản thảo Java thế kỷ 12; mối liên hệ với faloodeh Ba Tư thông qua falooda Ấn Độ) — những điều này được tóm tắt từ Wikipedia và nên được kiểm chứng với học thuật gốc trước khi được coi là đã chốt."
   - "Các công nhận di sản văn hóa phi vật thể và món ăn di sản (việc liệt kê dawet/es cendol/cendol của Indonesia; chỉ định của Cục Di sản Quốc gia Malaysia; việc Singapore đưa nó vào hồ sơ đề cử văn hóa hàng rong lên UNESCO) — xác nhận phạm vi và niên đại với các cơ quan chính thức liên quan."

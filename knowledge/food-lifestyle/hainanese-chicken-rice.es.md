@@ -39,13 +39,13 @@ sourceContentHash: "b55a92ae48cc7ea6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "La fecha exacta en que el arroz con pollo hainanés apareció por primera vez en Malasia. Los relatos populares citan los años 1920-1930 (y una afirmación muy repetida de '1939'), pero se apoyan en fuentes de baja calidad o anecdóticas y deberían confirmarse frente a una historia documentada antes de enunciarse como un hecho."
   - "La historia de origen de la forma de bola de arroz de Melaka (la leyenda de la 'portabilidad' del obrero portuario/la viuda y la explicación de 'mantener el arroz caliente') es oral y anecdótica, repetida por los medios gastronómicos más que documentada; debe tratarse como tradición popular, no como historia establecida."

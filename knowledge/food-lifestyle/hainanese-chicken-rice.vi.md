@@ -39,13 +39,13 @@ sourceContentHash: "b55a92ae48cc7ea6"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Thời điểm chính xác cơm gà Hải Nam lần đầu xuất hiện ở Malaysia. Các tường thuật phổ biến dẫn những năm 1920–1930 (và tuyên bố '1939' được lặp lại rộng rãi), nhưng chúng dựa trên các nguồn chất lượng thấp hoặc giai thoại và cần được xác nhận đối chiếu với một lịch sử có tài liệu trước khi được nêu như sự thật."
   - "Câu chuyện nguồn gốc của dạng viên cơm Melaka (truyền thuyết 'tính tiện mang theo' của phu bến tàu/góa phụ và lời giải thích 'giữ cơm ấm') mang tính truyền miệng và giai thoại, được lặp lại trên truyền thông ẩm thực chứ không có tài liệu; nên xem là truyền thống dân gian, không phải lịch sử đã xác lập."

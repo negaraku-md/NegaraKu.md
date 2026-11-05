@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Origin of ais kacang — accounts conflict: Wikipedia credits Malaysian Malays and traces early shaved-ice versions in Singapore to around the First World War, while some secondary food sites claim a Peranakan origin in Malacca. No single authoritative originator or date is confirmed; treat the history as approximate."
   - "The decade-by-decade timeline (cheaper ice around WWI; canned adzuki-bean versions in the 1930s; the modern mounded form by the 1940s; the ice-ball style popular in the 1950s–60s) is drawn from Wikipedia and should be verified against a primary culinary-history source before being stated as fact."

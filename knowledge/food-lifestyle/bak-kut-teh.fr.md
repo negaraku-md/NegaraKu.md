@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "L'article exact du National Heritage Act 2005 [Act 645] au titre duquel la déclaration du bak kut teh de février 2024 a été publiée au Journal officiel (certains articles de presse citent le paragraphe 49(1), mais cela n'est pas confirmé par rapport à l'avis primaire du Government Gazette)."
   - "La date exacte de publication au Journal officiel de la déclaration du patrimoine national — les articles de presse varient entre le 23 et le 24 février 2024 ; à confirmer par rapport à l'avis officiel."

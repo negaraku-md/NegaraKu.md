@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "炒粿条的确切起源年代与地理——它究竟是专门在槟城出现，还是更广泛地在东南亚的华人劳工社群中出现，各家资料说法不一；在陈述任何年代之前，须对照一手的饮食史资料核实。"
   - "关于炒粿条在2009年一项 Visit Penang 民调中被选为头号「必吃」小贩美食，以及槟城在2012年被 CNNGo 列为亚洲最佳街头美食城市之一的说法，仅凭单一的二手资料（Adrian Cheah）；须对照原始民调／文章核实。"

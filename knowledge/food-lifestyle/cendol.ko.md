@@ -39,13 +39,13 @@ sourceContentHash: "5d5bbd7760529e25"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "경쟁하는 기원 이론과 그 연대(예: 나라이 왕 치하 약 1672–1688년경의 초기 태국 디저트 nokploi, 12세기 자바 사본의 언급, 인도의 falooda를 거친 페르시아의 faloodeh와의 연관) — 이것들은 Wikipedia에서 요약한 것으로, 확정된 것으로 간주하기 전에 일차 학술 연구와 대조해 확인해야 한다."
   - "무형문화유산 및 유산 음식 인정(인도네시아의 dawet/es cendol/cendol 등재, 말레이시아 국가유산부의 지정, 싱가포르가 노점 문화 UNESCO 신청에 포함한 것) — 관련 공식 기관과 범위와 연대를 확인할 것."

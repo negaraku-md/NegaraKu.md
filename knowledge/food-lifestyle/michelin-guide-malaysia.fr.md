@@ -34,13 +34,13 @@ sourceContentHash: "f6fd0ed1213828de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Les chiffres de l'édition 2027 du MICHELIN Guide Kuala Lumpur & Penang cités ici (rapportés comme environ 159 établissements, 1 deux Star, 9 une Star, 60 Bib Gourmand, 89 MICHELIN Selected, une nouvelle une Star chez Potager, annoncés le 4 novembre 2026) proviennent de la presse malaisienne (SAYS) et n'ont pas pu être confirmés par rapport à guide.michelin.com au moment de la rédaction — vérifiez les totaux 2027, les nouvelles entrées et l'édition actuelle par rapport à la page officielle de la sélection 2027."
   - "La question de savoir si une MICHELIN Green Star a été décernée dans l'édition 2027 : la couverture de presse 2027 n'a pas mentionné les Green Star, et MICHELIN aurait abandonné la Green Star en tant que filtre de recherche du site web en 2025 ; confirmez le statut actuel de la Green Star de Dewakan par rapport à guide.michelin.com."

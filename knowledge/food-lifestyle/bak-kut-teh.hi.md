@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "National Heritage Act 2005 [Act 645] की वह सटीक धारा जिसके तहत फ़रवरी 2024 की बाक कुट तेह घोषणा राजपत्र में अधिसूचित की गई (कुछ रिपोर्टें उप-धारा 49(1) का उल्लेख करती हैं, पर यह Government Gazette की मूल अधिसूचना के विरुद्ध पुष्ट नहीं है)।"
   - "राष्ट्रीय धरोहर घोषणा की सटीक राजपत्र तिथि——रिपोर्टें 23 और 24 फ़रवरी 2024 के बीच भिन्न हैं; आधिकारिक अधिसूचना के विरुद्ध पुष्टि करें।"

@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "char kway teow の正確な起源の年代と地理——それがペナンで特に生まれたのか、それとも東南アジアの華人労働者コミュニティ全体でより広く生まれたのかは資料によって見解が分かれる。年代を述べる前に、一次の料理史資料と照合して確認すること。"
   - "char kway teow が2009年の Visit Penang の投票で第1位の『must eat』屋台料理に選ばれたこと、そしてペナンが CNNGo（2012年）によってアジア有数のストリートフード都市の一つに挙げられたという主張は、単一の二次資料（Adrian Cheah）に基づく。元の投票／記事と照合して検証すること。"

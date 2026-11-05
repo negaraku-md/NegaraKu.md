@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "L'origine de l'ais kacang — les récits divergent : Wikipédia l'attribue aux Malais de Malaisie et fait remonter les premières versions de glace pilée à Singapour vers la Première Guerre mondiale, tandis que certains sites culinaires secondaires revendiquent une origine peranakan (Peranakan) à Malacca. Aucun initiateur ni aucune date faisant autorité n'est confirmé(e) ; traiter l'histoire comme approximative."
   - "La chronologie décennie par décennie (glace moins chère vers la Première Guerre mondiale ; versions de haricots adzuki (adzuki) en conserve dans les années 1930 ; la forme en monticule moderne vers les années 1940 ; le style en boule de glace populaire dans les années 1950-60) provient de Wikipédia et devrait être vérifiée auprès d'une source primaire d'histoire culinaire avant d'être énoncée comme un fait."

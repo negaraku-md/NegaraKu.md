@@ -38,13 +38,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "The exact date Hainanese chicken rice first appeared in Malaysia. Popular accounts cite the 1920s–1930s (and a widely repeated '1939' claim), but these rest on low-quality or anecdotal sources and should be confirmed against a documented history before being stated as fact."
   - "The origin story of the Melaka rice-ball form (the dock-worker/widow 'portability' legend and the 'keeping rice warm' explanation) is oral and anecdotal, repeated across food media rather than documented; treat as popular tradition, not established history."

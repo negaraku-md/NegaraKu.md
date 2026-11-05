@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Asal usul ais kacang — berbagai keterangan saling bertentangan: Wikipedia mengkreditkan orang Melayu Malaysia dan melacak versi es serut awal di Singapura sekitar Perang Dunia Pertama, sementara beberapa situs kuliner sekunder mengklaim asal usul Peranakan di Malaka. Tidak ada satu pun pencetus atau tanggal otoritatif yang terkonfirmasi; perlakukan sejarahnya sebagai perkiraan."
   - "Garis waktu per dekade (es lebih murah sekitar PD1; versi kacang adzuki kalengan pada 1930-an; bentuk gundukan modern pada 1940-an; gaya bola es yang populer pada 1950-an–60-an) diambil dari Wikipedia dan perlu diverifikasi dengan sumber sejarah kuliner primer sebelum dinyatakan sebagai fakta."

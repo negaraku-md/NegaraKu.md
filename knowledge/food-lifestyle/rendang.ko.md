@@ -39,13 +39,13 @@ sourceContentHash: "89aad66ea5c70fd7"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "CNN 'World's 50 Best Foods'에서 른당의 연도별 순위(2011년 편집진 목록은 약 11위에 올렸고, 2011년 독자 투표는 1위에 올렸다; 이후의 2017년판과 2021년판도 인용된다) — 특정 순위를 언급하기 전에 CNN 자체가 발표한 목록과 대조하여 정확한 순위와 연도를 확인할 것."
   - "gulai → kalio → 른당이라는 3단계 조리 진행은 대중적인 자료에서 널리 서술되지만 학술 연구에서 일률적으로 그렇게 규정되지는 않는다 — Journal of Ethnic Foods의 기원 연구와 대조하여 이 용어를 확인할 것."

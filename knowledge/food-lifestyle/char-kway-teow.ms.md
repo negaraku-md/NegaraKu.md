@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Tarikh dan geografi asal usul char kway teow yang tepat — sama ada ia muncul khusus di Pulau Pinang atau lebih luas di seluruh masyarakat buruh Cina di Asia Tenggara masih diperdebatkan merentas sumber; sahkan terhadap sumber sejarah masakan primer sebelum menyatakan sebarang tarikh."
   - "Dakwaan bahawa char kway teow diundi sebagai makanan penjaja 'must eat' No.1 dalam tinjauan Visit Penang 2009, dan bahawa Pulau Pinang dinamakan oleh CNNGo (2012) antara bandar makanan jalanan terhebat Asia, bersandar pada satu sumber sekunder (Adrian Cheah); sahkan terhadap tinjauan/artikel asal."

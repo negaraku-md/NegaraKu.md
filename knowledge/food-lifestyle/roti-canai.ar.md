@@ -39,13 +39,13 @@ sourceContentHash: "a186d6a06ec100fb"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "الأصل الدقيق لكلمة 'canai' — النظريات المتنافسة (مصطلح ملايوي للفّ العجين رقيقًا، أو طبق الحمّص 'channa' التاميلي/الهندي الشمالي، أو مدينة تشيناي) تنقلها الكتابات الطعامية الشعبية لكن لا يوجد إجماع علمي مستقر."
   - "الجدول الزمني المزعوم لوصول roti canai وانتشاره (دخوله في القرن التاسع عشر، ويُقال إنه 'ترسّخ بثبات في أنحاء البلاد بحلول عشرينيات القرن العشرين'، وشاع أولًا في بينانغ/ملقا أو بينانغ/سنغافورة) — مصدره الصحافة الطعامية والملخصات الموسوعية لا البحث التاريخي الأوّلي؛ والتواريخ والأماكن تختلف باختلاف المصدر."

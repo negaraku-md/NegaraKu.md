@@ -34,13 +34,13 @@ sourceContentHash: "f6fd0ed1213828de"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "أرقام MICHELIN Guide Kuala Lumpur & Penang طبعة 2027 المقتبسة هنا (ورد أنها نحو 159 منشأة، و1 حاصل على نجمتين، و9 حاصلين على نجمة واحدة، و60 Bib Gourmand، و89 MICHELIN Selected، ونجمة واحدة جديدة في Potager، أُعلن عنها في 4 نوفمبر 2026) مصدرها الصحافة الماليزية (SAYS) وتعذّر التأكد منها مقابل guide.michelin.com وقت الكتابة — تحقّق من إجماليات 2027 والمدخلات الجديدة والطبعة الحالية مقابل صفحة الاختيار الرسمية لعام 2027."
   - "ما إذا كان قد مُنح MICHELIN Green Star في طبعة 2027: لم تذكر التغطية الصحفية لعام 2027 Green Star، وورد أن MICHELIN أزال Green Star بوصفه مرشِّح بحث على الموقع في 2025؛ تأكّد من حالة Green Star الحالية لـ Dewakan مقابل guide.michelin.com."

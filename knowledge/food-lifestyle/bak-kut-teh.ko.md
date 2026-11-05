@@ -39,13 +39,13 @@ sourceContentHash: "a00120c6c5dd63e2"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "2024년 2월 바쿠테 선언이 관보에 고시된 근거가 된 National Heritage Act 2005 [Act 645]의 정확한 조항(일부 보도는 제49(1)항을 인용하지만, 이는 Government Gazette 원본 고시에 대조해 확인되지 않았다)."
   - "국가유산 선언의 정확한 관보 고시일——보도는 2024년 2월 23일과 24일 사이에서 엇갈린다; 공식 고시에 대조해 확인할 것."

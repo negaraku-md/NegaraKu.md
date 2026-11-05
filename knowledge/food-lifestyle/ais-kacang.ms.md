@@ -39,13 +39,13 @@ sourceContentHash: "1d180bbd165cd22a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "Asal usul ais kacang — pelbagai keterangan bercanggah: Wikipedia mengkreditkan orang Melayu Malaysia dan menjejaki versi ais serut awal di Singapura sekitar Perang Dunia Pertama, manakala sesetengah laman makanan sekunder mendakwa asal usul Peranakan di Melaka. Tiada pengasas atau tarikh tunggal yang berautoriti disahkan; anggap sejarahnya sebagai anggaran."
   - "Garis masa dekad demi dekad (ais lebih murah sekitar PD1; versi kacang adzuki dalam tin pada 1930-an; bentuk longgokan moden menjelang 1940-an; gaya bola ais yang popular pada 1950-an–60-an) diambil daripada Wikipedia dan perlu disahkan dengan sumber sejarah kulinari primer sebelum dinyatakan sebagai fakta."

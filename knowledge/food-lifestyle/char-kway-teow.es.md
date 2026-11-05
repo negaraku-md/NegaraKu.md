@@ -39,13 +39,13 @@ sourceContentHash: "77b0e0ac7862c9a0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-05
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 verificationNeeded:
   - "La fecha y la geografía precisas del origen del char kway teow — si surgió específicamente en Penang o de forma más amplia por las comunidades de trabajadores chinos del Sudeste Asiático es objeto de debate entre las fuentes; verificar con una fuente primaria de historia culinaria antes de afirmar fecha alguna."
   - "La afirmación de que el char kway teow fue votado como la comida de puesto callejero 'must eat' número 1 en una encuesta de Visit Penang de 2009, y de que Penang fue nombrada por CNNGo (2012) entre las mejores ciudades de comida callejera de Asia, se apoya en una única fuente secundaria (Adrian Cheah); verificar con las encuestas/artículos originales."
