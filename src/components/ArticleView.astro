@@ -4,7 +4,7 @@ import type { Locale } from '@/lib/categories';
 import { getCategory, getPillar, getPillarDef, loc } from '@/lib/categories';
 import { type Article, relatedArticles, readingTime, articlesForLocale, isTombstone } from '@/lib/content';
 import { localePath } from '@/lib/i18n';
-import { REPO } from '@/lib/site';
+import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
 import { FLOWER_D } from '@/lib/logo';
@@ -412,7 +412,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       }
 
 
-      {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} />}
+      {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="inline" />}
 
       <section class="layer">
         <header>
@@ -588,6 +588,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
     </div>
 
     <aside class="side" data-pagefind-ignore>
+      {sponsor && <SponsorCTA locale={locale} sponsor={sponsor} href={sponsorHref} placement="side" />}
       {
         toc.length > 0 && (
           <nav class="toc">
@@ -680,6 +681,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
         <a class="edit" href={`${REPO}/blob/main/${sourceFile}`} rel="noopener">
           {L('Sunting di GitHub', 'Edit on GitHub', '在 GitHub 编辑', 'GitHub-இல் திருத்து', 'GitHub で編集', 'GitHub에서 편집', 'แก้ไขบน GitHub', 'Chỉnh sửa trên GitHub', 'Sunting di GitHub', 'التحرير على GitHub', 'GitHub पर संपादित करें', 'Editar en GitHub', "Modifier sur GitHub")} <span class="dirx">↗</span>
         </a>
+        {!CONTRIBUTIONS_PAUSED && (<Fragment>
         <a class="edit" href={suggestUrl} rel="noopener">
           {L('Cadangkan penambahbaikan', 'Suggest an improvement', '建议改进', 'மேம்பாட்டைப் பரிந்துரைக்கவும்', '改善を提案', '개선 제안', 'เสนอการปรับปรุง', 'Đề xuất cải thiện', 'Sarankan perbaikan', 'اقتراح تحسين', 'सुधार सुझाएँ', 'Sugerir una mejora', "Suggérer une amélioration")} <span class="dirx">↗</span>
         </a>
@@ -691,6 +693,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
             {L('Laporkan masalah terjemahan', 'Report a translation problem', '报告翻译问题', 'மொழிபெயர்ப்புச் சிக்கலைப் புகாரளிக்கவும்', '翻訳の問題を報告', '번역 문제 신고', 'รายงานปัญหาการแปล', 'Báo cáo lỗi bản dịch', 'Laporkan masalah terjemahan', 'الإبلاغ عن مشكلة في الترجمة', 'अनुवाद संबंधी समस्या की रिपोर्ट करें', 'Informar de un problema de traducción', "Signaler un problème de traduction")} <span class="dirx">↗</span>
           </a>
         )}
+        </Fragment>)}
         <a class="edit" href={localePath(path, locale) + '.md'} target="_blank" rel="noopener">
           {L('Markdown mentah', 'Raw Markdown', '原始 Markdown', 'மூல Markdown', '生の Markdown', '원본 Markdown', 'Markdown ดิบ', 'Markdown thô', 'Markdown mentah', 'Markdown الخام', 'कच्चा Markdown', 'Markdown sin procesar', "Markdown brut")} <span class="dirx">↗</span>
         </a>
@@ -726,7 +729,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   </div>
 </article>
 
-<BecomeContributor locale={locale} />
+{!CONTRIBUTIONS_PAUSED && <BecomeContributor locale={locale} />}
 
 <style>
   /* Tombstone notice — a retired, no-successor topic served read-only. */

@@ -6,12 +6,16 @@
 import type { Locale } from '@/lib/categories';
 import type { Sponsor } from '@/lib/sponsors';
 
-interface Props { locale: Locale; sponsor: Sponsor; href: string; }
-const { locale, sponsor, href } = Astro.props;
+// `placement` controls where this renders: 'inline' sits mid-article (shown on
+// mobile, where the sidebar collapses to the page foot); 'side' sits at the top
+// of the sticky right rail (shown on desktop). ArticleView renders both and CSS
+// shows the one that fits the viewport — same pattern as the "On this page" box.
+interface Props { locale: Locale; sponsor: Sponsor; href: string; placement?: 'inline' | 'side'; }
+const { locale, sponsor, href, placement = 'inline' } = Astro.props;
 const l = locale as Locale;
 ---
 
-<aside class="spon" aria-label={sponsor.name} data-pagefind-ignore>
+<aside class:list={['spon', `spon--${placement}`]} aria-label={sponsor.name} data-pagefind-ignore>
   <div class="spon-body">
     <p class="spon-head">{sponsor.heading[l]}</p>
     <p class="spon-text"><a class="oneco spon-name" href={href} target="_blank" rel="sponsored noopener">{sponsor.name}</a>{sponsor.blurb[l]}</p>
@@ -49,4 +53,21 @@ const l = locale as Locale;
   }
   .spon-cta:hover { filter: brightness(1.05); }
   [dir='rtl'] .dirx { display: inline-block; transform: scaleX(-1); }
+
+  /* Compact variant for the 260px sticky rail: first card, so no top margin;
+     tighter padding/type to match the toc/trust cards beside it. */
+  .spon--side {
+    margin: 0;
+    gap: 0.7rem;
+    padding: 0.95rem 0.95rem 1.05rem;
+    border-radius: 12px;
+  }
+  .spon--side .spon-head { font-size: 0.95rem; }
+  .spon--side .spon-text { font-size: 0.82rem; margin-top: 0.4rem; }
+  .spon--side .spon-cta { padding: 0.45rem 0.8rem; font-size: 0.85rem; }
+
+  /* One at a time: the sidebar CTA on desktop, the inline CTA on mobile (where
+     the rail stacks at the page foot). Breakpoint matches ArticleView's layout. */
+  @media (min-width: 901px) { .spon--inline { display: none; } }
+  @media (max-width: 900px) { .spon--side { display: none; } }
 </style>
