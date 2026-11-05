@@ -27,6 +27,19 @@ export const BRAND_1FINANCING = 'https://1financing.com';
     both people and crawlers can find it. */
 export const HF_DATASET = 'https://huggingface.co/datasets/negaraku-md/negaraku-md';
 
+/** Per-language Facebook Page ids — the footer links each locale to its OWN
+    Page. Mirrors the posting side (scripts/lib/facebook.mjs); kept here for the
+    site. `facebook.com/<id>` resolves to the Page. LinkedIn is a single
+    English-led company page, so it is not per-language. */
+export const FB_PAGES: Record<string, string> = {
+  ms: '1227711683752433', en: '1334373156431426', zh: '1382294921622880',
+  ta: '1317515884777917', ja: '1234264816444540', ko: '1308994995630346',
+  th: '1328187273714373', vi: '1351336844728158', id: '1344600845403169',
+  ar: '1414178765105306', hi: '1328393130363663', es: '1411931938662385',
+  fr: '1344235862113902',
+};
+export const LINKEDIN_URL = 'https://www.linkedin.com/company/negaraku-md';
+
 /** Endpoint for the contribution form (e.g. a Formspree form URL like
     "https://formspree.io/f/abcdwxyz", or any handler that accepts a POST).
     Leave it EMPTY to keep the no-backend behaviour: the contribute form opens a
