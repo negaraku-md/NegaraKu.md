@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa: Bib Gourmand de Penang"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "Asam laksa de Penang — fideos de arroz en un caldo ácido de tamarindo y pescado con caballa y menta"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "Mar-Dom 11:00-17:00; cerrado los lunes"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa"
+  reviewSummary: "Un puesto callejero de larga trayectoria en George Town, ahora regentado por la tercera generación de la familia con una receta de unos 50 años. Su asam laksa tiene un caldo de tamarindo y sardina (sin leche de coco) que, según los inspectores de la MICHELIN, equilibra lo dulce, lo ácido y lo picante, con pepino, chalota y piña que rebajan el picor; un blog gastronómico encontró el caldo más ligero y dulce que en algunas versiones, con unos fideos de arroz gruesos, suaves y de textura elástica. También se venden acompañamientos de estilo Nyonya, como rollitos de primavera y kuih. Solo efectivo; galardonado con un MICHELIN Bib Gourmand."
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

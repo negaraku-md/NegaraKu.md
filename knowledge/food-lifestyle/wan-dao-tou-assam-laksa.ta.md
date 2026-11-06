@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa: பினாங்கு Bib Gourmand"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "பினாங்கு asam laksa — புளிப்பான புளி-மற்றும்-மீன் சூப்பில் அரிசி நூடுல்ஸ், மத்தி மீன் மற்றும் புதினாவுடன்"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "செவ்-ஞாயிறு 11:00-17:00; திங்கள் மூடப்பட்டிருக்கும்"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa"
+  reviewSummary: "ஜார்ஜ் டவுனில் நீண்ட காலமாக இயங்கி வரும் ஒரு தெரு உணவுக் கடை, இப்போது குடும்பத்தின் மூன்றாவது தலைமுறையினரால் சுமார் 50 ஆண்டுகள் பழமையான செய்முறையைப் பயன்படுத்தி நடத்தப்படுகிறது. இதன் asam laksa புளி-மற்றும்-மத்தி மீன் சூப் (தேங்காய்ப் பால் இல்லை) கொண்டது; இது இனிப்பு, புளிப்பு மற்றும் காரத்தை சமநிலைப்படுத்துவதாக MICHELIN ஆய்வாளர்கள் குறிப்பிடுகின்றனர், வெள்ளரி, சின்ன வெங்காயம் மற்றும் அன்னாசி காரத்தைக் குறைக்கின்றன; ஒரு உணவு வலைப்பதிவு சூப் சில பதிப்புகளை விட இலேசாகவும் இனிப்பாகவும் இருப்பதாகக் கண்டறிந்தது, மென்மையான, மெல்லக்கூடிய தடித்த அரிசி நூடுல்ஸுடன். ஸ்பிரிங் ரோல்ஸ் மற்றும் குயி போன்ற நோன்யா பாணி பக்க உணவுகளும் விற்கப்படுகின்றன. ரொக்கம் மட்டுமே; MICHELIN Bib Gourmand விருது பெற்றது."
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

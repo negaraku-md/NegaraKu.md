@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara：ペナン州ジョージタウンのタイ料理シーフード"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "タイのシーフードトムヤム — エビとハーブを使った酸辣スープ"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "月・火・金・土・日 12:00-15:00 & 17:00-22:00；水 17:00-22:00；木 定休"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "シーフードのトムヤム（tom yum talay）、ミアンカム（キンマの葉包み）、ホーモックタレーマプラオ（ヤシの実で蒸したシーフードカレー）、川エビのグリル、マンゴースティッキーライス"
+  reviewSummary: "15年以上の経験を持つシェフが率いる、2年連続MICHELINビブグルマン（2024-2025）のタイ料理店。家庭的なタイ料理と新鮮なシーフード、とりわけシーフードのトムヤムのバリエーションで知られ、明るいグリーントーンの店内で提供される。評者はたっぷりの量と手頃な価格を高く評価する一方、厨房が替わってから料理にムラがあると指摘する声もある。"
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

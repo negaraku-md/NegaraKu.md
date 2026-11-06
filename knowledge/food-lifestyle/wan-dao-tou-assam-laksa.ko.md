@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa: 페낭 빕 구르망"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "페낭 asam laksa — 새콤한 타마린드와 생선 육수에 담긴 쌀국수, 고등어와 민트를 곁들임"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "화~일 11:00-17:00, 월요일 휴무"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa（아삼 락사）"
+  reviewSummary: "조지타운에서 오랫동안 운영해 온 길거리 노점으로, 지금은 약 50년 된 조리법을 사용해 가족의 3대가 운영하고 있습니다. asam laksa는 타마린드와 정어리로 낸 국물(코코넛 밀크 없음)이 특징이며, MICHELIN 심사원은 단맛, 신맛, 매운맛의 균형을 이룬다고 평하고, 오이, 샬롯, 파인애플이 매운맛을 덜어 줍니다. 한 음식 블로그는 이 국물이 일부 버전보다 가볍고 달며, 두툼한 쌀국수는 매끄럽고 쫄깃하다고 전했습니다. 춘권과 쿠이(kuih) 같은 뇨냐 스타일 사이드 메뉴도 판매합니다. 현금만 받습니다. MICHELIN 빕 구르망에 선정되었습니다."
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

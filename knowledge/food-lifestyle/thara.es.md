@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara: marisco tailandés en George Town, Penang"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "Tom yum tailandés de mariscos — una sopa agripicante con langostinos y hierbas"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "Lun, mar, vie, sáb, dom 12:00-15:00 y 17:00-22:00; mié 17:00-22:00; jue cerrado"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Tom yum de mariscos (tom yum talay), miang kam (envueltos en hoja de betel), hor mok talay mapraw (curry de mariscos al vapor en coco tierno), langostinos de río a la parrilla, mango sticky rice"
+  reviewSummary: "Un restaurante tailandés con MICHELIN Bib Gourmand dos años seguidos (2024-2025), liderado por un chef con más de 15 años de experiencia, conocido por la cocina tailandesa casera y los mariscos frescos, en especial sus variaciones de tom yum de mariscos, servidos en un comedor de tonos verdes luminosos. Los críticos destacan las porciones generosas y los precios amables, aunque algunos señalan que la cocina ha sido irregular desde un cambio en la cocina."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

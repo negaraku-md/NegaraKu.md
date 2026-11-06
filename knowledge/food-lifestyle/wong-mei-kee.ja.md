@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee：Pudu のミシュラン掲載の siew yok 屋台"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "ご飯の上に盛られたchar siuと焼き豚バラ肉"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "正午頃（12:00〜12:30）に開店し、通常は午後3時頃までに売り切れます。営業時間は短く、平日の数日は休業するため、訪れる前に確認してください（正確な曜日・時間については情報源によって異なります）。"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk（焼き豚＝ローストポーク）。char siu（チャーシュー）やローストチキンもおすすめ"
+  reviewSummary: "Michelin Bib Gourmandを獲得した、Puduで長く続く屋台。パリッとした皮と柔らかい肉のsiew yuk（焼き豚）で名高い。1日に数時間しか営業せず、事前予約は受け付けず、しばしば売り切れるため、早めに来て並ぶことをおすすめします。"
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "正確な現行 MICHELIN 版——最新は MICHELIN Guide Kuala Lumpur & Penang 2026（2025年11月11日発表）です。Bib Gourmand の選出は毎年見直されるため、依拠する前に現行版で Wong Mei Kee の状態を再確認してください。"
   - "屋台の現在の営業日と時間——MICHELIN のページは特定の曜日の昼どきの数時間だけを挙げています。短時間営業の屋台は予定を頻繁に変えるため、訪問を計画する前に確認してください。"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa: บิบ กูร์มองด์ แห่งปีนัง"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "อาซัมลักซาปีนัง — เส้นก๋วยเตี๋ยวข้าวในน้ำซุปมะขามและปลารสเปรี้ยวจัดจ้าน พร้อมปลาทูและใบมินต์"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "อังคาร-อาทิตย์ 11:00-17:00; ปิดวันจันทร์"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa"
+  reviewSummary: "แผงขายอาหารริมทางในจอร์จทาวน์ที่เปิดมายาวนาน ปัจจุบันบริหารโดยคนรุ่นที่สามของครอบครัว โดยใช้สูตรที่มีอายุราว 50 ปี asam laksa ของที่นี่มีน้ำซุปมะขามและปลาซาร์ดีน (ไม่ใส่กะทิ) ที่ผู้ตรวจสอบของ MICHELIN ระบุว่าให้รสหวาน เปรี้ยว และเผ็ดอย่างสมดุล มีแตงกวา หอมแดง และสับปะรดช่วยตัดความเผ็ด บล็อกอาหารแห่งหนึ่งพบว่าน้ำซุปเบาและหวานกว่าบางสูตร เส้นก๋วยเตี๋ยวข้าวเส้นหนาเนียนและเหนียวนุ่ม นอกจากนี้ยังมีของทานเล่นสไตล์นอนยา เช่น ปอเปี๊ยะและขนม (kuih) จำหน่ายด้วย รับเงินสดเท่านั้น ได้รับรางวัล MICHELIN Bib Gourmand"
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

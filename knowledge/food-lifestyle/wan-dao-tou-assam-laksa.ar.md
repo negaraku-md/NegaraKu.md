@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa: بيب غورماند بينانغ"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "أسام لاكسا بينانغ — شعيرية أرز في مرق التمر الهندي والسمك الحامض المنعش مع سمك الماكريل والنعناع"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "الثلاثاء-الأحد 11:00-17:00؛ مغلق يوم الاثنين"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa"
+  reviewSummary: "كشك طعام شارع عريق في جورج تاون، يديره الآن الجيل الثالث من العائلة باستخدام وصفة يعود عمرها إلى نحو 50 عامًا. يتميز طبق الـ asam laksa بمرق التمر الهندي والسردين (دون حليب جوز الهند) الذي يشير مفتشو MICHELIN إلى أنه يوازن بين الحلاوة والحموضة والحرارة، مع الخيار والبصل الأحمر والأناناس التي تخفف من حدته؛ وجد أحد مدونات الطعام أن المرق أخف وأحلى من بعض النسخ الأخرى، مع شعيرية أرز سميكة ناعمة ومطاطية القوام. كما تُباع أطباق جانبية على الطراز النونيا مثل لفائف الربيع والكويه (kuih). الدفع نقدًا فقط؛ حائز على جائزة MICHELIN Bib Gourmand."
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

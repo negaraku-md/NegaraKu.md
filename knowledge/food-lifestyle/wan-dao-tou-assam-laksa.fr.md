@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa : Bib Gourmand de Penang"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "Asam laksa de Penang — nouilles de riz dans un bouillon acidulé de tamarin et de poisson, avec maquereau et menthe"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "Mar-Dim 11h00-17h00 ; fermé le lundi"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa"
+  reviewSummary: "Un étal de rue de longue date à George Town, aujourd'hui tenu par la troisième génération de la famille à partir d'une recette vieille d'une cinquantaine d'années. Son asam laksa présente un bouillon de tamarin et de sardine (sans lait de coco) dont les inspecteurs du guide MICHELIN relèvent qu'il équilibre le sucré, l'acide et le piquant, le concombre, l'échalote et l'ananas tempérant l'intensité ; un blog culinaire a trouvé le bouillon plus léger et plus doux que certaines versions, avec des nouilles de riz épaisses, lisses et moelleuses. Des accompagnements de style Nyonya, comme des rouleaux de printemps et des kuih, sont également proposés. Espèces uniquement ; récompensé d'un MICHELIN Bib Gourmand."
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

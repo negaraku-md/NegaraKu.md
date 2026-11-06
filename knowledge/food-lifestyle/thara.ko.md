@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara: 페낭 조지타운의 태국 해산물 요리"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "태국식 해산물 똠얌 — 새우와 허브를 넣은 매콤새콤한 수프"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "월·화·금·토·일 12:00-15:00 & 17:00-22:00; 수 17:00-22:00; 목 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "해산물 똠얌(tom yum talay), 미앙 깜(구장잎 쌈), 호 목 탈레 마프라우(어린 코코넛에 찐 해산물 커리), 민물새우 구이, 망고 찰밥"
+  reviewSummary: "15년 이상의 경력을 지닌 셰프가 이끄는, 2년 연속 MICHELIN 빕 구르망(2024-2025)에 선정된 태국 음식점. 가정식 태국 요리와 신선한 해산물, 특히 해산물 똠얌의 다양한 변형으로 유명하며, 밝은 녹색 톤의 다이닝룸에서 제공된다. 리뷰어들은 넉넉한 양과 합리적인 가격을 꼽지만, 주방이 바뀐 이후 음식 맛이 들쭉날쭉하다는 지적도 있다."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

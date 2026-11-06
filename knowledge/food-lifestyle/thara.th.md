@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara: อาหารทะเลไทยในจอร์จทาวน์ ปีนัง"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "ต้มยำทะเลแบบไทย — ซุปเปรี้ยวเผ็ดใส่กุ้งและสมุนไพร"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "จันทร์ อังคาร ศุกร์ เสาร์ อาทิตย์ 12:00-15:00 และ 17:00-22:00; พุธ 17:00-22:00; พฤหัสบดี ปิด"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "ต้มยำทะเล (tom yum talay), เมี่ยงคำ (เมี่ยงห่อใบชะพลู), ห่อหมกทะเลมะพร้าวอ่อน (hor mok talay mapraw), กุ้งแม่น้ำเผา, ข้าวเหนียวมะม่วง"
+  reviewSummary: "ร้านอาหารไทยที่ได้รางวัล MICHELIN Bib Gourmand สองปีซ้อน (2024-2025) นำโดยเชฟที่มีประสบการณ์กว่า 15 ปี ขึ้นชื่อเรื่องอาหารไทยสไตล์โฮมเมดและอาหารทะเลสด โดยเฉพาะต้มยำทะเลหลากหลายสูตร เสิร์ฟในห้องอาหารโทนสีเขียวสดใส นักรีวิวชื่นชมปริมาณที่จัดเต็มและราคาเป็นมิตร แม้บางคนจะระบุว่ารสชาติอาหารไม่สม่ำเสมอนับตั้งแต่มีการเปลี่ยนครัว"
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

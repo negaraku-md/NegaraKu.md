@@ -2,6 +2,11 @@
 topicId: MY-MICH-0065
 title: "Winn's Cafe: Bib Gourmand Peranakan Pulau Pinang"
 slug: "winns-cafe"
+hero: "/media/food/winns-cafe/hero.webp"
+heroAlt: "Otak-otak — kek ikan berempah yang dikukus"
+heroCredit: "Advocator SY / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-black-plate-topped-with-a-sandwich-and-lettuce-QZoNBvQm13Q"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -39,6 +44,17 @@ keywords:
   - "otak otak"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "38, Jalan Cantonment, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  priceRange: "$$"
+  hours: "Isnin-Sabtu 11:00-15:00 & 18:00-22:00; Ahad tutup"
+  service: ["dine-in"]
+  mustOrder: "Otak-otak (kek ikan santan dengan herba kebun), Asam tumis pari (kuah sembilan herba yang pekat), Nasi ulam, Kari/Curry Kapitan, Nyonya laksa"
+  reviewSummary: "Restoran Peranakan (Nyonya) yang dikendalikan oleh pasangan suami isteri di sebuah rumah berkembar dua tingkat di Pulau Tikus, dengan tingkat atas mempamerkan karya artis tempatan; MICHELIN Guide Malaysia menyenaraikannya sebagai cadangan Bib Gourmand (2024 dan 2025) atas menu klasik Nyonyanya. Hidangan istimewa yang disebut MICHELIN termasuk otak-otak yang lembut dan asam tumis pari; pelanggan turut memuji nasi ulam. Pengagregat pihak ketiga melaporkan penarafan Google kira-kira 4.4/5 daripada lebih kurang 1,000 ulasan (tidak disahkan terus dengan Google). Pandangan tentang nilai berbelah bahagi, dengan sesetengah mendapati harganya agak tinggi."
+  website: "https://winnscafenyonya.com"
+  phone: "+60 19-451 1631"
 sources:
   - title: "Winn's Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/winn-s-cafe"

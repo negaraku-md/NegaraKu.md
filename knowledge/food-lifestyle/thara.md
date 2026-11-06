@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara: Thai Seafood in George Town, Penang"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "Thai seafood tom yum — a spicy-sour soup with prawns and herbs"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -39,6 +44,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "Mon, Tue, Fri, Sat, Sun 12:00-15:00 & 17:00-22:00; Wed 17:00-22:00; Thu closed"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Seafood tom yum (tom yum talay), miang kam (betel-leaf wraps), hor mok talay mapraw (steamed seafood curry in young coconut), grilled river prawns, mango sticky rice"
+  reviewSummary: "A back-to-back MICHELIN Bib Gourmand (2024-2025) Thai restaurant led by a chef with 15+ years' experience, known for home-style Thai cooking and fresh seafood, especially its seafood tom yum variations, served in a bright green-toned dining room. Reviewers highlight generous portions and friendly prices, though some note the cooking has been uneven since a kitchen change."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: Pudu's Michelin-Listed Roast Pork Stall"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "Char siu and roast pork belly served over rice"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -46,6 +51,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "Opens around midday (noon-12:30 PM) and typically sells out by about 3 PM; limited hours and closed on several weekdays, so confirm before visiting (sources disagree on exact days/times)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "roast pork (siew yuk); char siu and roast chicken are also recommended"
+  reviewSummary: "A long-running Pudu stall holding a Michelin Bib Gourmand, celebrated for its siew yuk (roast pork) with crisp crackling skin and tender meat. It opens only a few hours a day, takes no pre-orders, and frequently sells out, so arriving early and queueing is advised."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "The exact current MICHELIN edition — the latest is the MICHELIN Guide Kuala Lumpur & Penang 2026 (announced 11 November 2025); the Bib Gourmand selection is revised annually, so re-confirm Wong Mei Kee's status against the current edition before relying on it."
   - "The stall's current opening days and hours — MICHELIN's page lists only a few lunchtime hours on selected days; confirm before planning a visit, as short-hours stalls change schedules often."

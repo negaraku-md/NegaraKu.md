@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: كشك siew yok مُدرَج في ميشلان بحي Pudu"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "char siu ولحم بطن الخنزير المشوي يُقدَّمان فوق الأرز"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "يفتح حوالي منتصف النهار (12:00-12:30 ظهرًا) وعادةً ما تنفد الكمية بحلول الساعة 3 عصرًا تقريبًا؛ ساعات العمل محدودة ومغلق في عدة أيام من أيام الأسبوع، لذا تأكد قبل الزيارة (تختلف المصادر حول الأيام/الأوقات الدقيقة)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (لحم الخنزير المشوي)؛ ويُنصح أيضًا بالـ char siu والدجاج المشوي"
+  reviewSummary: "كشك عريق في Pudu حائز على Michelin Bib Gourmand، اشتهر بطبق siew yuk (لحم الخنزير المشوي) بجلده المقرمش ولحمه الطري. يفتح بضع ساعات فقط يوميًا، ولا يقبل الطلبات المسبقة، وغالبًا ما تنفد الكمية، لذا يُنصح بالوصول مبكرًا والوقوف في الطابور."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "الإصدار الحالي الدقيق من MICHELIN — الأحدث هو MICHELIN Guide Kuala Lumpur & Penang 2026 (أُعلن في 11 November 2025)؛ تُراجَع اختيارات Bib Gourmand سنويًا، لذا أعد تأكيد حالة Wong Mei Kee مقابل الإصدار الحالي قبل الاعتماد عليها."
   - "أيام وساعات فتح الكشك حاليًا — تذكر صفحة MICHELIN بضع ساعات ظهيرة فقط في أيامٍ مختارة؛ تأكّد قبل التخطيط للزيارة، فأكشاك الساعات القصيرة تغيّر جداولها كثيرًا."

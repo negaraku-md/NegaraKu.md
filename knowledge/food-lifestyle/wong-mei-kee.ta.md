@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: Pudu-வில் மிச்சலின் பட்டியலிடப்பட்ட siew yok கடை"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "சாதத்தின் மேல் பரிமாறப்பட்ட char siu மற்றும் வறுத்த பன்றி வயிற்று இறைச்சி"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "நண்பகல் (12:00-12:30 PM) அளவில் திறக்கப்படும், வழக்கமாக சுமார் 3 PM-க்குள் விற்றுத் தீர்ந்துவிடும்; வேலை நேரம் குறைவு, சில வார நாட்களில் மூடப்பட்டிருக்கும், எனவே செல்வதற்கு முன் உறுதிப்படுத்திக் கொள்ளுங்கள் (சரியான நாட்கள்/நேரங்கள் குறித்து ஆதாரங்கள் முரண்படுகின்றன)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (வறுத்த பன்றி இறைச்சி); char siu மற்றும் வறுத்த கோழியும் பரிந்துரைக்கப்படுகின்றன"
+  reviewSummary: "Michelin Bib Gourmand பெற்ற, நீண்ட காலமாக இயங்கும் Pudu கடை, மொறுமொறுப்பான தோல் மற்றும் மென்மையான இறைச்சியுடன் கூடிய அதன் siew yuk (வறுத்த பன்றி இறைச்சி) காரணமாக பிரபலமானது. இது ஒரு நாளைக்கு சில மணி நேரமே திறந்திருக்கும், முன்பதிவு எடுக்காது, அடிக்கடி விற்றுத் தீர்ந்துவிடும், எனவே சீக்கிரம் வந்து வரிசையில் நிற்பது நல்லது."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "சரியான தற்போதைய MICHELIN பதிப்பு — சமீபத்தியது MICHELIN Guide Kuala Lumpur & Penang 2026 (2025 நவம்பர் 11 அன்று அறிவிக்கப்பட்டது); Bib Gourmand தேர்வு ஆண்டுதோறும் திருத்தப்படுகிறது, எனவே நம்பியிருப்பதற்கு முன் தற்போதைய பதிப்பை வைத்து Wong Mei Kee-இன் நிலையை மீண்டும் உறுதிப்படுத்துங்கள்."
   - "கடையின் தற்போதைய திறக்கும் நாட்களும் நேரங்களும் — MICHELIN பக்கம் தேர்ந்தெடுக்கப்பட்ட நாட்களில் சில மதிய உணவு நேரங்களை மட்டுமே பட்டியலிடுகிறது; குறுகிய நேரக் கடைகள் அடிக்கடி அட்டவணைகளை மாற்றுவதால், வருகையைத் திட்டமிடுவதற்கு முன் உறுதிப்படுத்துங்கள்."

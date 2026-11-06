@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee：Pudu 一个入选米其林的烧肉摊"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "叉烧和烧五花肉盖在饭上"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "大约中午开档（12:00-12:30），通常在下午3点左右就卖完；营业时间有限，且每周有数天休息，因此到访前请先确认（不同来源对具体日期和时间说法不一）。"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "烧肉（siew yuk）；叉烧（char siu）和烧鸡也值得推荐"
+  reviewSummary: "一家经营多年的Pudu摊档，荣获米其林（Michelin）必比登推介（Bib Gourmand），以皮脆肉嫩的烧肉（siew yuk）闻名。每天只营业数小时，不接受预订，且常常售罄，因此建议早到排队。"
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "确切的 MICHELIN 当前版本——最新的是 MICHELIN Guide Kuala Lumpur & Penang 2026（于2025年11月11日公布）；Bib Gourmand 精选每年修订，因此在依据之前，请对照当前版本重新确认 Wong Mei Kee 的状态。"
   - "摊位目前的营业日与时间——MICHELIN 页面只列出在特定日子的几个午餐时段；请在计划造访前确认，因为短营业时间的摊位常更改时间表。"

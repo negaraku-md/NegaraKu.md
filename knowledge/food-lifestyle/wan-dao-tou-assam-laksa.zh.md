@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa：槟城 Bib Gourmand"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "槟城 asam laksa——粗米粉浸在酸香的罗望子鱼汤中，配以鲭鱼和薄荷"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "周二至周日 11:00-17:00；周一休息"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa（亚参叻沙）"
+  reviewSummary: "乔治市一家经营多年的街头摊档，如今由家族第三代掌舵，沿用约有 50 年历史的食谱。其 asam laksa 采用罗望子（亚参）和沙丁鱼熬制的汤底（不含椰浆），MICHELIN 评审员指出它在甜、酸、辣之间取得平衡，配以黄瓜、红葱和菠萝化解辣味；一家美食博客发现其汤底比某些版本更清淡、更甜，粗米粉口感顺滑又有嚼劲。还售卖娘惹风味的小食，如春卷和糕点（kuih）。仅收现金；荣获 MICHELIN 必比登推介（Bib Gourmand）。"
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

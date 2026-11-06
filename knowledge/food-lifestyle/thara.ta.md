@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara: ஜார்ஜ் டவுன், பினாங்கில் தாய் கடல் உணவு"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "தாய் கடல் உணவு டோம் யம் — இறால் மற்றும் மூலிகைகளுடன் கூடிய காரமான-புளிப்பு சூப்"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "திங்கள், செவ்வாய், வெள்ளி, சனி, ஞாயிறு 12:00-15:00 & 17:00-22:00; புதன் 17:00-22:00; வியாழன் மூடப்படும்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "கடல் உணவு டோம் யம் (tom yum talay), மியாங் கம் (வெற்றிலை சுருள்கள்), ஹோர் மோக் தலாய் மப்ரௌ (இளநீர் தேங்காயில் அவித்த கடல் உணவு கறி), வறுத்த ஆற்று இறால், மாம்பழ பசையரிசி"
+  reviewSummary: "15 ஆண்டுகளுக்கும் மேலான அனுபவம் கொண்ட சமையலர் தலைமையிலான, தொடர்ந்து இரண்டு ஆண்டுகள் MICHELIN Bib Gourmand (2024-2025) விருது பெற்ற தாய் உணவகம்; வீட்டு முறை தாய் சமையல் மற்றும் புதிய கடல் உணவுக்காக, குறிப்பாக அதன் கடல் உணவு டோம் யம் வகைகளுக்காக அறியப்படுகிறது, பிரகாசமான பச்சை நிற உணவு அறையில் பரிமாறப்படுகிறது. தாராளமான பகுதிகள் மற்றும் நட்பான விலைகளை விமர்சகர்கள் சிறப்பித்துக் காட்டுகின்றனர், இருப்பினும் சமையல்கூடம் மாறியதிலிருந்து சமையல் சீரற்றதாக இருப்பதாக சிலர் குறிப்பிடுகின்றனர்."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

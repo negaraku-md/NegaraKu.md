@@ -2,6 +2,11 @@
 topicId: MY-MICH-0065
 title: "Winn's Cafe：ペナンのプラナカン・ビブグルマン"
 slug: "winns-cafe"
+hero: "/media/food/winns-cafe/hero.webp"
+heroAlt: "otak-otak — 蒸したスパイス風味の魚のすり身ケーキ"
+heroCredit: "Advocator SY / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-black-plate-topped-with-a-sandwich-and-lettuce-QZoNBvQm13Q"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -39,6 +44,17 @@ keywords:
   - "otak otak"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "38, Jalan Cantonment, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  priceRange: "$$"
+  hours: "月～土 11:00-15:00 & 18:00-22:00；日曜休み"
+  service: ["dine-in"]
+  mustOrder: "otak-otak（自家菜園のハーブ入りココナッツミルク魚のすり身ケーキ）、asam tumis エイ（濃厚な九種ハーブソース）、nasi ulam、Kari/Curry Kapitan、Nyonya laksa"
+  reviewSummary: "Pulau Tikus にある一戸建て2階建ての家で夫婦が営む Peranakan（Nyonya）料理店で、上階には地元アーティストの作品が展示されています。MICHELIN Guide Malaysia は、その Nyonya の定番メニューに対し Bib Gourmand 推薦店（2024年・2025年）として掲載しています。MICHELIN が挙げる名物には、なめらかな otak-otak と asam tumis エイがあり、来店客は nasi ulam も高く評価しています。サードパーティの集計サイトでは約1,000件のレビューから約4.4/5の Google 評価が報告されています（Google で直接検証はされていません）。価格に対する評価は分かれており、やや高めだと感じる人もいます。"
+  website: "https://winnscafenyonya.com"
+  phone: "+60 19-451 1631"
 sources:
   - title: "Winn's Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/winn-s-cafe"

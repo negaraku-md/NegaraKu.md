@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: Pudu में मिशेलिन-सूचीबद्ध siew yok स्टॉल"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "चावल पर परोसे गए char siu और रोस्ट पोर्क बेली"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "दोपहर के आसपास (12:00-12:30 बजे) खुलती है और आमतौर पर लगभग 3 बजे तक बिक जाती है; सीमित समय के लिए खुलती है और सप्ताह के कई दिनों में बंद रहती है, इसलिए जाने से पहले पुष्टि कर लें (सटीक दिनों/समय को लेकर स्रोतों में मतभेद है)।"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (रोस्ट पोर्क); char siu और रोस्ट चिकन भी अनुशंसित हैं"
+  reviewSummary: "Pudu में लंबे समय से चल रहा एक स्टॉल, जिसे Michelin Bib Gourmand प्राप्त है, अपने siew yuk (रोस्ट पोर्क) के लिए प्रसिद्ध है जिसकी ऊपरी परत कुरकुरी और मांस नरम होता है। यह दिन में केवल कुछ ही घंटे खुलता है, पहले से ऑर्डर नहीं लेता, और अक्सर बिक जाता है, इसलिए जल्दी पहुँचकर कतार में लगने की सलाह दी जाती है।"
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "सटीक वर्तमान MICHELIN संस्करण — नवीनतम MICHELIN Guide Kuala Lumpur & Penang 2026 है (11 November 2025 को घोषित); Bib Gourmand चयन हर वर्ष संशोधित होता है, इसलिए इस पर निर्भर होने से पहले वर्तमान संस्करण के विरुद्ध Wong Mei Kee की स्थिति दोबारा पुष्टि करें।"
   - "स्टॉल के वर्तमान खुलने के दिन और समय — MICHELIN पृष्ठ चुनिंदा दिनों में केवल कुछ दोपहर के घंटे सूचीबद्ध करता है; यात्रा की योजना बनाने से पहले पुष्टि करें, क्योंकि कम-समय वाले स्टॉल अक्सर समय-सारणी बदलते हैं।"

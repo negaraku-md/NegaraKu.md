@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa：ペナンのビブグルマン"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "ペナンの asam laksa — 酸味のあるタマリンドと魚のスープに米麺、サバとミントを添えて"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "火～日 11:00-17:00、月曜定休"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa（アッサム・ラクサ）"
+  reviewSummary: "ジョージタウンで長く続く屋台で、現在は約50年前のレシピを使い一家の三代目が営んでいます。asam laksa はタマリンドとイワシのスープ（ココナッツミルクなし）が特徴で、MICHELIN の調査員は甘み・酸味・辛みのバランスが取れていると評し、キュウリ、エシャロット、パイナップルが辛さを和らげます。ある料理ブログは、このスープが一部の店より軽やかで甘めだと感じ、太めの米麺はなめらかでコシがあると評しています。春巻きやクエ（kuih）などニョニャ風のサイドメニューも販売。現金のみ。MICHELIN ビブグルマンを受賞。"
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

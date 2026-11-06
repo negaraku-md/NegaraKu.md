@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa: पेनांग बिब गुरमों"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "पिनांग asam laksa — खट्टे इमली और मछली के शोरबे में चावल के नूडल्स, मैकेरल और पुदीने के साथ"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "मंगल-रविवार 11:00-17:00; सोमवार बंद"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa"
+  reviewSummary: "जॉर्ज टाउन का एक पुराना स्ट्रीट स्टॉल, जिसे अब परिवार की तीसरी पीढ़ी लगभग 50 साल पुरानी रेसिपी के साथ चला रही है। इसके asam laksa में इमली और सार्डिन मछली का शोरबा (बिना नारियल के दूध के) होता है, जिसके बारे में MICHELIN निरीक्षकों का कहना है कि यह मीठे, खट्टे और तीखे स्वाद में संतुलन बनाता है, और खीरा, छोटा प्याज़ तथा अनानास तीखापन कम करते हैं; एक फ़ूड ब्लॉग ने पाया कि इसका शोरबा कुछ अन्य संस्करणों की तुलना में हल्का और अधिक मीठा है, और मोटे चावल के नूडल्स चिकने तथा चबाने में लचीले हैं। स्प्रिंग रोल और कुइह (kuih) जैसे न्योन्या-शैली के साइड आइटम भी बेचे जाते हैं। केवल नकद; MICHELIN Bib Gourmand से सम्मानित।"
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

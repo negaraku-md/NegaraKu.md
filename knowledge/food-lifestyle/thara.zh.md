@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara：槟城乔治市的泰国海鲜料理"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "泰式海鲜冬阴功——配有鲜虾和香草的酸辣汤"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "周一、周二、周五、周六、周日 12:00-15:00 及 17:00-22:00；周三 17:00-22:00；周四休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "海鲜冬阴功（tom yum talay）、蒌叶包（miang kam）、嫩椰青蒸海鲜咖喱（hor mok talay mapraw）、烤河虾、芒果糯米饭"
+  reviewSummary: "连续两年荣获 MICHELIN 必比登推介（2024-2025）的泰国餐厅，由拥有超过15年经验的主厨掌勺，以家常泰式料理和新鲜海鲜著称，尤其是各式海鲜冬阴功，在明亮的绿色调餐室中供应。食客称赞分量十足、价格亲民，但也有人指出自更换厨房后出品不太稳定。"
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

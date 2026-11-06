@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara: Hải sản Thái ở George Town, Penang"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "Tom yum hải sản Thái — món súp chua cay với tôm và các loại thảo mộc"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "Thứ Hai, Thứ Ba, Thứ Sáu, Thứ Bảy, Chủ Nhật 12:00-15:00 & 17:00-22:00; Thứ Tư 17:00-22:00; Thứ Năm đóng cửa"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Tom yum hải sản (tom yum talay), miang kam (cuốn lá trầu), hor mok talay mapraw (cà ri hải sản hấp trong dừa non), tôm sông nướng, xôi xoài"
+  reviewSummary: "Một nhà hàng Thái đạt MICHELIN Bib Gourmand hai năm liên tiếp (2024-2025), do một đầu bếp hơn 15 năm kinh nghiệm dẫn dắt, nổi tiếng với món Thái kiểu nhà làm và hải sản tươi, đặc biệt là các biến tấu tom yum hải sản, phục vụ trong không gian tông xanh tươi sáng. Giới phê bình đánh giá cao khẩu phần hào phóng và giá cả dễ chịu, dù một số người lưu ý chất lượng nấu nướng không đều kể từ khi thay đổi bếp."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

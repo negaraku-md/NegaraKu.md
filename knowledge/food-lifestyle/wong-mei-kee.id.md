@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: Gerai Siew Yok Terdaftar Michelin di Pudu"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "Char siu dan perut babi panggang disajikan di atas nasi"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "Buka sekitar tengah hari (12:00-12:30) dan biasanya habis terjual sekitar pukul 3 sore; jam buka terbatas dan tutup pada beberapa hari kerja, jadi konfirmasikan sebelum berkunjung (sumber berbeda pendapat soal hari/waktu pastinya)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (babi panggang); char siu dan ayam panggang juga direkomendasikan"
+  reviewSummary: "Kedai kaki lima lama di Pudu yang meraih Michelin Bib Gourmand, terkenal dengan siew yuk (babi panggang) berkulit renyah dan daging yang empuk. Kedai ini hanya buka beberapa jam sehari, tidak menerima pesanan di muka, dan sering habis terjual, jadi disarankan datang lebih awal dan mengantre."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "Edisi MICHELIN terkini yang tepat — yang terbaru adalah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan 11 November 2025); seleksi Bib Gourmand ditinjau setiap tahun, jadi konfirmasikan kembali status Wong Mei Kee terhadap edisi terkini sebelum mengandalkannya."
   - "Hari dan jam buka gerai saat ini — halaman MICHELIN hanya mencantumkan beberapa jam siang pada hari-hari tertentu; konfirmasikan sebelum merencanakan kunjungan, karena gerai berjam pendek sering mengubah jadwal."

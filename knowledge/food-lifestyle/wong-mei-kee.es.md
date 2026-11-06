@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: el puesto de siew yok de Pudu listado en Michelin"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "Char siu y panceta de cerdo asada servidos sobre arroz"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "Abre alrededor del mediodía (12:00-12:30) y suele agotarse hacia las 3 de la tarde; tiene un horario limitado y cierra varios días entre semana, así que confirma antes de ir (las fuentes no coinciden en los días/horas exactos)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (cerdo asado); también se recomiendan el char siu y el pollo asado"
+  reviewSummary: "Un puesto veterano de Pudu que posee un Michelin Bib Gourmand, célebre por su siew yuk (cerdo asado) de piel crujiente y carne tierna. Abre solo unas pocas horas al día, no acepta pedidos por adelantado y suele agotarse, por lo que se recomienda llegar temprano y hacer cola."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "La edición MICHELIN vigente exacta: la más reciente es la MICHELIN Guide Kuala Lumpur & Penang 2026 (anunciada el 11 November 2025); la selección Bib Gourmand se revisa cada año, así que vuelve a confirmar el estatus de Wong Mei Kee con la edición vigente antes de fiarte de ello."
   - "Los días y el horario de apertura actuales del puesto: la página de MICHELIN solo indica unas pocas horas de mediodía en días seleccionados; confírmalo antes de planear una visita, ya que los puestos de horario corto cambian de calendario a menudo."

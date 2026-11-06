@@ -2,6 +2,11 @@
 topicId: MY-MICH-0061
 title: "Wan Dao Tou Assam Laksa: Bib Gourmand Pulau Pinang"
 slug: "wan-dao-tou-assam-laksa"
+hero: "/media/food/wan-dao-tou-assam-laksa/hero.webp"
+heroAlt: "Asam laksa Pulau Pinang — mi beras dalam sup asam jawa dan ikan yang masam segar dengan ikan kembung dan pudina"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa_(2).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "Penang food"
 updated: 2026-11-06
+place:
+  nativeName: "湾岛头叻沙"
+  address: "1, Jalan Gottlieb, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Wan+Dao+Tou+Assam+Laksa+Jalan+Gottlieb+George+Town+Penang"
+  priceRange: "RM6.50–RM7.50 per bowl"
+  hours: "Sel-Ahad 11:00-17:00; tutup Isnin"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "asam laksa"
+  reviewSummary: "Sebuah gerai jalanan George Town yang sudah lama beroperasi, kini dikendalikan oleh generasi ketiga keluarga menggunakan resipi berusia kira-kira 50 tahun. Asam laksanya mempunyai sup asam jawa dan ikan sardin (tanpa santan) yang menurut pemeriksa MICHELIN mengimbangi rasa manis, masam dan pedas, dengan timun, bawang merah dan nanas yang meredakan kepedasan; satu blog makanan mendapati supnya lebih ringan dan lebih manis daripada sesetengah versi, dengan mi beras tebal yang licin dan kenyal. Hidangan sampingan gaya Nyonya seperti popia dan kuih turut dijual. Tunai sahaja; dianugerahkan MICHELIN Bib Gourmand."
+  phone: "+60 16-480 6558"
 sources:
   - title: "Wan Dao Tou Assam Laksa"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/wan-dao-tou-assam-laksa"

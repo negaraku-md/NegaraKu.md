@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara: Makanan Laut Thai di George Town, Pulau Pinang"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "Tom yum makanan laut Thai — sup pedas masam dengan udang dan rempah ratus"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "Isnin, Selasa, Jumaat, Sabtu, Ahad 12:00-15:00 & 17:00-22:00; Rabu 17:00-22:00; Khamis tutup"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Tom yum makanan laut (tom yum talay), miang kam (ulam daun sirih), hor mok talay mapraw (kari makanan laut kukus dalam kelapa muda), udang galah bakar, pulut mangga"
+  reviewSummary: "Restoran Thai penerima MICHELIN Bib Gourmand dua tahun berturut-turut (2024-2025) yang diterajui cef berpengalaman lebih 15 tahun, terkenal dengan masakan Thai gaya rumah dan makanan laut segar, terutamanya variasi tom yum makanan lautnya, dihidangkan dalam ruang makan bernada hijau cerah. Pengulas memuji hidangan yang berpada dan harga berpatutan, walaupun ada yang mencatatkan masakannya tidak konsisten sejak pertukaran dapur."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

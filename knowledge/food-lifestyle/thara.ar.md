@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "‏Thara: مأكولات بحرية تايلاندية في جورج تاون، بينانغ"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "توم يوم تايلاندي بالمأكولات البحرية — حساء حار وحامض بالروبيان والأعشاب"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "الاثنين والثلاثاء والجمعة والسبت والأحد 12:00-15:00 و17:00-22:00؛ الأربعاء 17:00-22:00؛ الخميس مغلق"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "توم يوم بالمأكولات البحرية (tom yum talay)، ميانغ كام (لفائف أوراق التنبول)، هور موك تالاي مابراو (كاري مأكولات بحرية على البخار داخل جوز هند صغيرة)، روبيان نهري مشوي، أرز لزج بالمانجو"
+  reviewSummary: "مطعم تايلاندي حائز على تصنيف MICHELIN Bib Gourmand لعامين متتاليين (2024-2025)، يقوده طاهٍ بخبرة تزيد عن 15 عامًا، ويشتهر بالمطبخ التايلاندي المنزلي والمأكولات البحرية الطازجة، لا سيما تنويعات توم يوم بالمأكولات البحرية، ويُقدَّم في صالة طعام بدرجات خضراء زاهية. يشيد النقاد بالحصص السخية والأسعار الودودة، وإن أشار بعضهم إلى أن الطهي أصبح متفاوتًا منذ تغيير المطبخ."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

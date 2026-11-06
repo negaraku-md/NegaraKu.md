@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: Gerai Siew Yok Tersenarai Michelin di Pudu"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "Char siu dan daging perut babi panggang dihidang atas nasi"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "Dibuka sekitar tengah hari (12:00-12:30 PM) dan biasanya habis dijual menjelang kira-kira 3 PM; waktu operasi terhad dan tutup pada beberapa hari bekerja, jadi sahkan sebelum berkunjung (sumber tidak sependapat tentang hari/masa tepat)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (daging babi panggang); char siu dan ayam panggang juga disyorkan"
+  reviewSummary: "Gerai lama di Pudu yang memegang Michelin Bib Gourmand, terkenal dengan siew yuk (daging babi panggang) berkulit rangup dan isi yang lembut. Ia dibuka hanya beberapa jam sehari, tidak menerima tempahan awal, dan sering habis dijual, jadi digalakkan datang awal dan beratur."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "Edisi MICHELIN semasa yang tepat — yang terkini ialah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan pada 11 November 2025); pilihan Bib Gourmand disemak setiap tahun, jadi sahkan semula status Wong Mei Kee berdasarkan edisi semasa sebelum bergantung padanya."
   - "Hari dan waktu buka gerai pada masa ini — halaman MICHELIN menyenaraikan hanya beberapa jam waktu tengah hari pada hari-hari terpilih; sahkan sebelum merancang lawatan, kerana gerai berwaktu singkat kerap menukar jadual."

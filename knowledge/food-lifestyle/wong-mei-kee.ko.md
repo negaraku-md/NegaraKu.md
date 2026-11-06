@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: Pudu의 미쉐린 등재 siew yok 노점"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "밥 위에 올린 char siu와 로스트 삼겹살"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "정오 무렵(12:00~12:30)에 문을 열며 보통 오후 3시쯤이면 매진됩니다. 영업 시간이 짧고 평일 중 며칠은 휴무이므로 방문 전에 확인하세요(정확한 요일/시간은 자료마다 다릅니다)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk(로스트 포크); char siu와 로스트 치킨도 추천"
+  reviewSummary: "Michelin Bib Gourmand를 보유한 Pudu의 오래된 노점으로, 바삭한 껍질과 부드러운 고기의 siew yuk(로스트 포크)로 유명합니다. 하루에 몇 시간만 영업하고 예약을 받지 않으며 자주 매진되므로, 일찍 도착해 줄을 서는 것이 좋습니다."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "정확한 현행 MICHELIN 판 — 최신판은 MICHELIN Guide Kuala Lumpur & Penang 2026(2025년 11월 11일 발표)입니다. Bib Gourmand 선정은 매년 개정되므로, 의존하기 전에 현행판으로 Wong Mei Kee의 상태를 다시 확인하세요."
   - "노점의 현재 영업일과 시간 — MICHELIN 페이지는 특정 요일의 점심 몇 시간만 나열합니다. 짧은 영업시간 노점은 일정을 자주 바꾸므로, 방문을 계획하기 전에 확인하세요."

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0065
 title: "Winn's Cafe: பினாங்கு Peranakan Bib Gourmand"
 slug: "winns-cafe"
+hero: "/media/food/winns-cafe/hero.webp"
+heroAlt: "Otak-otak — ஒரு வேகவைக்கப்பட்ட மசாலா மீன் கேக்"
+heroCredit: "Advocator SY / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-black-plate-topped-with-a-sandwich-and-lettuce-QZoNBvQm13Q"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -39,6 +44,17 @@ keywords:
   - "otak otak"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "38, Jalan Cantonment, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  priceRange: "$$"
+  hours: "திங்கள்-சனி 11:00-15:00 & 18:00-22:00; ஞாயிறு மூடப்பட்டிருக்கும்"
+  service: ["dine-in"]
+  mustOrder: "Otak-otak (தோட்ட மூலிகைகளுடன் தேங்காய்ப்பால் மீன் கேக்), Asam tumis திருக்கை மீன் (அடர்த்தியான ஒன்பது மூலிகை சாஸ்), Nasi ulam, Kari/Curry Kapitan, Nyonya laksa"
+  reviewSummary: "Pulau Tikus-இல் உள்ள ஒரு தனித்த இரண்டு மாடி வீட்டில் கணவன்-மனைவி குழு நடத்தும் Peranakan (Nyonya) உணவகம்; மேல் தளத்தில் உள்ளூர் கலைஞர்களின் படைப்புகள் காட்சிப்படுத்தப்படுகின்றன; MICHELIN Guide Malaysia அதன் Nyonya பாரம்பரிய உணவுப் பட்டியலுக்காக இதை Bib Gourmand பரிந்துரையாக (2024 மற்றும் 2025) பட்டியலிடுகிறது. MICHELIN குறிப்பிடும் சிறப்பு உணவுகளில் மென்மையான otak-otak மற்றும் asam tumis திருக்கை மீன் அடங்கும்; உணவு அருந்துபவர்கள் nasi ulam-ஐயும் பாராட்டுகின்றனர். மூன்றாம் தரப்பு தொகுப்பாளர்கள் சுமார் 1,000 மதிப்புரைகளிலிருந்து தோராயமாக 4.4/5 Google மதிப்பீட்டைப் புகாரளிக்கின்றனர் (Google-உடன் நேரடியாக சரிபார்க்கப்படவில்லை). விலை தொடர்பான கருத்துகள் வேறுபடுகின்றன, சிலர் விலைகள் சற்று அதிகம் என்று கருதுகின்றனர்."
+  website: "https://winnscafenyonya.com"
+  phone: "+60 19-451 1631"
 sources:
   - title: "Winn's Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/winn-s-cafe"

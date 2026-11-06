@@ -2,6 +2,11 @@
 topicId: MY-MICH-0065
 title: "Winn's Cafe: पेनांग पेरानाकन बिब गुरमों"
 slug: "winns-cafe"
+hero: "/media/food/winns-cafe/hero.webp"
+heroAlt: "Otak-otak — एक भाप में पका मसालेदार फिश केक"
+heroCredit: "Advocator SY / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-black-plate-topped-with-a-sandwich-and-lettuce-QZoNBvQm13Q"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -39,6 +44,17 @@ keywords:
   - "otak otak"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "38, Jalan Cantonment, 10350 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Winn%27s%20Cafe%2038%20Jalan%20Cantonment%20George%20Town%20Penang"
+  priceRange: "$$"
+  hours: "सोम-शनि 11:00-15:00 और 18:00-22:00; रविवार बंद"
+  service: ["dine-in"]
+  mustOrder: "Otak-otak (बगीचे की जड़ी-बूटियों के साथ नारियल-दूध वाला फिश केक), Asam tumis स्टिंगरे (नौ जड़ी-बूटियों की गाढ़ी चटनी), Nasi ulam, Kari/Curry Kapitan, Nyonya laksa"
+  reviewSummary: "Pulau Tikus में एक अलग दो-मंजिला घर में एक पति-पत्नी की टीम द्वारा चलाया जाने वाला एक Peranakan (Nyonya) रेस्तरां, जिसकी ऊपरी मंजिल पर स्थानीय कलाकारों की कृतियाँ प्रदर्शित हैं; MICHELIN Guide Malaysia इसे इसके Nyonya क्लासिक व्यंजनों के मेन्यू के लिए Bib Gourmand अनुशंसा (2024 और 2025) के रूप में सूचीबद्ध करता है। MICHELIN द्वारा उल्लिखित सिग्नेचर व्यंजनों में रेशमी otak-otak और asam tumis स्टिंगरे शामिल हैं; भोजन करने वाले nasi ulam की भी प्रशंसा करते हैं। तीसरे पक्ष के एग्रीगेटर लगभग 1,000 समीक्षाओं से लगभग 4.4/5 की Google रेटिंग की रिपोर्ट करते हैं (Google पर सीधे सत्यापित नहीं)। मूल्य को लेकर राय मिली-जुली है, कुछ लोगों को कीमतें थोड़ी अधिक लगती हैं।"
+  website: "https://winnscafenyonya.com"
+  phone: "+60 19-451 1631"
 sources:
   - title: "Winn's Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/winn-s-cafe"

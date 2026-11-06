@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: Quầy siew yok được Michelin liệt kê ở Pudu"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "Char siu và thịt ba chỉ heo quay dọn trên cơm"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "Mở cửa khoảng giữa trưa (12:00-12:30) và thường bán hết vào khoảng 3 giờ chiều; giờ mở cửa hạn chế và đóng cửa vào một số ngày trong tuần, vì vậy hãy xác nhận trước khi đến (các nguồn không thống nhất về ngày/giờ chính xác)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (thịt heo quay); char siu và gà quay cũng được khuyên dùng"
+  reviewSummary: "Một quầy hàng lâu đời ở Pudu đạt Michelin Bib Gourmand, nổi tiếng với món siew yuk (thịt heo quay) có lớp da giòn rụm và thịt mềm. Quán chỉ mở vài giờ mỗi ngày, không nhận đặt trước và thường bán hết, nên bạn nên đến sớm và xếp hàng."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "Ấn bản MICHELIN hiện hành chính xác — ấn bản mới nhất là MICHELIN Guide Kuala Lumpur & Penang 2026 (công bố ngày 11 November 2025); tuyển chọn Bib Gourmand được rà soát hằng năm, vì vậy hãy xác nhận lại tình trạng của Wong Mei Kee với ấn bản hiện hành trước khi dựa vào nó."
   - "Ngày và giờ mở cửa hiện tại của quầy — trang MICHELIN chỉ liệt kê vài giờ buổi trưa vào những ngày nhất định; hãy xác nhận trước khi lên kế hoạch ghé thăm, vì các quầy giờ mở ngắn thường đổi lịch."

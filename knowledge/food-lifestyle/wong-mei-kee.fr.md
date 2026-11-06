@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee : l'étal de siew yok de Pudu référencé au Michelin"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "Char siu et poitrine de porc rôtie servis sur du riz"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "Ouvre vers midi (12h00-12h30) et affiche généralement complet vers 15h ; les horaires sont limités et l'établissement est fermé plusieurs jours en semaine, alors vérifiez avant de vous y rendre (les sources divergent sur les jours/horaires exacts)."
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (porc rôti) ; le char siu et le poulet rôti sont également recommandés"
+  reviewSummary: "Un étal de longue date de Pudu titulaire d'un Michelin Bib Gourmand, réputé pour son siew yuk (porc rôti) à la couenne croustillante et à la chair tendre. Il n'ouvre que quelques heures par jour, ne prend pas de précommandes et affiche souvent complet ; il est donc conseillé d'arriver tôt et de faire la queue."
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "L'édition MICHELIN en vigueur exacte — la plus récente est le MICHELIN Guide Kuala Lumpur & Penang 2026 (annoncé le 11 November 2025) ; la sélection Bib Gourmand est révisée chaque année, aussi reconfirmez le statut de Wong Mei Kee par rapport à l'édition en vigueur avant de vous y fier."
   - "Les jours et les horaires d'ouverture actuels de l'étal — la page MICHELIN n'indique que quelques heures le midi certains jours ; confirmez avant de planifier une visite, car les étals à horaires courts changent souvent de calendrier."

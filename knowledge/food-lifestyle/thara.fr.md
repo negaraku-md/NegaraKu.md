@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0056"
 title: "Thara : fruits de mer thaïlandais à George Town, Penang"
 slug: "thara"
+hero: "/media/food/thara/hero.webp"
+heroAlt: "Tom yum thaïlandais aux fruits de mer — une soupe aigre-piquante aux gambas et aux herbes"
+heroCredit: "Jamie Trinh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/spicy-shrimp-soup-with-herbs-and-vegetables-_lgT5W2QBG4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -40,6 +45,18 @@ keywords:
   - "Penang Thai food"
 
 updated: 2026-11-06
+place:
+  address: "5 Lorong Prangin, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Thara+Thai+5+Lorong+Prangin+George+Town+Penang"
+  priceRange: "$$"
+  hours: "Lun, mar, ven, sam, dim 12h00-15h00 & 17h00-22h00 ; mer 17h00-22h00 ; jeu fermé"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Tom yum aux fruits de mer (tom yum talay), miang kam (bouchées en feuille de bétel), hor mok talay mapraw (curry de fruits de mer cuit à la vapeur dans une jeune noix de coco), gambas de rivière grillées, mango sticky rice"
+  reviewSummary: "Un restaurant thaïlandais MICHELIN Bib Gourmand deux années de suite (2024-2025), mené par un chef fort de plus de 15 ans d'expérience, réputé pour sa cuisine thaïlandaise familiale et ses fruits de mer frais, en particulier ses variations de tom yum aux fruits de mer, servis dans une salle aux tons vert vif. Les critiques saluent les portions généreuses et les prix doux, même si certains notent que la cuisine est inégale depuis un changement en cuisine."
+  facebook: "https://www.facebook.com/THARAPENANG"
+  phone: "+60 14-990 1400"
 sources:
   - title: "Thara"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/thara"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0024
 title: "Wong Mei Kee: แผง siew yok ใน Pudu ที่ติดรายชื่อมิชลิน"
 slug: "wong-mei-kee"
+hero: "/media/food/wong-mei-kee/hero.webp"
+heroAlt: "char siu และหมูสามชั้นย่างเสิร์ฟบนข้าว"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Char_Siu_Rice,_Singapore_September_2017.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -47,6 +52,17 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-05-02"
 updated: 2026-11-06
+place:
+  address: "30, Jalan Nyonya, off Jalan Pudu, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wong+Mei+Kee+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.burpple.com/wong-mei-kee-restaurant"
+  priceRange: "Budget (Michelin lowest price tier)"
+  hours: "เปิดราวเที่ยงวัน (12:00-12:30 น.) และมักขายหมดภายในประมาณบ่าย 3 โมง เวลาเปิดจำกัดและปิดในบางวันธรรมดา จึงควรตรวจสอบก่อนไป (ข้อมูลจากแหล่งต่าง ๆ ไม่ตรงกันเรื่องวันและเวลาที่แน่นอน)"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "siew yuk (หมูย่าง); แนะนำ char siu และไก่ย่างด้วย"
+  reviewSummary: "ร้านแผงลอยเก่าแก่ใน Pudu ที่ได้รับ Michelin Bib Gourmand ขึ้นชื่อเรื่อง siew yuk (หมูย่าง) ที่หนังกรอบและเนื้อนุ่ม เปิดเพียงไม่กี่ชั่วโมงต่อวัน ไม่รับสั่งจองล่วงหน้า และมักขายหมด จึงแนะนำให้มาแต่เช้าและต่อคิว"
+  phone: "+60 3-2145 2512"
 verificationNeeded:
   - "ฉบับ MICHELIN ปัจจุบันที่แน่นอน — ฉบับล่าสุดคือ MICHELIN Guide Kuala Lumpur & Penang 2026 (ประกาศเมื่อ 11 November 2025) การคัดเลือก Bib Gourmand มีการปรับปรุงทุกปี จึงควรยืนยันสถานะของ Wong Mei Kee กับฉบับปัจจุบันก่อนเชื่อถือ"
   - "วันและเวลาเปิดของแผงในปัจจุบัน — หน้าเพจ MICHELIN ระบุเพียงไม่กี่ชั่วโมงช่วงกลางวันในบางวันที่เลือก ควรยืนยันก่อนวางแผนไปเยือน เพราะแผงที่เปิดสั้น ๆ มักเปลี่ยนตารางบ่อย"
