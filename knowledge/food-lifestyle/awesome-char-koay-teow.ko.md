@@ -3,6 +3,11 @@ topicId: MY-MICH-0050
 title: "Awesome Char Koay Teow: 탄중 붕아의 빕 구르망 노점"
 seoTitle: "Awesome Char Koay Teow"
 slug: "awesome-char-koay-teow"
+hero: "/media/food/awesome-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — 새우, 꼬막, 중국식 소시지, 숙주와 함께 웍에 볶은 납작 쌀국수"
+heroCredit: "Cyaloamin / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "New KK99 Cafe, 99 Jalan Lembah Permai, Tanjung Bungah, 11200 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  priceRange: "Budget (MICHELIN $); street food"
+  hours: "월-토 9:00-15:30; 일요일 휴무"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char koay teow(볶은 납작 쌀국수), 주문 즉시 진한 불맛(wok hei)과 함께 볶아 낸다; 위에 반숙 달걀이나 치즈를 올리고 노점의 칠리 소스를 곁들이면 좋다"
+  reviewSummary: "한 가족의 3대가 운영하는 빕 구르망 노점 음식점으로, 탄중 붕아의 커피숍에서 영업한다. koay teow는 한 접시씩 주문 즉시 볶아 내 뚜렷한 훈연 향과 웍에 그을린 풍미를 낸다; 심사원들은 칠리 소스를, 선택적으로 달걀이나 치즈를 추가할 것을 권한다. 줄 서서 먹을 만한 곳으로 표시되어 있다."
+  phone: "+60 12-482 6118"
 sources:
   - title: "Awesome Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/awesome-char-koay-teow"

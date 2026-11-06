@@ -44,6 +44,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  priceRange: "$ (MICHELIN)"
+  hours: "Setiap hari ~06:30-15:00 (beberapa ulasan mencantumkan 06:30-14:30); konfirmasi sebelum berkunjung"
+  service: ["dine-in"]
+  mustOrder: "Ipoh kai see hor fun (hor fun ayam suwir); tambah pangsit udang"
+  reviewSummary: "Spesialis jajanan kaki lima Ipoh hor fun: hor fun (mi beras pipih) dalam kuah bening yang kaya, dibuat dari tulang ayam dan kepala udang. Versi ayam suwir adalah yang paling menonjol, dengan pangsit udang sebagai tambahan populer."
+  phone: "+60 12-709 2022"
 sources:
   - title: "7 Chai Ipoh Hor Fun"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/7-chai-ipoh-hor-fun"

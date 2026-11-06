@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba：BrickfieldsにあるBib Gourmandのプラナカン料理店"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "ナシレマッ（nasi lemak）— サンバル、揚げ煮干し、ピーナッツ、ゆで卵、きゅうりを添えたココナッツライス"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "毎日 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "ナシレマッ（nasi lemak）とアヤム・ゴレン・クニッ（ayam goreng kunyit、ターメリック揚げ鶏）、サンバル（sambal）と空心菜添え"
+  reviewSummary: "ブリックフィールズのリトルインディアにある小さく居心地のよい店で、2018年から南部プラナカン（Peranakan）料理を提供し、インド・マレーの風味に中華の影響を融合させています。MICHELINはビブグルマン（Bib Gourmand）を授与し、ナシレマッを特に推薦しています。ココナッツミルクのご飯がほのかな甘みを添え、ジューシーなターメリック揚げ鶏と対照をなします。"
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

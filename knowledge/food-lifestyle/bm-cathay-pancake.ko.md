@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: 페낭 부킷 메르타잠"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "아팜 발릭 — 바삭한 황금빛 가장자리를 지닌 반으로 접은 철판 팬케이크"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "월~수 및 토~일 12:00-17:00; 목~금 휴무 (MICHELIN 기준; 일부 현지 자료는 영업일이 약간 다르게 표시되므로 방문 전 확인 요망)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "아팜 발릭(apam balik／ban chien kueh) - 설탕과 으깬 땅콩 소를 넣어 숯불에 구운 중국식 팬케이크로, 이 노점의 유일한 메뉴"
+  reviewSummary: "부킷 머르타잠의 Cathay 푸드코트 밖에 오랫동안 자리한 길거리 노점으로, 1960년대부터 단 한 가지 메뉴만 팔아 왔다. 설탕과 으깬 땅콩을 넣은 숯불 구이 팬케이크로, 현지에서는 ban chien kueh 또는 apam balik이라 불린다. 주문 즉시 숯불에 구워 겉은 바삭하고 속은 쫄깃하며, 삼각형으로 잘라 낸다. 피크 시간에는 긴 줄이 흔하다. MICHELIN 빕 구르망 선정."
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

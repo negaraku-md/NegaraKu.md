@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: 쿠알라룸푸르의 Bib Gourmand 스리랑카 음식점"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "빵과 곁들임을 함께 낸 진한 게 커리"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "매일 12:00-15:00 및 18:00-23:00 (미쉐린 기준. 다른 정보와 다를 수 있으니 방문 전 확인하세요)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "자프나식 통게 커리(대표 메뉴); 파인애플 그레이비 Negombo 새우와 string hoppers도 추천"
+  reviewSummary: "쇠고기, 양고기, 닭고기, 해산물, 채식 요리를 아우르는 정통 스리랑카 요리로 알려진 Plaza Damansara(Bukit Damansara)의 맛집. 음식은 대체로 맵지만 요청하면 주방이 맵기를 조절해 준다."
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

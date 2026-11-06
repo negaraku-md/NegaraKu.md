@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: Bukit Mertajam, Penang"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "Apam balik — panekuk lipat dengan tepi keemasan yang renyah"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "Sen-Rab dan Sab-Min 12:00-17:00; Kam-Jum tutup (menurut MICHELIN; beberapa sumber lokal mencantumkan hari yang sedikit berbeda, jadi pastikan sebelum berkunjung)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apam balik (ban chien kueh) - panekuk Tionghoa panggang arang dengan isian gula dan kacang tanah tumbuk; ini satu-satunya menu gerobak ini"
+  reviewSummary: "Sebuah gerobak pinggir jalan yang sudah lama beroperasi di luar Cathay Food Court di Bukit Mertajam, yang hanya menjual satu menu sejak era 1960-an: panekuk panggang arang berisi gula dan kacang tanah tumbuk, dikenal warga setempat sebagai ban chien kueh atau apam balik. Setiap potong dimasak sesuai pesanan di atas arang, renyah di luar dan kenyal di dalam, lalu dipotong berbentuk segitiga. Antrean panjang lazim pada jam sibuk. Pilihan MICHELIN Bib Gourmand."
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

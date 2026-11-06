@@ -44,6 +44,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  priceRange: "$ (MICHELIN)"
+  hours: "தினமும் ~06:30-15:00 (சில மதிப்பீடுகள் 06:30-14:30 எனக் குறிப்பிடுகின்றன); வருகைக்கு முன் உறுதிப்படுத்தவும்"
+  service: ["dine-in"]
+  mustOrder: "Ipoh kai see hor fun (நறுக்கிய கோழி தட்டையான அரிசி நூடுல்ஸ்); இறால் வான்டன் சேர்த்துக் கொள்ளலாம்"
+  reviewSummary: "Ipoh hor fun-இல் தேர்ச்சி பெற்ற தெரு உணவு நிபுணர்: கோழி எலும்புகள் மற்றும் இறால் தலைகளில் இருந்து தயாரிக்கப்பட்ட செழுமையான தெளிவான சூப்பில் தட்டையான அரிசி நூடுல்ஸ் (hor fun). நறுக்கிய கோழி வகை சிறந்தது, இறால் வான்டன் பிரபலமான கூடுதல்."
+  phone: "+60 12-709 2022"
 sources:
   - title: "7 Chai Ipoh Hor Fun"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/7-chai-ipoh-hor-fun"

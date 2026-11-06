@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa：クアラルンプールの Bib Gourmand スリランカ料理店"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "パンと付け合わせを添えた濃厚なクラブカレー"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "毎日 12:00-15:00 および 18:00-23:00（ミシュランによる。他の情報源とは異なる場合があるため、訪問前にご確認を）"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "ジャフナ風ホールクラブカレー（看板料理）。ほかにパイナップルグレービーの Negombo プラウン、string hoppers"
+  reviewSummary: "牛肉、マトン、鶏肉、シーフード、ベジタリアン料理まで本格的なスリランカ料理で知られる Plaza Damansara（Bukit Damansara）の店。料理は全般に辛口だが、リクエストに応じて厨房が辛さを調整してくれる。"
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

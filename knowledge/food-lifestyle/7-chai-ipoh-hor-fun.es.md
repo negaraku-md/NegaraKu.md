@@ -44,6 +44,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  priceRange: "$ (MICHELIN)"
+  hours: "A diario ~06:30-15:00 (algunas reseñas indican 06:30-14:30); verifica antes de ir"
+  service: ["dine-in"]
+  mustOrder: "Ipoh kai see hor fun (hor fun con pollo desmenuzado); añade wontons de gambas"
+  reviewSummary: "Un especialista en comida callejera de Ipoh hor fun: fideos de arroz planos en un caldo claro e intenso hecho con huesos de pollo y cabezas de gambas. La versión con pollo desmenuzado es la estrella, y los wontons de gambas son un acompañamiento popular."
+  phone: "+60 12-709 2022"
 sources:
   - title: "7 Chai Ipoh Hor Fun"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/7-chai-ipoh-hor-fun"

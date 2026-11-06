@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: कुआलालंपुर का एक Bib Gourmand श्रीलंकाई रेस्तरां"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "ब्रेड और साइड डिश के साथ परोसी गई गाढ़ी केकड़ा करी"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "रोज़ाना 12:00-15:00 और 18:00-23:00 (MICHELIN के अनुसार; अन्य सूचियाँ भिन्न हैं, जाने से पहले पुष्टि करें)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "Jaffna शैली का साबुत केकड़ा करी (रेस्तरां की खासियत); साथ ही अनानास ग्रेवी में Negombo झींगे और string hoppers"
+  reviewSummary: "Plaza Damansara (Bukit Damansara) का एक ठिकाना जो प्रामाणिक श्रीलंकाई व्यंजनों के लिए जाना जाता है, जिसमें बीफ़, मटन, चिकन, समुद्री भोजन और शाकाहारी व्यंजन शामिल हैं; खाना आम तौर पर तीखा होता है पर रसोई माँग पर तीखेपन को समायोजित कर देती है।"
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

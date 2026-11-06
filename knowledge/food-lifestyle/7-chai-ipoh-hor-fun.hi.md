@@ -44,6 +44,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  priceRange: "$ (MICHELIN)"
+  hours: "रोज़ाना ~06:30-15:00 (कुछ समीक्षाओं में 06:30-14:30 दर्ज है); जाने से पहले पुष्टि कर लें"
+  service: ["dine-in"]
+  mustOrder: "इपोह काई सी होर फन (kai see hor fun, कतरा हुआ चिकन चपटी चावल नूडल्स); झींगा वॉन्टन जोड़ें"
+  reviewSummary: "इपोह होर फन (hor fun) में माहिर एक स्ट्रीट-फूड दुकान: चपटी चावल नूडल्स को चिकन की हड्डियों और झींगे के सिर से बने गाढ़े, साफ़ शोरबे में परोसा जाता है। कतरे हुए चिकन वाला संस्करण सबसे खास है, और झींगा वॉन्टन लोकप्रिय ऐड-ऑन है।"
+  phone: "+60 12-709 2022"
 sources:
   - title: "7 Chai Ipoh Hor Fun"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/7-chai-ipoh-hor-fun"

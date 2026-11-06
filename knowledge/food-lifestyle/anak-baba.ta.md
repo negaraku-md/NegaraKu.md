@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba: Brickfields-இல் ஒரு Bib Gourmand பேரநாக்கன் உணவகம்"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "நாசி லெமாக் (nasi lemak) — தேங்காய் பால் சோறு, சம்பல் (sambal), பொரித்த நெத்திலி மீன், வேர்க்கடலை, வேகவைத்த முட்டை மற்றும் வெள்ளரியுடன்"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "தினமும் 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "நாசி லெமாக் (nasi lemak) உடன் அயாம் கோரெங் குன்யிட் (ayam goreng kunyit, மஞ்சள் பொரித்த கோழி), சம்பல் (sambal) மற்றும் வள்ளல்கீரையுடன் பரிமாறப்படுகிறது"
+  reviewSummary: "Brickfields-இன் லிட்டில் இந்தியாவில் உள்ள ஒரு சிறிய, வசதியான இடம், 2018 முதல் தெற்கு பெரானாக்கான் (Peranakan) உணவை வழங்குகிறது, இந்தோ-மலாய் சுவைகளை சீன தாக்கங்களுடன் கலக்கிறது. MICHELIN இதற்கு Bib Gourmand வழங்கி, அதன் நாசி லெமாக்கை சிறப்பிக்கிறது — தேங்காய் பால் சோறு நுட்பமான இனிப்பைத் தருகிறது, இது சாறு நிறைந்த மஞ்சள் பொரித்த கோழியுடன் முரண்படுகிறது."
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

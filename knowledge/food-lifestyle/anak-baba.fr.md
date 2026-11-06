@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba : un restaurant peranakan Bib Gourmand à Brickfields"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "Nasi lemak — riz au lait de coco avec sambal, anchois frits, cacahuètes, œuf dur et concombre"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "Tous les jours 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "Nasi lemak avec ayam goreng kunyit (poulet frit au curcuma), servi avec du sambal et du liseron d'eau"
+  reviewSummary: "Un petit établissement chaleureux dans le Little India de Brickfields, servant une cuisine peranakan (Peranakan) du Sud depuis 2018, mêlant les saveurs indo-malaises aux influences chinoises. MICHELIN lui décerne un Bib Gourmand et met en avant son nasi lemak, où le riz cuit au lait de coco apporte une douceur subtile qui contraste avec le poulet frit au curcuma juteux."
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

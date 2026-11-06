@@ -39,6 +39,20 @@ reviewer: "ashton-tan"
 reviewed: 2026-11-06
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 3 & 4, Ground Floor, Cormar Suites, 10 Jalan Perak, 50450 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Beta%20KL%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Beta%20KL%2C%20Kuala%20Lumpur"
+  priceRange: "$$$"
+  hours: "Solo cena, mar-dom desde las 18:00 (MICHELIN indica 18:00-23:00); lun cerrado"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Menú degustación Tour of Malaysia (un recorrido de varios platos por la cocina regional de Malasia con un tratamiento moderno y teatral); complemento opcional de arroz con abulón Lawas (arroz autóctono de Sarawak con abulón, caviar y aceite de lima kaffir); se ofrece maridaje de cócteles o vinos"
+  reviewSummary: "Un restaurante malasio contemporáneo con Una Estrella MICHELIN donde la cocina reinterpreta los platos locales favoritos con técnica moderna y un emplatado cuidado, servidos en un comedor llamativo y teatral; su menú fijo Tour of Malaysia recorre la amplitud del patrimonio culinario del país."
+  website: "https://www.betakl.com"
+  facebook: "https://www.facebook.com/betakualalumpur/"
+  instagram: "https://www.instagram.com/beta.kl/"
+  phone: "+60 19-212 1094"
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/beta"

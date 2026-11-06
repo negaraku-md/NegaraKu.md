@@ -38,6 +38,18 @@ reviewer: "ashton-tan"
 reviewed: 2026-11-06
 revision: 0
 updated: 2026-11-06
+place:
+  address: "109 Jalan Aminuddin Baki, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Akar%20Dining%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Akar%20Dining%2C%20Kuala%20Lumpur"
+  priceRange: "$$$"
+  hours: "Tue-Thu 18:00-00:00; Fri-Sat 12:00-15:00 & 18:00-00:00; Sun-Mon closed"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Seasonal set menu by chef-proprietor Aidan Low, inspired by his personal history and memories, with optional local rice wine and sake pairings"
+  reviewSummary: "A one-MICHELIN-Star contemporary Malaysian restaurant in a Taman Tun Dr Ismail shop lot where chef-proprietor Aidan Low, drawing on Japanese and French training, reinterprets European techniques through indigenous Malaysian ingredients. The seasonal set menu changes with the seasons and uses methods such as cooking in melted beeswax, dry aging and searing in claypot."
+  website: "https://www.akarkl.com"
+  phone: "+60 18-277 0597"
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/akar"

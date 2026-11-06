@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: مطعم سريلانكي حائز على Bib Gourmand في كوالالمبور"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "كاري سلطعون غني يُقدَّم مع الخبز والأطباق الجانبية"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "يوميًا 12:00-15:00 و18:00-23:00 (وفق MICHELIN؛ قد تختلف المصادر الأخرى، يُرجى التأكد قبل الزيارة)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "كاري السلطعون الكامل على طريقة Jaffna (طبق المطعم المميز)؛ وكذلك روبيان Negombo في صلصة الأناناس وstring hoppers"
+  reviewSummary: "مكان في Plaza Damansara (Bukit Damansara) معروف بالمطبخ السريلانكي الأصيل الذي يشمل لحم البقر والضأن والدجاج والمأكولات البحرية والأطباق النباتية؛ الطعام حار عمومًا لكن المطبخ يعدّل درجة الحرارة عند الطلب."
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

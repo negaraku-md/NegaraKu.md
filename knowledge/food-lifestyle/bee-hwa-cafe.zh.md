@@ -39,6 +39,18 @@ keywords:
   - "char kway teow"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "10 Lebuh Dickens, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
+  priceRange: "$"
+  hours: "周一至周六 7:00-15:00；周日休息"
+  halal: "halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "炒粿条（清真版用蒜末与自制酱油调料镬气快炒，以鸡肉和海鲜取代猪肉和猪油）；还有虾面（hae mee），每日新鲜熬制的海鲜汤底配自制咖喱酱"
+  reviewSummary: "乔治市一家经营多年的咖啡店摊位，在2026年马来西亚榜单中荣获MICHELIN必比登推介。它以清真版的槟城小贩经典美食闻名，用鸡肉和海鲜取代猪肉和猪油。炒粿条和虾面是最受推崇的菜肴；这里从早营业到下午，炒粿条常在打烊前售罄。"
+  phone: "+60 12-854 0005"
 sources:
   - title: "Bee Hwa Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/bee-hwa-cafe"

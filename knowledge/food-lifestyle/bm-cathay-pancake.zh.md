@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake：槟城大山脚"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "Apam balik — 一款对折的煎饼，边缘金黄酥脆"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "周一至周三及周六至周日 12:00-17:00；周四至周五 休息（据 MICHELIN；部分当地资料列出的营业日略有不同，到访前请先确认）"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apam balik（ban chien kueh）- 炭烤中式煎饼，内馅为糖和碎花生；这是小摊唯一的品项"
+  reviewSummary: "武吉美拉迪玛 Cathay 美食中心外一个经营多年的路边摊，自1960年代起只卖一样：炭烤煎饼，内馅为糖和碎花生，当地人称为 ban chien kueh 或 apam balik。每一份都是现点现做、在炭火上烤制，外酥内韧，然后切成三角形。高峰时段常见长队。入选 MICHELIN Bib Gourmand。"
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

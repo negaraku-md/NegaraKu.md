@@ -87,7 +87,7 @@ const placeSchema = z.object({
   /** Halal status — shown as a prominent badge. Sourced per venue, never guessed.
    *  Language-neutral enum; the card renders a localised label. */
   halal: z
-    .enum(['halal-certified', 'muslim-owned', 'pork-free', 'no-pork-no-lard', 'non-halal', 'contains-pork', 'vegetarian'])
+    .enum(['halal-certified', 'halal', 'muslim-owned', 'pork-free', 'no-pork-no-lard', 'non-halal', 'contains-pork', 'vegetarian'])
     .optional(),
   /** Opening hours + closed days. LOCALISED per file (day names translate), e.g.
    *  "Mon–Fri 08:30–15:30 · Wed closed". */

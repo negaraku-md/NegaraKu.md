@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa：吉隆坡一家 Bib Gourmand 斯里兰卡餐厅"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "浓郁的蟹肉咖喱，佐以面包和配菜"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "每日 12:00-15:00 及 18:00-23:00（据米其林；其他资讯来源有差异，前往前请确认）"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "Jaffna 风味全蟹咖喱（招牌菜）；还有菠萝汁 Negombo 鲜虾及 string hoppers"
+  reviewSummary: "位于 Plaza Damansara（Bukit Damansara）的餐厅，以地道斯里兰卡料理闻名，涵盖牛肉、羊肉、鸡肉、海鲜和素食；菜式一般偏辣，但厨房可应要求调整辣度。"
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

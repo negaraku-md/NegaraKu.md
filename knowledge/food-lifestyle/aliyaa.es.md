@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: un restaurante esrilanqués con Bib Gourmand en Kuala Lumpur"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "Un curry de cangrejo sustancioso servido con pan y guarniciones"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "Todos los días 12:00-15:00 y 18:00-23:00 (según MICHELIN; otras fuentes varían, confirma antes de visitar)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "Curry de cangrejo entero al estilo de Jaffna (especialidad de la casa); también langostinos Negombo en salsa de piña y string hoppers"
+  reviewSummary: "Un local en Plaza Damansara (Bukit Damansara) conocido por su auténtica cocina de Sri Lanka, con platos de res, cordero, pollo, marisco y vegetarianos; la comida suele ser picante, pero la cocina ajusta el picante si se solicita."
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

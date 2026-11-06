@@ -44,6 +44,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  priceRange: "$ (MICHELIN)"
+  hours: "يوميًا ~06:30-15:00 (تشير بعض المراجعات إلى 06:30-14:30)؛ تأكّد قبل الزيارة"
+  service: ["dine-in"]
+  mustOrder: "إيبوه كاي سي هور فون (hor fun، نودلز أرز مسطحة مع دجاج مفروم)؛ أضِف ونتون الروبيان"
+  reviewSummary: "متخصص في طعام الشارع من نوع إيبوه هور فون (hor fun): نودلز أرز مسطحة في مرق صافٍ غنيّ يُحضَّر من عظام الدجاج ورؤوس الروبيان. نسخة الدجاج المفروم هي الأبرز، وونتون الروبيان إضافة شائعة."
+  phone: "+60 12-709 2022"
 sources:
   - title: "7 Chai Ipoh Hor Fun"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/7-chai-ipoh-hor-fun"

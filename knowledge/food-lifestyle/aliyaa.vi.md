@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: Nhà hàng Sri Lanka đạt Bib Gourmand ở Kuala Lumpur"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "Món cà ri cua đậm đà dùng kèm bánh mì và đồ ăn kèm"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "Hằng ngày 12:00-15:00 và 18:00-23:00 (theo MICHELIN; các nguồn khác có thể khác nhau, hãy xác nhận trước khi đến)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "Cà ri cua nguyên con kiểu Jaffna (món đặc trưng của quán); ngoài ra có tôm Negombo sốt dứa và string hoppers"
+  reviewSummary: "Một địa điểm ở Plaza Damansara (Bukit Damansara) nổi tiếng với ẩm thực Sri Lanka chính gốc gồm thịt bò, thịt cừu, thịt gà, hải sản và các món chay; món ăn thường cay nhưng nhà bếp sẽ điều chỉnh độ cay theo yêu cầu."
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

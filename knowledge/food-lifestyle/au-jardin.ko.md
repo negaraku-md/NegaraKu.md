@@ -44,6 +44,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "The Warehouse @ Hin Bus Depot, 125 Jalan Timah, 10150 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Au%20Jardin%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Au%20Jardin%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$$$ (European fine-dining tasting menu)"
+  hours: "목-일 11:30-14:00 & 17:15-22:00; 월-수 휴무"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "여러 코스로 구성된 유러피언 컨템포러리 테이스팅(degustation) 메뉴; 시그니처 건초 숙성 페낭 오리와 토마토 버터를 곁들인 수제 사워도우."
+  reviewSummary: "Hin Bus Depot 아트 단지 안의 개조된 창고에 자리한 미쉐린 1스타 유러피언 컨템포러리 레스토랑으로, 세련된 모던 인테리어가 낡은 산업적 외관과 대비를 이룹니다. 주방은 섬세한 현지 요소를 가미한 창의적이고 정교한 유럽 요리 테이스팅 메뉴를 선보이며, 심사위원들은 건초 숙성 페낭 오리를 특히 주목했습니다."
+  website: "https://www.restaurant-aujardin.com"
+  phone: "+60 12-428 9594"
 sources:
   - title: "Au Jardin"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/au-jardin"

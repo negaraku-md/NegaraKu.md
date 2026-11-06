@@ -3,6 +3,11 @@ topicId: MY-MICH-0050
 title: "Awesome Char Koay Teow: தஞ்சோங் பூங்காவில் ஒரு Bib Gourmand கடை"
 seoTitle: "Awesome Char Koay Teow"
 slug: "awesome-char-koay-teow"
+hero: "/media/food/awesome-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — இறால், கக்கா, சீன தொத்திறைச்சி மற்றும் பயறு முளைகளுடன் வோக்கில் வறுத்த தட்டையான அரிசி நூடுல்ஸ்"
+heroCredit: "Cyaloamin / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "New KK99 Cafe, 99 Jalan Lembah Permai, Tanjung Bungah, 11200 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  priceRange: "Budget (MICHELIN $); street food"
+  hours: "திங்-சனி 9:00-15:30; ஞாயிறு அடைப்பு"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char koay teow (வறுத்த தட்டையான அரிசி நூடுல்ஸ்), ஆர்டருக்கு ஏற்ப புகையேறிய wok hei உடன் வறுக்கப்படுகிறது; மேலே பாதி வேகவைத்த முட்டை அல்லது சீஸ் மற்றும் கடையின் மிளகாய் சாஸ் சேர்க்கலாம்"
+  reviewSummary: "ஒரு குடும்பத்தின் மூன்றாம் தலைமுறையினரால் நடத்தப்படும் Bib Gourmand தெரு உணவுக் கடை, தஞ்சோங் புங்காவில் உள்ள ஒரு காபிக் கடையில் இயங்குகிறது. ஒவ்வொரு தட்டு koay teow-ம் ஆர்டருக்கு ஏற்ப வறுக்கப்படுகிறது, இது தனித்துவமான புகையேறிய, வோக்-கருகிய நறுமணத்தை அளிக்கிறது; ஆய்வாளர்கள் மிளகாய் சாஸ் சேர்க்கவும், விருப்பப்பட்டால் முட்டை அல்லது சீஸ் சேர்க்கவும் பரிந்துரைக்கின்றனர். வரிசையில் நிற்பதற்குத் தகுதியானது எனக் குறிக்கப்பட்டுள்ளது."
+  phone: "+60 12-482 6118"
 sources:
   - title: "Awesome Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/awesome-char-koay-teow"

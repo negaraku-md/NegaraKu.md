@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: Bukit Mertajam, Penang"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "Apam balik — un panqueque de plancha doblado con un borde dorado y crujiente"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "Lun-Mié y Sáb-Dom 12:00-17:00; Jue-Vie cerrado (según MICHELIN; algunas fuentes locales indican días algo distintos, así que confírmalo antes de visitar)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apam balik (ban chien kueh) - panqueque chino asado al carbón relleno de azúcar y cacahuete triturado; es el único plato del puesto"
+  reviewSummary: "Un puesto callejero de larga trayectoria frente al Cathay Food Court de Bukit Mertajam que vende un solo plato desde los años sesenta: un panqueque asado al carbón relleno de azúcar y cacahuete triturado, conocido localmente como ban chien kueh o apam balik. Cada pieza se hace al momento sobre carbón, crujiente por fuera y tierna por dentro, y luego se corta en triángulos. Las colas largas son habituales en las horas punta. Una selección MICHELIN Bib Gourmand."
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

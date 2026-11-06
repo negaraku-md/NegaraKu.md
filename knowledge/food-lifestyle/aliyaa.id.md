@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: Restoran Sri Lanka Bib Gourmand di Kuala Lumpur"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "Kari kepiting yang kaya rasa disajikan dengan roti dan lauk pendamping"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "Setiap hari 12:00-15:00 dan 18:00-23:00 (menurut MICHELIN; daftar lain berbeda, konfirmasikan sebelum berkunjung)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "Kari kepiting utuh gaya Jaffna (andalan rumah makan); juga udang Negombo dalam kuah nanas dan string hoppers"
+  reviewSummary: "Tempat di Plaza Damansara (Bukit Damansara) yang terkenal dengan masakan Sri Lanka autentik mencakup daging sapi, kambing, ayam, makanan laut, dan hidangan vegetarian; makanannya umumnya pedas tetapi dapur akan menyesuaikan tingkat kepedasan sesuai permintaan."
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

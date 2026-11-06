@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake：ペナン州ブキットメルタジャム"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "アパムバリ — 香ばしい黄金色の縁を持つ、二つ折りにした鉄板パンケーキ"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "月～水および土～日 12:00-17:00；木～金 休業（MICHELINによる。一部の地元情報では営業日がやや異なるため、訪問前に確認を）"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "アパムバリ（apam balik／ban chien kueh）- 砂糖と砕いたピーナッツを詰めた炭火焼きの中華風パンケーキ。この屋台で唯一の品"
+  reviewSummary: "ブキッ・メルタジャムのCathayフードコート外にある老舗の路上屋台で、1960年代から一品だけを売り続けている。砂糖と砕いたピーナッツを詰めた炭火焼きパンケーキで、地元ではban chien kuehまたはapam balikと呼ばれる。注文ごとに炭火で焼き上げ、外は香ばしく中はもっちり、三角形に切り分けられる。ピーク時には長い行列ができる。MICHELINビブグルマン選出。"
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

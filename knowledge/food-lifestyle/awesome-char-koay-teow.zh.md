@@ -3,6 +3,11 @@ topicId: MY-MICH-0050
 title: "Awesome Char Koay Teow：丹绒武雅一家必比登摊位"
 seoTitle: "Awesome Char Koay Teow"
 slug: "awesome-char-koay-teow"
+hero: "/media/food/awesome-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — 用镬炒制的扁米粉，配虾、鸟蛤、腊肠和豆芽"
+heroCredit: "Cyaloamin / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "New KK99 Cafe, 99 Jalan Lembah Permai, Tanjung Bungah, 11200 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  priceRange: "Budget (MICHELIN $); street food"
+  hours: "周一至周六 9:00-15:30；周日休息"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char koay teow（炒粿条），现点现炒，带浓郁锅气；可在上面加一颗半熟煎蛋或芝士，并搭配摊位的辣椒酱"
+  reviewSummary: "一家由家族第三代经营的必比登推介街头小吃摊，开设在丹戎武雅的一家咖啡店内。每盘粿条现点现炒，带有浓郁的烟熏锅气；评审员建议加辣椒酱，并可选择加蛋或芝士。被标注为值得排队。"
+  phone: "+60 12-482 6118"
 sources:
   - title: "Awesome Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/awesome-char-koay-teow"

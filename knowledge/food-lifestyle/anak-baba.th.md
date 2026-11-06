@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba: ร้านอาหารเปอรานากัน Bib Gourmand ย่าน Brickfields"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "นาซิเลอมัก (nasi lemak) — ข้าวหุงกะทิกับซัมบัล ปลาข้าวสารทอด ถั่วลิสง ไข่ต้ม และแตงกวา"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "ทุกวัน 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "นาซิเลอมัก (nasi lemak) กับอายัมโกเร็งกุนญิต (ayam goreng kunyit ไก่ทอดขมิ้น) เสิร์ฟพร้อมซัมบัล (sambal) และผักบุ้ง"
+  reviewSummary: "ร้านเล็กๆ อบอุ่นในย่านลิตเติลอินเดียของบริกฟิลด์ส เสิร์ฟอาหารเปอรานากัน (Peranakan) ภาคใต้มาตั้งแต่ปี 2018 ผสานรสชาติอินโด-มาเลย์เข้ากับอิทธิพลจีน MICHELIN มอบรางวัลบิบกูร์มองด์ (Bib Gourmand) และแนะนำนาซิเลอมักเป็นพิเศษ ข้าวหุงกะทิให้ความหวานละมุนตัดกับไก่ทอดขมิ้นที่ฉ่ำนุ่ม"
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

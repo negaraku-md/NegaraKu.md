@@ -39,6 +39,18 @@ keywords:
   - "char kway teow"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "10 Lebuh Dickens, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
+  priceRange: "$"
+  hours: "திங்-சனி 7:00-15:00; ஞாயிறு மூடப்பட்டிருக்கும்"
+  halal: "halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char kway teow (ஹலால் பதிப்பு, பன்றி இறைச்சி மற்றும் பன்றிக்கொழுப்புக்குப் பதிலாக கோழி மற்றும் கடல் உணவுடன், நறுக்கிய பூண்டு மற்றும் வீட்டு சோயா கலவையில் வோக்கில் வறுத்தது); மேலும் hae mee (இறால் நூடுல்ஸ் சூப்) தினமும் புதிய கடல்உணவு குழம்பு மற்றும் வீட்டு கறி விழுதுடன்"
+  reviewSummary: "2026 மலேசியா தேர்வில் MICHELIN Bib Gourmand விருது பெற்ற ஜார்ஜ் டவுனின் நீண்டகால கோபிட்டியாம் கடை. பன்றி இறைச்சி மற்றும் பன்றிக்கொழுப்பை கோழி மற்றும் கடல் உணவால் மாற்றிய பினாங்கு ஹாக்கர் சிறப்புகளின் ஹலால் பதிப்புக்காக இது அறியப்படுகிறது. Char kway teow மற்றும் hae mee மிகவும் சிறப்பிக்கப்பட்ட உணவுகள்; இது காலையிலிருந்து மதியம் வரை இயங்கும் இடம், char kway teow பெரும்பாலும் மூடுவதற்கு முன்பே விற்றுத் தீர்ந்துவிடும்."
+  phone: "+60 12-854 0005"
 sources:
   - title: "Bee Hwa Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/bee-hwa-cafe"

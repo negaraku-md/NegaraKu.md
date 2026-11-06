@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: ร้านอาหารศรีลังการะดับ Bib Gourmand ในกัวลาลัมเปอร์"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "แกงปูเข้มข้นเสิร์ฟพร้อมขนมปังและเครื่องเคียง"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "ทุกวัน 12:00-15:00 และ 18:00-23:00 (ตาม MICHELIN; แหล่งข้อมูลอื่นอาจต่างกัน โปรดยืนยันก่อนไป)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "แกงปูทั้งตัวสไตล์ Jaffna (เมนูเด่นของร้าน); และกุ้ง Negombo ในน้ำเกรวีสับปะรด กับ string hoppers"
+  reviewSummary: "ร้านใน Plaza Damansara (Bukit Damansara) ขึ้นชื่อเรื่องอาหารศรีลังกาแท้ ครอบคลุมเนื้อวัว เนื้อแพะ ไก่ อาหารทะเล และเมนูมังสวิรัติ อาหารค่อนข้างเผ็ด แต่ครัวปรับระดับความเผ็ดได้ตามคำขอ"
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

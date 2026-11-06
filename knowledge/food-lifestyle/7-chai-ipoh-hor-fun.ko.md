@@ -44,6 +44,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  priceRange: "$ (MICHELIN)"
+  hours: "매일 ~06:30-15:00 (일부 리뷰는 06:30-14:30로 표기); 방문 전 확인 요망"
+  service: ["dine-in"]
+  mustOrder: "이포 카이시 호펀(kai see hor fun, 닭고기 채를 올린 넓적 쌀국수); 새우 완탕 추가"
+  reviewSummary: "이포 호펀(hor fun) 전문 길거리 음식점. 닭 뼈와 새우 머리로 우려낸 진한 맑은 국물에 넓적 쌀국수를 넣는다. 닭고기 채를 올린 버전이 대표 메뉴이며, 새우 완탕 추가가 인기다."
+  phone: "+60 12-709 2022"
 sources:
   - title: "7 Chai Ipoh Hor Fun"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/7-chai-ipoh-hor-fun"

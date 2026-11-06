@@ -3,6 +3,11 @@ topicId: MY-MICH-0050
 title: "Awesome Char Koay Teow: Gerai Bib Gourmand di Tanjung Bungah"
 seoTitle: "Awesome Char Koay Teow"
 slug: "awesome-char-koay-teow"
+hero: "/media/food/awesome-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — kuetiau leper digoreng dengan kuali bersama udang, kerang, lap cheong dan taugeh"
+heroCredit: "Cyaloamin / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:HK_Yau_Ma_Tei_%E6%96%87%E8%8F%AF%E6%96%B0%E9%82%A8_Man_Wah_Sun_Chuen_restaurant_food_%E7%82%92%E8%B2%B4%E5%88%81_Char_kway_teow_fried_noodle_June-2011.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "New KK99 Cafe, 99 Jalan Lembah Permai, Tanjung Bungah, 11200 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Awesome%20Char%20Koay%20Teow%2C%20Tanjung%20Bungah%2C%20Penang"
+  priceRange: "Budget (MICHELIN $); street food"
+  hours: "Isn-Sab 9:00-15:30; tutup Ahad"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char koay teow (kuetiau goreng), digoreng ikut tempahan dengan wok hei yang berasap; tambah telur mata separa masak atau keju di atas dan sos cili gerai"
+  reviewSummary: "Gerai makanan jalanan Bib Gourmand yang dikendalikan oleh generasi ketiga sesebuah keluarga, beroperasi dari sebuah kedai kopi di Tanjung Bungah. Setiap pinggan koay teow digoreng ikut tempahan, memberikannya aroma berasap dan rangup khas kuali; pemeriksa mencadangkan menambah sos cili dan, pilihan, telur atau keju. Ditandakan berbaloi untuk beratur."
+  phone: "+60 12-482 6118"
 sources:
   - title: "Awesome Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/awesome-char-koay-teow"

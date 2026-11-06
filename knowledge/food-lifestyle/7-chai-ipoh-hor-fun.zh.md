@@ -44,6 +44,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "33 Jalan Perdana 4/1, Pandan Perdana, 55300 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=7%20Chai%20Ipoh%20Hor%20Fun%2C%20Pandan%20Perdana%2C%20Kuala%20Lumpur"
+  priceRange: "$ (MICHELIN)"
+  hours: "每天 ~06:30-15:00（部分评论列为 06:30-14:30）；到访前请确认"
+  service: ["dine-in"]
+  mustOrder: "怡保鸡丝河粉（kai see hor fun，鸡丝扁米粉）；加虾云吞"
+  reviewSummary: "专精怡保 hor fun 的街头美食店：扁米粉（hor fun）浸在以鸡骨和虾头熬成的浓郁清汤中。鸡丝版本最为出色，虾云吞是受欢迎的加料。"
+  phone: "+60 12-709 2022"
 sources:
   - title: "7 Chai Ipoh Hor Fun"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/7-chai-ipoh-hor-fun"

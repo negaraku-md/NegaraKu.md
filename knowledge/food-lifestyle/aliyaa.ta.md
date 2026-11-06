@@ -2,6 +2,11 @@
 topicId: MY-MICH-0012
 title: "Aliyaa: கோலாலம்பூரில் ஒரு Bib Gourmand இலங்கை உணவகம்"
 slug: "aliyaa"
+hero: "/media/food/aliyaa/hero.webp"
+heroAlt: "ரொட்டி மற்றும் பக்க உணவுகளுடன் பரிமாறப்படும் செழுமையான நண்டு கறி"
+heroCredit: "Nathaniel Yeo / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/cooked-food-on-black-pan-Fk9HnIXcuc4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -39,6 +44,20 @@ keywords:
   - "Sri Lankan cuisine"
   - "whole crab"
 updated: 2026-11-06
+place:
+  address: "48, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Aliyaa%20Sri%20Lankan%2C%20Kuala%20Lumpur"
+  priceRange: "$$ (mains roughly RM30-70; chef's set menu around RM128 per person)"
+  hours: "தினமும் 12:00-15:00 மற்றும் 18:00-23:00 (MICHELIN படி; பிற பட்டியல்கள் வேறுபடும், வருகைக்கு முன் உறுதிப்படுத்தவும்)"
+  halal: "pork-free"
+  service: ["dine-in", "delivery"]
+  mustOrder: "Jaffna பாணி முழு நண்டு கறி (உணவகத்தின் சிறப்பு); மேலும் அன்னாசி கிரேவியில் Negombo இறால் மற்றும் string hoppers"
+  reviewSummary: "மாட்டிறைச்சி, ஆட்டிறைச்சி, கோழி, கடல் உணவு மற்றும் சைவ உணவுகள் உள்ளடக்கிய உண்மையான இலங்கை சமையலுக்குப் பெயர் பெற்ற Plaza Damansara (Bukit Damansara) இடம்; உணவு பொதுவாக காரமானது, ஆனால் கோரிக்கையின் பேரில் சமையலறை காரத்தின் அளவை சரிசெய்யும்."
+  website: "https://www.aliyaa.com/"
+  facebook: "https://www.facebook.com/aliyaamalaysia/"
+  instagram: "https://www.instagram.com/aliyaa_kl/"
+  phone: "+60 17-883 3738"
 sources:
   - title: "Aliyaa"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/aliyaa"

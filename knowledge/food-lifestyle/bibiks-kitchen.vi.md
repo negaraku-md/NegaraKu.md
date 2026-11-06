@@ -44,6 +44,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "73 Jalan Sri Bahari, George Town, 10050, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bibik%27s%20Kitchen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bibik%27s%20Kitchen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$ (moderate; MICHELIN gives no MYR amount)"
+  hours: "T3-CN 11:30-15:00 và 18:00-21:00; đóng cửa T2"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "jiu hu char (củ đậu xào với mực xé sợi) và loh bak (chả cuốn thịt heo ngũ vị chiên giòn)"
+  reviewSummary: "Một nhà hàng Peranakan đạt Bib Gourmand ở trung tâm di sản của George Town, phục vụ các công thức Nyonya gia truyền của chủ quán, nhẹ vị hơn so với các phiên bản ở nơi khác; không gian được trang trí bằng họa tiết Nyonya cổ điển và các món được dọn theo ba cỡ phần."
+  facebook: "https://www.facebook.com/Bibik.Kitchen"
+  phone: "+60 12-669 7488"
 sources:
   - title: "Bibik's Kitchen"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/bibik-s-kitchen"

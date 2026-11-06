@@ -204,6 +204,7 @@ const toc = headings.filter((h) => h.depth === 2);
 // neutral = informational). Sourced per venue, never guessed.
 const HALAL = {
   'halal-certified': { tone: 'ok', icon: '✓', label: L('Halal (disahkan)', 'Halal-certified', '清真认证', 'ஹலால் (சான்று)', 'ハラール認証', '할랄 인증', 'ฮาลาล (รับรอง)', 'Halal (chứng nhận)', 'Halal (bersertifikat)', 'حلال (معتمد)', 'हलाल (प्रमाणित)', 'Halal (certificado)', 'Halal (certifié)') },
+  'halal': { tone: 'ok', icon: '✓', label: L('Halal', 'Halal', '清真', 'ஹலால்', 'ハラール', '할랄', 'ฮาลาล', 'Halal', 'Halal', 'حلال', 'हलाल', 'Halal', 'Halal') },
   'muslim-owned': { tone: 'ok', icon: '✓', label: L('Milik Muslim', 'Muslim-owned', '穆斯林经营', 'முஸ்லிம் உரிமை', 'ムスリム経営', '무슬림 운영', 'เจ้าของมุสลิม', 'Chủ người Hồi giáo', 'Milik Muslim', 'مملوك لمسلمين', 'मुस्लिम-स्वामित्व', 'De propiedad musulmana', 'Tenu par des musulmans') },
   'pork-free': { tone: 'info', icon: '◇', label: L('Tanpa babi', 'Pork-free', '无猪肉', 'பன்றி இறைச்சி இல்லை', '豚肉なし', '돼지고기 없음', 'ไม่มีหมู', 'Không thịt heo', 'Tanpa babi', 'خالٍ من لحم الخنزير', 'सूअर-रहित', 'Sin cerdo', 'Sans porc') },
   'no-pork-no-lard': { tone: 'info', icon: '◇', label: L('Tiada babi, tiada lemak babi', 'No pork, no lard', '无猪肉、无猪油', 'பன்றி இறைச்சி/கொழுப்பு இல்லை', '豚肉・ラードなし', '돼지고기·라드 없음', 'ไม่มีหมูและน้ำมันหมู', 'Không thịt heo, không mỡ heo', 'Tanpa babi & lemak babi', 'بلا لحم خنزير أو شحمه', 'न सूअर, न चर्बी', 'Sin cerdo ni manteca', 'Sans porc ni saindoux') },

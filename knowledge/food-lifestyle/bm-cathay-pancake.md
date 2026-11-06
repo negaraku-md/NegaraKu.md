@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: Bukit Mertajam, Penang"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "Apam balik — a folded griddle pancake with a crisp golden edge"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -39,6 +44,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "Mon-Wed and Sat-Sun 12:00-17:00; Thu-Fri closed (per MICHELIN; some local sources list slightly different days, so confirm before visiting)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apam balik (ban chien kueh) - chargrilled Chinese pancake with a sugar and crushed-peanut filling; it is the cart's only item"
+  reviewSummary: "A long-running roadside cart outside Cathay Food Court in Bukit Mertajam that has sold just one item since the 1960s: a chargrilled pancake filled with sugar and crushed peanuts, known locally as ban chien kueh or apam balik. Each piece is cooked to order over charcoal, crisp on the outside and chewy within, then cut into triangles. Long queues are common at peak hours. A MICHELIN Bib Gourmand selection."
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

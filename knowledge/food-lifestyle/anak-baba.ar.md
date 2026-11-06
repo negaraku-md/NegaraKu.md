@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba: مطعم بيرانكان حائز على Bib Gourmand في Brickfields"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "ناسي ليماك (nasi lemak) — أرز بحليب جوز الهند مع السامبال والأنشوفة المقلية والفول السوداني والبيض المسلوق والخيار"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "يوميًا 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "ناسي ليماك (nasi lemak) مع أيام غورينغ كونيت (ayam goreng kunyit، دجاج مقلي بالكركم)، يُقدَّم مع السامبال (sambal) والسبانخ المائية"
+  reviewSummary: "مكان صغير ودافئ في حي ليتل إنديا بمنطقة بريكفيلدز، يقدّم مطبخ البيرانكان (Peranakan) الجنوبي منذ 2018، ممزوجًا نكهات إندو-ملايوية بتأثيرات صينية. منحته MICHELIN تصنيف بيب غورماند (Bib Gourmand) وسلّطت الضوء على ناسي ليماك لديه، حيث يضفي الأرز المطهو بحليب جوز الهند حلاوة خفيفة تتباين مع الدجاج المقلي بالكركم الغضّ."
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

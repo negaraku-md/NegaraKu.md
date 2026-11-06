@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba: Brickfields में एक Bib Gourmand पेरानाकन भोजनालय"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "नासी लेमाक (nasi lemak) — नारियल के दूध वाले चावल के साथ सांबल, तली एंकोवी, मूंगफली, उबला अंडा और खीरा"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "रोज़ाना 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "नासी लेमाक (nasi lemak) के साथ अयाम गोरेंग कुन्यित (ayam goreng kunyit, हल्दी में तली चिकन), सांबल (sambal) और पानी पालक के साथ परोसा जाता है"
+  reviewSummary: "ब्रिकफील्ड्स के लिटिल इंडिया में एक छोटी, आरामदायक जगह, जो 2018 से दक्षिणी पेरानाकन (Peranakan) व्यंजन परोसती है, इंडो-मलय स्वादों को चीनी प्रभावों के साथ मिलाती है। MICHELIN ने इसे बिब गुरमां (Bib Gourmand) प्रदान किया है और इसकी नासी लेमाक को विशेष रूप से रेखांकित किया है, जहाँ नारियल के दूध से बना चावल एक हल्की मिठास देता है जो रसीली हल्दी-तली चिकन के साथ विपरीतता बनाती है।"
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

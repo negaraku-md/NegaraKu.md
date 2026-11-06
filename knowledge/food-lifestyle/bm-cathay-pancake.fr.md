@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake : Bukit Mertajam, Penang"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "Apam balik — une crêpe de plancha pliée au bord doré et croustillant"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "Lun-Mer et Sam-Dim 12:00-17:00 ; Jeu-Ven fermé (selon MICHELIN ; certaines sources locales indiquent des jours légèrement différents, à confirmer avant de venir)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apam balik (ban chien kueh) - crêpe chinoise grillée au charbon de bois garnie de sucre et d'arachides concassées ; c'est le seul plat de l'échoppe"
+  reviewSummary: "Une échoppe de rue de longue date devant le Cathay Food Court de Bukit Mertajam, qui ne vend qu'un seul plat depuis les années 1960 : une crêpe grillée au charbon de bois garnie de sucre et d'arachides concassées, appelée localement ban chien kueh ou apam balik. Chaque pièce est cuite à la commande sur le charbon, croustillante à l'extérieur et moelleuse à l'intérieur, puis découpée en triangles. Les longues files sont fréquentes aux heures de pointe. Une sélection MICHELIN Bib Gourmand."
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

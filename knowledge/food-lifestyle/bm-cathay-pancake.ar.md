@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: بوكيت ميرتاجام، بينانغ"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "أبام باليك — فطيرة مطوية مشوية على الصاج بحافة ذهبية مقرمشة"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "الاثنين-الأربعاء والسبت-الأحد 12:00-17:00؛ الخميس-الجمعة مغلق (وفق MICHELIN؛ تُدرج بعض المصادر المحلية أياماً مختلفة قليلاً، لذا تأكّد قبل الزيارة)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "أبام باليك (apam balik / ban chien kueh) - فطيرة صينية مشوية على الفحم محشوة بالسكر والفول السوداني المطحون؛ وهي الصنف الوحيد لدى هذه العربة"
+  reviewSummary: "عربة طعام جانبية عريقة خارج مجمّع Cathay للأطعمة في بوكيت ميرتاجام، لا تبيع سوى صنف واحد منذ ستينيات القرن الماضي: فطيرة مشوية على الفحم محشوة بالسكر والفول السوداني المطحون، يسمّيها الأهالي ban chien kueh أو apam balik. تُطهى كل قطعة حسب الطلب على الفحم، مقرمشة من الخارج ومطاطية من الداخل، ثم تُقطّع مثلثات. الطوابير الطويلة شائعة في أوقات الذروة. اختيار MICHELIN Bib Gourmand."
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

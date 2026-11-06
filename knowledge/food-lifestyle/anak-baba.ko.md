@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba: Brickfields의 Bib Gourmand 페라나칸 식당"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "나시 레막(nasi lemak) — 삼발, 튀긴 멸치, 땅콩, 삶은 달걀, 오이를 곁들인 코코넛 라이스"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "매일 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "나시 레막(nasi lemak)과 아얌 고렝 쿠닛(ayam goreng kunyit, 강황 튀김 닭), 삼발(sambal)과 공심채 곁들임"
+  reviewSummary: "브릭필즈 리틀 인디아에 자리한 작고 아늑한 곳으로, 2018년부터 남부 페라나칸(Peranakan) 요리를 선보이며 인도-말레이 풍미에 중국의 영향을 더합니다. MICHELIN은 빕 구르망(Bib Gourmand)을 수여하고 나시 레막을 추천합니다. 코코넛 밀크 밥이 은은한 단맛을 더해 육즙 가득한 강황 튀김 닭과 대비를 이룹니다."
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

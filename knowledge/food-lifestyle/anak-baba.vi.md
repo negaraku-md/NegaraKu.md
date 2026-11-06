@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba: Quán ăn Peranakan Bib Gourmand ở Brickfields"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "Nasi lemak — cơm nước cốt dừa với sambal, cá cơm chiên, đậu phộng, trứng luộc và dưa leo"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "Hằng ngày 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "Nasi lemak với ayam goreng kunyit (gà chiên nghệ), ăn kèm sambal và rau muống"
+  reviewSummary: "Một quán nhỏ ấm cúng ở khu Little India của Brickfields, phục vụ ẩm thực Peranakan miền Nam từ năm 2018, pha trộn hương vị Indo-Mã Lai với ảnh hưởng Trung Hoa. MICHELIN trao cho quán danh hiệu Bib Gourmand và đề cao món nasi lemak, nơi cơm nấu nước cốt dừa mang vị ngọt dịu tương phản với gà chiên nghệ mọng nước."
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

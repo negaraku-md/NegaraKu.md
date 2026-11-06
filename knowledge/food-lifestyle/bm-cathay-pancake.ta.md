@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: புக்கிட் மெர்டாஜாம், பினாங்கு"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "Apam balik — மொறுமொறுப்பான தங்க நிற விளிம்புடன் மடித்த அப்பம்"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "திங்கள்-புதன் மற்றும் சனி-ஞாயிறு 12:00-17:00; வியாழன்-வெள்ளி மூடப்பட்டிருக்கும் (MICHELIN படி; சில உள்ளூர் ஆதாரங்கள் சற்று வேறுபட்ட நாட்களைக் குறிப்பிடுகின்றன, எனவே செல்வதற்கு முன் உறுதிப்படுத்தவும்)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apam balik (ban chien kueh) - சர்க்கரை மற்றும் நொறுக்கிய நிலக்கடலை நிரப்பிய கரி-வறுத்த சீன அப்பம்; இதுவே இந்த வண்டியின் ஒரே உணவு"
+  reviewSummary: "புக்கிட் மெர்தாஜாமில் Cathay உணவு மையத்திற்கு வெளியே நீண்டகாலமாக இயங்கும் ஒரு சாலையோர வண்டி, 1960களிலிருந்து ஒரே ஒரு பொருளை மட்டுமே விற்கிறது: சர்க்கரை மற்றும் நொறுக்கிய நிலக்கடலை நிரப்பிய கரி-வறுத்த அப்பம், உள்ளூரில் ban chien kueh அல்லது apam balik என அழைக்கப்படுகிறது. ஒவ்வொரு துண்டும் ஆர்டர் செய்ததும் கரியில் சமைக்கப்பட்டு, வெளியே மொறுமொறுப்பாகவும் உள்ளே மென்மையாகவும் இருந்து, முக்கோணங்களாக வெட்டப்படுகிறது. உச்ச நேரங்களில் நீண்ட வரிசைகள் பொதுவானவை. MICHELIN Bib Gourmand தேர்வு."
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

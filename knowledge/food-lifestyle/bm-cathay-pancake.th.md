@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: บูกิตเมอร์ตาจัม ปีนัง"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "อาปัมบาลิก — แพนเค้กย่างพับครึ่งที่มีขอบสีทองกรอบ"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "จันทร์-พุธ และ เสาร์-อาทิตย์ 12:00-17:00; พฤหัสบดี-ศุกร์ ปิด (ตาม MICHELIN; แหล่งข้อมูลท้องถิ่นบางแห่งระบุวันที่แตกต่างกันเล็กน้อย โปรดยืนยันก่อนไป)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "อาปัมบาลิก (apam balik／ban chien kueh) - แพนเค้กจีนย่างถ่านไส้น้ำตาลและถั่วลิสงบด เป็นเมนูเดียวของรถเข็นนี้"
+  reviewSummary: "รถเข็นริมทางที่เปิดมานานหน้าศูนย์อาหาร Cathay ในบูกิตเมอร์ตาจัม ขายเพียงเมนูเดียวมาตั้งแต่ทศวรรษ 1960: แพนเค้กย่างถ่านไส้น้ำตาลและถั่วลิสงบด คนท้องถิ่นเรียกว่า ban chien kueh หรือ apam balik แต่ละชิ้นทำสดตามสั่งบนเตาถ่าน กรอบนอกนุ่มเหนียวใน แล้วตัดเป็นสามเหลี่ยม ช่วงพีคมักมีคิวยาว เมนูที่ได้รับเลือก MICHELIN Bib Gourmand"
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"

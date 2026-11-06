@@ -2,6 +2,11 @@
 topicId: MY-MICH-0013
 title: "Anak Baba：Brickfields 的 Bib Gourmand 娘惹餐馆"
 slug: "anak-baba"
+hero: "/media/food/anak-baba/hero.webp"
+heroAlt: "椰浆饭（nasi lemak）——椰浆米饭配参巴酱、炸江鱼仔、花生、水煮蛋和黄瓜"
+heroCredit: "Aldrin Rachman Pradana / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-white-plate-topped-with-rice-and-meat-B_1GyWCsc1s"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -39,6 +44,16 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Little India"
 updated: 2026-11-06
+place:
+  address: "159 Jalan Sultan Abdul Samad, Brickfields, 50470 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Anak%20Baba%2C%20Brickfields%2C%20Kuala%20Lumpur"
+  priceRange: "$ (budget)"
+  hours: "每日 7:00 AM - 10:00 PM"
+  service: ["dine-in"]
+  mustOrder: "椰浆饭配姜黄炸鸡（ayam goreng kunyit），佐以参巴酱（sambal）和空心菜"
+  reviewSummary: "位于Brickfields小印度区一家温馨的小店，自2018年起供应南方娘惹（Peranakan）菜，融合印度马来风味与中式影响。MICHELIN授予其必比登推介（Bib Gourmand），并特别推荐其椰浆饭——椰浆米饭带来细腻的甜味，与多汁的姜黄炸鸡形成对比。"
+  phone: "+60 3-2022 0038"
 sources:
   - title: "Anak Baba (Brickfields)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/anak-baba"

@@ -39,6 +39,18 @@ keywords:
   - "char kway teow"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "10 Lebuh Dickens, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bee%20Hwa%20Cafe%2C%20George%20Town%2C%20Penang"
+  priceRange: "$"
+  hours: "Lun-Sáb 7:00-15:00; cerrado Dom"
+  halal: "halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char kway teow (versión halal salteada al wok con ajo picado y una mezcla de soja de la casa, usando pollo y marisco en lugar de cerdo y manteca); también hae mee (sopa de fideos con gambas) con caldo de marisco fresco a diario y pasta de curry de la casa"
+  reviewSummary: "Un puesto de kopitiam (cafetería) de larga trayectoria en George Town galardonado con un MICHELIN Bib Gourmand en la selección de Malasia 2026. Es conocido por su versión halal de los clásicos de la comida callejera de Penang, sustituyendo el cerdo y la manteca por pollo y marisco. El char kway teow y el hae mee son sus platos más destacados; abre de la mañana a la tarde y el char kway teow suele agotarse antes del cierre."
+  phone: "+60 12-854 0005"
 sources:
   - title: "Bee Hwa Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/bee-hwa-cafe"

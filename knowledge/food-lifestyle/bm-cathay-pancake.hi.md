@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0059"
 title: "BM Cathay Pancake: बुकित मेरताजम, पेनांग"
 slug: "bm-cathay-pancake"
+hero: "/media/food/bm-cathay-pancake/hero.webp"
+heroAlt: "अपम बालिक — कुरकुरे सुनहरे किनारे वाला आधा मोड़ा हुआ तवा पैनकेक"
+heroCredit: "Yun Huang Yong / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Giant_Apam_Balik.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -40,6 +45,17 @@ keywords:
   - "Penang mainland"
 
 updated: 2026-11-06
+place:
+  address: "Next to the entrance of Cathay Food Court, Jalan Aston, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Cathay%20Pancake%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Under RM5 per piece (around RM1.20-1.50 each)"
+  hours: "सोम-बुध और शनि-रवि 12:00-17:00; गुरु-शुक्र बंद (MICHELIN के अनुसार; कुछ स्थानीय स्रोत थोड़े अलग दिन बताते हैं, इसलिए जाने से पहले पुष्टि कर लें)"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "अपम बालिक (apam balik / ban chien kueh) - चीनी और पिसी मूंगफली की भराई वाला कोयले पर भुना चीनी पैनकेक; यह इस ठेले का इकलौता व्यंजन है"
+  reviewSummary: "बुकित मेरतजाम में Cathay फूड कोर्ट के बाहर एक पुराना सड़क किनारे का ठेला, जो 1960 के दशक से केवल एक ही चीज़ बेचता है: चीनी और पिसी मूंगफली से भरा कोयले पर भुना पैनकेक, जिसे स्थानीय लोग ban chien kueh या apam balik कहते हैं। हर टुकड़ा ऑर्डर पर कोयले पर पकाया जाता है, बाहर से कुरकुरा और अंदर से चिपचिपा-मुलायम, फिर तिकोने टुकड़ों में काटा जाता है। व्यस्त समय में लंबी कतारें आम हैं। MICHELIN Bib Gourmand चयन।"
+  phone: "+60 16-411 1381"
 sources:
   - title: "BM Cathay Pancake"
     url: "https://guide.michelin.com/en/pulau-pinang/seberang-perai/restaurant/bm-cathay-pancake"
