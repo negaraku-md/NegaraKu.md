@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: el puesto Bib Gourmand a la brasa de George Town"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — fideos planos fritos al carbón con gambas sobre una hoja de plátano"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "Mar-Sáb 12:00-18:00; cerrado Dom y Lun; suele cerrar antes una vez agotado"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Char koay teow frito al carbón, versión picante, con los extras de gambas y berberechos"
+  reviewSummary: "Una institución de comida callejera de larga trayectoria en George Town (su dueño, Tan Chooi Hong, lleva más de 50 años cocinando) famosa por el char koay teow preparado sobre fuego de carbón, lo que le da un wok hei pronunciado. Una reseña en la Guía MICHELIN recomienda la versión picante y señala que los extras de gambas y berberechos valen el costo adicional. Hay que contar con colas antes de la apertura a las 12 del mediodía y esperas de hasta unos 45-60 minutos, más largas los fines de semana; el puesto cierra una vez agotado."
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

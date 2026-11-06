@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: 북인도 요리를 위한 페낭의 빕 구르망"
 seoTitle: "Sardaarji, 페낭 펀자브 레스토랑"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "naan을 곁들인 크리미한 butter chicken 커리"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji는 페낭 조지타운의 Lebuh China에 있는 펀자브·북인도 레스토랑으로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. 2018년 은퇴 후의 프로젝트로 시작되었으며, fish amritsari와 palak paneer 같은 요리로 유명하고, 색색의 장식과 음악이 가득한 공간에서 제공됩니다."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "매일 12:00-15:00 및 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari(붉은돔), naan을 곁들인 butter chicken, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "George Town의 Little India에 자리한 오래된 펀자브 / 북인도 음식점으로 MICHELIN Bib Gourmand에 선정되었습니다. 손님들은 정통 북인도 요리, 푸짐한 양, 그리고 대표 메뉴인 fish amritsari, butter chicken, dal makhani를 밝고 다채로운 분위기의 식당에서 즐길 수 있다고 칭찬합니다."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles: MICHELIN Bib Gourmand"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "소고기 국수 — 맑은 한방 육수에 담긴 면과 소고기"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles는 쿠알라룸푸르 도심 Jalan Tun Tan Cheng Lock에 있는 MICHELIN Guide Bib Gourmand 국수 가게로, 1949년의 노점에서 비롯되었으며, 쫄깃한 소고기 완자, 소고기 편육, 부드러운 소 양을 선택한 국수와 집에서 만든 칠리소스와 함께 내는 것으로 알려져 있다."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "월·화·목~일 10:30~16:30; 수요일 휴무"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "소고기 국수(국물 또는 비빔)에 넓은 hor fun, bihun, 또는 쫄깃한 Hakka noodles 중 선택; 수제 소고기 완자; 소고기 편육; 소 양; 가게 특제 칠리 소스와 함께"
+  reviewSummary: "Petaling Street / Chinatown에서 오래 운영되어 온 노점(1949년부터)으로 MICHELIN Bib Gourmand를 받았으며, 국물 또는 향긋한 비빔 소스로 내는 소고기 국수로 유명하다. 쫄깃한 수제 소고기 완자, 부드러운 소고기 편육, 소 양이 곁들여진다. 평론가들은 음식을 꾸준히 높게 평가하며, 흔한 불만은 비좁고 더운 좌석과 점심 피크 시간대의 길고 가림막 없는 줄이다."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

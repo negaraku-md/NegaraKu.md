@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles: MICHELIN Bib Gourmand"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "மாட்டிறைச்சி நூடுல் சூப் — தெளிவான மூலிகை குழம்பில் நூடுல்ஸும் மாட்டிறைச்சியும்"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles என்பது கோலாலம்பூர் நகர மையத்தில், Jalan Tun Tan Cheng Lock-இல் உள்ள ஒரு MICHELIN Guide Bib Gourmand நூடுல்ஸ் கடை; 1949-ஆம் ஆண்டின் ஒரு உணவுக் கடையிலிருந்து தோன்றியது; பிசுபிசுப்பான மாட்டிறைச்சி உருண்டைகள், நறுக்கிய மாட்டிறைச்சி, மென்மையான மாட்டு குடல் ஆகியவற்றுக்கும், பலவகை நூடுல்ஸ் மற்றும் வீட்டில் செய்த மிளகாய் சாஸுடன் வழங்கப்படுவதற்கும் பெயர் பெற்றது."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "திங்கள், செவ்வாய், வியாழன்-ஞாயிறு 10:30-16:30; புதன் மூடப்படும்"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "மாட்டிறைச்சி நூடுல்ஸ் (சூப் அல்லது உலர்ந்தது) — அகலமான hor fun, bihun, அல்லது நெகிழ்வான Hakka நூடுல்ஸ் தேர்வுடன்; கையால் செய்த மாட்டிறைச்சி உருண்டைகள்; துண்டிக்கப்பட்ட மாட்டிறைச்சி; மாட்டின் குடல்; கடையின் சிறப்பு மிளகாய் சாஸுடன்"
+  reviewSummary: "Petaling Street / Chinatown-இல் நீண்டகாலமாக இயங்கிவரும் ஒரு கடை (1949 முதல்), MICHELIN Bib Gourmand விருது பெற்றது, சூப்பிலோ அல்லது மணம் வீசும் உலர்ந்த சாஸிலோ பரிமாறப்படும் மாட்டிறைச்சி நூடுல்ஸுக்கு பெயர் பெற்றது; இதனுடன் நெகிழ்வான கையால் செய்த மாட்டிறைச்சி உருண்டைகள், மென்மையான துண்டிக்கப்பட்ட மாட்டிறைச்சி மற்றும் மாட்டின் குடல். விமர்சகர்கள் உணவுக்கு உயர்ந்த மற்றும் நிலையான மதிப்பீட்டை அளிக்கின்றனர்; பொதுவான புகார்கள் நெரிசலான, வெப்பமான இருக்கைகள் மற்றும் மதிய உணவு நேர உச்சத்தில் நீண்ட, மறைப்பற்ற வரிசைகள்."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

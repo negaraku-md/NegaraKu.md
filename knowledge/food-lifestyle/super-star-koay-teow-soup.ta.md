@@ -44,6 +44,20 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "天皇雞腳粿條湯"
+  address: "78 Lebuh Kimberley, 10100 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
+  priceRange: "$"
+  hours: "திங்கள், செவ்வாய், வியாழன்-ஞாயிறு 8:00-22:00; புதன் மூடியிருக்கும் (MICHELIN வழிகாட்டியின்படி; பிற ஆதாரங்கள் வெவ்வேறு நேரங்களைக் குறிப்பிடுகின்றன, செல்வதற்கு முன் உறுதிப்படுத்தவும்)"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "கோழி, பன்றி இறைச்சி, மீன் பந்துகள் மற்றும் பன்றி ஈரலுடன் கூடிய koay teow soup; கறிக்கோழி கால்கள் (soy-marinated)"
+  reviewSummary: "Lebuh Kimberley-இல் 1960 முதல் இயங்கி வரும் மூன்றாம் தலைமுறை தெரு உணவு வண்டி, MICHELIN வழிகாட்டியில் பட்டியலிடப்பட்டு 'Worth Queueing For.' எனக் குறிக்கப்பட்டுள்ளது. நீண்ட நேரம் கொதிக்க வைக்கப்பட்ட கோழி சாறில், நறுக்கிய கோழி, பன்றி இறைச்சி, மீன் பந்துகள் மற்றும் பன்றி ஈரலுடன் தயாரிக்கப்படும் koay teow soup-க்காகவும், கரி நெருப்பில் வேகவைத்த சோயா ஊறவைத்த கோழி கால்களுக்காகவும் இது மிகவும் பிரபலமானது. உச்சநேரங்களில் வரிசையில் நிற்க வேண்டியிருப்பதை பார்வையாளர்கள் பொதுவாகக் குறிப்பிடுகின்றனர்."
+  facebook: "https://www.facebook.com/leeming8507/"
+  phone: "+60 16-455 5165"
 sources:
   - title: "Super Star Koay Teow Soup"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/super-star-koay-teow-soup"

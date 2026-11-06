@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: Bib Gourmand de Penang"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "Curry mee de Penang — fideos en un caldo picante de curry y coco con berberechos y bolsitas de tofu"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "Mar-Dom 6:00 AM-9:00 AM; cerrado los lunes (según MICHELIN; algunos listados indican que venden hasta ~11 AM)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Curry mee con berberechos de sangre, sepia, bolsitas de tofu y pudín de sangre de cerdo"
+  reviewSummary: "Un puesto de gestión familiar en un patio de comidas de Taman Bukit, en Bukit Mertajam, que ha vendido curry mee durante casi 40 años y fue galardonado con un MICHELIN Bib Gourmand en la selección de Kuala Lumpur y Penang de 2024. Es conocido por un caldo cremoso de leche de coco con pasta de curry picante y berberechos de sangre medio cocidos; el bol también incluye fideos hokkien y de arroz, brotes de soja, gambas, sepia, bolsitas de tofu y pudín de sangre de cerdo. Atrae una cola larga, en su mayoría de gente local, y suele agotarse temprano, por lo que se recomienda llegar poco después de la apertura."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

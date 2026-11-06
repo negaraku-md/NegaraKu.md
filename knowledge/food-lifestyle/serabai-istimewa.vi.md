@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: Quầy serabai Bib Gourmand của Penang"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai — bánh gạo nước cốt dừa mềm trong nước sốt đường thốt nốt ngọt"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "Thứ Tư-Chủ Nhật 6:30 sáng - 10 giờ sáng; đóng cửa Thứ Hai & Thứ Ba. Serabai thường bán hết trước 10 giờ sáng, nên hãy đến sớm."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai (bánh gạo nước cốt dừa) rưới siro đường thốt nốt; có loại thường, thêm trứng, thêm đường nâu, hoặc phần tổng hợp để thử cả ba"
+  reviewSummary: "Một quầy hàng gia đình hoạt động lâu năm (từ những năm 1970) tại khu ẩm thực Astaka Taman Tun Sardon, được nhiều nơi đưa tin là quầy bánh (kueh) Mã Lai đầu tiên có mặt trong MICHELIN Guide, nơi quầy giữ danh hiệu Bib Gourmand. Món serabai đặc trưng là loại bánh gạo nước cốt dừa mềm, ăn cùng siro đường thốt nốt ngọt, một món điểm tâm địa phương được ưa chuộng. Quầy chỉ mở vào buổi sáng từ Thứ Tư đến Chủ Nhật và thường bán hết trước 10 giờ sáng."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa là một quầy ẩm thực đường phố lâu đời ở George Town, Penang, nằm trong danh sách Bib Gourmand của MICHELIN Guide, nổi tiếng với serabai — bánh gạo nước cốt dừa dùng kèm nước chấm si-rô đường thốt nốt (gula melaka). Hoạt động từ thập niên 1970, quầy bán món này theo phiên bản thường, trứng và đường nâu, và thường chỉ buôn bán vào sáng sớm."
 seoTitle: "Serabai Istimewa, Penang (Bib Gourmand)"
 answer: "Serabai Istimewa là một quầy ẩm thực đường phố ở George Town, Penang, được MICHELIN Guide Kuala Lumpur & Penang xếp hạng Bib Gourmand cho món ăn đáng đồng tiền. Quầy bán serabai — bánh gạo nước cốt dừa mềm chấm si-rô đường thốt nốt (gula melaka) — từ thập niên 1970, có các phiên bản thường, trứng hoặc đường nâu, và nên ghé trước 10am."

@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak: George Town, Penang"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — wok-fried radish-cake cubes with egg and preserved radish"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -39,6 +44,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "Mon, Tue, Fri, Sat, Sun 07:00–12:00; closed Wed & Thu"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak (with egg or double egg; optional chilli/hot sauce)"
+  reviewSummary: "A long-running Teochew street stall on Lorong Macalister, started by the sisters' father in 1963 and now run by the Yao sisters; MICHELIN Bib Gourmand listed. Steamed rice/radish cake cubes are wok-fried over high heat for smoky 'wok hei' with soy sauce, egg, bean sprouts and preserved radish, with optional chilli. Reviewers highlight the silky texture, smoky char and the salty lift from the preserved radish; some say it grows on you rather than impressing immediately. Expect a queue at peak hours and arrive early as it can sell out."
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee：ペナンのビブグルマン"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "ペナンの curry mee — スパイシーなココナッツカレースープの麺に赤貝と油揚げを添えて"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "火-日 6:00 AM-9:00 AM；月曜定休（MICHELIN による；一部の掲載では約 11 AM まで販売とする）"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "赤貝、イカ、油揚げ、豚血のプリンを添えた curry mee"
+  reviewSummary: "Bukit Mertajam の Taman Bukit フードコートにある家族経営の屋台で、約 40 年にわたり curry mee を売り続け、2024 年クアラルンプール＆ペナンのセレクションで MICHELIN ビブグルマン（Bib Gourmand）に選ばれました。スパイシーなカレーペーストを効かせたクリーミーなココナッツミルクのスープと半生の赤貝で知られています。どんぶりにはホッケン麺とビーフン、もやし、エビ、イカ、油揚げ、豚血のプリンも入っています。地元客を中心とした長い行列ができ、早くに売り切れる傾向があるため、開店後すぐに訪れることをおすすめします。"
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

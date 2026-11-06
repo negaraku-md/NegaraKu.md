@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: Gerai Bib Gourmand George Town yang Digoreng dengan Arang"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — kuetiau leper goreng arang dengan udang di atas daun pisang"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "Sel-Sab 12:00-18:00; tutup Ahad & Isnin; selalunya tutup lebih awal sebaik sahaja habis dijual"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Char koay teow goreng arang, versi pedas, dengan tambahan udang dan kerang"
+  reviewSummary: "Sebuah institusi makanan jalanan George Town yang telah lama beroperasi (pemilik Tan Chooi Hong, menggoreng lebih 50 tahun) terkenal dengan char koay teow yang digoreng di atas api arang, menghasilkan wok hei yang ketara. Senarai Panduan MICHELIN mengesyorkan versi pedas dan menyatakan bahawa tambahan udang serta kerang berbaloi dengan kos tambahan. Jangkakan beratur sebelum pembukaan pada 12 tengah hari dan menunggu sehingga sekitar 45-60 minit, lebih lama pada hujung minggu; gerai ini tutup sebaik sahaja habis dijual."
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: 숯불로 볶는 조지타운의 빕 구르망 노점"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — 바나나 잎 위에 새우를 올린 숯불 볶음 납작면"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "화~토 12:00-18:00; 일·월 휴무; 다 팔리면 일찍 닫는 경우가 많음"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "숯불에 볶은 char koay teow, 매운맛 버전, 새우와 꼬막 추가 토핑"
+  reviewSummary: "조지타운에서 오랫동안 운영되어 온 길거리 음식 명소(주인 Tan Chooi Hong, 50년 넘게 볶아 옴)로, 숯불에 조리해 뚜렷한 wok hei(불맛)를 내는 char koay teow로 유명합니다. MICHELIN 가이드 등재 정보는 매운맛 버전을 추천하며, 새우와 꼬막 추가 토핑은 추가 비용을 낼 만한 가치가 있다고 합니다. 정오 12시 개점 전부터 줄이 서고 대기 시간은 약 45~60분, 주말에는 더 길 수 있으니 참고하세요. 노점은 다 팔리면 문을 닫습니다."
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

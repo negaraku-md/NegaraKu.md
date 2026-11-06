@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow：乔治市用炭火翻炒的米其林必比登摊位"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow——炭火炒的粿条，配虾，盛在香蕉叶上"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "周二至周六 12:00-18:00；周日及周一休息；售完常会提早收摊"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "炭火炒粿条，辣味版本，加配虾和鲜蚶"
+  reviewSummary: "乔治市一家历史悠久的街头小吃老字号（店主陈水鸿，炒粿条逾50年），以炭火炒制的char koay teow闻名，带有浓郁的wok hei（镬气）。MICHELIN指南的推荐建议点辣味版本，并指加配虾和鲜蚶物有所值。中午12点开档前就会排起长队，等候时间可达约45-60分钟，周末更久；售完即收摊。"
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

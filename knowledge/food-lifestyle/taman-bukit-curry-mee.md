@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: Penang Bib Gourmand"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "Penang curry mee — noodles in a spicy coconut-curry broth with cockles and tofu puffs"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -38,6 +43,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "Tue-Sun 6:00 AM-9:00 AM; closed Monday (per MICHELIN; some listings report selling until ~11 AM)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Curry mee with blood cockles, cuttlefish, tofu puffs and pork-blood pudding"
+  reviewSummary: "A family-run stall in a Taman Bukit food court in Bukit Mertajam that has sold curry mee for almost 40 years, awarded a MICHELIN Bib Gourmand in the 2024 Kuala Lumpur & Penang selection. It is known for a creamy coconut-milk soup with spicy curry paste and half-cooked blood cockles; the bowl also comes with Hokkien and rice noodles, bean sprouts, prawns, cuttlefish, tofu puffs and pig's-blood pudding. It draws a long, mostly local queue and tends to sell out early, so arriving soon after opening is advised."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

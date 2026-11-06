@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa：槟城的 Bib Gourmand 煎蕊饼摊"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai（沙拉白）——一款柔软的椰浆米浆煎饼，淋上香甜的棕榈糖浆"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "周三至周日 上午6:30 - 上午10:00；周一与周二休息。Serabai（沙拉白）常在上午10点前售罄，请早到。"
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai（椰浆米浆煎饼）配棕榈糖浆；有原味、加蛋、或加红糖，也可点综合拼盘一次尝遍三种"
+  reviewSummary: "这是位于 Astaka Taman Tun Sardon 熟食中心的一家老字号家庭摊位（自1970年代起经营），广泛报道称其为首家登上《米其林指南》（MICHELIN Guide）的马来糕点摊，并在此摘得必比登推介（Bib Gourmand）。其招牌 serabai（椰浆米浆煎饼）是一款柔软的煎饼，佐以香甜的棕榈糖浆食用，是深受欢迎的当地早餐。摊位仅于周三至周日上午营业，且常在上午10点前售罄。"
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa 是槟城乔治市一家历史悠久的街头美食摊，入选 MICHELIN Guide 的 Bib Gourmand 名单，以 serabai 闻名——一种椰浆米浆饼，佐以椰糖（gula melaka）糖浆蘸酱。自 1970 年代经营至今，摊位提供原味、鸡蛋和红糖三种版本，通常只在清晨营业。"
 seoTitle: "Serabai Istimewa，槟城（Bib Gourmand）"
 answer: "Serabai Istimewa 是槟城乔治市一家街头美食摊，入选 MICHELIN Guide Kuala Lumpur & Penang 的 Bib Gourmand，表彰物有所值的料理。自 1970 年代起售卖 serabai——一种柔软的椰浆米浆饼，蘸椰糖（gula melaka）糖浆食用——提供原味、鸡蛋或红糖版本，最宜在 10am 之前前往。"

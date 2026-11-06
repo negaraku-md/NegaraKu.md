@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak: จอร์จทาวน์ ปีนัง"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — ขนมหัวไชเท้าหั่นเต๋าผัดกระทะกับไข่และหัวไชเท้าดอง"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "จันทร์ อังคาร ศุกร์ เสาร์ อาทิตย์ 07:00-12:00; ปิดวันพุธและวันพฤหัสบดี"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak (ใส่ไข่หรือไข่สองฟอง; เลือกใส่พริก/ซอสเผ็ดได้)"
+  reviewSummary: "แผงลอยริมถนนสไตล์ Teochew ที่เปิดมายาวนานบนถนน Lorong Macalister เริ่มต้นโดยพ่อของสองพี่น้องในปี 1963 และปัจจุบันบริหารโดยพี่น้องตระกูล Yao; ได้รับการขึ้นทะเบียน MICHELIN Bib Gourmand นำขนมเค้กแป้งข้าว/หัวไชเท้านึ่งหั่นเต๋ามาผัดในกระทะไฟแรงเพื่อให้ได้กลิ่น 'wok hei' หอมควัน พร้อมซีอิ๊ว ไข่ ถั่วงอก และหัวไชเท้าดอง เลือกใส่พริกได้ นักรีวิวชื่นชมเนื้อสัมผัสที่เนียนนุ่ม กลิ่นควันหอมไหม้ และรสเค็มกลมกล่อมจากหัวไชเท้าดอง; บางคนบอกว่ายิ่งกินยิ่งอร่อยมากกว่าจะประทับใจตั้งแต่คำแรก ควรเตรียมต่อคิวในช่วงเวลาเร่งด่วนและมาแต่เช้าเพราะอาจขายหมด"
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

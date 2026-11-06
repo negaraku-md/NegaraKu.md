@@ -44,6 +44,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail (TTDI), 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Terra+Dining+91+Jalan+Aminuddin+Baki+Taman+Tun+Dr+Ismail+Kuala+Lumpur"
+  reviewsUrl: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"
+  priceRange: "Set tasting menu (one seating); reported around RM398++ to RM568++ per person depending on the current menu, with an optional wine pairing (approx. RM238++) or zero-proof pairing (approx. RM268); confirm the current price with the restaurant"
+  hours: "मंगल-शनि शाम 6 बजे से (रात में अंतिम बैठने का समय); रविवार व सोमवार बंद"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "केवल एक सेट tasting menu है (आरक्षण आवश्यक) - फ्रेंच झुकाव वाला, मलेशियाई जड़ों वाला एक बहु-कोर्स मेनू जो एकमात्र विकल्प है. विभिन्न tasting सत्रों में उल्लेखित सिग्नेचर कोर्स में laksa-sabayon और Sarawak laksa XO sauce के साथ स्क्विड, masak lemak beurre blanc में एक 'mystery fish', rendang बीफ़ चीक के साथ pureblood wagyu, और asam laksa के स्वाद पर आधारित एक lobster bisque शामिल हैं."
+  reviewSummary: "TTDI में स्वयं-प्रशिक्षित chef-मालिक Chong Yu Cheng ('YC') का एक छोटा काउंटर-शैली का fine-dining कक्ष, जिसे 2026 कुआलालंपुर व पेनांग गाइड में अपना पहला MICHELIN star मिला. समीक्षक इसे आधुनिक मलेशियाई व्यंजन बताते हैं - laksa, rendang, masak lemak और अन्य स्थानीय व्यंजन जिन्हें यूरोपीय/फ्रेंच तकनीक से नए सिरे से प्रस्तुत किया गया है - जो एक निरंतर विकसित होते tasting menu के रूप में परोसे जाते हैं, और अक्सर इसे कठोर के बजाय सुकून देने वाला कहते हैं. star मिलने के बाद, सीटें काफ़ी पहले ही बुक हो जाने की खबर है; मेनू और कीमत समय के साथ बदलते रहते हैं, इसलिए विवरण सीधे पुष्टि कर लेना चाहिए."
+  website: "https://www.terra-dining.com"
+  instagram: "https://www.instagram.com/terradining.kl/"
+  phone: "+60 11-7072 7777"
 sources:
   - title: "Terra Dining"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"

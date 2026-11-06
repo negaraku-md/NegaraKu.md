@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "‏Teksen: مؤسسة الطهي الكانتوني الحائزة على Bib Gourmand في George Town"
 seoTitle: "‏Teksen، George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "شرائح لحم بطن الخنزير المشوي مرتين المقرمش فوق الأرز مع الخضار"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "مفتوح يوميًا عدا الثلاثاء؛ الغداء حوالي 11:30-14:30 والعشاء حوالي 17:30-20:00. تختلف الأوقات حسب المصدر وتنفد الأطباق المميزة مبكرًا، لذا اتصل مسبقًا."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "لحم بطن الخنزير المشوي مرتين (الكلاسيكي أو المقلي مع chili padi)، التوفو المصنوع منزليًا المقلي المقرمش / التوفو المقلي مع شريحة لحم في قدر فخاري، حساء اليوم المطهو على نار هادئة مرتين، سمك الكاري assam (الحامض الحار)"
+  reviewSummary: "مؤسسة Cantonese zi char تقليدية في منزل تجاري مُجدَّد في George Town، تعمل منذ عام 1965 وحاصلة على MICHELIN Bib Gourmand. تشتهر بالطهي الكانتوني القديم المُتقن مع لمسات محلية متأثرة بـ Peranakan، يُقدَّم على طاولات مستديرة مع مقاعد داخلية وعلى الرصيف. يُعد لحم بطن الخنزير المشوي مرتين المميز الطبق الأكثر ذكرًا وغالبًا ما ينفد؛ المطعم مزدحم وكثيرًا ما يتطلب الانتظار في الطابور، مع جلسات محدودة للغداء والعشاء."
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "‏Teksen مطعم كانتوني عريق يقع في Lebuh Carnarvon في George Town، Penang، وهو حائز على MICHELIN Bib Gourmand تقديرًا لطهي جيد الجودة وبسعر مناسب. يعمل منذ عام 1965، ويُعرف بأطباقه الكانتونية التقليدية المُتقنة إلى جانب أطباق fusion بلمسة محلية — وطبقه المميّز هو التوفو المقلي محلي الصنع مع الأنشوجة المحلية المجففة."
 answer: "‏Teksen مطعم كانتوني غير رسمي في 18 & 20 Lebuh Carnarvon في George Town، Penang، حائز على MICHELIN Bib Gourmand — جائزة الدليل لطهي جيد الجودة وبسعر مناسب. مفتوح منذ عام 1965، ويقدّم أطباقًا كانتونية تقليدية إضافةً إلى أطباق fusion بلمسة محلية، وأشهر أطباقه هو التوفو المقلي محلي الصنع مع الأنشوجة المحلية المجففة. توقّع طابورًا في ساعات الذروة."
 keyTakeaways:

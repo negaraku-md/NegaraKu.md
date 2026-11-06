@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak: 페낭 조지타운"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — 계란과 무말랭이를 곁들인 웍에 볶은 무떡 큐브"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "월·화·금·토·일 07:00-12:00; 수·목 휴무"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak (계란 또는 계란 두 개 추가; 칠리/핫소스 선택 가능)"
+  reviewSummary: "Lorong Macalister에 자리한 오랜 역사의 Teochew(차오저우) 길거리 노점으로, 자매의 아버지가 1963년에 시작해 지금은 Yao 자매가 운영합니다. MICHELIN Bib Gourmand에 등재되었습니다. 쪄낸 쌀/무떡 큐브를 센 불에 웍으로 볶아 간장, 계란, 숙주, 무말랭이와 함께 스모키한 'wok hei'를 살려내며, 칠리는 선택할 수 있습니다. 평론가들은 매끄러운 식감, 스모키한 불맛, 그리고 무말랭이가 더해주는 짭조름한 감칠맛을 꼽습니다. 처음부터 강렬하다기보다 먹을수록 좋아지는 맛이라는 평도 있습니다. 피크 시간에는 줄을 서야 하며 품절될 수 있으니 일찍 방문하세요."
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

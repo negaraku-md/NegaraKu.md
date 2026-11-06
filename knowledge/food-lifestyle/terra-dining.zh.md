@@ -44,6 +44,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail (TTDI), 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Terra+Dining+91+Jalan+Aminuddin+Baki+Taman+Tun+Dr+Ismail+Kuala+Lumpur"
+  reviewsUrl: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"
+  priceRange: "Set tasting menu (one seating); reported around RM398++ to RM568++ per person depending on the current menu, with an optional wine pairing (approx. RM238++) or zero-proof pairing (approx. RM268); confirm the current price with the restaurant"
+  hours: "周二至周六晚上6点起（晚间最后一轮入座）；周日及周一休息"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "餐厅只提供一套 tasting menu（须预订）——一份以法式技法为倾向、根植于马来西亚风味的多道式套餐，也是唯一的选择。多次品鉴中被提及的招牌菜式包括搭配 laksa-sabayon 与 Sarawak laksa XO sauce 的鱿鱼、以 masak lemak beurre blanc 烹制的'神秘鱼'、搭配 rendang 牛颊肉的纯血 wagyu，以及以 asam laksa 风味为基底的龙虾浓汤。"
+  reviewSummary: "这是一家位于 TTDI 的小型吧台式 fine-dining 餐厅，出自自学成才的主厨兼东主 Chong Yu Cheng（'YC'）之手，在 2026 年吉隆坡与槟城指南中摘得首颗 MICHELIN star。评论者形容这是现代马来西亚料理——laksa、rendang、masak lemak 及其他本地菜式以欧式/法式技法重新诠释——以一套不断演变的 tasting menu 呈现，并常形容它令人感到慰藉而非拘谨。自摘星以来，座位据报须提前许久预订；菜单与价格会随时间变动，故细节应直接向餐厅确认。"
+  website: "https://www.terra-dining.com"
+  instagram: "https://www.instagram.com/terradining.kl/"
+  phone: "+60 11-7072 7777"
 sources:
   - title: "Terra Dining"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"

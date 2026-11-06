@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: George Town-இன் Bib Gourmand கான்டோனீஸ் உணவக நிறுவனம்"
 seoTitle: "Teksen, George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "மொறுமொறுப்பான இருமுறை வறுத்த பன்றி இறைச்சி வயிறு சோற்றின் மேல் கீரையுடன் துண்டுகளாக வெட்டப்பட்டது"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "செவ்வாய்க்கிழமை தவிர தினமும் திறந்திருக்கும்; மதிய உணவு சுமார் 11:30-14:30, இரவு உணவு சுமார் 17:30-20:00. நேரங்கள் மூலங்களுக்கேற்ப மாறுபடும், சிறப்பு உணவுகள் விரைவில் விற்றுத் தீர்ந்துவிடும், எனவே முன்கூட்டியே அழைக்கவும்."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "இருமுறை வறுத்த பன்றி இறைச்சி வயிறு (கிளாசிக் அல்லது chili padi உடன் வறுத்தது), ஆழமாக வறுத்த வீட்டில் தயாரிக்கப்பட்ட டோஃபு / களிமண் பானையில் கட்லெட்டுடன் வறுத்த டோஃபு, அன்றைய இருமுறை வேகவைத்த சூப், assam (புளிப்பு-காரம்) கறி மீன்"
+  reviewSummary: "புதுப்பிக்கப்பட்ட George Town கடைவீட்டில் அமைந்துள்ள ஒரு பாரம்பரிய Cantonese zi char நிறுவனம், 1965 முதல் இயங்கிவருகிறது, MICHELIN Bib Gourmand விருது பெற்றது. உள்ளூர், Peranakan தாக்கம் கொண்ட தொடுதல்களுடன் சிறப்பாக தயாரிக்கப்பட்ட பழைய பாணி Cantonese சமையலுக்காக அறியப்படுகிறது, உட்புற மற்றும் நடைபாதை இருக்கைகளுடன் வட்ட மேசைகளில் பரிமாறப்படுகிறது. சிறப்பு இருமுறை வறுத்த பன்றி இறைச்சி வயிறு மிகவும் அதிகம் குறிப்பிடப்படும் உணவாகும், பெரும்பாலும் விற்றுத் தீர்ந்துவிடும்; உணவகம் பரபரப்பாக இருக்கும், அடிக்கடி வரிசையில் நிற்க வேண்டியிருக்கும், மதிய உணவு மற்றும் இரவு உணவு அமர்வுகள் வரையறுக்கப்பட்டவை."
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen என்பது Penang-இன் George Town-இல் Lebuh Carnarvon-இல் நீண்டகாலமாக இயங்கிவரும் ஒரு கான்டோனீஸ் உணவகம்; தரமான, மதிப்புமிக்க சமையலுக்காக இது MICHELIN Bib Gourmand-ஐப் பெற்றுள்ளது. 1965 முதல் இயங்கிவரும் இது, நன்கு தயாரிக்கப்பட்ட பாரம்பரிய கான்டோனீஸ் உணவுகளுடன் உள்ளூர் சுவை கலந்த fusion உணவுகளுக்கும் பெயர் பெற்றது — அதன் சிக்னேச்சர் உணவு உள்ளூர் காய்ந்த நெத்திலி மீனுடன் சேர்த்த வீட்டில் செய்த பொரித்த டோஃபு."
 answer: "Teksen என்பது Penang-இன் George Town-இல் 18 & 20 Lebuh Carnarvon-இல் உள்ள ஒரு சாதாரண கான்டோனீஸ் உணவகம்; இது MICHELIN Bib Gourmand-ஐப் பெற்றுள்ளது — தரமான, மதிப்புமிக்க சமையலுக்கான வழிகாட்டியின் விருது. 1965 முதல் திறந்துள்ள இது, பாரம்பரிய கான்டோனீஸ் உணவுகளுடன் உள்ளூர் சுவை கலந்த fusion உணவுகளையும் பரிமாறுகிறது; அதன் மிகப் பிரபலமான உணவு உள்ளூர் காய்ந்த நெத்திலி மீனுடன் சேர்த்த வீட்டில் செய்த பொரித்த டோஃபு. பரபரப்பான நேரங்களில் வரிசையை எதிர்பார்க்கவும்."
 keyTakeaways:

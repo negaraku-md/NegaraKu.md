@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: पेनांग बिब गुरमों"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "पेनांग curry mee — मसालेदार नारियल-करी शोरबे में नूडल्स, कॉकल्स और टोफू पफ़्स के साथ"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "मंगल-रवि 6:00 AM-9:00 AM; सोमवार बंद (MICHELIN के अनुसार; कुछ सूचियों में लगभग 11 AM तक बिक्री बताई गई है)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "ब्लड कॉकल्स, कटलफ़िश, टोफू पफ़्स और सूअर-रक्त पुडिंग के साथ curry mee"
+  reviewSummary: "Bukit Mertajam के Taman Bukit फ़ूड कोर्ट में एक परिवार द्वारा चलाया जाने वाला स्टॉल, जो लगभग 40 वर्षों से curry mee बेच रहा है और जिसे 2024 कुआलालंपुर एवं पेनांग चयन में MICHELIN Bib Gourmand से सम्मानित किया गया। यह मसालेदार करी पेस्ट और आधे पके ब्लड कॉकल्स के साथ मलाईदार नारियल-दूध के सूप के लिए प्रसिद्ध है; कटोरे में हॉकियन और चावल के नूडल्स, अंकुरित सेम, झींगे, कटलफ़िश, टोफू पफ़्स और सूअर-रक्त पुडिंग भी आती है। यहाँ ज़्यादातर स्थानीय लोगों की लंबी कतार लगती है और यह जल्दी बिक जाता है, इसलिए खुलने के तुरंत बाद पहुँचने की सलाह दी जाती है।"
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

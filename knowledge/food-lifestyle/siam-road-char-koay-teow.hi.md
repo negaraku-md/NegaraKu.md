@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: जॉर्ज टाउन का कोयले पर भुना बिब गुरमों स्टॉल"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — केले के पत्ते पर झींगे के साथ कोयले पर तले चपटे नूडल्स"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "मंगल-शनि 12:00-18:00; रविवार और सोमवार बंद; बिक जाने पर अक्सर जल्दी बंद हो जाता है"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "कोयले पर तला char koay teow, तीखा संस्करण, झींगा और कॉकल (सीप) ऐड-ऑन के साथ"
+  reviewSummary: "जॉर्ज टाउन का एक लंबे समय से चलने वाला स्ट्रीट-फूड प्रतिष्ठान (मालिक Tan Chooi Hong, 50 साल से भी अधिक समय से तल रहे हैं) जो कोयले की आग पर पकाए गए char koay teow के लिए प्रसिद्ध है, जो स्पष्ट wok hei देता है। MICHELIN गाइड की सूची तीखे संस्करण की सिफारिश करती है और बताती है कि झींगा और कॉकल ऐड-ऑन अतिरिक्त खर्च के लायक हैं। दोपहर 12 बजे खुलने से पहले कतार और लगभग 45-60 मिनट तक का इंतज़ार, सप्ताहांत पर और भी अधिक, की अपेक्षा रखें; बिक जाने पर स्टॉल बंद हो जाता है।"
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

@@ -44,6 +44,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail (TTDI), 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Terra+Dining+91+Jalan+Aminuddin+Baki+Taman+Tun+Dr+Ismail+Kuala+Lumpur"
+  reviewsUrl: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"
+  priceRange: "Set tasting menu (one seating); reported around RM398++ to RM568++ per person depending on the current menu, with an optional wine pairing (approx. RM238++) or zero-proof pairing (approx. RM268); confirm the current price with the restaurant"
+  hours: "อังคาร-เสาร์ ตั้งแต่ 18.00 น. (รอบนั่งสุดท้ายในช่วงค่ำ); ปิดวันอาทิตย์และวันจันทร์"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "มี tasting menu แบบเซ็ตเพียงชุดเดียว (ต้องจองล่วงหน้า) - เมนูหลายคอร์สที่มีรากฐานแบบมาเลเซียและโน้มเอียงไปทางฝรั่งเศส ซึ่งเป็นตัวเลือกเดียวที่มี คอร์สซิกเนเจอร์ที่มีรายงานจากหลายรอบการชิม ได้แก่ ปลาหมึกกับ laksa-sabayon และ Sarawak laksa XO sauce, 'mystery fish' ใน masak lemak beurre blanc, pureblood wagyu กับแก้มเนื้อ rendang และ lobster bisque ที่สร้างบนรสชาติของ asam laksa"
+  reviewSummary: "ห้องอาหาร fine-dining ขนาดเล็กสไตล์เคาน์เตอร์ในย่าน TTDI จากเชฟเจ้าของร้านที่เรียนรู้ด้วยตนเอง Chong Yu Cheng ('YC') ซึ่งได้รับ MICHELIN star ดวงแรกในไกด์กัวลาลัมเปอร์และปีนังปี 2026 นักวิจารณ์บรรยายว่าเป็นอาหารมาเลเซียร่วมสมัย - laksa, rendang, masak lemak และอาหารท้องถิ่นอื่น ๆ ที่ตีความใหม่ด้วยเทคนิคยุโรป/ฝรั่งเศส - นำเสนอเป็น tasting menu ชุดเดียวที่ค่อย ๆ พัฒนาไป และมักเรียกว่าให้ความรู้สึกอบอุ่นสบายใจมากกว่าเคร่งขรึม นับตั้งแต่ได้ดาว มีรายงานว่าที่นั่งถูกจองเต็มล่วงหน้านาน เมนูและราคามีการเปลี่ยนแปลงไปตามเวลา จึงควรยืนยันรายละเอียดกับทางร้านโดยตรง"
+  website: "https://www.terra-dining.com"
+  instagram: "https://www.instagram.com/terradining.kl/"
+  phone: "+60 11-7072 7777"
 sources:
   - title: "Terra Dining"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"

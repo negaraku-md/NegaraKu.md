@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles: MICHELIN Bib Gourmand"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "Sup mi daging — mi dan daging dalam sup herba yang jernih"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles ialah sebuah gerai mi Bib Gourmand MICHELIN Guide di Jalan Tun Tan Cheng Lock di pusat bandar Kuala Lumpur, berasal daripada sebuah gerai makanan tahun 1949 dan terkenal dengan bebola daging lembu yang kenyal, hirisan daging lembu dan perut lembu yang lembut, dihidang bersama pilihan mi dan sos cili buatan sendiri."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "Isn, Sel, Kha-Ahd 10:30-16:30; tutup Rab"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Mi daging (sup atau kering) dengan pilihan hor fun lebar, bihun, atau mi Hakka yang kenyal; bebola daging buatan tangan; daging hirisan; perut daging; dengan sos cili istimewa kedai"
+  reviewSummary: "Gerai lama di Petaling Street / Chinatown (sejak 1949) yang menerima anugerah MICHELIN Bib Gourmand, terkenal dengan mi daging yang dihidang dalam sup atau sos kering yang beraroma, bersama bebola daging buatan tangan yang kenyal, daging hirisan yang lembut dan perut daging. Pengulas memberi penilaian tinggi dan konsisten terhadap makanannya; aduan biasa ialah tempat duduk yang sempit dan panas serta barisan beratur yang panjang tanpa perlindungan pada waktu puncak tengah hari."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

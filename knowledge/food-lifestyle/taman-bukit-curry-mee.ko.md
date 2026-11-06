@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: 페낭 빕 구르망"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "페낭 curry mee — 매콤한 코코넛 카레 국물의 면에 꼬막과 유부를 곁들임"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "화-일 6:00 AM-9:00 AM; 월요일 휴무 (MICHELIN 기준; 일부 목록은 약 11 AM까지 판매한다고 전함)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "꼬막, 오징어, 유부, 돼지 선지 푸딩을 곁들인 curry mee"
+  reviewSummary: "Bukit Mertajam의 Taman Bukit 푸드코트에 있는 가족 운영 노점으로, 거의 40년 동안 curry mee를 팔아왔으며 2024 쿠알라룸푸르 & 페낭 셀렉션에서 MICHELIN 빕 구르망(Bib Gourmand)에 선정되었습니다. 매콤한 카레 페이스트를 넣은 크리미한 코코넛 밀크 국물과 반쯤 익힌 꼬막으로 유명합니다. 한 그릇에는 호키엔 면과 쌀국수, 숙주, 새우, 오징어, 유부, 돼지 선지 푸딩도 함께 나옵니다. 대부분 현지인으로 이뤄진 긴 줄이 늘어서고 일찍 품절되는 경향이 있어, 문을 연 직후에 방문하기를 권합니다."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji：槟城一家主打北印度菜的米其林必比登推介"
 seoTitle: "Sardaarji，槟城旁遮普餐厅"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "配 naan 饼的奶油 butter chicken 咖喱"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji 是槟城乔治市China街（Lebuh China）上一家旁遮普与北印度餐厅，获得《米其林指南》必比登推介（Bib Gourmand）。它于2018年作为退休后的事业起步，以 fish amritsari 和 palak paneer 等菜式闻名，在色彩缤纷、乐声环绕的餐室中供应。"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "每日 12:00-15:00 及 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari（红鲷鱼）、butter chicken 配 naan、palak paneer、dal makhani、gulab jamun"
+  reviewSummary: "位于乔治市（George Town）小印度（Little India）的一家老字号旁遮普 / 北印度餐厅，荣获 MICHELIN 必比登推介（Bib Gourmand）。食客盛赞其正宗的北印度烹饪、分量十足，以及招牌的 fish amritsari、butter chicken 和 dal makhani，用餐环境明亮欢快、色彩缤纷。"
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

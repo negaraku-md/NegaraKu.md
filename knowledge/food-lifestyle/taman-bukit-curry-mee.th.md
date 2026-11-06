@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: บิบ กูร์มองด์ แห่งปีนัง"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "curry mee ปีนัง — เส้นในน้ำซุปกะทิแกงเผ็ดกับหอยแครงและเต้าหู้ทอดพอง"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "อังคาร-อาทิตย์ 6:00 AM-9:00 AM; ปิดวันจันทร์ (ตาม MICHELIN; บางรายการระบุว่าขายถึงประมาณ 11 AM)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "curry mee กับหอยแครง ปลาหมึก เต้าหู้ทอดพอง และพุดดิ้งเลือดหมู"
+  reviewSummary: "ร้านแผงลอยที่บริหารโดยครอบครัวในศูนย์อาหาร Taman Bukit ที่ Bukit Mertajam ซึ่งขาย curry mee มาเกือบ 40 ปี และได้รับรางวัล MICHELIN Bib Gourmand ในการคัดสรรกัวลาลัมเปอร์และปีนังปี 2024 ร้านนี้ขึ้นชื่อเรื่องน้ำซุปกะทิเข้มข้นกับพริกแกงเผ็ดและหอยแครงลวกพอสุก ในชามยังมาพร้อมเส้นฮกเกี้ยนและเส้นหมี่ ถั่วงอก กุ้ง ปลาหมึก เต้าหู้ทอดพอง และพุดดิ้งเลือดหมู ร้านดึงดูดคิวยาวซึ่งส่วนใหญ่เป็นคนท้องถิ่น และมักขายหมดเร็ว จึงแนะนำให้มาถึงไม่นานหลังเปิดร้าน"
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

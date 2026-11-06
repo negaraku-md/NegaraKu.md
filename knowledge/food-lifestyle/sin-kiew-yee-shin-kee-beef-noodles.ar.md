@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles: علامة MICHELIN Bib Gourmand"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "حساء نودلز اللحم البقري — نودلز ولحم بقري في مرق عشبي صافٍ"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles محل نودلز حائز على MICHELIN Guide Bib Gourmand في Jalan Tun Tan Cheng Lock بوسط مدينة كوالالمبور، منحدر من كشك طعام يعود إلى 1949، ومعروف بكرات لحم البقر المطّاطية وشرائح لحم البقر وكرشة البقر الطريّة تُقدَّم فوق نودلز مختارة مع صلصة شطة منزلية الصنع."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "الإثنين والثلاثاء والخميس-الأحد 10:30-16:30؛ مغلق الأربعاء"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "نودلز اللحم البقري (بالحساء أو جافة) مع اختيارك من hor fun العريض أو bihun أو نودلز Hakka المطاطية؛ كرات لحم بقري مصنوعة يدوياً؛ شرائح لحم بقري؛ كرشة بقري؛ مع صلصة الفلفل الحار الخاصة بالمحل"
+  reviewSummary: "كشك عريق في Petaling Street / Chinatown (منذ عام 1949) حائز على MICHELIN Bib Gourmand، مشهور بنودلز اللحم البقري التي تُقدَّم بالحساء أو بصلصة جافة عطرية، مع كرات لحم بقري مطاطية مصنوعة يدوياً وشرائح لحم بقري طرية وكرشة بقري. يمنحه المراجعون تقييماً عالياً وثابتاً للطعام؛ أما الشكاوى الشائعة فهي المقاعد الضيقة والحارة والطوابير الطويلة غير المظللة في ساعات ذروة الغداء."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

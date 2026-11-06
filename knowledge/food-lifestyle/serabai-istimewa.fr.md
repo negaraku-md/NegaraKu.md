@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa : le stand de serabai Bib Gourmand de Penang"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai — une tendre crêpe de riz au coco nappée d'une sauce sucrée au sucre de palme"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "Mer-Dim 6h30 - 10h ; fermé lun. et mar. Le serabai est souvent épuisé avant 10h, alors venez tôt."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai (crêpe de riz au lait de coco) avec sirop de sucre de palme ; disponible nature, avec œuf, avec sucre roux, ou en combo pour goûter les trois"
+  reviewSummary: "Un stand familial de longue date (depuis les années 1970) au complexe de stands de rue Astaka Taman Tun Sardon, largement présenté comme le premier stand de kueh (douceurs) malais à figurer dans le MICHELIN Guide, où il détient un Bib Gourmand. Son serabai emblématique est une tendre crêpe de riz au lait de coco, dégustée avec un sirop sucré de sucre de palme, un petit-déjeuner local très apprécié. Il n'ouvre que les matins du mercredi au dimanche et est souvent épuisé avant 10h."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa est un stand de cuisine de rue de longue date à George Town, Penang, retenu dans la sélection Bib Gourmand du MICHELIN Guide, réputé pour le serabai — une crêpe de farine de riz au lait de coco servie avec un sirop de sucre de palme (gula melaka) en sauce à tremper. En activité depuis les années 1970, il le vend en versions nature, à l'œuf et au sucre roux, et n'ouvre généralement que tôt le matin."
 seoTitle: "Serabai Istimewa, Penang (Bib Gourmand)"
 answer: "Serabai Istimewa est un stand de cuisine de rue à George Town, Penang, inscrit au MICHELIN Guide Kuala Lumpur & Penang comme Bib Gourmand pour sa cuisine à bon rapport qualité-prix. Il vend du serabai — une crêpe moelleuse de farine de riz au lait de coco trempée dans un sirop de sucre de palme (gula melaka) — depuis les années 1970, en versions nature, à l'œuf ou au sucre roux, et se visite de préférence avant 10am."

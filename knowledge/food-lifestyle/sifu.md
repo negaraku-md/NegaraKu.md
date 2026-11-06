@@ -18,6 +18,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "Mon, Tue, Thu, Fri 11:30-15:00 & 18:00-21:45; Sat-Sun 11:30-21:45; Wed closed (per MICHELIN Guide; other listings differ, confirm by phone)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (soy-braised pork belly with egg), jiu hu char (stewed jicama with cuttlefish), asam prawns, inchi kabin (fried chicken)"
+  reviewSummary: "A small, unpretentious Rope Walk shophouse (about 7 tables) run by a veteran home cook in her 70s, serving around 40 a la carte classic Peranakan/Nyonya dishes. Named to the MICHELIN Guide Kuala Lumpur & Penang 2026 Bib Gourmand list. Reviews are generally favourable, praising homely braises and well-executed classics, though some diners found the food only average; advance booking is widely described as essential, especially for dinner."
+  phone: "+60 4-305 1867"
 summary: "Sifu is a MICHELIN Bib Gourmand Peranakan restaurant on Jalan Pintal Tali in George Town, Penang. Its kitchen is led by a home cook in her 70s with decades of experience, and its roughly 40-item menu covers the classics of traditional Nyonya cooking — among them a springy asam prawn in a tamarind-rich sweet-and-sour sauce."
 answer: "Sifu is a MICHELIN Bib Gourmand Peranakan restaurant at 154 Jalan Pintal Tali in George Town, Penang. Its kitchen is helmed by a lady in her 70s who has cooked for decades, and the menu offers about 40 à la carte classics of traditional Peranakan (Nyonya) cuisine. Signatures include a springy asam prawn in a dark, tamarind-heavy sweet-and-sour sauce and mang kuang char, sautéed shredded yam bean with dried squid and mushrooms. MICHELIN prices it in the $ band."
 keyTakeaways:

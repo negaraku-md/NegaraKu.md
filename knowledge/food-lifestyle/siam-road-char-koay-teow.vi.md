@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: Quầy Bib Gourmand xào than của George Town"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — mì dẹt xào than với tôm trên lá chuối"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "Thứ Ba-Thứ Bảy 12:00-18:00; đóng cửa Chủ Nhật & Thứ Hai; thường đóng sớm hơn khi bán hết"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Char koay teow xào than, phiên bản cay, kèm thêm tôm và sò huyết"
+  reviewSummary: "Một địa chỉ ẩm thực đường phố lâu đời ở George Town (chủ quán Tan Chooi Hong, đã xào hơn 50 năm) nổi tiếng với món char koay teow nấu trên lửa than, tạo nên hương vị wok hei rõ rệt. Mục trong Cẩm nang MICHELIN khuyên dùng phiên bản cay và cho biết phần thêm tôm cùng sò huyết đáng với chi phí trả thêm. Hãy chuẩn bị xếp hàng trước giờ mở cửa lúc 12 giờ trưa và chờ tới khoảng 45-60 phút, lâu hơn vào cuối tuần; quầy đóng cửa khi bán hết."
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

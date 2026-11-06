@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak: ஜார்ஜ் டவுன், பினாங்கு"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — வாணலியில் வறுத்த முள்ளங்கி கேக் துண்டுகள் முட்டை மற்றும் ஊறுகாய் முள்ளங்கியுடன்"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "திங்கள், செவ்வாய், வெள்ளி, சனி, ஞாயிறு 07:00-12:00; புதன் & வியாழன் மூடப்பட்டிருக்கும்"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak (முட்டை அல்லது இரட்டை முட்டையுடன்; விருப்பத்திற்கேற்ப மிளகாய்/காரச் சாஸ்)"
+  reviewSummary: "Lorong Macalister-இல் நீண்ட காலமாக இயங்கி வரும் ஒரு Teochew தெரு வண்டி, இந்த சகோதரிகளின் தந்தையால் 1963-இல் தொடங்கப்பட்டு இப்போது Yao சகோதரிகளால் நடத்தப்படுகிறது; MICHELIN Bib Gourmand பட்டியலில் இடம்பெற்றுள்ளது. வேகவைத்த அரிசி/முள்ளங்கி கேக் துண்டுகள் அதிக தீயில் வாணலியில் வறுக்கப்பட்டு, சோயா சாஸ், முட்டை, பயறு முளைகள் மற்றும் ஊறுகாய் முள்ளங்கியுடன் புகை கமழும் 'wok hei' பெறுகிறது, விருப்பத்திற்கேற்ப மிளகாயும் சேர்க்கப்படுகிறது. மென்மையான பதம், புகை கமழும் வறுவல் மற்றும் ஊறுகாய் முள்ளங்கி தரும் உப்புச் சுவையை விமர்சகர்கள் சிறப்பித்துக் கூறுகிறார்கள்; சிலர் இது உடனடியாகக் கவரவில்லை, மாறாக படிப்படியாகப் பிடிக்கத் தொடங்கும் என்கின்றனர். உச்சநேரங்களில் வரிசையை எதிர்பார்க்கவும், விற்றுத் தீர்ந்துவிடக்கூடும் என்பதால் முன்கூட்டியே வாருங்கள்."
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

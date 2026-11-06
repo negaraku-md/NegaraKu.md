@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: A Penang Bib Gourmand for Northern Indian Cooking"
 seoTitle: "Sardaarji, Penang Punjabi Restaurant"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "Creamy butter chicken curry with naan bread"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji is a Punjabi and Northern Indian restaurant on Lebuh China in George Town, Penang, holding a MICHELIN Guide Bib Gourmand. Started as a retirement project in 2018, it is known for dishes such as fish amritsari and palak paneer, served in a colourful, music-filled room."
@@ -43,6 +48,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "Daily 12:00-15:00 and 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (red snapper), butter chicken with naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "A long-running Punjabi / Northern Indian restaurant in George Town's Little India, holding a MICHELIN Bib Gourmand. Diners praise its authentic North Indian cooking, large portions and signature fish amritsari, butter chicken and dal makhani, in a cheerful, colourful dining room."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

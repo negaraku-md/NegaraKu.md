@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak: George Town, Penang"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — cubos de pastel de rábano salteados al wok con huevo y rábano encurtido"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "Lun, Mar, Vie, Sáb, Dom 07:00-12:00; cerrado Mié y Jue"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak (con huevo o doble huevo; chile/salsa picante opcional)"
+  reviewSummary: "Un puesto callejero Teochew de larga trayectoria en Lorong Macalister, iniciado por el padre de las hermanas en 1963 y gestionado ahora por las hermanas Yao; incluido en la MICHELIN Bib Gourmand. Los cubos de pastel de arroz/rábano al vapor se saltean en wok a fuego alto para lograr un 'wok hei' ahumado, con salsa de soja, huevo, brotes de soja y rábano encurtido, y chile opcional. Los críticos destacan la textura sedosa, el toque ahumado del salteado y el realce salado del rábano encurtido; algunos dicen que te conquista con el tiempo más que impresionar de inmediato. Espera cola en las horas punta y llega temprano, ya que puede agotarse."
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

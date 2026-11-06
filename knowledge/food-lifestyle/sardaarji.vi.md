@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: Một Bib Gourmand ở Penang cho ẩm thực Bắc Ấn"
 seoTitle: "Sardaarji, nhà hàng Punjabi Penang"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "Cà ri butter chicken béo ngậy ăn kèm bánh naan"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji là một nhà hàng Punjabi và Bắc Ấn trên đường Lebuh China ở George Town, Penang, đạt danh hiệu Bib Gourmand của MICHELIN Guide. Khởi đầu như một dự án nghỉ hưu vào năm 2018, nhà hàng nổi tiếng với các món như fish amritsari và palak paneer, phục vụ trong một không gian rực rỡ sắc màu và ngập tiếng nhạc."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "Hằng ngày 12:00-15:00 và 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (cá hồng), butter chicken ăn kèm naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "Một nhà hàng Punjab / Bắc Ấn lâu đời tại khu Little India ở George Town, đạt danh hiệu MICHELIN Bib Gourmand. Thực khách khen ngợi các món Bắc Ấn chính thống, phần ăn đầy đặn cùng các món đặc trưng fish amritsari, butter chicken và dal makhani, trong không gian ăn uống rực rỡ và nhiều màu sắc."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

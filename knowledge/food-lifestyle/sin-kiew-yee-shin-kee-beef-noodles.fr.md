@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles : Bib Gourmand MICHELIN"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "Soupe de nouilles au bœuf — nouilles et bœuf dans un bouillon d'herbes clair"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles est une échoppe de nouilles distinguée par un Bib Gourmand du MICHELIN Guide, sur Jalan Tun Tan Cheng Lock, au centre-ville de Kuala Lumpur, descendante d'un étal de 1949 et réputée pour ses boulettes de bœuf moelleuses, son bœuf émincé et ses tripes de bœuf tendres servis sur un choix de nouilles avec une sauce chili maison."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "Lun, Mar, Jeu-Dim 10:30-16:30 ; fermé Mer"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Nouilles au bœuf (en soupe ou sèches) avec au choix du hor fun en ruban large, du bihun ou des nouilles Hakka élastiques ; boulettes de bœuf faites main ; bœuf émincé ; tripes de bœuf ; avec la sauce chili maison"
+  reviewSummary: "Un étal de longue date de Petaling Street / Chinatown (depuis 1949) récompensé par le MICHELIN Bib Gourmand, réputé pour ses nouilles au bœuf servies en soupe ou avec une sauce sèche parfumée, accompagnées de boulettes de bœuf faites main et moelleuses, de bœuf émincé tendre et de tripes de bœuf. Les critiques notent la cuisine de manière élevée et constante ; les reproches courants portent sur les places exiguës et chaudes et les longues files d'attente non abritées aux heures de pointe du déjeuner."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

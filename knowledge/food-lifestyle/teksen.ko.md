@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: 조지타운의 Bib Gourmand 광둥 요리 노포"
 seoTitle: "Teksen, 조지타운 — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "밥 위에 채소와 함께 썰어 올린 바삭한 두 번 구운 삼겹살"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "화요일을 제외하고 매일 영업; 점심 약 11:30-14:30, 저녁 약 17:30-20:00. 영업시간은 출처에 따라 다르며 대표 요리는 일찍 소진되므로 미리 전화하세요."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "두 번 구운 삼겹살(클래식 또는 chili padi 볶음), 바삭하게 튀긴 수제 두부 / 뚝배기 커틀릿 튀긴 두부, 오늘의 더블 보일드 수프, assam(새콤매콤한) 카레 생선"
+  reviewSummary: "개조된 George Town 숍하우스에 자리한 전통 Cantonese zi char 명소로, 1965년부터 운영되었으며 MICHELIN Bib Gourmand를 수상했다. 현지 Peranakan의 영향을 담은 정성스러운 옛날식 Cantonese 요리로 유명하며, 실내와 보도 좌석이 있는 원형 테이블에서 제공된다. 대표 메뉴인 두 번 구운 삼겹살은 가장 많이 언급되는 요리이며 자주 매진된다; 식당은 붐비고 종종 줄을 서야 하며, 점심과 저녁 운영 시간이 제한적이다."
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen은 페낭 조지타운 Lebuh Carnarvon에 자리한 오랜 역사의 광둥 요리 식당으로, 질 좋고 가성비 뛰어난 요리에 주어지는 MICHELIN Bib Gourmand를 보유하고 있다. 1965년부터 영업해 왔으며, 정성껏 만든 전통 광둥 요리와 현지 풍미를 더한 퓨전 요리로 유명하다 — 대표 메뉴는 현지산 멸치를 곁들인 자가제 튀긴 두부다."
 answer: "Teksen은 페낭 조지타운 18 & 20 Lebuh Carnarvon에 있는 캐주얼한 광둥 요리 식당으로, MICHELIN Bib Gourmand——질 좋고 가성비 뛰어난 요리에 대한 가이드의 상——를 보유하고 있다. 1965년 개업 이래 전통 광둥 요리와 현지 풍미를 더한 퓨전 요리를 내며, 가장 잘 알려진 메뉴는 현지산 멸치를 곁들인 자가제 튀긴 두부다. 피크 시간대에는 줄 서는 것을 예상하는 것이 좋다."
 keyTakeaways:

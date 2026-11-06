@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "周一、周二、周四、周五 11:30-15:00 及 18:00-21:45；周六至周日 11:30-21:45；周三休息（依据 MICHELIN 指南；其他资料来源有所不同，请致电确认）"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak（酱油焖五花肉配蛋）、jiu hu char（墨鱼焖沙葛）、asam prawns（亚参虾）、inchi kabin（炸鸡）"
+  reviewSummary: "位于 Rope Walk 的一间小巧朴实的店屋（约 7 张桌子），由一位七十多岁的资深家庭厨师掌勺，提供约 40 道单点的经典 Peranakan/Nyonya 娘惹菜肴。入选《MICHELIN 指南吉隆坡与槟城 2026》Bib Gourmand 必比登推介名单。评价普遍正面，食客称赞其家常焖煮和烹制到位的经典菜，不过也有部分食客觉得食物只是中规中矩；普遍认为须提前预订，尤其是晚餐。"
+  phone: "+60 4-305 1867"
 summary: "Sifu 是槟城乔治市 Jalan Pintal Tali 一家 MICHELIN Bib Gourmand 的土生华人（Peranakan）餐厅。厨房由一位年逾七旬、经验数十载的家厨掌勺，约40道的菜单涵盖传统娘惹（Nyonya）烹调的经典——其中包括一道口感弹牙、浸在浓郁罗望子酸甜酱汁中的 asam prawn。"
 answer: "Sifu 是槟城乔治市 154 Jalan Pintal Tali 一家 MICHELIN Bib Gourmand 的土生华人（Peranakan）餐厅。厨房由一位年逾七旬、烹调数十载的女士掌勺，菜单提供约40道传统土生华人（娘惹）料理的单点经典。招牌包括口感弹牙、浸在深色、浓郁罗望子酸甜酱汁中的 asam prawn，以及 mang kuang char——以沙葛丝与鱿鱼干、香菇同炒。MICHELIN 将其价位定于 $ 区间。"
 keyTakeaways:

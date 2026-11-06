@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: ร้าน serabai ระดับ Bib Gourmand ของปีนัง"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "เซราบัย — แพนเค้กข้าวกะทิเนื้อนุ่มในซอสน้ำตาลโตนดรสหวาน"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "พุธ-อาทิตย์ 6:30 น. - 10:00 น. ปิดวันจันทร์และอังคาร เซราบัย (serabai) มักขายหมดก่อน 10:00 น. จึงควรมาแต่เช้า"
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "เซราบัย (serabai — แพนเค้กข้าวกะทิ) ราดน้ำเชื่อมน้ำตาลโตนด มีทั้งแบบธรรมดา แบบใส่ไข่ แบบใส่น้ำตาลทรายแดง หรือแบบรวมเพื่อลองทั้งสามอย่าง"
+  reviewSummary: "แผงขายของครอบครัวที่เปิดมายาวนาน (ตั้งแต่ทศวรรษ 1970) ในศูนย์อาหาร Astaka Taman Tun Sardon ได้รับการรายงานอย่างกว้างขวางว่าเป็นแผงขนมมาเลย์ (kueh) เจ้าแรกที่ได้ลงใน MICHELIN Guide ซึ่งที่นี่ได้รับรางวัล Bib Gourmand เซราบัยอันเป็นเอกลักษณ์คือแพนเค้กข้าวกะทิเนื้อนุ่ม รับประทานคู่กับน้ำเชื่อมน้ำตาลโตนดรสหวาน เป็นอาหารเช้าท้องถิ่นยอดนิยม เปิดเฉพาะช่วงเช้าวันพุธถึงวันอาทิตย์ และมักขายหมดก่อน 10:00 น."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa เป็นร้านสตรีทฟู้ดที่เปิดมายาวนานใน George Town ปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide ขึ้นชื่อเรื่อง serabai — แพนเค้กแป้งข้าวผสมกะทิที่เสิร์ฟพร้อมน้ำเชื่อมน้ำตาลโตนด (gula melaka) สำหรับจิ้ม เปิดมาตั้งแต่ทศวรรษ 1970 ขายทั้งแบบธรรมดา แบบไข่ และแบบน้ำตาลทรายแดง และมักขายเฉพาะช่วงเช้าตรู่"
 seoTitle: "Serabai Istimewa, ปีนัง (Bib Gourmand)"
 answer: "Serabai Istimewa เป็นร้านสตรีทฟู้ดใน George Town ปีนัง ได้รับการจัดอันดับใน MICHELIN Guide Kuala Lumpur & Penang ให้เป็น Bib Gourmand สำหรับอาหารที่คุ้มค่า ขาย serabai — แพนเค้กแป้งข้าวผสมกะทินุ่ม จิ้มน้ำเชื่อมน้ำตาลโตนด (gula melaka) — มาตั้งแต่ทศวรรษ 1970 มีทั้งแบบธรรมดา แบบไข่ หรือแบบน้ำตาลทรายแดง และควรไปก่อน 10am"

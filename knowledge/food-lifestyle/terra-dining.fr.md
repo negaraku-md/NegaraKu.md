@@ -44,6 +44,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail (TTDI), 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Terra+Dining+91+Jalan+Aminuddin+Baki+Taman+Tun+Dr+Ismail+Kuala+Lumpur"
+  reviewsUrl: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"
+  priceRange: "Set tasting menu (one seating); reported around RM398++ to RM568++ per person depending on the current menu, with an optional wine pairing (approx. RM238++) or zero-proof pairing (approx. RM268); confirm the current price with the restaurant"
+  hours: "Mar-Sam à partir de 18h (dernier service en soirée) ; fermé dim et lun"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Il n'existe qu'un seul tasting menu fixe (réservation obligatoire) - un menu à plusieurs services d'inspiration française et aux racines malaisiennes, qui est l'unique option. Parmi les plats signature rapportés au fil des dégustations figurent du calamar avec laksa-sabayon et Sarawak laksa XO sauce, un 'mystery fish' en masak lemak beurre blanc, du wagyu pur sang (pureblood) avec joue de bœuf au rendang, et une lobster bisque construite sur les saveurs de l'asam laksa."
+  reviewSummary: "Une petite salle de fine-dining façon comptoir à TTDI, tenue par le chef-propriétaire autodidacte Chong Yu Cheng ('YC'), qui a décroché sa première MICHELIN star dans le guide Kuala Lumpur & Penang 2026. Les critiques décrivent une cuisine malaisienne moderne - laksa, rendang, masak lemak et autres plats locaux réinterprétés avec une technique européenne/française - servie sous la forme d'un unique tasting menu en constante évolution, et la jugent souvent réconfortante plutôt qu'austère. Depuis l'étoile, les places se réserveraient longtemps à l'avance ; le menu et les prix évoluent avec le temps, aussi les détails sont-ils à confirmer directement."
+  website: "https://www.terra-dining.com"
+  instagram: "https://www.instagram.com/terradining.kl/"
+  phone: "+60 11-7072 7777"
 sources:
   - title: "Terra Dining"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"

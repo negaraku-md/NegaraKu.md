@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles: MICHELIN Bib Gourmand"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "Mì bò nước — mì và thịt bò trong nước dùng thảo mộc trong vắt"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles là một quán mì được MICHELIN Guide gắn Bib Gourmand trên đường Jalan Tun Tan Cheng Lock ở trung tâm Kuala Lumpur, bắt nguồn từ một gánh hàng ăn năm 1949 và nổi tiếng với viên thịt bò dai giòn, thịt bò thái lát và sách bò mềm, dùng cùng mì tùy chọn và sốt ớt tự làm."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "Thứ Hai, Thứ Ba, Thứ Năm-Chủ Nhật 10:30-16:30; đóng cửa Thứ Tư"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Mì bò (nước hoặc khô) với lựa chọn hor fun bản to, bihun, hoặc mì Hakka dai; bò viên làm thủ công; thịt bò thái lát; lòng bò; kèm sốt ớt đặc trưng của quán"
+  reviewSummary: "Một quầy hàng lâu đời ở Petaling Street / Chinatown (từ năm 1949) được trao giải MICHELIN Bib Gourmand, nổi tiếng với mì bò phục vụ dạng nước hoặc sốt khô thơm lừng, kèm bò viên làm thủ công dai giòn, thịt bò thái lát mềm và lòng bò. Người đánh giá chấm điểm món ăn cao và ổn định; những phàn nàn thường gặp là chỗ ngồi chật chội, nóng bức và hàng dài không có mái che vào giờ cao điểm buổi trưa."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

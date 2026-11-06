@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee：槟城 Bib Gourmand"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "槟城咖喱面——面条浸在辛辣的椰浆咖喱汤中，配血蚶与豆卜"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "周二至周日 6:00 AM-9:00 AM；周一休息（据 MICHELIN；部分名录称售至约 11 AM）"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "咖喱面配血蚶、墨鱼、豆卜与猪血糕"
+  reviewSummary: "这是一家位于武吉墨淡（Bukit Mertajam）大山脚一带 Taman Bukit 美食中心的家族经营摊位，卖咖喱面近 40 年，并在 2024 年吉隆坡与槟城评选中荣获 MICHELIN 必比登推介（Bib Gourmand）。它以浓郁的椰浆汤底搭配辛辣咖喱酱和半熟血蚶闻名；一碗还配有福建面和米粉、豆芽、虾、墨鱼、豆卜与猪血糕。它吸引大批以本地人为主的长龙，而且往往很早就卖完，因此建议开档后尽早前往。"
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

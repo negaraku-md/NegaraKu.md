@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: George Town का Bib Gourmand कैंटोनीज़ संस्थान"
 seoTitle: "Teksen, George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "चावल पर हरी सब्ज़ियों के साथ कटा हुआ कुरकुरा दो बार भुना पोर्क बेली"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "मंगलवार को छोड़कर प्रतिदिन खुला; दोपहर का भोजन लगभग 11:30-14:30 और रात का भोजन लगभग 17:30-20:00। समय स्रोत के अनुसार अलग-अलग होते हैं और विशेष व्यंजन जल्दी बिक जाते हैं, इसलिए पहले से फ़ोन करें।"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "दो बार भुना पोर्क बेली (क्लासिक या chili padi के साथ तला हुआ), कुरकुरा तला घर का बना टोफू / क्लेपॉट में कटलेट के साथ तला टोफू, दिन का डबल-बॉइल्ड सूप, assam (खट्टा-तीखा) करी मछली"
+  reviewSummary: "George Town की एक नवीनीकृत शॉपहाउस में स्थित एक पारंपरिक Cantonese zi char प्रतिष्ठान, जो 1965 से संचालित है और जिसे MICHELIN Bib Gourmand से सम्मानित किया गया है। स्थानीय, Peranakan-प्रभावित स्पर्श के साथ बढ़िया ढंग से बनाए गए पुराने ज़माने के Cantonese व्यंजनों के लिए जाना जाता है, जो गोल मेज़ों पर इनडोर और फुटपाथ बैठने की व्यवस्था के साथ परोसे जाते हैं। विशिष्ट दो बार भुना पोर्क बेली सबसे अधिक उल्लेखित व्यंजन है और अक्सर बिक जाता है; रेस्तरां व्यस्त रहता है और अक्सर कतार में लगना पड़ता है, जहाँ दोपहर और रात के भोजन के सीमित सत्र होते हैं।"
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen, George Town, Penang की Lebuh Carnarvon पर स्थित एक पुराना कैंटोनीज़ रेस्तरां है, जो अच्छी गुणवत्ता और अच्छे मूल्य वाले भोजन के लिए MICHELIN Bib Gourmand रखता है। 1965 से संचालित, यह बढ़िया बने पारंपरिक कैंटोनीज़ व्यंजनों के साथ-साथ स्थानीय अंदाज़ वाले फ्यूज़न व्यंजनों के लिए जाना जाता है — इसकी सिग्नेचर डिश है घर में बना तला हुआ टोफू स्थानीय सूखी एंकोवी के साथ।"
 answer: "Teksen, George Town, Penang की 18 & 20 Lebuh Carnarvon पर स्थित एक अनौपचारिक कैंटोनीज़ रेस्तरां है, जो MICHELIN Bib Gourmand रखता है — अच्छी गुणवत्ता और अच्छे मूल्य वाले भोजन के लिए गाइड का सम्मान। 1965 से खुला, यह पारंपरिक कैंटोनीज़ व्यंजनों के साथ स्थानीय अंदाज़ वाले फ्यूज़न व्यंजन परोसता है, और इसकी सबसे मशहूर डिश है घर में बना तला हुआ टोफू स्थानीय सूखी एंकोवी के साथ। व्यस्त समय में कतार की अपेक्षा रखें।"
 keyTakeaways:

@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: Institusi Masakan Kanton Bib Gourmand di George Town"
 seoTitle: "Teksen, George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "Perut babi panggang dua kali yang renyah diiris di atas nasi dengan sayuran hijau"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "Buka setiap hari kecuali Selasa; makan siang sekitar 11:30-14:30 dan makan malam sekitar 17:30-20:00. Jam buka bervariasi menurut sumber dan hidangan khas cepat habis, jadi hubungi dulu."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Perut babi panggang dua kali (klasik atau digoreng dengan chili padi), tahu buatan sendiri goreng renyah / tahu goreng dengan kotlet dalam claypot, sup rebus dua kali hari ini, kari ikan assam (asam-pedas)"
+  reviewSummary: "Sebuah institusi zi char Cantonese tradisional di ruko George Town yang telah direnovasi, beroperasi sejak 1965 dan dianugerahi MICHELIN Bib Gourmand. Terkenal dengan masakan Cantonese kuno yang dibuat dengan baik dengan sentuhan lokal berpengaruh Peranakan, disajikan di meja bundar dengan tempat duduk di dalam dan di tepi trotoar. Perut babi panggang dua kali yang menjadi ciri khas adalah hidangan yang paling sering disebut dan sering habis; restoran ini ramai dan sering mengharuskan antre, dengan sesi makan siang dan makan malam yang terbatas."
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen adalah restoran masakan Kanton lama di Lebuh Carnarvon, George Town, Penang, yang menyandang MICHELIN Bib Gourmand untuk masakan berkualitas baik dengan harga terjangkau. Beroperasi sejak 1965, restoran ini terkenal dengan hidangan Kanton tradisional yang diolah dengan baik berdampingan dengan hidangan fusion bersentuhan lokal — hidangan andalannya adalah tahu goreng buatan sendiri dengan ikan teri lokal kering."
 answer: "Teksen adalah restoran masakan Kanton kasual di 18 & 20 Lebuh Carnarvon, George Town, Penang, yang menyandang MICHELIN Bib Gourmand — penghargaan panduan ini untuk masakan berkualitas baik dengan harga terjangkau. Dibuka sejak 1965, restoran ini menyajikan hidangan Kanton tradisional serta hidangan fusion bersentuhan lokal, dan hidangannya yang paling terkenal adalah tahu goreng buatan sendiri dengan ikan teri lokal kering. Perkirakan antrean pada jam sibuk."
 keyTakeaways:

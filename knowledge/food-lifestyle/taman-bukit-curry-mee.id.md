@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: Bib Gourmand Penang"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "Curry mee Penang — mi dalam kuah kari santan pedas dengan kerang dan tahu pok"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "Sel-Min 6:00 AM-9:00 AM; tutup Senin (menurut MICHELIN; beberapa daftar melaporkan berjualan hingga ~11 AM)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Curry mee dengan kerang darah, cumi, tahu pok, dan puding darah babi"
+  reviewSummary: "Sebuah kios yang dikelola keluarga di pujasera Taman Bukit di Bukit Mertajam yang telah menjual curry mee selama hampir 40 tahun, dianugerahi MICHELIN Bib Gourmand dalam seleksi Kuala Lumpur & Penang 2024. Kios ini terkenal dengan kuah santan yang kental berpadu pasta kari pedas dan kerang darah setengah matang; semangkuknya juga disajikan dengan mi Hokkien dan bihun, tauge, udang, cumi, tahu pok, dan puding darah babi. Kios ini menarik antrean panjang yang sebagian besar warga lokal, dan cenderung habis lebih awal, sehingga disarankan datang segera setelah buka."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

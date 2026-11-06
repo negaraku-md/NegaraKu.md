@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow：ジョージタウンの炭火で炒めるビブグルマン屋台"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — バナナの葉の上に海老をのせた炭火炒めの平打ち麺"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "火～土 12:00-18:00；日・月は休み；売り切れ次第早めに閉まることが多い"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "炭火で炒めたchar koay teow、辛口バージョン、海老とハマグリのトッピング付き"
+  reviewSummary: "ジョージタウンで長年続く屋台料理の名店（店主Tan Chooi Hong氏、50年以上炒め続けている）で、炭火で調理するchar koay teowで有名で、はっきりとしたwok hei（鍋の香り）が特徴です。MICHELINガイドの掲載では辛口バージョンを勧めており、海老とハマグリのトッピングは追加料金を払う価値があるとしています。正午12時の開店前には行列ができ、待ち時間は約45～60分、週末はさらに長くなることを見込んでおきましょう。屋台は売り切れ次第閉まります。"
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: பினாங்கின் Bib Gourmand serabai கடை"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai — இனிப்பான பனைவெல்லச் சாற்றில் ஒரு மென்மையான தேங்காய்-அரிசி அப்பம்"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "புதன்-ஞாயிறு காலை 6:30 - காலை 10; திங்கள் & செவ்வாய் மூடப்படும். Serabai (செராபை) காலை 10 மணிக்கு முன்பே அடிக்கடி விற்றுத் தீர்ந்துவிடும், எனவே சீக்கிரம் வாருங்கள்."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai (செராபை — தேங்காய்ப்பால் அரிசி அப்பம்) பனைவெல்லச் சாற்றுடன்; சாதாரணமாக, முட்டையுடன், அல்லது கருப்புச்சர்க்கரையுடன், அல்லது மூன்றையும் சுவைக்க கூட்டுத் தட்டாக கிடைக்கும்"
+  reviewSummary: "Astaka Taman Tun Sardon உணவுக் கூடத்தில் நீண்டகாலமாக இயங்கிவரும் (1970-களில் இருந்து) ஒரு குடும்பக் கடை, MICHELIN Guide-இல் இடம்பெற்ற முதல் மலாய் கூய் கடை என்று பரவலாக அறிவிக்கப்பட்டது, இங்கு அது ஒரு Bib Gourmand விருதைக் கொண்டுள்ளது. இதன் சிறப்பு serabai என்பது ஒரு மென்மையான தேங்காய்ப்பால் அரிசி அப்பம், இனிப்பான பனைவெல்லச் சாற்றுடன் சாப்பிடப்படும், இது மக்களிடையே பிரபலமான உள்ளூர் காலை உணவு. இது புதன் முதல் ஞாயிறு காலை நேரங்களில் மட்டுமே திறக்கிறது, மேலும் காலை 10 மணிக்கு முன்பே அடிக்கடி விற்றுத் தீர்ந்துவிடும்."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa என்பது பினாங்கு, George Town-இல் நீண்ட காலமாக இயங்கிவரும் ஒரு தெரு உணவுக் கடை; இது MICHELIN Guide-இன் Bib Gourmand தேர்வில் இடம்பெற்றுள்ளது, serabai-க்காக பிரபலம் — தேங்காய்ப் பால் சேர்த்த அரிசி அப்பம், பனைச்சர்க்கரை (gula melaka) சிரப் தொட்டுக்கொள்ள வழங்கப்படுகிறது. 1970களிலிருந்து இயங்கிவரும் இக்கடை, இதை சாதாரண, முட்டை மற்றும் கருப்புச்சர்க்கரை வகைகளில் விற்கிறது, பொதுவாக அதிகாலையில் மட்டுமே வியாபாரம் செய்கிறது."
 seoTitle: "Serabai Istimewa, பினாங்கு (Bib Gourmand)"
 answer: "Serabai Istimewa என்பது பினாங்கு, George Town-இல் உள்ள ஒரு தெரு உணவுக் கடை; மதிப்புமிக்க சமையலுக்காக MICHELIN Guide Kuala Lumpur & Penang-இல் Bib Gourmand ஆக பட்டியலிடப்பட்டுள்ளது. 1970களிலிருந்து serabai-ஐ விற்று வருகிறது — தேங்காய்ப் பால் சேர்த்த மென்மையான அரிசி அப்பம், பனைச்சர்க்கரை (gula melaka) சிரப்பில் தொட்டுக்கொள்ளப்படுகிறது — சாதாரண, முட்டை அல்லது கருப்புச்சர்க்கரை வகையில் வழங்கப்படுகிறது, 10am-க்கு முன் சென்றால் சிறந்தது."

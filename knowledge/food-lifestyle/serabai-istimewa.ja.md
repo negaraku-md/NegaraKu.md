@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa：ペナンの Bib Gourmand serabai 屋台"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "セラバイ — 甘いパームシュガーソースをかけた柔らかなココナッツ米粉パンケーキ"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "水～日 午前6:30～午前10:00、月・火は休業。セラバイ（serabai）は午前10時前に売り切れることが多いため、早めの来店を。"
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "セラバイ（serabai／ココナッツミルクの米粉パンケーキ）をパームシュガーシロップで。プレーン、卵入り、黒糖入り、または3種すべてを味わえるコンボから選べます"
+  reviewSummary: "Astaka Taman Tun Sardon の屋台街にある、1970年代から続く老舗の家族経営屋台。MICHELIN Guide に掲載された初のマレー菓子（クエ）屋台として広く報じられ、ここで Bib Gourmand を獲得しています。看板のセラバイは柔らかなココナッツミルクの米粉パンケーキで、甘いパームシュガーシロップをかけて食べる、地元で人気の朝食です。営業は水曜から日曜の午前中のみで、午前10時前に売り切れることもしばしばです。"
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa はペナン、George Town で長く続く屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれている。名物は serabai——ココナッツミルク入りの米粉パンケーキで、パームシュガー（gula melaka）シロップを添えて供される。1970 年代から営業し、プレーン・卵・黒糖の各種を売り、通常は早朝のみの営業である。"
 seoTitle: "Serabai Istimewa、ペナン（Bib Gourmand）"
 answer: "Serabai Istimewa はペナン、George Town の屋台で、MICHELIN Guide Kuala Lumpur & Penang に、コストパフォーマンスのよい料理に贈られる Bib Gourmand として掲載されている。1970 年代から serabai——パームシュガー（gula melaka）シロップを添えて食べる柔らかなココナッツミルク米粉パンケーキ——を売り、プレーン・卵・黒糖の各種があり、10am 前の訪問が最適である。"

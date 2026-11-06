@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: Bib Gourmand Penang untuk Masakan India Utara"
 seoTitle: "Sardaarji, Restoran Punjabi Penang"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "Kari butter chicken yang creamy dengan roti naan"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji adalah restoran Punjabi dan India Utara di Lebuh China, George Town, Penang, yang menyandang Bib Gourmand dari MICHELIN Guide. Dimulai sebagai proyek masa pensiun pada 2018, restoran ini terkenal dengan hidangan seperti fish amritsari dan palak paneer, yang disajikan di ruangan penuh warna dan diiringi musik."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "Setiap hari 12:00-15:00 dan 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (ikan kakap merah), butter chicken dengan naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "Restoran Punjabi / India Utara yang sudah lama beroperasi di Little India, George Town, meraih MICHELIN Bib Gourmand. Para pengunjung memuji masakan India Utara yang autentik, porsi besar, serta hidangan andalan fish amritsari, butter chicken, dan dal makhani, di ruang makan yang ceria dan penuh warna."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

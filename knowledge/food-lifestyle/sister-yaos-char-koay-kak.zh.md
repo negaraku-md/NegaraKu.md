@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak：槟城乔治市"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — 镬炒萝卜糕块配鸡蛋和菜脯"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "周一、周二、周五、周六、周日 07:00-12:00；周三及周四休息"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak（加蛋或双蛋；可选辣椒/辣酱）"
+  reviewSummary: "一家位于 Lorong Macalister、经营多年的潮州街边摊，由姐妹俩的父亲于1963年创立，如今由姚氏姐妹经营；入选 MICHELIN 必比登推介（Bib Gourmand）。蒸好的米浆/萝卜糕切块在猛火上用镬炒出带烟火气的 'wok hei'，佐以酱油、鸡蛋、豆芽和菜脯，辣椒可选。食客称赞其滑嫩口感、焦香镬气，以及菜脯带来的咸香提味；有人说它需要慢慢品味才越吃越有味，而非一尝即惊艳。高峰时段需排队，建议早到，因为可能会售罄。"
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

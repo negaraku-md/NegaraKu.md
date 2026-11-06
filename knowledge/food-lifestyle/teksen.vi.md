@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: Nhà hàng Quảng Đông Bib Gourmand lâu đời ở George Town"
 seoTitle: "Teksen, George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "Thịt ba chỉ nướng hai lần giòn rụm thái lát trên cơm với rau xanh"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "Mở cửa hằng ngày trừ thứ Ba; bữa trưa khoảng 11:30-14:30 và bữa tối khoảng 17:30-20:00. Giờ giấc thay đổi tùy nguồn và các món đặc trưng thường bán hết sớm, vì vậy hãy gọi điện trước."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Thịt ba chỉ nướng hai lần (kiểu cổ điển hoặc chiên với chili padi), đậu phụ tự làm chiên giòn / đậu phụ chiên với chả thịt trong nồi đất, canh hầm hai lần trong ngày, cá cà ri assam (chua-cay)"
+  reviewSummary: "Một quán zi char Cantonese truyền thống trong căn nhà phố đã được tân trang ở George Town, hoạt động từ năm 1965 và được trao MICHELIN Bib Gourmand. Nổi tiếng với món Cantonese kiểu cũ được chế biến kỹ lưỡng mang hương vị địa phương chịu ảnh hưởng Peranakan, phục vụ tại các bàn tròn với chỗ ngồi trong nhà và trên vỉa hè. Món thịt ba chỉ nướng hai lần đặc trưng là món được nhắc đến nhiều nhất và thường bán hết; quán đông khách và thường phải xếp hàng, với các khung giờ trưa và tối hạn chế."
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen là một nhà hàng Quảng Đông lâu đời trên đường Lebuh Carnarvon ở George Town, Penang, đang giữ MICHELIN Bib Gourmand cho ẩm thực ngon và đáng đồng tiền. Hoạt động từ năm 1965, nhà hàng nổi tiếng với các món Quảng Đông truyền thống được chế biến khéo léo bên cạnh các món fusion mang hương vị bản địa — món đặc trưng là đậu phụ chiên tự làm ăn kèm cá cơm khô địa phương."
 answer: "Teksen là một nhà hàng Quảng Đông bình dân tại 18 & 20 Lebuh Carnarvon ở George Town, Penang, đang giữ MICHELIN Bib Gourmand — giải thưởng của cẩm nang cho ẩm thực ngon và đáng đồng tiền. Mở cửa từ năm 1965, nhà hàng phục vụ các món Quảng Đông truyền thống cùng các món fusion mang hương vị bản địa, và món nổi tiếng nhất là đậu phụ chiên tự làm ăn kèm cá cơm khô địa phương. Hãy dự liệu xếp hàng vào giờ cao điểm."
 keyTakeaways:

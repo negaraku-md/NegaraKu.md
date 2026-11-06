@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: Penang's Bib Gourmand Serabai Stall"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai — a soft coconut-rice pancake in sweet palm-sugar sauce"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -11,6 +16,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "Wed-Sun 6:30 AM - 10 AM; closed Mon & Tue. Serabai often sells out before 10 AM, so arrive early."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai (coconut-milk rice pancake) with palm sugar syrup; available plain, with egg, or with brown sugar, or as a combo to try all three"
+  reviewSummary: "A long-running family stall (since the 1970s) at the Astaka Taman Tun Sardon hawker complex, widely reported as the first Malay kueh stall in the MICHELIN Guide, where it holds a Bib Gourmand. Its signature serabai is a soft coconut-milk rice pancake eaten with sweet palm sugar syrup, a popular local breakfast. It opens Wednesday to Sunday mornings only and frequently sells out before 10 AM."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa is a long-running George Town, Penang street-food stall in the MICHELIN Guide's Bib Gourmand selection, known for serabai — a coconut-milk rice pancake served with a palm sugar syrup dip. Operating since the 1970s, it sells the dish in plain, egg and brown-sugar versions and typically trades only in the early morning."
 seoTitle: "Serabai Istimewa, Penang (Bib Gourmand)"
 answer: "Serabai Istimewa is a street-food stall in George Town, Penang, listed in the MICHELIN Guide Kuala Lumpur & Penang as a Bib Gourmand for good-value cooking. It has sold serabai — a soft coconut-milk rice pancake dipped in palm sugar syrup — since the 1970s, offered plain, with egg or with brown sugar, and is best visited before 10am."

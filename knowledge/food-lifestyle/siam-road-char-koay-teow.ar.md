@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: بسطة Bib Gourmand في جورج تاون تُطهى على الفحم"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — معكرونة مسطحة مقلية على الفحم مع الروبيان على ورقة موز"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "الثلاثاء-السبت 12:00-18:00؛ مغلق الأحد والاثنين؛ غالبًا ما يغلق مبكرًا بمجرد نفاد الكمية"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "char koay teow المقلي على الفحم، النسخة الحارة، مع إضافات الروبيان والمحار"
+  reviewSummary: "مؤسسة عريقة لطعام الشارع في جورج تاون (صاحبها Tan Chooi Hong، يقلي منذ أكثر من 50 عامًا) تشتهر بـ char koay teow المطهو على نار الفحم، مما يمنحه نكهة wok hei واضحة. يوصي إدراج دليل MICHELIN بالنسخة الحارة ويذكر أن إضافات الروبيان والمحار تستحق التكلفة الإضافية. توقع وجود طوابير قبل الافتتاح في الساعة 12 ظهرًا وانتظارًا يصل إلى نحو 45-60 دقيقة، وأطول في عطلات نهاية الأسبوع؛ يغلق الكشك بمجرد نفاد الكمية."
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

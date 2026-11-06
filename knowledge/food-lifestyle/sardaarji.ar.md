@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: مطعم Bib Gourmand في بينانغ للمطبخ الهندي الشمالي"
 seoTitle: "Sardaarji، مطعم بنجابي في بينانغ"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "كاري butter chicken الكريمي مع خبز naan"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "‏Sardaarji مطعم بنجابي وهندي شمالي في شارع Lebuh China بحي George Town في بينانغ، حائز على تصنيف Bib Gourmand من دليل MICHELIN. بدأ مشروعاً بعد التقاعد عام 2018، ويشتهر بأطباق مثل fish amritsari و palak paneer، تُقدَّم في قاعة زاهية الألوان تغمرها الموسيقى."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "يوميًا 12:00-15:00 و17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (سمك النهّاش الأحمر)، butter chicken مع naan، palak paneer، dal makhani، gulab jamun"
+  reviewSummary: "مطعم بنجابي / شمال هندي عريق في Little India بمدينة George Town، حائز على MICHELIN Bib Gourmand. يُشيد روّاده بالطهي الشمالي الهندي الأصيل والأطباق كبيرة الحجم وأطباقه المميزة fish amritsari وbutter chicken وdal makhani، في قاعة طعام مبهجة وزاهية الألوان."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

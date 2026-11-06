@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak：ペナン州ジョージタウン"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — 卵と干し大根を添えた中華鍋炒めの大根もちキューブ"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "月・火・金・土・日 07:00-12:00；水・木は休み"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak（卵またはダブルエッグ付き；チリ/ホットソースはお好みで）"
+  reviewSummary: "Lorong Macalister にある長年営業するTeochew（潮州）の屋台で、姉妹の父が1963年に始め、現在はYao姉妹が切り盛りしています。MICHELIN Bib Gourmand 掲載。蒸した米粉/大根もちのキューブを強火の中華鍋で炒め、醤油・卵・もやし・干し大根とともに香ばしい 'wok hei'（鍋の焦がし香）を引き出し、お好みでチリを加えます。評者はなめらかな食感、香ばしい焦げ、干し大根がもたらす塩気の引き立てを高く評価しています。すぐに感動するというより、食べるほどに良さがわかるタイプだと言う人もいます。ピーク時には行列を覚悟し、売り切れることもあるため早めの来店を。"
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

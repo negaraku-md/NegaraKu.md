@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: उत्तर भारतीय व्यंजनों के लिए पेनांग का एक बिब गूरमां"
 seoTitle: "Sardaarji, पेनांग पंजाबी रेस्तराँ"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "naan के साथ क्रीमी butter chicken करी"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji पेनांग के जॉर्ज टाउन में Lebuh China पर स्थित एक पंजाबी और उत्तर भारतीय रेस्तराँ है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। 2018 में सेवानिवृत्ति की एक परियोजना के रूप में शुरू हुआ, यह fish amritsari और palak paneer जैसे व्यंजनों के लिए जाना जाता है, जो रंग-बिरंगे, संगीत से भरे कमरे में परोसे जाते हैं।"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "रोज़ाना 12:00-15:00 और 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (रेड स्नैपर), naan के साथ butter chicken, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "George Town के Little India में एक पुराना पंजाबी / उत्तर भारतीय रेस्तरां, जिसे MICHELIN Bib Gourmand मिला है। खाने के शौक़ीन इसके प्रामाणिक उत्तर भारतीय खाने, बड़ी मात्रा और मशहूर fish amritsari, butter chicken तथा dal makhani की तारीफ़ करते हैं, जो एक ख़ुशनुमा, रंग-बिरंगे भोजन कक्ष में परोसे जाते हैं।"
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji : un Bib Gourmand de Penang pour la cuisine de l'Inde du Nord"
 seoTitle: "Sardaarji, restaurant pendjabi de Penang"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "Curry de butter chicken crémeux avec pain naan"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji est un restaurant pendjabi et nord-indien situé sur Lebuh China, à George Town, Penang, titulaire d'un Bib Gourmand du Guide MICHELIN. Lancé comme un projet de retraite en 2018, il est réputé pour des plats tels que le fish amritsari et le palak paneer, servis dans une salle colorée et emplie de musique."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "Tous les jours 12h00-15h00 et 17h00-22h00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (vivaneau rouge), butter chicken avec naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "Un restaurant pendjabi / nord-indien de longue date dans le Little India de George Town, titulaire d'un MICHELIN Bib Gourmand. Les convives louent sa cuisine nord-indienne authentique, ses portions généreuses et ses incontournables fish amritsari, butter chicken et dal makhani, dans une salle à manger gaie et colorée."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

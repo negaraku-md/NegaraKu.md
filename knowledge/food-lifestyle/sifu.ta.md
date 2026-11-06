@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "திங்கள், செவ்வாய், வியாழன், வெள்ளி 11:30-15:00 & 18:00-21:45; சனி-ஞாயிறு 11:30-21:45; புதன் மூடப்பட்டிருக்கும் (MICHELIN Guide படி; பிற பட்டியல்கள் வேறுபடுகின்றன, தொலைபேசியில் உறுதிப்படுத்தவும்)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (முட்டையுடன் சோயா சாஸில் குழைய வேகவைத்த பன்றி இறைச்சி), jiu hu char (கணவாய் மீனுடன் சமைத்த பங்காங்கிழங்கு), asam prawns (புளிப்பு இறால்), inchi kabin (பொரித்த கோழி)"
+  reviewSummary: "Rope Walk-இல் அமைந்த ஒரு சிறிய, எளிமையான கடைவீடு (சுமார் 7 மேசைகள்), 70 வயதில் இருக்கும் அனுபவமிக்க வீட்டுச் சமையல்காரர் ஒருவரால் நடத்தப்படுகிறது, சுமார் 40 கிளாசிக் Peranakan/Nyonya உணவுகளை a la carte முறையில் வழங்குகிறது. MICHELIN Guide Kuala Lumpur & Penang 2026 Bib Gourmand பட்டியலில் இடம்பெற்றுள்ளது. மதிப்புரைகள் பொதுவாக சாதகமானவை, வீட்டு முறை குழம்புகளையும் சிறப்பாகச் சமைக்கப்பட்ட கிளாசிக் உணவுகளையும் பாராட்டுகின்றன, இருப்பினும் சில உண்பவர்கள் உணவு சராசரி என்றே கருதினர்; முன்பதிவு, குறிப்பாக இரவு உணவுக்கு, அவசியம் என்று பரவலாகக் கூறப்படுகிறது."
+  phone: "+60 4-305 1867"
 summary: "Sifu என்பது Penang-இன் George Town-இல் Jalan Pintal Tali-இல் உள்ள ஒரு MICHELIN Bib Gourmand Peranakan உணவகம். அதன் சமையலறை பல தசாப்த அனுபவமுள்ள 70 வயதுகளில் உள்ள ஒரு வீட்டுச் சமையற்காரியால் வழிநடத்தப்படுகிறது; சுமார் 40 உணவுகள் கொண்ட மெனு பாரம்பரிய Nyonya சமையலின் கிளாசிக் உணவுகளை உள்ளடக்கியது — அவற்றுள் புளி நிறைந்த இனிப்பு-புளிப்பு சாஸில் ஒரு நெகிழ்வான asam prawn."
 answer: "Sifu என்பது Penang-இன் George Town-இல் 154 Jalan Pintal Tali-இல் உள்ள ஒரு MICHELIN Bib Gourmand Peranakan உணவகம். அதன் சமையலறை பல தசாப்தங்களாகச் சமைத்துவரும் 70 வயதுகளில் உள்ள ஒரு பெண்மணியால் நிர்வகிக்கப்படுகிறது; மெனு பாரம்பரிய Peranakan (Nyonya) சமையலின் சுமார் 40 à la carte கிளாசிக் உணவுகளை வழங்குகிறது. சிக்னேச்சர்களுள் கரும், புளி நிறைந்த இனிப்பு-புளிப்பு சாஸில் நெகிழ்வான asam prawn மற்றும் mang kuang char — காய்ந்த கணவாய் மற்றும் காளானுடன் வதக்கிய நறுக்கிய மாக்காய் (yam bean) — அடங்கும். MICHELIN இதை $ வரம்பில் வைக்கிறது."
 keyTakeaways:

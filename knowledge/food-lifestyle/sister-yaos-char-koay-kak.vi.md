@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak: George Town, Penang"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — viên bánh củ cải xào chảo với trứng và củ cải muối"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "Thứ Hai, Thứ Ba, Thứ Sáu, Thứ Bảy, Chủ Nhật 07:00-12:00; đóng cửa Thứ Tư & Thứ Năm"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak (thêm trứng hoặc trứng đôi; tùy chọn ớt/tương ớt)"
+  reviewSummary: "Một quầy hàng rong Teochew lâu đời trên Lorong Macalister, do cha của các chị em mở từ năm 1963 và nay do chị em nhà Yao điều hành; được liệt kê trong MICHELIN Bib Gourmand. Những viên bánh gạo/bánh củ cải hấp được xào trên lửa lớn trong chảo để tạo hương 'wok hei' đượm khói cùng nước tương, trứng, giá đỗ và củ cải muối, tùy chọn thêm ớt. Giới phê bình nhấn mạnh kết cấu mượt mà, vị cháy khói thơm và vị mặn đậm đà từ củ cải muối; một số người nói rằng món này ngày càng cuốn hút chứ không gây ấn tượng ngay lập tức. Hãy chuẩn bị xếp hàng vào giờ cao điểm và đến sớm vì có thể hết hàng."
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

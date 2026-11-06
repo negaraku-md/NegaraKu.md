@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "सोमवार, मंगलवार, गुरुवार, शुक्रवार 11:30-15:00 और 18:00-21:45; शनिवार-रविवार 11:30-21:45; बुधवार बंद (MICHELIN Guide के अनुसार; अन्य सूचियाँ भिन्न हैं, फ़ोन पर पुष्टि करें)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (अंडे के साथ सोया में धीमी आँच पर पका सूअर का पेट का मांस), jiu hu char (कटलफ़िश के साथ पकी जिकामा), asam prawns (खट्टे झींगे), inchi kabin (तला हुआ चिकन)"
+  reviewSummary: "Rope Walk की एक छोटी, सादगीभरी शॉपहाउस (लगभग 7 मेज़) जिसे 70 की उम्र की एक अनुभवी घरेलू रसोइया चलाती हैं, जहाँ करीब 40 क्लासिक Peranakan/Nyonya व्यंजन a la carte परोसे जाते हैं। इसे MICHELIN Guide Kuala Lumpur & Penang 2026 की Bib Gourmand सूची में शामिल किया गया है। समीक्षाएँ आम तौर पर अनुकूल हैं, जिनमें घरेलू अंदाज़ के धीमे पकवानों और बढ़िया बने क्लासिक व्यंजनों की सराहना की गई है, हालाँकि कुछ भोजनकर्ताओं को खाना केवल औसत लगा; अग्रिम बुकिंग को व्यापक रूप से आवश्यक बताया जाता है, खासकर रात के भोजन के लिए।"
+  phone: "+60 4-305 1867"
 summary: "Sifu, George Town, Penang की Jalan Pintal Tali पर एक MICHELIN Bib Gourmand Peranakan रेस्तरां है। इसकी रसोई दशकों के अनुभव वाली 70 वर्ष की एक घरेलू रसोइये के नेतृत्व में है, और इसका लगभग 40 व्यंजनों का मेनू पारंपरिक Nyonya पाककला के क्लासिक व्यंजनों को समेटता है — जिनमें इमली से भरपूर खट्टी-मीठी चटनी में एक लचीला asam prawn भी शामिल है।"
 answer: "Sifu, George Town, Penang की 154 Jalan Pintal Tali पर एक MICHELIN Bib Gourmand Peranakan रेस्तरां है। इसकी रसोई 70 वर्ष की एक महिला संभालती हैं जो दशकों से खाना बना रही हैं, और मेनू पारंपरिक Peranakan (Nyonya) पाककला के लगभग 40 à la carte क्लासिक व्यंजन प्रस्तुत करता है। सिग्नेचर में एक गहरी, इमली-भरपूर खट्टी-मीठी चटनी में लचीला asam prawn और mang kuang char शामिल हैं — सूखी स्क्विड और मशरूम के साथ भुना कसा हुआ याम बीन। MICHELIN इसे $ श्रेणी में रखता है।"
 keyTakeaways:

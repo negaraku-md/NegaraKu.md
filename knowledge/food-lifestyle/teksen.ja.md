@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen：ジョージタウンのBib Gourmand広東料理の名店"
 seoTitle: "Teksen、ジョージタウン — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "ご飯の上にスライスされたカリカリの二度焼き豚バラ肉と青菜"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "火曜を除き毎日営業；ランチは約11:30-14:30、ディナーは約17:30-20:00。営業時間は情報源により異なり、名物料理は早く売り切れるため、事前に電話を。"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "二度焼き豚バラ肉（クラシックまたは chili padi 炒め）、自家製豆腐の揚げ物／土鍋のカツ入り揚げ豆腐、本日のダブルボイルドスープ、assam（酸味と辛味の）カレー魚"
+  reviewSummary: "改装された George Town のショップハウスにある伝統的な Cantonese zi char の名店で、1965年から営業し、MICHELIN Bib Gourmand を受賞。地元の Peranakan の影響を取り入れた、よく作り込まれた昔ながらの Cantonese 料理で知られ、丸テーブルで提供され、屋内と歩道の席がある。名物の二度焼き豚バラ肉は最も言及される料理で、しばしば売り切れる；店は混雑し、行列が必要なことが多く、ランチとディナーの営業時間は限られている。"
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksenは、ペナン、ジョージタウンのLebuh Carnarvonにある老舗の広東料理店で、質が高くコストパフォーマンスのよい料理に贈られるMICHELIN Bib Gourmandを保持している。1965年から営業し、丁寧に作られた伝統的な広東料理と、地元の風味を加えたフュージョン料理で知られる——看板は自家製の揚げ豆腐に地元産の煮干しを合わせた一皿だ。"
 answer: "Teksenは、ペナン、ジョージタウンの18 & 20 Lebuh Carnarvonにあるカジュアルな広東料理店で、MICHELIN Bib Gourmand——質が高くコストパフォーマンスのよい料理に対するガイドの賞——を保持している。1965年の開業以来、伝統的な広東料理に加え、地元の風味を効かせたフュージョン料理を供し、最もよく知られた一皿は自家製の揚げ豆腐に地元産の煮干しを合わせたものだ。ピーク時には行列を見込んでおきたい。"
 keyTakeaways:

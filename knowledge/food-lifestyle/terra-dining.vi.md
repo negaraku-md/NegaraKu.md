@@ -44,6 +44,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail (TTDI), 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Terra+Dining+91+Jalan+Aminuddin+Baki+Taman+Tun+Dr+Ismail+Kuala+Lumpur"
+  reviewsUrl: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"
+  priceRange: "Set tasting menu (one seating); reported around RM398++ to RM568++ per person depending on the current menu, with an optional wine pairing (approx. RM238++) or zero-proof pairing (approx. RM268); confirm the current price with the restaurant"
+  hours: "Thứ Ba-Thứ Bảy từ 6 giờ tối (lượt ngồi cuối trong buổi tối); đóng cửa Chủ Nhật & Thứ Hai"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Chỉ có một set tasting menu (phải đặt trước) - một thực đơn nhiều món mang gốc Malaysia nghiêng theo phong cách Pháp và là lựa chọn duy nhất. Các món signature được nhắc đến qua nhiều buổi thưởng thức gồm mực với laksa-sabayon và Sarawak laksa XO sauce, một món 'mystery fish' trong masak lemak beurre blanc, pureblood wagyu với má bò nấu rendang, và lobster bisque xây dựng trên hương vị asam laksa."
+  reviewSummary: "Một không gian fine-dining nhỏ theo kiểu quầy bar tại TTDI của bếp trưởng kiêm chủ nhân tự học Chong Yu Cheng ('YC'), được trao MICHELIN star đầu tiên trong cẩm nang Kuala Lumpur & Penang 2026. Các nhà phê bình mô tả đây là ẩm thực Malaysia hiện đại - laksa, rendang, masak lemak và các món địa phương khác được diễn giải lại bằng kỹ thuật châu Âu/Pháp - được phục vụ dưới dạng một tasting menu duy nhất không ngừng tiến hóa, và thường gọi nó là ấm áp dễ chịu thay vì khắc khổ. Kể từ khi đạt sao, chỗ ngồi được cho là đã kín chỗ từ rất sớm; thực đơn và giá thay đổi theo thời gian, nên các chi tiết cần được xác nhận trực tiếp."
+  website: "https://www.terra-dining.com"
+  instagram: "https://www.instagram.com/terradining.kl/"
+  phone: "+60 11-7072 7777"
 sources:
   - title: "Terra Dining"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"

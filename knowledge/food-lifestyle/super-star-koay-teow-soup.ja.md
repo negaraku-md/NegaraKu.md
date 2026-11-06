@@ -44,6 +44,20 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "天皇雞腳粿條湯"
+  address: "78 Lebuh Kimberley, 10100 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
+  priceRange: "$"
+  hours: "月・火・木〜日 8:00-22:00；水曜定休（MICHELIN ガイドによる。他の情報源では営業時間が異なるため、訪問前に確認を）"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "鶏肉・豚肉・魚のつみれ・豚レバー入りの koay teow soup、しょうゆ煮込みの鶏足"
+  reviewSummary: "Lebuh Kimberley にある1960年創業の三代続く屋台で、MICHELIN ガイドに掲載され 'Worth Queueing For.'（並ぶ価値あり）に選ばれています。長時間煮込んだ鶏スープに、ほぐした鶏肉・豚肉・魚のつみれ・豚レバーを合わせた koay teow soup と、炭火で煮込みしょうゆに漬け込んだ鶏足が特に有名です。ピーク時には行列ができると来店客はよく報告しています。"
+  facebook: "https://www.facebook.com/leeming8507/"
+  phone: "+60 16-455 5165"
 sources:
   - title: "Super Star Koay Teow Soup"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/super-star-koay-teow-soup"

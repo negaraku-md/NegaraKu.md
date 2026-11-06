@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "Isnin, Selasa, Khamis, Jumaat 11:30-15:00 & 18:00-21:45; Sabtu-Ahad 11:30-21:45; Rabu tutup (menurut MICHELIN Guide; penyenaraian lain berbeza, sahkan melalui telefon)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (perut babi masak kicap dengan telur), jiu hu char (sengkuang reneh dengan sotong kering), udang asam, inchi kabin (ayam goreng)"
+  reviewSummary: "Sebuah rumah kedai kecil tanpa gempita di Rope Walk (kira-kira 7 meja) yang dikendalikan oleh seorang tukang masak rumah veteran berusia lingkungan 70-an, menyajikan sekitar 40 hidangan klasik Peranakan/Nyonya secara a la carte. Disenaraikan dalam senarai Bib Gourmand MICHELIN Guide Kuala Lumpur & Penang 2026. Ulasan umumnya memuji, menghargai masakan reneh yang menyelerakan dan hidangan klasik yang disediakan dengan baik, walaupun sesetengah pengunjung mendapati makanannya sederhana sahaja; tempahan awal dikatakan secara meluas sebagai penting, terutamanya untuk makan malam."
+  phone: "+60 4-305 1867"
 summary: "Sifu ialah sebuah restoran Peranakan MICHELIN Bib Gourmand di Jalan Pintal Tali, George Town, Pulau Pinang. Dapurnya diterajui oleh seorang tukang masak rumah dalam lingkungan 70-an dengan pengalaman berdekad-dekad, dan menunya yang mempunyai kira-kira 40 item merangkumi hidangan klasik masakan Nyonya tradisional — antaranya asam prawn yang kenyal dalam sos masam manis yang kaya dengan asam jawa."
 answer: "Sifu ialah sebuah restoran Peranakan MICHELIN Bib Gourmand di 154 Jalan Pintal Tali, George Town, Pulau Pinang. Dapurnya diterajui oleh seorang wanita dalam lingkungan 70-an yang telah memasak berdekad-dekad lamanya, dan menunya menawarkan kira-kira 40 hidangan klasik à la carte masakan Peranakan (Nyonya) tradisional. Hidangan istimewanya termasuk asam prawn yang kenyal dalam sos masam manis yang gelap dan kaya asam jawa serta mang kuang char, sengkuang parut yang ditumis dengan sotong kering dan cendawan. MICHELIN meletakkannya dalam julat harga $."
 keyTakeaways:

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: el puesto de serabai Bib Gourmand de Penang"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai — un suave panqueque de arroz y coco en dulce salsa de azúcar de palma"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "Mié-Dom 6:30 a. m. - 10 a. m.; cerrado lun. y mar. El serabai suele agotarse antes de las 10 a. m., así que llega temprano."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai (panqueque de arroz con leche de coco) con sirope de azúcar de palma; disponible solo, con huevo, con azúcar moreno, o en combo para probar los tres"
+  reviewSummary: "Un puesto familiar de larga trayectoria (desde la década de 1970) en el complejo de puestos de comida Astaka Taman Tun Sardon, ampliamente reseñado como el primer puesto de kueh (dulces) malayo en la MICHELIN Guide, donde ostenta un Bib Gourmand. Su serabai característico es un suave panqueque de arroz con leche de coco que se come con dulce sirope de azúcar de palma, un desayuno local muy popular. Abre solo las mañanas de miércoles a domingo y a menudo se agota antes de las 10 a. m."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa es un puesto de comida callejera de larga trayectoria en George Town, Penang, incluido en la selección Bib Gourmand de la MICHELIN Guide, conocido por el serabai, una crepe de harina de arroz con leche de coco que se sirve con una salsa para mojar de sirope de azúcar de palma (gula melaka). En funcionamiento desde la década de 1970, lo vende en versiones natural, con huevo y con azúcar moreno, y suele operar solo a primera hora de la mañana."
 seoTitle: "Serabai Istimewa, Penang (Bib Gourmand)"
 answer: "Serabai Istimewa es un puesto de comida callejera en George Town, Penang, incluido en la MICHELIN Guide Kuala Lumpur & Penang como Bib Gourmand por su cocina de buena relación calidad-precio. Vende serabai —una crepe blanda de harina de arroz con leche de coco que se moja en sirope de azúcar de palma (gula melaka)— desde la década de 1970, en versiones natural, con huevo o con azúcar moreno, y conviene visitarlo antes de las 10am."

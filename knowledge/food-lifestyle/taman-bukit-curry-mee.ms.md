@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: Bib Gourmand Pulau Pinang"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "Curry mee Pulau Pinang — mi dalam sup kari santan pedas dengan kerang dan tauhu pok"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "Sel-Ahad 6:00 AM-9:00 AM; tutup Isnin (menurut MICHELIN; sesetengah senarai melaporkan jualan sehingga ~11 AM)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Curry mee dengan kerang darah, sotong, tauhu pok dan pudina darah babi"
+  reviewSummary: "Sebuah gerai milik keluarga di medan selera Taman Bukit di Bukit Mertajam yang telah menjual curry mee selama hampir 40 tahun, dianugerahkan MICHELIN Bib Gourmand dalam pemilihan Kuala Lumpur & Pulau Pinang 2024. Ia terkenal dengan sup santan yang berkrim bersama pes kari pedas dan kerang darah separuh masak; mangkuknya turut datang dengan mi Hokkien dan bihun, taugeh, udang, sotong, tauhu pok dan puding darah babi. Ia menarik barisan yang panjang, kebanyakannya penduduk tempatan, dan cenderung habis dijual awal, jadi disarankan tiba sebaik sahaja selepas dibuka."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

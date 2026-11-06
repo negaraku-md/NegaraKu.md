@@ -44,6 +44,20 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "天皇雞腳粿條湯"
+  address: "78 Lebuh Kimberley, 10100 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Super+Star+Koay+Teow+Soup+78+Lebuh+Kimberley+George+Town+Penang"
+  priceRange: "$"
+  hours: "सोमवार, मंगलवार, गुरुवार-रविवार 8:00-22:00; बुधवार बंद (MICHELIN गाइड के अनुसार; अन्य स्रोत अलग समय बताते हैं, जाने से पहले पुष्टि कर लें)"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "चिकन, पोर्क, फिश बॉल और पोर्क लीवर के साथ koay teow soup; सोया में पकाए चिकन फीट"
+  reviewSummary: "Lebuh Kimberley पर 1960 से चली आ रही तीसरी पीढ़ी की एक स्ट्रीट-फूड गाड़ी, जो MICHELIN गाइड में सूचीबद्ध है और 'Worth Queueing For.' (कतार में लगने लायक) टैग से चिह्नित है। यह सबसे अधिक अपने koay teow soup के लिए प्रसिद्ध है, जो देर तक पकाए गए चिकन शोरबे में कटे हुए चिकन, पोर्क, फिश बॉल और पोर्क लीवर के साथ बनता है, और कोयले पर पकाए व सोया में मैरीनेट किए चिकन फीट के लिए भी। आगंतुक आमतौर पर व्यस्त समय में कतार लगने की बात बताते हैं।"
+  facebook: "https://www.facebook.com/leeming8507/"
+  phone: "+60 16-455 5165"
 sources:
   - title: "Super Star Koay Teow Soup"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/super-star-koay-teow-soup"

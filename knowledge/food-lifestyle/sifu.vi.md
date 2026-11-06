@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "Thứ Hai, Thứ Ba, Thứ Năm, Thứ Sáu 11:30-15:00 & 18:00-21:45; Thứ Bảy-Chủ Nhật 11:30-21:45; Thứ Tư nghỉ (theo MICHELIN Guide; các nguồn khác có thể khác nhau, vui lòng gọi điện xác nhận)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (thịt ba chỉ kho nước tương kèm trứng), jiu hu char (củ đậu hầm với mực khô), asam prawns (tôm sốt me chua), inchi kabin (gà rán)"
+  reviewSummary: "Một căn nhà phố nhỏ, giản dị ở Rope Walk (khoảng 7 bàn) do một đầu bếp gia đình kỳ cựu ở độ tuổi 70 điều hành, phục vụ khoảng 40 món ăn Peranakan/Nyonya cổ điển theo kiểu gọi món. Được chọn vào danh sách Bib Gourmand của MICHELIN Guide Kuala Lumpur & Penang 2026. Các đánh giá nhìn chung tích cực, khen ngợi các món kho đậm chất nhà làm và những món cổ điển được chế biến khéo léo, dù một số thực khách thấy món ăn chỉ ở mức trung bình; việc đặt chỗ trước được nhiều người mô tả là cần thiết, đặc biệt cho bữa tối."
+  phone: "+60 4-305 1867"
 summary: "Sifu là một nhà hàng Peranakan MICHELIN Bib Gourmand trên đường Jalan Pintal Tali ở George Town, Penang. Gian bếp do một đầu bếp gia đình ở độ tuổi 70 với hàng chục năm kinh nghiệm dẫn dắt, và thực đơn khoảng 40 món của nhà hàng bao quát những món kinh điển của ẩm thực Nyonya truyền thống — trong đó có món asam prawn dai ngọt trong nước xốt chua ngọt đậm vị me."
 answer: "Sifu là một nhà hàng Peranakan MICHELIN Bib Gourmand tại 154 Jalan Pintal Tali ở George Town, Penang. Gian bếp do một phụ nữ ở độ tuổi 70 đã nấu ăn hàng chục năm cầm trịch, và thực đơn cung cấp khoảng 40 món gọi lẻ (à la carte) kinh điển của ẩm thực Peranakan (Nyonya) truyền thống. Món đặc trưng gồm asam prawn dai trong nước xốt chua ngọt sẫm màu, đậm vị me và mang kuang char, củ đậu bào sợi xào với mực khô và nấm. MICHELIN xếp vào phân khúc giá $."
 keyTakeaways:

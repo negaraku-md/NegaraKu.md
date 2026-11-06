@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: George Town's Bib Gourmand Cantonese Institution"
 seoTitle: "Teksen, George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "Crispy double-roasted pork belly sliced over rice with greens"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -18,6 +23,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "Open daily except Tuesday; lunch approx. 11:30-14:30 and dinner approx. 17:30-20:00. Hours vary by source and signature dishes sell out early, so call ahead."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Double-roasted pork belly (classic or fried with chili padi), deep-fried house-made tofu / fried tofu with cutlet in claypot, double-boiled soup of the day, assam (sour-spicy) curry fish"
+  reviewSummary: "A traditional Cantonese zi char institution in a renovated George Town shophouse, operating since 1965 and awarded a MICHELIN Bib Gourmand. Known for well-made old-school Cantonese cooking with local, Peranakan-influenced touches, served at round tables with indoor and sidewalk seating. The signature double-roasted pork belly is the most-cited dish and often sells out; the restaurant is busy and frequently requires queueing, with limited lunch and dinner sessions."
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen is a long-running Cantonese restaurant on Lebuh Carnarvon in George Town, Penang, holding a MICHELIN Bib Gourmand for good-quality, good-value cooking. Operating since 1965, it is known for well-made traditional Cantonese dishes alongside fusion plates with a local twist — the signature being deep-fried house-made tofu with dried local anchovies."
 answer: "Teksen is a casual Cantonese restaurant at 18 & 20 Lebuh Carnarvon in George Town, Penang, that holds a MICHELIN Bib Gourmand — the guide's award for good-quality, good-value cooking. Open since 1965, it serves traditional Cantonese dishes plus fusion plates with a local twist, and its best-known dish is the deep-fried house-made tofu with dried local anchovies. Expect a queue at peak hours."
 keyTakeaways:

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: पेनांग का Bib Gourmand serabai स्टॉल"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "सेराबाई — मीठी पाम शुगर सॉस में एक नरम नारियल-चावल पैनकेक"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "बुध-रविवार सुबह 6:30 - सुबह 10 बजे; सोम व मंगल बंद। सेराबाई (serabai) अक्सर सुबह 10 बजे से पहले बिक जाता है, इसलिए जल्दी आएं।"
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "सेराबाई (serabai — नारियल-दूध वाला चावल पैनकेक) पाम शुगर सिरप के साथ; सादा, अंडे के साथ, या ब्राउन शुगर के साथ, या तीनों चखने के लिए कॉम्बो के रूप में उपलब्ध"
+  reviewSummary: "Astaka Taman Tun Sardon हॉकर परिसर में लंबे समय से चल रहा एक पारिवारिक स्टॉल (1970 के दशक से), जिसे व्यापक रूप से MICHELIN Guide में शामिल होने वाला पहला मलय कुएह स्टॉल बताया गया है, जहां इसे Bib Gourmand मिला हुआ है। इसका सिग्नेचर सेराबाई एक नरम नारियल-दूध वाला चावल पैनकेक है, जिसे मीठे पाम शुगर सिरप के साथ खाया जाता है, यह एक लोकप्रिय स्थानीय नाश्ता है। यह केवल बुधवार से रविवार की सुबह खुलता है और अक्सर सुबह 10 बजे से पहले बिक जाता है।"
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa, George Town, पेनांग का एक पुराना स्ट्रीट-फूड स्टॉल है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है और serabai के लिए प्रसिद्ध है — नारियल-दूध वाला चावल का पैनकेक, जो ताड़-गुड़ (gula melaka) की चाशनी में डुबोकर परोसा जाता है। 1970 के दशक से चल रहा यह स्टॉल इसे सादा, अंडे वाला और भूरी-शक्कर वाला रूपों में बेचता है, और आमतौर पर केवल सुबह-सुबह ही व्यापार करता है।"
 seoTitle: "Serabai Istimewa, पेनांग (Bib Gourmand)"
 answer: "Serabai Istimewa, George Town, पेनांग का एक स्ट्रीट-फूड स्टॉल है, जो किफ़ायती बढ़िया खाने के लिए MICHELIN Guide Kuala Lumpur & Penang में Bib Gourmand के रूप में सूचीबद्ध है। यह 1970 के दशक से serabai बेच रहा है — नारियल-दूध वाला नरम चावल पैनकेक जो ताड़-गुड़ (gula melaka) की चाशनी में डुबोया जाता है — सादा, अंडे वाला या भूरी-शक्कर वाला, और 10am से पहले जाना सबसे अच्छा है।"

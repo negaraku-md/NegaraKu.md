@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: Bib Gourmand แห่งปีนังสำหรับอาหารอินเดียเหนือ"
 seoTitle: "Sardaarji, ร้านอาหารปัญจาบปีนัง"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "แกง butter chicken เนื้อครีมเสิร์ฟพร้อมแผ่นแป้ง naan"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji เป็นร้านอาหารปัญจาบและอินเดียเหนือบนถนน Lebuh China ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide เริ่มต้นเป็นโครงการหลังเกษียณในปี 2018 ขึ้นชื่อเรื่องเมนูอย่าง fish amritsari และ palak paneer เสิร์ฟในห้องที่เต็มไปด้วยสีสันและเสียงดนตรี"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "ทุกวัน 12:00-15:00 และ 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (ปลากะพงแดง), butter chicken กับ naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "ร้านอาหารปัญจาบ / อินเดียเหนือที่เปิดมายาวนานใน Little India ย่าน George Town ได้รับรางวัล MICHELIN Bib Gourmand ลูกค้าต่างชื่นชมอาหารอินเดียเหนือแท้ ปริมาณจัดเต็ม และเมนูเด่นอย่าง fish amritsari, butter chicken และ dal makhani ในห้องอาหารที่สดใสและมีสีสัน"
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

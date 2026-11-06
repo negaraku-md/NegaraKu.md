@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: un Bib Gourmand de Penang para la cocina del norte de la India"
 seoTitle: "Sardaarji, restaurante punyabí de Penang"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "Cremoso curry de butter chicken con pan naan"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji es un restaurante punyabí y del norte de la India en Lebuh China, en George Town, Penang, que posee un Bib Gourmand de la Guía MICHELIN. Nacido como un proyecto de jubilación en 2018, es conocido por platos como el fish amritsari y el palak paneer, servidos en una sala colorida y llena de música."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "Todos los días 12:00-15:00 y 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (pargo rojo), butter chicken con naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "Un restaurante punyabí / del norte de la India de larga trayectoria en Little India, en George Town, galardonado con un MICHELIN Bib Gourmand. Los comensales elogian su auténtica cocina del norte de la India, las raciones generosas y sus insignias fish amritsari, butter chicken y dal makhani, en un comedor alegre y colorido."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

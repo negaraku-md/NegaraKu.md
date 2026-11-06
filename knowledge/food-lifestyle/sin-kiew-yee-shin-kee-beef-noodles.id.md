@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles: MICHELIN Bib Gourmand"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "Sup mi daging sapi — mi dan daging sapi dalam kaldu herbal yang bening"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles adalah kedai mi MICHELIN Guide Bib Gourmand di Jalan Tun Tan Cheng Lock di pusat kota Kuala Lumpur, berawal dari sebuah warung makan tahun 1949 dan terkenal dengan bakso sapi yang kenyal, irisan daging sapi, dan babat sapi yang empuk yang disajikan dengan pilihan mi serta sambal buatan sendiri."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "Sen, Sel, Kam-Min 10:30-16:30; tutup Rab"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Mi daging sapi (kuah atau kering) dengan pilihan hor fun pipih lebar, bihun, atau mi Hakka yang kenyal; bakso sapi buatan tangan; irisan daging sapi; babat sapi; dengan sambal khas kedai"
+  reviewSummary: "Kedai kaki lima legendaris di Petaling Street / Chinatown (sejak 1949) yang meraih MICHELIN Bib Gourmand, terkenal dengan mi daging sapi yang disajikan dalam kuah atau saus kering yang harum, dengan bakso sapi buatan tangan yang kenyal, irisan daging sapi yang empuk, dan babat sapi. Para pengulas menilai makanannya tinggi dan konsisten; keluhan yang umum adalah tempat duduk yang sempit dan panas serta antrean panjang tanpa peneduh pada jam makan siang sibuk."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

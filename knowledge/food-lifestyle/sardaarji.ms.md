@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: Bib Gourmand Pulau Pinang untuk Masakan India Utara"
 seoTitle: "Sardaarji, Restoran Punjabi Pulau Pinang"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "Kari butter chicken berkrim dengan roti naan"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji ialah sebuah restoran Punjabi dan India Utara di Lebuh China, George Town, Pulau Pinang, yang memegang Bib Gourmand MICHELIN Guide. Bermula sebagai projek persaraan pada 2018, ia terkenal dengan hidangan seperti fish amritsari dan palak paneer, yang dihidangkan dalam ruang berwarna-warni yang dipenuhi muzik."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "Setiap hari 12:00-15:00 dan 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (ikan merah), butter chicken dengan naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "Sebuah restoran Punjabi / India Utara yang telah lama beroperasi di Little India, George Town, memegang anugerah MICHELIN Bib Gourmand. Pengunjung memuji masakan India Utara yang autentik, hidangan yang banyak serta fish amritsari, butter chicken dan dal makhani yang menjadi tarikan utama, dalam ruang makan yang ceria dan berwarna-warni."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

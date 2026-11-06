@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: Institusi Masakan Kantonis Bib Gourmand di George Town"
 seoTitle: "Teksen, George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "Perut babi dipanggang dua kali yang rangup dihiris di atas nasi dengan sayur hijau"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "Buka setiap hari kecuali Selasa; makan tengah hari kira-kira 11:30-14:30 dan makan malam kira-kira 17:30-20:00. Waktu berbeza mengikut sumber dan hidangan istimewa cepat habis, jadi telefon dahulu."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Perut babi dipanggang dua kali (klasik atau digoreng dengan chili padi), tauhu buatan sendiri goreng rangup / tauhu goreng dengan cutlet dalam periuk tanah, sup dua kali rebus hari ini, kari ikan assam (masam-pedas)"
+  reviewSummary: "Institusi zi char Cantonese tradisional di sebuah rumah kedai George Town yang telah diubah suai, beroperasi sejak 1965 dan dianugerahkan MICHELIN Bib Gourmand. Terkenal dengan masakan Cantonese lama yang dimasak dengan baik dengan sentuhan tempatan berpengaruh Peranakan, dihidangkan di meja bulat dengan tempat duduk dalam dan di tepi kaki lima. Perut babi dipanggang dua kali yang menjadi tanda ialah hidangan paling kerap disebut dan selalunya cepat habis; restoran ini sibuk dan sering memerlukan beratur, dengan sesi makan tengah hari dan makan malam yang terhad."
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen ialah sebuah restoran Kantonis yang telah lama beroperasi di Lebuh Carnarvon, George Town, Pulau Pinang, memegang MICHELIN Bib Gourmand untuk masakan berkualiti baik dan berbaloi. Beroperasi sejak 1965, ia terkenal dengan hidangan Kantonis tradisional yang dimasak dengan baik di samping hidangan fusion dengan sentuhan tempatan — hidangan istimewanya ialah tauhu buatan sendiri yang digoreng bersama ikan bilis tempatan kering."
 answer: "Teksen ialah sebuah restoran Kantonis santai di 18 & 20 Lebuh Carnarvon, George Town, Pulau Pinang, yang memegang MICHELIN Bib Gourmand — anugerah panduan ini untuk masakan berkualiti baik dan berbaloi. Dibuka sejak 1965, ia menghidangkan hidangan Kantonis tradisional serta hidangan fusion dengan sentuhan tempatan, dan hidangannya yang paling terkenal ialah tauhu buatan sendiri yang digoreng bersama ikan bilis tempatan kering. Jangkakan beratur pada waktu puncak."
 keyTakeaways:

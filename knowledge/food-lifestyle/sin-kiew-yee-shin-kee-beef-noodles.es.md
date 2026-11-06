@@ -3,6 +3,11 @@ topicId: MY-MICH-0027
 title: "Sin Kiew Yee Shin Kee Beef Noodles: Bib Gourmand MICHELIN"
 seoTitle: "Sin Kiew Yee Shin Kee Beef Noodles"
 slug: "sin-kiew-yee-shin-kee-beef-noodles"
+hero: "/media/food/sin-kiew-yee-shin-kee-beef-noodles/hero.webp"
+heroAlt: "Sopa de fideos de ternera — fideos y ternera en un caldo de hierbas claro"
+heroCredit: "N509FZ / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beef_noodle_soup_at_Dazangcun_(20210622125127).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sin Kiew Yee Shin Kee Beef Noodles es un local de fideos con Bib Gourmand de la MICHELIN Guide en Jalan Tun Tan Cheng Lock, en el centro de Kuala Lumpur, heredero de un puesto de comida de 1949 y conocido por sus elásticas albóndigas de res, la res en lonchas y el tierno mondongo de res, servidos sobre una selección de fideos con salsa de chile casera."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "新九如新记牛肉粉"
+  address: "7A, Jalan Tun Tan Cheng Lock, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sin+Kiew+Yee+Shin+Kee+Beef+Noodles+Jalan+Tun+Tan+Cheng+Lock+Kuala+Lumpur"
+  priceRange: "RM12–14 per bowl (small RM12 / large RM14); about RM12–20 per person"
+  hours: "Lun, Mar, Jue-Dom 10:30-16:30; cerrado Mié"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Fideos de ternera (en sopa o secos) con tu elección de hor fun de cinta ancha, bihun o fideos Hakka elásticos; albóndigas de ternera hechas a mano; ternera en lonchas; callos de ternera; con la salsa de chile de la casa"
+  reviewSummary: "Un puesto veterano de Petaling Street / Chinatown (desde 1949) galardonado con el MICHELIN Bib Gourmand, conocido por sus fideos de ternera servidos en sopa o con una aromática salsa seca, con elásticas albóndigas de ternera hechas a mano, tierna ternera en lonchas y callos de ternera. Los reseñadores valoran la comida de forma alta y constante; las quejas habituales son el espacio para sentarse estrecho y caluroso y las largas colas sin techar en las horas punta del almuerzo."
+  phone: "+60 12-673 7318"
 sources:
   - title: "Sin Kiew Yee Shin Kee Beef Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sin-kiew-yee-shin-kee-beef-noodles"

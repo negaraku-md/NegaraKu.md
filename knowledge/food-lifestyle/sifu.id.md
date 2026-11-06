@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "Senin, Selasa, Kamis, Jumat 11:30-15:00 & 18:00-21:45; Sabtu-Minggu 11:30-21:45; Rabu tutup (menurut MICHELIN Guide; daftar lain berbeda, konfirmasi melalui telepon)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (perut babi masak kecap dengan telur), jiu hu char (bengkuang rebus dengan cumi kering), asam prawns (udang asam), inchi kabin (ayam goreng)"
+  reviewSummary: "Sebuah rumah toko kecil yang bersahaja di Rope Walk (sekitar 7 meja) yang dikelola oleh seorang juru masak rumahan veteran berusia 70-an, menyajikan sekitar 40 hidangan klasik Peranakan/Nyonya secara a la carte. Masuk dalam daftar Bib Gourmand MICHELIN Guide Kuala Lumpur & Penang 2026. Ulasan umumnya positif, memuji masakan berkuah kental ala rumahan dan hidangan klasik yang dieksekusi dengan baik, meskipun sebagian pengunjung merasa makanannya hanya biasa saja; pemesanan di muka secara luas disebut sebagai hal yang penting, terutama untuk makan malam."
+  phone: "+60 4-305 1867"
 summary: "Sifu adalah restoran Peranakan MICHELIN Bib Gourmand di Jalan Pintal Tali, George Town, Penang. Dapurnya dipimpin oleh seorang juru masak rumahan berusia 70-an dengan pengalaman puluhan tahun, dan menunya yang berisi sekitar 40 item mencakup klasik masakan Nyonya tradisional — di antaranya asam prawn kenyal dalam saus asam manis yang kaya tamarind."
 answer: "Sifu adalah restoran Peranakan MICHELIN Bib Gourmand di 154 Jalan Pintal Tali, George Town, Penang. Dapurnya dikemudikan oleh seorang wanita berusia 70-an yang telah memasak selama puluhan tahun, dan menunya menawarkan sekitar 40 klasik à la carte masakan Peranakan (Nyonya) tradisional. Andalannya meliputi asam prawn kenyal dalam saus asam manis yang gelap dan sarat tamarind serta mang kuang char, bengkuang serut tumis dengan cumi kering dan jamur. MICHELIN mematoknya pada kisaran $."
 keyTakeaways:

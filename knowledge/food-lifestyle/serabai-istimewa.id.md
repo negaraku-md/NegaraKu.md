@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: Kedai Serabai Bib Gourmand Penang"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai — panekuk beras santan yang lembut dengan saus gula aren yang manis"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "Rabu-Minggu 6:30 pagi - 10 pagi; tutup Senin & Selasa. Serabai sering habis sebelum pukul 10 pagi, jadi datanglah lebih awal."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai (panekuk beras santan) dengan sirup gula aren; tersedia polos, dengan telur, atau dengan gula merah, atau sebagai kombo untuk mencoba ketiganya"
+  reviewSummary: "Sebuah kedai keluarga yang sudah lama beroperasi (sejak 1970-an) di kompleks jajanan Astaka Taman Tun Sardon, banyak diberitakan sebagai kedai kue (kueh) Melayu pertama yang masuk MICHELIN Guide, tempat ia menyandang Bib Gourmand. Serabai andalannya adalah panekuk beras santan yang lembut, disantap dengan sirup gula aren yang manis, sarapan lokal yang populer. Kedai ini hanya buka pada pagi hari Rabu hingga Minggu dan sering habis sebelum pukul 10 pagi."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa adalah kedai makanan kaki lima lawas di George Town, Penang, yang masuk dalam seleksi Bib Gourmand MICHELIN Guide, terkenal dengan serabai — panekuk beras santan yang disajikan dengan cocolan sirup gula aren (gula melaka). Beroperasi sejak 1970-an, kedai ini menjualnya dalam versi polos, telur, dan gula merah, dan biasanya hanya berdagang pada pagi hari."
 seoTitle: "Serabai Istimewa, Penang (Bib Gourmand)"
 answer: "Serabai Istimewa adalah kedai makanan kaki lima di George Town, Penang, yang terdaftar di MICHELIN Guide Kuala Lumpur & Penang sebagai Bib Gourmand untuk masakan bernilai. Kedai ini menjual serabai — panekuk beras santan lembut yang dicocol ke sirup gula aren (gula melaka) — sejak 1970-an, tersedia polos, dengan telur atau dengan gula merah, dan paling baik dikunjungi sebelum 10am."

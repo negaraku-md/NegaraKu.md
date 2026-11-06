@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "الاثنين والثلاثاء والخميس والجمعة 11:30-15:00 و18:00-21:45؛ السبت-الأحد 11:30-21:45؛ الأربعاء مغلق (وفقًا لدليل MICHELIN؛ قد تختلف القوائم الأخرى، يُرجى التأكيد هاتفيًا)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "تاو إيو باك (لحم بطن الخنزير المطهو ببطء بصلصة الصويا مع البيض)، جيو هو تشار (نبات الجيكاما المطهو مع الحبار)، أسام برونز (روبيان حامض)، إنتشي كابين (دجاج مقلي)"
+  reviewSummary: "منزل متجر صغير وبسيط في Rope Walk (نحو 7 طاولات) تديره طاهية منزلية مخضرمة في السبعينيات من عمرها، ويقدّم نحو 40 طبقًا كلاسيكيًا من مطبخ Peranakan/Nyonya حسب الطلب. أُدرج ضمن قائمة Bib Gourmand في دليل MICHELIN لكوالالمبور وبينانغ 2026. المراجعات إيجابية بشكل عام، إذ تشيد بأطباق الطهي البطيء المنزلية والأطباق الكلاسيكية المتقنة، وإن وجد بعض الزبائن أن الطعام عاديّ فقط؛ ويُوصف الحجز المسبق على نطاق واسع بأنه ضروري، لا سيما لوجبة العشاء."
+  phone: "+60 4-305 1867"
 summary: "‏Sifu مطعم Peranakan حائز على MICHELIN Bib Gourmand في Jalan Pintal Tali في George Town، Penang. تقود مطبخه طاهية منزلية في السبعينيات من عمرها بخبرة عقود، وتغطّي قائمته التي تضمّ نحو 40 طبقًا كلاسيكيات طهي Nyonya التقليدي — ومنها asam prawn مطّاطي القوام في صلصة حلوة-حامضة غنية بالتمر الهندي."
 answer: "‏Sifu مطعم Peranakan حائز على MICHELIN Bib Gourmand في 154 Jalan Pintal Tali في George Town، Penang. تتولّى مطبخه سيدة في السبعينيات من عمرها طهت لعقود، وتقدّم القائمة نحو 40 كلاسيكيًا à la carte من مطبخ Peranakan (Nyonya) التقليدي. تشمل الأطباق المميّزة asam prawn مطّاطي القوام في صلصة حلوة-حامضة داكنة غنية بالتمر الهندي، و mang kuang char — لفت أبيض (yam bean) مبشور مقلي مع الحبار المجفف والفطر. ويضعه MICHELIN في فئة $."
 keyTakeaways:

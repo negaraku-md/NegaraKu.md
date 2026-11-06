@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0060"
 title: "Sister Yao's Char Koay Kak: جورج تاون، بينانغ"
 slug: "sister-yaos-char-koay-kak"
+hero: "/media/food/sister-yaos-char-koay-kak/hero.webp"
+heroAlt: "Char koay kak — مكعبات كعكة الفجل المقلية في المقلاة مع البيض والفجل المخلل"
+heroCredit: "Choo Yut Shing from Singapore, Singapore / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Chai_Tow_Kway_(54154447543).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -40,6 +45,19 @@ keywords:
   - "George Town hawker"
 
 updated: 2026-11-06
+place:
+  nativeName: "姚氏姐妹炒粿角"
+  address: "96 Lorong Macalister, George Town, 11400 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sister%20Yao%27s%20Char%20Koay%20Kak%2096%20Lorong%20Macalister%20George%20Town%20Penang"
+  priceRange: "RM4–RM6 per plate"
+  hours: "الإثنين، الثلاثاء، الجمعة، السبت، الأحد 07:00-12:00؛ مغلق الأربعاء والخميس"
+  halal: "non-halal"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char koay kak (مع بيضة أو بيضتين؛ فلفل حار/صلصة حارة اختياري)"
+  reviewSummary: "كشك طعام شارع من مطبخ Teochew يعمل منذ زمن طويل في Lorong Macalister، أسّسه والد الأختين عام 1963 وتديره الآن أختا عائلة Yao؛ مُدرج ضمن MICHELIN Bib Gourmand. تُقلى مكعبات كعكة الأرز/الفجل المطهوة على البخار في المقلاة على نار عالية للحصول على نكهة 'wok hei' المدخّنة مع صلصة الصويا والبيض وبراعم الفول والفجل المخلل، مع الفلفل الحار اختيارياً. يُبرز النقّاد القوام الحريري والشواء المدخّن واللمسة المالحة من الفجل المخلل؛ ويقول البعض إنه يكبر في نفسك مع الوقت بدلاً من أن يبهرك من أول قضمة. توقّع طابوراً في ساعات الذروة واحضر مبكراً لأنه قد ينفد."
+  phone: "+60 16-420 6438"
 sources:
   - title: "Sister Yao's Char Koay Kak"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sister-yao-s-char-koay-kak"

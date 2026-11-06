@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: كشك serabai الحائز على Bib Gourmand في بينانغ"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "السيرابي — فطيرة أرز طرية بجوز الهند في صلصة سكر النخيل الحلوة"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "الأربعاء-الأحد 6:30 صباحًا - 10 صباحًا؛ مغلق الإثنين والثلاثاء. غالبًا ما ينفد السيرابي (serabai) قبل الساعة 10 صباحًا، لذا احضر مبكرًا."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "السيرابي (serabai — فطيرة أرز بحليب جوز الهند) مع شراب سكر النخيل؛ متوفر ساده، أو بالبيض، أو بالسكر البني، أو كطبق مشترك لتجربة الأنواع الثلاثة"
+  reviewSummary: "كشك عائلي عريق (منذ سبعينيات القرن الماضي) في مجمع الباعة Astaka Taman Tun Sardon، ورد على نطاق واسع أنه أول كشك كويه (حلوى) ملايوي يُدرج في دليل MICHELIN Guide، حيث يحمل تصنيف Bib Gourmand. السيرابي المميز لديه هو فطيرة أرز طرية بحليب جوز الهند تؤكل مع شراب سكر النخيل الحلو، وهي فطور محلي محبوب. يفتح صباحات الأربعاء حتى الأحد فقط، وكثيرًا ما ينفد قبل الساعة 10 صباحًا."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa كشك طعام شارع عريق في George Town ببينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide، ويشتهر بـ serabai — فطيرة أرز بحليب جوز الهند تُقدَّم مع غموس من شراب سكر النخيل (gula melaka). يعمل منذ سبعينيات القرن الماضي، ويبيع الطبق في نسخ عادية وبالبيض وبالسكر البني، وعادةً لا يفتح إلا في الصباح الباكر."
 seoTitle: "Serabai Istimewa، بينانغ (Bib Gourmand)"
 answer: "Serabai Istimewa كشك طعام شارع في George Town ببينانغ، مُدرَج في MICHELIN Guide Kuala Lumpur & Penang بوصفه Bib Gourmand لطهيٍ يستحق قيمته. يبيع serabai — فطيرة أرز لينة بحليب جوز الهند تُغمَس في شراب سكر النخيل (gula melaka) — منذ سبعينيات القرن الماضي، وتُقدَّم عادية أو بالبيض أو بالسكر البني، والأفضل زيارته قبل 10am."

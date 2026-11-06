@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: แผงบิบ กูร์มองด์ที่ผัดด้วยถ่านของจอร์จทาวน์"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — เส้นก๋วยเตี๋ยวแบนผัดไฟถ่านกับกุ้งบนใบตอง"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "อังคาร-เสาร์ 12:00-18:00; ปิดวันอาทิตย์และวันจันทร์; มักปิดเร็วกว่าเมื่อขายหมด"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "char koay teow ผัดด้วยไฟถ่าน แบบเผ็ด พร้อมเครื่องเพิ่มกุ้งและหอยแครง"
+  reviewSummary: "ร้านอาหารริมทางเก่าแก่ของจอร์จทาวน์ (เจ้าของคือ Tan Chooi Hong ผัดมากว่า 50 ปี) ที่มีชื่อเสียงด้าน char koay teow ซึ่งผัดบนไฟถ่าน ทำให้ได้ wok hei ที่ชัดเจน รายการใน MICHELIN Guide แนะนำแบบเผ็ด และระบุว่าเครื่องเพิ่มกุ้งและหอยแครงคุ้มค่ากับเงินที่จ่ายเพิ่ม คาดว่าจะมีคิวก่อนเปิดร้านตอนเที่ยง และรอได้นานถึงประมาณ 45-60 นาที นานกว่านั้นในวันหยุดสุดสัปดาห์ ร้านจะปิดเมื่อขายหมด"
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0052
 title: "Sardaarji: வட இந்திய சமையலுக்கான பினாங்கின் ஒரு Bib Gourmand"
 seoTitle: "Sardaarji, பினாங்கு பஞ்சாபி உணவகம்"
 slug: "sardaarji"
+hero: "/media/food/sardaarji/hero.webp"
+heroAlt: "naan ரொட்டியுடன் கிரீமி butter chicken கறி"
+heroCredit: "Mohammad Fahim / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/chicken-tikka-masala-with-naan-bread-on-a-wooden-board-ChM5be5nhis"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Sardaarji என்பது பினாங்கு ஜார்ஜ் டவுனில் Lebuh China-வில் உள்ள ஒரு பஞ்சாபி மற்றும் வட இந்திய உணவகம், இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. 2018-இல் ஓய்வுக்காலத் திட்டமாகத் தொடங்கிய இது, fish amritsari மற்றும் palak paneer போன்ற உணவுகளுக்காக அறியப்படுகிறது, வண்ணமயமான, இசை நிறைந்த அறையில் பரிமாறப்படுகிறது."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "6 Lebuh China, George Town, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sardaarji%20George%20Town%20Penang&query_place_id=ChIJTTCe6szDSjARy_MBxFG_0x8"
+  priceRange: "$$"
+  hours: "தினமும் 12:00-15:00 மற்றும் 17:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Fish amritsari (சிவப்பு ஸ்னாப்பர்), butter chicken உடன் naan, palak paneer, dal makhani, gulab jamun"
+  reviewSummary: "George Town-இன் Little India-வில் நீண்டகாலமாக இயங்கிவரும் பஞ்சாபி / வட இந்திய உணவகம், MICHELIN Bib Gourmand அங்கீகாரம் பெற்றது. உண்மையான வட இந்திய சமையல், அள்ளித்தரும் அளவு மற்றும் சிறப்பு fish amritsari, butter chicken மற்றும் dal makhani ஆகியவற்றை மகிழ்ச்சியான, வண்ணமயமான உணவுக்கூடத்தில் சாப்பிடுபவர்கள் பாராட்டுகின்றனர்."
+  facebook: "https://www.facebook.com/Sardaarjifop"
+  phone: "+60 4-306 1902"
 sources:
   - title: "Sardaarji"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/sardaarji"

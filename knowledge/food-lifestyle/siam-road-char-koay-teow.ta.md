@@ -3,6 +3,11 @@ topicId: MY-MICH-0047
 title: "Siam Road Char Koay Teow: ஜார்ஜ் டவுனின் கரி-நெருப்பில் வறுக்கப்படும் Bib Gourmand கடை"
 seoTitle: "Siam Road Char Koay Teow"
 slug: "siam-road-char-koay-teow"
+hero: "/media/food/siam-road-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — வாழை இலையில் இறாலுடன் கரி நெருப்பில் வறுத்த தட்டையான நூடுல்ஸ்"
+heroCredit: "Ardzun / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_Kway_Teow_(1).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82 Jalan Siam, George Town, 10400 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Siam+Road+Char+Koay+Teow+82+Jalan+Siam+George+Town"
+  priceRange: "$ (approx RM 6-10 per plate)"
+  hours: "செவ்வாய்-சனி 12:00-18:00; ஞாயிறு & திங்கள் மூடப்படும்; விற்றுத் தீர்ந்தவுடன் பெரும்பாலும் முன்னதாகவே மூடிவிடும்"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "கரி நெருப்பில் வறுத்த char koay teow, காரமான வகை, இறால் மற்றும் மட்டி சேர்ப்புகளுடன்"
+  reviewSummary: "ஜோர்ஜ் டவுனின் நீண்டகாலமாக இயங்கிவரும் தெருவுணவு நிறுவனம் (உரிமையாளர் Tan Chooi Hong, 50 ஆண்டுகளுக்கும் மேலாக வறுத்து வருகிறார்), கரி நெருப்பில் சமைக்கப்படும் char koay teow-வுக்குப் புகழ்பெற்றது, இது தனித்துவமான wok hei-யைத் தருகிறது. MICHELIN வழிகாட்டி பட்டியல் காரமான வகையைப் பரிந்துரைக்கிறது, மேலும் இறால் மற்றும் மட்டி சேர்ப்புகள் கூடுதல் செலவுக்கு ஏற்றவை என்கிறது. நண்பகல் 12 மணிக்குத் திறப்பதற்கு முன்பே வரிசை இருக்கும் என எதிர்பார்க்கலாம், மற்றும் சுமார் 45-60 நிமிடங்கள் வரை காத்திருக்க நேரிடும், வார இறுதிகளில் அதிகம்; விற்றுத் தீர்ந்தவுடன் கடை மூடப்படும்."
 sources:
   - title: "Siam Road Char Koay Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/siam-road-char-koay-teow"

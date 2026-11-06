@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen: สถาบันอาหารกวางตุ้ง Bib Gourmand แห่ง George Town"
 seoTitle: "Teksen, George Town — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "หมูสามชั้นย่างสองครั้งกรอบหั่นวางบนข้าวพร้อมผักใบเขียว"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "เปิดทุกวันยกเว้นวันอังคาร; มื้อกลางวันประมาณ 11:30-14:30 และมื้อเย็นประมาณ 17:30-20:00 เวลาทำการแตกต่างกันไปตามแหล่งข้อมูลและเมนูเด็ดมักขายหมดเร็ว จึงควรโทรสอบถามล่วงหน้า"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "หมูสามชั้นย่างสองครั้ง (สูตรคลาสสิกหรือผัดกับ chili padi), เต้าหู้ทำเองทอดกรอบ / เต้าหู้ทอดกับหมูชุบแป้งทอดในหม้อดิน, ซุปตุ๋นสองชั้นประจำวัน, แกงปลา assam (เปรี้ยวเผ็ด)"
+  reviewSummary: "ร้าน Cantonese zi char แบบดั้งเดิมในตึกแถวย่าน George Town ที่ได้รับการปรับปรุงใหม่ เปิดดำเนินการตั้งแต่ปี 1965 และได้รับรางวัล MICHELIN Bib Gourmand ขึ้นชื่อเรื่องอาหาร Cantonese แบบเก่าที่ปรุงอย่างพิถีพิถันพร้อมกลิ่นอายท้องถิ่นที่ได้รับอิทธิพลจาก Peranakan เสิร์ฟบนโต๊ะกลมพร้อมที่นั่งทั้งในร้านและริมทางเท้า เมนูเด็ดหมูสามชั้นย่างสองครั้งเป็นจานที่ถูกกล่าวถึงมากที่สุดและมักขายหมด ร้านคึกคักและมักต้องต่อคิว โดยมีช่วงเวลาเปิดมื้อกลางวันและมื้อเย็นที่จำกัด"
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen เป็นร้านอาหารกวางตุ้งเก่าแก่บนถนน Lebuh Carnarvon ใน George Town รัฐ Penang ที่ได้รับ MICHELIN Bib Gourmand สำหรับอาหารคุณภาพดีคุ้มค่า เปิดดำเนินการตั้งแต่ปี 1965 ร้านมีชื่อเสียงด้านอาหารกวางตุ้งดั้งเดิมที่ปรุงอย่างพิถีพิถัน ควบคู่กับเมนูฟิวชันที่เติมกลิ่นอายท้องถิ่น — เมนูซิกเนเจอร์คือเต้าหู้ทอดทำเองราดปลากะตักแห้งท้องถิ่น"
 answer: "Teksen เป็นร้านอาหารกวางตุ้งสไตล์สบาย ๆ ที่ 18 & 20 Lebuh Carnarvon ใน George Town รัฐ Penang ซึ่งได้รับ MICHELIN Bib Gourmand — รางวัลของคู่มือสำหรับอาหารคุณภาพดีคุ้มค่า เปิดมาตั้งแต่ปี 1965 ร้านเสิร์ฟอาหารกวางตุ้งดั้งเดิมพร้อมเมนูฟิวชันที่เติมกลิ่นอายท้องถิ่น และเมนูที่รู้จักกันดีที่สุดคือเต้าหู้ทอดทำเองราดปลากะตักแห้งท้องถิ่น ช่วงเวลาเร่งด่วนคาดว่าจะต้องต่อคิว"
 keyTakeaways:

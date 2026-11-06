@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "จันทร์ อังคาร พฤหัสบดี ศุกร์ 11:30-15:00 และ 18:00-21:45; เสาร์-อาทิตย์ 11:30-21:45; พุธปิด (อ้างอิงตาม MICHELIN Guide; รายการอื่นอาจต่างออกไป โปรดยืนยันทางโทรศัพท์)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (หมูสามชั้นตุ๋นซีอิ๊วกับไข่), jiu hu char (มันแกวตุ๋นกับปลาหมึก), asam prawns (กุ้งผัดอาซัม), inchi kabin (ไก่ทอด)"
+  reviewSummary: "ร้านตึกแถวเล็กๆ ที่เรียบง่ายย่าน Rope Walk (ประมาณ 7 โต๊ะ) ดำเนินการโดยแม่ครัวบ้านมากประสบการณ์วัย 70 กว่าปี เสิร์ฟอาหารคลาสสิก Peranakan/Nyonya แบบ a la carte ราว 40 เมนู ได้รับการคัดเลือกเข้าสู่รายการ Bib Gourmand ของ MICHELIN Guide Kuala Lumpur & Penang 2026 รีวิวโดยทั่วไปเป็นไปในทางบวก ชื่นชมอาหารตุ๋นแบบโฮมเมดและเมนูคลาสสิกที่ปรุงได้ดี แม้ลูกค้าบางส่วนจะรู้สึกว่าอาหารอยู่ในระดับพอใช้ มีการกล่าวถึงอย่างกว้างขวางว่าการจองล่วงหน้าเป็นสิ่งจำเป็น โดยเฉพาะมื้อค่ำ"
+  phone: "+60 4-305 1867"
 summary: "Sifu เป็นร้านอาหาร Peranakan MICHELIN Bib Gourmand บนถนน Jalan Pintal Tali ใน George Town รัฐ Penang ครัวนำโดยแม่ครัวบ้าน ๆ วัย 70 กว่าที่มีประสบการณ์หลายทศวรรษ และเมนูราว 40 อย่างครอบคลุมเมนูคลาสสิกของอาหาร Nyonya ดั้งเดิม — หนึ่งในนั้นคือ asam prawn เนื้อเด้งในซอสเปรี้ยวหวานที่เข้มข้นด้วยมะขาม"
 answer: "Sifu เป็นร้านอาหาร Peranakan MICHELIN Bib Gourmand ที่ 154 Jalan Pintal Tali ใน George Town รัฐ Penang ครัวนำโดยหญิงวัย 70 กว่าที่ทำอาหารมาหลายทศวรรษ และเมนูมีเมนูคลาสสิกแบบ à la carte ของอาหาร Peranakan (Nyonya) ดั้งเดิมราว 40 อย่าง เมนูซิกเนเจอร์รวมถึง asam prawn เนื้อเด้งในซอสเปรี้ยวหวานสีเข้มที่หนักมะขาม และ mang kuang char มันแกวขูดฝอยผัดกับปลาหมึกแห้งและเห็ด MICHELIN จัดอยู่ในระดับราคา $"
 keyTakeaways:

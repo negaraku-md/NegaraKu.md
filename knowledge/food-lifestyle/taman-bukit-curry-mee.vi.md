@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: Bib Gourmand Penang"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "Curry mee Penang — mì trong nước dùng cà ri nước cốt dừa cay với sò huyết và đậu hũ chiên phồng"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "Thứ Ba-Chủ Nhật 6:00 AM-9:00 AM; đóng cửa Thứ Hai (theo MICHELIN; một số danh sách cho biết bán đến khoảng 11 AM)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Curry mee với sò huyết, mực, đậu hũ chiên phồng và huyết heo"
+  reviewSummary: "Một quầy hàng do gia đình điều hành trong khu ẩm thực Taman Bukit ở Bukit Mertajam, đã bán curry mee gần 40 năm và được trao giải MICHELIN Bib Gourmand trong danh sách Kuala Lumpur & Penang 2024. Quầy nổi tiếng với nước dùng nước cốt dừa béo ngậy cùng sốt cà ri cay và sò huyết tái; tô còn kèm mì Phúc Kiến và bún gạo, giá đỗ, tôm, mực, đậu hũ chiên phồng và huyết heo. Quầy thu hút hàng dài, phần lớn là khách địa phương, và thường bán hết sớm, nên khuyên bạn đến ngay sau khi mở cửa."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

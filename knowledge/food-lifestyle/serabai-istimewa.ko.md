@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: 페낭의 Bib Gourmand serabai 노점"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "세라바이 — 달콤한 팜슈가 소스를 곁들인 부드러운 코코넛 쌀 팬케이크"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "수~일 오전 6:30 - 오전 10시, 월·화 휴무. 세라바이(serabai)는 오전 10시 전에 매진되는 경우가 많으니 일찍 오세요."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "세라바이(serabai, 코코넛밀크 쌀 팬케이크)와 팜슈가 시럽. 플레인, 계란 추가, 흑설탕 추가 중에서 고르거나 세 가지를 모두 맛볼 수 있는 콤보로 주문 가능"
+  reviewSummary: "Astaka Taman Tun Sardon 노점 단지에 있는, 1970년대부터 운영해 온 오래된 가족 노점입니다. MICHELIN Guide에 오른 최초의 말레이 쿠에(과자) 노점으로 널리 보도되었으며, 이곳에서 빕 구르망(Bib Gourmand)을 받았습니다. 대표 메뉴인 세라바이는 부드러운 코코넛밀크 쌀 팬케이크로, 달콤한 팜슈가 시럽과 함께 먹는 인기 있는 현지 아침 식사입니다. 수요일부터 일요일 오전에만 문을 열며, 오전 10시 전에 매진되는 일이 잦습니다."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa는 페낭 George Town에서 오래 운영된 길거리 음식 노점으로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있으며 serabai로 유명하다 — serabai는 코코넛밀크를 넣은 쌀 팬케이크로, 팜슈가(gula melaka) 시럽에 찍어 먹는다. 1970년대부터 영업해 왔으며 플레인, 달걀, 흑설탕 버전을 팔고 보통 이른 아침에만 장사한다."
 seoTitle: "Serabai Istimewa, 페낭 (Bib Gourmand)"
 answer: "Serabai Istimewa는 페낭 George Town의 길거리 음식 노점으로, 가성비 좋은 요리에 주는 Bib Gourmand으로 MICHELIN Guide Kuala Lumpur & Penang에 등재되어 있다. 1970년대부터 serabai — 팜슈가(gula melaka) 시럽에 찍어 먹는 부드러운 코코넛밀크 쌀 팬케이크 — 를 팔아 왔으며 플레인, 달걀 또는 흑설탕으로 제공되고 10am 이전에 방문하는 것이 가장 좋다."

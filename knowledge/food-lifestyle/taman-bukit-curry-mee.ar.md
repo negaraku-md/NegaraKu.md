@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: بيب غورماند بينانغ"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "curry mee بينانغ — نودلز في مرق كاري جوز الهند الحار مع المحار وفقاعات التوفو"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "الثلاثاء-الأحد 6:00 AM-9:00 AM؛ مغلق يوم الاثنين (وفقًا لـ MICHELIN؛ تفيد بعض القوائم بالبيع حتى نحو 11 AM)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "curry mee مع المحار الدموي والحبار وفقاعات التوفو وحلوى دم الخنزير"
+  reviewSummary: "كشك تديره عائلة في ساحة طعام Taman Bukit في Bukit Mertajam، ظل يبيع curry mee لما يقارب 40 عامًا، وحاز على تصنيف MICHELIN Bib Gourmand ضمن اختيار كوالالمبور وبينانغ لعام 2024. يشتهر بحساء حليب جوز الهند الكريمي مع معجون الكاري الحار والمحار الدموي نصف المطهو؛ ويأتي الطبق أيضًا مع نودلز الهوكيان ونودلز الأرز وبراعم الفول والجمبري والحبار وفقاعات التوفو وحلوى دم الخنزير. يجذب طابورًا طويلًا معظمه من السكان المحليين، وعادة ما تنفد الكمية مبكرًا، لذا يُنصح بالوصول بُعيد الافتتاح."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

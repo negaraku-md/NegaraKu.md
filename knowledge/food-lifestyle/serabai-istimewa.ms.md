@@ -2,6 +2,11 @@
 topicId: MY-MICH-0066
 title: "Serabai Istimewa: Gerai Serabai Bib Gourmand Pulau Pinang"
 slug: "serabai-istimewa"
+hero: "/media/food/serabai-istimewa/hero.webp"
+heroAlt: "Serabai — lempeng beras santan yang lembut dalam kuah gula melaka yang manis"
+heroCredit: "D.W. Fisher-Freberg / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Serabi_asli.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 Astaka Taman Tun Sardon, 25 Pintasan Pemancar 5, George Town, 11700 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Serabai+Istimewa+Astaka+Taman+Tun+Sardon+George+Town+Penang"
+  priceRange: "$"
+  hours: "Rabu-Ahad 6:30 pagi - 10 pagi; tutup Isnin & Selasa. Serabai sering habis sebelum 10 pagi, jadi datang awal."
+  halal: "muslim-owned"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Serabai (lempeng beras santan) dengan air gula melaka; ada versi biasa, dengan telur, atau dengan gula perang, atau sebagai set gabungan untuk mencuba ketiga-tiganya"
+  reviewSummary: "Sebuah gerai keluarga yang lama beroperasi (sejak 1970-an) di kompleks penjaja Astaka Taman Tun Sardon, dilaporkan secara meluas sebagai gerai kuih Melayu pertama dalam MICHELIN Guide, tempat ia memegang anugerah Bib Gourmand. Serabai tandanya ialah lempeng beras santan yang lembut, dimakan dengan air gula melaka yang manis, satu sarapan tempatan yang popular. Ia hanya dibuka pada pagi Rabu hingga Ahad dan sering habis sebelum 10 pagi."
+  phone: "+60 13-490 0084"
 summary: "Serabai Istimewa ialah gerai makanan jalanan lama di George Town, Pulau Pinang yang tersenarai dalam pilihan Bib Gourmand MICHELIN Guide, terkenal dengan serabai — lempeng beras bersantan yang dihidangkan dengan cecah sirap gula melaka. Beroperasi sejak 1970-an, gerai ini menjual hidangan tersebut dalam versi biasa, telur dan gula merah, dan biasanya berniaga hanya pada awal pagi."
 seoTitle: "Serabai Istimewa, Pulau Pinang (Bib Gourmand)"
 answer: "Serabai Istimewa ialah gerai makanan jalanan di George Town, Pulau Pinang, tersenarai dalam MICHELIN Guide Kuala Lumpur & Penang sebagai Bib Gourmand untuk masakan berbaloi. Ia menjual serabai — lempeng beras bersantan lembut yang dicecah dalam sirap gula melaka — sejak 1970-an, ditawarkan biasa, dengan telur atau dengan gula merah, dan paling baik dikunjungi sebelum 10am."

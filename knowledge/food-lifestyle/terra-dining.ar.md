@@ -44,6 +44,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "91 Jalan Aminuddin Baki, Taman Tun Dr Ismail (TTDI), 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Terra+Dining+91+Jalan+Aminuddin+Baki+Taman+Tun+Dr+Ismail+Kuala+Lumpur"
+  reviewsUrl: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"
+  priceRange: "Set tasting menu (one seating); reported around RM398++ to RM568++ per person depending on the current menu, with an optional wine pairing (approx. RM238++) or zero-proof pairing (approx. RM268); confirm the current price with the restaurant"
+  hours: "من الثلاثاء إلى السبت ابتداءً من الساعة 6 مساءً (آخر موعد للجلوس في المساء)؛ مغلق الأحد والاثنين"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "تُقدَّم قائمة tasting menu واحدة محدَّدة (يلزم الحجز) - قائمة متعددة الأطباق ذات طابع فرنسي وجذور ماليزية، وهي الخيار الوحيد. تشمل الأطباق المميزة التي ذُكرت عبر جلسات تذوّق متعددة الحبّار مع laksa-sabayon وصلصة Sarawak laksa XO sauce، و'mystery fish' في masak lemak beurre blanc، ولحم wagyu أصيل النسب (pureblood) مع خدّ بقري بنكهة rendang، وحساء الكركند (lobster bisque) المبني على نكهات asam laksa."
+  reviewSummary: "قاعة fine-dining صغيرة بأسلوب الطاولة (counter) في TTDI يديرها الطاهي المالك العصامي Chong Yu Cheng ('YC')، ونالت أول MICHELIN star لها في دليل كوالالمبور وبينانغ لعام 2026. يصف النقّاد الطهي الماليزي الحديث - laksa وrendang وmasak lemak وأطباق محلية أخرى أعيدت صياغتها بتقنيات أوروبية/فرنسية - على أنه يُقدَّم ضمن tasting menu واحدة تتطوّر باستمرار، وكثيراً ما يصفونه بأنه مريح ومطمئن لا متزمّت. ومنذ حصولها على النجمة، يُقال إن المقاعد تُحجَز بالكامل قبل وقت طويل؛ وتتغيّر القائمة والأسعار بمرور الوقت، لذا ينبغي تأكيد التفاصيل مباشرةً."
+  website: "https://www.terra-dining.com"
+  instagram: "https://www.instagram.com/terradining.kl/"
+  phone: "+60 11-7072 7777"
 sources:
   - title: "Terra Dining"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/terra-dining"

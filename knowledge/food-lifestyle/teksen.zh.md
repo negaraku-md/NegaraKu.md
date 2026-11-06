@@ -3,6 +3,11 @@ topicId: MY-MICH-0041
 title: "Teksen：乔治市的 Bib Gourmand 粤菜老字号"
 seoTitle: "Teksen，乔治市 — MICHELIN Bib Gourmand"
 slug: "teksen"
+hero: "/media/food/teksen/hero.webp"
+heroAlt: "酥脆双烧五花肉切片铺在米饭上，配以青菜"
+heroCredit: "Ceeseven / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Crispy_Roasted_Pork_Belly_with_Rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -19,6 +24,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "18 & 20 Lebuh Carnarvon, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Tek+Sen+Restaurant+18+Lebuh+Carnarvon+George+Town+Penang"
+  priceRange: "MICHELIN $$ (roughly MYR 20-40 per person)"
+  hours: "除周二外每天营业；午餐约 11:30-14:30，晚餐约 17:30-20:00。营业时间因资料来源而异，招牌菜很早售罄，建议先致电。"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "双烧五花肉（经典款或配 chili padi 辣椒炒）、酥炸自制豆腐／瓦煲豆腐炸肉排、每日例汤（炖汤）、assam（酸辣）咖喱鱼"
+  reviewSummary: "一家传统粤菜 zi char 老字号，坐落于 George Town 一间翻新的店屋内，自 1965 年营业至今，并荣获 MICHELIN Bib Gourmand。以地道、带 Cantonese 风味且融入 Peranakan 色彩的老派粤菜著称，在圆桌上供应，设有室内及五脚基座位。招牌双烧五花肉是最常被提及的菜肴，常常售罄；餐厅生意繁忙，经常需要排队，午餐和晚餐时段均有限。"
+  facebook: "https://www.facebook.com/TekSenRestaurant"
+  phone: "+60 12-981 5117"
 summary: "Teksen 是一家坐落于槟城乔治市 Lebuh Carnarvon 的老牌粤菜馆，凭借优质且超值的烹调摘得 MICHELIN Bib Gourmand。自1965年营业至今，它以做工扎实的传统粤菜以及带有本地风味的 fusion 菜式闻名——招牌是佐以本地江鱼仔干的自制炸豆腐。"
 answer: "Teksen 是位于槟城乔治市 18 & 20 Lebuh Carnarvon 的一家休闲粤菜馆，摘得 MICHELIN Bib Gourmand——这是指南对优质且超值烹调的嘉许。自1965年开业以来，它供应传统粤菜以及带本地风味的 fusion 菜式，最广为人知的一道是佐以本地江鱼仔干的自制炸豆腐。高峰时段预料需要排队。"
 keyTakeaways:

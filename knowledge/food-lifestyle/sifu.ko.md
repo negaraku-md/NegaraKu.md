@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "월·화·목·금 11:30-15:00 및 18:00-21:45; 토·일 11:30-21:45; 수요일 휴무 (MICHELIN Guide 기준; 다른 정보원과 다를 수 있으니 전화로 확인)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "타우 에우 박(계란을 곁들인 삼겹살 간장 조림), 지우 후 차(갑오징어를 넣고 끓인 히카마), 아삼 프론(새콤한 새우), 인치 카빈(닭튀김)"
+  reviewSummary: "Rope Walk에 있는 작고 소박한 숍하우스(테이블 약 7개)로, 70대의 베테랑 가정 요리사가 운영하며 약 40가지 클래식 Peranakan/Nyonya 요리를 단품으로 제공합니다. MICHELIN Guide Kuala Lumpur & Penang 2026 Bib Gourmand 목록에 선정되었습니다. 리뷰는 대체로 호의적이며 가정식 조림 요리와 잘 만든 클래식 요리를 칭찬하지만, 일부 손님은 음식이 평범하다고 느꼈습니다. 특히 저녁 식사의 경우 사전 예약이 필수라고 널리 언급됩니다."
+  phone: "+60 4-305 1867"
 summary: "Sifu는 페낭 조지타운 Jalan Pintal Tali에 있는 MICHELIN Bib Gourmand 페라나칸(Peranakan) 식당이다. 주방은 수십 년 경력의 70대 가정 요리사가 이끌며, 약 40가지의 메뉴는 전통 뇨냐(Nyonya) 요리의 클래식을 아우른다 — 그중에는 타마린드가 풍부한 새콤달콤한 소스에 버무린 쫄깃한 asam prawn이 있다."
 answer: "Sifu는 페낭 조지타운 154 Jalan Pintal Tali에 있는 MICHELIN Bib Gourmand 페라나칸 식당이다. 주방은 수십 년간 요리해 온 70대 여성이 이끌며, 메뉴는 전통 페라나칸(뇨냐) 요리의 약 40가지 일품(à la carte) 클래식을 제공한다. 대표 메뉴로는 짙고 타마린드가 진한 새콤달콤한 소스에 버무린 쫄깃한 asam prawn과, 마른 오징어·버섯을 넣어 볶은 채 썬 히카마의 mang kuang char가 있다. MICHELIN은 $ 가격대로 책정한다."
 keyTakeaways:

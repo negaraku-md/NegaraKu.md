@@ -2,6 +2,11 @@
 topicId: MY-MICH-0064
 title: "Taman Bukit Curry Mee: பினாங்கு Bib Gourmand"
 slug: "taman-bukit-curry-mee"
+hero: "/media/food/taman-bukit-curry-mee/hero.webp"
+heroAlt: "பினாங்கு curry mee — காரமான தேங்காய்-கறி குழம்பில் நூடுல்ஸ், கக்கிள்ஸ் மற்றும் தோஃபு பஃப்ஸுடன்"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -39,6 +44,18 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai, 14000, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Taman+Bukit+Curry+Mee+Bukit+Mertajam"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"
+  priceRange: "About RM6.50 a bowl; under RM20 per person"
+  hours: "செவ்வாய்-ஞாயிறு 6:00 AM-9:00 AM; திங்கள் மூடப்பட்டிருக்கும் (MICHELIN படி; சில பட்டியல்கள் ~11 AM வரை விற்பதாகக் குறிப்பிடுகின்றன)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "இரத்தக் கக்கிள்ஸ், கணவாய், தோஃபு பஃப்ஸ் மற்றும் பன்றி இரத்தப் புட்டுடன் கூடிய curry mee"
+  reviewSummary: "Bukit Mertajam-இல் உள்ள Taman Bukit உணவு மைதானத்தில் குடும்பத்தால் நடத்தப்படும் ஒரு கடை, இது கிட்டத்தட்ட 40 ஆண்டுகளாக curry mee விற்று வருகிறது, மேலும் 2024 கோலாலம்பூர் & பினாங்கு தேர்வில் MICHELIN Bib Gourmand விருது பெற்றது. காரமான கறி விழுதுடன் கூடிய கிரீமான தேங்காய் பால் சூப் மற்றும் அரைவேக்காடான இரத்தக் கக்கிள்ஸுக்காக இது பிரபலமானது; கிண்ணத்தில் ஹொக்கியன் மற்றும் அரிசி நூடுல்ஸ், முளைக்கீரை, இறால், கணவாய், தோஃபு பஃப்ஸ் மற்றும் பன்றி இரத்தப் புட்டும் வருகிறது. இது பெரும்பாலும் உள்ளூர்வாசிகளைக் கொண்ட நீண்ட வரிசையை ஈர்க்கிறது, மேலும் விரைவில் விற்றுத் தீர்ந்துவிடும் போக்கு உள்ளதால், திறந்த உடனேயே வந்துசேர அறிவுறுத்தப்படுகிறது."
+  phone: "+60 12-486 1852"
 sources:
   - title: "Taman Bukit Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/taman-bukit-curry-mee"

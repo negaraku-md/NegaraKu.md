@@ -6,7 +6,7 @@ slug: "sifu"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
-sourceContentHash: "e542538768546cca"
+sourceContentHash: "21068115c9ef4cc0"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "154 Jalan Pintal Tali (Rope Walk), 10100 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sifu+Nyonya+Cuisine+154+Jalan+Pintal+Tali+George+Town+Penang"
+  reviewsUrl: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/sifu"
+  priceRange: "$$"
+  hours: "Lun, mar, jue, vie 11:30-15:00 y 18:00-21:45; sáb-dom 11:30-21:45; miércoles cerrado (según la Guía MICHELIN; otros listados difieren, confirmar por teléfono)"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tau eu bak (panceta de cerdo braseada en salsa de soja con huevo), jiu hu char (jícama estofada con sepia), asam prawns (gambas agrias), inchi kabin (pollo frito)"
+  reviewSummary: "Una casa comercial pequeña y sin pretensiones en Rope Walk (unas 7 mesas) regentada por una cocinera casera veterana de unos 70 años, que sirve alrededor de 40 platos clásicos Peranakan/Nyonya a la carta. Incluida en la lista Bib Gourmand de la Guía MICHELIN Kuala Lumpur & Penang 2026. Las reseñas son en general favorables y elogian los guisos caseros y los clásicos bien ejecutados, aunque algunos comensales encontraron la comida solo correcta; se describe ampliamente que reservar con antelación es esencial, sobre todo para la cena."
+  phone: "+60 4-305 1867"
 summary: "Sifu es un restaurante peranakan MICHELIN Bib Gourmand en Jalan Pintal Tali, en George Town, Penang. Su cocina está dirigida por una cocinera casera de unos 70 años con décadas de experiencia, y su carta de unos 40 platos recorre los clásicos de la cocina nyonya tradicional — entre ellos un asam prawn de textura firme en una salsa agridulce rica en tamarindo."
 answer: "Sifu es un restaurante peranakan MICHELIN Bib Gourmand en 154 Jalan Pintal Tali, en George Town, Penang. Su cocina está al mando de una señora de unos 70 años que lleva décadas cocinando, y la carta ofrece unos 40 clásicos a la carta de la cocina peranakan (nyonya) tradicional. Entre los platos insignia están un asam prawn de textura firme en una salsa agridulce oscura y cargada de tamarindo y el mang kuang char, jícama rallada salteada con calamar seco y setas. MICHELIN lo sitúa en la banda $."
 keyTakeaways:
