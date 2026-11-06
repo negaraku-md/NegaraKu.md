@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee：槟城一家米其林必比登推介面店"
 seoTitle: "Hot Bowl White Curry Mee，槟城"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "槟城 white curry mee——清淡的椰浆汤面，配有虾、鱼丸、豆卜和血蚶"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee 是槟城乔治市缅甸路（Jalan Rangoon）上一家历史悠久的面店，获得《米其林指南》必比登推介（Bib Gourmand）。自1992年开业以来，它以 white curry mee 闻名——面条浸在椰浆汤底中，另附一碟手工搅拌的咖喱酱在旁，让食客自行决定辣度。"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "周二至周日 08:00-14:30；周一休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee——椰浆汤面，另配一碗手工慢搅的咖喱酱，让你自行调节辣度。"
+  reviewSummary: "乔治市一家老字号，自1992年营业至今，仍由店主兼主厨亲自掌勺，荣获 MICHELIN Bib Gourmand（必比登推介）。招牌 white curry mee 以椰浆汤底的汤面，搭配慢火手搅的虾米辣椒咖喱酱，甜辣兼备。店面简朴、设有冷气，深受本地食客喜爱；仅限现场点餐，时常客满，高峰时段需与他人拼桌。"
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

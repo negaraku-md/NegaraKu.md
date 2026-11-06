@@ -39,6 +39,20 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Kuala Lumpur noodles"
 updated: 2026-11-06
+place:
+  nativeName: "丽丰啦啦米"
+  address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (RM20-40 per person)"
+  hours: "T2 10:00-22:00; T3-CN 09:00-22:00"
+  halal: "non-halal"
+  service: ["dine-in", "takeaway", "delivery"]
+  mustOrder: "Lala bihun, món đặc trưng gồm một tô bún gạo trong nước dùng trong veo đầy ắp lala (nghêu) tươi và tôm, nước súp thơm mùi rượu vàng Trung Hoa và gừng; phiên bản tôm lớn và miến tôm nồi đất cũng rất được ưa chuộng."
+  reviewSummary: "Một quán mì đạt MICHELIN Bib Gourmand ở khu phố Tàu của Kuala Lumpur, khởi đầu từ một quầy hàng ven đường rồi phát triển thành cửa hàng góc phố hai tầng treo đèn lồng đỏ và trang trí kiểu Trung Hoa cổ. Thanh tra MICHELIN chọn lala bihun với tôm là món nhất định phải thử, khen ngợi nước dùng nghêu và tôm thơm mùi rượu vàng Trung Hoa và gừng, đồng thời lưu ý khẩu phần rất hào phóng. Là một trong những quán mì địa phương đông khách nhất trên Jalan Sultan."
+  facebook: "https://www.facebook.com/laifoonglalanoodles"
+  instagram: "https://www.instagram.com/laifonglalanoodles"
+  phone: "+60 3-2022 2011"
 sources:
   - title: "Lai Foong Lala Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"

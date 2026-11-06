@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "zh"
-sourceContentHash: "805a50b15371f203"
+sourceContentHash: "06ede28407d72f6d"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,17 @@ sources:
     publisher: "Options, The Edge"
 
 updated: 2026-11-06
+place:
+  address: "100-104 Jalan Kedah, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
+  hours: "周一 休息；周二 18:00-21:00；周三至周日 12:00-15:00、18:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "Kapitan chicken curry（甲必丹鸡咖喱）与 Joo Hoo Char（辣椒酱炒墨鱼丝配蔬菜）；娘惹 assam fish 与 inche kabin 炸鸡也颇受好评。"
+  reviewSummary: "一家经营多年、朴实的娘惹（Peranakan）餐厅，由一对夫妻档经营（Ivy 掌厨，丈夫待客）逾 15 年，如今迁至更宽敞的 Jalan Kedah 店面，仍沿用同样的家常菜单。获 MICHELIN 必比登推介；以汇集娘惹经典菜式的分享套餐最为知名，适合家庭聚餐、体验在地风味。"
+  facebook: "https://www.facebook.com/ivysnyonyacuisine"
+  phone: "+60 13-433 7878"
 
 relations:
   - { rel: "located-in", to: "penang" }

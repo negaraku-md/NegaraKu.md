@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice: แผงหม้อดินเผาถ่านระดับ Bib Gourmand ใน KL"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "claypot chicken rice พร้อมไก่ ผักใบเขียว และซีอิ๊วดำ"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "ตั้งอยู่ที่ Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200 MICHELIN Guide ระบุเวลาราว 10.00 ถึง 17.00 น. ปิดวันพุธ เป็นรายการอาหารริมทางช่วง $ (ประหยัด)"
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "จ., อ., พฤ.-อา. 10:00-17:30; ปิดวันพุธ"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "claypot chicken rice ที่ปรุงบนเตาถ่าน เสิร์ฟพร้อมไส้กรอกหมูกวางตุ้ง (lap cheong) และขิง เพิ่มปลาเค็มเพื่อกลิ่นหอมยิ่งขึ้น"
+  reviewSummary: "ร้านอาหารริมทางเก่าแก่ที่ปรุง claypot chicken rice ตามสั่งบนเตาถ่านมานานกว่า 30 ปี ข้าวเกิดเป็นแผ่นกรอบที่ก้นหม้อ เสิร์ฟพร้อมไส้กรอกหมูกวางตุ้งและขิง และสามารถเพิ่มปลาเค็มเป็นเครื่องเสริมกลิ่นหอมได้ ร้านได้รับเลือกเป็น Bib Gourmand จาก MICHELIN Guide"
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

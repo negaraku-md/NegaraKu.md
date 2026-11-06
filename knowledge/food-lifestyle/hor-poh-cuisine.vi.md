@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine: MICHELIN Bib Gourmand món Hakka ở Segambut"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "Lei cha Hakka (thunder tea rice) — cơm với rau thảo mộc và rau củ băm nhỏ cùng món súp thảo mộc xanh"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine là một nhà hàng Hakka được MICHELIN Guide gắn Bib Gourmand ở Segambut, Kuala Lumpur. Là một quán khu phố giản dị đã hơn 20 năm, quán nổi tiếng với lei cha (thunder tea rice) — một món súp xanh vị bùi chan lên cơm — và sủi cảo Hakka, bán với giá bình dân."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "T2 11:00-15:00 & 17:00-21:00, T4-CN 11:00-15:00 & 17:00-21:00; T3 đóng cửa"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Lui cha Hor Poh (cơm trà sấm Hakka / thunder tea rice) — món súp rau thảo mộc xanh làm từ mè, đậu phộng và bạc hà xay, ăn kèm cơm hấp với nhiều loại topping; ngoài ra còn có há cảo Hor Poh nhân đậu phụ khô, tỏi và dưa muối"
+  reviewSummary: "Một quán ăn bình dị, lâu đời trong khu dân cư ở Segambut, hơn 20 năm phục vụ món ăn gia đình Hakka đích thực với giá bình dân, được MICHELIN Guide công nhận là Bib Gourmand. Nổi tiếng nhất với lui cha (thunder tea rice) và thường rất đông khách."
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

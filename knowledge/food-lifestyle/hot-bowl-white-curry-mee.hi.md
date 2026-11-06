@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: पेनांग का एक मिशलिन बिब गूरमां नूडल शॉप"
 seoTitle: "Hot Bowl White Curry Mee, पेनांग"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "पेनांग white curry mee — झींगे, मछली के गोले, टोफू पफ और कॉकल्स के साथ हल्के रंग का नारियल नूडल सूप"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee पेनांग के जॉर्ज टाउन में Jalan Rangoon पर स्थित एक पुराना नूडल शॉप है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। 1992 से खुला यह शॉप white curry mee के लिए जाना जाता है — नारियल के दूध वाले शोरबे में नूडल, जिसके साथ हाथ से फेंटा गया करी पेस्ट अलग से दिया जाता है ताकि ग्राहक अपनी तीखापन खुद तय करें।"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "मंगल-रवि 08:00-14:30; सोम बंद"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - नारियल के दूध वाला नूडल सूप, जिसे अलग से हाथ से घोंटे गए करी पेस्ट के कटोरे के साथ परोसा जाता है ताकि आप तीखापन खुद अपनी पसंद से तय कर सकें।"
+  reviewSummary: "जॉर्ज टाउन का एक पुराना चहेता ठिकाना, जो 1992 से चल रहा है और आज भी इसके मालिक-शेफ द्वारा ही चलाया जाता है, जिसे MICHELIN Bib Gourmand से सम्मानित किया गया है। यह अपने खास white curry mee के लिए मशहूर है — नारियल आधारित नूडल सूप, जिसे धीरे-धीरे घोंटे गए सूखे झींगे और मिर्च के करी पेस्ट के साथ परोसा जाता है जो मीठे और तीखे का संतुलन बनाता है। यह एक सादा, वातानुकूलित दुकान है जो स्थानीय लोगों में लोकप्रिय है; केवल वॉक-इन, अक्सर भीड़भाड़ वाला, और व्यस्त समय में साझा मेज़ों के साथ।"
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

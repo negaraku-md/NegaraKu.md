@@ -39,6 +39,16 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Lot No. 39, MBPP Kompleks Makanan Medan Renong, Padang Kota Lama, 4 Jalan Tun Syed Sheh Barakhbah, George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (under RM25 per person)"
+  hours: "الإثنين-الثلاثاء 18:00-22:00؛ الأربعاء-الأحد مغلق"
+  service: ["dine-in"]
+  mustOrder: "نودلز tom yum الخضراء، الطبق المميز لهذا الكشك، في مرق أخضر حامض وحار، يُزيَّن عادةً بسمك مقلي مقرمش وجمبري كبير؛ ويُكمل حساء نودلز صافٍ ونودلز مقلية قائمة الأطباق الثلاثة."
+  reviewSummary: "كشك طعام شارع حائز على MICHELIN Bib Gourmand في مجمّع Medan Renong للطعام قرب الإسبلاند، يقدّم ثلاثة أطباق نودلز فقط. يُشيد مفتشو MICHELIN بنودلز tom yum الخضراء المميزة لتوازنها بين الحموضة والحرارة، وبطبقة السمك المقلي المقرمشة والطرية في آنٍ واحد، والجمبري الغني بنكهة الأومامي. تتشكّل طوابير طويلة قبل الافتتاح المسائي."
+  phone: "+60 12-450 8595"
 sources:
   - title: "Ghee Lian"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/ghee-lian"

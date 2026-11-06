@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "vi"
-sourceContentHash: "805a50b15371f203"
+sourceContentHash: "06ede28407d72f6d"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,17 @@ sources:
     publisher: "Options, The Edge"
 
 updated: 2026-11-06
+place:
+  address: "100-104 Jalan Kedah, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
+  hours: "T2 đóng cửa; T3 18:00-21:00; T4-CN 12:00-15:00, 18:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "Kapitan chicken curry và Joo Hoo Char (mực xắt sợi xào cùng rau trong sốt ớt); món cá assam fish kiểu Nyonya và gà rán inche kabin cũng được đánh giá cao."
+  reviewSummary: "Một nhà hàng Peranakan giản dị, lâu đời, do một cặp vợ chồng điều hành (Ivy nấu bếp, chồng phục vụ) hơn 15 năm, nay chuyển đến cơ sở rộng hơn trên Jalan Kedah với thực đơn kiểu nhà vẫn như cũ. Được MICHELIN Bib Gourmand công nhận; nổi tiếng nhất với các set menu dùng chung quy tụ những món Nyonya cổ điển, phù hợp cho gia đình và để ăn như người địa phương."
+  facebook: "https://www.facebook.com/ivysnyonyacuisine"
+  phone: "+60 13-433 7878"
 
 relations:
   - { rel: "located-in", to: "penang" }

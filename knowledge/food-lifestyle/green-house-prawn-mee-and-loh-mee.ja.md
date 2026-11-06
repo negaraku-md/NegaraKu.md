@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "火-日 16:00-22:00；月曜休み"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee、loh mee、またはその2つのミックス。看板の赤いエビスープに、12種類の追加トッピングから選べる"
+  reviewSummary: "Restoran Old Green House 内にある夜間のみ営業の麺屋台で、30年以上にわたり常連客を集めてきた。MICHELIN ビブグルマン。豚骨とエビの殻から煮出した、深いうま味の赤いエビスープが看板で、Hokkien prawn mee、loh mee、またはその2つのミックスとして提供される。"
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Meeは、ペナン、ジョージタウンのJalan Burmaにある夜間営業のストリートフード屋台で、MICHELIN Bib Gourmandを保持している。30年以上愛されてきた名店で、豚骨とエビの殻から作る深く旨味のある赤いエビスープを土台にしたHokkien prawn meeとloh meeで知られ、十数種のトッピングが選べる。"
 answer: "Green House Prawn Mee and Loh Meeは、ペナン、ジョージタウンのJalan BurmaにあるMICHELIN Bib Gourmandのストリートフード屋台だ。Restoran Old Green Houseの中にあり、Hokkien prawn meeとloh meeで30年以上愛されてきた。看板の赤いエビスープは豚骨とエビの殻で作られ深い旨味をもち、約12種の追加トッピングが提供される。夜間営業で、現金のみ。"
 keyTakeaways:

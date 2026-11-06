@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice: Gerai Claypot Arang Bertaraf Bib Gourmand di KL"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "claypot chicken rice dengan ayam, sayuran hijau, dan kecap pekat"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Terletak di Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200. MICHELIN Guide mencantumkan jam kira-kira 10.00 hingga 17.00, tutup pada hari Rabu. Ini entri jajanan kaki lima $ (hemat)."
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "Sen, Sel, Kam-Min 10:00-17:30; tutup Rabu"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "claypot chicken rice yang dimasak di atas arang, disajikan dengan sosis babi Kanton (lap cheong) dan jahe; tambahkan ikan asin untuk aroma ekstra"
+  reviewSummary: "Kedai makanan kaki lima lama yang telah memasak claypot chicken rice sesuai pesanan di atas arang selama lebih dari 30 tahun. Nasinya membentuk kerak renyah di bagian bawah dan disajikan dengan sosis babi Kanton dan jahe, dengan ikan asin yang tersedia sebagai tambahan beraroma. Pilihan Bib Gourmand MICHELIN Guide."
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

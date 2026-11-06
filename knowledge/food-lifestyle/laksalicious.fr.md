@@ -3,6 +3,11 @@ topicId: MY-MICH-0045
 title: "Laksalicious : le spécialiste du laksa Bib Gourmand de George Town"
 seoTitle: "Laksalicious, George Town — Bib Gourmand"
 slug: "laksalicious"
+hero: "/media/food/laksalicious/hero.webp"
+heroAlt: "assam laksa de Penang — bouillon de poisson au tamarin avec nouilles, maquereau effiloché, concombre, oignon et menthe"
+heroCredit: "DTW / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Assam_Laksa,_Air_Itam,_Penang.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -19,6 +24,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN Bib Gourmand, $)"
+  hours: "mar.-dim. 11:30-19:00; lun. fermé"
+  service: ["dine-in"]
+  mustOrder: "Nyonya assam laksa (bouillon de poisson acidulé) ou Nyonya laksa lemak (bouillon de coco crémeux), avec des beignets de crevettes; les accompagnements comprennent le nasi ulam et le gula melaka cendol"
+  reviewSummary: "Un petit spécialiste du laksa plein de caractère sur Jalan Hutton, distingué par MICHELIN comme un joyeux petit bijou. Il se concentre sur deux styles de laksa Nyonya - un assam laksa acidulé et épicé au bouillon de poisson et un laksa lemak riche au lait de coco - complétés par des beignets de crevettes croustillants et une courte carte d'accompagnements Nyonya. Nommé Bib Gourmand pour sa cuisine d'un bon rapport qualité-prix."
+  facebook: "https://www.facebook.com/LaksaliciousPenang/"
+  phone: "+60 4-229 9178"
 summary: "Laksalicious est un établissement MICHELIN Bib Gourmand sur Jalan Hutton, à George Town, Penang, où le laksa est la vedette. Cette petite échoppe pleine de caractère propose de choisir entre un Nyonya asam laksa au bouillon de poisson aigre et épicé et un Nyonya laksa lemak au bouillon de lait de coco riche et crémeux, aux côtés de plats comme des beignets de crevette, du nasi ulam et du gula melaka cendol."
 answer: "Laksalicious est un restaurant MICHELIN Bib Gourmand au 117-117A Jalan Hutton, à George Town, Penang, où le laksa est le point fort. Il sert deux styles — un Nyonya asam laksa au bouillon de poisson aigre et épicé et un Nyonya laksa lemak au bouillon de lait de coco riche et crémeux — plus des accompagnements dont des beignets de crevette croustillants, du nasi ulam et du gula melaka cendol. MICHELIN le situe dans la fourchette $ et classe la cuisine comme Malaysian."
 keyTakeaways:

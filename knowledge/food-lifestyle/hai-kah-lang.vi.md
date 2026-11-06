@@ -44,6 +44,22 @@ faq:
     a: "Quán ở 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, và MICHELIN Guide ghi giờ mở cửa từ 8 giờ sáng đến 5 giờ chiều hằng ngày. Quán ở khung giá $, có máy lạnh và nhận thẻ tín dụng."
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "T2–CN 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Mì hải sản thập cẩm và mì súp đầu cá nấu sữa, chọn từ nhiều loại mì và nước dùng, cùng phần cá và hải sản có vỏ do bạn tự chọn"
+  reviewSummary: "Quán chuyên mì hải sản đạt Bib Gourmand luôn đông khách ở Taman Cheras; chủ quán còn điều hành một sạp hải sản gần đó, nên thực khách tự chọn cá và hải sản có vỏ tươi để kết hợp với tám loại mì và năm loại nước dùng."
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

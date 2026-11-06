@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine : cuisine hakka Bib Gourmand MICHELIN à Segambut"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "Lei cha Hakka (thunder tea rice) — du riz avec des herbes et des légumes hachés et une soupe verte aux herbes"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine est un restaurant hakka distingué par un Bib Gourmand du MICHELIN Guide, à Segambut, à Kuala Lumpur. Modeste échoppe de quartier depuis plus de 20 ans, elle est réputée pour son lei cha (thunder tea rice) — une soupe verte au goût de noix servie sur du riz — et ses raviolis hakka, proposés à prix cassés."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "Lun 11:00-15:00 & 17:00-21:00, Mer-Dim 11:00-15:00 & 17:00-21:00 ; Mar fermé"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Le lui cha de Hor Poh (riz au thé du tonnerre Hakka / thunder tea rice) : une soupe verte d'herbes et de légumes à base de sésame, de cacahuètes et de menthe moulus, servie sur du riz vapeur avec divers accompagnements ; ainsi que le dumpling Hor Poh fourré de tofu séché, d'ail et de pickles"
+  reviewSummary: "Une échoppe de quartier simple et ancienne à Segambut qui sert depuis plus de 20 ans une authentique cuisine familiale Hakka à prix doux, distinguée par un Bib Gourmand dans le Guide MICHELIN. Elle est surtout connue pour son lui cha (thunder tea rice) et est généralement bondée."
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

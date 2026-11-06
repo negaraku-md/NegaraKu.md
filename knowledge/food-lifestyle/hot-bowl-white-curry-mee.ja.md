@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee：ペナンのミシュラン・ビブグルマンの麺店"
 seoTitle: "Hot Bowl White Curry Mee、ペナン"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "ペナンの white curry mee——海老、魚のすり身団子、油揚げ、赤貝が入った淡い色のココナッツスープ麺"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee は、ペナン・ジョージタウンの Jalan Rangoon にある老舗の麺店で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。1992年の開業以来、white curry mee で知られ、ココナッツミルクのスープに麺を入れ、手で練ったカレーペーストを別添えにして、客が自分で辛さを決められるのが特徴です。"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "火～日 08:00-14:30；月曜定休"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee——ココナッツミルクのスープ麺で、手作業で練り上げたカレーペーストが別皿で添えられ、辛さは自分で調整できます。"
+  reviewSummary: "1992年の創業以来続くジョージタウンの人気店で、今もオーナーシェフが切り盛りし、MICHELIN ビブグルマンに選ばれています。看板の white curry mee は、ココナッツベースのスープ麺に、じっくり練った海老と唐辛子のカレーペーストを合わせ、甘さと辛さのバランスが取れた一杯です。飾り気のない冷房完備の店で地元客に人気。店頭での注文のみで混み合うことが多く、ピーク時には相席になります。"
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

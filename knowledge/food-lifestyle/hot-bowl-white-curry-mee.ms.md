@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: Kedai Mi Bib Gourmand di Pulau Pinang"
 seoTitle: "Hot Bowl White Curry Mee, Pulau Pinang"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "White curry mee Pulau Pinang — sup mi santan pucat dengan udang, bebola ikan, taufu pok dan kerang"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee ialah sebuah kedai mi lama di Jalan Rangoon, George Town, Pulau Pinang, yang memegang Bib Gourmand MICHELIN Guide. Dibuka sejak 1992, kedai ini terkenal dengan white curry mee — mi dalam sup berasaskan santan yang dihidangkan bersama pes kari yang dikacau tangan di tepi supaya pengunjung sendiri menentukan tahap kepedasan."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "Sel-Ahd 08:00-14:30; tutup Isn"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - sup mi berkuah santan yang dihidangkan dengan semangkuk pes kari dikacau tangan secara berasingan supaya anda sendiri boleh menentukan tahap kepedasan."
+  reviewSummary: "Kegemaran lama di George Town yang beroperasi sejak 1992 dan masih dikendalikan oleh chef pemiliknya, dianugerahkan MICHELIN Bib Gourmand. Terkenal dengan white curry mee istimewanya, iaitu sup mi berasaskan santan yang dipadankan dengan pes kari udang dan cili yang dikacau perlahan sehingga mengimbangi rasa manis dan pedas. Kedai berhawa dingin yang ringkas dan popular dalam kalangan penduduk tempatan; masuk terus sahaja dan sering sibuk, dengan meja dikongsi pada waktu puncak."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

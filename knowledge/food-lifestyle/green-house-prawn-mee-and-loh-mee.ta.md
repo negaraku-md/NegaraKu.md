@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "செவ்-ஞாயி 16:00-22:00; திங்கள் மூடப்படும்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee, loh mee, அல்லது இரண்டும் கலந்த வகை; சிறப்பு சிவப்பு இறால் சூப், மேலும் பன்னிரண்டு கூடுதல் டாப்பிங் தேர்வுகளுடன்"
+  reviewSummary: "Restoran Old Green House-க்குள் இரவு நேரம் மட்டும் இயங்கும் நூடுல்ஸ் கடை, 30 ஆண்டுகளுக்கும் மேலாக வழக்கமான வாடிக்கையாளர்களை ஈர்த்து வருகிறது. MICHELIN Bib Gourmand அங்கீகாரம் பெற்றது; பன்றி எலும்புகள் மற்றும் இறால் ஓடுகளில் இருந்து கொதிக்கவைக்கப்பட்ட, ஆழ்ந்த உமாமி நிறைந்த சிவப்பு இறால் சூப் தனிச்சிறப்பு, Hokkien prawn mee, loh mee அல்லது இரண்டும் கலந்த வகையாக வழங்கப்படுகிறது."
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee என்பது Penang-இன் George Town-இல் Jalan Burma-இல் இரவில் இயங்கும் ஒரு தெருவோர உணவுக் கடை; இது MICHELIN Bib Gourmand-ஐப் பெற்றுள்ளது. 30 ஆண்டுகளுக்கும் மேலாக விருப்பமானதாக இருக்கும் இது, பன்றி எலும்புகளாலும் இறால் ஓடுகளாலும் தயாரிக்கப்படும் ஆழமான உமாமி சிவப்பு இறால் சூப்பின் அடிப்படையிலான Hokkien prawn mee மற்றும் loh mee-க்காகப் பெயர் பெற்றது; சுமார் பன்னிரண்டு விருப்பத் தேர்வு டாப்பிங்குகள் உண்டு."
 answer: "Green House Prawn Mee and Loh Mee என்பது Penang-இன் George Town-இல் Jalan Burma-இல் உள்ள ஒரு MICHELIN Bib Gourmand தெருவோர உணவுக் கடை. Restoran Old Green House-இனுள் அமைந்துள்ள இது, அதன் Hokkien prawn mee மற்றும் loh mee-க்காக 30 ஆண்டுகளுக்கும் மேலாக விருப்பமானதாக உள்ளது. சிக்னேச்சர் சிவப்பு இறால் சூப் பன்றி எலும்புகளாலும் இறால் ஓடுகளாலும் தயாரிக்கப்பட்டு ஆழமான உமாமி சுவையைத் தருகிறது; சுமார் பன்னிரண்டு கூடுதல் டாப்பிங்குகள் வழங்கப்படுகின்றன. இது இரவில் இயங்குகிறது, பணம் மட்டுமே ஏற்கும்."
 keyTakeaways:

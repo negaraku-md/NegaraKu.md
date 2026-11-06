@@ -3,6 +3,11 @@ topicId: MY-MICH-0045
 title: "Laksalicious: Pakar Laksa Bib Gourmand di George Town"
 seoTitle: "Laksalicious, George Town — Bib Gourmand"
 slug: "laksalicious"
+hero: "/media/food/laksalicious/hero.webp"
+heroAlt: "Assam laksa Pulau Pinang — sup ikan asam jawa dengan mihun, isi ikan kembung dicarik, timun, bawang dan pudina"
+heroCredit: "DTW / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Assam_Laksa,_Air_Itam,_Penang.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -19,6 +24,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN Bib Gourmand, $)"
+  hours: "Sel-Ahd 11:30-19:00; Isn tutup"
+  service: ["dine-in"]
+  mustOrder: "Nyonya assam laksa (sup ikan masam) atau Nyonya laksa lemak (sup santan berkrim), dengan keropok udang; hidangan sampingan termasuk nasi ulam dan cendol gula melaka"
+  reviewSummary: "Pakar laksa kecil yang penuh karakter di Jalan Hutton, dipilih oleh MICHELIN sebagai permata kecil yang ceria. Ia menumpukan pada dua gaya laksa Nyonya - assam laksa yang masam dan pedas dengan sup berasaskan ikan serta laksa lemak yang kaya dalam santan - dilengkapi dengan keropok udang rangup dan menu ringkas hidangan sampingan Nyonya. Dinamakan Bib Gourmand kerana masakan yang berbaloi."
+  facebook: "https://www.facebook.com/LaksaliciousPenang/"
+  phone: "+60 4-229 9178"
 summary: "Laksalicious ialah sebuah kedai makan MICHELIN Bib Gourmand di Jalan Hutton, George Town, Pulau Pinang, tempat laksa menjadi acara utama. Kedai kecil yang penuh dengan keperibadian ini menawarkan pilihan antara Nyonya asam laksa dengan kuah ikan yang masam dan pedas serta Nyonya laksa lemak dengan kuah santan yang pekat dan berkrim, di samping hidangan seperti cucur udang, nasi ulam dan gula melaka cendol."
 answer: "Laksalicious ialah sebuah restoran MICHELIN Bib Gourmand di 117-117A Jalan Hutton, George Town, Pulau Pinang, tempat laksa menjadi tarikan utama. Ia menghidangkan dua gaya — Nyonya asam laksa dengan kuah ikan yang masam dan pedas serta Nyonya laksa lemak dengan kuah santan yang pekat dan berkrim — ditambah hidangan sampingan termasuk cucur udang rangup, nasi ulam dan gula melaka cendol. MICHELIN meletakkannya dalam julat harga $ dan mengkelaskan masakannya sebagai Malaysian."
 keyTakeaways:

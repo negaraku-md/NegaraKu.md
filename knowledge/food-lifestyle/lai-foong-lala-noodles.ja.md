@@ -39,6 +39,20 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Kuala Lumpur noodles"
 updated: 2026-11-06
+place:
+  nativeName: "丽丰啦啦米"
+  address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (RM20-40 per person)"
+  hours: "月 10:00-22:00; 火-日 09:00-22:00"
+  halal: "non-halal"
+  service: ["dine-in", "takeaway", "delivery"]
+  mustOrder: "ララビーフン（lala bihun）は看板メニューで、澄んだスープに新鮮な lala（アサリ）とエビがたっぷり入った米麺の一杯。スープは紹興酒（中国の黄酒）と生姜の香りが効いている。大エビ入りや土鍋のエビ春雨も人気。"
+  reviewSummary: "クアラルンプールのチャイナタウンにある MICHELIN ビブグルマン（Bib Gourmand）の麺店。屋台から始まり、赤い提灯やレトロな中国風の装飾が飾られた2階建ての角店へと成長した。MICHELIN の調査員はエビ入りの lala bihun を必食の一品として挙げ、紹興酒（中国の黄酒）と生姜の香り豊かなアサリとエビのスープを称賛し、量もたっぷりだと記している。Jalan Sultan で最もにぎわう地元の麺店のひとつ。"
+  facebook: "https://www.facebook.com/laifoonglalanoodles"
+  instagram: "https://www.instagram.com/laifonglalanoodles"
+  phone: "+60 3-2022 2011"
 sources:
   - title: "Lai Foong Lala Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"

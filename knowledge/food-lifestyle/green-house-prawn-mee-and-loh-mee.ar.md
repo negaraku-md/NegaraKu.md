@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "الثلاثاء-الأحد 16:00-22:00؛ مغلق الاثنين"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee أو loh mee أو مزيج من الاثنين؛ حساء الروبيان الأحمر المميز، مع اختيار من اثني عشر صنفًا إضافيًا من الإضافات"
+  reviewSummary: "كشك نودلز يعمل ليلاً فقط داخل Restoran Old Green House، جذب الزبائن المنتظمين لأكثر من 30 عامًا. حائز على MICHELIN Bib Gourmand، ويتميز بمرق الروبيان الأحمر الغني بنكهة الأومامي المطهو من عظام الخنزير وقشور الروبيان، ويُقدَّم على هيئة Hokkien prawn mee أو loh mee أو مزيج من الاثنين."
+  phone: "+60 16-406 1717"
 summary: "‏Green House Prawn Mee and Loh Mee كشك طعام شارع يعمل ليلًا في Jalan Burma في George Town، Penang، وهو حائز على MICHELIN Bib Gourmand. ظلّ مفضّلًا لأكثر من 30 عامًا، ويُعرف بـ Hokkien prawn mee و loh mee المبنيَّين على حساء روبيان أحمر غني بالأومامي يُحضَّر من عظام الخنزير وقشور الروبيان، مع نحو اثنتي عشرة إضافة اختيارية."
 answer: "‏Green House Prawn Mee and Loh Mee كشك طعام شارع حائز على MICHELIN Bib Gourmand في Jalan Burma في George Town، Penang. يقع داخل Restoran Old Green House، وظلّ مفضّلًا لأكثر من 30 عامًا بفضل Hokkien prawn mee و loh mee. يُحضَّر حساء الروبيان الأحمر المميّز من عظام الخنزير وقشور الروبيان لنكهة أومامي عميقة، وتُقدَّم نحو اثنتي عشرة إضافة. يعمل ليلًا ويقبل النقد فقط."
 keyTakeaways:

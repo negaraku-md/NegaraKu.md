@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: un local de fideos Bib Gourmand en Penang"
 seoTitle: "Hot Bowl White Curry Mee, Penang"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "White curry mee de Penang: sopa de fideos de coco de color pálido con gambas, bolas de pescado, tofu frito y berberechos"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee es un veterano local de fideos en Jalan Rangoon, en George Town, Penang, que posee un Bib Gourmand de la Guía MICHELIN. Abierto desde 1992, es conocido por su white curry mee: fideos en un caldo a base de leche de coco servidos con una pasta de curry removida a mano aparte, para que cada comensal decida su propio nivel de picante."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "mar-dom 08:00-14:30; cerrado lun"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee: una sopa de fideos con leche de coco servida con un bol aparte de pasta de curry removida a mano para que ajustes tú mismo el nivel de picante."
+  reviewSummary: "Un local emblemático de George Town, abierto desde 1992 y aún dirigido por su chef propietario, galardonado con el MICHELIN Bib Gourmand. Es conocido por su white curry mee característico, una sopa de fideos a base de leche de coco acompañada de una pasta de curry de camarón seco y chile removida lentamente que equilibra lo dulce y lo picante. Un local sencillo y con aire acondicionado, popular entre los lugareños; solo admite clientes sin reserva y suele estar concurrido, con mesas compartidas en las horas punta."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0045
 title: "Laksalicious: 조지타운의 Bib Gourmand laksa 전문점"
 seoTitle: "Laksalicious, 조지타운 — Bib Gourmand"
 slug: "laksalicious"
+hero: "/media/food/laksalicious/hero.webp"
+heroAlt: "페낭 assam laksa — 타마린드 생선 육수에 국수, 잘게 찢은 고등어, 오이, 양파, 민트를 곁들임"
+heroCredit: "DTW / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Assam_Laksa,_Air_Itam,_Penang.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -19,6 +24,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN Bib Gourmand, $)"
+  hours: "화-일 11:30-19:00; 월 휴무"
+  service: ["dine-in"]
+  mustOrder: "Nyonya assam laksa(새콤한 생선 육수) 또는 Nyonya laksa lemak(크리미한 코코넛 육수), 새우칩 곁들임; 사이드로는 nasi ulam과 gula melaka cendol 등"
+  reviewSummary: "Jalan Hutton에 자리한 작고 개성 있는 laksa 전문점으로, MICHELIN이 유쾌한 작은 보석으로 꼽은 곳입니다. 두 가지 Nyonya laksa 스타일에 집중하는데, 생선 육수를 베이스로 한 새콤하고 매콤한 assam laksa와 코코넛 밀크의 진한 laksa lemak이 있습니다. 바삭한 새우칩과 간단한 Nyonya 사이드 메뉴로 마무리됩니다. 가성비 좋은 요리로 Bib Gourmand에 선정되었습니다."
+  facebook: "https://www.facebook.com/LaksaliciousPenang/"
+  phone: "+60 4-229 9178"
 summary: "Laksalicious는 페낭 조지타운 Jalan Hutton에 있는 MICHELIN Bib Gourmand 식당으로, laksa가 주인공이다. 작고 개성 넘치는 가게로, 새콤하고 매콤한 생선 국물의 Nyonya asam laksa와 진하고 크리미한 코코넛밀크 국물의 Nyonya laksa lemak 중에서 고를 수 있고, 새우 튀김, nasi ulam, gula melaka cendol 같은 요리도 있다."
 answer: "Laksalicious는 페낭 조지타운 117-117A Jalan Hutton에 있는 MICHELIN Bib Gourmand 식당으로, laksa가 하이라이트다. 두 가지 스타일——새콤하고 매콤한 생선 국물의 Nyonya asam laksa와 진하고 크리미한 코코넛밀크 국물의 Nyonya laksa lemak——에 더해, 바삭한 새우 튀김, nasi ulam, gula melaka cendol 같은 사이드를 낸다. MICHELIN은 $ 가격대로 책정하고 요리를 Malaysian으로 분류한다."
 keyTakeaways:

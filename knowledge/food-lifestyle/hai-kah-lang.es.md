@@ -44,6 +44,22 @@ faq:
     a: "Está en 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, y la MICHELIN Guide indica un horario de 8:00 a 17:00 todos los días. Se sitúa en la franja de precio $, tiene aire acondicionado y acepta tarjetas de crédito."
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Lun-Dom 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Fideos mixtos de marisco y sopa de fideos con cabeza de pescado y leche, elaborados a partir de una selección de tipos de fideos y bases de caldo con tu propia elección de pescado y marisco"
+  reviewSummary: "Un especialista en fideos de marisco con Bib Gourmand siempre lleno en Taman Cheras; el dueño también regenta un puesto de marisco cercano, así que los comensales eligen ellos mismos pescado y marisco frescos para combinarlos con ocho tipos de fideos y cinco bases de caldo."
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

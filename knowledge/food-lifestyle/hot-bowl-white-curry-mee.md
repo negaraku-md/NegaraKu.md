@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: A Penang Bib Gourmand Noodle Shop"
 seoTitle: "Hot Bowl White Curry Mee, Penang"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "Penang white curry mee — pale coconut noodle soup with prawns, fish balls, tofu puffs and cockles"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee is a longstanding noodle shop on Jalan Rangoon in George Town, Penang, holding a MICHELIN Guide Bib Gourmand. Open since 1992, it is known for white curry mee — noodles in a coconut-milk broth served with a hand-stirred curry paste on the side so diners set their own heat."
@@ -43,6 +48,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "Tue-Sun 08:00-14:30; closed Mon"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - a coconut-milk noodle soup served with a separate bowl of hand-stirred curry paste so you can dial in the spice level yourself."
+  reviewSummary: "A long-running George Town favourite open since 1992 and still run by its owner-chef, awarded the MICHELIN Bib Gourmand. It is known for its signature white curry mee, a coconut-based noodle soup paired with a slow-stirred shrimp-and-chilli curry paste that balances sweet and spicy. A no-frills, air-conditioned shop popular with locals; walk-in only and often busy, with shared tables at peak times."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

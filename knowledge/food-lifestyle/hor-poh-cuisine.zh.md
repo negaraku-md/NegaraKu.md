@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine：Segambut 的 MICHELIN Bib Gourmand 客家菜"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "客家 lei cha（thunder tea rice，擂茶饭）——米饭配切碎的香草和蔬菜以及一碗绿色香草汤"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine 是吉隆坡 Segambut 的一家 MICHELIN Guide Bib Gourmand 客家餐厅。这家经营逾 20 年的朴实社区小店，以擂茶（thunder tea rice）——一道浇在饭上、带坚果香的青绿色汤品——与客家饺子闻名，价格实惠。"
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "周一 11:00-15:00 & 17:00-21:00，周三至周日 11:00-15:00 & 17:00-21:00；周二 休息"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Hor Poh lui cha（客家擂茶饭）——以研磨的芝麻、花生和薄荷制成的绿色香草蔬菜汤，浇在蒸米饭上并配以各式配料；还有 Hor Poh 饺子，内馅为豆干、蒜和腌菜"
+  reviewSummary: "Segambut 一家简朴、经营多年的街坊小店，20 多年来以实惠价格供应正宗客家家常菜，获《MICHELIN 指南》评为必比登推介（Bib Gourmand）。以 lui cha（擂茶饭）最为知名，通常座无虚席。"
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

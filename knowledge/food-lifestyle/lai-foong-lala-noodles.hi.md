@@ -39,6 +39,20 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Kuala Lumpur noodles"
 updated: 2026-11-06
+place:
+  nativeName: "丽丰啦啦米"
+  address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (RM20-40 per person)"
+  hours: "सोम 10:00-22:00; मंगल-रवि 09:00-22:00"
+  halal: "non-halal"
+  service: ["dine-in", "takeaway", "delivery"]
+  mustOrder: "Lala bihun, यहाँ की सिग्नेचर डिश — साफ़ शोरबे में चावल की सेवइयों का एक कटोरा, जिसमें ताज़ा lala (क्लैम) और झींगे भरपूर होते हैं, और शोरबा चीनी पीली वाइन तथा अदरक की महक से भरा रहता है; बड़े झींगे वाला संस्करण और क्लेपॉट झींगा ग्लास नूडल्स भी लोकप्रिय हैं।"
+  reviewSummary: "कुआलालंपुर के चाइनाटाउन में स्थित एक MICHELIN Bib Gourmand नूडल हाउस, जो सड़क किनारे के ठेले से शुरू होकर लाल लालटेनों और पुराने चीनी साज-सज्जा से सजी दो मंज़िला कोने की दुकान बन गया। MICHELIN निरीक्षक झींगे के साथ lala bihun को ज़रूर खाने वाली डिश बताते हैं, चीनी पीली वाइन और अदरक की महक वाले क्लैम-और-झींगा शोरबे की तारीफ़ करते हैं, और भरपूर मात्रा का उल्लेख करते हैं। Jalan Sultan की सबसे व्यस्त स्थानीय नूडल दुकानों में से एक।"
+  facebook: "https://www.facebook.com/laifoonglalanoodles"
+  instagram: "https://www.instagram.com/laifonglalanoodles"
+  phone: "+60 3-2022 2011"
 sources:
   - title: "Lai Foong Lala Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"

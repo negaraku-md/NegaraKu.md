@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "周二至周日 16:00-22:00；周一休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee、loh mee 或两者混合；招牌红色虾汤，另可选十二种额外配料"
+  reviewSummary: "位于 Restoran Old Green House 内、仅在晚间营业的面摊，三十多年来吸引众多熟客。获 MICHELIN 必比登推介，招牌是用猪骨和虾壳熬煮、极富鲜味的红色虾汤，可做成 Hokkien prawn mee、loh mee 或两者混合。"
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee 是槟城乔治市 Jalan Burma 一个夜间营业的街头美食摊，摘得 MICHELIN Bib Gourmand。它深受喜爱已超过30年，以福建 prawn mee 和 loh mee 闻名，汤底是用猪骨与虾壳熬出、鲜味浓郁的红色虾汤，并备有十余种可选配料。"
 answer: "Green House Prawn Mee and Loh Mee 是槟城乔治市 Jalan Burma 一个摘得 MICHELIN Bib Gourmand 的街头美食摊。它设于 Restoran Old Green House 之内，以福建 prawn mee 和 loh mee 深受喜爱已超过30年。招牌红色虾汤以猪骨与虾壳熬制，带来浓郁鲜味，并提供约十二种额外配料。它夜间营业，只收现金。"
 keyTakeaways:

@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh：Jalan Kepong の Bib Gourmand bak kut teh"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — 濃い薬膳スープに入った豚スペアリブ、隣に汁なしの土鍋バージョンを添えて"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh は、クアラルンプールの 121 Jalan Kepong にある MICHELIN Bib Gourmand の bak kut teh 店です。古典的で穏やかな薬膳スープと、より濃厚なドライ版の両方を提供し、4軒のショップハウスにまたがって広がり、昼食時には満席になります。本稿では、この店が何か、名物料理、場所、訪れ方を紹介します。"
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "火〜水 11:00-02:30、木〜土 15:00-02:30、日 14:30-02:30；月休"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "薬膳 bak kut teh スープ（あっさりとして、ほんのり甘い豚スペアリブのスープ）；濃厚でとろみのある汁なし/辛口の bak kut teh"
+  reviewSummary: "ケポン（Kepong）で長年親しまれる bak kut teh の店で、MICHELIN ガイドでビブグルマン（Bib Gourmand）に選ばれている。Jalan Kepong 沿いの数軒のショップハウスにまたがり、席数が豊富で、昼食時は特に賑わう。あっさりと甘みのある薬膳豚スペアリブスープと、より濃厚で辛口の汁なし版で知られる。"
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

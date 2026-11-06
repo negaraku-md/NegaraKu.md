@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "T3-CN 16:00-22:00; đóng cửa Thứ Hai"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee, loh mee hoặc trộn cả hai; súp tôm đỏ đặc trưng, cùng lựa chọn mười hai loại topping thêm"
+  reviewSummary: "Một quầy mì chỉ bán buổi tối bên trong Restoran Old Green House, đã thu hút khách quen suốt hơn 30 năm. Đạt MICHELIN Bib Gourmand, nổi bật với nước dùng tôm đỏ đậm vị umami ninh từ xương heo và vỏ tôm, phục vụ dưới dạng Hokkien prawn mee, loh mee hoặc trộn cả hai."
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee là một quầy ẩm thực đường phố bán buổi tối trên đường Jalan Burma ở George Town, Penang, đang giữ MICHELIN Bib Gourmand. Là món khoái khẩu suốt hơn 30 năm, quầy nổi tiếng với Hokkien prawn mee và loh mee dựa trên nước dùng tôm đỏ đậm vị umami nấu từ xương heo và vỏ tôm, với cả chục loại topping tùy chọn."
 answer: "Green House Prawn Mee and Loh Mee là một quầy ẩm thực đường phố MICHELIN Bib Gourmand trên đường Jalan Burma ở George Town, Penang. Nằm bên trong Restoran Old Green House, quầy đã là món khoái khẩu suốt hơn 30 năm nhờ Hokkien prawn mee và loh mee. Nước dùng tôm đỏ đặc trưng được nấu từ xương heo và vỏ tôm cho vị umami đậm đà, và khoảng mười hai loại topping bổ sung được phục vụ. Quầy bán vào buổi tối và chỉ nhận tiền mặt."
 keyTakeaways:

@@ -39,6 +39,20 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Kuala Lumpur noodles"
 updated: 2026-11-06
+place:
+  nativeName: "丽丰啦啦米"
+  address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (RM20-40 per person)"
+  hours: "lun 10:00-22:00; mar-dim 09:00-22:00"
+  halal: "non-halal"
+  service: ["dine-in", "takeaway", "delivery"]
+  mustOrder: "Lala bihun, le plat signature : un bol de vermicelles de riz dans un bouillon clair généreux en lala (palourdes) fraîches et en crevettes, la soupe parfumée au vin jaune chinois et au gingembre ; la version aux grosses crevettes et les vermicelles de verre aux crevettes en marmite d'argile sont également appréciés."
+  reviewSummary: "Une maison de nouilles MICHELIN Bib Gourmand dans le quartier chinois de Kuala Lumpur, née d'un étal de rue avant de s'agrandir en une boutique d'angle sur deux étages, ornée de lanternes rouges et de décorations chinoises anciennes. Les inspecteurs MICHELIN désignent le lala bihun aux crevettes comme incontournable, saluent le bouillon de palourdes et de crevettes parfumé au vin jaune chinois et au gingembre, et notent les portions généreuses. L'une des adresses de nouilles locales les plus fréquentées de Jalan Sultan."
+  facebook: "https://www.facebook.com/laifoonglalanoodles"
+  instagram: "https://www.instagram.com/laifonglalanoodles"
+  phone: "+60 3-2022 2011"
 sources:
   - title: "Lai Foong Lala Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"

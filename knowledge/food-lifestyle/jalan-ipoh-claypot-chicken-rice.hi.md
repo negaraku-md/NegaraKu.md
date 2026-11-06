@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice: KL में एक Bib Gourmand कोयला क्लेपॉट स्टॉल"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "चिकन, हरी सब्जियों और गाढ़ी सोया सॉस के साथ claypot chicken rice"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "यह Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200 पर है। MICHELIN Guide लगभग सुबह 10 बजे से शाम 5 बजे तक का समय दर्ज करता है, बुधवार को बंद। यह एक $ (किफ़ायती) स्ट्रीट-फ़ूड प्रविष्टि है।"
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "सोम, मंगल, गुरु-रवि 10:00-17:30; बुधवार बंद"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "कोयले पर पकाया गया claypot chicken rice, कैंटोनी पोर्क सॉसेज (lap cheong) और अदरक के साथ परोसा जाता है; अतिरिक्त सुगंध के लिए नमकीन मछली डालें"
+  reviewSummary: "एक पुराना स्ट्रीट-फूड स्टॉल जो 30 साल से अधिक समय से कोयले पर ऑर्डर के अनुसार claypot chicken rice पकाता आ रहा है। चावल तले में कुरकुरी परत बना लेता है और कैंटोनी पोर्क सॉसेज और अदरक के साथ आता है, जिसमें सुगंध के लिए नमकीन मछली भी डाली जा सकती है। MICHELIN Guide Bib Gourmand चयन।"
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

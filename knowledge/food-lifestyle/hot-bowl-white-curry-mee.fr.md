@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee : une échoppe de nouilles Bib Gourmand à Penang"
 seoTitle: "Hot Bowl White Curry Mee, Penang"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "White curry mee de Penang — soupe de nouilles au coco de couleur pâle avec crevettes, boulettes de poisson, beignets de tofu et coques"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee est une échoppe de nouilles de longue date située sur Jalan Rangoon, à George Town, Penang, titulaire d'un Bib Gourmand du Guide MICHELIN. Ouverte depuis 1992, elle est réputée pour son white curry mee : des nouilles dans un bouillon à base de lait de coco servies avec une pâte de curry remuée à la main à part, pour que chaque convive règle lui-même le piquant."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "mar-dim 08:00-14:30; fermé lun"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee : une soupe de nouilles au lait de coco servie avec un bol séparé de pâte de curry mélangée à la main, pour que vous régliez vous-même le niveau de piment."
+  reviewSummary: "Une adresse emblématique de George Town, ouverte depuis 1992 et toujours tenue par son chef-propriétaire, distinguée par le MICHELIN Bib Gourmand. Elle est réputée pour son white curry mee signature, une soupe de nouilles à base de lait de coco accompagnée d'une pâte de curry aux crevettes séchées et au piment, remuée lentement, qui équilibre le sucré et le piquant. Un établissement sans chichis et climatisé, prisé des habitants ; sans réservation uniquement et souvent bondé, avec des tables partagées aux heures de pointe."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

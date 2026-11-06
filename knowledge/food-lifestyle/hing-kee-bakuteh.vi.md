@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh: Quán bak kut teh đạt Bib Gourmand trên Jalan Kepong"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — sườn heo trong súp thảo mộc màu sẫm, kèm theo phiên bản khô trong nồi đất bên cạnh"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh là một quán bak kut teh đạt MICHELIN Bib Gourmand tại 121 Jalan Kepong, Kuala Lumpur. Quán phục vụ cả món canh thảo mộc cổ điển vị nhẹ lẫn phiên bản khô đậm đà hơn, trải rộng trên bốn căn nhà phố luôn chật kín vào giờ trưa. Bài viết này trình bày quán là gì, món đặc trưng, vị trí và cách ghé thăm."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "T3-T4 11:00-02:30, T5-T7 15:00-02:30, CN 14:30-02:30; T2 nghỉ"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Súp bak kut teh thảo mộc (nước dùng sườn heo thanh nhẹ, hơi ngọt); bak kut teh khô/cay cho phiên bản đậm đà, sánh đặc hơn"
+  reviewSummary: "Quán bak kut teh nổi tiếng lâu đời ở Kepong, được Cẩm nang MICHELIN công nhận là Bib Gourmand, trải dài qua nhiều căn nhà phố dọc Jalan Kepong với chỗ ngồi rộng rãi và đặc biệt đông khách vào buổi trưa. Nổi tiếng với món súp sườn heo thảo mộc thanh nhẹ, hơi ngọt, bên cạnh phiên bản khô đậm đà và cay hơn."
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine: Segambut में MICHELIN Bib Gourmand हक्का भोजन"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "Hakka lei cha (thunder tea rice) — कटी हुई जड़ी-बूटियों और सब्ज़ियों के साथ चावल और एक हरा जड़ी-बूटी सूप"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine कुआलालंपुर के Segambut में एक MICHELIN Guide Bib Gourmand हक्का रेस्तराँ है। 20 साल से अधिक पुरानी एक सादी मोहल्ले की दुकान, यह अपने lei cha (thunder tea rice) — चावल पर परोसा जाने वाला, मेवों-सा स्वाद वाला हरा सूप — और अपने हक्का पकौड़ों के लिए, किफ़ायती दामों पर, जानी जाती है।"
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "सोम 11:00-15:00 & 17:00-21:00, बुध-रवि 11:00-15:00 & 17:00-21:00; मंगल बंद"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Hor Poh lui cha (Hakka thunder tea rice) — पिसे हुए तिल, मूँगफली और पुदीने से बना हरा जड़ी-बूटी और सब्ज़ी का सूप, जिसे भाप में पके चावल पर विभिन्न टॉपिंग के साथ परोसा जाता है; साथ ही सूखे टोफू, लहसुन और अचार से भरी Hor Poh डम्पलिंग"
+  reviewSummary: "Segambut में एक साधारण, लंबे समय से चल रही मोहल्ले की दुकान, जो 20 साल से अधिक समय से प्रामाणिक Hakka घरेलू खाना किफ़ायती दामों पर परोसती आ रही है और MICHELIN Guide में Bib Gourmand के रूप में मान्यता प्राप्त है। यह अपने lui cha (thunder tea rice) के लिए सबसे अधिक प्रसिद्ध है और आमतौर पर यहाँ भीड़ रहती है।"
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

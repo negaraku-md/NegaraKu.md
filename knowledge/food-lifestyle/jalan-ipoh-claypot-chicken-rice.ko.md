@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice: KL의 Bib Gourmand 숯불 뚝배기 노점"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "닭고기, 푸른 채소, 진한 간장을 곁들인 claypot chicken rice"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200에 있습니다. MICHELIN Guide는 대략 오전 10시부터 오후 5시까지 영업하며 수요일 휴무로 표시합니다. $(저가)대 길거리 음식 등재입니다."
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "월, 화, 목-일 10:00-17:30; 수요일 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "숯불로 조리한 claypot chicken rice, 광둥식 돼지고기 소시지(lap cheong)와 생강을 곁들여 제공하며, 소금에 절인 생선을 추가하면 풍미가 더해집니다"
+  reviewSummary: "30년 넘게 숯불로 claypot chicken rice를 주문 즉시 조리해 온 오랜 길거리 음식 노점. 밥 바닥에 바삭한 누룽지가 생기며 광둥식 돼지고기 소시지와 생강이 곁들여지고, 향을 더하는 소금에 절인 생선을 추가할 수 있습니다. MICHELIN Guide 빕 구르망(Bib Gourmand) 선정."
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

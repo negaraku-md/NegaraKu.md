@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh: Jalan Kepong-இல் ஒரு Bib Gourmand bak kut teh கடை"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — அடர் நிற மூலிகை சூப்பில் பன்றி விலா எலும்புகள், அருகில் ஒரு உலர் களிமண் பானை பதிப்புடன்"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh என்பது கோலாலம்பூர் 121 Jalan Kepong-இல் உள்ள ஒரு MICHELIN Bib Gourmand bak kut teh கடை. இது பாரம்பரியமான மென்மையான மூலிகைச் சூப்பையும், அடர்த்தியான உலர் வகையையும் வழங்குகிறது; நான்கு கடை வீடுகளில் பரவியுள்ள இது மதிய உணவு நேரத்தில் நிரம்பி வழிகிறது. இந்தப் பதிவு இது என்ன, அதன் சிறப்பு உணவுகள், எங்கே உள்ளது, எப்படிச் செல்வது என்பவற்றை விளக்குகிறது."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "செவ்-புத 11:00-02:30, வியா-சனி 15:00-02:30, ஞாயி 14:30-02:30; திங் மூடல்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "மூலிகை bak kut teh சூப் (மென்மையான, லேசாக இனிப்பான பன்றி விலா எலும்பு சூப்); அடர்த்தியான, செறிவான பதிப்புக்கு உலர்/காரமான bak kut teh"
+  reviewSummary: "கெப்போங்கில் நீண்ட காலமாக பிரபலமான bak kut teh கடை, MICHELIN கையேட்டில் Bib Gourmand என அங்கீகரிக்கப்பட்டது; Jalan Kepong வழியே பல கடை வீடுகளில் பரவி, ஏராளமான இருக்கைகளுடன், மதிய உணவு நேரத்தில் குறிப்பாக நெரிசலாக இருக்கும். மென்மையான, லேசாக இனிப்பான மூலிகை பன்றி விலா எலும்பு சூப்புக்கும், அடர்த்தியான, காரமான உலர் பதிப்புக்கும் பெயர் பெற்றது."
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

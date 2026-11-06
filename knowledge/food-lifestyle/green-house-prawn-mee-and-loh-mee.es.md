@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "Mar-Dom 16:00-22:00; cerrado lunes"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee, loh mee o una mezcla de ambos; la sopa roja de gambas de la casa, con una selección de doce ingredientes adicionales"
+  reviewSummary: "Un puesto de fideos que abre solo de noche dentro del Restoran Old Green House y que lleva más de 30 años atrayendo a clientes habituales. MICHELIN Bib Gourmand, destaca por un caldo rojo de gambas profundamente umami cocido a fuego lento con huesos de cerdo y cáscaras de gambas, servido como Hokkien prawn mee, loh mee o una mezcla de ambos."
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee es un puesto de comida callejera nocturno en Jalan Burma, en George Town, Penang, que ostenta un MICHELIN Bib Gourmand. Favorito desde hace más de 30 años, es conocido por su Hokkien prawn mee y su loh mee, basados en un caldo rojo de gambas profundamente umami hecho con huesos de cerdo y cáscaras de gamba, con una docena de ingredientes opcionales."
 answer: "Green House Prawn Mee and Loh Mee es un puesto de comida callejera MICHELIN Bib Gourmand en Jalan Burma, en George Town, Penang. Situado dentro del Restoran Old Green House, es un favorito desde hace más de 30 años por su Hokkien prawn mee y su loh mee. El caldo rojo de gambas insignia se elabora con huesos de cerdo y cáscaras de gamba para lograr un sabor umami profundo, y se ofrecen unos doce ingredientes adicionales. Abre de noche y solo acepta efectivo."
 keyTakeaways:

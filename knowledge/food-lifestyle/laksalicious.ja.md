@@ -3,6 +3,11 @@ topicId: MY-MICH-0045
 title: "Laksalicious：ジョージタウンのBib Gourmand laksa専門店"
 seoTitle: "Laksalicious、ジョージタウン — Bib Gourmand"
 slug: "laksalicious"
+hero: "/media/food/laksalicious/hero.webp"
+heroAlt: "ペナンの assam laksa — タマリンドの魚だしスープに麺、ほぐしたサバ、キュウリ、玉ねぎ、ミントを添えて"
+heroCredit: "DTW / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Assam_Laksa,_Air_Itam,_Penang.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -19,6 +24,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN Bib Gourmand, $)"
+  hours: "火～日 11:30-19:00；月曜休"
+  service: ["dine-in"]
+  mustOrder: "Nyonya assam laksa（酸味のある魚だしスープ）または Nyonya laksa lemak（クリーミーなココナッツスープ）、えびせん付き。サイドには nasi ulam や gula melaka cendol など"
+  reviewSummary: "Jalan Hutton にある小さくて個性的な laksa の専門店で、MICHELIN が陽気な小さな逸品として取り上げています。2種類の Nyonya laksa に専念しており、魚だしをベースにした酸味と辛みのある assam laksa と、ココナッツミルクのコクのある laksa lemak があります。カリッとしたえびせんと、短い Nyonya のサイドメニューで締めくくられます。コストパフォーマンスのよい料理として Bib Gourmand に選ばれました。"
+  facebook: "https://www.facebook.com/LaksaliciousPenang/"
+  phone: "+60 4-229 9178"
 summary: "Laksaliciousは、ペナン、ジョージタウンのJalan HuttonにあるMICHELIN Bib Gourmandの食堂で、laksaが主役だ。小さく個性あふれる店で、酸っぱく辛い魚のスープのNyonya asam laksaと、濃厚でクリーミーなココナッツミルクのスープのNyonya laksa lemakのどちらかを選べ、エビのフリッター、nasi ulam、gula melaka cendolなどの料理もある。"
 answer: "Laksaliciousは、ペナン、ジョージタウンの117-117A Jalan HuttonにあるMICHELIN Bib Gourmandのレストランで、laksaが見どころだ。二つのスタイル——酸っぱく辛い魚のスープのNyonya asam laksaと、濃厚でクリーミーなココナッツミルクのスープのNyonya laksa lemak——に加え、カリッとしたエビのフリッター、nasi ulam、gula melaka cendolなどのサイドを供する。MICHELINは$の価格帯に位置づけ、料理をMalaysianに分類している。"
 keyTakeaways:

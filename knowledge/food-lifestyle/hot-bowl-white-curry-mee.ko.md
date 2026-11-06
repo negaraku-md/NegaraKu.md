@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: 페낭의 미쉐린 빕 구르망 국숫집"
 seoTitle: "Hot Bowl White Curry Mee, 페낭"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "페낭 white curry mee — 새우, 어묵 완자, 유부, 꼬막이 들어간 연한 색의 코코넛 국수 수프"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee는 페낭 조지타운의 Jalan Rangoon에 있는 오래된 국숫집으로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. 1992년부터 영업해 온 이곳은 white curry mee로 유명합니다 — 코코넛밀크 육수에 국수를 넣고, 손으로 저은 커리 페이스트를 따로 곁들여 손님이 직접 매운맛을 조절합니다."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "화~일 08:00-14:30; 월요일 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - 코코넛 밀크 국수 수프로, 손으로 저어 만든 커리 페이스트가 별도의 그릇에 함께 나와 매운맛을 직접 조절할 수 있습니다."
+  reviewSummary: "1992년부터 이어져 온 조지타운의 오랜 인기 식당으로, 여전히 오너 셰프가 직접 운영하며 MICHELIN 빕 구르망에 선정되었습니다. 대표 메뉴인 white curry mee는 코코넛 베이스의 국수 수프에 오래 저어 만든 새우·고추 커리 페이스트를 곁들여 단맛과 매운맛의 균형을 맞춘 요리입니다. 군더더기 없는 에어컨 완비 식당으로 현지인에게 인기가 많으며, 현장 방문만 가능하고 자주 붐벼 피크 시간에는 합석하게 됩니다."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

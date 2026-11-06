@@ -44,6 +44,22 @@ faq:
     a: "44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100에 있으며, MICHELIN Guide는 영업시간을 매일 오전 8시부터 오후 5시까지로 표시합니다. $ 가격대이고 냉방이 되며 신용카드를 받습니다."
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "월–일 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "모둠 해산물 국수와 우유를 넣은 생선 머리 국수. 여러 국수 종류와 국물 베이스 중에서 고르고, 원하는 생선과 조개류를 직접 골라 만듭니다"
+  reviewSummary: "타만 체라스에서 늘 붐비는 빕 구르망 해산물 국수 전문점으로, 주인이 인근에서 해산물 가판도 운영해 손님이 직접 신선한 생선과 조개류를 골라 여덟 가지 국수와 다섯 가지 국물 베이스와 함께 즐깁니다."
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice: un puesto callejero de claypot al carbón con Bib Gourmand en KL"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "claypot chicken rice con pollo, verduras y salsa de soja oscura"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Está en Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200. La MICHELIN Guide indica un horario de aproximadamente 10:00 a 17:00, cerrado los miércoles. Es una entrada de comida callejera $ (económica)."
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "Lun, Mar, Jue-Dom 10:00-17:30; cerrado los miércoles"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "claypot chicken rice cocinado al carbón, servido con salchicha de cerdo cantonesa (lap cheong) y jengibre; añade pescado salado para un aroma extra"
+  reviewSummary: "Un puesto de comida callejera de larga trayectoria que lleva más de 30 años cocinando claypot chicken rice por encargo al carbón. El arroz forma una costra crujiente en el fondo y se sirve con salchicha de cerdo cantonesa y jengibre, con pescado salado disponible como complemento aromático. Selección Bib Gourmand de la Guía MICHELIN."
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

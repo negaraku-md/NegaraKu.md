@@ -38,6 +38,20 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Kuala Lumpur noodles"
 updated: 2026-11-06
+place:
+  nativeName: "丽丰啦啦米"
+  address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (RM20-40 per person)"
+  hours: "Mon 10:00-22:00; Tue-Sun 09:00-22:00"
+  halal: "non-halal"
+  service: ["dine-in", "takeaway", "delivery"]
+  mustOrder: "Lala bihun, the signature bowl of rice vermicelli in a clear broth generous with fresh lala (clams) and prawns, the soup fragrant with Chinese yellow wine and ginger; the big-prawn version and the clay-pot prawn glass noodles are also popular."
+  reviewSummary: "A MICHELIN Bib Gourmand noodle house in Kuala Lumpur's Chinatown that grew from a street stall into a two-floor corner shop hung with red lanterns and vintage Chinese decor. MICHELIN inspectors single out the lala bihun with prawns as a must, praising the clam-and-prawn broth aromatic with Chinese yellow wine and ginger, and note the generous portions. Among the busiest local noodle spots on Jalan Sultan."
+  facebook: "https://www.facebook.com/laifoonglalanoodles"
+  instagram: "https://www.instagram.com/laifonglalanoodles"
+  phone: "+60 3-2022 2011"
 sources:
   - title: "Lai Foong Lala Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"

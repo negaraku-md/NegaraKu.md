@@ -39,6 +39,20 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Kuala Lumpur noodles"
 updated: 2026-11-06
+place:
+  nativeName: "丽丰啦啦米"
+  address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (RM20-40 per person)"
+  hours: "周一 10:00-22:00; 周二至周日 09:00-22:00"
+  halal: "non-halal"
+  service: ["dine-in", "takeaway", "delivery"]
+  mustOrder: "啦啦米（lala bihun），招牌是一碗米粉泡在清澈的汤里，配上大量新鲜的 lala（蛤蜊）和虾，汤头以中国黄酒和姜提香；大虾版本和砂煲虾粉丝也很受欢迎。"
+  reviewSummary: "位于吉隆坡唐人街的一家 MICHELIN 必比登推介（Bib Gourmand）面食店，由路边摊起家，后来扩展为占据两层楼的街角店铺，挂着红灯笼、装饰着怀旧的中式摆设。MICHELIN 评审员特别推荐加虾的 lala bihun 为必点，赞赏那以中国黄酒和姜提香的蛤蜊鲜虾汤头，并指分量十足。是 Jalan Sultan 上最热闹的本地面食店之一。"
+  facebook: "https://www.facebook.com/laifoonglalanoodles"
+  instagram: "https://www.instagram.com/laifonglalanoodles"
+  phone: "+60 3-2022 2011"
 sources:
   - title: "Lai Foong Lala Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"

@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "Sel-Ahd 16:00-22:00; tutup Isnin"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee, loh mee, atau campuran kedua-duanya; sup udang merah istimewa, dengan pilihan dua belas topping tambahan"
+  reviewSummary: "Gerai mi yang hanya buka pada waktu malam di dalam Restoran Old Green House yang telah menarik pelanggan tetap selama lebih 30 tahun. MICHELIN Bib Gourmand, menonjolkan sup udang merah yang amat umami direneh daripada tulang babi dan kulit udang, dihidangkan sebagai Hokkien prawn mee, loh mee atau campuran kedua-duanya."
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee ialah sebuah gerai makanan jalanan waktu malam di Jalan Burma, George Town, Pulau Pinang, memegang MICHELIN Bib Gourmand. Menjadi kegemaran lebih 30 tahun, ia terkenal dengan Hokkien prawn mee dan loh mee yang dibina atas sup udang merah yang amat umami, dibuat daripada tulang khinzir dan kulit udang, dengan belasan topping pilihan."
 answer: "Green House Prawn Mee and Loh Mee ialah sebuah gerai makanan jalanan MICHELIN Bib Gourmand di Jalan Burma, George Town, Pulau Pinang. Terletak di dalam Restoran Old Green House, ia telah menjadi kegemaran lebih 30 tahun kerana Hokkien prawn mee dan loh mee-nya. Sup udang merah istimewanya dibuat dengan tulang khinzir dan kulit udang untuk perisa umami yang mendalam, dan kira-kira dua belas topping tambahan ditawarkan. Ia berniaga pada waktu malam dan hanya menerima tunai."
 keyTakeaways:

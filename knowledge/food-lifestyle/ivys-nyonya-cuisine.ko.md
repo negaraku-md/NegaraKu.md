@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ko"
-sourceContentHash: "805a50b15371f203"
+sourceContentHash: "06ede28407d72f6d"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,17 @@ sources:
     publisher: "Options, The Edge"
 
 updated: 2026-11-06
+place:
+  address: "100-104 Jalan Kedah, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
+  hours: "월 휴무; 화 18:00-21:00; 수~일 12:00-15:00, 18:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "Kapitan chicken curry와 Joo Hoo Char(고추 페이스트에 채소와 채 썬 갑오징어를 볶은 요리); 뇨냐 assam fish와 inche kabin 프라이드치킨도 좋은 평가를 받습니다."
+  reviewSummary: "부부가 15년 넘게 운영해 온(Ivy가 요리하고 남편이 서빙) 오래되고 소박한 프라나칸 식당으로, 지금은 더 넓은 Jalan Kedah 매장으로 옮겨 동일한 가정식 메뉴를 선보입니다. MICHELIN 빕 구르망에 선정되었으며, 뇨냐 전통 요리를 모은 셰어 세트 메뉴로 가장 유명하고 가족 단위나 현지처럼 식사하기에 좋습니다."
+  facebook: "https://www.facebook.com/ivysnyonyacuisine"
+  phone: "+60 13-433 7878"
 
 relations:
   - { rel: "located-in", to: "penang" }

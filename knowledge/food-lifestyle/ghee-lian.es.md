@@ -39,6 +39,16 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Lot No. 39, MBPP Kompleks Makanan Medan Renong, Padang Kota Lama, 4 Jalan Tun Syed Sheh Barakhbah, George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (under RM25 per person)"
+  hours: "lun-mar 18:00-22:00; mié-dom cerrado"
+  service: ["dine-in"]
+  mustOrder: "Fideos tom yum verdes, el plato estrella del puesto, en un caldo verde agrio y picante, normalmente coronados con pescado frito crujiente y langostinos grandes; una sopa de fideos clara y unos fideos fritos completan el menú de tres platos."
+  reviewSummary: "Un puesto de comida callejera con MICHELIN Bib Gourmand en el complejo gastronómico Medan Renong, junto al Esplanade, que sirve solo tres platos de fideos. Los inspectores de MICHELIN destacan los fideos tom yum verdes de la casa por su equilibrio entre lo agrio y lo picante, la cobertura de pescado frito crujiente pero jugoso, y los langostinos cargados de umami. Se forman largas colas antes de la apertura vespertina."
+  phone: "+60 12-450 8595"
 sources:
   - title: "Ghee Lian"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/ghee-lian"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: பினாங்கில் ஒரு மிச்செலின் Bib Gourmand நூடுல்ஸ் கடை"
 seoTitle: "Hot Bowl White Curry Mee, பினாங்கு"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "பினாங்கு white curry mee — இறால், மீன் பந்துகள், டோஃபு பப்ஸ் மற்றும் கொக்கிள்ஸ் கொண்ட வெளிர் தேங்காய் நூடுல் சூப்"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee என்பது பினாங்கு ஜார்ஜ் டவுனில் Jalan Rangoon-இல் உள்ள நீண்டகால நூடுல்ஸ் கடை, இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. 1992 முதல் திறந்துள்ள இது white curry mee-க்காக அறியப்படுகிறது — தேங்காய்ப்பால் குழம்பில் பரிமாறப்படும் நூடுல்ஸ், அருகில் கையால் கிளறப்பட்ட கறி விழுது வைக்கப்படுகிறது, இதனால் சாப்பிடுபவர்களே காரத்தின் அளவை நிர்ணயிக்கிறார்கள்."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "செவ்வாய்–ஞாயிறு 08:00-14:30; திங்கள் மூடப்பட்டிருக்கும்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - தேங்காய்ப் பால் சூப்பில் தயாரிக்கப்படும் நூடுல் சூப், கையால் கிளறப்பட்ட கறி விழுது தனி கிண்ணத்தில் பரிமாறப்படுகிறது; காரத்தின் அளவை நீங்களே சரிசெய்து கொள்ளலாம்."
+  reviewSummary: "1992 முதல் இயங்கி வரும் ஜார்ஜ் டவுனின் நீண்டகால விருப்பமான உணவகம், இன்னும் அதன் உரிமையாளர்-சமையல்காரரால் நடத்தப்படுகிறது; MICHELIN Bib Gourmand விருது பெற்றது. இதன் சிறப்பு white curry mee — தேங்காய்ப் பால் அடிப்படையிலான நூடுல் சூப், மெதுவாகக் கிளறப்பட்ட இறால்-மிளகாய் கறி விழுதுடன் பரிமாறப்பட்டு இனிப்பையும் காரத்தையும் சமநிலைப்படுத்துகிறது. ஆடம்பரமற்ற, குளிரூட்டப்பட்ட கடை, உள்ளூர் மக்களிடையே பிரபலம்; நேரடி வருகை மட்டுமே, அடிக்கடி நெரிசலாக இருக்கும், உச்ச நேரங்களில் மேசைகள் பகிர்ந்து கொள்ளப்படும்."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

@@ -44,6 +44,22 @@ faq:
     a: "यह 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100 पर है, और MICHELIN Guide रोज़ाना सुबह 8 बजे से शाम 5 बजे तक का समय दर्ज करता है। यह $ मूल्य-श्रेणी में है, वातानुकूलित है और क्रेडिट कार्ड स्वीकार करता है।"
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "सोम-रवि 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "मिक्स सीफ़ूड नूडल्स और दूध वाला फ़िश हेड नूडल सूप, जिसे कई तरह के नूडल्स और सूप बेस में से चुनकर, अपनी पसंद की मछली और शेलफ़िश के साथ बनाया जाता है"
+  reviewSummary: "तामन चेरास में हमेशा भरा रहने वाला Bib Gourmand सीफ़ूड-नूडल विशेषज्ञ; मालिक पास में एक सीफ़ूड स्टॉल भी चलाते हैं, इसलिए ग्राहक खुद ताज़ी मछली और शेलफ़िश चुनकर उसे आठ तरह के नूडल्स और पाँच सूप बेस के साथ लेते हैं।"
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

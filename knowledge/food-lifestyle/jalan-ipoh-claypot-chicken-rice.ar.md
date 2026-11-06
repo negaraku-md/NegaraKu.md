@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "‏Jalan Ipoh Claypot Chicken Rice: بسطة طواجن بالفحم بتصنيف Bib Gourmand في KL"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "claypot chicken rice مع الدجاج والخضار الورقية وصلصة الصويا الداكنة"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "تقع في Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200. يُدرج MICHELIN Guide ساعات العمل من نحو 10 صباحًا إلى 5 مساءً، ومغلق أيام الأربعاء. وهو إدراج طعام شارع ضمن فئة $ (اقتصادية)."
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "الاثنين، الثلاثاء، الخميس-الأحد 10:00-17:30؛ مغلق الأربعاء"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "claypot chicken rice مطهو على الفحم، يُقدَّم مع نقانق لحم الخنزير الكانتونية (lap cheong) والزنجبيل؛ أضف السمك المملح لمزيد من النكهة العطرية"
+  reviewSummary: "كشك طعام شارع عريق يطهو claypot chicken rice حسب الطلب على الفحم منذ أكثر من 30 عامًا. تتكوّن في قاع القدر طبقة أرز مقرمشة، ويُقدَّم مع نقانق لحم الخنزير الكانتونية والزنجبيل، مع إمكانية إضافة السمك المملح كإضافة عطرية. اختيار Bib Gourmand من دليل MICHELIN."
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

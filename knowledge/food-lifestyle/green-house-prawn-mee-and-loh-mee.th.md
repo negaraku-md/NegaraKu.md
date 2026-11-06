@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "อ.-อา. 16:00-22:00; ปิดวันจันทร์"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee, loh mee หรือผสมทั้งสองอย่าง; ซุปกุ้งแดงสูตรเด็ด พร้อมเลือกเครื่องเพิ่มได้อีกสิบสองอย่าง"
+  reviewSummary: "ร้านก๋วยเตี๋ยวที่เปิดเฉพาะช่วงกลางคืนภายใน Restoran Old Green House ซึ่งดึงดูดลูกค้าประจำมากว่า 30 ปี ได้รับรางวัล MICHELIN Bib Gourmand โดดเด่นด้วยน้ำซุปกุ้งแดงรสอูมามิเข้มข้นที่เคี่ยวจากกระดูกหมูและเปลือกกุ้ง เสิร์ฟเป็น Hokkien prawn mee, loh mee หรือผสมทั้งสองอย่าง"
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee เป็นแผงอาหารริมทางที่เปิดตอนกลางคืนบนถนน Jalan Burma ใน George Town รัฐ Penang ซึ่งได้รับ MICHELIN Bib Gourmand เป็นที่โปรดปรานมากว่า 30 ปี มีชื่อเสียงด้าน Hokkien prawn mee และ loh mee ที่สร้างขึ้นบนน้ำซุปกุ้งสีแดงรสอูมามิเข้มข้นซึ่งต้มจากกระดูกหมูและเปลือกกุ้ง พร้อมเครื่องท็อปปิ้งให้เลือกราวสิบสองอย่าง"
 answer: "Green House Prawn Mee and Loh Mee เป็นแผงอาหารริมทาง MICHELIN Bib Gourmand บนถนน Jalan Burma ใน George Town รัฐ Penang ตั้งอยู่ภายใน Restoran Old Green House และเป็นที่โปรดปรานมากว่า 30 ปีจาก Hokkien prawn mee และ loh mee น้ำซุปกุ้งสีแดงซิกเนเจอร์ทำจากกระดูกหมูและเปลือกกุ้งเพื่อรสอูมามิที่ลึกล้ำ และมีเครื่องท็อปปิ้งเพิ่มเติมราวสิบสองอย่าง เปิดตอนกลางคืนและรับเฉพาะเงินสด"
 keyTakeaways:

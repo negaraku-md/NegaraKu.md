@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "Mar-Dim 16:00-22:00; fermé lundi"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee, loh mee ou un mélange des deux ; la soupe rouge de crevettes signature, avec un choix de douze garnitures supplémentaires"
+  reviewSummary: "Un stand de nouilles ouvert uniquement le soir à l'intérieur du Restoran Old Green House, qui attire les habitués depuis plus de 30 ans. MICHELIN Bib Gourmand, il se distingue par un bouillon rouge de crevettes profondément umami mijoté à partir d'os de porc et de carapaces de crevettes, servi en Hokkien prawn mee, loh mee ou un mélange des deux."
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee est un étal de cuisine de rue en soirée sur Jalan Burma, à George Town, Penang, qui détient un MICHELIN Bib Gourmand. Favori depuis plus de 30 ans, il est réputé pour son Hokkien prawn mee et son loh mee, bâtis sur un bouillon rouge de crevettes profondément umami fait d'os de porc et de carapaces de crevettes, avec une douzaine de garnitures en option."
 answer: "Green House Prawn Mee and Loh Mee est un étal de cuisine de rue MICHELIN Bib Gourmand sur Jalan Burma, à George Town, Penang. Installé au sein du Restoran Old Green House, c'est un favori depuis plus de 30 ans pour son Hokkien prawn mee et son loh mee. Le bouillon rouge de crevettes signature est fait d'os de porc et de carapaces de crevettes pour une saveur umami profonde, et une douzaine de garnitures supplémentaires sont proposées. Il ouvre le soir et n'accepte que les espèces."
 keyTakeaways:

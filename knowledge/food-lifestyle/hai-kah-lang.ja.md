@@ -44,6 +44,22 @@ faq:
     a: "店は 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100 にあり、MICHELIN Guide は営業時間を毎日午前 8 時から午後 5 時と記載しています。$ の価格帯で、冷房が効いており、クレジットカードが使えます。"
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "月〜日 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "ミックスシーフードヌードルと、ミルク入りフィッシュヘッドヌードルスープ。麺の種類とスープのベースを選び、好みの魚や貝類を組み合わせて作ります"
+  reviewSummary: "タマンチェラスにある、常に賑わうビブグルマンのシーフードヌードル専門店。店主は近くで鮮魚店も営んでおり、客は新鮮な魚や貝を自分で選び、8種類の麺と5種類のスープベースと組み合わせられます。"
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

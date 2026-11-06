@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: ร้านก๋วยเตี๋ยวระดับ Bib Gourmand แห่งปีนัง"
 seoTitle: "Hot Bowl White Curry Mee, ปีนัง"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "white curry mee ปีนัง — ก๋วยเตี๋ยวน้ำกะทิสีอ่อน ใส่กุ้ง ลูกชิ้นปลา เต้าหู้ทอด และหอยแครง"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee เป็นร้านก๋วยเตี๋ยวเก่าแก่บนถนน Jalan Rangoon ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide เปิดมาตั้งแต่ปี 1992 ขึ้นชื่อเรื่อง white curry mee — เส้นในน้ำซุปกะทิ เสิร์ฟพร้อมพริกแกงที่คนด้วยมือวางไว้ข้าง ๆ เพื่อให้ลูกค้ากำหนดความเผ็ดเอง"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "อ.–อา. 08:00-14:30; ปิดวันจันทร์"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - ก๋วยเตี๋ยวน้ำกะทิ เสิร์ฟพร้อมพริกแกงที่กวนด้วยมือแยกใส่ชามต่างหาก ให้คุณปรับระดับความเผ็ดได้เอง"
+  reviewSummary: "ร้านดังเก่าแก่ในจอร์จทาวน์ที่เปิดมาตั้งแต่ปี 1992 และยังบริหารโดยเจ้าของที่เป็นเชฟเอง ได้รับรางวัล MICHELIN Bib Gourmand ร้านนี้ขึ้นชื่อเรื่อง white curry mee อันเป็นเอกลักษณ์ ก๋วยเตี๋ยวน้ำกะทิที่เสิร์ฟคู่กับพริกแกงกุ้งแห้งและพริกที่กวนอย่างช้า ๆ จนได้รสหวานตัดเผ็ดอย่างลงตัว เป็นร้านเรียบง่ายติดแอร์ที่คนท้องถิ่นชื่นชอบ รับเฉพาะหน้าร้านและมักคนเยอะ ช่วงพีคอาจต้องนั่งโต๊ะร่วมกับคนอื่น"
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

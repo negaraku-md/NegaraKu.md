@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "hi"
-sourceContentHash: "805a50b15371f203"
+sourceContentHash: "06ede28407d72f6d"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,17 @@ sources:
     publisher: "Options, The Edge"
 
 updated: 2026-11-06
+place:
+  address: "100-104 Jalan Kedah, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
+  hours: "सोम बंद; मंगल 18:00-21:00; बुध-रवि 12:00-15:00, 18:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "Kapitan chicken curry और Joo Hoo Char (मिर्च पेस्ट में सब्ज़ियों के साथ भुनी बारीक कटी कटलफ़िश); Nyonya assam fish और inche kabin फ्राइड चिकन भी काफ़ी सराहे जाते हैं।"
+  reviewSummary: "लंबे समय से चल रहा एक सादा Peranakan रेस्तराँ, जिसे एक पति-पत्नी की जोड़ी (Ivy रसोई संभालती हैं, उनके पति परोसते हैं) 15 साल से अधिक समय से चला रही है, और अब यह Jalan Kedah के बड़े परिसर में उसी घरेलू मेन्यू के साथ है। MICHELIN Bib Gourmand से मान्यता प्राप्त; Nyonya क्लासिक व्यंजनों को समेटे शेयरिंग सेट मेन्यू के लिए सबसे प्रसिद्ध, परिवारों और स्थानीय अंदाज़ में खाने के लिए बढ़िया।"
+  facebook: "https://www.facebook.com/ivysnyonyacuisine"
+  phone: "+60 13-433 7878"
 
 relations:
   - { rel: "located-in", to: "penang" }

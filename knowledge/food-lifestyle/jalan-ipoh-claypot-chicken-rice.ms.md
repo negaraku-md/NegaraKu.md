@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice: Gerai Claypot Arang Bertaraf Bib Gourmand di KL"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "Claypot chicken rice dengan ayam, sayur hijau dan kicap pekat"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Ia terletak di Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200. MICHELIN Guide menyenaraikan waktu lebih kurang 10 pagi hingga 5 petang, tutup pada hari Rabu. Ia penyenaraian makanan jalanan $ (jimat)."
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "Isn, Sel, Kha-Ahd 10:00-17:30; tutup Rabu"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Claypot chicken rice dimasak di atas arang, dihidangkan dengan sosej babi Kantonis (lap cheong) dan halia; tambah ikan masin untuk aroma tambahan"
+  reviewSummary: "Gerai makanan jalanan lama yang telah memasak claypot chicken rice mengikut pesanan di atas arang selama lebih 30 tahun. Nasinya membentuk kerak rangup di bahagian bawah dan dihidangkan dengan sosej babi Kantonis dan halia, dengan ikan masin boleh ditambah sebagai perisa beraroma. Pilihan Bib Gourmand MICHELIN Guide."
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine: อาหารฮากกา MICHELIN Bib Gourmand ใน Segambut"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "Lei cha แบบ Hakka (thunder tea rice) — ข้าวกับสมุนไพรและผักสับ พร้อมซุปสมุนไพรสีเขียว"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine เป็นร้านอาหารฮากการะดับ MICHELIN Guide Bib Gourmand ใน Segambut กัวลาลัมเปอร์ เป็นร้านย่านเรียบง่ายที่เปิดมากว่า 20 ปี ขึ้นชื่อเรื่อง lei cha (thunder tea rice) — ซุปสีเขียวรสถั่วราดบนข้าว — และเกี๊ยวฮากกา ในราคาย่อมเยา"
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "จ. 11:00-15:00 & 17:00-21:00, พ.-อา. 11:00-15:00 & 17:00-21:00; อ. ปิด"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Hor Poh lui cha (ข้าวน้ำชา Hakka / thunder tea rice) — ซุปสมุนไพรและผักสีเขียวจากงา ถั่วลิสง และมินต์บด ราดบนข้าวสวยพร้อมเครื่องเคียงหลากหลาย และยังมีเกี๊ยว Hor Poh ไส้เต้าหู้แห้ง กระเทียม และผักดอง"
+  reviewSummary: "ร้านเล็ก ๆ ในย่าน Segambut ที่เปิดมายาวนาน เสิร์ฟอาหารบ้าน Hakka แท้ ๆ ในราคาย่อมเยามากว่า 20 ปี จนได้รับการยกย่องใน MICHELIN Guide ให้เป็น Bib Gourmand ขึ้นชื่อที่สุดด้วย lui cha (thunder tea rice) และมักมีลูกค้าแน่นร้าน"
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

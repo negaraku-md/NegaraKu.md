@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ar"
-sourceContentHash: "805a50b15371f203"
+sourceContentHash: "06ede28407d72f6d"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,17 @@ sources:
     publisher: "Options, The Edge"
 
 updated: 2026-11-06
+place:
+  address: "100-104 Jalan Kedah, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ivy%27s%20Nyonya%20Cuisine%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$ (MICHELIN Bib Gourmand); sharing set menus around RM175 for 4 people"
+  hours: "الاثنين مغلق؛ الثلاثاء 18:00-21:00؛ الأربعاء-الأحد 12:00-15:00، 18:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "كاري الدجاج Kapitan chicken curry وطبق Joo Hoo Char (حبّار مقطّع مقلي مع الخضار في معجون الفلفل الحار)؛ كما يحظى سمك assam fish النيونية ودجاج inche kabin المقلي بتقدير كبير."
+  reviewSummary: "مطعم بيرانكان (Peranakan) بسيط وعريق يديره زوجان (Ivy تطهو وزوجها يخدم الطاولات) منذ أكثر من 15 عامًا، وهو الآن في مقر أوسع في Jalan Kedah مع الاحتفاظ بالقائمة المنزلية نفسها. حائز على تصنيف MICHELIN Bib Gourmand؛ ويشتهر أكثر ما يشتهر بقوائم المشاركة التي تجمع أطباق النيونية (Nyonya) الكلاسيكية، وهو مناسب للعائلات ولتناول الطعام مثل السكان المحليين."
+  facebook: "https://www.facebook.com/ivysnyonyacuisine"
+  phone: "+60 13-433 7878"
 
 relations:
   - { rel: "located-in", to: "penang" }

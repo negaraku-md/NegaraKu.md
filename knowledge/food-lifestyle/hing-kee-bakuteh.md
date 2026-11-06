@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh: Bib Gourmand Bak Kut Teh on Jalan Kepong"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — pork ribs in a dark herbal soup, with a dry claypot version alongside"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh is a MICHELIN Bib Gourmand bak kut teh house at 121 Jalan Kepong in Kuala Lumpur. It serves both the classic mild herbal soup and a richer dry version, spread across four shophouses that fill up at lunch. This profile covers what it is, its signature dishes, where to find it and how to visit."
@@ -43,6 +48,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "Tue-Wed 11:00-02:30, Thu-Sat 15:00-02:30, Sun 14:30-02:30; Mon closed"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Herbal bak kut teh soup (mild, lightly sweet pork-rib broth); dry/spicy bak kut teh for a richer, thicker version"
+  reviewSummary: "A long-popular Kepong bak kut teh spot recognised in the MICHELIN Guide as a Bib Gourmand, spread across several shophouses along Jalan Kepong with ample seating and especially busy at lunch. Known for a herbal, mildly sweet pork-rib soup alongside a thicker, spicier dry version."
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

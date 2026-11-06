@@ -3,6 +3,11 @@ topicId: MY-MICH-0045
 title: "Laksalicious：乔治市的 Bib Gourmand laksa 专门店"
 seoTitle: "Laksalicious，乔治市 — Bib Gourmand"
 slug: "laksalicious"
+hero: "/media/food/laksalicious/hero.webp"
+heroAlt: "槟城 assam laksa——以罗望子鱼汤搭配面条、撕碎的鲐鱼、黄瓜、洋葱和薄荷"
+heroCredit: "DTW / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Assam_Laksa,_Air_Itam,_Penang.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -19,6 +24,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN Bib Gourmand, $)"
+  hours: "周二至周日 11:30-19:00；周一休息"
+  service: ["dine-in"]
+  mustOrder: "娘惹 assam laksa（酸味鱼汤）或娘惹 laksa lemak（椰浆浓汤），配虾饼；配菜包括 nasi ulam 和 gula melaka cendol"
+  reviewSummary: "位于 Jalan Hutton 的一家小而别具特色的叻沙专门店，被 MICHELIN 评为令人愉悦的小小瑰宝。它专注于两种娘惹叻沙——以鱼汤为底、酸辣的 assam laksa，以及用椰浆熬制、浓郁的 laksa lemak——再配上香脆的虾饼和一份简短的娘惹小菜菜单。因物超所值的烹调而获评 Bib Gourmand。"
+  facebook: "https://www.facebook.com/LaksaliciousPenang/"
+  phone: "+60 4-229 9178"
 summary: "Laksalicious 是槟城乔治市 Jalan Hutton 一家 MICHELIN Bib Gourmand 的食肆，laksa 是这里的重头戏。这家小巧而充满个性的店铺，让你在带有酸辣鱼汤的 Nyonya asam laksa，与汤头浓郁、椰浆奶香的 Nyonya laksa lemak 之间选择，另有炸虾饼、nasi ulam 与 gula melaka cendol 等菜式。"
 answer: "Laksalicious 是槟城乔治市 117-117A Jalan Hutton 一家 MICHELIN Bib Gourmand 餐厅，laksa 是这里的亮点。它供应两种风格——带酸辣鱼汤的 Nyonya asam laksa，以及汤头浓郁、椰浆奶香的 Nyonya laksa lemak——另有炸虾饼、nasi ulam 与 gula melaka cendol 等配菜。MICHELIN 将其价位定于 $ 区间，料理归类为 Malaysian（马来西亚）。"
 keyTakeaways:

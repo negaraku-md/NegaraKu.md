@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh: Jalan Kepong의 Bib Gourmand bak kut teh"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — 진한 약재 국물에 담긴 돼지갈비, 옆에 마른 뚝배기 버전이 함께 놓인 모습"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh는 쿠알라룸푸르 121 Jalan Kepong에 있는 MICHELIN Bib Gourmand bak kut teh 식당입니다. 고전적이고 순한 약재 국물과 더 진한 드라이 버전을 모두 제공하며, 네 채의 숍하우스에 걸쳐 있어 점심시간에는 자리가 가득 찹니다. 이 글은 이곳이 무엇인지, 대표 음식, 위치, 방문 방법을 다룹니다."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "화~수 11:00-02:30, 목~토 15:00-02:30, 일 14:30-02:30; 월 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "약재 bak kut teh 탕(담백하고 은은하게 단맛이 도는 돼지갈비 국물); 더 진하고 걸쭉한 마른/매운 bak kut teh"
+  reviewSummary: "크퐁(Kepong)에서 오랫동안 사랑받아 온 bak kut teh 맛집으로, MICHELIN 가이드에서 빕 구르망(Bib Gourmand)에 선정되었다. Jalan Kepong을 따라 여러 상가 건물에 걸쳐 있어 좌석이 넉넉하며 점심시간에 특히 붐빈다. 담백하고 은은하게 단 약재 돼지갈비 국물과, 더 진하고 매운 마른 버전으로 유명하다."
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

@@ -44,6 +44,22 @@ faq:
     a: "இது 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100-இல் உள்ளது, MICHELIN Guide தினமும் காலை 8 மணி முதல் மாலை 5 மணி வரை திறந்திருக்கும் நேரத்தைப் பட்டியலிடுகிறது. இது $ விலை வரம்பில், குளிர்சாதன வசதி கொண்டது, கடன் அட்டைகளை ஏற்கிறது."
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "திங்–ஞாயி 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "கலவை கடல்உணவு நூடுல்ஸ் மற்றும் பாலுடன் கூடிய மீன் தலை நூடுல் சூப்; பல்வேறு நூடுல் வகைகள் மற்றும் சூப் அடிப்படைகளில் இருந்து தேர்ந்தெடுத்து, உங்கள் விருப்பப்படி மீன் மற்றும் கடல்நண்டு-சிப்பி வகைகளைச் சேர்த்து தயாரிக்கப்படுகிறது"
+  reviewSummary: "தாமன் சேராஸில் எப்போதும் கூட்டம் நிறைந்த Bib Gourmand கடல்உணவு நூடுல் நிபுணர்; உரிமையாளர் அருகில் ஒரு கடல்உணவுக் கடையையும் நடத்துவதால், விருந்தினர்கள் தாங்களே புதிய மீன் மற்றும் கடல்நண்டு-சிப்பி வகைகளைத் தேர்ந்தெடுத்து, எட்டு வகை நூடுல்ஸ் மற்றும் ஐந்து சூப் அடிப்படைகளுடன் சேர்த்துக்கொள்கிறார்கள்."
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh: Bak Kut Teh Bib Gourmand di Jalan Kepong"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — tulang rusuk babi dalam sup herba gelap, dengan versi kering dalam periuk tanah di sebelahnya"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh ialah kedai bak kut teh MICHELIN Bib Gourmand di 121 Jalan Kepong, Kuala Lumpur. Ia menyajikan kedua-dua sup herba klasik yang lembut dan versi kering yang lebih pekat, tersebar merentasi empat buah rumah kedai yang penuh sesak ketika waktu makan tengah hari. Profil ini merangkumi apa itu, hidangan istimewanya, lokasinya dan cara untuk melawat."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "Sel-Rab 11:00-02:30, Kha-Sab 15:00-02:30, Ahd 14:30-02:30; Isn tutup"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Sup bak kut teh herba (kuah tulang babi yang lembut dan manis sedikit); bak kut teh kering/pedas untuk versi yang lebih pekat dan kaya"
+  reviewSummary: "Gerai bak kut teh Kepong yang lama popular dan diiktiraf dalam Panduan MICHELIN sebagai Bib Gourmand, merangkumi beberapa rumah kedai di sepanjang Jalan Kepong dengan tempat duduk yang luas dan amat sibuk waktu tengah hari. Terkenal dengan sup tulang babi herba yang lembut dan manis sedikit, selain versi kering yang lebih pekat dan pedas."
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

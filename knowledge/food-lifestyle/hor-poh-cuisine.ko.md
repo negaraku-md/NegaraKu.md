@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine: Segambut의 MICHELIN Bib Gourmand 하카 음식"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "Hakka lei cha(thunder tea rice) — 다진 허브와 채소를 곁들인 밥과 초록빛 허브 수프"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine은 쿠알라룸푸르 Segambut에 있는 MICHELIN Guide Bib Gourmand 하카 요리점이다. 20년 넘게 이어진 소박한 동네 가게로, lei cha(thunder tea rice) — 밥에 끼얹는, 고소한 견과 풍미의 초록색 수프 — 와 하카 만두로, 저렴한 가격에 알려져 있다."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "월 11:00-15:00 & 17:00-21:00, 수~일 11:00-15:00 & 17:00-21:00; 화 휴무"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Hor Poh의 lui cha(Hakka thunder tea rice) — 간 참깨, 땅콩, 민트로 만든 초록빛 허브·채소 수프를 찐 밥 위에 다양한 토핑과 함께 내는 요리이며, 말린 두부·마늘·장아찌를 채운 Hor Poh 만두도 있다"
+  reviewSummary: "Segambut에 있는 소박하고 오래된 동네 가게로, 20년 넘게 정통 Hakka 가정식을 저렴한 가격에 선보여 MICHELIN 가이드에서 Bib Gourmand로 인정받았다. lui cha(thunder tea rice)로 가장 유명하며 보통 손님이 붐빈다."
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

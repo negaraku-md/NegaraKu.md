@@ -44,6 +44,22 @@ faq:
     a: "Terletak di 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, dan MICHELIN Guide mencantumkan jam buka 08.00 hingga 17.00 setiap hari. Berada pada kisaran harga $, ber-AC, dan menerima kartu kredit."
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Sen-Min 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Mi seafood campur dan mi sup kepala ikan dengan susu, dibuat dari pilihan jenis mi dan kaldu sup dengan pilihan ikan serta kerang-kerangan Anda sendiri"
+  reviewSummary: "Spesialis mi seafood peraih Bib Gourmand yang selalu ramai di Taman Cheras; pemiliknya juga menjalankan kios seafood di dekatnya, sehingga pengunjung memilih sendiri ikan dan kerang-kerangan segar untuk dipadukan dengan delapan jenis mi dan lima kaldu sup."
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

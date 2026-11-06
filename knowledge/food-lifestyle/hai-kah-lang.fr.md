@@ -44,6 +44,22 @@ faq:
     a: "Il se trouve au 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, et le MICHELIN Guide indique des horaires de 8 h à 17 h tous les jours. Il se situe dans la tranche de prix $, est climatisé et accepte les cartes de crédit."
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Lun-Dim 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Nouilles mixtes aux fruits de mer et soupe de nouilles à la tête de poisson au lait, composées à partir d'un choix de types de nouilles et de bases de bouillon, avec votre propre sélection de poissons et de fruits de mer à coquille"
+  reviewSummary: "Un spécialiste des nouilles aux fruits de mer distingué par un Bib Gourmand, toujours bondé à Taman Cheras ; le propriétaire tient aussi un étal de fruits de mer à proximité, si bien que les convives choisissent eux-mêmes poissons et fruits de mer frais à associer à huit types de nouilles et cinq bases de bouillon."
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"

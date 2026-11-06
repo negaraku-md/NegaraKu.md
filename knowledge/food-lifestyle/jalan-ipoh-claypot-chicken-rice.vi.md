@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice: Một quầy thố than đạt Bib Gourmand ở KL"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "claypot chicken rice với thịt gà, rau xanh và nước tương đậm màu"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Quầy ở Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200. MICHELIN Guide ghi giờ khoảng 10 giờ sáng đến 5 giờ chiều, đóng cửa thứ Tư. Đây là một mục ẩm thực đường phố khung giá $ (bình dân)."
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "T2, T3, T5-CN 10:00-17:30; đóng cửa thứ Tư"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "claypot chicken rice nấu trên than hồng, dùng kèm lạp xưởng kiểu Quảng Đông (lap cheong) và gừng; thêm cá mặn để tăng hương thơm"
+  reviewSummary: "Một quán ăn đường phố lâu đời đã nấu claypot chicken rice theo yêu cầu trên than hồng suốt hơn 30 năm. Cơm tạo thành lớp cháy giòn ở đáy nồi, dùng kèm lạp xưởng kiểu Quảng Đông và gừng, có thể thêm cá mặn như món phụ tạo hương. Quán được MICHELIN Guide chọn vào danh sách Bib Gourmand."
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

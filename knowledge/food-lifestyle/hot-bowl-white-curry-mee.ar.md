@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: مطعم نودلز في بينانغ حائز على Bib Gourmand من ميشلان"
 seoTitle: "Hot Bowl White Curry Mee، بينانغ"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "white curry mee البينانغي — حساء نودلز فاتح اللون بحليب جوز الهند مع الجمبري وكرات السمك وفقاعات التوفو والمحار"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "‏Hot Bowl White Curry Mee هو مطعم نودلز عريق في شارع Jalan Rangoon بحي George Town في بينانغ، حائز على تصنيف Bib Gourmand من دليل MICHELIN. مفتوح منذ عام 1992، ويشتهر بطبق white curry mee — نودلز في مرق قوامه حليب جوز الهند يُقدَّم مع معجون كاري مُحرَّك باليد على جانب الطبق ليحدد كل زبون درجة الحرارة بنفسه."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "الثلاثاء–الأحد 08:00-14:30؛ مغلق يوم الاثنين"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - حساء نودلز بحليب جوز الهند يُقدَّم مع وعاء منفصل من معجون الكاري المحرَّك يدويًا، لتضبط بنفسك مستوى الحرارة والتوابل."
+  reviewSummary: "مطعم عريق محبوب في جورج تاون يعمل منذ عام 1992 وما زال يديره صاحبه الطاهي بنفسه، حائز على MICHELIN Bib Gourmand. يشتهر بطبقه المميز white curry mee، وهو حساء نودلز بحليب جوز الهند يُقدَّم مع معجون كاري من الجمبري المجفّف والفلفل الحار يُحرَّك ببطء ليوازن بين الحلاوة والحرارة. مطعم بسيط مكيَّف يحبه السكان المحليون؛ الدخول المباشر فقط وغالبًا ما يكون مزدحمًا، مع طاولات مشتركة في أوقات الذروة."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

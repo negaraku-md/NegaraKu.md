@@ -3,6 +3,11 @@ topicId: MY-MICH-0045
 title: "Laksalicious: ผู้เชี่ยวชาญ laksa Bib Gourmand แห่ง George Town"
 seoTitle: "Laksalicious, George Town — Bib Gourmand"
 slug: "laksalicious"
+hero: "/media/food/laksalicious/hero.webp"
+heroAlt: "assam laksa ปีนัง — น้ำซุปปลารสมะขามเปียกกับเส้นก๋วยเตี๋ยว ปลาทูฉีก แตงกวา หอมใหญ่ และสะระแหน่"
+heroCredit: "DTW / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Assam_Laksa,_Air_Itam,_Penang.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -19,6 +24,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN Bib Gourmand, $)"
+  hours: "อ.-อา. 11:30-19:00; จ. ปิด"
+  service: ["dine-in"]
+  mustOrder: "Nyonya assam laksa (น้ำซุปปลารสเปรี้ยว) หรือ Nyonya laksa lemak (น้ำซุปกะทิเข้มข้น) พร้อมข้าวเกรียบกุ้ง; เมนูเคียงมี nasi ulam และ gula melaka cendol"
+  reviewSummary: "ร้าน laksa ขนาดเล็กที่เปี่ยมเอกลักษณ์บนถนน Jalan Hutton ซึ่ง MICHELIN ยกให้เป็นอัญมณีเล็ก ๆ ที่น่ารื่นรมย์ ร้านเน้น laksa แบบ Nyonya สองสไตล์ - assam laksa รสเปรี้ยวเผ็ดที่ใช้น้ำซุปปลา และ laksa lemak เข้มข้นในน้ำกะทิ - เสริมด้วยข้าวเกรียบกุ้งกรอบและเมนูเคียงแบบ Nyonya สั้น ๆ ได้รับการยกย่องเป็น Bib Gourmand สำหรับอาหารที่คุ้มค่า"
+  facebook: "https://www.facebook.com/LaksaliciousPenang/"
+  phone: "+60 4-229 9178"
 summary: "Laksalicious เป็นร้านอาหาร MICHELIN Bib Gourmand บนถนน Jalan Hutton ใน George Town รัฐ Penang ที่ซึ่ง laksa เป็นพระเอก ร้านเล็ก ๆ ที่เต็มไปด้วยเอกลักษณ์แห่งนี้ให้เลือกระหว่าง Nyonya asam laksa ที่มีน้ำซุปปลารสเปรี้ยวเผ็ด กับ Nyonya laksa lemak ที่มีน้ำซุปกะทิเข้มข้นครีมมี่ ควบคู่กับเมนูอย่างกุ้งชุบแป้งทอด, nasi ulam และ gula melaka cendol"
 answer: "Laksalicious เป็นร้านอาหาร MICHELIN Bib Gourmand ที่ 117-117A Jalan Hutton ใน George Town รัฐ Penang ที่ซึ่ง laksa เป็นไฮไลต์ ร้านเสิร์ฟสองสไตล์ — Nyonya asam laksa ที่มีน้ำซุปปลารสเปรี้ยวเผ็ด และ Nyonya laksa lemak ที่มีน้ำซุปกะทิเข้มข้นครีมมี่ — พร้อมเครื่องเคียงรวมถึงกุ้งชุบแป้งทอดกรอบ, nasi ulam และ gula melaka cendol MICHELIN จัดอยู่ในระดับราคา $ และจัดประเภทอาหารเป็น Malaysian"
 keyTakeaways:

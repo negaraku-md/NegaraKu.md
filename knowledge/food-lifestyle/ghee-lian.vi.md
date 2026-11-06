@@ -39,6 +39,16 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Lot No. 39, MBPP Kompleks Makanan Medan Renong, Padang Kota Lama, 4 Jalan Tun Syed Sheh Barakhbah, George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (under RM25 per person)"
+  hours: "T2-T3 18:00-22:00; T4-CN đóng cửa"
+  service: ["dine-in"]
+  mustOrder: "Mì tom yum xanh, món đặc trưng của quầy, trong nước dùng xanh chua cay, thường phủ cá chiên giòn và tôm lớn; một bát mì nước trong và mì xào hoàn thiện thực đơn ba món."
+  reviewSummary: "Một quầy ẩm thực đường phố MICHELIN Bib Gourmand trong khu ẩm thực Medan Renong gần Esplanade, chỉ phục vụ ba món mì. Các thanh tra MICHELIN đề cao món mì tom yum xanh đặc trưng nhờ sự cân bằng giữa vị chua và cay, lớp cá chiên giòn mà vẫn mọng, và tôm đậm vị umami. Hàng dài thường xếp trước giờ mở cửa buổi tối."
+  phone: "+60 12-450 8595"
 sources:
   - title: "Ghee Lian"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/ghee-lian"

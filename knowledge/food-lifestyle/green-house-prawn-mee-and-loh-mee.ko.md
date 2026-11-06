@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Restoran Old Green House, 223 Jalan Burma, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Green%20House%20Prawn%20Mee%20Loh%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "화-일 16:00-22:00; 월요일 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Hokkien prawn mee, loh mee 또는 둘을 섞은 것; 시그니처 붉은 새우 수프에 열두 가지 추가 토핑 중에서 선택"
+  reviewSummary: "Restoran Old Green House 안에 자리한 야간 전용 국수 포장마차로, 30년 넘게 단골들의 발길을 끌어왔다. MICHELIN 빕 구르망으로, 돼지 뼈와 새우 껍질로 우려낸 깊은 감칠맛의 붉은 새우 육수가 대표 메뉴이며 Hokkien prawn mee, loh mee 또는 둘을 섞은 형태로 제공된다."
+  phone: "+60 16-406 1717"
 summary: "Green House Prawn Mee and Loh Mee는 페낭 조지타운 Jalan Burma에 있는 야간 영업 길거리 음식 노점으로, MICHELIN Bib Gourmand를 보유하고 있다. 30년 넘게 사랑받아 온 명소로, 돼지 뼈와 새우 껍질로 우려낸 깊은 감칠맛의 붉은 새우 수프를 바탕으로 한 Hokkien prawn mee와 loh mee로 유명하며, 열두 가지 남짓의 선택 토핑이 있다."
 answer: "Green House Prawn Mee and Loh Mee는 페낭 조지타운 Jalan Burma에 있는 MICHELIN Bib Gourmand 길거리 음식 노점이다. Restoran Old Green House 안에 자리하며, Hokkien prawn mee와 loh mee로 30년 넘게 사랑받아 왔다. 대표 붉은 새우 수프는 돼지 뼈와 새우 껍질로 만들어 깊은 감칠맛을 내며, 약 열두 가지의 추가 토핑이 제공된다. 야간에 영업하며 현금만 받는다."
 keyTakeaways:

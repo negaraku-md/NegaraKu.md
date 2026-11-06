@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh: ร้าน bak kut teh ระดับ Bib Gourmand บน Jalan Kepong"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — ซี่โครงหมูในน้ำซุปสมุนไพรสีเข้ม พร้อมเวอร์ชันแห้งในหม้อดินวางอยู่ข้าง ๆ"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh เป็นร้าน bak kut teh ระดับ MICHELIN Bib Gourmand ที่ 121 Jalan Kepong กรุงกัวลาลัมเปอร์ เสิร์ฟทั้งน้ำซุปสมุนไพรแบบคลาสสิกที่รสอ่อนและเวอร์ชันแห้งที่เข้มข้นกว่า กระจายอยู่ในตึกแถวสี่คูหาที่เต็มแน่นในมื้อกลางวัน บทความนี้ครอบคลุมว่าร้านนี้คืออะไร เมนูเด่น ที่ตั้ง และวิธีไปเยือน"
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "อ.-พ. 11:00-02:30, พฤ.-ส. 15:00-02:30, อา. 14:30-02:30; จ. ปิด"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "bak kut teh น้ำสมุนไพร (น้ำซุปซี่โครงหมูรสอ่อนและหวานเล็กน้อย); bak kut teh แบบแห้ง/เผ็ด สำหรับเวอร์ชันที่เข้มข้นและข้นกว่า"
+  reviewSummary: "ร้าน bak kut teh ชื่อดังที่อยู่คู่ย่านเกอปงมานาน ได้รับการยกย่องในคู่มือ MICHELIN ให้เป็น Bib Gourmand ตั้งอยู่ในตึกแถวหลายคูหาตลอดแนว Jalan Kepong มีที่นั่งกว้างขวางและคึกคักเป็นพิเศษในช่วงมื้อกลางวัน ขึ้นชื่อเรื่องน้ำซุปซี่โครงหมูสมุนไพรรสอ่อนหวานเล็กน้อย ควบคู่กับเวอร์ชันแห้งที่ข้นและเผ็ดกว่า"
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0051
 title: "Hot Bowl White Curry Mee: Quán mì đạt Bib Gourmand ở Penang"
 seoTitle: "Hot Bowl White Curry Mee, Penang"
 slug: "hot-bowl-white-curry-mee"
+hero: "/media/food/hot-bowl-white-curry-mee/hero.webp"
+heroAlt: "White curry mee Penang — món mì nước cốt dừa nhạt màu với tôm, chả cá viên, đậu hũ chiên và sò huyết"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:%E6%AA%B3%E5%9F%8E%E7%99%BD%E5%92%96%E5%93%A9%E9%BA%B5.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hot Bowl White Curry Mee là một quán mì lâu đời trên đường Jalan Rangoon ở George Town, Penang, đạt danh hiệu Bib Gourmand của MICHELIN Guide. Mở cửa từ năm 1992, quán nổi tiếng với white curry mee — mì trong nước dùng nấu từ nước cốt dừa, kèm một chén sốt cà ri khuấy tay để riêng bên cạnh, để thực khách tự điều chỉnh độ cay."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "58C Jalan Rangoon, 10400 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hot%20Bowl%20White%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN price band $)"
+  hours: "T3–CN 08:00-14:30; đóng cửa T2"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "White curry mee - món mì nước cốt dừa, dùng kèm một chén tương cà ri khuấy tay riêng để bạn tự điều chỉnh độ cay theo ý mình."
+  reviewSummary: "Một quán lâu đời được yêu thích ở George Town, mở cửa từ năm 1992 và vẫn do chính đầu bếp kiêm chủ quán điều hành, được trao giải MICHELIN Bib Gourmand. Quán nổi tiếng với món white curry mee đặc trưng, mì nước cốt dừa ăn kèm tương cà ri tôm khô và ớt được khuấy chậm, cân bằng giữa vị ngọt và cay. Quán giản dị, có máy lạnh, được người địa phương ưa chuộng; chỉ nhận khách đến trực tiếp và thường đông, giờ cao điểm phải ngồi ghép bàn."
+  phone: "+60 4-227 3168"
 sources:
   - title: "Hot Bowl White Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/hot-bowl-white-curry-mee"

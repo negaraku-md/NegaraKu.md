@@ -39,6 +39,16 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Lot No. 39, MBPP Kompleks Makanan Medan Renong, Padang Kota Lama, 4 Jalan Tun Syed Sheh Barakhbah, George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (under RM25 per person)"
+  hours: "திங்-செவ் 18:00-22:00; புத-ஞாயி மூடப்பட்டிருக்கும்"
+  service: ["dine-in"]
+  mustOrder: "பச்சை tom yum நூடுல்ஸ், இந்தக் கடையின் சிறப்புக் கிண்ணம், புளிப்பு-காரமான பச்சை சூப்பில், பொதுவாக மொறுமொறுப்பான பொரித்த மீனும் பெரிய இறால்களும் மேலே சேர்க்கப்படும்; தெளிவான நூடுல் சூப்பும் பொரித்த நூடுல்ஸும் மூன்று-வகை மெனுவை நிறைவு செய்கின்றன."
+  reviewSummary: "Esplanade அருகே Medan Renong உணவுத் தொகுப்பில் உள்ள ஒரு MICHELIN Bib Gourmand தெரு உணவுக் கடை, வெறும் மூன்று நூடுல் வகைகளை மட்டுமே வழங்குகிறது. MICHELIN ஆய்வாளர்கள் சிறப்பு பச்சை tom yum நூடுல்ஸின் புளிப்பு-காரச் சமநிலையையும், மொறுமொறுப்பான-ஆனால்-சதைப்பிடிப்பான பொரித்த மீன் மேலுறையையும், உமாமி நிறைந்த இறால்களையும் சிறப்பித்துக் காட்டுகிறார்கள். மாலை திறப்பதற்கு முன் நீண்ட வரிசைகள் உருவாகின்றன."
+  phone: "+60 12-450 8595"
 sources:
   - title: "Ghee Lian"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/ghee-lian"

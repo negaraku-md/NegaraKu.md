@@ -3,6 +3,11 @@ topicId: MY-MICH-0045
 title: "‏Laksalicious: متخصّص laksa الحائز على Bib Gourmand في George Town"
 seoTitle: "‏Laksalicious، George Town — Bib Gourmand"
 slug: "laksalicious"
+hero: "/media/food/laksalicious/hero.webp"
+heroAlt: "assam laksa البينانجية — مرق سمك بنكهة التمر الهندي مع المعكرونة وسمك الماكريل المبشور والخيار والبصل والنعناع"
+heroCredit: "DTW / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Assam_Laksa,_Air_Itam,_Penang.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -19,6 +24,17 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "117-117A Jalan Hutton, George Town, 10050 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Laksalicious%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN Bib Gourmand, $)"
+  hours: "الثلاثاء-الأحد 11:30-19:00؛ الإثنين مغلق"
+  service: ["dine-in"]
+  mustOrder: "Nyonya assam laksa (مرق سمك حامض) أو Nyonya laksa lemak (مرق جوز هند كريمي)، مع رقائق الروبيان؛ وتشمل الأطباق الجانبية nasi ulam و gula melaka cendol"
+  reviewSummary: "مطعم laksa صغير مليء بالطابع المميز في شارع Jalan Hutton، اختاره دليل MICHELIN كجوهرة صغيرة مبهجة. يركّز على نمطين من laksa النيونية - assam laksa الحامض الحار بمرق أساسه السمك، و laksa lemak الغني بحليب جوز الهند - ويكتمل برقائق الروبيان المقرمشة وقائمة قصيرة من الأطباق الجانبية النيونية. حاز لقب Bib Gourmand لطهيه ذي القيمة الجيدة."
+  facebook: "https://www.facebook.com/LaksaliciousPenang/"
+  phone: "+60 4-229 9178"
 summary: "‏Laksalicious مطعم حائز على MICHELIN Bib Gourmand في Jalan Hutton في George Town، Penang، حيث الـ laksa هو الحدث الرئيسي. يتيح المحلّ الصغير المفعم بالشخصية الاختيار بين Nyonya asam laksa بمرق سمك حامض حارّ و Nyonya laksa lemak بمرق حليب جوز هند غني كريمي، إلى جانب أطباق مثل فطائر الروبيان و nasi ulam و gula melaka cendol."
 answer: "‏Laksalicious مطعم حائز على MICHELIN Bib Gourmand في 117-117A Jalan Hutton في George Town، Penang، حيث الـ laksa هو أبرز ما فيه. يقدّم طرازين — Nyonya asam laksa بمرق سمك حامض حارّ و Nyonya laksa lemak بمرق حليب جوز هند غني كريمي — إضافةً إلى أطباق جانبية تشمل فطائر الروبيان المقرمشة و nasi ulam و gula melaka cendol. ويضعه MICHELIN في فئة $ ويصنّف مطبخه Malaysian."
 keyTakeaways:

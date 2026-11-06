@@ -3,6 +3,11 @@ topicId: MY-MICH-0031
 title: "Hing Kee Bakuteh：位于 Jalan Kepong 的 Bib Gourmand bak kut teh"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
+hero: "/media/food/hing-kee-bakuteh/hero.webp"
+heroAlt: "Bak kut teh — 深色药材汤中的猪肋排，旁边搭配一份干式瓦煲版本"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh 是位于吉隆坡 121 Jalan Kepong 的一家 MICHELIN Bib Gourmand bak kut teh 餐馆。它既供应经典温润的药材汤底，也供应一款更浓郁的干式版本，分布在四间店屋之间，午餐时段座无虚席。本篇介绍这是什么、招牌菜式、地点，以及如何前往。"
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "兴记肉骨茶"
+  address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hing%20Kee%20Bak%20Kut%20Teh%2C%20Jalan%20Kepong%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "周二-周三 11:00-02:30, 周四-周六 15:00-02:30, 周日 14:30-02:30; 周一休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "药材 bak kut teh 汤（清淡、带微甜的猪肋排汤）；干式／辣味 bak kut teh，口感更浓郁厚实"
+  reviewSummary: "位于甲洞、长期广受欢迎的 bak kut teh 老店，获 MICHELIN 指南评为必比登推介（Bib Gourmand），沿着 Jalan Kepong 占据数间店屋，座位充裕，午餐时段尤其热闹。以清淡微甜的药材猪肋排汤著称，另有口感更浓稠、更辛辣的干式版本。"
+  phone: "+60 12-523 3599"
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"

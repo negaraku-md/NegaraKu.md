@@ -39,6 +39,20 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "Kuala Lumpur noodles"
 updated: 2026-11-06
+place:
+  nativeName: "丽丰啦啦米"
+  address: "99 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lai%20Foong%20Lala%20Noodles%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (RM20-40 per person)"
+  hours: "월 10:00-22:00; 화-일 09:00-22:00"
+  halal: "non-halal"
+  service: ["dine-in", "takeaway", "delivery"]
+  mustOrder: "라라 비훈(lala bihun)은 대표 메뉴로, 맑은 국물에 신선한 lala(조개)와 새우를 푸짐하게 넣은 쌀국수 한 그릇이며, 국물은 중국 황주와 생강의 향이 가득합니다. 큰 새우 버전과 뚝배기 새우 당면도 인기가 많습니다."
+  reviewSummary: "쿠알라룸푸르 차이나타운에 있는 MICHELIN 빕 구르망(Bib Gourmand) 국수집으로, 길거리 노점에서 시작해 붉은 등과 빈티지 중국풍 장식이 걸린 2층 모퉁이 가게로 성장했습니다. MICHELIN 심사원은 새우를 곁들인 lala bihun을 꼭 먹어야 할 메뉴로 꼽으며, 중국 황주와 생강 향이 가득한 조개와 새우 국물을 극찬하고 푸짐한 양을 언급합니다. Jalan Sultan에서 가장 붐비는 현지 국수집 중 하나입니다."
+  facebook: "https://www.facebook.com/laifoonglalanoodles"
+  instagram: "https://www.instagram.com/laifonglalanoodles"
+  phone: "+60 3-2022 2011"
 sources:
   - title: "Lai Foong Lala Noodles"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/lai-fong-lala-noodles"

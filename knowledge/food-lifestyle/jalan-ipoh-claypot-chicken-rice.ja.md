@@ -3,6 +3,11 @@ topicId: MY-MICH-0019
 title: "Jalan Ipoh Claypot Chicken Rice：KL の Bib Gourmand 炭火土鍋屋台"
 seoTitle: "Jalan Ipoh Claypot Chicken Rice"
 slug: "jalan-ipoh-claypot-chicken-rice"
+hero: "/media/food/jalan-ipoh-claypot-chicken-rice/hero.webp"
+heroAlt: "鶏肉、青菜、濃口醤油を添えた claypot chicken rice"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, Kuala Lumpur 51200 にあります。MICHELIN Guide はおおむね午前 10 時から午後 5 時の営業で、水曜定休と記載しています。$（低価格）帯の屋台料理の掲載です。"
 
 updated: 2026-11-06
+place:
+  address: "Lot 1224, 7 Jalan Batu Ambar, Taman Kok Lian, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Jalan%20Ipoh%20Claypot%20Chicken%20Rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN price tier: $)"
+  hours: "月・火・木～日 10:00-17:30；水曜定休"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "炭火で炊き上げる claypot chicken rice。広東式の腸詰（lap cheong）と生姜を添え、塩漬け魚を加えると一層豊かな香りに"
+  reviewSummary: "30 年以上にわたり炭火で claypot chicken rice を注文ごとに炊いてきた老舗の屋台。鍋底にパリッとしたおこげができ、広東式の腸詰と生姜が添えられ、香り付けに塩漬け魚を追加できる。MICHELIN Guide ビブグルマン（Bib Gourmand）掲載。"
+  phone: "+60 12-332 3620"
 sources:
   - title: "Jalan Ipoh Claypot Chicken Rice"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/jalan-ipoh-claypot-chicken-rice"

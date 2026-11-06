@@ -39,6 +39,16 @@ keywords:
   - "street food"
   - "MICHELIN Guide Malaysia"
 updated: 2026-11-06
+place:
+  address: "Lot No. 39, MBPP Kompleks Makanan Medan Renong, Padang Kota Lama, 4 Jalan Tun Syed Sheh Barakhbah, George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ghee%20Lian%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (under RM25 per person)"
+  hours: "月-火 18:00-22:00；水-日 定休"
+  service: ["dine-in"]
+  mustOrder: "緑のトムヤムヌードル。この屋台の看板メニューで、酸味と辛みのきいた緑のスープに、通常はカリッと揚げた魚と大ぶりのエビをのせています。澄んだヌードルスープと焼きそばが、三品のメニューを締めくくります。"
+  reviewSummary: "エスプラネード近くの Medan Renong フードコート内にある MICHELIN ビブグルマンの屋台で、提供するのはヌードル三品のみ。MICHELIN の調査員は、看板の緑のトムヤムヌードルの酸味と辛みのバランス、カリッとしつつジューシーな揚げ魚のトッピング、旨みたっぷりのエビを高く評価しています。夕方の開店前には長い行列ができます。"
+  phone: "+60 12-450 8595"
 sources:
   - title: "Ghee Lian"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/ghee-lian"

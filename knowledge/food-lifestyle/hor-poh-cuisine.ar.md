@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine: طعام هاكا حائز على MICHELIN Bib Gourmand في Segambut"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "طبق lei cha على طريقة Hakka (thunder tea rice) — أرز مع أعشاب وخضار مفرومة وحساء أعشاب أخضر"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine مطعم هاكا حائز على MICHELIN Guide Bib Gourmand في Segambut بكوالالمبور. وهو محل حيّ بسيط عمره أكثر من 20 عامًا، معروف بطبق lei cha (thunder tea rice) — حساء أخضر بنكهة المكسّرات فوق الأرز — وبفطائر الهاكا، تُقدَّم بأسعار زهيدة."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "الإثنين 11:00-15:00 & 17:00-21:00، الأربعاء-الأحد 11:00-15:00 & 17:00-21:00؛ الثلاثاء مغلق"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "طبق lui cha من Hor Poh (أرز شاي الرعد على طريقة Hakka / thunder tea rice) — حساء أخضر من الأعشاب والخضار مصنوع من السمسم والفول السوداني والنعناع المطحون، يُقدَّم فوق الأرز المطهو على البخار مع إضافات متنوعة؛ وكذلك فطيرة Hor Poh المحشوة بالتوفو المجفف والثوم والمخللات"
+  reviewSummary: "محل بسيط وعريق في حي Segambut يقدّم المأكولات المنزلية الأصيلة لمطبخ Hakka بأسعار زهيدة منذ أكثر من 20 عامًا، ومُدرَج في دليل MICHELIN ضمن فئة Bib Gourmand. يشتهر أكثر ما يشتهر بطبق lui cha (thunder tea rice) وعادةً ما يكون مزدحمًا."
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0029
 title: "Hor Poh Cuisine: Segambut-இல் MICHELIN Bib Gourmand Hakka உணவு"
 seoTitle: "Hor Poh Cuisine"
 slug: "hor-poh-cuisine"
+hero: "/media/food/hor-poh-cuisine/hero.webp"
+heroAlt: "Hakka lei cha (thunder tea rice) — நறுக்கிய மூலிகைகள் மற்றும் காய்கறிகளுடன் கூடிய சாதமும் பச்சை நிற மூலிகை சூப்பும்"
+heroCredit: "Encik Tekateki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Lei_cha_in_Johor,Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hor Poh Cuisine என்பது கோலாலம்பூர், Segambut-இல் உள்ள ஒரு MICHELIN Guide Bib Gourmand Hakka உணவகம். 20 ஆண்டுகளுக்கும் மேலான ஒரு எளிய அக்கம்பக்கக் கடையான இது, அதன் lei cha (thunder tea rice) — அரிசி மேல் ஊற்றப்படும், கொட்டைச் சுவை கொண்ட பச்சை சூப் — மற்றும் Hakka டம்ப்ளிங்ஸ் ஆகியவற்றுக்கு, மலிவான விலையில், அறியப்படுகிறது."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "36 Jalan 6/38D, Taman Sri Sinar, Segambut, 52100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hor%20Poh%20Cuisine%2C%20Segambut%2C%20Kuala%20Lumpur"
+  priceRange: "$"
+  hours: "திங்கள் 11:00-15:00 & 17:00-21:00, புதன்-ஞாயிறு 11:00-15:00 & 17:00-21:00; செவ்வாய் மூடப்பட்டிருக்கும்"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Hor Poh lui cha (Hakka thunder tea rice) — அரைத்த எள், நிலக்கடலை மற்றும் புதினாவில் செய்யப்படும் பச்சை நிற மூலிகை-காய்கறி சூப், வேகவைத்த சாதத்தின் மேல் பலவிதமான டாப்பிங்குடன் பரிமாறப்படுகிறது; மேலும் உலர்ந்த தோஃபு, பூண்டு மற்றும் ஊறுகாய் நிரப்பப்பட்ட Hor Poh டம்ப்ளிங்"
+  reviewSummary: "Segambut-ல் உள்ள எளிமையான, நீண்டகாலமாக இயங்கிவரும் ஒரு அக்கம்பக்கக் கடை, 20 ஆண்டுகளுக்கும் மேலாக உண்மையான Hakka வீட்டு உணவுகளை மலிவு விலையில் வழங்கி வருகிறது; MICHELIN Guide-ல் Bib Gourmand என அங்கீகரிக்கப்பட்டுள்ளது. அதன் lui cha (thunder tea rice) மிகவும் பிரபலம், வழக்கமாக கூட்டம் நிறைந்திருக்கும்."
+  phone: "+60 12-233 4931"
 sources:
   - title: "Hor Poh Cuisine"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hor-poh-cuisine"

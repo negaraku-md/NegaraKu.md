@@ -43,6 +43,22 @@ faq:
     a: "It is at 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, and the MICHELIN Guide lists opening hours of 8am to 5pm daily. It sits in the $ price band, is air-conditioned and accepts credit cards."
 
 updated: 2026-11-06
+place:
+  nativeName: "海脚人"
+  address: "44 Jalan Kaskas 2, Taman Cheras, 56100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Hai%20Kah%20Lang%2C%20Taman%20Cheras%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Mon-Sun 08:00-17:00"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Mixed seafood noodles and fish head noodle soup with milk, built from a choice of noodle types and soup bases with your own pick of fish and shellfish"
+  reviewSummary: "A perennially busy Bib Gourmand seafood-noodle specialist in Taman Cheras; the owner also runs a nearby seafood stall, so diners pick their own fresh fish and shellfish to go with eight noodle types and five soup bases."
+  website: "https://haikahlang.com"
+  facebook: "https://www.facebook.com/haikahlang/"
+  instagram: "https://www.instagram.com/haikahlang/"
+  tiktok: "https://www.tiktok.com/@haikahlang1"
+  phone: "+60 11-5129 9813"
 sources:
   - title: "Hai Kah Lang (Taman Cheras)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hai-kah-lang"
