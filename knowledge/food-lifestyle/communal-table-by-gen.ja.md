@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ja"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "月・火・木・金 17:00-23:00；土・日 12:00-15:00 & 18:00-23:00；水 定休"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "蒸しバンに挟んだ熟成鴨胸肉（看板料理）；ナツメグ・ハルマニスやホーカーサイなど地元フレーバーの自家製gelato"
+  reviewSummary: "ジョージタウンにあるカジュアルでくつろげるダイニング。オープンキッチン、長い共用カウンター、大きな窓を備える。コンパクトなモダンメニューは地元食材を活かし、ニョニャ（プラナカン）とマレーシア料理を橋渡しする。看板は蒸しバンに挟んだ熟成鴨胸肉で、地元フレーバーの自家製gelatoが添えられる。"
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

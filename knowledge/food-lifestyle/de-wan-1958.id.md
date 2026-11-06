@@ -39,6 +39,20 @@ keywords:
   - "Bib Gourmand"
   - "MICHELIN Guide Kuala Lumpur"
 updated: 2026-11-06
+place:
+  address: "Level 2-2, The LINC KL, 360 Jalan Tun Razak, Taman U Thant, 50400 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=De.Wan%201958%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=De.Wan%201958%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Sen-Jum 11:00-15:30 dan 18:00-21:30; Sab-Min 11:00-17:00 dan 18:00-21:30"
+  halal: "halal"
+  service: ["dine-in"]
+  mustOrder: "Salad pomelo dengan pipi udang renyah dalam saus kerabu jeruk nipis; bakar bakar (daging atau makanan laut panggang dengan pilihan saus rumahan)"
+  reviewSummary: "Ruang makan yang semarak dan terang oleh cahaya matahari, menyajikan masakan Malaysia modern yang dikonsep oleh koki selebriti Chef Wan, dengan cita rasa tropis yang berani dan porsi besar untuk berbagi; cocok untuk rombongan."
+  website: "https://dewan.space"
+  facebook: "https://www.facebook.com/dewan1958bychefwan"
+  instagram: "https://www.instagram.com/dewan1958bychefwan"
+  phone: "+60 3-2935 9375"
 sources:
   - title: "De. Wan 1958"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/de-wan-1958"

@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ko"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "월·화·목·금 17:00-23:00; 토·일 12:00-15:00 & 18:00-23:00; 수 휴무"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "찐빵에 넣은 숙성 오리 가슴살(대표 메뉴); 육두구-하루마니스, 호르 카 사이 등 현지 풍미의 수제 gelato"
+  reviewSummary: "조지타운에 자리한 캐주얼하고 편안한 다이닝 공간으로, 오픈 키친과 긴 공용 카운터, 큰 창문을 갖추고 있다. 간결한 모던 메뉴는 현지 식재료를 바탕으로 페라나칸과 말레이시아 요리를 잇고, 찐빵에 넣은 숙성 오리 가슴살을 대표 메뉴로, 현지 풍미의 수제 gelato를 곁들인다."
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

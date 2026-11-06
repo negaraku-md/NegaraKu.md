@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: Bib Gourmand MICHELIN de cocina de Kerala en KL"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "Un cuenco de curry de pescado picante al estilo de Kerala"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra es un restaurante indio con Bib Gourmand de la MICHELIN Guide en The Starhill, en Bukit Bintang, Kuala Lumpur. Establecimiento hermano de Kayra, sigue una filosofía del mar al plato y reinventa los platos de Kerala con pescado y marisco de origen local; su plato estrella es un curry de pescado de Kerala de receta familiar con mango verde y yogur."
@@ -30,7 +35,7 @@ faq:
     a: "Coast es el establecimiento hermano de Kayra. La MICHELIN Guide dice que se mantiene fiel a la misma filosofía del mar al plato, con una carta centrada en la cocina de Kerala y el pescado y marisco de origen local."
 
 lang: "es"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Lun 12:00-22:00; Mar 12:30-22:00; Mié-Dom 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Curry de pescado de Kerala (Kerala fish curry)"
+  reviewSummary: "Restaurante hermano de Kayra y galardonado con un Bib Gourmand, Coast by Kayra reinventa la cocina costera tradicional de Kerala de forma refinada y moderna en torno a una filosofía del mar al plato (sea-to-plate), con una decoración de temática oceánica en tonos turquesa; el marisco y los productos se obtienen localmente para apoyar a pequeñas granjas y pescadores. El curry de pescado de Kerala de la casa, elaborado con una receta familiar y equilibrado con mango verde y yogur, es lo más destacado, y se disfruta mejor rebañado con naan."
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

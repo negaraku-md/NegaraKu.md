@@ -45,6 +45,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "7 Jalan Murthy, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Budget ($)"
+  hours: "Isn-Sel 09:00-15:00; Rab tutup; Kha-Ahd 09:00-15:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Yam rice dengan sup khinzir (pilih dengan atau tanpa jeroan khinzir); bebola khinzir berlada"
+  reviewSummary: "Pakar masakan Teochew yang mengikut resipi keluarga pemilik sejak 2006. Hidangan istimewanya ialah yam rice yang dimasak sempurna dengan aroma udang kering yang kuat, dipadankan dengan sup khinzir manis-masin yang diserikan sayur sawi jeruk yang masam segar; jeroan dan bebola khinzir berlada melengkapkan semangkuk ini."
+  phone: "+60 12-564 6104"
 sources:
   - title: "BM Yam Rice"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/bm-yam-rice"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian：MICHELIN Bib Gourmand の炭火 claypot rice"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "炭火のclaypot riceに腊味と青菜をのせたもの"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "月、水～日 11:30-15:30および17:30-21:00；火曜定休"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "炭火で炊くclaypot rice。腊味入り（豚肉とレバーのソーセージ、lup cheong）のほか、鶏もも肉や塩漬け魚のトッピングも選べ、湯葉巻きやスープなどのサイドもおすすめ"
+  reviewSummary: "プドゥ（Pudu）で長年愛される地元の名店。1986年から炭火でclaypot riceを炊き、2種類の米と丁寧な火加減で安定した仕上がりを実現；MICHELIN ビブグルマンに選出。"
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "正確な現行 MICHELIN 版——最新は MICHELIN Guide Kuala Lumpur & Penang 2026（2025年11月11日発表）です。Bib Gourmand の選出は毎年見直されるため、依拠する前に現行版で Foong Lian の状態を再確認してください。"
   - "Foong Lian が初めて Bib Gourmand を獲得した年——地元メディア（Malay Mail）は2025年版の新規入選店の一つとして挙げていますが、MICHELIN 公式の選出で確認してください。"

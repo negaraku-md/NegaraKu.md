@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "Congkak: Cita Rasa Masakan Rumahan Malaysia Bertaraf Bib Gourmand di Bukit Bintang"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — piring nasi berbagi khas Melayu dengan ayam goreng, serunding, telur, dan sayuran di atas daun pisang"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "Terletak di 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, di jalan permukiman dekat pusat kota. MICHELIN Guide menempatkannya pada kisaran harga $, berarti pengeluaran sedang, dan menerima kartu kredit."
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Sen-Kam 12:00-22:00; Jum-Sab 12:00-23:00; Min 12:00-22:00 (MICHELIN); beberapa sumber menunjukkan 11:00-22:00 setiap hari - konfirmasikan dengan restoran"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng (piring berbagi andalan, porsi sesuai jumlah orang); juga rendang tok dan satay ayam"
+  reviewSummary: "Restoran Melayu MICHELIN Bib Gourmand yang dinamai dari permainan papan tradisional Malaysia, terletak di jalan permukiman Jalan Beremi dekat pusat kota. MICHELIN menyebut restoran ini menampilkan kebanggaan dan identitas nasional lewat hidangan yang dianggap klasik oleh warga lokal, dengan piring nasi ambeng sebagai pesanan terpopuler - perpaduan beragam tekstur serta rasa pedas, manis, dan gurih yang disajikan dengan sambal."
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

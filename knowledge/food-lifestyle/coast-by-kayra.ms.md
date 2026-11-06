@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: Santapan Kerala Bib Gourmand MICHELIN di KL"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "Semangkuk kari ikan pedas gaya Kerala"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra ialah sebuah restoran India Bib Gourmand MICHELIN Guide di The Starhill di Bukit Bintang, Kuala Lumpur. Restoran adik-beradik kepada Kayra, ia mengamalkan falsafah 'laut ke pinggan', mengolah semula hidangan Kerala dengan makanan laut yang diperoleh secara tempatan — hidangan istimewanya kari ikan Kerala resipi keluarga dengan mangga muda dan yogurt."
@@ -30,7 +35,7 @@ faq:
     a: "Coast ialah restoran adik-beradik kepada Kayra. MICHELIN Guide menyatakan bahawa ia kekal setia pada falsafah 'laut ke pinggan' yang sama, dengan menu yang menumpukan masakan Kerala dan makanan laut yang diperoleh secara tempatan."
 
 lang: "ms"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Isn 12:00-22:00; Sel 12:30-22:00; Rab-Ahd 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Kari ikan Kerala"
+  reviewSummary: "Restoran adik-beradik Bib Gourmand kepada Kayra, Coast by Kayra mentafsir semula masakan pesisir Kerala tradisional dengan cara yang halus dan moden berpaksikan etos laut-ke-pinggan, dengan hiasan bertemakan lautan warna pirus; makanan laut dan hasil tani diperoleh secara tempatan untuk menyokong ladang kecil dan nelayan. Kari ikan Kerala resipi keluarga dapur ini, diseimbangkan dengan mangga mentah dan yogurt, menjadi tarikan utama, paling sedap disudu dengan naan."
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

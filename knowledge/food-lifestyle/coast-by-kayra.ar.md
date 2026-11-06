@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: مطبخ كيرالا حائز على MICHELIN Bib Gourmand في KL"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "وعاء من كاري السمك الحار على طريقة كيرالا"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra مطعم هندي حائز على MICHELIN Guide Bib Gourmand في The Starhill بـ Bukit Bintang، كوالالمبور. وهو المطعم الشقيق لـ Kayra، يتّبع فلسفة «من البحر إلى الطبق»، ويعيد تصوّر أطباق كيرالا بمأكولات بحرية محلّية المصدر — وطبقه المميّز كاري سمك كيرالي بوصفة عائلية مع المانجو الأخضر والزبادي."
@@ -30,7 +35,7 @@ faq:
     a: "Coast هو المطعم الشقيق لـ Kayra. ويقول MICHELIN Guide إنه يبقى وفيًّا لفلسفة «من البحر إلى الطبق» نفسها، بقائمة تركّز على طبخ كيرالا والمأكولات البحرية المحلّية المصدر."
 
 lang: "ar"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "الاثنين 12:00-22:00؛ الثلاثاء 12:30-22:00؛ الأربعاء-الأحد 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "كاري سمك كيرالا (Kerala fish curry)"
+  reviewSummary: "مطعم Coast by Kayra هو المطعم الشقيق لمطعم Kayra وحائز على جائزة Bib Gourmand، ويعيد ابتكار المطبخ الساحلي التقليدي في كيرالا بأسلوب راقٍ وعصري قائم على فلسفة \"من البحر إلى الطبق\"، بديكور بحري الطابع بلون الفيروز؛ وتُجلب المأكولات البحرية والمنتجات محليًا لدعم المزارع الصغيرة والصيادين. ويبرز طبق كاري سمك كيرالا بوصفة عائلية من المطبخ، المتوازن بالمانجو الأخضر والزبادي، ويُستحسن تناوله مع خبز النان (naan)."
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee: जॉर्ज टाउन की एक बिब गुरमों करी नूडल दुकान"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "नूडल्स, कॉकल्स (सीप), टोफू पफ्स और मिर्च के साथ पीनांग curry mee का एक कटोरा"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "सोम-बुध, शुक्र-रवि 12:00-22:00; गुरुवार बंद"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "नारियल के दूध वाले सफेद करी बेस में curry mee, ऊपर पोर्क ब्लड कर्ड (सूअर के खून की जमी हुई टिक्की) और रोस्टेड पोर्क; घर की बनी मिर्च की चटनी डालें"
+  reviewSummary: "एक कोपितियम के भीतर बसा Bib Gourmand स्ट्रीट-फूड स्टॉल, जो नारियल के दूध से बने और रोज़ ताज़ा तैयार होने वाले नमकीन-मीठे सफेद करी बेस में curry mee परोसता है; MICHELIN निरीक्षक रोस्टेड पोर्क और घर की बनी मिर्च की चटनी को खास तौर पर सराहते हैं."
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

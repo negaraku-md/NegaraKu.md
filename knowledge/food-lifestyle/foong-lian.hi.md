@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: मिशेलिन Bib Gourmand वाला कोयला claypot rice"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "कोयले पर पकी claypot rice, ऊपर प्रिज़र्व्ड मीट और हरी सब्ज़ियाँ"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "सोम, बुध-रवि 11:30-15:30 और 17:30-21:00; मंगल बंद"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "कोयले पर पकी claypot rice, प्रिज़र्व्ड मीट विकल्प (पोर्क और लिवर सॉसेज, lup cheong) के साथ; चिकन लेग या नमकीन मछली ऐड-ऑन, साथ ही टोफू स्किन रोल और सूप जैसे साइड"
+  reviewSummary: "पुडू (Pudu) में लंबे समय से लोकप्रिय स्थानीय पसंदीदा जगह, जो 1986 से कोयले पर claypot rice पकाती आ रही है; दो तरह के चावल और सावधान आँच नियंत्रण से हर हांडी एक-सी बनती है; MICHELIN Bib Gourmand से सम्मानित।"
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "सटीक वर्तमान MICHELIN संस्करण — नवीनतम MICHELIN Guide Kuala Lumpur & Penang 2026 है (11 November 2025 को घोषित); Bib Gourmand चयन हर वर्ष संशोधित होता है, इसलिए इस पर निर्भर होने से पहले वर्तमान संस्करण के विरुद्ध Foong Lian की स्थिति दोबारा पुष्टि करें।"
   - "वह वर्ष जब Foong Lian को पहली बार Bib Gourmand मिला — स्थानीय मीडिया (Malay Mail) इसे 2025 संस्करण की नई प्रविष्टियों में सूचीबद्ध करता है; आधिकारिक MICHELIN चयन के विरुद्ध पुष्टि करें।"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: Claypot Rice Arang dengan Bib Gourmand Michelin"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "Claypot rice arang dengan taburan daging awetan dan sayuran hijau"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "Sen, Rab-Min 11:30-15:30 dan 17:30-21:00; Sel tutup"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Claypot rice arang dengan pilihan daging awetan (sosis babi dan hati, lup cheong); tambahan paha ayam atau ikan asin, serta lauk pendamping seperti kembang tahu gulung dan sup"
+  reviewSummary: "Favorit lokal yang sudah lama bertahan di Pudu, memasak claypot rice di atas arang sejak 1986, memakai dua jenis beras dan pengaturan panas yang cermat agar hasilnya konsisten; meraih MICHELIN Bib Gourmand."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "Edisi MICHELIN terkini yang tepat — yang terbaru adalah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan 11 November 2025); seleksi Bib Gourmand ditinjau setiap tahun, jadi konfirmasikan kembali status Foong Lian terhadap edisi terkini sebelum mengandalkannya."
   - "Tahun Foong Lian pertama kali meraih Bib Gourmand — media lokal (Malay Mail) mencantumkannya di antara entri baru untuk edisi 2025; konfirmasikan dengan seleksi resmi MICHELIN."

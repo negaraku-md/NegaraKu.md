@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: MICHELIN Bib Gourmand பெற்ற கரி அடுப்பு claypot rice"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "கரி அடுப்பு claypot rice, மேலே பதப்படுத்திய இறைச்சியும் கீரையும்"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "திங்., புத.-ஞாயி. 11:30-15:30 மற்றும் 17:30-21:00; செவ். மூடப்பட்டிருக்கும்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "கரி அடுப்பு claypot rice, பதப்படுத்திய இறைச்சி வகை (பன்றி இறைச்சி மற்றும் ஈரல் தொத்திறைச்சி, lup cheong); கூடுதலாக கோழிக் காலோ உப்பு மீனோ, மேலும் டோஃபு தோல் ரோல், சூப்புகள் போன்ற பக்க உணவுகள்"
+  reviewSummary: "புதுவில் (Pudu) நீண்டகாலமாக பிரபலமான உள்ளூர் உணவகம், 1986 முதல் கரி அடுப்பில் claypot rice சமைத்து வருகிறது; இரண்டு வகை அரிசி மற்றும் கவனமான வெப்பக் கட்டுப்பாட்டால் சீரான பானைகள்; MICHELIN Bib Gourmand விருது பெற்றது."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "சரியான தற்போதைய MICHELIN பதிப்பு — சமீபத்தியது MICHELIN Guide Kuala Lumpur & Penang 2026 (2025 நவம்பர் 11 அன்று அறிவிக்கப்பட்டது); Bib Gourmand தேர்வு ஆண்டுதோறும் திருத்தப்படுகிறது, எனவே நம்பியிருப்பதற்கு முன் தற்போதைய பதிப்பை வைத்து Foong Lian-இன் நிலையை மீண்டும் உறுதிப்படுத்துங்கள்."
   - "Foong Lian முதன்முதலில் Bib Gourmand பெற்ற ஆண்டு — உள்ளூர் ஊடகம் (Malay Mail) இதை 2025 பதிப்பின் புதிய நுழைவுகளில் ஒன்றாகப் பட்டியலிடுகிறது; அதிகாரப்பூர்வ MICHELIN தேர்வை வைத்து உறுதிப்படுத்துங்கள்."

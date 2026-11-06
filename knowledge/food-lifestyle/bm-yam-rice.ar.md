@@ -45,6 +45,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "7 Jalan Murthy, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Budget ($)"
+  hours: "الإثنين-الثلاثاء 09:00-15:00; الأربعاء مغلق; الخميس-الأحد 09:00-15:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "yam rice مع حساء لحم الخنزير (اختر مع أو بدون أحشاء الخنزير)؛ كرات لحم الخنزير بالفلفل"
+  reviewSummary: "مطعم متخصص في مطبخ Teochew يتبع وصفة عائلة المالك منذ عام 2006. طبقه المميز هو yam rice المطهو جيدًا بنكهة الروبيان المجفف الواضحة، مع مرق لحم خنزير حلو ومالح يضفي عليه الخردل المخلل الحامض لمسة منعشة؛ وتكمل الأحشاء وكرات لحم الخنزير بالفلفل هذا الطبق."
+  phone: "+60 12-564 6104"
 sources:
   - title: "BM Yam Rice"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/bm-yam-rice"

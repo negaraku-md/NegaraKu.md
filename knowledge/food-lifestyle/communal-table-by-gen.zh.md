@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "zh"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "周一、周二、周四、周五 17:00-23:00；周六至周日 12:00-15:00 & 18:00-23:00；周三休息"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "蒸包夹熟成鸭胸（招牌菜）；自制本地风味gelato，如肉豆蔻harumanis芒果与hor ka sai"
+  reviewSummary: "乔治市一间休闲轻松的餐厅，设有开放式厨房、长长的共用餐台和大落地窗。精简的现代菜单取材本地食材，融合娘惹与马来西亚烹饪，招牌是蒸包夹熟成鸭胸，并搭配本地风味的自制gelato。"
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

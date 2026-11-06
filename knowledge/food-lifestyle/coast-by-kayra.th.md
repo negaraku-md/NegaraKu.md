@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: อาหารเกรละ MICHELIN Bib Gourmand ใน KL"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "แกงปลาสไตล์เกรละรสเผ็ดหนึ่งชาม"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra เป็นร้านอาหารอินเดียระดับ MICHELIN Guide Bib Gourmand ที่ The Starhill ใน Bukit Bintang กัวลาลัมเปอร์ เป็นร้านในเครือของ Kayra ที่ยึดแนวคิด 'จากทะเลสู่จาน' ตีความอาหารเกรละใหม่ด้วยอาหารทะเลที่จัดหาในท้องถิ่น — เมนูเด่นคือแกงปลาเกรละสูตรครอบครัวที่มีมะม่วงดิบและโยเกิร์ต"
@@ -30,7 +35,7 @@ faq:
     a: "Coast เป็นร้านในเครือของ Kayra MICHELIN Guide ระบุว่ายังคงยึดมั่นในแนวคิด 'จากทะเลสู่จาน' เดียวกัน โดยมีเมนูที่เน้นอาหารเกรละและอาหารทะเลที่จัดหาในท้องถิ่น"
 
 lang: "th"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "จ. 12:00-22:00; อ. 12:30-22:00; พ.-อา. 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "แกงปลาเกรละ (Kerala fish curry)"
+  reviewSummary: "Coast by Kayra เป็นร้านในเครือเดียวกับ Kayra ที่ได้รับรางวัล Bib Gourmand ตีความอาหารชายฝั่งเกรละดั้งเดิมขึ้นใหม่ในสไตล์ที่ประณีตและทันสมัย ยึดแนวคิดจากทะเลสู่จาน (sea-to-plate) ตกแต่งด้วยธีมทะเลโทนสีเทอร์ควอยซ์ อาหารทะเลและวัตถุดิบล้วนจัดหาจากท้องถิ่นเพื่อสนับสนุนฟาร์มขนาดเล็กและชาวประมง จานเด่นคือแกงปลาเกรละสูตรประจำครอบครัว ปรับสมดุลด้วยมะม่วงดิบและโยเกิร์ต อร่อยที่สุดเมื่อตักซดคู่กับแป้งนาน (naan)"
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

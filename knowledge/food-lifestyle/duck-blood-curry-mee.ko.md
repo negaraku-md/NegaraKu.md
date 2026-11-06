@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee: 조지타운의 빕 구르망 커리 국수 가게"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "국수, 꼬막, 유부, 고추가 들어간 페낭 curry mee 한 그릇"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "월~수, 금~일 12:00-22:00; 목요일 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "코코넛밀크 화이트 커리 베이스의 curry mee에 돼지 선지와 구운 돼지고기를 올리고 수제 칠리 소스를 더해서"
+  reviewSummary: "코피티암 안에 자리한 빕 구르망 노점 음식점으로, 코코넛밀크로 만들어 매일 신선하게 준비하는 짭짤하고 달콤한 화이트 커리 베이스의 curry mee를 낸다; MICHELIN 심사원은 구운 돼지고기와 수제 칠리 소스를 특별히 꼽는다."
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

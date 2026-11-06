@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: Charcoal Claypot Rice with a Michelin Bib Gourmand"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "Charcoal claypot rice topped with cured meat and greens"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -46,6 +51,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "Mon, Wed-Sun 11:30-15:30 and 17:30-21:00; Tue closed"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Charcoal claypot rice with the preserved-meat option (pork and liver sausage); add-ons include chicken leg or salted fish, plus sides such as tofu skin roll and soups"
+  reviewSummary: "A long-running local favourite in Pudu that has cooked claypot rice over charcoal since 1986, using two types of rice and careful heat control for consistent pots; awarded a MICHELIN Bib Gourmand."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "The exact current MICHELIN edition — the latest is the MICHELIN Guide Kuala Lumpur & Penang 2026 (announced 11 November 2025); the Bib Gourmand selection is revised annually, so re-confirm Foong Lian's status against the current edition before relying on it."
   - "The year Foong Lian first earned the Bib Gourmand — local media (Malay Mail) lists it among the new entries for the 2025 edition; confirm against the official MICHELIN selection."

@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "id"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "Sen, Sel, Kam, Jum 17:00-23:00; Sab-Min 12:00-15:00 & 18:00-23:00; Rab tutup"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Dada bebek aged dalam bun kukus (menu andalan); gelato buatan sendiri dengan rasa lokal seperti pala-harumanis dan hor ka sai"
+  reviewSummary: "Ruang makan santai dan rileks di George Town dengan dapur terbuka, meja bar bersama yang panjang, dan jendela besar. Menu modern yang ringkas dibangun dari produk lokal dan menjembatani masakan Peranakan dan Malaysia, dengan dada bebek aged dalam bun kukus sebagai menu andalan serta gelato buatan sendiri beraroma lokal."
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

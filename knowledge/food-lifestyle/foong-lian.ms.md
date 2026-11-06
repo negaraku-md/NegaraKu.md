@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: Nasi Claypot Arang dengan Bib Gourmand Michelin"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "Nasi claypot arang bertabur daging awet dan sayuran hijau"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "Isn, Rab-Ahd 11:30-15:30 dan 17:30-21:00; Sel tutup"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Nasi claypot arang dengan pilihan daging awet (sosej khinzir dan hati, lup cheong); tambahan termasuk paha ayam atau ikan masin, serta hidangan sampingan seperti popia kulit tauhu dan sup"
+  reviewSummary: "Kegemaran tempatan yang lama bertapak di Pudu, memasak nasi claypot atas arang sejak 1986, menggunakan dua jenis beras dan kawalan haba yang teliti untuk periuk yang konsisten; dianugerahkan MICHELIN Bib Gourmand."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "Edisi MICHELIN semasa yang tepat — yang terkini ialah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan pada 11 November 2025); pilihan Bib Gourmand disemak setiap tahun, jadi sahkan semula status Foong Lian berdasarkan edisi semasa sebelum bergantung padanya."
   - "Tahun Foong Lian mula-mula memperoleh Bib Gourmand — media tempatan (Malay Mail) menyenaraikannya antara kemasukan baharu bagi edisi 2025; sahkan berdasarkan pilihan rasmi MICHELIN."

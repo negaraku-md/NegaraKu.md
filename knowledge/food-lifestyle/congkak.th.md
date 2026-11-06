@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "Congkak: รสชาติอาหารบ้านมาเลเซียระดับ Bib Gourmand ในบูกิตบินตัง"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — จานข้าวแบบแบ่งปันของชาวมลายู มีไก่ทอด serunding ไข่ และผัก วางบนใบตอง"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "ตั้งอยู่ที่ 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200 บนถนนย่านที่อยู่อาศัยใกล้ใจกลางเมือง MICHELIN Guide จัดอยู่ในช่วงราคา $ หมายถึงการใช้จ่ายปานกลาง และรับบัตรเครดิต"
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "จ.-พฤ. 12:00-22:00; ศ.-ส. 12:00-23:00; อา. 12:00-22:00 (MICHELIN); บางแหล่งระบุ 11:00-22:00 ทุกวัน - โปรดยืนยันกับร้าน"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng (จานแบ่งปันซิกเนเจอร์ ปริมาณตามจำนวนคน); และ rendang tok กับ satay ayam"
+  reviewSummary: "ร้านอาหารมลายูระดับ MICHELIN Bib Gourmand ที่ตั้งชื่อตามเกมกระดานดั้งเดิมของมาเลเซีย ซ่อนตัวอยู่บนถนน Jalan Beremi ย่านที่พักอาศัยใกล้ใจกลางเมือง MICHELIN ระบุว่าร้านถ่ายทอดความภาคภูมิใจและอัตลักษณ์ของชาติผ่านเมนูที่คนท้องถิ่นถือเป็นคลาสสิก โดยจานยอดนิยมที่สุดคือ nasi ambeng ที่มีเนื้อสัมผัสหลากหลายและรสเผ็ด หวาน เค็ม เสิร์ฟพร้อม sambal"
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

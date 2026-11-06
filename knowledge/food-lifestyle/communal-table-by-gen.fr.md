@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "fr"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "Lun, Mar, Jeu, Ven 17:00-23:00; Sam-Dim 12:00-15:00 & 18:00-23:00; Mer fermé"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Magret de canard maturé dans un pain vapeur (plat signature); gelato maison aux saveurs locales comme noix de muscade-harumanis et hor ka sai"
+  reviewSummary: "Une salle à manger décontractée et conviviale à George Town, avec cuisine ouverte, un long comptoir commun et de grandes baies vitrées. Le menu moderne et resserré s'appuie sur les produits locaux et fait le lien entre les cuisines peranakan et malaisienne, avec le magret de canard maturé dans un pain vapeur comme plat signature et un gelato maison aux saveurs locales."
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

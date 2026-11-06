@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: claypot rice على الفحم حائز على Michelin Bib Gourmand"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "أرز الكلاي بوت (claypot rice) على الفحم مغطى باللحوم المقددة والخضار"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "الإثنين، الأربعاء-الأحد 11:30-15:30 و17:30-21:00؛ الثلاثاء مغلق"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "أرز الكلاي بوت (claypot rice) على الفحم مع خيار اللحوم المقددة (سجق لحم الخنزير والكبد، lup cheong)؛ تُضاف ساق الدجاج أو السمك المملح، إلى جانب أطباق جانبية مثل لفائف قشرة التوفو والشوربات"
+  reviewSummary: "وجهة محلية عريقة ومحبّبة في منطقة بودو (Pudu)، تطهو claypot rice على الفحم منذ عام 1986، مستخدمةً نوعين من الأرز وتحكمًا دقيقًا في الحرارة للحصول على نتائج متسقة؛ حائزة على MICHELIN Bib Gourmand."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "الإصدار الحالي الدقيق من MICHELIN — الأحدث هو MICHELIN Guide Kuala Lumpur & Penang 2026 (أُعلن في 11 November 2025)؛ تُراجَع اختيارات Bib Gourmand سنويًا، لذا أعد تأكيد حالة Foong Lian مقابل الإصدار الحالي قبل الاعتماد عليها."
   - "السنة التي نال فيها Foong Lian أول Bib Gourmand — تُدرجه وسائل الإعلام المحلية (Malay Mail) ضمن الداخلين الجدد لإصدار 2025؛ تأكّد من ذلك عبر الاختيار الرسمي من MICHELIN."

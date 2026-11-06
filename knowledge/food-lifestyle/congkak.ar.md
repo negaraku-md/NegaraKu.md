@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "‏Congkak: مذاق الطبخ المنزلي الماليزي بتصنيف Bib Gourmand في بوكيت بينتانغ"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — طبق أرز ماليزي للمشاركة مع دجاج مقلي و serunding وبيض وخضار على ورق الموز"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "يقع في 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200، في شارع سكني قرب وسط المدينة. يضعه MICHELIN Guide ضمن فئة السعر $، أي إنفاق متوسط، ويقبل بطاقات الائتمان."
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "الإثنين-الخميس 12:00-22:00؛ الجمعة-السبت 12:00-23:00؛ الأحد 12:00-22:00 (MICHELIN)؛ تشير بعض المصادر إلى 11:00-22:00 يوميًا - يُرجى التأكيد مع المطعم"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng (طبق المشاركة المميّز، بحجم يناسب عدد الأشخاص)؛ وكذلك rendang tok و satay ayam"
+  reviewSummary: "مطعم ماليزي حائز على تصنيف MICHELIN Bib Gourmand، سُمّي تيمنًا بلعبة الطاولة الماليزية التقليدية، ويقع في شارع Jalan Beremi السكني قرب وسط المدينة. يقول دليل MICHELIN إنه يجسّد الفخر الوطني والهوية عبر أطباق يعدّها السكان المحليون كلاسيكية، وطبق nasi ambeng هو الأكثر طلبًا - مزيج من القوام المتنوّع ونكهات حارّة وحلوة ومالحة يُقدَّم مع الـ sambal."
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

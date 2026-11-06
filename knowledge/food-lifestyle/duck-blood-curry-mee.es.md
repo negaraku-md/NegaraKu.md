@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee: una casa de curry mee Bib Gourmand en George Town"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "Un tazón de curry mee de Penang con fideos, berberechos, tofu frito y chile"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "Lun-Mié, Vie-Dom 12:00-22:00; cerrado el jueves"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Curry mee en una base de curry blanco con leche de coco, coronado con cuajada de sangre de cerdo y cerdo asado; añade la salsa de chile casera"
+  reviewSummary: "Un puesto de comida callejera Bib Gourmand escondido dentro de un kopitiam, que sirve curry mee en una base de curry blanco agridulce elaborada con leche de coco y preparada fresca cada día; los inspectores de MICHELIN destacan el cerdo asado y la salsa de chile casera."
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

@@ -43,6 +43,20 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "L2-03, TSLAW Tower, 39 Jalan Kamuning, Imbi, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Chim%20by%20Chef%20Noom%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Chim%20by%20Chef%20Noom%2C%20Kuala%20Lumpur"
+  priceRange: "$$$$ (MICHELIN); around USD 150 per person per third-party listing (unofficial)"
+  hours: "Tue-Sun 5:30 PM-11 PM; closed Mon"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Seasonal multicourse tasting menu; signature The Lost Recipe, a 200-year-old variation of tom yum"
+  reviewSummary: "An upmarket Thai contemporary restaurant tucked inside an office tower in central Kuala Lumpur, awarded one MICHELIN Star. It offers two multicourse tasting menus that change each season, with tradition-rooted Thai dishes that pair Japanese ingredients with local spices, fruit and vegetables. Reservations are made directly with the restaurant."
+  website: "https://chimdining.com"
+  facebook: "https://www.facebook.com/chimbychefnoom"
+  instagram: "https://www.instagram.com/chimbychefnoom/"
+  phone: "+60 13-375 5181"
 sources:
   - title: "Chim by Chef Noom"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/chim-by-chef-noom"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra：KL の MICHELIN Bib Gourmand ケララ料理"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "スパイシーなケララ風フィッシュカレーのボウル"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra は、クアラルンプールの Bukit Bintang、The Starhill にある MICHELIN Guide の Bib Gourmand に選ばれたインド料理店。Kayra の姉妹店で、「海から皿へ」の理念に従い、地元で調達した魚介でケララ料理を再構築する——看板は、青いマンゴーとヨーグルトを効かせた家族のレシピのケララ風フィッシュカレー。"
@@ -30,7 +35,7 @@ faq:
     a: "Coast は Kayra の姉妹店です。MICHELIN Guide によれば、同じ「海から皿へ」の理念に忠実で、メニューはケララ料理と地元調達の魚介を中心にしています。"
 
 lang: "ja"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "月 12:00-22:00；火 12:30-22:00；水-日 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "ケララ風フィッシュカレー（Kerala fish curry）"
+  reviewSummary: "Coast by Kayra は Kayra の姉妹店で、ビブグルマン（Bib Gourmand）を獲得。海から皿へ（sea-to-plate）の理念のもと、伝統的なケララの沿岸料理を洗練されたモダンな手法で再構築し、海をテーマにしたターコイズの内装が特徴です。小規模農家や漁師を支えるため、魚介類や食材は地元から調達しています。家庭のレシピによるケララ風フィッシュカレーは、青マンゴーとヨーグルトでバランスをとった看板料理で、ナン（naan）でソースをすくって味わうのが一番です。"
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

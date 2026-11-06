@@ -45,6 +45,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "7 Jalan Murthy, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Budget ($)"
+  hours: "திங்.-செவ். 09:00-15:00; புதன் மூடல்; வியா.-ஞாயி. 09:00-15:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "yam rice உடன் பன்றி இறைச்சி சூப் (பன்றி குடல் உடன் அல்லது இல்லாமல் தேர்வு செய்யலாம்); மிளகு பன்றி இறைச்சி உருண்டைகள்"
+  reviewSummary: "2006 முதல் உரிமையாளரின் குடும்ப செய்முறையைப் பின்பற்றும் Teochew சிறப்பு உணவகம். சிறப்பு உணவு, நன்கு சமைக்கப்பட்ட, காய்ந்த இறால் வாசனை மிகுந்த yam rice; இனிப்பு-உப்பு கலந்த பன்றி இறைச்சி சூப்புடன், புளிப்பான ஊறுகாய் கடுகுக் கீரை சுவையேற்றுகிறது; குடல் மற்றும் மிளகு பன்றி இறைச்சி உருண்டைகள் இந்த கிண்ணத்தை முழுமையாக்குகின்றன."
+  phone: "+60 12-564 6104"
 sources:
   - title: "BM Yam Rice"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/bm-yam-rice"

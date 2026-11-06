@@ -45,6 +45,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "7 Jalan Murthy, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Budget ($)"
+  hours: "सोम-मंगल 09:00-15:00; बुध बंद; गुरु-रवि 09:00-15:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "yam rice के साथ पोर्क सूप (पोर्क ऑफल के साथ या बिना, अपनी पसंद); काली मिर्च वाले पोर्क बॉल्स"
+  reviewSummary: "2006 से मालिक की पारिवारिक रेसिपी पर चलने वाला एक Teochew विशेषज्ञ। खास व्यंजन है अच्छी तरह पका yam rice जिसमें सूखी झींगा की तेज़ महक है, जिसे मीठे-नमकीन पोर्क शोरबे के साथ परोसा जाता है और खट्टे अचारी सरसों के साग से इसका स्वाद निखरता है; ऑफल और काली मिर्च वाले पोर्क बॉल्स इस कटोरे को पूरा करते हैं।"
+  phone: "+60 12-564 6104"
 sources:
   - title: "BM Yam Rice"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/bm-yam-rice"

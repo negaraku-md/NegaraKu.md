@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: Claypot rice nấu than với Bib Gourmand của Michelin"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "Claypot rice nấu than phủ thịt ướp và rau xanh"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "T2, T4-CN 11:30-15:30 và 17:30-21:00; T3 nghỉ"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Claypot rice nấu than với tùy chọn thịt ướp (lạp xưởng heo và gan, lup cheong); thêm đùi gà hoặc cá mặn, cùng các món phụ như cuốn tàu hũ ky và súp"
+  reviewSummary: "Quán quen lâu đời được người dân Pudu yêu thích, nấu claypot rice trên bếp than từ năm 1986, dùng hai loại gạo và kiểm soát lửa kỹ lưỡng để niêu cơm đồng đều; được trao MICHELIN Bib Gourmand."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "Ấn bản MICHELIN hiện hành chính xác — ấn bản mới nhất là MICHELIN Guide Kuala Lumpur & Penang 2026 (công bố ngày 11 November 2025); tuyển chọn Bib Gourmand được rà soát hằng năm, vì vậy hãy xác nhận lại tình trạng của Foong Lian với ấn bản hiện hành trước khi dựa vào nó."
   - "Năm Foong Lian lần đầu đạt Bib Gourmand — truyền thông địa phương (Malay Mail) liệt kê nó trong số các gương mặt mới của ấn bản 2025; hãy xác nhận với tuyển chọn chính thức của MICHELIN."

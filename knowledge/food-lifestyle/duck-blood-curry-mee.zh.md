@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee：乔治市一家咖喱面必比登小店"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "一碗槟城 curry mee，配有面条、鲜蚶、豆卜和辣椒"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "周一至周三、周五至周日 12:00-22:00；周四休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "椰浆白咖喱汤底的 curry mee，加上猪血糕和烧肉；再加自制辣椒酱"
+  reviewSummary: "藏身于咖啡店内的必比登推介街头美食摊，供应以椰浆熬制、每日新鲜准备、咸香带甜的白咖喱汤底 curry mee；MICHELIN 评审特别推崇其烧肉和自制辣椒酱。"
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

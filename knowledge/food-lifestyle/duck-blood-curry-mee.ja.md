@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee：ジョージタウンのビブグルマン・カレー麺店"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "麺、ハマグリ（コックル）、厚揚げ、唐辛子が入ったペナンの curry mee のボウル"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "月～水・金～日 12:00-22:00；木曜休み"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "ココナッツミルクの白いカレーベースの curry mee に、豚の血のゼリーとローストポークをのせ、自家製チリソースを加えて"
+  reviewSummary: "コピティアムの中にひっそりとあるビブグルマンの屋台で、ココナッツミルクで作り毎日新鮮に仕込む甘じょっぱい白いカレーベースの curry mee を提供；MICHELIN の調査員はローストポークと自家製チリソースを特に評価している。"
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

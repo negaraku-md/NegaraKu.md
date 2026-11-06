@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian : claypot rice au charbon avec un Bib Gourmand Michelin"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "Claypot rice au charbon garni de viande séchée et de légumes verts"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "lun, mer-dim 11:30-15:30 et 17:30-21:00; mar fermé"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Claypot rice au charbon avec l'option viande séchée (saucisse de porc et de foie, lup cheong); en supplément, cuisse de poulet ou poisson salé, ainsi que des accompagnements comme le rouleau de peau de tofu et des soupes"
+  reviewSummary: "Une adresse locale de longue date très prisée à Pudu, qui cuit le claypot rice au charbon depuis 1986, avec deux types de riz et une maîtrise minutieuse du feu pour des marmites régulières; distinguée par un MICHELIN Bib Gourmand."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "L'édition MICHELIN en vigueur exacte — la plus récente est le MICHELIN Guide Kuala Lumpur & Penang 2026 (annoncé le 11 November 2025) ; la sélection Bib Gourmand est révisée chaque année, aussi reconfirmez le statut de Foong Lian par rapport à l'édition en vigueur avant de vous y fier."
   - "L'année où Foong Lian a obtenu pour la première fois le Bib Gourmand — la presse locale (Malay Mail) le classe parmi les nouvelles entrées de l'édition 2025 ; confirmez auprès de la sélection officielle de MICHELIN."

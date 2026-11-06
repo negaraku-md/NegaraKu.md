@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "Congkak: Hương vị món ăn gia đình Malaysia đạt Bib Gourmand ở Bukit Bintang"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — đĩa cơm dùng chung kiểu Mã Lai với gà rán, serunding, trứng và rau trên lá chuối"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "Nhà hàng ở 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, trên một con phố dân cư gần trung tâm thành phố. MICHELIN Guide xếp nó vào khung giá $, nghĩa là chi tiêu vừa phải, và chấp nhận thẻ tín dụng."
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "T2-T5 12:00-22:00; T6-T7 12:00-23:00; CN 12:00-22:00 (MICHELIN); một số nguồn ghi 11:00-22:00 hằng ngày - vui lòng xác nhận với nhà hàng"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng (đĩa dùng chung đặc trưng, khẩu phần theo số người); ngoài ra có rendang tok và satay ayam"
+  reviewSummary: "Một nhà hàng Mã Lai đạt MICHELIN Bib Gourmand, lấy tên theo trò chơi cờ truyền thống của Malaysia, nằm trên con phố dân cư Jalan Beremi gần trung tâm thành phố. MICHELIN cho biết nhà hàng thể hiện niềm tự hào và bản sắc dân tộc qua những món mà người địa phương xem là kinh điển, với đĩa nasi ambeng là món được ưa chuộng nhất - đa dạng kết cấu cùng hương vị cay, ngọt, mặn, dùng kèm sambal."
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

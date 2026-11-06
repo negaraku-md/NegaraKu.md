@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ta"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "திங், செவ், வியா, வெள் 17:00-23:00; சனி-ஞாயி 12:00-15:00 & 18:00-23:00; புதன் மூடப்பட்டிருக்கும்"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "ஆவியில் வேகவைத்த பன்னில் பழக்கப்படுத்திய வாத்து மார்பகம் (சிறப்பு உணவு); ஜாதிக்காய்-ஹருமானிஸ், ஹோர் கா சாய் போன்ற உள்ளூர் சுவைகளில் வீட்டில் தயாரிக்கப்பட்ட gelato"
+  reviewSummary: "ஜார்ஜ் டவுனில் ஒரு சாதாரணமான, நிதானமான உணவு அறை — திறந்த சமையலறை, நீளமான பொது மேசை மற்றும் பெரிய ஜன்னல்களுடன். சிறிய நவீன மெனு உள்ளூர் பொருட்களில் அமைந்து பெரநாக்கன் மற்றும் மலேசிய சமையலை இணைக்கிறது; ஆவியில் வேகவைத்த பன்னில் பழக்கப்படுத்திய வாத்து மார்பகம் சிறப்பு உணவாகவும், உள்ளூர் சுவைகளில் வீட்டில் தயாரிக்கப்பட்ட gelato உடனும் வழங்கப்படுகிறது."
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

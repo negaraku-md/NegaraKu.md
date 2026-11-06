@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: claypot rice เตาถ่านที่ได้ Michelin Bib Gourmand"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "claypot rice เตาถ่าน โรยหน้าด้วยเนื้อหมักและผักใบเขียว"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "จ., พ.-อา. 11:30-15:30 และ 17:30-21:00; อ. ปิด"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "claypot rice เตาถ่าน แบบหมักเนื้อ (ไส้กรอกหมูและตับ, lup cheong) เพิ่มน่องไก่หรือปลาเค็มได้ พร้อมของทานเล่นอย่างฟองเต้าหู้ม้วนและซุป"
+  reviewSummary: "ร้านโปรดของคนท้องถิ่นในย่านปูดู (Pudu) ที่เปิดมายาวนาน หุง claypot rice บนเตาถ่านมาตั้งแต่ปี 1986 ใช้ข้าวสองชนิดและคุมไฟอย่างพิถีพิถันให้ได้หม้อที่เสมอต้นเสมอปลาย; ได้รับรางวัล MICHELIN Bib Gourmand"
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "ฉบับ MICHELIN ปัจจุบันที่แน่นอน — ฉบับล่าสุดคือ MICHELIN Guide Kuala Lumpur & Penang 2026 (ประกาศเมื่อ 11 November 2025) การคัดเลือก Bib Gourmand มีการปรับปรุงทุกปี จึงควรยืนยันสถานะของ Foong Lian กับฉบับปัจจุบันก่อนเชื่อถือ"
   - "ปีที่ Foong Lian ได้ Bib Gourmand ครั้งแรก — สื่อท้องถิ่น (Malay Mail) จัดให้อยู่ในรายชื่อผู้เข้าใหม่ของฉบับ 2025 ควรยืนยันกับการคัดเลือกอย่างเป็นทางการของ MICHELIN"

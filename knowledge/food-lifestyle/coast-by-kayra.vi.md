@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: MICHELIN Bib Gourmand ẩm thực Kerala ở KL"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "Một tô cà ri cá cay kiểu Kerala"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra là một nhà hàng Ấn Độ được MICHELIN Guide gắn Bib Gourmand tại The Starhill ở Bukit Bintang, Kuala Lumpur. Là cơ sở chị em của Kayra, quán theo triết lý 'từ biển đến đĩa', tái hình dung các món Kerala với hải sản nguồn địa phương — món đặc trưng là món cà ri cá Kerala theo công thức gia truyền với xoài xanh và sữa chua."
@@ -30,7 +35,7 @@ faq:
     a: "Coast là cơ sở chị em của Kayra. MICHELIN Guide cho biết quán trung thành với cùng triết lý 'từ biển đến đĩa', với thực đơn tập trung vào ẩm thực Kerala và hải sản nguồn địa phương."
 
 lang: "vi"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "T2 12:00-22:00; T3 12:30-22:00; T4-CN 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Cà ri cá Kerala (Kerala fish curry)"
+  reviewSummary: "Là nhà hàng cùng hệ thống với Kayra và đạt Bib Gourmand, Coast by Kayra tái hiện ẩm thực vùng biển Kerala truyền thống theo cách tinh tế, hiện đại dựa trên triết lý từ biển đến bàn ăn (sea-to-plate), với phong cách trang trí theo chủ đề đại dương màu ngọc lam; hải sản và nông sản đều được thu mua tại địa phương để hỗ trợ các trang trại nhỏ và ngư dân. Món cà ri cá Kerala theo công thức gia truyền của bếp, cân bằng vị với xoài xanh và sữa chua, là điểm nhấn, ngon nhất khi chấm cùng bánh naan."
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "Congkak: बुकित बिंतांग में मलेशियाई घरेलू खाने का Bib Gourmand स्वाद"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — केले के पत्ते पर फ्राइड चिकन, serunding, अंडा और सब्ज़ियों के साथ परोसी गई मलय साझा चावल की थाली"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "यह 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200 पर, शहर के केंद्र के पास एक रिहायशी गली में है। MICHELIN Guide इसे $ मूल्य-श्रेणी में रखता है, यानी मध्यम ख़र्च, और यह क्रेडिट कार्ड स्वीकार करता है।"
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "सोम-गुरु 12:00-22:00; शुक्र-शनि 12:00-23:00; रवि 12:00-22:00 (MICHELIN); कुछ सूचियों में रोज़ाना 11:00-22:00 दिखाया गया है - रेस्तरां से पुष्टि करें"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng (सिग्नेचर साझा थाली, समूह के आकार के अनुसार); साथ ही rendang tok और satay ayam"
+  reviewSummary: "मलेशिया के पारंपरिक बोर्ड गेम के नाम पर रखा गया एक MICHELIN Bib Gourmand मलय रेस्तरां, जो शहर के केंद्र के पास आवासीय Jalan Beremi पर स्थित है। MICHELIN का कहना है कि यह स्थानीय लोगों के लिए क्लासिक मानी जाने वाली डिशों के ज़रिए राष्ट्रीय गौरव और पहचान को पेश करता है, जिसमें सबसे लोकप्रिय ऑर्डर nasi ambeng थाली है - विविध बनावट और तीखे, मीठे व नमकीन स्वादों का मेल, जो sambal के साथ परोसा जाता है।"
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

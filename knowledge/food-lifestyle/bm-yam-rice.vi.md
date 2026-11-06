@@ -45,6 +45,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "7 Jalan Murthy, Bukit Mertajam, 14000 Seberang Perai, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=BM%20Yam%20Rice%2C%20Bukit%20Mertajam%2C%20Penang"
+  priceRange: "Budget ($)"
+  hours: "T2-T3 09:00-15:00; T4 nghỉ; T5-CN 09:00-15:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "yam rice với súp thịt heo (chọn có hoặc không có lòng heo); viên thịt heo vị tiêu"
+  reviewSummary: "Quán Teochew theo công thức gia truyền của chủ quán từ năm 2006. Món đặc trưng là yam rice nấu khéo, dậy mùi tôm khô, ăn kèm nước súp thịt heo ngọt mặn hài hòa, được cải thảo muối chua làm bật vị; lòng heo và viên thịt heo vị tiêu làm trọn vẹn tô ăn."
+  phone: "+60 12-564 6104"
 sources:
   - title: "BM Yam Rice"
     url: "https://guide.michelin.com/my/en/pulau-pinang/seberang-perai/restaurant/bm-yam-rice"

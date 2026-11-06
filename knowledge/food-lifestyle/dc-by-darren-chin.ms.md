@@ -39,6 +39,20 @@ reviewer: "ashton-tan"
 reviewed: 2026-11-06
 revision: 0
 updated: 2026-11-06
+place:
+  address: "44 Persiaran Zaaba, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=DC%20by%20Darren%20Chin%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=DC%20by%20Darren%20Chin%2C%20Kuala%20Lumpur"
+  priceRange: "$$$$ (MICHELIN); degustation menus RM548-RM1,198++ (8-course Exploration Journey RM1,198++), lunch from RM428++, Cellar omakase RM1,400++"
+  hours: "Rab-Ahd makan malam 18:00-23:00 (pesanan akhir 21:30); Jum-Sab makan tengah hari 12:00-15:00 (pesanan akhir 14:30); tutup Isn-Sel"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Pasta angel hair sejuk istimewa 'Echo of the Sea' (uni bafun, udang biru, ketam nipah tempatan); menu degustasi pelbagai hidangan (Exploration Journey 8 hidangan, Seasonal Truffle Menu); troli keju French"
+  reviewSummary: "Restoran French kontemporari tiga tingkat dengan bar, ruang makan dan bilik persendirian bertema Louis XIII. Dapurnya mentafsir semula tradisi French dengan pengaruh global dan sentuhan Malaysia, dan terkenal dengan troli keju French serta senarai wain French yang luas dan pelbagai."
+  website: "https://www.restaurant-dc.com/"
+  facebook: "https://www.facebook.com/pages/Restaurant-Darren-Chin/439115776186414"
+  instagram: "https://www.instagram.com/dc_restaurant/"
+  phone: "+60 3-7731 0502"
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/dc-by-darren-chin"

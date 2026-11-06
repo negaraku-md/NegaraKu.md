@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian: 미쉐린 Bib Gourmand를 받은 숯불 claypot rice"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "숯불 claypot rice 위에 보존육과 채소를 올린 모습"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "월, 수~일 11:30-15:30 및 17:30-21:00; 화 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "숯불 claypot rice에 보존육 옵션(돼지고기·간 소시지, lup cheong); 닭다리나 염장 생선 추가 가능, 유바롤과 수프 같은 사이드도 함께"
+  reviewSummary: "푸두(Pudu)에서 오랫동안 사랑받아 온 현지 맛집으로, 1986년부터 숯불로 claypot rice를 지어 왔습니다; 두 종류의 쌀과 섬세한 불 조절로 일정한 완성도를 유지하며 MICHELIN 빕 구르망에 선정되었습니다."
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "정확한 현행 MICHELIN 판 — 최신판은 MICHELIN Guide Kuala Lumpur & Penang 2026(2025년 11월 11일 발표)입니다. Bib Gourmand 선정은 매년 개정되므로, 의존하기 전에 현행판으로 Foong Lian의 상태를 다시 확인하세요."
   - "Foong Lian이 처음 Bib Gourmand를 받은 연도 — 현지 매체(Malay Mail)는 2025년판의 신규 입선 중 하나로 올렸으나, MICHELIN 공식 선정으로 확인하세요."

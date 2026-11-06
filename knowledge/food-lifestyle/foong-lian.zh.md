@@ -2,6 +2,11 @@
 topicId: MY-MICH-0025
 title: "Foong Lian：摘得 MICHELIN Bib Gourmand 的炭火 claypot rice"
 slug: "foong-lian"
+hero: "/media/food/foong-lian/hero.webp"
+heroAlt: "炭火 claypot rice，铺上腊味与青菜"
+heroCredit: "bryan... from Taipei, Taiwan / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Food_%E8%87%98%E5%91%B3%E7%85%B2%E4%BB%94%E9%A3%AF,_%E6%96%B0%E8%91%A1%E8%8B%91,_Shin_Pu_Yuan,_%E5%8F%B0%E5%8C%97_(21532055812).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -47,6 +52,19 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "55 Jalan Yew, Pudu, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Foong%20Lian%20claypot%20rice%2C%20Kuala%20Lumpur"
+  priceRange: "Budget (MICHELIN Guide \"$\")"
+  hours: "周一、周三至周日 11:30-15:30 及 17:30-21:00；周二休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "炭火 claypot rice，可选腊味款（腊肠与润肠，lup cheong）；加料有鸡腿或咸鱼，另有腐皮卷等小食及各式汤品"
+  reviewSummary: "布特拉（Pudu）历久不衰的本地人气老店，自1986年起以炭火烹制 claypot rice，选用两种米并精细控火，确保每煲口感一致；荣获 MICHELIN 必比登推介。"
+  website: "https://www.foonglian.com"
+  phone: "+60 3-9287 2294"
 verificationNeeded:
   - "确切的 MICHELIN 当前版本——最新的是 MICHELIN Guide Kuala Lumpur & Penang 2026（于2025年11月11日公布）；Bib Gourmand 精选每年修订，因此在依据之前，请对照当前版本重新确认 Foong Lian 的状态。"
   - "Foong Lian 首次获得 Bib Gourmand 的年份——本地媒体（Malay Mail）将其列入2025年版的新入选名单；请对照 MICHELIN 官方精选确认。"

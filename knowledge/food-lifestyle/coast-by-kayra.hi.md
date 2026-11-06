@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: KL में MICHELIN Bib Gourmand केरल भोजन"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "केरल शैली की तीखी फिश करी का एक कटोरा"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra कुआलालंपुर के Bukit Bintang में The Starhill में एक MICHELIN Guide Bib Gourmand भारतीय रेस्तराँ है। Kayra का सहोदर प्रतिष्ठान, यह 'समुद्र-से-थाली' के सिद्धांत का पालन करता है, स्थानीय रूप से प्राप्त समुद्री भोजन के साथ केरल के व्यंजनों की पुनर्कल्पना करता है — इसका सिग्नेचर एक पारिवारिक-व्यंजन वाला केरल मछली करी है जिसमें कच्चा आम और दही हैं।"
@@ -30,7 +35,7 @@ faq:
     a: "Coast, Kayra का सहोदर प्रतिष्ठान है। MICHELIN Guide कहता है कि यह उसी 'समुद्र-से-थाली' सिद्धांत के प्रति सच्चा रहता है, जिसका मेनू केरल पाक-कला और स्थानीय रूप से प्राप्त समुद्री भोजन पर केंद्रित है।"
 
 lang: "hi"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "सोम 12:00-22:00; मंगल 12:30-22:00; बुध-रवि 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "केरल फिश करी (Kerala fish curry)"
+  reviewSummary: "Kayra का सहयोगी रेस्तरां और Bib Gourmand विजेता Coast by Kayra, पारंपरिक केरल तटीय व्यंजनों को समुद्र-से-थाली (sea-to-plate) की सोच के इर्द-गिर्द परिष्कृत, आधुनिक अंदाज़ में फिर से रचता है, और इसकी सजावट फ़िरोज़ी समुद्री थीम पर आधारित है; छोटे किसानों और मछुआरों के समर्थन के लिए समुद्री भोजन और सामग्री स्थानीय स्तर पर जुटाई जाती है। रसोई की पारिवारिक नुस्खे वाली केरल फिश करी, कच्चे आम और दही से संतुलित, यहाँ की ख़ासियत है, जिसे नान (naan) के साथ चखना सबसे बेहतर है।"
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

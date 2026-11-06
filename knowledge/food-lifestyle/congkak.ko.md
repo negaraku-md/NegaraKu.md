@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "Congkak: 부킷 빈탕에서 만나는 말레이시아 가정식의 Bib Gourmand"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — 바나나 잎 위에 프라이드치킨, serunding, 달걀, 채소를 곁들인 말레이식 나눔 라이스 플래터"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, 도심에서 가까운 주택가 거리에 있습니다. MICHELIN Guide는 이곳을 $ 가격대, 즉 중간 수준의 지출로 분류하며, 신용카드를 받습니다."
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "월~목 12:00-22:00; 금~토 12:00-23:00; 일 12:00-22:00 (MICHELIN); 일부 정보에는 매일 11:00-22:00로 표시 - 레스토랑에 확인 바람"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng (대표적인 나눔 플래터, 인원수에 맞춘 양); 그 외 rendang tok와 satay ayam"
+  reviewSummary: "말레이시아 전통 보드게임에서 이름을 딴 MICHELIN 빕 구르망 말레이 레스토랑으로, 시내 중심부와 가까운 주택가 Jalan Beremi에 자리한다. MICHELIN은 현지인들이 고전으로 여기는 요리를 통해 국가의 자부심과 정체성을 드러낸다고 평하며, 가장 인기 있는 메뉴인 nasi ambeng 플래터는 다양한 식감과 맵고 달고 짠 맛이 어우러지고 sambal과 함께 제공된다."
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

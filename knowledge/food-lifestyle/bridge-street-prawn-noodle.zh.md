@@ -40,6 +40,18 @@ keywords:
   - "Malaysian noodle soup"
 
 updated: 2026-11-06
+place:
+  address: "533 Lebuh Pantai, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Bridge%20Street%20Prawn%20Noodle%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Bridge%20Street%20Prawn%20Noodle%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $); street-food stall, roughly under RM15 a bowl"
+  hours: "周二、周四、周五 07:00-14:30; 周六 07:00-12:00; 周日 07:00-13:00; 周一 & 周三休息（据 MICHELIN）; 每逢农历初一、十五也休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Prawn mee（虾面 / hae mee）：选黄面或米粉，配香辣虾汤，可加卤排骨或鱼丸等配料"
+  reviewSummary: "位于热闹 Lebuh Pantai 的 MICHELIN 必比登（Bib Gourmand）街头小吃摊，以传统槟城 prawn mee 闻名；评审特别称道那锅风味浓郁的香辣虾汤，食客还可自选面条和配料"
+  phone: "+60 10-566 2217"
 sources:
   - title: "Bridge Street Prawn Noodle"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/bridge-street-prawn-noodle"

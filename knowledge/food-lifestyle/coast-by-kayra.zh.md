@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra：吉隆坡的 MICHELIN Bib Gourmand 喀拉拉餐饮"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "一碗喀拉拉风味的辣鱼咖喱"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra 是吉隆坡 Bukit Bintang、The Starhill 内的一家 MICHELIN Guide Bib Gourmand 印度餐厅。作为 Kayra 的姊妹店，它秉持「从海洋到餐盘」的理念，以在地采购的海鲜重新演绎喀拉拉菜肴——招牌是一道以家传食谱为本、加入青芒果与酸奶的喀拉拉鱼咖喱。"
@@ -30,7 +35,7 @@ faq:
     a: "Coast 是 Kayra 的姊妹店。MICHELIN Guide 说它忠于同样「从海洋到餐盘」的理念，菜单聚焦喀拉拉料理与在地采购的海鲜。"
 
 lang: "zh"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "周一 12:00-22:00；周二 12:30-22:00；周三至周日 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "喀拉拉鱼咖喱（Kerala fish curry）"
+  reviewSummary: "Coast by Kayra 是 Kayra 的姊妹餐厅，获颁必比登推介（Bib Gourmand），以精致现代的手法重新演绎传统喀拉拉沿海料理，秉持从海洋到餐盘的理念，餐厅以青绿色海洋主题装潢；海鲜与食材皆在地采购，以支持小农与渔民。厨房以家传配方烹制的喀拉拉鱼咖喱，用青芒果与酸奶调和，是招牌亮点，最适合搭配印度烤饼（naan）蘸食。"
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

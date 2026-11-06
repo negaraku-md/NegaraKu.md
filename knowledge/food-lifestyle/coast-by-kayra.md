@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: MICHELIN Bib Gourmand Kerala Dining in KL"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "A bowl of spicy Kerala-style fish curry"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra is a MICHELIN Guide Bib Gourmand Indian restaurant at The Starhill in Bukit Bintang, Kuala Lumpur. The sister establishment of Kayra, it follows a sea-to-plate ethos, reimagining Kerala dishes with locally sourced seafood — its signature a family-recipe Kerala fish curry with raw mango and yoghurt."
@@ -43,6 +48,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Mon 12:00-22:00; Tue 12:30-22:00; Wed-Sun 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Kerala fish curry"
+  reviewSummary: "A Bib Gourmand sister restaurant to Kayra, Coast by Kayra reimagines traditional Kerala coastal cooking in refined, modern ways around a sea-to-plate ethos, with turquoise ocean-inspired decor; seafood and produce are sourced locally to support small farms and fishermen. The kitchen's family-recipe Kerala fish curry, balanced with raw mango and yoghurt, is a highlight, best mopped up with naan."
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

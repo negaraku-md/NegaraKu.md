@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "th"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "จ. อ. พฤ. ศ. 17:00-23:00; ส.-อา. 12:00-15:00 & 18:00-23:00; พ. ปิด"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "อกเป็ดบ่มในซาลาเปานึ่ง (เมนูซิกเนเจอร์); gelato ทำเองรสท้องถิ่น เช่น ลูกจันทน์เทศ-harumanis และ hor ka sai"
+  reviewSummary: "ห้องอาหารบรรยากาศสบาย ๆ ผ่อนคลายในจอร์จทาวน์ มีครัวเปิด เคาน์เตอร์ส่วนกลางยาว และหน้าต่างบานใหญ่ เมนูโมเดิร์นขนาดกะทัดรัดสร้างจากวัตถุดิบท้องถิ่นและเชื่อมโยงอาหารเปอรานากันกับมาเลเซีย โดยมีอกเป็ดบ่มในซาลาเปานึ่งเป็นเมนูซิกเนเจอร์ พร้อม gelato ทำเองรสท้องถิ่น"
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

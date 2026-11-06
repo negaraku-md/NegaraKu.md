@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee: ஜார்ஜ் டவுனின் ஒரு Bib Gourmand கறி நூடுல்ஸ் கடை"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "நூடுல்ஸ், கொக்கிள்ஸ், தோஃபு பப்ஸ் மற்றும் மிளகாயுடன் கூடிய பினாங்கு curry mee ஒரு கிண்ணம்"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "திங்கள்-புதன், வெள்ளி-ஞாயிறு 12:00-22:00; வியாழன் மூடப்பட்டிருக்கும்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "தேங்காய்ப்பால் வெள்ளை கறி அடிப்படையிலான curry mee, பன்றி இரத்தக் கட்டி மற்றும் வறுத்த பன்றி இறைச்சி சேர்த்தது; வீட்டில் செய்த மிளகாய் சாஸைச் சேர்த்துக்கொள்ளுங்கள்"
+  reviewSummary: "ஒரு கோபிதியாமுக்குள் அமைந்துள்ள Bib Gourmand தெரு உணவுக் கடை, தேங்காய்ப்பாலில் தயாரித்து தினமும் புதிதாக செய்யப்படும் உப்பு-இனிப்புச் சுவை கொண்ட வெள்ளை கறி அடிப்படையில் curry mee வழங்குகிறது; MICHELIN ஆய்வாளர்கள் வறுத்த பன்றி இறைச்சி மற்றும் வீட்டில் செய்த மிளகாய் சாஸைத் தனிப்படுத்திக் குறிப்பிடுகின்றனர்."
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

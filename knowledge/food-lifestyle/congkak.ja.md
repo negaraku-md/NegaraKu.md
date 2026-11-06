@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "Congkak：ブキッ・ビンタンで味わうマレーシア家庭料理の Bib Gourmand"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — バナナの葉の上に揚げ鶏、serunding、卵、野菜を盛り合わせたマレー式の取り分け用ライスプレート"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "店は 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200、中心街に近い住宅街にあります。MICHELIN Guide は $ の価格帯、つまり中程度の出費に位置づけており、クレジットカードが使えます。"
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "月〜木 12:00-22:00；金〜土 12:00-23:00；日 12:00-22:00（MICHELIN）；一部の情報では毎日 11:00-22:00 - レストランにご確認ください"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng（看板の取り分けプレート、人数に応じた量）；ほかに rendang tok と satay ayam"
+  reviewSummary: "マレーシアの伝統的なボードゲームにちなんで名付けられた MICHELIN ビブグルマンのマレー料理店で、市街中心部に近い住宅街の Jalan Beremi にたたずむ。MICHELIN は、地元の人々が定番と考える料理を通して国の誇りとアイデンティティを表現していると評し、最も人気のある nasi ambeng プレートは、多彩な食感と辛味・甘味・塩味のバランスを持ち、sambal を添えて供される。"
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

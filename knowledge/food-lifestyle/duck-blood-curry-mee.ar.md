@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee: متجر نودلز الكاري Bib Gourmand في جورج تاون"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "وعاء من curry mee البينانجي مع النودلز والمحار (cockles) وفقاعات التوفو والفلفل الحار"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "الإثنين-الأربعاء، الجمعة-الأحد 12:00-22:00؛ مغلق يوم الخميس"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "curry mee في قاعدة كاري بيضاء بحليب جوز الهند، مغطى بخثارة دم الخنزير ولحم الخنزير المشوي؛ أضف صلصة الفلفل الحار المنزلية"
+  reviewSummary: "كشك طعام شارع من فئة Bib Gourmand مختبئ داخل مقهى (kopitiam)، يقدّم curry mee في قاعدة كاري بيضاء مالحة-حلوة محضّرة بحليب جوز الهند وطازجة يوميًا؛ يخصّ مفتشو MICHELIN بالذكر لحم الخنزير المشوي وصلصة الفلفل الحار المنزلية."
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

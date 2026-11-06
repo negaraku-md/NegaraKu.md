@@ -3,6 +3,11 @@ topicId: MY-MICH-0049
 title: "Duck Blood Curry Mee: ร้านบะหมี่แกงบิบ กูร์มองด์ในจอร์จทาวน์"
 seoTitle: "Duck Blood Curry Mee"
 slug: "duck-blood-curry-mee"
+hero: "/media/food/duck-blood-curry-mee/hero.webp"
+heroAlt: "ชาม curry mee ปีนังพร้อมเส้น หอยแครง เต้าหู้ทอด และพริก"
+heroCredit: "JB Macatulad / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Curry_Mee_at_Sister_Curry_Mee_in_Penang.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "223B Jalan Burma, George Town, 10050 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Duck%20Blood%20Curry%20Mee%2C%20George%20Town%2C%20Penang"
+  priceRange: "Budget (MICHELIN $)"
+  hours: "จ.-พ., ศ.-อา. 12:00-22:00; ปิดวันพฤหัสบดี"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "curry mee ในน้ำแกงกะทิสีขาว ราดด้วยเลือดหมูก้อนและหมูย่าง; เพิ่มซอสพริกโฮมเมด"
+  reviewSummary: "ร้านอาหารริมทางระดับ Bib Gourmand ที่ซ่อนตัวอยู่ในร้านกาแฟโบราณ (kopitiam) เสิร์ฟ curry mee ในน้ำแกงกะทิสีขาวรสเค็มหวานที่ทำจากกะทิและเตรียมสดใหม่ทุกวัน; ผู้ตรวจของ MICHELIN ชื่นชมหมูย่างและซอสพริกโฮมเมดเป็นพิเศษ"
+  phone: "+60 12-438 2149"
 sources:
   - title: "Duck Blood Curry Mee"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/duck-blood-curry-mee"

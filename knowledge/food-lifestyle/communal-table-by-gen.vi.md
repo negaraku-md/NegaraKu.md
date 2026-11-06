@@ -7,7 +7,7 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "vi"
-sourceContentHash: "9c115b0079bf2418"
+sourceContentHash: "35537b861b620fad"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -52,6 +52,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "Thứ 2, Thứ 3, Thứ 5, Thứ 6 17:00-23:00; Thứ 7-CN 12:00-15:00 & 18:00-23:00; Thứ 4 đóng cửa"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Ức vịt ủ trong bánh bao hấp (món đặc trưng); gelato tự làm với hương vị địa phương như nhục đậu khấu-harumanis và hor ka sai"
+  reviewSummary: "Một không gian ăn uống giản dị, thư thái ở George Town với bếp mở, quầy chung dài và cửa sổ lớn. Thực đơn hiện đại gọn gàng dựa trên nguyên liệu địa phương, kết nối ẩm thực Peranakan và Malaysia, với ức vịt ủ trong bánh bao hấp là món đặc trưng cùng gelato tự làm hương vị địa phương."
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }

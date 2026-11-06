@@ -3,6 +3,11 @@ topicId: MY-MICH-0030
 title: "Coast by Kayra: KL의 MICHELIN Bib Gourmand 케랄라 다이닝"
 seoTitle: "Coast by Kayra"
 slug: "coast-by-kayra"
+hero: "/media/food/coast-by-kayra/hero.webp"
+heroAlt: "매콤한 케랄라식 피시 커리 한 그릇"
+heroCredit: "Ramesh NG / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kerala_spicy_Fish_Curry.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Coast by Kayra는 쿠알라룸푸르 Bukit Bintang의 The Starhill에 있는 MICHELIN Guide Bib Gourmand 인도 요리점이다. Kayra의 자매 업장으로, '바다에서 접시로' 철학을 따라 현지에서 조달한 해산물로 케랄라 요리를 재해석한다 — 간판은 풋망고와 요구르트를 더한 가족 전래 레시피의 케랄라 생선 커리다."
@@ -30,7 +35,7 @@ faq:
     a: "Coast는 Kayra의 자매 업장입니다. MICHELIN Guide는 같은 '바다에서 접시로' 철학에 충실하며, 메뉴는 케랄라 요리와 현지 조달 해산물을 중심으로 한다고 밝힙니다."
 
 lang: "ko"
-sourceContentHash: "b056dc187b4d31db"
+sourceContentHash: "8c3ac20f1a491973"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Lot G03-G05, Ground Floor, The Starhill, 181 Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Coast%20by%20Kayra%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "월 12:00-22:00; 화 12:30-22:00; 수-일 12:00-22:00"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "케랄라 피시 커리(Kerala fish curry)"
+  reviewSummary: "Coast by Kayra는 Kayra의 자매 레스토랑으로 빕 구르망(Bib Gourmand)을 받았습니다. 바다에서 접시까지(sea-to-plate)라는 철학을 중심으로 전통 케랄라 해안 요리를 세련되고 현대적으로 재해석하며, 바다를 테마로 한 청록색 인테리어가 특징입니다. 소규모 농가와 어민을 돕기 위해 해산물과 식재료는 현지에서 조달합니다. 집안 대대로 내려온 레시피에 풋망고와 요거트로 균형을 맞춘 케랄라 피시 커리가 대표 메뉴이며, 난(naan)에 소스를 찍어 먹는 것이 가장 좋습니다."
+  website: "https://coast.kayra.com.my/"
+  facebook: "https://facebook.com/coastbykayra"
+  instagram: "https://www.instagram.com/coastbykayra/"
+  tiktok: "https://www.tiktok.com/@coastbykayra"
+  phone: "+60 17-215 7264"
 sources:
   - title: "Coast by Kayra"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/coast-by-kayra"

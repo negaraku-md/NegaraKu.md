@@ -3,6 +3,11 @@ topicId: MY-MICH-0016
 title: "Congkak : une cuisine familiale malaisienne Bib Gourmand à Bukit Bintang"
 seoTitle: "Congkak (Bukit Bintang)"
 slug: "congkak"
+hero: "/media/food/congkak/hero.webp"
+heroAlt: "Nasi ambeng — un plateau de riz malais à partager avec poulet frit, serunding, œuf et légumes sur une feuille de bananier"
+heroCredit: "Li Tsin Soon from KL, Malaysia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_ambeng.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,19 @@ faq:
     a: "Il se trouve au 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, dans une rue résidentielle proche du centre. Le MICHELIN Guide le place dans la tranche de prix $, soit une dépense modérée, et il accepte les cartes de crédit."
 
 updated: 2026-11-06
+place:
+  address: "24 Jalan Beremi, off Jalan Sultan Ismail, Bukit Bintang, 50200 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Congkak%20Restaurant%2C%20Bukit%20Bintang%2C%20Kuala%20Lumpur"
+  priceRange: "$$"
+  hours: "Lun-Jeu 12:00-22:00 ; Ven-Sam 12:00-23:00 ; Dim 12:00-22:00 (MICHELIN) ; certaines sources indiquent 11:00-22:00 tous les jours - à confirmer auprès du restaurant"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Nasi ambeng (le plateau à partager emblématique, en portions selon le nombre de convives) ; également rendang tok et satay ayam"
+  reviewSummary: "Un restaurant malais Bib Gourmand du Guide MICHELIN, qui tient son nom du jeu de plateau traditionnel malaisien, niché dans la rue résidentielle Jalan Beremi près du centre-ville. MICHELIN indique qu'il exprime la fierté et l'identité nationales à travers des plats que les habitants considèrent comme des classiques, le plateau de nasi ambeng étant la commande la plus prisée : un mélange de textures variées et de saveurs épicées, sucrées et salées, servi avec du sambal."
+  facebook: "https://www.facebook.com/congkakkl/"
+  instagram: "https://www.instagram.com/congkakkl/"
+  phone: "+60 19-289 7008"
 sources:
   - title: "Congkak (Bukit Bintang)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/congkak-bukit-bintang"

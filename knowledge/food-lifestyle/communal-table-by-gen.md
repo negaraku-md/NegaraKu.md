@@ -50,6 +50,20 @@ sources:
     publisher: "Wikipedia"
 
 updated: 2026-11-06
+place:
+  address: "68 Lebuh Presgrave, 10300 George Town, Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Communal%20Table%20by%20Gen%2C%20George%20Town%2C%20Penang"
+  priceRange: "$$"
+  hours: "Mon, Tue, Thu, Fri 17:00-23:00; Sat-Sun 12:00-15:00 & 18:00-23:00; Wed closed"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Aged duck breast in a steamed bun (signature); house-made gelato in local flavours such as nutmeg-harumanis and hor ka sai"
+  reviewSummary: "A casual, relaxed dining room in George Town with an open kitchen, a long communal counter and large windows. The compact modern menu is built on local produce and bridges Peranakan and Malaysian cooking, with the aged duck breast in a steamed bun as the signature and house-made gelato in local flavours."
+  website: "https://www.gencommunaltable.com"
+  facebook: "https://www.facebook.com/communaltablegen"
+  instagram: "https://www.instagram.com/communaltablegen"
+  phone: "+60 12-578 3323"
 
 relations:
   - { rel: "located-in", to: "penang" }
