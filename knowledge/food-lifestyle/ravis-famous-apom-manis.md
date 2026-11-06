@@ -10,6 +10,7 @@ translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ravi's Famous Apom Manis is a long-established George Town, Penang street-food stall in the MICHELIN Guide's Bib Gourmand selection, specialising in apom manis — a sweet, lacy coconut-and-rice-flour pancake. The Penang style includes egg in the batter for extra aroma; the stall has operated for close to a century and tends to sell out in the morning."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis is a Bib Gourmand street-food stall on Jalan Burma in George Town, Penang. It specialises in apom manis — a sweet, soft-centred, crisp-edged pancake of rice flour and coconut, with egg added in the Penang style for aroma. The family stall dates back to the early 20th century and typically sells out by late morning."

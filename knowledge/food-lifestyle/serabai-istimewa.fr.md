@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Serabai Istimewa est un stand de cuisine de rue de longue date à George Town, Penang, retenu dans la sélection Bib Gourmand du MICHELIN Guide, réputé pour le serabai — une crêpe de farine de riz au lait de coco servie avec un sirop de sucre de palme (gula melaka) en sauce à tremper. En activité depuis les années 1970, il le vend en versions nature, à l'œuf et au sucre roux, et n'ouvre généralement que tôt le matin."
 seoTitle: "Serabai Istimewa, Penang (Bib Gourmand)"
 answer: "Serabai Istimewa est un stand de cuisine de rue à George Town, Penang, inscrit au MICHELIN Guide Kuala Lumpur & Penang comme Bib Gourmand pour sa cuisine à bon rapport qualité-prix. Il vend du serabai — une crêpe moelleuse de farine de riz au lait de coco trempée dans un sirop de sucre de palme (gula melaka) — depuis les années 1970, en versions nature, à l'œuf ou au sucre roux, et se visite de préférence avant 10am."

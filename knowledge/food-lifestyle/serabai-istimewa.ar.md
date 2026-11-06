@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Serabai Istimewa كشك طعام شارع عريق في George Town ببينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide، ويشتهر بـ serabai — فطيرة أرز بحليب جوز الهند تُقدَّم مع غموس من شراب سكر النخيل (gula melaka). يعمل منذ سبعينيات القرن الماضي، ويبيع الطبق في نسخ عادية وبالبيض وبالسكر البني، وعادةً لا يفتح إلا في الصباح الباكر."
 seoTitle: "Serabai Istimewa، بينانغ (Bib Gourmand)"
 answer: "Serabai Istimewa كشك طعام شارع في George Town ببينانغ، مُدرَج في MICHELIN Guide Kuala Lumpur & Penang بوصفه Bib Gourmand لطهيٍ يستحق قيمته. يبيع serabai — فطيرة أرز لينة بحليب جوز الهند تُغمَس في شراب سكر النخيل (gula melaka) — منذ سبعينيات القرن الماضي، وتُقدَّم عادية أو بالبيض أو بالسكر البني، والأفضل زيارته قبل 10am."

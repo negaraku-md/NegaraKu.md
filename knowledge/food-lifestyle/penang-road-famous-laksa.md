@@ -10,6 +10,7 @@ translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Penang Road Famous Laksa is a George Town, Penang noodle shop in the MICHELIN Guide's Bib Gourmand selection, known for assam (sour) laksa. Operating since 1970 on a family recipe, it serves lai fun noodles in a broth made from three types of fish, balancing spicy, sweet and sour notes, with a deboned sardine fillet add-on. It is a long-queued George Town institution."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa is a Bib Gourmand noodle shop on Lebuh Keng Kwee in George Town, Penang. Running since 1970 on a family recipe, it serves its signature sour laksa: lai fun noodles in a broth made from three types of fish, balanced across spicy, sweet and sour notes, with a deboned sardine fillet available as an add-on. It is one of George Town's most famous street-food queues."

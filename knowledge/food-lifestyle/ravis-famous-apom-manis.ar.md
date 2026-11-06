@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ravi's Famous Apom Manis كشك طعام شارع عريق في George Town ببينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide، ومتخصّص في apom manis — فطيرة حلوة مُخرَّمة من جوز الهند ودقيق الأرز. يضيف الأسلوب البينانغي البيض إلى العجينة لرائحة أقوى؛ ويعمل الكشك منذ قرابة قرن، وينفد عادةً في الصباح."
 seoTitle: "Ravi's Famous Apom Manis، بينانغ (Bib)"
 answer: "Ravi's Famous Apom Manis كشك طعام شارع حائز على Bib Gourmand في Jalan Burma بـ George Town في بينانغ. يتخصّص في apom manis — فطيرة حلوة طريّة الوسط مُقرمَشة الحواف من دقيق الأرز وجوز الهند، مع إضافة البيض على الطريقة البينانغية للرائحة. ويعود هذا الكشك العائلي إلى مطلع القرن العشرين، وينفد عادةً مع اقتراب أواخر الصباح."

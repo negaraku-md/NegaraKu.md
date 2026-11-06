@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ravi's Famous Apom Manis es un puesto de comida callejera de larga trayectoria en George Town, Penang, incluido en la selección Bib Gourmand de la MICHELIN Guide, especializado en apom manis, una crepe dulce y encajada de coco y harina de arroz. El estilo de Penang incorpora huevo en la masa para dar más aroma; el puesto lleva casi un siglo en marcha y suele agotarse por la mañana."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis es un puesto de comida callejera Bib Gourmand en Jalan Burma, George Town, Penang. Está especializado en apom manis, una crepe dulce de harina de arroz y coco, blanda en el centro y crujiente en los bordes, a la que, al estilo de Penang, se le añade huevo para dar aroma. El puesto familiar se remonta a principios del siglo XX y suele agotarse al final de la mañana."

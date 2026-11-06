@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ravi's Famous Apom Manis는 페낭 George Town에서 오래 자리 잡은 길거리 음식 노점으로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있으며 apom manis를 전문으로 한다 — 코코넛과 쌀가루로 만든 달콤하고 레이스 같은 팬케이크다. 페낭 방식은 반죽에 달걀을 넣어 향을 더하며, 노점은 거의 한 세기 동안 운영해 왔고 보통 오전에 품절된다."
 seoTitle: "Ravi's Famous Apom Manis, 페낭 (Bib)"
 answer: "Ravi's Famous Apom Manis는 페낭 George Town의 Jalan Burma에 있는 Bib Gourmand 길거리 음식 노점이다. apom manis를 전문으로 한다 — 쌀가루와 코코넛으로 만든, 가운데는 부드럽고 가장자리는 바삭한 달콤한 팬케이크로, 페낭 방식으로 향을 위해 달걀을 넣는다. 이 가족 노점은 20세기 초로 거슬러 올라가며 보통 늦은 오전이면 품절된다."

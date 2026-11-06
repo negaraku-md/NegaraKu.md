@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Penang Road Famous Laksa là một quán mì ở George Town, Penang, nằm trong danh sách Bib Gourmand của MICHELIN Guide, nổi tiếng với assam (chua) laksa. Hoạt động từ năm 1970 theo công thức gia truyền, quán phục vụ mì lai fun trong nước dùng nấu từ ba loại cá, cân bằng vị cay, ngọt và chua, với tùy chọn thêm phi lê cá mòi rút xương. Đây là một thương hiệu lâu đời xếp hàng dài ở George Town."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa là một quán mì Bib Gourmand trên Lebuh Keng Kwee ở George Town, Penang. Hoạt động từ năm 1970 theo công thức gia truyền, quán phục vụ món laksa chua đặc trưng: mì lai fun trong nước dùng nấu từ ba loại cá, cân bằng giữa vị cay, ngọt và chua, với tùy chọn thêm phi lê cá mòi rút xương. Đây là một trong những hàng xếp hàng ẩm thực đường phố nổi tiếng nhất George Town."

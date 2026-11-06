@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Penang Road Famous Laksa เป็นร้านก๋วยเตี๋ยวใน George Town ปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide ขึ้นชื่อเรื่อง assam (เปรี้ยว) laksa เปิดมาตั้งแต่ปี 1970 ด้วยสูตรของครอบครัว เสิร์ฟเส้น lai fun ในน้ำซุปที่ทำจากปลาสามชนิด สมดุลรสเผ็ด หวาน เปรี้ยว พร้อมเนื้อปลาซาร์ดีนแล่ก้างเป็นของเพิ่ม เป็นสถาบันของ George Town ที่มีคิวยาว"
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa เป็นร้านก๋วยเตี๋ยวระดับ Bib Gourmand บน Lebuh Keng Kwee ใน George Town ปีนัง เปิดมาตั้งแต่ปี 1970 ด้วยสูตรของครอบครัว เสิร์ฟ laksa เปรี้ยวซิกเนเจอร์: เส้น lai fun ในน้ำซุปที่ทำจากปลาสามชนิด สมดุลระหว่างรสเผ็ด หวาน และเปรี้ยว พร้อมเนื้อปลาซาร์ดีนแล่ก้างเป็นของเพิ่ม เป็นหนึ่งในคิวสตรีทฟู้ดที่โด่งดังที่สุดของ George Town"

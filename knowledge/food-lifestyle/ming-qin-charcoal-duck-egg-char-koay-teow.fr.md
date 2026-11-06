@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow est un stand de nouilles à Bukit Mertajam, Seberang Perai, sur la partie continentale de Penang, retenu dans la sélection Bib Gourmand du MICHELIN Guide. Son char koay teow est sauté à l'œuf de cane sur un feu de charbon pour un wok hei prononcé ; un apéritif de poulpe blanchi est une entrée recommandée. C'est une affaire du soir avec une clientèle bâtie sur deux décennies."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, Penang"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow est un stand de nouilles Bib Gourmand à Bukit Mertajam, Seberang Perai, sur la partie continentale de Penang. Son char koay teow emblématique est sauté à l'œuf de cane sur un feu de charbon, ce qui lui confère un fort wok hei (le souffle fumé du wok). Un apéritif de poulpe blanchi est une entrée recommandée. Il ouvre le soir."

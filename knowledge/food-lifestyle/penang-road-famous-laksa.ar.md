@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Penang Road Famous Laksa محلّ نودلز في George Town ببينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide، ويشتهر بـ assam (laksa الحامضة). يعمل منذ 1970 بوصفة عائلية، ويقدّم نودلز lai fun في مرقٍ مُحضَّر من ثلاثة أنواع من السمك، يوازن بين النكهات الحارّة والحلوة والحامضة، مع إمكانية إضافة شريحة سردين منزوعة العظم. وهو مؤسسة عريقة في George Town ذات طوابير طويلة."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa محلّ نودلز حائز على Bib Gourmand في Lebuh Keng Kwee بـ George Town في بينانغ. يعمل منذ 1970 بوصفة عائلية، ويقدّم laksa الحامضة المميّزة: نودلز lai fun في مرقٍ مُحضَّر من ثلاثة أنواع من السمك، موازَن بين النكهات الحارّة والحلوة والحامضة، مع إمكانية إضافة شريحة سردين منزوعة العظم. وهو من أشهر طوابير طعام الشارع في George Town."

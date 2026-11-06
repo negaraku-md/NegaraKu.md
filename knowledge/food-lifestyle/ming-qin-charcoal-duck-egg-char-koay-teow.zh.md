@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow 是位于槟城大陆部分、威省大山脚（Bukit Mertajam）的一家粿条摊，入选 MICHELIN Guide 的 Bib Gourmand 名单。它的 char koay teow 以鸭蛋、在炭火上快炒，带出鲜明的 wok hei；汆烫的鱿鱼是推荐的开胃前菜。这是一门晚市生意，口碑在二十年间积累而成。"
 seoTitle: "Ming Qin Charcoal Char Koay Teow，槟城"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow 是位于槟城大陆部分、威省大山脚的一家 Bib Gourmand 粿条摊。它的招牌 char koay teow 以鸭蛋、在炭火上快炒，因而带出强烈的 wok hei（镬气，炒锅的烟火气息）。汆烫的鱿鱼是推荐的开胃前菜。它在晚间营业。"

@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Lemon Koay Teow Soup كشك طعام شارع في Butterworth بـ Seberang Perai، على برّ بينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide. يقدّم koay teow th'ng — نودلز أرز مسطّحة في مرق عظام خنزير طازج — مع قرص لحم خنزير مفروم يدويًا وعصير ليمون معصور طازجًا على الطاولة لإضفاء نكهة منعشة، وهو فطور محبوب لدى السكان المحليين."
 seoTitle: "Lemon Koay Teow Soup، بينانغ (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup كشك طعام شارع حائز على Bib Gourmand في Butterworth بـ Seberang Perai، على برّ بينانغ. يقدّم koay teow soup — نودلز أرز مسطّحة حريرية في مرق عظام خنزير غنيّ بنكهة الأومامي يُحضَّر طازجًا كل يوم — ويُتوَّج بقرص لحم خنزير مفروم يدويًا، مع عصير ليمون معصور طازجًا على الطاولة لرفع النكهة. وهو فطور محلي رائج."

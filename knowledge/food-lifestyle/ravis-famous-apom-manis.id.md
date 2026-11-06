@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ravi's Famous Apom Manis adalah kedai makanan kaki lima lawas di George Town, Penang, yang masuk dalam seleksi Bib Gourmand MICHELIN Guide, berspesialisasi apom manis — panekuk manis berenda dari kelapa dan tepung beras. Gaya Penang menambahkan telur ke dalam adonan untuk aroma yang lebih kuat; kedai ini telah beroperasi hampir seabad dan cenderung ludes pada pagi hari."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis adalah kedai makanan kaki lima Bib Gourmand di Jalan Burma, George Town, Penang. Kedai ini berspesialisasi apom manis — panekuk manis bertengah lembut dan bertepi renyah dari tepung beras dan kelapa, dengan telur ditambahkan menurut gaya Penang untuk aroma. Kedai keluarga ini berakar ke awal abad ke-20 dan biasanya ludes menjelang siang."

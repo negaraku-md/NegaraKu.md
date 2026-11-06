@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Ravi's Famous Apom Manis はペナン、George Town で長く続く屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれ、apom manis を専門とする——ココナッツと米粉で作る、甘くレース状のパンケーキである。ペナン流は生地に卵を加えて香りを強め、屋台は一世紀近く営業し、たいてい午前中に売り切れる。"
 seoTitle: "Ravi's Famous Apom Manis、ペナン（Bib）"
 answer: "Ravi's Famous Apom Manis はペナン、George Town の Jalan Burma にある Bib Gourmand の屋台である。apom manis を専門とする——中心が柔らかく縁がパリッとした、米粉とココナッツの甘いパンケーキで、ペナン流に香りのため卵を加える。この家族の屋台は 20 世紀初頭にさかのぼり、たいてい午前遅くには売り切れる。"

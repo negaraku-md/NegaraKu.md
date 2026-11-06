@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Penang Road Famous Laksa என்பது பினாங்கு, George Town-இல் உள்ள ஒரு நூடுல் கடை; MICHELIN Guide-இன் Bib Gourmand தேர்வில் இடம்பெற்றுள்ளது, assam (புளிப்பு) laksa-க்காக பிரபலம். 1970 முதல் ஒரு குடும்ப செய்முறையில் இயங்கிவரும் இது, மூன்று வகை மீன்களில் செய்த சூப்பில் lai fun நூடுல்களை வழங்குகிறது; காரம், இனிப்பு, புளிப்பு சுவைகளை சமன்செய்து, எலும்பு நீக்கிய மத்தி மீன் துண்டு கூடுதலாக. இது நீண்ட வரிசை கொண்ட George Town நிறுவனம்."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa என்பது பினாங்கு, George Town-இல் Lebuh Keng Kwee-இல் உள்ள ஒரு Bib Gourmand நூடுல் கடை. 1970 முதல் ஒரு குடும்ப செய்முறையில் இயங்கிவரும் இது, அதன் சிறப்பு புளிப்பு laksa-ஐ வழங்குகிறது: மூன்று வகை மீன்களில் செய்த சூப்பில் lai fun நூடுல்கள், காரம்-இனிப்பு-புளிப்பு சுவைகளுக்கிடையே சமன்செய்யப்பட்டு, எலும்பு நீக்கிய மத்தி மீன் துண்டு கூடுதலாக கிடைக்கிறது. இது George Town-இன் மிகப் பிரபலமான தெரு உணவு வரிசைகளில் ஒன்று."

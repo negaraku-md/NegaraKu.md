@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Penang Road Famous Laksa es un local de fideos en George Town, Penang, incluido en la selección Bib Gourmand de la MICHELIN Guide, conocido por su assam (laksa agria). En funcionamiento desde 1970 con una receta familiar, sirve fideos lai fun en un caldo hecho con tres tipos de pescado, equilibrando las notas picante, dulce y ácida, con un filete de sardina sin espinas como añadido. Es una institución de George Town de largas colas."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa es un local de fideos Bib Gourmand en Lebuh Keng Kwee, George Town, Penang. En funcionamiento desde 1970 con una receta familiar, sirve su laksa agria insignia: fideos lai fun en un caldo hecho con tres tipos de pescado, equilibrado entre las notas picante, dulce y ácida, con un filete de sardina sin espinas como añadido. Es una de las colas de comida callejera más famosas de George Town."

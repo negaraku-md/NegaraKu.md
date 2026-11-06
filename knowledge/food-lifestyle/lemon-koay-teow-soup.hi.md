@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Lemon Koay Teow Soup, पेनांग की मुख्य भूमि पर Seberang Perai के Butterworth में एक स्ट्रीट-फूड स्टॉल है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है। यह koay teow th'ng परोसता है — ताज़े सूअर-हड्डी शोरबे में चपटी चावल नूडल्स — हाथ से कटी सूअर-मांस की टिक्की के साथ, और स्वाद निखारने के लिए मेज़ पर ताज़ा निचोड़ा नींबू रस रखा जाता है; स्थानीय लोगों का पसंदीदा नाश्ता।"
 seoTitle: "Lemon Koay Teow Soup, पेनांग (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup, पेनांग की मुख्य भूमि पर Seberang Perai के Butterworth में एक Bib Gourmand स्ट्रीट-फूड स्टॉल है। यह koay teow soup परोसता है — रोज़ ताज़ा बनने वाले उमामी-भरपूर सूअर-हड्डी शोरबे में रेशमी चपटी चावल नूडल्स — हाथ से कटी सूअर-मांस टिक्की के साथ पूरा किया जाता है, और स्वाद उठाने के लिए मेज़ पर ताज़ा निचोड़ा नींबू रस रखा जाता है। यह एक लोकप्रिय स्थानीय नाश्ता है।"

@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Penang Road Famous Laksa, George Town, पेनांग की एक नूडल दुकान है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है और assam (खट्टी) laksa के लिए प्रसिद्ध है। 1970 से एक पारिवारिक नुस्ख़े पर चलते हुए, यह तीन प्रकार की मछलियों से बने शोरबे में lai fun नूडल्स परोसती है, तीखे, मीठे और खट्टे स्वाद को संतुलित करती है, और बिना काँटे वाली सार्डिन फ़िले ऐड-ऑन के रूप में उपलब्ध है। यह लंबी क़तार वाली George Town की एक संस्था है।"
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa, George Town, पेनांग के Lebuh Keng Kwee पर एक Bib Gourmand नूडल दुकान है। 1970 से एक पारिवारिक नुस्ख़े पर चलते हुए, यह अपनी सिग्नेचर खट्टी laksa परोसती है: तीन प्रकार की मछलियों से बने शोरबे में lai fun नूडल्स, तीखे, मीठे और खट्टे के बीच संतुलित, और बिना काँटे वाली सार्डिन फ़िले ऐड-ऑन के रूप में। यह George Town की सबसे मशहूर स्ट्रीट-फूड क़तारों में से एक है।"

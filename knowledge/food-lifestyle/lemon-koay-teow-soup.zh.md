@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Lemon Koay Teow Soup 是位于槟城大陆部分、威省北海（Butterworth）的一家街头美食摊，入选 MICHELIN Guide 的 Bib Gourmand 名单。它售卖 koay teow th'ng——以每日新鲜熬制的猪骨汤盛载的扁粿条——配上手剁肉饼，桌上备有鲜榨柠檬汁以提亮味道，是当地人钟爱的早餐。"
 seoTitle: "Lemon Koay Teow Soup，槟城（Bib Gourmand）"
 answer: "Lemon Koay Teow Soup 是位于槟城大陆部分、威省北海的一家 Bib Gourmand 街头美食摊。它售卖 koay teow soup——爽滑的扁粿条浸在每日新鲜熬制、鲜味十足的猪骨汤里——配上手剁肉饼，桌上备有鲜榨柠檬汁以提亮味道。这是当地颇受欢迎的早餐。"

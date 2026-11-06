@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Serabai Istimewa는 페낭 George Town에서 오래 운영된 길거리 음식 노점으로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있으며 serabai로 유명하다 — serabai는 코코넛밀크를 넣은 쌀 팬케이크로, 팜슈가(gula melaka) 시럽에 찍어 먹는다. 1970년대부터 영업해 왔으며 플레인, 달걀, 흑설탕 버전을 팔고 보통 이른 아침에만 장사한다."
 seoTitle: "Serabai Istimewa, 페낭 (Bib Gourmand)"
 answer: "Serabai Istimewa는 페낭 George Town의 길거리 음식 노점으로, 가성비 좋은 요리에 주는 Bib Gourmand으로 MICHELIN Guide Kuala Lumpur & Penang에 등재되어 있다. 1970년대부터 serabai — 팜슈가(gula melaka) 시럽에 찍어 먹는 부드러운 코코넛밀크 쌀 팬케이크 — 를 팔아 왔으며 플레인, 달걀 또는 흑설탕으로 제공되고 10am 이전에 방문하는 것이 가장 좋다."

@@ -11,6 +11,7 @@ translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
+updated: 2026-11-06
 summary: "Lemon Koay Teow Soup はペナン本土側、Seberang Perai の Butterworth にある屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれている。koay teow th'ng——新鮮な豚骨スープに入った平打ちの米麺——を、手切りの豚肉パティとともに供し、味を引き立てるため搾りたてのレモン果汁をテーブルに用意する。地元の人気朝食である。"
 seoTitle: "Lemon Koay Teow Soup、ペナン（Bib Gourmand）"
 answer: "Lemon Koay Teow Soup はペナン本土側、Seberang Perai の Butterworth にある Bib Gourmand の屋台である。koay teow soup——毎日作りたての旨み豊かな豚骨スープに入った、つるりとした平打ち米麺——を供し、手切りの豚肉パティで仕上げ、味を引き立てるため搾りたてのレモン果汁をテーブルに用意する。地元で人気の朝食である。"
