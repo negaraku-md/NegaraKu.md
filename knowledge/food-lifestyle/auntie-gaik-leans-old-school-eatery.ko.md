@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery: 페낭의 미쉐린 1스타 페라나칸 다이닝"
 seoTitle: "Auntie Gaik Lean's, 조지타운"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "고수, 고추, 튀긴 샬롯을 올린 페라나칸 아삼 생선 머리 카레"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery는 페낭 조지타운 Lebuh Bishop에 있는 미쉐린 1스타 페라나칸(뇨냐) 레스토랑이다. 독학으로 요리를 익힌 셰프 Beh Gaik Lean이 운영하며, 철저히 지켜 온 레시피로 전통 뇨냐 요리를 선보인다. 2022년 말레이시아 최초의 미쉐린 선정에서 첫 별을 받았다."
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "수–일 12:00–14:30 & 18:00–21:30 · 월·화 휴무"
+  service: ["dine-in"]
+  mustOrder: "나시 울람(nasi ulam), 피 티(pie tee), 아삼 생선 카레(gulai tumis), 오탁오탁(otak-otak), 비 코 모이(bee koh moy)"
+  reviewSummary: "조지타운의 정겨운 옛 숍하우스에 자리한 미쉐린 1스타(One MICHELIN Star) 페라나칸 식당으로, 셰프가 수십 년 된 집안 레시피를 처음부터 손수 요리합니다 — 푸짐하고 퓨전 없는 뇨냐 요리를 편안하고 친절한 서비스와 함께 선사합니다."
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: 쿠알라룸푸르의 유산 광둥 요리 명소"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "윤기 흐르는 광둥식 로스트 덕을 썰어 진한 감칠맛 소스에 곁들여 낸 모습"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "화–일 11:00–14:30 & 17:00–21:30 · 월 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "피파(페이파) 로스트 덕; 새끼돼지 통구이(약 2일 전 주문); 팔보오리(Eight-Treasure Duck)"
+  reviewSummary: "1948년부터 이어온 동네 명소로, 나란히 붙은 세 개의 점포에서 정겨운 옛날식 광둥요리를 선보인다 — 오래 근무한 직원들과 피파 덕, 새끼돼지 통구이 같은 대표 메뉴."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "정확한 현행 MICHELIN 판 — 최신판은 MICHELIN Guide Kuala Lumpur & Penang 2026(2025년 11월 11일 발표)입니다. Bib Gourmand 선정은 매년 개정되므로, 의존하기 전에 현행판으로 Sek Yuen의 상태를 다시 확인하세요."
   - "MICHELIN이 밝힌 1948년 외의 Sek Yuen 창업 시점 — 일부 기록은 전쟁 이전 기원을 묘사하지만, 1948년은 전후이므로 '전쟁 이전'이라는 틀은 미확인으로 간주하고, 더 이른 연대를 사용할 경우 1차 또는 유산 관련 출처를 인용하세요."

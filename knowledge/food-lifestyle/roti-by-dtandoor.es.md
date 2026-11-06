@@ -3,6 +3,11 @@ topicId: MY-MICH-0028
 title: "Roti by d'Tandoor: Bib Gourmand MICHELIN del norte de la India en KL"
 seoTitle: "Roti by d'Tandoor"
 slug: "roti-by-dtandoor"
+hero: "/media/food/roti-by-dtandoor/hero.webp"
+heroAlt: "Curry de butter chicken con pan naan suave en un plato"
+heroCredit: "amirali mirhashemian / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roti-and-meat-slices-with-sauce-on-plate-ZSukCSw5VV4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Roti by d'Tandoor es un restaurante del norte de la India con Bib Gourmand de la MICHELIN Guide, instalado en una casa junto a Jalan Ampang, en Kuala Lumpur. Forma parte de la marca d'Tandoor, que abrió en Malasia en 1990, y cocina platos del norte de la India con recetas familiares; el butter chicken masala, el naan suave y el kulfi figuran entre los platos que MICHELIN destaca."
@@ -30,7 +35,7 @@ faq:
     a: "Ocupa una casa en 82 Jalan Damai, junto a Jalan Ampang, Kuala Lumpur. Pertenece a la marca del norte de la India d'Tandoor, que según la MICHELIN Guide abrió en Malasia en 1990 y desde entonces se ha extendido a otros países."
 
 lang: "es"
-sourceContentHash: "c1e7f9b1a5b52bdd"
+sourceContentHash: "2f3950f174573207"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "Lun–Jue 11:00–15:00 & 18:00–22:30 · Vie–Dom 11:00–22:30"
+  halal: "muslim-owned"
+  service: ["dine-in"]
+  mustOrder: "Butter chicken masala de la casa con naan suave; briyani de jarrete de cordero (lamb shank); kulfi"
+  reviewSummary: "Marca hermana menor del grupo familiar d'Tandoor en un encantador bungaló — elección Bib Gourmand de MICHELIN por su cocina del norte de la India basada en hierbas, especias y recetas familiares, con el butter chicken masala y el naan destacados."
+  website: "https://dtandoor.com"
+  facebook: "https://www.facebook.com/dtandoorofficial"
+  instagram: "https://www.instagram.com/dtandoorofficial"
+  tiktok: "https://www.tiktok.com/@dtandoorofficial"
+  phone: "+60 11-6969 2020"
 sources:
   - title: "Roti by d'Tandoor"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"

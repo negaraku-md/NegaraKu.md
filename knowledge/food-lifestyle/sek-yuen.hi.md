@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: कुआलालंपुर की विरासती कैंटोनीज़ संस्था"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "चमकदार कैंटोनीज़ रोस्ट डक, कटे हुए टुकड़ों में गहरे नमकीन ग्लेज़ के साथ परोसा गया"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "मंगल–रवि 11:00–14:30 & 17:00–21:30 · सोम बंद"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "पिपा (पेई पा) रोस्ट डक; रोस्ट सकलिंग पिग (लगभग 2 दिन पहले ऑर्डर करें); एट-ट्रेज़र डक (Eight-Treasure Duck)"
+  reviewSummary: "1948 से चला आ रहा मोहल्ले का प्रतिष्ठान, तीन सटे हुए दुकान-खंडों में दिल को सुकून देने वाला पुराने ढंग का कैंटोनीज़ खाना परोसता है — लंबे समय से कार्यरत स्टाफ और पिपा डक व रोस्ट सकलिंग पिग जैसे सिग्नेचर व्यंजन।"
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "सटीक वर्तमान MICHELIN संस्करण — नवीनतम MICHELIN Guide Kuala Lumpur & Penang 2026 है (11 November 2025 को घोषित); Bib Gourmand चयन हर वर्ष संशोधित होता है, इसलिए इस पर निर्भर होने से पहले वर्तमान संस्करण के विरुद्ध Sek Yuen की स्थिति दोबारा पुष्टि करें।"
   - "MICHELIN द्वारा बताए गए 1948 के अलावा Sek Yuen की स्थापना की तारीख़ — कुछ विवरण युद्ध-पूर्व मूल का वर्णन करते हैं; 1948 युद्ध के बाद का है, इसलिए 'युद्ध-पूर्व' ढाँचे को अपुष्ट मानें और यदि पहले की तारीख़ प्रयोग की जाए तो किसी प्राथमिक या विरासत स्रोत का हवाला दें।"

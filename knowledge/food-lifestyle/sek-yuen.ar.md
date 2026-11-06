@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: مؤسسة الطعام الكانتوني التراثية في كوالالمبور"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "بطة كانتونية مشوية لامعة، مقطّعة ومقدّمة في صلصة داكنة لذيذة"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "الثلاثاء–الأحد 11:00–14:30 & 17:00–21:30 · مغلق الإثنين"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "بطة مشوية بيبا (بي با)؛ خنزير رضيع مشوي (يُطلب قبل يومين تقريبًا)؛ بطة الكنوز الثمانية (Eight-Treasure Duck)"
+  reviewSummary: "مؤسسة حيّ عريقة منذ عام 1948 تقدّم المطبخ الكانتوني التقليدي الدافئ عبر ثلاثة محلات متجاورة — طاقم عمل عريق وأطباق مميزة مثل بطة البيبا والخنزير الرضيع المشوي."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "الإصدار الحالي الدقيق من MICHELIN — الأحدث هو MICHELIN Guide Kuala Lumpur & Penang 2026 (أُعلن في 11 November 2025)؛ تُراجَع اختيارات Bib Gourmand سنويًا، لذا أعد تأكيد حالة Sek Yuen مقابل الإصدار الحالي قبل الاعتماد عليها."
   - "تاريخ تأسيس Sek Yuen خارج عام 1948 الذي يذكره MICHELIN — تصف بعض الروايات أصلًا يعود إلى ما قبل الحرب؛ وعام 1948 يقع بعد الحرب، لذا اعتبر إطار «ما قبل الحرب» غير مؤكَّد، واستشهد بمصدرٍ أولي أو تراثي إذا استُخدم التاريخ الأقدم."

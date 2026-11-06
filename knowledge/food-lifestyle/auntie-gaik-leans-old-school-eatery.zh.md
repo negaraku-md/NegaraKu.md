@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery：槟城米其林一星土生华人（娘惹）料理"
 seoTitle: "Auntie Gaik Lean's，乔治市"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "娘惹亚参鱼头咖喱，上面撒着芫荽、辣椒和炸葱酥"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery 是一家位于槟城乔治市 Lebuh Bishop 的米其林一星土生华人（娘惹，Peranakan/Nyonya）餐厅。由自学成才的主厨 Beh Gaik Lean 掌舵，以严守的祖传食谱呈献传统娘惹料理，并在 2022 年马来西亚首届米其林评选中首次摘星。"
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "周三–周日 12:00–14:30 & 18:00–21:30 · 周一、周二休息"
+  service: ["dine-in"]
+  mustOrder: "Nasi ulam、pie tee、亚参鱼咖喱（gulai tumis）、otak-otak，以及 bee koh moy"
+  reviewSummary: "坐落于乔治市怀旧老店屋内的米其林一星（One MICHELIN Star）娘惹餐厅，主厨从头烹制传承数十年的家传食谱——分量十足、不走融合路线的娘惹菜，搭配轻松友好的服务。"
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: Institusi Kanton Warisan Kuala Lumpur"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "Bebek panggang Kanton mengilap, diiris dan disajikan dengan saus gelap yang gurih"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "Sel–Min 11:00–14:30 & 17:00–21:30 · tutup Sen"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Bebek panggang pipa (pei pa); babi guling susu (pesan ~2 hari sebelumnya); Bebek Delapan Harta (Eight-Treasure Duck)"
+  reviewSummary: "Institusi lingkungan sejak 1948 yang menyajikan masakan Kanton gaya lama yang menenangkan di tiga ruko bersebelahan — staf yang mengabdi lama dan hidangan khas seperti bebek pipa dan babi guling susunya."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "Edisi MICHELIN terkini yang tepat — yang terbaru adalah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan 11 November 2025); seleksi Bib Gourmand ditinjau setiap tahun, jadi konfirmasikan kembali status Sek Yuen terhadap edisi terkini sebelum mengandalkannya."
   - "Tanggal berdirinya Sek Yuen di luar tahun 1948 yang disebut MICHELIN — beberapa catatan menggambarkan asal-usul sebelum perang; 1948 adalah setelah perang, jadi anggap kerangka 'sebelum perang' itu belum dikonfirmasi dan kutip sumber primer atau warisan jika tanggal yang lebih awal digunakan."

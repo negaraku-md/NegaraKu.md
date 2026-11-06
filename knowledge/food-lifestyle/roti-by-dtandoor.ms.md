@@ -3,6 +3,11 @@ topicId: MY-MICH-0028
 title: "Roti by d'Tandoor: Masakan India Utara Bib Gourmand MICHELIN di KL"
 seoTitle: "Roti by d'Tandoor"
 slug: "roti-by-dtandoor"
+hero: "/media/food/roti-by-dtandoor/hero.webp"
+heroAlt: "Kari butter chicken dengan roti naan lembut di atas pinggan"
+heroCredit: "amirali mirhashemian / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roti-and-meat-slices-with-sauce-on-plate-ZSukCSw5VV4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Roti by d'Tandoor ialah sebuah restoran India Utara Bib Gourmand MICHELIN Guide yang terletak di dalam sebuah rumah berdekatan Jalan Ampang di Kuala Lumpur. Sebagai sebahagian daripada jenama d'Tandoor yang dibuka di Malaysia pada tahun 1990, ia memasak hidangan India Utara berdasarkan resipi keluarga, dengan butter chicken masala, naan yang lembut dan kulfi antara hidangan yang ditonjolkan MICHELIN."
@@ -30,7 +35,7 @@ faq:
     a: "Ia menduduki sebuah rumah di 82 Jalan Damai, berdekatan Jalan Ampang, Kuala Lumpur. Ia milik jenama India Utara d'Tandoor, yang menurut MICHELIN Guide dibuka di Malaysia pada tahun 1990 dan sejak itu berkembang ke negara lain."
 
 lang: "ms"
-sourceContentHash: "c1e7f9b1a5b52bdd"
+sourceContentHash: "2f3950f174573207"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "Isn–Kha 11:00–15:00 & 18:00–22:30 · Jum–Ahd 11:00–22:30"
+  halal: "muslim-owned"
+  service: ["dine-in"]
+  mustOrder: "Butter chicken masala istimewa dengan naan lembut; briyani betis kambing (lamb shank); kulfi"
+  reviewSummary: "Jenama adik kepada kumpulan d'Tandoor milik keluarga dalam sebuah banglo yang mempesona — pilihan Bib Gourmand MICHELIN untuk masakan India Utara yang dibina atas herba, rempah dan resipi keluarga, dengan butter chicken masala dan naan diketengahkan."
+  website: "https://dtandoor.com"
+  facebook: "https://www.facebook.com/dtandoorofficial"
+  instagram: "https://www.instagram.com/dtandoorofficial"
+  tiktok: "https://www.tiktok.com/@dtandoorofficial"
+  phone: "+60 11-6969 2020"
 sources:
   - title: "Roti by d'Tandoor"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"

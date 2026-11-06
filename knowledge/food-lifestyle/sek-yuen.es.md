@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: la institución cantonesa de herencia de Kuala Lumpur"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "Pato asado cantonés brillante, en lonchas y servido con un glaseado oscuro y sabroso"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "mar–dom 11:00–14:30 & 17:00–21:30 · cerrado lun"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Pato asado pipa (pei pa); cochinillo asado (pedir con ~2 días de antelación); pato de los ocho tesoros (Eight-Treasure Duck)"
+  reviewSummary: "Una institución de barrio desde 1948 que sirve reconfortante cocina cantonesa a la antigua en tres locales contiguos: personal de larga trayectoria y especialidades como su pato pipa y el cochinillo asado."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "La edición MICHELIN vigente exacta: la más reciente es la MICHELIN Guide Kuala Lumpur & Penang 2026 (anunciada el 11 November 2025); la selección Bib Gourmand se revisa cada año, así que vuelve a confirmar el estatus de Sek Yuen con la edición vigente antes de fiarte de ello."
   - "La fecha de fundación de Sek Yuen más allá del 1948 que indica MICHELIN: algunos relatos describen un origen anterior a la guerra; 1948 es de posguerra, así que trata el marco de 'antes de la guerra' como no confirmado y cita una fuente primaria o patrimonial si se usa la fecha más temprana."

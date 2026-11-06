@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery: ร้านอาหารเปอรานากันระดับหนึ่งดาวมิชลินในปีนัง"
 seoTitle: "Auntie Gaik Lean's, จอร์จทาวน์"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "แกงหัวปลาอัสสัมสไตล์เปอรานากัน โรยหน้าด้วยผักชี พริก และหอมเจียว"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery เป็นร้านอาหารเปอรานากัน (ย่าหยา) ระดับหนึ่งดาวมิชลิน ตั้งอยู่บนถนน Lebuh Bishop ในจอร์จทาวน์ รัฐปีนัง ดำเนินงานโดยเชฟที่เรียนรู้ด้วยตนเอง Beh Gaik Lean เสิร์ฟอาหารย่าหยาตามตำรับที่เก็บรักษาไว้อย่างหวงแหน และได้ดาวดวงแรกในการคัดเลือกมิชลินครั้งแรกของมาเลเซียเมื่อปี 2022"
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "พ.–อา. 12:00–14:30 & 18:00–21:30 · ปิด จ. & อ."
+  service: ["dine-in"]
+  mustOrder: "Nasi ulam, pie tee, แกงปลาอัสสัม (gulai tumis), otak-otak และ bee koh moy"
+  reviewSummary: "ร้านอาหารเปอรานากัน (Nyonya) ระดับหนึ่งดาวมิชลิน (One MICHELIN Star) ในตึกแถวเก่าสุดคลาสสิกย่านจอร์จทาวน์ ที่เชฟปรุงสูตรอาหารประจำตระกูลอายุหลายสิบปีตั้งแต่ต้น — เมนูนย็อนยาแบบจัดเต็ม ไม่ฟิวชัน พร้อมบริการเป็นกันเองสบาย ๆ"
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

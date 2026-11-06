@@ -3,6 +3,11 @@ topicId: MY-MICH-0028
 title: "Roti by d'Tandoor: KL में MICHELIN Bib Gourmand उत्तर भारतीय"
 seoTitle: "Roti by d'Tandoor"
 slug: "roti-by-dtandoor"
+hero: "/media/food/roti-by-dtandoor/hero.webp"
+heroAlt: "प्लेट में नरम naan ब्रेड के साथ butter chicken करी"
+heroCredit: "amirali mirhashemian / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roti-and-meat-slices-with-sauce-on-plate-ZSukCSw5VV4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Roti by d'Tandoor कुआलालंपुर में Jalan Ampang से थोड़ा हटकर एक घर में स्थित MICHELIN Guide Bib Gourmand उत्तर भारतीय रेस्तराँ है। 1990 में मलेशिया में खुले d'Tandoor ब्रांड का हिस्सा, यह पारिवारिक व्यंजनों पर आधारित उत्तर भारतीय भोजन बनाता है, जिसमें butter chicken masala, मुलायम नान और कुल्फी उन व्यंजनों में हैं जिन्हें MICHELIN रेखांकित करता है।"
@@ -30,7 +35,7 @@ faq:
     a: "यह कुआलालंपुर में Jalan Ampang से थोड़ा हटकर 82 Jalan Damai पर एक घर में है। यह d'Tandoor उत्तर भारतीय ब्रांड से संबंधित है, जो MICHELIN Guide के अनुसार 1990 में मलेशिया में खुला और तब से दूसरे देशों में फैल गया है।"
 
 lang: "hi"
-sourceContentHash: "c1e7f9b1a5b52bdd"
+sourceContentHash: "2f3950f174573207"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "सोम–गुरु 11:00–15:00 & 18:00–22:30 · शुक्र–रवि 11:00–22:30"
+  halal: "muslim-owned"
+  service: ["dine-in"]
+  mustOrder: "सिग्नेचर butter chicken masala नरम naan के साथ; lamb shank briyani; kulfi"
+  reviewSummary: "परिवार द्वारा संचालित d'Tandoor समूह का छोटी बहन जैसा ब्रांड, एक आकर्षक बंगले में — जड़ी-बूटियों, मसालों और पारिवारिक रेसिपी पर आधारित उत्तर भारतीय खाने के लिए MICHELIN की Bib Gourmand पसंद, जिसमें butter chicken masala और naan को खास तौर पर सराहा गया है।"
+  website: "https://dtandoor.com"
+  facebook: "https://www.facebook.com/dtandoorofficial"
+  instagram: "https://www.instagram.com/dtandoorofficial"
+  tiktok: "https://www.tiktok.com/@dtandoorofficial"
+  phone: "+60 11-6969 2020"
 sources:
   - title: "Roti by d'Tandoor"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"

@@ -39,6 +39,19 @@ reviewer: "ashton-tan"
 reviewed: 2026-11-06
 revision: 0
 updated: 2026-11-06
+place:
+  address: "48F, Skyviews, Naza Tower, Platinum Park, 10 Persiaran KLCC, 50088 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Dewakan%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Dewakan%2C%20Kuala%20Lumpur"
+  priceRange: "RM 870 (tasting menu) · MICHELIN $$$$"
+  hours: "周一至周六 18:00–23:30 · 周日休息"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Dewakan 套餐式品鉴菜单——食材本地采购，多数在店内自行发酵或干式熟成"
+  reviewSummary: "指南指出这是一份极具马来西亚特色的品鉴菜单，位于48楼，可将城市景观尽收眼底——每一种食材皆本地采购，大多在店内自行发酵或干式熟成，盛于手工制作的本地餐具之上。"
+  website: "https://www.dewakan.my"
+  instagram: "https://www.instagram.com/dewakanmy/"
+  phone: "+60 12-789 6720"
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/dewakan"

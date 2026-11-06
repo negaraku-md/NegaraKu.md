@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery: பினாங்கில் ஒரு-MICHELIN-நட்சத்திர பெரானாக்கான் உணவகம்"
 seoTitle: "Auntie Gaik Lean's, ஜார்ஜ் டவுன்"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "கொத்தமல்லி, மிளகாய் மற்றும் வறுத்த வெங்காயத்துடன் மேலே அலங்கரிக்கப்பட்ட பெரானாக்கான் assam மீன் தலை கறி"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery என்பது பினாங்கின் ஜார்ஜ் டவுனில் உள்ள Lebuh Bishop-இல் அமைந்த ஒரு-MICHELIN-நட்சத்திர பெரானாக்கான் (நோன்யா) உணவகம். சுயமாகக் கற்ற சமையல்கலைஞர் Beh Gaik Lean நடத்தும் இந்த உணவகம், கறாராகக் காக்கப்படும் சமையல் குறிப்புகளின்படி பாரம்பரிய நோன்யா உணவுகளை வழங்குகிறது; 2022 ஆம் ஆண்டின் மலேசியாவின் முதல் MICHELIN தேர்வில் முதல் நட்சத்திரம் பெற்றது."
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "புத–ஞாயி 12:00–14:30 & 18:00–21:30 · திங் & செவ் மூடப்பட்டிருக்கும்"
+  service: ["dine-in"]
+  mustOrder: "Nasi ulam, pie tee, assam மீன் கறி (gulai tumis), otak-otak, மற்றும் bee koh moy"
+  reviewSummary: "ஜோர்ஜ் டவுனின் நினைவூட்டும் பழைய கடை வீட்டில் அமைந்த ஒரு மிச்செலின் நட்சத்திர (One MICHELIN Star) பெரானாக்கான் உணவகம்; இங்கு சமையல்காரர் பல பத்தாண்டுகள் பழமையான குடும்ப செய்முறைகளை அடிப்படையிலிருந்து சமைக்கிறார் — தாராளமான, கலப்பில்லாத நியோன்யா உணவுகள், நிதானமான, நட்பான சேவையுடன்."
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

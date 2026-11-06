@@ -3,6 +3,11 @@ topicId: MY-MICH-0028
 title: "Roti by d'Tandoor：吉隆坡的 MICHELIN Bib Gourmand 北印度餐厅"
 seoTitle: "Roti by d'Tandoor"
 slug: "roti-by-dtandoor"
+hero: "/media/food/roti-by-dtandoor/hero.webp"
+heroAlt: "盘中盛着 butter chicken 咖喱配松软的 naan 面饼"
+heroCredit: "amirali mirhashemian / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roti-and-meat-slices-with-sauce-on-plate-ZSukCSw5VV4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Roti by d'Tandoor 是吉隆坡 Jalan Ampang 旁一栋住宅内的 MICHELIN Guide Bib Gourmand 北印度餐厅。它隶属于 1990 年在马来西亚开业的 d'Tandoor 品牌，以家传食谱烹制北印度菜肴，MICHELIN 点名的菜式包括 butter chicken masala、柔软的 naan 与 kulfi。"
@@ -30,7 +35,7 @@ faq:
     a: "它坐落在吉隆坡 Jalan Ampang 旁、82 Jalan Damai 的一栋住宅内。它隶属于 d'Tandoor 北印度品牌，MICHELIN Guide 指该品牌于 1990 年在马来西亚开业，此后已拓展至其他国家。"
 
 lang: "zh"
-sourceContentHash: "c1e7f9b1a5b52bdd"
+sourceContentHash: "2f3950f174573207"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "周一–周四 11:00–15:00 & 18:00–22:30 · 周五–周日 11:00–22:30"
+  halal: "muslim-owned"
+  service: ["dine-in"]
+  mustOrder: "招牌 butter chicken masala 配软 naan；羊腱 briyani；kulfi"
+  reviewSummary: "家族经营的 d'Tandoor 集团旗下的妹妹品牌，坐落于一栋迷人的平房——MICHELIN 必比登推介（Bib Gourmand）所选的北印度料理，以香草、香料和家传食谱为根基，其中 butter chicken masala 和 naan 尤为出众。"
+  website: "https://dtandoor.com"
+  facebook: "https://www.facebook.com/dtandoorofficial"
+  instagram: "https://www.instagram.com/dtandoorofficial"
+  tiktok: "https://www.tiktok.com/@dtandoorofficial"
+  phone: "+60 11-6969 2020"
 sources:
   - title: "Roti by d'Tandoor"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"

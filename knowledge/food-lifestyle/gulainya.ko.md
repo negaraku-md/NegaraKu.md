@@ -5,7 +5,7 @@ slug: "gulainya"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
-sourceContentHash: "508e444c18b01819"
+sourceContentHash: "4caedcdc4a962ae8"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -39,6 +39,17 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "creamy basil chicken"
 updated: 2026-11-06
+place:
+  address: "44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "화–일 11:00–15:00 & 17:00–21:30 · 월 휴무"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "크리미 바질 뼈 없는 치킨"
+  reviewSummary: "주인의 가족 레시피와 가장 신선한 현지 식재료로 만든 꾸밈없는 가정식을 선보이는 뛰어난 페라나칸(Peranakan) 레스토랑으로, 선선한 밤에는 야외 식사도 즐길 수 있습니다."
+  phone: "+60 14-392 7868"
 sources:
   - title: "Gulainya"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/gulainya"

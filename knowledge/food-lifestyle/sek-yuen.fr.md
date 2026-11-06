@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen : l'institution cantonaise patrimoniale de Kuala Lumpur"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "Canard rôti cantonais luisant, tranché et servi dans un glaçage sombre et savoureux"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "mar.–dim. 11:00–14:30 & 17:00–21:30 · fermé lun."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Canard rôti pipa (pei pa) ; cochon de lait rôti (à commander ~2 jours à l'avance) ; canard aux huit trésors (Eight-Treasure Duck)"
+  reviewSummary: "Une institution de quartier depuis 1948 qui sert une cuisine cantonaise réconfortante à l'ancienne dans trois boutiques contiguës — un personnel fidèle de longue date et des spécialités comme son canard pipa et son cochon de lait rôti."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "L'édition MICHELIN en vigueur exacte — la plus récente est le MICHELIN Guide Kuala Lumpur & Penang 2026 (annoncé le 11 November 2025) ; la sélection Bib Gourmand est révisée chaque année, aussi reconfirmez le statut de Sek Yuen par rapport à l'édition en vigueur avant de vous y fier."
   - "La date de fondation de Sek Yuen au-delà de 1948 indiquée par MICHELIN — certains récits décrivent une origine d'avant-guerre ; 1948 est d'après-guerre, aussi considérez le cadre « d'avant-guerre » comme non confirmé et citez une source primaire ou patrimoniale si la date plus ancienne est utilisée."

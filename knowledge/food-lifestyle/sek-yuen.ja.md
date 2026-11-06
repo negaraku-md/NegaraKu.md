@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen：クアラルンプールの老舗広東料理の名店"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "照りのある広東式ローストダックを薄切りにし、濃い旨みのたれをまとわせて提供"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "火–日 11:00–14:30 & 17:00–21:30 · 月休み"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "ピパ（琵琶）ローストダック；子豚の丸焼き（約2日前に予約）；八宝鴨"
+  reviewSummary: "1948年創業の地元に根ざした名店で、隣り合う3軒の店舗で心温まる昔ながらの広東料理を提供——長年勤めるスタッフと、琵琶ダックや子豚の丸焼きといった看板料理が自慢。"
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "正確な現行 MICHELIN 版——最新は MICHELIN Guide Kuala Lumpur & Penang 2026（2025年11月11日発表）です。Bib Gourmand の選出は毎年見直されるため、依拠する前に現行版で Sek Yuen の状態を再確認してください。"
   - "MICHELIN が記す1948年を超える Sek Yuen の創業時期——戦前の起源を語る説もありますが、1948年は戦後であり、「戦前」という枠組みは未確認とみなし、より早い年代を用いる場合は一次資料または遺産関連の資料を引用してください。"

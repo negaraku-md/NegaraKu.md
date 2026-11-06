@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: Institusi Kantonis Warisan Kuala Lumpur"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "Itik panggang Kantonis berkilat, dihiris dan dihidang dengan glais gelap yang gurih"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "Sel–Ahad 11:00–14:30 & 17:00–21:30 · tutup Isn"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Itik panggang pipa (pei pa); anak babi panggang (tempah ~2 hari lebih awal); Itik Lapan Permata (Eight-Treasure Duck)"
+  reviewSummary: "Institusi kejiranan sejak 1948 yang menyajikan masakan Kantonis bergaya lama yang menyelesakan merentasi tiga lot kedai bersebelahan — kakitangan lama dan hidangan istimewa seperti itik pipa dan anak babi panggangnya."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "Edisi MICHELIN semasa yang tepat — yang terkini ialah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan pada 11 November 2025); pilihan Bib Gourmand disemak setiap tahun, jadi sahkan semula status Sek Yuen berdasarkan edisi semasa sebelum bergantung padanya."
   - "Tarikh penubuhan Sek Yuen di luar tahun 1948 yang dinyatakan MICHELIN — sesetengah catatan menggambarkan asal usul sebelum perang; 1948 ialah selepas perang, jadi anggap kerangka 'sebelum perang' itu sebagai belum disahkan dan petik sumber primer atau warisan jika tarikh lebih awal itu digunakan."

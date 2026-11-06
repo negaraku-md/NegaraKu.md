@@ -38,6 +38,17 @@ keywords:
   - "MICHELIN Guide Kuala Lumpur"
   - "creamy basil chicken"
 updated: 2026-11-06
+place:
+  address: "44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Gulainya%2C%20Bukit%20Damansara%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "Tue–Sun 11:00–15:00 & 17:00–21:30 · closed Mon"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Creamy basil boneless chicken"
+  reviewSummary: "A standout Peranakan spot serving no-frills, home-style dishes built on the owner's family recipes and the freshest local produce, with alfresco dining on balmy nights."
+  phone: "+60 14-392 7868"
 sources:
   - title: "Gulainya"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/gulainya"

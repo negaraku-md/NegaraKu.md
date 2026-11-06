@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery: Santap Peranakan Berbintang Satu MICHELIN di Penang"
 seoTitle: "Auntie Gaik Lean's, George Town"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "Kari kepala ikan asam khas Peranakan bertabur daun ketumbar, cabai, dan bawang goreng"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery adalah restoran Peranakan (Nyonya) berbintang satu MICHELIN di Lebuh Bishop, George Town, Penang. Dikelola oleh koki otodidak Beh Gaik Lean, restoran ini menyajikan hidangan warisan Nyonya dari resep yang dijaga ketat dan pertama kali meraih bintang dalam seleksi MICHELIN perdana Malaysia pada 2022."
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "Rab–Min 12:00–14:30 & 18:00–21:30 · tutup Sen & Sel"
+  service: ["dine-in"]
+  mustOrder: "Nasi ulam, pie tee, kari ikan asam (gulai tumis), otak-otak, dan bee koh moy"
+  reviewSummary: "Rumah makan Peranakan bintang satu MICHELIN (One MICHELIN Star) di ruko nostalgik kawasan George Town, tempat sang koki memasak resep keluarga berusia puluhan tahun dari awal — sajian Nyonya yang berlimpah tanpa fusion, dengan layanan santai dan ramah."
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

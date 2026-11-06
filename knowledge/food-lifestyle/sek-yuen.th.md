@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: สถาบันอาหารกวางตุ้งอันเป็นมรดกของกัวลาลัมเปอร์"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "เป็ดย่างกวางตุ้งเงางาม หั่นชิ้นและราดซอสเคลือบสีเข้มรสกลมกล่อม"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "อ.–อา. 11:00–14:30 & 17:00–21:30 · ปิด จ."
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "เป็ดย่างพีผา (เผ่ยผา); ลูกหมูหันย่าง (สั่งล่วงหน้าประมาณ 2 วัน); เป็ดแปดเซียน (Eight-Treasure Duck)"
+  reviewSummary: "ร้านเก่าแก่ประจำย่านตั้งแต่ปี 1948 เสิร์ฟอาหารกวางตุ้งสไตล์ดั้งเดิมที่อบอุ่นใจในสามคูหาที่อยู่ติดกัน — พนักงานที่ทำงานมายาวนานและเมนูขึ้นชื่ออย่างเป็ดพีผาและลูกหมูหันย่าง"
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "ฉบับ MICHELIN ปัจจุบันที่แน่นอน — ฉบับล่าสุดคือ MICHELIN Guide Kuala Lumpur & Penang 2026 (ประกาศเมื่อ 11 November 2025) การคัดเลือก Bib Gourmand มีการปรับปรุงทุกปี จึงควรยืนยันสถานะของ Sek Yuen กับฉบับปัจจุบันก่อนเชื่อถือ"
   - "วันก่อตั้งของ Sek Yuen นอกเหนือจากปี 1948 ที่ MICHELIN ระบุ — บางเรื่องเล่าบรรยายถึงต้นกำเนิดยุคก่อนสงคราม ปี 1948 เป็นยุคหลังสงคราม จึงควรถือว่ากรอบ 'ก่อนสงคราม' ยังไม่ได้รับการยืนยัน และอ้างอิงแหล่งข้อมูลปฐมภูมิหรือด้านมรดกหากใช้วันที่เก่ากว่านั้น"

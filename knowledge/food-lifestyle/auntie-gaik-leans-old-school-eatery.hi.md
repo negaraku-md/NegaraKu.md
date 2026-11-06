@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery: पिनांग में एक-MICHELIN-स्टार पेरानाकन डाइनिंग"
 seoTitle: "Auntie Gaik Lean's, जॉर्ज टाउन"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "धनिया, मिर्च और तली हुई प्याज़ से सजी पेरानाकन अस्सम मछली-सिर करी"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery पिनांग के जॉर्ज टाउन में Lebuh Bishop पर स्थित एक-MICHELIN-स्टार पेरानाकन (न्योन्या) रेस्तराँ है। स्वयं-सिखी शेफ Beh Gaik Lean द्वारा संचालित यह रेस्तराँ कड़ाई से संरक्षित विधियों से विरासती न्योन्या व्यंजन परोसता है, और इसे 2022 में मलेशिया के पहले MICHELIN चयन में पहला स्टार मिला।"
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "बुध–रवि 12:00–14:30 & 18:00–21:30 · सोम व मंगल बंद"
+  service: ["dine-in"]
+  mustOrder: "Nasi ulam, pie tee, assam मछली करी (gulai tumis), otak-otak, और bee koh moy"
+  reviewSummary: "जॉर्ज टाउन के एक पुरानी यादों वाले शॉपहाउस में स्थित वन मिशेलिन स्टार (One MICHELIN Star) पेरानाकन भोजनालय, जहाँ शेफ दशकों पुरानी पारिवारिक रेसिपी शुरू से बनाते हैं — भरपूर, बिना फ्यूज़न वाले न्योन्या व्यंजन, आरामदेह और मिलनसार सेवा के साथ।"
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

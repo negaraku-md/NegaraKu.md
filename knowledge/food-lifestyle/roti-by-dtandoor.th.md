@@ -3,6 +3,11 @@ topicId: MY-MICH-0028
 title: "Roti by d'Tandoor: อาหารอินเดียเหนือ MICHELIN Bib Gourmand ใน KL"
 seoTitle: "Roti by d'Tandoor"
 slug: "roti-by-dtandoor"
+hero: "/media/food/roti-by-dtandoor/hero.webp"
+heroAlt: "แกงกะหรี่ butter chicken กับแผ่น naan นุ่ม ๆ บนจาน"
+heroCredit: "amirali mirhashemian / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roti-and-meat-slices-with-sauce-on-plate-ZSukCSw5VV4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Roti by d'Tandoor เป็นร้านอาหารอินเดียเหนือระดับ MICHELIN Guide Bib Gourmand ที่ตั้งอยู่ในบ้านหลังหนึ่งใกล้ Jalan Ampang ในกัวลาลัมเปอร์ เป็นส่วนหนึ่งของแบรนด์ d'Tandoor ที่เปิดในมาเลเซียเมื่อปี 1990 ปรุงอาหารอินเดียเหนือตามสูตรครอบครัว โดยมี butter chicken masala, naan นุ่ม และ kulfi อยู่ในบรรดาเมนูที่ MICHELIN ชู"
@@ -30,7 +35,7 @@ faq:
     a: "ร้านตั้งอยู่ในบ้านที่ 82 Jalan Damai ใกล้ Jalan Ampang กัวลาลัมเปอร์ เป็นของแบรนด์อินเดียเหนือ d'Tandoor ซึ่ง MICHELIN Guide ระบุว่าเปิดในมาเลเซียเมื่อปี 1990 และต่อมาได้ขยายไปยังประเทศอื่น ๆ"
 
 lang: "th"
-sourceContentHash: "c1e7f9b1a5b52bdd"
+sourceContentHash: "2f3950f174573207"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "จ.–พฤ. 11:00–15:00 & 18:00–22:30 · ศ.–อา. 11:00–22:30"
+  halal: "muslim-owned"
+  service: ["dine-in"]
+  mustOrder: "butter chicken masala สูตรเด็ดกับ naan นุ่ม ๆ, briyani น่องแกะ (lamb shank), kulfi"
+  reviewSummary: "แบรนด์น้องสาวของกลุ่ม d'Tandoor ที่บริหารแบบครอบครัว ตั้งอยู่ในบังกะโลสุดมีเสน่ห์ — ตัวเลือก Bib Gourmand ของ MICHELIN สำหรับอาหารอินเดียเหนือที่สร้างจากสมุนไพร เครื่องเทศ และสูตรประจำครอบครัว โดยมี butter chicken masala และ naan เป็นจานเด่น"
+  website: "https://dtandoor.com"
+  facebook: "https://www.facebook.com/dtandoorofficial"
+  instagram: "https://www.instagram.com/dtandoorofficial"
+  tiktok: "https://www.tiktok.com/@dtandoorofficial"
+  phone: "+60 11-6969 2020"
 sources:
   - title: "Roti by d'Tandoor"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"

@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen：吉隆坡的传统粤菜老字号"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "油亮的粤式烤鸭，切片后浇上深色咸香酱汁上桌"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "周二–周日 11:00–14:30 & 17:00–21:30 · 周一休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "琵琶鸭；烤乳猪（请提前约2天预订）；八宝鸭"
+  reviewSummary: "自1948年起的街坊老字号，在三间相连的店铺里供应抚慰人心的老派粤菜——资深员工与招牌菜如琵琶鸭和烤乳猪。"
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "确切的 MICHELIN 当前版本——最新的是 MICHELIN Guide Kuala Lumpur & Penang 2026（于2025年11月11日公布）；Bib Gourmand 精选每年修订，因此在依据之前，请对照当前版本重新确认 Sek Yuen 的状态。"
   - "Sek Yuen 在 MICHELIN 所述1948年之外的创立日期——有些说法描述其战前起源；1948年属于战后，因此请将「战前」的说法视为未经证实，若采用更早的日期，请引用原始或遗产来源。"

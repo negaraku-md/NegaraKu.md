@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery: Nhà hàng Peranakan một sao MICHELIN ở Penang"
 seoTitle: "Auntie Gaik Lean's, George Town"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "Cà ri đầu cá assam kiểu Peranakan rắc rau mùi, ớt và hành phi"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery là nhà hàng Peranakan (Nyonya) một sao MICHELIN nằm trên đường Lebuh Bishop ở George Town, Penang. Do đầu bếp tự học Beh Gaik Lean điều hành, nhà hàng phục vụ các món Nyonya truyền thống theo những công thức được gìn giữ kỹ lưỡng, và lần đầu được trao sao trong đợt tuyển chọn MICHELIN đầu tiên của Malaysia năm 2022."
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "T4–CN 12:00–14:30 & 18:00–21:30 · đóng cửa T2 & T3"
+  service: ["dine-in"]
+  mustOrder: "Nasi ulam, pie tee, cà ri cá assam (gulai tumis), otak-otak và bee koh moy"
+  reviewSummary: "Nhà hàng Peranakan đạt một sao MICHELIN (One MICHELIN Star) trong căn nhà phố cổ đậm chất hoài niệm ở George Town, nơi đầu bếp nấu những công thức gia truyền hàng chục năm tuổi từ đầu — các món Nyonya hào phóng, không pha trộn, cùng phong cách phục vụ thoải mái và thân thiện."
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

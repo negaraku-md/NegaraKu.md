@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery: مطعم بيرانكان حائز على نجمة MICHELIN واحدة في بينانغ"
 seoTitle: "Auntie Gaik Lean's، جورج تاون"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "كاري رأس السمك بالأسام على الطريقة البيراناكانية، مزيّن بالكزبرة والفلفل الحار والبصل المقلي"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery مطعم بيرانكان (نيونيا) حائز على نجمة MICHELIN واحدة يقع في شارع Lebuh Bishop في جورج تاون، بينانغ. تديره الطاهية العصامية Beh Gaik Lean، ويقدّم أطباق نيونيا التراثية وفق وصفات محفوظة بعناية، وقد نال نجمته الأولى في أول اختيار لدليل MICHELIN في ماليزيا عام 2022."
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "الأربعاء–الأحد 12:00–14:30 & 18:00–21:30 · مغلق الإثنين والثلاثاء"
+  service: ["dine-in"]
+  mustOrder: "ناسي أولام (nasi ulam)، باي تي (pie tee)، كاري السمك بالأسام (gulai tumis)، أوتا-أوتا (otak-otak)، وبي كوه موي (bee koh moy)"
+  reviewSummary: "مطعم بيراناكان حائز على نجمة ميشلان واحدة (One MICHELIN Star) داخل محل تجاري قديم يفيض بالحنين في جورج تاون، حيث يطهو الطاهي وصفات العائلة التي يعود عمرها لعقود من الصفر — أطباق نيونيا سخية بلا دمج، مع خدمة ودودة ومريحة."
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0010
 title: "Auntie Gaik Lean's Old School Eatery：ペナンのミシュラン一つ星プラナカン料理"
 seoTitle: "Auntie Gaik Lean's、ジョージタウン"
 slug: "auntie-gaik-leans-old-school-eatery"
+hero: "/media/food/auntie-gaik-leans-old-school-eatery/hero.webp"
+heroAlt: "パクチー、唐辛子、フライドエシャロットをのせたプラナカンのアッサム魚頭カレー"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fish_head_curry_peranakan_z.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Auntie Gaik Lean's Old School Eatery は、ペナン州ジョージタウンの Lebuh Bishop にあるミシュラン一つ星のプラナカン（ニョニャ）料理店。独学のシェフ Beh Gaik Lean が切り盛りし、固く守られたレシピによる伝統的なニョニャ料理を供する。2022 年のマレーシア初のミシュラン選出で初めて星を獲得した。"
@@ -44,6 +49,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "1 Lebuh Bishop (Bishop Street), George Town, 10200 Penang"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Auntie%20Gaik%20Lean%27s%20Old%20School%20Eatery%2C%20George%20Town%2C%20Penang"
+  priceRange: "MICHELIN $$"
+  hours: "水〜日 12:00–14:30 & 18:00–21:30 · 月・火 休業"
+  service: ["dine-in"]
+  mustOrder: "ナシ・ウラム（nasi ulam）、ピーティー（pie tee）、アッサム・フィッシュカレー（gulai tumis）、オタオタ（otak-otak）、ビーコーモイ（bee koh moy）"
+  reviewSummary: "ジョージタウンの懐かしいショップハウスにあるミシュラン一つ星（One MICHELIN Star）のプラナカン料理店。シェフが数十年来の家庭のレシピを一から手がける——フュージョンなしのボリューム満点のニョニャ料理を、くつろいだ親しみやすいサービスとともに。"
+  phone: "+60 17-434 4398"
 sources:
   - title: "Auntie Gaik Lean's Old School Eatery"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/auntie-gaik-lean-s-old-school-eatery"

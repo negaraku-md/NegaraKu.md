@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: Thành trì ẩm thực Quảng Đông di sản của Kuala Lumpur"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "Vịt quay Quảng Đông bóng bẩy, thái lát và bày với lớp sốt nâu đậm đà mặn mà"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "Th3–CN 11:00–14:30 & 17:00–21:30 · đóng cửa Th2"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Vịt quay tỳ bà (pei pa); heo sữa quay (đặt trước khoảng 2 ngày); Vịt bát bửu (Eight-Treasure Duck)"
+  reviewSummary: "Một địa chỉ quen thuộc của khu phố từ năm 1948, phục vụ món Quảng Đông kiểu xưa ấm lòng trong ba căn nhà phố liền kề — đội ngũ nhân viên gắn bó lâu năm cùng các món signature như vịt tỳ bà và heo sữa quay."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "Ấn bản MICHELIN hiện hành chính xác — ấn bản mới nhất là MICHELIN Guide Kuala Lumpur & Penang 2026 (công bố ngày 11 November 2025); tuyển chọn Bib Gourmand được rà soát hằng năm, vì vậy hãy xác nhận lại tình trạng của Sek Yuen với ấn bản hiện hành trước khi dựa vào nó."
   - "Ngày thành lập của Sek Yuen ngoài năm 1948 mà MICHELIN nêu — một số tư liệu mô tả nguồn gốc trước chiến tranh; năm 1948 là sau chiến tranh, vì vậy hãy xem cách diễn giải 'trước chiến tranh' là chưa được xác nhận và trích dẫn nguồn sơ cấp hoặc nguồn di sản nếu dùng mốc thời gian sớm hơn."

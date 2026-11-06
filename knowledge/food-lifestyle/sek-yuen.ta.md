@@ -2,10 +2,15 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: கோலாலம்பூரின் பாரம்பரிய கான்டனீஸ் உணவக நிறுவனம்"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "பளபளப்பான கான்டனீஸ் வறுத்த வாத்து, துண்டுகளாக வெட்டப்பட்டு அடர் உப்புச் சுவை குழம்பில் பரிமாறப்படுகிறது"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
-sourceContentHash: "28fd4ae0db39f542"
+sourceContentHash: "3dfca489a6aca46e"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "செவ்–ஞாயி 11:00–14:30 & 17:00–21:30 · திங் மூடல்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "பிபா (பெய் பா) வறுத்த வாத்து; வறுத்த பாலூட்டி பன்றிக்குட்டி (சுமார் 2 நாட்கள் முன்பே ஆர்டர் செய்யவும்); எட்டு-பொக்கிஷ வாத்து (Eight-Treasure Duck)"
+  reviewSummary: "1948 முதல் இயங்கும் அக்கம்பக்க நிறுவனம், மூன்று அருகருகே உள்ள கடை இடங்களில் ஆறுதலான, பழமையான கான்டனீஸ் சமையலை வழங்குகிறது — நீண்டகால ஊழியர்களும், அதன் பிபா வாத்து மற்றும் வறுத்த பாலூட்டி பன்றிக்குட்டி போன்ற சிறப்பு உணவுகளும்."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "சரியான தற்போதைய MICHELIN பதிப்பு — சமீபத்தியது MICHELIN Guide Kuala Lumpur & Penang 2026 (2025 நவம்பர் 11 அன்று அறிவிக்கப்பட்டது); Bib Gourmand தேர்வு ஆண்டுதோறும் திருத்தப்படுகிறது, எனவே நம்பியிருப்பதற்கு முன் தற்போதைய பதிப்பை வைத்து Sek Yuen-இன் நிலையை மீண்டும் உறுதிப்படுத்துங்கள்."
   - "MICHELIN கூறும் 1948-க்கு அப்பால் Sek Yuen-இன் நிறுவப்பட்ட தேதி — சில விவரணைகள் போருக்கு முந்தைய தோற்றத்தை விவரிக்கின்றன; 1948 என்பது போருக்குப் பிந்தையது, எனவே 'போருக்கு முந்தைய' என்ற கட்டமைப்பை உறுதிப்படுத்தப்படாததாகக் கருதுங்கள், முந்தைய தேதி பயன்படுத்தப்பட்டால் முதன்மை அல்லது பாரம்பரிய மூலத்தை மேற்கோள் காட்டுங்கள்."

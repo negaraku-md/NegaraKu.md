@@ -3,6 +3,11 @@ topicId: MY-MICH-0028
 title: "Roti by d'Tandoor: KL의 MICHELIN Bib Gourmand 북인도 요리"
 seoTitle: "Roti by d'Tandoor"
 slug: "roti-by-dtandoor"
+hero: "/media/food/roti-by-dtandoor/hero.webp"
+heroAlt: "접시에 담긴 butter chicken 커리와 부드러운 naan 빵"
+heroCredit: "amirali mirhashemian / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roti-and-meat-slices-with-sauce-on-plate-ZSukCSw5VV4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Roti by d'Tandoor는 쿠알라룸푸르 Jalan Ampang에서 살짝 들어간 주택에 자리한 MICHELIN Guide Bib Gourmand 북인도 요리점이다. 1990년 말레이시아에서 문을 연 d'Tandoor 브랜드의 일원으로, 가족 전래 레시피에 바탕을 둔 북인도 요리를 선보이며, MICHELIN은 버터 치킨 마살라, 부드러운 naan, kulfi 등을 꼽는다."
@@ -30,7 +35,7 @@ faq:
     a: "쿠알라룸푸르 Jalan Ampang에서 살짝 들어간 82 Jalan Damai의 주택에 자리합니다. d'Tandoor 북인도 브랜드에 속하며, MICHELIN Guide에 따르면 이 브랜드는 1990년 말레이시아에서 문을 연 뒤 다른 나라들로도 퍼졌습니다."
 
 lang: "ko"
-sourceContentHash: "c1e7f9b1a5b52bdd"
+sourceContentHash: "2f3950f174573207"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "월–목 11:00–15:00 & 18:00–22:30 · 금–일 11:00–22:30"
+  halal: "muslim-owned"
+  service: ["dine-in"]
+  mustOrder: "대표 메뉴 butter chicken masala와 부드러운 naan, 양정강이(lamb shank) briyani, kulfi"
+  reviewSummary: "가족이 운영하는 d'Tandoor 그룹의 동생 격 브랜드로, 운치 있는 방갈로에 자리한다 — 허브와 향신료, 집안 대대로 내려온 레시피에 바탕을 둔 북인도 요리로 MICHELIN 빕 구르망(Bib Gourmand)에 선정되었으며, 특히 butter chicken masala와 naan이 호평받았다."
+  website: "https://dtandoor.com"
+  facebook: "https://www.facebook.com/dtandoorofficial"
+  instagram: "https://www.instagram.com/dtandoorofficial"
+  tiktok: "https://www.tiktok.com/@dtandoorofficial"
+  phone: "+60 11-6969 2020"
 sources:
   - title: "Roti by d'Tandoor"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0028
 title: "Roti by d'Tandoor: KL-இல் MICHELIN Bib Gourmand வட இந்திய உணவகம்"
 seoTitle: "Roti by d'Tandoor"
 slug: "roti-by-dtandoor"
+hero: "/media/food/roti-by-dtandoor/hero.webp"
+heroAlt: "தட்டில் மென்மையான naan ரொட்டியுடன் butter chicken கறி"
+heroCredit: "amirali mirhashemian / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roti-and-meat-slices-with-sauce-on-plate-ZSukCSw5VV4"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Roti by d'Tandoor என்பது கோலாலம்பூர், Jalan Ampang-க்கு அருகில் ஒரு வீட்டில் அமைந்துள்ள MICHELIN Guide Bib Gourmand வட இந்திய உணவகம். 1990-இல் மலேசியாவில் தொடங்கிய d'Tandoor பிராண்டின் ஒரு பகுதியான இது, குடும்ப சமையல்குறிப்புகளின் அடிப்படையிலான வட இந்திய உணவுகளை சமைக்கிறது; butter chicken masala, மென்மையான naan, kulfi ஆகியவை MICHELIN சிறப்பித்துக் காட்டும் உணவுகளுள் அடங்கும்."
@@ -30,7 +35,7 @@ faq:
     a: "இது கோலாலம்பூர், Jalan Ampang-க்கு அருகில், 82 Jalan Damai-இல் உள்ள ஒரு வீட்டில் அமைந்துள்ளது. இது d'Tandoor வட இந்திய பிராண்டைச் சேர்ந்தது; அந்தப் பிராண்ட் 1990-இல் மலேசியாவில் தொடங்கி, அதன்பின் பிற நாடுகளுக்கும் பரவியதாக MICHELIN Guide கூறுகிறது."
 
 lang: "ta"
-sourceContentHash: "c1e7f9b1a5b52bdd"
+sourceContentHash: "2f3950f174573207"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
@@ -44,6 +49,21 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "82, Jalan Damai, Off Jalan Ampang, Kampung Datuk Keramat, 55000 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Roti%20by%20d%27Tandoor%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "திங்–வியா 11:00–15:00 & 18:00–22:30 · வெள்–ஞாயி 11:00–22:30"
+  halal: "muslim-owned"
+  service: ["dine-in"]
+  mustOrder: "சிறப்பு butter chicken masala மென்மையான naan உடன்; ஆட்டுக்கால் (lamb shank) briyani; kulfi"
+  reviewSummary: "குடும்பம் நடத்தும் d'Tandoor குழுமத்தின் இளைய சகோதரி பிராண்ட், அழகான ஒரு பங்களாவில் — மூலிகைகள், மசாலாப் பொருட்கள் மற்றும் குடும்ப சமையல் குறிப்புகளின் அடிப்படையில் அமைந்த வட இந்திய சமையலுக்கான MICHELIN இன் Bib Gourmand தேர்வு; butter chicken masala மற்றும் naan தனித்து சிறப்பிக்கப்படுகின்றன."
+  website: "https://dtandoor.com"
+  facebook: "https://www.facebook.com/dtandoorofficial"
+  instagram: "https://www.instagram.com/dtandoorofficial"
+  tiktok: "https://www.tiktok.com/@dtandoorofficial"
+  phone: "+60 11-6969 2020"
 sources:
   - title: "Roti by d'Tandoor"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/roti-by-d-tandoor"

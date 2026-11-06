@@ -2,6 +2,11 @@
 topicId: MY-MICH-0022
 title: "Sek Yuen: Kuala Lumpur's Heritage Cantonese Institution"
 slug: "sek-yuen"
+hero: "/media/food/sek-yuen/hero.webp"
+heroAlt: "Glossy Cantonese roast duck, sliced and served in a dark savoury glaze"
+heroCredit: "Solomon203 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:9_pieces_of_roast_duck_at_Plum_Blossom_Room_20230125.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -46,6 +51,19 @@ sources:
     publisher: "MICHELIN Guide"
     date: "2023-11-08"
 updated: 2026-11-06
+place:
+  nativeName: "适苑酒家"
+  address: "313, Jalan Pudu, Pudu, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sek%20Yuen%20Restaurant%2C%20Kuala%20Lumpur"
+  priceRange: "MICHELIN $$"
+  hours: "Tue–Sun 11:00–14:30 & 17:00–21:30 · closed Mon"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Pipa (pei pa) roast duck; roast suckling pig (order ~2 days ahead); Eight-Treasure Duck"
+  reviewSummary: "A neighbourhood institution since 1948 serving comforting, old-school Cantonese cooking across three adjacent shoplots — long-tenured staff and signatures like its pipa duck and roast suckling pig."
+  facebook: "https://www.facebook.com/restaurantsekyuen"
+  phone: "+60 3-9222 9457"
 verificationNeeded:
   - "The exact current MICHELIN edition — the latest is the MICHELIN Guide Kuala Lumpur & Penang 2026 (announced 11 November 2025); the Bib Gourmand selection is revised annually, so re-confirm Sek Yuen's status against the current edition before relying on it."
   - "Sek Yuen's founding date beyond MICHELIN's stated 1948 — some accounts describe a pre-war origin; 1948 is post-war, so treat the 'pre-war' framing as unconfirmed and cite a primary or heritage source if the earlier date is used."
