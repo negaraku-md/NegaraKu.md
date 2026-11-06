@@ -3,6 +3,11 @@ topicId: MY-MICH-0032
 title: "Ah Hei Bak Kut Teh：Pudu 的一家 Bib Gourmand 药材汤店"
 seoTitle: "Ah Hei Bak Kut Teh"
 slug: "ah-hei-bak-kut-teh"
+hero: "/media/food/ah-hei-bak-kut-teh/hero.webp"
+heroAlt: "一砂煲肉骨茶——排骨、五花肉与香菇浸在药材汤中"
+heroCredit: "Alpha / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Ah Hei Bak Kut Teh 是位于吉隆坡 Pudu 33A Medan Imbi 的一家 MICHELIN Bib Gourmand 店。这家约有30年历史的店每天清晨以多种中药材新鲜熬制 bak kut teh，端出一锅深色、芳香的排骨汤，并佐以各式小菜。本篇介绍这是什么、招牌汤品、历史，以及如何前往。"
@@ -44,6 +49,22 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "阿喜肉骨茶"
+  address: "33A, Medan Imbi, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ah+Hei+Bak+Kut+Teh%2C+Medan+Imbi%2C+Kuala+Lumpur"
+  googleRating: 4.3
+  googleReviews: 1250
+  ratingAsOf: "2026-11"
+  priceRange: "RM 20–40"
+  phone: "+60 12-639 1991"
+  facebook: "https://www.facebook.com/Ahhei.bkt"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway", "delivery"]
+  cashOnly: true
+  hours: "08:30–15:30 · 周三休息"
+  mustOrder: "药材肉骨茶——以16种中药熬制的汤底配猪肉，佐以手打肉丸"
+  reviewSummary: "食客称赞汤头药材味浓郁、无味精，肉质新鲜；比巴生式肉骨茶更清淡。店面翻新后干净舒适。人气旺，可能需等位，且仅收现金。"
 sources:
   - title: "Ah Hei Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/ah-hei-bak-kut-teh"

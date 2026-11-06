@@ -190,6 +190,7 @@ const ICON = {
   explanation: svg('<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>'),
   faq: svg('<circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/>'),
   sources: svg('<path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/>'),
+  place: svg('<path d="M21 10c0 7-9 12-9 12s-9-5-9-12a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/>'),
   related: svg('<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>'),
   toc: svg('<line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/>'),
   trust: svg('<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/>'),
@@ -197,6 +198,29 @@ const ICON = {
 };
 
 const toc = headings.filter((h) => h.depth === 2);
+
+// --- Place card helpers (venue profiles) -------------------------------
+// Halal status → localised label + tone (green = halal-friendly, red = not,
+// neutral = informational). Sourced per venue, never guessed.
+const HALAL = {
+  'halal-certified': { tone: 'ok', icon: '✓', label: L('Halal (disahkan)', 'Halal-certified', '清真认证', 'ஹலால் (சான்று)', 'ハラール認証', '할랄 인증', 'ฮาลาล (รับรอง)', 'Halal (chứng nhận)', 'Halal (bersertifikat)', 'حلال (معتمد)', 'हलाल (प्रमाणित)', 'Halal (certificado)', 'Halal (certifié)') },
+  'muslim-owned': { tone: 'ok', icon: '✓', label: L('Milik Muslim', 'Muslim-owned', '穆斯林经营', 'முஸ்லிம் உரிமை', 'ムスリム経営', '무슬림 운영', 'เจ้าของมุสลิม', 'Chủ người Hồi giáo', 'Milik Muslim', 'مملوك لمسلمين', 'मुस्लिम-स्वामित्व', 'De propiedad musulmana', 'Tenu par des musulmans') },
+  'pork-free': { tone: 'ok', icon: '✓', label: L('Tanpa babi', 'Pork-free', '无猪肉', 'பன்றி இறைச்சி இல்லை', '豚肉なし', '돼지고기 없음', 'ไม่มีหมู', 'Không thịt heo', 'Tanpa babi', 'خالٍ من لحم الخنزير', 'सूअर-रहित', 'Sin cerdo', 'Sans porc') },
+  'no-pork-no-lard': { tone: 'ok', icon: '✓', label: L('Tiada babi, tiada lemak babi', 'No pork, no lard', '无猪肉、无猪油', 'பன்றி இறைச்சி/கொழுப்பு இல்லை', '豚肉・ラードなし', '돼지고기·라드 없음', 'ไม่มีหมูและน้ำมันหมู', 'Không thịt heo, không mỡ heo', 'Tanpa babi & lemak babi', 'بلا لحم خنزير أو شحمه', 'न सूअर, न चर्बी', 'Sin cerdo ni manteca', 'Sans porc ni saindoux') },
+  'vegetarian': { tone: 'ok', icon: '✓', label: L('Vegetarian', 'Vegetarian', '素食', 'சைவம்', 'ベジタリアン', '채식', 'มังสวิรัติ', 'Chay', 'Vegetarian', 'نباتي', 'शाकाहारी', 'Vegetariano', 'Végétarien') },
+  'non-halal': { tone: 'no', icon: '⚠', label: L('Bukan halal', 'Non-halal', '非清真', 'ஹலால் அல்ல', '非ハラール', '비할랄', 'ไม่ฮาลาล', 'Không halal', 'Non-halal', 'غير حلال', 'गैर-हलाल', 'No halal', 'Non halal') },
+  'contains-pork': { tone: 'no', icon: '⚠', label: L('Bukan halal · mengandungi babi', 'Non-halal · contains pork', '非清真 · 含猪肉', 'ஹலால் அல்ல · பன்றி இறைச்சி', '非ハラール・豚肉あり', '비할랄 · 돼지고기 포함', 'ไม่ฮาลาล · มีเนื้อหมู', 'Không halal · có thịt heo', 'Non-halal · mengandung babi', 'غير حلال · يحتوي على لحم الخنزير', 'गैर-हलाल · सूअर युक्त', 'No halal · contiene cerdo', 'Non halal · contient du porc') },
+} as const;
+const halalInfo = d.place?.halal ? HALAL[d.place.halal] : null;
+const SERVICE = {
+  'dine-in': L('Makan di sini', 'Dine-in', '堂食', 'உள்ளே உண்ண', '店内飲食', '매장 식사', 'ทานที่ร้าน', 'Ăn tại chỗ', 'Makan di tempat', 'تناول في المكان', 'यहीं भोजन', 'Comer aquí', 'Sur place'),
+  'takeaway': L('Bungkus', 'Takeaway', '外带', 'பார்சல்', 'テイクアウト', '포장', 'ซื้อกลับ', 'Mang đi', 'Bawa pulang', 'سفري', 'पैक', 'Para llevar', 'À emporter'),
+  'delivery': L('Penghantaran', 'Delivery', '外送', 'டெலிவரி', 'デリバリー', '배달', 'เดลิเวอรี', 'Giao hàng', 'Antar', 'توصيل', 'डिलीवरी', 'A domicilio', 'Livraison'),
+};
+const serviceBits = [
+  ...(d.place?.service?.map((s) => SERVICE[s]) ?? []),
+  ...(d.place?.cashOnly ? [L('Tunai sahaja', 'Cash only', '仅收现金', 'பணம் மட்டுமே', '現金のみ', '현금만', 'เงินสดเท่านั้น', 'Chỉ tiền mặt', 'Hanya tunai', 'نقدًا فقط', 'केवल नकद', 'Solo efectivo', 'Espèces uniquement')] : []),
+];
 
 // Sibling navigation within the topic (subcategory). A reader who finishes an
 // article should be able to move sideways to the next thing in the same topic,
@@ -304,35 +328,6 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   </div>
 </header>
 
-{
-  d.hero && (
-    <div class="container">
-      <figure class="art-photo" data-pagefind-ignore>
-        <img
-          src={d.hero}
-          alt={d.heroAlt ?? ''}
-          width="1600"
-          height="900"
-          fetchpriority="high"
-          decoding="async"
-        />
-        {(d.heroCredit || d.heroSource || d.heroLicense) && (
-          <figcaption>
-            {d.heroSource ? (
-              <a href={d.heroSource} target="_blank" rel="noopener noreferrer">
-                {d.heroCredit ?? d.heroSource}
-              </a>
-            ) : (
-              d.heroCredit
-            )}
-            {d.heroLicense && <span class="lic">{(d.heroCredit || d.heroSource) ? ' · ' : ''}{d.heroLicense}</span>}
-          </figcaption>
-        )}
-      </figure>
-    </div>
-  )
-}
-
 <article class="art container">
 
   {
@@ -371,6 +366,32 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   <div class="layout">
     <div class="main">
       {
+        d.hero && (
+          <figure class="art-photo art-photo-inline" data-pagefind-ignore>
+            <img
+              src={d.hero}
+              alt={d.heroAlt ?? ''}
+              width="1600"
+              height="900"
+              fetchpriority="high"
+              decoding="async"
+            />
+            {(d.heroCredit || d.heroSource || d.heroLicense) && (
+              <figcaption>
+                {d.heroSource ? (
+                  <a href={d.heroSource} target="_blank" rel="noopener noreferrer">
+                    {d.heroCredit ?? d.heroSource}
+                  </a>
+                ) : (
+                  d.heroCredit
+                )}
+                {d.heroLicense && <span class="lic">{(d.heroCredit || d.heroSource) ? ' · ' : ''}{d.heroLicense}</span>}
+              </figcaption>
+            )}
+          </figure>
+        )
+      }
+      {
         d.answer && (
           <section class="layer l1">
             <header>
@@ -393,6 +414,71 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               {d.appliesTo && (
                 <p class="applies">
                   <b>{L('Untuk siapa:', 'Who this applies to:', '适用对象：', 'யாருக்குப் பொருந்தும்:', '対象となる人：', '적용 대상:', 'ใช้กับใคร:', 'Áp dụng cho ai:', 'Untuk siapa:', 'لمن ينطبق هذا:', 'यह किन पर लागू होता है:', 'A quién aplica:', "Qui est concerné :")}</b> {d.appliesTo}
+                </p>
+              )}
+            </div>
+          </section>
+        )
+      }
+
+      {
+        d.place && (d.place.address || d.place.mapsUrl || d.place.googleRating != null || d.place.website || d.place.facebook || d.place.instagram || d.place.tiktok || d.place.phone) && (
+          <section class="layer l-place" data-pagefind-ignore>
+            <header>
+              <span class="sec-h"><span class="ico" set:html={ICON.place} />{L('Lokasi & penilaian', 'Where to find & ratings', '地点与评价', 'இடம் & மதிப்பீடுகள்', '場所と評価', '위치 및 평점', 'สถานที่และคะแนน', 'Địa điểm & đánh giá', 'Lokasi & penilaian', 'الموقع والتقييمات', 'स्थान और रेटिंग', 'Dónde encontrarlo y valoraciones', "Où le trouver et avis")}</span>
+            </header>
+            <div class="lb place">
+              {d.place.nativeName && <p class="place-native">{d.place.nativeName}</p>}
+              {d.place.address && (
+                <p class="place-row"><span class="place-ico" set:html={ICON.place} /><span>{d.place.address}{d.place.priceRange ? ` · ${d.place.priceRange}` : ''}</span></p>
+              )}
+              {d.place.hours && (
+                <p class="place-row"><span class="place-emoji" aria-hidden="true">🕒</span><span>{d.place.hours}</span></p>
+              )}
+              {halalInfo && (
+                <p class="place-row">
+                  <span class={`halal-badge halal-${halalInfo.tone}`}>{halalInfo.icon} {halalInfo.label}</span>
+                </p>
+              )}
+              {serviceBits.length > 0 && (
+                <p class="place-row"><span class="place-emoji" aria-hidden="true">🍽️</span><span>{serviceBits.join(' · ')}</span></p>
+              )}
+              {d.place.mustOrder && (
+                <p class="place-row"><span class="place-emoji" aria-hidden="true">⭐</span><span><b class="place-lbl">{L('Pesan ini', 'What to order', '必点', 'இதை ஆர்டர் செய்', '注文すべき', '추천 메뉴', 'สั่งเมนูนี้', 'Nên gọi', 'Pesan ini', 'اطلب هذا', 'यह ऑर्डर करें', 'Qué pedir', 'À commander')}:</b> {d.place.mustOrder}</span></p>
+              )}
+              {d.place.googleRating != null && (
+                <p class="place-row place-rating">
+                  <span class="stars" aria-hidden="true">★</span>
+                  <span>
+                    <b>{d.place.googleRating.toFixed(1)}</b>
+                    {d.place.googleReviews != null && <> · {d.place.googleReviews.toLocaleString(locale === 'zh' ? 'zh' : 'en')} {L('ulasan', 'reviews', '条评价', 'மதிப்புரைகள்', '件のレビュー', '개 리뷰', 'รีวิว', 'đánh giá', 'ulasan', 'تقييم', 'समीक्षाएँ', 'reseñas', "avis")}</>}
+                    <span class="place-src"> · {L('di Google', 'on Google', '来自 Google', 'Google-இல்', 'Google より', 'Google 기준', 'บน Google', 'trên Google', 'di Google', 'على Google', 'Google पर', 'en Google', "sur Google")}{d.place.ratingAsOf ? ` · ${L('setakat', 'as of', '截至', 'வரை', '時点', '기준', 'ณ', 'tính đến', 'per', 'حتى', 'तक', 'a fecha de', "au")} ${d.place.ratingAsOf}` : ''}</span>
+                  </span>
+                </p>
+              )}
+              {d.place.reviewSummary && (
+                <div class="place-reviews">
+                  <b class="place-lbl">{L('Kata pengunjung', 'What diners say', '食客怎么说', 'உணவுப் பிரியர்கள் சொல்வது', '食べた人の声', '손님들의 평가', 'ลูกค้าว่าอย่างไร', 'Thực khách nói gì', 'Kata pengunjung', 'ماذا يقول الزوّار', 'ग्राहक क्या कहते हैं', 'Qué dicen los comensales', 'Ce que disent les clients')}:</b> {d.place.reviewSummary}
+                  {(d.place.reviewsUrl || d.place.mapsUrl || d.place.facebook) && (
+                    <span class="place-readmore"> <a href={d.place.reviewsUrl || d.place.mapsUrl || d.place.facebook} target="_blank" rel="noopener noreferrer nofollow">{L('Baca ulasan di Google / Facebook', 'Read reviews on Google / Facebook', '在 Google / Facebook 阅读评价', 'Google / Facebook-இல் படிக்க', 'Google / Facebook でレビューを読む', 'Google / Facebook에서 리뷰 보기', 'อ่านรีวิวบน Google / Facebook', 'Đọc đánh giá trên Google / Facebook', 'Baca ulasan di Google / Facebook', 'اقرأ التقييمات على Google / Facebook', 'Google / Facebook पर समीक्षाएँ पढ़ें', 'Leer reseñas en Google / Facebook', 'Lire les avis sur Google / Facebook')} ↗</a></span>
+                  )}
+                </div>
+              )}
+              {d.place.mapsUrl && (
+                <p class="place-actions">
+                  <a class="place-btn" href={d.place.mapsUrl} target="_blank" rel="noopener noreferrer">
+                    {L('Buka di Google Maps', 'Open in Google Maps', '在 Google 地图中打开', 'Google Maps-இல் திற', 'Google マップで開く', 'Google 지도에서 열기', 'เปิดใน Google Maps', 'Mở trong Google Maps', 'Buka di Google Maps', 'افتح في خرائط Google', 'Google मानचित्र में खोलें', 'Abrir en Google Maps', "Ouvrir dans Google Maps")} ↗
+                  </a>
+                  <span class="place-note">{L('Penilaian langsung di Google', 'Live rating on Google', '实时评分见 Google', 'Google-இல் நேரடி மதிப்பீடு', '最新評価は Google で', 'Google의 실시간 평점', 'คะแนนล่าสุดบน Google', 'Xếp hạng trực tiếp trên Google', 'Peringkat langsung di Google', 'التقييم المباشر على Google', 'Google पर लाइव रेटिंग', 'Valoración en vivo en Google', "Note en direct sur Google")}</span>
+                </p>
+              )}
+              {(d.place.website || d.place.facebook || d.place.instagram || d.place.tiktok || d.place.phone) && (
+                <p class="place-links">
+                  {d.place.website && <a href={d.place.website} target="_blank" rel="noopener noreferrer nofollow">{L('Laman web', 'Website', '官网', 'இணையதளம்', '公式サイト', '웹사이트', 'เว็บไซต์', 'Trang web', 'Situs web', 'الموقع', 'वेबसाइट', 'Sitio web', "Site web")}</a>}
+                  {d.place.facebook && <a href={d.place.facebook} target="_blank" rel="noopener noreferrer nofollow">Facebook</a>}
+                  {d.place.instagram && <a href={d.place.instagram} target="_blank" rel="noopener noreferrer nofollow">Instagram</a>}
+                  {d.place.tiktok && <a href={d.place.tiktok} target="_blank" rel="noopener noreferrer nofollow">TikTok</a>}
+                  {d.place.phone && <a href={`tel:${d.place.phone.replace(/[^+\d]/g, '')}`}>{d.place.phone}</a>}
                 </p>
               )}
             </div>
@@ -775,6 +861,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   /* Hero / lead photo (docs/IMAGE-STANDARD.md). CLS-safe: the 16:9 aspect-ratio
      reserves space before the image loads, so no layout shift. */
   .art-photo { margin: 1.5rem 0 0.5rem; }
+  .art-photo-inline { margin: 0 0 1.2rem; }
   .art-photo img {
     display: block;
     width: 100%;
@@ -897,9 +984,54 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .applies b { color: var(--ink); }
 
+  /* Where to find & ratings (venue profiles) */
+  .l-place { border-color: color-mix(in srgb, var(--gold) 42%, transparent); }
+  .l-place > header { color: var(--gold); background: color-mix(in srgb, var(--gold) 9%, transparent); }
+  .l-place > header .sec-h::before { background: currentColor; opacity: 0.7; }
+  .place { display: flex; flex-direction: column; gap: 0.6rem; }
+  .place-native { margin: 0; font-family: var(--font-title); font-size: 1.1rem; font-weight: 700; color: var(--ink); }
+  .place-row { margin: 0; display: flex; align-items: flex-start; gap: 0.55rem; font-size: 0.95rem; color: var(--ink-soft); line-height: 1.5; }
+  .place-row > span:last-child { min-width: 0; }
+  .place-ico { flex: 0 0 auto; width: 1.05em; height: 1.05em; color: var(--gold); margin-top: 0.15em; }
+  .place-ico :global(svg) { width: 100%; height: 100%; }
+  .place-rating .stars { color: var(--gold); font-size: 1.05rem; line-height: 1; margin-top: 0.1em; }
+  .place-rating b { color: var(--ink); font-size: 1.02rem; }
+  .place-src { color: var(--ink-faint, var(--ink-soft)); }
+  .place-actions { margin: 0.2rem 0 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0.55rem 0.8rem; }
+  .place-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    padding: 0.42rem 0.85rem; border-radius: 9px; font-size: 0.9rem; font-weight: 700;
+    color: #000; background: var(--gold); text-decoration: none;
+    border: 1px solid color-mix(in srgb, var(--gold) 70%, #000);
+  }
+  .place-btn:hover { background: color-mix(in srgb, var(--gold) 86%, #fff); }
+  .place-note { font-size: 0.8rem; color: var(--ink-soft); }
+  .place-links { margin: 0.2rem 0 0; display: flex; flex-wrap: wrap; gap: 0.4rem 1rem; font-size: 0.88rem; }
+  .place-links a { color: var(--gold); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--gold) 35%, transparent); }
+  .place-links a:hover { border-bottom-color: var(--gold); }
+  .place-emoji { flex: 0 0 auto; width: 1.15em; margin-top: 0.05em; text-align: center; }
+  .place-lbl { color: var(--ink); }
+  .halal-badge { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.2rem 0.65rem; border-radius: 999px; font-size: 0.84rem; font-weight: 700; line-height: 1.5; }
+  .halal-ok { color: #8ff0b8; background: color-mix(in srgb, #10b981 16%, transparent); border: 1px solid color-mix(in srgb, #10b981 45%, transparent); }
+  .halal-no { color: #ffb4b4; background: color-mix(in srgb, #f43f5e 15%, transparent); border: 1px solid color-mix(in srgb, #f43f5e 45%, transparent); }
+  .place-reviews { background: var(--surface-2); border-radius: 9px; padding: 0.7rem 0.85rem; font-size: 0.92rem; color: var(--ink-soft); line-height: 1.55; }
+  .place-readmore a { color: var(--gold); text-decoration: none; white-space: nowrap; }
+  .place-readmore a:hover { text-decoration: underline; }
+
   .prose :global(h2) { margin: 1.6rem 0 0.6rem; }
   .prose :global(h3) { margin: 1.2rem 0 0.5rem; }
   .prose :global(p) { margin: 0.7rem 0; }
+  /* In-body images match the in-column hero: full content-column width, rounded, bordered. */
+  .prose :global(img) {
+    display: block; width: 100%; height: auto;
+    border-radius: 14px; border: 1px solid var(--line);
+    background: var(--surface-2); margin: 1.4rem 0 0.5rem;
+  }
+  .prose :global(figure) { margin: 1.4rem 0; }
+  .prose :global(figure img) { margin: 0; }
+  .prose :global(figure figcaption) {
+    margin-top: 0.45rem; font-size: 0.78rem; color: var(--ink-soft); text-align: end;
+  }
   .prose :global(table) { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 1rem 0; display: block; overflow-x: auto; }
   /* Long code blocks / unbroken tokens must scroll inside their box, never the page. */
   .prose :global(pre) { overflow-x: auto; max-width: 100%; }

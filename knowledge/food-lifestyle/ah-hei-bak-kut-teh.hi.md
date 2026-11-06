@@ -3,6 +3,11 @@ topicId: MY-MICH-0032
 title: "Ah Hei Bak Kut Teh: Pudu में एक Bib Gourmand हर्बल सूप की दुकान"
 seoTitle: "Ah Hei Bak Kut Teh"
 slug: "ah-hei-bak-kut-teh"
+hero: "/media/food/ah-hei-bak-kut-teh/hero.webp"
+heroAlt: "बाक कुट तेह का क्लेपॉट — पसलियाँ, सूअर का पेट और मशरूम हर्बल शोरबे में"
+heroCredit: "Alpha / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Ah Hei Bak Kut Teh कुआलालंपुर के Pudu में 33A Medan Imbi पर स्थित एक MICHELIN Bib Gourmand दुकान है। लगभग 30 साल पुराना यह प्रतिष्ठान हर सुबह चीनी जड़ी-बूटियों के मिश्रण से अपना bak kut teh ताज़ा बनाता है, और एक गहरे रंग का, सुगंधित पोर्क-रिब सूप साथ के व्यंजनों के साथ परोसता है। यह प्रोफ़ाइल बताती है कि यह क्या है, इसका खास सूप, इसका इतिहास और कैसे जाएं।"
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "阿喜肉骨茶"
+  address: "33A, Medan Imbi, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ah+Hei+Bak+Kut+Teh%2C+Medan+Imbi%2C+Kuala+Lumpur"
+  googleRating: 4.3
+  googleReviews: 1250
+  ratingAsOf: "2026-11"
+  priceRange: "RM 20–40"
+  phone: "+60 12-639 1991"
+  facebook: "https://www.facebook.com/Ahhei.bkt"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway", "delivery"]
+  cashOnly: true
 sources:
   - title: "Ah Hei Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/ah-hei-bak-kut-teh"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0032
 title: "Ah Hei Bak Kut Teh: Kedai Sup Herbal Bib Gourmand di Pudu"
 seoTitle: "Ah Hei Bak Kut Teh"
 slug: "ah-hei-bak-kut-teh"
+hero: "/media/food/ah-hei-bak-kut-teh/hero.webp"
+heroAlt: "Claypot bak kut teh — iga, perut babi, dan jamur dalam kuah herbal"
+heroCredit: "Alpha / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Ah Hei Bak Kut Teh adalah kedai MICHELIN Bib Gourmand di 33A Medan Imbi, Pudu, Kuala Lumpur. Usaha berusia sekitar 30 tahun ini membuat bak kut teh segar setiap pagi dari campuran herbal Tionghoa, menyajikan sup iga babi yang gelap dan harum bersama lauk pendamping. Profil ini membahas apa itu, sup khasnya, sejarahnya, dan cara berkunjung."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "阿喜肉骨茶"
+  address: "33A, Medan Imbi, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ah+Hei+Bak+Kut+Teh%2C+Medan+Imbi%2C+Kuala+Lumpur"
+  googleRating: 4.3
+  googleReviews: 1250
+  ratingAsOf: "2026-11"
+  priceRange: "RM 20–40"
+  phone: "+60 12-639 1991"
+  facebook: "https://www.facebook.com/Ahhei.bkt"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway", "delivery"]
+  cashOnly: true
 sources:
   - title: "Ah Hei Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/ah-hei-bak-kut-teh"

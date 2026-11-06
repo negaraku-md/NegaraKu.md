@@ -3,6 +3,11 @@ topicId: MY-MICH-0032
 title: "Ah Hei Bak Kut Teh : une maison de soupe aux herbes Bib Gourmand à Pudu"
 seoTitle: "Ah Hei Bak Kut Teh"
 slug: "ah-hei-bak-kut-teh"
+hero: "/media/food/ah-hei-bak-kut-teh/hero.webp"
+heroAlt: "Pot en terre de bak kut teh — travers, poitrine de porc et champignons dans un bouillon aux herbes"
+heroCredit: "Alpha / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Ah Hei Bak Kut Teh est une boutique MICHELIN Bib Gourmand au 33A Medan Imbi, Pudu, Kuala Lumpur. L'affaire, vieille d'environ 30 ans, prépare son bak kut teh frais chaque matin à partir d'un mélange d'herbes chinoises, et sert une soupe de travers de porc sombre et parfumée accompagnée de plats d'accompagnement. Ce profil présente ce que c'est, sa soupe signature, son histoire et comment s'y rendre."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "阿喜肉骨茶"
+  address: "33A, Medan Imbi, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ah+Hei+Bak+Kut+Teh%2C+Medan+Imbi%2C+Kuala+Lumpur"
+  googleRating: 4.3
+  googleReviews: 1250
+  ratingAsOf: "2026-11"
+  priceRange: "RM 20–40"
+  phone: "+60 12-639 1991"
+  facebook: "https://www.facebook.com/Ahhei.bkt"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway", "delivery"]
+  cashOnly: true
 sources:
   - title: "Ah Hei Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/ah-hei-bak-kut-teh"

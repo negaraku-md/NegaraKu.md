@@ -49,6 +49,61 @@ const revisionSchema = z.object({
   reason: z.string().optional(),
 });
 
+/**
+ * Physical-place facts for venue profiles (e.g. MICHELIN restaurant pages) —
+ * rendered by ArticleView as a "Where to find & ratings" card. Present only on
+ * place-based articles; absent on dish/topic articles (no card then).
+ *
+ * Ratings are a DATED, ATTRIBUTED SNAPSHOT — a point-in-time citation
+ * (`ratingAsOf`), never a maintained live leaderboard — while `mapsUrl` always
+ * links to Google's live listing for the current score. Language-neutral: lives
+ * on the master and is inherited verbatim by every translation.
+ */
+const placeSchema = z.object({
+  /** Native-script name as the venue brands itself, e.g. "阿喜肉骨茶". */
+  nativeName: z.string().optional(),
+  /** Street address as shown on the venue's own listing. */
+  address: z.string().optional(),
+  /** Google Maps place URL (links to the live listing). */
+  mapsUrl: z.string().url().optional(),
+  /** Snapshot Google star rating 0–5, e.g. 4.3. Dated by `ratingAsOf`. */
+  googleRating: z.number().min(0).max(5).optional(),
+  /** Snapshot Google review count, e.g. 1250. */
+  googleReviews: z.number().int().nonnegative().optional(),
+  /** When the rating/review snapshot was taken, e.g. "2026-11" — shown as "as of". */
+  ratingAsOf: z.string().optional(),
+  /** Optional price band as shown on the listing, e.g. "RM 20–40". */
+  priceRange: z.string().optional(),
+  /** Phone number as shown on the venue's listing. */
+  phone: z.string().optional(),
+  /** Official website (not a social page). */
+  website: z.string().url().optional(),
+  /** Social / web links for the venue itself (verified, venue-owned). */
+  facebook: z.string().url().optional(),
+  instagram: z.string().url().optional(),
+  tiktok: z.string().url().optional(),
+
+  // ---- reader-first facts (what a diner actually wants to know) -----
+  /** Halal status — shown as a prominent badge. Sourced per venue, never guessed.
+   *  Language-neutral enum; the card renders a localised label. */
+  halal: z
+    .enum(['halal-certified', 'muslim-owned', 'pork-free', 'no-pork-no-lard', 'non-halal', 'contains-pork', 'vegetarian'])
+    .optional(),
+  /** Opening hours + closed days. LOCALISED per file (day names translate), e.g.
+   *  "Mon–Fri 08:30–15:30 · Wed closed". */
+  hours: z.string().optional(),
+  /** Service modes offered. Language-neutral enum; card renders localised labels. */
+  service: z.array(z.enum(['dine-in', 'takeaway', 'delivery'])).optional(),
+  /** True if the venue is cash-only. Language-neutral. */
+  cashOnly: z.boolean().optional(),
+  /** Signature dish(es) to order. LOCALISED per file. */
+  mustOrder: z.string().optional(),
+  /** Neutral synthesis of public reviews (NOT copied review text). LOCALISED per file. */
+  reviewSummary: z.string().optional(),
+  /** Where to read the live reviews (Google/Facebook). Language-neutral. */
+  reviewsUrl: z.string().url().optional(),
+});
+
 const knowledge = defineCollection({
   // retainBody: false DROPS the raw markdown `body` from the content store,
   // keeping only the rendered HTML that render() uses. At 13 languages the store
@@ -326,6 +381,10 @@ const knowledge = defineCollection({
     created: z.coerce.date().optional(),
     updated: z.coerce.date(),
     sources: z.array(sourceSchema).default([]),
+
+    /** Where-to-find & ratings card for venue profiles (restaurants). Optional;
+     *  dish/topic articles omit it. See placeSchema above. */
+    place: placeSchema.optional(),
 
     // ---- graph & discovery -------------------------------------------
     /** Untyped "see also" links (slugs). */

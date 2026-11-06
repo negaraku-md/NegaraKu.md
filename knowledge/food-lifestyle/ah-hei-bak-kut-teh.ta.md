@@ -3,6 +3,11 @@ topicId: MY-MICH-0032
 title: "Ah Hei Bak Kut Teh: Pudu-இல் ஒரு Bib Gourmand மூலிகைச் சூப் கடை"
 seoTitle: "Ah Hei Bak Kut Teh"
 slug: "ah-hei-bak-kut-teh"
+hero: "/media/food/ah-hei-bak-kut-teh/hero.webp"
+heroAlt: "ஒரு மண்சட்டி பாக் குட் தே — விலா எலும்பு, பன்றி இறைச்சி, காளான் மூலிகை சூப்பில்"
+heroCredit: "Alpha / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Mixed_Bak_Kut_Teh_-_Teochew_Bak_Kut_Teh_(4590434658).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Ah Hei Bak Kut Teh என்பது கோலாலம்பூர் Pudu, 33A Medan Imbi-இல் உள்ள ஒரு MICHELIN Bib Gourmand கடை. சுமார் 30 ஆண்டுகள் பழமையான இந்தக் கடை ஒவ்வொரு காலையிலும் சீன மூலிகைக் கலவையிலிருந்து தனது bak kut teh-ஐப் புதிதாகத் தயாரித்து, கரும், நறுமணமிக்க பன்றி விலா எலும்புச் சூப்பை பக்க உணவுகளுடன் வழங்குகிறது. இந்தப் பதிவு இது என்ன, அதன் சிறப்புச் சூப், வரலாறு, எப்படிச் செல்வது என்பவற்றை விளக்குகிறது."
@@ -44,6 +49,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "阿喜肉骨茶"
+  address: "33A, Medan Imbi, 55100 Kuala Lumpur"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ah+Hei+Bak+Kut+Teh%2C+Medan+Imbi%2C+Kuala+Lumpur"
+  googleRating: 4.3
+  googleReviews: 1250
+  ratingAsOf: "2026-11"
+  priceRange: "RM 20–40"
+  phone: "+60 12-639 1991"
+  facebook: "https://www.facebook.com/Ahhei.bkt"
+  halal: "contains-pork"
+  service: ["dine-in", "takeaway", "delivery"]
+  cashOnly: true
 sources:
   - title: "Ah Hei Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/ah-hei-bak-kut-teh"
