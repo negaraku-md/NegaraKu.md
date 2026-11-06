@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: 아삼·뇨냐 락사를 위한 페낭의 빕 구르망"
 seoTitle: "My Own Cafe, 조지타운 페낭"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - 오이와 고추를 곁들인 새콤한 타마린드-생선 육수에 담긴 굵은 쌀국수"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe는 페낭 조지타운의 Lebuh Cannon에 있는 가족 경영 길거리 음식점으로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. Penang asam laksa와 Nyonya laksa, 그리고 채소를 채운 튀긴 춘권으로 유명하며, Khoo Kongsi 종사당에서 몇 걸음 떨어진 곳에서 제공됩니다."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "월, 화, 목, 금, 토, 일 10:00-16:00; 수요일 휴무 (MICHELIN 가이드 기준)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (민트와 파인애플을 올린 새콤하고 매콤한 생선/타마린드 수프); Nyonya laksa; 채소 튀김 스프링롤"
+  reviewSummary: "MICHELIN Bib Gourmand을 수상한 가족 운영 가게입니다. 가이드는 이곳의 Penang asam laksa를 강조하는데, 신맛과 매운맛이 균형을 이루는 가볍고 상쾌한 붉은 수프 위에 민트와 파인애플을 올렸으며, Nyonya laksa와 똑같이 맛있는 채소 소를 넣은 튀김 스프링롤도 함께 선보입니다. 워크인만 가능; 신용카드는 받지 않습니다."
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

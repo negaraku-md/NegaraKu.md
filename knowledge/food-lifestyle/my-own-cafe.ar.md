@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: مطعم Bib Gourmand في بينانغ لأطباق Asam و Nyonya Laksa"
 seoTitle: "My Own Cafe، George Town بينانغ"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - شعيرية أرز سميكة في مرق التمر الهندي والسمك الحامض مع الخيار والفلفل الحار"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "‏My Own Cafe محل طعام شارع تديره عائلة في شارع Lebuh Cannon بحي George Town في بينانغ، حائز على تصنيف Bib Gourmand من دليل MICHELIN. يشتهر بطبقَي Penang asam laksa و Nyonya laksa، إضافة إلى لفائف الربيع المقلية المحشوة بالخضار، ويُقدَّم على بُعد خطوات من بيت عائلة Khoo Kongsi."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "الإثنين، الثلاثاء، الخميس، الجمعة، السبت، الأحد 10:00-16:00؛ الأربعاء مغلق (وفقًا لدليل MICHELIN)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (حساء السمك/التمر الهندي الحامض والحار المزين بالنعناع والأناناس)؛ Nyonya laksa؛ لفائف الربيع المقلية بحشوة الخضار"
+  reviewSummary: "متجر عائلي حاصل على جائزة MICHELIN Bib Gourmand. يسلّط الدليل الضوء على طبق Penang asam laksa لديه، وهو حساء أحمر خفيف ومنعش يوازن بين النكهتين الحامضة والحارة، ويُزيَّن بالنعناع والأناناس، إلى جانب Nyonya laksa ولفائف الربيع المقلية بحشوة الخضار اللذيذة بالقدر نفسه. الدخول المباشر فقط؛ لا تُقبل بطاقات الائتمان."
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

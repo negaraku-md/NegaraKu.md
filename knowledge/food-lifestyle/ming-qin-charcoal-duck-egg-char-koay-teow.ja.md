@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow：ペナンの Bib Gourmand"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — バナナの葉の上に、エビ・中華ソーセージ・もやしを添えて炒めた平打ち麺"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "火〜木 6:00 PM - 11:00 PM；金〜土 6:00 PM - 11:30 PM；日 6:00 PM - 11:00 PM；月曜定休"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "炭火で炒めたアヒルの卵入り char koay teow（より強い wok hei とコクのある黄身のため）；目玉焼きを追加；甘酸っぱいタレで食べる茹でタコの前菜"
+  reviewSummary: "MICHELIN ガイド掲載（第三者情報によれば Bib Gourmand、2024〜2025年）。20年以上にわたり常連客を獲得してきた飾らない屋台で、炭火でアヒルの卵とともに炒める char koay teow が格別な wok hei を生むことで知られる。金曜と土曜の夜遅くは混雑する。"
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow はペナン本土側、Seberang Perai の Bukit Mertajam にある麺の屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれている。char koay teow をアヒルの卵とともに炭火で炒め、際立った wok hei を出す。さっと茹でたタコの前菜が勧められる一品。夜の商売で、20 年かけて築いた支持を得ている。"
 seoTitle: "Ming Qin Charcoal Char Koay Teow、ペナン"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow はペナン本土側、Seberang Perai の Bukit Mertajam にある Bib Gourmand の麺の屋台である。看板の char koay teow はアヒルの卵とともに炭火で炒められ、強い wok hei（鍋の煙る息吹）を帯びる。さっと茹でたタコの前菜が勧められる。夜に営業する。"

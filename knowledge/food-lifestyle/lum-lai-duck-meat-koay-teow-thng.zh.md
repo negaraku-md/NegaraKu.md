@@ -40,6 +40,18 @@ keywords:
   - "Teochew noodles"
 
 updated: 2026-11-06
+place:
+  address: "Pasar Lebuh Cecil (Cecil Street Market), 24 Lebuh Cecil, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  priceRange: "$ (budget hawker; under RM15 per bowl)"
+  hours: "每天 07:00-17:00（早餐与午餐；最好早点到，因为很快就卖完，高峰时段会排队）"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "鸭肉粿条汤（扁米粉汤配去骨鸭肉片、鱼丸、鱼饼、血块、炸蒜和蒜油葱头）"
+  reviewSummary: "米其林必比登（MICHELIN Bib Gourmand）推荐（吉隆坡及槟城 2025），也是最抢手的必比登入选之一。这是一家经营逾40年、传承两代的小贩摊，鲜甜浓郁的汤头、滑嫩的鸭肉与香喷喷的炸蒜屡获好评；评论者常将它评为槟城最好的鸭肉粿条汤。每碗现点现做，所以队伍会前进，但高峰时段仍可能排得很长。"
+  phone: "+60 12-433 6680"
 sources:
   - title: "Lum Lai Duck Meat Koay Teow Th'ng"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lum-lai-duck-meat-koay-teow-th-ng"

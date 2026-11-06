@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup : le stand de nouilles Bib Gourmand de Butterworth"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "Soupe de koay teow — nouilles de riz plates dans un bouillon clair avec de la ciboulette"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Soupe de koay teow au citron (nouilles de riz plates et soyeuses dans un bouillon d'os de porc chargé d'umami, rehaussé de jus de citron fraîchement pressé) ; galette de porc hachée à la main"
+  reviewSummary: "Un stand de soupe de koay teow distingué par le MICHELIN Bib Gourmand et un petit-déjeuner local apprécié à Butterworth. Les nouilles de riz plates et soyeuses baignent dans un bouillon d'os de porc chargé d'umami préparé chaque jour, servies avec une galette de porc hachée à la main qui s'imprègne du bouillon ; le jus de citron fraîchement pressé posé sur la table ravive les saveurs."
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup est un stand de cuisine de rue à Butterworth, Seberang Perai, sur la partie continentale de Penang, retenu dans la sélection Bib Gourmand du MICHELIN Guide. Il sert du koay teow th'ng — des nouilles de riz plates dans un bouillon d'os de porc préparé chaque jour — avec une galette de porc hachée à la main et du jus de citron fraîchement pressé sur la table pour aviver les saveurs, un petit-déjeuner prisé des habitants."
 seoTitle: "Lemon Koay Teow Soup, Penang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup est un stand de cuisine de rue Bib Gourmand à Butterworth, Seberang Perai, sur la partie continentale de Penang. Il sert du koay teow soup — des nouilles de riz plates et soyeuses dans un bouillon d'os de porc gorgé d'umami préparé frais chaque jour — rehaussé d'une galette de porc hachée à la main, avec du jus de citron fraîchement pressé sur la table pour relever les saveurs. C'est un petit-déjeuner local populaire."

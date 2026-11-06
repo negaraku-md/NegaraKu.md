@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh: 푸두에 자리한 80년 된 Bib Gourmand 레시피"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "바쿠테(肉骨茶) — 진한 약재 육수의 돼지고기, 뚝배기 마른 버전과 찍어 먹는 소스 곁들임"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100에 있으며, $ 가격대입니다. MICHELIN Guide가 'Worth Queueing For'로 표시하므로 붐비는 시간에는 줄을 각오하세요. 예약은 레스토랑이 직접 처리하고 신용카드는 받지 않습니다."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "매일 10:30~15:00 및 18:00~21:00, 화요일 휴무"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "돼지고기 부위(갈비, 삼겹살, 내장 또는 모둠)를 선택할 수 있는 바쿠테(肉骨茶), 마늘과 고추를 넣은 간장에 찍어 먹음; 간장 조림 돼지 족발"
+  reviewSummary: "1940년대 노점으로 시작해 현재 3대째 운영 중인 MICHELIN 빕 구르망(Bib Gourmand) 바쿠테(肉骨茶). 약재를 넣은 돼지 갈비 육수 레시피는 약 80년 동안 거의 그대로 유지되어 왔으며, 부드러운 약재 향과 자연스러운 단맛으로 호평받습니다. 손님이 직접 돼지고기 부위를 고르고 간장, 마늘, 고추에 고기를 찍어 먹습니다. 리뷰에서는 부드럽고 잘 익은 고기와 친절한 서비스를 칭찬하지만, 일부는 국물이 다소 담백하다고 느낍니다."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

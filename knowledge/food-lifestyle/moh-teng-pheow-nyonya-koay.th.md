@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: ผู้ทำ kueh แห่งปีนังตั้งแต่ 1933"
 seoTitle: "Moh Teng Pheow Nyonya Koay, ปีนัง"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "ขนมเปอรานากันสีสันสดใสเหมือนสายรุ้ง รวมถึง kuih lapis ที่เป็นชั้น ๆ"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "ทุกวัน 10:00-17:00 (ทั้ง MICHELIN และ Wanderlog ระบุว่าเปิดทุกวัน; บล็อกเก่าบางแห่งระบุว่าปิดวันจันทร์และเปิด 10:30 - โปรดยืนยันก่อนไป)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "kuih lapis, kuih talam, ang koo และ nyonya chang (ตาม MICHELIN); ขนมโบราณอื่น ๆ ที่พบเห็นได้ที่ร้าน ได้แก่ pulut inti, kuih koci, sri muka และ abok-abok"
+  reviewSummary: "หนึ่งในผู้ทำขนมเปอรานากัน (Nyonya kueh) ที่เก่าแก่ที่สุดของปีนัง เปิดดำเนินการมาตั้งแต่ปี 1933 และได้รับรางวัล MICHELIN Bib Gourmand ขนมทำด้วยวิธีดั้งเดิมที่ต้องใช้แรงงานมาก; ในปี 2016 ได้เพิ่มคาเฟ่แบบนั่งทานด้านหลังโรงงานที่ยังเปิดทำการ ซึ่งผู้มาเยือนสามารถเดินผ่านครัวและชมการทำขนมได้ รีวิวส่วนใหญ่เป็นไปในทางบวก (Google ~4.0) ชื่นชมความเป็นต้นตำรับและราคาที่เข้าถึงได้ แม้ว่าส่วนน้อยจะพบว่าคุณภาพไม่สม่ำเสมอ"
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

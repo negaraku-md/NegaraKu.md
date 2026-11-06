@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh: una receta Bib Gourmand de 80 años en Pudu"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "Bak kut teh — cerdo en un caldo oscuro de hierbas con una versión seca en cazuela de barro y salsas para mojar"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "Está en 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, en la franja de precio $. La MICHELIN Guide lo etiqueta 'Worth Queueing For', así que espera colas en horas punta. Las reservas las gestiona directamente el restaurante y no se aceptan tarjetas de crédito."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "Todos los días de 10:30 a 15:00 y de 18:00 a 21:00; cerrado los martes"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Bak kut teh con elección de cortes de cerdo (costillas, panceta, callos o una combinación), mojado en salsa de soja con ajo y chile; codillo de cerdo estofado"
+  reviewSummary: "Un bak kut teh con distinción MICHELIN Bib Gourmand que comenzó como un puesto callejero en los años 40 y hoy está a cargo de la tercera generación; la receta del caldo de costilla de cerdo con hierbas se ha mantenido prácticamente igual durante unos 80 años, apreciado por su calidez herbal equilibrada y su dulzor natural. Los comensales eligen sus propios cortes de cerdo y mojan la carne en soja, ajo y chile. Los reseñadores elogian la carne tierna y bien cocida y el trato amable, aunque algunos encuentran el caldo un poco ligero."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

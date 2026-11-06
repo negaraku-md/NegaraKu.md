@@ -44,6 +44,15 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  hours: "매일 11:00~21:00"
+  service: ["dine-in"]
+  mustOrder: "파이 티, 아얌 카피탄(치킨 카피탄), 아삼 프다스 생선, 삼발 새우"
+  reviewSummary: "아버지와 딸이 함께 선보이는 정통 가정식 뇨냐 요리를 나눠 먹기 좋은 넉넉한 양으로 내준다고 손님들이 호평합니다. 바삭한 파이 티가 특히 눈에 띄고, 골동품으로 가득한 다이닝룸이 멋을 더합니다. 무한 리필되는 판단 레몬그라스 차는 매콤한 요리와 잘 어울려 인기가 많습니다."
+  phone: "+60 19-689 3969"
 sources:
   - title: "Lama"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"

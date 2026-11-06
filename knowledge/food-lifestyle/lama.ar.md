@@ -44,6 +44,15 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  hours: "يوميًا 11:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "باي تي (Pie tee)، أيام كابيتان (دجاج كابيتان)، سمك أسام بيداس، روبيان بالسامبال"
+  reviewSummary: "يثني الزوار على المطبخ النوني الأصيل ذي الطابع المنزلي الذي يقدمه فريق مكوّن من أب وابنته، في حصص سخية مخصصة للمشاركة، مع تميّز طبق الباي تي المقرمش بشكل خاص، فيما تضفي قاعة الطعام المليئة بالتحف طابعًا مميزًا؛ أما شاي الباندان بعشب الليمون المجاني بلا حدود فهو خيار شائع لموازنة الأطباق الأكثر حرارة."
+  phone: "+60 19-689 3969"
 sources:
   - title: "Lama"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"

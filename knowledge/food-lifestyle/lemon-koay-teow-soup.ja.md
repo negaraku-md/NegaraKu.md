@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup：バターワースの Bib Gourmand 麺屋台"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "クイティオ・スープ — 澄んだスープに平打ち米麺とニラ"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "レモン・クイティオ・スープ（うま味たっぷりの豚骨スープにつるりとした平打ち米麺、絞りたてのレモン汁で爽やかに仕上げる）；手切りの豚肉だんご"
+  reviewSummary: "MICHELIN ビブグルマンに選ばれたクイティオ・スープの屋台で、バターワース（Butterworth）の地元で人気の朝食。つるりとした平打ち米麺が、毎日作りたてのうま味豊かな豚骨スープに浸かり、スープを吸い込む手切りの豚肉だんごを添えて提供される。テーブルに置かれた絞りたてのレモン汁が味わいを引き立てる。"
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup はペナン本土側、Seberang Perai の Butterworth にある屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれている。koay teow th'ng——新鮮な豚骨スープに入った平打ちの米麺——を、手切りの豚肉パティとともに供し、味を引き立てるため搾りたてのレモン果汁をテーブルに用意する。地元の人気朝食である。"
 seoTitle: "Lemon Koay Teow Soup、ペナン（Bib Gourmand）"
 answer: "Lemon Koay Teow Soup はペナン本土側、Seberang Perai の Butterworth にある Bib Gourmand の屋台である。koay teow soup——毎日作りたての旨み豊かな豚骨スープに入った、つるりとした平打ち米麺——を供し、手切りの豚肉パティで仕上げ、味を引き立てるため搾りたてのレモン果汁をテーブルに用意する。地元で人気の朝食である。"

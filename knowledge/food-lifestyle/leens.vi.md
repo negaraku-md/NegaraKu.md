@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: Một gian bếp Syria ở TTDI với Bib Gourmand của Michelin"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "Hummus xông khói trộn dầu ô liu và rắc đậu gà lên trên"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "Thứ Hai-Thứ Sáu 18:00-22:00; Thứ Bảy-Chủ Nhật 12:00-15:00 & 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "Hummus xông khói với dầu ớt nướng; kebab khashkhash (xiên thịt cừu trong sốt hạt anh túc cay); cơm Syria giòn; halloumi fattoush; bánh mì Ả Rập mới nướng"
+  reviewSummary: "Một nhà hàng Trung Đông (Syria) đạt MICHELIN Bib Gourmand ở TTDI do đầu bếp gốc Syria Ameer Alzalek điều hành, người khởi nghiệp bằng việc giao các món ăn nấu tại nhà trước khi mở cửa hàng cố định này và nhanh chóng trở thành địa chỉ yêu thích của khu phố. Cách nấu đậm đà, đượm khói và đầy màu sắc, với lò nướng bánh ngay tại chỗ; các nhà phê bình đặc biệt khen ngợi món hummus xông khói và kebab thịt cừu."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "Ấn bản MICHELIN hiện hành chính xác — ấn bản mới nhất là MICHELIN Guide Kuala Lumpur & Penang 2026 (công bố ngày 11 November 2025); tuyển chọn Bib Gourmand được rà soát hằng năm, vì vậy hãy xác nhận lại tình trạng của Leen's với ấn bản hiện hành trước khi dựa vào nó."
   - "Năm Leen's lần đầu đạt Bib Gourmand — truyền thông địa phương (Malay Mail) liệt kê nó trong số các gương mặt Bib Gourmand mới của ấn bản 2025; hãy xác nhận với thông báo tuyển chọn chính thức của MICHELIN."

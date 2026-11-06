@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: Người làm kueh của Penang từ 1933"
 seoTitle: "Moh Teng Pheow Nyonya Koay, Penang"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "Kueh Nyonya nhiều màu rực rỡ như cầu vồng, gồm cả kuih lapis xếp lớp"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "Hằng ngày 10:00-17:00 (cả MICHELIN và Wanderlog đều ghi mở cửa hằng ngày; một số blog cũ ghi đóng cửa thứ Hai và mở lúc 10:30 - hãy xác nhận trước khi đến)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis, kuih talam, ang koo và nyonya chang (theo MICHELIN); các loại kueh truyền thống khác thấy tại chỗ gồm pulut inti, kuih koci, sri muka và abok-abok"
+  reviewSummary: "Một trong những cơ sở làm kueh Nyonya lâu đời nhất ở Penang, hoạt động từ năm 1933 và được trao giải MICHELIN Bib Gourmand. Kueh được làm theo cách truyền thống, tốn nhiều công sức; một quán cà phê có chỗ ngồi được bổ sung phía sau xưởng đang hoạt động vào năm 2016, nơi khách có thể đi qua gian bếp và xem quá trình làm kueh. Các đánh giá phần lớn tích cực (Google ~4.0), khen ngợi sự chính thống và giá cả phải chăng, dù một số ít cho rằng chất lượng không ổn định."
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

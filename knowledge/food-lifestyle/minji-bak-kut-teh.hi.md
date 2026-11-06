@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh: पुडु में 80 साल पुरानी Bib Gourmand विधि"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "बाक कुट तेह — गहरे जड़ी-बूटी वाले शोरबे में सूअर का मांस, सूखे क्लेपॉट संस्करण और डुबोने वाली सॉस के साथ"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "यह 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100 पर, $ मूल्य-श्रेणी में है। MICHELIN Guide इसे 'Worth Queueing For' टैग करता है, इसलिए व्यस्त समय में क़तार की अपेक्षा करें। बुकिंग रेस्तराँ द्वारा सीधे संभाली जाती है और क्रेडिट कार्ड स्वीकार नहीं किए जाते।"
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "रोज़ाना 10:30-15:00 और 18:00-21:00; मंगलवार बंद"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "बाक कुट तेह, जिसमें सूअर के मांस के हिस्से (पसलियाँ, पेट, ओझड़ी या मिश्रण) चुने जा सकते हैं, लहसुन और मिर्च वाली सोया सॉस में डुबोकर खाया जाता है; सोया में पकाया सूअर का पाया"
+  reviewSummary: "एक MICHELIN Bib Gourmand बाक कुट तेह, जो 1940 के दशक में एक ठेले के रूप में शुरू हुआ और अब तीसरी पीढ़ी चला रही है; जड़ी-बूटियों वाले सूअर की पसली के शोरबे की रेसिपी लगभग 80 वर्षों से काफी हद तक वैसी ही रही है, जो अपनी संतुलित जड़ी-बूटी की गर्माहट और प्राकृतिक मिठास के लिए सराही जाती है। ग्राहक अपने मांस के हिस्से खुद चुनते हैं और मांस को सोया, लहसुन और मिर्च में डुबोकर खाते हैं। समीक्षक नरम, अच्छी तरह पके मांस और मैत्रीपूर्ण सेवा की प्रशंसा करते हैं, हालाँकि कुछ लोग शोरबे को थोड़ा हल्का पाते हैं।"
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

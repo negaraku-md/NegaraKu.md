@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: आसम और नन्योन्या लक्सा के लिए पेनांग का एक बिब गूरमां"
 seoTitle: "My Own Cafe, जॉर्ज टाउन पेनांग"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - खीरे और मिर्च के साथ खट्टे इमली-मछली के शोरबे में मोटी चावल की नूडल्स"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe पेनांग के जॉर्ज टाउन में Lebuh Cannon पर स्थित एक परिवार-संचालित स्ट्रीट-फूड दुकान है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। यह अपने Penang asam laksa और Nyonya laksa, साथ ही सब्ज़ी भरे तले हुए स्प्रिंग रोल के लिए जाना जाता है, जो Khoo Kongsi कुल-भवन से कुछ ही कदम दूर परोसे जाते हैं।"
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "सोम, मंगल, गुरु, शुक्र, शनि, रवि 10:00-16:00; बुध बंद (MICHELIN गाइड के अनुसार)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (पुदीना और अनानास से सजा खट्टा-तीखा मछली/इमली का सूप); Nyonya laksa; तली हुई सब्ज़ी स्प्रिंग रोल"
+  reviewSummary: "MICHELIN Bib Gourmand से सम्मानित एक पारिवारिक दुकान। गाइड इसके Penang asam laksa को विशेष रूप से उजागर करती है, जो एक हल्का, ताज़गी भरा लाल सूप है जो खट्टे और तीखे स्वाद को संतुलित करता है, ऊपर से पुदीना और अनानास डाला गया है, साथ ही Nyonya laksa और उतनी ही स्वादिष्ट सब्ज़ी भरी तली हुई स्प्रिंग रोल भी हैं। केवल वॉक-इन; क्रेडिट कार्ड स्वीकार नहीं किए जाते।"
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

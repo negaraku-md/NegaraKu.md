@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow: Một Bib Gourmand của Penang"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — mì dẹt xào chảo với tôm, lạp xưởng và giá đỗ trên lá chuối"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "Thứ Ba-Thứ Năm 6:00 PM - 11:00 PM; Thứ Sáu-Thứ Bảy 6:00 PM - 11:30 PM; Chủ Nhật 6:00 PM - 11:00 PM; Thứ Hai nghỉ"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "char koay teow xào than với trứng vịt (để có thêm wok hei và lòng đỏ béo hơn); thêm một quả trứng ốp la lòng đào; món khai vị bạch tuộc trụng chấm sốt chua ngọt"
+  reviewSummary: "Được liệt kê trong MICHELIN Guide (Bib Gourmand theo các nguồn bên thứ ba, 2024-2025). Một quầy hàng mộc mạc đã gây dựng lượng khách trung thành suốt hơn 20 năm, nổi tiếng với char koay teow xào cùng trứng vịt trên bếp than, tạo nên wok hei đặc biệt. Rất đông vào đêm khuya thứ Sáu và thứ Bảy."
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow là một quầy mì ở Bukit Mertajam, Seberang Perai, phía đất liền của Penang, nằm trong danh sách Bib Gourmand của MICHELIN Guide. Món char koay teow của quầy được xào với trứng vịt trên lửa than để có wok hei rõ rệt; món khai vị bạch tuộc chần là lựa chọn được khuyên dùng. Đây là việc buôn bán buổi tối với lượng khách gây dựng qua hai thập niên."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, Penang"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow là một quầy mì Bib Gourmand ở Bukit Mertajam, Seberang Perai, phía đất liền của Penang. Món char koay teow đặc trưng được xào với trứng vịt trên lửa than, mang lại wok hei mạnh (hơi thở khói của chảo). Món khai vị bạch tuộc chần được khuyên dùng. Quầy buôn bán vào buổi tối."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay：1933年から続くペナンのクエ職人"
 seoTitle: "Moh Teng Pheow Nyonya Koay、ペナン"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "層になった kuih lapis を含む、鮮やかな虹色のニョニャ・クエ"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "毎日 10:00-17:00（MICHELIN と Wanderlog はいずれも毎日営業と記載；一部の古いブログは月曜定休・10:30 開店と記しているため、訪問前に要確認）"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "クエ・ラピス（kuih lapis）、クエ・タラム（kuih talam）、アンク（ang koo）、ニョニャ・チャン（nyonya chang）（MICHELIN による）；店頭で見られるその他の伝統的なクエには pulut inti、kuih koci、sri muka、abok-abok がある"
+  reviewSummary: "ペナンで最も歴史あるニョニャ・クエ（菓子）の作り手の一つで、1933 年から営業し、MICHELIN ビブグルマン（Bib Gourmand）に選ばれています。クエは手間のかかる伝統的な製法で作られ、2016 年には稼働中の工場の奥に着席できるカフェが増設され、訪問者は厨房を通り抜けてクエが作られる様子を見ることができます。レビューはおおむね好意的で（Google 約 4.0）、本格的な味わいと手頃な価格を評価する声が多い一方、品質にばらつきがあると感じる人も少数います。"
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

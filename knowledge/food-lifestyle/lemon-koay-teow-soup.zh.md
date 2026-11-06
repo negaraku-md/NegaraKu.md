@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup：北海的 Bib Gourmand 粿条汤摊"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "粿条汤——清汤里的扁粿条，配韭菜"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "柠檬粿条汤（滑嫩的扁粿条浸在鲜美的猪骨汤里，以现挤的柠檬汁提鲜）；手剁猪肉饼"
+  reviewSummary: "一摊荣获 MICHELIN 必比登推介（Bib Gourmand）的粿条汤，是北海（Butterworth）当地人钟爱的早餐。滑嫩的扁粿条浸在每天现熬、鲜味浓郁的猪骨汤中，配上吸饱汤汁的手剁猪肉饼；桌上备有现挤的柠檬汁，为风味增添一抹清爽。"
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup 是位于槟城大陆部分、威省北海（Butterworth）的一家街头美食摊，入选 MICHELIN Guide 的 Bib Gourmand 名单。它售卖 koay teow th'ng——以每日新鲜熬制的猪骨汤盛载的扁粿条——配上手剁肉饼，桌上备有鲜榨柠檬汁以提亮味道，是当地人钟爱的早餐。"
 seoTitle: "Lemon Koay Teow Soup，槟城（Bib Gourmand）"
 answer: "Lemon Koay Teow Soup 是位于槟城大陆部分、威省北海的一家 Bib Gourmand 街头美食摊。它售卖 koay teow soup——爽滑的扁粿条浸在每日新鲜熬制、鲜味十足的猪骨汤里——配上手剁肉饼，桌上备有鲜榨柠檬汁以提亮味道。这是当地颇受欢迎的早餐。"

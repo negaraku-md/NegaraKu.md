@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe : un Bib Gourmand de Penang pour l'asam et le Nyonya laksa"
 seoTitle: "My Own Cafe, George Town Penang"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - nouilles de riz épaisses dans un bouillon acidulé de tamarin et de poisson avec concombre et piment"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe est une échoppe de cuisine de rue familiale sur Lebuh Cannon, à George Town, Penang, titulaire d'un Bib Gourmand du Guide MICHELIN. Elle est réputée pour son Penang asam laksa et son Nyonya laksa, ainsi que ses rouleaux de printemps frits farcis aux légumes, servis à quelques pas de la maison de clan Khoo Kongsi."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "Lun, Mar, Jeu, Ven, Sam, Dim 10:00-16:00 ; Mer fermé (selon le Guide MICHELIN)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (soupe aigre-épicée de poisson/tamarin garnie de menthe et d'ananas) ; Nyonya laksa ; rouleaux de printemps frits aux légumes"
+  reviewSummary: "Établissement familial récompensé par un MICHELIN Bib Gourmand. Le Guide met en avant son Penang asam laksa, une soupe rouge légère et rafraîchissante qui équilibre les saveurs acidulées et épicées, garnie de menthe et d'ananas, aux côtés du Nyonya laksa et de rouleaux de printemps frits à la farce de légumes tout aussi délicieux. Sans réservation uniquement ; cartes de crédit non acceptées."
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

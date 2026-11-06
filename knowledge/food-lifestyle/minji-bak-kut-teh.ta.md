@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh: புடுவில் 80 ஆண்டு பழமையான Bib Gourmand செய்முறை"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "Bak kut teh — அடர் மூலிகை சாற்றில் பன்றி இறைச்சி, உலர் களிமண் பானை பதிப்பு மற்றும் தோய்க்கும் சாஸுடன்"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "இது 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100-இல், $ விலை வரம்பில் உள்ளது. MICHELIN Guide அதற்கு 'Worth Queueing For' எனக் குறியிடுகிறது, எனவே பரபரப்பான நேரங்களில் வரிசையை எதிர்பாருங்கள். முன்பதிவுகளை உணவகமே நேரடியாகக் கையாளுகிறது, கடன் அட்டைகள் ஏற்கப்படுவதில்லை."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "தினமும் 10:30-15:00 மற்றும் 18:00-21:00; செவ்வாய்க்கிழமை மூடப்படும்"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "பல்வேறு பன்றி இறைச்சி பகுதிகளைத் (விலா எலும்பு, வயிற்றுப் பகுதி, குடல் அல்லது கலவை) தேர்ந்தெடுக்கக்கூடிய bak kut teh, பூண்டு மற்றும் மிளகாயுடன் சோயா சாஸில் தோய்த்து உண்ணப்படும்; குழம்பில் வேகவைத்த பன்றிக் கால்"
+  reviewSummary: "1940களில் ஒரு தெருவோர கடையாகத் தொடங்கி இன்று மூன்றாம் தலைமுறையினரால் நடத்தப்படும் MICHELIN Bib Gourmand bak kut teh; மூலிகை பன்றி விலா எலும்பு சாறு செய்முறை சுமார் 80 ஆண்டுகளாக ஏறக்குறைய அப்படியே இருந்து வருகிறது, அதன் மென்மையான மூலிகை கதகதப்பு மற்றும் இயற்கையான இனிப்புக்காகப் போற்றப்படுகிறது. உணவருந்துவோர் தாங்களே பன்றி இறைச்சி பகுதிகளைத் தேர்ந்தெடுத்து, சோயா, பூண்டு மற்றும் மிளகாயில் இறைச்சியைத் தோய்த்து உண்கிறார்கள். மென்மையான, நன்கு சமைக்கப்பட்ட இறைச்சியையும் அன்பான சேவையையும் விமர்சகர்கள் பாராட்டுகிறார்கள், இருப்பினும் சிலர் சூப் சற்று இலேசாக இருப்பதாகக் கருதுகிறார்கள்."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

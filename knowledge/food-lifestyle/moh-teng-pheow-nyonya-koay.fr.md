@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay : le maître du kueh de Penang depuis 1933"
 seoTitle: "Moh Teng Pheow Nyonya Koay, Penang"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "Kueh Nyonya aux couleurs vives de l'arc-en-ciel, dont le kuih lapis en couches"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "Tous les jours 10h00-17h00 (MICHELIN et Wanderlog l'indiquent ouvert tous les jours ; certains blogs plus anciens mentionnent une fermeture le lundi et une ouverture à 10h30 - à confirmer avant de s'y rendre)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis, kuih talam, ang koo et nyonya chang (selon MICHELIN) ; parmi les autres kueh traditionnels visibles sur place figurent pulut inti, kuih koci, sri muka et abok-abok"
+  reviewSummary: "L'un des plus anciens fabricants de kueh Nyonya de Penang, en activité depuis 1933 et récompensé d'un MICHELIN Bib Gourmand. Les kueh sont préparés de façon traditionnelle, à forte intensité de main-d'œuvre ; un café avec places assises a été ajouté derrière l'atelier en activité en 2016, où les visiteurs peuvent traverser la cuisine et regarder la fabrication des kueh. Les avis sont majoritairement positifs (Google ~4,0), saluant l'authenticité et les prix abordables, même si une minorité trouve la qualité irrégulière."
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

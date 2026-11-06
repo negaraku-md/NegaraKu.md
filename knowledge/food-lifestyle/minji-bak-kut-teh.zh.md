@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh：富都一道传承 80 年的 Bib Gourmand 配方"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "肉骨茶——深色药材汤中的猪肉，配干锅砂煲版本与蘸酱"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "它位于 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100，价位属 $。MICHELIN Guide 为它标上「Worth Queueing For」，所以在繁忙时段预料要排队。订位由餐厅直接处理，且不收信用卡。"
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "每天 10:30-15:00 及 18:00-21:00；周二休息"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "肉骨茶，可选不同猪肉部位（排骨、五花肉、肚或综合），蘸蒜蓉辣椒酱油食用；卤猪脚"
+  reviewSummary: "一家米其林必比登（MICHELIN Bib Gourmand）肉骨茶，始于1940年代的路边摊，如今由第三代经营；药材排骨汤配方约80年来大致不变，以圆润温和的药材香和天然甘甜著称。食客自选猪肉部位，蘸酱油、蒜蓉和辣椒食用。食评称赞肉质鲜嫩、火候恰到好处，服务亲切，不过也有少数人觉得汤头偏清淡。"
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

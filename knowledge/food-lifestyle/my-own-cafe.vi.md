@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: Một Bib Gourmand ở Penang cho Asam và Nyonya Laksa"
 seoTitle: "My Own Cafe, George Town Penang"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - sợi bún gạo to trong nước dùng me và cá chua thanh với dưa leo và ớt"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe là một quán ăn đường phố do gia đình điều hành trên đường Lebuh Cannon ở George Town, Penang, đạt danh hiệu Bib Gourmand của MICHELIN Guide. Quán nổi tiếng với Penang asam laksa và Nyonya laksa, cùng chả giò chiên nhân rau, phục vụ chỉ cách nhà tổ Khoo Kongsi vài bước chân."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "Thứ Hai, Thứ Ba, Thứ Năm, Thứ Sáu, Thứ Bảy, Chủ Nhật 10:00-16:00; Thứ Tư đóng cửa (theo MICHELIN Guide)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (súp cá/me chua cay rắc lá bạc hà và dứa); Nyonya laksa; chả giò chiên nhân rau"
+  reviewSummary: "Quán ăn gia đình được trao giải MICHELIN Bib Gourmand. Cẩm nang nêu bật món Penang asam laksa của quán, một loại súp đỏ nhẹ nhàng, tươi mát, cân bằng giữa vị chua và cay, rắc lá bạc hà và dứa, cùng với Nyonya laksa và món chả giò chiên nhân rau cũng ngon không kém. Chỉ phục vụ khách đến trực tiếp; không nhận thẻ tín dụng."
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

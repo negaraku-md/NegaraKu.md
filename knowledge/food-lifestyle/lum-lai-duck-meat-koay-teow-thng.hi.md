@@ -40,6 +40,18 @@ keywords:
   - "Teochew noodles"
 
 updated: 2026-11-06
+place:
+  address: "Pasar Lebuh Cecil (Cecil Street Market), 24 Lebuh Cecil, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  priceRange: "$ (budget hawker; under RM15 per bowl)"
+  hours: "रोज़ 07:00-17:00 (नाश्ता और दोपहर का भोजन; जल्दी आना बेहतर है क्योंकि यह जल्दी बिक जाता है और व्यस्त घंटों में कतारें लग जाती हैं)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "बत्तख मांस koay teow th'ng (चपटी चावल-नूडल का सूप जिसमें बिना हड्डी की कटी बत्तख, फिश बॉल, फिश केक, खून की जेली, तला हुआ लहसुन और लहसुन के तेल में शैलट)"
+  reviewSummary: "MICHELIN Bib Gourmand चयन (KL & Penang 2025) और सबसे अधिक मांग वाली Bib प्रविष्टियों में से एक। 40 साल से अधिक पुराना, दूसरी पीढ़ी का ठेला जिसका उमामी से भरपूर शोरबा, मुलायम बत्तख और सुगंधित तला हुआ लहसुन लगातार सराहा जाता है; समीक्षक अक्सर इसे पेनांग का सबसे अच्छा बत्तख koay teow th'ng मानते हैं। हर कटोरा ऑर्डर पर बनाया जाता है, इसलिए कतार आगे बढ़ती है पर व्यस्त समय में लंबी हो सकती है।"
+  phone: "+60 12-433 6680"
 sources:
   - title: "Lum Lai Duck Meat Koay Teow Th'ng"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lum-lai-duck-meat-koay-teow-th-ng"

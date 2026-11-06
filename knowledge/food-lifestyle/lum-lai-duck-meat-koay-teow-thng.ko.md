@@ -40,6 +40,18 @@ keywords:
   - "Teochew noodles"
 
 updated: 2026-11-06
+place:
+  address: "Pasar Lebuh Cecil (Cecil Street Market), 24 Lebuh Cecil, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  priceRange: "$ (budget hawker; under RM15 per bowl)"
+  hours: "매일 07:00-17:00(아침과 점심; 금방 매진되고 피크 시간에는 줄이 생기므로 일찍 가는 것이 좋음)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "오리고기 koay teow th'ng(넓적한 쌀국수 국물에 뼈 없는 오리고기 슬라이스, 어묵 완자, 어묵, 선지, 튀긴 마늘, 마늘기름에 볶은 샬롯을 곁들임)"
+  reviewSummary: "MICHELIN 빕 구르망 선정(KL & Penang 2025)이자 가장 인기 있는 빕 구르망 등재 중 하나. 40년이 넘은 2대째 노점으로, 감칠맛 가득한 육수와 부드러운 오리고기, 향긋한 튀긴 마늘이 한결같이 호평을 받으며, 평론가들은 종종 페낭 최고의 오리고기 koay teow th'ng으로 꼽는다. 각 그릇을 주문 즉시 만들기 때문에 줄은 움직이지만 피크 시간에는 길어질 수 있다."
+  phone: "+60 12-433 6680"
 sources:
   - title: "Lum Lai Duck Meat Koay Teow Th'ng"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lum-lai-duck-meat-koay-teow-th-ng"

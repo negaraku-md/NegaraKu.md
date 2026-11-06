@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: Dapur Suriah di TTDI dengan Bib Gourmand Michelin"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "Hummus asap yang diaduk dengan minyak zaitun dan ditaburi kacang arab"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "Senin-Jumat 18:00-22:00; Sabtu-Minggu 12:00-15:00 & 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "Hummus asap dengan minyak cabai bakar; kebab khashkhash (sate domba dalam saus biji poppy pedas); nasi Suriah renyah; halloumi fattoush; roti Arab yang baru dipanggang"
+  reviewSummary: "Dapur Timur Tengah (Suriah) peraih MICHELIN Bib Gourmand di TTDI yang dikelola oleh koki kelahiran Suriah Ameer Alzalek, yang memulai dengan mengantar masakan rumahan sebelum membuka kedai fisik ini yang dengan cepat menjadi favorit warga sekitar. Masakannya berani, beraroma asap, dan penuh warna, dengan tungku roti di tempat; para pengulas secara khusus memuji hummus asap dan kebab dombanya."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "Edisi MICHELIN terkini yang tepat — yang terbaru adalah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan 11 November 2025); seleksi Bib Gourmand ditinjau setiap tahun, jadi konfirmasikan kembali status Leen's terhadap edisi terkini sebelum mengandalkannya."
   - "Tahun Leen's pertama kali meraih Bib Gourmand — media lokal (Malay Mail) mencantumkannya di antara entri Bib Gourmand baru untuk edisi 2025; konfirmasikan dengan pengumuman seleksi resmi MICHELIN."

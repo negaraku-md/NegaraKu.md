@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: Bib Gourmand Pulau Pinang untuk Asam dan Nyonya Laksa"
 seoTitle: "My Own Cafe, George Town Pulau Pinang"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - mi beras tebal dalam sup asam jawa dan ikan yang masam dengan timun dan cili"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe ialah sebuah kedai makanan jalanan milik keluarga di Lebuh Cannon, George Town, Pulau Pinang, yang memegang Bib Gourmand MICHELIN Guide. Ia terkenal dengan Penang asam laksa dan Nyonya laksanya, serta popia goreng berinti sayur, dihidangkan beberapa langkah dari rumah kongsi Khoo Kongsi."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "Isnin, Selasa, Khamis, Jumaat, Sabtu, Ahad 10:00-16:00; Rabu tutup (mengikut MICHELIN Guide)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (sup ikan/asam jawa masam-pedas bertabur pudina dan nanas); Nyonya laksa; popia sayur goreng"
+  reviewSummary: "Kedai milik keluarga yang dianugerahkan MICHELIN Bib Gourmand. Panduan ini menonjolkan Penang asam laksa-nya, sup merah yang ringan dan menyegarkan yang mengimbangi rasa masam dan pedas, bertabur pudina dan nanas, bersama Nyonya laksa dan popia goreng berinti sayur yang sama sedapnya. Walk-in sahaja; kad kredit tidak diterima."
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

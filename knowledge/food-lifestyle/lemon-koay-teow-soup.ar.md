@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup: كشك نودلز Bib Gourmand في Butterworth"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "شوربة كواي تياو — معكرونة أرز مسطحة في مرق صافٍ مع الثوم المعمر"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "شوربة كواي تياو بالليمون (معكرونة أرز مسطحة ناعمة في مرق عظام الخنزير الغني بنكهة الأومامي، تُضفى عليها نضارة بعصير الليمون المعصور طازجًا)؛ قرص لحم خنزير مفروم يدويًا"
+  reviewSummary: "كشك شوربة كواي تياو حائز على تصنيف MICHELIN Bib Gourmand وفطور محلي مفضّل في بترورث (Butterworth). تغوص معكرونة الأرز المسطحة الناعمة في مرق عظام الخنزير الغني بنكهة الأومامي المُعدّ طازجًا كل يوم، ويُقدَّم معها قرص لحم خنزير مفروم يدويًا يتشرّب المرق؛ وعصير الليمون المعصور طازجًا على الطاولة يُضفي نضارة على النكهات."
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup كشك طعام شارع في Butterworth بـ Seberang Perai، على برّ بينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide. يقدّم koay teow th'ng — نودلز أرز مسطّحة في مرق عظام خنزير طازج — مع قرص لحم خنزير مفروم يدويًا وعصير ليمون معصور طازجًا على الطاولة لإضفاء نكهة منعشة، وهو فطور محبوب لدى السكان المحليين."
 seoTitle: "Lemon Koay Teow Soup، بينانغ (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup كشك طعام شارع حائز على Bib Gourmand في Butterworth بـ Seberang Perai، على برّ بينانغ. يقدّم koay teow soup — نودلز أرز مسطّحة حريرية في مرق عظام خنزير غنيّ بنكهة الأومامي يُحضَّر طازجًا كل يوم — ويُتوَّج بقرص لحم خنزير مفروم يدويًا، مع عصير ليمون معصور طازجًا على الطاولة لرفع النكهة. وهو فطور محلي رائج."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "‏Minji Bak Kut Teh: وصفة Bib Gourmand عمرها 80 عامًا في بودو"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "باك كوت تيه — لحم خنزير في مرق أعشاب داكن مع نسخة جافة في وعاء فخاري وصلصات للغمس"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "يقع في 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100، ضمن فئة السعر $. يَسِمه MICHELIN Guide بـ 'Worth Queueing For'، فتوقّع طوابير في أوقات الذروة. تُدار الحجوزات مباشرةً عبر المطعم، وبطاقات الائتمان غير مقبولة."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "يوميًا 10:30-15:00 و18:00-21:00؛ مغلق يوم الثلاثاء"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "باك كوت تيه مع إمكانية اختيار قطع لحم الخنزير (الأضلاع أو البطن أو الكرشة أو مزيج منها)، يُغمس في صلصة الصويا مع الثوم والفلفل الحار؛ وساق خنزير مطهوة بالتتبيلة"
+  reviewSummary: "باك كوت تيه حائز على تصنيف MICHELIN Bib Gourmand، بدأ كبسطة طعام في أربعينيات القرن الماضي ويديره اليوم الجيل الثالث؛ وقد ظلت وصفة مرق أضلاع الخنزير بالأعشاب كما هي تقريبًا نحو 80 عامًا، وتشتهر بدفء أعشابها المتوازن وحلاوتها الطبيعية. يختار الزبائن قطع لحم الخنزير بأنفسهم ويغمسون اللحم في صلصة الصويا والثوم والفلفل الحار. يُشيد المراجعون باللحم الطري المطهو جيدًا وبالخدمة الودودة، رغم أن قلة منهم يرون أن الشوربة خفيفة بعض الشيء."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

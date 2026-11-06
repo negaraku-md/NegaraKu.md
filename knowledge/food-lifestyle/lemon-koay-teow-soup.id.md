@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup: Kedai Mi Bib Gourmand Butterworth"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "Sup koay teow — koay teow pipih dalam kaldu bening dengan kucai"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Sup koay teow lemon (koay teow pipih lembut dalam kaldu tulang babi yang kaya umami, disegarkan dengan perasan lemon segar); bakso daging babi cincang tangan"
+  reviewSummary: "Kedai sup koay teow peraih MICHELIN Bib Gourmand dan sarapan favorit warga lokal di Butterworth. Koay teow pipih yang lembut terendam dalam kaldu tulang babi kaya umami yang dibuat segar setiap hari, disajikan dengan bakso daging babi cincang tangan yang menyerap kaldu; perasan lemon segar di atas meja menyegarkan cita rasanya."
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup adalah kedai makanan kaki lima di Butterworth, Seberang Perai, di daratan utama Penang, yang masuk dalam seleksi Bib Gourmand MICHELIN Guide. Kedai ini menyajikan koay teow th'ng — kwetiau pipih dalam kaldu tulang babi yang dibuat segar — dengan patty babi cincang tangan serta perasan lemon segar di atas meja untuk mencerahkan rasa, sarapan favorit warga lokal."
 seoTitle: "Lemon Koay Teow Soup, Penang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup adalah kedai makanan kaki lima Bib Gourmand di Butterworth, Seberang Perai, di daratan utama Penang. Kedai ini menyajikan koay teow soup — kwetiau pipih yang mulus dalam kaldu tulang babi beraroma umami yang dibuat segar setiap hari — diselesaikan dengan patty babi cincang tangan, dengan perasan lemon segar disediakan di meja untuk mengangkat rasa. Ini sarapan lokal yang populer."

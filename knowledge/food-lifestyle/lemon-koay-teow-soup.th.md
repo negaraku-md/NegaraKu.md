@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup: ร้านก๋วยเตี๋ยวระดับ Bib Gourmand ของบัตเตอร์เวิร์ธ"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "ก๋วยเตี๋ยวน้ำ — koay teow เส้นแบนในน้ำซุปใสกับต้นกุยช่าย"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "ก๋วยเตี๋ยวน้ำมะนาว (koay teow เส้นแบนนุ่มลื่นในน้ำซุปกระดูกหมูรสอูมามิ เพิ่มความสดชื่นด้วยน้ำมะนาวคั้นสด); ก้อนหมูสับมือ"
+  reviewSummary: "ร้านก๋วยเตี๋ยว koay teow น้ำซุประดับ MICHELIN Bib Gourmand และเป็นอาหารเช้าที่คนท้องถิ่นชื่นชอบในบัตเตอร์เวิร์ธ (Butterworth) เส้นแบนนุ่มลื่นแช่อยู่ในน้ำซุปกระดูกหมูรสอูมามิที่ต้มสดใหม่ทุกวัน เสิร์ฟพร้อมก้อนหมูสับมือที่ซึมซับน้ำซุป น้ำมะนาวคั้นสดบนโต๊ะช่วยเพิ่มความสดชื่นให้รสชาติ"
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup เป็นร้านสตรีทฟู้ดใน Butterworth, Seberang Perai ฝั่งแผ่นดินใหญ่ของปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide เสิร์ฟ koay teow th'ng — เส้นก๋วยเตี๋ยวแบนในน้ำซุปกระดูกหมูที่ทำสดใหม่ — พร้อมก้อนหมูสับมือ และน้ำมะนาวคั้นสดวางไว้บนโต๊ะเพื่อเพิ่มความสดชื่นของรสชาติ เป็นอาหารเช้ายอดนิยมของคนท้องถิ่น"
 seoTitle: "Lemon Koay Teow Soup, ปีนัง (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup เป็นร้านสตรีทฟู้ดระดับ Bib Gourmand ใน Butterworth, Seberang Perai ฝั่งแผ่นดินใหญ่ของปีนัง เสิร์ฟ koay teow soup — เส้นก๋วยเตี๋ยวแบนเนียนลื่นในน้ำซุปกระดูกหมูรสอูมามิที่ทำสดใหม่ทุกวัน — ปิดท้ายด้วยก้อนหมูสับมือ โดยมีน้ำมะนาวคั้นสดวางไว้ที่โต๊ะเพื่อยกรสชาติ เป็นอาหารเช้ายอดนิยมของคนท้องถิ่น"

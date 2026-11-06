@@ -44,6 +44,15 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  hours: "रोज़ाना 11:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "पाई टी, अयाम कपितान (चिकन कपितान), असम पेडस मछली, सांबल झींगा"
+  reviewSummary: "खाने के शौकीन पिता-पुत्री की जोड़ी के प्रामाणिक, घरेलू अंदाज़ के न्योन्या व्यंजनों की तारीफ़ करते हैं, जो साझा करने लायक भरपूर मात्रा में परोसे जाते हैं; कुरकुरी पाई टी यहाँ की ख़ासियत है और प्राचीन वस्तुओं से सजा भोजन-कक्ष इसमें अलग रंग भरता है; असीमित मुफ़्त पैंडन लेमनग्रास चाय तीखे व्यंजनों के साथ संतुलन के लिए एक लोकप्रिय साथी है।"
+  phone: "+60 19-689 3969"
 sources:
   - title: "Lama"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"

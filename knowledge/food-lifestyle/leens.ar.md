@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: مطبخ سوري في TTDI حائز على MICHELIN Bib Gourmand"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "حمص مدخّن ممزوج بزيت الزيتون ومزيّن بحبّات الحمص"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "الإثنين-الجمعة 18:00-22:00؛ السبت-الأحد 12:00-15:00 و18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "حمص مدخّن مع زيت الفلفل الحار المحروق؛ كباب خشخاش (أسياخ لحم الضأن بصلصة بذور الخشخاش الحارة)؛ أرز سوري مقرمش؛ فتوش الحلوم؛ خبز عربي طازج من الفرن"
+  reviewSummary: "مطبخ شرق أوسطي (سوري) حائز على تصنيف بيب غورماند من ميشلان في حي TTDI، يديره الشيف السوري المولد أمير الزالق، الذي بدأ بتوصيل أطباق منزلية الصنع قبل أن يفتتح هذا المحل الثابت الذي سرعان ما أصبح مفضّلاً لدى سكان الحي. الطبخ جريء ومدخّن ومفعم بالألوان، مع فرن خبز داخل المكان؛ ويخص النقّاد بالذكر الحمص المدخّن وكباب لحم الضأن."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "الإصدار الحالي الدقيق من MICHELIN — الأحدث هو MICHELIN Guide Kuala Lumpur & Penang 2026 (أُعلن في 11 November 2025)؛ تُراجَع اختيارات Bib Gourmand سنويًا، لذا أعد تأكيد حالة Leen's مقابل الإصدار الحالي قبل الاعتماد عليها."
   - "السنة التي نال فيها Leen's أول Bib Gourmand — تُدرجه وسائل الإعلام المحلية (Malay Mail) ضمن الداخلين الجدد إلى Bib Gourmand لإصدار 2025؛ تأكّد من ذلك عبر إعلان الاختيار الرسمي من MICHELIN."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay：槟城 1933 年的娘惹糕老店"
 seoTitle: "Moh Teng Pheow Nyonya Koay，槟城"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "色彩鲜艳如彩虹的娘惹糕点，包括层层叠叠的 kuih lapis"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "每日 10:00-17:00（MICHELIN 和 Wanderlog 均列为每日营业；一些较旧的部落格提到周一休息、10:30 开门——前往前请先确认）"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "kuih lapis、kuih talam、ang koo 和 nyonya chang（据 MICHELIN）；现场可见的其他传统娘惹糕点还包括 pulut inti、kuih koci、sri muka 和 abok-abok"
+  reviewSummary: "槟城最古老的娘惹糕点制作商之一，自 1933 年营业至今，并获得 MICHELIN Bib Gourmand（必比登推介）。糕点以传统、费工的方式制作；2016 年在运作中的工厂后方增设了堂食咖啡馆，访客可以穿过厨房、观看糕点的制作过程。评价大多正面（Google 约 4.0），称赞其地道风味与实惠价格，不过少数人认为品质不够稳定。"
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

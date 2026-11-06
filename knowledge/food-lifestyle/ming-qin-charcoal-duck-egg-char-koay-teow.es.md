@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow: un Bib Gourmand de Penang"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — fideos planos salteados al wok con gambas, salchicha china y brotes de soja sobre una hoja de plátano"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "Mar-Jue 6:00 PM - 11:00 PM; Vie-Sáb 6:00 PM - 11:30 PM; Dom 6:00 PM - 11:00 PM; Lun cerrado"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "char koay teow frito al carbón con huevo de pato (para un wok hei extra y una yema más rica); añade un huevo frito poco hecho; entrante de pulpo escaldado con una salsa agridulce"
+  reviewSummary: "Incluido en la Guía MICHELIN (Bib Gourmand según fuentes de terceros, 2024-2025). Un puesto sencillo que ha construido una clientela fiel a lo largo de más de 20 años, conocido por su char koay teow salteado con huevo de pato sobre fuego de carbón, que le aporta un wok hei excepcional. Se llena hasta tarde las noches de viernes y sábado."
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow es un puesto de fideos en Bukit Mertajam, Seberang Perai, en la parte continental de Penang, incluido en la selección Bib Gourmand de la MICHELIN Guide. Su char koay teow se saltea con huevo de pato sobre fuego de carbón para lograr un marcado wok hei; un aperitivo de pulpo escaldado es un entrante recomendado. Es un negocio de tarde-noche con una clientela forjada a lo largo de dos décadas."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, Penang"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow es un puesto de fideos Bib Gourmand en Bukit Mertajam, Seberang Perai, en la parte continental de Penang. Su char koay teow insignia se saltea con huevo de pato sobre fuego de carbón, lo que le da un fuerte wok hei (el aliento ahumado del wok). Un aperitivo de pulpo escaldado es un entrante recomendado. Abre por la tarde-noche."

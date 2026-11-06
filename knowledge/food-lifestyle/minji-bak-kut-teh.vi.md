@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh: Công thức Bib Gourmand 80 năm tuổi ở Pudu"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "Bak kut teh — thịt heo trong nước dùng thảo mộc sẫm màu cùng phiên bản niêu đất khô và nước chấm"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "Quán ở 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, trong khung giá $. MICHELIN Guide gắn nhãn 'Worth Queueing For', nên hãy lường trước việc xếp hàng vào giờ cao điểm. Việc đặt chỗ do nhà hàng trực tiếp xử lý và không nhận thẻ tín dụng."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "Hằng ngày 10:30-15:00 và 18:00-21:00; nghỉ thứ Ba"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Bak kut teh với lựa chọn các phần thịt heo (sườn, ba chỉ, bao tử hoặc tổng hợp), chấm nước tương pha tỏi và ớt; giò heo kho"
+  reviewSummary: "Một quán bak kut teh đạt MICHELIN Bib Gourmand, khởi đầu là một gánh hàng rong thập ni 1940 và nay do thế hệ thứ ba điều hành; công thức nước dùng sườn heo thảo mộc gần như giữ nguyên suốt khoảng 80 năm, được ưa chuộng nhờ vị ấm thảo mộc tròn vị và ngọt tự nhiên. Thực khách tự chọn phần thịt heo và chấm thịt vào nước tương, tỏi và ớt. Người đánh giá khen thịt mềm, nấu khéo và phục vụ thân thiện, dù một số người thấy nước dùng hơi nhạt."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

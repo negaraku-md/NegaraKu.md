@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe：アッサム・ニョニャ・ラクサのペナン・ビブグルマン"
 seoTitle: "My Own Cafe、ジョージタウン・ペナン"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - きゅうりと唐辛子を添えた、酸味のあるタマリンドと魚のスープに入った太い米麺"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe は、ペナン・ジョージタウンの Lebuh Cannon にある家族経営の屋台料理店で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。Penang asam laksa と Nyonya laksa、そして野菜を詰めた揚げ春巻きで知られ、Khoo Kongsi の宗祠からほど近い場所で供されます。"
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "月・火・木・金・土・日 10:00-16:00；水曜定休（MICHELINガイドによる）"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa（ミントとパイナップルをのせた酸っぱくて辛い魚・タマリンドのスープ）；Nyonya laksa；野菜入り揚げ春巻き"
+  reviewSummary: "MICHELIN Bib Gourmandを受賞した家族経営の店。ガイドはこの店のPenang asam laksaを高く評価しており、酸味と辛味のバランスがとれた軽やかで爽やかな赤いスープに、ミントとパイナップルをのせた一品で、Nyonya laksaや同じくおいしい野菜入り揚げ春巻きも楽しめます。ウォークインのみ；クレジットカードは利用不可。"
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

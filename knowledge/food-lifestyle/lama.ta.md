@@ -44,6 +44,15 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  hours: "தினமும் 11:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "Pie tee, Ayam Kapitan (கோழி கபிடான்), Assam Pedas மீன், சம்பல் இறால்"
+  reviewSummary: "தந்தை-மகள் குழுவின் உண்மையான, வீட்டு முறையிலான நோன்யா சமையலை, பகிர்ந்துண்ண ஏற்ற தாராள அளவில் பரிமாறுவதை உணவருந்துவோர் பாராட்டுகின்றனர்; மொறுமொறுப்பான pie tee தனிச்சிறப்புப் பெறுகிறது, பழம்பொருட்கள் நிறைந்த உணவு அறை தனி மெருகூட்டுகிறது; இலவசமாக தாராளமாக வழங்கப்படும் பாண்டன் எலுமிச்சம்புல் தேநீர் காரமான உணவுகளுக்கு நல்லதொரு துணையாக மக்களிடையே பிரபலம்."
+  phone: "+60 19-689 3969"
 sources:
   - title: "Lama"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"

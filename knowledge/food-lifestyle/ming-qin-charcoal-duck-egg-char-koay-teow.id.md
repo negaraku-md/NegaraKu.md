@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow: Bib Gourmand Penang"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — mi pipih tumis wajan dengan udang, sosis Cina, dan tauge di atas daun pisang"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "Sel-Kam 6:00 PM - 11:00 PM; Jum-Sab 6:00 PM - 11:30 PM; Min 6:00 PM - 11:00 PM; Sen tutup"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "char koay teow goreng arang dengan telur bebek (untuk wok hei ekstra dan kuning telur yang lebih kaya); tambahkan telur mata sapi setengah matang; hidangan pembuka gurita rebus dengan cocolan asam-manis"
+  reviewSummary: "Terdaftar dalam MICHELIN Guide (Bib Gourmand menurut sumber pihak ketiga, 2024-2025). Kedai sederhana yang telah membangun pelanggan setia selama 20+ tahun, dikenal dengan char koay teow yang ditumis bersama telur bebek di atas api arang yang menghasilkan wok hei luar biasa. Ramai hingga larut malam pada Jumat dan Sabtu."
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow adalah kedai mi di Bukit Mertajam, Seberang Perai, di daratan utama Penang, yang masuk dalam seleksi Bib Gourmand MICHELIN Guide. Char koay teow-nya ditumis dengan telur bebek di atas api arang untuk wok hei yang kentara; cumi rebus sebentar adalah hidangan pembuka yang direkomendasikan. Ini usaha malam dengan pengikut yang dibangun selama dua dekade."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, Penang"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow adalah kedai mi Bib Gourmand di Bukit Mertajam, Seberang Perai, di daratan utama Penang. Char koay teow andalannya ditumis dengan telur bebek di atas api arang, yang memberinya wok hei kuat (napas berasap wajan). Cumi rebus sebentar adalah hidangan pembuka yang direkomendasikan. Kedai ini berdagang pada malam hari."

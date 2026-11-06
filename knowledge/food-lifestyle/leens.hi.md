@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: TTDI में MICHELIN Bib Gourmand वाली एक सीरियाई रसोई"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "ज़ैतून के तेल में घुमाया गया और ऊपर से काबुली चने डाला गया स्मोक्ड हम्मस"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "सोम-शुक्र 18:00-22:00; शनि-रवि 12:00-15:00 और 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "जली हुई मिर्च के तेल के साथ स्मोक्ड हम्मस; कबाब खशखाश (मसालेदार खसखस की चटनी में भेड़ के मांस के सीख); कुरकुरा सीरियाई चावल; हलूमी फत्तूश; ताज़ा सिंकी अरबी रोटी"
+  reviewSummary: "TTDI में स्थित एक MICHELIN Bib Gourmand मध्य-पूर्वी (सीरियाई) रसोई, जिसे सीरिया में जन्मे शेफ Ameer Alzalek चलाते हैं, जिन्होंने घर में पके भोजन की डिलीवरी से शुरुआत की और बाद में यह दुकान खोली जो जल्द ही मोहल्ले की पसंदीदा जगह बन गई। खाना दमदार, धुएँदार और रंगीन है, परिसर में ही रोटी सेंकने का तंदूर है; समीक्षक स्मोक्ड हम्मस और भेड़ के मांस के कबाब को खास तौर पर सराहते हैं।"
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "सटीक वर्तमान MICHELIN संस्करण — नवीनतम MICHELIN Guide Kuala Lumpur & Penang 2026 है (11 November 2025 को घोषित); Bib Gourmand चयन हर वर्ष संशोधित होता है, इसलिए इस पर निर्भर होने से पहले वर्तमान संस्करण के विरुद्ध Leen's की स्थिति दोबारा पुष्टि करें।"
   - "वह वर्ष जब Leen's को पहली बार Bib Gourmand मिला — स्थानीय मीडिया (Malay Mail) इसे 2025 संस्करण की नई Bib Gourmand प्रविष्टियों में सूचीबद्ध करता है; आधिकारिक MICHELIN चयन घोषणा के विरुद्ध पुष्टि करें।"

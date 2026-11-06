@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow: पेनांग का एक Bib Gourmand"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — केले के पत्ते पर झींगे, चीनी सॉसेज और अंकुरित फलियों के साथ कड़ाही में भुनी चपटी नूडल्स"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "मंगल-गुरु 6:00 PM - 11:00 PM; शुक्र-शनि 6:00 PM - 11:30 PM; रवि 6:00 PM - 11:00 PM; सोम बंद"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "बत्तख के अंडे के साथ कोयले पर तला char koay teow (अतिरिक्त wok hei और गाढ़े जर्दी के लिए); ऊपर से हल्का तला अंडा डलवाएँ; खट्टी-मीठी डिप के साथ उबला ऑक्टोपस स्टार्टर"
+  reviewSummary: "MICHELIN Guide में सूचीबद्ध (तृतीय-पक्ष स्रोतों के अनुसार Bib Gourmand, 2024-2025)। एक साधारण स्टॉल जिसने 20+ वर्षों में वफादार ग्राहक बनाए हैं, जो कोयले की आँच पर बत्तख के अंडे के साथ भूने गए char koay teow के लिए जाना जाता है, जो असाधारण wok hei देता है। शुक्रवार और शनिवार की देर रात भीड़ रहती है।"
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow, पेनांग की मुख्य भूमि पर Seberang Perai के Bukit Mertajam में एक नूडल स्टॉल है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है। इसका char koay teow बतख के अंडे के साथ कोयले की आँच पर भूना जाता है ताकि स्पष्ट wok hei मिले; हल्का उबला ऑक्टोपस एक अनुशंसित स्टार्टर है। यह शाम का कारोबार है, जिसका अनुयायी-वर्ग दो दशकों में बना है।"
 seoTitle: "Ming Qin Charcoal Char Koay Teow, पेनांग"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow, पेनांग की मुख्य भूमि पर Seberang Perai के Bukit Mertajam में एक Bib Gourmand नूडल स्टॉल है। इसका सिग्नेचर char koay teow बतख के अंडे के साथ कोयले की आँच पर भूना जाता है, जो इसे प्रबल wok hei (कड़ाही की धुएँदार साँस) देता है। हल्का उबला ऑक्टोपस एक अनुशंसित स्टार्टर है। यह शाम को कारोबार करता है।"

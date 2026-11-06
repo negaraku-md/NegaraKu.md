@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: Penang's 1933 Kueh Maker"
 seoTitle: "Moh Teng Pheow Nyonya Koay, Penang"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "Nyonya kuih in bright rainbow colours, including layered kuih lapis"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -51,6 +56,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "Daily 10:00-17:00 (MICHELIN and Wanderlog list daily; some older blogs note closed Mondays and 10:30 opening - confirm before visiting)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis, kuih talam, ang koo, and nyonya chang (per MICHELIN); other traditional kueh seen on-site include pulut inti, kuih koci, sri muka and abok-abok"
+  reviewSummary: "One of Penang's oldest Nyonya kueh makers, operating since 1933 and awarded a MICHELIN Bib Gourmand. Kueh are made the traditional, labour-intensive way; a sit-down cafe was added behind the working factory in 2016, where visitors can walk through the kitchen and watch the kueh being made. Reviews are mostly positive (Google ~4.0), praising authenticity and affordable prices, though a minority find quality inconsistent."
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

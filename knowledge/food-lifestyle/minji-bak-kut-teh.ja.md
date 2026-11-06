@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh：プドゥに息づく 80 年の Bib Gourmand レシピ"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "バクテー（肉骨茶）——黒っぽい漢方スープの豚肉、土鍋のドライ版とつけだれ添え"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "店は 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100 にあり、$ の価格帯です。MICHELIN Guide は「Worth Queueing For」と記しているので、混雑時には行列を見込んでください。予約はレストランが直接扱い、クレジットカードは使えません。"
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "毎日 10:30～15:00 および 18:00～21:00、火曜定休"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "豚肉の部位（スペアリブ、バラ肉、胃袋、または盛り合わせ）を選べるバクテー（肉骨茶）、ニンニクと唐辛子入りの醤油につけて。醤油煮込みの豚足も"
+  reviewSummary: "1940年代に屋台として始まり、現在は三代目が営むMICHELINビブグルマン（Bib Gourmand）のバクテー（肉骨茶）。漢方入りの豚スペアリブスープのレシピは約80年間ほぼ変わらず、まろやかな漢方の温かみと自然な甘みで高く評価されています。客は自分で豚肉の部位を選び、醤油・ニンニク・唐辛子に肉をつけて食べます。レビューでは柔らかくよく煮込まれた肉と親しみやすい接客が称賛されていますが、スープがやや薄めと感じる人も少数います。"
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's：MICHELIN Bib Gourmand を持つ、TTDI のシリア料理の厨房"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "オリーブオイルを回しかけ、ひよこ豆をのせたスモークフムス"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "月～金 18:00-22:00；土・日 12:00-15:00 & 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "焦がしチリオイルを添えたスモークフムス；ケバブ・ハシュハシュ（スパイシーなポピーシードソースのラム串）；カリカリのシリア風ライス；ハルミ・ファトゥーシュ；焼きたてのアラビックブレッド"
+  reviewSummary: "TTDIにあるMICHELINビブグルマン掲載の中東（シリア）料理店で、シリア生まれのシェフAmeer Alzalekが切り盛りしています。彼は家庭料理の宅配から始め、その後この実店舗を開き、瞬く間に地元の人気店となりました。料理は大胆でスモーキー、色彩豊かで、店内にはパン焼き窯を備えています。評論家はスモークフムスとラムケバブを特に高く評価しています。"
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "正確な現行 MICHELIN 版——最新は MICHELIN Guide Kuala Lumpur & Penang 2026（2025年11月11日発表）です。Bib Gourmand の選出は毎年見直されるため、依拠する前に現行版で Leen's の状態を再確認してください。"
   - "Leen's が初めて Bib Gourmand を獲得した年——地元メディア（Malay Mail）は2025年版の新規 Bib Gourmand 入選店の一つとして挙げていますが、MICHELIN 公式の選出発表で確認してください。"

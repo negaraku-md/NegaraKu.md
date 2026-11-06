@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe：槟城一家主打亚参与娘惹叻沙的米其林必比登推介"
 seoTitle: "My Own Cafe，槟城乔治市"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa——粗米粉浸在酸香的亚参鱼汤中，配黄瓜和辣椒"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe 是槟城乔治市大炮街（Lebuh Cannon）上一家家族经营的街头小吃店，获得《米其林指南》必比登推介（Bib Gourmand）。它以 Penang asam laksa 和 Nyonya laksa 闻名，另有蔬菜馅炸春卷，就在Khoo Kongsi宗祠几步之遥处供应。"
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "周一、周二、周四、周五、周六、周日 10:00-16:00；周三休息（据 MICHELIN 指南）"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa（酸辣鱼汤/亚参汤，撒上薄荷叶和菠萝）；Nyonya laksa；炸蔬菜春卷"
+  reviewSummary: "一家荣获 MICHELIN Bib Gourmand 的家族经营小店。指南特别推荐其 Penang asam laksa，这是一款清爽的红色汤品，酸辣平衡，顶部撒有薄荷叶和菠萝，还有 Nyonya laksa 以及同样美味的蔬菜馅炸春卷。仅限现场光顾；不接受信用卡。"
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

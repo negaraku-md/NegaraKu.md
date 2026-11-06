@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: una cocina siria en TTDI con un Bib Gourmand de Michelin"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "Hummus ahumado con un hilo de aceite de oliva y garbanzos por encima"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "Lun-Vie 18:00-22:00; Sáb-Dom 12:00-15:00 y 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "Hummus ahumado con aceite de chile quemado; kebab khashkhash (brochetas de cordero en salsa picante de semillas de amapola); arroz sirio crujiente; fattoush de halloumi; pan árabe recién horneado"
+  reviewSummary: "Una cocina de Oriente Medio (siria) con MICHELIN Bib Gourmand en TTDI, dirigida por el chef Ameer Alzalek, nacido en Siria, que empezó repartiendo comida casera antes de abrir este local físico que pronto se convirtió en el favorito del barrio. La cocina es intensa, ahumada y colorida, con un horno de pan en el propio local; los críticos destacan el hummus ahumado y los kebabs de cordero."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "La edición MICHELIN vigente exacta: la más reciente es la MICHELIN Guide Kuala Lumpur & Penang 2026 (anunciada el 11 November 2025); la selección Bib Gourmand se revisa cada año, así que vuelve a confirmar el estatus de Leen's con la edición vigente antes de fiarte de ello."
   - "El año en que Leen's obtuvo por primera vez el Bib Gourmand: la prensa local (Malay Mail) lo incluye entre las nuevas incorporaciones Bib Gourmand de la edición 2025; confírmalo con el anuncio de selección oficial de MICHELIN."

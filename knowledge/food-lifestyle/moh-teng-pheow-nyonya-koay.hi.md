@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: 1933 से Penang का kueh निर्माता"
 seoTitle: "Moh Teng Pheow Nyonya Koay, Penang"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "चमकीले इंद्रधनुषी रंगों में न्योन्या कुएह, जिसमें परतदार kuih lapis भी शामिल है"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "रोज़ाना 10:00-17:00 (MICHELIN और Wanderlog दोनों इसे रोज़ाना खुला बताते हैं; कुछ पुराने ब्लॉग सोमवार को बंद और 10:30 बजे खुलने का उल्लेख करते हैं - जाने से पहले पुष्टि कर लें)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis, kuih talam, ang koo और nyonya chang (MICHELIN के अनुसार); मौके पर दिखने वाले अन्य पारंपरिक कुएह में pulut inti, kuih koci, sri muka और abok-abok शामिल हैं"
+  reviewSummary: "पेनांग के सबसे पुराने न्योन्या कुएह निर्माताओं में से एक, जो 1933 से संचालित है और जिसे MICHELIN Bib Gourmand से सम्मानित किया गया है। कुएह पारंपरिक, श्रम-गहन तरीके से बनाए जाते हैं; 2016 में चालू फ़ैक्टरी के पीछे बैठकर खाने वाला एक कैफ़े जोड़ा गया, जहाँ आगंतुक रसोई से होकर गुज़र सकते हैं और कुएह बनते हुए देख सकते हैं। समीक्षाएँ ज़्यादातर सकारात्मक हैं (Google ~4.0), जो प्रामाणिकता और किफ़ायती दामों की सराहना करती हैं, हालाँकि कुछ लोगों को गुणवत्ता असंगत लगती है।"
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

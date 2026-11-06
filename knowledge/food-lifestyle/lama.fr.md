@@ -44,6 +44,15 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  hours: "Tous les jours de 11h00 à 21h00"
+  service: ["dine-in"]
+  mustOrder: "Pie tee, Ayam Kapitan (poulet kapitan), poisson Assam Pedas, crevettes au sambal"
+  reviewSummary: "Les clients saluent la cuisine nyonya authentique, façon maison, du duo père-fille, servie en portions généreuses pensées pour le partage, avec le pie tee croustillant en vedette et une salle remplie d'antiquités qui ajoute du cachet ; le thé pandan-citronnelle à volonté et offert est un accompagnement apprécié pour contrebalancer les plats les plus épicés."
+  phone: "+60 19-689 3969"
 sources:
   - title: "Lama"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"

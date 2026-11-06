@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup: 버터워스의 Bib Gourmand 국수 노점"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "꿰띠아우 수프 — 맑은 육수에 담긴 납작 쌀국수와 부추"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "레몬 꿰띠아우 수프(감칠맛 가득한 돼지 뼈 육수에 담긴 부드러운 납작 쌀국수, 갓 짜낸 레몬즙으로 산뜻하게 마무리); 손으로 다진 돼지고기 완자"
+  reviewSummary: "MICHELIN 빕 구르망에 선정된 꿰띠아우 수프 노점으로, 버터워스(Butterworth) 현지인이 즐겨 찾는 아침 식사다. 부드러운 납작 쌀국수가 매일 갓 끓여낸 감칠맛 가득한 돼지 뼈 육수에 담겨 나오며, 육수를 머금은 손으로 다진 돼지고기 완자와 함께 제공된다. 테이블에 놓인 갓 짜낸 레몬즙이 풍미를 한층 산뜻하게 살려준다."
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup는 페낭 본토 쪽 Seberang Perai의 Butterworth에 있는 길거리 음식 노점으로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있다. koay teow th'ng — 매일 신선하게 끓인 돼지뼈 육수에 넣은 납작한 쌀국수 — 를 손으로 다진 돼지고기 패티와 함께 내며, 맛을 돋우도록 갓 짜낸 레몬즙을 테이블에 둔다. 현지인이 사랑하는 아침 식사다."
 seoTitle: "Lemon Koay Teow Soup, 페낭 (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup는 페낭 본토 쪽 Seberang Perai의 Butterworth에 있는 Bib Gourmand 길거리 음식 노점이다. koay teow soup — 매일 신선하게 끓인 감칠맛 가득한 돼지뼈 육수에 넣은 매끈한 납작 쌀국수 — 를 내며, 손으로 다진 돼지고기 패티로 마무리하고, 맛을 돋우도록 갓 짜낸 레몬즙을 테이블에 둔다. 인기 있는 현지 아침 식사다."

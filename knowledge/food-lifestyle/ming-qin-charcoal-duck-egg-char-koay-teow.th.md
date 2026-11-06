@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow: Bib Gourmand แห่งปีนัง"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — เส้นก๋วยเตี๋ยวแบนผัดกระทะกับกุ้ง กุนเชียง และถั่วงอก บนใบตอง"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "อังคาร-พฤหัส 6:00 PM - 11:00 PM; ศุกร์-เสาร์ 6:00 PM - 11:30 PM; อาทิตย์ 6:00 PM - 11:00 PM; จันทร์ปิด"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "char koay teow ผัดเตาถ่านใส่ไข่เป็ด (เพื่อ wok hei ที่เข้มข้นขึ้นและไข่แดงที่มันกว่า); เพิ่มไข่ดาวสุกไม่สุก; เมนูเรียกน้ำย่อยปลาหมึกลวกเสิร์ฟพร้อมน้ำจิ้มเปรี้ยวหวาน"
+  reviewSummary: "ได้รับการจัดอันดับใน MICHELIN Guide (Bib Gourmand ตามแหล่งข้อมูลภายนอก ปี 2024-2025) ร้านเรียบง่ายที่สั่งสมลูกค้าประจำมากว่า 20 ปี ขึ้นชื่อเรื่อง char koay teow ผัดกับไข่เป็ดบนเตาถ่านซึ่งให้ wok hei ที่โดดเด่น คืนวันศุกร์และเสาร์จะคึกคักจนดึก"
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow เป็นร้านก๋วยเตี๋ยวใน Bukit Mertajam, Seberang Perai ฝั่งแผ่นดินใหญ่ของปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide char koay teow ของร้านผัดกับไข่เป็ดบนไฟถ่านเพื่อ wok hei ที่ชัดเจน ปลาหมึกลวกเป็นของเรียกน้ำย่อยที่แนะนำ เป็นกิจการช่วงค่ำที่มีลูกค้าสั่งสมมากว่าสองทศวรรษ"
 seoTitle: "Ming Qin Charcoal Char Koay Teow, ปีนัง"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow เป็นร้านก๋วยเตี๋ยวระดับ Bib Gourmand ใน Bukit Mertajam, Seberang Perai ฝั่งแผ่นดินใหญ่ของปีนัง char koay teow ซิกเนเจอร์ของร้านผัดกับไข่เป็ดบนไฟถ่าน ซึ่งให้ wok hei ที่เข้มข้น (ลมหายใจอันหอมควันของกระทะ) ปลาหมึกลวกเป็นของเรียกน้ำย่อยที่แนะนำ ร้านเปิดช่วงค่ำ"

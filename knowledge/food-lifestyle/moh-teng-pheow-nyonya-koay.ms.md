@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: Pembuat Kuih Penang sejak 1933"
 seoTitle: "Moh Teng Pheow Nyonya Koay, Penang"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "Kuih Nyonya berwarna-warni terang seperti pelangi, termasuk kuih lapis berlapis"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "Setiap hari 10:00-17:00 (MICHELIN dan Wanderlog menyenaraikannya buka setiap hari; sesetengah blog lama mencatatkan tutup pada hari Isnin dan buka jam 10:30 - sahkan sebelum melawat)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis, kuih talam, ang koo dan nyonya chang (menurut MICHELIN); kuih tradisional lain yang kelihatan di premis termasuk pulut inti, kuih koci, sri muka dan abok-abok"
+  reviewSummary: "Salah satu pembuat kuih Nyonya tertua di Pulau Pinang, beroperasi sejak 1933 dan dianugerahkan MICHELIN Bib Gourmand. Kuih dibuat secara tradisional yang memerlukan banyak tenaga; sebuah kafe dibuka di belakang kilang yang beroperasi pada 2016, di mana pengunjung boleh berjalan melalui dapur dan menyaksikan kuih dibuat. Ulasan kebanyakannya positif (Google ~4.0), memuji keasliannya dan harga yang berpatutan, walaupun segelintir mendapati kualitinya tidak konsisten."
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

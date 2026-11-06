@@ -38,6 +38,20 @@ reviewer: "ashton-tan"
 reviewed: 2026-11-06
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Level 51, THE FACE Style, 1020 Jalan Sultan Ismail, Kampung Baru, 50250 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Molina+restaurant+Kuala+Lumpur"
+  reviewsUrl: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/molina"
+  priceRange: "From RM 688 per person for the five-course tasting menu (menus run 5-9 courses); wine pairing extra"
+  hours: "Tue-Fri 18:00-00:00; Sat 12:00-13:30 and 18:00-00:00; Sun and Mon closed"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Tasting-menu only (5 to 9 courses) of French, Nordic and Asian-influenced avant-garde cooking; MICHELIN-cited plates include Dutch mussels with pickled banana and cauliflower, and a chanterelles with rum-macerated raisin dessert. Reservations required (book via the restaurant's website / TableApp or by phone)."
+  reviewSummary: "One-MICHELIN-star innovative restaurant (awarded in the MICHELIN Guide Kuala Lumpur & Penang 2025) on the 51st floor of THE FACE Style with panoramic city-skyline views. Chefs Schutte and Guillaume serve avant-garde European tasting menus blending French, Nordic and Asian influences. Fine-dining date-night venue with an interesting wine list, valet parking and air-conditioning; booking is managed by the restaurant directly."
+  website: "https://www.restaurant-molina.com/"
+  facebook: "https://www.facebook.com/profile.php?id=61560220156327"
+  instagram: "https://www.instagram.com/molina_kl/"
+  phone: "+60 12-801 0860"
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/molina"

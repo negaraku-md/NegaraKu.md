@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: MICHELIN Bib Gourmand பெற்ற, TTDI-யில் ஒரு சிரியச் சமையலறை"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "ஆலிவ் எண்ணெயுடன் கலக்கப்பட்டு கொண்டைக்கடலையால் மேலே தூவப்பட்ட புகையேற்றிய ஹம்மஸ்"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "திங்கள்-வெள்ளி 18:00-22:00; சனி-ஞாயிறு 12:00-15:00 & 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "புகையேற்றிய ஹம்மஸ் எரிந்த மிளகாய் எண்ணெயுடன்; கெபாப் காஷ்காஷ் (காரமான கசகசா சாஸில் ஆட்டிறைச்சி குச்சிகள்); மொறுமொறுப்பான சிரிய சாதம்; ஹல்லூமி ஃபத்தூஷ்; புதிதாக சுட்ட அரபு ரொட்டி"
+  reviewSummary: "TTDI-ல் அமைந்துள்ள MICHELIN Bib Gourmand அங்கீகாரம் பெற்ற மத்திய கிழக்கு (சிரிய) உணவகம், சிரியாவில் பிறந்த சமையல்காரர் Ameer Alzalek-ஆல் நடத்தப்படுகிறது. இவர் முதலில் வீட்டில் சமைத்த உணவுகளை விநியோகம் செய்வதன் மூலம் தொடங்கி, பின்னர் இந்த நிரந்தரக் கடையைத் திறந்தார், இது விரைவில் அக்கம்பக்கத்தின் விருப்பமான இடமாக மாறியது. சமையல் துணிகரமானது, புகை மணம் கொண்டது மற்றும் வண்ணமயமானது, இடத்திலேயே ரொட்டி சூளை உள்ளது; விமர்சகர்கள் புகையேற்றிய ஹம்மஸையும் ஆட்டிறைச்சி கெபாப்களையும் தனித்து பாராட்டுகின்றனர்."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "சரியான தற்போதைய MICHELIN பதிப்பு — சமீபத்தியது MICHELIN Guide Kuala Lumpur & Penang 2026 (2025 நவம்பர் 11 அன்று அறிவிக்கப்பட்டது); Bib Gourmand தேர்வு ஆண்டுதோறும் திருத்தப்படுகிறது, எனவே நம்பியிருப்பதற்கு முன் தற்போதைய பதிப்பை வைத்து Leen's-இன் நிலையை மீண்டும் உறுதிப்படுத்துங்கள்."
   - "Leen's முதன்முதலில் Bib Gourmand பெற்ற ஆண்டு — உள்ளூர் ஊடகம் (Malay Mail) இதை 2025 பதிப்பின் புதிய Bib Gourmand நுழைவுகளில் ஒன்றாகப் பட்டியலிடுகிறது; அதிகாரப்பூர்வ MICHELIN தேர்வு அறிவிப்பை வைத்து உறுதிப்படுத்துங்கள்."

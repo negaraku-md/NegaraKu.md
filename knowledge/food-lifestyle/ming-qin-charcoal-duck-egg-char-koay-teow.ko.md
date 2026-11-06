@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow: 페낭의 Bib Gourmand"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — 바나나 잎 위에 새우, 중국식 소시지, 숙주를 넣고 웍에 볶은 넓적한 면"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "화~목 6:00 PM - 11:00 PM; 금~토 6:00 PM - 11:30 PM; 일 6:00 PM - 11:00 PM; 월요일 휴무"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "오리알을 넣고 숯불에 볶은 char koay teow (더 강한 wok hei와 진한 노른자를 위해); 반숙 계란 추가; 새콤달콤한 소스를 곁들인 데친 문어 전채"
+  reviewSummary: "MICHELIN 가이드 등재 (제3자 자료 기준 Bib Gourmand, 2024-2025). 20년 넘게 단골 고객을 쌓아온 소박한 노점으로, 숯불 위에서 오리알과 함께 볶아 뛰어난 wok hei를 내는 char koay teow로 유명하다. 금요일과 토요일 밤 늦게 붐빈다."
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow는 페낭 본토 쪽 Seberang Perai의 Bukit Mertajam에 있는 국수 노점으로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있다. char koay teow를 오리알과 함께 숯불에서 볶아 뚜렷한 wok hei를 낸다. 살짝 데친 문어 전채가 추천 스타터다. 저녁 장사이며, 20년에 걸쳐 쌓은 단골층을 두고 있다."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, 페낭"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow는 페낭 본토 쪽 Seberang Perai의 Bukit Mertajam에 있는 Bib Gourmand 국수 노점이다. 대표 char koay teow는 오리알과 함께 숯불에서 볶여 강한 wok hei(웍의 연기 어린 숨결)를 띤다. 살짝 데친 문어 전채가 추천 스타터다. 저녁에 영업한다."

@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's : une cuisine syrienne à TTDI avec un Bib Gourmand Michelin"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "Houmous fumé nappé d'huile d'olive et garni de pois chiches"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "Lun-Ven 18:00-22:00 ; Sam-Dim 12:00-15:00 et 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "Houmous fumé à l'huile de piment brûlée ; kebab khashkhash (brochettes d'agneau en sauce épicée aux graines de pavot) ; riz syrien croustillant ; fattoush au halloumi ; pain arabe tout juste cuit"
+  reviewSummary: "Une cuisine moyen-orientale (syrienne) distinguée par un Bib Gourmand MICHELIN à TTDI, tenue par le chef Ameer Alzalek, né en Syrie, qui a commencé en livrant des plats faits maison avant d'ouvrir cette adresse en dur, vite devenue la préférée du quartier. La cuisine est franche, fumée et colorée, avec un four à pain sur place ; les critiques saluent particulièrement le houmous fumé et les kebabs d'agneau."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "L'édition MICHELIN en vigueur exacte — la plus récente est le MICHELIN Guide Kuala Lumpur & Penang 2026 (annoncé le 11 November 2025) ; la sélection Bib Gourmand est révisée chaque année, aussi reconfirmez le statut de Leen's par rapport à l'édition en vigueur avant de vous y fier."
   - "L'année où Leen's a obtenu pour la première fois le Bib Gourmand — la presse locale (Malay Mail) le classe parmi les nouvelles entrées Bib Gourmand de l'édition 2025 ; confirmez auprès de l'annonce de sélection officielle de MICHELIN."

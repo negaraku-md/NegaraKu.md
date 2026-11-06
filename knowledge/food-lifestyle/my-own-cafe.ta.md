@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: Asam மற்றும் Nyonya Laksa-க்கான பினாங்கின் ஒரு Bib Gourmand"
 seoTitle: "My Own Cafe, ஜார்ஜ் டவுன் பினாங்கு"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - வெள்ளரி மற்றும் மிளகாயுடன் கூடிய புளிப்பான புளி-மீன் குழம்பில் தடித்த அரிசி நூடுல்ஸ்"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe என்பது பினாங்கு ஜார்ஜ் டவுனில் Lebuh Cannon-இல் உள்ள ஒரு குடும்பம் நடத்தும் தெரு உணவுக் கடை, இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. இது அதன் Penang asam laksa மற்றும் Nyonya laksa, மேலும் காய்கறி நிரப்பப்பட்ட பொரித்த ஸ்பிரிங் ரோல்களுக்காக அறியப்படுகிறது, Khoo Kongsi குல மண்டபத்திலிருந்து சில அடி தூரத்தில் பரிமாறப்படுகிறது."
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "திங்கள், செவ்வாய், வியாழன், வெள்ளி, சனி, ஞாயிறு 10:00-16:00; புதன் மூடப்பட்டிருக்கும் (MICHELIN வழிகாட்டியின்படி)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (புதினா மற்றும் அன்னாசிப்பழம் தூவப்பட்ட புளிப்பு-காரமான மீன்/புளி சூப்); Nyonya laksa; பொரித்த காய்கறி ஸ்பிரிங் ரோல்"
+  reviewSummary: "MICHELIN Bib Gourmand விருது பெற்ற குடும்பம் நடத்தும் கடை. இதன் Penang asam laksa-வை இந்த வழிகாட்டி சிறப்பித்துக் காட்டுகிறது; இது புளிப்பு மற்றும் காரச்சுவையை சமநிலைப்படுத்தும் லேசான, புத்துணர்ச்சியூட்டும் சிவப்பு சூப், மேலே புதினா மற்றும் அன்னாசிப்பழம் தூவப்பட்டது, அத்துடன் Nyonya laksa மற்றும் அதே அளவு சுவையான காய்கறி நிரப்பப்பட்ட பொரித்த ஸ்பிரிங் ரோல்களும் உண்டு. நேரடியாக வருபவர்களுக்கு மட்டுமே; கடன் அட்டைகள் ஏற்கப்படாது."
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

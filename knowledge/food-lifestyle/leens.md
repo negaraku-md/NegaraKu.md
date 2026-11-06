@@ -2,6 +2,11 @@
 topicId: MY-MICH-0021
 title: "Leen's: A Syrian Kitchen in TTDI with a Michelin Bib Gourmand"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "Smoked hummus swirled with olive oil and topped with chickpeas"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -46,6 +51,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "Mon-Fri 18:00-22:00; Sat-Sun 12:00-15:00 & 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "Smoked hummus with burnt chilli oil; kebab khashkhash (lamb skewers in spicy poppy-seed sauce); crispy Syrian rice; halloumi fattoush; freshly baked Arabic bread"
+  reviewSummary: "A MICHELIN Bib Gourmand Middle Eastern (Syrian) kitchen in TTDI run by Syrian-born chef Ameer Alzalek, who started by delivering home-cooked meals before opening this brick-and-mortar shop that quickly became a neighbourhood favourite. The cooking is bold, smoky and colourful, with an on-site bread oven; reviewers single out the smoked hummus and lamb kebabs."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "The exact current MICHELIN edition — the latest is the MICHELIN Guide Kuala Lumpur & Penang 2026 (announced 11 November 2025); the Bib Gourmand selection is revised annually, so re-confirm Leen's status against the current edition before relying on it."
   - "The year Leen's first earned the Bib Gourmand — local media (Malay Mail) lists it among the new Bib Gourmand entries for the 2025 edition; confirm against the official MICHELIN selection announcement."

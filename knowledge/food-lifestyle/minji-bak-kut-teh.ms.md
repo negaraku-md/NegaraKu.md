@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh: Resipi Bib Gourmand Berusia 80 Tahun di Pudu"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "Bak kut teh — daging babi dalam sup herba gelap dengan versi periuk tanah kering dan sos cecah"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "Ia terletak di 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, dalam lingkungan harga $. MICHELIN Guide menandakannya 'Worth Queueing For,' jadi jangkakan beratur pada waktu sibuk. Tempahan dikendalikan terus oleh restoran dan kad kredit tidak diterima."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "Setiap hari 10:30-15:00 dan 18:00-21:00; tutup hari Selasa"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Bak kut teh dengan pilihan bahagian daging babi (rusuk, perut, perut usus atau gabungan), dicecah dalam kicap bersama bawang putih dan cili; kaki babi masak kicap"
+  reviewSummary: "Bak kut teh MICHELIN Bib Gourmand yang bermula sebagai gerai penjaja pada tahun 1940-an dan kini diuruskan oleh generasi ketiga; resipi sup rusuk babi herba kekal lebih kurang sama selama kira-kira 80 tahun, terkenal dengan kehangatan herba yang lembut dan kemanisan semula jadinya. Pengunjung memilih sendiri bahagian daging babi dan mencecah daging dalam kicap, bawang putih dan cili. Pengulas memuji daging yang lembut dan masak sempurna serta layanan mesra, walaupun ada yang mendapati supnya agak ringan."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

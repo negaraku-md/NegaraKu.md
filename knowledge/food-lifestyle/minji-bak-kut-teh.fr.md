@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh : une recette Bib Gourmand de 80 ans à Pudu"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "Bak kut teh — porc dans un bouillon d'herbes foncé avec une version sèche en marmite en terre cuite et des sauces pour tremper"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,20 @@ faq:
     a: "Il se trouve au 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, dans la tranche de prix $. Le MICHELIN Guide le signale « Worth Queueing For », attendez-vous donc à des files aux heures de pointe. Les réservations sont gérées directement par le restaurant et les cartes de crédit ne sont pas acceptées."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "Tous les jours de 10h30 à 15h00 et de 18h00 à 21h00 ; fermé le mardi"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Bak kut teh avec un choix de morceaux de porc (travers, poitrine, tripes ou un mélange), trempé dans de la sauce soja à l'ail et au piment ; jarret de porc braisé"
+  reviewSummary: "Un bak kut teh distingué par le MICHELIN Bib Gourmand, qui a débuté comme échoppe de rue dans les années 1940 et est aujourd'hui tenu par la troisième génération ; la recette du bouillon de travers de porc aux herbes est restée à peu près la même depuis environ 80 ans, prisée pour sa chaleur herbacée tout en rondeur et sa douceur naturelle. Les clients choisissent eux-mêmes leurs morceaux de porc et trempent la viande dans la sauce soja, l'ail et le piment. Les critiques saluent la viande tendre et bien cuite ainsi que le service aimable, même si certains trouvent le bouillon un peu léger."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

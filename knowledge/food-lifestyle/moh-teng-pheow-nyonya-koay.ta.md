@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: 1933 முதல் பினாங்கின் கொய் தயாரிப்பாளர்"
 seoTitle: "Moh Teng Pheow Nyonya Koay, பினாங்கு"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "அடுக்கடுக்கான kuih lapis உட்பட, பிரகாசமான வானவில் நிறங்களில் நோன்யா கோயா"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "தினமும் 10:00-17:00 (MICHELIN மற்றும் Wanderlog தினமும் திறந்திருப்பதாக பட்டியலிடுகின்றன; சில பழைய வலைப்பதிவுகள் திங்கட்கிழமைகளில் மூடப்படுவதாகவும் 10:30 மணிக்கு திறப்பதாகவும் குறிப்பிடுகின்றன - செல்வதற்கு முன் உறுதிப்படுத்தவும்)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis, kuih talam, ang koo மற்றும் nyonya chang (MICHELIN படி); அந்த இடத்தில் காணப்படும் பிற பாரம்பரிய கோயாக்களில் pulut inti, kuih koci, sri muka மற்றும் abok-abok ஆகியவை அடங்கும்"
+  reviewSummary: "பினாங்கின் மிகப் பழமையான நோன்யா கோயா தயாரிப்பாளர்களில் ஒருவர், 1933 முதல் இயங்கி வருகிறது, MICHELIN Bib Gourmand விருது பெற்றது. கோயாக்கள் பாரம்பரியமான, அதிக உழைப்பு தேவைப்படும் முறையில் தயாரிக்கப்படுகின்றன; 2016 இல் இயங்கும் தொழிற்சாலையின் பின்புறத்தில் ஒரு அமர்ந்து சாப்பிடும் கஃபே சேர்க்கப்பட்டது, அங்கு பார்வையாளர்கள் சமையலறை வழியாக நடந்து கோயா தயாரிக்கப்படுவதைப் பார்க்கலாம். விமர்சனங்கள் பெரும்பாலும் சாதகமாக உள்ளன (Google ~4.0), நம்பகத்தன்மை மற்றும் மலிவான விலைகளைப் பாராட்டுகின்றன, இருப்பினும் சிறுபான்மையினர் தரம் ஒரே சீராக இல்லை எனக் கருதுகின்றனர்."
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

@@ -40,6 +40,18 @@ keywords:
   - "Teochew noodles"
 
 updated: 2026-11-06
+place:
+  address: "Pasar Lebuh Cecil (Cecil Street Market), 24 Lebuh Cecil, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lum+Lai+Duck+Koay+Teow+Thng+Cecil+Street+Market+George+Town+Penang"
+  priceRange: "$ (budget hawker; under RM15 per bowl)"
+  hours: "Hằng ngày 07:00-17:00 (bữa sáng và bữa trưa; nên đến sớm vì dễ hết hàng và xếp hàng vào giờ cao điểm)"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Koay teow th'ng thịt vịt (súp mì gạo dẹt với thịt vịt rút xương thái lát, chả cá viên, chả cá, huyết, tỏi phi và hành tím trong dầu tỏi)"
+  reviewSummary: "Được MICHELIN Bib Gourmand chọn (KL & Penang 2025) và là một trong những quán Bib được săn đón nhất. Một quán hàng rong hơn 40 năm, đời thứ hai, với nước dùng đậm vị umami, thịt vịt mềm mượt và tỏi phi thơm lừng luôn được khen ngợi; giới phê bình thường đánh giá đây là koay teow th'ng thịt vịt ngon nhất Penang. Mỗi tô được làm theo yêu cầu nên hàng người di chuyển nhưng có thể dài vào giờ cao điểm."
+  phone: "+60 12-433 6680"
 sources:
   - title: "Lum Lai Duck Meat Koay Teow Th'ng"
     url: "https://guide.michelin.com/en/pulau-pinang/my-george-town/restaurant/lum-lai-duck-meat-koay-teow-th-ng"

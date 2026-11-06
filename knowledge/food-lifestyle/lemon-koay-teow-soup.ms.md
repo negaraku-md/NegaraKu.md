@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup: Gerai Mi Bib Gourmand Butterworth"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "Sup koay teow — koay teow nipis dalam sup jernih dengan kucai"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Sup koay teow lemon (koay teow nipis yang licin dalam sup tulang babi yang pekat umami, dicerahkan dengan jus lemon yang diperah segar); bebola daging babi yang dicincang tangan"
+  reviewSummary: "Gerai sup koay teow bertaraf MICHELIN Bib Gourmand dan sarapan tempatan kegemaran di Butterworth. Koay teow nipis yang licin direndam dalam sup tulang babi sarat umami yang dimasak segar setiap hari, dihidangkan dengan bebola daging babi yang dicincang tangan yang menyerap sup; jus lemon yang diperah segar di atas meja mencerahkan rasanya."
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup ialah gerai makanan jalanan di Butterworth, Seberang Perai, di tanah besar Pulau Pinang, tersenarai dalam pilihan Bib Gourmand MICHELIN Guide. Ia menghidangkan koay teow th'ng — kuetiau leper dalam sup tulang khinzir segar — dengan ketul daging khinzir yang dicincang tangan serta jus limau yang diperah segar di atas meja untuk mencerahkan rasa, kegemaran sarapan tempatan."
 seoTitle: "Lemon Koay Teow Soup, Pulau Pinang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup ialah gerai makanan jalanan Bib Gourmand di Butterworth, Seberang Perai, di tanah besar Pulau Pinang. Ia menghidangkan koay teow soup — kuetiau leper yang licin dalam sup tulang khinzir beraroma umami yang dibuat segar setiap hari — disempurnakan dengan ketul daging khinzir yang dicincang tangan, dengan jus limau yang diperah segar disediakan di meja untuk mengangkat rasa. Ia sarapan tempatan yang popular."

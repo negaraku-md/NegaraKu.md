@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup: Butterworth's Bib Gourmand Noodle Stall"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "Koay teow soup — flat rice noodles in a clear broth with chives"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -11,6 +16,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Lemon koay teow soup (silky flat rice noodles in umami pork bone broth, brightened with freshly squeezed lemon juice); hand-chopped pork patty"
+  reviewSummary: "A MICHELIN Bib Gourmand koay teow soup stall and a favourite local breakfast in Butterworth. Silky flat rice noodles sit in an umami-laden pork bone broth made fresh daily, served with a hand-chopped pork patty that soaks up the broth; freshly squeezed lemon juice on the table brightens the flavours."
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup is a street-food stall in Butterworth, Seberang Perai, on the Penang mainland, listed in the MICHELIN Guide's Bib Gourmand selection. It serves koay teow th'ng — flat rice noodles in a fresh pork-bone broth — with a hand-chopped pork patty and freshly squeezed lemon juice on the table to brighten the flavours, a local breakfast favourite."
 seoTitle: "Lemon Koay Teow Soup, Penang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup is a Bib Gourmand street-food stall in Butterworth, Seberang Perai, on the Penang mainland. It serves koay teow soup — silky flat rice noodles in an umami pork-bone broth made fresh daily — finished with a hand-chopped pork patty, with freshly squeezed lemon juice provided at the table to lift the flavours. It is a popular local breakfast."

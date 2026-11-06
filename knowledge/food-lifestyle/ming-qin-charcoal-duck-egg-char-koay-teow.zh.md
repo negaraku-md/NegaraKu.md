@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow：槟城的 Bib Gourmand"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow 炒粿条——香蕉叶上镬炒的扁粿条，配虾、腊肠和豆芽"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -12,6 +17,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "周二至周四 6:00 PM - 11:00 PM；周五至周六 6:00 PM - 11:30 PM；周日 6:00 PM - 11:00 PM；周一休息"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "炭火炒的鸭蛋炒粿条（鸭蛋带来更足的 wok hei 镬气和更浓郁的蛋黄）；加一粒半生熟蛋；酸甜蘸酱的白灼章鱼开胃小菜"
+  reviewSummary: "入选 MICHELIN 指南（据第三方资料为 Bib Gourmand 必比登推介，2024-2025）。这是一家朴实无华的摊档，20 多年来累积了一批忠实食客，以炭火搭配鸭蛋翻炒的 char koay teow 炒粿条闻名，炭火赋予非凡的 wok hei 镬气。周五和周六夜晚人潮尤其拥挤。"
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow 是位于槟城大陆部分、威省大山脚（Bukit Mertajam）的一家粿条摊，入选 MICHELIN Guide 的 Bib Gourmand 名单。它的 char koay teow 以鸭蛋、在炭火上快炒，带出鲜明的 wok hei；汆烫的鱿鱼是推荐的开胃前菜。这是一门晚市生意，口碑在二十年间积累而成。"
 seoTitle: "Ming Qin Charcoal Char Koay Teow，槟城"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow 是位于槟城大陆部分、威省大山脚的一家 Bib Gourmand 粿条摊。它的招牌 char koay teow 以鸭蛋、在炭火上快炒，因而带出强烈的 wok hei（镬气，炒锅的烟火气息）。汆烫的鱿鱼是推荐的开胃前菜。它在晚间营业。"

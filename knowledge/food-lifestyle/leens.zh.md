@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's：TTDI 一家摘得 MICHELIN Bib Gourmand 的叙利亚厨房"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "烟熏鹰嘴豆泥淋上橄榄油并撒上鹰嘴豆"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "周一至周五 18:00-22:00；周六至周日 12:00-15:00 及 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "烟熏鹰嘴豆泥配焦香辣椒油；kebab khashkhash（辣罂粟籽酱羊肉串）；酥脆叙利亚米饭；哈罗米芝士法图什沙拉；现烤阿拉伯面包"
+  reviewSummary: "位于 TTDI 的一家荣获 MICHELIN 必比登推介的中东（叙利亚）餐厅，由叙利亚出生的厨师 Ameer Alzalek 主理。他起初以外送自家烹饪的餐点起步，后来才开设这家实体店，很快便成为街坊的心头好。菜式口味浓郁、带烟熏香气且色彩丰富，店内设有现烤面包炉；评论者尤其推崇烟熏鹰嘴豆泥和羊肉串。"
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "确切的 MICHELIN 当前版本——最新的是 MICHELIN Guide Kuala Lumpur & Penang 2026（于2025年11月11日公布）；Bib Gourmand 精选每年修订，因此在依据之前，请对照当前版本重新确认 Leen's 的状态。"
   - "Leen's 首次获得 Bib Gourmand 的年份——本地媒体（Malay Mail）将其列入2025年版的 Bib Gourmand 新入选名单；请对照 MICHELIN 官方精选公告确认。"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0067
 title: "Lemon Koay Teow Soup: Quầy mì Bib Gourmand của Butterworth"
 slug: "lemon-koay-teow-soup"
+hero: "/media/food/lemon-koay-teow-soup/hero.webp"
+heroAlt: "Koay teow nước — sợi koay teow dẹt trong nước dùng trong với hẹ"
+heroCredit: "Stefan Fussan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Koay_Teow_Soup_with_Prawn_and_Chicken_(Pappa_Rich).jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "4415 Lorong Cengal 5, Butterworth, Seberang Perai, 13400, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lemon+Koay+Teow+Soup+Lorong+Cengal+5+Butterworth+Penang"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Koay teow nước chanh (sợi koay teow dẹt mềm mượt trong nước dùng xương heo đậm vị umami, thêm nước cốt chanh vắt tươi cho tươi mát); chả thịt heo băm tay"
+  reviewSummary: "Một quầy koay teow nước đạt MICHELIN Bib Gourmand và là món ăn sáng được người dân địa phương ưa chuộng ở Butterworth. Sợi koay teow dẹt mềm mượt nằm trong nước dùng xương heo đậm vị umami nấu mới mỗi ngày, ăn kèm chả thịt heo băm tay thấm đẫm nước dùng; nước cốt chanh vắt tươi trên bàn làm bừng sáng hương vị."
+  phone: "+60 13-518 8817"
 summary: "Lemon Koay Teow Soup là một quầy ẩm thực đường phố ở Butterworth, Seberang Perai, phía đất liền của Penang, nằm trong danh sách Bib Gourmand của MICHELIN Guide. Quầy phục vụ koay teow th'ng — mì gạo dẹt trong nước dùng xương heo nấu tươi mỗi ngày — với chả heo băm tay và nước cốt chanh vàng vắt tươi đặt trên bàn để làm bừng vị, một món ăn sáng được người địa phương yêu thích."
 seoTitle: "Lemon Koay Teow Soup, Penang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup là một quầy ẩm thực đường phố Bib Gourmand ở Butterworth, Seberang Perai, phía đất liền của Penang. Quầy phục vụ koay teow soup — mì gạo dẹt mượt trong nước dùng xương heo đậm vị umami nấu tươi mỗi ngày — hoàn thiện bằng chả heo băm tay, với nước cốt chanh vàng vắt tươi đặt tại bàn để nâng vị. Đây là món ăn sáng được ưa chuộng của người địa phương."

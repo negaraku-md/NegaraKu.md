@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: Bib Gourmand แห่งปีนังสำหรับอาซัมและนโยนยาลักซา"
 seoTitle: "My Own Cafe, จอร์จทาวน์ ปีนัง"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa - เส้นก๋วยเตี๋ยวข้าวเส้นหนาในน้ำซุปมะขามและปลารสเปรี้ยว พร้อมแตงกวาและพริก"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe เป็นร้านอาหารริมทางที่ครอบครัวดำเนินกิจการบนถนน Lebuh Cannon ในจอร์จทาวน์ ปีนัง ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide ขึ้นชื่อเรื่อง Penang asam laksa และ Nyonya laksa รวมถึงปอเปี๊ยะทอดไส้ผัก เสิร์ฟห่างจากศาลเจ้าตระกูล Khoo Kongsi เพียงไม่กี่ก้าว"
@@ -44,6 +49,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "จันทร์, อังคาร, พฤหัสบดี, ศุกร์, เสาร์, อาทิตย์ 10:00-16:00; พุธปิด (ตาม MICHELIN Guide)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (ซุปปลา/มะขามเปรี้ยวเผ็ดโรยหน้าด้วยมินต์และสับปะรด); Nyonya laksa; ปอเปี๊ยะทอดไส้ผัก"
+  reviewSummary: "ร้านที่บริหารโดยครอบครัวซึ่งได้รับรางวัล MICHELIN Bib Gourmand ไกด์เน้นย้ำถึง Penang asam laksa ของร้าน ซึ่งเป็นซุปสีแดงที่เบาและสดชื่น สมดุลระหว่างรสเปรี้ยวและเผ็ด โรยหน้าด้วยมินต์และสับปะรด พร้อมด้วย Nyonya laksa และปอเปี๊ยะทอดไส้ผักที่อร่อยไม่แพ้กัน รับเฉพาะลูกค้าที่เดินเข้ามาเท่านั้น; ไม่รับบัตรเครดิต"
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

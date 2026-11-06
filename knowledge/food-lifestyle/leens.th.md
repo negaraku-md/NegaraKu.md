@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: ครัวซีเรียใน TTDI ที่ได้ MICHELIN Bib Gourmand"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "ฮุมมุสรมควันคนเคล้ากับน้ำมันมะกอกและโรยหน้าด้วยถั่วชิกพี"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "จันทร์-ศุกร์ 18:00-22:00; เสาร์-อาทิตย์ 12:00-15:00 & 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "ฮุมมุสรมควันราดน้ำมันพริกย่าง; เคบับคาชคาช (ไม้เสียบเนื้อแกะในซอสเมล็ดป๊อปปี้รสเผ็ด); ข้าวซีเรียกรอบ; ฟัตตูชฮัลลูมี; ขนมปังอาหรับอบใหม่"
+  reviewSummary: "ครัวอาหารตะวันออกกลาง (ซีเรีย) ระดับ MICHELIN Bib Gourmand ย่าน TTDI ดำเนินการโดยเชฟ Ameer Alzalek ที่เกิดในซีเรีย ซึ่งเริ่มต้นจากการส่งอาหารทำเองที่บ้านก่อนจะเปิดร้านจริงแห่งนี้ที่กลายเป็นร้านโปรดของย่านอย่างรวดเร็ว การปรุงอาหารจัดจ้าน มีกลิ่นรมควัน และสีสันสดใส พร้อมเตาอบขนมปังภายในร้าน นักวิจารณ์ยกให้ฮุมมุสรมควันและเคบับเนื้อแกะเป็นจานเด่น"
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "ฉบับ MICHELIN ปัจจุบันที่แน่นอน — ฉบับล่าสุดคือ MICHELIN Guide Kuala Lumpur & Penang 2026 (ประกาศเมื่อ 11 November 2025) การคัดเลือก Bib Gourmand มีการปรับปรุงทุกปี จึงควรยืนยันสถานะของ Leen's กับฉบับปัจจุบันก่อนเชื่อถือ"
   - "ปีที่ Leen's ได้ Bib Gourmand ครั้งแรก — สื่อท้องถิ่น (Malay Mail) จัดให้อยู่ในรายชื่อผู้เข้าใหม่ Bib Gourmand ของฉบับ 2025 ควรยืนยันกับประกาศการคัดเลือกอย่างเป็นทางการของ MICHELIN"

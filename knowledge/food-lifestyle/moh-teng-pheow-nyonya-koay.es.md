@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: el maestro del kueh de Penang desde 1933"
 seoTitle: "Moh Teng Pheow Nyonya Koay, Penang"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "Kueh Nyonya en vivos colores de arcoíris, incluido el kuih lapis en capas"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "Todos los días 10:00-17:00 (tanto MICHELIN como Wanderlog lo indican abierto a diario; algunos blogs más antiguos señalan cierre los lunes y apertura a las 10:30 - confirma antes de visitar)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis, kuih talam, ang koo y nyonya chang (según MICHELIN); otros kueh tradicionales que se ven in situ incluyen pulut inti, kuih koci, sri muka y abok-abok"
+  reviewSummary: "Uno de los fabricantes de kueh Nyonya más antiguos de Penang, en funcionamiento desde 1933 y galardonado con un MICHELIN Bib Gourmand. Los kueh se elaboran de la forma tradicional, que requiere mucha mano de obra; en 2016 se añadió una cafetería con mesas detrás de la fábrica en funcionamiento, donde los visitantes pueden recorrer la cocina y ver cómo se preparan los kueh. Las reseñas son en su mayoría positivas (Google ~4.0), y elogian la autenticidad y los precios asequibles, aunque una minoría considera que la calidad es inconsistente."
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

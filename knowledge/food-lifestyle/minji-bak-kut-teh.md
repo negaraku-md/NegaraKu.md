@@ -3,6 +3,11 @@ topicId: MY-MICH-0020
 title: "Minji Bak Kut Teh: An 80-Year-Old Bib Gourmand Recipe in Pudu"
 seoTitle: "Minji Bak Kut Teh (Pudu)"
 slug: "minji-bak-kut-teh"
+hero: "/media/food/minji-bak-kut-teh/hero.webp"
+heroAlt: "Bak kut teh — pork in a dark herbal broth with a dry claypot version and dipping sauces"
+heroCredit: "Yosuke Ota / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -43,6 +48,20 @@ faq:
     a: "It is at 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, in the $ price band. The MICHELIN Guide tags it 'Worth Queueing For,' so expect queues at busy times. Bookings are handled by the restaurant directly and credit cards are not accepted."
 
 updated: 2026-11-06
+place:
+  nativeName: "铭记肉骨茶"
+  address: "7-6, Jalan Sungai Besi, Pudu, 57100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Minji+Bak+Kut+Teh+Pudu+Kuala+Lumpur"
+  priceRange: "$$"
+  hours: "Daily 10:30-15:00 and 18:00-21:00; closed Tuesday"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Bak kut teh with a choice of pork cuts (ribs, belly, tripe or a combination), dipped in soy sauce with garlic and chilli; braised pork leg"
+  reviewSummary: "A MICHELIN Bib Gourmand bak kut teh that began as a 1940s hawker stall and is now run by the third generation; the herbal pork-rib broth recipe has stayed roughly the same for about 80 years, prized for its rounded herbal warmth and natural sweetness. Diners pick their own pork cuts and dip the meat in soy, garlic and chilli. Reviewers praise the tender, well-cooked meat and friendly service, though a few find the soup on the lighter side."
+  facebook: "https://www.facebook.com/MINJIbkt"
+  phone: "+60 3-9221 5232"
 sources:
   - title: "Minji Bak Kut Teh"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/minji-bak-kut-teh"

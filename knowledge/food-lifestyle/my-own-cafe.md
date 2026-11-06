@@ -3,6 +3,11 @@ topicId: MY-MICH-0053
 title: "My Own Cafe: A Penang Bib Gourmand for Asam and Nyonya Laksa"
 seoTitle: "My Own Cafe, George Town Penang"
 slug: "my-own-cafe"
+hero: "/media/food/my-own-cafe/hero.webp"
+heroAlt: "Penang asam laksa — thick rice noodles in a tangy tamarind-and-fish broth with cucumber and chilli"
+heroCredit: "MichaelJLowe (Michael J. Lowe). / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.5"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "My Own Cafe is a family-run street-food shop on Lebuh Cannon in George Town, Penang, holding a MICHELIN Guide Bib Gourmand. It is known for its Penang asam laksa and Nyonya laksa, plus vegetable-stuffed fried spring rolls, served steps from the Khoo Kongsi clan house."
@@ -43,6 +48,17 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "2 Lebuh Cannon (Cannon Street), George Town, 10200 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+George+Town+Penang+asam+laksa"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=My+Own+Cafe+Lebuh+Cannon+George+Town+Penang"
+  priceRange: "$ (MICHELIN budget tier)"
+  hours: "Mon, Tue, Thu, Fri, Sat, Sun 10:00-16:00; Wed closed (per MICHELIN Guide)"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Penang asam laksa (sour-and-spicy fish/tamarind soup topped with mint and pineapple); Nyonya laksa; fried vegetable spring rolls"
+  reviewSummary: "Family-run shop awarded a MICHELIN Bib Gourmand. The Guide highlights its Penang asam laksa, a light, refreshing red soup balancing sour and spicy flavours, topped with mint and pineapple, alongside Nyonya laksa and equally good fried spring rolls with vegetable filling. Walk-in only; credit cards not accepted."
+  phone: "+60 16-485 1050"
 sources:
   - title: "My Own Cafe"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/my-own-cafe"

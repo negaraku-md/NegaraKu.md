@@ -2,10 +2,15 @@
 topicId: MY-MICH-0021
 title: "Leen's: MICHELIN Bib Gourmand을 받은 TTDI의 시리아 요리 주방"
 slug: "leens"
+hero: "/media/food/leens/hero.webp"
+heroAlt: "올리브 오일을 둘러 휘젓고 병아리콩을 올린 훈제 후무스"
+heroCredit: "Christopher Alvarenga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/white-ceramic-plate-with-pasta-dish-5uYH4yTDp34"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
-sourceContentHash: "11e34aa70bab1b92"
+sourceContentHash: "af9e569f1aea24b4"
 status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
@@ -47,6 +52,18 @@ sources:
     publisher: "Malay Mail"
     date: "2024-11-14"
 updated: 2026-11-06
+place:
+  address: "1F, 136A Jalan Burhanuddin Helmi, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+Jalan+Burhanuddin+Helmi+TTDI+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Leen%27s+Middle+East+Kitchen+TTDI+Kuala+Lumpur"
+  priceRange: "$$ (mains ~RM48-58, appetisers ~RM28-35)"
+  hours: "월-금 18:00-22:00; 토-일 12:00-15:00 & 18:00-22:00"
+  service: ["dine-in"]
+  mustOrder: "불향 칠리 오일을 곁들인 훈제 후무스; 케밥 하슈하슈(매콤한 양귀비씨 소스의 양고기 꼬치); 바삭한 시리아식 밥; 할루미 파투시; 갓 구운 아랍 빵"
+  reviewSummary: "TTDI에 자리한 MICHELIN 빕 구르망 선정 중동(시리아) 식당으로, 시리아 태생의 셰프 Ameer Alzalek이 운영합니다. 그는 집에서 만든 음식을 배달하는 것으로 시작해 이후 이 오프라인 매장을 열었고, 금세 동네에서 사랑받는 곳이 되었습니다. 요리는 대담하고 스모키하며 다채롭고, 매장 내에 빵 굽는 화덕을 갖추고 있습니다. 평론가들은 특히 훈제 후무스와 양고기 케밥을 꼽습니다."
+  facebook: "https://www.facebook.com/Leensmiddleeastkitchen/"
+  instagram: "https://www.instagram.com/leens.kl/"
+  phone: "+60 11-7020 7551"
 verificationNeeded:
   - "정확한 현행 MICHELIN 판 — 최신판은 MICHELIN Guide Kuala Lumpur & Penang 2026(2025년 11월 11일 발표)입니다. Bib Gourmand 선정은 매년 개정되므로, 의존하기 전에 현행판으로 Leen's의 상태를 다시 확인하세요."
   - "Leen's가 처음 Bib Gourmand를 받은 연도 — 현지 매체(Malay Mail)는 2025년판의 신규 Bib Gourmand 입선 중 하나로 올렸으나, MICHELIN 공식 선정 발표로 확인하세요."

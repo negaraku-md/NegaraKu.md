@@ -3,6 +3,11 @@ topicId: MY-MICH-0037
 title: "Moh Teng Pheow Nyonya Koay: صانع الـkueh في بينانغ منذ 1933"
 seoTitle: "Moh Teng Pheow Nyonya Koay، بينانغ"
 slug: "moh-teng-pheow-nyonya-koay"
+hero: "/media/food/moh-teng-pheow-nyonya-koay/hero.webp"
+heroAlt: "حلويات نيونيا بألوان قوس قزح الزاهية، بما في ذلك kuih lapis متعدد الطبقات"
+heroCredit: "Yun Huang Yong from Harbord, Australia / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nyonya_Kuih_in_Different_Colour.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,17 @@ sources:
     date: "2024-09-26"
 
 updated: 2026-11-06
+place:
+  address: "Jalan Masjid, off Lebuh Chulia, 10200 George Town, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Moh+Teng+Pheow+Nyonya+Koay+George+Town+Penang"
+  priceRange: "Budget (MICHELIN $); traditional kueh sold per piece"
+  hours: "يوميًا 10:00-17:00 (يدرجه كل من MICHELIN وWanderlog على أنه يفتح يوميًا؛ تشير بعض المدونات القديمة إلى الإغلاق أيام الاثنين والفتح في الساعة 10:30 - يُرجى التأكد قبل الزيارة)"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Kuih lapis وkuih talam وang koo وnyonya chang (وفقًا لـ MICHELIN)؛ من حلويات الكويه التقليدية الأخرى التي تُرى في المكان pulut inti وkuih koci وsri muka وabok-abok"
+  reviewSummary: "واحد من أقدم صانعي حلويات النيونيا (Nyonya kueh) في بينانغ، يعمل منذ عام 1933 وحاصل على جائزة MICHELIN Bib Gourmand. تُصنع الكويه بالطريقة التقليدية التي تتطلب جهدًا كبيرًا؛ وفي عام 2016 أُضيف مقهى للجلوس خلف المصنع العامل، حيث يمكن للزوار المرور عبر المطبخ ومشاهدة تحضير الكويه. المراجعات إيجابية في معظمها (Google بنحو 4.0)، وتشيد بالأصالة والأسعار المعقولة، رغم أن قلة يجدون الجودة غير ثابتة."
+  facebook: "https://www.facebook.com/penangnyonyakuih/"
+  phone: "+60 12-415 2677"
 
 relations:
   - { rel: "located-in", to: "penang" }

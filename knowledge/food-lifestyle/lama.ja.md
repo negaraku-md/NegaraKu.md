@@ -44,6 +44,15 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  hours: "毎日 11:00〜21:00"
+  service: ["dine-in"]
+  mustOrder: "パイティー、アヤム・カピタン（チキン・カピタン）、アッサム・プダスの魚、サンバル海老"
+  reviewSummary: "父娘のチームが作る本格的な家庭風ニョニャ料理を、シェアにぴったりの大皿で味わえると評判。サクサクのパイティーが特に人気で、アンティークに囲まれた店内が趣を添えています。おかわり自由のパンダン・レモングラスティーは、辛めの料理と好相性と好評です。"
+  phone: "+60 19-689 3969"
 sources:
   - title: "Lama"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"

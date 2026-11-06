@@ -44,6 +44,15 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Lama+Nyonya+Restaurant+Mont+Kiara+Kuala+Lumpur"
+  hours: "每日 11:00-21:00"
+  service: ["dine-in"]
+  mustOrder: "Pie tee（娘惹小金杯）、Ayam Kapitan（甲必丹咖喱鸡）、亚参风味鱼（Assam Pedas）、参巴虾"
+  reviewSummary: "食客盛赞这对父女档道地的家常娘惹料理，分量十足、适合共享，其中酥脆的 pie tee 尤为出彩，摆满古董的用餐空间更添韵味；免费畅饮的香兰香茅茶是搭配辣味菜肴的人气首选。"
+  phone: "+60 19-689 3969"
 sources:
   - title: "Lama"
     url: "https://guide.michelin.com/en/kuala-lumpur-region/kuala-lumpur/restaurant/lama"

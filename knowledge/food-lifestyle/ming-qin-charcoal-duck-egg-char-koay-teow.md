@@ -2,6 +2,11 @@
 topicId: MY-MICH-0069
 title: "Ming Qin Charcoal Duck Egg Char Koay Teow: A Penang Bib Gourmand"
 slug: "ming-qin-charcoal-duck-egg-char-koay-teow"
+hero: "/media/food/ming-qin-charcoal-duck-egg-char-koay-teow/hero.webp"
+heroAlt: "Char koay teow — wok-fried flat noodles with prawns, Chinese sausage and bean sprouts on a banana leaf"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Char_Kway_Teow_Sold_in_Lot_10.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -11,6 +16,17 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "Lot 1487, Jalan Betik, Sungai Rambai, Bukit Mertajam, 14000 Seberang Perai, Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ming+Qin+Charcoal+Char+Koay+Teow+Seberang+Perai+Penang"
+  priceRange: "Budget (under RM35 per person)"
+  hours: "Tue-Thu 6:00 PM - 11:00 PM; Fri-Sat 6:00 PM - 11:30 PM; Sun 6:00 PM - 11:00 PM; Mon closed"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Charcoal-fried char koay teow with duck egg (for extra wok hei and a richer yolk); add an over-easy egg; blanched octopus appetiser with a tangy-sweet dip"
+  reviewSummary: "MICHELIN Guide listing (Bib Gourmand per third-party sources, 2024-2025). A no-frills stall that has built a loyal following over 20+ years, known for char koay teow stir-fried with duck egg over a charcoal fire that lends exceptional wok hei. Gets busy late on Friday and Saturday nights."
+  phone: "+60 16-401 9092"
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow is a noodle stall in Bukit Mertajam, Seberang Perai, on the Penang mainland, listed in the MICHELIN Guide's Bib Gourmand selection. Its char koay teow is stir-fried with duck egg over a charcoal fire for pronounced wok hei; a blanched octopus appetiser is a recommended starter. It is an evening business with a following built over two decades."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, Penang"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow is a Bib Gourmand noodle stall in Bukit Mertajam, Seberang Perai, on the Penang mainland. Its signature char koay teow is stir-fried with duck egg over a charcoal fire, which lends it strong wok hei (smoky breath of the wok). A blanched octopus appetiser is a recommended starter. It trades in the evenings."
