@@ -3,6 +3,11 @@ topicId: MY-MICH-0046
 title: "Penang Road Famous Jin Kor Char Kuey Teow：ジョージタウンのビブグルマン屋台"
 seoTitle: "Penang Road Famous Jin Kor Char Kuey Teow"
 slug: "penang-road-famous-jin-kor-char-kuey-teow"
+hero: "/media/food/penang-road-famous-jin-kor-char-kuey-teow/hero.webp"
+heroAlt: "Char kuey teow — エビともやしを加えた鍋炒めの平麺"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "槟榔律驰名仁哥炒粿条"
+  address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+  priceRange: "Budget; around RM9 a plate"
+  hours: "毎日 9:30 AM - 5:00 PM"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "エビ、ハイガイ、中華ソーセージ、もやしを使って注文ごとに炒める char kuey teow。アヒルの卵と追加のチリソースもどうぞ"
+  reviewSummary: "ジャラン・ペナンの Joo Hooi Cafe（コピティアム）内で長年営業している char kuey teow の屋台で、Lim Chong Jin（'Jin Kor'）が切り盛りしています。彼は1984年に売り始め、1995年にここへ移りました。2024年版 MICHELIN クアラルンプール & ペナランガイドで Bib Gourmand を受賞。kuey teow はエビ、ハイガイ、中華ソーセージ、もやしを使って注文ごとに炒められ、その wok hei（鍋の香ばしさ）で知られています。アヒルの卵や追加のチリも加えられます。一部のレビュアーは、他のバージョンより味が軽めまたはマイルドだと感じています。"
+  phone: "+60 14-903 3561"
 sources:
   - title: "Penang Road Famous Jin Kor Char Kuey Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"

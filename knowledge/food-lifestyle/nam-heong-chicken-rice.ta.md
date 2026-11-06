@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: KL-இல் 1938 முதல் ஒரு ஹைனானீஸ் நிறுவனம்"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "வறுத்த இறைச்சிகள் மற்றும் வெள்ளரியுடன் ஹைனானீஸ் சிக்கன் ரைஸ்"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "தினமும் 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "ஹைனானீஸ் சிக்கன் ரைஸ் (காய்கறிப் பண்ணை அல்லது நாட்டுக் கோழி), வறுத்த பன்றி இறைச்சி (roast pork belly), இப்போ பீன் ஸ்ப்ரவுட்ஸ்"
+  reviewSummary: "கோலாலம்பூரின் Chinatown பகுதியில் 1938 ஆம் ஆண்டு தொடங்கப்பட்ட ஹைனானீஸ் உணவகம், அதன் சிக்கன் ரைஸுக்காக உள்ளூர்வாசிகளிடையே நீண்ட காலமாகப் பிரபலம்; மொறுமொறுப்பான தோல் கொண்ட வறுத்த பன்றி இறைச்சியும் இப்போ பீன் ஸ்ப்ரவுட்ஸும் உணவருந்துவோரால் தனித்து குறிப்பிடப்படுகின்றன. சமீபத்திய பார்வையாளர் கருத்துக்கள் கலவையானவை; சிலர் கோழியையும் பக்க உணவுகளையும் பாராட்டுகின்றனர், மற்றவர்கள் கோழி சுவையற்றதாக அல்லது சேவை சீரற்றதாக இருப்பதாகக் கூறுகின்றனர்."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "சரியான தற்போதைய MICHELIN பதிப்பு — சமீபத்தியது MICHELIN Guide Kuala Lumpur & Penang 2026 (2025 நவம்பர் 11 அன்று அறிவிக்கப்பட்டது); Bib Gourmand தேர்வு ஆண்டுதோறும் திருத்தப்படுகிறது, எனவே நம்பியிருப்பதற்கு முன் தற்போதைய பதிப்பை வைத்து Nam Heong-இன் நிலையை மீண்டும் உறுதிப்படுத்துங்கள்."
   - "Jalan Sultan-இல் உள்ள வீட்டு எண் — MICHELIN-இன் ஆங்கிலப் பக்கம் 56 Jalan Sultan எனக் கொடுக்கிறது, ஆனால் சில மொழிப் பதிப்புகள் 54 எனக் கொடுக்கின்றன; சரியான முகவரியை உறுதிப்படுத்துங்கள்."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0038
 title: "Rasa Rasa: مائدة بيرانكانية حائزة Bib من MICHELIN في George Town"
 seoTitle: "Rasa Rasa: بيرانكان بينانغ (MICHELIN Bib)"
 slug: "rasa-rasa"
+hero: "/media/food/rasa-rasa/hero.webp"
+heroAlt: "nasi lemak على ورق الموز مع sambal والبيض والأطباق الجانبية المقلية"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,16 @@ sources:
     date: "2023-06-10"
 
 updated: 2026-11-06
+place:
+  address: "59, Gat Lebuh Chulia, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  priceRange: "$ (classic pandan nasi lemak ~RM8.90; pandan nasi lemak curry chicken set ~RM17.90)"
+  hours: "الاثنين 08:30-16:00؛ الثلاثاء 09:00-16:00؛ الأربعاء مغلق؛ الخميس 08:30-16:00؛ الجمعة 08:30-16:00؛ السبت 09:00-16:00؛ الأحد 09:00-16:00 (وفقًا لدليل MICHELIN؛ تعطي مصادر أخرى أوقاتًا مختلفة قليلًا، تحقق قبل الزيارة)"
+  service: ["dine-in"]
+  mustOrder: "pandan nasi lemak (طبق Nyonya المتكامل) مع دجاج الكاري؛ five-spice chicken roll ملفوف بقشرة التوفو؛ tub tim krob كتحلية"
+  reviewSummary: "مقهى صغير على طراز Peranakan/Nyonya في Chulia Street Ghaut معترف به في دليل MICHELIN (Bib Gourmand). يُجمع المراجعون باستمرار على تمييز pandan nasi lemak، الذي يُقدَّم على ورق الموز مع sambal منزلي الصنع وخيارات من الإضافات مثل دجاج الكاري، إلى جانب أطباق مثل five-spice chicken roll ومعكرونة الأرز السيامية. تجمع القاعة بين جدران الطوب العارية واللمسات الصناعية ونباتات الأصص. يعمل المكان من الإفطار حتى الغداء (مغلق بعد الظهر وفي يوم الأربعاء). تختلف تقييمات المواقع المجمِّعة حسب المنصة (نحو 4.2 إلى 4.7)."
+  phone: "+60 12-442 2570"
 
 relations:
   - { rel: "located-in", to: "penang" }

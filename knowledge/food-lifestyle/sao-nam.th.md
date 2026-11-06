@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: อาหารเวียดนามระดับ Bib Gourmand ในกัวลาลัมเปอร์"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "pho เวียดนาม - เนื้อและเส้นก๋วยเตี๋ยวในน้ำซุปใสพร้อมสมุนไพร"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "ตั้งอยู่ที่ 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 มีหน้าร้านสีเหลืองและภายในสีสันสดใส MICHELIN Guide ระบุว่าเหมาะกับครอบครัว และจัดอยู่ในช่วงราคา $"
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "จันทร์-ศุกร์ 12:00-14:30 & 18:00-22:00; เสาร์ 12:00-14:30 & 18:00-22:30; อาทิตย์ 12:00-14:30 & 18:00-22:00 (ตาม MICHELIN Guide; ข้อมูลเก่าระบุว่าปิดวันจันทร์ - โปรดยืนยันกับทางร้าน)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (ก๋วยเตี๋ยวเนื้อ น้ำซุปเคี่ยวกว่า 10 ชั่วโมง) และสลัดมังคุดกับกุ้ง (เมนูซิกเนเจอร์); beef la lot (เนื้อบดห่อใบชะพลูป่า)"
+  reviewSummary: "ร้านอาหารเวียดนามที่เปิดมายาวนานในตึกแถวก่อนสงครามสองชั้นบนถนน Tengkat Tong Shin ใกล้ Jalan Alor ได้รับรางวัล MICHELIN Bib Gourmand เน้นอาหารเวียดนามภาคใต้เป็นหลัก (ขึ้นชื่อว่ารสหวานกว่า) พร้อมเมนูที่ได้รับอิทธิพลจากฝรั่งเศสบางจาน ในบรรยากาศแบบ Old World อันมีสีสัน MICHELIN ชูเมนู pho bo และสลัดมังคุดกับกุ้ง ส่วนนักวิจารณ์ชื่นชมน้ำซุปเนื้อใสๆ การจัดจาน และสลัดมังคุดตามฤดูกาล"
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

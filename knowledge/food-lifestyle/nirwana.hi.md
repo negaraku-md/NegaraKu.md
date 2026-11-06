@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: Bangsar का MICHELIN Bib Gourmand banana leaf"
 seoTitle: "Nirwana: Bangsar banana leaf rice (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "चावल, करी और अंडे के साथ केले के पत्ते पर परोसा गया भोजन"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "hi"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "रोज़ाना 11:30-23:00 (MICHELIN के अनुसार; अन्य सूचियाँ भिन्न हो सकती हैं, सीधे पुष्टि करें)"
+  halal: "pork-free"
+  mustOrder: "केले के पत्ते पर परोसा जाने वाला राइस सेट (banana leaf rice) (चावल के साथ सब्ज़ी की करी) जिसमें चिकन, मटन/लैम्ब या मछली का विकल्प; चिकन biryani को MICHELIN गाइड ने विशेष रूप से उल्लेखित किया है"
+  reviewSummary: "Bangsar Baru में Jalan Telawi पर स्थित एक लंबे समय से चल रहा केले के पत्ते वाला दक्षिण भारतीय रेस्तराँ, जो MICHELIN Bib Gourmand में सूचीबद्ध है। यह चावल, सब्ज़ी की करी और प्रोटीन के विकल्प के साथ परोसे जाने वाले banana leaf rice सेट के लिए एक पसंदीदा जगह के रूप में जाना जाता है, जहाँ चिकन biryani की अक्सर तारीफ़ होती है। यह किसी फाइन-डाइनिंग जगह के बजाय स्थानीय लोगों का पसंदीदा एक आरामदेह भोजनालय है।"
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

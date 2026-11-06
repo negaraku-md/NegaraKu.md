@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: Masakan Vietnam Bertaraf Bib Gourmand di Kuala Lumpur"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "Pho Vietnam - daging sapi dan mi beras dalam kaldu bening dengan rempah herba"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Terletak di 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, dengan fasad kuning dan interior berwarna-warni. MICHELIN Guide menandainya ramah keluarga dan menempatkannya pada kisaran harga $."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "Sen-Jum 12:00-14:30 & 18:00-22:00; Sab 12:00-14:30 & 18:00-22:30; Min 12:00-14:30 & 18:00-22:00 (menurut MICHELIN Guide; daftar lama melaporkan tutup pada hari Senin - konfirmasikan dengan restoran)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (sup mi daging sapi, kaldu direbus 10+ jam) dan salad manggis & udang (menu andalan); beef la lot (daging sapi cincang dalam daun sirih hutan)"
+  reviewSummary: "Restoran Vietnam yang sudah lama berdiri di sebuah ruko pra-perang dua lantai di Tengkat Tong Shin dekat Jalan Alor, meraih MICHELIN Bib Gourmand. Restoran ini berfokus terutama pada masakan Vietnam selatan (dikenal lebih manis) dengan beberapa hidangan berpengaruh Prancis, dalam suasana Old World yang penuh warna. MICHELIN menyoroti pho bo dan salad manggis-dan-udang; para pengulas memuji kaldu daging sapi yang bening, penyajian, dan salad manggis musimannya."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

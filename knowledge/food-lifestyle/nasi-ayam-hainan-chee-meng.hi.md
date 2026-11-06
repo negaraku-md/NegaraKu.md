@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: 1965 से एक Bib Gourmand चिकन राइस"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Hainanese chicken rice — खुशबूदार चावल और मिर्च सॉस के साथ उबला चिकन"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng कुआलालंपुर के Jalan Kelang Lama पर स्थित एक MICHELIN Bib Gourmand Hainanese chicken rice विशेषज्ञ है, जिसे 1965 से एक परिवार चला रहा है। यह भाप से पका या तला चिकन, चिकन की चर्बी और स्टॉक में पकाए चावल के साथ परोसता है, और कम चर्बी वाले तथा अधिक रसीले मांस के लिए स्थानीय मुर्गे का उपयोग करता है। यह प्रोफ़ाइल बताती है कि यह क्या है, इसका खास व्यंजन, इसका इतिहास और कैसे जाएं।"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "रोज़ाना 10:00-19:00 (MICHELIN के अनुसार; कुछ एग्रीगेटर 11:00-22:00 दर्शाते हैं, इसलिए सीधे पुष्टि करें)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Hainanese chicken rice के साथ खुशबूदार चिकन-फैट चावल और उबले या भुने चिकन का विकल्प (तुलना के लिए दोनों ऑर्डर करें), जिसे घर की बनी अदरक की चटनी और मिर्च सॉस के साथ खाया जाता है; साझा करने के लिए लोकप्रिय साइड डिश में सांबल झींगा, नमकीन अंडा स्क्विड और लेमन चिकन शामिल हैं।"
+  reviewSummary: "Old Klang Road पर परिवार द्वारा संचालित एक प्रतिष्ठित जगह, जो 1965 से Hainanese chicken rice परोस रही है (अब दूसरी और तीसरी पीढ़ी द्वारा संचालित), जिसे MICHELIN Bib Gourmand से सम्मानित किया गया है। आने वाले लोग खुशबूदार चिकन-फैट चावल और अदरक व मिर्च के मसालों, तथा उबले या भुने चिकन के विकल्प की सराहना करते हैं; कुछ समीक्षक मात्रा और साइड डिश को थोड़ा महंगा मानते हैं और मांस की गुणवत्ता पर राय मिली-जुली है। इसकी Google रेटिंग लगभग 1,300+ समीक्षाओं से करीब 4.2 है।"
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

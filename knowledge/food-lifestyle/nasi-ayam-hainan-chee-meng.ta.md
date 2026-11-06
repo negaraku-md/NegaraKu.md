@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: 1965 முதல் ஒரு Bib Gourmand கோழி சாதம்"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Hainanese chicken rice — மணம் கமழும் சோறு மற்றும் மிளகாய் சாஸுடன் அவித்த கோழி"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng என்பது கோலாலம்பூர் Jalan Kelang Lama-இல் உள்ள ஒரு MICHELIN Bib Gourmand Hainanese chicken rice நிபுணத்துவக் கடை; 1965 முதல் குடும்பத்தால் நடத்தப்படுகிறது. இது வேகவைத்த அல்லது பொரித்த கோழியை, கோழிக் கொழுப்பிலும் குழம்பிலும் சமைத்த சாதத்துடன் வழங்குகிறது; மெலிந்த, அதிக சாறுள்ள இறைச்சிக்காக உள்ளூர்க் கோழியைப் பயன்படுத்துகிறது. இந்தப் பதிவு இது என்ன, அதன் சிறப்பு உணவு, வரலாறு, எப்படிச் செல்வது என்பவற்றை விளக்குகிறது."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "தினமும் 10:00-19:00 (MICHELIN படி; சில தொகுப்பு தளங்கள் 11:00-22:00 என பட்டியலிடுகின்றன, எனவே நேரடியாக உறுதிப்படுத்தவும்)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "மணம் கமழும் கோழிக்கொழுப்பு சோற்றுடன் பரிமாறப்படும் Hainanese chicken rice, அவித்த அல்லது வறுத்த கோழி என்ற தேர்வுடன் (ஒப்பிட்டுப் பார்க்க இரண்டையும் ஆர்டர் செய்யுங்கள்), வீட்டில் தயாரிக்கப்படும் இஞ்சி சட்னி மற்றும் மிளகாய் சாஸுடன் சாப்பிடலாம்; பகிர்ந்து உண்ண பிரபலமான பக்க உணவுகளில் சம்பல் இறால், உப்பு முட்டை கணவாய் மற்றும் எலுமிச்சை கோழி ஆகியவை அடங்கும்."
+  reviewSummary: "1965 முதல் Hainanese chicken rice பரிமாறி வரும் Old Klang Road-இன் குடும்பம் நடத்தும் ஒரு புகழ்பெற்ற உணவகம் (தற்போது இரண்டாம் மற்றும் மூன்றாம் தலைமுறையினரால் நடத்தப்படுகிறது), MICHELIN Bib Gourmand விருது பெற்றது. மணம் கமழும் கோழிக்கொழுப்பு சோறு, இஞ்சி மற்றும் மிளகாய் சுவையூட்டிகள், அவித்த அல்லது வறுத்த கோழி தேர்வு ஆகியவற்றை உணவருந்துவோர் பாராட்டுகின்றனர்; சில விமர்சகர்கள் பரிமாறும் அளவு மற்றும் பக்க உணவுகள் சற்று விலை அதிகம் என்று கருதுகின்றனர், இறைச்சியின் தரம் குறித்து கருத்துகள் வேறுபடுகின்றன. இது சுமார் 1,300+ மதிப்புரைகளில் இருந்து சுமார் 4.2 Google மதிப்பீட்டைக் கொண்டுள்ளது."
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: cocina vietnamita Bib Gourmand en Kuala Lumpur"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "Pho vietnamita - ternera y fideos de arroz en un caldo claro con hierbas"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Está en 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, con una fachada amarilla y un interior colorido. La MICHELIN Guide lo señala como apto para familias y lo sitúa en la franja de precio $."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "Lun-Vie 12:00-14:30 y 18:00-22:00; Sáb 12:00-14:30 y 18:00-22:30; Dom 12:00-14:30 y 18:00-22:00 (según la Guía MICHELIN; listados más antiguos indican cierre los lunes - confirmar con el local)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (sopa de fideos con ternera, caldo cocido a fuego lento más de 10 horas) y ensalada de mangostán y gambas (el plato estrella); beef la lot (ternera picada en hojas de pimienta silvestre)"
+  reviewSummary: "Un restaurante vietnamita de larga trayectoria ubicado en un shophouse de dos plantas de antes de la guerra en Tengkat Tong Shin, cerca de Jalan Alor, galardonado con un MICHELIN Bib Gourmand. Se centra principalmente en la cocina del sur de Vietnam (reconocida por ser más dulce), con algunos platos de influencia francesa, en un colorido ambiente de estilo Old World. MICHELIN destaca el pho bo y la ensalada de mangostán y gambas; los críticos elogian el claro caldo de ternera, la presentación y la ensalada de mangostán de temporada."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0070
 title: "Penang Road Famous Laksa : un Bib Gourmand de George Town"
 slug: "penang-road-famous-laksa"
+hero: "/media/food/penang-road-famous-laksa/hero.webp"
+heroAlt: "Penang asam laksa garni de menthe, concombre, piment et oignon"
+heroCredit: "ProjectManhattan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  priceRange: "$"
+  hours: "Lun, mar, jeu-dim 9:00 AM - 5:30 PM; mer fermé"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Penang asam laksa (la spécialité ; nouilles lai fun dans un bouillon de trois poissons/tamarin), avec en option l'ajout d'un filet de sardine désossé ; char koay teow à l'œuf de cane également disponible"
+  reviewSummary: "Un stand d'asam laksa de longue date à George Town, près de Penang Road, qui sert une recette familiale depuis 1970 et se trouve désormais sur Lebuh Keng Kwee. Récompensé d'un MICHELIN Bib Gourmand ; MICHELIN décrit un bouillon élaboré à partir de trois types de poissons avec un mélange d'épices équilibrant des notes épicées, sucrées et acidulées, servi avec des nouilles lai fun, et le qualifie de 'Worth Queueing For.' Les critiques décrivent souvent le bouillon comme acidulé, aigre et riche en sardine effilochée. Les agrégateurs tiers indiquent une note Google d'environ 4,3 à partir d'environ 2 000 à 2 400 avis (instantané, et non en temps réel)."
+  phone: "+60 16-446 0543"
 summary: "Penang Road Famous Laksa est une échoppe de nouilles à George Town, Penang, retenue dans la sélection Bib Gourmand du MICHELIN Guide, réputée pour son assam (laksa aigre). En activité depuis 1970 selon une recette familiale, elle sert des nouilles lai fun dans un bouillon fait de trois types de poisson, équilibrant les notes piquante, sucrée et acidulée, avec un filet de sardine désarêté en supplément. C'est une institution de George Town aux longues files."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa est une échoppe de nouilles Bib Gourmand sur Lebuh Keng Kwee à George Town, Penang. En activité depuis 1970 selon une recette familiale, elle sert son laksa aigre emblématique : des nouilles lai fun dans un bouillon fait de trois types de poisson, équilibré entre les notes piquante, sucrée et acidulée, avec un filet de sardine désarêté en supplément. C'est l'une des files de cuisine de rue les plus célèbres de George Town."

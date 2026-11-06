@@ -3,6 +3,11 @@ topicId: MY-MICH-0046
 title: "Penang Road Famous Jin Kor Char Kuey Teow : un stand Bib Gourmand de George Town"
 seoTitle: "Penang Road Famous Jin Kor Char Kuey Teow"
 slug: "penang-road-famous-jin-kor-char-kuey-teow"
+hero: "/media/food/penang-road-famous-jin-kor-char-kuey-teow/hero.webp"
+heroAlt: "Char kuey teow — nouilles plates sautées au wok avec crevettes et germes de soja"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "槟榔律驰名仁哥炒粿条"
+  address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+  priceRange: "Budget; around RM9 a plate"
+  hours: "Tous les jours 9h30 - 17h00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char kuey teow préparé à la commande avec crevettes, coques, saucisse de porc et germes de soja ; ajoutez un œuf de canard et de la sauce chili en supplément"
+  reviewSummary: "Un stand de char kuey teow établi de longue date au sein du Joo Hooi Cafe (Kopitiam) sur Jalan Penang, tenu par Lim Chong Jin ('Jin Kor'), qui a commencé à vendre en 1984 et s'est installé ici en 1995. Récompensé d'un MICHELIN Bib Gourmand dans le guide Kuala Lumpur & Penang 2024. Le kuey teow est sauté à la commande avec crevettes, coques, saucisse de porc et germes de soja, et se distingue par son wok hei ; on peut y ajouter un œuf de canard et du piment supplémentaire. Certains critiques trouvent la saveur plus légère ou plus douce que d'autres versions."
+  phone: "+60 14-903 3561"
 sources:
   - title: "Penang Road Famous Jin Kor Char Kuey Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"

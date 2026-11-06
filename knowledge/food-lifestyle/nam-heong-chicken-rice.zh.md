@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice：吉隆坡一家始于1938年的海南老字号"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "海南鸡饭配烧味和黄瓜"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "每日 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "海南鸡饭（菜园鸡或走地鸡）、烧肉、怡保豆芽"
+  reviewSummary: "位于吉隆坡茨厂街（Chinatown）的海南老字号，始于1938年，长期深受本地人喜爱，以海南鸡饭闻名，脆皮烧肉和怡保豆芽也备受食客推崇。近期食客评价褒贬不一，有人称赞鸡肉和配菜，也有人觉得鸡肉偏淡或服务时好时坏。"
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "确切的 MICHELIN 当前版本——最新的是 MICHELIN Guide Kuala Lumpur & Penang 2026（于2025年11月11日公布）；Bib Gourmand 精选每年修订，因此在依据之前，请对照当前版本重新确认 Nam Heong 的状态。"
   - "Jalan Sultan 的门牌号——MICHELIN 的英文页面给出 56 Jalan Sultan，但某些语言版本给出 54；请确认确切地址。"

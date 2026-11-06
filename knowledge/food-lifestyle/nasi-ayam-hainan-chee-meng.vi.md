@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: Cơm gà đạt Bib Gourmand từ năm 1965"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Hainanese chicken rice — gà luộc với cơm thơm và tương ớt"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng là một quán chuyên Hainanese chicken rice đạt MICHELIN Bib Gourmand trên Jalan Kelang Lama, Kuala Lumpur, do gia đình điều hành từ năm 1965. Quán phục vụ gà hấp hoặc gà chiên với cơm nấu bằng mỡ gà và nước dùng, dùng gà địa phương cho thịt ít mỡ hơn và mọng hơn. Bài viết này trình bày quán là gì, món đặc trưng, lịch sử và cách ghé thăm."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "Hằng ngày 10:00-19:00 (theo MICHELIN; một số trang tổng hợp ghi 11:00-22:00, nên hãy xác nhận trực tiếp)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Hainanese chicken rice với cơm nấu mỡ gà thơm lừng và lựa chọn gà luộc hoặc gà quay (gọi cả hai để so sánh), ăn kèm nước chấm gừng và tương ớt nhà làm; các món dùng chung được ưa chuộng gồm tôm sambal, mực trứng muối và gà sốt chanh."
+  reviewSummary: "Một quán lâu đời do gia đình điều hành trên Old Klang Road, phục vụ Hainanese chicken rice từ năm 1965 (nay do thế hệ thứ hai và thứ ba quản lý), được trao giải MICHELIN Bib Gourmand. Thực khách khen cơm mỡ gà thơm cùng gia vị gừng và ớt, và lựa chọn gà luộc hoặc gà quay; một số người nhận xét phần ăn và món phụ hơi đắt, còn ý kiến về chất lượng thịt thì trái chiều. Quán có điểm Google khoảng 4.2 từ hơn 1.300 đánh giá."
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

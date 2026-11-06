@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng：1965年から続く Bib Gourmand のチキンライス"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "海南鶏飯 — 香ばしいご飯とチリソースを添えた茹で鶏"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng は、クアラルンプールの Jalan Kelang Lama にある MICHELIN Bib Gourmand の Hainanese chicken rice 専門店で、1965年から家族経営です。蒸し鶏または揚げ鶏を、鶏の脂と出汁で炊いた米とともに提供し、より脂が少なくジューシーな肉のために地鶏を使います。本稿では、この店が何か、名物料理、歴史、訪れ方を紹介します。"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "毎日 10:00〜19:00（MICHELIN による。一部の情報サイトでは 11:00〜22:00 と掲載されているため、直接ご確認ください）"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "香ばしいチキンファットライス（鶏油ご飯）に蒸し鶏かロースト鶏を選べる海南鶏飯（食べ比べるなら両方の注文がおすすめ）。自家製のショウガだれとチリソースを添えて。人気の取り分け用サイドにはサンバルエビ、塩漬け卵イカ、レモンチキンがあります。"
+  reviewSummary: "1965年から海南鶏飯を提供する、Old Klang Road の家族経営の名店（現在は二代目・三代目が運営）で、MICHELIN ビブグルマンに選ばれています。来店客は香ばしいチキンファットライスやショウガとチリの薬味、蒸し鶏かロースト鶏を選べる点を高く評価しています。一方で、分量やサイドメニューがやや高いと感じる人や、肉の質についての評価が分かれるという声もあります。Google の評価は約1,300件以上のレビューでおよそ4.2です。"
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

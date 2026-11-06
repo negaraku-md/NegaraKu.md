@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: Thành trì Hải Nam từ năm 1938 ở KL"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "Cơm gà Hải Nam với các món thịt quay và dưa leo"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "Hằng ngày 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Cơm gà Hải Nam (gà nuôi trang trại rau hoặc gà thả vườn), thịt ba chỉ heo quay, giá đỗ Ipoh"
+  reviewSummary: "Một quán Hải Nam lâu đời từ năm 1938 ở khu Chinatown của Kuala Lumpur, từ lâu được người dân địa phương ưa chuộng nhờ món cơm gà, trong đó thịt ba chỉ heo quay da giòn và giá đỗ Ipoh cũng được thực khách nhắc đến. Nhận xét gần đây của khách khá trái chiều, một số khen ngợi gà và các món ăn kèm, trong khi số khác thấy gà nhạt hoặc phục vụ thiếu ổn định."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "Ấn bản MICHELIN hiện hành chính xác — ấn bản mới nhất là MICHELIN Guide Kuala Lumpur & Penang 2026 (công bố ngày 11 November 2025); tuyển chọn Bib Gourmand được rà soát hằng năm, vì vậy hãy xác nhận lại tình trạng của Nam Heong với ấn bản hiện hành trước khi dựa vào nó."
   - "Số nhà trên Jalan Sultan — trang tiếng Anh của MICHELIN ghi 56 Jalan Sultan, nhưng một số phiên bản ngôn ngữ ghi 54; hãy xác nhận địa chỉ chính xác."

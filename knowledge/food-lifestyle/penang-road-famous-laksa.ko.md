@@ -2,6 +2,11 @@
 topicId: MY-MICH-0070
 title: "Penang Road Famous Laksa: George Town의 Bib Gourmand"
 slug: "penang-road-famous-laksa"
+hero: "/media/food/penang-road-famous-laksa/hero.webp"
+heroAlt: "민트, 오이, 고추, 양파를 올린 Penang asam laksa"
+heroCredit: "ProjectManhattan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  priceRange: "$"
+  hours: "월·화·목~일 9:00 AM - 5:30 PM; 수요일 휴무"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Penang asam laksa (대표 메뉴; 세 가지 생선/타마린드 육수에 lai fun 면), 원하면 뼈를 발라낸 정어리 필레 추가 가능; 오리알을 올린 char koay teow도 있음"
+  reviewSummary: "Penang Road 근처에서 오랫동안 영업해 온 George Town asam laksa 노점으로, 1970년부터 가족 레시피를 이어 왔으며 현재는 Lebuh Keng Kwee에 있습니다. MICHELIN Bib Gourmand를 수상했습니다. MICHELIN은 맵고 달고 신맛의 균형을 맞춘 향신료 배합과 세 가지 생선으로 만든 육수를 lai fun 면과 함께 낸다고 소개하며 'Worth Queueing For(줄 설 만한 가치가 있는 곳)'로 표시합니다. 리뷰어들은 흔히 이 육수를 새콤하고 진하며 부서진 정어리가 가득하다고 묘사합니다. 제3자 집계 사이트에서는 약 2,000~2,400개의 리뷰를 바탕으로 한 Google 평점이 약 4.3으로 나타납니다(실시간이 아닌 스냅샷)."
+  phone: "+60 16-446 0543"
 summary: "Penang Road Famous Laksa는 페낭 George Town의 국수 가게로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있으며 assam(신맛) laksa로 유명하다. 1970년부터 가족 비법으로 운영하며, 세 가지 생선으로 낸 육수에 lai fun 국수를 담아 매운맛·단맛·신맛을 조화시키고, 뼈를 발라낸 정어리 살을 추가할 수 있다. 긴 줄로 유명한 George Town의 명소다."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa는 페낭 George Town의 Lebuh Keng Kwee에 있는 Bib Gourmand 국수 가게다. 1970년부터 가족 비법으로 운영하며 대표 신맛 laksa를 낸다. 세 가지 생선으로 낸 육수에 lai fun 국수를 담아 매운맛·단맛·신맛을 조화시키고, 뼈를 발라낸 정어리 살을 추가할 수 있다. George Town에서 가장 유명한 길거리 음식 줄 중 하나다."

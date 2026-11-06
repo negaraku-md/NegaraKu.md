@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis: كشك apom حائز على Bib Gourmand في بينانغ"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "أبوم — فطائر أرز جوز الهند الطرية الدانتيلية مكدّسة في طبق"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "يوميًا من 6 صباحًا حتى 10 صباحًا، مغلق يوم الخميس؛ وغالبًا ما ينفد البيع بحلول نحو الساعة 9:30 صباحًا. ملاحظة: تُظهر قائمة MICHELIN المواعيد من 6 مساءً حتى 10 مساءً، وهو ما يتعارض مع عدة مصادر محلية تفيد بأن ساعات العمل صباحية فقط."
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "أبوم مانيس (apom manis، فطيرة جوز الهند الحلوة المطهوة في قِدر فخاري)"
+  reviewSummary: "كشك لطعام الشارع عريق في جورج تاون (George Town) يعمل منذ أوائل عشرينيات القرن الماضي، وتديره الآن الجيل الثالث، ويبيع أبوم مانيس (apom manis، فطيرة جوز الهند الحلوة) تُحضَّر طازجة حسب الطلب في قدور فخارية صغيرة على نار الفحم. يصف المراجعون حوافّها المقرمشة الذهبية مع وسط طريّ وهشّ ونكهة جوز هند واضحة، وحلاوة لطيفة غير ثقيلة؛ ويُنصح بتناولها ساخنة مباشرة من القِدر. حازت على تصنيف MICHELIN Bib Gourmand عام 2025 واحتفظت به عام 2026، ما زاد من شعبيتها. يعمل الكشك في الصباح وكثيرًا ما ينفد ما لديه قبل موعد الإغلاق بوقت طويل."
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis كشك طعام شارع عريق في George Town ببينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide، ومتخصّص في apom manis — فطيرة حلوة مُخرَّمة من جوز الهند ودقيق الأرز. يضيف الأسلوب البينانغي البيض إلى العجينة لرائحة أقوى؛ ويعمل الكشك منذ قرابة قرن، وينفد عادةً في الصباح."
 seoTitle: "Ravi's Famous Apom Manis، بينانغ (Bib)"
 answer: "Ravi's Famous Apom Manis كشك طعام شارع حائز على Bib Gourmand في Jalan Burma بـ George Town في بينانغ. يتخصّص في apom manis — فطيرة حلوة طريّة الوسط مُقرمَشة الحواف من دقيق الأرز وجوز الهند، مع إضافة البيض على الطريقة البينانغية للرائحة. ويعود هذا الكشك العائلي إلى مطلع القرن العشرين، وينفد عادةً مع اقتراب أواخر الصباح."

@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: أرز ورق الموز الحائز Bib Gourmand من MICHELIN في Bangsar"
 seoTitle: "Nirwana: أرز ورق الموز في Bangsar (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "وجبة أرز على ورق الموز مع الأرز والكاري والبيض"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ar"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "يومياً 11:30-23:00 (وفقاً لـ MICHELIN؛ تختلف القوائم الأخرى، تحقق مباشرة)"
+  halal: "pork-free"
+  mustOrder: "طبق أرز ورق الموز (banana leaf rice) (أرز مع كاري الخضار) مع اختيار الدجاج أو لحم الضأن/الخروف أو السمك؛ وقد خصّ دليل MICHELIN برياني الدجاج بالذكر"
+  reviewSummary: "مطعم هندي جنوبي عريق يقدّم طعام ورق الموز في شارع Jalan Telawi في Bangsar Baru، ومدرج ضمن MICHELIN Bib Gourmand. يُعرف بأنه وجهة مفضّلة لأطباق أرز ورق الموز التي تُقدَّم مع الأرز وكاري الخضار واختيار من البروتين، مع إشادة متكررة ببرياني الدجاج. وهو مطعم غير رسمي محبّب لدى السكان المحليين أكثر من كونه مكاناً للطعام الفاخر."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

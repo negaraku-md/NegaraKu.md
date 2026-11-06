@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: สถาบันอาหารไหหลำปี 1938 ใน KL"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "ข้าวมันไก่ไหหลำกับเนื้อย่างและแตงกวา"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "ทุกวัน 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "ข้าวมันไก่ไหหลำ (ไก่เลี้ยงในฟาร์มผักหรือไก่ปล่อย), หมูสามชั้นย่าง, ถั่วงอกอีโปห์"
+  reviewSummary: "ร้านไหหลำเก่าแก่ตั้งแต่ปี 1938 ย่าน Chinatown ของกัวลาลัมเปอร์ ที่เป็นที่นิยมของคนท้องถิ่นมายาวนานด้วยข้าวมันไก่ โดยหมูสามชั้นย่างหนังกรอบและถั่วงอกอีโปห์ก็ได้รับการกล่าวถึงเป็นพิเศษจากผู้มาทาน ความเห็นของผู้มาเยือนในช่วงหลังมีทั้งดีและไม่ดี บางคนชื่นชมไก่และเครื่องเคียง ขณะที่บางคนรู้สึกว่าไก่จืดชืดหรือบริการไม่สม่ำเสมอ"
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "ฉบับ MICHELIN ปัจจุบันที่แน่นอน — ฉบับล่าสุดคือ MICHELIN Guide Kuala Lumpur & Penang 2026 (ประกาศเมื่อ 11 November 2025) การคัดเลือก Bib Gourmand มีการปรับปรุงทุกปี จึงควรยืนยันสถานะของ Nam Heong กับฉบับปัจจุบันก่อนเชื่อถือ"
   - "เลขที่บน Jalan Sultan — หน้าภาษาอังกฤษของ MICHELIN ระบุ 56 Jalan Sultan แต่บางฉบับภาษาระบุ 54 ควรยืนยันที่อยู่ที่แน่นอน"

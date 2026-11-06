@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana : le banana leaf Bib Gourmand MICHELIN de Bangsar"
 seoTitle: "Nirwana : riz sur feuille de bananier à Bangsar (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "Un repas de banana leaf rice avec du riz, des currys et un œuf"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "fr"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "Tous les jours 11h30-23h00 (selon MICHELIN ; les autres sources varient, vérifiez directement)"
+  halal: "pork-free"
+  mustOrder: "Set de banana leaf rice (riz accompagné de currys de légumes) avec un choix de poulet, mouton/agneau ou poisson ; le biryani de poulet est particulièrement distingué par le Guide MICHELIN"
+  reviewSummary: "Un restaurant sud-indien de banana leaf de longue date sur Jalan Telawi, à Bangsar Baru, référencé comme MICHELIN Bib Gourmand. Il est reconnu comme une adresse incontournable pour les sets de banana leaf rice servis avec du riz, des currys de légumes et une protéine au choix, le biryani de poulet étant fréquemment salué. C'est un établissement décontracté apprécié des habitants plutôt qu'un lieu de haute gastronomie."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

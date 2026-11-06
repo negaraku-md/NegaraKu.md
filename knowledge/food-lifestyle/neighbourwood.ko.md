@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "목~월 11:30-15:00 및 17:30-22:30; 화·수 휴무"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "로스트 치킨 하프 au jus와 Berkshire pork loin(나눠 먹기 좋은 대표 메뉴), 매장에서 직접 구운 sourdough. 나머지 메뉴는 대략 6주마다 바뀝니다."
+  reviewSummary: "부킷머르타잠(Bukit Mertajam)의 주택가에 자리한 아늑한 동네 비스트로로, 아시아풍 터치를 더한 그릴 중심의 유러피언 컨템포러리 요리를 선보입니다. 오너 셰프 Sean Khaw가 운영하며 매장 내 sourdough 베이커리를 갖추고 있습니다. MICHELIN Bib Gourmand 선정(좋은 품질, 좋은 가성비) 레스토랑으로, 메뉴는 숯불 그릴의 나눠 먹는 요리를 중심으로 구성되며 6주마다 바뀝니다. 평가자들은 개방형 극장식 주방, 세심하고 친절한 서비스, 균형 잡힌 코스 요리를 높이 평가합니다. 규모가 아담하고 주요 상업 거리에서 벗어나 있으므로 미리 예약하는 것을 권합니다."
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood는 페낭주의 본토 쪽인 Seberang Perai의 Bukit Mertajam에 있는 MICHELIN Bib Gourmand 식당이다. 인근 주민이 연 편안한 동네 식당으로, 아시아의 영향을 받은 현대 유러피언 요리와 그릴 요리를 내며, 메뉴는 6주마다 바뀌고 자가제 사워도우가 대표 메뉴 중 하나다."
 answer: "Neighbourwood는 페낭주의 본토 쪽인 Seberang Perai의 Bukit Mertajam, 3427 Jalan Kulim에 있는 MICHELIN Bib Gourmand 식당이다. 아시아의 영향을 받은 현대 유러피언 요리를 그릴 요리와 함께 내며, 메뉴는 6주마다 바뀌는 한편 몇몇 대표 메뉴는 그대로 남는다. 황금빛으로 바삭하게 부서지는 자가제 사워도우와 폭넓은 디저트 구성이 돋보인다. MICHELIN은 $ 가격대로 책정한다."
 keyTakeaways:

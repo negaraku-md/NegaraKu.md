@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "الخميس-الإثنين 11:30-15:00 و17:30-22:30؛ مغلق الثلاثاء والأربعاء"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "نصف دجاجة مشوية au jus وBerkshire pork loin (أطباق ثابتة للمشاركة)؛ خبز sourdough مخبوز في المطعم؛ أما بقية القائمة فتتغير كل ستة أسابيع تقريبًا."
+  reviewSummary: "بيسترو حيّ دافئ في منطقة سكنية من بوكيت مرتاجام (Bukit Mertajam)، يقدّم مطبخًا أوروبيًا معاصرًا يركّز على الشوي مع لمسات آسيوية، يديره المالك والطاهي Sean Khaw مع مخبز sourdough خاص به داخل المكان. اختيار ضمن MICHELIN Bib Gourmand (جودة جيدة وقيمة مقابل السعر)، وقائمته مبنية حول أطباق للمشاركة من الشواء على الفحم وتتجدّد كل ستة أسابيع. يشير المراجعون إلى مطبخ مفتوح بأسلوب مسرحي، وخدمة ودودة ومهتمّة، ووجبات متعددة الأطباق متوازنة بإتقان؛ وهو متواضع الحجم ويقع بعيدًا عن الشارع التجاري الرئيسي، لذا يُنصح بالحجز مسبقًا."
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "‏Neighbourwood مطعم حائز على MICHELIN Bib Gourmand في Bukit Mertajam، Seberang Perai — النصف البرّي الرئيسي من ولاية Penang. مكان حيّ هادئ افتتحه أحد السكان القريبين، ويقدّم طعامًا أوروبيًا معاصرًا بتأثيرات آسيوية إضافةً إلى أطباق مشوية، بقائمة تتغيّر كل ستة أسابيع، وخبز sourdough المخبوز في المكان من بين أطباقه المميّزة."
 answer: "‏Neighbourwood مطعم حائز على MICHELIN Bib Gourmand في 3427 Jalan Kulim، Bukit Mertajam، في Seberang Perai — الجزء البرّي الرئيسي من ولاية Penang. يقدّم طهيًا أوروبيًا معاصرًا بتأثيرات آسيوية إلى جانب أطباق مشوية، بقائمة تتغيّر كل ستة أسابيع بينما تبقى حفنة من الأطباق المميّزة. خبز sourdough المخبوز في المكان، الذهبي الهشّ، وتشكيلة واسعة من الحلويات هما أبرز ما فيه. ويضعه MICHELIN في فئة $."
 keyTakeaways:

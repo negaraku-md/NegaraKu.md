@@ -2,6 +2,11 @@
 topicId: MY-MICH-0070
 title: "Penang Road Famous Laksa：一家 George Town 的 Bib Gourmand"
 slug: "penang-road-famous-laksa"
+hero: "/media/food/penang-road-famous-laksa/hero.webp"
+heroAlt: "Penang asam laksa 上面铺着薄荷、黄瓜、辣椒和洋葱"
+heroCredit: "ProjectManhattan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  priceRange: "$"
+  hours: "周一、周二、周四至周日 9:00 AM - 5:30 PM；周三休息"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Penang asam laksa（招牌；lai fun 米粉配三种鱼／罗望子汤底），可额外加去骨沙丁鱼柳；也供应配鸭蛋的 char koay teow"
+  reviewSummary: "一家位于 Penang Road 旁、历史悠久的 George Town 亚参叻沙摊位，自 1970 年起沿用家族秘方，如今落脚于 Lebuh Keng Kwee。荣获 MICHELIN 必比登推介（Bib Gourmand）；MICHELIN 形容其汤底以三种鱼熬制，香料配方在辣、甜、酸之间取得平衡，配以 lai fun 米粉，并标注为“值得排队（Worth Queueing For）”。食客普遍形容汤头酸香浓郁、沙丁鱼碎绵密。第三方聚合平台显示 Google 评分约 4.3，来自约 2,000 至 2,400 条评价（快照数据，非实时）。"
+  phone: "+60 16-446 0543"
 summary: "Penang Road Famous Laksa 是槟城乔治市一家面食店，入选 MICHELIN Guide 的 Bib Gourmand 名单，以 assam（酸）laksa 闻名。自 1970 年起以家族秘方经营，它以三种鱼熬制的汤底盛载 lai fun，平衡辣、甜、酸三味，并可加一块去骨沙丁鱼柳。这是一处长年排队的 George Town 老字号。"
 seoTitle: "Penang Road Famous Laksa（Bib Gourmand）"
 answer: "Penang Road Famous Laksa 是位于槟城乔治市 Lebuh Keng Kwee 的一家 Bib Gourmand 面食店。自 1970 年起以家族秘方经营，它售卖招牌酸 laksa：以三种鱼熬制的汤底盛载 lai fun，在辣、甜、酸之间取得平衡，并可加一块去骨沙丁鱼柳。它是 George Town 最有名的街头美食排队店之一。"

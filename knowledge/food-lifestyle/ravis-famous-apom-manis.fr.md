@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis : le stand d'apom Bib Gourmand de Penang"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "Apom — crêpes de riz à la noix de coco, moelleuses et dentelées, empilées dans une assiette"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "Tous les jours de 6h à 10h, fermé le jeudi ; souvent en rupture vers 9h30. Note : la fiche MICHELIN indique de 18h à 22h, ce qui contredit plusieurs sources locales faisant état d'horaires uniquement matinaux."
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apom manis (crêpe sucrée à la noix de coco cuite en cocotte de terre)"
+  reviewSummary: "Un stand de cuisine de rue de longue date à George Town (en activité depuis le début des années 1920, aujourd'hui à la troisième génération) qui vend de l'apom manis (crêpe sucrée à la noix de coco) préparé à la commande dans de petites cocottes de terre chauffées au charbon de bois. Les critiques décrivent un bord croustillant et doré avec un cœur moelleux et aéré et un parfum de noix de coco prononcé, d'une douceur délicate plutôt que lourde ; il est conseillé de le déguster bien chaud, directement sorti de la cocotte. Récompensé par le MICHELIN Bib Gourmand en 2025 et conservé en 2026, ce qui a accru sa popularité. Le stand ouvre le matin et est souvent en rupture bien avant la fermeture."
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis est un stand de cuisine de rue de longue date à George Town, Penang, retenu dans la sélection Bib Gourmand du MICHELIN Guide, spécialisé dans l'apom manis — une crêpe sucrée et dentelée à base de coco et de farine de riz. Le style de Penang incorpore de l'œuf dans la pâte pour plus d'arôme ; le stand fonctionne depuis près d'un siècle et a tendance à être épuisé dans la matinée."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis est un stand de cuisine de rue Bib Gourmand sur Jalan Burma à George Town, Penang. Il est spécialisé dans l'apom manis — une crêpe sucrée au cœur moelleux et aux bords croustillants, à base de farine de riz et de coco, avec de l'œuf ajouté à la façon de Penang pour l'arôme. Ce stand familial remonte au début du XXe siècle et est généralement épuisé en fin de matinée."

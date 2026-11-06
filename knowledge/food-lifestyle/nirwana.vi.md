@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: Cơm lá chuối Bib Gourmand MICHELIN ở Bangsar"
 seoTitle: "Nirwana: Cơm lá chuối Bangsar (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "Một suất cơm lá chuối với cơm, cà ri và trứng"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "vi"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "Hằng ngày 11:30-23:00 (theo MICHELIN; các nguồn khác có thể khác nhau, hãy xác nhận trực tiếp)"
+  halal: "pork-free"
+  mustOrder: "Phần cơm lá chuối (cơm với cà ri rau) kèm lựa chọn gà, thịt dê/cừu hoặc cá; món chicken biryani được MICHELIN Guide nhắc đến đặc biệt"
+  reviewSummary: "Một nhà hàng Nam Ấn phục vụ cơm lá chuối lâu đời trên đường Jalan Telawi ở Bangsar Baru, được xếp hạng MICHELIN Bib Gourmand. Nơi đây nổi tiếng là địa điểm quen thuộc cho các phần cơm lá chuối phục vụ cùng cơm, cà ri rau và lựa chọn đạm, trong đó chicken biryani thường được khen ngợi. Đây là quán ăn bình dân được người địa phương yêu thích hơn là một nhà hàng cao cấp."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

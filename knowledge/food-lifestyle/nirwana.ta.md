@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: Bangsar-இன் MICHELIN Bib Gourmand வாழை இலை உணவு"
 seoTitle: "Nirwana: Bangsar வாழை இலை சாப்பாடு (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "சோறு, குழம்புகள் மற்றும் முட்டையுடன் கூடிய வாழை இலை சாப்பாடு"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ta"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "தினமும் 11:30-23:00 (MICHELIN படி; பிற பட்டியல்கள் வேறுபடும், நேரடியாக உறுதிப்படுத்தவும்)"
+  halal: "pork-free"
+  mustOrder: "வாழை இலை சாப்பாடு செட் (காய்கறி குழம்புகளுடன் சோறு), கோழி, ஆட்டிறைச்சி அல்லது மீன் தேர்வுடன்; கோழி பிரியாணியை MICHELIN வழிகாட்டி சிறப்பாகக் குறிப்பிடுகிறது"
+  reviewSummary: "Bangsar Baru-வில் உள்ள Jalan Telawi-யில் நீண்ட காலமாக இயங்கி வரும் வாழை இலை தென்னிந்திய உணவகம், MICHELIN Bib Gourmand பட்டியலில் இடம்பெற்றுள்ளது. சோறு, காய்கறி குழம்புகள் மற்றும் தேர்ந்தெடுக்கப்பட்ட இறைச்சியுடன் பரிமாறப்படும் வாழை இலை சாப்பாடு செட்களுக்கான சிறந்த இடமாக இது அறியப்படுகிறது, கோழி பிரியாணி அடிக்கடி பாராட்டப்படுகிறது. இது உயர்தர உணவகம் என்பதை விட, உள்ளூர் மக்களின் விருப்பமான சாதாரண உணவகமாகும்."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

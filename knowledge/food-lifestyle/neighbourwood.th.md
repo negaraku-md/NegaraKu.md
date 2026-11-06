@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "พฤหัสบดี-จันทร์ 11:30-15:00 และ 17:30-22:30; ปิดวันอังคารและพุธ"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "ไก่ย่างครึ่งตัว au jus และ Berkshire pork loin (เมนูสำหรับแบ่งกันทานที่มีประจำ); sourdough อบเองในร้าน; เมนูส่วนที่เหลือเปลี่ยนประมาณทุกหกสัปดาห์"
+  reviewSummary: "บิสโทรประจำย่านบรรยากาศอบอุ่นในเขตที่พักอาศัยของบูกิตเมอร์ตาจัม (Bukit Mertajam) เสิร์ฟอาหารยุโรปร่วมสมัยที่เน้นการย่าง สอดแทรกกลิ่นอายแบบเอเชีย ดำเนินการโดยเจ้าของร้านและเชฟ Sean Khaw พร้อมเบเกอรี sourdough ที่อบเองในร้าน เป็นร้านที่ได้รับเลือกให้อยู่ใน MICHELIN Bib Gourmand (คุณภาพดี คุ้มค่า) เมนูสร้างขึ้นรอบจานสำหรับแบ่งกันทานจากเตาถ่าน และหมุนเวียนทุกหกสัปดาห์ นักรีวิวกล่าวถึงครัวเปิดสไตล์โรงละคร การบริการที่ใส่ใจและเป็นกันเอง และมื้ออาหารหลายคอร์สที่สมดุลลงตัว ร้านมีขนาดไม่ใหญ่และอยู่นอกถนนการค้าสายหลัก จึงแนะนำให้จองล่วงหน้า"
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood เป็นร้านอาหาร MICHELIN Bib Gourmand ใน Bukit Mertajam, Seberang Perai — ซีกแผ่นดินใหญ่ของรัฐ Penang เป็นร้านย่านชุมชนบรรยากาศสบาย ๆ ที่เปิดโดยผู้อยู่อาศัยใกล้เคียง เสิร์ฟอาหารยุโรปร่วมสมัยที่ได้รับอิทธิพลเอเชียพร้อมเมนูย่าง เมนูหมุนเวียนทุกหกสัปดาห์ และขนมปัง sourdough อบเองเป็นหนึ่งในเมนูซิกเนเจอร์"
 answer: "Neighbourwood เป็นร้านอาหาร MICHELIN Bib Gourmand ที่ 3427 Jalan Kulim, Bukit Mertajam ใน Seberang Perai — ส่วนแผ่นดินใหญ่ของรัฐ Penang เสิร์ฟอาหารยุโรปร่วมสมัยที่ได้รับอิทธิพลเอเชียควบคู่กับเมนูย่าง โดยเมนูเปลี่ยนทุกหกสัปดาห์ ในขณะที่เมนูซิกเนเจอร์จำนวนหนึ่งยังคงอยู่ ขนมปัง sourdough อบเองสีทองกรอบร่วนและขนมหวานให้เลือกมากมายเป็นไฮไลต์ MICHELIN จัดอยู่ในระดับราคา $"
 keyTakeaways:

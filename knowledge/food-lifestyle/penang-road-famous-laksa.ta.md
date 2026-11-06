@@ -2,6 +2,11 @@
 topicId: MY-MICH-0070
 title: "Penang Road Famous Laksa: ஒரு George Town Bib Gourmand"
 slug: "penang-road-famous-laksa"
+hero: "/media/food/penang-road-famous-laksa/hero.webp"
+heroAlt: "புதினா, வெள்ளரி, மிளகாய் மற்றும் வெங்காயத்துடன் மேலே அலங்கரிக்கப்பட்ட Penang asam laksa"
+heroCredit: "ProjectManhattan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  priceRange: "$"
+  hours: "திங்கள், செவ்வாய், வியாழன்-ஞாயிறு 9:00 AM - 5:30 PM; புதன் மூடப்பட்டுள்ளது"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Penang asam laksa (சிறப்பு; மூன்று வகை மீன்/புளி குழம்பில் lai fun நூடுல்ஸ்), விருப்பப்பட்டால் எலும்பு நீக்கிய சார்டின் மீன் துண்டு சேர்த்துக் கொள்ளலாம்; வாத்து முட்டையுடன் char koay teow-ம் கிடைக்கிறது"
+  reviewSummary: "Penang Road-க்கு அருகில் நீண்ட காலமாக இயங்கி வரும் George Town asam laksa கடை, 1970 முதல் ஒரு குடும்ப செய்முறையை வழங்கி வருகிறது, இப்போது Lebuh Keng Kwee-இல் உள்ளது. MICHELIN Bib Gourmand விருது பெற்றது; காரம், இனிப்பு, புளிப்பு சுவைகளை சமநிலைப்படுத்தும் மசாலாக் கலவையுடன் மூன்று வகை மீன்களில் உருவாக்கப்பட்ட குழம்பு, lai fun நூடுல்ஸுடன் பரிமாறப்படுவதாக MICHELIN விவரிக்கிறது, மேலும் அதை 'Worth Queueing For' எனக் குறிக்கிறது. மதிப்பாய்வாளர்கள் பொதுவாக இந்தக் குழம்பை புளிப்பான, கமகமக்கும் மற்றும் படியும் சார்டின் துண்டுகள் நிறைந்ததாக விவரிக்கிறார்கள். மூன்றாம் தரப்பு திரட்டிகள் சுமார் 2,000-2,400 மதிப்புரைகளில் இருந்து சுமார் 4.3 Google மதிப்பீட்டைப் பட்டியலிடுகின்றன (நேரடி அல்ல, ஒரு ஸ்னாப்ஷாட்)."
+  phone: "+60 16-446 0543"
 summary: "Penang Road Famous Laksa என்பது பினாங்கு, George Town-இல் உள்ள ஒரு நூடுல் கடை; MICHELIN Guide-இன் Bib Gourmand தேர்வில் இடம்பெற்றுள்ளது, assam (புளிப்பு) laksa-க்காக பிரபலம். 1970 முதல் ஒரு குடும்ப செய்முறையில் இயங்கிவரும் இது, மூன்று வகை மீன்களில் செய்த சூப்பில் lai fun நூடுல்களை வழங்குகிறது; காரம், இனிப்பு, புளிப்பு சுவைகளை சமன்செய்து, எலும்பு நீக்கிய மத்தி மீன் துண்டு கூடுதலாக. இது நீண்ட வரிசை கொண்ட George Town நிறுவனம்."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa என்பது பினாங்கு, George Town-இல் Lebuh Keng Kwee-இல் உள்ள ஒரு Bib Gourmand நூடுல் கடை. 1970 முதல் ஒரு குடும்ப செய்முறையில் இயங்கிவரும் இது, அதன் சிறப்பு புளிப்பு laksa-ஐ வழங்குகிறது: மூன்று வகை மீன்களில் செய்த சூப்பில் lai fun நூடுல்கள், காரம்-இனிப்பு-புளிப்பு சுவைகளுக்கிடையே சமன்செய்யப்பட்டு, எலும்பு நீக்கிய மத்தி மீன் துண்டு கூடுதலாக கிடைக்கிறது. இது George Town-இன் மிகப் பிரபலமான தெரு உணவு வரிசைகளில் ஒன்று."

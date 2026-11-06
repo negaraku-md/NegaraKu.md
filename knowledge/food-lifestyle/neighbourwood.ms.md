@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "Khamis-Isnin 11:30-15:00 dan 17:30-22:30; tutup Selasa dan Rabu"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Separuh ayam panggang au jus dan Berkshire pork loin (hidangan kongsi tetap); sourdough bakar sendiri; selebihnya menu bertukar lebih kurang setiap enam minggu."
+  reviewSummary: "Sebuah bistro kejiranan yang selesa di kawasan kediaman Bukit Mertajam, menyajikan masakan kontemporari Eropah berfokuskan panggangan dengan sentuhan Asia, dikendalikan oleh chef pemilik Sean Khaw lengkap dengan bakeri sourdough sendiri. Pilihan MICHELIN Bib Gourmand (kualiti baik, nilai berbaloi), menunya dibina di sekitar hidangan kongsi dari panggangan arang dan berputar setiap enam minggu. Pengulas menyebut dapur terbuka bergaya teater, layanan yang mesra dan prihatin, serta hidangan pelbagai kursus yang seimbang; ia bersaiz sederhana dan terletak jauh dari jalan komersial utama, jadi tempahan awal dinasihatkan."
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood ialah sebuah restoran MICHELIN Bib Gourmand di Bukit Mertajam, Seberang Perai — bahagian tanah besar negeri Pulau Pinang. Sebuah tempat kejiranan yang santai dibuka oleh seorang penduduk berdekatan, ia menghidangkan makanan Eropah kontemporari dengan pengaruh Asia serta hidangan panggang, dengan menu yang bertukar setiap enam minggu dan roti sourdough bakar sendiri antara hidangan istimewanya."
 answer: "Neighbourwood ialah sebuah restoran MICHELIN Bib Gourmand di 3427 Jalan Kulim, Bukit Mertajam, di Seberang Perai — bahagian tanah besar negeri Pulau Pinang. Ia menghidangkan masakan Eropah kontemporari dengan pengaruh Asia di samping hidangan panggang, dengan menu yang bertukar setiap enam minggu dan segelintir hidangan istimewa yang kekal. Roti sourdough bakar sendiri yang keemasan dan rapuh serta pilihan pencuci mulut yang luas merupakan tarikan utama. MICHELIN meletakkannya dalam julat harga $."
 keyTakeaways:

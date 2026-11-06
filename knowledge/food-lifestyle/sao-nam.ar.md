@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "‏Sao Nam: مطبخ فيتنامي بتصنيف Bib Gourmand في كوالالمبور"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "pho فيتنامي - لحم بقري ونودلز الأرز في مرق صافٍ مع الأعشاب"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "يقع في 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200، بواجهة صفراء وديكور داخلي زاهي الألوان. يَسِمه MICHELIN Guide بأنه مناسب للعائلات ويضعه ضمن فئة السعر $."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "الاثنين-الجمعة 12:00-14:30 و18:00-22:00؛ السبت 12:00-14:30 و18:00-22:30؛ الأحد 12:00-14:30 و18:00-22:00 (وفق دليل MICHELIN؛ القوائم الأقدم تشير إلى الإغلاق أيام الاثنين - يُرجى التأكد من المطعم)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (شوربة نودلز اللحم البقري، مرق يُطهى على نار هادئة لأكثر من 10 ساعات) وسلطة المانجوستين والروبيان (الطبق المميّز)؛ beef la lot (لحم بقري مفروم ملفوف بأوراق الفلفل البرية)"
+  reviewSummary: "مطعم فيتنامي عريق يقع في مبنى تجاري سكني من طابقين يعود إلى ما قبل الحرب في شارع Tengkat Tong Shin قرب Jalan Alor، حائز على MICHELIN Bib Gourmand. يركّز بشكل رئيسي على المطبخ الفيتنامي الجنوبي (المعروف بمذاقه الأحلى) مع بعض الأطباق المتأثرة بالمطبخ الفرنسي، في أجواء كلاسيكية زاهية الألوان. يُبرز دليل MICHELIN طبق pho bo وسلطة المانجوستين والروبيان؛ ويثني النقّاد على مرق اللحم الصافي والتقديم وسلطة المانجوستين الموسمية."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

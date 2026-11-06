@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: arroz con pollo con Bib Gourmand desde 1965"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Hainanese chicken rice: pollo escalfado con arroz aromático y salsa de chile"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng es un especialista en Hainanese chicken rice con MICHELIN Bib Gourmand en Jalan Kelang Lama, Kuala Lumpur, de gestión familiar desde 1965. Sirve pollo al vapor o frito con arroz cocido en grasa y caldo de pollo, usando pollo local para una carne más magra y jugosa. Este perfil cubre qué es, su plato distintivo, su historia y cómo visitarlo."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "A diario de 10:00 a 19:00 (según MICHELIN; algunos agregadores indican de 11:00 a 22:00, así que confírmalo directamente)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Hainanese chicken rice con el aromático arroz cocinado en grasa de pollo y a elegir entre pollo escalfado o asado (pide ambos para comparar), acompañado de la salsa de jengibre y la salsa de chile de la casa; entre los acompañamientos para compartir más populares están las gambas sambal, el calamar con huevo salado y el pollo al limón."
+  reviewSummary: "Una institución familiar de Old Klang Road que sirve Hainanese chicken rice desde 1965 (ahora a cargo de la segunda y tercera generación), galardonada con el MICHELIN Bib Gourmand. Los comensales elogian el aromático arroz con grasa de pollo y los condimentos de jengibre y chile, así como la opción de pollo escalfado o asado; algunos reseñadores encuentran las raciones y los acompañamientos algo caros y las opiniones sobre la calidad de la carne son dispares. Tiene una valoración en Google de alrededor de 4,2 a partir de unas 1.300+ reseñas."
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

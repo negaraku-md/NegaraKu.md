@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis：槟城的 Bib Gourmand apom 摊"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "Apom——松软细致的椰浆米薄饼叠放在盘子上"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "每日上午6点至10点，周四休息；通常约上午9:30前便售罄。注意：米其林（MICHELIN）名单显示为下午6点至晚上10点，这与多个本地来源报道的仅限上午营业的时间相矛盾。"
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "apom manis（甜椰浆瓦煲薄饼）"
+  reviewSummary: "一家经营多年的乔治市（George Town）街头小吃摊（自1920年代初开业，现已传至第三代），售卖以炭火小瓦煲现点现做的 apom manis（甜椰浆薄饼）。食客形容其边缘酥脆金黄、中心柔软松软，带有浓郁的椰香，甜味温和而不腻；建议趁热从煲中取出食用。该摊于2025年荣获米其林必比登推介（MICHELIN Bib Gourmand），并于2026年保留此殊荣，使其人气大增。摊位只在上午营业，常常在收摊前很久便已售罄。"
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis 是槟城乔治市一家历史悠久的街头美食摊，入选 MICHELIN Guide 的 Bib Gourmand 名单，专精 apom manis——一种甜美、带花边的椰子米粉薄饼。槟城风味在面糊中加入鸡蛋以添香气；该摊已经营近一个世纪，常在上午售罄。"
 seoTitle: "Ravi's Famous Apom Manis，槟城（Bib）"
 answer: "Ravi's Famous Apom Manis 是位于槟城乔治市 Jalan Burma 的一家 Bib Gourmand 街头美食摊。它专精 apom manis——一种甜美、中心柔软、边缘酥脆的米粉与椰子薄饼，按槟城风味在面糊中加入鸡蛋以增香。这家家族摊位可追溯至 20 世纪初，通常在接近中午前售罄。"

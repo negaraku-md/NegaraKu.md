@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: Bib Gourmand Chicken Rice Since 1965"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Hainanese chicken rice — poached chicken with fragrant rice and chilli sauce"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng is a MICHELIN Bib Gourmand Hainanese chicken rice specialist on Jalan Kelang Lama, Kuala Lumpur, family-run since 1965. It serves steamed or fried chicken with rice cooked in chicken fat and stock, using local chicken for leaner, juicier meat. This profile covers what it is, its signature dish, its history and how to visit."
@@ -43,6 +48,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "Daily 10:00-19:00 (per MICHELIN; some aggregators list 11:00-22:00, so confirm directly)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Hainanese chicken rice with the fragrant chicken-fat rice and a choice of steamed or roasted chicken (order both to compare), eaten with the house ginger dip and chilli sauce; popular shared sides include sambal prawns, salted egg squid and lemon chicken."
+  reviewSummary: "A family-run Old Klang Road institution serving Hainanese chicken rice since 1965 (now run by the second and third generations), awarded the MICHELIN Bib Gourmand. Diners praise the fragrant chicken-fat rice and the ginger and chilli condiments, and the choice of steamed or roasted chicken; some reviewers find portions and side dishes a little pricey and opinions on meat quality are mixed. It holds a Google rating of about 4.2 from roughly 1,300+ reviews."
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

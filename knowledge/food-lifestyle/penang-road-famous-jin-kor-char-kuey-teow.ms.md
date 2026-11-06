@@ -3,6 +3,11 @@ topicId: MY-MICH-0046
 title: "Penang Road Famous Jin Kor Char Kuey Teow: Gerai Bib Gourmand di George Town"
 seoTitle: "Penang Road Famous Jin Kor Char Kuey Teow"
 slug: "penang-road-famous-jin-kor-char-kuey-teow"
+hero: "/media/food/penang-road-famous-jin-kor-char-kuey-teow/hero.webp"
+heroAlt: "Char kuey teow — mi leper digoreng kuali dengan udang dan taugeh"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "槟榔律驰名仁哥炒粿条"
+  address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+  priceRange: "Budget; around RM9 a plate"
+  hours: "Setiap hari 9:30 AM - 5:00 PM"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "Char kuey teow digoreng mengikut tempahan dengan udang, kerang berdarah, sosej babi dan taugeh; tambah telur itik dan sos cili tambahan"
+  reviewSummary: "Gerai char kuey teow lama di dalam Joo Hooi Cafe (Kopitiam) di Jalan Penang, dikendalikan oleh Lim Chong Jin ('Jin Kor'), yang mula berniaga pada 1984 dan berpindah ke sini pada 1995. Dianugerahkan MICHELIN Bib Gourmand dalam panduan Kuala Lumpur & Penang 2024. Kuey teow digoreng mengikut tempahan dengan udang, kerang berdarah, sosej babi dan taugeh serta terkenal dengan wok hei-nya; telur itik dan cili tambahan boleh ditambah. Sesetengah pengulas mendapati rasanya lebih ringan atau lembut berbanding versi lain."
+  phone: "+60 14-903 3561"
 sources:
   - title: "Penang Road Famous Jin Kor Char Kuey Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"

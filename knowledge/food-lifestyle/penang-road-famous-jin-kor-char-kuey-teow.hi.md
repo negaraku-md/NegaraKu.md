@@ -3,6 +3,11 @@ topicId: MY-MICH-0046
 title: "Penang Road Famous Jin Kor Char Kuey Teow: जॉर्ज टाउन का एक बिब गुरमों स्टॉल"
 seoTitle: "Penang Road Famous Jin Kor Char Kuey Teow"
 slug: "penang-road-famous-jin-kor-char-kuey-teow"
+hero: "/media/food/penang-road-famous-jin-kor-char-kuey-teow/hero.webp"
+heroAlt: "Char kuey teow — झींगा और बीन स्प्राउट्स के साथ वोक में तले चपटे नूडल्स"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "槟榔律驰名仁哥炒粿条"
+  address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+  priceRange: "Budget; around RM9 a plate"
+  hours: "रोज़ाना सुबह 9:30 - शाम 5:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "झींगा, ब्लड क्लैम, पोर्क सॉसेज और बीन स्प्राउट्स के साथ ऑर्डर पर बनाया गया char kuey teow; डक एग और अतिरिक्त चिली सॉस जोड़ें"
+  reviewSummary: "जालान पेनांग स्थित Joo Hooi Cafe (कोपितियाम) के अंदर एक लंबे समय से चल रहा char kuey teow का स्टॉल, जिसे Lim Chong Jin ('Jin Kor') चलाते हैं, जिन्होंने 1984 में बेचना शुरू किया और 1995 में यहाँ आ गए। 2024 कुआलालंपुर और पेनांग गाइड में MICHELIN Bib Gourmand से सम्मानित। kuey teow को झींगा, ब्लड क्लैम, पोर्क सॉसेज और बीन स्प्राउट्स के साथ ऑर्डर पर बनाया जाता है और यह अपने wok hei के लिए जाना जाता है; डक एग और अतिरिक्त चिली जोड़ी जा सकती है। कुछ समीक्षक इसके स्वाद को अन्य संस्करणों की तुलना में हल्का या नरम पाते हैं।"
+  phone: "+60 14-903 3561"
 sources:
   - title: "Penang Road Famous Jin Kor Char Kuey Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: KL의 1938년 하이난 요리 명소"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "구운 고기와 오이를 곁들인 하이난식 치킨라이스"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "매일 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "하이난식 치킨라이스(채소 농장 사육 또는 방목 닭), 로스트 포크 벨리, 이포 숙주"
+  reviewSummary: "쿠알라룸푸르 Chinatown에 자리한 1938년 창업의 하이난 노포로, 치킨라이스로 오랫동안 현지인들에게 사랑받아 왔으며 바삭한 껍질의 로스트 포크 벨리와 이포 숙주도 손님들 사이에서 특히 호평을 받습니다. 최근 방문객 평가는 엇갈려, 닭고기와 곁들임을 칭찬하는 이들이 있는가 하면 닭고기가 밋밋하거나 서비스가 일관되지 않다고 느끼는 이들도 있습니다."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "정확한 현행 MICHELIN 판 — 최신판은 MICHELIN Guide Kuala Lumpur & Penang 2026(2025년 11월 11일 발표)입니다. Bib Gourmand 선정은 매년 개정되므로, 의존하기 전에 현행판으로 Nam Heong의 상태를 다시 확인하세요."
   - "Jalan Sultan의 번지 — MICHELIN 영어 페이지는 56 Jalan Sultan으로 적지만, 일부 언어판은 54로 적습니다. 정확한 주소를 확인하세요."

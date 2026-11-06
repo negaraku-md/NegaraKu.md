@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: 1965년부터 이어온 Bib Gourmand 치킨라이스"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "하이난 치킨라이스 — 향긋한 밥과 칠리 소스를 곁들인 백숙 닭"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng는 쿠알라룸푸르 Jalan Kelang Lama에 있는 MICHELIN Bib Gourmand Hainanese chicken rice 전문점으로, 1965년부터 가족이 운영합니다. 찐 닭 또는 튀긴 닭을 닭기름과 육수로 지은 밥과 함께 내며, 더 담백하고 육즙이 많은 고기를 위해 현지 닭을 씁니다. 이 글은 이곳이 무엇인지, 대표 음식, 역사, 방문 방법을 다룹니다."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "매일 10:00~19:00 (MICHELIN 기준; 일부 집계 사이트에는 11:00~22:00으로 표기되어 있으니 직접 확인하세요)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "향긋한 닭기름밥에 백숙 닭 또는 구운 닭을 선택할 수 있는 하이난 치킨라이스(비교해 보려면 둘 다 주문하세요). 집에서 만든 생강 소스와 칠리 소스를 곁들여 드세요. 인기 있는 나눠 먹는 사이드로는 삼발 새우, 소금에 절인 달걀 오징어, 레몬 치킨이 있습니다."
+  reviewSummary: "1965년부터 하이난 치킨라이스를 선보여 온 Old Klang Road의 가족 경영 명소로(현재 2대·3대가 운영), MICHELIN 빕 구르망에 선정되었습니다. 손님들은 향긋한 닭기름밥과 생강·칠리 소스, 그리고 백숙 닭 또는 구운 닭을 고를 수 있는 점을 칭찬합니다. 다만 일부 리뷰어는 양과 사이드 메뉴가 다소 비싸다고 느끼며, 고기 품질에 대한 평가는 엇갈립니다. 약 1,300개 이상의 리뷰에서 구글 평점 약 4.2점을 받고 있습니다."
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: Bangsar의 MICHELIN Bib Gourmand 바나나 잎밥"
 seoTitle: "Nirwana: Bangsar 바나나 잎밥 (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "밥, 커리, 달걀이 곁들여진 바나나 잎 라이스 한 상"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ko"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "매일 11:30-23:00 (MICHELIN 기준; 다른 정보원마다 다르므로 직접 확인하세요)"
+  halal: "pork-free"
+  mustOrder: "바나나 잎 라이스 세트(밥과 채소 커리)에 치킨, 머튼/양고기 또는 생선 중 선택; 치킨 비리야니는 MICHELIN 가이드가 특별히 언급합니다"
+  reviewSummary: "Bangsar Baru의 Jalan Telawi에 자리한 오래된 바나나 잎 남인도 식당으로, MICHELIN Bib Gourmand에 등재되어 있습니다. 밥, 채소 커리, 선택 가능한 단백질과 함께 제공되는 바나나 잎 라이스 세트의 대표적인 곳으로 알려져 있으며, 치킨 비리야니가 자주 호평받습니다. 고급 레스토랑이라기보다는 현지인이 즐겨 찾는 캐주얼한 식당입니다."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

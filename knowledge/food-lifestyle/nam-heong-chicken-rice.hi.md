@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: KL में 1938 की एक हैनानी संस्था"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "भुने हुए मांस और खीरे के साथ हैनानीज़ चिकन राइस"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "रोज़ाना 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "हैनानीज़ चिकन राइस (सब्ज़ी-फ़ार्म या फ़्री-रेंज चिकन), रोस्ट पोर्क बेली, इपोह बीन स्प्राउट्स"
+  reviewSummary: "कुआलालंपुर के Chinatown में 1938 से चला आ रहा एक हैनानीज़ प्रतिष्ठान, जो अपने चिकन राइस के लिए लंबे समय से स्थानीय लोगों में लोकप्रिय है; कुरकुरी त्वचा वाले रोस्ट पोर्क बेली और इपोह बीन स्प्राउट्स को भी खाने वालों ने ख़ास तौर पर सराहा है। हाल के आगंतुकों की राय मिली-जुली है, कुछ लोग चिकन और साइड डिश की तारीफ़ करते हैं जबकि कुछ को चिकन फीका या सेवा असंगत लगती है।"
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "सटीक वर्तमान MICHELIN संस्करण — नवीनतम MICHELIN Guide Kuala Lumpur & Penang 2026 है (11 November 2025 को घोषित); Bib Gourmand चयन हर वर्ष संशोधित होता है, इसलिए इस पर निर्भर होने से पहले वर्तमान संस्करण के विरुद्ध Nam Heong की स्थिति दोबारा पुष्टि करें।"
   - "Jalan Sultan पर मकान-संख्या — MICHELIN का अंग्रेज़ी पृष्ठ 56 Jalan Sultan देता है, लेकिन कुछ भाषा-संस्करण 54 देते हैं; सटीक पता पुष्टि करें।"

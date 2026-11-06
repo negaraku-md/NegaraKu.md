@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam : une cuisine vietnamienne Bib Gourmand à Kuala Lumpur"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "Pho vietnamien - bœuf et nouilles de riz dans un bouillon clair aux herbes"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Il se trouve au 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, avec une façade jaune et un intérieur coloré. Le MICHELIN Guide le signale comme adapté aux familles et le place dans la tranche de prix $."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "Lun-Ven 12h00-14h30 & 18h00-22h00 ; Sam 12h00-14h30 & 18h00-22h30 ; Dim 12h00-14h30 & 18h00-22h00 (selon le Guide MICHELIN ; d'anciennes fiches indiquent une fermeture le lundi - à confirmer auprès de l'établissement)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (soupe de nouilles au bœuf, bouillon mijoté plus de 10 heures) et salade de mangoustan et crevettes (la spécialité) ; beef la lot (bœuf haché roulé dans des feuilles de poivre sauvage)"
+  reviewSummary: "Un restaurant vietnamien de longue date installé dans un shophouse d'avant-guerre de deux étages sur Tengkat Tong Shin, près de Jalan Alor, récompensé d'un MICHELIN Bib Gourmand. Il se concentre principalement sur la cuisine du sud du Vietnam (réputée plus sucrée), avec quelques plats d'influence française, dans un cadre Old World haut en couleur. MICHELIN met en avant le pho bo et la salade de mangoustan et crevettes ; les critiques saluent le bouillon de bœuf clair, la présentation et la salade de mangoustan de saison."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

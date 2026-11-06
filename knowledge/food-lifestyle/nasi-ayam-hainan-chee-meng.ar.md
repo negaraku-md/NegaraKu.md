@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: أرز بالدجاج حائز على Bib Gourmand منذ 1965"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Hainanese chicken rice — دجاج مسلوق مع أرز عطري وصلصة فلفل حار"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng هو مطعم متخصّص في Hainanese chicken rice حائز على MICHELIN Bib Gourmand في Jalan Kelang Lama، كوالالمبور، تديره عائلة منذ 1965. يقدّم دجاجاً مبخّراً أو مقلياً مع أرز مطهوّ بدهن الدجاج ومرقه، مستخدماً دجاجاً محلياً للحصول على لحم أقل دهناً وأكثر عصارة. يتناول هذا الملف ما هو المطعم، وطبقه المميّز، وتاريخه، وكيفية زيارته."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "يوميًا 10:00-19:00 (وفقًا لـ MICHELIN؛ تدرج بعض المواقع المجمِّعة المواعيد 11:00-22:00، لذا تأكد مباشرةً)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Hainanese chicken rice مع أرز دهن الدجاج العطري مع خيار الدجاج المسلوق أو المشوي (اطلب كليهما للمقارنة)، يؤكل مع صلصة الزنجبيل المنزلية وصلصة الفلفل الحار؛ ومن الأطباق الجانبية الشهيرة للمشاركة روبيان السامبال والحبار بالبيض المملح والدجاج بالليمون."
+  reviewSummary: "مؤسسة عائلية عريقة في Old Klang Road تقدم Hainanese chicken rice منذ عام 1965 (يديرها الآن الجيلان الثاني والثالث)، وحازت على MICHELIN Bib Gourmand. يشيد الزوار بأرز دهن الدجاج العطري وبتتبيلتي الزنجبيل والفلفل الحار، وبخيار الدجاج المسلوق أو المشوي؛ ويرى بعض المراجعين أن الحصص والأطباق الجانبية مرتفعة الثمن قليلاً، وتتباين الآراء حول جودة اللحم. يحمل المطعم تقييمًا على Google يبلغ نحو 4.2 من حوالي 1,300+ مراجعة."
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

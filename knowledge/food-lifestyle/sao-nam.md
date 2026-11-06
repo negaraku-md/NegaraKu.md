@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: Bib Gourmand Vietnamese Cooking in Kuala Lumpur"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "Vietnamese pho — beef and rice noodles in a clear broth with herbs"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -43,6 +48,18 @@ faq:
     a: "It is at 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, with a yellow façade and a colourful interior. The MICHELIN Guide tags it as family-friendly and places it in the $ price band."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "Mon-Fri 12:00-14:30 & 18:00-22:00; Sat 12:00-14:30 & 18:00-22:30; Sun 12:00-14:30 & 18:00-22:00 (per MICHELIN Guide; older listings report closed Mondays - confirm with venue)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (beef noodle soup, broth simmered 10+ hours) and mangosteen & prawn salad (the signature); beef la lot (minced beef in wild pepper leaves)"
+  reviewSummary: "A long-running Vietnamese restaurant in a two-storey pre-war shophouse on Tengkat Tong Shin near Jalan Alor, awarded a MICHELIN Bib Gourmand. It focuses on mainly southern Vietnamese cooking (noted as sweeter) with some French-influenced dishes, in a colourful Old World setting. MICHELIN highlights the pho bo and the mangosteen-and-prawn salad; reviewers praise the clear beef broth, presentation and the seasonal mangosteen salad."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

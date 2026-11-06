@@ -3,6 +3,11 @@ topicId: MY-MICH-0046
 title: "Penang Road Famous Jin Kor Char Kuey Teow：乔治市的米其林必比登推介摊位"
 seoTitle: "Penang Road Famous Jin Kor Char Kuey Teow"
 slug: "penang-road-famous-jin-kor-char-kuey-teow"
+hero: "/media/food/penang-road-famous-jin-kor-char-kuey-teow/hero.webp"
+heroAlt: "Char kuey teow — 镬炒扁粿条，配虾和豆芽"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "槟榔律驰名仁哥炒粿条"
+  address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+  priceRange: "Budget; around RM9 a plate"
+  hours: "每天 9:30 AM - 5:00 PM"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "现点现炒的 char kuey teow，配虾、血蚶、腊肠和豆芽；可加鸭蛋和额外辣椒酱"
+  reviewSummary: "位于槟城路（Jalan Penang）Joo Hooi Cafe（茶室）内一家经营多年的 char kuey teow 摊，由 Lim Chong Jin（'Jin Kor'）掌勺，他于 1984 年开始摆卖，1995 年迁至此处。在 2024 年 MICHELIN 吉隆坡与槟城指南中荣获必比登推介（Bib Gourmand）。粿条现点现炒，配虾、血蚶、腊肠和豆芽，以其 wok hei（镬气）著称；可加鸭蛋和额外辣椒。部分食客认为其味道比其他版本更清淡或温和。"
+  phone: "+60 14-903 3561"
 sources:
   - title: "Penang Road Famous Jin Kor Char Kuey Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"

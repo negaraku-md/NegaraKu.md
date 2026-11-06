@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: مؤسسة هاينانية منذ 1938 في KL"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "أرز الدجاج الهايناني مع اللحوم المشوية والخيار"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "يوميًا 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "أرز الدجاج الهايناني (دجاج مزارع الخضار أو دجاج طليق)، لحم بطن الخنزير المشوي، براعم فاصولياء إيبوه"
+  reviewSummary: "مؤسسة هاينانية تأسست عام 1938 في حي Chinatown بكوالالمبور، وتحظى منذ زمن طويل بشعبية لدى السكان المحليين بفضل أرز الدجاج لديها، كما يشيد روادها بشكل خاص بلحم بطن الخنزير المشوي ذي القشرة المقرمشة وببراعم فاصولياء إيبوه. تتفاوت آراء الزوار مؤخرًا، إذ يمتدح بعضهم الدجاج والأطباق الجانبية بينما يجد آخرون الدجاج بلا نكهة أو الخدمة غير منتظمة."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "الإصدار الحالي الدقيق من MICHELIN — الأحدث هو MICHELIN Guide Kuala Lumpur & Penang 2026 (أُعلن في 11 November 2025)؛ تُراجَع اختيارات Bib Gourmand سنويًا، لذا أعد تأكيد حالة Nam Heong مقابل الإصدار الحالي قبل الاعتماد عليها."
   - "رقم المبنى في Jalan Sultan — تعطي صفحة MICHELIN الإنجليزية 56 Jalan Sultan، لكن بعض نسخ اللغات تعطي 54؛ تأكّد من العنوان الدقيق."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: Nasi Ayam Bib Gourmand Sejak 1965"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Nasi ayam Hainan — ayam rebus dengan nasi wangi dan sos cili"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng ialah pakar Hainanese chicken rice MICHELIN Bib Gourmand di Jalan Kelang Lama, Kuala Lumpur, dikendalikan keluarga sejak 1965. Ia menyajikan ayam kukus atau goreng dengan nasi yang dimasak dalam lemak dan stok ayam, menggunakan ayam tempatan untuk daging yang kurang berlemak dan lebih berjus. Profil ini merangkumi apa itu, hidangan istimewanya, sejarahnya dan cara untuk melawat."
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "Setiap hari 10:00-19:00 (menurut MICHELIN; sesetengah agregator menyenaraikan 11:00-22:00, jadi sahkan terus)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Nasi ayam Hainan dengan nasi lemak ayam yang wangi dan pilihan ayam rebus atau ayam panggang (pesan kedua-duanya untuk membandingkan), dinikmati bersama cecah halia dan sos cili buatan sendiri; lauk kongsi yang popular termasuk udang sambal, sotong telur masin dan ayam lemon."
+  reviewSummary: "Sebuah institusi Old Klang Road yang dikendalikan keluarga, menghidangkan nasi ayam Hainan sejak 1965 (kini dikendalikan oleh generasi kedua dan ketiga), dianugerahkan MICHELIN Bib Gourmand. Pengunjung memuji nasi lemak ayam yang wangi serta cecah halia dan cili, dan pilihan ayam rebus atau panggang; sesetengah pengulas mendapati saiz hidangan dan lauk agak mahal dan pandangan tentang kualiti daging berbeza-beza. Ia mempunyai penarafan Google kira-kira 4.2 daripada lebih kurang 1,300+ ulasan."
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

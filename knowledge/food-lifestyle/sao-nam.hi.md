@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: कुआलालंपुर में Bib Gourmand वियतनामी व्यंजन"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "वियतनामी pho - साफ़ शोरबे में बीफ और चावल के नूडल्स, जड़ी-बूटियों के साथ"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "यह 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 पर है, जिसका मुख पीला और भीतरी भाग रंगीन है। MICHELIN Guide इसे परिवार-अनुकूल के रूप में चिह्नित करता है और $ मूल्य-श्रेणी में रखता है।"
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "सोम-शुक्र 12:00-14:30 व 18:00-22:00; शनि 12:00-14:30 व 18:00-22:30; रवि 12:00-14:30 व 18:00-22:00 (MICHELIN Guide के अनुसार; पुरानी सूचियों में सोमवार बंद बताया गया है - रेस्तरां से पुष्टि करें)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (बीफ नूडल सूप, 10+ घंटे तक पकाया गया शोरबा) और mangosteen व झींगा सलाद (सिग्नेचर व्यंजन); beef la lot (जंगली काली मिर्च के पत्तों में लिपटा कीमा बीफ)"
+  reviewSummary: "Jalan Alor के पास Tengkat Tong Shin पर दो मंज़िला युद्ध-पूर्व शॉपहाउस में स्थित एक पुराना वियतनामी रेस्तरां, जिसे MICHELIN Bib Gourmand से सम्मानित किया गया है। यह मुख्यतः दक्षिणी वियतनामी व्यंजनों (जो अधिक मीठे माने जाते हैं) पर केंद्रित है, साथ ही कुछ फ्रेंच-प्रभावित व्यंजन भी, एक रंगीन Old World माहौल में। MICHELIN pho bo और mangosteen-झींगा सलाद को प्रमुखता देता है; समीक्षक साफ़ बीफ शोरबे, प्रस्तुति और मौसमी mangosteen सलाद की सराहना करते हैं।"
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

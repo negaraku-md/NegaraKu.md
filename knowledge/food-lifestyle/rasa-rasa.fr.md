@@ -3,6 +3,11 @@ topicId: MY-MICH-0038
 title: "Rasa Rasa : la table peranakan Bib MICHELIN de George Town"
 seoTitle: "Rasa Rasa : peranakan de Penang (MICHELIN Bib)"
 slug: "rasa-rasa"
+hero: "/media/food/rasa-rasa/hero.webp"
+heroAlt: "nasi lemak sur une feuille de bananier avec sambal, œuf et accompagnements frits"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,16 @@ sources:
     date: "2023-06-10"
 
 updated: 2026-11-06
+place:
+  address: "59, Gat Lebuh Chulia, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  priceRange: "$ (classic pandan nasi lemak ~RM8.90; pandan nasi lemak curry chicken set ~RM17.90)"
+  hours: "Lun 08:30-16:00 ; Mar 09:00-16:00 ; Mer fermé ; Jeu 08:30-16:00 ; Ven 08:30-16:00 ; Sam 09:00-16:00 ; Dim 09:00-16:00 (selon le MICHELIN Guide ; d'autres sources donnent des horaires légèrement différents, vérifiez avant de vous rendre sur place)"
+  service: ["dine-in"]
+  mustOrder: "pandan nasi lemak (combo Nyonya) avec poulet au curry ; five-spice chicken roll enveloppé dans une feuille de tofu ; tub tim krob en dessert"
+  reviewSummary: "Un petit café Peranakan/Nyonya sur Chulia Street Ghaut reconnu dans le MICHELIN Guide (Bib Gourmand). Les critiques mettent systématiquement en avant le pandan nasi lemak, servi sur une feuille de bananier avec un sambal maison et un choix de garnitures comme le poulet au curry, aux côtés de plats tels que le five-spice chicken roll et les vermicelles Siam. La salle associe des murs en briques apparentes et des touches industrielles à des plantes en pot. L'établissement fonctionne du petit-déjeuner au déjeuner (fermé l'après-midi et le mercredi). Les notes des agrégateurs varient selon la plateforme (environ 4,2 à 4,7)."
+  phone: "+60 12-442 2570"
 
 relations:
   - { rel: "located-in", to: "penang" }

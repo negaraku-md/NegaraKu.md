@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: Nasi Daun Pisang MICHELIN Bib Gourmand di Bangsar"
 seoTitle: "Nirwana: Nasi Daun Pisang Bangsar (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "Hidangan nasi daun pisang dengan nasi, kari dan telur"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ms"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "Setiap hari 11:30-23:00 (menurut MICHELIN; penyenaraian lain berbeza, sahkan secara terus)"
+  halal: "pork-free"
+  mustOrder: "Set nasi daun pisang (nasi dengan kari sayur) dengan pilihan ayam, kambing atau ikan; biryani ayam disebut khas oleh Panduan MICHELIN"
+  reviewSummary: "Restoran India Selatan daun pisang yang telah lama beroperasi di Jalan Telawi di Bangsar Baru, disenaraikan sebagai MICHELIN Bib Gourmand. Ia terkenal sebagai tempat tumpuan untuk set nasi daun pisang yang dihidangkan dengan nasi, kari sayur dan pilihan protein, dengan biryani ayam kerap dipuji. Ia merupakan kedai makan santai kegemaran penduduk tempatan dan bukannya restoran mewah."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

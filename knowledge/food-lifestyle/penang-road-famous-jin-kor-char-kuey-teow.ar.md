@@ -3,6 +3,11 @@ topicId: MY-MICH-0046
 title: "Penang Road Famous Jin Kor Char Kuey Teow: بسطة Bib Gourmand في جورج تاون"
 seoTitle: "Penang Road Famous Jin Kor Char Kuey Teow"
 slug: "penang-road-famous-jin-kor-char-kuey-teow"
+hero: "/media/food/penang-road-famous-jin-kor-char-kuey-teow/hero.webp"
+heroAlt: "Char kuey teow — معكرونة مسطحة مقلية في المقلاة مع الروبيان وبراعم الفول"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "槟榔律驰名仁哥炒粿条"
+  address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+  priceRange: "Budget; around RM9 a plate"
+  hours: "يوميًا 9:30 صباحًا - 5:00 مساءً"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "char kuey teow يُقلى حسب الطلب مع الروبيان والمحار الدموي ونقانق لحم الخنزير وبراعم الفول؛ أضف بيضة بط وصلصة فلفل حار إضافية"
+  reviewSummary: "كشك char kuey teow عريق داخل مقهى Joo Hooi Cafe (كوبيتيام) في شارع جالان بينانغ، يديره Lim Chong Jin ('Jin Kor')، الذي بدأ البيع عام 1984 وانتقل إلى هنا عام 1995. حاز على MICHELIN Bib Gourmand في دليل كوالالمبور وبينانغ لعام 2024. يُقلى الـ kuey teow حسب الطلب مع الروبيان والمحار الدموي ونقانق لحم الخنزير وبراعم الفول، ويُعرف بنكهة wok hei؛ ويمكن إضافة بيضة بط وفلفل حار إضافي. يجد بعض المراجعين أن النكهة أخف أو أكثر اعتدالًا من النسخ الأخرى."
+  phone: "+60 14-903 3561"
 sources:
   - title: "Penang Road Famous Jin Kor Char Kuey Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"

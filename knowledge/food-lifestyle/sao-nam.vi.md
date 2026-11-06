@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: Ẩm thực Việt Nam đạt Bib Gourmand ở Kuala Lumpur"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "Phở Việt Nam - thịt bò và bánh phở trong nước dùng trong với rau thơm"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "Nhà hàng ở 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, với mặt tiền màu vàng và nội thất rực rỡ. MICHELIN Guide đánh dấu nó là thân thiện với gia đình và xếp vào khung giá $."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "Thứ Hai-Thứ Sáu 12:00-14:30 & 18:00-22:00; Thứ Bảy 12:00-14:30 & 18:00-22:30; Chủ Nhật 12:00-14:30 & 18:00-22:00 (theo MICHELIN Guide; các danh sách cũ ghi đóng cửa Thứ Hai - hãy xác nhận với nhà hàng)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Phở bò (nước dùng ninh hơn 10 tiếng) và gỏi măng cụt tôm (món đặc trưng); bò lá lốt (thịt bò băm cuốn lá lốt)"
+  reviewSummary: "Một nhà hàng Việt Nam lâu đời trong căn nhà phố hai tầng thời tiền chiến trên đường Tengkat Tong Shin gần Jalan Alor, được trao giải MICHELIN Bib Gourmand. Nhà hàng tập trung chủ yếu vào ẩm thực miền Nam Việt Nam (được cho là ngọt hơn) cùng một số món ảnh hưởng Pháp, trong không gian Old World đầy màu sắc. MICHELIN nổi bật phở bò và gỏi măng cụt tôm; giới phê bình khen ngợi nước dùng bò trong, cách trình bày và món gỏi măng cụt theo mùa."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

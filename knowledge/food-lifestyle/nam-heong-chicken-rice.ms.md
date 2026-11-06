@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: Institusi Hainan 1938 di KL"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "Nasi ayam Hainan dengan daging panggang dan timun"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "Setiap hari 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Nasi ayam Hainan (ayam ladung sayur atau ayam kampung), perut babi panggang, tauge Ipoh"
+  reviewSummary: "Institusi Hainan sejak 1938 di Chinatown KL yang lama menjadi kegemaran penduduk tempatan kerana nasi ayamnya, dengan perut babi panggang berkulit rangup dan tauge Ipoh turut dipuji oleh pengunjung. Pendapat pengunjung baru-baru ini bercampur-campur, ada yang memuji ayam dan lauk sampingan, manakala ada yang mendapati ayamnya hambar atau perkhidmatannya tidak konsisten."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "Edisi MICHELIN semasa yang tepat — yang terkini ialah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan pada 11 November 2025); pilihan Bib Gourmand disemak setiap tahun, jadi sahkan semula status Nam Heong berdasarkan edisi semasa sebelum bergantung padanya."
   - "Nombor jalan di Jalan Sultan — halaman bahasa Inggeris MICHELIN memberikan 56 Jalan Sultan, tetapi sesetengah versi bahasa memberikan 54; sahkan alamat yang tepat."

@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: el banana leaf Bib Gourmand MICHELIN de Bangsar"
 seoTitle: "Nirwana: arroz en hoja de plátano en Bangsar (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "Una comida de banana leaf rice con arroz, currys y huevo"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "es"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "Todos los días 11:30-23:00 (según MICHELIN; otras fuentes varían, verifique directamente)"
+  halal: "pork-free"
+  mustOrder: "Set de banana leaf rice (arroz con currys de verduras) con opción de pollo, cordero/carnero o pescado; la guía MICHELIN destaca especialmente el biryani de pollo"
+  reviewSummary: "Un restaurante surindio de banana leaf de larga trayectoria en Jalan Telawi, en Bangsar Baru, incluido como MICHELIN Bib Gourmand. Es conocido como un lugar de referencia para los sets de banana leaf rice servidos con arroz, currys de verduras y una proteína a elegir, siendo el biryani de pollo frecuentemente elogiado. Es un local informal y favorito de los lugareños, más que un establecimiento de alta cocina."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

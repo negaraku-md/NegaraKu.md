@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng：自1965年的 Bib Gourmand 鸡饭"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "海南鸡饭——白切鸡配香饭和辣椒酱"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng 是位于吉隆坡 Jalan Kelang Lama 的一家 MICHELIN Bib Gourmand Hainanese chicken rice 专卖店，自1965年起由家族经营。它供应蒸鸡或炸鸡，配以用鸡油与鸡汤煮成的饭，并使用本地鸡以求肉质更瘦、更多汁。本篇介绍这是什么、招牌菜式、历史，以及如何前往。"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "每日 10:00-19:00（依据 MICHELIN；部分平台列为 11:00-22:00，请直接向店家确认）"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "海南鸡饭配上香喷喷的鸡油饭，可选白切鸡或烧鸡（两种都点来比较一下），佐以店家自制的姜蓉和辣椒酱；受欢迎的共享小菜包括参峇虾、咸蛋苏东和柠檬鸡。"
+  reviewSummary: "这是一家位于 Old Klang Road 的家族经营老店，自1965年起供应海南鸡饭（现由第二、第三代经营），荣获 MICHELIN 必比登推介（Bib Gourmand）。食客盛赞香喷喷的鸡油饭以及姜蓉和辣椒调味料，还有白切鸡或烧鸡的选择；部分食评者觉得分量和小菜偏贵，对肉质的评价则褒贬不一。谷歌评分约为 4.2，来自约 1,300+ 则评价。"
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: 쿠알라룸푸르의 Bib Gourmand 베트남 요리"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "베트남 pho - 맑은 육수에 담긴 쇠고기와 쌀국수, 허브를 곁들임"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200에 있으며, 노란 외관과 화려한 내부가 특징입니다. MICHELIN Guide는 가족 친화적으로 표시하고 $ 가격대에 둡니다."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "월-금 12:00-14:30 & 18:00-22:00; 토 12:00-14:30 & 18:00-22:30; 일 12:00-14:30 & 18:00-22:00 (MICHELIN Guide 기준; 오래된 정보에는 월요일 휴무로 나와 있음 - 매장에 확인 요망)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (쇠고기 쌀국수, 10시간 이상 끓인 육수)와 망고스틴 & 새우 샐러드 (대표 메뉴); beef la lot (야생 후추잎에 싼 다진 쇠고기)"
+  reviewSummary: "Jalan Alor 인근 Tengkat Tong Shin의 2층 전전(戰前) 숍하우스에 자리한 오랜 역사의 베트남 음식점으로, MICHELIN Bib Gourmand를 받았다. 주로 남부 베트남 요리(더 단맛이 나는 것으로 알려짐)를 중심으로 프랑스풍 요리도 일부 선보이며, 화려한 올드 월드 분위기 속에서 즐길 수 있다. MICHELIN은 pho bo와 망고스틴-새우 샐러드를 꼽으며, 평론가들은 맑은 쇠고기 육수와 플레이팅, 제철 망고스틴 샐러드를 극찬한다."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0038
 title: "Rasa Rasa: George Town-இன் MICHELIN Bib பேரநக்கன் மேசை"
 seoTitle: "Rasa Rasa: பினாங்கு பேரநக்கன் (MICHELIN Bib)"
 slug: "rasa-rasa"
+hero: "/media/food/rasa-rasa/hero.webp"
+heroAlt: "வாழை இலையில் nasi lemak, sambal, முட்டை மற்றும் வறுத்த பக்க உணவுகளுடன்"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,16 @@ sources:
     date: "2023-06-10"
 
 updated: 2026-11-06
+place:
+  address: "59, Gat Lebuh Chulia, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  priceRange: "$ (classic pandan nasi lemak ~RM8.90; pandan nasi lemak curry chicken set ~RM17.90)"
+  hours: "திங்கள் 08:30-16:00; செவ்வாய் 09:00-16:00; புதன் மூடப்பட்டிருக்கும்; வியாழன் 08:30-16:00; வெள்ளி 08:30-16:00; சனி 09:00-16:00; ஞாயிறு 09:00-16:00 (MICHELIN Guide படி; மற்ற ஆதாரங்கள் சற்று வேறுபட்ட நேரங்களைத் தருகின்றன, செல்வதற்கு முன் உறுதிப்படுத்தவும்)"
+  service: ["dine-in"]
+  mustOrder: "pandan nasi lemak (Nyonya காம்போ செட்) கறி கோழியுடன்; டோஃபு தோலில் சுருட்டப்பட்ட five-spice chicken roll; இனிப்புக்கு tub tim krob"
+  reviewSummary: "Chulia Street Ghaut-இல் உள்ள ஒரு சிறிய Peranakan/Nyonya கஃபே, MICHELIN Guide-இல் (Bib Gourmand) அங்கீகரிக்கப்பட்டது. மதிப்பாய்வாளர்கள் தொடர்ந்து pandan nasi lemak-ஐ சிறப்பித்துக் காட்டுகிறார்கள்; இது வாழை இலையில், வீட்டில் தயாரிக்கப்பட்ட sambal மற்றும் கறி கோழி போன்ற தேர்ந்தெடுக்கக்கூடிய மேல் பொருட்களுடன் பரிமாறப்படுகிறது, அத்துடன் five-spice chicken roll மற்றும் Siam bihun போன்ற உணவுகளும் உள்ளன. அறை, வெறும் செங்கல் சுவர்கள் மற்றும் தொழிற்துறை அலங்காரங்களை தொட்டியில் வளர்க்கப்படும் செடிகளுடன் இணைக்கிறது. இது காலை உணவு முதல் மதிய உணவு வரையிலான இடமாக இயங்குகிறது (பிற்பகல் நேரங்களிலும் புதன்கிழமையிலும் மூடப்பட்டிருக்கும்). திரட்டி மதிப்பீடுகள் தளத்திற்குத் தளம் மாறுபடும் (சுமார் 4.2 முதல் 4.7 வரை)."
+  phone: "+60 12-442 2570"
 
 relations:
   - { rel: "located-in", to: "penang" }

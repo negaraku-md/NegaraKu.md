@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis: el puesto de apom Bib Gourmand de Penang"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "Apom — tortitas suaves y caladas de arroz y coco apiladas en un plato"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "Todos los días de 6:00 a 10:00, cerrado los jueves; a menudo se agota hacia las 9:30. Nota: el listado de la MICHELIN indica de 18:00 a 22:00, lo que contradice a varias fuentes locales que informan de un horario solo matutino."
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apom manis (tortita dulce de coco hecha en cazuela de barro)"
+  reviewSummary: "Un puesto de comida callejera de larga trayectoria en George Town (en funcionamiento desde principios de la década de 1920, ahora en su tercera generación) que vende apom manis (tortita dulce de coco) hecho al momento en pequeñas cazuelas de barro sobre carbón. Los reseñadores describen un borde crujiente y dorado con un centro suave y esponjoso y un pronunciado aroma a coco, con un dulzor delicado en lugar de intenso; se recomienda comerlo caliente, recién sacado de la cazuela. Obtuvo el MICHELIN Bib Gourmand en 2025 y lo mantuvo en 2026, lo que ha aumentado su popularidad. El puesto abre por las mañanas y a menudo se agota mucho antes de la hora de cierre."
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis es un puesto de comida callejera de larga trayectoria en George Town, Penang, incluido en la selección Bib Gourmand de la MICHELIN Guide, especializado en apom manis, una crepe dulce y encajada de coco y harina de arroz. El estilo de Penang incorpora huevo en la masa para dar más aroma; el puesto lleva casi un siglo en marcha y suele agotarse por la mañana."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis es un puesto de comida callejera Bib Gourmand en Jalan Burma, George Town, Penang. Está especializado en apom manis, una crepe dulce de harina de arroz y coco, blanda en el centro y crujiente en los bordes, a la que, al estilo de Penang, se le añade huevo para dar aroma. El puesto familiar se remonta a principios del siglo XX y suele agotarse al final de la mañana."

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: A 1938 Hainanese Institution in KL"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "Hainanese chicken rice with roasted meats and cucumber"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -45,6 +50,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "Daily 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Hainanese chicken rice (veggie-farm or free-range chicken), roast pork belly, Ipoh bean sprouts"
+  reviewSummary: "A 1938 Hainanese institution in KL's Chinatown long popular with locals for its chicken rice, with the crispy-skinned roast pork belly and Ipoh bean sprouts also singled out by diners. Recent visitor opinions are mixed, with some praising the chicken and sides and others finding the chicken bland or service inconsistent."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "The exact current MICHELIN edition — the latest is the MICHELIN Guide Kuala Lumpur & Penang 2026 (announced 11 November 2025); the Bib Gourmand selection is revised annually, so re-confirm Nam Heong's status against the current edition before relying on it."
   - "The street number on Jalan Sultan — MICHELIN's English page gives 56 Jalan Sultan, but some language versions give 54; confirm the exact address."

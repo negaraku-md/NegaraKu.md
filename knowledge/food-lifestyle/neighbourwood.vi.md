@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "Thứ Năm-Thứ Hai 11:30-15:00 và 17:30-22:30; đóng cửa Thứ Ba và Thứ Tư"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Nửa con gà nướng au jus và Berkshire pork loin (các món cố định để chia sẻ); sourdough nướng tại chỗ; phần còn lại của thực đơn thay đổi khoảng sáu tuần một lần."
+  reviewSummary: "Một quán bistro khu phố ấm cúng nằm trong khu dân cư của Bukit Mertajam, phục vụ ẩm thực châu Âu đương đại tập trung vào món nướng với điểm nhấn Á Đông, do đầu bếp kiêm chủ quán Sean Khaw điều hành cùng lò bánh sourdough tự làm tại chỗ. Là lựa chọn MICHELIN Bib Gourmand (chất lượng tốt, giá trị tốt), thực đơn được xây dựng quanh các đĩa chia sẻ từ bếp nướng than và thay đổi sáu tuần một lần. Giới phê bình nhận xét về gian bếp mở theo phong cách sân khấu, phục vụ chu đáo thân thiện, cùng những bữa ăn nhiều món cân bằng khéo léo; quán có quy mô khiêm tốn và nằm xa con đường thương mại chính, nên khuyến nghị đặt chỗ trước."
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood là một nhà hàng MICHELIN Bib Gourmand ở Bukit Mertajam, Seberang Perai — phần đất liền của bang Penang. Là một địa điểm khu dân cư thoải mái do một cư dân gần đó mở, nhà hàng phục vụ ẩm thực châu Âu đương đại chịu ảnh hưởng châu Á cùng các món nướng, với thực đơn xoay vòng mỗi sáu tuần và bánh mì sourdough nướng tại chỗ là một trong những món đặc trưng."
 answer: "Neighbourwood là một nhà hàng MICHELIN Bib Gourmand tại 3427 Jalan Kulim, Bukit Mertajam, ở Seberang Perai — phần đất liền của bang Penang. Nhà hàng phục vụ ẩm thực châu Âu đương đại chịu ảnh hưởng châu Á bên cạnh các món nướng, với thực đơn thay đổi mỗi sáu tuần trong khi vài món đặc trưng vẫn được giữ lại. Bánh mì sourdough nướng tại chỗ vàng ruộm, giòn tan và tuyển chọn tráng miệng phong phú là những điểm nhấn. MICHELIN xếp vào phân khúc giá $."
 keyTakeaways:

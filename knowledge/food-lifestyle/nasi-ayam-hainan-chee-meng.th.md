@@ -3,6 +3,11 @@ topicId: MY-MICH-0035
 title: "Nasi Ayam Hainan Chee Meng: ข้าวมันไก่ระดับ Bib Gourmand ตั้งแต่ปี 1965"
 seoTitle: "Nasi Ayam Hainan Chee Meng"
 slug: "nasi-ayam-hainan-chee-meng"
+hero: "/media/food/nasi-ayam-hainan-chee-meng/hero.webp"
+heroAlt: "Hainanese chicken rice — ไก่ต้มพร้อมข้าวหอมและซอสพริก"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hainanese_chicken_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Nasi Ayam Hainan Chee Meng เป็นร้านผู้เชี่ยวชาญ Hainanese chicken rice ระดับ MICHELIN Bib Gourmand บน Jalan Kelang Lama กรุงกัวลาลัมเปอร์ บริหารโดยครอบครัวมาตั้งแต่ปี 1965 ร้านเสิร์ฟไก่นึ่งหรือไก่ทอดกับข้าวที่หุงด้วยไขมันไก่และน้ำสต๊อก โดยใช้ไก่ท้องถิ่นเพื่อเนื้อที่ติดมันน้อยกว่าและฉ่ำกว่า บทความนี้ครอบคลุมว่าร้านนี้คืออะไร เมนูเด่น ประวัติ และวิธีไปเยือน"
@@ -44,6 +49,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "Sub Lot A-1, Batu 4 1/4, Jalan Kelang Lama (Old Klang Road), 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  reviewsUrl: "https://www.google.com/maps/place/@3.095376,101.675213,17z/data=!4m10!3m9!1s0x31cc4a38535b796f:0xa65921dd2c7c06df!5m2!4m1!1i2!8m2!3d3.095376!4d101.675213!9m1!1b1"
+  priceRange: "Budget (Michelin $; Hainanese chicken rice around RM7-RM7.50 per portion)"
+  hours: "ทุกวัน 10:00-19:00 (ตาม MICHELIN; บางเว็บรวบรวมข้อมูลระบุ 11:00-22:00 จึงควรยืนยันกับร้านโดยตรง)"
+  halal: "halal"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Hainanese chicken rice เสิร์ฟพร้อมข้าวมันไก่หอมกรุ่น เลือกได้ระหว่างไก่ต้มหรือไก่ย่าง (สั่งทั้งสองอย่างเพื่อเปรียบเทียบ) ทานคู่กับน้ำจิ้มขิงและซอสพริกสูตรของร้าน เมนูเคียงยอดนิยมสำหรับแบ่งกันทานได้แก่ กุ้งซัมบัล ปลาหมึกไข่เค็ม และไก่มะนาว"
+  reviewSummary: "ร้านเก่าแก่บน Old Klang Road ที่บริหารแบบครอบครัว เสิร์ฟ Hainanese chicken rice มาตั้งแต่ปี 1965 (ปัจจุบันบริหารโดยรุ่นที่สองและสาม) และได้รับรางวัล MICHELIN Bib Gourmand ลูกค้าชื่นชมข้าวมันไก่ที่หอมกรุ่น เครื่องปรุงขิงและพริก รวมถึงตัวเลือกไก่ต้มหรือไก่ย่าง แต่ผู้รีวิวบางรายมองว่าปริมาณและเมนูเคียงราคาค่อนข้างสูง และความเห็นเรื่องคุณภาพเนื้อไก่ก็มีทั้งดีและไม่ดี ร้านได้คะแนน Google ราว 4.2 จากรีวิวประมาณ 1,300+ รายการ"
+  website: "https://www.cheemeng.com.my"
+  phone: "+60 3-7972 7551"
 sources:
   - title: "Nasi Ayam Hainan Chee Meng (Jalan Kelang Lama)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/nasi-ayam-hainan-chee-meng-jalan-kelang-lama"

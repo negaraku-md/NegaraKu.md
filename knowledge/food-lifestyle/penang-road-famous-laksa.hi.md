@@ -2,6 +2,11 @@
 topicId: MY-MICH-0070
 title: "Penang Road Famous Laksa: एक George Town Bib Gourmand"
 slug: "penang-road-famous-laksa"
+hero: "/media/food/penang-road-famous-laksa/hero.webp"
+heroAlt: "पुदीना, खीरा, मिर्च और प्याज़ से सजी Penang asam laksa"
+heroCredit: "ProjectManhattan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  priceRange: "$"
+  hours: "सोम, मंगल, गुरु-रवि 9:00 AM - 5:30 PM; बुध बंद"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Penang asam laksa (सिग्नेचर; तीन तरह की मछली/इमली के शोरबे में lai fun नूडल्स), चाहें तो बिना कांटे वाली सार्डिन मछली फिलेट भी डलवा सकते हैं; बत्तख के अंडे के साथ char koay teow भी उपलब्ध है"
+  reviewSummary: "Penang Road के पास George Town का एक पुराना asam laksa स्टॉल, जो 1970 से एक पारिवारिक नुस्खा परोस रहा है और अब Lebuh Keng Kwee पर है। इसे MICHELIN Bib Gourmand से सम्मानित किया गया है; MICHELIN इसके शोरबे को तीन प्रकार की मछलियों से बना बताता है जिसमें मसालों का मिश्रण तीखे, मीठे और खट्टे स्वाद का संतुलन बनाता है, जिसे lai fun नूडल्स के साथ परोसा जाता है, और इसे 'Worth Queueing For' का टैग देता है। समीक्षक अक्सर इस शोरबे को तीखा-खट्टा और परतदार सार्डिन से भरपूर बताते हैं। थर्ड-पार्टी एग्रीगेटर लगभग 2,000-2,400 समीक्षाओं के आधार पर करीब 4.3 की Google रेटिंग दर्शाते हैं (एक स्नैपशॉट, लाइव नहीं)।"
+  phone: "+60 16-446 0543"
 summary: "Penang Road Famous Laksa, George Town, पेनांग की एक नूडल दुकान है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है और assam (खट्टी) laksa के लिए प्रसिद्ध है। 1970 से एक पारिवारिक नुस्ख़े पर चलते हुए, यह तीन प्रकार की मछलियों से बने शोरबे में lai fun नूडल्स परोसती है, तीखे, मीठे और खट्टे स्वाद को संतुलित करती है, और बिना काँटे वाली सार्डिन फ़िले ऐड-ऑन के रूप में उपलब्ध है। यह लंबी क़तार वाली George Town की एक संस्था है।"
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa, George Town, पेनांग के Lebuh Keng Kwee पर एक Bib Gourmand नूडल दुकान है। 1970 से एक पारिवारिक नुस्ख़े पर चलते हुए, यह अपनी सिग्नेचर खट्टी laksa परोसती है: तीन प्रकार की मछलियों से बने शोरबे में lai fun नूडल्स, तीखे, मीठे और खट्टे के बीच संतुलित, और बिना काँटे वाली सार्डिन फ़िले ऐड-ऑन के रूप में। यह George Town की सबसे मशहूर स्ट्रीट-फूड क़तारों में से एक है।"

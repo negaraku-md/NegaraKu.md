@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "வியாழன்-திங்கள் 11:30-15:00 மற்றும் 17:30-22:30; செவ்வாய் மற்றும் புதன் மூடப்பட்டிருக்கும்"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "பாதி வறுத்த கோழி au jus மற்றும் Berkshire pork loin (பகிர்ந்து உண்ணும் நிலையான வகைகள்); வீட்டிலேயே சுடப்பட்ட sourdough; மெனுவின் மீதமுள்ள பகுதி ஏறக்குறைய ஆறு வாரங்களுக்கு ஒருமுறை மாறும்."
+  reviewSummary: "புக்கிட் மெர்தாஜாமின் (Bukit Mertajam) குடியிருப்புப் பகுதியில் அமைந்துள்ள வசதியான ஒரு சுற்றுவட்டார பிஸ்ட்ரோ, ஆசிய சுவைகளுடன் கூடிய, கிரில் சார்ந்த ஐரோப்பிய சமகால சமையலை வழங்குகிறது; உரிமையாளர்-சமையல்கலைஞர் Sean Khaw நடத்தும் இதில் சொந்த sourdough பேக்கரியும் உள்ளது. MICHELIN Bib Gourmand தேர்வு (நல்ல தரம், நல்ல மதிப்பு), அதன் மெனு கரி-கிரிலில் தயாரிக்கப்படும் பகிர்ந்து உண்ணும் தட்டுகளை மையமாகக் கொண்டு அமைக்கப்பட்டு ஒவ்வொரு ஆறு வாரங்களுக்கும் மாறுகிறது. திறந்த நாடக பாணி சமையலறை, கவனமான நட்பான சேவை, மற்றும் சமச்சீரான பல-கோர்ஸ் உணவுகளை விமர்சகர்கள் குறிப்பிடுகின்றனர்; இது மிதமான அளவில் உள்ளது மற்றும் முக்கிய வணிகத் தெருவுக்கு வெளியே அமைந்துள்ளதால், முன்கூட்டியே இடம் முன்பதிவு செய்வது அறிவுறுத்தப்படுகிறது."
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood என்பது Penang மாநிலத்தின் பிரதான நிலப்பகுதிப் பகுதியான Seberang Perai-இல் Bukit Mertajam-இல் உள்ள ஒரு MICHELIN Bib Gourmand உணவகம். அருகிலிருந்த ஒரு குடியிருப்பாளரால் திறக்கப்பட்ட ஒரு நிதானமான அக்கம்பக்க இடம்; இது ஆசிய தாக்கங்களுடன் கூடிய சமகால ஐரோப்பிய உணவையும் கிரில் உணவுகளையும் பரிமாறுகிறது; மெனு ஒவ்வொரு ஆறு வாரங்களுக்கும் மாறுகிறது; வீட்டில் சுடப்பட்ட sourdough அதன் சிக்னேச்சர்களில் ஒன்று."
 answer: "Neighbourwood என்பது Penang மாநிலத்தின் பிரதான நிலப்பகுதிப் பகுதியான Seberang Perai-இல் Bukit Mertajam, 3427 Jalan Kulim-இல் உள்ள ஒரு MICHELIN Bib Gourmand உணவகம். இது ஆசிய தாக்கங்களுடன் கூடிய சமகால ஐரோப்பிய சமையலைக் கிரில் உணவுகளுடன் பரிமாறுகிறது; மெனு ஒவ்வொரு ஆறு வாரங்களுக்கும் மாறும் அதே வேளையில் சில சிக்னேச்சர் உணவுகள் தொடர்ந்திருக்கும். தங்க நிறத்தில், நொறுங்கும் வீட்டில் சுடப்பட்ட sourdough மற்றும் பரந்த இனிப்புத் தேர்வு சிறப்பம்சங்கள். MICHELIN இதை $ வரம்பில் வைக்கிறது."
 keyTakeaways:

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis：ペナンの Bib Gourmand apom 屋台"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "アポム — 皿に積み重ねられた、柔らかくレース状のココナッツ米パンケーキ"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "毎日午前6時～午前10時、木曜定休。通常は午前9時30分頃までに売り切れます。注記：MICHELINの掲載情報では午後6時～午後10時となっていますが、これは午前のみの営業時間を伝える複数の地元情報源と矛盾しています。"
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "アポム・マニス（apom manis／甘いココナッツの土鍋パンケーキ）"
+  reviewSummary: "ジョージタウン（George Town）で長年営業する屋台（1920年代初頭から営業、現在は3代目）で、小さな炭火の土鍋で注文を受けてから焼き上げるアポム・マニス（apom manis／甘いココナッツパンケーキ）を売っています。レビュアーは、縁がカリッと黄金色に焼けている一方で中心は柔らかくふわふわとし、ココナッツの香りがはっきりと立ち、甘さは重たくなく優しいと評しています。鍋から出したての熱々を食べるのがおすすめです。2025年にMICHELINビブグルマン（Bib Gourmand）を受賞し、2026年も維持されており、人気が高まっています。屋台は午前中の営業で、閉店のかなり前に売り切れることが多いです。"
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis はペナン、George Town で長く続く屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれ、apom manis を専門とする——ココナッツと米粉で作る、甘くレース状のパンケーキである。ペナン流は生地に卵を加えて香りを強め、屋台は一世紀近く営業し、たいてい午前中に売り切れる。"
 seoTitle: "Ravi's Famous Apom Manis、ペナン（Bib）"
 answer: "Ravi's Famous Apom Manis はペナン、George Town の Jalan Burma にある Bib Gourmand の屋台である。apom manis を専門とする——中心が柔らかく縁がパリッとした、米粉とココナッツの甘いパンケーキで、ペナン流に香りのため卵を加える。この家族の屋台は 20 世紀初頭にさかのぼり、たいてい午前遅くには売り切れる。"

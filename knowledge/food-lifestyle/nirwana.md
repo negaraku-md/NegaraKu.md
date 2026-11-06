@@ -3,6 +3,11 @@ topicId: MY-MICH-0036
 title: "Nirwana: Bangsar's MICHELIN Bib Gourmand Banana Leaf"
 seoTitle: "Nirwana: Bangsar Banana Leaf Rice (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "A banana-leaf rice meal with rice, curries and egg"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -55,6 +60,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "Daily 11:30-23:00 (per MICHELIN; other listings vary, verify directly)"
+  halal: "pork-free"
+  mustOrder: "Banana leaf rice set (rice with vegetable curries) with a choice of chicken, mutton/lamb or fish; the chicken biryani is singled out by the MICHELIN Guide"
+  reviewSummary: "A long-running banana-leaf South Indian restaurant on Jalan Telawi in Bangsar Baru, listed as a MICHELIN Bib Gourmand. It is known as a go-to spot for banana leaf rice sets served with rice, vegetable curries and a choice of protein, with the chicken biryani frequently praised. It is a casual, local-favourite eatery rather than a fine-dining venue."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

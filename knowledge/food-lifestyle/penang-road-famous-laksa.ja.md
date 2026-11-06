@@ -2,6 +2,11 @@
 topicId: MY-MICH-0070
 title: "Penang Road Famous Laksa：George Town の Bib Gourmand"
 slug: "penang-road-famous-laksa"
+hero: "/media/food/penang-road-famous-laksa/hero.webp"
+heroAlt: "ミント、きゅうり、唐辛子、玉ねぎをのせた Penang asam laksa"
+heroCredit: "ProjectManhattan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  priceRange: "$"
+  hours: "月・火・木～日 9:00 AM - 5:30 PM；水曜定休"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Penang asam laksa（看板メニュー；3種の魚／タマリンドのスープに lai fun 麺）、お好みで骨抜きイワシのフィレを追加可能。アヒルの卵入りの char koay teow もあり"
+  reviewSummary: "Penang Road 沿いにある老舗の George Town asam laksa 屋台で、1970 年から家族のレシピを受け継ぎ、現在は Lebuh Keng Kwee にあります。MICHELIN Bib Gourmand を受賞。MICHELIN は、辛味・甘味・酸味のバランスをとるスパイスブレンドと 3 種類の魚でつくるスープを lai fun 麺とともに供すると紹介し、「Worth Queueing For（並ぶ価値あり）」と記しています。レビュアーはこのスープを、酸味が効いて濃厚で、ほぐれたイワシがたっぷりと表現することが多いです。第三者の集約サイトでは、約 2,000～2,400 件のレビューに基づく Google 評価は約 4.3 とされています（リアルタイムではなくスナップショット）。"
+  phone: "+60 16-446 0543"
 summary: "Penang Road Famous Laksa はペナン、George Town の麺店で、MICHELIN Guide の Bib Gourmand セレクションに選ばれ、assam（酸味）laksa で知られる。1970 年から家伝のレシピで営み、三種の魚で作るスープに lai fun 麺を供し、辛味・甘味・酸味を調和させ、骨抜きのイワシの切り身を追加できる。長い行列で知られる George Town の名店である。"
 seoTitle: "Penang Road Famous Laksa（Bib Gourmand）"
 answer: "Penang Road Famous Laksa はペナン、George Town の Lebuh Keng Kwee にある Bib Gourmand の麺店である。1970 年から家伝のレシピで営み、看板の酸味 laksa を供する——三種の魚で作るスープに lai fun 麺を入れ、辛味・甘味・酸味を調和させ、骨抜きのイワシの切り身を追加できる。George Town で最も有名な行列のできる屋台料理の一つである。"

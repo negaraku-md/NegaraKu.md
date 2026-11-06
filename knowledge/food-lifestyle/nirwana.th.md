@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: ข้าวใบตอง MICHELIN Bib Gourmand แห่ง Bangsar"
 seoTitle: "Nirwana: ข้าวใบตอง Bangsar (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "มื้ออาหารข้าวใบตองพร้อมข้าว แกง และไข่"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "th"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "ทุกวัน 11:30-23:00 (ตาม MICHELIN; แหล่งข้อมูลอื่นอาจต่างกัน โปรดตรวจสอบโดยตรง)"
+  halal: "pork-free"
+  mustOrder: "เซ็ตข้าวใบตอง (ข้าวกับแกงผัก) เลือกได้ระหว่างไก่ แพะ/แกะ หรือปลา; ไก่ biryani ได้รับการกล่าวถึงเป็นพิเศษโดย MICHELIN Guide"
+  reviewSummary: "ร้านอาหารอินเดียใต้แบบใบตองที่เปิดมายาวนานบนถนน Jalan Telawi ใน Bangsar Baru ได้รับการจัดอันดับเป็น MICHELIN Bib Gourmand เป็นที่รู้จักในฐานะร้านยอดนิยมสำหรับเซ็ตข้าวใบตองที่เสิร์ฟพร้อมข้าว แกงผัก และเนื้อสัตว์ให้เลือก โดยไก่ biryani ได้รับคำชมบ่อยครั้ง เป็นร้านอาหารสบาย ๆ ที่คนท้องถิ่นชื่นชอบ ไม่ใช่ร้านอาหารหรู"
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

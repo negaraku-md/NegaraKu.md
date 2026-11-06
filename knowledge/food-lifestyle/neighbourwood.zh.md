@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "周四至周一 11:30-15:00 及 17:30-22:30；周二、周三休息"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "香烤半鸡配 au jus 与 Berkshire pork loin（固定的分享菜式）；自家烘焙的 sourdough；菜单其余部分大约每六周更换一次。"
+  reviewSummary: "一家位于武吉美塔惹（Bukit Mertajam）住宅区、氛围温馨的社区小酒馆，供应以炭烤为主、带亚洲风味的欧式当代料理，由店主兼主厨 Sean Khaw 经营，并设有自家 sourdough 烘焙坊。获 MICHELIN Bib Gourmand 推荐（品质佳、物有所值），菜单围绕炭烤的分享菜式打造，每六周轮换一次。食客称道其开放式剧场风格厨房、细致友善的服务，以及搭配均衡的多道式餐点；店面规模不大，又位于主要商业街之外，因此建议提前订位。"
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood 是位于威省大山脚的一家 MICHELIN Bib Gourmand 餐厅——威省是槟城州的大陆半边。这家轻松的社区餐厅由一位附近居民开设，供应融合亚洲风味的当代欧陆料理以及烧烤菜式，菜单每六周轮换一次，自家烘焙的酸种面包是招牌之一。"
 answer: "Neighbourwood 是位于威省大山脚 Jalan Kulim 3427 号的一家 MICHELIN Bib Gourmand 餐厅——威省是槟城州的大陆部分。它供应融合亚洲风味的当代欧陆料理以及烧烤菜式，菜单每六周更换一次，并有数道始终保留的招牌菜。金黄酥松、自家烘焙的酸种面包和丰富的甜点选择是亮点。MICHELIN 将其价位定于 $ 区间。"
 keyTakeaways:

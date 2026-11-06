@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana：BangsarのMICHELIN Bib Gourmandバナナリーフ"
 seoTitle: "Nirwana：Bangsarのバナナリーフライス（MICHELIN Bib）"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "ご飯、カレー、卵が添えられたバナナリーフ・ライスの食事"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "ja"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "毎日 11:30～23:00（MICHELINによる。他の情報源では異なるため、直接ご確認ください）"
+  halal: "pork-free"
+  mustOrder: "バナナリーフ・ライスセット（ご飯と野菜カレー）、チキン・マトン／ラムまたは魚から選択可能。チキンビリヤニはMICHELINガイドで特に取り上げられています"
+  reviewSummary: "Bangsar BaruのJalan Telawiにある、長く営業している南インド料理のバナナリーフ・レストランで、MICHELIN Bib Gourmandに掲載されています。ご飯、野菜カレー、選べるタンパク質とともに提供されるバナナリーフ・ライスセットの定番スポットとして知られ、チキンビリヤニがよく称賛されています。高級店というより、地元で愛されるカジュアルな食堂です。"
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

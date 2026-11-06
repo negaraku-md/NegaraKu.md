@@ -44,6 +44,18 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  address: "P11, Bamboo Hills, off DUKE, Taman Bamboo, Segambut, 51200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Potager+Bamboo+Hills+Segambut+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Potager+Bamboo+Hills+Segambut+Kuala+Lumpur"
+  priceRange: "$$$$ (MICHELIN). Dinner tasting menu of 5 or 9 courses; a 5-course weekend lunch was reported at ~RM395 per person (2023 review, may be outdated). Wine pairing available."
+  hours: "MICHELIN 등재 정보 기준: 매일 12:00-15:00 및 18:00-22:00. 영업시간은 출처에 따라 다르게 기재되어 있으며 예약제로 운영되므로, 예약 시 확인하시기 바랍니다."
+  halal: "non-halal"
+  mustOrder: "셰프의 세트 tasting menu(5코스 또는 9코스); 풍성하게 구비된 치즈 카트; 맛을 블라인드로 맞히는 소르베 크넬 디저트"
+  reviewSummary: "쿠알라룸푸르 외곽 Bamboo Hills의 녹음이 우거진 환경에 자리한 현대적인 프렌치 fine-dining 레스토랑으로, 후쿠오카 출신 셰프 Masashi Horiuchi(전 Entier)가 이끌고 있습니다. 예약제로 운영되며, 고급 및 현지 식재료를 사용해 클래식 프렌치 기법을 바탕으로 한 다코스 세트/tasting menu를 선보입니다. MICHELIN Guide 2026에 Selected 레스토랑(별 없음)으로 등재되었습니다. 목적지가 되는 fine-dining 명소이자 인기 있는 데이트 장소로 자주 거론되며, 미리 예약하는 것을 권장합니다."
+  website: "https://potagerkl.com"
+  instagram: "https://www.instagram.com/potager.kl/"
+  phone: "+60 12-623 3152"
 sources:
   - title: "Potager"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/potager-1214971"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice : une institution hainanaise de 1938 à KL"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "Riz au poulet hainanais avec viandes rôties et concombre"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "Tous les jours 10h00-22h00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Riz au poulet hainanais (poulet de ferme maraîchère ou fermier), poitrine de porc rôtie, germes de soja d'Ipoh"
+  reviewSummary: "Une institution hainanaise de 1938 dans le Chinatown de Kuala Lumpur, prisée de longue date par les habitants pour son riz au poulet, la poitrine de porc rôtie à la peau croustillante et les germes de soja d'Ipoh étant également mis en avant par les clients. Les avis récents des visiteurs sont partagés : certains louent le poulet et les accompagnements, tandis que d'autres trouvent le poulet fade ou le service inégal."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "L'édition MICHELIN en vigueur exacte — la plus récente est le MICHELIN Guide Kuala Lumpur & Penang 2026 (annoncé le 11 November 2025) ; la sélection Bib Gourmand est révisée chaque année, aussi reconfirmez le statut de Nam Heong par rapport à l'édition en vigueur avant de vous y fier."
   - "Le numéro de rue sur Jalan Sultan — la page anglaise de MICHELIN indique 56 Jalan Sultan, mais certaines versions linguistiques indiquent 54 ; confirmez l'adresse exacte."

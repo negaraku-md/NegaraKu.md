@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam：吉隆坡的 Bib Gourmand 越南菜"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "越南 pho——清汤中的牛肉与米粉，佐以香草"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "它位于 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200，门面亮黄、内部色彩缤纷。MICHELIN Guide 将它标示为适合家庭，并列为 $ 价位。"
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "周一至周五 12:00-14:30 & 18:00-22:00；周六 12:00-14:30 & 18:00-22:30；周日 12:00-14:30 & 18:00-22:00（依据《MICHELIN 指南》；较旧的资料显示周一休息——请向餐厅确认）"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo（牛肉汤河粉，汤底熬煮10小时以上）与山竹鲜虾沙拉（招牌菜）；beef la lot（野胡椒叶裹牛肉末）"
+  reviewSummary: "一家历史悠久的越南餐厅，坐落于靠近 Jalan Alor 的 Tengkat Tong Shin 一栋两层战前店屋内，荣获 MICHELIN 必比登推介（Bib Gourmand）。餐厅主打越南南方菜（以偏甜著称），兼有一些带法式风味的菜肴，置身于色彩缤纷的旧世界氛围之中。MICHELIN 特别推荐 pho bo 和山竹鲜虾沙拉；食评者称赞其清澈的牛肉汤底、摆盘以及时令的山竹沙拉。"
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

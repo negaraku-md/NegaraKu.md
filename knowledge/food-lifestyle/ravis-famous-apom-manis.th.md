@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis: ร้าน apom ระดับ Bib Gourmand ของปีนัง"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "อาปม — แพนเค้กข้าวมะพร้าวเนื้อนุ่มลายโปร่งวางซ้อนกันบนจาน"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "ทุกวัน 6.00-10.00 น. ปิดวันพฤหัสบดี มักขายหมดก่อนประมาณ 9.30 น. หมายเหตุ: รายการของ MICHELIN ระบุเวลา 18.00-22.00 น. ซึ่งขัดแย้งกับแหล่งข้อมูลท้องถิ่นหลายแห่งที่รายงานว่าเปิดเฉพาะช่วงเช้าเท่านั้น"
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "อาปมมานิส (apom manis แพนเค้กมะพร้าวหวานในหม้อดิน)"
+  reviewSummary: "แผงอาหารริมถนนในจอร์จทาวน์ (George Town) ที่เปิดมานาน (ตั้งแต่ต้นทศวรรษ 1920 ปัจจุบันเป็นรุ่นที่สาม) ขายอาปมมานิส (apom manis แพนเค้กมะพร้าวหวาน) ที่ทำสดตามสั่งในหม้อดินใบเล็กบนเตาถ่าน นักรีวิวบรรยายว่าขอบกรอบสีทองแต่ตรงกลางนุ่มฟู มีกลิ่นหอมมะพร้าวชัดเจน ความหวานนุ่มนวลไม่หนักเกินไป แนะนำให้กินร้อนๆ ทันทีที่ยกออกจากหม้อ ได้รับรางวัล MICHELIN Bib Gourmand ในปี 2025 และยังคงได้รับในปี 2026 ซึ่งทำให้ได้รับความนิยมมากขึ้น แผงนี้เปิดขายช่วงเช้าและมักขายหมดก่อนปิดนานทีเดียว"
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis เป็นร้านสตรีทฟู้ดที่เปิดมานานใน George Town ปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide เชี่ยวชาญ apom manis — แพนเค้กหวานขอบลูกไม้จากมะพร้าวและแป้งข้าว สไตล์ปีนังใส่ไข่ในแป้งเพื่อกลิ่นที่หอมขึ้น ร้านเปิดมาเกือบศตวรรษและมักขายหมดในช่วงเช้า"
 seoTitle: "Ravi's Famous Apom Manis, ปีนัง (Bib)"
 answer: "Ravi's Famous Apom Manis เป็นร้านสตรีทฟู้ดระดับ Bib Gourmand บน Jalan Burma ใน George Town ปีนัง เชี่ยวชาญ apom manis — แพนเค้กหวานที่เนื้อในนุ่มขอบกรอบ ทำจากแป้งข้าวและมะพร้าว โดยใส่ไข่ตามสไตล์ปีนังเพื่อเพิ่มกลิ่นหอม ร้านของครอบครัวนี้ย้อนไปถึงต้นศตวรรษที่ 20 และมักขายหมดภายในสายวันนั้น"

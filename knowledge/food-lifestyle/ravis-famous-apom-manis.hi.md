@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis: पेनांग का Bib Gourmand apom स्टॉल"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "अपोम — प्लेट पर रखे मुलायम, जालीदार नारियल-चावल के पैनकेक की ढेरी"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "रोज़ सुबह 6 बजे से 10 बजे तक, गुरुवार बंद; अक्सर सुबह ~9:30 बजे तक बिक जाता है। नोट: MICHELIN की सूची में शाम 6 बजे से रात 10 बजे का समय दिखाया गया है, जो सुबह-केवल समय बताने वाले कई स्थानीय स्रोतों से मेल नहीं खाता।"
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "अपोम मानिस (apom manis — मीठा नारियल वाला मिट्टी के बर्तन में बना पैनकेक)"
+  reviewSummary: "जॉर्ज टाउन (George Town) का एक पुराना स्ट्रीट-फ़ूड स्टॉल (1920 के दशक की शुरुआत से चल रहा, अब तीसरी पीढ़ी) जो छोटे कोयले की आँच वाले मिट्टी के बर्तनों में ऑर्डर पर ताज़ा बना अपोम मानिस (apom manis, मीठा नारियल पैनकेक) बेचता है। समीक्षक इसके कुरकुरे, सुनहरे किनारे और नरम, फूले हुए बीच तथा स्पष्ट नारियल की सुगंध का वर्णन करते हैं, जिसमें मिठास भारी नहीं बल्कि हल्की होती है; इसे बर्तन से निकालकर गरमागरम खाने की सलाह दी जाती है। 2025 में इसे MICHELIN Bib Gourmand मिला और 2026 में भी बरक़रार रहा, जिससे इसकी लोकप्रियता बढ़ गई। यह स्टॉल सुबह के समय चलता है और अक्सर बंद होने से काफ़ी पहले ही बिक जाता है।"
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis, George Town, पेनांग का एक पुराना स्ट्रीट-फूड स्टॉल है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है और apom manis में विशेषज्ञ है — नारियल और चावल-आटे का एक मीठा, झालरदार पैनकेक। पेनांग शैली में सुगंध बढ़ाने के लिए घोल में अंडा डाला जाता है; यह स्टॉल लगभग एक सदी से चल रहा है और अक्सर सुबह ही बिक जाता है।"
 seoTitle: "Ravi's Famous Apom Manis, पेनांग (Bib)"
 answer: "Ravi's Famous Apom Manis, George Town, पेनांग के Jalan Burma पर एक Bib Gourmand स्ट्रीट-फूड स्टॉल है। यह apom manis में विशेषज्ञ है — चावल-आटे और नारियल का एक मीठा पैनकेक, जिसका बीच नरम और किनारे कुरकुरे होते हैं, पेनांग शैली में सुगंध के लिए अंडा मिलाया जाता है। यह पारिवारिक स्टॉल 20वीं सदी के आरंभ का है और आमतौर पर देर सुबह तक बिक जाता है।"

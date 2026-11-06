@@ -3,6 +3,11 @@ topicId: MY-MICH-0038
 title: "Rasa Rasa: la mesa peranakan Bib MICHELIN de George Town"
 seoTitle: "Rasa Rasa: peranakan de Penang (MICHELIN Bib)"
 slug: "rasa-rasa"
+hero: "/media/food/rasa-rasa/hero.webp"
+heroAlt: "nasi lemak sobre hoja de plátano con sambal, huevo y acompañamientos fritos"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,16 @@ sources:
     date: "2023-06-10"
 
 updated: 2026-11-06
+place:
+  address: "59, Gat Lebuh Chulia, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  priceRange: "$ (classic pandan nasi lemak ~RM8.90; pandan nasi lemak curry chicken set ~RM17.90)"
+  hours: "Lun 08:30-16:00; Mar 09:00-16:00; Mié cerrado; Jue 08:30-16:00; Vie 08:30-16:00; Sáb 09:00-16:00; Dom 09:00-16:00 (según la MICHELIN Guide; otras fuentes dan horarios ligeramente distintos, verifica antes de ir)"
+  service: ["dine-in"]
+  mustOrder: "pandan nasi lemak (combo Nyonya) con pollo al curry; five-spice chicken roll envuelto en piel de tofu; tub tim krob de postre"
+  reviewSummary: "Un pequeño café Peranakan/Nyonya en Chulia Street Ghaut reconocido en la MICHELIN Guide (Bib Gourmand). Los reseñadores destacan de forma constante el pandan nasi lemak, servido sobre hoja de plátano con sambal casero y una selección de acompañamientos como pollo al curry, junto a platos como el five-spice chicken roll y los fideos Siam. La sala combina paredes de ladrillo visto y detalles industriales con plantas en maceta. Funciona como un local de desayuno a almuerzo (cerrado por las tardes y los miércoles). Las valoraciones de los agregadores varían según la plataforma (en torno a 4,2 y 4,7)."
+  phone: "+60 12-442 2570"
 
 relations:
   - { rel: "located-in", to: "penang" }

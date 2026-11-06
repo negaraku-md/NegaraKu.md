@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana：Bangsar 的 MICHELIN Bib Gourmand 香蕉叶饭"
 seoTitle: "Nirwana：Bangsar 香蕉叶饭（MICHELIN Bib）"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "一份香蕉叶饭，配有米饭、咖喱和鸡蛋"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "zh"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "每日 11:30-23:00（据 MICHELIN；其他资料来源有所不同，请直接核实）"
+  halal: "pork-free"
+  mustOrder: "香蕉叶饭套餐（米饭配蔬菜咖喱），可选鸡肉、羊肉或鱼肉；其鸡肉 biryani 被 MICHELIN 指南特别推荐"
+  reviewSummary: "一家历史悠久的南印度香蕉叶饭餐厅，位于 Bangsar Baru 的 Jalan Telawi，被列入 MICHELIN Bib Gourmand。它以香蕉叶饭套餐闻名，配有米饭、蔬菜咖喱和自选肉类，其中鸡肉 biryani 常受称赞。这是一家休闲的本地人最爱的餐馆，而非高级餐厅。"
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }

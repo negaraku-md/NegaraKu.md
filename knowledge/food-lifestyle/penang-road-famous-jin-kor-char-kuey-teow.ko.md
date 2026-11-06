@@ -3,6 +3,11 @@ topicId: MY-MICH-0046
 title: "Penang Road Famous Jin Kor Char Kuey Teow: 조지타운의 빕 구르망 노점"
 seoTitle: "Penang Road Famous Jin Kor Char Kuey Teow"
 slug: "penang-road-famous-jin-kor-char-kuey-teow"
+hero: "/media/food/penang-road-famous-jin-kor-char-kuey-teow/hero.webp"
+heroAlt: "Char kuey teow — 새우와 숙주를 넣어 웍에 볶은 넓은 면"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -45,6 +50,19 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+place:
+  nativeName: "槟榔律驰名仁哥炒粿条"
+  address: "Joo Hooi Cafe, 475 Jalan Penang, George Town, 10000 Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang+Road+Famous+Jin+Kor+Char+Kuey+Teow+Joo+Hooi+Cafe+475+Jalan+Penang+George+Town"
+  reviewsUrl: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"
+  priceRange: "Budget; around RM9 a plate"
+  hours: "매일 오전 9:30 - 오후 5:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  cashOnly: true
+  mustOrder: "새우, 꼬막, 돼지고기 소시지, 숙주를 넣어 주문 즉시 볶아내는 char kuey teow; 오리알과 추가 칠리 소스를 더해보세요"
+  reviewSummary: "잘란 페낭에 있는 Joo Hooi Cafe(코피티암) 안에서 오랫동안 운영되어 온 char kuey teow 노점으로, Lim Chong Jin('Jin Kor')이 운영합니다. 그는 1984년에 장사를 시작해 1995년 이곳으로 옮겨왔습니다. 2024 MICHELIN 쿠알라룸푸르 & 페낭 가이드에서 빕 구르망(Bib Gourmand)을 받았습니다. kuey teow는 새우, 꼬막, 돼지고기 소시지, 숙주를 넣어 주문 즉시 볶아내며 그 wok hei(불맛)로 유명합니다. 오리알과 추가 칠리를 더할 수 있습니다. 일부 리뷰어는 다른 버전보다 맛이 더 가볍거나 순하다고 느낍니다."
+  phone: "+60 14-903 3561"
 sources:
   - title: "Penang Road Famous Jin Kor Char Kuey Teow"
     url: "https://guide.michelin.com/my/en/pulau-pinang/my-george-town/restaurant/penang-road-famous-jin-kor-char-kuey-teow"

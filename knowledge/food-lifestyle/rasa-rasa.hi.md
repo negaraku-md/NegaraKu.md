@@ -3,6 +3,11 @@ topicId: MY-MICH-0038
 title: "Rasa Rasa: George Town की MICHELIN Bib Peranakan मेज़"
 seoTitle: "Rasa Rasa: Penang Peranakan (MICHELIN Bib)"
 slug: "rasa-rasa"
+hero: "/media/food/rasa-rasa/hero.webp"
+heroAlt: "केले के पत्ते पर nasi lemak, sambal, अंडे और तले हुए साइड के साथ"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,16 @@ sources:
     date: "2023-06-10"
 
 updated: 2026-11-06
+place:
+  address: "59, Gat Lebuh Chulia, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  priceRange: "$ (classic pandan nasi lemak ~RM8.90; pandan nasi lemak curry chicken set ~RM17.90)"
+  hours: "सोम 08:30-16:00; मंगल 09:00-16:00; बुध बंद; गुरु 08:30-16:00; शुक्र 08:30-16:00; शनि 09:00-16:00; रवि 09:00-16:00 (MICHELIN Guide के अनुसार; अन्य स्रोत थोड़े अलग समय देते हैं, जाने से पहले सत्यापित करें)"
+  service: ["dine-in"]
+  mustOrder: "pandan nasi lemak (Nyonya कॉम्बो सेट) करी चिकन के साथ; टोफू की परत में लिपटा five-spice chicken roll; मिठाई के लिए tub tim krob"
+  reviewSummary: "Chulia Street Ghaut पर स्थित एक छोटा Peranakan/Nyonya कैफे, जिसे MICHELIN Guide (Bib Gourmand) में मान्यता मिली है। समीक्षक लगातार pandan nasi lemak को अलग से रेखांकित करते हैं, जिसे केले के पत्ते पर घर में बने sambal और करी चिकन जैसे चुनिंदा टॉपिंग के साथ परोसा जाता है, साथ ही five-spice chicken roll और सियाम बिहुन जैसे व्यंजन भी हैं। कमरे में कच्ची ईंट की दीवारों और औद्योगिक शैली के तत्वों को गमलों में लगे पौधों के साथ जोड़ा गया है। यह नाश्ते से दोपहर के भोजन तक चलने वाली जगह है (दोपहर बाद और बुधवार को बंद)। एग्रीगेटर रेटिंग प्लेटफ़ॉर्म के अनुसार अलग-अलग होती है (लगभग 4.2 से 4.7)।"
+  phone: "+60 12-442 2570"
 
 relations:
   - { rel: "located-in", to: "penang" }

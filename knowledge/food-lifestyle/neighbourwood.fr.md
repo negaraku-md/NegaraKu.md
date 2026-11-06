@@ -6,7 +6,7 @@ slug: "neighbourwood"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
-sourceContentHash: "d5ad0698330f8db4"
+sourceContentHash: "6e635b16df688923"
 masterLanguage: "en"
 translationStatus: "in-sync"
 status: "published"
@@ -19,6 +19,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "Jeudi-lundi 11h30-15h00 et 17h30-22h30 ; fermé mardi et mercredi"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Demi-poulet rôti au jus et Berkshire pork loin (incontournables à partager) ; sourdough maison ; le reste de la carte change environ toutes les six semaines."
+  reviewSummary: "Un bistrot de quartier chaleureux situé dans un secteur résidentiel de Bukit Mertajam, proposant une cuisine européenne contemporaine axée sur le grill avec des accents asiatiques, tenu par le chef-propriétaire Sean Khaw avec sa propre boulangerie de sourdough. Sélectionné au MICHELIN Bib Gourmand (bonne qualité, bon rapport qualité-prix), sa carte s'articule autour de plats à partager issus du grill au charbon et change toutes les six semaines. Les critiques saluent une cuisine ouverte de style théâtre, un service attentionné et chaleureux, et des menus en plusieurs services bien équilibrés ; l'adresse est de taille modeste et à l'écart de la principale rue commerçante, d'où l'intérêt de réserver à l'avance."
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood est un restaurant MICHELIN Bib Gourmand à Bukit Mertajam, Seberang Perai — la moitié continentale de l'État de Penang. Adresse de quartier décontractée ouverte par un résident du voisinage, il sert une cuisine européenne contemporaine aux influences asiatiques ainsi que des plats grillés, avec une carte qui change toutes les six semaines et un pain au levain maison parmi ses spécialités."
 answer: "Neighbourwood est un restaurant MICHELIN Bib Gourmand au 3427 Jalan Kulim, Bukit Mertajam, à Seberang Perai — la partie continentale de l'État de Penang. Il sert une cuisine européenne contemporaine aux influences asiatiques aux côtés de plats grillés, avec une carte qui change toutes les six semaines et une poignée de spécialités qui demeurent. Le pain au levain maison, doré et friable, et un large choix de desserts en sont les temps forts. MICHELIN le situe dans la fourchette $."
 keyTakeaways:

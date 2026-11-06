@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice：KL の1938年創業の海南料理の名店"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "ローストした肉ときゅうりを添えた海南チキンライス"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "毎日 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "海南チキンライス（野菜農場飼育または平飼いの鶏）、ロースト・ポークベリー、イポーもやし"
+  reviewSummary: "クアラルンプールのChinatownにある1938年創業の海南料理の老舗で、チキンライスを目当てに地元客に長く愛されており、皮がパリッとしたロースト・ポークベリーやイポーもやしも食事客から高く評価されています。最近の来店者の評価は賛否が分かれ、鶏肉や付け合わせを称賛する声がある一方、鶏肉が味気ないとか、サービスにむらがあると感じる声もあります。"
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "正確な現行 MICHELIN 版——最新は MICHELIN Guide Kuala Lumpur & Penang 2026（2025年11月11日発表）です。Bib Gourmand の選出は毎年見直されるため、依拠する前に現行版で Nam Heong の状態を再確認してください。"
   - "Jalan Sultan の番地——MICHELIN の英語ページは 56 Jalan Sultan としていますが、一部の言語版は 54 としています。正確な住所を確認してください。"

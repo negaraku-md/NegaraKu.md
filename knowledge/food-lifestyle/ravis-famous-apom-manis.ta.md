@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis: பினாங்கின் Bib Gourmand apom கடை"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "அப்பம் — தட்டில் அடுக்கி வைக்கப்பட்ட மென்மையான வலைப் பின்னல் தேங்காய் அரிசி அப்பங்கள்"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "தினமும் காலை 6 மணி முதல் 10 மணி வரை, வியாழக்கிழமை மூடப்படும்; பொதுவாக காலை ~9:30 மணிக்குள் விற்றுத் தீர்ந்துவிடும். குறிப்பு: MICHELIN பட்டியல் மாலை 6 மணி முதல் இரவு 10 மணி வரை என்று காட்டுகிறது, இது காலை நேரம் மட்டுமே இயங்குகிறது என பல உள்ளூர் ஆதாரங்கள் தெரிவிப்பதற்கு முரணாக உள்ளது."
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "அப்பம் மானிஸ் (இனிப்பு தேங்காய் மண்பானை அப்பம் / apom manis)"
+  reviewSummary: "ஜார்ஜ் டவுன் (George Town) தெருவோர உணவுக் கடை, நீண்ட காலமாக இயங்கி வருகிறது (1920களின் தொடக்கத்திலிருந்து, இப்போது மூன்றாம் தலைமுறை), சிறிய கரி அடுப்பு மண்பானைகளில் ஆர்டருக்கேற்ப புதிதாகச் செய்யப்படும் அப்பம் மானிஸ் (apom manis, இனிப்பு தேங்காய் அப்பம்) விற்கிறது. விமர்சகர்கள் மொறுமொறுப்பான பொன்னிற விளிம்பும், மென்மையான பஞ்சுப் போன்ற நடுப்பகுதியும், தெளிவான தேங்காய் நறுமணமும் கொண்டது என விவரிக்கின்றனர்; இனிப்பு அதிகமாக இல்லாமல் மென்மையாக இருக்கும்; பானையிலிருந்து சூடாக எடுத்து உண்ண பரிந்துரைக்கப்படுகிறது. 2025இல் MICHELIN Bib Gourmand விருது வழங்கப்பட்டு, 2026இலும் தக்கவைக்கப்பட்டது, இது அதன் புகழை அதிகரித்துள்ளது. இக்கடை காலை நேரங்களில் இயங்குகிறது, பெரும்பாலும் மூடுவதற்கு நீண்ட நேரத்திற்கு முன்பே விற்றுத் தீர்ந்துவிடும்."
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis என்பது பினாங்கு, George Town-இல் நீண்ட காலமாக நிலைபெற்ற ஒரு தெரு உணவுக் கடை; MICHELIN Guide-இன் Bib Gourmand தேர்வில் இடம்பெற்றுள்ளது, apom manis-இல் சிறப்பு பெற்றது — தேங்காயும் அரிசி மாவும் கொண்ட இனிப்பான, வலைப்போன்ற விளிம்பு கொண்ட அப்பம். பினாங்கு பாணி மாவில் முட்டை சேர்த்து மேலும் நறுமணம் தருகிறது; இக்கடை கிட்டத்தட்ட ஒரு நூற்றாண்டாக இயங்கிவருகிறது, பொதுவாக காலையில் விற்று முடிந்துவிடுகிறது."
 seoTitle: "Ravi's Famous Apom Manis, பினாங்கு (Bib)"
 answer: "Ravi's Famous Apom Manis என்பது பினாங்கு, George Town-இல் Jalan Burma-வில் உள்ள ஒரு Bib Gourmand தெரு உணவுக் கடை. இது apom manis-இல் சிறப்பு பெற்றது — அரிசி மாவும் தேங்காயும் கொண்ட, மையத்தில் மென்மையான, விளிம்பில் மொறுமொறுப்பான இனிப்பு அப்பம்; பினாங்கு பாணியில் நறுமணத்திற்காக முட்டை சேர்க்கப்படுகிறது. இக்குடும்பக் கடை 20ஆம் நூற்றாண்டின் தொடக்கத்தைச் சேர்ந்தது, பொதுவாக பிற்பகல் வாக்கில் விற்று முடிந்துவிடுகிறது."

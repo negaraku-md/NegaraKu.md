@@ -2,6 +2,11 @@
 topicId: MY-MICH-0023
 title: "Nam Heong Chicken Rice: Institusi Hainan 1938 di KL"
 slug: "nam-heong-chicken-rice"
+hero: "/media/food/nam-heong-chicken-rice/hero.webp"
+heroAlt: "Nasi ayam Hainan dengan aneka daging panggang dan mentimun"
+heroCredit: "Chan Yong Sheng / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/roasted-duck-and-pork-rice-dish-g4SvgjuZT58"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -46,6 +51,18 @@ sources:
     url: "https://en.wikipedia.org/wiki/List_of_Michelin_Bib_Gourmand_restaurants_in_Malaysia"
     publisher: "Wikipedia"
 updated: 2026-11-06
+place:
+  nativeName: "南香"
+  address: "56 Jalan Sultan, City Centre, 50000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Nam+Heong+Chicken+Rice+Jalan+Sultan+Kuala+Lumpur"
+  priceRange: "$"
+  hours: "Setiap hari 10:00-22:00"
+  halal: "contains-pork"
+  service: ["dine-in"]
+  mustOrder: "Nasi ayam Hainan (ayam ternak sayur atau ayam kampung), samcan babi panggang, tauge Ipoh"
+  reviewSummary: "Institusi Hainan sejak 1938 di kawasan Chinatown Kuala Lumpur yang lama digemari warga lokal karena nasi ayamnya, dengan samcan babi panggang berkulit renyah dan tauge Ipoh juga menjadi sorotan para pengunjung. Pendapat pengunjung belakangan ini beragam, sebagian memuji ayam dan lauk pendampingnya, sementara sebagian lain menilai ayamnya hambar atau pelayanannya tidak konsisten."
+  phone: "+60 3-2022 3818"
 verificationNeeded:
   - "Edisi MICHELIN terkini yang tepat — yang terbaru adalah MICHELIN Guide Kuala Lumpur & Penang 2026 (diumumkan 11 November 2025); seleksi Bib Gourmand ditinjau setiap tahun, jadi konfirmasikan kembali status Nam Heong terhadap edisi terkini sebelum mengandalkannya."
   - "Nomor jalan di Jalan Sultan — halaman bahasa Inggris MICHELIN memberikan 56 Jalan Sultan, tetapi beberapa versi bahasa memberikan 54; konfirmasikan alamat yang tepat."

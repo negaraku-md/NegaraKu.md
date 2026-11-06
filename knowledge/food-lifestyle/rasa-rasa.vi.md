@@ -3,6 +3,11 @@ topicId: MY-MICH-0038
 title: "Rasa Rasa: Bàn ăn Peranakan Bib MICHELIN ở George Town"
 seoTitle: "Rasa Rasa: Peranakan Penang (MICHELIN Bib)"
 slug: "rasa-rasa"
+hero: "/media/food/rasa-rasa/hero.webp"
+heroAlt: "nasi lemak trên lá chuối với sambal, trứng và các món chiên ăn kèm"
+heroCredit: "Jpatokal / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
@@ -53,6 +58,16 @@ sources:
     date: "2023-06-10"
 
 updated: 2026-11-06
+place:
+  address: "59, Gat Lebuh Chulia, 10300 George Town, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Rasa+Rasa+59+Gat+Lebuh+Chulia+George+Town+Penang"
+  priceRange: "$ (classic pandan nasi lemak ~RM8.90; pandan nasi lemak curry chicken set ~RM17.90)"
+  hours: "Thứ Hai 08:30-16:00; Thứ Ba 09:00-16:00; Thứ Tư đóng cửa; Thứ Năm 08:30-16:00; Thứ Sáu 08:30-16:00; Thứ Bảy 09:00-16:00; Chủ Nhật 09:00-16:00 (theo MICHELIN Guide; các nguồn khác cho giờ hơi khác, hãy xác nhận trước khi đến)"
+  service: ["dine-in"]
+  mustOrder: "pandan nasi lemak (set combo Nyonya) với gà cà ri; five-spice chicken roll cuốn trong váng đậu; tub tim krob cho món tráng miệng"
+  reviewSummary: "Một quán cà phê Peranakan/Nyonya nhỏ trên Chulia Street Ghaut được ghi nhận trong MICHELIN Guide (Bib Gourmand). Các nhà phê bình luôn nhắc đến pandan nasi lemak, được phục vụ trên lá chuối với sambal tự làm và các loại topping tùy chọn như gà cà ri, bên cạnh những món như five-spice chicken roll và bún Xiêm. Không gian kết hợp những bức tường gạch thô và các chi tiết công nghiệp với cây trồng trong chậu. Quán hoạt động như một nơi phục vụ từ bữa sáng đến bữa trưa (đóng cửa buổi chiều và vào Thứ Tư). Điểm đánh giá tổng hợp khác nhau tùy nền tảng (khoảng 4.2 đến 4.7)."
+  phone: "+60 12-442 2570"
 
 relations:
   - { rel: "located-in", to: "penang" }

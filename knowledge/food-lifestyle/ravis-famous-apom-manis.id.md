@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis: Kedai Apom Bib Gourmand Penang"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "Apom — panekuk beras kelapa yang lembut dan berenda ditumpuk di atas piring"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
@@ -12,6 +17,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "Setiap hari pukul 06.00-10.00, tutup hari Kamis; biasanya ludes terjual sekitar pukul 09.30. Catatan: daftar MICHELIN menampilkan pukul 18.00-22.00, yang bertentangan dengan beberapa sumber lokal yang melaporkan jam buka hanya pada pagi hari."
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apom manis (panekuk kelapa manis dari belanga tanah liat)"
+  reviewSummary: "Lapak jajanan kaki lima George Town yang sudah lama beroperasi (sejak awal 1920-an, kini generasi ketiga) yang menjual apom manis (panekuk kelapa manis) yang dibuat segar sesuai pesanan dalam belanga tanah liat kecil berbahan bakar arang. Para pengulas menggambarkan pinggiran yang renyah dan keemasan dengan bagian tengah yang lembut dan empuk serta aroma kelapa yang kuat, dengan rasa manis yang lembut dan tidak berlebihan; disarankan dimakan panas-panas langsung dari belanga. Meraih MICHELIN Bib Gourmand pada 2025 dan dipertahankan pada 2026, yang membuatnya semakin populer. Lapak ini buka pada pagi hari dan sering kali ludes jauh sebelum waktu tutup."
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis adalah kedai makanan kaki lima lawas di George Town, Penang, yang masuk dalam seleksi Bib Gourmand MICHELIN Guide, berspesialisasi apom manis — panekuk manis berenda dari kelapa dan tepung beras. Gaya Penang menambahkan telur ke dalam adonan untuk aroma yang lebih kuat; kedai ini telah beroperasi hampir seabad dan cenderung ludes pada pagi hari."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis adalah kedai makanan kaki lima Bib Gourmand di Jalan Burma, George Town, Penang. Kedai ini berspesialisasi apom manis — panekuk manis bertengah lembut dan bertepi renyah dari tepung beras dan kelapa, dengan telur ditambahkan menurut gaya Penang untuk aroma. Kedai keluarga ini berakar ke awal abad ke-20 dan biasanya ludes menjelang siang."

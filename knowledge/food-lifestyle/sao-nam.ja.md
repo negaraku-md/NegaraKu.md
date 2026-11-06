@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam：クアラルンプールの Bib Gourmand ベトナム料理"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "ベトナムのフォー——澄んだスープに牛肉と米麺、ハーブを添えて"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "店は 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 にあり、黄色いファサードと色鮮やかな内装が特徴です。MICHELIN Guide は家族向けと示し、$ の価格帯に位置づけています。"
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "月～金 12:00-14:30 & 18:00-22:00；土 12:00-14:30 & 18:00-22:30；日 12:00-14:30 & 18:00-22:00（MICHELIN Guide による。古い情報では月曜定休とされている場合あり——店舗にご確認ください）"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo（牛肉のフォー、10時間以上煮込んだスープ）とマンゴスチン＆海老のサラダ（看板メニュー）；beef la lot（野生コショウの葉で包んだ牛ひき肉）"
+  reviewSummary: "Jalan Alor 近くの Tengkat Tong Shin にある2階建ての戦前のショップハウスに入る、長く続くベトナム料理店で、MICHELIN Bib Gourmand を獲得。主に南部ベトナム料理（甘めとされる）を中心に、フランスの影響を受けた料理もいくつか提供し、色彩豊かなオールドワールドの雰囲気の中で楽しめる。MICHELIN は pho bo とマンゴスチン＆海老のサラダを特に挙げており、評者は澄んだ牛肉スープ、盛り付け、季節のマンゴスチンサラダを称賛している。"
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

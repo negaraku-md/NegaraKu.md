@@ -18,6 +18,18 @@ contentType: "place"
 aiAssisted: true
 revision: 0
 updated: 2026-11-06
+place:
+  address: "3427, Jalan Kulim, Taman Bukit Mas, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Neighbourwood+restaurant+Bukit+Mertajam"
+  priceRange: "$$"
+  hours: "Thu-Mon 11:30-15:00 and 17:30-22:30; closed Tue and Wed"
+  halal: "non-halal"
+  service: ["dine-in"]
+  mustOrder: "Half roast chicken au jus and Berkshire pork loin (shareable fixtures); house-baked sourdough; the rest of the menu changes roughly every six weeks."
+  reviewSummary: "A cosy neighbourhood bistro in a residential part of Bukit Mertajam serving European contemporary, grill-focused cooking with Asian accents, run by owner-chef Sean Khaw with an in-house sourdough bakery. A MICHELIN Bib Gourmand pick (good quality, good value), its menu is built around shareable plates off the chargrill and rotates every six weeks. Reviewers note an open theatre-style kitchen, attentive friendly service, and well-balanced multi-course meals; it is modestly sized and off the main commercial street, so booking ahead is advised."
+  facebook: "https://www.facebook.com/neighbourwoodrestaurant"
+  phone: "+60 12-903 0862"
 summary: "Neighbourwood is a MICHELIN Bib Gourmand restaurant in Bukit Mertajam, Seberang Perai — the mainland half of Penang state. A relaxed neighbourhood spot opened by a nearby resident, it serves contemporary European food with Asian influences plus grilled dishes, with a menu that rotates every six weeks and house-baked sourdough among its signatures."
 answer: "Neighbourwood is a MICHELIN Bib Gourmand restaurant at 3427 Jalan Kulim, Bukit Mertajam, in Seberang Perai — the mainland part of Penang state. It serves contemporary European cooking with Asian influences alongside grilled dishes, with a menu that changes every six weeks and a handful of signatures that stay on. Golden, crumbly house-baked sourdough and a wide dessert selection are highlights. MICHELIN prices it in the $ band."
 keyTakeaways:

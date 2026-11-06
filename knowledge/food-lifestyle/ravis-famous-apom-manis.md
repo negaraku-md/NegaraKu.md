@@ -2,6 +2,11 @@
 topicId: MY-MICH-0068
 title: "Ravi's Famous Apom Manis: Penang's Bib Gourmand Apom Stall"
 slug: "ravis-famous-apom-manis"
+hero: "/media/food/ravis-famous-apom-manis/hero.webp"
+heroAlt: "Apom — soft lacy coconut-rice pancakes stacked on a plate"
+heroCredit: "Connie Ma from United States of America / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Appam_by_Connie_Ma.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
@@ -11,6 +16,18 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "317 Jalan Burma, George Town, 10350 Penang, Malaysia (stall inside Keat Hoe Coffee Shop, formerly Swee Kong; MICHELIN lists the number as 319)"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Ravi%27s%20Famous%20Apom%20Manis%20Jalan%20Burma%20George%20Town%20Penang"
+  priceRange: "$ (budget street food); around RM6 for 5 pieces (~RM1.20 each)"
+  hours: "Daily 6am-10am, closed Thursday; often sold out by ~9:30am. Note: the MICHELIN listing shows 6pm-10pm, which conflicts with multiple local sources reporting morning-only hours."
+  halal: "vegetarian"
+  service: ["dine-in", "takeaway"]
+  cashOnly: true
+  mustOrder: "Apom manis (sweet claypot coconut pancake)"
+  reviewSummary: "A long-running George Town street-food stall (operating since the early 1920s, now third-generation) selling apom manis made fresh to order in small charcoal-fired claypots. Reviewers describe a crispy, golden edge with a soft, fluffy centre and a pronounced coconut fragrance, with sweetness that is gentle rather than heavy; it is recommended eaten hot from the pot. Awarded the MICHELIN Bib Gourmand in 2025 and retained in 2026, which has increased its popularity. The stall operates mornings and frequently sells out well before closing."
+  phone: "+60 12-470 7019"
 summary: "Ravi's Famous Apom Manis is a long-established George Town, Penang street-food stall in the MICHELIN Guide's Bib Gourmand selection, specialising in apom manis — a sweet, lacy coconut-and-rice-flour pancake. The Penang style includes egg in the batter for extra aroma; the stall has operated for close to a century and tends to sell out in the morning."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis is a Bib Gourmand street-food stall on Jalan Burma in George Town, Penang. It specialises in apom manis — a sweet, soft-centred, crisp-edged pancake of rice flour and coconut, with egg added in the Penang style for aroma. The family stall dates back to the early 20th century and typically sells out by late morning."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0018
 title: "Sao Nam: கோலாலம்பூரில் Bib Gourmand வியட்நாமிய சமையல்"
 seoTitle: "Sao Nam (Kuala Lumpur)"
 slug: "sao-nam"
+hero: "/media/food/sao-nam/hero.webp"
+heroAlt: "வியட்நாமிய pho - தெளிவான குழம்பில் மாட்டிறைச்சி மற்றும் அரிசி நூடுல்ஸ், மூலிகைகளுடன்"
+heroCredit: "Kirill Tonkikh / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/a-bowl-of-noodle-soup-with-chopsticks-on-the-side-NFQi_2HUNRI"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 
@@ -44,6 +49,18 @@ faq:
     a: "இது 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200-இல், மஞ்சள் முன்புறமும் வண்ணமயமான உட்புறமும் கொண்டது. MICHELIN Guide அதை குடும்பத்திற்கு ஏற்றதாகக் குறித்து, $ விலை வரம்பில் வைக்கிறது."
 
 updated: 2026-11-06
+place:
+  address: "25 Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sao+Nam+Vietnamese+Cuisine+25+Tengkat+Tong+Shin+Kuala+Lumpur"
+  reviewsUrl: "https://my.openrice.com/en/klangvalley/restaurant/sao-nam-vietnamese-cuisine-bukit-bintang-kuala-lumpur/220044"
+  priceRange: "$$"
+  hours: "திங்கள்-வெள்ளி 12:00-14:30 & 18:00-22:00; சனி 12:00-14:30 & 18:00-22:30; ஞாயிறு 12:00-14:30 & 18:00-22:00 (MICHELIN Guide படி; பழைய பட்டியல்கள் திங்கட்கிழமைகளில் மூடப்பட்டிருப்பதாகக் குறிப்பிடுகின்றன - உணவகத்துடன் உறுதிப்படுத்தவும்)"
+  halal: "pork-free"
+  service: ["dine-in"]
+  mustOrder: "Pho bo (மாட்டிறைச்சி நூடுல் சூப், 10+ மணிநேரம் கொதிக்கவைத்த குழம்பு) மற்றும் மங்குஸ்டீன் & இறால் சாலட் (சிறப்பு உணவு); beef la lot (காட்டு மிளகு இலைகளில் சுற்றிய நறுக்கிய மாட்டிறைச்சி)"
+  reviewSummary: "Jalan Alor அருகே Tengkat Tong Shin இல் உள்ள இரண்டு மாடி போர்-முந்தைய கடை-வீட்டில் அமைந்துள்ள நீண்டகால வியட்நாமிய உணவகம், MICHELIN Bib Gourmand விருது பெற்றது. இது முக்கியமாக தெற்கு வியட்நாமிய சமையலை (இனிப்பானதாக குறிப்பிடப்படுகிறது) சில பிரெஞ்சு-தாக்கம் கொண்ட உணவுகளுடன், வண்ணமயமான பழைய-உலக சூழலில் வழங்குகிறது. MICHELIN pho bo மற்றும் மங்குஸ்டீன்-இறால் சாலட்டை சிறப்பித்துக் காட்டுகிறது; விமர்சகர்கள் தெளிவான மாட்டிறைச்சி குழம்பு, வழங்கல் மற்றும் பருவகால மங்குஸ்டீன் சாலட்டைப் பாராட்டுகின்றனர்."
+  website: "https://www.saonam.com.my/"
+  phone: "+60 3-2144 1225"
 sources:
   - title: "Sao Nam"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/sao-nam"

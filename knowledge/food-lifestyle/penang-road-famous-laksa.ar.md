@@ -2,6 +2,11 @@
 topicId: MY-MICH-0070
 title: "Penang Road Famous Laksa: حائز على Bib Gourmand في George Town"
 slug: "penang-road-famous-laksa"
+hero: "/media/food/penang-road-famous-laksa/hero.webp"
+heroAlt: "Penang asam laksa مزيّن بالنعناع والخيار والفلفل الحار والبصل"
+heroCredit: "ProjectManhattan / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Asam_Laksa.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
@@ -12,6 +17,16 @@ reviewer: "ashton-tan"
 sensitivity: "none"
 revision: 0
 updated: 2026-11-06
+place:
+  address: "5-7 Lebuh Keng Kwee, George Town, 10100 Penang, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Penang%20Road%20Famous%20Laksa%2C%205-7%20Lebuh%20Keng%20Kwee%2C%20George%20Town&query_place_id=ChIJPdKG7JbDSjARYg9PFXn5Fj0"
+  priceRange: "$"
+  hours: "الإثنين والثلاثاء والخميس-الأحد 9:00 AM - 5:30 PM؛ الأربعاء مغلق"
+  service: ["dine-in", "takeaway"]
+  mustOrder: "Penang asam laksa (الطبق المميز؛ معكرونة lai fun في مرق من ثلاثة أنواع سمك/التمر الهندي)، مع إمكانية إضافة شريحة سمك السردين منزوعة العظم؛ يتوفر أيضًا char koay teow مع بيض البط"
+  reviewSummary: "كشك asam laksa عريق في George Town قرب Penang Road، يقدّم وصفة عائلية منذ عام 1970 ويقع الآن في Lebuh Keng Kwee. حاز على MICHELIN Bib Gourmand؛ ويصف MICHELIN المرق بأنه مبني على ثلاثة أنواع من السمك مع خلطة توابل توازن بين النكهات الحارة والحلوة والحامضة، ويُقدَّم مع معكرونة lai fun، ويصنّفه بأنه 'Worth Queueing For' (يستحق الانتظار في الطابور). كثيرًا ما يصف المراجعون المرق بأنه لاذع وحامض وغني بقطع السردين المتقشرة. تُدرج مواقع التجميع الخارجية تقييم Google بنحو 4.3 من حوالي 2,000-2,400 مراجعة (لقطة في لحظة، وليست مباشرة)."
+  phone: "+60 16-446 0543"
 summary: "Penang Road Famous Laksa محلّ نودلز في George Town ببينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide، ويشتهر بـ assam (laksa الحامضة). يعمل منذ 1970 بوصفة عائلية، ويقدّم نودلز lai fun في مرقٍ مُحضَّر من ثلاثة أنواع من السمك، يوازن بين النكهات الحارّة والحلوة والحامضة، مع إمكانية إضافة شريحة سردين منزوعة العظم. وهو مؤسسة عريقة في George Town ذات طوابير طويلة."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa محلّ نودلز حائز على Bib Gourmand في Lebuh Keng Kwee بـ George Town في بينانغ. يعمل منذ 1970 بوصفة عائلية، ويقدّم laksa الحامضة المميّزة: نودلز lai fun في مرقٍ مُحضَّر من ثلاثة أنواع من السمك، موازَن بين النكهات الحارّة والحلوة والحامضة، مع إمكانية إضافة شريحة سردين منزوعة العظم. وهو من أشهر طوابير طعام الشارع في George Town."

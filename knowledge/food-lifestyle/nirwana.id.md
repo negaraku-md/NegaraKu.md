@@ -3,11 +3,16 @@ topicId: MY-MICH-0036
 title: "Nirwana: Nasi Daun Pisang MICHELIN Bib Gourmand di Bangsar"
 seoTitle: "Nirwana: Nasi Daun Pisang Bangsar (MICHELIN Bib)"
 slug: "nirwana"
+hero: "/media/food/nirwana/hero.webp"
+heroAlt: "Hidangan banana leaf rice dengan nasi, kari, dan telur"
+heroCredit: "Kalindu Waranga / Unsplash"
+heroLicense: "Unsplash License"
+heroSource: "https://unsplash.com/photos/yellow-rice-with-meat-and-egg-served-on-leaf-5pgGL7EC6BY"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "id"
-sourceContentHash: "20af5620689afe20"
+sourceContentHash: "d58b15281bb2a10e"
 masterLanguage: "en"
 status: "published"
 translationStatus: "in-sync"
@@ -57,6 +62,17 @@ sources:
     date: "2023-11-08"
 
 updated: 2026-11-06
+place:
+  address: "43, Jalan Telawi 3, Bangsar Baru, 59100 Kuala Lumpur, Malaysia"
+  mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  reviewsUrl: "https://www.google.com/maps/search/?api=1&query=Sri+Nirwana+Maju+Jalan+Telawi+3+Bangsar+Kuala+Lumpur"
+  priceRange: "$$ (approx RM10-30 per person)"
+  hours: "Setiap hari 11:30-23:00 (menurut MICHELIN; daftar lain berbeda, verifikasi langsung)"
+  halal: "pork-free"
+  mustOrder: "Set banana leaf rice (nasi dengan kari sayur) dengan pilihan ayam, kambing/domba, atau ikan; chicken biryani-nya secara khusus disebut oleh MICHELIN Guide"
+  reviewSummary: "Restoran India Selatan banana leaf yang sudah lama beroperasi di Jalan Telawi di Bangsar Baru, masuk daftar MICHELIN Bib Gourmand. Tempat ini dikenal sebagai lokasi andalan untuk set banana leaf rice yang disajikan dengan nasi, kari sayur, dan pilihan protein, dengan chicken biryani yang kerap dipuji. Ini adalah rumah makan santai favorit warga lokal, bukan tempat makan fine dining."
+  website: "https://srinirwanamaju.com"
+  phone: "+60 3-2287 8445"
 
 relations:
   - { rel: "located-in", to: "kuala-lumpur" }
