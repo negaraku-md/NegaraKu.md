@@ -5,11 +5,11 @@ slug: "lemon-koay-teow-soup"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Lemon Koay Teow Soup is a street-food stall in Butterworth, Seberang Perai, on the Penang mainland, listed in the MICHELIN Guide's Bib Gourmand selection. It serves koay teow th'ng — flat rice noodles in a fresh pork-bone broth — with a hand-chopped pork patty and freshly squeezed lemon juice on the table to brighten the flavours, a local breakfast favourite."
 seoTitle: "Lemon Koay Teow Soup, Penang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup is a Bib Gourmand street-food stall in Butterworth, Seberang Perai, on the Penang mainland. It serves koay teow soup — silky flat rice noodles in an umami pork-bone broth made fresh daily — finished with a hand-chopped pork patty, with freshly squeezed lemon juice provided at the table to lift the flavours. It is a popular local breakfast."

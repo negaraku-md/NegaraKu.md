@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles adalah kedai spesialis mi Tionghoa di Jalan Sultan, di pusat Kuala Lumpur, yang diakui oleh MICHELIN Guide dengan Bib Gourmand untuk masakan bernilai baik. Hidangan khasnya adalah lala (kerang) bihun dengan udang dalam kuah yang harum dengan arak kuning Tionghoa dan jahe."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles adalah kedai mi di Jalan Sultan, Kuala Lumpur, yang memegang MICHELIN Bib Gourmand — penghargaan Guide untuk kualitas baik dengan harga terjangkau. Hidangan khasnya adalah lala (kerang) bihun dengan udang dalam kuah yang digambarkan MICHELIN Guide harum dengan arak kuning Tionghoa dan jahe. Kedai ini tumbuh dari warung tepi jalan menjadi toko sudut dua lantai dan berada di pita harga terendah ($) Guide."

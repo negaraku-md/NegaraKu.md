@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "11e34aa70bab1b92"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's مطعمٌ شرق أوسطي في Taman Tun Dr Ismail بكوالالمبور، حائزٌ على Bib Gourmand من MICHELIN Guide تقديرًا لطهيٍ بقيمةٍ جيدة مقابل السعر. افتتحه طاهٍ سوري بدأ بتوصيل وجبات منزلية، ويشتهر بـ smoked hummus المنقوع بزيت الفلفل الحار المحروق وبـ kebab khashkhash من لحم الضأن. يتناول هذا الملف الطعام والأجواء وكيفية الزيارة."
 seoTitle: "Leen's، كوالالمبور"
-answer: "Leen's مطعمٌ شرق أوسطي في Taman Tun Dr Ismail (TTDI) بكوالالمبور، نال تقدير Bib Gourmand من MICHELIN Guide — علامة الدليل على الطهي الجيد الجودة بسعرٍ مناسب. افتتحه طاهٍ سوري بدأ بتوصيل وجبات منزلية الطهو، ويشتهر بـ smoked hummus المنقوع بزيت الفلفل الحار المحروق، وبـ kebab khashkhash، أسياخ لحم الضأن في صلصة بذور الخشخاش الحارة. يقع ضمن فئة الأسعار $$ ويتولى الحجوزات بنفسه."
+answer: "Leen's مطعمٌ شرق أوسطي في Taman Tun Dr Ismail (TTDI) بكوالالمبور، نال تقدير Bib Gourmand من MICHELIN Guide — علامة الدليل على الطهي الجيد الجودة بسعرٍ مناسب. افتتحه طاهٍ سوري بدأ بتوصيل وجبات منزلية الطهو، ويشتهر بـ smoked hummus المنقوع بزيت الفلفل الحار المحروق، وبـ kebab khashkhash، أسياخ لحم الضأن في صلصة بذور الخشخاش الحارة. يقع ضمن فئة الأسعار $ ويتولى الحجوزات بنفسه."
 appliesTo: "المسافرون وروّاد المطاعم في كوالالمبور الباحثون عن مطعمٍ شرق أوسطي مرموق وبقيمةٍ جيدة، والقرّاء الذين يتابعون اختيارات MICHELIN Guide في ماليزيا."
 keyTakeaways:
   - "Leen's مطعم Bib Gourmand من MICHELIN Guide — تقدير الدليل للطهي الجيد الجودة وبقيمةٍ مناسبة — في Taman Tun Dr Ismail بكوالالمبور."
   - "المطبخ شرق أوسطي، افتتحه طاهٍ سوري بدأ بتوصيل وجبات منزلية الطهو قبل أن يفتتح متجره الفعلي."
   - "يبرز MICHELIN طبق smoked hummus المنقوع بزيت الفلفل الحار المحروق (حار قليلًا وشديد الدخانية) وأطباق kebab khashkhash، أسياخ لحم الضأن في صلصة بذور الخشخاش الحادة والحارة."
-  - "إنه مطعم $$، مناسب للمجموعات، وتملأ المكانَ روائحُ المخبوزات الطازجة."
+  - "إنه مطعم $، مناسب للمجموعات، وتملأ المكانَ روائحُ المخبوزات الطازجة."
   - "يتولى المطعم حجوزاته بنفسه، لذا تواصل معه مباشرةً؛ وهو في 1F, 136A Jalan Burhanuddin Helmi, TTDI."
 faq:
   - q: "أين يقع Leen's وأي نوعٍ من الطعام يقدّم؟"

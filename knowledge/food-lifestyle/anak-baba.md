@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba is a Peranakan eatery in Brickfields, Kuala Lumpur, recognised by the MICHELIN Guide with a Bib Gourmand for good-value cooking. Open since 2018, it serves Southern Peranakan food blending Indo-Malay flavours with Chinese influences; its highlighted dish is nasi lemak with ayam goreng kunyit."
 seoTitle: "Anak Baba"
 answer: "Anak Baba is a Peranakan restaurant in Brickfields, Kuala Lumpur, that holds a MICHELIN Bib Gourmand — the Guide's award for good quality at good value, not a star. Open since 2018, it serves Southern Peranakan cooking that blends Indo-Malay flavours with Chinese influences, and the MICHELIN Guide highlights its nasi lemak with ayam goreng kunyit (turmeric fried chicken). It sits in the Guide's lowest ($) price band."

@@ -9,7 +9,7 @@ lang: "ko"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen은 페낭 조지타운 Lebuh Carnarvon에 자리한 오랜 역사의 광둥 요리 식당으로, 질 좋고 가성비 뛰어난 요리에 주어지는 MICHELIN Bib Gourmand를 보유하고 있다. 1965년부터 영업해 왔으며, 정성껏 만든 전통 광둥 요리와 현지 풍미를 더한 퓨전 요리로 유명하다 — 대표 메뉴는 현지산 멸치를 곁들인 자가제 튀긴 두부다."
 answer: "Teksen은 페낭 조지타운 18 & 20 Lebuh Carnarvon에 있는 캐주얼한 광둥 요리 식당으로, MICHELIN Bib Gourmand——질 좋고 가성비 뛰어난 요리에 대한 가이드의 상——를 보유하고 있다. 1965년 개업 이래 전통 광둥 요리와 현지 풍미를 더한 퓨전 요리를 내며, 가장 잘 알려진 메뉴는 현지산 멸치를 곁들인 자가제 튀긴 두부다. 피크 시간대에는 줄 서는 것을 예상하는 것이 좋다."
 keyTakeaways:
   - "Teksen은 질 좋고 가성비 뛰어난 요리에 대한 가이드의 영예인 MICHELIN Bib Gourmand를 보유하고 있다."
-  - "페낭 조지타운 18 & 20 Lebuh Carnarvon(10100)에 있는 광둥 요리 식당으로, 가격대는 MICHELIN $$에 속한다."
+  - "페낭 조지타운 18 & 20 Lebuh Carnarvon(10100)에 있는 광둥 요리 식당으로, 가격대는 MICHELIN $에 속한다."
   - "주방은 1965년부터 영업해 왔으며, 전통 광둥 요리와 현지 풍미를 더한 퓨전 요리를 함께 낸다."
   - "대표 메뉴는 현지산 멸치를 곁들인 자가제 튀긴 두부이며, 가이드는 매일 바뀌는 더블보일드 수프도 언급한다."
   - "MICHELIN은 이곳을 '줄 설 만한 가치가 있다'고 표시한다 — 붐비는 시간에는 대기를 예상하고, 방문 전 영업시간을 확인하라."

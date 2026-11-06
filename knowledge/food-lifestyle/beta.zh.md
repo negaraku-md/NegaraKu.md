@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide 将其料理归类为马来西亚与当代，以「Tour of Malaysia」菜单形式呈现。"
   - "MICHELIN 描述主厨以现代技法与一丝不苟的摆盘重新演绎本地人气菜肴，置于一间「剧场感」的餐室之中。"
   - "MICHELIN 指出的一道招牌加点是 abalone Lawas rice——佐以鲍鱼的砂拉越古早米。"
-  - "餐厅位于吉隆坡 Jalan Perak，列入 $$$ 价位档；该指南标示适合约会之夜。"
+  - "餐厅位于吉隆坡 Jalan Perak，列入 $$ 价位档；该指南标示适合约会之夜。"
 appliesTo: "正在研究吉隆坡获 MICHELIN 认可之马来西亚 fine dining 的旅客、美食爱好者与食客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

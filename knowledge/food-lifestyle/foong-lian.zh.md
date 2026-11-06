@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian 是一家位于吉隆坡 Pudu、Jalan Yew 上的粤式食肆，摘得 MICHELIN Guide 的 Bib Gourmand，自1986年起供应以炭火烹煮的 claypot rice。它被标示为「Worth Queueing For」，是当地人的心头好，可选腊味、鸡腿或咸鱼的 claypot rice，另有汤品与小食。本篇介绍其食物、环境与造访方式。"
 seoTitle: "Foong Lian，吉隆坡"
 answer: "Foong Lian 是一家位于吉隆坡 Pudu、Jalan Yew 上的粤式食肆，凭超值烹饪获 MICHELIN Guide 颁予 Bib Gourmand。自1986年起，它便以炭火烹煮 claypot rice，并细心控制火候，配料可选腊肠与肝肠、鸡腿或咸鱼，另有汤品与小食如腐皮卷。它是一个平价的 $ 地方，被标示为「Worth Queueing For」，并自行处理订位。"

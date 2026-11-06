@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide はその料理をフレンチ・コンテンポラリーと分類し、グローバルな影響とマレーシアのアクセントを帯びています。"
   - "二次的報道によれば、マレーシア最初の版ガイドで MICHELIN Star を受けた最初のレストランの一つであり、以降それを保ち続けています。"
   - "レストランはクアラルンプールの Taman Tun Dr Ismail（TTDI）にあり、3階にわたって複数のバー、ダイニングルーム、そして Louis XIII をテーマにした個室を備えています。"
-  - "MICHELIN Guide は最高（$$$$）の価格帯に分類し、フランス産チーズのワゴンとワインリストに言及しています。"
+  - "MICHELIN Guide は最高（$$）の価格帯に分類し、フランス産チーズのワゴンとワインリストに言及しています。"
 appliesTo: "クアラルンプールで MICHELIN に認められたマレーシアのファインダイニングを調べている旅行者、グルメ愛好家、そして食事客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

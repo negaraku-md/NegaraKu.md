@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak tiene un Bib Gourmand en la MICHELIN Guide Kuala Lumpur & Penang: la distinción de la guía a la buena calidad a buen precio, no una MICHELIN Star."
   - "La MICHELIN Guide lo describe como 'una expresión de orgullo e identidad nacional,' con platos que son clásicos cotidianos para los locales."
   - "Su plato más popular es la fuente de nasi ambeng, una propuesta para compartir cuyas raciones se ajustan a tu grupo."
-  - "Está en una calle residencial en 24 Jalan Beremi, Bukit Bintang, en la franja de precio $$ (moderada), y lleva la etiqueta 'Eat like a local' de la guía."
+  - "Está en una calle residencial en 24 Jalan Beremi, Bukit Bintang, en la franja de precio $ (moderada), y lleva la etiqueta 'Eat like a local' de la guía."
   - "La lista Bib Gourmand se revisa cada año, así que confirma el reconocimiento actual en guide.michelin.com antes de planear la visita."
 faq:
   - q: "¿Por qué es conocido Congkak?"
@@ -41,7 +41,7 @@ faq:
   - q: "¿Tiene Congkak una MICHELIN Star?"
     a: "No. Congkak tiene un Bib Gourmand, una distinción MICHELIN aparte para restaurantes que ofrecen cocina de buena calidad a buen precio. No es una Star, y ambas se otorgan de forma independiente."
   - q: "¿Dónde está Congkak y cuánto cuesta?"
-    a: "Está en 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, en una calle residencial cerca del centro. La MICHELIN Guide lo sitúa en la franja de precio $$, es decir, un gasto moderado, y acepta tarjetas de crédito."
+    a: "Está en 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, en una calle residencial cerca del centro. La MICHELIN Guide lo sitúa en la franja de precio $, es decir, un gasto moderado, y acepta tarjetas de crédito."
 
 updated: 2026-11-06
 sources:

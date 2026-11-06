@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "7e28abfc06c880aa"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow はペナン本土側、Seberang Perai の Bukit Mertajam にある麺の屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれている。char koay teow をアヒルの卵とともに炭火で炒め、際立った wok hei を出す。さっと茹でたタコの前菜が勧められる一品。夜の商売で、20 年かけて築いた支持を得ている。"
 seoTitle: "Ming Qin Charcoal Char Koay Teow、ペナン"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow はペナン本土側、Seberang Perai の Bukit Mertajam にある Bib Gourmand の麺の屋台である。看板の char koay teow はアヒルの卵とともに炭火で炒められ、強い wok hei（鍋の煙る息吹）を帯びる。さっと茹でたタコの前菜が勧められる。夜に営業する。"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian es un puesto de comida callejera MICHELIN Bib Gourmand en George Town, Penang, en el patio de comidas Medan Renong, conocido por un insólito plato de fideos green tom yum, junto a una sopa de fideos y unos fideos fritos. Este perfil cubre su reconocimiento MICHELIN, su plato estrella, su ubicación y cómo visitarlo."
 seoTitle: "Ghee Lian: Comida callejera Bib Gourmand de Penang"
 answer: "Ghee Lian es un puesto de comida callejera de Penang incluido como MICHELIN Bib Gourmand en la selección de la MICHELIN Guide Kuala Lumpur & Penang. Su especialidad es un insólito plato de fideos green tom yum — que MICHELIN elogia por su equilibrio entre lo ácido y lo picante — servido junto a una sopa de fideos y unos fideos fritos. Está en el patio de comidas Medan Renong, Jalan Tun Syed Sheh Barakhbah, George Town."

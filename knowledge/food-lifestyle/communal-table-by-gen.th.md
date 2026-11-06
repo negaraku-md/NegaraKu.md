@@ -9,17 +9,16 @@ contentType: "place"
 lang: "th"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn เป็นร้านอาหารระดับ MICHELIN Bib Gourmand บน Lebuh Presgrave ใน George Town ปีนัง เสิร์ฟเมนูอาลาคาร์ตเล็ก ๆ ของจานสมัยใหม่ที่หลอมรวมอาหาร Peranakan และมาเลเซีย. สร้างขึ้นรอบครัวเปิดและเคาน์เตอร์ยาว จัดอยู่เป็น Malaysian ($); จานซิกเนเจอร์คืออกเป็ดบ่มในซาลาเปานึ่ง"
 
-summary: "Communal Table by Gēn เป็นร้านอาหารระดับ MICHELIN Bib Gourmand บน Lebuh Presgrave ใน George Town ปีนัง เสิร์ฟเมนูอาลาคาร์ตเล็ก ๆ ของจานสมัยใหม่ที่หลอมรวมอาหาร Peranakan และมาเลเซีย. สร้างขึ้นรอบครัวเปิดและเคาน์เตอร์ยาว จัดอยู่เป็น Malaysian ($$); จานซิกเนเจอร์คืออกเป็ดบ่มในซาลาเปานึ่ง"
-
-answer: "Communal Table by Gēn เป็นร้านอาหารมาเลเซีย-สมัยใหม่ที่ 68 Lebuh Presgrave, George Town, ปีนัง ถือรางวัล MICHELIN Bib Gourmand สำหรับอาหารคุ้มราคา. MICHELIN Guide จัดให้เป็น Malaysian ในพิกัด $$ และบรรยายถึงห้องสบาย ๆ ที่มีครัวเปิด เคาน์เตอร์ยาว และหน้าต่างจากพื้นถึงเพดาน เสิร์ฟเมนูมื้อค่ำอาลาคาร์ตเล็ก ๆ ของจานสมัยใหม่ที่หลอมรวมอาหาร Peranakan และมาเลเซียด้วยวัตถุดิบท้องถิ่น. จานซิกเนเจอร์คืออกเป็ดบ่มในซาลาเปานึ่ง หนังกรอบและมี 'ซอสลับ'"
+answer: "Communal Table by Gēn เป็นร้านอาหารมาเลเซีย-สมัยใหม่ที่ 68 Lebuh Presgrave, George Town, ปีนัง ถือรางวัล MICHELIN Bib Gourmand สำหรับอาหารคุ้มราคา. MICHELIN Guide จัดให้เป็น Malaysian ในพิกัด $ และบรรยายถึงห้องสบาย ๆ ที่มีครัวเปิด เคาน์เตอร์ยาว และหน้าต่างจากพื้นถึงเพดาน เสิร์ฟเมนูมื้อค่ำอาลาคาร์ตเล็ก ๆ ของจานสมัยใหม่ที่หลอมรวมอาหาร Peranakan และมาเลเซียด้วยวัตถุดิบท้องถิ่น. จานซิกเนเจอร์คืออกเป็ดบ่มในซาลาเปานึ่ง หนังกรอบและมี 'ซอสลับ'"
 keyTakeaways:
-  - "Communal Table by Gēn เป็นร้านระดับ MICHELIN Bib Gourmand ใน George Town ปีนัง จัดอยู่เป็น Malaysian ในพิกัด $$"
+  - "Communal Table by Gēn เป็นร้านระดับ MICHELIN Bib Gourmand ใน George Town ปีนัง จัดอยู่เป็น Malaysian ในพิกัด $"
   - "ครัวเสิร์ฟเมนูอาลาคาร์ตเล็ก ๆ ของจานสมัยใหม่ที่ผสาน Peranakan และมาเลเซียด้วยวัตถุดิบท้องถิ่น"
   - "จานซิกเนเจอร์ที่ MICHELIN เลือกคืออกเป็ดบ่มในซาลาเปานึ่ง — หนังกรอบและมี 'ซอสลับ'"
   - "ห้องสร้างขึ้นรอบครัวเปิด เคาน์เตอร์ยาวแบบใช้ร่วมกัน และหน้าต่างจากพื้นถึงเพดาน — ประสบการณ์กินที่เคาน์เตอร์"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "25075c0f69943804"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Aliyaa는 쿠알라룸푸르 Bukit Damansara에 있는 스리랑카 음식점으로, 가성비 좋은 요리로 MICHELIN Guide로부터 Bib Gourmand를 인정받았습니다. MICHELIN Guide는 통째 게, 파인애플 그레이비의 Negombo 새우, kuliyal 등 대표 요리를 소개하며, 매운 정도는 손님의 요청에 따라 조절된다고 전합니다."
 seoTitle: "Aliyaa"
 answer: "Aliyaa는 쿠알라룸푸르 Bukit Damansara의 Plaza Damansara에 있는 스리랑카 음식점으로, MICHELIN Bib Gourmand를 보유하고 있습니다——이는 별이 아니라 좋은 품질을 합리적인 가격에 제공하는 곳에 가이드가 주는 상입니다. MICHELIN Guide는 정통 스리랑카 요리를 칭찬하며 통째 게, 파인애플 그레이비의 Negombo 새우, kuliyal 같은 요리를 소개하고, 주방이 손님 취향에 맞춰 매운맛을 조절한다고 덧붙입니다."
@@ -21,7 +20,7 @@ keyTakeaways:
   - "Aliyaa는 현행 MICHELIN Guide Kuala Lumpur & Penang 셀렉션에서 MICHELIN Bib Gourmand를 보유하고 있습니다——이는 별이 아니라 가이드의 '좋은 품질, 합리적 가격' 상입니다."
   - "MICHELIN Guide는 이곳이 쿠알라룸푸르 외식가에서 비교적 드문 요리인 정통 스리랑카 요리를 낸다고 설명합니다."
   - "MICHELIN Guide는 통째 게, 파인애플 그레이비의 Negombo 새우, kuliyal(바나나 잎에 구운 밥) 등 대표 요리를 소개합니다."
-  - "Bukit Damansara의 Plaza Damansara에 있으며 $$ 가격대이고, 주방은 요청에 따라 매운 정도를 조절합니다."
+  - "Bukit Damansara의 Plaza Damansara에 있으며 $ 가격대이고, 주방은 요청에 따라 매운 정도를 조절합니다."
   - "Bib Gourmand 셀렉션은 매년 개정되며, 음식점의 영업시간, 가격, 메뉴는 바뀔 수 있습니다."
 faq:
   - q: "Aliyaa는 어떤 음식을 내나요?"
@@ -29,7 +28,7 @@ faq:
   - q: "Aliyaa에 MICHELIN 별이 있나요?"
     a: "없습니다. 1성·2성·3성 등급이 아니라, 좋은 품질을 합리적인 가격에 제공하는 곳에 MICHELIN Guide가 주는 Bib Gourmand를 보유하고 있습니다. 둘은 별개의 MICHELIN 영예입니다."
   - q: "Aliyaa는 어디에 있나요?"
-    a: "MICHELIN Guide는 주소를 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur로, $$ 가격대로 안내합니다. 현재 영업시간과 예약 정책은 직접 확인하세요."
+    a: "MICHELIN Guide는 주소를 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur로, $ 가격대로 안내합니다. 현재 영업시간과 예약 정책은 직접 확인하세요."
 keywords:
   - "Aliyaa"
   - "Sri Lankan restaurant Kuala Lumpur"

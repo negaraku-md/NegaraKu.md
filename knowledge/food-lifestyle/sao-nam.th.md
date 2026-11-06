@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "ทีมครัวชาวเวียดนามปรุงอาหารจากทั่วเวียดนาม โดย MICHELIN Guide ระบุว่ามีอิทธิพลฝรั่งเศสที่ชัดเจนบางส่วน"
   - "phở bò (ก๋วยเตี๋ยวเนื้อ) อันเป็นเอกลักษณ์สร้างบนน้ำซุปที่เคี่ยวนานกว่า 10 ชั่วโมง"
   - "สลัดมังคุดกุ้งเป็นไฮไลต์ คู่มือชื่นชมเรื่องรสชาติจัดจ้านและเนื้อสัมผัสที่ตัดกัน"
-  - "ตั้งอยู่ที่ 25 Tengkat Tong Shin, Bukit Bintang ในช่วงราคา $$ และถูกระบุว่าเหมาะกับครอบครัว"
+  - "ตั้งอยู่ที่ 25 Tengkat Tong Shin, Bukit Bintang ในช่วงราคา $ และถูกระบุว่าเหมาะกับครอบครัว"
 faq:
   - q: "เมนูที่ต้องลองที่ Sao Nam คืออะไร?"
     a: "MICHELIN Guide เน้นสองอย่าง phở bò (ก๋วยเตี๋ยวเนื้อ) คือเมนูสัญลักษณ์ ที่น้ำซุปใช้เวลาเตรียมนานกว่า 10 ชั่วโมง สลัดมังคุดกุ้งเป็นอีกหนึ่งความโดดเด่น ที่ถูกบรรยายว่ากระตุ้นต่อมรับรสด้วยรสชาติจัดจ้านและเนื้อสัมผัสที่ตัดกัน"
   - q: "Sao Nam มี MICHELIN Star หรือไม่?"
     a: "ไม่มี Sao Nam ได้รับ Bib Gourmand ซึ่งเป็นเกียรติแยกต่างหากของ MICHELIN สำหรับอาหารคุณภาพดีในราคาคุ้มค่า ไม่ใช่ Star ทั้งสองรางวัลมอบให้โดยอิสระจากกัน"
   - q: "Sao Nam อยู่ที่ไหนและเหมาะกับครอบครัวหรือไม่?"
-    a: "ตั้งอยู่ที่ 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 มีหน้าร้านสีเหลืองและภายในสีสันสดใส MICHELIN Guide ระบุว่าเหมาะกับครอบครัว และจัดอยู่ในช่วงราคา $$"
+    a: "ตั้งอยู่ที่ 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 มีหน้าร้านสีเหลืองและภายในสีสันสดใส MICHELIN Guide ระบุว่าเหมาะกับครอบครัว และจัดอยู่ในช่วงราคา $"
 
 updated: 2026-11-06
 sources:

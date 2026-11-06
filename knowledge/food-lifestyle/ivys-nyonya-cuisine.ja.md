@@ -9,17 +9,16 @@ contentType: "place"
 lang: "ja"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisineは、ペナンのGeorge TownにあるMICHELIN Bib Gourmandのプラナカン料理店で、夫婦が15年以上営んできた——Ivyが厨房に、夫が接客に立つ。Guideはこれをプラナカン（$）として掲載し、Kapitan chicken curryやJoo Hoo Charといった一番人気のニョニャ料理のシェア用セットメニューへと導く。"
 
-summary: "Ivy's Nyonya Cuisineは、ペナンのGeorge TownにあるMICHELIN Bib Gourmandのプラナカン料理店で、夫婦が15年以上営んできた——Ivyが厨房に、夫が接客に立つ。Guideはこれをプラナカン（$$）として掲載し、Kapitan chicken curryやJoo Hoo Charといった一番人気のニョニャ料理のシェア用セットメニューへと導く。"
-
-answer: "Ivy's Nyonya Cuisineは、ペナンのGeorge Town、100-104 Jalan Kedahにあるプラナカン料理店で、コストパフォーマンスのよい料理に対するMICHELIN Bib Gourmandを保持している。MICHELIN Guideはこれを$$の価格帯のプラナカンとして掲載し、15年以上にわたり夫婦が営み、Ivyが厨房に、夫が接客に立つと記す。一番人気の料理を集めたシェア用のセットメニューを供し、そこにはKapitan chicken curryや、チリペーストで和えた混ぜ野菜炒めのJoo Hoo Charが含まれる。"
+answer: "Ivy's Nyonya Cuisineは、ペナンのGeorge Town、100-104 Jalan Kedahにあるプラナカン料理店で、コストパフォーマンスのよい料理に対するMICHELIN Bib Gourmandを保持している。MICHELIN Guideはこれを$の価格帯のプラナカンとして掲載し、15年以上にわたり夫婦が営み、Ivyが厨房に、夫が接客に立つと記す。一番人気の料理を集めたシェア用のセットメニューを供し、そこにはKapitan chicken curryや、チリペーストで和えた混ぜ野菜炒めのJoo Hoo Charが含まれる。"
 keyTakeaways:
-  - "Ivy's Nyonya Cuisineは、ペナンのGeorge TownにあるMICHELIN Bib Gourmandのプラナカン料理店で、$$の価格帯にある。"
+  - "Ivy's Nyonya Cuisineは、ペナンのGeorge TownにあるMICHELIN Bib Gourmandのプラナカン料理店で、$の価格帯にある。"
   - "15年以上にわたり夫婦が営んでいる——Ivyが厨房を率い、夫が接客に立つ。"
   - "MICHELINはKapitan chicken curryと、Joo Hoo Char（チリペーストで和えた辛い混ぜ野菜炒め）を取り上げる。"
   - "Guideは、店の一番人気のニョニャ料理を軸に組んだシェア用のセットメニューを薦める。"

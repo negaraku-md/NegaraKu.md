@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) कुआलालंपुर के पुराने शहर में Jalan Sultan पर एक पुरानी हैनानी चिकन राइस की दुकान है, जो 1938 से चल रही है और MICHELIN Guide का Bib Gourmand धारण करती है। ग्राहक कम चर्बी वाली 'सब्ज़ी फ़ार्म' मुर्गी और ज़्यादा चर्बी वाली देसी मुर्गी के बीच चुनते हैं, जिसमें roast pork belly (सूअर का भुना पेट-मांस) और Ipoh bean sprouts लोकप्रिय साथ-व्यंजन हैं। यह प्रोफ़ाइल इसके खाने, माहौल और वहाँ जाने के तरीके को शामिल करती है।"
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice (City Centre) कुआलालंपुर के Jalan Sultan पर एक हैनानी चिकन राइस की दुकान है, जो 1938 से चल रही है और किफ़ायती बेहतरीन खाने के लिए MICHELIN Guide के Bib Gourmand से मान्यता-प्राप्त है। यह दो तरह की मुर्गी पेश करती है — कम चर्बी वाली 'सब्ज़ी फ़ार्म' मुर्गी और ज़्यादा चर्बी वाली देसी मुर्गी — साथ ही बिकने वाला roast pork belly (सूअर का भुना पेट-मांस) और कुरकुरे Ipoh bean sprouts। यह पुराने शहर में एक सादा, सस्ता $ ठिकाना है, रोज़ खुलता है और अपनी बुकिंग खुद संभालता है।"

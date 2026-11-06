@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian مطعمٌ كانتوني في Jalan Yew بحي Pudu في كوالالمبور، حائزٌ على Bib Gourmand من MICHELIN Guide ويقدّم claypot rice المطهوّ على الفحم منذ عام 1986. يحمل وسم 'Worth Queueing For'، وهو مفضَّلٌ لدى السكان المحليين لـ claypot rice المغطّى باللحم المُقدَّد أو فخذ الدجاج أو السمك المملّح، إلى جانب الحساء والوجبات الخفيفة. يتناول هذا الملف الطعام والأجواء وكيفية الزيارة."
 seoTitle: "Foong Lian، كوالالمبور"
 answer: "Foong Lian مطعمٌ كانتوني في Jalan Yew بحي Pudu في كوالالمبور، نال تقدير Bib Gourmand من MICHELIN Guide لطهيٍ بقيمةٍ جيدة. يقدّم claypot rice المطهوّ على الفحم منذ عام 1986، مع ضبط الحرارة بعناية، مغطّى بخيارات مثل نقانق لحم الخنزير-والكبد المُقدَّدة أو فخذ الدجاج أو السمك المملّح، إلى جانب الحساء ووجبات خفيفة مثل لفائف جلد التوفو. وهو مكانٌ $ رخيص، يحمل وسم 'Worth Queueing For'، ويتولى حجوزاته بنفسه."

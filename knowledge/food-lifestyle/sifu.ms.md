@@ -9,7 +9,7 @@ lang: "ms"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu ialah sebuah restoran Peranakan MICHELIN Bib Gourmand di Jalan Pintal Tali, George Town, Pulau Pinang. Dapurnya diterajui oleh seorang tukang masak rumah dalam lingkungan 70-an dengan pengalaman berdekad-dekad, dan menunya yang mempunyai kira-kira 40 item merangkumi hidangan klasik masakan Nyonya tradisional — antaranya asam prawn yang kenyal dalam sos masam manis yang kaya dengan asam jawa."
-answer: "Sifu ialah sebuah restoran Peranakan MICHELIN Bib Gourmand di 154 Jalan Pintal Tali, George Town, Pulau Pinang. Dapurnya diterajui oleh seorang wanita dalam lingkungan 70-an yang telah memasak berdekad-dekad lamanya, dan menunya menawarkan kira-kira 40 hidangan klasik à la carte masakan Peranakan (Nyonya) tradisional. Hidangan istimewanya termasuk asam prawn yang kenyal dalam sos masam manis yang gelap dan kaya asam jawa serta mang kuang char, sengkuang parut yang ditumis dengan sotong kering dan cendawan. MICHELIN meletakkannya dalam julat harga $$."
+answer: "Sifu ialah sebuah restoran Peranakan MICHELIN Bib Gourmand di 154 Jalan Pintal Tali, George Town, Pulau Pinang. Dapurnya diterajui oleh seorang wanita dalam lingkungan 70-an yang telah memasak berdekad-dekad lamanya, dan menunya menawarkan kira-kira 40 hidangan klasik à la carte masakan Peranakan (Nyonya) tradisional. Hidangan istimewanya termasuk asam prawn yang kenyal dalam sos masam manis yang gelap dan kaya asam jawa serta mang kuang char, sengkuang parut yang ditumis dengan sotong kering dan cendawan. MICHELIN meletakkannya dalam julat harga $."
 keyTakeaways:
   - "Sifu memegang MICHELIN Bib Gourmand untuk masakan berkualiti baik dan berbaloi."
-  - "Ia sebuah restoran Peranakan (Nyonya) di 154 Jalan Pintal Tali, George Town, Pulau Pinang, dalam julat harga MICHELIN $$."
+  - "Ia sebuah restoran Peranakan (Nyonya) di 154 Jalan Pintal Tali, George Town, Pulau Pinang, dalam julat harga MICHELIN $."
   - "Dapurnya diterajui oleh seorang tukang masak rumah dalam lingkungan 70-an dengan pengalaman berdekad-dekad, menawarkan kira-kira 40 hidangan klasik à la carte."
   - "Hidangan istimewa termasuk asam prawn yang kenyal dalam sos masam manis yang kaya asam jawa serta mang kuang char (sengkuang parut dengan sotong kering dan cendawan)."
   - "MICHELIN menyatakan tempahan tidak tersedia melalui laman webnya, jadi rancang sewajarnya."

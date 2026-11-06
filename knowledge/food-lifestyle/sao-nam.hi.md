@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "एक वियतनामी रसोई टीम पूरे वियतनाम के व्यंजन बनाती है, और MICHELIN Guide कुछ मज़बूत फ़्रेंच प्रभावों का उल्लेख करता है।"
   - "इसका ख़ास phở bò (गोमांस नूडल सूप) 10 घंटे से अधिक उबाले गए शोरबे पर आधारित है।"
   - "मैंगोस्टीन-झींगा सलाद एक मुख्य आकर्षण है, जिसकी गाइड ने बड़े स्वादों और विपरीत बनावटों के लिए सराहना की है।"
-  - "यह 25 Tengkat Tong Shin, Bukit Bintang पर, $$ मूल्य-श्रेणी में है, और परिवार-अनुकूल के रूप में चिह्नित है।"
+  - "यह 25 Tengkat Tong Shin, Bukit Bintang पर, $ मूल्य-श्रेणी में है, और परिवार-अनुकूल के रूप में चिह्नित है।"
 faq:
   - q: "Sao Nam में अवश्य आज़माने योग्य व्यंजन कौन-से हैं?"
     a: "MICHELIN Guide दो को उजागर करता है। phở bò (गोमांस नूडल सूप) प्रतिष्ठित ऑर्डर है, जिसका शोरबा तैयार होने में 10 घंटे से अधिक लगते हैं। मैंगोस्टीन-झींगा सलाद दूसरा ख़ास व्यंजन है, जिसे बड़े स्वादों और विपरीत बनावटों से स्वाद-कलिकाओं को लुभाने वाला बताया गया है।"
   - q: "क्या Sao Nam के पास MICHELIN Star है?"
     a: "नहीं। Sao Nam के पास Bib Gourmand है, जो अच्छी गुणवत्ता का खाना किफ़ायती दाम पर देने के लिए MICHELIN का एक अलग सम्मान है। यह Star नहीं है; दोनों पुरस्कार स्वतंत्र रूप से दिए जाते हैं।"
   - q: "Sao Nam कहाँ है और क्या यह परिवारों के लिए उपयुक्त है?"
-    a: "यह 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 पर है, जिसका मुख पीला और भीतरी भाग रंगीन है। MICHELIN Guide इसे परिवार-अनुकूल के रूप में चिह्नित करता है और $$ मूल्य-श्रेणी में रखता है।"
+    a: "यह 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 पर है, जिसका मुख पीला और भीतरी भाग रंगीन है। MICHELIN Guide इसे परिवार-अनुकूल के रूप में चिह्नित करता है और $ मूल्य-श्रेणी में रखता है।"
 
 updated: 2026-11-06
 sources:

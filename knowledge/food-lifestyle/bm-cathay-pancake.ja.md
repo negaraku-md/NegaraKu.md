@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake はペナン本土側スベラン・プライのブキットメルタジャムにある MICHELIN Bib Gourmand の屋台カートです。1962 年以来、たった一品 — apam balik、砂糖とピーナッツを詰めた炭火焼きのパンケーキで、外は香ばしく中はもっちり — だけを売り、ピーク時には行列ができます。"
 seoTitle: "BM Cathay Pancake：ペナン Bib Gourmand apam balik"
 answer: "BM Cathay Pancake はペナン本土側スベラン・プライのブキットメルタジャム、Jalan Aston の Cathay Food Court の隣にある Bib Gourmand の屋台カートです。1962 年以来、一品だけを提供します。apam balik、砂糖とピーナッツを詰めた炭火焼きのパンケーキで、外は香ばしく中はもっちり、注文を受けて作ります。現金のみで、並ぶ価値があります。"

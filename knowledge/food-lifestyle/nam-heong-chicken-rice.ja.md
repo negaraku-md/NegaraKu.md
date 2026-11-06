@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice（City Centre）はクアラルンプールの旧市街、Jalan Sultan にある老舗の海南鶏飯店で、1938年から営業し、MICHELIN Guide の Bib Gourmand を獲得しています。客は赤身寄りの「野菜農場」鶏と脂の乗った地鶏を選べ、roast pork belly（豚バラのロースト）や Ipoh bean sprouts が人気の付け合わせです。本稿では、その料理、空間、そして訪れ方を紹介します。"
 seoTitle: "Nam Heong Chicken Rice、KL"
 answer: "Nam Heong Chicken Rice（City Centre）はクアラルンプールの Jalan Sultan にある海南鶏飯店で、1938年から営業し、コストパフォーマンスの高い料理に対して MICHELIN Guide の Bib Gourmand を獲得しています。鶏は二種類——赤身寄りの「野菜農場」鶏と、脂の乗った地鶏——から選べ、人気の roast pork belly（豚バラのロースト）や歯ごたえのある Ipoh bean sprouts も並びます。旧市街にあるシンプルで安価な $ の店で、毎日営業し、予約は店が直接受け付けています。"

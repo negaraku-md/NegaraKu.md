@@ -18,7 +18,7 @@ keyTakeaways:
   - "La MICHELIN Guide clasifica su cocina como malasia y contemporánea, servida como un menú fijo de temporada."
   - "MICHELIN describe al chef reelaborando recetas europeas con influencias japonesas, francesas y malasias, a partir del tiempo que pasó en Japón y Francia."
   - "El restaurante está en Taman Tun Dr Ismail (TTDI), Kuala Lumpur, con un comedor íntimo y cocina abierta."
-  - "La MICHELIN Guide lo sitúa en la banda de precios $$$ y lo señala como bueno para comer en solitario."
+  - "La MICHELIN Guide lo sitúa en la banda de precios $$ y lo señala como bueno para comer en solitario."
 appliesTo: "Viajeros, entusiastas de la gastronomía y comensales que investigan la alta cocina de Malasia reconocida por MICHELIN en Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

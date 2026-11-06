@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee es un puesto de comida callejera en Pudu, Kuala Lumpur, con un Bib Gourmand de la MICHELIN Guide y famoso por su siew yok — cerdo asado de piel crujiente y carne jugosa. Abre solo unas horas al mediodía y está etiquetado como 'Worth Queueing For', y atrae a quienes llegan temprano para la tanda del mediodía. Este perfil cubre el cerdo asado, la cola y cómo visitarlo."
 seoTitle: "Wong Mei Kee, Kuala Lumpur"
 answer: "Wong Mei Kee es un puesto de comida callejera en Pudu, Kuala Lumpur, reconocido con un Bib Gourmand de la MICHELIN Guide y famoso por su siew yok — cerdo asado de piel crujiente y carne jugosa. Abre solo unas horas al mediodía, está etiquetado como 'Worth Queueing For', y MICHELIN aconseja llegar temprano y esperar a que el cerdo salga del horno al mediodía en punto. Es un puesto $ económico y gestiona sus propias reservas."

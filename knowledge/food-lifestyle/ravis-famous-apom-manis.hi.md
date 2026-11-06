@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "96389253edf1ad12"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ravi's Famous Apom Manis, George Town, पेनांग का एक पुराना स्ट्रीट-फूड स्टॉल है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है और apom manis में विशेषज्ञ है — नारियल और चावल-आटे का एक मीठा, झालरदार पैनकेक। पेनांग शैली में सुगंध बढ़ाने के लिए घोल में अंडा डाला जाता है; यह स्टॉल लगभग एक सदी से चल रहा है और अक्सर सुबह ही बिक जाता है।"
 seoTitle: "Ravi's Famous Apom Manis, पेनांग (Bib)"
 answer: "Ravi's Famous Apom Manis, George Town, पेनांग के Jalan Burma पर एक Bib Gourmand स्ट्रीट-फूड स्टॉल है। यह apom manis में विशेषज्ञ है — चावल-आटे और नारियल का एक मीठा पैनकेक, जिसका बीच नरम और किनारे कुरकुरे होते हैं, पेनांग शैली में सुगंध के लिए अंडा मिलाया जाता है। यह पारिवारिक स्टॉल 20वीं सदी के आरंभ का है और आमतौर पर देर सुबह तक बिक जाता है।"

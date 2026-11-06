@@ -18,7 +18,7 @@ keyTakeaways:
   - "또한 이 가이드의 지속가능성 영예인 MICHELIN Green Star를 지니고 있으며, 말레이시아 레스토랑에 처음 수여된 것으로 보도되었습니다."
   - "MICHELIN Guide는 그 요리를 말레이시아 및 컨템포러리로 분류하며, 현지·토착·고유 식재료를 중심으로 테이스팅 메뉴 형식으로 구성합니다."
   - "레스토랑은 셰프 Darren Teoh가 이끌며, KLCC 일대 Platinum Park의 Naza Tower 48층에 자리합니다."
-  - "MICHELIN Guide는 최고($$$$) 가격대로 분류하며, 예약을 레스토랑이 직접 관리하는 파인다이닝 목적지입니다."
+  - "MICHELIN Guide는 최고($$) 가격대로 분류하며, 예약을 레스토랑이 직접 관리하는 파인다이닝 목적지입니다."
 appliesTo: "쿠알라룸푸르에서 MICHELIN의 인정을 받은 말레이시아 파인다이닝을 알아보는 여행자, 미식 애호가, 그리고 식도락가."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

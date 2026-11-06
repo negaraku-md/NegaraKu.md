@@ -9,7 +9,7 @@ lang: "th"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee เป็นแผงอาหารริมทางที่เปิดตอนกลางคืนบนถนน Jalan Burma ใน George Town รัฐ Penang ซึ่งได้รับ MICHELIN Bib Gourmand เป็นที่โปรดปรานมากว่า 30 ปี มีชื่อเสียงด้าน Hokkien prawn mee และ loh mee ที่สร้างขึ้นบนน้ำซุปกุ้งสีแดงรสอูมามิเข้มข้นซึ่งต้มจากกระดูกหมูและเปลือกกุ้ง พร้อมเครื่องท็อปปิ้งให้เลือกราวสิบสองอย่าง"
 answer: "Green House Prawn Mee and Loh Mee เป็นแผงอาหารริมทาง MICHELIN Bib Gourmand บนถนน Jalan Burma ใน George Town รัฐ Penang ตั้งอยู่ภายใน Restoran Old Green House และเป็นที่โปรดปรานมากว่า 30 ปีจาก Hokkien prawn mee และ loh mee น้ำซุปกุ้งสีแดงซิกเนเจอร์ทำจากกระดูกหมูและเปลือกกุ้งเพื่อรสอูมามิที่ลึกล้ำ และมีเครื่องท็อปปิ้งเพิ่มเติมราวสิบสองอย่าง เปิดตอนกลางคืนและรับเฉพาะเงินสด"

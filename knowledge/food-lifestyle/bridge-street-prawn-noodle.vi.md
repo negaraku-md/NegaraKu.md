@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle là một quầy ẩm thực đường phố MICHELIN Bib Gourmand trên Lebuh Pantai ở George Town, Penang, nổi tiếng với prawn mee: mì vàng hoặc mì gạo trong nước dùng tôm cay đậm đà hương vị, kèm các món thêm như sườn heo kho và chả cá viên."
 seoTitle: "Bridge Street Prawn Noodle: Bib Gourmand Penang"
 answer: "Bridge Street Prawn Noodle là một quầy ẩm thực đường phố Bib Gourmand tại 533 Lebuh Pantai, George Town, Penang. Món đặc trưng là prawn mee (mì tôm nước): thực khách chọn mì vàng hoặc mì gạo trong nước dùng tôm cay ngập hương vị đậm đà, và có thể thêm sườn heo kho hoặc chả cá viên. Quầy chỉ nhận tiền mặt và thu hút người xếp hàng kể từ khi được MICHELIN công nhận."

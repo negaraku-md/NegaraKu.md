@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara เป็นร้านอาหารไทยระดับ MICHELIN Bib Gourmand ในจอร์จทาวน์ ปีนัง เสิร์ฟอาหารไทยแบบบ้าน ๆ ที่เป็นของแท้และอาหารทะเลสดในห้องรับประทานอาหารเพดานสูงโทนสีเขียว เมนู tom yum หลากหลายแบบและของว่างเรียกน้ำย่อย miang kam คือจานที่ผู้ตรวจระดับดาวเลือกชี้ พร้อมปริมาณที่ใจกว้างในราคาเป็นมิตร"
 seoTitle: "Thara: Bib Gourmand อาหารไทย จอร์จทาวน์ ปีนัง"
 answer: "Thara เป็นร้านอาหารไทยที่ 5 Lorong Prangin ในจอร์จทาวน์ ปีนัง ได้รับการยกย่องด้วย MICHELIN Bib Gourmand สำหรับอาหารดีในราคาคุ้มค่า เชฟมีประสบการณ์กว่า 15 ปีในการทำอาหารของแท้จากบ้านเกิด โดยเน้นอาหารทะเลสด ผู้ตรวจของ MICHELIN เน้นเมนู tom yum หลากหลายแบบและของว่างเรียกน้ำย่อย miang kam"
@@ -25,7 +24,7 @@ keyTakeaways:
   - "ตั้งอยู่ที่ 5 Lorong Prangin ในจอร์จทาวน์ ให้ปริมาณที่ใจกว้างในราคาเป็นมิตร"
 faq:
   - q: "Thara อยู่ที่ไหนและเสิร์ฟอาหารแบบใด?"
-    a: "Thara อยู่ที่ 5 Lorong Prangin, George Town, 10100, ปีนัง เสิร์ฟอาหารไทยของแท้โดยเน้นอาหารทะเลสด และถูกจัดอยู่ในระดับราคาปานกลาง ($$) โดย MICHELIN Guide"
+    a: "Thara อยู่ที่ 5 Lorong Prangin, George Town, 10100, ปีนัง เสิร์ฟอาหารไทยของแท้โดยเน้นอาหารทะเลสด และถูกจัดอยู่ในระดับราคาปานกลาง ($) โดย MICHELIN Guide"
   - q: "ควรสั่งอะไรที่ Thara?"
     a: "MICHELIN Guide ชี้ไปที่เมนู tom yum หลากหลายแบบของร้านที่ทำจากอาหารทะเลต่างชนิดกัน และระบุว่าของว่างเรียกน้ำย่อย miang kam ซึ่งทำจากใบชะพลูสดและซอส miang kam รสหวาน เป็นเมนูที่ต้องลอง"
   - q: "Thara มีดาว MICHELIN หรือไม่?"

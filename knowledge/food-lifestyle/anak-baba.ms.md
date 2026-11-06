@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba ialah sebuah gerai makan Peranakan di Brickfields, Kuala Lumpur, yang diiktiraf oleh MICHELIN Guide dengan Bib Gourmand bagi masakan berbaloi. Dibuka sejak 2018, ia menghidangkan makanan Peranakan Selatan yang menggabungkan cita rasa Indo-Malay dengan pengaruh Cina; hidangan tumpuannya ialah nasi lemak dengan ayam goreng kunyit."
 seoTitle: "Anak Baba"
 answer: "Anak Baba ialah sebuah restoran Peranakan di Brickfields, Kuala Lumpur, yang memegang MICHELIN Bib Gourmand — anugerah Guide untuk kualiti baik pada harga berbaloi, bukan bintang. Dibuka sejak 2018, ia menghidangkan masakan Peranakan Selatan yang menggabungkan cita rasa Indo-Malay dengan pengaruh Cina, dan MICHELIN Guide menonjolkan nasi lemak dengan ayam goreng kunyit (ayam goreng berkunyit). Ia berada dalam julat harga paling rendah ($) dalam Guide."

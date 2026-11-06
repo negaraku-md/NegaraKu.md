@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee เป็นแผงอาหารริมทางใน Pudu กัวลาลัมเปอร์ ที่ได้รับ Bib Gourmand จาก MICHELIN Guide และโด่งดังเรื่อง siew yok — หมูย่างหนังกรอบและเนื้อฉ่ำ เปิดเพียงไม่กี่ชั่วโมงในช่วงกลางวันและติดป้าย 'Worth Queueing For' ดึงดูดผู้คนที่มาแต่เช้าเพื่อรอชุดที่ออกตอนเที่ยง บทความนี้ครอบคลุมหมูย่าง การต่อคิว และวิธีไปเยือน"
 seoTitle: "Wong Mei Kee, กัวลาลัมเปอร์"
 answer: "Wong Mei Kee เป็นแผงอาหารริมทางใน Pudu กัวลาลัมเปอร์ ได้รับการยกย่องด้วย Bib Gourmand จาก MICHELIN Guide และโด่งดังเรื่อง siew yok — หมูย่างหนังกรอบและเนื้อฉ่ำ เปิดเพียงไม่กี่ชั่วโมงในช่วงกลางวัน ติดป้าย 'Worth Queueing For' และ MICHELIN แนะนำให้มาแต่เช้าและรอหมูย่างออกจากเตาตอนเที่ยงตรง เป็นแผง $ ราคาย่อมเยาและรับจองด้วยตนเอง"

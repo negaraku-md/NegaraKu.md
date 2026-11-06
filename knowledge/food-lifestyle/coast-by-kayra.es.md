@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra es un restaurante indio en The Starhill, en Bukit Bintang, Kuala Lumpur, incluido en la MICHELIN Guide con un Bib Gourmand por su buena comida a buen precio. Establecimiento hermano de Kayra, mantiene una filosofía del mar al plato y reinventa los platos tradicionales de Kerala con pescado, marisco y productos de origen local. Su plato estrella es un curry de pescado de Kerala basado en una receta familiar, realzado con mango verde y yogur. Se sitúa en la franja de precio $$ y es apto para familias."
+answer: "Coast by Kayra es un restaurante indio en The Starhill, en Bukit Bintang, Kuala Lumpur, incluido en la MICHELIN Guide con un Bib Gourmand por su buena comida a buen precio. Establecimiento hermano de Kayra, mantiene una filosofía del mar al plato y reinventa los platos tradicionales de Kerala con pescado, marisco y productos de origen local. Su plato estrella es un curry de pescado de Kerala basado en una receta familiar, realzado con mango verde y yogur. Se sitúa en la franja de precio $ y es apto para familias."
 keyTakeaways:
   - "Coast by Kayra tiene un Bib Gourmand de la MICHELIN Guide —el galardón a la buena calidad a buen precio— en Kuala Lumpur."
   - "Es el establecimiento hermano de Kayra y sigue una filosofía del mar al plato, reinventando los platos tradicionales de Kerala."
   - "Su plato estrella es un curry de pescado de Kerala basado en una receta familiar, con acidez aportada por mango verde y yogur."
   - "El pescado, el marisco y los productos son de origen local, para apoyar a pequeñas granjas y pescadores."
-  - "Está en The Starhill, en Jalan Bukit Bintang, en la franja de precio $$, con una decoración turquesa de temática oceánica."
+  - "Está en The Starhill, en Jalan Bukit Bintang, en la franja de precio $, con una decoración turquesa de temática oceánica."
 appliesTo: "Viajeros y comensales que buscan cocina de Kerala y pescado y marisco del sur de la India asequibles y reconocidos por MICHELIN en Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

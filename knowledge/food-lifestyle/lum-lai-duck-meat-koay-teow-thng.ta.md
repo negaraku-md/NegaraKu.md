@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng என்பது பினாங்கின் ஜார்ஜ் டவுனில் உள்ள Cecil Street Market (Pasar Lebuh Cecil)-இல் அமைந்த ஒரு MICHELIN Bib Gourmand தெரு உணவு அங்காடி; வாத்து koay teow th'ng-க்காகப் புகழ்பெற்றது: மணிக்கணக்கில் மெதுவாகக் கொதிக்கவைத்த, வாத்து–பன்றி சத்துள்ள சூப்பில் தட்டையான அரிசி நூடுல்ஸ். 1970-களின் பிற்பகுதியில் Lau Lum Lai ஆல் தொடங்கப்பட்டது; இப்போது அவரது மகனும் மருமகளும் நடத்துகின்றனர்."
 seoTitle: "Lum Lai வாத்து Koay Teow Thng: பினாங்கு Bib Gourmand"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng என்பது பினாங்கின் ஜார்ஜ் டவுனில் Cecil Street Market (Pasar Lebuh Cecil)-இல் அமைந்த ஒரு Bib Gourmand தெரு உணவு அங்காடி. இதன் சிறப்பு வாத்து koay teow th'ng: வாத்து, பன்றி, மீன் கேக்கால் தயாரித்த, தெளிவான, உமாமி நிறைந்த சூப்பில் தட்டையான அரிசி நூடுல்ஸ், வறுத்த பூண்டு மற்றும் வெங்காயத்தால் முடிக்கப்படுகிறது. இந்தக் குடும்பம் 40 ஆண்டுகளுக்கும் மேலாக அதே முறையில் அதைச் சமைத்து வருகிறது; உச்ச நேரங்களில் வரிசை சாதாரணம்."

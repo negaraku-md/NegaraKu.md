@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Ia mangkuk mi makanan laut bina-sendiri: pilih ikan, kerang atau kedua-duanya, kemudian satu daripada lapan jenis mi dan lima jenis sup asas."
   - "MICHELIN Guide menyatakan hanya hasil tangkapan paling segar sampai ke meja kerana pemiliknya juga menjalankan gerai makanan laut berdekatan."
   - "Jika menu terasa membingungkan, kegemaran rumah ialah mi makanan laut campur dan sup mi kepala ikan dengan susu."
-  - "Ia terletak di 44 Jalan Kaskas 2, Taman Cheras, dibuka waktu siang (8 pagi-5 petang), dalam lingkungan harga $$."
+  - "Ia terletak di 44 Jalan Kaskas 2, Taman Cheras, dibuka waktu siang (8 pagi-5 petang), dalam lingkungan harga $."
 faq:
   - q: "Apa yang patut saya pesan di Hai Kah Lang?"
     a: "MICHELIN Guide mengesyorkan dua gabungan popular jika menu penuh terasa sukar dilayari: mi makanan laut campur, dan sup mi kepala ikan dengan susu. Jika tidak, anda boleh membina mangkuk sendiri dengan memilih makanan laut anda, kemudian memilih antara lapan jenis mi dan lima jenis sup asas yang ditawarkan."
   - q: "Mengapa makanan lautnya dianggap begitu segar?"
     a: "MICHELIN Guide menjelaskan bahawa pemiliknya juga menjalankan gerai makanan laut berdekatan, jadi hanya hasil tangkapan paling segar yang sampai ke menu. Restoran ini digambarkan sentiasa penuh dengan pelanggan yang mengidam mi makanan laut."
   - q: "Di mana Hai Kah Lang dan bila ia dibuka?"
-    a: "Ia terletak di 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, dan MICHELIN Guide menyenaraikan waktu operasi 8 pagi hingga 5 petang setiap hari. Ia berada dalam lingkungan harga $$, berhawa dingin dan menerima kad kredit."
+    a: "Ia terletak di 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, dan MICHELIN Guide menyenaraikan waktu operasi 8 pagi hingga 5 petang setiap hari. Ia berada dalam lingkungan harga $, berhawa dingin dan menerima kad kredit."
 
 updated: 2026-11-06
 sources:

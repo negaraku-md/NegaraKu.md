@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Un equipo de cocina vietnamita prepara platos de todo Vietnam, y la MICHELIN Guide señala algunas influencias francesas marcadas."
   - "Su phở bò (sopa de fideos con ternera) característico se levanta sobre un caldo que se cuece más de 10 horas."
   - "La ensalada de mangostán y gambas es un plato destacado, elogiado por la guía por sus sabores grandes y texturas contrastadas."
-  - "Está en 25 Tengkat Tong Shin, Bukit Bintang, en la franja de precio $$, y se señala como apto para familias."
+  - "Está en 25 Tengkat Tong Shin, Bukit Bintang, en la franja de precio $, y se señala como apto para familias."
 faq:
   - q: "¿Cuáles son los platos imprescindibles en Sao Nam?"
     a: "La MICHELIN Guide destaca dos. El phở bò (sopa de fideos con ternera) es el pedido icónico, con un caldo que lleva más de 10 horas de preparación. La ensalada de mangostán y gambas es el otro plato destacado, descrito como un estímulo para el paladar por sus sabores grandes y texturas contrastadas."
   - q: "¿Tiene Sao Nam una MICHELIN Star?"
     a: "No. Sao Nam tiene un Bib Gourmand, una distinción MICHELIN aparte para la cocina de buena calidad a buen precio. No es una Star; ambos reconocimientos se otorgan de forma independiente."
   - q: "¿Dónde está Sao Nam y es adecuado para familias?"
-    a: "Está en 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, con una fachada amarilla y un interior colorido. La MICHELIN Guide lo señala como apto para familias y lo sitúa en la franja de precio $$."
+    a: "Está en 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, con una fachada amarilla y un interior colorido. La MICHELIN Guide lo señala como apto para familias y lo sitúa en la franja de precio $."
 
 updated: 2026-11-06
 sources:

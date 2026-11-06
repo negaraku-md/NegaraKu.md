@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide phân loại ẩm thực của nhà hàng là Pháp Đương đại, với ảnh hưởng toàn cầu và điểm nhấn Malaysia."
   - "Theo đưa tin thứ cấp, đây là một trong những nhà hàng đầu tiên nhận MICHELIN Star trong cẩm nang Malaysia khai mạc và đã giữ kể từ đó."
   - "Nhà hàng nằm ở Taman Tun Dr Ismail (TTDI), Kuala Lumpur, trải trên ba tầng với các quầy bar, phòng ăn và một phòng riêng theo chủ đề Louis XIII."
-  - "MICHELIN Guide xếp nhà hàng vào nhóm giá cao nhất ($$$$) và lưu ý về một xe đẩy phô mai Pháp và danh sách rượu vang."
+  - "MICHELIN Guide xếp nhà hàng vào nhóm giá cao nhất ($$) và lưu ý về một xe đẩy phô mai Pháp và danh sách rượu vang."
 appliesTo: "Du khách, người đam mê ẩm thực và thực khách đang tìm hiểu về fine dining Malaysia được MICHELIN công nhận tại Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

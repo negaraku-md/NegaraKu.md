@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara는 페낭 조지타운에 있는 MICHELIN Bib Gourmand 태국 음식점으로, 천장이 높고 녹색 톤으로 꾸며진 다이닝룸에서 정통 가정식 태국 요리와 신선한 해산물을 선보입니다. 다양한 tom yum과 miang kam 전채가 심사원이 특별히 꼽는 요리이며, 넉넉한 양을 친근한 가격에 제공합니다."
 seoTitle: "Thara: 태국 Bib Gourmand, 페낭 조지타운"
 answer: "Thara는 페낭 조지타운 5 Lorong Prangin에 있는 태국 음식점으로, 가성비 좋은 훌륭한 요리로 MICHELIN Bib Gourmand를 받았습니다. 셰프는 15년이 넘는 경력으로 고국의 정통 요리를 만들며 신선한 해산물에 중점을 둡니다. MICHELIN 심사원은 다양한 tom yum 수프의 변주와 miang kam 전채를 강조합니다."
@@ -25,7 +24,7 @@ keyTakeaways:
   - "조지타운 5 Lorong Prangin에 자리하며, 친근한 가격에 넉넉한 양을 제공합니다."
 faq:
   - q: "Thara는 어디에 있고 어떤 요리를 내나요?"
-    a: "Thara는 페낭 조지타운 10100, 5 Lorong Prangin에 있습니다. 신선한 해산물을 강조한 정통 태국 요리를 선보이며, MICHELIN Guide에서 중간($$) 가격대로 등재되어 있습니다."
+    a: "Thara는 페낭 조지타운 10100, 5 Lorong Prangin에 있습니다. 신선한 해산물을 강조한 정통 태국 요리를 선보이며, MICHELIN Guide에서 중간($) 가격대로 등재되어 있습니다."
   - q: "Thara에서 무엇을 주문해야 하나요?"
     a: "MICHELIN Guide는 서로 다른 해산물로 만드는 음식점의 다양한 tom yum 수프 변주를 가리키며, 신선한 베텔 잎과 달콤한 miang kam 소스로 만드는 miang kam 전채를 반드시 맛봐야 할 요리로 꼽습니다."
   - q: "Thara에 MICHELIN 스타가 있나요?"

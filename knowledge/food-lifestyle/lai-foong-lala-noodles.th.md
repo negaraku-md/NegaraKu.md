@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles เป็นร้านก๋วยเตี๋ยวจีนเฉพาะทางบนถนน Jalan Sultan ใจกลางกัวลาลัมเปอร์ ซึ่ง MICHELIN Guide ยกย่องด้วย Bib Gourmand สำหรับอาหารที่คุ้มค่า จานเด่นคือ lala (หอย) bihun ใส่กุ้งในน้ำซุปที่หอมกลิ่นเหล้าเหลืองจีนและขิง"
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles เป็นร้านก๋วยเตี๋ยวบนถนน Jalan Sultan ในกัวลาลัมเปอร์ ที่ได้รับ MICHELIN Bib Gourmand ซึ่งเป็นรางวัลของ Guide สำหรับคุณภาพดีในราคาคุ้มค่า จานเด่นคือ lala (หอย) bihun ใส่กุ้งในน้ำซุปที่ MICHELIN Guide บรรยายว่าหอมกลิ่นเหล้าเหลืองจีนและขิง ร้านเติบโตจากแผงริมถนนมาเป็นร้านหัวมุมสองชั้น และอยู่ในระดับราคาต่ำสุด ($) ของ Guide"

@@ -9,18 +9,17 @@ contentType: "place"
 lang: "hi"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana — Bangsar Baru का वह रेस्तरां जिसे व्यापक रूप से Sri Nirwana Maju के नाम से जाना जाता है — Jalan Telawi पर स्थित एक MICHELIN Bib Gourmand banana leaf rice संस्था है। MICHELIN Guide इसे Indian ($) के रूप में सूचीबद्ध करता है और भोजन करने वालों को केले के पत्ते पर परोसे चावल-और-करी सेट तथा इसकी chicken biryani की ओर इंगित करता है।"
 
-summary: "Nirwana — Bangsar Baru का वह रेस्तरां जिसे व्यापक रूप से Sri Nirwana Maju के नाम से जाना जाता है — Jalan Telawi पर स्थित एक MICHELIN Bib Gourmand banana leaf rice संस्था है। MICHELIN Guide इसे Indian ($$) के रूप में सूचीबद्ध करता है और भोजन करने वालों को केले के पत्ते पर परोसे चावल-और-करी सेट तथा इसकी chicken biryani की ओर इंगित करता है।"
-
-answer: "Nirwana, कुआलालंपुर के Bangsar Baru में 43 Jalan Telawi 3 पर स्थित एक पुराना दक्षिण भारतीय रेस्तरां, MICHELIN Guide Kuala Lumpur & Penang में एक MICHELIN Bib Gourmand रखता है। Bib Gourmand अच्छी गुणवत्ता और अच्छे मूल्य वाले पाक-कौशल को चिह्नित करता है। MICHELIN इसे $$ मूल्य-श्रेणी में Indian के रूप में वर्गीकृत करता है और चावल तथा सब्जी की करी वाले एक banana leaf सेट की अनुशंसा करता है, जिसमें chicken biryani को उसके रसभरे, मुलायम मांस के लिए विशेष रूप से रेखांकित किया गया है।"
+answer: "Nirwana, कुआलालंपुर के Bangsar Baru में 43 Jalan Telawi 3 पर स्थित एक पुराना दक्षिण भारतीय रेस्तरां, MICHELIN Guide Kuala Lumpur & Penang में एक MICHELIN Bib Gourmand रखता है। Bib Gourmand अच्छी गुणवत्ता और अच्छे मूल्य वाले पाक-कौशल को चिह्नित करता है। MICHELIN इसे $ मूल्य-श्रेणी में Indian के रूप में वर्गीकृत करता है और चावल तथा सब्जी की करी वाले एक banana leaf सेट की अनुशंसा करता है, जिसमें chicken biryani को उसके रसभरे, मुलायम मांस के लिए विशेष रूप से रेखांकित किया गया है।"
 keyTakeaways:
   - "Nirwana (आमतौर पर Sri Nirwana Maju के रूप में बोर्ड पर दर्शाया जाता है) कुआलालंपुर के Bangsar Baru में एक MICHELIN Bib Gourmand रेस्तरां है।"
-  - "MICHELIN Guide इसे $$ मूल्य-श्रेणी में Indian व्यंजन के रूप में वर्गीकृत करता है और इस पर 'Eat like a local' का टैग लगाता है।"
+  - "MICHELIN Guide इसे $ मूल्य-श्रेणी में Indian व्यंजन के रूप में वर्गीकृत करता है और इस पर 'Eat like a local' का टैग लगाता है।"
   - "MICHELIN भोजन करने वालों को चावल और सब्जी की करी वाले एक banana leaf सेट मेनू की ओर ले जाता है, जिसमें मछली, चिकन या मेमने को वैकल्पिक रूप से जोड़ा जा सकता है।"
   - "chicken biryani वह व्यंजन है जिसे MICHELIN विशेष रूप से रेखांकित करता है, और इसके रसभरे, मुलायम मांस तथा संतुलित स्वादों की सराहना करता है।"
   - "यह 43 Jalan Telawi 3 पर, Bangsar Village के पास स्थित है और प्रतिदिन खुलता है; Bib Gourmand अच्छे मूल्य को चिह्नित करता है, किसी तारे को नहीं।"
@@ -30,7 +29,7 @@ faq:
   - q: "Nirwana किसलिए जाना जाता है?"
     a: "banana leaf rice के लिए। MICHELIN Guide इसके सेट मेनू की अनुशंसा करता है — केले के पत्ते पर परोसे गए चावल और सब्जी की करी, मछली, चिकन या मेमने जैसे वैकल्पिक अतिरिक्त के साथ — और chicken biryani को उसके रसभरे, मुलायम मांस तथा संतुलित स्वादों के लिए विशेष रूप से रेखांकित करता है। MICHELIN व्यंजन को Indian के रूप में सूचीबद्ध करता है।"
   - q: "क्या Nirwana के पास MICHELIN तारा है?"
-    a: "नहीं। Nirwana के पास एक MICHELIN Bib Gourmand है, तारा नहीं। Bib Gourmand एक अलग सम्मान है जो अच्छे मूल्य पर अच्छी गुणवत्ता वाले पाक-कौशल को मान्यता देता है — आमतौर पर Guide की $ और $$ मूल्य-श्रेणियों के भीतर — न कि MICHELIN Star के पीछे के fine dining मानदंडों को।"
+    a: "नहीं। Nirwana के पास एक MICHELIN Bib Gourmand है, तारा नहीं। Bib Gourmand एक अलग सम्मान है जो अच्छे मूल्य पर अच्छी गुणवत्ता वाले पाक-कौशल को मान्यता देता है — आमतौर पर Guide की $ और $ मूल्य-श्रेणियों के भीतर — न कि MICHELIN Star के पीछे के fine dining मानदंडों को।"
   - q: "Nirwana कहाँ है और कब खुलता है?"
     a: "यह 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur 59100 पर, Bangsar Village के पास है। MICHELIN Guide इसे प्रतिदिन 11:30 से 23:00 तक खुला सूचीबद्ध करता है। समय बदल सकता है, इसलिए जाने से पहले रेस्तरां से पुष्टि कर लें; बुकिंग सीधे रेस्तरां द्वारा संभाली जाती है।"
 

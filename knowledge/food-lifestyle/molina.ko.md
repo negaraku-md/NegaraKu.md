@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide는 그 요리를 이노베이티브로 분류하며, 프랑스·북유럽·아시아의 영향을 아우릅니다."
   - "레스토랑은 THE FACE Style 51층에 있으며, 쿠알라룸푸르 스카이라인의 파노라마를 조망합니다."
   - "2차 보도는 네덜란드 셰프 Sidney Schutte와 연결 지으며, Guillaume Depoortere를 헤드 셰프로 거론합니다. 개업 직후 Star를 획득했습니다."
-  - "MICHELIN Guide는 최고($$$$) 가격대로 분류하며, 데이트 나이트에 좋다고 표시합니다."
+  - "MICHELIN Guide는 최고($$) 가격대로 분류하며, 데이트 나이트에 좋다고 표시합니다."
 appliesTo: "쿠알라룸푸르에서 MICHELIN의 인정을 받은 말레이시아 파인다이닝을 알아보는 여행자, 미식 애호가, 그리고 식도락가."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

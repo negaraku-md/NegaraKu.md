@@ -9,17 +9,16 @@ contentType: "place"
 lang: "ms"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine ialah restoran Peranakan MICHELIN Bib Gourmand di George Town, Penang, dikendalikan oleh pasangan suami isteri selama lebih 15 tahun — Ivy di dapur, suaminya menyambut tetamu. Guide menyenaraikannya sebagai Peranakan ($) dan menunjuk kepada set menu kongsi hidangan Nyonya paling laris seperti kari ayam Kapitan dan Joo Hoo Char."
 
-summary: "Ivy's Nyonya Cuisine ialah restoran Peranakan MICHELIN Bib Gourmand di George Town, Penang, dikendalikan oleh pasangan suami isteri selama lebih 15 tahun — Ivy di dapur, suaminya menyambut tetamu. Guide menyenaraikannya sebagai Peranakan ($$) dan menunjuk kepada set menu kongsi hidangan Nyonya paling laris seperti kari ayam Kapitan dan Joo Hoo Char."
-
-answer: "Ivy's Nyonya Cuisine ialah restoran Peranakan di 100-104 Jalan Kedah, George Town, Penang, yang memegang MICHELIN Bib Gourmand untuk masakan bernilai baik. MICHELIN Guide menyenaraikannya sebagai Peranakan dalam jalur $$ dan mencatatkan ia dikendalikan oleh pasangan suami isteri selama lebih 15 tahun, dengan Ivy di dapur dan suaminya melayan pelanggan. Ia menawarkan set menu kongsi hidangan paling larisnya, termasuk kari ayam Kapitan dan Joo Hoo Char, satu tumisan sayur campur dalam pes cili."
+answer: "Ivy's Nyonya Cuisine ialah restoran Peranakan di 100-104 Jalan Kedah, George Town, Penang, yang memegang MICHELIN Bib Gourmand untuk masakan bernilai baik. MICHELIN Guide menyenaraikannya sebagai Peranakan dalam jalur $ dan mencatatkan ia dikendalikan oleh pasangan suami isteri selama lebih 15 tahun, dengan Ivy di dapur dan suaminya melayan pelanggan. Ia menawarkan set menu kongsi hidangan paling larisnya, termasuk kari ayam Kapitan dan Joo Hoo Char, satu tumisan sayur campur dalam pes cili."
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine ialah restoran Peranakan MICHELIN Bib Gourmand di George Town, Penang, dalam jalur harga $$."
+  - "Ivy's Nyonya Cuisine ialah restoran Peranakan MICHELIN Bib Gourmand di George Town, Penang, dalam jalur harga $."
   - "Ia dikendalikan oleh pasangan suami isteri selama lebih 15 tahun — Ivy menerajui dapur, suaminya melayan pelanggan."
   - "MICHELIN mengetengahkan kari ayam Kapitan dan Joo Hoo Char (tumisan sayur campur pedas dalam pes cili)."
   - "Guide mengesyorkan set menu kongsinya, yang dibina sekitar hidangan Nyonya paling laris restoran itu."

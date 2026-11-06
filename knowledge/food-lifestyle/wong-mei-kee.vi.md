@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee là một quầy ẩm thực đường phố ở Pudu, Kuala Lumpur, nắm giữ Bib Gourmand của MICHELIN Guide và nổi tiếng với siew yok — thịt heo quay da giòn, thịt mọng. Chỉ mở vài giờ vào buổi trưa và được gắn thẻ 'Worth Queueing For', quầy thu hút những người đến sớm để chờ mẻ ra lò lúc giữa trưa. Bài viết này giới thiệu món heo quay, hàng người xếp hàng và cách ghé thăm."
 seoTitle: "Wong Mei Kee, Kuala Lumpur"
 answer: "Wong Mei Kee là một quầy ẩm thực đường phố ở Pudu, Kuala Lumpur, được công nhận bằng Bib Gourmand của MICHELIN Guide và nổi tiếng với siew yok — thịt heo quay da giòn, thịt mọng. Quầy chỉ mở vài giờ vào buổi trưa, được gắn thẻ 'Worth Queueing For', và MICHELIN khuyên nên đến sớm và chờ thịt heo ra khỏi lò đúng giữa trưa. Đây là một quầy $ rẻ và tự quản lý việc đặt chỗ."

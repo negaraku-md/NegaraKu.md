@@ -9,7 +9,7 @@ lang: "es"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood es un restaurante MICHELIN Bib Gourmand en Bukit Mertajam, Seberang Perai — la mitad continental del estado de Penang. Un local de barrio relajado abierto por un vecino cercano, sirve cocina europea contemporánea con influencias asiáticas además de platos a la parrilla, con una carta que rota cada seis semanas y pan de masa madre casero entre sus platos insignia."
-answer: "Neighbourwood es un restaurante MICHELIN Bib Gourmand en 3427 Jalan Kulim, Bukit Mertajam, en Seberang Perai — la parte continental del estado de Penang. Sirve cocina europea contemporánea con influencias asiáticas junto a platos a la parrilla, con una carta que cambia cada seis semanas y un puñado de platos insignia que se mantienen. El pan de masa madre casero, dorado y crujiente, y una amplia selección de postres son lo más destacado. MICHELIN lo sitúa en la banda $$."
+answer: "Neighbourwood es un restaurante MICHELIN Bib Gourmand en 3427 Jalan Kulim, Bukit Mertajam, en Seberang Perai — la parte continental del estado de Penang. Sirve cocina europea contemporánea con influencias asiáticas junto a platos a la parrilla, con una carta que cambia cada seis semanas y un puñado de platos insignia que se mantienen. El pan de masa madre casero, dorado y crujiente, y una amplia selección de postres son lo más destacado. MICHELIN lo sitúa en la banda $."
 keyTakeaways:
   - "Neighbourwood ostenta un MICHELIN Bib Gourmand por una cocina de buena calidad y buena relación calidad-precio."
-  - "Sirve cocina European Contemporary (europea contemporánea) con influencias asiáticas además de platos a la parrilla, en la banda de precio MICHELIN $$."
+  - "Sirve cocina European Contemporary (europea contemporánea) con influencias asiáticas además de platos a la parrilla, en la banda de precio MICHELIN $."
   - "La carta rota aproximadamente cada seis semanas, con unos cuantos platos insignia pensados para compartir que se mantienen."
   - "El pan de masa madre casero en varios sabores y una selección de más de diez postres son los platos destacados."
   - "Está en 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) — en la parte continental de Penang, no en la isla de George Town."

@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles is a Chinese noodle specialist on Jalan Sultan in central Kuala Lumpur, recognised by the MICHELIN Guide with a Bib Gourmand for good-value cooking. Its signature is lala (clam) bihun with prawns in a broth aromatic with Chinese yellow wine and ginger."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles is a Kuala Lumpur noodle stall on Jalan Sultan that holds a MICHELIN Bib Gourmand, the Guide's award for good quality at good value. Its signature dish is lala (clam) bihun with prawns in a broth the MICHELIN Guide describes as aromatic with Chinese yellow wine and ginger. It grew from a street stall into a two-floor corner shop and sits in the Guide's lowest ($) price band."

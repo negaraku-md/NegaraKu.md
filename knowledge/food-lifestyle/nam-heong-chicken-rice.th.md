@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) เป็นร้านข้าวมันไก่ไหหลำเก่าแก่บน Jalan Sultan ในย่านเมืองเก่าของกัวลาลัมเปอร์ เปิดมาตั้งแต่ปี 1938 และได้รับ Bib Gourmand จาก MICHELIN Guide ลูกค้าเลือกได้ระหว่างไก่ 'ฟาร์มผัก' ที่เนื้อน้อยกว่าและไก่บ้านที่มันกว่า โดยมี roast pork belly (หมูสามชั้นย่าง) และ Ipoh bean sprouts เป็นเครื่องเคียงยอดนิยม บทความนี้ครอบคลุมอาหาร บรรยากาศ และวิธีไปเยือน"
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice (City Centre) เป็นร้านข้าวมันไก่ไหหลำบน Jalan Sultan ในกัวลาลัมเปอร์ เปิดมาตั้งแต่ปี 1938 และได้รับการยกย่องด้วย Bib Gourmand จาก MICHELIN Guide สำหรับอาหารที่คุ้มค่า ร้านมีไก่สองแบบ — ไก่ 'ฟาร์มผัก' ที่เนื้อน้อยกว่าและไก่บ้านที่มันกว่า — พร้อม roast pork belly (หมูสามชั้นย่าง) ขายดีและ Ipoh bean sprouts ที่กรอบ เป็นร้าน $ เรียบง่ายและราคาย่อมเยาในย่านเมืองเก่า เปิดทุกวันและรับจองด้วยตนเอง"

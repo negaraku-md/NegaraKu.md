@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian เป็นร้านอาหารกวางตุ้งบน Jalan Yew ในย่าน Pudu กัวลาลัมเปอร์ ที่ได้รับ Bib Gourmand จาก MICHELIN Guide และเสิร์ฟ claypot rice ที่หุงบนเตาถ่านมาตั้งแต่ปี 1986 ติดป้าย 'Worth Queueing For' เป็นที่โปรดของคนท้องถิ่นสำหรับ claypot rice ที่โรยหน้าด้วยเนื้อหมัก สะโพกไก่ หรือปลาเค็ม พร้อมซุปและของว่าง บทความนี้ครอบคลุมอาหาร บรรยากาศ และวิธีไปเยือน"
 seoTitle: "Foong Lian, กัวลาลัมเปอร์"
 answer: "Foong Lian เป็นร้านอาหารกวางตุ้งบน Jalan Yew ในย่าน Pudu กัวลาลัมเปอร์ ได้รับการยกย่องด้วย Bib Gourmand จาก MICHELIN Guide สำหรับอาหารที่คุ้มค่า ร้านเสิร์ฟ claypot rice ที่หุงบนเตาถ่านมาตั้งแต่ปี 1986 โดยควบคุมไฟอย่างพิถีพิถัน พร้อมหน้าต่าง ๆ เช่น ไส้กรอกหมู-และ-ตับหมัก สะโพกไก่ หรือปลาเค็ม อีกทั้งซุปและของว่างอย่างฟองเต้าหู้ม้วน เป็นร้าน $ ราคาย่อมเยา ติดป้าย 'Worth Queueing For' และรับจองด้วยตนเอง"

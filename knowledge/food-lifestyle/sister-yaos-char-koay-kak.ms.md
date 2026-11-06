@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak ialah gerai makanan jalanan MICHELIN Bib Gourmand di Lorong Macalister, George Town, Pulau Pinang, menghidangkan char koay kak: kuih beras goreng dengan wok hei yang baik, kicap, taugeh, telur dan cili. Hidangan Teochew ini dimulakan oleh bapa adik-beradik itu pada 1963 dan kini diuruskan oleh tiga anak perempuan."
 seoTitle: "Sister Yao's Char Koay Kak: Bib Gourmand Pulau Pinang"
 answer: "Sister Yao's Char Koay Kak ialah gerai makanan jalanan Bib Gourmand di 96 Lorong Macalister, George Town, Pulau Pinang. Satu-satunya hidangannya ialah char koay kak, kuih beras goreng gaya Teochew yang dimasak dengan wok hei berasap, kicap, taugeh, telur dan cili, dengan sos pedas tambahan atas permintaan. Dimulakan oleh bapa adik-beradik itu pada 1963, kini diuruskan oleh tiga anak perempuan. Hanya menerima tunai."

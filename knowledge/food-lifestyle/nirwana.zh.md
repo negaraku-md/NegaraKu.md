@@ -9,18 +9,17 @@ contentType: "place"
 lang: "zh"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana——这家位于 Bangsar Baru、广为人知名为 Sri Nirwana Maju 的餐馆——是 Jalan Telawi 上一家 MICHELIN Bib Gourmand 的香蕉叶饭老字号。MICHELIN Guide 将它列为印度菜（$），并指引食客去尝它那铺在香蕉叶上的饭与咖喱套餐，以及它的鸡肉 biryani。"
 
-summary: "Nirwana——这家位于 Bangsar Baru、广为人知名为 Sri Nirwana Maju 的餐馆——是 Jalan Telawi 上一家 MICHELIN Bib Gourmand 的香蕉叶饭老字号。MICHELIN Guide 将它列为印度菜（$$），并指引食客去尝它那铺在香蕉叶上的饭与咖喱套餐，以及它的鸡肉 biryani。"
-
-answer: "Nirwana 是一家历史悠久的南印度餐馆，位于吉隆坡 Bangsar Baru 的 43 Jalan Telawi 3，在 MICHELIN Guide Kuala Lumpur & Penang 中持有 MICHELIN Bib Gourmand。Bib Gourmand 标志着物有所值的优质烹饪。MICHELIN 将它归为 $$ 价位带的印度菜，并推荐一份由饭与蔬菜咖喱组成的香蕉叶套餐，其中鸡肉 biryani 因肉质湿润软嫩而被特别点名。"
+answer: "Nirwana 是一家历史悠久的南印度餐馆，位于吉隆坡 Bangsar Baru 的 43 Jalan Telawi 3，在 MICHELIN Guide Kuala Lumpur & Penang 中持有 MICHELIN Bib Gourmand。Bib Gourmand 标志着物有所值的优质烹饪。MICHELIN 将它归为 $ 价位带的印度菜，并推荐一份由饭与蔬菜咖喱组成的香蕉叶套餐，其中鸡肉 biryani 因肉质湿润软嫩而被特别点名。"
 keyTakeaways:
   - "Nirwana（通常挂牌为 Sri Nirwana Maju）是吉隆坡 Bangsar Baru 的一家 MICHELIN Bib Gourmand 餐馆。"
-  - "MICHELIN Guide 将它归为 $$ 价位带的印度菜，并标注为「Eat like a local」。"
+  - "MICHELIN Guide 将它归为 $ 价位带的印度菜，并标注为「Eat like a local」。"
   - "MICHELIN 指引食客去点一份由饭与蔬菜咖喱组成的香蕉叶套餐，可另加鱼、鸡或羊肉。"
   - "鸡肉 biryani 是 MICHELIN 特别点名的菜式，称赞其肉质湿润软嫩、味道均衡。"
   - "它位于 43 Jalan Telawi 3，紧邻 Bangsar Village，每天营业；Bib Gourmand 标志的是物有所值，而非星级。"
@@ -30,7 +29,7 @@ faq:
   - q: "Nirwana 以什么闻名？"
     a: "香蕉叶饭。MICHELIN Guide 推荐它那份铺在香蕉叶上、由饭与蔬菜咖喱组成的套餐，可另加鱼、鸡或羊肉等配菜，并特别点名鸡肉 biryani，称赞其肉质湿润软嫩、味道均衡。MICHELIN 将其菜系列为印度菜。"
   - q: "Nirwana 有 MICHELIN 星吗？"
-    a: "没有。Nirwana 持有的是 MICHELIN Bib Gourmand，而非星级。Bib Gourmand 是另一项独立荣誉，表彰物有所值的优质烹饪——通常落在 Guide 的 $ 与 $$ 价位带——而非 MICHELIN Star 背后的高级餐饮标准。"
+    a: "没有。Nirwana 持有的是 MICHELIN Bib Gourmand，而非星级。Bib Gourmand 是另一项独立荣誉，表彰物有所值的优质烹饪——通常落在 Guide 的 $ 与 $ 价位带——而非 MICHELIN Star 背后的高级餐饮标准。"
   - q: "Nirwana 在哪里，营业时间几时？"
     a: "它位于吉隆坡 Bangsar Baru 的 43 Jalan Telawi 3，邮区 59100，紧邻 Bangsar Village。MICHELIN Guide 列出它每天营业，11:30 至 23:00。营业时间可能变动，前往前请先向餐馆确认；订位由餐馆直接处理。"
 

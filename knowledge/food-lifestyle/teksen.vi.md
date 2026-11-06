@@ -9,7 +9,7 @@ lang: "vi"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen là một nhà hàng Quảng Đông lâu đời trên đường Lebuh Carnarvon ở George Town, Penang, đang giữ MICHELIN Bib Gourmand cho ẩm thực ngon và đáng đồng tiền. Hoạt động từ năm 1965, nhà hàng nổi tiếng với các món Quảng Đông truyền thống được chế biến khéo léo bên cạnh các món fusion mang hương vị bản địa — món đặc trưng là đậu phụ chiên tự làm ăn kèm cá cơm khô địa phương."
 answer: "Teksen là một nhà hàng Quảng Đông bình dân tại 18 & 20 Lebuh Carnarvon ở George Town, Penang, đang giữ MICHELIN Bib Gourmand — giải thưởng của cẩm nang cho ẩm thực ngon và đáng đồng tiền. Mở cửa từ năm 1965, nhà hàng phục vụ các món Quảng Đông truyền thống cùng các món fusion mang hương vị bản địa, và món nổi tiếng nhất là đậu phụ chiên tự làm ăn kèm cá cơm khô địa phương. Hãy dự liệu xếp hàng vào giờ cao điểm."
 keyTakeaways:
   - "Teksen đang giữ MICHELIN Bib Gourmand, sự ghi nhận của cẩm nang cho ẩm thực ngon và đáng đồng tiền."
-  - "Đây là nhà hàng Quảng Đông tại 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), thuộc phân khúc giá MICHELIN $$."
+  - "Đây là nhà hàng Quảng Đông tại 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), thuộc phân khúc giá MICHELIN $."
   - "Bếp đã hoạt động từ năm 1965 và kết hợp các món Quảng Đông truyền thống với các món fusion mang hương vị bản địa."
   - "Món đặc trưng là đậu phụ chiên tự làm ăn kèm cá cơm khô địa phương; cẩm nang cũng nhắc đến món súp tiềm (chưng cách thủy) thay đổi hằng ngày."
   - "MICHELIN gắn nhãn 'đáng để xếp hàng' — hãy dự liệu chờ đợi vào giờ đông khách, và kiểm tra giờ mở cửa trước khi đi."

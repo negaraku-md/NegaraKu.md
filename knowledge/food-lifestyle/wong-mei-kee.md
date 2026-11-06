@@ -5,12 +5,11 @@ slug: "wong-mei-kee"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee is a street-food stall in Pudu, Kuala Lumpur, holding a MICHELIN Guide Bib Gourmand and famous for its siew yok — roast pork with crackling skin and succulent meat. Open only a few hours at lunch and tagged 'Worth Queueing For', it draws crowds who arrive early for the noon batch. This profile covers the roast pork, the queue and how to visit."
 seoTitle: "Wong Mei Kee, Kuala Lumpur"
 answer: "Wong Mei Kee is a street-food stall in Pudu, Kuala Lumpur, recognised with a MICHELIN Guide Bib Gourmand and famous for its siew yok — roast pork with crackling skin and succulent meat. It opens only a few hours at lunchtime, is tagged 'Worth Queueing For', and MICHELIN advises arriving early and waiting for the pork to come out of the oven at noon sharp. It is an inexpensive $ stall that manages its own bookings."

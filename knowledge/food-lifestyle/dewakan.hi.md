@@ -18,7 +18,7 @@ keyTakeaways:
   - "यह MICHELIN Green Star भी रखता है, जो गाइड की सततता मान्यता है, और इसे किसी मलेशियाई रेस्तराँ को दिया गया पहला बताया गया है।"
   - "MICHELIN Guide इसके व्यंजन को मलेशियाई और समकालीन के रूप में वर्गीकृत करती है, जो स्थानीय, देशज और स्थानिक सामग्री के इर्द-गिर्द टेस्टिंग मेन्यू प्रारूप में बना है।"
   - "रेस्तराँ का नेतृत्व शेफ Darren Teoh करते हैं और यह KLCC क्षेत्र में Platinum Park स्थित Naza Tower की 48वीं मंज़िल पर है।"
-  - "MICHELIN Guide इसे सर्वोच्च ($$$$) मूल्य श्रेणी में सूचीबद्ध करती है; यह एक फाइन डाइनिंग गंतव्य है जिसके आरक्षण रेस्तराँ सीधे प्रबंधित करता है।"
+  - "MICHELIN Guide इसे सर्वोच्च ($$) मूल्य श्रेणी में सूचीबद्ध करती है; यह एक फाइन डाइनिंग गंतव्य है जिसके आरक्षण रेस्तराँ सीधे प्रबंधित करता है।"
 appliesTo: "कुआलालंपुर में MICHELIN द्वारा मान्यता प्राप्त मलेशियाई फाइन डाइनिंग पर शोध कर रहे यात्री, भोजन-प्रेमी और भोजनार्थी।"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

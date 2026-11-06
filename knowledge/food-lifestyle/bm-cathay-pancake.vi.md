@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake là một xe đẩy ẩm thực đường phố MICHELIN Bib Gourmand ở Bukit Mertajam, Seberang Perai, trên phần đất liền của Penang. Từ năm 1962, xe chỉ bán một món — apam balik, một chiếc bánh kếp nướng than với nhân đường và đậu phộng, ngoài giòn trong dai — và hàng người xếp hàng vào giờ cao điểm."
 seoTitle: "BM Cathay Pancake: apam balik Bib Gourmand Penang"
 answer: "BM Cathay Pancake là một xe đẩy ẩm thực đường phố Bib Gourmand ngay cạnh Cathay Food Court trên Jalan Aston, Bukit Mertajam, Seberang Perai, trên phần đất liền của Penang. Từ năm 1962, xe chỉ phục vụ một món: apam balik, một chiếc bánh kếp nướng than nhân đường và đậu phộng, ngoài giòn trong dai, làm theo yêu cầu. Chỉ nhận tiền mặt và đáng để xếp hàng."

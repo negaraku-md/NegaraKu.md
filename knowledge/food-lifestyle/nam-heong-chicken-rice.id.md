@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) adalah kedai nasi ayam Hainan lawas di Jalan Sultan di kawasan kota tua Kuala Lumpur, yang buka sejak 1938 dan menyandang Bib Gourmand MICHELIN Guide. Pengunjung memilih antara ayam 'ladang sayur' yang lebih tanpa lemak dan ayam kampung yang lebih berlemak, dengan perut babi panggang dan Ipoh bean sprouts sebagai lauk pendamping populer. Profil ini membahas makanannya, suasana, dan cara berkunjung."
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice (City Centre) adalah kedai nasi ayam Hainan di Jalan Sultan, Kuala Lumpur, yang buka sejak 1938 dan diakui dengan Bib Gourmand MICHELIN Guide untuk masakan bernilai sepadan. Kedai ini menawarkan dua jenis ayam — ayam 'ladang sayur' yang lebih tanpa lemak dan ayam kampung yang lebih berlemak — selain perut babi panggang yang laris dan Ipoh bean sprouts yang renyah. Ini kedai $ yang sederhana dan murah di kota tua, buka setiap hari dan menangani pemesanannya sendiri."

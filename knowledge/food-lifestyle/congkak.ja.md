@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak は MICHELIN Guide Kuala Lumpur & Penang で Bib Gourmand を獲得しています——これは良質な料理をお値打ち価格で提供することへの評価であり、MICHELIN Star ではありません。"
   - "MICHELIN Guide はこの店を「国家の誇りとアイデンティティの表現」と評し、地元の人々にとって日常の定番である料理を出すと述べています。"
   - "最も人気のある料理は nasi ambeng の大皿で、ご一行の人数に合わせて分量が調整される取り分け式の一品です。"
-  - "店は 24 Jalan Beremi, Bukit Bintang の住宅街にあり、$$（中程度）の価格帯で、ガイドの「Eat like a local」タグが付いています。"
+  - "店は 24 Jalan Beremi, Bukit Bintang の住宅街にあり、$（中程度）の価格帯で、ガイドの「Eat like a local」タグが付いています。"
   - "Bib Gourmand のリストは毎年改訂されるため、訪問を計画する前に guide.michelin.com で現在の評価を確認してください。"
 faq:
   - q: "Congkak は何で知られていますか？"
@@ -41,7 +41,7 @@ faq:
   - q: "Congkak は MICHELIN Star を持っていますか？"
     a: "いいえ。Congkak が獲得しているのは Bib Gourmand で、これは良質な料理をお値打ち価格で提供する店に対する MICHELIN の別の評価です。Star ではなく、両者は独立して授与されます。"
   - q: "Congkak はどこにあり、費用はどれくらいですか？"
-    a: "店は 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200、中心街に近い住宅街にあります。MICHELIN Guide は $$ の価格帯、つまり中程度の出費に位置づけており、クレジットカードが使えます。"
+    a: "店は 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200、中心街に近い住宅街にあります。MICHELIN Guide は $ の価格帯、つまり中程度の出費に位置づけており、クレジットカードが使えます。"
 
 updated: 2026-11-06
 sources:

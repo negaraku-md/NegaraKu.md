@@ -5,12 +5,11 @@ slug: "foong-lian"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian is a Cantonese eatery on Jalan Yew in Pudu, Kuala Lumpur, holding a MICHELIN Guide Bib Gourmand and serving charcoal-cooked claypot rice since 1986. Tagged 'Worth Queueing For', it is a local favourite for claypot rice topped with preserved meats, chicken leg or salted fish, alongside soups and snacks. This profile covers the food, the setting and how to visit."
 seoTitle: "Foong Lian, Kuala Lumpur"
 answer: "Foong Lian is a Cantonese eatery on Jalan Yew in Pudu, Kuala Lumpur, recognised with a MICHELIN Guide Bib Gourmand for good-value cooking. It has served claypot rice cooked over charcoal since 1986, carefully controlling the heat, with toppings such as preserved pork-and-liver sausage, chicken leg or salted fish, plus soups and snacks like the tofu skin roll. It is an inexpensive $ spot, tagged 'Worth Queueing For', and manages its own bookings."

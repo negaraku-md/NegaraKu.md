@@ -6,22 +6,21 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "28fd4ae0db39f542"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sek Yuen ialah sebuah restoran Kantonis lama di Jalan Pudu, Kuala Lumpur, yang beroperasi sejak 1948 dan menyandang Bib Gourmand MICHELIN Guide. Ia menghidangkan masakan Kantonis tradisional yang menyenangkan — hidangan istimewa seperti pipa duck dan anak babi panggang (ditempah dua hari lebih awal) — merentasi tiga rumah kedai bersebelahan, yang di tengah mengekalkan wataknya yang antik. Profil ini merangkumi makanannya, sejarahnya dan cara melawat."
 seoTitle: "Sek Yuen, Kuala Lumpur"
-answer: "Sek Yuen ialah sebuah restoran Kantonis warisan di Jalan Pudu, Kuala Lumpur, yang beroperasi sejak 1948 dan diiktiraf dengan Bib Gourmand MICHELIN Guide bagi masakan berbaloi. Ia menghidangkan masakan Kantonis tradisional yang menyenangkan merentasi tiga rumah kedai bersebelahan — yang di tengah mengekalkan watak paling antik — dan terkenal dengan hidangan istimewa seperti pipa duck berkulit rangup dan anak babi panggang yang mesti ditempah dua hari lebih awal. Ia berada dalam julat harga $$."
+answer: "Sek Yuen ialah sebuah restoran Kantonis warisan di Jalan Pudu, Kuala Lumpur, yang beroperasi sejak 1948 dan diiktiraf dengan Bib Gourmand MICHELIN Guide bagi masakan berbaloi. Ia menghidangkan masakan Kantonis tradisional yang menyenangkan merentasi tiga rumah kedai bersebelahan — yang di tengah mengekalkan watak paling antik — dan terkenal dengan hidangan istimewa seperti pipa duck berkulit rangup dan anak babi panggang yang mesti ditempah dua hari lebih awal. Ia berada dalam julat harga $."
 appliesTo: "Pengembara dan pengunjung di KL yang mencari masakan Kantonis cara lama, serta pembaca yang mengikuti pilihan MICHELIN Guide Malaysia dan warisan makanan kota ini."
 keyTakeaways:
   - "Sek Yuen ialah sebuah restoran Bib Gourmand MICHELIN Guide — masakan berkualiti baik dan berbaloi — di Jalan Pudu, Kuala Lumpur."
   - "MICHELIN menyatakan ia telah menjadi kegemaran kejiranan sejak dibuka pada 1948, menjadikannya salah satu dapur Kantonis yang paling lama beroperasi di kota ini."
   - "Kini ia merangkumi tiga rumah kedai bersebelahan di jalan yang sama; kedai di tengah mengekalkan watak paling antik."
   - "Menu memberi tumpuan kepada masakan Kantonis tradisional yang menyenangkan; pipa duck (kulit rangup, isi padat) ialah hidangan istimewa, dan anak babi panggang mesti ditempah dua hari lebih awal."
-  - "Ia sebuah restoran $$ dengan kakitangan yang mesra dan telah lama berkhidmat; ia menguruskan tempahannya sendiri, jadi hubungi mereka secara terus."
+  - "Ia sebuah restoran $ dengan kakitangan yang mesra dan telah lama berkhidmat; ia menguruskan tempahannya sendiri, jadi hubungi mereka secara terus."
 faq:
   - q: "Berapa lama Sek Yuen sudah wujud?"
     a: "MICHELIN Guide menyatakan Sek Yuen telah menjadi kegemaran kejiranan sejak ia dibuka pada 1948, menjadikannya salah satu restoran Kantonis yang paling lama beroperasi di Kuala Lumpur. Laporan tentang asal usul yang lebih awal, sebelum perang, turut beredar tetapi tidak disahkan oleh panduan itu."

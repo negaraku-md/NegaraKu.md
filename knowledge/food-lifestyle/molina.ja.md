@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide はその料理をイノベーティブと分類し、フランス・北欧・アジアの影響を融合させています。"
   - "レストランは THE FACE Style 51階にあり、クアラルンプールのスカイラインのパノラマを望みます。"
   - "二次的報道はオランダ人シェフ Sidney Schutte と結びつけ、Guillaume Depoortere をヘッドシェフとして挙げています。開業後まもなく Star を獲得しました。"
-  - "MICHELIN Guide は最高（$$$$）の価格帯に分類し、デートの夜に向くと示しています。"
+  - "MICHELIN Guide は最高（$$）の価格帯に分類し、デートの夜に向くと示しています。"
 appliesTo: "クアラルンプールで MICHELIN に認められたマレーシアのファインダイニングを調べている旅行者、グルメ愛好家、そして食事客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

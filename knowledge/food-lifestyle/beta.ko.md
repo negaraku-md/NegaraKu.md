@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide는 그 요리를 말레이시아 및 컨템포러리로 분류하며, 「Tour of Malaysia」 메뉴로 선보입니다."
   - "MICHELIN은 셰프가 현대적 기법과 세심한 플레이팅으로 현지 인기 요리를 재해석한다고 「극장 같은」 다이닝룸 안에서 설명합니다."
   - "MICHELIN이 꼽는 대표 추가 메뉴는 abalone Lawas rice——전복을 올린 사라왁 전통 쌀입니다."
-  - "레스토랑은 쿠알라룸푸르 Jalan Perak에 있으며, $$$ 가격대로 분류되고, 가이드는 데이트 나이트에 좋다고 표시합니다."
+  - "레스토랑은 쿠알라룸푸르 Jalan Perak에 있으며, $$ 가격대로 분류되고, 가이드는 데이트 나이트에 좋다고 표시합니다."
 appliesTo: "쿠알라룸푸르에서 MICHELIN의 인정을 받은 말레이시아 파인다이닝을 알아보는 여행자, 미식 애호가, 그리고 식도락가."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian is a MICHELIN Bib Gourmand street-food stall in George Town, Penang, at the Medan Renong food court, known for an unusual green tom yum noodle dish alongside a noodle soup and fried noodles. This profile covers its MICHELIN recognition, signature bowl, location and how to visit."
 seoTitle: "Ghee Lian: Penang Bib Gourmand Street Food"
 answer: "Ghee Lian is a Penang street-food stall listed as a MICHELIN Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang selection. Its signature is an unusual green tom yum noodle dish — which MICHELIN praises for its balance of sour and spicy — served alongside a noodle soup and fried noodles. It is at the Medan Renong food court, Jalan Tun Syed Sheh Barakhbah, George Town."

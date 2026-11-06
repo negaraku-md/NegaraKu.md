@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles هو كشك متخصص في النودلز الصينية يقع في شارع Jalan Sultan بوسط كوالالمبور، ومنحه دليل MICHELIN Guide تصنيف Bib Gourmand لطهوه الجيد بسعر مناسب. طبقه المميّز هو lala (المحار) bihun مع الروبيان في مرق عطري بنكهة النبيذ الأصفر الصيني والزنجبيل."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles هو كشك نودلز في شارع Jalan Sultan بكوالالمبور، حاصل على MICHELIN Bib Gourmand، وهو تصنيف الدليل للجودة الجيدة بسعر مناسب. طبقه المميّز هو lala (المحار) bihun مع الروبيان في مرق يصفه دليل MICHELIN Guide بأنه عطري بنكهة النبيذ الأصفر الصيني والزنجبيل. نما من كشك في الشارع إلى محل ركني من طابقين، ويقع في أدنى فئة سعرية ($) لدى الدليل."

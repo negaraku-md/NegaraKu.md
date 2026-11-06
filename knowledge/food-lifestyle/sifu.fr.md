@@ -9,7 +9,7 @@ lang: "fr"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu est un restaurant peranakan MICHELIN Bib Gourmand sur Jalan Pintal Tali, à George Town, Penang. Sa cuisine est dirigée par une cuisinière familiale septuagénaire forte de décennies d'expérience, et sa carte d'environ 40 plats parcourt les classiques de la cuisine nyonya traditionnelle — parmi lesquels un asam prawn à la texture ferme dans une sauce aigre-douce riche en tamarin."
-answer: "Sifu est un restaurant peranakan MICHELIN Bib Gourmand au 154 Jalan Pintal Tali, à George Town, Penang. Sa cuisine est menée par une dame septuagénaire qui cuisine depuis des décennies, et la carte propose une quarantaine de classiques à la carte de la cuisine peranakan (nyonya) traditionnelle. Les spécialités comprennent un asam prawn à la texture ferme dans une sauce aigre-douce sombre et chargée de tamarin ainsi que le mang kuang char, du dolique bulbeux râpé sauté avec du calmar séché et des champignons. MICHELIN le situe dans la fourchette $$."
+answer: "Sifu est un restaurant peranakan MICHELIN Bib Gourmand au 154 Jalan Pintal Tali, à George Town, Penang. Sa cuisine est menée par une dame septuagénaire qui cuisine depuis des décennies, et la carte propose une quarantaine de classiques à la carte de la cuisine peranakan (nyonya) traditionnelle. Les spécialités comprennent un asam prawn à la texture ferme dans une sauce aigre-douce sombre et chargée de tamarin ainsi que le mang kuang char, du dolique bulbeux râpé sauté avec du calmar séché et des champignons. MICHELIN le situe dans la fourchette $."
 keyTakeaways:
   - "Sifu détient un MICHELIN Bib Gourmand pour une cuisine de bonne qualité à bon rapport qualité-prix."
-  - "C'est un restaurant peranakan (nyonya) au 154 Jalan Pintal Tali, George Town, Penang, dans la fourchette de prix MICHELIN $$."
+  - "C'est un restaurant peranakan (nyonya) au 154 Jalan Pintal Tali, George Town, Penang, dans la fourchette de prix MICHELIN $."
   - "La cuisine est dirigée par une cuisinière familiale septuagénaire forte de décennies d'expérience, proposant une quarantaine de classiques à la carte."
   - "Les plats signatures comprennent un asam prawn à la texture ferme dans une sauce aigre-douce riche en tamarin et le mang kuang char (dolique bulbeux râpé avec du calmar séché et des champignons)."
   - "MICHELIN note que la réservation n'est pas disponible via son site ; planifiez en conséquence."

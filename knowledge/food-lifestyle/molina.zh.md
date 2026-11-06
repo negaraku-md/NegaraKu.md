@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide 将其料理归类为创新，融合法国、北欧与亚洲影响。"
   - "餐厅位于 THE FACE Style 51 楼，可俯瞰吉隆坡天际线的全景。"
   - "次级报道将其与荷兰主厨 Sidney Schutte 相连，并指 Guillaume Depoortere 为行政主厨；它在开业后不久便摘得 Star。"
-  - "MICHELIN Guide 将其列入最高（$$$$）价位档，并标示适合约会之夜。"
+  - "MICHELIN Guide 将其列入最高（$$）价位档，并标示适合约会之夜。"
 appliesTo: "正在研究吉隆坡获 MICHELIN 认可之马来西亚 fine dining 的旅客、美食爱好者与食客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

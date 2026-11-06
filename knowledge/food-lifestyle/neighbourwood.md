@@ -8,7 +8,7 @@ subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -16,13 +16,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood is a MICHELIN Bib Gourmand restaurant in Bukit Mertajam, Seberang Perai — the mainland half of Penang state. A relaxed neighbourhood spot opened by a nearby resident, it serves contemporary European food with Asian influences plus grilled dishes, with a menu that rotates every six weeks and house-baked sourdough among its signatures."
-answer: "Neighbourwood is a MICHELIN Bib Gourmand restaurant at 3427 Jalan Kulim, Bukit Mertajam, in Seberang Perai — the mainland part of Penang state. It serves contemporary European cooking with Asian influences alongside grilled dishes, with a menu that changes every six weeks and a handful of signatures that stay on. Golden, crumbly house-baked sourdough and a wide dessert selection are highlights. MICHELIN prices it in the $$ band."
+answer: "Neighbourwood is a MICHELIN Bib Gourmand restaurant at 3427 Jalan Kulim, Bukit Mertajam, in Seberang Perai — the mainland part of Penang state. It serves contemporary European cooking with Asian influences alongside grilled dishes, with a menu that changes every six weeks and a handful of signatures that stay on. Golden, crumbly house-baked sourdough and a wide dessert selection are highlights. MICHELIN prices it in the $ band."
 keyTakeaways:
   - "Neighbourwood holds a MICHELIN Bib Gourmand for good-quality, good-value cooking."
-  - "It serves European Contemporary food with Asian influences plus grilled dishes, in the MICHELIN $$ price band."
+  - "It serves European Contemporary food with Asian influences plus grilled dishes, in the MICHELIN $ price band."
   - "The menu rotates roughly every six weeks, with a few signature, share-friendly dishes that stay on."
   - "House-baked sourdough in several flavours and a selection of more than ten desserts are standout items."
   - "It is at 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) — on Penang's mainland, not George Town island."

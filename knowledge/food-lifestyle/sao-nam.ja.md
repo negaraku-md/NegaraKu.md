@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "ベトナム人の厨房チームがベトナム各地の料理を手がけ、MICHELIN Guide は強いフランスの影響があると述べています。"
   - "看板の phở bò（牛肉のフォー）は、10 時間以上煮込むスープを土台にしています。"
   - "マンゴスチンとエビのサラダは見どころで、大きな風味と対照的な食感をガイドが称賛しています。"
-  - "店は 25 Tengkat Tong Shin, Bukit Bintang にあり、$$ の価格帯で、家族向けと示されています。"
+  - "店は 25 Tengkat Tong Shin, Bukit Bintang にあり、$ の価格帯で、家族向けと示されています。"
 faq:
   - q: "Sao Nam の必食の料理は何ですか？"
     a: "MICHELIN Guide は二つを挙げています。phở bò（牛肉のフォー）は象徴的な注文で、スープの仕込みに 10 時間以上かかります。マンゴスチンとエビのサラダはもう一つの逸品で、大きな風味と対照的な食感で味覚を刺激すると評されています。"
   - q: "Sao Nam は MICHELIN Star を持っていますか？"
     a: "いいえ。Sao Nam が獲得しているのは Bib Gourmand で、これは良質な料理をお値打ち価格で提供することへの MICHELIN の別の評価です。Star ではなく、二つの賞は独立して授与されます。"
   - q: "Sao Nam はどこにあり、家族連れに向いていますか？"
-    a: "店は 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 にあり、黄色いファサードと色鮮やかな内装が特徴です。MICHELIN Guide は家族向けと示し、$$ の価格帯に位置づけています。"
+    a: "店は 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200 にあり、黄色いファサードと色鮮やかな内装が特徴です。MICHELIN Guide は家族向けと示し、$ の価格帯に位置づけています。"
 
 updated: 2026-11-06
 sources:

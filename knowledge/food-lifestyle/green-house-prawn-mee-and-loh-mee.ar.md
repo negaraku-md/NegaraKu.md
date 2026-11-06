@@ -9,7 +9,7 @@ lang: "ar"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "‏Green House Prawn Mee and Loh Mee كشك طعام شارع يعمل ليلًا في Jalan Burma في George Town، Penang، وهو حائز على MICHELIN Bib Gourmand. ظلّ مفضّلًا لأكثر من 30 عامًا، ويُعرف بـ Hokkien prawn mee و loh mee المبنيَّين على حساء روبيان أحمر غني بالأومامي يُحضَّر من عظام الخنزير وقشور الروبيان، مع نحو اثنتي عشرة إضافة اختيارية."
 answer: "‏Green House Prawn Mee and Loh Mee كشك طعام شارع حائز على MICHELIN Bib Gourmand في Jalan Burma في George Town، Penang. يقع داخل Restoran Old Green House، وظلّ مفضّلًا لأكثر من 30 عامًا بفضل Hokkien prawn mee و loh mee. يُحضَّر حساء الروبيان الأحمر المميّز من عظام الخنزير وقشور الروبيان لنكهة أومامي عميقة، وتُقدَّم نحو اثنتي عشرة إضافة. يعمل ليلًا ويقبل النقد فقط."

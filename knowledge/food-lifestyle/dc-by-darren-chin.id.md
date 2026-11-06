@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide mengklasifikasikan masakannya sebagai Prancis Kontemporer, dengan pengaruh global dan sentuhan Malaysia."
   - "Restoran ini termasuk di antara restoran pertama yang menerima MICHELIN Star dalam guide Malaysia perdana dan mempertahankannya sejak itu, menurut laporan sekunder."
   - "Restoran ini berada di Taman Tun Dr Ismail (TTDI), Kuala Lumpur, di tiga lantai dengan bar, ruang makan, dan sebuah ruang privat bertema Louis XIII."
-  - "MICHELIN Guide mencantumkannya dalam kategori harga tertinggi ($$$$) dan mencatat sebuah troli keju Prancis dan daftar anggur."
+  - "MICHELIN Guide mencantumkannya dalam kategori harga tertinggi ($$) dan mencatat sebuah troli keju Prancis dan daftar anggur."
 appliesTo: "Wisatawan, penggemar kuliner, dan pengunjung yang meneliti fine dining Malaysia yang diakui MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

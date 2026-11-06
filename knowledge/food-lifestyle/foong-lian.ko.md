@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian은 쿠알라룸푸르 Pudu의 Jalan Yew에 있는 광둥식 식당으로, MICHELIN Guide의 Bib Gourmand를 보유하고 있으며 1986년부터 숯불로 지은 claypot rice를 냅니다. 'Worth Queueing For' 태그가 붙어 있으며, 보존육·닭다리·소금에 절인 생선을 올린 claypot rice와 국물·간식으로 현지인의 사랑을 받습니다. 이 글은 음식, 분위기, 그리고 방문 방법을 다룹니다."
 seoTitle: "Foong Lian, 쿠알라룸푸르"
 answer: "Foong Lian은 쿠알라룸푸르 Pudu의 Jalan Yew에 있는 광둥식 식당으로, 가성비 좋은 요리로 MICHELIN Guide의 Bib Gourmand로 인정받았습니다. 1986년부터 숯불로 claypot rice를 지으며 불을 세심하게 조절하고, 보존육(돼지고기·간 소시지), 닭다리 또는 소금에 절인 생선 같은 토핑을 올립니다. 국물과 두부피 말이 같은 간식도 있습니다. 저렴한 $ 식당으로 'Worth Queueing For' 태그가 붙어 있고 예약은 매장이 직접 받습니다."

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara adalah restoran Thai MICHELIN Bib Gourmand di George Town, Penang, yang menyajikan masakan Thai otentik bergaya rumahan dan seafood segar di ruang makan yang tinggi dan bernuansa hijau. Variasi tom yum dan hidangan pembuka miang kam adalah menu yang disoroti inspektur, dengan porsi melimpah pada harga ramah."
 seoTitle: "Thara: Bib Gourmand Thai, George Town Penang"
 answer: "Thara adalah restoran Thai di 5 Lorong Prangin di George Town, Penang, yang diakui dengan MICHELIN Bib Gourmand untuk masakan baik dengan harga terjangkau. Kokinya memiliki pengalaman lebih dari 15 tahun memasak hidangan otentik dari negara asalnya, dengan fokus pada seafood segar. Inspektur MICHELIN menyoroti deretan variasi sup tom yum dan hidangan pembuka miang kam."
@@ -25,7 +24,7 @@ keyTakeaways:
   - "Restoran ini berada di 5 Lorong Prangin di George Town, menawarkan porsi melimpah pada harga ramah."
 faq:
   - q: "Di mana Thara dan masakan apa yang disajikannya?"
-    a: "Thara berada di 5 Lorong Prangin, George Town, 10100, Penang. Restoran ini menyajikan masakan Thai otentik dengan penekanan pada seafood segar, dan terdaftar oleh MICHELIN Guide pada tingkat harga sedang ($$)."
+    a: "Thara berada di 5 Lorong Prangin, George Town, 10100, Penang. Restoran ini menyajikan masakan Thai otentik dengan penekanan pada seafood segar, dan terdaftar oleh MICHELIN Guide pada tingkat harga sedang ($)."
   - q: "Apa yang harus saya pesan di Thara?"
     a: "MICHELIN Guide mengarahkan ke deretan variasi sup tom yum restoran yang dibuat dengan seafood berbeda, dan menyebut hidangan pembuka miang kam, yang dibuat dengan daun sirih segar dan saus miang kam yang manis, sebagai menu yang wajib dicoba."
   - q: "Apakah Thara memiliki bintang MICHELIN?"

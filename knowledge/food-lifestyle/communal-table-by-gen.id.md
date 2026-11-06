@@ -9,17 +9,16 @@ contentType: "place"
 lang: "id"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn adalah restoran MICHELIN Bib Gourmand di Lebuh Presgrave, George Town, Penang, yang menyajikan menu à la carte kecil berisi hidangan modern yang memadukan masakan Peranakan dan Malaysia. Dibangun di sekitar dapur terbuka dan sebuah counter panjang, ia terdaftar sebagai Malaysian ($); hidangan khasnya adalah dada bebek yang dimatangkan dalam bakpao kukus."
 
-summary: "Communal Table by Gēn adalah restoran MICHELIN Bib Gourmand di Lebuh Presgrave, George Town, Penang, yang menyajikan menu à la carte kecil berisi hidangan modern yang memadukan masakan Peranakan dan Malaysia. Dibangun di sekitar dapur terbuka dan sebuah counter panjang, ia terdaftar sebagai Malaysian ($$); hidangan khasnya adalah dada bebek yang dimatangkan dalam bakpao kukus."
-
-answer: "Communal Table by Gēn adalah restoran Malaysia-modern di 68 Lebuh Presgrave, George Town, Penang, yang memegang MICHELIN Bib Gourmand untuk masakan bernilai baik. MICHELIN Guide mencantumkannya sebagai Malaysian dalam pita $$ dan menggambarkan sebuah ruang santai dengan dapur terbuka, sebuah counter panjang, dan jendela dari lantai sampai langit-langit, menyajikan menu makan malam à la carte kecil berisi hidangan modern yang memadukan masakan Peranakan dan Malaysia dengan bahan lokal. Hidangan khasnya adalah dada bebek yang dimatangkan dalam bakpao kukus dengan kulit renyah dan 'saus rahasia.'"
+answer: "Communal Table by Gēn adalah restoran Malaysia-modern di 68 Lebuh Presgrave, George Town, Penang, yang memegang MICHELIN Bib Gourmand untuk masakan bernilai baik. MICHELIN Guide mencantumkannya sebagai Malaysian dalam pita $ dan menggambarkan sebuah ruang santai dengan dapur terbuka, sebuah counter panjang, dan jendela dari lantai sampai langit-langit, menyajikan menu makan malam à la carte kecil berisi hidangan modern yang memadukan masakan Peranakan dan Malaysia dengan bahan lokal. Hidangan khasnya adalah dada bebek yang dimatangkan dalam bakpao kukus dengan kulit renyah dan 'saus rahasia.'"
 keyTakeaways:
-  - "Communal Table by Gēn adalah restoran MICHELIN Bib Gourmand di George Town, Penang, terdaftar sebagai Malaysian dalam pita $$."
+  - "Communal Table by Gēn adalah restoran MICHELIN Bib Gourmand di George Town, Penang, terdaftar sebagai Malaysian dalam pita $."
   - "Dapurnya menyajikan menu à la carte kecil berisi hidangan modern yang memadukan masakan Peranakan dan Malaysia dengan bahan lokal."
   - "Pilihan khas MICHELIN adalah dada bebek yang dimatangkan dalam bakpao kukus — kulit renyah dan 'saus rahasia.'"
   - "Ruangnya dibangun di sekitar dapur terbuka, sebuah meja counter panjang, dan jendela dari lantai sampai langit-langit — sebuah pengalaman makan di counter."

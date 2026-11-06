@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian कुआलालंपुर के Pudu में Jalan Yew पर एक कैंटोनीज़ भोजनालय है, जो MICHELIN Guide का Bib Gourmand धारण करता है और 1986 से कोयले पर पकाया गया claypot rice परोसता है। 'Worth Queueing For' टैग किया गया यह, संरक्षित मांस, चिकन टाँग या नमकीन मछली से सजे claypot rice तथा सूप और नाश्तों के लिए स्थानीय लोगों का पसंदीदा है। यह प्रोफ़ाइल इसके खाने, माहौल और वहाँ जाने के तरीके को शामिल करती है।"
 seoTitle: "Foong Lian, कुआलालंपुर"
 answer: "Foong Lian कुआलालंपुर के Pudu में Jalan Yew पर एक कैंटोनीज़ भोजनालय है, जिसे किफ़ायती बेहतरीन खाने के लिए MICHELIN Guide के Bib Gourmand से मान्यता मिली है। यह 1986 से कोयले पर पकाया गया claypot rice परोसता आ रहा है, आँच को सावधानी से नियंत्रित करते हुए, जिसमें संरक्षित सूअर-और-कलेजी सॉसेज, चिकन टाँग या नमकीन मछली जैसे टॉपिंग, तथा सूप और टोफू-स्किन रोल जैसे नाश्ते शामिल हैं। यह एक सस्ता $ ठिकाना है, 'Worth Queueing For' टैग किया गया है, और अपनी बुकिंग खुद संभालता है।"

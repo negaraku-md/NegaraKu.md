@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ar"
 sourceContentHash: "899bf571aa6a9eea"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Moh Teng Pheow Nyonya Koay صانع kueh حائز على Bib Gourmand من MICHELIN في George Town ببينانغ، تعود حرفته إلى عام 1933. ومختبئًا قرب Lebuh Chulia، يبخّر ويقلي ويخبز Nyonya kueh تقليدية — kueh lapis وkueh talam وang koo وNyonya chang — تُقدَّم تحت سقف زجاجي مع مظلات على الطراز البينانغي."
 
 answer: "Moh Teng Pheow Nyonya Koay صانع Nyonya kueh تقليدي في George Town ببينانغ، على شارع Jalan Masjid قرب Lebuh Chulia. يحمل Bib Gourmand من MICHELIN، وهو علامة الدليل على الطهي الجيد القيمة، ويُدرَج تحت 'Small eats' في فئة الأسعار $. يصنع هذا المحل حلوياته من الـkueh — كعك وفطائر وحلويات مبخّرة ومقلية ومخبوزة مثل kueh lapis وkueh talam وang koo وNyonya chang — بالطريقة نفسها منذ عام 1933، وتُقدَّم اليوم في صالة طعام ذات سقف زجاجي خلف الورشة."

@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide는 그 요리를 말레이시아 및 컨템포러리로 분류하며, 제철 세트 메뉴로 제공됩니다."
   - "MICHELIN은 셰프가 일본과 프랑스에서 보낸 시간을 바탕으로 일본·프랑스·말레이시아의 영향으로 유럽 레시피를 재해석한다고 설명합니다."
   - "레스토랑은 쿠알라룸푸르 Taman Tun Dr Ismail(TTDI)에 있으며, 아늑한 다이닝룸과 오픈 키친을 갖추고 있습니다."
-  - "MICHELIN Guide는 $$$ 가격대로 분류하며, 혼자 식사하기에 좋다고 표시합니다."
+  - "MICHELIN Guide는 $$ 가격대로 분류하며, 혼자 식사하기에 좋다고 표시합니다."
 appliesTo: "쿠알라룸푸르에서 MICHELIN의 인정을 받은 말레이시아 파인다이닝을 알아보는 여행자, 미식 애호가, 그리고 식도락가."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

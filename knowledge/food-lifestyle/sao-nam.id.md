@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Tim dapur Vietnam memasak hidangan dari seluruh Vietnam, dengan MICHELIN Guide mencatat adanya beberapa pengaruh Prancis yang kuat."
   - "phở bò (sup mi daging sapi) khasnya dibangun di atas kaldu yang direbus lebih dari 10 jam."
   - "Salad manggis dan udang adalah sorotan, dipuji panduan karena rasa besar dan tekstur yang kontras."
-  - "Terletak di 25 Tengkat Tong Shin, Bukit Bintang, pada kisaran harga $$, dan ditandai ramah keluarga."
+  - "Terletak di 25 Tengkat Tong Shin, Bukit Bintang, pada kisaran harga $, dan ditandai ramah keluarga."
 faq:
   - q: "Apa hidangan yang wajib dicoba di Sao Nam?"
     a: "MICHELIN Guide menyorot dua. phở bò (sup mi daging sapi) adalah pesanan ikonik, dengan kaldu yang perlu lebih dari 10 jam untuk disiapkan. Salad manggis dan udang adalah sorotan lainnya, digambarkan menggoda selera dengan rasa besar dan tekstur yang kontras."
   - q: "Apakah Sao Nam memiliki MICHELIN Star?"
     a: "Tidak. Sao Nam memegang Bib Gourmand, penghargaan MICHELIN terpisah untuk masakan berkualitas baik dengan harga sepadan. Itu bukan Star; kedua penghargaan diberikan secara independen."
   - q: "Di mana Sao Nam dan apakah cocok untuk keluarga?"
-    a: "Terletak di 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, dengan fasad kuning dan interior berwarna-warni. MICHELIN Guide menandainya ramah keluarga dan menempatkannya pada kisaran harga $$."
+    a: "Terletak di 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, dengan fasad kuning dan interior berwarna-warni. MICHELIN Guide menandainya ramah keluarga dan menempatkannya pada kisaran harga $."
 
 updated: 2026-11-06
 sources:

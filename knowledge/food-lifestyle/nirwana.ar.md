@@ -9,18 +9,17 @@ contentType: "place"
 lang: "ar"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana — المطعم الواقع في Bangsar Baru والمعروف على نطاق واسع باسم Sri Nirwana Maju — هو صرح لأرز ورق الموز حائز على Bib Gourmand من MICHELIN في شارع Jalan Telawi. يُدرجه دليل MICHELIN Guide بوصفه هنديًا ($) ويوجّه روّاده إلى طبق الأرز والكاري على ورق الموز وإلى biryani الدجاج لديه."
 
-summary: "Nirwana — المطعم الواقع في Bangsar Baru والمعروف على نطاق واسع باسم Sri Nirwana Maju — هو صرح لأرز ورق الموز حائز على Bib Gourmand من MICHELIN في شارع Jalan Telawi. يُدرجه دليل MICHELIN Guide بوصفه هنديًا ($$) ويوجّه روّاده إلى طبق الأرز والكاري على ورق الموز وإلى biryani الدجاج لديه."
-
-answer: "Nirwana مطعم هندي جنوبي عريق يقع في 43 Jalan Telawi 3 في Bangsar Baru بكوالالمبور، وهو حائز على Bib Gourmand من MICHELIN ضمن دليل MICHELIN Guide Kuala Lumpur & Penang. ويشير Bib Gourmand إلى طهي جيد النوعية وجيد القيمة. يصنّفه MICHELIN بوصفه هنديًا في فئة الأسعار $$ ويوصي بطقم ورق الموز المكوّن من الأرز وكاري الخضار، مع إفراد biryani الدجاج بالذكر لطراوة لحمه ونعومته."
+answer: "Nirwana مطعم هندي جنوبي عريق يقع في 43 Jalan Telawi 3 في Bangsar Baru بكوالالمبور، وهو حائز على Bib Gourmand من MICHELIN ضمن دليل MICHELIN Guide Kuala Lumpur & Penang. ويشير Bib Gourmand إلى طهي جيد النوعية وجيد القيمة. يصنّفه MICHELIN بوصفه هنديًا في فئة الأسعار $ ويوصي بطقم ورق الموز المكوّن من الأرز وكاري الخضار، مع إفراد biryani الدجاج بالذكر لطراوة لحمه ونعومته."
 keyTakeaways:
   - "Nirwana (يُكتب عادةً على اللافتة باسم Sri Nirwana Maju) مطعم حائز على Bib Gourmand من MICHELIN في Bangsar Baru بكوالالمبور."
-  - "يصنّفه دليل MICHELIN Guide بوصفه مطبخًا هنديًا في فئة الأسعار $$ ويضع له وسم 'Eat like a local'."
+  - "يصنّفه دليل MICHELIN Guide بوصفه مطبخًا هنديًا في فئة الأسعار $ ويضع له وسم 'Eat like a local'."
   - "يوجّه MICHELIN روّاده إلى قائمة طقم أرز ورق الموز المكوّنة من الأرز وكاري الخضار، مع إمكانية إضافة السمك أو الدجاج أو الضأن."
   - "biryani الدجاج هو الطبق الذي يفرده MICHELIN بالذكر، مثنيًا على طراوة لحمه ونعومته وتوازن نكهاته."
   - "يقع في 43 Jalan Telawi 3، بجوار Bangsar Village، ويفتح يوميًا؛ وBib Gourmand يشير إلى القيمة الجيدة لا إلى نجمة."
@@ -30,7 +29,7 @@ faq:
   - q: "بماذا يُعرف Nirwana؟"
     a: "بأرز ورق الموز. يوصي دليل MICHELIN Guide بقائمة الطقم لديه المكوّنة من الأرز وكاري الخضار المقدَّمة على ورق الموز، مع إضافات اختيارية كالسمك أو الدجاج أو الضأن، ويفرد biryani الدجاج بالذكر لطراوة لحمه ونعومته وتوازن نكهاته. ويُدرج MICHELIN المطبخ بوصفه هنديًا."
   - q: "هل يحمل Nirwana نجمة MICHELIN؟"
-    a: "لا. يحمل Nirwana شارة Bib Gourmand من MICHELIN، لا نجمة. وBib Gourmand تمييز منفصل يعترف بالطهي الجيد النوعية الجيد القيمة — وعادةً ضمن فئتي الأسعار $ و$$ في الدليل — لا بمعايير الطهي الراقي (fine dining) التي تقف خلف MICHELIN Star."
+    a: "لا. يحمل Nirwana شارة Bib Gourmand من MICHELIN، لا نجمة. وBib Gourmand تمييز منفصل يعترف بالطهي الجيد النوعية الجيد القيمة — وعادةً ضمن فئتي الأسعار $ و$ في الدليل — لا بمعايير الطهي الراقي (fine dining) التي تقف خلف MICHELIN Star."
   - q: "أين يقع Nirwana ومتى يفتح؟"
     a: "يقع في 43 Jalan Telawi 3، Bangsar Baru، Kuala Lumpur 59100، بجوار Bangsar Village. ويُدرجه دليل MICHELIN Guide مفتوحًا يوميًا من 11:30 إلى 23:00. وقد تتغيّر الأوقات، فتأكّد من المطعم قبل الذهاب؛ أمّا الحجوزات فيتولّاها المطعم مباشرةً."
 

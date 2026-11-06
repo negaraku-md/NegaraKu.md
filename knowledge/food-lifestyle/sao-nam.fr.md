@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Une équipe de cuisine vietnamienne prépare des plats de tout le Vietnam, et le MICHELIN Guide relève quelques influences françaises marquées."
   - "Son phở bò (soupe de nouilles au bœuf) emblématique repose sur un bouillon qui mijote plus de 10 heures."
   - "La salade de mangoustan et crevettes est un temps fort, saluée par le guide pour ses saveurs grandes et ses textures contrastées."
-  - "Il se trouve au 25 Tengkat Tong Shin, Bukit Bintang, dans la tranche de prix $$, et est signalé comme adapté aux familles."
+  - "Il se trouve au 25 Tengkat Tong Shin, Bukit Bintang, dans la tranche de prix $, et est signalé comme adapté aux familles."
 faq:
   - q: "Quels sont les plats incontournables chez Sao Nam ?"
     a: "Le MICHELIN Guide en met deux en avant. Le phở bò (soupe de nouilles au bœuf) est la commande emblématique, avec un bouillon qui demande plus de 10 heures de préparation. La salade de mangoustan et crevettes est l'autre plat phare, décrite comme titillant les papilles par ses saveurs grandes et ses textures contrastées."
   - q: "Sao Nam a-t-il une MICHELIN Star ?"
     a: "Non. Sao Nam détient un Bib Gourmand, une distinction MICHELIN distincte pour une cuisine de bonne qualité à bon prix. Ce n'est pas une Star ; les deux distinctions sont décernées indépendamment."
   - q: "Où se trouve Sao Nam et convient-il aux familles ?"
-    a: "Il se trouve au 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, avec une façade jaune et un intérieur coloré. Le MICHELIN Guide le signale comme adapté aux familles et le place dans la tranche de prix $$."
+    a: "Il se trouve au 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, avec une façade jaune et un intérieur coloré. Le MICHELIN Guide le signale comme adapté aux familles et le place dans la tranche de prix $."
 
 updated: 2026-11-06
 sources:

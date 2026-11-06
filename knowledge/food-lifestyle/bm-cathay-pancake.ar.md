@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏BM Cathay Pancake عربة طعام شوارع حائزة على MICHELIN Bib Gourmand في بوكيت ميرتاجام، سيبيرانغ بيراي، في برّ بينانغ الرئيسي. منذ عام 1962 تبيع طبقًا واحدًا فقط — apam balik، فطيرة مشوية على الفحم بحشوة السكر والفول السوداني، مقرمشة من الخارج ومطاطية من الداخل — وتتشكّل الطوابير في ساعات الذروة."
 seoTitle: "BM Cathay Pancake: apam balik Bib Gourmand بينانغ"
 answer: "‏BM Cathay Pancake عربة طعام شوارع حائزة على Bib Gourmand بجوار Cathay Food Court في Jalan Aston، بوكيت ميرتاجام، سيبيرانغ بيراي، في برّ بينانغ الرئيسي. منذ عام 1962 تقدّم طبقًا واحدًا فقط: apam balik، فطيرة مشوية على الفحم محشوّة بالسكر والفول السوداني، مقرمشة من الخارج ومطاطية من الداخل، تُعدّ حسب الطلب. تتعامل نقدًا فقط وتستحقّ الوقوف في الطابور."

@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor est un restaurant nord-indien à l'écart de Jalan Ampang, à Kuala Lumpur, inscrit au MICHELIN Guide avec un Bib Gourmand pour une bonne cuisine à bon rapport qualité-prix. Installé dans un bungalow résidentiel et membre de la marque d'Tandoor, ouverte en Malaisie en 1990, il propose une belle gamme réconfortante de fine cuisine indienne fondée sur des recettes familiales, avec le butter chicken masala, le naan moelleux et élastique et la glace kulfi parmi les plats retenus par le MICHELIN. Il se situe dans la tranche de prix $$ et convient aux familles comme aux repas en terrasse."
+answer: "Roti by d'Tandoor est un restaurant nord-indien à l'écart de Jalan Ampang, à Kuala Lumpur, inscrit au MICHELIN Guide avec un Bib Gourmand pour une bonne cuisine à bon rapport qualité-prix. Installé dans un bungalow résidentiel et membre de la marque d'Tandoor, ouverte en Malaisie en 1990, il propose une belle gamme réconfortante de fine cuisine indienne fondée sur des recettes familiales, avec le butter chicken masala, le naan moelleux et élastique et la glace kulfi parmi les plats retenus par le MICHELIN. Il se situe dans la tranche de prix $ et convient aux familles comme aux repas en terrasse."
 keyTakeaways:
   - "Roti by d'Tandoor détient un Bib Gourmand du MICHELIN Guide — la distinction récompensant une bonne qualité à bon prix — à Kuala Lumpur."
   - "Il sert une cuisine nord-indienne fondée sur des recettes familiales et un mélange d'herbes et d'épices, dans une maison à l'écart de Jalan Ampang."
   - "Le MICHELIN met en avant le butter chicken masala, le naan moelleux et élastique et la glace kulfi, déclinée en plusieurs parfums."
   - "Il fait partie de la marque d'Tandoor, qui, selon le MICHELIN, a ouvert en Malaisie en 1990."
-  - "Il se trouve au 82 Jalan Damai, à l'écart de Jalan Ampang, dans la tranche de prix $$, avec des places en terrasse et un cadre familial."
+  - "Il se trouve au 82 Jalan Damai, à l'écart de Jalan Ampang, dans la tranche de prix $, avec des places en terrasse et un cadre familial."
 appliesTo: "Voyageurs et convives en quête d'une cuisine nord-indienne abordable et reconnue par le MICHELIN, à Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

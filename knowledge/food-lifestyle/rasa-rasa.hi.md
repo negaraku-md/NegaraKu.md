@@ -9,12 +9,11 @@ contentType: "place"
 lang: "hi"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa, Penang के George Town में Gat Lebuh Chulia पर एक MICHELIN Bib Gourmand Peranakan रेस्तरां है। खुली ईंट की दीवारों और गमलों की हरियाली वाला एक छोटा दिन-भर का कमरा, यह pandan nasi lemak पर आधारित एक combo सेट के इर्द-गिर्द बनी एक सुगठित Nyonya मेनू परोसता है, Guide की सबसे निचली ($) मूल्य-श्रेणी में।"
 
 answer: "Rasa Rasa, Penang के George Town में 59 Gat Lebuh Chulia पर एक Peranakan (Nyonya) रेस्तरां है। यह एक MICHELIN Bib Gourmand रखता है — अच्छे मूल्य वाले पाक-कौशल के लिए Guide का चिह्न — और $ श्रेणी में है, जो सबसे निचली है। MICHELIN खुली ईंट की दीवारों और गमलों वाले एक छोटे कमरे का वर्णन करता है, और एक सुगठित मेनू का, जिसका मुख्य आकर्षण pandan nasi lemak पर आधारित एक Nyonya combo सेट है, जिसमें टोफू की परत में लिपटा पाँच-मसाला चिकन रोल जैसे व्यंजन हैं। यह केवल दिन में खुलता है और बुधवार को बंद रहता है।"

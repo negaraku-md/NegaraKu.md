@@ -9,12 +9,11 @@ contentType: "place"
 lang: "zh"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa 是槟城乔治市 Gat Lebuh Chulia 上一家 MICHELIN Bib Gourmand 峇峇娘惹餐馆。这是一处小巧的白天经营空间，裸砖墙配上盆栽绿意，供应一份简练的娘惹菜单，以一套围绕班兰 nasi lemak 的套餐为核心，落在 Guide 最低的（$）价位带。"
 
 answer: "Rasa Rasa 是一家峇峇娘惹（Nyonya）餐馆，位于槟城乔治市的 59 Gat Lebuh Chulia。它持有 MICHELIN Bib Gourmand——Guide 对物有所值烹饪的标记——落在最低的 $ 价位带。MICHELIN 形容它是一处小空间，裸砖墙配上盆栽，菜单简练，其亮点是一套以班兰 nasi lemak 为核心的娘惹套餐，菜式包括豆腐皮五香鸡肉卷。它只在白天营业，周三休息。"

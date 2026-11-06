@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng जॉर्ज टाउन, पेनांग के Cecil Street Market (Pasar Lebuh Cecil) में एक MICHELIN Bib Gourmand स्ट्रीट-फ़ूड स्टॉल है, जो बत्तख वाले koay teow th'ng के लिए प्रसिद्ध है: चपटी चावल नूडल्स, घंटों धीमी आँच पर पकाए गए गाढ़े बत्तख-और-सूअर शोरबे में। 1970 के दशक के अंत में Lau Lum Lai द्वारा स्थापित, अब इसे उनके बेटे और बहू चलाते हैं।"
 seoTitle: "Lum Lai बत्तख Koay Teow Thng: पेनांग Bib Gourmand"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng जॉर्ज टाउन, पेनांग के Cecil Street Market (Pasar Lebuh Cecil) में एक Bib Gourmand स्ट्रीट-फ़ूड स्टॉल है। इसकी ख़ासियत बत्तख वाला koay teow th'ng है: चपटी चावल नूडल्स, बत्तख, सूअर और फ़िश केक से बने साफ़, उमामी-भरपूर शोरबे में, तले हुए लहसुन और शैलट से पूरा किया जाता है। परिवार ने इसे 40 से अधिक वर्षों तक एक ही तरीक़े से पकाया है, और व्यस्त समय में क़तारें आम हैं।"

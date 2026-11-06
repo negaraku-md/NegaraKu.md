@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "96389253edf1ad12"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ravi's Famous Apom Manis என்பது பினாங்கு, George Town-இல் நீண்ட காலமாக நிலைபெற்ற ஒரு தெரு உணவுக் கடை; MICHELIN Guide-இன் Bib Gourmand தேர்வில் இடம்பெற்றுள்ளது, apom manis-இல் சிறப்பு பெற்றது — தேங்காயும் அரிசி மாவும் கொண்ட இனிப்பான, வலைப்போன்ற விளிம்பு கொண்ட அப்பம். பினாங்கு பாணி மாவில் முட்டை சேர்த்து மேலும் நறுமணம் தருகிறது; இக்கடை கிட்டத்தட்ட ஒரு நூற்றாண்டாக இயங்கிவருகிறது, பொதுவாக காலையில் விற்று முடிந்துவிடுகிறது."
 seoTitle: "Ravi's Famous Apom Manis, பினாங்கு (Bib)"
 answer: "Ravi's Famous Apom Manis என்பது பினாங்கு, George Town-இல் Jalan Burma-வில் உள்ள ஒரு Bib Gourmand தெரு உணவுக் கடை. இது apom manis-இல் சிறப்பு பெற்றது — அரிசி மாவும் தேங்காயும் கொண்ட, மையத்தில் மென்மையான, விளிம்பில் மொறுமொறுப்பான இனிப்பு அப்பம்; பினாங்கு பாணியில் நறுமணத்திற்காக முட்டை சேர்க்கப்படுகிறது. இக்குடும்பக் கடை 20ஆம் நூற்றாண்டின் தொடக்கத்தைச் சேர்ந்தது, பொதுவாக பிற்பகல் வாக்கில் விற்று முடிந்துவிடுகிறது."

@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "自分で組み立てるシーフード麺の一杯です。魚、貝、またはその両方を選び、次に 8 種類の麺と 5 種類のスープから一つを選びます。"
   - "店主が近くでシーフードの屋台も営んでいるため、最も新鮮な獲れたてだけが卓に届くと MICHELIN Guide は述べています。"
   - "メニューに迷ったら、店の定番はミックスシーフード麺と、ミルク入りの魚頭麺スープです。"
-  - "店は 44 Jalan Kaskas 2, Taman Cheras にあり、日中（午前 8 時〜午後 5 時）に営業し、$$ の価格帯です。"
+  - "店は 44 Jalan Kaskas 2, Taman Cheras にあり、日中（午前 8 時〜午後 5 時）に営業し、$ の価格帯です。"
 faq:
   - q: "Hai Kah Lang では何を注文すべきですか？"
     a: "全メニューが選びにくいと感じる場合、MICHELIN Guide は人気の二つの組み合わせを勧めています。ミックスシーフード麺と、ミルク入りの魚頭麺スープです。それ以外では、シーフードを選び、次に用意された 8 種類の麺と 5 種類のスープから選んで、自分だけの一杯を組み立てられます。"
   - q: "なぜシーフードがそれほど新鮮だと考えられているのですか？"
     a: "店主が近くでシーフードの屋台も営んでいるため、最も新鮮な獲れたてだけがメニューに届くと MICHELIN Guide は説明しています。この店はシーフード麺を求める客でいつも混み合っていると評されています。"
   - q: "Hai Kah Lang はどこにあり、いつ営業していますか？"
-    a: "店は 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100 にあり、MICHELIN Guide は営業時間を毎日午前 8 時から午後 5 時と記載しています。$$ の価格帯で、冷房が効いており、クレジットカードが使えます。"
+    a: "店は 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100 にあり、MICHELIN Guide は営業時間を毎日午前 8 時から午後 5 時と記載しています。$ の価格帯で、冷房が効いており、クレジットカードが使えます。"
 
 updated: 2026-11-06
 sources:

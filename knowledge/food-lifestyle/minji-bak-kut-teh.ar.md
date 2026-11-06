@@ -15,13 +15,13 @@ sourceContentHash: "261d47b46044a79a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "بدأ بسطةً لبائع متجوّل في أربعينيات القرن الماضي، ويديره اليوم ملّاك من الجيل الثالث، في قاعة عتيقة ذات طابع تاريخي."
   - "يقول MICHELIN Guide إن وصفة bak kut teh لديه لم تتغيّر منذ 80 عامًا، فتُنتج مرقًا عشبيًا حلو المذاق طبيعيًا."
   - "يختار الزبائن قطعة لحم الخنزير — ضلوع أو بطن أو كرش أو مزيجًا — ويقترح الدليل غمس اللحم في صلصة الصويا مع الثوم والفلفل الحار."
-  - "يقع في 7-6 Jalan Sungai Besi, Pudu، ضمن فئة السعر $$، ويَسِمه الدليل بـ 'Worth Queueing For'."
+  - "يقع في 7-6 Jalan Sungai Besi, Pudu، ضمن فئة السعر $، ويَسِمه الدليل بـ 'Worth Queueing For'."
 faq:
   - q: "ما هو bak kut teh، وكيف نسخة Minji منه؟"
     a: "‏bak kut teh شوربة ضلوع خنزير ماليزية تُغلى مع الأعشاب والتوابل. يصف MICHELIN Guide نسخة Minji بأنها عشبية وحلوة المذاق طبيعيًا، مصنوعة من وصفة لم تتغيّر منذ 80 عامًا. تختار قطعة لحم الخنزير — ضلوع أو بطن أو كرش أو مزيجًا — ويقترح الدليل غمس اللحم في صلصة الصويا مع الثوم والفلفل الحار."
   - q: "كم عمر Minji؟"
     a: "يقول MICHELIN Guide إنه بدأ بسطةً لبائع متجوّل في أربعينيات القرن الماضي، ويديره اليوم ملّاك من الجيل الثالث، بديكور داخلي عتيق ذي طابع تاريخي يعكس أجيالًا من الزبائن مرّوا به."
   - q: "أين يقع Minji وهل ينبغي أن أتوقّع الانتظار؟"
-    a: "يقع في 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100، ضمن فئة السعر $$. يَسِمه MICHELIN Guide بـ 'Worth Queueing For'، فتوقّع طوابير في أوقات الذروة. تُدار الحجوزات مباشرةً عبر المطعم، وبطاقات الائتمان غير مقبولة."
+    a: "يقع في 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100، ضمن فئة السعر $. يَسِمه MICHELIN Guide بـ 'Worth Queueing For'، فتوقّع طوابير في أوقات الذروة. تُدار الحجوزات مباشرةً عبر المطعم، وبطاقات الائتمان غير مقبولة."
 
 updated: 2026-11-06
 sources:

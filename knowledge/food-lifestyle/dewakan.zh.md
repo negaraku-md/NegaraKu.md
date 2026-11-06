@@ -18,7 +18,7 @@ keyTakeaways:
   - "它还持有一颗 MICHELIN Green Star，即该指南的可持续性殊荣，据报道是首次颁予马来西亚餐厅者。"
   - "MICHELIN Guide 将其料理归类为马来西亚与当代，以品尝菜单形式围绕本地、原生与特有食材打造。"
   - "餐厅由主厨 Darren Teoh 领军，位于 KLCC 一带 Platinum Park 的 Naza Tower 48 楼。"
-  - "MICHELIN Guide 将其列入最高（$$$$）价位档；这是一处 fine dining 目的地，由餐厅直接管理订位。"
+  - "MICHELIN Guide 将其列入最高（$$）价位档；这是一处 fine dining 目的地，由餐厅直接管理订位。"
 appliesTo: "正在研究吉隆坡获 MICHELIN 认可之马来西亚 fine dining 的旅客、美食爱好者与食客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

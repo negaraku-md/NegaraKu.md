@@ -9,7 +9,7 @@ lang: "zh"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen 是一家坐落于槟城乔治市 Lebuh Carnarvon 的老牌粤菜馆，凭借优质且超值的烹调摘得 MICHELIN Bib Gourmand。自1965年营业至今，它以做工扎实的传统粤菜以及带有本地风味的 fusion 菜式闻名——招牌是佐以本地江鱼仔干的自制炸豆腐。"
 answer: "Teksen 是位于槟城乔治市 18 & 20 Lebuh Carnarvon 的一家休闲粤菜馆，摘得 MICHELIN Bib Gourmand——这是指南对优质且超值烹调的嘉许。自1965年开业以来，它供应传统粤菜以及带本地风味的 fusion 菜式，最广为人知的一道是佐以本地江鱼仔干的自制炸豆腐。高峰时段预料需要排队。"
 keyTakeaways:
   - "Teksen 摘得 MICHELIN Bib Gourmand，这是指南对优质且超值烹调的嘉许。"
-  - "它是一家粤菜馆，位于槟城乔治市 18 & 20 Lebuh Carnarvon（10100），价位处于 MICHELIN $$ 区间。"
+  - "它是一家粤菜馆，位于槟城乔治市 18 & 20 Lebuh Carnarvon（10100），价位处于 MICHELIN $ 区间。"
   - "厨房自1965年营业至今，将传统粤菜与带本地风味的 fusion 菜式相搭配。"
   - "招牌菜是佐以本地江鱼仔干的自制炸豆腐；指南也提到每日现炖的炖汤。"
   - "MICHELIN 将其标注为「值得排队」——繁忙时段预料需要等候，出发前请查看营业时间。"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee は、スベラン・プライのブキッ・メルタジャム（ペナンの本土側）にある MICHELIN Bib Gourmand の屋台で、ココナッツミルクとカレーのクリーミーな出汁に半生のハイガイをのせた、数十年来の curry mee で高く評価されている。本プロフィールでは、MICHELIN の評価、看板の一杯、場所、訪問方法を紹介する。"
 seoTitle: "Taman Bukit Curry Mee：ペナンのビブグルマン"
 answer: "Taman Bukit Curry Mee はペナン本土側の屋台で、MICHELIN Guide Kuala Lumpur & Penang のセレクションで MICHELIN Bib Gourmand に選ばれている。curry mee で知られ——ココナッツミルクとカレーペーストのクリーミーな出汁に麺を入れ、半生のハイガイをのせた一杯で——隠れたフードコートで数十年にわたり売られてきた。場所は Jalan Bukit Kecil、Taman Bukit、ブキッ・メルタジャム、スベラン・プライ。"

@@ -15,13 +15,13 @@ sourceContentHash: "261d47b46044a79a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Khởi đầu là một quầy hàng rong thập niên 1940 và nay do thế hệ chủ thứ ba điều hành, trong một không gian cũ kỹ, có bề dày lịch sử."
   - "MICHELIN Guide cho biết công thức bak kut teh của quán không đổi suốt 80 năm, cho ra nước dùng thảo dược và ngọt tự nhiên."
   - "Thực khách chọn phần thịt heo — sườn, ba chỉ, lòng, hoặc kết hợp — và cẩm nang gợi ý chấm thịt vào nước tương với tỏi và ớt."
-  - "Quán ở 7-6 Jalan Sungai Besi, Pudu, trong khung giá $$, và cẩm nang gắn nhãn 'Worth Queueing For'."
+  - "Quán ở 7-6 Jalan Sungai Besi, Pudu, trong khung giá $, và cẩm nang gắn nhãn 'Worth Queueing For'."
 faq:
   - q: "bak kut teh là gì, và phiên bản của Minji ra sao?"
     a: "bak kut teh là món súp sườn heo Malaysia ninh với thảo dược và gia vị. MICHELIN Guide mô tả phiên bản của Minji là thảo dược và ngọt tự nhiên, làm từ một công thức không đổi suốt 80 năm. Bạn chọn phần thịt heo — sườn, ba chỉ, lòng, hoặc kết hợp — và cẩm nang gợi ý chấm thịt vào nước tương với tỏi và ớt."
   - q: "Minji bao nhiêu tuổi?"
     a: "MICHELIN Guide cho biết quán khởi đầu là một quầy hàng rong vào thập niên 1940 và nay do thế hệ chủ thứ ba điều hành, với nội thất cũ kỹ, có bề dày lịch sử, phản ánh nhiều thế hệ thực khách đã đi qua."
   - q: "Minji ở đâu và tôi có nên chuẩn bị chờ không?"
-    a: "Quán ở 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, trong khung giá $$. MICHELIN Guide gắn nhãn 'Worth Queueing For', nên hãy lường trước việc xếp hàng vào giờ cao điểm. Việc đặt chỗ do nhà hàng trực tiếp xử lý và không nhận thẻ tín dụng."
+    a: "Quán ở 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, trong khung giá $. MICHELIN Guide gắn nhãn 'Worth Queueing For', nên hãy lường trước việc xếp hàng vào giờ cao điểm. Việc đặt chỗ do nhà hàng trực tiếp xử lý và không nhận thẻ tín dụng."
 
 updated: 2026-11-06
 sources:

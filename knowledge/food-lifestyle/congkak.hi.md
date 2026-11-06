@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak के पास MICHELIN Guide Kuala Lumpur & Penang में Bib Gourmand है — यह गाइड का अच्छी गुणवत्ता और किफ़ायती दाम का चिह्न है, कोई MICHELIN Star नहीं।"
   - "MICHELIN Guide इसे 'राष्ट्रीय गर्व और पहचान की अभिव्यक्ति' बताता है, और ऐसे व्यंजन परोसता है जो स्थानीय लोगों के लिए रोज़मर्रा के क्लासिक हैं।"
   - "इसका सबसे लोकप्रिय व्यंजन nasi ambeng थाली है, एक साझा थाल जिसकी मात्रा आपके समूह के अनुसार तय होती है।"
-  - "यह 24 Jalan Beremi, Bukit Bintang की एक रिहायशी गली में $$ (मध्यम) मूल्य-श्रेणी में है, और गाइड का 'Eat like a local' टैग रखता है।"
+  - "यह 24 Jalan Beremi, Bukit Bintang की एक रिहायशी गली में $ (मध्यम) मूल्य-श्रेणी में है, और गाइड का 'Eat like a local' टैग रखता है।"
   - "Bib Gourmand सूची हर साल संशोधित होती है, इसलिए यात्रा की योजना बनाने से पहले guide.michelin.com पर मौजूदा सम्मान की पुष्टि करें।"
 faq:
   - q: "Congkak किसके लिए जाना जाता है?"
@@ -41,7 +41,7 @@ faq:
   - q: "क्या Congkak के पास MICHELIN Star है?"
     a: "नहीं। Congkak के पास Bib Gourmand है, जो अच्छी गुणवत्ता का खाना किफ़ायती दाम पर देने वाले रेस्तराँओं के लिए MICHELIN का एक अलग सम्मान है। यह Star नहीं है, और दोनों स्वतंत्र रूप से दिए जाते हैं।"
   - q: "Congkak कहाँ है और इसकी लागत कितनी है?"
-    a: "यह 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200 पर, शहर के केंद्र के पास एक रिहायशी गली में है। MICHELIN Guide इसे $$ मूल्य-श्रेणी में रखता है, यानी मध्यम ख़र्च, और यह क्रेडिट कार्ड स्वीकार करता है।"
+    a: "यह 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200 पर, शहर के केंद्र के पास एक रिहायशी गली में है। MICHELIN Guide इसे $ मूल्य-श्रेणी में रखता है, यानी मध्यम ख़र्च, और यह क्रेडिट कार्ड स्वीकार करता है।"
 
 updated: 2026-11-06
 sources:

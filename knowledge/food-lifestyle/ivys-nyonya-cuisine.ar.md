@@ -9,17 +9,16 @@ contentType: "place"
 lang: "ar"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine مطعم بيرانكاني حائز على Bib Gourmand من MICHELIN في George Town ببينانغ، يديره زوجان منذ أكثر من 15 عامًا — Ivy في المطبخ وزوجها في الاستقبال. يُدرجه الدليل بوصفه بيرانكانيًا ($) ويشير إلى قوائم الطقم للمشاركة من أكثر أطباق النيونية مبيعًا مثل Kapitan chicken curry وJoo Hoo Char."
 
-summary: "Ivy's Nyonya Cuisine مطعم بيرانكاني حائز على Bib Gourmand من MICHELIN في George Town ببينانغ، يديره زوجان منذ أكثر من 15 عامًا — Ivy في المطبخ وزوجها في الاستقبال. يُدرجه الدليل بوصفه بيرانكانيًا ($$) ويشير إلى قوائم الطقم للمشاركة من أكثر أطباق النيونية مبيعًا مثل Kapitan chicken curry وJoo Hoo Char."
-
-answer: "Ivy's Nyonya Cuisine مطعم بيرانكاني في 100-104 Jalan Kedah، George Town، بينانغ، حائز على Bib Gourmand من MICHELIN لطهيه الجيد القيمة. يُدرجه دليل MICHELIN Guide بوصفه بيرانكانيًا في فئة $$ ويشير إلى أنّ زوجين يديرانه منذ أكثر من 15 عامًا، Ivy في المطبخ وزوجها يخدم الطاولات. ويقدّم قوائم طقم للمشاركة من أكثر أطباقه مبيعًا، منها Kapitan chicken curry وJoo Hoo Char، وهو طبق خضار مشكّلة مقلّبة في معجون الفلفل الحار."
+answer: "Ivy's Nyonya Cuisine مطعم بيرانكاني في 100-104 Jalan Kedah، George Town، بينانغ، حائز على Bib Gourmand من MICHELIN لطهيه الجيد القيمة. يُدرجه دليل MICHELIN Guide بوصفه بيرانكانيًا في فئة $ ويشير إلى أنّ زوجين يديرانه منذ أكثر من 15 عامًا، Ivy في المطبخ وزوجها يخدم الطاولات. ويقدّم قوائم طقم للمشاركة من أكثر أطباقه مبيعًا، منها Kapitan chicken curry وJoo Hoo Char، وهو طبق خضار مشكّلة مقلّبة في معجون الفلفل الحار."
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine مطعم بيرانكاني حائز على Bib Gourmand من MICHELIN في George Town ببينانغ، ضمن فئة الأسعار $$."
+  - "Ivy's Nyonya Cuisine مطعم بيرانكاني حائز على Bib Gourmand من MICHELIN في George Town ببينانغ، ضمن فئة الأسعار $."
   - "يديره زوجان منذ أكثر من 15 عامًا — Ivy تقود المطبخ وزوجها يخدم الطاولات."
   - "يبرز MICHELIN طبق Kapitan chicken curry وطبق Joo Hoo Char (خضار مشكّلة حارة مقلّبة في معجون الفلفل الحار)."
   - "يوصي الدليل بقوائم الطقم للمشاركة لديه، المبنية حول أكثر أطباق النيونية مبيعًا في المطعم."

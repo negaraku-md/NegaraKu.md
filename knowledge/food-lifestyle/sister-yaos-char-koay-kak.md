@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak is a MICHELIN Bib Gourmand street-food stall on Lorong Macalister in George Town, Penang, serving char koay kak: fried rice cake with good wok hei, soy sauce, bean sprouts, egg and chilli. The Teochew dish was begun by the sisters' father in 1963 and is now run by three daughters."
 seoTitle: "Sister Yao's Char Koay Kak: Penang Bib Gourmand"
 answer: "Sister Yao's Char Koay Kak is a Bib Gourmand street-food stall at 96 Lorong Macalister, George Town, Penang. Its one dish is char koay kak, a Teochew-style fried rice cake cooked with smoky wok hei, soy sauce, bean sprouts, egg and chilli, with extra hot sauce on request. Begun by the sisters' father in 1963, it is now run by three daughters. It is cash only."

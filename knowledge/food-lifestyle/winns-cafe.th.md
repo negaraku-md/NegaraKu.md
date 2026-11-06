@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe เป็นร้านอาหารเปอรานากันระดับ MICHELIN Bib Gourmand ในจอร์จทาวน์ ปีนัง ดำเนินการโดยสามีภรรยาจากบ้านเดี่ยวหลังหนึ่ง โดยภรรยาเป็นผู้ปรุงสูตรยอนญา (Nyonya) ของครอบครัว โปรไฟล์นี้ครอบคลุมการได้รับการยอมรับจาก MICHELIN เมนูเด่น บรรยากาศ และวิธีไปเยือน"
 seoTitle: "Winn's Cafe: บิบ กูร์มองด์ เปอรานากันแห่งปีนัง"
 answer: "Winn's Cafe เป็นร้านอาหารเปอรานากันในจอร์จทาวน์ ปีนัง ที่ได้รับการจัดอันดับเป็น MICHELIN Bib Gourmand ในการคัดเลือกของ MICHELIN Guide Kuala Lumpur & Penang สามีภรรยาคู่หนึ่งดำเนินการจากบ้านเดี่ยวหลังหนึ่ง โดยภรรยาปรุงสูตรยอนญาของครอบครัว MICHELIN เน้น otak otak และปลากระเบน asam tumis ของร้าน ตั้งอยู่ที่ 38 Jalan Cantonment จอร์จทาวน์"

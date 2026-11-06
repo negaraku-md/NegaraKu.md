@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee என்பது Seberang Perai-இன் Bukit Mertajam-இல் (பினாங்கு பிரதான நிலப்பகுதி) உள்ள ஒரு MICHELIN Bib Gourmand தெரு உணவுக் கடை. தேங்காய்ப்பால்-கறி கலந்த கிரீமி குழம்பும் பாதி வேகவைத்த மட்டியும் கொண்ட, பல பத்தாண்டுகள் பழமையான curry mee-க்காக இது போற்றப்படுகிறது. இந்தத் தொகுப்பு அதன் MICHELIN அங்கீகாரம், சிறப்பு உணவு, இடம் மற்றும் செல்லும் முறையை உள்ளடக்கியது."
 seoTitle: "Taman Bukit Curry Mee: பினாங்கு Bib Gourmand"
 answer: "Taman Bukit Curry Mee என்பது MICHELIN Guide Kuala Lumpur & Penang தேர்வில் MICHELIN Bib Gourmand ஆகப் பட்டியலிடப்பட்டுள்ள பினாங்கு பிரதான நிலப்பகுதியின் ஒரு தெரு உணவுக் கடை. இது curry mee-க்காக அறியப்படுகிறது — தேங்காய்ப்பால்-கறி விழுது கலந்த கிரீமி குழம்பில் நூடுல்ஸ், மேலே பாதி வேகவைத்த மட்டி — இது ஒரு மறைவான உணவு மையத்திலிருந்து பல பத்தாண்டுகளாக விற்கப்பட்டு வருகிறது. இது Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai-இல் உள்ளது."

@@ -18,7 +18,7 @@ keyTakeaways:
   - "The MICHELIN Guide classifies its cuisine as Malaysian and Contemporary, presented as a 'Tour of Malaysia' menu."
   - "MICHELIN describes the chef reworking local favourites with modern techniques and meticulous plating in a 'theatrical' dining room."
   - "A signature add-on noted by MICHELIN is an abalone Lawas rice — Sarawakian heirloom rice topped with abalone."
-  - "The restaurant is on Jalan Perak, Kuala Lumpur, listed in the $$$ price band; the guide flags it as good for date night."
+  - "The restaurant is on Jalan Perak, Kuala Lumpur, listed in the $$ price band; the guide flags it as good for date night."
 appliesTo: "Travellers, food enthusiasts and diners researching Malaysia's MICHELIN-recognised fine dining in Kuala Lumpur."
 
 faq:
@@ -33,10 +33,10 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

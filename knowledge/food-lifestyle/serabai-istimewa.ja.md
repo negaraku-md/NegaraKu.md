@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "cdf02a988ecac9d6"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Serabai Istimewa はペナン、George Town で長く続く屋台で、MICHELIN Guide の Bib Gourmand セレクションに選ばれている。名物は serabai——ココナッツミルク入りの米粉パンケーキで、パームシュガー（gula melaka）シロップを添えて供される。1970 年代から営業し、プレーン・卵・黒糖の各種を売り、通常は早朝のみの営業である。"
 seoTitle: "Serabai Istimewa、ペナン（Bib Gourmand）"
 answer: "Serabai Istimewa はペナン、George Town の屋台で、MICHELIN Guide Kuala Lumpur & Penang に、コストパフォーマンスのよい料理に贈られる Bib Gourmand として掲載されている。1970 年代から serabai——パームシュガー（gula melaka）シロップを添えて食べる柔らかなココナッツミルク米粉パンケーキ——を売り、プレーン・卵・黒糖の各種があり、10am 前の訪問が最適である。"

@@ -9,18 +9,17 @@ contentType: "place"
 lang: "ja"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana——Sri Nirwana Majuとして広く知られるBangsar Baruのレストラン——は、Jalan TelawiにあるバナナリーフライスのMICHELIN Bib Gourmand老舗だ。MICHELIN GuideはこれをIndian（$）として掲載し、バナナの葉に盛るライスとカレーのセット、そしてchicken biryaniへと食客をいざなう。"
 
-summary: "Nirwana——Sri Nirwana Majuとして広く知られるBangsar Baruのレストラン——は、Jalan TelawiにあるバナナリーフライスのMICHELIN Bib Gourmand老舗だ。MICHELIN GuideはこれをIndian（$$）として掲載し、バナナの葉に盛るライスとカレーのセット、そしてchicken biryaniへと食客をいざなう。"
-
-answer: "Nirwanaは、クアラルンプールのBangsar Baru、43 Jalan Telawi 3にある長く続く南インド料理のレストランで、MICHELIN Guide Kuala Lumpur & PenangでMICHELIN Bib Gourmandを保持している。Bib Gourmandは、質がよくコストパフォーマンスのよい料理を示す。MICHELINはこれを$$の価格帯のIndianと位置づけ、ライスと野菜カレーのバナナリーフのセットを薦め、chicken biryaniをそのしっとりと柔らかい肉ゆえに特筆している。"
+answer: "Nirwanaは、クアラルンプールのBangsar Baru、43 Jalan Telawi 3にある長く続く南インド料理のレストランで、MICHELIN Guide Kuala Lumpur & PenangでMICHELIN Bib Gourmandを保持している。Bib Gourmandは、質がよくコストパフォーマンスのよい料理を示す。MICHELINはこれを$の価格帯のIndianと位置づけ、ライスと野菜カレーのバナナリーフのセットを薦め、chicken biryaniをそのしっとりと柔らかい肉ゆえに特筆している。"
 keyTakeaways:
   - "Nirwana（通常はSri Nirwana Majuとして掲げられる）は、クアラルンプールのBangsar BaruにあるMICHELIN Bib Gourmandのレストランである。"
-  - "MICHELIN Guideはこれを$$の価格帯のIndian料理に分類し、「Eat like a local」のタグを付けている。"
+  - "MICHELIN Guideはこれを$の価格帯のIndian料理に分類し、「Eat like a local」のタグを付けている。"
   - "MICHELINは、ライスと野菜カレーのバナナリーフのセットメニューへと食客をいざない、魚・鶏・ラムを追加で選べる。"
   - "chicken biryaniはMICHELINが特筆する一皿で、しっとりと柔らかい肉とバランスのとれた味わいが称えられている。"
   - "43 Jalan Telawi 3、Bangsar Villageのそばにあり、毎日営業している。Bib Gourmandはコストパフォーマンスを示すものであって、星ではない。"
@@ -30,7 +29,7 @@ faq:
   - q: "Nirwanaは何で知られていますか？"
     a: "バナナリーフライスです。MICHELIN Guideは、バナナの葉に盛られたライスと野菜カレーのセットメニューを薦め、魚・鶏・ラムなどを追加で選べるとし、chicken biryaniをそのしっとりと柔らかい肉とバランスのとれた味わいゆえに特筆しています。MICHELINは料理をIndianとして掲載しています。"
   - q: "NirwanaにはMICHELINの星がありますか？"
-    a: "いいえ。Nirwanaが保持しているのはMICHELIN Bib Gourmandで、星ではありません。Bib Gourmandは、質がよくコストパフォーマンスのよい料理を評価する別個の栄誉で——通常はGuideの$および$$の価格帯にあたり——MICHELIN Starの背後にあるファインダイニングの基準とは異なります。"
+    a: "いいえ。Nirwanaが保持しているのはMICHELIN Bib Gourmandで、星ではありません。Bib Gourmandは、質がよくコストパフォーマンスのよい料理を評価する別個の栄誉で——通常はGuideの$および$の価格帯にあたり——MICHELIN Starの背後にあるファインダイニングの基準とは異なります。"
   - q: "Nirwanaはどこにあり、いつ営業していますか？"
     a: "クアラルンプールのBangsar Baru、43 Jalan Telawi 3、郵便番号59100、Bangsar Villageのそばにあります。MICHELIN Guideは毎日11:30から23:00まで営業と掲載しています。時間は変わりうるので、訪れる前にレストランに確認してください。予約はレストランが直接受け付けます。"
 

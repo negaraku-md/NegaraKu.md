@@ -9,17 +9,16 @@ contentType: "place"
 lang: "vi"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine là một nhà hàng Peranakan đạt Bib Gourmand MICHELIN ở George Town, Penang, do một cặp vợ chồng điều hành hơn 15 năm — Ivy trong bếp, chồng bà đón khách ở ngoài. Guide xếp nơi này là Peranakan ($) và chỉ đến các thực đơn set dùng chung gồm những món Nyonya bán chạy nhất như cà ri gà Kapitan và Joo Hoo Char."
 
-summary: "Ivy's Nyonya Cuisine là một nhà hàng Peranakan đạt Bib Gourmand MICHELIN ở George Town, Penang, do một cặp vợ chồng điều hành hơn 15 năm — Ivy trong bếp, chồng bà đón khách ở ngoài. Guide xếp nơi này là Peranakan ($$) và chỉ đến các thực đơn set dùng chung gồm những món Nyonya bán chạy nhất như cà ri gà Kapitan và Joo Hoo Char."
-
-answer: "Ivy's Nyonya Cuisine là một nhà hàng Peranakan tại 100-104 Jalan Kedah, George Town, Penang, nắm giữ một Bib Gourmand MICHELIN cho món ăn đáng đồng tiền. MICHELIN Guide xếp nơi này là Peranakan ở phân khúc $$ và ghi nhận nó do một cặp vợ chồng điều hành hơn 15 năm, với Ivy trong bếp và chồng bà phục vụ bàn. Nơi đây có các thực đơn set dùng chung gồm những món bán chạy nhất, trong đó có cà ri gà Kapitan và Joo Hoo Char, một món rau củ thập cẩm xào trong tương ớt."
+answer: "Ivy's Nyonya Cuisine là một nhà hàng Peranakan tại 100-104 Jalan Kedah, George Town, Penang, nắm giữ một Bib Gourmand MICHELIN cho món ăn đáng đồng tiền. MICHELIN Guide xếp nơi này là Peranakan ở phân khúc $ và ghi nhận nó do một cặp vợ chồng điều hành hơn 15 năm, với Ivy trong bếp và chồng bà phục vụ bàn. Nơi đây có các thực đơn set dùng chung gồm những món bán chạy nhất, trong đó có cà ri gà Kapitan và Joo Hoo Char, một món rau củ thập cẩm xào trong tương ớt."
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine là một nhà hàng Peranakan đạt Bib Gourmand MICHELIN ở George Town, Penang, trong phân khúc giá $$."
+  - "Ivy's Nyonya Cuisine là một nhà hàng Peranakan đạt Bib Gourmand MICHELIN ở George Town, Penang, trong phân khúc giá $."
   - "Nơi đây do một cặp vợ chồng điều hành hơn 15 năm — Ivy cầm trịch gian bếp, chồng bà phục vụ bàn."
   - "MICHELIN làm nổi bật cà ri gà Kapitan và Joo Hoo Char (món rau củ thập cẩm xào cay trong tương ớt)."
   - "Guide gợi ý các thực đơn set dùng chung của nhà hàng, dựng quanh những món Nyonya bán chạy nhất."

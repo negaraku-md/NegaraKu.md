@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "11e34aa70bab1b92"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's es un restaurante de Oriente Medio en Taman Tun Dr Ismail, Kuala Lumpur, que ostenta un Bib Gourmand de la MICHELIN Guide por su cocina de buena relación calidad-precio. Abierto por un chef sirio que empezó repartiendo comidas caseras, es conocido por su smoked hummus impregnado de aceite de chile quemado y por el kebab khashkhash de cordero. Este perfil cubre la comida, el ambiente y cómo visitarlo."
 seoTitle: "Leen's, Kuala Lumpur"
-answer: "Leen's es un restaurante de Oriente Medio en Taman Tun Dr Ismail (TTDI), Kuala Lumpur, reconocido con un Bib Gourmand de la MICHELIN Guide, la marca de la guía para una cocina de buena calidad a buen precio. Abierto por un chef sirio que empezó repartiendo comidas caseras, es conocido por su smoked hummus impregnado de aceite de chile quemado y por el kebab khashkhash, brochetas de cordero en una salsa picante de semillas de amapola. Se sitúa en la franja de precios $$ y gestiona sus propias reservas."
+answer: "Leen's es un restaurante de Oriente Medio en Taman Tun Dr Ismail (TTDI), Kuala Lumpur, reconocido con un Bib Gourmand de la MICHELIN Guide, la marca de la guía para una cocina de buena calidad a buen precio. Abierto por un chef sirio que empezó repartiendo comidas caseras, es conocido por su smoked hummus impregnado de aceite de chile quemado y por el kebab khashkhash, brochetas de cordero en una salsa picante de semillas de amapola. Se sitúa en la franja de precios $ y gestiona sus propias reservas."
 appliesTo: "Viajeros y comensales de KL que buscan un restaurante de Oriente Medio reputado y de buena relación calidad-precio, y lectores que siguen la selección de la MICHELIN Guide de Malasia."
 keyTakeaways:
   - "Leen's es un restaurante Bib Gourmand de la MICHELIN Guide —el reconocimiento de la guía a una cocina de buena calidad y buen precio— en Taman Tun Dr Ismail, Kuala Lumpur."
   - "La cocina es de Oriente Medio, abierta por un chef sirio que empezó repartiendo comidas caseras antes de abrir su local físico."
   - "MICHELIN destaca el smoked hummus impregnado de aceite de chile quemado (ligeramente picante y muy ahumado) y el kebab khashkhash, brochetas de cordero en una salsa intensa y picante de semillas de amapola."
-  - "Es un restaurante $$, bueno para grupos, con los aromas de los panes recién horneados llenando el espacio."
+  - "Es un restaurante $, bueno para grupos, con los aromas de los panes recién horneados llenando el espacio."
   - "El restaurante gestiona sus propias reservas, así que contáctalo directamente; está en 1F, 136A Jalan Burhanuddin Helmi, TTDI."
 faq:
   - q: "¿Dónde está Leen's y qué tipo de comida sirve?"

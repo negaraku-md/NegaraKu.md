@@ -5,12 +5,11 @@ slug: "nam-heong-chicken-rice"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) is a long-running Hainanese chicken rice shop on Jalan Sultan in Kuala Lumpur's old town, open since 1938 and holding a MICHELIN Guide Bib Gourmand. Diners choose between a leaner 'veggie farm' chicken and a fattier free-range bird, with roast pork belly and Ipoh bean sprouts as popular sides. This profile covers the food, the setting and how to visit."
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice (City Centre) is a Hainanese chicken rice shop on Jalan Sultan in Kuala Lumpur, open since 1938 and recognised with a MICHELIN Guide Bib Gourmand for good-value cooking. It offers two chickens — a leaner 'veggie farm' bird and a fattier free-range one — alongside bestselling roast pork belly and crisp Ipoh bean sprouts. It is a simple, inexpensive $ spot in the old town, open daily and managing its own bookings."

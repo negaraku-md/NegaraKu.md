@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara est un restaurant thaïlandais MICHELIN Bib Gourmand à George Town, Penang, servant une cuisine thaïlandaise authentique de style familial et des fruits de mer frais dans une salle haute aux tons verts. Ses déclinaisons de tom yum et son entrée de miang kam sont les plats que les inspecteurs mettent en avant, avec des portions généreuses à des prix amicaux."
 seoTitle: "Thara : Bib Gourmand thaïlandais, George Town Penang"
 answer: "Thara est un restaurant thaïlandais au 5 Lorong Prangin, à George Town, Penang, distingué par un MICHELIN Bib Gourmand pour sa bonne cuisine à bon prix. Son chef cumule plus de 15 ans d'expérience à cuisiner des plats authentiques de son pays d'origine, avec un accent sur les fruits de mer frais. Les inspecteurs MICHELIN soulignent l'éventail de soupes tom yum et l'entrée de miang kam."
@@ -25,7 +24,7 @@ keyTakeaways:
   - "Il se trouve au 5 Lorong Prangin, à George Town, et propose des portions généreuses à des prix amicaux."
 faq:
   - q: "Où se trouve Thara et quelle cuisine sert-il ?"
-    a: "Thara se trouve au 5 Lorong Prangin, George Town, 10100, Penang. Il sert une cuisine thaïlandaise authentique mettant l'accent sur les fruits de mer frais, et le MICHELIN Guide le classe à un niveau de prix modéré ($$)."
+    a: "Thara se trouve au 5 Lorong Prangin, George Town, 10100, Penang. Il sert une cuisine thaïlandaise authentique mettant l'accent sur les fruits de mer frais, et le MICHELIN Guide le classe à un niveau de prix modéré ($)."
   - q: "Que devrais-je commander chez Thara ?"
     a: "Le MICHELIN Guide pointe l'éventail de soupes tom yum du restaurant, préparées avec différents fruits de mer, et nomme l'entrée de miang kam, faite de feuilles de bétel fraîches et d'une sauce miang kam sucrée, comme incontournable."
   - q: "Thara a-t-il une étoile MICHELIN ?"

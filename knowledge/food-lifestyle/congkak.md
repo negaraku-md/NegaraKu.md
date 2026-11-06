@@ -14,13 +14,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -32,7 +32,7 @@ keyTakeaways:
   - "Congkak holds a Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang — the guide's mark of good quality at good value, not a Star."
   - "The MICHELIN Guide describes it as 'an expression of national pride and identity,' serving dishes that are everyday classics for locals."
   - "Its most popular dish is the nasi ambeng platter, a shared spread whose portions are sized to suit your party."
-  - "It sits on a residential street at 24 Jalan Beremi, Bukit Bintang, in a $$ (moderate) price band, and carries the guide's 'Eat like a local' tag."
+  - "It sits on a residential street at 24 Jalan Beremi, Bukit Bintang, in a $ (moderate) price band, and carries the guide's 'Eat like a local' tag."
   - "The Bib Gourmand list is revised each year, so confirm the current award on guide.michelin.com before you plan a visit."
 faq:
   - q: "What is Congkak known for?"
@@ -40,7 +40,7 @@ faq:
   - q: "Does Congkak have a MICHELIN Star?"
     a: "No. Congkak holds a Bib Gourmand, which is a separate MICHELIN distinction for restaurants offering good quality cooking at good value. It is not a Star, and the two are awarded independently."
   - q: "Where is Congkak and what does it cost?"
-    a: "It is at 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, on a residential street near the city centre. The MICHELIN Guide places it in the $$ price band, meaning a moderate spend, and accepts credit cards."
+    a: "It is at 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, on a residential street near the city centre. The MICHELIN Guide places it in the $ price band, meaning a moderate spend, and accepts credit cards."
 
 updated: 2026-11-06
 sources:

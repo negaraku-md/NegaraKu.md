@@ -9,7 +9,7 @@ lang: "vi"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood là một nhà hàng MICHELIN Bib Gourmand ở Bukit Mertajam, Seberang Perai — phần đất liền của bang Penang. Là một địa điểm khu dân cư thoải mái do một cư dân gần đó mở, nhà hàng phục vụ ẩm thực châu Âu đương đại chịu ảnh hưởng châu Á cùng các món nướng, với thực đơn xoay vòng mỗi sáu tuần và bánh mì sourdough nướng tại chỗ là một trong những món đặc trưng."
-answer: "Neighbourwood là một nhà hàng MICHELIN Bib Gourmand tại 3427 Jalan Kulim, Bukit Mertajam, ở Seberang Perai — phần đất liền của bang Penang. Nhà hàng phục vụ ẩm thực châu Âu đương đại chịu ảnh hưởng châu Á bên cạnh các món nướng, với thực đơn thay đổi mỗi sáu tuần trong khi vài món đặc trưng vẫn được giữ lại. Bánh mì sourdough nướng tại chỗ vàng ruộm, giòn tan và tuyển chọn tráng miệng phong phú là những điểm nhấn. MICHELIN xếp vào phân khúc giá $$."
+answer: "Neighbourwood là một nhà hàng MICHELIN Bib Gourmand tại 3427 Jalan Kulim, Bukit Mertajam, ở Seberang Perai — phần đất liền của bang Penang. Nhà hàng phục vụ ẩm thực châu Âu đương đại chịu ảnh hưởng châu Á bên cạnh các món nướng, với thực đơn thay đổi mỗi sáu tuần trong khi vài món đặc trưng vẫn được giữ lại. Bánh mì sourdough nướng tại chỗ vàng ruộm, giòn tan và tuyển chọn tráng miệng phong phú là những điểm nhấn. MICHELIN xếp vào phân khúc giá $."
 keyTakeaways:
   - "Neighbourwood đang giữ MICHELIN Bib Gourmand cho ẩm thực ngon và đáng đồng tiền."
-  - "Nhà hàng phục vụ ẩm thực European Contemporary (châu Âu đương đại) chịu ảnh hưởng châu Á cùng các món nướng, thuộc phân khúc giá MICHELIN $$."
+  - "Nhà hàng phục vụ ẩm thực European Contemporary (châu Âu đương đại) chịu ảnh hưởng châu Á cùng các món nướng, thuộc phân khúc giá MICHELIN $."
   - "Thực đơn xoay vòng khoảng mỗi sáu tuần, với vài món đặc trưng dễ chia sẻ vẫn được giữ lại."
   - "Bánh mì sourdough nướng tại chỗ với nhiều hương vị và tuyển chọn hơn mười món tráng miệng là những món nổi bật."
   - "Nhà hàng ở 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) — trên đất liền Penang, không phải đảo George Town."

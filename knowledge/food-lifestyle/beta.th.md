@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide จัดอาหารของร้านเป็นแบบมาเลเซียและร่วมสมัย นำเสนอเป็นเมนู 'Tour of Malaysia'"
   - "MICHELIN อธิบายว่าเชฟรังสรรค์อาหารยอดนิยมท้องถิ่นขึ้นใหม่ด้วยเทคนิคสมัยใหม่และการจัดจานที่พิถีพิถันในห้องรับประทานอาหารที่ 'มีกลิ่นอายละคร'"
   - "รายการเสริมเด่นที่ MICHELIN ระบุคือ abalone Lawas rice——ข้าวพื้นเมืองซาราวักราดด้วยหอยเป๋าฮื้อ"
-  - "ร้านอยู่บน Jalan Perak, กัวลาลัมเปอร์ จัดไว้ในช่วงราคา $$$ ไกด์ระบุว่าเหมาะกับค่ำคืนเดต"
+  - "ร้านอยู่บน Jalan Perak, กัวลาลัมเปอร์ จัดไว้ในช่วงราคา $$ ไกด์ระบุว่าเหมาะกับค่ำคืนเดต"
 appliesTo: "นักเดินทาง ผู้หลงใหลในอาหาร และผู้ที่ไปรับประทานอาหาร ซึ่งกำลังค้นคว้าเกี่ยวกับไฟน์ไดนิงมาเลเซียที่ได้รับการยอมรับจาก MICHELIN ในกัวลาลัมเปอร์"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

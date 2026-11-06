@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe is a MICHELIN Bib Gourmand coffeeshop in George Town, Penang, serving halal Malaysian-Chinese hawker fare — including Penang Hokkien mee and a garlic-fried char kway teow — that began as a street stall in 1992 and is now run as a family business. This profile covers its MICHELIN recognition, signature dishes, location and how to visit."
 seoTitle: "Bee Hwa Cafe: Penang Bib Gourmand"
 answer: "Bee Hwa Cafe is a George Town coffeeshop listed as a MICHELIN Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang selection. It serves halal Malaysian-Chinese hawker food — using chicken and seafood in place of pork — with inspectors highlighting its Penang Hokkien mee and a char kway teow fried with minced garlic rather than lard. It is at 10 Lebuh Dickens, George Town, and began as a street stall in 1992."

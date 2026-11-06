@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles कुआलालंपुर के मध्य में Jalan Sultan पर स्थित एक चीनी नूडल विशेषज्ञ स्टॉल है, जिसे किफ़ायती बढ़िया खाने के लिए MICHELIN Guide ने Bib Gourmand से मान्यता दी है। इसकी खासियत है lala (सीप) bihun, जो झींगे के साथ, चीनी पीली शराब और अदरक की सुगंध वाले शोरबे में परोसा जाता है।"
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles कुआलालंपुर में Jalan Sultan पर स्थित एक नूडल स्टॉल है, जिसके पास MICHELIN Bib Gourmand है — यह अच्छी गुणवत्ता को किफ़ायती दाम पर देने के लिए Guide का पुरस्कार है। इसकी खास डिश है lala (सीप) bihun, जो झींगे के साथ उस शोरबे में परोसी जाती है जिसे MICHELIN Guide चीनी पीली शराब और अदरक की सुगंध वाला बताता है। यह एक सड़क किनारे के स्टॉल से बढ़कर दो मंज़िला कोने की दुकान बन गया और Guide की सबसे निचली ($) मूल्य श्रेणी में आता है।"

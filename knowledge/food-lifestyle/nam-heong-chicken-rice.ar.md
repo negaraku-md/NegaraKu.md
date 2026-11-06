@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) محلٌّ عريق لأرز الدجاج الهايناني في Jalan Sultan بالبلدة القديمة من كوالالمبور، يعمل منذ عام 1938 وحائزٌ على Bib Gourmand من MICHELIN Guide. يختار الزبائن بين دجاجة 'مزرعة الخضار' الأقل دهونًا ودجاجة المزارع الحرة الأكثر دهونًا، مع roast pork belly (بطن خنزير مشوي) وَ Ipoh bean sprouts كأطباق جانبية مفضَّلة. يتناول هذا الملف الطعام والأجواء وكيفية الزيارة."
 seoTitle: "Nam Heong Chicken Rice، KL"
 answer: "Nam Heong Chicken Rice (City Centre) محلٌّ لأرز الدجاج الهايناني في Jalan Sultan بكوالالمبور، يعمل منذ عام 1938 ونال تقدير Bib Gourmand من MICHELIN Guide لطهيٍ بقيمةٍ جيدة. يقدّم نوعين من الدجاج — دجاجة 'مزرعة الخضار' الأقل دهونًا ودجاجة المزارع الحرة الأكثر دهونًا — إلى جانب roast pork belly (بطن خنزير مشوي) الأكثر مبيعًا وَ Ipoh bean sprouts المقرمش. وهو محلٌّ $ بسيط ورخيص في البلدة القديمة، يفتح يوميًا ويتولى حجوزاته بنفسه."

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba என்பது கோலாலம்பூர் Brickfields-இல் உள்ள ஒரு பேரநாக்கன் (Peranakan) உணவகம்; நல்ல விலைக்கு ஏற்ற சமையலுக்காக MICHELIN Guide இதற்கு Bib Gourmand வழங்கியுள்ளது. 2018 முதல் இயங்கி வரும் இது, இந்தோ-மலாய் சுவைகளை சீன தாக்கங்களுடன் இணைக்கும் தெற்கு பேரநாக்கன் உணவை வழங்குகிறது; அதன் முன்னிலை உணவு ayam goreng kunyit-உடன் பரிமாறப்படும் nasi lemak."
 seoTitle: "Anak Baba"
 answer: "Anak Baba என்பது கோலாலம்பூர் Brickfields-இல் உள்ள ஒரு பேரநாக்கன் உணவகம்; இது MICHELIN Bib Gourmand-ஐ வைத்துள்ளது — இது நல்ல தரத்தையும் நல்ல விலையையும் அங்கீகரிக்கும் Guide-இன் விருது, நட்சத்திரம் அல்ல. 2018 முதல் இயங்கி வரும் இது, இந்தோ-மலாய் சுவைகளை சீன தாக்கங்களுடன் இணைக்கும் தெற்கு பேரநாக்கன் சமையலை வழங்குகிறது; MICHELIN Guide அதன் ayam goreng kunyit (மஞ்சள் சேர்த்த வறுத்த கோழி)-உடன் பரிமாறப்படும் nasi lemak-ஐ முன்னிலைப்படுத்துகிறது. இது Guide-இன் மிகக் குறைந்த ($) விலை வரம்பில் இருக்கிறது."

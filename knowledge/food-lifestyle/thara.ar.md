@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Thara مطعم تايلاندي حائز على MICHELIN Bib Gourmand في جورج تاون، بينانغ، يقدّم طهياً تايلانديًا أصيلاً بأسلوب منزلي ومأكولات بحرية طازجة في قاعة طعام مرتفعة بدرجات اللون الأخضر. تنويعات tom yum وطبق miang kam الافتتاحي هما الطبقان اللذان يخصّهما المفتّشون بالذكر، بأحجام سخية وأسعار ودودة."
 seoTitle: "‏Thara: مطعم تايلاندي Bib Gourmand، جورج تاون بينانغ"
 answer: "‏Thara مطعم تايلاندي في 5 Lorong Prangin بجورج تاون، بينانغ، نال تقدير MICHELIN Bib Gourmand مقابل طهي جيد بسعر مجزٍ. يتمتّع طاهيه بخبرة تزيد على 15 عامًا في طهي أطباق أصيلة من بلده الأم، مع التركيز على المأكولات البحرية الطازجة. ويبرز مفتّشو MICHELIN تشكيلة تنويعات شوربة tom yum وطبق miang kam الافتتاحي."
@@ -25,7 +24,7 @@ keyTakeaways:
   - "يقع في 5 Lorong Prangin بجورج تاون، ويقدّم أحجامًا سخية بأسعار ودودة."
 faq:
   - q: "أين يقع Thara وما نوع المطبخ الذي يقدّمه؟"
-    a: "‏يقع Thara في 5 Lorong Prangin، جورج تاون، 10100، بينانغ. يقدّم مطبخًا تايلانديًا أصيلاً مع تركيز على المأكولات البحرية الطازجة، ومُدرَج في MICHELIN Guide ضمن مستوى سعري متوسط ($$)."
+    a: "‏يقع Thara في 5 Lorong Prangin، جورج تاون، 10100، بينانغ. يقدّم مطبخًا تايلانديًا أصيلاً مع تركيز على المأكولات البحرية الطازجة، ومُدرَج في MICHELIN Guide ضمن مستوى سعري متوسط ($)."
   - q: "ماذا ينبغي أن أطلب في Thara؟"
     a: "يشير MICHELIN Guide إلى تشكيلة تنويعات شوربة tom yum في المطعم المعدّة بأنواع مختلفة من المأكولات البحرية، ويذكر طبق miang kam الافتتاحي، المعدّ بأوراق التنبول الطازجة وصلصة miang kam الحلوة، بوصفه طبقًا لا بد من تجربته."
   - q: "هل لدى Thara نجمة MICHELIN؟"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 は、クアラルンプールの Taman U Thant にある The LINC KL 内のマレーシア料理店で、著名シェフの Chef Wan とゆかりがあり、MICHELIN Guide により Bib Gourmand として認められています。MICHELIN Guide は、大胆なトロピカルの風味と、カリッとしたエビのほほ肉を添えたポメロサラダや bakar bakar のバーベキューといった料理を紹介しています。"
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 は、クアラルンプールの Taman U Thant にある The LINC KL 内のマレーシア料理店で、Chef Wan として知られる著名シェフとゆかりがあります。星ではなく、良質なものを手頃な価格で提供する店に Guide が贈る賞である MICHELIN Bib Gourmand を保持しています。MICHELIN Guide は、明るく活気のある空間と大胆なトロピカルの風味を紹介し、カリッとしたエビのほほ肉を添えたポメロサラダと bakar bakar（自家製ソースで供するバーベキューの肉または魚介）を薦めています。"
@@ -22,7 +21,7 @@ keyTakeaways:
   - "この料理店は Chef Wan として知られるマレーシアの著名シェフとゆかりがあり、大胆なトロピカルの風味を備えたマレーシア料理を提供しています。"
   - "MICHELIN Guide は、kerabu ライムのドレッシングでカリッとしたエビのほほ肉を添えたポメロサラダから始めることを薦めています。"
   - "もう一つの注目料理は bakar bakar——自家製ソースを選べるバーベキューの肉または魚介——で、量がたっぷりあり、シェアに向いています。"
-  - "Taman U Thant の The LINC KL にあり、$$ の価格帯に属します。Bib Gourmand のセレクションは毎年見直されます。"
+  - "Taman U Thant の The LINC KL にあり、$ の価格帯に属します。Bib Gourmand のセレクションは毎年見直されます。"
 faq:
   - q: "De. Wan 1958 は誰とゆかりがありますか？"
     a: "この料理店は、一般に Chef Wan として知られるマレーシアの著名シェフとゆかりがあります。広く報じられているところによれば、店名の「1958」はこのシェフの生まれた年を指すとされますが、この点は伝記的な情報源と照合して確認すべきです。"

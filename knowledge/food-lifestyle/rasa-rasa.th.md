@@ -9,12 +9,11 @@ contentType: "place"
 lang: "th"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa เป็นร้านอาหาร Peranakan ระดับ MICHELIN Bib Gourmand บน Gat Lebuh Chulia ใน George Town ปีนัง. เป็นห้องเล็ก ๆ ที่เปิดกลางวัน ผนังอิฐเปลือยและไม้กระถาง เสิร์ฟเมนู Nyonya กระชับที่สร้างรอบเซ็ตคอมโบพร้อม nasi lemak ใบเตย ในพิกัดราคาต่ำสุด ($) ของ Guide"
 
 answer: "Rasa Rasa เป็นร้านอาหาร Peranakan (Nyonya) ที่ 59 Gat Lebuh Chulia, George Town, ปีนัง. ถือรางวัล MICHELIN Bib Gourmand — เครื่องหมายของ Guide สำหรับอาหารคุ้มราคา — และอยู่ในพิกัด $ ซึ่งต่ำสุด. MICHELIN บรรยายถึงห้องเล็กผนังอิฐเปลือยและไม้กระถาง พร้อมเมนูกระชับที่ไฮไลต์คือเซ็ตคอมโบ Nyonya ซึ่งสร้างรอบ nasi lemak ใบเตย มีเมนูอย่างไก่ม้วนห้าเครื่องเทศห่อฟองเต้าหู้. เปิดเฉพาะกลางวันและปิดวันพุธ"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian は、ペナン州ジョージタウンの Medan Renong フードコートにある MICHELIN Bib Gourmand の屋台で、珍しい green tom yum の麺料理で知られ、麺スープと焼きそばも提供する。本プロフィールでは、MICHELIN の評価、看板の一杯、場所、訪問方法を紹介する。"
 seoTitle: "Ghee Lian：ペナンのビブグルマン屋台"
 answer: "Ghee Lian はペナンの屋台で、MICHELIN Guide Kuala Lumpur & Penang のセレクションで MICHELIN Bib Gourmand に選ばれている。看板は珍しい green tom yum の麺料理で——MICHELIN は酸味と辛味のバランスを称賛する——麺スープと焼きそばも添えて出す。場所は Jalan Tun Syed Sheh Barakhbah の Medan Renong フードコート、ジョージタウン。"

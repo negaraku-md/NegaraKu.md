@@ -9,17 +9,16 @@ contentType: "place"
 lang: "es"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine es un restaurante peranakan con Bib Gourmand MICHELIN en George Town, Penang, llevado por un matrimonio desde hace más de 15 años — Ivy en la cocina, su marido en la sala. La Guide lo clasifica como peranakan ($) y señala sus menús de set para compartir con los platos Nyonya más vendidos, como el curry de pollo Kapitan y el Joo Hoo Char."
 
-summary: "Ivy's Nyonya Cuisine es un restaurante peranakan con Bib Gourmand MICHELIN en George Town, Penang, llevado por un matrimonio desde hace más de 15 años — Ivy en la cocina, su marido en la sala. La Guide lo clasifica como peranakan ($$) y señala sus menús de set para compartir con los platos Nyonya más vendidos, como el curry de pollo Kapitan y el Joo Hoo Char."
-
-answer: "Ivy's Nyonya Cuisine es un restaurante peranakan en 100-104 Jalan Kedah, George Town, Penang, con un Bib Gourmand MICHELIN por su cocina de buen precio. La MICHELIN Guide lo clasifica como peranakan en la banda $$ y señala que lo lleva un matrimonio desde hace más de 15 años, con Ivy en la cocina y su marido atendiendo las mesas. Ofrece menús de set para compartir con sus platos más vendidos, entre ellos el curry de pollo Kapitan y el Joo Hoo Char, un salteado de verduras variadas en pasta de chile."
+answer: "Ivy's Nyonya Cuisine es un restaurante peranakan en 100-104 Jalan Kedah, George Town, Penang, con un Bib Gourmand MICHELIN por su cocina de buen precio. La MICHELIN Guide lo clasifica como peranakan en la banda $ y señala que lo lleva un matrimonio desde hace más de 15 años, con Ivy en la cocina y su marido atendiendo las mesas. Ofrece menús de set para compartir con sus platos más vendidos, entre ellos el curry de pollo Kapitan y el Joo Hoo Char, un salteado de verduras variadas en pasta de chile."
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine es un restaurante peranakan con Bib Gourmand MICHELIN en George Town, Penang, en la banda de precio $$."
+  - "Ivy's Nyonya Cuisine es un restaurante peranakan con Bib Gourmand MICHELIN en George Town, Penang, en la banda de precio $."
   - "Lo lleva un matrimonio desde hace más de 15 años — Ivy dirige la cocina, su marido atiende las mesas."
   - "MICHELIN destaca el curry de pollo Kapitan y el Joo Hoo Char (salteado picante de verduras variadas en pasta de chile)."
   - "La Guide recomienda sus menús de set para compartir, construidos en torno a los platos Nyonya más vendidos del restaurante."

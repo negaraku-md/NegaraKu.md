@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara はペナン州ジョージタウンにある MICHELIN Bib Gourmand のタイ料理店で、天井の高いグリーン基調のダイニングで本格的な家庭風タイ料理と新鮮なシーフードを提供します。tom yum のバリエーションと miang kam の前菜は審査員が特に挙げる料理で、手ごろな価格でたっぷりの量が味わえます。"
 seoTitle: "Thara：タイ料理 Bib Gourmand、ペナン ジョージタウン"
 answer: "Thara はペナン州ジョージタウンの 5 Lorong Prangin にあるタイ料理店で、手ごろな価格の良質な料理に対して MICHELIN Bib Gourmand を得ています。シェフは母国の本格的な料理を 15 年以上手がけてきた経験を持ち、新鮮なシーフードに重点を置いています。MICHELIN の審査員は多彩な tom yum スープのバリエーションと miang kam の前菜を強調しています。"
@@ -25,7 +24,7 @@ keyTakeaways:
   - "ジョージタウンの 5 Lorong Prangin にあり、手ごろな価格でたっぷりの量を提供します。"
 faq:
   - q: "Thara はどこにあり、どんな料理を出しますか？"
-    a: "Thara はペナン州ジョージタウン 10100 の 5 Lorong Prangin にあります。新鮮なシーフードを重視した本格的なタイ料理を提供し、MICHELIN Guide では中程度（$$）の価格帯に掲載されています。"
+    a: "Thara はペナン州ジョージタウン 10100 の 5 Lorong Prangin にあります。新鮮なシーフードを重視した本格的なタイ料理を提供し、MICHELIN Guide では中程度（$）の価格帯に掲載されています。"
   - q: "Thara では何を注文すべきですか？"
     a: "MICHELIN Guide は、さまざまなシーフードで作る店の多彩な tom yum スープのバリエーションを挙げ、新鮮なキンマの葉と甘い miang kam ソースで作る miang kam の前菜を必食の一品として挙げています。"
   - q: "Thara に MICHELIN の星はありますか？"

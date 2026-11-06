@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa ialah gerai makanan jalanan MICHELIN Bib Gourmand di George Town, Pulau Pinang, yang menghidangkan assam laksa berasaskan asam jawa dan ikan yang manis-masam-pedas daripada resipi keluarga berusia kira-kira 50 tahun yang kini dimasak oleh generasi ketiga. Profil ini merangkumi pengiktirafan MICHELIN, mangkuk istimewanya, lokasi dan cara melawatnya."
 seoTitle: "Wan Dao Tou Assam Laksa: Bib Gourmand Pulau Pinang"
 answer: "Wan Dao Tou Assam Laksa ialah gerai makanan jalanan di Pulau Pinang yang disenaraikan sebagai MICHELIN Bib Gourmand dalam pemilihan MICHELIN Guide Kuala Lumpur & Penang. Ia menghidangkan assam laksa — sup ikan tenggiri berasaskan asam jawa yang masam, dituang atas mi beras tebal, dihias dengan timun, bawang merah dan nanas — daripada resipi keluarga berusia kira-kira 50 tahun, kini dimasak oleh generasi ketiga. Ia terletak di 1 Jalan Gottlieb, George Town."

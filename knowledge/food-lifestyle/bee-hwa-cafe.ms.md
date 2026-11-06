@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe ialah kedai kopi MICHELIN Bib Gourmand di George Town, Pulau Pinang, yang menghidangkan makanan gerai Cina-Malaysia yang halal — termasuk Penang Hokkien mee dan char kway teow goreng bawang putih — yang bermula sebagai gerai jalanan pada 1992 dan kini dikendalikan sebagai perniagaan keluarga. Profil ini merangkumi pengiktirafan MICHELIN, hidangan istimewanya, lokasi dan cara melawatnya."
 seoTitle: "Bee Hwa Cafe: Bib Gourmand Pulau Pinang"
 answer: "Bee Hwa Cafe ialah kedai kopi di George Town yang disenaraikan sebagai MICHELIN Bib Gourmand dalam pemilihan MICHELIN Guide Kuala Lumpur & Penang. Ia menghidangkan makanan gerai Cina-Malaysia yang halal — menggunakan ayam dan makanan laut sebagai ganti khinzir — dengan pemeriksa menonjolkan Penang Hokkien mee dan char kway teow yang digoreng dengan bawang putih cincang dan bukannya lemak khinzir. Ia terletak di 10 Lebuh Dickens, George Town, dan bermula sebagai gerai jalanan pada 1992."

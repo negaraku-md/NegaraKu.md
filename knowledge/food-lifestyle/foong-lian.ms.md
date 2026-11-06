@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian ialah sebuah kedai makan Kantonis di Jalan Yew di Pudu, Kuala Lumpur, yang menyandang Bib Gourmand MICHELIN Guide dan menghidangkan claypot rice yang dimasak di atas arang sejak 1986. Ditanda 'Worth Queueing For', ia kegemaran penduduk setempat untuk claypot rice bertabur daging awet, paha ayam atau ikan masin, selain sup dan snek. Profil ini merangkumi makanannya, suasana dan cara melawat."
 seoTitle: "Foong Lian, Kuala Lumpur"
 answer: "Foong Lian ialah sebuah kedai makan Kantonis di Jalan Yew di Pudu, Kuala Lumpur, yang diiktiraf dengan Bib Gourmand MICHELIN Guide bagi masakan berbaloi. Ia telah menghidangkan claypot rice yang dimasak di atas arang sejak 1986, dengan mengawal haba secara teliti, bertabur pilihan seperti sosej daging babi-dan-hati awet, paha ayam atau ikan masin, selain sup dan snek seperti gulungan kulit tauhu. Ia sebuah tempat $ yang murah, ditanda 'Worth Queueing For', dan menguruskan tempahannya sendiri."

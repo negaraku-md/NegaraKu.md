@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra 是吉隆坡 Bukit Bintang、The Starhill 内的一家印度餐厅，列入 MICHELIN Guide 并获颁 Bib Gourmand，表彰物有所值的好味道。作为 Kayra 的姊妹店，它秉持「从海洋到餐盘」的理念，以在地采购的海鲜与食材重新演绎传统喀拉拉菜肴。招牌是一道以家传食谱为本、以青芒果与酸奶提酸的喀拉拉鱼咖喱。它列入 $$ 价位等级，适合家庭。"
+answer: "Coast by Kayra 是吉隆坡 Bukit Bintang、The Starhill 内的一家印度餐厅，列入 MICHELIN Guide 并获颁 Bib Gourmand，表彰物有所值的好味道。作为 Kayra 的姊妹店，它秉持「从海洋到餐盘」的理念，以在地采购的海鲜与食材重新演绎传统喀拉拉菜肴。招牌是一道以家传食谱为本、以青芒果与酸奶提酸的喀拉拉鱼咖喱。它列入 $ 价位等级，适合家庭。"
 keyTakeaways:
   - "Coast by Kayra 在吉隆坡持有 MICHELIN Guide Bib Gourmand——表彰物有所值的优质美食的奖项。"
   - "它是 Kayra 的姊妹店，秉持「从海洋到餐盘」的理念，重新演绎传统喀拉拉菜肴。"
   - "招牌是一道以家传食谱为本、以青芒果与酸奶提酸的喀拉拉鱼咖喱。"
   - "海鲜与食材均在地采购，以支持小农与渔民。"
-  - "它位于 Jalan Bukit Bintang 的 The Starhill，列入 $$ 价位等级，装潢以绿松石色、海洋为主题。"
+  - "它位于 Jalan Bukit Bintang 的 The Starhill，列入 $ 价位等级，装潢以绿松石色、海洋为主题。"
 appliesTo: "在吉隆坡寻找价格亲民、获 MICHELIN 肯定的喀拉拉与南印度海鲜料理的旅客与食客。"
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

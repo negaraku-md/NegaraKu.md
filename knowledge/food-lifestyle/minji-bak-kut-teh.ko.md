@@ -15,13 +15,13 @@ sourceContentHash: "261d47b46044a79a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "1940년대 노점으로 시작해 지금은 3대째 주인이, 세월이 묻은 역사적인 공간에서 운영합니다."
   - "그 bak kut teh 레시피가 80년간 바뀌지 않아 약재 향이 나고 자연스러운 단맛의 국물을 낸다고 MICHELIN Guide는 말합니다."
   - "손님은 돼지 부위 — 갈비, 삼겹, 내장, 또는 혼합 — 를 고르고, 가이드는 고기를 마늘과 고추를 넣은 간장에 찍어 먹기를 권합니다."
-  - "7-6 Jalan Sungai Besi, Pudu에 있으며, $$ 가격대이고, 가이드는 'Worth Queueing For'로 표시합니다."
+  - "7-6 Jalan Sungai Besi, Pudu에 있으며, $ 가격대이고, 가이드는 'Worth Queueing For'로 표시합니다."
 faq:
   - q: "bak kut teh는 무엇이고, Minji의 것은 어떤가요?"
     a: "bak kut teh는 약재와 향신료로 끓인 말레이시아 돼지 갈비탕입니다. MICHELIN Guide는 Minji의 것을 약재 향이 나고 자연스러운 단맛이 있으며 80년간 바뀌지 않은 레시피로 만든다고 묘사합니다. 돼지 부위 — 갈비, 삼겹, 내장, 또는 혼합 — 를 고르고, 가이드는 고기를 마늘과 고추를 넣은 간장에 찍어 먹기를 권합니다."
   - q: "Minji는 얼마나 오래되었나요?"
     a: "MICHELIN Guide는 1940년대 노점으로 시작해 지금은 3대째 주인이 운영하며, 거쳐 간 여러 세대의 손님을 비추는 세월이 묻은 역사적인 내부를 지녔다고 말합니다."
   - q: "Minji는 어디에 있고 기다릴 것을 각오해야 하나요?"
-    a: "7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100에 있으며, $$ 가격대입니다. MICHELIN Guide가 'Worth Queueing For'로 표시하므로 붐비는 시간에는 줄을 각오하세요. 예약은 레스토랑이 직접 처리하고 신용카드는 받지 않습니다."
+    a: "7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100에 있으며, $ 가격대입니다. MICHELIN Guide가 'Worth Queueing For'로 표시하므로 붐비는 시간에는 줄을 각오하세요. 예약은 레스토랑이 직접 처리하고 신용카드는 받지 않습니다."
 
 updated: 2026-11-06
 sources:

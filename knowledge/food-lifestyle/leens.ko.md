@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "11e34aa70bab1b92"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's는 쿠알라룸푸르 Taman Tun Dr Ismail에 있는 중동 요리 레스토랑으로, 가성비 좋은 요리로 MICHELIN Guide의 Bib Gourmand를 보유하고 있습니다. 집밥 배달로 시작한 시리아인 셰프가 문을 연 곳으로, 탄 고추기름을 더한 smoked hummus와 양고기 kebab khashkhash로 유명합니다. 이 글은 음식, 분위기, 그리고 방문 방법을 다룹니다."
 seoTitle: "Leen's, 쿠알라룸푸르"
-answer: "Leen's는 쿠알라룸푸르 Taman Tun Dr Ismail(TTDI)에 있는 중동 요리 레스토랑으로, 가성비 좋은 요리에 대한 MICHELIN Guide의 표식인 Bib Gourmand로 인정받았습니다. 집에서 만든 요리를 배달하며 시작한 시리아인 셰프가 문을 연 곳으로, 탄 고추기름을 더한 smoked hummus와, 매콤한 양귀비씨 소스에 나오는 양고기 꼬치 kebab khashkhash로 유명합니다. 가격대는 $$이며, 예약은 매장이 직접 받습니다."
+answer: "Leen's는 쿠알라룸푸르 Taman Tun Dr Ismail(TTDI)에 있는 중동 요리 레스토랑으로, 가성비 좋은 요리에 대한 MICHELIN Guide의 표식인 Bib Gourmand로 인정받았습니다. 집에서 만든 요리를 배달하며 시작한 시리아인 셰프가 문을 연 곳으로, 탄 고추기름을 더한 smoked hummus와, 매콤한 양귀비씨 소스에 나오는 양고기 꼬치 kebab khashkhash로 유명합니다. 가격대는 $이며, 예약은 매장이 직접 받습니다."
 appliesTo: "평판 좋고 가성비 높은 중동 요리 레스토랑을 찾는 여행자와 쿠알라룸푸르의 미식가, 그리고 말레이시아 MICHELIN Guide 선정을 따라가는 독자를 위한 글입니다."
 keyTakeaways:
   - "Leen's는 쿠알라룸푸르 Taman Tun Dr Ismail에 있는 MICHELIN Guide Bib Gourmand 레스토랑으로, 질 좋고 가성비 있는 요리에 대한 이 가이드의 인정입니다."
   - "요리는 중동 요리이며, 집밥 배달로 시작해 이후 오프라인 매장을 연 시리아인 셰프가 문을 열었습니다."
   - "MICHELIN은 탄 고추기름을 더한 smoked hummus(약간 맵고 매우 스모키함)와, 날카롭고 매콤한 양귀비씨 소스에 나오는 양고기 꼬치 kebab khashkhash를 꼽습니다."
-  - "$$ 레스토랑으로 단체 모임에 좋고, 갓 구운 빵 냄새가 공간을 가득 채웁니다."
+  - "$ 레스토랑으로 단체 모임에 좋고, 갓 구운 빵 냄새가 공간을 가득 채웁니다."
   - "예약은 매장이 직접 관리하므로 직접 연락하세요. 주소는 1F, 136A Jalan Burhanuddin Helmi, TTDI입니다."
 faq:
   - q: "Leen's는 어디에 있고 어떤 음식을 내나요?"

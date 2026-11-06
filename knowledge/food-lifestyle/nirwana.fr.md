@@ -9,18 +9,17 @@ contentType: "place"
 lang: "fr"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana — le restaurant de Bangsar Baru largement connu sous le nom de Sri Nirwana Maju — est une institution du banana leaf rice titulaire d'un Bib Gourmand MICHELIN, sur Jalan Telawi. Le MICHELIN Guide le classe comme indien ($) et oriente les convives vers son set de riz et curry sur feuille de bananier et son biryani de poulet."
 
-summary: "Nirwana — le restaurant de Bangsar Baru largement connu sous le nom de Sri Nirwana Maju — est une institution du banana leaf rice titulaire d'un Bib Gourmand MICHELIN, sur Jalan Telawi. Le MICHELIN Guide le classe comme indien ($$) et oriente les convives vers son set de riz et curry sur feuille de bananier et son biryani de poulet."
-
-answer: "Nirwana, restaurant sud-indien de longue date situé au 43 Jalan Telawi 3, à Bangsar Baru, Kuala Lumpur, détient un Bib Gourmand MICHELIN dans le MICHELIN Guide Kuala Lumpur & Penang. Le Bib Gourmand distingue une bonne cuisine à bon rapport qualité-prix. MICHELIN le classe comme indien dans la tranche de prix $$ et recommande un set de banana leaf composé de riz et de curry de légumes, le biryani de poulet étant distingué pour sa viande moelleuse et tendre."
+answer: "Nirwana, restaurant sud-indien de longue date situé au 43 Jalan Telawi 3, à Bangsar Baru, Kuala Lumpur, détient un Bib Gourmand MICHELIN dans le MICHELIN Guide Kuala Lumpur & Penang. Le Bib Gourmand distingue une bonne cuisine à bon rapport qualité-prix. MICHELIN le classe comme indien dans la tranche de prix $ et recommande un set de banana leaf composé de riz et de curry de légumes, le biryani de poulet étant distingué pour sa viande moelleuse et tendre."
 keyTakeaways:
   - "Nirwana (habituellement enseigné sous le nom de Sri Nirwana Maju) est un restaurant Bib Gourmand MICHELIN à Bangsar Baru, Kuala Lumpur."
-  - "Le MICHELIN Guide le classe comme cuisine indienne dans la tranche de prix $$ et lui appose l'étiquette 'Eat like a local'."
+  - "Le MICHELIN Guide le classe comme cuisine indienne dans la tranche de prix $ et lui appose l'étiquette 'Eat like a local'."
   - "MICHELIN oriente les convives vers un menu type set de banana leaf composé de riz et de curry de légumes, avec en option du poisson, du poulet ou de l'agneau."
   - "Le biryani de poulet est le plat que MICHELIN distingue, salué pour sa viande moelleuse et tendre et ses saveurs équilibrées."
   - "Il se situe au 43 Jalan Telawi 3, près de Bangsar Village, et ouvre tous les jours ; le Bib Gourmand distingue le bon rapport qualité-prix, pas une étoile."
@@ -30,7 +29,7 @@ faq:
   - q: "Pour quoi Nirwana est-il connu ?"
     a: "Pour le banana leaf rice. Le MICHELIN Guide recommande son menu type set de riz et curry de légumes servi sur feuille de bananier, avec des ajouts en option comme le poisson, le poulet ou l'agneau, et distingue le biryani de poulet pour sa viande moelleuse et tendre et ses saveurs équilibrées. MICHELIN indique la cuisine comme indienne."
   - q: "Nirwana a-t-il une étoile MICHELIN ?"
-    a: "Non. Nirwana détient un Bib Gourmand MICHELIN, pas une étoile. Le Bib Gourmand est une distinction à part qui récompense une bonne cuisine à bon rapport qualité-prix — généralement dans les tranches de prix $ et $$ du Guide — et non les critères de haute gastronomie qui sous-tendent les MICHELIN Star."
+    a: "Non. Nirwana détient un Bib Gourmand MICHELIN, pas une étoile. Le Bib Gourmand est une distinction à part qui récompense une bonne cuisine à bon rapport qualité-prix — généralement dans les tranches de prix $ et $ du Guide — et non les critères de haute gastronomie qui sous-tendent les MICHELIN Star."
   - q: "Où se trouve Nirwana et quels sont ses horaires ?"
     a: "Il est au 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur 59100, près de Bangsar Village. Le MICHELIN Guide l'indique ouvert tous les jours, de 11:30 à 23:00. Les horaires peuvent changer, alors confirmez auprès du restaurant avant de vous déplacer ; les réservations sont gérées directement par le restaurant."
 

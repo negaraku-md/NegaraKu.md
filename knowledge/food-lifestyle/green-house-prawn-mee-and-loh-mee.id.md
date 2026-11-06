@@ -9,7 +9,7 @@ lang: "id"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee adalah gerai jajanan malam hari di Jalan Burma, George Town, Penang, yang menyandang MICHELIN Bib Gourmand. Menjadi favorit selama lebih dari 30 tahun, gerai ini terkenal dengan Hokkien prawn mee dan loh mee yang berbasis kaldu udang merah yang sangat umami dari tulang babi dan kulit udang, dengan belasan topping pilihan."
 answer: "Green House Prawn Mee and Loh Mee adalah gerai jajanan MICHELIN Bib Gourmand di Jalan Burma, George Town, Penang. Berada di dalam Restoran Old Green House, gerai ini telah menjadi favorit selama lebih dari 30 tahun berkat Hokkien prawn mee dan loh mee-nya. Kaldu udang merah andalannya dibuat dengan tulang babi dan kulit udang untuk cita rasa umami yang dalam, dan sekitar dua belas topping tambahan ditawarkan. Gerai ini berjualan pada malam hari dan hanya menerima tunai."

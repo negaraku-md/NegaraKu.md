@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian adalah warung kaki lima MICHELIN Bib Gourmand di George Town, Penang, di pujasera Medan Renong, yang dikenal karena hidangan mi green tom yum yang tidak biasa di samping sup mi dan mi goreng. Profil ini mencakup pengakuan MICHELIN, hidangan khasnya, lokasi, dan cara mengunjunginya."
 seoTitle: "Ghee Lian: Jajanan Bib Gourmand Penang"
 answer: "Ghee Lian adalah warung kaki lima di Penang yang tercantum sebagai MICHELIN Bib Gourmand dalam seleksi MICHELIN Guide Kuala Lumpur & Penang. Hidangan khasnya adalah mi green tom yum yang tidak biasa — yang dipuji MICHELIN karena keseimbangan asam dan pedasnya — disajikan bersama sup mi dan mi goreng. Lokasinya di pujasera Medan Renong, Jalan Tun Syed Sheh Barakhbah, George Town."

@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide mengklasifikasikan masakannya sebagai Malaysia dan Kontemporer, disajikan sebagai set menu musiman."
   - "MICHELIN menggambarkan chef mengolah ulang resep Eropa dengan pengaruh Jepang, Prancis, dan Malaysia, memanfaatkan waktu yang dihabiskan di Jepang dan Prancis."
   - "Restoran ini berada di Taman Tun Dr Ismail (TTDI), Kuala Lumpur, dengan ruang makan yang intim dan dapur terbuka."
-  - "MICHELIN Guide mencantumkannya dalam kategori harga $$$ dan menandainya sebagai cocok untuk makan sendirian."
+  - "MICHELIN Guide mencantumkannya dalam kategori harga $$ dan menandainya sebagai cocok untuk makan sendirian."
 appliesTo: "Wisatawan, penggemar kuliner, dan pengunjung yang meneliti fine dining Malaysia yang diakui MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

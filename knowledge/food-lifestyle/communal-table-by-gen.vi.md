@@ -9,17 +9,16 @@ contentType: "place"
 lang: "vi"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn là một nhà hàng đạt Bib Gourmand MICHELIN trên Lebuh Presgrave, George Town, Penang, phục vụ một thực đơn à la carte nhỏ gồm những món hiện đại hòa quyện ẩm thực Peranakan và Malaysia. Dựng quanh một gian bếp mở và một quầy dài, nơi đây được xếp là Malaysian ($); món đặc trưng là ức vịt ủ chín kẹp trong bánh bao hấp."
 
-summary: "Communal Table by Gēn là một nhà hàng đạt Bib Gourmand MICHELIN trên Lebuh Presgrave, George Town, Penang, phục vụ một thực đơn à la carte nhỏ gồm những món hiện đại hòa quyện ẩm thực Peranakan và Malaysia. Dựng quanh một gian bếp mở và một quầy dài, nơi đây được xếp là Malaysian ($$); món đặc trưng là ức vịt ủ chín kẹp trong bánh bao hấp."
-
-answer: "Communal Table by Gēn là một nhà hàng Malaysia-hiện đại tại 68 Lebuh Presgrave, George Town, Penang, nắm giữ một Bib Gourmand MICHELIN cho món ăn đáng đồng tiền. MICHELIN Guide xếp nơi này là Malaysian ở phân khúc $$ và mô tả một gian phòng thoải mái với bếp mở, một quầy dài và cửa kính từ sàn đến trần, phục vụ một thực đơn à la carte buổi tối nhỏ gồm những món hiện đại hòa quyện ẩm thực Peranakan và Malaysia với nguyên liệu địa phương. Món đặc trưng là ức vịt ủ chín kẹp trong bánh bao hấp, với da giòn và một 'sốt bí mật.'"
+answer: "Communal Table by Gēn là một nhà hàng Malaysia-hiện đại tại 68 Lebuh Presgrave, George Town, Penang, nắm giữ một Bib Gourmand MICHELIN cho món ăn đáng đồng tiền. MICHELIN Guide xếp nơi này là Malaysian ở phân khúc $ và mô tả một gian phòng thoải mái với bếp mở, một quầy dài và cửa kính từ sàn đến trần, phục vụ một thực đơn à la carte buổi tối nhỏ gồm những món hiện đại hòa quyện ẩm thực Peranakan và Malaysia với nguyên liệu địa phương. Món đặc trưng là ức vịt ủ chín kẹp trong bánh bao hấp, với da giòn và một 'sốt bí mật.'"
 keyTakeaways:
-  - "Communal Table by Gēn là một nhà hàng đạt Bib Gourmand MICHELIN ở George Town, Penang, được xếp là Malaysian ở phân khúc $$."
+  - "Communal Table by Gēn là một nhà hàng đạt Bib Gourmand MICHELIN ở George Town, Penang, được xếp là Malaysian ở phân khúc $."
   - "Gian bếp phục vụ một thực đơn à la carte nhỏ gồm những món hiện đại hòa quyện ẩm thực Peranakan và Malaysia với nguyên liệu địa phương."
   - "Lựa chọn đặc trưng của MICHELIN là ức vịt ủ chín kẹp trong bánh bao hấp — da giòn và một 'sốt bí mật.'"
   - "Gian phòng được dựng quanh một bếp mở, một quầy chung dài và cửa kính từ sàn đến trần — một trải nghiệm ăn tại quầy."

@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "96389253edf1ad12"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ravi's Famous Apom Manis là một quầy ẩm thực đường phố lâu đời ở George Town, Penang, nằm trong danh sách Bib Gourmand của MICHELIN Guide, chuyên về apom manis — một loại bánh kếp ngọt, mỏng tang viền ren làm từ dừa và bột gạo. Kiểu Penang cho thêm trứng vào bột để dậy hương; quầy đã hoạt động gần một thế kỷ và thường bán hết vào buổi sáng."
 seoTitle: "Ravi's Famous Apom Manis, Penang (Bib)"
 answer: "Ravi's Famous Apom Manis là một quầy ẩm thực đường phố Bib Gourmand trên Jalan Burma ở George Town, Penang. Quầy chuyên về apom manis — bánh kếp ngọt mềm ở giữa, giòn ở viền, làm từ bột gạo và dừa, cho thêm trứng theo kiểu Penang để dậy hương. Quầy gia đình này có từ đầu thế kỷ 20 và thường bán hết vào cuối buổi sáng."

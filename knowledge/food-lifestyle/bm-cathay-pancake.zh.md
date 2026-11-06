@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake 是槟城大陆部分威省大山脚一个荣获 MICHELIN Bib Gourmand 的街头美食手推车。自 1962 年以来它只卖一道菜——apam balik，一种以炭火烤制、加糖与花生馅的煎饼，外脆内韧——高峰时段会排起人龙。"
 seoTitle: "BM Cathay Pancake：槟城 Bib Gourmand apam balik"
 answer: "BM Cathay Pancake 是位于槟城大陆部分威省大山脚 Jalan Aston、Cathay Food Court 旁的一个荣获 Bib Gourmand 的街头美食手推车。自 1962 年以来它只供应一道菜：apam balik，一种以炭火烤制、加糖与花生馅的煎饼，外脆内韧，现点现做。只收现金，值得排队。"

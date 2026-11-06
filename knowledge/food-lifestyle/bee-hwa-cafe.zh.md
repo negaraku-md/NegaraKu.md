@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe 是槟城乔治市一家 MICHELIN Bib Gourmand 咖啡店，供应清真（halal）的马来西亚华人小贩美食——包括 Penang Hokkien mee 与一款蒜炒 char kway teow——起初于 1992 年是一个街边摊，如今以家族生意经营。本篇介绍其 MICHELIN 认可、招牌菜、地点及造访方式。"
 seoTitle: "Bee Hwa Cafe：槟城 Bib Gourmand"
 answer: "Bee Hwa Cafe 是乔治市一家咖啡店，在 MICHELIN Guide Kuala Lumpur & Penang 评选中列为 MICHELIN Bib Gourmand。它供应清真的马来西亚华人小贩美食——以鸡肉与海鲜代替猪肉——评审特别点名其 Penang Hokkien mee，以及以蒜蓉而非猪油翻炒的 char kway teow。地址为 10 Lebuh Dickens，乔治市，起初于 1992 年是一个街边摊。"

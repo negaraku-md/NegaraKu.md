@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak என்பது பினாங்கின் ஜார்ஜ் டவுனில் Lorong Macalister-இல் அமைந்த ஒரு MICHELIN Bib Gourmand தெரு உணவு அங்காடி; char koay kak பரிமாறுகிறது: நல்ல wok hei, சோயா சாஸ், முளைக்கீரை, முட்டை மற்றும் மிளகாயுடன் வறுத்த அரிசிக் கேக். இந்த Teochew உணவை சகோதரிகளின் தந்தை 1963-இல் தொடங்கினார்; இப்போது மூன்று மகள்கள் நடத்துகின்றனர்."
 seoTitle: "Sister Yao's Char Koay Kak: பினாங்கு Bib Gourmand"
 answer: "Sister Yao's Char Koay Kak என்பது பினாங்கின் ஜார்ஜ் டவுனில் 96 Lorong Macalister-இல் அமைந்த ஒரு Bib Gourmand தெரு உணவு அங்காடி. இதன் ஒரே உணவு char koay kak, புகையூட்டும் wok hei, சோயா சாஸ், முளைக்கீரை, முட்டை மற்றும் மிளகாயுடன் சமைக்கப்படும் Teochew பாணி வறுத்த அரிசிக் கேக், கேட்டால் கூடுதல் காரச் சாஸுடன். சகோதரிகளின் தந்தையால் 1963-இல் தொடங்கப்பட்டது; இப்போது மூன்று மகள்கள் நடத்துகின்றனர். பணம் மட்டுமே."

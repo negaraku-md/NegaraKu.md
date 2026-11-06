@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle என்பது பினாங்கின் ஜார்ஜ் டவுனில் Lebuh Pantai-இல் அமைந்த ஒரு MICHELIN Bib Gourmand தெரு உணவு அங்காடி; prawn mee-க்காகப் புகழ்பெற்றது: ஆழமான சுவையுள்ள காரமான இறால் சூப்பில் மஞ்சள் நூடுல்ஸ் அல்லது அரிசி நூடுல்ஸ், வேகவைத்த பன்றி விலா எலும்பு மற்றும் மீன் பந்து போன்ற சேர்க்கைகளுடன்."
 seoTitle: "Bridge Street Prawn Noodle: பினாங்கு Bib Gourmand"
 answer: "Bridge Street Prawn Noodle என்பது பினாங்கின் ஜார்ஜ் டவுனில் 533 Lebuh Pantai-இல் அமைந்த ஒரு Bib Gourmand தெரு உணவு அங்காடி. இதன் சிறப்பு prawn mee (இறால் நூடுல்ஸ் சூப்): உண்பவர்கள் ஆழமான சுவை நிறைந்த காரமான இறால் சூப்பில் மஞ்சள் நூடுல்ஸ் அல்லது அரிசி நூடுல்ஸ் தேர்ந்தெடுக்கலாம், மேலும் வேகவைத்த பன்றி விலா எலும்பு அல்லது மீன் பந்து சேர்க்கலாம். இது பணம் மட்டுமே, MICHELIN அங்கீகாரத்திற்குப் பிறகு வரிசைகளை ஈர்க்கிறது."

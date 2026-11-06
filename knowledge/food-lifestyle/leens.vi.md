@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "11e34aa70bab1b92"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's là một nhà hàng Trung Đông ở Taman Tun Dr Ismail, Kuala Lumpur, nắm giữ Bib Gourmand của MICHELIN Guide cho lối nấu ăn đáng đồng tiền. Do một đầu bếp người Syria khởi nghiệp bằng việc giao món ăn nấu tại nhà mở ra, nơi đây nổi tiếng với smoked hummus thấm dầu ớt cháy và kebab khashkhash thịt cừu. Bài viết này giới thiệu món ăn, không gian và cách ghé thăm."
 seoTitle: "Leen's, Kuala Lumpur"
-answer: "Leen's là một nhà hàng Trung Đông ở Taman Tun Dr Ismail (TTDI), Kuala Lumpur, được công nhận bằng Bib Gourmand của MICHELIN Guide — dấu hiệu của cẩm nang cho lối nấu ăn chất lượng tốt với giá đáng đồng tiền. Do một đầu bếp người Syria khởi đầu bằng việc giao món ăn nấu tại nhà mở ra, nơi đây nổi tiếng với smoked hummus thấm dầu ớt cháy và với kebab khashkhash, những xiên thịt cừu trong sốt hạt anh túc cay. Nhà hàng thuộc phân khúc giá $$ và tự nhận đặt chỗ."
+answer: "Leen's là một nhà hàng Trung Đông ở Taman Tun Dr Ismail (TTDI), Kuala Lumpur, được công nhận bằng Bib Gourmand của MICHELIN Guide — dấu hiệu của cẩm nang cho lối nấu ăn chất lượng tốt với giá đáng đồng tiền. Do một đầu bếp người Syria khởi đầu bằng việc giao món ăn nấu tại nhà mở ra, nơi đây nổi tiếng với smoked hummus thấm dầu ớt cháy và với kebab khashkhash, những xiên thịt cừu trong sốt hạt anh túc cay. Nhà hàng thuộc phân khúc giá $ và tự nhận đặt chỗ."
 appliesTo: "Du khách và thực khách ở KL đang tìm một nhà hàng Trung Đông có tiếng và đáng đồng tiền, cùng những độc giả theo dõi tuyển chọn MICHELIN Guide của Malaysia."
 keyTakeaways:
   - "Leen's là một nhà hàng Bib Gourmand của MICHELIN Guide — sự ghi nhận của cẩm nang cho lối nấu ăn chất lượng tốt, đáng đồng tiền — ở Taman Tun Dr Ismail, Kuala Lumpur."
   - "Ẩm thực là món Trung Đông, do một đầu bếp người Syria mở ra; ông khởi đầu bằng việc giao món ăn nấu tại nhà trước khi mở cửa hàng thực thụ."
   - "MICHELIN nêu bật smoked hummus thấm dầu ớt cháy (hơi cay và rất đượm khói) và kebab khashkhash, những xiên thịt cừu trong sốt hạt anh túc sắc và cay."
-  - "Đây là nhà hàng $$, thích hợp cho nhóm, với hương bánh mới nướng tỏa khắp không gian."
+  - "Đây là nhà hàng $, thích hợp cho nhóm, với hương bánh mới nướng tỏa khắp không gian."
   - "Nhà hàng tự quản lý việc đặt chỗ, vì vậy hãy liên hệ trực tiếp; địa chỉ tại 1F, 136A Jalan Burhanuddin Helmi, TTDI."
 faq:
   - q: "Leen's ở đâu và phục vụ loại món ăn gì?"

@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide इसके व्यंजन को इनोवेटिव (Innovative) के रूप में वर्गीकृत करती है, जो फ़्रेंच, नॉर्डिक और एशियाई प्रभावों को मिलाता है।"
   - "रेस्तराँ THE FACE Style की 51वीं मंज़िल पर है, जहाँ से कुआलालंपुर की क्षितिज-रेखा के मनोरम दृश्य दिखते हैं।"
   - "द्वितीयक कवरेज इसे डच शेफ Sidney Schutte से जोड़ती है, जिसमें Guillaume Depoortere को हेड शेफ के रूप में नामित किया गया है; इसने खुलने के तुरंत बाद अपना Star अर्जित किया।"
-  - "MICHELIN Guide इसे सर्वोच्च ($$$$) मूल्य श्रेणी में सूचीबद्ध करती है और इसे डेट नाइट के लिए उपयुक्त बताती है।"
+  - "MICHELIN Guide इसे सर्वोच्च ($$) मूल्य श्रेणी में सूचीबद्ध करती है और इसे डेट नाइट के लिए उपयुक्त बताती है।"
 appliesTo: "कुआलालंपुर में MICHELIN द्वारा मान्यता प्राप्त मलेशियाई फाइन डाइनिंग पर शोध कर रहे यात्री, भोजन-प्रेमी और भोजनार्थी।"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

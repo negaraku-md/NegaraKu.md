@@ -9,7 +9,7 @@ lang: "ja"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifuは、ペナン、ジョージタウンのJalan Pintal TaliにあるMICHELIN Bib Gourmandのプラナカン（Peranakan）料理店だ。厨房は数十年の経験をもつ70代の家庭料理人が率い、約40品のメニューは伝統的なニョニャ（Nyonya）料理の定番を網羅する——その中には、タマリンドの効いた甘酸っぱいソースに絡む弾力あるasam prawnがある。"
-answer: "Sifuは、ペナン、ジョージタウンの154 Jalan Pintal TaliにあるMICHELIN Bib Gourmandのプラナカン料理店だ。厨房は数十年料理をしてきた70代の女性が率い、メニューは伝統的なプラナカン（ニョニャ）料理の約40品のアラカルトの定番を提供する。看板には、濃いタマリンドの効いた甘酸っぱいソースに絡む弾力あるasam prawnと、スルメイカと椎茸を加えて炒めた千切りのヤムビーンのmang kuang charがある。MICHELINは$$の価格帯に位置づけている。"
+answer: "Sifuは、ペナン、ジョージタウンの154 Jalan Pintal TaliにあるMICHELIN Bib Gourmandのプラナカン料理店だ。厨房は数十年料理をしてきた70代の女性が率い、メニューは伝統的なプラナカン（ニョニャ）料理の約40品のアラカルトの定番を提供する。看板には、濃いタマリンドの効いた甘酸っぱいソースに絡む弾力あるasam prawnと、スルメイカと椎茸を加えて炒めた千切りのヤムビーンのmang kuang charがある。MICHELINは$の価格帯に位置づけている。"
 keyTakeaways:
   - "Sifuは、質が高くコストパフォーマンスのよい料理に対するMICHELIN Bib Gourmandを保持している。"
-  - "ペナン、ジョージタウンの154 Jalan Pintal Taliにあるプラナカン（ニョニャ）料理店で、価格帯はMICHELIN $$。"
+  - "ペナン、ジョージタウンの154 Jalan Pintal Taliにあるプラナカン（ニョニャ）料理店で、価格帯はMICHELIN $。"
   - "厨房は数十年の経験をもつ70代の家庭料理人が率い、約40品のアラカルトの定番を提供する。"
   - "看板料理には、タマリンドの効いた甘酸っぱいソースの弾力あるasam prawnと、mang kuang char（スルメイカと椎茸を加えた千切りヤムビーン）がある。"
   - "MICHELINは自社サイトからの予約ができないと記しているため、それを踏まえて計画を。"

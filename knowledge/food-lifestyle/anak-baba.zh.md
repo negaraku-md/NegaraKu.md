@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba 是位于吉隆坡 Brickfields 的一家娘惹（Peranakan）餐馆，获 MICHELIN Guide 颁予 Bib Gourmand，以表扬其物有所值的菜肴。自 2018 年营业以来，供应融合印度—马来（Indo-Malay）风味与华人影响的南方娘惹菜；其主打菜是搭配 ayam goreng kunyit 的 nasi lemak。"
 seoTitle: "Anak Baba"
 answer: "Anak Baba 是位于吉隆坡 Brickfields 的一家娘惹（Peranakan）餐馆，持有 MICHELIN Bib Gourmand——这是 Guide 颁发给优质而物有所值者的奖项，并非星级。自 2018 年营业以来，供应融合印度—马来风味与华人影响的南方娘惹菜，MICHELIN Guide 特别推介其搭配 ayam goreng kunyit（姜黄炸鸡）的 nasi lemak。它位列 Guide 最低的（$）价位区间。"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe, पेनांग के जॉर्ज टाउन में एक MICHELIN Bib Gourmand कॉफ़ीशॉप (kopitiam) है, जो हलाल चीनी-मलेशियाई हॉकर भोजन परोसती है — जिसमें Penang Hokkien mee और लहसुन में तला char kway teow शामिल हैं — जो 1992 में एक स्ट्रीट स्टॉल के रूप में शुरू हुई और अब पारिवारिक व्यवसाय के रूप में चलती है। यह प्रोफ़ाइल इसकी MICHELIN मान्यता, खास व्यंजन, स्थान और वहाँ जाने के तरीके को कवर करती है।"
 seoTitle: "Bee Hwa Cafe: पेनांग बिब गुरमों"
 answer: "Bee Hwa Cafe जॉर्ज टाउन की एक कॉफ़ीशॉप है जो MICHELIN Guide Kuala Lumpur & Penang चयन में MICHELIN Bib Gourmand के रूप में सूचीबद्ध है। यह हलाल चीनी-मलेशियाई हॉकर भोजन परोसती है — सूअर के बजाय मुर्गा और समुद्री भोजन का उपयोग करके — और निरीक्षक इसके Penang Hokkien mee तथा char kway teow को उजागर करते हैं, जो सूअर की चर्बी के बजाय कटे लहसुन में तला जाता है। यह 10 Lebuh Dickens, जॉर्ज टाउन में है और 1992 में एक स्ट्रीट स्टॉल के रूप में शुरू हुई।"

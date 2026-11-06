@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra là một nhà hàng Ấn Độ tại The Starhill ở Bukit Bintang, Kuala Lumpur, được MICHELIN Guide liệt kê kèm Bib Gourmand cho món ngon giá hợp lý. Là cơ sở chị em của Kayra, quán giữ triết lý 'từ biển đến đĩa', tái hình dung các món Kerala truyền thống với hải sản và sản vật nguồn địa phương. Món đặc trưng là món cà ri cá Kerala dựa trên công thức gia truyền, được làm sắc vị bằng xoài xanh và sữa chua. Quán ở mức giá $$ và thân thiện với gia đình."
+answer: "Coast by Kayra là một nhà hàng Ấn Độ tại The Starhill ở Bukit Bintang, Kuala Lumpur, được MICHELIN Guide liệt kê kèm Bib Gourmand cho món ngon giá hợp lý. Là cơ sở chị em của Kayra, quán giữ triết lý 'từ biển đến đĩa', tái hình dung các món Kerala truyền thống với hải sản và sản vật nguồn địa phương. Món đặc trưng là món cà ri cá Kerala dựa trên công thức gia truyền, được làm sắc vị bằng xoài xanh và sữa chua. Quán ở mức giá $ và thân thiện với gia đình."
 keyTakeaways:
   - "Coast by Kayra giữ Bib Gourmand của MICHELIN Guide — giải thưởng cho chất lượng tốt ở giá hợp lý — tại Kuala Lumpur."
   - "Đây là cơ sở chị em của Kayra và theo triết lý 'từ biển đến đĩa', tái hình dung các món Kerala truyền thống."
   - "Món đặc trưng là món cà ri cá Kerala dựa trên công thức gia truyền, được tạo vị chua bằng xoài xanh và sữa chua."
   - "Hải sản và sản vật được lấy nguồn địa phương nhằm hỗ trợ các nông trại nhỏ và ngư dân."
-  - "Quán ở The Starhill trên đường Jalan Bukit Bintang, ở mức giá $$, với lối trang trí màu ngọc lam theo chủ đề đại dương."
+  - "Quán ở The Starhill trên đường Jalan Bukit Bintang, ở mức giá $, với lối trang trí màu ngọc lam theo chủ đề đại dương."
 appliesTo: "Du khách và thực khách tìm ẩm thực hải sản Kerala và Nam Ấn giá phải chăng, được MICHELIN công nhận ở Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

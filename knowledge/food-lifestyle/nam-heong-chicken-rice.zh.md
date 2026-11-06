@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice（City Centre）是一家位于吉隆坡老城区 Jalan Sultan 的老牌海南鸡饭店，自1938年营业至今，并摘得 MICHELIN Guide 的 Bib Gourmand。食客可在较瘦的「菜园」鸡与较肥的走地鸡之间选择，烧肉与 Ipoh bean sprouts 则是热门配菜。本篇介绍其食物、环境与造访方式。"
 seoTitle: "Nam Heong Chicken Rice，吉隆坡"
 answer: "Nam Heong Chicken Rice（City Centre）是一家位于吉隆坡 Jalan Sultan 的海南鸡饭店，自1938年营业至今，凭超值烹饪获 MICHELIN Guide 颁予 Bib Gourmand。它提供两种鸡——较瘦的「菜园」鸡与较肥的走地鸡——以及畅销的烧肉与爽脆的 Ipoh bean sprouts。它是老城区里一家简朴、平价的 $ 食肆，每天营业并自行处理订位。"

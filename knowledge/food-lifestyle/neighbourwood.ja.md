@@ -9,7 +9,7 @@ lang: "ja"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwoodは、Seberang Perai——ペナン州の本土側——のBukit MertajamにあるMICHELIN Bib Gourmandのレストランだ。近隣の住民が開いたくつろいだ地元の店で、アジアの影響を受けた現代ヨーロッパ料理とグリル料理を供し、メニューは6週間ごとに替わり、自家製サワードウが看板のひとつ。"
-answer: "Neighbourwoodは、Seberang Perai——ペナン州の本土側——のBukit Mertajam、3427 Jalan KulimにあるMICHELIN Bib Gourmandのレストランだ。アジアの影響を受けた現代ヨーロッパ料理をグリル料理とともに供し、メニューは6週間ごとに替わる一方、いくつかの看板料理は残り続ける。黄金色でほろりと崩れる自家製サワードウと幅広いデザートの品揃えが見どころ。MICHELINは$$の価格帯に位置づけている。"
+answer: "Neighbourwoodは、Seberang Perai——ペナン州の本土側——のBukit Mertajam、3427 Jalan KulimにあるMICHELIN Bib Gourmandのレストランだ。アジアの影響を受けた現代ヨーロッパ料理をグリル料理とともに供し、メニューは6週間ごとに替わる一方、いくつかの看板料理は残り続ける。黄金色でほろりと崩れる自家製サワードウと幅広いデザートの品揃えが見どころ。MICHELINは$の価格帯に位置づけている。"
 keyTakeaways:
   - "Neighbourwoodは、質が高くコストパフォーマンスのよい料理に対するMICHELIN Bib Gourmandを保持している。"
-  - "アジアの影響を受けたEuropean Contemporary（現代ヨーロッパ）料理とグリル料理を、MICHELIN $$の価格帯で供する。"
+  - "アジアの影響を受けたEuropean Contemporary（現代ヨーロッパ）料理とグリル料理を、MICHELIN $の価格帯で供する。"
   - "メニューはおおよそ6週間ごとに替わり、分け合いやすい看板料理がいくつか残り続ける。"
   - "数種のフレーバーの自家製サワードウと、10種以上のデザートの品揃えが際立つ一品。"
   - "3427 Jalan Kulim、Taman Bukit Mas、Bukit Mertajam、Seberang Perai（14000）にある——ジョージタウンの島ではなく、ペナンの本土側だ。"

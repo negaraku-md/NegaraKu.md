@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide इसके व्यंजन को फ़्रेंच समकालीन के रूप में वर्गीकृत करती है, वैश्विक प्रभावों और मलेशियाई लहजे के साथ।"
   - "द्वितीयक कवरेज के अनुसार, यह मलेशिया की उद्घाटन गाइड में MICHELIN Star प्राप्त करने वाले पहले रेस्तराँओं में से एक था और तब से इसे बनाए रखा है।"
   - "रेस्तराँ Taman Tun Dr Ismail (TTDI), कुआलालंपुर में है, तीन मंज़िलों पर फैला हुआ, जिसमें बार, भोजन-कक्ष और एक Louis XIII-थीम वाला निजी कक्ष है।"
-  - "MICHELIN Guide इसे सर्वोच्च ($$$$) मूल्य श्रेणी में सूचीबद्ध करती है और एक फ़्रेंच चीज़ ट्रॉली तथा वाइन सूची का उल्लेख करती है।"
+  - "MICHELIN Guide इसे सर्वोच्च ($$) मूल्य श्रेणी में सूचीबद्ध करती है और एक फ़्रेंच चीज़ ट्रॉली तथा वाइन सूची का उल्लेख करती है।"
 appliesTo: "कुआलालंपुर में MICHELIN द्वारा मान्यता प्राप्त मलेशियाई फाइन डाइनिंग पर शोध कर रहे यात्री, भोजन-प्रेमी और भोजनार्थी।"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

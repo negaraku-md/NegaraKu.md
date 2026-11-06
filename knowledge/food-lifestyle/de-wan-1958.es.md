@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 es un restaurante malayo en The LINC KL, en Taman U Thant, Kuala Lumpur, asociado con el chef famoso Chef Wan y reconocido por la MICHELIN Guide con un Bib Gourmand. La MICHELIN Guide describe sabores tropicales intensos y platos como una ensalada de pomelo con crujientes carrilleras de gamba y la barbacoa bakar bakar."
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 es un restaurante malayo en The LINC KL, en Taman U Thant, Kuala Lumpur, asociado con el chef famoso conocido como Chef Wan. Posee un MICHELIN Bib Gourmand: el galardón que la Guide concede a la buena calidad a buen precio, no una estrella. La MICHELIN Guide describe una sala luminosa y animada y sabores tropicales intensos, y recomienda una ensalada de pomelo con crujientes carrilleras de gamba y bakar bakar (carne o marisco a la brasa servido con salsas de la casa)."
@@ -22,7 +21,7 @@ keyTakeaways:
   - "El restaurante está asociado con el chef famoso malayo conocido como Chef Wan y ofrece cocina malaya con sabores tropicales intensos."
   - "La MICHELIN Guide recomienda empezar con una ensalada de pomelo con crujientes carrilleras de gamba en un aliño de lima kerabu."
   - "Su otro plato destacado es el bakar bakar — carne o marisco a la brasa servido con una selección de salsas de la casa — con raciones generosas y para compartir."
-  - "Está en The LINC KL, en Taman U Thant, en la franja de precios $$; la selección Bib Gourmand se revisa cada año."
+  - "Está en The LINC KL, en Taman U Thant, en la franja de precios $; la selección Bib Gourmand se revisa cada año."
 faq:
   - q: "¿Con quién está asociado De. Wan 1958?"
     a: "El restaurante está asociado con el chef famoso malayo conocido popularmente como Chef Wan. Según relatos ampliamente publicados, el 「1958」 del nombre se refiere al año de nacimiento del chef, aunque este detalle debería confirmarse con una fuente biográfica."

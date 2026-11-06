@@ -9,7 +9,7 @@ lang: "ms"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen ialah sebuah restoran Kantonis yang telah lama beroperasi di Lebuh Carnarvon, George Town, Pulau Pinang, memegang MICHELIN Bib Gourmand untuk masakan berkualiti baik dan berbaloi. Beroperasi sejak 1965, ia terkenal dengan hidangan Kantonis tradisional yang dimasak dengan baik di samping hidangan fusion dengan sentuhan tempatan — hidangan istimewanya ialah tauhu buatan sendiri yang digoreng bersama ikan bilis tempatan kering."
 answer: "Teksen ialah sebuah restoran Kantonis santai di 18 & 20 Lebuh Carnarvon, George Town, Pulau Pinang, yang memegang MICHELIN Bib Gourmand — anugerah panduan ini untuk masakan berkualiti baik dan berbaloi. Dibuka sejak 1965, ia menghidangkan hidangan Kantonis tradisional serta hidangan fusion dengan sentuhan tempatan, dan hidangannya yang paling terkenal ialah tauhu buatan sendiri yang digoreng bersama ikan bilis tempatan kering. Jangkakan beratur pada waktu puncak."
 keyTakeaways:
   - "Teksen memegang MICHELIN Bib Gourmand, pengiktirafan panduan ini untuk masakan berkualiti baik dan berbaloi."
-  - "Ia sebuah restoran Kantonis di 18 & 20 Lebuh Carnarvon, George Town, Pulau Pinang (10100), berada dalam julat harga MICHELIN $$."
+  - "Ia sebuah restoran Kantonis di 18 & 20 Lebuh Carnarvon, George Town, Pulau Pinang (10100), berada dalam julat harga MICHELIN $."
   - "Dapurnya telah beroperasi sejak 1965 dan menggandingkan hidangan Kantonis tradisional dengan hidangan fusion yang diberi sentuhan tempatan."
   - "Hidangan istimewanya ialah tauhu buatan sendiri yang digoreng bersama ikan bilis tempatan kering; panduan ini turut menyebut sup dua kali rebus harian."
   - "MICHELIN melabelkannya 'berbaloi untuk beratur' — jangkakan menunggu pada waktu sibuk, dan semak waktu operasi sebelum anda pergi."

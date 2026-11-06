@@ -9,7 +9,7 @@ lang: "ar"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "‏Neighbourwood مطعم حائز على MICHELIN Bib Gourmand في Bukit Mertajam، Seberang Perai — النصف البرّي الرئيسي من ولاية Penang. مكان حيّ هادئ افتتحه أحد السكان القريبين، ويقدّم طعامًا أوروبيًا معاصرًا بتأثيرات آسيوية إضافةً إلى أطباق مشوية، بقائمة تتغيّر كل ستة أسابيع، وخبز sourdough المخبوز في المكان من بين أطباقه المميّزة."
-answer: "‏Neighbourwood مطعم حائز على MICHELIN Bib Gourmand في 3427 Jalan Kulim، Bukit Mertajam، في Seberang Perai — الجزء البرّي الرئيسي من ولاية Penang. يقدّم طهيًا أوروبيًا معاصرًا بتأثيرات آسيوية إلى جانب أطباق مشوية، بقائمة تتغيّر كل ستة أسابيع بينما تبقى حفنة من الأطباق المميّزة. خبز sourdough المخبوز في المكان، الذهبي الهشّ، وتشكيلة واسعة من الحلويات هما أبرز ما فيه. ويضعه MICHELIN في فئة $$."
+answer: "‏Neighbourwood مطعم حائز على MICHELIN Bib Gourmand في 3427 Jalan Kulim، Bukit Mertajam، في Seberang Perai — الجزء البرّي الرئيسي من ولاية Penang. يقدّم طهيًا أوروبيًا معاصرًا بتأثيرات آسيوية إلى جانب أطباق مشوية، بقائمة تتغيّر كل ستة أسابيع بينما تبقى حفنة من الأطباق المميّزة. خبز sourdough المخبوز في المكان، الذهبي الهشّ، وتشكيلة واسعة من الحلويات هما أبرز ما فيه. ويضعه MICHELIN في فئة $."
 keyTakeaways:
   - "‏Neighbourwood حائز على MICHELIN Bib Gourmand لطهي جيد الجودة وبسعر مناسب."
-  - "يقدّم طعام European Contemporary (أوروبي معاصر) بتأثيرات آسيوية إضافةً إلى أطباق مشوية، ضمن فئة الأسعار MICHELIN $$."
+  - "يقدّم طعام European Contemporary (أوروبي معاصر) بتأثيرات آسيوية إضافةً إلى أطباق مشوية، ضمن فئة الأسعار MICHELIN $."
   - "تتغيّر القائمة كل ستة أسابيع تقريبًا، مع بقاء بضعة أطباق مميّزة مناسبة للمشاركة."
   - "خبز sourdough المخبوز في المكان بنكهات عدّة وتشكيلة تزيد عن عشر حلويات هي الأطباق البارزة."
   - "يقع في 3427 Jalan Kulim، Taman Bukit Mas، Bukit Mertajam، Seberang Perai (14000) — في بر Penang الرئيسي، لا في جزيرة George Town."

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa เป็นแผงอาหารริมทางระดับ MICHELIN Bib Gourmand ในจอร์จทาวน์ ปีนัง เสิร์ฟ assam laksa รสเปรี้ยว-หวาน-เผ็ดจากมะขามและปลา ตามสูตรครอบครัวอายุราว 50 ปีที่ปัจจุบันรุ่นที่สามเป็นผู้ปรุง โปรไฟล์นี้ครอบคลุมการได้รับการยอมรับจาก MICHELIN เมนูเด่น ที่ตั้ง และวิธีไปเยือน"
 seoTitle: "Wan Dao Tou Assam Laksa: บิบ กูร์มองด์ แห่งปีนัง"
 answer: "Wan Dao Tou Assam Laksa เป็นแผงอาหารริมทางในปีนังที่ได้รับการจัดอันดับเป็น MICHELIN Bib Gourmand ในการคัดเลือกของ MICHELIN Guide Kuala Lumpur & Penang เสิร์ฟ assam laksa — น้ำซุปปลาทูเปรี้ยวด้วยมะขามราดบนเส้นก๋วยเตี๋ยวข้าวเส้นหนา โรยด้วยแตงกวา หอมแดง และสับปะรด — ตามสูตรครอบครัวอายุราว 50 ปี ปัจจุบันรุ่นที่สามเป็นผู้ปรุง ตั้งอยู่ที่ 1 Jalan Gottlieb จอร์จทาวน์"

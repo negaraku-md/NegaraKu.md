@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "7e28abfc06c880aa"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow என்பது பினாங்கு நிலப்பகுதியில், Seberang Perai-இல் உள்ள Bukit Mertajam-இல் இருக்கும் ஒரு நூடுல் கடை; MICHELIN Guide-இன் Bib Gourmand தேர்வில் இடம்பெற்றுள்ளது. இதன் char koay teow, வாத்து முட்டையுடன் கரி நெருப்பில் வதக்கப்படுவதால் தெளிவான wok hei பெறுகிறது; சற்று வேகவைத்த கணவாய் ஒரு பரிந்துரைக்கப்பட்ட தொடக்க உணவு. இது மாலை வியாபாரம், இரண்டு தசாப்தங்களாக உருவான ஆதரவுடன்."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, பினாங்கு"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow என்பது பினாங்கு நிலப்பகுதியில், Seberang Perai-இல் உள்ள Bukit Mertajam-இல் இருக்கும் ஒரு Bib Gourmand நூடுல் கடை. இதன் சிறப்பு char koay teow வாத்து முட்டையுடன் கரி நெருப்பில் வதக்கப்படுகிறது, இது வலுவான wok hei (வோக் பாத்திரத்தின் புகை மூச்சு) தருகிறது. சற்று வேகவைத்த கணவாய் ஒரு பரிந்துரைக்கப்பட்ட தொடக்க உணவு. இது மாலைப் பொழுதுகளில் வியாபாரம் செய்கிறது."

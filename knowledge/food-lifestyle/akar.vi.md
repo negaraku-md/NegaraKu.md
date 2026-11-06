@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide phân loại ẩm thực của nhà hàng là Malaysia và Đương đại, phục vụ dưới dạng thực đơn set theo mùa."
   - "MICHELIN mô tả đầu bếp tái chế biến các công thức châu Âu với ảnh hưởng Nhật Bản, Pháp và Malaysia, dựa trên quãng thời gian ở Nhật Bản và Pháp."
   - "Nhà hàng nằm ở Taman Tun Dr Ismail (TTDI), Kuala Lumpur, với một phòng ăn ấm cúng và gian bếp mở."
-  - "MICHELIN Guide xếp nhà hàng vào nhóm giá $$$ và đánh dấu là phù hợp để dùng bữa một mình."
+  - "MICHELIN Guide xếp nhà hàng vào nhóm giá $$ và đánh dấu là phù hợp để dùng bữa một mình."
 appliesTo: "Du khách, người đam mê ẩm thực và thực khách đang tìm hiểu về fine dining Malaysia được MICHELIN công nhận tại Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

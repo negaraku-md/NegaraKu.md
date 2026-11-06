@@ -6,22 +6,21 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "28fd4ae0db39f542"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sek Yuen은 쿠알라룸푸르 Jalan Pudu에 있는 오래된 광둥 요리 식당으로, 1948년부터 영업해 왔으며 MICHELIN Guide의 Bib Gourmand를 보유하고 있습니다. 전통적이고 푸근한 광둥 요리 — pipa duck과 (이틀 전에 주문하는) 새끼돼지 구이 같은 대표 메뉴 — 를 나란히 붙은 세 채의 숍하우스에서 내며, 가운데 집이 예스러운 분위기를 간직하고 있습니다. 이 글은 음식, 역사, 그리고 방문 방법을 다룹니다."
 seoTitle: "Sek Yuen, 쿠알라룸푸르"
-answer: "Sek Yuen은 쿠알라룸푸르 Jalan Pudu에 있는 유산 광둥 요리 식당으로, 1948년부터 영업해 왔으며 가성비 좋은 요리로 MICHELIN Guide의 Bib Gourmand로 인정받았습니다. 나란히 붙은 세 채의 숍하우스에서 전통적이고 푸근한 광둥 요리를 내며 — 가운데 집이 가장 예스러운 분위기를 간직하고 있습니다 — 껍질이 바삭한 pipa duck과 이틀 전에 주문해야 하는 새끼돼지 구이 같은 대표 메뉴로 유명합니다. 가격대는 $$입니다."
+answer: "Sek Yuen은 쿠알라룸푸르 Jalan Pudu에 있는 유산 광둥 요리 식당으로, 1948년부터 영업해 왔으며 가성비 좋은 요리로 MICHELIN Guide의 Bib Gourmand로 인정받았습니다. 나란히 붙은 세 채의 숍하우스에서 전통적이고 푸근한 광둥 요리를 내며 — 가운데 집이 가장 예스러운 분위기를 간직하고 있습니다 — 껍질이 바삭한 pipa duck과 이틀 전에 주문해야 하는 새끼돼지 구이 같은 대표 메뉴로 유명합니다. 가격대는 $입니다."
 appliesTo: "옛날식 광둥 요리를 찾는 여행자와 쿠알라룸푸르의 미식가, 그리고 말레이시아 MICHELIN Guide 선정과 이 도시의 음식 유산을 따라가는 독자를 위한 글입니다."
 keyTakeaways:
   - "Sek Yuen은 쿠알라룸푸르 Jalan Pudu에 있는 MICHELIN Guide Bib Gourmand 식당으로, 질 좋고 가성비 있는 요리입니다."
   - "MICHELIN은 1948년 개업 이래 동네의 사랑을 받아 왔다고 밝히며, 이 도시에서 가장 오래 운영되는 광둥 요리 주방 중 하나입니다."
   - "지금은 같은 거리에 나란히 붙은 세 채의 숍하우스에 걸쳐 있으며, 가운데 집이 가장 예스러운 분위기를 간직하고 있습니다."
   - "메뉴는 전통적이고 푸근한 광둥 요리에 중점을 둡니다. pipa duck(껍질은 바삭, 살은 탄탄함)이 대표 메뉴이고, 새끼돼지 구이는 이틀 전에 주문해야 합니다."
-  - "$$ 식당으로 오래 일한 따뜻한 직원들이 있습니다. 예약은 매장이 직접 관리하므로 직접 연락하세요."
+  - "$ 식당으로 오래 일한 따뜻한 직원들이 있습니다. 예약은 매장이 직접 관리하므로 직접 연락하세요."
 faq:
   - q: "Sek Yuen은 얼마나 오래되었나요?"
     a: "MICHELIN Guide는 Sek Yuen이 1948년 개업 이래 동네의 사랑을 받아 왔다고 하며, 이는 쿠알라룸푸르에서 가장 오래 운영되는 광둥 요리 식당 중 하나로 만듭니다. 더 이른 전쟁 이전 기원에 대한 이야기도 돌지만 가이드에서는 확인되지 않았습니다."

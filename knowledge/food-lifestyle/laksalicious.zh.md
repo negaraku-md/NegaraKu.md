@@ -9,7 +9,7 @@ lang: "zh"
 sourceContentHash: "2351caf0c9f02733"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Laksalicious 是槟城乔治市 Jalan Hutton 一家 MICHELIN Bib Gourmand 的食肆，laksa 是这里的重头戏。这家小巧而充满个性的店铺，让你在带有酸辣鱼汤的 Nyonya asam laksa，与汤头浓郁、椰浆奶香的 Nyonya laksa lemak 之间选择，另有炸虾饼、nasi ulam 与 gula melaka cendol 等菜式。"
 answer: "Laksalicious 是槟城乔治市 117-117A Jalan Hutton 一家 MICHELIN Bib Gourmand 餐厅，laksa 是这里的亮点。它供应两种风格——带酸辣鱼汤的 Nyonya asam laksa，以及汤头浓郁、椰浆奶香的 Nyonya laksa lemak——另有炸虾饼、nasi ulam 与 gula melaka cendol 等配菜。MICHELIN 将其价位定于 $ 区间，料理归类为 Malaysian（马来西亚）。"

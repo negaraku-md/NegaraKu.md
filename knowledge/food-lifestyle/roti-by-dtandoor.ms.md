@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor ialah sebuah restoran India Utara berdekatan Jalan Ampang di Kuala Lumpur, disenaraikan dalam MICHELIN Guide dengan Bib Gourmand bagi makanan yang baik pada harga berbaloi. Terletak di dalam sebuah banglo kediaman dan merupakan sebahagian daripada jenama d'Tandoor yang dibuka di Malaysia pada tahun 1990, ia menghidangkan pelbagai masakan India yang halus dan menghangatkan hati, dibina atas resipi keluarga, dengan butter chicken masala, naan yang lembut dan kenyal serta aiskrim kulfi antara hidangan yang dipilih MICHELIN. Ia berada pada tingkat harga $$ dan mesra keluarga serta mesra makan di luar."
+answer: "Roti by d'Tandoor ialah sebuah restoran India Utara berdekatan Jalan Ampang di Kuala Lumpur, disenaraikan dalam MICHELIN Guide dengan Bib Gourmand bagi makanan yang baik pada harga berbaloi. Terletak di dalam sebuah banglo kediaman dan merupakan sebahagian daripada jenama d'Tandoor yang dibuka di Malaysia pada tahun 1990, ia menghidangkan pelbagai masakan India yang halus dan menghangatkan hati, dibina atas resipi keluarga, dengan butter chicken masala, naan yang lembut dan kenyal serta aiskrim kulfi antara hidangan yang dipilih MICHELIN. Ia berada pada tingkat harga $ dan mesra keluarga serta mesra makan di luar."
 keyTakeaways:
   - "Roti by d'Tandoor memegang Bib Gourmand MICHELIN Guide — anugerah bagi kualiti yang baik pada harga berbaloi — di Kuala Lumpur."
   - "Ia menghidangkan masakan India Utara yang dibina atas resipi keluarga serta adunan herba dan rempah, di dalam sebuah rumah berdekatan Jalan Ampang."
   - "MICHELIN menonjolkan butter chicken masala, naan yang lembut dan kenyal serta aiskrim kulfi yang hadir dalam beberapa perisa."
   - "Ia merupakan sebahagian daripada jenama d'Tandoor, yang menurut MICHELIN dibuka di Malaysia pada tahun 1990."
-  - "Ia terletak di 82 Jalan Damai, berdekatan Jalan Ampang, pada tingkat harga $$, dengan tempat duduk di luar dan suasana mesra keluarga."
+  - "Ia terletak di 82 Jalan Damai, berdekatan Jalan Ampang, pada tingkat harga $, dengan tempat duduk di luar dan suasana mesra keluarga."
 appliesTo: "Pelancong dan pengunjung yang mencari masakan India Utara yang berpatutan dan diiktiraf MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

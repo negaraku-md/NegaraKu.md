@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee 是威省（槟城陆地）大山脚一家 MICHELIN Bib Gourmand 街头小吃摊，以一碗历时数十年的 curry mee 闻名——汤头以椰浆与咖喱熬得浓郁，配上半熟的鲜蚶。本篇介绍其 MICHELIN 认可、招牌面碗、地点及造访方式。"
 seoTitle: "Taman Bukit Curry Mee：槟城 Bib Gourmand"
 answer: "Taman Bukit Curry Mee 是槟城陆地的一家街头小吃摊，在 MICHELIN Guide Kuala Lumpur & Penang 评选中列为 MICHELIN Bib Gourmand。它以 curry mee 闻名——面条浸在以椰浆与咖喱酱熬成的浓郁汤头里，配上半熟的鲜蚶——在一个隐蔽的美食广场售卖已达数十年。地址在 Jalan Bukit Kecil，Taman Bukit，大山脚，威省。"

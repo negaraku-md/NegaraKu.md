@@ -9,7 +9,7 @@ lang: "vi"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu là một nhà hàng Peranakan MICHELIN Bib Gourmand trên đường Jalan Pintal Tali ở George Town, Penang. Gian bếp do một đầu bếp gia đình ở độ tuổi 70 với hàng chục năm kinh nghiệm dẫn dắt, và thực đơn khoảng 40 món của nhà hàng bao quát những món kinh điển của ẩm thực Nyonya truyền thống — trong đó có món asam prawn dai ngọt trong nước xốt chua ngọt đậm vị me."
-answer: "Sifu là một nhà hàng Peranakan MICHELIN Bib Gourmand tại 154 Jalan Pintal Tali ở George Town, Penang. Gian bếp do một phụ nữ ở độ tuổi 70 đã nấu ăn hàng chục năm cầm trịch, và thực đơn cung cấp khoảng 40 món gọi lẻ (à la carte) kinh điển của ẩm thực Peranakan (Nyonya) truyền thống. Món đặc trưng gồm asam prawn dai trong nước xốt chua ngọt sẫm màu, đậm vị me và mang kuang char, củ đậu bào sợi xào với mực khô và nấm. MICHELIN xếp vào phân khúc giá $$."
+answer: "Sifu là một nhà hàng Peranakan MICHELIN Bib Gourmand tại 154 Jalan Pintal Tali ở George Town, Penang. Gian bếp do một phụ nữ ở độ tuổi 70 đã nấu ăn hàng chục năm cầm trịch, và thực đơn cung cấp khoảng 40 món gọi lẻ (à la carte) kinh điển của ẩm thực Peranakan (Nyonya) truyền thống. Món đặc trưng gồm asam prawn dai trong nước xốt chua ngọt sẫm màu, đậm vị me và mang kuang char, củ đậu bào sợi xào với mực khô và nấm. MICHELIN xếp vào phân khúc giá $."
 keyTakeaways:
   - "Sifu đang giữ MICHELIN Bib Gourmand cho ẩm thực ngon và đáng đồng tiền."
-  - "Đây là một nhà hàng Peranakan (Nyonya) tại 154 Jalan Pintal Tali, George Town, Penang, thuộc phân khúc giá MICHELIN $$."
+  - "Đây là một nhà hàng Peranakan (Nyonya) tại 154 Jalan Pintal Tali, George Town, Penang, thuộc phân khúc giá MICHELIN $."
   - "Gian bếp do một đầu bếp gia đình ở độ tuổi 70 với hàng chục năm kinh nghiệm dẫn dắt, cung cấp khoảng 40 món gọi lẻ kinh điển."
   - "Các món đặc trưng gồm asam prawn dai trong nước xốt chua ngọt đậm vị me và mang kuang char (củ đậu bào sợi với mực khô và nấm)."
   - "MICHELIN lưu ý không thể đặt bàn qua trang của họ, vì vậy hãy lên kế hoạch cho phù hợp."

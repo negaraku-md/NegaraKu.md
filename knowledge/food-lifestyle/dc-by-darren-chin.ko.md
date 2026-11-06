@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide는 그 요리를 프렌치 컨템포러리로 분류하며, 글로벌한 영향과 말레이시아의 악센트를 더합니다."
   - "2차 보도에 따르면, 말레이시아 첫 가이드에서 MICHELIN Star를 받은 최초의 레스토랑 중 하나였으며 이후 이를 유지해 왔습니다."
   - "레스토랑은 쿠알라룸푸르 Taman Tun Dr Ismail(TTDI)에 있으며, 3층에 걸쳐 바와 다이닝룸, 그리고 Louis XIII를 테마로 한 프라이빗 룸을 갖추고 있습니다."
-  - "MICHELIN Guide는 최고($$$$) 가격대로 분류하며, 프랑스산 치즈 카트와 와인 리스트를 언급합니다."
+  - "MICHELIN Guide는 최고($$) 가격대로 분류하며, 프랑스산 치즈 카트와 와인 리스트를 언급합니다."
 appliesTo: "쿠알라룸푸르에서 MICHELIN의 인정을 받은 말레이시아 파인다이닝을 알아보는 여행자, 미식 애호가, 그리고 식도락가."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

@@ -9,7 +9,7 @@ lang: "id"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood adalah restoran MICHELIN Bib Gourmand di Bukit Mertajam, Seberang Perai — bagian daratan negara bagian Penang. Tempat lingkungan yang santai dan dibuka oleh seorang warga di dekatnya, restoran ini menyajikan masakan Eropa kontemporer dengan pengaruh Asia plus hidangan panggang, dengan menu yang berganti setiap enam minggu dan roti sourdough buatan sendiri sebagai salah satu andalannya."
-answer: "Neighbourwood adalah restoran MICHELIN Bib Gourmand di 3427 Jalan Kulim, Bukit Mertajam, di Seberang Perai — bagian daratan negara bagian Penang. Restoran ini menyajikan masakan Eropa kontemporer dengan pengaruh Asia berdampingan dengan hidangan panggang, dengan menu yang berganti setiap enam minggu dan beberapa andalan yang tetap ada. Roti sourdough buatan sendiri yang keemasan dan renyah serta pilihan pencuci mulut yang luas menjadi sorotan. MICHELIN mematoknya pada kisaran $$."
+answer: "Neighbourwood adalah restoran MICHELIN Bib Gourmand di 3427 Jalan Kulim, Bukit Mertajam, di Seberang Perai — bagian daratan negara bagian Penang. Restoran ini menyajikan masakan Eropa kontemporer dengan pengaruh Asia berdampingan dengan hidangan panggang, dengan menu yang berganti setiap enam minggu dan beberapa andalan yang tetap ada. Roti sourdough buatan sendiri yang keemasan dan renyah serta pilihan pencuci mulut yang luas menjadi sorotan. MICHELIN mematoknya pada kisaran $."
 keyTakeaways:
   - "Neighbourwood menyandang MICHELIN Bib Gourmand untuk masakan berkualitas baik dengan harga terjangkau."
-  - "Ia menyajikan masakan European Contemporary (Eropa kontemporer) dengan pengaruh Asia plus hidangan panggang, pada kisaran harga MICHELIN $$."
+  - "Ia menyajikan masakan European Contemporary (Eropa kontemporer) dengan pengaruh Asia plus hidangan panggang, pada kisaran harga MICHELIN $."
   - "Menunya berganti kira-kira setiap enam minggu, dengan beberapa hidangan andalan ramah-berbagi yang tetap ada."
   - "Roti sourdough buatan sendiri dalam beberapa rasa dan pilihan lebih dari sepuluh pencuci mulut menjadi item yang menonjol."
   - "Berada di 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) — di daratan Penang, bukan pulau George Town."

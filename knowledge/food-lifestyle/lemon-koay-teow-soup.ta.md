@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "371d371355f5bfc2"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Lemon Koay Teow Soup என்பது பினாங்கு நிலப்பகுதியில், Seberang Perai-இல் உள்ள Butterworth-இல் இருக்கும் ஒரு தெரு உணவுக் கடை; MICHELIN Guide-இன் Bib Gourmand தேர்வில் இடம்பெற்றுள்ளது. இது koay teow th'ng வழங்குகிறது — புதிய பன்றி எலும்பு சூப்பில் தட்டையான அரிசி நூடுல் — கையால் நறுக்கிய பன்றி இறைச்சி அப்பத்துடனும், சுவையை மெருகூட்ட மேசையில் புதிதாகப் பிழிந்த எலுமிச்சை சாறுடனும் வழங்கப்படுகிறது; உள்ளூர் காலை உணவு விருப்பம்."
 seoTitle: "Lemon Koay Teow Soup, பினாங்கு (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup என்பது பினாங்கு நிலப்பகுதியில், Seberang Perai-இல் உள்ள Butterworth-இல் இருக்கும் ஒரு Bib Gourmand தெரு உணவுக் கடை. இது koay teow soup வழங்குகிறது — ஒவ்வொரு நாளும் புதிதாக செய்யப்படும் உமாமி நிறைந்த பன்றி எலும்பு சூப்பில் பட்டுப்போன்ற தட்டையான அரிசி நூடுல் — கையால் நறுக்கிய பன்றி இறைச்சி அப்பத்துடன் முடிக்கப்படுகிறது; சுவையை உயர்த்த மேசையில் புதிதாகப் பிழிந்த எலுமிச்சை சாறு வைக்கப்படுகிறது. இது பிரபலமான உள்ளூர் காலை உணவு."

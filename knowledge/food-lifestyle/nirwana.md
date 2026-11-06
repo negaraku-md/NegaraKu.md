@@ -7,18 +7,17 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana — the Bangsar Baru restaurant widely known as Sri Nirwana Maju — is a MICHELIN Bib Gourmand banana leaf rice institution on Jalan Telawi. The MICHELIN Guide lists it as Indian ($) and points diners to its rice-and-curry set on banana leaves and its chicken biryani."
 
-summary: "Nirwana — the Bangsar Baru restaurant widely known as Sri Nirwana Maju — is a MICHELIN Bib Gourmand banana leaf rice institution on Jalan Telawi. The MICHELIN Guide lists it as Indian ($$) and points diners to its rice-and-curry set on banana leaves and its chicken biryani."
-
-answer: "Nirwana, a long-running South Indian restaurant at 43 Jalan Telawi 3 in Bangsar Baru, Kuala Lumpur, holds a MICHELIN Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang. The Bib Gourmand marks good-quality, good-value cooking. MICHELIN classes it as Indian in the $$ price band and recommends a banana leaf set of rice and vegetable curry, with the chicken biryani singled out for its moist, tender meat."
+answer: "Nirwana, a long-running South Indian restaurant at 43 Jalan Telawi 3 in Bangsar Baru, Kuala Lumpur, holds a MICHELIN Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang. The Bib Gourmand marks good-quality, good-value cooking. MICHELIN classes it as Indian in the $ price band and recommends a banana leaf set of rice and vegetable curry, with the chicken biryani singled out for its moist, tender meat."
 keyTakeaways:
   - "Nirwana (commonly signed as Sri Nirwana Maju) is a MICHELIN Bib Gourmand restaurant in Bangsar Baru, Kuala Lumpur."
-  - "The MICHELIN Guide classifies it as Indian cuisine in the $$ price band and tags it 'Eat like a local'."
+  - "The MICHELIN Guide classifies it as Indian cuisine in the $ price band and tags it 'Eat like a local'."
   - "MICHELIN steers diners to a banana leaf set menu of rice and vegetable curry, with optional fish, chicken or lamb add-ons."
   - "The chicken biryani is the dish MICHELIN singles out, praising its moist, tender meat and balanced flavours."
   - "It sits at 43 Jalan Telawi 3, by Bangsar Village, and opens daily; the Bib Gourmand marks good value, not a star."
@@ -28,7 +27,7 @@ faq:
   - q: "What is Nirwana known for?"
     a: "Banana leaf rice. The MICHELIN Guide recommends its set menu of rice and vegetable curry served on a banana leaf, with optional add-ons such as fish, chicken or lamb, and singles out the chicken biryani for its moist, tender meat and balanced flavours. MICHELIN lists the cuisine as Indian."
   - q: "Does Nirwana have a MICHELIN star?"
-    a: "No. Nirwana holds a MICHELIN Bib Gourmand, not a star. The Bib Gourmand is a separate distinction recognising good-quality cooking at good value — typically within the Guide's $ and $$ price bands — rather than the fine-dining criteria behind MICHELIN Stars."
+    a: "No. Nirwana holds a MICHELIN Bib Gourmand, not a star. The Bib Gourmand is a separate distinction recognising good-quality cooking at good value — typically within the Guide's $ and $ price bands — rather than the fine-dining criteria behind MICHELIN Stars."
   - q: "Where is Nirwana and when is it open?"
     a: "It is at 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur 59100, by Bangsar Village. The MICHELIN Guide lists it as open daily, 11:30 to 23:00. Hours can change, so confirm with the restaurant before travelling; bookings are handled by the restaurant directly."
 

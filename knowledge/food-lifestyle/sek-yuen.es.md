@@ -6,22 +6,21 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "28fd4ae0db39f542"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sek Yuen es un restaurante cantonés de larga trayectoria en Jalan Pudu, Kuala Lumpur, abierto desde 1948 y con un Bib Gourmand de la MICHELIN Guide. Sirve platos cantoneses tradicionales y reconfortantes —especialidades como el pipa duck y el cochinillo asado (que se pide con dos días de antelación)— repartidos en tres tiendas-vivienda contiguas; la del medio conserva su carácter vintage. Este perfil cubre la comida, la historia y cómo visitarlo."
 seoTitle: "Sek Yuen, Kuala Lumpur"
-answer: "Sek Yuen es un restaurante cantonés de herencia en Jalan Pudu, en Kuala Lumpur, abierto desde 1948 y reconocido con un Bib Gourmand de la MICHELIN Guide por su cocina de buena relación calidad-precio. Sirve platos cantoneses tradicionales y reconfortantes en tres tiendas-vivienda contiguas —la del medio conserva el carácter más vintage— y es conocido por especialidades como el pipa duck de piel crujiente y un cochinillo asado que debe pedirse con dos días de antelación. Se sitúa en la franja de precios $$."
+answer: "Sek Yuen es un restaurante cantonés de herencia en Jalan Pudu, en Kuala Lumpur, abierto desde 1948 y reconocido con un Bib Gourmand de la MICHELIN Guide por su cocina de buena relación calidad-precio. Sirve platos cantoneses tradicionales y reconfortantes en tres tiendas-vivienda contiguas —la del medio conserva el carácter más vintage— y es conocido por especialidades como el pipa duck de piel crujiente y un cochinillo asado que debe pedirse con dos días de antelación. Se sitúa en la franja de precios $."
 appliesTo: "Viajeros y comensales de KL que buscan cocina cantonesa de la vieja escuela, y lectores que siguen la selección de la MICHELIN Guide de Malasia y el patrimonio gastronómico de la ciudad."
 keyTakeaways:
   - "Sek Yuen es un restaurante Bib Gourmand de la MICHELIN Guide —cocina de buena calidad y buen precio— en Jalan Pudu, Kuala Lumpur."
   - "MICHELIN señala que es un favorito del barrio desde que abrió en 1948, lo que lo convierte en una de las cocinas cantonesas más antiguas en activo de la ciudad."
   - "Hoy ocupa tres tiendas-vivienda contiguas en la misma calle; la del medio conserva el carácter más vintage."
   - "La carta se centra en platos cantoneses tradicionales y reconfortantes; el pipa duck (piel crujiente, carne firme) es una especialidad, y el cochinillo asado debe pedirse con dos días de antelación."
-  - "Es un restaurante $$ con personal cálido y veterano; gestiona sus propias reservas, así que contáctalo directamente."
+  - "Es un restaurante $ con personal cálido y veterano; gestiona sus propias reservas, así que contáctalo directamente."
 faq:
   - q: "¿Qué antigüedad tiene Sek Yuen?"
     a: "La MICHELIN Guide dice que Sek Yuen es un favorito del barrio desde que abrió en 1948, lo que lo convierte en uno de los restaurantes cantoneses más antiguos en activo de Kuala Lumpur. Circulan relatos de un origen aún anterior, de antes de la guerra, pero la guía no los confirma."

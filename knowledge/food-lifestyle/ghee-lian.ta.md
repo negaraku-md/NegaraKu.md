@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian என்பது பினாங்கு, ஜார்ஜ் டவுனில் Medan Renong உணவு மையத்தில் உள்ள ஒரு MICHELIN Bib Gourmand தெரு உணவுக் கடை. இது ஒரு வழக்கத்துக்கு மாறான green tom yum நூடுல் உணவுக்காகப் புகழ்பெற்றது; அதனுடன் ஒரு நூடுல் சூப்பும் வறுத்த நூடுல்ஸும் வழங்குகிறது. இந்தத் தொகுப்பு அதன் MICHELIN அங்கீகாரம், சிறப்பு உணவு, இடம் மற்றும் செல்லும் முறையை உள்ளடக்கியது."
 seoTitle: "Ghee Lian: பினாங்கு Bib Gourmand தெரு உணவு"
 answer: "Ghee Lian என்பது MICHELIN Guide Kuala Lumpur & Penang தேர்வில் MICHELIN Bib Gourmand ஆகப் பட்டியலிடப்பட்டுள்ள ஒரு பினாங்கு தெரு உணவுக் கடை. அதன் சிறப்பு ஒரு வழக்கத்துக்கு மாறான green tom yum நூடுல் உணவு — இதன் புளிப்பு-காரச் சமநிலையை MICHELIN பாராட்டுகிறது — இது ஒரு நூடுல் சூப் மற்றும் வறுத்த நூடுல்ஸுடன் வழங்கப்படுகிறது. இது Jalan Tun Syed Sheh Barakhbah-இல் உள்ள Medan Renong உணவு மையத்தில், ஜார்ஜ் டவுனில் உள்ளது."

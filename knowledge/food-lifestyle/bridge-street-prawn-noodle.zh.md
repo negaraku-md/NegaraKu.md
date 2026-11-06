@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle 是槟城乔治市 Lebuh Pantai 上一个荣获 MICHELIN Bib Gourmand 的街头美食档口，以 prawn mee 闻名：黄面或米粉浸在味道浓郁的辣虾汤中，可加叉烧排骨和鱼丸等配料。"
 seoTitle: "Bridge Street Prawn Noodle：槟城 Bib Gourmand"
 answer: "Bridge Street Prawn Noodle 是槟城乔治市 533 Lebuh Pantai 一个荣获 Bib Gourmand 的街头美食档口。它的招牌是 prawn mee（虾面汤）：食客在黄面或米粉之间选择，浸在满溢浓郁风味的辣虾汤中，并可加焖排骨或鱼丸。只收现金，自获 MICHELIN 认可以来常常吸引人龙。"

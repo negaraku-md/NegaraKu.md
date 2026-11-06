@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak est un stand de cuisine de rue MICHELIN Bib Gourmand sur Lorong Macalister à George Town, Penang, qui sert du char koay kak : galette de riz sautée avec un bon wok hei, sauce soja, germes de soja, œuf et piment. Ce plat teochew a été lancé par le père des sœurs en 1963 et est aujourd'hui tenu par trois filles."
 seoTitle: "Sister Yao's Char Koay Kak : Bib Gourmand Penang"
 answer: "Sister Yao's Char Koay Kak est un stand de cuisine de rue Bib Gourmand au 96 Lorong Macalister, George Town, Penang. Son unique plat est le char koay kak, une galette de riz sautée à la façon teochew avec un wok hei fumé, de la sauce soja, des germes de soja, de l'œuf et du piment, avec une sauce piquante en supplément sur demande. Lancé par le père des sœurs en 1963, il est aujourd'hui tenu par trois filles. Il n'accepte que les espèces."

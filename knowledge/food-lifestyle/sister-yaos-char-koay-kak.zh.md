@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak 是槟城乔治市 Lorong Macalister 上一个荣获 MICHELIN Bib Gourmand 的街头美食档口，供应 char koay kak：炒粿角，带有好的 wok hei、酱油、豆芽、鸡蛋和辣椒。这道潮州菜由三姐妹的父亲于 1963 年创始，如今由三个女儿经营。"
 seoTitle: "Sister Yao's Char Koay Kak：槟城 Bib Gourmand"
 answer: "Sister Yao's Char Koay Kak 是槟城乔治市 96 Lorong Macalister 一个荣获 Bib Gourmand 的街头美食档口。它唯一的一道菜是 char koay kak，一道潮州式炒粿角，以带烟火气的 wok hei、酱油、豆芽、鸡蛋和辣椒炒制，可应要求加辣酱。由三姐妹的父亲于 1963 年创始，如今由三个女儿经营。只收现金。"

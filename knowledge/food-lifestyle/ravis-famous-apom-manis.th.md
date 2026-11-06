@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "96389253edf1ad12"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ravi's Famous Apom Manis เป็นร้านสตรีทฟู้ดที่เปิดมานานใน George Town ปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide เชี่ยวชาญ apom manis — แพนเค้กหวานขอบลูกไม้จากมะพร้าวและแป้งข้าว สไตล์ปีนังใส่ไข่ในแป้งเพื่อกลิ่นที่หอมขึ้น ร้านเปิดมาเกือบศตวรรษและมักขายหมดในช่วงเช้า"
 seoTitle: "Ravi's Famous Apom Manis, ปีนัง (Bib)"
 answer: "Ravi's Famous Apom Manis เป็นร้านสตรีทฟู้ดระดับ Bib Gourmand บน Jalan Burma ใน George Town ปีนัง เชี่ยวชาญ apom manis — แพนเค้กหวานที่เนื้อในนุ่มขอบกรอบ ทำจากแป้งข้าวและมะพร้าว โดยใส่ไข่ตามสไตล์ปีนังเพื่อเพิ่มกลิ่นหอม ร้านของครอบครัวนี้ย้อนไปถึงต้นศตวรรษที่ 20 และมักขายหมดภายในสายวันนั้น"

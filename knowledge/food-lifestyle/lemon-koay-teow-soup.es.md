@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "371d371355f5bfc2"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Lemon Koay Teow Soup es un puesto de comida callejera en Butterworth, Seberang Perai, en la parte continental de Penang, incluido en la selección Bib Gourmand de la MICHELIN Guide. Sirve koay teow th'ng —fideos planos de arroz en un caldo de hueso de cerdo recién hecho— con una hamburguesa de cerdo picada a mano y zumo de limón recién exprimido en la mesa para avivar los sabores, un desayuno favorito de la zona."
 seoTitle: "Lemon Koay Teow Soup, Penang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup es un puesto de comida callejera Bib Gourmand en Butterworth, Seberang Perai, en la parte continental de Penang. Sirve koay teow soup —fideos planos de arroz sedosos en un caldo de hueso de cerdo con mucho umami hecho fresco a diario— rematado con una hamburguesa de cerdo picada a mano, con zumo de limón recién exprimido en la mesa para realzar los sabores. Es un desayuno local popular."

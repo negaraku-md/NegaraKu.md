@@ -9,7 +9,7 @@ lang: "zh"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee 是槟城乔治市 Jalan Burma 一个夜间营业的街头美食摊，摘得 MICHELIN Bib Gourmand。它深受喜爱已超过30年，以福建 prawn mee 和 loh mee 闻名，汤底是用猪骨与虾壳熬出、鲜味浓郁的红色虾汤，并备有十余种可选配料。"
 answer: "Green House Prawn Mee and Loh Mee 是槟城乔治市 Jalan Burma 一个摘得 MICHELIN Bib Gourmand 的街头美食摊。它设于 Restoran Old Green House 之内，以福建 prawn mee 和 loh mee 深受喜爱已超过30年。招牌红色虾汤以猪骨与虾壳熬制，带来浓郁鲜味，并提供约十二种额外配料。它夜间营业，只收现金。"

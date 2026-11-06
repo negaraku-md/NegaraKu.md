@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake என்பது பினாங்கின் நிலப்பகுதியான செபராங் பிறாயில், புக்கிட் மெர்டாஜாமில் உள்ள ஒரு MICHELIN Bib Gourmand தள்ளுவண்டி தெரு உணவு. 1962 முதல் இது ஒரே ஒரு உணவை மட்டுமே விற்கிறது — apam balik, சர்க்கரை-நிலக்கடலை நிரப்பு கொண்ட கரிநெருப்பில் வாட்டப்பட்ட அப்பம், வெளியே மொறுமொறுப்பாகவும் உள்ளே பிசுபிசுப்பாகவும் — உச்ச நேரங்களில் வரிசைகள் உருவாகின்றன."
 seoTitle: "BM Cathay Pancake: பினாங்கு Bib Gourmand Apam Balik"
 answer: "BM Cathay Pancake என்பது பினாங்கின் நிலப்பகுதியான செபராங் பிறாயில், புக்கிட் மெர்டாஜாமில், Jalan Aston-இல் உள்ள Cathay Food Court-க்கு அடுத்ததாக அமைந்த ஒரு Bib Gourmand தள்ளுவண்டி தெரு உணவு. 1962 முதல் இது ஒரே ஒரு உணவை மட்டுமே பரிமாறுகிறது: apam balik, சர்க்கரை மற்றும் நிலக்கடலை நிரப்பிய கரிநெருப்பில் வாட்டப்பட்ட அப்பம், வெளியே மொறுமொறுப்பாகவும் உள்ளே பிசுபிசுப்பாகவும், ஆர்டருக்கு ஏற்பச் செய்யப்படுகிறது. இது பணம் மட்டுமே, வரிசையில் நிற்க மதிப்புள்ளது."

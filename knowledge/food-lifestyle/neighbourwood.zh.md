@@ -9,7 +9,7 @@ lang: "zh"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood 是位于威省大山脚的一家 MICHELIN Bib Gourmand 餐厅——威省是槟城州的大陆半边。这家轻松的社区餐厅由一位附近居民开设，供应融合亚洲风味的当代欧陆料理以及烧烤菜式，菜单每六周轮换一次，自家烘焙的酸种面包是招牌之一。"
-answer: "Neighbourwood 是位于威省大山脚 Jalan Kulim 3427 号的一家 MICHELIN Bib Gourmand 餐厅——威省是槟城州的大陆部分。它供应融合亚洲风味的当代欧陆料理以及烧烤菜式，菜单每六周更换一次，并有数道始终保留的招牌菜。金黄酥松、自家烘焙的酸种面包和丰富的甜点选择是亮点。MICHELIN 将其价位定于 $$ 区间。"
+answer: "Neighbourwood 是位于威省大山脚 Jalan Kulim 3427 号的一家 MICHELIN Bib Gourmand 餐厅——威省是槟城州的大陆部分。它供应融合亚洲风味的当代欧陆料理以及烧烤菜式，菜单每六周更换一次，并有数道始终保留的招牌菜。金黄酥松、自家烘焙的酸种面包和丰富的甜点选择是亮点。MICHELIN 将其价位定于 $ 区间。"
 keyTakeaways:
   - "Neighbourwood 摘得 MICHELIN Bib Gourmand，表彰优质且超值的烹调。"
-  - "它供应融合亚洲风味的 European Contemporary（当代欧陆）料理以及烧烤菜式，价位处于 MICHELIN $$ 区间。"
+  - "它供应融合亚洲风味的 European Contemporary（当代欧陆）料理以及烧烤菜式，价位处于 MICHELIN $ 区间。"
   - "菜单大约每六周轮换一次，另有数道适合分享的招牌菜始终保留。"
   - "自家烘焙、多种口味的酸种面包，以及十余款甜点的选择，是其中的亮点。"
   - "它位于威省大山脚 Taman Bukit Mas，Jalan Kulim 3427 号（14000）——在槟城的大陆一侧，而非乔治市所在的岛上。"

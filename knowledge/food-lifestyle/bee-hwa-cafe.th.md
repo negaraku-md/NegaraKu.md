@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe เป็นร้านกาแฟ (โกปี๊เตี่ยม) ระดับ MICHELIN Bib Gourmand ในจอร์จทาวน์ ปีนัง เสิร์ฟอาหารหาบเร่จีน-มาเลเซียแบบฮาลาล — รวมถึง Penang Hokkien mee และ char kway teow ผัดกระเทียม — ที่เริ่มต้นเป็นแผงริมทางในปี 1992 และปัจจุบันดำเนินการเป็นกิจการครอบครัว โปรไฟล์นี้ครอบคลุมการได้รับการยอมรับจาก MICHELIN เมนูเด่น ที่ตั้ง และวิธีไปเยือน"
 seoTitle: "Bee Hwa Cafe: บิบ กูร์มองด์ แห่งปีนัง"
 answer: "Bee Hwa Cafe เป็นร้านกาแฟในจอร์จทาวน์ที่ได้รับการจัดอันดับเป็น MICHELIN Bib Gourmand ในการคัดเลือกของ MICHELIN Guide Kuala Lumpur & Penang เสิร์ฟอาหารหาบเร่จีน-มาเลเซียแบบฮาลาล — ใช้ไก่และอาหารทะเลแทนหมู — โดยผู้ตรวจเน้น Penang Hokkien mee และ char kway teow ที่ผัดด้วยกระเทียมสับแทนน้ำมันหมู ตั้งอยู่ที่ 10 Lebuh Dickens จอร์จทาวน์ และเริ่มต้นเป็นแผงริมทางในปี 1992"

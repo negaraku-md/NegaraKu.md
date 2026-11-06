@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa is a MICHELIN Bib Gourmand street-food stall in George Town, Penang, serving a sweet-sour-spicy tamarind-and-fish assam laksa from a roughly 50-year-old family recipe now cooked by the third generation. This profile covers its MICHELIN recognition, signature bowl, location and how to visit."
 seoTitle: "Wan Dao Tou Assam Laksa: Penang Bib Gourmand"
 answer: "Wan Dao Tou Assam Laksa is a Penang street-food stall listed as a MICHELIN Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang selection. It serves assam laksa — a sour tamarind-and-mackerel broth over thick rice noodles, topped with cucumber, shallot and pineapple — from a family recipe about 50 years old, now cooked by the third generation. It is at 1 Jalan Gottlieb, George Town."

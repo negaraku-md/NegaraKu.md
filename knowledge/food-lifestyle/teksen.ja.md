@@ -9,7 +9,7 @@ lang: "ja"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksenは、ペナン、ジョージタウンのLebuh Carnarvonにある老舗の広東料理店で、質が高くコストパフォーマンスのよい料理に贈られるMICHELIN Bib Gourmandを保持している。1965年から営業し、丁寧に作られた伝統的な広東料理と、地元の風味を加えたフュージョン料理で知られる——看板は自家製の揚げ豆腐に地元産の煮干しを合わせた一皿だ。"
 answer: "Teksenは、ペナン、ジョージタウンの18 & 20 Lebuh Carnarvonにあるカジュアルな広東料理店で、MICHELIN Bib Gourmand——質が高くコストパフォーマンスのよい料理に対するガイドの賞——を保持している。1965年の開業以来、伝統的な広東料理に加え、地元の風味を効かせたフュージョン料理を供し、最もよく知られた一皿は自家製の揚げ豆腐に地元産の煮干しを合わせたものだ。ピーク時には行列を見込んでおきたい。"
 keyTakeaways:
   - "Teksenは、質が高くコストパフォーマンスのよい料理に対するガイドの栄誉、MICHELIN Bib Gourmandを保持している。"
-  - "ペナン、ジョージタウンの18 & 20 Lebuh Carnarvon（10100）にある広東料理店で、価格帯はMICHELIN $$に位置する。"
+  - "ペナン、ジョージタウンの18 & 20 Lebuh Carnarvon（10100）にある広東料理店で、価格帯はMICHELIN $に位置する。"
   - "厨房は1965年から営業し、伝統的な広東料理と、地元の風味を加えたフュージョン料理を組み合わせている。"
   - "看板料理は自家製の揚げ豆腐に地元産の煮干しを合わせた一皿で、ガイドは日替わりのダブルボイルドスープにも言及している。"
   - "MICHELINはこれを「行列する価値あり」と記している——混雑時には待ち時間を見込み、訪れる前に営業時間を確認しておきたい。"

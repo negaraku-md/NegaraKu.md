@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe, पेनांग के जॉर्ज टाउन में एक MICHELIN Bib Gourmand पेरानाकन रेस्तराँ है, जिसे एक पति-पत्नी एक स्वतंत्र मकान से चलाते हैं, जहाँ पत्नी अपने परिवार की न्योन्या (Nyonya) रेसिपी पकाती हैं। यह प्रोफ़ाइल इसकी MICHELIN मान्यता, खास व्यंजन, परिवेश और वहाँ जाने के तरीके को कवर करती है।"
 seoTitle: "Winn's Cafe: पेनांग पेरानाकन बिब गुरमों"
 answer: "Winn's Cafe पेनांग के जॉर्ज टाउन का एक पेरानाकन रेस्तराँ है जो MICHELIN Guide Kuala Lumpur & Penang चयन में MICHELIN Bib Gourmand के रूप में सूचीबद्ध है। एक पति-पत्नी इसे एक स्वतंत्र मकान से चलाते हैं, जहाँ पत्नी अपने परिवार की न्योन्या रेसिपी पकाती हैं; MICHELIN इसके otak otak और asam tumis स्टिंगरे को उजागर करता है। यह 38 Jalan Cantonment, जॉर्ज टाउन में है।"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe 是槟城乔治市一家 MICHELIN Bib Gourmand Peranakan（土生华人）餐馆，由一对夫妻在一栋独立式洋房里经营，妻子掌勺娘惹（Nyonya）家族食谱。本篇介绍其 MICHELIN 认可、招牌菜、环境及造访方式。"
 seoTitle: "Winn's Cafe：槟城 Peranakan Bib Gourmand"
 answer: "Winn's Cafe 是槟城乔治市一家 Peranakan 餐馆，在 MICHELIN Guide Kuala Lumpur & Penang 评选中列为 MICHELIN Bib Gourmand。一对夫妻在一栋独立式洋房里经营，妻子掌勺娘惹家族食谱；MICHELIN 点名其 otak otak 与 asam tumis 魔鬼鱼。地址为 38 Jalan Cantonment，乔治市。"

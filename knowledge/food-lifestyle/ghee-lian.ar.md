@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Ghee Lian كشك طعام شارع حائز على MICHELIN Bib Gourmand في جورج تاون، بينانغ، في ساحة طعام Medan Renong، يشتهر بطبق نودلز green tom yum غير المألوف إلى جانب حساء نودلز ونودلز مقلية. يغطي هذا الملف تقدير MICHELIN وطبقه المميّز وموقعه وكيفية زيارته."
 seoTitle: "Ghee Lian: طعام شارع بيب غورماند في بينانغ"
 answer: "‏Ghee Lian كشك طعام شارع في بينانغ مُدرج بوصفه MICHELIN Bib Gourmand ضمن اختيار MICHELIN Guide Kuala Lumpur & Penang. تخصّصه طبق نودلز green tom yum غير المألوف — الذي يثني عليه MICHELIN لتوازنه بين الحموضة والحرارة — ويُقدَّم إلى جانب حساء نودلز ونودلز مقلية. يقع في ساحة طعام Medan Renong، Jalan Tun Syed Sheh Barakhbah، جورج تاون."

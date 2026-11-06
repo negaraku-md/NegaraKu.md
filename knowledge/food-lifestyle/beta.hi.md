@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide इसके व्यंजन को मलेशियाई और समकालीन के रूप में वर्गीकृत करती है, जो 'Tour of Malaysia' मेन्यू के रूप में प्रस्तुत किया जाता है।"
   - "MICHELIN वर्णन करती है कि शेफ आधुनिक तकनीकों और सावधानीपूर्ण प्लेटिंग के साथ स्थानीय पसंदीदा व्यंजनों को एक 'नाट्यात्मक' भोजन-कक्ष में नए रूप में ढालते हैं।"
   - "MICHELIN द्वारा उल्लिखित एक विशिष्ट ऐड-ऑन abalone Lawas rice है——अबालोन से सजा सरवाक का पैतृक चावल।"
-  - "रेस्तराँ Jalan Perak, कुआलालंपुर में है, $$$ मूल्य श्रेणी में सूचीबद्ध; गाइड इसे डेट नाइट के लिए उपयुक्त बताती है।"
+  - "रेस्तराँ Jalan Perak, कुआलालंपुर में है, $$ मूल्य श्रेणी में सूचीबद्ध; गाइड इसे डेट नाइट के लिए उपयुक्त बताती है।"
 appliesTo: "कुआलालंपुर में MICHELIN द्वारा मान्यता प्राप्त मलेशियाई फाइन डाइनिंग पर शोध कर रहे यात्री, भोजन-प्रेमी और भोजनार्थी।"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

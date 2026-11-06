@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe は、ペナン州ジョージタウンにある MICHELIN Bib Gourmand のコーヒーショップ（コピティアム）で、Penang Hokkien mee やニンニクで炒めた char kway teow など、ハラールのマレーシア華人の屋台料理を提供する。1992年に露店として始まり、いまは家族経営で営まれている。本プロフィールでは、MICHELIN の評価、看板料理、場所、訪問方法を紹介する。"
 seoTitle: "Bee Hwa Cafe：ペナンのビブグルマン"
 answer: "Bee Hwa Cafe はジョージタウンのコーヒーショップで、MICHELIN Guide Kuala Lumpur & Penang のセレクションで MICHELIN Bib Gourmand に選ばれている。ハラールのマレーシア華人の屋台料理を——豚肉の代わりに鶏肉とシーフードを使って——提供し、調査員は Penang Hokkien mee と、ラードではなくみじん切りのニンニクで炒める char kway teow を挙げている。場所は 10 Lebuh Dickens、ジョージタウンで、1992年に露店として始まった。"

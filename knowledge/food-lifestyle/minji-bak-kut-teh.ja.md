@@ -15,13 +15,13 @@ sourceContentHash: "261d47b46044a79a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "1940 年代に屋台として始まり、いまは三代目のオーナーが、使い込まれた歴史ある店内で営んでいます。"
   - "その bak kut teh のレシピは 80 年間変わっておらず、薬膳の香りと自然な甘みのあるスープを生むと MICHELIN Guide は述べています。"
   - "客は豚の部位——スペアリブ、バラ、ホルモン、またはその組み合わせ——を選び、ガイドは肉をニンニクと唐辛子入りの醤油につけることを勧めています。"
-  - "店は 7-6 Jalan Sungai Besi, Pudu にあり、$$ の価格帯で、ガイドは「Worth Queueing For」と記しています。"
+  - "店は 7-6 Jalan Sungai Besi, Pudu にあり、$ の価格帯で、ガイドは「Worth Queueing For」と記しています。"
 faq:
   - q: "bak kut teh とは何ですか、Minji のものはどんな味ですか？"
     a: "bak kut teh は薬膳や香辛料で煮込んだマレーシアの豚スペアリブのスープです。MICHELIN Guide は Minji のものを、薬膳の香りと自然な甘みがあり、80 年間変わらないレシピで作られると評しています。豚の部位——スペアリブ、バラ、ホルモン、またはその組み合わせ——を選び、ガイドは肉をニンニクと唐辛子入りの醤油につけることを勧めています。"
   - q: "Minji はどれくらいの歴史がありますか？"
     a: "MICHELIN Guide は、1940 年代に屋台として始まり、いまは三代目のオーナーが営んでいると述べ、通り過ぎてきた幾世代もの客を映す、使い込まれた歴史ある内装を伝えています。"
   - q: "Minji はどこにあり、待つことを覚悟すべきですか？"
-    a: "店は 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100 にあり、$$ の価格帯です。MICHELIN Guide は「Worth Queueing For」と記しているので、混雑時には行列を見込んでください。予約はレストランが直接扱い、クレジットカードは使えません。"
+    a: "店は 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100 にあり、$ の価格帯です。MICHELIN Guide は「Worth Queueing For」と記しているので、混雑時には行列を見込んでください。予約はレストランが直接扱い、クレジットカードは使えません。"
 
 updated: 2026-11-06
 sources:

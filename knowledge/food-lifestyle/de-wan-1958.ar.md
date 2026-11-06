@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 مطعم ماليزي يقع في The LINC KL في Taman U Thant بكوالالمبور، يرتبط بالطاهي المشهور Chef Wan، وقد نال تقدير دليل MICHELIN Guide بجائزة Bib Gourmand. يصف دليل MICHELIN Guide نكهاتٍ استوائيةً جريئة وأطباقًا مثل سلطة الپوميلو مع خدود الروبيان المقرمشة وشواء bakar bakar."
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 مطعم ماليزي يقع في The LINC KL في Taman U Thant بكوالالمبور، يرتبط بالطاهي المشهور المعروف باسم Chef Wan. يحمل المطعم جائزة MICHELIN Bib Gourmand — وهي الجائزة التي يمنحها الدليل للجودة الطيبة بسعرٍ مجزٍ، وليست نجمة. يصف دليل MICHELIN Guide قاعةً مشرقةً نابضةً بالحياة ونكهاتٍ استوائيةً جريئة، ويوصي بسلطة الپوميلو مع خدود الروبيان المقرمشة وبطبق bakar bakar (لحم أو مأكولات بحرية مشوية تُقدَّم مع صلصات من إعداد المطعم)."
@@ -22,7 +21,7 @@ keyTakeaways:
   - "يرتبط المطعم بالطاهي الماليزي المشهور المعروف باسم Chef Wan، ويقدّم مطبخًا ماليزيًا بنكهاتٍ استوائيةٍ جريئة."
   - "يوصي دليل MICHELIN Guide بالبدء بسلطة الپوميلو مع خدود الروبيان المقرمشة في صلصة kerabu بالليمون."
   - "طبقه المميّز الآخر هو bakar bakar — لحم أو مأكولات بحرية مشوية تُقدَّم مع تشكيلةٍ من الصلصات المُعدّة في المطعم — بحصصٍ سخيّةٍ مناسبةٍ للمشاركة."
-  - "يقع في The LINC KL في Taman U Thant ضمن فئة السعر $$؛ ويُراجَع اختيار Bib Gourmand كل عام."
+  - "يقع في The LINC KL في Taman U Thant ضمن فئة السعر $؛ ويُراجَع اختيار Bib Gourmand كل عام."
 faq:
   - q: "بمن يرتبط De. Wan 1958؟"
     a: "يرتبط المطعم بالطاهي الماليزي المشهور المعروف على نطاقٍ واسع باسم Chef Wan. ووفق روايات منشورة على نطاقٍ واسع، يشير الرقم «1958» في الاسم إلى سنة ميلاد الطاهي، غير أنه ينبغي التحقق من هذه التفصيلة بالرجوع إلى مصدرٍ سِيَري."

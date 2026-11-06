@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng là một quầy ẩm thực đường phố đạt MICHELIN Bib Gourmand trong Cecil Street Market (Pasar Lebuh Cecil) ở George Town, Penang, nổi tiếng với koay teow th'ng vịt: mì gạo bản dẹt trong nước dùng vịt-heo đậm đà được ninh chậm hàng giờ. Do Lau Lum Lai sáng lập cuối thập niên 1970, nay do con trai và con dâu ông điều hành."
 seoTitle: "Lum Lai Vịt Koay Teow Thng: Bib Gourmand Penang"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng là một quầy ẩm thực đường phố Bib Gourmand tại Cecil Street Market (Pasar Lebuh Cecil), George Town, Penang. Món đặc trưng là koay teow th'ng vịt: mì gạo bản dẹt trong nước dùng trong, giàu vị umami nấu từ vịt, heo và chả cá, hoàn thiện bằng tỏi phi và hẹ tây. Gia đình đã nấu theo cùng một cách hơn 40 năm, và xếp hàng là chuyện thường vào giờ cao điểm."

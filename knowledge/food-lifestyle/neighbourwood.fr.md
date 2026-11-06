@@ -9,7 +9,7 @@ lang: "fr"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood est un restaurant MICHELIN Bib Gourmand à Bukit Mertajam, Seberang Perai — la moitié continentale de l'État de Penang. Adresse de quartier décontractée ouverte par un résident du voisinage, il sert une cuisine européenne contemporaine aux influences asiatiques ainsi que des plats grillés, avec une carte qui change toutes les six semaines et un pain au levain maison parmi ses spécialités."
-answer: "Neighbourwood est un restaurant MICHELIN Bib Gourmand au 3427 Jalan Kulim, Bukit Mertajam, à Seberang Perai — la partie continentale de l'État de Penang. Il sert une cuisine européenne contemporaine aux influences asiatiques aux côtés de plats grillés, avec une carte qui change toutes les six semaines et une poignée de spécialités qui demeurent. Le pain au levain maison, doré et friable, et un large choix de desserts en sont les temps forts. MICHELIN le situe dans la fourchette $$."
+answer: "Neighbourwood est un restaurant MICHELIN Bib Gourmand au 3427 Jalan Kulim, Bukit Mertajam, à Seberang Perai — la partie continentale de l'État de Penang. Il sert une cuisine européenne contemporaine aux influences asiatiques aux côtés de plats grillés, avec une carte qui change toutes les six semaines et une poignée de spécialités qui demeurent. Le pain au levain maison, doré et friable, et un large choix de desserts en sont les temps forts. MICHELIN le situe dans la fourchette $."
 keyTakeaways:
   - "Neighbourwood détient un MICHELIN Bib Gourmand pour une cuisine de bonne qualité à bon rapport qualité-prix."
-  - "Il sert une cuisine European Contemporary (européenne contemporaine) aux influences asiatiques ainsi que des plats grillés, dans la fourchette de prix MICHELIN $$."
+  - "Il sert une cuisine European Contemporary (européenne contemporaine) aux influences asiatiques ainsi que des plats grillés, dans la fourchette de prix MICHELIN $."
   - "La carte change environ toutes les six semaines, avec quelques spécialités à partager qui demeurent."
   - "Le pain au levain maison en plusieurs parfums et un choix de plus de dix desserts sont les plats marquants."
   - "Il se trouve au 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) — sur la partie continentale de Penang, et non sur l'île de George Town."

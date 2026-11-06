@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide 将其料理归类为马来西亚与当代，以时令套餐形式供应。"
   - "MICHELIN 描述主厨以日本、法国与马来西亚的影响重新演绎欧洲食谱，汲取其在日本与法国度过的时光。"
   - "餐厅位于吉隆坡 Taman Tun Dr Ismail（TTDI），拥有一间雅致的餐室与开放式厨房。"
-  - "MICHELIN Guide 将其列入 $$$ 价位档，并标示适合独自用餐。"
+  - "MICHELIN Guide 将其列入 $$ 价位档，并标示适合独自用餐。"
 appliesTo: "正在研究吉隆坡获 MICHELIN 认可之马来西亚 fine dining 的旅客、美食爱好者与食客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

@@ -9,12 +9,11 @@ contentType: "place"
 lang: "fr"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa est un restaurant peranakan titulaire d'un Bib Gourmand MICHELIN sur Gat Lebuh Chulia, à George Town, Penang. Petite salle de jour aux murs de brique brute et aux plantes en pot, il propose une carte Nyonya concise bâtie autour d'un set combo au nasi lemak de pandan, dans la tranche de prix la plus basse du Guide ($)."
 
 answer: "Rasa Rasa est un restaurant peranakan (Nyonya) au 59 Gat Lebuh Chulia, George Town, Penang. Il détient un Bib Gourmand MICHELIN — la marque du Guide pour une cuisine à bon rapport qualité-prix — et se situe dans la tranche $, la plus basse. MICHELIN décrit une petite salle aux murs de brique brute et aux plantes en pot, et une carte concise dont le point fort est un set combo Nyonya bâti autour du nasi lemak de pandan, avec des plats comme un rouleau de poulet aux cinq épices enveloppé de peau de tofu. Il n'ouvre qu'en journée et ferme le mercredi."

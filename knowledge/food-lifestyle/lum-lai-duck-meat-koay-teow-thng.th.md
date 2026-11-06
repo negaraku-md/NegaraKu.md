@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng เป็นแผงอาหารริมทางระดับ MICHELIN Bib Gourmand ใน Cecil Street Market (Pasar Lebuh Cecil) จอร์จทาวน์ ปีนัง มีชื่อเสียงด้าน koay teow th'ng เป็ด: เส้นก๋วยเตี๋ยวแบนในน้ำซุปเป็ดและหมูเข้มข้นที่เคี่ยวช้าหลายชั่วโมง ก่อตั้งโดย Lau Lum Lai ในปลายทศวรรษ 1970 ปัจจุบันดำเนินการโดยลูกชายและลูกสะใภ้"
 seoTitle: "Lum Lai เป็ด Koay Teow Thng: Bib Gourmand ปีนัง"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng เป็นแผงอาหารริมทางระดับ Bib Gourmand ใน Cecil Street Market (Pasar Lebuh Cecil) จอร์จทาวน์ ปีนัง เมนูเด่นคือ koay teow th'ng เป็ด: เส้นก๋วยเตี๋ยวแบนในน้ำซุปใสรสอูมามิเข้มข้นที่ทำจากเป็ด หมู และลูกชิ้นปลา เสร็จด้วยกระเทียมและหอมแดงเจียว ครอบครัวนี้ทำด้วยวิธีเดียวกันมากว่า 40 ปี และมีคนต่อแถวเป็นปกติในช่วงเวลาเร่งด่วน"

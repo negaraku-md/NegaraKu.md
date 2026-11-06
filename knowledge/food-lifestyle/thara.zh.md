@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara 是槟城乔治市一家荣获 MICHELIN Bib Gourmand 的泰国餐厅，在一个高敞、以绿色调装饰的用餐空间内供应地道的家常泰式料理与新鲜海鲜。它的多款 tom yum 变化与 miang kam 开胃菜是评审特别点名的菜肴，份量十足而价格亲民。"
 seoTitle: "Thara：槟城乔治市泰式 Bib Gourmand"
 answer: "Thara 是一家位于槟城乔治市 5 Lorong Prangin 的泰国餐厅，凭借物有所值的好料理荣获 MICHELIN Bib Gourmand。主厨拥有超过 15 年烹制自己家乡地道菜肴的经验，专注于新鲜海鲜。MICHELIN 评审特别推崇餐厅多款 tom yum 汤的变化以及 miang kam 开胃菜。"
@@ -25,7 +24,7 @@ keyTakeaways:
   - "它位于乔治市的 5 Lorong Prangin，以亲民的价格提供十足的份量。"
 faq:
   - q: "Thara 在哪里？供应什么料理？"
-    a: "Thara 位于槟城乔治市 10100 的 5 Lorong Prangin。它供应地道的泰式料理，着重新鲜海鲜，并被 MICHELIN Guide 列为中等（$$）价位。"
+    a: "Thara 位于槟城乔治市 10100 的 5 Lorong Prangin。它供应地道的泰式料理，着重新鲜海鲜，并被 MICHELIN Guide 列为中等（$）价位。"
   - q: "在 Thara 该点什么？"
     a: "MICHELIN Guide 指向餐厅以不同海鲜制作的多款 tom yum 汤变化，并把以新鲜蒌叶和甜味 miang kam 酱制作的 miang kam 开胃菜列为必试之选。"
   - q: "Thara 有 MICHELIN 星吗？"

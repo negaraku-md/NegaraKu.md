@@ -14,13 +14,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,14 +33,14 @@ keyTakeaways:
   - "A Vietnamese kitchen team cooks dishes from across Vietnam, with the MICHELIN Guide noting some strong French influences."
   - "Its signature phở bò (beef noodle soup) is built on a broth that simmers for over 10 hours."
   - "The mangosteen-and-prawn salad is a highlight, praised by the guide for big flavours and contrasting textures."
-  - "It is at 25 Tengkat Tong Shin, Bukit Bintang, in the $$ price band, and is flagged as family-friendly."
+  - "It is at 25 Tengkat Tong Shin, Bukit Bintang, in the $ price band, and is flagged as family-friendly."
 faq:
   - q: "What are the must-try dishes at Sao Nam?"
     a: "The MICHELIN Guide highlights two. The phở bò (beef noodle soup) is the iconic order, with a broth that takes over 10 hours to prepare. The mangosteen-and-prawn salad is the other standout, described as tantalising the taste buds with big flavours and contrasting textures."
   - q: "Does Sao Nam have a MICHELIN Star?"
     a: "No. Sao Nam holds a Bib Gourmand, a separate MICHELIN distinction for good quality cooking at good value. It is not a Star; the two awards are given independently."
   - q: "Where is Sao Nam and is it suitable for families?"
-    a: "It is at 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, with a yellow façade and a colourful interior. The MICHELIN Guide tags it as family-friendly and places it in the $$ price band."
+    a: "It is at 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, with a yellow façade and a colourful interior. The MICHELIN Guide tags it as family-friendly and places it in the $ price band."
 
 updated: 2026-11-06
 sources:

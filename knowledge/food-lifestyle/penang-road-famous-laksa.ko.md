@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "5c3beb8e17ed3d1c"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Penang Road Famous Laksa는 페낭 George Town의 국수 가게로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있으며 assam(신맛) laksa로 유명하다. 1970년부터 가족 비법으로 운영하며, 세 가지 생선으로 낸 육수에 lai fun 국수를 담아 매운맛·단맛·신맛을 조화시키고, 뼈를 발라낸 정어리 살을 추가할 수 있다. 긴 줄로 유명한 George Town의 명소다."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa는 페낭 George Town의 Lebuh Keng Kwee에 있는 Bib Gourmand 국수 가게다. 1970년부터 가족 비법으로 운영하며 대표 신맛 laksa를 낸다. 세 가지 생선으로 낸 육수에 lai fun 국수를 담아 매운맛·단맛·신맛을 조화시키고, 뼈를 발라낸 정어리 살을 추가할 수 있다. George Town에서 가장 유명한 길거리 음식 줄 중 하나다."

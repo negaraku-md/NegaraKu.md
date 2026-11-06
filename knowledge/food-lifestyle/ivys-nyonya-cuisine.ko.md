@@ -9,17 +9,16 @@ contentType: "place"
 lang: "ko"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine은 페낭 George Town의 MICHELIN Bib Gourmand 프라나칸 식당으로, 부부가 15년 넘게 운영해 왔다——Ivy는 주방에, 남편은 홀에 선다. Guide는 이곳을 프라나칸($)으로 등재하고, Kapitan chicken curry와 Joo Hoo Char 같은 가장 잘 나가는 뇨냐 요리를 담은 나눔 세트 메뉴를 가리킨다."
 
-summary: "Ivy's Nyonya Cuisine은 페낭 George Town의 MICHELIN Bib Gourmand 프라나칸 식당으로, 부부가 15년 넘게 운영해 왔다——Ivy는 주방에, 남편은 홀에 선다. Guide는 이곳을 프라나칸($$)으로 등재하고, Kapitan chicken curry와 Joo Hoo Char 같은 가장 잘 나가는 뇨냐 요리를 담은 나눔 세트 메뉴를 가리킨다."
-
-answer: "Ivy's Nyonya Cuisine은 페낭 George Town의 100-104 Jalan Kedah에 있는 프라나칸 식당으로, 가성비 좋은 요리에 대해 MICHELIN Bib Gourmand를 보유한다. MICHELIN Guide는 이곳을 $$ 가격대의 프라나칸으로 등재하고, 부부가 15년 넘게 운영하며 Ivy가 주방에, 남편이 홀에 선다고 적는다. 가장 잘 나가는 요리를 모은 나눔 세트 메뉴를 내며, 여기에는 Kapitan chicken curry와, 고추 페이스트에 볶은 모둠 채소 볶음 Joo Hoo Char이 있다."
+answer: "Ivy's Nyonya Cuisine은 페낭 George Town의 100-104 Jalan Kedah에 있는 프라나칸 식당으로, 가성비 좋은 요리에 대해 MICHELIN Bib Gourmand를 보유한다. MICHELIN Guide는 이곳을 $ 가격대의 프라나칸으로 등재하고, 부부가 15년 넘게 운영하며 Ivy가 주방에, 남편이 홀에 선다고 적는다. 가장 잘 나가는 요리를 모은 나눔 세트 메뉴를 내며, 여기에는 Kapitan chicken curry와, 고추 페이스트에 볶은 모둠 채소 볶음 Joo Hoo Char이 있다."
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine은 페낭 George Town의 MICHELIN Bib Gourmand 프라나칸 식당으로, $$ 가격대에 있다."
+  - "Ivy's Nyonya Cuisine은 페낭 George Town의 MICHELIN Bib Gourmand 프라나칸 식당으로, $ 가격대에 있다."
   - "부부가 15년 넘게 운영해 왔다——Ivy가 주방을 이끌고, 남편이 홀을 맡는다."
   - "MICHELIN은 Kapitan chicken curry와 Joo Hoo Char(고추 페이스트에 볶은 매콤한 모둠 채소 볶음)을 꼽는다."
   - "Guide는 식당의 가장 잘 나가는 뇨냐 요리를 중심으로 구성한 나눔 세트 메뉴를 추천한다."

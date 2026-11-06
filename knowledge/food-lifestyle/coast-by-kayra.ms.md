@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra ialah sebuah restoran India di The Starhill di Bukit Bintang, Kuala Lumpur, disenaraikan dalam MICHELIN Guide dengan Bib Gourmand bagi makanan yang baik pada harga berbaloi. Restoran adik-beradik kepada Kayra, ia mengekalkan falsafah 'laut ke pinggan', mengolah semula hidangan Kerala tradisional dengan makanan laut dan hasil tempatan. Hidangan istimewanya ialah kari ikan Kerala berdasarkan resipi keluarga, ditajamkan dengan mangga muda dan yogurt. Ia berada pada tingkat harga $$ dan mesra keluarga."
+answer: "Coast by Kayra ialah sebuah restoran India di The Starhill di Bukit Bintang, Kuala Lumpur, disenaraikan dalam MICHELIN Guide dengan Bib Gourmand bagi makanan yang baik pada harga berbaloi. Restoran adik-beradik kepada Kayra, ia mengekalkan falsafah 'laut ke pinggan', mengolah semula hidangan Kerala tradisional dengan makanan laut dan hasil tempatan. Hidangan istimewanya ialah kari ikan Kerala berdasarkan resipi keluarga, ditajamkan dengan mangga muda dan yogurt. Ia berada pada tingkat harga $ dan mesra keluarga."
 keyTakeaways:
   - "Coast by Kayra memegang Bib Gourmand MICHELIN Guide — anugerah bagi kualiti yang baik pada harga berbaloi — di Kuala Lumpur."
   - "Ia merupakan restoran adik-beradik kepada Kayra dan mengamalkan falsafah 'laut ke pinggan', mengolah semula hidangan Kerala tradisional."
   - "Hidangan istimewanya ialah kari ikan Kerala berdasarkan resipi keluarga, diberi rasa masam dengan mangga muda dan yogurt."
   - "Makanan laut dan hasil diperoleh secara tempatan untuk menyokong ladang kecil dan nelayan."
-  - "Ia terletak di The Starhill di Jalan Bukit Bintang, pada tingkat harga $$, dengan hiasan bertemakan lautan berwarna firus."
+  - "Ia terletak di The Starhill di Jalan Bukit Bintang, pada tingkat harga $, dengan hiasan bertemakan lautan berwarna firus."
 appliesTo: "Pelancong dan pengunjung yang mencari masakan makanan laut Kerala dan India Selatan yang berpatutan dan diiktiraf MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

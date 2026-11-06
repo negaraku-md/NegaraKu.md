@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba مطعم بيرانكان (Peranakan) في Brickfields بكوالالمبور، نال تقدير دليل MICHELIN Guide بشارة Bib Gourmand عن مأكولات بقيمة جيدة مقابل السعر. يعمل منذ عام 2018، ويقدّم مطبخ بيرانكان الجنوبي الذي يمزج نكهات إندو-مالاي (Indo-Malay) بتأثيرات صينية؛ وطبقه المميّز هو nasi lemak مع ayam goreng kunyit."
 seoTitle: "Anak Baba"
 answer: "Anak Baba مطعم بيرانكان في Brickfields بكوالالمبور، يحمل شارة MICHELIN Bib Gourmand — وهي جائزة الدليل للجودة الجيدة بسعر مناسب، وليست نجمة. يعمل منذ عام 2018، ويقدّم مطبخ بيرانكان الجنوبي الذي يمزج نكهات إندو-مالاي بتأثيرات صينية، ويُبرز دليل MICHELIN Guide طبق nasi lemak مع ayam goreng kunyit (دجاج مقلي بالكركم). ويقع في أدنى فئة سعرية ($) في الدليل."

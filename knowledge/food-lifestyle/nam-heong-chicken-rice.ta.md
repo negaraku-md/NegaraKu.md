@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) என்பது கோலாலம்பூரின் பழைய நகரப் பகுதியில் Jalan Sultan-இல் உள்ள நீண்டகால ஹைனான் கோழிச் சோறு கடை; 1938 முதல் இயங்கிவருகிறது, MICHELIN Guide-இன் Bib Gourmand-ஐப் பெற்றுள்ளது. வாடிக்கையாளர்கள் ஒல்லியான 'காய்கறிப் பண்ணை' கோழிக்கும் கொழுப்பான நாட்டுக்கோழிக்கும் இடையே தேர்வு செய்கிறார்கள்; வறுத்த பன்றி மார்புக்கறியும் Ipoh bean sprouts-ம் பிரபலமான பக்க உணவுகள். இந்தப் பதிவு அதன் உணவு, சூழல் மற்றும் எப்படிச் செல்வது என்பதை உள்ளடக்குகிறது."
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice (City Centre) என்பது கோலாலம்பூரின் Jalan Sultan-இல் உள்ள ஒரு ஹைனான் கோழிச் சோறு கடை; 1938 முதல் இயங்கிவருகிறது, பணத்திற்கு ஏற்ற சமையலுக்காக MICHELIN Guide-இன் Bib Gourmand-ஆல் அங்கீகரிக்கப்பட்டுள்ளது. இரண்டு வகைக் கோழிகளை வழங்குகிறது — ஒல்லியான 'காய்கறிப் பண்ணை' கோழி மற்றும் கொழுப்பான நாட்டுக்கோழி — அத்துடன் நன்கு விற்பனையாகும் வறுத்த பன்றி மார்புக்கறி மற்றும் மொறுமொறுப்பான Ipoh bean sprouts. இது பழைய நகரத்தில் எளிமையான, மலிவான $ இடம்; தினமும் திறந்திருக்கும், தனது முன்பதிவுகளைத் தானே நிர்வகிக்கிறது."

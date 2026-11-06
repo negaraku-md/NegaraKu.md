@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "11e34aa70bab1b92"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's はクアラルンプールの Taman Tun Dr Ismail にある中東料理レストランで、コストパフォーマンスの高い料理に対して MICHELIN Guide の Bib Gourmand を獲得しています。家庭料理の宅配から始めたシリア人シェフが開いた店で、焦がしチリオイルを効かせた smoked hummus と、ラム肉の kebab khashkhash で知られています。本稿では、その料理、空間、そして訪れ方を紹介します。"
 seoTitle: "Leen's、クアラルンプール"
-answer: "Leen's はクアラルンプールの Taman Tun Dr Ismail（TTDI）にある中東料理レストランで、コストパフォーマンスの高い料理に対する MICHELIN Guide の印である Bib Gourmand を獲得しています。家庭料理の宅配から始めたシリア人シェフが開いた店で、焦がしチリオイルを効かせた smoked hummus と、スパイシーなケシの実ソースで供されるラム肉の串 kebab khashkhash で知られています。価格帯は $$ で、予約は店が直接受け付けています。"
+answer: "Leen's はクアラルンプールの Taman Tun Dr Ismail（TTDI）にある中東料理レストランで、コストパフォーマンスの高い料理に対する MICHELIN Guide の印である Bib Gourmand を獲得しています。家庭料理の宅配から始めたシリア人シェフが開いた店で、焦がしチリオイルを効かせた smoked hummus と、スパイシーなケシの実ソースで供されるラム肉の串 kebab khashkhash で知られています。価格帯は $ で、予約は店が直接受け付けています。"
 appliesTo: "評判がよくコストパフォーマンスの高い中東料理レストランを探す旅行者やクアラルンプールの食通、そしてマレーシアの MICHELIN Guide 選出を追う読者に向けた記事です。"
 keyTakeaways:
   - "Leen's はクアラルンプールの Taman Tun Dr Ismail にある MICHELIN Guide Bib Gourmand のレストラン——質が高くコストパフォーマンスのよい料理に対するこのガイドの評価——です。"
   - "料理は中東料理で、家庭料理の宅配から始め、その後に実店舗を開いたシリア人シェフによって開かれました。"
   - "MICHELIN は、焦がしチリオイルを効かせた smoked hummus（ほどよい辛さで非常にスモーキー）と、鋭くスパイシーなケシの実ソースのラム肉の串 kebab khashkhash を取り上げています。"
-  - "$$ のレストランで、グループでの食事に向いており、焼きたてのパンの香りが空間に満ちています。"
+  - "$ のレストランで、グループでの食事に向いており、焼きたてのパンの香りが空間に満ちています。"
   - "予約は店が直接受け付けているため、直接連絡してください。所在地は 1F, 136A Jalan Burhanuddin Helmi, TTDI です。"
 faq:
   - q: "Leen's はどこにあり、どんな料理を出しますか？"

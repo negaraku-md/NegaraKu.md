@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "一支越南厨师团队烹制来自越南各地的菜肴，MICHELIN Guide 指出带有一些浓厚的法国影响。"
   - "它招牌的 phở bò（牛肉河粉汤）以熬煮超过 10 小时的汤底为基础。"
   - "山竹虾沙拉是一道亮点，指南称赞它风味浓烈、口感对比鲜明。"
-  - "它位于 25 Tengkat Tong Shin, Bukit Bintang，价位属 $$，并被标示为适合家庭。"
+  - "它位于 25 Tengkat Tong Shin, Bukit Bintang，价位属 $，并被标示为适合家庭。"
 faq:
   - q: "在 Sao Nam 有哪些必试菜式？"
     a: "MICHELIN Guide 突出了两道。phở bò（牛肉河粉汤）是标志性的点单，汤底需熬煮超过 10 小时。山竹虾沙拉是另一道出色之作，被形容为以浓烈风味和对比鲜明的口感挑动味蕾。"
   - q: "Sao Nam 拥有 MICHELIN Star 吗？"
     a: "没有。Sao Nam 获的是 Bib Gourmand，这是 MICHELIN 另一项表彰，颁给品质优良、物有所值的烹调。它并非 Star；两项奖项是独立颁发的。"
   - q: "Sao Nam 在哪里，适合家庭吗？"
-    a: "它位于 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200，门面亮黄、内部色彩缤纷。MICHELIN Guide 将它标示为适合家庭，并列为 $$ 价位。"
+    a: "它位于 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200，门面亮黄、内部色彩缤纷。MICHELIN Guide 将它标示为适合家庭，并列为 $ 价位。"
 
 updated: 2026-11-06
 sources:

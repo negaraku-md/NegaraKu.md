@@ -9,7 +9,7 @@ lang: "id"
 sourceContentHash: "2351caf0c9f02733"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Laksalicious adalah rumah makan MICHELIN Bib Gourmand di Jalan Hutton, George Town, Penang, tempat laksa menjadi bintang utama. Kedai kecil yang penuh karakter ini menawarkan pilihan antara Nyonya asam laksa dengan kaldu ikan yang asam dan pedas serta Nyonya laksa lemak dengan kaldu santan yang kaya dan lembut, berdampingan dengan hidangan seperti perkedel udang, nasi ulam, dan gula melaka cendol."
 answer: "Laksalicious adalah restoran MICHELIN Bib Gourmand di 117-117A Jalan Hutton, George Town, Penang, tempat laksa menjadi sorotan. Ia menyajikan dua gaya — Nyonya asam laksa dengan kaldu ikan yang asam dan pedas serta Nyonya laksa lemak dengan kaldu santan yang kaya dan lembut — plus pendamping termasuk perkedel udang renyah, nasi ulam, dan gula melaka cendol. MICHELIN mematoknya pada kisaran $ dan menggolongkan masakannya sebagai Malaysian."

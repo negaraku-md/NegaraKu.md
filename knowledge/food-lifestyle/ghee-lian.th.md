@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian เป็นแผงอาหารริมทางระดับ MICHELIN Bib Gourmand ในจอร์จทาวน์ ปีนัง ที่ศูนย์อาหาร Medan Renong ขึ้นชื่อเรื่องเมนูก๋วยเตี๋ยว green tom yum ที่แปลกไม่เหมือนใคร เคียงข้างก๋วยเตี๋ยวน้ำและก๋วยเตี๋ยวผัด โปรไฟล์นี้ครอบคลุมการได้รับการยอมรับจาก MICHELIN เมนูเด่น ที่ตั้ง และวิธีไปเยือน"
 seoTitle: "Ghee Lian: อาหารริมทางบิบ กูร์มองด์ แห่งปีนัง"
 answer: "Ghee Lian เป็นแผงอาหารริมทางในปีนังที่ได้รับการจัดอันดับเป็น MICHELIN Bib Gourmand ในการคัดเลือกของ MICHELIN Guide Kuala Lumpur & Penang เมนูเด่นคือก๋วยเตี๋ยว green tom yum ที่แปลกไม่เหมือนใคร — ซึ่ง MICHELIN ชมเรื่องความสมดุลของรสเปรี้ยวและเผ็ด — เสิร์ฟคู่กับก๋วยเตี๋ยวน้ำและก๋วยเตี๋ยวผัด ตั้งอยู่ที่ศูนย์อาหาร Medan Renong, Jalan Tun Syed Sheh Barakhbah จอร์จทาวน์"

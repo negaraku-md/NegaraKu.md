@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 adalah restoran Malaysia di The LINC KL di Taman U Thant, Kuala Lumpur, yang dikaitkan dengan koki selebritas Chef Wan dan diakui oleh MICHELIN Guide dengan Bib Gourmand. MICHELIN Guide menggambarkan cita rasa tropis yang berani serta hidangan seperti salad pomelo dengan pipi udang renyah dan barbeku bakar bakar."
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 adalah restoran Malaysia di The LINC KL di Taman U Thant, Kuala Lumpur, yang dikaitkan dengan koki selebritas yang dikenal sebagai Chef Wan. Restoran ini memegang MICHELIN Bib Gourmand — penghargaan Guide untuk kualitas baik dengan nilai baik, bukan bintang. MICHELIN Guide menggambarkan ruang yang terang dan semarak serta cita rasa tropis yang berani, dengan merekomendasikan salad pomelo berisi pipi udang renyah dan bakar bakar (daging atau makanan laut panggang yang disajikan dengan saus buatan sendiri)."
@@ -22,7 +21,7 @@ keyTakeaways:
   - "Restoran ini dikaitkan dengan koki selebritas Malaysia yang dikenal sebagai Chef Wan dan menyajikan masakan Malaysia dengan cita rasa tropis yang berani."
   - "MICHELIN Guide merekomendasikan untuk memulai dengan salad pomelo berisi pipi udang renyah dalam saus kerabu limau."
   - "Hidangan unggulannya yang lain adalah bakar bakar — daging atau makanan laut panggang yang disajikan dengan pilihan saus buatan sendiri — dengan porsi melimpah yang cocok untuk berbagi."
-  - "Restoran ini berada di The LINC KL di Taman U Thant, dalam kisaran harga $$; seleksi Bib Gourmand ditinjau setiap tahun."
+  - "Restoran ini berada di The LINC KL di Taman U Thant, dalam kisaran harga $; seleksi Bib Gourmand ditinjau setiap tahun."
 faq:
   - q: "Dengan siapa De. Wan 1958 dikaitkan?"
     a: "Restoran ini dikaitkan dengan koki selebritas Malaysia yang populer dikenal sebagai Chef Wan. Menurut berbagai laporan yang dipublikasikan secara luas, angka 「1958」 dalam namanya merujuk pada tahun kelahiran sang koki, meski detail ini sebaiknya dikonfirmasi dengan sumber biografi."

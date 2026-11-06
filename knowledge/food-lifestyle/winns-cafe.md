@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe is a MICHELIN Bib Gourmand Peranakan restaurant in George Town, Penang, run by a husband-and-wife team from a detached house, where the wife cooks her family's Nyonya recipes. This profile covers its MICHELIN recognition, signature dishes, setting and how to visit."
 seoTitle: "Winn's Cafe: Penang Peranakan Bib Gourmand"
 answer: "Winn's Cafe is a Peranakan restaurant in George Town, Penang, listed as a MICHELIN Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang selection. A husband-and-wife team runs it from a detached house, with the wife cooking her family's Nyonya recipes; MICHELIN highlights its otak otak and asam tumis stingray. It is at 38 Jalan Cantonment, George Town."

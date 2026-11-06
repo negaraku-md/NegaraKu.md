@@ -18,7 +18,7 @@ keyTakeaways:
   - "Le MICHELIN Guide classe sa cuisine comme française contemporaine, avec des influences globales et des accents malaisiens."
   - "Il figurait parmi les premiers restaurants à recevoir une MICHELIN Star dans le guide malaisien inaugural et l'a conservée depuis, selon les informations secondaires."
   - "Le restaurant se trouve à Taman Tun Dr Ismail (TTDI), Kuala Lumpur, sur trois étages avec bars, salles et un salon privé sur le thème de Louis XIII."
-  - "Le MICHELIN Guide le classe dans la fourchette de prix la plus élevée ($$$$) et mentionne un chariot de fromages français et une carte des vins."
+  - "Le MICHELIN Guide le classe dans la fourchette de prix la plus élevée ($$) et mentionne un chariot de fromages français et une carte des vins."
 appliesTo: "Voyageurs, passionnés de gastronomie et convives qui se renseignent sur la haute cuisine malaisienne reconnue par MICHELIN à Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

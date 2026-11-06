@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "11e34aa70bab1b92"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's 是一家位于吉隆坡 Taman Tun Dr Ismail 的中东餐厅，凭超值烹饪摘得 MICHELIN Guide 的 Bib Gourmand。餐厅由一位以送餐到家起步的叙利亚厨师开设，以淋上烧焦辣椒油的 smoked hummus 和羊肉 kebab khashkhash 闻名。本篇介绍其食物、环境与造访方式。"
 seoTitle: "Leen's，吉隆坡"
-answer: "Leen's 是一家位于吉隆坡 Taman Tun Dr Ismail（TTDI）的中东餐厅，获 MICHELIN Guide 颁予 Bib Gourmand——这是该指南对物有所值的优质烹饪的标志。餐厅由一位最初以送家常菜起步的叙利亚厨师开设，以淋上烧焦辣椒油的 smoked hummus，以及 kebab khashkhash——淋上辛辣罂粟籽酱的羊肉串——闻名。它属于 $$ 价位，并自行处理订位。"
+answer: "Leen's 是一家位于吉隆坡 Taman Tun Dr Ismail（TTDI）的中东餐厅，获 MICHELIN Guide 颁予 Bib Gourmand——这是该指南对物有所值的优质烹饪的标志。餐厅由一位最初以送家常菜起步的叙利亚厨师开设，以淋上烧焦辣椒油的 smoked hummus，以及 kebab khashkhash——淋上辛辣罂粟籽酱的羊肉串——闻名。它属于 $ 价位，并自行处理订位。"
 appliesTo: "寻找口碑好、超值的中东餐厅的旅客与吉隆坡食客，以及关注马来西亚 MICHELIN Guide 精选的读者。"
 keyTakeaways:
   - "Leen's 是一家 MICHELIN Guide Bib Gourmand 餐厅——该指南对优质、超值烹饪的表彰——位于吉隆坡 Taman Tun Dr Ismail。"
   - "其菜系为中东菜，由一位叙利亚厨师开设；他先以送家常菜起步，之后才开设实体店。"
   - "MICHELIN 特别推介淋上烧焦辣椒油的 smoked hummus（微辣且烟熏味十足）以及 kebab khashkhash，即淋上辛辣罂粟籽酱的羊肉串。"
-  - "这是一家 $$ 餐厅，适合多人聚餐，新鲜烘焙食物的香气弥漫整个空间。"
+  - "这是一家 $ 餐厅，适合多人聚餐，新鲜烘焙食物的香气弥漫整个空间。"
   - "餐厅自行处理订位，因此请直接联系；地址为 1F, 136A Jalan Burhanuddin Helmi, TTDI。"
 faq:
   - q: "Leen's 在哪里？供应什么样的食物？"

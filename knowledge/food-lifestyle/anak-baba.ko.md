@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba는 쿠알라룸푸르 Brickfields에 있는 페라나칸(Peranakan) 식당으로, 가성비 좋은 요리로 MICHELIN Guide로부터 Bib Gourmand를 받았습니다. 2018년부터 영업해 왔으며, 인도-말레이(Indo-Malay) 풍미에 중국의 영향을 더한 남부 페라나칸 요리를 선보입니다. 대표 요리는 ayam goreng kunyit를 곁들인 nasi lemak입니다."
 seoTitle: "Anak Baba"
 answer: "Anak Baba는 쿠알라룸푸르 Brickfields에 있는 페라나칸 식당으로, MICHELIN Bib Gourmand——별이 아니라, 좋은 품질을 합리적인 가격에 제공하는 곳에 주는 Guide의 상——를 보유하고 있습니다. 2018년부터 영업해 왔으며, 인도-말레이 풍미에 중국의 영향을 더한 남부 페라나칸 요리를 선보이고, MICHELIN Guide는 ayam goreng kunyit(강황 튀김닭)를 곁들인 nasi lemak을 추천합니다. Guide의 가장 낮은($) 가격대에 속합니다."

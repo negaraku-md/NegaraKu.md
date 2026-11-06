@@ -9,17 +9,16 @@ contentType: "place"
 lang: "ja"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēnは、ペナンのGeorge Town、Lebuh Presgraveにある MICHELIN Bib Gourmandのレストランで、プラナカンとマレーシアの料理を溶け合わせたモダンな品の小さなアラカルトメニューを供する。オープンキッチンと長いカウンターを中心に構えられ、Malaysian（$）として掲載されている。看板は、蒸しパンに挟んだ熟成鴨胸肉だ。"
 
-summary: "Communal Table by Gēnは、ペナンのGeorge Town、Lebuh Presgraveにある MICHELIN Bib Gourmandのレストランで、プラナカンとマレーシアの料理を溶け合わせたモダンな品の小さなアラカルトメニューを供する。オープンキッチンと長いカウンターを中心に構えられ、Malaysian（$$）として掲載されている。看板は、蒸しパンに挟んだ熟成鴨胸肉だ。"
-
-answer: "Communal Table by Gēnは、ペナンのGeorge Town、68 Lebuh Presgraveにあるモダン・マレーシア料理店で、コストパフォーマンスのよい料理に対するMICHELIN Bib Gourmandを保持している。MICHELIN Guideはこれを$$の価格帯のMalaysianとして掲載し、オープンキッチン、長いカウンター、床から天井までの窓を備えたカジュアルな店と描き、地元の食材でプラナカンとマレーシアの料理を溶け合わせた、モダンな品の小さなアラカルトの夕食メニューを供するとする。看板は、蒸しパンに挟んだ熟成鴨胸肉で、皮はぱりっと、「秘密のソース」を添える。"
+answer: "Communal Table by Gēnは、ペナンのGeorge Town、68 Lebuh Presgraveにあるモダン・マレーシア料理店で、コストパフォーマンスのよい料理に対するMICHELIN Bib Gourmandを保持している。MICHELIN Guideはこれを$の価格帯のMalaysianとして掲載し、オープンキッチン、長いカウンター、床から天井までの窓を備えたカジュアルな店と描き、地元の食材でプラナカンとマレーシアの料理を溶け合わせた、モダンな品の小さなアラカルトの夕食メニューを供するとする。看板は、蒸しパンに挟んだ熟成鴨胸肉で、皮はぱりっと、「秘密のソース」を添える。"
 keyTakeaways:
-  - "Communal Table by Gēnは、ペナンのGeorge TownにあるMICHELIN Bib Gourmandのレストランで、$$の価格帯のMalaysianとして掲載されている。"
+  - "Communal Table by Gēnは、ペナンのGeorge TownにあるMICHELIN Bib Gourmandのレストランで、$の価格帯のMalaysianとして掲載されている。"
   - "厨房は、地元の食材でプラナカンとマレーシアの料理を溶け合わせた、モダンな品の小さなアラカルトメニューを供する。"
   - "MICHELINの看板の一押しは、蒸しパンに挟んだ熟成鴨胸肉——ぱりっとした皮と「秘密のソース」。"
   - "店はオープンキッチン、長い共用のカウンターテーブル、床から天井までの窓を中心に構えられている——カウンター・ダイニングの体験だ。"

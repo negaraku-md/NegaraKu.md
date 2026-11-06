@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa, पेनांग के जॉर्ज टाउन में एक MICHELIN Bib Gourmand स्ट्रीट-फूड स्टॉल है, जो इमली और मछली से बना खट्टा-मीठा-तीखा assam laksa परोसता है; यह करीब 50 साल पुराने पारिवारिक नुस्खे पर आधारित है जिसे अब तीसरी पीढ़ी पकाती है। यह प्रोफ़ाइल इसकी MICHELIN मान्यता, खास कटोरा, स्थान और वहाँ जाने के तरीके को कवर करती है।"
 seoTitle: "Wan Dao Tou Assam Laksa: पेनांग बिब गुरमों"
 answer: "Wan Dao Tou Assam Laksa पेनांग का एक स्ट्रीट-फूड स्टॉल है जो MICHELIN Guide Kuala Lumpur & Penang चयन में MICHELIN Bib Gourmand के रूप में सूचीबद्ध है। यह assam laksa परोसता है — इमली से खट्टा किया गया मैकेरल का शोरबा मोटे चावल के नूडल्स पर डालकर, ऊपर खीरा, शैलट और अनानास के साथ — करीब 50 साल पुराने पारिवारिक नुस्खे से, जिसे अब तीसरी पीढ़ी पकाती है। यह 1 Jalan Gottlieb, जॉर्ज टाउन में है।"

@@ -9,18 +9,17 @@ contentType: "place"
 lang: "ko"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana——Sri Nirwana Maju로 널리 알려진 Bangsar Baru의 식당——는 Jalan Telawi에 자리한 MICHELIN Bib Gourmand 바나나 잎밥 명소다. MICHELIN Guide는 이곳을 Indian($)으로 등재하고, 바나나 잎에 담아내는 밥과 커리 세트, 그리고 chicken biryani로 손님을 안내한다."
 
-summary: "Nirwana——Sri Nirwana Maju로 널리 알려진 Bangsar Baru의 식당——는 Jalan Telawi에 자리한 MICHELIN Bib Gourmand 바나나 잎밥 명소다. MICHELIN Guide는 이곳을 Indian($$)으로 등재하고, 바나나 잎에 담아내는 밥과 커리 세트, 그리고 chicken biryani로 손님을 안내한다."
-
-answer: "Nirwana는 쿠알라룸푸르 Bangsar Baru의 43 Jalan Telawi 3에 자리한 오랜 역사의 남인도 식당으로, MICHELIN Guide Kuala Lumpur & Penang에서 MICHELIN Bib Gourmand를 보유하고 있다. Bib Gourmand는 품질 좋고 가성비 좋은 요리를 가리킨다. MICHELIN은 이곳을 $$ 가격대의 Indian으로 분류하고, 밥과 채소 커리로 이루어진 바나나 잎 세트를 추천하며, chicken biryani를 촉촉하고 부드러운 고기로 특별히 꼽는다."
+answer: "Nirwana는 쿠알라룸푸르 Bangsar Baru의 43 Jalan Telawi 3에 자리한 오랜 역사의 남인도 식당으로, MICHELIN Guide Kuala Lumpur & Penang에서 MICHELIN Bib Gourmand를 보유하고 있다. Bib Gourmand는 품질 좋고 가성비 좋은 요리를 가리킨다. MICHELIN은 이곳을 $ 가격대의 Indian으로 분류하고, 밥과 채소 커리로 이루어진 바나나 잎 세트를 추천하며, chicken biryani를 촉촉하고 부드러운 고기로 특별히 꼽는다."
 keyTakeaways:
   - "Nirwana(보통 Sri Nirwana Maju로 간판이 걸린다)는 쿠알라룸푸르 Bangsar Baru의 MICHELIN Bib Gourmand 식당이다."
-  - "MICHELIN Guide는 이곳을 $$ 가격대의 Indian 요리로 분류하고 'Eat like a local' 태그를 붙인다."
+  - "MICHELIN Guide는 이곳을 $ 가격대의 Indian 요리로 분류하고 'Eat like a local' 태그를 붙인다."
   - "MICHELIN은 밥과 채소 커리로 이루어진 바나나 잎 세트 메뉴로 손님을 안내하며, 생선·닭·양고기를 선택해 추가할 수 있다."
   - "chicken biryani는 MICHELIN이 특별히 꼽는 요리로, 촉촉하고 부드러운 고기와 균형 잡힌 풍미로 호평받는다."
   - "43 Jalan Telawi 3, Bangsar Village 옆에 있으며 매일 영업한다. Bib Gourmand는 가성비를 가리키는 것이지 별이 아니다."
@@ -30,7 +29,7 @@ faq:
   - q: "Nirwana는 무엇으로 유명한가요?"
     a: "바나나 잎밥입니다. MICHELIN Guide는 바나나 잎에 담아내는 밥과 채소 커리 세트 메뉴를 추천하며, 생선·닭·양고기 같은 추가 선택이 가능하다고 하고, chicken biryani를 촉촉하고 부드러운 고기와 균형 잡힌 풍미로 특별히 꼽습니다. MICHELIN은 이 요리를 Indian으로 등재합니다."
   - q: "Nirwana에 MICHELIN 별이 있나요?"
-    a: "없습니다. Nirwana가 보유한 것은 MICHELIN Bib Gourmand이지 별이 아닙니다. Bib Gourmand는 품질 좋고 가성비 좋은 요리를 인정하는 별개의 영예로——대개 Guide의 $ 및 $$ 가격대에 해당하며——MICHELIN Star 뒤에 있는 파인다이닝 기준과는 다릅니다."
+    a: "없습니다. Nirwana가 보유한 것은 MICHELIN Bib Gourmand이지 별이 아닙니다. Bib Gourmand는 품질 좋고 가성비 좋은 요리를 인정하는 별개의 영예로——대개 Guide의 $ 및 $ 가격대에 해당하며——MICHELIN Star 뒤에 있는 파인다이닝 기준과는 다릅니다."
   - q: "Nirwana는 어디에 있고 언제 여나요?"
     a: "쿠알라룸푸르 Bangsar Baru의 43 Jalan Telawi 3, 우편번호 59100, Bangsar Village 옆에 있습니다. MICHELIN Guide는 매일 11:30부터 23:00까지 영업한다고 등재합니다. 영업시간은 바뀔 수 있으니 방문 전 식당에 확인하세요. 예약은 식당이 직접 처리합니다."
 

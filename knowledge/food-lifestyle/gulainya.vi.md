@@ -7,21 +7,20 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "508e444c18b01819"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya là một nhà hàng Peranakan ở Bukit Damansara, Kuala Lumpur, được MICHELIN Guide ghi nhận với Bib Gourmand cho ẩm thực đáng đồng tiền. MICHELIN Guide mô tả các món ăn kiểu nhà làm dựa trên công thức gia truyền được chủ quán trau chuốt, với các loại sốt do chính chủ quán làm và món nổi bật là gà rút xương sốt kem húng quế."
 seoTitle: "Gulainya"
-answer: "Gulainya là một nhà hàng Peranakan ở Plaza Damansara, Bukit Damansara, Kuala Lumpur, sở hữu MICHELIN Bib Gourmand — giải thưởng của Guide cho chất lượng tốt với giá hợp lý, không phải sao. MICHELIN Guide mô tả ẩm thực kiểu nhà làm dựa trên công thức gia truyền của chủ quán, được trau chuốt và cập nhật, với các loại sốt do chính chủ quán làm, và nêu bật món gà rút xương sốt kem húng quế. Nhà hàng nằm ở mức giá $$."
+answer: "Gulainya là một nhà hàng Peranakan ở Plaza Damansara, Bukit Damansara, Kuala Lumpur, sở hữu MICHELIN Bib Gourmand — giải thưởng của Guide cho chất lượng tốt với giá hợp lý, không phải sao. MICHELIN Guide mô tả ẩm thực kiểu nhà làm dựa trên công thức gia truyền của chủ quán, được trau chuốt và cập nhật, với các loại sốt do chính chủ quán làm, và nêu bật món gà rút xương sốt kem húng quế. Nhà hàng nằm ở mức giá $."
 appliesTo: "Thực khách, người du lịch ẩm thực và bất kỳ ai muốn tìm một bữa ăn Peranakan đạt MICHELIN Bib Gourmand ở Kuala Lumpur."
 keyTakeaways:
   - "Gulainya giữ MICHELIN Bib Gourmand trong tuyển chọn MICHELIN Guide Kuala Lumpur & Penang hiện hành — giải thưởng 'chất lượng tốt, giá hợp lý' của Guide, không phải sao."
   - "Các bài viết của MICHELIN xếp nhà hàng này vào số những Bib Gourmand mới nhất được bổ sung vào tuyển chọn Malaysia, cùng với Lama ở Kuala Lumpur."
   - "MICHELIN Guide mô tả các món Peranakan kiểu nhà làm dựa trên công thức gia truyền của chủ quán, được trau chuốt và cập nhật, với các loại sốt do chính chủ quán làm."
-  - "Món nổi bật là gà rút xương sốt kem húng quế; nhà hàng nằm ở Plaza Damansara, Bukit Damansara, ở mức giá $$."
+  - "Món nổi bật là gà rút xương sốt kem húng quế; nhà hàng nằm ở Plaza Damansara, Bukit Damansara, ở mức giá $."
   - "Tuyển chọn Bib Gourmand được rà soát hằng năm, và giờ mở cửa, giá cả cùng thực đơn của nhà hàng có thể thay đổi."
 faq:
   - q: "Gulainya phục vụ loại món ăn nào?"
@@ -29,7 +28,7 @@ faq:
   - q: "Gulainya có sao MICHELIN không?"
     a: "Không. Nhà hàng giữ Bib Gourmand, giải thưởng MICHELIN Guide dành cho chất lượng tốt với giá hợp lý, chứ không phải xếp hạng một, hai hay ba sao. Hai điều này là những vinh danh MICHELIN riêng biệt."
   - q: "Gulainya ở đâu?"
-    a: "MICHELIN Guide ghi địa chỉ tại 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, ở mức giá $$. Nhà hàng được ghi chú là đóng cửa vào thứ Hai; hãy xác nhận giờ mở cửa hiện tại trước khi đến."
+    a: "MICHELIN Guide ghi địa chỉ tại 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, ở mức giá $. Nhà hàng được ghi chú là đóng cửa vào thứ Hai; hãy xác nhận giờ mở cửa hiện tại trước khi đến."
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

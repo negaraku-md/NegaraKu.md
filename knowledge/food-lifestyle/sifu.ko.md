@@ -9,7 +9,7 @@ lang: "ko"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu는 페낭 조지타운 Jalan Pintal Tali에 있는 MICHELIN Bib Gourmand 페라나칸(Peranakan) 식당이다. 주방은 수십 년 경력의 70대 가정 요리사가 이끌며, 약 40가지의 메뉴는 전통 뇨냐(Nyonya) 요리의 클래식을 아우른다 — 그중에는 타마린드가 풍부한 새콤달콤한 소스에 버무린 쫄깃한 asam prawn이 있다."
-answer: "Sifu는 페낭 조지타운 154 Jalan Pintal Tali에 있는 MICHELIN Bib Gourmand 페라나칸 식당이다. 주방은 수십 년간 요리해 온 70대 여성이 이끌며, 메뉴는 전통 페라나칸(뇨냐) 요리의 약 40가지 일품(à la carte) 클래식을 제공한다. 대표 메뉴로는 짙고 타마린드가 진한 새콤달콤한 소스에 버무린 쫄깃한 asam prawn과, 마른 오징어·버섯을 넣어 볶은 채 썬 히카마의 mang kuang char가 있다. MICHELIN은 $$ 가격대로 책정한다."
+answer: "Sifu는 페낭 조지타운 154 Jalan Pintal Tali에 있는 MICHELIN Bib Gourmand 페라나칸 식당이다. 주방은 수십 년간 요리해 온 70대 여성이 이끌며, 메뉴는 전통 페라나칸(뇨냐) 요리의 약 40가지 일품(à la carte) 클래식을 제공한다. 대표 메뉴로는 짙고 타마린드가 진한 새콤달콤한 소스에 버무린 쫄깃한 asam prawn과, 마른 오징어·버섯을 넣어 볶은 채 썬 히카마의 mang kuang char가 있다. MICHELIN은 $ 가격대로 책정한다."
 keyTakeaways:
   - "Sifu는 질 좋고 가성비 뛰어난 요리에 대한 MICHELIN Bib Gourmand를 보유하고 있다."
-  - "페낭 조지타운 154 Jalan Pintal Tali에 있는 페라나칸(뇨냐) 식당으로, 가격대는 MICHELIN $$이다."
+  - "페낭 조지타운 154 Jalan Pintal Tali에 있는 페라나칸(뇨냐) 식당으로, 가격대는 MICHELIN $이다."
   - "주방은 수십 년 경력의 70대 가정 요리사가 이끌며, 약 40가지 일품 클래식을 제공한다."
   - "대표 메뉴로는 타마린드가 풍부한 새콤달콤한 소스의 쫄깃한 asam prawn과 mang kuang char(마른 오징어·버섯을 넣은 채 썬 히카마)가 있다."
   - "MICHELIN은 자사 사이트를 통한 예약이 불가하다고 안내하므로, 이를 감안해 계획하라."

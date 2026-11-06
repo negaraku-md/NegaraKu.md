@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "7e28abfc06c880aa"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow는 페낭 본토 쪽 Seberang Perai의 Bukit Mertajam에 있는 국수 노점으로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있다. char koay teow를 오리알과 함께 숯불에서 볶아 뚜렷한 wok hei를 낸다. 살짝 데친 문어 전채가 추천 스타터다. 저녁 장사이며, 20년에 걸쳐 쌓은 단골층을 두고 있다."
 seoTitle: "Ming Qin Charcoal Char Koay Teow, 페낭"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow는 페낭 본토 쪽 Seberang Perai의 Bukit Mertajam에 있는 Bib Gourmand 국수 노점이다. 대표 char koay teow는 오리알과 함께 숯불에서 볶여 강한 wok hei(웍의 연기 어린 숨결)를 띤다. 살짝 데친 문어 전채가 추천 스타터다. 저녁에 영업한다."

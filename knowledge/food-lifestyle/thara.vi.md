@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara là một nhà hàng Thái đạt MICHELIN Bib Gourmand ở George Town, Penang, phục vụ món ăn Thái chính gốc kiểu nhà làm và hải sản tươi trong một phòng ăn cao thoáng, tông màu xanh lá. Các biến tấu tom yum và món khai vị miang kam là những món mà thanh tra đặc biệt nhắc tới, với khẩu phần hào phóng ở mức giá thân thiện."
 seoTitle: "Thara: Bib Gourmand Thái, George Town Penang"
 answer: "Thara là một nhà hàng Thái tại 5 Lorong Prangin ở George Town, Penang, được công nhận bằng MICHELIN Bib Gourmand cho món ăn ngon ở mức giá hợp lý. Bếp trưởng có hơn 15 năm kinh nghiệm nấu các món chính gốc từ quê hương mình, tập trung vào hải sản tươi. Thanh tra MICHELIN làm nổi bật loạt biến tấu súp tom yum và món khai vị miang kam."
@@ -25,7 +24,7 @@ keyTakeaways:
   - "Nhà hàng tọa lạc tại 5 Lorong Prangin ở George Town, phục vụ khẩu phần hào phóng ở mức giá thân thiện."
 faq:
   - q: "Thara ở đâu và phục vụ ẩm thực gì?"
-    a: "Thara ở 5 Lorong Prangin, George Town, 10100, Penang. Nhà hàng phục vụ ẩm thực Thái chính gốc chú trọng hải sản tươi, và được MICHELIN Guide xếp ở mức giá trung bình ($$)."
+    a: "Thara ở 5 Lorong Prangin, George Town, 10100, Penang. Nhà hàng phục vụ ẩm thực Thái chính gốc chú trọng hải sản tươi, và được MICHELIN Guide xếp ở mức giá trung bình ($)."
   - q: "Nên gọi món gì ở Thara?"
     a: "MICHELIN Guide chỉ đến loạt biến tấu súp tom yum của nhà hàng được nấu với các loại hải sản khác nhau, và nêu tên món khai vị miang kam, làm từ lá trầu tươi và sốt miang kam ngọt, là món nhất định phải thử."
   - q: "Thara có sao MICHELIN không?"

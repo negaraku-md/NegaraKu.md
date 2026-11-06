@@ -15,13 +15,13 @@ sourceContentHash: "261d47b46044a79a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Dimulai sebagai gerai kaki lima pada 1940-an dan kini dijalankan oleh pemilik generasi ketiga, dalam ruang yang lusuh dan bersejarah."
   - "MICHELIN Guide menyebut resep bak kut teh-nya tidak berubah selama 80 tahun, menghasilkan kaldu yang herbal dan manis alami."
   - "Pengunjung memilih potongan daging babi — iga, perut, babat, atau campuran — dan panduan menyarankan mencelupkan daging ke dalam kecap asin dengan bawang putih dan cabai."
-  - "Terletak di 7-6 Jalan Sungai Besi, Pudu, pada kisaran harga $$, dan panduan menandainya 'Worth Queueing For'."
+  - "Terletak di 7-6 Jalan Sungai Besi, Pudu, pada kisaran harga $, dan panduan menandainya 'Worth Queueing For'."
 faq:
   - q: "Apa itu bak kut teh, dan bagaimana versi Minji?"
     a: "bak kut teh adalah sup iga babi Malaysia yang direbus dengan herba dan rempah. MICHELIN Guide menggambarkan versi Minji sebagai herbal dan manis alami, dibuat dari resep yang tidak berubah selama 80 tahun. Anda memilih potongan daging babi — iga, perut, babat, atau campuran — dan panduan menyarankan mencelupkan daging ke dalam kecap asin dengan bawang putih dan cabai."
   - q: "Seberapa tua Minji?"
     a: "MICHELIN Guide menyebut ia dimulai sebagai gerai kaki lima pada 1940-an dan kini dijalankan oleh pemilik generasi ketiga, dengan interior yang lusuh dan bersejarah yang mencerminkan generasi pengunjung."
   - q: "Di mana Minji dan apakah saya harus bersiap mengantre?"
-    a: "Terletak di 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, pada kisaran harga $$. MICHELIN Guide menandainya 'Worth Queueing For', jadi harapkan antrean pada waktu sibuk. Pemesanan ditangani langsung oleh restoran dan kartu kredit tidak diterima."
+    a: "Terletak di 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, pada kisaran harga $. MICHELIN Guide menandainya 'Worth Queueing For', jadi harapkan antrean pada waktu sibuk. Pemesanan ditangani langsung oleh restoran dan kartu kredit tidak diterima."
 
 updated: 2026-11-06
 sources:

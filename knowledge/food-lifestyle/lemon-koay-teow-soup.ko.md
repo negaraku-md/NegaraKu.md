@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "371d371355f5bfc2"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Lemon Koay Teow Soup는 페낭 본토 쪽 Seberang Perai의 Butterworth에 있는 길거리 음식 노점으로, MICHELIN Guide의 Bib Gourmand 셀렉션에 올라 있다. koay teow th'ng — 매일 신선하게 끓인 돼지뼈 육수에 넣은 납작한 쌀국수 — 를 손으로 다진 돼지고기 패티와 함께 내며, 맛을 돋우도록 갓 짜낸 레몬즙을 테이블에 둔다. 현지인이 사랑하는 아침 식사다."
 seoTitle: "Lemon Koay Teow Soup, 페낭 (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup는 페낭 본토 쪽 Seberang Perai의 Butterworth에 있는 Bib Gourmand 길거리 음식 노점이다. koay teow soup — 매일 신선하게 끓인 감칠맛 가득한 돼지뼈 육수에 넣은 매끈한 납작 쌀국수 — 를 내며, 손으로 다진 돼지고기 패티로 마무리하고, 맛을 돋우도록 갓 짜낸 레몬즙을 테이블에 둔다. 인기 있는 현지 아침 식사다."

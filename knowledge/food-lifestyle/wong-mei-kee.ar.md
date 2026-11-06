@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee كشك طعام شارع في Pudu بكوالالمبور، حائزٌ على Bib Gourmand من MICHELIN Guide ومشهور بـ siew yok — لحم خنزير مشوي بجلدٍ مقرمش ولحمٍ غضّ. يفتح بضع ساعات فقط وقت الغداء ويحمل وسم 'Worth Queueing For'، ويجذب من يأتون مبكرًا ترقّبًا لدفعة الظهيرة. يتناول هذا الملف لحم الخنزير المشوي، والطابور، وكيفية الزيارة."
 seoTitle: "Wong Mei Kee، كوالالمبور"
 answer: "Wong Mei Kee كشك طعام شارع في Pudu بكوالالمبور، نال تقدير Bib Gourmand من MICHELIN Guide ويشتهر بـ siew yok — لحم خنزير مشوي بجلدٍ مقرمش ولحمٍ غضّ. يفتح بضع ساعات فقط وقت الغداء، ويحمل وسم 'Worth Queueing For'، ويوصي MICHELIN بالوصول مبكرًا وانتظار خروج لحم الخنزير من الفرن عند الظهيرة تمامًا. وهو كشك $ رخيص ويتولى حجوزاته بنفسه."

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Lum Lai Duck Meat Koay Teow Th'ng كشك طعام شوارع حائز على MICHELIN Bib Gourmand داخل Cecil Street Market (Pasar Lebuh Cecil) في جورج تاون، بينانغ، اشتهر بـ koay teow th'ng البطّ: معكرونة أرز مسطّحة في مرق بطّ وخنزير غني يُطهى على نار هادئة لساعات. أسّسه Lau Lum Lai في أواخر سبعينيات القرن الماضي، ويديره الآن ابنه وزوجة ابنه."
 seoTitle: "Lum Lai بطّ Koay Teow Thng: Bib Gourmand بينانغ"
 answer: "‏Lum Lai Duck Meat Koay Teow Th'ng كشك طعام شوارع حائز على Bib Gourmand في Cecil Street Market (Pasar Lebuh Cecil)، جورج تاون، بينانغ. طبقه المميّز هو koay teow th'ng البطّ: معكرونة أرز مسطّحة في مرق صافٍ غني بنكهة الأومامي مصنوع من البطّ والخنزير وكعكة السمك، يُنهى بالثوم والبصل الأحمر المقليّين. طهته العائلة بالطريقة نفسها لأكثر من 40 عامًا، وطوابير الانتظار معتادة في ساعات الذروة."

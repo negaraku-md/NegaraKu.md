@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide mengklasifikasikan masakannya sebagai Inovatif, memadukan pengaruh Prancis, Nordik, dan Asia."
   - "Restoran ini berada di lantai 51 THE FACE Style, dengan pemandangan panoramik cakrawala Kuala Lumpur."
   - "Liputan sekunder mengaitkannya dengan chef Belanda Sidney Schutte, dengan Guillaume Depoortere disebut sebagai kepala chef; restoran ini meraih Star-nya tak lama setelah dibuka."
-  - "MICHELIN Guide mencantumkannya dalam kategori harga tertinggi ($$$$) dan menandainya sebagai cocok untuk kencan malam."
+  - "MICHELIN Guide mencantumkannya dalam kategori harga tertinggi ($$) dan menandainya sebagai cocok untuk kencan malam."
 appliesTo: "Wisatawan, penggemar kuliner, dan pengunjung yang meneliti fine dining Malaysia yang diakui MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

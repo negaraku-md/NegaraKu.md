@@ -14,13 +14,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,14 +33,14 @@ keyTakeaways:
   - "It began as a hawker stall in the 1940s and is now run by third-generation owners, in a worn, historic room."
   - "The MICHELIN Guide says its bak kut teh recipe has not changed in 80 years, producing a broth that is herbal and naturally sweet."
   - "Diners pick their pork cut — ribs, belly, tripe, or a combination — and the guide suggests dipping the meat in soy sauce with garlic and chillies."
-  - "It is at 7-6 Jalan Sungai Besi, Pudu, in the $$ price band, and the guide tags it 'Worth Queueing For.'"
+  - "It is at 7-6 Jalan Sungai Besi, Pudu, in the $ price band, and the guide tags it 'Worth Queueing For.'"
 faq:
   - q: "What is bak kut teh, and what is Minji's version like?"
     a: "Bak kut teh is a Malaysian pork-rib soup simmered with herbs and spices. The MICHELIN Guide describes Minji's as herbal and naturally sweet, made from a recipe that has not changed in 80 years. You choose your cut of pork — ribs, belly, tripe or a combination — and the guide suggests dipping the meat in soy sauce with garlic and chillies."
   - q: "How old is Minji?"
     a: "The MICHELIN Guide says it began as a hawker stall in the 1940s and is now run by third-generation owners, with a worn, historic interior that reflects generations of diners."
   - q: "Where is Minji and should I expect a wait?"
-    a: "It is at 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, in the $$ price band. The MICHELIN Guide tags it 'Worth Queueing For,' so expect queues at busy times. Bookings are handled by the restaurant directly and credit cards are not accepted."
+    a: "It is at 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, in the $ price band. The MICHELIN Guide tags it 'Worth Queueing For,' so expect queues at busy times. Bookings are handled by the restaurant directly and credit cards are not accepted."
 
 updated: 2026-11-06
 sources:

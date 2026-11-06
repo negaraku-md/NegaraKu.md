@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra مطعم هندي في The Starhill بـ Bukit Bintang، كوالالمبور، مُدرَج في MICHELIN Guide بعلامة Bib Gourmand تقديرًا للطعام الجيد بسعر مجزٍ. وهو المطعم الشقيق لـ Kayra، يحافظ على فلسفة «من البحر إلى الطبق»، ويعيد تصوّر أطباق كيرالا التقليدية بمأكولات بحرية ومنتجات محلّية المصدر. طبقه المميّز كاري سمك كيرالي مبنيّ على وصفة عائلية، مُحدَّد الحموضة بالمانجو الأخضر والزبادي. يندرج ضمن فئة سعرية $$ وملائم للعائلات."
+answer: "Coast by Kayra مطعم هندي في The Starhill بـ Bukit Bintang، كوالالمبور، مُدرَج في MICHELIN Guide بعلامة Bib Gourmand تقديرًا للطعام الجيد بسعر مجزٍ. وهو المطعم الشقيق لـ Kayra، يحافظ على فلسفة «من البحر إلى الطبق»، ويعيد تصوّر أطباق كيرالا التقليدية بمأكولات بحرية ومنتجات محلّية المصدر. طبقه المميّز كاري سمك كيرالي مبنيّ على وصفة عائلية، مُحدَّد الحموضة بالمانجو الأخضر والزبادي. يندرج ضمن فئة سعرية $ وملائم للعائلات."
 keyTakeaways:
   - "يحمل Coast by Kayra علامة MICHELIN Guide Bib Gourmand — جائزة الجودة الجيدة بسعر مجزٍ — في كوالالمبور."
   - "هو المطعم الشقيق لـ Kayra ويتّبع فلسفة «من البحر إلى الطبق»، معيدًا تصوّر أطباق كيرالا التقليدية."
   - "طبقه المميّز كاري سمك كيرالي مبنيّ على وصفة عائلية، يُعطى حموضته بالمانجو الأخضر والزبادي."
   - "تُستمدّ المأكولات البحرية والمنتجات محليًا دعمًا للمزارع الصغيرة والصيّادين."
-  - "يقع في The Starhill على Jalan Bukit Bintang، ضمن فئة سعرية $$، بديكور فيروزي مستوحى من البحر."
+  - "يقع في The Starhill على Jalan Bukit Bintang، ضمن فئة سعرية $، بديكور فيروزي مستوحى من البحر."
 appliesTo: "المسافرون والزبائن الباحثون عن طبخ كيرالا والمأكولات البحرية الجنوب هندية بسعر معقول ومعترَف به من MICHELIN في كوالالمبور."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

@@ -18,7 +18,7 @@ keyTakeaways:
   - "يصنّف MICHELIN Guide مطبخه بأنه ابتكاري، يمزج تأثيرات فرنسية ونوردية وآسيوية."
   - "يقع المطعم في الطابق 51 من THE FACE Style، مع إطلالات بانورامية على أفق كوالالمبور."
   - "تربطه التغطية الثانوية بالشيف الهولندي Sidney Schutte، مع ذكر Guillaume Depoortere رئيسًا للطهاة؛ ونال نجمته بُعيد افتتاحه."
-  - "يدرجه MICHELIN Guide في أعلى فئة سعرية ($$$$) ويصفه بأنه مناسب لأمسية موعد."
+  - "يدرجه MICHELIN Guide في أعلى فئة سعرية ($$) ويصفه بأنه مناسب لأمسية موعد."
 appliesTo: "المسافرون وعشّاق الطعام ورواد المطاعم الذين يبحثون عن fine dining الماليزي المعترف به من MICHELIN في كوالالمبور."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

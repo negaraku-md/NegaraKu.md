@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee는 스베랑 프라이의 부킷 머르타잠(페낭 본토)에 있는 MICHELIN Bib Gourmand 길거리 음식 노점으로, 코코넛밀크와 커리로 낸 진한 국물에 반쯤 익힌 꼬막을 올린 수십 년 된 curry mee로 귀하게 여겨진다. 이 프로필은 MICHELIN 선정, 대표 메뉴, 위치, 방문 방법을 다룬다."
 seoTitle: "Taman Bukit Curry Mee: 페낭 빕 구르망"
 answer: "Taman Bukit Curry Mee는 MICHELIN Guide Kuala Lumpur & Penang 선정에서 MICHELIN Bib Gourmand에 오른 페낭 본토의 길거리 음식 노점이다. curry mee로 유명하며——코코넛밀크와 커리 페이스트로 낸 진한 국물에 국수를 넣고 반쯤 익힌 꼬막을 올린다——외진 푸드코트에서 수십 년간 팔아왔다. 주소는 Jalan Bukit Kecil, Taman Bukit, 부킷 머르타잠, 스베랑 프라이다."

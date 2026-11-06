@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "cdf02a988ecac9d6"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Serabai Istimewa 是槟城乔治市一家历史悠久的街头美食摊，入选 MICHELIN Guide 的 Bib Gourmand 名单，以 serabai 闻名——一种椰浆米浆饼，佐以椰糖（gula melaka）糖浆蘸酱。自 1970 年代经营至今，摊位提供原味、鸡蛋和红糖三种版本，通常只在清晨营业。"
 seoTitle: "Serabai Istimewa，槟城（Bib Gourmand）"
 answer: "Serabai Istimewa 是槟城乔治市一家街头美食摊，入选 MICHELIN Guide Kuala Lumpur & Penang 的 Bib Gourmand，表彰物有所值的料理。自 1970 年代起售卖 serabai——一种柔软的椰浆米浆饼，蘸椰糖（gula melaka）糖浆食用——提供原味、鸡蛋或红糖版本，最宜在 10am 之前前往。"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian은 페낭 조지타운의 Medan Renong 푸드코트에 있는 MICHELIN Bib Gourmand 길거리 음식 노점으로, 흔치 않은 green tom yum 국수 요리로 유명하며 국수 국물과 볶음국수도 함께 선보인다. 이 프로필은 MICHELIN 선정, 대표 메뉴, 위치, 방문 방법을 다룬다."
 seoTitle: "Ghee Lian: 페낭 빕 구르망 길거리 음식"
 answer: "Ghee Lian은 MICHELIN Guide Kuala Lumpur & Penang 선정에서 MICHELIN Bib Gourmand에 오른 페낭의 길거리 음식 노점이다. 대표 메뉴는 흔치 않은 green tom yum 국수 요리로——MICHELIN은 신맛과 매운맛의 균형을 칭찬한다——국수 국물과 볶음국수와 함께 낸다. 주소는 Jalan Tun Syed Sheh Barakhbah의 Medan Renong 푸드코트, 조지타운이다."

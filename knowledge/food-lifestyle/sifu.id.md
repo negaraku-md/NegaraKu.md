@@ -9,7 +9,7 @@ lang: "id"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu adalah restoran Peranakan MICHELIN Bib Gourmand di Jalan Pintal Tali, George Town, Penang. Dapurnya dipimpin oleh seorang juru masak rumahan berusia 70-an dengan pengalaman puluhan tahun, dan menunya yang berisi sekitar 40 item mencakup klasik masakan Nyonya tradisional — di antaranya asam prawn kenyal dalam saus asam manis yang kaya tamarind."
-answer: "Sifu adalah restoran Peranakan MICHELIN Bib Gourmand di 154 Jalan Pintal Tali, George Town, Penang. Dapurnya dikemudikan oleh seorang wanita berusia 70-an yang telah memasak selama puluhan tahun, dan menunya menawarkan sekitar 40 klasik à la carte masakan Peranakan (Nyonya) tradisional. Andalannya meliputi asam prawn kenyal dalam saus asam manis yang gelap dan sarat tamarind serta mang kuang char, bengkuang serut tumis dengan cumi kering dan jamur. MICHELIN mematoknya pada kisaran $$."
+answer: "Sifu adalah restoran Peranakan MICHELIN Bib Gourmand di 154 Jalan Pintal Tali, George Town, Penang. Dapurnya dikemudikan oleh seorang wanita berusia 70-an yang telah memasak selama puluhan tahun, dan menunya menawarkan sekitar 40 klasik à la carte masakan Peranakan (Nyonya) tradisional. Andalannya meliputi asam prawn kenyal dalam saus asam manis yang gelap dan sarat tamarind serta mang kuang char, bengkuang serut tumis dengan cumi kering dan jamur. MICHELIN mematoknya pada kisaran $."
 keyTakeaways:
   - "Sifu menyandang MICHELIN Bib Gourmand untuk masakan berkualitas baik dengan harga terjangkau."
-  - "Restoran Peranakan (Nyonya) di 154 Jalan Pintal Tali, George Town, Penang, pada kisaran harga MICHELIN $$."
+  - "Restoran Peranakan (Nyonya) di 154 Jalan Pintal Tali, George Town, Penang, pada kisaran harga MICHELIN $."
   - "Dapurnya dipimpin oleh seorang juru masak rumahan berusia 70-an dengan pengalaman puluhan tahun, menawarkan sekitar 40 klasik à la carte."
   - "Hidangan andalan meliputi asam prawn kenyal dalam saus asam manis yang kaya tamarind serta mang kuang char (bengkuang serut dengan cumi kering dan jamur)."
   - "MICHELIN mencatat reservasi tidak tersedia melalui situsnya, jadi rencanakan sesuai dengan itu."

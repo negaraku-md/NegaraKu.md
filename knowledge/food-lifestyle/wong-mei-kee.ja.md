@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee はクアラルンプールの Pudu にある屋台で、MICHELIN Guide の Bib Gourmand を獲得し、siew yok——皮がパリッと香ばしく、身がジューシーな焼き豚——で知られています。昼どきに数時間だけ営業し、「Worth Queueing For」のタグが付き、正午の一回分を目当てに早くから人が集まります。本稿では、この焼き豚、行列、そして訪れ方を紹介します。"
 seoTitle: "Wong Mei Kee、クアラルンプール"
 answer: "Wong Mei Kee はクアラルンプールの Pudu にある屋台で、MICHELIN Guide の Bib Gourmand を獲得し、siew yok——皮がパリッとして身がジューシーな焼き豚——で知られています。昼どきに数時間だけ営業し、「Worth Queueing For」のタグが付いており、MICHELIN は早めに到着して正午きっかりに窯から焼き豚が出てくるのを待つよう勧めています。安価な $ の屋台で、予約は店が直接受け付けています。"

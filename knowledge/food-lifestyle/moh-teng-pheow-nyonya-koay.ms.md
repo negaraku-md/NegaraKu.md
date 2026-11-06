@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ms"
 sourceContentHash: "899bf571aa6a9eea"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Moh Teng Pheow Nyonya Koay ialah pembuat kuih MICHELIN Bib Gourmand di George Town, Penang, yang menjejak kraftangannya ke tahun 1933. Terselit di sebelah Lebuh Chulia, ia mengukus, menggoreng dan membakar kuih Nyonya tradisional — kueh lapis, kueh talam, ang koo, Nyonya chang — dihidangkan di bawah bumbung kaca dengan payung ala Penang."
 
 answer: "Moh Teng Pheow Nyonya Koay ialah pembuat kuih Nyonya tradisional di George Town, Penang, di Jalan Masjid di sebelah Lebuh Chulia. Ia memegang MICHELIN Bib Gourmand, tanda Guide untuk masakan bernilai baik, dan disenaraikan di bawah 'Small eats' dalam jalur harga $. Kedai ini telah membuat kuihnya — kek, ladu dan puding yang dikukus, digoreng dan dibakar seperti kueh lapis, kueh talam, ang koo dan Nyonya chang — dengan cara yang sama sejak 1933, kini dihidangkan di ruang makan berbumbung kaca di belakang kilang."

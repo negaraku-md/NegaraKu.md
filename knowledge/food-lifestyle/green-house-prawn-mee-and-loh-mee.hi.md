@@ -9,7 +9,7 @@ lang: "hi"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee, George Town, Penang की Jalan Burma पर रात में चलने वाला एक स्ट्रीट-फ़ूड स्टॉल है, जो MICHELIN Bib Gourmand रखता है। 30 साल से भी अधिक समय से पसंदीदा, यह Hokkien prawn mee और loh mee के लिए जाना जाता है, जो सूअर की हड्डियों और झींगे के छिलकों से बने गहरे उमामी वाले लाल झींगा सूप पर आधारित हैं, और इसमें एक दर्जन वैकल्पिक टॉपिंग हैं।"
 answer: "Green House Prawn Mee and Loh Mee, George Town, Penang की Jalan Burma पर एक MICHELIN Bib Gourmand स्ट्रीट-फ़ूड स्टॉल है। Restoran Old Green House के भीतर स्थित, यह अपने Hokkien prawn mee और loh mee के लिए 30 साल से अधिक समय से पसंदीदा रहा है। इसका सिग्नेचर लाल झींगा सूप सूअर की हड्डियों और झींगे के छिलकों से बनाया जाता है ताकि गहरा उमामी स्वाद मिले, और लगभग बारह अतिरिक्त टॉपिंग दी जाती हैं। यह रात में चलता है और केवल नकद लेता है।"

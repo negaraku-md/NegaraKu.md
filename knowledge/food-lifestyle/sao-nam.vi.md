@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Một đội bếp người Việt nấu các món từ khắp Việt Nam, và MICHELIN Guide lưu ý có một số ảnh hưởng Pháp đậm nét."
   - "Món phở bò đặc trưng được dựng trên nước dùng ninh hơn 10 tiếng."
   - "Gỏi măng cụt tôm là điểm nhấn, được cẩm nang khen ngợi vì hương vị lớn và kết cấu tương phản."
-  - "Nhà hàng ở 25 Tengkat Tong Shin, Bukit Bintang, trong khung giá $$, và được đánh dấu là thân thiện với gia đình."
+  - "Nhà hàng ở 25 Tengkat Tong Shin, Bukit Bintang, trong khung giá $, và được đánh dấu là thân thiện với gia đình."
 faq:
   - q: "Những món nhất định phải thử ở Sao Nam là gì?"
     a: "MICHELIN Guide làm nổi bật hai món. Phở bò là món gọi mang tính biểu tượng, với nước dùng mất hơn 10 tiếng để chuẩn bị. Gỏi măng cụt tôm là điểm nhấn còn lại, được mô tả là kích thích vị giác với hương vị lớn và kết cấu tương phản."
   - q: "Sao Nam có MICHELIN Star không?"
     a: "Không. Sao Nam giữ một Bib Gourmand, một danh hiệu MICHELIN riêng cho món ăn chất lượng tốt với giá hợp lý. Đó không phải là một Star; hai giải thưởng được trao độc lập."
   - q: "Sao Nam ở đâu và có phù hợp cho gia đình không?"
-    a: "Nhà hàng ở 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, với mặt tiền màu vàng và nội thất rực rỡ. MICHELIN Guide đánh dấu nó là thân thiện với gia đình và xếp vào khung giá $$."
+    a: "Nhà hàng ở 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, với mặt tiền màu vàng và nội thất rực rỡ. MICHELIN Guide đánh dấu nó là thân thiện với gia đình và xếp vào khung giá $."
 
 updated: 2026-11-06
 sources:

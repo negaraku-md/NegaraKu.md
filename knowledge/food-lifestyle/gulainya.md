@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya is a Peranakan restaurant in Bukit Damansara, Kuala Lumpur, recognised by the MICHELIN Guide with a Bib Gourmand for good-value cooking. The MICHELIN Guide describes home-style dishes built on the owner's polished family recipes, with sauces made by the owner and a highlighted creamy basil boneless chicken."
 seoTitle: "Gulainya"
-answer: "Gulainya is a Peranakan restaurant in Plaza Damansara, Bukit Damansara, Kuala Lumpur, that holds a MICHELIN Bib Gourmand — the Guide's award for good quality at good value, not a star. The MICHELIN Guide describes home-style cooking built on the owner's family recipes, polished and updated, with sauces the owner makes himself, and highlights a creamy basil boneless chicken. It sits in the $$ price band."
+answer: "Gulainya is a Peranakan restaurant in Plaza Damansara, Bukit Damansara, Kuala Lumpur, that holds a MICHELIN Bib Gourmand — the Guide's award for good quality at good value, not a star. The MICHELIN Guide describes home-style cooking built on the owner's family recipes, polished and updated, with sauces the owner makes himself, and highlights a creamy basil boneless chicken. It sits in the $ price band."
 appliesTo: "Diners, food travellers and anyone seeking a MICHELIN Bib Gourmand Peranakan meal in Kuala Lumpur."
 keyTakeaways:
   - "Gulainya carries a MICHELIN Bib Gourmand — the Guide's 'good quality, good value' award, not a star — in the current MICHELIN Guide Kuala Lumpur & Penang selection."
   - "MICHELIN's coverage lists it among the newest Bib Gourmand additions to the Malaysia selection, alongside Lama in Kuala Lumpur."
   - "The MICHELIN Guide describes home-style Peranakan dishes built on the owner's family recipes, polished and updated, with sauces the owner makes himself."
-  - "Its highlighted dish is a creamy basil boneless chicken; the restaurant is in Plaza Damansara, Bukit Damansara, in the $$ price band."
+  - "Its highlighted dish is a creamy basil boneless chicken; the restaurant is in Plaza Damansara, Bukit Damansara, in the $ price band."
   - "The Bib Gourmand selection is revised every year, and restaurant hours, prices and menus can change."
 faq:
   - q: "What kind of food does Gulainya serve?"
@@ -28,7 +27,7 @@ faq:
   - q: "Does Gulainya have a MICHELIN star?"
     a: "No. It holds a Bib Gourmand, which the MICHELIN Guide awards for good quality at good value, rather than a one-, two- or three-star rating. The two are separate MICHELIN distinctions."
   - q: "Where is Gulainya?"
-    a: "The MICHELIN Guide lists it at 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, in the $$ price band. It is noted as closed on Mondays; confirm current hours before visiting."
+    a: "The MICHELIN Guide lists it at 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, in the $ price band. It is noted as closed on Mondays; confirm current hours before visiting."
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

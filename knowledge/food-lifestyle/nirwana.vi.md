@@ -9,18 +9,17 @@ contentType: "place"
 lang: "vi"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana — nhà hàng ở Bangsar Baru được biết đến rộng rãi với tên Sri Nirwana Maju — là một địa chỉ cơm lá chuối Bib Gourmand MICHELIN kỳ cựu trên đường Jalan Telawi. MICHELIN Guide xếp nơi này là Indian ($) và hướng thực khách đến phần cơm cùng cà ri trên lá chuối và món chicken biryani của quán."
 
-summary: "Nirwana — nhà hàng ở Bangsar Baru được biết đến rộng rãi với tên Sri Nirwana Maju — là một địa chỉ cơm lá chuối Bib Gourmand MICHELIN kỳ cựu trên đường Jalan Telawi. MICHELIN Guide xếp nơi này là Indian ($$) và hướng thực khách đến phần cơm cùng cà ri trên lá chuối và món chicken biryani của quán."
-
-answer: "Nirwana, một nhà hàng Nam Ấn lâu đời tại 43 Jalan Telawi 3 ở Bangsar Baru, Kuala Lumpur, nắm giữ một MICHELIN Bib Gourmand trong MICHELIN Guide Kuala Lumpur & Penang. Bib Gourmand đánh dấu món ăn chất lượng tốt, đáng đồng tiền. MICHELIN xếp nơi này là Indian ở phân khúc giá $$ và gợi ý một phần cơm lá chuối gồm cơm và cà ri rau, trong đó chicken biryani được nêu riêng nhờ phần thịt mọng và mềm."
+answer: "Nirwana, một nhà hàng Nam Ấn lâu đời tại 43 Jalan Telawi 3 ở Bangsar Baru, Kuala Lumpur, nắm giữ một MICHELIN Bib Gourmand trong MICHELIN Guide Kuala Lumpur & Penang. Bib Gourmand đánh dấu món ăn chất lượng tốt, đáng đồng tiền. MICHELIN xếp nơi này là Indian ở phân khúc giá $ và gợi ý một phần cơm lá chuối gồm cơm và cà ri rau, trong đó chicken biryani được nêu riêng nhờ phần thịt mọng và mềm."
 keyTakeaways:
   - "Nirwana (thường trưng biển là Sri Nirwana Maju) là một nhà hàng Bib Gourmand MICHELIN ở Bangsar Baru, Kuala Lumpur."
-  - "MICHELIN Guide xếp nơi này là ẩm thực Indian ở phân khúc giá $$ và gắn thẻ 'Eat like a local'."
+  - "MICHELIN Guide xếp nơi này là ẩm thực Indian ở phân khúc giá $ và gắn thẻ 'Eat like a local'."
   - "MICHELIN hướng thực khách đến một thực đơn set cơm lá chuối gồm cơm và cà ri rau, có thể chọn thêm cá, gà hoặc cừu."
   - "Chicken biryani là món MICHELIN nêu riêng, được khen vì phần thịt mọng và mềm cùng hương vị cân bằng."
   - "Quán nằm ở 43 Jalan Telawi 3, cạnh Bangsar Village, mở cửa hằng ngày; Bib Gourmand đánh dấu sự đáng giá, không phải một ngôi sao."
@@ -30,7 +29,7 @@ faq:
   - q: "Nirwana nổi tiếng về điều gì?"
     a: "Cơm lá chuối. MICHELIN Guide gợi ý thực đơn set gồm cơm và cà ri rau được bày trên lá chuối, với các món thêm tùy chọn như cá, gà hoặc cừu, và nêu riêng chicken biryani nhờ phần thịt mọng, mềm cùng hương vị cân bằng. MICHELIN ghi ẩm thực là Indian."
   - q: "Nirwana có sao MICHELIN không?"
-    a: "Không. Nirwana nắm giữ một MICHELIN Bib Gourmand, không phải một ngôi sao. Bib Gourmand là một danh hiệu riêng ghi nhận món ăn chất lượng tốt với mức giá đáng giá — thường nằm trong các phân khúc giá $ và $$ của Guide — chứ không phải các tiêu chí fine dining đằng sau MICHELIN Star."
+    a: "Không. Nirwana nắm giữ một MICHELIN Bib Gourmand, không phải một ngôi sao. Bib Gourmand là một danh hiệu riêng ghi nhận món ăn chất lượng tốt với mức giá đáng giá — thường nằm trong các phân khúc giá $ và $ của Guide — chứ không phải các tiêu chí fine dining đằng sau MICHELIN Star."
   - q: "Nirwana ở đâu và mở cửa khi nào?"
     a: "Quán ở 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur 59100, cạnh Bangsar Village. MICHELIN Guide ghi quán mở cửa hằng ngày, từ 11:30 đến 23:00. Giờ giấc có thể thay đổi, vì vậy hãy xác nhận với nhà hàng trước khi đi; việc đặt chỗ do nhà hàng trực tiếp xử lý."
 

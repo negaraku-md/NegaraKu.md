@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee là một quầy ẩm thực đường phố đạt MICHELIN Bib Gourmand ở Bukit Mertajam, Seberang Perai (phần đất liền của Penang), được quý trọng nhờ món curry mee lâu đời hàng chục năm với nước dùng béo ngậy từ nước cốt dừa và cà ri cùng sò huyết chần tái. Hồ sơ này giới thiệu sự công nhận của MICHELIN, món đặc trưng, vị trí và cách ghé thăm."
 seoTitle: "Taman Bukit Curry Mee: Bib Gourmand Penang"
 answer: "Taman Bukit Curry Mee là một quầy ẩm thực đường phố ở phần đất liền của Penang được liệt kê là MICHELIN Bib Gourmand trong tuyển chọn MICHELIN Guide Kuala Lumpur & Penang. Quầy nổi tiếng với curry mee — mì trong nước dùng béo ngậy từ nước cốt dừa và tương cà ri, phủ sò huyết chần tái — bán suốt hàng chục năm từ một khu ẩm thực khuất nẻo. Quầy ở Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai."

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee, बुकित मेरताजाम, सेबेरांग पेराई (पेनांग की मुख्यभूमि) में एक MICHELIN Bib Gourmand स्ट्रीट-फूड स्टॉल है, जो दशकों पुराने curry mee के लिए सराहा जाता है — नारियल और करी से बने मलाईदार शोरबे तथा अधपके कॉकल्स के साथ। यह प्रोफ़ाइल इसकी MICHELIN मान्यता, खास कटोरा, स्थान और वहाँ जाने के तरीके को कवर करती है।"
 seoTitle: "Taman Bukit Curry Mee: पेनांग बिब गुरमों"
 answer: "Taman Bukit Curry Mee पेनांग की मुख्यभूमि का एक स्ट्रीट-फूड स्टॉल है जो MICHELIN Guide Kuala Lumpur & Penang चयन में MICHELIN Bib Gourmand के रूप में सूचीबद्ध है। यह curry mee के लिए जाना जाता है — नारियल के दूध और करी पेस्ट से बने मलाईदार शोरबे में नूडल्स, ऊपर अधपके कॉकल्स — जो एक छिपे फ़ूड कोर्ट से दशकों से बिकता आ रहा है। यह Jalan Bukit Kecil, Taman Bukit, बुकित मेरताजाम, सेबेरांग पेराई में है।"

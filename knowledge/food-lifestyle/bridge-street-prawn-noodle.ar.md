@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Bridge Street Prawn Noodle كشك طعام شوارع حائز على MICHELIN Bib Gourmand في Lebuh Pantai بجورج تاون، بينانغ، اشتهر بـ prawn mee: نودلز صفراء أو نودلز أرز في مرق روبيان حار غني بالنكهة، مع إضافات مثل ضلوع الخنزير المطهوة ببطء وكرات السمك."
 seoTitle: "Bridge Street Prawn Noodle: Bib Gourmand بينانغ"
 answer: "‏Bridge Street Prawn Noodle كشك طعام شوارع حائز على Bib Gourmand في 533 Lebuh Pantai، جورج تاون، بينانغ. طبقه المميّز هو prawn mee (شوربة نودلز الروبيان): يختار روّاده بين النودلز الصفراء أو نودلز الأرز في مرق روبيان حار محمّل بنكهة عميقة، ويمكنهم إضافة ضلوع خنزير مطهوة ببطء أو كرات سمك. يتعامل نقدًا فقط ويجتذب الطوابير منذ تقدير MICHELIN له."

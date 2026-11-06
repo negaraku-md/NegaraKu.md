@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "96389253edf1ad12"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ravi's Famous Apom Manis ialah gerai makanan jalanan lama di George Town, Pulau Pinang yang tersenarai dalam pilihan Bib Gourmand MICHELIN Guide, pakar dalam apom manis — lempeng manis berenda daripada kelapa dan tepung beras. Gaya Pulau Pinang memasukkan telur dalam adunan untuk aroma yang lebih kuat; gerai ini telah beroperasi hampir seabad dan selalunya kehabisan pada waktu pagi."
 seoTitle: "Ravi's Famous Apom Manis, Pulau Pinang (Bib)"
 answer: "Ravi's Famous Apom Manis ialah gerai makanan jalanan Bib Gourmand di Jalan Burma, George Town, Pulau Pinang. Ia pakar dalam apom manis — lempeng manis bertengah lembut dan bertepi rangup daripada tepung beras dan kelapa, dengan telur ditambah mengikut gaya Pulau Pinang untuk aroma. Gerai keluarga ini wujud sejak awal abad ke-20 dan biasanya kehabisan menjelang lewat pagi."

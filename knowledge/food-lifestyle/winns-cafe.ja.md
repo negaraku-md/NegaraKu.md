@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe は、ペナン州ジョージタウンにある MICHELIN Bib Gourmand のプラナカン（Peranakan）料理店で、夫婦が一戸建ての家で営み、妻が家族のニョニャ（Nyonya）のレシピを調理する。本プロフィールでは、MICHELIN の評価、看板料理、空間、訪問方法を紹介する。"
 seoTitle: "Winn's Cafe：ペナンのプラナカン・ビブグルマン"
 answer: "Winn's Cafe はペナン州ジョージタウンのプラナカン料理店で、MICHELIN Guide Kuala Lumpur & Penang のセレクションで MICHELIN Bib Gourmand に選ばれている。夫婦が一戸建ての家で営み、妻が家族のニョニャのレシピを調理する。MICHELIN は otak otak と asam tumis のエイを挙げている。場所は 38 Jalan Cantonment、ジョージタウン。"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle はペナン州ジョージタウンの Lebuh Pantai にある MICHELIN Bib Gourmand の屋台で、prawn mee（エビ麺）で知られます。黄色い麺か米麺を、深い味わいの辛いエビスープに入れたもので、煮込んだ豚スペアリブや魚のつみれなどを追加できます。"
 seoTitle: "Bridge Street Prawn Noodle：ペナン Bib Gourmand"
 answer: "Bridge Street Prawn Noodle はペナン州ジョージタウンの 533 Lebuh Pantai にある Bib Gourmand の屋台です。看板は prawn mee（エビ麺スープ）。客は黄色い麺か米麺を選び、深い味わいにあふれた辛いエビスープに入れ、煮込んだ豚スペアリブや魚のつみれを追加できます。現金のみで、MICHELIN の評価以来、行列を引き寄せています。"

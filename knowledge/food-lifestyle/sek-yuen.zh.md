@@ -6,22 +6,21 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "28fd4ae0db39f542"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sek Yuen 是一家位于吉隆坡 Jalan Pudu 的老牌粤菜馆，自1948年营业至今，并摘得 MICHELIN Guide 的 Bib Gourmand。它供应传统、暖心的粤菜——招牌如 pipa duck 和烤乳猪（须提前两天预订）——分布在三间相邻的店屋里，中间那间保留着复古的格调。本篇介绍其食物、历史与造访方式。"
 seoTitle: "Sek Yuen，吉隆坡"
-answer: "Sek Yuen 是一家位于吉隆坡 Jalan Pudu 的传统粤菜馆，自1948年营业至今，凭超值烹饪获 MICHELIN Guide 颁予 Bib Gourmand。它在三间相邻的店屋里供应传统、暖心的粤菜——中间那间保留着最浓的复古格调——并以 pipa duck（皮脆）和须提前两天预订的烤乳猪等招牌闻名。它属于 $$ 价位。"
+answer: "Sek Yuen 是一家位于吉隆坡 Jalan Pudu 的传统粤菜馆，自1948年营业至今，凭超值烹饪获 MICHELIN Guide 颁予 Bib Gourmand。它在三间相邻的店屋里供应传统、暖心的粤菜——中间那间保留着最浓的复古格调——并以 pipa duck（皮脆）和须提前两天预订的烤乳猪等招牌闻名。它属于 $ 价位。"
 appliesTo: "寻找老派粤菜的旅客与吉隆坡食客，以及关注马来西亚 MICHELIN Guide 精选与本市饮食传统的读者。"
 keyTakeaways:
   - "Sek Yuen 是一家 MICHELIN Guide Bib Gourmand 餐厅——优质、超值的烹饪——位于吉隆坡 Jalan Pudu。"
   - "MICHELIN 指出，自1948年开业以来它一直是街坊的心头好，使它成为本市历史最悠久的粤菜馆之一。"
   - "如今它横跨同一条街上三间相邻的店屋；中间那间保留着最浓的复古格调。"
   - "菜单聚焦传统、暖心的粤菜；pipa duck（皮脆、肉质结实）是招牌，而烤乳猪须提前两天预订。"
-  - "这是一家 $$ 餐厅，员工亲切且服务多年；它自行处理订位，因此请直接联系。"
+  - "这是一家 $ 餐厅，员工亲切且服务多年；它自行处理订位，因此请直接联系。"
 faq:
   - q: "Sek Yuen 有多久的历史？"
     a: "MICHELIN Guide 说 Sek Yuen 自1948年开业以来一直是街坊的心头好，这使它成为吉隆坡历史最悠久的粤菜馆之一。坊间也流传着更早、战前起源的说法，但未获该指南证实。"

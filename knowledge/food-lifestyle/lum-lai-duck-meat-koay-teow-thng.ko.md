@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng은 페낭 조지타운의 Cecil Street Market(Pasar Lebuh Cecil) 안에 있는 MICHELIN Bib Gourmand 길거리 음식 노점으로, 오리 koay teow th'ng으로 유명합니다. 납작한 쌀국수를 오리와 돼지로 몇 시간 동안 뭉근히 끓인 진한 육수에 담은 요리입니다. 1970년대 말 Lau Lum Lai가 창업했고, 지금은 그의 아들과 며느리가 운영합니다."
 seoTitle: "Lum Lai 오리 Koay Teow Thng: 페낭 Bib Gourmand"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng은 페낭 조지타운의 Cecil Street Market(Pasar Lebuh Cecil)에 있는 Bib Gourmand 길거리 음식 노점입니다. 간판 메뉴는 오리 koay teow th'ng으로, 오리, 돼지, 어묵으로 만든 맑고 감칠맛 가득한 육수에 납작한 쌀국수를 담고 튀긴 마늘과 샬롯으로 마무리합니다. 이 가족은 40년 넘게 같은 방식으로 요리해 왔으며, 혼잡한 시간대에는 줄 서는 일이 흔합니다."

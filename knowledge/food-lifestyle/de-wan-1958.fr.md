@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 est un restaurant malaisien au The LINC KL, à Taman U Thant, Kuala Lumpur, associé au chef célèbre Chef Wan et distingué par le MICHELIN Guide d'un Bib Gourmand. Le MICHELIN Guide décrit des saveurs tropicales audacieuses et des plats comme une salade de pomélo aux joues de crevette croustillantes et le barbecue bakar bakar."
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 est un restaurant malaisien au The LINC KL, à Taman U Thant, Kuala Lumpur, associé au chef célèbre connu sous le nom de Chef Wan. Il détient un MICHELIN Bib Gourmand — la distinction que le Guide accorde à une bonne qualité à bon prix, et non une étoile. Le MICHELIN Guide décrit une salle lumineuse et animée et des saveurs tropicales audacieuses, et recommande une salade de pomélo aux joues de crevette croustillantes et le bakar bakar (viande ou fruits de mer grillés servis avec des sauces maison)."
@@ -22,7 +21,7 @@ keyTakeaways:
   - "Le restaurant est associé au chef célèbre malaisien connu sous le nom de Chef Wan et propose une cuisine malaisienne aux saveurs tropicales audacieuses."
   - "Le MICHELIN Guide recommande de commencer par une salade de pomélo aux joues de crevette croustillantes dans un assaisonnement au citron vert kerabu."
   - "Son autre plat mis en avant est le bakar bakar — viande ou fruits de mer grillés servis avec un choix de sauces maison — aux portions généreuses et à partager."
-  - "Il se trouve au The LINC KL, à Taman U Thant, dans la fourchette de prix $$ ; la sélection Bib Gourmand est révisée chaque année."
+  - "Il se trouve au The LINC KL, à Taman U Thant, dans la fourchette de prix $ ; la sélection Bib Gourmand est révisée chaque année."
 faq:
   - q: "À qui De. Wan 1958 est-il associé ?"
     a: "Le restaurant est associé au chef célèbre malaisien communément connu sous le nom de Chef Wan. Selon des récits largement publiés, le 「1958」 du nom renvoie à l'année de naissance du chef, bien que ce détail doive être confirmé auprès d'une source biographique."

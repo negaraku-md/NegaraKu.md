@@ -9,7 +9,7 @@ lang: "ko"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee는 페낭 조지타운 Jalan Burma에 있는 야간 영업 길거리 음식 노점으로, MICHELIN Bib Gourmand를 보유하고 있다. 30년 넘게 사랑받아 온 명소로, 돼지 뼈와 새우 껍질로 우려낸 깊은 감칠맛의 붉은 새우 수프를 바탕으로 한 Hokkien prawn mee와 loh mee로 유명하며, 열두 가지 남짓의 선택 토핑이 있다."
 answer: "Green House Prawn Mee and Loh Mee는 페낭 조지타운 Jalan Burma에 있는 MICHELIN Bib Gourmand 길거리 음식 노점이다. Restoran Old Green House 안에 자리하며, Hokkien prawn mee와 loh mee로 30년 넘게 사랑받아 왔다. 대표 붉은 새우 수프는 돼지 뼈와 새우 껍질로 만들어 깊은 감칠맛을 내며, 약 열두 가지의 추가 토핑이 제공된다. 야간에 영업하며 현금만 받는다."

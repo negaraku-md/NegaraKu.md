@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak memegang Bib Gourmand dalam MICHELIN Guide Kuala Lumpur & Penang — tanda kualitas baik dengan harga sepadan dari panduan ini, bukan MICHELIN Star."
   - "MICHELIN Guide menggambarkannya sebagai 'ungkapan kebanggaan dan identitas nasional,' menyajikan hidangan yang merupakan klasik sehari-hari bagi warga setempat."
   - "Hidangan paling populernya adalah piring nasi ambeng, sajian berbagi yang porsinya disesuaikan dengan rombongan Anda."
-  - "Terletak di jalan permukiman di 24 Jalan Beremi, Bukit Bintang, pada kisaran harga $$ (sedang), dan membawa tanda 'Eat like a local' dari panduan ini."
+  - "Terletak di jalan permukiman di 24 Jalan Beremi, Bukit Bintang, pada kisaran harga $ (sedang), dan membawa tanda 'Eat like a local' dari panduan ini."
   - "Daftar Bib Gourmand direvisi setiap tahun, jadi konfirmasikan penghargaan terkini di guide.michelin.com sebelum merencanakan kunjungan."
 faq:
   - q: "Congkak terkenal karena apa?"
@@ -41,7 +41,7 @@ faq:
   - q: "Apakah Congkak memiliki MICHELIN Star?"
     a: "Tidak. Congkak memegang Bib Gourmand, sebuah penghargaan MICHELIN terpisah untuk restoran yang menawarkan masakan berkualitas baik dengan harga sepadan. Itu bukan Star, dan keduanya diberikan secara independen."
   - q: "Di mana Congkak dan berapa biayanya?"
-    a: "Terletak di 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, di jalan permukiman dekat pusat kota. MICHELIN Guide menempatkannya pada kisaran harga $$, berarti pengeluaran sedang, dan menerima kartu kredit."
+    a: "Terletak di 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, di jalan permukiman dekat pusat kota. MICHELIN Guide menempatkannya pada kisaran harga $, berarti pengeluaran sedang, dan menerima kartu kredit."
 
 updated: 2026-11-06
 sources:

@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "它是自行搭配的海鲜面：选鱼、贝类或两者皆选，再从八种面条和五种汤底中挑一种。"
   - "MICHELIN Guide 指出只有最新鲜的渔获才上桌，因为店主还在附近经营一个海鲜摊。"
   - "若觉得菜单令人眼花缭乱，招牌之选是什锦海鲜面和加奶的鱼头面汤。"
-  - "它位于 44 Jalan Kaskas 2, Taman Cheras，营业于日间（上午8时至下午5时），价位属 $$。"
+  - "它位于 44 Jalan Kaskas 2, Taman Cheras，营业于日间（上午8时至下午5时），价位属 $。"
 faq:
   - q: "在 Hai Kah Lang 该点什么？"
     a: "若觉得整份菜单难以取舍，MICHELIN Guide 推荐两个受欢迎的组合：什锦海鲜面，以及加奶的鱼头面汤。否则您可以自行搭配一碗——先选海鲜，再从供应的八种面条和五种汤底中挑选。"
   - q: "为什么它的海鲜被认为如此新鲜？"
     a: "MICHELIN Guide 解释说，店主还在附近经营一个海鲜摊，因此只有最新鲜的渔获才会进入菜单。这家餐厅被形容为总是挤满了想吃海鲜面的食客。"
   - q: "Hai Kah Lang 在哪里，几时营业？"
-    a: "它位于 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100，MICHELIN Guide 列出的营业时间为每日上午8时至下午5时。它价位属 $$，设有冷气，并接受信用卡。"
+    a: "它位于 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100，MICHELIN Guide 列出的营业时间为每日上午8时至下午5时。它价位属 $，设有冷气，并接受信用卡。"
 
 updated: 2026-11-06
 sources:

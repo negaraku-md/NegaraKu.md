@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa est un stand de cuisine de rue MICHELIN Bib Gourmand à George Town, Penang, qui sert un assam laksa sucré-acidulé-épicé au tamarin et au poisson, issu d'une recette familiale d'environ 50 ans aujourd'hui préparée par la troisième génération. Ce profil couvre sa reconnaissance MICHELIN, son plat signature, son emplacement et comment s'y rendre."
 seoTitle: "Wan Dao Tou Assam Laksa : Bib Gourmand de Penang"
 answer: "Wan Dao Tou Assam Laksa est un stand de cuisine de rue de Penang référencé comme MICHELIN Bib Gourmand dans la sélection du MICHELIN Guide Kuala Lumpur & Penang. Il sert de l'assam laksa — un bouillon acidulé de maquereau et de tamarin sur d'épaisses nouilles de riz, garni de concombre, d'échalote et d'ananas — d'après une recette familiale d'environ 50 ans, aujourd'hui préparée par la troisième génération. Il se trouve au 1 Jalan Gottlieb, George Town."

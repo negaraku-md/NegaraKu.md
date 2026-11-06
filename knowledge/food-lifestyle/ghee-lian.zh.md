@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian 是槟城乔治市一家 MICHELIN Bib Gourmand 街头小吃摊，位于 Medan Renong 美食广场，以一道不寻常的 green tom yum 面闻名，另供应一款汤面与炒面。本篇介绍其 MICHELIN 认可、招牌面碗、地点及造访方式。"
 seoTitle: "Ghee Lian：槟城 Bib Gourmand 街头美食"
 answer: "Ghee Lian 是槟城一家街头小吃摊，在 MICHELIN Guide Kuala Lumpur & Penang 评选中列为 MICHELIN Bib Gourmand。它的招牌是一道不寻常的 green tom yum 面——MICHELIN 称赞其酸辣平衡——另供应一款汤面与炒面。地址在 Jalan Tun Syed Sheh Barakhbah 的 Medan Renong 美食广场，乔治市。"

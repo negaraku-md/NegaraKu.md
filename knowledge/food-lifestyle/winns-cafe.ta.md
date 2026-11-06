@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe என்பது பினாங்கு, ஜார்ஜ் டவுனில் உள்ள ஒரு MICHELIN Bib Gourmand Peranakan உணவகம். இதை ஒரு கணவன்-மனைவி ஜோடி ஒரு தனித்த வீட்டிலிருந்து நடத்துகிறார்கள்; மனைவி தம் குடும்பத்தின் Nyonya செய்முறைகளைச் சமைக்கிறார். இந்தத் தொகுப்பு அதன் MICHELIN அங்கீகாரம், சிறப்பு உணவுகள், சூழல் மற்றும் செல்லும் முறையை உள்ளடக்கியது."
 seoTitle: "Winn's Cafe: பினாங்கு Peranakan Bib Gourmand"
 answer: "Winn's Cafe என்பது MICHELIN Guide Kuala Lumpur & Penang தேர்வில் MICHELIN Bib Gourmand ஆகப் பட்டியலிடப்பட்டுள்ள, பினாங்கு ஜார்ஜ் டவுனில் உள்ள ஒரு Peranakan உணவகம். ஒரு கணவன்-மனைவி ஜோடி இதை ஒரு தனித்த வீட்டிலிருந்து நடத்துகிறார்கள்; மனைவி தம் குடும்பத்தின் Nyonya செய்முறைகளைச் சமைக்கிறார். MICHELIN அதன் otak otak-வையும் asam tumis திருக்கை மீனையும் சிறப்பிக்கிறது. இது 38 Jalan Cantonment, ஜார்ஜ் டவுனில் உள்ளது."

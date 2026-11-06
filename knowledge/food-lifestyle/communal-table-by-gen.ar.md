@@ -9,17 +9,16 @@ contentType: "place"
 lang: "ar"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn مطعم حائز على Bib Gourmand من MICHELIN على Lebuh Presgrave في George Town ببينانغ، يقدّم قائمة à la carte صغيرة من أطباق حديثة تمزج المطبخين البيرانكاني والماليزي. ومبنيًّا حول مطبخ مفتوح وطاولة مشرب طويلة، يُدرَج بوصفه Malaysian ($)؛ وطبقه المميّز صدر بطّ مُعتَّق داخل خبز مبخّر."
 
-summary: "Communal Table by Gēn مطعم حائز على Bib Gourmand من MICHELIN على Lebuh Presgrave في George Town ببينانغ، يقدّم قائمة à la carte صغيرة من أطباق حديثة تمزج المطبخين البيرانكاني والماليزي. ومبنيًّا حول مطبخ مفتوح وطاولة مشرب طويلة، يُدرَج بوصفه Malaysian ($$)؛ وطبقه المميّز صدر بطّ مُعتَّق داخل خبز مبخّر."
-
-answer: "Communal Table by Gēn مطعم ماليزي-حديث في 68 Lebuh Presgrave، George Town، بينانغ، حائز على Bib Gourmand من MICHELIN لطهيه الجيد القيمة. يُدرجه دليل MICHELIN Guide بوصفه Malaysian في فئة $$ ويصف قاعة غير رسمية بمطبخ مفتوح وطاولة مشرب طويلة ونوافذ من الأرض إلى السقف، تقدّم قائمة عشاء à la carte صغيرة من أطباق حديثة تمزج المطبخين البيرانكاني والماليزي بمكوّنات محلّية. وطبقه المميّز صدر بطّ مُعتَّق يُقدَّم داخل خبز مبخّر بجلد مقرمش و'صلصة سرّية.'"
+answer: "Communal Table by Gēn مطعم ماليزي-حديث في 68 Lebuh Presgrave، George Town، بينانغ، حائز على Bib Gourmand من MICHELIN لطهيه الجيد القيمة. يُدرجه دليل MICHELIN Guide بوصفه Malaysian في فئة $ ويصف قاعة غير رسمية بمطبخ مفتوح وطاولة مشرب طويلة ونوافذ من الأرض إلى السقف، تقدّم قائمة عشاء à la carte صغيرة من أطباق حديثة تمزج المطبخين البيرانكاني والماليزي بمكوّنات محلّية. وطبقه المميّز صدر بطّ مُعتَّق يُقدَّم داخل خبز مبخّر بجلد مقرمش و'صلصة سرّية.'"
 keyTakeaways:
-  - "Communal Table by Gēn مطعم حائز على Bib Gourmand من MICHELIN في George Town ببينانغ، مُدرَج بوصفه Malaysian في فئة $$."
+  - "Communal Table by Gēn مطعم حائز على Bib Gourmand من MICHELIN في George Town ببينانغ، مُدرَج بوصفه Malaysian في فئة $."
   - "يقدّم المطبخ قائمة à la carte صغيرة من أطباق حديثة تمزج المطبخين البيرانكاني والماليزي بمكوّنات محلّية."
   - "اختيار MICHELIN المميّز هو صدر بطّ مُعتَّق داخل خبز مبخّر — جلد مقرمش و'صلصة سرّية.'"
   - "القاعة مبنيّة حول مطبخ مفتوح وطاولة مشرب طويلة مشتركة ونوافذ من الأرض إلى السقف — تجربة تناول على المشرب."

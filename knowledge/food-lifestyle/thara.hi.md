@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara जॉर्ज टाउन, पेनांग में एक MICHELIN Bib Gourmand थाई रेस्तरां है, जो ऊँचे, हरे रंग की छटा वाले डाइनिंग रूम में प्रामाणिक घरेलू शैली का थाई भोजन और ताज़ा सीफ़ूड परोसता है। इसके tom yum के कई रूप और miang kam स्टार्टर वे व्यंजन हैं जिन्हें निरीक्षक ख़ास तौर पर चुनते हैं, उदार मात्रा और किफ़ायती दामों के साथ।"
 seoTitle: "Thara: थाई Bib Gourmand, जॉर्ज टाउन पेनांग"
 answer: "Thara जॉर्ज टाउन, पेनांग के 5 Lorong Prangin में एक थाई रेस्तरां है, जिसे अच्छे दाम पर अच्छे भोजन के लिए MICHELIN Bib Gourmand से मान्यता मिली है। इसके शेफ़ को अपने गृह देश के प्रामाणिक व्यंजन पकाने का 15 से अधिक वर्षों का अनुभव है, जिसमें ताज़ा सीफ़ूड पर ज़ोर है। MICHELIN निरीक्षक tom yum सूप के कई रूपों और miang kam स्टार्टर को उजागर करते हैं।"
@@ -25,7 +24,7 @@ keyTakeaways:
   - "यह जॉर्ज टाउन के 5 Lorong Prangin में स्थित है, जो किफ़ायती दामों पर उदार मात्रा देता है।"
 faq:
   - q: "Thara कहाँ है और यह कौन-सा भोजन परोसता है?"
-    a: "Thara, 5 Lorong Prangin, George Town, 10100, पेनांग में है। यह ताज़े सीफ़ूड पर ज़ोर के साथ प्रामाणिक थाई भोजन परोसता है, और MICHELIN Guide में मध्यम ($$) मूल्य स्तर पर सूचीबद्ध है।"
+    a: "Thara, 5 Lorong Prangin, George Town, 10100, पेनांग में है। यह ताज़े सीफ़ूड पर ज़ोर के साथ प्रामाणिक थाई भोजन परोसता है, और MICHELIN Guide में मध्यम ($) मूल्य स्तर पर सूचीबद्ध है।"
   - q: "Thara में मुझे क्या ऑर्डर करना चाहिए?"
     a: "MICHELIN Guide रेस्तरां के tom yum सूप के कई रूपों की ओर इशारा करता है, जो अलग-अलग सीफ़ूड से बनाए जाते हैं, और ताज़े पान के पत्तों तथा मीठी miang kam चटनी से बने miang kam स्टार्टर को अवश्य आज़माने वाला व्यंजन बताता है।"
   - q: "क्या Thara के पास MICHELIN स्टार है?"

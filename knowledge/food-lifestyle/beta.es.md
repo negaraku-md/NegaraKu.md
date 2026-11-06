@@ -18,7 +18,7 @@ keyTakeaways:
   - "La MICHELIN Guide clasifica su cocina como malasia y contemporánea, presentada como un menú 'Tour of Malaysia'."
   - "MICHELIN describe al chef reelaborando los favoritos locales con técnicas modernas y un emplatado meticuloso en un comedor 'teatral'."
   - "Un añadido estrella señalado por MICHELIN es un abalone Lawas rice: arroz autóctono de Sarawak coronado con abulón."
-  - "El restaurante está en Jalan Perak, Kuala Lumpur, situado en la banda de precios $$$; la guía lo señala como bueno para una cita."
+  - "El restaurante está en Jalan Perak, Kuala Lumpur, situado en la banda de precios $$; la guía lo señala como bueno para una cita."
 appliesTo: "Viajeros, entusiastas de la gastronomía y comensales que investigan la alta cocina de Malasia reconocida por MICHELIN en Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

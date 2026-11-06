@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee는 쿠알라룸푸르 Pudu에 있는 길거리 음식 노점으로, MICHELIN Guide의 Bib Gourmand를 보유하고 있으며 siew yok — 껍질이 바삭하고 살이 촉촉한 돼지고기 구이 — 로 유명합니다. 점심 무렵 몇 시간만 열고 'Worth Queueing For' 태그가 붙어 있어, 정오에 나오는 한 판을 노리고 일찍 오는 사람들을 끌어모읍니다. 이 글은 이 돼지고기 구이, 줄서기, 그리고 방문 방법을 다룹니다."
 seoTitle: "Wong Mei Kee, 쿠알라룸푸르"
 answer: "Wong Mei Kee는 쿠알라룸푸르 Pudu에 있는 길거리 음식 노점으로, MICHELIN Guide의 Bib Gourmand로 인정받았으며 siew yok — 껍질이 바삭하고 살이 촉촉한 돼지고기 구이 — 로 유명합니다. 점심 무렵 몇 시간만 열고 'Worth Queueing For' 태그가 붙어 있으며, MICHELIN은 일찍 도착해 정오 정각에 오븐에서 돼지고기가 나오기를 기다리라고 조언합니다. 저렴한 $ 노점으로 예약은 매장이 직접 받습니다."

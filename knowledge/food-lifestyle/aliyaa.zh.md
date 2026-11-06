@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "25075c0f69943804"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Aliyaa 是位于吉隆坡 Bukit Damansara 的一家斯里兰卡餐厅，获 MICHELIN Guide 颁予 Bib Gourmand，表彰其物有所值的烹调。MICHELIN Guide 提到其招牌菜包括整只螃蟹、以菠萝酱烹煮的 Negombo 虾，以及 kuliyal，辣度可按食客要求调整。"
 seoTitle: "Aliyaa"
 answer: "Aliyaa 是位于吉隆坡 Bukit Damansara（Plaza Damansara）的一家斯里兰卡餐厅，持有 MICHELIN Bib Gourmand——这是该指南颁予优质而物有所值者的奖项，而非星级。MICHELIN Guide 称赞其地道的斯里兰卡烹调，并着重介绍整只螃蟹、以菠萝酱烹煮的 Negombo 虾，以及 kuliyal 等菜肴，并补充说厨房会按食客喜好调整辣度。"
@@ -21,7 +20,7 @@ keyTakeaways:
   - "Aliyaa 在现行的 MICHELIN Guide Kuala Lumpur & Penang 名单中获得 MICHELIN Bib Gourmand——这是该指南「优质、物有所值」的奖项，而非星级。"
   - "MICHELIN Guide 形容它供应地道的斯里兰卡烹调，这在吉隆坡的餐饮界是相对少见的菜系。"
   - "MICHELIN Guide 着重介绍的招牌菜包括整只螃蟹、以菠萝酱烹煮的 Negombo 虾，以及 kuliyal（以香蕉叶包裹烘烤的饭）。"
-  - "它位于 Bukit Damansara 的 Plaza Damansara，属 $$ 价位区间，厨房可应要求调整辣度。"
+  - "它位于 Bukit Damansara 的 Plaza Damansara，属 $ 价位区间，厨房可应要求调整辣度。"
   - "Bib Gourmand 名单每年修订一次，而餐厅的营业时间、价格和菜单都可能变动。"
 faq:
   - q: "Aliyaa 供应什么样的食物？"
@@ -29,7 +28,7 @@ faq:
   - q: "Aliyaa 有 MICHELIN 星级吗？"
     a: "没有。它持有 Bib Gourmand，这是 MICHELIN Guide 颁予优质而物有所值者的奖项，而非一星、二星或三星评级。两者是不同的 MICHELIN 荣誉。"
   - q: "Aliyaa 在哪里？"
-    a: "MICHELIN Guide 将它列于 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur，属 $$ 价位区间。请直接向餐厅确认最新的营业时间和订位政策。"
+    a: "MICHELIN Guide 将它列于 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur，属 $ 价位区间。请直接向餐厅确认最新的营业时间和订位政策。"
 keywords:
   - "Aliyaa"
   - "Sri Lankan restaurant Kuala Lumpur"

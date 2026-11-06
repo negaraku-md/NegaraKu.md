@@ -7,21 +7,20 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "508e444c18b01819"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya est un restaurant Peranakan à Bukit Damansara, Kuala Lumpur, distingué par le MICHELIN Guide d'un Bib Gourmand pour sa cuisine d'un bon rapport qualité-prix. Le MICHELIN Guide décrit des plats de style familial fondés sur les recettes de famille peaufinées du propriétaire, avec des sauces qu'il prépare lui-même et un plat phare de poulet désossé au basilic et à la crème."
 seoTitle: "Gulainya"
-answer: "Gulainya est un restaurant Peranakan situé à Plaza Damansara, Bukit Damansara, Kuala Lumpur, qui détient un MICHELIN Bib Gourmand — la distinction du Guide pour une bonne qualité à bon prix, et non une étoile. Le MICHELIN Guide décrit une cuisine de style familial fondée sur les recettes de famille du propriétaire, peaufinées et actualisées, avec des sauces qu'il prépare lui-même, et met en avant un poulet désossé au basilic et à la crème. Il se situe dans la fourchette de prix $$."
+answer: "Gulainya est un restaurant Peranakan situé à Plaza Damansara, Bukit Damansara, Kuala Lumpur, qui détient un MICHELIN Bib Gourmand — la distinction du Guide pour une bonne qualité à bon prix, et non une étoile. Le MICHELIN Guide décrit une cuisine de style familial fondée sur les recettes de famille du propriétaire, peaufinées et actualisées, avec des sauces qu'il prépare lui-même, et met en avant un poulet désossé au basilic et à la crème. Il se situe dans la fourchette de prix $."
 appliesTo: "Les convives, les voyageurs gastronomes et quiconque cherche un repas Peranakan distingué d'un MICHELIN Bib Gourmand à Kuala Lumpur."
 keyTakeaways:
   - "Gulainya détient un MICHELIN Bib Gourmand dans la sélection actuelle du MICHELIN Guide Kuala Lumpur & Penang — la distinction « bonne qualité, bon prix » du Guide, et non une étoile."
   - "La couverture de MICHELIN le classe parmi les ajouts Bib Gourmand les plus récents à la sélection de la Malaisie, aux côtés de Lama à Kuala Lumpur."
   - "Le MICHELIN Guide décrit des plats Peranakan de style familial fondés sur les recettes de famille du propriétaire, peaufinées et actualisées, avec des sauces qu'il prépare lui-même."
-  - "Son plat phare est un poulet désossé au basilic et à la crème ; le restaurant se trouve à Plaza Damansara, Bukit Damansara, dans la fourchette de prix $$."
+  - "Son plat phare est un poulet désossé au basilic et à la crème ; le restaurant se trouve à Plaza Damansara, Bukit Damansara, dans la fourchette de prix $."
   - "La sélection Bib Gourmand est révisée chaque année, et les horaires, les prix et les menus du restaurant peuvent changer."
 faq:
   - q: "Quel type de cuisine Gulainya propose-t-il ?"
@@ -29,7 +28,7 @@ faq:
   - q: "Gulainya a-t-il une étoile MICHELIN ?"
     a: "Non. Il détient un Bib Gourmand, que le MICHELIN Guide décerne pour une bonne qualité à bon prix, plutôt qu'un classement une, deux ou trois étoiles. Ce sont deux distinctions MICHELIN distinctes."
   - q: "Où se trouve Gulainya ?"
-    a: "Le MICHELIN Guide l'indique au 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, dans la fourchette de prix $$. Il est signalé comme fermé le lundi ; confirmez les horaires actuels avant de vous y rendre."
+    a: "Le MICHELIN Guide l'indique au 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, dans la fourchette de prix $. Il est signalé comme fermé le lundi ; confirmez les horaires actuels avant de vous y rendre."
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

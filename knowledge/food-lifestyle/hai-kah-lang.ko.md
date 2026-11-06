@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "직접 구성하는 해산물 국수 한 그릇입니다. 생선, 조개류 또는 둘 다를 고른 뒤 여덟 가지 면과 다섯 가지 국물 베이스 중 하나를 고릅니다."
   - "주인이 근처에서 해산물 가판도 운영하기 때문에 가장 신선한 어획물만 식탁에 오른다고 MICHELIN Guide는 언급합니다."
   - "메뉴가 복잡하게 느껴지면, 집 대표 메뉴는 모둠 해산물 국수와 우유를 넣은 생선 머리 국수탕입니다."
-  - "44 Jalan Kaskas 2, Taman Cheras에 있으며, 낮 시간(오전 8시~오후 5시)에 영업하고 $$ 가격대입니다."
+  - "44 Jalan Kaskas 2, Taman Cheras에 있으며, 낮 시간(오전 8시~오후 5시)에 영업하고 $ 가격대입니다."
 faq:
   - q: "Hai Kah Lang에서 무엇을 주문해야 하나요?"
     a: "전체 메뉴를 고르기 어렵게 느껴지면, MICHELIN Guide는 인기 있는 두 가지 조합을 추천합니다. 모둠 해산물 국수와, 우유를 넣은 생선 머리 국수탕입니다. 그렇지 않으면 해산물을 고른 뒤 제공되는 여덟 가지 면과 다섯 가지 국물 베이스에서 골라 자기만의 한 그릇을 구성할 수 있습니다."
   - q: "왜 해산물이 그렇게 신선하다고 여겨지나요?"
     a: "주인이 근처에서 해산물 가판도 운영하기 때문에 가장 신선한 어획물만 메뉴에 오른다고 MICHELIN Guide는 설명합니다. 이 음식점은 해산물 국수를 찾는 손님들로 늘 붐빈다고 묘사됩니다."
   - q: "Hai Kah Lang은 어디에 있고 언제 여나요?"
-    a: "44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100에 있으며, MICHELIN Guide는 영업시간을 매일 오전 8시부터 오후 5시까지로 표시합니다. $$ 가격대이고 냉방이 되며 신용카드를 받습니다."
+    a: "44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100에 있으며, MICHELIN Guide는 영업시간을 매일 오전 8시부터 오후 5시까지로 표시합니다. $ 가격대이고 냉방이 되며 신용카드를 받습니다."
 
 updated: 2026-11-06
 sources:

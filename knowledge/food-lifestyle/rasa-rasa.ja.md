@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ja"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasaは、ペナンのGeorge Town、Gat Lebuh ChuliaにあるMICHELIN Bib Gourmandのプラナカン料理店だ。むき出しのレンガ壁と鉢植えの緑に彩られた小さな日中の店で、パンダンのnasi lemakを軸にしたコンボのセットを中心に、簡潔なニョニャのメニューを供する。Guideの最も低い（$）価格帯にある。"
 
 answer: "Rasa Rasaは、ペナンのGeorge Town、59 Gat Lebuh Chuliaにあるプラナカン（Nyonya）料理店だ。コストパフォーマンスを示すGuideの印であるMICHELIN Bib Gourmandを保持し、最も低い$の価格帯にある。MICHELINは、むき出しのレンガ壁と鉢植えの小さな店、そしてパンダンのnasi lemakを軸にしたニョニャのコンボのセットを目玉とする簡潔なメニューを描き、豆腐皮で巻いた五香粉の鶏ロールといった料理を挙げる。日中のみ営業し、水曜は休む。"

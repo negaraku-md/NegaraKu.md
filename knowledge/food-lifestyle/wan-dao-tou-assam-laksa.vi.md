@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa là một quầy ẩm thực đường phố đạt MICHELIN Bib Gourmand ở George Town, Penang, phục vụ món assam laksa chua-cay-ngọt nấu từ me và cá theo công thức gia truyền khoảng 50 năm, nay do thế hệ thứ ba nấu. Hồ sơ này giới thiệu sự công nhận của MICHELIN, món đặc trưng, vị trí và cách ghé thăm."
 seoTitle: "Wan Dao Tou Assam Laksa: Bib Gourmand Penang"
 answer: "Wan Dao Tou Assam Laksa là một quầy ẩm thực đường phố ở Penang được liệt kê là MICHELIN Bib Gourmand trong tuyển chọn MICHELIN Guide Kuala Lumpur & Penang. Quầy phục vụ assam laksa — nước dùng cá thu chua vị me chan lên sợi bún gạo to, điểm thêm dưa chuột, hành tím và dứa — theo công thức gia truyền khoảng 50 năm, nay do thế hệ thứ ba nấu. Quầy ở 1 Jalan Gottlieb, George Town."

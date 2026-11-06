@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak เป็นแผงอาหารริมทางระดับ MICHELIN Bib Gourmand บน Lorong Macalister จอร์จทาวน์ ปีนัง เสิร์ฟ char koay kak: เค้กข้าวผัดที่มี wok hei ดี ซีอิ๊ว ถั่วงอก ไข่ และพริก เมนูแต้จิ๋วนี้เริ่มต้นโดยพ่อของพี่น้องในปี 1963 และปัจจุบันดำเนินการโดยลูกสาวสามคน"
 seoTitle: "Sister Yao's Char Koay Kak: Bib Gourmand ปีนัง"
 answer: "Sister Yao's Char Koay Kak เป็นแผงอาหารริมทางระดับ Bib Gourmand ที่ 96 Lorong Macalister จอร์จทาวน์ ปีนัง เมนูเดียวคือ char koay kak เค้กข้าวผัดสไตล์แต้จิ๋วที่ปรุงด้วย wok hei หอมควัน ซีอิ๊ว ถั่วงอก ไข่ และพริก พร้อมซอสเผ็ดเพิ่มเมื่อขอ เริ่มต้นโดยพ่อของพี่น้องในปี 1963 ปัจจุบันดำเนินการโดยลูกสาวสามคน รับเฉพาะเงินสด"

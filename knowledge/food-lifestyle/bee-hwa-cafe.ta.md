@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe என்பது பினாங்கு, ஜார்ஜ் டவுனில் உள்ள ஒரு MICHELIN Bib Gourmand காபிக் கடை (kopitiam) ஆகும். இது halal சீன-மலேசிய தெரு உணவை — Penang Hokkien mee மற்றும் பூண்டு சேர்த்து வறுத்த char kway teow உள்ளிட்டவை — வழங்குகிறது; 1992-இல் ஒரு தெரு வண்டியாகத் தொடங்கி இப்போது குடும்ப தொழிலாக நடத்தப்படுகிறது. இந்தத் தொகுப்பு அதன் MICHELIN அங்கீகாரம், சிறப்பு உணவுகள், இடம் மற்றும் செல்லும் முறையை உள்ளடக்கியது."
 seoTitle: "Bee Hwa Cafe: பினாங்கு Bib Gourmand"
 answer: "Bee Hwa Cafe என்பது MICHELIN Guide Kuala Lumpur & Penang தேர்வில் MICHELIN Bib Gourmand ஆகப் பட்டியலிடப்பட்டுள்ள ஜார்ஜ் டவுன் காபிக் கடை. இது halal சீன-மலேசிய தெரு உணவை — பன்றிக்குப் பதிலாக கோழி மற்றும் கடல் உணவைப் பயன்படுத்தி — வழங்குகிறது; ஆய்வாளர்கள் அதன் Penang Hokkien mee-யையும், பன்றிக் கொழுப்புக்குப் பதிலாக நறுக்கிய பூண்டால் வறுக்கப்படும் char kway teow-வையும் சிறப்பித்தனர். இது 10 Lebuh Dickens, ஜார்ஜ் டவுனில் உள்ளது; 1992-இல் ஒரு தெரு வண்டியாகத் தொடங்கியது."

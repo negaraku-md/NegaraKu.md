@@ -9,7 +9,7 @@ lang: "ar"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "‏Sifu مطعم Peranakan حائز على MICHELIN Bib Gourmand في Jalan Pintal Tali في George Town، Penang. تقود مطبخه طاهية منزلية في السبعينيات من عمرها بخبرة عقود، وتغطّي قائمته التي تضمّ نحو 40 طبقًا كلاسيكيات طهي Nyonya التقليدي — ومنها asam prawn مطّاطي القوام في صلصة حلوة-حامضة غنية بالتمر الهندي."
-answer: "‏Sifu مطعم Peranakan حائز على MICHELIN Bib Gourmand في 154 Jalan Pintal Tali في George Town، Penang. تتولّى مطبخه سيدة في السبعينيات من عمرها طهت لعقود، وتقدّم القائمة نحو 40 كلاسيكيًا à la carte من مطبخ Peranakan (Nyonya) التقليدي. تشمل الأطباق المميّزة asam prawn مطّاطي القوام في صلصة حلوة-حامضة داكنة غنية بالتمر الهندي، و mang kuang char — لفت أبيض (yam bean) مبشور مقلي مع الحبار المجفف والفطر. ويضعه MICHELIN في فئة $$."
+answer: "‏Sifu مطعم Peranakan حائز على MICHELIN Bib Gourmand في 154 Jalan Pintal Tali في George Town، Penang. تتولّى مطبخه سيدة في السبعينيات من عمرها طهت لعقود، وتقدّم القائمة نحو 40 كلاسيكيًا à la carte من مطبخ Peranakan (Nyonya) التقليدي. تشمل الأطباق المميّزة asam prawn مطّاطي القوام في صلصة حلوة-حامضة داكنة غنية بالتمر الهندي، و mang kuang char — لفت أبيض (yam bean) مبشور مقلي مع الحبار المجفف والفطر. ويضعه MICHELIN في فئة $."
 keyTakeaways:
   - "‏Sifu حائز على MICHELIN Bib Gourmand لطهي جيد الجودة وبسعر مناسب."
-  - "هو مطعم Peranakan (Nyonya) في 154 Jalan Pintal Tali، George Town، Penang، ضمن فئة الأسعار MICHELIN $$."
+  - "هو مطعم Peranakan (Nyonya) في 154 Jalan Pintal Tali، George Town، Penang، ضمن فئة الأسعار MICHELIN $."
   - "تقود المطبخ طاهية منزلية في السبعينيات من عمرها بخبرة عقود، وتقدّم نحو 40 كلاسيكيًا à la carte."
   - "تشمل الأطباق المميّزة asam prawn مطّاطي القوام في صلصة حلوة-حامضة غنية بالتمر الهندي، و mang kuang char (لفت أبيض مبشور مع الحبار المجفف والفطر)."
   - "يذكر MICHELIN أن الحجز غير متاح عبر موقعه، لذا خطّط وفقًا لذلك."

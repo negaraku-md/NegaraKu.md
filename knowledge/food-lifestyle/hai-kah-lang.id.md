@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Ini adalah mangkuk mi makanan laut susun-sendiri: pilih ikan, kerang, atau keduanya, lalu salah satu dari delapan jenis mi dan lima kaldu dasar."
   - "MICHELIN Guide mencatat hanya tangkapan paling segar yang sampai ke meja karena pemiliknya juga mengelola lapak makanan laut di dekatnya."
   - "Jika menunya terasa membingungkan, favorit rumahnya adalah mi makanan laut campur dan sup mi kepala ikan dengan susu."
-  - "Terletak di 44 Jalan Kaskas 2, Taman Cheras, buka siang hari (08.00-17.00), pada kisaran harga $$."
+  - "Terletak di 44 Jalan Kaskas 2, Taman Cheras, buka siang hari (08.00-17.00), pada kisaran harga $."
 faq:
   - q: "Apa yang sebaiknya saya pesan di Hai Kah Lang?"
     a: "MICHELIN Guide merekomendasikan dua kombinasi populer jika menu penuh terasa sulit ditelusuri: mi makanan laut campur, dan sup mi kepala ikan dengan susu. Jika tidak, Anda dapat menyusun mangkuk sendiri dengan memilih makanan laut Anda, lalu memilih dari delapan jenis mi dan lima kaldu dasar yang tersedia."
   - q: "Mengapa makanan lautnya dianggap begitu segar?"
     a: "MICHELIN Guide menjelaskan bahwa pemiliknya juga mengelola lapak makanan laut di dekatnya, sehingga hanya tangkapan paling segar yang masuk ke menu. Restoran ini digambarkan selalu penuh dengan pelanggan yang mendambakan mi makanan laut."
   - q: "Di mana Hai Kah Lang dan kapan bukanya?"
-    a: "Terletak di 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, dan MICHELIN Guide mencantumkan jam buka 08.00 hingga 17.00 setiap hari. Berada pada kisaran harga $$, ber-AC, dan menerima kartu kredit."
+    a: "Terletak di 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, dan MICHELIN Guide mencantumkan jam buka 08.00 hingga 17.00 setiap hari. Berada pada kisaran harga $, ber-AC, dan menerima kartu kredit."
 
 updated: 2026-11-06
 sources:

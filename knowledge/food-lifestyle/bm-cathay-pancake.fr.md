@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake est un chariot de cuisine de rue MICHELIN Bib Gourmand à Bukit Mertajam, Seberang Perai, sur la partie continentale de Penang. Depuis 1962, il vend un seul plat — l'apam balik, une crêpe grillée au charbon de bois fourrée de sucre et de cacahuètes, croustillante dehors et moelleuse dedans — et des files se forment aux heures de pointe."
 seoTitle: "BM Cathay Pancake : apam balik Bib Gourmand Penang"
 answer: "BM Cathay Pancake est un chariot de cuisine de rue Bib Gourmand à côté du Cathay Food Court sur Jalan Aston, Bukit Mertajam, Seberang Perai, sur la partie continentale de Penang. Depuis 1962, il sert un seul plat : l'apam balik, une crêpe grillée au charbon de bois fourrée de sucre et de cacahuètes, croustillante dehors et moelleuse dedans, préparée à la commande. Il n'accepte que les espèces et vaut la file d'attente."

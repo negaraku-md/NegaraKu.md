@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake은 페낭 본토 쪽 스브랑 프라이의 부킷 메르타잠에 있는 MICHELIN Bib Gourmand 길거리 음식 카트입니다. 1962년 이래 단 한 가지 요리만 팔아 왔습니다 — apam balik, 설탕과 땅콩 소를 넣은 숯불 구이 팬케이크로, 겉은 바삭하고 속은 쫄깃합니다 — 그리고 혼잡한 시간대에는 줄이 생깁니다."
 seoTitle: "BM Cathay Pancake: 페낭 Bib Gourmand apam balik"
 answer: "BM Cathay Pancake은 페낭 본토 쪽 스브랑 프라이의 부킷 메르타잠, Jalan Aston의 Cathay Food Court 옆에 있는 Bib Gourmand 길거리 음식 카트입니다. 1962년 이래 단 한 가지 요리만 냅니다. apam balik, 설탕과 땅콩을 넣은 숯불 구이 팬케이크로 겉은 바삭하고 속은 쫄깃하며 주문 즉시 만듭니다. 현금만 받고, 줄 서서 먹을 가치가 있습니다."

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle जॉर्ज टाउन, पेनांग के Lebuh Pantai पर एक MICHELIN Bib Gourmand स्ट्रीट-फ़ूड स्टॉल है, जो prawn mee के लिए जाना जाता है: गहरे स्वाद वाले मसालेदार झींगा शोरबे में पीली नूडल्स या चावल नूडल्स, और इसमें धीमी आँच पर पकी सूअर की पसलियाँ तथा फ़िश बॉल जैसे ऐड-ऑन मिलते हैं।"
 seoTitle: "Bridge Street Prawn Noodle: पेनांग Bib Gourmand"
 answer: "Bridge Street Prawn Noodle जॉर्ज टाउन, पेनांग के 533 Lebuh Pantai पर एक Bib Gourmand स्ट्रीट-फ़ूड स्टॉल है। इसकी ख़ासियत prawn mee (झींगा नूडल सूप) है: ग्राहक गहरे स्वाद से भरे मसालेदार झींगा शोरबे में पीली नूडल्स या चावल नूडल्स चुनते हैं, और धीमी आँच पर पकी सूअर की पसलियाँ या फ़िश बॉल जोड़ सकते हैं। यह केवल नक़द लेता है और MICHELIN मान्यता के बाद से क़तारें खींचता है।"

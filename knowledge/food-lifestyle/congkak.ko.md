@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak은 MICHELIN Guide Kuala Lumpur & Penang에서 Bib Gourmand를 보유하고 있습니다 — 좋은 품질을 합리적인 가격에 제공함에 대한 가이드의 표식이며, MICHELIN Star는 아닙니다."
   - "MICHELIN Guide는 이곳을 '국가적 자부심과 정체성의 표현'이라고 묘사하며, 현지인에게는 일상적인 클래식인 요리를 낸다고 합니다."
   - "가장 인기 있는 메뉴는 nasi ambeng 플래터로, 분량이 일행에 맞춰 조절되는 나눠 먹는 한 상입니다."
-  - "주택가 거리인 24 Jalan Beremi, Bukit Bintang에 있으며, $$ (중간) 가격대이고 가이드의 'Eat like a local' 태그가 붙어 있습니다."
+  - "주택가 거리인 24 Jalan Beremi, Bukit Bintang에 있으며, $ (중간) 가격대이고 가이드의 'Eat like a local' 태그가 붙어 있습니다."
   - "Bib Gourmand 목록은 매년 개정되므로, 방문을 계획하기 전에 guide.michelin.com에서 현재 수상 여부를 확인하세요."
 faq:
   - q: "Congkak은 무엇으로 유명한가요?"
@@ -41,7 +41,7 @@ faq:
   - q: "Congkak은 MICHELIN Star가 있나요?"
     a: "없습니다. Congkak은 Bib Gourmand를 보유하고 있으며, 이는 좋은 품질의 요리를 합리적인 가격에 내는 음식점을 위한 별도의 MICHELIN 표식입니다. Star가 아니며, 두 가지는 각각 독립적으로 수여됩니다."
   - q: "Congkak은 어디에 있고 비용은 얼마인가요?"
-    a: "24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, 도심에서 가까운 주택가 거리에 있습니다. MICHELIN Guide는 이곳을 $$ 가격대, 즉 중간 수준의 지출로 분류하며, 신용카드를 받습니다."
+    a: "24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, 도심에서 가까운 주택가 거리에 있습니다. MICHELIN Guide는 이곳을 $ 가격대, 즉 중간 수준의 지출로 분류하며, 신용카드를 받습니다."
 
 updated: 2026-11-06
 sources:

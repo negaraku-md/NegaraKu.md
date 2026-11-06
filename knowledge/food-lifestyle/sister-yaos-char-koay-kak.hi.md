@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak जॉर्ज टाउन, पेनांग के Lorong Macalister पर एक MICHELIN Bib Gourmand स्ट्रीट-फ़ूड स्टॉल है, जो char koay kak परोसता है: अच्छे wok hei, सोया सॉस, अंकुरित सेम, अंडे और मिर्च के साथ तला हुआ चावल केक। यह Teochew व्यंजन बहनों के पिता ने 1963 में शुरू किया और अब इसे तीन बेटियाँ चलाती हैं।"
 seoTitle: "Sister Yao's Char Koay Kak: पेनांग Bib Gourmand"
 answer: "Sister Yao's Char Koay Kak जॉर्ज टाउन, पेनांग के 96 Lorong Macalister पर एक Bib Gourmand स्ट्रीट-फ़ूड स्टॉल है। इसका एकमात्र व्यंजन char koay kak है, एक Teochew-शैली का तला हुआ चावल केक जिसे धुएँ भरे wok hei, सोया सॉस, अंकुरित सेम, अंडे और मिर्च के साथ पकाया जाता है, माँगने पर अतिरिक्त तीखी सॉस के साथ। बहनों के पिता ने 1963 में शुरू किया, अब इसे तीन बेटियाँ चलाती हैं। यह केवल नक़द लेता है।"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara es un restaurante tailandés con MICHELIN Bib Gourmand en George Town, Penang, que sirve cocina tailandesa casera y auténtica y marisco fresco en un comedor alto y de tonos verdes. Sus variaciones de tom yum y el entrante de miang kam son los platos que los inspectores destacan, con raciones generosas a precios amables."
 seoTitle: "Thara: Bib Gourmand tailandés, George Town Penang"
 answer: "Thara es un restaurante tailandés en 5 Lorong Prangin, en George Town, Penang, reconocido con un MICHELIN Bib Gourmand por su buena cocina a buen precio. Su chef tiene más de 15 años de experiencia cocinando platos auténticos de su país de origen, con énfasis en el marisco fresco. Los inspectores de MICHELIN destacan la variedad de sopas tom yum y el entrante de miang kam."
@@ -25,7 +24,7 @@ keyTakeaways:
   - "Se encuentra en 5 Lorong Prangin, en George Town, y ofrece raciones generosas a precios amables."
 faq:
   - q: "¿Dónde está Thara y qué cocina sirve?"
-    a: "Thara está en 5 Lorong Prangin, George Town, 10100, Penang. Sirve cocina tailandesa auténtica con énfasis en el marisco fresco, y la MICHELIN Guide lo incluye en un nivel de precio moderado ($$)."
+    a: "Thara está en 5 Lorong Prangin, George Town, 10100, Penang. Sirve cocina tailandesa auténtica con énfasis en el marisco fresco, y la MICHELIN Guide lo incluye en un nivel de precio moderado ($)."
   - q: "¿Qué debería pedir en Thara?"
     a: "La MICHELIN Guide apunta a la variedad de sopas tom yum del restaurante, elaboradas con distintos mariscos, y nombra el entrante de miang kam, hecho con hojas de betel frescas y una salsa dulce de miang kam, como imprescindible."
   - q: "¿Tiene Thara una estrella MICHELIN?"

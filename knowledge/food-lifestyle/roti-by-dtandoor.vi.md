@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor là một nhà hàng Bắc Ấn gần Jalan Ampang ở Kuala Lumpur, được MICHELIN Guide liệt kê kèm Bib Gourmand cho món ngon giá hợp lý. Nằm trong một biệt thự dân cư và là một phần của thương hiệu d'Tandoor khai trương tại Malaysia năm 1990, quán phục vụ một loạt món ăn Ấn Độ tinh tế, ấm lòng, dựng trên công thức gia truyền, với butter chicken masala, naan mềm dai và kem kulfi nằm trong số những món MICHELIN chọn ra. Quán ở mức giá $$ và thân thiện với gia đình cũng như việc ăn ngoài trời."
+answer: "Roti by d'Tandoor là một nhà hàng Bắc Ấn gần Jalan Ampang ở Kuala Lumpur, được MICHELIN Guide liệt kê kèm Bib Gourmand cho món ngon giá hợp lý. Nằm trong một biệt thự dân cư và là một phần của thương hiệu d'Tandoor khai trương tại Malaysia năm 1990, quán phục vụ một loạt món ăn Ấn Độ tinh tế, ấm lòng, dựng trên công thức gia truyền, với butter chicken masala, naan mềm dai và kem kulfi nằm trong số những món MICHELIN chọn ra. Quán ở mức giá $ và thân thiện với gia đình cũng như việc ăn ngoài trời."
 keyTakeaways:
   - "Roti by d'Tandoor giữ Bib Gourmand của MICHELIN Guide — giải thưởng cho chất lượng tốt ở giá hợp lý — tại Kuala Lumpur."
   - "Quán phục vụ ẩm thực Bắc Ấn dựng trên công thức gia truyền và sự pha trộn thảo mộc cùng gia vị, trong một ngôi nhà gần Jalan Ampang."
   - "MICHELIN nêu bật butter chicken masala, naan mềm dai và kem kulfi vốn có nhiều hương vị."
   - "Quán là một phần của thương hiệu d'Tandoor mà MICHELIN cho biết đã khai trương tại Malaysia năm 1990."
-  - "Quán ở 82 Jalan Damai, gần Jalan Ampang, ở mức giá $$, với chỗ ngồi ngoài trời và không gian thân thiện với gia đình."
+  - "Quán ở 82 Jalan Damai, gần Jalan Ampang, ở mức giá $, với chỗ ngồi ngoài trời và không gian thân thiện với gia đình."
 appliesTo: "Du khách và thực khách tìm ẩm thực Bắc Ấn giá phải chăng, được MICHELIN công nhận ở Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba เป็นร้านอาหารเปอรานากัน (Peranakan) ย่าน Brickfields กรุงกัวลาลัมเปอร์ ซึ่งได้รับ Bib Gourmand จาก MICHELIN Guide สำหรับอาหารที่คุ้มค่า เปิดมาตั้งแต่ปี 2018 เสิร์ฟอาหารเปอรานากันทางใต้ที่ผสานรสชาติอินโด-มาเลย์ (Indo-Malay) เข้ากับอิทธิพลจีน จานเด่นคือ nasi lemak กับ ayam goreng kunyit"
 seoTitle: "Anak Baba"
 answer: "Anak Baba เป็นร้านอาหารเปอรานากันย่าน Brickfields กรุงกัวลาลัมเปอร์ ที่ได้รับ MICHELIN Bib Gourmand — รางวัลของ Guide สำหรับคุณภาพดีในราคาคุ้มค่า ไม่ใช่ดาว เปิดมาตั้งแต่ปี 2018 เสิร์ฟอาหารเปอรานากันทางใต้ที่ผสานรสชาติอินโด-มาเลย์เข้ากับอิทธิพลจีน และ MICHELIN Guide ชูจาน nasi lemak กับ ayam goreng kunyit (ไก่ทอดขมิ้น) อยู่ในช่วงราคาต่ำสุด ($) ของ Guide"

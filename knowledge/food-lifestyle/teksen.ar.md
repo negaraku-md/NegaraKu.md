@@ -9,7 +9,7 @@ lang: "ar"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "‏Teksen مطعم كانتوني عريق يقع في Lebuh Carnarvon في George Town، Penang، وهو حائز على MICHELIN Bib Gourmand تقديرًا لطهي جيد الجودة وبسعر مناسب. يعمل منذ عام 1965، ويُعرف بأطباقه الكانتونية التقليدية المُتقنة إلى جانب أطباق fusion بلمسة محلية — وطبقه المميّز هو التوفو المقلي محلي الصنع مع الأنشوجة المحلية المجففة."
 answer: "‏Teksen مطعم كانتوني غير رسمي في 18 & 20 Lebuh Carnarvon في George Town، Penang، حائز على MICHELIN Bib Gourmand — جائزة الدليل لطهي جيد الجودة وبسعر مناسب. مفتوح منذ عام 1965، ويقدّم أطباقًا كانتونية تقليدية إضافةً إلى أطباق fusion بلمسة محلية، وأشهر أطباقه هو التوفو المقلي محلي الصنع مع الأنشوجة المحلية المجففة. توقّع طابورًا في ساعات الذروة."
 keyTakeaways:
   - "‏Teksen حائز على MICHELIN Bib Gourmand، وهو تقدير الدليل لطهي جيد الجودة وبسعر مناسب."
-  - "هو مطعم كانتوني في 18 & 20 Lebuh Carnarvon، George Town، Penang (10100)، ضمن فئة الأسعار MICHELIN $$."
+  - "هو مطعم كانتوني في 18 & 20 Lebuh Carnarvon، George Town، Penang (10100)، ضمن فئة الأسعار MICHELIN $."
   - "يعمل المطبخ منذ عام 1965 ويمزج الأطباق الكانتونية التقليدية بأطباق fusion ذات لمسة محلية."
   - "الطبق المميّز هو التوفو المقلي محلي الصنع مع الأنشوجة المحلية المجففة؛ ويذكر الدليل أيضًا حساء الطهي المزدوج (double-boiled) اليومي."
   - "يصفه MICHELIN بأنه «يستحق الوقوف في الطابور» — توقّع الانتظار في الأوقات المزدحمة، وتحقّق من ساعات العمل قبل الذهاب."

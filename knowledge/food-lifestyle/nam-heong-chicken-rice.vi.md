@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) là một quán cơm gà Hải Nam lâu đời trên Jalan Sultan ở khu phố cổ Kuala Lumpur, mở cửa từ năm 1938 và nắm giữ Bib Gourmand của MICHELIN Guide. Thực khách chọn giữa con gà 'trại rau' nạc hơn và con gà thả vườn béo hơn, với roast pork belly (ba chỉ heo quay) và Ipoh bean sprouts là món kèm được ưa chuộng. Bài viết này giới thiệu món ăn, không gian và cách ghé thăm."
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice (City Centre) là một quán cơm gà Hải Nam trên Jalan Sultan ở Kuala Lumpur, mở cửa từ năm 1938 và được công nhận bằng Bib Gourmand của MICHELIN Guide cho lối nấu ăn đáng đồng tiền. Quán có hai loại gà — con 'trại rau' nạc hơn và con thả vườn béo hơn — cùng món roast pork belly (ba chỉ heo quay) bán chạy và Ipoh bean sprouts giòn. Đây là một quán $ giản dị, rẻ ở khu phố cổ, mở cửa hằng ngày và tự quản lý việc đặt chỗ."

@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra is an Indian restaurant at The Starhill in Bukit Bintang, Kuala Lumpur, listed in the MICHELIN Guide with a Bib Gourmand for good food at good value. The sister establishment of Kayra, it keeps a sea-to-plate ethos, reimagining traditional Kerala dishes with locally sourced seafood and produce. Its signature is a Kerala fish curry based on a family recipe, sharpened with raw mango and yoghurt. It sits in the $$ price tier and is family-friendly."
+answer: "Coast by Kayra is an Indian restaurant at The Starhill in Bukit Bintang, Kuala Lumpur, listed in the MICHELIN Guide with a Bib Gourmand for good food at good value. The sister establishment of Kayra, it keeps a sea-to-plate ethos, reimagining traditional Kerala dishes with locally sourced seafood and produce. Its signature is a Kerala fish curry based on a family recipe, sharpened with raw mango and yoghurt. It sits in the $ price tier and is family-friendly."
 keyTakeaways:
   - "Coast by Kayra holds a MICHELIN Guide Bib Gourmand — the award for good quality at good value — in Kuala Lumpur."
   - "It is the sister establishment of Kayra and follows a sea-to-plate ethos, reimagining traditional Kerala dishes."
   - "Its signature is a Kerala fish curry based on a family recipe, given acidity with raw mango and yoghurt."
   - "Seafood and produce are sourced locally to support small farms and fishermen."
-  - "It is at The Starhill on Jalan Bukit Bintang, in the $$ price tier, with turquoise, ocean-themed decor."
+  - "It is at The Starhill on Jalan Bukit Bintang, in the $ price tier, with turquoise, ocean-themed decor."
 appliesTo: "Travellers and diners seeking affordable, MICHELIN-recognised Kerala and South Indian seafood cooking in Kuala Lumpur."
 
 faq:
@@ -33,13 +33,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

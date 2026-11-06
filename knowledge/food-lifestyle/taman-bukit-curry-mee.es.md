@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee es un puesto de comida callejera MICHELIN Bib Gourmand en Bukit Mertajam, Seberang Perai (la parte continental de Penang), apreciado por un curry mee de décadas de antigüedad, con un caldo cremoso de coco y curry y berberechos a medio cocer. Este perfil cubre su reconocimiento MICHELIN, su plato estrella, su ubicación y cómo visitarlo."
 seoTitle: "Taman Bukit Curry Mee: Bib Gourmand de Penang"
 answer: "Taman Bukit Curry Mee es un puesto de comida callejera de la parte continental de Penang incluido como MICHELIN Bib Gourmand en la selección de la MICHELIN Guide Kuala Lumpur & Penang. Es conocido por su curry mee — fideos en un caldo cremoso de leche de coco y pasta de curry, coronado con berberechos a medio cocer — vendido durante décadas desde un patio de comidas escondido. Está en Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai."

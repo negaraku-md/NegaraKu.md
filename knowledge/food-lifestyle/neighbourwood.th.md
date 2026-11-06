@@ -9,7 +9,7 @@ lang: "th"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood เป็นร้านอาหาร MICHELIN Bib Gourmand ใน Bukit Mertajam, Seberang Perai — ซีกแผ่นดินใหญ่ของรัฐ Penang เป็นร้านย่านชุมชนบรรยากาศสบาย ๆ ที่เปิดโดยผู้อยู่อาศัยใกล้เคียง เสิร์ฟอาหารยุโรปร่วมสมัยที่ได้รับอิทธิพลเอเชียพร้อมเมนูย่าง เมนูหมุนเวียนทุกหกสัปดาห์ และขนมปัง sourdough อบเองเป็นหนึ่งในเมนูซิกเนเจอร์"
-answer: "Neighbourwood เป็นร้านอาหาร MICHELIN Bib Gourmand ที่ 3427 Jalan Kulim, Bukit Mertajam ใน Seberang Perai — ส่วนแผ่นดินใหญ่ของรัฐ Penang เสิร์ฟอาหารยุโรปร่วมสมัยที่ได้รับอิทธิพลเอเชียควบคู่กับเมนูย่าง โดยเมนูเปลี่ยนทุกหกสัปดาห์ ในขณะที่เมนูซิกเนเจอร์จำนวนหนึ่งยังคงอยู่ ขนมปัง sourdough อบเองสีทองกรอบร่วนและขนมหวานให้เลือกมากมายเป็นไฮไลต์ MICHELIN จัดอยู่ในระดับราคา $$"
+answer: "Neighbourwood เป็นร้านอาหาร MICHELIN Bib Gourmand ที่ 3427 Jalan Kulim, Bukit Mertajam ใน Seberang Perai — ส่วนแผ่นดินใหญ่ของรัฐ Penang เสิร์ฟอาหารยุโรปร่วมสมัยที่ได้รับอิทธิพลเอเชียควบคู่กับเมนูย่าง โดยเมนูเปลี่ยนทุกหกสัปดาห์ ในขณะที่เมนูซิกเนเจอร์จำนวนหนึ่งยังคงอยู่ ขนมปัง sourdough อบเองสีทองกรอบร่วนและขนมหวานให้เลือกมากมายเป็นไฮไลต์ MICHELIN จัดอยู่ในระดับราคา $"
 keyTakeaways:
   - "Neighbourwood ได้รับ MICHELIN Bib Gourmand สำหรับอาหารคุณภาพดีคุ้มค่า"
-  - "เสิร์ฟอาหาร European Contemporary (ยุโรปร่วมสมัย) ที่ได้รับอิทธิพลเอเชียพร้อมเมนูย่าง ในระดับราคา MICHELIN $$"
+  - "เสิร์ฟอาหาร European Contemporary (ยุโรปร่วมสมัย) ที่ได้รับอิทธิพลเอเชียพร้อมเมนูย่าง ในระดับราคา MICHELIN $"
   - "เมนูหมุนเวียนราวทุกหกสัปดาห์ โดยมีเมนูซิกเนเจอร์ที่เหมาะแบ่งกันกินสองสามอย่างยังคงอยู่"
   - "ขนมปัง sourdough อบเองหลายรสชาติ และขนมหวานให้เลือกกว่าสิบอย่างเป็นเมนูที่โดดเด่น"
   - "ตั้งอยู่ที่ 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) — บนแผ่นดินใหญ่ของ Penang ไม่ใช่เกาะ George Town"

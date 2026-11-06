@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide அதன் சமையலை புத்தாக்கம் (Innovative) என வகைப்படுத்துகிறது, பிரெஞ்சு, நார்டிக் மற்றும் ஆசிய தாக்கங்களைக் கலக்கிறது."
   - "உணவகம் THE FACE Style-இன் 51ஆவது மாடியில் உள்ளது, கோலாலம்பூர் வானளாவும் கோட்டின் பரந்த காட்சிகளுடன்."
   - "இரண்டாம்நிலை செய்திகள் இதை டச்சு செஃப் Sidney Schutte உடன் இணைக்கின்றன, Guillaume Depoortere தலைமை செஃப் என பெயரிடப்படுகிறார்; இது திறந்த சிறிது காலத்திலேயே Star-ஐப் பெற்றது."
-  - "MICHELIN Guide இதை மிக உயர்ந்த ($$$$) விலை வரம்பில் பட்டியலிடுகிறது, மேலும் டேட் இரவுக்கு ஏற்றது என குறிக்கிறது."
+  - "MICHELIN Guide இதை மிக உயர்ந்த ($$) விலை வரம்பில் பட்டியலிடுகிறது, மேலும் டேட் இரவுக்கு ஏற்றது என குறிக்கிறது."
 appliesTo: "கோலாலம்பூரில் MICHELIN அங்கீகரித்த மலேசிய ஃபைன் டைனிங் பற்றி ஆராய்ந்து வரும் பயணிகள், உணவு ஆர்வலர்கள் மற்றும் உணவருந்துபவர்கள்."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

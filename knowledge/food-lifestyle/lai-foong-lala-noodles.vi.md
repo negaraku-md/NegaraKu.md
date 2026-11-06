@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles là một quầy chuyên mì Hoa trên đường Jalan Sultan ở trung tâm Kuala Lumpur, được MICHELIN Guide ghi nhận với một Bib Gourmand cho món ăn đáng đồng tiền. Món đặc trưng là lala (nghêu) bihun ăn kèm tôm trong nước dùng thơm hương rượu vàng Trung Hoa và gừng."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles là một quầy mì trên đường Jalan Sultan ở Kuala Lumpur, đang giữ một MICHELIN Bib Gourmand — giải thưởng của Guide cho chất lượng tốt với giá hợp lý. Món đặc trưng là lala (nghêu) bihun ăn kèm tôm trong nước dùng mà MICHELIN Guide mô tả là thơm hương rượu vàng Trung Hoa và gừng. Quầy phát triển từ một hàng rong ven đường thành một cửa hàng góc phố hai tầng và nằm ở mức giá thấp nhất ($) của Guide."

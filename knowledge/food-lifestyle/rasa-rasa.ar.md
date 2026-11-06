@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ar"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa مطعم بيرانكاني حائز على Bib Gourmand من MICHELIN على Gat Lebuh Chulia في George Town ببينانغ. وهو قاعة نهارية صغيرة بجدران من الطوب العاري ونباتات في أصص، يقدّم قائمة نيونية موجزة تدور حول طقم combo مع nasi lemak بالباندان، ضمن أدنى فئة أسعار ($) في الدليل."
 
 answer: "Rasa Rasa مطعم بيرانكاني (Nyonya) في 59 Gat Lebuh Chulia، George Town، بينانغ. يحمل Bib Gourmand من MICHELIN — علامة الدليل على الطهي الجيد القيمة — ويقع في الفئة $، وهي الأدنى. يصف MICHELIN قاعة صغيرة بجدران من الطوب العاري ونباتات في أصص، وقائمة موجزة أبرز ما فيها طقم combo نيوني يدور حول nasi lemak بالباندان، مع أطباق كلفافة الدجاج بالخمس بهارات الملفوفة بقشرة التوفو. يفتح نهارًا فقط ويغلق أيام الأربعاء."

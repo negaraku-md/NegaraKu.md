@@ -9,18 +9,17 @@ contentType: "place"
 lang: "ms"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana — restoran di Bangsar Baru yang lebih dikenali sebagai Sri Nirwana Maju — ialah sebuah institusi nasi daun pisang MICHELIN Bib Gourmand di Jalan Telawi. MICHELIN Guide menyenaraikannya sebagai masakan India ($) dan menunjuk pengunjung kepada set nasi dan kari di atas daun pisang serta biryani ayamnya."
 
-summary: "Nirwana — restoran di Bangsar Baru yang lebih dikenali sebagai Sri Nirwana Maju — ialah sebuah institusi nasi daun pisang MICHELIN Bib Gourmand di Jalan Telawi. MICHELIN Guide menyenaraikannya sebagai masakan India ($$) dan menunjuk pengunjung kepada set nasi dan kari di atas daun pisang serta biryani ayamnya."
-
-answer: "Nirwana, sebuah restoran India Selatan yang telah lama beroperasi di 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur, memegang MICHELIN Bib Gourmand dalam MICHELIN Guide Kuala Lumpur & Penang. Bib Gourmand menandakan masakan berkualiti baik dan bernilai baik. MICHELIN mengelaskannya sebagai masakan India dalam jalur harga $$ dan mengesyorkan set nasi daun pisang berupa nasi dan kari sayur, dengan biryani ayam diketengahkan kerana isinya yang lembap dan empuk."
+answer: "Nirwana, sebuah restoran India Selatan yang telah lama beroperasi di 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur, memegang MICHELIN Bib Gourmand dalam MICHELIN Guide Kuala Lumpur & Penang. Bib Gourmand menandakan masakan berkualiti baik dan bernilai baik. MICHELIN mengelaskannya sebagai masakan India dalam jalur harga $ dan mengesyorkan set nasi daun pisang berupa nasi dan kari sayur, dengan biryani ayam diketengahkan kerana isinya yang lembap dan empuk."
 keyTakeaways:
   - "Nirwana (lazimnya dipaparkan sebagai Sri Nirwana Maju) ialah restoran MICHELIN Bib Gourmand di Bangsar Baru, Kuala Lumpur."
-  - "MICHELIN Guide mengelaskannya sebagai masakan India dalam jalur harga $$ dan menandainya 'Eat like a local'."
+  - "MICHELIN Guide mengelaskannya sebagai masakan India dalam jalur harga $ dan menandainya 'Eat like a local'."
   - "MICHELIN menunjuk pengunjung kepada set menu nasi daun pisang berupa nasi dan kari sayur, dengan pilihan tambahan ikan, ayam atau kambing."
   - "Biryani ayam ialah hidangan yang diketengahkan MICHELIN, dipuji kerana isinya yang lembap dan empuk serta perisa yang seimbang."
   - "Ia terletak di 43 Jalan Telawi 3, berhampiran Bangsar Village, dan dibuka setiap hari; Bib Gourmand menandakan nilai yang baik, bukan bintang."
@@ -30,7 +29,7 @@ faq:
   - q: "Nirwana terkenal dengan apa?"
     a: "Nasi daun pisang. MICHELIN Guide mengesyorkan set menunya berupa nasi dan kari sayur yang dihidangkan di atas daun pisang, dengan pilihan tambahan seperti ikan, ayam atau kambing, dan mengetengahkan biryani ayam kerana isinya yang lembap dan empuk serta perisa yang seimbang. MICHELIN menyenaraikan masakannya sebagai India."
   - q: "Adakah Nirwana mempunyai bintang MICHELIN?"
-    a: "Tidak. Nirwana memegang MICHELIN Bib Gourmand, bukan bintang. Bib Gourmand ialah pengiktirafan berasingan untuk masakan berkualiti baik pada nilai yang baik — lazimnya dalam jalur harga $ dan $$ dalam Guide — dan bukannya kriteria fine dining di sebalik MICHELIN Star."
+    a: "Tidak. Nirwana memegang MICHELIN Bib Gourmand, bukan bintang. Bib Gourmand ialah pengiktirafan berasingan untuk masakan berkualiti baik pada nilai yang baik — lazimnya dalam jalur harga $ dan $ dalam Guide — dan bukannya kriteria fine dining di sebalik MICHELIN Star."
   - q: "Di mana Nirwana dan bilakah waktu bukanya?"
     a: "Ia terletak di 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur 59100, berhampiran Bangsar Village. MICHELIN Guide menyenaraikannya sebagai dibuka setiap hari, 11:30 hingga 23:00. Waktu boleh berubah, jadi sahkan dengan restoran sebelum pergi; tempahan dikendalikan oleh restoran secara terus."
 

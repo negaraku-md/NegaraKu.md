@@ -9,17 +9,16 @@ contentType: "place"
 lang: "zh"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine 是槟城乔治市一家 MICHELIN Bib Gourmand 峇峇娘惹餐馆，由一对夫妻经营逾 15 年——Ivy 掌厨，丈夫负责前台待客。Guide 将它列为峇峇娘惹（$），并指向其以最畅销娘惹菜式为核心的分享套餐，如 Kapitan 鸡肉咖喱与 Joo Hoo Char。"
 
-summary: "Ivy's Nyonya Cuisine 是槟城乔治市一家 MICHELIN Bib Gourmand 峇峇娘惹餐馆，由一对夫妻经营逾 15 年——Ivy 掌厨，丈夫负责前台待客。Guide 将它列为峇峇娘惹（$$），并指向其以最畅销娘惹菜式为核心的分享套餐，如 Kapitan 鸡肉咖喱与 Joo Hoo Char。"
-
-answer: "Ivy's Nyonya Cuisine 是一家峇峇娘惹餐馆，位于槟城乔治市的 100-104 Jalan Kedah，持有 MICHELIN Bib Gourmand，表彰物有所值的烹饪。MICHELIN Guide 将它列为 $$ 价位带的峇峇娘惹菜，并指出它由一对夫妻经营逾 15 年，Ivy 掌厨、丈夫负责待客。它提供以最畅销菜式为核心的分享套餐，包括 Kapitan 鸡肉咖喱与 Joo Hoo Char——一道以辣椒酱炒成的什锦蔬菜。"
+answer: "Ivy's Nyonya Cuisine 是一家峇峇娘惹餐馆，位于槟城乔治市的 100-104 Jalan Kedah，持有 MICHELIN Bib Gourmand，表彰物有所值的烹饪。MICHELIN Guide 将它列为 $ 价位带的峇峇娘惹菜，并指出它由一对夫妻经营逾 15 年，Ivy 掌厨、丈夫负责待客。它提供以最畅销菜式为核心的分享套餐，包括 Kapitan 鸡肉咖喱与 Joo Hoo Char——一道以辣椒酱炒成的什锦蔬菜。"
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine 是槟城乔治市一家 MICHELIN Bib Gourmand 峇峇娘惹餐馆，落在 $$ 价位带。"
+  - "Ivy's Nyonya Cuisine 是槟城乔治市一家 MICHELIN Bib Gourmand 峇峇娘惹餐馆，落在 $ 价位带。"
   - "它由一对夫妻经营逾 15 年——Ivy 掌厨，丈夫负责待客。"
   - "MICHELIN 着重介绍 Kapitan 鸡肉咖喱与 Joo Hoo Char（以辣椒酱炒成的辣味什锦蔬菜）。"
   - "Guide 推荐其分享套餐，套餐围绕餐馆最畅销的娘惹菜式而设。"

@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "371d371355f5bfc2"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Lemon Koay Teow Soup là một quầy ẩm thực đường phố ở Butterworth, Seberang Perai, phía đất liền của Penang, nằm trong danh sách Bib Gourmand của MICHELIN Guide. Quầy phục vụ koay teow th'ng — mì gạo dẹt trong nước dùng xương heo nấu tươi mỗi ngày — với chả heo băm tay và nước cốt chanh vàng vắt tươi đặt trên bàn để làm bừng vị, một món ăn sáng được người địa phương yêu thích."
 seoTitle: "Lemon Koay Teow Soup, Penang (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup là một quầy ẩm thực đường phố Bib Gourmand ở Butterworth, Seberang Perai, phía đất liền của Penang. Quầy phục vụ koay teow soup — mì gạo dẹt mượt trong nước dùng xương heo đậm vị umami nấu tươi mỗi ngày — hoàn thiện bằng chả heo băm tay, với nước cốt chanh vàng vắt tươi đặt tại bàn để nâng vị. Đây là món ăn sáng được ưa chuộng của người địa phương."

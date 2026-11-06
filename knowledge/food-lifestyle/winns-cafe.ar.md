@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Winn's Cafe مطعم بيراناكان حائز على MICHELIN Bib Gourmand في جورج تاون، بينانغ، يديره زوجان من منزل منفصل، حيث تطهو الزوجة وصفات النيونيا (Nyonya) الخاصة بعائلتها. يغطي هذا الملف تقدير MICHELIN وأطباقه المميّزة والأجواء وكيفية زيارته."
 seoTitle: "Winn's Cafe: بيب غورماند بيراناكان بينانغ"
 answer: "‏Winn's Cafe مطعم بيراناكان في جورج تاون، بينانغ، مُدرج بوصفه MICHELIN Bib Gourmand ضمن اختيار MICHELIN Guide Kuala Lumpur & Penang. يديره زوجان من منزل منفصل، حيث تطهو الزوجة وصفات النيونيا الخاصة بعائلتها؛ ويخصّ MICHELIN بالذكر طبق otak otak وسمك الشفنين asam tumis. يقع في 38 Jalan Cantonment، جورج تاون."

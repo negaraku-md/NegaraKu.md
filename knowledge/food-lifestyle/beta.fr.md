@@ -18,7 +18,7 @@ keyTakeaways:
   - "Le MICHELIN Guide classe sa cuisine comme malaisienne et contemporaine, présentée sous forme de menu 'Tour of Malaysia'."
   - "MICHELIN décrit le chef retravaillant les grands classiques locaux avec des techniques modernes et un dressage méticuleux dans une salle 'théâtrale'."
   - "Un supplément phare noté par MICHELIN est un abalone Lawas rice — riz patrimonial du Sarawak garni d'ormeau."
-  - "Le restaurant se trouve à Jalan Perak, Kuala Lumpur, classé dans la fourchette de prix $$$ ; le guide le signale comme adapté à une soirée en amoureux."
+  - "Le restaurant se trouve à Jalan Perak, Kuala Lumpur, classé dans la fourchette de prix $$ ; le guide le signale comme adapté à une soirée en amoureux."
 appliesTo: "Voyageurs, passionnés de gastronomie et convives qui se renseignent sur la haute cuisine malaisienne reconnue par MICHELIN à Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

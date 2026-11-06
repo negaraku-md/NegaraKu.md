@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "cdf02a988ecac9d6"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Serabai Istimewa es un puesto de comida callejera de larga trayectoria en George Town, Penang, incluido en la selección Bib Gourmand de la MICHELIN Guide, conocido por el serabai, una crepe de harina de arroz con leche de coco que se sirve con una salsa para mojar de sirope de azúcar de palma (gula melaka). En funcionamiento desde la década de 1970, lo vende en versiones natural, con huevo y con azúcar moreno, y suele operar solo a primera hora de la mañana."
 seoTitle: "Serabai Istimewa, Penang (Bib Gourmand)"
 answer: "Serabai Istimewa es un puesto de comida callejera en George Town, Penang, incluido en la MICHELIN Guide Kuala Lumpur & Penang como Bib Gourmand por su cocina de buena relación calidad-precio. Vende serabai —una crepe blanda de harina de arroz con leche de coco que se moja en sirope de azúcar de palma (gula melaka)— desde la década de 1970, en versiones natural, con huevo o con azúcar moreno, y conviene visitarlo antes de las 10am."

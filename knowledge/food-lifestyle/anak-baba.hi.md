@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Baba कुआलालंपुर के Brickfields में स्थित एक पेरानाकन (Peranakan) भोजनालय है, जिसे किफ़ायती पकवानों के लिए MICHELIN Guide ने Bib Gourmand से मान्यता दी है। 2018 से चल रहा यह भोजनालय दक्षिणी पेरानाकन भोजन परोसता है, जो इंडो-मलय (Indo-Malay) स्वादों को चीनी प्रभावों के साथ मिलाता है; इसका प्रमुख व्यंजन ayam goreng kunyit के साथ nasi lemak है।"
 seoTitle: "Anak Baba"
 answer: "Anak Baba कुआलालंपुर के Brickfields में एक पेरानाकन भोजनालय है, जो MICHELIN Bib Gourmand रखता है — यह अच्छी गुणवत्ता को अच्छे दाम पर देने के लिए Guide का पुरस्कार है, तारा नहीं। 2018 से चल रहा यह दक्षिणी पेरानाकन भोजन परोसता है जो इंडो-मलय स्वादों को चीनी प्रभावों के साथ मिलाता है, और MICHELIN Guide इसके ayam goreng kunyit (हल्दी वाला तला हुआ चिकन) के साथ nasi lemak को प्रमुखता देता है। यह Guide की सबसे कम ($) मूल्य श्रेणी में आता है।"

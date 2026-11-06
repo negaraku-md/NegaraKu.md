@@ -9,7 +9,7 @@ lang: "ta"
 sourceContentHash: "2351caf0c9f02733"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Laksalicious என்பது Penang-இன் George Town-இல் Jalan Hutton-இல் உள்ள ஒரு MICHELIN Bib Gourmand உணவகம்; இங்கே laksa-தான் முதன்மை. சிறிய, தனித்துவம் நிறைந்த இந்தக் கடை, புளிப்பு, காரமான மீன் குழம்பு கொண்ட Nyonya asam laksa-க்கும், செறிவான, கிரீமி தேங்காய்ப்பால் குழம்பு கொண்ட Nyonya laksa lemak-க்கும் இடையே தேர்வு அளிக்கிறது; இறால் பக்கோடா, nasi ulam மற்றும் gula melaka cendol போன்ற உணவுகளுடன்."
 answer: "Laksalicious என்பது Penang-இன் George Town-இல் 117-117A Jalan Hutton-இல் உள்ள ஒரு MICHELIN Bib Gourmand உணவகம்; இங்கே laksa-தான் சிறப்பம்சம். இது இரண்டு பாணிகளைப் பரிமாறுகிறது — புளிப்பு, காரமான மீன் குழம்பு கொண்ட Nyonya asam laksa மற்றும் செறிவான, கிரீமி தேங்காய்ப்பால் குழம்பு கொண்ட Nyonya laksa lemak — மேலும் மொறுமொறுப்பான இறால் பக்கோடா, nasi ulam மற்றும் gula melaka cendol உள்ளிட்ட பக்க உணவுகள். MICHELIN இதை $ வரம்பில் வைத்து, சமையலை Malaysian என வகைப்படுத்துகிறது."

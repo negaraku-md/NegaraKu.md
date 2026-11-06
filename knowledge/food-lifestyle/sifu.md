@@ -8,7 +8,7 @@ subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -16,13 +16,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu is a MICHELIN Bib Gourmand Peranakan restaurant on Jalan Pintal Tali in George Town, Penang. Its kitchen is led by a home cook in her 70s with decades of experience, and its roughly 40-item menu covers the classics of traditional Nyonya cooking — among them a springy asam prawn in a tamarind-rich sweet-and-sour sauce."
-answer: "Sifu is a MICHELIN Bib Gourmand Peranakan restaurant at 154 Jalan Pintal Tali in George Town, Penang. Its kitchen is helmed by a lady in her 70s who has cooked for decades, and the menu offers about 40 à la carte classics of traditional Peranakan (Nyonya) cuisine. Signatures include a springy asam prawn in a dark, tamarind-heavy sweet-and-sour sauce and mang kuang char, sautéed shredded yam bean with dried squid and mushrooms. MICHELIN prices it in the $$ band."
+answer: "Sifu is a MICHELIN Bib Gourmand Peranakan restaurant at 154 Jalan Pintal Tali in George Town, Penang. Its kitchen is helmed by a lady in her 70s who has cooked for decades, and the menu offers about 40 à la carte classics of traditional Peranakan (Nyonya) cuisine. Signatures include a springy asam prawn in a dark, tamarind-heavy sweet-and-sour sauce and mang kuang char, sautéed shredded yam bean with dried squid and mushrooms. MICHELIN prices it in the $ band."
 keyTakeaways:
   - "Sifu holds a MICHELIN Bib Gourmand for good-quality, good-value cooking."
-  - "It is a Peranakan (Nyonya) restaurant at 154 Jalan Pintal Tali, George Town, Penang, in the MICHELIN $$ price band."
+  - "It is a Peranakan (Nyonya) restaurant at 154 Jalan Pintal Tali, George Town, Penang, in the MICHELIN $ price band."
   - "The kitchen is led by a home cook in her 70s with decades of experience, offering about 40 à la carte classics."
   - "Signature dishes include a springy asam prawn in a tamarind-rich sweet-and-sour sauce and mang kuang char (shredded yam bean with dried squid and mushrooms)."
   - "MICHELIN notes reservations are not available through its site, so plan accordingly."

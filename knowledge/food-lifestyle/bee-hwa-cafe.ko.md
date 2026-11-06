@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bee Hwa Cafe는 페낭 조지타운에 있는 MICHELIN Bib Gourmand 커피숍(코피티암)으로, Penang Hokkien mee와 마늘로 볶은 char kway teow 등 할랄 말레이시아 화교식 노점 음식을 선보인다. 1992년 길거리 노점으로 시작해 지금은 가족 사업으로 운영된다. 이 프로필은 MICHELIN 선정, 대표 메뉴, 위치, 방문 방법을 다룬다."
 seoTitle: "Bee Hwa Cafe: 페낭 빕 구르망"
 answer: "Bee Hwa Cafe는 MICHELIN Guide Kuala Lumpur & Penang 선정에서 MICHELIN Bib Gourmand에 오른 조지타운의 커피숍이다. 할랄 말레이시아 화교식 노점 음식을 선보이며——돼지고기 대신 닭고기와 해산물을 사용——심사원은 Penang Hokkien mee와, 돼지기름 대신 다진 마늘로 볶은 char kway teow를 꼽았다. 주소는 10 Lebuh Dickens, 조지타운이며 1992년 길거리 노점으로 시작했다."

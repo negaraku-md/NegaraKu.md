@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra は、クアラルンプールの Bukit Bintang、The Starhill にあるインド料理店で、コストパフォーマンスのよい美味しい料理を称える Bib Gourmand として MICHELIN Guide に掲載されている。Kayra の姉妹店で、「海から皿へ」の理念を保ち、地元で調達した魚介や食材で伝統的なケララ料理を再構築する。看板は家族のレシピに基づき、青いマンゴーとヨーグルトで引き締めたケララ風フィッシュカレー。$$ の価格帯に位置し、家族連れにも向く。"
+answer: "Coast by Kayra は、クアラルンプールの Bukit Bintang、The Starhill にあるインド料理店で、コストパフォーマンスのよい美味しい料理を称える Bib Gourmand として MICHELIN Guide に掲載されている。Kayra の姉妹店で、「海から皿へ」の理念を保ち、地元で調達した魚介や食材で伝統的なケララ料理を再構築する。看板は家族のレシピに基づき、青いマンゴーとヨーグルトで引き締めたケララ風フィッシュカレー。$ の価格帯に位置し、家族連れにも向く。"
 keyTakeaways:
   - "Coast by Kayra はクアラルンプールで MICHELIN Guide の Bib Gourmand——コストパフォーマンスのよい良質な料理に贈られる評価——を獲得している。"
   - "Kayra の姉妹店で、「海から皿へ」の理念に従い、伝統的なケララ料理を再構築する。"
   - "看板は家族のレシピに基づき、青いマンゴーとヨーグルトで酸味を加えたケララ風フィッシュカレー。"
   - "小さな農家や漁師を支えるため、魚介と食材は地元で調達している。"
-  - "Jalan Bukit Bintang の The Starhill にあり、$$ の価格帯で、ターコイズの海をテーマにした内装を備える。"
+  - "Jalan Bukit Bintang の The Starhill にあり、$ の価格帯で、ターコイズの海をテーマにした内装を備える。"
 appliesTo: "クアラルンプールで、手頃で MICHELIN に認められたケララおよび南インドの魚介料理を探している旅行者や食事客。"
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

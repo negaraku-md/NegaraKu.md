@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle은 페낭 조지타운의 Lebuh Pantai에 있는 MICHELIN Bib Gourmand 길거리 음식 노점으로, prawn mee로 유명합니다. 노란 국수나 쌀국수를 깊은 맛의 매콤한 새우 육수에 담고, 조린 돼지갈비나 어묵 같은 고명을 추가할 수 있습니다."
 seoTitle: "Bridge Street Prawn Noodle: 페낭 Bib Gourmand"
 answer: "Bridge Street Prawn Noodle은 페낭 조지타운 533 Lebuh Pantai에 있는 Bib Gourmand 길거리 음식 노점입니다. 간판은 prawn mee(새우 국수 수프)로, 손님은 깊은 맛이 가득한 매콤한 새우 육수에 노란 국수나 쌀국수를 골라 담고, 조린 돼지갈비나 어묵을 추가할 수 있습니다. 현금만 받으며, MICHELIN 인정 이후 줄을 끌어모읍니다."

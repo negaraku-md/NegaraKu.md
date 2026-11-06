@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide mengelaskan masakannya sebagai Malaysia dan Kontemporari, dipersembahkan sebagai menu 'Tour of Malaysia'."
   - "MICHELIN menggambarkan cef mengolah semula hidangan kegemaran tempatan dengan teknik moden dan penyajian yang teliti dalam ruang makan yang 'teaterikal'."
   - "Satu tambahan istimewa yang dicatatkan oleh MICHELIN ialah abalone Lawas rice — beras warisan Sarawak yang ditaburi abalone."
-  - "Restoran ini terletak di Jalan Perak, Kuala Lumpur, disenaraikan dalam jalur harga $$$; guide itu menandakannya sebagai baik untuk malam temu janji."
+  - "Restoran ini terletak di Jalan Perak, Kuala Lumpur, disenaraikan dalam jalur harga $$; guide itu menandakannya sebagai baik untuk malam temu janji."
 appliesTo: "Pelancong, peminat makanan dan pengunjung restoran yang menyelidik fine dining Malaysia yang diiktiraf MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

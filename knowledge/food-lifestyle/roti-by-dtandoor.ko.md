@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor는 쿠알라룸푸르 Jalan Ampang에서 살짝 들어간 곳에 있는 북인도 요리점으로, 합리적인 가격에 좋은 음식을 인정하는 Bib Gourmand와 함께 MICHELIN Guide에 등재되어 있다. 주택가 방갈로에 자리하고 1990년 말레이시아에서 문을 연 d'Tandoor 브랜드의 일원으로, 가족 전래 레시피를 바탕으로 마음을 따뜻하게 하는 고급 인도 요리를 선보이며, MICHELIN은 버터 치킨 마살라, 부드럽고 쫄깃한 naan, kulfi 아이스크림 등을 고른다. $$ 가격대에 속하며 가족 동반과 야외 식사에 적합하다."
+answer: "Roti by d'Tandoor는 쿠알라룸푸르 Jalan Ampang에서 살짝 들어간 곳에 있는 북인도 요리점으로, 합리적인 가격에 좋은 음식을 인정하는 Bib Gourmand와 함께 MICHELIN Guide에 등재되어 있다. 주택가 방갈로에 자리하고 1990년 말레이시아에서 문을 연 d'Tandoor 브랜드의 일원으로, 가족 전래 레시피를 바탕으로 마음을 따뜻하게 하는 고급 인도 요리를 선보이며, MICHELIN은 버터 치킨 마살라, 부드럽고 쫄깃한 naan, kulfi 아이스크림 등을 고른다. $ 가격대에 속하며 가족 동반과 야외 식사에 적합하다."
 keyTakeaways:
   - "Roti by d'Tandoor는 쿠알라룸푸르에서 MICHELIN Guide Bib Gourmand — 합리적인 가격에 좋은 품질을 인정하는 상 — 을 보유하고 있다."
   - "Jalan Ampang에서 살짝 들어간 주택에서 가족 전래 레시피와 허브·향신료 배합을 바탕으로 한 북인도 요리를 선보인다."
   - "MICHELIN은 버터 치킨 마살라, 부드럽고 쫄깃한 naan, 여러 가지 맛으로 나오는 kulfi 아이스크림을 꼽는다."
   - "이곳은 d'Tandoor 브랜드의 일원이며, MICHELIN에 따르면 이 브랜드는 1990년 말레이시아에서 문을 열었다."
-  - "82 Jalan Damai(Jalan Ampang에서 살짝 들어간 곳)에 있으며, $$ 가격대로 야외 좌석과 가족 친화적 분위기를 갖추고 있다."
+  - "82 Jalan Damai(Jalan Ampang에서 살짝 들어간 곳)에 있으며, $ 가격대로 야외 좌석과 가족 친화적 분위기를 갖추고 있다."
 appliesTo: "쿠알라룸푸르에서 저렴하고 MICHELIN이 인정한 북인도 요리를 찾는 여행자와 식도락가."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

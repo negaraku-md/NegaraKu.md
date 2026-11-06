@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "7e28abfc06c880aa"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow, पेनांग की मुख्य भूमि पर Seberang Perai के Bukit Mertajam में एक नूडल स्टॉल है, जो MICHELIN Guide के Bib Gourmand चयन में शामिल है। इसका char koay teow बतख के अंडे के साथ कोयले की आँच पर भूना जाता है ताकि स्पष्ट wok hei मिले; हल्का उबला ऑक्टोपस एक अनुशंसित स्टार्टर है। यह शाम का कारोबार है, जिसका अनुयायी-वर्ग दो दशकों में बना है।"
 seoTitle: "Ming Qin Charcoal Char Koay Teow, पेनांग"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow, पेनांग की मुख्य भूमि पर Seberang Perai के Bukit Mertajam में एक Bib Gourmand नूडल स्टॉल है। इसका सिग्नेचर char koay teow बतख के अंडे के साथ कोयले की आँच पर भूना जाता है, जो इसे प्रबल wok hei (कड़ाही की धुएँदार साँस) देता है। हल्का उबला ऑक्टोपस एक अनुशंसित स्टार्टर है। यह शाम को कारोबार करता है।"

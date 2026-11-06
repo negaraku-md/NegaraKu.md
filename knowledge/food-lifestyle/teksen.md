@@ -8,7 +8,7 @@ subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -16,13 +16,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen is a long-running Cantonese restaurant on Lebuh Carnarvon in George Town, Penang, holding a MICHELIN Bib Gourmand for good-quality, good-value cooking. Operating since 1965, it is known for well-made traditional Cantonese dishes alongside fusion plates with a local twist — the signature being deep-fried house-made tofu with dried local anchovies."
 answer: "Teksen is a casual Cantonese restaurant at 18 & 20 Lebuh Carnarvon in George Town, Penang, that holds a MICHELIN Bib Gourmand — the guide's award for good-quality, good-value cooking. Open since 1965, it serves traditional Cantonese dishes plus fusion plates with a local twist, and its best-known dish is the deep-fried house-made tofu with dried local anchovies. Expect a queue at peak hours."
 keyTakeaways:
   - "Teksen holds a MICHELIN Bib Gourmand, the guide's distinction for good-quality, good-value cooking."
-  - "It is a Cantonese restaurant at 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), priced in the MICHELIN $$ band."
+  - "It is a Cantonese restaurant at 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), priced in the MICHELIN $ band."
   - "The kitchen has operated since 1965 and pairs traditional Cantonese dishes with fusion plates given a local twist."
   - "The signature dish is deep-fried house-made tofu with dried local anchovies; the guide also flags a daily double-boiled soup."
   - "MICHELIN tags it 'worth queueing for' — expect a wait at busy times, and check opening hours before you go."

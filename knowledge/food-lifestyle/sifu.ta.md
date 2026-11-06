@@ -9,7 +9,7 @@ lang: "ta"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu என்பது Penang-இன் George Town-இல் Jalan Pintal Tali-இல் உள்ள ஒரு MICHELIN Bib Gourmand Peranakan உணவகம். அதன் சமையலறை பல தசாப்த அனுபவமுள்ள 70 வயதுகளில் உள்ள ஒரு வீட்டுச் சமையற்காரியால் வழிநடத்தப்படுகிறது; சுமார் 40 உணவுகள் கொண்ட மெனு பாரம்பரிய Nyonya சமையலின் கிளாசிக் உணவுகளை உள்ளடக்கியது — அவற்றுள் புளி நிறைந்த இனிப்பு-புளிப்பு சாஸில் ஒரு நெகிழ்வான asam prawn."
-answer: "Sifu என்பது Penang-இன் George Town-இல் 154 Jalan Pintal Tali-இல் உள்ள ஒரு MICHELIN Bib Gourmand Peranakan உணவகம். அதன் சமையலறை பல தசாப்தங்களாகச் சமைத்துவரும் 70 வயதுகளில் உள்ள ஒரு பெண்மணியால் நிர்வகிக்கப்படுகிறது; மெனு பாரம்பரிய Peranakan (Nyonya) சமையலின் சுமார் 40 à la carte கிளாசிக் உணவுகளை வழங்குகிறது. சிக்னேச்சர்களுள் கரும், புளி நிறைந்த இனிப்பு-புளிப்பு சாஸில் நெகிழ்வான asam prawn மற்றும் mang kuang char — காய்ந்த கணவாய் மற்றும் காளானுடன் வதக்கிய நறுக்கிய மாக்காய் (yam bean) — அடங்கும். MICHELIN இதை $$ வரம்பில் வைக்கிறது."
+answer: "Sifu என்பது Penang-இன் George Town-இல் 154 Jalan Pintal Tali-இல் உள்ள ஒரு MICHELIN Bib Gourmand Peranakan உணவகம். அதன் சமையலறை பல தசாப்தங்களாகச் சமைத்துவரும் 70 வயதுகளில் உள்ள ஒரு பெண்மணியால் நிர்வகிக்கப்படுகிறது; மெனு பாரம்பரிய Peranakan (Nyonya) சமையலின் சுமார் 40 à la carte கிளாசிக் உணவுகளை வழங்குகிறது. சிக்னேச்சர்களுள் கரும், புளி நிறைந்த இனிப்பு-புளிப்பு சாஸில் நெகிழ்வான asam prawn மற்றும் mang kuang char — காய்ந்த கணவாய் மற்றும் காளானுடன் வதக்கிய நறுக்கிய மாக்காய் (yam bean) — அடங்கும். MICHELIN இதை $ வரம்பில் வைக்கிறது."
 keyTakeaways:
   - "Sifu தரமான, மதிப்புமிக்க சமையலுக்காக MICHELIN Bib Gourmand-ஐப் பெற்றுள்ளது."
-  - "இது 154 Jalan Pintal Tali, George Town, Penang-இல் உள்ள ஒரு Peranakan (Nyonya) உணவகம்; MICHELIN $$ விலை வரம்பில்."
+  - "இது 154 Jalan Pintal Tali, George Town, Penang-இல் உள்ள ஒரு Peranakan (Nyonya) உணவகம்; MICHELIN $ விலை வரம்பில்."
   - "சமையலறை பல தசாப்த அனுபவமுள்ள 70 வயதுகளில் உள்ள ஒரு வீட்டுச் சமையற்காரியால் வழிநடத்தப்படுகிறது; சுமார் 40 à la carte கிளாசிக் உணவுகளை வழங்குகிறது."
   - "சிக்னேச்சர் உணவுகளுள் புளி நிறைந்த இனிப்பு-புளிப்பு சாஸில் நெகிழ்வான asam prawn மற்றும் mang kuang char (காய்ந்த கணவாய் மற்றும் காளானுடன் நறுக்கிய மாக்காய்) அடங்கும்."
   - "தன் தளம் வழியாக முன்பதிவு கிடைக்காது என MICHELIN குறிப்பிடுகிறது; எனவே அதற்கேற்பத் திட்டமிடுங்கள்."

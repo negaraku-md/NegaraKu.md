@@ -5,22 +5,21 @@ slug: "sek-yuen"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sek Yuen is a long-running Cantonese restaurant on Jalan Pudu, Kuala Lumpur, open since 1948 and holding a MICHELIN Guide Bib Gourmand. It serves traditional, comforting Cantonese dishes — signatures such as pipa duck and roast suckling pig (ordered two days ahead) — across three adjacent shophouses, the middle one keeping its vintage character. This profile covers the food, the history and how to visit."
 seoTitle: "Sek Yuen, Kuala Lumpur"
-answer: "Sek Yuen is a heritage Cantonese restaurant on Jalan Pudu in Kuala Lumpur, open since 1948 and recognised with a MICHELIN Guide Bib Gourmand for good-value cooking. It serves traditional, comforting Cantonese dishes across three adjacent shophouses — the middle one keeping the most vintage character — and is known for signatures like pipa duck with crispy skin and a roast suckling pig that must be ordered two days ahead. It sits in the $$ price band."
+answer: "Sek Yuen is a heritage Cantonese restaurant on Jalan Pudu in Kuala Lumpur, open since 1948 and recognised with a MICHELIN Guide Bib Gourmand for good-value cooking. It serves traditional, comforting Cantonese dishes across three adjacent shophouses — the middle one keeping the most vintage character — and is known for signatures like pipa duck with crispy skin and a roast suckling pig that must be ordered two days ahead. It sits in the $ price band."
 appliesTo: "Travellers and KL diners seeking old-school Cantonese cooking, and readers following Malaysia's MICHELIN Guide selection and the city's food heritage."
 keyTakeaways:
   - "Sek Yuen is a MICHELIN Guide Bib Gourmand restaurant — good quality, good value cooking — on Jalan Pudu, Kuala Lumpur."
   - "MICHELIN notes it has been a neighbourhood favourite since it opened in 1948, making it one of the city's longest-running Cantonese kitchens."
   - "It now spans three adjacent shophouses on the same street; the middle shop retains the most vintage character."
   - "The menu focuses on traditional, comforting Cantonese dishes; the pipa duck (crispy skin, firm flesh) is a signature, and the roast suckling pig must be ordered two days ahead."
-  - "It is a $$ restaurant with long-serving, warm staff; it manages its own bookings, so contact it directly."
+  - "It is a $ restaurant with long-serving, warm staff; it manages its own bookings, so contact it directly."
 faq:
   - q: "How old is Sek Yuen?"
     a: "The MICHELIN Guide says Sek Yuen has been a neighbourhood favourite since it opened in 1948, which makes it one of Kuala Lumpur's longest-running Cantonese restaurants. Reports of an even earlier, pre-war origin circulate but are not confirmed by the guide."

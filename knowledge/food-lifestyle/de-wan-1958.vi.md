@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 là một nhà hàng Malaysia tại The LINC KL ở Taman U Thant, Kuala Lumpur, gắn liền với đầu bếp nổi tiếng Chef Wan và được MICHELIN Guide công nhận bằng một Bib Gourmand. MICHELIN Guide mô tả những hương vị nhiệt đới đậm đà cùng các món như salad bưởi với má tôm giòn và món nướng bakar bakar."
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 là một nhà hàng Malaysia tại The LINC KL ở Taman U Thant, Kuala Lumpur, gắn liền với đầu bếp nổi tiếng được biết đến là Chef Wan. Nơi đây giữ một MICHELIN Bib Gourmand — giải thưởng mà Guide trao cho chất lượng tốt với giá trị tốt, không phải sao. MICHELIN Guide mô tả một không gian sáng sủa, sống động cùng những hương vị nhiệt đới đậm đà, gợi ý món salad bưởi với má tôm giòn và bakar bakar (thịt hoặc hải sản nướng dùng kèm các loại nước sốt tự làm)."
@@ -22,7 +21,7 @@ keyTakeaways:
   - "Nhà hàng gắn liền với đầu bếp nổi tiếng người Malaysia được biết đến là Chef Wan và phục vụ ẩm thực Malaysia với những hương vị nhiệt đới đậm đà."
   - "MICHELIN Guide gợi ý khởi đầu bằng món salad bưởi với má tôm giòn trong nước trộn kerabu chanh."
   - "Món nổi bật khác là bakar bakar — thịt hoặc hải sản nướng dùng kèm các loại nước sốt tự làm tùy chọn — với khẩu phần rộng rãi, thích hợp để chia sẻ."
-  - "Nơi đây tọa lạc tại The LINC KL ở Taman U Thant, thuộc mức giá $$; tuyển chọn Bib Gourmand được xét lại mỗi năm."
+  - "Nơi đây tọa lạc tại The LINC KL ở Taman U Thant, thuộc mức giá $; tuyển chọn Bib Gourmand được xét lại mỗi năm."
 faq:
   - q: "De. Wan 1958 gắn liền với ai?"
     a: "Nhà hàng gắn liền với đầu bếp nổi tiếng người Malaysia thường được biết đến là Chef Wan. Theo nhiều nguồn tin đã công bố rộng rãi, con số 「1958」 trong tên là năm sinh của vị đầu bếp, dù chi tiết này nên được xác nhận với một nguồn tiểu sử."

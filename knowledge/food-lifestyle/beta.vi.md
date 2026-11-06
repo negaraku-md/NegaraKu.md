@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide phân loại ẩm thực của nhà hàng là Malaysia và Đương đại, trình bày dưới dạng thực đơn 'Tour of Malaysia'."
   - "MICHELIN mô tả đầu bếp tái chế biến các món được ưa chuộng tại địa phương bằng kỹ thuật hiện đại và cách bày biện tỉ mỉ trong một phòng ăn 'mang chất sân khấu'."
   - "Một món thêm đặc trưng được MICHELIN ghi nhận là abalone Lawas rice——gạo gia truyền Sarawak phủ bào ngư."
-  - "Nhà hàng nằm trên Jalan Perak, Kuala Lumpur, được xếp vào nhóm giá $$$; cẩm nang đánh dấu là phù hợp cho một buổi hẹn hò."
+  - "Nhà hàng nằm trên Jalan Perak, Kuala Lumpur, được xếp vào nhóm giá $$; cẩm nang đánh dấu là phù hợp cho một buổi hẹn hò."
 appliesTo: "Du khách, người đam mê ẩm thực và thực khách đang tìm hiểu về fine dining Malaysia được MICHELIN công nhận tại Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

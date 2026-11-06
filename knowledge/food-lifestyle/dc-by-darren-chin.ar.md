@@ -18,7 +18,7 @@ keyTakeaways:
   - "يصنّف MICHELIN Guide مطبخه بأنه فرنسي معاصر، بتأثيرات عالمية ولمسات ماليزية."
   - "بحسب التغطية الثانوية، كان من أوائل المطاعم التي نالت نجمة MICHELIN Star في الدليل الماليزي الافتتاحي وحافظ عليها منذ ذلك الحين."
   - "يقع المطعم في Taman Tun Dr Ismail (TTDI)، كوالالمبور، على ثلاثة طوابق تضم حانات وصالات طعام وغرفة خاصة بطابع Louis XIII."
-  - "يدرجه MICHELIN Guide في أعلى فئة سعرية ($$$$) ويشير إلى عربة أجبان فرنسية وقائمة نبيذ."
+  - "يدرجه MICHELIN Guide في أعلى فئة سعرية ($$) ويشير إلى عربة أجبان فرنسية وقائمة نبيذ."
 appliesTo: "المسافرون وعشّاق الطعام ورواد المطاعم الذين يبحثون عن fine dining الماليزي المعترف به من MICHELIN في كوالالمبور."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

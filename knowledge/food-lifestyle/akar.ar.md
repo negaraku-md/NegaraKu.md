@@ -18,7 +18,7 @@ keyTakeaways:
   - "يصنّف MICHELIN Guide مطبخه بأنه ماليزي ومعاصر، يُقدَّم على هيئة قائمة ثابتة موسمية."
   - "يصف MICHELIN الشيف وهو يعيد صياغة وصفات أوروبية بتأثيرات يابانية وفرنسية وماليزية، مستندًا إلى وقت أمضاه في اليابان وفرنسا."
   - "يقع المطعم في Taman Tun Dr Ismail (TTDI)، كوالالمبور، بصالة طعام حميمة ومطبخ مفتوح."
-  - "يدرجه MICHELIN Guide في فئة السعر $$$ ويصفه بأنه مناسب لتناول الطعام منفردًا."
+  - "يدرجه MICHELIN Guide في فئة السعر $$ ويصفه بأنه مناسب لتناول الطعام منفردًا."
 appliesTo: "المسافرون وعشّاق الطعام ورواد المطاعم الذين يبحثون عن fine dining الماليزي المعترف به من MICHELIN في كوالالمبور."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

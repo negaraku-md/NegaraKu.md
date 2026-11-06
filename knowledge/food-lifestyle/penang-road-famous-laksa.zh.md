@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "5c3beb8e17ed3d1c"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Penang Road Famous Laksa 是槟城乔治市一家面食店，入选 MICHELIN Guide 的 Bib Gourmand 名单，以 assam（酸）laksa 闻名。自 1970 年起以家族秘方经营，它以三种鱼熬制的汤底盛载 lai fun，平衡辣、甜、酸三味，并可加一块去骨沙丁鱼柳。这是一处长年排队的 George Town 老字号。"
 seoTitle: "Penang Road Famous Laksa（Bib Gourmand）"
 answer: "Penang Road Famous Laksa 是位于槟城乔治市 Lebuh Keng Kwee 的一家 Bib Gourmand 面食店。自 1970 年起以家族秘方经营，它售卖招牌酸 laksa：以三种鱼熬制的汤底盛载 lai fun，在辣、甜、酸之间取得平衡，并可加一块去骨沙丁鱼柳。它是 George Town 最有名的街头美食排队店之一。"

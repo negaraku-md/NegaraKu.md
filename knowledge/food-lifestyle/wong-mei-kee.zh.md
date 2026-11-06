@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee 是一个位于吉隆坡 Pudu 的街头美食摊，摘得 MICHELIN Guide 的 Bib Gourmand，以其 siew yok（烧肉）闻名——外皮酥脆、肉质多汁。它每天只在午餐时段营业几个小时，并被标示为「Worth Queueing For」，吸引人们早早前来等候正午出炉的那一批。本篇介绍这道烧肉、排队情形与造访方式。"
 seoTitle: "Wong Mei Kee，吉隆坡"
 answer: "Wong Mei Kee 是一个位于吉隆坡 Pudu 的街头美食摊，获 MICHELIN Guide 颁予 Bib Gourmand，以其 siew yok（烧肉）闻名——外皮酥脆、肉质多汁。它每天只在午餐时段营业几个小时，被标示为「Worth Queueing For」，MICHELIN 建议早到并等候烧肉在正午准时出炉。它是一个平价的 $ 摊位，并自行处理订位。"

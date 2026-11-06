@@ -18,7 +18,7 @@ keyTakeaways:
   - "يصنّف MICHELIN Guide مطبخه بأنه ماليزي ومعاصر، يُقدَّم على هيئة قائمة 'Tour of Malaysia'."
   - "يصف MICHELIN الشيف وهو يعيد صياغة الأطباق المحلية المفضّلة بتقنيات حديثة وتزيين دقيق في صالة طعام 'مسرحية الطابع'."
   - "من الإضافات المميّزة التي يذكرها MICHELIN طبق abalone Lawas rice——أرز ساراواك الموروث مُتوَّج بالأذن البحرية."
-  - "يقع المطعم في Jalan Perak، كوالالمبور، ومُدرَج في فئة السعر $$$؛ ويصفه الدليل بأنه مناسب لأمسية موعد."
+  - "يقع المطعم في Jalan Perak، كوالالمبور، ومُدرَج في فئة السعر $$؛ ويصفه الدليل بأنه مناسب لأمسية موعد."
 appliesTo: "المسافرون وعشّاق الطعام ورواد المطاعم الذين يبحثون عن fine dining الماليزي المعترف به من MICHELIN في كوالالمبور."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

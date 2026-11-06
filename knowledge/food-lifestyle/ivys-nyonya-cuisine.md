@@ -7,17 +7,16 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine is a MICHELIN Bib Gourmand Peranakan restaurant in George Town, Penang, run by a husband-and-wife team for over 15 years — Ivy in the kitchen, her husband front of house. The Guide lists it as Peranakan ($) and points to sharing set menus of best-selling Nyonya dishes such as Kapitan chicken curry and Joo Hoo Char."
 
-summary: "Ivy's Nyonya Cuisine is a MICHELIN Bib Gourmand Peranakan restaurant in George Town, Penang, run by a husband-and-wife team for over 15 years — Ivy in the kitchen, her husband front of house. The Guide lists it as Peranakan ($$) and points to sharing set menus of best-selling Nyonya dishes such as Kapitan chicken curry and Joo Hoo Char."
-
-answer: "Ivy's Nyonya Cuisine is a Peranakan restaurant at 100-104 Jalan Kedah, George Town, Penang, holding a MICHELIN Bib Gourmand for good-value cooking. The MICHELIN Guide lists it as Peranakan in the $$ band and notes it has been run by a husband-and-wife team for over 15 years, with Ivy in the kitchen and her husband waiting tables. It offers sharing set menus of its best-selling dishes, including Kapitan chicken curry and Joo Hoo Char, a stir-fry of mixed vegetables in chilli paste."
+answer: "Ivy's Nyonya Cuisine is a Peranakan restaurant at 100-104 Jalan Kedah, George Town, Penang, holding a MICHELIN Bib Gourmand for good-value cooking. The MICHELIN Guide lists it as Peranakan in the $ band and notes it has been run by a husband-and-wife team for over 15 years, with Ivy in the kitchen and her husband waiting tables. It offers sharing set menus of its best-selling dishes, including Kapitan chicken curry and Joo Hoo Char, a stir-fry of mixed vegetables in chilli paste."
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine is a MICHELIN Bib Gourmand Peranakan restaurant in George Town, Penang, in the $$ price band."
+  - "Ivy's Nyonya Cuisine is a MICHELIN Bib Gourmand Peranakan restaurant in George Town, Penang, in the $ price band."
   - "It has been run by a husband-and-wife team for over 15 years — Ivy helms the kitchen, her husband waits tables."
   - "MICHELIN highlights Kapitan chicken curry and Joo Hoo Char (spicy stir-fried mixed vegetables in chilli paste)."
   - "The Guide recommends its sharing set menus, built around the restaurant's best-selling Nyonya dishes."

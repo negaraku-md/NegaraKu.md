@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles 是一家位于吉隆坡市中心 Jalan Sultan（苏丹街）的中式面食专门店，获 MICHELIN Guide 颁予 Bib Gourmand，肯定其物有所值的烹调。招牌是 lala（蛤蜊）bihun 配虾，汤头以中国黄酒和姜增香。"
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles 是吉隆坡 Jalan Sultan 上的一家面食摊，持有 MICHELIN Bib Gourmand——这是 Guide 颁给优质又物有所值者的奖项。招牌菜是 lala（蛤蜊）bihun 配虾，MICHELIN Guide 形容其汤头以中国黄酒和姜增香。它从街边摊发展成占两层楼的转角店铺，位列 Guide 最低的（$）价位区间。"

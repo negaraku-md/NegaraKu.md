@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa என்பது பினாங்கு, ஜார்ஜ் டவுனில் உள்ள ஒரு MICHELIN Bib Gourmand தெரு உணவுக் கடை ஆகும். புளி (அசம்) மற்றும் மீன் கொண்டு தயாரிக்கப்படும் இனிப்பு-புளிப்பு-காரச் சுவை கொண்ட assam laksa-வை, சுமார் 50 ஆண்டுகள் பழமையான குடும்ப செய்முறையின்படி இப்போது மூன்றாம் தலைமுறையினர் சமைக்கிறார்கள். இந்தத் தொகுப்பு அதன் MICHELIN அங்கீகாரம், சிறப்பு உணவு, இடம் மற்றும் செல்லும் முறையை உள்ளடக்கியது."
 seoTitle: "Wan Dao Tou Assam Laksa: பினாங்கு Bib Gourmand"
 answer: "Wan Dao Tou Assam Laksa என்பது MICHELIN Guide Kuala Lumpur & Penang தேர்வில் MICHELIN Bib Gourmand ஆக பட்டியலிடப்பட்டுள்ள ஒரு பினாங்கு தெரு உணவுக் கடை. இது assam laksa-வை வழங்குகிறது — புளியால் புளிப்பேற்றப்பட்ட மத்தி மீன் குழம்பை தடிமனான அரிசி நூடுல்ஸ் மீது ஊற்றி, வெள்ளரி, சின்ன வெங்காயம், அன்னாசி சேர்த்தது — சுமார் 50 ஆண்டு பழமையான குடும்ப செய்முறையின்படி, இப்போது மூன்றாம் தலைமுறையினர் சமைக்கிறார்கள். இது 1 Jalan Gottlieb, ஜார்ஜ் டவுனில் உள்ளது."

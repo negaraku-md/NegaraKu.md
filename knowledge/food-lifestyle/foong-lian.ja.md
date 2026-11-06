@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian はクアラルンプールの Pudu、Jalan Yew にある広東料理の食堂で、MICHELIN Guide の Bib Gourmand を獲得し、1986年から炭火で炊く claypot rice を供しています。「Worth Queueing For」のタグが付き、保存肉や鶏もも、塩漬け魚をのせた claypot rice、さらにスープや軽食で地元の人に愛されています。本稿では、その料理、空間、そして訪れ方を紹介します。"
 seoTitle: "Foong Lian、クアラルンプール"
 answer: "Foong Lian はクアラルンプールの Pudu、Jalan Yew にある広東料理の食堂で、コストパフォーマンスの高い料理に対して MICHELIN Guide の Bib Gourmand を獲得しています。1986年から炭火で claypot rice を炊き、火加減を丁寧に見極め、保存肉（豚と豚レバーのソーセージ）、鶏もも、塩漬け魚などの具をのせます。スープや湯葉巻きといった軽食もあります。安価な $ の店で、「Worth Queueing For」のタグが付き、予約は店が直接受け付けています。"

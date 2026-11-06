@@ -6,21 +6,20 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "11e34aa70bab1b92"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's ialah sebuah restoran Timur Tengah di Taman Tun Dr Ismail, Kuala Lumpur, yang menyandang Bib Gourmand MICHELIN Guide bagi masakan berbaloi. Dibuka oleh seorang cef Syria yang bermula dengan hidangan hantar ke rumah, ia terkenal dengan smoked hummus bersalut minyak cili bakar dan kebab khashkhash daging kambing. Profil ini merangkumi makanannya, suasana dan cara melawat."
 seoTitle: "Leen's, Kuala Lumpur"
-answer: "Leen's ialah sebuah restoran Timur Tengah di Taman Tun Dr Ismail (TTDI), Kuala Lumpur, yang diiktiraf dengan Bib Gourmand MICHELIN Guide — tanda panduan ini bagi masakan berkualiti baik pada harga berbaloi. Dibuka oleh seorang cef Syria yang bermula dengan menghantar hidangan masakan rumah, ia terkenal dengan smoked hummus bersalut minyak cili bakar dan dengan kebab khashkhash, pencucuk daging kambing dalam sos biji popi yang pedas. Ia berada dalam julat harga $$ dan menguruskan tempahannya sendiri."
+answer: "Leen's ialah sebuah restoran Timur Tengah di Taman Tun Dr Ismail (TTDI), Kuala Lumpur, yang diiktiraf dengan Bib Gourmand MICHELIN Guide — tanda panduan ini bagi masakan berkualiti baik pada harga berbaloi. Dibuka oleh seorang cef Syria yang bermula dengan menghantar hidangan masakan rumah, ia terkenal dengan smoked hummus bersalut minyak cili bakar dan dengan kebab khashkhash, pencucuk daging kambing dalam sos biji popi yang pedas. Ia berada dalam julat harga $ dan menguruskan tempahannya sendiri."
 appliesTo: "Pengembara dan pengunjung di KL yang mencari restoran Timur Tengah yang bereputasi baik dan berbaloi, serta pembaca yang mengikuti pilihan MICHELIN Guide Malaysia."
 keyTakeaways:
   - "Leen's ialah sebuah restoran Bib Gourmand MICHELIN Guide — pengiktirafan panduan ini bagi masakan berkualiti baik dan berbaloi — di Taman Tun Dr Ismail, Kuala Lumpur."
   - "Masakannya ialah masakan Timur Tengah, dibuka oleh seorang cef Syria yang bermula dengan menghantar hidangan masakan rumah sebelum membuka kedai fizikalnya."
   - "MICHELIN menyerlahkan smoked hummus bersalut minyak cili bakar (sedikit pedas dan sangat berasap) serta kebab khashkhash, pencucuk daging kambing dalam sos biji popi yang tajam dan pedas."
-  - "Ia sebuah restoran $$, sesuai untuk kumpulan, dengan aroma roti bakar segar memenuhi ruang."
+  - "Ia sebuah restoran $, sesuai untuk kumpulan, dengan aroma roti bakar segar memenuhi ruang."
   - "Restoran ini menguruskan tempahannya sendiri, jadi hubungi mereka secara terus; ia terletak di 1F, 136A Jalan Burhanuddin Helmi, TTDI."
 faq:
   - q: "Di manakah Leen's dan apakah jenis makanan yang dihidangkannya?"

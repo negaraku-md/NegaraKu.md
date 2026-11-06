@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Taman Bukit Curry Mee كشك طعام شارع حائز على MICHELIN Bib Gourmand في بوكيت ميرتاجام، سيبيرانغ بيراي (بر بينانغ)، يُعتزّ به لطبق curry mee الممتدّ عبر عقود، بمرق كريميّ من حليب جوز الهند والكاري مع محار نصف مطهوّ. يغطي هذا الملف تقدير MICHELIN وطبقه المميّز وموقعه وكيفية زيارته."
 seoTitle: "Taman Bukit Curry Mee: بيب غورماند بينانغ"
 answer: "‏Taman Bukit Curry Mee كشك طعام شارع في بر بينانغ مُدرج بوصفه MICHELIN Bib Gourmand ضمن اختيار MICHELIN Guide Kuala Lumpur & Penang. يشتهر بطبق curry mee — نودلز في مرق كريميّ من حليب جوز الهند ومعجون الكاري، يُزيّن بمحار نصف مطهوّ — يُباع منذ عقود من ساحة طعام منزوية. يقع في Jalan Bukit Kecil، Taman Bukit، بوكيت ميرتاجام، سيبيرانغ بيراي."

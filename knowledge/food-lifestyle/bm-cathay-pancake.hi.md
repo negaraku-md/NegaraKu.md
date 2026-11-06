@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake पेनांग की मुख्य भूमि पर सेबरांग पेराई के बुकित मेरताजम में एक MICHELIN Bib Gourmand स्ट्रीट-फ़ूड ठेला है। 1962 से यह केवल एक व्यंजन बेचता है — apam balik, कोयले पर सिका एक पैनकेक जिसमें चीनी-और-मूँगफली की भरावन होती है, बाहर से कुरकुरा और भीतर से चबाने वाला — और व्यस्त समय में क़तारें लगती हैं।"
 seoTitle: "BM Cathay Pancake: पेनांग Bib Gourmand apam balik"
 answer: "BM Cathay Pancake पेनांग की मुख्य भूमि पर सेबरांग पेराई के बुकित मेरताजम में Jalan Aston पर Cathay Food Court के बग़ल में एक Bib Gourmand स्ट्रीट-फ़ूड ठेला है। 1962 से यह केवल एक व्यंजन परोसता है: apam balik, चीनी और मूँगफली से भरा कोयले पर सिका पैनकेक, बाहर से कुरकुरा और भीतर से चबाने वाला, ऑर्डर पर बनाया जाता है। यह केवल नक़द लेता है और क़तार में लगने लायक़ है।"

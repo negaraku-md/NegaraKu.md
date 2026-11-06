@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee कुआलालंपुर के Pudu में एक स्ट्रीट-फ़ूड स्टॉल है, जो MICHELIN Guide का Bib Gourmand धारण करता है और अपने siew yok के लिए मशहूर है — कुरकुरी त्वचा और रसीले मांस वाला भुना सूअर। यह दोपहर में सिर्फ़ कुछ घंटे खुलता है और 'Worth Queueing For' टैग किया गया है, जो दोपहर के बैच के लिए जल्दी आने वाली भीड़ को खींचता है। यह प्रोफ़ाइल इस भुने सूअर, क़तार और वहाँ जाने के तरीके को शामिल करती है।"
 seoTitle: "Wong Mei Kee, कुआलालंपुर"
 answer: "Wong Mei Kee कुआलालंपुर के Pudu में एक स्ट्रीट-फ़ूड स्टॉल है, जिसे MICHELIN Guide के Bib Gourmand से मान्यता मिली है और जो अपने siew yok के लिए मशहूर है — कुरकुरी त्वचा और रसीले मांस वाला भुना सूअर। यह दोपहर में सिर्फ़ कुछ घंटे खुलता है, 'Worth Queueing For' टैग किया गया है, और MICHELIN सलाह देता है कि जल्दी पहुँचें और ठीक दोपहर को भुना सूअर ओवन से निकलने का इंतज़ार करें। यह एक सस्ता $ स्टॉल है और अपनी बुकिंग खुद संभालता है।"

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle เป็นแผงอาหารริมทางระดับ MICHELIN Bib Gourmand บน Lebuh Pantai ในจอร์จทาวน์ ปีนัง ขึ้นชื่อด้าน prawn mee: เส้นเหลืองหรือเส้นก๋วยเตี๋ยวในน้ำซุปกุ้งเผ็ดรสจัดจ้าน พร้อมของเพิ่มเช่นซี่โครงหมูตุ๋นและลูกชิ้นปลา"
 seoTitle: "Bridge Street Prawn Noodle: Bib Gourmand ปีนัง"
 answer: "Bridge Street Prawn Noodle เป็นแผงอาหารริมทางระดับ Bib Gourmand ที่ 533 Lebuh Pantai จอร์จทาวน์ ปีนัง เมนูเด่นคือ prawn mee (ก๋วยเตี๋ยวกุ้งน้ำ): ลูกค้าเลือกเส้นเหลืองหรือเส้นก๋วยเตี๋ยวในน้ำซุปกุ้งเผ็ดที่อัดแน่นด้วยรสชาติ และเพิ่มซี่โครงหมูตุ๋นหรือลูกชิ้นปลาได้ รับเฉพาะเงินสดและดึงดูดคนต่อแถวนับตั้งแต่ได้รับการยอมรับจาก MICHELIN"

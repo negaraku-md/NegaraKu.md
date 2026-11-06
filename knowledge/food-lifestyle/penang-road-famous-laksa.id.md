@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "5c3beb8e17ed3d1c"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Penang Road Famous Laksa adalah kedai mi di George Town, Penang, yang masuk dalam seleksi Bib Gourmand MICHELIN Guide, terkenal dengan assam (asam) laksa. Beroperasi sejak 1970 dengan resep keluarga, kedai ini menyajikan mi lai fun dalam kaldu yang dibuat dari tiga jenis ikan, menyeimbangkan rasa pedas, manis, dan asam, dengan tambahan fillet sarden tanpa tulang. Ini institusi George Town yang antreannya panjang."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa adalah kedai mi Bib Gourmand di Lebuh Keng Kwee, George Town, Penang. Beroperasi sejak 1970 dengan resep keluarga, kedai ini menyajikan laksa asam andalannya: mi lai fun dalam kaldu yang dibuat dari tiga jenis ikan, seimbang antara rasa pedas, manis, dan asam, dengan tambahan fillet sarden tanpa tulang. Ini salah satu antrean makanan kaki lima paling terkenal di George Town."

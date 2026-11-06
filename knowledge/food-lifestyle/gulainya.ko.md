@@ -7,21 +7,20 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "508e444c18b01819"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya는 쿠알라룸푸르 Bukit Damansara에 있는 Peranakan 레스토랑으로, 가성비 좋은 요리로 MICHELIN Guide의 Bib Gourmand에 선정되었습니다. MICHELIN Guide는 주인이 다듬은 가족 레시피를 바탕으로 한 가정식 요리와 주인이 직접 만드는 소스, 그리고 대표 메뉴인 크리미 바질 뼈 없는 치킨을 소개합니다."
 seoTitle: "Gulainya"
-answer: "Gulainya는 쿠알라룸푸르 Bukit Damansara의 Plaza Damansara에 있는 Peranakan 레스토랑으로, MICHELIN Bib Gourmand를 보유하고 있습니다——이는 별이 아니라 좋은 품질을 합리적인 가격에 제공하는 곳에 Guide가 주는 상입니다. MICHELIN Guide는 주인의 가족 레시피를 바탕으로 다듬고 새롭게 한 가정식 요리와 주인이 직접 만드는 소스를 소개하며, 크리미 바질 뼈 없는 치킨을 대표 메뉴로 꼽습니다. 가격대는 $$입니다."
+answer: "Gulainya는 쿠알라룸푸르 Bukit Damansara의 Plaza Damansara에 있는 Peranakan 레스토랑으로, MICHELIN Bib Gourmand를 보유하고 있습니다——이는 별이 아니라 좋은 품질을 합리적인 가격에 제공하는 곳에 Guide가 주는 상입니다. MICHELIN Guide는 주인의 가족 레시피를 바탕으로 다듬고 새롭게 한 가정식 요리와 주인이 직접 만드는 소스를 소개하며, 크리미 바질 뼈 없는 치킨을 대표 메뉴로 꼽습니다. 가격대는 $입니다."
 appliesTo: "쿠알라룸푸르에서 MICHELIN Bib Gourmand Peranakan 식사를 찾는 식도락가, 음식 여행자, 그리고 모든 분."
 keyTakeaways:
   - "Gulainya는 현재의 MICHELIN Guide Kuala Lumpur & Penang 선정에서 MICHELIN Bib Gourmand를 보유하고 있습니다——이는 별이 아니라 Guide의 '좋은 품질, 좋은 가치' 상입니다."
   - "MICHELIN의 보도는 이곳을 말레이시아 선정에 새로 추가된 Bib Gourmand 중 하나로, 쿠알라룸푸르의 Lama와 함께 꼽습니다."
   - "MICHELIN Guide는 주인의 가족 레시피를 바탕으로 다듬고 새롭게 하며 주인이 직접 만드는 소스를 곁들인 가정식 Peranakan 요리를 소개합니다."
-  - "대표 메뉴는 크리미 바질 뼈 없는 치킨이며, 레스토랑은 Bukit Damansara의 Plaza Damansara에 있고 가격대는 $$입니다."
+  - "대표 메뉴는 크리미 바질 뼈 없는 치킨이며, 레스토랑은 Bukit Damansara의 Plaza Damansara에 있고 가격대는 $입니다."
   - "Bib Gourmand 선정은 매년 개정되며, 레스토랑의 영업시간·가격·메뉴는 바뀔 수 있습니다."
 faq:
   - q: "Gulainya는 어떤 음식을 제공하나요?"
@@ -29,7 +28,7 @@ faq:
   - q: "Gulainya에 MICHELIN 별이 있나요?"
     a: "아니요. Bib Gourmand를 보유하고 있으며, 이는 MICHELIN Guide가 좋은 품질을 합리적인 가격에 제공하는 곳에 주는 것으로, 1·2·3스타 등급과는 다릅니다. 둘은 별개의 MICHELIN 영예입니다."
   - q: "Gulainya는 어디에 있나요?"
-    a: "MICHELIN Guide는 이곳을 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, 가격대 $$로 등재하고 있습니다. 월요일 휴무로 표시되어 있으니, 방문 전 현재 영업시간을 확인하세요."
+    a: "MICHELIN Guide는 이곳을 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, 가격대 $로 등재하고 있습니다. 월요일 휴무로 표시되어 있으니, 방문 전 현재 영업시간을 확인하세요."
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

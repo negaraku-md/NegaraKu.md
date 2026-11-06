@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor は、クアラルンプールの Jalan Ampang から少し入ったところにある北インド料理店で、コストパフォーマンスのよい美味しい料理を称える Bib Gourmand として MICHELIN Guide に掲載されている。住宅街の一軒家に入り、1990 年にマレーシアで開業した d'Tandoor ブランドの一員で、家族のレシピを土台にした心温まる上質なインド料理の数々を供し、MICHELIN はバターチキン・マサラ、柔らかくもちもちのナン、クルフィ（アイスクリーム）などを選んでいる。$$ の価格帯に位置し、家族連れや屋外での食事にも向く。"
+answer: "Roti by d'Tandoor は、クアラルンプールの Jalan Ampang から少し入ったところにある北インド料理店で、コストパフォーマンスのよい美味しい料理を称える Bib Gourmand として MICHELIN Guide に掲載されている。住宅街の一軒家に入り、1990 年にマレーシアで開業した d'Tandoor ブランドの一員で、家族のレシピを土台にした心温まる上質なインド料理の数々を供し、MICHELIN はバターチキン・マサラ、柔らかくもちもちのナン、クルフィ（アイスクリーム）などを選んでいる。$ の価格帯に位置し、家族連れや屋外での食事にも向く。"
 keyTakeaways:
   - "Roti by d'Tandoor はクアラルンプールで MICHELIN Guide の Bib Gourmand——コストパフォーマンスのよい良質な料理に贈られる評価——を獲得している。"
   - "Jalan Ampang から少し入った一軒家で、家族のレシピとハーブ・スパイスの配合を土台にした北インド料理を供する。"
   - "MICHELIN はバターチキン・マサラ、柔らかくもちもちのナン、数種の味がそろうクルフィ（アイスクリーム）を取り上げている。"
   - "これは d'Tandoor ブランドの一員で、MICHELIN によれば同ブランドは 1990 年にマレーシアで開業した。"
-  - "82 Jalan Damai（Jalan Ampang から少し入ったところ）にあり、$$ の価格帯で、屋外席と家族連れ向きの雰囲気を備える。"
+  - "82 Jalan Damai（Jalan Ampang から少し入ったところ）にあり、$ の価格帯で、屋外席と家族連れ向きの雰囲気を備える。"
 appliesTo: "クアラルンプールで、手頃で MICHELIN に認められた北インド料理を探している旅行者や食事客。"
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide จัดอาหารของร้านเป็นแบบสร้างสรรค์ (Innovative) ผสานอิทธิพลฝรั่งเศส นอร์ดิก และเอเชีย"
   - "ร้านตั้งอยู่บนชั้น 51 ของ THE FACE Style พร้อมวิวพาโนรามาของเส้นขอบฟ้ากัวลาลัมเปอร์"
   - "การรายงานทุติยภูมิเชื่อมโยงร้านกับเชฟชาวดัตช์ Sidney Schutte โดยมี Guillaume Depoortere ถูกระบุเป็นหัวหน้าเชฟ ร้านได้ Star ไม่นานหลังเปิด"
-  - "MICHELIN Guide จัดร้านไว้ในช่วงราคาสูงสุด ($$$$) และระบุว่าเหมาะกับค่ำคืนเดต"
+  - "MICHELIN Guide จัดร้านไว้ในช่วงราคาสูงสุด ($$) และระบุว่าเหมาะกับค่ำคืนเดต"
 appliesTo: "นักเดินทาง ผู้หลงใหลในอาหาร และผู้ที่ไปรับประทานอาหาร ซึ่งกำลังค้นคว้าเกี่ยวกับไฟน์ไดนิงมาเลเซียที่ได้รับการยอมรับจาก MICHELIN ในกัวลาลัมเปอร์"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "0c28bdfa62ec9779"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Molina — MICHELIN Guide Kuala Lumpur"

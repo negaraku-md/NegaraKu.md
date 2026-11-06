@@ -7,17 +7,16 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 contentType: "place"
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn is a MICHELIN Bib Gourmand restaurant on Lebuh Presgrave in George Town, Penang, serving a small à la carte menu of modern dishes that meld Peranakan and Malaysian cooking. Built around an open kitchen and a long counter, it is listed as Malaysian ($); its signature is an aged duck breast in a steamed bun."
 
-summary: "Communal Table by Gēn is a MICHELIN Bib Gourmand restaurant on Lebuh Presgrave in George Town, Penang, serving a small à la carte menu of modern dishes that meld Peranakan and Malaysian cooking. Built around an open kitchen and a long counter, it is listed as Malaysian ($$); its signature is an aged duck breast in a steamed bun."
-
-answer: "Communal Table by Gēn is a modern-Malaysian restaurant at 68 Lebuh Presgrave, George Town, Penang, holding a MICHELIN Bib Gourmand for good-value cooking. The MICHELIN Guide lists it as Malaysian in the $$ band and describes a casual room with an open kitchen, a long counter and floor-to-ceiling windows, serving a small à la carte dinner menu of modern dishes that meld Peranakan and Malaysian cuisines with local ingredients. Its signature is an aged duck breast in a steamed bun with crispy skin and a 'secret sauce.'"
+answer: "Communal Table by Gēn is a modern-Malaysian restaurant at 68 Lebuh Presgrave, George Town, Penang, holding a MICHELIN Bib Gourmand for good-value cooking. The MICHELIN Guide lists it as Malaysian in the $ band and describes a casual room with an open kitchen, a long counter and floor-to-ceiling windows, serving a small à la carte dinner menu of modern dishes that meld Peranakan and Malaysian cuisines with local ingredients. Its signature is an aged duck breast in a steamed bun with crispy skin and a 'secret sauce.'"
 keyTakeaways:
-  - "Communal Table by Gēn is a MICHELIN Bib Gourmand restaurant in George Town, Penang, listed as Malaysian in the $$ band."
+  - "Communal Table by Gēn is a MICHELIN Bib Gourmand restaurant in George Town, Penang, listed as Malaysian in the $ band."
   - "The kitchen serves a small à la carte menu of modern dishes that blend Peranakan and Malaysian cooking with local ingredients."
   - "MICHELIN's signature pick is an aged duck breast in a steamed bun — crispy skin and a 'secret sauce.'"
   - "The room is built around an open kitchen, a long counter table and floor-to-ceiling windows — a counter-dining experience."

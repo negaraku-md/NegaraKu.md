@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide จัดอาหารของร้านเป็นแบบมาเลเซียและร่วมสมัย เสิร์ฟเป็นเซ็ตเมนูตามฤดูกาล"
   - "MICHELIN อธิบายว่าเชฟรังสรรค์สูตรยุโรปขึ้นใหม่ด้วยอิทธิพลญี่ปุ่น ฝรั่งเศส และมาเลเซีย โดยดึงจากช่วงเวลาที่ใช้ในญี่ปุ่นและฝรั่งเศส"
   - "ร้านอยู่ใน Taman Tun Dr Ismail (TTDI), กัวลาลัมเปอร์ มีห้องรับประทานอาหารที่อบอุ่นเป็นกันเองและครัวแบบเปิด"
-  - "MICHELIN Guide จัดร้านไว้ในช่วงราคา $$$ และระบุว่าเหมาะกับการรับประทานคนเดียว"
+  - "MICHELIN Guide จัดร้านไว้ในช่วงราคา $$ และระบุว่าเหมาะกับการรับประทานคนเดียว"
 appliesTo: "นักเดินทาง ผู้หลงใหลในอาหาร และผู้ที่ไปรับประทานอาหาร ซึ่งกำลังค้นคว้าเกี่ยวกับไฟน์ไดนิงมาเลเซียที่ได้รับการยอมรับจาก MICHELIN ในกัวลาลัมเปอร์"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "371d371355f5bfc2"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Lemon Koay Teow Soup เป็นร้านสตรีทฟู้ดใน Butterworth, Seberang Perai ฝั่งแผ่นดินใหญ่ของปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide เสิร์ฟ koay teow th'ng — เส้นก๋วยเตี๋ยวแบนในน้ำซุปกระดูกหมูที่ทำสดใหม่ — พร้อมก้อนหมูสับมือ และน้ำมะนาวคั้นสดวางไว้บนโต๊ะเพื่อเพิ่มความสดชื่นของรสชาติ เป็นอาหารเช้ายอดนิยมของคนท้องถิ่น"
 seoTitle: "Lemon Koay Teow Soup, ปีนัง (Bib Gourmand)"
 answer: "Lemon Koay Teow Soup เป็นร้านสตรีทฟู้ดระดับ Bib Gourmand ใน Butterworth, Seberang Perai ฝั่งแผ่นดินใหญ่ของปีนัง เสิร์ฟ koay teow soup — เส้นก๋วยเตี๋ยวแบนเนียนลื่นในน้ำซุปกระดูกหมูรสอูมามิที่ทำสดใหม่ทุกวัน — ปิดท้ายด้วยก้อนหมูสับมือ โดยมีน้ำมะนาวคั้นสดวางไว้ที่โต๊ะเพื่อยกรสชาติ เป็นอาหารเช้ายอดนิยมของคนท้องถิ่น"

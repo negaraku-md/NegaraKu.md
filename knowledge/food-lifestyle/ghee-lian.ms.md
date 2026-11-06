@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian ialah gerai makanan jalanan MICHELIN Bib Gourmand di George Town, Pulau Pinang, di medan selera Medan Renong, terkenal dengan hidangan mi green tom yum yang luar biasa di samping sup mi dan mi goreng. Profil ini merangkumi pengiktirafan MICHELIN, mangkuk istimewanya, lokasi dan cara melawatnya."
 seoTitle: "Ghee Lian: Makanan Jalanan Bib Gourmand Pulau Pinang"
 answer: "Ghee Lian ialah gerai makanan jalanan di Pulau Pinang yang disenaraikan sebagai MICHELIN Bib Gourmand dalam pemilihan MICHELIN Guide Kuala Lumpur & Penang. Hidangan istimewanya ialah mi green tom yum yang luar biasa — yang dipuji MICHELIN kerana keseimbangan masam dan pedasnya — dihidangkan bersama sup mi dan mi goreng. Ia terletak di medan selera Medan Renong, Jalan Tun Syed Sheh Barakhbah, George Town."

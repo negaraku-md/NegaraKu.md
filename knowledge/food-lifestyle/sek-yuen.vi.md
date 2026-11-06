@@ -6,22 +6,21 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "28fd4ae0db39f542"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sek Yuen là một nhà hàng Quảng Đông lâu đời trên Jalan Pudu, Kuala Lumpur, mở cửa từ năm 1948 và nắm giữ Bib Gourmand của MICHELIN Guide. Nơi đây phục vụ các món Quảng Đông truyền thống, ấm lòng — những món đặc trưng như pipa duck và heo sữa quay (đặt trước hai ngày) — trải khắp ba căn nhà phố liền kề, căn ở giữa giữ được nét cổ kính. Bài viết này giới thiệu món ăn, lịch sử và cách ghé thăm."
 seoTitle: "Sek Yuen, Kuala Lumpur"
-answer: "Sek Yuen là một nhà hàng Quảng Đông di sản trên Jalan Pudu ở Kuala Lumpur, mở cửa từ năm 1948 và được công nhận bằng Bib Gourmand của MICHELIN Guide cho lối nấu ăn đáng đồng tiền. Nơi đây phục vụ các món Quảng Đông truyền thống, ấm lòng trải khắp ba căn nhà phố liền kề — căn ở giữa giữ được nhiều nét cổ kính nhất — và nổi tiếng với các món đặc trưng như pipa duck da giòn và heo sữa quay phải đặt trước hai ngày. Nhà hàng thuộc phân khúc giá $$."
+answer: "Sek Yuen là một nhà hàng Quảng Đông di sản trên Jalan Pudu ở Kuala Lumpur, mở cửa từ năm 1948 và được công nhận bằng Bib Gourmand của MICHELIN Guide cho lối nấu ăn đáng đồng tiền. Nơi đây phục vụ các món Quảng Đông truyền thống, ấm lòng trải khắp ba căn nhà phố liền kề — căn ở giữa giữ được nhiều nét cổ kính nhất — và nổi tiếng với các món đặc trưng như pipa duck da giòn và heo sữa quay phải đặt trước hai ngày. Nhà hàng thuộc phân khúc giá $."
 appliesTo: "Du khách và thực khách ở KL tìm kiếm lối nấu ăn Quảng Đông kiểu cũ, cùng những độc giả theo dõi tuyển chọn MICHELIN Guide của Malaysia và di sản ẩm thực của thành phố."
 keyTakeaways:
   - "Sek Yuen là một nhà hàng Bib Gourmand của MICHELIN Guide — lối nấu ăn chất lượng tốt, đáng đồng tiền — trên Jalan Pudu, Kuala Lumpur."
   - "MICHELIN ghi nhận nơi đây là chốn yêu thích của khu phố kể từ khi mở cửa năm 1948, khiến nó trở thành một trong những bếp Quảng Đông hoạt động lâu đời nhất thành phố."
   - "Nay nó trải khắp ba căn nhà phố liền kề trên cùng con phố; căn ở giữa giữ được nhiều nét cổ kính nhất."
   - "Thực đơn tập trung vào các món Quảng Đông truyền thống, ấm lòng; pipa duck (da giòn, thịt chắc) là món đặc trưng, còn heo sữa quay phải đặt trước hai ngày."
-  - "Đây là nhà hàng $$ với đội ngũ nhân viên ấm áp, gắn bó lâu năm; nhà hàng tự quản lý việc đặt chỗ, vì vậy hãy liên hệ trực tiếp."
+  - "Đây là nhà hàng $ với đội ngũ nhân viên ấm áp, gắn bó lâu năm; nhà hàng tự quản lý việc đặt chỗ, vì vậy hãy liên hệ trực tiếp."
 faq:
   - q: "Sek Yuen đã tồn tại bao lâu?"
     a: "MICHELIN Guide cho biết Sek Yuen đã là chốn yêu thích của khu phố kể từ khi mở cửa năm 1948, khiến nó trở thành một trong những nhà hàng Quảng Đông hoạt động lâu đời nhất Kuala Lumpur. Có những lời kể về một nguồn gốc còn sớm hơn, trước chiến tranh, nhưng không được cẩm nang xác nhận."

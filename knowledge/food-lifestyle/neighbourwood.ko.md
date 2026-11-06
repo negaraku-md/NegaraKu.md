@@ -9,7 +9,7 @@ lang: "ko"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood는 페낭주의 본토 쪽인 Seberang Perai의 Bukit Mertajam에 있는 MICHELIN Bib Gourmand 식당이다. 인근 주민이 연 편안한 동네 식당으로, 아시아의 영향을 받은 현대 유러피언 요리와 그릴 요리를 내며, 메뉴는 6주마다 바뀌고 자가제 사워도우가 대표 메뉴 중 하나다."
-answer: "Neighbourwood는 페낭주의 본토 쪽인 Seberang Perai의 Bukit Mertajam, 3427 Jalan Kulim에 있는 MICHELIN Bib Gourmand 식당이다. 아시아의 영향을 받은 현대 유러피언 요리를 그릴 요리와 함께 내며, 메뉴는 6주마다 바뀌는 한편 몇몇 대표 메뉴는 그대로 남는다. 황금빛으로 바삭하게 부서지는 자가제 사워도우와 폭넓은 디저트 구성이 돋보인다. MICHELIN은 $$ 가격대로 책정한다."
+answer: "Neighbourwood는 페낭주의 본토 쪽인 Seberang Perai의 Bukit Mertajam, 3427 Jalan Kulim에 있는 MICHELIN Bib Gourmand 식당이다. 아시아의 영향을 받은 현대 유러피언 요리를 그릴 요리와 함께 내며, 메뉴는 6주마다 바뀌는 한편 몇몇 대표 메뉴는 그대로 남는다. 황금빛으로 바삭하게 부서지는 자가제 사워도우와 폭넓은 디저트 구성이 돋보인다. MICHELIN은 $ 가격대로 책정한다."
 keyTakeaways:
   - "Neighbourwood는 질 좋고 가성비 뛰어난 요리에 대한 MICHELIN Bib Gourmand를 보유하고 있다."
-  - "아시아의 영향을 받은 European Contemporary(현대 유러피언) 요리와 그릴 요리를 MICHELIN $$ 가격대에 낸다."
+  - "아시아의 영향을 받은 European Contemporary(현대 유러피언) 요리와 그릴 요리를 MICHELIN $ 가격대에 낸다."
   - "메뉴는 대략 6주마다 바뀌며, 나눠 먹기 좋은 대표 메뉴 몇 가지는 그대로 남는다."
   - "여러 가지 맛의 자가제 사워도우와 열 가지가 넘는 디저트 구성이 돋보이는 메뉴다."
   - "Taman Bukit Mas, Bukit Mertajam, Seberang Perai 3427 Jalan Kulim(14000)에 있다 — 조지타운 섬이 아니라 페낭 본토 쪽이다."

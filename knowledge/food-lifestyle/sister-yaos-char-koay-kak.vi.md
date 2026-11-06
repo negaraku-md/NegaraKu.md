@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak là một quầy ẩm thực đường phố MICHELIN Bib Gourmand trên Lorong Macalister ở George Town, Penang, phục vụ char koay kak: bánh gạo chiên với wok hei tốt, nước tương, giá đỗ, trứng và ớt. Món Teochew này do cha của các chị em bắt đầu năm 1963 và nay do ba người con gái điều hành."
 seoTitle: "Sister Yao's Char Koay Kak: Bib Gourmand Penang"
 answer: "Sister Yao's Char Koay Kak là một quầy ẩm thực đường phố Bib Gourmand tại 96 Lorong Macalister, George Town, Penang. Món duy nhất là char koay kak, một món bánh gạo chiên kiểu Teochew nấu với wok hei khói, nước tương, giá đỗ, trứng và ớt, thêm nước sốt cay theo yêu cầu. Do cha của các chị em bắt đầu năm 1963, nay do ba người con gái điều hành. Chỉ nhận tiền mặt."

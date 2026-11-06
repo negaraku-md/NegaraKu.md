@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "5c3beb8e17ed3d1c"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Penang Road Famous Laksa est une échoppe de nouilles à George Town, Penang, retenue dans la sélection Bib Gourmand du MICHELIN Guide, réputée pour son assam (laksa aigre). En activité depuis 1970 selon une recette familiale, elle sert des nouilles lai fun dans un bouillon fait de trois types de poisson, équilibrant les notes piquante, sucrée et acidulée, avec un filet de sardine désarêté en supplément. C'est une institution de George Town aux longues files."
 seoTitle: "Penang Road Famous Laksa (Bib Gourmand)"
 answer: "Penang Road Famous Laksa est une échoppe de nouilles Bib Gourmand sur Lebuh Keng Kwee à George Town, Penang. En activité depuis 1970 selon une recette familiale, elle sert son laksa aigre emblématique : des nouilles lai fun dans un bouillon fait de trois types de poisson, équilibré entre les notes piquante, sucrée et acidulée, avec un filet de sardine désarêté en supplément. C'est l'une des files de cuisine de rue les plus célèbres de George Town."

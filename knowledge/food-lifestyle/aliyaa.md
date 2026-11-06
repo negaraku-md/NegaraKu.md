@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Aliyaa is a Sri Lankan restaurant in Bukit Damansara, Kuala Lumpur, recognised by the MICHELIN Guide with a Bib Gourmand for good-value cooking. The MICHELIN Guide notes signature dishes including a whole crab, Negombo prawns in pineapple gravy and kuliyal, with heat adjusted to the diner's request."
 seoTitle: "Aliyaa"
 answer: "Aliyaa is a Sri Lankan restaurant in Plaza Damansara, Bukit Damansara, Kuala Lumpur, that holds a MICHELIN Bib Gourmand — the Guide's award for good quality at good value, not a star. The MICHELIN Guide praises its authentic Sri Lankan cooking and highlights dishes such as a whole crab, Negombo prawns in pineapple gravy and kuliyal, adding that the kitchen will adjust the heat to a diner's liking."
@@ -20,7 +19,7 @@ keyTakeaways:
   - "Aliyaa carries a MICHELIN Bib Gourmand — the Guide's 'good quality, good value' award, not a star — in the current MICHELIN Guide Kuala Lumpur & Penang selection."
   - "The MICHELIN Guide describes it as serving authentic Sri Lankan cooking, a comparatively rare cuisine on the Kuala Lumpur dining scene."
   - "The MICHELIN Guide highlights signature dishes including a whole crab, Negombo prawns in pineapple gravy and kuliyal (rice baked in banana leaf)."
-  - "It is in Plaza Damansara, Bukit Damansara, in the $$ price band, and the kitchen adjusts the spice level on request."
+  - "It is in Plaza Damansara, Bukit Damansara, in the $ price band, and the kitchen adjusts the spice level on request."
   - "The Bib Gourmand selection is revised every year, and restaurant hours, prices and menus can change."
 faq:
   - q: "What kind of food does Aliyaa serve?"
@@ -28,7 +27,7 @@ faq:
   - q: "Does Aliyaa have a MICHELIN star?"
     a: "No. It holds a Bib Gourmand, which the MICHELIN Guide awards for good quality at good value, rather than a one-, two- or three-star rating. The two are separate MICHELIN distinctions."
   - q: "Where is Aliyaa?"
-    a: "The MICHELIN Guide lists it at 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur, in the $$ price band. Confirm current hours and reservation policy directly."
+    a: "The MICHELIN Guide lists it at 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur, in the $ price band. Confirm current hours and reservation policy directly."
 keywords:
   - "Aliyaa"
   - "Sri Lankan restaurant Kuala Lumpur"

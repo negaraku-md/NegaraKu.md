@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958은 쿠알라룸푸르 Taman U Thant의 The LINC KL에 자리한 말레이시아 레스토랑으로, 유명 셰프 Chef Wan과 관련이 있으며 MICHELIN Guide로부터 Bib Gourmand를 받아 인정받았습니다. MICHELIN Guide는 대담한 열대의 풍미와 더불어 바삭한 새우 볼살을 곁들인 포멜로 샐러드, bakar bakar 바비큐 같은 요리를 소개합니다."
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958은 쿠알라룸푸르 Taman U Thant의 The LINC KL에 자리한 말레이시아 레스토랑으로, Chef Wan으로 알려진 유명 셰프와 관련이 있습니다. 이곳은 MICHELIN Bib Gourmand를 보유하고 있는데, 이는 별점이 아니라 합리적인 가격에 좋은 품질을 제공하는 곳에 Guide가 주는 상입니다. MICHELIN Guide는 밝고 활기찬 공간과 대담한 열대의 풍미를 소개하며, 바삭한 새우 볼살을 곁들인 포멜로 샐러드와 bakar bakar(자가제 소스를 곁들여 내는 바비큐 고기 또는 해산물)를 추천합니다."
@@ -22,7 +21,7 @@ keyTakeaways:
   - "이 레스토랑은 Chef Wan으로 알려진 말레이시아 유명 셰프와 관련이 있으며, 대담한 열대의 풍미를 지닌 말레이시아 요리를 냅니다."
   - "MICHELIN Guide는 kerabu 라임 드레싱에 바삭한 새우 볼살을 곁들인 포멜로 샐러드로 시작할 것을 추천합니다."
   - "또 하나의 주목 요리는 bakar bakar입니다——자가제 소스를 골라 곁들여 내는 바비큐 고기 또는 해산물로, 양이 넉넉해 나눠 먹기에 좋습니다."
-  - "Taman U Thant의 The LINC KL에 있으며 $$ 가격대에 속합니다. Bib Gourmand 선정은 매년 재검토됩니다."
+  - "Taman U Thant의 The LINC KL에 있으며 $ 가격대에 속합니다. Bib Gourmand 선정은 매년 재검토됩니다."
 faq:
   - q: "De. Wan 1958은 누구와 관련이 있나요?"
     a: "이 레스토랑은 흔히 Chef Wan으로 알려진 말레이시아 유명 셰프와 관련이 있습니다. 널리 보도된 바에 따르면 이름 속 「1958」은 그 셰프의 출생 연도를 가리킨다고 하지만, 이 세부 사항은 전기 자료와 대조하여 확인해야 합니다."

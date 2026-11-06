@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ta"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa என்பது பினாங்கு, George Town-இல் Gat Lebuh Chulia-வில் உள்ள ஒரு MICHELIN Bib Gourmand பேரநக்கன் உணவகம். திறந்த செங்கல் சுவர்களும் தொட்டிச் செடிகளும் கொண்ட ஒரு சிறிய பகல்நேர இடம்; pandan nasi lemak-ஐ மையமாகக் கொண்ட ஒரு combo செட்டை அடிப்படையாகக் கொண்ட ஒரு சுருக்கமான நோன்யா மெனுவை, Guide-இன் மிகக் குறைந்த ($) விலைப் பிரிவில் பரிமாறுகிறது."
 
 answer: "Rasa Rasa என்பது பினாங்கு, George Town-இல் 59 Gat Lebuh Chulia-வில் உள்ள ஒரு பேரநக்கன் (Nyonya) உணவகம். பணத்துக்கு மதிப்புள்ள சமையலுக்கான Guide-இன் அடையாளமான MICHELIN Bib Gourmand-ஐ இது வைத்திருக்கிறது, மேலும் மிகக் குறைந்த $ பிரிவில் உள்ளது. திறந்த செங்கல் சுவர்களும் தொட்டிச் செடிகளும் கொண்ட ஒரு சிறிய இடத்தையும், pandan nasi lemak-ஐ மையமாகக் கொண்ட ஒரு நோன்யா combo செட்டை உச்சமாகக் கொண்ட ஒரு சுருக்கமான மெனுவையும் MICHELIN விவரிக்கிறது; டோஃபு தோல் சுற்றிய ஐந்து மசாலா கோழிச் சுருள் போன்ற உணவுகளும் உள்ளன. இது பகலில் மட்டுமே திறந்து, புதன்கிழமை மூடும்."

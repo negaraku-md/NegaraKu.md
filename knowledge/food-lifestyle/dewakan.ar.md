@@ -18,7 +18,7 @@ keyTakeaways:
   - "كما يحمل MICHELIN Green Star، وهو تكريم الدليل للاستدامة، وأُفيد بأنه الأول الذي يُمنح لمطعم ماليزي."
   - "يصنّف MICHELIN Guide مطبخه بأنه ماليزي ومعاصر، مبنيّ حول مكوّنات محلية وأصلية ومتوطّنة بصيغة قائمة تذوّق."
   - "يقود المطعم الشيف Darren Teoh ويقع في الطابق 48 من Naza Tower، Platinum Park، في منطقة KLCC."
-  - "يدرجه MICHELIN Guide في أعلى فئة سعرية ($$$$)؛ وهو وجهة fine dining يدير المطعم حجوزاتها مباشرةً."
+  - "يدرجه MICHELIN Guide في أعلى فئة سعرية ($$)؛ وهو وجهة fine dining يدير المطعم حجوزاتها مباشرةً."
 appliesTo: "المسافرون وعشّاق الطعام ورواد المطاعم الذين يبحثون عن fine dining الماليزي المعترف به من MICHELIN في كوالالمبور."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

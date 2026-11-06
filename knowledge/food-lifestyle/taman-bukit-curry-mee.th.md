@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee เป็นแผงอาหารริมทางระดับ MICHELIN Bib Gourmand ในบูกิตเมอร์ตาจัม เซอเบอรังเปอไร (ปีนังฝั่งแผ่นดินใหญ่) ที่ได้รับการยกย่องเรื่อง curry mee อายุหลายทศวรรษ ด้วยน้ำซุปกะทิและแกงเข้มข้นพร้อมหอยแครงลวกสุกครึ่งเดียว โปรไฟล์นี้ครอบคลุมการได้รับการยอมรับจาก MICHELIN เมนูเด่น ที่ตั้ง และวิธีไปเยือน"
 seoTitle: "Taman Bukit Curry Mee: บิบ กูร์มองด์ แห่งปีนัง"
 answer: "Taman Bukit Curry Mee เป็นแผงอาหารริมทางในปีนังฝั่งแผ่นดินใหญ่ที่ได้รับการจัดอันดับเป็น MICHELIN Bib Gourmand ในการคัดเลือกของ MICHELIN Guide Kuala Lumpur & Penang ขึ้นชื่อเรื่อง curry mee — เส้นในน้ำซุปเข้มข้นจากกะทิและเครื่องแกง โรยด้วยหอยแครงลวกสุกครึ่งเดียว — ขายมานานหลายทศวรรษจากศูนย์อาหารที่ซ่อนตัว ตั้งอยู่ที่ Jalan Bukit Kecil, Taman Bukit, บูกิตเมอร์ตาจัม เซอเบอรังเปอไร"

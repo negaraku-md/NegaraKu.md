@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor 是吉隆坡 Jalan Ampang 旁的一家北印度餐厅，列入 MICHELIN Guide 并获颁 Bib Gourmand，表彰物有所值的好味道。餐厅设于一栋住宅洋房内，隶属于 1990 年在马来西亚开业的 d'Tandoor 品牌，供应以家传食谱为本、暖心的精致印度菜，MICHELIN 挑出的菜式包括 butter chicken masala、柔软有嚼劲的 naan 与 kulfi 冰淇淋。它列入 $$ 价位等级，适合家庭聚餐与户外用餐。"
+answer: "Roti by d'Tandoor 是吉隆坡 Jalan Ampang 旁的一家北印度餐厅，列入 MICHELIN Guide 并获颁 Bib Gourmand，表彰物有所值的好味道。餐厅设于一栋住宅洋房内，隶属于 1990 年在马来西亚开业的 d'Tandoor 品牌，供应以家传食谱为本、暖心的精致印度菜，MICHELIN 挑出的菜式包括 butter chicken masala、柔软有嚼劲的 naan 与 kulfi 冰淇淋。它列入 $ 价位等级，适合家庭聚餐与户外用餐。"
 keyTakeaways:
   - "Roti by d'Tandoor 在吉隆坡持有 MICHELIN Guide Bib Gourmand——表彰物有所值的优质美食的奖项。"
   - "它在 Jalan Ampang 旁的一栋住宅内，供应以家传食谱与香草香料调配为本的北印度菜。"
   - "MICHELIN 点出 butter chicken masala、柔软有嚼劲的 naan 与有多种口味的 kulfi 冰淇淋。"
   - "它隶属于 d'Tandoor 品牌，MICHELIN 指该品牌于 1990 年在马来西亚开业。"
-  - "它位于 82 Jalan Damai（Jalan Ampang 旁），列入 $$ 价位等级，设有户外座位与适合家庭的环境。"
+  - "它位于 82 Jalan Damai（Jalan Ampang 旁），列入 $ 价位等级，设有户外座位与适合家庭的环境。"
 appliesTo: "在吉隆坡寻找价格亲民、获 MICHELIN 肯定的北印度菜的旅客与食客。"
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

@@ -9,7 +9,7 @@ lang: "ko"
 sourceContentHash: "2351caf0c9f02733"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Laksalicious는 페낭 조지타운 Jalan Hutton에 있는 MICHELIN Bib Gourmand 식당으로, laksa가 주인공이다. 작고 개성 넘치는 가게로, 새콤하고 매콤한 생선 국물의 Nyonya asam laksa와 진하고 크리미한 코코넛밀크 국물의 Nyonya laksa lemak 중에서 고를 수 있고, 새우 튀김, nasi ulam, gula melaka cendol 같은 요리도 있다."
 answer: "Laksalicious는 페낭 조지타운 117-117A Jalan Hutton에 있는 MICHELIN Bib Gourmand 식당으로, laksa가 하이라이트다. 두 가지 스타일——새콤하고 매콤한 생선 국물의 Nyonya asam laksa와 진하고 크리미한 코코넛밀크 국물의 Nyonya laksa lemak——에 더해, 바삭한 새우 튀김, nasi ulam, gula melaka cendol 같은 사이드를 낸다. MICHELIN은 $ 가격대로 책정하고 요리를 Malaysian으로 분류한다."

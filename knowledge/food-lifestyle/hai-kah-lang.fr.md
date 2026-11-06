@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "C'est un bol de nouilles aux fruits de mer à composer soi-même : choisissez poisson, coquillages ou les deux, puis l'un des huit types de nouilles et des cinq bases de bouillon."
   - "Le MICHELIN Guide note que seule la pêche la plus fraîche arrive à table, car le propriétaire tient aussi un étal de fruits de mer à proximité."
   - "Si la carte vous dépasse, les favorites de la maison sont les nouilles aux fruits de mer assortis et la soupe de nouilles à la tête de poisson au lait."
-  - "Il se trouve au 44 Jalan Kaskas 2, Taman Cheras, ouvre en journée (8 h-17 h), dans la tranche de prix $$."
+  - "Il se trouve au 44 Jalan Kaskas 2, Taman Cheras, ouvre en journée (8 h-17 h), dans la tranche de prix $."
 faq:
   - q: "Que commander chez Hai Kah Lang ?"
     a: "Le MICHELIN Guide recommande deux combinaisons populaires si la carte complète est difficile à aborder : les nouilles aux fruits de mer assortis et la soupe de nouilles à la tête de poisson au lait. Sinon, vous pouvez composer votre propre bol en choisissant vos fruits de mer, puis parmi les huit types de nouilles et les cinq bases de bouillon proposés."
   - q: "Pourquoi les fruits de mer sont-ils jugés si frais ?"
     a: "Le MICHELIN Guide explique que le propriétaire tient aussi un étal de fruits de mer à proximité, de sorte que seule la pêche la plus fraîche arrive à la carte. Le restaurant est décrit comme toujours bondé de clients en quête de nouilles aux fruits de mer."
   - q: "Où se trouve Hai Kah Lang et quand est-il ouvert ?"
-    a: "Il se trouve au 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, et le MICHELIN Guide indique des horaires de 8 h à 17 h tous les jours. Il se situe dans la tranche de prix $$, est climatisé et accepte les cartes de crédit."
+    a: "Il se trouve au 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, et le MICHELIN Guide indique des horaires de 8 h à 17 h tous les jours. Il se situe dans la tranche de prix $, est climatisé et accepte les cartes de crédit."
 
 updated: 2026-11-06
 sources:

@@ -9,7 +9,7 @@ lang: "id"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen adalah restoran masakan Kanton lama di Lebuh Carnarvon, George Town, Penang, yang menyandang MICHELIN Bib Gourmand untuk masakan berkualitas baik dengan harga terjangkau. Beroperasi sejak 1965, restoran ini terkenal dengan hidangan Kanton tradisional yang diolah dengan baik berdampingan dengan hidangan fusion bersentuhan lokal — hidangan andalannya adalah tahu goreng buatan sendiri dengan ikan teri lokal kering."
 answer: "Teksen adalah restoran masakan Kanton kasual di 18 & 20 Lebuh Carnarvon, George Town, Penang, yang menyandang MICHELIN Bib Gourmand — penghargaan panduan ini untuk masakan berkualitas baik dengan harga terjangkau. Dibuka sejak 1965, restoran ini menyajikan hidangan Kanton tradisional serta hidangan fusion bersentuhan lokal, dan hidangannya yang paling terkenal adalah tahu goreng buatan sendiri dengan ikan teri lokal kering. Perkirakan antrean pada jam sibuk."
 keyTakeaways:
   - "Teksen menyandang MICHELIN Bib Gourmand, penghargaan panduan ini untuk masakan berkualitas baik dengan harga terjangkau."
-  - "Restoran masakan Kanton di 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), berada pada kisaran harga MICHELIN $$."
+  - "Restoran masakan Kanton di 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), berada pada kisaran harga MICHELIN $."
   - "Dapurnya beroperasi sejak 1965 dan memadukan hidangan Kanton tradisional dengan hidangan fusion bersentuhan lokal."
   - "Hidangan andalannya adalah tahu goreng buatan sendiri dengan ikan teri lokal kering; panduan ini juga menyebut sup tim harian."
   - "MICHELIN menandainya 'layak diantre' — perkirakan menunggu pada jam ramai, dan periksa jam buka sebelum datang."

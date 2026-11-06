@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Es un bol de fideos de marisco a tu medida: elige pescado, marisco o ambos, y luego uno de ocho tipos de fideos y cinco bases de caldo."
   - "La MICHELIN Guide señala que solo la pesca más fresca llega a la mesa porque el dueño también lleva un puesto de marisco cercano."
   - "Si la carta abruma, las favoritas de la casa son los fideos de marisco variado y la sopa de fideos con cabeza de pescado y leche."
-  - "Está en 44 Jalan Kaskas 2, Taman Cheras, abre en horario diurno (8:00-17:00), en la franja de precio $$."
+  - "Está en 44 Jalan Kaskas 2, Taman Cheras, abre en horario diurno (8:00-17:00), en la franja de precio $."
 faq:
   - q: "¿Qué debería pedir en Hai Kah Lang?"
     a: "La MICHELIN Guide recomienda dos combinaciones populares si la carta completa se hace difícil: los fideos de marisco variado y la sopa de fideos con cabeza de pescado y leche. Si no, puedes armar tu propio bol eligiendo tu marisco y luego escogiendo entre los ocho tipos de fideos y las cinco bases de caldo disponibles."
   - q: "¿Por qué se considera tan fresco el marisco?"
     a: "La MICHELIN Guide explica que el dueño también lleva un puesto de marisco cercano, así que solo la pesca más fresca entra en la carta. El restaurante se describe como siempre lleno de clientes ansiosos por fideos de marisco."
   - q: "¿Dónde está Hai Kah Lang y cuándo abre?"
-    a: "Está en 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, y la MICHELIN Guide indica un horario de 8:00 a 17:00 todos los días. Se sitúa en la franja de precio $$, tiene aire acondicionado y acepta tarjetas de crédito."
+    a: "Está en 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, y la MICHELIN Guide indica un horario de 8:00 a 17:00 todos los días. Se sitúa en la franja de precio $, tiene aire acondicionado y acepta tarjetas de crédito."
 
 updated: 2026-11-06
 sources:

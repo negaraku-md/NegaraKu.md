@@ -18,7 +18,7 @@ keyTakeaways:
   - "Nhà hàng còn mang một MICHELIN Green Star, danh hiệu bền vững của cẩm nang, được đưa tin là danh hiệu đầu tiên trao cho một nhà hàng Malaysia."
   - "MICHELIN Guide phân loại ẩm thực của nhà hàng là Malaysia và Đương đại, xây dựng quanh các nguyên liệu địa phương, bản địa và đặc hữu theo hình thức thực đơn nếm thử."
   - "Nhà hàng do đầu bếp Darren Teoh dẫn dắt và tọa lạc trên tầng 48 của Naza Tower, Platinum Park, trong khu vực KLCC."
-  - "MICHELIN Guide xếp nhà hàng vào nhóm giá cao nhất ($$$$); đây là một điểm đến fine dining mà nhà hàng tự quản lý việc đặt chỗ."
+  - "MICHELIN Guide xếp nhà hàng vào nhóm giá cao nhất ($$); đây là một điểm đến fine dining mà nhà hàng tự quản lý việc đặt chỗ."
 appliesTo: "Du khách, người đam mê ẩm thực và thực khách đang tìm hiểu về fine dining Malaysia được MICHELIN công nhận tại Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

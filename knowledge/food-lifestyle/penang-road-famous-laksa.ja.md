@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "5c3beb8e17ed3d1c"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Penang Road Famous Laksa はペナン、George Town の麺店で、MICHELIN Guide の Bib Gourmand セレクションに選ばれ、assam（酸味）laksa で知られる。1970 年から家伝のレシピで営み、三種の魚で作るスープに lai fun 麺を供し、辛味・甘味・酸味を調和させ、骨抜きのイワシの切り身を追加できる。長い行列で知られる George Town の名店である。"
 seoTitle: "Penang Road Famous Laksa（Bib Gourmand）"
 answer: "Penang Road Famous Laksa はペナン、George Town の Lebuh Keng Kwee にある Bib Gourmand の麺店である。1970 年から家伝のレシピで営み、看板の酸味 laksa を供する——三種の魚で作るスープに lai fun 麺を入れ、辛味・甘味・酸味を調和させ、骨抜きのイワシの切り身を追加できる。George Town で最も有名な行列のできる屋台料理の一つである。"

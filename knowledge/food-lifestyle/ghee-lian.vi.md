@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian là một quầy ẩm thực đường phố đạt MICHELIN Bib Gourmand ở George Town, Penang, tại khu ẩm thực Medan Renong, nổi tiếng với món mì green tom yum khác thường bên cạnh một món mì nước và mì xào. Hồ sơ này giới thiệu sự công nhận của MICHELIN, món đặc trưng, vị trí và cách ghé thăm."
 seoTitle: "Ghee Lian: Ẩm thực đường phố Bib Gourmand Penang"
 answer: "Ghee Lian là một quầy ẩm thực đường phố ở Penang được liệt kê là MICHELIN Bib Gourmand trong tuyển chọn MICHELIN Guide Kuala Lumpur & Penang. Món đặc trưng là mì green tom yum khác thường — được MICHELIN khen ngợi vì sự cân bằng chua và cay — dọn kèm một món mì nước và mì xào. Quầy ở khu ẩm thực Medan Renong, Jalan Tun Syed Sheh Barakhbah, George Town."

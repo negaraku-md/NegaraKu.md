@@ -9,12 +9,11 @@ contentType: "place"
 lang: "th"
 sourceContentHash: "899bf571aa6a9eea"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Moh Teng Pheow Nyonya Koay เป็นผู้ทำ kueh ระดับ MICHELIN Bib Gourmand ใน George Town ปีนัง ซึ่งงานฝีมือสืบย้อนไปถึงปี 1933. ซ่อนตัวอยู่ข้าง Lebuh Chulia ที่นี่นึ่ง ทอด และอบ Nyonya kueh แบบดั้งเดิม — kueh lapis, kueh talam, ang koo, Nyonya chang — เสิร์ฟใต้หลังคากระจกพร้อมร่มสไตล์ปีนัง"
 
 answer: "Moh Teng Pheow Nyonya Koay เป็นผู้ทำ Nyonya kueh แบบดั้งเดิมใน George Town ปีนัง บนถนน Jalan Masjid ข้าง Lebuh Chulia. ที่นี่ถือรางวัล MICHELIN Bib Gourmand อันเป็นเครื่องหมายของ Guide สำหรับอาหารคุ้มราคา และถูกจัดอยู่ใต้ 'Small eats' ในพิกัดราคา $. ร้านนี้ทำ kueh ของตน — ขนม เกี๊ยว และพุดดิงที่นึ่ง ทอด และอบ อย่าง kueh lapis, kueh talam, ang koo และ Nyonya chang — ด้วยวิธีเดิมมาตั้งแต่ปี 1933 ปัจจุบันเสิร์ฟในพื้นที่รับประทานอาหารหลังคากระจกด้านหลังโรงทำ"

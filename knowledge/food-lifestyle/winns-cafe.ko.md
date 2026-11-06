@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe는 페낭 조지타운에 있는 MICHELIN Bib Gourmand 프라나칸(Peranakan) 레스토랑으로, 부부가 단독주택에서 운영하며 아내가 집안의 뇨냐(Nyonya) 레시피를 요리한다. 이 프로필은 MICHELIN 선정, 대표 메뉴, 공간, 방문 방법을 다룬다."
 seoTitle: "Winn's Cafe: 페낭 프라나칸 빕 구르망"
 answer: "Winn's Cafe는 MICHELIN Guide Kuala Lumpur & Penang 선정에서 MICHELIN Bib Gourmand에 오른 페낭 조지타운의 프라나칸 레스토랑이다. 부부가 단독주택에서 운영하며 아내가 집안의 뇨냐 레시피를 요리한다. MICHELIN은 otak otak과 asam tumis 가오리를 꼽는다. 주소는 38 Jalan Cantonment, 조지타운이다."

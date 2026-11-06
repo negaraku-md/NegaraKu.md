@@ -7,21 +7,20 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "508e444c18b01819"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya เป็นร้านอาหาร Peranakan ใน Bukit Damansara กรุงกัวลาลัมเปอร์ ที่ได้รับการยกย่องจาก MICHELIN Guide ด้วย Bib Gourmand สำหรับอาหารที่คุ้มค่า MICHELIN Guide บรรยายถึงอาหารสไตล์โฮมเมดที่สร้างจากสูตรครอบครัวของเจ้าของที่ขัดเกลาอย่างดี พร้อมซอสที่เจ้าของทำเอง และเมนูเด่นอย่างไก่ไร้กระดูกซอสครีมโหระพา"
 seoTitle: "Gulainya"
-answer: "Gulainya เป็นร้านอาหาร Peranakan ใน Plaza Damansara, Bukit Damansara กรุงกัวลาลัมเปอร์ ที่ถือครอง MICHELIN Bib Gourmand — รางวัลของ Guide สำหรับคุณภาพดีในราคาคุ้มค่า ไม่ใช่ดาว MICHELIN Guide บรรยายถึงอาหารสไตล์โฮมเมดที่สร้างจากสูตรครอบครัวของเจ้าของ ซึ่งขัดเกลาและปรับปรุงให้ทันสมัย พร้อมซอสที่เจ้าของทำเอง และชูเมนูไก่ไร้กระดูกซอสครีมโหระพา ร้านอยู่ในช่วงราคา $$"
+answer: "Gulainya เป็นร้านอาหาร Peranakan ใน Plaza Damansara, Bukit Damansara กรุงกัวลาลัมเปอร์ ที่ถือครอง MICHELIN Bib Gourmand — รางวัลของ Guide สำหรับคุณภาพดีในราคาคุ้มค่า ไม่ใช่ดาว MICHELIN Guide บรรยายถึงอาหารสไตล์โฮมเมดที่สร้างจากสูตรครอบครัวของเจ้าของ ซึ่งขัดเกลาและปรับปรุงให้ทันสมัย พร้อมซอสที่เจ้าของทำเอง และชูเมนูไก่ไร้กระดูกซอสครีมโหระพา ร้านอยู่ในช่วงราคา $"
 appliesTo: "นักชิม นักเดินทางสายอาหาร และทุกคนที่มองหามื้ออาหาร Peranakan ระดับ MICHELIN Bib Gourmand ในกัวลาลัมเปอร์"
 keyTakeaways:
   - "Gulainya ถือครอง MICHELIN Bib Gourmand ในรายชื่อ MICHELIN Guide Kuala Lumpur & Penang ฉบับปัจจุบัน — รางวัล 'คุณภาพดี คุ้มค่า' ของ Guide ไม่ใช่ดาว"
   - "การรายงานของ MICHELIN จัดให้ร้านนี้เป็นหนึ่งใน Bib Gourmand ที่เพิ่มเข้ามาใหม่ล่าสุดในรายชื่อของมาเลเซีย ร่วมกับ Lama ในกัวลาลัมเปอร์"
   - "MICHELIN Guide บรรยายถึงอาหาร Peranakan สไตล์โฮมเมดที่สร้างจากสูตรครอบครัวของเจ้าของ ซึ่งขัดเกลาและปรับปรุงให้ทันสมัย พร้อมซอสที่เจ้าของทำเอง"
-  - "เมนูเด่นคือไก่ไร้กระดูกซอสครีมโหระพา ร้านอยู่ใน Plaza Damansara, Bukit Damansara ในช่วงราคา $$"
+  - "เมนูเด่นคือไก่ไร้กระดูกซอสครีมโหระพา ร้านอยู่ใน Plaza Damansara, Bukit Damansara ในช่วงราคา $"
   - "รายชื่อ Bib Gourmand มีการปรับปรุงทุกปี และเวลาทำการ ราคา รวมถึงเมนูของร้านอาจเปลี่ยนแปลงได้"
 faq:
   - q: "Gulainya เสิร์ฟอาหารประเภทใด?"
@@ -29,7 +28,7 @@ faq:
   - q: "Gulainya มีดาว MICHELIN หรือไม่?"
     a: "ไม่มี ร้านถือครอง Bib Gourmand ซึ่ง MICHELIN Guide มอบให้สำหรับคุณภาพดีในราคาคุ้มค่า ไม่ใช่การจัดอันดับหนึ่ง สอง หรือสามดาว ทั้งสองเป็นเกียรติยศของ MICHELIN ที่แยกจากกัน"
   - q: "Gulainya อยู่ที่ไหน?"
-    a: "MICHELIN Guide ระบุที่อยู่ 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur ในช่วงราคา $$ มีการระบุว่าปิดทุกวันจันทร์ โปรดยืนยันเวลาทำการปัจจุบันก่อนไปเยือน"
+    a: "MICHELIN Guide ระบุที่อยู่ 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur ในช่วงราคา $ มีการระบุว่าปิดทุกวันจันทร์ โปรดยืนยันเวลาทำการปัจจุบันก่อนไปเยือน"
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

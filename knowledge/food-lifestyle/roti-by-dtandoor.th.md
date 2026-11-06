@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor เป็นร้านอาหารอินเดียเหนือใกล้ Jalan Ampang ในกัวลาลัมเปอร์ ได้รับการจัดอันดับใน MICHELIN Guide ด้วย Bib Gourmand สำหรับอาหารอร่อยคุ้มค่า ตั้งอยู่ในบ้านบังกะโลย่านที่อยู่อาศัยและเป็นส่วนหนึ่งของแบรนด์ d'Tandoor ที่เปิดในมาเลเซียเมื่อปี 1990 ร้านเสิร์ฟอาหารอินเดียชั้นดีที่อบอุ่นใจหลากหลายซึ่งสร้างบนสูตรครอบครัว โดยมี butter chicken masala, naan นุ่มเหนียว และ kulfi ไอศกรีมอยู่ในบรรดาเมนูที่ MICHELIN เลือก ร้านอยู่ในระดับราคา $$ และเป็นมิตรกับครอบครัวและการนั่งทานกลางแจ้ง"
+answer: "Roti by d'Tandoor เป็นร้านอาหารอินเดียเหนือใกล้ Jalan Ampang ในกัวลาลัมเปอร์ ได้รับการจัดอันดับใน MICHELIN Guide ด้วย Bib Gourmand สำหรับอาหารอร่อยคุ้มค่า ตั้งอยู่ในบ้านบังกะโลย่านที่อยู่อาศัยและเป็นส่วนหนึ่งของแบรนด์ d'Tandoor ที่เปิดในมาเลเซียเมื่อปี 1990 ร้านเสิร์ฟอาหารอินเดียชั้นดีที่อบอุ่นใจหลากหลายซึ่งสร้างบนสูตรครอบครัว โดยมี butter chicken masala, naan นุ่มเหนียว และ kulfi ไอศกรีมอยู่ในบรรดาเมนูที่ MICHELIN เลือก ร้านอยู่ในระดับราคา $ และเป็นมิตรกับครอบครัวและการนั่งทานกลางแจ้ง"
 keyTakeaways:
   - "Roti by d'Tandoor ได้รับ MICHELIN Guide Bib Gourmand — รางวัลสำหรับคุณภาพดีในราคาคุ้มค่า — ในกัวลาลัมเปอร์"
   - "ร้านเสิร์ฟอาหารอินเดียเหนือที่สร้างบนสูตรครอบครัวและการผสมสมุนไพรกับเครื่องเทศ ในบ้านหลังหนึ่งใกล้ Jalan Ampang"
   - "MICHELIN ชู butter chicken masala, naan นุ่มเหนียว และ kulfi ไอศกรีมที่มีหลายรสชาติ"
   - "เป็นส่วนหนึ่งของแบรนด์ d'Tandoor ซึ่ง MICHELIN ระบุว่าเปิดในมาเลเซียเมื่อปี 1990"
-  - "ร้านอยู่ที่ 82 Jalan Damai ใกล้ Jalan Ampang ในระดับราคา $$ มีที่นั่งกลางแจ้งและบรรยากาศที่เป็นมิตรกับครอบครัว"
+  - "ร้านอยู่ที่ 82 Jalan Damai ใกล้ Jalan Ampang ในระดับราคา $ มีที่นั่งกลางแจ้งและบรรยากาศที่เป็นมิตรกับครอบครัว"
 appliesTo: "นักเดินทางและผู้ทานที่มองหาอาหารอินเดียเหนือราคาย่อมเยาและได้รับการยอมรับจาก MICHELIN ในกัวลาลัมเปอร์"
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

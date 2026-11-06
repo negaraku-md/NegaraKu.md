@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng is a MICHELIN Bib Gourmand street-food stall in George Town's Cecil Street Market, Penang, famous for duck koay teow th'ng: flat rice noodles in a rich, duck-and-pork broth slow-simmered for hours. Founded by Lau Lum Lai in the late 1970s, it is now run by his son and daughter-in-law."
 seoTitle: "Lum Lai Duck Koay Teow Thng: Penang Bib Gourmand"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng is a Bib Gourmand street-food stall at Cecil Street Market (Pasar Lebuh Cecil), George Town, Penang. Its signature is duck koay teow th'ng: flat rice noodles in a clear, umami-rich broth made with duck, pork and fish cake, finished with fried garlic and shallots. The family has cooked it the same way for more than 40 years, and queues are common at peak hours."

@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor is a North Indian restaurant off Jalan Ampang in Kuala Lumpur, listed in the MICHELIN Guide with a Bib Gourmand for good food at good value. Housed in a residential bungalow and part of the d'Tandoor brand that opened in Malaysia in 1990, it serves a heartwarming range of fine Indian cuisine built on family recipes, with butter chicken masala, soft chewy naan and kulfi ice cream among the dishes MICHELIN picks out. It sits in the $$ price tier and is family- and outdoor-dining friendly."
+answer: "Roti by d'Tandoor is a North Indian restaurant off Jalan Ampang in Kuala Lumpur, listed in the MICHELIN Guide with a Bib Gourmand for good food at good value. Housed in a residential bungalow and part of the d'Tandoor brand that opened in Malaysia in 1990, it serves a heartwarming range of fine Indian cuisine built on family recipes, with butter chicken masala, soft chewy naan and kulfi ice cream among the dishes MICHELIN picks out. It sits in the $ price tier and is family- and outdoor-dining friendly."
 keyTakeaways:
   - "Roti by d'Tandoor holds a MICHELIN Guide Bib Gourmand — the award for good quality at good value — in Kuala Lumpur."
   - "It serves North Indian cuisine built on family recipes and a blend of herbs and spices, in a house off Jalan Ampang."
   - "MICHELIN highlights the butter chicken masala, the soft, chewy naan and the kulfi ice cream, which comes in several flavours."
   - "It is part of the d'Tandoor brand, which MICHELIN notes opened in Malaysia in 1990."
-  - "It is at 82 Jalan Damai, off Jalan Ampang, in the $$ price tier, with outdoor seating and a family-friendly setting."
+  - "It is at 82 Jalan Damai, off Jalan Ampang, in the $ price tier, with outdoor seating and a family-friendly setting."
 appliesTo: "Travellers and diners seeking affordable, MICHELIN-recognised North Indian cuisine in Kuala Lumpur."
 
 faq:
@@ -33,13 +33,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

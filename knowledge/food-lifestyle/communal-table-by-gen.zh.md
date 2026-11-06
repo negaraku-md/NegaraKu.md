@@ -9,17 +9,16 @@ contentType: "place"
 lang: "zh"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn 是槟城乔治市 Lebuh Presgrave 上一家 MICHELIN Bib Gourmand 餐馆，供应一份小巧的单点菜单，以融合峇峇娘惹与马来西亚烹饪的现代菜式为主。它围绕开放式厨房与一张长吧台而建，被列为 Malaysian（$）；招牌是夹在蒸包里的熟成鸭胸。"
 
-summary: "Communal Table by Gēn 是槟城乔治市 Lebuh Presgrave 上一家 MICHELIN Bib Gourmand 餐馆，供应一份小巧的单点菜单，以融合峇峇娘惹与马来西亚烹饪的现代菜式为主。它围绕开放式厨房与一张长吧台而建，被列为 Malaysian（$$）；招牌是夹在蒸包里的熟成鸭胸。"
-
-answer: "Communal Table by Gēn 是一家现代马来西亚餐馆，位于槟城乔治市的 68 Lebuh Presgrave，持有 MICHELIN Bib Gourmand，表彰物有所值的烹饪。MICHELIN Guide 将它列为 $$ 价位带的 Malaysian，并形容它是一处随意的空间，设有开放式厨房、一张长吧台与落地窗，供应一份小巧的单点晚餐菜单，以本地食材融合峇峇娘惹与马来西亚菜系的现代菜式。招牌是夹在蒸包里的熟成鸭胸，皮脆，配一款「秘制酱汁」。"
+answer: "Communal Table by Gēn 是一家现代马来西亚餐馆，位于槟城乔治市的 68 Lebuh Presgrave，持有 MICHELIN Bib Gourmand，表彰物有所值的烹饪。MICHELIN Guide 将它列为 $ 价位带的 Malaysian，并形容它是一处随意的空间，设有开放式厨房、一张长吧台与落地窗，供应一份小巧的单点晚餐菜单，以本地食材融合峇峇娘惹与马来西亚菜系的现代菜式。招牌是夹在蒸包里的熟成鸭胸，皮脆，配一款「秘制酱汁」。"
 keyTakeaways:
-  - "Communal Table by Gēn 是槟城乔治市一家 MICHELIN Bib Gourmand 餐馆，被列为 $$ 价位带的 Malaysian。"
+  - "Communal Table by Gēn 是槟城乔治市一家 MICHELIN Bib Gourmand 餐馆，被列为 $ 价位带的 Malaysian。"
   - "厨房供应一份小巧的单点菜单，以本地食材融合峇峇娘惹与马来西亚烹饪的现代菜式。"
   - "MICHELIN 点名的招牌是夹在蒸包里的熟成鸭胸——皮脆，配一款「秘制酱汁」。"
   - "空间围绕开放式厨房、一张长长的吧台与落地窗而建——一种吧台用餐体验。"

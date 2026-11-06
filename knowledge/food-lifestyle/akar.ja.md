@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide はその料理をマレーシアおよびコンテンポラリーと分類し、季節のセットメニューとして提供されます。"
   - "MICHELIN は、シェフが日本とフランスで過ごした時間を踏まえ、日本・フランス・マレーシアの影響でヨーロッパのレシピを作り直すと説明しています。"
   - "レストランはクアラルンプールの Taman Tun Dr Ismail（TTDI）にあり、親密なダイニングルームとオープンキッチンを備えています。"
-  - "MICHELIN Guide は $$$ の価格帯に分類し、一人での食事に向くと示しています。"
+  - "MICHELIN Guide は $$ の価格帯に分類し、一人での食事に向くと示しています。"
 appliesTo: "クアラルンプールで MICHELIN に認められたマレーシアのファインダイニングを調べている旅行者、グルメ愛好家、そして食事客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

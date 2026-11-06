@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra est un restaurant indien au The Starhill, à Bukit Bintang, à Kuala Lumpur, inscrit au MICHELIN Guide avec un Bib Gourmand pour une bonne cuisine à bon rapport qualité-prix. Établissement jumeau de Kayra, il conserve une philosophie « de la mer à l'assiette », réinventant les plats traditionnels du Kerala avec des produits de la mer et des produits frais d'origine locale. Sa spécialité est un curry de poisson du Kerala fondé sur une recette familiale, relevé par la mangue verte et le yaourt. Il se situe dans la tranche de prix $$ et convient aux familles."
+answer: "Coast by Kayra est un restaurant indien au The Starhill, à Bukit Bintang, à Kuala Lumpur, inscrit au MICHELIN Guide avec un Bib Gourmand pour une bonne cuisine à bon rapport qualité-prix. Établissement jumeau de Kayra, il conserve une philosophie « de la mer à l'assiette », réinventant les plats traditionnels du Kerala avec des produits de la mer et des produits frais d'origine locale. Sa spécialité est un curry de poisson du Kerala fondé sur une recette familiale, relevé par la mangue verte et le yaourt. Il se situe dans la tranche de prix $ et convient aux familles."
 keyTakeaways:
   - "Coast by Kayra détient un Bib Gourmand du MICHELIN Guide — la distinction récompensant une bonne qualité à bon prix — à Kuala Lumpur."
   - "C'est l'établissement jumeau de Kayra et il suit une philosophie « de la mer à l'assiette », réinventant les plats traditionnels du Kerala."
   - "Sa spécialité est un curry de poisson du Kerala fondé sur une recette familiale, acidulé par la mangue verte et le yaourt."
   - "Les produits de la mer et les produits frais sont d'origine locale afin de soutenir les petites fermes et les pêcheurs."
-  - "Il se trouve au The Starhill, sur Jalan Bukit Bintang, dans la tranche de prix $$, avec une décoration turquoise sur le thème de l'océan."
+  - "Il se trouve au The Starhill, sur Jalan Bukit Bintang, dans la tranche de prix $, avec une décoration turquoise sur le thème de l'océan."
 appliesTo: "Voyageurs et convives en quête d'une cuisine de fruits de mer du Kerala et du sud de l'Inde, abordable et reconnue par le MICHELIN, à Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

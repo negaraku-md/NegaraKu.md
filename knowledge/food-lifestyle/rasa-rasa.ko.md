@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ko"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa는 페낭 George Town의 Gat Lebuh Chulia에 있는 MICHELIN Bib Gourmand 프라나칸 식당이다. 노출 벽돌 벽과 화분 식물로 꾸민 작은 낮 영업 공간으로, 판단 nasi lemak을 중심으로 한 콤보 세트를 축으로 간결한 뇨냐 메뉴를 내며, Guide의 가장 낮은($) 가격대에 있다."
 
 answer: "Rasa Rasa는 페낭 George Town의 59 Gat Lebuh Chulia에 있는 프라나칸(Nyonya) 식당이다. 가성비를 가리키는 Guide의 표식인 MICHELIN Bib Gourmand를 보유하며, 가장 낮은 $ 가격대에 있다. MICHELIN은 노출 벽돌 벽과 화분 식물로 꾸민 작은 공간, 그리고 판단 nasi lemak을 중심으로 한 뇨냐 콤보 세트를 하이라이트로 삼는 간결한 메뉴를 묘사하며, 두부 껍질로 싼 오향 치킨 롤 같은 요리를 든다. 낮에만 열고 수요일에 쉰다."

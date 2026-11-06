@@ -18,7 +18,7 @@ keyTakeaways:
   - "Il porte également une MICHELIN Green Star, la distinction de durabilité du guide, rapportée comme la première décernée à un restaurant malaisien."
   - "Le MICHELIN Guide classe sa cuisine comme malaisienne et contemporaine, construite autour d'ingrédients locaux, autochtones et endémiques, au format menu dégustation."
   - "Le restaurant est dirigé par le chef Darren Teoh et se situe au 48e étage de Naza Tower, Platinum Park, dans le quartier de KLCC."
-  - "Le MICHELIN Guide le classe dans la fourchette de prix la plus élevée ($$$$) ; c'est une destination gastronomique dont le restaurant gère directement les réservations."
+  - "Le MICHELIN Guide le classe dans la fourchette de prix la plus élevée ($$) ; c'est une destination gastronomique dont le restaurant gère directement les réservations."
 appliesTo: "Voyageurs, passionnés de gastronomie et convives qui se renseignent sur la haute cuisine malaisienne reconnue par MICHELIN à Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

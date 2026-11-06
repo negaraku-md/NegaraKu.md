@@ -18,7 +18,7 @@ keyTakeaways:
   - "It also carries a MICHELIN Green Star, the guide's sustainability distinction, reported as the first awarded to a Malaysian restaurant."
   - "The MICHELIN Guide classifies its cuisine as Malaysian and Contemporary, built around local, native and endemic ingredients in a tasting-menu format."
   - "The restaurant is led by chef Darren Teoh and sits on the 48th floor of Naza Tower, Platinum Park, in the KLCC area."
-  - "The MICHELIN Guide lists it in the top ($$$$) price band; it is a fine-dining destination for which the restaurant manages bookings directly."
+  - "The MICHELIN Guide lists it in the top ($$) price band; it is a fine-dining destination for which the restaurant manages bookings directly."
 appliesTo: "Travellers, food enthusiasts and diners researching Malaysia's MICHELIN-recognised fine dining in Kuala Lumpur."
 
 faq:
@@ -33,10 +33,10 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

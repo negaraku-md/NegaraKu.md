@@ -9,7 +9,7 @@ lang: "fr"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen est un restaurant cantonais de longue date sur Lebuh Carnarvon, à George Town, Penang, qui détient un MICHELIN Bib Gourmand pour une cuisine de bonne qualité à bon rapport qualité-prix. En activité depuis 1965, il est réputé pour ses plats cantonais traditionnels bien exécutés aux côtés de plats fusion aux accents locaux — sa spécialité étant le tofu frit maison aux anchois locaux séchés."
 answer: "Teksen est un restaurant cantonais décontracté au 18 & 20 Lebuh Carnarvon, à George Town, Penang, qui détient un MICHELIN Bib Gourmand — la distinction du guide pour une cuisine de bonne qualité à bon rapport qualité-prix. Ouvert depuis 1965, il sert des plats cantonais traditionnels ainsi que des plats fusion aux accents locaux, et son plat le plus connu est le tofu frit maison aux anchois locaux séchés. Prévoyez une file d'attente aux heures de pointe."
 keyTakeaways:
   - "Teksen détient un MICHELIN Bib Gourmand, la distinction du guide pour une cuisine de bonne qualité à bon rapport qualité-prix."
-  - "C'est un restaurant cantonais au 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), dans la fourchette de prix MICHELIN $$."
+  - "C'est un restaurant cantonais au 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), dans la fourchette de prix MICHELIN $."
   - "La cuisine est en activité depuis 1965 et associe des plats cantonais traditionnels à des plats fusion aux accents locaux."
   - "Le plat signature est le tofu frit maison aux anchois locaux séchés ; le guide signale aussi une soupe mijotée à double cuisson quotidienne."
   - "MICHELIN le qualifie de « vaut la peine de faire la queue » — prévoyez d'attendre aux heures d'affluence et vérifiez les horaires avant de venir."

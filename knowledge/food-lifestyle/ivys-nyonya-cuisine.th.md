@@ -9,17 +9,16 @@ contentType: "place"
 lang: "th"
 sourceContentHash: "805a50b15371f203"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Ivy's Nyonya Cuisine เป็นร้านอาหาร Peranakan ระดับ MICHELIN Bib Gourmand ใน George Town ปีนัง ที่ดำเนินการโดยคู่สามีภรรยามากว่า 15 ปี — Ivy อยู่ในครัว สามีต้อนรับที่หน้าร้าน. Guide จัดให้เป็น Peranakan ($) และชี้ไปที่เซ็ตเมนูแบ่งกันกินของจานยอดนิยมอย่าง Kapitan chicken curry และ Joo Hoo Char"
 
-summary: "Ivy's Nyonya Cuisine เป็นร้านอาหาร Peranakan ระดับ MICHELIN Bib Gourmand ใน George Town ปีนัง ที่ดำเนินการโดยคู่สามีภรรยามากว่า 15 ปี — Ivy อยู่ในครัว สามีต้อนรับที่หน้าร้าน. Guide จัดให้เป็น Peranakan ($$) และชี้ไปที่เซ็ตเมนูแบ่งกันกินของจานยอดนิยมอย่าง Kapitan chicken curry และ Joo Hoo Char"
-
-answer: "Ivy's Nyonya Cuisine เป็นร้าน Peranakan ที่ 100-104 Jalan Kedah, George Town, ปีนัง ถือรางวัล MICHELIN Bib Gourmand สำหรับอาหารคุ้มราคา. MICHELIN Guide จัดให้เป็น Peranakan ในพิกัด $$ และระบุว่าดำเนินการโดยคู่สามีภรรยามากว่า 15 ปี โดย Ivy อยู่ในครัวและสามีเสิร์ฟที่โต๊ะ. ร้านมีเซ็ตเมนูแบ่งกันกินของจานขายดี ได้แก่ Kapitan chicken curry และ Joo Hoo Char ผัดผักรวมในพริกบด"
+answer: "Ivy's Nyonya Cuisine เป็นร้าน Peranakan ที่ 100-104 Jalan Kedah, George Town, ปีนัง ถือรางวัล MICHELIN Bib Gourmand สำหรับอาหารคุ้มราคา. MICHELIN Guide จัดให้เป็น Peranakan ในพิกัด $ และระบุว่าดำเนินการโดยคู่สามีภรรยามากว่า 15 ปี โดย Ivy อยู่ในครัวและสามีเสิร์ฟที่โต๊ะ. ร้านมีเซ็ตเมนูแบ่งกันกินของจานขายดี ได้แก่ Kapitan chicken curry และ Joo Hoo Char ผัดผักรวมในพริกบด"
 keyTakeaways:
-  - "Ivy's Nyonya Cuisine เป็นร้าน Peranakan ระดับ MICHELIN Bib Gourmand ใน George Town ปีนัง ในพิกัดราคา $$"
+  - "Ivy's Nyonya Cuisine เป็นร้าน Peranakan ระดับ MICHELIN Bib Gourmand ใน George Town ปีนัง ในพิกัดราคา $"
   - "ดำเนินการโดยคู่สามีภรรยามากว่า 15 ปี — Ivy คุมครัว สามีเสิร์ฟที่โต๊ะ"
   - "MICHELIN เน้น Kapitan chicken curry และ Joo Hoo Char (ผัดผักรวมรสเผ็ดในพริกบด)"
   - "Guide แนะนำเซ็ตเมนูแบ่งกันกิน ที่สร้างรอบจาน Nyonya ขายดีของร้าน"

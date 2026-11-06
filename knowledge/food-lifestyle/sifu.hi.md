@@ -9,7 +9,7 @@ lang: "hi"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu, George Town, Penang की Jalan Pintal Tali पर एक MICHELIN Bib Gourmand Peranakan रेस्तरां है। इसकी रसोई दशकों के अनुभव वाली 70 वर्ष की एक घरेलू रसोइये के नेतृत्व में है, और इसका लगभग 40 व्यंजनों का मेनू पारंपरिक Nyonya पाककला के क्लासिक व्यंजनों को समेटता है — जिनमें इमली से भरपूर खट्टी-मीठी चटनी में एक लचीला asam prawn भी शामिल है।"
-answer: "Sifu, George Town, Penang की 154 Jalan Pintal Tali पर एक MICHELIN Bib Gourmand Peranakan रेस्तरां है। इसकी रसोई 70 वर्ष की एक महिला संभालती हैं जो दशकों से खाना बना रही हैं, और मेनू पारंपरिक Peranakan (Nyonya) पाककला के लगभग 40 à la carte क्लासिक व्यंजन प्रस्तुत करता है। सिग्नेचर में एक गहरी, इमली-भरपूर खट्टी-मीठी चटनी में लचीला asam prawn और mang kuang char शामिल हैं — सूखी स्क्विड और मशरूम के साथ भुना कसा हुआ याम बीन। MICHELIN इसे $$ श्रेणी में रखता है।"
+answer: "Sifu, George Town, Penang की 154 Jalan Pintal Tali पर एक MICHELIN Bib Gourmand Peranakan रेस्तरां है। इसकी रसोई 70 वर्ष की एक महिला संभालती हैं जो दशकों से खाना बना रही हैं, और मेनू पारंपरिक Peranakan (Nyonya) पाककला के लगभग 40 à la carte क्लासिक व्यंजन प्रस्तुत करता है। सिग्नेचर में एक गहरी, इमली-भरपूर खट्टी-मीठी चटनी में लचीला asam prawn और mang kuang char शामिल हैं — सूखी स्क्विड और मशरूम के साथ भुना कसा हुआ याम बीन। MICHELIN इसे $ श्रेणी में रखता है।"
 keyTakeaways:
   - "Sifu अच्छी गुणवत्ता और अच्छे मूल्य वाले भोजन के लिए MICHELIN Bib Gourmand रखता है।"
-  - "यह 154 Jalan Pintal Tali, George Town, Penang पर एक Peranakan (Nyonya) रेस्तरां है, जो MICHELIN $$ मूल्य-श्रेणी में है।"
+  - "यह 154 Jalan Pintal Tali, George Town, Penang पर एक Peranakan (Nyonya) रेस्तरां है, जो MICHELIN $ मूल्य-श्रेणी में है।"
   - "रसोई दशकों के अनुभव वाली 70 वर्ष की एक घरेलू रसोइये के नेतृत्व में है, जो लगभग 40 à la carte क्लासिक व्यंजन प्रस्तुत करती है।"
   - "सिग्नेचर व्यंजनों में इमली से भरपूर खट्टी-मीठी चटनी में एक लचीला asam prawn और mang kuang char (सूखी स्क्विड और मशरूम के साथ कसा हुआ याम बीन) शामिल हैं।"
   - "MICHELIN बताता है कि उसकी साइट के ज़रिए आरक्षण उपलब्ध नहीं है, इसलिए उसी के अनुसार योजना बनाएँ।"

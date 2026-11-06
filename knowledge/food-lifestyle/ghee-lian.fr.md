@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian est un stand de cuisine de rue MICHELIN Bib Gourmand à George Town, Penang, dans l'aire de restauration Medan Renong, réputé pour un insolite plat de nouilles green tom yum, aux côtés d'une soupe de nouilles et de nouilles sautées. Ce profil couvre sa reconnaissance MICHELIN, son plat signature, son emplacement et comment s'y rendre."
 seoTitle: "Ghee Lian : cuisine de rue Bib Gourmand de Penang"
 answer: "Ghee Lian est un stand de cuisine de rue de Penang référencé comme MICHELIN Bib Gourmand dans la sélection du MICHELIN Guide Kuala Lumpur & Penang. Sa signature est un insolite plat de nouilles green tom yum — que MICHELIN loue pour son équilibre entre l'acidulé et l'épicé — servi avec une soupe de nouilles et des nouilles sautées. Il se trouve dans l'aire de restauration Medan Renong, Jalan Tun Syed Sheh Barakhbah, George Town."

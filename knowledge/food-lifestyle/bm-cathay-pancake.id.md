@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake adalah gerobak jajanan kaki lima MICHELIN Bib Gourmand di Bukit Mertajam, Seberang Perai, di daratan utama Penang. Sejak 1962 ia menjual satu hidangan saja — apam balik, panekuk bakar arang dengan isian gula dan kacang, renyah di luar dan kenyal di dalam — dan antrean terbentuk pada jam sibuk."
 seoTitle: "BM Cathay Pancake: apam balik Bib Gourmand Penang"
 answer: "BM Cathay Pancake adalah gerobak jajanan kaki lima Bib Gourmand di sebelah Cathay Food Court di Jalan Aston, Bukit Mertajam, Seberang Perai, di daratan utama Penang. Sejak 1962 ia menyajikan satu hidangan saja: apam balik, panekuk bakar arang berisi gula dan kacang, renyah di luar dan kenyal di dalam, dibuat sesuai pesanan. Hanya menerima tunai dan layak diantre."

@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian là một quán ăn Quảng Đông trên Jalan Yew ở Pudu, Kuala Lumpur, nắm giữ Bib Gourmand của MICHELIN Guide và phục vụ claypot rice nấu trên than từ năm 1986. Được gắn thẻ 'Worth Queueing For', đây là món ưa thích của người địa phương với claypot rice phủ thịt muối, đùi gà hoặc cá mặn, cùng các món súp và ăn vặt. Bài viết này giới thiệu món ăn, không gian và cách ghé thăm."
 seoTitle: "Foong Lian, Kuala Lumpur"
 answer: "Foong Lian là một quán ăn Quảng Đông trên Jalan Yew ở Pudu, Kuala Lumpur, được công nhận bằng Bib Gourmand của MICHELIN Guide cho lối nấu ăn đáng đồng tiền. Quán phục vụ claypot rice nấu trên than từ năm 1986, canh lửa kỹ lưỡng, với các loại topping như lạp xưởng heo-và-gan muối, đùi gà hoặc cá mặn, cùng các món súp và ăn vặt như cuốn tàu hũ ky. Đây là một quán $ rẻ, được gắn thẻ 'Worth Queueing For', và tự quản lý việc đặt chỗ."

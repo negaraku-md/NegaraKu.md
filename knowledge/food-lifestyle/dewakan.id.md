@@ -18,7 +18,7 @@ keyTakeaways:
   - "Restoran ini juga membawa sebuah MICHELIN Green Star, penghargaan keberlanjutan dari guide ini, yang dilaporkan sebagai yang pertama dianugerahkan kepada sebuah restoran Malaysia."
   - "MICHELIN Guide mengklasifikasikan masakannya sebagai Malaysia dan Kontemporer, dibangun di seputar bahan lokal, asli, dan endemik dalam format menu degustasi."
   - "Restoran ini dipimpin oleh chef Darren Teoh dan berada di lantai 48 Naza Tower, Platinum Park, di kawasan KLCC."
-  - "MICHELIN Guide mencantumkannya dalam kategori harga tertinggi ($$$$); ini adalah destinasi fine dining yang reservasinya dikelola langsung oleh restoran."
+  - "MICHELIN Guide mencantumkannya dalam kategori harga tertinggi ($$); ini adalah destinasi fine dining yang reservasinya dikelola langsung oleh restoran."
 appliesTo: "Wisatawan, penggemar kuliner, dan pengunjung yang meneliti fine dining Malaysia yang diakui MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

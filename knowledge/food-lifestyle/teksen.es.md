@@ -9,7 +9,7 @@ lang: "es"
 sourceContentHash: "75d19bc642ed2a4f"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Teksen es un restaurante cantonés de larga trayectoria en Lebuh Carnarvon, en George Town, Penang, que ostenta un MICHELIN Bib Gourmand por una cocina de buena calidad y buena relación calidad-precio. En funcionamiento desde 1965, es conocido por sus platos cantoneses tradicionales bien elaborados junto a platos fusión con un giro local — su plato insignia es el tofu frito casero con anchoas locales secas."
 answer: "Teksen es un restaurante cantonés informal en 18 & 20 Lebuh Carnarvon, en George Town, Penang, que ostenta un MICHELIN Bib Gourmand — el reconocimiento de la guía a una cocina de buena calidad y buena relación calidad-precio. Abierto desde 1965, sirve platos cantoneses tradicionales además de platos fusión con un giro local, y su plato más conocido es el tofu frito casero con anchoas locales secas. Prevé cola en las horas punta."
 keyTakeaways:
   - "Teksen ostenta un MICHELIN Bib Gourmand, la distinción de la guía a una cocina de buena calidad y buena relación calidad-precio."
-  - "Es un restaurante cantonés en 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), con un precio en la banda MICHELIN $$."
+  - "Es un restaurante cantonés en 18 & 20 Lebuh Carnarvon, George Town, Penang (10100), con un precio en la banda MICHELIN $."
   - "La cocina funciona desde 1965 y combina platos cantoneses tradicionales con platos fusión con un giro local."
   - "El plato insignia es el tofu frito casero con anchoas locales secas; la guía también destaca una sopa de doble cocción diaria."
   - "MICHELIN lo etiqueta como «digno de hacer cola» — prevé espera en las horas de mayor afluencia y consulta el horario antes de ir."

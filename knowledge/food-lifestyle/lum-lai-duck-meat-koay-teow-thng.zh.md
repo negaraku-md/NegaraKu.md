@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng 是槟城乔治市 Cecil Street Market（Pasar Lebuh Cecil）内一个荣获 MICHELIN Bib Gourmand 的街头美食档口，以鸭肉 koay teow th'ng 闻名：扁河粉浸在以鸭肉和猪肉慢熬数小时的浓郁高汤中。由 Lau Lum Lai 于 1970 年代末创立，如今由他的儿子和儿媳经营。"
 seoTitle: "Lum Lai 鸭肉 Koay Teow Thng：槟城 Bib Gourmand"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng 是槟城乔治市 Cecil Street Market（Pasar Lebuh Cecil）内一个荣获 Bib Gourmand 的街头美食档口。它的招牌是鸭肉 koay teow th'ng：扁河粉浸在以鸭肉、猪肉和鱼饼熬成、清澈而满溢鲜味的高汤中，再撒上炸蒜与炸葱。这个家庭以同样的方式烹制了超过 40 年，高峰时段常常需要排队。"

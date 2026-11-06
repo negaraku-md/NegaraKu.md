@@ -9,7 +9,7 @@ lang: "ja"
 sourceContentHash: "2351caf0c9f02733"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Laksaliciousは、ペナン、ジョージタウンのJalan HuttonにあるMICHELIN Bib Gourmandの食堂で、laksaが主役だ。小さく個性あふれる店で、酸っぱく辛い魚のスープのNyonya asam laksaと、濃厚でクリーミーなココナッツミルクのスープのNyonya laksa lemakのどちらかを選べ、エビのフリッター、nasi ulam、gula melaka cendolなどの料理もある。"
 answer: "Laksaliciousは、ペナン、ジョージタウンの117-117A Jalan HuttonにあるMICHELIN Bib Gourmandのレストランで、laksaが見どころだ。二つのスタイル——酸っぱく辛い魚のスープのNyonya asam laksaと、濃厚でクリーミーなココナッツミルクのスープのNyonya laksa lemak——に加え、カリッとしたエビのフリッター、nasi ulam、gula melaka cendolなどのサイドを供する。MICHELINは$の価格帯に位置づけ、料理をMalaysianに分類している。"

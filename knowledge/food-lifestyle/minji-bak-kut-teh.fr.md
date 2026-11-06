@@ -15,13 +15,13 @@ sourceContentHash: "261d47b46044a79a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Né comme un stand de rue dans les années 1940, il est aujourd'hui tenu par des propriétaires de troisième génération, dans une salle usée et chargée d'histoire."
   - "Le MICHELIN Guide dit que sa recette de bak kut teh n'a pas changé depuis 80 ans, donnant un bouillon aux herbes et naturellement sucré."
   - "Les convives choisissent leur morceau de porc — travers, poitrine, tripes ou une combinaison — et le guide suggère de tremper la viande dans de la sauce soja avec ail et piments."
-  - "Il se trouve au 7-6 Jalan Sungai Besi, Pudu, dans la tranche de prix $$, et le guide le signale « Worth Queueing For »."
+  - "Il se trouve au 7-6 Jalan Sungai Besi, Pudu, dans la tranche de prix $, et le guide le signale « Worth Queueing For »."
 faq:
   - q: "Qu'est-ce que le bak kut teh, et comment est la version de Minji ?"
     a: "Le bak kut teh est une soupe malaisienne de travers de porc mijotée avec des herbes et des épices. Le MICHELIN Guide décrit celle de Minji comme aux herbes et naturellement sucrée, faite d'après une recette inchangée depuis 80 ans. Vous choisissez votre morceau de porc — travers, poitrine, tripes ou un mélange — et le guide suggère de tremper la viande dans de la sauce soja avec ail et piments."
   - q: "Quel âge a Minji ?"
     a: "Le MICHELIN Guide dit qu'il est né comme un stand de rue dans les années 1940 et qu'il est aujourd'hui tenu par des propriétaires de troisième génération, avec un intérieur usé et chargé d'histoire qui reflète des générations de convives."
   - q: "Où se trouve Minji et dois-je m'attendre à faire la queue ?"
-    a: "Il se trouve au 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, dans la tranche de prix $$. Le MICHELIN Guide le signale « Worth Queueing For », attendez-vous donc à des files aux heures de pointe. Les réservations sont gérées directement par le restaurant et les cartes de crédit ne sont pas acceptées."
+    a: "Il se trouve au 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100, dans la tranche de prix $. Le MICHELIN Guide le signale « Worth Queueing For », attendez-vous donc à des files aux heures de pointe. Les réservations sont gérées directement par le restaurant et les cartes de crédit ne sont pas acceptées."
 
 updated: 2026-11-06
 sources:

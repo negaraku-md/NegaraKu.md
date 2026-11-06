@@ -9,17 +9,16 @@ contentType: "place"
 lang: "es"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn es un restaurante con Bib Gourmand MICHELIN en Lebuh Presgrave, George Town, Penang, que sirve una carta à la carte reducida de platos modernos que funden cocina peranakan y malasia. Construido en torno a una cocina abierta y una larga barra, figura como Malaysian ($); su plato insignia es una pechuga de pato madurada en un pan al vapor."
 
-summary: "Communal Table by Gēn es un restaurante con Bib Gourmand MICHELIN en Lebuh Presgrave, George Town, Penang, que sirve una carta à la carte reducida de platos modernos que funden cocina peranakan y malasia. Construido en torno a una cocina abierta y una larga barra, figura como Malaysian ($$); su plato insignia es una pechuga de pato madurada en un pan al vapor."
-
-answer: "Communal Table by Gēn es un restaurante malasio-moderno en 68 Lebuh Presgrave, George Town, Penang, con un Bib Gourmand MICHELIN por su cocina de buen precio. La MICHELIN Guide lo clasifica como Malaysian en la banda $$ y describe una sala informal con cocina abierta, una larga barra y ventanales de suelo a techo, que sirve una pequeña carta à la carte de cena con platos modernos que funden las cocinas peranakan y malasia con ingredientes locales. Su plato insignia es una pechuga de pato madurada en un pan al vapor, con piel crujiente y una 'salsa secreta.'"
+answer: "Communal Table by Gēn es un restaurante malasio-moderno en 68 Lebuh Presgrave, George Town, Penang, con un Bib Gourmand MICHELIN por su cocina de buen precio. La MICHELIN Guide lo clasifica como Malaysian en la banda $ y describe una sala informal con cocina abierta, una larga barra y ventanales de suelo a techo, que sirve una pequeña carta à la carte de cena con platos modernos que funden las cocinas peranakan y malasia con ingredientes locales. Su plato insignia es una pechuga de pato madurada en un pan al vapor, con piel crujiente y una 'salsa secreta.'"
 keyTakeaways:
-  - "Communal Table by Gēn es un restaurante con Bib Gourmand MICHELIN en George Town, Penang, clasificado como Malaysian en la banda $$."
+  - "Communal Table by Gēn es un restaurante con Bib Gourmand MICHELIN en George Town, Penang, clasificado como Malaysian en la banda $."
   - "La cocina sirve una pequeña carta à la carte de platos modernos que mezclan cocina peranakan y malasia con ingredientes locales."
   - "La elección insignia de MICHELIN es una pechuga de pato madurada en un pan al vapor — piel crujiente y una 'salsa secreta.'"
   - "La sala está construida en torno a una cocina abierta, una larga barra comunal y ventanales de suelo a techo — una experiencia de comer en barra."

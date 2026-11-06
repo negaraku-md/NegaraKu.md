@@ -9,7 +9,7 @@ lang: "ta"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee என்பது Penang-இன் George Town-இல் Jalan Burma-இல் இரவில் இயங்கும் ஒரு தெருவோர உணவுக் கடை; இது MICHELIN Bib Gourmand-ஐப் பெற்றுள்ளது. 30 ஆண்டுகளுக்கும் மேலாக விருப்பமானதாக இருக்கும் இது, பன்றி எலும்புகளாலும் இறால் ஓடுகளாலும் தயாரிக்கப்படும் ஆழமான உமாமி சிவப்பு இறால் சூப்பின் அடிப்படையிலான Hokkien prawn mee மற்றும் loh mee-க்காகப் பெயர் பெற்றது; சுமார் பன்னிரண்டு விருப்பத் தேர்வு டாப்பிங்குகள் உண்டு."
 answer: "Green House Prawn Mee and Loh Mee என்பது Penang-இன் George Town-இல் Jalan Burma-இல் உள்ள ஒரு MICHELIN Bib Gourmand தெருவோர உணவுக் கடை. Restoran Old Green House-இனுள் அமைந்துள்ள இது, அதன் Hokkien prawn mee மற்றும் loh mee-க்காக 30 ஆண்டுகளுக்கும் மேலாக விருப்பமானதாக உள்ளது. சிக்னேச்சர் சிவப்பு இறால் சூப் பன்றி எலும்புகளாலும் இறால் ஓடுகளாலும் தயாரிக்கப்பட்டு ஆழமான உமாமி சுவையைத் தருகிறது; சுமார் பன்னிரண்டு கூடுதல் டாப்பிங்குகள் வழங்கப்படுகின்றன. இது இரவில் இயங்குகிறது, பணம் மட்டுமே ஏற்கும்."

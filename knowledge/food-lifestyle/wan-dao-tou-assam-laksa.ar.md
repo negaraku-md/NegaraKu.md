@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Wan Dao Tou Assam Laksa هو كشك طعام شارع حائز على MICHELIN Bib Gourmand في جورج تاون، بينانغ، يقدّم طبق assam laksa الحلو الحامض الحار المصنوع من التمر الهندي والسمك وفق وصفة عائلية عمرها نحو 50 عامًا يطهوها الآن الجيل الثالث. يغطي هذا الملف تقدير MICHELIN وطبقه المميز وموقعه وكيفية زيارته."
 seoTitle: "Wan Dao Tou Assam Laksa: بيب غورماند بينانغ"
 answer: "‏Wan Dao Tou Assam Laksa كشك طعام شارع في بينانغ مُدرج بوصفه MICHELIN Bib Gourmand ضمن اختيار MICHELIN Guide Kuala Lumpur & Penang. يقدّم طبق assam laksa — مرق إسقمري محمّض بالتمر الهندي يُسكب فوق شعيرية أرز سميكة ويُزيّن بالخيار والكراث والأناناس — وفق وصفة عائلية عمرها نحو 50 عامًا يطهوها الآن الجيل الثالث. يقع في 1 Jalan Gottlieb، جورج تاون."

@@ -18,7 +18,7 @@ keyTakeaways:
   - "ร้านยังมี MICHELIN Green Star ซึ่งเป็นเกียรติด้านความยั่งยืนของไกด์ และมีรายงานว่าเป็นรางวัลแรกที่มอบให้แก่ร้านอาหารในมาเลเซีย"
   - "MICHELIN Guide จัดอาหารของร้านเป็นแบบมาเลเซียและร่วมสมัย สร้างสรรค์รอบ ๆ วัตถุดิบท้องถิ่น พื้นเมือง และเฉพาะถิ่น ในรูปแบบเทสติ้งเมนู"
   - "ร้านนำโดยเชฟ Darren Teoh และตั้งอยู่บนชั้น 48 ของ Naza Tower, Platinum Park ในย่าน KLCC"
-  - "MICHELIN Guide จัดร้านไว้ในช่วงราคาสูงสุด ($$$$) เป็นจุดหมายไฟน์ไดนิงที่ร้านจัดการการจองเอง"
+  - "MICHELIN Guide จัดร้านไว้ในช่วงราคาสูงสุด ($$) เป็นจุดหมายไฟน์ไดนิงที่ร้านจัดการการจองเอง"
 appliesTo: "นักเดินทาง ผู้หลงใหลในอาหาร และผู้ที่ไปรับประทานอาหาร ซึ่งกำลังค้นคว้าเกี่ยวกับไฟน์ไดนิงมาเลเซียที่ได้รับการยอมรับจาก MICHELIN ในกัวลาลัมเปอร์"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "9ec9eeec52568843"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Dewakan — MICHELIN Guide Kuala Lumpur"

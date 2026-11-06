@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "96389253edf1ad12"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ravi's Famous Apom Manis 是槟城乔治市一家历史悠久的街头美食摊，入选 MICHELIN Guide 的 Bib Gourmand 名单，专精 apom manis——一种甜美、带花边的椰子米粉薄饼。槟城风味在面糊中加入鸡蛋以添香气；该摊已经营近一个世纪，常在上午售罄。"
 seoTitle: "Ravi's Famous Apom Manis，槟城（Bib）"
 answer: "Ravi's Famous Apom Manis 是位于槟城乔治市 Jalan Burma 的一家 Bib Gourmand 街头美食摊。它专精 apom manis——一种甜美、中心柔软、边缘酥脆的米粉与椰子薄饼，按槟城风味在面糊中加入鸡蛋以增香。这家家族摊位可追溯至 20 世纪初，通常在接近中午前售罄。"

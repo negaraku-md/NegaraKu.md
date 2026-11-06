@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "08fba6ddb3e890b5"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee ialah gerai makanan jalanan MICHELIN Bib Gourmand di Bukit Mertajam, Seberang Perai (tanah besar Pulau Pinang), terkenal dengan curry mee berusia berdekad-dekad dengan sup santan-dan-kari yang pekat serta kerang separuh masak. Profil ini merangkumi pengiktirafan MICHELIN, mangkuk istimewanya, lokasi dan cara melawatnya."
 seoTitle: "Taman Bukit Curry Mee: Bib Gourmand Pulau Pinang"
 answer: "Taman Bukit Curry Mee ialah gerai makanan jalanan di tanah besar Pulau Pinang yang disenaraikan sebagai MICHELIN Bib Gourmand dalam pemilihan MICHELIN Guide Kuala Lumpur & Penang. Ia terkenal dengan curry mee — mi dalam sup pekat santan-dan-pes-kari yang dihias kerang separuh masak — yang dijual berdekad-dekad dari sebuah medan selera yang terselindung. Ia terletak di Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai."

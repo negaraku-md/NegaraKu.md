@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak détient un Bib Gourmand dans le MICHELIN Guide Kuala Lumpur & Penang — la distinction du guide pour une bonne qualité à bon prix, et non une MICHELIN Star."
   - "Le MICHELIN Guide le décrit comme « une expression de la fierté et de l'identité nationales », servant des plats qui sont des classiques du quotidien pour les habitants."
   - "Son plat le plus populaire est le plateau de nasi ambeng, un assortiment à partager dont les portions s'ajustent à votre groupe."
-  - "Il se trouve dans une rue résidentielle au 24 Jalan Beremi, Bukit Bintang, dans la tranche de prix $$ (modérée), et porte l'étiquette « Eat like a local » du guide."
+  - "Il se trouve dans une rue résidentielle au 24 Jalan Beremi, Bukit Bintang, dans la tranche de prix $ (modérée), et porte l'étiquette « Eat like a local » du guide."
   - "La liste Bib Gourmand est révisée chaque année ; confirmez donc la distinction actuelle sur guide.michelin.com avant de planifier une visite."
 faq:
   - q: "Pour quoi Congkak est-il connu ?"
@@ -41,7 +41,7 @@ faq:
   - q: "Congkak a-t-il une MICHELIN Star ?"
     a: "Non. Congkak détient un Bib Gourmand, une distinction MICHELIN distincte pour les restaurants proposant une cuisine de bonne qualité à bon prix. Ce n'est pas une Star, et les deux sont décernées indépendamment."
   - q: "Où se trouve Congkak et combien coûte-t-il ?"
-    a: "Il se trouve au 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, dans une rue résidentielle proche du centre. Le MICHELIN Guide le place dans la tranche de prix $$, soit une dépense modérée, et il accepte les cartes de crédit."
+    a: "Il se trouve au 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, dans une rue résidentielle proche du centre. Le MICHELIN Guide le place dans la tranche de prix $, soit une dépense modérée, et il accepte les cartes de crédit."
 
 updated: 2026-11-06
 sources:

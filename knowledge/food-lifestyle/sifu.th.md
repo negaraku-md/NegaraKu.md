@@ -9,7 +9,7 @@ lang: "th"
 sourceContentHash: "e542538768546cca"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Sifu เป็นร้านอาหาร Peranakan MICHELIN Bib Gourmand บนถนน Jalan Pintal Tali ใน George Town รัฐ Penang ครัวนำโดยแม่ครัวบ้าน ๆ วัย 70 กว่าที่มีประสบการณ์หลายทศวรรษ และเมนูราว 40 อย่างครอบคลุมเมนูคลาสสิกของอาหาร Nyonya ดั้งเดิม — หนึ่งในนั้นคือ asam prawn เนื้อเด้งในซอสเปรี้ยวหวานที่เข้มข้นด้วยมะขาม"
-answer: "Sifu เป็นร้านอาหาร Peranakan MICHELIN Bib Gourmand ที่ 154 Jalan Pintal Tali ใน George Town รัฐ Penang ครัวนำโดยหญิงวัย 70 กว่าที่ทำอาหารมาหลายทศวรรษ และเมนูมีเมนูคลาสสิกแบบ à la carte ของอาหาร Peranakan (Nyonya) ดั้งเดิมราว 40 อย่าง เมนูซิกเนเจอร์รวมถึง asam prawn เนื้อเด้งในซอสเปรี้ยวหวานสีเข้มที่หนักมะขาม และ mang kuang char มันแกวขูดฝอยผัดกับปลาหมึกแห้งและเห็ด MICHELIN จัดอยู่ในระดับราคา $$"
+answer: "Sifu เป็นร้านอาหาร Peranakan MICHELIN Bib Gourmand ที่ 154 Jalan Pintal Tali ใน George Town รัฐ Penang ครัวนำโดยหญิงวัย 70 กว่าที่ทำอาหารมาหลายทศวรรษ และเมนูมีเมนูคลาสสิกแบบ à la carte ของอาหาร Peranakan (Nyonya) ดั้งเดิมราว 40 อย่าง เมนูซิกเนเจอร์รวมถึง asam prawn เนื้อเด้งในซอสเปรี้ยวหวานสีเข้มที่หนักมะขาม และ mang kuang char มันแกวขูดฝอยผัดกับปลาหมึกแห้งและเห็ด MICHELIN จัดอยู่ในระดับราคา $"
 keyTakeaways:
   - "Sifu ได้รับ MICHELIN Bib Gourmand สำหรับอาหารคุณภาพดีคุ้มค่า"
-  - "เป็นร้านอาหาร Peranakan (Nyonya) ที่ 154 Jalan Pintal Tali, George Town, Penang ในระดับราคา MICHELIN $$"
+  - "เป็นร้านอาหาร Peranakan (Nyonya) ที่ 154 Jalan Pintal Tali, George Town, Penang ในระดับราคา MICHELIN $"
   - "ครัวนำโดยแม่ครัวบ้าน ๆ วัย 70 กว่าที่มีประสบการณ์หลายทศวรรษ เสนอเมนูคลาสสิกแบบ à la carte ราว 40 อย่าง"
   - "เมนูซิกเนเจอร์รวมถึง asam prawn เนื้อเด้งในซอสเปรี้ยวหวานที่เข้มข้นด้วยมะขาม และ mang kuang char (มันแกวขูดฝอยกับปลาหมึกแห้งและเห็ด)"
   - "MICHELIN ระบุว่าไม่สามารถจองผ่านเว็บไซต์ของตนได้ จึงควรวางแผนตามนั้น"

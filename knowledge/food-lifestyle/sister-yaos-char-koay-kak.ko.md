@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak은 페낭 조지타운의 Lorong Macalister에 있는 MICHELIN Bib Gourmand 길거리 음식 노점으로, char koay kak을 냅니다. 좋은 wok hei와 간장, 숙주, 달걀, 고추로 볶은 쌀떡 볶음입니다. 이 Teochew 요리는 자매의 아버지가 1963년에 시작했으며, 지금은 세 딸이 운영합니다."
 seoTitle: "Sister Yao's Char Koay Kak: 페낭 Bib Gourmand"
 answer: "Sister Yao's Char Koay Kak은 페낭 조지타운 96 Lorong Macalister에 있는 Bib Gourmand 길거리 음식 노점입니다. 유일한 요리는 char koay kak으로, 스모키한 wok hei, 간장, 숙주, 달걀, 고추로 볶은 Teochew식 쌀떡 볶음이며, 요청 시 추가 매운 소스가 나옵니다. 자매의 아버지가 1963년에 시작했고, 지금은 세 딸이 운영합니다. 현금만 받습니다."

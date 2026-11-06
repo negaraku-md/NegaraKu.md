@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak はペナン州ジョージタウンの Lorong Macalister にある MICHELIN Bib Gourmand の屋台で、char koay kak を供します。しっかりとした wok hei、しょうゆ、もやし、卵、唐辛子で仕上げた焼きライスケーキです。この潮州料理は姉妹の父が 1963 年に始め、いまは三人の娘が切り盛りしています。"
 seoTitle: "Sister Yao's Char Koay Kak：ペナン Bib Gourmand"
 answer: "Sister Yao's Char Koay Kak はペナン州ジョージタウンの 96 Lorong Macalister にある Bib Gourmand の屋台です。唯一の料理は char koay kak。香ばしい wok hei、しょうゆ、もやし、卵、唐辛子で仕上げた潮州風の焼きライスケーキで、希望に応じて追加の辛いソースが付きます。姉妹の父が 1963 年に始め、いまは三人の娘が切り盛りしています。現金のみです。"

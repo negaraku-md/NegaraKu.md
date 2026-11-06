@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "25075c0f69943804"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Aliyaa مطعم سريلانكي في Bukit Damansara بكوالالمبور، حاز على Bib Gourmand من MICHELIN Guide تقديرًا لطهوه الجيد بسعر مناسب. يذكر MICHELIN Guide أطباقًا مميزة منها سلطعون كامل، وروبيان Negombo في صلصة الأناناس، وطبق kuliyal، مع تعديل درجة الحرارة حسب طلب رواد المطعم."
 seoTitle: "Aliyaa"
 answer: "Aliyaa مطعم سريلانكي في Plaza Damansara بحي Bukit Damansara في كوالالمبور، يحمل MICHELIN Bib Gourmand — وهو جائزة يمنحها الدليل للجودة الجيدة بسعر مناسب، وليست نجمة. يُشيد MICHELIN Guide بطهوه السريلانكي الأصيل، ويُبرز أطباقًا مثل السلطعون الكامل، وروبيان Negombo في صلصة الأناناس، وطبق kuliyal، مضيفًا أن المطبخ يُعدّل درجة الحرارة وفق ذوق الزبون."
@@ -21,7 +20,7 @@ keyTakeaways:
   - "يحمل Aliyaa جائزة MICHELIN Bib Gourmand — جائزة الدليل عن «الجودة الجيدة بسعر مناسب»، وليست نجمة — ضمن اختيار MICHELIN Guide Kuala Lumpur & Penang الحالي."
   - "يصفه MICHELIN Guide بأنه يقدّم طهوًا سريلانكيًا أصيلًا، وهو مطبخ نادر نسبيًا في مشهد المطاعم بكوالالمبور."
   - "يُبرز MICHELIN Guide أطباقًا مميزة منها سلطعون كامل، وروبيان Negombo في صلصة الأناناس، وطبق kuliyal (أرز يُخبز في ورق الموز)."
-  - "يقع في Plaza Damansara بحي Bukit Damansara، ضمن فئة الأسعار $$، ويُعدّل المطبخ درجة الحرارة عند الطلب."
+  - "يقع في Plaza Damansara بحي Bukit Damansara، ضمن فئة الأسعار $، ويُعدّل المطبخ درجة الحرارة عند الطلب."
   - "يُراجَع اختيار Bib Gourmand كل عام، وقد تتغيّر ساعات عمل المطعم وأسعاره وقائمته."
 faq:
   - q: "ما نوع الطعام الذي يقدّمه Aliyaa؟"
@@ -29,7 +28,7 @@ faq:
   - q: "هل يحمل Aliyaa نجمة MICHELIN؟"
     a: "لا. يحمل Bib Gourmand، وهي جائزة يمنحها MICHELIN Guide للجودة الجيدة بسعر مناسب، وليست تصنيف نجمة أو نجمتين أو ثلاث نجوم. وهما تكريمان منفصلان من MICHELIN."
   - q: "أين يقع Aliyaa؟"
-    a: "يُدرجه MICHELIN Guide في العنوان 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur، ضمن فئة الأسعار $$. تأكّد من ساعات العمل وسياسة الحجز الحالية مباشرة."
+    a: "يُدرجه MICHELIN Guide في العنوان 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur، ضمن فئة الأسعار $. تأكّد من ساعات العمل وسياسة الحجز الحالية مباشرة."
 keywords:
   - "Aliyaa"
   - "Sri Lankan restaurant Kuala Lumpur"

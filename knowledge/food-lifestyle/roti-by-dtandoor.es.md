@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor es un restaurante del norte de la India junto a Jalan Ampang, en Kuala Lumpur, incluido en la MICHELIN Guide con un Bib Gourmand por su buena comida a buen precio. Alojado en un bungaló residencial y parte de la marca d'Tandoor, que abrió en Malasia en 1990, ofrece una reconfortante variedad de fina cocina india basada en recetas familiares; el butter chicken masala, el naan suave y masticable y el helado kulfi figuran entre los platos que MICHELIN escoge. Se sitúa en la franja de precio $$ y es apto para familias y para comer al aire libre."
+answer: "Roti by d'Tandoor es un restaurante del norte de la India junto a Jalan Ampang, en Kuala Lumpur, incluido en la MICHELIN Guide con un Bib Gourmand por su buena comida a buen precio. Alojado en un bungaló residencial y parte de la marca d'Tandoor, que abrió en Malasia en 1990, ofrece una reconfortante variedad de fina cocina india basada en recetas familiares; el butter chicken masala, el naan suave y masticable y el helado kulfi figuran entre los platos que MICHELIN escoge. Se sitúa en la franja de precio $ y es apto para familias y para comer al aire libre."
 keyTakeaways:
   - "Roti by d'Tandoor tiene un Bib Gourmand de la MICHELIN Guide —el galardón a la buena calidad a buen precio— en Kuala Lumpur."
   - "Sirve cocina del norte de la India basada en recetas familiares y una mezcla de hierbas y especias, en una casa junto a Jalan Ampang."
   - "MICHELIN destaca el butter chicken masala, el naan suave y masticable y el helado kulfi, que viene en varios sabores."
   - "Forma parte de la marca d'Tandoor, que según MICHELIN abrió en Malasia en 1990."
-  - "Está en 82 Jalan Damai, junto a Jalan Ampang, en la franja de precio $$, con mesas al aire libre y un ambiente apto para familias."
+  - "Está en 82 Jalan Damai, junto a Jalan Ampang, en la franja de precio $, con mesas al aire libre y un ambiente apto para familias."
 appliesTo: "Viajeros y comensales que buscan cocina del norte de la India asequible y reconocida por MICHELIN en Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

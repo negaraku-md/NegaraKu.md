@@ -9,7 +9,7 @@ lang: "hi"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood, Seberang Perai के Bukit Mertajam में एक MICHELIN Bib Gourmand रेस्तरां है — Penang राज्य का मुख्य-भूभाग हिस्सा। पास के एक निवासी द्वारा खोली गई एक आरामदेह मोहल्ले की जगह, यह एशियाई प्रभावों वाला समकालीन यूरोपीय भोजन तथा ग्रिल्ड व्यंजन परोसता है, जिसका मेनू हर छह सप्ताह में बदलता है और घर में बना sourdough इसकी सिग्नेचर में से एक है।"
-answer: "Neighbourwood, Seberang Perai के Bukit Mertajam, 3427 Jalan Kulim में एक MICHELIN Bib Gourmand रेस्तरां है — Penang राज्य का मुख्य-भूभाग हिस्सा। यह एशियाई प्रभावों वाला समकालीन यूरोपीय भोजन ग्रिल्ड व्यंजनों के साथ परोसता है, जिसका मेनू हर छह सप्ताह में बदलता है जबकि कुछ सिग्नेचर व्यंजन बने रहते हैं। सुनहरा, भुरभुरा घर में बना sourdough और मिठाइयों का विस्तृत चयन खास आकर्षण हैं। MICHELIN इसे $$ श्रेणी में रखता है।"
+answer: "Neighbourwood, Seberang Perai के Bukit Mertajam, 3427 Jalan Kulim में एक MICHELIN Bib Gourmand रेस्तरां है — Penang राज्य का मुख्य-भूभाग हिस्सा। यह एशियाई प्रभावों वाला समकालीन यूरोपीय भोजन ग्रिल्ड व्यंजनों के साथ परोसता है, जिसका मेनू हर छह सप्ताह में बदलता है जबकि कुछ सिग्नेचर व्यंजन बने रहते हैं। सुनहरा, भुरभुरा घर में बना sourdough और मिठाइयों का विस्तृत चयन खास आकर्षण हैं। MICHELIN इसे $ श्रेणी में रखता है।"
 keyTakeaways:
   - "Neighbourwood अच्छी गुणवत्ता और अच्छे मूल्य वाले भोजन के लिए MICHELIN Bib Gourmand रखता है।"
-  - "यह एशियाई प्रभावों वाला European Contemporary (समकालीन यूरोपीय) भोजन तथा ग्रिल्ड व्यंजन MICHELIN $$ मूल्य-श्रेणी में परोसता है।"
+  - "यह एशियाई प्रभावों वाला European Contemporary (समकालीन यूरोपीय) भोजन तथा ग्रिल्ड व्यंजन MICHELIN $ मूल्य-श्रेणी में परोसता है।"
   - "मेनू लगभग हर छह सप्ताह में बदलता है, जिसमें साझा करने लायक कुछ सिग्नेचर व्यंजन बने रहते हैं।"
   - "कई स्वादों में घर में बना sourdough और दस से अधिक मिठाइयों का चयन खास व्यंजन हैं।"
   - "यह 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) पर है — Penang के मुख्य भूभाग पर, George Town द्वीप पर नहीं।"

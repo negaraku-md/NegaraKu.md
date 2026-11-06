@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "af98d1d01822c0b6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Winn's Cafe ialah restoran Peranakan MICHELIN Bib Gourmand di George Town, Pulau Pinang, dikendalikan oleh pasangan suami isteri dari sebuah rumah berkembar, dengan si isteri memasak resipi Nyonya keluarganya. Profil ini merangkumi pengiktirafan MICHELIN, hidangan istimewanya, suasana dan cara melawatnya."
 seoTitle: "Winn's Cafe: Bib Gourmand Peranakan Pulau Pinang"
 answer: "Winn's Cafe ialah sebuah restoran Peranakan di George Town, Pulau Pinang, yang disenaraikan sebagai MICHELIN Bib Gourmand dalam pemilihan MICHELIN Guide Kuala Lumpur & Penang. Sepasang suami isteri mengendalikannya dari sebuah rumah berkembar, dengan si isteri memasak resipi Nyonya keluarganya; MICHELIN menonjolkan otak otak dan ikan pari asam tumisnya. Ia terletak di 38 Jalan Cantonment, George Town."

@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ta"
 sourceContentHash: "899bf571aa6a9eea"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Moh Teng Pheow Nyonya Koay என்பது பினாங்கு, George Town-இல் உள்ள ஒரு MICHELIN Bib Gourmand கொய் (kueh) தயாரிப்பாளர்; அதன் கைவினை 1933-ஐ நோக்கிச் செல்கிறது. Lebuh Chulia-வுக்கு அருகே மறைந்திருக்கும் இது, பாரம்பரிய Nyonya kueh-ஐ — kueh lapis, kueh talam, ang koo, Nyonya chang — வேகவைத்து, பொரித்து, சுட்டு, கண்ணாடிக் கூரையின் கீழ் பினாங்கு பாணி குடைகளுடன் பரிமாறுகிறது."
 
 answer: "Moh Teng Pheow Nyonya Koay என்பது பினாங்கு, George Town-இல், Lebuh Chulia அருகேயுள்ள Jalan Masjid-இல் இயங்கும் ஒரு பாரம்பரிய Nyonya kueh தயாரிப்பாளர். பணத்துக்கு மதிப்புள்ள சமையலுக்கான Guide-இன் அடையாளமான MICHELIN Bib Gourmand-ஐ இது வைத்திருக்கிறது, மேலும் $ விலைப் பிரிவில் 'Small eats' என்பதன் கீழ் பட்டியலிடப்பட்டுள்ளது. இக்கடை அதன் kueh-ஐ — kueh lapis, kueh talam, ang koo, Nyonya chang போன்ற வேகவைத்த, பொரித்த, சுட்ட கேக்குகள், கொழுக்கட்டைகள், புட்டுகள் — 1933 முதல் அதே முறையில் செய்துவருகிறது; இப்போது தொழிற்சாலைக்குப் பின்னால் ஒரு கண்ணாடிக் கூரையிட்ட உணவுப் பகுதியில் பரிமாறப்படுகிறது."

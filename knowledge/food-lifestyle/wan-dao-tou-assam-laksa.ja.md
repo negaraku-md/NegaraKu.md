@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa は、ペナン州ジョージタウンにある MICHELIN Bib Gourmand の屋台で、タマリンドと魚で仕立てた甘酸っぱく辛い assam laksa を提供する。約50年前からの家族のレシピを、いまは三代目が受け継いで調理している。本プロフィールでは、MICHELIN の評価、看板の一杯、場所、訪問方法を紹介する。"
 seoTitle: "Wan Dao Tou Assam Laksa：ペナンのビブグルマン"
 answer: "Wan Dao Tou Assam Laksa はペナンの屋台で、MICHELIN Guide Kuala Lumpur & Penang のセレクションで MICHELIN Bib Gourmand に選ばれている。提供するのは assam laksa——タマリンドで酸味をつけたサバの出汁を太い米麺にかけ、キュウリ、エシャロット、パイナップルを添えた一杯で、約50年前からの家族のレシピを三代目が受け継ぐ。場所は 1 Jalan Gottlieb、ジョージタウン。"

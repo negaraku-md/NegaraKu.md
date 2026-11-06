@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "e16f428c1b0bca5e"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Anak Babaはクアラルンプール、Brickfieldsにあるプラナカン（Peranakan）料理店で、価値ある料理に対してMICHELIN GuideからBib Gourmandを贈られています。2018年の開業以来、インド・マレー（Indo-Malay）の風味に中華の影響を融合させた南部プラナカン料理を提供しており、看板料理はayam goreng kunyitを添えたnasi lemakです。"
 seoTitle: "Anak Baba"
 answer: "Anak Babaはクアラルンプール、Brickfieldsにあるプラナカン料理店で、MICHELIN Bib Gourmand——良質な料理を手頃な価格で提供する店に贈られるGuideの賞であり、星ではありません——を保持しています。2018年の開業以来、インド・マレーの風味に中華の影響を融合させた南部プラナカン料理を提供しており、MICHELIN Guideはayam goreng kunyit（ターメリックの揚げ鶏）を添えたnasi lemakを推しています。Guideの最も低い（$）価格帯に位置します。"

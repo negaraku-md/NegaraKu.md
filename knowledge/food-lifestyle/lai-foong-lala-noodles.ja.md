@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles は、クアラルンプール中心部の Jalan Sultan にある中華麺料理の専門店で、コストパフォーマンスの高い料理に対して MICHELIN Guide から Bib Gourmand を与えられています。名物は、中国の黄酒と生姜で香りづけしたスープにエビを添えた lala（ハマグリ）bihun です。"
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles は、クアラルンプールの Jalan Sultan にある麺料理店で、MICHELIN Bib Gourmand を保持しています。これは良質な料理を手頃な価格で提供する店に Guide が与える賞です。名物料理は lala（ハマグリ）bihun にエビを添えたもので、MICHELIN Guide はそのスープを中国の黄酒と生姜で香り高いと評しています。屋台から始まり、通りの角にある2階建ての店舗へと発展し、Guide の最も低い（$）価格帯に位置づけられています。"

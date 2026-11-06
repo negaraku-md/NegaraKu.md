@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee adalah gerai makanan jalanan di Pudu, Kuala Lumpur, yang menyandang Bib Gourmand MICHELIN Guide dan terkenal dengan siew yok — babi panggang berkulit renyah dan dagingnya juicy. Buka hanya beberapa jam saat makan siang dan ditandai 'Worth Queueing For', gerai ini menarik orang yang datang lebih awal untuk batch tengah hari. Profil ini membahas babi panggangnya, antreannya, dan cara berkunjung."
 seoTitle: "Wong Mei Kee, Kuala Lumpur"
 answer: "Wong Mei Kee adalah gerai makanan jalanan di Pudu, Kuala Lumpur, yang diakui dengan Bib Gourmand MICHELIN Guide dan terkenal dengan siew yok — babi panggang berkulit renyah dan dagingnya juicy. Gerai ini buka hanya beberapa jam saat makan siang, ditandai 'Worth Queueing For', dan MICHELIN menyarankan datang lebih awal dan menunggu babi panggang keluar dari oven tepat tengah hari. Ini gerai $ yang murah dan menangani pemesanannya sendiri."

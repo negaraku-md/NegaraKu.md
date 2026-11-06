@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Sister Yao's Char Koay Kak كشك طعام شوارع حائز على MICHELIN Bib Gourmand في Lorong Macalister بجورج تاون، بينانغ، يقدّم char koay kak: كعكة أرز مقلية بـ wok hei جيد وصلصة الصويا وبراعم الفاصوليا والبيض والفلفل الحار. بدأ هذا الطبق الـ Teochew والدُ الأخوات عام 1963، وتديره الآن ثلاث بنات."
 seoTitle: "Sister Yao's Char Koay Kak: Bib Gourmand بينانغ"
 answer: "‏Sister Yao's Char Koay Kak كشك طعام شوارع حائز على Bib Gourmand في 96 Lorong Macalister، جورج تاون، بينانغ. طبقه الوحيد هو char koay kak، كعكة أرز مقلية على الطريقة الـ Teochew تُطهى بـ wok hei مدخّن وصلصة الصويا وبراعم الفاصوليا والبيض والفلفل الحار، مع صلصة حارّة إضافية عند الطلب. بدأه والدُ الأخوات عام 1963، وتديره الآن ثلاث بنات. يتعامل نقدًا فقط."

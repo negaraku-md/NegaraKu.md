@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide はその料理をマレーシアおよびコンテンポラリーと分類し、「Tour of Malaysia」メニューとして提供します。"
   - "MICHELIN は、シェフが現代的な技法と緻密な盛り付けで地元の人気料理を作り直すと、「劇場のような」ダイニングルームの中で説明しています。"
   - "MICHELIN が挙げる看板の追加の一品は abalone Lawas rice——アワビをのせたサラワクの在来種米です。"
-  - "レストランはクアラルンプールの Jalan Perak にあり、$$$ の価格帯に分類され、ガイドはデートの夜に向くと示しています。"
+  - "レストランはクアラルンプールの Jalan Perak にあり、$$ の価格帯に分類され、ガイドはデートの夜に向くと示しています。"
 appliesTo: "クアラルンプールで MICHELIN に認められたマレーシアのファインダイニングを調べている旅行者、グルメ愛好家、そして食事客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "a8670ec64f18cf6a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Beta — MICHELIN Guide Kuala Lumpur"

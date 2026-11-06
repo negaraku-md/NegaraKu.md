@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng ialah gerai makanan jalanan MICHELIN Bib Gourmand di Pasar Lebuh Cecil, George Town, Pulau Pinang, terkenal dengan koay teow th'ng itik: kuetiau rata dalam sup itik dan khinzir yang pekat, direbus perlahan berjam-jam. Diasaskan oleh Lau Lum Lai pada akhir 1970-an, kini diuruskan oleh anak lelaki dan menantu perempuannya."
 seoTitle: "Lum Lai Duck Koay Teow Thng: Bib Gourmand Pulau Pinang"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng ialah gerai makanan jalanan Bib Gourmand di Pasar Lebuh Cecil, George Town, Pulau Pinang. Hidangan istimewanya ialah koay teow th'ng itik: kuetiau rata dalam sup jernih yang kaya umami dibuat dengan itik, khinzir dan keropok ikan, dihias dengan bawang putih dan bawang merah goreng. Keluarga ini telah memasaknya dengan cara yang sama selama lebih 40 tahun, dan beratur menjadi kebiasaan pada waktu puncak."

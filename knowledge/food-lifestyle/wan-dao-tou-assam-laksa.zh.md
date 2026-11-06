@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa 是槟城乔治市一家 MICHELIN Bib Gourmand 街头小吃摊，供应以亚参（罗望子）与鱼熬制、酸甜带辣的 assam laksa，源自一份约 50 年的家族食谱，如今由第三代掌勺。本篇介绍其 MICHELIN 认可、招牌面碗、地点及造访方式。"
 seoTitle: "Wan Dao Tou Assam Laksa：槟城 Bib Gourmand"
 answer: "Wan Dao Tou Assam Laksa 是槟城一家街头小吃摊，在 MICHELIN Guide Kuala Lumpur & Penang 评选中列为 MICHELIN Bib Gourmand。它供应 assam laksa——以亚参酸化的马鲛鱼汤头浇在粗米粉上，配上黄瓜、红葱与凤梨——食谱约有 50 年历史，如今由第三代掌勺。地址为 1 Jalan Gottlieb，乔治市。"

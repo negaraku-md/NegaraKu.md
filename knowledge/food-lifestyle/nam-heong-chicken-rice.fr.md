@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice (City Centre) est une échoppe de riz au poulet hainanais de longue date sur Jalan Sultan, dans la vieille ville de Kuala Lumpur, ouverte depuis 1938 et titulaire d'un Bib Gourmand du MICHELIN Guide. Les convives choisissent entre un poulet « de ferme maraîchère » plus maigre et un poulet fermier plus gras, avec le roast pork belly (poitrine de porc rôtie) et les Ipoh bean sprouts en accompagnements prisés. Ce profil couvre la cuisine, le cadre et comment s'y rendre."
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice (City Centre) est une échoppe de riz au poulet hainanais sur Jalan Sultan, à Kuala Lumpur, ouverte depuis 1938 et distinguée par un Bib Gourmand du MICHELIN Guide pour une cuisine d'un bon rapport qualité-prix. Elle propose deux poulets — un « de ferme maraîchère » plus maigre et un fermier plus gras — ainsi qu'un roast pork belly (poitrine de porc rôtie) best-seller et des Ipoh bean sprouts croquants. C'est une adresse $ simple et bon marché dans la vieille ville, ouverte tous les jours et gérant elle-même ses réservations."

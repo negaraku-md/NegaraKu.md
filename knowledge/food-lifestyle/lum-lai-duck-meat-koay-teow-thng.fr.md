@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng est un stand de cuisine de rue MICHELIN Bib Gourmand au Cecil Street Market (Pasar Lebuh Cecil) de George Town, Penang, réputé pour son koay teow th'ng au canard : des nouilles de riz plates dans un riche bouillon de canard et de porc mijoté pendant des heures. Fondé par Lau Lum Lai à la fin des années 1970, il est aujourd'hui tenu par son fils et sa belle-fille."
 seoTitle: "Lum Lai Canard Koay Teow Thng : Bib Gourmand Penang"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng est un stand de cuisine de rue Bib Gourmand au Cecil Street Market (Pasar Lebuh Cecil), George Town, Penang. Sa signature est le koay teow th'ng au canard : des nouilles de riz plates dans un bouillon clair et riche en umami à base de canard, de porc et de pâte de poisson, achevé à l'ail et à l'échalote frits. La famille le cuisine de la même façon depuis plus de 40 ans, et les files d'attente sont courantes aux heures de pointe."

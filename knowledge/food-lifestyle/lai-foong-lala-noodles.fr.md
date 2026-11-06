@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles est un stand spécialisé dans les nouilles chinoises sur Jalan Sultan, au centre de Kuala Lumpur, distingué par le MICHELIN Guide d'un Bib Gourmand pour sa cuisine d'un bon rapport qualité-prix. Sa spécialité est le lala (palourde) bihun aux crevettes, dans un bouillon parfumé au vin jaune chinois et au gingembre."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles est un stand de nouilles sur Jalan Sultan, à Kuala Lumpur, qui détient un MICHELIN Bib Gourmand, la distinction du Guide pour une bonne qualité à bon prix. Sa spécialité est le lala (palourde) bihun aux crevettes, dans un bouillon que le MICHELIN Guide décrit comme parfumé au vin jaune chinois et au gingembre. Il est passé d'un stand de rue à une boutique d'angle sur deux étages et se situe dans la tranche de prix la plus basse ($) du Guide."

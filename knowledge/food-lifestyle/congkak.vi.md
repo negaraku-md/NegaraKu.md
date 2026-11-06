@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak giữ một Bib Gourmand trong MICHELIN Guide Kuala Lumpur & Penang — dấu hiệu của cẩm nang về chất lượng tốt với giá hợp lý, không phải một MICHELIN Star."
   - "MICHELIN Guide mô tả nơi này là 'sự thể hiện của niềm tự hào và bản sắc dân tộc,' phục vụ những món vốn là kinh điển thường ngày với người địa phương."
   - "Món được ưa chuộng nhất là đĩa nasi ambeng, một mâm để chia sẻ với khẩu phần điều chỉnh theo nhóm của bạn."
-  - "Nhà hàng nằm trên một con phố dân cư tại 24 Jalan Beremi, Bukit Bintang, ở khung giá $$ (vừa phải), và mang thẻ 'Eat like a local' của cẩm nang."
+  - "Nhà hàng nằm trên một con phố dân cư tại 24 Jalan Beremi, Bukit Bintang, ở khung giá $ (vừa phải), và mang thẻ 'Eat like a local' của cẩm nang."
   - "Danh sách Bib Gourmand được rà soát lại hằng năm, vì vậy hãy xác nhận giải thưởng hiện tại trên guide.michelin.com trước khi lên kế hoạch ghé thăm."
 faq:
   - q: "Congkak nổi tiếng về điều gì?"
@@ -41,7 +41,7 @@ faq:
   - q: "Congkak có MICHELIN Star không?"
     a: "Không. Congkak giữ một Bib Gourmand, một danh hiệu MICHELIN riêng dành cho các nhà hàng phục vụ món ăn chất lượng tốt với giá hợp lý. Đó không phải là một Star, và hai danh hiệu được trao độc lập với nhau."
   - q: "Congkak ở đâu và chi phí thế nào?"
-    a: "Nhà hàng ở 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, trên một con phố dân cư gần trung tâm thành phố. MICHELIN Guide xếp nó vào khung giá $$, nghĩa là chi tiêu vừa phải, và chấp nhận thẻ tín dụng."
+    a: "Nhà hàng ở 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, trên một con phố dân cư gần trung tâm thành phố. MICHELIN Guide xếp nó vào khung giá $, nghĩa là chi tiêu vừa phải, và chấp nhận thẻ tín dụng."
 
 updated: 2026-11-06
 sources:

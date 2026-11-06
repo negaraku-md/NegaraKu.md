@@ -8,7 +8,7 @@ subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -16,7 +16,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee is a night-time street-food stall on Jalan Burma in George Town, Penang, holding a MICHELIN Bib Gourmand. A favourite for more than 30 years, it is known for Hokkien prawn mee and loh mee built on a deeply umami red prawn soup made from pork bones and prawn shells, with a dozen optional toppings."
 answer: "Green House Prawn Mee and Loh Mee is a MICHELIN Bib Gourmand street-food stall on Jalan Burma in George Town, Penang. Set within Restoran Old Green House, it has been a favourite for over 30 years for its Hokkien prawn mee and loh mee. The signature red prawn soup is made with pork bones and prawn shells for a deep umami flavour, and about twelve additional toppings are offered. It trades at night and is cash only."

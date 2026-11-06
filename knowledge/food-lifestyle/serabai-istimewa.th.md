@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "cdf02a988ecac9d6"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Serabai Istimewa เป็นร้านสตรีทฟู้ดที่เปิดมายาวนานใน George Town ปีนัง ได้รับเลือกให้อยู่ในรายการ Bib Gourmand ของ MICHELIN Guide ขึ้นชื่อเรื่อง serabai — แพนเค้กแป้งข้าวผสมกะทิที่เสิร์ฟพร้อมน้ำเชื่อมน้ำตาลโตนด (gula melaka) สำหรับจิ้ม เปิดมาตั้งแต่ทศวรรษ 1970 ขายทั้งแบบธรรมดา แบบไข่ และแบบน้ำตาลทรายแดง และมักขายเฉพาะช่วงเช้าตรู่"
 seoTitle: "Serabai Istimewa, ปีนัง (Bib Gourmand)"
 answer: "Serabai Istimewa เป็นร้านสตรีทฟู้ดใน George Town ปีนัง ได้รับการจัดอันดับใน MICHELIN Guide Kuala Lumpur & Penang ให้เป็น Bib Gourmand สำหรับอาหารที่คุ้มค่า ขาย serabai — แพนเค้กแป้งข้าวผสมกะทินุ่ม จิ้มน้ำเชื่อมน้ำตาลโตนด (gula melaka) — มาตั้งแต่ทศวรรษ 1970 มีทั้งแบบธรรมดา แบบไข่ หรือแบบน้ำตาลทรายแดง และควรไปก่อน 10am"

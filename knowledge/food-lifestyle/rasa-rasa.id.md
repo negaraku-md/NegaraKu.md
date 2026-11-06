@@ -9,12 +9,11 @@ contentType: "place"
 lang: "id"
 sourceContentHash: "18a99fb9dcae4c14"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Rasa Rasa adalah restoran Peranakan MICHELIN Bib Gourmand di Gat Lebuh Chulia, George Town, Penang. Sebuah ruang siang yang kecil berdinding bata ekspos dan tanaman pot, ia menyajikan menu Nyonya yang ringkas berpusat pada set combo dengan nasi lemak pandan, dalam pita harga ($) terendah Guide."
 
 answer: "Rasa Rasa adalah restoran Peranakan (Nyonya) di 59 Gat Lebuh Chulia, George Town, Penang. Ia memegang MICHELIN Bib Gourmand — tanda Guide untuk masakan bernilai baik — dan berada dalam pita $, yang terendah. MICHELIN menggambarkan sebuah ruang kecil berdinding bata ekspos dan tanaman pot, serta menu ringkas yang puncaknya adalah set combo Nyonya berpusat pada nasi lemak pandan, dengan hidangan seperti gulung ayam lima rempah berbalut kulit tahu. Ia buka siang hari saja dan tutup pada hari Rabu."

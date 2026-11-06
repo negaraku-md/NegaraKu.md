@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "يطبخ فريق مطبخ فيتنامي أطباقًا من أنحاء فيتنام، ويشير MICHELIN Guide إلى بعض التأثيرات الفرنسية القوية."
   - "طبقه المميّز phở bò (شوربة نودلز لحم البقر) مبنيّ على مرق يُغلى أكثر من 10 ساعات."
   - "سلطة المانغوستين بالروبيان من أبرز الأطباق، أثنى عليها الدليل لنكهاتها الكبيرة وقواماتها المتباينة."
-  - "يقع في 25 Tengkat Tong Shin, Bukit Bintang، ضمن فئة السعر $$، وموسوم بأنه مناسب للعائلات."
+  - "يقع في 25 Tengkat Tong Shin, Bukit Bintang، ضمن فئة السعر $، وموسوم بأنه مناسب للعائلات."
 faq:
   - q: "ما الأطباق التي لا بدّ من تجربتها في Sao Nam؟"
     a: "يبرز MICHELIN Guide طبقين. phở bò (شوربة نودلز لحم البقر) هو الطلب الأيقوني، ويستغرق تحضير مرقه أكثر من 10 ساعات. وسلطة المانغوستين بالروبيان هي الطبق البارز الآخر، وتُوصف بأنها تُثير حاسة التذوّق بنكهات كبيرة وقوامات متباينة."
   - q: "هل يحمل Sao Nam نجمة MICHELIN Star؟"
     a: "لا. يحمل Sao Nam تصنيف Bib Gourmand، وهو تكريم منفصل من MICHELIN للطبخ الجيد بسعر مناسب. وهو ليس Star؛ ويُمنح التكريمان بشكل مستقل."
   - q: "أين يقع Sao Nam وهل يناسب العائلات؟"
-    a: "يقع في 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200، بواجهة صفراء وديكور داخلي زاهي الألوان. يَسِمه MICHELIN Guide بأنه مناسب للعائلات ويضعه ضمن فئة السعر $$."
+    a: "يقع في 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200، بواجهة صفراء وديكور داخلي زاهي الألوان. يَسِمه MICHELIN Guide بأنه مناسب للعائلات ويضعه ضمن فئة السعر $."
 
 updated: 2026-11-06
 sources:

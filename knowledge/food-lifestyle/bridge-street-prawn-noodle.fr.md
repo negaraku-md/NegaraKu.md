@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle est un stand de cuisine de rue MICHELIN Bib Gourmand sur Lebuh Pantai à George Town, Penang, réputé pour le prawn mee : nouilles jaunes ou de riz dans un bouillon de crevettes épicé et profondément parfumé, avec des ajouts comme les travers de porc braisés et les boulettes de poisson."
 seoTitle: "Bridge Street Prawn Noodle : Bib Gourmand Penang"
 answer: "Bridge Street Prawn Noodle est un stand de cuisine de rue Bib Gourmand au 533 Lebuh Pantai, George Town, Penang. Sa signature est le prawn mee (soupe de nouilles aux crevettes) : les convives choisissent des nouilles jaunes ou de riz dans un bouillon de crevettes épicé débordant de saveur, et peuvent ajouter des travers de porc braisés ou des boulettes de poisson. Il n'accepte que les espèces et attire des files depuis sa reconnaissance MICHELIN."

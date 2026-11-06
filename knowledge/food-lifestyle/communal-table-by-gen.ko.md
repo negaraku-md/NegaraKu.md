@@ -9,17 +9,16 @@ contentType: "place"
 lang: "ko"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn은 페낭 George Town의 Lebuh Presgrave에 있는 MICHELIN Bib Gourmand 식당으로, 프라나칸과 말레이시아 요리를 녹여 낸 모던한 요리의 작은 아라카르트 메뉴를 낸다. 오픈 키친과 긴 카운터를 중심으로 꾸며졌으며 Malaysian($)으로 등재되어 있다. 시그니처는 찐빵에 끼운 숙성 오리 가슴살이다."
 
-summary: "Communal Table by Gēn은 페낭 George Town의 Lebuh Presgrave에 있는 MICHELIN Bib Gourmand 식당으로, 프라나칸과 말레이시아 요리를 녹여 낸 모던한 요리의 작은 아라카르트 메뉴를 낸다. 오픈 키친과 긴 카운터를 중심으로 꾸며졌으며 Malaysian($$)으로 등재되어 있다. 시그니처는 찐빵에 끼운 숙성 오리 가슴살이다."
-
-answer: "Communal Table by Gēn은 페낭 George Town의 68 Lebuh Presgrave에 있는 모던 말레이시아 식당으로, 가성비 좋은 요리에 대해 MICHELIN Bib Gourmand를 보유한다. MICHELIN Guide는 이곳을 $$ 가격대의 Malaysian으로 등재하고, 오픈 키친, 긴 카운터, 바닥부터 천장까지 이어진 창을 갖춘 캐주얼한 공간을 묘사하며, 현지 식재료로 프라나칸과 말레이시아 요리를 녹여 낸 모던한 요리의 작은 아라카르트 저녁 메뉴를 낸다고 한다. 시그니처는 찐빵에 끼운 숙성 오리 가슴살로, 바삭한 껍질과 '비밀 소스'가 곁들여진다."
+answer: "Communal Table by Gēn은 페낭 George Town의 68 Lebuh Presgrave에 있는 모던 말레이시아 식당으로, 가성비 좋은 요리에 대해 MICHELIN Bib Gourmand를 보유한다. MICHELIN Guide는 이곳을 $ 가격대의 Malaysian으로 등재하고, 오픈 키친, 긴 카운터, 바닥부터 천장까지 이어진 창을 갖춘 캐주얼한 공간을 묘사하며, 현지 식재료로 프라나칸과 말레이시아 요리를 녹여 낸 모던한 요리의 작은 아라카르트 저녁 메뉴를 낸다고 한다. 시그니처는 찐빵에 끼운 숙성 오리 가슴살로, 바삭한 껍질과 '비밀 소스'가 곁들여진다."
 keyTakeaways:
-  - "Communal Table by Gēn은 페낭 George Town의 MICHELIN Bib Gourmand 식당으로, $$ 가격대의 Malaysian으로 등재되어 있다."
+  - "Communal Table by Gēn은 페낭 George Town의 MICHELIN Bib Gourmand 식당으로, $ 가격대의 Malaysian으로 등재되어 있다."
   - "주방은 현지 식재료로 프라나칸과 말레이시아 요리를 녹여 낸 모던한 요리의 작은 아라카르트 메뉴를 낸다."
   - "MICHELIN의 시그니처 추천은 찐빵에 끼운 숙성 오리 가슴살——바삭한 껍질과 '비밀 소스'."
   - "공간은 오픈 키친, 길고 공용인 카운터 테이블, 바닥부터 천장까지의 창을 중심으로 꾸며졌다——카운터 다이닝 경험이다."

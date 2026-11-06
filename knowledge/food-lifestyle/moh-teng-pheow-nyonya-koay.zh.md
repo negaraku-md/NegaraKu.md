@@ -9,12 +9,11 @@ contentType: "place"
 lang: "zh"
 sourceContentHash: "899bf571aa6a9eea"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Moh Teng Pheow Nyonya Koay 是槟城乔治市一家 MICHELIN Bib Gourmand 娘惹糕店，手艺可追溯至 1933 年。它藏身于 Lebuh Chulia 一侧，蒸、炸、烤传统娘惹糕——kueh lapis、kueh talam、ang koo、Nyonya chang——在一片玻璃顶棚下、以槟城式雨伞点缀的空间里供应。"
 
 answer: "Moh Teng Pheow Nyonya Koay 是槟城乔治市一家传统娘惹糕店，位于 Lebuh Chulia 一侧的 Jalan Masjid。它持有 MICHELIN Bib Gourmand——Guide 对物有所值烹饪的标记——并被列于「Small eats」之下、$ 价位带。这家店以同样的方式制作它的糕点——蒸、炸、烤的糕饼、粽与布丁，如 kueh lapis、kueh talam、ang koo 与 Nyonya chang——自 1933 年至今，如今在工场后方一处玻璃顶棚的用餐区供应。"

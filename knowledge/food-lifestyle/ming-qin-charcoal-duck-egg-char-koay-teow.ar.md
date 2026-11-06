@@ -6,11 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "7e28abfc06c880aa"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
 summary: "Ming Qin Charcoal Duck Egg Char Koay Teow كشك نودلز في Bukit Mertajam بـ Seberang Perai، على برّ بينانغ، مُدرَج ضمن اختيار Bib Gourmand في MICHELIN Guide. يُقلى char koay teow فيه مع بيض البطّ على نار الفحم لـ wok hei واضح؛ وطبق الأخطبوط المسلوق قليلًا مقبّلات مُوصى بها. وهو عمل مسائي بجمهور تكوّن على مدى عقدين."
 seoTitle: "Ming Qin Charcoal Char Koay Teow، بينانغ"
 answer: "Ming Qin Charcoal Duck Egg Char Koay Teow كشك نودلز حائز على Bib Gourmand في Bukit Mertajam بـ Seberang Perai، على برّ بينانغ. يُقلى char koay teow المميّز فيه مع بيض البطّ على نار الفحم، ما يمنحه wok hei قويًّا (نَفَس المقلاة المُدخَّن). وطبق الأخطبوط المسلوق قليلًا مقبّلات مُوصى بها. ويعمل الكشك مساءً."

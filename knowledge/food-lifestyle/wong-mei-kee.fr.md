@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "4fca544a752be1c7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wong Mei Kee est un étal de cuisine de rue à Pudu, Kuala Lumpur, titulaire d'un Bib Gourmand du MICHELIN Guide et célèbre pour son siew yok — du porc rôti à la peau croustillante et à la chair juteuse. Ouvert seulement quelques heures le midi et marqué « Worth Queueing For », il attire ceux qui arrivent tôt pour la fournée de midi. Ce profil couvre le porc rôti, la file d'attente et comment s'y rendre."
 seoTitle: "Wong Mei Kee, Kuala Lumpur"
 answer: "Wong Mei Kee est un étal de cuisine de rue à Pudu, Kuala Lumpur, distingué par un Bib Gourmand du MICHELIN Guide et célèbre pour son siew yok — du porc rôti à la peau croustillante et à la chair juteuse. Il n'ouvre que quelques heures le midi, porte la mention « Worth Queueing For », et MICHELIN conseille d'arriver tôt et d'attendre que le porc sorte du four à midi pile. C'est un étal $ bon marché qui gère lui-même ses réservations."

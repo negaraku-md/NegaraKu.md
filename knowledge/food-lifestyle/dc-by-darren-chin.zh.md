@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide 将其料理归类为法式当代，带有全球影响与马来西亚点缀。"
   - "据次级报道，它是马来西亚首届指南中最早获颁 MICHELIN Star 的餐厅之一，并自此保住至今。"
   - "餐厅位于吉隆坡 Taman Tun Dr Ismail（TTDI），横跨三层楼，设有多个酒吧、餐室与一间以 Louis XIII 为主题的私人包厢。"
-  - "MICHELIN Guide 将其列入最高（$$$$）价位档，并提及一辆法国奶酪手推车与葡萄酒单。"
+  - "MICHELIN Guide 将其列入最高（$$）价位档，并提及一辆法国奶酪手推车与葡萄酒单。"
 appliesTo: "正在研究吉隆坡获 MICHELIN 认可之马来西亚 fine dining 的旅客、美食爱好者与食客。"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

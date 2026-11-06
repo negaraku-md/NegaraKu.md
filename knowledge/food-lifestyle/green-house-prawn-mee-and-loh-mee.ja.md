@@ -9,7 +9,7 @@ lang: "ja"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Meeは、ペナン、ジョージタウンのJalan Burmaにある夜間営業のストリートフード屋台で、MICHELIN Bib Gourmandを保持している。30年以上愛されてきた名店で、豚骨とエビの殻から作る深く旨味のある赤いエビスープを土台にしたHokkien prawn meeとloh meeで知られ、十数種のトッピングが選べる。"
 answer: "Green House Prawn Mee and Loh Meeは、ペナン、ジョージタウンのJalan BurmaにあるMICHELIN Bib Gourmandのストリートフード屋台だ。Restoran Old Green Houseの中にあり、Hokkien prawn meeとloh meeで30年以上愛されてきた。看板の赤いエビスープは豚骨とエビの殻で作られ深い旨味をもち、約12種の追加トッピングが提供される。夜間営業で、現金のみ。"

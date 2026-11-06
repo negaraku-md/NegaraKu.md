@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng adalah gerai jajanan kaki lima MICHELIN Bib Gourmand di Cecil Street Market (Pasar Lebuh Cecil) di George Town, Penang, terkenal dengan koay teow th'ng bebek: mi beras pipih dalam kuah bebek-babi yang kaya, direbus perlahan berjam-jam. Didirikan oleh Lau Lum Lai pada akhir 1970-an, kini dikelola oleh putra dan menantu perempuannya."
 seoTitle: "Lum Lai Bebek Koay Teow Thng: Bib Gourmand Penang"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng adalah gerai jajanan kaki lima Bib Gourmand di Cecil Street Market (Pasar Lebuh Cecil), George Town, Penang. Menu andalannya adalah koay teow th'ng bebek: mi beras pipih dalam kuah bening kaya umami yang dibuat dengan bebek, babi, dan kue ikan, diselesaikan dengan bawang putih dan bawang merah goreng. Keluarga ini memasaknya dengan cara yang sama selama lebih dari 40 tahun, dan antrean lazim pada jam sibuk."

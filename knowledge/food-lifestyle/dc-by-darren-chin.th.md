@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide จัดอาหารของร้านเป็นแบบฝรั่งเศสร่วมสมัย พร้อมอิทธิพลระดับโลกและสำเนียงมาเลเซีย"
   - "ตามการรายงานทุติยภูมิ ร้านเป็นหนึ่งในร้านแรก ๆ ที่ได้รับ MICHELIN Star ในไกด์มาเลเซียฉบับปฐมฤกษ์ และรักษาไว้ตั้งแต่นั้น"
   - "ร้านอยู่ใน Taman Tun Dr Ismail (TTDI), กัวลาลัมเปอร์ กระจายอยู่สามชั้น มีบาร์ ห้องรับประทานอาหาร และห้องส่วนตัวในธีม Louis XIII"
-  - "MICHELIN Guide จัดร้านไว้ในช่วงราคาสูงสุด ($$$$) และกล่าวถึงรถเข็นชีสฝรั่งเศสและรายการไวน์"
+  - "MICHELIN Guide จัดร้านไว้ในช่วงราคาสูงสุด ($$) และกล่าวถึงรถเข็นชีสฝรั่งเศสและรายการไวน์"
 appliesTo: "นักเดินทาง ผู้หลงใหลในอาหาร และผู้ที่ไปรับประทานอาหาร ซึ่งกำลังค้นคว้าเกี่ยวกับไฟน์ไดนิงมาเลเซียที่ได้รับการยอมรับจาก MICHELIN ในกัวลาลัมเปอร์"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "69b07b2dd304ff14"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "DC. by Darren Chin — MICHELIN Guide Kuala Lumpur"

@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra는 쿠알라룸푸르 Bukit Bintang의 The Starhill에 있는 인도 요리점으로, 합리적인 가격에 좋은 음식을 인정하는 Bib Gourmand와 함께 MICHELIN Guide에 등재되어 있다. Kayra의 자매 업장으로 '바다에서 접시로' 철학을 유지하며, 현지에서 조달한 해산물과 농산물로 전통 케랄라 요리를 재해석한다. 간판은 가족 전래 레시피를 바탕으로, 풋망고와 요구르트로 산미를 살린 케랄라 생선 커리다. $$ 가격대에 속하며 가족 친화적이다."
+answer: "Coast by Kayra는 쿠알라룸푸르 Bukit Bintang의 The Starhill에 있는 인도 요리점으로, 합리적인 가격에 좋은 음식을 인정하는 Bib Gourmand와 함께 MICHELIN Guide에 등재되어 있다. Kayra의 자매 업장으로 '바다에서 접시로' 철학을 유지하며, 현지에서 조달한 해산물과 농산물로 전통 케랄라 요리를 재해석한다. 간판은 가족 전래 레시피를 바탕으로, 풋망고와 요구르트로 산미를 살린 케랄라 생선 커리다. $ 가격대에 속하며 가족 친화적이다."
 keyTakeaways:
   - "Coast by Kayra는 쿠알라룸푸르에서 MICHELIN Guide Bib Gourmand — 합리적인 가격에 좋은 품질을 인정하는 상 — 을 보유하고 있다."
   - "Kayra의 자매 업장으로, '바다에서 접시로' 철학을 따라 전통 케랄라 요리를 재해석한다."
   - "간판은 가족 전래 레시피를 바탕으로, 풋망고와 요구르트로 산미를 더한 케랄라 생선 커리다."
   - "소규모 농가와 어민을 지원하기 위해 해산물과 농산물을 현지에서 조달한다."
-  - "Jalan Bukit Bintang의 The Starhill에 있으며, $$ 가격대로 터쿼이즈 색의 바다 테마 인테리어를 갖추고 있다."
+  - "Jalan Bukit Bintang의 The Starhill에 있으며, $ 가격대로 터쿼이즈 색의 바다 테마 인테리어를 갖추고 있다."
 appliesTo: "쿠알라룸푸르에서 저렴하고 MICHELIN이 인정한 케랄라 및 남인도 해산물 요리를 찾는 여행자와 식도락가."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

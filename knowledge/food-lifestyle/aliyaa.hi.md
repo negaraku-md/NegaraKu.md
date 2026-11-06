@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "25075c0f69943804"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Aliyaa कुआलालंपुर के Bukit Damansara में स्थित एक श्रीलंकाई रेस्तरां है, जिसे किफ़ायती बेहतरीन व्यंजनों के लिए MICHELIN Guide ने Bib Gourmand से मान्यता दी है। MICHELIN Guide साबुत केकड़ा, अनानास ग्रेवी में Negombo झींगे और kuliyal जैसे ख़ास व्यंजनों का उल्लेख करता है, जिनका तीखापन भोजनकर्ता के अनुरोध पर समायोजित किया जाता है।"
 seoTitle: "Aliyaa"
 answer: "Aliyaa कुआलालंपुर के Bukit Damansara स्थित Plaza Damansara में एक श्रीलंकाई रेस्तरां है, जो MICHELIN Bib Gourmand रखता है — यह गाइड का वह पुरस्कार है जो अच्छी गुणवत्ता को किफ़ायती दाम पर देने के लिए दिया जाता है, कोई सितारा नहीं। MICHELIN Guide इसके प्रामाणिक श्रीलंकाई व्यंजनों की सराहना करता है और साबुत केकड़ा, अनानास ग्रेवी में Negombo झींगे और kuliyal जैसे व्यंजनों को उजागर करता है, तथा जोड़ता है कि रसोई भोजनकर्ता की पसंद के अनुसार तीखापन समायोजित करेगी।"
@@ -21,7 +20,7 @@ keyTakeaways:
   - "Aliyaa मौजूदा MICHELIN Guide Kuala Lumpur & Penang चयन में MICHELIN Bib Gourmand रखता है — यह गाइड का 'अच्छी गुणवत्ता, किफ़ायती दाम' पुरस्कार है, कोई सितारा नहीं।"
   - "MICHELIN Guide इसे प्रामाणिक श्रीलंकाई व्यंजन परोसने वाला बताता है, जो कुआलालंपुर के भोजन परिदृश्य में अपेक्षाकृत दुर्लभ व्यंजन-शैली है।"
   - "MICHELIN Guide साबुत केकड़ा, अनानास ग्रेवी में Negombo झींगे और kuliyal (केले के पत्ते में पके चावल) जैसे ख़ास व्यंजनों को उजागर करता है।"
-  - "यह Bukit Damansara के Plaza Damansara में है, $$ मूल्य-श्रेणी में, और रसोई अनुरोध पर तीखापन समायोजित करती है।"
+  - "यह Bukit Damansara के Plaza Damansara में है, $ मूल्य-श्रेणी में, और रसोई अनुरोध पर तीखापन समायोजित करती है।"
   - "Bib Gourmand चयन हर साल संशोधित होता है, और रेस्तरां के समय, दाम और मेन्यू बदल सकते हैं।"
 faq:
   - q: "Aliyaa किस तरह का भोजन परोसता है?"
@@ -29,7 +28,7 @@ faq:
   - q: "क्या Aliyaa के पास MICHELIN सितारा है?"
     a: "नहीं। यह Bib Gourmand रखता है, जिसे MICHELIN Guide अच्छी गुणवत्ता को किफ़ायती दाम पर देने के लिए प्रदान करता है, न कि एक-, दो- या तीन-सितारा रेटिंग। ये दोनों अलग-अलग MICHELIN सम्मान हैं।"
   - q: "Aliyaa कहाँ है?"
-    a: "MICHELIN Guide इसे 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur पर, $$ मूल्य-श्रेणी में सूचीबद्ध करता है। मौजूदा समय और आरक्षण नीति सीधे पुष्टि कर लें।"
+    a: "MICHELIN Guide इसे 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur पर, $ मूल्य-श्रेणी में सूचीबद्ध करता है। मौजूदा समय और आरक्षण नीति सीधे पुष्टि कर लें।"
 keywords:
   - "Aliyaa"
   - "Sri Lankan restaurant Kuala Lumpur"

@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor مطعم شمال هندي قرب Jalan Ampang بكوالالمبور، مُدرَج في MICHELIN Guide بعلامة Bib Gourmand تقديرًا للطعام الجيد بسعر مجزٍ. يقع في فيلا سكنية وهو جزء من علامة d'Tandoor التي افتُتحت في ماليزيا عام 1990، ويقدّم تشكيلة دافئة من المأكولات الهندية الراقية المبنيّة على وصفات عائلية، ومن الأطباق التي يختارها MICHELIN: butter chicken masala، وخبز naan الطري المطّاطي، وآيس كريم kulfi. يندرج ضمن فئة سعرية $$ وملائم للعائلات ولتناول الطعام في الهواء الطلق."
+answer: "Roti by d'Tandoor مطعم شمال هندي قرب Jalan Ampang بكوالالمبور، مُدرَج في MICHELIN Guide بعلامة Bib Gourmand تقديرًا للطعام الجيد بسعر مجزٍ. يقع في فيلا سكنية وهو جزء من علامة d'Tandoor التي افتُتحت في ماليزيا عام 1990، ويقدّم تشكيلة دافئة من المأكولات الهندية الراقية المبنيّة على وصفات عائلية، ومن الأطباق التي يختارها MICHELIN: butter chicken masala، وخبز naan الطري المطّاطي، وآيس كريم kulfi. يندرج ضمن فئة سعرية $ وملائم للعائلات ولتناول الطعام في الهواء الطلق."
 keyTakeaways:
   - "يحمل Roti by d'Tandoor علامة MICHELIN Guide Bib Gourmand — جائزة الجودة الجيدة بسعر مجزٍ — في كوالالمبور."
   - "يقدّم مأكولات شمال الهند المبنيّة على وصفات عائلية ومزيج من الأعشاب والبهارات، في منزل قرب Jalan Ampang."
   - "يبرز MICHELIN طبق butter chicken masala، وخبز naan الطري المطّاطي، وآيس كريم kulfi المتوفّر بنكهات عدّة."
   - "هو جزء من علامة d'Tandoor التي يشير MICHELIN إلى أنها افتُتحت في ماليزيا عام 1990."
-  - "يقع في 82 Jalan Damai، قرب Jalan Ampang، ضمن فئة سعرية $$، بمقاعد في الهواء الطلق وأجواء ملائمة للعائلات."
+  - "يقع في 82 Jalan Damai، قرب Jalan Ampang، ضمن فئة سعرية $، بمقاعد في الهواء الطلق وأجواء ملائمة للعائلات."
 appliesTo: "المسافرون والزبائن الباحثون عن مأكولات شمال هندية بسعر معقول ومعترَف بها من MICHELIN في كوالالمبور."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

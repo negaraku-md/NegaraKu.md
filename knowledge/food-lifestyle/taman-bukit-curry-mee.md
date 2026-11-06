@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Taman Bukit Curry Mee is a MICHELIN Bib Gourmand street-food stall in Bukit Mertajam, Seberang Perai (mainland Penang), prized for a decades-old curry mee with a creamy coconut-and-curry broth and half-cooked cockles. This profile covers its MICHELIN recognition, signature bowl, location and how to visit."
 seoTitle: "Taman Bukit Curry Mee: Penang Bib Gourmand"
 answer: "Taman Bukit Curry Mee is a mainland-Penang street-food stall listed as a MICHELIN Bib Gourmand in the MICHELIN Guide Kuala Lumpur & Penang selection. It is known for curry mee — noodles in a creamy coconut-milk-and-curry-paste broth topped with half-cooked cockles — sold for decades from a tucked-away food court. It is on Jalan Bukit Kecil, Taman Bukit, Bukit Mertajam, Seberang Perai."

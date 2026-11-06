@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng はペナン州ジョージタウンの Cecil Street Market（Pasar Lebuh Cecil）内にある MICHELIN Bib Gourmand の屋台で、アヒルの koay teow th'ng で知られます。平たい米麺を、何時間もかけてじっくり煮込んだアヒルと豚のこくのあるスープに浸したものです。1970 年代末に Lau Lum Lai が創業し、現在は息子と義理の娘が切り盛りしています。"
 seoTitle: "Lum Lai アヒル Koay Teow Thng：ペナン Bib Gourmand"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng はペナン州ジョージタウンの Cecil Street Market（Pasar Lebuh Cecil）にある Bib Gourmand の屋台です。看板はアヒルの koay teow th'ng。アヒル、豚、魚のすり身で作る澄んだうまみ豊かなスープに平たい米麺を浸し、揚げニンニクとエシャロットで仕上げます。一家は 40 年以上同じ作り方を守っており、ピーク時には行列が普通です。"

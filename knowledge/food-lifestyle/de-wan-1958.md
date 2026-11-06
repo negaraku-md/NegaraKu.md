@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 is a Malaysian restaurant at The LINC KL in Taman U Thant, Kuala Lumpur, associated with celebrity chef Chef Wan and recognised by the MICHELIN Guide with a Bib Gourmand. The MICHELIN Guide describes bold tropical flavours and dishes such as a pomelo salad with crispy prawn cheeks and bakar bakar barbecue."
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 is a Malaysian restaurant at The LINC KL in Taman U Thant, Kuala Lumpur, associated with the celebrity chef known as Chef Wan. It holds a MICHELIN Bib Gourmand — the Guide's award for good quality at good value, not a star. The MICHELIN Guide describes a bright, lively room and bold tropical flavours, recommending a pomelo salad with crispy prawn cheeks and bakar bakar (barbecued meat or seafood with house sauces)."
@@ -21,7 +20,7 @@ keyTakeaways:
   - "The restaurant is associated with the Malaysian celebrity chef known as Chef Wan and serves Malaysian cuisine with bold tropical flavours."
   - "The MICHELIN Guide recommends starting with a pomelo salad with crispy prawn cheeks in a kerabu lime dressing."
   - "Its other highlighted dish is bakar bakar — barbecued meat or seafood served with a choice of house sauces — with generous, shareable portions."
-  - "It is at The LINC KL in Taman U Thant, in the $$ price band; the Bib Gourmand selection is revised every year."
+  - "It is at The LINC KL in Taman U Thant, in the $ price band; the Bib Gourmand selection is revised every year."
 faq:
   - q: "Who is De. Wan 1958 associated with?"
     a: "The restaurant is associated with the Malaysian celebrity chef popularly known as Chef Wan. By widely published accounts the '1958' in the name refers to the chef's birth year, though this detail should be confirmed against a biographical source."

@@ -9,7 +9,7 @@ lang: "ms"
 sourceContentHash: "d5ad0698330f8db4"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,13 +17,13 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Neighbourwood ialah sebuah restoran MICHELIN Bib Gourmand di Bukit Mertajam, Seberang Perai — bahagian tanah besar negeri Pulau Pinang. Sebuah tempat kejiranan yang santai dibuka oleh seorang penduduk berdekatan, ia menghidangkan makanan Eropah kontemporari dengan pengaruh Asia serta hidangan panggang, dengan menu yang bertukar setiap enam minggu dan roti sourdough bakar sendiri antara hidangan istimewanya."
-answer: "Neighbourwood ialah sebuah restoran MICHELIN Bib Gourmand di 3427 Jalan Kulim, Bukit Mertajam, di Seberang Perai — bahagian tanah besar negeri Pulau Pinang. Ia menghidangkan masakan Eropah kontemporari dengan pengaruh Asia di samping hidangan panggang, dengan menu yang bertukar setiap enam minggu dan segelintir hidangan istimewa yang kekal. Roti sourdough bakar sendiri yang keemasan dan rapuh serta pilihan pencuci mulut yang luas merupakan tarikan utama. MICHELIN meletakkannya dalam julat harga $$."
+answer: "Neighbourwood ialah sebuah restoran MICHELIN Bib Gourmand di 3427 Jalan Kulim, Bukit Mertajam, di Seberang Perai — bahagian tanah besar negeri Pulau Pinang. Ia menghidangkan masakan Eropah kontemporari dengan pengaruh Asia di samping hidangan panggang, dengan menu yang bertukar setiap enam minggu dan segelintir hidangan istimewa yang kekal. Roti sourdough bakar sendiri yang keemasan dan rapuh serta pilihan pencuci mulut yang luas merupakan tarikan utama. MICHELIN meletakkannya dalam julat harga $."
 keyTakeaways:
   - "Neighbourwood memegang MICHELIN Bib Gourmand untuk masakan berkualiti baik dan berbaloi."
-  - "Ia menghidangkan makanan European Contemporary dengan pengaruh Asia serta hidangan panggang, dalam julat harga MICHELIN $$."
+  - "Ia menghidangkan makanan European Contemporary dengan pengaruh Asia serta hidangan panggang, dalam julat harga MICHELIN $."
   - "Menunya bertukar kira-kira setiap enam minggu, dengan beberapa hidangan istimewa yang sesuai dikongsi dan kekal pada menu."
   - "Roti sourdough bakar sendiri dalam beberapa perisa dan pilihan lebih sepuluh pencuci mulut merupakan hidangan yang menonjol."
   - "Ia terletak di 3427 Jalan Kulim, Taman Bukit Mas, Bukit Mertajam, Seberang Perai (14000) — di tanah besar Pulau Pinang, bukan di pulau George Town."

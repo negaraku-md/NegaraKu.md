@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "f7fdb1ac98318164"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Thara ialah sebuah restoran Thai MICHELIN Bib Gourmand di George Town, Pulau Pinang, yang menghidangkan masakan Thai asli bergaya rumahan dan makanan laut segar dalam ruang makan yang lapang dan bernuansa hijau. Variasi tom yum dan pembuka selera miang kam ialah hidangan yang diketengahkan oleh pemeriksa, dengan hidangan yang banyak pada harga berpatutan."
 seoTitle: "Thara: Bib Gourmand Thai, George Town Pulau Pinang"
 answer: "Thara ialah sebuah restoran Thai di 5 Lorong Prangin di George Town, Pulau Pinang, yang diiktiraf dengan MICHELIN Bib Gourmand kerana masakan yang baik pada harga berbaloi. Cefnya mempunyai lebih 15 tahun pengalaman memasak hidangan asli dari negara asalnya, dengan tumpuan kepada makanan laut segar. Pemeriksa MICHELIN menyerlahkan pelbagai variasi sup tom yum dan pembuka selera miang kam."
@@ -25,7 +24,7 @@ keyTakeaways:
   - "Ia terletak di 5 Lorong Prangin di George Town, menawarkan hidangan yang banyak pada harga berpatutan."
 faq:
   - q: "Di manakah Thara dan masakan apa yang dihidangkannya?"
-    a: "Thara terletak di 5 Lorong Prangin, George Town, 10100, Pulau Pinang. Ia menghidangkan masakan Thai asli dengan penekanan pada makanan laut segar, dan disenaraikan oleh MICHELIN Guide pada tahap harga sederhana ($$)."
+    a: "Thara terletak di 5 Lorong Prangin, George Town, 10100, Pulau Pinang. Ia menghidangkan masakan Thai asli dengan penekanan pada makanan laut segar, dan disenaraikan oleh MICHELIN Guide pada tahap harga sederhana ($)."
   - q: "Apa yang patut saya pesan di Thara?"
     a: "MICHELIN Guide menunjukkan pelbagai variasi sup tom yum restoran ini yang dibuat dengan makanan laut berbeza, dan menamakan pembuka selera miang kam, yang dibuat dengan daun sirih segar dan sos miang kam yang manis, sebagai hidangan mesti cuba."
   - q: "Adakah Thara mempunyai bintang MICHELIN?"

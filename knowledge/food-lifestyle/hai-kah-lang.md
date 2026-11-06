@@ -14,13 +14,13 @@ lang: "en"
 masterLanguage: "en"
 translationStatus: "master"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,14 +33,14 @@ keyTakeaways:
   - "It is a build-your-own seafood-noodle bowl: choose fish, shellfish or both, then one of eight noodle types and five soup bases."
   - "The MICHELIN Guide notes only the freshest catch reaches the table because the owner also runs a seafood stall nearby."
   - "If the menu feels overwhelming, the house favourites are mixed seafood noodles and fish head noodle soup with milk."
-  - "It is at 44 Jalan Kaskas 2, Taman Cheras, open daytime hours (8am-5pm), in the $$ price band."
+  - "It is at 44 Jalan Kaskas 2, Taman Cheras, open daytime hours (8am-5pm), in the $ price band."
 faq:
   - q: "What should I order at Hai Kah Lang?"
     a: "The MICHELIN Guide recommends two popular combinations if the full menu feels hard to navigate: the mixed seafood noodles, and the fish head noodle soup with milk. Otherwise you can build your own bowl by picking your seafood, then choosing from the eight noodle types and five soup bases on offer."
   - q: "Why is the seafood considered so fresh?"
     a: "The MICHELIN Guide explains that the owner also runs a seafood stall nearby, so only the freshest catch makes it onto the menu. The restaurant is described as always packed with customers craving seafood noodles."
   - q: "Where is Hai Kah Lang and when is it open?"
-    a: "It is at 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, and the MICHELIN Guide lists opening hours of 8am to 5pm daily. It sits in the $$ price band, is air-conditioned and accepts credit cards."
+    a: "It is at 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, and the MICHELIN Guide lists opening hours of 8am to 5pm daily. It sits in the $ price band, is air-conditioned and accepts credit cards."
 
 updated: 2026-11-06
 sources:

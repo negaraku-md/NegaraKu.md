@@ -5,21 +5,20 @@ slug: "leens"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "master"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Leen's is a Middle Eastern restaurant in Taman Tun Dr Ismail, Kuala Lumpur, holding a MICHELIN Guide Bib Gourmand for good-value cooking. Opened by a Syrian chef who began with home-delivered meals, it is known for smoked hummus infused with burnt chilli oil and lamb kebab khashkhash. This profile covers the food, the setting and how to visit."
 seoTitle: "Leen's, Kuala Lumpur"
-answer: "Leen's is a Middle Eastern restaurant in Taman Tun Dr Ismail (TTDI), Kuala Lumpur, recognised with a MICHELIN Guide Bib Gourmand — the guide's mark of good quality cooking at good value. Opened by a Syrian chef who started out delivering home-cooked meals, it is known for its smoked hummus infused with burnt chilli oil and for kebab khashkhash, lamb skewers in a spicy poppy-seed sauce. It sits in the $$ price band and takes its own bookings."
+answer: "Leen's is a Middle Eastern restaurant in Taman Tun Dr Ismail (TTDI), Kuala Lumpur, recognised with a MICHELIN Guide Bib Gourmand — the guide's mark of good quality cooking at good value. Opened by a Syrian chef who started out delivering home-cooked meals, it is known for its smoked hummus infused with burnt chilli oil and for kebab khashkhash, lamb skewers in a spicy poppy-seed sauce. It sits in the $ price band and takes its own bookings."
 appliesTo: "Travellers and KL diners looking for a well-regarded, good-value Middle Eastern restaurant, and readers following Malaysia's MICHELIN Guide selection."
 keyTakeaways:
   - "Leen's is a MICHELIN Guide Bib Gourmand restaurant — the guide's recognition of good quality, good value cooking — in Taman Tun Dr Ismail, Kuala Lumpur."
   - "The cuisine is Middle Eastern, opened by a Syrian chef who began by delivering home-cooked meals before opening the brick-and-mortar shop."
   - "MICHELIN highlights the smoked hummus infused with burnt chilli oil (mildly spicy and very smoky) and kebab khashkhash, lamb skewers in a sharp, spicy poppy-seed sauce."
-  - "It is a $$ restaurant, good for groups, with the aromas of freshly baked goods filling the space."
+  - "It is a $ restaurant, good for groups, with the aromas of freshly baked goods filling the space."
   - "The restaurant manages its own bookings, so contact it directly; it is at 1F, 136A Jalan Burhanuddin Helmi, TTDI."
 faq:
   - q: "Where is Leen's and what kind of food does it serve?"

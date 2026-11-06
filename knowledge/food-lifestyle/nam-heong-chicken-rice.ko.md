@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "e5f4a32ff283e536"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Nam Heong Chicken Rice(City Centre)는 쿠알라룸푸르 구시가지 Jalan Sultan에 있는 오래된 하이난 치킨라이스 가게로, 1938년부터 영업해 왔으며 MICHELIN Guide의 Bib Gourmand를 보유하고 있습니다. 손님은 더 담백한 '채소 농장' 닭과 더 기름진 토종닭 중에서 고르며, roast pork belly(삼겹살 구이)와 Ipoh bean sprouts가 인기 곁들이입니다. 이 글은 음식, 분위기, 그리고 방문 방법을 다룹니다."
 seoTitle: "Nam Heong Chicken Rice, KL"
 answer: "Nam Heong Chicken Rice(City Centre)는 쿠알라룸푸르 Jalan Sultan에 있는 하이난 치킨라이스 가게로, 1938년부터 영업해 왔으며 가성비 좋은 요리로 MICHELIN Guide의 Bib Gourmand로 인정받았습니다. 닭은 두 가지 — 더 담백한 '채소 농장' 닭과 더 기름진 토종닭 — 중에서 고를 수 있으며, 잘 팔리는 roast pork belly(삼겹살 구이)와 아삭한 Ipoh bean sprouts도 함께 나옵니다. 구시가지에 있는 소박하고 저렴한 $ 가게로, 매일 영업하며 예약은 매장이 직접 받습니다."

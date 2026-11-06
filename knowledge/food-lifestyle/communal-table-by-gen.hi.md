@@ -9,17 +9,16 @@ contentType: "place"
 lang: "hi"
 sourceContentHash: "9c115b0079bf2418"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Communal Table by Gēn, Penang के George Town में Lebuh Presgrave पर एक MICHELIN Bib Gourmand रेस्तरां है, जो Peranakan और मलेशियाई पाककला को मिलाने वाले आधुनिक व्यंजनों का एक छोटा à la carte मेनू परोसता है। एक खुली रसोई और एक लंबे काउंटर के इर्द-गिर्द बना, इसे Malaysian ($) के रूप में सूचीबद्ध किया गया है; इसका विशिष्ट व्यंजन एक भाप में पकी बन में रखा उम्रदराज़ (aged) बत्तख का सीना है।"
 
-summary: "Communal Table by Gēn, Penang के George Town में Lebuh Presgrave पर एक MICHELIN Bib Gourmand रेस्तरां है, जो Peranakan और मलेशियाई पाककला को मिलाने वाले आधुनिक व्यंजनों का एक छोटा à la carte मेनू परोसता है। एक खुली रसोई और एक लंबे काउंटर के इर्द-गिर्द बना, इसे Malaysian ($$) के रूप में सूचीबद्ध किया गया है; इसका विशिष्ट व्यंजन एक भाप में पकी बन में रखा उम्रदराज़ (aged) बत्तख का सीना है।"
-
-answer: "Communal Table by Gēn, Penang के George Town में 68 Lebuh Presgrave पर एक आधुनिक-मलेशियाई रेस्तरां है, जो अच्छे मूल्य वाले पाक-कौशल के लिए एक MICHELIN Bib Gourmand रखता है। MICHELIN Guide इसे $$ श्रेणी में Malaysian के रूप में सूचीबद्ध करता है और एक खुली रसोई, एक लंबे काउंटर तथा फ़र्श-से-छत तक की खिड़कियों वाले एक अनौपचारिक कमरे का वर्णन करता है, जो स्थानीय सामग्री से Peranakan और मलेशियाई पाककला को मिलाने वाले आधुनिक व्यंजनों का एक छोटा à la carte रात्रिभोज मेनू परोसता है। इसका विशिष्ट व्यंजन एक भाप में पकी बन में रखा उम्रदराज़ बत्तख का सीना है, कुरकुरी त्वचा और एक 'गुप्त सॉस' के साथ।"
+answer: "Communal Table by Gēn, Penang के George Town में 68 Lebuh Presgrave पर एक आधुनिक-मलेशियाई रेस्तरां है, जो अच्छे मूल्य वाले पाक-कौशल के लिए एक MICHELIN Bib Gourmand रखता है। MICHELIN Guide इसे $ श्रेणी में Malaysian के रूप में सूचीबद्ध करता है और एक खुली रसोई, एक लंबे काउंटर तथा फ़र्श-से-छत तक की खिड़कियों वाले एक अनौपचारिक कमरे का वर्णन करता है, जो स्थानीय सामग्री से Peranakan और मलेशियाई पाककला को मिलाने वाले आधुनिक व्यंजनों का एक छोटा à la carte रात्रिभोज मेनू परोसता है। इसका विशिष्ट व्यंजन एक भाप में पकी बन में रखा उम्रदराज़ बत्तख का सीना है, कुरकुरी त्वचा और एक 'गुप्त सॉस' के साथ।"
 keyTakeaways:
-  - "Communal Table by Gēn, Penang के George Town में एक MICHELIN Bib Gourmand रेस्तरां है, जो $$ श्रेणी में Malaysian के रूप में सूचीबद्ध है।"
+  - "Communal Table by Gēn, Penang के George Town में एक MICHELIN Bib Gourmand रेस्तरां है, जो $ श्रेणी में Malaysian के रूप में सूचीबद्ध है।"
   - "रसोई स्थानीय सामग्री से Peranakan और मलेशियाई पाककला को मिलाने वाले आधुनिक व्यंजनों का एक छोटा à la carte मेनू परोसती है।"
   - "MICHELIN की विशिष्ट पसंद एक भाप में पकी बन में रखा उम्रदराज़ बत्तख का सीना है — कुरकुरी त्वचा और एक 'गुप्त सॉस'।"
   - "कमरा एक खुली रसोई, एक लंबी साझा काउंटर मेज़ और फ़र्श-से-छत तक की खिड़कियों के इर्द-गिर्द बना है — एक काउंटर-भोजन अनुभव।"

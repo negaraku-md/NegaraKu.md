@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "050ca495a8ce6de1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Bridge Street Prawn Noodle ialah gerai makanan jalanan MICHELIN Bib Gourmand di Lebuh Pantai, George Town, Pulau Pinang, terkenal dengan prawn mee: mi kuning atau mi beras dalam sup udang pedas yang kaya rasa, dengan tambahan seperti tulang rusuk khinzir yang direneh dan bebola ikan."
 seoTitle: "Bridge Street Prawn Noodle: Bib Gourmand Pulau Pinang"
 answer: "Bridge Street Prawn Noodle ialah gerai makanan jalanan Bib Gourmand di 533 Lebuh Pantai, George Town, Pulau Pinang. Hidangan istimewanya ialah prawn mee (sup mi udang): pelanggan memilih mi kuning atau mi beras dalam sup udang pedas yang sarat rasa, dan boleh menambah tulang rusuk khinzir yang direneh atau bebola ikan. Hanya menerima tunai dan menarik orang beratur sejak pengiktirafan MICHELIN-nya."

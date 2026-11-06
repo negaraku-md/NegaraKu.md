@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor कुआलालंपुर में Jalan Ampang से थोड़ा हटकर एक उत्तर भारतीय रेस्तराँ है, जिसे अच्छे दाम पर अच्छे भोजन के लिए Bib Gourmand के साथ MICHELIN Guide में सूचीबद्ध किया गया है। एक आवासीय बंगले में स्थित और 1990 में मलेशिया में खुले d'Tandoor ब्रांड का हिस्सा, यह पारिवारिक व्यंजनों पर आधारित उत्कृष्ट भारतीय भोजन की दिल को छू लेने वाली श्रृंखला परोसता है, जिसमें butter chicken masala, मुलायम-चबाऊ नान और कुल्फी आइसक्रीम वे व्यंजन हैं जिन्हें MICHELIN चुनता है। यह $$ मूल्य स्तर में आता है और परिवार तथा बाहर-भोजन के अनुकूल है।"
+answer: "Roti by d'Tandoor कुआलालंपुर में Jalan Ampang से थोड़ा हटकर एक उत्तर भारतीय रेस्तराँ है, जिसे अच्छे दाम पर अच्छे भोजन के लिए Bib Gourmand के साथ MICHELIN Guide में सूचीबद्ध किया गया है। एक आवासीय बंगले में स्थित और 1990 में मलेशिया में खुले d'Tandoor ब्रांड का हिस्सा, यह पारिवारिक व्यंजनों पर आधारित उत्कृष्ट भारतीय भोजन की दिल को छू लेने वाली श्रृंखला परोसता है, जिसमें butter chicken masala, मुलायम-चबाऊ नान और कुल्फी आइसक्रीम वे व्यंजन हैं जिन्हें MICHELIN चुनता है। यह $ मूल्य स्तर में आता है और परिवार तथा बाहर-भोजन के अनुकूल है।"
 keyTakeaways:
   - "Roti by d'Tandoor कुआलालंपुर में MICHELIN Guide Bib Gourmand रखता है — अच्छे दाम पर अच्छी गुणवत्ता के लिए दिया जाने वाला सम्मान।"
   - "यह Jalan Ampang से थोड़ा हटकर एक घर में, पारिवारिक व्यंजनों तथा जड़ी-बूटियों और मसालों के मिश्रण पर आधारित उत्तर भारतीय भोजन परोसता है।"
   - "MICHELIN butter chicken masala, मुलायम-चबाऊ नान और कई स्वादों में आने वाली कुल्फी आइसक्रीम को रेखांकित करता है।"
   - "यह d'Tandoor ब्रांड का हिस्सा है, जो MICHELIN के अनुसार 1990 में मलेशिया में खुला।"
-  - "यह 82 Jalan Damai पर, Jalan Ampang से थोड़ा हटकर, $$ मूल्य स्तर में है, बाहरी बैठक और परिवार-अनुकूल माहौल के साथ।"
+  - "यह 82 Jalan Damai पर, Jalan Ampang से थोड़ा हटकर, $ मूल्य स्तर में है, बाहरी बैठक और परिवार-अनुकूल माहौल के साथ।"
 appliesTo: "कुआलालंपुर में किफ़ायती, MICHELIN-मान्यता प्राप्त उत्तर भारतीय भोजन की तलाश करने वाले यात्री और भोजन करने वाले।"
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

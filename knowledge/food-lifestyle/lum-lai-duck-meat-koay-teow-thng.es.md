@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "a032ad49d448af31"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lum Lai Duck Meat Koay Teow Th'ng es un puesto de comida callejera con MICHELIN Bib Gourmand en el Cecil Street Market (Pasar Lebuh Cecil) de George Town, Penang, famoso por el koay teow th'ng de pato: fideos planos de arroz en un caldo rico de pato y cerdo cocido a fuego lento durante horas. Fundado por Lau Lum Lai a finales de la década de 1970, ahora lo llevan su hijo y su nuera."
 seoTitle: "Lum Lai Pato Koay Teow Thng: Bib Gourmand Penang"
 answer: "Lum Lai Duck Meat Koay Teow Th'ng es un puesto de comida callejera Bib Gourmand en el Cecil Street Market (Pasar Lebuh Cecil), George Town, Penang. Su seña es el koay teow th'ng de pato: fideos planos de arroz en un caldo claro y rico en umami hecho con pato, cerdo y pastel de pescado, rematado con ajo y chalota fritos. La familia lo ha cocinado de la misma manera durante más de 40 años, y las colas son habituales en horas punta."

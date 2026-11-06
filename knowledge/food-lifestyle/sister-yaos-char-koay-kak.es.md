@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "9a648af8ae4110e1"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sister Yao's Char Koay Kak es un puesto de comida callejera con MICHELIN Bib Gourmand en Lorong Macalister, George Town, Penang, que sirve char koay kak: pastel de arroz salteado con buen wok hei, salsa de soja, brotes de soja, huevo y chile. Este plato teochew lo inició el padre de las hermanas en 1963 y ahora lo llevan tres hijas."
 seoTitle: "Sister Yao's Char Koay Kak: Bib Gourmand Penang"
 answer: "Sister Yao's Char Koay Kak es un puesto de comida callejera Bib Gourmand en 96 Lorong Macalister, George Town, Penang. Su único plato es el char koay kak, un pastel de arroz salteado al estilo teochew con wok hei ahumado, salsa de soja, brotes de soja, huevo y chile, con salsa picante extra a petición. Lo inició el padre de las hermanas en 1963 y ahora lo llevan tres hijas. Solo acepta efectivo."

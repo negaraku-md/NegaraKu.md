@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa는 페낭 조지타운에 있는 MICHELIN Bib Gourmand 길거리 음식 노점으로, 타마린드와 생선으로 끓인 새콤달콤하고 매콤한 assam laksa를 약 50년 된 가족 레시피로 선보이며 현재 3대째가 조리한다. 이 프로필은 MICHELIN 선정, 대표 메뉴, 위치, 방문 방법을 다룬다."
 seoTitle: "Wan Dao Tou Assam Laksa: 페낭 빕 구르망"
 answer: "Wan Dao Tou Assam Laksa는 MICHELIN Guide Kuala Lumpur & Penang 선정에서 MICHELIN Bib Gourmand에 오른 페낭의 길거리 음식 노점이다. assam laksa를 선보이는데, 타마린드로 신맛을 낸 고등어 육수를 굵은 쌀국수에 붓고 오이, 샬롯, 파인애플을 올린 한 그릇으로, 약 50년 된 가족 레시피를 현재 3대째가 조리한다. 주소는 1 Jalan Gottlieb, 조지타운이다."

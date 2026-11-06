@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "hi"
 sourceContentHash: "a3cd5463fc905556"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Ghee Lian, पेनांग के जॉर्ज टाउन में Medan Renong फ़ूड कोर्ट पर एक MICHELIN Bib Gourmand स्ट्रीट-फूड स्टॉल है, जो एक असामान्य green tom yum नूडल व्यंजन के लिए जाना जाता है, साथ में एक नूडल सूप और तले नूडल्स भी। यह प्रोफ़ाइल इसकी MICHELIN मान्यता, खास व्यंजन, स्थान और वहाँ जाने के तरीके को कवर करती है।"
 seoTitle: "Ghee Lian: पेनांग बिब गुरमों स्ट्रीट फूड"
 answer: "Ghee Lian पेनांग का एक स्ट्रीट-फूड स्टॉल है जो MICHELIN Guide Kuala Lumpur & Penang चयन में MICHELIN Bib Gourmand के रूप में सूचीबद्ध है। इसकी खासियत एक असामान्य green tom yum नूडल व्यंजन है — जिसे MICHELIN खट्टे और तीखे के संतुलन के लिए सराहता है — जो एक नूडल सूप और तले नूडल्स के साथ परोसा जाता है। यह Medan Renong फ़ूड कोर्ट, Jalan Tun Syed Sheh Barakhbah, जॉर्ज टाउन में है।"

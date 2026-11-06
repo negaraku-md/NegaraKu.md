@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles es un puesto especializado en fideos chinos en Jalan Sultan, en el centro de Kuala Lumpur, reconocido por la MICHELIN Guide con un Bib Gourmand por su cocina de buena relación calidad-precio. Su plato estrella es el lala (almeja) bihun con langostinos en un caldo aromático con vino amarillo chino y jengibre."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles es un puesto de fideos en Jalan Sultan, en Kuala Lumpur, que ostenta un MICHELIN Bib Gourmand, el galardón de la Guide a la buena calidad a buen precio. Su plato estrella es el lala (almeja) bihun con langostinos en un caldo que la MICHELIN Guide describe como aromático con vino amarillo chino y jengibre. Creció de un puesto callejero a un local esquinero de dos plantas y se sitúa en la banda de precios más baja ($) de la Guide."

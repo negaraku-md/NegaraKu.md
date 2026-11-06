@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "id"
 sourceContentHash: "d85d82d507d07b26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Wan Dao Tou Assam Laksa adalah warung kaki lima MICHELIN Bib Gourmand di George Town, Penang, yang menyajikan assam laksa berbahan asam jawa dan ikan dengan rasa manis-asam-pedas dari resep keluarga berusia sekitar 50 tahun yang kini dimasak oleh generasi ketiga. Profil ini mencakup pengakuan MICHELIN, mangkuk khasnya, lokasi, dan cara mengunjunginya."
 seoTitle: "Wan Dao Tou Assam Laksa: Bib Gourmand Penang"
 answer: "Wan Dao Tou Assam Laksa adalah warung kaki lima di Penang yang tercantum sebagai MICHELIN Bib Gourmand dalam seleksi MICHELIN Guide Kuala Lumpur & Penang. Warung ini menyajikan assam laksa — kuah ikan tenggiri yang diasamkan dengan asam jawa, disiram di atas mi beras tebal, dengan taburan mentimun, bawang merah, dan nanas — dari resep keluarga berusia sekitar 50 tahun, kini dimasak oleh generasi ketiga. Lokasinya di 1 Jalan Gottlieb, George Town."

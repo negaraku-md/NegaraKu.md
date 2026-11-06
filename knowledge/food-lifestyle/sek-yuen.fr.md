@@ -6,22 +6,21 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"
 sourceContentHash: "28fd4ae0db39f542"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Sek Yuen est un restaurant cantonais de longue date sur Jalan Pudu, à Kuala Lumpur, ouvert depuis 1948 et titulaire d'un Bib Gourmand du MICHELIN Guide. Il sert une cuisine cantonaise traditionnelle et réconfortante — des spécialités comme le pipa duck et le cochon de lait rôti (à commander deux jours à l'avance) — réparties sur trois boutiques-maisons contiguës, celle du milieu conservant son cachet d'antan. Ce profil couvre la cuisine, l'histoire et comment s'y rendre."
 seoTitle: "Sek Yuen, Kuala Lumpur"
-answer: "Sek Yuen est un restaurant cantonais patrimonial sur Jalan Pudu, à Kuala Lumpur, ouvert depuis 1948 et distingué par un Bib Gourmand du MICHELIN Guide pour une cuisine d'un bon rapport qualité-prix. Il sert une cuisine cantonaise traditionnelle et réconfortante sur trois boutiques-maisons contiguës — celle du milieu conservant le plus de cachet d'antan — et est connu pour des spécialités comme le pipa duck à la peau croustillante et un cochon de lait rôti à commander deux jours à l'avance. Il se situe dans la tranche de prix $$."
+answer: "Sek Yuen est un restaurant cantonais patrimonial sur Jalan Pudu, à Kuala Lumpur, ouvert depuis 1948 et distingué par un Bib Gourmand du MICHELIN Guide pour une cuisine d'un bon rapport qualité-prix. Il sert une cuisine cantonaise traditionnelle et réconfortante sur trois boutiques-maisons contiguës — celle du milieu conservant le plus de cachet d'antan — et est connu pour des spécialités comme le pipa duck à la peau croustillante et un cochon de lait rôti à commander deux jours à l'avance. Il se situe dans la tranche de prix $."
 appliesTo: "Les voyageurs et les gourmets de KL en quête d'une cuisine cantonaise à l'ancienne, ainsi que les lecteurs qui suivent la sélection du MICHELIN Guide de Malaisie et le patrimoine culinaire de la ville."
 keyTakeaways:
   - "Sek Yuen est un restaurant Bib Gourmand du MICHELIN Guide — une cuisine de bonne qualité et d'un bon rapport qualité-prix — sur Jalan Pudu, Kuala Lumpur."
   - "MICHELIN note qu'il est un favori du quartier depuis son ouverture en 1948, ce qui en fait l'une des cuisines cantonaises les plus anciennes encore en activité de la ville."
   - "Il s'étend aujourd'hui sur trois boutiques-maisons contiguës de la même rue ; celle du milieu conserve le plus de cachet d'antan."
   - "La carte se concentre sur une cuisine cantonaise traditionnelle et réconfortante ; le pipa duck (peau croustillante, chair ferme) est une spécialité, et le cochon de lait rôti doit être commandé deux jours à l'avance."
-  - "C'est un restaurant $$ au personnel chaleureux et de longue date ; il gère lui-même ses réservations, alors contactez-le directement."
+  - "C'est un restaurant $ au personnel chaleureux et de longue date ; il gère lui-même ses réservations, alors contactez-le directement."
 faq:
   - q: "Quel âge a Sek Yuen ?"
     a: "Le MICHELIN Guide indique que Sek Yuen est un favori du quartier depuis son ouverture en 1948, ce qui en fait l'un des restaurants cantonais les plus anciens encore en activité de Kuala Lumpur. Des récits évoquent une origine encore plus ancienne, d'avant-guerre, mais le guide ne les confirme pas."

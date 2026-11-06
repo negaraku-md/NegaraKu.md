@@ -9,7 +9,7 @@ lang: "fr"
 sourceContentHash: "d05cbd15a52e404b"
 masterLanguage: "en"
 translationStatus: "in-sync"
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 sensitivity: "none"
@@ -17,7 +17,7 @@ tier: "3"
 mode: "practical"
 contentType: "place"
 aiAssisted: true
-revision: null
+revision: 0
 updated: 2026-11-06
 summary: "Green House Prawn Mee and Loh Mee est un étal de cuisine de rue en soirée sur Jalan Burma, à George Town, Penang, qui détient un MICHELIN Bib Gourmand. Favori depuis plus de 30 ans, il est réputé pour son Hokkien prawn mee et son loh mee, bâtis sur un bouillon rouge de crevettes profondément umami fait d'os de porc et de carapaces de crevettes, avec une douzaine de garnitures en option."
 answer: "Green House Prawn Mee and Loh Mee est un étal de cuisine de rue MICHELIN Bib Gourmand sur Jalan Burma, à George Town, Penang. Installé au sein du Restoran Old Green House, c'est un favori depuis plus de 30 ans pour son Hokkien prawn mee et son loh mee. Le bouillon rouge de crevettes signature est fait d'os de porc et de carapaces de crevettes pour une saveur umami profonde, et une douzaine de garnitures supplémentaires sont proposées. Il ouvre le soir et n'accepte que les espèces."

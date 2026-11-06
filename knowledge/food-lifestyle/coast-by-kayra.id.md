@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Coast by Kayra adalah restoran India di The Starhill di Bukit Bintang, Kuala Lumpur, terdaftar dalam MICHELIN Guide dengan Bib Gourmand untuk makanan enak dengan harga pantas. Sebagai saudara dari Kayra, restoran ini mempertahankan etos 'laut ke piring', menafsirkan ulang hidangan Kerala tradisional dengan makanan laut dan hasil bumi yang bersumber lokal. Andalannya adalah kari ikan Kerala berdasarkan resep keluarga, ditajamkan dengan mangga muda dan yoghurt. Restoran ini berada pada tingkat harga $$ dan ramah keluarga."
+answer: "Coast by Kayra adalah restoran India di The Starhill di Bukit Bintang, Kuala Lumpur, terdaftar dalam MICHELIN Guide dengan Bib Gourmand untuk makanan enak dengan harga pantas. Sebagai saudara dari Kayra, restoran ini mempertahankan etos 'laut ke piring', menafsirkan ulang hidangan Kerala tradisional dengan makanan laut dan hasil bumi yang bersumber lokal. Andalannya adalah kari ikan Kerala berdasarkan resep keluarga, ditajamkan dengan mangga muda dan yoghurt. Restoran ini berada pada tingkat harga $ dan ramah keluarga."
 keyTakeaways:
   - "Coast by Kayra memegang MICHELIN Guide Bib Gourmand — penghargaan untuk kualitas baik dengan harga pantas — di Kuala Lumpur."
   - "Restoran ini adalah saudara dari Kayra dan menganut etos 'laut ke piring', menafsirkan ulang hidangan Kerala tradisional."
   - "Andalannya adalah kari ikan Kerala berdasarkan resep keluarga, diberi keasaman dengan mangga muda dan yoghurt."
   - "Makanan laut dan hasil bumi bersumber lokal untuk mendukung peternakan kecil dan nelayan."
-  - "Restoran ini berada di The Starhill di Jalan Bukit Bintang, pada tingkat harga $$, dengan dekorasi bertema laut berwarna toska."
+  - "Restoran ini berada di The Starhill di Jalan Bukit Bintang, pada tingkat harga $, dengan dekorasi bertema laut berwarna toska."
 appliesTo: "Wisatawan dan penyantap yang mencari masakan laut Kerala dan India Selatan yang terjangkau dan diakui MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "b056dc187b4d31db"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

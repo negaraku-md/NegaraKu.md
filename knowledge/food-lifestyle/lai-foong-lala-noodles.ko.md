@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ko"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles는 쿠알라룸푸르 중심부 Jalan Sultan에 자리한 중식 국수 전문점으로, 가성비 좋은 요리로 MICHELIN Guide로부터 Bib Gourmand를 받았습니다. 대표 메뉴는 중국 황주와 생강으로 향을 낸 국물에 새우를 곁들인 lala(조개) bihun입니다."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles는 쿠알라룸푸르 Jalan Sultan에 있는 국수 노점으로, MICHELIN Bib Gourmand를 보유하고 있습니다. 이는 좋은 품질을 합리적인 가격에 제공하는 곳에 Guide가 주는 상입니다. 대표 요리는 lala(조개) bihun에 새우를 곁들인 것으로, MICHELIN Guide는 그 국물을 중국 황주와 생강으로 향이 좋다고 묘사합니다. 길거리 노점에서 시작해 길모퉁이의 2층 가게로 성장했으며, Guide의 가장 낮은($) 가격대에 속합니다."

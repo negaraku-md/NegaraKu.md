@@ -15,13 +15,13 @@ sourceContentHash: "c1677b463b905858"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Sepasukan dapur Vietnam memasak hidangan dari seluruh Vietnam, dengan MICHELIN Guide menyatakan beberapa pengaruh Perancis yang kuat."
   - "Phở bò (sup mi daging lembu) isyaratnya dibina atas kaldu yang direneh lebih 10 jam."
   - "Salad manggis dan udang ialah satu kemuncak, dipuji oleh panduan kerana rasa yang besar dan tekstur yang berkontras."
-  - "Ia terletak di 25 Tengkat Tong Shin, Bukit Bintang, dalam lingkungan harga $$, dan ditandakan mesra keluarga."
+  - "Ia terletak di 25 Tengkat Tong Shin, Bukit Bintang, dalam lingkungan harga $, dan ditandakan mesra keluarga."
 faq:
   - q: "Apakah hidangan wajib cuba di Sao Nam?"
     a: "MICHELIN Guide menonjolkan dua. Phở bò (sup mi daging lembu) ialah pesanan ikonik, dengan kaldu yang mengambil masa lebih 10 jam untuk disiapkan. Salad manggis dan udang ialah satu lagi yang menonjol, digambarkan menggoda citarasa dengan rasa besar dan tekstur yang berkontras."
   - q: "Adakah Sao Nam mempunyai MICHELIN Star?"
     a: "Tidak. Sao Nam memegang Bib Gourmand, iaitu anugerah MICHELIN yang berasingan untuk masakan berkualiti baik pada harga berbaloi. Ia bukan Star; kedua-dua anugerah diberikan secara berasingan."
   - q: "Di mana Sao Nam dan adakah ia sesuai untuk keluarga?"
-    a: "Ia terletak di 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, dengan fasad kuning dan interior berwarna-warni. MICHELIN Guide menandakannya mesra keluarga dan meletakkannya dalam lingkungan harga $$."
+    a: "Ia terletak di 25 Tengkat Tong Shin, Bukit Bintang, Kuala Lumpur 50200, dengan fasad kuning dan interior berwarna-warni. MICHELIN Guide menandakannya mesra keluarga dan meletakkannya dalam lingkungan harga $."
 
 updated: 2026-11-06
 sources:

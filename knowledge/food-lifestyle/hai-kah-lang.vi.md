@@ -15,13 +15,13 @@ sourceContentHash: "e079f5debbe28141"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "Đây là tô mì hải sản tự dựng: chọn cá, hải sản có vỏ hoặc cả hai, rồi một trong tám loại mì và năm loại nước dùng."
   - "MICHELIN Guide lưu ý chỉ mẻ tươi nhất mới lên bàn vì chủ quán còn điều hành một sạp hải sản gần đó."
   - "Nếu thực đơn gây choáng ngợp, món tủ của quán là mì hải sản thập cẩm và mì nước đầu cá thêm sữa."
-  - "Quán ở 44 Jalan Kaskas 2, Taman Cheras, mở ban ngày (8 giờ sáng-5 giờ chiều), trong khung giá $$."
+  - "Quán ở 44 Jalan Kaskas 2, Taman Cheras, mở ban ngày (8 giờ sáng-5 giờ chiều), trong khung giá $."
 faq:
   - q: "Tôi nên gọi gì ở Hai Kah Lang?"
     a: "MICHELIN Guide gợi ý hai kết hợp phổ biến nếu thực đơn đầy đủ khó chọn: mì hải sản thập cẩm, và mì nước đầu cá thêm sữa. Nếu không, bạn có thể tự dựng tô của mình bằng cách chọn hải sản, rồi chọn từ tám loại mì và năm loại nước dùng có sẵn."
   - q: "Vì sao hải sản được coi là tươi đến vậy?"
     a: "MICHELIN Guide giải thích rằng chủ quán còn điều hành một sạp hải sản gần đó, nên chỉ mẻ tươi nhất mới vào thực đơn. Quán được mô tả là lúc nào cũng đông khách thèm mì hải sản."
   - q: "Hai Kah Lang ở đâu và mở cửa khi nào?"
-    a: "Quán ở 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, và MICHELIN Guide ghi giờ mở cửa từ 8 giờ sáng đến 5 giờ chiều hằng ngày. Quán ở khung giá $$, có máy lạnh và nhận thẻ tín dụng."
+    a: "Quán ở 44 Jalan Kaskas 2, Taman Cheras, Kuala Lumpur 56100, và MICHELIN Guide ghi giờ mở cửa từ 8 giờ sáng đến 5 giờ chiều hằng ngày. Quán ở khung giá $, có máy lạnh và nhận thẻ tín dụng."
 
 updated: 2026-11-06
 sources:

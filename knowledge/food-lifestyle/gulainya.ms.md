@@ -7,21 +7,20 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "508e444c18b01819"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya ialah sebuah restoran Peranakan di Bukit Damansara, Kuala Lumpur, yang diiktiraf oleh MICHELIN Guide dengan Bib Gourmand bagi masakan berbaloi. MICHELIN Guide menggambarkan hidangan ala rumah yang dibina atas resipi keluarga pemilik yang telah diperhalus, dengan sos yang dibuat sendiri oleh pemilik dan ayam tanpa tulang basil berkrim yang diketengahkan."
 seoTitle: "Gulainya"
-answer: "Gulainya ialah sebuah restoran Peranakan di Plaza Damansara, Bukit Damansara, Kuala Lumpur, yang memegang MICHELIN Bib Gourmand — anugerah Guide bagi kualiti baik pada harga berbaloi, bukan bintang. MICHELIN Guide menggambarkan masakan ala rumah yang dibina atas resipi keluarga pemilik, diperhalus dan dikemas kini, dengan sos yang dibuat sendiri oleh pemilik, dan mengetengahkan ayam tanpa tulang basil berkrim. Ia berada dalam jalur harga $$."
+answer: "Gulainya ialah sebuah restoran Peranakan di Plaza Damansara, Bukit Damansara, Kuala Lumpur, yang memegang MICHELIN Bib Gourmand — anugerah Guide bagi kualiti baik pada harga berbaloi, bukan bintang. MICHELIN Guide menggambarkan masakan ala rumah yang dibina atas resipi keluarga pemilik, diperhalus dan dikemas kini, dengan sos yang dibuat sendiri oleh pemilik, dan mengetengahkan ayam tanpa tulang basil berkrim. Ia berada dalam jalur harga $."
 appliesTo: "Pengunjung, pengembara makanan dan sesiapa yang mencari hidangan Peranakan MICHELIN Bib Gourmand di Kuala Lumpur."
 keyTakeaways:
   - "Gulainya membawa MICHELIN Bib Gourmand — anugerah 'kualiti baik, harga berbaloi' Guide, bukan bintang — dalam pemilihan MICHELIN Guide Kuala Lumpur & Penang semasa."
   - "Liputan MICHELIN menyenaraikannya antara tambahan Bib Gourmand terbaharu kepada pemilihan Malaysia, bersama-sama Lama di Kuala Lumpur."
   - "MICHELIN Guide menggambarkan hidangan Peranakan ala rumah yang dibina atas resipi keluarga pemilik, diperhalus dan dikemas kini, dengan sos yang dibuat sendiri oleh pemilik."
-  - "Hidangan yang diketengahkan ialah ayam tanpa tulang basil berkrim; restoran ini berada di Plaza Damansara, Bukit Damansara, dalam jalur harga $$."
+  - "Hidangan yang diketengahkan ialah ayam tanpa tulang basil berkrim; restoran ini berada di Plaza Damansara, Bukit Damansara, dalam jalur harga $."
   - "Pemilihan Bib Gourmand disemak setiap tahun, dan waktu operasi, harga serta menu restoran boleh berubah."
 faq:
   - q: "Apakah jenis makanan yang disajikan oleh Gulainya?"
@@ -29,7 +28,7 @@ faq:
   - q: "Adakah Gulainya mempunyai bintang MICHELIN?"
     a: "Tidak. Ia memegang Bib Gourmand, yang dianugerahkan oleh MICHELIN Guide bagi kualiti baik pada harga berbaloi, dan bukan penarafan satu, dua atau tiga bintang. Kedua-duanya ialah pengiktirafan MICHELIN yang berasingan."
   - q: "Di manakah Gulainya?"
-    a: "MICHELIN Guide menyenaraikannya di 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, dalam jalur harga $$. Ia dicatatkan sebagai tutup pada hari Isnin; sahkan waktu operasi semasa sebelum melawat."
+    a: "MICHELIN Guide menyenaraikannya di 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur, dalam jalur harga $. Ia dicatatkan sebagai tutup pada hari Isnin; sahkan waktu operasi semasa sebelum melawat."
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

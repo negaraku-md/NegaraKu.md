@@ -15,13 +15,13 @@ sourceContentHash: "261d47b46044a79a"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -34,14 +34,14 @@ keyTakeaways:
   - "它起初是 1940 年代的一个小贩摊，如今由第三代经营者打理，店内陈旧而有历史感。"
   - "MICHELIN Guide 说它的 bak kut teh 配方 80 年未变，熬出一锅草药味、自然回甘的汤。"
   - "食客可挑选自己的猪肉部位——肋排、五花、猪肚或混合——指南建议把肉蘸入配有蒜末和辣椒的酱油。"
-  - "它位于 7-6 Jalan Sungai Besi, Pudu，价位属 $$，指南为它标上「Worth Queueing For」。"
+  - "它位于 7-6 Jalan Sungai Besi, Pudu，价位属 $，指南为它标上「Worth Queueing For」。"
 faq:
   - q: "什么是 bak kut teh，Minji 的版本如何？"
     a: "Bak kut teh 是一道以草药和香料熬煮的马来西亚猪肋骨汤。MICHELIN Guide 形容 Minji 的版本草药味、自然回甘，出自一道 80 年未变的配方。您可挑选自己的猪肉部位——肋排、五花、猪肚或混合——指南建议把肉蘸入配有蒜末和辣椒的酱油。"
   - q: "Minji 有多老？"
     a: "MICHELIN Guide 说它起初是 1940 年代的一个小贩摊，如今由第三代经营者打理，店内陈旧而有历史感，映照着一代代走过的食客。"
   - q: "Minji 在哪里，我该预料要等候吗？"
-    a: "它位于 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100，价位属 $$。MICHELIN Guide 为它标上「Worth Queueing For」，所以在繁忙时段预料要排队。订位由餐厅直接处理，且不收信用卡。"
+    a: "它位于 7-6 Jalan Sungai Besi, Pudu, Kuala Lumpur 57100，价位属 $。MICHELIN Guide 为它标上「Worth Queueing For」，所以在繁忙时段预料要排队。订位由餐厅直接处理，且不收信用卡。"
 
 updated: 2026-11-06
 sources:

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "th"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake เป็นรถเข็นอาหารริมทางระดับ MICHELIN Bib Gourmand ในบูกิตเมอร์ตาจัม เซอเบอรังเปอไร บนฝั่งแผ่นดินใหญ่ของปีนัง ตั้งแต่ปี 1962 ขายเมนูเดียว — apam balik แพนเค้กย่างถ่านไส้น้ำตาลและถั่วลิสง กรอบนอกเหนียวนุ่มใน — และมีคนต่อแถวในช่วงเวลาเร่งด่วน"
 seoTitle: "BM Cathay Pancake: apam balik Bib Gourmand ปีนัง"
 answer: "BM Cathay Pancake เป็นรถเข็นอาหารริมทางระดับ Bib Gourmand ข้าง Cathay Food Court บน Jalan Aston บูกิตเมอร์ตาจัม เซอเบอรังเปอไร บนฝั่งแผ่นดินใหญ่ของปีนัง ตั้งแต่ปี 1962 เสิร์ฟเพียงเมนูเดียว: apam balik แพนเค้กย่างถ่านไส้น้ำตาลและถั่วลิสง กรอบนอกเหนียวนุ่มใน ทำสด รับเฉพาะเงินสดและคุ้มค่าแก่การต่อแถว"

@@ -12,13 +12,13 @@ mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Roti by d'Tandoor adalah restoran India Utara di dekat Jalan Ampang di Kuala Lumpur, terdaftar dalam MICHELIN Guide dengan Bib Gourmand untuk makanan enak dengan harga pantas. Menempati sebuah bungalo hunian dan merupakan bagian dari merek d'Tandoor yang dibuka di Malaysia pada 1990, restoran ini menyajikan beragam masakan India halus yang menghangatkan hati berbasis resep keluarga, dengan butter chicken masala, naan yang lembut dan kenyal, serta es krim kulfi di antara hidangan yang dipilih MICHELIN. Restoran ini berada pada tingkat harga $$ dan ramah keluarga serta ramah santap di luar ruangan."
+answer: "Roti by d'Tandoor adalah restoran India Utara di dekat Jalan Ampang di Kuala Lumpur, terdaftar dalam MICHELIN Guide dengan Bib Gourmand untuk makanan enak dengan harga pantas. Menempati sebuah bungalo hunian dan merupakan bagian dari merek d'Tandoor yang dibuka di Malaysia pada 1990, restoran ini menyajikan beragam masakan India halus yang menghangatkan hati berbasis resep keluarga, dengan butter chicken masala, naan yang lembut dan kenyal, serta es krim kulfi di antara hidangan yang dipilih MICHELIN. Restoran ini berada pada tingkat harga $ dan ramah keluarga serta ramah santap di luar ruangan."
 keyTakeaways:
   - "Roti by d'Tandoor memegang MICHELIN Guide Bib Gourmand — penghargaan untuk kualitas baik dengan harga pantas — di Kuala Lumpur."
   - "Restoran ini menyajikan masakan India Utara berbasis resep keluarga serta racikan rempah dan bumbu, di sebuah rumah di dekat Jalan Ampang."
   - "MICHELIN menyoroti butter chicken masala, naan yang lembut dan kenyal, serta es krim kulfi yang hadir dalam beberapa rasa."
   - "Restoran ini adalah bagian dari merek d'Tandoor, yang menurut MICHELIN dibuka di Malaysia pada 1990."
-  - "Restoran ini berada di 82 Jalan Damai, dekat Jalan Ampang, pada tingkat harga $$, dengan tempat duduk di luar ruangan dan suasana ramah keluarga."
+  - "Restoran ini berada di 82 Jalan Damai, dekat Jalan Ampang, pada tingkat harga $, dengan tempat duduk di luar ruangan dan suasana ramah keluarga."
 appliesTo: "Wisatawan dan penyantap yang mencari masakan India Utara yang terjangkau dan diakui MICHELIN di Kuala Lumpur."
 
 faq:
@@ -34,13 +34,13 @@ sourceContentHash: "c1e7f9b1a5b52bdd"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 
 updated: 2026-11-06

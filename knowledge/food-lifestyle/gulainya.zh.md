@@ -7,21 +7,20 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "508e444c18b01819"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya 是一家位于吉隆坡 Bukit Damansara 的 Peranakan 餐厅，凭借物有所值的烹饪获得 MICHELIN Guide 的 Bib Gourmand 肯定。MICHELIN Guide 形容其家常菜肴建立在东主经过精心打磨的家传食谱之上，酱料由东主亲手调制，并着重推介一道奶油罗勒去骨鸡。"
 seoTitle: "Gulainya"
-answer: "Gulainya 是一家位于吉隆坡 Bukit Damansara、Plaza Damansara 的 Peranakan 餐厅，持有 MICHELIN Bib Gourmand——这是 Guide 颁予优质而物有所值者的奖项，而非星级。MICHELIN Guide 形容其家常菜建立在东主的家传食谱之上，经过精心打磨与更新，酱料由东主亲手调制，并着重推介一道奶油罗勒去骨鸡。它位于 $$ 价位区间。"
+answer: "Gulainya 是一家位于吉隆坡 Bukit Damansara、Plaza Damansara 的 Peranakan 餐厅，持有 MICHELIN Bib Gourmand——这是 Guide 颁予优质而物有所值者的奖项，而非星级。MICHELIN Guide 形容其家常菜建立在东主的家传食谱之上，经过精心打磨与更新，酱料由东主亲手调制，并着重推介一道奶油罗勒去骨鸡。它位于 $ 价位区间。"
 appliesTo: "食客、美食旅人，以及任何想在吉隆坡寻觅一顿 MICHELIN Bib Gourmand Peranakan 餐的人。"
 keyTakeaways:
   - "Gulainya 在现行的 MICHELIN Guide Kuala Lumpur & Penang 名单中持有 MICHELIN Bib Gourmand——这是 Guide 的「优质、物有所值」奖项，而非星级。"
   - "MICHELIN 的报道将它列为马来西亚名单中最新加入的 Bib Gourmand 之一，与吉隆坡的 Lama 并列。"
   - "MICHELIN Guide 形容其家常 Peranakan 菜肴建立在东主的家传食谱之上，经过精心打磨与更新，酱料由东主亲手调制。"
-  - "它着重推介的菜肴是一道奶油罗勒去骨鸡；餐厅位于 Bukit Damansara 的 Plaza Damansara，属 $$ 价位区间。"
+  - "它着重推介的菜肴是一道奶油罗勒去骨鸡；餐厅位于 Bukit Damansara 的 Plaza Damansara，属 $ 价位区间。"
   - "Bib Gourmand 名单每年检讨一次，餐厅的营业时间、价格与菜单都可能变动。"
 faq:
   - q: "Gulainya 供应哪种食物？"
@@ -29,7 +28,7 @@ faq:
   - q: "Gulainya 有 MICHELIN 星吗？"
     a: "没有。它持有 Bib Gourmand，这是 MICHELIN Guide 颁予优质而物有所值者的肯定，而非一星、二星或三星评级。两者是不同的 MICHELIN 殊荣。"
   - q: "Gulainya 在哪里？"
-    a: "MICHELIN Guide 将它列于 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur，属 $$ 价位区间。资料注明逢星期一休息；造访前请确认当前营业时间。"
+    a: "MICHELIN Guide 将它列于 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur，属 $ 价位区间。资料注明逢星期一休息；造访前请确认当前营业时间。"
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

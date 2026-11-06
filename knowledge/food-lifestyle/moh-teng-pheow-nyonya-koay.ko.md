@@ -9,12 +9,11 @@ contentType: "place"
 lang: "ko"
 sourceContentHash: "899bf571aa6a9eea"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Moh Teng Pheow Nyonya Koay는 페낭 George Town에 있는 MICHELIN Bib Gourmand kueh 장인으로, 그 솜씨가 1933년으로 거슬러 올라간다. Lebuh Chulia 옆에 숨어 있으며, 전통 Nyonya kueh——kueh lapis, kueh talam, ang koo, Nyonya chang——를 찌고 튀기고 구워, 페낭식 우산이 드리운 유리 지붕 아래에서 낸다."
 
 answer: "Moh Teng Pheow Nyonya Koay는 페낭 George Town의 Lebuh Chulia 옆 Jalan Masjid에 있는 전통 Nyonya kueh 장인이다. 가성비를 가리키는 Guide의 표식인 MICHELIN Bib Gourmand를 보유하고, $ 가격대의 'Small eats'로 등재되어 있다. 이 가게는 그 kueh——kueh lapis, kueh talam, ang koo, Nyonya chang 같은, 찌고 튀기고 구운 떡·만두·푸딩——를 1933년 이래 같은 방식으로 만들어 왔으며, 지금은 공방 뒤편의 유리 지붕 식사 공간에서 낸다."

@@ -9,18 +9,17 @@ contentType: "place"
 lang: "th"
 sourceContentHash: "20af5620689afe20"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
+revision: 0
+summary: "Nirwana — ร้านอาหารใน Bangsar Baru ที่รู้จักกันอย่างกว้างขวางในชื่อ Sri Nirwana Maju — เป็นร้านข้าวใบตองระดับ MICHELIN Bib Gourmand อันเป็นสถาบันบนถนน Jalan Telawi. MICHELIN Guide จัดให้เป็น Indian ($) และชี้นำนักชิมไปยังเซ็ตข้าวกับแกงบนใบตอง รวมถึง chicken biryani ของร้าน"
 
-summary: "Nirwana — ร้านอาหารใน Bangsar Baru ที่รู้จักกันอย่างกว้างขวางในชื่อ Sri Nirwana Maju — เป็นร้านข้าวใบตองระดับ MICHELIN Bib Gourmand อันเป็นสถาบันบนถนน Jalan Telawi. MICHELIN Guide จัดให้เป็น Indian ($$) และชี้นำนักชิมไปยังเซ็ตข้าวกับแกงบนใบตอง รวมถึง chicken biryani ของร้าน"
-
-answer: "Nirwana เป็นร้านอาหารอินเดียใต้ที่เปิดมายาวนาน ตั้งอยู่ที่ 43 Jalan Telawi 3 ใน Bangsar Baru กัวลาลัมเปอร์ และถือรางวัล MICHELIN Bib Gourmand ใน MICHELIN Guide Kuala Lumpur & Penang. Bib Gourmand เป็นเครื่องหมายของอาหารคุณภาพดีคุ้มราคา. MICHELIN จัดให้เป็น Indian ในพิกัดราคา $$ และแนะนำเซ็ตข้าวใบตองที่ประกอบด้วยข้าวและแกงผัก โดยยก chicken biryani ขึ้นมาเป็นพิเศษด้วยเนื้อที่ชุ่มฉ่ำและนุ่ม"
+answer: "Nirwana เป็นร้านอาหารอินเดียใต้ที่เปิดมายาวนาน ตั้งอยู่ที่ 43 Jalan Telawi 3 ใน Bangsar Baru กัวลาลัมเปอร์ และถือรางวัล MICHELIN Bib Gourmand ใน MICHELIN Guide Kuala Lumpur & Penang. Bib Gourmand เป็นเครื่องหมายของอาหารคุณภาพดีคุ้มราคา. MICHELIN จัดให้เป็น Indian ในพิกัดราคา $ และแนะนำเซ็ตข้าวใบตองที่ประกอบด้วยข้าวและแกงผัก โดยยก chicken biryani ขึ้นมาเป็นพิเศษด้วยเนื้อที่ชุ่มฉ่ำและนุ่ม"
 keyTakeaways:
   - "Nirwana (โดยทั่วไปขึ้นป้ายว่า Sri Nirwana Maju) เป็นร้านอาหารระดับ MICHELIN Bib Gourmand ใน Bangsar Baru กัวลาลัมเปอร์"
-  - "MICHELIN Guide จัดให้เป็นอาหาร Indian ในพิกัดราคา $$ และติดป้ายกำกับว่า 'Eat like a local'"
+  - "MICHELIN Guide จัดให้เป็นอาหาร Indian ในพิกัดราคา $ และติดป้ายกำกับว่า 'Eat like a local'"
   - "MICHELIN ชี้นำนักชิมไปยังเซ็ตเมนูข้าวใบตองที่ประกอบด้วยข้าวและแกงผัก โดยเลือกเพิ่มปลา ไก่ หรือเนื้อแกะได้"
   - "chicken biryani คือจานที่ MICHELIN ยกขึ้นมาเป็นพิเศษ ชื่นชมเนื้อที่ชุ่มฉ่ำและนุ่มกับรสชาติที่สมดุล"
   - "ร้านตั้งอยู่ที่ 43 Jalan Telawi 3 ติดกับ Bangsar Village และเปิดทุกวัน; Bib Gourmand เป็นเครื่องหมายของความคุ้มค่า ไม่ใช่ดาว"
@@ -30,7 +29,7 @@ faq:
   - q: "Nirwana ขึ้นชื่อเรื่องอะไร?"
     a: "ข้าวใบตอง. MICHELIN Guide แนะนำเซ็ตเมนูข้าวและแกงผักที่เสิร์ฟบนใบตอง พร้อมของเพิ่มเติมที่เลือกได้ เช่น ปลา ไก่ หรือเนื้อแกะ และยก chicken biryani ขึ้นมาเป็นพิเศษด้วยเนื้อที่ชุ่มฉ่ำและนุ่มกับรสชาติที่สมดุล. MICHELIN ระบุประเภทอาหารเป็น Indian"
   - q: "Nirwana มีดาว MICHELIN หรือไม่?"
-    a: "ไม่มี. Nirwana ถือรางวัล MICHELIN Bib Gourmand ไม่ใช่ดาว. Bib Gourmand เป็นเกียรติแยกต่างหากที่ยกย่องอาหารคุณภาพดีคุ้มราคา — โดยทั่วไปอยู่ในพิกัดราคา $ และ $$ ของ Guide — ไม่ใช่เกณฑ์ fine dining ที่อยู่เบื้องหลัง MICHELIN Star"
+    a: "ไม่มี. Nirwana ถือรางวัล MICHELIN Bib Gourmand ไม่ใช่ดาว. Bib Gourmand เป็นเกียรติแยกต่างหากที่ยกย่องอาหารคุณภาพดีคุ้มราคา — โดยทั่วไปอยู่ในพิกัดราคา $ และ $ ของ Guide — ไม่ใช่เกณฑ์ fine dining ที่อยู่เบื้องหลัง MICHELIN Star"
   - q: "Nirwana อยู่ที่ไหนและเปิดเมื่อใด?"
     a: "ตั้งอยู่ที่ 43 Jalan Telawi 3, Bangsar Baru, Kuala Lumpur 59100 ติดกับ Bangsar Village. MICHELIN Guide ระบุว่าเปิดทุกวัน เวลา 11:30 ถึง 23:00. เวลาอาจเปลี่ยนแปลงได้ จึงควรยืนยันกับร้านก่อนเดินทาง; การจองดำเนินการโดยร้านโดยตรง"
 

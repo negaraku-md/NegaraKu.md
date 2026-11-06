@@ -6,12 +6,11 @@ category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "es"
 sourceContentHash: "9b3f8775d44408d7"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Foong Lian es un comedor cantonés en Jalan Yew, en Pudu, Kuala Lumpur, con un Bib Gourmand de la MICHELIN Guide que sirve claypot rice cocinado al carbón desde 1986. Etiquetado como 'Worth Queueing For', es un favorito local por su claypot rice con embutidos curados, muslo de pollo o pescado salado, además de sopas y aperitivos. Este perfil cubre la comida, el ambiente y cómo visitarlo."
 seoTitle: "Foong Lian, Kuala Lumpur"
 answer: "Foong Lian es un comedor cantonés en Jalan Yew, en Pudu, Kuala Lumpur, reconocido con un Bib Gourmand de la MICHELIN Guide por su cocina de buena relación calidad-precio. Sirve claypot rice cocinado al carbón desde 1986, controlando el fuego con cuidado, con acompañamientos como salchicha curada de cerdo e hígado, muslo de pollo o pescado salado, además de sopas y aperitivos como el rollito de piel de tofu. Es un local $ económico, etiquetado como 'Worth Queueing For', y gestiona sus propias reservas."

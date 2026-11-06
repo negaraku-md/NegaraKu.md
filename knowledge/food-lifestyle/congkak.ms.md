@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak memegang Bib Gourmand dalam MICHELIN Guide Kuala Lumpur & Penang — tanda kualiti baik pada harga berbaloi panduan ini, bukan MICHELIN Star."
   - "MICHELIN Guide menggambarkannya sebagai 'satu ungkapan kebanggaan dan identiti negara,' menghidangkan hidangan yang merupakan klasik harian bagi penduduk tempatan."
   - "Hidangan paling popularnya ialah pinggan nasi ambeng, hidangan berkongsi yang bahagiannya disesuaikan dengan kumpulan anda."
-  - "Ia terletak di sebuah jalan kediaman di 24 Jalan Beremi, Bukit Bintang, dalam lingkungan harga $$ (sederhana), dan membawa tanda 'Eat like a local' panduan ini."
+  - "Ia terletak di sebuah jalan kediaman di 24 Jalan Beremi, Bukit Bintang, dalam lingkungan harga $ (sederhana), dan membawa tanda 'Eat like a local' panduan ini."
   - "Senarai Bib Gourmand disemak setiap tahun, jadi sahkan anugerah semasa di guide.michelin.com sebelum merancang lawatan."
 faq:
   - q: "Congkak terkenal dengan apa?"
@@ -41,7 +41,7 @@ faq:
   - q: "Adakah Congkak mempunyai MICHELIN Star?"
     a: "Tidak. Congkak memegang Bib Gourmand, iaitu anugerah MICHELIN yang berasingan untuk restoran yang menawarkan masakan berkualiti baik pada harga berbaloi. Ia bukan Star, dan kedua-duanya dianugerahkan secara berasingan."
   - q: "Di mana Congkak dan berapa kosnya?"
-    a: "Ia terletak di 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, di sebuah jalan kediaman berhampiran pusat bandar. MICHELIN Guide meletakkannya dalam lingkungan harga $$, bermaksud perbelanjaan sederhana, dan menerima kad kredit."
+    a: "Ia terletak di 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200, di sebuah jalan kediaman berhampiran pusat bandar. MICHELIN Guide meletakkannya dalam lingkungan harga $, bermaksud perbelanjaan sederhana, dan menerima kad kredit."
 
 updated: 2026-11-06
 sources:

@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ta"
 sourceContentHash: "cea56dd981238a87"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Lai Foong Lala Noodles என்பது கோலாலம்பூர் மையப் பகுதியில் Jalan Sultan தெருவில் அமைந்துள்ள ஒரு சீன நூடுல்ஸ் நிபுணர் கடையாகும்; அதன் மலிவு விலையில் தரமான சமையலுக்காக MICHELIN Guide இதற்கு Bib Gourmand வழங்கியுள்ளது. சீன மஞ்சள் மது மற்றும் இஞ்சியால் மணம் கொண்ட சூப்பில் இறால்களுடன் வழங்கப்படும் lala (கிளிஞ்சல்) bihun இதன் சிறப்பு உணவாகும்."
 seoTitle: "Lai Foong Lala Noodles"
 answer: "Lai Foong Lala Noodles என்பது கோலாலம்பூரில் Jalan Sultan தெருவில் அமைந்துள்ள ஒரு நூடுல்ஸ் கடையாகும்; இது MICHELIN Bib Gourmand பெற்றுள்ளது — நல்ல தரத்தை நல்ல விலையில் வழங்குவதற்காக Guide வழங்கும் விருது இது. சீன மஞ்சள் மது மற்றும் இஞ்சியால் மணம் கொண்டதாக MICHELIN Guide விவரிக்கும் சூப்பில் இறால்களுடன் வழங்கப்படும் lala (கிளிஞ்சல்) bihun இதன் சிறப்பு உணவாகும். இது ஒரு தெருவோரக் கடையிலிருந்து இரண்டு தளங்கள் கொண்ட மூலைக் கடையாக வளர்ந்தது, மேலும் Guide-இன் மிகக் குறைந்த ($) விலை நிலையில் உள்ளது."

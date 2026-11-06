@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "796136ba394d6a26"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "‏Bee Hwa Cafe مقهى (كوبيتيام) حائز على MICHELIN Bib Gourmand في جورج تاون، بينانغ، يقدّم طعام الباعة الصيني-الماليزي الحلال — ومنه Penang Hokkien mee و char kway teow المقلي بالثوم — بدأ ككشك شارع عام 1992 ويُدار الآن كعمل عائلي. يغطي هذا الملف تقدير MICHELIN وأطباقه المميّزة وموقعه وكيفية زيارته."
 seoTitle: "Bee Hwa Cafe: بيب غورماند بينانغ"
 answer: "‏Bee Hwa Cafe مقهى في جورج تاون مُدرج بوصفه MICHELIN Bib Gourmand ضمن اختيار MICHELIN Guide Kuala Lumpur & Penang. يقدّم طعام الباعة الصيني-الماليزي الحلال — مستخدمًا الدجاج والمأكولات البحرية بدلًا من لحم الخنزير — مع تسليط المفتّشين الضوء على Penang Hokkien mee و char kway teow المقلي بالثوم المفروم بدلًا من شحم الخنزير. يقع في 10 Lebuh Dickens، جورج تاون، وبدأ ككشك شارع عام 1992."

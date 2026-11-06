@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ms"
 sourceContentHash: "3595a605927adac6"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "BM Cathay Pancake ialah gerai makanan jalanan beroda MICHELIN Bib Gourmand di Bukit Mertajam, Seberang Perai, di tanah besar Pulau Pinang. Sejak 1962 ia menjual satu hidangan sahaja — apam balik, lempeng yang dipanggang arang dengan inti gula dan kacang, rangup di luar dan kenyal di dalam — dan barisan terbentuk pada waktu puncak."
 seoTitle: "BM Cathay Pancake: Apam Balik Bib Gourmand Pulau Pinang"
 answer: "BM Cathay Pancake ialah gerai makanan jalanan beroda Bib Gourmand di sebelah Cathay Food Court di Jalan Aston, Bukit Mertajam, Seberang Perai, di tanah besar Pulau Pinang. Sejak 1962 ia menghidangkan satu hidangan sahaja: apam balik, lempeng yang dipanggang arang dengan inti gula dan kacang, rangup di luar dan kenyal di dalam, dibuat atas pesanan. Hanya menerima tunai dan berbaloi untuk beratur."

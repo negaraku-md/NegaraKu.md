@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "zh"
 sourceContentHash: "ae1a13bf12dd65ed"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "De. Wan 1958 是一家位于吉隆坡 Taman U Thant 的 The LINC KL 内的马来西亚餐厅，与名厨 Chef Wan 相关，并获 MICHELIN Guide 颁发 Bib Gourmand。MICHELIN Guide 形容其热带风味大胆鲜明，招牌菜包括搭配香脆虾颊的柚子沙拉，以及 bakar bakar 烧烤。"
 seoTitle: "De. Wan 1958"
 answer: "De. Wan 1958 是一家位于吉隆坡 Taman U Thant 的 The LINC KL 内的马来西亚餐厅，与人称 Chef Wan 的名厨相关。它持有 MICHELIN Bib Gourmand——这是 Guide 颁给物有所值优质餐饮的奖项，而非星级。MICHELIN Guide 形容其用餐空间明亮热闹、热带风味大胆鲜明，推荐搭配香脆虾颊的柚子沙拉，以及 bakar bakar（搭配自制酱料的烧烤肉类或海鲜）。"
@@ -22,7 +21,7 @@ keyTakeaways:
   - "这家餐厅与人称 Chef Wan 的马来西亚名厨相关，供应热带风味大胆鲜明的马来西亚菜。"
   - "MICHELIN Guide 推荐先来一道搭配香脆虾颊、佐以 kerabu 青柠酱汁的柚子沙拉。"
   - "另一道受推介的菜式是 bakar bakar——烧烤肉类或海鲜，搭配多款自制酱料任选——分量丰盛，适合分享。"
-  - "它位于 Taman U Thant 的 The LINC KL，价位属于 $$ 区间；Bib Gourmand 名单每年检讨一次。"
+  - "它位于 Taman U Thant 的 The LINC KL，价位属于 $ 区间；Bib Gourmand 名单每年检讨一次。"
 faq:
   - q: "De. Wan 1958 与谁相关？"
     a: "这家餐厅与广为人知、人称 Chef Wan 的马来西亚名厨相关。根据广泛刊载的说法，店名中的「1958」指的是这位名厨的出生年份，不过此细节仍应对照传记来源加以确认。"

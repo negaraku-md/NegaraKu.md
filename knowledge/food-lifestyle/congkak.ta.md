@@ -15,13 +15,13 @@ sourceContentHash: "a121cf599e9bdfa1"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 aiAssisted: true
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
 reviewDue: null
 publishedBy: null
-revision: null
+revision: 0
 revisions: []
 sensitivity: "none"
 
@@ -33,7 +33,7 @@ keyTakeaways:
   - "Congkak MICHELIN Guide Kuala Lumpur & Penang-இல் ஒரு Bib Gourmand வைத்திருக்கிறது — இது நல்ல தரத்தில் பணத்திற்கேற்ற உணவுக்கான வழிகாட்டியின் அங்கீகாரம், MICHELIN Star அல்ல."
   - "MICHELIN Guide அதை 'தேசியப் பெருமையின், அடையாளத்தின் வெளிப்பாடு' என்று விவரிக்கிறது; அது உள்ளூர்வாசிகளுக்கு அன்றாடக் கிளாசிக் உணவுகளைப் பரிமாறுகிறது."
   - "அதன் மிகவும் பிரபலமான உணவு nasi ambeng தட்டு — பகுதிகள் உங்கள் குழுவுக்கு ஏற்ப அளவிடப்படும் ஒரு பகிர்வு உணவு."
-  - "அது 24 Jalan Beremi, Bukit Bintang-இல் ஒரு குடியிருப்புத் தெருவில், $$ (மிதமான) விலை வரம்பில் அமைந்துள்ளது, மேலும் வழிகாட்டியின் 'Eat like a local' குறிச்சொல்லைக் கொண்டுள்ளது."
+  - "அது 24 Jalan Beremi, Bukit Bintang-இல் ஒரு குடியிருப்புத் தெருவில், $ (மிதமான) விலை வரம்பில் அமைந்துள்ளது, மேலும் வழிகாட்டியின் 'Eat like a local' குறிச்சொல்லைக் கொண்டுள்ளது."
   - "Bib Gourmand பட்டியல் ஒவ்வொரு ஆண்டும் திருத்தப்படுகிறது, எனவே ஒரு வருகையைத் திட்டமிடுவதற்கு முன் guide.michelin.com-இல் தற்போதைய விருதை உறுதிப்படுத்தவும்."
 faq:
   - q: "Congkak எதற்காகப் பிரபலம்?"
@@ -41,7 +41,7 @@ faq:
   - q: "Congkak-க்கு MICHELIN Star உள்ளதா?"
     a: "இல்லை. Congkak ஒரு Bib Gourmand வைத்திருக்கிறது; இது நல்ல தரத்தில் பணத்திற்கேற்ற சமையல் வழங்கும் உணவகங்களுக்கான தனி MICHELIN அங்கீகாரம். இது ஒரு Star அல்ல, இரண்டும் தனித்தனியாக வழங்கப்படுகின்றன."
   - q: "Congkak எங்கே உள்ளது, செலவு எவ்வளவு?"
-    a: "அது 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200-இல், நகர மையத்திற்கு அருகில் ஒரு குடியிருப்புத் தெருவில் உள்ளது. MICHELIN Guide அதை $$ விலை வரம்பில் வைக்கிறது, அதாவது மிதமான செலவு, மேலும் கடன் அட்டைகளை ஏற்கிறது."
+    a: "அது 24 Jalan Beremi, Bukit Bintang, Kuala Lumpur 50200-இல், நகர மையத்திற்கு அருகில் ஒரு குடியிருப்புத் தெருவில் உள்ளது. MICHELIN Guide அதை $ விலை வரம்பில் வைக்கிறது, அதாவது மிதமான செலவு, மேலும் கடன் அட்டைகளை ஏற்கிறது."
 
 updated: 2026-11-06
 sources:

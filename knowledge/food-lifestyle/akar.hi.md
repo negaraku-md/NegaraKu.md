@@ -18,7 +18,7 @@ keyTakeaways:
   - "MICHELIN Guide इसके व्यंजन को मलेशियाई और समकालीन के रूप में वर्गीकृत करती है, जो एक मौसमी सेट मेन्यू के रूप में परोसा जाता है।"
   - "MICHELIN वर्णन करती है कि शेफ जापान और फ़्रांस में बिताए समय के आधार पर जापानी, फ़्रेंच और मलेशियाई प्रभावों के साथ यूरोपीय व्यंजन-विधियों को नए रूप में ढालते हैं।"
   - "रेस्तराँ Taman Tun Dr Ismail (TTDI), कुआलालंपुर में है, जिसमें एक आत्मीय भोजन-कक्ष और खुली रसोई है।"
-  - "MICHELIN Guide इसे $$$ मूल्य श्रेणी में सूचीबद्ध करती है और इसे अकेले भोजन करने के लिए उपयुक्त बताती है।"
+  - "MICHELIN Guide इसे $$ मूल्य श्रेणी में सूचीबद्ध करती है और इसे अकेले भोजन करने के लिए उपयुक्त बताती है।"
 appliesTo: "कुआलालंपुर में MICHELIN द्वारा मान्यता प्राप्त मलेशियाई फाइन डाइनिंग पर शोध कर रहे यात्री, भोजन-प्रेमी और भोजनार्थी।"
 
 faq:
@@ -34,10 +34,10 @@ sourceContentHash: "25dd9c8742c79ddc"
 masterLanguage: "en"
 translationStatus: "in-sync"
 
-status: "reviewed"
+status: "published"
 reviewer: "ashton-tan"
 reviewed: 2026-11-06
-revision: null
+revision: 0
 updated: 2026-11-06
 sources:
   - title: "Akar — MICHELIN Guide Kuala Lumpur"

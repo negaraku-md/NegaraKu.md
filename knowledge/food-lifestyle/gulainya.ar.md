@@ -7,21 +7,20 @@ subcategory: ["restaurants"]
 lang: "ar"
 sourceContentHash: "508e444c18b01819"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Gulainya مطعم بيرانكان يقع في Bukit Damansara بكوالالمبور، وقد نوّه به دليل MICHELIN Guide بمنحه Bib Gourmand عن طهيٍ يستحق قيمته. يصف MICHELIN Guide أطباقًا منزلية الطابع مبنية على وصفات عائلة المالك التي صقلها، مع صلصات يعدّها المالك بنفسه، وطبقٍ مميّز هو دجاج منزوع العظم بصلصة الريحان الكريمية."
 seoTitle: "Gulainya"
-answer: "Gulainya مطعم بيرانكان يقع في Plaza Damansara بمنطقة Bukit Damansara في كوالالمبور، وهو حاصل على MICHELIN Bib Gourmand — وهي جائزة الدليل عن الجودة الجيدة بسعرٍ مجزٍ، وليست نجمة. يصف MICHELIN Guide طهيًا منزلي الطابع مبنيًا على وصفات عائلة المالك، مصقولة ومحدَّثة، مع صلصات يعدّها المالك بنفسه، ويُبرز دجاجًا منزوع العظم بصلصة الريحان الكريمية. ويقع ضمن فئة الأسعار $$."
+answer: "Gulainya مطعم بيرانكان يقع في Plaza Damansara بمنطقة Bukit Damansara في كوالالمبور، وهو حاصل على MICHELIN Bib Gourmand — وهي جائزة الدليل عن الجودة الجيدة بسعرٍ مجزٍ، وليست نجمة. يصف MICHELIN Guide طهيًا منزلي الطابع مبنيًا على وصفات عائلة المالك، مصقولة ومحدَّثة، مع صلصات يعدّها المالك بنفسه، ويُبرز دجاجًا منزوع العظم بصلصة الريحان الكريمية. ويقع ضمن فئة الأسعار $."
 appliesTo: "روّاد المطاعم ومسافرو تجربة الطعام وكل من يبحث عن وجبة بيرانكان حاصلة على MICHELIN Bib Gourmand في كوالالمبور."
 keyTakeaways:
   - "يحمل Gulainya جائزة MICHELIN Bib Gourmand ضمن اختيار MICHELIN Guide Kuala Lumpur & Penang الحالي — وهي جائزة الدليل عن «الجودة الجيدة والقيمة المجزية»، وليست نجمة."
   - "تُدرجه تغطية MICHELIN ضمن أحدث إضافات Bib Gourmand إلى اختيار ماليزيا، إلى جانب Lama في كوالالمبور."
   - "يصف MICHELIN Guide أطباق بيرانكان منزلية الطابع مبنية على وصفات عائلة المالك، مصقولة ومحدَّثة، مع صلصات يعدّها المالك بنفسه."
-  - "طبقه المميَّز هو دجاج منزوع العظم بصلصة الريحان الكريمية؛ ويقع المطعم في Plaza Damansara بمنطقة Bukit Damansara، ضمن فئة الأسعار $$."
+  - "طبقه المميَّز هو دجاج منزوع العظم بصلصة الريحان الكريمية؛ ويقع المطعم في Plaza Damansara بمنطقة Bukit Damansara، ضمن فئة الأسعار $."
   - "يُراجَع اختيار Bib Gourmand كل عام، وقد تتغيّر ساعات عمل المطعم وأسعاره وقائمته."
 faq:
   - q: "ما نوع الطعام الذي يقدّمه Gulainya؟"
@@ -29,7 +28,7 @@ faq:
   - q: "هل حصل Gulainya على نجمة MICHELIN؟"
     a: "لا. فهو حاصل على Bib Gourmand التي يمنحها MICHELIN Guide عن الجودة الجيدة بسعرٍ مجزٍ، لا على تصنيف نجمة أو نجمتين أو ثلاث نجوم. وهما تكريمان منفصلان من MICHELIN."
   - q: "أين يقع Gulainya؟"
-    a: "يُدرجه MICHELIN Guide في العنوان 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur، ضمن فئة الأسعار $$. ويُشار إلى أنه مغلق أيام الاثنين؛ تأكّد من ساعات العمل الحالية قبل الزيارة."
+    a: "يُدرجه MICHELIN Guide في العنوان 44-G, Plaza Damansara, Jalan Medan Setia 2, Bukit Damansara, 50490 Kuala Lumpur، ضمن فئة الأسعار $. ويُشار إلى أنه مغلق أيام الاثنين؛ تأكّد من ساعات العمل الحالية قبل الزيارة."
 keywords:
   - "Gulainya"
   - "Peranakan restaurant Kuala Lumpur"

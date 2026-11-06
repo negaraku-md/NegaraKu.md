@@ -7,12 +7,11 @@ subcategory: ["restaurants"]
 lang: "ja"
 sourceContentHash: "25075c0f69943804"
 masterLanguage: "en"
-status: "reviewed"
+status: "published"
 translationStatus: "in-sync"
 reviewer: "ashton-tan"
 sensitivity: "none"
-revision: null
-
+revision: 0
 summary: "Aliyaa はクアラルンプールの Bukit Damansara にあるスリランカ料理店で、コストパフォーマンスの高い料理により MICHELIN Guide から Bib Gourmand に認定されています。MICHELIN Guide は、丸ごとのカニ、パイナップルグレービーの Negombo エビ、kuliyal などの名物料理を挙げ、辛さは客の要望に応じて調整されると述べています。"
 seoTitle: "Aliyaa"
 answer: "Aliyaa はクアラルンプールの Bukit Damansara、Plaza Damansara にあるスリランカ料理店で、MICHELIN Bib Gourmand を保持しています——これは星ではなく、良質な料理を手頃な価格で提供する店に同ガイドが与える賞です。MICHELIN Guide は本格的なスリランカ料理を称賛し、丸ごとのカニ、パイナップルグレービーの Negombo エビ、kuliyal などの料理を挙げ、厨房が客の好みに応じて辛さを調整すると付け加えています。"
@@ -21,7 +20,7 @@ keyTakeaways:
   - "Aliyaa は現行の MICHELIN Guide Kuala Lumpur & Penang セレクションで MICHELIN Bib Gourmand を獲得しています——これは星ではなく、同ガイドの「良質・手頃」の賞です。"
   - "MICHELIN Guide は、クアラルンプールの外食シーンでは比較的珍しい料理である本格的なスリランカ料理を提供していると述べています。"
   - "MICHELIN Guide は、丸ごとのカニ、パイナップルグレービーの Negombo エビ、kuliyal（バナナの葉で焼いたご飯）などの名物料理を挙げています。"
-  - "Bukit Damansara の Plaza Damansara にあり、$$ の価格帯で、厨房は要望に応じて辛さを調整します。"
+  - "Bukit Damansara の Plaza Damansara にあり、$ の価格帯で、厨房は要望に応じて辛さを調整します。"
   - "Bib Gourmand セレクションは毎年見直され、店の営業時間、価格、メニューは変わることがあります。"
 faq:
   - q: "Aliyaa はどんな料理を出しますか？"
@@ -29,7 +28,7 @@ faq:
   - q: "Aliyaa に MICHELIN の星はありますか？"
     a: "いいえ。一つ星・二つ星・三つ星の評価ではなく、良質な料理を手頃な価格で提供する店に MICHELIN Guide が与える Bib Gourmand を保持しています。この二つは別個の MICHELIN の栄誉です。"
   - q: "Aliyaa はどこにありますか？"
-    a: "MICHELIN Guide は所在地を 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur とし、$$ の価格帯に位置づけています。現在の営業時間と予約方針は直接ご確認ください。"
+    a: "MICHELIN Guide は所在地を 48 Jalan Medan Setia 2, Bukit Damansara (Plaza Damansara), 50490 Kuala Lumpur とし、$ の価格帯に位置づけています。現在の営業時間と予約方針は直接ご確認ください。"
 keywords:
   - "Aliyaa"
   - "Sri Lankan restaurant Kuala Lumpur"
