@@ -38,6 +38,19 @@ const d = article.data;
 const L = (ms: string, en: string, zh: string, ta?: string, ja?: string, ko?: string, th?: string, vi?: string, id?: string, ar?: string, hi?: string, es?: string, fr?: string) => (locale === 'fr' ? (fr ?? ms) : locale === 'es' ? (es ?? ms) : locale === 'hi' ? (hi ?? ms) : locale === 'ar' ? (ar ?? ms) : locale === 'id' ? (id ?? ms) : locale === 'vi' ? (vi ?? ms) : locale === 'th' ? (th ?? ms) : locale === 'ko' ? (ko ?? ms) : locale === 'ja' ? (ja ?? ms) : locale === 'ta' ? (ta ?? ms) : locale === 'zh' ? zh : locale === 'en' ? en : ms);
 
 const tomb = isTombstone(article); // a retired no-successor topic, served read-only
+
+// Every FOOD article shows at least one image. When it has no honest photo
+// (d.hero unset) we fall back to a branded, language-neutral graphic (bunga raya
+// + a gold food motif + wordmark) — obviously a brand graphic, so it guarantees
+// coverage without ever faking a photo. Subcategory picks the motif.
+const FOOD_FALLBACK = { restaurants: 'restaurants', drinks: 'drinks', alcohol: 'drinks', pasar: 'markets', kopitiam: 'markets', ramadan: 'markets' } as Record<string, string>;
+const heroSrc = d.hero ?? (d.category === 'food-lifestyle'
+  ? `/media/fallback/food-${FOOD_FALLBACK[(Array.isArray(d.subcategory) ? d.subcategory[0] : d.subcategory) as string] ?? 'food-lifestyle'}.webp`
+  : null);
+const heroIsFallback = !d.hero && !!heroSrc;
+const heroAltText = d.hero
+  ? (d.heroAlt ?? '')
+  : L('Makanan dan gaya hidup Malaysia', 'Malaysian food & lifestyle', '马来西亚美食与生活', 'மலேசிய உணவு மற்றும் வாழ்க்கை முறை', 'マレーシアの食と暮らし', '말레이시아의 음식과 라이프스타일', 'อาหารและไลฟ์สไตล์มาเลเซีย', 'Ẩm thực và đời sống Malaysia', 'Makanan dan gaya hidup Malaysia', 'الطعام ونمط الحياة في ماليزيا', 'मलेशियाई भोजन और जीवनशैली', 'Comida y estilo de vida de Malasia', 'Cuisine et art de vivre malaisiens');
 const cat = getCategory(d.category);
 const path = `/${d.category}/${d.slug}`;
 // The GitHub source file for THIS rendered entry: the master is `<slug>.md`,
@@ -367,17 +380,17 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   <div class="layout">
     <div class="main">
       {
-        d.hero && (
-          <figure class="art-photo art-photo-inline" data-pagefind-ignore>
+        heroSrc && (
+          <figure class={`art-photo art-photo-inline${heroIsFallback ? ' art-photo-fallback' : ''}`} data-pagefind-ignore>
             <img
-              src={d.hero}
-              alt={d.heroAlt ?? ''}
+              src={heroSrc}
+              alt={heroAltText}
               width="1600"
               height="900"
               fetchpriority="high"
               decoding="async"
             />
-            {(d.heroCredit || d.heroSource || d.heroLicense) && (
+            {!heroIsFallback && (d.heroCredit || d.heroSource || d.heroLicense) && (
               <figcaption>
                 {d.heroSource ? (
                   <a href={d.heroSource} target="_blank" rel="noopener noreferrer">
