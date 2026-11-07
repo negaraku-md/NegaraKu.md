@@ -90,11 +90,22 @@ async function collectTargets() {
 
 // Ask Facebook to re-scrape one URL's OG tags/image.
 async function rescrape(url, pageToken, lang) {
-  const body = new URLSearchParams({ id: url, scrape: 'true', access_token: pageToken });
-  const res = await gfetch(`${GRAPH}/`, { method: 'POST', body }, { label: `scrape ${lang}` });
-  const json = await res.json().catch(() => ({}));
-  if (!res.ok) throw new Error(JSON.stringify(json));
-  return json; // { id, title, image: [...], updated_time, … }
+  // Retry FB's TRANSIENT throttle errors (code 4 "Application request limit
+  // reached", code 17 "User request limit reached", code 341, or is_transient)
+  // with exponential backoff — the scrape endpoint is heavily rate-limited.
+  for (let attempt = 1; attempt <= 5; attempt++) {
+    const body = new URLSearchParams({ id: url, scrape: 'true', access_token: pageToken });
+    const res = await gfetch(`${GRAPH}/`, { method: 'POST', body }, { label: `scrape ${lang}` });
+    const json = await res.json().catch(() => ({}));
+    if (res.ok) return json; // { id, title, image: [...], updated_time, … }
+    const e = json?.error || {};
+    const transient = e.is_transient || [4, 17, 32, 341, 613].includes(e.code);
+    if (transient && attempt < 5) {
+      await new Promise((r) => setTimeout(r, Math.min(60000, 5000 * 2 ** (attempt - 1))));
+      continue;
+    }
+    throw new Error(JSON.stringify(json));
+  }
 }
 
 async function main() {
@@ -129,7 +140,7 @@ async function main() {
       fail++;
       console.error(`[fb-refresh] FAIL [${t.lang}] ${t.url}: ${err.message}`);
     }
-    await new Promise((r) => setTimeout(r, 300)); // gentle pacing for Graph limits
+    await new Promise((r) => setTimeout(r, 1200)); // pacing — FB scrape limits are strict
   }
   console.log(`[fb-refresh] done — ${ok} refreshed, ${fail} failed, of ${targets.length}.`);
   if (fail) process.exit(1);

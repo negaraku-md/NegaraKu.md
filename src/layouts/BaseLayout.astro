@@ -102,6 +102,11 @@ const canonical = new URL(withTrailingSlash(canonicalPath ?? localePath(path, lo
 const htmlLang = locale === 'zh' ? 'zh-Hans' : locale === 'ms' ? 'ms-MY' : locale === 'ta' ? 'ta' : locale === 'ja' ? 'ja' : locale === 'ko' ? 'ko' : locale === 'th' ? 'th' : locale === 'vi' ? 'vi' : locale === 'id' ? 'id' : locale === 'ar' ? 'ar' : locale === 'hi' ? 'hi' : locale === 'es' ? 'es' : locale === 'fr' ? 'fr' : 'en';
 // Text direction: Arabic (and future ur/fa) are right-to-left; every other locale is LTR.
 const htmlDir = locale === 'ar' ? 'rtl' : 'ltr';
+// Facebook's og:locale is an ENUM of language_TERRITORY values — NOT the BCP-47
+// <html lang> (which is correctly zh-Hans/ja/…). Emitting "zh_Hans" or bare "ja"
+// makes Facebook REJECT the page on scrape ("could not be parsed as type 'enum'"),
+// silently breaking link previews for every non-English locale.
+const fbLocale = { ms: 'ms_MY', en: 'en_US', zh: 'zh_CN', ta: 'ta_IN', ja: 'ja_JP', ko: 'ko_KR', th: 'th_TH', vi: 'vi_VN', id: 'id_ID', ar: 'ar_AR', hi: 'hi_IN', es: 'es_ES', fr: 'fr_FR' }[locale] ?? 'en_US';
 // A locale whose routes exist but which is NOT yet publicly launched (not in
 // LOCALES — the switcher/hreflang set) is soft-launched: its pages render (as a
 // Malay-content fallback) for preview, but are `noindex` so search engines don't
@@ -165,7 +170,7 @@ const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tag
     <meta property="og:title" content={socialTitle ?? fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:locale" content={htmlLang.replace('-', '_')} />
+    <meta property="og:locale" content={fbLocale} />
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
