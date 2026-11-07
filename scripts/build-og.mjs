@@ -204,7 +204,11 @@ function articleSvg(a) {
     for (const d of chipDefs) { const k = chip(cx, 151, ...d); chips.push(k.svg); cx += k.w + 11; }
   }
 
-  // Title + summary.
+  // Title + summary. NOTE: the summary is normal weight (400). Older builds that
+  // had only Noto Sans CJK *Bold* installed (not Regular) rendered CJK summaries as
+  // tofu boxes while the bold title/chips were fine; CI now installs both weights.
+  // The explicit font-weight below also bumps the template hash (tv) to force a
+  // one-time regenerate of those stale cached CJK cards.
   const tLines = wrapText(a.title || '', { maxLatin: 34, maxCjk: 18, maxLines: 3 });
   const tLh = 58, tStart = 266;
   const tSpans = tLines.map((l, i) => `<tspan x="${EDGE}" dy="${i === 0 ? 0 : tLh}">${esc(l)}</tspan>`).join('');
@@ -223,7 +227,7 @@ function articleSvg(a) {
   <text x="${EDGE}" y="108" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="24" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
   ${chips.join('\n  ')}
   <text x="${EDGE}" y="${tStart}" text-anchor="${ANCHOR}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
-  <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="25" fill="#9A9AB8">${sSpans}</text>
+  <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="25" font-weight="400" fill="#9A9AB8">${sSpans}</text>
   ${badge(RX, 70, 78)}
   <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Terokai Malaysia, mesra AI', 'Explore Malaysia, AI-friendly', '探索马来西亚，对 AI 友好', 'மலேசியாவை ஆராயுங்கள், AI-நட்பு', 'マレーシアを探索、AIフレンドリー', '말레이시아 탐색, AI 친화적', 'สำรวจมาเลเซีย เป็นมิตรกับ AI', 'Khám phá Malaysia, thân thiện với AI', 'Jelajahi Malaysia, ramah AI', 'استكشف ماليزيا، صديقة لـ AI', 'मलेशिया को एक्सप्लोर करें, AI-अनुकूल', 'Explora Malasia, compatible con la IA', "Explorez la Malaisie, adaptée à l'IA")}</text>
