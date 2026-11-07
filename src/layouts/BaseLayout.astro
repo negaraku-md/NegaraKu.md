@@ -24,6 +24,7 @@ import ConsentBanner from '@/components/ConsentBanner.astro';
 import type { Locale } from '@/lib/categories';
 import { t, LOCALES, localePath, withTrailingSlash } from '@/lib/i18n';
 import { MAINTENANCE } from '@/lib/maintenance';
+import { ogMetaUrl } from '@/lib/og';
 
 interface Props {
   locale: Locale;
@@ -109,7 +110,8 @@ const softLaunched = !LOCALES.includes(locale);
 // Per-page OG image (e.g. the article's own card), else the branded default —
 // localized so a /zh or /en page's link preview reads in its own language.
 const defaultOg = locale === 'ms' ? '/og/default.png' : `/og/${locale}/default.png`;
-const ogImage = new URL(image ?? defaultOg, site).toString();
+// ogMetaUrl serves the card from R2 when OG_BASE_URL is set, else same-origin.
+const ogImage = ogMetaUrl(image ?? defaultOg, site);
 const ogImageAlt = image ? title : `${t('site.title', locale)} — ${t('site.tagline', locale)}`;
 ---
 

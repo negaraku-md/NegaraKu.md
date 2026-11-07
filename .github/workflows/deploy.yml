@@ -152,11 +152,58 @@ jobs:
           # "Traffic explorer" shows a connect note. Fail-safe; never breaks build.
           CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
           SITE_URL: https://negaraku.md
+          # OG card host. Empty (default) → cards ship in the Pages artifact at
+          # same-origin /og/*. Set the repo VARIABLE `OG_BASE_URL` (e.g.
+          # https://og.negaraku.md) to serve them from Cloudflare R2 instead —
+          # the "Offload OG cards to R2" step below then syncs public/og to R2
+          # and strips dist/og from the artifact. Reversible: clear the var.
+          OG_BASE_URL: ${{ vars.OG_BASE_URL }}
           # Maintenance mode — only ever on via a manual "Run workflow" with the
           # toggle. A normal push (inputs empty) always deploys the live site.
           MAINTENANCE: ${{ github.event.inputs.maintenance == 'true' && '1' || '' }}
           MAINTENANCE_UNTIL: ${{ github.event.inputs.maintenance_until }}
         run: npm run build
+
+      # When OG_BASE_URL is set, the 823 MB of OG cards (≈28k PNG + WebP files)
+      # live on Cloudflare R2, not in the Pages artifact. Sync public/og to the
+      # bucket (incremental, size-only) with correct content-types, then delete
+      # dist/og so the uploaded artifact shrinks by ~823 MB. aws-cli ships on the
+      # runner; R2 speaks the S3 API. If the var is set but the R2 secrets are
+      # missing we FAIL — never ship HTML/og:image pointing at an empty bucket.
+      - name: Offload OG cards to R2
+        if: ${{ vars.OG_BASE_URL != '' }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          # aws-cli v2 (>=2.23) adds default CRC integrity checksums that R2's
+          # S3 API rejects ("header 'x-amz-checksum-crc32'…"). Force the legacy
+          # behaviour so `aws s3 sync` works against R2.
+          AWS_REQUEST_CHECKSUM_CALCULATION: when_required
+          AWS_RESPONSE_CHECKSUM_VALIDATION: when_required
+        run: |
+          if [ -z "$AWS_ACCESS_KEY_ID" ] || [ -z "$AWS_SECRET_ACCESS_KEY" ] || [ -z "$R2_ACCOUNT_ID" ] || [ -z "$R2_BUCKET" ]; then
+            echo "::error::OG_BASE_URL is set but R2_ACCESS_KEY_ID / R2_SECRET_ACCESS_KEY / R2_ACCOUNT_ID / R2_BUCKET are not all present. Refusing to ship HTML that points at an unpopulated bucket."
+            exit 1
+          fi
+          EP="https://${R2_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          echo "== OG before offload =="; du -sh public/og || true
+          # PNG share cards (og:image) — content-type image/png.
+          aws s3 sync public/og "s3://${R2_BUCKET}/" --endpoint-url "$EP" \
+            --size-only --no-progress --only-show-errors \
+            --exclude "*" --include "*.png" \
+            --content-type image/png \
+            --cache-control "public, max-age=31536000, immutable"
+          # WebP on-page thumbnails — content-type image/webp.
+          aws s3 sync public/og "s3://${R2_BUCKET}/" --endpoint-url "$EP" \
+            --size-only --no-progress --only-show-errors \
+            --exclude "*" --include "*.thumb.webp" \
+            --content-type image/webp \
+            --cache-control "public, max-age=31536000, immutable"
+          rm -rf dist/og
+          echo "== dist size after OG offload =="; du -sh dist
 
       - uses: actions/upload-pages-artifact@v5
         with:
