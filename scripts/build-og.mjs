@@ -309,6 +309,9 @@ async function main() {
     const h = createHash('sha256');
     h.update(await readFile(fileURLToPath(import.meta.url)));
     h.update(await readFile(path.join(path.dirname(fileURLToPath(import.meta.url)), 'logo-flower.mjs')));
+    // Breadcrumb subcategory labels are read from subcategories.ts (_subSrc), so a
+    // label edit there must also regenerate cards — include it in the template hash.
+    h.update(await readFile(path.join(ROOT, 'src', 'lib', 'subcategories.ts')));
     tv = h.digest('hex').slice(0, 12);
   } catch { /* fall back to always-regenerate */ }
 
