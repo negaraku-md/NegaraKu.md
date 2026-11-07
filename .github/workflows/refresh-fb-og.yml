@@ -1,0 +1,50 @@
+name: Refresh Facebook OG cards
+
+# Forces Facebook to re-scrape the Open Graph card for already-posted articles
+# whose cards were fixed (scripts/refresh-facebook-og.mjs). Targeted: only the
+# AFFECTED posts — CJK (zh/ja/ko) summary-tofu + the 13 newly-localized
+# subcategory breadcrumbs. Read-only (no posting, no manifest changes).
+#
+# RUN ORDER: deploy the corrected cards FIRST, then run this. Re-scraping before
+# the fix is live just re-caches the broken card.
+#
+# Manual only. First run with dry_run = true to preview the URL list; then run
+# again with dry_run = false to actually refresh.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run — list the URLs that WOULD be refreshed, call nothing.'
+        type: boolean
+        default: true
+      limit:
+        description: 'Cap the number of refreshes (blank = all affected).'
+        required: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: refresh-fb-og
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Refresh Facebook OG cards
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          SITE_URL: https://negaraku.md
+          FB_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+          REFRESH_LIMIT: ${{ github.event.inputs.limit }}
+        run: node scripts/refresh-facebook-og.mjs
