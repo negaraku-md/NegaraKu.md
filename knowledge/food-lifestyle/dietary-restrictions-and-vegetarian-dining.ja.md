@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "マレーシアの食事制限とベジタリアン／ヴィーガン料理"
 seoTitle: "マレーシアのハラル・ベジタリアン・ヴィーガン料理：訪問者向けガイド"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "ご飯、パパド、野菜料理が付いたベジタリアンのインド料理ターリー"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "訪問者や新規居住者が、マレーシアにおけるハラル、牛肉の忌避、そして仏教・道教のベジタリアン（精進）習慣にどう対応するか——そして信頼できるベジタリアン、ヴィーガン、アレルゲンに配慮した食事をどう見つけるか。"

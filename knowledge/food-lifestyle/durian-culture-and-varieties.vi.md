@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "Sầu riêng ở Malaysia: Giống, Mùa vụ và Văn hóa Vua của các loại trái cây"
 seoTitle: "Sầu riêng Malaysia — Musang King, D24, Black Thorn & Mùa sầu riêng"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "Một quả sầu riêng được bổ ra để lộ phần cơm vàng óng béo ngậy"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "Hướng dẫn về các giống sầu riêng của Malaysia — Musang King, D24 và Black Thorn — các khu vực trồng, mùa vụ, phép tắc mua và ăn, cùng tầm quan trọng về văn hóa và xuất khẩu sang China."

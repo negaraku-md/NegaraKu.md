@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "말레이시아의 두리안: 품종, 제철과 과일의 왕 문화"
 seoTitle: "말레이시아 두리안 — 무상 킹, D24, 블랙 손과 두리안 철"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "크리미한 황금빛 과육이 드러난 갈라진 두리안"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "말레이시아 두리안 품종 — 무상 킹, D24, 블랙 손 — 과 재배 지역, 제철, 사고 먹는 예절, 그리고 중국으로의 수출을 비롯한 문화적·경제적 중요성에 대한 안내입니다."

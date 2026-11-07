@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "कोपी, तेह तारिक और कोपीतियाम पेय-संस्कृति"
 seoTitle: "कोपीतियाम ऑर्डर कैसे पढ़ें: Kopi-O, Kopi-C और Teh Tarik"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "झागदार तेह तारिक के दो गिलास, मलेशिया की खींची हुई दूध वाली चाय"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "मलेशियाई कोपीतियाम पेय-ऑर्डर की संकेत-लिपि को समझने की एक त्वरित मार्गदर्शिका — kopi-O, kopi-C, kosong, gao, peng और teh tarik — और उनके पीछे की सामाजिक रस्म।"

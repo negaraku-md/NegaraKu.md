@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "Pusat Penjaja dan Medan Selera: Cara Rakyat Malaysia Makan di Luar"
 seoTitle: "Pusat Penjaja dan Medan Selera di Malaysia"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "Di dalam medan selera Malaysia yang dipenuhi gerai penjaja"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Kebanyakan rakyat Malaysia makan di luar di beberapa format yang murah dan berkonsep terbuka — kopitiam Cina tradisional, mamak India-Muslim, serta medan selera atau food court, tempat banyak gerai bebas berkongsi satu kawasan tempat duduk. Panduan ini menjelaskan bagaimana format-format ini berbeza, bagaimana cara memesan dan membayar, maksud gred kebersihan A/B/C, dan bagaimana kesemua ini berbeza daripada pasar malam."

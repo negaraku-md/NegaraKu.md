@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "Món ăn Lễ hội Malaysia: Những gì được dọn ở Raya, Tết Nguyên đán, Deepavali, Giáng sinh, Gawai và Kaamatan"
 seoTitle: "Món ăn Lễ hội Malaysia qua Raya, Tết, Deepavali, Gawai & Kaamatan"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "Mâm cỗ lễ hội gồm rendang, lemang, ketupat và kuih cho dịp Hari Raya"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "Mỗi lễ hội lớn ở Malaysia có món ăn biểu tượng riêng của mình — ketupat và rendang ở Hari Raya, yee sang ở Tết Nguyên đán, murukku ở Deepavali, và các món nấu bằng ống tre cùng tuak ở Gawai và Kaamatan. Bài viết này tập hợp các món chính của mỗi lễ hội và phong tục nhà mở (rumah terbuka) gắn kết chúng."

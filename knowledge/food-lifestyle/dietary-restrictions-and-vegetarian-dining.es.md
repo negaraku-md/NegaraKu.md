@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "Restricciones dietéticas y comida vegetariana/vegana en Malasia"
 seoTitle: "Comida halal, vegetariana y vegana en Malasia: guía para el visitante"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "Un thali indio vegetariano con arroz, papadum y platos de verduras"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Cómo los visitantes y recién llegados se desenvuelven con lo halal, la evitación de la carne de vacuno y la práctica vegetariana budista/taoísta en Malasia — y cómo encontrar comida vegetariana, vegana y consciente de los alérgenos en la que pueda confiar."

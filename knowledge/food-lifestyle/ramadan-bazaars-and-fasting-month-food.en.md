@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "Ramadan Bazaars and Fasting-Month Food Culture"
 seoTitle: "Malaysia Ramadan Bazaars: Licensing, Food and Visitor Etiquette"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "Stalls at a Ramadan bazaar in Malaysia"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "Ramadan bazaars are seasonal food markets that spring up every afternoon throughout the fasting month, a civic tradition celebrated across communities. This guide explains how they are licensed and managed, the dishes commonly sold, and the etiquette for non-fasting visitors."

@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "Bioskop, Hiburan, dan Aturan Penyensoran di Malaysia"
 seoTitle: "Klasifikasi Film, Penyensoran & Izin Hiburan Malaysia"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "Deretan kursi merah di dalam auditorium bioskop"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "Setiap film yang ditayangkan untuk tontonan umum di Malaysia wajib disetujui Lembaga Penapisan Filem (LPF) terlebih dahulu dan diberi klasifikasi usia — U, P12, 13, 16, atau 18 — sementara pusat karaoke dan premis hiburan diizinkan oleh otoritas setempat menurut undang-undang kecil (bylaw) masing-masing."

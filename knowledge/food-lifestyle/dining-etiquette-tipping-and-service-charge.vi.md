@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "Nghi thức Ăn uống, Tiền tip & Phí Phục vụ ở Malaysia"
 seoTitle: "Tiền tip & Phí Phục vụ ở Malaysia: Những gì trên Hóa đơn của bạn"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "Một suất cơm lá chuối với cơm, cà ri và các món ăn kèm"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Tiền tip không được kỳ vọng ở Malaysia. Thay vào đó, các quán ăn tầm trung và cao cấp cộng thêm 6% thuế phục vụ của chính phủ và, thường là, một khoản phí phục vụ 10% riêng — đây là ý nghĩa của mỗi dòng và cách ăn uống như người địa phương."

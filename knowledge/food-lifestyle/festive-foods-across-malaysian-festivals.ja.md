@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "マレーシアの祝祭料理：ハリラヤ、旧正月、ディーパバリ、クリスマス、ガワイ、カアマタンで供される味"
 seoTitle: "マレーシアの祝祭料理：ハリラヤ・旧正月・ディーパバリ・ガワイ・カアマタン"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "ハリ・ラヤのための、ルンダン、ルマン、クトゥパ、クエのごちそう"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "マレーシアの主要な祭りにはそれぞれ、その祭りを象徴する料理がある——ハリラヤのクトゥパットとルンダン、旧正月のイーサン、ディーパバリのムルク、そしてガワイとカアマタンの竹筒料理とトゥアックである。本稿は各祭りの主だった料理と、それらを結びつけるオープンハウス（rumah terbuka）の作法をまとめる。"

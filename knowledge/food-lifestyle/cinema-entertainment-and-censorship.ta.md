@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "மலேசியாவில் திரையரங்கு, பொழுதுபோக்கு மற்றும் தணிக்கை விதிகள்"
 seoTitle: "மலேசிய திரைப்பட வகைப்பாடு, தணிக்கை & பொழுதுபோக்கு உரிமங்கள்"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "ஒரு திரையரங்கில் வரிசையான சிவப்பு இருக்கைகள்"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "மலேசியாவில் பொது பார்வைக்காக திரையிடப்படும் ஒவ்வொரு திரைப்படமும் முதலில் திரைப்பட தணிக்கை வாரியத்தால் (Lembaga Penapisan Filem, LPF) அங்கீகரிக்கப்பட்டு வயது வகைப்பாடு — U, P12, 13, 16 அல்லது 18 — வழங்கப்பட வேண்டும்; அதேவேளை கராவோக்கே மையங்களும் பொழுதுபோக்கு வளாகங்களும் அவற்றுக்குரிய துணைச் சட்டங்களின் கீழ் உள்ளூர் அதிகார சபைகளால் உரிமம் வழங்கப்படுகின்றன."

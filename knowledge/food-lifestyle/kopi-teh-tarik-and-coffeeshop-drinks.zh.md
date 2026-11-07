@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "咖啡、拉茶与咖啡店饮料文化"
 seoTitle: "看懂咖啡店点单：Kopi-O、Kopi-C 与拉茶"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "两杯泡沫丰富的拉茶，马来西亚的拉制奶茶"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "一份简明指南，教你破解马来西亚咖啡店（kopitiam）饮料的点单密码——kopi-O、kopi-C、kosong、gao、peng 和拉茶（teh tarik）——以及背后的社交仪式。"

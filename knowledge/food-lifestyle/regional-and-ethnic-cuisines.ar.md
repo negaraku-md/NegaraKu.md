@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "المطابخ الإقليمية والعِرقية في ماليزيا: Peranakan وكلنتان وساراواك وما بعدها"
 seoTitle: "المطابخ الإقليمية والعِرقية الماليزية: Peranakan، الساحل الشرقي، بورنيو، Mamak"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "وعاء من لاكسا نيونيا، حساء نودلز بيراناكاني"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "دليل شامل لتقاليد المطبخ الإقليمي والعِرقي في ماليزيا — Peranakan/Nyonya، والساحل الشرقي، وساراواك وصباح، وMamak، وKristang الأوراسي — يُنظَر إليها بوصفها عائلة من المطابخ يستعير بعضها من بعض، لا قائمة تُرتَّب حسب الأفضلية."

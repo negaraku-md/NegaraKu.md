@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "Chợ Ramadan và Văn hóa Ẩm thực trong suốt Tháng Ăn chay"
 seoTitle: "Chợ Ramadan Malaysia: Giấy phép, Món ăn và Phép tắc cho Khách"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "Các quầy hàng tại một khu chợ Ramadan ở Malaysia"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "Chợ Ramadan là chợ thực phẩm theo mùa xuất hiện mỗi buổi chiều suốt tháng ăn chay, một truyền thống cộng đồng được nhiều sắc tộc chào đón. Hướng dẫn này giải thích cách nó được cấp phép và quản lý, các món ăn thường được bán, cùng phép tắc cho khách không nhịn ăn chay."

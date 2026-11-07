@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "Rạp chiếu phim, Giải trí và Quy định Kiểm duyệt ở Malaysia"
 seoTitle: "Phân loại phim, Kiểm duyệt & Giấy phép Giải trí Malaysia"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "Những hàng ghế đỏ trong một phòng chiếu phim"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "Mọi bộ phim chiếu cho công chúng xem ở Malaysia đều bắt buộc phải được Hội đồng Kiểm duyệt Phim (LPF) phê duyệt trước và được gán một phân loại độ tuổi — U, P12, 13, 16 hoặc 18 — trong khi các trung tâm karaoke và cơ sở giải trí lại được cấp phép bởi chính quyền địa phương theo các quy định địa phương riêng của họ."

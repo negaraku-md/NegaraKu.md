@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "மலேசியாவில் துரியன்: வகைகள், பருவம் மற்றும் பழங்களின் ராஜாவின் பண்பாடு"
 seoTitle: "மலேசிய துரியன் — Musang King, D24, Black Thorn மற்றும் துரியன் பருவம்"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "அதன் பொன்னிற கிரீமி சதையைக் காட்டும் திறந்த துரியன்"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "மலேசியாவின் துரியன் வகைகளுக்கான வழிகாட்டி — Musang King, D24 மற்றும் Black Thorn — அவற்றின் பயிரிடப்படும் பகுதிகள், பருவம், வாங்கும் மற்றும் உண்ணும் நடைமுறை, அத்துடன் அவற்றின் பண்பாட்டு முக்கியத்துவம் மற்றும் சீனாவுக்கான ஏற்றுமதி."

@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "Ẩm thực Malaysia với tư cách Di sản Quốc gia và Di sản UNESCO"
 seoTitle: "Ẩm thực Di sản Quốc gia & UNESCO Malaysia"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "Một đĩa nasi lemak kèm sambal, trứng luộc và gà rán"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "Hướng dẫn tham khảo về các món ăn Malaysia được Cục Di sản Quốc gia tuyên bố là Di sản Quốc gia và được UNESCO ghi danh — kèm ngày tháng và cơ quan công nhận."

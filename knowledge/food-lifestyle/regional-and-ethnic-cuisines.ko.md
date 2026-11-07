@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "말레이시아의 지역·종족별 요리: 프라나칸, 클란탄, 사라왁, 그리고 그 밖"
 seoTitle: "말레이시아 지역·종족 요리: 프라나칸, 동해안, 보르네오, 마막"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "뇨냐 락사 한 그릇, 페라나칸식 국수 수프"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "말레이시아의 지역·종족별 요리 전통 — 프라나칸/뇨냐, 동해안, 사라왁과 사바, 마막, 유라시안 크리스탕 — 을 순위를 매길 목록이 아니라 서로 빌려 온 부엌의 한 가족으로 바라본 종합 안내입니다."

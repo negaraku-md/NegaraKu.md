@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "Kopitiam and Mamak Culture: Everyday Dining Spaces of Malaysians"
 seoTitle: "Malaysia Kopitiam & Mamak Culture: History, Ordering, UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "A traditional Hainanese kopitiam shopfront in Malaysia"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "Hainanese kopitiams, 24-hour mamak stalls and food courts are Malaysia's default dining spaces and social institutions — a glass of teh tarik and a piece of roti canai now inscribed on UNESCO's Intangible Cultural Heritage list."

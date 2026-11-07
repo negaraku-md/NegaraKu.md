@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "อาหารเทศกาลของมาเลเซีย: สิ่งที่เสิร์ฟในฮารีรายา ตรุษจีน ดีปาวลี คริสต์มาส กาไว และกาอามาตัน"
 seoTitle: "อาหารเทศกาลมาเลเซียข้ามฮารีรายา ตรุษจีน ดีปาวลี กาไว และกาอามาตัน"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "สำรับอาหารฉลองฮารีรายอ ได้แก่ เรินดัง (rendang) เลอมัง (lemang) เกอตูปัต (ketupat) และกูเอ (kuih)"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "เทศกาลใหญ่ทุกเทศกาลในมาเลเซียมีอาหารสัญลักษณ์ของตัวเอง — เกอตูปัตและเรินดังในฮารีรายา ยีซังในตรุษจีน มูรุกกูในดีปาวลี และอาหารกระบอกไม้ไผ่กับตัวก์ในกาไวและกาอามาตัน บทความนี้รวบรวมอาหารหลักของแต่ละเทศกาลและมารยาทบ้านเปิด (rumah terbuka) ที่ผูกมันเข้าด้วยกัน"

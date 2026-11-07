@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "Malaysian Festive Foods: What's Served at Raya, Chinese New Year, Deepavali, Christmas, Gawai and Kaamatan"
 seoTitle: "Malaysian Festive Foods Across Raya, CNY, Deepavali, Gawai & Kaamatan"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "A festive spread of rendang, lemang, ketupat and kuih for Hari Raya"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "Every major festival in Malaysia has its own signature dishes — ketupat and rendang at Hari Raya, yee sang at Chinese New Year, murukku at Deepavali, and bamboo cooking with rice wine at Gawai and Kaamatan. This article gathers the headline dishes of each celebration and the open-house etiquette that ties them together."

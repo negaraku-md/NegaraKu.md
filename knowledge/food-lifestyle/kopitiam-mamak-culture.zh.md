@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "咖啡店与嘛嘛档文化：马来西亚人的日常饮食去处"
 seoTitle: "马来西亚咖啡店与嘛嘛档文化：历史、点单、UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "马来西亚一家传统海南咖啡店（kopitiam）的店面"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "海南咖啡店、24小时嘛嘛档和美食广场是马来西亚人默认的饮食空间与社交机构——一杯拉茶配一片印度煎饼，如今已列入UNESCO人类非物质文化遗产名录。"

@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "Hidangan Perayaan Malaysia: Apa yang Tersaji di Raya, Tahun Baru Imlek, Deepavali, Natal, Gawai, dan Kaamatan"
 seoTitle: "Hidangan Perayaan Malaysia Lintas Raya, Imlek, Deepavali, Gawai & Kaamatan"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "Hidangan perayaan rendang, lemang, ketupat, dan kuih untuk Hari Raya"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "Setiap perayaan besar di Malaysia memiliki hidangan tandanya sendiri — ketupat dan rendang di Hari Raya, yee sang di Tahun Baru Imlek, murukku di Deepavali, dan masakan bambu serta tuak di Gawai dan Kaamatan. Artikel ini menghimpun hidangan utama setiap perayaan dan adab rumah terbuka yang mengikatnya."

@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "Dietary Restrictions & Vegetarian/Vegan Dining in Malaysia"
 seoTitle: "Halal, Vegetarian & Vegan Dining in Malaysia: A Visitor's Guide"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "A vegetarian Indian thali with rice, papadum and vegetable dishes"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "How visitors and newcomers navigate halal, beef-avoidance, and Buddhist/Taoist vegetarian practice in Malaysia — and how to find vegetarian, vegan and allergen-aware food you can trust."

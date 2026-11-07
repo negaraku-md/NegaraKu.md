@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "말레이시아의 식이 제한과 채식·비건 외식"
 seoTitle: "말레이시아의 할랄·채식·비건 외식: 방문자 안내"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "밥, 파파덤, 채소 요리가 담긴 채식 인도 탈리"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "방문자와 새로 온 사람들이 말레이시아에서 할랄, 소고기 회피, 불교·도교 채식 관행을 어떻게 헤쳐 나가는지, 그리고 믿을 수 있는 채식·비건·알레르기 대응 음식을 어떻게 찾는지 설명합니다."

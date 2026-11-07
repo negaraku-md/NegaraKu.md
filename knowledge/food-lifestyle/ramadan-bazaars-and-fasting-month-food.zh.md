@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "斋月市集与斋戒月的美食文化"
 seoTitle: "马来西亚斋月市集：执照、美食与访客礼仪"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "马来西亚斋戒月市集上的摊位"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "斋月市集（Bazar Ramadan）是斋戒月期间每天傍晚出现的季节性美食市集，是一项由各族群共同欢庆的公民传统。本指南说明它如何获颁执照与管理、常见售卖的美食，以及非斋戒访客应遵守的礼仪。"

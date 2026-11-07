@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "மலேசியாவில் வணிக வளாகங்களும் சில்லறை வணிக பண்பாடும்"
 seoTitle: "மலேசிய வணிக வளாகங்களும் சில்லறை வணிக பண்பாடும்: வடிவங்கள், அளவுகள், விலை நிர்ணயம்"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "கோலாலம்பூரில் உள்ள சூரியா KLCC பல்பொருள் அங்காடியின் பல தள உட்புறம்"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "மலேசியாவின் மிகப்பெரிய வணிக வளாகங்கள் கிள்ளான் பள்ளத்தாக்கில் (Klang Valley) குவிந்துள்ளன, ஆனால் அன்றாட சில்லறை வணிகம் அக்கம்பக்க கடைகள் மற்றும் திறந்தவெளி பசார் (pasar) வழியாகவும் நடைபெறுகிறது — மேலும் லேபிளில் உள்ள விலையில் ஏற்கெனவே எந்தவொரு பொருள் வரியும் அடங்கியுள்ளது, ஏனெனில் மலேசியா கட்டண மேசையில் வரி விதிக்காமல், ஒரே-கட்ட SST வரியையே விதிக்கிறது."

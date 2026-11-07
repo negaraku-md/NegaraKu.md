@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "Shopping Malls & Retail Culture in Malaysia"
 seoTitle: "Malaysia Shopping Malls & Retail Culture: Formats, Sizes, Pricing"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "The multi-level interior of Suria KLCC shopping mall in Kuala Lumpur"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "Malaysia's biggest malls cluster in the Klang Valley, but everyday retail also runs through neighbourhood shoplots and open-air pasar — and the price on the tag already includes any goods tax, because Malaysia charges a single-stage SST, not a checkout tax."

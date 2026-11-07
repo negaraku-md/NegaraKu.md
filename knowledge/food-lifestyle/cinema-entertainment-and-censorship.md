@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "Pawagam, Hiburan dan Peraturan Penapisan di Malaysia"
 seoTitle: "Klasifikasi Filem, Penapisan & Lesen Hiburan Malaysia"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "Barisan kerusi merah di dalam dewan pawagam"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "Setiap filem yang ditayangkan untuk tontonan awam di Malaysia wajib diluluskan Lembaga Penapisan Filem (LPF) dahulu dan diberi klasifikasi umur — U, P12, 13, 16 atau 18 — manakala pusat karaoke dan premis hiburan pula dilesenkan oleh pihak berkuasa tempatan mengikut undang-undang kecil masing-masing."

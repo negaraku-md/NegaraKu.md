@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "கோபி, தேநீர் தாரிக் மற்றும் கோபிதியாம் பானப் பண்பாடு"
 seoTitle: "கோபிதியாம் ஆர்டரை படிப்பது எப்படி: Kopi-O, Kopi-C மற்றும் Teh Tarik"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "இரண்டு கிளாஸ் நுரைக்கும் தே தாரிக், மலேசியாவின் இழுத்த பால் தேநீர்"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "மலேசியக் கோபிதியாம் பான ஆர்டர்களின் குறியீட்டை உடைக்கும் விரைவான வழிகாட்டி — kopi-O, kopi-C, kosong, gao, peng மற்றும் teh tarik — அத்துடன் அவற்றுக்குப் பின்னால் உள்ள சமூக நடைமுறை."

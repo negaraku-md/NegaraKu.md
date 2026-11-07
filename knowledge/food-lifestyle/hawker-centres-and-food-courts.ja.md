@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "ホーカーセンターとフードコート：マレーシア人の外食のかたち"
 seoTitle: "マレーシアのホーカーセンターとフードコート"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "屋台が並ぶマレーシアのフードコートの店内"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "ほとんどのマレーシア人は、安くてオープンな数種類の形態で外食する——伝統的な中華系のkopitiam、インド系ムスリムのmamak、そして多くの独立した屋台が一つの座席エリアを共有するフードコートまたはmedan selera。本ガイドでは、これらの形態がどう異なるか、注文と支払いの仕組み、A/B/Cの衛生等級の意味、そしてこれらすべてがpasar malam（ナイトマーケット）とどう違うのかを解説する。"

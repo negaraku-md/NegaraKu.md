@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "マレーシアの食事のマナー、チップとサービスチャージ"
 seoTitle: "マレーシアのチップとサービスチャージ：請求書の中身は？"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "ご飯、カレー、副菜を盛ったバナナリーフ・ライスの食事"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "マレーシアでチップは期待されていない。その代わり、中級から高級の飲食店は6%の政府サービス税を加算し、しばしばそれとは別に10%のサービスチャージも加算する——それぞれの項目が何を意味するのか、そして地元の人のように食事をする方法を解説する。"

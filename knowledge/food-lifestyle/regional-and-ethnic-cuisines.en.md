@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "Malaysia's Regional and Ethnic Cuisines: Peranakan, Kelantan, Sarawak and Beyond"
 seoTitle: "Malaysian Regional & Ethnic Cuisines: Peranakan, East Coast, Borneo, Mamak"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "A bowl of Nyonya laksa, a Peranakan noodle soup"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "A comprehensive guide to Malaysia's regional and ethnic culinary traditions — Peranakan/Nyonya, the east coast, Sarawak and Sabah, Mamak, and Eurasian Kristang — seen as a family of kitchens that borrow from one another, not a list to be ranked."

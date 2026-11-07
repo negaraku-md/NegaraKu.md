@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "Pusat Beli-Belah & Budaya Runcit di Malaysia"
 seoTitle: "Pusat Beli-Belah & Budaya Runcit Malaysia: Format, Saiz, Harga"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "Bahagian dalam berbilang tingkat pusat beli-belah Suria KLCC di Kuala Lumpur"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "Pusat beli-belah terbesar Malaysia tertumpu di Lembah Klang, tetapi runcit harian juga bergerak melalui kedai kedai kejiranan dan pasar terbuka — dan harga pada label sudah pun termasuk sebarang cukai barangan, kerana Malaysia mengenakan SST satu peringkat, bukan cukai di kaunter bayaran."

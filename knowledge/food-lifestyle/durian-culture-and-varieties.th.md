@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "ทุเรียนในมาเลเซีย: พันธุ์ ฤดูกาล และวัฒนธรรมราชาแห่งผลไม้"
 seoTitle: "ทุเรียนมาเลเซีย — Musang King, D24, Black Thorn และฤดูทุเรียน"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "ทุเรียนที่ผ่าออกเผยให้เห็นเนื้อสีทองเนียนนุ่ม"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "คู่มือสู่พันธุ์ทุเรียนของมาเลเซีย — Musang King, D24 และ Black Thorn — พื้นที่เพาะปลูก ฤดูกาล มารยาทการซื้อและการรับประทาน ตลอดจนความสำคัญทางวัฒนธรรมและการส่งออกไปยังจีน"

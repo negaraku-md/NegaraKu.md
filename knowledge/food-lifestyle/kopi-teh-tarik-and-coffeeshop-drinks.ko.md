@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "코피, 테 타릭과 코피티암 음료 문화"
 seoTitle: "코피티암 주문법 해독: 코피-O, 코피-C와 테 타릭"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "거품이 가득한 테 타릭 두 잔, 말레이시아의 끌어올린 밀크티"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "말레이시아 코피티암 음료 주문 암호 — 코피-O, 코피-C, 코송, 가오, 펭, 테 타릭 — 와 그 뒤의 사회적 의례를 간단히 풀어 주는 안내입니다."

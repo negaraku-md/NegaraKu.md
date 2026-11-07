@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "Kopi, Teh Tarik & Văn hóa Đồ uống Kopitiam"
 seoTitle: "Cách đọc gọi món ở Kopitiam: Kopi-O, Kopi-C & Teh Tarik"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "Hai ly teh tarik sủi bọt, trà sữa kéo của Malaysia"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "Hướng dẫn ngắn gọn giải mã cách gọi đồ uống ở kopitiam Malaysia — kopi-O, kopi-C, kosong, gao, peng và teh tarik — cùng nghi thức xã hội đằng sau nó."

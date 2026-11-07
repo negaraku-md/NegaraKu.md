@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "Mets festifs de Malaisie : ce que l'on sert à Raya, au Nouvel An chinois, à Deepavali, à Noël, à Gawai et à Kaamatan"
 seoTitle: "Mets festifs de Malaisie à Raya, CNY, Deepavali, Gawai et Kaamatan"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "Un festin de rendang, lemang, ketupat et kuih pour Hari Raya"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "Chaque grande fête de Malaisie a ses propres plats emblématiques — ketupat et rendang à Hari Raya, yee sang au Nouvel An chinois, murukku à Deepavali, et la cuisine au bambou avec du vin de riz à Gawai et à Kaamatan. Cet article rassemble les plats phares de chaque célébration et l'étiquette de la maison ouverte qui les relie entre eux."

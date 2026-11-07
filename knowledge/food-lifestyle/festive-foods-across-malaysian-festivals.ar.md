@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "أطعمة الأعياد الماليزية: ما يُقدَّم في رايا ورأس السنة الصينية وديبافالي وعيد الميلاد وغاواي وكاماتان"
 seoTitle: "أطعمة الأعياد الماليزية عبر رايا ورأس السنة الصينية وديبافالي وغاواي وكاماتان"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "مائدة احتفالية من الرندانغ واللمانغ والكيتوبات والكويه بمناسبة عيد هاري رايا"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "لكل عيد كبير في ماليزيا أطباقه المميزة — ketupat وrendang في هاري رايا، وyee sang في رأس السنة الصينية، وmurukku في ديبافالي، والطهي في البامبو مع نبيذ الأرز في غاواي وكاماتان. يجمع هذا المقال الأطباق الرئيسية لكل احتفال وآداب البيت المفتوح التي تربط بينها."

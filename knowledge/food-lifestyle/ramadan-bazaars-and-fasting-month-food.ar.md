@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "أسواق رمضان وثقافة الطعام طوال شهر الصيام"
 seoTitle: "أسواق رمضان في ماليزيا: الترخيص والأطعمة وآداب الزائر"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "أكشاك في بازار رمضان في ماليزيا"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "أسواق رمضان أسواق طعام موسمية تنشأ كل عصر طوال شهر الصيام، وهي تقليد مدني يحتفي به مختلف المجتمعات. يشرح هذا الدليل كيفية ترخيصها وإدارتها، والأطعمة التي تُباع فيها عادةً، وآداب الزوّار غير الصائمين."

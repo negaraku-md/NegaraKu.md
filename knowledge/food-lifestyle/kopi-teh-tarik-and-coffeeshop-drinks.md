@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "Kopi, Teh Tarik & Budaya Minuman Kopitiam"
 seoTitle: "Cara Baca Pesanan Kopitiam: Kopi-O, Kopi-C & Teh Tarik"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "Dua gelas teh tarik berbuih, minuman teh susu tarik Malaysia"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "Panduan ringkas memecah kod pesanan minuman kopitiam Malaysia — kopi-O, kopi-C, kosong, gao, peng dan teh tarik — serta ritual sosial di sebaliknya."

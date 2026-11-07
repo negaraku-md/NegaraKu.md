@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "ข้อจำกัดด้านอาหารและการรับประทานมังสวิรัติ/วีแกนในมาเลเซีย"
 seoTitle: "อาหารฮาลาล มังสวิรัติ และวีแกนในมาเลเซีย: คู่มือสำหรับผู้มาเยือน"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "ทาลี (thali) อินเดียมังสวิรัติพร้อมข้าว ปาปาดัม และอาหารผัก"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "ผู้มาเยือนและผู้มาใหม่รับมือกับอาหารฮาลาล การเลี่ยงเนื้อวัว และธรรมเนียมมังสวิรัติแบบพุทธ/เต๋าในมาเลเซียอย่างไร และจะหาอาหารมังสวิรัติ วีแกน และอาหารที่ใส่ใจสารก่อภูมิแพ้ที่ไว้ใจได้อย่างไร"

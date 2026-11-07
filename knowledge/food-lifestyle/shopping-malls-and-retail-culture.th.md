@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "ห้างสรรพสินค้าและวัฒนธรรมค้าปลีกในมาเลเซีย"
 seoTitle: "ห้างสรรพสินค้าและวัฒนธรรมค้าปลีกมาเลเซีย: รูปแบบ ขนาด การตั้งราคา"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "ภายในหลายชั้นของห้างสรรพสินค้า Suria KLCC ในกัวลาลัมเปอร์"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "ห้างสรรพสินค้าที่ใหญ่ที่สุดของมาเลเซียกระจุกตัวอยู่ในหุบเขากลัง (Klang Valley) แต่การค้าปลีกในชีวิตประจำวันยังดำเนินผ่านห้องแถวในย่านชุมชนและตลาดกลางแจ้ง (pasar) และราคาบนป้ายรวมภาษีสินค้าใด ๆ ไว้แล้ว เพราะมาเลเซียเก็บ SST แบบขั้นตอนเดียว ไม่ใช่ภาษีตอนจ่ายเงิน"

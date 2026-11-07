@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "马来西亚榴莲：品种、季节与果王文化"
 seoTitle: "马来西亚榴莲 — 猫山王、D24、黑刺与榴莲季"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "一颗剖开的榴莲，露出金黄绵密的果肉"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "马来西亚榴莲栽培品种指南 — 猫山王（Musang King）、D24 与黑刺（Black Thorn）— 涵盖种植地区、季节、选购与食用礼仪，以及其文化意义和对中国的出口。"

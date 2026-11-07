@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "Étiquette à table, pourboire et frais de service en Malaisie"
 seoTitle: "Pourboire et frais de service en Malaisie : ce qui figure sur votre addition"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "Un repas de riz sur feuille de bananier avec du riz, des currys et des accompagnements"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Le pourboire n'est pas attendu en Malaisie. À la place, les établissements de gamme moyenne et haut de gamme ajoutent une taxe sur les services de 6% du gouvernement et, souvent, des frais de service distincts de 10% — voici ce que signifie chaque ligne et comment manger comme un local."

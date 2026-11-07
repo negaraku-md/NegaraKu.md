@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "Sekatan Pemakanan & Menu Vegetarian/Vegan di Malaysia"
 seoTitle: "Menu Halal, Vegetarian & Vegan di Malaysia: Panduan Pelawat"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "Thali India vegetarian dengan nasi, papadum dan hidangan sayur"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Cara pelawat dan pendatang baharu menangani amalan halal, pantang daging lembu, dan pemakanan vegetarian Buddha/Tao di Malaysia — serta cara mencari makanan vegetarian, vegan dan mesra alahan yang boleh dipercayai."

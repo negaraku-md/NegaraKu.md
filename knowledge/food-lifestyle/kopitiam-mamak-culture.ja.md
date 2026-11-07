@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "コピティアムとママック文化：マレーシア人の日常の食事処"
 seoTitle: "マレーシアのコピティアム＆ママック文化：歴史、注文方法、UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "マレーシアの伝統的な海南式コピティアムの店先"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "海南系コピティアム（kopitiam）、24時間営業のママック屋台（mamak）、そしてフードコート（medan selera）は、マレーシアの日常的な食事の場であり社交の場でもある——一杯のテータレ（teh tarik）と一枚のロティ・チャナイ（roti canai）が、今やUNESCO無形文化遺産に登録されている。"

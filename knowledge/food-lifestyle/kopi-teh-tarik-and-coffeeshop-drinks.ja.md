@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "コピ、テータレとコピティアムの飲み物文化"
 seoTitle: "コピティアムの注文用語の読み方：コピ・オー、コピ・シーとテータレ"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "泡立つテー・タレ（マレーシアの引き延ばしミルクティー）2杯"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "マレーシアのコピティアムの飲み物注文用語――コピ・オー（kopi-O）、コピ・シー（kopi-C）、kosong、gao、peng、そしてテータレ（teh tarik）――を読み解く簡潔なガイドと、その背後にある社交の儀礼。"

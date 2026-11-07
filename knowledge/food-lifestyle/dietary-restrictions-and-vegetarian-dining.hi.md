@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "मलेशिया में आहार प्रतिबंध और शाकाहारी/वीगन भोजन"
 seoTitle: "मलेशिया में हलाल, शाकाहारी और वीगन भोजन: एक आगंतुक की मार्गदर्शिका"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "चावल, पापड़ और सब्ज़ियों के साथ एक शाकाहारी भारतीय थाली"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "मलेशिया में आगंतुक और नवागंतुक हलाल, गोमांस-परिहार, और बौद्ध/ताओवादी शाकाहारी प्रथा को कैसे समझते हैं — और ऐसा शाकाहारी, वीगन तथा एलर्जेन-जागरूक भोजन कैसे खोजें जिस पर आप भरोसा कर सकें।"

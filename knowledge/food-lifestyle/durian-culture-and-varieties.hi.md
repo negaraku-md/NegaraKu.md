@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "मलेशिया में डूरियन: किस्में, मौसम और फलों के राजा की संस्कृति"
 seoTitle: "मलेशियाई डूरियन — Musang King, D24, Black Thorn और डूरियन का मौसम"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "कटा हुआ ड्यूरियन जिसका मलाईदार सुनहरा गूदा दिख रहा है"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "मलेशिया की डूरियन किस्मों — Musang King, D24 और Black Thorn — उनके उत्पादक क्षेत्रों, मौसम, उन्हें खरीदने और खाने के शिष्टाचार, और उनके सांस्कृतिक महत्व तथा चीन को निर्यात की एक मार्गदर्शिका।"

@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "मलेशिया में भोजन शिष्टाचार, टिपिंग और सेवा शुल्क"
 seoTitle: "मलेशिया में टिपिंग और सेवा शुल्क: आपके बिल पर क्या है"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "चावल, करी और साइड डिश के साथ केले के पत्ते पर परोसा गया भोजन"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "मलेशिया में टिप की अपेक्षा नहीं की जाती। इसके बजाय, मध्यम-श्रेणी और उच्च-श्रेणी के भोजनालय 6% सरकारी सेवा कर और अक्सर एक अलग 10% सेवा शुल्क जोड़ते हैं — यहाँ बताया गया है कि प्रत्येक पंक्ति का क्या अर्थ है और स्थानीय लोगों की तरह कैसे खाएँ।"

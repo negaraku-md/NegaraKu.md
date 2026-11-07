@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "马来西亚的饮食禁忌与素食／纯素餐饮"
 seoTitle: "马来西亚的清真、素食与纯素餐饮：访客指南"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "一份素食印度 thali，配米饭、papadum 脆饼和各式蔬菜"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "访客与新移民如何在马来西亚应对清真（halal）、忌食牛肉，以及佛教／道教素食习俗——并找到值得信赖的素食、纯素与顾及过敏原的餐食。"

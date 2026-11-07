@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "Centres commerciaux et culture du commerce de détail en Malaisie"
 seoTitle: "Centres commerciaux et commerce de détail en Malaisie : formats, tailles, prix"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "L'intérieur à plusieurs niveaux du centre commercial Suria KLCC à Kuala Lumpur"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "Les plus grands centres commerciaux de Malaisie se concentrent dans la vallée de Klang, mais le commerce du quotidien passe aussi par les échoppes de quartier et les pasar en plein air — et le prix affiché sur l'étiquette inclut déjà toute taxe sur les biens, car la Malaisie perçoit une SST à une seule étape, et non une taxe en caisse."

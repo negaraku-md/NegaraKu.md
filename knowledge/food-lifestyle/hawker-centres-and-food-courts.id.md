@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "Pusat Jajanan dan Food Court: Cara Orang Malaysia Makan di Luar"
 seoTitle: "Pusat Jajanan dan Food Court di Malaysia"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "Bagian dalam pusat jajanan Malaysia yang dipenuhi gerai penjaja"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Kebanyakan orang Malaysia makan di luar di beberapa format murah dan berkonsep terbuka — kopitiam Tionghoa tradisional, mamak India-Muslim, serta food court atau medan selera, tempat banyak gerai mandiri berbagi satu area tempat duduk. Panduan ini menjelaskan bagaimana format-format ini berbeda, bagaimana cara memesan dan membayar, apa arti gradasi kebersihan A/B/C, dan bagaimana semua ini berbeda dari pasar malam."

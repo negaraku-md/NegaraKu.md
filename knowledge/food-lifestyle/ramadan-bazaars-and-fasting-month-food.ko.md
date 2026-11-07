@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "라마단 바자르와 금식월의 음식 문화"
 seoTitle: "말레이시아 라마단 바자르: 면허, 음식, 방문자 예절"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "말레이시아의 라마단 바자르 가판대들"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "라마단 바자르는 금식월 내내 매일 오후에 나타나는 계절 음식 시장으로, 여러 종족이 함께 즐기는 시민적 전통입니다. 이 안내서는 그것이 어떻게 면허를 받고 운영되는지, 흔히 파는 음식, 그리고 금식하지 않는 방문자를 위한 예절을 설명합니다."

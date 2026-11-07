@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "Bazar Ramadan dan Budaya Juadah Sepanjang Bulan Puasa"
 seoTitle: "Bazar Ramadan Malaysia: Lesen, Juadah dan Etika Pengunjung"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "Gerai-gerai di bazar Ramadan di Malaysia"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "Bazar Ramadan ialah pasar makanan bermusim yang muncul setiap petang sepanjang bulan puasa, satu tradisi sivik yang diraikan pelbagai kaum. Panduan ini menerangkan cara ia dilesen dan diurus, juadah yang lazim dijual, serta etika untuk pengunjung yang tidak berpuasa."

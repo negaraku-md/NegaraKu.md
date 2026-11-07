@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "马来西亚美食作为国家遗产与联合国教科文组织遗产"
 seoTitle: "马来西亚国家遗产与教科文组织遗产美食"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "一盘椰浆饭，配参巴酱、水煮蛋和炸鸡"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "关于马来西亚美食的参考指南——包括由国家遗产局（Jabatan Warisan Negara）宣布为国家遗产的美食，以及列入联合国教科文组织（UNESCO）名录的美食，附有日期与认定机构。"

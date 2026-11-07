@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "مراكز التسوّق وثقافة التجزئة في ماليزيا"
 seoTitle: "مراكز التسوّق وثقافة التجزئة في ماليزيا: الأنماط والأحجام والتسعير"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "المبنى الداخلي متعدد الطوابق لمركز سوريا KLCC للتسوق في كوالالمبور"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "تتكدّس أكبر مراكز التسوّق في ماليزيا في وادي كلانغ، لكن التجزئة اليومية تجري أيضًا عبر المحلّات الحيّية والأسواق المكشوفة — والسعر على البطاقة يشمل أصلًا أي ضريبة على السلع، لأن ماليزيا تفرض ضريبة مبيعات وخدمات (SST) أحادية المرحلة لا ضريبة عند الدفع."

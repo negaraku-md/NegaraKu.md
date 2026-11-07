@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "马来西亚的用餐礼仪、小费与服务费"
 seoTitle: "马来西亚的小费与服务费：账单上到底有什么"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "一份香蕉叶饭，配米饭、咖喱和各式配菜"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "在马来西亚，给小费并非惯例。相反，中档和高档餐厅会加收6%的政府服务税，并且往往另外加收10%的服务费——本文解释每一项分别代表什么，以及如何像当地人一样用餐。"

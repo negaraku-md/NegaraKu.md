@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "Restrictions alimentaires et restauration végétarienne/végane en Malaisie"
 seoTitle: "Restauration halal, végétarienne et végane en Malaisie : guide du visiteur"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "Un thali indien végétarien avec du riz, du papadum et des plats de légumes"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Comment les visiteurs et les nouveaux arrivants s'y retrouvent face au halal, à l'évitement du bœuf et à la pratique végétarienne bouddhiste/taoïste en Malaisie — et comment trouver une nourriture végétarienne, végane et attentive aux allergènes en laquelle vous pouvez avoir confiance."

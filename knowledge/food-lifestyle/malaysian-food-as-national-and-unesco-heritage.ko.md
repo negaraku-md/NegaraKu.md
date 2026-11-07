@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "국가유산이자 유네스코 유산으로서의 말레이시아 음식"
 seoTitle: "말레이시아의 국가유산 음식과 유네스코 음식"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "삼발, 삶은 달걀, 프라이드치킨을 곁들인 나시르막 한 접시"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "국가유산청이 국가유산으로 선포한 말레이시아 음식과 유네스코가 등재한 음식에 대한 참고 안내 — 날짜와 인정 기관을 함께 정리했습니다."

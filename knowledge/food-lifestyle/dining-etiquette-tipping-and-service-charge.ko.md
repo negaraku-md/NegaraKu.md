@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "말레이시아의 식사 예절, 팁과 서비스 차지"
 seoTitle: "말레이시아의 팁과 서비스 차지: 계산서에 무엇이 있나"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "밥, 커리, 곁들이 반찬이 차려진 바나나잎밥 한 상"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "말레이시아에서는 팁이 기대되지 않습니다. 대신 중급 이상 식당은 6%의 정부 서비스세를 붙이고, 흔히 별도의 10% 서비스 차지도 더합니다 — 각 항목이 무엇을 뜻하는지, 그리고 현지인처럼 식사하는 법을 설명합니다."

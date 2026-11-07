@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "ฮอว์กเกอร์เซ็นเตอร์และฟู้ดคอร์ต: วิธีที่คนมาเลเซียกินข้าวนอกบ้าน"
 seoTitle: "ฮอว์กเกอร์เซ็นเตอร์และฟู้ดคอร์ตในมาเลเซีย"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "ภายในศูนย์อาหารของมาเลเซียที่เรียงรายด้วยแผงหาบเร่"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "คนมาเลเซียส่วนใหญ่กินข้าวนอกบ้านในรูปแบบราคาย่อมเยาและเปิดโล่งไม่กี่แบบ — kopitiam แบบจีนดั้งเดิม, mamak ของชาวอินเดีย-มุสลิม, และฟู้ดคอร์ตหรือ medan selera ที่ร้านอิสระหลายร้านใช้พื้นที่นั่งร่วมกันหนึ่งแห่ง คู่มือนี้อธิบายว่ารูปแบบเหล่านี้ต่างกันอย่างไร การสั่งและการจ่ายเงินทำงานอย่างไร เกรดสุขอนามัย A/B/C หมายถึงอะไร และทั้งหมดนี้ต่างจาก pasar malam ตลาดนัดกลางคืนอย่างไร"

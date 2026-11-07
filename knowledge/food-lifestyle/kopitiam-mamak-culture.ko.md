@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "코피티암과 마막 문화: 말레이시아인의 일상 식사 공간"
 seoTitle: "말레이시아 코피티암·마막 문화: 역사, 주문법, 유네스코"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "말레이시아의 전통 하이난식 코피티암 가게 외관"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "하이난 코피티암, 24시간 마막 노점, 푸드코트는 말레이시아의 기본 식사 공간이자 사회적 제도입니다 — 테 타릭 한 잔과 로티 차나이 한 장이 이제 유네스코 인류무형문화유산으로 등재되었습니다."

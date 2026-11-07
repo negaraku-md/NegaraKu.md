@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "小贩中心与美食广场：马来西亚人如何在外用餐"
 seoTitle: "马来西亚的小贩中心与美食广场"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "马来西亚美食广场内排满了小贩摊位"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "大多数马来西亚人在外用餐，都是在几种廉价、开放式的格局里——传统华人kopitiam（咖啡店）、印度裔穆斯林mamak（嘛嘛档），以及美食广场或medan selera，许多独立摊位在这里共用一处用餐区。本指南说明这些格局有何不同、点餐和付款如何运作、A/B/C卫生评级代表什么，以及这一切与pasar malam（夜市）有何区别。"

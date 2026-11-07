@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "La cultura del kopitiam y el mamak: los espacios cotidianos donde comen los malasios"
 seoTitle: "Cultura del kopitiam y el mamak en Malasia: historia, pedidos, UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "La fachada de un kopitiam tradicional hainanés en Malasia"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "Los kopitiam hainaneses, los puestos mamak de 24 horas y los patios de comidas son los espacios gastronómicos por defecto y las instituciones sociales de Malasia — un vaso de teh tarik y un trozo de roti canai hoy inscritos en la Lista del Patrimonio Cultural Inmaterial de la UNESCO."

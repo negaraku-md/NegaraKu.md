@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "ラマダン・バザールと断食月の食文化"
 seoTitle: "マレーシアのラマダン・バザール：許可、料理、訪問者のマナー"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "マレーシアのラマダン・バザールの屋台"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "ラマダン・バザールは、断食月のあいだ毎日夕方に現れる季節限定の食品市場であり、さまざまな民族に祝われてきた市民の伝統である。本ガイドは、その許可と管理の方法、よく売られる料理、そして断食をしていない訪問者のためのマナーについて説明する。"

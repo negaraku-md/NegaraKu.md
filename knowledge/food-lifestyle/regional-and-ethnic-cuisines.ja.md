@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "マレーシアの地方料理と民族料理：プラナカン、クランタン、サラワク、そしてそれ以外"
 seoTitle: "マレーシアの地方・民族料理：プラナカン、東海岸、ボルネオ、マミ"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "ニョニャ・ラクサ（プラナカンのヌードルスープ）一杯"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "マレーシアの地方料理・民族料理の伝統——プラナカン（ニョニャ）、東海岸、サラワクとサバ、マミ、そしてクリスタン（ポルトガル系ユーラシアン）——を包括的に紹介するガイド。順位付けのための一覧としてではなく、互いに影響を借り合う台所の大家族として捉える。"

@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "دور السينما والترفيه وقواعد الرقابة في ماليزيا"
 seoTitle: "تصنيف الأفلام في ماليزيا والرقابة وتراخيص الترفيه"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "صفوف من المقاعد الحمراء في قاعة سينما"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "يجب أن يحصل كل فيلم يُعرض للجمهور في ماليزيا على موافقة مجلس الرقابة على الأفلام (LPF) أولًا وأن يُمنح تصنيفًا عمريًا — U أو P12 أو 13 أو 16 أو 18 — بينما تُرخَّص مراكز الكاراوكي ومنشآت الترفيه من السلطات المحلية بموجب لوائحها الفرعية الخاصة بها."

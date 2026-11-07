@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "தேசிய பாரம்பரியமாகவும் UNESCO பாரம்பரியமாகவும் மலேசிய உணவு"
 seoTitle: "மலேசியாவின் தேசிய & UNESCO பாரம்பரிய உணவுகள்"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "சம்பல், வேகவைத்த முட்டை மற்றும் வறுத்த கோழியுடன் ஒரு தட்டு நாசி லெமாக்"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "தேசிய பாரம்பரிய திணைக்களம் (Department of National Heritage) தேசிய பாரம்பரியமாக அறிவித்த, மற்றும் UNESCO பட்டியலிட்ட மலேசிய உணவுகள் குறித்த குறிப்பு வழிகாட்டி — தேதிகள் மற்றும் அங்கீகரிக்கும் அமைப்புகளுடன் முழுமையாக."

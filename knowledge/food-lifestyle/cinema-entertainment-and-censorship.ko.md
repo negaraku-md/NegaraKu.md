@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "말레이시아의 영화관, 오락과 검열 규정"
 seoTitle: "말레이시아 영화 등급, 검열 및 오락 면허"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "영화관 상영관에 늘어선 붉은 좌석들"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "말레이시아에서 대중 상영을 위한 모든 영화는 먼저 영화검열위원회(LPF)의 승인을 받아야 하며 연령 등급 — U, P12, 13, 16 또는 18 — 이 부여됩니다. 반면 노래방과 오락 시설은 지방 당국이 각자의 조례에 따라 면허를 발급합니다."

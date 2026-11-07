@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "الطعام الماليزي بوصفه تراثًا وطنيًا وتراثًا لدى اليونسكو"
 seoTitle: "أطعمة التراث الوطني واليونسكو في ماليزيا"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "طبق من ناسي ليماك مع الـسامبال وبيضة مسلوقة ودجاج مقلي"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "دليل مرجعي للأطعمة الماليزية التي أعلنتها إدارة التراث الوطني (Jabatan Warisan Negara) تراثًا وطنيًا وتلك التي أدرجتها اليونسكو — مع التواريخ والجهات المانحة للاعتراف."

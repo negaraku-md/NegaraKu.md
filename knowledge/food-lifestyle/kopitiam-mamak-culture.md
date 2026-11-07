@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "Budaya Kopitiam dan Mamak: Tempat Makan Harian Rakyat Malaysia"
 seoTitle: "Budaya Kopitiam & Mamak Malaysia: Sejarah, Cara Pesan, UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "Muka kedai kopitiam Hainan tradisional di Malaysia"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "Kopitiam Hainan, gerai mamak 24 jam dan medan selera ialah ruang makan lalai dan institusi sosial Malaysia — segelas teh tarik dan sekeping roti canai yang kini tersenarai sebagai Warisan Kebudayaan Tidak Ketara UNESCO."

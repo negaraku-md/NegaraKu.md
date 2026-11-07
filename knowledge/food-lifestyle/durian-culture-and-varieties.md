@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "Durian di Malaysia: Varieti, Musim dan Budaya Raja Buah"
 seoTitle: "Durian Malaysia — Musang King, D24, Black Thorn & Musim Durian"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "Durian yang dibelah menampakkan isinya yang keemasan dan lembut"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "Panduan kepada kultivar durian Malaysia — Musang King, D24 dan Black Thorn — kawasan penanaman, musim, adab membeli dan makan, serta kepentingan budaya dan eksportnya ke China."

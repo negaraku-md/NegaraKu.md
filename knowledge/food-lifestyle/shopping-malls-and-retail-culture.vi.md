@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "Trung tâm Thương mại & Văn hóa Bán lẻ ở Malaysia"
 seoTitle: "Trung tâm Thương mại & Văn hóa Bán lẻ Malaysia: Định dạng, Quy mô, Giá cả"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "Không gian nội thất nhiều tầng của trung tâm mua sắm Suria KLCC ở Kuala Lumpur"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "Các trung tâm thương mại lớn nhất của Malaysia tập trung ở Klang Valley, nhưng bán lẻ hằng ngày cũng chạy qua các cửa hàng khu phố và pasar ngoài trời — và giá trên nhãn đã bao gồm bất kỳ khoản thuế hàng hóa nào, vì Malaysia thu SST một giai đoạn, chứ không phải thuế tại quầy thanh toán."

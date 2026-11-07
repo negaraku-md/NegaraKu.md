@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "国家遺産およびユネスコ遺産としてのマレーシア料理"
 seoTitle: "マレーシアの国家遺産・ユネスコ遺産料理"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "サンバル、ゆで卵、フライドチキンを添えたナシレマ一皿"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "国家遺産局（JWN）によって国家遺産に指定されたマレーシア料理と、ユネスコに登録されたマレーシア料理について解説するリファレンスガイド——日付と認定機関を添えて。"

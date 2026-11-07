@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "มารยาทการรับประทานอาหาร ทิป และค่าบริการในมาเลเซีย"
 seoTitle: "ทิปและค่าบริการในมาเลเซีย: มีอะไรอยู่ในบิลของคุณ"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "ข้าวใบตองพร้อมข้าว แกงกะหรี่ และเครื่องเคียง"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "ในมาเลเซียไม่มีการคาดหวังทิป แต่ร้านอาหารระดับกลางถึงระดับสูงจะบวกภาษีบริการของรัฐ 6% และมักบวกค่าบริการแยกอีก 10% ต่างหาก นี่คือความหมายของแต่ละรายการและวิธีรับประทานอาหารอย่างคนท้องถิ่น"

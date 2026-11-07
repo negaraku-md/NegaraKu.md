@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "อาหารประจำภูมิภาคและชาติพันธุ์ของมาเลเซีย: เปอรานากัน กลันตัน ซาราวัก และอื่น ๆ"
 seoTitle: "อาหารประจำภูมิภาคและชาติพันธุ์ของมาเลเซีย: เปอรานากัน ชายฝั่งตะวันออก บอร์เนียว มามัก"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "ลักซา (laksa) ยอนย่าหนึ่งชาม ก๋วยเตี๋ยวน้ำสไตล์เปอรานากัน"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "คู่มือครอบคลุมเกี่ยวกับธรรมเนียมอาหารประจำภูมิภาคและชาติพันธุ์ของมาเลเซีย — เปอรานากัน/นอนยา ชายฝั่งตะวันออก ซาราวักและซาบาห์ มามัก และคริสตังยูเรเชียน — มองในฐานะครอบครัวของครัวที่หยิบยืมกันและกัน ไม่ใช่รายการที่จะนำมาจัดอันดับ"

@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "马来西亚的购物商场与零售文化"
 seoTitle: "马来西亚购物商场与零售文化：业态、规模、定价"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "吉隆坡 Suria KLCC 购物中心的多层室内空间"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "马来西亚最大的商场集中在巴生谷（Klang Valley），但日常零售也依托社区店屋（shoplot）和露天巴刹（pasar）——标价牌上的价格已经包含了任何商品税，因为马来西亚征收的是单阶段的销售与服务税（SST），而非结账时才加收的税。"

@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "Pusat Perbelanjaan & Budaya Ritel di Malaysia"
 seoTitle: "Pusat Perbelanjaan & Budaya Ritel Malaysia: Format, Ukuran, Harga"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "Interior bertingkat pusat perbelanjaan Suria KLCC di Kuala Lumpur"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "Pusat perbelanjaan terbesar Malaysia terpusat di Lembah Klang, tetapi ritel harian juga bergerak melalui kedai-kedai lingkungan dan pasar terbuka — dan harga pada label sudah termasuk pajak barang apa pun, karena Malaysia menerapkan SST satu tingkat, bukan pajak di kasir."

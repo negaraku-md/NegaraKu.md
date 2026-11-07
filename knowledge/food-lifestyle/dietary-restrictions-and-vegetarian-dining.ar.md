@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "القيود الغذائية وتناول الطعام النباتي/النباتي الصرف في ماليزيا"
 seoTitle: "الطعام الحلال والنباتي والنباتي الصرف في ماليزيا: دليل الزائر"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "طبق تالي هندي نباتي مع الأرز والبابادم وأطباق الخضار"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "كيف يتدبَّر الزوار والوافدون الجدد أمر الطعام الحلال وتجنُّب لحم البقر والممارسة النباتية البوذية/الطاوية في ماليزيا — وكيف يجدون طعامًا نباتيًا ونباتيًا صرفًا وآمنًا من مسبِّبات الحساسية يمكن الوثوق به."

@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "राष्ट्रीय विरासत और UNESCO विरासत के रूप में मलेशियाई भोजन"
 seoTitle: "मलेशिया के राष्ट्रीय और UNESCO विरासत खाद्य-पदार्थ"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "सांबल, उबले अंडे और तले हुए चिकन के साथ नासी लेमक की एक प्लेट"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "राष्ट्रीय विरासत विभाग द्वारा राष्ट्रीय विरासत घोषित मलेशियाई खाद्य-पदार्थों और UNESCO द्वारा अंकित खाद्य-पदार्थों की एक संदर्भ मार्गदर्शिका — तिथियों और मान्यता देने वाले निकायों सहित।"

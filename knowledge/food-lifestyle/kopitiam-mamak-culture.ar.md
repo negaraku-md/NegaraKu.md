@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "ثقافة الكوبيتيام والمامّاك: أماكن الطعام اليومية للماليزيين"
 seoTitle: "ثقافة الكوبيتيام والمامّاك في ماليزيا: التاريخ، وطريقة الطلب، واليونسكو"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "واجهة مقهى كوبيتيام هايناني تقليدي في ماليزيا"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "مقاهي الكوبيتيام الهاينانية، وأكشاك المامّاك العاملة على مدار 24 ساعة، وساحات الطعام هي أماكن الطعام الافتراضية والمؤسسات الاجتماعية في ماليزيا — كوب من teh tarik وقطعة roti canai صارا مُدرَجَين الآن على قائمة التراث الثقافي غير المادي لليونسكو."

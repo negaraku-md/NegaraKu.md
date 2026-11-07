@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "ตลาดนัดรอมฎอนและวัฒนธรรมอาหารตลอดเดือนถือศีลอด"
 seoTitle: "ตลาดนัดรอมฎอนมาเลเซีย: ใบอนุญาต อาหาร และมารยาทผู้มาเยือน"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "แผงร้านในตลาดบาซาร์รอมฎอนในมาเลเซีย"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "ตลาดนัดรอมฎอน (bazar Ramadan) คือตลาดอาหารตามฤดูกาลที่ปรากฏขึ้นทุกช่วงเย็นตลอดเดือนถือศีลอด เป็นประเพณีของพลเมืองที่ผู้คนหลากหลายเชื้อชาติร่วมเฉลิมฉลอง คู่มือนี้อธิบายวิธีที่มันได้รับใบอนุญาตและบริหารจัดการ อาหารที่จำหน่ายทั่วไป ตลอดจนมารยาทสำหรับผู้มาเยือนที่ไม่ได้ถือศีลอด"

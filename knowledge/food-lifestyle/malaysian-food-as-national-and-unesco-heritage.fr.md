@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "La cuisine malaisienne comme patrimoine national et patrimoine de l'UNESCO"
 seoTitle: "Les mets patrimoine national et patrimoine de l'UNESCO de la Malaisie"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "Une assiette de nasi lemak avec du sambal, un œuf dur et du poulet frit"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "Un guide de référence sur les mets malaisiens déclarés Patrimoine national par le Département du patrimoine national et ceux inscrits par l'UNESCO — avec les dates et les organismes qui les reconnaissent."

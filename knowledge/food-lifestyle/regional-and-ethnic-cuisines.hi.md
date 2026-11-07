@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "मलेशिया के क्षेत्रीय और जातीय व्यंजन: पेरानाकन, केलंतान, सारावाक और उससे आगे"
 seoTitle: "मलेशियाई क्षेत्रीय और जातीय व्यंजन: पेरानाकन, पूर्वी तट, बोर्नियो, ममक"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "न्योन्या लक्सा का एक कटोरा, एक पेरानाकन नूडल सूप"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "मलेशिया की क्षेत्रीय और जातीय पाक परंपराओं — पेरानाकन/न्योन्या, पूर्वी तट, सारावाक और साबाह, ममक, और यूरेशियन क्रिस्तांग — का एक व्यापक गाइड, जिन्हें रसोइयों के एक ऐसे परिवार के रूप में देखा गया है जो एक-दूसरे से उधार लेते हैं, न कि क्रमबद्ध की जाने वाली सूची के रूप में।"

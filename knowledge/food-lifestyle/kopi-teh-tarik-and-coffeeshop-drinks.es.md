@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "Kopi, teh tarik y la cultura de las bebidas de kopitiam"
 seoTitle: "Cómo leer un pedido en el kopitiam: kopi-O, kopi-C y teh tarik"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "Dos vasos de teh tarik espumoso, el té con leche estirado de Malasia"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "Una guía rápida para descifrar el código de los pedidos de bebidas en los kopitiam de Malasia — kopi-O, kopi-C, kosong, gao, peng y teh tarik — y el ritual social que hay detrás."

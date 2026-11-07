@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "மலேசியாவில் உணவுக் கட்டுப்பாடுகள் & சைவ/வீகன் உணவருந்தல்"
 seoTitle: "மலேசியாவில் ஹலால், சைவ & வீகன் உணவருந்தல்: ஒரு பார்வையாளர் வழிகாட்டி"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "சாதம், அப்பளம் மற்றும் காய்கறி உணவுகளுடன் ஒரு சைவ இந்திய தாளி"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "பார்வையாளர்களும் புதிதாக வருபவர்களும் மலேசியாவில் ஹலால், மாட்டிறைச்சியைத் தவிர்த்தல், மற்றும் பௌத்த/தாவோ சைவ முறையை எவ்வாறு கையாள்கிறார்கள் — மேலும் நம்பகமான சைவ, வீகன் மற்றும் ஒவ்வாமை (allergen) பற்றிய விழிப்புணர்வுள்ள உணவை எவ்வாறு கண்டறிவது."

@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "Cinema, Entertainment and Censorship Rules in Malaysia"
 seoTitle: "Malaysia Film Classification, Censorship & Entertainment Licences"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "Rows of red seats in a cinema auditorium"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "Every film screened for public viewing in Malaysia must first be approved by the Film Censorship Board (LPF) and given an age classification — U, P12, 13, 16 or 18 — while karaoke centres and entertainment premises are instead licensed by local authorities under their respective by-laws."

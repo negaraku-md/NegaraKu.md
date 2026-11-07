@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "Normas sobre cine, entretenimiento y censura en Malasia"
 seoTitle: "Clasificación de películas, censura y licencias de entretenimiento en Malasia"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "Filas de butacas rojas en una sala de cine"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "Toda película proyectada para visionado público en Malasia debe ser aprobada primero por la Junta de Censura Cinematográfica (LPF) y recibir una clasificación por edad — U, P12, 13, 16 o 18 — mientras que los centros de karaoke y los locales de entretenimiento son, en cambio, licenciados por las autoridades locales bajo sus respectivos reglamentos (by-laws)."

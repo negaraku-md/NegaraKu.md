@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "मलेशियाई त्योहारी व्यंजन: रमजान ईद, चीनी नववर्ष, दीपावली, क्रिसमस, गवाई और कामातान पर क्या परोसा जाता है"
 seoTitle: "रमजान ईद, चीनी नववर्ष, दीपावली, गवाई और कामातान के मलेशियाई त्योहारी व्यंजन"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "हरी राया के लिए रेंडांग, लेमांग, केतुपात और कुइह का उत्सवी भोजन"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "मलेशिया के हर बड़े त्योहार के अपने विशिष्ट व्यंजन हैं — हरि रया पर ketupat और rendang, चीनी नववर्ष पर yee sang, दीपावली पर murukku, और गवाई तथा कामातान पर चावल की शराब के साथ बाँस में पकाया भोजन। यह लेख हर उत्सव के प्रमुख व्यंजनों और उन्हें जोड़ने वाली खुले-घर (open house) की शिष्टता को एक साथ प्रस्तुत करता है।"

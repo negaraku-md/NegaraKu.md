@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "马来西亚的地方与族群菜系：娘惹、吉兰丹、砂拉越及其余"
 seoTitle: "马来西亚地方与族群菜系：娘惹、东海岸、婆罗洲、嘛嘛档"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "一碗娘惹叻沙，一种土生华人（Peranakan）面汤"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "全面介绍马来西亚的地方与族群烹饪传统——娘惹（Peranakan/Nyonya）、东海岸、砂拉越与沙巴、嘛嘛（Mamak）以及欧亚裔的克里斯坦（Kristang）菜系——将它们视为彼此借鉴、相互交融的厨房大家庭，而非用来排名的清单。"

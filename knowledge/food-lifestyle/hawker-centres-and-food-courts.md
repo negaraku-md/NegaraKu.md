@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "Hawker Centres and Food Courts: How Malaysians Eat Out"
 seoTitle: "Hawker Centres and Food Courts in Malaysia"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "Inside a Malaysian food court lined with hawker stalls"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Most Malaysians eat out at a handful of inexpensive, open-plan formats — the traditional Chinese kopitiam, the Indian-Muslim mamak, and the food court or medan selera, where many independent stalls share one seating area. This guide explains how the formats differ, how ordering and paying work, what the A/B/C hygiene grades mean, and how all of this differs from the pasar malam night market."

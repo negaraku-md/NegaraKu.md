@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "Malaysian Food as National Heritage and UNESCO Heritage"
 seoTitle: "Malaysia's National & UNESCO Heritage Foods"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "A plate of nasi lemak with sambal, a boiled egg and fried chicken"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "A reference guide to Malaysian foods declared National Heritage by the Department of National Heritage and those inscribed by UNESCO — complete with dates and the recognising bodies."

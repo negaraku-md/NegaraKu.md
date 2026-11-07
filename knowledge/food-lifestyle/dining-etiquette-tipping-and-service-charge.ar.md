@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "آداب المائدة والإكرامية ورسم الخدمة في ماليزيا"
 seoTitle: "الإكرامية ورسم الخدمة في ماليزيا: ما الذي يظهر على فاتورتك"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "وجبة أرز على ورق الموز مع الأرز والكاري والأطباق الجانبية"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "لا تُتوقَّع الإكرامية في ماليزيا. وبدلًا من ذلك، تضيف المطاعم المتوسطة والراقية ضريبة خدمة حكومية بنسبة 6% وكثيرًا ما تضيف رسم خدمة منفصلًا بنسبة 10% — وهنا معنى كل بند وكيف تأكل كأهل البلد."

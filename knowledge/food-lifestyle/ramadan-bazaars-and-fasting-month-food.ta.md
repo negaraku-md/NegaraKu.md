@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "ரமலான் பஜார்களும் நோன்பு மாத உணவுப் பண்பாடும்"
 seoTitle: "மலேசிய ரமலான் பஜார்: உரிமம், உணவுகள் மற்றும் பார்வையாளர் மரியாதை"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "மலேசியாவில் ஒரு ரமலான் பஜாரில் உள்ள கடைகள்"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "ரமலான் பஜார் என்பது நோன்பு மாதம் முழுவதும் ஒவ்வொரு பிற்பகலிலும் தோன்றும் பருவகால உணவுச் சந்தை; இது பல்வேறு இனத்தவரும் கொண்டாடும் ஒரு குடிமைப் பாரம்பரியம். இது எவ்வாறு உரிமம் வழங்கப்பட்டு நிர்வகிக்கப்படுகிறது, பொதுவாக விற்கப்படும் உணவுகள் என்ன, மேலும் நோன்பு இல்லாத பார்வையாளர்களுக்கான மரியாதை நடைமுறைகள் ஆகியவற்றை இந்த வழிகாட்டி விளக்குகிறது."

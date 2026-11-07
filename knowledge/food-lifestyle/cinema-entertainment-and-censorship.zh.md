@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "马来西亚的电影院、娱乐与审查制度"
 seoTitle: "马来西亚电影分级、审查与娱乐执照"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "电影院放映厅里一排排红色座椅"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "在马来西亚公开放映的每一部电影都必须先获得电影审查局（LPF）批准，并被赋予年龄分级——U、P12、13、16 或 18——而卡拉OK中心和娱乐场所则由地方政府依据各自的地方附例发放执照。"

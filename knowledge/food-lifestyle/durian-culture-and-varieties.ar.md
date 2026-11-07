@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "الدوريان في ماليزيا: الأصناف والموسم وثقافة ملك الفواكه"
 seoTitle: "دوريان ماليزيا — Musang King وD24 وBlack Thorn وموسم الدوريان"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "ثمرة دوريان مفتوحة تكشف عن لبّها الذهبي الكريمي"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "دليل إلى أصناف الدوريان في ماليزيا — Musang King وD24 وBlack Thorn — ومناطق زراعتها وموسمها وآداب شرائها وأكلها، وأهميتها الثقافية وتصديرها إلى الصين."

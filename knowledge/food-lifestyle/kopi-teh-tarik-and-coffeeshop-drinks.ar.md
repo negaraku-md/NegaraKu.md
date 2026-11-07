@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "القهوة وتيه تاريك وثقافة مشروبات الكوبيتيام"
 seoTitle: "كيف تقرأ طلب الكوبيتيام: Kopi-O وKopi-C وTeh Tarik"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "كوبان من التيه تاريك الرغوي، شاي الحليب المسحوب الماليزي"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "دليل سريع لفكّ شيفرة طلبات مشروبات الكوبيتيام الماليزية — kopi-O وkopi-C وkosong وgao وpeng وteh tarik — والطقس الاجتماعي الكامن وراءها."

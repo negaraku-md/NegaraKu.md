@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "マレーシアのドリアン：品種、季節、そして果物の王の文化"
 seoTitle: "マレーシアのドリアン — Musang King（貓山王）、D24、Black Thorn とドリアンの季節"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "クリーミーな黄金色の果肉が見える、割られたドリアン"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "マレーシアのドリアン栽培品種ガイド — Musang King（貓山王）、D24、Black Thorn — 栽培地域、季節、購入と食べ方のマナー、そして文化的意義と中国への輸出。"

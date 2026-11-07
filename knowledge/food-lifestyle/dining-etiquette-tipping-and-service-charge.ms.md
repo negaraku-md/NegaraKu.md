@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "Adab Makan, Tip & Caj Perkhidmatan di Malaysia"
 seoTitle: "Tip & Caj Perkhidmatan di Malaysia: Apa yang Ada pada Bil Anda"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "Hidangan nasi daun pisang dengan nasi, kari dan lauk-pauk"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Memberi tip tidak menjadi kebiasaan di Malaysia. Sebaliknya, restoran kelas sederhana dan mewah menambah cukai perkhidmatan kerajaan sebanyak 6% dan, selalunya, caj perkhidmatan berasingan sebanyak 10% — inilah maksud setiap baris dan cara makan seperti orang tempatan."

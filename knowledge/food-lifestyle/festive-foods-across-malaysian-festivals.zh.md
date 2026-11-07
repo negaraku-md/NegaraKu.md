@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "马来西亚节庆美食：开斋节、农历新年、屠妖节、圣诞节、丰收节与卡马丹节的桌上佳肴"
 seoTitle: "马来西亚节庆美食：横跨开斋节、农历新年、屠妖节、丰收节与卡马丹节"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "开斋节的节庆佳肴：仁当（rendang）、竹筒饭（lemang）、马来粽（ketupat）和糕点（kuih）"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "马来西亚每一个重大节庆都有它的标志美食——开斋节的马来粽（ketupat）与仁当（rendang），农历新年的鱼生（yee sang），屠妖节的木鲁古（murukku），以及丰收节与卡马丹节的竹筒料理与米酒（tuak）。本文汇集每个节庆的主打佳肴，以及把它们串联起来的开放门户（rumah terbuka）待客之道。"

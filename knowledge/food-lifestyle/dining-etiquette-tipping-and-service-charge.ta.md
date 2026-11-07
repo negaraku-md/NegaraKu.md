@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "மலேசியாவில் உணவருந்தும் பழக்கவழக்கம், டிப்ஸ் மற்றும் சேவைக் கட்டணம்"
 seoTitle: "மலேசியாவில் டிப்ஸ் மற்றும் சேவைக் கட்டணம்: உங்கள் பில்லில் என்ன இருக்கிறது"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "சாதம், கறிகள் மற்றும் பக்க உணவுகளுடன் ஒரு வாழை இலை சாப்பாடு"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "மலேசியாவில் டிப்ஸ் கொடுப்பது எதிர்பார்க்கப்படுவதில்லை. மாறாக, நடுத்தர மற்றும் உயர்தர உணவகங்கள் 6% அரசாங்க சேவை வரியையும், பெரும்பாலும், தனி 10% சேவைக் கட்டணத்தையும் சேர்க்கின்றன — ஒவ்வொரு வரியும் எதைக் குறிக்கிறது, உள்ளூர்வாசி போல் எப்படி உணவருந்துவது என்பதை இங்கே காணலாம்."

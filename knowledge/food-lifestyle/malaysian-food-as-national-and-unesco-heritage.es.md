@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "La comida malasia como Patrimonio Nacional y Patrimonio de la UNESCO"
 seoTitle: "Comidas Patrimonio Nacional y de la UNESCO de Malasia"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "Un plato de nasi lemak con sambal, un huevo cocido y pollo frito"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "Una guía de referencia sobre los alimentos malasios declarados Patrimonio Nacional por el Departamento de Patrimonio Nacional y aquellos inscritos por la UNESCO — con fechas y los organismos que los reconocen."

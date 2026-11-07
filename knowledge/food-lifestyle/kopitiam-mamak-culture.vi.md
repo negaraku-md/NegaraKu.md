@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "Văn hóa Kopitiam và Mamak: Nơi Ăn uống Hằng ngày của Người Malaysia"
 seoTitle: "Văn hóa Kopitiam & Mamak Malaysia: Lịch sử, Cách gọi món, UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "Mặt tiền một quán kopitiam kiểu Hải Nam truyền thống ở Malaysia"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "Kopitiam Hải Nam, quầy mamak 24 giờ và khu ẩm thực (medan selera) là không gian ăn uống mặc định và thể chế xã hội của Malaysia — một ly teh tarik và một chiếc roti canai nay đã được ghi vào Danh sách Di sản Văn hóa Phi vật thể của UNESCO."

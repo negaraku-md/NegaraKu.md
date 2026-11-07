@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "Ẩm thực Vùng miền và Sắc tộc của Malaysia: Peranakan, Kelantan, Sarawak và hơn thế nữa"
 seoTitle: "Ẩm thực Vùng miền & Sắc tộc Malaysia: Peranakan, Bờ Đông, Borneo, Mamak"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "Một tô laksa Nyonya, món bún nước của người Peranakan"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "Hướng dẫn toàn diện về các truyền thống ẩm thực vùng miền và sắc tộc của Malaysia — Peranakan/Nyonya, bờ đông, Sarawak và Sabah, Mamak cùng Kristang Á-Âu — được nhìn nhận như một gia đình các căn bếp vay mượn lẫn nhau, chứ không phải một danh sách để xếp hạng."

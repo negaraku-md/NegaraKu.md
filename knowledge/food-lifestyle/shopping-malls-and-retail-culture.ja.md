@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "マレーシアのショッピングモールと小売文化"
 seoTitle: "マレーシアのショッピングモールと小売文化：業態・規模・価格"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "クアラルンプールのスリアKLCCショッピングモールの多層構造の館内"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "マレーシア最大級のショッピングモールはクランバレー（Klang Valley）に集中しているが、日常の小売は近隣の店屋（shoplot）や露天のpasar（市場）でも行われている——そして値札の価格にはすでに商品税が含まれている。マレーシアが課しているのはレジでの追加課税ではなく、単一段階のSST（売上・サービス税）だからだ。"

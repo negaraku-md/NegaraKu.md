@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "مراكز الباعة وساحات الطعام: كيف يأكل الماليزيون في الخارج"
 seoTitle: "مراكز الباعة وساحات الطعام في ماليزيا"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "داخل مجمع طعام ماليزي تصطف فيه أكشاك الباعة"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "يأكل معظم الماليزيين في الخارج في عدد قليل من الصيغ الرخيصة ذات التصميم المفتوح — الـ kopitiam الصيني التقليدي، والـ mamak الهندي-المسلم، وساحة الطعام أو الـ medan selera، حيث تتشارك أكشاك مستقلة كثيرة منطقة جلوس واحدة. يشرح هذا الدليل كيف تختلف هذه الصيغ، وكيف يجري الطلب والدفع، وماذا تعني درجات النظافة A/B/C، وكيف يختلف كل ذلك عن سوق pasar malam الليلي."

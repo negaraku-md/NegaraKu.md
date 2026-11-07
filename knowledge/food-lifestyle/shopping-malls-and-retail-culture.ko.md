@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "말레이시아의 쇼핑몰과 소매 문화"
 seoTitle: "말레이시아 쇼핑몰과 소매 문화: 형태, 규모, 가격"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "쿠알라룸푸르의 수리아 KLCC 쇼핑몰 다층 내부"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "말레이시아의 대형 몰은 클랑밸리에 몰려 있지만, 일상 소매는 동네 상가 점포와 노천 파사르를 통해서도 이루어집니다 — 그리고 가격표의 값에는 이미 상품세가 포함되어 있는데, 말레이시아가 계산대 과세가 아니라 단일 단계 SST를 부과하기 때문입니다."

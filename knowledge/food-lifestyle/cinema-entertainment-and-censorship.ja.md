@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "マレーシアの映画館、娯楽と検閲規制"
 seoTitle: "マレーシアの映画区分・検閲と娯楽ライセンス"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "映画館の客席に並ぶ赤い座席の列"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "マレーシアで公開上映されるすべての映画は、まず映画検閲委員会（LPF）の承認を得たうえで、U、P12、13、16、18のいずれかの年齢区分を付与されなければならない。一方、カラオケセンターや娯楽施設は、地方自治体がそれぞれの附例に基づいて許可を発行する。"

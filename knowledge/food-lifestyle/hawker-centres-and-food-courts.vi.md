@@ -3,6 +3,11 @@ topicId: MY-FDL-0042
 title: "Trung tâm hàng rong và khu ẩm thực: Người Malaysia ăn ngoài như thế nào"
 seoTitle: "Trung tâm hàng rong và khu ẩm thực ở Malaysia"
 slug: "hawker-centres-and-food-courts"
+hero: "/media/food/hawker-centres-and-food-courts/hero.webp"
+heroAlt: "Bên trong một khu ẩm thực Malaysia với các quầy hàng rong san sát"
+heroCredit: "Chongkian / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Phần lớn người Malaysia ăn ngoài tại một số ít định dạng rẻ tiền, không gian mở — kopitiam kiểu Hoa truyền thống, mamak của người Ấn-Hồi, và khu ẩm thực hay medan selera, nơi nhiều quầy độc lập dùng chung một khu vực chỗ ngồi. Hướng dẫn này giải thích các định dạng khác nhau ra sao, việc gọi món và thanh toán diễn ra thế nào, các hạng vệ sinh A/B/C nghĩa là gì, và tất cả những điều này khác với pasar malam, chợ đêm, như thế nào."

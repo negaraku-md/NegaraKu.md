@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "கோபிதியாம் மற்றும் மாமாக் கலாசாரம்: மலேசியர்களின் அன்றாட உணவகங்கள்"
 seoTitle: "மலேசிய கோபிதியாம் & மாமாக் கலாசாரம்: வரலாறு, ஆர்டர் செய்யும் முறை, UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "மலேசியாவில் ஒரு பாரம்பரிய ஹைனானீஸ் கொப்பிதியம் கடையின் முகப்பு"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "ஹைனான் கோபிதியாம்கள், 24 மணி நேர மாமாக் கடைகள் மற்றும் உணவு அரங்குகள் (medan selera) என்பவை மலேசியாவின் இயல்பான உணவகங்களும் சமூக நிறுவனங்களும் ஆகும் — ஒரு கிளாஸ் தே தாரிக்கும் ஒரு துண்டு ரொட்டி சானாயும் இப்போது UNESCO-வின் தொடமுடியா பண்பாட்டு மரபுப் பட்டியலில் இடம்பெற்றுள்ளன."

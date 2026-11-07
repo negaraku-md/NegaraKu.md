@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "Etiqueta en la mesa, propinas y cargo por servicio en Malasia"
 seoTitle: "Propinas y cargo por servicio en Malasia: qué hay en tu cuenta"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "Una comida de arroz sobre hoja de plátano con arroz, curris y guarniciones"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "En Malasia no se esperan propinas. En cambio, los establecimientos de gama media y alta añaden un impuesto sobre servicios del 6% del gobierno y, a menudo, un cargo por servicio aparte del 10% — aquí se explica qué significa cada línea y cómo comer como un local."

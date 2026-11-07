@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "மலேசியப் பண்டிகை உணவுகள்: ஹரி ராயா, சீனப் புத்தாண்டு, தீபாவளி, கிறிஸ்துமஸ், காவாய் மற்றும் காமாட்டானில் பரிமாறப்படுவது என்ன"
 seoTitle: "மலேசியப் பண்டிகை உணவுகள் — ராயா, சீனப் புத்தாண்டு, தீபாவளி, காவாய் & காமாட்டான்"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "ஹரி ராயாவுக்கான ரெண்டாங், லெமாங், கெடுபட் மற்றும் குவெ கொண்ட பண்டிகை விருந்து"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "மலேசியாவின் ஒவ்வொரு பெரும் பண்டிகைக்கும் அதற்கே உரிய அடையாள உணவுகள் உண்டு — ஹரி ராயாவில் ketupat மற்றும் rendang, சீனப் புத்தாண்டில் yee sang, தீபாவளியில் முறுக்கு (murukku), மற்றும் காவாய் மற்றும் காமாட்டானில் மூங்கில் சமையலும் அரிசி மதுவும். இந்தக் கட்டுரை ஒவ்வொரு கொண்டாட்டத்தின் தலையாய உணவுகளையும், அவற்றை இணைக்கும் திறந்த வீட்டு (open house) பண்பாட்டையும் ஒன்றுசேர்க்கிறது."

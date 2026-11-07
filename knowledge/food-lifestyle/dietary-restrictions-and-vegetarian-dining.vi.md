@@ -3,6 +3,11 @@ topicId: MY-FDL-0003
 title: "Hạn chế Ăn uống & Ẩm thực Chay/Thuần chay ở Malaysia"
 seoTitle: "Ẩm thực Halal, Chay & Thuần chay ở Malaysia: Hướng dẫn cho Du khách"
 slug: "dietary-restrictions-and-vegetarian-dining"
+hero: "/media/food/dietary-restrictions-and-vegetarian-dining/hero.webp"
+heroAlt: "Một mâm thali Ấn Độ chay với cơm, papadum và các món rau"
+heroCredit: "Johor Haki / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Vegan_tali_Annalakshmi.JPG"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Cách du khách và người mới đến tìm hiểu về halal, việc tránh thịt bò, và tập tục ăn chay của Phật giáo/Đạo giáo ở Malaysia — cùng cách tìm thức ăn chay, thuần chay và có nhận thức về dị ứng mà bạn có thể tin tưởng."

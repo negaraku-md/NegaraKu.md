@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "โรงภาพยนตร์ ความบันเทิง และกฎการเซนเซอร์ในมาเลเซีย"
 seoTitle: "การจัดเรตภาพยนตร์ การเซนเซอร์ และใบอนุญาตความบันเทิงในมาเลเซีย"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "แถวที่นั่งสีแดงในโรงภาพยนตร์"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "ภาพยนตร์ทุกเรื่องที่ฉายเพื่อการรับชมสาธารณะในมาเลเซียต้องได้รับอนุมัติจากคณะกรรมการเซนเซอร์ภาพยนตร์ (LPF) ก่อน และได้รับการจัดเรตตามอายุ — U, P12, 13, 16 หรือ 18 — ขณะที่ศูนย์คาราโอเกะและสถานบันเทิงได้รับใบอนุญาตจากองค์กรปกครองส่วนท้องถิ่นตามข้อบัญญัติท้องถิ่นของแต่ละแห่ง"

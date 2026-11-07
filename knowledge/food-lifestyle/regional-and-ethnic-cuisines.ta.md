@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "மலேசியாவின் வட்டார மற்றும் இன உணவு வகைகள்: Peranakan, Kelantan, Sarawak மற்றும் பிற"
 seoTitle: "மலேசிய வட்டார & இன உணவு வகைகள்: Peranakan, கிழக்குக் கடற்கரை, Borneo, Mamak"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "ஒரு கிண்ணம் நோன்யா லக்சா, ஒரு பெரநாக்கன் நூடுல் சூப்"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "மலேசியாவின் வட்டார மற்றும் இன உணவு மரபுகள் குறித்த முழுமையான வழிகாட்டி — Peranakan/Nyonya, கிழக்குக் கடற்கரை, Sarawak மற்றும் Sabah, Mamak மேலும் Kristang யூரேசிய மரபு — இவற்றைத் தரவரிசைப்படுத்த வேண்டிய பட்டியலாக அல்லாமல், ஒன்றையொன்று கடன்வாங்கிக் கொள்ளும் ஒரு சமையலறை குடும்பமாகப் பார்க்கிறது."

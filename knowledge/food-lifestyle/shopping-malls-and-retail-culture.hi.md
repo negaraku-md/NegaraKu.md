@@ -3,6 +3,11 @@ topicId: MY-FDL-0015
 title: "मलेशिया में शॉपिंग मॉल और खुदरा संस्कृति"
 seoTitle: "मलेशिया शॉपिंग मॉल और खुदरा संस्कृति: स्वरूप, आकार, मूल्य-निर्धारण"
 slug: "shopping-malls-and-retail-culture"
+hero: "/media/food/shopping-malls-and-retail-culture/hero.webp"
+heroAlt: "कुआलालंपुर के सूरिया KLCC शॉपिंग मॉल का बहुमंज़िला आंतरिक हिस्सा"
+heroCredit: "Jorge Láscar / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18952839826).jpg"
 category: "food-lifestyle"
 subcategory: ["retail"]
 summary: "मलेशिया के सबसे बड़े मॉल क्लांग घाटी में केंद्रित हैं, पर रोज़मर्रा की खुदरा मोहल्ले की दुकानों और खुले पासार के ज़रिए भी चलती है — और टैग पर लिखी कीमत में कोई भी वस्तु-कर पहले से शामिल होता है, क्योंकि मलेशिया एकल-चरण SST वसूलता है, न कि चेकआउट पर कोई कर।"

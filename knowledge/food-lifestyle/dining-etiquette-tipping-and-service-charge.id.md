@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "Adab Makan, Tip & Biaya Layanan di Malaysia"
 seoTitle: "Tip & Biaya Layanan di Malaysia: Apa yang Ada pada Tagihan Anda"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "Hidangan nasi daun pisang dengan nasi, kari, dan lauk-pauk"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Memberi tip tidak menjadi kebiasaan di Malaysia. Sebaliknya, restoran kelas menengah dan mewah menambahkan pajak layanan pemerintah sebesar 6% dan, biasanya, biaya layanan terpisah sebesar 10% — inilah arti setiap baris dan cara makan seperti orang setempat."

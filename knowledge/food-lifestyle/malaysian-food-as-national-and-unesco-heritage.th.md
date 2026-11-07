@@ -3,6 +3,11 @@ topicId: MY-FDL-0010
 title: "อาหารมาเลเซียในฐานะมรดกแห่งชาติและมรดกของ UNESCO"
 seoTitle: "อาหารมรดกแห่งชาติและ UNESCO ของมาเลเซีย"
 slug: "malaysian-food-as-national-and-unesco-heritage"
+hero: "/media/food/malaysian-food-as-national-and-unesco-heritage/hero.webp"
+heroAlt: "จานนาซิเลอมัก (nasi lemak) พร้อมซัมบัล ไข่ต้ม และไก่ทอด"
+heroCredit: "Meandkancil2020 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak,_di_Lapangan_Terbang_Antarabangsa_Kuala_Lumpur_2_(KLIA_2).jpg"
 category: "food-lifestyle"
 subcategory: ["heritage"]
 summary: "คู่มืออ้างอิงเกี่ยวกับอาหารมาเลเซียที่ได้รับการประกาศเป็นมรดกแห่งชาติโดยกรมมรดกแห่งชาติ (Jabatan Warisan Negara) และที่ขึ้นทะเบียนกับ UNESCO ครบถ้วนด้วยวันที่และหน่วยงานที่ให้การรับรอง"

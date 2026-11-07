@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "कोपीतियाम और मामाक संस्कृति: मलेशियाइयों के रोज़मर्रा के भोजन-स्थल"
 seoTitle: "मलेशिया कोपीतियाम और मामाक संस्कृति: इतिहास, ऑर्डर देना, UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "मलेशिया में एक पारंपरिक हैनानी कोपितियम की दुकान का अगला हिस्सा"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "हैनानी कोपीतियाम, 24-घंटे के मामाक स्टॉल और फ़ूड कोर्ट मलेशिया के डिफ़ॉल्ट भोजन-स्थल और सामाजिक संस्थान हैं — एक गिलास teh tarik और एक टुकड़ा roti canai अब UNESCO की अमूर्त सांस्कृतिक विरासत सूची में अंकित हैं।"

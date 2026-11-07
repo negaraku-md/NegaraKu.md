@@ -3,6 +3,11 @@ topicId: MY-FDL-0004
 title: "Dining Etiquette, Tipping & Service Charge in Malaysia"
 seoTitle: "Tipping & Service Charge in Malaysia: What's on Your Bill"
 slug: "dining-etiquette-tipping-and-service-charge"
+hero: "/media/food/dining-etiquette-tipping-and-service-charge/hero.webp"
+heroAlt: "A banana-leaf rice meal with rice, curries and side dishes"
+heroCredit: "Misaochan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Banana_leaf_rice.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Tipping is not expected in Malaysia. Instead, mid-range and upscale eateries add a 6% government service tax and, often, a separate 10% service charge — here's what each line means and how to eat like a local."

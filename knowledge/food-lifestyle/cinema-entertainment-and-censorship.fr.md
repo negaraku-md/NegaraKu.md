@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "Règles sur le cinéma, le divertissement et la censure en Malaisie"
 seoTitle: "Classification des films, censure et licences de divertissement en Malaisie"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "Des rangées de sièges rouges dans une salle de cinéma"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "Tout film projeté en public en Malaisie doit d'abord être approuvé par la Commission de censure des films (LPF) et recevoir une classification par âge — U, P12, 13, 16 ou 18 — tandis que les centres de karaoké et les locaux de divertissement sont, eux, licenciés par les autorités locales au titre de leurs règlements (by-laws) respectifs."

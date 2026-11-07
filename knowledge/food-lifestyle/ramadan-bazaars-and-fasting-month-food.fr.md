@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "Les bazars du Ramadan et la culture gastronomique du mois de jeûne"
 seoTitle: "Bazars du Ramadan en Malaisie : licences, cuisine et étiquette du visiteur"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "Des étals dans un bazar du Ramadan en Malaisie"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "Les bazars du Ramadan sont des marchés gastronomiques saisonniers qui surgissent chaque après-midi tout au long du mois de jeûne, une tradition civique célébrée par toutes les communautés. Ce guide explique comment ils sont encadrés par des licences et gérés, les plats couramment vendus et l'étiquette destinée aux visiteurs qui ne jeûnent pas."

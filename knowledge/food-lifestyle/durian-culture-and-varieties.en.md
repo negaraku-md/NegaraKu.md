@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "Durian in Malaysia: Varieties, Season and the Culture of the King of Fruits"
 seoTitle: "Malaysian Durian — Musang King, D24, Black Thorn & the Durian Season"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "An opened durian showing its creamy golden flesh"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "A guide to Malaysia's durian cultivars — Musang King, D24 and Black Thorn — their growing regions, season, the etiquette of buying and eating them, and their cultural significance and export to China."

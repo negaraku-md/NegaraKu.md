@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "Los bazares de Ramadán y la cultura gastronómica del mes de ayuno"
 seoTitle: "Bazares de Ramadán en Malasia: licencias, comida y etiqueta del visitante"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "Puestos en un bazar de Ramadán en Malasia"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "Los bazares de Ramadán son mercados gastronómicos estacionales que brotan cada tarde durante todo el mes de ayuno, una tradición cívica celebrada por todas las comunidades. Esta guía explica cómo se otorgan sus licencias y se gestionan, los platos que suelen venderse y la etiqueta para los visitantes que no ayunan."

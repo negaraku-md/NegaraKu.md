@@ -3,6 +3,11 @@ topicId: MY-FDL-0008
 title: "โกปี๊ เตี๊ยะตาริก และวัฒนธรรมเครื่องดื่มในร้านโกปี๊เตี่ยม"
 seoTitle: "วิธีอ่านการสั่งในร้านโกปี๊เตี่ยม: โกปี๊-โอ โกปี๊-ซี และเตี๊ยะตาริก"
 slug: "kopi-teh-tarik-and-coffeeshop-drinks"
+hero: "/media/food/kopi-teh-tarik-and-coffeeshop-drinks/hero.webp"
+heroAlt: "ชาชักเตฮ์ตาริก (teh tarik) สองแก้วที่มีฟองนุ่ม ชานมชักของมาเลเซีย"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Teh_tarik_2.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "คู่มือฉบับย่อในการถอดรหัสการสั่งเครื่องดื่มในร้านโกปี๊เตี่ยม (kopitiam) ของมาเลเซีย — โกปี๊-โอ โกปี๊-ซี โกซง เกา เปง และเตี๊ยะตาริก (teh tarik) — พร้อมพิธีกรรมทางสังคมที่อยู่เบื้องหลัง"

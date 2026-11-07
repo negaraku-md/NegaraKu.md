@@ -3,6 +3,11 @@ topicId: MY-FDL-0013
 title: "रमज़ान बाज़ार और रोज़े के महीने की खाद्य संस्कृति"
 seoTitle: "मलेशिया के रमज़ान बाज़ार: लाइसेंसिंग, भोजन और आगंतुक शिष्टाचार"
 slug: "ramadan-bazaars-and-fasting-month-food"
+hero: "/media/food/ramadan-bazaars-and-fasting-month-food/hero.webp"
+heroAlt: "मलेशिया में एक रमज़ान बाज़ार के स्टॉल"
+heroCredit: "Leilafadzleen / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Bazaar_Ramadan_in_Dato_Keramat_(42273936581).jpg"
 category: "food-lifestyle"
 subcategory: ["ramadan"]
 summary: "रमज़ान बाज़ार मौसमी खाद्य बाज़ार हैं जो रोज़े के महीने भर हर दोपहर उग आते हैं, एक नागरिक परंपरा जिसे विभिन्न समुदाय मनाते हैं। यह गाइड समझाता है कि इन्हें कैसे लाइसेंस और प्रबंधित किया जाता है, आमतौर पर कौन-से व्यंजन बिकते हैं, और रोज़ा न रखने वाले आगंतुकों के लिए शिष्टाचार क्या है।"

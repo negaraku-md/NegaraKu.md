@@ -3,6 +3,11 @@ topicId: MY-FDL-0014
 title: "Las cocinas regionales y étnicas de Malasia: peranakan, kelantanesa, sarawakiana y más allá"
 seoTitle: "Cocinas regionales y étnicas de Malasia: peranakan, costa este, Borneo, mamak"
 slug: "regional-and-ethnic-cuisines"
+hero: "/media/food/regional-and-ethnic-cuisines/hero.webp"
+heroAlt: "Un tazón de laksa Nyonya, una sopa de fideos peranakan"
+heroCredit: "Bahnfrend / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Dinner,_Kuala_Lumpur_International_Airport,_2025_(01).jpg"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "Una guía completa de las tradiciones culinarias regionales y étnicas de Malasia — peranakan/nyonya, la costa este, Sarawak y Sabah, mamak y la euroasiática kristang — vistas como una familia de cocinas que se toman prestado unas de otras, no como una lista para clasificar."

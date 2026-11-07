@@ -3,6 +3,11 @@ topicId: MY-FDL-0005
 title: "Le durian en Malaisie : variétés, saison et la culture du roi des fruits"
 seoTitle: "Durian malaisien — Musang King, D24, Black Thorn et la saison du durian"
 slug: "durian-culture-and-varieties"
+hero: "/media/food/durian-culture-and-varieties/hero.webp"
+heroAlt: "Un durian ouvert laissant voir sa chair dorée et crémeuse"
+heroCredit: "Eye Steel Film / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Durian_-_The_Fruit_Hunters_-_Eye_Steel_Film.jpg"
 category: "food-lifestyle"
 subcategory: ["durian"]
 summary: "Un guide des cultivars de durian de la Malaisie — Musang King, D24 et Black Thorn — leurs régions de culture, leur saison, l'étiquette pour les acheter et les manger, ainsi que leur importance culturelle et leur exportation vers la Chine."

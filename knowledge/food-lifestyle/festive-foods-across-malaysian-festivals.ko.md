@@ -3,6 +3,11 @@ topicId: MY-FDL-0006
 title: "말레이시아 명절 음식: 하리 라야, 중국 설, 디파발리, 크리스마스, 가와이, 카아마탄의 식탁"
 seoTitle: "하리 라야·중국 설·디파발리·가와이·카아마탄을 아우르는 말레이시아 명절 음식"
 slug: "festive-foods-across-malaysian-festivals"
+hero: "/media/food/festive-foods-across-malaysian-festivals/hero.webp"
+heroAlt: "하리 라야를 위한 른당, 르망, 끄뚜빳, 꾸에의 명절 음식상"
+heroCredit: "Anarohana70 / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Contoh_jamuan_hari_raya.jpg"
 category: "food-lifestyle"
 subcategory: ["cuisine"]
 summary: "말레이시아의 모든 큰 명절에는 저마다의 상징 음식이 있습니다 — 하리 라야의 크투팟과 른당, 중국 설의 이상, 디파발리의 무루쿠, 가와이와 카아마탄의 대나무 요리와 투악. 이 글은 각 명절의 주요 음식과 이를 하나로 묶는 오픈하우스 관습을 모아 소개합니다."

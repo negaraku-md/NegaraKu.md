@@ -3,6 +3,11 @@ topicId: MY-FDL-0009
 title: "วัฒนธรรมโกปี๊เตี่ยมและมามัก: สถานที่รับประทานอาหารประจำวันของชาวมาเลเซีย"
 seoTitle: "วัฒนธรรมโกปี๊เตี่ยมและมามักมาเลเซีย: ประวัติ วิธีสั่ง UNESCO"
 slug: "kopitiam-mamak-culture"
+hero: "/media/food/kopitiam-mamak-culture/hero.webp"
+heroAlt: "หน้าร้านโกปี๊เตี๋ยม (kopitiam) ไหหลำแบบดั้งเดิมในมาเลเซีย"
+heroCredit: "Dominic Nelson / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Kluang_-_Hailam_Toast_kopitiam_May_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["kopitiam"]
 summary: "โกปี๊เตี่ยมไหหลำ แผงมามัก 24 ชั่วโมง และศูนย์อาหาร คือพื้นที่รับประทานอาหารโดยปริยายและสถาบันทางสังคมของมาเลเซีย เตี๊ยะตาริกหนึ่งแก้วและโรตีจาไนหนึ่งแผ่นที่ปัจจุบันขึ้นทะเบียนเป็นมรดกวัฒนธรรมที่จับต้องไม่ได้ของ UNESCO"

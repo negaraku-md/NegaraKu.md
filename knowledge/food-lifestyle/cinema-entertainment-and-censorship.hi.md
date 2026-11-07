@@ -3,6 +3,11 @@ topicId: MY-FDL-0002
 title: "मलेशिया में सिनेमा, मनोरंजन और सेंसरशिप के नियम"
 seoTitle: "मलेशिया फिल्म वर्गीकरण, सेंसरशिप और मनोरंजन लाइसेंस"
 slug: "cinema-entertainment-and-censorship"
+hero: "/media/food/cinema-entertainment-and-censorship/hero.webp"
+heroAlt: "सिनेमा हॉल में लाल सीटों की कतारें"
+heroCredit: "Joe Mabel / Wikimedia Commons"
+heroLicense: "CC BY-SA 3.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Columbia_City_Cinema_main_hall.jpg"
 category: "food-lifestyle"
 subcategory: ["hiburan"]
 summary: "मलेशिया में सार्वजनिक दर्शन के लिए प्रदर्शित प्रत्येक फिल्म को पहले Film Censorship Board (LPF) द्वारा स्वीकृत किया जाना चाहिए और एक आयु वर्गीकरण दिया जाना चाहिए — U, P12, 13, 16 या 18 — जबकि कराओके केंद्र और मनोरंजन परिसर इसके बजाय स्थानीय प्राधिकरणों द्वारा उनके संबंधित उप-नियमों के तहत लाइसेंस-प्राप्त होते हैं।"
