@@ -344,6 +344,7 @@ async function main() {
 
   const next = {};
   const wanted = new Set();
+  const failed = [];
   let made = 0, cached = 0;
   const CONC = 10;
   let batchNo = 0;
@@ -354,17 +355,27 @@ async function main() {
         wanted.add(key);
         const overdue = a.reviewDue ? new Date(a.reviewDue) < NOW : false;
         const hash = ogHash(a, overdue, tv);
-        next[key] = hash;
         const file = path.join(OUT_DIR, a.lang, a.category, `${a.slug}.png`);
         const thumb = path.join(OUT_DIR, a.lang, a.category, `${a.slug}.thumb.webp`);
         const pngOk = prev[key] === hash && existsSync(file);
         const thumbOk = existsSync(thumb);
-        if (pngOk && thumbOk) { cached++; return; } // both up to date
-        await mkdir(path.dirname(file), { recursive: true });
-        const svg = articleSvg(a);
-        if (!pngOk) await toPng(svg, file);          // social og:image (unchanged)
-        if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
-        made++;
+        if (pngOk && thumbOk) { next[key] = hash; cached++; return; } // both up to date
+        // Per-card fault tolerance: a single malformed SVG (libvips
+        // "svgload_buffer: SVG rendering failed") must NOT abort the whole batch
+        // and leave the rest of the corpus stale — skip that one card and keep
+        // going. We only record it as done (next[key]) once it actually renders,
+        // so a later run can retry it.
+        try {
+          await mkdir(path.dirname(file), { recursive: true });
+          const svg = articleSvg(a);
+          if (!pngOk) await toPng(svg, file);          // social og:image (unchanged)
+          if (!thumbOk || !pngOk) await toThumb(svg, thumb); // in-page card thumbnail
+          next[key] = hash;
+          made++;
+        } catch (e) {
+          failed.push(key);
+          console.warn(`[og] skip card ${key}: ${e.message}`);
+        }
       }),
     );
     // Resume checkpoint: persist the cache every ~20 batches so a mid-run SIGSEGV
@@ -385,9 +396,13 @@ async function main() {
   }
 
   await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next }));
-  console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned`);
+  console.log(`[og] default cards + ${made} regenerated, ${cached} cached, ${pruned} pruned, ${failed.length} skipped`);
+  if (failed.length) console.warn(`[og] skipped cards (${failed.length}): ${failed.slice(0, 30).join(', ')}${failed.length > 30 ? ' …' : ''}`);
 }
 
 main().catch((err) => {
-  console.warn('[og] skipped:', err.message);
+  // A genuine main() failure (not a per-card skip, which is caught above) exits
+  // non-zero so build-og-safe.mjs retries it (resuming from the checkpoint).
+  console.error('[og] build-og.mjs error:', err.message);
+  process.exit(1);
 });

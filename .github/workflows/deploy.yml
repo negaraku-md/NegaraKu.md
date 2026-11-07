@@ -218,6 +218,11 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v5
+        with:
+          # GitHub Pages' server-side "syncing_files" step can exceed the action's
+          # default 10-min client timeout on a large site (~17k pages), which aborts
+          # an otherwise-healthy deploy. Give it 30 min of headroom.
+          timeout: 1800000
 
       # Pages are now edge-cached by the analytics Worker (10-min TTL), so purge
       # Cloudflare's cache after each deploy to make the new build live at once
