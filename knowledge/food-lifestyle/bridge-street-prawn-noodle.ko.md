@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0058"
 title: "Bridge Street Prawn Noodle: 페낭 조지타운"
 slug: "bridge-street-prawn-noodle"
+hero: "/media/food/bridge-street-prawn-noodle/hero.webp"
+heroAlt: "페낭 프론 미(하 미) 한 그릇 — 이 요리의 대표 이미지"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Har_Mee_Sold_in_Parit_Buntar.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0042
 title: "‏Green House Prawn Mee and Loh Mee: كشك النودلز الحائز على Bib Gourmand في Penang"
 seoTitle: "‏Green House Prawn Mee & Loh Mee — Penang"
 slug: "green-house-prawn-mee-and-loh-mee"
+hero: "/media/food/green-house-prawn-mee-and-loh-mee/hero.webp"
+heroAlt: "وعاء من معكرونة الروبيان (هاي مي) — صورة تمثيلية للطبق"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hae_mee_prawn_noodle_sg.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"

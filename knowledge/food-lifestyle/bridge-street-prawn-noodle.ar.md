@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0058"
 title: "Bridge Street Prawn Noodle: جورج تاون، بينانغ"
 slug: "bridge-street-prawn-noodle"
+hero: "/media/food/bridge-street-prawn-noodle/hero.webp"
+heroAlt: "وعاء من معكرونة الروبيان البينانجية (هار مي) — صورة تمثيلية للطبق"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Har_Mee_Sold_in_Parit_Buntar.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ar"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0063
 title: "Ghee Lian: Bib Gourmand Penang"
 slug: "ghee-lian"
+hero: "/media/food/ghee-lian/hero.webp"
+heroAlt: "Mì nước tom yum với tôm — hình ảnh đại diện của món ăn"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tom_Yum_Goong_Noodle_Soup_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "vi"

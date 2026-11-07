@@ -2,6 +2,11 @@
 topicId: MY-MICH-0062
 title: "Bee Hwa Cafe: 페낭 빕 구르망"
 slug: "bee-hwa-cafe"
+hero: "/media/food/bee-hwa-cafe/hero.webp"
+heroAlt: "차 궤 테오, 웍에 볶은 넓적한 쌀국수 — 이 요리의 대표 이미지"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"

@@ -2,6 +2,11 @@
 topicId: MY-MICH-0062
 title: "Bee Hwa Cafe: पेनांग बिब गुरमों"
 slug: "bee-hwa-cafe"
+hero: "/media/food/bee-hwa-cafe/hero.webp"
+heroAlt: "चार क्वे तियाओ, कड़ाही में तली चपटी चावल नूडल्स — इस व्यंजन की प्रतिनिधि छवि"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

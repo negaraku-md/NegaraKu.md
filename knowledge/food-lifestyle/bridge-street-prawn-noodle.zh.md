@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0058"
 title: "Bridge Street Prawn Noodle：槟城乔治市"
 slug: "bridge-street-prawn-noodle"
+hero: "/media/food/bridge-street-prawn-noodle/hero.webp"
+heroAlt: "一碗槟城虾面（har mee）——此菜肴的代表性图片"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Har_Mee_Sold_in_Parit_Buntar.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"

@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0058"
 title: "Bridge Street Prawn Noodle: George Town, Penang"
 slug: "bridge-street-prawn-noodle"
+hero: "/media/food/bridge-street-prawn-noodle/hero.webp"
+heroAlt: "Semangkuk mi udang Penang (har mee) — gambar representatif dari hidangan ini"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Har_Mee_Sold_in_Parit_Buntar.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0042
 title: "Green House Prawn Mee and Loh Mee: Penang का Bib Gourmand नूडल स्टॉल"
 seoTitle: "Green House Prawn Mee & Loh Mee — Penang"
 slug: "green-house-prawn-mee-and-loh-mee"
+hero: "/media/food/green-house-prawn-mee-and-loh-mee/hero.webp"
+heroAlt: "प्रॉन मी (हाए मी) का एक कटोरा — इस व्यंजन की प्रतिनिधि छवि"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hae_mee_prawn_noodle_sg.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0042
 title: "Green House Prawn Mee and Loh Mee: 페낭의 Bib Gourmand 국수 노점"
 seoTitle: "Green House Prawn Mee & Loh Mee — 페낭"
 slug: "green-house-prawn-mee-and-loh-mee"
+hero: "/media/food/green-house-prawn-mee-and-loh-mee/hero.webp"
+heroAlt: "프론 미(해 미) 한 그릇 — 이 요리의 대표 이미지"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hae_mee_prawn_noodle_sg.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"

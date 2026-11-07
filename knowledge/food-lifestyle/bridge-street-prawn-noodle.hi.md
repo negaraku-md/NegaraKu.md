@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0058"
 title: "Bridge Street Prawn Noodle: जॉर्ज टाउन, पेनांग"
 slug: "bridge-street-prawn-noodle"
+hero: "/media/food/bridge-street-prawn-noodle/hero.webp"
+heroAlt: "पिनांग प्रॉन मी (हार मी) का एक कटोरा — इस व्यंजन की प्रतिनिधि छवि"
+heroCredit: "brown_colour / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Penang_Har_Mee_Sold_in_Parit_Buntar.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

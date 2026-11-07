@@ -2,6 +2,11 @@
 topicId: MY-MICH-0062
 title: "Bee Hwa Cafe: Bib Gourmand Penang"
 slug: "bee-hwa-cafe"
+hero: "/media/food/bee-hwa-cafe/hero.webp"
+heroAlt: "Char kway teow, mi beras pipih yang digoreng wajan — gambar representatif dari hidangan ini"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "id"

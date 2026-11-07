@@ -3,6 +3,11 @@ topicId: MY-MICH-0042
 title: "Green House Prawn Mee and Loh Mee：ペナンのBib Gourmand麺台"
 seoTitle: "Green House Prawn Mee & Loh Mee — ペナン"
 slug: "green-house-prawn-mee-and-loh-mee"
+hero: "/media/food/green-house-prawn-mee-and-loh-mee/hero.webp"
+heroAlt: "プラウンミー（ハエミー）一杯 — この料理の代表的な画像"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hae_mee_prawn_noodle_sg.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ja"

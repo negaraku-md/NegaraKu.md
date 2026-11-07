@@ -3,6 +3,11 @@ topicId: MY-MICH-0042
 title: "Green House Prawn Mee and Loh Mee: แผงก๋วยเตี๋ยว Bib Gourmand แห่ง Penang"
 seoTitle: "Green House Prawn Mee & Loh Mee — Penang"
 slug: "green-house-prawn-mee-and-loh-mee"
+hero: "/media/food/green-house-prawn-mee-and-loh-mee/hero.webp"
+heroAlt: "ก๋วยเตี๋ยวกุ้ง (แฮมี) หนึ่งชาม — ภาพตัวแทนของเมนูนี้"
+heroCredit: "Chensiyuan / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Hae_mee_prawn_noodle_sg.JPG"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

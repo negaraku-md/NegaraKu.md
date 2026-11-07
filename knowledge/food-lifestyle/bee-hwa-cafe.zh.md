@@ -2,6 +2,11 @@
 topicId: MY-MICH-0062
 title: "Bee Hwa Cafe：槟城 Bib Gourmand"
 slug: "bee-hwa-cafe"
+hero: "/media/food/bee-hwa-cafe/hero.webp"
+heroAlt: "炒粿条，镬气十足的河粉——此菜肴的代表性图片"
+heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "zh"

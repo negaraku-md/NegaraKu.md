@@ -2,6 +2,11 @@
 topicId: MY-MICH-0063
 title: "Ghee Lian: 페낭 빕 구르망"
 slug: "ghee-lian"
+hero: "/media/food/ghee-lian/hero.webp"
+heroAlt: "새우를 넣은 똠얌 국수 — 이 요리의 대표 이미지"
+heroCredit: "Andy Li / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Tom_Yum_Goong_Noodle_Soup_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"
