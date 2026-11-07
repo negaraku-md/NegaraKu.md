@@ -162,6 +162,15 @@ function wrapText(text, { maxLatin, maxCjk, maxLines }) {
 function articleSvg(a) {
   const lang = a.lang;
   const cjkTitle = /[㐀-鿿一-龥]/.test(a.title || '');
+  // Lead the SUMMARY font stack with the article's own script font. The generic
+  // fallback chain (Lato → … → Noto CJK) resolved the normal-weight (400) CJK
+  // summary UNRELIABLY — under concurrent rendering some cards came out as tofu
+  // boxes while the bold title/chips/breadcrumb were always fine. Noto's
+  // per-script fonts cover Latin + digits too, so a mixed CJK+Latin summary
+  // renders entirely from one font with NO fallback (deterministic). Latin
+  // languages keep the Lato stack unchanged.
+  const SCRIPT_FONT = { zh: "'Noto Sans CJK SC'", ja: "'Noto Sans CJK JP'", ko: "'Noto Sans CJK KR'", ta: "'Noto Sans Tamil'", th: "'Noto Sans Thai'", ar: "'Noto Naskh Arabic'", hi: "'Noto Sans Devanagari'" };
+  const bodyFont = (SCRIPT_FONT[lang] ? SCRIPT_FONT[lang] + ', ' : '') + BODY_FONT;
   const pillarId = CAT_PILLAR[a.category];
   // Breadcrumb: pillar / category / subcategory — localized from the real taxonomy.
   const crumb = [
@@ -227,7 +236,7 @@ function articleSvg(a) {
   <text x="${EDGE}" y="108" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="24" font-weight="600" fill="#FFC000">${esc(crumb)}</text>
   ${chips.join('\n  ')}
   <text x="${EDGE}" y="${tStart}" text-anchor="${ANCHOR}" font-family="${TITLE_FONT}" font-size="${cjkTitle ? 52 : 50}" font-weight="800" fill="#F4F4F8">${tSpans}</text>
-  <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${BODY_FONT}" font-size="25" font-weight="400" fill="#9A9AB8">${sSpans}</text>
+  <text x="${EDGE}" y="${sStart}" text-anchor="${ANCHOR}" font-family="${bodyFont}" font-size="25" font-weight="400" fill="#9A9AB8">${sSpans}</text>
   ${badge(RX, 70, 78)}
   <text x="${RX}" y="150" text-anchor="middle" font-family="${TITLE_FONT}" font-size="27" font-weight="700" fill="#F4F4F8">NegaraKu<tspan fill="#FFC000">.md</tspan></text>
   <text x="${RX}" y="174" text-anchor="middle" font-family="${BODY_FONT}" font-size="15" font-weight="700" letter-spacing="1.5" fill="#C0C0D0">${L(lang, 'Terokai Malaysia, mesra AI', 'Explore Malaysia, AI-friendly', '探索马来西亚，对 AI 友好', 'மலேசியாவை ஆராயுங்கள், AI-நட்பு', 'マレーシアを探索、AIフレンドリー', '말레이시아 탐색, AI 친화적', 'สำรวจมาเลเซีย เป็นมิตรกับ AI', 'Khám phá Malaysia, thân thiện với AI', 'Jelajahi Malaysia, ramah AI', 'استكشف ماليزيا، صديقة لـ AI', 'मलेशिया को एक्सप्लोर करें, AI-अनुकूल', 'Explora Malasia, compatible con la IA', "Explorez la Malaisie, adaptée à l'IA")}</text>
