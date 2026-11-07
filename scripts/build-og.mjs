@@ -277,6 +277,16 @@ async function main() {
     console.warn('[og] sharp not installed — wrote default.svg only. `npm i -D sharp` to enable PNG.');
     return;
   }
+  // A FULL regenerate renders ~14k SVGs through librvsg/libvips in one process.
+  // libvips' native memory (OUTSIDE the V8 heap) accumulates across renders and,
+  // at that volume with high concurrency, can SIGSEGV the process mid-run — which
+  // is why a `tv` bump (force-regen) could crash where incremental builds never
+  // do. Disabling the libvips operation cache and pinning its threads keeps the
+  // native footprint flat; paired with the per-batch cache persistence below and
+  // the retry loop in build-og-safe.mjs, a full regen completes (resuming across
+  // retries) instead of dying with a whole corpus of stale cards.
+  sharp.cache(false);
+  sharp.concurrency(1);
   // Palette (indexed) PNG at high quality: OG cards are a flat brand palette +
   // gold text + faint watermark, so quantisation cuts ~65% of bytes with no
   // visible loss — and stays PNG (safe as an og:image for every platform).
@@ -326,7 +336,8 @@ async function main() {
   const next = {};
   const wanted = new Set();
   let made = 0, cached = 0;
-  const CONC = 24;
+  const CONC = 10;
+  let batchNo = 0;
   for (let i = 0; i < items.length; i += CONC) {
     await Promise.all(
       items.slice(i, i + CONC).map(async (a) => {
@@ -347,6 +358,12 @@ async function main() {
         made++;
       }),
     );
+    // Resume checkpoint: persist the cache every ~20 batches so a mid-run SIGSEGV
+    // doesn't throw away the work. build-og-safe.mjs reruns us; the hash check
+    // then skips everything already rendered and we continue where we left off.
+    if (++batchNo % 20 === 0) {
+      try { await writeFile(CACHE_FILE, JSON.stringify({ version: tv, images: next })); } catch { /* best-effort */ }
+    }
   }
 
   // Prune cards for articles that no longer exist (keep the default cards).
