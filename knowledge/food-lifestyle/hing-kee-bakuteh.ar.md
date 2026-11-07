@@ -37,7 +37,7 @@ faq:
 lang: "ar"
 sourceContentHash: "79f762063c488481"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true

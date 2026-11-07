@@ -102,6 +102,17 @@ const placeSchema = z.object({
   reviewSummary: z.string().optional(),
   /** Where to read the live reviews (Google/Facebook). Language-neutral. */
   reviewsUrl: z.string().url().optional(),
+  /** Short clarifier shown right under `hours`: lunch availability, and that a
+   *  post-midnight close (e.g. "02:30") is the NEXT day. LOCALISED per file, e.g.
+   *  "For lunch, go Tue/Wed; other days open mid-afternoon. 02:30 = next day." */
+  hoursNote: z.string().optional(),
+  /** Accurate payment line, sourced not guessed, e.g. "No credit cards; cash & QR
+   *  — confirm with the venue". When set it REPLACES the generic "Cash only" chip
+   *  so the card never overstates what the source actually says. LOCALISED per file. */
+  payment: z.string().optional(),
+  /** When the practical details (hours, payment, prices) were last verified, e.g.
+   *  "2026-11". Shown as a muted "confirm before visiting" stamp. Language-neutral. */
+  checkedAsOf: z.string().optional(),
 });
 
 const knowledge = defineCollection({

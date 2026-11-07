@@ -1,6 +1,6 @@
 ---
 topicId: MY-MICH-0031
-title: "Hing Kee Bakuteh: Bib Gourmand Bak Kut Teh on Jalan Kepong"
+title: "Hing Kee Bakuteh: mild herbal soup or a richer dry bak kut teh, Kepong"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
 hero: "/media/food/hing-kee-bakuteh/hero.webp"
@@ -10,20 +10,20 @@ heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
-summary: "Hing Kee Bakuteh is a MICHELIN Bib Gourmand bak kut teh house at 121 Jalan Kepong in Kuala Lumpur. It serves both the classic mild herbal soup and a richer dry version, spread across four shophouses that fill up at lunch. This profile covers what it is, its signature dishes, where to find it and how to visit."
+summary: "Hing Kee Bakuteh is a bak kut teh specialist on Jalan Kepong in Kepong, Kuala Lumpur. First time? Order the soup version for a milder, lightly sweet herbal pork-rib broth, or the dry version for a richer, thicker, spicier claypot. It serves pork (non-halal), spreads across four shophouses and is busiest at lunch — and it carries a MICHELIN Bib Gourmand. This profile covers what to order, where to find it and how to visit."
 
 tier: "3"
 mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Hing Kee Bakuteh is a bak kut teh specialist at 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur, listed in the MICHELIN Guide with a Bib Gourmand — the inspectors' mark for good quality at good value. It serves a characteristically mild herbal pork-rib soup alongside a richer, thicker dry version, and spreads across four shophouses that are especially busy at lunch."
+answer: "Hing Kee Bakuteh is a bak kut teh specialist at 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur. Order the soup version for a characteristically mild, lightly sweet herbal pork-rib broth, or the dry version for a richer, thicker, spicier claypot. It occupies four shophouses with plenty of seating and is especially busy at lunch; it serves pork and is non-halal. The MICHELIN Guide lists it as a Bib Gourmand — good quality at good value."
 keyTakeaways:
-  - "Hing Kee Bakuteh holds a MICHELIN Bib Gourmand, the Guide's award for good food at good value."
-  - "Its soup bak kut teh has a characteristically mild flavour; the dry version is richer and thicker."
-  - "It sits at 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur, 52100."
-  - "The restaurant occupies four shophouses along the boulevard, giving it plenty of seating, and is especially popular at lunch."
-  - "MICHELIN lists it in the budget ($) price tier and categorises the cooking as Malaysian."
+  - "Two styles: the soup bak kut teh is mild and lightly sweet; the dry version is richer, thicker and spicier."
+  - "First time? Want it milder — order the soup; want it rich and can take heat — order the dry."
+  - "It sits at 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur, 52100; it serves pork and is non-halal."
+  - "Four shophouses along the boulevard give it plenty of seating; it is especially busy at lunch."
+  - "Listed in the MICHELIN Guide as a Bib Gourmand — good food at good value; budget ($) tier."
 appliesTo: "Travellers and food lovers looking for a MICHELIN Bib Gourmand bak kut teh in Kuala Lumpur."
 
 faq:
@@ -58,7 +58,10 @@ place:
   halal: "contains-pork"
   service: ["dine-in"]
   cashOnly: true
-  mustOrder: "Herbal bak kut teh soup (mild, lightly sweet pork-rib broth); dry/spicy bak kut teh for a richer, thicker version"
+  payment: "No credit cards; cash — confirm QR / e-wallet with the shop"
+  mustOrder: "Want it milder? The soup bak kut teh (lightly sweet herbal pork-rib broth). Want it richer and can take heat? The dry/spicy version"
+  hoursNote: "For lunch, go Tue or Wed (opens 11:00); Thu–Sun it opens mid-afternoon. The 02:30 close is the next morning; closed Mondays."
+  checkedAsOf: "2026-11"
   reviewSummary: "A long-popular Kepong bak kut teh spot recognised in the MICHELIN Guide as a Bib Gourmand, spread across several shophouses along Jalan Kepong with ample seating and especially busy at lunch. Known for a herbal, mildly sweet pork-rib soup alongside a thicker, spicier dry version."
   phone: "+60 12-523 3599"
 sources:
@@ -89,11 +92,12 @@ verificationNeeded:
   - "Opening hours: the MICHELIN page lists unusually late hours (into the early morning) that vary by day and are frequently closed Mondays — confirm current hours directly with the restaurant, as they change."
 ---
 
-Order bak kut teh in Kuala Lumpur and you are tapping into what many Malaysians
-treat as soul food — a herbal pork-rib soup simmered until the aromatics and the
-meat fuse. Hing Kee Bakuteh, on Jalan Kepong, is one of the city's reliably good
-versions, and the MICHELIN Guide agrees: it carries a **Bib Gourmand**, the
-inspectors' mark for good quality at a kind price.
+Hing Kee Bakuteh, on Jalan Kepong in Kepong, is a long-running bak kut teh
+specialist — the herbal pork-rib soup many Malaysians treat as soul food. First
+time, the choice is simple: order the **soup** version for a milder, lightly
+sweet broth, or the **dry** version for a richer, thicker, spicier claypot. It
+serves pork and is non-halal. The MICHELIN Guide lists it as a **Bib Gourmand**,
+its mark for good quality at a kind price.
 
 ## A Bib Gourmand bak kut teh house
 

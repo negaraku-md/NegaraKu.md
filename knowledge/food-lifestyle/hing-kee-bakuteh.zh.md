@@ -1,6 +1,6 @@
 ---
 topicId: MY-MICH-0031
-title: "Hing Kee Bakuteh：位于 Jalan Kepong 的 Bib Gourmand bak kut teh"
+title: "甲洞兴记肉骨茶（Hing Kee Bakuteh）：汤版清甜，干版浓辣"
 seoTitle: "Hing Kee Bakuteh"
 slug: "hing-kee-bakuteh"
 hero: "/media/food/hing-kee-bakuteh/hero.webp"
@@ -10,20 +10,20 @@ heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
-summary: "Hing Kee Bakuteh 是位于吉隆坡 121 Jalan Kepong 的一家 MICHELIN Bib Gourmand bak kut teh 餐馆。它既供应经典温润的药材汤底，也供应一款更浓郁的干式版本，分布在四间店屋之间，午餐时段座无虚席。本篇介绍这是什么、招牌菜式、地点，以及如何前往。"
+summary: "兴记肉骨茶（Hing Kee Bakuteh）是吉隆坡甲洞 Jalan Kepong 的一家肉骨茶专卖店。第一次来，想喝汤就点汤版（药材味较淡、汤头带点甜），想吃浓味、能吃辣就点干版（更浓稠、更辣）。店内供应猪肉，属非清真餐厅，分布在四间店屋之间，午餐时段尤其繁忙，并获 MICHELIN 必比登推介。本篇介绍该点什么、在哪里以及如何前往。"
 
 tier: "3"
 mode: "narrative"
 contentType: "place"
 sensitivity: "none"
 
-answer: "Hing Kee Bakuteh 是位于吉隆坡 Taman Usahawan 121 Jalan Kepong 的一家 bak kut teh 专卖店，列入 MICHELIN Guide 并获得 Bib Gourmand——评审颁予物有所值之优质作品的标志。它供应一款风味独特温润的药材排骨汤，以及一款更浓郁、更稠厚的干式版本，店面分布在四间店屋之间，午餐时段尤其繁忙。"
+answer: "兴记肉骨茶（Hing Kee Bakuteh）是吉隆坡 Taman Usahawan 121 Jalan Kepong 的一家肉骨茶专卖店。想喝汤就点汤版，药材味较淡、汤头带点甜；想吃浓味、能吃辣就点干版，更浓稠、更辛辣。店面分布在四间店屋之间，座位充裕，午餐时段尤其繁忙；店内供应猪肉，属非清真餐厅。MICHELIN 指南将它列为必比登推介（Bib Gourmand）——物有所值的优质美食。"
 keyTakeaways:
-  - "Hing Kee Bakuteh 持有 MICHELIN Bib Gourmand，这是指南颁予物有所值之优质美食的奖项。"
-  - "它的 bak kut teh 汤底风味独特温润；干式版本则更浓郁、更稠厚。"
-  - "它位于吉隆坡 Taman Usahawan 121 Jalan Kepong，邮区 52100。"
-  - "餐馆沿着林荫大道占据四间店屋，座位充裕，午餐时段尤其受欢迎。"
-  - "MICHELIN 将它列入经济（$）价位级别，并将其烹饪归类为马来西亚菜。"
+  - "两种口味：汤版肉骨茶清淡带微甜；干版更浓稠、更辛辣。"
+  - "第一次来？想清淡就点汤版；想浓味、能吃辣就点干版。"
+  - "位于吉隆坡 Taman Usahawan 121 Jalan Kepong，邮区 52100；店内供应猪肉，属非清真。"
+  - "沿林荫大道占据四间店屋，座位充裕，午餐时段尤其繁忙。"
+  - "获 MICHELIN 指南列为必比登推介（Bib Gourmand）——物有所值的优质美食；经济（$）价位。"
 appliesTo: "在吉隆坡寻找 MICHELIN Bib Gourmand bak kut teh 的旅客与美食爱好者。"
 
 faq:
@@ -37,7 +37,7 @@ faq:
 lang: "zh"
 sourceContentHash: "79f762063c488481"
 masterLanguage: "en"
-translationStatus: "in-sync"
+translationStatus: "stale"
 
 status: "published"
 aiAssisted: true
@@ -59,7 +59,10 @@ place:
   halal: "contains-pork"
   service: ["dine-in"]
   cashOnly: true
-  mustOrder: "药材 bak kut teh 汤（清淡、带微甜的猪肋排汤）；干式／辣味 bak kut teh，口感更浓郁厚实"
+  payment: "不收信用卡；可付现金——二维码／电子钱包请向店家确认"
+  mustOrder: "想清淡？点汤版肉骨茶（带微甜的药材猪肋排汤）。想浓味、能吃辣？点干式／辣味版本。"
+  hoursNote: "想吃午餐，请安排周二或周三（11:00 开门）；周四至周日下午才开门。02:30 指翌日凌晨；周一休息。"
+  checkedAsOf: "2026-11"
   reviewSummary: "位于甲洞、长期广受欢迎的 bak kut teh 老店，获 MICHELIN 指南评为必比登推介（Bib Gourmand），沿着 Jalan Kepong 占据数间店屋，座位充裕，午餐时段尤其热闹。以清淡微甜的药材猪肋排汤著称，另有口感更浓稠、更辛辣的干式版本。"
   phone: "+60 12-523 3599"
 sources:
@@ -90,10 +93,11 @@ verificationNeeded:
   - "营业时间：MICHELIN 页面列出异常晚的营业时间（直至凌晨），且因日而异，并经常于周一休息——请直接向餐馆确认当前时间，因为它会变动。"
 ---
 
-在吉隆坡点一碗 bak kut teh，你便接通了许多马来西亚人视为心灵食粮的味道——一款
-药材排骨汤，慢炖至香料与肉质交融。位于 Jalan Kepong 的 Hing Kee Bakuteh 是这座
-城市里稳定出色的版本之一，MICHELIN Guide 也认同这一点：它持有 **Bib Gourmand**，
-评审颁予优质而价格亲民之作的标志。
+兴记肉骨茶（Hing Kee Bakuteh）位于吉隆坡甲洞 Jalan Kepong，是一家历史悠久的肉骨茶
+专卖店——这款药材排骨汤，许多马来西亚人视为心灵食粮。第一次来，选择很简单：想喝汤就点
+**汤版**，药材味较淡、汤头带点甜；喜欢浓味、能吃辣就点 **干版**，更浓稠、更辛辣。店内
+供应猪肉，属非清真餐厅。MICHELIN 指南将它列为 **必比登推介（Bib Gourmand）**，即物有
+所值的优质美食。
 
 ## 一家 Bib Gourmand bak kut teh 餐馆
 
