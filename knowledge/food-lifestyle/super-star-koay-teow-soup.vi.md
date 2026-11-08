@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: Xe mì đạt Bib Gourmand ở Penang"
 seoTitle: "Super Star Koay Teow Soup, Penang"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "Một tô koay teow th'ng — mì nước trong với chả cá và cá viên — hình ảnh đại diện của món ăn"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup là một xe đẩy bán đồ ăn đường phố trên đường Lebuh Kimberley ở George Town, Penang, đạt danh hiệu Bib Gourmand của MICHELIN Guide. Hoạt động từ năm 1960 và nay đã sang đời thứ ba, xe nổi tiếng với koay teow soup có gà, heo, chả cá và gan heo, cùng chân gà kho nước tương."

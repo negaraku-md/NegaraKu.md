@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "قواعد الكحول في ماليزيا: الترخيص والمناطق المعفاة من الرسوم والاختلافات بين الولايات"
 seoTitle: "قواعد الكحول في ماليزيا: الترخيص والإعفاء من الرسوم وقوانين الولايات"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "جعة معروضة للبيع في ثلاجة متجر صغير في ماليزيا (صورة تمثيلية)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "كيف يُرخَّص الكحول ويُفرَض عليه الضريبة ويُباع في ماليزيا، ولماذا قد تختلف القواعد التي يواجهها الشارب أو صاحب العمل اختلافاً حاداً من ولاية إلى أخرى."

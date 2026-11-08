@@ -3,6 +3,11 @@ topicId: MY-MICH-0026
 title: "7 Chai Ipoh Hor Fun：Pandan Perdana の MICHELIN Bib Gourmand"
 seoTitle: "7 Chai Ipoh Hor Fun"
 slug: "7-chai-ipoh-hor-fun"
+hero: "/media/food/7-chai-ipoh-hor-fun/hero.webp"
+heroAlt: "イポーホーファン一杯 — 鶏肉のほぐし身入り平打ち米麺スープ — この料理の代表的な画像"
+heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "7 Chai Ipoh Hor Fun は、クアラルンプールの Pandan Perdana にある MICHELIN Guide の Bib Gourmand に選ばれた屋台料理の店で、イポー風のホーファンを専門とする。鶏ガラとエビの頭で煮出した澄んだスープに平たい米麺を合わせ、裂いた鶏肉をのせ、お好みでエビワンタンを加えられる。"

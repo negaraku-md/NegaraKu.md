@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "Pasar Malam, Pasar Tani & Ẩm thực Đường phố: Văn hóa Chợ Dân gian của Malaysia"
 seoTitle: "Pasar Malam, Pasar Tani & Ẩm thực Đường phố Malaysia: Hướng dẫn Văn hóa Chợ"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "Một pasar malam (chợ đêm) ở Malaysia (hình ảnh đại diện)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "Chợ đêm (pasar malam), chợ nông sản (pasar tani) và chợ tươi sống (pasar basah) là các thể chế hằng ngày nơi người Malaysia mua sắm và ăn bên lề đường. Hướng dẫn này giải thích sự khác biệt, giờ hoạt động, hệ thống xếp hạng vệ sinh và ai quản lý chúng."

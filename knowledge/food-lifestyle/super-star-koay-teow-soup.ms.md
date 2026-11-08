@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: Gerai Mi Bib Gourmand Pulau Pinang"
 seoTitle: "Super Star Koay Teow Soup, Pulau Pinang"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "Semangkuk koay teow th'ng — sup mi jernih dengan bebola ikan dan keropok ikan — imej perwakilan hidangan ini"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup ialah sebuah gerai makanan jalanan di Lebuh Kimberley, George Town, Pulau Pinang, yang memegang Bib Gourmand MICHELIN Guide. Beroperasi sejak 1960 dan kini di generasi ketiga, ia terkenal dengan koay teow soup berisi ayam, babi, bebola ikan dan hati babi, serta kaki ayam yang direneh dengan kicap."

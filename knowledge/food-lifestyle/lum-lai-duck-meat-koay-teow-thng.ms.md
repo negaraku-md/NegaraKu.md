@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0057"
 title: "Lum Lai Duck Meat Koay Teow Th'ng: George Town, Pulau Pinang"
 slug: "lum-lai-duck-meat-koay-teow-thng"
+hero: "/media/food/lum-lai-duck-meat-koay-teow-thng/hero.webp"
+heroAlt: "Itik masak kicap dengan kuetiau dan telur — imej perwakilan hidangan ini"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_-_March_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ms"

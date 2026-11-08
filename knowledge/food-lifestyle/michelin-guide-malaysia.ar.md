@@ -3,6 +3,11 @@ topicId: MY-FDL-0028
 title: "MICHELIN Guide في ماليزيا: شرح Star وBib Gourmand وGreen Star"
 seoTitle: "MICHELIN Guide ماليزيا"
 slug: "michelin-guide-malaysia"
+hero: "/media/food/michelin-guide-malaysia/hero.webp"
+heroAlt: "لوحة دليل ميشلان (صورة تمثيلية)"
+heroCredit: "Oleg Yunakov / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Michelin_Guide_2026_plaque.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "دليل حول MICHELIN Guide Kuala Lumpur & Penang — قائمة اختيار المطاعم الماليزية المعترف بها دوليًا — يتناول تصنيفاته (Star وBib Gourmand وSelected وGreen Star)، وكيف يختار المفتشون المجهولون، وكيف يُكرّم باعة الأرصفة وطعام الشوارع، وكيفية استخدامه."

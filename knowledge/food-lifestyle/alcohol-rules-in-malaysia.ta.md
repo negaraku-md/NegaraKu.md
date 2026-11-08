@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "மலேசியாவில் மதுபான விதிகள்: உரிமம், வரிவிலக்கு மண்டலங்கள் மற்றும் மாநில வேறுபாடுகள்"
 seoTitle: "மலேசியாவில் மதுபான விதிகள்: உரிமம், வரிவிலக்கு மற்றும் மாநிலச் சட்டங்கள்"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "மலேசியாவில் ஒரு சிறு கடையின் குளிர்சாதனப் பெட்டியில் விற்பனைக்கு இருக்கும் பீர் (பிரதிநிதித்துவப் படம்)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "மலேசியாவில் மதுபானம் எவ்வாறு உரிமம் பெறப்படுகிறது, வரிவிதிக்கப்படுகிறது மற்றும் விற்கப்படுகிறது, மேலும் ஒரு மது அருந்துபவரோ வணிகமோ எதிர்கொள்ளும் விதிகள் ஏன் ஒரு மாநிலத்திலிருந்து அடுத்த மாநிலத்திற்குக் கூர்மையாக வேறுபடலாம் என்பது பற்றி."

@@ -3,6 +3,11 @@ topicId: MY-FDL-0028
 title: "மலேசியாவில் MICHELIN Guide: Star, Bib Gourmand மற்றும் Green Star விளக்கம்"
 seoTitle: "MICHELIN Guide மலேசியா"
 slug: "michelin-guide-malaysia"
+hero: "/media/food/michelin-guide-malaysia/hero.webp"
+heroAlt: "ஒரு மிச்செலின் வழிகாட்டி பலகை (பிரதிநிதித்துவப் படம்)"
+heroCredit: "Oleg Yunakov / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Michelin_Guide_2026_plaque.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "MICHELIN Guide Kuala Lumpur & Penang குறித்த வழிகாட்டி — சர்வதேச அளவில் அங்கீகரிக்கப்பட்ட மலேசியாவின் உணவக தேர்வுப் பட்டியல் — அதன் தரவரிசைகள் (Star, Bib Gourmand, Selected மற்றும் Green Star), பெயர் தெரியாத ஆய்வாளர்கள் எவ்வாறு தேர்வு செய்கிறார்கள், தெருவோர மற்றும் சிறு வியாபாரிகளின் உணவை அது எவ்வாறு கௌரவிக்கிறது, மேலும் அதை எவ்வாறு பயன்படுத்துவது என்பதை உள்ளடக்கியது."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0026
 title: "7 Chai Ipoh Hor Fun：Pandan Perdana 的 MICHELIN Bib Gourmand"
 seoTitle: "7 Chai Ipoh Hor Fun"
 slug: "7-chai-ipoh-hor-fun"
+hero: "/media/food/7-chai-ipoh-hor-fun/hero.webp"
+heroAlt: "一碗怡保河粉——鸡丝河粉汤——此菜肴的代表性图片"
+heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "7 Chai Ipoh Hor Fun 是位于吉隆坡 Pandan Perdana 的一家 MICHELIN Guide Bib Gourmand 街头美食小店，专门经营怡保风味的河粉——以鸡骨与虾头熬煮的清汤河粉，配上鸡丝，并可另加虾云吞。"

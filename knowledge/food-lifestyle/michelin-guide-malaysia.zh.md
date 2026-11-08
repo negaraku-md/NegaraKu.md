@@ -3,6 +3,11 @@ topicId: MY-FDL-0028
 title: "马来西亚的 MICHELIN Guide：Star、Bib Gourmand 与 Green Star 详解"
 seoTitle: "MICHELIN Guide 马来西亚"
 slug: "michelin-guide-malaysia"
+hero: "/media/food/michelin-guide-malaysia/hero.webp"
+heroAlt: "米其林指南标牌（代表性图片）"
+heroCredit: "Oleg Yunakov / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Michelin_Guide_2026_plaque.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "MICHELIN Guide Kuala Lumpur & Penang（米其林指南吉隆坡与槟城）指南——马来西亚获国际认可的餐厅精选名单——涵盖其评级（Star、Bib Gourmand、Selected 与 Green Star）、匿名评审如何挑选、如何表彰小贩与街头美食，以及如何使用它。"

@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: पेनांग की एक मिशलिन बिब गूरमां नूडल गाड़ी"
 seoTitle: "Super Star Koay Teow Soup, पेनांग"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "क्वे तियाओ थंग का एक कटोरा — फिशबॉल के साथ साफ नूडल सूप — इस व्यंजन की प्रतिनिधि छवि"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup पेनांग के जॉर्ज टाउन में Lebuh Kimberley पर स्थित एक स्ट्रीट-फूड गाड़ी है, जिसे MICHELIN Guide का Bib Gourmand प्राप्त है। 1960 से चल रही और अब तीसरी पीढ़ी में, यह चिकन, पोर्क, फिश बॉल और पोर्क लिवर वाले koay teow soup, तथा सोया में धीमे पकाए चिकन फीट के लिए जानी जाती है।"

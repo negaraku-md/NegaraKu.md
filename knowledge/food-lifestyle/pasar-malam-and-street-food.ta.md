@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "Pasar Malam, Pasar Tani & Street Food: மலேசியாவின் மக்கள் சந்தைப் பண்பாடு"
 seoTitle: "Pasar Malam, Pasar Tani & Street Food மலேசியா: சந்தைப் பண்பாட்டு வழிகாட்டி"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "மலேசியாவில் ஒரு பசார் மாலாம் (இரவு சந்தை) (பிரதிநிதித்துவப் படம்)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "இரவுச் சந்தைகள் (pasar malam), விவசாயச் சந்தைகள் (pasar tani) மற்றும் ஈரச் சந்தைகள் (pasar basah) என்பன மலேசியர்கள் தினமும் சாலையோரம் பொருள் வாங்கவும் உண்ணவும் செல்லும் அன்றாட நிறுவனங்கள். இந்த வழிகாட்டி அவற்றின் வேறுபாடுகள், இயங்கும் நேரம், சுகாதார தரப்படுத்தல் முறை மற்றும் யார் அவற்றை ஒழுங்குபடுத்துகிறார்கள் என்பதை விளக்குகிறது."

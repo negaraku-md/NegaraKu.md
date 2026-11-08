@@ -3,6 +3,11 @@ topicId: MY-MICH-0026
 title: "7 Chai Ipoh Hor Fun: MICHELIN Bib Gourmand ใน Pandan Perdana"
 seoTitle: "7 Chai Ipoh Hor Fun"
 slug: "7-chai-ipoh-hor-fun"
+hero: "/media/food/7-chai-ipoh-hor-fun/hero.webp"
+heroAlt: "ก๋วยเตี๋ยวเส้นใหญ่น้ำอิโปห์ (ฮอร์ฟัน) ใส่ไก่ฉีก หนึ่งชาม — ภาพตัวแทนของเมนูนี้"
+heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "7 Chai Ipoh Hor Fun เป็นร้านอาหารริมทางระดับ MICHELIN Guide Bib Gourmand ใน Pandan Perdana กัวลาลัมเปอร์ ที่เชี่ยวชาญ hor fun แบบอีโปห์ — เส้นก๋วยเตี๋ยวแบนในน้ำซุปใสที่เคี่ยวจากกระดูกไก่และหัวกุ้ง โรยด้วยไก่ฉีก และเพิ่มเกี๊ยวกุ้งได้ตามต้องการ"

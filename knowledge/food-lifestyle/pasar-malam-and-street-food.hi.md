@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "पासार मलाम (रात्रि बाज़ार), पासार तानी (किसान बाज़ार) और स्ट्रीट फ़ूड: मलेशिया की जन-बाज़ार संस्कृति"
 seoTitle: "पासार मलाम, पासार तानी और स्ट्रीट फ़ूड मलेशिया गाइड"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "मलेशिया में एक पासार मलम (रात्रि बाज़ार) (प्रतिनिधि छवि)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "रात्रि बाज़ार (pasar malam), किसान बाज़ार (pasar tani) और गीले बाज़ार (wet market) रोज़मर्रा की संस्थाएँ हैं जहाँ मलेशियाई लोग सड़क किनारे खरीदारी करते और खाते हैं। यह गाइड इनके अंतर, संचालन के घंटे, स्वच्छता ग्रेडिंग प्रणाली और इन्हें कौन नियंत्रित करता है, यह समझाता है।"

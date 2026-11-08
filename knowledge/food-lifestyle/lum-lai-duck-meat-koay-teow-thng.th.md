@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0057"
 title: "Lum Lai Duck Meat Koay Teow Th'ng: จอร์จทาวน์ ปีนัง"
 slug: "lum-lai-duck-meat-koay-teow-thng"
+hero: "/media/food/lum-lai-duck-meat-koay-teow-thng/hero.webp"
+heroAlt: "เป็ดพะโล้กับก๋วยเตี๋ยวเส้นใหญ่และไข่พะโล้ — ภาพตัวแทนของเมนูนี้"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_-_March_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

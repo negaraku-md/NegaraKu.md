@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "马来西亚的酒类法规：牌照、免税区与各州差异"
 seoTitle: "马来西亚酒类法规：牌照、免税与各州法律"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "马来西亚便利店冷柜中出售的啤酒（代表性图片）"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "马来西亚如何对酒类发放牌照、征税与销售，以及为什么饮酒者或商家所面对的规定会因州属不同而出现巨大差异。"

@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "मलेशिया में शराब के नियम: लाइसेंसिंग, शुल्क-मुक्त क्षेत्र और राज्यवार भिन्नताएँ"
 seoTitle: "मलेशिया में शराब के नियम: लाइसेंसिंग, शुल्क-मुक्ति और राज्य कानून"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "मलेशिया में एक सुविधा-स्टोर के फ्रिज में बिकती बियर (प्रतिनिधि छवि)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "मलेशिया में शराब को कैसे लाइसेंस-प्राप्त, कर-अधीन और बेचा जाता है, और क्यों एक पीने वाले या व्यवसाय को मिलने वाले नियम एक राज्य से दूसरे राज्य में तीव्र रूप से भिन्न हो सकते हैं।"

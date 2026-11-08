@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: 페낭의 미쉐린 빕 구르망 국수 수레"
 seoTitle: "Super Star Koay Teow Soup, 페낭"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "꿰띠아오 탕 한 그릇 — 어묵과 생선완자를 넣은 맑은 국수 — 이 요리의 대표 이미지"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup는 페낭 조지타운의 Lebuh Kimberley에 있는 길거리 음식 수레로, MICHELIN Guide 빕 구르망(Bib Gourmand)을 보유하고 있습니다. 1960년부터 영업해 지금은 3대째이며, 닭고기·돼지고기·어묵·돼지 간을 넣은 koay teow soup와 간장에 조린 닭발로 유명합니다."

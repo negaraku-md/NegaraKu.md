@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "Règles sur l'alcool en Malaisie : licences, zones hors taxes et variations entre États"
 seoTitle: "Règles sur l'alcool en Malaisie : licences, hors taxes et lois des États"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "Bière en vente dans la vitrine réfrigérée d'une supérette en Malaisie (image représentative)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "Comment l'alcool est licencié, taxé et vendu en Malaisie, et pourquoi les règles rencontrées par un buveur ou une entreprise peuvent différer fortement d'un État à l'autre."

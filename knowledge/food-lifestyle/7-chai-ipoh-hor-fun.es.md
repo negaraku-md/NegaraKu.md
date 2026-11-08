@@ -3,6 +3,11 @@ topicId: MY-MICH-0026
 title: "7 Chai Ipoh Hor Fun: Bib Gourmand MICHELIN en Pandan Perdana"
 seoTitle: "7 Chai Ipoh Hor Fun"
 slug: "7-chai-ipoh-hor-fun"
+hero: "/media/food/7-chai-ipoh-hor-fun/hero.webp"
+heroAlt: "Un tazón de hor fun de Ipoh — sopa de fideos planos de arroz con pollo desmenuzado — imagen representativa del plato"
+heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "7 Chai Ipoh Hor Fun es un local de comida callejera con Bib Gourmand de la MICHELIN Guide, situado en Pandan Perdana, Kuala Lumpur, especializado en hor fun al estilo de Ipoh: fideos planos de arroz en un caldo claro cocido a fuego lento con huesos de pollo y cabezas de gamba, coronados con pollo deshebrado y, opcionalmente, wontons de gamba."

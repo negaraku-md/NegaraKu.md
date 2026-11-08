@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "Pasar Malam, Pasar Tani & Street Food: Budaya Pasar Rakyat Malaysia"
 seoTitle: "Pasar Malam, Pasar Tani & Street Food Malaysia: Panduan Budaya Pasar"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "Pasar malam di Malaysia (imej perwakilan)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "Pasar malam, pasar tani dan pasar basah ialah institusi harian tempat rakyat Malaysia membeli-belah dan makan di tepi jalan. Panduan ini menjelaskan perbezaan, waktu operasi, sistem gred kebersihan dan pihak yang mengawal selia."

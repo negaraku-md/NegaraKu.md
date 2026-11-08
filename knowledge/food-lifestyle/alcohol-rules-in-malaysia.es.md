@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "Normas sobre el alcohol en Malasia: licencias, zonas libres de impuestos y variaciones entre estados"
 seoTitle: "Normas sobre el alcohol en Malasia: licencias, libre de impuestos y leyes estatales"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "Cerveza a la venta en el refrigerador de una tienda de conveniencia en Malasia (imagen representativa)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "Cómo se licencia, grava y vende el alcohol en Malasia, y por qué las normas que encuentra un bebedor o un negocio pueden diferir drásticamente de un estado a otro."

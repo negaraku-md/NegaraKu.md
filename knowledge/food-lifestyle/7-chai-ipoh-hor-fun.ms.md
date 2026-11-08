@@ -3,6 +3,11 @@ topicId: MY-MICH-0026
 title: "7 Chai Ipoh Hor Fun: MICHELIN Bib Gourmand di Pandan Perdana"
 seoTitle: "7 Chai Ipoh Hor Fun"
 slug: "7-chai-ipoh-hor-fun"
+hero: "/media/food/7-chai-ipoh-hor-fun/hero.webp"
+heroAlt: "Semangkuk hor fun Ipoh — sup kuetiau nipis dengan ayam disuwir — imej perwakilan hidangan ini"
+heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "7 Chai Ipoh Hor Fun ialah sebuah gerai makanan jalanan Bib Gourmand MICHELIN Guide di Pandan Perdana, Kuala Lumpur, yang pakar dalam hor fun gaya Ipoh — kuetiau leper dalam sup jernih yang direneh daripada tulang ayam dan kepala udang, dihidang dengan ayam suwir serta wonton udang sebagai tambahan pilihan."

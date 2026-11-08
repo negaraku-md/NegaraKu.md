@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "Pasar Malam, Pasar Tani & Street Food: Malaysia's People's Market Culture"
 seoTitle: "Pasar Malam, Pasar Tani & Street Food Malaysia Guide"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "A pasar malam (night market) in Malaysia (representative image)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "Night markets (pasar malam), farmers' markets (pasar tani) and wet markets are everyday institutions where Malaysians shop and eat by the roadside. This guide explains the differences, operating hours, the hygiene grading system and who regulates them."

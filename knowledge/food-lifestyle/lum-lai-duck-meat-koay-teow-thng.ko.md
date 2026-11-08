@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0057"
 title: "Lum Lai Duck Meat Koay Teow Th'ng: 페낭 조지타운"
 slug: "lum-lai-duck-meat-koay-teow-thng"
+hero: "/media/food/lum-lai-duck-meat-koay-teow-thng/hero.webp"
+heroAlt: "조린 오리고기와 넓적한 쌀국수, 조림 달걀 — 이 요리의 대표 이미지"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_-_March_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ko"

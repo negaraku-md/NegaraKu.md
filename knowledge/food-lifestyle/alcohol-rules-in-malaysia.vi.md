@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "Quy định về rượu bia ở Malaysia: Cấp phép, khu miễn thuế và sự khác biệt giữa các bang"
 seoTitle: "Quy định về rượu bia ở Malaysia: Cấp phép, miễn thuế và luật của các bang"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "Bia bày bán trong tủ mát cửa hàng tiện lợi ở Malaysia (hình ảnh đại diện)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "Cách rượu bia được cấp phép, đánh thuế và bán ở Malaysia, và tại sao các quy định mà một người uống hoặc một doanh nghiệp gặp phải có thể khác nhau rõ rệt từ bang này sang bang khác."

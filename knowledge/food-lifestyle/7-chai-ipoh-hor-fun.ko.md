@@ -3,6 +3,11 @@ topicId: MY-MICH-0026
 title: "7 Chai Ipoh Hor Fun: Pandan Perdana의 MICHELIN Bib Gourmand"
 seoTitle: "7 Chai Ipoh Hor Fun"
 slug: "7-chai-ipoh-hor-fun"
+hero: "/media/food/7-chai-ipoh-hor-fun/hero.webp"
+heroAlt: "이포 호펀 한 그릇 — 닭고기를 올린 넓적한 쌀국수 — 이 요리의 대표 이미지"
+heroCredit: "Sharon Hahn Darlin / Wikimedia Commons"
+heroLicense: "CC BY 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Ipoh_Hor_Fun,_Yinzo_Kopi,_Ipoh,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "7 Chai Ipoh Hor Fun은 쿠알라룸푸르 Pandan Perdana에 있는 MICHELIN Guide Bib Gourmand 길거리 음식점으로, 이포 스타일 hor fun을 전문으로 한다. 닭 뼈와 새우 머리로 우린 맑은 국물에 넓적한 쌀국수를 말고, 찢은 닭고기를 올리며, 선택에 따라 새우 완탕을 더할 수 있다."

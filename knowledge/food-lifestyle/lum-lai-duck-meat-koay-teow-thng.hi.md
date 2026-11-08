@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0057"
 title: "Lum Lai Duck Meat Koay Teow Th'ng: जॉर्ज टाउन, पेनांग"
 slug: "lum-lai-duck-meat-koay-teow-thng"
+hero: "/media/food/lum-lai-duck-meat-koay-teow-thng/hero.webp"
+heroAlt: "ब्रेज़्ड बत्तख के साथ चपटी चावल नूडल्स और अंडा — इस व्यंजन की प्रतिनिधि छवि"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_-_March_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "hi"

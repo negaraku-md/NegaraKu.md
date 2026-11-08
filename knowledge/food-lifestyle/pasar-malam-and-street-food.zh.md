@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "夜市、农民市场与街头美食：马来西亚民间市场文化"
 seoTitle: "马来西亚夜市、农民市场与街头美食：市场文化指南"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "马来西亚的夜市（pasar malam）（代表性图片）"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "夜市（pasar malam）、农民市场（pasar tani）与巴刹（pasar basah）是马来西亚人日常购物与路边用餐的机构。本指南解释它们的区别、营业时间、卫生评级制度以及监管单位。"

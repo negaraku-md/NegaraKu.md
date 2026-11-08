@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "Peraturan Alkohol di Malaysia: Pelesenan, Zon Bebas Cukai dan Perbezaan Antara Negeri"
 seoTitle: "Peraturan Alkohol di Malaysia: Lesen, Bebas Cukai dan Undang-undang Negeri"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "Bir dijual di peti sejuk kedai serbaneka di Malaysia (imej perwakilan)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "Bagaimana alkohol dilesenkan, dicukai dan dijual di Malaysia, serta sebab peraturan yang dihadapi seseorang peminum atau perniagaan boleh berbeza dengan ketara dari satu negeri ke negeri lain."

@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup：ペナンのミシュラン・ビブグルマンの麺台車"
 seoTitle: "Super Star Koay Teow Soup、ペナン"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "クイティオ・タン一杯 — 魚団子と魚のすり身を入れた澄んだ麺スープ — この料理の代表的な画像"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup は、ペナン・ジョージタウンの Lebuh Kimberley にある屋台で、MICHELIN Guide のビブグルマン（Bib Gourmand）を獲得しています。1960年から営み、いまは三代目。鶏肉、豚肉、魚団子、豚レバーを合わせた koay teow soup と、醤油で煮込んだ鶏の足で知られています。"

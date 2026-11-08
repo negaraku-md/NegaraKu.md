@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "말레이시아의 주류 규정: 면허, 면세 구역과 주(州)별 차이"
 seoTitle: "말레이시아 주류 규정: 면허, 면세와 주(州) 법률"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "말레이시아 편의점 냉장고에서 판매 중인 맥주 (대표 이미지)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "말레이시아에서 주류가 어떻게 면허·과세·판매되는지, 그리고 음주자나 사업자가 마주하는 규정이 왜 주(州)마다 크게 달라질 수 있는지를 설명합니다."

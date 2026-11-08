@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "Pasar Malam (marché nocturne), Pasar Tani (marché de producteurs) et cuisine de rue : la culture des marchés populaires de Malaisie"
 seoTitle: "Guide du Pasar Malam, du Pasar Tani et de la cuisine de rue en Malaisie"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "Un pasar malam (marché nocturne) en Malaisie (image représentative)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "Les marchés nocturnes (pasar malam), les marchés de producteurs (pasar tani) et les marchés de produits frais (wet market) sont des institutions du quotidien où les Malaisiens font leurs courses et mangent au bord de la route. Ce guide explique les différences, les horaires, le système de notation de l'hygiène et qui les réglemente."

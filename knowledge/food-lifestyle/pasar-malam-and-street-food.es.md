@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "Pasar Malam (mercado nocturno), Pasar Tani (mercado de agricultores) y comida callejera: la cultura de los mercados populares de Malasia"
 seoTitle: "Guía de Pasar Malam, Pasar Tani y comida callejera de Malasia"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "Un pasar malam (mercado nocturno) en Malasia (imagen representativa)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "Los mercados nocturnos (pasar malam), los mercados de agricultores (pasar tani) y los mercados de productos frescos (wet market) son instituciones cotidianas donde los malasios compran y comen junto a la carretera. Esta guía explica las diferencias, los horarios, el sistema de calificación de higiene y quién los regula."

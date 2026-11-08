@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "파사르 말람, 파사르 타니와 길거리 음식: 말레이시아의 민중 시장 문화"
 seoTitle: "말레이시아 파사르 말람·파사르 타니·길거리 음식: 시장 문화 안내"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "말레이시아의 파사르 말람(야시장) (대표 이미지)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "파사르 말람, 파사르 타니, 파사르 바사는 말레이시아인이 매일 장을 보고 길에서 먹는 일상의 제도입니다. 이 안내서는 그 차이, 영업 시간, 위생 등급 제도, 그리고 규제 주체를 설명합니다."

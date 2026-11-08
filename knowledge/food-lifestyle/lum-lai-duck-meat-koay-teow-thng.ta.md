@@ -2,6 +2,11 @@
 topicId: "MY-MICH-0057"
 title: "Lum Lai Duck Meat Koay Teow Th'ng: ஜார்ஜ் டவுன், பினாங்கு"
 slug: "lum-lai-duck-meat-koay-teow-thng"
+hero: "/media/food/lum-lai-duck-meat-koay-teow-thng/hero.webp"
+heroAlt: "அவித்த வாத்து இறைச்சி, தட்டையான அரிசி நூடுல் மற்றும் முட்டையுடன் — இந்த உணவின் பிரதிநிதித்துவப் படம்"
+heroCredit: "Banej / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Rice_Noodle_With_Braised_Duck_And_Hard_Boiled_Egg_-_March_2024.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "ta"

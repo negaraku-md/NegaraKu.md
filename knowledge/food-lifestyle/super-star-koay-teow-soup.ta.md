@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: பினாங்கின் ஒரு Bib Gourmand நூடுல்ஸ் வண்டி"
 seoTitle: "Super Star Koay Teow Soup, பினாங்கு"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "ஒரு கிண்ணம் குவே தியோ தங் — மீன் உருண்டைகள் சேர்த்த தெளிவான நூடுல் சூப் — இந்த உணவின் பிரதிநிதித்துவப் படம்"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup என்பது பினாங்கு ஜார்ஜ் டவுனில் Lebuh Kimberley-இல் உள்ள ஒரு தெரு உணவு வண்டி, இது MICHELIN Guide Bib Gourmand அங்கீகாரம் பெற்றுள்ளது. 1960 முதல் இயங்கி வரும் இது இப்போது மூன்றாம் தலைமுறையில் உள்ளது, கோழி, பன்றி இறைச்சி, மீன் பந்துகள் மற்றும் பன்றி ஈரல் கொண்ட koay teow soup-க்காகவும், சோயாவில் பதப்படுத்தப்பட்ட கோழிக் கால்களுக்காகவும் அறியப்படுகிறது."

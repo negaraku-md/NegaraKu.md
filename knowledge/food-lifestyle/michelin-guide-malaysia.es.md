@@ -3,6 +3,11 @@ topicId: MY-FDL-0028
 title: "La MICHELIN Guide en Malasia: Star, Bib Gourmand y Green Star explicados"
 seoTitle: "MICHELIN Guide Malasia"
 slug: "michelin-guide-malaysia"
+hero: "/media/food/michelin-guide-malaysia/hero.webp"
+heroAlt: "Una placa de la Guía MICHELIN (imagen representativa)"
+heroCredit: "Oleg Yunakov / Wikimedia Commons"
+heroLicense: "CC BY-SA 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Michelin_Guide_2026_plaque.jpg"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "Una guía sobre la MICHELIN Guide Kuala Lumpur & Penang —la selección de restaurantes de Malasia reconocida internacionalmente— que abarca sus distinciones (Star, Bib Gourmand, Selected y Green Star), cómo eligen los inspectores anónimos, cómo honra a los vendedores ambulantes y la comida callejera, y cómo usarla."

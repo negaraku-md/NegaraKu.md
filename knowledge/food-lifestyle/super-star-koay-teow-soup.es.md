@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: un carrito de fideos Bib Gourmand en Penang"
 seoTitle: "Super Star Koay Teow Soup, Penang"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "Un tazón de koay teow th'ng — sopa de fideos clara con bolas de pescado — imagen representativa del plato"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup es un carrito de comida callejera en Lebuh Kimberley, en George Town, Penang, que posee un Bib Gourmand de la Guía MICHELIN. En marcha desde 1960 y ahora en su tercera generación, es conocido por su koay teow soup con pollo, cerdo, bolas de pescado e hígado de cerdo, y por sus patas de pollo guisadas en salsa de soja."

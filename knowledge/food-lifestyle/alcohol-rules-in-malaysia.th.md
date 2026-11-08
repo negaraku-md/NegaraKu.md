@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "กฎเกี่ยวกับแอลกอฮอล์ในมาเลเซีย: การออกใบอนุญาต เขตปลอดภาษี และความแตกต่างระหว่างรัฐ"
 seoTitle: "กฎเกี่ยวกับแอลกอฮอล์ในมาเลเซีย: ใบอนุญาต ปลอดภาษี และกฎหมายของรัฐ"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "เบียร์ที่วางขายในตู้แช่ร้านสะดวกซื้อในมาเลเซีย (ภาพตัวแทน)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "แอลกอฮอล์ได้รับการออกใบอนุญาต จัดเก็บภาษี และจำหน่ายในมาเลเซียอย่างไร และเหตุใดกฎที่ผู้ดื่มหรือธุรกิจต้องเผชิญจึงแตกต่างกันอย่างชัดเจนจากรัฐหนึ่งไปยังอีกรัฐหนึ่ง"

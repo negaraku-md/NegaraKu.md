@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "ปาซาร์มาลัม ปาซาร์ตานี และสตรีทฟูด: วัฒนธรรมตลาดของประชาชนมาเลเซีย"
 seoTitle: "ปาซาร์มาลัม ปาซาร์ตานี และสตรีทฟูดมาเลเซีย: คู่มือวัฒนธรรมตลาด"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "ปาซาร์มาลัม (ตลาดกลางคืน) ในมาเลเซีย (ภาพตัวแทน)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "ปาซาร์มาลัม (pasar malam) ปาซาร์ตานี (pasar tani) และตลาดสด เป็นสถาบันในชีวิตประจำวันที่ชาวมาเลเซียจับจ่ายและรับประทานอาหารริมถนน คู่มือนี้อธิบายความแตกต่าง เวลาทำการ ระบบการจัดเกรดสุขอนามัย และหน่วยงานที่กำกับดูแล"

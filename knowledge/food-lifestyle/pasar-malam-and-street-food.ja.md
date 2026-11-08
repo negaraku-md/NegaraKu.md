@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "パサ・マラム、農民市場、ストリートフード：マレーシアの庶民市場文化"
 seoTitle: "マレーシアのパサ・マラム、農民市場、ストリートフード：市場文化ガイド"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "マレーシアのパサール・マラム（ナイトマーケット）（代表的な画像）"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "パサ・マラム（夜市）、農民市場、生鮮市場（wet market）は、マレーシア人が買い物をし、路上で食事をする日常の機構である。本ガイドはそれぞれの違い、営業時間、衛生等級制度、そして監督する当局について説明する。"

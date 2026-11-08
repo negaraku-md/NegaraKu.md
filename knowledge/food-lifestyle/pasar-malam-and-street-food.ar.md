@@ -3,6 +3,11 @@ topicId: MY-FDL-0012
 title: "أسواق الليل (Pasar Malam) وأسواق المزارعين (Pasar Tani) وطعام الشارع: ثقافة أسواق الشعب في ماليزيا"
 seoTitle: "دليل ماليزيا لأسواق الليل (Pasar Malam) وأسواق المزارعين (Pasar Tani) وطعام الشارع"
 slug: "pasar-malam-and-street-food"
+hero: "/media/food/pasar-malam-and-street-food/hero.webp"
+heroAlt: "سوق ليلي (باسار مالام) في ماليزيا (صورة تمثيلية)"
+heroCredit: "Wiki Farazi / Wikimedia Commons"
+heroLicense: "CC0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Section_8_Kota_Damansara_Night_Market.jpg"
 category: "food-lifestyle"
 subcategory: ["pasar"]
 summary: "أسواق الليل (pasar malam) وأسواق المزارعين (pasar tani) والأسواق الرطبة مؤسسات يومية يتسوّق فيها الماليزيون ويأكلون على جانب الطريق. يشرح هذا الدليل الفروق بينها وساعات عملها ونظام تصنيف النظافة والجهة التي تنظّمها."

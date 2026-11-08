@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "マレーシアの酒類規則：免許制度、免税区域と州ごとの違い"
 seoTitle: "マレーシアの酒類規則 — 免許、免税、そして州法"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "マレーシアのコンビニの冷蔵ケースで売られているビール（代表的な画像）"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "マレーシアにおける酒類の免許制度、課税、そして販売の仕組み、そして飲酒者や事業者が直面する規則がなぜ州ごとに大きく異なるのかについて。"

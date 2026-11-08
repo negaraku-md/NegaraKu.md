@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: A Penang Bib Gourmand Noodle Cart"
 seoTitle: "Super Star Koay Teow Soup, Penang"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "A bowl of koay teow th'ng — clear noodle soup with fishballs and fishcake — a representative image of the dish"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Super Star Koay Teow Soup is a street-food cart on Lebuh Kimberley in George Town, Penang, holding a MICHELIN Guide Bib Gourmand. Running since 1960 and now in its third generation, it is known for koay teow soup with chicken, pork, fish balls and pork liver, and for soy-braised chicken feet."

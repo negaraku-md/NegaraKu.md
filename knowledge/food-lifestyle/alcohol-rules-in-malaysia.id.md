@@ -3,6 +3,11 @@ topicId: MY-FDL-0001
 title: "Aturan Alkohol di Malaysia: Perizinan, Zona Bebas Pajak, dan Perbedaan Antar-Negara Bagian"
 seoTitle: "Aturan Alkohol di Malaysia: Izin, Bebas Pajak, dan Hukum Negara Bagian"
 slug: "alcohol-rules-in-malaysia"
+hero: "/media/food/alcohol-rules-in-malaysia/hero.webp"
+heroAlt: "Bir yang dijual di lemari pendingin minimarket di Malaysia (gambar representatif)"
+heroCredit: "Jeremy Eades / Wikimedia Commons"
+heroLicense: "CC BY-SA 2.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Beer_in_7-Eleven,_Malaysia.jpg"
 category: "food-lifestyle"
 subcategory: ["alcohol"]
 summary: "Bagaimana alkohol diizinkan, dikenakan pajak, dan dijual di Malaysia, serta mengapa aturan yang dihadapi seorang peminum atau pelaku usaha bisa berbeda secara signifikan dari satu negara bagian ke negara bagian lain."

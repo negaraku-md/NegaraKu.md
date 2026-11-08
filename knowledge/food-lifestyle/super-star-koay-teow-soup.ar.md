@@ -3,6 +3,11 @@ topicId: MY-MICH-0054
 title: "Super Star Koay Teow Soup: عربة نودلز في بينانغ حائزة على Bib Gourmand"
 seoTitle: "Super Star Koay Teow Soup، بينانغ"
 slug: "super-star-koay-teow-soup"
+hero: "/media/food/super-star-koay-teow-soup/hero.webp"
+heroAlt: "وعاء من كواي تياو ثنغ — حساء نودلز صافٍ مع كرات السمك — صورة تمثيلية للطبق"
+heroCredit: "Misaochan2 / Wikimedia Commons"
+heroLicense: "CC BY 4.0"
+heroSource: "https://commons.wikimedia.org/wiki/File:Fishball_noodle_soup.jpg"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "‏Super Star Koay Teow Soup عربة طعام شارع في شارع Lebuh Kimberley بحي George Town في بينانغ، حائزة على تصنيف Bib Gourmand من دليل MICHELIN. تعمل منذ عام 1960 وهي الآن في جيلها الثالث، وتشتهر بطبق koay teow soup بالدجاج ولحم الخنزير وكرات السمك وكبد الخنزير، وبأرجل الدجاج المطهوّة ببطء في صلصة الصويا."
