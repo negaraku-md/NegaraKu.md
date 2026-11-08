@@ -5,6 +5,7 @@ import { getCategory, getCategoryColor, getPillar, getPillarDef, loc } from '@/l
 import { subcatLabel } from '@/lib/subcategories';
 import { localePath, t } from '@/lib/i18n';
 import { ogAsset } from '@/lib/og';
+import { representativeBadge, needsRepresentativeBadge } from '@/lib/imageProvenance';
 
 interface Props {
   article: Article;
@@ -13,7 +14,9 @@ interface Props {
   row?: boolean;
 }
 const { article, locale, row = false } = Astro.props;
-const { category, slug, title, summary, status, hero, heroAlt } = article.data;
+const { category, slug, title, summary, status, hero, heroAlt, heroKind } = article.data;
+// A representative cover must carry its 示意图 label on every surface it appears.
+const repBadge = !!hero && needsRepresentativeBadge(heroKind);
 const cat = getCategory(category);
 const href = localePath(`/${category}/${slug}`, locale);
 const color = getCategoryColor(category);
@@ -42,7 +45,10 @@ const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிட
   <div class="thumb">
     {
       hero ? (
-        <img src={hero} alt={heroAlt ?? ''} width="640" height="336" loading="lazy" decoding="async" />
+        <>
+          <img src={hero} alt={heroAlt ?? ''} width="640" height="336" loading="lazy" decoding="async" />
+          {repBadge && <span class="rep-badge">{representativeBadge(locale)}</span>}
+        </>
       ) : (
         <>
           <span class="glyph" aria-hidden="true">{cat?.icon}</span>
@@ -120,6 +126,21 @@ const minLabel = locale === 'zh' ? '分钟' : locale === 'ta' ? 'நிமிட
   .glyph {
     font-size: 2.4rem;
     filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.4));
+  }
+  /* 示意图 — representative-cover marker, kept legible on the thumbnail. */
+  .rep-badge {
+    position: absolute;
+    top: 0.4rem;
+    inset-inline-start: 0.4rem;
+    z-index: 1;
+    font-size: 0.66rem;
+    font-weight: 700;
+    line-height: 1;
+    padding: 0.3em 0.55em;
+    border-radius: 999px;
+    color: #000;
+    background: color-mix(in srgb, var(--gold) 92%, #fff);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
   }
   .cbody {
     padding: 0.9rem 1.1rem 1rem;

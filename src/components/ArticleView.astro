@@ -7,6 +7,7 @@ import { localePath } from '@/lib/i18n';
 import { REPO, CONTRIBUTIONS_PAUSED } from '@/lib/site';
 import { newIssueUrl, articleMetaFooter } from '@/lib/feedback';
 import { subcatLabel } from '@/lib/subcategories';
+import { imageLabel, needsRepresentativeBadge, reviewSourceLabel } from '@/lib/imageProvenance';
 import { FLOWER_D } from '@/lib/logo';
 import TrustBadge from './TrustBadge.astro';
 import FeedbackBar from './FeedbackBar.astro';
@@ -48,6 +49,15 @@ const heroSrc = d.hero ?? (d.category === 'food-lifestyle'
   ? `/media/fallback/food-${FOOD_FALLBACK[(Array.isArray(d.subcategory) ? d.subcategory[0] : d.subcategory) as string] ?? 'food-lifestyle'}.webp`
   : null);
 const heroIsFallback = !d.hero && !!heroSrc;
+// Generated provenance label (示意图/店家供图/编辑实拍) for a real hero — never for
+// the branded fallback. A representative hero also shows a visible badge so the
+// label travels on every surface (docs/FOOD-ARTICLE-STANDARD.md §"One image rule").
+const heroLabel = d.hero ? imageLabel(d.heroKind, d.heroOrigin, locale) : null;
+const heroRepBadge = d.hero && needsRepresentativeBadge(d.heroKind);
+// Attributed taste commentary — PLACE food articles only; an award alone is not a
+// review, so this renders only when a real food observation was authored.
+const reviews = (d.foodType === 'place' && Array.isArray(d.review)) ? d.review.filter((r) => (r.flavor?.length ?? 0) > 0) : [];
+const sourceById = new Map((d.sources ?? []).filter((s) => s.id).map((s) => [s.id as string, s]));
 const heroAltText = d.hero
   ? (d.heroAlt ?? '')
   : L('Makanan dan gaya hidup Malaysia', 'Malaysian food & lifestyle', '马来西亚美食与生活', 'மலேசிய உணவு மற்றும் வாழ்க்கை முறை', 'マレーシアの食と暮らし', '말레이시아의 음식과 라이프스타일', 'อาหารและไลฟ์สไตล์มาเลเซีย', 'Ẩm thực và đời sống Malaysia', 'Makanan dan gaya hidup Malaysia', 'الطعام ونمط الحياة في ماليزيا', 'मलेशियाई भोजन और जीवनशैली', 'Comida y estilo de vida de Malasia', 'Cuisine et art de vivre malaisiens');
@@ -390,19 +400,51 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
               fetchpriority="high"
               decoding="async"
             />
-            {!heroIsFallback && (d.heroCredit || d.heroSource || d.heroLicense) && (
+            {heroRepBadge && <span class="art-photo-badge">{heroLabel}</span>}
+            {!heroIsFallback && (heroLabel || d.heroSubject || d.heroCredit || d.heroSource || d.heroLicense) && (
               <figcaption>
-                {d.heroSource ? (
-                  <a href={d.heroSource} target="_blank" rel="noopener noreferrer">
-                    {d.heroCredit ?? d.heroSource}
-                  </a>
-                ) : (
-                  d.heroCredit
+                {heroLabel && <span class="prov">{heroLabel}</span>}
+                {d.heroSubject && <span>{heroLabel ? ' · ' : ''}{d.heroSubject}{d.heroBranch ? ` · ${d.heroBranch}` : ''}</span>}
+                {(d.heroCredit || d.heroSource) && (
+                  <span>{(heroLabel || d.heroSubject) ? ' · ' : ''}
+                    {d.heroSource ? (
+                      <a href={d.heroSource} target="_blank" rel="noopener noreferrer">{d.heroCredit ?? d.heroSource}</a>
+                    ) : (d.heroCredit)}
+                  </span>
                 )}
-                {d.heroLicense && <span class="lic">{(d.heroCredit || d.heroSource) ? ' · ' : ''}{d.heroLicense}</span>}
+                {d.heroLicense && <span class="lic">{(heroLabel || d.heroSubject || d.heroCredit || d.heroSource) ? ' · ' : ''}{d.heroLicense}</span>}
               </figcaption>
             )}
           </figure>
+        )
+      }
+      {
+        reviews.length > 0 && (
+          <section class="layer l-review" data-pagefind-ignore>
+            <h2 class="l-review-h">{L('Ulasan makanan', 'Food review', '食评', 'உணவு விமர்சனம்', '食評', '푸드 리뷰', 'รีวิวอาหาร', 'Đánh giá món ăn', 'Ulasan makanan', 'تقييم الطعام', 'भोजन समीक्षा', 'Reseña gastronómica', 'Avis gastronomique')}</h2>
+            {reviews.map((r) => {
+              const src = r.sourceRef ? sourceById.get(r.sourceRef) : undefined;
+              const label = reviewSourceLabel(r.source, r.by, locale);
+              return (
+                <div class="review-entry">
+                  <p class="review-attr">
+                    <span class={`review-src${r.source === 'editorial-visit' ? ' is-visit' : ''}`}>{label}</span>
+                    {r.subject && <span class="review-subj"> · {r.subject}</span>}
+                    {r.source === 'editorial-visit' && r.visitedMonth && <span class="review-when"> · {r.visitedMonth}</span>}
+                  </p>
+                  {r.flavor?.length > 0 && (
+                    <ul class="review-flavor">{r.flavor.map((f) => <li>{f}</li>)}</ul>
+                  )}
+                  {r.tradeoffs?.length > 0 && (
+                    <ul class="review-tradeoffs">{r.tradeoffs.map((t) => <li>{t}</li>)}</ul>
+                  )}
+                  {(src?.url || src?.title) && (
+                    <p class="review-cite">{src.url ? <a href={src.url} target="_blank" rel="noopener noreferrer">{src.title}</a> : src.title}</p>
+                  )}
+                </div>
+              );
+            })}
+          </section>
         )
       }
       {
@@ -903,6 +945,36 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
   .art-photo figcaption a { color: inherit; text-decoration: underline; }
   .art-photo figcaption .lic { opacity: 0.85; }
+  .art-photo figcaption .prov { color: var(--gold); font-weight: 600; }
+  /* 示意图 badge — travels with a representative image on every surface. */
+  .art-photo { position: relative; }
+  .art-photo-badge {
+    position: absolute; top: 0.6rem; inset-inline-start: 0.6rem;
+    font-size: 0.72rem; font-weight: 700; line-height: 1;
+    padding: 0.32em 0.6em; border-radius: 999px;
+    color: #000; background: color-mix(in srgb, var(--gold) 92%, #fff);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.35);
+  }
+
+  /* Food review block (PLACE articles) — attributed taste commentary. */
+  .l-review {
+    border: 1px solid color-mix(in srgb, var(--gold) 42%, transparent);
+    border-radius: 12px; padding: 1.1rem; margin-bottom: 1.2rem;
+    background: color-mix(in srgb, var(--gold) 6%, transparent);
+  }
+  .l-review-h {
+    margin: 0 0 0.7rem; font-size: 0.82rem; font-family: var(--font-title);
+    text-transform: uppercase; letter-spacing: 0.06em; color: var(--gold);
+  }
+  .review-entry + .review-entry { margin-top: 0.9rem; padding-top: 0.9rem; border-top: 1px solid var(--line); }
+  .review-attr { margin: 0 0 0.35rem; font-size: 0.86rem; color: var(--ink-soft); }
+  .review-src { font-weight: 700; color: var(--ink); }
+  .review-src.is-visit { color: var(--gold); }
+  .review-flavor, .review-tradeoffs { margin: 0.2rem 0 0; padding-inline-start: 1.1rem; }
+  .review-flavor li { margin: 0.15rem 0; }
+  .review-tradeoffs li { margin: 0.15rem 0; color: var(--ink-soft); font-style: italic; }
+  .review-cite { margin: 0.4rem 0 0; font-size: 0.76rem; text-align: end; color: var(--ink-soft); }
+  .review-cite a { color: inherit; text-decoration: underline; }
 
   /* Same hero treatment as the home / section heroes (PageHero): the gold-tinted
      gradient, big 900-weight headline, matched breadcrumb + padding. */
