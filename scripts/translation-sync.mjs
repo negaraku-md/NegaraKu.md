@@ -18,6 +18,7 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
+import yaml from 'js-yaml';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const KNOWLEDGE = path.join(ROOT, 'knowledge');
@@ -36,6 +37,32 @@ const STAMP = process.argv.includes('--stamp');
  */
 const TRANSLATED_FIELDS = ['title', 'summary', 'answer', 'keyTakeaways', 'faq', 'appliesTo'];
 
+// The TRANSLATED sub-fields of the structured media/review blocks (food standard).
+// Only these — the reader-facing authored text — belong in the freshness hash;
+// the shared metadata (src, credit, license, sourceRef, kind, origin, branch,
+// permissionRef) is deliberately excluded so swapping an image or relabelling its
+// kind does NOT churn translations. This is extracted APPEND-ONLY and empty-guarded
+// (see bodyHash): an article without images[]/review[] hashes byte-identically to
+// before this field existed, so adding the block caused ZERO re-stamp of the corpus.
+// (heroAlt is intentionally NOT folded in here: it is already live on ~240 articles
+// with freshness-neutral semantics, so folding it would force a ~2,900-file re-stamp
+// of unchanged content; the health scan's image-alt check covers the stale-caption
+// risk instead. New images[] alt/caption DO cascade.)
+const mediaSignal = (fm) => {
+  let data;
+  try { data = yaml.load(fm) || {}; } catch { return ''; }
+  const parts = [];
+  for (const im of Array.isArray(data.images) ? data.images : []) {
+    parts.push(`img|${im?.alt ?? ''}|${im?.caption ?? ''}|${im?.subject ?? ''}`);
+  }
+  for (const rv of Array.isArray(data.review) ? data.review : []) {
+    const flavor = Array.isArray(rv?.flavor) ? rv.flavor.join('¶') : '';
+    const trade = Array.isArray(rv?.tradeoffs) ? rv.tradeoffs.join('¶') : '';
+    parts.push(`rev|${rv?.subject ?? ''}|${flavor}|${trade}`);
+  }
+  return parts.join('\n');
+};
+
 const bodyHash = (raw) => {
   const parts = raw.split(/^---\s*$/m);
   const fm = parts.length >= 3 ? parts[1] : '';
@@ -49,7 +76,11 @@ const bodyHash = (raw) => {
   }).join('\n');
 
   const material = `${signal}\n---\n${body}`.trim().replace(/\r\n/g, '\n');
-  return createHash('sha256').update(material).digest('hex').slice(0, 16);
+  // APPEND-ONLY: only articles that actually carry images[]/review[] get the extra
+  // block, so every existing article's hash is unchanged (no false "stale" sweep).
+  const extra = mediaSignal(fm);
+  const full = extra ? `${material}\n===MEDIA===\n${extra}` : material;
+  return createHash('sha256').update(full).digest('hex').slice(0, 16);
 };
 
 const fmValue = (raw, key) => {

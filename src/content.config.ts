@@ -11,6 +11,62 @@ const sourceSchema = z.object({
   publisher: z.string().optional(),
   /** Date the source itself was published/updated — for citation freshness. */
   date: z.string().optional(),
+  /** Stable id for in-article references (e.g. a review's `sourceRef` points here).
+   *  Optional; set it on sources a `review[]` entry cites. */
+  id: z.string().optional(),
+});
+
+/** Image provenance grammar — shared by the hero* fields and images[].
+ *  See docs/FOOD-ARTICLE-STANDARD.md §"One image rule".
+ *  - kind:   does this image depict THIS article's subject? `actual` | `representative`.
+ *            Set it against the NARROWEST claim the caption/placement makes, not the
+ *            pixels: a real char-kway-teow photo is `actual` on the dish guide but
+ *            `representative` as a specific stall's cover.
+ *  - origin: who made/supplied it — `editorial` (our own), `owner` (shop-supplied),
+ *            `third-party`. Independent of kind (a shop or a stranger can both supply
+ *            an `actual` photo).
+ *  The 示意图 / 店家供图 / 编辑实拍 label is GENERATED from (kind, origin) in i18n —
+ *  never author it. `subject`, `caption`, `alt` ARE authored & translated. */
+const imageSchema = z.object({
+  role: z.enum(['cover', 'dish', 'ordering', 'storefront', 'menu', 'method', 'scene', 'other']).default('other'),
+  src: z.string(),
+  /** Accessible alt text (translated; cascades to translations). */
+  alt: z.string(),
+  kind: z.enum(['actual', 'representative']).default('representative'),
+  origin: z.enum(['editorial', 'owner', 'third-party']).default('third-party'),
+  /** User-facing "what it depicts", e.g. "汤版肉骨茶" (translated; cascades). */
+  subject: z.string().optional(),
+  /** Branch identifier where kind=actual and known, e.g. "121 Jalan Kepong" (shared; neutral). */
+  branch: z.string().optional(),
+  /** Authored caption beyond the generated label (translated; cascades). */
+  caption: z.string().optional(),
+  credit: z.string().optional(),
+  license: z.string().optional(),
+  sourceUrl: z.string().optional(),
+  /** Owner-provided: the permission / licence record reference (shared; neutral). */
+  permissionRef: z.string().optional(),
+});
+
+/** Attributed, venue-specific taste commentary — PLACE articles only. Multiple
+ *  entries allowed (different critics / dishes). Every entry names its source; a
+ *  taste claim is never written in NegaraKu.md's own voice without an editorial
+ *  visit. See docs/FOOD-ARTICLE-STANDARD.md §"Place". */
+const reviewSchema = z.object({
+  source: z.enum(['michelin', 'editorial-visit', 'named-critic', 'owner', 'public']),
+  /** Who observed, e.g. "MICHELIN Guide" (shown; may be translated). */
+  by: z.string().optional(),
+  /** Points at a sources[].id (soft reference; validated by the health scan). */
+  sourceRef: z.string().optional(),
+  /** The dish(es) assessed (translated; cascades). */
+  subject: z.string().optional(),
+  /** The source's own flavour/texture observation (translated; cascades). */
+  flavor: z.array(z.string()).default([]),
+  /** What that means for a reader's preference — optional (translated; cascades). */
+  tradeoffs: z.array(z.string()).default([]),
+  /** For source:'editorial-visit' only — the month visited, e.g. "2026-11". */
+  visitedMonth: z.string().optional(),
+  /** Branch the observation applies to, when venue has several. */
+  branch: z.string().optional(),
 });
 
 /** A typed edge in the knowledge graph, e.g. { rel: 'administered-by', to: 'ssm' }. */
@@ -433,6 +489,28 @@ const knowledge = defineCollection({
     heroLicense: z.string().optional(),
     /** Provenance URL for the hero image (where it was obtained). */
     heroSource: z.string().optional(),
+    /** Hero provenance grammar (see imageSchema). `kind`/`origin`/`branch`/
+     *  `permissionRef` are shared metadata (freshness-neutral); `heroSubject` is
+     *  authored & translated. The 示意图/店家供图/编辑实拍 label is generated from
+     *  (heroKind, heroOrigin). */
+    heroKind: z.enum(['actual', 'representative']).optional(),
+    heroOrigin: z.enum(['editorial', 'owner', 'third-party']).optional(),
+    heroSubject: z.string().optional(),
+    heroBranch: z.string().optional(),
+    heroPermissionRef: z.string().optional(),
+    /** Body images (beyond the hero cover), each with the provenance grammar above.
+     *  See docs/FOOD-ARTICLE-STANDARD.md. */
+    images: z.array(imageSchema).default([]),
+    /** Attributed, venue-specific taste commentary — PLACE food articles only.
+     *  Omit (empty) when no attributable observation exists (an award alone does
+     *  NOT qualify). See reviewSchema + docs/FOOD-ARTICLE-STANDARD.md. */
+    review: z.array(reviewSchema).default([]),
+    /** Food-article template selector — Living in Malaysia → Food & Lifestyle.
+     *  place=venue · dish/ingredient=food subject · cuisine/culture=food culture ·
+     *  practical=rules/how-to. Drives the block set, the image-honesty default and
+     *  whether review[] applies (place only). Optional; set on food-lifestyle
+     *  articles. See docs/FOOD-ARTICLE-STANDARD.md. */
+    foodType: z.enum(['place', 'dish', 'ingredient', 'cuisine', 'culture', 'practical']).optional(),
     featured: z.boolean().default(false),
     /**
      * Sponsor id from src/lib/sponsors.ts. Omit to inherit the pillar default;
