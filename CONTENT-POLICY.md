@@ -86,8 +86,10 @@ not a formality (see GOVERNANCE → *The editorial gate*).
 
 ## 5. No on-site user-generated content
 
-Contribution flows through **GitHub pull requests and issues**, never through an
-on-site comment wall, forum, or profile. This is deliberate: it keeps a reviewer
+When external contribution is open it flows through **GitHub pull requests**, never
+through an on-site comment wall, forum, or profile. (Contribution may be paused from
+time to time — the site then runs read-only — but the publish gate and this policy
+apply to every change either way.) Keeping contribution on GitHub puts a reviewer
 between every word and the live site, and keeps the project clear of social-media
 licensing obligations. Please do not propose features that add on-site UGC surfaces.
 
@@ -96,10 +98,11 @@ licensing obligations. Please do not propose features that add on-site UGC surfa
 If you believe something here is unlawful, inaccurate, infringes copyright, or crosses
 the 3R line:
 
-- **Public:** open a [Report content](https://github.com/negaraku-md/NegaraKu.md/issues/new?template=6-report-content.yml)
+- **Any time:** use the confidential route in [SECURITY.md](SECURITY.md) — this
+  always reaches the steward, including while public contribution is paused.
+- **When public issue reporting is open:** open a
+  [Report content](https://github.com/negaraku-md/NegaraKu.md/issues/new?template=6-report-content.yml)
   issue.
-- **Private / sensitive / legal notice:** use the confidential route in
-  [SECURITY.md](SECURITY.md).
 
 We act on credible reports **promptly** (target: triage within 48 hours; a credible
 unlawful-content or authority notice is actioned on sight — removed or rewritten first,
