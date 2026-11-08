@@ -5,6 +5,7 @@ seoTitle: "JMB so với MC & Tòa Tài phán Quản lý Phân tầng ở Malaysi
 slug: "strata-management-jmb-mc"
 category: "property"
 subcategory: ["strata"]
+alsoIn: ["law"]
 summary: "Hướng dẫn về các lớp quản trị của đời sống phân tầng ở Malaysia theo Luật Quản lý Phân tầng 2013 (Strata Management Act 2013) — khác biệt giữa Ban Quản lý Chung (JMB) và Tập đoàn Quản lý (MC), tài khoản bảo trì so với quỹ dự phòng, cùng Tòa Tài phán Quản lý Phân tầng dành cho tranh chấp."
 
 answer: "Chung cư và căn hộ ở Malaysia được quản trị ở hai cấp theo Luật Quản lý Phân tầng 2013 (Strata Management Act 2013) (Luật 757): một JMB (Ban Quản lý Chung) có tính tạm thời trước khi chủ quyền phân tầng được cấp, sau đó một MC (Tập đoàn Quản lý) tiếp quản sau khi chủ quyền được đăng ký. Cả hai đều bắt buộc thu phí bảo trì và đóng góp vào quỹ dự phòng, và mọi tranh chấp — đặc biệt là nợ phí quá hạn — được đưa ra Tòa Tài phán Quản lý Phân tầng, cơ quan xử lý các khiếu nại đến RM250,000."

@@ -1,4 +1,4 @@
-import { articlesForLocale } from '@/lib/content';
+import { articlesForLocale, isWithheld } from '@/lib/content';
 import { CATEGORIES, loc } from '@/lib/categories';
 import { articleToMarkdown } from '@/lib/raw';
 import { SITE } from '@/lib/site';
@@ -98,6 +98,7 @@ export async function buildLlmsIndex(locale: Locale): Promise<string> {
       (a, b) => (a.data.tier === '1' ? 0 : 1) - (b.data.tier === '1' ? 0 : 1),
     );
     for (const a of ordered) {
+      if (isWithheld(a)) continue; // withheld stale translation: don't list its (outdated) summary
       const url = `${SITE}${localePath(`/${a.data.category}/${a.data.slug}.md`, locale)}`;
       out.push(`- [${a.data.title}](${url}): ${a.data.summary}`);
     }

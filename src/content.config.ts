@@ -338,6 +338,16 @@ const knowledge = defineCollection({
     translationStatus: z
       .enum(['master', 'in-sync', 'stale', 'pending', 'reviewed'])
       .default('master'),
+    /** Critical-correction safeguard behaviour when a TRANSLATION is `stale`
+     *  (the master was corrected but this language has not caught up).
+     *  - `banner` (default): serve the page with a prominent notice linking to the
+     *    corrected language — the reader still sees the old content but is warned.
+     *  - `withhold`: the old instruction could cause harm, so DON'T serve it — the
+     *    stale page shows only the safeguard notice, and it is withheld from search,
+     *    raw Markdown, llms.txt/MCP and the dataset until re-translated.
+     *  Set on the MASTER (inherited by translations); raise to `withhold` on
+     *  high-risk how-to / rules / data articles. See docs/CORRECTION-SAFEGUARD.md. */
+    staleSafeguard: z.enum(['banner', 'withhold']).default('banner'),
 
     // ---- trust & governance ------------------------------------------
     /**

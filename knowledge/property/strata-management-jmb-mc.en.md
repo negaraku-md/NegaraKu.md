@@ -5,6 +5,7 @@ seoTitle: "JMB vs MC & the Strata Management Tribunal in Malaysia"
 slug: "strata-management-jmb-mc"
 category: "property"
 subcategory: ["strata"]
+alsoIn: ["law"]
 summary: "A guide to the layers of strata-living governance in Malaysia under the Strata Management Act 2013 — the difference between a Joint Management Body (JMB) and a Management Corporation (MC), the maintenance account versus the sinking fund, and the Strata Management Tribunal for disputes."
 
 answer: "Condominiums and apartments in Malaysia are governed in two stages under the Strata Management Act 2013 (Act 757): a JMB (Joint Management Body), which is temporary and exists before strata titles are issued, followed by an MC (Management Corporation), which takes over once titles are registered. Both are required to collect maintenance charges and contribute to a sinking fund, and any dispute — especially unpaid charges — is brought to the Strata Management Tribunal, which hears claims of up to RM250,000."

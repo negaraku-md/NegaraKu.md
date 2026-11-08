@@ -127,6 +127,19 @@ export function isTombstone(a: Article): boolean {
   return a.data.status === 'archived' && a.data.tombstone === true;
 }
 
+/** A translation whose master has moved on (a correction landed) but this language
+ *  has not caught up — it may show outdated information. */
+export function isStaleTranslation(a: Article): boolean {
+  return a.data.translationStatus === 'stale';
+}
+
+/** A stale translation of an article whose correction is critical enough to WITHHOLD
+ *  the old content entirely (from the page, search, raw Markdown, llms.txt and the
+ *  dataset) rather than risk a reader acting on it. See docs/CORRECTION-SAFEGUARD.md. */
+export function isWithheld(a: Article): boolean {
+  return a.data.translationStatus === 'stale' && (a.data.staleSafeguard ?? 'banner') === 'withhold';
+}
+
 export function effectiveStatus(a: Article, now: Date = new Date()): string {
   const s = a.data.status;
   if (s === 'published' && a.data.reviewDue && new Date(a.data.reviewDue) < now) {

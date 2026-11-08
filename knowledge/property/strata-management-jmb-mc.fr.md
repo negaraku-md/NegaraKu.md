@@ -5,6 +5,7 @@ seoTitle: "JMB vs MC et le Tribunal de gestion de la copropriété en Malaisie"
 slug: "strata-management-jmb-mc"
 category: "property"
 subcategory: ["strata"]
+alsoIn: ["law"]
 summary: "Un guide sur les niveaux de gouvernance de la vie en copropriété en Malaisie en vertu de la Loi sur la gestion de la copropriété de 2013 — la différence entre un organe de gestion conjointe (JMB) et une société de gestion (MC), le compte d'entretien par rapport au fonds de réserve, et le Tribunal de gestion de la copropriété pour les litiges."
 
 answer: "Les condominiums et les appartements en Malaisie sont régis en deux étapes en vertu de la Loi sur la gestion de la copropriété de 2013 (loi 757) : un JMB (organe de gestion conjointe), qui est temporaire et existe avant la délivrance des titres de copropriété, suivi d'une MC (société de gestion), qui prend le relais une fois les titres enregistrés. Les deux sont tenus de percevoir les charges d'entretien et de cotiser à un fonds de réserve, et tout litige — notamment les charges impayées — est porté devant le Tribunal de gestion de la copropriété, qui connaît des demandes allant jusqu'à RM250,000."

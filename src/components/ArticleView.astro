@@ -62,6 +62,10 @@ const heroAltText = d.hero
   ? (d.heroAlt ?? '')
   : L('Makanan dan gaya hidup Malaysia', 'Malaysian food & lifestyle', '马来西亚美食与生活', 'மலேசிய உணவு மற்றும் வாழ்க்கை முறை', 'マレーシアの食と暮らし', '말레이시아의 음식과 라이프스타일', 'อาหารและไลฟ์สไตล์มาเลเซีย', 'Ẩm thực và đời sống Malaysia', 'Makanan dan gaya hidup Malaysia', 'الطعام ونمط الحياة في ماليزيا', 'मलेशियाई भोजन और जीवनशैली', 'Comida y estilo de vida de Malasia', 'Cuisine et art de vivre malaisiens');
 const cat = getCategory(d.category);
+// "Also in" — the approved cross-placements (alsoIn category ids) shown on the
+// article as alternate category links. Each opens a listing that contains this
+// article (content.ts includes alsoIn guests). Primary category is excluded.
+const alsoInCats = (d.alsoIn ?? []).map((c) => getCategory(c)).filter((c): c is NonNullable<typeof c> => !!c && c.id !== d.category);
 const path = `/${d.category}/${d.slug}`;
 // The GitHub source file for THIS rendered entry: the master is `<slug>.md`,
 // a translation is `<slug>.<lang>.md`. `d.lang` is the actual file shown (it
@@ -110,6 +114,14 @@ const suggestUrl = newIssueUrl({
 // page actually is a translation, i.e. the reader's locale isn't the master.
 const masterLang = d.masterLanguage ?? 'ms';
 const showTranslationReport = locale !== masterLang;
+// Critical-correction safeguard (docs/CORRECTION-SAFEGUARD.md): when the master was
+// corrected but this language is still `stale`, warn the reader (banner) or, for a
+// harmful-if-stale correction, WITHHOLD the old content and show only the notice.
+const staleTranslation = locale !== masterLang && d.translationStatus === 'stale';
+const withheld = staleTranslation && (d.staleSafeguard ?? 'banner') === 'withhold';
+const staleBanner = staleTranslation && !withheld;
+const correctedUrl = localePath(path, masterLang);
+const masterLangName = ({ ms: 'Bahasa Melayu', en: 'English', zh: '中文', ta: 'தமிழ்', ja: '日本語', ko: '한국어', th: 'ไทย', vi: 'Tiếng Việt', id: 'Bahasa Indonesia', ar: 'العربية', hi: 'हिन्दी', es: 'Español', fr: 'Français' } as Record<string, string>)[masterLang] ?? masterLang.toUpperCase();
 const translationUrl = newIssueUrl({
   type: 'translation-issue',
   title: `Translation (${locale}): ${d.title}`,
@@ -322,6 +334,15 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
       )}
     </p>
 
+    {alsoInCats.length > 0 && (
+      <p class="also-in" data-pagefind-ignore>
+        <span class="also-in-lbl">{L('Juga dalam', 'Also in', '也可在', 'இதிலும்', 'こちらにも', '다음에도', 'อยู่ในหมวด', 'Cũng thuộc', 'Juga di', 'موجود أيضًا في', 'यहाँ भी', 'También en', 'Aussi dans')}:</span>
+        {alsoInCats.map((ac, i) => (
+          <>{i > 0 ? <span class="also-in-sep"> · </span> : ' '}<a href={localePath(`/${ac.id}`, locale)}>{loc(ac.name, locale)}</a></>
+        ))}
+      </p>
+    )}
+
     <div class="badges" data-pagefind-ignore>
       <span class="pill mode">
         {
@@ -388,7 +409,19 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   }
 
   <div class="layout">
-    <div class="main">
+    <div class="main" data-pagefind-ignore={withheld || undefined}>
+      {(staleBanner || withheld) && (
+        <div class={`correction-safeguard${withheld ? ' is-withheld' : ''}`} role="alert">
+          <p class="cs-msg">
+            <span class="cs-ico" aria-hidden="true">⚠</span>
+            {withheld
+              ? L('Panduan ini baru dikemas kini. Untuk mengelak maklumat lapuk, versi bahasa ini ditahan sementara sehingga diterjemah semula.', 'This guidance was recently corrected. To avoid outdated information, this language version is temporarily withheld until it is re-translated.', '本内容刚刚更正。为避免过时信息，此语言版本在重新翻译前暂时保留。', 'இந்த வழிகாட்டுதல் சமீபத்தில் திருத்தப்பட்டது. காலாவதியான தகவலைத் தவிர்க்க, மறுமொழிபெயர்ப்பு வரை இந்த மொழி பதிப்பு தற்காலிகமாக நிறுத்தப்பட்டுள்ளது.', 'この案内は最近修正されました。古い情報を避けるため、この言語版は再翻訳まで一時的に非表示です。', '이 안내는 최근 수정되었습니다. 오래된 정보를 피하기 위해 이 언어 버전은 재번역 전까지 일시적으로 보류됩니다.', 'คำแนะนำนี้เพิ่งได้รับการแก้ไข เพื่อเลี่ยงข้อมูลล้าสมัย เวอร์ชันภาษานี้ถูกระงับชั่วคราวจนกว่าจะแปลใหม่', 'Hướng dẫn này vừa được chỉnh sửa. Để tránh thông tin lỗi thời, phiên bản ngôn ngữ này tạm thời bị giữ lại cho đến khi dịch lại.', 'Panduan ini baru saja dikoreksi. Untuk menghindari informasi usang, versi bahasa ini ditahan sementara hingga diterjemahkan ulang.', 'تم تصحيح هذا الإرشاد مؤخرًا. لتجنّب المعلومات القديمة، نسخة هذه اللغة محجوبة مؤقتًا حتى تُترجم من جديد.', 'यह मार्गदर्शन हाल ही में ठीक किया गया है। पुरानी जानकारी से बचने के लिए, यह भाषा संस्करण पुनः अनुवाद होने तक अस्थायी रूप से रोका गया है।', 'Esta guía se corrigió recientemente. Para evitar información desactualizada, esta versión en este idioma se retiene temporalmente hasta volver a traducirla.', 'Ce guide vient d’être corrigé. Pour éviter toute information obsolète, cette version linguistique est temporairement retirée jusqu’à sa retraduction.')
+              : L('Terjemahan ini mungkin lapuk — artikel telah dikemas kini dan versi bahasa ini belum menyusul.', 'This translation may be out of date — the article was corrected and this language has not caught up yet.', '此翻译可能已过时——文章已更正，而此语言版本尚未跟进。', 'இந்த மொழிபெயர்ப்பு காலாவதியாகியிருக்கலாம் — கட்டுரை திருத்தப்பட்டது, இந்த மொழி இன்னும் புதுப்பிக்கப்படவில்லை.', 'この翻訳は古い可能性があります — 記事が修正され、この言語版はまだ反映されていません。', '이 번역은 오래되었을 수 있습니다 — 기사가 수정되었지만 이 언어 버전은 아직 반영되지 않았습니다.', 'คำแปลนี้อาจล้าสมัย — บทความได้รับการแก้ไขแล้วแต่ภาษานี้ยังไม่ได้ปรับตาม', 'Bản dịch này có thể đã lỗi thời — bài viết đã được chỉnh sửa nhưng ngôn ngữ này chưa cập nhật.', 'Terjemahan ini mungkin sudah usang — artikel telah dikoreksi dan versi bahasa ini belum menyusul.', 'قد تكون هذه الترجمة قديمة — فقد صُحّح المقال ولم تواكبه هذه اللغة بعد.', 'यह अनुवाद पुराना हो सकता है — लेख को ठीक किया गया है और यह भाषा अभी अद्यतित नहीं है।', 'Esta traducción puede estar desactualizada: el artículo se corrigió y este idioma aún no se ha actualizado.', 'Cette traduction peut être obsolète : l’article a été corrigé et cette langue n’a pas encore été mise à jour.')}
+          </p>
+          <a class="cs-link" href={correctedUrl}>{L('Baca versi terkini', 'Read the current version', '阅读最新版本', 'தற்போதைய பதிப்பைப் படிக்கவும்', '最新版を読む', '최신 버전 보기', 'อ่านเวอร์ชันล่าสุด', 'Đọc bản hiện tại', 'Baca versi terkini', 'اقرأ النسخة الحالية', 'मौजूदा संस्करण पढ़ें', 'Leer la versión actual', 'Lire la version actuelle')} ({masterLangName}) →</a>
+        </div>
+      )}
+      {!withheld && (<>
       {
         heroSrc && (
           <figure class={`art-photo art-photo-inline${heroIsFallback ? ' art-photo-fallback' : ''}`} data-pagefind-ignore>
@@ -764,6 +797,7 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
           )}
         </nav>
       )}
+      </>)}
 
     </div>
 
@@ -1017,6 +1051,29 @@ const aHref = (a: Article) => localePath(`/${a.data.category}/${a.data.slug}`, l
   .crumb a { color: var(--ink); text-decoration: none; }
   .crumb a:hover { color: var(--gold); }
   .crumb span { color: var(--ink); }
+  .also-in { font-size: 0.8rem; color: var(--ink-soft); margin: -0.6rem 0 1rem; }
+  .also-in-lbl { text-transform: uppercase; letter-spacing: 0.04em; font-size: 0.72rem; font-weight: 700; color: var(--ink-soft); }
+  .also-in a { color: var(--ink); text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--gold) 55%, transparent); text-underline-offset: 2px; }
+  .also-in a:hover { color: var(--gold); }
+  .also-in-sep { opacity: 0.6; }
+
+  /* Critical-correction safeguard banner (stale translation). */
+  .correction-safeguard {
+    border: 1px solid color-mix(in srgb, var(--gold) 55%, var(--line));
+    background: color-mix(in srgb, var(--gold) 12%, var(--surface));
+    border-radius: 12px;
+    padding: 0.9rem 1.1rem;
+    margin: 0 0 1.3rem;
+  }
+  .correction-safeguard.is-withheld {
+    border-color: color-mix(in srgb, #f87171 60%, var(--line));
+    background: color-mix(in srgb, #f87171 12%, var(--surface));
+  }
+  .correction-safeguard .cs-msg { margin: 0 0 0.5rem; font-size: 0.9rem; color: var(--ink); display: flex; gap: 0.5rem; }
+  .correction-safeguard .cs-ico { color: var(--gold); font-size: 1.05rem; line-height: 1.2; }
+  .correction-safeguard.is-withheld .cs-ico { color: #f87171; }
+  .correction-safeguard .cs-link { font-weight: 700; color: var(--gold); text-decoration: none; }
+  .correction-safeguard .cs-link:hover { text-decoration: underline; }
   .badges { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; margin-bottom: 1rem; }
   .pill {
     font-size: 0.68rem; font-weight: 700; border-radius: 999px; padding: 0.1rem 0.5rem;

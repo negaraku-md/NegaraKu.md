@@ -59,6 +59,9 @@ for (const file of walk(KNOWLEDGE)) {
   const raw = readFileSync(file, 'utf8');
   const { data: d, content } = matter(raw);
   if (d.status !== 'published' || d.hidden === true) { skipped++; continue; }
+  // Critical-correction safeguard: a withheld stale translation must not ship its
+  // old content to downstream dataset consumers (docs/CORRECTION-SAFEGUARD.md).
+  if (d.translationStatus === 'stale' && (d.staleSafeguard ?? 'banner') === 'withhold') { skipped++; continue; }
   const lang = d.lang || 'ms';
   if (!LANGS.includes(lang)) { skipped++; continue; }
 

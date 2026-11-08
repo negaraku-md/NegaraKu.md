@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs';
 import type { Article } from './content';
+import { isWithheld } from './content';
 import { SITE, REPO } from './site';
 import type { Locale } from './categories';
 import { localePath } from './i18n';
@@ -26,6 +27,22 @@ function sourceBody(article: Article): string {
 export function articleToMarkdown(article: Article, locale: Locale): string {
   const d = article.data;
   const url = SITE + localePath(`/${d.category}/${d.slug}`, locale);
+  // Critical-correction safeguard: a withheld stale translation must NOT serve its
+  // old body to AI/raw consumers — return only a notice pointing at the corrected
+  // language (docs/CORRECTION-SAFEGUARD.md).
+  if (isWithheld(article)) {
+    const master = d.masterLanguage ?? 'ms';
+    const correctedUrl = SITE + localePath(`/${d.category}/${d.slug}`, master);
+    return [
+      `# ${d.title}`,
+      '',
+      `> This ${d.lang} version is temporarily withheld: the article was recently corrected and this translation has not caught up. To avoid outdated information, its content is not served here.`,
+      '',
+      `- Current, corrected version (${master}): ${correctedUrl}`,
+      `- Canonical: ${url}`,
+      '',
+    ].join('\n');
+  }
   const lines: string[] = [];
   lines.push(`# ${d.title}`, '');
   lines.push(`> ${d.summary}`, '');

@@ -5,6 +5,7 @@ seoTitle: "JMB vs MC & Tribunal Pengurusan Strata di Malaysia"
 slug: "strata-management-jmb-mc"
 category: "property"
 subcategory: ["strata"]
+alsoIn: ["law"]
 summary: "Panduan lapisan tata kelola kehidupan strata di Malaysia di bawah Strata Management Act 2013 — perbedaan antara Badan Pengurusan Bersama (JMB) dan Perbadanan Pengurusan (MC), akun pemeliharaan dibandingkan dana cadangan, serta Tribunal Pengurusan Strata untuk sengketa."
 
 answer: "Kondominium dan apartemen di Malaysia dikelola dalam dua tingkat di bawah Strata Management Act 2013 (Act 757): sebuah JMB (Badan Pengurusan Bersama) yang bersifat sementara sebelum hak milik strata diterbitkan, kemudian sebuah MC (Perbadanan Pengurusan) yang mengambil alih setelah hak milik didaftarkan. Keduanya wajib memungut biaya pemeliharaan dan menyumbang kepada dana cadangan, dan sengketa apa pun — terutama tunggakan biaya — dibawa ke Tribunal Pengurusan Strata yang menangani tuntutan hingga RM250,000."

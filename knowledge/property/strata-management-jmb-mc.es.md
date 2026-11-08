@@ -5,6 +5,7 @@ seoTitle: "JMB vs MC y el Tribunal de Gestión de Estratos en Malasia"
 slug: "strata-management-jmb-mc"
 category: "property"
 subcategory: ["strata"]
+alsoIn: ["law"]
 summary: "Una guía sobre los niveles de gobernanza de la vida en estratos en Malasia conforme a la Ley de Gestión de Estratos de 2013 — la diferencia entre un Órgano de Gestión Conjunta (JMB) y una Corporación de Gestión (MC), la cuenta de mantenimiento frente al fondo de reserva, y el Tribunal de Gestión de Estratos para los conflictos."
 
 answer: "Los condominios y apartamentos en Malasia se rigen en dos etapas conforme a la Ley de Gestión de Estratos de 2013 (Ley 757): un JMB (Órgano de Gestión Conjunta), que es temporal y existe antes de que se emitan los títulos de estrato, seguido de una MC (Corporación de Gestión), que asume el control una vez registrados los títulos. Ambos están obligados a cobrar las cuotas de mantenimiento y a aportar a un fondo de reserva, y cualquier conflicto — especialmente las cuotas impagadas — se lleva al Tribunal de Gestión de Estratos, que conoce reclamaciones de hasta RM250,000."

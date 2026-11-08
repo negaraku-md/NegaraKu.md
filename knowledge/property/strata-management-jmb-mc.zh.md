@@ -5,6 +5,7 @@ seoTitle: "马来西亚 JMB 与 MC 及分层管理仲裁庭比较"
 slug: "strata-management-jmb-mc"
 category: "property"
 subcategory: ["strata"]
+alsoIn: ["law"]
 summary: "本指南解析马来西亚《2013年分层管理法令》下分层居住的治理层级——联合管理机构（JMB）与管理机构（MC）的区别、维修账户与偿债基金（sinking fund）之别，以及处理纠纷的分层管理仲裁庭。"
 
 answer: "马来西亚的共管公寓（condominium）与公寓（apartment）在《2013年分层管理法令》（第757号法令）下分两个阶段治理：先由临时性的 JMB（联合管理机构）在分层地契签发前管理，待地契注册后再由 MC（管理机构）接手。两者都必须征收维修费并向偿债基金缴款，任何纠纷——尤其是拖欠费用——都提交分层管理仲裁庭处理，该庭受理不超过 RM250,000 的索赔。"
