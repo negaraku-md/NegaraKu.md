@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "马来西亚清真认证：JAKIM 清真证书如何运作"
 seoTitle: "马来西亚清真认证：JAKIM 清真证书与 MS 1500 指南"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "由 JAKIM（马来西亚伊斯兰发展局）颁发的马来西亚清真标志（Halal Malaysia）是联邦法律唯一认可的官方清真标记。本指南解释该证书的含义、MS 1500 标准、MYeHALAL 系统，以及如何核实清真标志的真伪。"

@@ -8,6 +8,9 @@ heroAlt: "belacan का एक खंड, किण्वित झींगा
 heroCredit: "方畢可 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AShrimp_paste_manufacturing_in_Tai_O.jpg"
+foodType: "ingredient"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["ingredients"]
 summary: "Belacan बहुत छोटे झींगों और नमक का सुखाया एवं किण्वित किया हुआ पेस्ट है, जो मलय और न्योन्या पाक-कला को उसका गहरा उमामी आधार देता है। यह गाइड बताती है कि यह क्या है और कैसे बनता है, इसकी मशहूर तीखी गंध और रसोइये इसे पहले क्यों भूनते हैं, sambal belacan, rojak, asam laksa और nasi goreng में इसकी भूमिका, यह कहाँ बनता है, इसके ग्रेड कैसे भिन्न होते हैं, और दक्षिण-पूर्व एशिया के अन्य झींगा पेस्टों से इसका क्या संबंध है।"

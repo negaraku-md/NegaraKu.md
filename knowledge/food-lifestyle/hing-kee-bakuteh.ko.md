@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — 진한 약재 국물에 담긴 돼지갈비, 옆에 �
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "바쿠테(육골차)"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh는 쿠알라룸푸르 121 Jalan Kepong에 있는 MICHELIN Bib Gourmand bak kut teh 식당입니다. 고전적이고 순한 약재 국물과 더 진한 드라이 버전을 모두 제공하며, 네 채의 숍하우스에 걸쳐 있어 점심시간에는 자리가 가득 찹니다. 이 글은 이곳이 무엇인지, 대표 음식, 위치, 방문 방법을 다룹니다."
@@ -35,9 +39,9 @@ faq:
     a: "쿠알라룸푸르 Taman Usahawan, 121 Jalan Kepong에 있습니다. 식당은 대로를 따라 네 채의 숍하우스를 차지해 좌석이 넉넉하며, MICHELIN은 점심시간에 특히 인기가 많다고 언급합니다."
 
 lang: "ko"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "국물 버전과 마른 버전"
+    flavor:
+      - "국물 버전은 한방 향이 은은하고 살짝 단맛이 도는 순한 맛이 특징"
+      - "마른 버전은 더 진하고 걸쭉하며 매콤함"
+    tradeoffs:
+      - "순한 국물을 좋아하면 국물 버전부터; 진한 한방 향과 매운맛을 좋아하면 마른 버전을 선택"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand 목록, 신규 5곳·제외 3곳 (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

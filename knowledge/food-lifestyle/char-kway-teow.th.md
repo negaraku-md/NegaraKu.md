@@ -8,6 +8,9 @@ heroAlt: "จานหนึ่งของ char kway teow ก๋วยเตี
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "คู่มือเกี่ยวกับ char kway teow — ก๋วยเตี๋ยวเส้นใหญ่ที่ผัดบนไฟแรงกับกุ้ง หอยแครง ไข่ และกุนเชียง ครอบคลุม wok hei ต้นกำเนิดจากแรงงานชาวแต้จิ๋ว เหตุใดปีนังจึงเป็นบ้านทางจิตวิญญาณของมัน รูปแบบหลัก ๆ และความแตกต่างระหว่างฮาลาล/ไม่ฮาลาล"

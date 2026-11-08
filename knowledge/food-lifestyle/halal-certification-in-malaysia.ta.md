@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "மலேசியாவில் ஹலால் சான்றளிப்பு: JAKIM சான்றிதழ் எவ்வாறு செயல்படுகிறது"
 seoTitle: "மலேசிய ஹலால் சான்றளிப்பு: JAKIM ஹலால் சான்றிதழ் & MS 1500 வழிகாட்டி"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "JAKIM வழங்கும் Halal Malaysia லோகோ, கூட்டாட்சி (federal) சட்டத்தின் கீழ் அங்கீகரிக்கப்பட்ட ஒரே அதிகாரப்பூர்வ ஹலால் அடையாளம் ஆகும். அந்தச் சான்றிதழின் பொருள் என்ன, MS 1500 தரநிலை, MYeHALAL அமைப்பு, மற்றும் உண்மையான ஹலால் லோகோவை எவ்வாறு சரிபார்ப்பது என்பதை இந்த வழிகாட்டி விளக்குகிறது."

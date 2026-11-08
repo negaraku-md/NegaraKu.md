@@ -8,6 +8,9 @@ heroAlt: "一盘炒粿条，与虾、血蚶、鸡蛋和韭菜一同翻炒的扁�
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "一份关于炒粿条的指南——扁身粿条在猛火上翻炒，配以虾、血蚶、鸡蛋和腊肠。内容涵盖镬气、它作为潮州劳工菜的渊源、为何槟城是它的精神故乡、主要变体，以及清真／非清真之别。"

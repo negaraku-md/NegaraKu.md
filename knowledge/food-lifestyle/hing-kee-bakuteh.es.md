@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — costillas de cerdo en una sopa oscura de hierbas, con 
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "Bak kut teh"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh es una casa de bak kut teh con MICHELIN Bib Gourmand en 121 Jalan Kepong, Kuala Lumpur. Sirve tanto la clásica sopa herbal suave como una versión seca más intensa, repartida en cuatro casas-tienda que se llenan a la hora del almuerzo. Este perfil cubre qué es, sus platos distintivos, dónde encontrarlo y cómo visitarlo."
@@ -35,9 +39,9 @@ faq:
     a: "Está en 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur. El restaurante ocupa cuatro casas-tienda a lo largo del bulevar, por lo que hay abundantes asientos, y MICHELIN señala que es especialmente popular a la hora del almuerzo."
 
 lang: "es"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "Versión en sopa y versión seca"
+    flavor:
+      - "La versión en sopa es suave, con un toque herbal ligero y algo de dulzor"
+      - "La versión seca es más espesa, más intensa y más picante"
+    tradeoffs:
+      - "¿Prefieres un caldo suave? Empieza por la versión en sopa; si te gusta un bak kut teh herbal intenso y picante, elige la seca"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "La lista Bib Gourmand de la MICHELIN Guide Kuala Lumpur and Penang 2026 tiene cinco nuevas incorporaciones y tres bajas (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

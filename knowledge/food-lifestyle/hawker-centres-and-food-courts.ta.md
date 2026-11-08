@@ -8,6 +8,9 @@ heroAlt: "விற்பனையாளர் கடைகள் நிறை�
 heroCredit: "Chongkian / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
+foodType: "culture"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "பெரும்பாலான மலேசியர்கள் விலைமலிவான, திறந்தவெளி வடிவங்கள் சிலவற்றில்தான் வெளியில் சாப்பிடுகிறார்கள் — பாரம்பரிய சீன kopitiam, இந்திய-முஸ்லிம் mamak, மேலும் பல தனித்தனி stall-கள் ஒரே அமரும் இடத்தைப் பகிர்ந்துகொள்ளும் ஃபுட் கோர்ட் அல்லது medan selera. இந்த வடிவங்கள் எவ்வாறு வேறுபடுகின்றன, ஆர்டர் செய்தலும் பணம் செலுத்துதலும் எப்படி நடக்கிறது, A/B/C சுகாதார தரநிலைகள் என்ன பொருள், மேலும் இவை அனைத்தும் pasar malam இரவுச் சந்தையிலிருந்து எவ்வாறு வேறுபடுகின்றன என்பதை இந்த வழிகாட்டி விளக்குகிறது."

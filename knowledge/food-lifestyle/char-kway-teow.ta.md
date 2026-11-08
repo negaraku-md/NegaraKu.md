@@ -8,6 +8,9 @@ heroAlt: "இறால், கொக்கிள்ஸ், முட்டை �
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "Char kway teow பற்றிய ஒரு வழிகாட்டி — கடும் தீயில் இறால், கொக்கிள்ஸ், முட்டை மற்றும் சீன தொத்திறைச்சியுடன் வறுக்கப்படும் தட்டையான அரிசி நூடுல்ஸ். wok hei, அதன் Teochew தொழிலாளர் தோற்றம், பினாங் ஏன் அதன் ஆன்மீக இல்லம், முக்கிய வகைகள், மற்றும் halal/halal அல்லாத வேறுபாடு ஆகியவற்றை உள்ளடக்கியது."

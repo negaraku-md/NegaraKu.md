@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — 深色药材汤中的猪肋排，旁边搭配一份干
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "肉骨茶"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "兴记肉骨茶（Hing Kee Bakuteh）是吉隆坡甲洞 Jalan Kepong 的一家肉骨茶专卖店。第一次来，想喝汤就点汤版（药材味较淡、汤头带点甜），想吃浓味、能吃辣就点干版（更浓稠、更辣）。店内供应猪肉，属非清真餐厅，分布在四间店屋之间，午餐时段尤其繁忙，并获 MICHELIN 必比登推介。本篇介绍该点什么、在哪里以及如何前往。"
@@ -35,9 +39,9 @@ faq:
     a: "它位于吉隆坡 Taman Usahawan 121 Jalan Kepong。餐馆沿着林荫大道占据四间店屋，座位充裕；MICHELIN 指出它在午餐时段尤其受欢迎。"
 
 lang: "zh"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "汤版与干版"
+    flavor:
+      - "汤版药材味较淡、汤头带微甜"
+      - "干版更浓稠、更浓郁、带辣"
+    tradeoffs:
+      - "喜欢温和汤头，可以从汤版开始；偏爱浓重药材味、能吃辣，可以选干版"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -68,6 +82,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand 名单新增五家、剔除三家（MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped）"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

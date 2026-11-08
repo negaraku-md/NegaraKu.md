@@ -8,6 +8,9 @@ heroAlt: "طبق من char kway teow، نودلز أرز مسطّحة مقليّ
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "دليل حول char kway teow — نودلز أرز مسطّحة تُقلى على نار قوية مع الروبيان والمحار والبيض والنقانق الصينية. يتناول wok hei، وأصله بوصفه طبق عمّال التيوتشو، ولماذا تُعدّ بينانغ موطنه الروحي، والأنواع الرئيسية، والفرق بين الحلال وغير الحلال."

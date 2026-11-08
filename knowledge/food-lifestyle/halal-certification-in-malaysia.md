@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "Pensijilan Halal di Malaysia: Cara Sijil JAKIM Berfungsi"
 seoTitle: "Pensijilan Halal Malaysia: Panduan Sijil Halal JAKIM & MS 1500"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "Logo Halal Malaysia yang dikeluarkan JAKIM ialah satu-satunya tanda halal rasmi yang diiktiraf undang-undang persekutuan. Panduan ini menerangkan maksud sijil itu, piawaian MS 1500, sistem MYeHALAL, dan cara mengesahkan logo halal yang tulen."

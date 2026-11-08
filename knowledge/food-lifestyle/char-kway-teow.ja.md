@@ -8,6 +8,9 @@ heroAlt: "エビ、ハイガイ、卵、ニラとともに炒めた平打ち米�
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "char kway teow のガイド——強火でエビ、ハイガイ、卵、中国式ソーセージとともに炒めた平打ち米麺。wok hei、Teochew（潮州）の労働者に由来する起源、なぜペナンがその精神的な故郷なのか、主な種類、そしてハラル／非ハラルの区別を扱う。"

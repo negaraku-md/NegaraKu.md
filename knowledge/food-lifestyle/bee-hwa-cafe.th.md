@@ -7,6 +7,9 @@ heroAlt: "ชาร์กวยเตี๋ยว ก๋วยเตี๋ยว
 heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "th"

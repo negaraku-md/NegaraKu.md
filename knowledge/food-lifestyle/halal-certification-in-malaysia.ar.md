@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "اعتماد الحلال في ماليزيا: كيف تعمل شهادة JAKIM"
 seoTitle: "اعتماد الحلال في ماليزيا: دليل شهادة الحلال من JAKIM ومعيار MS 1500"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "شعار الحلال الماليزي الصادر عن JAKIM هو علامة الحلال الرسمية الوحيدة المعترَف بها بموجب القانون الاتحادي. يشرح هذا الدليل معنى الشهادة، ومعيار MS 1500، ونظام MYeHALAL، وكيفية التحقق من شعار حلال أصيل."

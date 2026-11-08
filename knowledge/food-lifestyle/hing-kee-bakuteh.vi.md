@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — sườn heo trong súp thảo mộc màu sẫm, kèm t
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "Bak kut teh"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh là một quán bak kut teh đạt MICHELIN Bib Gourmand tại 121 Jalan Kepong, Kuala Lumpur. Quán phục vụ cả món canh thảo mộc cổ điển vị nhẹ lẫn phiên bản khô đậm đà hơn, trải rộng trên bốn căn nhà phố luôn chật kín vào giờ trưa. Bài viết này trình bày quán là gì, món đặc trưng, vị trí và cách ghé thăm."
@@ -35,9 +39,9 @@ faq:
     a: "Quán ở 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur. Quán chiếm bốn căn nhà phố dọc theo đại lộ nên có nhiều chỗ ngồi, và MICHELIN lưu ý quán đặc biệt được ưa chuộng vào giờ trưa."
 
 lang: "vi"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "Phiên bản nước và phiên bản khô"
+    flavor:
+      - "Phiên bản nước có vị thanh nhẹ, hương thuốc bắc dịu và hơi ngọt"
+      - "Phiên bản khô đậm đà hơn, sánh hơn và cay hơn"
+    tradeoffs:
+      - "Thích nước dùng thanh nhẹ? Bắt đầu với phiên bản nước; nếu thích vị thuốc bắc đậm và cay, chọn phiên bản khô"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "Danh sách Bib Gourmand của MICHELIN Guide Kuala Lumpur and Penang 2026 có năm quán mới, ba quán bị loại (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

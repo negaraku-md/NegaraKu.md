@@ -8,6 +8,9 @@ heroAlt: "புளிக்கவைக்கப்பட்ட இறால்
 heroCredit: "方畢可 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AShrimp_paste_manufacturing_in_Tai_O.jpg"
+foodType: "ingredient"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["ingredients"]
 summary: "Belacan என்பது மலாய் மற்றும் நோன்யா சமையலுக்கு ஆழமான உமாமி சுவை அடித்தளத்தைத் தரும், சிறிய இறால்களையும் உப்பையும் உலர்த்தி புளிக்கவைத்து உருவாக்கப்படும் விழுதாகும். அது என்ன, எப்படி உருவாக்கப்படுகிறது, அதன் பிரபலமான காரமான வாசனை மற்றும் சமையற்காரர்கள் ஏன் அதை முதலில் வறுக்கிறார்கள், sambal belacan, rojak, asam laksa மற்றும் nasi goreng ஆகியவற்றில் அதன் பங்கு, எங்கு உற்பத்தி செய்யப்படுகிறது, தரங்கள் எவ்வாறு வேறுபடுகின்றன, மற்றும் தென்கிழக்காசியாவின் பிற இறால் விழுதுகளுடன் அது எவ்வாறு தொடர்புடையது என்பதை இந்த வழிகாட்டி விளக்குகிறது."

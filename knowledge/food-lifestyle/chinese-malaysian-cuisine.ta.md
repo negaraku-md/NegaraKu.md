@@ -8,6 +8,9 @@ heroAlt: "Dim sum, சீன-மலேசிய உணவின் ஒரு ப
 heroCredit: "Geoffreyrabbit / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ADim_Sum_collection_in_Chinese_restaurant.jpg"
+foodType: "cuisine"
+heroKind: "representative"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "சீன-மலேசிய உணவு என்பது மலேசியாவின் சீன சமூகங்களின் உணவு; இது ஐந்து முக்கிய பேச்சுவழக்கு நீரோட்டங்களால் — Hokkien, Cantonese, Hakka, Teochew மற்றும் Hainanese — வடிவமைக்கப்பட்டது, ஒவ்வொன்றும் தத்தம் உணவுகளைக் கொண்டுவந்து, பின்னர் உள்ளூர் பொருட்களுக்கு ஏற்ப மாற்றிக்கொண்டன. இந்த வழிகாட்டி பேச்சுவழக்கு சமையலறைகளை (Hokkien mee மற்றும் bak kut teh முதல் Cantonese பொரித்த இறைச்சிகள், Hakka yong tau foo, Teochew கஞ்சி மற்றும் Hainanese கோழி சோறு வரை), அவற்றைப் பரிமாறும் kopitiam மற்றும் tai chow பண்பாட்டையும், நோன்யா சமையல் தனித்த கிளையாக எப்படி வளர்ந்தது என்பதையும் வரைபடமாக்குகிறது."

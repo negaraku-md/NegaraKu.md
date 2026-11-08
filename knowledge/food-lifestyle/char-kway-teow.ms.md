@@ -8,6 +8,9 @@ heroAlt: "Sepinggan char kway teow, kuetiau rata beras goreng dengan udang, kera
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "Panduan tentang char kway teow — kuetiau rata beras yang digoreng di atas api yang kuat bersama udang, kerang, telur dan sosej Cina. Merangkumi wok hei, asal usulnya sebagai hidangan buruh Teochew, mengapa Pulau Pinang ialah tanah air rohaninya, variasi utama, dan perbezaan halal/bukan halal."

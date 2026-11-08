@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "Chứng nhận Halal ở Malaysia: Cách Giấy chứng nhận JAKIM hoạt động"
 seoTitle: "Chứng nhận Halal Malaysia: Hướng dẫn Giấy chứng nhận Halal JAKIM & MS 1500"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "Logo Halal Malaysia do JAKIM cấp là dấu halal chính thức duy nhất được luật liên bang công nhận. Hướng dẫn này giải thích ý nghĩa của giấy chứng nhận đó, tiêu chuẩn MS 1500, hệ thống MYeHALAL, và cách xác minh một logo halal thật."

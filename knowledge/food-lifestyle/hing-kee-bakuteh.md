@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — pork ribs in a dark herbal soup, with a dry claypot ve
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "Bak kut teh"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh is a bak kut teh specialist on Jalan Kepong in Kepong, Kuala Lumpur. First time? Order the soup version for a milder, lightly sweet herbal pork-rib broth, or the dry version for a richer, thicker, spicier claypot. It serves pork (non-halal), spreads across four shophouses and is busiest at lunch — and it carries a MICHELIN Bib Gourmand. This profile covers what to order, where to find it and how to visit."
@@ -48,6 +52,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "Soup version & dry version"
+    flavor:
+      - "The soup version is characteristically mild, with a light herbal note and a touch of sweetness"
+      - "The dry version is thicker, richer and spicier"
+    tradeoffs:
+      - "Prefer a gentle broth? Start with the soup version; if you like a strong herbal, spicier bak kut teh, choose the dry"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -67,6 +81,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

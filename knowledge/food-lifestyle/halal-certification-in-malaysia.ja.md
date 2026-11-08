@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "マレーシアのハラル認証：JAKIMハラル証明書の仕組み"
 seoTitle: "マレーシアのハラル認証：JAKIMハラル証明書とMS 1500ガイド"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "JAKIMが発行するHalal Malaysiaロゴは、連邦法で認められた唯一の公式ハラルマークである。本ガイドは、この証明書が意味すること、MS 1500規格、MYeHALALシステム、そして真正なハラルロゴの確認方法を解説する。"

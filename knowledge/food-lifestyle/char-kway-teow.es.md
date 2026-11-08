@@ -8,6 +8,9 @@ heroAlt: "Un plato de char kway teow, fideos planos de arroz salteados con gamba
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "Una guía sobre el char kway teow — fideos planos de arroz salteados a fuego vivo con gambas, berberechos, huevo y salchicha china. Cubre el wok hei, su origen como comida de los trabajadores teochew, por qué Penang es su hogar espiritual, las principales variantes y la distinción entre halal y no halal."

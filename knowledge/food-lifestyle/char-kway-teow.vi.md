@@ -8,6 +8,9 @@ heroAlt: "Một đĩa char kway teow, mì gạo dẹt xào với tôm, sò huy�
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "Hướng dẫn về char kway teow — mì gạo dẹt xào trên lửa lớn với tôm, sò huyết, trứng và lạp xưởng. Bao gồm wok hei, nguồn gốc từ tầng lớp lao động Triều Châu, vì sao Penang là quê hương tinh thần của nó, các biến thể chính, và sự phân biệt halal/không halal."

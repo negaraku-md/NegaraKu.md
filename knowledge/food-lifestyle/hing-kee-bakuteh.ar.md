@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — ضلوع خنزير في حساء أعشاب داكن�
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "باك كوت تيه"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh هو مطعم bak kut teh حائز على MICHELIN Bib Gourmand في 121 Jalan Kepong بكوالالمبور. يقدّم حساء الأعشاب الكلاسيكي الخفيف والنسخة الجافة الأكثر كثافة معاً، وينتشر عبر أربعة محلات تمتلئ وقت الغداء. يتناول هذا الملف ما هو المطعم، وأطباقه المميّزة، وموقعه، وكيفية زيارته."
@@ -35,9 +39,9 @@ faq:
     a: "يقع في 121 Jalan Kepong، Taman Usahawan، كوالالمبور. يشغل المطعم أربعة محلات على امتداد الجادة، لذا تتوافر مقاعد كثيرة، ويشير MICHELIN إلى أنه شائع بوجه خاص وقت الغداء."
 
 lang: "ar"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "نسخة الحساء والنسخة الجافة"
+    flavor:
+      - "تتميّز نسخة الحساء بنكهة خفيفة ولمسة عشبية رقيقة مع قليل من الحلاوة"
+      - "النسخة الجافة أكثر كثافة وغنى وحرارة"
+    tradeoffs:
+      - "تفضّل مرقًا لطيفًا؟ ابدأ بنسخة الحساء؛ وإن كنت تحب نكهة الأعشاب القوية والحرارة فاختر النسخة الجافة"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "قائمة Bib Gourmand لدليل MICHELIN Guide Kuala Lumpur and Penang 2026 تضم خمسة داخلين جدد وثلاثة مستبعدين (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

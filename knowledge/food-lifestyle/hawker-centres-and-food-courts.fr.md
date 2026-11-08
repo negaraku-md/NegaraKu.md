@@ -8,6 +8,9 @@ heroAlt: "L'intérieur d'une aire de restauration malaisienne bordée d'étals d
 heroCredit: "Chongkian / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
+foodType: "culture"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "La plupart des Malaisiens mangent dehors dans une poignée de formats bon marché et à plan ouvert : le kopitiam chinois traditionnel, le mamak indo-musulman et l'aire de restauration ou medan selera, où de nombreux stands indépendants partagent un même espace de tables. Ce guide explique en quoi ces formats diffèrent, comment se passent la commande et le paiement, ce que signifient les grades d'hygiène A/B/C, et en quoi tout cela diffère du pasar malam, le marché de nuit."

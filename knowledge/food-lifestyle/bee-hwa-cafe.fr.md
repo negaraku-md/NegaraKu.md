@@ -7,6 +7,9 @@ heroAlt: "Char kway teow, nouilles de riz plates sautées au wok — image repr�
 heroCredit: "Alpha from Melbourne, Australia / Wikimedia Commons"
 heroLicense: "CC BY-SA 2.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Char_kway_teow_-_Old_Town_Kopitiam.jpg"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 lang: "fr"

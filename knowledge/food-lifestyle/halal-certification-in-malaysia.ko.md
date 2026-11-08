@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "말레이시아의 할랄 인증: JAKIM 인증서는 어떻게 작동하나"
 seoTitle: "말레이시아 할랄 인증: JAKIM 할랄 인증서 및 MS 1500 안내"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "JAKIM이 발급하는 Halal Malaysia 로고는 연방법이 인정하는 유일한 공식 할랄 표식입니다. 이 안내서는 그 인증서가 무엇을 뜻하는지, MS 1500 표준, MYeHALAL 시스템, 그리고 진짜 할랄 로고를 확인하는 법을 설명합니다."

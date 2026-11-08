@@ -8,6 +8,9 @@ heroAlt: "새우, 꼬막, 달걀, 부추를 넣고 볶은 납작 쌀국수 한 �
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "char kway teow 안내서 — 센 불에서 새우, 꼬막, 달걀, 중국식 소시지와 함께 볶은 납작 쌀국수. wok hei, Teochew(차오저우) 노동자에서 비롯된 기원, 왜 페낭이 그 정신적 고향인지, 주요 변형, 그리고 할랄/비할랄 구분을 다룬다."

@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — travers de porc dans une soupe d'herbes sombre, avec u
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "Bak kut teh"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh est une maison de bak kut teh MICHELIN Bib Gourmand au 121 Jalan Kepong, à Kuala Lumpur. Elle sert à la fois la classique soupe aux herbes douce et une version sèche plus riche, répartie sur quatre maisons de boutique qui se remplissent au déjeuner. Ce profil présente ce que c'est, ses plats signatures, où la trouver et comment s'y rendre."
@@ -35,9 +39,9 @@ faq:
     a: "Il se trouve au 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur. Le restaurant occupe quatre maisons de boutique le long du boulevard, il y a donc de nombreuses places, et MICHELIN note qu'il est particulièrement prisé au déjeuner."
 
 lang: "fr"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "Version en soupe et version sèche"
+    flavor:
+      - "La version en soupe est douce, avec une note herbale légère et une pointe de sucré"
+      - "La version sèche est plus épaisse, plus riche et plus relevée"
+    tradeoffs:
+      - "Vous préférez un bouillon doux ? Commencez par la version en soupe ; si vous aimez un bak kut teh herbal intense et épicé, choisissez la version sèche"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "La liste Bib Gourmand du MICHELIN Guide Kuala Lumpur and Penang 2026 compte cinq nouveaux venus, trois retirés (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

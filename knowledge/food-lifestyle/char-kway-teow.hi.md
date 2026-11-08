@@ -8,6 +8,9 @@ heroAlt: "झींगे, कॉकल, अंडे और चाइव्स 
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "char kway teow पर एक गाइड — तेज़ आँच पर झींगे, कॉकल, अंडे और चीनी सॉसेज के साथ तली गई चपटी चावल नूडल्स। इसमें wok hei, इसकी तेओचेव मज़दूर उत्पत्ति, पेनांग इसका आध्यात्मिक घर क्यों है, प्रमुख किस्में, और हलाल/ग़ैर-हलाल का अंतर शामिल है।"

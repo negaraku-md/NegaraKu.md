@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — 濃い薬膳スープに入った豚スペアリブ、
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "バクテー（肉骨茶）"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh は、クアラルンプールの 121 Jalan Kepong にある MICHELIN Bib Gourmand の bak kut teh 店です。古典的で穏やかな薬膳スープと、より濃厚なドライ版の両方を提供し、4軒のショップハウスにまたがって広がり、昼食時には満席になります。本稿では、この店が何か、名物料理、場所、訪れ方を紹介します。"
@@ -35,9 +39,9 @@ faq:
     a: "クアラルンプール Taman Usahawan、121 Jalan Kepong にあります。この店は大通り沿いに4軒のショップハウスを占めるため席数が多く、MICHELIN は昼食時に特に人気だと記しています。"
 
 lang: "ja"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "スープ版と汁なし版"
+    flavor:
+      - "スープ版は薬膳の風味が穏やかで、ほのかな甘みがあるのが特徴"
+      - "汁なし版はより濃厚でコクがあり、辛め"
+    tradeoffs:
+      - "やさしいスープが好みならスープ版から。濃い薬膳と辛さが好きなら汁なし版を"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "MICHELIN Guide Kuala Lumpur and Penang 2026 の Bib Gourmand リスト、新規5店・除外3店（MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped）"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

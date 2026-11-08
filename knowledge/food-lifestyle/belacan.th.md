@@ -8,6 +8,9 @@ heroAlt: "belacan หนึ่งก้อน กะปิกุ้งหมั�
 heroCredit: "方畢可 / Wikimedia Commons"
 heroLicense: "CC0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AShrimp_paste_manufacturing_in_Tai_O.jpg"
+foodType: "ingredient"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["ingredients"]
 summary: "Belacan คือกะปิที่ทำจากกุ้งตัวจิ๋วและเกลือนำไปตากแห้งและหมัก ซึ่งให้แกนความกลมกล่อมอูมามิอันลึกซึ้งแก่อาหารมลายูและอาหารย่าหยา คู่มือนี้อธิบายว่ามันคืออะไรและทำอย่างไร กลิ่นฉุนอันเลื่องชื่อและเหตุที่พ่อครัวต้องคั่วก่อน บทบาทของมันใน sambal belacan, rojak, asam laksa และ nasi goreng แหล่งผลิต ความแตกต่างของเกรด และความสัมพันธ์กับกะปิชนิดอื่น ๆ ในเอเชียตะวันออกเฉียงใต้"

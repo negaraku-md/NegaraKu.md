@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — tulang rusuk babi dalam sup herba gelap, dengan versi 
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "Bak kut teh"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh ialah kedai bak kut teh MICHELIN Bib Gourmand di 121 Jalan Kepong, Kuala Lumpur. Ia menyajikan kedua-dua sup herba klasik yang lembut dan versi kering yang lebih pekat, tersebar merentasi empat buah rumah kedai yang penuh sesak ketika waktu makan tengah hari. Profil ini merangkumi apa itu, hidangan istimewanya, lokasinya dan cara untuk melawat."
@@ -35,9 +39,9 @@ faq:
     a: "Ia di 121 Jalan Kepong, Taman Usahawan, Kuala Lumpur. Restoran ini menduduki empat buah rumah kedai di sepanjang boulevard, jadi terdapat banyak tempat duduk, dan MICHELIN menyatakan ia amat popular ketika waktu makan tengah hari."
 
 lang: "ms"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "Versi sup & versi kering"
+    flavor:
+      - "Versi sup tersohor lembut dengan rasa herba yang ringan dan sedikit manis"
+      - "Versi kering lebih pekat, lebih kaya dan lebih pedas"
+    tradeoffs:
+      - "Suka kuah yang lembut? Mulakan dengan versi sup; jika gemar bak kut teh herba yang pekat dan pedas, pilih versi kering"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "Senarai Bib Gourmand MICHELIN Guide Kuala Lumpur and Penang 2026 mencatat lima entri baharu, tiga digugurkan (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

@@ -8,6 +8,9 @@ heroAlt: "A plate of char kway teow, stir-fried flat rice noodles with prawns, c
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "A guide to char kway teow — flat rice noodles stir-fried over fierce heat with prawns, cockles, egg and Chinese sausage. Covers wok hei, its Teochew labourer origins, why Penang is its spiritual home, the main variants, and the halal/non-halal distinction."

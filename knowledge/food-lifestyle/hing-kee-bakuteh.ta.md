@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — அடர் நிற மூலிகை சூப்
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "பாக் குட் தே"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh என்பது கோலாலம்பூர் 121 Jalan Kepong-இல் உள்ள ஒரு MICHELIN Bib Gourmand bak kut teh கடை. இது பாரம்பரியமான மென்மையான மூலிகைச் சூப்பையும், அடர்த்தியான உலர் வகையையும் வழங்குகிறது; நான்கு கடை வீடுகளில் பரவியுள்ள இது மதிய உணவு நேரத்தில் நிரம்பி வழிகிறது. இந்தப் பதிவு இது என்ன, அதன் சிறப்பு உணவுகள், எங்கே உள்ளது, எப்படிச் செல்வது என்பவற்றை விளக்குகிறது."
@@ -35,9 +39,9 @@ faq:
     a: "இது கோலாலம்பூர், Taman Usahawan, 121 Jalan Kepong-இல் உள்ளது. உணவகம் அந்த அகலச் சாலையோரம் நான்கு கடை வீடுகளை ஆக்கிரமித்துள்ளதால் ஏராளமான இருக்கைகள் உள்ளன; மதிய உணவு நேரத்தில் இது குறிப்பாகப் பிரபலமானது என MICHELIN குறிப்பிடுகிறது."
 
 lang: "ta"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "சூப் பதிப்பு & உலர் பதிப்பு"
+    flavor:
+      - "சூப் பதிப்பு மென்மையானது, லேசான மூலிகைச் சுவையும் சிறிது இனிப்பும் கொண்டது"
+      - "உலர் பதிப்பு அடர்த்தியானது, செறிவானது, காரமானது"
+    tradeoffs:
+      - "மென்மையான சூப் பிடிக்குமா? சூப் பதிப்பில் தொடங்குங்கள்; அடர் மூலிகை, காரச் சுவை விரும்பினால் உலர் பதிப்பைத் தேர்வு செய்யுங்கள்"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand பட்டியலில் ஐந்து புதிய உணவகங்கள், மூன்று நீக்கம் (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"

@@ -8,6 +8,9 @@ heroAlt: "फेरीवालों के ठेलों से भरा �
 heroCredit: "Chongkian / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
+foodType: "culture"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "अधिकांश मलेशियाई लोग कुछ सस्ते, खुले-ढाँचे वाले प्रारूपों में ही बाहर खाते हैं — पारंपरिक चीनी kopitiam, भारतीय-मुस्लिम mamak, और फ़ूड कोर्ट या medan selera, जहाँ कई स्वतंत्र स्टॉल एक ही बैठने की जगह साझा करते हैं। यह गाइड बताती है कि ये प्रारूप किस तरह अलग हैं, ऑर्डर देना और भुगतान कैसे होता है, A/B/C स्वच्छता ग्रेड का क्या अर्थ है, और यह सब pasar malam रात के बाज़ार से किस तरह भिन्न है।"

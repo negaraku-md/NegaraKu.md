@@ -8,6 +8,9 @@ heroAlt: "El interior de un patio de comidas malasio lleno de puestos de vendedo
 heroCredit: "Chongkian / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File:Seventy_Two_Food_Court.jpg"
+foodType: "culture"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dining"]
 summary: "La mayoría de los malasios come fuera en un puñado de formatos baratos y de planta abierta: el kopitiam chino tradicional, el mamak indio-musulmán y el patio de comidas o medan selera, donde muchos puestos independientes comparten una misma zona de mesas. Esta guía explica en qué se diferencian los formatos, cómo funcionan el pedido y el pago, qué significan los grados de higiene A/B/C y en qué se diferencia todo esto del pasar malam, el mercado nocturno."

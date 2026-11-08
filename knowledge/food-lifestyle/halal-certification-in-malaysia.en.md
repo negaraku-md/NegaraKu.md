@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "Halal Certification in Malaysia: How the JAKIM Certificate Works"
 seoTitle: "Malaysia Halal Certification: Guide to the JAKIM Halal Certificate & MS 1500"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "The Malaysia Halal logo issued by JAKIM is the only official halal mark recognised under federal law. This guide explains what the certificate means, the MS 1500 standard, the MYeHALAL system, and how to verify a genuine halal logo."

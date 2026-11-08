@@ -3,6 +3,7 @@ topicId: MY-FDL-0007
 title: "मलेशिया में हलाल प्रमाणन: JAKIM प्रमाणपत्र कैसे काम करता है"
 seoTitle: "मलेशिया हलाल प्रमाणन: JAKIM हलाल प्रमाणपत्र और MS 1500 की मार्गदर्शिका"
 slug: "halal-certification-in-malaysia"
+foodType: "practical"
 category: "food-lifestyle"
 subcategory: ["halal"]
 summary: "JAKIM द्वारा जारी मलेशिया हलाल लोगो संघीय कानून के तहत मान्यता-प्राप्त एकमात्र आधिकारिक हलाल चिह्न है। यह मार्गदर्शिका बताती है कि प्रमाणपत्र का क्या अर्थ है, MS 1500 मानक, MYeHALAL प्रणाली, और असली हलाल लोगो की पुष्टि कैसे करें।"

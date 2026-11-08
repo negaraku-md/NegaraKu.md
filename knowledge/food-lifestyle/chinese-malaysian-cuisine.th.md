@@ -8,6 +8,9 @@ heroAlt: "ติ่มซำ (dim sum) ส่วนหนึ่งของอ�
 heroCredit: "Geoffreyrabbit / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ADim_Sum_collection_in_Chinese_restaurant.jpg"
+foodType: "cuisine"
+heroKind: "representative"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "อาหารจีน-มาเลเซียคืออาหารของชุมชนชาวจีนในมาเลเซีย ซึ่งก่อร่างขึ้นจากห้าสายสำเนียงหลัก — Hokkien, Cantonese, Hakka, Teochew และ Hainanese — แต่ละสายนำจานอาหารของตนมาด้วย แล้วปรับให้เข้ากับวัตถุดิบท้องถิ่น คู่มือนี้วาดแผนที่ครัวตามสำเนียง (ตั้งแต่ Hokkien mee และ bak kut teh ไปจนถึงเนื้อย่างแบบ Cantonese, yong tau foo ของ Hakka, ข้าวต้ม Teochew และข้าวมันไก่ Hainanese) วัฒนธรรม kopitiam และ tai chow ที่เสิร์ฟอาหารเหล่านี้ และวิธีที่อาหารนย้อนญาเติบโตเป็นสาขาที่แยกออกมาต่างหาก"

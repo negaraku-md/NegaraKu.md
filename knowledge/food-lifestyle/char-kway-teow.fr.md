@@ -8,6 +8,9 @@ heroAlt: "Une assiette de char kway teow, nouilles de riz plates sautées avec c
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "Un guide du char kway teow — des nouilles de riz plates sautées à feu vif avec crevettes, coques, œuf et saucisse chinoise. Il aborde le wok hei, son origine comme plat des travailleurs teochew, pourquoi Penang en est le foyer spirituel, les principales variantes et la distinction halal/non halal."

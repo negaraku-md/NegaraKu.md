@@ -8,6 +8,9 @@ heroAlt: "dim sum, चीनी-मलेशियाई व्यंजन क�
 heroCredit: "Geoffreyrabbit / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3ADim_Sum_collection_in_Chinese_restaurant.jpg"
+foodType: "cuisine"
+heroKind: "representative"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["masakan"]
 summary: "चीनी-मलेशियाई व्यंजन मलेशिया के चीनी समुदायों का भोजन है, जिसे पाँच प्रमुख बोली-धाराओं — Hokkien, Cantonese, Hakka, Teochew और Hainanese — ने आकार दिया; हर एक अपने व्यंजन लाई और फिर उन्हें स्थानीय सामग्री के अनुरूप ढाला। यह मार्गदर्शिका बोली-रसोइयों का नक्शा खींचती है (Hokkien mee और bak kut teh से लेकर Cantonese भुने माँस, Hakka yong tau foo, Teochew दलिया और Hainanese चिकन राइस तक), उन्हें परोसने वाली kopitiam और tai chow संस्कृति, और नोन्या व्यंजन किस तरह एक अलग शाखा के रूप में विकसित हुआ।"

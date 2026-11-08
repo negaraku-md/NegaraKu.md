@@ -8,6 +8,9 @@ heroAlt: "Sepiring char kway teow, kwetiau goreng dengan udang, kerang, telur, d
 heroCredit: "Ceeseven / Wikimedia Commons"
 heroLicense: "CC BY-SA 4.0"
 heroSource: "https://commons.wikimedia.org/wiki/File%3AChar_Kway_Teow_in_Hong_Kong.jpg"
+foodType: "dish"
+heroKind: "actual"
+heroOrigin: "third-party"
 category: "food-lifestyle"
 subcategory: ["dishes"]
 summary: "Panduan tentang char kway teow — kwetiau yang digoreng di atas api besar bersama udang, kerang, telur, dan sosis Tionghoa. Membahas wok hei, asal-usulnya sebagai hidangan buruh Teochew, mengapa Penang menjadi rumah spiritualnya, varian utama, serta perbedaan halal/non-halal."

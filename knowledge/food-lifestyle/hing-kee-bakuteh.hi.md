@@ -8,6 +8,10 @@ heroAlt: "Bak kut teh — गहरे हर्बल सूप में प�
 heroCredit: "Yosuke Ota / Unsplash"
 heroLicense: "Unsplash License"
 heroSource: "https://unsplash.com/photos/a-table-with-bowls-of-food-NBjK8yRWd5E"
+foodType: "place"
+heroKind: "representative"
+heroOrigin: "third-party"
+heroSubject: "बाक कुट तेह"
 category: "food-lifestyle"
 subcategory: ["restaurants"]
 summary: "Hing Kee Bakuteh कुआलालंपुर के 121 Jalan Kepong पर स्थित एक MICHELIN Bib Gourmand bak kut teh की दुकान है। यह क्लासिक हल्के हर्बल सूप और एक अधिक गाढ़े सूखे संस्करण दोनों को परोसती है, जो चार दुकान-घरों में फैली है और दोपहर के भोजन के समय खचाखच भर जाती है। यह प्रोफ़ाइल बताती है कि यह क्या है, इसके खास व्यंजन, स्थान और कैसे जाएं।"
@@ -35,9 +39,9 @@ faq:
     a: "यह कुआलालंपुर, Taman Usahawan, 121 Jalan Kepong पर है। रेस्तरां बुलेवार्ड के साथ चार दुकान-घरों में फैला है, इसलिए भरपूर बैठने की जगह है, और MICHELIN बताता है कि यह दोपहर के भोजन के समय विशेष रूप से लोकप्रिय है।"
 
 lang: "hi"
-sourceContentHash: "79f762063c488481"
+sourceContentHash: "6e98d993e0745cc7"
 masterLanguage: "en"
-translationStatus: "stale"
+translationStatus: "in-sync"
 
 status: "published"
 aiAssisted: true
@@ -49,6 +53,16 @@ revision: 0
 revisions: []
 
 updated: 2026-11-06
+review:
+  - source: "michelin"
+    by: "MICHELIN Guide"
+    sourceRef: "michelin"
+    subject: "सूप संस्करण और सूखा संस्करण"
+    flavor:
+      - "सूप संस्करण हल्का होता है, जिसमें मंद जड़ी-बूटी की महक और थोड़ी मिठास होती है"
+      - "सूखा संस्करण अधिक गाढ़ा, अधिक समृद्ध और अधिक तीखा होता है"
+    tradeoffs:
+      - "हल्का शोरबा पसंद है? सूप संस्करण से शुरू करें; तेज़ जड़ी-बूटी और तीखापन पसंद हो तो सूखा संस्करण चुनें"
 place:
   nativeName: "兴记肉骨茶"
   address: "121 Jalan Kepong, Taman Usahawan, 52100 Kuala Lumpur"
@@ -65,6 +79,7 @@ place:
 sources:
   - title: "Hing Kee Bakuteh (121 Jalan Kepong)"
     url: "https://guide.michelin.com/my/en/kuala-lumpur-region/kuala-lumpur/restaurant/hing-kee-bakuteh-jalan-kepong"
+    id: "michelin"
     publisher: "MICHELIN Guide"
   - title: "MICHELIN Guide Kuala Lumpur and Penang 2026 की Bib Gourmand सूची में पाँच नए प्रवेश, तीन हटाए गए (MICHELIN Guide Kuala Lumpur and Penang 2026 Bib Gourmand list has five new entrants, three dropped)"
     url: "https://www.malaymail.com/news/eat-drink/2025/11/11/michelin-guide-kuala-lumpur-and-penang-2026-bib-gourmand-list-has-five-new-entrants-three-dropped/198038"
