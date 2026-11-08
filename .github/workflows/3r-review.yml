@@ -1,0 +1,74 @@
+name: 3R content review
+
+# Flags pull requests that touch Race / Religion / Royalty (3R+1) content so a
+# human reviews them before they can be published (CONTENT-POLICY.md §4). It labels
+# the PR `needs-3R-review` and posts a summary; it does NOT judge the content.
+#
+# This starts as a NON-blocking check (annotations + label). To make the gate
+# un-bypassable, a maintainer turns it into a REQUIRED status check in the branch
+# protection settings for `main`, and/or adds `--strict` to the lint step (which
+# fails the job when an under-tagged file is found). Branch protection itself is a
+# repo setting, not something CI can set.
+
+on:
+  pull_request:
+    paths:
+      - 'knowledge/**'
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: 3r-review-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  lint-3r:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Scan changed content for 3R-sensitive material
+        id: lint
+        run: |
+          BASE="origin/${{ github.base_ref }}"
+          git fetch origin "${{ github.base_ref }}" --depth=1 || true
+          node scripts/lint-3r.mjs --base "$BASE" | tee 3r-report.txt
+          # --strict is intentionally omitted here; flip it on to make this blocking.
+
+      - name: Label and comment
+        if: steps.lint.outputs.needs_review == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          gh pr edit "$PR" --add-label "needs-3R-review" || true
+          {
+            echo "### 🔶 3R content review needed"
+            echo ""
+            echo "This PR changes content that touches **Race, Religion, or Royalty (3R+1)**."
+            echo "A named reviewer must read it before it is published — see [CONTENT-POLICY.md](../blob/main/CONTENT-POLICY.md)."
+            if [ "${{ steps.lint.outputs.under_tagged }}" != "0" ]; then
+              echo ""
+              echo "⚠️ **${{ steps.lint.outputs.under_tagged }} file(s) look under-tagged** — they touch a 3R subject but their \`sensitivity\` is not set to a 3R value, so they could auto-publish. Set \`sensitivity\` to \`race\`/\`religion\`/\`royalty\`/\`constitution\` so the firewall catches them."
+            fi
+            echo ""
+            echo "<details><summary>Linter output</summary>"
+            echo ""
+            echo '```'
+            cat 3r-report.txt
+            echo '```'
+            echo "</details>"
+          } > body.md
+          gh pr comment "$PR" --body-file body.md

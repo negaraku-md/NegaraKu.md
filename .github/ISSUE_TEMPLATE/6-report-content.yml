@@ -1,0 +1,61 @@
+name: "🚩 Report content"
+description: Report content that is unlawful, inaccurate, infringing, or crosses the 3R line. Triaged fast.
+title: "[Report] "
+labels: ["report-content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this to flag content you believe is **unlawful, factually wrong, a copyright/privacy
+        infringement, or that crosses the Race/Religion/Royalty (3R) line** — see
+        [CONTENT-POLICY.md](https://github.com/negaraku-md/NegaraKu.md/blob/main/CONTENT-POLICY.md).
+
+        We aim to **triage within 48 hours**; a credible unlawful-content or authority notice is
+        actioned on sight (removed or rewritten first, discussed after).
+
+        **Sensitive, private, or legal notices** (e.g. a rightsholder or authority notice you don't
+        want public) should instead use the confidential route in
+        [SECURITY.md](https://github.com/negaraku-md/NegaraKu.md/blob/main/SECURITY.md) — do not post
+        them here.
+  - type: input
+    id: url
+    attributes:
+      label: Page URL
+      description: The negaraku.md page (any language), e.g. https://negaraku.md/en/government/…
+      placeholder: https://negaraku.md/...
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - "Crosses the 3R line (race / religion / royalty)"
+        - "Unlawful / likely illegal under Malaysian law"
+        - "Factually wrong or misleading"
+        - "Copyright / licensing problem"
+        - "Privacy — targets a private individual"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: What is the problem?
+      description: Quote the exact sentence(s) if you can, and say what is wrong. A primary source helps us fix it fast.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Supporting source (optional)
+      description: A link to the Act, gazette, regulator page, or other authority that supports your report.
+  - type: checkboxes
+    id: ack
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: This report is factual and submitted in good faith.
+          required: true
+        - label: I understand that sensitive/legal notices should use the private route in SECURITY.md instead.
+          required: false

@@ -111,8 +111,11 @@ These are enforced by review and, where possible, by `npm run health`
    authorities (the Act, the regulator's own publication) — not secondary
    commentary. Never invent a figure, fee, or URL.
 2. **Neutral and factual**, especially on the 3R+1 subjects and politics,
-   elections, security, health, and legal proceedings. See
-   [docs/editorial-guidelines.md](docs/editorial-guidelines.md).
+   elections, security, health, and legal proceedings. The rules for sensitive
+   content and the publish gate are in [CONTENT-POLICY.md](CONTENT-POLICY.md);
+   day-to-day style is in [docs/editorial-guidelines.md](docs/editorial-guidelines.md).
+   A CI check (`scripts/lint-3r.mjs`) labels any PR that touches 3R content
+   `needs-3R-review`.
 3. **Sensitive content is a hard gate.** `sensitivity != none` can never be
    published without a named reviewer. No exceptions, no auto-publish.
 4. **Honest trust badges.** An unreviewed AI draft says exactly that. The badge

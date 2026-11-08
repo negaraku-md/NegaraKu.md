@@ -14,6 +14,10 @@ and respectful of the country's diversity.
 
 ## Sensitive topics
 
+> The full rules for sensitive (3R — race, religion, royalty) content and how the
+> publish gate works are in **[CONTENT-POLICY.md](../CONTENT-POLICY.md)**. This section
+> is the day-to-day summary.
+
 Malaysia has topics that are legally and socially sensitive. Take extra care with:
 
 - **Race and ethnic relations** — including the social contract, Bumiputera policy, and

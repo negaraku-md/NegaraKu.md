@@ -36,3 +36,11 @@
 - name: new-category
   color: fbca04
   description: An article request that also proposes a brand-new category.
+
+# --- Content safety (3R+1) ---
+- name: needs-3R-review
+  color: d93f0b
+  description: PR touches Race/Religion/Royalty (3R+1) content — a named reviewer must read it before publish (CONTENT-POLICY.md). Set by the 3R content-review workflow.
+- name: report-content
+  color: b60205
+  description: A report that content here is unlawful, inaccurate, infringing, or crosses the 3R line. Triaged fast.

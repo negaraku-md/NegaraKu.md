@@ -71,8 +71,9 @@ related: ["consumer-protection-act"]          # canonical slugs → graph edges
 ## Editorial principles
 
 - **Cite everything.** Anything beyond `draft` must have sources.
-- **Neutral and factual.** See [docs/editorial-guidelines.md](docs/editorial-guidelines.md),
-  especially for sensitive topics (race, religion, monarchy, politics).
+- **Neutral and factual.** For sensitive 3R topics (race, religion, royalty) read
+  [CONTENT-POLICY.md](CONTENT-POLICY.md) — it is the rule and the publish gate;
+  [docs/editorial-guidelines.md](docs/editorial-guidelines.md) covers house style.
 - **Curate, don't dump.** Prefer a well-written narrative over raw data.
 
 ## Article lifecycle

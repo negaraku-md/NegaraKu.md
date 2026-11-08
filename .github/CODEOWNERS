@@ -11,11 +11,19 @@
 *                         @ashton-tan
 
 # Sensitive content (3R+1: race, religion, royalty, constitution) — must always
-# be reviewed by a maintainer before it can be published.
+# be reviewed by a maintainer before it can be published. See CONTENT-POLICY.md.
+# (The default `* @ashton-tan` above already requires steward review on every PR;
+# these paths make the 3R firewall explicit and survive any future default change.)
 /knowledge/malaysia/      @ashton-tan
 /knowledge/government/    @ashton-tan
 /knowledge/law/           @ashton-tan
 /knowledge/states/        @ashton-tan
+/knowledge/arts-culture/  @ashton-tan
+/knowledge/economy/       @ashton-tan
+/knowledge/education/     @ashton-tan
+/knowledge/international/  @ashton-tan
+/knowledge/public-safety/ @ashton-tan
+/CONTENT-POLICY.md        @ashton-tan
 
 # Build, deploy and health tooling.
 /.github/                 @ashton-tan

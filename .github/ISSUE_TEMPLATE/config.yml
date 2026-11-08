@@ -6,9 +6,12 @@ contact_links:
   - name: 📖 Contribution guide & content standards
     url: https://github.com/negaraku-md/NegaraKu.md/blob/main/CONTRIBUTING.md
     about: Frontmatter schema, tiers, sourcing rules and the review pipeline.
-  - name: 🕊️ Editorial guidelines (sensitive topics)
+  - name: 🕊️ Content Policy (3R — race, religion, royalty)
+    url: https://github.com/negaraku-md/NegaraKu.md/blob/main/CONTENT-POLICY.md
+    about: The rules for sensitive (3R+1) content and how the publish gate works.
+  - name: 📐 Editorial guidelines (house style)
     url: https://github.com/negaraku-md/NegaraKu.md/blob/main/docs/editorial-guidelines.md
-    about: How race, religion, royalty and constitutional (3R+1) topics are handled.
+    about: Day-to-day style and sourcing rules for every article.
   - name: 🌐 Read the site
     url: https://negaraku.md
     about: The published knowledge base (ms / en / zh).
