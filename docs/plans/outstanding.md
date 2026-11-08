@@ -4,11 +4,46 @@ Living tracker of open work toward the mission **"let the world know about Malay
 Owner tags: **[you]** = user action (accounts, credentials, approvals — Claude can't
 do these), **[me]** = Claude.
 
-_Last updated: 2026-10-24._
+_Last updated: 2026-11-08._
 
 The product is mature: **13 languages live** (~1,080 articles each), full analytics
 stack, AI-friendly infra, Facebook auto-posting. The frontier now is **distribution**
 (off-site reach) and **content-quality cleanup** — not more features.
+
+---
+
+## 🆕 Since the last update (as of 2026-11-08)
+
+**Shipped & live:** the **food pillar** (69 topics) + **MICHELIN set** (70 restaurant
+profiles); **OG cards moved to Cloudflare R2** (`og.negaraku.md`) — fixed the
+deploy-artifact size that was cancelling deploys; OG card fixes (CJK-summary tofu,
+13 localized subcategory breadcrumbs, valid Facebook `og:locale`); **reader-first
+restaurant card** + card-first article layout.
+
+**Held locally (awaiting `push`):**
+- `77d984afc` — food heroes B.1 (4 hawker dish photos).
+- `60c8588f9` — **3R publish-gate hardening** (CONTENT-POLICY.md, CI `lint-3r.mjs`
+  + `3r-review.yml`, report-content issue template, CODEOWNERS/GOVERNANCE/
+  CONTRIBUTING cross-links). The §5 study items 1–4 are now built; branch
+  protection (C1) + lawyer review (D3/5) remain owner actions.
+- `91e44362c` — food heroes B.2 (6 more articles).
+
+**Food images — every food article now has ≥1 image** (branded fallback guarantees
+it). Real photos now on 241/297 masters. Still on the fallback (no honest free
+image found, acceptable): the ~17 fine-dining/MICHELIN profiles, plus `bm-yam-rice`,
+`lai-foong-lala-noodles`, `hai-kah-lang`, `halal-certification`, `eurasian-kristang`,
+and **`orang-asli-food`** (held — needs an editorial call: respectful documentary
+photo vs. keep the neutral fallback).
+
+**Open [me], not yet done:**
+- **Dedup Tier-1/2** — audit is ready (`docs/plans/corpus-dedup-audit-2026-10.md`),
+  but `archive-article --into` only redirects (does not merge content), so each
+  merge needs unique content ported across 13 langs first → **needs per-pair
+  go-ahead** before touching live articles.
+- **Facebook OG re-scrape** of ~351 already-posted cards (the fixed CJK/breadcrumb
+  cards) — the zombie run was cancelled; re-run cleanly when wanted (external
+  side-effect, so held).
+- **Wikidata item creation** for articles still missing a QID — needs Chrome.
 
 ---
 
