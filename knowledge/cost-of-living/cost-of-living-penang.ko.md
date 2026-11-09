@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
+framework: data-reference
 ---
 
 페낭은 「생활비」를 단일 숫자로 답할 수 없는 유일한 말레이시아 주인데, 페낭이 한

@@ -65,6 +65,7 @@ relations:
   - { rel: "explained-in", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS list Malaysia", "MFRS effective dates", "MPERS sections list", "MASB standards index", "Malaysian accounting standards"]
+framework: data-reference
 ---
 
 MASB publishes its standards as a set of separate PDF pages behind an acknowledgement

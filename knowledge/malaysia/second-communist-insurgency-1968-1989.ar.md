@@ -92,6 +92,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["التمرد الشيوعي الثاني", "الحزب الشيوعي الملايوي", "اتفاقية هات ياي للسلام 1989", "الحزب الشيوعي لكاليمانتان الشمالية", "تمرد ساراواك الشيوعي", "سري أمان", "تشين بينغ", "كمين كروه-بيتونغ", "Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
+framework: history-culture
 ---
 
 أعلنت ماليزيا انتهاء حالة الطوارئ الشيوعية الأولى في 31 يوليو 1960 — ثم واجهت تمردًا ثانيًا طوال معظم العقود الثلاثة التالية. فجيش العصابات الذي كانت الحكومة قد دفعته إلى أطراف شبه الجزيرة لم يحلّ نفسه عندما أُعلن انتهاء القتال، بل انسحب عبر الحدود التايلندية، وأعاد تنظيم صفوفه هناك، ثم استأنف عملياته بعد ثماني سنوات.

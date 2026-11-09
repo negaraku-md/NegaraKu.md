@@ -75,6 +75,7 @@ keywords:
   - "lesen sektor Malaysia"
   - "lesen BNM SC MCMC"
   - "pihak berkuasa pelesenan Malaysia"
+framework: data-reference
 ---
 
 Tidak ada daftar induk lisensi usaha Malaysia. MalaysiaBiz memuat informasi lintas

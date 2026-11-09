@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak kut teh warisan negara", "Akta Warisan Kebangsaan 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 你今早吃的那份椰浆饭，如今正式记录在两份不同的遗产名录中——一份在布城（Putrajaya），另一份在巴黎。两者都真实存在，但由不同的机构、基于不同的依据授予，含义也各不相同。

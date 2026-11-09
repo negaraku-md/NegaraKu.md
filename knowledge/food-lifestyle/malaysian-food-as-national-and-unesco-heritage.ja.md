@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak kut teh warisan negara", "Akta Warisan Kebangsaan 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 あなたが今朝食べたナシ・レマクは、今や二つの異なる遺産名簿に公式に記録されている——一つはプトラジャヤに、もう一つはパリに。どちらも実在するものだが、異なる機関によって、異なる根拠に基づき与えられており、意味するところも異なる。

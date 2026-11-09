@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 Ý tưởng đầu tiên mà mọi nhà sáng lập mang đến khi chọn địa điểm ở Malaysia là chuyển ra khỏi Thung lũng Klang sẽ cắt giảm chi phí lương. Dữ liệu cho thấy điều đó là đúng — và luật pháp cho thấy phần lớn khoản tiết kiệm đó không thuộc về bạn, bởi vì mức sàn và mọi khoản đóng góp bên trên nó đều được ấn định ở cấp liên bang.

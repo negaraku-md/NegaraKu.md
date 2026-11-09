@@ -76,6 +76,7 @@ verificationNeeded:
   - "分行数目（马来西亚超过200家）与员工人数（报告数字介于约13,000至14,000人）——对照最新常年报告核实。"
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
+framework: profile
 ---
 
 RHB 是大多数马来西亚人都会在大街上的银行分行、一张提款卡或一份房贷宣传册上认得的名字之一——然而其背后的集团所及远不止零售银行，还延伸到伊斯兰金融、投资银行、保险以及遍及东南亚的市场。本页是对兴业银行集团是什么、如何架构、由谁拥有以及为何重要的中立、客观概述。

@@ -78,6 +78,7 @@ verificationNeeded:
   - "Doanh thu dịch vụ của Mảng Doanh nghiệp là RM1.610 triệu cho năm tài chính 2024 — xác minh đối chiếu với các công bố mới nhất."
   - "Tỷ lệ sở hữu cổ phần hiện hành của tập đoàn mẹ (các lợi ích liên kết với Usaha Tegas và Saudi Telecom Company) — xác nhận đối chiếu với các công bố mới nhất của Bursa Malaysia."
   - "Tình trạng của mạng 5G thứ hai của Malaysia và vai trò của Maxis trong đó (U Mobile được chọn vào tháng 11 năm 2024) — xác minh chính sách và các dàn xếp 5G hiện hành với MCMC."
+framework: profile
 ---
 
 Gần như mọi người Malaysia có điện thoại đều, vào một thời điểm nào đó, từng là khách hàng của Maxis hay Hotlink. Đằng sau hai thương hiệu quen thuộc đó là một công ty duy nhất — Maxis Berhad — nằm trong số các nhà khai thác viễn thông lớn nhất của đất nước và đã phát triển từ một nhà mạng chỉ cung cấp di động thành một nhà cung cấp hội tụ về di động, băng rộng gia đình và kết nối doanh nghiệp.

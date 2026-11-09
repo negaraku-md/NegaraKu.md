@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["मलेशिया राज्यवार श्रमबल", "राज्यवार माध्यिका वेतन मलेशिया", "dosm श्रमबल सर्वेक्षण 2025", "पिनांग इलेक्ट्रॉनिक्स प्रतिभा", "जोहोर सिंगापुर कामगार", "न्यूनतम मज़दूरी मलेशिया राज्य", "सारावाक employment pass genesis", "malaysia labour force by state", "median salary by state malaysia", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 हर संस्थापक जो पहला विचार मलेशियाई स्थल-चयन में लाता है, वह यह है कि क्लांग घाटी से बाहर जाने पर मज़दूरी-बिल कट जाता है। डेटा कहता है कि हाँ, कटता है — और क़ानून कहता है कि अधिकांश बचत लेने के लिए आपकी नहीं है, क्योंकि तल और उसके ऊपर का हर अंशदान संघीय रूप से तय है।

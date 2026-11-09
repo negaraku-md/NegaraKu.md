@@ -68,6 +68,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["Malaysia DTA list", "Malaysia double taxation agreement rates", "treaty withholding tax Malaysia", "Malaysia tax treaty countries", "DTA royalty rate Malaysia"]
+framework: data-reference
 ---
 
 조약은 상한이지 결코 하한이 아닙니다. 소득세법 1967(Income Tax Act 1967) 부칙 1에 따른 국내 세율이 조약 세율보다 낮으면, 국내 세율로 원천징수합니다. 말레이시아의 국내 세율은 이자 15퍼센트, 로열티 10퍼센트, 제4A조에 따른 특수 소득 종류 10퍼센트이므로, 이자 15퍼센트를 표시하는 조약은 아무것도 가져다주지 않습니다.

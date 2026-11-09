@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
+framework: data-reference
 ---
 
 「マレーシアはどれくらいの大きさか」「マレーシアの人口はどれくらいか」と尋ねれば、どのウェブサイトにたどり着くかによって異なる答えが返ってくる——あるものは2020年国勢調査の数字を引用し、あるものは2回分古い世界銀行の推計値を引用している。本ページはその問題を解決するために存在する。以下の数値はすべて、具名の公式発表に基づき発表日が付されているため、それがどれだけ新しいかを正確に確認でき、自分自身で検証することもできる。

@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 On a Saturday afternoon in the Klang Valley, a single mega mall can hold more people than some small towns — and many of them are not there only to shop. Malaysian malls double as air-conditioned town squares: places to eat, watch a film, ice-skate, pray at a surau, and let children run through an indoor theme park. Understanding retail here means understanding that range, from the giant mall to the open-air night market.

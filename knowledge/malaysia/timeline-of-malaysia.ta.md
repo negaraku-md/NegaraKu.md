@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["sejarah Malaysia", "garis masa Malaysia", "Merdeka 1957", "pembentukan Malaysia 1963", "perdana menteri Malaysia"]
+framework: history-culture
 ---
 
 'மலேசியா' என்ற பெயர் இருப்பதற்கு நெடுங்காலத்திற்கு முன்பே, இந்தக் கடற்கரையும்

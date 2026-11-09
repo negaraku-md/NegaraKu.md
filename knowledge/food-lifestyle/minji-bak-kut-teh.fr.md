@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "L'année exacte de l'édition MICHELIN est indiquée de façon incohérente selon les sources : la page officielle ne porte pas d'année, la couverture de presse du cycle précédent évoquait le MICHELIN Guide Kuala Lumpur & Penang « 2026 », et la liste Bib Gourmand de Wikipédia n'affiche Minji que sous une colonne « 2027 », ce qui suggère un ajout récent. La sélection est révisée chaque année ; confirmez le statut actuel et l'année de la distinction sur guide.michelin.com."
   - "La couverture indépendante de Minji au-delà de la fiche MICHELIN est mince ; les horaires, l'année de fondation exacte et les détails de propriété devraient être confirmés auprès du restaurant avant d'être énoncés comme des faits."
+framework: profile
 ---
 
 Sur Jalan Sungai Besi, à Pudu, à faible distance du centre de Kuala Lumpur, Minji

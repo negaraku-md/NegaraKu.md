@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN の評価は現行のものとして記載されています。正確な版の年は各情報源の間で曖昧です。MICHELIN 自身の全セレクション記事はこのリストを MICHELIN Guide Kuala Lumpur & Penang 2026（式典は2025年11月11日）と表記する一方、一部の二次的報道は11月4日に発表された「2027」年版に言及しています。正確な版の年と発表日を MICHELIN の公式発表と照合して確認してください。"
   - "MICHELIN Guide のセレクションは毎年改定されます。本プロフィールは現行の掲載に示された状態を反映しており、新しい版ごとに再確認すべきです。"
   - "MICHELIN の掲載はシェフの名を記していません。二次的報道（The Star、Options The Edge）は Beta をシェフ Raymond Tham によるものとしています——名前を明記する前に確認してください。"
+framework: profile
 ---
 
 Beta は、クアラルンプール中心部の Jalan Perak にある現代マレーシア料理の

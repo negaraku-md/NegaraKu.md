@@ -80,6 +80,7 @@ related: ["maxis", "axiata"]
 keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global", "fibre broadband Malaysia", "JENDELA", "submarine cable Malaysia", "government-linked company"]
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
+framework: profile
 ---
 
 Casi cada línea de banda ancha de fibra, circuito empresarial y cable de datos submarino en Malasia toca a una sola empresa antes de llegar a nadie más. Telekom Malaysia Berhad (TM) es el operador histórico nacional: el que construyó la mayor parte de la red fija del país y aún posee la red troncal de la que dependen los rivales y los transportistas internacionales.

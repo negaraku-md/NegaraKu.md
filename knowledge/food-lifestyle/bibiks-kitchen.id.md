@@ -85,6 +85,7 @@ social:
 verificationNeeded:
   - "Seleksi MICHELIN Guide Malaysia (Kuala Lumpur & Penang) ditinjau setiap tahun. Profil ini mencerminkan edisi 2026; pastikan Bib Gourmand masih berlaku dalam edisi terbaru (seleksi 2027 sedang terbentuk), karena penghargaan dapat ditambah atau dicabut setiap tahun."
   - "Kenaikan 2024 dari MICHELIN Selected menjadi Bib Gourmand adalah menurut pengumuman MICHELIN sendiri; pastikan status saat ini terhadap panduan terbaru jika tahun penghargaan penting."
+framework: profile
 ---
 
 Masakan Peranakan padat tenaga, resepnya dijaga ketat, dan sangat bersifat rumah

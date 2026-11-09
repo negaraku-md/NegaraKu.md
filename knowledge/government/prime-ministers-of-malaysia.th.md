@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["prime ministers of Malaysia", "list of Malaysian prime ministers", "Perdana Menteri Malaysia", "Anwar Ibrahim", "Mahathir Mohamad"]
+framework: data-reference
 ---
 
 หัวหน้ารัฐบาลของมาเลเซียคือ **นายกรัฐมนตรี** — ผู้นำที่กุมความไว้วางใจของสมาชิกส่วนใหญ่ของ Dewan Rakyat และได้รับการแต่งตั้งโดย [สมเด็จพระราชาธิบดี (Yang di-Pertuan Agong)](/government/yang-di-pertuan-agong) นับตั้งแต่เอกราชในปี 1957 ตำแหน่งนี้ได้ผ่าน **สิบสมัยการดำรงตำแหน่งที่ดำรงโดยเก้าคน**

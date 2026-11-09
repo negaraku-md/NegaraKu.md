@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["قائمة الاستعداد للتدقيق ماليزيا", "قائمة PBC للتدقيق", "قائمة طلبات التدقيق Sdn Bhd", "الإفصاح عن الأطراف ذات العلاقة MFRS 124", "تدقيق حساب المدير ماليزيا", "التسوية بين الشركات في التدقيق", "audit preparation checklist Malaysia", "MFRS 124 related party disclosure"]
+framework: how-to
 ---
 
 تبدو قائمة الطلبات هذه كأنها مجرد مستند إداري. وهي ليست كذلك. إنها خطة التدقيق،

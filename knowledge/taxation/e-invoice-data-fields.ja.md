@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "self-billed-e-invoice" }
 related: ["e-invoicing", "myinvois-phases", "myinvois-integration", "self-billed-e-invoice", "consolidated-e-invoice"]
 keywords: ["e-Invoice data fields", "55 fields e-Invoice", "MyInvois mandatory fields", "e-Invoice validation error", "UBL 2.1 Malaysia", "medan data e-invois"]
+framework: data-reference
 ---
 
 拒否された提出物は、突き詰めれば必ず次の二つのどちらかに行き着く——LHDNが必須と

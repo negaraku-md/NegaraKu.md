@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "labuan" }
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "mont Kinabalu", "Accord de la Malaisie de 1963", "Terre sous le vent", "économie de Sabah", "Yang di-Pertua Negeri Sabah"]
+framework: profile
 ---
 
 Sabah n'a pas rejoint la Malaisie comme un État s'ajoutant à un pays. Il l'a

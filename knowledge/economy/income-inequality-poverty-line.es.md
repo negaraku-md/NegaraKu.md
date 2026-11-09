@@ -92,6 +92,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 Puede que alguna vez te etiquetaran como «B40» o «T20» en un formulario de subsidios — pero esa etiqueta no es tu salario. Es tu posición en una fila ordenada por el Departamento de Estadística de Malasia (DOSM), y esa fila se vuelve a trazar cada vez que llegan datos nuevos. Entender cómo se traza la fila cambia la forma en que lees casi todos los debates sobre el coste de vida en Malasia.

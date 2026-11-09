@@ -94,6 +94,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Malaysia(Kuala Lumpur & Penang) 선정은 매년 개정됩니다. 이 프로필은 2026년판을 반영합니다. 상은 매년 추가되거나 삭제될 수 있으므로, 최신판(2027년 선정이 형성 중)에서 빕 구르망이 여전히 유효한지 확인하십시오."
   - "영업일과 영업 시간 — MICHELIN 등재 정보는 이례적으로 제한된 영업 시간을 보여 줍니다. 그것에 의존하기 전에 가게에 직접 현재 시간을 확인하십시오."
+framework: profile
 ---
 
 페낭은 커리 국수를 진지하게 여기며, Hot Bowl White Curry Mee는 1992년부터

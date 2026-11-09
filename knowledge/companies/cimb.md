@@ -79,6 +79,7 @@ verificationNeeded:
   - "Khazanah Nasional's shareholding (roughly 21-23% through 2024, per CIMB substantial-shareholder disclosures and The Edge) — stake changes with placements and market moves."
   - "Ranking as Malaysia's second-largest bank by assets and among ASEAN's five largest banking groups — positional and time-varying; reconfirm against current peer balance sheets."
   - "Customer count (figures cited in third-party profiles range widely, e.g. ~13.5 million retail vs. ~25 million total) — verify against CIMB's own current reporting before publishing a number."
+framework: profile
 ---
 
 CIMB is the bank you meet almost everywhere you turn in Malaysian commerce — and increasingly across Southeast Asia. It is a universal bank, meaning it does everything from a salaried worker's savings account to multi-billion-ringgit bond issues and cross-border acquisitions, and it does so not only in Malaysia but through large operations in Indonesia, Thailand and Singapore.

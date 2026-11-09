@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Traité de Pangkor", "Perjanjian Pangkor", "Résident britannique", "British Resident", "Sultan de Perak", "Ipoh", "vallée de Kinta", "minerai d'étain", "vallée de Lenggong", "Assemblée de l'État de Perak"]
+framework: profile
 ---
 
 Le 20 janvier 1874, un traité fut signé dans les eaux proches de l'île de Pangkor.

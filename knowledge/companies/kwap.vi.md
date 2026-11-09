@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 Mỗi khi một công chức Liên bang nghỉ hưu, tiền lương hưu của người đó phải đến từ một nơi nào đó. Nơi đó là KWAP — và đến cuối năm 2024, hầu bao đầu tư của quỹ trị giá RM185.6 tỷ.

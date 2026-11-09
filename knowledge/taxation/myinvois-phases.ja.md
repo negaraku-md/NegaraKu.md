@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+framework: data-reference
 ---
 
 すべてを決めるのは二つの数字である。ひとつは自社のFY2022売上高で、これが段階を恒久的に固定する。もうひとつはRM1,000,000で、これを下回ればこの制度から完全に外れる。このページの残りはすべて細部にすぎない。

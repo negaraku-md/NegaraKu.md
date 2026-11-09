@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 两家马来西亚公司在各自领域引领全球。一家是全球最大的一次性手套制造商；另一家是东南亚最大的原铝冶炼企业。在投资圈之外，两者都算不上家喻户晓，但顶级手套（Top Glove）与齐力工业（Press Metal）却展示了一个中等规模的经济体如何能够孕育出单一行业的全球领导者。

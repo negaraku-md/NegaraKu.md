@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["stamp-duty-share-transfer", "stamp-duty-rates", "capital-gains-tax", "wrt-licence-malaysia", "manufacturing-licence-malaysia", "close-a-company", "share-capital-malaysia"]
 keywords: ["मलेशिया में व्यवसाय बेचना", "शेयर-बिक्री बनाम परिसंपत्ति-बिक्री", "व्यवसाय-बिक्री पर स्टांप शुल्क मलेशिया", "व्यवसाय हस्तांतरण अनुबंध मलेशिया", "Sdn Bhd बेचना", "sell business malaysia", "share sale vs asset sale"]
+framework: decision
 ---
 
 दो खरीदार उसी व्यवसाय के लिए वही RM5 मिलियन देने को तैयार हैं। एक शेयर चाहता है, दूसरा

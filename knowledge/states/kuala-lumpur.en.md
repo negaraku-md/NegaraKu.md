@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL federal territory", "Bursa Malaysia", "Petronas Twin Towers", "Klang Valley"]
+framework: profile
 ---
 
 Kuala Lumpur is Malaysia's national capital, but constitutionally it is not a state —

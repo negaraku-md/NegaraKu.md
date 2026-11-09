@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 Malaysia có thể thay Thủ tướng mà không một lá phiếu nào của người dân được bỏ ra — vì chức vụ đó không phải do cử tri trao, mà do Yang di-Pertuan Agong trao cho bất kỳ ai được cho là có khả năng tập hợp đa số Dewan Rakyat. Đó là lý do Malaysia chứng kiến vài lần thay Thủ tướng giữa năm 2018 và 2022 mà không một cuộc tổng tuyển cử mới nào quyết định điều đó ở giữa giai đoạn ấy.

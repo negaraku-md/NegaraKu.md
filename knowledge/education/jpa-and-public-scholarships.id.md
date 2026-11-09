@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 Mendapat 9A+ dalam SPM belum tentu menjamin sekeping beasiswa penuh ke luar negeri — karena di Malaysia, penajaan publik bukan hanya soal nilai, tetapi juga soal skema mana yang Anda lamar, syarat pengabdian yang diikat, dan kebijakan yang mengatur setiap dana. Memahami peta penaja ini penting karena pilihan yang salah dapat berarti ribuan ringgit yang perlu dibayar kembali kelak.

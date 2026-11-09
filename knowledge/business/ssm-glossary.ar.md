@@ -83,6 +83,7 @@ keywords:
   - "بديل Form 9 من SSM"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 نصف الالتباس في إدارة الشركات الماليزية سببه المفردات. سجلّان بأسماء مختصرة متشابهة، وأربع

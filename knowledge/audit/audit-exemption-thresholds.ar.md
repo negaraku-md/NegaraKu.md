@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "who-cannot-claim-audit-exemption" }
 related: ["audit-exemption", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption"]
 keywords: ["حد الإعفاء من التدقيق ماليزيا", "الإعفاء من التدقيق RM3 مليون", "حدود PD 10/2024", "حد الإعفاء من التدقيق 2026", "معايير الإعفاء من التدقيق SSM 2027", "عدد الموظفين للإعفاء من التدقيق", "audit exemption threshold Malaysia", "PD 10/2024 thresholds"]
+framework: data-reference
 ---
 
 إن كنت ستحتفظ برقم واحد من هذه الصفحة، فاحتفظ بهذا: إن حد الـ RM3 مليون

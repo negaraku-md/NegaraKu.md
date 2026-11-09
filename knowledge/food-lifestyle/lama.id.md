@@ -79,6 +79,7 @@ social:
 verificationNeeded:
   - "Seleksi MICHELIN Guide Kuala Lumpur & Penang direvisi setiap tahun; profil ini mencerminkan edisi 2026 (diumumkan November 2025), di mana Lama adalah entri baru. Edisi yang lebih baru — misalnya daftar 2027 — dapat menambah, menghapus, atau menyusun ulang peringkatnya, jadi konfirmasikan kembali status Bib Gourmand terkininya di guide.michelin.com sebelum mengandalkannya."
   - "Konflik alamat: halaman restoran langsung MICHELIN memberikan G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, sementara beberapa laporan sekunder menempatkan Lama di Setapak / Taman Ayer Panas. Konfirmasikan lokasi terkini yang benar (dan apakah ada lebih dari satu lokasi) secara langsung sebelum berkunjung."
+framework: profile
 ---
 
 Masakan Peranakan pada intinya adalah masakan rumahan — hidangan padat karya yang

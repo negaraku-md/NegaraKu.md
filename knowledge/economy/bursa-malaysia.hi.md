@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-overview", "ringgit"]
 keywords: ["Bursa Malaysia", "Main Market लिस्टिंग आवश्यकताएँ", "ACE Market", "LEAP Market", "FBM KLCI", "KLCI 30 घटक", "IPO Malaysia", "Bursa Malaysia बोर्ड"]
+framework: profile
 ---
 
 ## एक नज़र में

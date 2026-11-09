@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["فئات العلامات التجارية ماليزيا", "تصنيف نيس ماليزيا", "رسوم العلامات التجارية myipo", "رسم العلامة التجارية لكل فئة ماليزيا", "trademark classes malaysia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 عدد الفئات، لا التقديم نفسه، هو ما تكلّفه العلامة التجارية الماليزية. وكل ما

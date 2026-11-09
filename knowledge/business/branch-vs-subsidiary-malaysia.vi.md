@@ -118,6 +118,7 @@ keywords:
   - "regional office MIDA"
   - "local agent foreign company Malaysia"
   - "set up business in Malaysia foreign company"
+framework: decision
 ---
 
 Chi nhánh thường được chào mời như lựa chọn nhẹ nhàng: không có công ty mới, không có

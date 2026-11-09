@@ -159,6 +159,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["senarai semak offboarding malaysia", "tarikh akhir CP22A", "borang CP21 malaysia", "surat penyelesaian cukai SPC", "gaji akhir malaysia", "senarai semak pemberhentian pekerja malaysia", "tahanan cukai 90 hari"]
+framework: how-to
 ---
 
 Wawancara keluar adalah bagian yang diingat oleh semua orang. Pengajuan adalah bagian yang mengakibatkan denda — dan salah satunya, yaitu kewajiban menahan pembayaran sementara menunggu penyelesaian pajak, adalah sebab seorang petugas penggajian yang melepaskan gaji akhir tepat waktu dan dengan niat baik bisa berakhir dengan terpaksa menjelaskannya kepada LHDN.

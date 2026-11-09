@@ -76,6 +76,7 @@ faq:
     a: Non. UPU (Unit Pusat Universiti), le système en ligne centralisé du ministère de l'Enseignement supérieur, ne couvre que les universités publiques, les établissements MARA, les polytechniques et les collèges communautaires. Les établissements privés (IPTS) se situent entièrement hors de UPU et il faut postuler directement auprès d'eux ; chacun gère son propre bureau des admissions, fixe ses propres conditions d'entrée par programme et peut faire une offre en quelques jours, acceptant souvent l'UEC, les A-Levels, l'IB et d'autres qualifications aux côtés du SPM et du STPM.
   - q: Un programme n'est que « provisoirement accrédité » — cela signifie-t-il qu'il n'est pas accrédité ?
     a: Non. Selon le Code de pratique pour l'accréditation des programmes de la MQA, l'accréditation provisoire confirme qu'un programme a satisfait aux exigences de qualité minimales pour être proposé légalement, et elle constitue elle-même une condition de l'approbation du ministère. L'accréditation complète est l'évaluation plus approfondie menée une fois qu'une première promotion a suivi le programme. Un programme accrédité à titre provisoire est légitime et peut être proposé légalement ; il n'a simplement pas encore achevé l'évaluation du cycle complet.
+framework: explainer
 ---
 
 Deux étudiantes ayant les mêmes résultats au SPM se retrouvent dans des systèmes

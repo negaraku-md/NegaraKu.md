@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 Bước vào hầu hết các chi nhánh ngân hàng Malaysia hoặc mở một ứng dụng so sánh, và cùng một nhu cầu bảo vệ — một thẻ y tế, một bảo hiểm khoản vay thế chấp, một hợp đồng xe cơ giới — đến trong hai phiên bản ngồi cạnh nhau: takaful và bảo hiểm thông thường. Chúng có thể trông gần như giống hệt nhau trên trang quyền lợi. Sự khác biệt nằm ở cách sản phẩm được xây dựng bên dưới.

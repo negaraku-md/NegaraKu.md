@@ -44,6 +44,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "register-sdn-bhd", "ssm", "paid-up-capital"]
 keywords: ["Sdn Bhd", "Sendirian Berhad", "syarikat sendirian berhad Malaysia", "struktur syarikat Malaysia"]
+framework: explainer
 ---
 
 **மலாய்:** Sendirian Berhad · **ஆங்கிலம்:** Private Limited Company · **சீனம்:** 私人有限公司

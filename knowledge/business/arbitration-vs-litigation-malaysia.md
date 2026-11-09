@@ -83,6 +83,7 @@ keywords:
   - "AIAC arbitration rules 2026"
   - "arbitration clause Malaysia drafting"
   - "setting aside arbitral award Malaysia section 37"
+framework: decision
 ---
 
 The arbitration clause is usually the last clause negotiated and the first one that matters

@@ -179,6 +179,7 @@ relations:
   - { rel: "explained-in", to: "minimum-wage-malaysia" }
 related: ["form-e-ea-cp8d-malaysia", "hrd-corp-levy-malaysia", "minimum-wage-malaysia", "payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["échéances de paie Malaisie", "taux EPF SOCSO EIS", "taux de cotisation légaux Malaisie", "dates d'échéance de paie le 15", "échéance PCB", "taux du prélèvement HRD"]
+framework: data-reference
 ---
 
 Un seul tableau de référence, chaque ligne reliée à l'autorité qui la publie. Les lignes

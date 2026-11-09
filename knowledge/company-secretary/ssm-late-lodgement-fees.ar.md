@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "financial-statements-lodgement", "extension-of-time-ssm", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["رسوم الإيداع المتأخر SSM", "غرامة التأخير في الإيداع SSM", "Practice Directive 1/2017", "المصالحة compound SSM ماليزيا", "غرامة الإقرار السنوي المتأخر ماليزيا", "إعفاء غرامة MBRS", "SSM late lodgement fee"]
+framework: data-reference
 ---
 
 معظم المواقع الماليزية التي تنقل غرامات لجنة الشركات الماليزية (SSM) تنقل أرقاماً لم

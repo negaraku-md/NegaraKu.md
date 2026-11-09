@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "register-llp-malaysia" }
 related: ["llp-vs-sdn-bhd", "register-llp-malaysia", "llp-taxation", "sdn-bhd", "partnership-malaysia"]
 keywords: ["LLP", "PLT", "Perkongsian Liabiliti Terhad", "limited liability partnership Malaysia", "LLP Act 2012", "LLP vs Sdn Bhd"]
+framework: explainer
 ---
 
 **马来文：** Perkongsian Liabiliti Terhad · **英文：** Limited Liability

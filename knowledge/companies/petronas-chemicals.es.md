@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 Casi todos los sacos de fertilizante esparcidos en una granja malasia, y una gran parte de las resinas plásticas moldeadas en las fábricas del país, se remontan a una sola empresa: Petronas Chemicals Group Berhad. Es el brazo de químicos de la petrolera nacional, el mayor productor integrado de químicos de Malasia y —algo inusual para un negocio vinculado al Estado— una sociedad cotizada por separado en la que cualquiera puede comprar acciones.

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["permiso de trabajo malasia", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malasia", "investor pass malasia", "malaysia work pass", "employment pass"]
+framework: decision
 ---
 
 No existe una visa de trabajo malasia. Hay ocho o nueve instrumentos distintos, gestionados por cuatro organismos distintos, y el que necesitas lo decide **quién paga el salario** — no cómo se llama el empleo.

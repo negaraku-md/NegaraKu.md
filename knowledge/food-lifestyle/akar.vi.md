@@ -85,6 +85,7 @@ verificationNeeded:
   - "Các tuyển chọn của MICHELIN Guide được rà soát hằng năm; hồ sơ này phản ánh trạng thái hiển thị trong mục niêm yết hiện tại và nên được kiểm tra lại sau mỗi phiên bản mới."
   - "Mục niêm yết MICHELIN chỉ gọi người phụ trách gian bếp là 'chef Low'; một bài viết của MICHELIN và đưa tin thứ cấp cho biết tên của đầu bếp kiêm chủ nhà hàng là Aidan Low——hãy xác nhận họ tên đầy đủ trước khi nêu."
   - "Phiên bản mà Akar lần đầu nhận Star (tuyển chọn hiện tại ghi là 'newly promoted') nên được xác nhận với hồ sơ của MICHELIN."
+framework: profile
 ---
 
 Akar là một nhà hàng fine dining Malaysia hiện đại ở Taman Tun Dr Ismail (TTDI),

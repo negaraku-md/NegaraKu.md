@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 Tanyakan seorang perunding penempatan semula di mana untuk menempatkan kakitangan dengan elaun yang ketat di Asia, dan Kuala Lumpur sentiasa muncul — bukan kerana tinjauan itu melebih-lebihkannya, tetapi kerana angkanya benar-benar meletakkannya hampir di bahagian bawah jadual kos. Bandar yang menjadi tumpuan Malaysia ini adalah antara segelintir tempat yang mendapat skor murah *dan* selesa didiami pada masa yang sama.

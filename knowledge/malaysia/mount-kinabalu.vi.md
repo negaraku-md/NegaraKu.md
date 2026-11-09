@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 Trong nhiều thập niên, mọi sách tham khảo đều đưa ra cùng một con số: Núi Kinabalu, đỉnh cao nhất Malaysia, cao 4,101 mét so với mực nước biển. Rồi vào năm 1997, một đội khảo sát chĩa vệ tinh vào đỉnh thay vì máy kinh vĩ, và con số thay đổi. Không phải bởi một sai số làm tròn — mà bởi sáu mét. Ngọn núi không co lại. Phép đo cũ đơn giản là đã sai, và không ai có công cụ để chứng minh điều đó cho đến khi GPS khiến sự đính chính trở nên khả thi.

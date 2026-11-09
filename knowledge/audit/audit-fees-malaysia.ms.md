@@ -79,6 +79,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["yuran audit Malaysia", "skala yuran audit MIA", "RPG 7 ditarik balik", "jadual yuran audit Malaysia", "yuran audit minimum syarikat dorman", "berapa kos audit Malaysia"]
+framework: data-reference
 ---
 
 Cari maklumat tentang yuran audit Malaysia dan anda akan ditunjukkan sebuah jadual pekali: 1.000%

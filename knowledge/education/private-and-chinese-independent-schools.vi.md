@@ -77,6 +77,7 @@ keywords:
   - "Unified Examination Certificate"
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
+framework: explainer
 ---
 
 Hỏi một phụ huynh Malaysia "trường tư thục" là gì, và họ có thể nói đến ba thứ hoàn toàn khác nhau: một trường có thu học phí chạy đúng cùng chương trình học như trường của chính phủ ở cuối đường, một trường quốc tế dạy Cambridge hoặc IB, hay một trường Trung học Hoa Độc lập chạy một kỳ thi mà hầu hết mọi người ngoài cộng đồng giáo dục Hoa chưa từng nghe đến. Chỉ một trong ba loại đó dự thi SPM. Chỉ một loại dự thi UEC. Nhầm lẫn chúng là cách dễ nhất để đánh giá sai các lựa chọn của một đứa trẻ ở tuổi 18.

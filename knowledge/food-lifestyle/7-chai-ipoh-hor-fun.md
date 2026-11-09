@@ -86,6 +86,7 @@ verificationNeeded:
   - "The MICHELIN Guide selection is revised annually; confirm 7 Chai Ipoh Hor Fun still holds its Bib Gourmand in the latest MICHELIN Guide Kuala Lumpur & Penang edition before relying on it."
   - "Edition-year labelling is inconsistent across sources — some refer to the current selection as the 2027 edition while other materials label the latest list 2026. Confirm the correct edition year against the official MICHELIN Guide ceremony announcement."
   - "The restaurant's founding date and history are not given in the MICHELIN listing and were not confirmed from a primary source."
+framework: profile
 ---
 
 7 Chai Ipoh Hor Fun is a small, no-frills noodle shop in the Pandan Perdana

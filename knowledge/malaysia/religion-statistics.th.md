@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["dosm", "sarawak"]
 keywords: ["Malaysia religion statistics", "MyCensus 2020 religion", "census 2020 Malaysia religion", "Islam population Malaysia", "Buddhism population Malaysia", "Christianity population Malaysia", "Hinduism population Malaysia", "DOSM population by religion"]
+framework: data-reference
 ---
 
 ทุกสิบปี สำมะโนแห่งชาติของมาเลเซียถามคำถามที่แบบฟอร์มราชการน้อยฉบับถามโดยตรง คือ ศาสนาของคุณคืออะไร ในปี 2020 ผู้คน 32.4 ล้านคนตอบ และกรมสถิติมาเลเซีย (DOSM) เผยแพร่การนับในย่อหน้าเดียวของการเผยแพร่ Key Findings ห้าตัวเลข ไม่มีความเห็นแนบมา

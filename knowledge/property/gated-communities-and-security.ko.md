@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
+framework: explainer
 ---
 
 두 주택 지역이 똑같아 보일 수 있습니다 — 벽돌 경비실, 줄무늬 차단봉, 당신의 스티커를 확인하는 제복 입은 경비원. 하나는 탄탄한 법적 근거 위에 서 있습니다. 다른 하나는 아직 아무도 이의를 제기하지 않았기에 존재합니다.

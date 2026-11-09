@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 Mỗi năm, hàng triệu người Hồi giáo tại Malaysia trao 2,5% tài sản của mình không phải cho chính phủ, mà cho cơ quan zakat của bang — và đối với nhiều người trong số họ, khoản trả đó khấu trừ hóa đơn thuế thu nhập của họ theo từng ringgit. Zakat đứng ở giao điểm của nghĩa vụ tôn giáo và tài chính, và hiểu cả hai mặt đó là điều quan trọng đối với bất kỳ người nộp thuế Hồi giáo nào.

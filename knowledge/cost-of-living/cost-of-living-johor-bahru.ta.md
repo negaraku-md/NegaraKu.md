@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
+framework: data-reference
 ---
 
 மலேசியாவின் முழு தேசிய குறைந்தபட்ச ஊதியமான மாதம் RM1,700 பெறும் ஒரு தொழிலாளி,

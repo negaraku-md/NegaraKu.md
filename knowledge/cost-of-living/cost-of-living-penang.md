@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
+framework: data-reference
 ---
 
 Penang is the one Malaysian state where "cost of living" cannot be answered

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 Hãy hỏi một chuyên gia tư vấn di dời nên bố trí nhân sự ở đâu với một khoản phụ cấp eo hẹp tại châu Á, và Kuala Lumpur cứ liên tục được nhắc đến — không phải vì các cuộc khảo sát tâng bốc nó, mà vì các con số thực sự đặt nó gần cuối bảng chi phí. Thành phố neo giữ Malaysia là một trong số ít nơi vừa rẻ *vừa* đáng sống cùng một lúc.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 一座距吉隆坡约一小时车程、气候凉爽的山顶度假村，是马来西亚境内唯一可以合法发牌开赌的地方。正是这张独特的牌照——对非穆斯林合法，却与一项禁止穆斯林赌博的伊斯兰教法并行存在——构成了云顶（Genting）的核心。云顶是马来西亚规模最大的本土企业集团之一。

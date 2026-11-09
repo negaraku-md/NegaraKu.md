@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["مراحل MyInvois", "تاريخ تطبيق الفوترة الإلكترونية في ماليزيا", "إعفاء الفوترة الإلكترونية RM1 مليون", "فترة تخفيف الفوترة الإلكترونية", "الجدول الزمني للفوترة الإلكترونية LHDN", "MyInvois phases", "e-Invoice implementation date Malaysia"]
+framework: data-reference
 ---
 
 رقمان يقرّران كل شيء: حجم أعمالك في FY2022، الذي يثبّت مرحلتك بصفة دائمة، وRM1,000,000،

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG जहाजरानी", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "समुद्री मलेशिया", "MMHE"]
+framework: profile
 ---
 
 MISC Berhad मलेशिया की ऊर्जा अर्थव्यवस्था की समुद्री शाखा है — वह समूह जो देश की गैस और तेल को दुनिया के महासागरों के पार ले जाता है।

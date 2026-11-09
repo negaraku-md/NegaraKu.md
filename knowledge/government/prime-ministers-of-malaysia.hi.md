@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["मलेशिया के प्रधानमंत्री", "prime ministers of Malaysia", "list of Malaysian prime ministers", "Perdana Menteri Malaysia", "Anwar Ibrahim", "अनवर इब्राहिम", "Mahathir Mohamad", "महातिर मोहम्मद"]
+framework: data-reference
 ---
 
 मलेशिया के शासनप्रमुख **प्रधानमंत्री** हैं — वह नेता जो देवान राक्यात (Dewan Rakyat) के

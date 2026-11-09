@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["الاستقلال 1957", "استقلال الملايو", "تونكو عبد الرحمن", "لجنة ريد", "ملعب ميرديكا", "Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
+framework: history-culture
 ---
 
 بعد دقائق من منتصف ليل 31 أغسطس 1957، في الساحة (padang) أمام مبنى نادي سلانغور القديم في كوالالمبور، نُزِّل علم الاتحاد البريطاني (Union Jack) ورُفع علم اتحاد الملايو الجديد. هذه هي الصورة التي يحملها معظم الناس عن الاستقلال (Merdeka) — لكنّ العمل الفعلي للاستقلال كان قد أُنجز قبل ذلك بأشهر، في غرف اللجان في لندن وكوالالمبور، على يد أناس يتفاوضون على بنود دستور لم يكن موجوداً في العام السابق.

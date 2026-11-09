@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bank-islam-malaysia" }
 related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
+framework: profile
 ---
 
 สำหรับผู้ฝากส่วนใหญ่ Tabung Haji คือบัญชีที่รวบรวมเงินเพื่อไปนครมักกะฮ์ แต่เบื้องหลังเคาน์เตอร์เงินออมนั้น Lembaga Tabung Haji ยังขับเคลื่อนเงินหลายหมื่นล้านริงกิตทั่วสวนปาล์ม อสังหาริมทรัพย์ ตราสารทุน และตราสารการเงินอิสลาม ทำให้มันเป็นนักลงทุนสถาบันขนาดใหญ่ในมาเลเซีย บันทึกนี้มุ่งเน้นด้านการเงินและองค์กรนั้น ไม่ใช่กิจการพิธีฮัจญ์

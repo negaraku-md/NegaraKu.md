@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["stamp-duty-share-transfer", "stamp-duty-rates", "capital-gains-tax", "wrt-licence-malaysia", "manufacturing-licence-malaysia", "close-a-company", "share-capital-malaysia"]
 keywords: ["jual perniagaan malaysia", "jualan saham vs jualan aset", "duti setem jualan perniagaan malaysia", "perjanjian pemindahan perniagaan malaysia", "jual sdn bhd", "jual syarikat"]
+framework: decision
 ---
 
 Dua pembeli menawarkan RM5 juta yang sama untuk perniagaan yang sama. Seorang

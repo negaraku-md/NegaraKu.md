@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "Năm ấn bản MICHELIN chính xác được ghi không nhất quán giữa các nguồn — trang chính thức không ghi năm, báo chí nhắc đến MICHELIN Guide Kuala Lumpur & Penang '2026', còn danh sách Bib Gourmand của Wikipedia hiện hiển thị cột '2027' là mới nhất. Việc tuyển chọn được rà soát hằng năm; hãy xác nhận trạng thái hiện tại trên guide.michelin.com."
   - "Năm thành lập thường được dẫn là 2002, và nhãn 'không dùng thịt heo', đến từ các trang liệt kê của bên thứ ba chứ không phải trang MICHELIN; hãy xác nhận với nhà hàng trước khi nêu."
+framework: profile
 ---
 
 Phía sau một mặt tiền màu vàng tươi trên Tengkat Tong Shin, giữa những con phố

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
+framework: data-reference
 ---
 
 Một người lao động hưởng lương tối thiểu quốc gia đầy đủ của Malaysia, RM1,700 mỗi tháng, có thể sống cách hai con phố với một người hàng xóm kiếm được tương đương RM4,000 hoặc hơn cho một ngày làm việc tương tự — cùng một thành phố, cùng một chợ ẩm, cùng một mức tiền thuê cho căn phòng bên cạnh. Không có gì trong chính nền kinh tế của Johor Bahru giải thích được khoảng cách đó. Người hàng xóm được trả bằng đô la Singapore.

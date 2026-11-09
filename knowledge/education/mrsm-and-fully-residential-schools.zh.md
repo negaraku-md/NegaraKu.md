@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 马来西亚家庭在谈论为孩子选择"最好"的寄宿学校时，常常会提到两个名字：MRSM 与 SBP。两者都是遴选性的全寄宿学院，都竞争激烈、一位难求——但它们由两个不同的机构管理，隶属于两套不同的政策使命。

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "différence KWSP PERKESO", "beza KWSP PERKESO", "cotisations obligatoires de l'employé Malaisie", "retenue sur salaire KWSP SOCSO", "taux de cotisation KWSP", "catégories SOCSO", "kadar caruman KWSP"]
+framework: explainer
 ---
 
 Ouvrez le bulletin de paie de n'importe quel employé malaisien et vous y

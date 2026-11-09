@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
+framework: profile
 ---
 
 Vào năm 2024, các sản phẩm điện, điện tử và quang học đóng góp 51.1 phần trăm

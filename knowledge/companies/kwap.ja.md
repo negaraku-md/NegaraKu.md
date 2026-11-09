@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 連邦公務員が退職するたびに、その年金は必ずどこかから支払われなければならない。その出どころがKWAPだ——2024年末時点で、その投資資金はRM1,856億に達していた。

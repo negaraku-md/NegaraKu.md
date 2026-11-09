@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
+framework: data-reference
 ---
 
 Giờ đây bạn có thể mở một tài khoản ngân hàng Malaysia mà không bao giờ đặt chân đến chi nhánh, đặt một thẻ ghi nợ, hay điền một mẫu giấy — và năm tổ chức được cấp phép đang cạnh tranh để làm điều đó hoàn toàn từ điện thoại của bạn.

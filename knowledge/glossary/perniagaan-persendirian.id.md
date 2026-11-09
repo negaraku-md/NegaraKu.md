@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 Gerai mamak di simpang jalan Anda, perancang lepas yang menerbitkan faktur dari kantor rumah, pembuat kue akhir pekan yang berjualan daring — kebanyakan mereka adalah makhluk hukum yang sama: sebuah usaha perseorangan. Ia merupakan cara paling murah, paling cepat, dan paling lazim untuk berusaha di Malaysia, sekaligus cara yang paling membuat Anda terekspos jika sesuatu tidak berjalan lancar.

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
+framework: profile
 ---
 
 サラワクは、いわば異なる調で奏でられたマレーシアである。連邦において陸地面積で群を抜いて最大の州であり、半島ではなくボルネオ島に位置し、あらゆる半島州とは一線を画す独自の憲制上の地位を保持している。

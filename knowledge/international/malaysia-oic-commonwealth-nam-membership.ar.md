@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
 related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OIC", "منظمة التعاون الإسلامي", "الكومنولث", "Commonwealth", "NAM", "حركة عدم الانحياز", "D-8", "APEC", "السياسة الخارجية الماليزية", "العضوية الدولية"]
+framework: data-reference
 ---
 
 في كل مرة يتحدث فيها وزير ماليزي عن فلسطين في منتدى للعالم الإسلامي، أو يحضر

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["الخصم المزدوج ماليزيا", "الخصم الإضافي ضريبة الدخل", "قائمة P.U.(A) للخصم المزدوج", "double deduction Malaysia", "further deduction income tax", "tax incentive gazette order Malaysia"]
+framework: data-reference
 ---
 
 لا ينشر أحد هذا على هيئة قائمة، ولذلك تخطئ المطالبات. فمدير مالي يقرأ تنبيهاً من مكتبٍ مهني يقول إن *ترتيبات العمل المرنة تحصل على خصم مزدوج*، فيطالب بـ 200%، ويُخطئ — إذ تمنح القاعدة المنشورة في الجريدة الرسمية منذ سنة التقييم 2025 نسبة **50% إضافية**، لا 100% إضافية.

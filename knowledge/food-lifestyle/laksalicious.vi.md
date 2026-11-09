@@ -78,6 +78,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 Ít món ăn nào nói lên Penang như laksa, và trên đường Jalan Hutton một quán nhỏ

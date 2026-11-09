@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 பெரும்பாலான மலேசிய வங்கிக் கிளைகளுக்குள் நுழையுங்கள் அல்லது ஓர் ஒப்பீட்டு செயலியைத் திறங்கள், அதே பாதுகாப்புத் தேவை — ஒரு மருத்துவ அட்டை, ஒரு அடமானப் பாதுகாப்பு, ஒரு மோட்டார் பாலிசி — இரண்டு பதிப்புகளில் அருகருகே அமர்ந்திருக்கும்: தக்காஃபுல் மற்றும் வழக்கமான காப்பீடு. நலன் பக்கத்தில் அவை கிட்டத்தட்ட ஒரே மாதிரி தோன்றலாம். வேறுபாடு அந்தத் தயாரிப்பு அடிப்பகுதியில் எவ்வாறு கட்டமைக்கப்பட்டுள்ளது என்பதில் உள்ளது.

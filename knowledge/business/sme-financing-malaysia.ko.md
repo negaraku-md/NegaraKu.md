@@ -82,6 +82,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "sme bank financing", "cradle grant malaysia", "tekun financing", "government loan sme malaysia"]
+framework: data-reference
 ---
 
 대부분의 중소기업 금융 디렉터리는 보도자료에서 수집한 제도 이름의 목록이며, 그

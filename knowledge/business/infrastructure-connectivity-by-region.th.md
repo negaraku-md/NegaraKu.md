@@ -110,6 +110,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "tanjung pelepas ptp throughput", "malaysia port statistics 2025", "ecrl completion date", "ecrl land bridge kuantan port klang", "5g coverage by state malaysia", "mcmc broadband by state", "saidi malaysia"]
+framework: data-reference
 ---
 
 มาเลเซียมีท่าเรือพาณิชย์สามสิบกว่าแห่งและสองแห่งที่สำคัญสำหรับตู้คอนเทนเนอร์ มีสนามบินนานาชาติหกแห่งและหนึ่งแห่งที่เคลื่อนย้ายสินค้าทางอากาศในระดับใหญ่ การรู้ว่าที่ตั้งของท่านอยู่ฝั่งใดของเส้นแบ่งนั้นมีค่ามากกว่ารายการสิ่งอำนวยความสะดวกใด ๆ ในโบรชัวร์ของรัฐ

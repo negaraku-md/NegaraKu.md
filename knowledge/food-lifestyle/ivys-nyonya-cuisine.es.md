@@ -77,6 +77,7 @@ verificationNeeded:
   - "Año de la edición de la MICHELIN Guide: el Bib Gourmand se reevalúa cada año y este perfil no lo fija a una edición concreta. La edición más reciente publicada al momento de redactar es la MICHELIN Guide Kuala Lumpur & Penang 2026 — NO indique una edición 2027 hasta que MICHELIN la publique. Confirme que Ivy's sigue ostentando el Bib Gourmand en la edición vigente en guide.michelin.com."
   - "Dirección: la página MICHELIN en inglés indica 100-104 Jalan Kedah, George Town 10050, pero algunas versiones locales de la página muestran 58 Jalan Chow Thye. MICHELIN señala un traslado a un local más grande; confirme la dirección actual directamente antes de publicar indicaciones."
   - "Horario (cerrado lunes; cena el martes; miércoles-domingo almuerzo y cena) — verifique el horario actual al reservar."
+framework: profile
 ---
 
 **Ivy's Nyonya Cuisine** es un clásico de George Town de los tranquilos y de

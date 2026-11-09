@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["audit preparation checklist Malaysia", "PBC list audit", "audit request list Sdn Bhd", "MFRS 124 related party disclosure", "director account audit Malaysia", "intercompany reconciliation audit"]
+framework: how-to
 ---
 
 Danh sách yêu cầu trông giống một tài liệu hành chính. Nó không phải vậy. Nó là kế hoạch kiểm toán, được dịch thành những thứ bạn phải tạo ra, và mỗi dòng trên đó tồn tại để hỗ trợ một khẳng định cụ thể mà báo cáo tài chính đang đưa ra.

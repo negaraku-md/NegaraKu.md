@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "teh-tarik" }
 related: ["teh-tarik", "kampung"]
 keywords: ["مامّاك", "mamak", "كدي مامّاك", "kedai mamak", "أصل كلمة مامّاك", "المسلمون الهنود في ماليزيا", "مطاعم مامّاك 24 ساعة", "teh tarik", "roti canai"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Mamak · **English:** Mamak · **中文:** 嘛嘛（印度裔穆斯林／嘛嘛档）

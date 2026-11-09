@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Neighbourwood", "#BibGourmand", "#SeberangPerai", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 ペナンのすべてのMICHELINの住所が島にあるわけではない。**Neighbourwood**は本土の

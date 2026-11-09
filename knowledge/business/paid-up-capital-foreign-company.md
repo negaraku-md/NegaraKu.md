@@ -96,6 +96,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "foreign owned Sdn Bhd capital requirement"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 Ask ten Malaysian corporate service providers what the minimum paid-up capital is for

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["Sessions Court jurisdiction Malaysia", "Magistrates Court limit Malaysia", "High Court civil jurisdiction Malaysia", "which court to sue Malaysia", "limitation period contract Malaysia", "appeal from Sessions Court Malaysia"]
+framework: decision
 ---
 
 审理机构的选择，是在任何人细看案情之前就已经作出的。把一宗 RM1.2 million 的索偿入禀

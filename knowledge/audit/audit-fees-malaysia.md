@@ -77,6 +77,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["audit fees Malaysia", "MIA audit fee schedule", "RPG 7 withdrawn", "audit fee table Malaysia", "minimum audit fee dormant company", "how much does an audit cost Malaysia"]
+framework: data-reference
 ---
 
 Search for Malaysian audit fees and you will be shown a coefficient table: 1.000%

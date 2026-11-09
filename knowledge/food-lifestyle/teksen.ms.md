@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 Terletak di sebuah rumah kedai di Lebuh Carnarvon, Teksen merupakan salah satu

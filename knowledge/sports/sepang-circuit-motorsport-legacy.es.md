@@ -121,6 +121,7 @@ keywords:
   - "MotoGP Sepang 2031"
   - "cuota de organización F1 Sepang"
   - "Litar Antarabangsa Sepang"
+framework: profile
 ---
 
 En octubre de 2026, los coches de Fórmula 1 correrán en Sepang por primera vez en nueve años — y la cartelería junto a la pista dirá *Gran Premio de Baréin*. Malasia no es la anfitriona sobre el papel, no pagará la cuota de licencia y no hizo presión para volver al calendario. Simplemente tenía la única cosa que la Fórmula 1 necesitó de repente: un circuito vacío, listo y de primer nivel.

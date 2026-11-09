@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 Cuando 85,500 espectadores llenan la curva de tres niveles del Estadio Nacional TM en la noche de una final de fútbol, están sentados dentro del mayor símbolo de la infraestructura deportiva de Malasia; y, sin embargo, es solo uno de los varios recintos que sostienen los grandes eventos del país.

@@ -112,6 +112,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
+framework: profile
 ---
 
 1874年1月20日、パンコール島（Pulau Pangkor）近海で一通の条約が締結された。この文書は領土を割譲するものでも、戦争を宣言するものでもなかった。それはただ一つの新しい役職——その助言に従わなければならない一人の駐在官——を導入したにすぎなかった。

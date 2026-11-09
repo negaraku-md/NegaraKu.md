@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "gig-workers-act-2025" }
 related: ["employment-act-1955-guide", "sabah-sarawak-labour-ordinance", "gig-workers-act-2025", "payroll-compliance-malaysia"]
 keywords: ["malaysia labour law list", "employment statutes malaysia", "jtksm jppm dosh perkeso", "malaysia hr compliance portals", "industrial court malaysia", "labour law regulators malaysia"]
+framework: data-reference
 ---
 
 没有人公布这份东西，这其实很奇怪，因为任何马来西亚合规问题的第一个疑问都不是

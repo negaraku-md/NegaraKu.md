@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Neighbourwood", "#BibGourmand", "#SeberangPerai", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 ليست كل عناوين MICHELIN في Penang على الجزيرة. يقع **Neighbourwood** في Bukit

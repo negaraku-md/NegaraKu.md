@@ -91,6 +91,7 @@ verificationNeeded:
   - "여기서 MICHELIN 등급을 빕 구르망(Bib Gourmand)으로 기술했으나, 공식 등재 페이지는 상을 직접 가져올 수 있는 텍스트가 아니라 아이콘으로 표시합니다. MICHELIN 등급은 매년 개정되므로 인용 전에 guide.michelin.com에서 현재 빕 구르망 상태를 확인하세요."
   - "판본 연도: 말레이시아 언론은 MICHELIN Guide Kuala Lumpur & Penang 2027 판본(2026년 11월 4일 발표로 보도됨)을 언급하지만, 독립적으로 확인 가능한 최신 공식 판본은 2026입니다 — 어느 판본이 이 노점을 등재했는지 공식 선정 페이지에서 확인하세요."
   - "영업시간(화–토 12:00–18:00로 등재)은 MICHELIN 등재에서 나왔습니다. 하루 중 일부만 영업하는 숯불 노점의 시간과 요일은 자주 바뀌므로 가기 전에 현지에서 확인하세요."
+framework: profile
 ---
 
 조지타운의 수많은 char koay teow 노점 가운데 Jalan Siam의 그곳은 유난히 큰 명성을

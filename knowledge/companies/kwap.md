@@ -71,6 +71,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 Setiap kali seorang penjawat awam Persekutuan bersara, wang pencennya perlu datang dari suatu tempat. Tempat itu ialah KWAP — dan pada akhir 2024, kocek pelaburannya bernilai RM185.6 bilion.

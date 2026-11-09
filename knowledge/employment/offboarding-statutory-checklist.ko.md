@@ -158,6 +158,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["offboarding checklist malaysia", "CP22A deadline", "CP21 form malaysia", "tax clearance letter SPC", "final pay malaysia", "employee exit checklist malaysia", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 퇴직 면담은 모두가 기억하는 부분입니다. 신고는 벌금을 발생시키는 부분이며 — 그중 하나인

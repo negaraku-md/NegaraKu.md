@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "health-white-paper-2023" }
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
+framework: history-culture
 ---
 
 Pada 18 Mac 2020, jalan raya di seluruh Malaysia menjadi lengang apabila negara memasuki fasa yang tidak pernah dialami dalam sejarah moden: sekatan pergerakan menyeluruh untuk membendung penularan COVID-19. Dalam tempoh kira-kira dua tahun berikutnya, tindak balas kesihatan awam negara berkembang daripada penguncian menyeluruh kepada salah satu program vaksinasi terpantas di rantau ini — dan meninggalkan kesan yang masih membentuk sistem kesihatan sehingga hari ini.

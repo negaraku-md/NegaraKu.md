@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak de Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal minangkabau"]
+framework: profile
 ---
 
 En los otros ocho estados malayos, la pregunta «¿quién es el siguiente en la línea?» se

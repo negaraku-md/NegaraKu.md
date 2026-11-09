@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 街角のママック（mamak）の屋台、自宅オフィスから請求書を発行するフリーランスのデザイナー、週末にネットで焼き菓子を売る人——その多くは法律上、同じ存在である：個人事業だ。マレーシアで事業を営む最も安く、最も速く、最も一般的な方法であり、同時に何か問題が起きたときに最も無防備な方法でもある。

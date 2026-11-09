@@ -76,6 +76,7 @@ verificationNeeded:
   - "Giường vận hành — báo cáo thường niên năm tài chính 2024 dẫn khoảng 3.558 giường được cấp phép tại Malaysia, khoảng 697 giường vận hành tại Singapore và khoảng 5.602 giường vận hành tại Ấn Độ (tính đến ngày 31 tháng 12 năm 2024). Số giường thay đổi theo thời gian; xác nhận lại đối chiếu với hồ sơ mới nhất."
   - "Doanh thu — doanh thu tập đoàn năm tài chính 2024 (năm kết thúc ngày 31 tháng 12 năm 2024) khoảng RM24,4 tỷ và lợi nhuận ròng khoảng RM2,66 tỷ, theo bản công bố kết quả của IHH. Xác nhận lại con số và cơ sở đối chiếu với mỗi báo cáo thường niên/hằng quý mới."
   - "Sở hữu cổ phần — Mitsui & Co được dẫn là nắm giữ khoảng 32–33% (qua MBK Healthcare Management) và Khazanah Nasional một cổ phần thiểu số đáng kể. Các tỷ lệ chính xác thay đổi theo các đợt phát hành riêng lẻ và các vụ mua vào; xác minh đối chiếu với các công bố Bursa Malaysia / SGX mới nhất trước khi dẫn một con số."
+framework: profile
 ---
 
 Bước vào một bệnh viện Pantai hay Gleneagles ở Kuala Lumpur, một khu điều trị Mount Elizabeth ở Singapore, một phòng khám Acibadem ở Istanbul hay một trung tâm Fortis ở Delhi, và bạn đang bước vào cùng một gia đình doanh nghiệp. Gia đình đó là IHH Healthcare Berhad — một công ty có trụ sở tại Malaysia đã phát triển thành một trong những đơn vị vận hành bệnh viện tư nhân lớn nhất thế giới.

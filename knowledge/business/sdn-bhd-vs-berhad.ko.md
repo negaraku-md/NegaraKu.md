@@ -67,6 +67,7 @@ keywords:
   - "section 42 Companies Act 2016"
   - "convert Sdn Bhd to Berhad"
   - "beza Sdn Bhd dan Berhad"
+framework: explainer
 ---
 
 주주 자리가 바닥나서 Sdn Bhd를 Berhad로 전환하는 사람은 거의 없습니다. 그들이 전환하는

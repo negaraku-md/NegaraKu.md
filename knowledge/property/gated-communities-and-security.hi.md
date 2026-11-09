@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["गेटेड और गार्डेड कम्युनिटी मलेशिया", "गार्डेड नेबरहुड मलेशिया", "GACOS Malaysia", "रेजिडेंट्स एसोसिएशन मलेशिया", "residents association Malaysia", "बूम गेट कानूनी मलेशिया", "Au Kean Hoe मामला", "Street Drainage and Building Act 1974", "सार्वजनिक सड़क अवरोध मलेशिया"]
+framework: explainer
 ---
 
 दो आवासीय इलाके एक जैसे दिख सकते हैं — ईंट का गार्डहाउस, धारीदार बूम गेट, वर्दीधारी गार्ड आपका स्टिकर जाँचता हुआ। एक ठोस कानूनी आधार पर खड़ा है। दूसरा इसलिए मौजूद है क्योंकि अभी तक किसी ने उसे चुनौती नहीं दी।

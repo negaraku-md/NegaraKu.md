@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
+framework: profile
 ---
 
 ในปี 1999 สำนักนายกรัฐมนตรีย้ายออกจากกัวลาลัมเปอร์ เมืองหลวงไม่ได้เปลี่ยน — สิ่งที่ย้ายคือกลไกการบริหารของมัน

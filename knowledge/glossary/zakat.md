@@ -84,6 +84,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 Setiap tahun, jutaan Muslim di Malaysia menyerahkan 2.5% daripada harta mereka bukan kepada kerajaan, tetapi kepada lembaga zakat negeri — dan bagi ramai daripada mereka, bayaran itu menolak bil cukai pendapatan mereka ringgit demi ringgit. Zakat berdiri di persimpangan ibadah dan kewangan, dan memahami kedua-dua sisi itu penting bagi mana-mana pembayar cukai Muslim.

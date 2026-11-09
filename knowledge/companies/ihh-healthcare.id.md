@@ -76,6 +76,7 @@ verificationNeeded:
   - "Tempat tidur operasional — laporan tahunan FY2024 mengutip sekitar 3.558 tempat tidur berlisensi di Malaysia, sekitar 697 tempat tidur operasional di Singapura, dan sekitar 5.602 tempat tidur operasional di India (per 31 Desember 2024). Jumlah tempat tidur berubah menurut waktu; konfirmasikan ulang terhadap pengajuan terbaru."
   - "Pendapatan — FY2024 (tahun yang berakhir 31 Desember 2024) pendapatan kelompok sekitar RM24.4 miliar dan laba bersih sekitar RM2.66 miliar, menurut rilis hasil IHH. Konfirmasikan ulang angka dan basisnya terhadap setiap laporan tahunan/kuartalan baru."
   - "Kepemilikan saham — Mitsui & Co dikutip memegang sekitar 32–33% (melalui MBK Healthcare Management) dan Khazanah Nasional memegang minoritas substansial. Persentase pastinya bergeser seiring penempatan dan pembelian saham; verifikasi terhadap pengungkapan Bursa Malaysia / SGX terbaru sebelum mengutip suatu angka."
+framework: profile
 ---
 
 Masuklah ke rumah sakit Pantai atau Gleneagles di Kuala Lumpur, bangsal Mount Elizabeth di Singapura, klinik Acibadem di Istanbul, atau pusat Fortis di Delhi, dan Anda sedang melangkah ke dalam keluarga korporat yang sama. Keluarga itu adalah IHH Healthcare Berhad — perusahaan yang berkantor pusat di Malaysia yang telah tumbuh menjadi salah satu operator rumah sakit swasta terbesar di dunia.

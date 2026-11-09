@@ -77,6 +77,7 @@ related: ["genting-group"]
 keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airport", "klia2", "Istanbul Sabiha Gokcen", "Khazanah", "airport operator Malaysia", "MAHB privatisation", "MAHB delisting"]
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
+framework: profile
 ---
 
 几乎每一次旅客降落马来西亚，他们抵达的都是一家公司运营的机场。Malaysia Airports Holdings Berhad（MAHB）运营吉隆坡国际机场——如今品牌化为 KLIA 第一搭客大厦与第二搭客大厦——并按其自身的计算，运营全国39座机场，另有一座位于伊斯坦布尔的海外门户。2025年，它还成为了对一家国家机场运营商而言不寻常的东西：不再是一家公众公司。

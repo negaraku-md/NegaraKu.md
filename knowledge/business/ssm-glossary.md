@@ -79,6 +79,7 @@ keywords:
   - "Form 9 SSM replacement"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 Half the confusion in Malaysian company administration is vocabulary. Two registers

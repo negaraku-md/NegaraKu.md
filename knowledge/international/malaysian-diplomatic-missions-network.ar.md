@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["السفارات الماليزية", "المفوضيات العليا الماليزية", "القنصلية الماليزية", "بعثات Wisma Putra", "الخدمات القنصلية ماليزيا", "شهادة الطوارئ SPC", "السفارات الأجنبية في ماليزيا", "القائمة الدبلوماسية والقنصلية", "Malaysian embassies", "Malaysia high commissions", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 افقِد جواز سفرك في ليما، أو يُلقَ القبض عليك في الدوحة، أو احتَج إلى

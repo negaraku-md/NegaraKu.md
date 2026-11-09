@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 दशकों तक, हर संदर्भ पुस्तक वही संख्या देती थी: माउंट किनाबालू, मलेशिया की सबसे ऊँची चोटी, समुद्र-तल से 4,101 मीटर ऊपर खड़ी थी। फिर 1997 में, एक सर्वेक्षण दल ने शिखर की ओर थियोडोलाइट के बजाय उपग्रह ताने, और संख्या बदल गई। किसी पूर्णांकन-त्रुटि से नहीं — बल्कि छह मीटर से। पर्वत सिकुड़ा नहीं था। पुराना मापन बस ग़लत था, और किसी के पास इसे सिद्ध करने का उपकरण तब तक नहीं था जब तक GPS ने यह सुधार संभव नहीं कर दिया।

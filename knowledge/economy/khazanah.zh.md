@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["glc", "epf", "pnb", "bursa-malaysia", "federal-budget", "bank-negara-malaysia"]
 keywords: ["Khazanah Nasional", "Malaysia sovereign wealth fund", "GLIC Malaysia", "Khazanah vs EPF", "Khazanah vs PNB", "Minister of Finance Incorporated"]
+framework: profile
 ---
 
 ## 概览

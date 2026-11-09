@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Penang Malasia", "Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "electrónica de Penang", "Penang electronics", "el Silicon Valley del Este", "silicon valley of the east"]
+framework: profile
 ---
 
 Penang rinde muy por encima de su tamaño. Es uno de los estados más pequeños de Malasia por

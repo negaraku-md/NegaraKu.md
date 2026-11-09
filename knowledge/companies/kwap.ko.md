@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 연방 공무원이 퇴직할 때마다 그의 연금은 어딘가에서 나와야 합니다. 그곳이 바로 KWAP이며, 2024년 말 기준 그 투자 자산은 RM1,856억에 달했습니다.

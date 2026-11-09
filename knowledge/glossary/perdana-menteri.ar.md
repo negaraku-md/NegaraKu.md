@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "رئيس وزراء ماليزيا", "المادة 43", "تعيين رئيس الوزراء", "ثقة الأغلبية", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 تستطيع ماليزيا أن تغيّر رئيس وزرائها دون أن يُدلي الجمهور بصوت واحد — لأن المنصب لا يمنحه الناخبون، بل يمنحه يانغ دي-بيرتوان أغونغ (Yang di-Pertuan Agong) لمن يُرى أنه قادر على حشد أغلبية في Dewan Rakyat (مجلس النواب). ولهذا شهدت ماليزيا عدة تغييرات في رئاسة الوزراء بين عامَي 2018 و2022 دون أن تحسمها انتخابات عامة جديدة في منتصف تلك الفترة.

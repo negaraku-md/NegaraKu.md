@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
+framework: explainer
 ---
 
 The same sounds recur behind almost every Malaysian performing art: the beat of goat skin struck in groups at a wedding, the high, plaintive flute that opens a shadow-puppet scene, and the soothing pluck of wooden strings in a Sarawak longhouse. The instruments that make them turn up across many arts articles — so this page gathers them in one place.

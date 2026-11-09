@@ -77,6 +77,7 @@ verificationNeeded:
   - "Ranking as Malaysia's sixth-largest banking group by assets (The Edge Malaysia) — positional and time-varying; reconfirm against current peer balance sheets."
   - "Shareholding percentages (e.g., ANZ's roughly 21.7% pre-2024 stake, and the Employees Provident Fund reported at about 14.33% around ANZ's June 2024 exit, per The Star) — stakes change with placements and market moves; verify against the latest Bursa Malaysia substantial-shareholder disclosures."
   - "FY2025 net profit of about RM2.0 billion (year ended 31 March 2025) — update each financial year against AMMB's audited results."
+framework: profile
 ---
 
 If you bank in Malaysia, you have very likely seen the AmBank name. Behind it sits AMMB Holdings Berhad, the Bursa Malaysia-listed company that heads one of the country's larger banking groups — and whose story runs from 1970s Arab-Malaysian merchant banking, through a long Australian partnership, to a landmark 2021 settlement tied to the 1MDB scandal.

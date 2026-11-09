@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "सिविल सेवक पेंशन", "सार्वजनिक-क्षेत्र पेंशन कोष", "अधिनियम 662", "पेंशन देनदारी", "Akta 662"]
+framework: profile
 ---
 
 हर बार जब कोई संघीय सिविल सेवक सेवानिवृत्त होता है, तो उनकी पेंशन का पैसा कहीं न कहीं से आना होता है। वह कहीं है KWAP — और 2024 के अंत में, इसकी निवेश जेब का मूल्य RM185.6 बिलियन था।

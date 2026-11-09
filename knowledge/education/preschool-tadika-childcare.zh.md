@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
+framework: explainer
 ---
 
 许多父母把孩子送到住家附近的 tadika——交表格、缴费，就算完成了。但很少人会问的问题是：这间 tadika 到底向谁注册？答案并非小事。视孩子的年龄与机构类型而定，它可能归属于两个截然不同的部门，各自有不同的法令、条例与执法方式。

@@ -43,6 +43,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "e-invoice"]
 keywords: ["SST Malaysia", "Sales and Service Tax", "ضريبة المبيعات والخدمات", "الضريبة غير المباشرة في ماليزيا", "Malaysia indirect tax"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Cukai Jualan dan Perkhidmatan · **English:** Sales and Service Tax · **中文:** 销售与服务税

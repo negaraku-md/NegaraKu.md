@@ -71,6 +71,7 @@ keywords:
   - "Public Holidays Ordinance Sarawak"
   - "Pesta Kaamatan"
   - "Hari Gawai"
+framework: explainer
 ---
 
 An employee in Kota Kinabalu can take two consecutive days off for [Pesta Kaamatan](/arts-culture/kaamatan) at the end of May, while a colleague in Melaka does not recognise that day as a holiday at all. Another employee in Kuching stops work for Gawai on 1 June, but the calendar at the parent company's head office in Kuala Lumpur marks nothing on that date. This is not an HR mistake. It is written into the law.

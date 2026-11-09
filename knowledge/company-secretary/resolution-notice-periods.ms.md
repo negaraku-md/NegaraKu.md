@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "written-resolutions" }
 related: ["written-resolutions", "agm-requirements", "egm-requisition", "remove-a-director"]
 keywords: ["tempoh notis resolusi Malaysia", "21 hari resolusi khas", "notis khas 28 hari", "notis pendek mesyuarat 90 peratus", "seksyen 316 Akta Syarikat 2016"]
+framework: data-reference
 ---
 
 Tanya tiga firma setiausaha syarikat Malaysia berapa hari notis yang diperlukan

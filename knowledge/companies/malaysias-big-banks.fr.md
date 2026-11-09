@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "banques de Malaisie", "Bank Negara Malaysia", "secteur bancaire"]
+framework: profile
 ---
 
 Alignez les cinq noms qui dominent presque toutes les rues commerçantes de Malaisie — Maybank, CIMB, Public Bank, RHB et Hong Leong — et vous regardez le cœur d'un système bancaire qui règle les salaires, les prêts immobiliers et le commerce du pays. Toutes sont constituées en Malaisie, toutes cotées à Bursa Malaysia, et toutes agréées par la même banque centrale. Au-delà de cela, elles divergent nettement : l'une écrase les autres par la taille, certaines sont effectivement ancrées par le gouvernement, et deux sont encore dirigées par les familles qui les ont fondées.

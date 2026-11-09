@@ -67,6 +67,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["pelepasan cukai Malaysia", "pelepasan cukai individu", "senarai semak pelepasan cukai", "pelepasan Borang BE", "pelepasan individu LHDN"]
+framework: how-to
 ---
 
 Setiap ringgit keringanan yang dapat Anda klaim secara sah mengurangi pendapatan

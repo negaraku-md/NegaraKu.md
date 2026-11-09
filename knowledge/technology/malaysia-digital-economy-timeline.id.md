@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 Pada tahun 1996, Malaysia menandai sebidang lahan pertanian di selatan Kuala Lumpur dan menyatakannya sebagai koridor teknologi masa depan negara. Hampir tiga dekade kemudian, hampir satu ringgit dari setiap empat ringgit yang dihasilkan ekonomi negara mengalir melalui layar, server dan keranjang belanja online. Perjalanan antara dua titik itu bukan satu lonjakan tunggal — ia satu rangkaian kebijakan yang terhubung, masing-masing memperbaiki atau memperluas yang sebelumnya.

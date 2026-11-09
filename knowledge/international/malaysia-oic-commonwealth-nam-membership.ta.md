@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
 related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OIC", "Pertubuhan Kerjasama Islam", "Komanwel", "Commonwealth", "NAM", "Pergerakan Negara-Negara Berkecuali", "D-8", "APEC", "dasar luar Malaysia", "keahlian antarabangsa"]
+framework: data-reference
 ---
 
 ஒரு மலேசிய அமைச்சர் இஸ்லாமிய உலகின் ஒரு மன்றத்தில் பாலஸ்தீனம் பற்றி

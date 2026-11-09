@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["dewan-rakyat", "dewan-negara", "menteri-besar", "state-assemblies-dun", "federal-state-division", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "ADUN", "Ahli Dewan Undangan Negeri", "badan perundangan negeri", "enakmen", "Jadual Kelapan", "Perkara 71", "kerajaan negeri", "State Legislative Assembly"]
+framework: explainer
 ---
 
 **Français:** Dewan Undangan Negeri (Assemblée législative de l'État) · **English:** State Legislative Assembly · **中文:** 州议会

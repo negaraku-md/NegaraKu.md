@@ -79,6 +79,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["أتعاب التدقيق ماليزيا", "جدول أتعاب التدقيق MIA", "سحب RPG 7", "جدول أتعاب التدقيق ماليزيا", "الحد الأدنى لأتعاب تدقيق الشركة الخاملة", "كم تكلفة التدقيق في ماليزيا", "audit fees Malaysia", "RPG 7 withdrawn"]
+framework: data-reference
 ---
 
 ابحث عن أتعاب التدقيق الماليزية وسيُعرض عليك جدول معاملات: 1.000% على أول

@@ -81,6 +81,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pendaftaran pdpa malaysia", "perintah golongan pengguna data", "golongan berdaftar pdpa", "daftar pengawal data malaysia", "pu a 336 2013"]
+framework: data-reference
 ---
 
 Pendaftaran di bawah PDPA tidak bersifat umum. Ia hanya berlaku bagi pengendali data yang tergolong dalam suatu golongan yang dinyatakan melalui perintah di bawah Pasal 14 Akta 709 — dan daftar itu tidak berubah sejak 16 Desember 2016.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
+framework: profile
 ---
 
 每一公斤进入马来西亚的进口大米都只经过一道门——而这道门掌握在一家私人公司手中。这就是 BERNAS。

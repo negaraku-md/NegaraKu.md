@@ -52,6 +52,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["palm-oil-sector"]
 keywords: ["الناتج المحلي الإجمالي لماليزيا", "حجم الاقتصاد الماليزي", "Malaysia GDP", "KDNK Malaysia", "النمو الاقتصادي في ماليزيا"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

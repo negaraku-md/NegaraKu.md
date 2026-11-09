@@ -85,6 +85,7 @@ keywords:
   - "AIAC arbitration rules 2026"
   - "arbitration clause Malaysia drafting"
   - "setting aside arbitral award Malaysia section 37"
+framework: decision
 ---
 
 仲裁条款通常是最后一个谈妥的条款，却是事情崩掉时第一个要紧的条款。多数马来西亚

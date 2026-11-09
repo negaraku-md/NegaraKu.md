@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 你街角的嘛嘛档、在家办公室开发票的自由设计师、周末在网上卖烘焙品的人——他们大多数在法律上是同一种存在：独资经营。这是在马来西亚经商最便宜、最快捷、也最常见的方式，同时也是一旦出问题会让你最无保障的一种。

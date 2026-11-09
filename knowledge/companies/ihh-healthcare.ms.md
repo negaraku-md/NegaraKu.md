@@ -76,6 +76,7 @@ verificationNeeded:
   - "Katil operasi — laporan tahunan TK2024 menyebut kira-kira 3,558 katil berlesen di Malaysia, kira-kira 697 katil operasi di Singapura dan sekitar 5,602 katil operasi di India (setakat 31 Disember 2024). Bilangan katil berubah dari semasa ke semasa; sahkan semula dengan pemfailan terkini."
   - "Hasil — hasil kumpulan TK2024 (tahun berakhir 31 Disember 2024) kira-kira RM24.4 bilion dan keuntungan bersih kira-kira RM2.66 bilion, menurut keluaran keputusan IHH. Sahkan semula angka dan asasnya dengan setiap laporan tahunan/sukuan yang baharu."
   - "Pegangan saham — Mitsui & Co disebut memegang kira-kira 32–33% (menerusi MBK Healthcare Management) dan Khazanah Nasional minoriti yang besar. Peratusan tepat berubah dengan penempatan dan pembelian; sahkan dengan pendedahan Bursa Malaysia / SGX terkini sebelum menyebut sesuatu angka."
+framework: profile
 ---
 
 Melangkah masuk ke hospital Pantai atau Gleneagles di Kuala Lumpur, sebuah wad Mount Elizabeth di Singapura, sebuah klinik Acibadem di Istanbul atau sebuah pusat Fortis di Delhi, dan anda sedang melangkah masuk ke dalam keluarga korporat yang sama. Keluarga itu ialah IHH Healthcare Berhad — sebuah syarikat yang beribu pejabat di Malaysia yang telah berkembang menjadi salah satu pengendali hospital swasta terbesar di dunia.

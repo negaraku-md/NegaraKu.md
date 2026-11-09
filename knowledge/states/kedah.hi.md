@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: []
 keywords: ["Kedah", "केदाह", "Kedah Darul Aman", "Alor Setar", "अलोर सेतार", "Sultan Kedah", "केदाह के सुल्तान", "jelapang padi", "चावल का कटोरा", "Kulim Hi-Tech Park", "Lembah Bujang", "बुजांग घाटी", "Kedah Tua", "Langkawi", "लंकावी", "MADA"]
+framework: profile
 ---
 
 2024 में, विद्युत, इलेक्ट्रॉनिक और ऑप्टिकल उत्पादों ने केदाह के विनिर्माण क्षेत्र में मूल्य वर्धन का 51.1 प्रतिशत हिस्सा बनाया। चावल राज्य के GDP के उस 10.6 प्रतिशत में से एक हिस्सा योगदान देता है जो कृषि से आता है।

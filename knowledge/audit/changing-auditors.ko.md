@@ -101,6 +101,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "회사와 모든 임원이 범죄를 범함"
+framework: how-to
 ---
 
 누구도 중립적인 이유로 감사인을 교체하지 않습니다. 수수료가 움직였거나, 그룹이

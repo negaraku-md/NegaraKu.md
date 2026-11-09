@@ -125,6 +125,7 @@ keywords:
   - "MD Cybercity Cybercentre"
   - "MD Location Recognition"
   - "Cyberview Sdn Bhd"
+framework: profile
 ---
 
 有两样不同的东西都叫「赛城（Cyberjaya）」，而混淆它们的代价是昂贵的。

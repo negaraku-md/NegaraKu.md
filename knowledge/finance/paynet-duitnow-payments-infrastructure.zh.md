@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysia-e-wallets" }
 related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "Malaysia payments", "cashless"]
+framework: profile
 ---
 
 在吉隆坡的一个椰浆饭摊位扫描 QR 码、输入朋友的手机号码给他转账、通过网上银行结清一笔账单——这三段旅程都悄悄经过同一家公司。它叫 PayNet，而大多数马来西亚人从未听过它的名字。

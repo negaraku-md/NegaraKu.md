@@ -115,6 +115,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["js-sez-guide", "forest-city-sfz", "new-incentive-framework", "tax-incentives-directory", "global-minimum-tax-pillar-two"]
 keywords: ["insentif cukai JS-SEZ", "cukai Zon Kewangan Khas Forest City", "Global Services Hub Malaysia", "kadar cukai zon ekonomi khas Malaysia", "pekerja berpengetahuan 15% Malaysia", "JS-SEZ berbanding Forest City"]
+framework: decision
 ---
 
 Dua zon terletak kira-kira dua puluh kilometer antara satu sama lain di selatan

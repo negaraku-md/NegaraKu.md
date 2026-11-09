@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 Every year, millions of Muslims in Malaysia surrender 2.5% of their wealth not to the government, but to the state zakat boards — and for many of them, that payment offsets their income-tax bill ringgit for ringgit. Zakat stands at the crossroads of worship and finance, and understanding both sides matters for any Muslim taxpayer.

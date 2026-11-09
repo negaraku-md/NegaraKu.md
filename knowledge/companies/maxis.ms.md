@@ -78,6 +78,7 @@ verificationNeeded:
   - "Hasil perkhidmatan Perniagaan Perusahaan RM1,610 juta bagi TK2024 — sahkan terhadap pemfailan terkini."
   - "Pegangan saham semasa kumpulan induk (kepentingan berkaitan Usaha Tegas dan Saudi Telecom Company) — sahkan terhadap pendedahan Bursa Malaysia terkini."
   - "Status rangkaian 5G kedua Malaysia dan peranan Maxis di dalamnya (U Mobile dipilih pada November 2024) — sahkan dasar dan pengaturan 5G semasa dengan SKMM."
+framework: profile
 ---
 
 Hampir setiap rakyat Malaysia yang memiliki telefon pernah, pada satu masa, menjadi pelanggan Maxis atau Hotlink. Di sebalik dua jenama yang biasa itu terletak satu syarikat — Maxis Berhad — yang berada dalam kalangan pengendali telekomunikasi terbesar negara ini dan telah berkembang daripada pembawa mudah alih sahaja menjadi penyedia bersepadu mudah alih, jalur lebar rumah dan ketersambungan perusahaan.

@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "正確な MICHELIN の版の年は資料によって表記が一致しません——レストランの公式ページには年の記載がなく、報道は「2026」年の MICHELIN Guide Kuala Lumpur & Penang に言及し、Wikipedia の Bib Gourmand 一覧は現在「2027」の列を最新として示しています。Bib Gourmand の選定は毎年改訂されます。現在の版と状況は guide.michelin.com で確認してください。"
   - "Congkak の開業年、経営者、nasi ambeng の大皿以外の全メニューは MICHELIN ページに詳述されていません——述べる前にレストランに直接確認してください。"
+framework: profile
 ---
 
 クアラルンプール随一の賑わいを見せる繁華街から数回曲がった先、ブキッ・ビンタン

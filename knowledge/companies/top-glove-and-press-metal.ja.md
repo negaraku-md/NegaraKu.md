@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 2つのマレーシア企業が、それぞれの分野で世界をリードしている。一方は使い捨て手袋の世界最大手メーカーであり、もう一方は東南アジア最大の原アルミニウム製錬会社である。どちらも投資業界の外ではあまり知られた名前ではないが、Top GloveとPress Metalは、中規模経済がいかにして単一業界における世界的リーダーを生み出しうるかを示している。

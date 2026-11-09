@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 ก่อนที่จะมีพรรคระดับชาติใหญ่ใด ขบวนการมลายูเริ่มต้นในหอประชุมโรงเรียน ในหน้าหนังสือพิมพ์ และในห้องประชุมของสมาคมระดับรัฐขนาดเล็ก ระหว่างทศวรรษ 1930 กับปลายสงครามโลกครั้งที่สอง กระแสเหล่านี้เองที่ค่อย ๆ กลายเป็นพลังทางการเมืองที่ในปี 1946 สามารถรวมชาวมลายูเพื่อต่อต้านนโยบายหนึ่งของอังกฤษได้

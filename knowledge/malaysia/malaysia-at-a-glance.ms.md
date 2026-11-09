@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
+framework: data-reference
 ---
 
 Tanya "berapa besar Malaysia" atau "berapa populasi Malaysia" dan anda akan mendapat jawapan berbeza-beza bergantung kepada laman web mana yang anda kunjungi — ada yang memetik angka banci 2020, ada yang memetik anggaran Bank Dunia yang sudah dua semakan ketinggalan. Halaman ini wujud untuk membetulkan keadaan itu: setiap angka di bawah datang daripada keluaran rasmi bernama, bertarikh, supaya anda dapat melihat dengan tepat betapa terkininya ia dan menyemaknya sendiri.

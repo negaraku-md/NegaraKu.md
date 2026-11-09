@@ -80,6 +80,7 @@ related: ["maxis", "axiata"]
 keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global", "fibre broadband Malaysia", "JENDELA", "submarine cable Malaysia", "government-linked company"]
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
+framework: profile
 ---
 
 மலேசியாவில் கிட்டத்தட்ட ஒவ்வொரு ஃபைபர் அகலப்பட்டை வரி, நிறுவனச் சுற்று மற்றும் கடலடி தரவுக் கேபிள், யாரையும் அடைவதற்கு முன் ஒரே நிறுவனத்தைத் தொடுகிறது. Telekom Malaysia Berhad (TM) என்பது தேசிய நிறுவன நிறுவனம் — நாட்டின் நிலையான வலையமைப்பின் பெரும்பகுதியைக் கட்டிய இயக்குநர், போட்டியாளர்களும் சர்வதேசக் கேரியர்களும் சார்ந்திருக்கும் முதுகெலும்பை இன்னும் சொந்தமாக்கியவர்.

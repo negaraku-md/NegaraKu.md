@@ -85,6 +85,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn của MICHELIN Guide Malaysia (Kuala Lumpur & Penang) được điều chỉnh hằng năm. Hồ sơ này phản ánh ấn bản 2026; hãy xác nhận Bib Gourmand vẫn còn hiệu lực trong ấn bản mới nhất (danh sách tuyển chọn 2027 đang hình thành), vì các giải thưởng có thể được thêm vào hoặc gỡ bỏ mỗi năm."
   - "Việc nâng hạng năm 2024 từ MICHELIN Selected lên Bib Gourmand là theo thông báo của chính MICHELIN; hãy xác nhận trạng thái hiện tại với cẩm nang mới nhất nếu năm trao giải là quan trọng."
+framework: profile
 ---
 
 Món Peranakan đòi hỏi nhiều công sức, công thức được giữ kín và mang đậm tính

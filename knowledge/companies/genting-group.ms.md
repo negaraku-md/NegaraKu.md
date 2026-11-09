@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 Sebuah resort puncak gunung yang nyaman sejauh sejam dari Kuala Lumpur ialah satu-satunya tempat di Malaysia di mana sebuah kasino boleh membahagikan daun terup secara sah. Lesen yang tunggal dan luar biasa itu — sah bagi bukan Islam, namun berjalan seiring dengan pengharaman perjudian bagi orang Islam di bawah undang-undang Islam — terletak di teras Genting, salah sebuah konglomerat tempatan terbesar Malaysia.

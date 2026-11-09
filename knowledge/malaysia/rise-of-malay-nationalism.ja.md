@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 いかなる大規模な民族政党も存在しなかった時代、マレー人の運動は、学校の講堂、新聞の紙面、そして小さな州協会の会議室で始まった。1930年代から第二次世界大戦の終結までの間、こうした潮流が徐々に一つの政治的な力へと形を成し、1946年には、ある英国の政策に反対してマレー人を結束させるまでに至った。

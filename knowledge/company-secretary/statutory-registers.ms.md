@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["daftar berkanun Malaysia", "senarai semak daftar syarikat", "daftar berkanun syarikat", "daftar ahli dan pengarah", "rekod syarikat SSM", "daftar Akta Syarikat 2016"]
+framework: how-to
 ---
 
 Daftar berkanun adalah kerja kertas yang tidak difikirkan oleh sesiapa sehingga

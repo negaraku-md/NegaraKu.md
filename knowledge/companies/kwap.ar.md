@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "معاش موظفي الخدمة المدنية", "صندوق تقاعد القطاع العام", "القانون 662", "التزامات المعاش", "Akta 662"]
+framework: profile
 ---
 
 في كل مرة يتقاعد فيها موظف خدمة مدنية اتحادي، لا بدّ أن يأتي معاشه التقاعدي من مكان ما. ذلك المكان هو KWAP — وبنهاية 2024، بلغت قيمة محفظته الاستثمارية RM185.6 مليار.

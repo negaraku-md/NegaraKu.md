@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
+framework: explainer
 ---
 
 同じ音が、マレーシアのほとんどすべての芸能公演の背後で繰り返されている——婚礼で大勢が打ち鳴らす山羊皮の鼓の連打、ワヤン・クリットの幕開けを飾る甲高く物悲しい笛の音、そしてサラワク州のロングハウスで人の心を落ち着かせる木の弦の爪弾き。これらの音を生み出す楽器は、多くの芸術関連記事に繰り返し登場する——そこで本ページは、それらを一か所にまとめている。

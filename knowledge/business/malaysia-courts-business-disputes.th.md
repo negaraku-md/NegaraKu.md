@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["Sessions Court jurisdiction Malaysia", "Magistrates Court limit Malaysia", "High Court civil jurisdiction Malaysia", "which court to sue Malaysia", "limitation period contract Malaysia", "appeal from Sessions Court Malaysia"]
+framework: decision
 ---
 
 การตัดสินใจเรื่องศาลถูกทำก่อนที่ผู้ใดจะได้ดูเนื้อหาคดี ยื่นการเรียกร้อง RM1.2 ล้านในศาลเซสชันแล้วมันอยู่นอกเขตอำนาจ ยื่นการเรียกร้อง RM180,000 ในศาลสูงแล้วท่านได้ซื้อการอุทธรณ์ที่ต้องได้รับอนุญาตไว้ ทั้งสองหลีกเลี่ยงได้ด้วยการอ่านกฎหมายสองฉบับ

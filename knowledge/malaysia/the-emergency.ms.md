@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
+framework: history-culture
 ---
 
 Perkataan "darurat" adalah pilihan undang-undang, bukan sekadar deskripsi. Menamakan konflik dua belas tahun di Tanah Melayu ini sebagai darurat dan bukannya perang, membolehkan ladang getah dan lombong timah terus boleh diinsuranskan di bawah polisi London yang mengecualikan tindakan perang. Pertempuran itu nyata, jumlah kematian mencecah ribuan orang, dan negara yang muncul daripadanya membawa instrumen — kad pengenalan, daerah penempatan semula, kuasa tahanan — yang kekal wujud berdekad-dekad selepas darurat itu tamat.

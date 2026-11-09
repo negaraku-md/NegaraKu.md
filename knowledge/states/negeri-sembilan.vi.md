@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
+framework: profile
 ---
 
 Ở tám bang Mã Lai khác, câu hỏi "vị vua tiếp theo là ai" được trả lời bởi

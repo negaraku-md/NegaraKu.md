@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 マレーシアは、国民の票を一票も投じることなく首相を交代させることができる——なぜなら、この職位は有権者によって与えられるものではなく、下院（Dewan Rakyat）の多数を集められると見なされる人物に対して、国王（Yang di-Pertuan Agong）が与えるものだからである。だからこそマレーシアは、2018年から2022年にかけて、その間に新たな総選挙が一度も行われることなく、幾度も首相の交代を経験したのである。

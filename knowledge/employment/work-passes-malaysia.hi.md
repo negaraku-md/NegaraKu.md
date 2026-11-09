@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["मलेशिया वर्क पास", "प्रोफेशनल विज़िट पास", "DE Rantau नोमैड पास", "रेज़िडेंस पास-टैलेंट", "आश्रित पास", "इन्वेस्टर पास", "malaysia work pass", "employment pass", "de rantau nomad pass", "residence pass talent"]
+framework: decision
 ---
 
 कोई मलेशियाई वर्क वीज़ा नहीं है। आठ या नौ अलग-अलग साधन हैं, जिन्हें चार अलग-अलग निकाय चलाते हैं, और जिसकी आपको ज़रूरत है वह इससे तय होता है कि **वेतन कौन दे रहा है** — इससे नहीं कि नौकरी को क्या कहा जाता है।

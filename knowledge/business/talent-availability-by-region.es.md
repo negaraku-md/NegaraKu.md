@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["fuerza laboral malasia por estado", "salario mediano por estado malasia", "dosm encuesta de fuerza laboral 2025", "talento de electrónica penang", "trabajadores johor singapur", "salario mínimo malasia estado", "pase de empleo sarawak genesis"]
+framework: data-reference
 ---
 
 La primera idea que todo fundador trae a la selección de emplazamiento en Malasia es que salir del Valle de Klang recorta la factura salarial. Los datos dicen que así es — y la ley dice que la mayor parte del ahorro no es suyo para tomarlo, porque el piso y cada contribución por encima de él se fijan a nivel federal.

@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "climate-and-biodiversity" }
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
+framework: profile
 ---
 
 Avant l'existence de l'autoroute Pan Borneo ou des vols de MASwings, le seul moyen d'atteindre l'intérieur du Sarawak était de remonter le fleuve pendant des jours entiers. Les grandes villes d'aujourd'hui — Sibu, Kapit, Sandakan, Pekan — ne sont pas apparues à leur emplacement par hasard. Chacune se situe là où le fleuve en a décidé : à une embouchure, au confluent de deux cours d'eau, ou au point le plus éloigné encore navigable par bateau. Trois fleuves — le Rajang, le Kinabatangan et le Pahang — illustrent ce schéma avec la plus grande clarté.

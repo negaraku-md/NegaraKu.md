@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["العقوبات الضريبية ماليزيا", "tax penalty Malaysia", "معدّلات عقوبات LHDN", "عقوبة المادة 113(2)", "عقوبة تأخّر سداد SST", "عقوبة دمغ ضريبة الدمغة المتأخّر", "عقوبة RPGT", "kesalahan denda dan penalti", "ثلاثة أمثال الضريبة المادة 112(3)"]
+framework: data-reference
 ---
 
 لا يوجد مقياس عقوبات ضريبي ماليزي واحد. فخمسة قوانين يجري كل منها على هندسته الخاصة،

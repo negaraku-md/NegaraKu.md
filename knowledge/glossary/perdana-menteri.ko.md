@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 말레이시아는 국민의 표를 단 한 장도 던지지 않고 총리를 바꿀 수 있습니다 — 그 직위는 유권자가 주는 것이 아니라, 드완 라캬트의 다수를 모을 수 있다고 여겨지는 사람에게 양 디페르투안 아공(Yang di-Pertuan Agong)이 주는 것이기 때문입니다. 그래서 말레이시아는 2018년과 2022년 사이에 그 중간에 이를 결정짓는 새 총선 없이 여러 차례 총리 교체를 겪었습니다.

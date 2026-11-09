@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
+framework: profile
 ---
 
 柔佛的经济由它的邻居所定义。作为半岛最南端的州属，它隔着柔佛海峡与新加坡正面相对，而这份邻近性形塑了从劳动市场到房地产发展策略的一切。

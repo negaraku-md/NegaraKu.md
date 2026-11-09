@@ -83,6 +83,7 @@ verificationNeeded:
   - "MICHELIN Guide 版本年份：Bib Gourmand 每年重新评估，本篇不将它绑定于单一版本。撰写时最新出版的版本是 MICHELIN Guide Kuala Lumpur & Penang 2026——在 MICHELIN 发布 2027 版之前，切勿声称有 2027 版。请在 guide.michelin.com 上确认该店在现行版本中仍持有 Bib Gourmand。"
   - "创立与传承细节：MICHELIN 说这门手艺始于 1933 年，现今的厨房由 Teoh Kheng Sim 女士（创办人 Moh Teng Pheow 的媳妇）与其子女经营；广为流传的「14 岁移民创办人」起源故事未经证实。在扩写家族历史之前，请对照原始或文化遗产来源加以确认。"
   - "营业时间（MICHELIN 列出每天 10:00–17:00）——请核实，因为糕点店常在存货售罄后提早打烊。"
+framework: profile
 ---
 
 沿着 Lebuh Chulia 一侧的 Jalan Masjid 走去，你会来到一处仍在运作的糕点厨房，玻璃顶棚下

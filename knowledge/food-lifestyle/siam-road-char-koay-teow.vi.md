@@ -91,6 +91,7 @@ verificationNeeded:
   - "Danh hiệu MICHELIN ở đây được mô tả là Bib Gourmand, nhưng trang danh mục chính thức hiển thị giải thưởng dưới dạng biểu tượng thay vì văn bản có thể trích trực tiếp; các danh hiệu MICHELIN được rà soát hằng năm, nên hãy xác nhận trạng thái Bib Gourmand hiện tại trên guide.michelin.com trước khi trích dẫn."
   - "Năm ấn bản: báo chí Malaysia nhắc đến một ấn bản MICHELIN Guide Kuala Lumpur & Penang 2027 (được cho là công bố ngày 4 tháng 11 năm 2026), trong khi ấn bản chính thức mới nhất xác nhận được một cách độc lập là 2026 — hãy xác nhận ấn bản nào liệt kê quầy này so với trang tuyển chọn chính thức."
   - "Giờ hoạt động (ghi Thứ Ba–Thứ Bảy 12:00–18:00) đến từ danh mục MICHELIN; giờ và ngày của một quầy than chỉ mở nửa ngày thay đổi thường xuyên, nên hãy xác nhận tại chỗ trước khi đi."
+framework: profile
 ---
 
 Giữa vô số quầy char koay teow của George Town, quầy trên Jalan Siam đã giành được

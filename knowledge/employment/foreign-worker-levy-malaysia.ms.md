@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["hiring-foreign-workers-malaysia"]
 keywords: ["levi pekerja asing malaysia", "levi pekerja asing", "levi berbilang tingkat", "mtlm", "kadar levi mengikut sektor", "levi plks sabah sarawak"]
+framework: data-reference
 ---
 
 Mulakan dengan perkara yang menjadikan topik ini sukar untuk dikaji: **tiada instrumen levi pekerja asing.**

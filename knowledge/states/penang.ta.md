@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
+framework: profile
 ---
 
 பினாங்கு அதன் அளவைக் காட்டிலும் மிக அதிக செல்வாக்குடையது. நிலப்பரப்பின் அடிப்படையில்

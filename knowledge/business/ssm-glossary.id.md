@@ -81,6 +81,7 @@ keywords:
   - "gantian Borang 9 SSM"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 Separuh dari kebingungan dalam administrasi perusahaan di Malaysia berasal dari

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
+framework: data-reference
 ---
 
 マレーシアの全国最低賃金である月額RM1,700で働く労働者が、似たような一日の仕事でRM4,000

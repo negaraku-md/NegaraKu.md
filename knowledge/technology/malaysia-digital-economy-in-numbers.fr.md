@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cyberjaya-tech-hub" }
 related: ["mdec-digital-status", "digital-free-trade-zone", "cyberjaya-tech-hub"]
 keywords: ["ekonomi digital malaysia", "sumbangan ict kepada kdnk malaysia", "akaun satelit ict dosm", "gva e-dagang malaysia", "pendapatan e-dagang malaysia", "penembusan internet malaysia", "gvaict"]
+framework: data-reference
 ---
 
 Chaque fois que quelqu'un dit « l'économie numérique de la Malaisie vaut RM451 milliards », le chiffre est exact — mais il n'est presque jamais accompagné de ce qu'il mesure réellement. Ce ne sont pas des ventes en ligne, ni des revenus d'entreprises technologiques, ni la valeur des transactions de commerce électronique. C'est une mesure de valeur ajoutée, et trois indicateurs distincts sont souvent amalgamés comme s'ils n'en faisaient qu'un.

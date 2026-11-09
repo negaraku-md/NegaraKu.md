@@ -78,6 +78,7 @@ verificationNeeded:
   - "Participation dans edotco ~63 % (Khazanah ~32 %, KWAP le reste) et nombre de tours «plus de 47 000» sur ses marchés — selon le reporting d'oct. 2025 ; un processus de cession a été rapporté comme en cours et les chiffres et l'actionnariat peuvent changer."
   - "Bénéfice cumulé du groupe de 403,3 millions de RM pour les neuf mois clos le 30 sept. 2025 (publié le 27 nov. 2025) — à vérifier par rapport aux prochains résultats trimestriels et annuels."
   - "«Bien plus de 150 millions de clients» repose sur un chiffre de la société de 2019 plus la croissance ultérieure du marché ; à vérifier le total actuel de clients du groupe par rapport au dernier rapport annuel."
+framework: profile
 ---
 
 La plus grande histoire des télécommunications de Malaisie n'est pas un seul réseau, mais une holding qui possède des morceaux d'opérateurs mobiles dans six pays. Axiata Group Berhad siège dans une tour de bureaux à Kuala Lumpur Sentral et contrôle, détient en partie ou exploite conjointement les opérateurs qui connectent des centaines de millions de personnes à travers l'Asie du Sud et du Sud-Est.

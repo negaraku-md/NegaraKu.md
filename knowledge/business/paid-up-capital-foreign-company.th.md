@@ -97,6 +97,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "foreign owned Sdn Bhd capital requirement"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 ถามผู้ให้บริการด้านนิติบุคคลในมาเลเซียสิบรายว่าทุนชำระแล้วขั้นต่ำสำหรับบริษัทที่ต่างชาติถือหุ้นคือ

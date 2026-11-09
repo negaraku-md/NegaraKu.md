@@ -131,6 +131,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 La Zona Digital de Libre Comercio es el caso más claro en la escritura empresarial malasia de un

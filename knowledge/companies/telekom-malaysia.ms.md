@@ -80,6 +80,7 @@ related: ["maxis", "axiata"]
 keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global", "fibre broadband Malaysia", "JENDELA", "submarine cable Malaysia", "government-linked company"]
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
+framework: profile
 ---
 
 Hampir setiap talian jalur lebar fiber, litar perusahaan dan kabel data bawah laut di Malaysia menyentuh satu syarikat sebelum ia sampai kepada sesiapa pun. Telekom Malaysia Berhad (TM) ialah peneraju kebangsaan — pengendali yang membina sebahagian besar rangkaian tetap negara ini dan masih memiliki tulang belakang yang menjadi sandaran pesaing dan pembawa antarabangsa.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 ஆசியாவில் இறுக்கமான கொடுப்பனவுடன் ஊழியர்களை எங்கு நியமிப்பது என்று ஒரு இடமாற்ற ஆலோசகரிடம் கேளுங்கள், Kuala Lumpur மீண்டும் மீண்டும் வந்துகொண்டே இருக்கும் — கணக்கெடுப்புகள் அதைப் புகழ்வதால் அல்ல, மாறாக எண்கள் உண்மையிலேயே அதைச் செலவு அட்டவணையின் அடிமட்டத்திற்கு அருகில் வைப்பதால். மலேசியாவின் மையமான இந்த நகரம், ஒரே நேரத்தில் மலிவாகவும் *வாழத்தக்கதாகவும்* மதிப்பெண் பெறும் ஒரு சில இடங்களில் ஒன்றாகும்.

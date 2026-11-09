@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
+framework: profile
 ---
 
 マレーシアのほぼすべての目抜き通りを席巻する五つの名前——Maybank、CIMB、Public Bank、RHB、Hong Leong——を並べてみると、そこに見えてくるのは、この国の給与、住宅ローン、貿易決済を担う銀行システムの中核である。これらはすべてマレーシアで設立され、すべてマレーシア証券取引所（Bursa Malaysia）に上場し、すべて同一の中央銀行から免許を受けている。しかしそれ以外の点では大きく異なる。一行が規模で他を圧倒し、一部は実質的に政府を後ろ盾とし、そして二行は今なお創業家によって舵取りされている。

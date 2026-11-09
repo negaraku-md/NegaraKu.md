@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "gig-workers-act-2025" }
 related: ["employment-act-1955-guide", "sabah-sarawak-labour-ordinance", "gig-workers-act-2025", "payroll-compliance-malaysia"]
 keywords: ["senarai undang-undang buruh malaysia", "statut pekerjaan malaysia", "jtksm jppm dosh perkeso", "portal pematuhan hr malaysia", "mahkamah perusahaan malaysia", "pihak berkuasa undang-undang buruh malaysia"]
+framework: data-reference
 ---
 
 Tidak ada yang menerbitkan ini, yang agak aneh, karena pertanyaan pertama dalam

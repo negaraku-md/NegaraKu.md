@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 يقع Teksen داخل منزل تجاري (shophouse) في Lebuh Carnarvon، وهو من أكثر الموائد

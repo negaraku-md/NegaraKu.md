@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 1957年8月31日夜、ヌガラク（Negaraku、国歌）の旋律がセランゴール・クラブ・グラウンド（Padang Kelab Selangor）で初めて公衆の前で演奏されたとき、その旋律は新しいものではなかった。それはすでに数十年前から、あるマレー系の州の州歌となっていたのである。

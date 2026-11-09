@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cyberjaya-tech-hub" }
 related: ["mdec-digital-status", "digital-free-trade-zone", "cyberjaya-tech-hub"]
 keywords: ["ekonomi digital malaysia", "sumbangan ict kepada kdnk malaysia", "akaun satelit ict dosm", "gva e-dagang malaysia", "pendapatan e-dagang malaysia", "penembusan internet malaysia", "gvaict"]
+framework: data-reference
 ---
 
 ทุกครั้งที่ใครบางคนพูดว่า "เศรษฐกิจดิจิทัลของมาเลเซียมีมูลค่า RM451 พันล้าน" ตัวเลขนั้นถูกต้อง — แต่มันแทบไม่เคยมาพร้อมกับสิ่งที่มันวัดจริง ๆ มันไม่ใช่ยอดขายออนไลน์ ไม่ใช่รายได้ของบริษัทเทคโนโลยี และไม่ใช่มูลค่าธุรกรรมอีคอมเมิร์ซ มันเป็นมาตรวัดมูลค่าเพิ่มหนึ่ง และตัวชี้วัดที่แตกต่างกันสามตัวมักถูกปนกันเป็นหนึ่งเดียว

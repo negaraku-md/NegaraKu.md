@@ -76,6 +76,7 @@ keywords:
   - "Unified Examination Certificate"
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
+framework: explainer
 ---
 
 말레이시아 학부모에게 「사립학교」가 무엇이냐고 물으면 완전히 다른 세 가지를 뜻할 수 있습니다. 길 건너 공립학교와 정확히 같은 교육과정을 운영하는 요금제 학교, 케임브리지나 IB를 가르치는 국제학교, 또는 중국계 교육 공동체 밖의 대부분이 들어 본 적 없는 시험을 운영하는 중국계 사립 중등학교입니다. 그 셋 중 하나만 SPM을 치릅니다. 하나만 UEC를 치릅니다. 이들을 혼동하는 것이 18세에 자녀의 선택지를 잘못 판단하는 가장 쉬운 방법입니다.

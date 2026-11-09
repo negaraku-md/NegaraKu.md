@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
+framework: profile
 ---
 
 Gamuda เริ่มต้นด้วยทางด่วนในมาเลเซียและเติบโตเป็นหนึ่งในผู้รับเหมาขุดอุโมงค์และรถไฟที่ใหญ่ที่สุดในภูมิภาค ทุกวันนี้ สัดส่วนงานที่เพิ่มขึ้นอยู่นอกมาเลเซีย

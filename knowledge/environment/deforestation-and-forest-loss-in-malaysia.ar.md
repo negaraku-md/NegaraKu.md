@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch", "إزالة الغابات في ماليزيا", "فقدان الغابات", "الغطاء الحرجي", "الغابات الأولية"]
+framework: data-reference
 ---
 
 اسأل ثلاثة مصادر موثوقة عن مقدار ما لا يزال غابةً في ماليزيا، وقد تحصل على ثلاث إجابات تفصل بينها عشر نقاط مئوية — كلها قابلة للدفاع، وكلها تقيس شيئاً مختلفاً اختلافاً طفيفاً. وهذه الفجوة ليست خطأً في التقريب؛ إنها جوهر الجدل كله حول إزالة الغابات في ماليزيا في صورة مصغّرة.

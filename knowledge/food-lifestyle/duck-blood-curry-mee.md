@@ -92,6 +92,7 @@ verificationNeeded:
   - "The edition year: Malaysian press refers to a MICHELIN Guide Kuala Lumpur & Penang 2027 edition (reportedly announced 4 November 2026), while the latest independently confirmable official edition is 2026 — confirm which edition lists this shop against the official selection page."
   - "Operating hours (listed 12:00–22:00, closed Thursday) come from the MICHELIN listing and can change — verify locally before travelling."
   - "The MICHELIN description focuses on the broth, roast pork and chilli sauce and does not itself describe duck blood; confirm the current duck-blood topping offering directly with the shop if that is the draw."
+framework: profile
 ---
 
 The name promises duck blood — a traditional curry-mee topping — but what the

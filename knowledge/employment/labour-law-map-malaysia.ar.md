@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "gig-workers-act-2025" }
 related: ["employment-act-1955-guide", "sabah-sarawak-labour-ordinance", "gig-workers-act-2025", "payroll-compliance-malaysia"]
 keywords: ["قائمة قوانين العمل في ماليزيا", "تشريعات التوظيف في ماليزيا", "JTKSM JPPM DOSH PERKESO", "بوابات الامتثال للموارد البشرية في ماليزيا", "محكمة العلاقات الصناعية الماليزية", "الجهات المنظِّمة لقانون العمل في ماليزيا"]
+framework: data-reference
 ---
 
 لا أحد ينشر هذا، وهو أمر غريب، لأن السؤال الأول في أي مشكلة امتثال في ماليزيا ليس

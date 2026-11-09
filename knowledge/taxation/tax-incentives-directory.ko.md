@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["Malaysia tax incentives list", "MIDA tax incentive", "Pioneer Status Malaysia status", "Global Services Hub incentive", "Malaysia incentive gazette order", "tax incentive directory Malaysia"]
+framework: data-reference
 ---
 
 말레이시아 웹의 대부분의 인센티브 목록은 복사본의 복사본입니다. 그들은 여전히 파이오니어

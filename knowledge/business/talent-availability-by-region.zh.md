@@ -125,6 +125,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 每位创办人在马来西亚选址时首先想到的，就是搬离巴生谷可以削减薪资开支。数据显示确实如此——但法律显示这笔节省的大部分并不归你，因为薪金底线以及底线之上的每一项缴款都由联邦统一设定。

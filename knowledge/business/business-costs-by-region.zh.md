@@ -111,6 +111,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 多数关于马来西亚的选址比较，都建立在没有人公布过的数字之上。按州计的工业每平方尺租金、「典型」的水电账单、槟城与吉兰丹之间的薪资差距——这些全都在流传，而其中几乎没有一项追溯得到政府来源。

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "diferencia KWSP PERKESO", "beza KWSP PERKESO", "aportaciones obligatorias del empleado Malasia", "deducción de nómina KWSP SOCSO", "tasa de aportación KWSP", "categorías SOCSO", "kadar caruman KWSP"]
+framework: explainer
 ---
 
 Abre la nómina de cualquier empleado malasio y verás dos deducciones obligatorias

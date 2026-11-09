@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["马来西亚历史", "马来西亚时间线", "1957默迪卡", "1963马来西亚成立", "马来西亚首相"]
+framework: history-culture
 ---
 
 早在“马来西亚”这个名字出现之前，这片海岸与群岛就是地球上最繁忙的十字路口之一

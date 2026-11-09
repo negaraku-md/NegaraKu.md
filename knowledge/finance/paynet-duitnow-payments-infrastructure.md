@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "malaysia-e-wallets" }
 related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "Malaysia payments", "cashless"]
+framework: profile
 ---
 
 Scan a QR code at a nasi lemak stall in Kuala Lumpur, pay a friend by keying in their phone number, settle a bill through online banking — all three journeys quietly pass through the same company. It is called PayNet, and most Malaysians have never heard its name.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "health-white-paper-2023" }
 related: []
 keywords: ["COVID-19 Malasia", "PKP", "MCO", "PICK", "vacunación", "MySejahtera", "Libro Blanco de la Salud", "pandemia"]
+framework: history-culture
 ---
 
 El 18 de marzo de 2020, las calles de toda Malasia quedaron en silencio cuando el país entró en una fase distinta a cualquier otra de su historia moderna: una restricción generalizada de la movilidad para frenar la propagación de la COVID-19. A lo largo de aproximadamente los dos años siguientes, la respuesta de salud pública del país evolucionó de un confinamiento nacional a uno de los programas de vacunación más rápidos de la región — y dejó una huella que todavía hoy moldea el sistema de salud.

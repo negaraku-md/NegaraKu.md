@@ -77,6 +77,7 @@ verificationNeeded:
   - "Jumlah karyawan (~43.000) dan jumlah cabang (~2.600) — berubah dari waktu ke waktu."
   - "Persentase kepemilikan saham untuk dana yang dikelola PNB dan EPF — berubah pada setiap pelaporan Bursa Malaysia."
   - "Jumlah negara tempat beroperasi (seluruh sepuluh negara ASEAN ditambah pusat-pusat keuangan global) — dapat berubah."
+framework: profile
 ---
 
 Bukalah rekening giro hampir di mana saja di Malaysia dan ada peluang besar rekening itu membawa logo kepala harimau Maybank. Malayan Banking Berhad adalah bank terbesar di negara ini — menurut aset di neracanya dan menurut nilai yang ditetapkan pasar saham — serta salah satu grup perbankan terbesar di Asia Tenggara. Profil ini memaparkan apa yang dilakukan grup ini, di mana ia beroperasi, dan siapa pemiliknya.

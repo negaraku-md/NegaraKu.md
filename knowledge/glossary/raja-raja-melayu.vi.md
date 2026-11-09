@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 Mỗi năm một lần, chín người trị vì quân chủ và bốn Yang di-Pertua Negeri tụ họp tại một phòng họp ở Kuala Lumpur để đưa ra những quyết định mà Nghị viện không thể đưa ra — trong đó có việc bầu ai sẽ làm Quân vương Liên bang. Cuộc tụ họp đó là Hội đồng Quân vương, và những người trị vì quân chủ là thành viên của nó được biết đến là các Quân vương Mã Lai.

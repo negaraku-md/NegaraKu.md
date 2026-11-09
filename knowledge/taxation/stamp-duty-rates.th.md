@@ -87,6 +87,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["stamp duty rates Malaysia", "First Schedule Stamp Act 1949", "property transfer stamp duty", "share transfer stamp duty 0.3%", "tenancy agreement stamp duty", "kadar duti setem"]
+framework: data-reference
 ---
 
 อากรแสตมป์เก็บบน **ตราสาร ไม่ใช่ธุรกรรม** ดีลทางการค้าเดียวกันอาจไม่มีอากร มี RM10 หรือหลักหกหลักขึ้นอยู่กับสิ่งที่ลงนามและรายการ First Schedule ใดที่มันเข้า การเลือกรายการให้ถูกคือทั้งงาน — และภายใต้การประเมินตนเอง บัดนี้เป็นหน้าที่ของผู้เสียภาษีมากกว่าของพนักงานเก็บอากร (Collector)

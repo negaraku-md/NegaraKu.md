@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["البنوك الرقمية في ماليزيا", "digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "ترخيص البنوك الرقمية BNM", "المؤسسة الماليزية للتأمين على الودائع", "PIDM"]
+framework: data-reference
 ---
 
 يمكنك الآن فتح حساب مصرفي ماليزي دون أن تطأ قدمك فرعًا، أو تطلب بطاقة خصم، أو تملأ نموذجًا ورقيًا — وخمس مؤسسات مرخّصة تتنافس على إنجاز ذلك كله من هاتفك بالكامل.

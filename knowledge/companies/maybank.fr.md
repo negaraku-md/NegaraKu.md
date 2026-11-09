@@ -77,6 +77,7 @@ verificationNeeded:
   - "Effectifs (~43 000) et nombre d'agences (~2 600) — évoluent avec le temps."
   - "Pourcentages de participation des fonds gérés par PNB et de l'EPF — changent à chaque déclaration auprès de Bursa Malaysia."
   - "Nombre de pays d'exploitation (les dix États de l'ASEAN plus les centres financiers mondiaux) — peut changer."
+framework: profile
 ---
 
 Ouvrez un compte courant presque n'importe où en Malaisie et il y a de fortes chances qu'il porte le logo à tête de tigre de Maybank. Malayan Banking Berhad est la plus grande banque du pays — par les actifs de son bilan et par ce que le marché boursier estime qu'elle vaut — et l'un des plus grands groupes bancaires d'Asie du Sud-Est. Ce profil expose ce que fait le groupe, où il opère et à qui il appartient.

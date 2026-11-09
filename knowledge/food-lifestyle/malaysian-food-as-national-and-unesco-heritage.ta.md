@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak kut teh warisan negara", "Akta Warisan Kebangsaan 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 இன்று காலை நீங்கள் சாப்பிட்ட nasi lemak இப்போது இரண்டு வெவ்வேறு பாரம்பரிய பதிவேடுகளில் அதிகாரப்பூர்வமாக பதிவு செய்யப்பட்டுள்ளது — ஒன்று புத்ராஜயாவில் (Putrajaya), மற்றொன்று பாரிஸில் (Paris). இரண்டுமே உண்மையானவை, ஆனால் அவை வெவ்வேறு அமைப்புகளால், வெவ்வேறு அடிப்படைகளில் வழங்கப்படுகின்றன, மேலும் வெவ்வேறு பொருள்களைக் கொண்டுள்ளன.

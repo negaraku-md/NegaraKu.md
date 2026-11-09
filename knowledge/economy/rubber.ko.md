@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 2026년 5월 말레이시아는 천연고무 20,198톤을 생산했고, 그중 28,741톤을 수출했습니다.

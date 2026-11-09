@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
+framework: profile
 ---
 
 Hai công ty, cùng chủ sở hữu, cùng khách hàng. Một công ty được thành lập tại Kuala Lumpur và

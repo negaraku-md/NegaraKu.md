@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "Sime Darby demerger", "Permodalan Nasional Berhad", "UMW Holdings", "Bursa Malaysia conglomerate"]
+framework: profile
 ---
 
 Salah satu nama korporat tertua Malaysia kini menjadi tiga syarikat, bukan satu.

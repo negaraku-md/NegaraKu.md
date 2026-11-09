@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["senarai semak persediaan audit Malaysia", "senarai PBC audit", "senarai permintaan audit Sdn Bhd", "pendedahan pihak berkaitan MFRS 124", "audit akaun pengarah Malaysia", "penyesuaian antara syarikat audit"]
+framework: how-to
 ---
 
 Senarai permintaan ini kelihatan seperti dokumen pentadbiran semata-mata. Sebenarnya

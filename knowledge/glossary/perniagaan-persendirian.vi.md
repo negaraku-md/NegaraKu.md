@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 Quầy mamak ở góc phố nhà bạn, nhà thiết kế tự do lập hóa đơn từ văn phòng tại gia, người làm bánh cuối tuần bán hàng trực tuyến — hầu hết họ là cùng một dạng pháp lý: một doanh nghiệp tư nhân một chủ. Đó là cách kinh doanh rẻ nhất, nhanh nhất và phổ biến nhất tại Malaysia, và cũng là cách khiến bạn phơi bày nhất nếu mọi thứ trục trặc.

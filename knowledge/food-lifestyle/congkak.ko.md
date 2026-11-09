@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "정확한 MICHELIN 판본 연도는 자료마다 표기가 일치하지 않습니다 — 레스토랑 공식 페이지에는 연도가 없고, 언론 보도는 '2026' MICHELIN Guide Kuala Lumpur & Penang를 언급했으며, Wikipedia의 Bib Gourmand 목록은 현재 '2027' 열을 최신으로 표시합니다. Bib Gourmand 선정은 매년 개정됩니다. 현재 판본과 상태는 guide.michelin.com에서 확인하세요."
   - "Congkak의 개업 연도, 소유주, nasi ambeng 플래터 외의 전체 메뉴는 MICHELIN 페이지에 상세히 나와 있지 않습니다 — 서술하기 전에 레스토랑에 직접 확인하세요."
+framework: profile
 ---
 
 쿠알라룸푸르에서 가장 붐비는 쇼핑가에서 몇 번 모퉁이를 돈 부킷 빈탕의 조용한

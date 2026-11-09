@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["السجلات التشريعية ماليزيا", "قائمة تحقق سجلات الشركة", "daftar berkanun syarikat", "سجل الأعضاء والمديرين", "قيود الشركة SSM", "سجلات قانون الشركات 2016", "statutory registers Malaysia"]
+framework: how-to
 ---
 
 السجلات التشريعية هي الأعمال الورقية التي لا يفكر فيها أحد حتى يطلب مدقّق أو مصرف أو

@@ -78,6 +78,7 @@ verificationNeeded:
   - "Pendapatan jasa Enterprise Business sebesar RM1.610 juta untuk TK2024 — verifikasi terhadap pelaporan terbaru."
   - "Kepemilikan saham grup induk saat ini (kepentingan terkait Usaha Tegas dan Saudi Telecom Company) — konfirmasi terhadap keterbukaan Bursa Malaysia terbaru."
   - "Status jaringan 5G kedua Malaysia dan peran Maxis di dalamnya (U Mobile dipilih pada November 2024) — verifikasi kebijakan dan pengaturan 5G terkini dengan MCMC."
+framework: profile
 ---
 
 Hampir setiap warga Malaysia yang memiliki telepon, pada suatu saat, pernah menjadi pelanggan Maxis atau Hotlink. Di balik dua merek yang akrab itu berdiri satu perusahaan — Maxis Berhad — yang termasuk operator telekomunikasi terbesar negara ini dan telah tumbuh dari pembawa jaringan hanya-seluler menjadi penyedia terpadu layanan seluler, broadband rumah, dan konektivitas enterprise.

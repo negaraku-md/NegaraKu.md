@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
+framework: data-reference
 ---
 
 信頼できる情報源を三つ選び、マレーシアにまだどれだけの森林が残っているかを尋ねれば、十パーセントポイントも開きのある三つの答えが返ってくることもある――そのどれもが根拠を持ち、どれもがわずかに異なるものを測っている。この差は丸め誤差ではない。マレーシアの森林減少をめぐる議論そのものが、この一点に凝縮されているのである。

@@ -158,6 +158,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["offboarding checklist malaysia", "CP22A deadline", "CP21 form malaysia", "tax clearance letter SPC", "final pay malaysia", "employee exit checklist malaysia", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 Cuộc phỏng vấn thôi việc là phần mà mọi người nhớ. Việc nộp hồ sơ là phần sinh ra tiền phạt — và một trong số đó, nghĩa vụ giữ lại chờ xác nhận thanh toán thuế, là lý do một cán bộ bảng lương giải phóng lương cuối cùng đúng hạn và với thiện chí có thể phải giải thích với LHDN.

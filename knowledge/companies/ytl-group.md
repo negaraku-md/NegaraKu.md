@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
+framework: profile
 ---
 
 YTL is one of Malaysia's largest diversified groups, best understood not as a single company but as a family of listed and unlisted businesses built around infrastructure.

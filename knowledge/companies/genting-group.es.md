@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 Un fresco complejo turístico en la cima de una montaña, a una hora de Kuala Lumpur, es el único lugar de Malasia donde un casino puede repartir legalmente una mano de cartas. Esa licencia única e inusual —lícita para los no musulmanes, pero vigente junto a una prohibición de la ley islámica sobre el juego para los musulmanes— está en el corazón de Genting, uno de los mayores conglomerados de capital local de Malasia.

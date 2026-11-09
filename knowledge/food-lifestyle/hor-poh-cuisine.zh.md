@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN Guide 的甄选每年修订；在依赖此资讯前，请先确认 Hor Poh Cuisine 在最新一版 MICHELIN Guide Kuala Lumpur & Penang 中仍持有 Bib Gourmand。"
   - "各来源对版本年份的标示并不一致——有的将当前甄选称为 2027 年版，另一些资料则把最新名单标为 2026 年。请对照 MICHELIN Guide 官方颁奖典礼公告，确认正确的版本年份。"
   - "MICHELIN 表示这家小店已经营「超过 20 年」，但未给出创立年份；确切的开业日期未从第一手来源获得确认。"
+framework: profile
 ---
 
 Hor Poh Cuisine 是吉隆坡 Segambut 一带一家不张扬的客家餐厅，也是

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["competencia del Tribunal de Sesiones Malasia", "límite del Tribunal de Magistrados Malasia", "competencia civil del Tribunal Superior Malasia", "a qué tribunal demandar Malasia", "plazo de prescripción contrato Malasia", "apelación del Tribunal de Sesiones Malasia"]
+framework: decision
 ---
 
 La decisión del foro se toma antes de que nadie haya mirado el fondo. Presente una reclamación de

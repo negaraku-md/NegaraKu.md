@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["double deduction Malaysia", "further deduction income tax", "P.U.(A) double deduction list", "tax incentive gazette order Malaysia", "twice the amount deduction"]
+framework: data-reference
 ---
 
 没人把这个整理成一份清单，而这正是申索出错的原因。一位财务经理读到某家事务所的

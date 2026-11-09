@@ -80,6 +80,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["#PrawnMee", "#LohMee", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 في Jalan Burma، داخل المقهى المعروف باسم Restoran Old Green House، نال كشك نودلز

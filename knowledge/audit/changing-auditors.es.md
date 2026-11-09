@@ -102,6 +102,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "The company and every officer commit an offence"
+framework: how-to
 ---
 
 Nadie cambia de auditor por un motivo neutral. O bien se movió el honorario, el grupo

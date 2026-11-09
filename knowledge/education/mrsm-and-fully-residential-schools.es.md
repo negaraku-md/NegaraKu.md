@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 Cuando las familias malasias hablan de las «mejores» escuelas internas para sus hijos, suelen surgir dos nombres: MRSM y SBP. Ambos son colegios totalmente residenciales selectivos, ambos ferozmente competitivos para entrar — pero los gestionan dos organismos distintos, bajo dos mandatos de política diferentes.

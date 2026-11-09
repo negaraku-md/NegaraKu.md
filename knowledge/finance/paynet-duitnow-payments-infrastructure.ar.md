@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysia-e-wallets" }
 related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "المدفوعات في ماليزيا", "المدفوعات اللانقدية", "cashless"]
+framework: profile
 ---
 
 امسح رمز QR عند كشك نازي ليماك في كوالالمبور، وادفع لصديق بإدخال رقم هاتفه، وسدّد فاتورة عبر الخدمات المصرفية على الإنترنت — هذه الرحلات الثلاث تمرّ جميعها بهدوء عبر الشركة نفسها. اسمها PayNet، ومعظم الماليزيين لم يسمعوا باسمها قط.

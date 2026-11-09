@@ -75,6 +75,7 @@ keywords:
   - "licencia sectorial Malasia"
   - "licencia BNM SC MCMC"
   - "autoridades de licencias malasias"
+framework: data-reference
 ---
 
 No existe una lista maestra de licencias de negocio malasias. MalaysiaBiz reúne

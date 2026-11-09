@@ -80,6 +80,7 @@ keywords:
   - "Form 9 SSM replacement"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 மலேசியக் கம்பெனி நிர்வாகத்தில் ஏற்படும் குழப்பத்தில் பாதி சொல்லகராதியே. ஒரே

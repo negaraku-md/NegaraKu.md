@@ -107,6 +107,7 @@ keywords:
   - "koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "which economic corridor Malaysia"
+framework: decision
 ---
 
 五つの回廊、五つの管理局、そして大半の宣伝文句を崩し去る一つの事実：**そのどれ一つとして、税務奨励措置を

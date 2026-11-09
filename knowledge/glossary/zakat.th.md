@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 ทุกปี ชาวมุสลิมหลายล้านคนในมาเลเซียมอบ 2.5% ของทรัพย์ของตน ไม่ใช่แก่รัฐบาล แต่แก่คณะกรรมการซะกาตของรัฐ — และสำหรับหลายคน การจ่ายนั้นหักบิลภาษีเงินได้ของพวกเขาแบบริงกิตต่อริงกิต ซะกาตอยู่ที่จุดตัดระหว่างการบำเพ็ญทานและการเงิน และการเข้าใจทั้งสองด้านนั้นสำคัญสำหรับผู้เสียภาษีมุสลิมทุกคน

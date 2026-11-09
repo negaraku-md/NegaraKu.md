@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 เดินเข้าไปในสาขาธนาคารมาเลเซียส่วนใหญ่หรือเปิดแอปเปรียบเทียบ แล้วความต้องการการคุ้มครองแบบเดียวกัน — บัตรรักษาพยาบาล การคุ้มครองสินเชื่อบ้าน กรมธรรม์รถยนต์ — จะมาในสองรูปแบบที่นั่งเคียงข้างกัน: ตะกาฟุลและประกันภัยแบบดั้งเดิม พวกมันอาจดูเกือบเหมือนกันในหน้าผลประโยชน์ ความแตกต่างอยู่ที่วิธีที่ผลิตภัณฑ์ถูกสร้างขึ้นภายใต้

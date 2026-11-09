@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
+framework: profile
 ---
 
 Ada satu pertanyaan yang hampir setiap orang Malaysia pernah salah menjawab: siapakah

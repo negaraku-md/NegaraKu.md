@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "L'étiquette de l'année d'édition affichée sur la fiche MICHELIN en ligne du restaurant peut différer du « 2026 » utilisé dans la couverture de la cérémonie MICHELIN ; l'étoile a été décernée pour la première fois dans l'édition 2025 et conservée depuis. Les sélections sont révisées chaque année — vérifiez la distinction actuelle sur la page officielle."
   - "Le nom complet du chef Thaninthorn 'Noom' Chantrawan est confirmé par une couverture secondaire (The Star) plutôt qu'imprimé dans le corps de la fiche MICHELIN ; la fiche MICHELIN mentionne « Chef Noom ». L'année d'ouverture (2024), les horaires et le format actuel du menu dégustation devraient être confirmés auprès du restaurant."
+framework: profile
 ---
 
 Chim by Chef Noom est un restaurant thaï gastronomique de Kuala Lumpur détenant

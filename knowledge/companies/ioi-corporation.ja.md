@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 工業用ガスの販売から始まったこの企業は、今では小さな地区に匹敵する広さの土地保有を埋め尽くすほどのアブラヤシを栽培しており、その果実を食用油から石鹸に含まれる脂肪酸まで、あらゆるものへと加工している。

@@ -78,6 +78,7 @@ verificationNeeded:
   - "MICHELIN Guide edition year: the Bib Gourmand is reassessed annually and this profile does not pin it to a single edition. The most recent published edition at the time of writing is MICHELIN Guide Kuala Lumpur & Penang 2026 — do NOT state a 2027 edition until MICHELIN publishes one. Confirm Communal Table by Gēn still holds the Bib Gourmand in the current edition on guide.michelin.com."
   - "Chef attribution: secondary coverage names Johnson Wong as chef and recipient of the Malaysian MICHELIN Guide Young Chef Award 2024; the MICHELIN restaurant page notes the Young Chef Award but may not name him. Confirm the chef's name against a MICHELIN or first-party source before stating it in prose."
   - "Opening hours differ between MICHELIN locale pages (one shows Monday service, another lists it among closed days) — verify the current schedule before publishing."
+framework: profile
 ---
 
 **Communal Table by Gēn** is the most contemporary of George Town's Bib

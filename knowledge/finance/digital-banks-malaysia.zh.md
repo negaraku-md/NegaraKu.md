@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
+framework: data-reference
 ---
 
 如今，你无需踏进任何一家分行、无需领取实体借记卡、也无需填写任何纸质表格，就能开设一个马来西亚银行账户——而目前有五家持牌机构正在竞相争取让你完全通过手机完成这一切。

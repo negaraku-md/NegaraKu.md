@@ -119,6 +119,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["new hire checklist malaysia", "cp22 malaysia", "register employee epf socso", "onboarding compliance malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 Một người được tuyển, bốn cơ quan, sáu chiếc đồng hồ. Không cái nào bắt đầu vào ngày mời làm việc — chúng

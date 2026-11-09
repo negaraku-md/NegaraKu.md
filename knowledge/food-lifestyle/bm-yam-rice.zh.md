@@ -86,6 +86,7 @@ verificationNeeded:
   - "条目状态：一篇 2024 年的米其林旅游文章将 BM Yam Rice 标为 MICHELIN Selected，而较后的餐厅页面显示为 Bib Gourmand；米其林殊荣每年修订，且该奖项在条目页上以图标呈现，因此在引用前请对照 guide.michelin.com 核实当前状态。"
   - "版本年份：马来西亚媒体提到一个《MICHELIN Guide Kuala Lumpur & Penang 2027》版本（据报于 2026 年 11 月 4 日公布），而目前可独立证实的最新官方版本为 2026——请对照官方遴选页核实是哪一版本收录此店。"
   - "营业时间在 Guide 不同地区页面之间有出入（例如开／休的日子不同）——出行前请在当地核实当前的时间表。"
+framework: profile
 ---
 
 槟城的米其林目光大多落在水那一头的乔治市。BM Yam Rice 提醒着人们：大陆——威省，

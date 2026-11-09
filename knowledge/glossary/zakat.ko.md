@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 매년 말레이시아의 수백만 무슬림이 재산의 2.5%를 정부가 아니라 주 자카트 기관에 냅니다 — 그리고 그들 다수에게 그 납부는 소득세 고지서를 링깃 대 링깃으로 차감해 줍니다. 자카트는 이바다와 재정의 교차점에 서 있으며, 그 두 측면을 이해하는 것이 모든 무슬림 납세자에게 중요합니다.

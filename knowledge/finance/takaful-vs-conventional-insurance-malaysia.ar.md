@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["التكافل", "takaful", "التأمين التقليدي", "conventional insurance", "التوافق مع الشريعة", "Shariah compliance", "wakalah", "tabarru", "اقتسام الفائض", "surplus sharing", "التأمين في ماليزيا", "Malaysia insurance"]
+framework: decision
 ---
 
 ادخل معظم فروع البنوك الماليزية أو افتح تطبيق مقارنة، وستجد الحاجة ذاتها إلى الحماية — بطاقة طبية، أو تغطية لقرض عقاري، أو وثيقة للسيارة — تأتي في نسختين متجاورتين: التكافل والتأمين التقليدي. وقد يبدوان متطابقين تقريباً في صفحة المنافع. أما الفرق فيكمن في كيفية بناء المنتج من الداخل.

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "government-linked-companies" }
 related: []
 keywords: ["LTAT", "مجلس صندوق القوات المسلحة", "Lembaga Tabung Angkatan Tentera", "Boustead Holdings", "بورستيد هولدينغز", "Project Earth", "القوات المسلحة الماليزية", "GLC", "توزيعات الأرباح", "Pharmaniaga"]
+framework: profile
 ---
 
 يدّخر كل جندي وبحّار ماليزي جزءًا من راتبه في مكان واحد بعينه — وهذا المال ظلّ لسنوات معلّقًا بمصير مجموعة تكتلية مثقلة بالديون. هذه هي قصة LTAT وبورستيد هولدينغز.

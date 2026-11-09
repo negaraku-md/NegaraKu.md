@@ -54,6 +54,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["kampung", "dewan-undangan-negeri", "local-councils"]
 keywords: ["penghulu", "maksud penghulu", "penghulu mukim", "penghulu vs ketua kampung", "penghulu in english"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Penghulu · **English:** Penghulu (head of a mukim) · **中文:** 乡长（mukim 之首长）

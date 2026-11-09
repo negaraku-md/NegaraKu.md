@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
+framework: explainer
 ---
 
 De nombreux parents inscrivent leur enfant à la tadika du coin de la rue —

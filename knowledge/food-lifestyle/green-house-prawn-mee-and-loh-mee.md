@@ -79,6 +79,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["#PrawnMee", "#LohMee", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 On Jalan Burma, within the coffee shop known as Restoran Old Green House, a

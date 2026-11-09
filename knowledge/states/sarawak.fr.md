@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaisie", "Sarawak Malaysia", "Kuching", "pétrole et gaz de Sarawak", "Accord de la Malaisie 1963", "forêt tropicale de Bornéo"]
+framework: profile
 ---
 
 Sarawak, c'est la Malaisie dans une autre tonalité. C'est de loin le plus grand

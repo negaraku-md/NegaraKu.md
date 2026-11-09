@@ -76,6 +76,7 @@ verificationNeeded:
   - "Nombre d'agences (plus de 200 en Malaisie) et effectifs (les chiffres rapportés vont d'environ 13 000 à 14 000) — à confirmer au regard du dernier rapport annuel."
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
+framework: profile
 ---
 
 RHB est l'un des noms que la plupart des Malaisiens reconnaissent sur une agence bancaire de quartier, une carte de distributeur automatique ou une brochure de prêt immobilier — pourtant, le groupe qui se cache derrière dépasse largement la banque de détail, englobant la finance islamique, la banque d'investissement, l'assurance et les marchés dans toute l'Asie du Sud-Est. Cette page est une vue d'ensemble neutre et factuelle de ce qu'est RHB Banking Group, de sa structure, de son actionnariat et de son importance.

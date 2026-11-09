@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "مركز بيانات جوهر", "data centre Johor", "تكتل ماليزي"]
+framework: profile
 ---
 
 YTL واحدة من أكبر المجموعات المتنوعة في ماليزيا، وأفضل ما تُفهم به ليس بوصفها شركةً واحدةً بل أسرةً من الأعمال المدرجة وغير المدرجة المبنية حول البنية التحتية.

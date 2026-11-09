@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
+framework: explainer
 ---
 
 Many parents enrol their child at the tadika down the road — submit the form, pay the fee, done. But the question rarely asked is: who is that tadika actually registered with? The answer is not a trivial matter. Depending on the child's age and the type of institution, it can fall under two entirely different ministries, with acts, regulations and enforcement methods that are not the same.

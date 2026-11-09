@@ -77,6 +77,7 @@ verificationNeeded:
   - "Bilangan pekerja (~43,000) dan bilangan cawangan (~2,600) — berubah dari semasa ke semasa."
   - "Peratusan pegangan saham bagi dana urusan PNB dan KWSP — berubah dengan setiap pemfailan Bursa Malaysia."
   - "Bilangan negara operasi (kesemua sepuluh negara ASEAN serta pusat kewangan global) — mungkin berubah."
+framework: profile
 ---
 
 Buka akaun semasa hampir di mana-mana sahaja di Malaysia dan ada kemungkinan besar ia membawa logo kepala harimau Maybank. Malayan Banking Berhad ialah bank terbesar negara ini — dari segi aset dalam kunci kira-kiranya dan dari segi nilainya pada pandangan pasaran saham — dan salah satu kumpulan perbankan terbesar di Asia Tenggara. Profil ini menjelaskan apa yang dilakukan oleh kumpulan ini, di mana ia beroperasi dan siapa pemiliknya.

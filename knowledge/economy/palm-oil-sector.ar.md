@@ -48,6 +48,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["gdp-overview"]
 keywords: ["زيت النخيل الماليزي", "MPOB", "شهادة MSPO", "صادرات زيت النخيل الماليزي"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

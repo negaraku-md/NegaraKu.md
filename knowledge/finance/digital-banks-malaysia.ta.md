@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
+framework: data-reference
 ---
 
 இப்போது நீங்கள் ஒரு கிளைக்குச் செல்லாமல், டெபிட் அட்டை கோராமல், அல்லது காகித படிவத்தை நிரப்பாமல் ஒரு மலேசிய வங்கிக் கணக்கைத் திறக்க முடியும் — மேலும் இதை முழுவதுமாக உங்கள் தொலைபேசியிலிருந்தே செய்ய ஐந்து உரிமம் பெற்ற நிறுவனங்கள் போட்டியிடுகின்றன.

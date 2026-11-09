@@ -52,6 +52,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "wilayah-persekutuan"]
 keywords: ["Akta Malaysia", "Act of Parliament Malaysia", "قانون برلماني ماليزي", "Laws of Malaysia", "قوانين ماليزيا", "رقم القانون"]
+framework: explainer
 ---
 
 **بهاسا ماليزيا:** Akta · **الإنجليزية:** Act (of Parliament) · **الصينية:** 法令

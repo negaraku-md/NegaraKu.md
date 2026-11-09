@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
+framework: profile
 ---
 
 சரவாக் என்பது வேறொரு தொனியில் அமைந்த மலேசியா. நிலப்பரப்பளவில்

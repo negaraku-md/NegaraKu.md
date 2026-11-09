@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malaysia", "private entity definition MASB", "which accounting framework Malaysia", "MPERS eligibility", "MASB reporting framework"]
+framework: decision
 ---
 
 대부분의 말레이시아 안내는 이 질문에 「공익 실체」라는 문구로 답합니다. 그 문구는 아무런

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["Malaysia tax incentives list", "MIDA tax incentive", "Pioneer Status Malaysia status", "Global Services Hub incentive", "Malaysia incentive gazette order", "tax incentive directory Malaysia"]
+framework: data-reference
 ---
 
 Hầu hết các danh sách ưu đãi trên mạng của Malaysia là bản sao của một bản sao.

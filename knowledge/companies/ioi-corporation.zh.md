@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 一家以销售工业气体起家的公司，如今种植的油棕已足以填满一片相当于一个小县城大小的土地储备——并把这些果实加工成从食用油到肥皂里脂肪酸的各种产品。

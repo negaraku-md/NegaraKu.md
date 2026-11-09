@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "kwsp" }
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "طريق الشمال-الجنوب السريع", "امتياز الرسوم", "UEM Group", "Khazanah", "KWSP", "طرق سريعة مدفوعة"]
+framework: profile
 ---
 
 في كل مرة تقود فيها من Bukit Kayu Hitam في الشمال إلى Johor Bahru في الجنوب من دون التوقف عند إشارة مرور، تكون في الواقع تسير على أصول شركة واحدة: PLUS Malaysia Berhad. وهي ليست جهة حكومية، لكنها ليست شركة خاصة عادية أيضًا — بل صاحبة امتياز تشغّل العمود الفقري لطرق الأمة بموجب اتفاق طويل الأمد مع الحكومة.

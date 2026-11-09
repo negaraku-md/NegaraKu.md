@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["Malaysian embassies", "Malaysia high commissions", "Malaysian consulate", "Wisma Putra missions", "Malaysia diplomatic missions abroad", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 ทำหนังสือเดินทางหายที่ลิมา (Lima) ถูกจับกุมที่โดฮา (Doha) หรือต้องการรับรองเอกสารที่โซล (Seoul) และสำนักงานที่สามารถช่วยท่านได้จริงคือหนึ่งจุดในเครือข่ายคณะผู้แทนมาเลเซีย 111 แห่งที่กระจายอยู่ทั่ว 85 ประเทศ ซึ่งทุกแห่งดำเนินการจาก Wisma Putra ในปุตราจายา (Putrajaya)

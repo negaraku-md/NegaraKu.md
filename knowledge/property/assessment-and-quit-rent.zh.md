@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 许多新屋主收到第二张账单时都吓了一跳——他们根本没想到会有这张账单存在。他们今年明明已经缴了「地税」——为什么市议会还寄来追讨通知？

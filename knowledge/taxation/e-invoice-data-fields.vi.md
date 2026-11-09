@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "self-billed-e-invoice" }
 related: ["e-invoicing", "myinvois-phases", "myinvois-integration", "self-billed-e-invoice", "consolidated-e-invoice"]
 keywords: ["e-Invoice data fields", "55 fields e-Invoice", "MyInvois mandatory fields", "e-Invoice validation error", "UBL 2.1 Malaysia", "medan data e-invois"]
+framework: data-reference
 ---
 
 Mọi lần nộp bị từ chối đều truy nguyên về một trong hai thứ: một trường mà LHDN coi

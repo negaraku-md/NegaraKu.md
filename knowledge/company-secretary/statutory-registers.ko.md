@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["statutory registers Malaysia", "company registers checklist", "daftar berkanun syarikat", "register of members directors", "SSM company records", "Companies Act 2016 registers"]
+framework: how-to
 ---
 
 법정 등록부는 감사인, 은행, 또는 매수인의 변호사가 열람을 요청하기 전까지 아무도 신경

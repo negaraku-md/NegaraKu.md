@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "health-white-paper-2023" }
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
+framework: history-culture
 ---
 
 Vào ngày 18 tháng 3 năm 2020, đường sá trên khắp Malaysia trở nên vắng vẻ khi đất nước bước vào một giai đoạn chưa từng trải qua trong lịch sử hiện đại: hạn chế di chuyển toàn diện để kiềm chế sự lây lan của COVID-19. Trong khoảng hai năm sau đó, ứng phó y tế công cộng của quốc gia phát triển từ phong tỏa toàn diện thành một trong những chương trình tiêm chủng nhanh nhất khu vực — và để lại tác động vẫn đang định hình hệ thống y tế cho đến ngày nay.

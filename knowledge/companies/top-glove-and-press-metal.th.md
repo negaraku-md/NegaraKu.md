@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 สองบริษัทมาเลเซียนำหน้าในสาขาของตนทั่วโลก หนึ่งคือผู้ผลิตถุงมือแบบใช้แล้วทิ้งที่ใหญ่ที่สุดในโลก; อีกหนึ่งคือโรงถลุงอะลูมิเนียมปฐมภูมิที่ใหญ่ที่สุดในเอเชียตะวันออกเฉียงใต้ ทั้งสองไม่ใช่ชื่อที่คุ้นหูนอกวงการลงทุน แต่ Top Glove และ Press Metal แสดงให้เห็นว่าเศรษฐกิจขนาดกลางสามารถผลิตผู้นำระดับโลกภาคเดียวได้อย่างไร

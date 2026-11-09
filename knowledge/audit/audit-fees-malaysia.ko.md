@@ -78,6 +78,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["audit fees Malaysia", "MIA audit fee schedule", "RPG 7 withdrawn", "audit fee table Malaysia", "minimum audit fee dormant company", "how much does an audit cost Malaysia"]
+framework: data-reference
 ---
 
 말레이시아 감사 수수료를 검색하면 계수 표를 보게 됩니다. 최초 RM100,000에

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
+framework: profile
 ---
 
 ஜொகூரின் (Johor) பொருளாதாரம் அதன் அண்டை நாட்டால் வரையறுக்கப்படுகிறது. தீபகற்பத்தின்

@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
+framework: profile
 ---
 
 登嘉楼最著名的两样东西，相距大约 60 公里，而且两者都不容易看见。

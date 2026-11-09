@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
+framework: profile
 ---
 
 거의 모든 말레이시아 번화가를 지배하는 다섯 개의 이름 — Maybank, CIMB, Public Bank, RHB, Hong Leong — 을 나란히 놓으면, 국가의 급여, 주택담보대출, 무역을 결제하는 은행 시스템의 핵심을 보는 것입니다. 이들은 모두 말레이시아에 설립되었고, 모두 Bursa Malaysia에 상장되어 있으며, 모두 같은 중앙은행의 면허를 받습니다. 그 너머에서는 뚜렷이 갈립니다. 하나는 나머지를 규모로 압도하고, 일부는 사실상 정부가 지분의 축이며, 둘은 여전히 창업 가문이 이끕니다.

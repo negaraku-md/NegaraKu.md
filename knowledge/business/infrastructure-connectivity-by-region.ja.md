@@ -110,6 +110,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "tanjung pelepas ptp throughput", "malaysia port statistics 2025", "ecrl completion date", "ecrl land bridge kuantan port klang", "5g coverage by state malaysia", "mcmc broadband by state", "saidi malaysia"]
+framework: data-reference
 ---
 
 マレーシアには三十いくつかの商業港があるが、コンテナで重要なのは二つだけである。国際空港は六つあるが、大規模に空輸貨物を動かしているのは一つだけである。自分の立地がその境界線のどちら側にあるかを知ることは、州のパンフレットに載っているどんな施設一覧よりも価値がある。

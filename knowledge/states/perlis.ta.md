@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
+framework: profile
 ---
 
 கிட்டத்தட்ட ஒவ்வொரு மலேசியரும் ஏதோ ஒரு கட்டத்தில் தவறாகப் பதிலளித்த ஒரு கேள்வி

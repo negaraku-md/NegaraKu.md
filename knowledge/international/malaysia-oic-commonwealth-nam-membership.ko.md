@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
 related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OIC", "Pertubuhan Kerjasama Islam", "Komanwel", "Commonwealth", "NAM", "Pergerakan Negara-Negara Berkecuali", "D-8", "APEC", "dasar luar Malaysia", "keahlian antarabangsa"]
+framework: data-reference
 ---
 
 말레이시아 장관이 이슬람 세계 포럼에서 팔레스타인에 관해 연설할 때마다, 또는 고위 관리가 아시아·태평양 경제 정상회의에 참석할 때마다, 그들은 동시에 여러 테이블에 앉아 있는 국가를 대표하여 발언합니다. 아세안과 국제연합을 넘어, 말레이시아는 십여 개 정부 간 기구의 회원이며 — 그중 다섯이 다자 관여의 근간을 이룹니다.

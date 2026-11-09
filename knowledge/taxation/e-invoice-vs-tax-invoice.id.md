@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "sales-tax-act-2018" }
 related: ["e-invoicing", "sst-explained", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice"]
 keywords: ["e-Invois vs invois cukai", "keperluan invois SST", "Peraturan-Peraturan Cukai Perkhidmatan 2018 reg 10", "butiran invois cukai jualan", "invois LHDN RMCD", "invois cukai SST"]
+framework: explainer
 ---
 
 Mengesahkan faktur melalui MyInvois tidak menjadikannya faktur SST. Kalimat itu

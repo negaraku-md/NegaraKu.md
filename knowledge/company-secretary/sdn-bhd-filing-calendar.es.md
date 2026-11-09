@@ -188,6 +188,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["calendario de cumplimiento Sdn Bhd", "plazos SSM Malasia", "plazos de presentación de empresas Malasia", "plazo de la declaración anual", "notificar a la SSM en 14 días", "Sdn Bhd compliance calendar", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 La razón por la que las empresas malasias presentan con retraso rara vez es la

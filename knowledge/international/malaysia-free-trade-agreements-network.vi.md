@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
 related: []
 keywords: ["Malaysia FTA list", "Malaysia free trade agreements", "MITI FTA", "CPTPP Malaysia", "RCEP Malaysia", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
+framework: data-reference
 ---
 
 Malaysia duy trì một trong những mạng lưới hiệp định thương mại dày đặc nhất châu Á. Một nhà xuất khẩu Malaysia thường có thể, trên cùng một lô hàng, chọn giữa một ưu đãi ASEAN, một mức thuế song phương, hoặc một biểu thuế siêu khu vực — và sự lựa chọn đó có thể thay đổi khoản thuế phải trả tại đường biên giới. Trang này trình bày toàn bộ mạng lưới trong một khung nhìn.

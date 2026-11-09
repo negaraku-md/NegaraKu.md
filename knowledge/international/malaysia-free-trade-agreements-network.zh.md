@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
 related: []
 keywords: ["Malaysia FTA list", "Malaysia free trade agreements", "MITI FTA", "CPTPP Malaysia", "RCEP Malaysia", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
+framework: data-reference
 ---
 
 马来西亚拥有亚洲最密集的贸易协定网络之一。对于同一批货物，马来西亚出口商往往可以

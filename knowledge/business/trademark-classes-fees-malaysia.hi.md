@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["ट्रेडमार्क वर्ग मलेशिया", "नीस वर्गीकरण मलेशिया", "myipo ट्रेडमार्क शुल्क", "प्रति-वर्ग ट्रेडमार्क शुल्क मलेशिया", "trademark classes malaysia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 किसी मलेशियाई ट्रेडमार्क की लागत वर्गों की संख्या है, दाख़िल करना नहीं। नीचे का सब कुछ प्रति वर्ग है।

@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 บริษัทที่เริ่มต้นชีวิตด้วยการขายก๊าซอุตสาหกรรม ปัจจุบันปลูกปาล์มน้ำมันมากพอที่จะเติมเต็มที่ดินสำรองขนาดเท่าอำเภอเล็ก ๆ และแปรรูปผลปาล์มนั้นเป็นทุกอย่างตั้งแต่น้ำมันปรุงอาหารไปจนถึงกรดไขมันในสบู่ของคุณ

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
+framework: profile
 ---
 
 マレーシアに輸入される米は、1キロたりとも一つの門を通らなければならない――そしてその門を握っているのは一つの民間企業である。それがBERNASだ。

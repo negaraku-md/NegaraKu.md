@@ -120,6 +120,7 @@ keywords:
   - "MotoGP Sepang 2031"
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
+framework: profile
 ---
 
 In October 2026, Formula 1 cars will run at Sepang for the first time in nine years — and the trackside signage will read *Bahrain Grand Prix*. Malaysia is not the host on paper, will not pay the licence fee, and did not lobby its way back onto the calendar. It simply had the one thing Formula 1 suddenly needed: an empty, ready, top-tier circuit.

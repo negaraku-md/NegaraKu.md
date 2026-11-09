@@ -77,6 +77,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 Few dishes say Penang like laksa, and on Jalan Hutton a small shop has turned its

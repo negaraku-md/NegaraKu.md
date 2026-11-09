@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["inflation-cpi", "klang-valley-rail", "touch-n-go", "income-tax-individuals"]
 keywords: ["cost of living Kuala Lumpur", "कुआलालंपुर रहन-सहन की लागत", "Kuala Lumpur most expensive city Malaysia", "KL household expenditure DOSM", "कुआलालंपुर मध्यिका आय", "कुआलालंपुर मुद्रास्फीति दर", "क्लांग घाटी"]
+framework: data-reference
 ---
 
 ## एक नज़र में

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 走进马来西亚大多数银行分行或打开一个比价应用，同样的保障需求——一张医疗卡、一份房贷保障、一份汽车保单——都会以两个版本并排出现：伊斯兰保险（takaful）与传统保险。在利益说明页上，它们看起来几乎一模一样。差别在于产品底层是如何构建的。

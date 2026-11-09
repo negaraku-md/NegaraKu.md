@@ -85,6 +85,7 @@ keywords:
   - "peraturan timbang tara AIAC 2026"
   - "klausa timbang tara Malaysia penggubalan"
   - "pengetepian award timbang tara Malaysia seksyen 37"
+framework: decision
 ---
 
 Klausul arbitrase biasanya menjadi klausul terakhir yang dinegosiasikan dan yang pertama

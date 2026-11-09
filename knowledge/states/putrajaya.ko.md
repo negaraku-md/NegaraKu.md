@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
+framework: profile
 ---
 
 1999년, 총리실이 쿠알라룸푸르 밖으로 옮겨 갔습니다. 수도는 바뀌지 않았습니다 — 옮겨 간 것은 그 행정 기구였습니다.

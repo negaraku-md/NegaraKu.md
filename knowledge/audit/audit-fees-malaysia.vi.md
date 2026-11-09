@@ -78,6 +78,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["audit fees Malaysia", "MIA audit fee schedule", "RPG 7 withdrawn", "audit fee table Malaysia", "minimum audit fee dormant company", "how much does an audit cost Malaysia"]
+framework: data-reference
 ---
 
 Tìm kiếm phí kiểm toán Malaysia và bạn sẽ được cho xem một bảng hệ số: 1.000% trên RM100,000 đầu tiên, 0.438% trên RM150,000 tiếp theo, giảm dần, với một mức sàn RM800 cho một công ty không hoạt động. Nó được trình bày như biểu phí của MIA, đôi khi như mức phí tối thiểu được phép.

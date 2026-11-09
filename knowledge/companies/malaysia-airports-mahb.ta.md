@@ -77,6 +77,7 @@ related: ["genting-group"]
 keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airport", "klia2", "Istanbul Sabiha Gokcen", "Khazanah", "airport operator Malaysia", "MAHB privatisation", "MAHB delisting"]
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
+framework: profile
 ---
 
 ஒரு பயணி மலேசியாவில் தரையிறங்கும் கிட்டத்தட்ட ஒவ்வொரு முறையும், அவர்கள் ஒரே நிறுவனத்தால் நடத்தப்படும் ஒரு விமான நிலையத்திற்கு வந்து சேர்கிறார்கள். Malaysia Airports Holdings Berhad (MAHB) Kuala Lumpur International Airport-ஐ — இப்போது KLIA Terminal 1 மற்றும் Terminal 2 என பிராண்ட் செய்யப்பட்டுள்ளது — மற்றும், அதன் சொந்தக் கணக்கின்படி, நாடு முழுவதும் 39 விமான நிலையங்களை, கூடுதலாக இஸ்தான்புல்லில் ஒரு வெளிநாட்டு நுழைவாயிலையும் இயக்குகிறது. 2025-இல் இது ஒரு தேசிய விமான நிலைய இயக்குநருக்கு அசாதாரணமான ஒன்றாகவும் ஆனது: இனி ஒரு பொது நிறுவனம் அல்ல.

@@ -83,6 +83,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["تمويل المؤسسات الصغيرة والمتوسطة في ماليزيا", "sme financing malaysia", "صندوق bnm للمؤسسات الصغيرة والمتوسطة", "bnm fund for smes", "ضمان sjpp", "sjpp guarantee", "تمويل sme bank", "منحة cradle", "تمويل tekun", "قرض حكومي للمؤسسات الصغيرة ماليزيا"]
+framework: data-reference
 ---
 
 معظم أدلة تمويل المؤسسات الصغيرة والمتوسطة ليست إلا قائمة بأسماء برامج مُجمَّعة من

@@ -92,6 +92,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 你或许曾在某份补贴表格上被贴上「B40」或「T20」的标签——但那个标签并不是你的薪资。它是你在马来西亚统计局（DOSM）所排列的一列队伍中的位置，而这列队伍每当有新数据进来时就会被重新绘制。理解这条线是如何画出来的，会改变你阅读几乎每一场关于马来西亚生活成本辩论的方式。

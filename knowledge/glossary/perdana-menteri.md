@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 Malaysia boleh menukar Perdana Menteri tanpa satu pun undi rakyat dibuang — kerana jawatan itu bukan diberi oleh pengundi, tetapi oleh Yang di-Pertuan Agong kepada sesiapa yang dilihat mampu mengumpul majoriti Dewan Rakyat. Itulah sebabnya Malaysia menyaksikan beberapa kali pertukaran Perdana Menteri antara 2018 dan 2022 tanpa satu pun pilihan raya umum baharu memutuskannya di pertengahan tempoh itu.

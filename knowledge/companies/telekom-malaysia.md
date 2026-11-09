@@ -79,6 +79,7 @@ related: ["maxis", "axiata"]
 keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global", "fibre broadband Malaysia", "JENDELA", "submarine cable Malaysia", "government-linked company"]
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
+framework: profile
 ---
 
 Almost every fibre broadband line, enterprise circuit and undersea data cable in Malaysia touches one company before it reaches anyone else. Telekom Malaysia Berhad (TM) is the national incumbent — the operator that built most of the country's fixed network and still owns the backbone that rivals and international carriers depend on.

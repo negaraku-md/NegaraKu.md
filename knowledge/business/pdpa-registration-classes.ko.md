@@ -80,6 +80,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pdpa registration malaysia", "class of data users order", "pdpa registrable class", "register data controller malaysia", "pu a 336 2013"]
+framework: data-reference
 ---
 
 PDPA에 따른 등록은 일반적이지 않습니다. 이는 Act 709 제14조에 따른 명령으로 지정된 부류에 속하는 데이터 관리자에게만 미치며 — 그 목록은 2016년 12월 16일 이래 움직이지 않았습니다.

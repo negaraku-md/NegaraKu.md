@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "Pengerang petrochemical", "Johor Singapore Causeway"]
+framework: profile
 ---
 
 L'économie de Johor est définie par son voisin. En tant qu'État le plus méridional de la

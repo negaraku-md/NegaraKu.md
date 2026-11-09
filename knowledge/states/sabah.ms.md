@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "labuan" }
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
+framework: profile
 ---
 
 Sabah tidak menyertai Malaysia sebagai sebuah negeri yang menyertai sebuah negara.

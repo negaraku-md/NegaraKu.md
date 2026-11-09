@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["cordillera de Titiwangsa", "Banjaran Titiwangsa", "cordillera principal de Malasia", "montañas de la Malasia peninsular", "línea divisoria de aguas de Malasia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 Deje caer un coco en el lado oeste de una cresta en el centro de Perak y, con el tiempo, su putrefacción llegará al estrecho de Malaca. Déjelo caer unos cientos de metros al este, al otro lado de la misma cresta, y acaba en el mar de China Meridional. Nada más del paisaje cambia. Solo el lado de la línea en el que cayó.

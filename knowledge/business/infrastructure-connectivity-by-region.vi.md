@@ -110,6 +110,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "tanjung pelepas ptp throughput", "malaysia port statistics 2025", "ecrl completion date", "ecrl land bridge kuantan port klang", "5g coverage by state malaysia", "mcmc broadband by state", "saidi malaysia"]
+framework: data-reference
 ---
 
 Malaysia có ba mươi mấy cảng thương mại và hai cảng quan trọng đối với container. Nó có sáu sân bay quốc tế và một sân bay vận chuyển hàng hóa hàng không ở quy mô lớn. Biết địa điểm của bạn nằm ở phía nào của lằn ranh đó đáng giá hơn bất kỳ danh sách tiện ích nào trong một tập gấp giới thiệu của bang.

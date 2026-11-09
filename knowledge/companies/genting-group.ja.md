@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 クアラルンプールから車で1時間、涼しい山頂のリゾートが、マレーシアで合法的にカードを配ることができる唯一の場所である。この唯一無二の免許——非ムスリムには合法でありながら、ムスリムの賭博を禁じるイスラム法の禁止と並存する——こそが、マレーシア最大級の地場コングロマリットの一つであるGentingの中核をなしている。

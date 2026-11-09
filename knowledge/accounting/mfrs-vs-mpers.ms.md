@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS lawan MPERS Malaysia", "definisi entiti persendirian MASB", "rangka kerja perakaunan mana Malaysia", "kelayakan MPERS", "rangka kerja pelaporan MASB"]
+framework: decision
 ---
 
 Kebanyakan panduan Malaysia menjawab soalan ini dengan frasa "entiti

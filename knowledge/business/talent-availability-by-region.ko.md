@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 말레이시아의 입지 선정에서 모든 창업자가 처음 떠올리는 생각은 클랑밸리(Klang Valley)를 벗어나면 인건비가 줄어든다는 것입니다. 데이터는 그렇다고 말합니다 — 그리고 법은 그 절감의 대부분이 여러분이 가져갈 수 있는 것이 아니라고 말합니다. 임금 하한과 그 위의 모든 기여금이 연방 차원에서 정해지기 때문입니다.

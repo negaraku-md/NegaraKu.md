@@ -89,6 +89,7 @@ verificationNeeded:
   - "餐厅米其林实时页面上显示的版本年份标签，可能与米其林自家颁奖报道中使用的「2026」不同（页面可能显示不同的年份或日期）。此项认可以《Kuala Lumpur & Penang 2026》评选为准；米其林每年重新评选，因此在依据其评价前请先确认实时星级。"
   - "Chef Chong 的全名与背景未在米其林页面上列出（仅注明「self-taught Chef Chong」）；请对照第一手访谈或餐厅官方网站确认。"
   - "确切的营业时间、价格与目前品尝菜单的道数会随时间变动——请直接向餐厅确认。"
+framework: profile
 ---
 
 Terra Dining 是一家位于吉隆坡 Taman Tun Dr Ismail（TTDI）社区的高级餐厅，在

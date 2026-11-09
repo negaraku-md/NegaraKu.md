@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 1996 年，马来西亚在吉隆坡以南划出一片农地，宣布它为国家未来的科技走廊。近三十年后，国家经济所创造的每四令吉中，几乎就有一令吉流经屏幕、服务器与网上购物车。这两个节点之间的历程并非一次单一的飞跃——而是一系列相互衔接的政策，每一项都在修正或扩展前一项。

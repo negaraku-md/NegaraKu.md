@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda ऑर्डर बुक", "Gamuda order book", "MRT सुरंग खनन", "MRT tunnelling", "Gamuda Land", "मलेशिया निर्माण", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda ताइवान MRT"]
+framework: profile
 ---
 
 Gamuda ने एक मलेशियाई एक्सप्रेसवे से शुरुआत की और क्षेत्र के सबसे बड़े सुरंग खनन और रेल ठेकेदारों में से एक बन गई। आज, इसके काम का बढ़ता हुआ हिस्सा मलेशिया के बाहर है।

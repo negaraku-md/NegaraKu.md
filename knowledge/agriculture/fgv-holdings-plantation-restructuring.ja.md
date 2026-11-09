@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
+framework: profile
 ---
 
 2012年、同社は市場の寵児だった——一時は世界第2位の規模となった大型上場である。それから13年後、同じ会社は上場時の価格のごく一部の水準で、静かにBursa Malaysiaから姿を消した。かつて自らを上場させたその同じ当局によって、買い戻されたのである。

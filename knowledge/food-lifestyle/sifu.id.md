@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 Masakan Peranakan adalah masakan jiwa Penang, dan di Jalan Pintal Tali sebuah

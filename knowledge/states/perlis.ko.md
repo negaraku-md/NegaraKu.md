@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
+framework: profile
 ---
 
 거의 모든 말레이시아인이 한 번쯤 잘못 답해 본 질문이 있습니다: 펄리스의 술탄은 누구인가?

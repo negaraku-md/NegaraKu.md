@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 Masuk ke kebanyakan cabang bank di Malaysia atau buka aplikasi perbandingan, dan kebutuhan perlindungan yang sama — kartu medis, perlindungan KPR, polis motor — datang dalam dua versi yang berdampingan: takaful dan asuransi konvensional. Keduanya bisa terlihat hampir serupa pada halaman manfaat. Perbedaannya terletak pada cara produk itu dibangun di baliknya.

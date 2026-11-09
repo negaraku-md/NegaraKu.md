@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 1957년 8월 31일 밤, 느가라쿠의 선율이 슬랑오르 클럽 광장에서 대중 앞에 처음 연주되었을 때, 그 선율은 새로운 것이 아니었습니다. 그것은 이미 그 전 수십 년 동안 한 말레이 주의 주가로 자리해 온 것이었습니다.

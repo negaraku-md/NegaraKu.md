@@ -76,6 +76,7 @@ keywords:
   - "Unified Examination Certificate"
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
+framework: explainer
 ---
 
 Ask a Malaysian parent what a "private school" is, and they might mean three completely different things: a fee-paying school that runs the exact same syllabus as the government school down the road, an international school teaching Cambridge or IB, or a Chinese Independent High School running an exam most people outside the Chinese education community have never heard of. Only one of those three sits the SPM. Only one sits the UEC. Getting them confused is the easiest way to misjudge a child's options at 18.

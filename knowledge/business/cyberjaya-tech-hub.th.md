@@ -125,6 +125,7 @@ keywords:
   - "MD Cybercity Cybercentre"
   - "MD Location Recognition"
   - "Cyberview Sdn Bhd"
+framework: profile
 ---
 
 มีสองสิ่งที่เรียกว่าไซเบอร์จายา และการสับสนทั้งสองมีราคาแพง

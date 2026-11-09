@@ -112,6 +112,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["पोर्ट क्लांग TEU", "तानजुंग पेलेपास PTP थ्रूपुट", "मलेशिया बंदरगाह सांख्यिकी 2025", "ECRL पूर्णता तिथि", "ECRL लैंड ब्रिज कुआंटन क्लांग", "राज्य के अनुसार 5G कवरेज मलेशिया", "राज्य के अनुसार MCMC ब्रॉडबैंड", "SAIDI मलेशिया", "port klang teu", "ecrl completion date", "5g coverage by state malaysia"]
+framework: data-reference
 ---
 
 मलेशिया में तीस-कुछ वाणिज्यिक बंदरगाह हैं और दो जो कंटेनरों के लिए मायने रखते हैं। इसमें छह अंतर्राष्ट्रीय हवाई अड्डे हैं और एक जो बड़े पैमाने पर हवाई माल ले जाता है। यह जानना कि आपका स्थान उस रेखा के किस ओर बैठता है, किसी राज्य के विवरणिका में सुविधाओं की किसी भी सूची से अधिक मूल्यवान है।

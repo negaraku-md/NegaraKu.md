@@ -91,6 +91,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 補助金の申請書で「B40」や「T20」というラベルを貼られたことがあるかもしれない——しかし、そのラベルはあなたの給料ではない。それはマレーシア統計局（DOSM）が作成する一列の中でのあなたの位置であり、その列は新しいデータが入るたびに描き直される。この線がどのように引かれるかを理解すれば、マレーシアの生活費をめぐるほぼすべての議論の読み方が変わる。

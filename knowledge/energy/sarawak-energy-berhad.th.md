@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 ขณะที่คาบสมุทรมาเลเซียพึ่งพา Tenaga Nasional Berhad ซาราวักจุดไฟของตนเองผ่านบริษัทสาธารณูปโภคหนึ่งที่กริดไม่เชื่อมต่อกับกริดของประเทศเลย และเกือบทั้งหมดผลิตด้วยน้ำที่ไหลจากเขื่อนยักษ์ในพื้นที่ตอนใน

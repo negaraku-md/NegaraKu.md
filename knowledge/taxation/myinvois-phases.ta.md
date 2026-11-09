@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+framework: data-reference
 ---
 
 இரண்டு எண்கள் அனைத்தையும் தீர்மானிக்கின்றன: உங்கள் கட்டத்தை நிரந்தரமாக நிர்ணயிக்கும்

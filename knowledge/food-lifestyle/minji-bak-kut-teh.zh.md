@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "各来源对确切的 MICHELIN 版本年份标注并不一致——官方页面未标年份，上一轮的媒体报道提到的是「2026」MICHELIN Guide Kuala Lumpur & Penang，而维基百科的 Bib Gourmand 名单仅在「2027」一栏显示 Minji，显示它是新晋者。评选每年修订；请在 guide.michelin.com 确认当前状态与获奖年份。"
   - "除了 MICHELIN 收录之外，关于 Minji 的独立报道甚少；营业时间、确切创立年份与经营者细节应在陈述为事实之前向餐厅求证。"
+framework: profile
 ---
 
 在富都的 Jalan Sungai Besi 上，离吉隆坡市中心不远，Minji 从一道比这座城市天际线

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "rakyat" }
 related: ["merdeka", "yang-di-pertuan-agong", "rakyat", "bumiputera"]
 keywords: ["rukun negara", "cinq principes du rukun negara", "serment rukun negara", "principes rukun negara", "croyance en dieu", "13 mai 1969", "MAGERAN", "philosophie nationale"]
+framework: explainer
 ---
 
 **Bahasa Malaysia :** Rukun Negara · **English :** National Principles · **中文 :** 国家原则

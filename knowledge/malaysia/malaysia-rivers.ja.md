@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "climate-and-biodiversity" }
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
+framework: profile
 ---
 
 パン・ボルネオ・ハイウェイやMASwingsの航空便が登場する以前、サラワク内陸部に至る唯一の方法は、何日もかけて川をさかのぼることだった。今日の大きな町——シブ、カピット、サンダカン、ペカン——は、偶然その場所に存在しているのではない。それぞれの町は、川によって定められた場所に位置している——河口、二つの川が合流する地点、あるいは船が航行できる最も遠い地点である。ラジャン川、キナバタンガン川、パハン川という三つの川が、この規則性を最もはっきりと示している。

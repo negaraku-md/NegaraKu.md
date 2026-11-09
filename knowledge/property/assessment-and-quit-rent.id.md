@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 Banyak pemilik rumah baru terkejut saat menerima tagihan kedua yang tidak mereka duga ada. Mereka sudah membayar "pajak tanah" tahun ini — mengapa majlis bandaran malah mengirim surat tuntutan?

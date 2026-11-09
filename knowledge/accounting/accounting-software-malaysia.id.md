@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["sdn-bhd-bookkeeping", "mbrs-2-filing-guide", "mbrs-tagging-errors", "myinvois-integration", "e-invoice-accounting-records", "bookkeeping-in-house-vs-outsourced", "e-invoicing", "accounting-records-section-245"]
 keywords: ["perisian perakaunan Malaysia", "perisian perakaunan patuh e-invois", "perisian integrasi MyInvois", "perisian XBRL MBRS Malaysia", "perisian perakaunan diluluskan LHDN", "eksport taksonomi SSMxT"]
+framework: decision
 ---
 
 Listikel perangkat lunak akuntansi Malaysia adalah suatu genre yang sudah lama usang:

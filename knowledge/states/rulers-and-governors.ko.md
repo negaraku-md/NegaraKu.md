@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
+framework: explainer
 ---
 
 말레이시아에는 13개 주(州)가 있지만, 왕위는 아홉 개뿐입니다. 나머지 네 개 주(州)는 왕위에 직접 앉지 않는 사람이 이끕니다 — 그는 임명되어, 한정된 임기 동안 봉직하고, 이후 평범한 국민으로 돌아갑니다.

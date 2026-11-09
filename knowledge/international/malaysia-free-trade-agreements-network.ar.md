@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
 related: []
 keywords: ["قائمة اتفاقيات التجارة الحرة الماليزية", "اتفاقيات التجارة الحرة في ماليزيا", "MITI FTA", "CPTPP ماليزيا", "RCEP ماليزيا", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
+framework: data-reference
 ---
 
 تحافظ ماليزيا على واحدة من أكثف شبكات الاتفاقيات التجارية في آسيا. وكثيرًا ما يستطيع

@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 Peranakan पाककला Penang की दिल वाली पाककला है, और Jalan Pintal Tali पर एक छोटी रसोई

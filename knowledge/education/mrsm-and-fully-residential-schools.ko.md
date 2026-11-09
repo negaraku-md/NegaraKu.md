@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 말레이시아 가정이 자녀를 위한 「최고의」 기숙학교를 이야기할 때 두 이름이 자주 등장합니다. MRSM과 SBP입니다. 둘 다 선발제 전기숙 칼리지이고, 둘 다 치열하게 경쟁해 들어가야 하지만, 이들은 서로 다른 두 기구가 서로 다른 두 정책 임무 아래 운영합니다.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
 related: []
 keywords: ["Malaysia FTA list", "Malaysia free trade agreements", "MITI FTA", "CPTPP Malaysia", "RCEP Malaysia", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
+framework: data-reference
 ---
 
 Malaysia maintains one of Asia's densest networks of trade agreements. A Malaysian

@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "centre administratif du gouvernement fédéral", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
+framework: profile
 ---
 
 En 1999, le Bureau du Premier ministre quitta Kuala Lumpur. La

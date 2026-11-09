@@ -93,6 +93,7 @@ verificationNeeded:
   - "Năm ấn bản: báo chí Malaysia nhắc đến một ấn bản MICHELIN Guide Kuala Lumpur & Penang 2027 (được cho là công bố ngày 4 tháng 11 năm 2026), trong khi ấn bản chính thức mới nhất xác nhận được một cách độc lập là 2026 — hãy xác nhận ấn bản nào liệt kê quán này so với trang tuyển chọn chính thức."
   - "Giờ hoạt động (ghi 12:00–22:00, nghỉ Thứ Năm) đến từ danh mục MICHELIN và có thể thay đổi — hãy xác nhận tại chỗ trước khi đi."
   - "Phần mô tả của MICHELIN tập trung vào nước dùng, thịt heo quay và tương ớt, và không tự mô tả tiết vịt; hãy xác nhận trực tiếp với quán về món phủ tiết vịt hiện tại nếu đó là điều thu hút bạn."
+framework: profile
 ---
 
 Cái tên hứa hẹn tiết vịt — một món phủ curry mee truyền thống — nhưng điều mà

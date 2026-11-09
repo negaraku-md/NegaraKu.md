@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 Lebuh Carnarvonのショップハウスに収まるTeksenは、ジョージタウンで最も信頼できる

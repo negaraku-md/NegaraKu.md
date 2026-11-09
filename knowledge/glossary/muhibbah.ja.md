@@ -56,6 +56,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["open-house", "rukun-negara", "bumiputera"]
 keywords: ["muhibbah", "maksud muhibbah", "muhibbah in english", "semangat muhibbah", "perpaduan kaum", "muhibah"]
+framework: explainer
 ---
 
 **マレー語：** Muhibbah · **英語：** Goodwill / inter-communal harmony · **中国語：** 睦邻友好（族群和谐）

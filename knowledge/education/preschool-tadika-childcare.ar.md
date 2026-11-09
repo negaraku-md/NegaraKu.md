@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "تسجيل دُور الحضانة", "رياض الأطفال الخاصة"]
+framework: explainer
 ---
 
 يُلحق كثير من الآباء أطفالهم بالـ tadika القريبة من البيت — يُرسِلون النموذج، ويدفعون الرسم، وينتهي الأمر. لكن السؤال الذي نادرًا ما يُطرح هو: لدى من تلك الـ tadika مسجَّلة فعلًا؟ والجواب ليس أمرًا تافهًا. فبحسب عمر الطفل ونوع المؤسسة، قد تقع تحت وزارتين مختلفتين كليًا، بقوانين ولوائح وأساليب إنفاذ غير متماثلة.

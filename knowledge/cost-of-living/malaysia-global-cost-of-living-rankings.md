@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 Ask a relocation consultant where to post staff on a tight allowance in Asia, and Kuala Lumpur keeps coming up — not because the surveys flatter it, but because the numbers genuinely put it near the bottom of the cost table. The city that anchors Malaysia is one of the few places that scores cheap *and* liveable at the same time.

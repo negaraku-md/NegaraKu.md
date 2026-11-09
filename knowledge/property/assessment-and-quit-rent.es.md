@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "impuesto de evaluación Malasia", "renta de la tierra Malasia", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 Muchos propietarios primerizos se sobresaltan al recibir una segunda factura que no esperaban. Ya han pagado el «impuesto a la tierra» este año — entonces, ¿por qué el concejo municipal también envía una notificación de requerimiento?

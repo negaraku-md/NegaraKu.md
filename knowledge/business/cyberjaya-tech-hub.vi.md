@@ -125,6 +125,7 @@ keywords:
   - "MD Cybercity Cybercentre"
   - "MD Location Recognition"
   - "Cyberview Sdn Bhd"
+framework: profile
 ---
 
 Hai thứ khác nhau được gọi là Cyberjaya, và nhầm lẫn chúng thì tốn kém.

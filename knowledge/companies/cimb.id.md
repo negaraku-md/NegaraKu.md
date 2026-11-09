@@ -80,6 +80,7 @@ verificationNeeded:
   - "Kepemilikan saham Khazanah Nasional (sekitar 21-23% sepanjang 2024, menurut keterbukaan pemegang saham substansial CIMB dan The Edge) — besaran saham berubah seiring penempatan dan pergerakan pasar."
   - "Peringkat sebagai bank terbesar kedua Malaysia menurut aset dan termasuk lima grup perbankan terbesar ASEAN — bersifat posisional dan berubah menurut waktu; konfirmasi ulang terhadap neraca pesaing saat ini."
   - "Jumlah nasabah (angka yang dikutip dalam profil pihak ketiga bervariasi luas, misalnya ~13,5 juta ritel vs. ~25 juta total) — verifikasi terhadap pelaporan terkini CIMB sendiri sebelum menerbitkan sebuah angka."
+framework: profile
 ---
 
 CIMB adalah bank yang hampir selalu Anda temui ke mana pun Anda melangkah dalam perniagaan Malaysia — dan semakin banyak di seluruh Asia Tenggara. Ia adalah bank universal, artinya ia melakukan segala hal mulai dari rekening tabungan pekerja bergaji hingga penerbitan obligasi bernilai miliaran ringgit dan akuisisi lintas batas, dan ia melakukannya tidak hanya di Malaysia tetapi juga melalui operasi besar di Indonesia, Thailand, dan Singapura.

@@ -79,6 +79,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["honorarios de auditoría Malasia", "audit fees Malaysia", "tarifa de honorarios de auditoría MIA", "RPG 7 retirada", "RPG 7 withdrawn", "tabla de honorarios de auditoría Malasia", "honorario mínimo de auditoría empresa inactiva", "cuánto cuesta una auditoría en Malasia"]
+framework: data-reference
 ---
 
 Busque los honorarios de auditoría malasios y le mostrarán una tabla de

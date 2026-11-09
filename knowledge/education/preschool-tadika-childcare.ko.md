@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
+framework: explainer
 ---
 
 많은 학부모가 집 근처 「타디카」에 자녀를 등록합니다 — 양식을 내고, 요금을 내면, 끝입니다. 그러나 좀처럼 묻지 않는 질문이 있습니다. 그 타디카는 누구에게 등록되어 있는가? 그 답은 사소한 문제가 아닙니다. 아동의 나이와 기관 유형에 따라, 그것은 완전히 다른 두 부처 아래에 있을 수 있으며, 법, 규정, 집행 방식이 서로 다릅니다.

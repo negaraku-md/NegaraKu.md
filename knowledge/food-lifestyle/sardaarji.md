@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "The MICHELIN Guide Malaysia (Kuala Lumpur & Penang) selection is revised annually. This profile reflects the 2026 edition; confirm the Bib Gourmand still stands in the latest edition (a 2027 selection is emerging), as awards can be added or removed each year."
   - "The founding year (2018) and the founder's background (a retired Penang City Council employee, Ranjit Singh) come from MICHELIN's feature; confirm against the restaurant directly if exact detail matters."
+framework: profile
 ---
 
 Punjabi home cooking is not the first thing most visitors associate with George

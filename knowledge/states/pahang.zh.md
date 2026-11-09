@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
+framework: profile
 ---
 
 彭亨的国土面积占马来西亚半岛土地的四分之一以上，但每20名马来西亚人当中，

@@ -85,6 +85,7 @@ verificationNeeded:
   - "MICHELIN Guide의 셀렉션은 매년 개정됩니다. 이 프로필은 현재 등재에 표시된 상태를 반영하며, 새 판이 나올 때마다 재확인해야 합니다."
   - "MICHELIN 등재는 주방 책임자를 「chef Low」로만 명시합니다. 한 MICHELIN 기사와 2차 보도는 셰프 겸 오너의 이름을 Aidan Low로 전합니다——전체 이름을 명시하기 전에 확인하십시오."
   - "Akar가 처음 Star를 받은 판(현재 셀렉션은 「newly promoted」로 등재)은 MICHELIN의 기록과 대조해 확인해야 합니다."
+framework: profile
 ---
 
 Akar는 쿠알라룸푸르 서편의 주택가 Taman Tun Dr Ismail(TTDI)에 있는 현대 말레이시아

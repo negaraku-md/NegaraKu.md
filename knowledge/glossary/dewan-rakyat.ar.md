@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["parliament", "dewan-negara", "federal-constitution", "how-a-bill-becomes-law", "yang-di-pertuan-agong"]
 keywords: ["Dewan Rakyat", "عضو البرلمان الماليزي", "المادة 46", "المادة 55", "222 مقعدًا", "رئيس Dewan Rakyat", "دورة البرلمان", "مشروع القانون المالي", "House of Representatives Malaysia"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Dewan Rakyat · **English:** House of Representatives · **中文:** 下议院

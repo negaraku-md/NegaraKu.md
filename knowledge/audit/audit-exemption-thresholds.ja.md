@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "who-cannot-claim-audit-exemption" }
 related: ["audit-exemption", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption"]
 keywords: ["audit exemption threshold Malaysia", "audit exemption RM3 million", "PD 10/2024 thresholds", "audit exemption 2026 threshold", "SSM audit exemption criteria 2027", "number of employees audit exemption"]
+framework: data-reference
 ---
 
 このページから一つだけ数字を持ち帰るなら、これにしてほしい——誰もが引用するRM300万という基準値は、2027年1月1日以降に開始する財政期間まで**適用されない**。

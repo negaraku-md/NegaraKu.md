@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "wilayah-persekutuan" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong", "wilayah-persekutuan"]
 keywords: ["Dewan Negara", "Senat Malaysia", "senator Malaysia", "perbezaan Dewan Negara Dewan Rakyat", "Perkara 45 Perlembagaan Persekutuan", "lantikan senator"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院

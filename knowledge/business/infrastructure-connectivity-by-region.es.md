@@ -110,6 +110,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "tanjung pelepas ptp throughput", "malaysia port statistics 2025", "ecrl completion date", "ecrl land bridge kuantan port klang", "5g coverage by state malaysia", "mcmc broadband by state", "saidi malaysia"]
+framework: data-reference
 ---
 
 Malasia tiene unos treinta y tantos puertos comerciales y dos que importan para los contenedores. Tiene seis aeropuertos internacionales y uno que mueve carga aérea a escala. Saber de qué lado de esa línea se sitúa su ubicación vale más que cualquier lista de comodidades en un folleto estatal.

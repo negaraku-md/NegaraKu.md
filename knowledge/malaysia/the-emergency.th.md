@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
+framework: history-culture
 ---
 
 คำว่า "ภาวะฉุกเฉิน" เป็นทางเลือกทางกฎหมาย ไม่ใช่คำบรรยาย การเรียกความขัดแย้งสิบสองปีในมลายาว่าภาวะฉุกเฉินมากกว่าสงครามทำให้สวนยางและเหมืองดีบุกยังคงเอาประกันได้ภายใต้กรมธรรม์ของลอนดอนที่ยกเว้นการกระทำของสงคราม การสู้รบเป็นจริง จำนวนผู้เสียชีวิตนับเป็นพัน และรัฐที่เกิดจากมันนำเครื่องมือ คือ บัตรประจำตัว เขตตั้งถิ่นฐานใหม่ อำนาจการควบคุมตัว ที่อยู่นานกว่าภาวะฉุกเฉินหลายทศวรรษ

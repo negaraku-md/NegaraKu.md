@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "register-enterprise-ezbiz" }
 related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd", "register-enterprise-ezbiz", "partnership-malaysia", "llp-vs-sdn-bhd"]
 keywords: ["empresa individual frente a sdn bhd", "sole proprietorship vs sdn bhd", "enterprise frente a sdn bhd", "enterprise vs sdn bhd", "qué estructura empresarial Malasia", "impuesto del empresario individual Malasia", "sole proprietor tax Malaysia"]
+framework: decision
 ---
 
 La mayoría de la gente aborda esto como una cuestión de coste y obtiene la respuesta equivocada. Las

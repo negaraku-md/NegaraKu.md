@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["कर शास्ति मलेशिया", "tax penalty Malaysia", "LHDN शास्ति दरें", "धारा 113(2) शास्ति", "SST विलंब-भुगतान शास्ति", "मुद्रांक शुल्क विलंब-मुद्रांकन शास्ति", "RPGT शास्ति", "kesalahan denda dan penalti", "धारा 112(3) तिगुना कर"]
+framework: data-reference
 ---
 
 कोई एकल मलेशियाई कर शास्ति-पैमाना नहीं है। पाँच क़ानून प्रत्येक अपनी-अपनी वास्तुकला

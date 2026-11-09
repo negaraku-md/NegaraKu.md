@@ -85,6 +85,7 @@ verificationNeeded:
   - "Las selecciones de la MICHELIN Guide se revisan anualmente; este perfil refleja el estado que muestra la ficha actual y debería volver a comprobarse tras cada nueva edición."
   - "La ficha de MICHELIN nombra al responsable de la cocina solo como 'chef Low'; un artículo de MICHELIN y la cobertura secundaria informan de que el nombre del chef-propietario es Aidan Low; confirme el nombre completo antes de indicarlo."
   - "La edición en la que Akar recibió su Star por primera vez (la selección actual lo recoge como 'newly promoted') debería confirmarse con los registros de MICHELIN."
+framework: profile
 ---
 
 Akar es un restaurante de alta cocina malasia moderna en Taman Tun Dr Ismail

@@ -148,6 +148,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["financial-year-end", "financial-statement-pack", "mbrs-2-filing-guide", "audit-exemption-thresholds", "sdn-bhd-first-year-compliance", "annual-return", "form-c-and-cp204", "company-tax-calendar"]
 keywords: ["موعد القوائم المالية ماليزيا", "المادة 258 تعميم ستة أشهر", "المادة 259 إيداع 30 يوماً", "عقوبة الإيداع المتأخر SSM", "تمديد المدة SSM القوائم المالية", "18 شهراً أول قوائم مالية", "موعد التقارير المالية Sdn Bhd", "financial statements deadline Malaysia", "SSM late lodgement penalty"]
+framework: data-reference
 ---
 
 اسأل معظم المصادر الماليزية عن موعد استحقاق القوائم المالية، فسيُقال لك أحد

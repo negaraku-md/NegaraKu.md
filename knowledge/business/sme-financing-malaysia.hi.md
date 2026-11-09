@@ -83,6 +83,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["मलेशिया में SME वित्तपोषण", "sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "sme bank वित्तपोषण", "cradle अनुदान मलेशिया", "tekun वित्तपोषण", "सरकारी ऋण sme मलेशिया"]
+framework: data-reference
 ---
 
 अधिकांश SME वित्तपोषण निर्देशिकाएँ प्रेस विज्ञप्तियों से एकत्र किए गए योजना नामों की एक सूची होती हैं,

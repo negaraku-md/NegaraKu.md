@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["prime ministers of Malaysia", "list of Malaysian prime ministers", "Perdana Menteri Malaysia", "Anwar Ibrahim", "Mahathir Mohamad"]
+framework: data-reference
 ---
 
 Người đứng đầu chính phủ của Malaysia là **Thủ tướng** — người lãnh đạo có được sự tín

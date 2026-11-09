@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "seguro convencional", "cumplimiento de la Sharía", "wakalah", "tabarru", "reparto de excedentes", "seguro en Malasia"]
+framework: decision
 ---
 
 Entre en la mayoría de las sucursales bancarias malasias o abra una aplicación de comparación, y la misma necesidad de protección — una tarjeta médica, una cobertura hipotecaria, una póliza de automóvil — aparece en dos versiones, una junto a la otra: takaful y seguro convencional. En la página de beneficios pueden parecer casi idénticas. La diferencia está en cómo se construye el producto por debajo.

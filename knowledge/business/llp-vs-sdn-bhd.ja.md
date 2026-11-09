@@ -110,6 +110,7 @@ keywords:
   - "LLP tax Malaysia"
   - "LLP audit requirement Malaysia"
   - "compliance officer LLP"
+framework: decision
 ---
 
 マレーシアのLLPについて書かれた比較記事を開けば、それが「会社の有限責任とパートナーシップの

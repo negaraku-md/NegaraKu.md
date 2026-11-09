@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 Sebuah syarikat yang bermula dengan menjual gas industri kini menanam kelapa sawit yang cukup untuk memenuhi bank tanah sebesar sebuah daerah kecil — dan mengubah buah itu menjadi pelbagai produk daripada minyak masak hinggalah asid lemak di dalam sabun anda.

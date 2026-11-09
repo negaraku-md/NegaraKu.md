@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph", "is emphasis of matter a qualification"]
+framework: explainer
 ---
 
 ผู้ให้กู้โทรมาบอกว่าบัญชีมีเงื่อนไข แต่ไม่ใช่ รายงานมีวรรคเพิ่มเติม ความเห็นสะอาด และมีประโยคท้ายวรรคนั้นที่ระบุเช่นนั้น

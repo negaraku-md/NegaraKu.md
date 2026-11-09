@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["stamp-duty-share-transfer", "stamp-duty-rates", "capital-gains-tax", "wrt-licence-malaysia", "manufacturing-licence-malaysia", "close-a-company", "share-capital-malaysia"]
 keywords: ["sell business malaysia", "share sale vs asset sale", "stamp duty business sale malaysia", "business transfer agreement malaysia", "sell sdn bhd", "jual syarikat"]
+framework: decision
 ---
 
 ผู้ซื้อสองรายเสนอ RM5 ล้านเท่ากันสำหรับธุรกิจเดียวกัน รายหนึ่งต้องการหุ้น อีกรายต้องการสินทรัพย์ มัน

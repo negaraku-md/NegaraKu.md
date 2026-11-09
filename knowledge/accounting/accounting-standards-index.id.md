@@ -67,6 +67,7 @@ relations:
   - { rel: "explained-in", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["senarai MFRS Malaysia", "tarikh kuat kuasa MFRS", "senarai seksyen MPERS", "indeks piawaian MASB", "piawaian perakaunan Malaysia"]
+framework: data-reference
 ---
 
 MASB menerbitkan standarnya sebagai satu set halaman PDF terpisah di balik pintu

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
+framework: data-reference
 ---
 
 Planifiez un voyage en famille pour le début de l'année, et vous remarquez vite une chose : votre voisin au Kelantan commence l'école un jour plus tôt que votre enfant au Selangor. Ce n'est pas une erreur : c'est ainsi qu'est conçu le calendrier scolaire de la Malaisie.

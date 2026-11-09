@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["hiring-foreign-workers-malaysia"]
 keywords: ["foreign worker levy malaysia", "levi pekerja asing", "multi tier levy", "mtlm", "levy rates by sector", "plks levy sabah sarawak"]
+framework: data-reference
 ---
 
 Empiece por lo que hace difícil investigar este tema: **no existe ningún instrumento del levy del trabajador extranjero.**

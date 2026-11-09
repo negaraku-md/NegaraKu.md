@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
+framework: profile
 ---
 
 트렝가누에 관해 가장 유명한 두 가지는 서로 약 60킬로미터 떨어져 있으며, 둘 다 보기가 어렵습니다.

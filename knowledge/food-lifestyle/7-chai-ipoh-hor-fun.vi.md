@@ -87,6 +87,7 @@ verificationNeeded:
   - "Lựa chọn của MICHELIN Guide được rà soát hằng năm; hãy xác nhận rằng 7 Chai Ipoh Hor Fun vẫn giữ Bib Gourmand trong ấn bản MICHELIN Guide Kuala Lumpur & Penang mới nhất trước khi dựa vào thông tin này."
   - "Cách ghi năm ấn bản không nhất quán giữa các nguồn — một số gọi lựa chọn hiện tại là ấn bản 2027 trong khi các tài liệu khác dán nhãn danh sách mới nhất là 2026. Hãy xác nhận năm ấn bản đúng dựa trên thông báo chính thức về lễ công bố MICHELIN Guide."
   - "Ngày thành lập và lịch sử của nhà hàng không được nêu trong mục MICHELIN và chưa được xác nhận từ nguồn sơ cấp."
+framework: profile
 ---
 
 7 Chai Ipoh Hor Fun là một quán mì nhỏ, mộc mạc ở khu Pandan Perdana của Kuala

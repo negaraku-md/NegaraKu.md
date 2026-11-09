@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
+framework: data-reference
 ---
 
 Pregunte a tres fuentes creíbles cuánto de Malasia sigue siendo bosque y puede obtener tres respuestas separadas por diez puntos porcentuales — todas defendibles, todas midiendo algo ligeramente distinto. Esa brecha no es un error de redondeo; es, en miniatura, todo el debate sobre la deforestación malasia.

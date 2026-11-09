@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 Pada malam 31 Ogos 1957, apabila melodi Negaraku dimainkan buat pertama kali di hadapan orang ramai di Padang Kelab Selangor, melodi itu bukanlah sesuatu yang baharu. Ia sudah pun menjadi lagu kebesaran sebuah negeri Melayu selama beberapa dekad sebelum itu.

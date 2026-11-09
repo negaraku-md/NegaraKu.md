@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "self-billed-e-invoice" }
 related: ["e-invoicing", "myinvois-phases", "myinvois-integration", "self-billed-e-invoice", "consolidated-e-invoice"]
 keywords: ["medan data e-Invois", "55 medan e-Invois", "medan wajib MyInvois", "ralat pengesahan e-Invois", "UBL 2.1 Malaysia", "senarai kod e-Invois LHDN"]
+framework: data-reference
 ---
 
 Setiap penyerahan yang ditolak bisa dilacak kembali ke salah satu dari

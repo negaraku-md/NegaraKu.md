@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["secretary-resignation", "secretary-vacancy-30-days", "appoint-company-secretary", "statutory-registers"]
 keywords: ["change company secretary Malaysia", "company secretary handover checklist", "section 58 Companies Act 2016", "transfer company secretary Sdn Bhd", "section 47 registered office documents", "switch secretarial firm Malaysia"]
+framework: how-to
 ---
 
 การเปลี่ยนสำนักงานเลขานุการดูเหมือนธุระทางธุรการแต่มีพฤติกรรมเหมือนการย้ายถิ่นขนาดเล็ก การยื่นต่อ SSM เป็นส่วนที่ง่าย สิ่งที่ตัดสินว่าสำนักงานใหม่จะทำหน้าที่ได้จริงหรือไม่คือว่าสำนักงานเก่าส่งมอบชุดบันทึกที่ครบถ้วนหรือไม่ — และไม่มีคู่มือของมาเลเซียฉบับใดจัดทำเอกสารว่าชุดนั้นมีอะไรบ้าง เพราะสำนักงานที่เขียนคู่มือเหล่านั้นคือฝ่ายที่ถูกขอให้ส่งมอบ

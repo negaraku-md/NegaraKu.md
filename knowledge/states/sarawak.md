@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
+framework: profile
 ---
 
 Sarawak is Malaysia in a different key. It is by far the largest state in the

@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["main-d'œuvre malaisie par état", "salaire médian par état malaisie", "dosm enquête population active 2025", "talent électronique penang", "travailleurs johor singapour", "salaire minimum malaisie état", "pass d'emploi sarawak genesis"]
+framework: data-reference
 ---
 
 La première idée que tout fondateur apporte au choix d'implantation en Malaisie est que quitter la vallée de Klang réduit la masse salariale. Les données disent que c'est le cas — et la loi dit que l'essentiel de l'économie n'est pas à vous de prendre, car le plancher et chaque cotisation au-dessus de lui sont fixés au niveau fédéral.

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 2026年5月，马来西亚生产了20,198公吨天然橡胶——却出口了28,741公吨。该国

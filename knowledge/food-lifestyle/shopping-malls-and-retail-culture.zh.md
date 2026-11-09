@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 在巴生谷（Klang Valley）的一个周六下午，单单一座大型商场里的人流量，就可能超过某些小镇的人口——而其中许多人并不只是来购物。马来西亚的商场兼具冷气城镇广场的功能：人们在这里吃饭、看电影、溜冰、在祈祷室（surau）祷告，还让孩子在室内主题乐园里奔跑。要理解这里的零售，就要理解这种跨度——从巨型商场到露天夜市。

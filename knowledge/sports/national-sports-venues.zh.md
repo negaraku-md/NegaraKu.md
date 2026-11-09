@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 当85,500名观众在足球决赛之夜挤满TM国家体育场三层看台的弧形结构时，他们正身处马来西亚体育基础设施最宏大的象征之中——但这只是承载国家重大赛事的几座场馆之一。

@@ -80,6 +80,7 @@ verificationNeeded:
   - "Tỷ lệ sở hữu cổ phần của Khazanah Nasional (khoảng 21-23% suốt năm 2024, theo công bố cổ đông lớn của CIMB và The Edge) — tỷ lệ nắm giữ thay đổi theo các đợt chào bán và biến động thị trường."
   - "Thứ hạng là ngân hàng lớn thứ hai của Malaysia về tài sản và nằm trong năm tập đoàn ngân hàng lớn nhất ASEAN — mang tính vị trí và thay đổi theo thời gian; cần xác nhận lại đối chiếu với bảng cân đối kế toán hiện hành của các đối thủ."
   - "Số lượng khách hàng (các con số được nêu trong các hồ sơ của bên thứ ba dao động rộng, ví dụ ~13,5 triệu khách hàng bán lẻ so với ~25 triệu tổng cộng) — cần xác minh đối chiếu với báo cáo hiện hành của chính CIMB trước khi công bố một con số."
+framework: profile
 ---
 
 CIMB là ngân hàng mà bạn gặp ở gần như mọi nơi bạn quay đầu lại trong thương mại Malaysia — và ngày càng nhiều trên khắp Đông Nam Á. Nó là một ngân hàng tổng hợp, nghĩa là nó làm mọi thứ từ tài khoản tiết kiệm của một người làm công ăn lương cho đến các đợt phát hành trái phiếu trị giá hàng tỷ ringgit và các thương vụ mua lại xuyên biên giới, và nó làm vậy không chỉ ở Malaysia mà qua các hoạt động lớn ở Indonesia, Thái Lan và Singapore.

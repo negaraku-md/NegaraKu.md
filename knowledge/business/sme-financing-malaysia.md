@@ -81,6 +81,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "sme bank financing", "cradle grant malaysia", "tekun financing", "government loan sme malaysia"]
+framework: data-reference
 ---
 
 Most SME financing directories are a list of scheme names harvested from press releases,

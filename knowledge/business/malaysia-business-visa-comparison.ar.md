@@ -104,6 +104,7 @@ keywords:
   - "employment pass مقابل MM2H"
   - "MM2H platinum عمل"
   - "تأشيرة أعمال ماليزيا"
+framework: decision
 ---
 
 السؤال الكامن خلف كل برنامج من هذه البرامج واحد: **هل يمكنني فعلًا أن أعمل،

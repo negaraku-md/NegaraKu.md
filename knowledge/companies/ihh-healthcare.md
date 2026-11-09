@@ -75,6 +75,7 @@ verificationNeeded:
   - "Operational beds — the FY2024 annual report cites roughly 3,558 licensed beds in Malaysia, about 697 operational beds in Singapore and around 5,602 operational beds in India (as of 31 December 2024). Bed counts are time-varying; reconfirm against the latest filing."
   - "Revenue — FY2024 (year ended 31 December 2024) group revenue of about RM24.4 billion and net profit of about RM2.66 billion, per IHH's results release. Reconfirm the figure and basis against each new annual/quarterly report."
   - "Shareholding — Mitsui & Co is cited as holding roughly 32–33% (via MBK Healthcare Management) and Khazanah Nasional a substantial minority. Exact percentages shift with placements and buy-ins; verify against the latest Bursa Malaysia / SGX disclosures before citing a number."
+framework: profile
 ---
 
 Walk into a Pantai or Gleneagles hospital in Kuala Lumpur, a Mount Elizabeth ward in Singapore, an Acibadem clinic in Istanbul or a Fortis centre in Delhi, and you are stepping into the same corporate family. That family is IHH Healthcare Berhad — a Malaysia-headquartered company that has grown into one of the largest private hospital operators in the world.

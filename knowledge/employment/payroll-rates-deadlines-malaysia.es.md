@@ -179,6 +179,7 @@ relations:
   - { rel: "explained-in", to: "minimum-wage-malaysia" }
 related: ["form-e-ea-cp8d-malaysia", "hrd-corp-levy-malaysia", "minimum-wage-malaysia", "payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["plazos de nómina Malasia", "tasas EPF SOCSO EIS", "tasas de aportación legales Malasia", "fechas de vencimiento de nómina día 15", "plazo PCB", "tasa gravamen HRD"]
+framework: data-reference
 ---
 
 Una sola tabla de referencia, cada fila trazada hasta la autoridad que la publica. Las filas

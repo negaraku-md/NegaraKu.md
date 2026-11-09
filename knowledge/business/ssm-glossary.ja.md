@@ -80,6 +80,7 @@ keywords:
   - "Form 9 SSM replacement"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 マレーシアの会社行政における混乱の半分は、語彙に由来する。似た略語を持つ二つの

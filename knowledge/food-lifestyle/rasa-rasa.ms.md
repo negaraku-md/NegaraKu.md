@@ -82,6 +82,7 @@ verificationNeeded:
   - "Tahun edisi MICHELIN Guide: Bib Gourmand dinilai semula setiap tahun dan profil ini tidak mengikatnya kepada satu edisi tunggal. Edisi terbaharu yang diterbitkan pada masa penulisan ialah MICHELIN Guide Kuala Lumpur & Penang 2026 — JANGAN nyatakan edisi 2027 sehingga MICHELIN menerbitkannya. Sahkan Rasa Rasa masih memegang Bib Gourmand dalam edisi semasa di guide.michelin.com."
   - "Alamat: MICHELIN menyenaraikan 59 Gat Lebuh Chulia, tetapi sekurang-kurangnya satu ulasan memetik 25 Lebuh Melayu. Anggap alamat MICHELIN sebagai semasa dan sahkan sebelum menerbitkan arah perjalanan."
   - "Waktu buka berbeza sedikit mengikut hari dalam penyenaraian MICHELIN (sekitar 08:30–16:00, tutup hari Rabu) — sahkan jadual semasa, kerana dapur tutup pada waktu petang."
+framework: profile
 ---
 
 **Rasa Rasa** ialah jenis tempat yang menjadi sebab MICHELIN Bib Gourmand

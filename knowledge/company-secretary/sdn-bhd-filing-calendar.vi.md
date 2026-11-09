@@ -187,6 +187,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["Sdn Bhd compliance calendar", "SSM deadlines Malaysia", "company filing deadlines Malaysia", "annual return deadline", "14 days notify SSM", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 Lý do các công ty Malaysia nộp muộn hiếm khi là sự cẩu thả. Đó là các nghĩa vụ chạy trên **ba đồng hồ không

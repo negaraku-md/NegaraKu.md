@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
 related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OCI", "Organización de Cooperación Islámica", "Commonwealth", "mancomunidad", "MNOAL", "Movimiento de Países No Alineados", "D-8", "APEC", "política exterior de Malasia", "membresía internacional"]
+framework: data-reference
 ---
 
 Cada vez que un ministro malasio habla sobre Palestina en un foro del mundo

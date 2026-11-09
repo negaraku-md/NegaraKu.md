@@ -66,6 +66,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["Malaysia tax relief", "pelepasan cukai individu", "tax relief checklist Malaysia", "Form BE reliefs", "LHDN individual relief"]
+framework: how-to
 ---
 
 நீங்கள் செல்லுபடியாகக் கோரக்கூடிய ஒவ்வொரு ரிங்கிட் விலக்கும் உங்கள்

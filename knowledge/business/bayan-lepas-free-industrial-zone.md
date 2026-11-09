@@ -117,6 +117,7 @@ keywords:
   - "Free Zones Act 1990"
   - "Penang FIZ customs"
   - "zon perindustrian bebas"
+framework: profile
 ---
 
 Almost every published description of the Bayan Lepas Free Industrial Zone is now out of date,

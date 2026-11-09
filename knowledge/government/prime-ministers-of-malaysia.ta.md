@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["prime ministers of Malaysia", "list of Malaysian prime ministers", "Perdana Menteri Malaysia", "Anwar Ibrahim", "Mahathir Mohamad"]
+framework: data-reference
 ---
 
 மலேசியாவின் அரசாங்கத் தலைவர் **பிரதமர் (Prime Minister)** — மக்கள் மன்றத்தின்

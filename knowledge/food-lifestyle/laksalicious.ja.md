@@ -78,6 +78,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 laksaほどペナンを物語る料理は少なく、Jalan Huttonでは小さな店がこの一杯への献身を、

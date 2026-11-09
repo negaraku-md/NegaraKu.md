@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "constitutional-amendment" }
 related: ["federal-constitution", "akta", "constitutional-amendment", "majlis-raja-raja"]
 keywords: ["Perlembagaan Persekutuan", "undang-undang tertinggi Malaysia", "Perkara 4", "Perkara 159 pindaan", "dua pertiga majoriti", "Jadual Kesembilan", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Perlembagaan Persekutuan · **English:** Federal Constitution · **中文:** 联邦宪法

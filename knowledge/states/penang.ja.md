@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
+framework: profile
 ---
 
 ペナンは、その大きさに見合わないほどの存在感を持つ。マレーシアのなかで面積が最も小さい州のひとつでありながら、同国で最も重要な製造業経済のひとつであり、最も多くの観光客が訪れる観光地のひとつでもある。

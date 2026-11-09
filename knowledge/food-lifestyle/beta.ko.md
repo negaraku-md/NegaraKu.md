@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN의 인정은 현재 상태로 기술됩니다. 정확한 판(에디션) 연도는 출처마다 모호합니다. MICHELIN 자체의 전체 셀렉션 기사는 이 목록을 MICHELIN Guide Kuala Lumpur & Penang 2026(시상식 2025년 11월 11일)으로 표기하는 반면, 일부 2차 보도는 11월 4일 발표된 「2027」 판을 언급합니다. 정확한 판 연도와 발표일을 MICHELIN의 공식 발표와 대조해 확인하십시오."
   - "MICHELIN Guide의 셀렉션은 매년 개정됩니다. 이 프로필은 현재 등재에 표시된 상태를 반영하며, 새 판이 나올 때마다 재확인해야 합니다."
   - "MICHELIN 등재는 셰프의 이름을 명시하지 않습니다. 2차 보도(The Star, Options The Edge)는 Beta를 셰프 Raymond Tham에게 돌립니다——이름을 명시하기 전에 확인하십시오."
+framework: profile
 ---
 
 Beta는 쿠알라룸푸르 중심부 Jalan Perak에 있는 현대 말레이시아 파인다이닝

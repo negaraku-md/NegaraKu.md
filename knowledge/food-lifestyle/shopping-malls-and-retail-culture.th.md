@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 ในบ่ายวันเสาร์ในหุบเขากลัง (Klang Valley) ห้างสรรพสินค้าขนาดใหญ่เพียงแห่งเดียวสามารถรองรับผู้คนได้มากกว่าเมืองเล็ก ๆ บางเมือง และหลายคนไม่ได้มาที่นั่นเพียงเพื่อจับจ่าย ห้างสรรพสินค้าของมาเลเซียทำหน้าที่เป็นจัตุรัสเมืองปรับอากาศไปด้วย คือ สถานที่รับประทานอาหาร ดูภาพยนตร์ เล่นสเก็ตน้ำแข็ง ละหมาดที่ซูเรา (surau) และปล่อยให้เด็ก ๆ วิ่งเล่นในสวนสนุกในร่ม การเข้าใจการค้าปลีกที่นี่หมายถึงการเข้าใจช่วงกว้างนั้น ตั้งแต่ห้างสรรพสินค้าขนาดยักษ์ไปจนถึงตลาดนัดกลางคืนกลางแจ้ง

@@ -76,6 +76,7 @@ faq:
     a: Tidak. UPU (Unit Pusat Universiti), sistem dalam talian berpusat Kementerian Pengajian Tinggi, hanya merangkumi universiti awam, institusi MARA, politeknik dan kolej komuniti. Institusi swasta (IPTS) berada sepenuhnya di luar UPU dan mesti dipohon secara terus; setiap satu mengendalikan pejabat kemasukannya sendiri, menetapkan syarat kemasukannya sendiri bagi setiap program dan boleh membuat tawaran dalam beberapa hari, sering kali menerima UEC, A-Level, IB dan kelayakan lain di samping SPM dan STPM.
   - q: Sesuatu program hanya "diakreditasi secara sementara" — adakah itu bermakna ia tidak diakreditasi?
     a: Tidak. Di bawah Kod Amalan Akreditasi Program MQA, Akreditasi Sementara mengesahkan bahawa sesuatu program telah memenuhi syarat kualiti minimum untuk ditawarkan secara sah, dan ia sendiri merupakan syarat untuk kelulusan Kementerian. Akreditasi Penuh ialah penilaian yang lebih menyeluruh yang dijalankan setelah kohort pertama menamatkan program tersebut. Program yang diakreditasi secara sementara adalah sah dan boleh ditawarkan secara sah; cuma ia belum menyelesaikan penilaian kitaran penuh.
+framework: explainer
 ---
 
 Dua orang pelajar dengan keputusan SPM yang sama boleh berakhir dalam dua sistem

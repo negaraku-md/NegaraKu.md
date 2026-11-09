@@ -188,6 +188,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["calendrier de conformité Sdn Bhd", "échéances SSM Malaisie", "délais de dépôt des sociétés Malaisie", "délai de la déclaration annuelle", "notifier la SSM sous 14 jours", "Sdn Bhd compliance calendar", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 Si les sociétés malaisiennes déposent en retard, c'est rarement par négligence.

@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "written-resolutions" }
 related: ["written-resolutions", "agm-requirements", "egm-requisition", "remove-a-director"]
 keywords: ["délai de convocation résolution Malaisie", "21 jours résolution spéciale", "préavis spécial 28 jours", "convocation à bref délai assemblée 90 pour cent", "section 316 Companies Act 2016", "notice period resolution Malaysia"]
+framework: data-reference
 ---
 
 Demandez à trois cabinets de secrétariat malaisiens combien de jours de convocation

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
 related: []
 keywords: ["Malaysia FTA list", "Malaysia free trade agreements", "MITI FTA", "CPTPP Malaysia", "RCEP Malaysia", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
+framework: data-reference
 ---
 
 말레이시아는 아시아에서 가장 촘촘한 무역 협정 망 중 하나를 유지합니다. 말레이시아 수출업체는 동일한 화물에 대해 아세안 특혜, 양자 세율, 또는 초대형 지역 협정 일정 중에서 선택할 수 있는 경우가 많으며 — 그 선택이 국경에서 내는 관세를 바꿀 수 있습니다. 이 페이지는 전체 망을 한눈에 펼쳐 보여줍니다.

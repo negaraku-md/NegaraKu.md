@@ -68,6 +68,7 @@ keywords:
   - "section 42 Companies Act 2016"
   - "convertir Sdn Bhd en Berhad"
   - "diferencia entre Sdn Bhd y Berhad"
+framework: explainer
 ---
 
 Casi nadie convierte una Sdn Bhd en una Berhad porque se quedó sin plazas de

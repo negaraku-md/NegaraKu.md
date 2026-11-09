@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 A cool mountain-top resort an hour from Kuala Lumpur is the only place in Malaysia where a casino can legally deal a hand of cards. That single, unusual licence — lawful for non-Muslims, yet running alongside an Islamic-law prohibition on gambling for Muslims — sits at the heart of Genting, one of Malaysia's largest home-grown conglomerates.

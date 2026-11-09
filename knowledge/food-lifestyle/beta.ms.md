@@ -87,6 +87,7 @@ verificationNeeded:
   - "Pengiktirafan MICHELIN dinyatakan sebagai semasa. Tahun edisi yang tepat adalah kabur merentasi sumber: artikel senarai pilihan penuh MICHELIN sendiri melabelkan senarai itu sebagai MICHELIN Guide Kuala Lumpur & Penang 2026 (majlis 11 November 2025), manakala sebahagian liputan sekunder merujuk kepada edisi '2027' yang diumumkan pada 4 November. Sahkan tahun edisi yang tepat dan tarikh pengumuman terhadap keluaran rasmi MICHELIN."
   - "Senarai pilihan MICHELIN Guide disemak semula setiap tahun; profil ini mencerminkan status yang ditunjukkan dalam penyenaraian semasa dan patut disemak semula selepas setiap edisi baharu."
   - "Penyenaraian MICHELIN tidak menamakan cef; liputan sekunder (The Star, Options The Edge) mengaitkan Beta dengan cef Raymond Tham — sahkan sebelum menyatakan nama itu."
+framework: profile
 ---
 
 Beta ialah sebuah restoran fine dining Malaysia moden di Jalan Perak di

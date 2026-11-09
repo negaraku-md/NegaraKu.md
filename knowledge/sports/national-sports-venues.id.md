@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 Ketika 85,500 penonton memenuhi lengkungan tiga tingkat TM Stadium Nasional pada malam final sepak bola, mereka sedang duduk di dalam simbol terbesar infrastruktur olahraga Malaysia — tetapi ia hanyalah satu dari beberapa gelanggang yang menanggung acara utama negara.

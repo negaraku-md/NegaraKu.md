@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 On the night of 31 August 1957, when the melody of Negaraku was played publicly for the first time at the Selangor Club Padang, that melody was nothing new. It had already been the state anthem of a Malay state for decades before that.

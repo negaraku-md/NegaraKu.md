@@ -86,6 +86,7 @@ verificationNeeded:
   - "Status daftar: sebuah artikel wisata MICHELIN 2024 melabeli BM Yam Rice sebagai MICHELIN Selected, sementara halaman restoran yang lebih baru menunjukkannya sebagai Bib Gourmand; predikat MICHELIN direvisi setiap tahun dan penghargaan ditampilkan sebagai ikon pada halaman daftar, jadi konfirmasikan status terkini terhadap guide.michelin.com sebelum mengutip."
   - "Tahun edisi: pers Malaysia merujuk pada edisi MICHELIN Guide Kuala Lumpur & Penang 2027 (dilaporkan diumumkan pada 4 November 2026), sementara edisi resmi terbaru yang dapat dikonfirmasi secara independen adalah 2026 — konfirmasikan edisi mana yang mendaftarkan kedai ini terhadap halaman seleksi resmi."
   - "Jam operasional berbeda antara halaman regional Guide untuk kedai ini (mis. hari buka/tutup berbeda) — konfirmasikan jadwal terkini di tempat sebelum berangkat."
+framework: profile
 ---
 
 Sebagian besar perhatian MICHELIN di Penang jatuh ke George Town, di seberang air.

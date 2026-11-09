@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["hiring-foreign-workers-malaysia"]
 keywords: ["رسم العامل الأجنبي ماليزيا", "foreign worker levy malaysia", "levi pekerja asing", "الرسم متعدد الطبقات", "multi tier levy", "mtlm", "معدلات الرسم حسب القطاع", "levi plks sabah sarawak"]
+framework: data-reference
 ---
 
 ابدأ بالأمر الذي يجعل بحث هذا الموضوع عسيراً: **لا يوجد صك باسم رسم العامل الأجنبي.**

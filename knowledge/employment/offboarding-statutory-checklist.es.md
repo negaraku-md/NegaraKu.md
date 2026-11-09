@@ -159,6 +159,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["lista de salida Malasia", "plazo CP22A", "formulario CP21 Malasia", "carta de finiquito fiscal SPC", "pago final Malasia", "lista de salida de empleado Malasia", "retención 90 días finiquito fiscal", "offboarding checklist malaysia", "CP22A deadline", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 La entrevista de salida es la parte que todo el mundo recuerda. Las presentaciones son la parte que genera multas, y una de ellas, el deber de retención por finiquito fiscal, es la razón por la que un responsable de nómina que liberó un salario final a tiempo y de buena fe puede acabar explicándolo ante LHDN.

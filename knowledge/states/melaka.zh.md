@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
+framework: profile
 ---
 
 马来西亚有九个州属拥有统治者（Raja）。马六甲并非其中之一——尽管它的名字，仍系着

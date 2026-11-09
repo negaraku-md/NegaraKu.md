@@ -78,6 +78,7 @@ verificationNeeded:
   - "作为马来西亚按资产计第六大银行集团的排名（The Edge Malaysia）——属位次性且随时间变动；对照当前同业资产负债表重新确认。"
   - "持股百分比（例如 ANZ 2024年前约21.7%的股权，以及公积金局（EPF）在 ANZ 2024年6月退出前后被报道约为14.33%，据 The Star）——股权会随配售与市场变动而变化；对照最新 Bursa Malaysia 大股东披露核实。"
   - "2025财政年净利约 RM2.0 billion（截至2025年3月31日止年度）——每一财政年对照 AMMB 经审计的业绩更新。"
+framework: profile
 ---
 
 如果你在马来西亚有银行账户，你很可能见过 AmBank 这个名字。其背后是 AMMB Holdings Berhad，这家在 Bursa Malaysia 上市的公司领军着该国较大的银行集团之一——它的故事从1970年代的 Arab-Malaysian 商人银行业务，经历一段长期的澳大利亚合作关系，直到一宗与1MDB丑闻挂钩的标志性2021年和解。

@@ -92,6 +92,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Seconde Urgence malaise", "Parti communiste de Malaya", "accord de paix de Hat Yai 1989", "Parti communiste du Kalimantan du Nord", "insurrection communiste du Sarawak", "Sri Aman", "Chin Peng", "embuscade de Kroh-Betong"]
+framework: history-culture
 ---
 
 La Malaisie déclara terminée sa première Urgence communiste le 31 juillet 1960 — puis dut composer avec une seconde insurrection pendant une grande partie des trois décennies suivantes. L'armée de guérilla que le gouvernement avait repoussée aux marges de la péninsule ne se dissolut pas lorsque les combats furent déclarés terminés. Elle se retira de l'autre côté de la frontière thaïlandaise, s'y regroupa et, huit ans plus tard, reprit ses opérations.

@@ -98,6 +98,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "requisito de capital Sdn Bhd de propiedad extranjera"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 Pregunte a diez proveedores malasios de servicios corporativos cuál es el capital desembolsado mínimo

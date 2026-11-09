@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 Lebuh Carnarvon의 숍하우스에 자리 잡은 Teksen은 조지타운에서 가장 믿을 만한 식탁

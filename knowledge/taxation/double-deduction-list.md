@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["double deduction Malaysia", "further deduction income tax", "P.U.(A) double deduction list", "tax incentive gazette order Malaysia", "twice the amount deduction"]
+framework: data-reference
 ---
 
 Nobody publishes this as a list, and that is why claims go wrong. A finance

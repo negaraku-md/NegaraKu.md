@@ -123,6 +123,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 The first idea every founder brings to Malaysian site selection is that moving out of the Klang Valley cuts the wage bill. The data says it does — and the law says most of the saving is not yours to take, because the floor and every contribution above it are set federally.

@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["entreprise individuelle", "perniagaan persendirian", "enregistrement SSM", "Registration of Businesses Act 1956", "enterprise Malaisie", "ezbiz"]
+framework: explainer
 ---
 
 Le stand mamak au coin de votre rue, le graphiste indépendant qui facture depuis un bureau à domicile, le pâtissier du week-end qui vend en ligne — la plupart d'entre eux sont la même créature juridique : une entreprise individuelle. C'est la façon la moins chère, la plus rapide et la plus courante de faire des affaires en Malaisie, et aussi celle qui vous expose le plus si les choses tournent mal.

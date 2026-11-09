@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "form-e-ea-cp8d-malaysia" }
 related: ["personal-tax-rates", "individual-tax-residence", "form-e-ea-cp8d-malaysia", "form-c-and-cp204"]
 keywords: ["which LHDN form", "Form BE vs Form B", "borang BE tarikh akhir", "Form M non-resident Malaysia", "LHDN filing deadline 2026", "e-Filing grace period Malaysia"]
+framework: data-reference
 ---
 
 决定你用哪份表格的有两件事：你依 s.7(1) 是否为**居民**，以及你有没有**商业收入**。

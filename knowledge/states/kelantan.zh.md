@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
+framework: profile
 ---
 
 马来西亚的经济故事通常围绕工厂展开。吉兰丹是最鲜明的例外：2025年，制造业仅

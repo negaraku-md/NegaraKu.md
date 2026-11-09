@@ -87,6 +87,7 @@ verificationNeeded:
   - "Seleksi MICHELIN Guide direvisi setiap tahun; pastikan 7 Chai Ipoh Hor Fun masih memegang Bib Gourmand-nya dalam edisi terbaru MICHELIN Guide Kuala Lumpur & Penang sebelum mengandalkannya."
   - "Pelabelan tahun edisi tidak konsisten di berbagai sumber — sebagian menyebut seleksi saat ini sebagai edisi 2027 sementara materi lain melabeli daftar terbaru sebagai 2026. Pastikan tahun edisi yang benar berdasarkan pengumuman resmi acara MICHELIN Guide."
   - "Tanggal pendirian dan sejarah restoran ini tidak diberikan dalam pencantuman MICHELIN dan tidak dikonfirmasi dari sumber primer."
+framework: profile
 ---
 
 7 Chai Ipoh Hor Fun adalah kedai mi yang kecil dan sederhana di kawasan Pandan

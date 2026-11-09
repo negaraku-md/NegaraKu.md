@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
 related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
+framework: history-culture
 ---
 
 1987年10月下旬に逮捕が始まった夜、閉ざされたのは独房の扉だけではなかった——数日のうちに三つの新聞が沈黙し、「茅草行動（Ops Lalang）」という言葉は、裁判なしの拘禁を指す略称としてマレーシアの政治的記憶に刻まれた。四十年近くを経た今もなお、それは論争の的であり続けている——それが何を防いだのか、何を封じたのか、そして国家がその市民に対してどのような権力を保持しうるかについて、それが何を物語るのか。

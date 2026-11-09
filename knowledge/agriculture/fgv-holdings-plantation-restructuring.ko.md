@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
+framework: profile
 ---
 
 2012년 그것은 시장의 총아였습니다 — 잠시 페이스북에 이어 세계 2위에 오른 초대형 상장이었습니다. 13년 후 같은 회사는 데뷔 가격의 일부에 부르사 말레이시아에서 조용히 빠져나갔으며, 바로 그것을 상장시켰던 그 기관이 되사들였습니다.

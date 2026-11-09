@@ -85,6 +85,7 @@ keywords:
   - "MSIC 2008"
   - "nature of business SSM"
   - "how to choose MSIC code"
+framework: data-reference
 ---
 
 Bạn sẽ dành khoảng chín mươi giây để chọn mã MSIC của mình, và mọi tổ chức bạn làm việc cùng trong

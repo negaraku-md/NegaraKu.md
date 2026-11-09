@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "餐厅线上米其林名录所显示的版本年份标签，可能与米其林颁奖礼报道中使用的「2026」有所不同；该星首次获颁于 2025 年版，并在 2026 年获得保留。评选每年修订——请在官方页面确认当前的荣誉。"
   - "Chef Thaninthorn 'Noom' Chantrawan 的全名由二手报道（The Star）证实，而非印在米其林名录正文中；米其林名录仅称其为「Chef Noom」。开业日期（2024）、营业时间与当前品鉴菜单形式应向餐厅确认。"
+framework: profile
 ---
 
 Chim by Chef Noom 是一家位于吉隆坡、持有一颗米其林星的泰式高级餐厅。它是泰国厨师

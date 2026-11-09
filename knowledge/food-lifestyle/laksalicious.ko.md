@@ -78,6 +78,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 laksa만큼 페낭을 말해 주는 요리는 드물고, Jalan Hutton에서는 한 작은 가게가 이 한

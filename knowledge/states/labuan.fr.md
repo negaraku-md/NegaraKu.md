@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
+framework: profile
 ---
 
 Deux entreprises, les mêmes propriétaires, les mêmes clients. L'une est constituée à Kuala

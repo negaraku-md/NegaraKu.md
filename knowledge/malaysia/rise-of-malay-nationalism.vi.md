@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 Trước khi có bất kỳ đảng dân tộc lớn nào, phong trào Mã Lai bắt đầu ở các hội trường trường học, trên trang báo, và trong các phòng họp của những hiệp hội cấp bang nhỏ bé. Giữa thập niên 1930 và cuối Thế chiến thứ Hai, chính những dòng chảy này dần dần hóa thành một sức mạnh chính trị mà, vào năm 1946, đã có thể hợp nhất người Mã Lai chống lại một chính sách của Anh.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["federal-state-division", "local-councils"]
 keywords: ["Indah Water Konsortium", "IWK", "caj pembetungan", "kumbahan Malaysia", "bil IWK", "nyahenapan tangki septik", "SPAN pembetungan", "sistem pembetungan Malaysia"]
+framework: profile
 ---
 
 ## 수도 공급이 아니라 — 파이프의 반대쪽 끝

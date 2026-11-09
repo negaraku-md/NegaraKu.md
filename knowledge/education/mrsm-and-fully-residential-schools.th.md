@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 สองชื่อมักปรากฏขึ้นเมื่อครอบครัวมาเลเซียพูดถึงโรงเรียนประจำ "ที่ดีที่สุด" สำหรับบุตร: MRSM และ SBP ทั้งสองเป็นวิทยาลัยประจำเต็มรูปแบบแบบคัดเลือก ทั้งสองแข่งขันกันอย่างเข้มข้นเพื่อชิงที่นั่ง — แต่บริหารโดยสองหน่วยงานที่ต่างกัน ภายใต้สองอาณัตินโยบายที่ต่างกัน

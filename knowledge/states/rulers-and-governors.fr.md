@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "État monarchique", "État sans Souverain", "Sultan de Malaisie", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "chef d'État de la Malaisie", "Majlis Raja-Raja", "Article 71 de la Constitution"]
+framework: explainer
 ---
 
 La Malaisie compte 13 États, mais seulement neuf trônes. Les quatre autres États

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 Mỗi khi đèn trong nhà bạn bật sáng ở Bán đảo, khả năng rất cao là dòng điện đó chảy qua dây của một công ty duy nhất: Tenaga Nasional Berhad. Đây là đơn vị tiện ích điện lớn nhất của đất nước, với hơn 11 triệu khách hàng ở Bán đảo Malaysia, Sabah và Labuan tính đến ngày 30 tháng 9 năm 2025.

@@ -67,6 +67,7 @@ relations:
   - { rel: "explained-in", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["قائمة MFRS ماليزيا", "MFRS list Malaysia", "تواريخ سريان MFRS", "قائمة أقسام MPERS", "فهرس معايير MASB", "معايير المحاسبة الماليزية"]
+framework: data-reference
 ---
 
 تنشر MASB معاييرها كمجموعة من صفحات PDF منفصلة خلف بوابة إقرار، مع تواريخ سريان

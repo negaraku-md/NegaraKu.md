@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 马来西亚可以在没有投下任何一张民众选票的情况下更换首相——因为这个职位并非由选民授予，而是由最高元首（Yang di-Pertuan Agong）授予任何被视为有能力集结下议院多数支持的人。正因如此，马来西亚在2018年至2022年间几度更换首相，而在这段期间中途没有任何一场新的大选来做出决定。

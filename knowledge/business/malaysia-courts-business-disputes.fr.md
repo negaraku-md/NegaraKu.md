@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["compétence du tribunal de session Malaisie", "plafond du tribunal des magistrats Malaisie", "compétence civile de la Haute Cour Malaisie", "quel tribunal pour poursuivre Malaisie", "délai de prescription contrat Malaisie", "appel du tribunal de session Malaisie"]
+framework: decision
 ---
 
 La décision du for se prend avant que quiconque ait regardé le fond. Déposez une réclamation de

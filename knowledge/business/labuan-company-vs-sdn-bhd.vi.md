@@ -152,6 +152,7 @@ keywords:
   - "Labuan trust company"
   - "syarikat Labuan"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 Labuan nhận được hai loại bài viết và cả hai đều vô dụng.

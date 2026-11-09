@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "climate-and-biodiversity" }
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
+framework: profile
 ---
 
 Sebelum ada Lebuhraya Pan Borneo atau penerbangan MASwings, cara satu-satunya untuk sampai ke pedalaman Sarawak ialah menyusuri sungai selama berhari-hari. Bandar-bandar besar hari ini — Sibu, Kapit, Sandakan, Pekan — bukan wujud secara kebetulan di lokasi masing-masing. Setiap satu duduk di tempat yang ditentukan oleh sungai: di muara, di simpang pertemuan dua sungai, atau di titik terjauh yang masih boleh dimudiki kapal. Tiga sungai — Rajang, Kinabatangan dan Pahang — menunjukkan corak ini paling jelas.

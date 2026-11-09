@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 Pada sore Sabtu di Lembah Klang, sebuah mega mal tunggal bisa menampung lebih banyak orang daripada sebagian kota kecil — dan banyak di antara mereka tidak berada di sana semata-mata untuk berbelanja. Pusat perbelanjaan Malaysia turut berperan sebagai alun-alun kota ber-AC: tempat untuk makan, menonton film, bermain seluncur es, salat di surau, dan membiarkan anak-anak berlari di taman tema dalam ruangan. Memahami ritel di sini berarti memahami rentang tersebut, dari pusat perbelanjaan raksasa hingga pasar malam terbuka.

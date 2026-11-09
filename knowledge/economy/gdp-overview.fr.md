@@ -52,6 +52,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["palm-oil-sector"]
 keywords: ["PIB de la Malaisie", "taille de l'économie malaisienne", "Malaysia GDP", "KDNK Malaysia", "croissance économique de la Malaisie"]
+framework: data-reference
 ---
 
 ## En un coup d'œil

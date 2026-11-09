@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 El DOSM no publica una cifra llamada «malasios». Publica a ciudadanos y no ciudadanos como dos recuentos separados, divide a los ciudadanos en cinco categorías étnicas con nombre y luego divide una de esas categorías —«Otros Bumiputera»— en grupos de Sabah y Sarawak reportados por separado, cada uno con sus propios subgrupos con nombre. La palabra «Bumiputera» en sí nunca aparece como una sola fila en las tablas de datos subyacentes del DOSM; es algo que se suma a partir de dos filas, malayo y Otros Bumiputera, después del hecho.

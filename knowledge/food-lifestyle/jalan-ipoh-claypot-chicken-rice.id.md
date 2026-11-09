@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "Tahun edisi MICHELIN yang tepat dilabeli secara tidak konsisten di berbagai sumber — halaman resmi tidak mencantumkan tahun, gerai ini pertama kali dianugerahi dalam edisi yang diumumkan November 2023 (panduan '2024'), sementara daftar Bib Gourmand Wikipedia kini menampilkan kolom '2027' sebagai yang terbaru. Seleksi direvisi setiap tahun; konfirmasikan status terkini di guide.michelin.com."
   - "Gerai ini membawa 'Jalan Ipoh' dalam namanya tetapi terletak di Taman Kok Lian; konfirmasikan kaitan historis apa pun dengan Jalan Ipoh sebelum menyatakannya. Jam buka dan hari tutup gerai kaki lima dapat berubah — konfirmasikan ulang sebelum berkunjung."
+framework: profile
 ---
 
 Terselip di Taman Kok Lian, di utara pusat Kuala Lumpur, sebuah gerai yang diberi

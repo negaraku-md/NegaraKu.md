@@ -110,6 +110,7 @@ keywords:
   - "LLP tax Malaysia"
   - "LLP audit requirement Malaysia"
   - "compliance officer LLP"
+framework: decision
 ---
 
 말레이시아 LLP에 관한 어떤 비교든 펼쳐보면, 그것이 "회사의 유한책임과 파트너십의 세무 투과성을 결합한다"고 적혀 있을 것입니다.

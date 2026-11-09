@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 Dua syarikat Malaysia mendahului bidang mereka di peringkat global. Satu ialah pengeluar sarung tangan pakai buang terbesar di dunia; satu lagi ialah pelebur aluminium primer terbesar di Asia Tenggara. Kedua-duanya bukan nama yang dikenali umum di luar kalangan pelaburan, namun Top Glove dan Press Metal menunjukkan bagaimana sebuah ekonomi bersaiz sederhana boleh melahirkan peneraju global sektor tunggal.

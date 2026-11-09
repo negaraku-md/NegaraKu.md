@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
+framework: profile
 ---
 
 மலேசியாவின் பொருளாதாரம் பொதுவாகத் தொழிற்சாலைகள் வழியாகவே விவரிக்கப்படுகிறது.

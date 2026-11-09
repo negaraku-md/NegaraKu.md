@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["ضريبة التقدير العقاري", "cukai pintu", "ضريبة الأرض", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "قانون الأراضي الوطني", "Kanun Tanah Negara", "الهيئة المحلية", "مكتب الأراضي"]
+framework: explainer
 ---
 
 يُفاجأ كثير من أصحاب المنازل الجدد بتلقّي فاتورة ثانية لم يتوقّعوها. فقد دفعوا بالفعل «ضريبة الأرض» هذه السنة — فلماذا يرسل المجلس البلدي إشعار مطالبة أيضاً؟

@@ -124,6 +124,7 @@ keywords:
   - "MD Cybercity Cybercentre"
   - "MD Location Recognition"
   - "Cyberview Sdn Bhd"
+framework: profile
 ---
 
 サイバージャヤ（Cyberjaya）と呼ばれるものには、二つの異なる実体がある。両者を混同することは、高くつく。

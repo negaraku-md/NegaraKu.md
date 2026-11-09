@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 Pada petang Sabtu di Lembah Klang, sebuah mega mall tunggal boleh menampung lebih ramai orang berbanding sesetengah pekan kecil — dan ramai antara mereka tidak berada di situ semata-mata untuk membeli-belah. Pusat beli-belah Malaysia turut berperanan sebagai dataran bandar berhawa dingin: tempat untuk makan, menonton wayang, bermain luncur ais, bersembahyang di surau, dan membiarkan anak-anak berlari di taman tema dalaman. Memahami runcit di sini bermakna memahami julat tersebut, daripada pusat beli-belah gergasi hinggalah pasar malam terbuka.

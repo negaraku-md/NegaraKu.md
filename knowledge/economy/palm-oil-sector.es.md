@@ -48,6 +48,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["gdp-overview"]
 keywords: ["aceite de palma de Malasia", "MPOB", "certificación MSPO", "exportaciones de aceite de palma de Malasia"]
+framework: data-reference
 ---
 
 ## De un vistazo

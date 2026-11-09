@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Malaysia(Kuala Lumpur & Penang) 선정은 매년 개정됩니다. 이 프로필은 2026년판을 반영합니다. 상은 매년 추가되거나 삭제될 수 있으므로, 최신판(2027년 선정이 형성 중)에서 빕 구르망이 여전히 유효한지 확인하십시오."
   - "영업일과 영업 시간은 현금만 받으며 가게가 정합니다. 방문 전에 현재의 영업 시간을 직접 확인하십시오."
+framework: profile
 ---
 
 asam laksa를 거의 시민적 집착으로 여기는 도시에서, 그것에 주어진 빕 구르망은

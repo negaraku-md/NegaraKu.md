@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "Klang Valley economy"]
+framework: profile
 ---
 
 雪兰莪是马来西亚经济默默运转所依靠的那个州属。它完全环绕着联邦首都吉隆坡与行政首都布城，三者共同构成巴生谷——全国最大的城市与工业连绵区。

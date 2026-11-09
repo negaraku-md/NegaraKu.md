@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["تصاريح العمل في ماليزيا", "تصريح الزيارة المهنية", "تصريح البُدّو الرقميين", "تصريح الإقامة للمواهب", "تصريح المُعال", "تصريح المستثمر", "malaysia work pass", "employment pass", "de rantau nomad pass", "residence pass talent"]
+framework: decision
 ---
 
 ليس ثمّة تأشيرة عمل ماليزية واحدة. فهناك ثمانية أو تسعة أدوات مختلفة، تديرها أربع جهات مختلفة، والذي تحتاجه يحدّده **مَن يدفع الراتب** — لا ما يُسمّى به العمل.

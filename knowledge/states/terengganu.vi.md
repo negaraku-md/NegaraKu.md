@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
+framework: profile
 ---
 
 Hai thứ nổi tiếng nhất về Terengganu nằm cách nhau khoảng 60 kilômét,

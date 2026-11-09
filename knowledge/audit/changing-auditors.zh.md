@@ -102,6 +102,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "The company and every officer commit an offence"
+framework: how-to
 ---
 
 没有人是为了中性的理由更换审计师的。要么费用变了、集团重组了、关系破裂了，

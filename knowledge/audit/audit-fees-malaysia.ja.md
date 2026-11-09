@@ -78,6 +78,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["audit fees Malaysia", "MIA audit fee schedule", "RPG 7 withdrawn", "audit fee table Malaysia", "minimum audit fee dormant company", "how much does an audit cost Malaysia"]
+framework: data-reference
 ---
 
 マレーシアの監査報酬を検索すると、係数表が示される——最初のRM100,000に対して1.000%、

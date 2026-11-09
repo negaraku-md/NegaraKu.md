@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
+framework: profile
 ---
 
 Kuala Lumpur là thủ đô của Malaysia, nhưng về mặt hiến pháp nó không phải là một

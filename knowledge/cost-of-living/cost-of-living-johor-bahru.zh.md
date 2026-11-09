@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
+framework: data-reference
 ---
 
 在马来西亚全国最低薪金（每月 RM1,700）下工作的一名员工，可能就住在两条街外

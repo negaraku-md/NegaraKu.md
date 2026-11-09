@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malaysia", "private entity definition MASB", "which accounting framework Malaysia", "MPERS eligibility", "MASB reporting framework"]
+framework: decision
 ---
 
 マレーシアの指針の多くは、この問いに「公益事業体」という語句で答える。しかし、その

@@ -168,6 +168,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["company tax deadline Malaysia", "Form C deadline", "CP204 due date", "Form E deadline", "LHDN filing programme 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 மலேசியாவின் கிட்டத்தட்ட ஒவ்வொரு வரிக் கடைசித் தேதியும் ஒரு **விதி**தான், ஒரு

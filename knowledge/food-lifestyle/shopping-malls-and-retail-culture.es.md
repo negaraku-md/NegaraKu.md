@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["centros comerciales Malasia", "cultura del comercio minorista Malasia", "precios SST", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "megarrebajas Malasia"]
+framework: data-reference
 ---
 
 Un sábado por la tarde en el valle de Klang, un solo megacentro comercial puede albergar a más gente que algunos pueblos pequeños — y muchos de ellos no están allí solo para comprar. Los centros comerciales malasios funcionan también como plazas de pueblo climatizadas: lugares para comer, ver una película, patinar sobre hielo, rezar en un surau y dejar que los niños corran por un parque temático cubierto. Entender el comercio minorista aquí significa entender ese abanico, desde el gigantesco centro comercial hasta el mercado nocturno al aire libre.

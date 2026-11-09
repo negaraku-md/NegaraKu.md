@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 マレーシア半島部がテナガ・ナショナル・ベルハッド（Tenaga Nasional Berhad、TNB）に依存する一方、サラワクは国家電力網と一切接続されていない独自の電力会社によって自らの灯りをともしている——そしてその電力のほぼすべては、内陸部の巨大ダムの落水によって生み出されている。

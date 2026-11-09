@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 Ketika Semenanjung Malaysia bergantung pada Tenaga Nasional Berhad, Sarawak menyalakan lampunya sendiri melalui satu utiliti yang gridnya langsung tidak bersambung dengan grid negara — dan hampir keseluruhannya dijana oleh air terjun empangan raksasa di pedalaman.

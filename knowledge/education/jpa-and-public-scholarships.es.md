@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 Obtener 9A+ en el SPM no garantiza automáticamente una beca completa en el extranjero — porque en Malasia, el patrocinio público no se trata solo de las notas, sino también de a qué programa se postula, las condiciones de servicio asociadas, y la política que rige cada fondo. Comprender este mapa de patrocinadores importa, porque la elección equivocada puede significar miles de ringgit que usted tenga que devolver más adelante.

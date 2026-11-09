@@ -130,6 +130,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 เขตการค้าเสรีดิจิทัลเป็นกรณีที่ชัดเจนที่สุดในงานเขียนธุรกิจมาเลเซียของประกาศเปิดตัวที่อยู่ยืนยาวกว่าสิ่งใดที่ยืนยันได้เกี่ยวกับมัน

@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["phases MyInvois", "date de mise en œuvre facture électronique Malaisie", "exonération facture électronique RM1 million", "période d'assouplissement facture électronique", "calendrier facture électronique LHDN", "tarikh pelaksanaan e-invois"]
+framework: data-reference
 ---
 
 Deux chiffres décident de tout : votre chiffre d'affaires du FY2022, qui fixe votre phase de façon permanente, et RM1,000,000, en dessous duquel vous êtes hors du système entièrement. Tout le reste de cette page n'est que détail.

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "Johor Bahru salary vs Singapore"]
+framework: data-reference
 ---
 
 คนงานที่ได้รับค่าจ้างขั้นต่ำระดับชาติเต็มของมาเลเซีย RM1,700 ต่อเดือน สามารถอาศัยห่างจากเพื่อนบ้านเพียงสองถนนที่ได้รับเทียบเท่า RM4,000 หรือมากกว่าสำหรับงานหนึ่งวันที่คล้ายคลึงกัน — เมืองเดียวกัน ตลาดสดเดียวกัน ค่าเช่าเดียวกันสำหรับห้องข้าง ๆ ไม่มีอะไรเกี่ยวกับเศรษฐกิจของยะโฮร์บาห์รู (Johor Bahru) เองที่อธิบายช่องว่างนั้น เพื่อนบ้านได้รับค่าจ้างเป็นดอลลาร์สิงคโปร์

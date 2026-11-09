@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["federal-state-division", "local-councils"]
 keywords: ["Indah Water Konsortium", "IWK", "मल-जल शुल्क", "मलेशिया मल-जल", "IWK बिल", "सेप्टिक टैंक गाद-निष्कासन", "SPAN मल-जल", "मलेशिया मल-जल प्रणाली"]
+framework: profile
 ---
 
 ## जल आपूर्ति नहीं — पाइप का दूसरा छोर

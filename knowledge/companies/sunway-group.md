@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 Sunway Group turns land into whole townships — homes, malls, hospitals, universities and theme parks on one master plan — then keeps operating what it builds.

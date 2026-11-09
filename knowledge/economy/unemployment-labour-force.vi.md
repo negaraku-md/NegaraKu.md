@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["gdp-overview", "inflation-cpi"]
 keywords: ["Malaysia unemployment rate", "kadar pengangguran Malaysia", "Malaysia labour force", "tenaga buruh Malaysia", "Malaysia job market"]
+framework: data-reference
 ---
 
 ## Tổng quan nhanh

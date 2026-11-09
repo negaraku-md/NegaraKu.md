@@ -131,6 +131,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 La Zone numérique de libre-échange est le cas le plus net, dans l'écriture économique

@@ -81,6 +81,7 @@ keywords:
   - "gantian Borang 9 SSM"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 Separuh daripada kekeliruan dalam pentadbiran syarikat di Malaysia berpunca daripada

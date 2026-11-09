@@ -86,6 +86,7 @@ verificationNeeded:
   - "Las selecciones de la MICHELIN Guide se revisan anualmente; este perfil refleja el estado que muestra la ficha actual y debería volver a comprobarse tras cada nueva edición."
   - "La dirección del restaurante se recoge de forma inconsistente entre las fuentes (44 Persiaran Zaaba, TTDI en la ficha actual de MICHELIN; una ficha más antigua daba una dirección en Jalan Sultan / KLCC); confirme la ubicación actual."
   - "La ficha de MICHELIN se refiere a 'the eponymous chef' en lugar de nombrarlo; el chef-propietario Darren Chin está documentado en la cobertura secundaria (formado en Le Cordon Bleu de París); confirme cualquier dato biográfico adicional con fuentes primarias."
+framework: profile
 ---
 
 DC. by Darren Chin es un restaurante de alta cocina francesa contemporánea en

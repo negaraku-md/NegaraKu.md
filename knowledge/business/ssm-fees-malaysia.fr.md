@@ -89,6 +89,7 @@ keywords:
   - "LLP registration fee"
   - "table des frais SSM 2026"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 Trois annexes de frais distinctes, trois lois distinctes, et aucune page unique sur le site de SSM

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "socso-eis-employer-guide" }
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["employee vs contractor malaysia", "independent contractor malaysia", "worker classification malaysia", "contract for service vs contract of service", "gig worker malaysia classification"]
+framework: explainer
 ---
 
 31 March 2026 வரை இது மலேசியாவில் ஒரு இருமைக் கேள்வியாக இருந்தது: பணி ஒப்பந்தம் (contract **of** service), அல்லது சேவை ஒப்பந்தம் (contract **for** service). Gig Workers Act 2025, தனது சொந்த சட்டம், சொந்த தீர்ப்பாயம் மற்றும் சொந்தக் கழிப்புடன் ஒரு மூன்றாவது அந்தஸ்தை உருவாக்கியதன் மூலம் — மேலும் அந்த அந்தஸ்தை **எதிர்மறையாக** வரையறுத்ததன் மூலம் — இந்தச் சிக்கலின் வடிவத்தையே மாற்றியது; இதனால், நீங்கள் ஏற்கனவே தவறாகச் செய்துகொண்டிருந்த வகைப்படுத்தல் கேள்வி இப்போது முதலில் பதிலளிக்கப்பட வேண்டியதாகிவிட்டது.

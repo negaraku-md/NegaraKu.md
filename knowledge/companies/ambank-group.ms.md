@@ -78,6 +78,7 @@ verificationNeeded:
   - "Kedudukan sebagai kumpulan perbankan keenam terbesar Malaysia mengikut aset (The Edge Malaysia) — bersifat kedudukan dan berubah dari semasa ke semasa; sahkan semula dengan kunci kira-kira rakan setara semasa."
   - "Peratusan pegangan saham (cth. pegangan ANZ kira-kira 21.7% sebelum 2024, dan Kumpulan Wang Simpanan Pekerja dilaporkan pada kira-kira 14.33% sekitar kali keluar ANZ pada Jun 2024, menurut The Star) — pegangan berubah dengan penempatan dan pergerakan pasaran; sahkan dengan pendedahan pemegang saham utama Bursa Malaysia yang terkini."
   - "Keuntungan bersih TK2025 kira-kira RM2.0 bilion (tahun berakhir 31 Mac 2025) — kemas kini setiap tahun kewangan dengan keputusan AMMB yang telah diaudit."
+framework: profile
 ---
 
 Jika anda berurusan dengan bank di Malaysia, besar kemungkinan anda pernah melihat nama AmBank. Di sebaliknya terletak AMMB Holdings Berhad, syarikat tersenarai di Bursa Malaysia yang mengetuai salah satu kumpulan perbankan yang lebih besar di negara ini — dan kisahnya terbentang daripada perbankan saudagar Arab-Malaysian era 1970-an, menerusi perkongsian Australia yang panjang, sehingga kepada penyelesaian penting pada 2021 yang berkait dengan skandal 1MDB.

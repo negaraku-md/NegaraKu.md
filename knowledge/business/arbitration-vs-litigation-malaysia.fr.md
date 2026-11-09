@@ -85,6 +85,7 @@ keywords:
   - "AIAC arbitration rules 2026"
   - "arbitration clause Malaysia drafting"
   - "setting aside arbitral award Malaysia section 37"
+framework: decision
 ---
 
 La clause d'arbitrage est souvent la dernière négociée et la première qui compte

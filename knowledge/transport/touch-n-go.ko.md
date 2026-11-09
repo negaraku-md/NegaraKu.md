@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
+framework: explainer
 ---
 
 많은 사람들이 터치 앤 고(Touch 'n Go) 카드를 지갑에, 터치 앤 고 e월렛 앱을

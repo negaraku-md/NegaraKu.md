@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["bidang kuasa Mahkamah Sesyen Malaysia", "had Mahkamah Majistret Malaysia", "bidang kuasa sivil Mahkamah Tinggi Malaysia", "mahkamah mana untuk menyaman Malaysia", "tempoh had masa tuntutan kontrak Malaysia", "rayuan daripada Mahkamah Sesyen Malaysia"]
+framework: decision
 ---
 
 Keputusan forum dibuat sebelum siapa pun meneliti merit kasus. Ajukan gugatan RM1.2

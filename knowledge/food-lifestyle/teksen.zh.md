@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 坐落于 Lebuh Carnarvon 一间店屋之内，Teksen 是乔治市最可靠的餐桌之一——一个朴素

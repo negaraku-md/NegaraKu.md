@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "socso-eis-employer-guide" }
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["employee vs contractor malaysia", "independent contractor malaysia", "worker classification malaysia", "contract for service vs contract of service", "gig worker malaysia classification"]
+framework: explainer
 ---
 
 จนถึงวันที่ 31 มีนาคม 2026 นี่เคยเป็นคำถามสองทางในมาเลเซีย: สัญญาจ้าง**แรงงาน** (contract of service) หรือสัญญาจ้าง**ทำของ** (contract for service) พระราชบัญญัติแรงงานกิ๊ก 2025 (Gig Workers Act 2025) ได้เปลี่ยนรูปร่างของปัญหาด้วยการสร้างสถานะที่สามที่มีกฎหมายของตัวเอง มีคณะกรรมการวินิจฉัยของตัวเอง และมีการหักเงินของตัวเอง — และด้วยการนิยามสถานะนั้นในเชิง **ปฏิเสธ** ดังนั้นคำถามการจัดประเภทที่คุณตอบผิดอยู่แล้วจึงต้องได้รับคำตอบก่อน

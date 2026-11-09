@@ -86,6 +86,7 @@ verificationNeeded:
   - "PERBEDAAN: sebuah ringkasan profil melabeli Potager sebagai restoran 「satu bintang MICHELIN」, tetapi daftar lengkap resmi MICHELIN Guide Kuala Lumpur & Penang 2026 menempatkannya dalam kategori 「Selected」, BUKAN di antara restoran bintang satu. Artikel ini mengikuti daftar resmi. Konfirmasikan kembali tingkat terkini pada halaman resmi, karena ikon daftar restoran itu sendiri dapat disalahartikan sebagai bintang."
   - "Atribusi koki: 「Chef Masashi」 muncul di keterangan foto pada daftar MICHELIN dan nama keluarga Horiuchi dikonfirmasi oleh pemberitaan sekunder (Options/The Edge), tetapi tidak dicetak dalam teks utama daftar MICHELIN — konfirmasikan dengan situs restoran itu sendiri."
   - "Label tahun edisi pada daftar MICHELIN langsung mungkin berbeda dari '2026' yang digunakan dalam liputan upacara MICHELIN; seleksi direvisi setiap tahun. Jam buka dan harga juga berubah — konfirmasikan dengan restoran."
+framework: profile
 ---
 
 Potager adalah restoran Prancis kontemporer yang tersembunyi di Bamboo Hills,

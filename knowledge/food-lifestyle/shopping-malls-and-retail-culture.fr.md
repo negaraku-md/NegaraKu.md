@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["centres commerciaux Malaisie", "culture du commerce de détail Malaisie", "prix SST", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "méga soldes Malaisie"]
+framework: data-reference
 ---
 
 Un samedi après-midi dans la vallée de Klang, un seul méga centre commercial peut accueillir plus de monde que certaines petites villes — et beaucoup ne sont pas là uniquement pour faire des courses. Les centres commerciaux malaisiens font aussi office de places de village climatisées : des lieux où manger, voir un film, patiner sur glace, prier dans un surau et laisser les enfants courir dans un parc à thème couvert. Comprendre le commerce de détail ici, c'est comprendre tout cet éventail, du gigantesque centre commercial au marché nocturne en plein air.

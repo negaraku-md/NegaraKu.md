@@ -80,6 +80,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["#PrawnMee", "#LohMee", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Jalan Burmaの、Restoran Old Green Houseとして知られるコーヒーショップの中で、夜間

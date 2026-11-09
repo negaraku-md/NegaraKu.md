@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 말레이시아 취업 비자는 없습니다. 여덟아홉 가지의 서로 다른 제도가 있으며, 네 개의 서로 다른 기관이 운영하고, 당신에게 필요한 것은 직무가 무엇으로 불리는지가 아니라 **누가 급여를 지급하는지**로 결정됩니다.

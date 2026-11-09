@@ -87,6 +87,7 @@ verificationNeeded:
   - "Tahun edisi MICHELIN Guide: profil ini tidak mengikat Bib Gourmand kepada satu edisi tunggal kerana pemilihan dinilai semula setiap tahun. Edisi terbaharu yang diterbitkan pada masa penulisan ialah MICHELIN Guide Kuala Lumpur & Penang 2026 — JANGAN nyatakan edisi 2027 sehingga MICHELIN menerbitkannya. Sahkan Nirwana masih memegang Bib Gourmand dalam edisi semasa di guide.michelin.com."
   - "Hubungan antara penyenaraian MICHELIN 'Nirwana' dan penjenamaan/laman web 'Sri Nirwana Maju' (srinirwanamaju.com) — MICHELIN menamakan entri itu 'Nirwana' di 43 Jalan Telawi 3 tetapi memaut laman Sri Nirwana Maju. Sahkan kedua-duanya establismen yang sama dan nama dagangan semasa."
   - "Waktu buka (MICHELIN menyenaraikan 11:30–23:00 setiap hari) — sahkan dengan restoran sebelum menerbitkan panduan pelancongan."
+framework: profile
 ---
 
 Pesan set makan tengah hari di **Nirwana** dan ia tiba sebagaimana nasi daun

@@ -85,6 +85,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Malaysia(Kuala Lumpur & Penang) 선정은 매년 개정됩니다. 이 프로필은 2026년판을 반영합니다. 상은 매년 추가되거나 삭제될 수 있으므로, 최신판(2027년 선정이 형성 중)에서 빕 구르망이 여전히 유효한지 확인하십시오."
   - "2024년 MICHELIN Selected에서 빕 구르망으로의 승격은 MICHELIN 자체 발표에 따릅니다. 수상 연도가 중요하면 최신 가이드와 대조해 현재 상태를 확인하십시오."
+framework: profile
 ---
 
 프라나칸 요리는 손이 많이 가고 레시피는 엄격히 지켜지며 깊이 가정적입니다. 그래서

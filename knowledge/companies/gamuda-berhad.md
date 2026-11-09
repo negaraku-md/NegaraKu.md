@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
+framework: profile
 ---
 
 Gamuda started with a Malaysian expressway and grew into one of the region's biggest tunnelling and rail contractors. Today, a rising share of its work sits outside Malaysia.

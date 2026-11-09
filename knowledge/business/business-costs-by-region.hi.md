@@ -111,6 +111,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["मलेशिया राज्य-अनुसार व्यवसाय लागत", "business costs malaysia by state", "मलेशिया औद्योगिक बिजली दर", "electricity tariff malaysia industrial", "सरवाक बिजली दर", "sarawak electricity tariff", "गैर-घरेलू जल दर", "water tariff malaysia non domestic", "नगर-परिषद लाइसेंस शुल्क", "नियोक्ता EPF SOCSO लागत", "मलेशिया औद्योगिक किराया"]
+framework: data-reference
 ---
 
 मलेशिया के लिए अधिकांश स्थान-तुलनाएँ उन आँकड़ों पर बनी होती हैं जिन्हें किसी ने प्रकाशित ही नहीं किया। राज्य-अनुसार प्रति वर्ग फुट औद्योगिक किराया, «विशिष्ट» उपयोगिता-बिल, पेनांग और केलंतान के बीच वेतन-अंतर — यह सब घूमता रहता है, पर इसमें से लगभग कुछ भी किसी सरकारी स्रोत तक नहीं पहुँचता।

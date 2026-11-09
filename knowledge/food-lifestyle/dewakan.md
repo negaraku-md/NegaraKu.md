@@ -88,6 +88,7 @@ verificationNeeded:
   - "MICHELIN recognition is stated as current. The exact edition year is ambiguous across sources: MICHELIN's own full-selection article labels the list the MICHELIN Guide Kuala Lumpur & Penang 2026 (ceremony 11 November 2025), while some secondary coverage refers to a '2027' edition announced on 4 November. Confirm the precise edition year and announcement date against MICHELIN's official release."
   - "MICHELIN Guide selections are revised annually; this profile reflects the status shown in the current listing and should be re-checked after each new edition."
   - "The MICHELIN main listing did not display a Green Star badge at the time of writing, though MICHELIN's related text and secondary coverage describe Dewakan as a Green Star restaurant (first awarded in the 2025 edition) — confirm the Green Star is shown in the current listing."
+framework: profile
 ---
 
 Dewakan sits on the 48th floor of Naza Tower in Kuala Lumpur's Platinum Park,

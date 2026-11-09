@@ -44,6 +44,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["i-saraan-epf-voluntary-contribution", "employment-act-1955"]
 keywords: ["EPF Malaysia", "KWSP", "Kumpulan Wang Simpanan Pekerja", "simpanan persaraan Malaysia"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Kumpulan Wang Simpanan Pekerja (KWSP) · **English:** Employees Provident Fund (EPF) · **中文:** 雇员公积金

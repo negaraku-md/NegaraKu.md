@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["stamp duty rates Malaysia", "First Schedule Stamp Act 1949", "property transfer stamp duty", "share transfer stamp duty 0.3%", "tenancy agreement stamp duty", "kadar duti setem"]
+framework: data-reference
 ---
 
 முத்திரை வரி **பரிவர்த்தனைகள் மீது அல்ல, ஆவணங்கள் மீது** விதிக்கப்படுகிறது.

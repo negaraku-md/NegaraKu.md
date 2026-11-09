@@ -89,6 +89,7 @@ verificationNeeded:
   - "MICHELIN의 인정은 현재 상태로 기술됩니다. 정확한 판(에디션) 연도는 출처마다 모호합니다. MICHELIN 자체의 전체 셀렉션 기사는 이 목록을 MICHELIN Guide Kuala Lumpur & Penang 2026(시상식 2025년 11월 11일)으로 표기하는 반면, 일부 2차 보도는 11월 4일 발표된 「2027」 판을 언급합니다. 정확한 판 연도와 발표일을 MICHELIN의 공식 발표와 대조해 확인하십시오."
   - "MICHELIN Guide의 셀렉션은 매년 개정됩니다. 이 프로필은 현재 등재에 표시된 상태를 반영하며, 새 판이 나올 때마다 재확인해야 합니다."
   - "집필 시점에 MICHELIN의 메인 등재에는 Green Star 배지가 표시되지 않았으나, MICHELIN의 관련 문구와 2차 보도는 Dewakan을 Green Star 레스토랑(2025년 판에서 최초 수여)으로 기술합니다——Green Star가 현재 등재에 표시되는지 확인하십시오."
+framework: profile
 ---
 
 Dewakan은 쿠알라룸푸르 Platinum Park의 Naza Tower 48층에 자리하며,

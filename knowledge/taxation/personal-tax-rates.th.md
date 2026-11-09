@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["personal income tax rate Malaysia", "kadar cukai individu", "tax bracket Malaysia", "LHDN tax rate table", "non-resident tax rate Malaysia 30", "individual tax rate YA2025"]
+framework: data-reference
 ---
 
 อัตราใช้กับ **เงินได้ที่ต้องเสียภาษี (chargeable income)** — เงินได้ขั้นต้นหักรายจ่ายที่หักได้ หักการหักลดหย่อนทุกรายการที่คุณมีคุณสมบัติ ไม่มีใครถูกเก็บภาษีจากเงินเดือน

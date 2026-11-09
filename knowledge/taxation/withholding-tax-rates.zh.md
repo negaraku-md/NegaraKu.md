@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["withholding tax rate Malaysia", "section 109B rate", "section 107A withholding tax", "CP37D", "withholding tax table Malaysia", "LHDN withholding tax"]
+framework: data-reference
 ---
 
 你需要的那个税率，几乎从来不在你正在读的那一条法条里。Section 109B 叫你按“at the rate

@@ -75,6 +75,7 @@ faq:
     a: Largely no — that pattern is mostly over. DOSM's Migration Survey Report, Malaysia, 2024 found 84.6% of intra-state moves were urban-to-urban, versus just 0.6% rural-to-urban. Most movers are already urban residents relocating to a different urban area. Once a country crosses roughly three-quarters urban, further change comes mainly from natural increase, boundary reclassification and urban-to-urban churn, not villages emptying out.
   - q: Where did most of Malaysia's urban growth concentrate?
     a: In the Klang Valley. At the 2020 Census, four adjoining districts — Kuala Lumpur (1,982,112), Petaling (2,298,130), Ulu Langat (1,400,461) and Klang (1,088,942) — together held about 6.77 million people, more than a fifth of the national population of 32.4 million. Selangor is now the most populous state with 6,994,423 people and is 95.8% urban, while Kelantan, at 44.1%, is the least urbanised state.
+framework: data-reference
 ---
 
 ## Three in four Malaysians now live somewhere DOSM calls "urban"

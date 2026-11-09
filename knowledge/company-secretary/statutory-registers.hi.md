@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["वैधानिक रजिस्टर मलेशिया", "कंपनी रजिस्टर चेकलिस्ट", "daftar berkanun syarikat", "सदस्यों और निदेशकों का रजिस्टर", "SSM कंपनी अभिलेख", "Companies Act 2016 रजिस्टर", "statutory registers Malaysia"]
+framework: how-to
 ---
 
 वैधानिक रजिस्टर वह कागज़ी कार्रवाई हैं जिनके बारे में कोई तब तक नहीं सोचता जब तक कोई

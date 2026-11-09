@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
+framework: explainer
 ---
 
 两个住宅区可能长得一模一样——砖砌岗亭、条纹路障、穿制服的保安查看你的贴纸。其中一个站在稳固的法律基础上。另一个之所以存在，只是因为还没有人挑战过它。

@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
+framework: profile
 ---
 
 ซาราวักคือมาเลเซียในคีย์ที่ต่างออกไป มันเป็นรัฐที่ใหญ่ที่สุดในสหพันธรัฐเมื่อวัดจากพื้นที่อย่างมาก ตั้งอยู่บนเกาะบอร์เนียวมากกว่าบนคาบสมุทร และมีสถานะทางรัฐธรรมนูญเฉพาะตัวที่ทำให้แตกต่างจากทุกรัฐบนคาบสมุทร

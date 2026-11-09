@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["gdp-overview", "inflation-cpi"]
 keywords: ["Malaysia unemployment rate", "معدل البطالة في ماليزيا", "Malaysia labour force", "القوة العاملة في ماليزيا", "Malaysia job market", "سوق العمل الماليزي"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

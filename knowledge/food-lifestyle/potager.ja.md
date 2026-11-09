@@ -86,6 +86,7 @@ verificationNeeded:
   - "区別：あるプロフィール要約は Potager を「一つ星 MICHELIN」のレストランと表示しましたが、公式の MICHELIN Guide Kuala Lumpur & Penang 2026 の完全リストは、一つ星レストランの中ではなく「Selected」カテゴリーに位置づけています。本記事は公式リストに従います。レストラン自身のリストアイコンが星と誤認されうるため、現在の評価を公式ページで再確認してください。"
   - "シェフの帰属：「Chef Masashi」は MICHELIN リストの写真キャプションに登場し、姓の Horiuchi は二次報道（Options/The Edge）によって確認されていますが、MICHELIN リストの本文には印刷されていません——レストラン自身のサイトで確認してください。"
   - "ライブの MICHELIN リストに表示される版の年号ラベルは、MICHELIN の式典報道で用いられた「2026」と異なる場合があります。セレクションは毎年見直されます。営業時間や価格も変わります——レストランに確認してください。"
+framework: profile
 ---
 
 Potager は、クアラルンプール・スガンブット（Segambut）地区の DUKE ハイウェイ

@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
+framework: profile
 ---
 
 MISC Berhad là cánh tay hàng hải của nền kinh tế năng lượng Malaysia — tập đoàn vận chuyển khí và dầu của đất nước qua các đại dương trên thế giới.

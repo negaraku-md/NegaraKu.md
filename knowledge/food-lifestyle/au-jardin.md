@@ -85,6 +85,7 @@ social:
 verificationNeeded:
   - "The edition-year label on the restaurant's live MICHELIN listing may differ from the '2026' used in MICHELIN's ceremony coverage; the star was first awarded in the inaugural 2022 selection and retained since. Selections are revised annually — confirm the current distinction on the official page."
   - "Chef-proprietor Kim Hock Su is also written 'Su Kim Hock'; the MICHELIN listing gives little biographical detail. Opening hours vary between listing versions and menus change monthly — confirm current hours, pricing and the tasting-menu format with the restaurant."
+framework: profile
 ---
 
 Au Jardin is a one-MICHELIN-star restaurant in George Town, Penang, serving

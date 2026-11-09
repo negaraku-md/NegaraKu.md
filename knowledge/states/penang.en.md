@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang electronics", "silicon valley of the east"]
+framework: profile
 ---
 
 Penang punches well above its size. It is one of Malaysia's smallest states by land

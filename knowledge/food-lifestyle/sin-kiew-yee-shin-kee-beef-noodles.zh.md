@@ -89,6 +89,7 @@ verificationNeeded:
   - "MICHELIN Guide 的甄选每年修订；在依赖此资讯前，请先确认 Sin Kiew Yee Shin Kee 在最新一版 MICHELIN Guide Kuala Lumpur & Penang 中仍持有 Bib Gourmand。"
   - "各来源对版本年份的标示并不一致——有的将当前甄选称为 2027 年版，另一些资料则把最新名单标为 2026 年。请对照 MICHELIN Guide 官方颁奖典礼公告，确认正确的版本年份。"
   - "1949 年的创立日期来自 MICHELIN 条目的摘要；二手的餐厅名录网站加以重复，但并未找到第一手的历史来源。"
+framework: profile
 ---
 
 Sin Kiew Yee Shin Kee Beef Noodles 是吉隆坡老城中心一家资深的面食小店，也是

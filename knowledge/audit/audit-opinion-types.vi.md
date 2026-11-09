@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["audit opinion types Malaysia", "qualified opinion Malaysia", "adverse opinion", "disclaimer of opinion", "ISA 705 pervasive", "modified audit opinion Sdn Bhd"]
+framework: explainer
 ---
 
 Mọi trang cạnh tranh đều liệt kê bốn loại ý kiến và định nghĩa mỗi loại trong một câu. Không một trang nào cho bạn biết bạn sẽ nhận được loại nào, vì đó không phải là một câu hỏi về mức độ nghiêm trọng. Đó là một quyết định hai biến số, và ISA 705 (Bản sửa đổi) trình bày nó dưới dạng một lưới.

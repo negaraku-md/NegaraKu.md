@@ -83,6 +83,7 @@ verificationNeeded:
   - "Năm của ấn bản MICHELIN Guide: Bib Gourmand được đánh giá lại hằng năm và hồ sơ này không gắn nó với một ấn bản duy nhất. Ấn bản mới nhất được công bố tại thời điểm viết là MICHELIN Guide Kuala Lumpur & Penang 2026 — KHÔNG nêu ấn bản 2027 cho đến khi MICHELIN công bố. Hãy xác nhận tiệm vẫn nắm giữ Bib Gourmand trong ấn bản hiện hành tại guide.michelin.com."
   - "Chi tiết thành lập và kế thừa: MICHELIN cho biết nghề này truy về năm 1933 và bếp hiện nay do bà Teoh Kheng Sim (con dâu của người sáng lập Moh Teng Pheow) cùng các con điều hành; một câu chuyện nguồn gốc được lặp lại nhiều về 'người sáng lập nhập cư 14 tuổi' chưa được kiểm chứng. Hãy xác nhận lịch sử gia đình với một nguồn sơ cấp hoặc nguồn di sản trước khi mở rộng."
   - "Giờ mở cửa (MICHELIN ghi 10:00–17:00 hằng ngày) — hãy xác minh, vì các tiệm kueh thường đóng sớm một khi hàng bán hết."
+framework: profile
 ---
 
 Men theo Jalan Masjid cạnh Lebuh Chulia, bạn sẽ đến một gian bếp kueh vẫn đang

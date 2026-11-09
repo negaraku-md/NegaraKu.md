@@ -188,6 +188,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["kalendar pematuhan Sdn Bhd", "tarikh akhir SSM Malaysia", "tarikh akhir pemfailan syarikat Malaysia", "tarikh akhir penyata tahunan", "notis 14 hari SSM", "tarikh akhir Akta Syarikat 2016"]
+framework: how-to
 ---
 
 Sebab syarikat di Malaysia memfailkan lewat jarang sekali kerana kecuaian. Ia

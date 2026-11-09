@@ -110,6 +110,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 மலேசியாவுக்கான பெரும்பாலான இட ஒப்பீடுகள் யாரும் வெளியிடாத எண்களின் மேல் கட்டமைக்கப்பட்டுள்ளன. மாநில வாரியாக ஒரு சதுர அடிக்கான தொழிற்துறை வாடகை, "வழக்கமான" பயன்பாட்டு பில்கள், Penang-க்கும் Kelantan-க்கும் இடையிலான ஊதிய வேறுபாடு — இவை அனைத்தும் புழக்கத்தில் உள்ளன, இவற்றில் எதுவுமே ஏறக்குறைய ஒரு அரசாங்க மூலத்திற்குக் கண்டறியப்படுவதில்லை.

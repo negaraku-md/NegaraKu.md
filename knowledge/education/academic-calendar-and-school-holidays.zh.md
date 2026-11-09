@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
+framework: data-reference
 ---
 
 在年初筹划家庭旅行时，你会很快察觉到一件事：住在吉兰丹的邻居家孩子比你在雪兰莪的孩子早一天开学。这并不是弄错了——这正是马来西亚学校校历的设计方式。

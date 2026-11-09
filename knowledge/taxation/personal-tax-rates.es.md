@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["tipo del impuesto sobre la renta personal Malasia", "personal income tax rate Malaysia", "kadar cukai individu", "tramo impositivo Malasia", "tabla de tipos LHDN", "tipo impositivo no residente Malasia 30", "tipo impositivo individual YA2025"]
+framework: data-reference
 ---
 
 Los tipos se aplican a la **renta imponible** — la renta bruta menos los gastos

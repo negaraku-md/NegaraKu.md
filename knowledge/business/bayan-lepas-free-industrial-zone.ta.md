@@ -118,6 +118,7 @@ keywords:
   - "Free Zones Act 1990"
   - "Penang FIZ customs"
   - "zon perindustrian bebas"
+framework: profile
 ---
 
 Bayan Lepas தடையற்ற தொழில் மண்டலம் பற்றி வெளியிடப்பட்ட விளக்கங்கள் ஏறத்தாழ அனைத்தும் இப்போது காலாவதியாகிவிட்டன,

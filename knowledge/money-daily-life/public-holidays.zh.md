@@ -70,6 +70,7 @@ keywords:
   - "Public Holidays Ordinance Sarawak"
   - "Pesta Kaamatan"
   - "Hari Gawai"
+framework: explainer
 ---
 
 哥打京那巴鲁的一名员工，可以为了五月底的 [Pesta Kaamatan](/arts-culture/kaamatan) 连续放假两天，而他在马六甲的同事，却完全不把那一天当作假日。古晋的另一名员工在 6 月 1 日为 Gawai 停工，但他母公司在吉隆坡总部的日历上，那一天却什么标记都没有。这不是人力资源部门的疏忽。它是写进法律里的。

@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["राष्ट्रीय विरासत भोजन", "makanan warisan kebangsaan", "मलेशिया नाश्ता-संस्कृति UNESCO", "bak kut teh राष्ट्रीय विरासत", "राष्ट्रीय विरासत अधिनियम 2005", "National Heritage Act 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 आज सुबह आपने जो nasi lemak खाया, वह अब आधिकारिक रूप से दो अलग-अलग विरासत-रजिस्टरों में दर्ज है — एक पुत्रजया में, दूसरा पेरिस में। दोनों वास्तविक हैं, पर वे अलग-अलग निकायों द्वारा, अलग-अलग आधारों पर प्रदान किए जाते हैं, और अलग-अलग अर्थ रखते हैं।

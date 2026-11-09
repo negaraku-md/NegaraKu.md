@@ -108,6 +108,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "estado más pequeño de Malasia", "dinastía Jamalullail", "frontera Malasia Tailandia", "Padang Besar", "Chuping Valley"]
+framework: profile
 ---
 
 Hay una pregunta que casi todos los malasios han respondido mal en algún

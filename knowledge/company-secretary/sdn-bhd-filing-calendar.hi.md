@@ -188,6 +188,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["Sdn Bhd अनुपालन कैलेंडर", "SSM समय-सीमाएँ मलेशिया", "कंपनी दाखिली समय-सीमाएँ मलेशिया", "वार्षिक विवरणी समय-सीमा", "14 दिन में SSM को सूचना", "Sdn Bhd compliance calendar", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 मलेशियाई कंपनियाँ विलंब से दाखिल क्यों करती हैं, इसका कारण शायद ही कभी लापरवाही

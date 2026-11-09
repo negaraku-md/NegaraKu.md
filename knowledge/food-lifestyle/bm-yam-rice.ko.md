@@ -86,6 +86,7 @@ verificationNeeded:
   - "등재 상태: 2024년 MICHELIN 여행 기사는 BM Yam Rice를 MICHELIN Selected로 표기했으나, 이후의 레스토랑 페이지는 Bib Gourmand로 표시합니다. MICHELIN 등급은 매년 개정되며 상은 등재 페이지에 아이콘으로 표시되므로, 인용 전에 guide.michelin.com에서 현재 상태를 확인하세요."
   - "판본 연도: 말레이시아 언론은 MICHELIN Guide Kuala Lumpur & Penang 2027 판본(2026년 11월 4일 발표로 보도됨)을 언급하지만, 독립적으로 확인 가능한 최신 공식 판본은 2026입니다 — 어느 판본이 이 가게를 등재했는지 공식 선정 페이지에서 확인하세요."
   - "이 가게에 대해 Guide의 지역 페이지마다 영업시간이 다릅니다(예: 개점/휴무 요일이 다름) — 가기 전에 현재 일정을 현지에서 확인하세요."
+framework: profile
 ---
 
 페낭의 MICHELIN 주목은 대부분 물 건너 조지타운에 쏠립니다. BM Yam Rice는 본토 —

@@ -85,6 +85,7 @@ verificationNeeded:
   - "MICHELIN Guide 的精选名单每年修订；本篇简介反映当前名录所显示的状态，并应在每个新版本发布后重新查核。"
   - "MICHELIN 名录仅以「chef Low」称呼厨房主事者；一篇 MICHELIN 文章与次级报道称这位主厨兼东主的名字为 Aidan Low——在陈述其全名前请先核实。"
   - "Akar 首次获得 Star 的版本（当前精选名单将其列为「newly promoted」）应对照 MICHELIN 的记录核实。"
+framework: profile
 ---
 
 Akar 是一家位于 Taman Tun Dr Ismail（TTDI）的现代马来西亚 fine dining 餐厅，那是

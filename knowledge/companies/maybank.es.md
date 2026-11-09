@@ -77,6 +77,7 @@ verificationNeeded:
   - "Plantilla (~43.000) y número de sucursales (~2.600) — cambian con el tiempo."
   - "Porcentajes de participación de los fondos gestionados por PNB y el EPF — cambian con cada comunicación a Bursa Malaysia."
   - "Número de países de operación (los diez Estados de la ASEAN más los centros financieros globales) — puede cambiar."
+framework: profile
 ---
 
 Abre una cuenta corriente casi en cualquier lugar de Malasia y hay muchas probabilidades de que lleve el logotipo de la cabeza de tigre de Maybank. Malayan Banking Berhad es el mayor banco del país — por los activos de su balance y por lo que el mercado bursátil dice que vale — y uno de los mayores grupos bancarios del Sudeste Asiático. Este perfil expone qué hace el grupo, dónde opera y quién es su propietario.

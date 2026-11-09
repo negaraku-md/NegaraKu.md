@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
+framework: profile
 ---
 
 2024年，电气、电子与光学产品占吉打制造业增加值的51.1%。稻米则是该州GDP中

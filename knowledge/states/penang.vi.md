@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
+framework: profile
 ---
 
 Penang có tầm ảnh hưởng lớn hơn nhiều so với kích thước của nó. Nó là một trong những

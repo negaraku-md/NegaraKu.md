@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["لابوان", "Labuan", "مركز لابوان الدولي للأعمال والمال", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "إقليم اتحادي", "federal territory", "شركة لابوان", "Labuan company", "ضريبة 3%", "3% tax"]
+framework: profile
 ---
 
 شركتان، المالكون أنفسهم، والعملاء أنفسهم. إحداهما مؤسَّسة في كوالالمبور وتدفع ضريبة

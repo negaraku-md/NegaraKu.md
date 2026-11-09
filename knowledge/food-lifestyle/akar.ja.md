@@ -85,6 +85,7 @@ verificationNeeded:
   - "MICHELIN Guide のセレクションは毎年改定されます。本プロフィールは現行の掲載に示された状態を反映しており、新しい版ごとに再確認すべきです。"
   - "MICHELIN の掲載は厨房の責任者を「chef Low」とだけ記しています。ある MICHELIN 記事と二次的報道は、オーナーシェフの名を Aidan Low と伝えています——氏名を明記する前にフルネームを確認してください。"
   - "Akar が初めて Star を得た版（現行セレクションは「newly promoted」と掲載）は、MICHELIN の記録と照合して確認すべきです。"
+framework: profile
 ---
 
 Akar は、クアラルンプール西側の住宅地 Taman Tun Dr Ismail（TTDI）にある現代

@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 マレーシア統計局（Department of Statistics Malaysia、DOSM）は「マレーシア人」と呼ばれる単一の数字を公表しているわけではない。公民と非公民を二つの別個の集計として公表し、公民をさらに五つの名称付き民族カテゴリーに分け、そのうちの一つ——「その他のブミプトラ」——を、別々に報告されるサバとサラワクの両集団に分けており、それぞれにさらに独自の名称付き下位集団が存在する。「ブミプトラ」という語自体は、DOSMの基礎となるデータ表の中で単独の一行として現れることは一度もない。それは、マレー人とその他のブミプトラという二つの行を事後的に合算したものである。

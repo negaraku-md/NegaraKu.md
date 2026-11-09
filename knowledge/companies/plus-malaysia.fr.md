@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "kwsp" }
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
+framework: profile
 ---
 
 Chaque fois que vous roulez de Bukit Kayu Hitam, au nord, jusqu'à Johor Bahru, au sud, sans vous arrêter à un feu de circulation, vous voyagez en réalité sur les actifs d'une seule entreprise : PLUS Malaysia Berhad. Ce n'est pas une agence gouvernementale, mais ce n'est pas non plus une entreprise privée ordinaire : c'est un concessionnaire qui exploite l'épine dorsale routière du pays en vertu d'un accord à long terme avec le gouvernement.

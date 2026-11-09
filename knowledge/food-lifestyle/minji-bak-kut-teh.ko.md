@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "정확한 MICHELIN 판본 연도는 자료마다 표기가 일치하지 않습니다 — 공식 페이지에는 연도가 없고, 이전 주기의 언론 보도는 '2026' MICHELIN Guide Kuala Lumpur & Penang를 언급했으며, Wikipedia의 Bib Gourmand 목록은 Minji를 '2027' 열에만 표시해 최근 진입자임을 시사합니다. 선정은 매년 개정됩니다. 현재 상태와 수상 연도는 guide.michelin.com에서 확인하세요."
   - "MICHELIN 등재 외에 Minji에 대한 독립 보도는 드뭅니다. 영업시간, 정확한 창업 연도, 소유주 세부 사항은 사실로 서술하기 전에 레스토랑에 확인해야 합니다."
+framework: profile
 ---
 
 푸두의 Jalan Sungai Besi, 쿠알라룸푸르 중심부에서 멀지 않은 곳에서, Minji는 이

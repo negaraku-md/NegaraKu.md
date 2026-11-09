@@ -86,6 +86,7 @@ verificationNeeded:
   - "MICHELIN Guide selections are revised annually; this profile reflects the status shown in the current listing and should be re-checked after each new edition."
   - "Sources conflict on the kitchen's lead: the MICHELIN listing and some coverage credit Dutch chef Sidney Schutte (of the two-star Spectrum in Amsterdam) with the concept, while other coverage names Guillaume Depoortere as head chef — confirm current roles before attributing dishes to a named chef."
   - "The edition in which Molina first received its star (secondary coverage points to the selection announced in November 2024) should be confirmed against MICHELIN's records."
+framework: profile
 ---
 
 Molina is an innovative fine-dining restaurant perched on the 51st floor of THE

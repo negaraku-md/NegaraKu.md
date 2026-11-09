@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
+framework: data-reference
 ---
 
 槟城是马来西亚唯一一个无法用单一数字回答"生活成本"的州属，因为槟城并非单一地方。它是一座岛屿加上一条大陆地带，由两座大桥和一条渡轮相连，一边是联合国教科文组织世界遗产核心区，另一边则是货柜港口工业城镇。任何将"槟城"压平成一行数字的做法，都已经丢弃了最有用的信息。

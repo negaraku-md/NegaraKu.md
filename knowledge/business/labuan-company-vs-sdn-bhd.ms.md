@@ -153,6 +153,7 @@ keywords:
   - "Labuan trust company"
   - "syarikat Labuan"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 Labuan mendapat dua jenis liputan dan kedua-duanya tidak berguna.

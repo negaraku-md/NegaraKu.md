@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["stamp-duty-share-transfer", "stamp-duty-rates", "capital-gains-tax", "wrt-licence-malaysia", "manufacturing-licence-malaysia", "close-a-company", "share-capital-malaysia"]
 keywords: ["vender negocio Malasia", "venta de acciones vs venta de activos", "impuesto de timbre venta de negocio Malasia", "acuerdo de transferencia de negocio Malasia", "vender sdn bhd", "vender empresa"]
+framework: decision
 ---
 
 Dos compradores ofrecen los mismos RM5 millones por el mismo negocio. Uno quiere las

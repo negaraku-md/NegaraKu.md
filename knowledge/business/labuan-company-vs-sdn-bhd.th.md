@@ -152,6 +152,7 @@ keywords:
   - "Labuan trust company"
   - "syarikat Labuan"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 ลาบวนได้รับการนำเสนอสองแบบและทั้งสองไร้ประโยชน์

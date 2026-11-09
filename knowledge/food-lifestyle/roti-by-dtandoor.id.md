@@ -92,6 +92,7 @@ verificationNeeded:
   - "Seleksi MICHELIN Guide direvisi setiap tahun; pastikan Roti by d'Tandoor masih memegang Bib Gourmand-nya dalam edisi terbaru MICHELIN Guide Kuala Lumpur & Penang sebelum mengandalkannya."
   - "Pelabelan tahun edisi tidak konsisten di berbagai sumber — sebagian menyebut seleksi saat ini sebagai edisi 2027 sementara materi lain melabeli daftar terbaru sebagai 2026. Pastikan tahun edisi yang benar berdasarkan pengumuman resmi acara MICHELIN Guide."
   - "Tanggal pembukaan merek d'Tandoor di Malaysia pada 1990 berasal dari pencantuman MICHELIN; tahun pasti Roti by d'Tandoor sendiri pertama kali meraih Bib Gourmand tidak dikonfirmasi dari satu sumber primer."
+framework: profile
 ---
 
 Roti by d'Tandoor adalah restoran India Utara yang tersembunyi di sebuah rumah

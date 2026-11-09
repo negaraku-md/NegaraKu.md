@@ -87,6 +87,7 @@ verificationNeeded:
   - "La reconnaissance MICHELIN est présentée comme actuelle. L'année exacte de l'édition est ambiguë selon les sources : l'article de sélection complète de MICHELIN lui-même intitule la liste MICHELIN Guide Kuala Lumpur & Penang 2026 (cérémonie du 11 novembre 2025), tandis que certaines couvertures secondaires évoquent une édition « 2027 » annoncée le 4 novembre. Confirmez l'année exacte de l'édition et la date de l'annonce avec le communiqué officiel de MICHELIN."
   - "Les sélections du MICHELIN Guide sont révisées chaque année ; ce profil reflète le statut affiché sur la fiche actuelle et devrait être revérifié après chaque nouvelle édition."
   - "La fiche MICHELIN ne nomme pas le chef ; la couverture secondaire (The Star, Options The Edge) attribue Beta au chef Raymond Tham — confirmez avant d'indiquer le nom."
+framework: profile
 ---
 
 Beta est un restaurant gastronomique malaisien moderne à Jalan Perak, au centre de

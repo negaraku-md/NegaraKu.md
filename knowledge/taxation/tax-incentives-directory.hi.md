@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["मलेशिया कर प्रोत्साहन सूची", "Malaysia tax incentives list", "MIDA कर प्रोत्साहन", "Pioneer Status मलेशिया स्थिति", "Global Services Hub प्रोत्साहन", "मलेशिया प्रोत्साहन राजपत्र आदेश", "मलेशिया कर प्रोत्साहन निर्देशिका"]
+framework: data-reference
 ---
 
 मलेशियाई वेब पर अधिकांश प्रोत्साहन सूचियाँ किसी प्रतिलिपि की प्रतिलिपि हैं। वे अब भी

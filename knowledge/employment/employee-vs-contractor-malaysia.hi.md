@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "socso-eis-employer-guide" }
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["कर्मचारी बनाम ठेकेदार मलेशिया", "स्वतंत्र ठेकेदार मलेशिया", "कर्मचारी वर्गीकरण मलेशिया", "contract for service vs contract of service", "गिग वर्कर वर्गीकरण मलेशिया", "employee vs contractor malaysia"]
+framework: explainer
 ---
 
 31 मार्च 2026 तक मलेशिया में यह एक द्विआधारी प्रश्न था: contract **of** service, या contract **for** service। Gig Workers Act 2025 ने समस्या का स्वरूप ही बदल दिया, एक तीसरा दर्जा बनाकर जिसकी अपनी संविधि, अपना अधिकरण और अपनी कटौती है — और उस दर्जे को **नकारात्मक रूप से** परिभाषित करके, ताकि वर्गीकरण का वह प्रश्न जिसे आप पहले से ही गलत कर रहे थे, अब सबसे पहले हल करना पड़े।

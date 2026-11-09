@@ -90,6 +90,7 @@ social:
 verificationNeeded:
   - "Seleksi MICHELIN Guide Malaysia (Kuala Lumpur & Penang) ditinjau setiap tahun. Profil ini mencerminkan edisi 2026; pastikan Bib Gourmand masih berlaku dalam edisi terbaru (seleksi 2027 sedang terbentuk), karena penghargaan dapat ditambah atau dicabut setiap tahun."
   - "Tahun berdiri (2018) dan latar belakang pendiri (mantan pegawai Dewan Kota Penang yang telah pensiun, Ranjit Singh) berasal dari artikel khusus MICHELIN; pastikan langsung ke restoran jika detail yang akurat penting."
+framework: profile
 ---
 
 Masakan rumahan Punjabi bukanlah hal pertama yang dikaitkan kebanyakan pengunjung

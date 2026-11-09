@@ -68,6 +68,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["Malaysia DTA list", "Malaysia double taxation agreement rates", "treaty withholding tax Malaysia", "Malaysia tax treaty countries", "DTA royalty rate Malaysia"]
+framework: data-reference
 ---
 
 協定は上限であり、決して下限ではない。1967年所得税法（Income Tax Act 1967、Act 53）

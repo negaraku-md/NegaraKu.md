@@ -77,6 +77,7 @@ verificationNeeded:
   - "Enterprise Business service revenue of RM1,610 million for FY2024 — verify against latest filings."
   - "Current shareholding of the parent group (Usaha Tegas-linked interests and Saudi Telecom Company) — confirm against the latest Bursa Malaysia disclosures."
   - "Status of Malaysia's second 5G network and Maxis's role in it (U Mobile was selected in November 2024) — verify current 5G policy and arrangements with the MCMC."
+framework: profile
 ---
 
 Almost every Malaysian with a phone has, at some point, been a Maxis or Hotlink customer. Behind those two familiar brands sits a single company — Maxis Berhad — that ranks among the country's largest telecommunications operators and has grown from a mobile-only carrier into a converged provider of mobile, home broadband and enterprise connectivity.

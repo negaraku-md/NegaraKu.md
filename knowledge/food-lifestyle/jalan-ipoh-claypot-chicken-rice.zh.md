@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "各来源对确切的 MICHELIN 版本年份标注并不一致——官方页面未标年份，这个摊位首次获奖是在 2023 年 11 月公布的版本（「2024」指南）中，而维基百科的 Bib Gourmand 名单如今以「2027」一栏为最新。评选每年修订；请在 guide.michelin.com 确认当前状态。"
   - "这个摊位名字带有「Jalan Ipoh」，但实际位于 Taman Kok Lian；在陈述任何与 Jalan Ipoh 的历史渊源之前请先求证。小贩摊的营业时间和休息日可能变动——前往之前请重新确认。"
+framework: profile
 ---
 
 隐身于吉隆坡市中心以北的 Taman Kok Lian，一个以 Jalan Ipoh 为名的摊位数十年来

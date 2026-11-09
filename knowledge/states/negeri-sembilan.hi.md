@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["नेगेरी सेम्बिलान", "Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "नेगेरी सेम्बिलान के luak", "सेरेम्बान", "Seremban", "सेरी मेनांती", "मातृवंशीय मिनांगकाबाउ"]
+framework: profile
 ---
 
 अन्य आठ मलय राज्यों में, «अगला उत्तराधिकारी कौन है» इस प्रश्न का उत्तर वंश द्वारा

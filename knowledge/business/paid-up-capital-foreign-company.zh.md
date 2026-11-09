@@ -98,6 +98,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "foreign owned Sdn Bhd capital requirement"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 去问十家马来西亚的企业服务供应商，外资持股公司的最低实缴资本是多少，你会得到

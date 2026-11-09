@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["civil-and-syariah-courts", "article-3-religion", "federal-constitution", "akta"]
 keywords: ["Syariah अर्थ", "syariah maksud", "मलेशिया इस्लामी कानून", "undang-undang Islam Malaysia", "hukum syarak", "Syariah अदालत अधिकार-क्षेत्र", "Mahkamah Syariah bidang kuasa", "Senarai Negeri Butiran 1", "Akta 355", "Perkara 121(1A)", "enakmen negeri Islam"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Syariah / Syarak · **English:** Syariah (Islamic law) · **中文:** 伊斯兰教法

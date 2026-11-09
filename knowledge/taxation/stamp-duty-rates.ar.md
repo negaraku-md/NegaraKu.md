@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["معدلات رسم الدمغة ماليزيا", "الجدول الأول قانون الدمغة Stamp Act 1949", "رسم دمغة نقل الملكية", "رسم دمغة نقل الأسهم 0.3%", "رسم دمغة عقد الإيجار", "stamp duty rates Malaysia", "kadar duti setem"]
+framework: data-reference
 ---
 
 يُفرض رسم الدمغة على **المحررات، لا على المعاملات**. فالصفقة التجارية الواحدة قد لا

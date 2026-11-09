@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
+framework: profile
 ---
 
 クアラルンプールはマレーシアの首都であるが、憲法上は州ではない——連邦直轄区（Wilayah Persekutuan）であり、1974年にセランゴールから分離され、州政府や民選の州議会ではなく連邦政府によって直接統治されている。

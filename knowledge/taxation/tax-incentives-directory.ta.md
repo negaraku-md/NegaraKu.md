@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["Malaysia tax incentives list", "MIDA tax incentive", "Pioneer Status Malaysia status", "Global Services Hub incentive", "Malaysia incentive gazette order", "tax incentive directory Malaysia"]
+framework: data-reference
 ---
 
 மலேசிய இணையத்தில் உள்ள பெரும்பாலான சலுகைப் பட்டியல்கள் ஒரு நகலின் நகல்கள். அவை

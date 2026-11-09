@@ -80,6 +80,7 @@ verificationNeeded:
   - "Năm của ấn bản MICHELIN Guide: Bib Gourmand được đánh giá lại hằng năm và hồ sơ này không gắn nó với một ấn bản duy nhất. Ấn bản mới nhất được công bố tại thời điểm viết là MICHELIN Guide Kuala Lumpur & Penang 2026 — KHÔNG nêu ấn bản 2027 cho đến khi MICHELIN công bố. Hãy xác nhận Communal Table by Gēn vẫn nắm giữ Bib Gourmand trong ấn bản hiện hành tại guide.michelin.com."
   - "Ghi công bếp trưởng: tin bài thứ cấp nêu tên Johnson Wong là bếp trưởng và người nhận Malaysian MICHELIN Guide Young Chef Award 2024; trang nhà hàng của MICHELIN ghi nhận Young Chef Award nhưng có thể không nêu tên ông. Hãy xác nhận tên bếp trưởng với một nguồn MICHELIN hoặc nguồn sơ cấp trước khi khẳng định trong bài."
   - "Giờ mở cửa khác nhau giữa các trang theo ngôn ngữ của MICHELIN (một trang hiển thị phục vụ thứ Hai, một trang khác xếp nó vào ngày đóng cửa) — hãy xác minh lịch hiện tại trước khi công bố."
+framework: profile
 ---
 
 **Communal Table by Gēn** là cái tên Bib Gourmand đương đại nhất trong số các

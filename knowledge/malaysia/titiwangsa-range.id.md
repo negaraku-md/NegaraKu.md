@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 Jatuhkan sebutir kelapa di sisi barat sebuah punggungan di tengah Perak, dan pada akhirnya, hanyutannya akan sampai ke Selat Melaka. Jatuhkan sebutir lagi beberapa ratus meter ke timur, di sisi punggungan yang sama, dan ia akan berakhir di Laut Tiongkok Selatan. Tidak ada hal lain tentang lanskap itu yang berubah. Hanya di sisi mana garis itu ia jatuh.

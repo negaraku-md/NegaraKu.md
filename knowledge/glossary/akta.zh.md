@@ -52,6 +52,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "wilayah-persekutuan"]
 keywords: ["Akta Malaysia", "Act of Parliament Malaysia", "Laws of Malaysia", "undang-undang Malaysia", "nombor akta"]
+framework: explainer
 ---
 
 **马来文：** Akta · **英文：** Act (of Parliament) · **中文：** 法令

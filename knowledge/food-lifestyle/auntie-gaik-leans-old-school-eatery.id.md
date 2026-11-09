@@ -94,6 +94,7 @@ verificationNeeded:
   - "Label tahun edisi pada daftar MICHELIN langsung restoran ini mungkin berbeda dari '2026' yang dipakai dalam liputan seremoni MICHELIN; bintang itu pertama kali diberikan dalam seleksi perdana 2022 dan dipertahankan sejak itu. Seleksi direvisi setiap tahun — konfirmasikan pengakuan terkini pada halaman resmi."
   - "Usia pasti Chef Beh Gaik Lean saat menerima penghargaan dilaporkan beragam (sumber menyebut 69 dan 70, dengan tahun lahir 1952 atau 1953); klaim 'perempuan Malaysia pertama yang menerima bintang MICHELIN' berasal dari liputan sekunder — konfirmasikan terhadap sumber primer sebelum menyatakannya secara pasti."
   - "Daftar MICHELIN menyebut gulai tumis memakai 'fresh saffron' (safron segar) di antara rempahnya; ini mungkin pengalihan dari kunyit segar (kunyit), bukan safron sejati — konfirmasikan dengan restoran. Jam buka dan tingkat harga juga sebaiknya dikonfirmasi langsung."
+framework: profile
 ---
 
 Auntie Gaik Lean's Old School Eatery adalah restoran berbintang satu MICHELIN di George Town, Penang, yang menyajikan masakan Peranakan (Nyonya) dari resep keluarga yang dijaga ketat. Restoran ini dikelola oleh koki otodidak sekaligus asal namanya, Beh Gaik Lean.

@@ -67,6 +67,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["desgravación fiscal Malasia", "Malaysia tax relief", "pelepasan cukai individu", "lista de comprobación de desgravaciones fiscales Malasia", "desgravaciones Formulario BE", "desgravación individual LHDN"]
+framework: how-to
 ---
 
 Cada ringgit de desgravación que pueda reclamar válidamente reduce su renta

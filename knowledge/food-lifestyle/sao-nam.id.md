@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "Tahun edisi MICHELIN yang tepat dilabeli secara tidak konsisten di berbagai sumber — halaman resmi tidak mencantumkan tahun, liputan pers menyebut MICHELIN Guide Kuala Lumpur & Penang '2026', dan daftar Bib Gourmand Wikipedia kini menampilkan kolom '2027' sebagai yang terbaru. Seleksi direvisi setiap tahun; konfirmasikan status terkini di guide.michelin.com."
   - "Tahun pendirian yang sering dikutip 2002, dan penetapan 'bebas babi', berasal dari situs pencantuman pihak ketiga, bukan halaman MICHELIN; konfirmasikan dengan restoran sebelum menyatakannya."
+framework: profile
 ---
 
 Di balik fasad kuning cerah di Tengkat Tong Shin, di tengah jalan-jalan kuliner

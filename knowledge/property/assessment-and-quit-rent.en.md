@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 Many new homeowners are startled to receive a second bill they didn't expect. They've already paid "land tax" this year — so why is the municipal council sending a demand notice as well?

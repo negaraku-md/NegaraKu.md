@@ -86,6 +86,7 @@ verificationNeeded:
   - "Les sélections du MICHELIN Guide sont révisées chaque année ; ce profil reflète le statut affiché sur la fiche actuelle et devrait être revérifié après chaque nouvelle édition."
   - "L'adresse du restaurant est rapportée de manière incohérente selon les sources (44 Persiaran Zaaba, TTDI sur la fiche MICHELIN actuelle ; une fiche plus ancienne donnait une adresse à Jalan Sultan / KLCC) — confirmez l'emplacement actuel."
   - "La fiche MICHELIN évoque 'the eponymous chef' plutôt que de le nommer ; le chef-propriétaire Darren Chin est documenté dans la couverture secondaire (formé au Le Cordon Bleu de Paris) — confirmez tout détail biographique supplémentaire avec des sources primaires."
+framework: profile
 ---
 
 DC. by Darren Chin est un restaurant gastronomique français contemporain à Taman

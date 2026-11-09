@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
+framework: profile
 ---
 
 他の八つのマレー州属では、「次の統治者は誰か」という問いに答えるのは血統である。ヌグリ・スンビランでは、それに答えるのは四人の習俗の長である。

@@ -118,6 +118,7 @@ keywords:
   - "Free Zones Act 1990"
   - "جمارك FIZ بينانغ"
   - "zon perindustrian bebas"
+framework: profile
 ---
 
 كادت كل وصف منشور لمنطقة بايان ليباس الصناعية الحرّة أن يصير الآن قديمًا، بسبب ثلاثة إشعارات

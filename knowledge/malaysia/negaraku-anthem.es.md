@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 La noche del 31 de agosto de 1957, cuando la melodía de Negaraku se interpretó públicamente por primera vez en el Selangor Club Padang, esa melodía no era nada nuevo. Ya había sido el himno de un estado malayo durante décadas antes de eso.

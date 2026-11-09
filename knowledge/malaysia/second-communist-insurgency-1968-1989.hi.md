@@ -92,6 +92,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["दूसरी मलायी आपातस्थिति", "मलाया की साम्यवादी पार्टी", "हात याई शांति समझौता 1989", "उत्तरी कालिमंतान साम्यवादी पार्टी", "सारावाक साम्यवादी विद्रोह", "श्री अमान", "चिन पेंग", "क्रोह-बेतोंग घात", "Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
+framework: history-culture
 ---
 
 मलेशिया ने अपनी पहली साम्यवादी आपातस्थिति की समाप्ति की घोषणा 31 जुलाई 1960 को की — और फिर अगले तीन दशकों के अधिकांश हिस्से में एक दूसरे विद्रोह से जूझता रहा। जिस छापामार सेना को सरकार ने प्रायद्वीप के किनारों तक धकेल दिया था, वह लड़ाई की समाप्ति की घोषणा होने पर भंग नहीं हुई। वह थाई सीमा के पार पीछे हटी, वहाँ पुनः संगठित हुई, और आठ वर्ष बाद अपने अभियान फिर शुरू कर दिए।

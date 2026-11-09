@@ -95,6 +95,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
+framework: profile
 ---
 
 Vào năm 1999, Văn phòng Thủ tướng chuyển ra khỏi Kuala Lumpur. Thủ đô không

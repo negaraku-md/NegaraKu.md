@@ -89,6 +89,7 @@ verificationNeeded:
   - "La sélection du MICHELIN Guide est révisée chaque année ; avant de vous y fier, confirmez que Sin Kiew Yee Shin Kee détient toujours son Bib Gourmand dans la dernière édition du MICHELIN Guide Kuala Lumpur & Penang."
   - "L'étiquetage de l'année d'édition est incohérent selon les sources — certaines désignent la sélection actuelle comme l'édition 2027, tandis que d'autres documents qualifient la dernière liste de 2026. Confirmez l'année d'édition correcte auprès de l'annonce officielle de la cérémonie du MICHELIN Guide."
   - "La date de fondation de 1949 provient du résumé de la fiche MICHELIN ; des sites d'annuaire secondaires la reprennent, mais une source historique primaire n'a pas été localisée."
+framework: profile
 ---
 
 Sin Kiew Yee Shin Kee Beef Noodles est une échoppe de nouilles chevronnée au cœur

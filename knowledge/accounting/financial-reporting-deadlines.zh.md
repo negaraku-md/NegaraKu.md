@@ -148,6 +148,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["financial-year-end", "financial-statement-pack", "mbrs-2-filing-guide", "audit-exemption-thresholds", "sdn-bhd-first-year-compliance", "annual-return", "form-c-and-cp204", "company-tax-calendar"]
 keywords: ["financial statements deadline Malaysia", "section 258 circulation six months", "section 259 lodgement 30 days", "SSM late lodgement penalty", "extension of time SSM financial statements", "18 months first financial statements", "financial reporting deadline Sdn Bhd"]
+framework: data-reference
 ---
 
 去问多数马来西亚的资料来源财务报表几时到期，你会得到两种答案之一：年结后六个月，

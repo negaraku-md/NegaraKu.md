@@ -130,6 +130,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 Khu Thương mại Tự do Số là trường hợp rõ ràng nhất trong việc viết về kinh doanh của Malaysia

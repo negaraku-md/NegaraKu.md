@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 페라나칸 요리는 페낭의 마음 깊은 음식이며, Jalan Pintal Tali에서는 한 작은 주방이

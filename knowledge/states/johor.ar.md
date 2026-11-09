@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "جوهور", "Johor Bahru", "جوهور بهرو", "Iskandar Malaysia", "إسكندر ماليزيا", "Pengerang petrochemical", "بتروكيماويات بينجيرانغ", "Johor Singapore Causeway", "جسر جوهور سنغافورة"]
+framework: profile
 ---
 
 يُعرَّف اقتصاد جوهور بجارتها. فبوصفها أقصى ولايات شبه الجزيرة جنوباً، تقع مباشرةً

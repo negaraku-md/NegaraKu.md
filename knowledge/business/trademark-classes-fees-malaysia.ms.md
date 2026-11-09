@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["kelas cap dagangan malaysia", "klasifikasi nice malaysia", "yuran cap dagangan myipo", "yuran cap dagangan setiap kelas malaysia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 Bilangan kelas, bukan pemfailan itu sendiri, yang menentukan kos

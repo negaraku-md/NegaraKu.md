@@ -92,6 +92,7 @@ verificationNeeded:
   - "MICHELIN Guide 的甄选每年修订；在依赖此资讯前，请先确认 Roti by d'Tandoor 在最新一版 MICHELIN Guide Kuala Lumpur & Penang 中仍持有 Bib Gourmand。"
   - "各来源对版本年份的标示并不一致——有的将当前甄选称为 2027 年版，另一些资料则把最新名单标为 2026 年。请对照 MICHELIN Guide 官方颁奖典礼公告，确认正确的版本年份。"
   - "d'Tandoor 品牌 1990 年在马来西亚开业的日期来自 MICHELIN 条目；Roti by d'Tandoor 本身首次获颁 Bib Gourmand 的确切年份，未能从单一的第一手来源获得确认。"
+framework: profile
 ---
 
 Roti by d'Tandoor 是一家北印度餐厅，藏身于吉隆坡 Jalan Ampang 旁的一栋住宅内，也是

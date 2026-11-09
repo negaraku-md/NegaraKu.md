@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["باهانغ", "Pahang", "باهانغ دار المعمور", "Pahang Darul Makmur", "كوانتان", "Kuantan", "بيكان المدينة الملكية", "Pekan", "سلطان باهانغ", "Sultan Pahang", "تامان نيغارا", "Taman Negara", "غونونغ تاهان", "Gunung Tahan", "كاميرون هايلاندز", "Cameron Highlands", "مناطق باهانغ", "الناتج المحلي الإجمالي لباهانغ"]
+framework: profile
 ---
 
 تغطي باهانغ أكثر من رُبع مساحة شبه جزيرة الملايو، ومع ذلك لا يعيش فيها سوى واحد من

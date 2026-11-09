@@ -54,6 +54,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["sdn-bhd"]
 keywords: ["GLC Malaysia", "government linked company", "syarikat berkaitan kerajaan", "GLIC", "Khazanah"]
+framework: explainer
 ---
 
 **Español:** Syarikat Berkaitan Kerajaan (Empresa Vinculada al Gobierno) · **English:** Government-Linked Company · **中文:** 政府关联公司

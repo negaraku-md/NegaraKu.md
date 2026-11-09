@@ -81,6 +81,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pdpa registration malaysia", "class of data users order", "pdpa registrable class", "register data controller malaysia", "pu a 336 2013"]
+framework: data-reference
 ---
 
 PDPA 之下的注册并不是普遍性的。它只触及那些落在依 Act 709 s.14 以命令指明的类别之内的资料控制者——而那份清单自 2016 年 12 月 16 日起就没有动过。

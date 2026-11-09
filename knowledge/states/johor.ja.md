@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
+framework: profile
 ---
 
 ジョホールの経済は、その隣国によって規定されている。半島最南端の州として、ジョホール海峡を挟んでシンガポールと正面から向き合っており、その近接性が労働市場から不動産開発戦略に至るまで、あらゆるものを形づくっている。

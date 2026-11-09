@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
+framework: profile
 ---
 
 En 2024, les produits électriques, électroniques et optiques ont représenté 51,1 pour

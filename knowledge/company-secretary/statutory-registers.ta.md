@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["statutory registers Malaysia", "company registers checklist", "daftar berkanun syarikat", "register of members directors", "SSM company records", "Companies Act 2016 registers"]
+framework: how-to
 ---
 
 சட்டப்பூர்வ பதிவேடுகள் என்பவை, ஒரு தணிக்கையாளரோ, ஒரு வங்கியோ, அல்லது வாங்குபவரின்

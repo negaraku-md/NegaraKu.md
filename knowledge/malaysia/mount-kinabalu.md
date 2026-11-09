@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 For decades, every reference book gave the same number: Mount Kinabalu, Malaysia's highest peak, stood 4,101 metres above sea level. Then in 1997, a survey team pointed satellites at the summit instead of theodolites, and the number changed. Not by a rounding error — by six metres. The mountain hadn't shrunk. The old measurement had simply been wrong, and nobody had had the tool to prove it until GPS made the correction possible.

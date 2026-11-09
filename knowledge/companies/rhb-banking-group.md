@@ -75,6 +75,7 @@ verificationNeeded:
   - "Branch count (over 200 in Malaysia) and headcount (reported figures range from about 13,000 to 14,000) — confirm against the latest annual report."
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
+framework: profile
 ---
 
 RHB is one of the names most Malaysians recognise on a high-street bank branch, an ATM card or a home-loan brochure — yet the group behind it reaches well beyond retail banking, into Islamic finance, investment banking, insurance and markets across Southeast Asia. This page is a neutral, factual overview of what RHB Banking Group is, how it is structured, who owns it and why it matters.

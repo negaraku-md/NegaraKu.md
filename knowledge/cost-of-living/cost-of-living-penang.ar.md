@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["تكلفة المعيشة بينانغ", "cost of living Penang", "بينانغ مقابل وادي كلانغ", "Penang vs Klang Valley cost of living", "إيجار جورج تاون", "سيبيرانغ بيراي", "جزيرة بينانغ مقابل البرّ الرئيسي", "دخل الأسرة بينانغ"]
+framework: data-reference
 ---
 
 بينانغ هي الولاية الماليزية الوحيدة التي لا يمكن الإجابة فيها عن سؤال «تكلفة

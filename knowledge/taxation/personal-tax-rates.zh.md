@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["personal income tax rate Malaysia", "kadar cukai individu", "tax bracket Malaysia", "LHDN tax rate table", "non-resident tax rate Malaysia 30", "individual tax rate YA2025"]
+framework: data-reference
 ---
 
 税率适用于**应课税收入**——总收入减去可扣除开支，再减去你符合资格的每一项减免。

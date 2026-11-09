@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "who-cannot-claim-audit-exemption" }
 related: ["audit-exemption", "who-cannot-claim-audit-exemption", "dormant-company-audit-exemption"]
 keywords: ["ambang pengecualian audit Malaysia", "pengecualian audit RM3 juta", "ambang PD 10/2024", "ambang pengecualian audit 2026", "kriteria pengecualian audit SSM 2027", "bilangan pekerja pengecualian audit"]
+framework: data-reference
 ---
 
 Jika anda hanya mengingati satu angka daripada halaman ini, ingatlah ini: ambang

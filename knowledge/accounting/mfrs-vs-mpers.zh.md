@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malaysia", "private entity definition MASB", "which accounting framework Malaysia", "MPERS eligibility", "MASB reporting framework"]
+framework: decision
 ---
 
 多数马来西亚的指引都用「公众利益实体」这个词来回答这个问题。那个词什么活也没干。

@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "form-e-ea-cp8d-malaysia" }
 related: ["personal-tax-rates", "individual-tax-residence", "form-e-ea-cp8d-malaysia", "form-c-and-cp204"]
 keywords: ["أي نموذج من LHDN", "which LHDN form", "النموذج BE مقابل النموذج B", "Form BE vs Form B", "borang BE tarikh akhir", "النموذج M لغير المقيمين", "Form M non-resident Malaysia", "الموعد النهائي للتقديم لدى LHDN 2026", "LHDN filing deadline 2026", "مهلة السماح للتقديم الإلكتروني"]
+framework: data-reference
 ---
 
 أمران يحددان نموذجك: ما إذا كنت **مقيمًا** بموجب المادة 7(1)، وما إذا كان لديك **دخل

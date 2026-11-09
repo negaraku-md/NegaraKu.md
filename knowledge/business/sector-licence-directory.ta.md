@@ -74,6 +74,7 @@ keywords:
   - "sector licence Malaysia"
   - "BNM SC MCMC licence"
   - "Malaysian licensing authorities"
+framework: data-reference
 ---
 
 மலேசிய வணிக உரிமங்களுக்கான தலைமைப் பட்டியல் எதுவும் இல்லை. MalaysiaBiz கூட்டாட்சி,

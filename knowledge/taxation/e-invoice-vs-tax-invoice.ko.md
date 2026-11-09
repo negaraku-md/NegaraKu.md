@@ -71,6 +71,7 @@ relations:
   - { rel: "governs", to: "sales-tax-act-2018" }
 related: ["e-invoicing", "sst-explained", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice"]
 keywords: ["e-Invoice vs tax invoice", "SST invoice requirements", "Service Tax Regulations 2018 regulation 10", "sales tax invoice particulars", "LHDN RMCD invoice", "invois cukai SST"]
+framework: explainer
 ---
 
 MyInvois를 통해 송장을 검증한다고 해서 그것이 SST 송장이 되는 것은 아닙니다. 그 한 문장이 전자송장 도입에서 다른 어떤 지점보다 SST 등록 사업체에게 더 많은 문제를 안깁니다. 두 규제기관이 같은 종이 한 장에서 서로 다른 두 가지를 원하기 때문입니다.

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
+framework: profile
 ---
 
 கோலாலம்பூர் (Kuala Lumpur) மலேசியாவின் தேசியத் தலைநகரம், ஆனால் அரசியலமைப்பு

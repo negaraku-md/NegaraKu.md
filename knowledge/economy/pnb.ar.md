@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "federal-budget" }
 related: ["bursa-malaysia", "bank-negara-malaysia", "epf", "federal-budget"]
 keywords: ["Permodalan Nasional Berhad", "PNB", "ASNB", "Amanah Saham Bumiputera", "ASB", "Amanah Saham Nasional", "ASN", "صناديق الاستثمار المشترك في ماليزيا", "صندوق ثابت السعر", "unit trust Malaysia", "fixed price fund"]
+framework: profile
 ---
 
 ## لمحة سريعة

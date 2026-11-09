@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Neighbourwood", "#BibGourmand", "#SeberangPerai", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 并非每一个槟城的 MICHELIN 地址都在岛上。**Neighbourwood** 坐落于大陆的大山脚，

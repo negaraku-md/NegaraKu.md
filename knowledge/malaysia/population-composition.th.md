@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 DOSM ไม่ได้เผยแพร่ตัวเลขที่เรียกว่า "ชาวมาเลเซีย" มันเผยแพร่พลเมืองและผู้ไม่ใช่พลเมืองเป็นสองการนับที่แยกกัน แบ่งพลเมืองเป็นห้าหมวดเชื้อชาติที่ระบุชื่อ แล้วแบ่งหนึ่งในหมวดเหล่านั้น คือ "ภูมิบุตรอื่น" เป็นกลุ่มซาบาห์และซาราวักที่รายงานแยกกัน แต่ละกลุ่มมีกลุ่มย่อยที่ระบุชื่อของตนเอง คำว่า "ภูมิบุตร" เองไม่เคยปรากฏเป็นแถวเดียวในตารางข้อมูลพื้นฐานของ DOSM มันเป็นสิ่งที่คุณบวกจากสองแถว คือ มลายูและภูมิบุตรอื่น หลังจากนั้น

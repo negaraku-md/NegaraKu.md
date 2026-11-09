@@ -97,6 +97,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "foreign owned Sdn Bhd capital requirement"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 말레이시아의 기업 서비스 제공자 열 곳에게 외국인 소유 회사의 최소 납입자본금이 얼마냐고 물으면

@@ -77,6 +77,7 @@ keywords:
   - "escuela secundaria privada Malasia"
   - "Unified Examination Certificate"
   - "división de educación privada Malasia"
+framework: explainer
 ---
 
 Pregunta a un padre malasio qué es una «escuela privada» y podría referirse a

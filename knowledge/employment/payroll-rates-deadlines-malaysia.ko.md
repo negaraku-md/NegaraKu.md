@@ -178,6 +178,7 @@ relations:
   - { rel: "explained-in", to: "minimum-wage-malaysia" }
 related: ["form-e-ea-cp8d-malaysia", "hrd-corp-levy-malaysia", "minimum-wage-malaysia", "payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["Malaysia payroll deadlines", "EPF SOCSO EIS rates", "statutory contribution rates Malaysia", "payroll due dates 15th", "PCB deadline", "HRD levy rate"]
+framework: data-reference
 ---
 
 하나의 참조표이며, 모든 행은 이를 공표하는 당국까지 추적됩니다. 공식 출처와 대조하여

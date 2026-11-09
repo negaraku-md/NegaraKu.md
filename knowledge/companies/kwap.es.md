@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 Cada vez que un funcionario público federal se jubila, el dinero de su pensión tiene que venir de algún sitio. Ese sitio es KWAP, y a finales de 2024 su bolsillo de inversión valía RM185.6 mil millones.

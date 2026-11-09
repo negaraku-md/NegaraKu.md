@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "kos sara hidup Malaysia", "Malaysia household expenditure", "DOSM household expenditure survey", "Malaysia household income", "Malaysia inflation rate", "cost of living Kuala Lumpur", "Malaysia poverty line income", "Malaysia budget by state"]
+framework: data-reference
 ---
 
 ## Sekilas pandang

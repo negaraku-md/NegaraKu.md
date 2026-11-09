@@ -74,6 +74,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
+framework: explainer
 ---
 
 Malaysia mempunyai 13 negeri, tetapi hanya sembilan takhta. Empat negeri lagi

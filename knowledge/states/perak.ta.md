@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
+framework: profile
 ---
 
 1874 ஜனவரி 20-ஆம் தேதி, Pangkor தீவுக்கு அருகிலுள்ள கடல் நீரில் ஒரு உடன்படிக்கை

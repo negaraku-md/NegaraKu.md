@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 Trong khi Bán đảo Malaysia phụ thuộc vào Tenaga Nasional Berhad, Sarawak thắp sáng đèn của riêng mình qua một tiện ích có lưới điện hoàn toàn không kết nối với lưới quốc gia — và gần như toàn bộ được phát điện bởi dòng nước đổ từ các đập khổng lồ ở vùng sâu.

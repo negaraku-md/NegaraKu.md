@@ -83,6 +83,7 @@ keywords:
   - "SSM annual return fee"
   - "LLP registration fee"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 세 개의 별도 수수료 부칙, 세 개의 별도 법령, 그리고 그것들을 나란히 놓는 SSM

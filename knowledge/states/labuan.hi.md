@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["लाबुआन", "Labuan", "लाबुआन अंतरराष्ट्रीय व्यापार एवं वित्तीय केंद्र", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "संघीय क्षेत्र", "federal territory", "लाबुआन कंपनी", "Labuan company", "3% कर", "3% tax"]
+framework: profile
 ---
 
 दो कंपनियाँ, वही मालिक, वही ग्राहक। एक कुआलालंपुर में निगमित है और आयकर अधिनियम

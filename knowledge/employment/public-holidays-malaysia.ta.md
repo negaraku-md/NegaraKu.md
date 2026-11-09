@@ -75,6 +75,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
 keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+framework: data-reference
 ---
 
 இரண்டு அமைப்புகள் இணையாக இயங்குகின்றன, அவை வெவ்வேறு கேள்விகளுக்குப் பதிலளிக்கின்றன.

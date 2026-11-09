@@ -103,6 +103,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang 선정은 매년 개정됩니다. 이 글은 2026년판(2025년 11월 발표)을 반영합니다. 더 새로운 판 — 예컨대 2027년 목록 — 은 이 식당을 추가·삭제·재배치할 수 있으므로, 의존하기 전에 guide.michelin.com에서 현재 Bib Gourmand 상태를 다시 확인하십시오."
   - "영업시간: MICHELIN 페이지는 이례적으로 늦은 시간(새벽까지)을 표시하며 요일마다 다르고 월요일에 자주 휴무합니다 — 변동되므로 현재 시간은 식당에 직접 확인하십시오."
+framework: profile
 ---
 
 쿠알라룸푸르에서 bak kut teh를 주문하면, 많은 말레이시아인이 소울푸드로 여기는

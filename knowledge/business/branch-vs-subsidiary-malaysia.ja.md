@@ -118,6 +118,7 @@ keywords:
   - "regional office MIDA"
   - "local agent foreign company Malaysia"
   - "set up business in Malaysia foreign company"
+framework: decision
 ---
 
 支店は通常、軽い選択肢として売り込まれる。新たな会社を作る必要もなく、株主もなく、定款もない。ところが誰かが2016年会社法（Companies Act 2016、Act 777）のs.575(5)を読むと、支店はマレーシアの公開記録に、親会社の監査済み財務諸表**と**そのマレーシア事業の資産及び負債についての監査済み報告書とを呈出しなければならないことに気づく。

@@ -92,6 +92,7 @@ verificationNeeded:
   - "Lựa chọn của MICHELIN Guide được rà soát hằng năm; hãy xác nhận rằng Roti by d'Tandoor vẫn giữ Bib Gourmand trong ấn bản MICHELIN Guide Kuala Lumpur & Penang mới nhất trước khi dựa vào thông tin này."
   - "Cách ghi năm ấn bản không nhất quán giữa các nguồn — một số gọi lựa chọn hiện tại là ấn bản 2027 trong khi các tài liệu khác dán nhãn danh sách mới nhất là 2026. Hãy xác nhận năm ấn bản đúng dựa trên thông báo chính thức về lễ công bố MICHELIN Guide."
   - "Năm 1990 khai trương tại Malaysia của thương hiệu d'Tandoor đến từ mục MICHELIN; năm chính xác mà bản thân Roti by d'Tandoor lần đầu đạt Bib Gourmand chưa được xác nhận từ một nguồn sơ cấp duy nhất."
+framework: profile
 ---
 
 Roti by d'Tandoor là một nhà hàng Bắc Ấn nép trong một ngôi nhà dân cư gần Jalan

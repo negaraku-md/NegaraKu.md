@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 Two names often come up when Malaysian families talk about the "best" boarding schools for their children: MRSM and SBP. Both are selective fully residential colleges, both fiercely competitive to get into — but they are run by two different bodies, under two different policy mandates.

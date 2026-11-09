@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["tax penalty Malaysia", "LHDN penalty rates", "section 113(2) penalty", "SST late payment penalty", "stamp duty late stamping penalty", "RPGT penalty", "kesalahan denda dan penalti", "section 112(3) treble tax"]
+framework: data-reference
 ---
 
 ไม่มีอัตราโทษปรับทางภาษีของมาเลเซียเพียงหนึ่งเดียว กฎหมายห้าฉบับต่างดำเนินสถาปัตยกรรมของตนเอง และความผิดพลาดทางการค้าเดียวกันอาจมีค่า 10% ภายใต้ฉบับหนึ่งและ 2,000% ภายใต้อีกฉบับ การแสดงภาษีบริการต่ำ RM50,000 เป็นค่าปรับ **RM500,000 ถึง RM1,000,000** เมื่อถูกตัดสินการเลี่ยงภาษีครั้งแรกภายใต้ s.71(2)(a) แห่ง Service Tax Act 2018 การแสดงภาษีเงินได้ต่ำจำนวนเดียวกันเป็นโทษปรับ **เท่ากับภาษี** ภายใต้ s.113(2) ใช้เป็นสิทธิประโยชน์ที่ 15% สำหรับความผิดครั้งแรก

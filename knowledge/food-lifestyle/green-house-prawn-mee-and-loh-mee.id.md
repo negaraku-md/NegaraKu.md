@@ -80,6 +80,7 @@ related:
   - "malaysian-noodles"
 social:
   hashtags: ["#PrawnMee", "#LohMee", "#BibGourmand", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Di Jalan Burma, di dalam kedai kopi yang dikenal sebagai Restoran Old Green

@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 페락(Perak) 중부의 어느 능선 서쪽 면에 코코넛 하나를 떨어뜨리면, 결국 그 썩은 물은 말라카 해협에 이릅니다. 같은 능선의 반대편, 즉 수백 미터 동쪽에 하나를 떨어뜨리면, 그것은 남중국해로 흘러듭니다. 지형에 관한 다른 것은 아무것도 바뀌지 않습니다. 그저 그것이 선의 어느 쪽에 떨어졌는가만 다를 뿐입니다.

@@ -77,6 +77,7 @@ verificationNeeded:
   - "Tahun edisi MICHELIN Guide: Bib Gourmand dinilai semula setiap tahun dan profil ini tidak mengikatnya kepada satu edisi tunggal. Edisi terbaharu yang diterbitkan pada masa penulisan ialah MICHELIN Guide Kuala Lumpur & Penang 2026 — JANGAN nyatakan edisi 2027 sehingga MICHELIN menerbitkannya. Sahkan Ivy's masih memegang Bib Gourmand dalam edisi semasa di guide.michelin.com."
   - "Alamat: halaman MICHELIN bahasa Inggeris menyenaraikan 100-104 Jalan Kedah, George Town 10050, tetapi sesetengah versi lokal halaman itu menunjukkan 58 Jalan Chow Thye. MICHELIN mencatatkan satu perpindahan ke lokasi yang lebih besar; sahkan alamat semasa secara terus sebelum menerbitkan arah perjalanan."
   - "Waktu buka (tutup Isnin; makan malam Selasa; Rabu-Ahad makan tengah hari dan makan malam) — sahkan jadual semasa semasa menempah."
+framework: profile
 ---
 
 **Ivy's Nyonya Cuisine** ialah sebuah tempat tetap George Town daripada jenis

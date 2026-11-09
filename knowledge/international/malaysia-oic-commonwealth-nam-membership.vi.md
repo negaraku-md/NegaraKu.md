@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
 related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OIC", "Pertubuhan Kerjasama Islam", "Komanwel", "Commonwealth", "NAM", "Pergerakan Negara-Negara Berkecuali", "D-8", "APEC", "dasar luar Malaysia", "keahlian antarabangsa"]
+framework: data-reference
 ---
 
 Mỗi lần một bộ trưởng Malaysia phát biểu về Palestine tại một diễn đàn thế giới Hồi giáo, hay một quan chức cấp cao tham dự một hội nghị cấp cao kinh tế châu Á-Thái Bình Dương, họ đang nói thay cho một quốc gia ngồi ở nhiều bàn cùng một lúc. Ngoài ASEAN và Liên Hợp Quốc, Malaysia là thành viên của cả tá nhóm liên chính phủ — và năm trong số đó hình thành nên xương sống của sự can dự đa phương của nó.

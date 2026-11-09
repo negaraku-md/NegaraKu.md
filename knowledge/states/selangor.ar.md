@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["سلانغور ماليزيا", "شاه عالم", "ميناء كلانغ Port Klang", "سايبرجايا Cyberjaya", "اقتصاد وادي كلانغ", "Selangor Malaysia"]
+framework: profile
 ---
 
 سلانغور هي الولاية التي يقوم عليها اقتصاد ماليزيا بهدوء. فهي تطوّق بالكامل العاصمة

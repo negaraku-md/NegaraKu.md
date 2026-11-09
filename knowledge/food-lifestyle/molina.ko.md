@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN Guide의 셀렉션은 매년 개정됩니다. 이 프로필은 현재 등재에 표시된 상태를 반영하며, 새 판이 나올 때마다 재확인해야 합니다."
   - "주방 책임자에 대해 출처가 엇갈립니다. MICHELIN 등재와 일부 보도는 그 콘셉트를 네덜란드 셰프 Sidney Schutte(암스테르담의 2-Star Spectrum)에게 돌리는 반면, 다른 보도는 Guillaume Depoortere를 헤드 셰프로 거론합니다——요리를 특정 셰프에게 돌리기 전에 현재 역할을 확인하십시오."
   - "Molina가 처음 Star를 받은 판(2차 보도는 2024년 11월 발표된 셀렉션을 지목)은 MICHELIN의 기록과 대조해 확인해야 합니다."
+framework: profile
 ---
 
 Molina는 쿠알라룸푸르 THE FACE Style 51층에 높이 자리한 이노베이티브 파인다이닝

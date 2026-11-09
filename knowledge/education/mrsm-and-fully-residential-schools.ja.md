@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 マレーシアの家庭が子どものための「最良の」寄宿学校について話すとき、頻繁に登場する2つの名前がある。MRSMとSBPである。どちらも選抜制の全寮制カレッジであり、どちらも熾烈な争奪戦になるが、運営するのは異なる2つの機関であり、それぞれ異なる政策上の使命の下にある。

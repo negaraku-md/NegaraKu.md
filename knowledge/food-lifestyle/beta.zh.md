@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN 的认可被陈述为当前状态。确切的版本年份在各来源间含糊不清：MICHELIN 自家的完整精选名单文章将该名单标示为 MICHELIN Guide Kuala Lumpur & Penang 2026（颁奖礼于 2025 年 11 月 11 日），而部分次级报道则提及一个于 11 月 4 日公布的「2027」版本。请对照 MICHELIN 的官方发布核实确切的版本年份与公布日期。"
   - "MICHELIN Guide 的精选名单每年修订；本篇简介反映当前名录所显示的状态，并应在每个新版本发布后重新查核。"
   - "MICHELIN 名录未指名主厨；次级报道（The Star、Options The Edge）将 Beta 归于主厨 Raymond Tham——在陈述其名字前请先核实。"
+framework: profile
 ---
 
 Beta 是一家位于吉隆坡市中心 Jalan Perak 的现代马来西亚 fine dining 餐厅。它在

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
+framework: profile
 ---
 
 페낭(Pulau Pinang)은 그 크기보다 훨씬 큰 영향력을 지닙니다. 토지 면적으로는 말레이시아에서 가장 작은 주(州)에 속하지만, 동시에 이 나라에서 가장 중요한 제조 경제 가운데 하나이자 가장 많이 방문되는 관광지 가운데 하나입니다.

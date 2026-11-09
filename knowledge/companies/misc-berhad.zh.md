@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
+framework: profile
 ---
 
 国际航运公司（MISC Berhad）是马来西亚能源经济的海事支柱——这家集团将国家的天然气和石油运往世界各地的海洋。

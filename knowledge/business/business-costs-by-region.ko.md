@@ -110,6 +110,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 말레이시아에 대한 대부분의 입지 비교는 아무도 공표하지 않은 수치 위에 세워집니다. 주별 평방피트당 산업용 임대료, "전형적인" 공공요금 청구서, 페낭과 클란탄 사이의 임금 격차 — 이 모든 것이 유통되지만, 그중 거의 어느 것도 정부 출처로 추적되지 않습니다.

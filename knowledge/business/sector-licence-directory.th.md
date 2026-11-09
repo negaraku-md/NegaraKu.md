@@ -74,6 +74,7 @@ keywords:
   - "sector licence Malaysia"
   - "BNM SC MCMC licence"
   - "Malaysian licensing authorities"
+framework: data-reference
 ---
 
 ไม่มีรายการหลักของใบอนุญาตธุรกิจมาเลเซีย MalaysiaBiz มีข้อมูลข้ามหน่วยงานระดับกลาง รัฐ และท้องถิ่น

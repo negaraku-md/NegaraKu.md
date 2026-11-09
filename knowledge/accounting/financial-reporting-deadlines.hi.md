@@ -148,6 +148,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["financial-year-end", "financial-statement-pack", "mbrs-2-filing-guide", "audit-exemption-thresholds", "sdn-bhd-first-year-compliance", "annual-return", "form-c-and-cp204", "company-tax-calendar"]
 keywords: ["वित्तीय विवरण समय-सीमा मलेशिया", "धारा 258 परिचालन छह महीने", "धारा 259 दाखिला 30 दिन", "SSM विलंबित दाखिला शास्ति", "समय-विस्तार SSM वित्तीय विवरण", "18 महीने पहले वित्तीय विवरण", "वित्तीय रिपोर्टिंग समय-सीमा Sdn Bhd", "financial statements deadline Malaysia", "SSM late lodgement penalty"]
+framework: data-reference
 ---
 
 अधिकांश मलेशियाई स्रोतों से पूछें कि वित्तीय विवरण कब देय हैं और आपको दो में से एक

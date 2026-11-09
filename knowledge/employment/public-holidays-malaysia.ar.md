@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
 keywords: ["العطلات الرسمية ماليزيا 2026", "public holidays malaysia 2026", "العطلات الولائية ماليزيا", "العطلات المُعلَنة", "state public holidays malaysia", "section 60d employment act"]
+framework: data-reference
 ---
 
 يسير نظامان على التوازي ويجيبان عن سؤالين مختلفين. فـ**قانون العطلات لسنة 1951 (Holidays Act 1951)** يقرّر أي الأيام عطلات رسمية وأين تسري. و**قانون العمل لسنة 1955 (Employment Act 1955)** يقرّر كم منها يتقاضى الموظف أجراً عنه. ومعظم تقاويم العطل المنشورة في ماليزيا لا تغطّي سوى الأول، ولهذا يدفع أصحاب العمل عادةً أجراً عن الأيام الخاطئة.

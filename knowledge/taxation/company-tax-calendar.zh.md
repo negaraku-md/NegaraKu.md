@@ -169,6 +169,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["company tax deadline Malaysia", "Form C deadline", "CP204 due date", "Form E deadline", "LHDN filing programme 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 马来西亚几乎每一个税务期限都是一条**规则**，不是一个日期。日期随你的会计期而变；规则不变。本页列出规则、它出自哪一条条文，以及错过时会发生什么。

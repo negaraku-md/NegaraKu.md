@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bank-islam-malaysia" }
 related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
+framework: profile
 ---
 
 对大多数储户而言，朝圣基金（Tabung Haji）不过是一个为前往麦加而积攒资金的账户。但在这个储蓄柜台的背后，朝圣基金局也在庄园、房地产、股票和伊斯兰金融工具之间调动着数以百亿计的令吉——使其成为马来西亚一家规模庞大的机构投资者。本篇聚焦这一金融与企业面向，而非朝圣仪式事务。

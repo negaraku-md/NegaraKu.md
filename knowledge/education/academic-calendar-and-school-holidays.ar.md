@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["التقويم المدرسي", "العطلات المدرسية", "عطلة الفصل الدراسي", "المجموعة أ", "المجموعة ب", "KPM", "التقويم الأكاديمي", "school calendar Malaysia"]
+framework: data-reference
 ---
 
 خطّط لرحلة عائلية في مطلع العام، وسرعان ما تلاحظ أمرًا واحدًا: جارك في كلنتان يبدأ المدرسة قبل طفلك في سلانغور بيوم. وهذا ليس خطأً — بل هكذا صُمِّم التقويم المدرسي في ماليزيا.

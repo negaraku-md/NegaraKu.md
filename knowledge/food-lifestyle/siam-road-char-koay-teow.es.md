@@ -91,6 +91,7 @@ verificationNeeded:
   - "Aquí la distinción MICHELIN se describe como Bib Gourmand, pero la página oficial de la ficha muestra el galardón como un icono en lugar de texto que pueda capturarse directamente; las distinciones MICHELIN se revisan cada año, así que confirma el estado actual de Bib Gourmand en guide.michelin.com antes de citarlo."
   - "El año de la edición: la prensa malasia menciona una edición MICHELIN Guide Kuala Lumpur & Penang 2027 (anunciada, según se informa, el 4 de noviembre de 2026), mientras que la última edición oficial confirmable de forma independiente es la de 2026 — confirma qué edición incluye este puesto frente a la página oficial de selección."
   - "El horario (indicado de martes a sábado 12:00–18:00) proviene de la ficha de MICHELIN; el horario y los días de un puesto a la brasa que abre solo medio día cambian a menudo, así que confírmalo in situ antes de viajar."
+framework: profile
 ---
 
 Entre los muchos puestos de char koay teow de George Town, el de Jalan Siam se ha

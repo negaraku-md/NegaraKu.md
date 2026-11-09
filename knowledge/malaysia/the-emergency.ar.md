@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["الطوارئ المالاياوية", "Malayan Emergency", "Darurat", "خطة بريغز", "Briggs Plan", "القرى الجديدة", "new villages", "kampung baru", "الحزب الشيوعي المالاياوي", "Malayan Communist Party", "Sungai Siput"]
+framework: history-culture
 ---
 
 كانت كلمة «طوارئ» خيارًا قانونيًا، لا وصفًا. فتسمية النزاع الذي دام اثني عشر عامًا في مالايا طوارئ لا حربًا أبقت مزارع المطّاط ومناجم القصدير قابلةً للتأمين بموجب وثائق تأمين لندنية تستثني أعمال الحرب. كان القتال حقيقيًا، وبلغت حصيلة القتلى الآلاف، وحملت الدولة التي خرجت منه أدواتٍ — بطاقات هوية، ومناطق إعادة توطين، وسلطات احتجاز — بقيت عقودًا بعد الطوارئ.

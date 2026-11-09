@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "climate-and-biodiversity" }
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
+framework: profile
 ---
 
 Trước khi có Đường cao tốc Pan Borneo hay các chuyến bay MASwings, cách duy nhất để đến vùng nội địa Sarawak là ngược dòng sông trong nhiều ngày. Các thành phố lớn ngày nay — Sibu, Kapit, Sandakan, Pekan — không tồn tại một cách tình cờ ở vị trí của mỗi thành phố. Mỗi thành phố nằm ở nơi được sông quyết định: ở cửa sông, ở ngã ba nơi hai con sông gặp nhau, hoặc ở điểm xa nhất mà tàu vẫn còn ngược dòng được. Ba con sông — Rajang, Kinabatangan và Pahang — thể hiện khuôn mẫu này rõ ràng nhất.

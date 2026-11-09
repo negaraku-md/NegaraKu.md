@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "beza KWSP PERKESO", "caruman berkanun pekerja Malaysia", "potongan gaji KWSP SOCSO", "kadar caruman KWSP", "kategori SOCSO"]
+framework: explainer
 ---
 
 Open any Malaysian employee's payslip and there are two statutory deductions

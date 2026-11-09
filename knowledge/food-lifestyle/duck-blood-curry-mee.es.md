@@ -93,6 +93,7 @@ verificationNeeded:
   - "El año de la edición: la prensa malasia menciona una edición MICHELIN Guide Kuala Lumpur & Penang 2027 (anunciada, según se informa, el 4 de noviembre de 2026), mientras que la última edición oficial confirmable de forma independiente es la de 2026 — confirma qué edición incluye este local frente a la página oficial de selección."
   - "El horario (indicado de 12:00 a 22:00, cerrado el jueves) proviene de la ficha de MICHELIN y puede cambiar — confírmalo in situ antes de viajar."
   - "La descripción de MICHELIN se centra en el caldo, el cerdo asado y la salsa de chile y no describe en sí la sangre de pato; confirma directamente con el local la oferta actual del ingrediente de sangre de pato si es eso lo que te atrae."
+framework: profile
 ---
 
 El nombre promete sangre de pato — un ingrediente tradicional del curry mee —,

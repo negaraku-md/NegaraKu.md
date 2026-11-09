@@ -71,6 +71,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph", "is emphasis of matter a qualification"]
+framework: explainer
 ---
 
 A lender rings to say the accounts are qualified. They are not. The report has an

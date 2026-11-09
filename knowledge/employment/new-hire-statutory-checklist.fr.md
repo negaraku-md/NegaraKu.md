@@ -120,6 +120,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["liste nouvelle embauche Malaisie", "CP22 Malaisie", "enregistrer employé EPF SOCSO", "conformité d'intégration Malaisie", "approbation section 60K", "new hire checklist malaysia", "cp22 malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 Une embauche, quatre autorités, six horloges. Aucune d'elles ne démarre à la date de l'offre : elles démarrent au **début de l'emploi**, et c'est pourquoi une offre acceptée en mars pour une prise de poste en juin est un problème de juin.

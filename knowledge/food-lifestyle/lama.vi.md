@@ -79,6 +79,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn MICHELIN Guide Kuala Lumpur & Penang được rà soát hằng năm; bài viết này phản ánh ấn bản 2026 (công bố tháng 11 năm 2025), trong đó Lama là mục mới. Một ấn bản mới hơn — ví dụ danh sách 2027 — có thể thêm, loại bỏ hoặc xếp lại nó, vì vậy hãy xác nhận lại tình trạng Bib Gourmand hiện tại tại guide.michelin.com trước khi dựa vào."
   - "Mâu thuẫn địa chỉ: trang nhà hàng trực tiếp của MICHELIN ghi G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, trong khi một số nguồn thứ cấp đặt Lama ở Setapak / Taman Ayer Panas. Hãy xác nhận trực tiếp địa điểm hiện tại chính xác (và liệu có nhiều hơn một cơ sở) trước khi ghé thăm."
+framework: profile
 ---
 
 Ẩm thực Peranakan, về bản chất, là món ăn gia đình — những món tốn công sức được

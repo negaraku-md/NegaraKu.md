@@ -47,6 +47,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd" }
 related: ["sdn-bhd", "companies-act-2016", "register-sdn-bhd"]
 keywords: ["paid-up capital Malaysia", "modal berbayar", "share capital Sdn Bhd", "company capitalisation"]
+framework: explainer
 ---
 
 **மலாய்:** Modal Berbayar · **ஆங்கிலம்:** Paid-up Capital · **சீனம்:** 实缴资本

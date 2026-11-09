@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 Setiap kali lampu di rumah anda menyala di Semenanjung, ada kemungkinan besar elektrik itu mengalir melalui wayar milik satu syarikat sahaja: Tenaga Nasional Berhad. Ia utiliti elektrik terbesar negara, dengan lebih 11 juta pelanggan di Semenanjung Malaysia, Sabah dan Labuan sehingga 30 September 2025.

@@ -76,6 +76,7 @@ faq:
     a: Dans une large mesure non — ce schéma est pour l'essentiel révolu. Le Rapport de l'enquête sur les migrations, Malaisie, 2024 du DOSM a constaté que 84,6 % des déplacements intra-étatiques étaient d'urbain à urbain, contre seulement 0,6 % de rural à urbain. La plupart de ceux qui se déplacent sont déjà des résidents urbains s'installant dans une autre zone urbaine. Une fois qu'un pays dépasse environ les trois quarts d'urbanisation, les évolutions ultérieures proviennent principalement de l'accroissement naturel, de la reclassification des limites et de la mobilité d'une zone urbaine à l'autre, et non du vidage des villages.
   - q: Où s'est concentrée la majeure partie de la croissance urbaine de la Malaisie ?
     a: Dans la vallée de Klang (Klang Valley). Lors du recensement de 2020, quatre districts contigus — Kuala Lumpur (1 982 112), Petaling (2 298 130), Ulu Langat (1 400 461) et Klang (1 088 942) — regroupaient ensemble environ 6,77 millions de personnes, soit plus d'un cinquième de la population nationale de 32,4 millions. Le Selangor est désormais l'État le plus peuplé, avec 6 994 423 habitants, et il est urbanisé à 95,8 %, tandis que le Kelantan, à 44,1 %, est l'État le moins urbanisé.
+framework: data-reference
 ---
 
 ## Trois Malaisiens sur quatre vivent désormais quelque part que le DOSM qualifie d'« urbain »

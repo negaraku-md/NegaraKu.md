@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
+framework: profile
 ---
 
 Gamuda khởi đầu với một đường cao tốc của Malaysia và phát triển thành một trong những nhà thầu đào hầm và đường sắt lớn nhất khu vực. Ngày nay, một tỷ trọng ngày càng tăng trong công việc của họ nằm ngoài Malaysia.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
+framework: profile
 ---
 
 两家公司，股东相同，客户相同。一家在吉隆坡注册，依据 Income Tax Act 1967

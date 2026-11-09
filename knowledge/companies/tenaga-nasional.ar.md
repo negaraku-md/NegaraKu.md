@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "مرفق الكهرباء", "utiliti elektrik", "الشبكة الوطنية", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 في كل مرة تُضاء فيها الأنوار في منزلك في شبه الجزيرة، ثمة احتمال كبير أن الكهرباء تتدفّق عبر أسلاك تملكها شركة واحدة: Tenaga Nasional Berhad. وهي أكبر مرفق كهرباء في البلاد، بأكثر من 11 مليون مشترك عبر شبه جزيرة ماليزيا وصباح ولابوان حتى 30 سبتمبر 2025.

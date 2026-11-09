@@ -101,6 +101,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "The company and every officer commit an offence"
+framework: how-to
 ---
 
 நடுநிலையான ஒரு காரணத்திற்காக யாரும் தணிக்கையாளரை மாற்றுவதில்லை. கட்டணம்

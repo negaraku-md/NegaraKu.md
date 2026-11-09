@@ -80,6 +80,7 @@ related: ["maxis", "axiata"]
 keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global", "fibre broadband Malaysia", "JENDELA", "submarine cable Malaysia", "government-linked company"]
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
+framework: profile
 ---
 
 马来西亚几乎每一条光纤宽带线路、每一条企业电路以及每一条海底数据电缆，在抵达任何人之前都会先经过一家公司。马来西亚电信有限公司（Telekom Malaysia Berhad，TM）是国家主导的电信商——它建成了该国大部分的固网，并至今拥有竞争对手与国际电信商都依赖的骨干网。

@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "socso-eis-employer-guide" }
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["salarié vs travailleur indépendant malaisie", "travailleur indépendant malaisie", "classification des travailleurs malaisie", "contract for service vs contract of service", "classification travailleur de plateforme malaisie", "employee vs contractor malaysia"]
+framework: explainer
 ---
 
 Jusqu'au 31 mars 2026, c'était une question binaire en Malaisie : contrat **de** service (contract *of* service), ou contrat **pour** services (contract *for* service). La Gig Workers Act 2025 a changé la forme du problème en créant un troisième statut doté de sa propre loi, de son propre tribunal et de sa propre déduction — et en définissant ce statut **négativement**, de sorte que la question de classification que vous tranchiez déjà mal doit désormais être résolue en premier.

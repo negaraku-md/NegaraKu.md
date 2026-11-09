@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["तथ्य पर ज़ोर मलेशिया", "प्रमुख लेखा परीक्षा तथ्य मलेशिया", "emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph"]
+framework: explainer
 ---
 
 एक ऋणदाता फ़ोन करके कहता है कि खाते योग्य (qualified) हैं। वे नहीं हैं। रिपोर्ट में एक अतिरिक्त पैराग्राफ है, एक स्वच्छ राय है, और उस पैराग्राफ के अंत में एक वाक्य है जो ऐसा कहता है।

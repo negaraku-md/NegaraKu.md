@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["kadar duti setem Malaysia", "Jadual Pertama Akta Setem 1949", "duti setem pindahan harta tanah", "duti setem pindahan saham 0.3%", "duti setem perjanjian sewa", "kadar duti setem"]
+framework: data-reference
 ---
 
 Duti setem dikenakan ke atas **suratcara, bukan transaksi**. Urus niaga

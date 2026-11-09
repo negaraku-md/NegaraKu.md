@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "government-linked-companies" }
 related: []
 keywords: ["LTAT", "Lembaga Tabung Angkatan Tentera", "Boustead Holdings", "Project Earth", "Angkatan Tentera Malaysia", "GLC", "dividende", "Pharmaniaga"]
+framework: profile
 ---
 
 Chaque soldat et chaque marin malaisien met de côté une partie de son salaire dans un seul et même endroit — et cet argent a longtemps dépendu du sort d'un conglomérat criblé de dettes. Voici l'histoire de LTAT et de Boustead Holdings.

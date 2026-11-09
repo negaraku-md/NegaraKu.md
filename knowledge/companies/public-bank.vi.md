@@ -78,6 +78,7 @@ verificationNeeded:
   - "Quy mô mạng lưới: khoảng 260 chi nhánh trong nước, hơn 21.000 nhân viên và khoảng 9 triệu khách hàng trên toàn tập đoàn — xác nhận số lượng hiện hành."
   - "Tỷ lệ nắm giữ 44,15% trong LPI Capital Bhd — xác nhận tỷ lệ sở hữu cổ phần hiện hành và mọi chi tiết hoàn tất."
   - "Ban lãnh đạo: Tay Ah Lek làm giám đốc điều hành và Tổng Giám đốc, cùng chủ tịch đương nhiệm — xác nhận các vị trí hiện hành trong hội đồng quản trị."
+framework: profile
 ---
 
 Ít có công ty Malaysia nào gắn bó mật thiết với một người sáng lập duy nhất như Public Bank gắn với Tan Sri Teh Hong Piow. Bắt đầu với một chi nhánh ở trung tâm Kuala Lumpur năm 1966, ông đã xây dựng một đơn vị cho vay phát triển thành một trong những tập đoàn ngân hàng lớn nhất của đất nước — và một tập đoàn nổi tiếng ít vì quy mô mà hơn vì sự thận trọng, ghi nhận các tỷ lệ nợ xấu thấp nhất ngành ngân hàng hết thập kỷ này sang thập kỷ khác.

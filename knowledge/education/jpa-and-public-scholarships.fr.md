@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 Obtenir 9A+ au SPM ne garantit pas automatiquement une bourse complète à l'étranger — car en Malaisie, le parrainage public ne tient pas seulement aux notes, mais aussi au programme auquel vous postulez, aux conditions de service associées, et à la politique qui régit chaque fonds. Comprendre cette carte des parrains importe, car le mauvais choix peut signifier des milliers de ringgit que vous devrez rembourser plus tard.

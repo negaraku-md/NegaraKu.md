@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 மத்திய பேராக்கில் உள்ள ஒரு மலைமுகட்டின் மேற்குப் பக்கத்தில் ஒரு தேங்காயைப் போடுங்கள், இறுதியில், அது அழுகி மலாக்கா நீரிணையை அடையும். அதே மலைமுகட்டின் மறுபக்கத்தில், சில நூறு மீட்டர் கிழக்கே ஒன்றைப் போடுங்கள், அது தென் சீனக் கடலில் போய்ச் சேரும். நிலப்பரப்பில் வேறு எதுவும் மாறவில்லை. அது கோட்டின் எந்தப் பக்கத்தில் விழுந்தது என்பது மட்டுமே.

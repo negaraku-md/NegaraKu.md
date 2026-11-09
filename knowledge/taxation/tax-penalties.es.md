@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["recargo fiscal Malasia", "tax penalty Malaysia", "tasas de recargo LHDN", "recargo sección 113(2)", "recargo pago tardío SST", "recargo timbrado tardío impuesto de timbre", "recargo RPGT", "kesalahan denda dan penalti", "sección 112(3) triple del impuesto"]
+framework: data-reference
 ---
 
 No hay una única escala de recargos fiscales malasia. Cinco leyes corren cada una

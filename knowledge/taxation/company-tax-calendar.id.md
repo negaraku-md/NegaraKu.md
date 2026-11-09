@@ -169,6 +169,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["tarikh akhir cukai syarikat Malaysia", "tarikh akhir Form C", "tarikh tuntut CP204", "tarikh akhir Form E", "program memfail LHDN 2026", "tarikh akhir borang C", "kalendar cukai Malaysia"]
+framework: data-reference
 ---
 
 Hampir setiap tenggat pajak Malaysia adalah sebuah **aturan**, bukan

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 When 85,500 spectators fill the three-tier curve of the TM National Stadium on a football final night, they are sitting inside the largest symbol of Malaysia's sports infrastructure — yet it is only one of several venues that carry the nation's major events.

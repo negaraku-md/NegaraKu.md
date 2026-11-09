@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["stamp duty rates Malaysia", "First Schedule Stamp Act 1949", "property transfer stamp duty", "share transfer stamp duty 0.3%", "tenancy agreement stamp duty", "kadar duti setem"]
+framework: data-reference
 ---
 
 El impuesto del timbre se cobra sobre **instrumentos, no transacciones**. Un mismo negocio comercial puede no llevar impuesto, llevar RM10 o seis cifras según lo que se haya firmado y bajo qué punto del Primer Anexo caiga. Acertar con el punto es todo el ejercicio — y, bajo la autoliquidación, es ahora tarea del contribuyente y no del Recaudador.

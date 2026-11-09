@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["ساراواك للطاقة", "Sarawak Energy", "SEB", "SESCO", "باكون", "Bakun", "مورم", "Murum", "باليه", "Baleh", "الطاقة الكهرومائية", "مرفق كهرباء ساراواك", "SCORE"]
+framework: profile
 ---
 
 بينما تعتمد شبه جزيرة ماليزيا على شركة تيناغا ناسيونال (Tenaga Nasional Berhad)، تُنير ساراواك مصابيحها بنفسها عبر مرفق واحد لا تتّصل شبكته بالشبكة الوطنية مطلقًا — ويُولَّد كله تقريبًا من مساقط مياه سدود عملاقة في الداخل.

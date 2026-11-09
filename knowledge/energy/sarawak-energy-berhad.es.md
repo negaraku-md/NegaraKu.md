@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 Mientras la Malasia Peninsular depende de Tenaga Nasional Berhad, Sarawak enciende sus propias lámparas a través de una única empresa cuya red no está en absoluto conectada a la red nacional, y que se genera casi por completo con las caídas de agua de las gigantescas represas del interior.

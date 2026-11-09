@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "minyak dan gas Sarawak", "Perjanjian Malaysia 1963", "hutan hujan Borneo"]
+framework: profile
 ---
 
 Sarawak ialah Malaysia dalam nada yang berbeza. Ia sejauh ini negeri terbesar dalam

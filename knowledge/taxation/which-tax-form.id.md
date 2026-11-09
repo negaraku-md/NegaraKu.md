@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "form-e-ea-cp8d-malaysia" }
 related: ["personal-tax-rates", "individual-tax-residence", "form-e-ea-cp8d-malaysia", "form-c-and-cp204"]
 keywords: ["borang LHDN yang mana", "Borang BE vs Borang B", "borang BE tarikh akhir", "Borang M bukan pemastautin Malaysia", "tarikh akhir memfail LHDN 2026", "tempoh tangguh e-Filing Malaysia"]
+framework: data-reference
 ---
 
 Dua hal menentukan borang Anda: apakah Anda **berdomisili** berdasarkan s.7(1),

@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "written-resolutions" }
 related: ["written-resolutions", "agm-requirements", "egm-requisition", "remove-a-director"]
 keywords: ["notice period resolution Malaysia", "21 days special resolution", "special notice 28 days", "short notice meeting 90 per cent", "section 316 Companies Act 2016"]
+framework: data-reference
 ---
 
 ถามสำนักงานเลขานุการมาเลเซียสามแห่งว่ามติพิเศษต้องบอกกล่าวกี่วัน แล้วคุณจะได้ 14, 21 และ "ขึ้นอยู่กับข้อบังคับ" มีเพียงหนึ่งเดียวที่ถูก และข้อบังคับทำได้เพียงยืดออกเท่านั้น

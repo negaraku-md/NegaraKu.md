@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
+framework: profile
 ---
 
 டெரெங்கானு பற்றிய மிகவும் புகழ்பெற்ற இரண்டு விஷயங்கள் ஒன்றுக்கொன்று சுமார் 60

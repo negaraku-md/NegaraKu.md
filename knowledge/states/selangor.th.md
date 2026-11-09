@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
+framework: profile
 ---
 
 สลังงอร์ (Selangor) คือรัฐที่เศรษฐกิจของมาเลเซียพึ่งพิงอยู่อย่างเงียบ ๆ รัฐนี้โอบล้อมเมืองหลวงของสหพันธรัฐอย่างกัวลาลัมเปอร์และเมืองหลวงด้านการบริหารอย่างปุตราจายาไว้อย่างสมบูรณ์ และทั้งสามแห่งนี้รวมกันเป็นหุบเขากลัง (Lembah Klang) — เขตเมืองและอุตสาหกรรมต่อเนื่องที่ใหญ่ที่สุดในประเทศ

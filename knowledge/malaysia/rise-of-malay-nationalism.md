@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 Sebelum ada mana-mana parti kebangsaan besar, gerakan Melayu bermula di dewan sekolah, di halaman akhbar, dan di bilik mesyuarat persatuan negeri yang kecil. Antara tahun 1930-an dan hujung Perang Dunia Kedua, arus-arus inilah yang perlahan-lahan menjelma menjadi kuasa politik yang, pada 1946, mampu menyatukan orang Melayu menentang satu dasar British.

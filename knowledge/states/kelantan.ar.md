@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["كلنتان", "Kelantan", "كوتا بهارو", "Kota Bharu", "اقتصاد كلنتان", "الحرف اليدوية في كلنتان", "ماك يونغ", "mak yong", "Kelantan Darul Naim"]
+framework: profile
 ---
 
 عادةً ما يُروى اقتصاد ماليزيا من خلال المصنع. وكلنتان هي الاستثناء الأوضح: إذ لم

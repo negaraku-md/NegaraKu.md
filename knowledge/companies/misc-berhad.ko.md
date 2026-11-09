@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["petronas"]
 keywords: ["MISC Berhad", "LNG shipping", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "maritime Malaysia", "MMHE"]
+framework: profile
 ---
 
 MISC Berhad는 말레이시아 에너지 경제의 해양 부문 — 국가의 가스와 석유를 세계의 대양을 가로질러 실어 나르는 그룹 — 입니다.

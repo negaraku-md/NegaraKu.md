@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "La sélection du Guide MICHELIN Malaysia (Kuala Lumpur & Penang) est révisée chaque année. Ce profil reflète l'édition 2026 ; vérifiez que le Bib Gourmand figure toujours dans la dernière édition (une sélection 2027 se dessine), car les distinctions peuvent être ajoutées ou retirées chaque année."
   - "L'année de fondation (1960) et la propriété de troisième génération proviennent de la fiche MICHELIN ; certaines sources tierces ont indiqué un numéro de rue différent, alors confirmez l'adresse avant de vous y rendre."
+framework: profile
 ---
 
 Une partie des meilleurs mets de Penang sort d'un chariot, non d'une cuisine, et

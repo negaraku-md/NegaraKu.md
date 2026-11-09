@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["mets patrimoine national", "makanan warisan kebangsaan", "culture du petit-déjeuner Malaisie UNESCO", "bak kut teh patrimoine national", "Loi sur le patrimoine national 2005", "National Heritage Act 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 Le nasi lemak que vous avez mangé ce matin est désormais officiellement inscrit dans deux registres patrimoniaux différents — l'un à Putrajaya, l'autre à Paris. Les deux sont réels, mais ils sont conférés par des organismes différents, sur des bases différentes, et signifient des choses différentes.

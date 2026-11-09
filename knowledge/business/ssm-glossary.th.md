@@ -80,6 +80,7 @@ keywords:
   - "Form 9 SSM replacement"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 ครึ่งหนึ่งของความสับสนในการบริหารบริษัทมาเลเซียคือคำศัพท์ สองทะเบียนที่มีอักษรย่อคล้ายกัน สี่พอร์ทัลที่มี

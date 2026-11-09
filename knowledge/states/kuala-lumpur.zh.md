@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL federal territory", "Bursa Malaysia", "Petronas Twin Towers", "Klang Valley"]
+framework: profile
 ---
 
 吉隆坡是马来西亚的国家首都，但在宪制上它并不是一个州属——它是联邦直辖区，1974 年从雪兰莪划出，由联邦政府直接管辖，而不是由州统治者或民选州议会管辖。

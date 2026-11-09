@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 ไอเดียแรกที่ผู้ก่อตั้งทุกคนนำมาสู่การเลือกที่ตั้งในมาเลเซียคือการย้ายออกจากหุบเขากลังตัดบิลค่าจ้าง ข้อมูลบอกว่าใช่ — และกฎหมายบอกว่าการประหยัดส่วนใหญ่ไม่ใช่ของคุณที่จะรับ เพราะเพดานและการสมทบทุกอย่างเหนือมันกำหนดในระดับกลาง

@@ -69,6 +69,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["liste des CDI de la Malaisie", "taux des conventions de double imposition de la Malaisie", "retenue conventionnelle Malaisie", "pays ayant une convention fiscale avec la Malaisie", "taux de redevance CDI Malaisie"]
+framework: data-reference
 ---
 
 Une convention est un plafond, jamais un plancher. Si le taux interne au titre de l'Annexe 1 de

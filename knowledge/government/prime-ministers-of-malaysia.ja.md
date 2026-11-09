@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["prime ministers of Malaysia", "list of Malaysian prime ministers", "Perdana Menteri Malaysia", "Anwar Ibrahim", "Mahathir Mohamad"]
+framework: data-reference
 ---
 
 マレーシアの政府の長は**首相（Perdana Menteri）**——下院（Dewan Rakyat）の多数の信任を得て、

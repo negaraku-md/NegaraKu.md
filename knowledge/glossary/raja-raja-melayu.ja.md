@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 年に一度、九人の統治者と四人の州元首（Yang di-Pertua Negeri）がクアラルンプールのある会議室に集まり、国会には下せない決定を行う——その一つが、誰が連邦君主になるかを選ぶことである。この会合が統治者会議（Majlis Raja-Raja）であり、そこに名を連ねる統治者たちはマレー統治者（Raja-Raja Melayu）として知られている。

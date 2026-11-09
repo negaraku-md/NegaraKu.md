@@ -152,6 +152,7 @@ keywords:
   - "Labuan trust company"
   - "syarikat Labuan"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 关于纳闽，有两类报道，而且两类都毫无用处。

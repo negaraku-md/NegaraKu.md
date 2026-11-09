@@ -47,6 +47,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["gdp-overview"]
 keywords: ["Malaysia palm oil", "MPOB", "MSPO certification", "palm oil exports Malaysia"]
+framework: data-reference
 ---
 
 ## 概観

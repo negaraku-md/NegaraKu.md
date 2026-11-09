@@ -65,6 +65,7 @@ relations:
   - { rel: "affects", to: "mbrs-2-filing-guide" }
 related: ["sdn-bhd-bookkeeping", "accounting-records-section-245", "mbrs-2-filing-guide", "mbrs-tagging-errors", "financial-reporting-deadlines", "epf-socso-guide", "hrd-corp-levy-malaysia", "accounting-software-malaysia"]
 keywords: ["in-house vs outsourced bookkeeping Malaysia", "cost of hiring a bookkeeper Malaysia", "outsourced accounting Sdn Bhd", "employer EPF SOCSO EIS cost", "bookkeeping fees Malaysia"]
+framework: decision
 ---
 
 이 질문을 검색하면 모든 결과가 회계 회사에 의해 작성됩니다. 이는 그 회사들에 대한 비방이

@@ -92,6 +92,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
+framework: history-culture
 ---
 
 马来西亚于1960年7月31日宣告其第一次共产党紧急状态结束——随后却在此后近三十年的大部分时间里，与第二次叛乱周旋。政府曾把游击队武装逼到半岛的边缘地带，但在战斗被宣告结束时，这支武装并未解散。它撤过泰国边境，在那里重新集结，八年之后恢复了行动。

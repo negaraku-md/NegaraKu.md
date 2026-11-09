@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "civil-and-syariah-courts" }
 related: ["court-hierarchy", "kehakiman-mahkamah", "syariah", "civil-and-syariah-courts", "akta"]
 keywords: ["mahkamah", "término mahkamah", "jerarquía de tribunales de Malasia", "Tribunal Federal", "Tribunal de Apelación", "Tribunal Superior", "Tribunal de Sesiones", "Tribunal de Magistrados", "Tribunal Syariah"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Mahkamah · **English:** Court · **中文:** 法院

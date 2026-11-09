@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["तेरेंगानु Terengganu", "कुआला तेरेंगानु Kuala Terengganu", "तेरेंगानु उत्कीर्ण पत्थर Batu Bersurat Terengganu", "तेरेंगानु के सुल्तान", "केर्तिह पेट्रोलियम Kertih", "सबसे पुराना जावी लेखन"]
+framework: profile
 ---
 
 तेरेंगानु के बारे में दो सबसे प्रसिद्ध चीज़ें एक-दूसरे से लगभग 60 किलोमीटर की दूरी पर स्थित हैं, और दोनों को देख पाना कठिन है।

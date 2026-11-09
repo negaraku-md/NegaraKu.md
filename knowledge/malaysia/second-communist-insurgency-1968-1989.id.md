@@ -92,6 +92,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
+framework: history-culture
 ---
 
 Malaysia memproklamasikan Darurat komunis pertamanya berakhir pada 31 Juli 1960 — dan kemudian berhadapan dengan pemberontakan kedua sepanjang sebagian besar tiga dekade berikutnya. Tentara gerilya yang telah didorong oleh pemerintah ke pinggir semenanjung tidak dibubarkan ketika pertempuran diproklamasikan berakhir. Ia mundur melintasi perbatasan Thailand, berkumpul kembali di sana, dan delapan tahun kemudian melanjutkan kembali operasinya.

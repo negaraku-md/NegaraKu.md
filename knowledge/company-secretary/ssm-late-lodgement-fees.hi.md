@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "financial-statements-lodgement", "extension-of-time-ssm", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["SSM विलंबित दाखिल शुल्क", "SSM विलंबित दाखिल पर दंड", "Practice Directive 1/2017", "समाधान compound SSM मलेशिया", "वार्षिक विवरणी विलंब दंड मलेशिया", "MBRS दंड छूट", "SSM late lodgement fee"]
+framework: data-reference
 ---
 
 SSM दंड उद्धृत करने वाली अधिकांश मलेशियाई साइटें ऐसे आँकड़े उद्धृत करती हैं जिन्हें

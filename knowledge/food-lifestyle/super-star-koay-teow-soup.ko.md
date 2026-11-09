@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Malaysia(Kuala Lumpur & Penang) 선정은 매년 개정됩니다. 이 프로필은 2026년판을 반영합니다. 상은 매년 추가되거나 삭제될 수 있으므로, 최신판(2027년 선정이 형성 중)에서 빕 구르망이 여전히 유효한지 확인하십시오."
   - "창업 연도(1960)와 3대째 운영은 MICHELIN 등재 정보에 근거합니다. 정확한 번지는 일부 제삼자 출처에서 다르게 보도되었으므로, 방문 전에 주소를 확인하십시오."
+framework: profile
 ---
 
 페낭 최고의 음식 가운데 일부는 주방이 아니라 수레에서 나오며, Super Star Koay

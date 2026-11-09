@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
+framework: profile
 ---
 
 Gamuda bermula dengan sebuah lebuh raya Malaysia dan berkembang menjadi salah satu kontraktor penerowongan dan rel terbesar di rantau ini. Hari ini, bahagian kerjanya yang semakin besar terletak di luar Malaysia.

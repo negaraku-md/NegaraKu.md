@@ -70,6 +70,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: ["minimum-wage-and-median-income", "household-spending-breakdown"]
 keywords: ["cost of living Sabah", "cost of living Sarawak", "why is Sabah expensive", "cabotage policy Malaysia", "East Malaysia prices", "Sabah Sarawak household income", "PAKW index Malaysia", "price uniformity Sabah Sarawak Labuan"]
+framework: data-reference
 ---
 
 Beli sekaleng Milo di Klang, dan kaleng yang sama di Kota Kinabalu, harganya

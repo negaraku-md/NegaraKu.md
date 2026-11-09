@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
+framework: data-reference
 ---
 
 ปีนัง (Penang) เป็นรัฐมาเลเซียหนึ่งเดียวที่ "ค่าครองชีพ" ไม่สามารถตอบด้วยตัวเลขเดียว เพราะปีนังไม่ใช่ที่เดียว มันเป็นเกาะและแถบแผ่นดินใหญ่ เชื่อมด้วยสะพานสองแห่งและเรือข้ามฟาก โดยมีแกนมรดกโลก UNESCO อยู่ด้านหนึ่งและเมืองอุตสาหกรรมท่าเรือคอนเทนเนอร์อยู่อีกด้าน ตัวเลขใด ๆ ที่ปรับ "ปีนัง" ให้เป็นบรรทัดเดียวได้ทิ้งข้อมูลที่มีประโยชน์ที่สุดไปแล้ว

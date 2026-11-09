@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 每年一次，九位世袭君主和四位州元首齐聚吉隆坡的一间会议室，作出议会无法作出的决定——其中之一便是推选谁将出任联邦君主。这一聚会就是统治者会议（Majlis Raja-Raja），而组成它的世袭君主则被称为马来统治者（Raja-Raja Melayu）。

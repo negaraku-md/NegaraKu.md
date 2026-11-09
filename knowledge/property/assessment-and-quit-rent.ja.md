@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 多くの新規住宅所有者は、存在するとは思ってもみなかった二枚目の請求書を受け取って驚く。今年すでに「地代」を支払ったのに——なぜ今度は市議会から追討通知が届くのか？

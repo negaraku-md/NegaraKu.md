@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
+framework: profile
 ---
 
 பகாங் (Pahang) மலேசிய தீபகற்பத்தின் நிலப்பரப்பில் கால் பங்குக்கும் மேலானதை

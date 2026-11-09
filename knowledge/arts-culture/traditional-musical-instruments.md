@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
+framework: explainer
 ---
 
 Bunyi yang sama berulang di sebalik hampir setiap persembahan seni Malaysia: rentak kulit kambing yang dipalu berkumpulan di majlis kahwin, seruling tinggi yang mendayu membuka babak wayang kulit, dan petikan tali kayu yang menenangkan di rumah panjang Sarawak. Alat yang menghasilkannya sering muncul dalam banyak artikel seni — jadi halaman ini mengumpulkannya di satu tempat.

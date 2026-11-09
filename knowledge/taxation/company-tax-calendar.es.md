@@ -170,6 +170,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["fecha límite impuesto de sociedades Malasia", "fecha límite Formulario C", "fecha de vencimiento CP204", "fecha límite Formulario E", "programa de presentación LHDN 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 Casi todas las fechas límite fiscales malasias son una **regla**, no una fecha. La

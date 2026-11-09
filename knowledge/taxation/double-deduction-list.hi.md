@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["मलेशिया दोहरी कटौती", "आयकर अतिरिक्त कटौती", "दोहरी कटौती P.U.(A) सूची", "मलेशिया कर प्रोत्साहन राजपत्र आदेश", "double deduction Malaysia", "further deduction income tax"]
+framework: data-reference
 ---
 
 इसे कोई सूची के रूप में प्रकाशित नहीं करता, और यही कारण है कि दावे गलत होते हैं।

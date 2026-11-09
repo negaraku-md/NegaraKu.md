@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 축구 결승전 밤에 85,500명의 관중이 TM 국립경기장의 3층 곡선 스탠드를 가득 메울 때, 그들은 말레이시아 스포츠 기반시설의 가장 거대한 상징 안에 앉아 있는 셈입니다. 그러나 이곳은 국가의 주요 행사를 담당하는 여러 경기장 가운데 하나일 뿐입니다.

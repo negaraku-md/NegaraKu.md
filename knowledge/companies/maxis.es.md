@@ -78,6 +78,7 @@ verificationNeeded:
   - "Ingresos por servicios del Negocio Empresarial de 1.610 millones de RM para el ejercicio 2024 — verificar frente a las comunicaciones más recientes."
   - "Participación actual del grupo matriz (intereses vinculados a Usaha Tegas y Saudi Telecom Company) — confirmar frente a las divulgaciones más recientes a Bursa Malaysia."
   - "Situación de la segunda red 5G de Malasia y el papel de Maxis en ella (U Mobile fue seleccionada en noviembre de 2024) — verificar la política y los acuerdos actuales de 5G con la MCMC."
+framework: profile
 ---
 
 Casi todos los malasios con teléfono han sido, en algún momento, clientes de Maxis o de Hotlink. Detrás de esas dos marcas familiares hay una sola empresa — Maxis Berhad — que figura entre los mayores operadores de telecomunicaciones del país y que ha pasado de ser una operadora exclusivamente móvil a un proveedor convergente de móvil, banda ancha para el hogar y conectividad empresarial.

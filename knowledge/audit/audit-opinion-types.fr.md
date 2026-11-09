@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["types d'opinion d'audit Malaisie", "opinion avec réserve Malaisie", "opinion défavorable", "impossibilité d'exprimer une opinion", "ISA 705 diffus", "opinion d'audit modifiée Sdn Bhd", "audit opinion types Malaysia", "qualified opinion"]
+framework: explainer
 ---
 
 Toute page concurrente énumère quatre opinions et définit chacune en une phrase.

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["potongan berganda malaysia", "potongan lanjut cukai pendapatan", "senarai potongan berganda P.U.(A)", "perintah warta insentif cukai malaysia", "potongan dua kali ganda"]
+framework: data-reference
 ---
 
 Tiada sesiapa menerbitkan ini sebagai satu senarai, dan itulah sebabnya tuntutan

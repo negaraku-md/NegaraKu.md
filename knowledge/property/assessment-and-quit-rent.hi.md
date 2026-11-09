@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["संपत्ति मूल्यांकन कर", "cukai pintu", "भूमि-कर", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "राष्ट्रीय भूमि संहिता", "Kanun Tanah Negara", "स्थानीय प्राधिकरण", "भूमि कार्यालय"]
+framework: explainer
 ---
 
 कई नए घर-स्वामी एक ऐसा दूसरा बिल पाकर चौंक जाते हैं जिसकी उन्हें अपेक्षा नहीं थी। वे इस वर्ष पहले ही «भूमि कर» चुका चुके हैं — तो नगरपालिका परिषद भी एक माँग-सूचना क्यों भेज रही है?

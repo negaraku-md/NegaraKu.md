@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["dosm", "sarawak"]
 keywords: ["Malaysia religion statistics", "MyCensus 2020 religion", "census 2020 Malaysia religion", "Islam population Malaysia", "Buddhism population Malaysia", "Christianity population Malaysia", "Hinduism population Malaysia", "DOSM population by religion"]
+framework: data-reference
 ---
 
 Tous les dix ans, le recensement national de la Malaisie pose une question que peu de formulaires officiels posent directement : quelle est votre religion. En 2020, 32,4 millions de personnes ont répondu, et le Département des statistiques de Malaisie (DOSM) a publié le décompte dans un unique paragraphe de sa publication Key Findings : cinq chiffres, sans commentaire joint.

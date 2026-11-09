@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
+framework: profile
 ---
 
 Every kilogram of imported rice that enters Malaysia passes through a single gate — and that gate is held by a private company. That company is BERNAS.

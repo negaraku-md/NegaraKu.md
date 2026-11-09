@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["المجتمعات المسوّرة والمحروسة ماليزيا", "الحي المحروس ماليزيا", "GACOS Malaysia", "رابطة السكان ماليزيا", "residents association Malaysia", "البوابة المتحركة قانون ماليزيا", "قضية Au Kean Hoe", "Street Drainage and Building Act 1974", "اعتراض الطريق العام ماليزيا"]
+framework: explainer
 ---
 
 يمكن أن تبدو منطقتان سكنيتان متطابقتين — كشك حراسة من الطوب، بوابة متحركة مخطّطة، حارس بزيّه يفحص ملصق سيارتك. إحداهما تقوم على أرضية قانونية راسخة. والأخرى قائمة لأن لا أحد طعن فيها بعد.

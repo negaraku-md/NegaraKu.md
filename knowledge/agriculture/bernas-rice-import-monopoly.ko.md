@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
+framework: profile
 ---
 
 말레이시아로 들어오는 수입 쌀은 1킬로그램 한 톨까지 하나의 문을 통과합니다 — 그리고 그 문은 한 민간 회사가 쥐고 있습니다. 그것이 BERNAS입니다.

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
+framework: explainer
 ---
 
 多くの親は近所の「幼稚園（tadika）」に子どもを通わせる——申込書を出し、費用を払えば、それで済んだと思っている。しかし、めったに問われない疑問がある。その幼稚園は、いったいどこに登録されているのか。この答えは些細な問題ではない。子どもの年齢と施設の種類によって、まったく異なる二つの省庁のいずれかの所管となり、適用される法令、規則、執行方法もそれぞれ異なる。

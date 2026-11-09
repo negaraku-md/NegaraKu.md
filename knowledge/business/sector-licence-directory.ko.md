@@ -74,6 +74,7 @@ keywords:
   - "sector licence Malaysia"
   - "BNM SC MCMC licence"
   - "Malaysian licensing authorities"
+framework: data-reference
 ---
 
 말레이시아 사업 인허가의 마스터 목록은 존재하지 않습니다. MalaysiaBiz는 연방, 주,

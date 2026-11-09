@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
+framework: explainer
 ---
 
 เสียงเดียวกันดังซ้ำอยู่เบื้องหลังการแสดงศิลปะของมาเลเซียแทบทุกครั้ง กล่าวคือ จังหวะของหนังแพะที่ตีเป็นกลุ่มในงานแต่งงาน เสียงปี่สูงที่โหยหวนเปิดฉากหนังตะลุง และเสียงดีดสายไม้ที่ผ่อนคลายในบ้านยาวของซาราวัก เครื่องดนตรีที่ให้กำเนิดเสียงเหล่านั้นปรากฏในบทความศิลปะจำนวนมาก — หน้านี้จึงรวบรวมไว้ในที่เดียว

@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 1996년, 말레이시아는 쿠알라룸푸르 남쪽의 한 농지를 구획해 그것을 이 나라의 미래 기술 회랑이라고 선언했습니다. 거의 30년이 지난 지금, 이 나라 경제가 창출하는 4링깃 중 거의 1링깃이 화면과 서버, 온라인 쇼핑 카트를 통해 흐릅니다. 그 두 지점 사이의 여정은 단 한 번의 도약이 아니라 — 서로 이어지는 일련의 정책이었으며, 각 정책이 앞선 것을 바로잡거나 확장했습니다.

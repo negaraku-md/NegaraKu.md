@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["मेलाका", "Melaka", "मेलाका के Yang di-Pertua Negeri", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "मेलाका यूनेस्को धरोहर स्थल", "सुल्तान रहित राज्य", "Melaka Tengah Alor Gajah Jasin", "मेलाका की अर्थव्यवस्था", "पुर्तगाली डच ब्रिटिश धरोहर"]
+framework: profile
 ---
 
 मलेशिया के नौ राज्यों में एक राजा (Raja) है। मेलाका उनमें से नहीं है — भले ही इसका

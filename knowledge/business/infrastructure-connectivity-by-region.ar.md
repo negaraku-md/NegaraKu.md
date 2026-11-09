@@ -112,6 +112,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["إنتاجية ميناء كلانغ TEU", "إنتاجية تانجونغ بيليباس PTP", "إحصاءات موانئ ماليزيا 2025", "تاريخ اكتمال ECRL", "الجسر البري ECRL كوانتان كلانغ", "تغطية 5G بحسب الولاية ماليزيا", "النطاق العريض MCMC بحسب الولاية", "SAIDI ماليزيا", "port klang teu", "ecrl completion date", "5g coverage by state malaysia"]
+framework: data-reference
 ---
 
 لدى ماليزيا نحو ثلاثين ميناءً تجاريًا وميناءان فقط يهمّان بالنسبة للحاويات. ولديها ستة مطارات دولية ومطار واحد ينقل الشحن الجوي على نطاق واسع. ومعرفة أي جانب من ذلك الخط يقع فيه موقعك تساوي أكثر من أي قائمة مرافق في كتيّب ولاية.

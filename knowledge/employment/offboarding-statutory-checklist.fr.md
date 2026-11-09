@@ -159,6 +159,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["liste de sortie Malaisie", "délai CP22A", "formulaire CP21 Malaisie", "lettre de quitus fiscal SPC", "paie finale Malaisie", "liste de sortie d'employé Malaisie", "retenue 90 jours quitus fiscal", "offboarding checklist malaysia", "CP22A deadline", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 L'entretien de départ est la partie dont tout le monde se souvient. Les dépôts sont la partie qui génère des amendes — et l'un d'eux, l'obligation de retenue pour quitus fiscal, est la raison pour laquelle un responsable de paie qui a libéré un salaire final à temps et de bonne foi peut finir par l'expliquer à LHDN.

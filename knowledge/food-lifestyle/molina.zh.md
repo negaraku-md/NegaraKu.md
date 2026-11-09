@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN Guide 的精选名单每年修订；本篇简介反映当前名录所显示的状态，并应在每个新版本发布后重新查核。"
   - "各来源对厨房主事者意见不一：MICHELIN 名录与部分报道将概念归功于荷兰主厨 Sidney Schutte（阿姆斯特丹两-Star 餐厅 Spectrum 的主厨），而其他报道则指 Guillaume Depoortere 为行政主厨——在将菜肴归于具名主厨前，请先核实当前的职务分工。"
   - "Molina 首次获得 Star 的版本（次级报道指向 2024 年 11 月公布的精选名单）应对照 MICHELIN 的记录核实。"
+framework: profile
 ---
 
 Molina 是一家高踞吉隆坡 THE FACE Style 51 楼的创新 fine dining 餐厅。它在

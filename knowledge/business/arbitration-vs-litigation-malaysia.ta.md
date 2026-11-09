@@ -84,6 +84,7 @@ keywords:
   - "AIAC arbitration rules 2026"
   - "arbitration clause Malaysia drafting"
   - "setting aside arbitral award Malaysia section 37"
+framework: decision
 ---
 
 நடுவர் தீர்ப்பு விதிமுறை பொதுவாகக் கடைசியாகப் பேச்சுவார்த்தை செய்யப்படும்

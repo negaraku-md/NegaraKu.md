@@ -86,6 +86,7 @@ verificationNeeded:
   - "Senarai pilihan MICHELIN Guide disemak semula setiap tahun; profil ini mencerminkan status yang ditunjukkan dalam penyenaraian semasa dan patut disemak semula selepas setiap edisi baharu."
   - "Alamat restoran ini dilaporkan secara tidak konsisten merentasi sumber (44 Persiaran Zaaba, TTDI dalam penyenaraian MICHELIN semasa; satu penyenaraian lama memberikan alamat Jalan Sultan / KLCC) — sahkan lokasi semasa."
   - "Penyenaraian MICHELIN merujuk kepada 'the eponymous chef' dan bukannya menamakannya; cef-pemilik Darren Chin didokumenkan dalam liputan sekunder (dilatih di Le Cordon Bleu Paris) — sahkan sebarang perincian biografi selanjutnya terhadap sumber primer."
+framework: profile
 ---
 
 DC. by Darren Chin ialah sebuah restoran fine dining Perancis kontemporari di

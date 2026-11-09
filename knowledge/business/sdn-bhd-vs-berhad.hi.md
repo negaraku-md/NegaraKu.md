@@ -68,6 +68,7 @@ keywords:
   - "section 42 Companies Act 2016"
   - "Sdn Bhd को Berhad में बदलना"
   - "Sdn Bhd और Berhad में अंतर"
+framework: explainer
 ---
 
 लगभग कोई भी किसी Sdn Bhd को Berhad में इसलिए परिवर्तित नहीं करता कि उसके शेयरधारक-स्थान समाप्त

@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "taxe d'évaluation Malaisie", "redevance foncière Malaisie", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 Beaucoup de nouveaux propriétaires sont surpris de recevoir une deuxième facture à laquelle ils ne s'attendaient pas. Ils ont déjà payé l'« impôt foncier » cette année — alors pourquoi le conseil municipal envoie-t-il aussi une mise en demeure ?

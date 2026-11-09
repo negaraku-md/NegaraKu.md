@@ -153,6 +153,7 @@ keywords:
   - "लाबुआन ट्रस्ट कंपनी"
   - "Labuan company Malaysia"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 लाबुआन को दो तरह का कवरेज मिलता है और दोनों बेकार हैं।

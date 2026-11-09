@@ -48,6 +48,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["gdp-overview"]
 keywords: ["मलेशियाई पाम तेल", "MPOB", "MSPO प्रमाणन", "मलेशियाई पाम तेल निर्यात"]
+framework: data-reference
 ---
 
 ## एक नज़र में

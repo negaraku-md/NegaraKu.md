@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "assurance conventionnelle", "conformité à la charia", "wakalah", "tabarru", "partage de l'excédent", "assurance en Malaisie"]
+framework: decision
 ---
 
 Entrez dans la plupart des agences bancaires malaisiennes ou ouvrez une application de comparaison, et le même besoin de protection — une carte médicale, une couverture hypothécaire, une police automobile — se présente en deux versions côte à côte : takaful et assurance conventionnelle. Sur la page des prestations, elles peuvent sembler presque identiques. La différence réside dans la façon dont le produit est construit en dessous.

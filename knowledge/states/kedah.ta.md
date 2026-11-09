@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
+framework: profile
 ---
 
 2024-இல், மின்சார, மின்னணுவியல் மற்றும் ஒளியியல் பொருட்கள் கெடாவின் உற்பத்தித்

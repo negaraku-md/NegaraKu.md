@@ -61,6 +61,7 @@ relations:
   - { rel: "explained-in", to: "register-enterprise-ezbiz" }
 related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd", "register-enterprise-ezbiz", "partnership-malaysia", "llp-vs-sdn-bhd"]
 keywords: ["sole proprietorship vs sdn bhd", "enterprise vs sdn bhd", "perniagaan tunggal atau sdn bhd", "which business structure Malaysia", "sole proprietor tax Malaysia"]
+framework: decision
 ---
 
 பெரும்பாலானவர்கள் இதை ஒரு செலவுக் கேள்வியாக அணுகி தவறான பதிலைப் பெறுகிறார்கள்.

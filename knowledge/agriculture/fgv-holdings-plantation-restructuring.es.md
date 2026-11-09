@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "exclusión de FGV", "privatización de FELDA", "aceite de palma Malasia", "Bursa Malaysia", "empresa de plantaciones", "colonos de FELDA"]
+framework: profile
 ---
 
 En 2012 era la niña mimada del mercado — una megacotización que durante un breve tiempo ocupó el segundo puesto del mundo por detrás de Facebook. Trece años después, la misma empresa se deslizó discretamente fuera de Bursa Malaysia a una fracción de su precio de debut, recomprada por la misma autoridad que la había sacado a bolsa.

@@ -111,6 +111,7 @@ keywords:
   - "impôt de la LLP Malaisie"
   - "exigence d'audit de la LLP"
   - "responsable de la conformité LLP"
+framework: decision
 ---
 
 Ouvrez n'importe quelle comparaison de la LLP malaisienne et vous lirez qu'elle «combine la

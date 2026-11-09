@@ -86,6 +86,7 @@ verificationNeeded:
   - "MICHELIN Guide 的精选名单每年修订；本篇简介反映当前名录所显示的状态，并应在每个新版本发布后重新查核。"
   - "餐厅地址在各来源间记载不一（当前 MICHELIN 名录为 44 Persiaran Zaaba, TTDI；一份较旧的名录给出 Jalan Sultan / KLCC 的地址）——请核实当前位置。"
   - "MICHELIN 名录以「the eponymous chef」（与餐厅同名的主厨）相称，而非指名；主厨兼东主 Darren Chin 在次级报道中有所记载（曾于巴黎 Le Cordon Bleu 受训）——任何进一步的传记性细节请对照第一手来源核实。"
+framework: profile
 ---
 
 DC. by Darren Chin 是一家位于吉隆坡西侧 Taman Tun Dr Ismail（TTDI）的法式当代

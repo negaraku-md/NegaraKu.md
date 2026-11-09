@@ -111,6 +111,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "throughput pelabuhan tanjung pelepas", "statistik pelabuhan malaysia 2025", "tarikh siap ecrl", "jambatan darat ecrl kuantan port klang", "liputan 5g mengikut negeri malaysia", "jalur lebar mcmc mengikut negeri", "saidi malaysia"]
+framework: data-reference
 ---
 
 Malaysia memiliki sekitar tiga puluh pelabuhan komersial, dan hanya dua yang penting untuk kontainer. Ia memiliki enam bandara internasional dan hanya satu yang menggerakkan kargo udara dalam skala besar. Mengetahui di sisi mana garis itu lokasi Anda berada bernilai lebih daripada daftar fasilitas mana pun dalam brosur pemerintah negara bagian.

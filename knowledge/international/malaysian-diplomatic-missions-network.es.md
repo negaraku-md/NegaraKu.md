@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["embajadas malasias", "altas comisiones de Malasia", "consulado malasio", "misiones de Wisma Putra", "servicios consulares Malasia", "Certificado de Emergencia SPC", "embajadas extranjeras en Malasia", "Lista Diplomática y Consular", "Malaysian embassies", "Malaysia high commissions", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 Pierda su pasaporte en Lima, sea detenido en Doha o necesite notarizar un

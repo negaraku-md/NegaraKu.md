@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
+framework: explainer
 ---
 
 马来西亚有13个州属，却只有九个王位。另外四个州由不曾登上王位的人领导——他

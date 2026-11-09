@@ -79,6 +79,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 The mamak stall on your street corner, the freelance designer invoicing from a home office, the weekend baker selling online — most of them are the same legal creature: a sole proprietorship. It is the cheapest, fastest, and most common way to be in business in Malaysia, and also the one that leaves you most exposed if things go wrong.

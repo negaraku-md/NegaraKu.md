@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 แผงมามักที่หัวมุมถนนของคุณ นักออกแบบฟรีแลนซ์ที่ออกใบแจ้งหนี้จากออฟฟิศที่บ้าน คนทำขนมช่วงสุดสัปดาห์ที่ขายออนไลน์ — ส่วนใหญ่ล้วนเป็นสิ่งเดียวกันในทางกฎหมาย คือ กิจการเจ้าของคนเดียว มันเป็นวิธีทำธุรกิจในมาเลเซียที่ถูกที่สุด เร็วที่สุด และพบบ่อยที่สุด และก็เป็นวิธีที่ทำให้คุณเสี่ยงมากที่สุดหากมีสิ่งใดผิดพลาด

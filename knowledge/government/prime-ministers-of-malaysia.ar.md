@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["رؤساء وزراء ماليزيا", "prime ministers of Malaysia", "list of Malaysian prime ministers", "Perdana Menteri Malaysia", "Anwar Ibrahim", "أنور إبراهيم", "Mahathir Mohamad", "مهاتير محمد"]
+framework: data-reference
 ---
 
 رأس الحكومة في ماليزيا هو **رئيس الوزراء** — وهو القائد الذي يحظى بثقة أغلبية

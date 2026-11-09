@@ -75,6 +75,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
 keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+framework: data-reference
 ---
 
 두 개의 체계가 병행하며 서로 다른 질문에 답합니다. **공휴일법 1951(Holidays Act

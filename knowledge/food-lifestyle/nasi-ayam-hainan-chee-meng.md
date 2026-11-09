@@ -85,6 +85,7 @@ social:
 verificationNeeded:
   - "The MICHELIN Guide Kuala Lumpur & Penang selection is revised annually; this profile reflects the 2026 edition (announced November 2025). A newer edition — for example a 2027 list — may add, drop or re-rank this restaurant, so reconfirm its current Bib Gourmand status on guide.michelin.com before relying on it."
   - "Reservations and opening-hours handling differ between MICHELIN locale listings (some say the restaurant manages its own bookings, others that reservations are not available online) — confirm directly with the restaurant before visiting."
+framework: profile
 ---
 
 Hainanese chicken rice is one of the quiet tests of a Malaysian kitchen: poached

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
 related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OIC", "Pertubuhan Kerjasama Islam", "Komanwel", "Commonwealth", "NAM", "Pergerakan Negara-Negara Berkecuali", "D-8", "APEC", "dasar luar Malaysia", "keahlian antarabangsa"]
+framework: data-reference
 ---
 
 ทุกครั้งที่รัฐมนตรีมาเลเซียกล่าวถึงปาเลสไตน์ในเวทีโลกอิสลาม หรือเจ้าหน้าที่อาวุโสเข้าร่วมการประชุมสุดยอดเศรษฐกิจเอเชีย-แปซิฟิก พวกเขากำลังพูดในนามประเทศที่นั่งอยู่หลายโต๊ะพร้อมกัน นอกเหนือจากอาเซียนและสหประชาชาติ มาเลเซียเป็นสมาชิกของกลุ่มระหว่างรัฐบาลนับสิบกลุ่ม และห้ากลุ่มในนั้นเป็นกระดูกสันหลังของการมีปฏิสัมพันธ์พหุภาคีของมาเลเซีย

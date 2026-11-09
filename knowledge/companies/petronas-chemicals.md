@@ -80,6 +80,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 Almost every bag of fertiliser spread on a Malaysian farm, and a large share of the plastic resins moulded in the country's factories, trace back to one company: Petronas Chemicals Group Berhad. It is the chemicals arm of the national oil company, the biggest integrated chemicals producer in Malaysia, and — unusually for a state-linked business — a separately listed company that anyone can buy shares in.

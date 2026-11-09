@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["نيغاراكو", "Negaraku", "النشيد الوطني لماليزيا", "Terang Bulan", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 ليلة 31 أغسطس 1957، حين عُزف لحن نيغاراكو علناً للمرة الأولى في ساحة نادي سيلانغور (Selangor Club Padang)، لم يكن ذلك اللحن جديداً. فقد كان قبل ذلك بعقود النشيد الرسمي لإحدى الولايات الملايوية.

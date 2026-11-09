@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 எந்தவொரு பெரிய தேசியக் கட்சியும் தோன்றுவதற்கு முன்பே, மலாய் இயக்கம் பள்ளி மண்டபங்களில், செய்தித்தாள்களின் பக்கங்களில், மற்றும் சிறிய மாநிலச் சங்கங்களின் கூட்ட அறைகளில் தொடங்கியது. 1930களுக்கும் இரண்டாம் உலகப் போரின் இறுதிக்கும் இடையே, இந்த ஓட்டங்களே மெல்ல மெல்ல ஒரு அரசியல் சக்தியாக உருவெடுத்தன; 1946ல் இவை மலாய்க்காரர்களை ஒரு பிரிட்டிஷ் கொள்கைக்கு எதிராக ஒன்றிணைக்க வல்லமை பெற்றன.

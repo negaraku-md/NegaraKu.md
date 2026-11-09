@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
 related: []
 keywords: ["मलेशिया FTA सूची", "मलेशिया मुक्त व्यापार समझौते", "MITI FTA", "CPTPP मलेशिया", "RCEP मलेशिया", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
+framework: data-reference
 ---
 
 मलेशिया एशिया के सबसे सघन व्यापार-समझौता नेटवर्कों में से एक बनाए रखता है। एक मलेशियाई

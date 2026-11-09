@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
+framework: profile
 ---
 
 在其余八个马来州属，「谁是下一任统治者」这个问题由世系血统来回答。在森美兰，

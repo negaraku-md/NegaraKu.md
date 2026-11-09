@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 Two Malaysian companies lead their fields globally. One is the world's largest maker of disposable gloves; the other is Southeast Asia's largest primary aluminium smelter. Neither is a household name outside investing circles, yet Top Glove and Press Metal show how a mid-sized economy can produce single-sector global leaders.

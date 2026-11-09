@@ -78,6 +78,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 Sedikit hidangan yang melambangkan Penang seperti laksa, dan di Jalan Hutton

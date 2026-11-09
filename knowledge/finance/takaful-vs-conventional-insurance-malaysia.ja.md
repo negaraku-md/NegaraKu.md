@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 マレーシアのほとんどの銀行支店に足を運んでも、比較アプリを開いても、医療カード、住宅ローン保障、自動車保険といった同じ保障ニーズが、タカフルと従来型保険という二つのバージョンで並んで提示される。給付内容のページでは、両者はほとんど見分けがつかないこともある。違いは、その商品が内部でどのように組み立てられているかにある。

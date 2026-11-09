@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["petronas"]
 keywords: ["MISC Berhad", "شحن LNG", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "ماليزيا البحرية", "MMHE"]
+framework: profile
 ---
 
 MISC Berhad هي الذراع البحرية لاقتصاد الطاقة في ماليزيا — المجموعة التي تنقل غاز الأمة ونفطها عبر محيطات العالم.

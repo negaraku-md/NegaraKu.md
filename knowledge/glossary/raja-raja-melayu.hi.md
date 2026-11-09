@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "मलय शासक", "शासक-सम्मेलन", "conference of rulers", "अनुच्छेद 38", "monarki malaysia"]
+framework: explainer
 ---
 
 साल में एक बार, नौ राज्य-राजा और चार राज्यपाल कुआलालंपुर के एक बैठक-कक्ष में ऐसे निर्णय लेने के लिए जुटते हैं जो संसद नहीं ले सकती — जिनमें यह चुनना भी शामिल है कि संघीय राजा कौन बनेगा। वह सभा शासक-सम्मेलन (Majlis Raja-Raja) है, और इसमें बैठने वाले राज्य-राजा मलय शासकों के रूप में जाने जाते हैं।

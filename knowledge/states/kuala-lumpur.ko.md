@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
+framework: profile
 ---
 
 쿠알라룸푸르(Kuala Lumpur)는 말레이시아의 수도이지만, 헌법상으로는 주(州)가 아닙니다 — 그것은 1974년 슬랑오르에서 떼어 내어져 선출된 주(州) 정부나 주 의회가 아니라 연방 정부가 직접 관할하는 연방 직할구입니다.

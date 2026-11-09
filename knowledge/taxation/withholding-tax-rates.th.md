@@ -89,6 +89,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["withholding tax rate Malaysia", "section 109B rate", "section 107A withholding tax", "CP37D", "withholding tax table Malaysia", "LHDN withholding tax"]
+framework: data-reference
 ---
 
 อัตราที่คุณต้องการแทบไม่เคยอยู่ในมาตราที่คุณกำลังอ่าน Section 109B บอกให้คุณหัก "ที่อัตราที่ใช้กับการจ่ายเงินเช่นว่า" และหยุดที่นั่น — 10 เปอร์เซ็นต์อยู่ใน Part V ของ Schedule 1 Section 109 ทำเช่นเดียวกัน ให้เคยชินกับการอ้างทั้งสอง เพราะการโต้แย้งเรื่องอัตราคือการโต้แย้งเรื่อง Schedule 1

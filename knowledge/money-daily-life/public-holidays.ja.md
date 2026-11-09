@@ -69,6 +69,7 @@ keywords:
   - "Public Holidays Ordinance Sarawak"
   - "Pesta Kaamatan"
   - "Hari Gawai"
+framework: explainer
 ---
 
 コタキナバルのある職員は、5月末の [プスタ・カアマタン](/arts-culture/kaamatan) を祝って2日連続で休みを取ることができるが、マラッカにいる同僚はその日を祝日とはまったく認識していない。クチンにいる別の職員は6月1日にガワイのために仕事を休むが、クアラルンプールにある親会社のカレンダーには、その日付に何の印もついていない。これは人事部の手違いではない。法律に組み込まれているのである。

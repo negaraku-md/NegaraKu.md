@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
+framework: profile
 ---
 
 ほぼすべてのマレーシア人が一度は答えを誤る質問がある——パーリスのスルタンとは誰か。

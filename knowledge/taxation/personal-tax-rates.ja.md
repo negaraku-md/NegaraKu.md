@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["personal income tax rate Malaysia", "kadar cukai individu", "tax bracket Malaysia", "LHDN tax rate table", "non-resident tax rate Malaysia 30", "individual tax rate YA2025"]
+framework: data-reference
 ---
 
 税率が適用されるのは**課税所得**である——総収入から認められる経費を控除し、さらに自分が資格を有するあらゆる減免を差し引いた額である。給与そのものが課税されるわけではない。

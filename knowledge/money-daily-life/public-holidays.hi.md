@@ -71,6 +71,7 @@ keywords:
   - "Public Holidays Ordinance Sarawak"
   - "Pesta Kaamatan"
   - "Hari Gawai"
+framework: explainer
 ---
 
 कोटा किनाबालू का एक कर्मचारी मई के अंत में [पेस्ता कामातान](/arts-culture/kaamatan)

@@ -168,6 +168,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["company tax deadline Malaysia", "Form C deadline", "CP204 due date", "Form E deadline", "LHDN filing programme 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 マレーシアの税務期限のほとんどは、日付ではなく**規則**である。日付はあなたの会計期間によって変わるが、規則は変わらない。本ページは、その規則、それが由来する条文、そしてそれを逃した場合に何が起こるかを示す。

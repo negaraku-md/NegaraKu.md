@@ -114,6 +114,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["js-sez-guide", "forest-city-sfz", "new-incentive-framework", "tax-incentives-directory", "global-minimum-tax-pillar-two"]
 keywords: ["JS-SEZ tax incentive", "Forest City Special Financial Zone tax", "Global Services Hub Malaysia", "Malaysia special economic zone tax rate", "knowledge worker 15% Malaysia", "JS-SEZ vs Forest City"]
+framework: decision
 ---
 
 Hai khu vực nằm cách nhau khoảng hai mươi kilômét ở nam Johor, và thị trường coi chúng

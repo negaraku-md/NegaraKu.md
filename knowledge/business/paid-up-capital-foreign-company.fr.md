@@ -98,6 +98,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "exigence de capital Sdn Bhd à capitaux étrangers"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 Demandez à dix prestataires de services aux entreprises malaisiens quel est le capital libéré minimum

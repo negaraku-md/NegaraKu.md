@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 Walk into most Malaysian bank branches or open a comparison app, and the same protection need — a medical card, a mortgage cover, a motor policy — comes in two versions sitting side by side: takaful and conventional insurance. They can look almost identical on the benefits page. The difference is in how the product is built underneath.

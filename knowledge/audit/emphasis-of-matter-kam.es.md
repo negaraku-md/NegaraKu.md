@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["párrafo de énfasis Malasia", "cuestiones clave de auditoría Malasia", "emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph"]
+framework: explainer
 ---
 
 Un prestamista llama para decir que las cuentas están con salvedades. No lo están. El informe tiene un

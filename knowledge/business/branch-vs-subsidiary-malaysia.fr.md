@@ -119,6 +119,7 @@ keywords:
   - "regional office MIDA"
   - "local agent foreign company Malaysia"
   - "set up business in Malaysia foreign company"
+framework: decision
 ---
 
 La succursale est généralement présentée comme l'option légère : pas de nouvelle

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 ஒரு கால்பந்து இறுதிப் போட்டி இரவில் 85,500 பார்வையாளர்கள் TM Stadium Nasional-இன் மூன்று-அடுக்கு வளைவை நிரப்பும்போது, அவர்கள் மலேசியாவின் விளையாட்டு உள்கட்டமைப்பின் மிகப்பெரிய சின்னத்திற்குள் அமர்ந்திருக்கிறார்கள் — ஆயினும் இது நாட்டின் முக்கிய நிகழ்வுகளைத் தாங்கும் பல அரங்குகளில் ஒன்று மட்டுமே.

@@ -104,6 +104,7 @@ keywords:
   - "employment pass vs MM2H"
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
+framework: decision
 ---
 
 这些计划背后的问题都是同一个：**凭这张准证，我究竟能不能工作，或经营我的公司？**

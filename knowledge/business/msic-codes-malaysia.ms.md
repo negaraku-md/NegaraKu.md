@@ -86,6 +86,7 @@ keywords:
   - "MSIC 2008"
   - "sifat perniagaan SSM"
   - "cara pilih kod MSIC"
+framework: data-reference
 ---
 
 Anda akan mengambil masa lebih kurang sembilan puluh saat untuk memilih kod MSIC

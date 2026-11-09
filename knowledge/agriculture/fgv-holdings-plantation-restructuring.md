@@ -82,6 +82,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
+framework: profile
 ---
 
 In 2012 it was the toast of the market — a mega-listing that briefly ranked second in the world behind Facebook. Thirteen years later the same company slipped quietly off Bursa Malaysia at a fraction of its debut price, bought back by the very authority that had floated it.

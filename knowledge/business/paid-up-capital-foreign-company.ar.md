@@ -98,6 +98,7 @@ keywords:
   - "minimum paid up capital Malaysia"
   - "شركة Sdn Bhd مملوكة لأجانب متطلبات رأس المال"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 اسأل عشرة من مزوّدي الخدمات المؤسسية في ماليزيا عن الحد الأدنى لرأس المال المدفوع لشركة

@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "rakyat" }
 related: ["merdeka", "yang-di-pertuan-agong", "rakyat", "bumiputera"]
 keywords: ["ركن نيغارا", "المبادئ الخمسة لركن نيغارا", "قَسَم ركن نيغارا", "الإيمان بالله", "الفلسفة الوطنية الماليزية", "rukun negara", "13 May 1969", "MAGERAN", "Rukun Negara five principles"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Rukun Negara · **English:** National Principles · **中文:** 国家原则

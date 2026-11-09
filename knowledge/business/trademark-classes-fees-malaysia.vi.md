@@ -78,6 +78,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["trademark classes malaysia", "nice classification malaysia", "myipo trademark fees", "trademark fee per class malaysia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 Số lượng hạng, chứ không phải việc nộp đơn, mới là thứ quyết định chi phí của một

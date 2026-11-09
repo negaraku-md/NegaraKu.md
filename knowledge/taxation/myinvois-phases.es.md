@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+framework: data-reference
 ---
 
 Dos cifras lo deciden todo: su facturación del FY2022, que fija su fase de forma permanente, y RM1,000,000, por debajo de la cual queda fuera del sistema por completo. Todo lo demás en esta página es detalle.

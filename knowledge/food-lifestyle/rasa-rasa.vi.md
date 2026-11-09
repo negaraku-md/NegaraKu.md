@@ -82,6 +82,7 @@ verificationNeeded:
   - "Năm của ấn bản MICHELIN Guide: Bib Gourmand được đánh giá lại hằng năm và hồ sơ này không gắn nó với một ấn bản duy nhất. Ấn bản mới nhất được công bố tại thời điểm viết là MICHELIN Guide Kuala Lumpur & Penang 2026 — KHÔNG nêu ấn bản 2027 cho đến khi MICHELIN công bố. Hãy xác nhận Rasa Rasa vẫn nắm giữ Bib Gourmand trong ấn bản hiện hành tại guide.michelin.com."
   - "Địa chỉ: MICHELIN ghi 59 Gat Lebuh Chulia, nhưng ít nhất một bài đánh giá dẫn 25 Lebuh Melayu. Hãy coi địa chỉ của MICHELIN là hiện hành và xác nhận trước khi công bố chỉ đường."
   - "Giờ mở cửa thay đổi đôi chút theo ngày trong mục của MICHELIN (khoảng 08:30–16:00, nghỉ thứ Tư) — hãy xác minh lịch hiện tại, vì bếp đóng vào buổi chiều."
+framework: profile
 ---
 
 **Rasa Rasa** là kiểu quán mà MICHELIN Bib Gourmand được nghĩ ra là để dành cho:

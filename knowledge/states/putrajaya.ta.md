@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["Putrajaya", "Wilayah Persekutuan Putrajaya", "pusat pentadbiran kerajaan persekutuan", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
+framework: profile
 ---
 
 1999-இல், பிரதமர் அலுவலகம் (Office of the Prime Minister) Kuala Lumpur இலிருந்து

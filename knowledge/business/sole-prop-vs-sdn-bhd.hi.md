@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "register-enterprise-ezbiz" }
 related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd", "register-enterprise-ezbiz", "partnership-malaysia", "llp-vs-sdn-bhd"]
 keywords: ["एकल स्वामित्व बनाम sdn bhd", "sole proprietorship vs sdn bhd", "एंटरप्राइज़ बनाम sdn bhd", "enterprise vs sdn bhd", "कौन-सी व्यवसाय संरचना मलेशिया", "एकल स्वामी कर मलेशिया", "sole proprietor tax Malaysia"]
+framework: decision
 ---
 
 अधिकांश लोग इसे एक लागत के प्रश्न के रूप में देखते हैं और ग़लत उत्तर पाते हैं। पंजीकरण

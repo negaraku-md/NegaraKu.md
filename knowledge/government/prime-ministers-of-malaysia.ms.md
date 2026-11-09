@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["perdana menteri Malaysia", "senarai perdana menteri Malaysia", "Prime Ministers of Malaysia", "Anwar Ibrahim", "Mahathir Mohamad"]
+framework: data-reference
 ---
 
 Ketua kerajaan Malaysia ialah **Perdana Menteri** — pemimpin yang mendapat

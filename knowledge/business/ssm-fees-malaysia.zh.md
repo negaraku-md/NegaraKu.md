@@ -84,6 +84,7 @@ keywords:
   - "SSM annual return fee"
   - "LLP registration fee"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 三份各自独立的收费附表、三部各自独立的成文法，而 SSM 的网站上没有任何一页把它们并排

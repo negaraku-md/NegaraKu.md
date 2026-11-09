@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["tax penalty Malaysia", "LHDN penalty rates", "section 113(2) penalty", "SST late payment penalty", "stamp duty late stamping penalty", "RPGT penalty", "kesalahan denda dan penalti", "section 112(3) treble tax"]
+framework: data-reference
 ---
 
 단일한 말레이시아 세금 벌칙 척도는 없습니다. 다섯 개의 법령이 각자 고유의 체계를 운영하며,

@@ -66,6 +66,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["Malaysia tax relief", "pelepasan cukai individu", "tax relief checklist Malaysia", "Form BE reliefs", "LHDN individual relief"]
+framework: how-to
 ---
 
 ทุกริงกิตของการหักลดหย่อนที่คุณสามารถขอได้อย่างถูกต้องจะลดเงินได้ที่ต้องเสียภาษีของคุณ — และเนื่องจากระบบภาษีบุคคลธรรมดาของมาเลเซียเป็นแบบก้าวหน้า มูลค่าของการหักลดหย่อนจึงขึ้นอยู่กับช่วงอัตราภาษีที่มันตกอยู่ ใช้รายการตรวจสอบนี้เพื่อดูว่าคุณอาจพลาดอะไรไปก่อนที่จะยื่นแบบ

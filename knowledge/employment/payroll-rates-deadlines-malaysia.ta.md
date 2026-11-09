@@ -178,6 +178,7 @@ relations:
   - { rel: "explained-in", to: "minimum-wage-malaysia" }
 related: ["form-e-ea-cp8d-malaysia", "hrd-corp-levy-malaysia", "minimum-wage-malaysia", "payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["Malaysia payroll deadlines", "EPF SOCSO EIS rates", "statutory contribution rates Malaysia", "payroll due dates 15th", "PCB deadline", "HRD levy rate"]
+framework: data-reference
 ---
 
 ஒரே குறிப்பு அட்டவணை; ஒவ்வொரு வரிசையும் அதை வெளியிடும் அதிகார அமைப்பு வரை

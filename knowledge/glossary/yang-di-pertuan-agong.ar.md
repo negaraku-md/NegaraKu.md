@@ -68,6 +68,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["federal-constitution", "parliament", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["يانغ دي-بيرتوان أغونغ", "Yang di-Pertuan Agong", "مجلس الحكام", "Majlis Raja-Raja", "انتخاب أغونغ", "المادة 32 الدستور الاتحادي", "الجدول الثالث", "نظام الملكية المتناوبة في ماليزيا", "الرئيس الأعلى للاتحاد"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Yang di-Pertuan Agong · **English:** The King of Malaysia (Supreme Head of the Federation) · **中文:** 最高元首

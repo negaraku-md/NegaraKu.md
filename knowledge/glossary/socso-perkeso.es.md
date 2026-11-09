@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "employment-act-1955" }
 related: ["how-malaysian-healthcare-works", "epf", "employment-act-1955", "akta"]
 keywords: ["PERKESO", "SOCSO", "Pertubuhan Keselamatan Sosial", "diferencia PERKESO y KWSP", "tasa de aportación PERKESO", "Akta 4 1969", "LINDUNG 24 Jam"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Pertubuhan Keselamatan Sosial (PERKESO) · **English:** Social

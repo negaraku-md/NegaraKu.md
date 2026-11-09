@@ -83,6 +83,7 @@ keywords:
   - "reemplazo del Form 9 SSM"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 La mitad de la confusión en la administración societaria malasia es vocabulario. Dos registros

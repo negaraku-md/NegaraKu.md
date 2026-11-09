@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["personal income tax rate Malaysia", "kadar cukai individu", "tax bracket Malaysia", "LHDN tax rate table", "non-resident tax rate Malaysia 30", "individual tax rate YA2025"]
+framework: data-reference
 ---
 
 세율은 **과세소득** — 총소득에서 공제 가능 비용을 빼고, 자격이 되는 모든 공제를 뺀 것

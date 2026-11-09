@@ -79,6 +79,7 @@ social:
 verificationNeeded:
   - "La sélection du MICHELIN Guide Kuala Lumpur & Penang est revue chaque année ; ce profil reflète l'édition 2026 (annoncée en novembre 2025), dans laquelle Lama était une nouvelle entrée. Une édition plus récente — par exemple une liste 2027 — peut l'ajouter, le retirer ou le reclasser, aussi reconfirmez son statut Bib Gourmand actuel sur guide.michelin.com avant de vous y fier."
   - "Conflit d'adresse : la page de restaurant en direct de MICHELIN indique G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200, tandis que certains rapports secondaires situent Lama à Setapak / Taman Ayer Panas. Confirmez le bon emplacement actuel (et s'il existe plus d'un site) directement avant de vous y rendre."
+framework: profile
 ---
 
 La cuisine Peranakan est, au fond, une cuisine maison — des plats exigeants

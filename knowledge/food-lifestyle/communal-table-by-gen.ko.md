@@ -80,6 +80,7 @@ verificationNeeded:
   - "MICHELIN Guide 판 연도: Bib Gourmand는 매년 재평가되며 이 프로필은 그것을 단일 판에 고정하지 않는다. 집필 시점에 가장 최근 발행된 판은 MICHELIN Guide Kuala Lumpur & Penang 2026이며——MICHELIN이 2027년 판을 발행하기 전까지는 2027년 판이라고 기재하지 말 것. guide.michelin.com에서 Communal Table by Gēn이 현행 판에서도 Bib Gourmand를 보유하고 있는지 확인할 것."
   - "셰프 귀속: 이차 보도는 Johnson Wong을 셰프이자 Malaysian MICHELIN Guide Young Chef Award 2024 수상자로 지목한다. MICHELIN 식당 페이지는 Young Chef Award를 언급하나 이름은 밝히지 않을 수 있다. 본문에서 셰프 이름을 기술하기 전에 MICHELIN 또는 일차 출처와 대조해 확인할 것."
   - "영업시간은 MICHELIN 각 로캘 페이지마다 다르다(하나는 월요일 영업을 표시하고, 다른 하나는 휴무일에 포함)——게시 전에 현행 일정을 확인할 것."
+framework: profile
 ---
 
 **Communal Table by Gēn**은 George Town의 Bib Gourmand 이름들 가운데 가장 동시대적이다——Lebuh

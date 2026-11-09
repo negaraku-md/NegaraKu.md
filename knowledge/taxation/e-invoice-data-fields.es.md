@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "self-billed-e-invoice" }
 related: ["e-invoicing", "myinvois-phases", "myinvois-integration", "self-billed-e-invoice", "consolidated-e-invoice"]
 keywords: ["e-Invoice data fields", "55 fields e-Invoice", "MyInvois mandatory fields", "e-Invoice validation error", "UBL 2.1 Malaysia", "medan data e-invois"]
+framework: data-reference
 ---
 
 Cada envío rechazado se remonta a una de dos cosas: un campo que LHDN trata como

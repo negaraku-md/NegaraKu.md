@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["senarai insentif cukai Malaysia", "insentif cukai MIDA", "status Taraf Perintis Malaysia", "insentif Global Services Hub", "perintah warta insentif Malaysia", "direktori insentif cukai Malaysia"]
+framework: data-reference
 ---
 
 Kebanyakan senarai insentif di internet Malaysia adalah salinan daripada

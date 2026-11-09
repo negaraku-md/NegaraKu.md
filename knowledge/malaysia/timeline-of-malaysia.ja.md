@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["sejarah Malaysia", "garis masa Malaysia", "Merdeka 1957", "pembentukan Malaysia 1963", "perdana menteri Malaysia"]
+framework: history-culture
 ---
 
 「マレーシア」という名が存在するはるか以前から、この海岸と島々は世界でも有数の交通量を誇る海の十字路の一つであった——季節風がインドと中国の間で船を運び渡し、海上王国、スルタン国、帝国、そして植民者たちがそれぞれの層を残していった場所である。

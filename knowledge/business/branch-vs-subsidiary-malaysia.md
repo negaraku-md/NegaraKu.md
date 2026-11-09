@@ -117,6 +117,7 @@ keywords:
   - "regional office MIDA"
   - "local agent foreign company Malaysia"
   - "set up business in Malaysia foreign company"
+framework: decision
 ---
 
 The branch is usually pitched as the light-touch option: no new company, no

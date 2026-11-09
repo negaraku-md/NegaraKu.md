@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "正確な MICHELIN の版の年は資料によって表記が一致しません——公式ページには年の記載がなく、報道は「2026」年の MICHELIN Guide Kuala Lumpur & Penang に言及し、Wikipedia の Bib Gourmand 一覧は現在「2027」の列を最新として示しています。選定は毎年改訂されます。現在の状況は guide.michelin.com で確認してください。"
   - "よく引用される創業年 2002 や「ポークフリー」の表示は、MICHELIN ページではなく第三者の掲載サイトによるものです。述べる前にレストランに確認してください。"
+framework: profile
 ---
 
 ブキッ・ビンタンの食べ歩きの通りの只中、Tengkat Tong Shin の鮮やかな黄色い

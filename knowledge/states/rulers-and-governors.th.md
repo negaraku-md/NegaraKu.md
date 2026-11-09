@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
+framework: explainer
 ---
 
 มาเลเซียมี 13 รัฐ แต่มีเพียงเก้าราชบัลลังก์ อีกสี่รัฐนำโดยบุคคลที่ไม่ได้ประทับบนราชบัลลังก์โดยตรง — เขาได้รับการแต่งตั้ง ดำรงตำแหน่งเป็นระยะเวลาจำกัด แล้วกลับไปเป็นสามัญชน

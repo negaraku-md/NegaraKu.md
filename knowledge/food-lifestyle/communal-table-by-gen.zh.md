@@ -80,6 +80,7 @@ verificationNeeded:
   - "MICHELIN Guide 版本年份：Bib Gourmand 每年重新评估，本篇不将它绑定于单一版本。撰写时最新出版的版本是 MICHELIN Guide Kuala Lumpur & Penang 2026——在 MICHELIN 发布 2027 版之前，切勿声称有 2027 版。请在 guide.michelin.com 上确认 Communal Table by Gēn 在现行版本中仍持有 Bib Gourmand。"
   - "主厨归属：二手报道将 Johnson Wong 列为主厨及 Malaysian MICHELIN Guide Young Chef Award 2024 的得主；MICHELIN 的餐馆页面提到 Young Chef Award，但未必指名道姓。在行文中陈述主厨姓名之前，请对照 MICHELIN 或第一手来源加以确认。"
   - "营业时间在 MICHELIN 不同语言页面之间各异（一个显示周一营业，另一个将它列入休息日）——发布前请核实现行时间表。"
+framework: profile
 ---
 
 **Communal Table by Gēn** 是乔治市几家 Bib Gourmand 名字里最当代的一家：Lebuh Presgrave 上

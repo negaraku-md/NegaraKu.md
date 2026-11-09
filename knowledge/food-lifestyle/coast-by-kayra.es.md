@@ -92,6 +92,7 @@ verificationNeeded:
   - "La selección de la MICHELIN Guide se revisa cada año; confirma que Coast by Kayra aún conserva su Bib Gourmand en la edición más reciente de la MICHELIN Guide Kuala Lumpur & Penang antes de fiarte de ello."
   - "La indicación del año de la edición es inconsistente entre las fuentes: algunas se refieren a la selección actual como la edición de 2027, mientras que otros materiales etiquetan la lista más reciente como 2026. Confirma el año de edición correcto con el anuncio oficial de la ceremonia de la MICHELIN Guide."
   - "La fecha de apertura del restaurante y el año exacto en que obtuvo por primera vez el Bib Gourmand no aparecen en la ficha de MICHELIN y no se confirmaron a partir de una fuente primaria."
+framework: profile
 ---
 
 Coast by Kayra es un restaurante indio centrado en Kerala dentro del centro comercial

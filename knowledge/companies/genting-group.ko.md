@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 쿠알라룸푸르(Kuala Lumpur)에서 한 시간 거리에 있는 서늘한 산정 리조트는 말레이시아에서 카지노가 합법적으로 카드를 돌릴 수 있는 유일한 곳입니다. 비무슬림에게는 합법이면서도 무슬림에 대한 이슬람법상 도박 금지와 나란히 존재하는 그 단 하나의 이례적인 면허는, 말레이시아 최대의 토종 대기업 중 하나인 Genting의 핵심에 자리합니다.

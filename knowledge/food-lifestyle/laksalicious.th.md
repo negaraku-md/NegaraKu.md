@@ -78,6 +78,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 มีอาหารไม่กี่อย่างที่บ่งบอกถึง Penang ได้เท่า laksa และบนถนน Jalan Hutton ร้านเล็ก ๆ

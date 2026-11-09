@@ -67,6 +67,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["Malaysia tax relief", "pelepasan cukai individu", "tax relief checklist Malaysia", "Form BE reliefs", "LHDN individual relief"]
+framework: how-to
 ---
 
 你每有效申索一令吉减免，就减少一令吉应课税收入——而由于马来西亚的个人税制是累进

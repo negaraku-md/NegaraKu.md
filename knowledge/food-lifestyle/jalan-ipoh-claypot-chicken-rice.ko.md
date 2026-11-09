@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "정확한 MICHELIN 판본 연도는 자료마다 표기가 일치하지 않습니다 — 공식 페이지에는 연도가 없고, 이 노점은 2023년 11월에 발표된 판본('2024' 가이드)에서 처음 수상했으며, Wikipedia의 Bib Gourmand 목록은 현재 '2027' 열을 최신으로 표시합니다. 선정은 매년 개정됩니다. 현재 상태는 guide.michelin.com에서 확인하세요."
   - "이 노점은 이름에 'Jalan Ipoh'를 달고 있지만 Taman Kok Lian에 위치합니다. Jalan Ipoh와의 역사적 연관을 서술하기 전에 확인하세요. 노점의 영업시간과 휴무일은 레스토랑보다 자주 바뀌니 방문 전 재확인하세요."
+framework: profile
 ---
 
 쿠알라룸푸르 중심부 북쪽의 Taman Kok Lian에 자리한, Jalan Ipoh의 이름을 딴

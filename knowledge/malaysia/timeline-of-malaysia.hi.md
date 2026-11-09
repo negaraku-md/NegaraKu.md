@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["मलेशियाई इतिहास", "Malaysian history", "मलेशिया कालरेखा", "Malaysia timeline", "मरदेका 1957", "Merdeka 1957", "मलेशिया का गठन 1963", "formation of Malaysia 1963", "मलेशिया के प्रधानमंत्री", "Malaysia prime ministers"]
+framework: history-culture
 ---
 
 «मलेशिया» का कोई नाम होने से बहुत पहले, तट और द्वीपसमूह का यह विस्तार पृथ्वी के

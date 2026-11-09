@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["Malaysian embassies", "Malaysia high commissions", "Malaysian consulate", "Wisma Putra missions", "Malaysia diplomatic missions abroad", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 Mất hộ chiếu ở Lima, bị bắt ở Doha, hay cần công chứng một giấy tờ ở Seoul, và văn phòng thực sự có thể giúp bạn là một mắt xích trong một mạng lưới gồm 111 cơ quan đại diện Malaysia trải khắp 85 quốc gia — mỗi cơ quan đều được điều hành từ Wisma Putra ở Putrajaya.

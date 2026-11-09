@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "capital-gains-tax" }
 related: ["stamp-duty-share-transfer", "stamp-duty-rates", "capital-gains-tax", "wrt-licence-malaysia", "manufacturing-licence-malaysia", "close-a-company", "share-capital-malaysia"]
 keywords: ["بيع عمل في ماليزيا", "بيع الأسهم مقابل بيع الأصول", "رسم الدمغة على بيع العمل ماليزيا", "اتفاقية نقل العمل ماليزيا", "بيع Sdn Bhd", "sell business malaysia", "share sale vs asset sale"]
+framework: decision
 ---
 
 يعرض مشتريان المبلغ نفسه، RM5 مليون، للعمل نفسه. أحدهما يريد الأسهم،

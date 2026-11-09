@@ -78,6 +78,7 @@ verificationNeeded:
   - "Peringkat sebagai kelompok perbankan terbesar keenam di Malaysia berdasarkan aset (The Edge Malaysia) — bersifat posisional dan berubah menurut waktu; konfirmasikan ulang terhadap neraca pesaing saat ini."
   - "Persentase kepemilikan saham (mis., saham ANZ sekitar 21.7% sebelum 2024, dan Employees Provident Fund yang dilaporkan sekitar 14.33% seputar kepergian ANZ pada Juni 2024, menurut The Star) — kepemilikan berubah seiring penempatan saham dan pergerakan pasar; verifikasi terhadap pengungkapan pemegang saham substansial Bursa Malaysia terbaru."
   - "Laba bersih FY2025 sekitar RM2.0 miliar (tahun yang berakhir 31 Maret 2025) — perbarui setiap tahun keuangan terhadap hasil AMMB yang telah diaudit."
+framework: profile
 ---
 
 Jika Anda bertransaksi perbankan di Malaysia, Anda sangat mungkin pernah melihat nama AmBank. Di baliknya berdiri AMMB Holdings Berhad, perusahaan yang tercatat di Bursa Malaysia yang memimpin salah satu kelompok perbankan yang lebih besar di negara ini — dan yang kisahnya membentang dari perbankan dagang Arab-Malaysia pada 1970-an, melalui kemitraan Australia yang panjang, hingga penyelesaian penting pada 2021 yang terkait dengan skandal 1MDB.

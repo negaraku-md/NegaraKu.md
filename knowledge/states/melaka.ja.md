@@ -98,6 +98,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
+framework: profile
 ---
 
 マレーシアの九つの州には統治者（Raja）がいる。マラッカはその一つではない——その

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["تصنيف تكلفة المعيشة ماليزيا", "Malaysia cost of living ranking", "كوالالمبور تصنيف Mercer", "Kuala Lumpur Mercer ranking", "Numbeo ماليزيا", "EIU Worldwide Cost of Living", "أرخص مدن جنوب شرق آسيا"]
+framework: data-reference
 ---
 
 اسأل مستشار انتقال عن أين يوفد الموظفين ضمن مخصّصات ضيّقة في آسيا، وسيظلّ اسم كوالالمبور يتكرّر — لا لأن المسوح تُجاملها، بل لأن الأرقام تضعها فعلًا قرب أسفل جدول التكلفة. فالمدينة التي ترسّخ ماليزيا هي من الأماكن القليلة التي تحظى بدرجة «رخيصة» و«صالحة للعيش» في آنٍ معًا.

@@ -93,6 +93,7 @@ verificationNeeded:
   - "L'année de l'édition : la presse malaisienne évoque une édition MICHELIN Guide Kuala Lumpur & Penang 2027 (annoncée, selon les rapports, le 4 novembre 2026), tandis que la dernière édition officielle vérifiable de façon indépendante est celle de 2026 — confirmez quelle édition référence cette adresse sur la page officielle de sélection."
   - "Les horaires (indiqués de 12:00 à 22:00, fermé le jeudi) proviennent de la fiche MICHELIN et peuvent changer — confirmez sur place avant de vous déplacer."
   - "La description de MICHELIN se concentre sur le bouillon, le porc rôti et la sauce au piment et ne décrit pas le sang de canard lui-même ; confirmez directement auprès de l'adresse la garniture de sang de canard actuelle si c'est ce qui vous attire."
+framework: profile
 ---
 
 Le nom promet du sang de canard — une garniture traditionnelle du curry mee —,

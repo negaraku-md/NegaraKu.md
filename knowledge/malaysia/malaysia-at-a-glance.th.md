@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
+framework: data-reference
 ---
 
 ถาม "มาเลเซียใหญ่แค่ไหน" หรือ "ประชากรของมาเลเซียเท่าใด" แล้วคุณจะได้คำตอบที่แตกต่างกันขึ้นอยู่กับว่าคุณเข้าไปที่เว็บไซต์ใด บางแห่งอ้างตัวเลขสำมะโนปี 2020 บางแห่งอ้างการประมาณการของธนาคารโลกที่ตามหลังสองการปรับปรุง หน้านี้มีอยู่เพื่อแก้ไขสิ่งนั้น ทุกตัวเลขด้านล่างมาจากการเผยแพร่อย่างเป็นทางการที่ระบุชื่อ ลงวันที่ เพื่อให้คุณเห็นได้อย่างแม่นยำว่ามันเป็นปัจจุบันเพียงใดและตรวจสอบเองได้

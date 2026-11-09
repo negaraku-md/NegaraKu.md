@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "जोहोर बहरू रहन-सहन की लागत", "Johor Bahru Singapore exchange rate", "Johor Bahru rent Singapore commuters", "Malaysia minimum wage RM1700 Johor", "RTS Link Johor Bahru Singapore", "जोहोर बहरू बनाम सिंगापुर वेतन"]
+framework: data-reference
 ---
 
 मलेशिया की पूरी राष्ट्रीय न्यूनतम मज़दूरी, RM1,700 प्रति माह, पर काम करने वाला

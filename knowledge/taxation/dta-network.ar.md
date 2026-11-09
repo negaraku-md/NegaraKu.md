@@ -69,6 +69,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["قائمة اتفاقيات ماليزيا الضريبية", "معدلات اتفاقية تجنب الازدواج الضريبي ماليزيا", "ضريبة الاقتطاع التعاهدية ماليزيا", "Malaysia DTA list", "treaty withholding tax Malaysia", "Malaysia tax treaty countries"]
+framework: data-reference
 ---
 
 المعاهدة سقف، لا أرضية أبداً. فإن كان المعدل المحلي بموجب الجدول 1 من Income Tax Act 1967 أدنى من المعدل التعاهدي، اقتطعتَ بالمعدل المحلي. والمعدلات المحلية الماليزية هي 15 في المئة على الفائدة، و10 في المئة على الإتاوات، و10 في المئة على الأصناف الخاصة من الدخل بموجب المادة 4A، فالمعاهدة التي تُظهِر فائدةً بنسبة 15 في المئة لا تجلب شيئاً البتة.

@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 ทุกครั้งที่ข้าราชการสหพันธ์เกษียณ เงินบำนาญของเขาต้องมาจากที่ใดที่หนึ่ง ที่นั่นคือ KWAP และ ณ สิ้นปี 2024 กระเป๋าการลงทุนของมันมีมูลค่า RM185.6 พันล้าน

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "kwsp" }
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
+framework: profile
 ---
 
 每当你从北部的黑木山（Bukit Kayu Hitam）一路驾车南下至新山（Johor Bahru），中途无需在红绿灯前停下时，你其实正行驶在一家公司的资产之上：PLUS Malaysia Berhad。它不是政府机构，但也不是一般的私营企业——它是一家特许经营方，根据与政府签订的长期协议，运营着国家道路网的骨干。

@@ -78,6 +78,7 @@ verificationNeeded:
   - "Escala de la red: aproximadamente 260 sucursales nacionales, más de 21.000 empleados y unos 9 millones de clientes en todo el grupo — confirmar los recuentos actuales."
   - "Participación del 44,15% en LPI Capital Bhd — confirmar la participación actual y los detalles de cualquier finalización."
   - "Liderazgo: Tay Ah Lek como director gerente y consejero delegado, y el presidente en ejercicio — confirmar los cargos actuales del consejo."
+framework: profile
 ---
 
 Pocas empresas malasias están tan estrechamente ligadas a un solo fundador como lo está Public Bank a Tan Sri Teh Hong Piow. Empezando con una sucursal en el centro de Kuala Lumpur en 1966, construyó un prestamista que creció hasta convertirse en uno de los mayores grupos bancarios del país — y uno famoso menos por su tamaño que por su prudencia, al registrar los menores ratios de préstamos morosos del sector bancario década tras década.

@@ -157,6 +157,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["offboarding checklist malaysia", "CP22A deadline", "CP21 form malaysia", "tax clearance letter SPC", "final pay malaysia", "employee exit checklist malaysia", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 The exit interview is the part everyone remembers. The filings are the part that generates fines — and one of them, the tax-clearance withholding duty, is the reason a payroll officer who released a final salary on time and in good faith can end up explaining it to LHDN.

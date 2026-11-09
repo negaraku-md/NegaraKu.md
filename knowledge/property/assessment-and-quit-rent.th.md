@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 เจ้าของบ้านใหม่หลายคนแปลกใจเมื่อได้รับใบเรียกเก็บเงินใบที่สองที่พวกเขาไม่คาดคิดว่ามีอยู่ พวกเขาชำระ "ภาษีที่ดิน" ปีนี้ไปแล้ว เหตุใดสภาเทศบาลจึงส่งหนังสือทวงถามอีก?

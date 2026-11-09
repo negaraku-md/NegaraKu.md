@@ -69,6 +69,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["lista de CDI de Malasia", "tarifas del convenio de doble imposición de Malasia", "retención del convenio Malasia", "países con convenio fiscal con Malasia", "tarifa de cánones CDI Malasia"]
+framework: data-reference
 ---
 
 Un convenio es un techo, nunca un suelo. Si la tarifa interna bajo el Anexo 1 de

@@ -77,6 +77,7 @@ verificationNeeded:
   - "edotco ownership ~63% (Khazanah ~32%, KWAP the remainder) and tower count 'more than 47,000' across its markets — as of Oct 2025 reporting; a divestment process was reported as ongoing and figures and ownership may change."
   - "Group YTD profit of RM403.3 million for the nine months to 30 Sep 2025 (published 27 Nov 2025) — verify against the next quarterly and annual results."
   - "'Well over 150 million customers' is based on a 2019 company figure plus subsequent market growth; verify the current group customer total against the latest annual report."
+framework: profile
 ---
 
 Malaysia's biggest telecoms story is not a single network but a holding company that owns pieces of mobile operators in six countries. Axiata Group Berhad sits in an office tower at Kuala Lumpur Sentral and controls, part-owns or jointly runs the carriers that connect hundreds of millions of people across South and Southeast Asia.

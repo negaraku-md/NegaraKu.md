@@ -115,6 +115,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["js-sez-guide", "forest-city-sfz", "new-incentive-framework", "tax-incentives-directory", "global-minimum-tax-pillar-two"]
 keywords: ["JS-SEZ tax incentive", "Forest City Special Financial Zone tax", "Global Services Hub Malaysia", "Malaysia special economic zone tax rate", "knowledge worker 15% Malaysia", "JS-SEZ vs Forest City"]
+framework: decision
 ---
 
 Deux zones se trouvent à une vingtaine de kilomètres l'une de l'autre dans le sud de Johor, et le marché les traite comme une seule chose. Elles ne le sont pas. **La Forest City Special Financial Zone est un régime de la Securities Commission pour les services financiers. Le paquet JS-SEZ est un régime de MIDA pour la fabrication et les services.** Demandes distinctes, régulateurs distincts, personnes qualifiées distinctes, instruments distincts — et, il se trouve, des niveaux très différents de complétude juridique.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 மலேசியக் குடும்பங்கள் தங்கள் பிள்ளைகளுக்கான "சிறந்த" உறைவிடப் பள்ளிகள் பற்றி உரையாடும்போது இரண்டு பெயர்கள் அடிக்கடி எழுகின்றன: MRSM மற்றும் SBP. இரண்டும் தேர்ந்தெடுக்கப்பட்ட முழு உறைவிடக் கல்லூரிகள், இரண்டிலும் இடம்பெற கடுமையான போட்டி நிலவுகிறது — ஆனால் அவை இரு வெவ்வேறு அமைப்புகளால், இரு வெவ்வேறு கொள்கை ஆணைகளின் கீழ் நிர்வகிக்கப்படுகின்றன.

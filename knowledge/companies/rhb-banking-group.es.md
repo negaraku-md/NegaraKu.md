@@ -76,6 +76,7 @@ verificationNeeded:
   - "Número de sucursales (más de 200 en Malasia) y plantilla (las cifras reportadas oscilan entre unos 13.000 y 14.000) — confirmar frente al informe anual más reciente."
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
+framework: profile
 ---
 
 RHB es uno de los nombres que la mayoría de los malasios reconoce en la sucursal de un banco de barrio, en una tarjeta de cajero automático o en un folleto de préstamos hipotecarios; sin embargo, el grupo que lo respalda va mucho más allá de la banca minorista, hacia las finanzas islámicas, la banca de inversión, los seguros y los mercados de todo el Sudeste Asiático. Esta página es una visión general neutral y factual de qué es RHB Banking Group, cómo está estructurado, quién lo posee y por qué importa.

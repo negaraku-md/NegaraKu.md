@@ -88,6 +88,7 @@ social:
 verificationNeeded:
   - "The MICHELIN Guide Malaysia (Kuala Lumpur & Penang) selection is revised annually. This profile reflects the 2026 edition; confirm the Bib Gourmand still stands in the latest edition (a 2027 selection is emerging), as awards can be added or removed each year."
   - "Opening days and hours are cash-only and set by the shop; confirm current trading times directly before visiting."
+framework: profile
 ---
 
 In a city where asam laksa is close to a civic obsession, a Bib Gourmand for it

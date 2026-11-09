@@ -107,6 +107,7 @@ keywords:
   - "koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "which economic corridor Malaysia"
+framework: decision
 ---
 
 ห้าระเบียงเศรษฐกิจ ห้าหน่วยงาน และข้อเท็จจริงหนึ่งที่ทำให้การตลาดส่วนใหญ่พังทลาย: **ไม่มีสักแห่งที่ให้สิ่งจูงใจทางภาษีแก่คุณได้** สามแห่งถูกจำกัดตามกฎหมายที่การ *แนะนำ* หนึ่ง การให้อยู่กับรัฐมนตรีว่าการกระทรวงการคลังเสมอ และตั้งแต่มีนาคม 2026 เส้นทางดำเนินผ่าน MIDA และ National Committee on Investment อย่างสม่ำเสมอ

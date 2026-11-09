@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 Sunway Group menukar tanah menjadi bandar yang lengkap — kediaman, pusat beli-belah, hospital, universiti dan taman tema dalam satu pelan induk — kemudian terus mengendalikan apa yang dibinanya.

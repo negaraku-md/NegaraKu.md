@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "wilayah-persekutuan" }
 related: ["parliament", "federal-constitution", "dewan-rakyat", "yang-di-pertuan-agong", "wilayah-persekutuan"]
 keywords: ["Dewan Negara", "مجلس الشيوخ الماليزي", "أعضاء مجلس الشيوخ في ماليزيا", "الفرق بين Dewan Negara وDewan Rakyat", "المادة 45 من الدستور الاتحادي", "تعيين أعضاء مجلس الشيوخ", "Senate Malaysia"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Dewan Negara · **English:** Senate · **中文:** 上议院

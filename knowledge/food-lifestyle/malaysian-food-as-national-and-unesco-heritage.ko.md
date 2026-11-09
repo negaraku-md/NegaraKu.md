@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak kut teh warisan negara", "Akta Warisan Kebangsaan 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 오늘 아침에 먹은 나시 르막은 이제 두 개의 서로 다른 유산 명부에 공식적으로 기록되어 있습니다 — 하나는 푸트라자야에, 다른 하나는 파리에. 둘 다 실재하지만, 서로 다른 기관이, 서로 다른 근거로, 서로 다른 것을 뜻하며 부여했습니다.

@@ -71,6 +71,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["马来西亚首相", "马来西亚历任首相", "Prime Ministers of Malaysia", "安华·依布拉欣", "马哈迪·莫哈末"]
+framework: data-reference
 ---
 
 马来西亚的政府首脑是**首相**——获得下议院多数议员信任、并由

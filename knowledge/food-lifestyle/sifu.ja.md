@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 プラナカン料理はペナンの心の料理であり、Jalan Pintal Taliでは一つの小さな厨房が、

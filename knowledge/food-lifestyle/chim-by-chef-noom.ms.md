@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "Label tahun edisi pada penyenaraian MICHELIN langsung restoran ini mungkin berbeza daripada '2026' yang digunakan dalam liputan majlis MICHELIN; bintang itu mula-mula dianugerahkan dalam edisi 2025 dan dikekalkan pada 2026. Pemilihan disemak semula setiap tahun — sahkan pengiktirafan semasa pada halaman rasmi."
   - "Nama penuh Chef Thaninthorn 'Noom' Chantrawan disahkan oleh liputan sekunder (The Star) dan bukannya dicetak dalam teks penyenaraian MICHELIN; penyenaraian MICHELIN merujuk kepada 'Chef Noom'. Tarikh pembukaan (2024), waktu operasi dan format menu tasting semasa harus disahkan dengan restoran."
+framework: profile
 ---
 
 Chim by Chef Noom ialah restoran santapan Thai mewah di Kuala Lumpur yang

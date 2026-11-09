@@ -80,6 +80,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pdpa registration malaysia", "class of data users order", "pdpa registrable class", "register data controller malaysia", "pu a 336 2013"]
+framework: data-reference
 ---
 
 การจดทะเบียนภายใต้ PDPA ไม่ใช่แบบทั่วไป มันครอบคลุมเฉพาะผู้ควบคุมข้อมูลที่อยู่ในประเภทที่ระบุโดยคำสั่งภายใต้ s.14 ของ Act 709 — และรายการนั้นไม่ได้เคลื่อนไหวมาตั้งแต่วันที่ 16 ธันวาคม 2016

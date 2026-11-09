@@ -93,6 +93,7 @@ verificationNeeded:
   - "Tahun edisi: pers Malaysia merujuk pada edisi MICHELIN Guide Kuala Lumpur & Penang 2027 (dilaporkan diumumkan pada 4 November 2026), sementara edisi resmi terbaru yang dapat dikonfirmasi secara independen adalah 2026 — konfirmasikan edisi mana yang mendaftarkan kedai ini terhadap halaman seleksi resmi."
   - "Jam operasional (terdaftar 12:00–22:00, tutup Kamis) berasal dari daftar MICHELIN dan bisa berubah — konfirmasikan di tempat sebelum berangkat."
   - "Deskripsi MICHELIN berfokus pada kuah, babi panggang, dan sambal dan tidak menggambarkan darah bebek itu sendiri; konfirmasikan penawaran topping darah bebek terkini langsung ke kedai jika itulah daya tariknya."
+framework: profile
 ---
 
 Namanya menjanjikan darah bebek — topping curry mee tradisional — tetapi yang

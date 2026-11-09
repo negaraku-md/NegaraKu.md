@@ -151,6 +151,7 @@ keywords:
   - "Labuan trust company"
   - "syarikat Labuan"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 Labuan gets two kinds of coverage and both are useless.

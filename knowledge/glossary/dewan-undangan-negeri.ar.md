@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "spr-election-commission" }
 related: ["dewan-rakyat", "dewan-negara", "menteri-besar", "state-assemblies-dun", "federal-state-division", "federal-constitution"]
 keywords: ["Dewan Undangan Negeri", "DUN", "ADUN", "Ahli Dewan Undangan Negeri", "المجلس التشريعي للولاية", "التشريع الولائي", "الجدول الثامن", "المادة 71", "حكومة الولاية", "State Legislative Assembly"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Dewan Undangan Negeri · **English:** State Legislative Assembly · **中文:** 州议会

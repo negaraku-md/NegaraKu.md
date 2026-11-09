@@ -67,6 +67,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["réduction d'impôt Malaisie", "Malaysia tax relief", "pelepasan cukai individu", "liste de contrôle réductions d'impôt Malaisie", "réductions Formulaire BE", "réduction individuelle LHDN"]
+framework: how-to
 ---
 
 Chaque ringgit de réduction que vous pouvez valablement réclamer diminue votre

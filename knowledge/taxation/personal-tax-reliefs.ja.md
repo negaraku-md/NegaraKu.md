@@ -66,6 +66,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["Malaysia tax relief", "pelepasan cukai individu", "tax relief checklist Malaysia", "Form BE reliefs", "LHDN individual relief"]
+framework: how-to
 ---
 
 有効に申請できる減免の1リンギットごとに、あなたの課税所得はその分減る——そしてマレーシアの個人税制は累進的であるため、ある減免の価値は、それがどの税率区分に該当するかによって決まる。申告する前に、見落としているものがないか、このチェックリストで確認してほしい。

@@ -82,6 +82,7 @@ verificationNeeded:
   - "MICHELIN Guide 판 연도: Bib Gourmand는 매년 재평가되며 이 프로필은 그것을 단일 판에 고정하지 않는다. 집필 시점에 가장 최근 발행된 판은 MICHELIN Guide Kuala Lumpur & Penang 2026이며——MICHELIN이 2027년 판을 발행하기 전까지는 2027년 판이라고 기재하지 말 것. guide.michelin.com에서 Rasa Rasa가 현행 판에서도 Bib Gourmand를 보유하고 있는지 확인할 것."
   - "주소: MICHELIN은 59 Gat Lebuh Chulia로 등재하나, 적어도 한 리뷰는 25 Lebuh Melayu를 인용한다. MICHELIN 주소를 현행으로 보고, 길 안내를 게시하기 전에 확인할 것."
   - "영업시간은 MICHELIN 등재에서 요일마다 조금씩 다르다(대략 08:30–16:00, 수요일 휴무)——주방이 오후에 닫으므로 현행 일정을 확인할 것."
+framework: profile
 ---
 
 **Rasa Rasa**는 바로 MICHELIN Bib Gourmand가 그것을 위해 만들어진 듯한 곳이다. 노출 벽돌

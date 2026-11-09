@@ -83,6 +83,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["pembiayaan pks malaysia", "dana untuk pks bnm", "jaminan sjpp", "pembiayaan sme bank", "geran cradle malaysia", "pembiayaan tekun", "pinjaman kerajaan pks malaysia"]
+framework: data-reference
 ---
 
 Kebanyakan direktori pembiayaan PKS hanyalah senarai nama skim yang dikumpul daripada

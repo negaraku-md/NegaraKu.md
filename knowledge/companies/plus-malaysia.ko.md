@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "kwsp" }
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
+framework: profile
 ---
 
 북쪽의 부킷 카유 히탐(Bukit Kayu Hitam)에서 남쪽의 조호르바루(Johor Bahru)까지 신호등에 멈추지 않고 운전할 때마다, 여러분은 사실 한 회사의 자산을 지나는 것입니다. 바로 PLUS Malaysia Berhad입니다. 그것은 정부 기관도 아니지만 평범한 민간 회사도 아닙니다 — 정부와의 장기 협정 아래 국가 도로망의 근간을 운영하는 콘세션 보유자입니다.

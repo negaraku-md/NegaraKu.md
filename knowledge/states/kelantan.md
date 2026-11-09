@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
+framework: profile
 ---
 
 Ekonomi Malaysia biasanya diceritakan menerusi kilang. Kelantan ialah pengecualian

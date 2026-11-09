@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
+framework: profile
 ---
 
 Kuala Lumpur ialah ibu negara Malaysia, tetapi dari segi perlembagaan ia bukan sebuah

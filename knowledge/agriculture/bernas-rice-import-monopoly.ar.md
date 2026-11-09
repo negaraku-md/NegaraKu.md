@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "احتكار استيراد الأرز", "الحد الأدنى لسعر الأرز", "سعر أرضية الأرز", "Control of Paddy and Rice Act 1994", "Syed Mokhtar Al-Bukhary", "الأمن الغذائي"]
+framework: profile
 ---
 
 كل كيلوغرام من الأرز المستورد الذي يدخل ماليزيا يمرّ عبر بوابة واحدة — وتلك البوابة تمسك بها شركة خاصة. تلك الشركة هي BERNAS.

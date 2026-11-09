@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["double deduction Malaysia", "further deduction income tax", "P.U.(A) double deduction list", "tax incentive gazette order Malaysia", "twice the amount deduction"]
+framework: data-reference
 ---
 
 ไม่มีใครเผยแพร่สิ่งนี้เป็นรายการ และนั่นเป็นเหตุผลว่าทำไมการขอสิทธิจึงผิดพลาด ผู้จัดการการเงินอ่านการ

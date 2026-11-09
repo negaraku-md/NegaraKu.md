@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "socso-eis-employer-guide" }
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["الموظف مقابل المقاول ماليزيا", "المقاول المستقل ماليزيا", "تصنيف العامل ماليزيا", "contract for service vs contract of service", "تصنيف عامل الوظائف المؤقتة ماليزيا", "employee vs contractor malaysia"]
+framework: explainer
 ---
 
 حتى 31 مارس 2026 كان هذا سؤالاً ثنائياً في ماليزيا: عقد خدمة **of** service، أو عقد

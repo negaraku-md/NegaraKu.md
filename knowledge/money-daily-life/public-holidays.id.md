@@ -71,6 +71,7 @@ keywords:
   - "Public Holidays Ordinance Sarawak"
   - "Pesta Kaamatan"
   - "Hari Gawai"
+framework: explainer
 ---
 
 Seorang staf di Kota Kinabalu dapat libur dua hari berturut-turut untuk [Pesta Kaamatan](/id/arts-culture/kaamatan) pada akhir Mei, sementara rekan kerjanya di Melaka sama sekali tidak mengenal hari itu sebagai libur. Seorang lagi di Kuching berhenti bekerja untuk Gawai pada 1 Juni, tetapi kalender perusahaan induknya di Kuala Lumpur tidak menandai apa pun pada tanggal tersebut. Ini bukan kesalahan HR. Ia tertanam dalam undang-undang.

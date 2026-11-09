@@ -83,6 +83,7 @@ keywords:
   - "SSM annual return fee"
   - "LLP registration fee"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 Ba biểu lệ phí riêng biệt, ba luật riêng biệt, và không một trang nào trên trang của SSM

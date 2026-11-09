@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["statutory registers Malaysia", "company registers checklist", "daftar berkanun syarikat", "register of members directors", "SSM company records", "Companies Act 2016 registers"]
+framework: how-to
 ---
 
 法定登録簿は、監査人、銀行、あるいは買収先の弁護士がそれを見せてほしいと言い出すまで誰も気に留めない書類仕事である——そしてその時にはもう、三年分の未更新記録を作り直すには遅すぎる。

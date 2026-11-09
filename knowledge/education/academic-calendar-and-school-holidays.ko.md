@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
+framework: data-reference
 ---
 
 연초에 가족 여행을 계획하다 보면 한 가지 사실을 금방 깨닫게 됩니다. 켈란탄(Kelantan)에 사는 이웃의 아이가 슬랑오르(Selangor)에 사는 여러분의 아이보다 하루 먼저 개학한다는 점입니다. 이것은 실수가 아니라 말레이시아 학사 일정이 설계된 방식입니다.

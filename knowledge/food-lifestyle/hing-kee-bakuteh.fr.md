@@ -103,6 +103,7 @@ social:
 verificationNeeded:
   - "La sélection du MICHELIN Guide Kuala Lumpur & Penang est revue chaque année ; ce profil reflète l'édition 2026 (annoncée en novembre 2025). Une édition plus récente — par exemple une liste 2027 — peut ajouter, retirer ou reclasser ce restaurant, aussi reconfirmez son statut Bib Gourmand actuel sur guide.michelin.com avant de vous y fier."
   - "Horaires : la page MICHELIN indique des horaires inhabituellement tardifs (jusqu'au petit matin) qui varient selon les jours et ferment souvent le lundi — confirmez les horaires actuels directement auprès du restaurant, car ils changent."
+framework: profile
 ---
 
 Commandez un bak kut teh à Kuala Lumpur et vous puisez dans ce que beaucoup de

@@ -119,6 +119,7 @@ keywords:
   - "regional office MIDA"
   - "local agent foreign company Malaysia"
   - "set up business in Malaysia foreign company"
+framework: decision
 ---
 
 分行通常被推销成那个轻量选项：不必开新公司，没有股东，没有章程。然后有人读到

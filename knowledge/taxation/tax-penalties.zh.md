@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["tax penalty Malaysia", "LHDN penalty rates", "section 113(2) penalty", "SST late payment penalty", "stamp duty late stamping penalty", "RPGT penalty", "kesalahan denda dan penalti", "section 112(3) treble tax"]
+framework: data-reference
 ---
 
 马来西亚没有单一的税务罚则级距。五部法令各跑各的架构，而同一个商业上的失误，在其中

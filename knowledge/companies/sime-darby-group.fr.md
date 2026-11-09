@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "scission de Sime Darby", "Permodalan Nasional Berhad", "UMW Holdings", "conglomérat Bursa Malaysia"]
+framework: profile
 ---
 
 L'un des plus anciens noms d'entreprise de Malaisie représente aujourd'hui trois sociétés, et non plus une seule.

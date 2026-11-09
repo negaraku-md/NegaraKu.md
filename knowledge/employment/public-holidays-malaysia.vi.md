@@ -75,6 +75,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
 keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+framework: data-reference
 ---
 
 Hai hệ thống chạy song song và chúng trả lời những câu hỏi khác nhau. **Holidays Act

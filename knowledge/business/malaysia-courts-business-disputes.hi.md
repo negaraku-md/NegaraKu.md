@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["सत्र न्यायालय अधिकारिता मलेशिया", "मजिस्ट्रेट न्यायालय सीमा मलेशिया", "उच्च न्यायालय सिविल अधिकारिता मलेशिया", "मलेशिया में किस अदालत में मुकदमा", "परिसीमन अवधि संविदा मलेशिया", "सत्र न्यायालय से अपील मलेशिया"]
+framework: decision
 ---
 
 मंच का निर्णय किसी के गुण-दोष पर नज़र डालने से पहले ही हो जाता है। एक RM1.2 मिलियन का दावा सत्र न्यायालय

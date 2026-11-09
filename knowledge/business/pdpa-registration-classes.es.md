@@ -81,6 +81,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pdpa registration malaysia", "class of data users order", "pdpa registrable class", "register data controller malaysia", "pu a 336 2013"]
+framework: data-reference
 ---
 
 El registro bajo la PDPA no es general. Alcanza solo a los responsables del tratamiento que entren dentro de una clase especificada por orden bajo la s.14 de la Act 709 — y esa lista no se ha movido desde el 16 de diciembre de 2016.

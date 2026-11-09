@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "government-linked-companies" }
 related: []
 keywords: ["LTAT", "Lembaga Tabung Angkatan Tentera", "Boustead Holdings", "Project Earth", "Angkatan Tentera Malaysia", "GLC", "dividen", "Pharmaniaga"]
+framework: profile
 ---
 
 말레이시아의 모든 군인과 수병은 급여의 일부를 하나의 동일한 곳에 저축합니다. 그리고 그 돈은 오랜 세월 동안 부채를 안은 한 대기업의 운명에 좌우되었습니다. 그것이 LTAT와 Boustead Holdings의 이야기입니다.

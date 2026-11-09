@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 Khi 85,500 khán giả lấp đầy đường vòng cung ba tầng của TM Stadium Nasional trong đêm chung kết bóng đá, họ đang ngồi bên trong biểu tượng lớn nhất của cơ sở hạ tầng thể thao Malaysia — nhưng nó chỉ là một trong số vài sân đấu gánh vác các sự kiện chính của quốc gia.

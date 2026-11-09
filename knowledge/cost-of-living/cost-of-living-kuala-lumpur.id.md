@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["inflation-cpi", "klang-valley-rail", "touch-n-go", "income-tax-individuals"]
 keywords: ["cost of living Kuala Lumpur", "Klang Valley cost of living", "Kuala Lumpur most expensive city Malaysia", "KL household expenditure DOSM", "Kuala Lumpur median income", "Kuala Lumpur inflation rate", "kos sara hidup Kuala Lumpur"]
+framework: data-reference
 ---
 
 ## Sekilas pandang

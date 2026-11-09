@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 Selama beberapa dekad, setiap buku rujukan memberikan angka yang sama: Gunung Kinabalu, puncak tertinggi Malaysia, berdiri setinggi 4,101 meter di atas paras laut. Kemudian pada 1997, satu pasukan tinjauan mengarahkan satelit ke arah puncak dan bukan lagi teodolit, dan angka itu berubah. Bukan sekadar kesilapan pembundaran — tetapi sebanyak enam meter. Gunung itu tidak menyusut. Ukuran lama itu sememangnya silap, dan tiada siapa mempunyai alat untuk membuktikannya sehinggalah GPS menjadikan pembetulan itu mungkin.

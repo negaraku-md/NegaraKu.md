@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "form-e-ea-cp8d-malaysia" }
 related: ["personal-tax-rates", "individual-tax-residence", "form-e-ea-cp8d-malaysia", "form-c-and-cp204"]
 keywords: ["which LHDN form", "Form BE vs Form B", "borang BE tarikh akhir", "Form M non-resident Malaysia", "LHDN filing deadline 2026", "e-Filing grace period Malaysia"]
+framework: data-reference
 ---
 
 Deux éléments déterminent votre formulaire : le fait d'être **résident** au titre de

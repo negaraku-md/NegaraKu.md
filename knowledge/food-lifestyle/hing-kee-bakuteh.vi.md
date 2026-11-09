@@ -103,6 +103,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn MICHELIN Guide Kuala Lumpur & Penang được rà soát hằng năm; bài viết này phản ánh ấn bản 2026 (công bố tháng 11 năm 2025). Một ấn bản mới hơn — ví dụ danh sách 2027 — có thể thêm, loại bỏ hoặc xếp lại quán này, vì vậy hãy xác nhận lại tình trạng Bib Gourmand hiện tại tại guide.michelin.com trước khi dựa vào."
   - "Giờ mở cửa: trang MICHELIN ghi giờ muộn bất thường (đến sáng sớm), thay đổi theo ngày và thường đóng cửa thứ Hai — hãy xác nhận giờ hiện tại trực tiếp với quán, vì chúng thay đổi."
+framework: profile
 ---
 
 Gọi một tô bak kut teh ở Kuala Lumpur, và bạn đang chạm vào thứ mà nhiều người

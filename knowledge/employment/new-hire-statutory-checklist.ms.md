@@ -120,6 +120,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["senarai semak pekerja baharu malaysia", "cp22 malaysia", "daftar pekerja epf socso", "pematuhan onboarding malaysia", "kelulusan seksyen 60k"]
+framework: how-to
 ---
 
 Satu pengambilan, empat pihak berkuasa, enam jam kiraan. Tiada satu pun bermula pada

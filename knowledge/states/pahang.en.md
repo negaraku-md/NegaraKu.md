@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
+framework: profile
 ---
 
 Pahang covers more than a quarter of the land area of Peninsular Malaysia, yet

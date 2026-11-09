@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["historia de Malasia", "cronología de Malasia", "Merdeka 1957", "formación de Malasia 1963", "primeros ministros de Malasia"]
+framework: history-culture
 ---
 
 Mucho antes de que «Malasia» tuviera un nombre, este tramo de costa y archipiélago

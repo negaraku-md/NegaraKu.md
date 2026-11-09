@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 1996-ஆம் ஆண்டில், மலேசியா கோலாலம்பூருக்குத் தெற்கே ஒரு விவசாய நிலப்பரப்பை வரைந்து, அதை நாட்டின் எதிர்காலத் தொழில்நுட்ப வழித்தடமாக அறிவித்தது. கிட்டத்தட்ட மூன்று தசாப்தங்களுக்குப் பிறகு, தேசியப் பொருளாதாரம் ஈட்டும் ஒவ்வொரு நான்கு ரிங்கிட்டிலும் ஏறத்தாழ ஒரு ரிங்கிட் திரைகள், சேவையகங்கள் மற்றும் ஆன்லைன் ஷாப்பிங் வண்டிகள் வழியாகப் பாய்கிறது. அந்த இரு புள்ளிகளுக்கு இடையிலான பயணம் ஒரே பாய்ச்சல் அல்ல — அது ஒன்றோடொன்று இணைந்த கொள்கைத் தொடராகும்; ஒவ்வொன்றும் முந்தையதைத் திருத்தியது அல்லது விரிவாக்கியது.

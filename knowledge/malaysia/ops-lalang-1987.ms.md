@@ -92,6 +92,7 @@ relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
 related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
+framework: history-culture
 ---
 
 Pada malam tangkapan itu bermula pada hujung Oktober 1987, pintu yang tertutup bukan sahaja pintu sel — tiga akhbar terpadam dalam beberapa hari, dan ungkapan "Ops Lalang" masuk ke dalam ingatan politik Malaysia sebagai singkatan bagi penahanan tanpa perbicaraan. Hampir empat dekad kemudian, ia masih diperdebatkan: apa yang dicegahnya, apa yang dibungkamnya, dan apa yang ia gambarkan tentang kuasa yang boleh dipegang sesebuah negara ke atas rakyatnya.

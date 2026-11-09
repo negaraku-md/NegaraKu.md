@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "Pemilihan MICHELIN Guide Malaysia (Kuala Lumpur & Penang) disemak setiap tahun. Profil ini mencerminkan edisi 2026; sahkan bahawa Bib Gourmand masih kekal dalam edisi terkini (pemilihan 2027 sedang muncul), kerana anugerah boleh ditambah atau ditarik balik setiap tahun."
   - "Tahun penubuhan (1960) dan pemilikan generasi ketiga datang daripada penyenaraian MICHELIN; nombor jalan yang tepat telah dilaporkan berbeza oleh sesetengah sumber pihak ketiga, jadi sahkan alamat sebelum melawat."
+framework: profile
 ---
 
 Sebahagian makanan terbaik Pulau Pinang datang dari sebuah gerai, bukan dapur,

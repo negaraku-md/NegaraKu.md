@@ -55,6 +55,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["open-house", "kampung", "adat"]
 keywords: ["kenduri", "maksud kenduri", "kenduri kahwin", "kenduri doa selamat", "kenduri arwah", "kenduri in english"]
+framework: explainer
 ---
 
 **ภาษามลายู:** Kenduri · **ภาษาอังกฤษ:** Communal feast · **ภาษาจีน:** 宴席（马来社群聚餐）

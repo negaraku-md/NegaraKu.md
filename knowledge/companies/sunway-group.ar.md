@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "تكتل ماليزي", "مدينة متكاملة", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 تحوّل مجموعة صنواي الأراضي إلى مدن كاملة — مساكن ومراكز تسوق ومستشفيات وجامعات ومدن ملاهٍ ضمن مخطط رئيسي واحد — ثم تواصل تشغيل ما تبنيه.

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
+framework: data-reference
 ---
 
 ถามแหล่งข้อมูลที่น่าเชื่อถือสามแหล่งว่ามาเลเซียยังเป็นป่ามากเท่าใด แล้วท่านอาจได้คำตอบสามคำตอบที่ห่างกันสิบจุดร้อยละ ทั้งหมดมีเหตุผลรองรับ ทั้งหมดวัดสิ่งที่ต่างกันเล็กน้อย ช่องว่างนั้นไม่ใช่ข้อผิดพลาดจากการปัดเศษ แต่เป็นข้อโต้แย้งทั้งหมดเกี่ยวกับการตัดไม้ทำลายป่าในมาเลเซียในรูปแบบย่อ

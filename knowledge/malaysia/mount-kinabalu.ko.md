@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 수십 년 동안 모든 참고 서적은 같은 숫자를 제시했습니다. 말레이시아의 최고봉 키나발루산은 해발 4,101미터라는 것이었습니다. 그러다 1997년, 한 측량팀이 세오돌라이트(경위의) 대신 위성을 정상에 겨누자 그 숫자가 바뀌었습니다. 반올림 오차 정도가 아니라 6미터나 달랐습니다. 산이 낮아진 것이 아닙니다. 옛 측정이 그저 틀렸을 뿐이며, GPS가 정정을 가능하게 하기 전까지는 이를 증명할 도구를 아무도 갖지 못했던 것입니다.

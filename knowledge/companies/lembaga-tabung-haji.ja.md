@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bank-islam-malaysia" }
 related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
+framework: profile
 ---
 
 多くの預金者にとって、巡礼基金局（Lembaga Tabung Haji、TH）とは、メッカへの巡礼費用を積み立てる口座にすぎない。しかしその貯蓄窓口の裏側で、THはプランテーション、不動産、株式、イスラム金融商品にまたがって数百億リンギットを動かしており、マレーシアにおける大規模な機関投資家の一つとなっている。本稿はこの金融・企業面に焦点を当て、ハッジ（巡礼）の儀礼そのものは扱わない。

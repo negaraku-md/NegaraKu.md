@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
+framework: profile
 ---
 
 เก้ารัฐในมาเลเซียมีผู้ปกครอง มะละกาไม่ใช่หนึ่งในนั้น — แม้ชื่อของมันจะผูกติดกับรัฐสุลต่านมลายูที่มีชื่อเสียงที่สุดในประวัติศาสตร์ของภูมิภาคนี้

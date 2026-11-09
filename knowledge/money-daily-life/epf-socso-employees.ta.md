@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "beza KWSP PERKESO", "caruman berkanun pekerja Malaysia", "potongan gaji KWSP SOCSO", "kadar caruman KWSP", "kategori SOCSO"]
+framework: explainer
 ---
 
 மலேசிய ஊழியர் ஒருவரின் எந்தவொரு சம்பள சீட்டையும் (slip gaji) திறந்து

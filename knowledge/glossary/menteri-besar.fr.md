@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "wilayah-persekutuan" }
 related: ["three-tiers-of-government", "federal-constitution", "parliament", "sarawak", "selangor", "penang", "wilayah-persekutuan"]
 keywords: ["Menteri Besar", "Chief Minister", "Premier Sarawak", "chef du gouvernement d'État", "Yang di-Pertua Negeri", "Conseil exécutif de l'État", "Exco de l'État", "huitième annexe", "Dewan Undangan Negeri", "nomination du Menteri Besar"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Menteri Besar / Ketua Menteri · **English:** Menteri Besar / Chief Minister (head of a state government) · **中文:** 州务大臣 / 首席部长

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["पेनांग मलेशिया", "Penang Malaysia", "जॉर्ज टाउन यूनेस्को", "George Town UNESCO", "बायान लेपास", "Bayan Lepas", "पेनांग इलेक्ट्रॉनिक्स", "Penang electronics", "पूर्व की सिलिकॉन वैली", "silicon valley of the east"]
+framework: profile
 ---
 
 पेनांग अपने आकार से कहीं बढ़कर प्रभाव रखता है। यह भूमि क्षेत्र की दृष्टि से मलेशिया

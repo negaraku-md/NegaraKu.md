@@ -69,6 +69,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["मलेशिया DTA सूची", "मलेशिया दोहरा-कराधान समझौता दरें", "मलेशिया संधि रोक-कर", "मलेशिया कर संधि देश", "Malaysia DTA list", "treaty withholding tax Malaysia"]
+framework: data-reference
 ---
 
 संधि एक अधिकतम-सीमा है, कभी न्यूनतम-सीमा नहीं। यदि Income Tax Act 1967 की

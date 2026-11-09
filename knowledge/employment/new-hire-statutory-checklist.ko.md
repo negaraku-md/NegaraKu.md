@@ -119,6 +119,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["new hire checklist malaysia", "cp22 malaysia", "register employee epf socso", "onboarding compliance malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 한 번의 채용, 네 개의 당국, 여섯 개의 시계. 그중 어느 것도 제안일에 시작되지 않으며 —

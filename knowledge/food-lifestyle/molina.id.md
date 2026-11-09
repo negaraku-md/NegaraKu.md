@@ -87,6 +87,7 @@ verificationNeeded:
   - "Seleksi MICHELIN Guide direvisi setiap tahun; profil ini mencerminkan status yang ditampilkan dalam pencantuman saat ini dan sebaiknya diperiksa ulang setelah setiap edisi baru."
   - "Sumber bertentangan mengenai pemimpin dapur: pencantuman MICHELIN dan sebagian liputan mengkreditkan chef Belanda Sidney Schutte (dari Spectrum dua-Star di Amsterdam) atas konsepnya, sementara liputan lain menyebut Guillaume Depoortere sebagai kepala chef — konfirmasikan peran saat ini sebelum mengaitkan hidangan dengan chef tertentu."
   - "Edisi di mana Molina pertama kali menerima Star-nya (liputan sekunder menunjuk pada seleksi yang diumumkan pada November 2024) sebaiknya dikonfirmasi terhadap catatan MICHELIN."
+framework: profile
 ---
 
 Molina adalah restoran fine dining inovatif yang bertengger di lantai 51 THE FACE

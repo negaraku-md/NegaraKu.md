@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
+framework: explainer
 ---
 
 Dua kawasan perumahan dapat terlihat sama — pos jaga bata, palang jalan bergaris, penjaga berseragam memeriksa stiker kendaraan Anda. Satu berdiri di atas dasar hukum yang kukuh. Yang lain ada karena belum ada siapa pun yang menggugatnya.

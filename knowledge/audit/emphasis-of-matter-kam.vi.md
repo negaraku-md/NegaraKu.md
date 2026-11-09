@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph", "is emphasis of matter a qualification"]
+framework: explainer
 ---
 
 Một bên cho vay gọi điện nói rằng sổ sách bị đưa ra ý kiến ngoại trừ. Không phải vậy. Báo cáo có một đoạn bổ sung, một ý kiến sạch, và một câu ở cuối đoạn đó nói rõ điều đó.

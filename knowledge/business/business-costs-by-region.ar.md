@@ -111,6 +111,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["تكاليف الأعمال في ماليزيا حسب الولاية", "business costs malaysia by state", "تعرفة الكهرباء الصناعية في ماليزيا", "electricity tariff malaysia industrial", "تعرفة كهرباء ساراواك", "sarawak electricity tariff", "تعرفة المياه غير المنزلية", "water tariff malaysia non domestic", "رسوم ترخيص المجلس المحلي", "تكلفة صاحب العمل EPF SOCSO", "الإيجار الصناعي في ماليزيا"]
+framework: data-reference
 ---
 
 معظم مقارنات المواقع الخاصة بماليزيا مبنية على أرقام لم ينشرها أحد. الإيجار الصناعي للقدم المربعة حسب الولاية، وفواتير المرافق «النموذجية»، وفارق أجور بين بينانغ وكلنتان — كلها متداوَلة، ولا يكاد أيٌّ منها يرجع إلى مصدر حكومي.

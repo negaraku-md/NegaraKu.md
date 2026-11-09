@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 Chaque année, des millions de musulmans en Malaisie cèdent 2,5 % de leur richesse non pas au gouvernement, mais aux commissions de zakat des États — et pour beaucoup d'entre eux, ce versement compense leur facture d'impôt sur le revenu ringgit pour ringgit. La zakat se situe au carrefour du culte et des finances, et comprendre les deux versants importe à tout contribuable musulman.

@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["قائمة الحوافز الضريبية ماليزيا", "Malaysia tax incentives list", "حافز MIDA الضريبي", "حالة Pioneer Status ماليزيا", "حافز Global Services Hub", "أمر توريد الحوافز ماليزيا", "دليل الحوافز الضريبية ماليزيا"]
+framework: data-reference
 ---
 
 معظم قوائم الحوافز على الويب الماليزي نسخ عن نسخة. فهي ما زالت تعرض Pioneer Status،

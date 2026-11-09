@@ -80,6 +80,7 @@ verificationNeeded:
   - "MICHELIN Guide edition year: the Bib Gourmand is reassessed annually and this profile does not pin it to a single edition. The most recent published edition at the time of writing is MICHELIN Guide Kuala Lumpur & Penang 2026 — do NOT state a 2027 edition until MICHELIN publishes one. Confirm Rasa Rasa still holds the Bib Gourmand in the current edition on guide.michelin.com."
   - "Address: MICHELIN lists 59 Gat Lebuh Chulia, but at least one review cites 25 Lebuh Melayu. Treat the MICHELIN address as current and confirm before publishing directions."
   - "Opening hours vary slightly by day in the MICHELIN listing (around 08:30–16:00, closed Wednesday) — verify the current schedule, as the kitchen closes in the afternoon."
+framework: profile
 ---
 
 **Rasa Rasa** is the kind of place the MICHELIN Bib Gourmand was invented for:

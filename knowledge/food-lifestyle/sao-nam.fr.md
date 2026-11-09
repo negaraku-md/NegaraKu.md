@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "L'année exacte de l'édition MICHELIN est indiquée de façon incohérente selon les sources : la page officielle ne porte pas d'année, la couverture de presse évoquait le MICHELIN Guide Kuala Lumpur & Penang « 2026 », et la liste Bib Gourmand de Wikipédia affiche désormais une colonne « 2027 » comme la plus récente. La sélection est révisée chaque année ; confirmez le statut actuel sur guide.michelin.com."
   - "L'année de fondation souvent citée, 2002, et la mention « sans porc » proviennent de sites d'annuaires tiers et non de la page MICHELIN ; confirmez-les auprès du restaurant avant de les énoncer."
+framework: profile
 ---
 
 Derrière une façade d'un jaune éclatant sur Tengkat Tong Shin, au cœur des rues

@@ -91,6 +91,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
+framework: history-culture
 ---
 
 Malaysia declared its first communist Emergency over on 31 July 1960 — and then contended with a second insurgency for much of the next three decades. The guerrilla army that the government had pushed to the edges of the peninsula did not disband when the fighting was declared over. It withdrew across the Thai border, regrouped there, and eight years later resumed operations.

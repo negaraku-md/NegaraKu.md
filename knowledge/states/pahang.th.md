@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
+framework: profile
 ---
 
 ปะหังครอบคลุมมากกว่าหนึ่งในสี่ของผืนแผ่นดินคาบสมุทรมาเลเซีย แต่มีเพียงหนึ่งในทุก ๆ 20 คนของชาวมาเลเซียที่อาศัยอยู่ที่นั่น

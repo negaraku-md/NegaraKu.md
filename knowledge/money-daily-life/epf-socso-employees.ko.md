@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "beza KWSP PERKESO", "caruman berkanun pekerja Malaysia", "potongan gaji KWSP SOCSO", "kadar caruman KWSP", "kategori SOCSO"]
+framework: explainer
 ---
 
 말레이시아 근로자의 급여 명세서를 아무거나 펼쳐 보면 거의 설명되지 않는 두 가지 법정 공제가 있습니다: KWSP와 PERKESO. 대부분의 근로자는 이를 같은 것 — "정부가 저축을 위해 떼어 가는 돈" — 으로 여깁니다.

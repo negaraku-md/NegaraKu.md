@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malasia", "definición de entidad privada MASB", "qué marco contable Malasia", "elegibilidad MPERS", "marco de reporte MASB", "MFRS", "MPERS"]
+framework: decision
 ---
 
 La mayor parte de la guía malasia responde a esta pregunta con la frase "entidad

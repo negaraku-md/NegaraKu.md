@@ -84,6 +84,7 @@ keywords:
   - "AIAC arbitration rules 2026"
   - "arbitration clause Malaysia drafting"
   - "setting aside arbitral award Malaysia section 37"
+framework: decision
 ---
 
 仲裁条項は通常、最後に交渉される条項でありながら、物事が壊れたときに最初に重要になる

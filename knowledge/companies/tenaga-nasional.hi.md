@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "बिजली उपयोगिता", "utiliti elektrik", "राष्ट्रीय ग्रिड", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 प्रायद्वीप में आपके घर में हर बार जब रोशनी जलती है, तो बहुत संभावना है कि बिजली एक ही कंपनी के स्वामित्व वाले तारों से बह रही हो: Tenaga Nasional Berhad। यह देश की सबसे बड़ी बिजली उपयोगिता है, जिसके 30 सितंबर 2025 तक प्रायद्वीपीय मलेशिया, Sabah और Labuan में 1.1 करोड़ से अधिक ग्राहक हैं।

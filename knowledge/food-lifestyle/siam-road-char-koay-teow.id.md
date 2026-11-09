@@ -91,6 +91,7 @@ verificationNeeded:
   - "Predikat MICHELIN di sini digambarkan sebagai Bib Gourmand, tetapi halaman daftar resmi menampilkan penghargaan sebagai ikon alih-alih teks yang dapat diambil langsung; predikat MICHELIN direvisi setiap tahun, jadi konfirmasikan status Bib Gourmand terkini di guide.michelin.com sebelum mengutip."
   - "Tahun edisi: pers Malaysia merujuk pada edisi MICHELIN Guide Kuala Lumpur & Penang 2027 (dilaporkan diumumkan pada 4 November 2026), sementara edisi resmi terbaru yang dapat dikonfirmasi secara independen adalah 2026 — konfirmasikan edisi mana yang mendaftarkan gerai ini terhadap halaman seleksi resmi."
   - "Jam operasional (terdaftar Selasa–Sabtu 12:00–18:00) berasal dari daftar MICHELIN; jam dan hari sebuah gerai arang yang buka sebagian hari sering berubah, jadi konfirmasikan di tempat sebelum berangkat."
+framework: profile
 ---
 
 Di antara banyak gerai char koay teow di George Town, yang di Jalan Siam telah

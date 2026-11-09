@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
+framework: profile
 ---
 
 Line up the five names that dominate almost every Malaysian high street — Maybank, CIMB, Public Bank, RHB and Hong Leong — and you are looking at the core of a banking system that clears the country's salaries, mortgages and trade. They are all Malaysian-incorporated, all listed on Bursa Malaysia, and all licensed by the same central bank. Beyond that, they diverge sharply: one dwarfs the rest in scale, some are effectively government-anchored, and two are still steered by the families that founded them.

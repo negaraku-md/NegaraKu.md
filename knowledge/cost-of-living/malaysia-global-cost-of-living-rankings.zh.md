@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 问一位外派安置顾问，在亚洲预算紧张的情况下该把员工派驻到哪里，吉隆坡的名字总会不断出现——并非因为这些调查刻意抬举它，而是因为数字确实把它放在成本表的底部附近。作为马来西亚支柱的这座城市，是少数几个同时兼具便宜*和*宜居的地方之一。

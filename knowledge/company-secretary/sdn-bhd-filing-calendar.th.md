@@ -187,6 +187,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["Sdn Bhd compliance calendar", "SSM deadlines Malaysia", "company filing deadlines Malaysia", "annual return deadline", "14 days notify SSM", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 เหตุที่บริษัทมาเลเซียยื่นล่าช้าแทบไม่ใช่ความประมาท แต่เป็นเพราะหน้าที่เดินบน **สามกำหนดเวลาที่ไม่เกี่ยวข้องกัน** และไม่มีเอกสาร SSM ฉบับเดียวที่ระบุไว้ด้วยกัน

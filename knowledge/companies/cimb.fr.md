@@ -80,6 +80,7 @@ verificationNeeded:
   - "Participation de Khazanah Nasional (environ 21-23 % tout au long de 2024, selon les divulgations d'actionnaires substantiels de CIMB et The Edge) — la participation change avec les placements et les mouvements de marché."
   - "Classement comme deuxième banque de Malaisie par les actifs et parmi les cinq plus grands groupes bancaires de l'ASEAN — positionnel et variable dans le temps ; à reconfirmer par rapport aux bilans actuels des pairs."
   - "Nombre de clients (les chiffres cités dans des profils tiers varient largement, par ex. ~13,5 millions de clients de détail contre ~25 millions au total) — à vérifier par rapport au reporting actuel de CIMB avant de publier un chiffre."
+framework: profile
 ---
 
 CIMB est la banque que l'on croise presque partout où l'on se tourne dans le commerce malaisien — et de plus en plus dans toute l'Asie du Sud-Est. C'est une banque universelle, ce qui signifie qu'elle fait tout, du compte d'épargne d'un salarié aux émissions obligataires de plusieurs milliards de ringgit et aux acquisitions transfrontalières, et elle le fait non seulement en Malaisie mais à travers de grandes opérations en Indonésie, en Thaïlande et à Singapour.

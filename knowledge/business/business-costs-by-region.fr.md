@@ -111,6 +111,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 La plupart des comparaisons d'emplacement pour la Malaisie reposent sur des

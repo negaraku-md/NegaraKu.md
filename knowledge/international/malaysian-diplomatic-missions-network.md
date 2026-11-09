@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["Malaysian embassies", "Malaysia high commissions", "Malaysian consulate", "Wisma Putra missions", "Malaysia diplomatic missions abroad", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 Lose your passport in Lima, get arrested in Doha, or need a document

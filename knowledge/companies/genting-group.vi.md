@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 Một khu nghỉ dưỡng mát mẻ trên đỉnh núi cách Kuala Lumpur một giờ đường là nơi duy nhất tại Malaysia mà một sòng bạc có thể chia bài một cách hợp pháp. Giấy phép đơn lẻ, khác thường đó — hợp pháp đối với người không theo Hồi giáo, nhưng vận hành song song với một lệnh cấm đánh bạc theo luật Hồi giáo đối với người Hồi giáo — nằm ở trung tâm của Genting, một trong những tập đoàn đa ngành nội địa lớn nhất của Malaysia.

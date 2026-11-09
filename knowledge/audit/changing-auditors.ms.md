@@ -102,6 +102,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "The company and every officer commit an offence"
+framework: how-to
 ---
 
 Tiada sesiapa menukar juruaudit atas sebab yang neutral. Sama ada fi berubah,

@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 マレーシアに就労ビザというものは存在しない。あるのは四つの異なる機関が運用する八つか九つの異なる制度であり、どれが必要かを決めるのは**誰が給与を払っているか**であって、職種の呼び名ではない。

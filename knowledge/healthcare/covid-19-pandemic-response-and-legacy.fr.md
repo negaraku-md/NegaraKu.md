@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "health-white-paper-2023" }
 related: []
 keywords: ["COVID-19 Malaisie", "PKP", "MCO", "PICK", "vaccination", "MySejahtera", "Livre blanc de la santé", "pandémie"]
+framework: history-culture
 ---
 
 Le 18 mars 2020, les rues de toute la Malaisie se sont tues alors que le pays entrait dans une phase sans équivalent dans son histoire moderne : une restriction généralisée des déplacements pour freiner la propagation de la COVID-19. Au cours des deux années qui ont environ suivi, la réponse de santé publique du pays a évolué d'un confinement national vers l'un des programmes de vaccination les plus rapides de la région — et a laissé une empreinte qui façonne encore le système de santé aujourd'hui.

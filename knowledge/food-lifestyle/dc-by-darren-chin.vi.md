@@ -86,6 +86,7 @@ verificationNeeded:
   - "Các tuyển chọn của MICHELIN Guide được rà soát hằng năm; hồ sơ này phản ánh trạng thái hiển thị trong mục niêm yết hiện tại và nên được kiểm tra lại sau mỗi phiên bản mới."
   - "Địa chỉ nhà hàng được đưa tin không nhất quán giữa các nguồn (44 Persiaran Zaaba, TTDI trong mục niêm yết MICHELIN hiện tại; một mục cũ hơn đưa ra địa chỉ Jalan Sultan / KLCC)——hãy xác nhận vị trí hiện tại."
   - "Mục niêm yết MICHELIN nhắc đến 'the eponymous chef' thay vì nêu tên ông; đầu bếp kiêm chủ nhà hàng Darren Chin được ghi lại trong đưa tin thứ cấp (được đào tạo tại Le Cordon Bleu Paris)——hãy xác nhận mọi chi tiết tiểu sử sâu hơn với các nguồn gốc."
+framework: profile
 ---
 
 DC. by Darren Chin là một nhà hàng fine dining Pháp đương đại ở Taman Tun Dr

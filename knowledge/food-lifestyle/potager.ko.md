@@ -86,6 +86,7 @@ verificationNeeded:
   - "구별: 어떤 프로필 요약은 Potager를 「원스타 MICHELIN」 레스토랑으로 표기했지만, 공식 MICHELIN Guide Kuala Lumpur & Penang 2026 전체 목록은 원스타 레스토랑이 아닌 「Selected」 범주에 위치시킵니다. 본 문서는 공식 목록을 따릅니다. 레스토랑 자체의 목록 아이콘이 스타로 오인될 수 있으므로, 현재 등급을 공식 페이지에서 재확인하십시오."
   - "셰프 귀속: 「Chef Masashi」는 MICHELIN 목록의 사진 캡션에 등장하고 성 Horiuchi는 2차 보도(Options/The Edge)로 확인되지만, MICHELIN 목록의 본문에는 인쇄되어 있지 않습니다 — 레스토랑 자체 사이트로 확인하십시오."
   - "실시간 MICHELIN 목록에 표시되는 판 연도 라벨은 MICHELIN 시상식 보도에 사용된 '2026'과 다를 수 있습니다. 선정은 매년 개정됩니다. 운영 시간과 가격도 변합니다 — 레스토랑에 확인하십시오."
+framework: profile
 ---
 
 Potager는 쿠알라룸푸르 세감붓(Segambut) 지역의 DUKE 고속도로 인근, 조경이 된

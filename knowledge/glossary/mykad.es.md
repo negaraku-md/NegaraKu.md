@@ -56,6 +56,7 @@ relations:
   - { rel: "administered-by", to: "jpn" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["MyKad", "tarjeta de identidad de Malasia", "IC Malasia", "JPN MyKad", "MyKad 12 años"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Kad Pengenalan Pintar · **English:** Malaysian Identity Card · **中文:** 大马卡

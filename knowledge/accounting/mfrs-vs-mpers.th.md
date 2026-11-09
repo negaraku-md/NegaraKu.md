@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malaysia", "private entity definition MASB", "which accounting framework Malaysia", "MPERS eligibility", "MASB reporting framework"]
+framework: decision
 ---
 
 แนวทางของมาเลเซียส่วนใหญ่ตอบคำถามนี้ด้วยวลี กิจการที่มีส่วนได้เสียสาธารณะ วลีนั้นไม่ได้ทำ

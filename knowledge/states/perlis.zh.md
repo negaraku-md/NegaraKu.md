@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["Perlis", "Raja Perlis", "Kangar", "negeri terkecil Malaysia", "Wangsa Jamalullail", "sempadan Malaysia Thailand", "Padang Besar", "Chuping Valley"]
+framework: profile
 ---
 
 有一个问题，几乎每个马来西亚人都曾答错过：谁是玻璃市苏丹？

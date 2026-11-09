@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 DOSM tidak menerbitkan satu angka yang dipanggil "Warganegara Malaysia." Ia menerbitkan warganegara dan bukan warganegara sebagai dua kiraan berasingan, memecahkan warganegara kepada lima kategori etnik yang dinamakan, dan kemudian memecahkan salah satu daripada kategori tersebut — "Bumiputera Lain" — kepada kumpulan Sabah dan Sarawak yang dilaporkan secara berasingan, masing-masing dengan sub-kumpulannya sendiri yang dinamakan. Perkataan "Bumiputera" itu sendiri tidak pernah muncul sebagai satu baris tunggal dalam jadual data asas DOSM; ia adalah sesuatu yang anda jumlahkan daripada dua baris, Melayu dan Bumiputera Lain, selepas fakta.

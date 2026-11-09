@@ -68,6 +68,7 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separation-1965"]
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["اليوم الوطني", "يوم الاستقلال", "يوم ماليزيا", "Hari Kebangsaan", "Hari Malaysia", "31 أغسطس 1957", "16 سبتمبر 1963"]
+framework: explainer
 ---
 
 يحتوي التقويم الماليزي في كل عام على تاريخين يسهل الخلط بينهما: 31 أغسطس و16 سبتمبر. ويُحتفى بكليهما بالأعلام والمسيرات والأناشيد الوطنية. ومع ذلك فإنهما يحييان ذكرى حدثين مختلفين تفصل بينهما ست سنوات، ويصفان دولتين مختلفتي الشكل.

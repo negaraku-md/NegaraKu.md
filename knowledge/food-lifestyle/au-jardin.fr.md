@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "L'étiquette de l'année d'édition affichée sur la fiche MICHELIN en ligne du restaurant peut différer du '2026' utilisé dans la couverture de la cérémonie MICHELIN ; l'étoile a été attribuée pour la première fois lors de la sélection inaugurale de 2022 et conservée depuis. Les sélections sont révisées chaque année — confirmez la distinction actuelle sur la page officielle."
   - "Le chef-propriétaire Kim Hock Su s'écrit aussi 'Su Kim Hock' ; la fiche MICHELIN donne peu de détails biographiques. Les horaires varient selon les versions de la fiche et le menu change chaque mois — confirmez les horaires, les prix et le format du menu dégustation actuels auprès du restaurant."
+framework: profile
 ---
 
 Au Jardin est un restaurant une étoile MICHELIN à George Town, Penang, qui sert

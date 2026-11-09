@@ -86,6 +86,7 @@ keywords:
   - "MSIC 2008"
   - "nature of business SSM"
   - "how to choose MSIC code"
+framework: data-reference
 ---
 
 你大概会花九十秒挑选自己的 MSIC 代码，而在接下来十年里与你打交道的每一个机构，

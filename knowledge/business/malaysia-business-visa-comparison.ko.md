@@ -103,6 +103,7 @@ keywords:
   - "employment pass vs MM2H"
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
+framework: decision
 ---
 
 이 모든 프로그램 뒤에 있는 질문은 동일합니다: **나는 이 패스로 실제로 근로하거나 내 회사를 운영할 수 있는가?**

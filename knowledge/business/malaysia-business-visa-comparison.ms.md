@@ -104,6 +104,7 @@ keywords:
   - "employment pass berbanding MM2H"
   - "MM2H platinum kerja"
   - "visa perniagaan Malaysia"
+framework: decision
 ---
 
 Persoalan di sebalik setiap satu program ini adalah sama: **bolehkah saya benar-benar

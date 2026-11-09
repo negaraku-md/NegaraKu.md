@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["audit opinion types Malaysia", "qualified opinion Malaysia", "adverse opinion", "disclaimer of opinion", "ISA 705 pervasive", "modified audit opinion Sdn Bhd"]
+framework: explainer
 ---
 
 모든 경쟁 페이지는 네 가지 의견을 열거하고 각각을 한 문장으로 정의합니다. 그중

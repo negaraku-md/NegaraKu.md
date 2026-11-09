@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
+framework: profile
 ---
 
 மலேசியாவின் பொருளாதாரம் அமைதியாகச் சார்ந்திருக்கும் மாநிலம் செலாங்கூர். இது கூட்டாட்சி

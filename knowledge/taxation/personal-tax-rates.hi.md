@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["व्यक्तिगत आयकर दर मलेशिया", "personal income tax rate Malaysia", "kadar cukai individu", "कर शृंखला मलेशिया", "LHDN कर दर तालिका", "अनिवासी कर दर मलेशिया 30", "व्यक्तिगत कर दर YA2025"]
+framework: data-reference
 ---
 
 दरें **कर-योग्य आय** पर लागू होती हैं — सकल आय में से स्वीकार्य व्यय घटाकर, और आप

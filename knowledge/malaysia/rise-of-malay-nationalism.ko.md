@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 큰 민족 정당이 있기 전에, 말레이 운동은 학교 강당에서, 신문 지면에서, 그리고 작은 주(州) 협회의 회의실에서 시작되었습니다. 1930년대부터 제2차 세계대전이 끝날 무렵 사이에, 바로 이 흐름들이 서서히 정치적 힘으로 자라나, 1946년에는 하나의 영국 정책에 맞서 말레이인을 하나로 묶을 수 있게 되었습니다.

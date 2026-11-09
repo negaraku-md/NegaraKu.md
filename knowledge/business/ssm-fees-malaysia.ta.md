@@ -83,6 +83,7 @@ keywords:
   - "SSM annual return fee"
   - "LLP registration fee"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 மூன்று தனித்தனி கட்டண அட்டவணைகள், மூன்று தனித்தனி சட்டங்கள், மேலும் மலேசியா நிறுவனங்கள் ஆணையம் (Companies Commission of Malaysia, SSM) இணையதளத்தில் அவற்றை அருகருகே வைக்கும் ஒரே பக்கம் எதுவும் இல்லை. நிறுவனக் கட்டணங்கள் Companies Regulations 2017-இலிருந்து வருகின்றன; LLP கட்டணங்கள் LLP Regulations 2012-இலிருந்து; வணிகப் பதிவுக் கட்டணங்கள் Registration of Businesses Act 1956-இன் கீழ் SSM-இன் சொந்த வழிகாட்டுதல்களிலிருந்து.

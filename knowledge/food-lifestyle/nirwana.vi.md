@@ -87,6 +87,7 @@ verificationNeeded:
   - "Năm của ấn bản MICHELIN Guide: hồ sơ này không gắn Bib Gourmand với một ấn bản duy nhất vì việc tuyển chọn được đánh giá lại hằng năm. Ấn bản mới nhất được công bố tại thời điểm viết là MICHELIN Guide Kuala Lumpur & Penang 2026 — KHÔNG nêu ấn bản 2027 cho đến khi MICHELIN công bố. Hãy xác nhận Nirwana vẫn nắm giữ Bib Gourmand trong ấn bản hiện hành tại guide.michelin.com."
   - "Mối liên hệ giữa mục MICHELIN 'Nirwana' và thương hiệu/trang web 'Sri Nirwana Maju' (srinirwanamaju.com) — MICHELIN đặt tên mục là 'Nirwana' tại 43 Jalan Telawi 3 nhưng lại liên kết đến trang Sri Nirwana Maju. Hãy xác nhận cả hai là cùng một cơ sở và tên thương mại hiện tại."
   - "Giờ mở cửa (MICHELIN ghi 11:30–23:00 hằng ngày) — hãy xác minh với nhà hàng trước khi công bố hướng dẫn du lịch."
+framework: profile
 ---
 
 Gọi phần set trưa ở **Nirwana** và nó được dọn ra đúng như cơm lá chuối phải

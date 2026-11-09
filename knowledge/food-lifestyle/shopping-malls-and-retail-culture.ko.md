@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 클랑밸리의 토요일 오후, 한 대형 몰은 어떤 작은 도시보다 더 많은 사람을 담을 수 있으며 — 그중 많은 이는 쇼핑만 하러 온 것이 아닙니다. 말레이시아의 몰은 냉방된 도심 광장 역할도 겸합니다: 먹고, 영화를 보고, 아이스 스케이트를 타고, 수라우에서 기도하고, 아이들이 실내 테마파크를 뛰어다니는 곳입니다. 이곳의 소매를 이해한다는 것은 거대한 몰에서 노천 야시장에 이르는 그 폭을 이해한다는 뜻입니다.

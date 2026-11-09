@@ -86,6 +86,7 @@ verificationNeeded:
   - "تُراجَع اختيارات MICHELIN Guide سنويًّا؛ يعكس هذا الملف الحالة المعروضة في الإدراج الحالي وينبغي إعادة التحقّق منه بعد كل طبعة جديدة."
   - "‏يُذكر عنوان المطعم على نحو غير متّسق بين المصادر (44 Persiaran Zaaba, TTDI في إدراج MICHELIN الحالي؛ وأعطى إدراج أقدم عنوانًا في Jalan Sultan / KLCC)——تحقّق من الموقع الحالي."
   - "‏يشير إدراج MICHELIN إلى 'the eponymous chef' بدلًا من تسميته؛ والشيف المالك Darren Chin موثّق في التغطية الثانوية (تدرّب في Le Cordon Bleu باريس)——تحقّق من أي تفاصيل سِيَريّة إضافية مقابل المصادر الأولية."
+framework: profile
 ---
 
 ‏DC. by Darren Chin مطعم fine dining فرنسي معاصر في Taman Tun Dr Ismail (TTDI)، في

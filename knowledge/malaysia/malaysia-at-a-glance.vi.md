@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
+framework: data-reference
 ---
 
 Hỏi "Malaysia lớn cỡ nào" hay "dân số Malaysia là bao nhiêu" và bạn sẽ nhận được một câu trả lời khác nhau tùy theo trang web bạn truy cập — một số trích dẫn con số điều tra dân số năm 2020, một số trích dẫn một ước tính của World Bank chậm hai lần cập nhật. Trang này tồn tại để khắc phục điều đó: mỗi con số bên dưới đến từ một bản công bố chính thức được nêu tên, có ngày, để bạn có thể thấy chính xác nó hiện hành đến đâu và tự kiểm tra nó.

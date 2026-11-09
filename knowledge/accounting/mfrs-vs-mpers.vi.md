@@ -84,6 +84,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malaysia", "private entity definition MASB", "which accounting framework Malaysia", "MPERS eligibility", "MASB reporting framework"]
+framework: decision
 ---
 
 Hầu hết các hướng dẫn Malaysia trả lời câu hỏi này bằng cụm từ «thực thể vì lợi ích

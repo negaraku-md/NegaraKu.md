@@ -56,6 +56,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 数十年にわたり、あらゆる参考書が同じ数字を挙げていた——マレーシア最高峰であるキナバル山は、海抜4,101メートルである、と。ところが1997年、ある測量チームが、頂上にセオドライト（経緯儀）ではなく衛星を向けたことで、その数字が変わった。四捨五入の誤差ではない——六メートルもの違いである。山が縮んだわけではない。古い測定値が単に間違っていただけであり、GPSがその修正を可能にするまで、誰もそれを証明する手立てを持たなかったのである。

@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["secretary-resignation", "secretary-vacancy-30-days", "appoint-company-secretary", "statutory-registers"]
 keywords: ["changer de secrétaire d'entreprise Malaisie", "change company secretary Malaysia", "liste de vérification passation secrétaire d'entreprise", "section 58 Companies Act 2016", "transférer secrétaire d'entreprise Sdn Bhd", "section 47 documents domicile social", "changer de firme de secrétariat Malaisie"]
+framework: how-to
 ---
 
 Changer de firme de secrétariat ressemble à une simple formalité administrative et se comporte comme une petite migration. Le dépôt auprès de la SSM est la partie facile. Ce qui décide si la nouvelle firme peut réellement agir, c'est de savoir si l'ancienne transmet un jeu complet de dossiers — et aucun guide malaisien ne documente ce que contient ce jeu, parce que les firmes qui rédigent ces guides sont précisément celles à qui l'on demande de le remettre.

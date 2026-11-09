@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 빠듯한 수당으로 아시아의 어디에 직원을 배치할지 이주 컨설턴트에게 물으면, 쿠알라룸푸르가 계속 언급됩니다 — 조사가 이 도시를 치켜세워서가 아니라, 수치가 정말로 이 도시를 비용 표의 하단 가까이에 두기 때문입니다. 말레이시아를 떠받치는 이 도시는 저렴하면서 *동시에* 살기 좋은 점수를 받는 몇 안 되는 곳 중 하나입니다.

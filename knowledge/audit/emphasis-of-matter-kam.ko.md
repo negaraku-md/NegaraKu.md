@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph", "is emphasis of matter a qualification"]
+framework: explainer
 ---
 
 대주가 전화하여 회계가 한정되었다고 말합니다. 그렇지 않습니다. 보고서에는 추가

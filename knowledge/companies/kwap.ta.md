@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 ஒரு கூட்டரசு அரசு ஊழியர் ஓய்வு பெறும் ஒவ்வொரு முறையும், அவரது ஓய்வூதியப் பணம் எங்காவது ஒரு இடத்திலிருந்து வர வேண்டும். அந்த இடம்தான் KWAP — 2024 இறுதியில், அதன் முதலீட்டுப் பையின் மதிப்பு RM185.6 பில்லியன்.

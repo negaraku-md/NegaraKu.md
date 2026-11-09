@@ -111,6 +111,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["kos perniagaan malaysia mengikut negeri", "tarif elektrik perindustrian malaysia", "tarif elektrik sarawak", "tarif air malaysia bukan domestik", "yuran lesen pihak berkuasa tempatan malaysia", "kos majikan epf socso malaysia", "sewa perindustrian malaysia"]
+framework: data-reference
 ---
 
 Sebagian besar perbandingan lokasi untuk Malaysia dibangun atas angka yang tidak pernah diterbitkan oleh siapa pun. Sewa industri per kaki persegi menurut negara bagian, tagihan utilitas "tipikal", perbedaan gaji antara Pulau Pinang dan Kelantan — semuanya beredar, tetapi hampir tidak ada satu pun yang dapat dilacak ke sumber pemerintah.

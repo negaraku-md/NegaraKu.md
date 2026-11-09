@@ -86,6 +86,7 @@ verificationNeeded:
   - "MICHELIN Guide의 셀렉션은 매년 개정됩니다. 이 프로필은 현재 등재에 표시된 상태를 반영하며, 새 판이 나올 때마다 재확인해야 합니다."
   - "레스토랑의 주소는 출처마다 일관되지 않습니다(현재 MICHELIN 등재는 44 Persiaran Zaaba, TTDI, 더 오래된 등재는 Jalan Sultan / KLCC 주소)——현재 위치를 확인하십시오."
   - "MICHELIN 등재는 그를 지명하지 않고 「the eponymous chef」(레스토랑과 같은 이름의 셰프)로 칭합니다. 셰프 겸 오너 Darren Chin은 2차 보도에 기록되어 있습니다(파리 Le Cordon Bleu에서 수련)——추가 전기 세부 사항은 1차 출처와 대조해 확인하십시오."
+framework: profile
 ---
 
 DC. by Darren Chin은 쿠알라룸푸르 서편 Taman Tun Dr Ismail(TTDI)에 있는 프렌치

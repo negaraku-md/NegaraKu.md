@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["मलेशियाई दूतावास", "मलेशिया उच्चायोग", "मलेशियाई वाणिज्य दूतावास", "विस्मा पुत्रा मिशन", "कांसुलर सेवाएँ मलेशिया", "आपातकालीन प्रमाणपत्र SPC", "मलेशिया में विदेशी दूतावास", "राजनयिक और कांसुलर सूची", "Malaysian embassies", "Malaysia high commissions", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 लीमा में अपना पासपोर्ट खो दें, दोहा में गिरफ़्तार हो जाएँ, या सियोल में किसी दस्तावेज़ को नोटरीकृत कराने की ज़रूरत पड़े, और जो कार्यालय वास्तव में आपकी मदद कर सकता है वह 85 देशों में फैले 111 मलेशियाई मिशनों के एक नेटवर्क में एक नोड है—जिनमें से हर एक पुत्रजया में विस्मा पुत्रा से संचालित होता है।

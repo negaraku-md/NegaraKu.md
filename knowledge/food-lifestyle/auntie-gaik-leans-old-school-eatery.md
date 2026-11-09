@@ -93,6 +93,7 @@ verificationNeeded:
   - "The edition-year label on the restaurant's live MICHELIN listing may differ from the '2026' used in MICHELIN's ceremony coverage; the star was first awarded in the inaugural 2022 selection and retained since. Selections are revised annually — confirm the current distinction on the official page."
   - "Chef Beh Gaik Lean's exact age at the time of the award is reported variously (sources cite 69 and 70, with a birth year of 1952 or 1953); the 'first Malaysian woman to receive a MICHELIN star' claim comes from secondary reporting — confirm against a primary source before stating definitively."
   - "The MICHELIN listing describes gulai tumis using 'fresh saffron' among its spices; this may be a rendering of fresh turmeric (kunyit) rather than true saffron — confirm with the restaurant. Opening hours and price level should also be confirmed directly."
+framework: profile
 ---
 
 Auntie Gaik Lean's Old School Eatery is a one-MICHELIN-star restaurant in George

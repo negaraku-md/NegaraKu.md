@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
+framework: history-culture
 ---
 
 1957年8月31日の真夜中を数分過ぎたころ、クアラルンプールの旧セランゴール・クラブ（Selangor Club）前の広場（パダン、padang）で、ユニオンジャック（Union Jack、英国旗）が降ろされ、新生マラヤ連邦の国旗が掲げられた。これは、大半の人がムルデカに対して抱く光景である——しかし独立の実際の作業は、その数か月前に、ロンドンとクアラルンプールの委員会室において、前年にはまだ存在していなかった憲法の条文をめぐって交渉を重ねた人々によって、すでに終えられていた。

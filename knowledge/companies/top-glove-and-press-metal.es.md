@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "guantes de goma", "rubber gloves", "fundición de aluminio", "aluminium smelter", "manufactura de Malasia", "trabajo forzoso", "forced labour", "Bursa Malaysia", "exportaciones", "Sarawak", "ESG"]
+framework: profile
 ---
 
 Dos empresas malasias lideran sus campos a nivel mundial. Una es el mayor fabricante de guantes desechables del mundo; la otra es la mayor fundición de aluminio primario del Sudeste Asiático. Ninguna es un nombre conocido fuera de los círculos de inversión, y sin embargo Top Glove y Press Metal muestran cómo una economía de tamaño medio puede producir líderes globales de un solo sector.

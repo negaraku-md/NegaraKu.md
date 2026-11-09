@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 Every time a Federal civil servant retires, their pension money has to come from somewhere. That somewhere is KWAP — and at the end of 2024, its investment pocket was worth RM185.6 billion.

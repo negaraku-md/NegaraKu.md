@@ -97,6 +97,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "foreign owned Sdn Bhd capital requirement"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 வெளிநாட்டு உரிமையிலான ஒரு நிறுவனத்திற்கான குறைந்தபட்ச செலுத்தப்பட்ட மூலதனம் என்ன என்று பத்து

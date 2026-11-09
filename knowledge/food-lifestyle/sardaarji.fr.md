@@ -90,6 +90,7 @@ social:
 verificationNeeded:
   - "La sélection du Guide MICHELIN Malaysia (Kuala Lumpur & Penang) est révisée chaque année. Ce profil reflète l'édition 2026 ; vérifiez que le Bib Gourmand figure toujours dans la dernière édition (une sélection 2027 se dessine), car les distinctions peuvent être ajoutées ou retirées chaque année."
   - "L'année de fondation (2018) et le parcours du fondateur (un ancien employé retraité du conseil municipal de Penang, Ranjit Singh) proviennent du reportage de MICHELIN ; confirmez directement auprès du restaurant si le détail exact importe."
+framework: profile
 ---
 
 La cuisine familiale pendjabie n'est pas la première chose que la plupart des

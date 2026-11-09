@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cyberjaya-tech-hub" }
 related: ["mdec-digital-status", "digital-free-trade-zone", "cyberjaya-tech-hub"]
 keywords: ["ekonomi digital malaysia", "sumbangan ict kepada kdnk malaysia", "akaun satelit ict dosm", "gva e-dagang malaysia", "pendapatan e-dagang malaysia", "penembusan internet malaysia", "gvaict"]
+framework: data-reference
 ---
 
 Mỗi lần ai đó nói "kinh tế số của Malaysia trị giá RM451 tỷ", con số đó đúng — nhưng nó gần như không bao giờ đi kèm với điều nó thực sự đo lường. Nó không phải doanh số bán hàng trực tuyến, không phải doanh thu của các công ty công nghệ, và không phải giá trị giao dịch thương mại điện tử. Nó là một thước đo giá trị gia tăng, và ba chỉ số khác nhau thường bị trộn lẫn thành một.

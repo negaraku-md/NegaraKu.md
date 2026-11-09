@@ -66,6 +66,7 @@ relations:
   - { rel: "explained-in", to: "mpers-2025-revision" }
 related: ["mfrs-vs-mpers"]
 keywords: ["MFRS list Malaysia", "MFRS effective dates", "MPERS sections list", "MASB standards index", "Malaysian accounting standards"]
+framework: data-reference
 ---
 
 MASB は自らの基準を、同意確認画面の先にある一連の個別 PDF ページとして公表しており、

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "health-white-paper-2023" }
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
+framework: history-culture
 ---
 
 2020年3月18日、マレーシア全土の道路は人影がなくなった。国家が近代史上かつてない局面——COVID-19（新型コロナウイルス感染症）の感染拡大を封じ込めるための全面的な移動制限——に入ったからである。その後およそ2年間で、国の公衆衛生対応は全面的なロックダウンから、地域でも屈指の速さを誇るワクチン接種プログラムへと発展し、今日に至るまで保健医療制度を形づくり続ける影響を残した。

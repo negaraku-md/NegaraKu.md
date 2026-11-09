@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 2026年5月、マレーシアは天然ゴム20,198トンを生産し——そのうち28,741トンを

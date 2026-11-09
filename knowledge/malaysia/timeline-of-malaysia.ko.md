@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["sejarah Malaysia", "garis masa Malaysia", "Merdeka 1957", "pembentukan Malaysia 1963", "perdana menteri Malaysia"]
+framework: history-culture
 ---
 
 "말레이시아(Malaysia)"라는 이름이 존재하기 훨씬 전, 이 해안과 군도는 세계에서 가장

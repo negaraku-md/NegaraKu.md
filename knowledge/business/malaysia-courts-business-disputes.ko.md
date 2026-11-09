@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["Sessions Court jurisdiction Malaysia", "Magistrates Court limit Malaysia", "High Court civil jurisdiction Malaysia", "which court to sue Malaysia", "limitation period contract Malaysia", "appeal from Sessions Court Malaysia"]
+framework: decision
 ---
 
 관할 결정은 아무도 본안(merits)을 들여다보기 전에 내려집니다. RM1.2백만 청구를 세션법원에 제기하면 관할 밖입니다. RM180,000 청구를 고등법원에 제기하면 허가(leave)가 필요한 항소를 자초한 셈입니다. 둘 다 두 개의 법령을 읽으면 피할 수 있습니다.

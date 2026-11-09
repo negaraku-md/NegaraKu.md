@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 Sekali setahun, sembilan penguasa beraja dan empat Yang di-Pertua Negeri berkumpul di sebuah ruang pertemuan di Kuala Lumpur untuk membuat keputusan yang tidak dapat dibuat oleh Parlimen — antaranya memilih siapa yang akan menjadi Raja Persekutuan. Perhimpunan itu adalah Majlis Raja-Raja, dan penguasa beraja yang menjadi anggotanya dikenal sebagai Raja-Raja Melayu.

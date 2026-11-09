@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
+framework: data-reference
 ---
 
 Ask three credible sources how much of Malaysia is still forest and you can get three answers that are ten percentage points apart — all defensible, all measuring something slightly different. That gap is not a rounding error; it is the whole argument about Malaysian deforestation in miniature.

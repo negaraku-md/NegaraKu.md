@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopole d'importation de riz", "prix minimum du padi", "prix plancher du padi", "Loi sur le contrôle du riz et du padi 1994", "Syed Mokhtar Al-Bukhary", "sécurité alimentaire"]
+framework: profile
 ---
 
 Chaque kilogramme de riz importé qui entre en Malaisie passe par une seule

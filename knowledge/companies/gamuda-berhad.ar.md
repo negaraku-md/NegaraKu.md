@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "دفتر طلبات Gamuda", "Gamuda order book", "حفر أنفاق المترو", "MRT tunnelling", "Gamuda Land", "البناء في ماليزيا", "Malaysia construction", "Sydney Metro Gamuda", "مترو تايوان Gamuda"]
+framework: profile
 ---
 
 بدأت Gamuda بطريق سريع ماليزي ونمت لتصبح من أكبر مقاولي حفر الأنفاق والسكك الحديدية في المنطقة. واليوم، تقع حصة متنامية من أعمالها خارج ماليزيا.

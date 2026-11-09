@@ -118,6 +118,7 @@ keywords:
   - "Free Zones Act 1990"
   - "Penang FIZ customs"
   - "zon perindustrian bebas"
+framework: profile
 ---
 
 公開されているバヤンレパス自由工業地域についての記述のほぼすべては、今や時代遅れになっている。誰も気づかなかった2024年12月の三つの官報通知が、その原因である。

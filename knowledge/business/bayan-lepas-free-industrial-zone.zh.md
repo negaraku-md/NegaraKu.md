@@ -119,6 +119,7 @@ keywords:
   - "Free Zones Act 1990"
   - "Penang FIZ customs"
   - "zon perindustrian bebas"
+framework: profile
 ---
 
 几乎所有公开的峇六拜自由工业区描述如今都已过时，

@@ -169,6 +169,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["موعد ضريبة الشركات ماليزيا", "موعد نموذج C", "تاريخ استحقاق CP204", "موعد نموذج E", "برنامج تقديم LHDN 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 كل موعد ضريبي ماليزي تقريبًا **قاعدة**، لا تاريخ. فالتاريخ يتغيّر بتغيّر فترتك

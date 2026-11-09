@@ -78,6 +78,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 没有几道菜能像 laksa 那样道出槟城的味道，而在 Jalan Hutton，一间小店把它对这一碗

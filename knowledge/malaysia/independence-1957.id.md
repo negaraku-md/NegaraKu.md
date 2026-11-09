@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Kemerdekaan Tanah Melayu", "Tunku Abdul Rahman", "Suruhanjaya Reid", "Stadium Merdeka"]
+framework: history-culture
 ---
 
 Beberapa menit setelah tengah malam pada 31 Agustus 1957, di lapangan di depan bangunan lama Kelab Selangor di Kuala Lumpur, bendera Union Jack diturunkan dan bendera Persekutuan Tanah Melayu yang baru dinaikkan. Itulah gambaran yang dibawa kebanyakan orang tentang Merdeka — tetapi kerja sebenarnya kemerdekaan telah selesai berbulan-bulan sebelumnya, di dalam ruang-ruang komite di London dan Kuala Lumpur, oleh orang-orang yang merundingkan pasal-pasal sebuah konstitusi yang tidak ada pada tahun sebelumnya.

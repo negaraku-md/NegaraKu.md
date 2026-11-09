@@ -92,6 +92,7 @@ verificationNeeded:
   - "The MICHELIN distinction here is described as Bib Gourmand, but the official listing page renders the award as an icon rather than text that could be captured directly; MICHELIN distinctions are revised annually, so confirm the current Bib Gourmand status against guide.michelin.com before quoting."
   - "The edition year: Malaysian press refers to a MICHELIN Guide Kuala Lumpur & Penang 2027 edition (reportedly announced 4 November 2026), while the latest independently confirmable official edition is 2026 — confirm which edition lists this stall against the official selection page."
   - "Operating hours (listed 09:30–17:00 daily) and the 'about 40 years' trading claim come from the MICHELIN listing and can change — verify locally before travelling."
+framework: profile
 ---
 
 Tucked into the coffee-shop bustle of [Joo Hooi Cafe](/food-lifestyle/penang-food)

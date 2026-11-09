@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysia-e-wallets" }
 related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "मलेशिया भुगतान", "नकदी-रहित", "cashless"]
+framework: profile
 ---
 
 कुआलालंपुर में किसी नासी लेमक स्टॉल पर एक QR कोड स्कैन करें, किसी दोस्त को उसका फ़ोन नंबर डालकर भुगतान करें, ऑनलाइन बैंकिंग के ज़रिए कोई बिल चुकाएँ — ये तीनों यात्राएँ चुपचाप एक ही कंपनी से होकर गुज़रती हैं। इसका नाम PayNet है, और अधिकांश मलेशियाई लोगों ने कभी इसका नाम नहीं सुना।

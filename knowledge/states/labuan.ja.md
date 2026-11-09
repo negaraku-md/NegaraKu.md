@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
+framework: profile
 ---
 
 二つの会社、同じ株主、同じ顧客。一方はクアラルンプールで設立され、1967年所得税法

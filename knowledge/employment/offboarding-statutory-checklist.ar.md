@@ -159,6 +159,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["قائمة تحقق إنهاء خدمة الموظف ماليزيا", "موعد CP22A النهائي", "نموذج CP21 ماليزيا", "خطاب المخالصة الضريبية SPC", "الأجر النهائي ماليزيا", "قائمة تحقق خروج الموظف ماليزيا", "حجز 90 يومًا للمخالصة الضريبية", "offboarding checklist malaysia", "CP22A deadline", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 مقابلة الخروج هي الجزء الذي يتذكّره الجميع. أما الإقرارات فهي الجزء الذي يولّد الغرامات — وأحدها، وهو واجب الحجز لحين المخالصة الضريبية، هو السبب الذي قد يجعل موظف رواتب أفرج عن الراتب النهائي في موعده وبحسن نية ينتهي به الأمر إلى تفسير ذلك لـLHDN.

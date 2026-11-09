@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
+framework: history-culture
 ---
 
 At a few minutes past midnight on 31 August 1957, on the padang in front of the old Selangor Club in Kuala Lumpur, the Union Jack came down and the new Federation of Malaya's flag went up. It is the image most people carry of Merdeka — but the actual work of independence had been finished months earlier, in committee rooms in London and Kuala Lumpur, by people negotiating over clauses of a constitution that hadn't existed the year before.

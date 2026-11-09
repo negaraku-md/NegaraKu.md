@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["पुत्राजया", "Putrajaya", "संघीय क्षेत्र पुत्राजया", "Wilayah Persekutuan Putrajaya", "संघीय सरकार प्रशासनिक केंद्र", "पर्बादानन पुत्राजया", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
+framework: profile
 ---
 
 1999 में, प्रधानमंत्री कार्यालय कुआलालंपुर से बाहर स्थानांतरित हुआ। राजधानी नहीं

@@ -73,6 +73,7 @@ keywords:
   - "sector licence Malaysia"
   - "BNM SC MCMC licence"
   - "Malaysian licensing authorities"
+framework: data-reference
 ---
 
 There is no master list of Malaysian business licences. MalaysiaBiz carries information

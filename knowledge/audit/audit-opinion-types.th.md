@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["audit opinion types Malaysia", "qualified opinion Malaysia", "adverse opinion", "disclaimer of opinion", "ISA 705 pervasive", "modified audit opinion Sdn Bhd"]
+framework: explainer
 ---
 
 หน้าเว็บคู่แข่งทุกหน้าระบุความเห็นสี่ประเภทและนิยามแต่ละประเภทในประโยคเดียว ไม่มีหน้าใดบอกคุณว่าคุณจะได้รับประเภทใด เพราะนั่นไม่ใช่คำถามเกี่ยวกับความรุนแรง แต่เป็นการตัดสินใจสองตัวแปร และ ISA 705 (ฉบับปรับปรุง) วางไว้เป็นตาราง

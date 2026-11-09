@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conferencia de gobernantes", "artículo 38", "yang di-pertua negeri", "monarquía malasia"]
+framework: explainer
 ---
 
 Una vez al año, nueve monarcas estatales y cuatro Gobernadores se reúnen en una sala de Kuala Lumpur para tomar decisiones que el Parlamento no puede tomar — entre ellas, elegir quién será el Rey Federal. Esa asamblea es la Conferencia de Gobernantes, y los monarcas estatales que la integran se conocen como los Gobernantes malayos.

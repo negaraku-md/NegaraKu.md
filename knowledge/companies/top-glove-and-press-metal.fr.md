@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "gants en caoutchouc", "rubber gloves", "fonderie d'aluminium", "aluminium smelter", "industrie manufacturière de Malaisie", "travail forcé", "forced labour", "Bursa Malaysia", "exportations", "Sarawak", "ESG"]
+framework: profile
 ---
 
 Deux entreprises malaisiennes dominent leurs domaines à l'échelle mondiale. L'une est le plus grand fabricant de gants jetables au monde ; l'autre est la plus grande fonderie d'aluminium primaire d'Asie du Sud-Est. Ni l'une ni l'autre n'est un nom familier en dehors des milieux de l'investissement, et pourtant Top Glove et Press Metal montrent comment une économie de taille moyenne peut produire des leaders mondiaux mono-sectoriels.

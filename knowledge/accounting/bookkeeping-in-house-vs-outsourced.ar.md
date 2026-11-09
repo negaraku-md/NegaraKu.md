@@ -66,6 +66,7 @@ relations:
   - { rel: "affects", to: "mbrs-2-filing-guide" }
 related: ["sdn-bhd-bookkeeping", "accounting-records-section-245", "mbrs-2-filing-guide", "mbrs-tagging-errors", "financial-reporting-deadlines", "epf-socso-guide", "hrd-corp-levy-malaysia", "accounting-software-malaysia"]
 keywords: ["مسك الدفاتر داخلياً مقابل الإسناد الخارجي ماليزيا", "in-house vs outsourced bookkeeping Malaysia", "تكلفة توظيف ماسك دفاتر ماليزيا", "محاسبة بالإسناد الخارجي Sdn Bhd", "تكلفة EPF SOCSO EIS على صاحب العمل", "أتعاب مسك الدفاتر ماليزيا"]
+framework: decision
 ---
 
 ابحث عن هذا السؤال وستجد أن كل نتيجة كتبتها فرم محاسبة. وهذا ليس طعناً في الفرم

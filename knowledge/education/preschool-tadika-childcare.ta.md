@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
+framework: explainer
 ---
 
 பல பெற்றோர்கள் வீட்டருகிலுள்ள "tadika"-வில் தங்கள் குழந்தையைச் சேர்க்கிறார்கள் — படிவத்தை அனுப்புகிறார்கள், கட்டணம் செலுத்துகிறார்கள், முடிந்தது. ஆனால் அரிதாகவே கேட்கப்படும் கேள்வி இதுதான்: அந்த tadika யாருடன் பதிவு செய்யப்பட்டுள்ளது? பதில் அற்பமான விஷயம் அல்ல. குழந்தையின் வயது மற்றும் நிறுவனத்தின் வகையைப் பொறுத்து, அது முற்றிலும் வேறுபட்ட இரு அமைச்சுகளின் கீழ் வரலாம் — சட்டங்கள், விதிமுறைகள் மற்றும் அமலாக்க முறைகள் ஒரே மாதிரி இல்லாமல்.

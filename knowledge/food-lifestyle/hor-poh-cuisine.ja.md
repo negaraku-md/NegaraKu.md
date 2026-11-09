@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN Guide の選定は毎年見直される。これを頼りにする前に、最新の MICHELIN Guide Kuala Lumpur & Penang 版で Hor Poh Cuisine がまだ Bib Gourmand を保持しているか確認すること。"
   - "版年の表記は情報源によって一致していない——現行の選定を 2027 年版とするものもあれば、最新のリストを 2026 年とする資料もある。正しい版年を公式の MICHELIN Guide 授賞式の発表と照合して確認すること。"
   - "MICHELIN はこの店が「20 年以上」営業しているとするが創業年は示していない。正確な開業日は一次資料からは確認できていない。"
+framework: profile
 ---
 
 Hor Poh Cuisine は、クアラルンプールの Segambut 地区にある控えめな客家料理店で、

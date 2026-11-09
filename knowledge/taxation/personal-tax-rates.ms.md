@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["kadar cukai pendapatan individu Malaysia", "kadar cukai individu", "jalur cukai Malaysia", "jadual kadar cukai LHDN", "kadar cukai bukan pemastautin Malaysia 30", "kadar cukai individu YA2025"]
+framework: data-reference
 ---
 
 Kadar terpakai kepada **pendapatan bercukai** — pendapatan kasar tolak

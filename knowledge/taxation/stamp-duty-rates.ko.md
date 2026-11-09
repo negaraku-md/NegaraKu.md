@@ -87,6 +87,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["stamp duty rates Malaysia", "First Schedule Stamp Act 1949", "property transfer stamp duty", "share transfer stamp duty 0.3%", "tenancy agreement stamp duty", "kadar duti setem"]
+framework: data-reference
 ---
 
 인지세는 **거래가 아니라 증서**에 부과됩니다. 동일한 상업 거래도 무엇에 서명했고

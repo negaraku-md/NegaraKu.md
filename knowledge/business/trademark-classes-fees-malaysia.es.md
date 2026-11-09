@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["clases de marcas malasia", "clasificación de niza malasia", "tasas de marcas myipo", "tasa de marca por clase malasia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 El número de clases, no la presentación, es lo que cuesta una marca malasia. Todo lo

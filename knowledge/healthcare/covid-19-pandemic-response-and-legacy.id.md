@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "health-white-paper-2023" }
 related: []
 keywords: ["COVID-19 Malaysia", "PKP", "MCO", "PICK", "vaksinasi", "MySejahtera", "Kertas Putih Kesihatan", "pandemik"]
+framework: history-culture
 ---
 
 Pada 18 Maret 2020, jalan raya di seluruh Malaysia menjadi sepi ketika negara memasuki fasa yang tidak pernah dialami dalam sejarah modern: pembatasan pergerakan menyeluruh untuk membendung penularan COVID-19. Dalam kurun kira-kira dua tahun berikutnya, respons kesehatan publik negara berkembang dari penguncian menyeluruh menjadi salah satu program vaksinasi tercepat di kawasan ini — dan meninggalkan dampak yang masih membentuk sistem kesehatan hingga hari ini.

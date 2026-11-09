@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 Una empresa que empezó su vida vendiendo gases industriales cultiva ahora suficiente palma aceitera para llenar una reserva de tierras del tamaño de un pequeño distrito, y convierte esa fruta en todo, desde aceite de cocina hasta los ácidos grasos del interior de su jabón.

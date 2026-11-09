@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
+framework: data-reference
 ---
 
 말레이시아의 얼마만큼이 여전히 산림인지 신뢰할 만한 출처 세 곳에 물으면, 10퍼센트포인트씩 벌어지는 세 가지 답을 얻을 수 있습니다 — 모두 정당하고, 모두 조금씩 다른 것을 측정하고 있습니다. 그 격차는 반올림 오차가 아니라, 말레이시아 삼림 파괴에 관한 논쟁 전체를 축소해 놓은 것입니다.

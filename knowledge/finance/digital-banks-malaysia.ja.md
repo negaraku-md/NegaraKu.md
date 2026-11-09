@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
+framework: data-reference
 ---
 
 今や、支店に一歩も足を踏み入れることなく、デビットカードを注文することも紙の申込書に記入することもなく、マレーシアの銀行口座を開設できる——そして5社の認可機関が、これをスマートフォンだけで完結させようと競い合っている。

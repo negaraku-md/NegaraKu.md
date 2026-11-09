@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
+framework: data-reference
 ---
 
 Rancang percutian keluarga awal tahun, dan anda cepat sedar satu perkara: jiran di Kelantan buka sekolah sehari lebih awal daripada anak anda di Selangor. Itu bukan kesilapan — itu cara takwim persekolahan Malaysia direka.

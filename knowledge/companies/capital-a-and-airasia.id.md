@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia-pn17" }
 related: []
 keywords: ["Capital A", "AirAsia", "AirAsia X", "AirAsia Group Berhad", "PN17", "Bursa Malaysia", "airline restructuring", "Tony Fernandes"]
+framework: profile
 ---
 
 Selama bertahun-tahun, "AirAsia" dan "Capital A" digunakan hampir secara bergantian. Setelah restrukturisasi selama beberapa tahun, keduanya kini merujuk pada dua perusahaan tercatat yang berbeda.

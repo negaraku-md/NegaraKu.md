@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "各来源对确切的 MICHELIN 版本年份标注并不一致——餐厅官方页面未标年份，媒体报道提到的是「2026」MICHELIN Guide Kuala Lumpur & Penang，而维基百科的 Bib Gourmand 名单如今以「2027」一栏为最新。Bib Gourmand 评选每年修订；请在 guide.michelin.com 确认当前的版本与状态。"
   - "Congkak 的开业年份、经营者以及 nasi ambeng 拼盘以外的完整菜单，MICHELIN 页面并未详述——在陈述之前请直接向餐厅求证。"
+framework: profile
 ---
 
 在武吉免登一条安静的住宅街上，拐过吉隆坡最繁忙购物区的几个弯口，Congkak

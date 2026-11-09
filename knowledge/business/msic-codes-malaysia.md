@@ -84,6 +84,7 @@ keywords:
   - "MSIC 2008"
   - "nature of business SSM"
   - "how to choose MSIC code"
+framework: data-reference
 ---
 
 You will spend about ninety seconds picking your MSIC code, and every institution you

@@ -120,6 +120,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["قائمة تحقق الموظف الجديد ماليزيا", "CP22 ماليزيا", "تسجيل الموظف EPF SOCSO", "امتثال التحاق الموظفين ماليزيا", "موافقة المادة 60K", "new hire checklist malaysia", "cp22 malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 توظيف واحد، وأربع جهات، وستة مؤقتات زمنية. لا يبدأ أيٌّ منها في تاريخ عرض العمل — بل

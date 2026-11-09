@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["معدل ضريبة الاستقطاع في ماليزيا", "withholding tax rate Malaysia", "معدل المادة 109B", "ضريبة الاستقطاع المادة 107A", "CP37D", "جدول ضريبة الاستقطاع الماليزي", "ضريبة الاستقطاع LHDN", "withholding tax Malaysia"]
+framework: data-reference
 ---
 
 المعدل الذي تحتاجه لا يكاد يوجد أبداً في المادة التي تقرؤها. فالمادة 109B توجّهك

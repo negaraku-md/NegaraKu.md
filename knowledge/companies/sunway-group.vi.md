@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 Tập đoàn Sunway biến đất thành cả những khu đô thị hoàn chỉnh — nhà ở, trung tâm mua sắm, bệnh viện, trường đại học và công viên giải trí trên một quy hoạch tổng thể — rồi tiếp tục vận hành những gì mình xây dựng.

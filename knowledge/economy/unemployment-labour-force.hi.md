@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["gdp-overview", "inflation-cpi"]
 keywords: ["Malaysia unemployment rate", "मलेशिया बेरोज़गारी दर", "Malaysia labour force", "मलेशिया श्रम-शक्ति", "Malaysia job market", "मलेशिया नौकरी बाज़ार"]
+framework: data-reference
 ---
 
 ## एक नज़र में

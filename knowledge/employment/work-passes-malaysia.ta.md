@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 மலேசியப் பணி விசா என்று ஒன்று இல்லை. நான்கு வெவ்வேறு அமைப்புகளால் நடத்தப்படும் எட்டு அல்லது ஒன்பது வெவ்வேறு கருவிகள் உள்ளன, உங்களுக்குத் தேவையானது **சம்பளத்தைச் செலுத்துபவர் யார்** என்பதால் தீர்மானிக்கப்படுகிறது — வேலை எப்படி அழைக்கப்படுகிறது என்பதால் அல்ல.

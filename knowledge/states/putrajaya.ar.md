@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["kuala-lumpur", "selangor", "federal-constitution", "parliament"]
 keywords: ["بوتراجايا", "Putrajaya", "الإقليم الاتحادي بوتراجايا", "Wilayah Persekutuan Putrajaya", "مركز الإدارة الحكومية الاتحادية", "مؤسسة بوتراجايا", "Perbadanan Putrajaya", "Akta A1095", "Prang Besar"]
+framework: profile
 ---
 
 في عام 1999، انتقل مكتب رئيس الوزراء خارج كوالالمبور. لم تتغيّر العاصمة — ما

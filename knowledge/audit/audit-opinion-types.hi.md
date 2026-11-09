@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["ऑडिट राय के प्रकार मलेशिया", "अर्हित राय मलेशिया", "प्रतिकूल राय", "राय का अस्वीकरण", "ISA 705 pervasive", "परिवर्तित ऑडिट राय Sdn Bhd", "audit opinion types Malaysia", "qualified opinion"]
+framework: explainer
 ---
 
 हर प्रतिस्पर्धी पृष्ठ चार रायें सूचीबद्ध करता है और प्रत्येक को एक वाक्य में

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 アジアで限られた予算の駐在員をどこに配属すべきか、移転コンサルタントに尋ねれば、クアラルンプールの名前が何度も挙がる——それは調査がこの都市を持ち上げているからではなく、数字が実際にこの都市を生活費表の底辺近くに位置づけているからだ。マレーシアを代表するこの都市は、安さと暮らしやすさを*同時に*兼ね備える数少ない場所の一つである。

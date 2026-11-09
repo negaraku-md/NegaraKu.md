@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 மலேசியா புள்ளிவிவரத் திணைக்களம் (Department of Statistics Malaysia, DOSM) "மலேசியர்கள்" என்று ஒரு எண்ணிக்கையை வெளியிடுவதில்லை. அது குடிமக்களையும் குடிமக்கள் அல்லாதோரையும் இரண்டு தனித்தனி எண்ணிக்கைகளாக வெளியிடுகிறது, குடிமக்களை பெயரிடப்பட்ட ஐந்து இனப் பிரிவுகளாகப் பிரிக்கிறது, பின்னர் அந்தப் பிரிவுகளில் ஒன்றை — "பிற பூமிபுத்ரா" (Other Bumiputera) — தனித்தனியாக அறிக்கை செய்யப்படும் சபா மற்றும் சரவாக் குழுக்களாகப் பிரிக்கிறது, ஒவ்வொன்றிற்கும் அதன் சொந்த பெயரிடப்பட்ட துணைக்குழுக்கள் உள்ளன. "பூமிபுத்ரா" என்ற சொல்லே DOSM இன் அடிப்படைத் தரவு அட்டவணைகளில் ஒற்றை வரிசையாக ஒருபோதும் தோன்றுவதில்லை; அது மலாய் மற்றும் பிற பூமிபுத்ரா என்ற இரண்டு வரிசைகளிலிருந்து பின்னர் நீங்கள் கூட்டி எடுக்கும் ஒன்று.

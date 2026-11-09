@@ -78,6 +78,7 @@ related: ["maybank", "cimb", "public-bank", "rhb-banking-group"]
 keywords: ["Hong Leong Financial Group", "HLFG", "Hong Leong Bank", "HLB", "Quek Leng Chan", "Hong Leong Group", "Malaysia banks", "Bank of Chengdu", "Hong Leong Assurance", "Hong Leong Investment Bank"]
 social:
   hashtags: ["HongLeong", "HLFG", "HongLeongBank", "MalaysiaBanking", "QuekLengChan"]
+framework: profile
 ---
 
 मलेशियाई Hong Leong नाम को किसी बैंक शाखा, मोटरसाइकिल, या शेयर मूल्य से जानते हैं — लेकिन बैंकिंग व्यवसाय एक दो-स्तरीय सूचीबद्ध संरचना के भीतर बैठता है जो अक्सर पाठकों को भ्रमित करती है। शीर्ष पर Hong Leong Financial Group Berhad (HLFG) है, वित्तीय होल्डिंग कंपनी; इसके नीचे Hong Leong Bank Berhad (HLB) है, वह वाणिज्यिक बैंक जिससे अधिकांश ग्राहक वास्तव में लेनदेन करते हैं।

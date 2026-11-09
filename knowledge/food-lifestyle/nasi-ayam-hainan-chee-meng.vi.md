@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn MICHELIN Guide Kuala Lumpur & Penang được rà soát hằng năm; bài viết này phản ánh ấn bản 2026 (công bố tháng 11 năm 2025). Một ấn bản mới hơn — ví dụ danh sách 2027 — có thể thêm, loại bỏ hoặc xếp lại quán này, vì vậy hãy xác nhận lại tình trạng Bib Gourmand hiện tại tại guide.michelin.com trước khi dựa vào."
   - "Cách xử lý đặt chỗ và giờ mở cửa khác nhau giữa các trang theo khu vực của MICHELIN (một số nói quán tự quản lý việc đặt chỗ, số khác nói không đặt được trực tuyến) — hãy xác nhận trực tiếp với quán trước khi ghé thăm."
+framework: profile
 ---
 
 Hainanese chicken rice là một trong những bài kiểm tra lặng lẽ của một gian bếp

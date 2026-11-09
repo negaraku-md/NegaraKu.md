@@ -89,6 +89,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["withholding tax rate Malaysia", "section 109B rate", "section 107A withholding tax", "CP37D", "withholding tax table Malaysia", "LHDN withholding tax"]
+framework: data-reference
 ---
 
 உங்களுக்குத் தேவையான விகிதம் நீங்கள் படிக்கும் section-இல் கிட்டத்தட்ட ஒருபோதும்

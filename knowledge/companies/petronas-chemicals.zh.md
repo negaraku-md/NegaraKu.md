@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 几乎每一袋撒在马来西亚农田上的肥料，以及该国工厂里塑模成型的很大一部分塑料树脂，都可追溯到一家公司：国家石油化学集团有限公司（Petronas Chemicals Group Berhad）。它是国家石油公司的化学品臂膀、马来西亚最大的综合化学品生产商，而且——对一家与国家挂钩的企业来说颇不寻常地——是一家任何人都可以买入股份的独立上市公司。

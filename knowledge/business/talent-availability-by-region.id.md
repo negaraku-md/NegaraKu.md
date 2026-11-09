@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 Ide pertama yang dibawa setiap pendiri ke pemilihan lokasi di Malaysia adalah bahwa pindah keluar dari Lembah Klang mengurangi tagihan gaji. Data mengatakan ia memang begitu — dan undang-undang mengatakan sebagian besar penghematan itu bukan milik Anda untuk diambil, karena tingkat minimum dan setiap iuran di atasnya ditetapkan secara federal.

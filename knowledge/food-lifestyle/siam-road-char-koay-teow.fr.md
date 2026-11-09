@@ -91,6 +91,7 @@ verificationNeeded:
   - "La distinction MICHELIN est décrite ici comme un Bib Gourmand, mais la page officielle de la fiche affiche la récompense sous forme d'icône plutôt que de texte directement récupérable ; les distinctions MICHELIN sont révisées chaque année, alors confirmez le statut Bib Gourmand actuel sur guide.michelin.com avant de le citer."
   - "L'année de l'édition : la presse malaisienne évoque une édition MICHELIN Guide Kuala Lumpur & Penang 2027 (annoncée, selon les rapports, le 4 novembre 2026), tandis que la dernière édition officielle vérifiable de façon indépendante est celle de 2026 — confirmez quelle édition référence ce stand sur la page officielle de sélection."
   - "Les horaires (indiqués du mardi au samedi 12:00–18:00) proviennent de la fiche MICHELIN ; les horaires et jours d'un stand au charbon qui n'ouvre qu'une demi-journée changent souvent, alors confirmez sur place avant de vous déplacer."
+framework: profile
 ---
 
 Parmi les nombreux stands de char koay teow de George Town, celui de Jalan Siam

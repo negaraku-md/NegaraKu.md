@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "conglomerado malasio", "municipio integrado", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 El Grupo Sunway convierte el suelo en municipios (townships) completos —viviendas, centros comerciales, hospitales, universidades y parques temáticos sobre un único plan maestro— y luego sigue operando lo que construye.

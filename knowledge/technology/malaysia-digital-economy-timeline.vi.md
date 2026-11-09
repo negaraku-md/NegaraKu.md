@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 Vào năm 1996, Malaysia phác một dải đất nông nghiệp ở phía nam Kuala Lumpur và tuyên bố nó là hành lang công nghệ tương lai của đất nước. Gần ba thập kỷ sau, gần một ringgit trong mỗi bốn ringgit mà nền kinh tế quốc gia tạo ra chảy qua màn hình, máy chủ và giỏ mua sắm trực tuyến. Hành trình giữa hai điểm đó không phải là một cú nhảy vọt đơn lẻ — nó là một chuỗi chính sách kết nối với nhau, mỗi chính sách sửa chữa hoặc mở rộng chính sách trước đó.

@@ -92,6 +92,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
+framework: history-culture
 ---
 
 マレーシアは1960年7月31日に最初の共産主義者による非常事態の終結を宣言した——だが、その後およそ三十年にわたり、大部分の期間を第二の蜂起への対処に費やすことになった。政府が半島の辺境へと追い詰めたゲリラ軍は、戦闘の終結が宣言されても解散しなかった。それはタイ国境を越えて撤退し、そこで再結集し、八年後に活動を再開した。

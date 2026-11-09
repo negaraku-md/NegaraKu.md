@@ -55,6 +55,7 @@ relations:
   - { rel: "related-to", to: "kampung" }
 related: ["kampung", "open-house", "adat"]
 keywords: ["gotong-royong", "maksud gotong royong", "gotong royong in english", "semangat kejiranan", "kerja bakti", "tolong-menolong", "kerja bersama-sama"]
+framework: explainer
 ---
 
 **الملايوية:** Gotong-royong · **الإنجليزية:** Communal mutual aid · **الصينية:** 互助合作（甘榜守望相助）

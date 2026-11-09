@@ -110,6 +110,7 @@ keywords:
   - "LLP tax Malaysia"
   - "LLP audit requirement Malaysia"
   - "compliance officer LLP"
+framework: decision
 ---
 
 மலேசிய LLP மற்றும் Sdn Bhd பற்றிய எந்த ஒப்பீட்டைத் திறந்தாலும், அது "ஒரு நிறுவனத்தின்

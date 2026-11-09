@@ -83,6 +83,7 @@ verificationNeeded:
   - "MICHELIN Guideの版の年：Bib Gourmandは毎年見直され、本プロフィールはそれを単一の版に固定しない。執筆時点で最新の刊行版はMICHELIN Guide Kuala Lumpur & Penang 2026であり——MICHELINが2027年版を刊行するまで2027年版と記してはならない。guide.michelin.comで、この店が現行版でもBib Gourmandを保持しているか確認すること。"
   - "創業と継承の詳細：MICHELINは手仕事が1933年にさかのぼり、現在の厨房はTeoh Kheng Sim夫人（創業者Moh Teng Pheowの義理の娘）が子どもたちと切り盛りしていると述べる。広く繰り返される「14歳の移民の創業者」という由来話は裏づけがない。家族の歴史を膨らませる前に、一次資料または遺産関連の資料と照合して確認すること。"
   - "営業時間（MICHELINは毎日10:00–17:00と掲載）——確認すること。クエの店は在庫が売り切れると早じまいすることが多い。"
+framework: profile
 ---
 
 Lebuh Chuliaの脇のJalan Masjidをたどると、稼働中のクエの厨房にたどり着く。ガラス屋根の

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["lista de preparación para auditoría Malasia", "lista PBC auditoría", "lista de solicitudes de auditoría Sdn Bhd", "revelación de partes relacionadas MFRS 124", "auditoría cuenta del director Malasia", "conciliación intercompañía auditoría", "audit preparation checklist Malaysia", "MFRS 124 related party disclosure"]
+framework: how-to
 ---
 
 La lista de solicitudes parece un documento administrativo. No lo es. Es el plan de

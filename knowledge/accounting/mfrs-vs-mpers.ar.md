@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malaysia", "تعريف الكيان الخاص MASB", "أي إطار محاسبي في ماليزيا", "أهلية MPERS", "إطار التقارير المالية MASB", "MFRS", "MPERS"]
+framework: decision
 ---
 
 تجيب معظم الأدلة الماليزية عن هذا السؤال بعبارة «كيان المصلحة العامة». وتلك العبارة لا تؤدّي أي دور. فهي ليست الاختبار الذي يطبّقه مجلس معايير المحاسبة الماليزي (MASB)، وليست واردة في التعريف الذي يحسم المسألة، والاعتماد عليها يُنتج الجواب الخاطئ في الحالة الأكثر شيوعًا في الممارسة العملية — شركة تابعة ماليزية لمجموعة مُدرَجة في الخارج.

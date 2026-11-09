@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 SPM में 9A+ अंक प्राप्त करना स्वतः एक पूर्ण विदेशी छात्रवृत्ति की गारंटी नहीं देता — क्योंकि मलेशिया में, सार्वजनिक प्रायोजन केवल अंकों के बारे में नहीं है, बल्कि इस बारे में भी है कि आप किस योजना में आवेदन करते हैं, उससे जुड़ी सेवा-शर्तें क्या हैं, और प्रत्येक निधि को नियंत्रित करने वाली नीति क्या है। प्रायोजकों के इस मानचित्र को समझना मायने रखता है, क्योंकि गलत चुनाव का अर्थ हज़ारों रिंगिट हो सकता है जो आपको बाद में चुकाने पड़ सकते हैं।

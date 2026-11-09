@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 மலேசிய பண்ணை ஒன்றில் தூவப்படும் கிட்டத்தட்ட ஒவ்வொரு உர மூட்டையும், நாட்டின் தொழிற்சாலைகளில் வார்க்கப்படும் பிளாஸ்டிக் பிசின்களின் பெரும்பகுதியும், ஒரே நிறுவனம் வரை செல்கின்றன: Petronas Chemicals Group Berhad. இது தேசிய எண்ணெய் நிறுவனத்தின் வேதிப்பொருள் பிரிவு, மலேசியாவின் மிகப்பெரிய ஒருங்கிணைந்த வேதிப்பொருள் உற்பத்தியாளர், மேலும் — ஒரு அரசு-இணைந்த வணிகத்திற்கு அசாதாரணமாக — யார் வேண்டுமானாலும் பங்குகளை வாங்கக்கூடிய தனியாகப் பட்டியலிடப்பட்ட நிறுவனம்.

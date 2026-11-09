@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 Không có một thị thực lao động Malaysia nào. Có tám hoặc chín văn kiện khác nhau, do bốn cơ quan khác nhau vận hành, và cái bạn cần được quyết định bởi **ai trả lương** — không phải bởi công việc được gọi là gì.

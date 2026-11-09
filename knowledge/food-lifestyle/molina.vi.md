@@ -87,6 +87,7 @@ verificationNeeded:
   - "Các tuyển chọn của MICHELIN Guide được rà soát hằng năm; hồ sơ này phản ánh trạng thái hiển thị trong mục niêm yết hiện tại và nên được kiểm tra lại sau mỗi phiên bản mới."
   - "Các nguồn mâu thuẫn về người dẫn dắt gian bếp: mục niêm yết MICHELIN và một số đưa tin ghi công ý tưởng cho đầu bếp người Hà Lan Sidney Schutte (của Spectrum hai-Star ở Amsterdam), trong khi đưa tin khác nêu Guillaume Depoortere là bếp trưởng——hãy xác nhận vai trò hiện tại trước khi gán các món cho một đầu bếp cụ thể."
   - "Phiên bản mà Molina lần đầu nhận Star (đưa tin thứ cấp chỉ đến tuyển chọn công bố vào tháng 11 năm 2024) nên được xác nhận với hồ sơ của MICHELIN."
+framework: profile
 ---
 
 Molina là một nhà hàng fine dining sáng tạo nằm cao trên tầng 51 của THE FACE

@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri de Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Sitio del Patrimonio Mundial de la UNESCO Melaka", "estado sin Sultán", "Melaka Tengah Alor Gajah Jasin", "economía de Melaka", "patrimonio portugués neerlandés británico"]
+framework: profile
 ---
 
 Neuf États de Malaisie ont un Raja. Melaka n'en fait pas partie — même si son nom est lié

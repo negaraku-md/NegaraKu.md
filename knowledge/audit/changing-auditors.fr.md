@@ -102,6 +102,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "The company and every officer commit an offence"
+framework: how-to
 ---
 
 Personne ne change d'auditeur pour une raison neutre. Soit les honoraires ont bougé, soit le groupe s'est restructuré, soit la relation s'est brisée, soit quelqu'un n'a pas aimé les questions posées. Le Companies Act 2016 présume le dernier de ces cas et construit toute la procédure autour de l'idée de donner à l'auditeur partant un canal pour le dire — aux membres, et au Registraire.

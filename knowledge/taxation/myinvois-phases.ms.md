@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["fasa MyInvois", "tarikh pelaksanaan e-invois Malaysia", "pengecualian e-invois RM1 juta", "tempoh pelonggaran e-invois", "garis masa e-invois LHDN", "tarikh pelaksanaan e-invois"]
+framework: data-reference
 ---
 
 Dua angka menentukan semuanya: perolehan FY2022 anda, yang menetapkan fasa

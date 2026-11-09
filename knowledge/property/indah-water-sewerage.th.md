@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["federal-state-division", "local-councils"]
 keywords: ["Indah Water Konsortium", "IWK", "caj pembetungan", "kumbahan Malaysia", "bil IWK", "nyahenapan tangki septik", "SPAN pembetungan", "sistem pembetungan Malaysia"]
+framework: profile
 ---
 
 ## ไม่ใช่การจ่ายน้ำ แต่เป็นปลายท่ออีกด้านหนึ่ง

@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["sejarah Malaysia", "garis masa Malaysia", "Merdeka 1957", "pembentukan Malaysia 1963", "perdana menteri Malaysia"]
+framework: history-culture
 ---
 
 Từ rất lâu trước khi cái tên "Malaysia" tồn tại, dải bờ biển và quần đảo này đã là một trong những ngã tư đường biển bận rộn nhất thế giới — nơi gió mùa trao tay tàu bè giữa Ấn Độ và Trung Hoa, và nơi các vương quốc biển, các vương quốc Sultan, các đế chế cùng những kẻ thực dân mỗi bên để lại lớp của mình. Dòng thời gian này sắp xếp câu chuyện đó thành bảy thời đại. Mỗi thời đại mở đầu bằng một phác họa về thời của nó, tiếp theo là một danh sách ngắn các cột mốc quan trọng liên kết đến bài viết đầy đủ.

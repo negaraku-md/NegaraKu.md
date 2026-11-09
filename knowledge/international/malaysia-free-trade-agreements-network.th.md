@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "malaysia-import-duties-tariffs" }
 related: []
 keywords: ["Malaysia FTA list", "Malaysia free trade agreements", "MITI FTA", "CPTPP Malaysia", "RCEP Malaysia", "Malaysia UAE CEPA", "MEEPA", "ASEAN FTA"]
+framework: data-reference
 ---
 
 มาเลเซียมีเครือข่ายความตกลงการค้าที่หนาแน่นที่สุดแห่งหนึ่งของเอเชีย ผู้ส่งออกมาเลเซียมักสามารถเลือกได้ในการส่งสินค้าชิ้นเดียวกันระหว่างสิทธิพิเศษของอาเซียน อัตราทวิภาคี หรือตารางระดับภูมิภาคขนาดใหญ่ และการเลือกนั้นสามารถเปลี่ยนอากรที่จ่าย ณ ชายแดนได้ หน้านี้วางเครือข่ายทั้งหมดไว้ในมุมมองเดียว

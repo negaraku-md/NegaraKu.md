@@ -78,6 +78,7 @@ related:
   - "laksa"
 social:
   hashtags: ["#Laksalicious", "#Laksa", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 laksa அளவுக்கு Penang-ஐச் சொல்லும் உணவுகள் சில; Jalan Hutton-இல் ஒரு சிறிய கடை இந்தக்

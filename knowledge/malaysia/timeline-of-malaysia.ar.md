@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["تاريخ ماليزيا", "Malaysian history", "الخط الزمني لماليزيا", "Malaysia timeline", "مرديكا 1957", "Merdeka 1957", "تكوين ماليزيا 1963", "formation of Malaysia 1963", "رؤساء وزراء ماليزيا", "Malaysia prime ministers"]
+framework: history-culture
 ---
 
 قبل أن يكون لـ«ماليزيا» اسم بوقت طويل، كان هذا الامتداد من الساحل والأرخبيل

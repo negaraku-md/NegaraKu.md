@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["ساراواك ماليزيا", "كوتشينغ", "نفط وغاز ساراواك", "Sarawak Malaysia", "اتفاقية ماليزيا 1963 Malaysia Agreement 1963", "الغابات المطيرة في بورنيو"]
+framework: profile
 ---
 
 ساراواك هي ماليزيا بنبرة مختلفة. فهي إلى حدٍّ بعيد أكبر ولايات الاتحاد من حيث

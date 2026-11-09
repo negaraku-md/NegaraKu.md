@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "gdp-overview"]
 keywords: ["tasa de inflación de Malasia", "IPC Malasia", "kadar inflasi Malaysia", "Indeks Harga Pengguna", "coste de vida en Malasia"]
+framework: data-reference
 ---
 
 ## De un vistazo

@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 ปีละครั้ง ประมุขราชาเก้าพระองค์และยังดีเปอร์ตัวเนอเกอรีสี่คนมารวมตัวกันในห้องประชุมแห่งหนึ่งในกัวลาลัมเปอร์เพื่อตัดสินใจในเรื่องที่รัฐสภาทำไม่ได้ — ในจำนวนนั้นคือการเลือกว่าใครจะเป็นราชาของสหพันธรัฐ การชุมนุมนั้นคือสภาราชา (Majlis Raja-Raja) และประมุขราชาที่เป็นสมาชิกรู้จักกันในชื่อ ราชามลายู (Raja-Raja Melayu)

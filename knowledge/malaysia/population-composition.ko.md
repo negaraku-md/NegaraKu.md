@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 DOSM은 "말레이시아인"이라는 이름의 수치를 발표하지 않습니다. 시민과 비시민을 두 개의 별도 집계로 발표하고, 시민을 다섯 개의 명명된 민족 범주로 나눈 뒤, 그중 한 범주 — "기타 부미푸트라" — 를 사바와 사라왁 집단으로 따로 나누어 보고하며, 각각은 다시 자체의 명명된 하위 집단을 가집니다. "부미푸트라"라는 단어 자체는 DOSM의 기초 데이터 표에 단일 행(行)으로 결코 나타나지 않습니다. 그것은 말레이와 기타 부미푸트라라는 두 행을 사후에 더해서 얻는 값입니다.

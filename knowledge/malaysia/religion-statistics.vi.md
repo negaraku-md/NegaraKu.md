@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["dosm", "sarawak"]
 keywords: ["Malaysia religion statistics", "MyCensus 2020 religion", "census 2020 Malaysia religion", "Islam population Malaysia", "Buddhism population Malaysia", "Christianity population Malaysia", "Hinduism population Malaysia", "DOSM population by religion"]
+framework: data-reference
 ---
 
 Cứ mười năm một lần, cuộc điều tra dân số quốc gia của Malaysia đặt một câu hỏi mà ít biểu mẫu chính phủ hỏi trực tiếp: tôn giáo của bạn là gì. Năm 2020, 32.4 triệu người đã trả lời, và Cục Thống kê Malaysia (Department of Statistics Malaysia, DOSM) đã công bố phép đếm trong một đoạn văn duy nhất của bản Key Findings — năm con số, không kèm bình luận nào.

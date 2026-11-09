@@ -152,6 +152,7 @@ keywords:
   - "Labuan trust company"
   - "syarikat Labuan"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 லபுவான் இரண்டு வகையான செய்திக் கவனிப்பைப் பெறுகிறது, இரண்டுமே பயனற்றவை.

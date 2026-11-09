@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang のセレクションは毎年改訂されます。本稿は2026年版（2025年11月発表）を反映しています。より新しい版——例えば2027年のリスト——はこのレストランを追加・削除・順位変更する可能性があるため、依拠する前に guide.michelin.com で現在の Bib Gourmand の状態を再確認してください。"
   - "予約と営業時間の扱いは MICHELIN の地域別掲載によって異なります（店が自ら予約を管理するとするものもあれば、オンライン予約は不可とするものもあります）——訪れる前に直接レストランに確認してください。"
+framework: profile
 ---
 
 Hainanese chicken rice は、マレーシアの厨房の静かな試金石の一つです。茹でるか

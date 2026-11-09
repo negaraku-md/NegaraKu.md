@@ -87,6 +87,7 @@ verificationNeeded:
   - "سنة إصدار دليل MICHELIN Guide: لا يربط هذا الملف شارة Bib Gourmand بإصدار بعينه لأنّ الاختيار يُعاد تقييمه سنويًا. وأحدث إصدار منشور وقت الكتابة هو MICHELIN Guide Kuala Lumpur & Penang 2026 — لا تذكر إصدار 2027 إلى أن ينشره MICHELIN. تأكّد من أنّ Nirwana ما زال يحمل Bib Gourmand في الإصدار الحالي على guide.michelin.com."
   - "العلاقة بين مدخل MICHELIN المسمّى 'Nirwana' وعلامة/موقع 'Sri Nirwana Maju' (srinirwanamaju.com) — يعنون MICHELIN المدخل بـ'Nirwana' في 43 Jalan Telawi 3 لكنّه يربط بموقع Sri Nirwana Maju. تأكّد من أنّهما المنشأة نفسها ومن الاسم التجاري الحالي."
   - "ساعات العمل (يُدرج MICHELIN 11:30–23:00 يوميًا) — تحقّق من المطعم قبل نشر إرشادات السفر."
+framework: profile
 ---
 
 اطلب طقم الغداء في **Nirwana** فيأتيك كما ينبغي أن يكون أرز ورق الموز: ورقة لامعة

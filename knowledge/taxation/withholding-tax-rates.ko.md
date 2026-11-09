@@ -89,6 +89,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["withholding tax rate Malaysia", "section 109B rate", "section 107A withholding tax", "CP37D", "withholding tax table Malaysia", "LHDN withholding tax"]
+framework: data-reference
 ---
 
 필요한 세율은 읽고 있는 조항에 거의 없습니다. s.109B는 "해당 지급에 적용되는 세율로"

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
+framework: data-reference
 ---
 
 ตอนนี้คุณสามารถเปิดบัญชีธนาคารมาเลเซียได้โดยไม่ต้องก้าวเท้าเข้าสาขา ไม่ต้องสั่งบัตรเดบิต หรือไม่ต้องกรอกแบบฟอร์มกระดาษ — และสถาบันที่ได้รับใบอนุญาตห้าแห่งกำลังแข่งขันกันเพื่อทำสิ่งนี้ทั้งหมดจากโทรศัพท์ของคุณ

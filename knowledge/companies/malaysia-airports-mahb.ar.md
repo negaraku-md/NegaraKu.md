@@ -77,6 +77,7 @@ related: ["genting-group"]
 keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airport", "klia2", "Istanbul Sabiha Gokcen", "Khazanah", "airport operator Malaysia", "MAHB privatisation", "MAHB delisting"]
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
+framework: profile
 ---
 
 تكاد كل مرة يهبط فيها مسافر في ماليزيا يصل إلى مطار تديره شركة واحدة. فمطارات ماليزيا القابضة برهاد (Malaysia Airports Holdings Berhad، MAHB) تشغّل مطار كوالالمبور الدولي — الموسوم الآن KLIA Terminal 1 وTerminal 2 — و، بحسب عدّها الخاص، 39 مطارًا عبر البلاد، إضافةً إلى بوابة واحدة في الخارج بإسطنبول. وفي عام 2025 صارت أيضًا شيئًا غير معتاد لمشغّل مطارات وطني: لم تعد شركة عامة.

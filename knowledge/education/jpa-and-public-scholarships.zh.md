@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 在SPM考获9A+并不一定能保证获得一份海外全额奖学金——因为在马来西亚，公共赞助不仅关乎分数，还关乎你申请的是哪项计划、所绑定的服务条件，以及管理每项基金的政策。理解这张赞助方地图非常重要，因为错误的选择可能意味着日后需要偿还数千令吉。

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "beza KWSP PERKESO", "caruman berkanun pekerja Malaysia", "potongan gaji KWSP SOCSO", "kadar caruman KWSP", "kategori SOCSO"]
+framework: explainer
 ---
 
 マレーシアの被用者の給与明細を開けば、ほとんど説明されることのない二つの法定控除がある——KWSPとPERKESOである。多くの被用者はこれを同じものだと考えている——「政府が貯蓄のために天引きするお金」だと。

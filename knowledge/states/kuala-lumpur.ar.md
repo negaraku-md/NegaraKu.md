@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["كوالالمبور", "Kuala Lumpur", "الإقليم الاتحادي كوالالمبور", "KL federal territory", "بورصة ماليزيا", "Bursa Malaysia", "برجا بتروناس التوأم", "Petronas Twin Towers", "وادي كلانغ", "Klang Valley"]
+framework: profile
 ---
 
 كوالالمبور هي العاصمة الوطنية لماليزيا، لكنها دستورياً ليست ولاية — بل إقليم اتحادي،

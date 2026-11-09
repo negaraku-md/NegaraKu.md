@@ -152,6 +152,7 @@ keywords:
   - "Labuan trust company"
   - "syarikat Labuan"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 라부안(Labuan)은 두 종류의 다룸을 받는데 둘 다 쓸모없습니다.

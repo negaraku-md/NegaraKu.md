@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "government-linked-companies" }
 related: []
 keywords: ["LTAT", "सशस्त्र बल कोष बोर्ड", "Lembaga Tabung Angkatan Tentera", "Boustead Holdings", "Project Earth", "मलेशियाई सशस्त्र बल", "GLC", "लाभांश", "Pharmaniaga"]
+framework: profile
 ---
 
 हर मलेशियाई सैनिक और नाविक अपने वेतन का एक हिस्सा एक ही जगह अलग रखता है — और वह पैसा, वर्षों तक, कर्ज में डूबे एक समूह के भाग्य पर टिका रहा। यह LTAT और Boustead Holdings की कहानी है।

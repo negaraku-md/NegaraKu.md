@@ -76,6 +76,7 @@ verificationNeeded:
   - "Số chi nhánh (hơn 200 tại Malaysia) và số nhân sự (các con số được báo cáo dao động từ khoảng 13.000 đến 14.000) — xác nhận đối chiếu với báo cáo thường niên mới nhất."
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
+framework: profile
 ---
 
 RHB là một trong những cái tên mà hầu hết người Malaysia nhận ra trên một chi nhánh ngân hàng ngoài phố, một thẻ ATM hay một tờ rơi vay mua nhà — thế nhưng tập đoàn đứng sau nó vươn xa hơn nhiều so với ngân hàng bán lẻ, sang tài chính Hồi giáo, ngân hàng đầu tư, bảo hiểm và các thị trường trên khắp Đông Nam Á. Trang này là một cái nhìn tổng quan trung lập, dựa trên sự thật về Tập đoàn Ngân hàng RHB là gì, nó được cấu trúc ra sao, ai sở hữu nó và vì sao nó quan trọng.

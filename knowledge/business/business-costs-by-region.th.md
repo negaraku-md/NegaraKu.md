@@ -110,6 +110,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 การเปรียบเทียบสถานที่ตั้งสำหรับมาเลเซียส่วนใหญ่สร้างขึ้นบนตัวเลขที่ไม่มีใครเผยแพร่ ค่าเช่าอุตสาหกรรมต่อตารางฟุตรายรัฐ ค่าสาธารณูปโภค "โดยทั่วไป" ส่วนต่างค่าจ้างระหว่างปีนังกับกลันตัน — ทั้งหมดแพร่กระจายอยู่ แทบไม่มีสิ่งใดที่สืบย้อนไปถึงแหล่งข้อมูลของรัฐ

@@ -80,6 +80,7 @@ keywords:
   - "Form 9 SSM replacement"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 Một nửa sự nhầm lẫn trong quản trị công ty Malaysia là từ vựng. Hai sổ đăng ký

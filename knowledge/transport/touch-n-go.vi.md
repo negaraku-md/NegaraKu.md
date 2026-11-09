@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
+framework: explainer
 ---
 
 Nhiều người giữ một thẻ Touch 'n Go trong ví và ứng dụng Touch 'n Go eWallet trong điện thoại, rồi cho rằng cả hai là cùng một thứ với hai mặt. Không phải vậy. Số dư trong thẻ của bạn và số dư trong ứng dụng của bạn được lưu hoàn toàn tách biệt — nạp đầy cái này không thêm một sen nào cho cái kia. Hiểu lầm này là nguyên nhân thường gặp khiến xe kẹt lại tại cổng thu phí vì người lái tin chắc "tiền trong điện thoại là đủ", trong khi cái mà máy thu phí đọc là chiếc thẻ.

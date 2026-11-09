@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 Every time the lights come on in your home in the Peninsular, there is a very good chance that electricity is flowing through wires owned by a single company: Tenaga Nasional Berhad. It is the country's largest electricity utility, with over 11 million customers across Peninsular Malaysia, Sabah and Labuan as of 30 September 2025.

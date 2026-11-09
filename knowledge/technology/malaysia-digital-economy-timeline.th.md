@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 ในปี 1996 มาเลเซียร่างเส้นแบ่งผืนดินเกษตรกรรมทางตอนใต้ของกัวลาลัมเปอร์และประกาศให้เป็นระเบียงเทคโนโลยีแห่งอนาคตของประเทศ เกือบสามทศวรรษต่อมา เกือบหนึ่งริงกิตในทุกสี่ริงกิตที่เศรษฐกิจของประเทศสร้างขึ้นไหลผ่านหน้าจอ เซิร์ฟเวอร์ และตะกร้าสินค้าออนไลน์ การเดินทางระหว่างสองจุดนั้นไม่ใช่การกระโดดเพียงครั้งเดียว — มันเป็นชุดนโยบายที่เชื่อมต่อกัน แต่ละอย่างแก้ไขหรือขยายอันก่อนหน้า

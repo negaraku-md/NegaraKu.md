@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "Nhãn năm ấn bản hiển thị trên trang MICHELIN trực tuyến của nhà hàng có thể khác với '2026' được dùng trong tin bài về lễ trao giải của MICHELIN; ngôi sao được trao lần đầu trong đợt tuyển chọn đầu tiên năm 2022 và được giữ từ đó. Các đợt tuyển chọn được điều chỉnh hằng năm — hãy xác nhận danh hiệu hiện tại trên trang chính thức."
   - "Bếp trưởng kiêm chủ nhà hàng Kim Hock Su còn được viết là 'Su Kim Hock'; trang MICHELIN cung cấp rất ít thông tin tiểu sử. Giờ mở cửa khác nhau giữa các phiên bản danh sách và thực đơn thay đổi hằng tháng — hãy xác nhận giờ, giá và dạng thực đơn nếm hiện tại với nhà hàng."
+framework: profile
 ---
 
 Au Jardin là nhà hàng một sao MICHELIN ở George Town, Penang, phục vụ ẩm thực

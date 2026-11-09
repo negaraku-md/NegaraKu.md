@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 马来西亚没有工作签证这回事。有的是八九种不同的法律工具，由四个不同的机构管理，而你需要哪一种，取决于**谁在付这份薪水**——不是取决于这份工作叫什么名字。

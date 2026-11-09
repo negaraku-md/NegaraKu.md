@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 1996年、マレーシアはクアラルンプール南方の農地を切り拓き、そこを国家の未来のテクノロジー・コリドーとして宣言した。それから三十年近くを経た今、国の経済が生み出す4リンギットごとに、ほぼ1リンギットが画面、サーバー、そしてオンラインの買い物カゴを通じて流れている。この二つの地点のあいだの道のりは、一度の飛躍ではなかった——それは相互に連なる一連の政策であり、そのそれぞれが前のものを是正し、あるいは拡張してきた。

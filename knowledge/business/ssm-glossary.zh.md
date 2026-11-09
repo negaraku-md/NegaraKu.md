@@ -81,6 +81,7 @@ keywords:
   - "Form 9 SSM replacement"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 马来西亚公司行政事务中，一半的困惑来自词汇。两个缩写相近的登记册、四个名称毫不相干的

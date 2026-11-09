@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 每当你在半岛的家中亮起灯，这股电流很可能是流经一家公司独有的电线：国家能源有限公司（Tenaga Nasional Berhad）。它是全国最大的电力公用事业公司，截至 2025 年 9 月 30 日，在马来西亚半岛、沙巴和纳闽拥有超过 1100 万名用户。

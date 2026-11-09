@@ -130,6 +130,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 மலேசிய வணிக எழுத்துகளில், ஒரு அறிமுக அறிவிப்பு அதைப் பற்றி உறுதிப்படுத்தக்கூடிய எதையும்

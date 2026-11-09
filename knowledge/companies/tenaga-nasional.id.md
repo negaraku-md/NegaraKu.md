@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 Setiap kali lampu di rumah Anda menyala di Semenanjung, ada kemungkinan besar listrik itu mengalir melalui kabel milik satu perusahaan saja: Tenaga Nasional Berhad. Ia utilitas listrik terbesar negara, dengan lebih dari 11 juta pelanggan di Semenanjung Malaysia, Sabah, dan Labuan per 30 September 2025.

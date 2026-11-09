@@ -75,6 +75,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
 keywords: ["public holidays malaysia 2026", "cuti umum 2026", "state public holidays malaysia", "gazetted public holiday malaysia", "section 60d employment act"]
+framework: data-reference
 ---
 
 สองระบบดำเนินไปควบคู่และตอบคำถามที่ต่างกัน **พระราชบัญญัติวันหยุด 1951 (Holidays Act 1951)** ตัดสินว่าวันใดเป็นวันหยุดนักขัตฤกษ์และที่ไหน **พระราชบัญญัติการจ้างงาน 1955 (Employment Act 1955)** ตัดสินว่าลูกจ้างได้รับค่าจ้างกี่วัน ปฏิทินวันหยุดส่วนใหญ่ที่เผยแพร่ในมาเลเซียครอบคลุมเพียงระบบแรก ซึ่งเป็นเหตุที่นายจ้างมักจ่ายค่าจ้างสำหรับวันที่ผิด

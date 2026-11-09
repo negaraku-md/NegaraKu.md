@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 ペラ州中部の尾根の西側にココナッツを一つ落とせば、やがてその腐った痕跡はマラッカ海峡へと辿り着く。同じ尾根の東側、わずか数百メートル先に一つ落とせば、それは南シナ海へと行き着く。地形そのものには、他に何の違いもない。違うのは、それがこの境界線のどちら側に落ちたかだけだ。

@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Neighbourwood", "#BibGourmand", "#SeberangPerai", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 페낭의 모든 MICHELIN 주소가 섬에 있는 것은 아니다. **Neighbourwood**는 본토의

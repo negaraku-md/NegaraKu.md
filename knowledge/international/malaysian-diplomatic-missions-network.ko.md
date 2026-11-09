@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["Malaysian embassies", "Malaysia high commissions", "Malaysian consulate", "Wisma Putra missions", "Malaysia diplomatic missions abroad", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 리마에서 여권을 잃어버리거나, 도하에서 체포되거나, 서울에서 서류 공증이 필요할 때, 실제로 도움을 줄 수 있는 사무소는 85개국에 퍼져 있는 111개 말레이시아 공관 망의 한 결절점입니다 — 그 하나하나가 모두 푸트라자야의 위스마 푸트라에서 운영됩니다.

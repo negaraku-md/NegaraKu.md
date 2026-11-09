@@ -111,6 +111,7 @@ keywords:
   - "impuesto de la LLP Malasia"
   - "requisito de auditoría de la LLP"
   - "responsable de cumplimiento LLP"
+framework: decision
 ---
 
 Abra cualquier comparación de la LLP malasia y leerá que «combina la responsabilidad limitada de una

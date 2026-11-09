@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
+framework: profile
 ---
 
 슬랑오르(Selangor)는 말레이시아 경제가 조용히 기대고 있는 주(州)입니다. 그것은 연방 수도 쿠알라룸푸르와 행정 수도 푸트라자야를 완전히 에워싸며, 이 셋이 함께 클랑 밸리(Lembah Klang) — 이 나라에서 가장 큰 도시·산업 집합체 — 를 이룹니다.

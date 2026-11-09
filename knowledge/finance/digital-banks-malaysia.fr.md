@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["banques numériques Malaisie", "digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM agrément de banque numérique", "PIDM"]
+framework: data-reference
 ---
 
 Vous pouvez désormais ouvrir un compte bancaire malaisien sans jamais mettre les pieds dans une agence, commander une carte de débit ou remplir un formulaire papier — et cinq institutions agréées se disputent le fait de le faire entièrement depuis votre téléphone.

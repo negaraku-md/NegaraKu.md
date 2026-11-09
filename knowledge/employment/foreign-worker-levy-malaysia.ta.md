@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["hiring-foreign-workers-malaysia"]
 keywords: ["foreign worker levy malaysia", "levi pekerja asing", "multi tier levy", "mtlm", "levy rates by sector", "plks levy sabah sarawak"]
+framework: data-reference
 ---
 
 இந்தத் தலைப்பை ஆராய்வதைக் கடினமாக்கும் விஷயத்துடன் தொடங்குவோம்: **வெளிநாட்டுத் தொழிலாளர் லெவி என்று ஒரு சட்டக் கருவியே இல்லை.**

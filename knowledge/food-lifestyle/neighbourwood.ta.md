@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Neighbourwood", "#BibGourmand", "#SeberangPerai", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Penang-இன் ஒவ்வொரு MICHELIN முகவரியும் தீவில் இல்லை. **Neighbourwood** பிரதான

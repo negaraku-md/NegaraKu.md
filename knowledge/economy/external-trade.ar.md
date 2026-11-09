@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["gdp-overview", "inflation-cpi", "palm-oil-sector"]
 keywords: ["Malaysia trade surplus", "الفائض التجاري الماليزي", "Malaysia exports imports", "صادرات وواردات ماليزيا", "perdagangan luar Malaysia", "Malaysia external trade", "التجارة الخارجية الماليزية", "Malaysia trade balance"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["पहांग", "Pahang", "पहांग दारुल मकमूर", "Pahang Darul Makmur", "कुआंतान", "Kuantan", "पेकान राजसी नगर", "Pekan", "पहांग के सुल्तान", "Sultan Pahang", "तामन नेगारा", "Taman Negara", "गुनुंग ताहान", "Gunung Tahan", "कैमरन हाइलैंड्स", "Cameron Highlands", "पहांग के जिले", "पहांग का KDNK"]
+framework: profile
 ---
 
 पहांग प्रायद्वीपीय मलेशिया के भूमि क्षेत्र के एक-चौथाई से अधिक को ढकता है, फिर भी

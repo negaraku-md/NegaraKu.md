@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kampung", "kuala-lumpur", "penang", "batik"]
 keywords: ["balik kampung", "maksud balik kampung", "trafik balik kampung", "Op Selamat", "perpindahan musim perayaan Malaysia", "kesesakan lebuh raya perayaan"]
+framework: explainer
 ---
 
 **马来文：** Balik Kampung · **英文：** Homecoming / Festive Exodus · **中文：** 返乡

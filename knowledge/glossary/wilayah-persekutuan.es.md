@@ -52,6 +52,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["mykad"]
 keywords: ["Wilayah Persekutuan", "Territorio Federal Malasia", "Kuala Lumpur Putrajaya Labuan", "estados de Malasia", "negeri Malaysia"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Wilayah Persekutuan · **English:** Federal Territory · **中文:** 联邦直辖区

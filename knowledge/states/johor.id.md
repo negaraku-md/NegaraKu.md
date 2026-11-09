@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
+framework: profile
 ---
 
 Ekonomi Johor didefinisikan oleh tetangganya. Sebagai negeri paling selatan di

@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "form-e-ea-cp8d-malaysia" }
 related: ["personal-tax-rates", "individual-tax-residence", "form-e-ea-cp8d-malaysia", "form-c-and-cp204"]
 keywords: ["कौन-सा LHDN फ़ॉर्म", "which LHDN form", "Form BE बनाम Form B", "Form BE vs Form B", "borang BE tarikh akhir", "Form M अनिवासी मलेशिया", "Form M non-resident Malaysia", "LHDN दाख़िली समय-सीमा 2026", "e-Filing रियायत-अवधि मलेशिया"]
+framework: data-reference
 ---
 
 दो चीज़ें आपका फ़ॉर्म तय करती हैं: क्या आप s.7(1) के अंतर्गत **निवासी** हैं, और क्या

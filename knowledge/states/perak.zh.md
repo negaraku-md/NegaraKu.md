@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
+framework: profile
 ---
 
 1874年1月20日，一份条约在邦咯岛（Pangkor Island）附近海域签署。这份文件既未割让领土，也未宣战。它只引入了一个新的职位：一位参政司，其意见必须遵从。

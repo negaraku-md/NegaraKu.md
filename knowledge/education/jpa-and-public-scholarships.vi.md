@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 Đạt 9A+ trong SPM chưa chắc bảo đảm một suất học bổng toàn phần ra nước ngoài — vì tại Malaysia, tài trợ công không chỉ là chuyện điểm số, mà còn là chuyện bạn nộp đơn vào chương trình nào, các điều kiện phục vụ bị ràng buộc, và chính sách quản lý từng quỹ. Hiểu bản đồ các nhà tài trợ này là quan trọng vì một lựa chọn sai có thể có nghĩa là hàng nghìn ringgit phải trả lại về sau.

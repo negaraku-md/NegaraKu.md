@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: ["parliament", "dewan-negara", "federal-constitution", "how-a-bill-becomes-law", "yang-di-pertuan-agong"]
 keywords: ["Dewan Rakyat", "Ahli Parlimen", "Perkara 46", "Perkara 55", "222 kerusi", "Yang di-Pertua Dewan Rakyat", "penggal Parlimen", "Rang Undang-Undang wang"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Dewan Rakyat · **English:** House of Representatives · **中文:** 下议院

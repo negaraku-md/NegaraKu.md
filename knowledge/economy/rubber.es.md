@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 En mayo de 2026 Malasia produjo 20,198 toneladas de caucho natural, y exportó

@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "gdp-overview"]
 keywords: ["मलेशिया मुद्रास्फीति दर", "CPI मलेशिया", "kadar inflasi Malaysia", "Indeks Harga Pengguna", "मलेशिया जीवन-यापन की लागत"]
+framework: data-reference
 ---
 
 ## एक नज़र में

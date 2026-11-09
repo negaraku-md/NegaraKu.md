@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["jenis pendapat audit Malaysia", "pendapat bersyarat Malaysia", "pendapat bertentangan", "penafian pendapat", "ISA 705 pervasive", "pendapat audit terubah suai Sdn Bhd"]
+framework: explainer
 ---
 
 Hampir semua situs pesaing mendaftar empat opini dan mendefinisikan masing-masing

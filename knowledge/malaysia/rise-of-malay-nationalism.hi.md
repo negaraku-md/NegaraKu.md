@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["मलय राष्ट्रवाद", "nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "मलेशिया का इतिहास"]
+framework: history-culture
 ---
 
 किसी भी बड़े राष्ट्रीय दल के अस्तित्व में आने से पहले, मलय आंदोलन स्कूल के सभागारों में, समाचार-पत्रों के पन्नों में, और छोटे राज्य संघों की बैठक-कक्षों में शुरू हुआ। 1930 के दशक और द्वितीय विश्व युद्ध के अंत के बीच, यही धाराएँ थीं जो धीरे-धीरे एक राजनीतिक शक्ति के रूप में उभरीं, जो 1946 में मलय लोगों को एक अकेली ब्रिटिश नीति के विरुद्ध एकजुट करने में सक्षम थीं।

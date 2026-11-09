@@ -78,6 +78,7 @@ verificationNeeded:
   - "Thứ hạng là tập đoàn ngân hàng lớn thứ sáu Malaysia về tài sản (The Edge Malaysia) — mang tính vị trí và thay đổi theo thời gian; xác nhận lại đối chiếu với bảng cân đối kế toán hiện hành của các đối thủ cùng ngành."
   - "Các tỷ lệ sở hữu cổ phần (ví dụ, cổ phần khoảng 21,7% của ANZ trước năm 2024, và Quỹ Tiết kiệm Nhân viên được báo cáo ở khoảng 14,33% quanh thời điểm ANZ thoái vốn tháng 6 năm 2024, theo The Star) — cổ phần thay đổi theo các đợt phát hành riêng lẻ và biến động thị trường; xác minh đối chiếu với các công bố cổ đông lớn mới nhất của Bursa Malaysia."
   - "Lợi nhuận ròng năm tài chính 2025 khoảng RM2,0 tỷ (năm kết thúc ngày 31 tháng 3 năm 2025) — cập nhật mỗi năm tài chính đối chiếu với kết quả đã kiểm toán của AMMB."
+framework: profile
 ---
 
 Nếu bạn giao dịch ngân hàng tại Malaysia, rất có khả năng bạn đã nhìn thấy cái tên AmBank. Đứng sau nó là AMMB Holdings Berhad, công ty niêm yết trên Bursa Malaysia đứng đầu một trong những tập đoàn ngân hàng lớn hơn của đất nước — và câu chuyện của nó chạy từ ngân hàng thương gia Arab-Malaysian của thập niên 1970, qua một mối quan hệ đối tác lâu dài với Úc, cho đến một thỏa thuận dàn xếp mang tính bước ngoặt năm 2021 gắn với bê bối 1MDB.

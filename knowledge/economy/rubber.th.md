@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 ในเดือนพฤษภาคม 2026 มาเลเซียผลิตยางธรรมชาติได้ 20,198 ตัน และส่งออกไป 28,741 ตัน

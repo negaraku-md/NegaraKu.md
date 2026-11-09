@@ -85,6 +85,7 @@ relations:
   - { rel: "compares-with", to: "mfrs-18-presentation" }
 related: ["switching-mpers-to-mfrs", "accounting-standards-index", "mpers-2025-revision", "financial-statement-pack"]
 keywords: ["MFRS vs MPERS Malaysia", "निजी संस्था परिभाषा MASB", "मलेशिया में कौन-सा लेखांकन ढाँचा", "MPERS पात्रता", "MASB रिपोर्टिंग ढाँचा", "MFRS", "MPERS"]
+framework: decision
 ---
 
 अधिकांश मलेशियाई मार्गदर्शन इस प्रश्न का उत्तर "जन-हित संस्था" वाक्यांश से देता है। वह वाक्यांश कोई काम नहीं कर रहा। यह वह परीक्षण नहीं है जिसे MASB लागू करता है, यह उस परिभाषा में नहीं है जो प्रश्न का निर्णय करती है, और इस पर निर्भर रहने से उस एक मामले में गलत उत्तर मिलता है जो व्यवहार में सबसे अधिक आता है — किसी विदेश-सूचीबद्ध समूह की मलेशियाई सहायक कंपनी।

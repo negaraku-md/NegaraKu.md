@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 산업용 가스를 판매하며 출발한 한 회사가 이제는 작은 구(district) 크기의 토지를 채울 만큼의 오일팜을 재배하고, 그 열매를 식용유부터 비누 속 지방산에 이르기까지 온갖 것으로 바꿔 냅니다.

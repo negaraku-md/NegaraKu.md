@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["नेगाराकू", "Negaraku", "मलेशिया का राष्ट्रगान", "Terang Bulan", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 31 अगस्त 1957 की रात, जब नेगाराकू की धुन पहली बार सेलांगोर क्लब पडांग में सार्वजनिक रूप से बजाई गई, वह धुन कुछ नई नहीं थी। उससे दशकों पहले ही वह एक मलय राज्य का राज्य गान रही थी।

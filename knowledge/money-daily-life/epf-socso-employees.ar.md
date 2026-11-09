@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "الفرق بين KWSP وPERKESO", "beza KWSP PERKESO", "الاشتراكات القانونية للموظفين ماليزيا", "اقتطاع الراتب KWSP SOCSO", "معدل اشتراك KWSP", "فئات SOCSO", "kadar caruman KWSP"]
+framework: explainer
 ---
 
 افتح كشف راتب أي موظف ماليزي تجد اقتطاعين قانونيين لا يكاد أحد يشرحهما:

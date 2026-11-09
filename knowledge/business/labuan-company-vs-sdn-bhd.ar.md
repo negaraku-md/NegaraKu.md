@@ -153,6 +153,7 @@ keywords:
   - "شركة ائتمان لابوان"
   - "Labuan company Malaysia"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 تنال لابوان نوعين من التغطية وكلاهما عديم الفائدة.

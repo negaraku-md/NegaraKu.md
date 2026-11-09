@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["primeros ministros de Malasia", "lista de primeros ministros malasios", "Perdana Menteri Malaysia", "Anwar Ibrahim", "Mahathir Mohamad"]
+framework: data-reference
 ---
 
 El jefe de gobierno de Malasia es el **Primer Ministro** — el líder que goza de la confianza

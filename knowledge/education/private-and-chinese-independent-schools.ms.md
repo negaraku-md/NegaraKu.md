@@ -77,6 +77,7 @@ keywords:
   - "Unified Examination Certificate"
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
+framework: explainer
 ---
 
 Tanya mana-mana ibu bapa Malaysia apakah maksud "sekolah persendirian", dan mereka mungkin merujuk kepada tiga perkara yang sama sekali berbeza: sekolah berbayar yang menjalankan silibus yang sama persis seperti sekolah kerajaan di kawasan itu, sekolah antarabangsa yang mengajar Cambridge atau IB, atau sebuah sekolah menengah persendirian Cina yang menjalankan peperiksaan yang jarang didengari oleh kebanyakan orang di luar komuniti pendidikan Cina. Hanya satu daripada ketiga-tiga itu menduduki SPM. Hanya satu menduduki UEC. Mengelirukan ketiga-tiganya adalah cara paling mudah untuk tersilap menilai pilihan seorang anak pada usia 18 tahun.

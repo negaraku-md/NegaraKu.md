@@ -94,6 +94,7 @@ social:
 verificationNeeded:
   - "Pemilihan MICHELIN Guide Malaysia (Kuala Lumpur & Penang) disemak setiap tahun. Profil ini mencerminkan edisi 2026; sahkan bahawa Bib Gourmand masih kekal dalam edisi terkini (pemilihan 2027 sedang muncul), kerana anugerah boleh ditambah atau ditarik balik setiap tahun."
   - "Hari dan waktu operasi — penyenaraian MICHELIN menunjukkan waktu urus niaga yang luar biasa terhad; sahkan waktu semasa secara terus dengan kedai sebelum bergantung padanya."
+framework: profile
 ---
 
 Pulau Pinang mengambil serius hal mi karinya, dan Hot Bowl White Curry Mee

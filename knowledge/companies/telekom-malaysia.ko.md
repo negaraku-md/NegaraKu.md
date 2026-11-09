@@ -80,6 +80,7 @@ related: ["maxis", "axiata"]
 keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global", "fibre broadband Malaysia", "JENDELA", "submarine cable Malaysia", "government-linked company"]
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
+framework: profile
 ---
 
 말레이시아의 거의 모든 광섬유 광대역 회선, 기업 회선, 해저 데이터 케이블은 누군가에게 닿기 전에 한 회사를 거칩니다. Telekom Malaysia Berhad(TM)는 국가 기간 사업자입니다 — 이 나라 유선 네트워크의 대부분을 건설했고 경쟁사와 국제 통신사가 의존하는 백본을 여전히 소유한 사업자입니다.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
+framework: profile
 ---
 
 砂拉越是另一种调性的马来西亚。就陆地面积而言，它远远是联邦中最大的州属，

@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
+framework: profile
 ---
 
 2012-ல் அது சந்தையின் செல்லப்பிள்ளையாக இருந்தது — சிறிது காலம் உலகில் Facebook-க்குப் பின் இரண்டாவது இடத்தைப் பிடித்த ஒரு மாபெரும் பட்டியலிடல். பதின்மூன்று ஆண்டுகளுக்குப் பிறகு அதே நிறுவனம் அதன் அறிமுக விலையின் ஒரு சிறு பகுதிக்கு அமைதியாக Bursa Malaysia-விலிருந்து விலகியது, அதை சந்தைக்குக் கொண்டுவந்த அதே ஆணையத்தால் மீண்டும் வாங்கப்பட்டது.

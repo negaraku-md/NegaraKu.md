@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["الحاكم الراسخ", "Ruler", "يانغ دي-برتوا نيغري", "Yang di-Pertua Negeri", "ولاية ملكية", "ولاية غير ملكية", "سلطان ماليزيا", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "رئيس الولاية في ماليزيا", "مجلس الحكام", "Majlis Raja-Raja", "المادة 71 من الدستور"]
+framework: explainer
 ---
 
 لدى ماليزيا 13 ولاية، لكن تسعة عروش فقط. أما الولايات الأربع الأخرى فيرأسها شخص لا

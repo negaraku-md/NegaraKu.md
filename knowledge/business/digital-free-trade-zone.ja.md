@@ -130,6 +130,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 デジタル自由貿易地区（Digital Free Trade Zone、DFTZ）は、マレーシアのビジネス関連の文章において、推進の発表（ローンチ告知）がそれについて検証しうるあらゆる事実よりも長く生き残っている、最も明白な事例である。

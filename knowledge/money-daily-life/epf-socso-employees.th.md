@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "beza KWSP PERKESO", "caruman berkanun pekerja Malaysia", "potongan gaji KWSP SOCSO", "kadar caruman KWSP", "kategori SOCSO"]
+framework: explainer
 ---
 
 เปิดสลิปเงินเดือนของลูกจ้างมาเลเซียคนใดก็ได้ แล้วจะมีการหักเงินตามกฎหมายสองรายการที่แทบไม่เคยได้รับการอธิบาย คือ KWSP และ PERKESO ลูกจ้างส่วนใหญ่คิดว่ามันเป็นสิ่งเดียวกัน คือ "เงินที่รัฐบาลหักไปเพื่อการออม"

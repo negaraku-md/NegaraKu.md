@@ -111,6 +111,7 @@ keywords:
   - "cukai LLP Malaysia"
   - "keperluan audit LLP Malaysia"
   - "pegawai pematuhan LLP"
+framework: decision
 ---
 
 Buka mana-mana perbandingan LLP Malaysia dan anda akan membaca bahawa ia

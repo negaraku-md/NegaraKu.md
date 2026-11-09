@@ -158,6 +158,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["offboarding checklist malaysia", "CP22A deadline", "CP21 form malaysia", "tax clearance letter SPC", "final pay malaysia", "employee exit checklist malaysia", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 การสัมภาษณ์เมื่อออกจากงานเป็นส่วนที่ทุกคนจำได้ การยื่นเอกสารเป็นส่วนที่ก่อให้เกิดค่าปรับ — และหนึ่งในนั้น คือหน้าที่กักเงินเพื่อการปลอดภาษี เป็นเหตุที่เจ้าหน้าที่บัญชีเงินเดือนที่ปล่อยเงินเดือนงวดสุดท้ายตรงเวลาและโดยสุจริตอาจต้องไปอธิบายกับ LHDN

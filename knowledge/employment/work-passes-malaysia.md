@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 There is no Malaysian work visa. There are eight or nine different instruments, run by four different bodies, and the one you need is decided by **who is paying the salary** — not by what the job is called.

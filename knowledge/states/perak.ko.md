@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
+framework: profile
 ---
 
 1874년 1월 20일, 팡코르섬(Pulau Pangkor) 인근 해상에서 한 장의 조약이 서명되었습니다. 그 문서는 영토를 넘기지도, 전쟁을 선포하지도 않았습니다. 그것은 단지 하나의 새로운 직책을 도입했습니다: 그 조언을 반드시 따라야 하는 주재관(Residen)입니다.

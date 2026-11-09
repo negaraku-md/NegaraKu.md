@@ -52,6 +52,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["palm-oil-sector"]
 keywords: ["KDNK Malaysia", "saiz ekonomi Malaysia", "Malaysia GDP", "pertumbuhan ekonomi Malaysia"]
+framework: data-reference
 ---
 
 ## Sekilas pandang

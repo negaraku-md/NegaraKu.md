@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["kadar cukai pegangan Malaysia", "kadar seksyen 109B", "cukai pegangan seksyen 107A", "CP37D", "jadual cukai pegangan Malaysia", "cukai pegangan LHDN"]
+framework: data-reference
 ---
 
 Kadar yang anda perlukan hampir tidak pernah terdapat dalam seksyen yang anda

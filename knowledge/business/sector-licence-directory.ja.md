@@ -74,6 +74,7 @@ keywords:
   - "sector licence Malaysia"
   - "BNM SC MCMC licence"
   - "Malaysian licensing authorities"
+framework: data-reference
 ---
 
 マレーシアの商業ライセンスの総合リストというものは存在しない。MalaysiaBiz は連邦、州、地方の

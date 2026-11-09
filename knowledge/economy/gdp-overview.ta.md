@@ -51,6 +51,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["palm-oil-sector"]
 keywords: ["Malaysia GDP", "Malaysia economy size", "KDNK Malaysia", "Malaysia economic growth"]
+framework: data-reference
 ---
 
 ## ஒரே பார்வையில்

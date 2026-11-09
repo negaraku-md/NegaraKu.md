@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malaysia", "Kuching", "Sarawak oil and gas", "Malaysia Agreement 1963", "Borneo rainforest"]
+framework: profile
 ---
 
 사라왁(Sarawak)은 다른 음조로 연주되는 말레이시아입니다. 토지 면적으로 연방에서 단연 가장 큰 주(州)로, 반도가 아니라 보르네오에 자리하며, 모든 반도 주(州)와 구별되는 독자적 헌법적 지위를 지닙니다.

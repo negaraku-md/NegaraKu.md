@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 En 1996, la Malaisie a délimité une étendue de terres agricoles au sud de Kuala Lumpur et l'a déclarée corridor technologique d'avenir du pays. Près de trois décennies plus tard, près d'un ringgit sur quatre que génère l'économie nationale circule à travers des écrans, des serveurs et des paniers d'achat en ligne. Le trajet entre ces deux points n'a pas été un seul bond — ce fut une série de politiques connectées, chacune corrigeant ou prolongeant la précédente.

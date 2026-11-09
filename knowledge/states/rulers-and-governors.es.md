@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "estado monárquico", "estado sin Gobernante", "Sultán de Malasia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "jefe de estado de Malasia", "Majlis Raja-Raja", "Artículo 71 de la Constitución"]
+framework: explainer
 ---
 
 Malasia tiene 13 estados, pero solo nueve tronos. Los otros cuatro estados están

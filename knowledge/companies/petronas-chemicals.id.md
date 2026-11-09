@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 Hampir setiap karung pupuk yang ditaburkan di ladang Malaysia, dan sebagian besar resin plastik yang dicetak di pabrik-pabrik negara ini, berujung pada satu perusahaan: Petronas Chemicals Group Berhad. Ia adalah lengan kimia dari perusahaan minyak nasional, produsen kimia terintegrasi terbesar di Malaysia, dan — tidak lazim untuk bisnis yang terkait negara — sebuah perusahaan yang tercatat terpisah yang sahamnya dapat dibeli siapa pun.

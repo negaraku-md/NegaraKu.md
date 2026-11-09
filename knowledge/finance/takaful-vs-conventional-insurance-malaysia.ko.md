@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "islamic-financial-services-act-2013" }
 related: ["bank-negara-malaysia"]
 keywords: ["takaful", "conventional insurance", "Shariah compliance", "wakalah", "tabarru", "surplus sharing", "Malaysia insurance"]
+framework: decision
 ---
 
 대부분의 말레이시아 은행 지점에 들어가거나 비교 앱을 열면, 같은 보장 필요 — 의료 카드, 주택담보 보장, 자동차 보험 — 이 나란히 놓인 두 가지 버전으로 나옵니다: 타카풀과 전통 보험입니다. 혜택 페이지에서는 거의 똑같아 보일 수 있습니다. 차이는 상품이 아래에서 어떻게 만들어졌는지에 있습니다.

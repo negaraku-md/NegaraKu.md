@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 ในคืนวันที่ 31 สิงหาคม 1957 เมื่อทำนองเนอการากูถูกบรรเลงเป็นครั้งแรกต่อหน้าสาธารณชนที่ padang สลังงอร์คลับ ทำนองนั้นไม่ใช่สิ่งใหม่ มันได้เป็นเพลงประจำรัฐมลายูรัฐหนึ่งมาหลายทศวรรษก่อนหน้านั้นแล้ว

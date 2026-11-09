@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
+framework: data-reference
 ---
 
 ஆண்டின் தொடக்கத்தில் ஒரு குடும்பப் பயணத்தைத் திட்டமிடுங்கள், உடனே ஒரு விஷயம் புரியும்: கிளந்தானில் உள்ள அண்டை வீட்டுக் குழந்தை, சிலாங்கூரில் உள்ள உங்கள் குழந்தையை விட ஒரு நாள் முன்னதாகப் பள்ளிக்குச் செல்லத் தொடங்குகிறது. அது தவறு அல்ல — மலேசியப் பள்ளி கல்வி நாட்காட்டி வடிவமைக்கப்பட்டிருக்கும் விதம் அதுதான்.

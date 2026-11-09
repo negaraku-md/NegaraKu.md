@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cyberjaya-tech-hub" }
 related: ["mdec-digital-status", "digital-free-trade-zone", "cyberjaya-tech-hub"]
 keywords: ["ekonomi digital malaysia", "sumbangan ict kepada kdnk malaysia", "akaun satelit ict dosm", "gva e-dagang malaysia", "pendapatan e-dagang malaysia", "penembusan internet malaysia", "gvaict"]
+framework: data-reference
 ---
 
 हर बार जब कोई कहता है «मलेशिया की डिजिटल अर्थव्यवस्था RM451 बिलियन की है», तो आँकड़ा सही होता है — लेकिन उसके साथ लगभग कभी यह नहीं बताया जाता कि वह वास्तव में क्या मापता है। यह ऑनलाइन बिक्री नहीं है, न टेक-कंपनी राजस्व, और न ई-कॉमर्स लेनदेन मूल्य। यह एक मूल्य-वर्धन माप है, और तीन अलग-अलग मापों को अक्सर एक के रूप में एक साथ ढेर कर दिया जाता है।

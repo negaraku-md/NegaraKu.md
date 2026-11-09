@@ -118,6 +118,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["secretary-resignation", "secretary-vacancy-30-days", "appoint-company-secretary", "statutory-registers"]
 keywords: ["tukar setiausaha syarikat Malaysia", "senarai semak serah terima setiausaha syarikat", "seksyen 58 Akta Syarikat 2016", "pindah setiausaha syarikat Sdn Bhd", "seksyen 47 dokumen pejabat berdaftar", "tukar firma setiausaha Malaysia"]
+framework: how-to
 ---
 
 Mengganti firma sekretaris tampak seperti tugas administratif tetapi berperilaku seperti

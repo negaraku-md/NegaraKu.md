@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "premier ministre de la Malaisie", "article 43", "nomination du premier ministre", "confiance de la majorité", "yang di-pertuan agong", "jemaah menteri", "chef du gouvernement"]
+framework: explainer
 ---
 
 La Malaisie peut changer de Premier ministre sans qu'un seul vote soit exprimé par le public — parce que la charge n'est pas conférée par les électeurs, mais par le Yang di-Pertuan Agong à celui qui est jugé capable de réunir une majorité au Dewan Rakyat. C'est pourquoi la Malaisie a connu plusieurs changements de Premier ministre entre 2018 et 2022 sans qu'aucune nouvelle élection générale ne le décide au milieu de cette période.

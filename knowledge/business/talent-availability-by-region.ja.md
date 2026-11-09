@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 マレーシアでの立地選定に臨むあらゆる創業者が最初に抱く発想は、クラン・バレーの外に出れば賃金コストが下がる、というものである。データはそれを裏づける——しかし法律は、その節約の大半はあなたが手にできるものではないと告げる。なぜなら、賃金の下限とその上に積み上がるすべての拠出金は、連邦レベルで定められているからである。

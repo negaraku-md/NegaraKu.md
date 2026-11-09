@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 อาหาร Peranakan คืออาหารหัวใจของ Penang และบนถนน Jalan Pintal Tali ครัวเล็ก ๆ แห่ง

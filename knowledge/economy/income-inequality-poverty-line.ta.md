@@ -92,6 +92,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 நீங்கள் ஒருமுறை ஒரு மானியப் படிவத்தில் "B40" அல்லது "T20" எனச் சிட்டையிடப்பட்டிருக்கலாம் — ஆனால் அந்தச் சிட்டை உங்கள் சம்பளம் அல்ல. அது மலேசிய புள்ளிவிவரத் திணைக்களம் (Department of Statistics Malaysia, DOSM) ஏற்பாடு செய்யும் ஒரு வரிசையில் உங்கள் இடம்; புதிய தரவு வரும் ஒவ்வொரு முறையும் அந்த வரிசை மீண்டும் வரையப்படுகிறது. அந்த வரி எவ்வாறு வரையப்படுகிறது என்பதைப் புரிந்துகொள்வது மலேசியாவில் வாழ்க்கைச் செலவு பற்றிய கிட்டத்தட்ட ஒவ்வொரு விவாதத்தையும் நீங்கள் படிக்கும் விதத்தை மாற்றுகிறது.

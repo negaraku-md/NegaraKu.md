@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "Pemilihan MICHELIN Guide Kuala Lumpur & Penang disemak setiap tahun; profil ini mencerminkan edisi 2026 (diumumkan November 2025). Edisi yang lebih baharu — contohnya senarai 2027 — mungkin menambah, menggugurkan atau menyusun semula kedudukan restoran ini, jadi sahkan semula status Bib Gourmand semasanya di guide.michelin.com sebelum bergantung padanya."
   - "Pengendalian tempahan dan waktu operasi berbeza antara penyenaraian lokal MICHELIN (ada yang mengatakan restoran menguruskan tempahannya sendiri, ada yang mengatakan tempahan tidak tersedia dalam talian) — sahkan terus dengan restoran sebelum melawat."
+framework: profile
 ---
 
 Hainanese chicken rice ialah salah satu ujian senyap sebuah dapur Malaysia: ayam

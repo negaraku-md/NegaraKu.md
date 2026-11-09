@@ -120,6 +120,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["new hire checklist malaysia", "cp22 malaysia", "register employee epf socso", "onboarding compliance malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 一次聘用、四个当局、六个时钟。它们没有一个是从聘书日期开始走的——它们从**受雇

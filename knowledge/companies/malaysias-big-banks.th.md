@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
+framework: profile
 ---
 
 เรียงชื่อห้าชื่อที่ครอบงำถนนสายหลักแทบทุกสายของมาเลเซีย ได้แก่ Maybank, CIMB, Public Bank, RHB และ Hong Leong แล้วคุณกำลังมองแกนกลางของระบบธนาคารที่เคลียร์เงินเดือน สินเชื่อบ้าน และการค้าของประเทศ ทั้งหมดจดทะเบียนบริษัทในมาเลเซีย ทั้งหมดจดทะเบียนใน Bursa Malaysia และทั้งหมดได้รับใบอนุญาตจากธนาคารกลางเดียวกัน นอกเหนือจากนั้น พวกเขาแตกต่างกันอย่างชัดเจน: หนึ่งแคระที่เหลือในแง่ขนาด บางแห่งมีรัฐบาลเป็นแกนหลักอย่างแท้จริง และสองแห่งยังคงถูกนำโดยตระกูลที่ก่อตั้งพวกเขา

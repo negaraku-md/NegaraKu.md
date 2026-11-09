@@ -93,6 +93,7 @@ verificationNeeded:
   - "Tahun edisi: akhbar Malaysia merujuk kepada edisi MICHELIN Guide Kuala Lumpur & Penang 2027 (dilaporkan diumumkan pada 4 November 2026), manakala edisi rasmi terkini yang boleh disahkan secara bebas ialah 2026 — sahkan edisi mana yang menyenaraikan kedai ini terhadap laman pemilihan rasmi."
   - "Waktu operasi (disenaraikan 12:00–22:00, tutup Khamis) datang daripada senarai MICHELIN dan boleh berubah — sahkan di tempat sebelum pergi."
   - "Penerangan MICHELIN menumpu pada kuah, daging babi panggang dan sos cili dan tidak menggambarkan darah itik itu sendiri; sahkan tawaran pelengkap darah itik semasa terus dengan kedai jika itulah tarikannya."
+framework: profile
 ---
 
 Namanya menjanjikan darah itik — pelengkap curry mee tradisional — tetapi apa yang

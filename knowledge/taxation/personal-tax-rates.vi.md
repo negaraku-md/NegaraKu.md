@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["personal income tax rate Malaysia", "kadar cukai individu", "tax bracket Malaysia", "LHDN tax rate table", "non-resident tax rate Malaysia 30", "individual tax rate YA2025"]
+framework: data-reference
 ---
 
 Các thuế suất áp dụng cho **thu nhập chịu thuế** — tổng thu nhập trừ đi các chi phí

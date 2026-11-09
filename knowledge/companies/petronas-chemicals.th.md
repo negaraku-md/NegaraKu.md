@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 ปุ๋ยเกือบทุกถุงที่โปรยบนไร่นาของมาเลเซีย และเรซินพลาสติกส่วนใหญ่ที่หล่อขึ้นในโรงงานของประเทศ ล้วนสืบย้อนกลับไปถึงบริษัทหนึ่ง: Petronas Chemicals Group Berhad มันเป็นแขนงเคมีภัณฑ์ของบริษัทน้ำมันแห่งชาติ เป็นผู้ผลิตเคมีภัณฑ์แบบบูรณาการที่ใหญ่ที่สุดในมาเลเซีย และ — ซึ่งผิดปกติสำหรับธุรกิจที่เชื่อมโยงกับรัฐ — เป็นบริษัทที่จดทะเบียนแยกต่างหากที่ใครก็ซื้อหุ้นได้

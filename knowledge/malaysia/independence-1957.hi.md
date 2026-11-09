@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
+framework: history-culture
 ---
 
 31 अगस्त 1957 को आधी रात के कुछ मिनट बाद, कुआलालंपुर में पुराने Selangor Club के सामने पडांग (padang) पर, यूनियन जैक (Union Jack) उतारा गया और नए मलाया संघ का झंडा फहराया गया। यही वह छवि है जो अधिकांश लोग मेरदेका की अपने मन में रखते हैं — लेकिन स्वतंत्रता का असली काम महीनों पहले ही पूरा हो चुका था, लंदन और कुआलालंपुर के समिति-कक्षों में, ऐसे लोगों द्वारा जो एक ऐसे संविधान की धाराओं पर बातचीत कर रहे थे जो एक साल पहले अस्तित्व में ही नहीं था।

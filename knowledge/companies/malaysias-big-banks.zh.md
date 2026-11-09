@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
+framework: profile
 ---
 
 把几乎主宰马来西亚每一条大街的五个名字并排放在一起——马来亚银行、联昌国际、大众银行、兴业银行与丰隆银行——你看到的就是一个银行体系的核心，它为这个国家结算工资、房贷与贸易款项。它们全都在马来西亚注册成立，全都在马来西亚交易所（Bursa Malaysia）上市，也全都由同一家中央银行颁发牌照。除此之外，它们的差异极为鲜明：一家在规模上让其余四家相形见绌，有些实际上以政府为核心支撑，还有两家至今仍由创办它们的家族掌舵。

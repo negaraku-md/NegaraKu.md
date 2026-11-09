@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 数十年来，每一本参考书给出的数字都相同：马来西亚最高峰京那巴鲁山，海拔4,101米。然后在1997年，一支测量队将卫星而非经纬仪对准了峰顶，数字变了。不是四舍五入的误差——而是整整六米。这座山并没有变矮。旧的测量本来就是错的，只是在GPS令这一修正成为可能之前，没有人有工具证明这一点。

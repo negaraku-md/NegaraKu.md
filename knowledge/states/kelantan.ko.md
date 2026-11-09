@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
+framework: profile
 ---
 
 말레이시아 경제는 보통 공장을 통해 이야기됩니다. 클란탄(Kelantan)은 가장 뚜렷한 예외입니다: 제조업은 2025년 이 주(州) 국내총생산의 4.7%만을 차지했는데 — 13개 주(州) 가운데 가장 낮은 비중 — 농업은 거의 5분의 1을 차지했습니다.

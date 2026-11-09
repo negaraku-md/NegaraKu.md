@@ -110,6 +110,7 @@ keywords:
   - "LLP tax Malaysia"
   - "LLP audit requirement Malaysia"
   - "compliance officer LLP"
+framework: decision
 ---
 
 Mở bất kỳ so sánh nào về LLP của Malaysia và bạn sẽ đọc thấy rằng nó «kết hợp trách nhiệm hữu hạn

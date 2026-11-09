@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN Guide 版本年份：本篇不将 Bib Gourmand 绑定于单一版本，因为该遴选每年重新评估。撰写时最新出版的版本是 MICHELIN Guide Kuala Lumpur & Penang 2026——在 MICHELIN 发布 2027 版之前，切勿声称有 2027 版。请在 guide.michelin.com 上确认 Nirwana 在现行版本中仍持有 Bib Gourmand。"
   - "MICHELIN 条目「Nirwana」与「Sri Nirwana Maju」品牌／网站（srinirwanamaju.com）之间的关系——MICHELIN 将该条目命名为位于 43 Jalan Telawi 3 的「Nirwana」，却链接到 Sri Nirwana Maju 的网站。请确认两者为同一家店以及当前的营业名称。"
   - "营业时间（MICHELIN 列出每天 11:30–23:00）——在发布旅游指引前请向餐馆核实。"
+framework: profile
 ---
 
 在 **Nirwana** 点一份午间套餐，它上桌的样子正是香蕉叶饭该有的模样：一片油亮的叶子平

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "Sime Darby demerger", "Permodalan Nasional Berhad", "UMW Holdings", "Bursa Malaysia conglomerate"]
+framework: profile
 ---
 
 மலேசியாவின் மிகப் பழமையான கார்ப்பரேட் பெயர்களில் ஒன்று இப்போது ஒரு நிறுவனம் அல்ல, மூன்று நிறுவனங்கள்.

@@ -76,6 +76,7 @@ faq:
     a: Tidak. UPU (Unit Pusat Universiti), sistem daring terpusat Kementerian Pendidikan Tinggi, hanya mencakup universitas negeri, institusi MARA, politeknik, dan kolese komunitas. Institusi swasta (IPTS) sepenuhnya berada di luar UPU dan harus didaftar secara langsung; masing-masing menjalankan kantor penerimaannya sendiri, menetapkan syarat masuknya sendiri per program, dan dapat memberikan tawaran dalam hitungan hari, sering kali menerima UEC, A-Level, IB, dan kualifikasi lain di samping SPM dan STPM.
   - q: Suatu program hanya "terakreditasi sementara" — apakah itu berarti ia tidak terakreditasi?
     a: Tidak. Berdasarkan Kode Praktik Akreditasi Program MQA, Akreditasi Sementara memastikan bahwa suatu program telah memenuhi persyaratan mutu minimum untuk ditawarkan secara sah, dan itu sendiri merupakan syarat bagi persetujuan Kementerian. Akreditasi Penuh adalah penilaian yang lebih menyeluruh yang dilakukan setelah angkatan pertama menyelesaikan program tersebut. Program yang terakreditasi sementara adalah sah dan dapat ditawarkan secara sah; ia hanya belum menyelesaikan penilaian siklus penuh.
+framework: explainer
 ---
 
 Dua orang pelajar dengan hasil SPM yang sama dapat berakhir dalam dua sistem

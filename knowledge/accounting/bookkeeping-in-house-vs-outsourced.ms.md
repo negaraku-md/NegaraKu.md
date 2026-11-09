@@ -66,6 +66,7 @@ relations:
   - { rel: "affects", to: "mbrs-2-filing-guide" }
 related: ["sdn-bhd-bookkeeping", "accounting-records-section-245", "mbrs-2-filing-guide", "mbrs-tagging-errors", "financial-reporting-deadlines", "epf-socso-guide", "hrd-corp-levy-malaysia", "accounting-software-malaysia"]
 keywords: ["pembukuan dalaman vs outsource Malaysia", "kos mengambil jurubuku Malaysia", "perakaunan outsource Sdn Bhd", "kos EPF SOCSO EIS majikan", "yuran pembukuan Malaysia"]
+framework: decision
 ---
 
 Cari soalan ini dan setiap keputusan carian ditulis oleh sebuah firma

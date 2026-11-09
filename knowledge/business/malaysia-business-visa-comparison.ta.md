@@ -103,6 +103,7 @@ keywords:
   - "employment pass vs MM2H"
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
+framework: decision
 ---
 
 இந்த ஒவ்வொரு திட்டத்தின் பின்னும் இருக்கும் கேள்வி ஒன்றுதான்: **இந்த விசாவில் நான்

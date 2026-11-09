@@ -85,6 +85,7 @@ keywords:
   - "MSIC 2008"
   - "nature of business SSM"
   - "how to choose MSIC code"
+framework: data-reference
 ---
 
 MSIC 코드를 고르는 데는 약 90초가 걸리지만, 앞으로 10년간 당신이 상대하는 모든 기관이 그것을 읽게 됩니다.

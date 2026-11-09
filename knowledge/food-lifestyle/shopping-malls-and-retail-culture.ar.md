@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["مراكز التسوّق في ماليزيا", "shopping malls Malaysia", "ثقافة التجزئة", "تسعير SST", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "التنزيلات الكبرى في ماليزيا"]
+framework: data-reference
 ---
 
 في عصر يوم سبت في وادي كلانغ، يمكن أن يستوعب مركز تسوّق ضخم واحد أشخاصًا أكثر من بعض البلدات الصغيرة — وكثير منهم ليسوا هناك للتسوّق وحده. فمراكز التسوّق الماليزية تؤدّي أيضًا دور ساحات المدن المكيّفة: أماكن للأكل ومشاهدة فيلم والتزلّج على الجليد والصلاة في المصلّى (surau) وترك الأطفال يركضون في مدينة ألعاب داخلية. وفهم التجزئة هنا يعني فهم هذا المدى، من المركز العملاق إلى سوق الليل المكشوف.

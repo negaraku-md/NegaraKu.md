@@ -87,6 +87,7 @@ verificationNeeded:
   - "Senarai pilihan MICHELIN Guide disemak semula setiap tahun; profil ini mencerminkan status yang ditunjukkan dalam penyenaraian semasa dan patut disemak semula selepas setiap edisi baharu."
   - "Sumber bercanggah tentang ketua dapur: penyenaraian MICHELIN dan sebahagian liputan mengiktiraf cef Belanda Sidney Schutte (dari Spectrum dua-Star di Amsterdam) dengan konsep itu, manakala liputan lain menamakan Guillaume Depoortere sebagai ketua cef — sahkan peranan semasa sebelum mengaitkan hidangan dengan cef yang dinamakan."
   - "Edisi yang mana Molina mula-mula menerima Star-nya (liputan sekunder menunjukkan senarai pilihan yang diumumkan pada November 2024) patut disahkan terhadap rekod MICHELIN."
+framework: profile
 ---
 
 Molina ialah sebuah restoran fine dining inovatif yang bertenggek di tingkat 51

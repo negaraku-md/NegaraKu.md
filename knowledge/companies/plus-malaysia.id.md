@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "kwsp" }
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
+framework: profile
 ---
 
 Setiap kali Anda berkendara dari Bukit Kayu Hitam di utara ke Johor Bahru di selatan tanpa berhenti di lampu lalu lintas, Anda sebenarnya melintasi aset sebuah perusahaan: PLUS Malaysia Berhad. Ia bukan lembaga pemerintah, tetapi juga bukan perusahaan swasta biasa — ia sebuah pemegang konsesi yang menjalankan tulang punggung jalan raya negara di bawah perjanjian jangka panjang dengan pemerintah.

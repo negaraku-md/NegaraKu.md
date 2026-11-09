@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "socso-eis-employer-guide" }
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["pekerja vs kontraktor malaysia", "kontraktor bebas malaysia", "pengelasan pekerja malaysia", "contract for service vs contract of service", "pengelasan pekerja gig malaysia"]
+framework: explainer
 ---
 
 Hingga 31 Maret 2026, ini adalah pertanyaan biner di Malaysia: contract **of** service,

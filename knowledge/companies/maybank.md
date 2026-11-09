@@ -76,6 +76,7 @@ verificationNeeded:
   - "Headcount (~43,000) and branch count (~2,600) — change over time."
   - "Shareholding percentages for PNB-managed funds and EPF — change with each Bursa Malaysia filing."
   - "Number of countries of operation (all ten ASEAN states plus global financial centres) — may change."
+framework: profile
 ---
 
 Open a current account almost anywhere in Malaysia and there is a good chance it carries the tiger's-head logo of Maybank. Malayan Banking Berhad is the country's largest bank — by the assets on its balance sheet and by what the stock market says it is worth — and one of the biggest banking groups in Southeast Asia. This profile sets out what the group does, where it operates and who owns it.

@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 Une entreprise qui a débuté en vendant des gaz industriels cultive désormais assez de palmier à huile pour remplir une réserve foncière de la taille d'un petit district, et transforme ces fruits en tout, de l'huile de cuisine aux acides gras à l'intérieur de votre savon.

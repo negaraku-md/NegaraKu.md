@@ -48,6 +48,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "ssm", "sdn-bhd"]
 keywords: ["annual return Malaysia", "pemulangan tahunan", "SSM filing", "company compliance Malaysia"]
+framework: explainer
 ---
 
 **बहासा मलेशिया:** Pemulangan Tahunan · **अंग्रेज़ी:** Annual Return · **चीनी:** 常年申报表

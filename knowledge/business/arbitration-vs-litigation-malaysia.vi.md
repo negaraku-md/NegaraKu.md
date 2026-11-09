@@ -84,6 +84,7 @@ keywords:
   - "AIAC arbitration rules 2026"
   - "arbitration clause Malaysia drafting"
   - "setting aside arbitral award Malaysia section 37"
+framework: decision
 ---
 
 Điều khoản trọng tài thường là điều khoản được đàm phán sau cùng và là điều khoản đầu tiên

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
+framework: profile
 ---
 
 ในปี 2024 ผลิตภัณฑ์ไฟฟ้า อิเล็กทรอนิกส์ และออปติกมีสัดส่วน 51.1 เปอร์เซ็นต์ของมูลค่าเพิ่มในภาคการผลิตของเกอดะฮ์ ส่วนข้าวมีสัดส่วนหนึ่งใน 10.6 เปอร์เซ็นต์ของ GDP ของรัฐที่มาจากเกษตรกรรม

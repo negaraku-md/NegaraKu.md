@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan bandar diraja", "Sultan Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "daerah Pahang", "KDNK Pahang"]
+framework: profile
 ---
 
 파항(Pahang)은 말레이시아 반도 육지의 4분의 1 이상을 차지하지만, 말레이시아인 20명 가운데 겨우 한 명만이 그곳에 삽니다.

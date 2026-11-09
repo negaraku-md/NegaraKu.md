@@ -83,6 +83,7 @@ verificationNeeded:
   - "Année de l'édition du MICHELIN Guide : le Bib Gourmand est réévalué chaque année et ce profil ne le rattache pas à une édition précise. L'édition la plus récente publiée au moment de la rédaction est le MICHELIN Guide Kuala Lumpur & Penang 2026 — N'indiquez PAS d'édition 2027 tant que MICHELIN ne l'a pas publiée. Confirmez que l'établissement détient toujours le Bib Gourmand dans l'édition en cours sur guide.michelin.com."
   - "Détails de fondation et de succession : MICHELIN indique que le savoir-faire remonte à 1933 et que la cuisine actuelle est tenue par Madame Teoh Kheng Sim (belle-fille du fondateur Moh Teng Pheow) avec ses enfants ; une histoire d'origine souvent répétée au sujet d'un 'fondateur immigrant de 14 ans' n'est pas corroborée. Confirmez l'histoire familiale auprès d'une source primaire ou patrimoniale avant de la développer."
   - "Horaires d'ouverture (MICHELIN indique 10:00–17:00 tous les jours) — vérifiez, car les boutiques de kueh ferment souvent tôt une fois les stocks écoulés."
+framework: profile
 ---
 
 Suivez Jalan Masjid, près de Lebuh Chulia, et vous arrivez à une cuisine de

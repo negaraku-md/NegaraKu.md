@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 Nằm nép trong một dãy nhà phố (shophouse) trên đường Lebuh Carnarvon, Teksen là

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 当马来西亚半岛依赖国家能源有限公司（Tenaga Nasional Berhad）时，砂拉越却由一家公用事业点亮自己的灯火——它的电网完全不与国家电网相连，而且几乎全部电力都由内陆巨型水坝的落水发电而来。

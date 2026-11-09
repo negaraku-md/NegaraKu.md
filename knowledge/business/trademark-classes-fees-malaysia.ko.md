@@ -78,6 +78,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["trademark classes malaysia", "nice classification malaysia", "myipo trademark fees", "trademark fee per class malaysia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 말레이시아 상표의 비용을 결정하는 것은 출원이 아니라 류의 개수입니다. 아래의 모든

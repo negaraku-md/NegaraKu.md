@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaysia", "EIU Worldwide Cost of Living", "cheapest cities Southeast Asia", "expat cost of living Malaysia"]
+framework: data-reference
 ---
 
 ถามที่ปรึกษาด้านการย้ายถิ่นว่าควรส่งพนักงานไปประจำที่ไหนด้วยงบจำกัดในเอเชีย แล้วกัวลาลัมเปอร์ (Kuala Lumpur) ก็จะปรากฏขึ้นเรื่อย ๆ — ไม่ใช่เพราะการสำรวจยกยอมัน แต่เพราะตัวเลขวางมันไว้ใกล้ท้ายตารางต้นทุนจริง ๆ เมืองที่เป็นหลักยึดของมาเลเซียเป็นหนึ่งในไม่กี่ที่ที่ได้คะแนนทั้งถูก*และ*น่าอยู่ในเวลาเดียวกัน

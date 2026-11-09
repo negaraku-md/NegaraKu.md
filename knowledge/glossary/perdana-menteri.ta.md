@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 மலேசியா ஒரு பொது வாக்கு கூடப் பதிவாகாமல் தன் பிரதமரை மாற்ற முடியும் — ஏனெனில் இந்தப் பதவி வாக்காளர்களால் வழங்கப்படுவதல்ல, மாறாக Dewan Rakyat (மக்கள் மன்றம்) இன் பெரும்பான்மையைத் திரட்டும் ஆற்றல் உள்ளவர் எனக் கருதப்படும் ஒருவருக்கு Yang di-Pertuan Agong (மலேசியாவின் அரசர்) ஆல் வழங்கப்படுகிறது. அதனால்தான் 2018 முதல் 2022 வரையிலான காலகட்டத்தில், அந்த இடைப்பட்ட காலத்தில் அதைத் தீர்மானிக்க ஒரு புதிய பொதுத் தேர்தல் கூட நடைபெறாமல், மலேசியா பல முறை பிரதமர் மாற்றத்தைக் கண்டது.

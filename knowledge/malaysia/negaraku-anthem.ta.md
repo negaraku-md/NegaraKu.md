@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 1957 ஆகஸ்ட் 31 இரவில், Negaraku-வின் இசை முதன்முறையாக பொதுமக்கள் முன்னிலையில் Padang Kelab Selangor-இல் இசைக்கப்பட்டபோது, அந்த இசை புதிதான ஒன்றல்ல. அதற்குச் சில பத்தாண்டுகளுக்கு முன்பே அது ஒரு மலாய் மாநிலத்தின் மாநில கீதமாக (lagu kebesaran) இருந்து வந்திருந்தது.

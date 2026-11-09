@@ -83,6 +83,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["financiación de pymes Malasia", "sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "financiación SME Bank", "subvención Cradle Malasia", "financiación tekun", "préstamo gubernamental pyme Malasia"]
+framework: data-reference
 ---
 
 La mayoría de los directorios de financiación para pymes son una lista de nombres de esquemas recolectados de notas

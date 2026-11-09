@@ -89,6 +89,7 @@ verificationNeeded:
   - "MICHELIN Guide の選定は毎年見直される。これを頼りにする前に、最新の MICHELIN Guide Kuala Lumpur & Penang 版で Sin Kiew Yee Shin Kee がまだ Bib Gourmand を保持しているか確認すること。"
   - "版年の表記は情報源によって一致していない——現行の選定を 2027 年版とするものもあれば、最新のリストを 2026 年とする資料もある。正しい版年を公式の MICHELIN Guide 授賞式の発表と照合して確認すること。"
   - "1949 年という創業年は MICHELIN の掲載情報の要約に由来する。二次的な店舗情報サイトはこれを繰り返しているが、一次史料は見つからなかった。"
+framework: profile
 ---
 
 Sin Kiew Yee Shin Kee Beef Noodles は、クアラルンプールの旧市街中心部の真ん中にある

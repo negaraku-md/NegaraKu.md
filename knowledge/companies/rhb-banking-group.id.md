@@ -76,6 +76,7 @@ verificationNeeded:
   - "Jumlah cabang (lebih dari 200 di Malaysia) dan jumlah karyawan (angka yang dilaporkan berkisar sekitar 13.000 hingga 14.000) — konfirmasikan dengan laporan tahunan terbaru."
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
+framework: profile
 ---
 
 RHB adalah salah satu nama yang dikenali sebagian besar warga Malaysia di cabang bank, kartu ATM, atau brosur kredit pemilikan rumah — namun kelompok di baliknya menjangkau jauh melampaui perbankan ritel, hingga ke keuangan syariah, perbankan investasi, asuransi, dan pasar di seluruh Asia Tenggara. Halaman ini adalah gambaran netral dan faktual tentang apa itu RHB Banking Group, bagaimana strukturnya, siapa pemiliknya, dan mengapa ia penting.

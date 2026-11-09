@@ -92,6 +92,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 Bạn có lẽ đã từng bị dán nhãn «B40» hoặc «T20» trên một tờ đơn trợ giá — nhưng nhãn đó không phải là lương của bạn. Nó là vị trí của bạn trong một hàng được Cục Thống kê Malaysia (DOSM) sắp xếp, và hàng đó được vẽ lại mỗi khi có dữ liệu mới. Hiểu cách vẽ ra đường ranh đó thay đổi cách bạn đọc gần như mọi cuộc tranh luận về chi phí sinh hoạt ở Malaysia.

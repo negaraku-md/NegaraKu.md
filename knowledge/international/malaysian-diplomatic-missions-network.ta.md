@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["Malaysian embassies", "Malaysia high commissions", "Malaysian consulate", "Wisma Putra missions", "Malaysia diplomatic missions abroad", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 Lima-வில் உங்கள் கடவுச்சீட்டை இழந்தாலும், Doha-வில் கைது செய்யப்பட்டாலும்,

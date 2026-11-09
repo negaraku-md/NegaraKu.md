@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "income-tax-individuals" }
 related: ["johor", "doing-business-johor-bahru", "income-tax-individuals"]
 keywords: ["Johor Bahru cost of living", "تكاليف المعيشة في جوهور بهرو", "Johor Bahru Singapore exchange rate", "RTS Link Johor Bahru Singapore", "الحد الأدنى للأجور في ماليزيا RM1700", "سعر صرف الرينغيت والدولار السنغافوري", "Johor Bahru salary vs Singapore"]
+framework: data-reference
 ---
 
 يمكن لعامل يتقاضى الحد الأدنى الوطني الكامل للأجور في ماليزيا، RM1,700 شهريًا، أن يعيش على بُعد شارعين من جار يجني ما يعادل RM4,000 أو أكثر عن عمل يوم مماثل — المدينة نفسها، والسوق الرطبة نفسها، وسجل الإيجار نفسه للغرفة المجاورة. لا شيء في اقتصاد جوهور بهرو نفسه يفسّر تلك الفجوة. فالجار يتقاضى أجره بالدولار السنغافوري.

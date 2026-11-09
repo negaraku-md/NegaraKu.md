@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["paragraphe d'observation Malaisie", "questions clés de l'audit Malaisie", "emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph"]
+framework: explainer
 ---
 
 Un prêteur appelle pour dire que les comptes sont assortis d'une réserve. Ils ne le sont pas. Le rapport comporte un paragraphe supplémentaire, une opinion propre, et une phrase à la fin de ce paragraphe qui le dit.

@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "climate-and-biodiversity" }
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
+framework: profile
 ---
 
 ก่อนที่จะมีทางหลวงแพนบอร์เนียว (Lebuhraya Pan Borneo) หรือเที่ยวบิน MASwings วิธีเดียวที่จะไปถึงพื้นที่ตอนในของซาราวักคือการล่องแม่น้ำหลายวัน เมืองใหญ่ในปัจจุบัน คือ ซีบู กาปิต ซันดากัน เปกัน ไม่ได้มีอยู่โดยบังเอิญในตำแหน่งของแต่ละเมือง แต่ละเมืองตั้งอยู่ในที่ที่แม่น้ำกำหนด คือ ที่ปากแม่น้ำ ที่ชุมทางบรรจบของแม่น้ำสองสาย หรือที่จุดไกลที่สุดที่เรือยังล่องขึ้นได้ แม่น้ำสามสาย คือ ราจัง คินาบาตางัน และปาหัง แสดงรูปแบบนี้ชัดเจนที่สุด

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 Sebuah resor puncak gunung yang sejuk sekitar satu jam dari Kuala Lumpur adalah satu-satunya tempat di Malaysia di mana sebuah kasino dapat membagikan kartu secara sah. Lisensi yang tunggal dan luar biasa itu — sah bagi non-Muslim, namun berjalan beriringan dengan pengharaman perjudian bagi Muslim di bawah hukum Islam — terletak di inti Genting, salah satu konglomerat lokal terbesar Malaysia.

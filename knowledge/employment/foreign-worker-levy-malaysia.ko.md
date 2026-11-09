@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["hiring-foreign-workers-malaysia"]
 keywords: ["foreign worker levy malaysia", "levi pekerja asing", "multi tier levy", "mtlm", "levy rates by sector", "plks levy sabah sarawak"]
+framework: data-reference
 ---
 
 이 주제를 조사하기 어렵게 만드는 것에서 시작하겠습니다. **외국인 근로자 부담금 법령이란 존재하지

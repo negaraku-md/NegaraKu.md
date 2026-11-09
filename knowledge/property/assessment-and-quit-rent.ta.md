@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 பல புதிய வீட்டு உரிமையாளர்கள் தாங்கள் இருப்பதாகவே எதிர்பார்க்காத இரண்டாவது பில்லைப் பெறும்போது அதிர்ச்சியடைகிறார்கள். அவர்கள் இந்த ஆண்டு ஏற்கனவே "நில வரி" செலுத்திவிட்டார்கள் — அப்படியிருக்க நகர மன்றம் ஏன் கோரிக்கை அறிவிப்பு அனுப்புகிறது?

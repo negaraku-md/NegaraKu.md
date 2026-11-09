@@ -77,6 +77,7 @@ keywords:
   - "école secondaire privée Malaisie"
   - "Unified Examination Certificate"
   - "division de l'éducation privée Malaisie"
+framework: explainer
 ---
 
 Demandez à un parent malaisien ce qu'est une « école privée », et il pourrait

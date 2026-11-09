@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 Before any major national party existed, the Malay movement began in school halls, in the pages of newspapers, and in the meeting rooms of small state associations. Between the 1930s and the end of the Second World War, it was these currents that slowly emerged into a political force that, in 1946, was able to unite Malays against a single British policy.

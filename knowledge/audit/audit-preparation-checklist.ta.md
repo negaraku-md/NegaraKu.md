@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["audit preparation checklist Malaysia", "PBC list audit", "audit request list Sdn Bhd", "MFRS 124 related party disclosure", "director account audit Malaysia", "intercompany reconciliation audit"]
+framework: how-to
 ---
 
 கோரிக்கை பட்டியல் ஒரு நிர்வாக ஆவணம் போலத் தோன்றுகிறது. அது அல்ல. அது தணிக்கைத்

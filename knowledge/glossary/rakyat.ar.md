@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "merdeka" }
 related: ["dewan-rakyat", "federal-constitution", "merdeka"]
 keywords: ["رعية", "معنى rakyat", "rakyat مقابل warganegara", "المواطن الماليزي", "قاموس ديوان", "rakyat", "warganegara", "Dewan Rakyat", "Rukun Negara"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Rakyat · **English:** The people / populace · **中文:** 人民

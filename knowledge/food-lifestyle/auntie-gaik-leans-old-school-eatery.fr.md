@@ -94,6 +94,7 @@ verificationNeeded:
   - "L'étiquette de l'année d'édition affichée sur la fiche MICHELIN en ligne du restaurant peut différer du « 2026 » utilisé dans la couverture de la cérémonie MICHELIN ; l'étoile a été décernée pour la première fois lors de la sélection inaugurale de 2022 et conservée depuis. Les sélections sont révisées chaque année — confirmez la distinction actuelle sur la page officielle."
   - "L'âge exact de la cheffe Beh Gaik Lean au moment du prix est rapporté de diverses manières (les sources citent 69 et 70 ans, avec une année de naissance de 1952 ou 1953) ; l'affirmation de « première femme malaisienne à recevoir une étoile MICHELIN » provient de la presse secondaire — vérifiez-la auprès d'une source primaire avant de l'affirmer de façon catégorique."
   - "La fiche MICHELIN indique que le gulai tumis utilise du « fresh saffron » (safran frais) parmi ses épices ; il pourrait s'agir d'une formulation désignant le curcuma frais (kunyit) plutôt que du véritable safran — à confirmer auprès du restaurant. Les horaires d'ouverture et le niveau de prix devraient aussi être confirmés directement."
+framework: profile
 ---
 
 Auntie Gaik Lean's Old School Eatery est un restaurant doté d'une étoile MICHELIN à George Town, Penang, qui propose une cuisine peranakan (nyonya) à partir de recettes familiales jalousement gardées. Il est tenu par sa cheffe autodidacte et éponyme, Beh Gaik Lean.

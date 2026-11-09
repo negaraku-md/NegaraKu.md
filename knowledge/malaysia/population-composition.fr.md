@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 Le DOSM ne publie pas de chiffre appelé « Malaisiens ». Il publie les citoyens et les non-citoyens comme deux décomptes distincts, répartit les citoyens en cinq catégories ethniques nommées, puis divise l'une de ces catégories — « Autres Bumiputera » — en groupes de Sabah et de Sarawak rapportés séparément, chacun avec ses propres sous-groupes nommés. Le mot « Bumiputera » lui-même n'apparaît jamais comme une ligne unique dans les tableaux de données sous-jacents du DOSM ; c'est quelque chose que l'on additionne à partir de deux lignes, Malais et Autres Bumiputera, après coup.

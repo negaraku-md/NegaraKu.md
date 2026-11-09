@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "كازينو ماليزيا", "قانون القمار ماليزيا", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 منتجع بارد على قمة جبل يبعد ساعة عن كوالالمبور هو المكان الوحيد في ماليزيا الذي يمكن فيه لكازينو أن يوزِّع أوراق اللعب بصفة قانونية. تلك الرخصة الفريدة غير المألوفة — القانونية لغير المسلمين، والقائمة في الوقت نفسه جنبًا إلى جنب مع حظر شرعي للقمار على المسلمين — تقع في صميم Genting، أحد أكبر التكتلات المحلية في ماليزيا.

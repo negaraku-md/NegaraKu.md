@@ -101,6 +101,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "Công ty và mọi cán bộ phạm một tội"
+framework: how-to
 ---
 
 Không ai thay đổi kiểm toán viên vì một lý do trung lập. Hoặc là mức phí đã thay đổi, tập đoàn tái cơ cấu, mối quan hệ đổ vỡ, hoặc ai đó không thích các câu hỏi được đặt ra. Luật Công ty (Companies Act 2016) giả định điều cuối cùng trong số đó và xây dựng toàn bộ thủ tục xoay quanh việc cho kiểm toán viên rời đi một kênh để nói ra điều đó — với các thành viên, và với Cơ quan Đăng ký.

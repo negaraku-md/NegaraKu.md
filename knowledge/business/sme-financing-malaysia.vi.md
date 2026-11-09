@@ -82,6 +82,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "sme bank financing", "cradle grant malaysia", "tekun financing", "government loan sme malaysia"]
+framework: data-reference
 ---
 
 Hầu hết các danh bạ cấp vốn SME là một danh sách các tên chương trình thu lượm từ các thông cáo báo chí,

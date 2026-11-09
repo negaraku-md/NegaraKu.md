@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "self-billed-e-invoice" }
 related: ["e-invoicing", "myinvois-phases", "myinvois-integration", "self-billed-e-invoice", "consolidated-e-invoice"]
 keywords: ["e-Invoice data fields", "55 fields e-Invoice", "MyInvois mandatory fields", "e-Invoice validation error", "UBL 2.1 Malaysia", "medan data e-invois"]
+framework: data-reference
 ---
 
 거부된 모든 제출은 두 가지 중 하나로 귀결됩니다. LHDN이 필수로 취급하지만 귀사 ERP가 선택으로 취급하는 필드, 또는 LHDN 목록에 없는 코드 값입니다. 이 페이지는 전자송장 지침(e-Invoice Guideline) 버전 4.7의 부록 1과 2에 공표된 대로의 필드 목록입니다.

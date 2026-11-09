@@ -87,6 +87,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["stamp duty rates Malaysia", "First Schedule Stamp Act 1949", "property transfer stamp duty", "share transfer stamp duty 0.3%", "tenancy agreement stamp duty", "kadar duti setem"]
+framework: data-reference
 ---
 
 印紙税は**取引ではなく法律文書**に対して課される。同一の商取引であっても、何に署名したか、そしてFirst Schedule（第一附則）のどの項目に該当するかによって、税額はゼロのこともあれば、RM10のこともあれば、六桁になることもある。項目を正しく特定することがこの作業のすべてであり——自己評価制度のもとでは、それは今や徴収官（Collector of Stamp Duties）ではなく納税者自身の仕事である。

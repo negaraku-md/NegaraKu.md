@@ -85,6 +85,7 @@ keywords:
   - "peraturan timbang tara AIAC 2026"
   - "klausa timbang tara Malaysia penggubalan"
   - "pengetepian award timbang tara Malaysia seksyen 37"
+framework: decision
 ---
 
 Klausa timbang tara biasanya menjadi klausa terakhir yang dirunding dan yang pertama

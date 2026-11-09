@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["federal-state-division", "local-councils"]
 keywords: ["Indah Water Konsortium", "IWK", "رسوم الصرف الصحي", "الصرف الصحي ماليزيا", "فاتورة IWK", "شفط خزان الصرف", "SPAN الصرف الصحي", "نظام الصرف الصحي ماليزيا"]
+framework: profile
 ---
 
 ## ليست تزويدًا بالمياه — الطرف الآخر من الأنبوب

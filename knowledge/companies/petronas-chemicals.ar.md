@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 تكاد كل كيس أسمدة يُنثر على مزرعة ماليزية، وحصة كبيرة من راتنجات البلاستيك المصبوبة في مصانع البلاد، تعود إلى شركة واحدة: مجموعة بتروناس للكيماويات برهاد (Petronas Chemicals Group Berhad). فهي ذراع الكيماويات لشركة النفط الوطنية، وأكبر منتج متكامل للكيماويات في ماليزيا، و — على نحو غير معتاد لنشاط مرتبط بالدولة — شركة مدرجة على نحو منفصل يمكن لأي أحد شراء أسهمها.

@@ -85,6 +85,7 @@ social:
 verificationNeeded:
   - "La sélection du Guide MICHELIN Malaysia (Kuala Lumpur & Penang) est révisée chaque année. Ce profil reflète l'édition 2026 ; vérifiez que le Bib Gourmand figure toujours dans la dernière édition (une sélection 2027 se dessine), car les distinctions peuvent être ajoutées ou retirées chaque année."
   - "La promotion de 2024 de MICHELIN Selected à Bib Gourmand est conforme à l'annonce de MICHELIN elle-même ; confirmez le statut actuel avec le dernier guide si l'année de la distinction importe."
+framework: profile
 ---
 
 La cuisine peranakan est laborieuse, aux recettes jalousement gardées et

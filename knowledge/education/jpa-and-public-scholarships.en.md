@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 Scoring 9A+ in SPM does not automatically guarantee a full overseas scholarship — because in Malaysia, public sponsorship is not only about marks, but also about which scheme you apply to, the service conditions attached, and the policy governing each fund. Understanding this map of sponsors matters, because the wrong choice can mean thousands of ringgit you have to repay later.

@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
+framework: profile
 ---
 
 மலேசியாவிற்கு வரும் ஒவ்வொரு கிலோ இறக்குமதி அரிசியும் ஒரே ஒரு வாயில் வழியாகவே நுழைகிறது — அந்த வாயில் ஒரு தனியார் நிறுவனத்தின் கைவசம் உள்ளது. அதுதான் BERNAS.

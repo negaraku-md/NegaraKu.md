@@ -91,6 +91,7 @@ verificationNeeded:
   - "Anugerah MICHELIN di sini digambarkan sebagai Bib Gourmand, tetapi laman senarai rasmi memaparkan anugerah itu sebagai ikon dan bukannya teks yang boleh diambil terus; anugerah MICHELIN disemak setiap tahun, jadi sahkan status Bib Gourmand semasa di guide.michelin.com sebelum memetiknya."
   - "Tahun edisi: akhbar Malaysia merujuk kepada edisi MICHELIN Guide Kuala Lumpur & Penang 2027 (dilaporkan diumumkan pada 4 November 2026), manakala edisi rasmi terkini yang boleh disahkan secara bebas ialah 2026 — sahkan edisi mana yang menyenaraikan gerai ini terhadap laman pemilihan rasmi."
   - "Waktu operasi (disenaraikan Isnin–Sabtu 09:00–15:30, tutup Ahad) datang daripada senarai MICHELIN dan boleh berubah — sahkan di tempat sebelum pergi."
+framework: profile
 ---
 
 Jauh dari kesesakan bandar lama, di pinggir laut Tanjung Bungah, sebuah gerai

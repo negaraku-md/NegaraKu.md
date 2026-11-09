@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["ऑडिट तैयारी चेकलिस्ट मलेशिया", "PBC सूची ऑडिट", "ऑडिट अनुरोध-सूची Sdn Bhd", "MFRS 124 संबंधित-पक्ष प्रकटीकरण", "निदेशक खाता ऑडिट मलेशिया", "अंतर-कंपनी समाधान ऑडिट", "audit preparation checklist Malaysia", "MFRS 124 related party disclosure"]
+framework: how-to
 ---
 
 अनुरोध-सूची एक प्रशासनिक दस्तावेज़ जैसी दिखती है। यह वह नहीं है। यह ऑडिट योजना है,

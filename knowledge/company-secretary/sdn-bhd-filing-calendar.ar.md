@@ -188,6 +188,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["تقويم امتثال Sdn Bhd", "المواعيد النهائية لدى SSM في ماليزيا", "مواعيد تقديم الشركات في ماليزيا", "مهلة الإقرار السنوي", "إخطار SSM خلال 14 يومًا", "Sdn Bhd compliance calendar", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 نادرًا ما يكون سبب تأخر الشركات الماليزية في التقديم هو الإهمال. بل لأن الواجبات

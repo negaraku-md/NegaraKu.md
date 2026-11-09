@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "Kertih petroleum", "tulisan Jawi terawal"]
+framework: profile
 ---
 
 สองสิ่งที่มีชื่อเสียงที่สุดเกี่ยวกับตรังกานูตั้งอยู่ห่างกันราว 60 กิโลเมตร และทั้งสองสิ่งมองเห็นได้ยาก

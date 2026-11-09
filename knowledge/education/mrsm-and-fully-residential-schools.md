@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 Dua nama sering muncul apabila keluarga Malaysia berbual tentang sekolah asrama "terbaik" untuk anak: MRSM dan SBP. Kedua-duanya kolej asrama penuh yang terpilih, kedua-duanya bersaing sengit untuk direbut — tetapi ia diuruskan oleh dua badan berlainan, di bawah dua mandat dasar yang berbeza.

@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "civil-and-syariah-courts" }
 related: ["court-hierarchy", "kehakiman-mahkamah", "syariah", "civil-and-syariah-courts", "akta"]
 keywords: ["mahkamah", "mahkamah पद", "मलेशिया न्यायालय पदानुक्रम", "संघीय न्यायालय", "अपील न्यायालय", "उच्च न्यायालय", "सेशन न्यायालय", "मजिस्ट्रेट न्यायालय", "सियरिया न्यायालय"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Mahkamah · **English:** Court · **中文:** 法院

@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["القوى العاملة في ماليزيا بحسب الولاية", "الراتب الوسيط بحسب الولاية ماليزيا", "مسح القوى العاملة DOSM 2025", "مواهب إلكترونيات بينانغ", "عمال جوهور سنغافورة", "الحد الأدنى للأجور ماليزيا الولاية", "تصريح التوظيف ساراواك GENESIS", "malaysia labour force by state", "median salary by state malaysia", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 الفكرة الأولى التي يحملها كل مؤسس إلى اختيار الموقع في ماليزيا هي أن الانتقال خارج وادي كلانغ يقلّص فاتورة الأجور. وتقول البيانات إنه كذلك — ويقول القانون إن معظم التوفير ليس لك لتأخذه، لأن الأرضية وكل مساهمة فوقها محددة اتحادياً.

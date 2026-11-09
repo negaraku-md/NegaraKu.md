@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
+framework: profile
 ---
 
 두 회사, 같은 소유주, 같은 고객. 하나는 쿠알라룸푸르에 설립되어 「소득세법 1967」에 따라 법인세를 냅니다. 다른 하나는 사바 해안에서 10km 떨어진 섬에 설립되어 완전히 다른 의회 법률에 따라 3%로 과세됩니다.

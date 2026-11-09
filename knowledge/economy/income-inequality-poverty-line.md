@@ -91,6 +91,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 Anda mungkin pernah dilabel "B40" atau "T20" pada satu borang subsidi — tetapi label itu bukan gaji anda. Ia adalah kedudukan anda dalam satu barisan yang disusun oleh Jabatan Perangkaan Malaysia (DOSM), dan barisan itu dilukis semula setiap kali data baharu masuk. Memahami cara garisan itu dilukis mengubah cara anda membaca hampir setiap perbahasan tentang kos hidup di Malaysia.

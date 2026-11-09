@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "financial-statements-lodgement", "extension-of-time-ssm", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["SSM late lodgement fee", "SSM penalty late filing", "Practice Directive 1/2017", "SSM compound Malaysia", "annual return late penalty Malaysia", "MBRS penalty waiver"]
+framework: data-reference
 ---
 
 SSM அபராதங்களை மேற்கோள் காட்டும் பெரும்பாலான மலேசிய தளங்கள், அவர்கள் ஒருபோதும்

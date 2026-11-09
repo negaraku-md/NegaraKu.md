@@ -66,6 +66,7 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separation-1965"]
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
+framework: explainer
 ---
 
 マレーシアの暦には毎年、同じものと混同されやすい二つの日付がある。8月31日と9月16日である。両方とも国旗、パレード、そして愛国歌によって祝われる。しかしこの二つは異なる出来事を示しており、6年の隔たりがあり、形の異なる二つの国家を物語っている。

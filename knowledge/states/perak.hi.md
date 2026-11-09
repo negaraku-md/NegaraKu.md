@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["पेराक", "Perak", "पेराक दारुल रिदज़ुआन", "Perak Darul Ridzuan", "पांगकोर संधि", "Perjanjian Pangkor", "ब्रिटिश रेज़िडेंट", "British Resident", "पेराक के सुल्तान", "Sultan Perak", "इपोह", "Ipoh", "किंता घाटी", "Lembah Kinta", "टिन अयस्क", "लेंगोंग घाटी", "Lembah Lenggong", "पेराक राज्य विधानसभा"]
+framework: profile
 ---
 
 20 जनवरी 1874 को, पांगकोर द्वीप के निकट के जल में एक संधि पर हस्ताक्षर हुए। उस

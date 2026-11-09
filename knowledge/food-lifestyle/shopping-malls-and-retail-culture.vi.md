@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 Vào một buổi chiều thứ Bảy ở Klang Valley, một trung tâm thương mại lớn có thể chứa nhiều người hơn một số thị trấn nhỏ — và nhiều người trong số họ không ở đó chỉ để mua sắm. Các trung tâm thương mại của Malaysia còn kiêm vai trò quảng trường thị trấn có máy lạnh: nơi để ăn, xem phim, trượt băng, cầu nguyện tại một surau, và để trẻ em chạy chơi qua một công viên giải trí trong nhà. Hiểu bán lẻ ở đây nghĩa là hiểu cái phạm vi đó, từ trung tâm thương mại khổng lồ đến chợ đêm ngoài trời.

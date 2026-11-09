@@ -121,6 +121,7 @@ keywords:
   - "MotoGP Sepang 2031"
   - "redevance d'organisation F1 Sepang"
   - "Litar Antarabangsa Sepang"
+framework: profile
 ---
 
 En octobre 2026, des voitures de Formule 1 rouleront à Sepang pour la première fois en neuf ans — et la signalétique en bord de piste affichera *Grand Prix de Bahreïn*. La Malaisie n'est pas l'hôte sur le papier, ne paiera pas la redevance de licence et n'a pas fait pression pour revenir au calendrier. Elle avait simplement la seule chose dont la Formule 1 avait soudain besoin : un circuit vide, prêt et de premier plan.

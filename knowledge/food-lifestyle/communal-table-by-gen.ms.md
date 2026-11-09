@@ -80,6 +80,7 @@ verificationNeeded:
   - "Tahun edisi MICHELIN Guide: Bib Gourmand dinilai semula setiap tahun dan profil ini tidak mengikatnya kepada satu edisi tunggal. Edisi terbaharu yang diterbitkan pada masa penulisan ialah MICHELIN Guide Kuala Lumpur & Penang 2026 — JANGAN nyatakan edisi 2027 sehingga MICHELIN menerbitkannya. Sahkan Communal Table by Gēn masih memegang Bib Gourmand dalam edisi semasa di guide.michelin.com."
   - "Pengiktirafan cef: liputan sekunder menamakan Johnson Wong sebagai cef dan penerima Malaysian MICHELIN Guide Young Chef Award 2024; halaman restoran MICHELIN mencatatkan Young Chef Award tetapi mungkin tidak menamakannya. Sahkan nama cef dengan sumber MICHELIN atau sumber pihak pertama sebelum menyatakannya dalam prosa."
   - "Waktu buka berbeza antara halaman lokal MICHELIN (satu menunjukkan servis Isnin, satu lagi menyenaraikannya antara hari tutup) — sahkan jadual semasa sebelum menerbitkan."
+framework: profile
 ---
 
 **Communal Table by Gēn** ialah yang paling kontemporari antara nama-nama Bib

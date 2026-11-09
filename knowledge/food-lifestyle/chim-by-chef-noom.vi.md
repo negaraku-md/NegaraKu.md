@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "Nhãn năm ấn bản hiển thị trên trang MICHELIN trực tuyến của nhà hàng có thể khác với '2026' được dùng trong các bài đưa tin về lễ trao của MICHELIN; sao lần đầu được trao trong ấn bản 2025 và được duy trì kể từ đó. Các tuyển chọn được điều chỉnh hằng năm — hãy xác nhận vinh danh hiện thời trên trang chính thức."
   - "Tên đầy đủ của Chef Thaninthorn 'Noom' Chantrawan được xác nhận bởi báo chí thứ cấp (The Star) chứ không in trong phần nội dung của trang MICHELIN; trang MICHELIN gọi là 'Chef Noom'. Năm mở cửa (2024), giờ hoạt động và định dạng thực đơn nếm hiện thời nên được xác nhận với nhà hàng."
+framework: profile
 ---
 
 Chim by Chef Noom là nhà hàng Thái cao cấp tại Kuala Lumpur giữ một sao MICHELIN.

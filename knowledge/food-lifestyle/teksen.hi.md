@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 Lebuh Carnarvon की एक शॉपहाउस में बसा, Teksen, George Town की सबसे भरोसेमंद मेज़ों

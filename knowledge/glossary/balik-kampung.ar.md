@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["kampung", "kuala-lumpur", "penang", "batik"]
 keywords: ["balik kampung", "معنى balik kampung", "حركة المرور في العودة إلى القرية", "Op Selamat", "الهجرة الموسمية في ماليزيا", "ازدحام الطرق السريعة في الأعياد"]
+framework: explainer
 ---
 
 **بهاسا ماليزيا:** Balik Kampung · **الإنجليزية:** Homecoming / Festive Exodus · **الصينية:** 返乡

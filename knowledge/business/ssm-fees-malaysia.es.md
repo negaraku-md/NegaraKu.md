@@ -89,6 +89,7 @@ keywords:
   - "LLP registration fee"
   - "tabla de tasas SSM 2026"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 Tres anexos de tasas separados, tres estatutos separados, y ninguna página única en el sitio de SSM

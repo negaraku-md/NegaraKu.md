@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN", "instruments de musique traditionnels"]
+framework: explainer
 ---
 
 Les mêmes sonorités reviennent derrière presque tous les arts du spectacle malaisiens : le battement de la peau de chèvre frappée en groupe lors d'un mariage, la flûte aiguë et plaintive qui ouvre une scène de théâtre d'ombres, et le pincement apaisant des cordes de bois dans une maison longue du Sarawak. Les instruments qui les produisent apparaissent dans de nombreux articles sur les arts, c'est pourquoi cette page les rassemble en un seul endroit.

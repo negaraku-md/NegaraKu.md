@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "self-billed-e-invoice" }
 related: ["e-invoicing", "myinvois-phases", "myinvois-integration", "self-billed-e-invoice", "consolidated-e-invoice"]
 keywords: ["حقول بيانات الفاتورة الإلكترونية", "55 حقلاً للفاتورة الإلكترونية", "حقول MyInvois الإلزامية", "e-Invoice data fields", "MyInvois mandatory fields", "UBL 2.1 Malaysia", "medan data e-invois"]
+framework: data-reference
 ---
 
 كل تقديم مرفوض يعود إلى واحد من أمرين: حقل تعامله LHDN باعتباره إلزامياً بينما يعامله نظام ERP لديك باعتباره اختيارياً، أو قيمة رمز غير موجودة في قائمة LHDN. وهذه الصفحة هي قائمة الحقول، كما نُشرت في الملحقين 1 و2 من إرشادات الفاتورة الإلكترونية الإصدار 4.7.

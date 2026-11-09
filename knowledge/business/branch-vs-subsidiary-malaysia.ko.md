@@ -118,6 +118,7 @@ keywords:
   - "regional office MIDA"
   - "local agent foreign company Malaysia"
   - "set up business in Malaysia foreign company"
+framework: decision
 ---
 
 지점은 보통 가벼운 선택지로 소개됩니다. 새 회사도, 주주도, 정관도 없다는

@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "正確な MICHELIN の版の年は資料によって表記が一致しません——公式ページには年の記載がなく、この屋台が初めて選ばれたのは 2023 年 11 月に発表された版（「2024」ガイド）で、Wikipedia の Bib Gourmand 一覧は現在「2027」の列を最新として示しています。選定は毎年改訂されます。現在の状況は guide.michelin.com で確認してください。"
   - "この屋台は名前に「Jalan Ipoh」を含みますが、所在地は Taman Kok Lian です。Jalan Ipoh との歴史的なつながりを述べる前に確認してください。屋台の営業時間や定休日はレストランより変わりやすいので、訪問前に再確認してください。"
+framework: profile
 ---
 
 クアラルンプール中心部の北、Taman Kok Lian にひっそりと構える、Jalan Ipoh の名

@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 여러분 동네 길모퉁이의 마막 노점, 홈 오피스에서 청구서를 보내는 프리랜서 디자이너, 온라인으로 파는 주말 제빵사 — 이들 대부분은 같은 법적 존재입니다. 개인 사업체입니다. 그것은 말레이시아에서 사업을 하는 가장 저렴하고 빠르며 흔한 방법이자, 일이 잘못될 때 여러분을 가장 크게 노출시키는 방법이기도 합니다.

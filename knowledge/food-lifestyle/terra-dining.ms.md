@@ -89,6 +89,7 @@ verificationNeeded:
   - "Label tahun edisi yang dipaparkan pada penyenaraian MICHELIN langsung restoran mungkin berbeza daripada '2026' yang digunakan dalam liputan majlis MICHELIN sendiri (penyenaraian boleh memaparkan tahun atau tarikh berbeza). Pengiktirafan adalah terkini setakat pemilihan Kuala Lumpur & Penang 2026; MICHELIN menyemak pemilihannya setiap tahun, jadi sahkan penarafan langsung sebelum bergantung padanya."
   - "Nama penuh dan latar belakang Chef Chong tidak diberikan pada penyenaraian MICHELIN (hanya 'self-taught Chef Chong'); sahkan dengan temu bual utama atau laman web restoran sendiri."
   - "Waktu operasi, harga dan bilangan hidangan menu rasa semasa yang tepat berubah dari semasa ke semasa — sahkan dengan restoran secara langsung."
+framework: profile
 ---
 
 Terra Dining ialah sebuah restoran santapan mewah di kawasan kejiranan Taman Tun

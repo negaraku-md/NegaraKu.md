@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 ஆண்டுக்கு ஒருமுறை, ஒன்பது மன்னர்களும் நான்கு மாநில ஆளுநர்களும் (Yang di-Pertua Negeri) Kuala Lumpur-இலுள்ள ஒரு கூட்ட அறையில் ஒன்றுகூடி, பாராளுமன்றத்தால் (Parlimen) எடுக்க முடியாத முடிவுகளை எடுக்கின்றனர் — அவற்றுள் ஒன்று, யார் கூட்டாட்சி மன்னராவார் என்பதைத் தேர்ந்தெடுப்பதாகும். அந்தக் கூட்டமே ஆட்சியாளர்கள் மாநாடு (Majlis Raja-Raja); அதில் உறுப்பினராக இருக்கும் மன்னர்கள் மலாய் ஆட்சியாளர்கள் (Raja-Raja Melayu) என அறியப்படுகின்றனர்.

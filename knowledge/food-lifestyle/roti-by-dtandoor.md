@@ -91,6 +91,7 @@ verificationNeeded:
   - "The MICHELIN Guide selection is revised annually; confirm Roti by d'Tandoor still holds its Bib Gourmand in the latest MICHELIN Guide Kuala Lumpur & Penang edition before relying on it."
   - "Edition-year labelling is inconsistent across sources — some refer to the current selection as the 2027 edition while other materials label the latest list 2026. Confirm the correct edition year against the official MICHELIN Guide ceremony announcement."
   - "The 1990 Malaysian opening date for the d'Tandoor brand comes from the MICHELIN listing; the exact year Roti by d'Tandoor itself first earned the Bib Gourmand was not confirmed from a single primary source."
+framework: profile
 ---
 
 Roti by d'Tandoor is a North Indian restaurant tucked into a residential house

@@ -72,6 +72,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph", "is emphasis of matter a qualification"]
+framework: explainer
 ---
 
 ஒரு கடன் வழங்குநர் தொலைபேசியில் அழைத்து கணக்குகள் தகுதிப்படுத்தப்பட்டுள்ளன

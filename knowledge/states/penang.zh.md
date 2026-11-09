@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Penang Malaysia", "George Town UNESCO", "Bayan Lepas", "Penang electronics", "silicon valley of the east"]
+framework: profile
 ---
 
 槟城的分量远超它的体型。它是马来西亚面积最小的州属之一，却也是全国最重要的制造业经济体之一，以及游客最多的旅游目的地之一。

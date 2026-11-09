@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "sales-tax-act-2018" }
 related: ["e-invoicing", "sst-explained", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice"]
 keywords: ["e-Invoice बनाम कर चालान", "SST चालान आवश्यकताएँ", "Service Tax Regulations 2018 regulation 10", "बिक्री कर चालान विवरण", "LHDN RMCD चालान", "invois cukai SST"]
+framework: explainer
 ---
 
 MyInvois के माध्यम से किसी चालान को सत्यापित करने से वह SST चालान नहीं बन जाता।

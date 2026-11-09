@@ -66,6 +66,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["Malaysia tax relief", "pelepasan cukai individu", "tax relief checklist Malaysia", "Form BE reliefs", "LHDN individual relief"]
+framework: how-to
 ---
 
 유효하게 청구할 수 있는 모든 링깃(RM)의 공제는 과세소득을 줄여 줍니다.

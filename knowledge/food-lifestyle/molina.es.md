@@ -87,6 +87,7 @@ verificationNeeded:
   - "Las selecciones de la MICHELIN Guide se revisan anualmente; este perfil refleja el estado que muestra la ficha actual y debería volver a comprobarse tras cada nueva edición."
   - "Las fuentes discrepan sobre quién lidera la cocina: la ficha de MICHELIN y parte de la cobertura atribuyen el concepto al chef neerlandés Sidney Schutte (del Spectrum de dos Stars de Ámsterdam), mientras que otra cobertura nombra a Guillaume Depoortere como jefe de cocina; confirme las funciones actuales antes de atribuir platos a un chef concreto."
   - "La edición en la que Molina recibió su Star por primera vez (la cobertura secundaria apunta a la selección anunciada en noviembre de 2024) debería confirmarse con los registros de MICHELIN."
+framework: profile
 ---
 
 Molina es un restaurante de alta cocina innovadora encaramado en el piso 51 de THE

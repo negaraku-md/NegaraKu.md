@@ -110,6 +110,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "tanjung pelepas ptp throughput", "malaysia port statistics 2025", "ecrl completion date", "ecrl land bridge kuantan port klang", "5g coverage by state malaysia", "mcmc broadband by state", "saidi malaysia"]
+framework: data-reference
 ---
 
 말레이시아에는 삼십여 개의 상업 항만이 있으나 컨테이너에서 중요한 것은 두 개뿐입니다. 여섯 개의 국제공항이 있으나 항공 화물을 대규모로 옮기는 것은 하나입니다. 당신의 입지가 그 선의 어느 쪽에 있는지를 아는 것이, 주(州) 홍보 책자의 어떤 편의시설 목록보다도 값집니다.

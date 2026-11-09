@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "各来源对确切的 MICHELIN 版本年份标注并不一致——官方页面未标年份，媒体报道提到的是「2026」MICHELIN Guide Kuala Lumpur & Penang，而维基百科的 Bib Gourmand 名单如今以「2027」一栏为最新。评选每年修订；请在 guide.michelin.com 确认当前状态。"
   - "有关 Taman Cheras 以外的分店开设（例如新加坡，以及一家计划中的中国大陆分店）来自新闻报道，而非 MICHELIN 页面；在陈述之前，请确认哪些分店已开业，以及 Bib Gourmand 是否仅适用于 Taman Cheras 的原店。"
+framework: profile
 ---
 
 在 Taman Cheras——吉隆坡东南一片住宅角落——的一个店铺里，Hai Kah Lang 只做一

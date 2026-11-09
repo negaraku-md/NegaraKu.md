@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn của MICHELIN Guide Malaysia (Kuala Lumpur & Penang) được điều chỉnh hằng năm. Hồ sơ này phản ánh ấn bản 2026; hãy xác nhận Bib Gourmand vẫn còn hiệu lực trong ấn bản mới nhất (danh sách tuyển chọn 2027 đang hình thành), vì các giải thưởng có thể được thêm vào hoặc gỡ bỏ mỗi năm."
   - "Năm thành lập (1960) và quyền sở hữu đời thứ ba đến từ mục niêm yết của MICHELIN; số nhà chính xác đã được một số nguồn bên thứ ba đưa tin khác nhau, vì vậy hãy xác nhận địa chỉ trước khi đến."
+framework: profile
 ---
 
 Một số món ngon nhất của Penang đến từ một chiếc xe đẩy, không phải một căn bếp,

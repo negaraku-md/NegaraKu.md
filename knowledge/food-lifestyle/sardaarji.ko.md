@@ -90,6 +90,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Malaysia(Kuala Lumpur & Penang) 선정은 매년 개정됩니다. 이 프로필은 2026년판을 반영합니다. 상은 매년 추가되거나 삭제될 수 있으므로, 최신판(2027년 선정이 형성 중)에서 빕 구르망이 여전히 유효한지 확인하십시오."
   - "창업 연도(2018)와 창업자의 이력(은퇴한 페낭 시의회 전 직원 Ranjit Singh)은 MICHELIN의 특집 기사에 근거합니다. 정확한 세부 사항이 중요하면 레스토랑에 직접 확인하십시오."
+framework: profile
 ---
 
 펀자브 가정식은 대부분의 방문객이 조지타운의 음식 거리에서 가장 먼저 떠올리는

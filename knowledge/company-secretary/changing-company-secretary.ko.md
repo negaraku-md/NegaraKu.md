@@ -112,6 +112,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["secretary-resignation", "secretary-vacancy-30-days", "appoint-company-secretary", "statutory-registers"]
 keywords: ["change company secretary Malaysia", "company secretary handover checklist", "section 58 Companies Act 2016", "transfer company secretary Sdn Bhd", "section 47 registered office documents", "switch secretarial firm Malaysia"]
+framework: how-to
 ---
 
 회사 비서 법인을 바꾸는 일은 행정적 심부름처럼 보이지만, 실제로는 작은 이주(migration)처럼 진행됩니다. SSM에 대한 제출은 쉬운 부분입니다. 새 법인이 실제로 업무를 수행할 수 있는지를 결정하는 것은 이전 법인이 완전한 기록 일체를 인계하는지 여부입니다 — 그런데 그 일체가 무엇을 포함하는지 문서화한 말레이시아 가이드는 하나도 없습니다. 그 가이드를 쓰는 법인들이 바로 인계를 요구받는 당사자들이기 때문입니다.

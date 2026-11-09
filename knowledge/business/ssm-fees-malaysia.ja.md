@@ -83,6 +83,7 @@ keywords:
   - "SSM annual return fee"
   - "LLP registration fee"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 三つの別々の手数料表、三つの別々の成文法があり、SSMのサイトにはそれらを並べて示す単一

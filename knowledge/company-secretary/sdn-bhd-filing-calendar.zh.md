@@ -188,6 +188,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["Sdn Bhd compliance calendar", "SSM deadlines Malaysia", "company filing deadlines Malaysia", "annual return deadline", "14 days notify SSM", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 马来西亚公司逾期呈报的原因，很少是疏忽。而是这些义务跑的是**三条互不相干的时钟**，

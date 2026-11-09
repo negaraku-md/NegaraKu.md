@@ -107,6 +107,7 @@ relations:
   - { rel: "related-to", to: "yang-di-pertuan-agong" }
 related: []
 keywords: ["بيرليس", "Perlis", "راجا بيرليس", "Raja Perlis", "كانغار", "Kangar", "أصغر ولايات ماليزيا", "سلالة جمال الليل", "Wangsa Jamalullail", "الحدود الماليزية التايلندية", "بادانغ بيسار", "Padang Besar", "وادي تشوبينغ", "Chuping Valley"]
+framework: profile
 ---
 
 ثمة سؤال واحد أخطأ فيه كل ماليزي تقريباً في وقت ما: من سلطان بيرليس؟

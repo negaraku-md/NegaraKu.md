@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysia-e-wallets" }
 related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "Malaysia payments", "cashless"]
+framework: profile
 ---
 
 쿠알라룸푸르의 나시르막 노점에서 QR 코드를 스캔하고, 친구의 전화번호를 입력해 지급하고, 온라인뱅킹으로 청구서를 결제하는 것 — 이 세 가지 여정 모두 조용히 같은 회사를 거칩니다. 그 회사의 이름은 PayNet이며, 대부분의 말레이시아인은 그 이름을 들어본 적이 없습니다.

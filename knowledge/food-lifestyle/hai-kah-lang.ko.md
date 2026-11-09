@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "정확한 MICHELIN 판본 연도는 자료마다 표기가 일치하지 않습니다 — 공식 페이지에는 연도가 없고, 언론 보도는 '2026' MICHELIN Guide Kuala Lumpur & Penang를 언급했으며, Wikipedia의 Bib Gourmand 목록은 현재 '2027' 열을 최신으로 표시합니다. 선정은 매년 개정됩니다. 현재 상태는 guide.michelin.com에서 확인하세요."
   - "타만 체라스 외 지점 개업(예: 싱가포르, 계획 중인 중국 본토 매장)은 MICHELIN 페이지가 아니라 언론 보도에서 나온 것입니다. 어떤 지점이 열려 있는지, Bib Gourmand가 타만 체라스 본점에만 적용되는지 서술하기 전에 확인하세요."
+framework: profile
 ---
 
 쿠알라룸푸르 남동부의 주택가인 타만 체라스의 한 상가 점포에서, Hai Kah Lang은

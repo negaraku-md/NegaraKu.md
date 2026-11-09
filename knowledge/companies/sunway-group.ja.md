@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 Sunway Groupは、土地をまるごとタウンシップへと変える——ひとつのマスタープランのもとに住宅、モール、病院、大学、テーマパークを築き——そして自らが建てたものを運営し続ける。

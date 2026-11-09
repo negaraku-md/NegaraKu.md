@@ -82,6 +82,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "sme bank financing", "cradle grant malaysia", "tekun financing", "government loan sme malaysia"]
+framework: data-reference
 ---
 
 多くの中小企業融資の名録は、プレスリリースから寄せ集めた制度名の羅列にすぎず、その半分はすでに存在しない。本稿は2026年7月に各所管機関自身のサイトから再構築したものであり、最も有用な発見は、静かに姿を消していたものが何かということである。

@@ -91,6 +91,7 @@ verificationNeeded:
   - "The MICHELIN Guide selection is revised annually; confirm Coast by Kayra still holds its Bib Gourmand in the latest MICHELIN Guide Kuala Lumpur & Penang edition before relying on it."
   - "Edition-year labelling is inconsistent across sources — some refer to the current selection as the 2027 edition while other materials label the latest list 2026. Confirm the correct edition year against the official MICHELIN Guide ceremony announcement."
   - "The restaurant's opening date and the exact year it first earned the Bib Gourmand are not stated in the MICHELIN listing and were not confirmed from a primary source."
+framework: profile
 ---
 
 Coast by Kayra is a Kerala-focused Indian restaurant inside The Starhill mall in

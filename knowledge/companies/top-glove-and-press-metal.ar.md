@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "قفازات مطاطية", "rubber gloves", "مصهر ألمنيوم", "aluminium smelter", "التصنيع في ماليزيا", "العمل القسري", "forced labour", "Bursa Malaysia", "الصادرات", "Sarawak", "ESG"]
+framework: profile
 ---
 
 شركتان ماليزيتان تتصدّران مجاليهما عالمياً. إحداهما أكبر مصنّع للقفازات ذات الاستخدام الواحد في العالم؛ والأخرى أكبر مصهر للألمنيوم الأولي في جنوب شرق آسيا. وليست أيٌّ منهما اسماً مألوفاً خارج أوساط الاستثمار، ومع ذلك تُظهر Top Glove وPress Metal كيف يمكن لاقتصاد متوسط الحجم أن ينتج قادةً عالميين في قطاع واحد.

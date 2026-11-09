@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
+framework: data-reference
 ---
 
 年初に家族旅行を計画すると、すぐにあることに気づくだろう。クランタン州の隣人の子どもは、セランゴール州のあなたの子どもより1日早く新学期を迎える。これは間違いではない——マレーシアの学年暦はそのように設計されているのだ。

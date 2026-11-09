@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["chaîne de Titiwangsa", "Banjaran Titiwangsa", "chaîne principale de Malaisie", "montagnes de la Malaisie péninsulaire", "ligne de partage des eaux de Malaisie", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 Laissez tomber une noix de coco du côté ouest d'une crête au centre de Perak et, avec le temps, sa décomposition atteindra le détroit de Malacca. Laissez-la tomber quelques centaines de mètres plus à l'est, de l'autre côté de la même crête, et elle finit dans la mer de Chine méridionale. Rien d'autre dans le paysage ne change. Seulement le côté de la ligne où elle est tombée.

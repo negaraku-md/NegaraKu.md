@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "labuan" }
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
+framework: profile
 ---
 
 沙巴加入马来西亚，并非以一个州属加入一个既有国家的方式。它是以其中一个缔造

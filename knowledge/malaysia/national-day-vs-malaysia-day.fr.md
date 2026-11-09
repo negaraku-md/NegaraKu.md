@@ -68,6 +68,7 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separation-1965"]
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
+framework: explainer
 ---
 
 Chaque année, le calendrier de la Malaisie contient deux dates que l'on confond facilement : le 31 août et le 16 septembre. Toutes deux sont marquées par des drapeaux, des défilés et des chants patriotiques. Pourtant, les deux commémorent des événements différents, à six ans d'intervalle, et décrivent deux pays de formes différentes.

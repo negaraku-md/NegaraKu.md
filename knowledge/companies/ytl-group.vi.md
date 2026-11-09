@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
+framework: profile
 ---
 
 YTL là một trong những tập đoàn đa dạng hóa lớn nhất của Malaysia, được hiểu rõ nhất không phải như một công ty duy nhất mà như một họ các hoạt động kinh doanh niêm yết và chưa niêm yết được xây dựng quanh hạ tầng.

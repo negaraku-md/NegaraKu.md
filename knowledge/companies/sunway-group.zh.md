@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "Malaysian conglomerate", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 双威集团将土地变成完整的城镇——在同一份总体规划下建起住宅、商场、医院、大学和主题公园——然后继续经营自己所建成的一切。

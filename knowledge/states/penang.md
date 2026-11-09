@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
+framework: profile
 ---
 
 Pulau Pinang jauh lebih berpengaruh berbanding saiznya. Ia merupakan salah satu

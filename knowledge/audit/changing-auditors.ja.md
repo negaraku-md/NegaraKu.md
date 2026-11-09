@@ -101,6 +101,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "The company and every officer commit an offence"
+framework: how-to
 ---
 
 中立的な理由で監査人を交代する者はいない。報酬が変わったか、グループが再編されたか、

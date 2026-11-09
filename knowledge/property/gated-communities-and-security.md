@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
+framework: explainer
 ---
 
 Two housing areas can look identical — brick guardhouse, striped boom gate, uniformed guard checking your sticker. One stands on solid legal ground. The other exists because nobody has challenged it yet.

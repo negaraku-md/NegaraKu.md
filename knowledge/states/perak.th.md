@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Perak", "Perak Darul Ridzuan", "Perjanjian Pangkor", "Residen British", "Sultan Perak", "Ipoh", "Lembah Kinta", "bijih timah", "Lembah Lenggong", "Dewan Negeri Perak"]
+framework: profile
 ---
 
 เมื่อวันที่ 20 มกราคม 1874 สนธิสัญญาฉบับหนึ่งถูกลงนามในน่านน้ำใกล้เกาะปังกอร์ (Pulau Pangkor) เอกสารนั้นไม่ได้ยกดินแดนและไม่ได้ประกาศสงคราม มันเพียงนำตำแหน่งใหม่หนึ่งเข้ามา: เรซิเดนหนึ่งคน ซึ่งคำแนะนำของเขาต้องถูกปฏิบัติตาม

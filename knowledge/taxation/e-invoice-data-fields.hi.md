@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "self-billed-e-invoice" }
 related: ["e-invoicing", "myinvois-phases", "myinvois-integration", "self-billed-e-invoice", "consolidated-e-invoice"]
 keywords: ["e-Invoice डेटा फ़ील्ड", "55 फ़ील्ड e-Invoice", "MyInvois अनिवार्य फ़ील्ड", "e-Invoice सत्यापन त्रुटि", "UBL 2.1 Malaysia", "medan data e-invois"]
+framework: data-reference
 ---
 
 हर अस्वीकृत प्रस्तुति दो में से एक चीज़ तक पहुँचती है: कोई ऐसा फ़ील्ड जिसे LHDN

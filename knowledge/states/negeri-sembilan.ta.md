@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
+framework: profile
 ---
 
 மற்ற எட்டு மலாய் மாநிலங்களில், “அடுத்த ஆட்சியாளர் யார்” என்ற கேள்விக்கு

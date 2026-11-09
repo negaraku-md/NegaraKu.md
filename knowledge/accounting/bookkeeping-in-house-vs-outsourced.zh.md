@@ -66,6 +66,7 @@ relations:
   - { rel: "affects", to: "mbrs-2-filing-guide" }
 related: ["sdn-bhd-bookkeeping", "accounting-records-section-245", "mbrs-2-filing-guide", "mbrs-tagging-errors", "financial-reporting-deadlines", "epf-socso-guide", "hrd-corp-levy-malaysia", "accounting-software-malaysia"]
 keywords: ["in-house vs outsourced bookkeeping Malaysia", "cost of hiring a bookkeeper Malaysia", "outsourced accounting Sdn Bhd", "employer EPF SOCSO EIS cost", "bookkeeping fees Malaysia"]
+framework: decision
 ---
 
 搜一搜这个问题，每一条结果都是会计事务所写的。这不是在贬低事务所——这是关于「谁在

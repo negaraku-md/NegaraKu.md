@@ -103,6 +103,7 @@ keywords:
   - "employment pass vs MM2H"
   - "MM2H platinum work"
   - "visa perniagaan Malaysia"
+framework: decision
 ---
 
 Câu hỏi phía sau mỗi chương trình trong số này đều giống nhau: **tôi có thực sự được làm việc, hoặc

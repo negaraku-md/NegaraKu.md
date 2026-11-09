@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 85,500人の観客がサッカー決勝の夜にTMブキ・ジャリル国立競技場の三層構造の湾曲したスタンドを埋め尽くすとき、彼らはマレーシアのスポーツインフラの最も壮大な象徴の中に座っている——だがそれは、国家の主要な催しを支えるいくつかの施設のひとつにすぎない。

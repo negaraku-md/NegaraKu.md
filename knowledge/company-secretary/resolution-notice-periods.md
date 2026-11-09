@@ -104,6 +104,7 @@ relations:
   - { rel: "related-to", to: "written-resolutions" }
 related: ["written-resolutions", "agm-requirements", "egm-requisition", "remove-a-director"]
 keywords: ["notice period resolution Malaysia", "21 days special resolution", "special notice 28 days", "short notice meeting 90 per cent", "section 316 Companies Act 2016"]
+framework: data-reference
 ---
 
 Ask three Malaysian secretarial firms how many days' notice a special resolution

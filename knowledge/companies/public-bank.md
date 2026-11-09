@@ -77,6 +77,7 @@ verificationNeeded:
   - "Network scale: roughly 260 domestic branches, more than 21,000 employees and about 9 million customers group-wide — confirm current counts."
   - "44.15% stake in LPI Capital Bhd — confirm current shareholding and any completion details."
   - "Leadership: Tay Ah Lek as managing director and CEO, and the serving chairman — confirm current board positions."
+framework: profile
 ---
 
 Few Malaysian companies are as closely tied to a single founder as Public Bank is to Tan Sri Teh Hong Piow. Starting with one branch in central Kuala Lumpur in 1966, he built a lender that grew into one of the country's largest banking groups — and one famous less for size than for caution, posting the banking sector's lowest bad-loan ratios decade after decade.

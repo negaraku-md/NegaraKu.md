@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "malaysia-foreign-policy" }
 related: ["malaysia-asean-membership", "malaysia-united-nations-membership"]
 keywords: ["OIC", "इस्लामी सहयोग संगठन", "राष्ट्रमंडल", "Commonwealth", "NAM", "गुटनिरपेक्ष आंदोलन", "D-8", "APEC", "मलेशिया विदेश नीति", "अंतर्राष्ट्रीय सदस्यता"]
+framework: data-reference
 ---
 
 हर बार जब कोई मलेशियाई मंत्री मुस्लिम विश्व के किसी मंच पर फ़िलिस्तीन के बारे में बोलता है,

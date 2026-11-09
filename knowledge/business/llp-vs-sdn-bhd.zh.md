@@ -111,6 +111,7 @@ keywords:
   - "LLP tax Malaysia"
   - "LLP audit requirement Malaysia"
   - "compliance officer LLP"
+framework: decision
 ---
 
 随便打开一份马来西亚 LLP 与 Sdn Bhd 的比较，你都会读到它「兼具公司的有限责任与合伙的

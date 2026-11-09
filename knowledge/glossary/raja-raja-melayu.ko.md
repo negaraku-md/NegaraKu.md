@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 일 년에 한 번, 아홉 명의 세습 군주와 네 명의 주지사가 쿠알라룸푸르의 한 회의실에 모여 의회가 내릴 수 없는 결정을 내립니다 — 그 가운데 하나가 누가 연방 군주가 될지를 선출하는 것입니다. 그 모임이 통치자회의(Majlis Raja-Raja)이며, 거기에 속한 세습 군주들이 말레이 통치자들(Raja-Raja Melayu)로 알려져 있습니다.

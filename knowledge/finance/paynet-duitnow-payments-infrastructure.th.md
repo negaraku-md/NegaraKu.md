@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysia-e-wallets" }
 related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "Malaysia payments", "cashless"]
+framework: profile
 ---
 
 สแกนรหัส QR ที่แผงขายนาซิเลอมักในกัวลาลัมเปอร์ (Kuala Lumpur) จ่ายเงินให้เพื่อนโดยการกดหมายเลขโทรศัพท์ ชำระบิลผ่านการธนาคารออนไลน์ — ทั้งสามการเดินทางผ่านบริษัทเดียวกันอย่างเงียบ ๆ มันชื่อ PayNet และชาวมาเลเซียส่วนใหญ่ไม่เคยได้ยินชื่อของมัน

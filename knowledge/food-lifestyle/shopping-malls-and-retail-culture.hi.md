@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 क्लांग घाटी में शनिवार की दोपहर, एक अकेला मेगा मॉल कुछ छोटे कस्बों से भी अधिक लोगों को समा सकता है — और उनमें से कई केवल खरीदारी के लिए वहाँ नहीं होते। मलेशियाई मॉल वातानुकूलित टाउन-स्क्वेयर का भी काम करते हैं: खाने, फ़िल्म देखने, आइस-स्केटिंग करने, surau में नमाज़ पढ़ने, और बच्चों को इनडोर थीम पार्क में दौड़ने देने की जगहें। यहाँ खुदरा को समझने का अर्थ है उस दायरे को समझना, विशाल मॉल से लेकर खुले रात्रि बाज़ार तक।

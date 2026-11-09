@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["تيرينغانو Terengganu", "كوالا تيرينغانو Kuala Terengganu", "حجر تيرينغانو المنقوش Batu Bersurat Terengganu", "سلطان تيرينغانو", "بترول كيرتيه Kertih", "أقدم كتابة بالجاوي"]
+framework: profile
 ---
 
 أشهر أمرين عن تيرينغانو يبعد أحدهما عن الآخر نحو 60 كيلومترًا، وكلاهما يصعب رؤيته.

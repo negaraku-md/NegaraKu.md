@@ -115,6 +115,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["js-sez-guide", "forest-city-sfz", "new-incentive-framework", "tax-incentives-directory", "global-minimum-tax-pillar-two"]
 keywords: ["JS-SEZ कर प्रोत्साहन", "JS-SEZ tax incentive", "फ़ॉरेस्ट सिटी स्पेशल फ़ाइनेंशियल ज़ोन कर", "Global Services Hub Malaysia", "मलेशिया विशेष आर्थिक क्षेत्र कर दर", "ज्ञान-कर्मी 15% मलेशिया", "JS-SEZ vs Forest City"]
+framework: decision
 ---
 
 दक्षिण जोहर में दो ज़ोन लगभग बीस किलोमीटर की दूरी पर स्थित हैं, और बाजार उन्हें एक

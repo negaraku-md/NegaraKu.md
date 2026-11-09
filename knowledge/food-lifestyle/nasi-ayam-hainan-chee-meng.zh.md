@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang 精选名单每年修订；本篇反映2026年版（于2025年11月公布）。更新的版本——例如2027年名单——可能新增、剔除或重新排列这家餐馆，因此在依据之前，请在 guide.michelin.com 上重新确认它当前的 Bib Gourmand 状态。"
   - "订位与营业时间的处理在 MICHELIN 各地区页面之间有所不同（有的说餐馆自行管理订位，有的说无法在线订位）——前往之前请直接向餐馆确认。"
+framework: profile
 ---
 
 Hainanese chicken rice 是对一家马来西亚厨房的一道无声考验：水煮或烧烤的鸡，以及

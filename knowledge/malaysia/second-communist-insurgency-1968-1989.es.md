@@ -92,6 +92,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Second Malayan Emergency", "Communist Party of Malaya", "Hat Yai Peace Agreement 1989", "North Kalimantan Communist Party", "Sarawak communist insurgency", "Sri Aman", "Chin Peng", "Kroh-Betong ambush"]
+framework: history-culture
 ---
 
 Malasia declaró terminada su primera Emergencia comunista el 31 de julio de 1960 — y después lidió con una segunda insurgencia durante buena parte de las tres décadas siguientes. El ejército guerrillero que el gobierno había empujado a los márgenes de la península no se disolvió cuando se declaró terminada la lucha. Se retiró al otro lado de la frontera tailandesa, se reagrupó allí y, ocho años más tarde, reanudó sus operaciones.

@@ -83,6 +83,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["financement des PME Malaisie", "sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "financement SME Bank", "subvention Cradle Malaisie", "financement tekun", "prêt public PME Malaisie"]
+framework: data-reference
 ---
 
 La plupart des répertoires de financement pour PME sont une liste de noms de dispositifs glanés dans des communiqués

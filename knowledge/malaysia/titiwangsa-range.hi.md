@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["तितिवांगसा श्रेणी", "Titiwangsa Range", "Banjaran Titiwangsa", "मुख्य श्रेणी मलेशिया", "Main Range Malaysia", "प्रायद्वीपीय मलेशिया के पहाड़", "जलविभाजक मलेशिया", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 मध्य पेराक में किसी कटक के पश्चिमी ओर एक नारियल गिरा दीजिए और, अंततः, उसका सड़ा हुआ अंश मलक्का जलडमरूमध्य तक पहुँच जाएगा। उसी कटक के दूसरी ओर, कुछ सौ मीटर पूरब में एक और गिरा दीजिए, और वह दक्षिणी चीन सागर में जा पहुँचेगा। परिदृश्य में और कुछ नहीं बदलता। बस यह कि वह रेखा के किस ओर गिरा।

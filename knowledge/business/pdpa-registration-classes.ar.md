@@ -81,6 +81,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["تسجيل pdpa ماليزيا", "أمر فئة مستخدمي البيانات", "فئة pdpa القابلة للتسجيل", "تسجيل مراقب البيانات ماليزيا", "pu a 336 2013"]
+framework: data-reference
 ---
 
 التسجيل بموجب PDPA ليس عامًّا. فهو لا يطال إلا مراقبي البيانات الذين يقعون ضمن

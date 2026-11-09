@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
+framework: profile
 ---
 
 Nền kinh tế của Johor được định nghĩa bởi người láng giềng của nó. Là bang cực nam

@@ -76,6 +76,7 @@ keywords:
   - "रखें BNM SC MCMC लाइसेंस"
   - "Malaysia regulators list"
   - "sector licence Malaysia"
+framework: data-reference
 ---
 
 मलेशियाई व्यवसाय-लाइसेंसों की कोई मास्टर सूची नहीं है। MalaysiaBiz संघीय, राज्य और स्थानीय

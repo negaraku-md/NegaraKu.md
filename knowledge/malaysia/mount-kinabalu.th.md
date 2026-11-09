@@ -57,6 +57,7 @@ relations:
   - { rel: "related-to", to: "ma63" }
 related: ["sabah", "formation-of-malaysia-1963"]
 keywords: ["Mount Kinabalu", "Kinabalu Park", "highest peak in Malaysia", "UNESCO World Heritage Site Malaysia", "Low's Peak", "Sabah geology", "granite pluton"]
+framework: profile
 ---
 
 เป็นเวลาหลายทศวรรษ หนังสืออ้างอิงทุกเล่มให้ตัวเลขเดียวกัน คือ ภูเขาคินาบาลู ยอดเขาที่สูงที่สุดของมาเลเซีย สูง 4,101 เมตรเหนือระดับน้ำทะเล จากนั้นในปี 1997 ทีมสำรวจชี้ดาวเทียมไปที่ยอดแทนกล้องธีโอโดไลต์ และตัวเลขเปลี่ยนไป ไม่ใช่ด้วยความคลาดเคลื่อนจากการปัดเศษ แต่ด้วยหกเมตร ภูเขาไม่ได้หดตัว การวัดเก่าเพียงแค่ผิด และไม่มีใครมีเครื่องมือพิสูจน์จนกระทั่ง GPS ทำให้การแก้ไขเป็นไปได้

@@ -89,6 +89,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["withholding tax rate Malaysia", "section 109B rate", "section 107A withholding tax", "CP37D", "withholding tax table Malaysia", "LHDN withholding tax"]
+framework: data-reference
 ---
 
 必要な税率は、あなたが読んでいる条文にはほとんど書かれていない。Section 109Bは「at the rate applicable to such payments」で源泉徴収せよと指示し、そこで終わる——その10%はSchedule 1のPart Vにある。Section 109も同様である。両方を引用する習慣をつけること。税率をめぐる議論は、Schedule 1をめぐる議論だからである。

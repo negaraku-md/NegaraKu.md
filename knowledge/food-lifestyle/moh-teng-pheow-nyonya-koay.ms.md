@@ -83,6 +83,7 @@ verificationNeeded:
   - "Tahun edisi MICHELIN Guide: Bib Gourmand dinilai semula setiap tahun dan profil ini tidak mengikatnya kepada satu edisi tunggal. Edisi terbaharu yang diterbitkan pada masa penulisan ialah MICHELIN Guide Kuala Lumpur & Penang 2026 — JANGAN nyatakan edisi 2027 sehingga MICHELIN menerbitkannya. Sahkan restoran masih memegang Bib Gourmand dalam edisi semasa di guide.michelin.com."
   - "Butiran penubuhan dan pewarisan: MICHELIN menyebut kraftangan ini bermula pada 1933 dan dapur semasa dikendalikan oleh Puan Teoh Kheng Sim (menantu perempuan pengasas Moh Teng Pheow) bersama anak-anaknya; kisah asal 'pengasas pendatang berusia 14 tahun' yang kerap diulang tidak disahkan. Sahkan sejarah keluarga dengan sumber primer atau warisan sebelum mengembangkannya."
   - "Waktu buka (MICHELIN menyenaraikan 10:00–17:00 setiap hari) — sahkan, kerana kedai kuih sering tutup awal sebaik stok habis dijual."
+framework: profile
 ---
 
 Ikut Jalan Masjid di sebelah Lebuh Chulia dan anda akan tiba di sebuah dapur

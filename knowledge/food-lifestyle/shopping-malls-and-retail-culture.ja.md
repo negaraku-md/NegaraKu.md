@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "duitnow-qr-payments" }
 related: ["kuala-lumpur", "putrajaya", "duitnow-qr-payments"]
 keywords: ["shopping malls Malaysia", "retail culture Malaysia", "SST pricing", "IOI City Mall", "Mid Valley Megamall", "Pavilion Kuala Lumpur", "pasar malam", "Malaysia mega sale"]
+framework: data-reference
 ---
 
 クランバレー（Klang Valley）の土曜日の午後、たった一つの巨大モールに、小さな町よりも多くの人が集まることがある——そしてその多くは、買い物だけが目的ではない。マレーシアのモールは冷房完備の町の広場としても機能する。食事をし、映画を観て、アイススケートをし、礼拝室（surau）で祈りを捧げ、子どもを屋内型テーマパークで走り回らせる場所だ。ここでの小売を理解するということは、巨大モールから露天の夜市まで、その幅の広さを理解するということである。

@@ -77,6 +77,7 @@ related: ["genting-group"]
 keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airport", "klia2", "Istanbul Sabiha Gokcen", "Khazanah", "airport operator Malaysia", "MAHB privatisation", "MAHB delisting"]
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
+framework: profile
 ---
 
 เกือบทุกครั้งที่นักเดินทางลงจอดในมาเลเซีย พวกเขามาถึงท่าอากาศยานที่ดำเนินการโดยบริษัทหนึ่ง Malaysia Airports Holdings Berhad (MAHB) ดำเนินการท่าอากาศยานนานาชาติกัวลาลัมเปอร์ — ปัจจุบันใช้แบรนด์ KLIA อาคารผู้โดยสาร 1 และอาคารผู้โดยสาร 2 — และตามการนับของมันเอง ท่าอากาศยาน 39 แห่งทั่วประเทศ บวกกับประตูสู่ต่างประเทศหนึ่งแห่งในอิสตันบูล ในปี 2025 มันยังกลายเป็นสิ่งที่ผิดปกติสำหรับผู้ดำเนินการท่าอากาศยานแห่งชาติ: ไม่ใช่บริษัทมหาชนอีกต่อไป

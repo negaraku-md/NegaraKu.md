@@ -67,6 +67,7 @@ relations:
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
 sourceContentHash: "a15af3c5fd918fa5"
+framework: explainer
 ---
 
 多くの人は財布に Touch 'n Go カードを入れ、スマートフォンに Touch 'n Go eWallet アプリを入れており、その二つは同じものの二つの顔なのだと思い込んでいる。そうではない。あなたのカードの残高とアプリの残高は完全に別々に保存されており——一方を満額にしても、もう一方に一銭も加わらない。この誤解は、運転者が「スマートフォンのお金で足りる」と思い込む一方で、料金所の機械が読み取るのはカードであるために、車が料金所ゲートで立ち往生する、よくある原因である。

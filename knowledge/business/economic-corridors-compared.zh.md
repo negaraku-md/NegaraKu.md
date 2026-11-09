@@ -108,6 +108,7 @@ keywords:
   - "koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "which economic corridor Malaysia"
+framework: decision
 ---
 
 五个走廊、五个机构，以及一个足以令大部分宣传辞令垮掉的事实：**它们之中没有一个能给你

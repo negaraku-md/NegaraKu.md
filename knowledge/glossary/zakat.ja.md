@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 毎年、マレーシアの数百万人のムスリムが財産の2.5%を差し出す——政府にではなく、州の喜捨機関にである。そして多くの人にとって、その支払いは所得税の負担をリンギット単位で減らすことにもなる。喜捨は功徳と財務の交差点に立っており、その両面を理解することはムスリムの納税者にとって重要である。

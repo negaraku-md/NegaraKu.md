@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 大马统计局（DOSM）并不公布一个叫做「马来西亚人」的数字。它把公民与非公民作为两个独立的统计数字发布，将公民细分为五个具名族群类别，然后再把其中一个类别——「其他土著」——细分为分别报告的沙巴与砂拉越群体，各自再有具名的次群体。「土著」这个词本身从未作为单独一行出现在DOSM的基础数据表中；它是事后由两行数字——马来人与其他土著——相加得出的。

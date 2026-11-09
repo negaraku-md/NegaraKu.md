@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "syariah" }
 related: ["negeri-sembilan", "melaka", "federal-constitution", "yang-di-pertuan-agong", "syariah"]
 keywords: ["العُرف", "adat", "Adat Perpatih", "Adat Temenggung", "القانون العُرفي الملايوي", "matrilineal", "patrilineal", "نيغري سمبيلان", "Negeri Sembilan", "Naning", "Minangkabau", "luak", "suku", "Undang", "Datuk Lembaga", "العُرف الملايوي الدستور"]
+framework: explainer
 ---
 
 **العربية:** adat (العُرف والعادات الملايوية) · **English:** Adat (Malay customary law) · **中文:** 马来习俗法（adat）

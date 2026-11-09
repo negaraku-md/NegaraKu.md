@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["equity-crowdfunding-p2p-malaysia", "share-capital-malaysia", "gdp-overview", "ringgit"]
 keywords: ["Bursa Malaysia", "requisitos de cotización del Main Market", "ACE Market", "LEAP Market", "FBM KLCI", "30 componentes del KLCI", "OPV Malasia", "tableros de Bursa Malaysia"]
+framework: profile
 ---
 
 ## De un vistazo

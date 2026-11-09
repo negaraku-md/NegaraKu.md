@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 Hampir setiap beg baja yang ditabur di ladang Malaysia, dan sebahagian besar resin plastik yang diacu di kilang-kilang negara ini, berasal daripada satu syarikat: Petronas Chemicals Group Berhad. Ia ialah lengan bahan kimia syarikat minyak negara, pengeluar bahan kimia bersepadu terbesar di Malaysia, dan — luar biasa bagi sebuah perniagaan berkaitan kerajaan — sebuah syarikat yang tersenarai secara berasingan yang sahamnya boleh dibeli oleh sesiapa sahaja.

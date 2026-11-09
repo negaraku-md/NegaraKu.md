@@ -77,6 +77,7 @@ verificationNeeded:
   - "Số lượng nhân sự (~43.000) và số chi nhánh (~2.600) — thay đổi theo thời gian."
   - "Tỷ lệ sở hữu cổ phần của các quỹ do PNB quản lý và EPF — thay đổi theo mỗi lần công bố với Bursa Malaysia."
   - "Số quốc gia hoạt động (cả mười quốc gia ASEAN cộng với các trung tâm tài chính toàn cầu) — có thể thay đổi."
+framework: profile
 ---
 
 Mở một tài khoản vãng lai ở gần như bất cứ đâu tại Malaysia và rất có khả năng nó mang logo đầu hổ của Maybank. Malayan Banking Berhad là ngân hàng lớn nhất của đất nước — xét theo tài sản trên bảng cân đối kế toán của nó và theo điều mà thị trường chứng khoán cho rằng nó đáng giá — và là một trong những tập đoàn ngân hàng lớn nhất Đông Nam Á. Hồ sơ này trình bày tập đoàn làm gì, hoạt động ở đâu và ai sở hữu nó.

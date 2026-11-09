@@ -96,6 +96,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["tax penalty Malaysia", "LHDN penalty rates", "section 113(2) penalty", "SST late payment penalty", "stamp duty late stamping penalty", "RPGT penalty", "kesalahan denda dan penalti", "section 112(3) treble tax"]
+framework: data-reference
 ---
 
 マレーシアには単一の税務罰則の物差しは存在しない。五つの法令がそれぞれ独自の仕組みで動いており、同じ商業上の失態が、一方の下では10%、もう一方の下では2,000%の代償を招くこともある。サービス税をRM50,000少なく申告した場合、Service Tax Act 2018 s.71(2)(a)のもとでの初回の逃税定罪では、罰金は**RM500,000からRM1,000,000**である。同じ金額の所得税を少なく申告した場合、s.113(2)のもとでの行政罰金は**当該税額に相当する額**であり、優遇措置の適用により初犯では15%となる。

@@ -68,6 +68,7 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separation-1965"]
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
+framework: explainer
 ---
 
 Mỗi năm lịch của Malaysia đều chứa hai ngày dễ bị nhầm lẫn là cùng một điều: 31 tháng 8 và 16 tháng 9. Cả hai đều được kỷ niệm bằng cờ, diễu hành và các bài ca ái quốc. Nhưng hai ngày đánh dấu những sự kiện khác nhau, cách nhau sáu năm, và mô tả hai quốc gia có hình hài khác nhau.

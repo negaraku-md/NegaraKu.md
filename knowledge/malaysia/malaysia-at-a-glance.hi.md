@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
+framework: data-reference
 ---
 
 «मलेशिया कितना बड़ा है» या «मलेशिया की जनसंख्या क्या है» पूछिए और आपको इस पर निर्भर करते हुए अलग-अलग उत्तर मिलेंगे कि आप किस वेबसाइट पर पहुँचते हैं — कुछ 2020 की जनगणना के आँकड़े उद्धृत करती हैं, कुछ दो संशोधन पीछे का विश्व बैंक अनुमान। यह पृष्ठ इसी को सुधारने के लिए है: नीचे का हर आँकड़ा एक नामित आधिकारिक रिलीज़ से आता है, तारीख़-सहित, ताकि आप ठीक-ठीक देख सकें कि वह कितना ताज़ा है और स्वयं जाँच सकें।

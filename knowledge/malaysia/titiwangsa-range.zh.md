@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 在霹雳州中部一道山脊的西侧丢下一颗椰子，最终，它腐烂后的痕迹会流入马六甲海峡。在同一道山脊的东侧、仅仅数百米之外丢下一颗，它最终会流入南中国海。地貌本身没有任何其他改变。差别只在于它落在了这条界线的哪一侧。

@@ -83,6 +83,7 @@ verificationNeeded:
   - "MICHELIN Guide 판 연도: Bib Gourmand는 매년 재평가되며 이 프로필은 그것을 단일 판에 고정하지 않는다. 집필 시점에 가장 최근 발행된 판은 MICHELIN Guide Kuala Lumpur & Penang 2026이며——MICHELIN이 2027년 판을 발행하기 전까지는 2027년 판이라고 기재하지 말 것. guide.michelin.com에서 이 가게가 현행 판에서도 Bib Gourmand를 보유하고 있는지 확인할 것."
   - "창업과 승계 세부: MICHELIN은 이 솜씨가 1933년으로 거슬러 올라가며 현재의 주방은 Teoh Kheng Sim 여사(창업자 Moh Teng Pheow의 며느리)가 자녀들과 함께 꾸려 간다고 적는다. 널리 반복되는 '14세 이민자 창업자' 기원 이야기는 확증되지 않았다. 가족사를 확장하기 전에 일차 자료나 유산 자료와 대조해 확인할 것."
   - "영업시간(MICHELIN은 매일 10:00–17:00으로 등재)——확인할 것. kueh 가게는 재고가 소진되면 일찍 닫는 경우가 많다."
+framework: profile
 ---
 
 Lebuh Chulia 옆 Jalan Masjid를 따라가면, 유리 지붕 아래 몇 개의 탁자가 놓이고 머리 위로는

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 जहाँ प्रायद्वीपीय मलेशिया तेनागा नासिओनल बरहाद (Tenaga Nasional Berhad) पर निर्भर है, वहीं सारावाक अपने दीप स्वयं जलाता है एक ही उपयोगिता के माध्यम से, जिसकी ग्रिड राष्ट्रीय ग्रिड से बिल्कुल भी जुड़ी नहीं है — और जो लगभग पूरी तरह आंतरिक क्षेत्र के विशाल बाँधों के जलप्रपातों से उत्पन्न होती है।

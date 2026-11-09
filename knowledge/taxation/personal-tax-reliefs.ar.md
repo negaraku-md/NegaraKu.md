@@ -67,6 +67,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["إعفاء ضريبي ماليزيا", "Malaysia tax relief", "pelepasan cukai individu", "قائمة مراجعة الإعفاءات الضريبية ماليزيا", "إعفاءات استمارة Borang BE", "الإعفاء الفردي LHDN"]
+framework: how-to
 ---
 
 كل رينغيت من الإعفاء يمكنك المطالبة به بصورة صحيحة يخفّض دخلك الخاضع للضريبة — ولأن

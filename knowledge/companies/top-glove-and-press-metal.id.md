@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 Dua perusahaan Malaysia memimpin bidang mereka di tingkat global. Satu adalah produsen sarung tangan sekali pakai terbesar di dunia; satu lagi adalah peleburan aluminium primer terbesar di Asia Tenggara. Keduanya bukan nama yang dikenal umum di luar kalangan investasi, namun Top Glove dan Press Metal menunjukkan bagaimana sebuah ekonomi berukuran sedang dapat melahirkan pemimpin global sektor tunggal.

@@ -78,6 +78,7 @@ verificationNeeded:
   - "Clasificación como el sexto mayor grupo bancario de Malasia por activos (The Edge Malaysia) — posicional y variable en el tiempo; reconfirmar frente a los balances actuales de los competidores."
   - "Porcentajes de participación (p. ej., la participación de ANZ de aproximadamente 21.7% anterior a 2024, y el Fondo de Previsión de los Empleados reportado en alrededor del 14.33% en torno a la salida de ANZ en junio de 2024, según The Star) — las participaciones cambian con las colocaciones y los movimientos de mercado; verificar frente a las divulgaciones más recientes sobre accionistas significativos de Bursa Malaysia."
   - "Beneficio neto del FY2025 de unos RM2.0 mil millones (año cerrado a 31 de marzo de 2025) — actualizar cada ejercicio frente a los resultados auditados de AMMB."
+framework: profile
 ---
 
 Si usted opera con un banco en Malasia, es muy probable que haya visto el nombre AmBank. Detrás de él está AMMB Holdings Berhad, la sociedad cotizada en Bursa Malaysia que encabeza uno de los grupos bancarios más grandes del país, y cuya historia va desde la banca mercantil arabo-malaya de los años setenta, pasando por una larga asociación australiana, hasta un acuerdo histórico de 2021 vinculado al escándalo de 1MDB.

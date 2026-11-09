@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 반도에 있는 당신의 집에서 불이 켜질 때마다, 그 전기는 단 하나의 회사가 소유한 전선을 통해 흐를 가능성이 큽니다. 바로 Tenaga Nasional Berhad입니다. 2025년 9월 30일 기준 반도 말레이시아, 사바, 라부안에서 1,100만 명이 넘는 고객을 둔 국가 최대의 전력 유틸리티입니다.

@@ -169,6 +169,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["échéance impôt des sociétés Malaisie", "échéance formulaire C", "date limite CP204", "échéance formulaire E", "programme de dépôt LHDN 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 Presque toutes les échéances fiscales malaisiennes sont une **règle**, pas une

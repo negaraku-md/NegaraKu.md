@@ -75,6 +75,7 @@ faq:
     a: No. UPU (Unit Pusat Universiti), the Ministry of Higher Education's centralised online system, only covers public universities, MARA institutions, polytechnics and community colleges. Private institutions (IPTS) sit entirely outside UPU and must be applied to directly; each runs its own admissions office, sets its own entry requirements per programme and can make an offer within days, often accepting UEC, A-Levels, IB and other qualifications alongside SPM and STPM.
   - q: A programme is only "provisionally accredited" — does that mean it isn't accredited?
     a: No. Under MQA's Code of Practice for Programme Accreditation, Provisional Accreditation confirms a programme has met the minimum quality requirements to be legally offered, and is itself a condition for Ministry approval. Full Accreditation is the fuller assessment carried out once a first cohort has gone through the programme. A provisionally accredited programme is legitimate and legally offerable; it simply hasn't yet completed the full-cycle assessment.
+framework: explainer
 ---
 
 Two students with the same SPM results end up in completely different systems.

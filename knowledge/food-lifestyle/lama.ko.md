@@ -79,6 +79,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang 선정은 매년 개정됩니다. 이 글은 2026년판(2025년 11월 발표)을 반영하며, 그 판에서 Lama는 신규 등재 식당이었습니다. 더 새로운 판 — 예컨대 2027년 목록 — 은 이를 추가·삭제·재배치할 수 있으므로, 의존하기 전에 guide.michelin.com에서 현재 Bib Gourmand 상태를 다시 확인하십시오."
   - "주소 상충: MICHELIN 레스토랑 페이지는 G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200으로 표기하는 반면, 일부 2차 보도는 Lama를 Setapak / Taman Ayer Panas에 둡니다. 방문 전에 올바른 현재 위치(그리고 한 곳 이상 존재하는지)를 직접 확인하십시오."
+framework: profile
 ---
 
 Peranakan 요리는 본질적으로 가정 요리입니다 — 해협 태생 화인 가정에서 대대로

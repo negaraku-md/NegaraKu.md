@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
+framework: history-culture
 ---
 
 "紧急状态"这个字眼，是一项法律上的选择，而非单纯的描述。把马来亚这场持续十二年的冲突称为"紧急状态"而非"战争"，是为了让橡胶园与锡矿场得以继续受伦敦保单承保——那些保单将战争行为排除在承保范围之外。战事是真实存在的，死亡人数达数千人之多，而由此而生的国家机器——身份证、重新安置区、扣留权力——则在紧急状态结束后又延续了数十年。

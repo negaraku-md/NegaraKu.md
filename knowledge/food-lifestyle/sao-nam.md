@@ -85,6 +85,7 @@ social:
 verificationNeeded:
   - "The exact MICHELIN edition year is labelled inconsistently across sources — the official page carries no year, press coverage referred to the '2026' MICHELIN Guide Kuala Lumpur & Penang, and the Wikipedia Bib Gourmand list now shows a '2027' column as the latest. The selection is revised annually; confirm the current status on guide.michelin.com."
   - "A commonly cited founding year of 2002, and a 'pork-free' designation, come from third-party listing sites rather than the MICHELIN page; confirm with the restaurant before stating them."
+framework: profile
 ---
 
 Behind a bright yellow façade on Tengkat Tong Shin, in the thick of Bukit

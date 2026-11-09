@@ -108,6 +108,7 @@ keywords:
   - "autoriti koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "koridor ekonomi mana yang sesuai Malaysia"
+framework: decision
 ---
 
 Lima koridor, lima otoritas, dan satu fakta yang meruntuhkan kebanyakan pemasaran: **tidak satu

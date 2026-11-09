@@ -115,6 +115,7 @@ relations:
   - { rel: "affects", to: "global-minimum-tax-pillar-two" }
 related: ["js-sez-guide", "forest-city-sfz", "new-incentive-framework", "tax-incentives-directory", "global-minimum-tax-pillar-two"]
 keywords: ["حافز ضريبة JS-SEZ", "JS-SEZ tax incentive", "ضريبة منطقة فورست سيتي المالية الخاصة", "Global Services Hub Malaysia", "معدل ضريبة المنطقة الاقتصادية الخاصة ماليزيا", "العامل المعرفي 15% ماليزيا", "JS-SEZ vs Forest City"]
+framework: decision
 ---
 
 تقع منطقتان على بُعد نحو عشرين كيلومتراً من بعضهما في جنوب جوهور، ويعاملهما السوق

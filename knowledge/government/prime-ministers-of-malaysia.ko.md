@@ -70,6 +70,7 @@ sources:
 
 related: ["kabinet-perdana-menteri", "2018-change-of-government", "barisan-nasional"]
 keywords: ["prime ministers of Malaysia", "list of Malaysian prime ministers", "Perdana Menteri Malaysia", "Anwar Ibrahim", "Mahathir Mohamad"]
+framework: data-reference
 ---
 
 말레이시아의 정부 수반은 **총리** — 하원(Dewan Rakyat) 다수의 신임을 받아 [양 디페르투안 아공(국왕)](/government/yang-di-pertuan-agong)이 임명하는 지도자 — 입니다. 1957년 독립 이래 이 직위는 **아홉 명이 맡은 열 번의 재임**을 거쳤습니다.

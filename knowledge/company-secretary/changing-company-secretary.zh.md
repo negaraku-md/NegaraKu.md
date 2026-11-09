@@ -117,6 +117,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["secretary-resignation", "secretary-vacancy-30-days", "appoint-company-secretary", "statutory-registers"]
 keywords: ["change company secretary Malaysia", "company secretary handover checklist", "section 58 Companies Act 2016", "transfer company secretary Sdn Bhd", "section 47 registered office documents", "switch secretarial firm Malaysia"]
+framework: how-to
 ---
 
 更换秘书行看起来像一件行政杂务，运作起来却像一次小型迁徙。向 SSM 提交是容易的那部分。真正

@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "حكّام الملايو", "مجلس الحكّام", "conference of rulers", "المادة 38", "monarki malaysia"]
+framework: explainer
 ---
 
 مرة واحدة في السنة، يجتمع تسعة ملوك للولايات وأربعة من يانغ دي-بيرتوا نيغري (Yang di-Pertua Negeri) في قاعة اجتماعات في كوالالمبور لاتخاذ قرارات لا يستطيع البرلمان اتخاذها — ومنها اختيار من سيصبح الملك الاتحادي. ذلك التجمّع هو مجلس الحكّام (Majlis Raja-Raja)، ويُعرَف ملوك الولايات الأعضاء فيه بحكّام الملايو.

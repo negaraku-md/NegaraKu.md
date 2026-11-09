@@ -89,6 +89,7 @@ verificationNeeded:
   - "Label tahun edisi yang ditampilkan pada halaman MICHELIN langsung restoran mungkin berbeda dari '2026' yang digunakan dalam liputan acara MICHELIN sendiri (halaman dapat menampilkan tahun atau tanggal berbeda). Pengakuan ini berlaku per seleksi Kuala Lumpur & Penang 2026; MICHELIN meninjau seleksinya setiap tahun, jadi konfirmasikan peringkat langsung sebelum mengandalkannya."
   - "Nama lengkap dan latar belakang Chef Chong tidak diberikan pada halaman MICHELIN (hanya 'self-taught Chef Chong'); konfirmasikan dengan wawancara primer atau situs resmi restoran."
   - "Jam buka, harga, dan jumlah hidangan menu cicip terkini yang tepat berubah dari waktu ke waktu — konfirmasikan langsung dengan restoran."
+framework: profile
 ---
 
 Terra Dining adalah restoran fine-dining di kawasan Taman Tun Dr Ismail (TTDI)

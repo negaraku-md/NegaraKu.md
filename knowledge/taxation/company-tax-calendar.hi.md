@@ -169,6 +169,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["कंपनी कर समय-सीमा मलेशिया", "फ़ॉर्म C समय-सीमा", "CP204 देय तिथि", "फ़ॉर्म E समय-सीमा", "LHDN फाइलिंग कार्यक्रम 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 लगभग हर मलेशियाई कर समय-सीमा एक **नियम** है, कोई तारीख नहीं। तारीख आपकी लेखा अवधि के

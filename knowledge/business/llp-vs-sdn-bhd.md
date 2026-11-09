@@ -109,6 +109,7 @@ keywords:
   - "LLP tax Malaysia"
   - "LLP audit requirement Malaysia"
   - "compliance officer LLP"
+framework: decision
 ---
 
 Open any comparison of the Malaysian LLP and you will read that it "combines the

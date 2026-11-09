@@ -76,6 +76,7 @@ keywords:
   - "رخصة BNM SC MCMC"
   - "Malaysia regulators list"
   - "sector licence Malaysia"
+framework: data-reference
 ---
 
 لا توجد قائمة رئيسية برخص الأعمال الماليزية. تحمل منصة MalaysiaBiz معلومات

@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn của MICHELIN Guide Malaysia (Kuala Lumpur & Penang) được điều chỉnh hằng năm. Hồ sơ này phản ánh ấn bản 2026; hãy xác nhận Bib Gourmand vẫn còn hiệu lực trong ấn bản mới nhất (danh sách tuyển chọn 2027 đang hình thành), vì các giải thưởng có thể được thêm vào hoặc gỡ bỏ mỗi năm."
   - "Ngày và giờ mở cửa chỉ nhận tiền mặt và do quán ấn định; hãy xác nhận giờ kinh doanh hiện tại trực tiếp trước khi đến."
+framework: profile
 ---
 
 Ở một thành phố coi asam laksa gần như một nỗi ám ảnh của cả cộng đồng, một Bib

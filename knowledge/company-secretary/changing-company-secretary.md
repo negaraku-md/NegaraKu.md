@@ -115,6 +115,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["secretary-resignation", "secretary-vacancy-30-days", "appoint-company-secretary", "statutory-registers"]
 keywords: ["change company secretary Malaysia", "company secretary handover checklist", "section 58 Companies Act 2016", "transfer company secretary Sdn Bhd", "section 47 registered office documents", "switch secretarial firm Malaysia"]
+framework: how-to
 ---
 
 Switching secretarial firms looks like an administrative errand and behaves like

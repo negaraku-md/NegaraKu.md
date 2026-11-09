@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "utiliti elektrik", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 半島であなたの家の明かりがつくたびに、その電気は十中八九、一社だけが所有する電線を通って流れている——Tenaga Nasional Berhadである。同社はマレーシア最大の電力公益事業体であり、2025年9月30日時点でマレーシア半島、サバ、ラブアンに1,100万人以上の顧客を抱える。

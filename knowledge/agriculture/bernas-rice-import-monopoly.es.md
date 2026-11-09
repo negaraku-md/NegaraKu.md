@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopolio de importación de arroz", "precio mínimo del padi", "precio suelo del padi", "Ley de Control del Arroz y el Padi 1994", "Syed Mokhtar Al-Bukhary", "seguridad alimentaria"]
+framework: profile
 ---
 
 Cada kilogramo de arroz importado que entra en Malasia pasa por una sola puerta —

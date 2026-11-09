@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["تأكيد الأمر ماليزيا", "الأمور الرئيسية للمراجعة ماليزيا", "emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 listed entities", "other matter paragraph"]
+framework: explainer
 ---
 
 يتصل مُقرِض ليقول إن الحسابات مُتحفَّظ عليها. وهي ليست كذلك. فالتقرير يحمل فقرةً

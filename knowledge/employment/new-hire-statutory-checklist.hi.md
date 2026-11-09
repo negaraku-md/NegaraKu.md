@@ -120,6 +120,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["नए कर्मचारी जाँच-सूची मलेशिया", "CP22 मलेशिया", "कर्मचारी पंजीकरण EPF SOCSO", "कर्मचारी ऑनबोर्डिंग अनुपालन मलेशिया", "धारा 60K स्वीकृति", "new hire checklist malaysia", "cp22 malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 एक नियुक्ति, चार प्राधिकरण, छह घड़ियाँ। इनमें से कोई भी ऑफ़र की तारीख से शुरू नहीं होती — ये सब

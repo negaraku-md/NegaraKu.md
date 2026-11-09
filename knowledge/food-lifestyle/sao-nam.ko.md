@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "정확한 MICHELIN 판본 연도는 자료마다 표기가 일치하지 않습니다 — 공식 페이지에는 연도가 없고, 언론 보도는 '2026' MICHELIN Guide Kuala Lumpur & Penang를 언급했으며, Wikipedia의 Bib Gourmand 목록은 현재 '2027' 열을 최신으로 표시합니다. 선정은 매년 개정됩니다. 현재 상태는 guide.michelin.com에서 확인하세요."
   - "흔히 인용되는 창업 연도 2002와 '돼지고기 미사용' 표시는 MICHELIN 페이지가 아니라 제3자 등재 사이트에서 나온 것입니다. 서술하기 전에 레스토랑에 확인하세요."
+framework: profile
 ---
 
 부킷 빈탕의 먹자골목 한복판, Tengkat Tong Shin의 밝은 노란 외관 뒤에서, Sao

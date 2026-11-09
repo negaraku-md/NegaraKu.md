@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "gdp-overview" }
 related: ["program-rahmah-cost-of-living", "cost-of-living-overview", "gdp-overview"]
 keywords: ["معدل التضخم في ماليزيا", "مؤشر أسعار المستهلك ماليزيا", "CPI Malaysia", "Malaysia inflation rate", "تكلفة المعيشة في ماليزيا", "Indeks Harga Pengguna"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

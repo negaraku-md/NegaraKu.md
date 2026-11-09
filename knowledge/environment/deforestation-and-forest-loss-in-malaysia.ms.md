@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
+framework: data-reference
 ---
 
 Tanya tiga sumber yang boleh dipercayai tentang berapa banyak kawasan Malaysia yang masih berhutan, dan anda boleh mendapat tiga jawapan yang berbeza sebanyak sepuluh mata peratusan — semuanya boleh dipertahankan, semuanya mengukur sesuatu yang sedikit berbeza. Jurang itu bukan ralat pembundaran; ia merupakan keseluruhan hujah tentang penyahhutanan Malaysia dalam bentuk kecil.

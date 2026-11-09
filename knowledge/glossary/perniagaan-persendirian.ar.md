@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "المؤسسة الفردية ماليزيا", "تسجيل SSM", "Registration of Businesses Act 1956", "ezbiz"]
+framework: explainer
 ---
 
 كشك الماماك (mamak) عند ناصية شارعك، والمصمِّم المستقل الذي يُصدِر فواتيره من مكتب منزلي، وخبّاز نهاية الأسبوع الذي يبيع عبر الإنترنت — معظمهم كائن قانوني واحد: المؤسسة الفردية. فهي أرخص الطرق وأسرعها وأكثرها شيوعًا لمزاولة الأعمال في ماليزيا، وهي في الوقت نفسه الطريقة التي تتركك أكثر عرضةً للمخاطر إذا ساءت الأمور.

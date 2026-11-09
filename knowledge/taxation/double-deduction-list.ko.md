@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["double deduction Malaysia", "further deduction income tax", "P.U.(A) double deduction list", "tax incentive gazette order Malaysia", "twice the amount deduction"]
+framework: data-reference
 ---
 
 아무도 이것을 목록으로 공표하지 않으며, 그것이 청구가 잘못되는 이유입니다. 재무 관리자가 *유연근무제가 이중 공제를 받는다*는 자문사 알림을 읽고 200%를 청구하지만, 이는 틀렸습니다 — 2025년 과세연도부터 관보 고시된 규칙은 추가 100%가 아니라 **추가 50%**를 부여합니다.

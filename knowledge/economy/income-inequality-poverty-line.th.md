@@ -92,6 +92,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 คุณอาจเคยถูกติดป้ายว่า "B40" หรือ "T20" ในแบบฟอร์มขอรับการอุดหนุน แต่ป้ายนั้นไม่ใช่

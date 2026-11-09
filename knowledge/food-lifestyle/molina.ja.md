@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN Guide のセレクションは毎年改定されます。本プロフィールは現行の掲載に示された状態を反映しており、新しい版ごとに再確認すべきです。"
   - "厨房の責任者について各情報源は食い違っています。MICHELIN の掲載と一部の報道はコンセプトをオランダ人シェフ Sidney Schutte（アムステルダムの2-Star Spectrum）に帰する一方、別の報道は Guillaume Depoortere をヘッドシェフとして挙げています——料理を特定のシェフに帰する前に、現在の役割を確認してください。"
   - "Molina が初めて Star を得た版（二次的報道は2024年11月に発表されたセレクションを指摘）は、MICHELIN の記録と照合して確認すべきです。"
+framework: profile
 ---
 
 Molina は、クアラルンプールの THE FACE Style 51階に高くそびえるイノベーティブな

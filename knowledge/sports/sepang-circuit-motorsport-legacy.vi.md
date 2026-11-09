@@ -121,6 +121,7 @@ keywords:
   - "MotoGP Sepang 2031"
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
+framework: profile
 ---
 
 Vào tháng 10 năm 2026, những chiếc xe Formula 1 sẽ lăn bánh tại Sepang lần đầu tiên sau chín năm — và biển hiệu ven đường sẽ ghi *Grand Prix Bahrain*. Malaysia không phải là chủ nhà trên giấy tờ, sẽ không trả phí bản quyền, và không vận động hành lang để quay lại lịch thi đấu. Nó chỉ đơn giản có một thứ mà Formula 1 đột nhiên cần: một trường đua đẳng cấp hàng đầu, trống trải, sẵn sàng.

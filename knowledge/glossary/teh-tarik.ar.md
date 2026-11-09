@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "warisan-kebangsaan" }
 related: ["batik", "wayang-kulit"]
 keywords: ["تيه تاريك", "teh tarik", "تقنية سحب الشاي", "رغوة تيه تاريك", "مطعم ماماك", "kedai mamak", "التراث الوطني", "warisan kebangsaan"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Teh Tarik · **English:** Pulled Milk Tea · **中文:** 拉茶

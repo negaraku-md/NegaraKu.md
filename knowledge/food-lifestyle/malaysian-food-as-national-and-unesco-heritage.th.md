@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak kut teh warisan negara", "Akta Warisan Kebangsaan 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 นาซีเลอมัก (nasi lemak) ที่คุณรับประทานเมื่อเช้าตอนนี้ถูกบันทึกอย่างเป็นทางการในทะเบียนมรดกสองทะเบียนที่แตกต่างกัน คือ ทะเบียนหนึ่งที่ปุตราจายา (Putrajaya) และอีกทะเบียนหนึ่งที่ปารีส (Paris) ทั้งสองเป็นจริง แต่ให้โดยหน่วยงานที่ต่างกัน บนฐานที่ต่างกัน และมีความหมายที่ต่างกัน

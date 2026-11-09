@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "Năm ấn bản MICHELIN chính xác được ghi không nhất quán giữa các nguồn — trang chính thức không ghi năm, báo chí nhắc đến MICHELIN Guide Kuala Lumpur & Penang '2026', còn danh sách Bib Gourmand của Wikipedia hiện hiển thị cột '2027' là mới nhất. Việc tuyển chọn được rà soát hằng năm; hãy xác nhận trạng thái hiện tại trên guide.michelin.com."
   - "Các tin mở chi nhánh ngoài Taman Cheras (ví dụ Singapore, và một cửa hàng ở Trung Quốc đại lục đang được lên kế hoạch) đến từ báo chí, không phải trang MICHELIN; hãy xác nhận chi nhánh nào đang mở và liệu Bib Gourmand chỉ áp dụng cho cơ sở gốc ở Taman Cheras hay không trước khi nêu."
+framework: profile
 ---
 
 Trong một gian cửa hàng ở Taman Cheras, một góc dân cư ở phía đông nam Kuala

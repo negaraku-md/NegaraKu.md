@@ -92,6 +92,7 @@ verificationNeeded:
   - "MICHELIN Guide の選定は毎年見直される。これを頼りにする前に、最新の MICHELIN Guide Kuala Lumpur & Penang 版で Coast by Kayra がまだ Bib Gourmand を保持しているか確認すること。"
   - "版年の表記は情報源によって一致していない——現行の選定を 2027 年版とするものもあれば、最新のリストを 2026 年とする資料もある。正しい版年を公式の MICHELIN Guide 授賞式の発表と照合して確認すること。"
   - "この店の開業日と、初めて Bib Gourmand を獲得した正確な年は MICHELIN の掲載情報には記されておらず、一次資料からは確認できていない。"
+framework: profile
 ---
 
 Coast by Kayra は、クアラルンプールの Bukit Bintang にある The Starhill モール内の、

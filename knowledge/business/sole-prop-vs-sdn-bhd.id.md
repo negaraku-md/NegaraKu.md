@@ -62,6 +62,7 @@ relations:
   - { rel: "explained-in", to: "register-enterprise-ezbiz" }
 related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd", "register-enterprise-ezbiz", "partnership-malaysia", "llp-vs-sdn-bhd"]
 keywords: ["pemilikan tunggal vs sdn bhd", "perniagaan vs sdn bhd", "perniagaan tunggal atau sdn bhd", "struktur perniagaan mana Malaysia", "cukai pemilik tunggal Malaysia"]
+framework: decision
 ---
 
 Kebanyakan orang mendekati ini sebagai soal biaya dan mendapat jawaban yang

@@ -67,6 +67,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["Malaysia DTA list", "Malaysia double taxation agreement rates", "treaty withholding tax Malaysia", "Malaysia tax treaty countries", "DTA royalty rate Malaysia"]
+framework: data-reference
 ---
 
 A treaty is a ceiling, never a floor. If the domestic rate under Schedule 1 of

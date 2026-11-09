@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN", "instrumentos musicales tradicionales"]
+framework: explainer
 ---
 
 Los mismos sonidos reaparecen detrás de casi todas las artes escénicas de Malasia: el golpe de la piel de cabra percutida en grupo en una boda, la flauta aguda y plañidera que abre una escena de teatro de sombras, y el reconfortante punteo de las cuerdas de madera en una casa larga de Sarawak. Los instrumentos que los producen aparecen en muchos artículos sobre las artes, así que esta página los reúne en un solo lugar.

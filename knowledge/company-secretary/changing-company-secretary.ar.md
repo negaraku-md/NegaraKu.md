@@ -116,6 +116,7 @@ relations:
   - { rel: "related-to", to: "registered-office" }
 related: ["secretary-resignation", "secretary-vacancy-30-days", "appoint-company-secretary", "statutory-registers"]
 keywords: ["تغيير أمين سر الشركة ماليزيا", "change company secretary Malaysia", "قائمة تحقق تسليم أمين السر", "المادة 58 قانون الشركات 2016", "section 58 Companies Act 2016", "نقل أمين سر الشركة Sdn Bhd", "مستندات المكتب المسجّل المادة 47", "تبديل شركة أمانة السر"]
+framework: how-to
 ---
 
 يبدو تبديل شركات أمانة السر مهمة إدارية روتينية لكنه يتصرف كهجرة صغيرة. فالإيداع لدى

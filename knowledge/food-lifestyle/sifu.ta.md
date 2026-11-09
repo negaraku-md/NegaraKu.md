@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 Peranakan சமையல் Penang-இன் இதய உணவு; Jalan Pintal Tali-இல் ஒரு சிறிய சமையலறை

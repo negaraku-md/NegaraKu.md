@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["pas kerja malaysia", "professional visit pass malaysia", "de rantau nomad pass", "residence pass talent malaysia", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 Tiada visa kerja Malaysia yang tunggal. Terdapat lapan atau sembilan instrumen berbeza, ditadbir oleh empat badan berbeza, dan yang mana satu diperlukan ditentukan oleh **siapa yang membayar gaji** — bukan oleh apa nama jawatan itu.

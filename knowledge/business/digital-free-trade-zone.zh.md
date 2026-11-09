@@ -131,6 +131,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 在马来西亚的商业写作里，数码自由贸易区是一则推介文告寿命远超过任何可被证实之事的

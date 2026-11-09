@@ -118,6 +118,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["new hire checklist malaysia", "cp22 malaysia", "register employee epf socso", "onboarding compliance malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 One hire, four authorities, six clocks. None of them starts on the offer date — they

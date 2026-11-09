@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "akta-lagu-kebangsaan-1968" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Negaraku", "Lagu Kebangsaan Malaysia", "Terang Bulan", "Lagu Kebesaran Negeri Perak", "Akta Lagu Kebangsaan 1968", "Akta 808"]
+framework: history-culture
 ---
 
 Vào đêm 31 tháng 8 năm 1957, khi giai điệu của Negaraku được cử lần đầu tiên trước công chúng tại Padang Kelab Selangor, giai điệu đó không phải là một điều gì mới mẻ. Nó đã là bài ca vương thất của một bang Mã Lai trong nhiều thập niên trước đó.

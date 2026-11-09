@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 土生华人料理是槟城的心头之味，而在 Jalan Pintal Tali，一间小厨房以一枚 MICHELIN

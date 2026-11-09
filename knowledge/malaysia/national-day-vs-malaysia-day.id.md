@@ -68,6 +68,7 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separation-1965"]
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
+framework: explainer
 ---
 
 Setiap tahun kalender Malaysia memuat dua tanggal yang mudah dikelirukan sebagai hal yang sama: 31 Agustus dan 16 September. Keduanya dirayakan dengan bendera, pawai, dan lagu patriotik. Namun keduanya menandai peristiwa yang berbeda, terpisah enam tahun, dan menggambarkan dua negara yang berlainan bentuk.

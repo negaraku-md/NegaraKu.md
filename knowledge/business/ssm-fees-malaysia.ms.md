@@ -84,6 +84,7 @@ keywords:
   - "yuran penyata tahunan SSM"
   - "yuran pendaftaran LLP"
   - "jadual yuran SSM 2026"
+framework: data-reference
 ---
 
 Tiga jadual yuran berasingan, tiga statut berasingan, dan tiada satu pun halaman di laman

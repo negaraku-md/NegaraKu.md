@@ -126,6 +126,7 @@ keywords:
   - "MD Location Recognition"
   - "Cyberview Sdn Bhd"
   - "Cyberjaya tech hub"
+framework: profile
 ---
 
 يُطلَق اسم سايبرجايا على شيئين مختلفين، والخلط بينهما مكلف.

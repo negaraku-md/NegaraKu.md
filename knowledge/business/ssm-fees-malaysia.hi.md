@@ -89,6 +89,7 @@ keywords:
   - "LLP registration fee"
   - "SSM शुल्क तालिका 2026"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 तीन अलग-अलग शुल्क अनुसूचियाँ, तीन अलग-अलग क़ानून, और SSM की साइट पर कोई एक पृष्ठ नहीं जो उन्हें आमने-सामने

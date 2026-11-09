@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "pcb-mtd-malaysia" }
 related: ["epf-employer-guide", "socso-eis-employer-guide", "pcb-mtd-malaysia"]
 keywords: ["KWSP", "PERKESO", "SOCSO", "KWSP और PERKESO में अंतर", "beza KWSP PERKESO", "मलेशिया कर्मचारी वैधानिक अंशदान", "वेतन कटौती KWSP SOCSO", "KWSP अंशदान दर", "SOCSO श्रेणियाँ", "kadar caruman KWSP"]
+framework: explainer
 ---
 
 किसी भी मलेशियाई कर्मचारी की वेतन-पर्ची खोलिए और उसमें दो वैधानिक कटौतियाँ होती

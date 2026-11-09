@@ -68,6 +68,7 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separation-1965"]
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
+framework: explainer
 ---
 
 Every year, Malaysia's calendar contains two dates that are easily mistaken for the same thing: 31 August and 16 September. Both are marked with flags, parades and patriotic songs. Yet the two commemorate different events, six years apart, and describe two differently shaped countries.

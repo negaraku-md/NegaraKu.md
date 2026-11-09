@@ -68,6 +68,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["Malaysia DTA list", "Malaysia double taxation agreement rates", "treaty withholding tax Malaysia", "Malaysia tax treaty countries", "DTA royalty rate Malaysia"]
+framework: data-reference
 ---
 
 Một hiệp định là một mức trần, không bao giờ là một mức sàn. Nếu mức trong nước theo Schedule 1 của

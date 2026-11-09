@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
+framework: explainer
 ---
 
 同样的声响在马来西亚几乎每一场表演艺术的背后反复回荡：婚礼上众人齐击的羊皮鼓点、皮影戏开场时高亢缠绵的笛音，以及砂拉越长屋里那令人心安的木弦拨奏。奏出这些声响的乐器常常出现在众多艺术文章中——因此本页将它们汇集于一处。

@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "non-deductible-expenses" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "form-c-and-cp204"]
 keywords: ["déduction double Malaisie", "déduction supplémentaire impôt sur le revenu", "liste de déduction double P.U.(A)", "ordonnance du journal officiel incitations fiscales Malaisie", "double deduction Malaysia", "further deduction income tax"]
+framework: data-reference
 ---
 
 Personne ne publie cela sous forme de liste, et c'est pourquoi les demandes tournent mal. Un

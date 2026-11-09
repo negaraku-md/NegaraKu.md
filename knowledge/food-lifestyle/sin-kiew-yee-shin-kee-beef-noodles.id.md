@@ -89,6 +89,7 @@ verificationNeeded:
   - "Seleksi MICHELIN Guide direvisi setiap tahun; pastikan Sin Kiew Yee Shin Kee masih memegang Bib Gourmand-nya dalam edisi terbaru MICHELIN Guide Kuala Lumpur & Penang sebelum mengandalkannya."
   - "Pelabelan tahun edisi tidak konsisten di berbagai sumber — sebagian menyebut seleksi saat ini sebagai edisi 2027 sementara materi lain melabeli daftar terbaru sebagai 2026. Pastikan tahun edisi yang benar berdasarkan pengumuman resmi acara MICHELIN Guide."
   - "Tanggal pendirian 1949 berasal dari ringkasan pencantuman MICHELIN; situs daftar sekunder mengulanginya tetapi sumber sejarah primer tidak ditemukan."
+framework: profile
 ---
 
 Sin Kiew Yee Shin Kee Beef Noodles adalah kedai mi veteran di jantung pusat kota

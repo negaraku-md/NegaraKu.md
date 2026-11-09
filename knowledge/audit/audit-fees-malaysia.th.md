@@ -78,6 +78,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["audit fees Malaysia", "MIA audit fee schedule", "RPG 7 withdrawn", "audit fee table Malaysia", "minimum audit fee dormant company", "how much does an audit cost Malaysia"]
+framework: data-reference
 ---
 
 ค้นหาค่าธรรมเนียมการสอบบัญชีของมาเลเซีย แล้วคุณจะได้เห็นตารางสัมประสิทธิ์: 1.000% สำหรับ RM100,000 แรก, 0.438% สำหรับ RM150,000 ถัดไป ค่อย ๆ ลดลง โดยมีขั้นต่ำ RM800 สำหรับบริษัทที่ไม่มีการดำเนินงาน มันถูกนำเสนอในฐานะตารางของ MIA บางครั้งก็ในฐานะค่าธรรมเนียมขั้นต่ำที่อนุญาต

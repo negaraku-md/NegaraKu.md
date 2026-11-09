@@ -67,6 +67,7 @@ relations:
   - { rel: "related-to", to: "malaysian-conglomerates" }
 related: []
 keywords: ["Sunway Group", "Sunway Berhad", "Sunway Medical", "Sunway University", "मलेशियाई समूह", "एकीकृत टाउनशिप", "integrated township", "Jeffrey Cheah"]
+framework: profile
 ---
 
 संवे समूह भूमि को पूरे टाउनशिप में बदल देता है — घर, मॉल, अस्पताल, विश्वविद्यालय और थीम पार्क, सब एक ही मास्टर प्लान पर — और फिर जो बनाता है उसे संचालित भी करता रहता है।

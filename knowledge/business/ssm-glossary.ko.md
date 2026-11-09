@@ -80,6 +80,7 @@ keywords:
   - "Form 9 SSM replacement"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 말레이시아 회사 관리에서 혼란의 절반은 어휘입니다. 비슷한 약어를 가진 두 개의

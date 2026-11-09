@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["Malaysia tax incentives list", "MIDA tax incentive", "Pioneer Status Malaysia status", "Global Services Hub incentive", "Malaysia incentive gazette order", "tax incentive directory Malaysia"]
+framework: data-reference
 ---
 
 La plupart des listes d'incitatifs sur le web malaisien sont des copies d'une copie. Elles proposent encore le Pioneer Status, décrivent encore le Principal Hub comme si l'on pouvait y postuler, et ne disent jamais sur quel arrêté publié au journal officiel tout cela repose. La règle appliquée ici est plus étroite et plus terne : **un incitatif apparaît ci-dessous uniquement si son propre instrument ou sa directive officielle a été ouvert et lu**, et la colonne de statut rapporte ce que ce document dit lui-même de la fenêtre de demande.

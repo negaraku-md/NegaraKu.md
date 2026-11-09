@@ -125,6 +125,7 @@ keywords:
   - "MD Cybercity Cybercentre"
   - "MD Location Recognition"
   - "Cyberview Sdn Bhd"
+framework: profile
 ---
 
 사이버자야라고 불리는 두 가지 서로 다른 것이 있으며, 이 둘을 혼동하면 비용이 큽니다.

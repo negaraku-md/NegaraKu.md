@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
+framework: explainer
 ---
 
 พื้นที่ที่อยู่อาศัยสองแห่งสามารถดูเหมือนกันได้ ทั้งป้อมยามอิฐ ประตูกั้นลาย ยามในเครื่องแบบตรวจสติกเกอร์ของคุณ แห่งหนึ่งยืนอยู่บนพื้นฐานทางกฎหมายที่มั่นคง อีกแห่งหนึ่งดำรงอยู่ได้เพราะยังไม่มีใครโต้แย้ง

@@ -85,6 +85,7 @@ verificationNeeded:
   - "Senarai pilihan MICHELIN Guide disemak semula setiap tahun; profil ini mencerminkan status yang ditunjukkan dalam penyenaraian semasa dan patut disemak semula selepas setiap edisi baharu."
   - "Penyenaraian MICHELIN menamakan ketua dapur hanya sebagai 'chef Low'; satu artikel MICHELIN dan liputan sekunder melaporkan nama cef-pemilik sebagai Aidan Low — sahkan nama penuh sebelum menyatakannya."
   - "Edisi yang mana Akar mula-mula menerima Star-nya (senarai pilihan semasa menyenaraikannya sebagai 'newly promoted') patut disahkan terhadap rekod MICHELIN."
+framework: profile
 ---
 
 Akar ialah sebuah restoran fine dining Malaysia moden di Taman Tun Dr Ismail

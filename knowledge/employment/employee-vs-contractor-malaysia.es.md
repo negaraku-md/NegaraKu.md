@@ -84,6 +84,7 @@ relations:
   - { rel: "related-to", to: "socso-eis-employer-guide" }
 related: ["labour-law-map-malaysia", "gig-workers-act-2025", "employment-contract-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "fixed-term-contract-malaysia"]
 keywords: ["empleado vs contratista malasia", "contratista independiente malasia", "clasificación de trabajadores malasia", "contract for service vs contract of service", "clasificación trabajador de plataforma malasia", "employee vs contractor malaysia"]
+framework: explainer
 ---
 
 Hasta el 31 de marzo de 2026 esta era una cuestión binaria en Malasia: contrato **de** servicio (contract *of* service), o contrato **para** servicios (contract *for* service). La Ley de Trabajadores de Plataforma de 2025 cambió la forma del problema al crear un tercer estatus con su propia ley, su propio tribunal y su propia deducción, y al definir ese estatus **negativamente**, de modo que la cuestión de clasificación que ya venía usted resolviendo mal ahora tiene que responderse primero.

@@ -80,6 +80,7 @@ verificationNeeded:
   - "MICHELIN Guide संस्करण वर्ष: Bib Gourmand का हर वर्ष पुनर्मूल्यांकन होता है और यह प्रोफ़ाइल इसे किसी एक संस्करण से नहीं बाँधती। लिखे जाने के समय प्रकाशित सबसे हालिया संस्करण MICHELIN Guide Kuala Lumpur & Penang 2026 है — जब तक MICHELIN 2027 संस्करण प्रकाशित न करे, 2027 संस्करण का उल्लेख न करें। guide.michelin.com पर पुष्टि करें कि Communal Table by Gēn वर्तमान संस्करण में अब भी Bib Gourmand रखता है।"
   - "शेफ़ की पहचान: द्वितीयक कवरेज Johnson Wong को शेफ़ और Malaysian MICHELIN Guide Young Chef Award 2024 के प्राप्तकर्ता के रूप में नाम देती है; MICHELIN का रेस्तरां पृष्ठ Young Chef Award का उल्लेख करता है पर शायद उनका नाम न ले। पाठ में शेफ़ का नाम बताने से पहले किसी MICHELIN या प्रथम-पक्ष स्रोत से पुष्टि करें।"
   - "खुलने का समय MICHELIN के विभिन्न भाषा-पृष्ठों के बीच भिन्न है (एक सोमवार की सेवा दिखाता है, दूसरा इसे बंद दिनों में शामिल करता है) — प्रकाशन से पहले वर्तमान समय-सारणी सत्यापित करें।"
+framework: profile
 ---
 
 **Communal Table by Gēn**, George Town के Bib Gourmand नामों में सबसे समकालीन है:

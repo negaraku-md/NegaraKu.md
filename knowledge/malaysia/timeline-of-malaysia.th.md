@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["sejarah Malaysia", "garis masa Malaysia", "Merdeka 1957", "pembentukan Malaysia 1963", "perdana menteri Malaysia"]
+framework: history-culture
 ---
 
 นานก่อนที่ชื่อ "มาเลเซีย" จะมีอยู่ ชายฝั่งและหมู่เกาะนี้เป็นหนึ่งในชุมทางทะเลที่คึกคักที่สุดในโลก คือ ที่ที่ลมมรสุมส่งมอบเรือระหว่างอินเดียกับจีน และที่ที่อาณาจักรทางทะเล รัฐสุลต่าน จักรวรรดิ ตลอดจนเจ้าอาณานิคม ต่างทิ้งชั้นของตนไว้ เส้นเวลานี้เรียบเรียงเรื่องนั้นในเจ็ดยุค แต่ละยุคเปิดด้วยภาพของยุคสมัย ตามด้วยรายการหมุดหมายสำคัญโดยย่อที่เชื่อมโยงไปยังบทความฉบับเต็ม

@@ -179,6 +179,7 @@ relations:
   - { rel: "explained-in", to: "minimum-wage-malaysia" }
 related: ["form-e-ea-cp8d-malaysia", "hrd-corp-levy-malaysia", "minimum-wage-malaysia", "payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide"]
 keywords: ["مواعيد كشوف الرواتب ماليزيا", "Malaysia payroll deadlines", "معدلات EPF SOCSO EIS", "معدلات الاشتراكات القانونية ماليزيا", "موعد استحقاق كشوف الرواتب اليوم 15", "موعد PCB النهائي", "معدل رسم HRD"]
+framework: data-reference
 ---
 
 جدول مرجعي واحد، كل صف متتبَّع إلى الجهة التي تنشره. والصفوف التي تعذَّر التحقق منها

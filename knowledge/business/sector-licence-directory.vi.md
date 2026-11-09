@@ -74,6 +74,7 @@ keywords:
   - "sector licence Malaysia"
   - "BNM SC MCMC licence"
   - "Malaysian licensing authorities"
+framework: data-reference
 ---
 
 Không có một danh sách chính về các giấy phép kinh doanh của Malaysia. MalaysiaBiz mang thông tin

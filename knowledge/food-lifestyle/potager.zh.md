@@ -86,6 +86,7 @@ verificationNeeded:
   - "区别：一份简介把 Potager 标为「一星 MICHELIN」餐厅，但官方《MICHELIN Guide Kuala Lumpur & Penang》2026 年完整名单把它列入「Selected」类别，而非一星餐厅之列。本文依据官方名单。请在官方页面重新确认当前的等级，因为该餐厅自己的名单图标可能被误认为星星。"
   - "主厨归属：「Chef Masashi」出现在 MICHELIN 名单的照片说明中，而姓氏 Horiuchi 由第二手报道（Options/The Edge）证实，但并未印在 MICHELIN 名单的正文中——请向餐厅自己的网站确认。"
   - "MICHELIN 在线名单上的版本年份标签，可能与 MICHELIN 典礼报道所用的「2026」不同；甄选每年重新检讨。营业时间与价格也会变动——请向餐厅确认。"
+framework: profile
 ---
 
 Potager 是一家当代法式餐厅，隐身于 Bamboo Hills——一处位于吉隆坡双溪毛糯

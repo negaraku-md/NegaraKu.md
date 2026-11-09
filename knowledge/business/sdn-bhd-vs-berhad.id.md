@@ -68,6 +68,7 @@ keywords:
   - "seksyen 42 Akta Syarikat 2016"
   - "tukar Sdn Bhd kepada Berhad"
   - "beza Sdn Bhd dan Berhad"
+framework: explainer
 ---
 
 Hampir tidak ada seorang pun yang mengonversi Sdn Bhd menjadi Berhad karena kehabisan slot pemegang

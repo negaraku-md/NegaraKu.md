@@ -89,6 +89,7 @@ keywords:
   - "LLP registration fee"
   - "جدول رسوم SSM 2026"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 ثلاثة جداول رسوم منفصلة، وثلاثة تشريعات منفصلة، ولا صفحة واحدة على موقع SSM تضعها جنبًا إلى

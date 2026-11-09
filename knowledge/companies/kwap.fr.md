@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 Chaque fois qu'un fonctionnaire fédéral part à la retraite, l'argent de sa pension doit venir de quelque part. Ce quelque part est KWAP, et à la fin de 2024 sa poche d'investissement valait RM185.6 milliards.

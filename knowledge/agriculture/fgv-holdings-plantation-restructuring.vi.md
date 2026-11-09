@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
+framework: profile
 ---
 
 Năm 2012 nó là niềm tự hào của thị trường — một đợt niêm yết khổng lồ từng xếp thứ hai thế giới chỉ sau Facebook. Mười ba năm sau, chính công ty đó lặng lẽ rời khỏi Bursa Malaysia ở một phần nhỏ giá ra mắt, được mua lại bởi chính cơ quan đã đưa nó lên sàn.

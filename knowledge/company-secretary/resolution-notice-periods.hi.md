@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "written-resolutions" }
 related: ["written-resolutions", "agm-requirements", "egm-requisition", "remove-a-director"]
 keywords: ["संकल्प सूचना-अवधि मलेशिया", "21 दिन विशेष संकल्प", "विशेष सूचना 28 दिन", "अल्प सूचना बैठक 90 प्रतिशत", "धारा 316 कंपनी अधिनियम 2016", "notice period resolution Malaysia", "section 316 Companies Act 2016"]
+framework: data-reference
 ---
 
 तीन मलेशियाई सचिवीय फ़र्मों से पूछें कि किसी विशेष संकल्प को कितने दिन की सूचना

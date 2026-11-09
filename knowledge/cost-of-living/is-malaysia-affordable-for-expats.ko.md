@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["is Malaysia affordable for expats", "cost of living Malaysia expats", "Malaysia remote worker cost of living", "Malaysia vs Western cost of living", "expat budget Malaysia", "digital nomad Malaysia affordability"]
+framework: data-reference
 ---
 
 ## 한눈에 보기

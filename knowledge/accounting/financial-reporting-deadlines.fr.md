@@ -148,6 +148,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["financial-year-end", "financial-statement-pack", "mbrs-2-filing-guide", "audit-exemption-thresholds", "sdn-bhd-first-year-compliance", "annual-return", "form-c-and-cp204", "company-tax-calendar"]
 keywords: ["délai états financiers Malaisie", "section 258 circulation six mois", "section 259 dépôt 30 jours", "sanction SSM dépôt tardif", "prorogation de délai SSM états financiers", "18 mois premiers états financiers", "délai information financière Sdn Bhd", "financial statements deadline Malaysia", "SSM late lodgement penalty"]
+framework: data-reference
 ---
 
 Demandez à la plupart des sources malaisiennes quand les états financiers sont dus et on vous

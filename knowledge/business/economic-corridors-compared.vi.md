@@ -107,6 +107,7 @@ keywords:
   - "koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "which economic corridor Malaysia"
+framework: decision
 ---
 
 Năm hành lang, năm cơ quan, và một sự thật làm sụp đổ phần lớn tiếp thị: **không một cái nào trong

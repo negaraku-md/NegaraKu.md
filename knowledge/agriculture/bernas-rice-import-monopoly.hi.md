@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "चावल आयात एकाधिकार", "न्यूनतम धान मूल्य", "धान फ़्लोर मूल्य", "धान एवं चावल नियंत्रण अधिनियम 1994", "Syed Mokhtar Al-Bukhary", "खाद्य सुरक्षा"]
+framework: profile
 ---
 
 मलेशिया में प्रवेश करने वाले आयातित चावल का हर किलोग्राम एक ही द्वार से होकर गुज़रता है —

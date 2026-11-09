@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
+framework: data-reference
 ---
 
 Pregunte «¿qué tan grande es Malasia?» o «¿cuál es la población de Malasia?» y obtendrá una respuesta distinta según la página web en la que aterrice — unas citando cifras del censo de 2020, otras citando una estimación del Banco Mundial dos revisiones atrasada. Esta página existe para corregir eso: cada cifra de más abajo procede de una publicación oficial con nombre, fechada, para que pueda ver con exactitud qué tan actual es y comprobarla usted mismo.

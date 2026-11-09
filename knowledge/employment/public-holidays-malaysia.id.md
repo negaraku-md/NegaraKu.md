@@ -76,6 +76,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["leave-entitlements-malaysia", "working-hours-overtime-malaysia", "employment-act-coverage"]
 keywords: ["hari kelepasan am malaysia 2026", "cuti umum 2026", "hari kelepasan negeri malaysia", "hari kelepasan am diwartakan", "seksyen 60d akta kerja"]
+framework: data-reference
 ---
 
 Dua sistem berjalan paralel dan masing-masing menjawab pertanyaan yang berbeda. **Holidays

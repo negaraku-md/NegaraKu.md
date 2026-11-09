@@ -111,6 +111,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "tanjung pelepas ptp throughput", "malaysia port statistics 2025", "ecrl completion date", "ecrl land bridge kuantan port klang", "5g coverage by state malaysia", "mcmc broadband by state", "saidi malaysia"]
+framework: data-reference
 ---
 
 马来西亚有三十几个商业港口，而真正在货柜上有分量的只有两个。它有六个国际机场，而以规模运送空运货物的只有一个。知道你的地点落在那条线的哪一边，比任何州属宣传册上的设施清单都值钱。

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kl-sports-city" }
 related: []
 keywords: ["stadium nasional bukit jalil", "velodrom nasional", "litar sepang", "stadium hoki nasional", "gelanggang sukan malaysia"]
+framework: profile
 ---
 
 เมื่อผู้ชม 85,500 คนเติมเต็มอัฒจันทร์สามชั้นโค้งของสนามกีฬาแห่งชาติ TM ในคืนรอบชิงชนะเลิศฟุตบอล พวกเขากำลังนั่งอยู่ภายในสัญลักษณ์ที่ใหญ่ที่สุดของโครงสร้างพื้นฐานกีฬาของมาเลเซีย แต่มันเป็นเพียงหนึ่งในบรรดาสนามที่รองรับงานหลักของประเทศ

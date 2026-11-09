@@ -65,6 +65,7 @@ relations:
   - { rel: "related-to", to: "petronas" }
 related: ["petronas"]
 keywords: ["MISC Berhad", "transport de GNL", "Petronas", "AET Tankers", "Bursa Malaysia", "FPSO", "Malaisie maritime", "MMHE"]
+framework: profile
 ---
 
 MISC Berhad est le bras maritime de l'économie énergétique de la Malaisie — le groupe qui achemine le gaz et le pétrole du pays à travers les océans du monde.

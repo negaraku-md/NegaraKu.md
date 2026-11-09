@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 두 말레이시아 회사가 각자의 분야에서 세계를 선도합니다. 하나는 세계 최대의 일회용 장갑 제조사이고, 다른 하나는 동남아시아 최대의 1차 알루미늄 제련사입니다. 둘 다 투자업계 밖에서는 널리 알려진 이름이 아니지만, Top Glove와 Press Metal은 중견 규모의 경제가 어떻게 단일 부문 세계 선도 기업을 배출할 수 있는지를 보여 줍니다.

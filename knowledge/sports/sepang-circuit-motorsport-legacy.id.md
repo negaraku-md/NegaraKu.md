@@ -121,6 +121,7 @@ keywords:
   - "MotoGP Sepang 2031"
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
+framework: profile
 ---
 
 Pada Oktober 2026, mobil Formula 1 akan berlomba di Sepang untuk kali pertama dalam sembilan tahun — dan papan tanda di tepi sirkuit akan tertera *Grand Prix Bahrain*. Malaysia bukan tuan rumah di atas kertas, tidak akan membayar biaya lisensi, dan tidak melobi untuk kembali ke kalender balapan. Ia hanya memiliki satu hal yang tiba-tiba dibutuhkan oleh Formula 1: sebuah sirkuit bertaraf tertinggi yang kosong dan siap digunakan.

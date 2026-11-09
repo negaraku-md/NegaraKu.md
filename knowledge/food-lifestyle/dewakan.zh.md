@@ -89,6 +89,7 @@ verificationNeeded:
   - "MICHELIN 的认可被陈述为当前状态。确切的版本年份在各来源间含糊不清：MICHELIN 自家的完整精选名单文章将该名单标示为 MICHELIN Guide Kuala Lumpur & Penang 2026（颁奖礼于 2025 年 11 月 11 日），而部分次级报道则提及一个于 11 月 4 日公布的「2027」版本。请对照 MICHELIN 的官方发布核实确切的版本年份与公布日期。"
   - "MICHELIN Guide 的精选名单每年修订；本篇简介反映当前名录所显示的状态，并应在每个新版本发布后重新查核。"
   - "撰文时 MICHELIN 的主名录并未显示 Green Star 标章，尽管 MICHELIN 的相关文字与次级报道将 Dewakan 描述为 Green Star 餐厅（首次颁发于 2025 年版）——请核实 Green Star 是否显示于当前名录。"
+framework: profile
 ---
 
 Dewakan 坐落于吉隆坡 Platinum Park 的 Naza Tower 48 楼，是一家被

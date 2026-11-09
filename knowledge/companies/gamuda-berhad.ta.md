@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
+framework: profile
 ---
 
 Gamuda ஒரு மலேசிய நெடுஞ்சாலையுடன் தொடங்கி, பிராந்தியத்தின் மிகப்பெரிய சுரங்கம் தோண்டுதல் மற்றும் ரயில் ஒப்பந்ததாரர்களில் ஒன்றாக வளர்ந்தது. இன்று, அதன் பணியின் வளர்ந்துவரும் பங்கு மலேசியாவுக்கு வெளியே அமைந்துள்ளது.

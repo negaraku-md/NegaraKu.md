@@ -153,6 +153,7 @@ keywords:
   - "société fiduciaire de Labuan"
   - "Labuan company Malaysia"
   - "Labuan IBFC company"
+framework: decision
 ---
 
 Labuan reçoit deux sortes de couverture et toutes deux sont inutiles.

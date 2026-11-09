@@ -98,6 +98,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "syarikat Sdn Bhd milikan asing keperluan modal"
   - "keperluan modal berbayar ESD"
+framework: rules
 ---
 
 Tanyakan kepada sepuluh penyedia layanan korporat Malaysia berapa modal disetor minimum

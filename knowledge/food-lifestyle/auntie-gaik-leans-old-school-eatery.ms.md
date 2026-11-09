@@ -94,6 +94,7 @@ verificationNeeded:
   - "Label tahun edisi pada penyenaraian MICHELIN langsung restoran ini mungkin berbeza daripada '2026' yang digunakan dalam liputan majlis MICHELIN; bintang itu pertama kali dianugerahkan dalam pemilihan sulung 2022 dan dikekalkan sejak itu. Pemilihan disemak semula setiap tahun — sahkan pengiktirafan semasa pada halaman rasmi."
   - "Usia sebenar Chef Beh Gaik Lean pada masa anugerah dilaporkan berbeza-beza (sumber menyebut 69 dan 70, dengan tahun kelahiran 1952 atau 1953); dakwaan 'wanita Malaysia pertama menerima bintang MICHELIN' datang daripada laporan sekunder — sahkan terhadap sumber utama sebelum menyatakannya secara pasti."
   - "Penyenaraian MICHELIN menyebut gulai tumis menggunakan 'fresh saffron' (safron segar) antara rempahnya; ini mungkin terjemahan bagi kunyit segar dan bukannya safron sebenar — sahkan dengan restoran. Waktu operasi dan tahap harga juga perlu disahkan secara langsung."
+framework: profile
 ---
 
 Auntie Gaik Lean's Old School Eatery ialah sebuah restoran berbintang satu

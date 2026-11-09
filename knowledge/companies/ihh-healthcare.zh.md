@@ -76,6 +76,7 @@ verificationNeeded:
   - "运营病床——2024财政年常年报告引述马来西亚约3,558张持牌病床、新加坡约697张运营病床、印度约5,602张运营病床（截至2024年12月31日）。病床数目随时间变动；对照最新申报重新确认。"
   - "营收——2024财政年（截至2024年12月31日止年度）集团营收约 RM24.4 billion、净利约 RM2.66 billion，据 IHH 业绩发布。对照每份新的常年／季度报告重新确认数字与基准。"
   - "持股——三井物产（Mitsui & Co）被引述持有约32%至33%（透过 MBK Healthcare Management），国库控股（Khazanah Nasional）持有相当比例的少数股权。确切百分比会随配售与增持而变动；在引用数字之前对照最新的 Bursa Malaysia／SGX 披露核实。"
+framework: profile
 ---
 
 走进吉隆坡的 Pantai 或 Gleneagles 医院、新加坡的一间 Mount Elizabeth 病房、伊斯坦布尔的一家 Acibadem 诊所，或是德里的一间 Fortis 中心，你就踏进了同一个企业大家庭。那个大家庭就是 IHH Healthcare Berhad——一家总部设于马来西亚、已成长为世界上最大的私人医院运营商之一的公司。

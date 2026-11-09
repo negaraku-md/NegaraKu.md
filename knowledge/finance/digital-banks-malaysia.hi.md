@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["मलेशिया में डिजिटल बैंक", "digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM डिजिटल बैंकिंग लाइसेंस", "PIDM"]
+framework: data-reference
 ---
 
 अब आप एक मलेशियाई बैंक खाता बिना कभी किसी शाखा में कदम रखे, डेबिट कार्ड ऑर्डर किए, या कागज़ी फ़ॉर्म भरे खोल सकते हैं — और पाँच लाइसेंस प्राप्त संस्थान इसे पूरी तरह आपके फ़ोन से करने के लिए प्रतिस्पर्धा कर रहे हैं।

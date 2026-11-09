@@ -69,6 +69,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["Malaysia DTA list", "Malaysia double taxation agreement rates", "treaty withholding tax Malaysia", "Malaysia tax treaty countries", "DTA royalty rate Malaysia"]
+framework: data-reference
 ---
 
 协定是天花板，从来不是地板。若 Income Tax Act 1967 Schedule 1 之下的国内税率低于

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL federal territory", "Bursa Malaysia", "Petronas Twin Towers", "Klang Valley"]
+framework: profile
 ---
 
 Kuala Lumpur est la capitale nationale de la Malaisie, mais sur le plan constitutionnel ce

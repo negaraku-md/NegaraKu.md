@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["ranking coste de vida Malasia", "Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malasia", "EIU Worldwide Cost of Living", "ciudades más baratas Sudeste Asiático", "coste de vida expatriado Malasia"]
+framework: data-reference
 ---
 
 Pregunte a un consultor de reubicación dónde destinar personal con una asignación ajustada en Asia, y Kuala Lumpur sigue apareciendo — no porque las encuestas la favorezcan, sino porque las cifras realmente la sitúan cerca del final de la tabla de costes. La ciudad que ancla a Malasia es uno de los pocos lugares que puntúa como barata *y* habitable al mismo tiempo.

@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "sales-tax-act-2018" }
 related: ["e-invoicing", "sst-explained", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice"]
 keywords: ["e-Invoice vs tax invoice", "SST invoice requirements", "Service Tax Regulations 2018 regulation 10", "sales tax invoice particulars", "LHDN RMCD invoice", "invois cukai SST"]
+framework: explainer
 ---
 
 把一张发票拿去 MyInvois 验证，并不会让它变成一张 SST 发票。这句话给已注册 SST

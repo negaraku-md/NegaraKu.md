@@ -105,6 +105,7 @@ relations:
   - { rel: "related-to", to: "palm-oil-sector" }
 related: ["johor", "selangor", "negeri-sembilan", "palm-oil-sector", "gdp-overview"]
 keywords: ["Pahang", "Pahang Darul Makmur", "Kuantan", "Pekan ciudad real", "Sultán de Pahang", "Taman Negara", "Gunung Tahan", "Cameron Highlands", "distritos de Pahang", "PIB de Pahang"]
+framework: profile
 ---
 
 Pahang abarca más de una cuarta parte de la superficie terrestre de la Malasia peninsular, y

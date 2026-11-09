@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["cost of living Penang", "Penang vs Klang Valley cost of living", "George Town rent", "Seberang Perai cost of living", "Penang Island vs mainland", "Penang household income", "living in Penang cost"]
+framework: data-reference
 ---
 
 Penang là bang Malaysia duy nhất mà "chi phí sinh hoạt" không thể được trả lời bằng một con số duy nhất, bởi vì Penang không phải là một nơi. Đó là một hòn đảo và một dải đất liền, nối với nhau bằng hai cây cầu và một chuyến phà, với một lõi Di sản Thế giới UNESCO ở một bên và các thị trấn công nghiệp cảng container ở bên kia. Bất kỳ con số nào san bằng "Penang" thành một dòng đã vứt bỏ thông tin hữu ích nhất.

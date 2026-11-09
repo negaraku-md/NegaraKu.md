@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cyberjaya-tech-hub" }
 related: ["mdec-digital-status", "digital-free-trade-zone", "cyberjaya-tech-hub"]
 keywords: ["ekonomi digital malaysia", "sumbangan ict kepada kdnk malaysia", "akaun satelit ict dosm", "gva e-dagang malaysia", "pendapatan e-dagang malaysia", "penembusan internet malaysia", "gvaict"]
+framework: data-reference
 ---
 
 每当有人说“马来西亚数字经济价值 4513 亿令吉”，这个数字是对的——但几乎从不附带说明它究竟衡量的是什么。它不是线上销售额，不是科技公司的收入，也不是电子商务的交易额。它是一种增加值的衡量指标，而三个不同的指标经常被混为一谈。

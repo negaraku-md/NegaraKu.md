@@ -124,6 +124,7 @@ relations:
   - { rel: "explained-in", to: "sarawak-business-guide" }
 related: ["business-costs-by-region", "state-investment-agencies", "sarawak-business-guide", "ncer-guide", "js-sez-guide", "economic-corridors-compared"]
 keywords: ["malaysia labour force by state", "median salary by state malaysia", "dosm labour force survey 2025", "penang electronics talent", "johor singapore workers", "minimum wage malaysia state", "sarawak employment pass genesis"]
+framework: data-reference
 ---
 
 மலேசியாவில் இடம் தேர்வு செய்யும் ஒவ்வொரு நிறுவனரும் முதலில் கொண்டுவரும் எண்ணம், கிள்ளான் பள்ளத்தாக்கை (Klang Valley) விட்டு வெளியேறினால் ஊதியச் செலவு குறையும் என்பதுதான். தரவு அது உண்மை என்கிறது — ஆனால் சேமிப்பில் பெரும்பகுதி உங்களுக்கு எடுத்துக்கொள்ள உரியதல்ல என்று சட்டம் கூறுகிறது, ஏனெனில் அடித்தளமும் அதற்கு மேலான ஒவ்வொரு பங்களிப்பும் கூட்டரசு அளவில் நிர்ணயிக்கப்படுகின்றன.

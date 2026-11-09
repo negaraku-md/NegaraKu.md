@@ -121,6 +121,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["MyInvois phases", "e-Invoice implementation date Malaysia", "e-Invoice exemption RM1 million", "e-Invoice relaxation period", "LHDN e-Invoice timeline", "tarikh pelaksanaan e-invois"]
+framework: data-reference
 ---
 
 สองตัวเลขตัดสินทุกอย่าง: มูลค่าการซื้อขาย FY2022 ของคุณ ซึ่งกำหนดระยะของคุณอย่างถาวร และ RM1,000,000 ซึ่ง

@@ -73,6 +73,7 @@ related:
   - "nyonya-peranakan-cuisine"
 social:
   hashtags: ["#Sifu", "#Peranakan", "#BibGourmand", "#PenangFood", "#GeorgeTown"]
+framework: profile
 ---
 
 طهي Peranakan هو مطبخ Penang القريب إلى القلب، وفي Jalan Pintal Tali يقدّم مطبخ

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "imigresen" }
 related: ["matrade", "imigresen"]
 keywords: ["ambassades malaisiennes", "hauts-commissariats de la Malaisie", "consulat malaisien", "missions de Wisma Putra", "services consulaires Malaisie", "Certificat d'urgence SPC", "ambassades étrangères en Malaisie", "Liste diplomatique et consulaire", "Malaysian embassies", "Malaysia high commissions", "consular services Malaysia", "Emergency Certificate SPC", "foreign embassies in Malaysia", "Diplomatic and Consular List"]
+framework: data-reference
 ---
 
 Perdez votre passeport à Lima, soyez arrêté à Doha ou ayez besoin de faire notarier un document à Séoul, et le bureau qui peut réellement vous aider est un nœud dans un réseau de 111 missions malaisiennes réparties dans 85 pays — toutes gérées depuis Wisma Putra à Putrajaya.

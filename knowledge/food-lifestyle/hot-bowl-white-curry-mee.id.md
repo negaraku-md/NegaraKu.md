@@ -94,6 +94,7 @@ social:
 verificationNeeded:
   - "Seleksi MICHELIN Guide Malaysia (Kuala Lumpur & Penang) ditinjau setiap tahun. Profil ini mencerminkan edisi 2026; pastikan Bib Gourmand masih berlaku dalam edisi terbaru (seleksi 2027 sedang terbentuk), karena penghargaan dapat ditambah atau dicabut setiap tahun."
   - "Hari dan jam buka — daftar MICHELIN menunjukkan jam operasional yang luar biasa terbatas; pastikan jam saat ini langsung ke kedai sebelum mengandalkannya."
+framework: profile
 ---
 
 Penang menanggapi mi karinya dengan serius, dan Hot Bowl White Curry Mee telah

@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["statutory registers Malaysia", "company registers checklist", "daftar berkanun syarikat", "register of members directors", "SSM company records", "Companies Act 2016 registers"]
+framework: how-to
 ---
 
 ทะเบียนตามกฎหมายเป็นเอกสารที่ไม่มีใครคิดถึงจนกว่าผู้สอบบัญชี ธนาคาร หรือทนายของผู้ซื้อจะขอดู — และถึงตอนนั้นก็สายเกินไปที่จะสร้างการปรับปรุงที่ขาดหายสามปีขึ้นใหม่

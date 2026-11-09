@@ -79,6 +79,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["ऑडिट शुल्क मलेशिया", "MIA ऑडिट शुल्क-सूची", "RPG 7 वापस", "ऑडिट शुल्क तालिका मलेशिया", "निष्क्रिय कंपनी न्यूनतम ऑडिट शुल्क", "मलेशिया में ऑडिट की लागत कितनी", "audit fees Malaysia", "RPG 7 withdrawn"]
+framework: data-reference
 ---
 
 मलेशियाई ऑडिट शुल्क खोजिए और आपको एक गुणांक तालिका दिखाई जाएगी: पहले RM100,000 पर

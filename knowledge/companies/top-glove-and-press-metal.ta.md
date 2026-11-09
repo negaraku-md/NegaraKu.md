@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 இரு மலேசிய நிறுவனங்கள் தத்தமது துறைகளில் உலகளவில் முன்னணி வகிக்கின்றன. ஒன்று உலகின் மிகப்பெரிய பயன்படுத்தி-எறியும் கையுறை தயாரிப்பாளர்; மற்றொன்று தென்கிழக்கு ஆசியாவின் மிகப்பெரிய முதன்மை அலுமினியம் உருக்காலை. இரண்டும் முதலீட்டு வட்டங்களுக்கு வெளியே பரவலாக அறியப்படாதவை; இருப்பினும் Top Glove மற்றும் Press Metal, ஒரு நடுத்தர அளவிலான பொருளாதாரம் எவ்வாறு தனித்-துறை உலகத் தலைவர்களை உருவாக்க முடியும் என்பதைக் காட்டுகின்றன.

@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
+framework: data-reference
 ---
 
 이제 여러분은 지점에 발을 들이거나, 직불카드를 주문하거나, 종이 서식을 작성하지 않고도 말레이시아 은행 계좌를 개설할 수 있으며 — 인가된 5개 기관이 이를 전적으로 휴대전화에서 해내려고 경쟁하고 있습니다.

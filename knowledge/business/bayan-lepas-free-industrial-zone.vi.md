@@ -118,6 +118,7 @@ keywords:
   - "Free Zones Act 1990"
   - "Penang FIZ customs"
   - "zon perindustrian bebas"
+framework: profile
 ---
 
 Gần như mọi mô tả đã công bố về Khu Công nghiệp Tự do Bayan Lepas nay đều lỗi thời, vì ba

@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
+framework: profile
 ---
 
 Setiap kilo beras import yang masuk ke Malaysia melalui satu pintu — dan pintu itu dipegang oleh sebuah syarikat swasta. Itulah BERNAS.

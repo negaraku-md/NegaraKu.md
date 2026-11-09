@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
+framework: explainer
 ---
 
 Beaucoup de gens gardent une carte Touch 'n Go dans leur portefeuille et l'application Touch 'n Go eWallet sur leur téléphone, et supposent que les deux sont une même chose à deux visages. Ce n'est pas le cas. Le solde de la carte et le solde de l'application sont conservés tout à fait séparément : recharger entièrement l'un n'ajoute pas un seul sen à l'autre. Ce malentendu est une cause fréquente de voitures bloquées aux portiques de péage parce que le conducteur est persuadé qu'« il y a assez d'argent sur le téléphone », alors que ce que la machine de péage lit réellement, c'est la carte.

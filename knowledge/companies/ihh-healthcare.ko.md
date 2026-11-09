@@ -76,6 +76,7 @@ verificationNeeded:
   - "운영 병상 — FY2024 연차보고서는 말레이시아 약 3,558개 허가 병상, 싱가포르 약 697개 운영 병상, 인도 약 5,602개 운영 병상을 인용합니다(2024년 12월 31일 기준). 병상 수는 시간에 따라 변함; 최신 공시와 대조하여 재확인."
   - "매출 — FY2024(2024년 12월 31일 종료 연도) 그룹 매출 약 RM24.4 billion과 순이익 약 RM2.66 billion, IHH 실적 발표 기준. 매 신규 연차/분기 보고서와 대조하여 수치와 기준을 재확인."
   - "지분 — Mitsui & Co는 약 32~33%(MBK Healthcare Management를 통해)를, Khazanah Nasional은 상당한 소수 지분을 보유하는 것으로 인용됩니다. 정확한 비율은 블록딜과 매입에 따라 변함; 숫자를 인용하기 전 최신 Bursa Malaysia / SGX 공시와 대조하여 검증."
+framework: profile
 ---
 
 쿠알라룸푸르의 Pantai 또는 Gleneagles 병원, 싱가포르의 Mount Elizabeth 병동, 이스탄불의 Acibadem 클리닉, 또는 델리의 Fortis 센터에 들어서면, 당신은 같은 기업 가족에 발을 들이는 것입니다. 그 가족이 IHH Healthcare Berhad — 세계 최대의 민간 병원 운영사 가운데 하나로 성장한, 말레이시아에 본사를 둔 회사 — 입니다.

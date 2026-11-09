@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
+framework: history-culture
 ---
 
 1957 ஆகஸ்ட் 31 அன்று நள்ளிரவைத் தாண்டிய சில நிமிடங்களில், Kuala Lumpur-இல் உள்ள பழைய Selangor Club-க்கு முன்னால் இருந்த padang-இல், Union Jack கீழிறக்கப்பட்டு, புதிய மலாயா கூட்டரசின் (Federation of Malaya) கொடி ஏற்றப்பட்டது. இதுவே பெரும்பாலானவர்கள் Merdeka பற்றி மனதில் கொண்டிருக்கும் காட்சி — ஆனால் சுதந்திரத்தின் உண்மையான வேலை மாதங்களுக்கு முன்பே, லண்டன் மற்றும் Kuala Lumpur-இல் உள்ள குழு அறைகளில், முந்தைய ஆண்டு வரை இருந்திராத ஒரு அரசியலமைப்பின் பிரிவுகள் குறித்து பேச்சுவார்த்தை நடத்திய மக்களால் முடிக்கப்பட்டிருந்தது.

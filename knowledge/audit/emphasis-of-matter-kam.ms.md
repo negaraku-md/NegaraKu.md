@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "auditors-report-anatomy" }
 related: ["audit-opinion-types", "auditors-report-anatomy", "going-concern-audit", "statutory-audit-process"]
 keywords: ["emphasis of matter Malaysia", "key audit matters Malaysia", "ISA 701 entiti tersenarai", "perenggan other matter", "adakah emphasis of matter satu qualification"]
+framework: explainer
 ---
 
 Seorang pemberi pinjaman menelefon untuk memberitahu bahawa akaun itu bersyarat

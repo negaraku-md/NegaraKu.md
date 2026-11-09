@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
+framework: profile
 ---
 
 Selangor là bang mà nền kinh tế Malaysia lặng lẽ dựa vào.

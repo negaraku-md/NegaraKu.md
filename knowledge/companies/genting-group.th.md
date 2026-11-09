@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 รีสอร์ตบนยอดเขาอากาศเย็นห่างจากกัวลาลัมเปอร์ (Kuala Lumpur) หนึ่งชั่วโมงเป็นสถานที่แห่งเดียวในมาเลเซียที่กาสิโนสามารถแจกไพ่ได้อย่างถูกกฎหมาย ใบอนุญาตเดียวที่ผิดปกตินั้น ซึ่งชอบด้วยกฎหมายสำหรับผู้ที่ไม่ใช่มุสลิม แต่ดำเนินคู่ไปกับการห้ามการพนันสำหรับมุสลิมตามกฎหมายอิสลาม อยู่ที่หัวใจของ Genting หนึ่งในกลุ่มบริษัทที่ใหญ่ที่สุดที่เติบโตขึ้นในมาเลเซียเอง

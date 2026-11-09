@@ -81,6 +81,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pdpa पंजीकरण मलेशिया", "डेटा उपयोगकर्ता श्रेणी आदेश", "pdpa पंजीकरण-योग्य श्रेणी", "डेटा नियंत्रक पंजीकरण मलेशिया", "pu a 336 2013"]
+framework: data-reference
 ---
 
 PDPA के तहत पंजीकरण सामान्य नहीं है। यह केवल उन डेटा नियंत्रकों तक पहुँचता है जो अधिनियम 709 की धारा 14 के तहत आदेश द्वारा निर्दिष्ट किसी श्रेणी में आते हैं — और वह सूची 16 दिसंबर 2016 से नहीं हिली है।

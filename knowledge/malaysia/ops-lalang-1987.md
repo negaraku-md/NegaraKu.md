@@ -91,6 +91,7 @@ relations:
   - { rel: "related-to", to: "internal-security-act-1960" }
 related: []
 keywords: ["Ops Lalang", "Operation Lalang", "Internal Security Act", "ISA 1960", "detention without trial", "1987 Malaysia", "SOSMA", "press freedom Malaysia"]
+framework: history-culture
 ---
 
 On the night the arrests began in late October 1987, the doors that closed were not only cell doors — three newspapers went dark within days, and the phrase "Ops Lalang" entered Malaysian political memory as shorthand for detention without trial. Nearly four decades later, it is still argued over: what it prevented, what it silenced, and what it says about the powers a state may hold over its citizens.

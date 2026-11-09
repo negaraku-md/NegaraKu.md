@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "El año exacto de la edición MICHELIN se etiqueta de forma inconsistente entre las fuentes: la página oficial no lleva año, este puesto fue galardonado por primera vez en la edición anunciada en noviembre de 2023 (la guía '2024'), mientras que la lista Bib Gourmand de Wikipedia ahora muestra una columna '2027' como la más reciente. La selección se revisa anualmente; confirma el estado actual en guide.michelin.com."
   - "El puesto lleva 'Jalan Ipoh' en su nombre pero está ubicado en Taman Kok Lian; confirma cualquier vínculo histórico con Jalan Ipoh antes de afirmarlo. Los horarios y días de cierre de un puesto de comida pueden cambiar; reconfírmalos antes de la visita."
+framework: profile
 ---
 
 Escondido en Taman Kok Lian, al norte del centro de Kuala Lumpur, un puesto con

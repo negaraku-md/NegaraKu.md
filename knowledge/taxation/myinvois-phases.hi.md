@@ -122,6 +122,7 @@ relations:
   - { rel: "related-to", to: "consolidated-e-invoice" }
 related: ["e-invoicing", "consolidated-e-invoice", "self-billed-e-invoice", "myinvois-integration", "e-invoice-data-fields"]
 keywords: ["MyInvois चरण", "मलेशिया ई-चालान कार्यान्वयन तिथि", "ई-चालान छूट RM1 मिलियन", "ई-चालान राहत अवधि", "LHDN ई-चालान समयरेखा", "MyInvois phases", "e-Invoice implementation date Malaysia"]
+framework: data-reference
 ---
 
 दो संख्याएँ सब कुछ तय करती हैं: आपका FY2022 टर्नओवर, जो आपके चरण को स्थायी रूप से तय

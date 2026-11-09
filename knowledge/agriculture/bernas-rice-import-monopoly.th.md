@@ -78,6 +78,7 @@ relations:
   - { rel: "related-to", to: "syed-mokhtar-albukhary" }
 related: ["palm-oil-industry"]
 keywords: ["BERNAS", "Padiberas Nasional", "monopoli import beras", "harga minimum padi", "harga lantai padi", "Akta Kawalan Padi dan Beras 1994", "Syed Mokhtar Al-Bukhary", "sekuriti makanan"]
+framework: profile
 ---
 
 ข้าวนำเข้าทุกกิโลกรัมที่เข้าสู่มาเลเซียผ่านประตูเดียว — และประตูนั้นถูกถือครองโดยบริษัทเอกชนแห่งหนึ่ง นั่นคือ BERNAS

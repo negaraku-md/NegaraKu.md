@@ -84,6 +84,7 @@ keywords:
   - "yuran penyata tahunan SSM"
   - "yuran pendaftaran LLP"
   - "jadual yuran SSM 2026"
+framework: data-reference
 ---
 
 Tiga jadwal biaya terpisah, tiga statuta terpisah, dan tidak ada satu pun halaman di laman

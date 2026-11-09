@@ -86,6 +86,7 @@ social:
 verificationNeeded:
   - "各来源对确切的 MICHELIN 版本年份标注并不一致——官方页面未标年份，媒体报道提到的是「2026」MICHELIN Guide Kuala Lumpur & Penang，而维基百科的 Bib Gourmand 名单如今以「2027」一栏为最新。评选每年修订；请在 guide.michelin.com 确认当前状态。"
   - "常被引用的创立年份 2002，以及「无猪肉」的标示，来自第三方收录网站而非 MICHELIN 页面；在陈述之前请向餐厅求证。"
+framework: profile
 ---
 
 在武吉免登一片食肆街区的中心，Tengkat Tong Shin 上一道亮黄色门面的后方，Sao

@@ -110,6 +110,7 @@ relations:
   - { rel: "explained-in", to: "js-sez-guide" }
 related: ["business-costs-by-region", "talent-availability-by-region", "state-investment-agencies", "economic-corridors-compared", "ecer-guide", "js-sez-guide", "ncer-guide", "sarawak-business-guide"]
 keywords: ["port klang teu", "tanjung pelepas ptp throughput", "malaysia port statistics 2025", "ecrl completion date", "ecrl land bridge kuantan port klang", "5g coverage by state malaysia", "mcmc broadband by state", "saidi malaysia"]
+framework: data-reference
 ---
 
 மலேசியாவில் முப்பதுக்கும் மேற்பட்ட வணிகத் துறைமுகங்கள் உள்ளன, அவற்றில் இரண்டு மட்டுமே கன்டெய்னர்களுக்கு முக்கியம். அதற்கு ஆறு சர்வதேச விமான நிலையங்கள் உள்ளன, அவற்றில் ஒன்று மட்டுமே பெரிய அளவில் விமான சரக்கை நகர்த்துகிறது. உங்கள் இடம் அந்தக் கோட்டின் எந்தப் பக்கத்தில் அமர்ந்துள்ளது என்பதை அறிவது, ஒரு மாநில கையேட்டில் உள்ள எந்த வசதிப் பட்டியலையும் விட மதிப்புமிக்கது.

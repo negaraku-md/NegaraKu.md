@@ -159,6 +159,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["ऑफबोर्डिंग जाँच-सूची मलेशिया", "CP22A समय-सीमा", "CP21 फ़ॉर्म मलेशिया", "कर-निकासी पत्र SPC", "अंतिम वेतन मलेशिया", "कर्मचारी निकास जाँच-सूची मलेशिया", "90 दिन रोकथाम कर-निकासी", "offboarding checklist malaysia", "CP22A deadline", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 निकास साक्षात्कार वह भाग है जिसे हर कोई याद रखता है। दाख़िले वह भाग हैं जो जुर्माना उत्पन्न करते

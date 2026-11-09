@@ -52,6 +52,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["mykad"]
 keywords: ["الولاية الاتحادية", "Wilayah Persekutuan", "Federal Territory Malaysia", "كوالالمبور بوتراجايا لابوان", "Kuala Lumpur Putrajaya Labuan", "ولايات ماليزيا"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Wilayah Persekutuan · **English:** Federal Territory · **中文:** 联邦直辖区

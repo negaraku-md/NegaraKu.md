@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["الآلات الموسيقية التقليدية", "alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "الموسيقى الملايوية", "muzik Melayu", "موسيقى بورنيو", "JKKN"]
+framework: explainer
 ---
 
 تتكرر الأصوات نفسها خلف كل فنّ أداء ماليزي تقريبًا: وقع جلد الماعز المقروع جماعةً في عرس، والناي العالي الحزين الذي يفتتح مشهد خيال الظل، والنقر المهدِّئ على الأوتار الخشبية في بيت طويل بساراواك. والآلات التي تُصدرها تظهر عبر كثير من مقالات الفنون — ولذا تجمعها هذه الصفحة في مكان واحد.

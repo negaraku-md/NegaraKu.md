@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["taux de retenue à la source Malaisie", "withholding tax rate Malaysia", "taux section 109B", "section 109B rate", "retenue section 107A", "CP37D", "tableau retenue à la source Malaisie", "LHDN retenue à la source"]
+framework: data-reference
 ---
 
 Le taux dont vous avez besoin n'est presque jamais dans la section que vous lisez.

@@ -80,6 +80,7 @@ relations:
   - { rel: "compares-with", to: "llp" }
 related: ["sdn-bhd", "llp"]
 keywords: ["sole proprietorship", "perniagaan persendirian", "SSM registration", "Registration of Businesses Act 1956", "enterprise Malaysia", "ezbiz"]
+framework: explainer
 ---
 
 Gerai mamak di simpang jalan anda, pereka bebas yang mengeluarkan invois dari pejabat rumah, pembuat kek hujung minggu yang berniaga dalam talian — kebanyakan mereka ialah makhluk undang-undang yang sama: sebuah perniagaan persendirian. Ia merupakan cara paling murah, paling pantas, dan paling lazim untuk berniaga di Malaysia, dan juga cara yang paling mendedahkan anda jika sesuatu tidak berjalan lancar.

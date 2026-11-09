@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 많은 새 주택 소유자는 있는 줄도 몰랐던 두 번째 고지서를 받고 놀랍니다. 올해 「토지세」를 이미 냈는데 — 왜 시청이 또 청구 통지를 보내는 걸까요?

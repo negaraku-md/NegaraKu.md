@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["population-composition", "languages-spoken", "federal-constitution", "urbanisation", "religion-statistics", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malaysia facts", "Malaysia population", "Malaysia land area", "Malaysian ringgit", "Kuala Lumpur capital", "Putrajaya", "Bahasa Melayu", "Malaysia GDP", "DOSM", "Bank Negara Malaysia", "Malaysia at a glance"]
+framework: data-reference
 ---
 
 "말레이시아는 얼마나 큰가" 또는 "말레이시아의 인구는 얼마인가"라고 물으면, 어느 웹사이트에 접속하느냐에 따라 서로 다른 답을 얻게 됩니다. 어떤 곳은 2020년 인구조사 수치를, 어떤 곳은 두 차례 개정에 뒤처진 세계은행 추정치를 인용합니다. 이 페이지는 그 문제를 바로잡기 위해 존재합니다. 아래의 모든 수치는 이름과 날짜가 명시된 공식 발표에서 가져온 것이므로, 얼마나 최신인지 정확히 확인하고 직접 검증할 수 있습니다.

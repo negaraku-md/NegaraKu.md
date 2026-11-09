@@ -78,6 +78,7 @@ verificationNeeded:
   - "Skala rangkaian: kira-kira 260 cawangan domestik, lebih 21,000 pekerja dan kira-kira 9 juta pelanggan seluruh kumpulan — sahkan bilangan semasa."
   - "Pegangan 44.15% dalam LPI Capital Bhd — sahkan pegangan saham semasa dan sebarang butiran penyempurnaan."
   - "Kepimpinan: Tay Ah Lek sebagai pengarah urusan dan CEO, serta pengerusi yang sedang berkhidmat — sahkan jawatan lembaga pengarah semasa."
+framework: profile
 ---
 
 Tidak banyak syarikat Malaysia yang sebegitu rapat terikat dengan seorang pengasas sebagaimana Public Bank terikat dengan Tan Sri Teh Hong Piow. Bermula dengan satu cawangan di tengah-tengah Kuala Lumpur pada 1966, beliau membina sebuah pemberi pinjaman yang berkembang menjadi salah satu kumpulan perbankan terbesar negara ini — dan yang terkenal bukan kerana saiz tetapi kerana sikap berhati-hati, mencatatkan nisbah pinjaman lapuk terendah dalam sektor perbankan dekad demi dekad.

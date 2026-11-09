@@ -82,6 +82,7 @@ relations:
   - { rel: "affects", to: "business" }
 related: ["foreign-ownership-malaysia", "share-capital-malaysia"]
 keywords: ["sme financing malaysia", "bnm fund for smes", "sjpp guarantee", "sme bank financing", "cradle grant malaysia", "tekun financing", "government loan sme malaysia"]
+framework: data-reference
 ---
 
 ทำเนียบการเงิน SME ส่วนใหญ่เป็นรายการชื่อโครงการที่เก็บจากข่าวประชาสัมพันธ์ ครึ่งหนึ่งไม่มีอยู่แล้ว

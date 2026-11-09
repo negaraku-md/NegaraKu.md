@@ -78,6 +78,7 @@ verificationNeeded:
   - "Ampleur du réseau : environ 260 agences nationales, plus de 21 000 employés et environ 9 millions de clients à l'échelle du groupe — à confirmer avec les décomptes actuels."
   - "Participation de 44,15 % dans LPI Capital Bhd — à confirmer avec l'actionnariat actuel et les détails d'achèvement éventuels."
   - "Direction : Tay Ah Lek comme directeur général et PDG, et le président en exercice — à confirmer avec les postes actuels du conseil."
+framework: profile
 ---
 
 Peu d'entreprises malaisiennes sont aussi étroitement liées à un fondateur unique que Public Bank l'est à Tan Sri Teh Hong Piow. Partant d'une seule agence au centre de Kuala Lumpur en 1966, il a bâti un prêteur devenu l'un des plus grands groupes bancaires du pays — et célèbre moins pour sa taille que pour sa prudence, affichant décennie après décennie les plus faibles ratios de créances douteuses du secteur bancaire.

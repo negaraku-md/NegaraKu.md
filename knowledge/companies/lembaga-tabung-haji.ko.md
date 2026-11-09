@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bank-islam-malaysia" }
 related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
+framework: profile
 ---
 
 대부분의 예금자에게 Tabung Haji는 메카(Makkah)로 가기 위해 돈을 모으는 계좌입니다. 그러나 그 저축 창구 너머에서, Lembaga Tabung Haji는 농원, 부동산, 주식, 이슬람 금융상품에 걸쳐 수백억 링깃을 운용하며 말레이시아의 대규모 기관투자자로 자리합니다. 이 글은 순례 예배의 업무가 아니라 그 금융 및 기업 측면에 초점을 둡니다.

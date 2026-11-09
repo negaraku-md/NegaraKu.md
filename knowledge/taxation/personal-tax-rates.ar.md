@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["معدل ضريبة الدخل الشخصي ماليزيا", "personal income tax rate Malaysia", "kadar cukai individu", "شريحة ضريبية ماليزيا", "جدول معدلات ضريبة LHDN", "معدل ضريبة غير المقيم ماليزيا 30", "معدل ضريبة الفرد YA2025"]
+framework: data-reference
 ---
 
 تنطبق النسب على **الدخل الخاضع للضريبة** — الدخل الإجمالي ناقصاً المصروفات

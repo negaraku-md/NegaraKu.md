@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "मलेशिया के प्रधानमंत्री", "अनुच्छेद 43", "प्रधानमंत्री की नियुक्ति", "बहुमत का विश्वास", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 मलेशिया अपने प्रधानमंत्री को बदल सकता है बिना जनता के एक भी मत डाले — क्योंकि यह पद मतदाताओं द्वारा नहीं, बल्कि Yang di-Pertuan Agong द्वारा उसे दिया जाता है जिसे Dewan Rakyat में बहुमत जुटाने में सक्षम समझा जाता है। यही कारण है कि मलेशिया ने 2018 और 2022 के बीच कई बार प्रधानमंत्री बदलते देखे, जबकि उस अवधि के बीच में किसी नए आम चुनाव ने इसका फ़ैसला नहीं किया।

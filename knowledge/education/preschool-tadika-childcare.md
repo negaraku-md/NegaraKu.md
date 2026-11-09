@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "pendaftaran taska", "tadika swasta"]
+framework: explainer
 ---
 
 Ramai ibu bapa mendaftarkan anak ke "tadika" sebelah rumah — hantar borang, bayar yuran, selesai. Tetapi soalan yang jarang ditanya ialah: tadika itu didaftarkan dengan siapa? Jawapannya bukan soal remeh. Bergantung pada umur anak dan jenis institusi, ia boleh berada di bawah dua kementerian yang berbeza sama sekali, dengan akta, peraturan dan cara penguatkuasaan yang tidak sama.

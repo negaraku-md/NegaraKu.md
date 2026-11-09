@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "正確な MICHELIN の版の年は資料によって表記が一致しません——公式ページには年の記載がなく、報道は「2026」年の MICHELIN Guide Kuala Lumpur & Penang に言及し、Wikipedia の Bib Gourmand 一覧は現在「2027」の列を最新として示しています。選定は毎年改訂されます。現在の状況は guide.michelin.com で確認してください。"
   - "タマン・チェラス以外の支店開業（例：シンガポール、および計画中の中国本土の店舗）は MICHELIN ページではなく報道によるものです。どの支店が営業中か、Bib Gourmand がタマン・チェラスの本店のみに適用されるのかを述べる前に確認してください。"
+framework: profile
 ---
 
 クアラルンプール南東部の住宅地タマン・チェラスの一角、ショップロットの一室で、

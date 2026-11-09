@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Labuan", "Labuan IBFC", "Labuan FSA", "Labuan Business Activity Tax Act 1990", "federal territory", "Labuan company", "3% tax"]
+framework: profile
 ---
 
 บริษัทสองแห่ง เจ้าของเดียวกัน ลูกค้าเดียวกัน แห่งหนึ่งจดทะเบียนในกัวลาลัมเปอร์ (Kuala Lumpur) และเสียภาษีนิติบุคคลภายใต้ Income Tax Act 1967 อีกแห่งจดทะเบียนบนเกาะที่อยู่ห่างจากชายฝั่งซาบาห์ 10 กิโลเมตร และถูกเก็บภาษีในอัตรา 3% ภายใต้พระราชบัญญัติของรัฐสภาที่แตกต่างกันโดยสิ้นเชิง

@@ -86,6 +86,7 @@ verificationNeeded:
   - "MICHELIN Guide のセレクションは毎年改定されます。本プロフィールは現行の掲載に示された状態を反映しており、新しい版ごとに再確認すべきです。"
   - "レストランの住所は各情報源で一貫していません（現行の MICHELIN 掲載は 44 Persiaran Zaaba, TTDI、古い掲載は Jalan Sultan / KLCC の住所）——現在の所在地を確認してください。"
   - "MICHELIN の掲載は彼を名指しせず「the eponymous chef」（店名と同名のシェフ）と記しています。オーナーシェフ Darren Chin は二次的報道に記録があります（パリの Le Cordon Bleu で修業）——さらなる伝記的詳細は第一次情報源と照合して確認してください。"
+framework: profile
 ---
 
 DC. by Darren Chin は、クアラルンプール西側の Taman Tun Dr Ismail（TTDI）にある

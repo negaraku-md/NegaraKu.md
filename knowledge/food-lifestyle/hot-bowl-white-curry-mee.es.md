@@ -94,6 +94,7 @@ social:
 verificationNeeded:
   - "La selección de la Guía MICHELIN Malaysia (Kuala Lumpur & Penang) se revisa cada año. Este perfil refleja la edición de 2026; confirma que el Bib Gourmand sigue vigente en la edición más reciente (está surgiendo una selección de 2027), ya que los galardones pueden añadirse o retirarse cada año."
   - "Días y horarios de apertura: la ficha de MICHELIN muestra un horario inusualmente limitado; confirma el horario actual directamente con el local antes de fiarte de él."
+framework: profile
 ---
 
 Penang se toma en serio sus fideos al curry, y Hot Bowl White Curry Mee lleva

@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["سلسلة تيتيوانجسا", "Titiwangsa Range", "Banjaran Titiwangsa", "السلسلة الرئيسية ماليزيا", "Main Range Malaysia", "جبال شبه جزيرة ماليزيا", "خط تقسيم المياه ماليزيا", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 أسقِط جوزة هند على الجانب الغربي من سلسلة جبلية في وسط بيراك، وفي نهاية المطاف سيبلغ ما يتحلّل منها مضيق ملقا. وأسقِط أخرى على بُعد بضع مئات من الأمتار شرقًا، على الجانب الآخر من السلسلة نفسها، فتنتهي في بحر الصين الجنوبي. لا شيء آخر في المشهد الطبيعي يتغيّر. فقط أي جانب من الخطّ سقطت عليه.

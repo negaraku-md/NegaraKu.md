@@ -70,6 +70,7 @@ keywords:
   - "Public Holidays Ordinance Sarawak"
   - "Pesta Kaamatan"
   - "Hari Gawai"
+framework: explainer
 ---
 
 코타키나발루의 한 직원은 5월 말 [카아마탄 축제](/arts-culture/kaamatan)를 맞아 이틀 연속 쉴 수 있는데, 믈라카의 동료는 그날을 공휴일로 전혀 알지 못합니다. 쿠칭의 또 다른 이는 6월 1일 가와이를 위해 일을 멈추지만, 쿠알라룸푸르 본사의 회사 달력은 그 날짜에 아무것도 표시하지 않습니다. 이것은 인사부의 실수가 아닙니다. 그것은 법에 심어져 있습니다.

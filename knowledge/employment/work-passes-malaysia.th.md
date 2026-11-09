@@ -86,6 +86,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["employment-pass-malaysia", "employment-pass-founder-malaysia"]
 keywords: ["malaysia work pass", "professional visit pass", "de rantau nomad pass", "residence pass talent", "dependant pass malaysia", "investor pass malaysia"]
+framework: decision
 ---
 
 ไม่มีวีซ่าทำงานของมาเลเซีย มีตราสารแปดหรือเก้าฉบับที่ต่างกัน ดำเนินการโดยสี่หน่วยงานที่ต่างกัน และฉบับที่คุณต้องการถูกตัดสินโดย **ใครเป็นผู้จ่ายเงินเดือน** — ไม่ใช่โดยชื่อของงาน

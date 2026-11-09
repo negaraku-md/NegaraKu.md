@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bank-islam-malaysia" }
 related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
+framework: profile
 ---
 
 Đối với phần lớn người gửi tiền, Tabung Haji là tài khoản nơi tiền được tích lũy để đi đến Makkah. Nhưng phía sau quầy tiết kiệm đó, Lembaga Tabung Haji cũng vận động hàng chục tỷ ringgit qua các đồn điền, bất động sản, cổ phiếu và các công cụ tài chính Hồi giáo — biến nó thành một nhà đầu tư định chế quy mô lớn tại Malaysia. Ghi chú này tập trung vào khía cạnh tài chính và doanh nghiệp đó, không phải việc hành hương haji.

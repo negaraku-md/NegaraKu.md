@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Kuala Lumpur", "KL wilayah persekutuan", "Bursa Malaysia", "Menara Berkembar Petronas", "Lembah Klang"]
+framework: profile
 ---
 
 กัวลาลัมเปอร์เป็นเมืองหลวงของมาเลเซีย แต่ในทางรัฐธรรมนูญแล้วไม่ใช่รัฐ — เป็นดินแดนสหพันธ์ ซึ่งถูกแบ่งออกมาจากสลังงอร์ในปี 1974 และบริหารโดยรัฐบาลสหพันธรัฐโดยตรง ไม่ใช่โดยผู้ปกครองรัฐหรือสภานิติบัญญัติแห่งรัฐที่มาจากการเลือกตั้ง

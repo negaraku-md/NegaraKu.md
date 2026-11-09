@@ -110,6 +110,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 Hầu hết các so sánh địa điểm cho Malaysia được xây dựng trên các con số mà không ai công bố. Thuê công nghiệp trên mỗi foot vuông theo bang, các hóa đơn tiện ích "điển hình", một chênh lệch tiền lương giữa Penang và Kelantan — tất cả đều lưu truyền, gần như không có gì trong đó truy về được một nguồn của chính phủ.

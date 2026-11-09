@@ -76,6 +76,7 @@ verificationNeeded:
   - "지점 수(말레이시아 200개 이상)와 인원(보고 수치는 약 13,000~14,000명 범위) — 최신 연차보고서와 대조하여 확인."
 social:
   hashtags: ["RHB", "RHBBank", "MalaysianBanks", "IslamicBanking", "BursaMalaysia"]
+framework: profile
 ---
 
 RHB는 대부분의 말레이시아인이 거리의 은행 지점, ATM 카드, 또는 주택담보대출 안내 책자에서 알아보는 이름의 하나입니다 — 그러나 그 뒤의 그룹은 소매 금융을 훨씬 넘어 이슬람 금융, 투자은행, 보험, 그리고 동남아시아 전역의 시장으로 뻗어 있습니다. 이 페이지는 RHB Banking Group이 무엇이고, 어떻게 구성되어 있으며, 누가 소유하고, 왜 중요한지에 대한 중립적·사실적 개관입니다.

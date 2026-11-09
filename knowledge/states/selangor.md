@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
+framework: profile
 ---
 
 Selangor ialah negeri yang menjadi tempat bergantung ekonomi Malaysia secara senyap.

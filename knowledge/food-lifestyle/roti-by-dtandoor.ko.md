@@ -92,6 +92,7 @@ verificationNeeded:
   - "MICHELIN Guide 선정은 매년 개정된다. 이를 신뢰하기 전에, 최신 MICHELIN Guide Kuala Lumpur & Penang 판에서 Roti by d'Tandoor가 여전히 Bib Gourmand를 보유하고 있는지 확인할 것."
   - "판 연도 표기는 자료마다 일치하지 않는다 — 현행 선정을 2027년 판이라 하는 곳도 있고, 최신 목록을 2026년이라 표기하는 자료도 있다. 공식 MICHELIN Guide 시상식 발표와 대조하여 올바른 판 연도를 확인할 것."
   - "d'Tandoor 브랜드가 1990년 말레이시아에서 문을 열었다는 날짜는 MICHELIN 등재 정보에서 비롯되었다. Roti by d'Tandoor 자체가 처음 Bib Gourmand를 받은 정확한 연도는 단일 1차 자료로 확인되지 않았다."
+framework: profile
 ---
 
 Roti by d'Tandoor는 쿠알라룸푸르 Jalan Ampang에서 살짝 들어간 주택가 가옥에 들어선 북인도

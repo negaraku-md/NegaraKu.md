@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["मलेशिया स्टांप ड्यूटी दरें", "प्रथम अनुसूची Stamp Act 1949", "संपत्ति हस्तांतरण स्टांप ड्यूटी", "शेयर हस्तांतरण स्टांप ड्यूटी 0.3%", "किरायेदारी अनुबंध स्टांप ड्यूटी", "kadar duti setem", "stamp duty rates Malaysia"]
+framework: data-reference
 ---
 
 स्टांप ड्यूटी **दस्तावेज़ों पर लगती है, लेन-देन पर नहीं**। एक ही व्यावसायिक सौदे

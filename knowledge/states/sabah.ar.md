@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "labuan" }
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["صباح", "Sabah Malaysia", "كوتا كينابالو", "Kota Kinabalu", "جبل كينابالو", "Mount Kinabalu", "اتفاقية ماليزيا 1963", "Malaysia Agreement 1963", "أرض ما تحت الريح", "Land Below the Wind", "اقتصاد صباح", "Yang di-Pertua Negeri Sabah"]
+framework: profile
 ---
 
 لم تنضمّ صباح إلى ماليزيا بوصفها ولايةً تنضمّ إلى دولة. بل انضمّت بوصفها أحد الأقاليم

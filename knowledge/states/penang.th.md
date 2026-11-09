@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Pulau Pinang", "George Town UNESCO", "Bayan Lepas", "elektronik Pulau Pinang", "lembah silikon timur"]
+framework: profile
 ---
 
 ปีนังมีอิทธิพลเกินขนาดของตนอย่างมาก รัฐนี้เป็นหนึ่งในรัฐที่มีพื้นที่เล็กที่สุดในมาเลเซีย แต่ก็เป็นหนึ่งในเศรษฐกิจการผลิตที่สำคัญที่สุดของประเทศและเป็นหนึ่งในจุดหมายปลายทางท่องเที่ยวที่มีผู้มาเยือนมากที่สุด

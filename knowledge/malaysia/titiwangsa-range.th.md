@@ -59,6 +59,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: ["geography-overview", "peninsular-and-borneo", "monsoons", "perak", "kelantan"]
 keywords: ["Titiwangsa Range", "Banjaran Titiwangsa", "Main Range Malaysia", "Peninsular Malaysia mountains", "watershed divide Malaysia", "Central Forest Spine", "Gunung Korbu", "Royal Belum"]
+framework: profile
 ---
 
 ทิ้งมะพร้าวลงบนด้านตะวันตกของสันเขาในเประตอนกลาง แล้วในที่สุดการเน่าของมันจะไปถึงช่องแคบมะละกา ทิ้งอีกลูกห่างไปทางตะวันออกไม่กี่ร้อยเมตร บนอีกด้านของสันเขาเดียวกัน แล้วมันจะลงเอยในทะเลจีนใต้ ไม่มีอะไรอื่นเกี่ยวกับภูมิทัศน์เปลี่ยนไป เพียงว่ามันตกบนด้านใดของเส้น

@@ -119,6 +119,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["new hire checklist malaysia", "cp22 malaysia", "register employee epf socso", "onboarding compliance malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 หนึ่งการจ้าง สี่หน่วยงาน หกนาฬิกา ไม่มีนาฬิกาใดเริ่มในวันที่เสนองาน — พวกมันเริ่มเมื่อ **เริ่มการจ้างงาน** ซึ่งเป็นเหตุที่ข้อเสนอที่ตอบรับในเดือนมีนาคมสำหรับการเริ่มงานในเดือนมิถุนายนเป็นปัญหาของเดือนมิถุนายน

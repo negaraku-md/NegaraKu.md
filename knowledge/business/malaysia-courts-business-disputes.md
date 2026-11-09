@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["Sessions Court jurisdiction Malaysia", "Magistrates Court limit Malaysia", "High Court civil jurisdiction Malaysia", "which court to sue Malaysia", "limitation period contract Malaysia", "appeal from Sessions Court Malaysia"]
+framework: decision
 ---
 
 The forum decision gets made before anyone has looked at the merits. File a RM1.2 million

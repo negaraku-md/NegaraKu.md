@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["Malaysia tax incentives list", "MIDA tax incentive", "Pioneer Status Malaysia status", "Global Services Hub incentive", "Malaysia incentive gazette order", "tax incentive directory Malaysia"]
+framework: data-reference
 ---
 
 รายการสิทธิประโยชน์ส่วนใหญ่บนเว็บของมาเลเซียเป็นสำเนาของสำเนา พวกมันยังเสนอ Pioneer Status ยังอธิบาย Principal Hub ราวกับว่าคุณสมัครได้ และไม่เคยบอกว่าคำสั่งราชกิจจานุเบกษาใดที่มันอิงอยู่ กฎที่ใช้ในที่นี้แคบกว่าและน่าเบื่อกว่า: **สิทธิประโยชน์ปรากฏด้านล่างเฉพาะเมื่อตราสารหรือแนวทางทางการของมันเองได้เปิดและอ่านแล้ว** และคอลัมน์สถานะรายงานสิ่งที่เอกสารนั้นเองระบุเกี่ยวกับช่วงการสมัคร

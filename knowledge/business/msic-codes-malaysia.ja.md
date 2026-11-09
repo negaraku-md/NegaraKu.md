@@ -85,6 +85,7 @@ keywords:
   - "MSIC 2008"
   - "nature of business SSM"
   - "how to choose MSIC code"
+framework: data-reference
 ---
 
 あなたはMSICコードを選ぶのに、せいぜい九十秒しかかけない。だが、その後の十年間、あなたと関わるすべての機関が、その一件を読むことになる。

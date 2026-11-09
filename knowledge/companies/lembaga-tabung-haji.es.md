@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bank-islam-malaysia" }
 related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
+framework: profile
 ---
 
 Para la mayoría de sus ahorradores, Tabung Haji es la cuenta donde se aparta dinero para el viaje a La Meca. Pero detrás de ese mostrador de ahorro, Lembaga Tabung Haji también moviliza decenas de miles de millones de ringgit a través de plantaciones, bienes raíces, renta variable e instrumentos financieros islámicos, lo que la convierte en un inversor institucional a gran escala en Malasia. Esta nota se centra en ese lado financiero y corporativo, no en la propia peregrinación del hajj.

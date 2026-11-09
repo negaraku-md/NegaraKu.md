@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["أطعمة التراث الوطني", "makanan warisan kebangsaan", "ثقافة الإفطار الماليزية UNESCO", "bak kut teh تراث وطني", "قانون التراث الوطني 2005", "National Heritage Act 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 إنّ nasi lemak الذي تناولته هذا الصباح مسجَّل الآن رسميًا في سجلّين تراثيين مختلفين — أحدهما في بوتراجايا، والآخر في باريس. وكلاهما حقيقي، لكن يمنحهما جهتان مختلفتان، على أسس مختلفة، ويعنيان أشياء مختلفة.

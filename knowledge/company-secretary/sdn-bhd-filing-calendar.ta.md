@@ -187,6 +187,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["Sdn Bhd compliance calendar", "SSM deadlines Malaysia", "company filing deadlines Malaysia", "annual return deadline", "14 days notify SSM", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 மலேசிய நிறுவனங்கள் தாமதமாகத் தாக்கல் செய்வதற்கான காரணம் அரிதாகவே அலட்சியம்.

@@ -72,6 +72,7 @@ relations:
   - { rel: "governs", to: "sales-tax-act-2018" }
 related: ["e-invoicing", "sst-explained", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice"]
 keywords: ["الفاتورة الإلكترونية مقابل الفاتورة الضريبية", "e-Invoice vs tax invoice", "متطلبات فاتورة SST", "Service Tax Regulations 2018 regulation 10", "بيانات فاتورة ضريبة المبيعات", "فاتورة LHDN RMCD", "invois cukai SST"]
+framework: explainer
 ---
 
 إن المصادقة على فاتورة عبر MyInvois لا تجعلها فاتورة SST. هذه الجملة تكلّف

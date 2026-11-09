@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bakun-dam" }
 related: ["tenaga-nasional"]
 keywords: ["Sarawak Energy", "SEB", "SESCO", "Bakun", "Murum", "Baleh", "hidroelektrik", "utiliti Sarawak", "SCORE"]
+framework: profile
 ---
 
 While Peninsular Malaysia relies on Tenaga Nasional Berhad, Sarawak lights its own lamps through a single utility whose grid is not connected at all to the national grid — and which is generated almost entirely by the waterfalls of giant dams in the interior.

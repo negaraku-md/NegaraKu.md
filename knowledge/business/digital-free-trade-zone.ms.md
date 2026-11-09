@@ -131,6 +131,7 @@ keywords:
   - "cukai jualan RM500 e-dagang"
   - "zon perdagangan bebas KLIA"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 Zon Perdagangan Bebas Digital (Digital Free Trade Zone, DFTZ) adalah contoh paling jelas

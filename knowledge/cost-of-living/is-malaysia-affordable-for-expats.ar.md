@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["هل ماليزيا ميسورة التكلفة للوافدين", "is Malaysia affordable for expats", "تكلفة المعيشة ماليزيا للوافدين", "cost of living Malaysia expats", "ماليزيا مقابل تكلفة المعيشة الغربية", "ميزانية الوافد ماليزيا", "digital nomad Malaysia affordability"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

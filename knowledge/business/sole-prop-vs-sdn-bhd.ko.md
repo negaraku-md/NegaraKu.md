@@ -61,6 +61,7 @@ relations:
   - { rel: "explained-in", to: "register-enterprise-ezbiz" }
 related: ["business-structures-malaysia", "what-is-sdn-bhd", "register-sdn-bhd", "register-enterprise-ezbiz", "partnership-malaysia", "llp-vs-sdn-bhd"]
 keywords: ["sole proprietorship vs sdn bhd", "enterprise vs sdn bhd", "perniagaan tunggal atau sdn bhd", "which business structure Malaysia", "sole proprietor tax Malaysia"]
+framework: decision
 ---
 
 대부분의 사람들은 이를 비용 문제로 접근하고 잘못된 답을 얻습니다. 등록비는

@@ -147,6 +147,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["financial-year-end", "financial-statement-pack", "mbrs-2-filing-guide", "audit-exemption-thresholds", "sdn-bhd-first-year-compliance", "annual-return", "form-c-and-cp204", "company-tax-calendar"]
 keywords: ["financial statements deadline Malaysia", "section 258 circulation six months", "section 259 lodgement 30 days", "SSM late lodgement penalty", "extension of time SSM financial statements", "18 months first financial statements", "financial reporting deadline Sdn Bhd"]
+framework: data-reference
 ---
 
 நிதிநிலை அறிக்கைகள் எப்போது நிலுவைக்கு வரும் என்று பெரும்பாலான மலேசிய

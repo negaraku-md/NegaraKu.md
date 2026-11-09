@@ -57,6 +57,7 @@ relations:
   - { rel: "administered-by", to: "jpn" }
 related: ["moving-to-malaysia-first-steps", ]
 keywords: ["MyKad", "kad pengenalan Malaysia", "IC Malaysia", "JPN MyKad", "MyKad umur 12"]
+framework: explainer
 ---
 
 **马来文：** Kad Pengenalan Pintar · **英文：** Malaysian Identity Card · **中文：** 大马卡

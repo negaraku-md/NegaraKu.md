@@ -87,6 +87,7 @@ verificationNeeded:
   - "Les sélections du MICHELIN Guide sont révisées chaque année ; ce profil reflète le statut affiché sur la fiche actuelle et devrait être revérifié après chaque nouvelle édition."
   - "Les sources divergent sur la direction de la cuisine : la fiche MICHELIN et une partie de la couverture créditent le chef néerlandais Sidney Schutte (du Spectrum deux Stars d'Amsterdam) du concept, tandis qu'une autre couverture nomme Guillaume Depoortere comme chef de cuisine — confirmez les rôles actuels avant d'attribuer des plats à un chef nommé."
   - "L'édition dans laquelle Molina a reçu sa Star pour la première fois (la couverture secondaire pointe vers la sélection annoncée en novembre 2024) devrait être confirmée avec les archives de MICHELIN."
+framework: profile
 ---
 
 Molina est un restaurant gastronomique innovant perché au 51e étage de THE FACE

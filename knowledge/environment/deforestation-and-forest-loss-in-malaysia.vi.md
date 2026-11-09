@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "permanent-reserved-forests-malaysia" }
 related: ["palm-oil-industry"]
 keywords: ["Malaysia deforestation", "forest loss", "forest cover", "primary forest", "timber plantations", "oil palm", "Global Forest Watch", "RimbaWatch"]
+framework: data-reference
 ---
 
 Hỏi ba nguồn đáng tin cậy xem bao nhiêu phần Malaysia vẫn còn là rừng và bạn có thể nhận được ba câu trả lời cách nhau mười điểm phần trăm — tất cả đều có thể bảo vệ được, tất cả đều đo một thứ hơi khác nhau. Khoảng cách đó không phải là lỗi làm tròn; nó là toàn bộ cuộc tranh luận về nạn phá rừng ở Malaysia thu nhỏ.

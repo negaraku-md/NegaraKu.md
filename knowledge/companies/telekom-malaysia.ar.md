@@ -80,6 +80,7 @@ related: ["maxis", "axiata"]
 keywords: ["Telekom Malaysia", "TM", "unifi", "Streamyx", "TM One", "TM Global", "fibre broadband Malaysia", "JENDELA", "submarine cable Malaysia", "government-linked company"]
 social:
   hashtags: ["TelekomMalaysia", "unifi", "Malaysia", "fibrebroadband", "JENDELA"]
+framework: profile
 ---
 
 تكاد كل خط نطاق عريض بالألياف، ودائرة مؤسسية، وكابل بيانات تحت البحر في ماليزيا يمرّ بشركة واحدة قبل أن يصل إلى أي أحد آخر. تيليكوم ماليزيا برهاد (Telekom Malaysia Berhad، TM) هي الشركة الراسخة الوطنية — المشغّل الذي بنى معظم الشبكة الثابتة في البلاد ولا يزال يملك العمود الفقري الذي يعتمد عليه المنافسون والناقلون الدوليون.

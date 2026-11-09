@@ -106,6 +106,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang 精选名单每年修订；本篇反映2026年版（于2025年11月公布）。更新的版本——例如2027年名单——可能新增、剔除或重新排列这家餐馆，因此在依据之前，请在 guide.michelin.com 上重新确认它当前的 Bib Gourmand 状态。"
   - "营业时间：MICHELIN 页面列出异常晚的营业时间（直至凌晨），且因日而异，并经常于周一休息——请直接向餐馆确认当前时间，因为它会变动。"
+framework: profile
 ---
 
 兴记肉骨茶（Hing Kee Bakuteh）位于吉隆坡甲洞 Jalan Kepong，是一家历史悠久的肉骨茶

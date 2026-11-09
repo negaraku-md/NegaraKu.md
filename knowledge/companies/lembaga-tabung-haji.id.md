@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "bank-islam-malaysia" }
 related: []
 keywords: ["tabung haji", "lembaga tabung haji", "TH", "akta 535", "simpanan haji", "pelabur institusi", "GLIC", "kewangan islam"]
+framework: profile
 ---
 
 Bagi kebanyakan penyimpannya, Tabung Haji adalah rekening tempat uang dikumpulkan untuk ke Mekah. Tetapi di balik loket simpanan itu, Lembaga Tabung Haji juga menggerakkan puluhan miliar ringgit di seluruh perkebunan, properti, ekuitas, dan instrumen keuangan Islam — menjadikannya sebuah investor institusi berskala besar di Malaysia. Catatan ini berfokus pada sisi keuangan dan korporat itu, bukan urusan ibadah haji.

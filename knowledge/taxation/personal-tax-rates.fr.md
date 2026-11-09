@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "personal-tax-reliefs" }
 related: ["income-tax-in-malaysia", "personal-tax-reliefs", "corporate-tax-rates"]
 keywords: ["taux de l'impôt sur le revenu des personnes physiques Malaisie", "personal income tax rate Malaysia", "kadar cukai individu", "tranche d'imposition Malaisie", "table des taux LHDN", "taux d'imposition non-résident Malaisie 30", "taux d'imposition individuel AE2025"]
+framework: data-reference
 ---
 
 Les taux s'appliquent au **revenu imposable** — le revenu brut moins les dépenses

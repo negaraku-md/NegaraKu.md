@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 Một công ty khởi đầu cuộc đời bằng việc bán khí công nghiệp nay trồng đủ cọ dầu để lấp đầy một quỹ đất bằng kích thước một quận nhỏ — và biến loại quả đó thành mọi thứ từ dầu ăn đến các axit béo bên trong bánh xà phòng của bạn.

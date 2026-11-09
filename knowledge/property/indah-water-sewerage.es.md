@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["federal-state-division", "local-councils"]
 keywords: ["Indah Water Konsortium", "IWK", "cargo de alcantarillado", "alcantarillado Malasia", "factura IWK", "vaciado de fosa séptica", "SPAN alcantarillado", "sistema de alcantarillado Malasia"]
+framework: profile
 ---
 
 ## No es suministro de agua — el otro extremo de la tubería

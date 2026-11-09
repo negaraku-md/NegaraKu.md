@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["نيجري سمبيلان", "عادات برباتيه", "Adat Perpatih", "يانغ دي-برتوان بيسار", "Yang di-Pertuan Besar", "الأوندانغ يانغ إمبات", "Undang Yang Empat", "luak نيجري سمبيلان", "سيرمبان", "Seremban", "سري مِنانتي", "النظام الأمومي المينانغكاباوي"]
+framework: profile
 ---
 
 في الولايات الملايوية الثماني الأخرى، يُجاب عن سؤال «مَن وليّ العهد التالي» بالنسب.

@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "kwsp" }
 related: ["khazanah"]
 keywords: ["PLUS Malaysia", "Lebuh Raya Utara-Selatan", "konsesi tol", "UEM Group", "Khazanah", "KWSP", "lebuh raya bertol"]
+framework: profile
 ---
 
 北のブキ・カユ・ヒタム（Bukit Kayu Hitam）から南のジョホールバル（Johor Bahru）まで、信号で一度も止まることなく車を走らせるとき、あなたは実はある一社の資産の上を走っている——それがPLUS Malaysia Berhadである。同社は政府機関ではないが、かといって普通の民間企業でもない。政府との長期契約に基づき、国の道路網の背骨を運営するコンセッション事業者である。

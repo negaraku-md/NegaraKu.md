@@ -87,6 +87,7 @@ verificationNeeded:
   - "La selección de la MICHELIN Guide se revisa cada año; confirma que 7 Chai Ipoh Hor Fun aún conserva su Bib Gourmand en la edición más reciente de la MICHELIN Guide Kuala Lumpur & Penang antes de fiarte de ello."
   - "La indicación del año de la edición es inconsistente entre las fuentes: algunas se refieren a la selección actual como la edición de 2027, mientras que otros materiales etiquetan la lista más reciente como 2026. Confirma el año de edición correcto con el anuncio oficial de la ceremonia de la MICHELIN Guide."
   - "La fecha de fundación y la historia del restaurante no aparecen en la ficha de MICHELIN y no se confirmaron a partir de una fuente primaria."
+framework: profile
 ---
 
 7 Chai Ipoh Hor Fun es un pequeño local de fideos, sin pretensiones, en el barrio

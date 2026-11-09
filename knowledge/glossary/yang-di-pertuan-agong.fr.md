@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["federal-constitution", "parliament", "independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Yang di-Pertuan Agong", "Majlis Raja-Raja", "élection de l'Agong", "pemilihan Agong", "Article 32 Constitution fédérale", "Perkara 32 Perlembagaan Persekutuan", "Jadual Ketiga", "système de monarchie rotative Malaisie", "Chef suprême de la Fédération"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Yang di-Pertuan Agong · **English:** The King of Malaysia (Supreme Head of the Federation) · **中文:** 最高元首

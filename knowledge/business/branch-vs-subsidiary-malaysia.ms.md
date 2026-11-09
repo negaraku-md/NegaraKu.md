@@ -119,6 +119,7 @@ keywords:
   - "pejabat serantau MIDA"
   - "ejen tempatan syarikat asing Malaysia"
   - "tubuh perniagaan di Malaysia syarikat asing"
+framework: decision
 ---
 
 Cawangan biasanya digambarkan sebagai pilihan yang ringan: tiada syarikat

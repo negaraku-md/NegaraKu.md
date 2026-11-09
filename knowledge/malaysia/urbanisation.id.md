@@ -76,6 +76,7 @@ faq:
     a: Sebagian besar tidak — pola itu sebagian besar sudah berakhir. Laporan Survei Migrasi, Malaysia, 2024 dari DOSM menemukan 84,6% perpindahan dalam negara bagian adalah dari perkotaan ke perkotaan, dibandingkan hanya 0,6% dari perdesaan ke perkotaan. Sebagian besar yang pindah sudah merupakan penduduk perkotaan yang pindah ke kawasan perkotaan lain. Setelah sebuah negara melampaui sekitar tiga perempat perkotaan, perubahan selanjutnya terutama berasal dari pertambahan alami, penggolongan ulang batas wilayah, dan perputaran antarperkotaan, bukan dari desa-desa yang menjadi kosong.
   - q: Di manakah sebagian besar pertumbuhan perkotaan Malaysia terkonsentrasi?
     a: Di Lembah Klang (Klang Valley). Pada Sensus 2020, empat distrik yang bersebelahan — Kuala Lumpur (1.982.112), Petaling (2.298.130), Ulu Langat (1.400.461), dan Klang (1.088.942) — bersama-sama menampung sekitar 6,77 juta orang, lebih dari seperlima populasi nasional sebesar 32,4 juta. Selangor kini menjadi negara bagian dengan penduduk terbanyak sebesar 6.994.423 orang dan 95,8% perkotaan, sementara Kelantan, pada 44,1%, merupakan negara bagian yang paling sedikit terurbanisasi.
+framework: data-reference
 ---
 
 ## Tiga dari empat rakyat Malaysia kini tinggal di tempat yang disebut "perkotaan" oleh DOSM

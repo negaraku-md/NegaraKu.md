@@ -58,6 +58,7 @@ relations:
   - { rel: "related-to", to: "jalur-gemilang" }
 related: ["independence-1957", "national-day-vs-malaysia-day", "jalur-gemilang", "negaraku-anthem"]
 keywords: ["ميرديكا", "merdeka", "معنى ميرديكا", "أصل كلمة ميرديكا", "الاستقلال", "يوم ميرديكا", "Stadium Merdeka", "maharddhika"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Merdeka · **English:** Independence / Freedom · **中文:** 独立

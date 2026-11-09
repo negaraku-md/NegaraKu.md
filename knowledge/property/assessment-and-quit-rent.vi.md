@@ -66,6 +66,7 @@ relations:
   - { rel: "related-to", to: "state-assemblies-dun" }
 related: ["three-tiers-of-government", "federal-state-division", "state-assemblies-dun"]
 keywords: ["cukai pintu", "cukai tanah", "cukai taksiran", "quit rent Malaysia", "Akta 171", "Kanun Tanah Negara", "Pihak Berkuasa Tempatan", "pejabat tanah"]
+framework: explainer
 ---
 
 Nhiều chủ nhà mới bất ngờ khi nhận được hóa đơn thứ hai mà họ không ngờ tồn tại. Họ đã trả "thuế đất" năm nay rồi — vì sao hội đồng đô thị lại gửi thông báo đòi?

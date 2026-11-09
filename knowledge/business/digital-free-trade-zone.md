@@ -129,6 +129,7 @@ keywords:
   - "RM500 sales tax e-commerce"
   - "KLIA free commercial zone"
   - "zon perdagangan bebas digital"
+framework: profile
 ---
 
 The Digital Free Trade Zone is the clearest case in Malaysian business writing of a launch

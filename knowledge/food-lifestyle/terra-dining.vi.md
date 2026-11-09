@@ -89,6 +89,7 @@ verificationNeeded:
   - "Nhãn năm ấn bản hiển thị trên trang MICHELIN trực tiếp của nhà hàng có thể khác với '2026' được dùng trong tường thuật lễ trao giải của chính MICHELIN (các trang có thể hiển thị năm hoặc ngày khác). Sự công nhận này là hiện hành tính đến đợt tuyển chọn Kuala Lumpur & Penang 2026; MICHELIN rà soát các đợt tuyển chọn hằng năm, vì vậy hãy xác nhận thứ hạng trực tiếp trước khi dựa vào đó."
   - "Tên đầy đủ và tiểu sử của đầu bếp Chong không được nêu trên trang MICHELIN (chỉ có 'self-taught Chef Chong'); hãy đối chiếu với một cuộc phỏng vấn gốc hoặc trang web của chính nhà hàng."
   - "Giờ mở cửa, giá cả chính xác và số món hiện tại của thực đơn nếm thử thay đổi theo thời gian — hãy xác nhận trực tiếp với nhà hàng."
+framework: profile
 ---
 
 Terra Dining là một nhà hàng fine-dining trong khu Taman Tun Dr Ismail (TTDI)

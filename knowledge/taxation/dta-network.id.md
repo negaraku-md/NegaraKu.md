@@ -69,6 +69,7 @@ relations:
   - { rel: "requires", to: "certificate-of-residence" }
 related: ["certificate-of-residence", "withholding-tax-rates", "permanent-establishment", "withholding-tax-special-classes"]
 keywords: ["senarai PPPDK Malaysia", "kadar perjanjian percukaian dua hala Malaysia", "cukai pegangan perjanjian Malaysia", "negara perjanjian cukai Malaysia", "kadar royalti PPPDK Malaysia"]
+framework: data-reference
 ---
 
 Perjanjian adalah plafon (ceiling), bukan lantai (floor). Jika tarif domestik di

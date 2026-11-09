@@ -78,6 +78,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["trademark classes malaysia", "nice classification malaysia", "myipo trademark fees", "trademark fee per class malaysia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 ஒரு மலேசிய வர்த்தக முத்திரையின் விலையை தீர்மானிப்பது வகைப்பிரிவுகளின் எண்ணிக்கை,

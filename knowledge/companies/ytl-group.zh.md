@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia"]
 keywords: ["YTL", "YTL Corporation", "YTL Power International", "Wessex Water", "PowerSeraya", "Malayan Cement", "data centre Johor", "Malaysian conglomerate"]
+framework: profile
 ---
 
 YTL是马来西亚规模最大的多元化企业集团之一，与其将它理解为一家单一公司，不如将它视为一个围绕基础设施构建、由上市与非上市业务组成的大家族。

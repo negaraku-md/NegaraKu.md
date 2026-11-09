@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
+framework: profile
 ---
 
 조호르(Johor)의 경제는 그 이웃에 의해 규정됩니다. 반도 최남단의 주(州)로서, 조호르 해협 건너 싱가포르와 정확히 마주 보고 있으며, 그 근접성이 노동 시장부터 부동산 개발 전략까지 모든 것을 형성합니다.

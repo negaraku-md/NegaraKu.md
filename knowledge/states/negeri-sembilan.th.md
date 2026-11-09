@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
+framework: profile
 ---
 
 ในแปดรัฐมลายูอื่น คำถามที่ว่า "ใครจะเป็นราชาองค์ต่อไป" ตอบโดยสายเลือด ในเนอเกอรีเซิมบีลัน มันตอบโดยผู้นำจารีตประเพณีสี่คน

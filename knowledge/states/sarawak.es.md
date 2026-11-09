@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["formation-of-malaysia-1963"]
 keywords: ["Sarawak Malasia", "Sarawak Malaysia", "Kuching", "petróleo y gas de Sarawak", "Acuerdo de Malasia 1963", "selva tropical de Borneo"]
+framework: profile
 ---
 
 Sarawak es Malasia en otra clave. Es, con mucho, el estado más grande de la

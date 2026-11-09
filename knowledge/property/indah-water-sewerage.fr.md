@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["federal-state-division", "local-councils"]
 keywords: ["Indah Water Konsortium", "IWK", "redevance d'assainissement", "assainissement Malaisie", "facture IWK", "vidange de fosse septique", "SPAN assainissement", "système d'assainissement Malaisie"]
+framework: profile
 ---
 
 ## Pas la distribution d'eau — l'autre extrémité du tuyau

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
+framework: history-culture
 ---
 
 The word "emergency" was a legal choice, not a description. Calling the twelve-year conflict in Malaya an emergency rather than a war kept rubber estates and tin mines insurable under London policies that excluded acts of war. The fighting was real, the death toll ran into thousands, and the state that emerged from it carried instruments — identity cards, resettlement districts, detention powers — that outlasted the emergency by decades.

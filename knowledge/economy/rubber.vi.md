@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 Vào tháng 5 năm 2026, Malaysia sản xuất 20.198 tấn cao su thiên nhiên — và xuất khẩu 28.741 tấn cao su. Nước này xuất đi nhiều cao su thô hơn lượng mà chính các cây của nó cho ra trong tháng đó.

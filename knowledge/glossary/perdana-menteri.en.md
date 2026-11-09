@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 Malaysia can change its Prime Minister without a single vote being cast by the public — because the office is not granted by voters, but by the Yang di-Pertuan Agong to whoever is seen as capable of assembling a Dewan Rakyat majority. That is why Malaysia witnessed several changes of Prime Minister between 2018 and 2022 without a single new general election deciding it midway through that period.

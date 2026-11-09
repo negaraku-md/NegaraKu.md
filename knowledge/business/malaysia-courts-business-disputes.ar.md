@@ -75,6 +75,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["اختصاص محكمة الجلسات ماليزيا", "حدّ محكمة الصلح ماليزيا", "الاختصاص المدني للمحكمة العليا ماليزيا", "أي محكمة للمقاضاة ماليزيا", "مدة التقادم لمطالبة العقد ماليزيا", "الاستئناف من محكمة الجلسات ماليزيا"]
+framework: decision
 ---
 
 قرار المحكمة يُتَّخذ قبل أن ينظر أحد في موضوع الدعوى. ارفع مطالبةً بـ RM1.2 مليون

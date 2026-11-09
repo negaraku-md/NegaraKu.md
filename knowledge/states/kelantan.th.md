@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
+framework: profile
 ---
 
 เศรษฐกิจของมาเลเซียมักถูกเล่าผ่านโรงงาน กลันตันเป็นข้อยกเว้นที่ชัดเจนที่สุด: การผลิตมีสัดส่วนเพียง 4.7% ของผลิตภัณฑ์มวลรวมภายในประเทศของรัฐในปี 2025 — สัดส่วนต่ำที่สุดในบรรดา 13 รัฐ — ขณะที่เกษตรกรรมมีสัดส่วนเกือบหนึ่งในห้า

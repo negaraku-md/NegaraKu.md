@@ -167,6 +167,7 @@ relations:
   - { rel: "related-to", to: "labuan-tax-regime" }
 related: ["corporate-tax-rates", "labuan-tax-regime", "llp-taxation"]
 keywords: ["company tax deadline Malaysia", "Form C deadline", "CP204 due date", "Form E deadline", "LHDN filing programme 2026", "tarikh akhir borang C", "tax calendar Malaysia"]
+framework: data-reference
 ---
 
 Almost every Malaysian tax deadline is a **rule**, not a date. The date changes

@@ -92,6 +92,7 @@ verificationNeeded:
   - "MICHELIN Guide 선정은 매년 개정된다. 이를 신뢰하기 전에, 최신 MICHELIN Guide Kuala Lumpur & Penang 판에서 Coast by Kayra가 여전히 Bib Gourmand를 보유하고 있는지 확인할 것."
   - "판 연도 표기는 자료마다 일치하지 않는다 — 현행 선정을 2027년 판이라 하는 곳도 있고, 최신 목록을 2026년이라 표기하는 자료도 있다. 공식 MICHELIN Guide 시상식 발표와 대조하여 올바른 판 연도를 확인할 것."
   - "이 식당의 개업일과 처음 Bib Gourmand를 받은 정확한 연도는 MICHELIN 등재 정보에 나와 있지 않으며, 1차 자료로 확인되지 않았다."
+framework: profile
 ---
 
 Coast by Kayra는 쿠알라룸푸르 Bukit Bintang의 The Starhill 몰 안에 있는 케랄라 중심의 인도

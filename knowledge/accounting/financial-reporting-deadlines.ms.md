@@ -148,6 +148,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["financial-year-end", "financial-statement-pack", "mbrs-2-filing-guide", "audit-exemption-thresholds", "sdn-bhd-first-year-compliance", "annual-return", "form-c-and-cp204", "company-tax-calendar"]
 keywords: ["tarikh akhir penyata kewangan Malaysia", "seksyen 258 edaran enam bulan", "seksyen 259 penyerahan 30 hari", "penalti penyerahan lewat SSM", "lanjutan masa SSM penyata kewangan", "18 bulan penyata kewangan pertama", "tarikh akhir pelaporan kewangan Sdn Bhd"]
+framework: data-reference
 ---
 
 Tanya kebanyakan sumber Malaysia bila penyata kewangan perlu diserahkan dan anda

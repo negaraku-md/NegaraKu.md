@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "written-resolutions" }
 related: ["written-resolutions", "agm-requirements", "egm-requisition", "remove-a-director"]
 keywords: ["فترات إخطار القرارات في ماليزيا", "21 يومًا للقرار الخاص", "إخطار خاص 28 يومًا", "إخطار قصير اجتماع 90 بالمئة", "المادة 316 قانون الشركات 2016", "notice period resolution Malaysia", "section 316 Companies Act 2016"]
+framework: data-reference
 ---
 
 اسأل ثلاث شركات أمانة سر ماليزية كم يومًا من الإخطار يحتاجه القرار الخاص وستحصل

@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "parliament" }
 related: ["akta", "federal-constitution", "parliament"]
 keywords: ["Warta Kerajaan", "diwartakan", "pewartaan", "Federal Government Gazette", "P.U. (A)", "P.U. (B)", "e-Warta", "Perkara 66(5)"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Warta Kerajaan · **English:** Government Gazette · **中文:** 政府宪报

@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["Malaysia tax incentives list", "MIDA tax incentive", "Pioneer Status Malaysia status", "Global Services Hub incentive", "Malaysia incentive gazette order", "tax incentive directory Malaysia"]
+framework: data-reference
 ---
 
 マレーシアのウェブ上にある優遇措置一覧の大半は、コピーのそのまたコピーである。それらは今もパイオニア・ステータスを提供していると謳い、Principal Hubをまるで今も申請できるかのように説明し、そのすべてがどの官報令に依拠しているのかを一切述べない。ここで採用する規則はより狭く、より地味である：**その優遇措置自身の法律文書又は公式ガイドラインが実際に開かれ、読まれた場合に限り、以下に掲載する**。そして状態欄は、その文書自体が申請窓口について何を述べているかを報告する。

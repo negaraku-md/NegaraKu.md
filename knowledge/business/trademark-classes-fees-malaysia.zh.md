@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["trademark classes malaysia", "nice classification malaysia", "myipo trademark fees", "trademark fee per class malaysia", "tma2a tma2b"]
+framework: data-reference
 ---
 
 决定一个马来西亚商标要花多少钱的，是类别数量，不是提交这个动作本身。以下所有金额都是

@@ -67,6 +67,7 @@ relations:
   - { rel: "compares-with", to: "corporate-tax-rates" }
 related: ["income-tax-in-malaysia", "corporate-tax-rates", "sst-explained", "epf-socso-guide"]
 keywords: ["मलेशिया कर छूट", "Malaysia tax relief", "pelepasan cukai individu", "कर छूट जाँच-सूची मलेशिया", "Form BE छूटें", "LHDN व्यक्तिगत छूट"]
+framework: how-to
 ---
 
 जिस भी छूट का आप वैध रूप से दावा कर सकते हैं उसका प्रत्येक रिंगिट आपकी कर-योग्य आय

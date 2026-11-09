@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "contracts-act-malaysia" }
 related: ["debt-recovery-malaysia", "arbitration-vs-litigation-malaysia", "contracts-act-malaysia"]
 keywords: ["Sessions Court jurisdiction Malaysia", "Magistrates Court limit Malaysia", "High Court civil jurisdiction Malaysia", "which court to sue Malaysia", "limitation period contract Malaysia", "appeal from Sessions Court Malaysia"]
+framework: decision
 ---
 
 விசாரணை மன்றம் குறித்த முடிவு, வழக்கின் தகுதிகளை யாரும் பார்ப்பதற்கு முன்பே

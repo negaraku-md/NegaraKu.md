@@ -78,6 +78,7 @@ related: ["maybank", "cimb", "public-bank", "rhb-banking-group"]
 keywords: ["Hong Leong Financial Group", "HLFG", "Hong Leong Bank", "HLB", "Quek Leng Chan", "Hong Leong Group", "Malaysia banks", "Bank of Chengdu", "Hong Leong Assurance", "Hong Leong Investment Bank"]
 social:
   hashtags: ["HongLeong", "HLFG", "HongLeongBank", "MalaysiaBanking", "QuekLengChan"]
+framework: profile
 ---
 
 يعرف الماليزيون اسم هونغ ليونغ من فرع بنك، أو دراجة نارية، أو سعر سهم — لكن النشاط المصرفي يجلس داخل بنية مدرجة من مستويين كثيرًا ما تربك القرّاء. في الأعلى مجموعة هونغ ليونغ المالية برهاد (Hong Leong Financial Group Berhad، HLFG)، الشركة القابضة المالية؛ وتحتها بنك هونغ ليونغ برهاد (Hong Leong Bank Berhad، HLB)، البنك التجاري الذي يتعامل معه معظم العملاء فعلًا.

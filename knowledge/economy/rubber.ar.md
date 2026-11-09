@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["صناعة المطاط في ماليزيا", "إنتاج المطاط الطبيعي الماليزي", "صادرات القفازات المطاطية", "Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 في مايو 2026 أنتجت ماليزيا 20,198 طنًّا من المطاط الطبيعي — وصدّرت منه

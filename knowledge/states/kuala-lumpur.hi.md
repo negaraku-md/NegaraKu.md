@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["कुआलालंपुर", "Kuala Lumpur", "KL संघीय क्षेत्र", "KL federal territory", "बर्सा मलेशिया", "Bursa Malaysia", "पेट्रोनास ट्विन टावर्स", "Petronas Twin Towers", "क्लांग घाटी", "Klang Valley"]
+framework: profile
 ---
 
 कुआलालंपुर मलेशिया की राष्ट्रीय राजधानी है, किंतु संवैधानिक रूप से यह कोई राज्य

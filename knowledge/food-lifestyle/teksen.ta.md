@@ -78,6 +78,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Teksen", "#BibGourmand", "#PenangFood", "#GeorgeTown", "#Malaysia"]
+framework: profile
 ---
 
 Lebuh Carnarvon-இல் உள்ள ஒரு கடைவீட்டில் (shophouse) அமைந்துள்ள Teksen, George

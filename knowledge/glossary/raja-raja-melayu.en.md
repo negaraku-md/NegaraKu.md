@@ -81,6 +81,7 @@ relations:
   - { rel: "part-of", to: "perlembagaan-persekutuan" }
 related: ["yang-di-pertuan-agong", "perlembagaan-persekutuan"]
 keywords: ["raja-raja melayu", "majlis raja-raja", "conference of rulers", "perkara 38", "yang di-pertua negeri", "monarki malaysia"]
+framework: explainer
 ---
 
 Once a year, nine state monarchs and four Governors gather in a meeting room in Kuala Lumpur to make decisions that Parliament cannot make — among them, choosing who will become the Federal King. That assembly is the Conference of Rulers, and the state monarchs who sit on it are known as the Malay Rulers.

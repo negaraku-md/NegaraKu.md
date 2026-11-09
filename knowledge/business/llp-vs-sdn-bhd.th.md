@@ -110,6 +110,7 @@ keywords:
   - "LLP tax Malaysia"
   - "LLP audit requirement Malaysia"
   - "compliance officer LLP"
+framework: decision
 ---
 
 เปิดการเปรียบเทียบ LLP ของมาเลเซียฉบับใด ท่านจะอ่านว่ามัน "รวมความรับผิดจำกัดของบริษัทเข้ากับความโปร่งใสทางภาษีของห้างหุ้นส่วน"

@@ -89,6 +89,7 @@ verificationNeeded:
   - "L'étiquette de l'année d'édition affichée sur la fiche MICHELIN en ligne du restaurant peut différer du « 2026 » utilisé dans la couverture de la cérémonie par MICHELIN même (les fiches peuvent afficher une autre année ou date). La reconnaissance est à jour au titre de la sélection Kuala Lumpur & Penang 2026 ; MICHELIN révise ses sélections chaque année, vérifiez donc la distinction en ligne avant de vous y fier."
   - "Le nom complet et le parcours du chef Chong ne sont pas donnés sur la fiche MICHELIN (seulement « self-taught Chef Chong ») ; vérifiez auprès d'un entretien primaire ou du site du restaurant."
   - "Les horaires exacts, les tarifs et le nombre actuel de plats du menu dégustation évoluent avec le temps — vérifiez directement auprès du restaurant."
+framework: profile
 ---
 
 Terra Dining est un restaurant gastronomique du quartier de Taman Tun Dr Ismail

@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 Hai cái tên thường xuất hiện khi các gia đình Malaysia trò chuyện về trường nội trú "tốt nhất" cho con: MRSM và SBP. Cả hai đều là các trường cao đẳng nội trú hoàn toàn được tuyển chọn, cả hai đều được tranh giành khốc liệt — nhưng chúng được điều hành bởi hai cơ quan khác nhau, dưới hai nhiệm vụ chính sách khác nhau.

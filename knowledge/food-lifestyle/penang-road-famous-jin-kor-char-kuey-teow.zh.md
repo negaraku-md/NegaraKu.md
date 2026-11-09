@@ -93,6 +93,7 @@ verificationNeeded:
   - "此处的米其林殊荣被描述为必比登（Bib Gourmand），但官方条目页以图标而非可直接撷取的文字来呈现该奖项；米其林殊荣每年修订，因此在引用前请对照 guide.michelin.com 核实当前的必比登状态。"
   - "版本年份：马来西亚媒体提到一个《MICHELIN Guide Kuala Lumpur & Penang 2027》版本（据报于 2026 年 11 月 4 日公布），而目前可独立证实的最新官方版本为 2026——请对照官方遴选页核实是哪一版本收录此摊位。"
   - "营业时间（列为每日 09:30–17:00）与「约 40 年」的经营说法均来自米其林条目，可能会变动——出行前请在当地核实。"
+framework: profile
 ---
 
 隐身于槟城路（Jalan Penang）[Joo Hooi Cafe](/zh/food-lifestyle/penang-food)

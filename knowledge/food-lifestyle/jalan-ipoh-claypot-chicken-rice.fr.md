@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "L'année exacte de l'édition MICHELIN est indiquée de façon incohérente selon les sources : la page officielle ne porte pas d'année, ce stand a été distingué pour la première fois dans l'édition annoncée en novembre 2023 (le guide « 2024 »), tandis que la liste Bib Gourmand de Wikipédia affiche désormais une colonne « 2027 » comme la plus récente. La sélection est révisée chaque année ; confirmez le statut actuel sur guide.michelin.com."
   - "Le stand porte « Jalan Ipoh » dans son nom mais se situe à Taman Kok Lian ; confirmez tout lien historique avec Jalan Ipoh avant de l'énoncer. Les horaires et jours de fermeture d'un stand de rue peuvent changer — reconfirmez avant la visite."
+framework: profile
 ---
 
 Niché dans Taman Kok Lian, au nord du centre de Kuala Lumpur, un stand portant le

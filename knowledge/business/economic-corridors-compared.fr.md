@@ -107,6 +107,7 @@ keywords:
   - "koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "which economic corridor Malaysia"
+framework: decision
 ---
 
 Cinq corridors, cinq autorités, et un fait qui fait s'effondrer la majeure partie du marketing :

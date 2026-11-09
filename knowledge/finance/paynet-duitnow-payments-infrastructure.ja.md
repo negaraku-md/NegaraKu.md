@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "malaysia-e-wallets" }
 related: ["bank-negara-malaysia"]
 keywords: ["PayNet", "DuitNow", "DuitNow QR", "JomPAY", "FPX", "MyDebit", "Malaysia payments", "cashless"]
+framework: profile
 ---
 
 クアラルンプールのナシレマ屋台でQRコードをスキャンする、友人の電話番号を入力して送金する、ネットバンキングで請求書を支払う——この三つの行為はすべて、同じ一つの会社をひそかに経由している。その名はPayNet（Payments Network Malaysia）。だが、ほとんどのマレーシア人はその名を聞いたことがない。

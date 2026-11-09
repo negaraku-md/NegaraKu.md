@@ -72,6 +72,7 @@ relations:
   - { rel: "compares-with", to: "epf-as-investor" }
 related: ["epf-as-investor"]
 keywords: ["KWAP", "Kumpulan Wang Persaraan", "pencen penjawat awam", "dana pencen sektor awam", "Akta 662", "liabiliti pencen"]
+framework: profile
 ---
 
 Setiap kali seorang pegawai negeri Federal pensiun, uang pensiunnya harus datang dari suatu tempat. Tempat itu adalah KWAP — dan pada akhir 2024, kantong investasinya bernilai RM185.6 miliar.

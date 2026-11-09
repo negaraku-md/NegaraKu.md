@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaisie", "Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "économie de la vallée de Klang"]
+framework: profile
 ---
 
 Selangor est l'État sur lequel l'économie de la Malaisie fonctionne discrètement. Il

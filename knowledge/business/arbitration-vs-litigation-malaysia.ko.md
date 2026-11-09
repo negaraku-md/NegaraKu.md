@@ -84,6 +84,7 @@ keywords:
   - "AIAC arbitration rules 2026"
   - "arbitration clause Malaysia drafting"
   - "setting aside arbitral award Malaysia section 37"
+framework: decision
 ---
 
 중재 조항은 대개 마지막으로 협상되는 조항이면서, 상황이 틀어졌을 때 가장 먼저

@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 தொழில்துறை வாயுக்களை விற்பதன் மூலம் வாழ்க்கையைத் தொடங்கிய ஒரு நிறுவனம், இன்று ஒரு சிறிய மாவட்டத்தின் அளவுக்கு நிலவங்கியை நிரப்பும் அளவுக்கு எண்ணெய்ப் பனையை வளர்க்கிறது — அந்தப் பழத்தை சமையல் எண்ணெய் முதல் உங்கள் சோப்பினுள் இருக்கும் கொழுப்பு அமிலங்கள் வரை அனைத்தாகவும் மாற்றுகிறது.

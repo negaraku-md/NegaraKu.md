@@ -80,6 +80,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pdpa registration malaysia", "class of data users order", "pdpa registrable class", "register data controller malaysia", "pu a 336 2013"]
+framework: data-reference
 ---
 
 Việc đăng ký theo PDPA không mang tính chung. Nó chỉ ảnh hưởng đến những người kiểm soát dữ liệu thuộc một loại được nêu cụ thể bằng lệnh theo s.14 của Act 709 — và danh sách đó đã không thay đổi kể từ ngày 16 tháng 12 năm 2016.

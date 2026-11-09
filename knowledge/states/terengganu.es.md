@@ -102,6 +102,7 @@ relations:
   - { rel: "related-to", to: "batik" }
 related: ["oil-gas-petronas", "batik"]
 keywords: ["Terengganu", "Kuala Terengganu", "Batu Bersurat Terengganu", "Sultan Terengganu", "petróleo de Kertih", "escritura jawi más antigua"]
+framework: profile
 ---
 
 Las dos cosas más famosas de Terengganu están a unos 60 kilómetros la una de la otra,

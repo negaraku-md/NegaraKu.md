@@ -125,6 +125,7 @@ keywords:
   - "MD Cybercity Cybercentre"
   - "MD Location Recognition"
   - "Cyberview Sdn Bhd"
+framework: profile
 ---
 
 साइबरजया नाम की दो अलग-अलग चीज़ें हैं, और उन्हें गड्डमड्ड करना महँगा पड़ता है।

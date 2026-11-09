@@ -68,6 +68,7 @@ relations:
   - { rel: "related-to", to: "annual-return" }
 related: ["register-of-members", "register-of-directors", "registered-office", "minute-books-and-records", "register-of-charges", "certified-true-copies", "appoint-company-secretary", "annual-return"]
 keywords: ["statutory registers Malaysia", "company registers checklist", "daftar berkanun syarikat", "register of members directors", "SSM company records", "Companies Act 2016 registers"]
+framework: how-to
 ---
 
 法定登记册是那种没人放在心上的文书工作——直到审计师、银行或买家的律师开口要看，

@@ -74,6 +74,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["federal-constitution", "yang-di-pertuan-agong", "melaka", "negeri-sembilan", "penang"]
 keywords: ["Raja pemerintah", "Yang di-Pertua Negeri", "negeri beraja", "negeri tidak beraja", "Sultan Malaysia", "Yang di-Pertuan Besar Negeri Sembilan", "Raja Perlis", "ketua negeri Malaysia", "Majlis Raja-Raja", "Perkara 71 Perlembagaan"]
+framework: explainer
 ---
 
 マレーシアには13の州があるが、王位はわずか九つしかない。残る四つの州は、王位に就くことのない人物によって統治されている——その人物は任命され、限られた任期のあいだ職務を務め、その後は一般市民として戻っていく。

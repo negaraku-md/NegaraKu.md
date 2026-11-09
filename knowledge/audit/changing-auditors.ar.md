@@ -102,6 +102,7 @@ obligations:
     authority: "SSM"
     statute: "Companies Act 2016, s.282"
     consequence: "The company and every officer commit an offence"
+framework: how-to
 ---
 
 لا أحد يغيّر مدققه لسبب محايد. فإمّا أن الأتعاب تحركت، أو أن المجموعة أُعيد هيكلتها،

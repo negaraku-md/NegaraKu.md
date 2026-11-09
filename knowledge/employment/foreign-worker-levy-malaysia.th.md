@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["hiring-foreign-workers-malaysia"]
 keywords: ["foreign worker levy malaysia", "levi pekerja asing", "multi tier levy", "mtlm", "levy rates by sector", "plks levy sabah sarawak"]
+framework: data-reference
 ---
 
 เริ่มด้วยสิ่งที่ทำให้หัวข้อนี้ค้นคว้ายาก: **ไม่มีตราสารอากรแรงงานต่างชาติ**

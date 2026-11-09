@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["tipos de opinión de auditoría Malasia", "opinión con salvedades Malasia", "opinión desfavorable", "denegación de opinión", "ISA 705 generalizado", "opinión de auditoría modificada Sdn Bhd", "audit opinion types Malaysia", "qualified opinion"]
+framework: explainer
 ---
 
 Toda página competidora lista cuatro opiniones y define cada una en una frase.

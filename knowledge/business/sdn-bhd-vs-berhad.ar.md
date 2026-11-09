@@ -68,6 +68,7 @@ keywords:
   - "section 42 Companies Act 2016"
   - "تحويل Sdn Bhd إلى Berhad"
   - "الفرق بين Sdn Bhd و Berhad"
+framework: explainer
 ---
 
 لا يكاد أحد يحوّل شركة Sdn Bhd إلى Berhad لأنه نفدت منه خانات المساهمين. بل يحوّلون لأنهم يريدون المال من أناس لم يلتقوهم قط — والمادة 43 من قانون الشركات لسنة 2016 (Companies Act 2016) تجعل ذلك غير قانوني للشركة الخاصة.

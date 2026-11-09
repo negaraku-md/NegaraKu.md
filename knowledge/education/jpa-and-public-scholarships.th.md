@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 การได้ 9A+ ใน SPM ไม่ได้รับประกันทุนเต็มจำนวนไปเรียนต่อต่างประเทศเสมอไป — เพราะในมาเลเซีย การอุปถัมภ์ภาครัฐไม่ได้เป็นเพียงเรื่องของคะแนน แต่ยังเป็นเรื่องของโครงการที่คุณสมัคร เงื่อนไขการรับราชการที่ผูกพัน และนโยบายที่กำกับแต่ละกองทุน การเข้าใจแผนที่ผู้อุปถัมภ์นี้สำคัญ เพราะการเลือกผิดอาจหมายถึงเงินหลายพันริงกิตที่ต้องชำระคืนในภายหลัง

@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "financial-statements-lodgement", "extension-of-time-ssm", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["yuran pengemukaan lewat SSM", "penalti SSM lewat memfailkan", "Arahan Amalan 1/2017", "kompaun SSM Malaysia", "penalti lewat penyata tahunan Malaysia", "pengecualian penalti MBRS"]
+framework: data-reference
 ---
 
 Kebanyakan laman web Malaysia yang memetik penalti SSM memetik angka yang

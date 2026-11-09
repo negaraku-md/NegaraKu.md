@@ -89,6 +89,7 @@ verificationNeeded:
   - "Sự ghi nhận của MICHELIN được nêu là hiện hành. Năm phiên bản chính xác còn mơ hồ giữa các nguồn: chính bài viết tuyển chọn đầy đủ của MICHELIN gắn nhãn danh sách này là MICHELIN Guide Kuala Lumpur & Penang 2026 (lễ trao ngày 11 tháng 11 năm 2025), trong khi một số đưa tin thứ cấp nhắc đến phiên bản '2027' được công bố ngày 4 tháng 11. Hãy xác nhận năm phiên bản chính xác và ngày công bố với thông cáo chính thức của MICHELIN."
   - "Các tuyển chọn của MICHELIN Guide được rà soát hằng năm; hồ sơ này phản ánh trạng thái hiển thị trong mục niêm yết hiện tại và nên được kiểm tra lại sau mỗi phiên bản mới."
   - "Mục niêm yết chính của MICHELIN không hiển thị huy hiệu Green Star tại thời điểm viết bài, dù văn bản liên quan của MICHELIN và đưa tin thứ cấp mô tả Dewakan là nhà hàng Green Star (trao lần đầu ở phiên bản 2025)——hãy xác nhận Green Star có hiển thị trong mục niêm yết hiện tại hay không."
+framework: profile
 ---
 
 Dewakan tọa lạc trên tầng 48 của Naza Tower ở Platinum Park của Kuala Lumpur, một

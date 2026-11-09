@@ -159,6 +159,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["senarai semak offboarding malaysia", "tarikh akhir CP22A", "borang CP21 malaysia", "surat penyelesaian cukai SPC", "gaji akhir malaysia", "senarai semak pemberhentian pekerja malaysia", "tahanan cukai 90 hari"]
+framework: how-to
 ---
 
 Temu bual keluar adalah bahagian yang diingati oleh semua orang. Pemfailanlah bahagian yang mengakibatkan denda — dan salah satu daripadanya, iaitu kewajipan menahan bayaran sementara menunggu penyelesaian cukai, adalah sebab seorang pegawai penggajian yang melepaskan gaji akhir tepat pada masanya dan dengan niat baik boleh berakhir dengan terpaksa menjelaskannya kepada LHDN.

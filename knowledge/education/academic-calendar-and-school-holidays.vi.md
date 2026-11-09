@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "public-holidays-in-malaysia" }
 related: ["public-holidays-malaysia"]
 keywords: ["takwim persekolahan", "cuti sekolah", "cuti penggal", "kumpulan A", "kumpulan B", "KPM", "kalendar akademik"]
+framework: data-reference
 ---
 
 Hãy lập kế hoạch cho một chuyến du lịch gia đình vào đầu năm, và bạn nhanh chóng nhận ra một điều: người hàng xóm ở Kelantan khai giảng sớm hơn con bạn ở Selangor một ngày. Đó không phải là một sai sót — đó là cách lịch năm học của Malaysia được thiết kế.

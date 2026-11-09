@@ -72,6 +72,7 @@ relations:
   - { rel: "related-to", to: "melaka-sultanate" }
 related: []
 keywords: ["Johor Malaysia", "Johor Bahru", "Iskandar Malaysia", "petrokimia Pengerang", "Tambak Johor Singapura"]
+framework: profile
 ---
 
 เศรษฐกิจของยะโฮร์ถูกนิยามโดยเพื่อนบ้านของตน ในฐานะรัฐที่อยู่ใต้สุดของคาบสมุทร รัฐนี้ตั้งอยู่ตรงข้ามกับสิงคโปร์พอดีข้ามช่องแคบยะโฮร์ (Strait of Johor) และความใกล้ชิดนั้นหล่อหลอมทุกสิ่งตั้งแต่ตลาดแรงงานไปจนถึงยุทธศาสตร์การพัฒนาอสังหาริมทรัพย์

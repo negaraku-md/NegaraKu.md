@@ -92,6 +92,7 @@ relations:
   - { rel: "administered-by", to: "department-of-statistics-malaysia" }
 related: []
 keywords: ["B40", "M40", "T20", "pendapatan garis kemiskinan", "pekali Gini", "ketaksamaan pendapatan", "DOSM", "pendapatan isi rumah", "kemiskinan"]
+framework: data-reference
 ---
 
 You may once have been labelled "B40" or "T20" on a subsidy form — but that label is not your salary. It is your position in a line arranged by the Department of Statistics Malaysia (DOSM), and that line is redrawn every time new data comes in. Understanding how the line is drawn changes how you read almost every debate about the cost of living in Malaysia.

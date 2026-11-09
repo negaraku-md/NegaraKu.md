@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["audit preparation checklist Malaysia", "PBC list audit", "audit request list Sdn Bhd", "MFRS 124 related party disclosure", "director account audit Malaysia", "intercompany reconciliation audit"]
+framework: how-to
 ---
 
 รายการที่ผู้สอบบัญชีขอดูเหมือนเอกสารทางธุรการ แต่ไม่ใช่ มันคือแผนการสอบบัญชีที่แปลเป็นสิ่งที่คุณต้องจัดทำ และทุกบรรทัดในนั้นมีไว้เพื่อสนับสนุนข้อกล่าวอ้างเฉพาะข้อหนึ่งที่งบการเงินกำลังกล่าว

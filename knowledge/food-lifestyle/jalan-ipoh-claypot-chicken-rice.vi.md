@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "Năm ấn bản MICHELIN chính xác được ghi không nhất quán giữa các nguồn — trang chính thức không ghi năm, quầy này lần đầu được trao giải trong ấn bản công bố tháng 11 năm 2023 (cẩm nang '2024'), còn danh sách Bib Gourmand của Wikipedia hiện hiển thị cột '2027' là mới nhất. Việc tuyển chọn được rà soát hằng năm; hãy xác nhận trạng thái hiện tại trên guide.michelin.com."
   - "Quầy mang tên 'Jalan Ipoh' nhưng lại nằm ở Taman Kok Lian; hãy xác nhận mọi liên hệ lịch sử với Jalan Ipoh trước khi nêu. Giờ mở cửa và ngày nghỉ của một quầy hàng rong có thể thay đổi — hãy xác nhận lại trước khi ghé thăm."
+framework: profile
 ---
 
 Nép mình trong Taman Kok Lian, phía bắc trung tâm Kuala Lumpur, một quầy mang tên

@@ -82,6 +82,7 @@ relations:
   - { rel: "related-to", to: "formation-of-malaysia-1963" }
 related: ["independence-1957", "formation-of-malaysia-1963"]
 keywords: ["Malayan Emergency", "Darurat", "Briggs Plan", "new villages", "kampung baru", "Malayan Communist Party", "Sungai Siput"]
+framework: history-culture
 ---
 
 「非常事態（emergency）」という語は、単なる描写ではなく、法律上の選択であった。マラヤにおけるこの12年間の紛争を、戦争ではなく非常事態と呼ぶことで、ゴム農園と錫鉱山は、戦争行為を除外していたロンドンの保険証券のもとでも、引き続き保険をかけられる状態を保つことができた。戦闘は現実のものであり、死者数は数千人に達し、そこから生まれた国家機構——身分証明書、再定住地区、拘禁権限——は、非常事態が終わった後も数十年にわたって存続した。

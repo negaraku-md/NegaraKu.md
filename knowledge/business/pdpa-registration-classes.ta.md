@@ -80,6 +80,7 @@ relations:
   - { rel: "governs", to: "personal-data-protection-act-2010" }
 related: ["pdpa-compliance-malaysia", "online-business-licence-malaysia"]
 keywords: ["pdpa registration malaysia", "class of data users order", "pdpa registrable class", "register data controller malaysia", "pu a 336 2013"]
+framework: data-reference
 ---
 
 PDPA-வின் கீழ் பதிவு பொதுவானது அல்ல. Act 709-ன் s.14-ன் கீழ் ஆணையால் குறிப்பிடப்பட்ட ஒரு வகுப்பினுள் வரும் தரவு கட்டுப்படுத்திகளை மட்டுமே அது எட்டுகிறது — மேலும் அந்தப் பட்டியல் 16 டிசம்பர் 2016 முதல் நகரவில்லை.

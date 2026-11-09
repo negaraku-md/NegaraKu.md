@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "FELDA privatisation", "palm oil Malaysia", "Bursa Malaysia", "plantation company", "FELDA settlers"]
+framework: profile
 ---
 
 2012年，它是市场的宠儿——一次巨型上市，一度在全球排名第二，仅次于Facebook。十三年后，同一家公司以远低于首日价格的水平悄然离开大马交易所，被当初将其推向市场的那个机构收购了回去。

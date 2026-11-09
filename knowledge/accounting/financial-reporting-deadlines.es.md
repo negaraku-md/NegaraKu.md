@@ -148,6 +148,7 @@ relations:
   - { rel: "related-to", to: "financial-statement-pack" }
 related: ["financial-year-end", "financial-statement-pack", "mbrs-2-filing-guide", "audit-exemption-thresholds", "sdn-bhd-first-year-compliance", "annual-return", "form-c-and-cp204", "company-tax-calendar"]
 keywords: ["plazo estados financieros Malasia", "artículo 258 circulación seis meses", "artículo 259 presentación 30 días", "sanción SSM presentación tardía", "prórroga de plazo SSM estados financieros", "18 meses primeros estados financieros", "plazo información financiera Sdn Bhd", "financial statements deadline Malaysia", "SSM late lodgement penalty"]
+framework: data-reference
 ---
 
 Pregunte a la mayoría de las fuentes malasias cuándo vencen los estados financieros y le

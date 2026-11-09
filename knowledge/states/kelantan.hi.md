@@ -100,6 +100,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["केलंतान", "Kelantan", "कोटा भारू", "Kota Bharu", "केलंतान की अर्थव्यवस्था", "केलंतान के हस्तशिल्प", "माक योंग", "mak yong", "Kelantan Darul Naim"]
+framework: profile
 ---
 
 मलेशिया की अर्थव्यवस्था की कहानी प्रायः कारखाने के माध्यम से कही जाती है।

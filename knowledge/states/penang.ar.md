@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["بينانغ", "Penang Malaysia", "جورج تاون اليونسكو", "George Town UNESCO", "بايان ليباس", "Bayan Lepas", "إلكترونيات بينانغ", "Penang electronics", "وادي السيليكون الشرقي", "silicon valley of the east"]
+framework: profile
 ---
 
 تتجاوز بينانغ حجمها بكثير في تأثيرها. فهي إحدى أصغر ولايات ماليزيا من حيث مساحة

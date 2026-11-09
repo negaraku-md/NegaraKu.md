@@ -118,6 +118,7 @@ keywords:
   - "regional office MIDA"
   - "local agent foreign company Malaysia"
   - "set up business in Malaysia foreign company"
+framework: decision
 ---
 
 கிளை பொதுவாக அந்த எளிமையான தேர்வாக முன்வைக்கப்படுகிறது: புதிய நிறுவனம் இல்லை,

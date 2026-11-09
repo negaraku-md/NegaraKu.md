@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
+framework: explainer
 ---
 
 Hai khu nhà ở có thể trông giống hệt nhau — chòi bảo vệ xây gạch, barie sọc, bảo vệ mặc đồng phục kiểm tra sticker của bạn. Một khu đứng trên nền tảng pháp lý vững chắc. Khu kia tồn tại vì chưa có ai thách thức nó.

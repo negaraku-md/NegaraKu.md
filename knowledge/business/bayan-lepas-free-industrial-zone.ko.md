@@ -118,6 +118,7 @@ keywords:
   - "Free Zones Act 1990"
   - "Penang FIZ customs"
   - "zon perindustrian bebas"
+framework: profile
 ---
 
 바얀르파스 자유산업지역(Bayan Lepas Free Industrial Zone)에 관하여 공표된 거의

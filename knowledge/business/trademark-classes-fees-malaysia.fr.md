@@ -79,6 +79,7 @@ relations:
   - { rel: "governs", to: "trademarks-act-2019" }
 related: ["trademark-registration-malaysia", "ip-ownership-malaysia"]
 keywords: ["classes de marques malaisie", "classification de nice malaisie", "taxes de marques myipo", "taxe de marque par classe malaisie", "tma2a tma2b"]
+framework: data-reference
 ---
 
 Le nombre de classes, et non le dépôt, est ce que coûte une marque malaisienne. Tout ce qui

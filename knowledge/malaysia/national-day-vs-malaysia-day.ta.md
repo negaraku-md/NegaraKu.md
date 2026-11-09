@@ -68,6 +68,7 @@ relations:
 related: ["independence-1957", "formation-of-malaysia-1963", "singapore-separation-1965"]
 entity: "Hari Kebangsaan dan Hari Malaysia"
 keywords: ["Hari Kebangsaan", "Hari Merdeka", "Hari Malaysia", "31 Ogos 1957", "16 September 1963", "beza Hari Kebangsaan Hari Malaysia"]
+framework: explainer
 ---
 
 ஒவ்வொரு ஆண்டும் மலேசியாவின் நாட்காட்டியில், ஒரே விஷயம் என்று எளிதில் தவறாகக் கருதப்படும் இரண்டு தேதிகள் உள்ளன: 31 ஆகஸ்ட் மற்றும் 16 செப்டம்பர். இரண்டும் கொடிகள், அணிவகுப்புகள் மற்றும் தேசபக்திப் பாடல்களுடன் கொண்டாடப்படுகின்றன. ஆயினும் இவை இரண்டும் ஆறு ஆண்டுகள் இடைவெளியில் நிகழ்ந்த வெவ்வேறு நிகழ்வுகளைக் குறிக்கின்றன, மேலும் வெவ்வேறு வடிவங்களைக் கொண்ட இரண்டு நாடுகளை விவரிக்கின்றன.

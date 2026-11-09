@@ -158,6 +158,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["offboarding checklist malaysia", "CP22A deadline", "CP21 form malaysia", "tax clearance letter SPC", "final pay malaysia", "employee exit checklist malaysia", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 退職面談は誰もが記憶に残る部分である。罰金を生むのは各種の申告のほうであり——その一つ、納税清算に伴う留保義務は、期限内に、かつ善意で最終給与を発放した給与担当者が、結局LHDNに説明する羽目になる理由である。

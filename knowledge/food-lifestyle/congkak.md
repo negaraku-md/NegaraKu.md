@@ -90,6 +90,7 @@ social:
 verificationNeeded:
   - "The exact MICHELIN edition year is labelled inconsistently across sources — the official restaurant page carries no year, press coverage referred to the '2026' MICHELIN Guide Kuala Lumpur & Penang, and the Wikipedia Bib Gourmand list now shows a '2027' column as the latest. The Bib Gourmand selection is revised annually; confirm the current edition and status on guide.michelin.com."
   - "Congkak's opening year, ownership and the full menu beyond the nasi ambeng platter are not detailed on the MICHELIN page — confirm against the restaurant directly before stating them."
+framework: profile
 ---
 
 On a quiet residential street in Bukit Bintang, a few turns off Kuala Lumpur's

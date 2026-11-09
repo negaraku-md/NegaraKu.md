@@ -63,6 +63,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["dosm", "sarawak"]
 keywords: ["Malaysia religion statistics", "MyCensus 2020 religion", "census 2020 Malaysia religion", "Islam population Malaysia", "Buddhism population Malaysia", "Christianity population Malaysia", "Hinduism population Malaysia", "DOSM population by religion"]
+framework: data-reference
 ---
 
 Setiap sepuluh tahun, banci kebangsaan Malaysia mengemukakan satu soalan yang jarang ditanya secara langsung oleh borang kerajaan: apakah agama anda. Pada 2020, 32.4 juta orang menjawab, dan Jabatan Perangkaan Malaysia (DOSM) menerbitkan kiraan itu dalam satu perenggan sahaja dalam siaran Key Findings-nya — lima angka, tanpa sebarang ulasan disertakan.

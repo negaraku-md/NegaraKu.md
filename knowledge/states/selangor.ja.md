@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Pelabuhan Klang", "Cyberjaya", "ekonomi Lembah Klang"]
+framework: profile
 ---
 
 セランゴールは、マレーシア経済が静かに依拠している州である。連邦首都クアラルンプールと行政中心地であるプトラジャヤを完全に取り囲んでおり、この三者が合わさってクランバレーを形成している——同国最大の都市・工業連担地域である。

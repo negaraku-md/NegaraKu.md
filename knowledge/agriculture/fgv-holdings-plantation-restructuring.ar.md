@@ -83,6 +83,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-group" }
 related: ["palm-oil-industry", "bursa-malaysia", "ioi-corporation", "sime-darby-group"]
 keywords: ["FGV Holdings", "FELDA Global Ventures", "FGV delisting", "خصخصة FELDA", "FELDA privatisation", "زيت النخيل ماليزيا", "palm oil Malaysia", "بورصة ماليزيا", "Bursa Malaysia", "شركة مزارع", "مستوطنو FELDA", "FELDA settlers"]
+framework: profile
 ---
 
 في عام 2012 كانت حديث السوق — إدراجٌ ضخم احتلّ لفترة وجيزة المرتبة الثانية في العالم خلف فيسبوك. وبعد ثلاثة عشر عامًا انسلّت الشركة نفسها بهدوء خارج بورصة ماليزيا بجزءٍ ضئيل من سعر ظهورها الأول، بعدما اشترتها من جديد الهيئة ذاتها التي طرحتها.

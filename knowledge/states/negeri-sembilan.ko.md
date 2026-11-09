@@ -94,6 +94,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["Negeri Sembilan", "Adat Perpatih", "Yang di-Pertuan Besar", "Undang Yang Empat", "luak Negeri Sembilan", "Seremban", "Seri Menanti", "matrilineal Minangkabau"]
+framework: profile
 ---
 
 다른 여덟 개 말레이 주(州)에서는 「다음 통치자는 누구인가」라는 물음에 계보가 답합니다. 느그리슴빌란(Negeri Sembilan)에서는 네 명의 관습 지도자가 답합니다.

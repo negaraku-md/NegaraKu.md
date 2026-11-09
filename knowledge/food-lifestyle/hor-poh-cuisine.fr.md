@@ -87,6 +87,7 @@ verificationNeeded:
   - "La sélection du MICHELIN Guide est révisée chaque année ; avant de vous y fier, confirmez que Hor Poh Cuisine détient toujours son Bib Gourmand dans la dernière édition du MICHELIN Guide Kuala Lumpur & Penang."
   - "L'étiquetage de l'année d'édition est incohérent selon les sources — certaines désignent la sélection actuelle comme l'édition 2027, tandis que d'autres documents qualifient la dernière liste de 2026. Confirmez l'année d'édition correcte auprès de l'annonce officielle de la cérémonie du MICHELIN Guide."
   - "Le MICHELIN indique que l'échoppe fonctionne « depuis plus de 20 ans » mais ne donne pas d'année de fondation ; une date d'ouverture précise n'a pas été confirmée à partir d'une source primaire."
+framework: profile
 ---
 
 Hor Poh Cuisine est un restaurant hakka sans prétention dans le quartier de

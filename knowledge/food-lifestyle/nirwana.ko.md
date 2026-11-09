@@ -87,6 +87,7 @@ verificationNeeded:
   - "MICHELIN Guide 판 연도: 이 프로필은 선정이 매년 재평가되기 때문에 Bib Gourmand를 단일 판에 고정하지 않는다. 집필 시점에 가장 최근 발행된 판은 MICHELIN Guide Kuala Lumpur & Penang 2026이며——MICHELIN이 2027년 판을 발행하기 전까지는 2027년 판이라고 기재하지 말 것. guide.michelin.com에서 Nirwana가 현행 판에서도 Bib Gourmand를 보유하고 있는지 확인할 것."
   - "MICHELIN 등재명 'Nirwana'와 'Sri Nirwana Maju' 브랜드/웹사이트(srinirwanamaju.com) 사이의 관계——MICHELIN은 43 Jalan Telawi 3의 항목을 'Nirwana'로 제목 붙였으나 Sri Nirwana Maju 사이트로 링크한다. 둘이 같은 업소인지, 그리고 현재 상호를 확인할 것."
   - "영업시간(MICHELIN은 매일 11:30–23:00으로 등재)——여행 안내를 게시하기 전에 식당에 확인할 것."
+framework: profile
 ---
 
 **Nirwana**에서 점심 세트를 주문하면 바나나 잎밥이 마땅히 그래야 할 모습으로 나온다.

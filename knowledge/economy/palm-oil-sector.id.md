@@ -48,6 +48,7 @@ relations:
   - { rel: "part-of", to: "gdp-overview" }
 related: ["gdp-overview"]
 keywords: ["minyak sawit Malaysia", "MPOB", "pensijilan MSPO", "eksport minyak sawit Malaysia"]
+framework: data-reference
 ---
 
 ## Sepintas lalu

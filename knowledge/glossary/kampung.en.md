@@ -60,6 +60,7 @@ relations:
   - { rel: "related-to", to: "wilayah-persekutuan" }
 related: ["wilayah-persekutuan"]
 keywords: ["kampung", "Ketua Kampung", "JKKK", "JPKK", "MPKK", "pentadbiran desa Malaysia", "Malaysian village"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Kampung · **English:** Village · **中文:** 甘榜／village

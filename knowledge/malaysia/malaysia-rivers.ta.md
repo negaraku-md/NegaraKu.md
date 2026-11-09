@@ -62,6 +62,7 @@ relations:
   - { rel: "related-to", to: "climate-and-biodiversity" }
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
+framework: profile
 ---
 
 பான் பொர்னியோ நெடுஞ்சாலை (Lebuhraya Pan Borneo) அல்லது MASwings விமானங்கள் தோன்றுவதற்கு முன், சரவாக்கின் உட்பகுதியை அடைவதற்கான ஒரே வழி, பல நாட்களாக ஆற்றின் வழியே பயணிப்பதுதான். இன்றைய பெரிய நகரங்கள் — சிபு, கபிட், சண்டாக்கான், பிக்கான் — தற்செயலாக அவற்றின் இடங்களில் உருவாகவில்லை. ஒவ்வொன்றும் ஆற்றால் தீர்மானிக்கப்பட்ட இடத்தில் அமைந்துள்ளது: முகத்துவாரத்தில், இரு ஆறுகள் சந்திக்கும் சங்கமத்தில், அல்லது கப்பல் இன்னும் மேலோட்டமாகச் செல்லக்கூடிய தொலைதூரப் புள்ளியில். மூன்று ஆறுகள் — ராஜாங், கினபத்தாங்கன் மற்றும் பகாங் — இந்த வடிவத்தை மிகத் தெளிவாகக் காட்டுகின்றன.

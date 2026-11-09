@@ -89,6 +89,7 @@ social:
 verificationNeeded:
   - "La selección de la Guía MICHELIN Malaysia (Kuala Lumpur & Penang) se revisa cada año. Este perfil refleja la edición de 2026; confirma que el Bib Gourmand sigue vigente en la edición más reciente (está surgiendo una selección de 2027), ya que los galardones pueden añadirse o retirarse cada año."
   - "Los días y horarios de apertura son solo en efectivo y los fija el local; confirma el horario actual directamente antes de visitarlo."
+framework: profile
 ---
 
 En una ciudad donde el asam laksa raya en la obsesión cívica, un Bib Gourmand por

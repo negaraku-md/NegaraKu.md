@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["मलेशिया रबड़ उद्योग", "मलेशिया प्राकृतिक रबड़ उत्पादन", "रबड़ दस्ताना निर्यात", "Malaysia rubber industry", "natural rubber production Malaysia", "rubber glove exports Malaysia", "MARGMA", "Malaysian Rubber Board", "DOSM rubber statistics"]
+framework: data-reference
 ---
 
 मई 2026 में मलेशिया ने 20,198 टन प्राकृतिक रबड़ उत्पादित किया — और उसमें से

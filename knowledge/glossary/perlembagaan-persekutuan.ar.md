@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "constitutional-amendment" }
 related: ["federal-constitution", "akta", "constitutional-amendment", "majlis-raja-raja"]
 keywords: ["Perlembagaan Persekutuan", "الدستور الاتحادي ماليزيا", "القانون الأعلى في ماليزيا", "المادة 159 تعديل الدستور", "أغلبية الثلثين", "Federal Constitution Malaysia"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Perlembagaan Persekutuan · **English:** Federal Constitution · **中文:** 联邦宪法

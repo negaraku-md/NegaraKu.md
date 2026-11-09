@@ -120,6 +120,7 @@ relations:
   - { rel: "administered-by", to: "jtksm" }
 related: ["payroll-compliance-malaysia", "epf-employer-guide", "socso-eis-employer-guide", "hrd-corp-levy-malaysia", "employment-contract-malaysia", "offboarding-statutory-checklist"]
 keywords: ["lista de nueva contratación Malasia", "CP22 Malasia", "registrar empleado EPF SOCSO", "cumplimiento de incorporación Malasia", "aprobación sección 60K", "new hire checklist malaysia", "cp22 malaysia", "section 60k approval"]
+framework: how-to
 ---
 
 Una contratación, cuatro autoridades, seis relojes. Ninguno de ellos empieza en la fecha de la oferta: empiezan en el **inicio del empleo**, y por eso una oferta aceptada en marzo para un comienzo en junio es un problema de junio.

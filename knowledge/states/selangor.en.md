@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "kuala-lumpur" }
 related: []
 keywords: ["Selangor Malaysia", "Shah Alam", "Port Klang", "Cyberjaya", "Klang Valley economy"]
+framework: profile
 ---
 
 Selangor is the state that Malaysia's economy quietly runs on. It fully encircles the

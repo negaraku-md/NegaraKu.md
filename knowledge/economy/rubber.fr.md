@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "external-trade" }
 related: ["palm-oil-sector", "external-trade", "gdp-overview"]
 keywords: ["industrie du caoutchouc Malaisie", "production de caoutchouc naturel Malaisie", "exportations de gants en caoutchouc Malaisie", "MARGMA", "Malaysian Rubber Board", "statistiques caoutchouc DOSM"]
+framework: data-reference
 ---
 
 En mai 2026, la Malaisie a produit 20,198 tonnes de caoutchouc naturel, et en a

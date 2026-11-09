@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "stamp-duty-self-assessment" }
 related: ["stamp-duty-self-assessment", "stamp-duty-share-transfer", "stamp-duty-employment-contracts"]
 keywords: ["stamp duty rates Malaysia", "First Schedule Stamp Act 1949", "property transfer stamp duty", "share transfer stamp duty 0.3%", "tenancy agreement stamp duty", "kadar duti setem"]
+framework: data-reference
 ---
 
 Le droit de timbre est prélevé sur des **instruments, et non des transactions**. Une même opération commerciale peut n'être soumise à aucun droit, à RM10 ou à six chiffres selon ce qui a été signé et sous quel point de la première annexe elle relève. Déterminer le bon point est tout l'exercice — et, sous l'autoliquidation, c'est désormais la tâche du contribuable plutôt que celle du Receveur.

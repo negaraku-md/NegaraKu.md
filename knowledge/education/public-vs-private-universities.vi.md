@@ -76,6 +76,7 @@ faq:
     a: Không. UPU (Unit Pusat Universiti), hệ thống trực tuyến tập trung của Bộ Giáo dục Đại học, chỉ bao gồm các trường đại học công lập, các cơ sở MARA, các trường bách khoa (polytechnic) và các trường cao đẳng cộng đồng. Các cơ sở tư thục (IPTS) hoàn toàn nằm ngoài UPU và phải nộp đơn trực tiếp; mỗi trường tự vận hành phòng tuyển sinh riêng, tự đặt yêu cầu đầu vào cho từng chương trình và có thể ra thư mời nhập học trong vài ngày, thường chấp nhận UEC, A-Level, IB và các văn bằng khác bên cạnh SPM và STPM.
   - q: Một chương trình chỉ được "kiểm định tạm thời" — điều đó có nghĩa là nó chưa được kiểm định không?
     a: Không. Theo Bộ Quy tắc Thực hành Kiểm định Chương trình của MQA, Kiểm định Tạm thời (Provisional Accreditation) xác nhận rằng một chương trình đã đáp ứng các yêu cầu chất lượng tối thiểu để được phép giảng dạy hợp pháp, và bản thân nó là một điều kiện để Bộ phê duyệt. Kiểm định Đầy đủ (Full Accreditation) là đánh giá toàn diện hơn, được thực hiện sau khi khóa sinh viên đầu tiên đã hoàn thành chương trình. Một chương trình được kiểm định tạm thời là hợp pháp và có thể giảng dạy hợp pháp; nó chỉ đơn giản là chưa hoàn thành đánh giá trọn chu kỳ.
+framework: explainer
 ---
 
 Hai học sinh có cùng kết quả SPM lại kết thúc trong hai hệ thống hoàn toàn khác nhau.

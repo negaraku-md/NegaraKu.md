@@ -91,6 +91,7 @@ verificationNeeded:
   - "Aquí la distinción MICHELIN se describe como Bib Gourmand, pero la página oficial de la ficha muestra el galardón como un icono en lugar de texto que pueda capturarse directamente; las distinciones MICHELIN se revisan cada año, así que confirma el estado actual de Bib Gourmand en guide.michelin.com antes de citarlo."
   - "El año de la edición: la prensa malasia menciona una edición MICHELIN Guide Kuala Lumpur & Penang 2027 (anunciada, según se informa, el 4 de noviembre de 2026), mientras que la última edición oficial confirmable de forma independiente es la de 2026 — confirma qué edición incluye este puesto frente a la página oficial de selección."
   - "El horario (indicado de lunes a sábado 09:00–15:30, cerrado domingo) proviene de la ficha de MICHELIN y puede cambiar — confírmalo in situ antes de viajar."
+framework: profile
 ---
 
 Lejos de las multitudes del casco antiguo, en el suburbio costero de Tanjung

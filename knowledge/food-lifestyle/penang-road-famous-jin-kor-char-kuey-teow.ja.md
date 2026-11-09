@@ -93,6 +93,7 @@ verificationNeeded:
   - "ここでの MICHELIN の評価はビブグルマン（Bib Gourmand）と記していますが、公式の掲載ページは賞を直接取得できるテキストではなくアイコンで表示しています。MICHELIN の評価は毎年改定されるため、引用前に guide.michelin.com で現在のビブグルマンの状態を確認してください。"
   - "版の年：マレーシアの報道は MICHELIN Guide Kuala Lumpur & Penang 2027 版（2026年11月4日に発表と報じられる）に言及していますが、独立して確認できる最新の公式版は2026です——どの版がこの屋台を掲載しているかを公式の選定ページで確認してください。"
   - "営業時間（毎日 09:30–17:00 と掲載）と「約40年」営業の主張は MICHELIN の掲載によるもので変わる可能性があります——出かける前に現地で確認してください。"
+framework: profile
 ---
 
 Jalan Penang にある [Joo Hooi Cafe](/ja/food-lifestyle/penang-food) の喫茶店の

@@ -80,6 +80,7 @@ relations:
   - { rel: "related-to", to: "cyberjaya-tech-hub" }
 related: ["mdec-digital-status", "digital-free-trade-zone", "cyberjaya-tech-hub"]
 keywords: ["ekonomi digital malaysia", "sumbangan ict kepada kdnk malaysia", "akaun satelit ict dosm", "gva e-dagang malaysia", "pendapatan e-dagang malaysia", "penembusan internet malaysia", "gvaict"]
+framework: data-reference
 ---
 
 누군가가 "말레이시아 디지털 경제는 4,513억 링깃 규모"라고 말할 때마다 그 수치는 맞지만 — 그것이 실제로 무엇을 측정하는지가 함께 제시되는 경우는 거의 없습니다. 그것은 온라인 매출도, 기술 기업의 수입도, 전자상거래 거래액도 아닙니다. 그것은 하나의 부가가치 척도이며, 서로 다른 세 가지 지표가 흔히 하나로 뒤섞입니다.

@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["ملقا", "Melaka", "الحاكم المعيَّن لملقا", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "موقع تراث اليونسكو في ملقا", "ولاية بلا سلطان", "Melaka Tengah Alor Gajah Jasin", "اقتصاد ملقا", "التراث البرتغالي الهولندي البريطاني"]
+framework: profile
 ---
 
 تسع ولايات في ماليزيا لها راجا (Raja). وملقا ليست منها — مع أن اسمها مرتبط بأشهر

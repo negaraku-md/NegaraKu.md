@@ -82,6 +82,7 @@ keywords:
   - "SSM annual return fee"
   - "LLP registration fee"
   - "SSM table of fees 2026"
+framework: data-reference
 ---
 
 Three separate fee schedules, three separate statutes, and no single page on SSM's site

@@ -81,6 +81,7 @@ relations:
   - { rel: "related-to", to: "audit-adjustments-tax" }
 related: ["statutory-audit-process", "audit-adjustments-tax", "going-concern-audit", "appointing-an-auditor", "mfrs-vs-mpers"]
 keywords: ["audit preparation checklist Malaysia", "PBC list audit", "audit request list Sdn Bhd", "MFRS 124 related party disclosure", "director account audit Malaysia", "intercompany reconciliation audit"]
+framework: how-to
 ---
 
 要求リストは、行政的な書類のように見える。しかしそうではない。それは監査計画を、あなたが実際に

@@ -74,6 +74,7 @@ relations:
   - { rel: "related-to", to: "bumiputera-equity-requirements" }
 related: ["rukun-negara", "sabah", "sarawak", "bumiputera-equity-requirements", "mykad"]
 keywords: ["Malaysia population", "DOSM", "Current Population Estimates", "Bumiputera", "Malay", "Chinese", "Indian", "Sabah Bumiputera", "Sarawak Bumiputera", "citizens non-citizens", "ethnic composition Malaysia"]
+framework: data-reference
 ---
 
 DOSM không công bố một con số gọi là "người Malaysia". Họ công bố công dân và người không phải công dân như hai phép đếm riêng biệt, chia công dân thành năm nhóm sắc tộc được nêu tên, rồi chia một trong các nhóm đó — "Bumiputera khác" — thành các nhóm Sabah và Sarawak được báo cáo riêng, mỗi nhóm có các phân nhóm được nêu tên của riêng nó. Bản thân từ "Bumiputera" không bao giờ xuất hiện như một dòng đơn lẻ trong các bảng dữ liệu nền tảng của DOSM; nó là thứ bạn cộng lại từ hai dòng, Mã Lai và Bumiputera khác, sau đó.

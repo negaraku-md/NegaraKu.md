@@ -73,6 +73,7 @@ relations:
   - { rel: "related-to", to: "constitutional-amendment" }
 related: ["federal-constitution", "akta", "constitutional-amendment", "majlis-raja-raja"]
 keywords: ["Perlembagaan Persekutuan", "loi suprême de la Malaisie", "article 4", "article 159 amendement", "majorité des deux tiers", "Neuvième Annexe", "Constitution fédérale de la Malaisie"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Perlembagaan Persekutuan · **English:** Federal Constitution · **中文:** 联邦宪法

@@ -76,6 +76,7 @@ faq:
     a: No. UPU (Unit Pusat Universiti), el sistema en línea centralizado del Ministerio de Educación Superior, solo abarca universidades públicas, instituciones MARA, politécnicos y colegios comunitarios. Las instituciones privadas (IPTS) quedan por completo fuera de UPU y hay que solicitarlas directamente; cada una gestiona su propia oficina de admisiones, fija sus propios requisitos de ingreso por programa y puede emitir una oferta en cuestión de días, aceptando con frecuencia el UEC, los A-Levels, el IB y otras cualificaciones junto al SPM y el STPM.
   - q: Un programa solo está "acreditado provisionalmente" — ¿significa eso que no está acreditado?
     a: No. Según el Código de Práctica para la Acreditación de Programas de la MQA, la Acreditación Provisional confirma que un programa ha cumplido los requisitos mínimos de calidad para ofrecerse legalmente, y es en sí misma una condición para la aprobación del Ministerio. La Acreditación Plena es la evaluación más completa que se lleva a cabo una vez que una primera promoción ha cursado el programa. Un programa acreditado provisionalmente es legítimo y puede ofrecerse legalmente; simplemente aún no ha completado la evaluación de ciclo completo.
+framework: explainer
 ---
 
 Dos estudiantes con los mismos resultados del SPM acaban en sistemas por

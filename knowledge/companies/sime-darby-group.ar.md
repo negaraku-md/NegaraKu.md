@@ -87,6 +87,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "palm-oil-industry"]
 keywords: ["Sime Darby", "SD Guthrie", "Sime Darby Property", "تفكيك سايم داربي", "Permodalan Nasional Berhad", "UMW Holdings", "تكتل بورصة ماليزيا", "Bursa Malaysia conglomerate"]
+framework: profile
 ---
 
 أحد أقدم الأسماء المؤسسية في ماليزيا أصبح الآن ثلاث شركات، لا واحدة.

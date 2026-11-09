@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bank-negara-malaysia", "bursa-malaysia"]
 keywords: ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong Bank", "Malaysia banks", "Bank Negara Malaysia", "banking sector"]
+framework: profile
 ---
 
 Barisanlah lima nama yang mendominasi hampir setiap deretan toko utama di Malaysia — Maybank, CIMB, Public Bank, RHB, dan Hong Leong — dan Anda sedang melihat inti sebuah sistem perbankan yang menjelaskan gaji, kredit pemilikan rumah, dan perdagangan negara. Semuanya didirikan di Malaysia, semuanya tercatat di Bursa Malaysia, dan semuanya diberi lisensi oleh bank sentral yang sama. Selain itu, mereka berbeda dengan jelas: satu jauh mengungguli yang lain dari segi skala, sebagian secara efektif ditumpu pemerintah, dan dua lagi masih dipandu oleh keluarga yang mendirikannya.

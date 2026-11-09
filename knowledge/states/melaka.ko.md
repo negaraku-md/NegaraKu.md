@@ -99,6 +99,7 @@ relations:
   - { rel: "compares-with", to: "negeri-sembilan" }
 related: ["melaka-sultanate", "penang", "negeri-sembilan"]
 keywords: ["Melaka", "Yang di-Pertua Negeri Melaka", "Bandaraya Melaka", "Tapak Warisan Dunia UNESCO Melaka", "negeri tanpa Sultan", "Melaka Tengah Alor Gajah Jasin", "ekonomi Melaka", "warisan Portugis Belanda British"]
+framework: profile
 ---
 
 말레이시아의 아홉 개 주(州)에는 통치자가 있습니다. 믈라카(Melaka)는 그중 하나가 아닙니다 — 그 이름이 이 지역 역사에서 가장 유명한 말레이 술탄국에 붙어 있음에도 말입니다.

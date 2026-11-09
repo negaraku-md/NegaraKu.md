@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "cost-of-living-in-kuala-lumpur" }
 related: ["cost-of-living-kuala-lumpur"]
 keywords: ["classement coût de la vie Malaisie", "Malaysia cost of living ranking", "Kuala Lumpur Mercer ranking", "Numbeo Malaisie", "EIU Worldwide Cost of Living", "villes les moins chères Asie du Sud-Est", "coût de la vie expatrié Malaisie"]
+framework: data-reference
 ---
 
 Demandez à un consultant en relocalisation où affecter du personnel avec un budget serré en Asie, et Kuala Lumpur revient sans cesse — non parce que les enquêtes la flattent, mais parce que les chiffres la placent réellement vers le bas du tableau des coûts. La ville qui ancre la Malaisie est l'un des rares endroits à obtenir à la fois la note « bon marché » *et* « agréable à vivre ».

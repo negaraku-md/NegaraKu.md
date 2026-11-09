@@ -76,6 +76,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "زيت النخيل ماليزيا", "كيماويات زيتية", "RSPO", "شركة مزارع", "palm oil Malaysia", "oleochemicals", "IOI Properties"]
+framework: profile
 ---
 
 شركة بدأت حياتها ببيع الغازات الصناعية صارت الآن تزرع من نخيل الزيت ما يكفي لملء رصيد أراضٍ بحجم مقاطعة صغيرة — وتحوِّل تلك الثمار إلى كل شيء، من زيت الطهي إلى الأحماض الدهنية داخل صابونك.

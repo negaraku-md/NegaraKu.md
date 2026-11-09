@@ -78,6 +78,7 @@ relations:
   - { rel: "supersedes", to: "audit" }
 related: ["appointing-an-auditor", "changing-auditors", "statutory-audit-process", "audit-exemption"]
 keywords: ["audit fees Malaysia", "MIA audit fee schedule", "RPG 7 withdrawn", "audit fee table Malaysia", "minimum audit fee dormant company", "how much does an audit cost Malaysia"]
+framework: data-reference
 ---
 
 மலேசியத் தணிக்கைக் கட்டணங்களைத் தேடினால், உங்களுக்கு ஒரு குணக அட்டவணை காட்டப்படும்: முதல் RM100,000 க்கு 1.000%, அடுத்த RM150,000 க்கு 0.438%, படிப்படியாகக் குறைந்து செல்கிறது, ஒரு செயலற்ற நிறுவனத்திற்கு RM800 என்ற தளத்துடன். இது MIA அட்டவணை என்று முன்வைக்கப்படுகிறது, சில சமயங்களில் அனுமதிக்கப்பட்ட குறைந்தபட்சக் கட்டணமாகவும் காட்டப்படுகிறது.

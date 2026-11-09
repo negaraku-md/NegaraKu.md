@@ -88,6 +88,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["unesco-world-heritage"]
 keywords: ["makanan warisan kebangsaan", "budaya sarapan Malaysia UNESCO", "bak kut teh warisan negara", "Akta Warisan Kebangsaan 2005", "nasi lemak roti canai teh tarik UNESCO"]
+framework: data-reference
 ---
 
 Nasi lemak yang Anda makan pagi tadi kini tercatat secara resmi dalam dua daftar warisan yang berbeda — satu di Putrajaya, satu lagi di Paris. Keduanya nyata, tetapi diberikan oleh badan yang berbeda, atas dasar yang berbeda, dan berarti hal yang berbeda.

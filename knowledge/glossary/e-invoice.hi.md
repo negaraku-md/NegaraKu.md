@@ -43,6 +43,7 @@ relations:
   - { rel: "related-to", to: "income-tax-act-1967" }
 related: ["income-tax-act-1967", "sst", "lhdn"]
 keywords: ["मलेशिया में e-Invoice", "e-Invoice Malaysia", "MyInvois", "LHDN e-invoicing", "इलेक्ट्रॉनिक इनवॉइस"]
+framework: explainer
 ---
 
 **Bahasa Malaysia:** Invois Elektronik · **English:** e-Invoice · **中文:** 电子发票

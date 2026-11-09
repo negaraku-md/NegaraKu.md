@@ -113,6 +113,7 @@ relations:
   - { rel: "related-to", to: "selangor" }
 related: []
 keywords: ["بيراك", "Perak", "بيراك دار الرضوان", "Perak Darul Ridzuan", "معاهدة بانغكور", "Perjanjian Pangkor", "المقيم البريطاني", "British Resident", "سلطان بيراك", "Sultan Perak", "إيبوه", "Ipoh", "وادي كينتا", "Lembah Kinta", "خام القصدير", "وادي لينغونغ", "Lembah Lenggong", "الجمعية التشريعية لولاية بيراك"]
+framework: profile
 ---
 
 في 20 يناير 1874، وُقّعت معاهدة في المياه القريبة من جزيرة بانغكور. لم يتنازل

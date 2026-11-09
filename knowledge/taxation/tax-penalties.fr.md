@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["pénalité fiscale Malaisie", "tax penalty Malaysia", "taux de pénalité LHDN", "pénalité section 113(2)", "pénalité paiement tardif SST", "pénalité timbrage tardif droit de timbre", "pénalité RPGT", "kesalahan denda dan penalti", "section 112(3) triple de l'impôt"]
+framework: data-reference
 ---
 
 Il n'existe pas d'échelle unique des pénalités fiscales en Malaisie. Cinq lois

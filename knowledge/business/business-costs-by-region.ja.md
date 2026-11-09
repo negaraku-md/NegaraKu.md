@@ -110,6 +110,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 マレーシアの立地比較の多くは、誰も公表したことのない数字の上に築かれている。州ごとの工業用地の1平方フィートあたり賃料、「典型的な」光熱費、ペナンとクランタンの間の賃金格差——そうした数字はどれも出回っているが、政府の情報源にたどり着けるものはほとんどない。

@@ -110,6 +110,7 @@ relations:
   - { rel: "related-to", to: "manufacturing" }
 related: []
 keywords: ["Kedah", "Kedah Darul Aman", "Alor Setar", "Sultan Kedah", "jelapang padi", "Kulim Hi-Tech Park", "Lembah Bujang", "Kedah Tua", "Langkawi", "MADA"]
+framework: profile
 ---
 
 2024년, 전기·전자·광학 제품은 크다(Kedah) 제조 부문 부가가치의 51.1퍼센트를 차지했습니다. 벼는 농업에서 나온 주(州) GDP 10.6퍼센트의 일부만을 차지했습니다.

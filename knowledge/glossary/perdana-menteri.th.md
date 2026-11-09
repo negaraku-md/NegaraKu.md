@@ -89,6 +89,7 @@ relations:
   - { rel: "related-to", to: "dewan-rakyat" }
 related: ["yang-di-pertuan-agong", "dewan-rakyat", "perlembagaan-persekutuan"]
 keywords: ["perdana menteri", "prime minister malaysia", "perkara 43", "pelantikan perdana menteri", "kepercayaan majoriti", "yang di-pertuan agong", "jemaah menteri", "head of government"]
+framework: explainer
 ---
 
 มาเลเซียสามารถเปลี่ยนนายกรัฐมนตรีได้โดยไม่มีการลงคะแนนของประชาชนแม้แต่เสียงเดียว — เพราะตำแหน่งนั้นไม่ได้มอบให้โดยผู้มีสิทธิเลือกตั้ง แต่มอบให้โดยยังดีเปอร์ตวนอากงแก่ผู้ที่ถูกมองว่าสามารถรวบรวมเสียงข้างมากของเดวันรักยัตได้ นั่นคือเหตุที่มาเลเซียได้เห็นการเปลี่ยนนายกรัฐมนตรีหลายครั้งระหว่างปี 2018 ถึง 2022 โดยไม่มีการเลือกตั้งทั่วไปครั้งใหม่แม้แต่ครั้งเดียวมาตัดสินในช่วงกลางวาระนั้น

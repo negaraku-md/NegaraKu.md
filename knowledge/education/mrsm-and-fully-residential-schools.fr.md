@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "pksk-special-school-assessment" }
 related: []
 keywords: ["MRSM", "SBP", "Sekolah Berasrama Penuh", "MARA", "PKSK", "UKKM", "sekolah asrama", "kuota Bumiputera"]
+framework: explainer
 ---
 
 Deux noms reviennent souvent lorsque les familles malaisiennes parlent des « meilleurs » internats pour leurs enfants : MRSM et SBP. Ce sont tous deux des collèges entièrement résidentiels et sélectifs, tous deux farouchement difficiles d'accès — mais ils sont gérés par deux organismes différents, selon deux mandats politiques différents.

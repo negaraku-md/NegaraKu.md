@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "sarawak" }
 related: ["bursa-malaysia", "sarawak"]
 keywords: ["Top Glove", "Press Metal", "rubber gloves", "aluminium smelter", "Malaysia manufacturing", "forced labour", "Bursa Malaysia", "exports", "Sarawak", "ESG"]
+framework: profile
 ---
 
 Hai công ty Malaysia dẫn đầu lĩnh vực của mình trên toàn cầu. Một là nhà sản xuất găng tay dùng một lần lớn nhất thế giới; công ty kia là nhà luyện nhôm nguyên sinh lớn nhất Đông Nam Á. Cả hai đều không phải là những cái tên quen thuộc với công chúng bên ngoài giới đầu tư, nhưng Top Glove và Press Metal cho thấy một nền kinh tế cỡ trung có thể tạo ra các đơn vị dẫn đầu toàn cầu trong một lĩnh vực đơn lẻ như thế nào.

@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "public-service-department" }
 related: []
 keywords: ["biasiswa JPA", "penajaan awam", "MARA", "Yayasan Khazanah", "PETRONAS PESP", "pinjaman boleh ubah", "PTPTN", "biasiswa Malaysia"]
+framework: explainer
 ---
 
 SPM에서 9A+를 받는다고 해서 해외 유학 전액 장학금이 반드시 보장되는 것은 아닙니다. 말레이시아에서 공공 후원은 성적만의 문제가 아니라, 여러분이 어느 제도에 신청하는지, 어떤 복무 조건에 묶이는지, 그리고 각 기금을 규율하는 정책이 무엇인지의 문제이기도 하기 때문입니다. 이 후원자 지도를 이해하는 것이 중요한 이유는, 잘못된 선택이 훗날 상환해야 할 수천 링깃을 뜻할 수 있기 때문입니다.

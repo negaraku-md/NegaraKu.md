@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "registering-a-birth" }
 related: ["registering-a-birth"]
 keywords: ["taska", "tadika", "prasekolah", "Akta 308", "JKM", "KPM", "KSPK", "tabika KEMAS", "tabika perpaduan", "ePrasekolah", "registro taska", "tadika privada"]
+framework: explainer
 ---
 
 Muchos padres matriculan a su hijo en la tadika de la esquina — entregan el

@@ -82,6 +82,7 @@ sources:
 
 related: ["melaka-sultanate", "independence-1957", "formation-of-malaysia-1963", "13-may-1969", "new-economic-policy", "2018-change-of-government"]
 keywords: ["Malaysian history", "Malaysia timeline", "Merdeka 1957", "formation of Malaysia 1963", "Malaysia prime ministers"]
+framework: history-culture
 ---
 
 Long before "Malaysia" had a name, this stretch of coast and archipelago was one

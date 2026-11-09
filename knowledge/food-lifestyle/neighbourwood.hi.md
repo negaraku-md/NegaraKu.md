@@ -73,6 +73,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Neighbourwood", "#BibGourmand", "#SeberangPerai", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Penang का हर MICHELIN पता द्वीप पर नहीं है। **Neighbourwood** मुख्य भूभाग पर Bukit

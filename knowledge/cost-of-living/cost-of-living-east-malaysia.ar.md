@@ -69,6 +69,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: ["minimum-wage-and-median-income", "household-spending-breakdown"]
 keywords: ["cost of living Sabah", "تكاليف المعيشة في صباح", "cost of living Sarawak", "تكاليف المعيشة في ساراواك", "cabotage policy Malaysia", "سياسة الكابوتاج", "أسعار ماليزيا الشرقية", "PAKW", "دخل الأسر في صباح وساراواك"]
+framework: data-reference
 ---
 
 اشترِ علبة Milo في كلانغ والعلبة نفسها في كوتا كينابالو، ونادرًا ما يتطابق السعر. لم يتغير شيء في المنتج — فهو ما زال مصنوعًا في بيتالينغ جايا، وما زال علبة 400 غرام نفسها. ما تغيّر هو البحر بين المصنع والرف، وقواعد الشحن التي تحكم عبوره.

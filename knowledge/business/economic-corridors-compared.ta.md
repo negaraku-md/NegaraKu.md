@@ -107,6 +107,7 @@ keywords:
   - "koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "which economic corridor Malaysia"
+framework: decision
 ---
 
 ஐந்து வழித்தடங்கள், ஐந்து அதிகாரசபைகள், மேலும் விளம்பரங்களில் பெரும்பகுதியை சரிக்கும் ஒரு

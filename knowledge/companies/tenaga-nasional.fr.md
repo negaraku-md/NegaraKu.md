@@ -79,6 +79,7 @@ relations:
   - { rel: "related-to", to: "peta-peralihan-tenaga-negara" }
 related: []
 keywords: ["Tenaga Nasional Berhad", "TNB", "compagnie d'électricité", "utiliti elektrik", "réseau national", "grid nasional", "Single Buyer", "IPP", "NETR", "Lembaga Letrik Negara"]
+framework: profile
 ---
 
 Chaque fois que les lumières s'allument dans votre maison dans la Péninsule, il y a de fortes chances que l'électricité circule par des câbles appartenant à une seule entreprise : Tenaga Nasional Berhad. C'est la plus grande compagnie d'électricité du pays, avec plus de 11 millions de clients en Malaisie péninsulaire, à Sabah et à Labuan au 30 septembre 2025.

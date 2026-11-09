@@ -81,6 +81,7 @@ related: ["petronas"]
 keywords: ["Petronas Chemicals", "PCG", "PCHEM", "PETRONAS subsidiary", "petrochemicals Malaysia", "Perstorp acquisition", "Pengerang Integrated Complex", "Kerteh", "Gebeng", "Bursa Malaysia chemicals"]
 social:
   hashtags: ["PetronasChemicals", "PCG", "PETRONAS", "Petrochemicals", "Malaysia", "BursaMalaysia"]
+framework: profile
 ---
 
 マレーシアの農場にまかれるほとんどすべての肥料の袋、そして同国の工場で成形されるプラスチック樹脂の大きな部分は、ひとつの会社——Petronas Chemicals Group Berhad——にさかのぼる。それは国営石油会社の化学品部門であり、マレーシア最大の統合型化学品製造企業であり、そして——国家関連事業としては異例なことに——誰もが株を買える、別個に上場した会社である。

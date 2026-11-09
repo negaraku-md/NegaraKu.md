@@ -83,6 +83,7 @@ relations:
   - { rel: "related-to", to: "umno" }
 related: ["malayan-union"]
 keywords: ["nasionalisme Melayu", "Kesatuan Melayu Muda", "KMM", "Ibrahim Yaacob", "Persatuan Melayu Selangor", "Malayan Union", "Melayu Raya", "sejarah Malaysia"]
+framework: history-culture
 ---
 
 在任何大型民族政党出现之前，马来人的运动早已在学校礼堂、报刊版面以及小型州属协会的会议室里萌芽。在1930年代至第二次世界大战结束之间，正是这些潮流慢慢演变成一股政治力量，并在1946年得以把马来人团结起来，共同反对一项英国政策。

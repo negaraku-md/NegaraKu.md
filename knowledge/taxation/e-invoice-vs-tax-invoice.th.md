@@ -71,6 +71,7 @@ relations:
   - { rel: "governs", to: "sales-tax-act-2018" }
 related: ["e-invoicing", "sst-explained", "myinvois-phases", "e-invoice-data-fields", "consolidated-e-invoice"]
 keywords: ["e-Invoice vs tax invoice", "SST invoice requirements", "Service Tax Regulations 2018 regulation 10", "sales tax invoice particulars", "LHDN RMCD invoice", "invois cukai SST"]
+framework: explainer
 ---
 
 การตรวจสอบใบแจ้งหนี้ผ่าน MyInvois ไม่ได้ทำให้มันเป็นใบกำกับภาษี SST ประโยคนั้นสร้างปัญหาให้ธุรกิจที่

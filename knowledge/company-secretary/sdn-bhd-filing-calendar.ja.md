@@ -187,6 +187,7 @@ relations:
   - { rel: "related-to", to: "statutory-registers" }
 related: ["annual-return", "financial-statements-lodgement", "extension-of-time-ssm", "ssm-late-lodgement-fees", "mbrs-2", "statutory-registers", "appoint-company-secretary"]
 keywords: ["Sdn Bhd compliance calendar", "SSM deadlines Malaysia", "company filing deadlines Malaysia", "annual return deadline", "14 days notify SSM", "Companies Act 2016 deadlines"]
+framework: how-to
 ---
 
 マレーシアの会社が期限に遅れる理由は、怠慢であることはめったにない。義務が

@@ -111,6 +111,7 @@ relations:
   - { rel: "affects", to: "premise-licence-malaysia" }
 related: ["economic-corridors-compared", "sarawak-business-guide", "js-sez-guide", "ncer-guide", "ecer-guide", "premise-licence-malaysia", "business-licence-malaysia"]
 keywords: ["business costs malaysia by state", "electricity tariff malaysia industrial", "sarawak electricity tariff", "water tariff malaysia non domestic", "council licence fee malaysia", "employer epf socso cost malaysia", "industrial rent malaysia"]
+framework: data-reference
 ---
 
 La mayoría de las comparaciones de ubicación para Malasia se construyen sobre números que nadie publicó. El alquiler industrial por pie cuadrado por estado, las facturas de servicios «típicas», un diferencial salarial entre Penang y Kelantan — todo ello circula, y casi nada de ello se remonta a una fuente gubernamental.

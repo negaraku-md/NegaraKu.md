@@ -94,6 +94,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Malaysia（Kuala Lumpur & Penang）のセレクションは毎年見直されます。このプロフィールは2026年版を反映しています。賞は毎年追加または削除されうるため、最新版（2027年のセレクションが形成されつつあります）でビブグルマンが維持されているか確認してください。"
   - "営業日と営業時間 — MICHELIN の掲載情報は異例なほど限られた営業時間を示しています。それに頼る前に、店に直接現在の時間を確認してください。"
+framework: profile
 ---
 
 ペナンはカレー麺を真剣に受け止めており、Hot Bowl White Curry Mee は1992年以来、

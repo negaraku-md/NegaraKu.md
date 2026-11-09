@@ -107,6 +107,7 @@ keywords:
   - "koridor ekonomi Malaysia"
   - "SEDIA RECODA NCIA ECERDC"
   - "which economic corridor Malaysia"
+framework: decision
 ---
 
 다섯 개의 회랑, 다섯 개의 당국, 그리고 대부분의 마케팅을 무너뜨리는 하나의 사실: **그중 어느 하나도 당신에게 세제 인센티브를 줄 수 없습니다.** 셋은 법률상 인센티브를 *권고*하는 데 그칩니다. 부여 권한은 언제나 재무부 장관에게 있으며, 2026년 3월부터 그 경로는 MIDA와 국가투자위원회(National Committee on Investment)를 통해 일률적으로 진행됩니다.

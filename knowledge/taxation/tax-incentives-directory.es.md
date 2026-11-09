@@ -88,6 +88,7 @@ relations:
   - { rel: "related-to", to: "investment-agency-directory" }
 related: ["new-incentive-framework", "reinvestment-allowance", "double-deduction-list", "corporate-tax-rates", "global-minimum-tax-pillar-two"]
 keywords: ["lista de incentivos fiscales Malasia", "Malaysia tax incentives list", "incentivo fiscal MIDA", "Pioneer Status Malasia estado", "incentivo Global Services Hub", "orden de gaceta de incentivos Malasia", "directorio de incentivos fiscales Malasia"]
+framework: data-reference
 ---
 
 La mayoría de las listas de incentivos en la web malasia son copias de una copia.

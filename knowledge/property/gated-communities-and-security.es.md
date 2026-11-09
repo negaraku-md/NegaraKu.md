@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "asociación de residentes Malasia", "boom gate legal Malaysia", "caso Au Kean Hoe", "Street Drainage and Building Act 1974", "obstrucción vía pública Malasia"]
+framework: explainer
 ---
 
 Dos zonas residenciales pueden verse idénticas — caseta de guardia de ladrillo, barrera de pluma a rayas, guardia uniformado comprobando su pegatina. Una se asienta sobre un terreno legal sólido. La otra existe porque nadie la ha cuestionado todavía.

@@ -97,6 +97,7 @@ relations:
   - { rel: "related-to", to: "tax-appeal" }
 related: ["tax-audit", "tax-appeal", "tax-clearance", "withholding-tax-non-compliance", "stamp-duty-self-assessment", "sst-02-filing"]
 keywords: ["penalti cukai Malaysia", "kadar penalti LHDN", "penalti seksyen 113(2)", "penalti lewat bayar SST", "penalti lewat setem duti setem", "penalti RPGT", "kesalahan denda dan penalti", "cukai tiga kali ganda seksyen 112(3)"]
+framework: data-reference
 ---
 
 Tidak ada skala penalti pajak Malaysia yang tunggal. Lima statuta masing-masing

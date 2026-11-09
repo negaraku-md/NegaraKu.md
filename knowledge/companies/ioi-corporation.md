@@ -75,6 +75,7 @@ relations:
   - { rel: "compares-with", to: "sime-darby-plantation" }
 related: ["palm-oil-industry", "bursa-malaysia"]
 keywords: ["IOI Corporation", "IOI Corp", "IOICORP", "palm oil Malaysia", "oleochemicals", "RSPO", "plantation company", "IOI Properties"]
+framework: profile
 ---
 
 A company that started life selling industrial gases now grows enough oil palm to fill a landbank the size of a small district — and turns that fruit into everything from cooking oil to the fatty acids inside your soap.

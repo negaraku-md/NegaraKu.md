@@ -158,6 +158,7 @@ relations:
   - { rel: "related-to", to: "payroll-compliance-malaysia" }
 related: ["termination-of-employment-malaysia", "termination-benefits-malaysia", "retrenchment-malaysia", "payroll-compliance-malaysia", "form-e-ea-cp8d-malaysia"]
 keywords: ["offboarding checklist malaysia", "CP22A deadline", "CP21 form malaysia", "tax clearance letter SPC", "final pay malaysia", "employee exit checklist malaysia", "90 day withholding tax clearance"]
+framework: how-to
 ---
 
 வெளியேற்று நேர்காணல் (exit interview) தான் அனைவரும் நினைவில் வைத்திருக்கும் பகுதி. தாக்கல்களே அபராதங்களை உருவாக்கும் பகுதி — அவற்றில் ஒன்று, வரி-அனுமதி தடுத்துவைத்தல் கடமை, ஒரு இறுதி ஊதியத்தை நேரத்துக்கு நல்லெண்ணத்துடன் விடுவித்த ஊதியப் பணியாளர் ஒருவர் அதை LHDN-க்கு விளக்கிக்கொண்டு நிற்க நேரும் காரணமாகும்.

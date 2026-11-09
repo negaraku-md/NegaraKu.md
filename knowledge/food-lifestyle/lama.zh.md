@@ -79,6 +79,7 @@ social:
 verificationNeeded:
   - "MICHELIN Guide Kuala Lumpur & Penang 精选名单每年修订；本篇反映2026年版（于2025年11月公布），其中 Lama 是新入选者。更新的版本——例如2027年名单——可能新增、剔除或重新排列它，因此在依据之前，请在 guide.michelin.com 上重新确认它当前的 Bib Gourmand 状态。"
   - "地址有出入：MICHELIN 的餐厅页面给出的是 G-1-1, Steppes, 32 Jalan Kiara 3, Mont Kiara, Kuala Lumpur, 51200，而某些二手报道则把 Lama 置于 Setapak／Taman Ayer Panas。前往之前请直接确认正确的当前地点（以及是否存在不止一处）。"
+framework: profile
 ---
 
 娘惹菜说到底是家常菜——费工费时、在海峡土生华人家族中代代相传的菜式——而 Lama

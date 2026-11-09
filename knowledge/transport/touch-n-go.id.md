@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "bank-negara-malaysia" }
 related: ["bank-negara-malaysia"]
 keywords: ["Touch 'n Go", "TNG eWallet", "kad Enhanced NFC", "kad prabayar tol Malaysia", "TNG Digital"]
+framework: explainer
 ---
 
 Banyak orang menyimpan kartu Touch 'n Go dalam dompet dan aplikasi Touch 'n Go eWallet dalam ponsel, lalu menganggap keduanya adalah benda yang sama dengan dua sisi. Ia bukan. Saldo dalam kartu Anda dan saldo dalam aplikasi Anda disimpan terpisah sepenuhnya — mengisi penuh satu tidak menambah satu sen pun pada yang satu lagi. Salah paham ini penyebab biasa mobil terhenti di gerbang tol karena pengemudi yakin "uang dalam ponsel cukup," padahal yang dibaca oleh mesin tol adalah kartu.

@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "extension-of-time-ssm" }
 related: ["mbrs-2", "financial-statements-lodgement", "extension-of-time-ssm", "sdn-bhd-filing-calendar", "annual-return"]
 keywords: ["SSM late lodgement fee", "SSM penalty late filing", "Practice Directive 1/2017", "SSM compound Malaysia", "annual return late penalty Malaysia", "MBRS penalty waiver"]
+framework: data-reference
 ---
 
 เว็บไซต์มาเลเซียส่วนใหญ่ที่อ้างบทลงโทษของ SSM กำลังอ้างตัวเลขที่ไม่เคยตรวจสอบ จาก Practice Directive 1/2017 ฉบับที่ได้รับการปรับปรุงไปแล้ว ตารางด้านล่างนำมาจากฉบับปรับปรุงลงวันที่ **1 ตุลาคม 2024** ซึ่งเป็นฉบับที่มีผลบังคับ

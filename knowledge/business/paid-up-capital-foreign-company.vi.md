@@ -97,6 +97,7 @@ keywords:
   - "modal berbayar minimum Malaysia"
   - "foreign owned Sdn Bhd capital requirement"
   - "ESD paid up capital requirement"
+framework: rules
 ---
 
 Hỏi mười nhà cung cấp dịch vụ doanh nghiệp Malaysia vốn đã góp tối thiểu cho một công ty do nước

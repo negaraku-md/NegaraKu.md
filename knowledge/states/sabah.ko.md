@@ -77,6 +77,7 @@ relations:
   - { rel: "related-to", to: "labuan" }
 related: ["ma63", "formation-of-malaysia-1963", "sarawak"]
 keywords: ["Sabah Malaysia", "Kota Kinabalu", "Mount Kinabalu", "Malaysia Agreement 1963", "Land Below the Wind", "Sabah economy", "Yang di-Pertua Negeri Sabah"]
+framework: profile
 ---
 
 사바(Sabah)는 한 나라에 합류하는 하나의 주(州)로서 말레이시아에 참여한 것이 아닙니다. 그것은 그 나라를 만든 서명 영토 가운데 하나로서 참여했습니다 — 북보르네오(North Borneo)는 1963년 7월 런던에서 말라야 연방, 사라왁, 싱가포르, 영국과 함께 말레이시아 협정에 서명했습니다. 그 출발점은 오늘날 사바가 어떻게 통치되고, 재정을 조달받고, 이야기되는지를 여전히 형성하며 — 그것이 사바에 대한 프로필이 산뿐 아니라 조약도 다루어야 하는 이유입니다.

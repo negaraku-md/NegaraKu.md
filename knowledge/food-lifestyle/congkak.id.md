@@ -91,6 +91,7 @@ social:
 verificationNeeded:
   - "Tahun edisi MICHELIN yang tepat dilabeli secara tidak konsisten di berbagai sumber — halaman resmi restoran tidak mencantumkan tahun, liputan pers menyebut MICHELIN Guide Kuala Lumpur & Penang '2026', dan daftar Bib Gourmand Wikipedia kini menampilkan kolom '2027' sebagai yang terbaru. Seleksi Bib Gourmand direvisi setiap tahun; konfirmasikan edisi dan status terkini di guide.michelin.com."
   - "Tahun pembukaan Congkak, kepemilikan, dan menu lengkap selain piring nasi ambeng tidak dirinci di halaman MICHELIN — konfirmasikan langsung dengan restoran sebelum menyatakannya."
+framework: profile
 ---
 
 Di sebuah jalan permukiman yang tenang di Bukit Bintang, beberapa belokan dari

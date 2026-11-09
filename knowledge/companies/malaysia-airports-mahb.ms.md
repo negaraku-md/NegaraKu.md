@@ -77,6 +77,7 @@ related: ["genting-group"]
 keywords: ["Malaysia Airports", "MAHB", "KLIA", "Kuala Lumpur International Airport", "klia2", "Istanbul Sabiha Gokcen", "Khazanah", "airport operator Malaysia", "MAHB privatisation", "MAHB delisting"]
 social:
   hashtags: ["MalaysiaAirports", "MAHB", "KLIA", "Malaysia"]
+framework: profile
 ---
 
 Hampir setiap kali pengembara mendarat di Malaysia, mereka tiba di sebuah lapangan terbang yang dikendalikan oleh satu syarikat. Malaysia Airports Holdings Berhad (MAHB) mengendalikan Lapangan Terbang Antarabangsa Kuala Lumpur — kini berjenama KLIA Terminal 1 dan Terminal 2 — dan, mengikut kiraannya sendiri, 39 lapangan terbang merentasi negara ini, serta satu pintu masuk luar negara di Istanbul. Pada 2025 ia juga menjadi sesuatu yang luar biasa bagi pengendali lapangan terbang kebangsaan: bukan lagi syarikat awam.

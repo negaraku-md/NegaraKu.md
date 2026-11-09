@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "local-councils" }
 related: ["condo-living-maintenance-fees", "local-councils"]
 keywords: ["gated and guarded community Malaysia", "guarded neighbourhood Malaysia", "GACOS Malaysia", "residents association Malaysia", "boom gate legal Malaysia", "Au Kean Hoe case", "Street Drainage and Building Act 1974", "public road obstruction Malaysia"]
+framework: explainer
 ---
 
 二つの住宅地が、まったく同じに見えることがある——レンガ造りの守衛所、縞模様のブームゲート、あなたのステッカーを確認する制服姿の警備員。一方は堅固な法的基盤の上に立っている。もう一方は、まだ誰も異議を唱えていないという理由だけで存在している。

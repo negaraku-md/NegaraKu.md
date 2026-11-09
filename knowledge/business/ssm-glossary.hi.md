@@ -83,6 +83,7 @@ keywords:
   - "Form 9 SSM विकल्प"
   - "BLESS MalaysiaBiz"
   - "istilah SSM"
+framework: data-reference
 ---
 
 मलेशियाई कंपनी प्रशासन में आधा भ्रम शब्दावली का है। समान संक्षिप्ताक्षरों वाले दो रजिस्टर, असंबद्ध नामों वाले

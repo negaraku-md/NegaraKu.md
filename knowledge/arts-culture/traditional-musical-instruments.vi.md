@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "ngajat" }
 related: ["dikir-barat", "mak-yong", "wayang-kulit", "ngajat", "joget-and-zapin"]
 keywords: ["alat muzik tradisional", "kompang", "rebana", "gendang", "serunai", "sape", "muzik Melayu", "muzik Borneo", "JKKN"]
+framework: explainer
 ---
 
 Cùng một âm thanh lặp lại đằng sau gần như mọi buổi diễn nghệ thuật của Malaysia: nhịp da dê được vỗ theo nhóm ở đám cưới, cây sáo âm cao ngân nga mở màn wayang kulit, và tiếng gảy dây gỗ êm dịu ở nhà dài Sarawak. Các nhạc cụ tạo ra chúng thường xuất hiện trong nhiều bài viết về nghệ thuật — nên trang này gom chúng lại một chỗ.

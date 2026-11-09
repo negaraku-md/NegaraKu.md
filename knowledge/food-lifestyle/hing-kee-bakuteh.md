@@ -105,6 +105,7 @@ social:
 verificationNeeded:
   - "The MICHELIN Guide Kuala Lumpur & Penang selection is revised annually; this profile reflects the 2026 edition (announced November 2025). A newer edition — for example a 2027 list — may add, drop or re-rank this restaurant, so reconfirm its current Bib Gourmand status on guide.michelin.com before relying on it."
   - "Opening hours: the MICHELIN page lists unusually late hours (into the early morning) that vary by day and are frequently closed Mondays — confirm current hours directly with the restaurant, as they change."
+framework: profile
 ---
 
 Hing Kee Bakuteh, on Jalan Kepong in Kepong, is a long-running bak kut teh

@@ -72,6 +72,7 @@ related:
   - "penang-food"
 social:
   hashtags: ["#Neighbourwood", "#BibGourmand", "#SeberangPerai", "#PenangFood", "#Malaysia"]
+framework: profile
 ---
 
 Not every Penang MICHELIN address is on the island. **Neighbourwood** sits in

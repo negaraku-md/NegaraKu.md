@@ -70,6 +70,7 @@ relations:
   - { rel: "related-to", to: "sime-darby-group" }
 related: ["sime-darby-group", "ytl-group"]
 keywords: ["Genting", "Genting Berhad", "Resorts World Genting", "Genting Malaysia", "Genting Plantations", "कैसीनो मलेशिया", "जुआ क़ानून मलेशिया", "casino Malaysia", "gambling law Malaysia"]
+framework: profile
 ---
 
 कुआलालंपुर से एक घंटे की दूरी पर एक ठंडा पहाड़ी-चोटी रिज़ॉर्ट मलेशिया का एकमात्र स्थान है जहाँ एक कैसीनो क़ानूनी रूप से ताश के पत्ते बाँट सकता है। वह एकल, असामान्य लाइसेंस — गैर-मुसलमानों के लिए वैध, फिर भी मुसलमानों के लिए जुए पर इस्लामी-क़ानून प्रतिबंध के साथ-साथ चलता हुआ — Genting के केंद्र में है, जो मलेशिया के सबसे बड़े घरेलू समूहों में से एक है।

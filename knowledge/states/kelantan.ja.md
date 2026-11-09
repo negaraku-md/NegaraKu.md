@@ -99,6 +99,7 @@ relations:
   - { rel: "related-to", to: "johor" }
 related: []
 keywords: ["Kelantan", "Kota Bharu", "Kelantan Darul Naim", "ekonomi Kelantan", "kraf tangan Kelantan", "mak yong"]
+framework: profile
 ---
 
 マレーシア経済は、たいてい工場を通じて語られる。クランタンはその最も明白な例外である。製造業が同州のGDPに占める割合は2025年にわずか4.7%——13州の中で最も低い比重——であった一方、農業はほぼ5分の1を占めた。

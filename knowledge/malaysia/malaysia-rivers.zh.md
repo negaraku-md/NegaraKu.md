@@ -61,6 +61,7 @@ relations:
   - { rel: "related-to", to: "climate-and-biodiversity" }
 related: ["peninsular-and-borneo", "geography-overview", "climate-and-biodiversity"]
 keywords: ["Sungai Rajang", "Sungai Kinabatangan", "Sungai Pahang", "sungai terpanjang Malaysia", "Sibu", "Kapit", "Pekan", "geografi Malaysia", "sungai di Sarawak", "sungai di Sabah"]
+framework: profile
 ---
 
 在泛婆罗洲大道（Lebuhraya Pan Borneo）或马腾航空（MASwings）的航班出现之前，要抵达砂拉越内陆，唯一的方法就是沿河而上、连续航行数日。如今的大城镇——诗巫、加帛、山打根、北根——并非偶然座落在各自的位置上。每一座城镇的位置都由河流决定：河口、两河交汇处，或是船只仍可航抵的最远点。拉让江、京那巴当岸河与彭亨河这三条河流，最清楚地展现了这个规律。

@@ -69,6 +69,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["minimum-wage-and-median-income", "inflation-cpi", "renting-a-home-tenancy", "fuel-subsidies"]
 keywords: ["cost of living Malaysia", "تكاليف المعيشة في ماليزيا", "Malaysia household expenditure", "DOSM household expenditure survey", "إنفاق الأسر في ماليزيا", "معدل التضخم في ماليزيا", "cost of living Kuala Lumpur", "دخل خط الفقر في ماليزيا", "ميزانية ماليزيا بحسب الولاية"]
+framework: data-reference
 ---
 
 ## لمحة سريعة

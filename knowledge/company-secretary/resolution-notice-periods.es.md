@@ -106,6 +106,7 @@ relations:
   - { rel: "related-to", to: "written-resolutions" }
 related: ["written-resolutions", "agm-requirements", "egm-requisition", "remove-a-director"]
 keywords: ["plazo de convocatoria resolución Malasia", "21 días resolución especial", "notificación especial 28 días", "convocatoria abreviada junta 90 por ciento", "sección 316 Companies Act 2016", "notice period resolution Malaysia", "section 316 Companies Act 2016"]
+framework: data-reference
 ---
 
 Pregunte a tres firmas secretariales malasias cuántos días de convocatoria necesita

@@ -121,6 +121,7 @@ keywords:
   - "MotoGP Sepang 2031"
   - "Sepang F1 hosting fee"
   - "Litar Antarabangsa Sepang"
+framework: profile
 ---
 
 2026年10月，一级方程式赛车将时隔九年再度在雪邦奔驰——而赛道旁的标识牌上写着的是*巴林大奖赛*。马来西亚在纸面上并非主办方，无需支付牌照费，也未曾游说争取重返赛历。它只是碰巧拥有一级方程式突然急需的那样东西：一条空置、就绪、顶级的赛道。

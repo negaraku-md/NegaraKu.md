@@ -87,6 +87,7 @@ verificationNeeded:
   - "Pemilihan MICHELIN Guide disemak setiap tahun; sahkan bahawa Hor Poh Cuisine masih memegang Bib Gourmand dalam edisi terkini MICHELIN Guide Kuala Lumpur & Penang sebelum bergantung padanya."
   - "Pelabelan tahun edisi tidak konsisten antara sumber — sesetengahnya merujuk pemilihan semasa sebagai edisi 2027 manakala bahan lain melabelkan senarai terkini sebagai 2026. Sahkan tahun edisi yang betul berdasarkan pengumuman rasmi majlis MICHELIN Guide."
   - "MICHELIN menyatakan bahawa gerai ini telah beroperasi 'selama lebih 20 tahun' tetapi tidak memberikan tahun penubuhan; tarikh pembukaan yang tepat tidak disahkan daripada sumber primer."
+framework: profile
 ---
 
 Hor Poh Cuisine ialah sebuah restoran Hakka yang bersahaja di daerah Segambut,

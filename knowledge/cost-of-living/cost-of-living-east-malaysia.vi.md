@@ -69,6 +69,7 @@ relations:
   - { rel: "located-in", to: "malaysia" }
 related: ["minimum-wage-and-median-income", "household-spending-breakdown"]
 keywords: ["cost of living Sabah", "cost of living Sarawak", "why is Sabah expensive", "cabotage policy Malaysia", "East Malaysia prices", "Sabah Sarawak household income", "PAKW index Malaysia", "price uniformity Sabah Sarawak Labuan"]
+framework: data-reference
 ---
 
 Mua một hộp Milo ở Klang và cũng hộp đó ở Kota Kinabalu, và mức giá hiếm khi trùng khớp. Bản thân sản phẩm chẳng có gì thay đổi — nó vẫn được làm ở Petaling Jaya, vẫn là hộp 400g y hệt. Điều thay đổi là vùng biển giữa nhà máy và kệ hàng, cùng các quy định vận chuyển chi phối việc băng qua nó.

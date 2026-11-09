@@ -82,6 +82,7 @@ verificationNeeded:
   - "سنة إصدار دليل MICHELIN Guide: يُعاد تقييم شارة Bib Gourmand سنويًا، ولا يربطها هذا الملف بإصدار بعينه. وأحدث إصدار منشور وقت الكتابة هو MICHELIN Guide Kuala Lumpur & Penang 2026 — لا تذكر إصدار 2027 إلى أن ينشره MICHELIN. تأكّد من أنّ Rasa Rasa ما زال يحمل Bib Gourmand في الإصدار الحالي على guide.michelin.com."
   - "العنوان: يُدرج MICHELIN العنوان 59 Gat Lebuh Chulia، لكنّ مراجعة واحدة على الأقل تذكر 25 Lebuh Melayu. اعتبر عنوان MICHELIN هو الحالي وتأكّد منه قبل نشر إرشادات الوصول."
   - "تختلف ساعات العمل اختلافًا طفيفًا بحسب اليوم في قائمة MICHELIN (نحو 08:30–16:00، مغلق الأربعاء) — تحقّق من الجدول الحالي، إذ يغلق المطبخ بعد الظهر."
+framework: profile
 ---
 
 **Rasa Rasa** هو تمامًا نوع المكان الذي اختُرعت من أجله شارة MICHELIN Bib Gourmand:

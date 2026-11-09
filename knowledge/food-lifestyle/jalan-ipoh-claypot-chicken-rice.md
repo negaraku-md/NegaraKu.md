@@ -90,6 +90,7 @@ social:
 verificationNeeded:
   - "The exact MICHELIN edition year is labelled inconsistently across sources — the official page carries no year, this stall was first awarded in the edition announced in November 2023 (the '2024' guide), while the Wikipedia Bib Gourmand list now shows a '2027' column as the latest. The selection is revised annually; confirm the current status on guide.michelin.com."
   - "The stall carries 'Jalan Ipoh' in its name but is located in Taman Kok Lian; confirm any historical link to Jalan Ipoh before stating it. Opening hours and closed days can change at a hawker stall — reconfirm before a visit."
+framework: profile
 ---
 
 Tucked into Taman Kok Lian, north of central Kuala Lumpur, a stall named for

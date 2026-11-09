@@ -86,6 +86,7 @@ relations:
   - { rel: "compares-with", to: "emphasis-of-matter-kam" }
 related: ["auditors-report-anatomy", "emphasis-of-matter-kam", "going-concern-audit", "statutory-audit-process", "audit-adjustments-tax"]
 keywords: ["أنواع رأي التدقيق ماليزيا", "الرأي المتحفّظ ماليزيا", "الرأي المعاكس", "الامتناع عن إبداء الرأي", "ISA 705 pervasive", "رأي تدقيق معدَّل Sdn Bhd", "audit opinion types Malaysia", "qualified opinion"]
+framework: explainer
 ---
 
 تُدرج كل صفحة منافِسة الآراء الأربعة وتعرّف كلاً منها في جملة. ولا تخبرك أيٌّ

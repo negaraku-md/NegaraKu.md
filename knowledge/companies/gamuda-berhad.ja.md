@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
+framework: profile
 ---
 
 Gamudaは、マレーシアの高速道路事業から出発し、成長を遂げて域内最大級のトンネル工事・鉄道請負業者の一つとなった。今日では、その業務のうちマレーシア国外が占める割合が高まっている。

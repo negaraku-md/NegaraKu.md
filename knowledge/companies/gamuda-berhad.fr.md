@@ -76,6 +76,7 @@ relations:
   - { rel: "related-to", to: "bursa-malaysia" }
 related: ["bursa-malaysia", "construction-industry"]
 keywords: ["Gamuda Berhad", "Gamuda order book", "MRT tunnelling", "Gamuda Land", "Malaysia construction", "Sydney Metro Gamuda", "Gamuda Taiwan MRT"]
+framework: profile
 ---
 
 Gamuda a commencé avec une autoroute malaisienne et est devenue l'un des plus grands entrepreneurs de tunnels et de ferroviaire de la région. Aujourd'hui, une part croissante de son activité se situe hors de Malaisie.

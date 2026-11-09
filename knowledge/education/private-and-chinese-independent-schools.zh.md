@@ -76,6 +76,7 @@ keywords:
   - "Unified Examination Certificate"
   - "national-type secondary school Malaysia"
   - "private education division Malaysia"
+framework: explainer
 ---
 
 问马来西亚家长什么是「私立学校」，他们心里想的可能是三种截然不同的东西：一所收费学校，教的课程与附近政府学校一模一样；一所国际学校，教授 Cambridge 或 IB 课程；又或者是一所华文独立中学（独中），应考的考试是华文教育圈以外大多数人从未听过的。这三者之中，只有一个应考 SPM，只有一个应考 UEC。把三者混为一谈，是最容易在孩子18岁时误判其选择的方式。

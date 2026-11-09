@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["tasa de retención de impuestos Malasia", "withholding tax rate Malaysia", "tasa sección 109B", "section 109B rate", "retención sección 107A", "CP37D", "tabla de retención de impuestos Malasia", "LHDN retención de impuestos"]
+framework: data-reference
 ---
 
 La tasa que necesita casi nunca está en la sección que está leyendo. La Sección

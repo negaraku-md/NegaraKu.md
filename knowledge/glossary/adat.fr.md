@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "syariah" }
 related: ["negeri-sembilan", "melaka", "federal-constitution", "yang-di-pertuan-agong", "syariah"]
 keywords: ["adat", "Adat Perpatih", "Adat Temenggung", "Malay customary law", "matrilineal", "patrilineal", "Negeri Sembilan", "Naning", "Minangkabau", "luak", "suku", "Undang", "Datuk Lembaga", "Malay custom Federal Constitution"]
+framework: explainer
 ---
 
 **Français :** Adat (droit coutumier malais) · **English:** Adat (Malay customary law) · **中文:** 马来习俗法（adat）

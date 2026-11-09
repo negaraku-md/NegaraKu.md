@@ -90,6 +90,7 @@ social:
 verificationNeeded:
   - "Danh sách tuyển chọn của MICHELIN Guide Malaysia (Kuala Lumpur & Penang) được điều chỉnh hằng năm. Hồ sơ này phản ánh ấn bản 2026; hãy xác nhận Bib Gourmand vẫn còn hiệu lực trong ấn bản mới nhất (danh sách tuyển chọn 2027 đang hình thành), vì các giải thưởng có thể được thêm vào hoặc gỡ bỏ mỗi năm."
   - "Năm thành lập (2018) và lai lịch người sáng lập (một cựu nhân viên đã nghỉ hưu của Hội đồng Thành phố Penang, Ranjit Singh) đến từ bài viết đặc biệt của MICHELIN; hãy xác nhận trực tiếp với nhà hàng nếu chi tiết chính xác là quan trọng."
+framework: profile
 ---
 
 Món ăn gia đình Punjabi không phải là điều đầu tiên mà hầu hết du khách liên

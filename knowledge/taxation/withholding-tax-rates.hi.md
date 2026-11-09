@@ -90,6 +90,7 @@ relations:
   - { rel: "explained-in", to: "withholding-tax-special-classes" }
 related: ["income-tax-in-malaysia", "withholding-tax-special-classes", "withholding-tax-digital-services", "withholding-tax-non-compliance", "cp37-forms"]
 keywords: ["रोक-कर दर मलेशिया", "withholding tax rate Malaysia", "धारा 109B दर", "section 109B rate", "धारा 107A रोक-कर", "CP37D", "रोक-कर तालिका मलेशिया", "LHDN रोक-कर"]
+framework: data-reference
 ---
 
 जिस दर की आपको आवश्यकता है वह लगभग कभी भी उस धारा में नहीं होती जिसे आप पढ़ रहे हैं। धारा 109B आपको "ऐसे भुगतानों पर लागू दर" से रोकने को कहती है और वहीं रुक जाती है — 10 प्रतिशत अनुसूची 1 के भाग V में है। धारा 109 भी यही करती है। दोनों को उद्धृत करने की आदत डालें, क्योंकि दर के बारे में कोई भी तर्क अनुसूची 1 के बारे में तर्क है।

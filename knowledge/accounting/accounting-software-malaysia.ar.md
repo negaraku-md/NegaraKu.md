@@ -71,6 +71,7 @@ relations:
   - { rel: "related-to", to: "sdn-bhd-bookkeeping" }
 related: ["sdn-bhd-bookkeeping", "mbrs-2-filing-guide", "mbrs-tagging-errors", "myinvois-integration", "e-invoice-accounting-records", "bookkeeping-in-house-vs-outsourced", "e-invoicing", "accounting-records-section-245"]
 keywords: ["برمجيات المحاسبة ماليزيا", "accounting software Malaysia", "برمجيات محاسبة متوافقة مع e-invoice", "برمجيات تكامل MyInvois", "برمجيات XBRL MBRS ماليزيا", "برمجيات محاسبة معتمدة من LHDN", "تصدير تصنيف SSMxT"]
+framework: decision
 ---
 
 قائمة برمجيات المحاسبة الماليزية جنسٌ أدبي محلول: عشرة منتجات، فقرة لكل منها،

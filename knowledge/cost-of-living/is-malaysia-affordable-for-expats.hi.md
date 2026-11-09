@@ -69,6 +69,7 @@ relations:
   - { rel: "related-to", to: "inflation-cpi" }
 related: ["cost-of-living-kuala-lumpur", "mm2h-long-stay-visa", "private-hospitals-and-costs", "international-schools", "minimum-wage-and-median-income", "inflation-cpi"]
 keywords: ["क्या मलेशिया प्रवासियों के लिए किफ़ायती है", "is Malaysia affordable for expats", "मलेशिया प्रवासी रहन-सहन की लागत", "cost of living Malaysia expats", "मलेशिया बनाम पश्चिमी रहन-सहन की लागत", "प्रवासी बजट मलेशिया", "digital nomad Malaysia affordability"]
+framework: data-reference
 ---
 
 ## एक नज़र में

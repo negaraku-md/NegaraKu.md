@@ -93,6 +93,7 @@ relations:
   - { rel: "related-to", to: "mdec" }
 related: ["digital-economy-overview", "mydigital-blueprint", "data-centre-cloud-industry"]
 keywords: ["ekonomi digital", "MSC Malaysia", "Koridor Raya Multimedia", "MyDIGITAL", "Malaysia Digital", "Kementerian Digital", "NAIO", "Wawasan 2020", "MDEC", "dasar digital"]
+framework: history-culture
 ---
 
 1996 में, मलेशिया ने कुआलालंपुर के दक्षिण में खेती की जमीन का एक हिस्सा चित्रित किया और उसे देश का भविष्य का प्रौद्योगिकी कॉरिडोर घोषित किया। लगभग तीन दशक बाद, राष्ट्रीय अर्थव्यवस्था जो हर चार में से लगभग एक रिंगिट उत्पन्न करती है वह स्क्रीन, सर्वर और ऑनलाइन शॉपिंग कार्ट के माध्यम से बहता है। उन दो बिंदुओं के बीच की यात्रा एक एकल छलाँग नहीं थी — यह जुड़ी हुई नीतियों की एक शृंखला थी, जिनमें से प्रत्येक पिछली को सुधारती या विस्तारित करती थी।

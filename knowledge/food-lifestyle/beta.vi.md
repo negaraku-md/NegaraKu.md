@@ -87,6 +87,7 @@ verificationNeeded:
   - "Sự ghi nhận của MICHELIN được nêu là hiện hành. Năm phiên bản chính xác còn mơ hồ giữa các nguồn: chính bài viết tuyển chọn đầy đủ của MICHELIN gắn nhãn danh sách này là MICHELIN Guide Kuala Lumpur & Penang 2026 (lễ trao ngày 11 tháng 11 năm 2025), trong khi một số đưa tin thứ cấp nhắc đến phiên bản '2027' được công bố ngày 4 tháng 11. Hãy xác nhận năm phiên bản chính xác và ngày công bố với thông cáo chính thức của MICHELIN."
   - "Các tuyển chọn của MICHELIN Guide được rà soát hằng năm; hồ sơ này phản ánh trạng thái hiển thị trong mục niêm yết hiện tại và nên được kiểm tra lại sau mỗi phiên bản mới."
   - "Mục niêm yết MICHELIN không nêu tên đầu bếp; đưa tin thứ cấp (The Star, Options The Edge) gán Beta cho đầu bếp Raymond Tham——hãy xác nhận trước khi nêu tên."
+framework: profile
 ---
 
 Beta là một nhà hàng fine dining Malaysia hiện đại trên Jalan Perak ở trung tâm

@@ -87,6 +87,7 @@ verificationNeeded:
   - "Año de la edición de la MICHELIN Guide: este perfil no fija el Bib Gourmand a una edición concreta porque la selección se reevalúa cada año. La edición más reciente publicada al momento de redactar es la MICHELIN Guide Kuala Lumpur & Penang 2026 — NO indique una edición 2027 hasta que MICHELIN la publique. Confirme que Nirwana sigue ostentando el Bib Gourmand en la edición vigente en guide.michelin.com."
   - "La relación entre la ficha MICHELIN 'Nirwana' y la marca/el sitio web 'Sri Nirwana Maju' (srinirwanamaju.com) — MICHELIN titula la entrada 'Nirwana' en 43 Jalan Telawi 3 pero enlaza el sitio de Sri Nirwana Maju. Confirme que son el mismo establecimiento y cuál es el nombre comercial actual."
   - "Horario de apertura (MICHELIN indica 11:30–23:00 a diario) — verifíquelo con el restaurante antes de publicar indicaciones para viajeros."
+framework: profile
 ---
 
 Pida el set del almuerzo en **Nirwana** y llega tal como debe ser el banana leaf

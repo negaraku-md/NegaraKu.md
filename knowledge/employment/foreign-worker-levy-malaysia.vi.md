@@ -90,6 +90,7 @@ relations:
   - { rel: "related-to", to: "employment" }
 related: ["hiring-foreign-workers-malaysia"]
 keywords: ["foreign worker levy malaysia", "levi pekerja asing", "multi tier levy", "mtlm", "levy rates by sector", "plks levy sabah sarawak"]
+framework: data-reference
 ---
 
 Hãy bắt đầu với điều khiến chủ đề này khó nghiên cứu: **không có văn kiện thuế lao động nước ngoài nào.**

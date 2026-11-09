@@ -90,6 +90,7 @@ verificationNeeded:
   - "The MICHELIN distinction here is described as Bib Gourmand, but the official listing page renders the award as an icon rather than text that could be captured directly; MICHELIN distinctions are revised annually, so confirm the current Bib Gourmand status against guide.michelin.com before quoting."
   - "The edition year: Malaysian press refers to a MICHELIN Guide Kuala Lumpur & Penang 2027 edition (reportedly announced 4 November 2026), while the latest independently confirmable official edition is 2026 — confirm which edition lists this stall against the official selection page."
   - "Operating hours (listed Tuesday–Saturday 12:00–18:00) come from the MICHELIN listing; a part-day charcoal stall's hours and days change often, so verify locally before travelling."
+framework: profile
 ---
 
 Among George Town's many char koay teow stalls, the one on Jalan Siam has earned

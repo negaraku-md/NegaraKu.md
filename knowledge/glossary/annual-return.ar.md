@@ -48,6 +48,7 @@ relations:
   - { rel: "related-to", to: "companies-act-2016" }
 related: ["companies-act-2016", "ssm", "sdn-bhd"]
 keywords: ["annual return Malaysia", "الإقرار السنوي ماليزيا", "pemulangan tahunan", "إيداع SSM", "امتثال الشركات في ماليزيا"]
+framework: explainer
 ---
 
 **بهاسا ماليزيا:** Pemulangan Tahunan · **الإنجليزية:** Annual Return · **الصينية:** 常年申报表

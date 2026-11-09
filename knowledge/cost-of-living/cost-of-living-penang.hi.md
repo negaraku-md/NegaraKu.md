@@ -73,6 +73,7 @@ relations:
   - { rel: "part-of", to: "malaysia" }
 related: ["penang", "minimum-wage-and-median-income", "household-spending-breakdown", "renting-a-home-tenancy", "klang-valley-rail"]
 keywords: ["पेनांग रहन-सहन की लागत", "cost of living Penang", "पेनांग बनाम क्लांग घाटी रहन-सहन की लागत", "Penang vs Klang Valley cost of living", "जॉर्ज टाउन किराया", "सेबेरांग पेराई", "पेनांग द्वीप बनाम मुख्य भूमि", "पेनांग घरेलू आय"]
+framework: data-reference
 ---
 
 पेनांग एकमात्र मलेशियाई राज्य है जहाँ "रहन-सहन की लागत" का उत्तर एक अकेली संख्या

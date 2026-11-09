@@ -75,6 +75,7 @@ keywords:
   - "sector licence Malaysia"
   - "BNM SC MCMC licence"
   - "Malaysian licensing authorities"
+framework: data-reference
 ---
 
 马来西亚没有一份商业执照的总清单。MalaysiaBiz 载有跨越联邦、州与地方当局的资讯，

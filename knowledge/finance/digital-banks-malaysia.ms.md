@@ -85,6 +85,7 @@ relations:
   - { rel: "related-to", to: "pidm-deposit-insurance" }
 related: ["bank-negara-malaysia", "pidm-deposit-and-takaful-insurance-protection"]
 keywords: ["digital banks Malaysia", "GXBank", "Boost Bank", "Ryt Bank", "AEON Bank", "KAF Digital Bank", "BNM digital banking licence", "PIDM"]
+framework: data-reference
 ---
 
 Anda kini boleh membuka akaun bank Malaysia tanpa perlu melangkah ke mana-mana cawangan, memesan kad debit, atau mengisi borang kertas — dan lima institusi berlesen sedang bersaing untuk melakukan semuanya menerusi telefon anda.

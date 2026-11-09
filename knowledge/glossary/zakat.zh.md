@@ -85,6 +85,7 @@ relations:
   - { rel: "administered-by", to: "majlis-agama-islam-negeri" }
 related: ["waqf-islamic-endowment-malaysia", "lhdn"]
 keywords: ["zakat", "zakat pendapatan", "nisab", "asnaf", "rebat cukai", "Seksyen 6A", "haul", "zakat fitrah"]
+framework: explainer
 ---
 
 每年，马来西亚数以百万计的穆斯林把财富中的2.5%交出——不是交给政府，而是交给各州的天课机构。对许多人而言，这笔款项还会一令吉一令吉地抵消他们的所得税单。天课立于功修与财务的交汇点，理解这两个面向，对任何穆斯林纳税人都至关重要。

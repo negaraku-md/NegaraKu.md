@@ -64,6 +64,7 @@ relations:
   - { rel: "related-to", to: "federal-constitution" }
 related: ["federal-constitution", "formation-of-malaysia-1963"]
 keywords: ["Merdeka 1957", "Malayan independence", "Tunku Abdul Rahman", "Reid Commission", "Stadium Merdeka"]
+framework: history-culture
 ---
 
 Vài phút sau nửa đêm ngày 31 tháng 8 năm 1957, trên padang (sân) trước Selangor Club cũ ở Kuala Lumpur, lá cờ Union Jack được hạ xuống và lá cờ của Liên bang Malaya mới được kéo lên. Đó là hình ảnh mà hầu hết mọi người mang theo về Merdeka — nhưng công việc thực sự của nền độc lập đã hoàn thành nhiều tháng trước đó, trong các phòng ủy ban ở London và Kuala Lumpur, bởi những người thương lượng về các điều khoản của một hiến pháp chưa tồn tại một năm trước đó.
