@@ -95,6 +95,21 @@ named-entity profiles, `contentType` is too weak to auto-apply — the workflow
 
 Corpus now: **579 tagged**; **749 untagged** (all Wave C).
 
+## Wave C — DONE (2026-11-09, held) → FULL COVERAGE
+
+The final wave: 749 `guide`-bucket families classified by a **63-agent workflow**
+(each reading ~12 articles cold by reader-job), reviewed before applying. 9,737
+files, metadata-only — validator 0 errors, freshness 0 stale, lint 0
+framework-signal warnings (the 4 journey-hubs already route). Only 11/749 came
+back low-confidence, all defensible.
+
+Distribution: explainer 361 · history-culture 121 · rules 117 · how-to 70 ·
+profile 55 · decision 13 · data-reference 8 · journey-hub 4.
+
+**🎯 Coverage: 1,328 / 1,328 published families tagged — 100%** (28 archived
+skipped). The whole rollout (pilot 32 + Wave A 250 + Wave B 297 + Wave C 749) is
+metadata-only and freshness-neutral: 0 translation debt across the entire corpus.
+
 ## Rollout waves
 
 **Wave A — high-confidence narrow types (~268 families).**
